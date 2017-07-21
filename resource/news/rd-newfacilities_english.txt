@@ -1,0 +1,9 @@
+GAME
+{
+	"Headline"	"Out With The Old In With The New!"
+	"HeadlineDate"	"02/02/54"
+	"Paragraph1"	"The new colony systems and facilities were officially brought online today. Oasis colonists need no longer hang their heads in shame, for we now boast one of the most modern colonies known to man."
+	"Paragraph2"	"The old systems were well past their time for decommission, being as they were the original systems that were built when the colony was first founded. The completion comes just in time to mark the 23rd anniversary of Planetfall here on Oasis, meaning that we shouldn't see a repeat of the rolling blackout during last year's celebrations."
+	"Paragraph3"	"The new systems include an integrated communication facility, an expansion of the medical facilities and a major overhaul to the colony's power grid."
+	"Paragraph4"	"Overall, it's a good day here in Oasis. Finally the administration would like to wish you all a happy Planetfall!"
+}

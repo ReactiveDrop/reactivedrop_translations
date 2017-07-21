@@ -1,0 +1,29 @@
+GAME
+{
+// PDA belongs to Windows
+// inbox
+
+"MailFrom1" "From: Childs"
+"MailDate1" "Date: 2/2/54"
+"MailSubject1" "Subject: Re: The Kennels"
+"MailBody1A" "Man, that was some weird shit that went down earlier."
+"MailBody1B" "When Bennings ran up to me, I thought that he and Mac 
+had gone crazy. Maybe Mac already has?"
+"MailBody1C" "And who would have thought that the flamethrower would actually come in handy?"
+
+"MailFrom2" "From: Childs"
+"MailDate2" "Date: 2/2/54"
+"MailSubject2" "Subject: Re:Re: The Kennels"
+"MailBody2A" "Not that i'm complaining, it definately saved our asses but doesn't it seem a little irresponsible leaving a highly
+volatile and downright dangerous weapon in the hands of a bunch of researchers with little to no outside contact
+for months on end?"
+"MailBody2B" "i mean all it takes is one of us to go a little nutty and we're all toast."
+
+// sent mail
+"MailFrom3" "To: Windows"
+"MailDate3" "Date: 2/2/54"
+"MailSubject3" "Subject: Re: The Kennels"
+"MailBody3A" "It begs the question, we're artic researchers not soldiers, what the hell are we doing with a flamethrower?
+what possible purpose does it serve us? why is it here?"
+"MailBody3B" "on that note keep an eye on Dr.Blair, he's seemed a bit on edge since the kennel incident."
+}

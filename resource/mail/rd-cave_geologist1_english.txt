@@ -1,0 +1,22 @@
+GAME
+{
+    // PDA belongs to cave_geologist1
+    
+    // inbox 
+	"MailFrom1"     "From: G.S.D."
+	"MailDate1"     "Date: 17/9/57"
+	"MailSubject1"   "Subject: Re: Preliminary results of the cave system"
+	"MailBody1A"     "Good work Herbert, based on the data you sent in your report, I'd have to agree with you. The cave system is too unstable to make it worth the risk to extract the iron ore."
+	"MailBody1B"     "I hope those laser devices they sent us has been useful to you. Unfortunately that new guy, Jenson got a little gun-ho with his and caused a cave in. Luckily no one was badly hurt, though the new guy's gonna wish he -was- in a coma when the administration get through with him."
+	"MailBody1C"     "Of course I know I won't have to remind you to be careful using it."
+	"MailBody1D"     "- Jeff Taylor, Geological Surveying Dept."
+
+   // sent mail
+	"MailFrom3"	"To: G.S.D."
+	"MailDate3"	"Date: 17/9/57"
+	"MailSubject3"	"Subject: Preliminary results of the cave system"
+	"MailBody3A"	"The cave system near the old comm outpost is comprised primarily of sandstone and other soft rocks. There are a few pockets of iron and other stronger material that allows the caves to exist to such an extensive degree."
+	"MailBody3B"	"I would have to advise against mining however, as the overall structure is unstable, in part due to the aforementioned composition of soft materials. I've included a more thorough report as an attachment."
+	"MailBody3C"	"As a side note: these cave systems are geologically very interesting. I have never come across an example of such extensive caves such as these forming without the presence of rain. If I didn't know any better, I might even say they aren't entirely natural but it's been confirmed that Tarnor never had the capability to cultivate any indigineous life."
+	"MailBody3D"    "- Herbert Graffson, Field Researcher, Geological Surveying Dept."
+}

@@ -1,0 +1,30 @@
+GAME
+{
+	//inbox
+
+"MailFrom1" "From: Ming"
+"MailDate1" "Date: 27/12/52"
+"MailSubject1" "BURN THEM!"
+"MailBody1A" "Sending those things to you was a mistake! I'm sorry!"
+"MailBody1B" "You need to kill all of your specimens, NOW!"
+"MailBody1C" "I'm holed up in an alcove in Timor Station, I can HEAR them. They're coming for me!."
+"MailBody1D" "KILL THEM OR GET OUT WHILE YOU STILL CAN"
+
+"MailFrom2" "From: Martin Jericho"
+"MailDate2" "Date: 27/12/52"
+"MailSubject2" "Re: Defrosting meat"
+"MailBody2A" "Hullen, you BASTARD!"
+"MailBody2B" "That thing you sent us wasn't dead! We took it near the lava and it came alive."
+"MailBody2C" "It killed Hodgson AND Jenny. You hear me, YOU KILLED JENNY!"
+"MailBody2D" "It bit me, I can feel something moving inside me... growing... I hate you."
+
+	//sent mail
+
+"MailFrom3" "To: Martin Jericho"
+"MailDate3" "Date: 26/12/52"
+"MailSubject3" "Desfrosting meat"
+"MailBody3A" "Hello Martin,"
+"MailBody3B" "I've recieved several specimens from Vereon XII, don't ask how. One of the specmens appears to have died during transport."
+"MailBody3C" "I can't use the incinerator here without the higher ups finding out, I'm sending it to your mines for disposal in one of the lava pits."
+"MailBody3D" "Hullen."
+} 

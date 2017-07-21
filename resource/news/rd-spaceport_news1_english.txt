@@ -1,0 +1,9 @@
+GAME
+{
+	"Headline"	"Explosion Rocks Spaceport!"
+	"HeadlineDate"	"05/10/57"
+	"Paragraph1"	"An explosion rocked the spaceport in the early hours of yesterday morning. From what has been pieced together by investigations, a cargo ship carrying biological samples suffered a mechanical failure causing the engines to initiate whilst spaceport engineers were working on them. For reasons unknown, the failsafes on the ship never activated and the engines exploded violently. Five people were seriously injured in the initial blast and numerous minor injuries were reported in the aftermath. Thankfully there were no fatalities."
+	"Paragraph2"	"Spaceport officials have offered their thoughts to those hurt in the blast but stated that it could have been much worse if it had occurred later in the day. The cargo ship's captain was unable to be found for an interview."
+	"Paragraph3"	"As a result, Hanger 4 will be closed for repairs for the next few days. Coupled with the refurbishment work in Terminal 5 and Hangers 7 and 8, expect to see severe delays and cancellations for the next few weeks."
+	"Paragraph4"	"[Excerpt from the news journal 'The Morning Star', sponsored by Oasis colony administration. Insert credit chip for full access to all articles]"
+}
