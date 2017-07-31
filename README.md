@@ -1,6 +1,6 @@
 # Alien Swarm: Reactive Drop Translations #
 
-This repository contains all the files required to translate [Alien Swarm: Reactive Drop](http://store.steampowered.com/app/563560/) user interface into any supported language. Reactive Drop(RD) supports all languages which are supported by Steam. You can also translate to an unsupported language but this will only work as a VPK addon file through workshop.
+This repository contains all the files required to translate [Alien Swarm: Reactive Drop](http://store.steampowered.com/app/563560/) user interface into any supported language. Reactive Drop(RD) supports all languages which are supported by Steam. You can also translate to an unsupported language but this will only work as a VPK add-on file through workshop.
 
 ### Pre-requisites ###
 
@@ -29,3 +29,21 @@ As a condition of providing a Contribution, you agree that:
 that you have the authority to grant this license to anyone, and that this
 license does not require the permission of any third party.  Otherwise, you
 provide your Contribution "as is" without warranties. 
+
+### How to translate? ###
+### Achievements
+Create a copy of file 563560_loc_english.vdf and rename it to your language(e.g. 563560_loc_ukrainian.vdf).
+Translate the contents of this file similarly to how 563560_loc_ukrainian.vdf is translated.
+> **Tip:** Most of achievements are same with Alien Swarm and they were already translated. You can find the translated achievements into for example reactivedrop_ukrainian.txt starting at ASW_KILL_WITHOUT_FRIENDLY_FIRE_NAME.
+### Mail and News
+Create a copy of each mail and news file and rename it to your language sufix(e.g. labsmail1_russian.txt). Translate the contents of each file. See labsmail1_russian.txt as an example.
+### BaseModUi, CloseCaption, GameUi, ReactiveDrop
+In these files(e.g. basemodui_czech.txt) the untranslated strings are indented by two tabs to be easily visible. Translate each indented line and remove the two tabs in front of it.
+### How to test your translation before submitting it ###
+* Set your Steam's interface language to the language you are translating into
+* Go into Steam - Library - Alien Swarm: Reactive Drop, right click and choose Properties. In the Language tab select the language you are translating into. 
+> **Note:** Changing Steam's interface langue will affect game's interface language. Changing language in game's properties tab will affect voice over sounds, subtitles, mail and news language.
+
+* Copy your files into respective folders in C:\Program Files (x86)\Steam\steamapps\common\Alien Swarm Reactive Drop
+### Got Questions? ###
+Feel free to ask them [here](http://steamcommunity.com/app/563560/discussions/1/). Prefix your question with [Translation] tag. 
