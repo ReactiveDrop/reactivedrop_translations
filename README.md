@@ -4,7 +4,7 @@ This repository contains all the files required to translate [Alien Swarm: React
 
 ### Pre-requisites ###
 
-* Any plain text editor. E.g. [Notepad++](https://notepad-plus-plus.org/)
+* Any unicode plain text editor. E.g. [Notepad++](https://notepad-plus-plus.org/)
 * Fork the repository, add your changes in your own fork, and then submit a pull request to merge in your changes.
 * If you have problems using forks or GIT you can submit your translation through the Issues tab by providing an archive.
 
@@ -31,6 +31,8 @@ license does not require the permission of any third party.  Otherwise, you
 provide your Contribution "as is" without warranties. 
 
 ### How to translate? ###
+### File Encoding
+Please make sure that your text editor preserves file's encoding. The new files you create need to have same encoding as their English counterpart(e.g. labsmail1_czech.txt needs to be UTF-8 encoded just like labsmail1_english.txt). If you use Notepad++ you can see the file's encoding in the menu Encoding.
 ### Achievements
 Create a copy of file 563560_loc_english.vdf and rename it to your language(e.g. 563560_loc_ukrainian.vdf).
 Translate the contents of this file similarly to how 563560_loc_ukrainian.vdf is translated.
