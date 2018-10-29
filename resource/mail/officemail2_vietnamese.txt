@@ -1,0 +1,22 @@
+GAME
+{
+    // PDA belongs to Lt. Cain
+    
+    // inbox 
+    
+	"MailFrom1"	"Từ: Laura Callen"
+	"MailDate1"	"Ngày: 12/21/52"
+	"MailSubject1"	"Tiêu đề: Lây nhiễm trong phòng thí nghiệm"
+	"MailBody1A"	"Lt. Cain,"
+	"MailBody1B"	"Tôi muốn 1 bản báo cáo đầy đủ về sự việc ở tầng 2. Bao gồm nguyên nhân rò rĩ, bản thiết kế, danh sách nhân sự làm việc trong phòng thí nghiệm, vân vân. Tôi khá mệt mỏi với việc yêu cầu điều này mỗi khi có việc xảy ra. Ông đáng nhẽ phải cập nhật tình hình cho tôi thường xuyên. "
+	"MailBody1C"	"Tôi mới từ ga Timor về. Có 1 báo cáo về 2 người công nhân mỏ mất tích. Nghe có vẻ như là 1 vấn đề liên quan tới bảo vệ. Vậy tại sao tôi ko hề thấy bất kỳ nhân viên nào của ông dưới đó vậy?"
+	"MailBody1D"	"L. Callen"
+
+
+	"MailFrom2"	"Từ: Laura Callen"
+	"MailDate2"	"Ngày: 12/23/52"
+	"MailSubject2"	"Tiêu đề: Fwd: Lây nhiễm trong phòng thí nghiệm"
+	"MailBody2A"	"Lt. Cain,"
+	"MailBody2B"	"Tôi vẫn không nhận bất kỳ cập nhật nào và đang cảm thấy mất kiên nhẫn rồi đấy. Ông hãy coi đây là thông báo chính thức rằng tôi sẽ báo cáo cách làm việc của ông với Interstellar Alliance. Tôi cũng đã yêu cầu thêm người của IA tới để có 1 cái nhìn rõ ràng hơn về tình hình hiện tại. Gặp tôi lúc 11.00 tại quầy lễ tân."
+	"MailBody2C"	"L. Callen"
+}

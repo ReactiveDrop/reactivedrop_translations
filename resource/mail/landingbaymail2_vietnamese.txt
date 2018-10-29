@@ -1,0 +1,18 @@
+GAME
+{
+    // PDA belongs to Laura
+    
+	"MailFrom1"	"Từ: Brad Campbell"
+	"MailDate1"	"Ngày: 12/18/52"
+	"MailSubject1"	"Tiêu đề: Re:Re: Kén"
+	"MailBody1A"    "Laura,"
+	"MailBody1B"	"2 người của ta đang mất tích. 1 số khác báo cáo nghe thấy tiếng động lạ khi đang tìm kiếm ở khu 24, ko biết là cái gì. Chỗ này sắp tanh bành tới nơi rồi."
+	"MailBody1C"	"Những người mới thế nào rồi?"
+
+	"MailFrom2"	"Từ: Brad Campbell"
+	"MailDate2"	"Ngày: 12/20/52"
+	"MailSubject2"	"Tiêu đề: Cần lắm 1 sự giúp đỡ"
+	"MailBody2A"	"Cortez, Jones and Stefani chết cả rồi. Tay chân bị mất. Chân của Jones nhìn như thể bị kẹp vào cái máy nghiền thịt vậy. Cain và 1 vài người của hắn đã tới sáng nay, một cách thực dụng và thô lỗ, hắn hỏi về đơn hàng số 4903877."
+	"MailBody2B"	"Họ bảo chúng tôi ở yên trong khi họ đi xunh quanh để tìm kiếm những người mất tích. Nhìn qua camera an ninh, tôi thấy họ xếp các container lên tàu. Chắc chắn là họ sẽ ko quay lại đâu. "
+	"MailBody2C"	"Chúng tôi không thể đi tới được khu phức hợp chính mà ko có xe. Dưới đấy phải 50 độ là ít. Cái méo gì đang xảy ra ở đây thế này?!?"
+}

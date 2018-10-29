@@ -1,0 +1,23 @@
+GAME
+{
+    // PDA belongs to Brian
+    
+    // inbox
+    
+	"MailFrom1"	"Từ: Helen Young"
+	"MailDate1"	"Ngày: 12/19/52"
+	"MailSubject1"	"Tiêu đề: Các cá thể tập trung nuôi con (Eusociality)"
+	"MailBody1A"	"Các phát hiện mới về Swarm:"
+	"MailBody1B"	"Chúng ta đang bị áp đảo về mặt con số. Mọi biểu đồ về tăng trưởng, tuổi thọ và trao đổi chất đều chỉ hoạt động với toàn bộ quần thể, thay vì các cá thể riêng lẻ. "  
+	"MailBody1C"	"Nhìn theo 1 khía cạnh nào đó, chúng là loài côn trùng tiên tiến, 1 dạng tiến hóa siêu cấp. Việc ngăn chặn đà phát triển của chúng là cực kỳ quan trọng."
+	
+	// sent mail
+
+	"MailFrom3" 	"Tới: Helen Young"
+	"MailDate3"	"Ngày: 12/19/52"
+	"MailSubject3"	"Tiêu đề: Re: ??!"
+	"MailBody3A"	"Cấu trúc quần thể xã hội?"
+	"MailBody3B"	"Nằm giữa các loài có vú to lớn khác? Tôi thấy khá nghi ngờ."  
+	"MailBody3C"	"Những cái kén đang là mỗi hiểm nguy, điều này là ko thể chối cãi. Chúng ta đang có vấn đề mới trong hôm nay. 1 nhân viên đã được tìm thấy trong trạng thái tử vong."
+	"MailBody3D"	"Tôi đồng ý rằng việc ngăn chặn là cấp thiết, nhưng chúng ta chưa nhìn trước được các khó khăn sẽ gặp phải."
+    }

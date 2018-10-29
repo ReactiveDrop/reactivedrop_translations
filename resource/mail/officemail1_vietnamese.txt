@@ -1,0 +1,18 @@
+GAME
+{
+    // PDA belongs to Lt Cain
+    
+	"MailFrom1"	"Từ: Shaun Ming"
+	"MailDate1"	"Ngày: 12/21/52"
+	"MailSubject1"	"Tiêu đề: Tests"
+	"MailBody1A"	"Lt. Cain,"
+	"MailBody1B"	"Mèo? Không ăn thua, quá nhỏ."
+	"MailBody1C"	"S. Ming"
+
+	"MailFrom2"	"Từ: Shaun Ming"
+	"MailDate2"	"Ngày: 12/22/52"
+	"MailSubject2"	"Tiêu đề: Tests 2"
+	"MailBody2A"	"Lt. Cain,"
+	"MailBody2B"	"Sẽ được mà. Tôi có thể cần thêm nữa. Có vấn đề gì không? Hy vọng là tôi sẽ ko cần phải nhấn mạnh thêm về tầm quan trọng của cuộc thí nghiệm nhỉ."
+	"MailBody2C"	"S. Ming"
+}

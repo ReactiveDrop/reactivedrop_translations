@@ -1,0 +1,24 @@
+GAME
+{
+    // PDA belongs to Shaun Ming
+    
+    // inbox
+    
+	"MailFrom1"	"Từ: John Cain"
+	"MailDate1"	"Ngày: 12/23/52"
+	"MailSubject1"	"Tiêu đề: Re: Chuẩn bị phòng thí nghiệm cho Helen Young"
+	"MailBody1A"	"Ming, mày có điên không? Sao mày lại kể lể cho Young về những gì mày phát hiện được? Tao đã nói rất rõ với mày rằng, KHÔNG MỘT AI bên ngoài SynTek được biết về những gì mày đang làm!"
+	"MailBody1B"	"Mọi thứ thậm chí còn tồi tệ hơn, vượt ra ngoài tầm kiểm soát. Tao mới quay về từ ga Timor và thấy chúng nó lan ra khắp nơi. Thế méo nào mà bọn nó chui được từ tầng 2 xuống được khu hầm vậy? "
+	"MailBody1C"	"Thêm nữa, mày đang làm gì trên phòng  atrium thế? "
+	"MailBody1D"	"Lt. Cain, SynTek Security."
+	
+	// sent mail
+
+	"MailFrom3"	"Tới: John Cain"
+	"MailDate3"	"Ngày: 12/23/52"
+	"MailSubject3"	"Tiêu đề: Re:Re: Chuẩn bị phòng thí nghiệm cho Helen Young"
+	"MailBody3A"	"Lt. Cain,"
+	"MailBody3B"	"Ăn nói cho cẩn thận. Tao ko phải cấp dưới của mày nhé. Young sẽ biết giữ mồm giữ miệng. Cô ấy đã rất xuất sắc và sự nghiệp của cô ta sẽ phụ thuộc vào việc này. Mày đã thấy mấy con bọ bò lổm ngổm dưới mỏ đúng không? Kỳ lạ ko? 1 lời giải thích rõ ràng cho việc này đó là: Những cái trứng đó đã hồi sinh lại sau khi chúng được rã đông. Và có đủ mồi ở đây để hoàn thiện vòng đời phát triển của chúng. Mày tự ngẫm đi."
+	"MailBody3C"	"Đừng có làm vấn đề thêm rắc rối nữa. Chúng ta vẫn đang kiểm soát nó. Một trong những cái kén đã biến mất hôm qua. Tao nghĩ nó đã chui qua các lỗ thông hơi xuống tầng dưới. Toàn bộ khu vục NW của tầng 1 đã bị khóa và niêm phong nên không có thứ gì có thể lọt ra ngoài đâu."
+	"MailBody3D"	"S. Ming"
+}

@@ -1,0 +1,12 @@
+GAME
+{
+    // PDA belongs to Helen Young
+    
+	"MailFrom1"	"Từ: Shaun Ming "
+	"MailDate1"	"Ngày: 12/22/52"
+	"MailSubject1"	"Tiêu đề: Tiến độ công việc"
+	"MailBody1A"	"Helen thân mến,"
+	"MailBody1B"	"Tôi đang cận kề với 1 trong những khám phá vĩ đại nhất trong vòng 200 năm qua. Tôi đã phân tích mã di truyền của những mẫu hữu cơ tìm được. Những dữ liệu tôi thu thập đã giúp hỗ trợ những giả thuyết của tôi về việc lý giải tại sao dạng sống của những sinh vật ngoài hành tinh lại có thể phát triển và sinh sản nhanh như vậy. Điểm mấu chốt của sự tái tạo mô cực nhanh là nhờ vào thịt sống, tươi và ấm!"
+	"MailBody1C"	"Tôi rất mong cô tới đây để tận mắt thấy điều này. Tôi đảm bảo cô sẽ đánh giá cao nó. Tôi sẽ cố gắng giúp đưa cô vào phòng thí nghiệm của Syntek. Hẹn sớm gặp cô."
+	"MailBody1D"	"Shaun"
+}

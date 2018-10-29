@@ -1,0 +1,19 @@
+GAME
+{
+    // PDA belongs to Rivera
+    
+    // inbox
+    
+	"MailFrom1"	"Từ: Laura Callen"
+	"MailDate1"	"Ngày: 12/23/52"
+	"MailSubject1"	"Tiêu đề: Trao đổi Email"
+	"MailBody1A"	"Mr. Rivera,"
+	"MailBody1B"	"Tôi đã hỏi ông về vấn đề tôi đang gặp phải từ 2 ngày trước. Ông nói rằng ông sẽ xem xét nó. Tới giờ, tôi vẫn chưa nhận được hồi âm. Sao lâu quá vậy?"
+	"MailBody1C"	"L. Callen"
+	
+	"MailFrom2"	"Từ: John Cain"
+	"MailDate2"	"Ngày: 12/24/52"
+	"MailSubject2"	"Tiêu đề: Re: Đang có những nghi vấn về Callen"
+	"MailBody2A"	"Rivera:  Ông lờ mụ Callen đi nhé và đừng có loanh quanh với mụ nữa. Gửi cho tôi tất cả các thư mà mụ đã gửi cho IA. "
+	"MailBody2B"	"Lt. Cain, SynTek Security."
+}

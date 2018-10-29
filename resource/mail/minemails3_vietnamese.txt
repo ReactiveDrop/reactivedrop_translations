@@ -1,0 +1,33 @@
+GAME
+{
+    // PDA belongs to Brad Campbell
+    
+    // inbox
+    
+	"MailFrom1"	"Từ: David Anders"
+	"MailDate1"	"Ngày: 12/12/52"
+	"MailSubject1"	"Tiêu đề: Đồ bảo vệ"
+	"MailBody1A"	"Jeez Brad, sức nóng đang quá mức chịu đựng rồi. Chúng tôi lại tìm thêm 1 mỏ nham thạch gần đường hầm số 11, ko thể cải thiện tình hình được nữa đâu. Hay là thử mấy bộ đồ bảo vệ?"
+	"MailBody1B"	"Dave"
+	
+	"MailFrom2"	"Từ: David Anders"
+	"MailDate2"	"Ngày: 12/14/52"
+	"MailSubject2"	"Tiêu đề: Daxol"
+	"MailBody2A"	"Brad,"
+	"MailBody2B"    "Mẹ kiếp. Tôi vừa mới nói chuyện với Pete và Kovac. Chúng nó thừa nhận là đã cho phép mọi người sử dụng Daxol, trái với quy định. Tôi vừa nghĩ rằng mọi chuyện đang dần trở lại bình thường. Giờ ông muốn tôi phải làm gì?"
+	
+	// sent mail
+
+	"MailFrom3"	"Từ: David Anders"
+	"MailDate3"	"Ngày: 12/12/52"
+	"MailSubject3"	"Subject: Re: Đồ bảo vệ"
+	"MailBody3A"	"Hi Dave,"
+	"MailBody3B"	"Tôi đã đặt hàng mấy món này từ lâu rồi. Không hiểu tại sao vẫn chưa tới. Giờ tôi chỉ có thể khiếu nại, nhưng cậu cũng biết là chả ích gì dâu. Tôi lại mới nghe phong thanh về việc lạm dụng Daxol đang tăng lên. Cậu có thể để ý hộ tôi việc này chứ?"
+	"MailBody3C"	"Cheers, Brad."
+
+	"MailFrom4"	"Tới: David Anders"
+	"MailDate4"	"Ngày: 12/14/52"
+	"MailSubject4"	"Tiêu đề: Re: Daxol"
+	"MailBody4A"	"David,"
+	"MailBody4B"    "Cảm ơn nhé. Tôi sẽ nói chuyện với họ. Tôi ko định sẽ báo cáo điều này lên trên. Như tôi đã nói từ trước, chúng ta nên trả tiền cho công nhân theo giờ làm việc, chứ ko phải theo tốc độ đào cái mấy cái hòn đá bỏ mie đấy. Giờ thì còn làm gì được nữa."
+}

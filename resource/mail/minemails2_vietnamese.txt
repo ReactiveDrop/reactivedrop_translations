@@ -1,0 +1,11 @@
+GAME
+{
+    // PDA belongs to Lt Cain
+    
+	"MailFrom1"	"Từ: Laura Callen"
+	"MailDate1"	"Ngày: 12/24/52"
+	"MailSubject1"	"Tiêu đề: Điều gì đến cũng sẽ phải đến"
+	"MailBody1A"	"Giờ này còn lệnh giới nghiêm?"
+	"MailBody1B"	"Quá muộn rồi."
+	"MailBody1C"	"Chúng ta cần lắm 1 sự can thiệp nghiêm túc và sâu sắc, nếu ko có thể chúng ta sẽ mất chỗ này."
+}

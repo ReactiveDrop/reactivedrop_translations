@@ -1,0 +1,24 @@
+GAME
+{
+    // PDA belongs to Brian Howe
+    
+    // inbox
+    
+	"MailFrom1"	"Từ: Helen Young"
+	"MailDate1"	"Ngày: 12/23/52"
+	"MailSubject1"	"Tiêu đề: Đóng cửa phòng Atrium!!"
+	"MailBody1A"	"Hi,"
+	"MailBody1B"	"Họ đã phải đóng cửa phòng Atrium sáng nay! Không chỉ góc phía Nam, mà toàn bộ cơ sở. Chúng tôi được thông báo rằng sự lây nhiễm đã lan từ tầng 2, thông qua hệ thống thông gió. Nhân viên an ninh đang canh gác toàn bộ khu vực phía tây bắc của tầng 1. Họ trông không thân thiện chút nào. "
+	"MailBody1C"	"Trong khi đó, tôi vừa mới nhận được 1 email từ gã Ming ngớ ngẩn sáng nay. Có vẻ như hắn và người của hắn vẫn đang làm việc trong phòng thí nghiệm, nghiên cứu mấy cái kén mới tìm được. Tôi khá chắc là mấy việc tên này đang làm không hề được phê duyệt từ phía IA. "
+	"MailBody1D"	"Gặp lại cô sau--Helen."
+
+    // sent mail
+    
+	"MailFrom3"	"Tới: Helen Young"
+	"MailDate3"	"Ngày: 12/23/52"
+	"MailSubject3"	"Tiêu đề: Re: Đóng cửa phòng Atrium!"
+	"MailBody3A"	"Helen, mọi thứ đang khá tồi tệ dưới này. Chúng tôi lại tìm thấy thêm 1 xác chết trong tối nay, đã bị nuốt mất 1 phần. Có cái gì đó ở dưới này. Một thứ gì đó. Cain với 1 tá cộng sự xuất hiện, đi thang máy xuống ga Timor, và bảo chúng tôi ở yên đây. Một lúc sau, chúng tôi nghe thấy tiếng súng nổ."
+	"MailBody3B"	"Khi Cain quay lại, hắn chỉ còn có 2 người, bị thương khá nặng. Cain bảo tôi đưa người của tôi ra khỏi khu hầm mỏ. Tôi bảo hắn điều này không thể làm được, vì người của tôi đang ở rải rác khắp nơi. Hắn nhún vai và nói đấy là việc của tôi rồi bỏ đi. "
+	"MailBody3C"	"Vì vậy, tôi đã đi cùng với Dave và Tom. Chúng tôi sẽ đi tìm những công nhân bị mất tích lần chót. Tôi muốn cô thông báo với đặc vụ của IA, cô Laura Callen về chuyện này. Hãy nói cho cô ấy về Ming. Laura là người duy nhất có đủ thẩm quyền để ngăn cản Cain."
+	"MailBody3D"	"Bảo trọng!  Brian."
+}

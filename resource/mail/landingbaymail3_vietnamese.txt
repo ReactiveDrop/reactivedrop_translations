@@ -1,0 +1,31 @@
+GAME
+{
+    // PDA belongs to Lt. Cain
+    
+    // inbox
+    
+	"MailFrom1"	"Từ: Laura Callen"
+	"MailDate1"	"Ngày: 12/18/52"
+	"MailSubject1"	"Tiêu đề: Tiền đồn số 17"
+	"MailBody1A"	"Lt. Cain, chúng tôi mới nhận được tin từ B. Campbell rằng đơn hàng số 4903877 chứa những vật liệu hữu cơ ko rõ nguồn gốc, tất cả đều được đông lạnh và lưu trữ trong các thùng container. Điểm đến của đơn hàng này là Trạm nghiên cứu Syntec/Trái đất."
+	"MailBody1B"	"Tôi sẽ cần lời giải thích từ phía người của ông và cần ông giúp tôi tìm ra ai là kẻ đã cố tình vi phạm luật hạn chế số #77-C. (IA cần phải được thông báo về các hoạt động vận chuyển vật liệu hữu cơ không rõ nguồn gốc xuống Trái Đất; 77-C/1.1.4)"
+	"MailBody1C"	"Campbell cũng báo cáo thêm về sự mất ích của 1 số công nhân. Đơn vị bảo vệ thuộc trách nhiệm của ông. Vì vậy, tôi hy vọng ông sẽ điều động quân số đủ để đảm bảo an ninh trong khu vực."
+	"MailBody1D"	"L. Callen"
+	
+	"MailFrom2"	"Từ: Alena"
+	"MailSubject2"	"Tiêu đề: Re: Hế lu"
+	"MailDate2"	"Ngày: 11/15/52"
+	"MailBody2A"	"Hế nhô,"
+	"MailBody2B"	"Làm việc bên ngoài cơ sở là 1 trải nghiệm khá cô đơn. Phần mềm hẹn hò Starfire SubNet sẽ giúp bạn bớt buồn chán. Gặp nhau tâm sự, hoặc tiến xa hơn? Gọi số (+490387439)"
+	"MailBody2C"	"Alena,"
+	"MailBody2D"	"xxx"
+	
+	// sent mail
+
+	"MailFrom3"	"Tới: Laura Callen"
+	"MailDate3"	"Ngày: 12/21/52"
+	"MailSubject3"	"Tiêu đề: Tiền đồn số 17"
+	"MailBody3A"	"Ms. Callen,"
+	"MailBody3B"	"Tôi biết rất rõ luật hạn chế số  #77-C. Khi lục soát khu tiền đồn 17 và tìm thấy gói hàng sống đó, chúng tôi đã niêm phong và đưa về khu 39. Nó sẽ ở đấy cho tới khi chúng tôi nhận chỉ thị từ Interstellar Alliance về cách xử lý. Chúng tôi cũng đã tìm thấy những người mất tích. Đây không phải lần đầu chúng tôi có vài gã say xỉn và biến mất 1-2 hôm. Ở Vereon XII, không có cái gì sẽ biến mất hoàn toàn cả, tôi đảm bảo mọi thứ sẽ lại đâu vào đấy. Mr. Campbell theo lệnh ở trên, sẽ có nhiệm vụ cập nhật tình hình cho tôi sau mỗi 6 tiếng."
+	"MailBody3C"	"Lt. Cain, SynTek Security."
+}
