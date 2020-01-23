@@ -35,6 +35,14 @@
 	{
 		"tokens"
 		{
+			"#Main_Menu"	"Menu Principal"
+			"#Watching_a_Demo"	"Regarde une démo"
+			"#Briefing_Generic"	"Briefing"
+			"#Deathmatch_DM_Generic"	"Match à mort"
+			"#Deathmatch_TDM_Generic"	"Match à mort en équipe"
+			"#Deathmatch_GG_Generic"	"Gun Game"
+			"#Deathmatch_IG_Generic"	"Mort Instantanée"
+			"#Generic"	"En Mission"
 			"#Difficulty_Easy"	"Facile"
 			"#Difficulty_Normal"	"Normal"
 			"#Difficulty_Hard"	"Avancé"
