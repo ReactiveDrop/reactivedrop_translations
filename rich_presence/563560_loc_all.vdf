@@ -46,6 +46,14 @@
 	{
 		"tokens"
 		{
+			"#Main_Menu"	"Главное меню"
+			"#Watching_a_Demo"	"Смотрит демо"
+			"#Briefing_Generic"	"Брифинг"
+			"#Deathmatch_DM_Generic"	"Deathmatch"
+			"#Deathmatch_TDM_Generic"	"Team Deathmatch"
+			"#Deathmatch_GG_Generic"	"Gun Game"
+			"#Deathmatch_IG_Generic"	"InstaGib"
+			"#Generic"	"В миссии"
 			"#Difficulty_Easy"	"Лёгкий"
 			"#Difficulty_Normal"	"Средний"
 			"#Difficulty_Hard"	"Тяжелый"
@@ -57,6 +65,14 @@
 	{
 		"tokens"
 		{
+			"#Main_Menu"	"Головне меню"
+			"#Watching_a_Demo"	"Дивиться демо"
+			"#Briefing_Generic"	"Брифінг"
+			"#Deathmatch_DM_Generic"	"Deathmatch"
+			"#Deathmatch_TDM_Generic"	"Team Deathmatch"
+			"#Deathmatch_GG_Generic"	"Gun Game"
+			"#Deathmatch_IG_Generic"	"InstaGib"
+			"#Generic"	"У місії"
 			"#Difficulty_Easy"	"Легка"
 			"#Difficulty_Normal"	"Нормальна"
 			"#Difficulty_Hard"	"Важка"
