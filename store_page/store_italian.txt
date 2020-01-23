@@ -1,6 +1,6 @@
 Descrizione Breve:
 
-Gioco sparatutto cooperativo, con visuale isometrica e disponibile gratuitamente. Il gioco scaraventa il giocatore in una epica caccia all'insetto, caratterizzata da una peculiare commistione di gioco cooperativo e tattiche di squadra.
+Gioco sparatutto cooperativo, con visuale isometrica e disponibile gratuitamente. Il gioco scaraventa il giocatore in una epica caccia all'insetto, caratterizzata da una peculiare miscela di gioco cooperativo e tattiche di squadra.
 
 Informazioni sul gioco:
 
@@ -16,6 +16,6 @@ Alien Swarm: Reactive Drop estende Alien Swarm aggiungendo mappe, alieni, modali
 [*]Nuovi Alieni: Le Guardie Antlion di HL2 e molto altro
 [*]Nuove Armi: La Desert Eagle, il Devastator ed il Fucile da Combattimento. Con molte altre armi in arrivo
 [*]Più di 100 Achievement di Steam
-[*]Classifiche: Competi con i tuoi amici per vedere che riesce a completare le missioni più velocemente
+[*]Classifiche: Competi con i tuoi amici per vedere chi riesce a completare le missioni più velocemente
 [*]Visuale spettatore migliorata: puoi vedere i mini giochi di hacking ed il movimento del mouse del giocatore in tempo reale
 [/list]
