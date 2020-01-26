@@ -181,4 +181,35 @@
 			"#Difficulty_Brutal"	"殘酷"
 		}
 	}
+	"vietnamese"
+	{
+		"tokens"
+		{
+			"#Main_Menu"	"Nội dung chính"
+			"#Watching_a_Demo"	"Đang xem một đoạn giới thiệu"
+			"#Briefing_Campaign"	"Chiến dịch: %rd_campaign% - %rd_mission%"
+			"#Deathmatch_DM_Campaign"	"%rd_mission%, Sinh tồn, %num_players%/%max_players%"
+			"#Deathmatch_TDM_Campaign"	"%rd_mission%, Sinh tồn theo đội, %num_players%/%max_players%"
+			"#Deathmatch_GG_Campaign"	"%rd_mission%, Bắn súng, %num_players%/%max_players%"
+			"#Deathmatch_IG_Campaign"	"%rd_mission%, InstaGib, %num_players%/%max_players%"
+			"#Challenge_Campaign"	"%rd_challenge%: %rd_campaign% - %rd_mission%"
+			"#Campaign"	"%rd_campaign% - %rd_mission%"
+			"#Campaign_Difficulty"	"%rd_mission%, {#Difficulty_%rd_difficulty%}, %num_players%/%max_players%"
+			"#Campaign_Difficulty_Challenge"	"%rd_mission%, {#Difficulty_%rd_difficulty%}, %num_players%/%max_players%, %rd_challenge%"
+			"#Debrief_Campaign"	"Debriefing: %rd_campaign% - %rd_mission%"
+			"#Briefing_Generic"	"Briefing"
+			"#Deathmatch_DM_Generic"	"Sinh tồn"
+			"#Deathmatch_TDM_Generic"	"Sinh tồn theo nhóm"
+			"#Deathmatch_GG_Generic"	"Game bắn súng"
+			"#Deathmatch_IG_Generic"	"InstaGib"
+			"#Challenge_Generic"	"%rd_challenge%"
+			"#Generic"	"Đang trong nhiệm vụ"
+			"#Debrief_Generic"	"Trao đổi"
+			"#Difficulty_Easy"	"Dễ"
+			"#Difficulty_Normal"	"Bình thườngl"
+			"#Difficulty_Hard"	"Khó"
+			"#Difficulty_Insane"	"Cực khó"
+			"#Difficulty_Brutal"	"Siêu khól"
+		}
+	}
 }
