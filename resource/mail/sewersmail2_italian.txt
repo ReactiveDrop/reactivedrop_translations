@@ -1,0 +1,11 @@
+GAME
+{
+    // PDA di proprietà di Brian
+	"MailFrom1"	"Da: Helen Young"
+	"MailDate1"	"Data: 12/24/52"
+	"MailSubject1"	"Soggetto: Andando ai laboratori"
+	"MailBody1A"	"Brian, che diavolo sta succedendo?  Colpi di pistola?  Urla?  Phil e io abbiamo provato ad accedere ai laboratori.  Useremo il sistema di condotti sul Ponte 2."
+	"MailBody1B"	"Ti amo.  Contattami, ti prego!"
+	"MailBody1C"	"Helen"
+	"MailBody1D"	"PS: Buon Compleanno, per quello che vale."
+}

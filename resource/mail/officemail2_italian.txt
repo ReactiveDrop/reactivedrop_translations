@@ -1,0 +1,23 @@
+GAME
+{
+    // PDA di proprietà di Lt. Cain
+    
+    // inbox 
+    
+	"MailFrom1"	"Da: Laura Callen"
+	"MailDate1"	"Data: 12/21/52"
+	"MailSubject1"	"Soggetto: Contaminazione laboratorio"
+	"MailBody1A"	"Lt. Cain,"
+	"MailBody1B"	"Voglio un rapporto completo sugli eventi sul ponte 2. Includere la natura della fuga, i progetti, l'elenco del personale con autorizzazione ai laboratori, ecc.
+Mi sto stancando di doverlo chiedere ogni volta che succede qualcosa. Dovresti tenermi aggiornato regolarmente."
+	"MailBody1C"	"Sono appena tornato dalla stazione di Timor. C'è un altro rapporto di due minatori scomparsi. Sembra vagamente un problema di sicurezza. Allora perché non ho visto nessuno dei tuoi collaboratori laggiù?"
+	"MailBody1D"	"L. Callen"
+
+
+	"MailFrom2"	"Da: Laura Callen"
+	"MailDate2"	"Data: 12/23/52"
+	"MailSubject2"	"Soggetto: Fwd: Contaminazione laboratorio"
+	"MailBody2A"	"Lt. Cain,"
+	"MailBody2B"	"Ancora nessun aggiornamento. Ho perso la pazienza. Considera questa mail un avviso formale che presenterò un rapporto sul tuo comportamento all'Alleanza interstellare. Sto anche ordinando ulteriore personale IA a Vereon XII al fine di ottenere un quadro chiaro della situazione. Mi aspetto che mi incontriate alle 1100 alla reception."
+	"MailBody2C"	"L. Callen"
+}

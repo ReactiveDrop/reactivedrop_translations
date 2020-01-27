@@ -1,0 +1,24 @@
+GAME
+{
+    // PDA di proprietà di Lt Cain
+    
+    // inbox
+    
+	"MailFrom1"	"Da: Shaun Ming"
+	"MailDate1"	"Data: 12/21/52"
+	"MailSubject1"	"Soggetto: Sfondamento"
+	"MailBody1A"	"Lt. Cain,"
+	"MailBody1B"	"Grande successo oggi. Sono riuscito a isolare e decodificare grandi parti del progetto genetico della forma di vita aliena. Questa creatura è sorprendente, non ho mai visto nulla di simile. Ho anche imparato molto sul ciclo di vita degli alieni. Ora per la parte spiacevole:"
+	"MailBody1C"	"Ho bisogno che porti tutti fuori dai laboratori tranne gli scienziati che lavorano sotto di me. A nessuno dovrebbe essere permesso di entrare nel Ponte 2. Per testare i miei presupposti su come lo Sciame raggiunga la maturità, ho bisogno di qualcosa di vivo. Ci credo dovrebbe avere almeno le dimensioni di un cane per soddisfare i loro appetiti. Posso contare su di te?"
+	"MailBody1D"	"S. Ming"
+
+    // mail spedita
+    
+	"MailFrom3"	"A: Shaun Ming"
+	"MailDate3" "Data: 12/21/52"
+	"MailSubject3"	"Soggetto: Re: Sfondamento"
+	"MailBody3A"	"Mr Ming,"
+	"MailBody3B"	"1) Come se fosse già fatto."
+	"MailBody3C"	"2) Vedrò cosa posso fare."
+	"MailBody3D"	"Lt. Cain, Sicurezza SynTek."
+}

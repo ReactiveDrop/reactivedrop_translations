@@ -1,0 +1,31 @@
+GAME
+{
+    // PDA di proprietà di SysAdmin
+    
+    // inbox
+    
+	"MailFrom1"	"Da: Phil Ryan"
+	"MailDate1"	"Data: 12/20/52"
+	"MailSubject1"	"Soggetto: Spam!"
+	"MailBody1A"	"Mr. Rivera,"
+	"MailBody1B"	"Penso di parlare a nome di tutti qui. Puoi PER FAVORE fare qualcosa per lo spam? Aggiorna i filtri della posta in arrivo o qualsiasi altra cosa, suppongo tu sappia cosa fare, ma per l'amor di Dio fai qualcosa! Un nichel per ogni pezzo di merda che ho ricevuto nell'ultimo mese e sarei pronto per la vita."
+	"MailBody1C"	"Phil Ryan."
+	
+	"MailFrom2"	"Da: Dr. Miller"
+	"MailSubject2"	"Fwd: Ph4rm4 4 U"
+	"MailDate2"	"Data: 12/12/52"
+	"MailBody2A"	"Get all the good stuff legally over SynNet!!"
+	"MailBody2B"	"Isoth4m1ne 23 a soli 99$/pacchetto, tutto incluso"
+	"MailBody2C"	"Spedizione interstellare disponibile."
+	"MailBody2D"	"Is0tham1ne 23 ti farà sentire fresco, forte e riposato per un'intera giornata lavorativa !! I tuoi supervisori lo stanno prendendo - perché tu non dovresti?"
+
+    // mail spedita
+
+	"MailFrom3"	"A: Phil Ryan"
+	"MailDate3"	"Data: 12/20/52"
+	"MailSubject3"	"Soggetto: Re: Spam!"
+	"MailBody3A"	"Caro Sig,"
+	"MailBody3B"	"Grazie per la tua mail e il tuo interesse per l'azienda. Abbiamo studiato attentamente la sua richiesta e non appena uno dei nostri agenti sarà disponibile, verrà assegnato al problema. Non rispondere a questa email. Ti contatteremo al più presto."
+	"MailBody3C"	"Gestione SynTek/Sys. Admin."
+	"MailBody3D"	"Rivera, C."	
+}

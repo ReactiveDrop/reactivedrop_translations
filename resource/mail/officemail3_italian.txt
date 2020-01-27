@@ -1,0 +1,24 @@
+GAME
+{
+    // PDA di proprietà di Brian Howe
+    
+    // inbox
+    
+	"MailFrom1"	"Da: Helen Young"
+	"MailDate1"	"Data: 12/23/52"
+	"MailSubject1"	"Soggetto: Atrio chiuso!!"
+	"MailBody1A"	"Ciao,"
+	"MailBody1B"	"Stamattina hanno dovuto chiudere l'Atrio! Non solo l'ala sud, ma l'intera struttura. Ci è stato detto che la contaminazione si è diffusa dal ponte 2 attraverso il sistema di ventilazione. Il personale di sicurezza sta sorvegliando l'intera sezione nord-occidentale del ponte 1. Sono abbastanza ostili."
+	"MailBody1C"	"Nel frattempo, stamattina ho ricevuto una mail da quell'idiota di Ming. Sembra che lui e i suoi uomini stiano ancora lavorando nei laboratori, studiando quelle uova che hai scoperto. Sono certo che il suo lavoro non ha l'approvazione dell'IA."
+	"MailBody1D"	"Ci vediamo dopo--Helen."
+
+    // mail spedita
+    
+	"MailFrom3"	"A: Helen Young"
+	"MailDate3"	"Data: 12/23/52"
+	"MailSubject3"	"Soggetto: Re: Atrio chiuso!"
+	"MailBody3A"	"Helen, le cose vanno male qui! Abbiamo trovato un altro corpo stanotte. Questo parzialmente divorato. Qualcosa è quaggiù. Qualcosa. Caino e una dozzina del suo equipaggio si presentarono, presero l'ascensore fino alla stazione di Timor, dicendoci di rimanere indietro. Poco dopo, abbiamo sentito degli spari."
+	"MailBody3B"	"Quando Cain è tornato, era ridotto a due uomini, entrambi gravemente feriti. Cain, mi ha detto che dovevamo estrarre il nostro equipaggio dalla miniera. Ho detto che era impossibile, sono sparsi dappertutto. Se ne è lavato le mani. Ha detto che era un mio problema ora. Poi se nè andato."
+	"MailBody3C"	"Quindi porterò Dave e Tom con me. Faremo un'ultima ricerca per i lavoratori scomparsi. Vorrei che lo informassi con l'agente IA Laura Callen. Mentre ci sei, dille di Ming. È l'unica con l'autorità di opporsi a Cain."
+	"MailBody3D"	"Fai attenzione!  Brian."
+}

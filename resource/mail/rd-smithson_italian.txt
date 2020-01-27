@@ -1,0 +1,31 @@
+GAME
+{
+    // PDA di proprietà di Andrew Smithson
+    
+    // inbox 
+	"MailFrom1"     "Da: James Shluger"
+	"MailDate1"     "Data: 09/10/57"
+	"MailSubject1"   "Soggetto: Porta difettosa"
+	"MailBody1A"     "Andrew,"
+	"MailBody1B"     "La porta della tromba delle scale vicino all'hangar 7 sta dando di nuovo problemi, potresti andare laggiù e vedere cosa puoi farci? Grazie."
+	"MailBody1C"     ""
+	"MailBody1D"     ""
+
+	"MailFrom2"     "Da: Oasis HR"
+	"MailDate2"     "Data: 02/10/57"
+	"MailSubject2"   "Soggetto: Feedback applicazione"
+	"MailBody2A"     "Caro Mr. Smithson,"
+	"MailBody2B"     "La tua domanda di ruolo di tecnico all'interno delle strutture di ricerca è stata esaminata. Siamo spiacenti di dire che la tua richiesta è stata respinta in questo momento. Tuttavia, terremo una registrazione dei tuoi dati nel caso in cui qualcosa si presenti."
+	"MailBody2C"     "L'Amministrazione vorrebbe cogliere l'occasione per ringraziarti per il tuo interesse e ti augura buona fortuna per tutti gli sforzi futuri."
+	"MailBody2D"     "Jonas White - Risorse Umane, Colonia Oasis"
+
+   // sent mail
+	"MailFrom3"	"A: Henry Smithson"
+	"MailDate3"	"Data: 09/10/57"
+	"MailSubject3"	"Soggetto: Re:Re:Re:ciao"
+	"MailBody3A"	"È facile per te dirlo, non sei quello bloccato in questo lavoro senza cervello. Lo giuro, se devo riparare un'altra tastiera oggi, penso che impazzirò!"
+	"MailBody3B"	"e non è la cosa peggiore ... le ultime settimane, a volte quando lavoro da solo, giuro di poter sentire qualcosa che striscia nelle prese d'aria. Forse sono solo paranoico ma ... beh, ricordi cosa è successo a quella colonia mineraria un paio di anni fa?"
+	"MailBody3C"	""
+	"MailBody3D"    "Andy"
+
+}

@@ -1,0 +1,9 @@
+GAME
+{
+	"Headline"	"Esplosione scuote lo Spazioporto!"
+	"HeadlineDate"	"05/10/57"
+	"Paragraph1"	"Un'esplosione ha scosso lo spazioporto nelle prime ore di ieri. Da quanto è stato messo insieme dalle indagini, una nave mercantile che trasportava campioni biologici ha subito un guasto meccanico che ha provocato l'avvio dei motori mentre gli ingegneri dello spazioporto stavano lavorando su di essi. Per ragioni sconosciute, i sistemi di sicurezza sulla nave non si sono attivati ​​e i motori sono esplosi violentemente. Cinque persone sono rimaste gravemente ferite nell'esplosione iniziale e numerose conseguenze lievi sono state riportate in seguito. Per fortuna non ci sono state vittime."
+	"Paragraph2"	"I funzionari dello spazioporto hanno offerto il loro pensiero ai feriti nell'esplosione ma hanno affermato che avrebbe potuto essere molto peggio se si fosse verificato più tardi nella giornata. Il capitano della nave mercantile non è stato trovato per un'intervista."
+	"Paragraph3"	"Di conseguenza, l'Hanger 4 sarà chiuso per riparazioni per i prossimi giorni. Insieme ai lavori di ristrutturazione nel Terminal 5 e negli Hangar 7 e 8, si aspettano gravi ritardi e cancellazioni per le prossime settimane."
+	"Paragraph4"	"[Estratto dal giornale "The Morning Star", sponsorizzato dall'amministrazione della colonia Oasis. Inserisci chip di credito per l'accesso completo a tutti gli articoli]"
+}

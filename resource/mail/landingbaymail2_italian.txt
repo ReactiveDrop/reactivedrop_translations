@@ -1,0 +1,18 @@
+GAME
+{
+    // PDA di proprietà di Laura
+    
+	"MailFrom1"	"Da: Brad Campbell"
+	"MailDate1"	"Data: 12/18/52"
+	"MailSubject1"	"Soggetto: Re:Re: Uova"
+	"MailBody1A"    "Laura,"
+	"MailBody1B"	"Due dei miei uomini sono irraggiungibili. Un gruppo ha riferito strani rumori durante la ricerca nel settore 24. Potrebbe essere stato qualsiasi cosa. Questo posto sta andando in pezzi."
+	"MailBody1C"	"Cosa è successo agli uomini extra?"
+
+	"MailFrom2"	"Da: Brad Campbell"
+	"MailDate2"	"Data: 12/20/52"
+	"MailSubject2"	"Soggetto: Ho bisogno di aiuto"
+	"MailBody2A"	"Cortez, Jones e Stefani sono morti. Arti mancanti. Jones sembra che le sue gambe siano state intrappolate in un tritacarne. Cain e alcuni dei suoi uomini sono arrivati ​​stamattina, davvero invadenti, chiedendo di consegnare 4903877."
+	"MailBody2B"	"Ci hanno detto di rimanere indietro fino a quando non avessero perquisito l'area per il resto del personale scomparso. Ho controllato un terminale di sicurezza, li ho visti caricare la nave mercantile con quei container. Inutile dire che non sono tornati."
+	"MailBody2C"	"Non saremo mai in grado di tornare al complesso principale senza un passaggio. Saranno 50 gradi sotto zero di là. Cosa sta succedendo?!?"
+}

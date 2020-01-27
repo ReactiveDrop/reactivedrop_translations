@@ -1,0 +1,9 @@
+GAME
+{
+	"Headline"	"50esimo anniversario dell'atto di espansione"
+	"HeadlineDate"	"02/12/52"
+	"Paragraph1"	"Oggi si sono tenute celebrazioni in tutta l'Alleanza Interstellare, mostrando il supporto per l'Atto di espansione Interstellare del 2202. Questa direttiva di grande successo consente a qualsiasi entità registrata di rivendicare pianeti, lune e persino interi sistemi stellari per diritto alla prima scoperta."
+	"Paragraph2"	"La legge è stata pesantemente utilizzata dalle grandi società, stimolando l'espansione e la colonizzazione nella storia umana. La legge è stata messa in atto per incoraggiare le persone a lasciare la Terra, dopo che un pericoloso sovraffollamento e alti costi della vita hanno messo in pericolo la stabilità del pianeta natale."
+	"Paragraph3"	"Numerosi manifestanti sono stati arrestati fuori dall'ambasciata centrale dell'IA dopo aver picchettato l'edificio, sostenendo che la legge è responsabile del frazionamento dell'umanità, citando il prescelto e il protettorato umanista come primi esempi. Un certo numero di estremisti incolpa anche l'Atto e l'IA per aver esposto l'umanità allo Sciame."
+	"Paragraph4"	"Le celebrazioni sono state sponsorizzate e organizzate da Trust Media, Paradise Supplies, United Industries e Megacorporazione SynTek, con un portavoce che ha dichiarato 'Rilassatevi, divertitevi, mostrate il vostro sostegno! E venite in uno dei nostri centri di reclutamento per abbracciare il futuro!'"
+}

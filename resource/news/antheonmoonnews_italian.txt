@@ -1,0 +1,9 @@
+GAME
+{
+	"Headline"	"I piani del IAF per riconquitare la Luna di Antheon"
+	"HeadlineDate"	"12/19/52"
+	"Paragraph1"	"Il Generale C. Morrison ha appena annunciato che l'IAF sta spedendo altre 12,000 trupper per difendere il sistema di Antheon System dallo Sciame. Le truppe aggiuntive proveranno a riprendere il controllo della colonia umana sulla quinta luna di Antheon Prime."
+	"Paragraph2"	"Il Senatore Tom Wearing dell'Alleanza Interstellare ha risposto chiamando questa mossa un 'serio errore' nel discorso di questa mattina."
+	"Paragraph3"	"'Credo che le nostra forze siano state sparpagliate eccessivamente,' ha detto il Senatore, aggiungendo anche, 'dovremmo far tornare le nostre truppe ad Antheon Prime. La quinta luna è già persa.'"
+	"Paragraph4"	""
+}

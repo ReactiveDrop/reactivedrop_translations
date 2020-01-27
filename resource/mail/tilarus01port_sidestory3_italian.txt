@@ -1,0 +1,13 @@
+GAME
+{
+// PDA di proprietà di Sovrintendente Ross
+
+"MailFrom1" "Da: Kyle"
+"MailDate1" "Data: 02/2/54"
+"MailSubject1" "Soggetto: rapporto 709b"
+"MailBody1A" "-47 Droidi persi nelle ultime 24 ore"
+"MailBody1B" "-Capacità di smaltimento complessiva al 87%"
+"MailBody1C" "-Gli inceneritori lavorano al 100% di capacità"
+"MailBody1D" "Si prega di ordinare altri 100 droidi Mark 4, non siamo attrezzati perché la maggior parte dei miei droidi è iniziata a sparire.
+"
+}

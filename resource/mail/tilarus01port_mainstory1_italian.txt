@@ -1,0 +1,13 @@
+GAME
+{
+    // PDA di proprietà di Sovrintendente Ross
+    
+    "MailFrom1"    "Da: Comandante Harold"
+    "MailDate1"    "Data: 2/2/54"
+    "MailSubject1"    "Soggetto: Schianto "
+    "MailBody1A"    "Buon giorno Ross,"
+    "MailBody1B"    "Ho capito che gli equipaggi di pulizia non sanno nemmeno da dove cominciare."
+    "MailBody1c"    "Tuttavia, voglio che questo pasticcio venga ripulito rapidamente, non lo vogliamo sui giornali,"
+    "MailBody1d"    "potrebbe danneggiare la reputazione dell'azienda, ma il consiglio di amministrazione sta lavorando a qualcosa per coprirlo"
+    "MailBody1d"    "Parleremo più avanti per un rapporto completo sui progressi"
+}

@@ -1,0 +1,9 @@
+GAME
+{
+    // PDA di proprietà di Ming
+	"MailFrom1"	"Da: John Cain"
+	"MailDate1"	"Data: 12/24/52"
+	"MailSubject1"	"Soggetto: Re: Invece per Young?"
+	"MailBody1A"	"Non la troviamo da nessuna parte."
+	"MailBody1B"	"Le cose sono fuori controllo. Contatterò la sede centrale di SynTek. Ho bisogno dell'IAF il prima possibile."
+}

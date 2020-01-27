@@ -1,0 +1,24 @@
+GAME
+{
+    // PDA di proprietà di Shaun Ming
+    
+    // inbox
+    
+	"MailFrom1"	"Da: John Cain"
+	"MailDate1"	"Data: 12/23/52"
+	"MailSubject1"	"Soggetto: Re: Permesso di ingresso nel Laboratorio per Helen Young"
+	"MailBody1A"	"Ming, sei fuori di testa? Hai parlato con la Young delle tue scoperte?! Te l'ho detto chiaramente, NESSUNO al di fuori di SynTek è autorizzato a sapere cosa stai facendo lassù!"
+	"MailBody1B"	"A peggiorare il tutto, le cose stanno sfuggendo di mano. Sono appena tornato dalla stazione di Timor. Si sta diffondendo. Come diavolo sono arrivati ​​dal ponte 2 alla miniera?"
+	"MailBody1C"	"E a proposito, cosa sta succedendo nell'atrio?"
+	"MailBody1D"	"Lt. Cain, Sicurezza SynTek."
+	
+	// mail spedita
+
+	"MailFrom3"	"A: John Cain"
+	"MailDate3"	"Data: 12/23/52"
+	"MailSubject3"	"Soggetto: Re:Re: Permesso di ingresso nel Laboratorio per Helen Young"
+	"MailBody3A"	"Lt. Cain,"
+	"MailBody3B"	"Occhio a come mi parli. Non sono uno dei tuoi soldati. Young manterrà la bocca chiusa. Ha svolto un lavoro brillante e sa che la sua carriera dipende da questo. Quindi hai visto quelli vivi nelle miniere? Interessante. C'è una spiegazione ovvia: le uova diventano attive quando si scongelano. Ci sono abbastanza prede laggiù per supportare il ciclo di crescita. Fai i conti."
+	"MailBody3C"	"Non preoccuparti per la situazione dell'atrio. Lo abbiamo sotto controllo. Uno dei parassiti è scomparso ieri. Pensiamo che abbia trovato un modo attraverso le prese d'aria al ponte inferiore. L'intera area del Deck 1 è chiusa, quindi niente entra o esce."
+	"MailBody3D"	"S. Ming"
+}

@@ -1,0 +1,11 @@
+GAME
+{
+    // PDA di proprietà di Helen Young
+    
+	"MailFrom1"	"Da: Brian Howe"
+	"MailDate1"	"Data: 12/24/52"
+	"MailSubject1"	"Soggetto: Re: Andando ai laboratori"
+	"MailBody1A"	"Mi dispiace non averti potuto contattare prima. Abbiamo trovato un tunnel usato da quelle cose per diffondersi in tutta la colonia. Abbiamo truccato una vecchia testata. Proveremo a sigillare il tunnel con l'esplosione."
+	"MailBody1B"	"Abbiamo anche ricevuto delle mail allarmanti da Laura Callen. Non riesco a immaginare come sia lassù. Elena, per l'amor di Dio, stai lontana dai laboratori! Rinchiuditi finché non torno al complesso principale."
+	"MailBody1C"	"Brian"
+}

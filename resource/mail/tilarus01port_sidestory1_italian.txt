@@ -1,0 +1,10 @@
+GAME
+{
+// PDA di proprietà di John Hadan
+
+"MailFrom1" "Da: Jimmy Carter"
+"MailDate1" "Data: 02/2/54"
+"MailSubject1" "Soggetto: Spedizione SynTek"
+"MailBody1A" "Ehi john, hai presente quella spedizione da Syntek? È stata messa in quarantena. 
+Anche Kyle mi ha detto che c'era un incidente vicino al molo, nello stesso posto della spedizione, ne sai qualcosa?"
+}

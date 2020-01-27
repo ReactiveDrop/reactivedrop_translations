@@ -1,0 +1,32 @@
+GAME
+{
+    // PDA di proprietà di Brian Howe
+    
+    // inbox
+	"MailFrom1"	"Da: Laura Callen"
+	"MailDate1"	"Data: 12/21/52"
+	"MailSubject1"	"Soggetto: Flusso di informazioni"
+	"MailBody1A"	"Sig. Howe,"
+	"MailBody1B"	"Perché non mi hai informato delle uova che tu e il tuo equipaggio avete trovato nella miniera la scorsa settimana. A meno che tu non possa fornire una valida giustificazione per questo intervallo, dovrò presentare un rapporto."
+	"MailBody1C"	"L. Callen"
+	
+	"MailFrom2"	"Da: Laura Callen"
+	"MailDate2"	"Data: 12/21/52"
+	"MailSubject2"	"Soggetto: Re: Re: Flusso di informazioni"
+	"MailBody2A"	"Sig. Howe,"
+	"MailBody2B"	Ho controllato i miei record ma non vedo il tuo promemoria, è preoccupante. Ho parlato con l'amministratore di sistema, nella speranza di trovare una sorta di spiegazione."
+Prenderò il prossimo treno per la stazione di Timor. Arriverò alle 0845. Potresti venirmi a prendere?
+	"MailBody2C"	"L. Callen"
+
+    // mail spedita
+    
+	"MailFrom3"	"A: Laura Callen"
+	"MailDate3"	"Data: 12/21/52"
+	"MailSubject3"	"Soggetto: Re: Flusso di informazioni"
+	"MailBody3A"	"Cara Sig.rina Callen,"
+	"MailBody3B"	"HO seguito la procedura. Ti ho inviato un memo dettagliato 6 giorni fa. Ti ho anche inviato per e-mail i problemi di sicurezza che abbiamo riscontrato di recente a Timor Station. Due lavoratori sono scomparsi lunedì e oggi abbiamo avuto un incidente mortale."
+	"MailBody3C"	"I miei uomini sono sfiniti dal lavoro a doppio turno. Il caldo è opprimente e stanno iniziando ad allucinarsi dalla fatica... parlano di rumori inspiegabili e simili. Vorrei che parlassi con SynTek e vedessi che le cose migliorano qui al più presto."
+	"MailBody3D"	"B. Howe"
+
+	
+}

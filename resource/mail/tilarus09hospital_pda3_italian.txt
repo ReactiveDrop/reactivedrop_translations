@@ -1,0 +1,20 @@
+GAME
+{
+    // PDA di proprietà di David Foster
+
+    // mail spedita 
+	"MailFrom3"	"A: Andrew Ward"
+	"MailDate3"	"Data: 3/16/46"
+	"MailSubject3"	"Soggetto: Ho bisogno di aiuto"
+	"MailBody3A" 	"Andrew,"
+	"MailBody3B"	"Come capo della sicurezza di questo ospedale, è tuo compito contenere questo genere di cose."
+	"MailBody3C"	"Abbiamo isolato i campioni aggressivi ai livelli più bassi della struttura. Non siamo sicuri di quanto ancora possiamo tenerli lì."
+	"MailBody3D"	"Trova una soluzione!"
+
+	"MailFrom4"	"A: Andrew Ward"
+	"MailDate4"	"Data: 3/16/46"
+	"MailSubject4"	"Soggetto: Sarò il prossimo"
+	"MailBody4A"	"Andrew,"
+	"MailBody4B"	"Il dottor Archibald, Mason e Miln sono morti."
+	"MailBody4C"	"Puoi fare quello che vuoi ora, ma me ne vado da qui. Faresti meglio a trovare un po' di munizioni se pensi di rimanere in vita."
+}

@@ -1,0 +1,24 @@
+GAME
+{
+    // PDA di proprietà di Jan Anath
+    
+    // inbox
+    
+	"MailFrom1"	"Da: Windom King"
+	"MailDate1"	"Data: 02/29/53"
+	"MailSubject1"	"Soggetto: Grave minaccia"
+	"MailBody1A"	"Amministratore capo Anath, ho una brutta sensazione per tutto questo."
+	"MailBody1B"	"Sono certo che stiamo affrontando una grave minaccia."
+	"MailBody1C"	"Raccomando di contattare l'IAF. Questo potrebbe essere un attacco a sciame."
+	"MailBody1D"	"Responsabile della sicurezza W. King"
+		
+	// mail spedita
+	
+	"MailFrom3"	"A: Windom King"
+	"MailDate3"	"Data: 02/29/53"
+	"MailSubject3"	"Soggetto: Re: Grave minaccia"
+	"MailBody3A"	"Un attacco dello sciame? L'ultima volta che l'hai detto, l'unico insetto che ho visto era una mosca che ho schiacciato sotto un file."
+	"MailBody3B"	"Dimentica il tuo passato, King. Non siamo sul campo di battaglia qui. Costruiamo dispositivi nucleari minacciati da un terrorista che potrebbe trovarsi proprio in questa base."
+	"MailBody3C"	""
+	"MailBody3D"	"Amministratore delegato J. Anath"
+}

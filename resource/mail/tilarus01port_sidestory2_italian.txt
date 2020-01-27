@@ -1,0 +1,36 @@
+GAME
+{
+// PDA di proprietà di Sovrintendente Ross
+// inbox
+
+"MailFrom1" "Da: Jimmy Carter"
+"MailDate1" "Data: 2/2/54"
+"MailSubject1" "Soggetto: Pressione del reattore giù"
+"MailBody1A" "Ehi Ross,"
+"MailBody1B" "Sto solo segnalando alcuni strani rumori nella sezione 6,"
+"MailBody1C" "E più tubi rotti, MOLTI più tubi, la pressione è diminuita del 15% sul reattore 1."
+"MailBody1D" "Mi servirebbe un po d'aiuto, parleremo più tardi."
+
+"MailFrom2" "Da: Sovrintendente Ross"
+"MailDate2" "Data: 2/2/54"
+"MailSubject2" "Soggetto: John?"
+"MailBody2A" "Ross, sono passate quasi 8 ore, quando hai intenzione di mandare John giù?"
+
+// mail spedita
+"MailFrom3" "A: Sovrintendente Ross"
+"MailDate3" "Data: 12/18/52"
+"MailSubject3" "Soggetto: Re: Pressione del reattore giù"
+"MailBody3A" "Jimmy,"
+"MailBody3B" "Scusa Jimmy, le mie mani sono legate, la maggior parte della struttura sta cercando di ripulire lo schianto nella baia 6."
+"MailBody3C" "Comunque manderò John, continua a controllare il reattore, se scende al di sotto del 25%, l'energia delle colonie se ne va con esso."
+
+
+"MailFrom4" "A: Sovrintendente Ross"
+"MailDate4" "Data: 12/18/52"
+"MailSubject4" "Soggetto: Re: John"
+"MailBody4A" "Jimmy,"
+"MailBody4B" "Ho mandato John subito dopo averti inviato la mail, ci vogliono solo 20 minuti per arrivare da te"
+"MailBody4C" "Parlerò con gli altri suoi amici, per vedere se sanno dove si trova"
+"MailBody4D" "Informerò anche la sicurezza di cercarlo, c'è un sacco di gente che scompare ultimamente"
+
+}

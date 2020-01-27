@@ -1,0 +1,8 @@
+GAME
+{
+	"Headline"	"Pirate Bay compra un'Isola?"
+	"HeadlineDate"	"12/01/07"
+	"Paragraph1"	"Il noto sito di file-sharing svedese The Pirate Bay sta pensando di acquistare una terra per contravvenire alle leggi sul Copyright. L'Organizzazione, il più grande tracker di bit torrent, ha messo gli occhi su Terra Ferma, una vecchia nave Britannica nel mare del nord designata come 'micronazione' e che dice di essere fuori dalla giurisdizione del Regno Unito. Con un prezzo di £500m non sarà economico, ma Pirate Bay ha detto che chi contribuirà diventerà un cittadino d'onore."
+	"Paragraph2"	"今年のLinux界隈であるが、カーネルで大きな動きがあったわけでもないので、とりあえず印象に残っている ニュースを列挙すると、"
+	"Paragraph3"	"検察の広報キャラクター"
+}

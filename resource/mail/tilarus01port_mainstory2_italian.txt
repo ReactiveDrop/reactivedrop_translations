@@ -1,0 +1,11 @@
+GAME
+{
+    // PDA di proprietà di Sovrintendente Ross
+    
+    "MailFrom1"    "Da: Comandante Harold"
+    "MailDate1"    "Data: 2/2/54"
+    "MailSubject1"    "Soggetto: Rapporti"
+    "MailBody1A"    "Ho i tuoi rapporti qui, Ross,"
+    "MailBody1B"    "Sei sicuro che quello che mi stai dicendo sia giusto? perché se non lo è, non promette nulla di buono per te"
+    "MailBody1c"    "D'altra parte, se lo è, siamo tutti fottuti, Harold chiudo"
+}

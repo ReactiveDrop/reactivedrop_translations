@@ -1,0 +1,30 @@
+GAME
+{
+	//inbox
+
+"MailFrom1" "Da: Ming"
+"MailDate1" "Data: 27/12/52"
+"MailSubject1" "BRUCIALI!"
+"MailBody1A" "Inviarti quelle cose è stato un errore! Mi dispiace!"
+"MailBody1B" "Devi uccidere tutti i tuoi esemplari, ADESSO!"
+"MailBody1C" "Sono rinchiuso in un'alcova nella stazione di Timor, posso sentirli. Stanno venendo per me!."
+"MailBody1D" "UCCIDILI O SCAPPA FIN CHE PUOI"
+
+"MailFrom2" "Da: Martin Jericho"
+"MailDate2" "Data: 27/12/52"
+"MailSubject2" "Re: Scongelare la carne"
+"MailBody2A" "Hullen, BASTARDO!"
+"MailBody2B" "Quella cosa che ci hai inviato non era morta! Lo abbiamo portato vicino alla lava ed è tornato in vita."
+"MailBody2C" "Ha ucciso Hodgson E Jenny. Mi hai sentito, hai ucciso JENNY!"
+"MailBody2D" "Mi ha morso, riesco a sentire qualcosa che si muove dentro di me... crescendo... ti odio."
+
+	//mail spedita
+
+"MailFrom3" "A: Martin Jericho"
+"MailDate3" "Data: 26/12/52"
+"MailSubject3" "Scongelare la carne"
+"MailBody3A" "Salve Martin,"
+"MailBody3B" "Ho ricevuto diversi esemplari da Vereon XII, non chiedermi come. Uno degli esemplari sembra essere morto durante il trasporto."
+"MailBody3C" "Non posso usare l'inceneritore qui senza che i rilevatori superiori lo scoprano, lo sto inviando alle tue miniere per lo smaltimento in una delle fosse di lava."
+"MailBody3D" "Hullen."
+} 

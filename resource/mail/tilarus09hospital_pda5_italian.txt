@@ -1,0 +1,18 @@
+GAME
+{
+    // PDA di proprietà di 	Ian Cook
+
+    // mail spedita 
+	"MailFrom3"	"A: SynTek Hospital Employees"
+	"MailDate3"	"Data: 3/16/46"
+	"MailSubject3"	"Soggetto: Ci serve un nuovo piano"
+	"MailBody3A"	"Qualcuno deve trovare una soluzione più permanente. Non possiamo semplicemente tenere gli esperimenti rinchiusi nel nostro seminterrato per sempre..."
+
+	"MailFrom4"	"A: Impiegati dell'Ospedale SynTek"
+	"MailDate4"	"Data: 3/17/46"
+	"MailSubject4"	"Soggetto: Ho trovato un'uscita"
+	"MailBody4A"	"Siamo quasi pronti per partire. Spero di avere ancora abbastanza tempo per uscire. Ho già spostato tutta l'attrezzatura di cui ho bisogno, quindi tutti gli altri dovrebbero semplicemente fare del loro meglio per arrivare al trasporto."
+	"MailBody4B"	"Ma tutto ciò non ha più importanza; ciò che conta è fermare la diffusione degli esperimenti. Ho preparato una neurotossina idrosolubile con cui ho intenzione di inondare la struttura. L'ho provato e si è dimostrato estremamente efficace."
+	"MailBody4C"	"Distribuirò la neurotossina dall'interno della sala pompe vicino all'angolo nord-ovest dell'edificio. Sto per inondare l'edificio con acqua, quindi è meglio che tutti siano fuori di lì."
+	"MailBody4D"	"Il compressore è quasi pronto. Tutto quello che devo fare è aprire queste porte e arrivare a quell'edificio."
+}

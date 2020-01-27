@@ -1,0 +1,11 @@
+GAME
+{
+
+"MailFrom1" "Da: Commander Houghton"
+"MailDate1" "Data: 12/30/52"
+"MailSubject1" "Soggetto: Operazione Eradication"
+"MailBody1A" "Alpha, non si mette bene."
+"MailBody1B" "RC7 è sicuramente compromessa, tutti gli scienziati o soldati ancora vivi di sotto non possono più essere aiutati."
+"MailBody1C" "C'è una struttura di spurgo nelle vicinanze che riempirà tutti i livelli inferiori di RC7 con una neurotossina mortale."
+"MailBody1D" "Ucciderà o scaccerà gli alieni. È con rammarico che ti incarico di attivare l'eliminazione. Houghton chiudo."
+} 

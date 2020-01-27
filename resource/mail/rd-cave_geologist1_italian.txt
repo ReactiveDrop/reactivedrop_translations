@@ -1,0 +1,22 @@
+GAME
+{
+    // PDA di proprietà di cave_geologist1
+    
+    // inbox 
+	"MailFrom1"     "Da: G.S.D."
+	"MailDate1"     "Data: 17/9/57"
+	"MailSubject1"   "Soggetto: Re: Risultati preliminari del sistema delle caverne"
+	"MailBody1A"     "Ottimo lavoro Herbert, in base ai dati che hai inviato nel tuo rapporto, dovrei essere d'accordo con te. Il sistema di grotte è troppo instabile per far valere il rischio di estrarre il minerale di ferro."
+	"MailBody1B"     "Spero che quei dispositivi laser che ci hanno inviato ti siano stati utili. Sfortunatamente quel nuovo ragazzo, Jenson ha avuto una piccola arma da fuoco con la sua e ha causato una caverna. Fortunatamente nessuno è stato gravemente ferito, anche se il nuovo ragazzo vorrebbe che fosse stato in coma quando l'amministrazione lo avrebbe superato."
+	"MailBody1C"     "Naturalmente so che non dovrò ricordarti di stare attento a come lo usi."
+	"MailBody1D"     "- Jeff Taylor, Dipartimento di rilevamento geologico"
+
+   // mail spedita
+	"MailFrom3"	"A: G.S.D."
+	"MailDate3"	"Data: 17/9/57"
+	"MailSubject3"	"Soggetto: Risultati preliminari del sistema delle caverne"
+	"MailBody3A"	"Il sistema di grotte vicino al vecchio avamposto è costituito principalmente da arenaria e altre rocce molli. Ci sono alcune tasche di ferro e altri materiali più resistenti che permettono alle caverne di esistere a un livello così ampio."
+	"MailBody3B"	"Dovrei sconsigliare tuttavia l'estrazione, poiché la struttura generale è instabile, in parte a causa della suddetta composizione di materiali morbidi. Ho incluso un rapporto più approfondito come allegato."
+	"MailBody3C"	"Come nota a margine: questi sistemi di grotte sono geologicamente molto interessanti. Non ho mai trovato un esempio di grotte così vaste come queste che si formano senza la presenza della pioggia. Se non lo sapessi meglio, potrei anche dire che non sono del tutto naturali, ma è stato confermato che Tarnor non ha mai avuto la capacità di coltivare una vita indigena."
+	"MailBody3D"    "- Herbert Graffson, Ricercatore sul campo, Dipartimento di rilevamento geologico"
+}

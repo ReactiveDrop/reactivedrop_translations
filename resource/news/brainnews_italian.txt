@@ -1,0 +1,9 @@
+GAME
+{
+	"Headline"	"Nuovi Processi Cellulari Scoperti"
+	"HeadlineDate"	"12/19/52"
+	"Paragraph1"	"Si sa che il cervello umano richiede rifornimenti continui di energia chimica per funzionare correttamente.  Il ricercatore della SynTek Dr Lucas Weinburg ha recentemente annunciato la sua scoperta di un programma genetico che regola questa riserva di energia."
+	"Paragraph2"	"Avendo identificato il recettore che controlla questo processo, il Dr Lucas è in grado di alterare la riserva e permettere periodi di coscienze più lunghi.  'Otto su 10 cavie hanno cambiato facilmente da un ciclo di 24 ore ad uno di 29 ore senza effetti collaterali,' ha detto Lucas."
+	"Paragraph3"	"'I soggetti si sentono sani, forti, freschi e pronti per lavorare in maniera produttiva.  Solo due si sono lamentati di essersi sentiti sconcentrati'.  I suoi test mostrano anche che sette cavie su 10 hanno smesso di sognare durante il loro periodo di sonno."
+	"Paragraph4"	"Se questo sistema passa i test di sicurezza a lungo termine, questo potrebbe essere un'altra sensazionale traguardo per la medicina e per la Megacorporazione SynTek."
+}

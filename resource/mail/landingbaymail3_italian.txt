@@ -1,0 +1,31 @@
+GAME
+{
+    // PDA di proprietà di Lt. Cain
+    
+    // inbox
+    
+	"MailFrom1"	"Da: Laura Callen"
+	"MailDate1"	"Data: 12/18/52"
+	"MailSubject1"	"Soggetto: Avamposto 17"
+	"MailBody1A"	"Lt. Cain,  abbiamo appena ricevuto la notizia da B. Campbell che la consegna del carico 4903877 contiene materiale organico di origine sconosciuta, il tutto congelato e immagazzinato in contenitori. La destinazione della nave mercantile è la Stazione di Ricerca SynTek 7 / Terra."
+	"MailBody1B"	"Vorrei che interrogassi nuovamente il tuo staff e mi aiutassi a scoprire chi sta violando la restrizione # 77-C. (IA deve essere informato del trasferimento di materiale organico sconosciuto sulla Terra; 77-C / 1.1.4)"
+	"MailBody1C"	"Campbell sta anche segnalando la scomparsa di diversi lavoratori. La sicurezza delle colonie è una tua responsabilità. Mi aspetto che invii abbastanza personale per proteggere l'area."
+	"MailBody1D"	"L. Callen"
+	
+	"MailFrom2"	"Da: Alena"
+	"MailSubject2"	"Soggetto: Re: Ciao"
+	"MailDate2"	"Data: 11/15/52"
+	"MailBody2A"	"Assunzione,"
+	"MailBody2B"	"Lavorare al di fuori dei sistemi di base può essere un'esperienza solitaria. Starfire SubNet Dating potrebbe essere la risposta ai tuoi problemi! Incontriamoci per parlare e forse qualcosa di più? Chiama (+490387439)"
+	"MailBody2C"	"Alena,"
+	"MailBody2D"	"xxx"
+	
+	// mail spedita
+
+	"MailFrom3"	"A: Laura Callen"
+	"MailDate3"	"Data: 12/21/52"
+	"MailSubject3"	"Soggetto: Avamposto 17"
+	"MailBody3A"	"Ms. Callen,"
+	"MailBody3B"	"So tutto sulla restrizione # 77-C. Abbiamo cercato nell'Avamposto 17 e abbiamo trovato il carico vivo. L'abbiamo bloccato nel settore 39 e rimarrà lì fino a quando non avremo ricevuto ordini dall'Interstellar Alliance su come procedere. Dobbiamo ancora trovare il personale mancante. Non sarebbe la prima volta che alcuni lavoratori si ubriacano e scompaiono per un giorno o due. Dato che nulla può mai davvero perdersi su Vereon XII, sono sicuro che arriveranno presto. Il signor Campbell ha l'ordine di darmi aggiornamenti ogni 6 ore."
+	"MailBody3C"	"Lt. Cain, Sicurezza SynTek."
+}

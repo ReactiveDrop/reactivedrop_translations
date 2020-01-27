@@ -1,0 +1,25 @@
+GAME
+{
+    // PDA di proprietà di Juan Rosale
+    
+    // inbox
+    
+	"MailFrom1"	"Da: Vincent Baker"
+	"MailDate1"	"Data: 12/18/52"
+	"MailSubject1"	"Soggetto: Tutto lavoro e niente divertimento"
+	"MailBody1A"	"Ehi Junito, sembra che Campbell voglia che facciamo del tempo extra. Ti ha fatto cercare anche nel settore 12-18?"
+
+    "MailFrom2"	"Da: Vincent Baker"
+	"MailDate2"	"Data: 12/18/52"
+	"MailSubject2"	"Soggetto: Re:Re: Tutto lavoro e niente divertimento"
+	"MailBody2A"	"Juan,"
+	"MailBody2B"	"Ahhah! Tu e Steve? Sicuramente batte il farsi. Oh beh. Quella maledetta bufera di neve sta arrivando comunque."
+
+    // mail spedita
+    
+	"MailFrom3"	"A: Vincent Baker"
+	"MailDate3"	"Data: 12/18/52"
+	"MailSubject3"	"Soggetto: Re: Tutto lavoro e niente divertimento"
+	"MailBody3A"	"Vinc,"
+	"MailBody3B"	"No, vuole che io e Steve cerchiamo dalla 30 alla 35. Vuoi fare cambio?"	
+}

@@ -1,0 +1,11 @@
+GAME
+{
+
+"MailFrom1" "Da: Commander Houghton"
+"MailDate1" "Data: 12/30/52"
+"MailSubject1" "Soggetto: Operazione Eradication"
+"MailBody1A" "Interessante, sembra che l'infestazione potrebbe andare più in profondità di quanto pensassimo."
+"MailBody1B" "Secondo le informazioni di Vereon XII, i parassiti dello sciame amano l'umidità."
+"MailBody1C" "Le grotte davanti potrebbero essere piene di alieni."
+"MailBody1D" "Houghton chiudo."
+} 

@@ -1,0 +1,11 @@
+GAME
+{
+
+"MailFrom1" "Da: Commander Houghton"
+"MailDate1" "Data: 12/30/52"
+"MailSubject1" "Soggetto: Operazione Eradication"
+"MailBody1A" "Ascoltate Alpha,"
+"MailBody1B" "La Research 7 Transport Facility ha ricevuto una spedizione di esemplari alieni una settimana fa, e poi l'intero avamposto è diventato buio."
+"MailBody1C" "Sospettiamo di avere una situazione d'appoggio al RC7, e qualunque cosa abbia appena abbattuto il tuo Albatross ma lo conferma."
+"MailBody1D" "Attraversa la struttura di trasporto fino al RC7 e scopri cosa sta succedendo. Buona fortuna, Alpha. Houghton chiudo."
+} 

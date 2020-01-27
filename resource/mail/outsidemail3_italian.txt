@@ -1,0 +1,12 @@
+GAME
+{
+    // PDA di proprietà di Brad Campbell
+    
+	"MailFrom1"	"Da: David Anders"
+	"MailDate1"	"Data: 12/12/52"
+	"MailSubject1"	"Soggetto: Codice di attivazione"
+	"MailBody1A"	"Brad," 
+	"MailBody1B"	"Kovac ed io abbiamo attivato gli esplosivi sul ponte. Il codice di detonazione è 0951. Di' ai tuoi uomini di stare attenti."
+	"MailBody1C"	"In bocca al lupo. Tutto dipende da questo."
+	"MailBody1D"	"Dave"
+}

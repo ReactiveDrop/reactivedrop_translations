@@ -1,0 +1,25 @@
+GAME
+{
+    // PDA di proprietà del Dr.Kennett
+    
+	"MailFrom1"	"Da: Dr. L. Gilmore"
+	"MailDate1"	"Data: 3/17/46"
+	"MailSubject1"	"Soggetto: Il coraggioso capo della sicurezza"
+	"MailBody1A" 	"Kennett!"
+	"MailBody1B"	"Gli esperimenti hanno superato il team di sicurezza!"
+	"MailBody1C"	"Il capo della sicurezza sta cercando di fuggire tramite il teletrasporto. Scappando dal suo stesso territorio. Patetico. Dove ha intenzione di andare??"
+	"MailBody1D"	"Dobbiamo fare qualcosa e dobbiamo farla in fretta."
+	
+	"MailFrom2"	"Da: Dr. L. Gilmore"
+	"MailDate2"	"Data: 3/17/46"
+	"MailSubject2"	"Soggetto: ???"
+	"MailBody2A"	"Perchè non mi rispondi?!"
+	
+	"MailFrom3"	"A: Dr. L. Gilmore"
+	"MailDate3"	"Data: 3/17/46"
+	"MailSubject3"	"Soggetto: Aiuto!"
+	"MailBody3A" 	"Lily!"
+	"MailBody3B"	"Gli esperimenti sono ovunque!"
+	"MailBody3C"	"Mi sono nascosto in uno dei magazzini prima che si spegnesse l'alimentazione; ora sono in trappola. Spero solo che quei dannati esperimenti non possano entrare qui."
+	"MailBody3D"	"Non ha più senso. Dobbiamo uscire da qui e distruggere il complesso."
+}

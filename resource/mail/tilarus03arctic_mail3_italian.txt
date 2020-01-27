@@ -1,0 +1,24 @@
+GAME
+{
+	// PDA di proprietà di Martin Bauer
+
+	// inbox
+
+	"MailFrom1" "Da: Analista dati SynTek"
+	"MailDate1" "Data: 10/5/52"
+	"MailSubject1" "Soggetto: Dati layout impianto"
+	"MailBody1A" "Ciao Martin"
+	"MailBody1B" "Ho caricato i file di layout della struttura aggiornati nel terminale come da lei richiesto."
+	"MailBody1C" "Spero che non ti perderai più. HAHA! ;D"
+	"MailBody1D" "Saluti, Mike Palmer"
+
+	// mail spedita
+
+	"MailFrom3" "A: Analista dati SynTek"
+	"MailDate3" "Data: 10/5/52"
+	"MailSubject3" "Soggetto: Re: Dati layout impianto"
+	"MailBody3A" "Ciao Mike"
+	"MailBody3B" "Oohh... Sei così divertente... :P"
+	"MailBody3C" "Grazie per i file comunque."
+	"MailBody3D" "-Martin"
+} 

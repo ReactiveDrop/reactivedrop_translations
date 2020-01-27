@@ -1,0 +1,12 @@
+GAME
+{
+    // PDA di proprietà di Helen Young
+    
+	"MailFrom1"	"Da: Brian Howe"
+	"MailDate1"	"Data: 12/24/52"
+	"MailSubject1"	"Soggetto: Testata nucleare"
+	"MailBody1A"	"Elena, per l'amor di Dio, rispondimi! Per favore! Dave e Tom sono morti. Non siamo riusciti a far entrare la testata in quel tunnel. Mi sto nascondendo per ora, ma stare qui non è un'opzione."
+	"MailBody1B"	"Spero solo che tu stia bene. Ci sono così tante cose che vorrei averti detto. Non mi è mai sembrato il momento giusto. E ora... è tutto sbagliato."
+	"MailBody1C"	"Ti amo."
+	"MailBody1D"	"Brian"
+}

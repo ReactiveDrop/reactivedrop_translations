@@ -1,0 +1,9 @@
+GAME
+{
+	"Headline"	"SynTek accusata di violazioni della legge sui droidi"
+	"HeadlineDate"	"12/19/52"
+	"Paragraph1"	"Una fonte anonima ha recentemente contattato l'IA con la presunta prova che la Megacorporazione SynTek sta usando androidi militari riprogrammati in alcune delle sue strutture chimiche. Se le accuse fossero vere, SynTek violerebbe non solo la legge militare, ma anche diverse leggi sul lavoro."
+	"Paragraph2"	"La fonte ha anche accusato SynTek di utilizzare un droide della serie S-300 Scavenger, un modello altamente inaffidabile riservato all'uso dell'IAF su pianeti remoti lontani da possibili contatti civili."
+	"Paragraph3"	"Un portavoce di SynTek ha commentato le accuse, affermando 'Queste voci sono completamente false. Nessuno vorrebbe avvicinarsi a un S-300 dopo il massacro al Pleasure World di Rosebloom nel '36. La divisione Robotica di SynTek segue gli standard IA alla lettera'."
+	"Paragraph4"	"SynTek ha chiuso alcune delle sue strutture chimiche poco dopo che le accuse sono venute alla luce, sostenendo di non avere alcun collegamento con le accuse, ma citando ragioni di normale obsolescenza."
+}

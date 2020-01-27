@@ -1,0 +1,28 @@
+GAME
+{
+    // PDA di proprietà di Brad Campbell
+    // inbox
+    
+	"MailFrom1"	"Da: Laura Callen"
+	"MailDate1"	"Data: 12/18/52"
+	"MailSubject1"	"Soggetto: Re: Spedizione del carico"
+	"MailBody1A"	"Ehi Brad,"
+	"MailBody1B"	"Questo è strano. Ho cercato nei nostri registri di trasporto ma non c'è nulla di archiviato in 'Consegna 4903877'."
+	"MailBody1C"	"Ti suggerisco di trattenere il carico finché non avrò rintracciato la mail. È stato inviato da qualche parte all'interno del complesso principale. Non dovrebbe essere troppo difficile scoprire chi ti ha inoltrato quell'ordine."
+	"MailBody1D"	"Ti contatto dopo.  Abbi cura di te."
+
+	"MailFrom2"	"Da: Laura Callen"
+	"MailDate2"	"Data: 12/18/52"
+	"MailSubject2"	"Soggetto: Re:Re: Spedizione del carico"
+	"MailBody2A"	"Brad, sembra che Cain sia il mittente. Gliel'ho chiesto e lui ha negato tutto. Ha detto che chiunque avrebbe potuto usare quel computer, il che è abbastanza vero, ma non lo cancella ai miei occhi."
+	"MailBody2B"	"Voglio che ispezioniate quei container prima che lascino la stiva."
+
+    // mail spedita
+	"MailFrom3"	"A: Laura Callen"
+	"MailDate3"	"Data: 12/18/52"
+	"MailSubject3"	"Soggetto: Re: Uova"
+	"MailBody3A"    "Laura,"
+	"MailBody3B"	"Le cose stanno diventando ancora più strane qui. Dopo la tua mail sono tornato dove abbiamo lasciato le uova. Le sacche erano rotte ed erano vuote."
+	"MailBody3C"	"Abbiamo deciso di cercare nell'Avamposto 17 in gruppi di due e vedere se troviamo qualcosa di insolito. Manodopera extra sarebbe apprezzata."
+	"MailBody3D"	"Sta succedendo qualcosa di sospetto, ne siamo sicuri. La spedizione di carichi vivi sulla Terra è soggetta alla restrizione IA n. 77-C. Nessuno poteva farlo per errore."
+}

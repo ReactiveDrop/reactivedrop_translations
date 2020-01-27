@@ -1,0 +1,9 @@
+GAME
+{
+	"Headline"	"Dei rifugiati sono arrivati nella costellazione S-N5"
+	"HeadlineDate"	"12/18/52"
+	"Paragraph1"	"Gruppi sparsi di rifugiati continuano ad arrivare alla costellazione S-N5 dai confini dello spazio Paradiso.  I SOpravvissuti continuano ad arrivare dal sistema dai primi attacchi dello Sciame che hanno distrutto molte colonie indipendenti il mese scorso."
+	"Paragraph2"	"Si crede che gli attacchi abbiano avuto origine dalle Rovine di Anhaven, ma molti analisti sono preoccupati che gli attacchi dello Sciame siano avanzati troppo nello spazio della Alleanza.  'Questo può essere il precursore di un'attacco più grosso che può anche raggiungere il Sistema Principale,' ha detto il Dr McArthur, un noto analista dei movimenti dello Sciame."
+	"Paragraph3"	"Un ufficiale delle Provviste di Paradiso ha richiesto supporto IA per gestire i rifugiati, ma gli ha generosamente offerto contratti di lavoro di Paradiso all'interno delle colonie."
+	"Paragraph4"	""
+}

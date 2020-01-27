@@ -1,0 +1,18 @@
+GAME
+{
+    // PDA di proprietà di Lt Cain
+    
+	"MailFrom1"	"Da: Shaun Ming"
+	"MailDate1"	"Data: 12/21/52"
+	"MailSubject1"	"Soggetto: Test"
+	"MailBody1A"	"Lt. Cain,"
+	"MailBody1B"	"Un gatto?  Non va bene.  Troppo piccolo."
+	"MailBody1C"	"S. Ming"
+
+	"MailFrom2"	"Da: Shaun Ming"
+	"MailDate2"	"Data: 12/22/52"
+	"MailSubject2"	"Soggetto: Test 2"
+	"MailBody2A"	"Lt. Cain,"
+	"MailBody2B"	"Questo dovrebbe andare.  Me ne servirebbero altri.  Sarebbe un problema?  Spero di non dover sottolineare l'importanza dei miei esami."
+	"MailBody2C"	"S. Ming"
+}

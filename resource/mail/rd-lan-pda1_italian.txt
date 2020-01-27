@@ -1,0 +1,25 @@
+GAME
+{
+    // PDA di proprietà di Jan Anath
+    
+    // inbox
+    
+	"MailFrom1"	"Da: Windom King"
+	"MailDate1"	"Data: 02/29/53"
+	"MailSubject1"	"Soggetto: Sicurezza"
+	"MailBody1A"	"Jan, stiamo rilevando qualcosa sui sensori, non sono del tutto sicuro che sia importante o meno, ma è insolito."
+	"MailBody1B"	"Potrebbe essere un asteroide o un drop pod."
+	"MailBody1C"	""
+	"MailBody1D"	"Capo della Sicurezza W. King"
+
+	
+	// mail spedita
+	
+	"MailFrom3"	"A: Windom King"
+	"MailDate3"	"Data: 02/29/53"
+	"MailSubject3"	"Soggetto: Re: Sicurezza"
+	"MailBody3A"	"Sto diventando sospettoso su una possibile minaccia alla sicurezza. Potremmo dover affrontare la possibilità di una spia industriale nella struttura."
+	"MailBody3B"	"Tieni gli occhi aperti e chiedi al personale di segnalarmi qualsiasi cosa."
+	"MailBody3C"	"A proposito, NON chiamarmi Jan. Capo Amministratore Anath va bene."
+	"MailBody3D"	"Capo Amministratore J. Anath"
+}

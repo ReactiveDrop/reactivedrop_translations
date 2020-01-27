@@ -1,0 +1,18 @@
+GAME
+{
+    // PDA di proprietà di Vincent Baker
+    
+    // inbox 
+	"MailFrom1"	"Da: Juan Rosales"
+	"MailDate1"	"Data: 12/18/52"
+	"MailSubject1"	"Soggetto: Alcohol e donne?"
+	"MailBody1A"	"Ehi Vinc,"
+	"MailBody1B"	"Dovremmo davvero prendere uno dei gatti delle nevi e arrivare al complesso principale stasera. Il congelamento non può essere peggio che stare qui, ubriacarsi da soli. 19:00 ok?"
+
+    // mail spedita
+	"MailFrom3"	"A: Juan Rosales"
+	"MailDate3"	"Data: 12/18/52"
+	"MailSubject3"	"Soggetto: Re: Alcohol e donne?"
+	"MailBody3A"	"Certo J."
+	"MailBody3B"	"Avevo comuqnue finito il Daxol. Ci vediamo."
+}

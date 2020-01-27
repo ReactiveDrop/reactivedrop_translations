@@ -1,0 +1,9 @@
+GAME
+{
+	"Headline"	"Soldati IAF dispersi a Moonspire"
+	"HeadlineDate"	"12/19/52"
+	"Paragraph1"	"150 soldati IAF sono ancora dispersi dopo l'ultimo attacco dello Sciame vicino alla colonia di Moonspire su Antheon Prime, stando all'ufficiale superiore dell'IAF ad una recente conferenza tenutasi sulla USS Endurance."
+	"Paragraph2"	"Una divisione di fanteria di 208 soldati è stata attaccata dallo Sciame due giorni fa, mentre erano alla ricerca di un avamposto per possibili civili sopravvissuti."
+	"Paragraph3"	"'Stiamo continuando a cercare i soldati scomparsi,' ha detto il Generale C. Morrison, 'abbiamo ricevuto un segnale disturbato intorno alle 0200, ma la posizione della Compagnia 212 è ancora sconosciuta.'"
+	"Paragraph4"	"'Oggi è una brutta giornata per l'IAF, ma dobbiamo continuare a lottare,' ha detto Morrison."
+}

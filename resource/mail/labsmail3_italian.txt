@@ -1,0 +1,19 @@
+GAME
+{
+    // PDA di proprietà di Rivera
+    
+    // inbox
+    
+	"MailFrom1"	"Da: Laura Callen"
+	"MailDate1"	"Data: 12/23/52"
+	"MailSubject1"	"Soggetto: Trasferimento mail"
+	"MailBody1A"	"Sig. Rivera,"
+	"MailBody1B"	"Le ho chiesto due giorni fa dei problemi che ho avuto. Ha detto che avrebbe guardato dentro. Devo ancora ricevere un aggiornamento. Perché ci vuole così tanto tempo?"
+	"MailBody1C"	"L. Callen"
+	
+	"MailFrom2"	"Da: John Cain"
+	"MailDate2"	"Data: 12/24/52"
+	"MailSubject2"	"Soggetto: Re: Callen è sospettosa"
+	"MailBody2A"	"Rivera: Ignora Callen e levati di mezzo. Inoltrami tutte le e-mail che ha inviato all'IA."
+	"MailBody2B"	"Lt. Cain, Sicurezza SynTek."
+}

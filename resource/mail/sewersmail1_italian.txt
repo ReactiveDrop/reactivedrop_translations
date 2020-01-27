@@ -1,0 +1,23 @@
+GAME
+{
+    // PDA di proprietà di Brian
+    
+    // inbox
+    
+	"MailFrom1"	"Da: Helen Young"
+	"MailDate1"	"Data: 12/23/52"
+	"MailSubject1"	"Soggetto: L. Callen"
+	"MailBody1A"	"Brian,"
+	"MailBody1B"	"Stai fuori dalla Stazione di Timor! Per favore, torna nei quartieri il più presto possibile. Kate è scomparsa e nessuno sa dove sia. Phil ha detto di conoscere almeno altre due persone scomparse. Incontrerò Ming stasera."
+	"MailBody1C"	"Per favore, torna il prima possibile. Ti amo."
+	"MailBody1D"	"Helen"
+
+	"MailFrom2"	"Da: Helen Young"
+	"MailDate2"	"Data: 12/24/52"
+	"MailSubject2"	"Soggetto: DOVE SEI??"
+	"MailBody2A"	"Brian, per favore contattami! Dove sei? Sono preoccupata, d'accordo? Ming sta sperimentando su quelle uova - esperimenti che so essere illegali. Questa mattina hanno sigillato il ponte 1; ci sono voci di contaminazione ma nessuna conferma. SynTek vuole tenerci al oscuro. Abbiamo anche sentito degli spari da qualche parte nel complesso principale."
+	"MailBody2B"	"Perfavore contattami. Non sopporto il pensiero che tu sia ancora laggiù da qualche parte."
+	"MailBody2C"	"Helen"
+
+    // spediti
+}

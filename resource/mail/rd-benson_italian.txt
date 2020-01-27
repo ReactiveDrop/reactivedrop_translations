@@ -1,0 +1,22 @@
+GAME
+{
+    // PDA di proprietà di George Benson
+    
+    // inbox 
+	"MailFrom1"     "Da: Spedizione e stoccaggio"
+	"MailDate1"     "Data: 24/10/53"
+	"MailSubject1"   "Soggetto: Re: Motoseghe?!"
+	"MailBody1A"     "Ehi George,"
+	"MailBody1B"     "Ci scusiamo per il disordine. Mi assicurerò di spedire quelle provviste mediche la prossima settimana."
+	"MailBody1C"     "Per quanto riguarda la motosega, gettala da una scogliera o qualcosa del genere. Qualche idiota ne ha ordinato un carico per errore e li ho fatti sedere nel magazzino occupando spazio da allora. Come se avessimo bisogno di motoseghe su questa roccia!"
+	"MailBody1D"     "- Bob Vernes, Responsabile della spedizione e dello stoccaggio"
+
+   // mail spedita
+	"MailFrom3"	"A: Spedizione e stoccaggio"
+	"MailDate3"	"Data: 23/10/53"
+	"MailSubject3"	"Soggetto: Motoseghe?!"
+	"MailBody3A"	"Spedizione e stoccaggio,"
+	"MailBody3B"	"Ho ordinato delle provviste mediche per l'avamposto delle comunicazioni, ma quando è arrivata la consegna settimanale sono stato sorpreso di scoprire che ci avete inviato una motosega ?! Potreste assicurarvi di inviarci le forniture mediche nella prossima consegna. Nel frattempo, farò rimandare dal qualcuno la motosega."
+	"MailBody3C"	"Per quale motivo avete delle motoseghe comunque???"
+	"MailBody3D"    "- George Benson, Ufficiale delle comunicazioni"
+}

@@ -1,0 +1,20 @@
+GAME
+{
+    // PDA di proprietà di Lucius Pawn
+    
+    // inbox
+    
+	
+	
+	// mail spedita
+
+	"MailFrom3"	"Da: Lana King"
+	"MailDate3"	"Data: 02/29/53"
+	"MailSubject3"	"Soggetto: Idea"
+	"MailBody3A"	"Vai nella baia di atterraggio e prepara una nave, ho appena avuto una grande idea per la testata."
+	"MailBody3B"	"Ho inizializzato il timer. Se non sarò con te tra tre minuti, per favore... vai e basta. L'intera base verrà distrutta nell'esplosione."
+	"MailBody3C"	"Se fallisco, non ci incontreremo mai più. Ti amo. Mi dispiace se non te l'ho mai detto prima, ma eccomi qui, tutto per caso. Ti voglio bene, Lana"
+	"MailBody3D"	"Lucius"
+
+
+}

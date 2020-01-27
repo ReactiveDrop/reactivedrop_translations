@@ -1,0 +1,8 @@
+GAME
+{
+	"Headline"	"SynTek Stabilisce una Nuova Colonia Mineraria"
+	"HeadlineDate"	"12/15/52"
+	"Paragraph1"	"La Megacorporazione SynTek ha informato oggi dello stabilimento di una nuova colonia mineraria nello spazio profondo, ai confini del cluster SX-2833-87P.  Hanno anche annunciato una spedizione immediata di civili lavoratori verso il pianeta."
+	"Paragraph2"	"Le manifestazioni continuano fuori dai quartier geenrali della SynTek nell'isola di Tokyo York, Terra, a causa delle condizioni lavorative sulle colonie e le paghe troppo basse, affermazioni che la SynTek nega categoricamente."
+	"Paragraph3"	"Le quote della SynTek sono aumentate di 5 punti con le notizie della nuova colonia."
+}

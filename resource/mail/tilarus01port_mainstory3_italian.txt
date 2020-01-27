@@ -1,0 +1,12 @@
+GAME
+{
+    // PDA di proprietà di Sovrintendente Ross
+    
+    "MailFrom1"    "Da: Comandante harold"
+    "MailDate1"    "Data: 3/2/54"
+    "MailSubject1"    "Soggetto: Evacuazione"
+    "MailBody1A"    "Dannazione Ross, vorrei voluto che ti sbagliassi"
+    "MailBody1B"    "Bma sono contento che abbiamo deciso di dare ascolto al tuo consiglio, l'evacuazione è già in corso come sai"
+    "MailBody1c"    "Porta il tuo staff fuori dalla baia 7 e fino a Dawn City"
+    "MailBody1d"    "Buona fortuna vecchio amico"
+}

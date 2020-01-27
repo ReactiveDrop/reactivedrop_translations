@@ -1,0 +1,9 @@
+GAME
+{
+	"Headline"	"Il convoglio della United Industries parte"
+	"HeadlineDate"	"12/21/52"
+	"Paragraph1"	"Un convoglio delle United Industries parte questa settimana dalla loro colonia centrale, diretto verso il Sistema Principale. L'enorme flotta contiene almeno 25 mercantili di classe Leviathan e ha una copertura IAF completa per il suo viaggio."
+	"Paragraph2"	"Il trasporto porterà risorse molto ricercate fuori dal mondo, utilizzate in tutte le industrie manifatturiere e produttive nei sistemi di base. Porteranno anche beni esotici e di lusso per i mercati di consumo."
+	"Paragraph3"	"I critici della United Industries li accusano di aver portato anche un certo numero di beni del mercato nero, inclusi pericolosi narcotici fuori dal mondo."
+	"Paragraph4"	"L'IAF ha dedicato una grande forza difensiva al convoglio, definendo i beni inestimabili per il funzionamento dell'IA.'"
+}

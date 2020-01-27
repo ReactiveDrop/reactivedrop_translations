@@ -1,0 +1,40 @@
+GAME
+{
+    // PDA di proprietà di Tony Dawson
+    
+    // inbox 
+
+	"MailFrom1"     "Da: Barbara Whyte"
+	"MailDate1"     "Data: 06/10/57"
+	"MailSubject1"   "Soggetto: Re:Re: sicurezza aggiuntiva"
+	"MailBody1A"     "Tony,"
+	"MailBody1B"     "Grazie per aver assegnato il personale addetto alla sicurezza. Tutti sono piuttosto scossi dopo che quei ragazzi hanno cercato di riprendere la loro merce con la forza, e la sicurezza aggiuntiva sta davvero aiutando le persone a sentirsi più a proprio agio."
+	"MailBody1C"     "Ho anche sentito che Jenny sta andando bene e dovrebbe riprendersi completamente. Per favore, fai sapere ad Adam che sembrava piuttosto preoccupato per lei."
+	"MailBody1D"     "Barbara Whyte - Supervisore per lo stoccaggio del carico"
+
+	"MailFrom2"     "Da: Andrew Smithson"
+	"MailDate2"     "Data: 04/10/57"
+	"MailSubject2"   "Soggetto: possibile clandestino!"
+	"MailBody2A"     "Tony,"
+	"MailBody2B"     "Potresti per favore mandare qualcuno all'hangar 6, penso che ci potrebbe essere qualcosa nelle prese d'aria qui. Forse un clandestino o qualcosa del genere. Forse l'animale di qualcuno si è liberato o qualcosa del genere, perché non credo sia un essere umano che sto ascoltando."
+	"MailBody2C"     ""
+	"MailBody2D"     "Andrew Smithson - Manutenzione dello spazioporto"
+
+   // mail spedita
+	"MailFrom3"	"A: Barbara Whyte"
+	"MailDate3"	"Data: 06/10/57"
+	"MailSubject3"	"Soggetto: Oggetto confiscato"
+	"MailBody3A"	"Oggi abbiamo fatto una scoperta interessante. Uno dei passeggeri fuori dal volo 320XYXF9A stava tentando di portare un laser da miniera nella colonia nel suo bagaglio a mano. Lo informammo che le procedure adeguate significavano che tutte le attrezzature e le armi a motore dovevano essere trasferite in contenitori sigillati e dichiarate in anticipo."
+	"MailBody3B"	"Gli ho detto quali moduli ha bisogno di compilare per farlo rilasciare, l'ha preso abbastanza bene nel complesso. Nel frattempo l'ho rinchiuso nell'armeria della stazione di sicurezza. Penso che probabilmente è meglio cosi. Dopo quell'incidente con gli uomini armati, immagino che la tua gente si sentirà meglio se non dovrà maneggiare una pistola laser ad alta potenza. Ti invierò un rapporto completo più tardi oggi, quindi è nei tuoi record."
+	"MailBody3C"	"Oh e penso che Adam sappia già di Jenny. Si è preso il pomeriggio libero per poter essere lì all'ospedale. Immagino che ci sia qualcosa tra questi due."
+	"MailBody3D"    "Tony Dawson - Sicurezza dello Spazioporto"
+
+	"MailFrom4"     "Da: Andrew Smithson"
+	"MailDate4"     "Data: 04/10/57"
+	"MailSubject4"   "Soggetto: Re:possibile clandestino"
+	"MailBody4A"     "Andrew per l'ultima volta, non c'è niente nelle prese d'aria! Questa è la quarta volta che urli al lupo nell'ultimo mese. La scorsa settimana era l'hangar 3, la settimana prima era il deposito di carburante B. Ogni volta che ci mandi su uno di questi inseguimenti di oca selvatica, non troviamo mai un solo brandello di prove per dire che in realtà c'è qualcosa lì. Sono stufo di mandare i miei uomini a gattonare attraverso i sistemi di ventilazione solo per soddisfare le tue delusioni."
+	"MailBody4B"     "Questo non è il mio lavoro, ma ho parlato con altre persone del tuo dipartimento e siamo tutti d'accordo sul fatto che hai bisogno di aiuto. Parlerò con l'Amministrazione per consigliarti di ricevere una consulenza."
+	"MailBody4C"     ""
+	"MailBody4D"     "Tony Dawson - Sicurezza dello spazioporto"
+
+}

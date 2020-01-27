@@ -1,0 +1,23 @@
+GAME
+{
+    // PDA di proprietà di Brian
+    
+    // inbox
+    
+	"MailFrom1"	"Da: Helen Young"
+	"MailDate1"	"Data: 12/19/52"
+	"MailSubject1"	"Soggetto: eusocialità"
+	"MailBody1A"	"Risultati dello sciame:"
+	"MailBody1B"	"Abbiamo fatto dei test. Tutti i modelli per la crescita, la durata della vita e il metabolismo funzionano solo se applicati su tutta la popolazione, piuttosto che sugli individui."  
+	"MailBody1C"	"In un certo senso, sono come gli insetti avanzati dell'alveare, un singolo superorganismo avanzato. Il contenimento è vitale."
+	
+	// mail spedita
+
+	"MailFrom3" 	"A: Helen Young"
+	"MailDate3"	"Data: 12/19/52"
+	"MailSubject3"	"Soggetto: Re: ??!"
+	"MailBody3A"	"Socialità strutturata?"
+	"MailBody3B"	"Tra gli organismi grossi? Sono ancora scettico."  
+	"MailBody3C"	"Non c'è dubbio, tuttavia, che le uova sono pericolose. Oggi abbiamo avuto un incidente. Uno dei lavoratori è stato trovato morto."
+	"MailBody3D"	"Concordo che il contenimento è vitale, ma non prevedo difficoltà."
+    }

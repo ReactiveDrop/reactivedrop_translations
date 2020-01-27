@@ -1,0 +1,17 @@
+GAME
+{
+    // PDA di proprietà di Leon Bishop
+    
+    // Inbox
+    
+	"MailFrom1"	"Da: Jan Anath"
+	"MailDate1"	"Data: 02/29/53"
+	"MailSubject1"	"Soggetto: Spia Trovata"
+	"MailBody1A"	"Windom King era il nostro traditore, sono stato costretto a ucciderlo."
+	"MailBody1B"	"La sua storia dell'attacco Swarm era un diversivo. Ha mandato sua figlia e un agente di sicurezza nel complesso della testata per rubare i nostri progetti."
+	"MailBody1C"	"Fermali ad ogni costo, compresa la loro vita. Questo è un ordine."
+	"MailBody1D"	"Capo Amministratore J. Anath"
+
+	
+	// mail spedita
+}

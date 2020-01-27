@@ -1,0 +1,9 @@
+GAME
+{
+	"Headline"	"Fuori il vecchio Dentro il nuovo!"
+	"HeadlineDate"	"02/02/54"
+	"Paragraph1"	"Il nuovo sistema di colonie e strutture sono andati online oggi. I coloni di Oasis non  si devono più vergognare, poiché ora possediamo una delle colonie più moderne conosciute all'uomo."
+	"Paragraph2"	"Il vecchio sistema aveva già esaurito il tempo, siccome aveva sistemi ancora in piedi da quando era stata fondata la prima colonia. Il completamente è arrivato giusto in tempo per il 23esimo anniversario del nostro arrivo sul pianeta di Oasis, il che vuol dire che questa volta non avremo un blackout generale come nell'anniversario dell'anno scorso."
+	"Paragraph3"	"Il nuovo sistema include una struttura per le comunicazioni, un espansione della zona medica e un'importante revisione della rete elettrica della colonia."
+	"Paragraph4"	"Nel complesso, è una buona giornata qui a Oasis. Infine l'amministrazione vorrebbe augurare a tutti un felice Anniversario di arrivo sul pianeta!"
+}

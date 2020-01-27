@@ -1,0 +1,12 @@
+GAME
+{
+    // PDA di proprietà di Brian
+    
+	"MailFrom1"	"Da: Helen Young"
+	"MailDate1"	"Data: 12/22/52"
+	"MailSubject1"	"Soggetto: Niente lavoro"
+	"MailBody1A"	"Ehi Brian,"
+	"MailBody1B"	"Ci manchiamo l'un l'altro."
+	"MailBody1C"	"Hai sentito della contaminazione? Hanno sigillato i laboratori a tempo indeterminato. Solo Ming ha accesso. Guardie di sicurezza armate sono di stanza agli ascensori."
+	"MailBody1D"	"Ti amo, Helen.  PS: Il gatto di Kate è scomparso di nuovo."
+}

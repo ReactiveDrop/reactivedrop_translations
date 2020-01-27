@@ -1,0 +1,17 @@
+GAME
+{
+    // PDA di proprietà di Lana King
+    
+    // inbox
+    
+	"MailFrom1"	"Da: Windom King"
+	"MailDate1"	"Data: 02/29/53"
+	"MailSubject1"	"Soggetto: Attenzione!"
+	"MailBody1A"	"Lana, lo Sciame è qui! Ho visto queste stessi segnali sui sensori di massa in passato."
+	"MailBody1B"	"Tu e Lucius dovete fare del vostro meglio per rallentarli e correre alla struttura della testata. Quando arrivi lì, attiva le difese di sicurezza e lascia il pianeta."
+	"MailBody1C"	"Anath non mi crede. Proverò a convincerlo a chiamare l'IAF ma non sono fiducioso."
+	"MailBody1D"	"Windom"
+
+	
+	// mail spedita
+}

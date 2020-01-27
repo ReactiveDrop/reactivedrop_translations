@@ -1,0 +1,22 @@
+GAME
+{
+// PDA di proprietà di Dr. Tom Hinler.
+
+"MailFrom1" "Da : Dr. Tom Hinler."
+"MailDate1" "Data : 05/26/2060."
+"MailSubject1" "Soggetto : Soggetto 58."
+"MailBody1A" "Giovedì 21 Maggio, 2060 :
+Oggi abbiamo implementato con successo un DNA ricombinante sul paziente. Questo DNA proveniva dall'Alieno catturato alcuni giorni fa da una pattuglia. Il paziente sembra essere in buona salute".
+"MailBody1B" "Sabato 23 Maggio, 2060 :
+Il paziente parla di mal di testa, nausea e vertigini costanti. Le sue condizioni si stanno deteriorando di giorno in giorno. Forse l'impianto non è riuscito... di nuovo.
+"
+"MailBody1C" "Lunedì 25 Maggio, 2060 :
+Abbiamo un vero problema. Il paziente si sta comportando in modo molto strano. Ha attacchi di follia più spesso ed è diventato sempre più violento nei confronti dei medici che si occupano del suo caso. Dobbiamo prendere una decisione.
+Se continua così, finirà per ferire qualcuno, o peggio ..."
+"MailBody1D" "Martedi 26 Maggio, 2060 :
+Il paziente è fuggito. Ha ferito due medici. Molti soldati hanno iniziato a cercarlo. Lo hanno trovato nel pomeriggio, con il taglio in ozio e il corpo imbrattato di sangue. Abbiamo portato nella stanza medica e ucciso per intraprendere ulteriori studi. Dovevamo, altrimenti sarebbe degenerato.
+
+= Soggetto 58 : Fallito. =
+
+Dr. Tom Hinler."
+}
