@@ -1,0 +1,18 @@
+GAME
+{
+    // PDA belongs to Vincent baker
+    
+    // inbox 
+	"MailFrom1"	"송신자: 주안 로잘레스"
+	"Mail날짜1"	"날짜: 52년 12월 18일"
+	"Mail주제1"	"주제: 주지육림?"
+	"MailBody1A"	"이봐 빈,"
+	"MailBody1B"	"우린 정말로 제설차 중 하나를 타고 오늘 밤 주 단지에 가야 해.  동상 걸리는게 여기에 남는 것 보다 더 나쁠 순 없어, 혼자 취한 채로 말이야.  19시 괜찮지?"
+
+    // sent mail
+	"MailFrom3"	"수신자: 주안 로잘레스"
+	"Mail날짜3"	"날짜: 52년 12월 18일"
+	"Mail주제3"	"주제: 회신: 주지육림?"
+	"MailBody3A"	"물론이지 J."
+	"MailBody3B"	"그나저나 닥솔이 다 떨어졌어.  나중에 봐."
+}

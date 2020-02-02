@@ -1,0 +1,12 @@
+﻿GAME
+{
+    // PDA belongs to Overseer Ross
+    
+    "MailFrom1"    "송신자: 해럴드 사령관"
+    "MailDate1"    "날짜: 54년 2월 3일"
+    "MailSubject1"    "주제: 대피"
+    "MailBody1A"    "젠장할 로스, 네가 틀렸길 바랬다"
+    "MailBody1B"    "하지만 우리가 자네 조언에 따라 행동하기로 결정해서 지랄맞게 기쁘군, 알다시피 대피는 이미 진행 중이라네"
+    "MailBody1c"    "자네와 자네 직원들을 개같은 7번 구역 밖으로 데리고 여명 도시로 향하게"
+    "MailBody1d"    "행운을 빈다네 오랜 친구여"
+}

@@ -1,0 +1,11 @@
+﻿GAME
+{
+    // PDA belongs to Lt Cain
+    
+	"MailFrom1"	"송신자: 로라 캘런"
+	"MailDate1"	"날짜: 52년 12월 24일"
+	"MailSubject1"	"주제: 그게 이거야"
+	"MailBody1A"	"계엄령?"
+	"MailBody1B"	"그러기엔 너무 늦었어요."
+	"MailBody1C"	"심각한 개입이 필요해요, 그렇지 않으면 우린 이 시설을 잃고 말거에요."
+}

@@ -1,0 +1,10 @@
+﻿GAME
+{
+// PDA belongs to John Hadan
+
+"MailFrom1" "송신자: 지미 카터"
+"MailDate1" "날짜: 54년 2월 2일"
+"MailSubject1" "주제: 신텍 수송"
+"MailBody1A" "이봐 존, 신텍에서 보낸 수송품 알아?  그거 격리되었더군. 
+또 카일이 그러는데 부두에서 사고가 났다고 했어, 수송품이 있던 같은 장소 주변에서, 뭐 아는거 있어?"
+}

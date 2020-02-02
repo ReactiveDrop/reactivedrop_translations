@@ -1,0 +1,24 @@
+GAME
+{
+	// PDA belongs to Martin Bauer
+
+	// inbox
+
+	"MailFrom1" "송신자: 신텍 자료 분석가"
+	"MailDate1" "날짜: 52년 10월 5일"
+	"MailSubject1" "주제: 시설 배치 자료"
+	"MailBody1A" "안녕하세요 마틴"
+	"MailBody1B" "당신이 요청한 대로 단말기에 업데이트된 시설 배치 파일을 업로드했어요."
+	"MailBody1C" "더 이상 잃어버리지 않길 바랍니다.  하하!  ;D"
+	"MailBody1D" "경의를 담아, 마이크 파머"
+
+	// sent mail
+
+	"MailFrom3" "수신자: 신텍 자료 분석가"
+	"MailDate3" "날짜: 52년 10월 5일"
+	"MailSubject3" "주제: 회신: 시설 배치 자료"
+	"MailBody3A" "안녕하세요 마이크"
+	"MailBody3B" "오우... 재밌으시네요... :P"
+	"MailBody3C" "어쨌든 파일 고마워요."
+	"MailBody3D" "-마틴"
+} 

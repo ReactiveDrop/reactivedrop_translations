@@ -1,0 +1,19 @@
+﻿GAME
+{
+    // PDA belongs to Rivera
+    
+    // inbox
+    
+	"MailFrom1"	"송신자: 로라 캘런"
+	"MailDate1"	"날짜: 52년 12월 23일"
+	"MailSubject1"	"주제: 이메일 전송"
+	"MailBody1A"	"리베라 씨,"
+	"MailBody1B"	"이틀 전에 내가 겪고 있는 문제들에 대해 물어봤었죠.  조사해 보겠다고 하셨잖아요.  그런데 아직 소식이 없어요.  왜 이렇게 오래 걸리는 거에요?"
+	"MailBody1C"	"L. 캘런"
+
+	"MailFrom2"	"송신자: 존 케인"
+	"MailDate2"	"날짜: 52년 12월 24일"
+	"MailSubject2"	"주제: 회신: 캘런이 의심스러워지고 있어요"
+	"MailBody2A"	"리베라, 캘런을 무시하고 그녀에게서 벗어나세요.  그리고 그녀가 동맹으로 보낸 모든 우편물을 내게 보내주세요."
+	"MailBody2B"	"케인 중위, 신텍 보안팀"
+}

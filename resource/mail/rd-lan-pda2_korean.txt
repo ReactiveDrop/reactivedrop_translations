@@ -1,0 +1,33 @@
+﻿GAME
+{
+    // PDA belongs to Lucius Pawn
+    
+    // inbox
+    
+	"MailFrom1"	"송신자: 윈덤 킹"
+	"MailDate1"	"날짜: 53년 2월 29일"
+	"MailSubject1"	"주제: 보안"
+	"MailBody1A"	"내 화면에 뭔가 잡히고 있어.  뭔지는 확실치 않지만.  보이는 모든 것을 내게 보고해줘."
+	"MailBody1B"	"애나스는 또 스파이라고 생각해...  궤도에서 특공대 스파이가 떨어지기라도 했나?"
+	"MailBody1C"	"이 남자는 그의 이야기로 날 개같게 만들어."
+	"MailBody1D"	"보안팀장 W. 킹"
+
+	"MailFrom2"	"송신자: 라나 킹"
+	"MailDate2"	"날짜: 53년 2월 29일"
+	"MailSubject2"	"주제: 커피 기계???"
+	"MailBody2A"	"당신의 커피 기계 문제를 조사하러 들를 거에요."
+	"MailBody2B"	"정말 고장난거에요 아니면 그냥 어디 같이 숨고 싶은거에요?"
+	"MailBody2C"	""
+	"MailBody2D"	"사랑하는, 라나가"
+
+	
+	// sent mail
+	
+	"MailFrom3"	"수신자: 윈덤 킹"
+	"MailDate3"	"날짜: 53년 2월 29일"
+	"MailSubject3"	"주제: 회신: 보안"
+	"MailBody3A"	"예, 모든 걸 보고하겠습니다."
+	"MailBody3B"	"지금까지, 고장난 건 우리의 커피 기계밖에 없습니다.  애나스의 스파이가 방해했으려나요? :)"
+	"MailBody3C"	"따님은 오늘 근무하십니까?  그 커피 기계는 그녀의 수리 기술을 써야겠습니다."
+	"MailBody3D"	"보안관 루시우스 폰"
+}

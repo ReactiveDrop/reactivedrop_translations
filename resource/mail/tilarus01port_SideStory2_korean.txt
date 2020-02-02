@@ -1,0 +1,35 @@
+﻿GAME
+{
+// PDA belongs to Overseer Ross
+// inbox
+
+"MailFrom1" "송신자: 지미 카터"
+"MailDate1" "날짜: 54년 2월 2일"
+"MailSubject1" "주제: 반응로 압력 저하"
+"MailBody1A" "이봐 로스,"
+"MailBody1B" "6번 구역 아래에서 이상한 소리가 나,"
+"MailBody1C" "그리고 부러진 파이프가 많아, 아주 많이 말이야, 1번 반응로 압력도 15%로 감소했어."
+"MailBody1D" "도움이 필요해, 나중에 얘기할게."
+
+"MailFrom2" "송신자: 로스 감독관"
+"MailDate2" "날짜: 54년 2월 2일"
+"MailSubject2" "주제: 존?"
+"MailBody2A" "로스, 거의 8시간이나 지났는데, 언제 존을 내려 보낼 계획이야?"
+
+// sent mail
+"MailFrom3" "수신자: 로스 감독관"
+"MailDate3" "날짜: 52년 12월 18일"
+"MailSubject3" "주제: 회신: 반응로 압력 저하"
+"MailBody3A" "지미,"
+"MailBody3B" "미안 지미, 지금 너무 바쁘네, 대부분의 시설들이 6번 구역에서 일어난 사고를 치우기 위해 노력하고 있어."
+"MailBody3C" "하지만 존을 보내서, 반응로를 계속 점검해보고, 그게 25% 아래로 떨어지면, 식민지 전력도 문제가 생기겠지"
+
+"MailFrom4" "수신자: 로스 감독관"
+"MailDate4" "날짜: 52년 12월 18일"
+"MailSubject4" "주제: 회신: 존?"
+"MailBody4A" "지미,"
+"MailBody4B" "메일을 보내고 바로 존을 내려보냈어, 거기까지 가는데 기껏해야 20분밖에 안걸려."
+"MailBody4C" "다른 친구들에게 물어봐서, 그가 어디 있는지 알아봐 줄께"
+"MailBody4D" "또 보안관에게 알려서 그를 찾아봐달라고 할께, 최근 이상하게 실종되는 사람들이 많아졌어"
+
+}

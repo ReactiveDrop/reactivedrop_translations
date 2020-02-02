@@ -1,0 +1,12 @@
+﻿GAME
+{
+    // PDA belongs to Brian
+    
+	"MailFrom1"	"송신자: 헬렌 영"
+	"MailDate1"	"날짜: 52년 12월 22일"
+	"MailSubject1"	"주제: 일 없어"
+	"MailBody1A"	"이봐 브라이언,"
+	"MailBody1B"	"우린 계속 서로를 그리워해."
+	"MailBody1C"	"오염에 대해서 들었니?  그들이 실험실을 무기한 봉쇄했어.  오직 밍만 접근 권한이 있는데.  엘리베이터에 무장 경비원들이 배치되어 있어."
+	"MailBody1D"	"사랑하는, 헬렌이.  추신: 케이트의 고양이가 또 실종되었어."
+}

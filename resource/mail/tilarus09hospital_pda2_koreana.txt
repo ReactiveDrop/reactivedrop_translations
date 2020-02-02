@@ -1,0 +1,20 @@
+GAME
+{
+    // PDA belongs to Joseph Palmer
+    
+    // inbox
+	"MailFrom1"	"송신자: 포스터 박사"
+	"MailDate1"	"날짜: 46년 3월 13일"
+	"MailSubject1"	"주제: 복용량"
+	"MailBody1A"	"조셉,"
+	"MailBody1B"	"왜 환자 몰리건이 살아남지 못했는지 알아낸 것 같아요." 
+	"MailBody1C"	"세포 증식 억제제 양이 부족했어요.  돌연변이의 종결 단계에서 두 번째로 복용시킬 것을 권고할게요."
+	"MailBody1D"	"포스터 박사"
+
+    // sent mail
+	"MailFrom3" 	"수신자: 포스터 박사"
+	"MailDate3"	"날짜: 46년 3월 13일"
+	"MailSubject3"	"주제: 회신: 복용량"
+	"MailBody3A"	"동의합니다."
+	"MailBody3B"	"다음번에는 복용량을 늘릴 겁니다.  제가 적당한 환자를 찾았다고 확신해요." 
+}

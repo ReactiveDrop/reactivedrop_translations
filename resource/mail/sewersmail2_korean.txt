@@ -1,0 +1,11 @@
+﻿GAME
+{
+    // PDA belongs to brian
+	"MailFrom1"	"송신자: 헬렌 영"
+	"MailDate1"	"날짜: 52년 12월 24일"
+	"MailSubject1"	"주제: 실험실로 가는 중"
+	"MailBody1A"	"브라이언, 도대체 무슨 젠장할 일이야?  총성?  비명소리?  필과 나는 실험실에 들어가 보기로 했어.  2번 갑판에 가기 위해 통풍구를 이용할거야."
+	"MailBody1B"	"사랑해.  제발 연락 줘!"
+	"MailBody1C"	"헬렌이"
+	"MailBody1D"	"추신: 생일 축하해, 의미가 있는지는 모르겠지만."
+}

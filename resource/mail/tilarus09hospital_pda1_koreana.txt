@@ -1,0 +1,16 @@
+GAME
+{
+    // PDA belongs to Emily Hoggarth
+
+    // sent mail
+
+	"MailFrom3"	"수신자: 케넷 박사"
+	"MailDate3"	"날짜: 46년 3월 12일"
+	"MailSubject3"	"주제: 조사"
+	"MailBody3A"	"케넷 박사님,"
+	"MailBody3B"	"우리가 이 지역 대부분의 경찰들의 관심을 끈 것 같아요."
+	"MailBody3C"	"우린 극도로 조심해야 해요.  환자 몰리건에게 일어났었던 일을 다시 반복해선 안돼요."
+	"MailBody3D"	"E. 호거스 박사"
+}
+
+

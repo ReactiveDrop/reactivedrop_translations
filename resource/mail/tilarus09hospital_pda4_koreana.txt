@@ -1,0 +1,25 @@
+GAME
+{
+    // PDA belongs to Dr.Kennett
+    
+	"MailFrom1"	"송신자: L. 길모어 박사"
+	"MailDate1"	"날짜: 46년 3월 17일"
+	"MailSubject1"	"주제: 용감한 보안 책임자"
+	"MailBody1A" 	"케넷!"
+	"MailBody1B"	"그 실험체들이 보안팀을 뚫어버렸어요!"
+	"MailBody1C"	"보안 책임자는 순간이동기를 통해 탈출을 시도하고 있어요.  자기 영역을 벗어나서요.  한심하긴.  그는 대체 어디로 갈 계획인거야?"
+	"MailBody1D"	"우린 뭔가 해야하고, 빨리 해야 해요."
+	
+	"MailFrom2"	"송신자: L. 길모어 박사"
+	"MailDate2"	"날짜: 46년 3월 17일"
+	"MailSubject2"	"주제: ???"
+	"MailBody2A"	"왜 대답을 안 해주는 거에요?!"
+	
+	"MailFrom3"	"수신자: L. 길모어 박사"
+	"MailDate3"	"날짜: 46년 3월 17일"
+	"MailSubject3"	"주제: 도와줘요!"
+	"MailBody3A" 	"릴리!"
+	"MailBody3B"	"그 실험체들이 온 사방에 있어요!"
+	"MailBody3C"	"전기가 나가기 전에 한 창고에 숨어서 지금은 갇혔어요.  난 그저 그 망할 실험체들이 여기에 들어오지 않기를 바랄 뿐이에요."
+	"MailBody3D"	"이 모든 것은 더 이상 말이 안돼요.  여기서 나갈 필요가 있고, 단지를 파괴해야 해요."
+}

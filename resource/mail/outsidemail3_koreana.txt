@@ -1,0 +1,12 @@
+﻿GAME
+{
+    // PDA belongs to Brad Campbell
+    
+	"MailFrom1"	"송신자: 데이비드 앤더스"
+	"MailDate1"	"날짜: 52년 12월 12일"
+	"MailSubject1"	"주제: 활성화 코드"
+	"MailBody1A"	"브래드," 
+	"MailBody1B"	"코박과 내가 다리에 폭발물을 설치해놨어.  폭발 코드는 0951이야.  네 사람들에게 조심하라고 해."
+	"MailBody1C"	"행운을 빌게.  모든 건 여기에 달려 있어."
+	"MailBody1D"	"데이브가"
+}

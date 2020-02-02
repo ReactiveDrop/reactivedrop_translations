@@ -1,0 +1,18 @@
+﻿GAME
+{
+    // PDA belongs to Lt Cain
+    
+	"MailFrom1"	"송신자: 숀 밍"
+	"MailDate1"	"날짜: 52년 12월 21일"
+	"MailSubject1"	"주제: 실험"
+	"MailBody1A"	"케인 중위님,"
+	"MailBody1B"	"고양이요?  안돼요.  너무 작아요."
+	"MailBody1C"	"S. 밍"
+
+	"MailFrom2"	"송신자: 숀 밍"
+	"MailDate2"	"날짜: 52년 12월 22일"
+	"MailSubject2"	"주제: 실험 2"
+	"MailBody2A"	"케인 중위님,"
+	"MailBody2B"	"이거 먹히네요.  더 필요하겠어요.  이게 문제가 될까요?  제 실험의 중요성을 제가 강조하지 않았으면 좋겠어요."
+	"MailBody2C"	"S. 밍"
+}

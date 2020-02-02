@@ -1,0 +1,9 @@
+﻿GAME
+{
+    // PDA belongs to Ming
+	"MailFrom1"	"송신자: 존 케인"
+	"MailDate1"	"날짜: 52년 12월 24일"
+	"MailSubject1"	"주제: 회신: 영은요?"
+	"MailBody1A"	"어디에서도 그녀를 찾을 수 없어요."
+	"MailBody1B"	"일이 걷잡을 수 없어졌어요.  제가 신텍 본사에 연락해볼게요.  당장 동맹군이 필요해요."
+}

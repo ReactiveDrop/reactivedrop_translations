@@ -1,0 +1,11 @@
+﻿GAME
+{
+    // PDA belongs to Overseer Ross
+    
+    "MailFrom1"    "송신자: 해럴드 사령관"
+    "MailDate1"    "날짜: 54년 2월 2일"
+    "MailSubject1"    "주제: 보고서"
+    "MailBody1A"    "보고서는 잘 받았네 로스,"
+    "MailBody1B"    "나한테 자네가 전해준 내용이 정말 확실한가?  만약 그게 아니라면 자네에겐 좋은 징조가 아니거든."
+    "MailBody1c"    "다른 한 편으로, 그게 맞다면, 우린 다 좆됐군, 이상"
+}

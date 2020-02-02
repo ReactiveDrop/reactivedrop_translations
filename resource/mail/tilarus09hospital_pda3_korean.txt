@@ -1,0 +1,20 @@
+GAME
+{
+    // PDA belongs to David Foster
+
+    // sent mail 
+	"MailFrom3"	"수신자: 앤드류 와드"
+	"MailDate3"	"날짜: 46년 3월 16일"
+	"MailSubject3"	"주제: 도움이 필요해요"
+	"MailBody3A" 	"앤드류,"
+	"MailBody3B"	"이 병원의 보안 책임자로써, 이런 걸 억제하는게 당신 임무라고 생각해요."
+	"MailBody3C"	"저흰 공격적인 표본들을 시설 최하위층에 격리시켰어요.  우리가 얼마나 더 오래 그들을 그곳에 붙잡아 둘 수 있을지 확신할 수 없어요."
+	"MailBody3D"	"해결책을 찾아주세요!"
+
+	"MailFrom4"	"수신자: 앤드류 와드"
+	"MailDate4"	"날짜: 46년 3월 16일"
+	"MailSubject4"	"주제: 제가 다음이 될 거에요"
+	"MailBody4A"	"앤드류,"
+	"MailBody4B"	"아치볼드, 메이슨, 밀른 박사는 죽었어요."
+	"MailBody4C"	"이제 당신이 원하는 건 뭐든 할 수 있지만, 전 이 젠장할 곳에서 나갈 겁니다.  더 오래 살기를 계획하고 있다면 빨리 탄약을 찾아야 할 거에요."
+}

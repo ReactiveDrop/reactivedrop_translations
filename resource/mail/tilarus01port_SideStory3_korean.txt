@@ -1,0 +1,13 @@
+GAME
+{
+// PDA belongs to Overseer Ross
+
+"MailFrom1" "송신자: 카일"
+"MailDate1" "날짜: 54년 2월 2일"
+"MailSubject1" "주제: 709b 보고서"
+"MailBody1A" "-지난 24시간 동안 47개의 드로이드 유실"
+"MailBody1B" "-전체 폐기 용량 87%까지 감소"
+"MailBody1C" "-소각로 100% 용량으로 작동 중"
+"MailBody1D" "마크 4 드로이드 100개만 더 주문해주세요, 제 드로이드가 대부분 사라지기 전에 그랬던 것처럼 인력이 부족했어요.
+"
+}
