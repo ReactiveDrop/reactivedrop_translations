@@ -1,0 +1,17 @@
+GAME
+{
+	"pos_x"	"-13850" // -15692
+	"pos_y"	"1829"
+	"scale"	"11.2"
+	"material" "vgui/swarm/Overviews/landingbay01Overview"
+	"briefingmaterial" "vgui/swarm/Overviews/landingbay01BriefingOverview"
+	"mapyoffset" "0"
+	"missiontitle"		"착륙장 "
+	//"description"	"Perform a sweep of the Landing Bay on Vereon XII.  IAF Command has ordered retrieval of flight data from an escape pod in one of the bays."
+	"description"	"베레온 XII에 있는 착륙장을 소탕하십시오.  동맹군 지휘관은 한 구역 안에 있는 탈출 장치에서 비행 자료의 회수를 명령했습니다."
+	"image"		"swarm/ObjectivePics/oblandinghack"
+	"version"		"1"
+	"author"		"Valve"
+	"website"		"http://www.alienswarm.com/"
+	"builtin"		"1"
+}

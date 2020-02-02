@@ -1,0 +1,29 @@
+﻿GAME
+{
+	// Overview: scale 10.00, pos_x -2831, pos_y 8387
+	// radar map position and scale (see the Valve wiki for more information: http://developer.valvesoftware.com/wiki/Main_Page)
+	"pos_x"		"-4111"		// -2831 
+	"pos_y"		"8387"
+	"scale"		"10.00"
+
+	// material used for the radar map (in the bottom left corner)
+	"material" 		"vgui/swarm/Overviews/tilarus02_overview"  			// example: "vgui/swarm/Overviews/landingbay02Overview"
+
+	// material used for the briefing map (shown before the mission starts)
+	"briefingmaterial" 	"vgui/swarm/Overviews/tilarus02_briefing"		// example: "vgui/swarm/Overviews/landingbay02briefingOverview"
+
+	// Title of the mission
+	//"missiontitle"		"Road to Dawn"
+	"missiontitle"		"여명으로의 길 "
+	// Description text shown for the mission
+	//"description"		"Start the journey towards Dawn"
+	"description"		"여명을 향한 여정을 시작하십시오"
+	
+	// Mission image that shows when selecting this mission
+	"image"			"swarm/objectivepics/tilarus02obj1"  			//must be under "vgui" - dont include vgui in the path
+
+	"builtin" 		"1"
+	"version"		"1.5"
+	"author"		"Jarhchief"
+	"website"		"https://sites.google.com/site/swarmaddons/maps/extermination"
+}

@@ -1,0 +1,16 @@
+﻿GAME
+{
+	"pos_x"	"-5993"
+	"pos_y"	"-1627"
+	"scale"	"9.3"
+	"material" "vgui/swarm/Overviews/residentialOverview"
+	"briefingmaterial" "vgui/swarm/Overviews/residentialBriefingOverview"
+	"missiontitle"		"신텍 주거지 "
+	//"description"	"Orbital scans show a build-up of Swarm biological material within the Residential complex.  Find and Destroy all biological material and eggs in the complex."
+	"description"	"궤도 감지는 주거 단지 안에서 군단 생물학적 물질의 증가를 보여주고 있습니다.  단지 안에서 모든 생물학적 물질과 알들을 찾고 파괴하십시오."
+	"image"		"swarm/ObjectivePics/obresidentialbio"
+	"version"		"1"
+	"author"		"Valve"
+	"website"		"http://www.alienswarm.com/"
+	"builtin"		"1"
+}

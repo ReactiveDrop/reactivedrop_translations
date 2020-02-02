@@ -1,0 +1,151 @@
+﻿GAME
+{
+	// identifier for this campaign
+	"CampaignName" "야곱의 안식"
+	
+	// description shown on the main menu when choosing which campaign to play
+	"CampaignDescription" "성간군사동맹 사령부는 베레온XII의 외계 행성으로부터 조난 신호를 받았습니다. 외계무리들이 신텍의 연구 및 광산 식민지 인 야곱의 안식처를 공격 한 것으로 보입니다. 성간군사동맹 사령부는 당신의 분대를 보내서 무리를 공격하고 침략을 중지시킬 것입니다. "
+	
+	// texture used on the main menu when choosing which campaign to play
+	"ChooseCampaignTexture" "swarm/ObjectivePics/oblandinghack"
+	
+	// texture used on the campaign screen for the map
+	"CampaignTextureName" "swarm/Campaign/JacobCampaignMap"
+	// these textures are overlaid on top of the campaign map in order
+	"CampaignTextureLayer1" "swarm/Campaign/JacobCampaignMap_Haze"
+	"CampaignTextureLayer2" "swarm/Campaign/JacobCampaignMap_SnowNear"
+	"CampaignTextureLayer3" "swarm/Campaign/JacobCampaignMap_SnowFar"
+	
+	// position of this campaign in the galactic map (coords go from 0 to 1023)
+	"GalaxyX"   "660"
+	"GalaxyY"   "262"
+	
+	// searchlights (optional, max of 4)
+	// angle: 0 is right, 90 is up, 180 is left, 270 is down
+	"Searchlight1X" "217"
+	"Searchlight1Y" "860"
+	"Searchlight1Angle" "80"
+	"Searchlight2X" "263"
+	"Searchlight2Y" "751"
+	"Searchlight2Angle" "100"
+	"Searchlight3X" "92"
+	"Searchlight3Y" "446"
+	"Searchlight3Angle" "90"
+	"Searchlight4X" "580"
+	"Searchlight4Y" "266"
+	"Searchlight4Angle" "90"
+	
+	// first mission entry is a dummy for the starting point
+	"MISSION"
+	{
+		"MissionName"	"Atmospheric Entry"
+		"MapName"	"dropzone"
+		"LocationX"	"481"
+		"LocationY"	"877"
+		"DifficultyModifier" "-2"
+		"Links"		"ASI-Jac1-LandingBay_01" 
+		"LocationDescription"  "Atmospheric Entry"
+		"ShortBriefing"  "Atmospheric reports show nominal weather patterns at this location.  Dropship Bloodhound will enter atmosphere at these co-ordinates and proceed to primary objective."
+	}
+	
+	// each mission listed
+	"MISSION"
+	{
+		"MissionName"	"착륙장"		// name used on the map screen, etc.
+		"MapName"	"ASI-Jac1-LandingBay_01"		// name of the map file
+		"LocationX"	"275"			// location of the dot on the map
+		"LocationY"	"856"			// (from 0 to 1023, on the above texture)
+		"DifficultyModifier" "-2"
+		"ThreatString" "1"    // Threat level string to help players decide where to go next
+		"Links"		"dropzone ASI-Jac1-LandingBay_02"	// map names of neighbours
+		"LocationDescription" "착륙장"
+		"ShortBriefing"  "당신과 분대는 식민지 표준5급 착륙장에 착륙할것입니다. 시설의 보안시스템이 파괴되었으므로, 적습에 주의하십시오."
+		"AlwaysVisible"	"1"
+		"NeedsMoreThanOneMarine" "1"
+	}
+	"MISSION"
+	{
+		"MissionName"	"화물 승강기"		// name used on the map screen, etc.
+		"MapName"	"ASI-Jac1-LandingBay_02"		// name of the map file
+		"LocationX"	"300"			// location of the dot on the map
+		"LocationY"	"736"			// (from 0 to 1023, on the above texture)
+		"DifficultyModifier" "-2"
+		"ThreatString" "1"    // Threat level string to help players decide where to go next
+		"Links"		"ASI-Jac1-LandingBay_01 ASI-Jac2-Deima"	// map names of neighbours
+		"LocationDescription" "화물 승강기"
+		"ShortBriefing"  "주 식민지 단지로 이동하십시오."
+		"AlwaysVisible"	"1"
+		"NeedsMoreThanOneMarine" "1"
+	}
+	"MISSION"
+	{
+		"MissionName"	"데이마 표면교"
+		"MapName"	"ASI-Jac2-Deima"
+		"LocationX"	"370"
+		"LocationY"	"630"
+		"DifficultyModifier" "-1"
+		"ThreatString" "2"    // Threat level string to help players decide where to go next
+		"Links"		"ASI-Jac1-LandingBay_02 ASI-Jac3-Rydberg"
+		"LocationDescription" "데이마 표면교"
+		"ShortBriefing"  "주 식민지 단지로 이동하기 위해 육지를 가로질러 가야합니다. 궤도위성에서 협곡을 통과할 손상된 다리를 확인했습니다."
+		"AlwaysVisible"	"1"
+		"NeedsMoreThanOneMarine" "1"
+	}
+	"MISSION"
+	{
+		"MissionName"	"리드버그 반응로"
+		"MapName"	"ASI-Jac3-Rydberg"
+		"LocationX"	"140"
+		"LocationY"	"464"
+		"DifficultyModifier" "0"
+		"ThreatString" "3"
+		"Links"		"ASI-Jac2-Deima ASI-Jac4-Residential"
+		"LocationDescription" "리드버그 핵 반응로"
+		"ShortBriefing"  "식민지의 최근 진단 정보에 따르면 주전원은 꺼진 상태지만 원자로는 정상작동중임을 확인했습니다. 당신의 분대는 원자로를 다시 가동시켜야 합니다."
+		"AlwaysVisible"	"1"
+		"NeedsMoreThanOneMarine" "1"
+	}
+	"MISSION"
+	{
+		"MissionName"	"신텍 거주지"
+		"MapName"	"ASI-Jac4-Residential"
+		"LocationX"	"478"
+		"LocationY"	"505"
+		"DifficultyModifier" "0"
+		"ThreatString" "3"
+		"Links"		"ASI-Jac3-Rydberg ASI-Jac6-SewerJunction"
+		"LocationDescription" "신텍 주거지"
+		"ShortBriefing"  "신텍 주거 단지에서 극도의 위험이 감지되었습니다. 조심하십시오."
+		"AlwaysVisible"	"1"
+		"NeedsMoreThanOneMarine" "1"
+	}
+	"MISSION"
+	{
+		"MissionName"	"하수 분기점 B5"
+		"MapName"	"ASI-Jac6-SewerJunction"
+		"LocationX"	"508"
+		"LocationY"	"400"
+		"DifficultyModifier" "2"
+		"ThreatString" "5"
+		"Links"		"ASI-Jac4-Residential ASI-Jac7-TimorStation"		
+		"LocationDescription" "하수 분기점 B5"
+		"ShortBriefing" "하수로에 진입하여 외계무리들이 침식한 출입통로를 파괴하십시오."
+		"AlwaysVisible"	"1"
+		"NeedsMoreThanOneMarine" "1"
+	}
+	// NOTE: Last mission will only be revealed when all other missions have been completed
+	"MISSION"
+	{
+		"MissionName"	"티모르 정거장"
+		"MapName"	"ASI-Jac7-TimorStation"
+		"LocationX"	"605"
+		"LocationY"	"270"
+		"DifficultyModifier" "2"
+		"ThreatString" "6"
+		"Links"		"ASI-Jac6-SewerJunction"
+		"LocationDescription" "티모르 정거장"
+		"ShortBriefing" "식민지의 경제 중심지인 이 광산 작업은 지구에서 온 값싼 노동력에 의해 촉진되어왔습니다. 지질학적 보고에 따르면 암석 구조물의 불안정성과 무리의 침입 징후를 보여주고 있습니다."
+		"AlwaysVisible"	"1"
+		"NeedsMoreThanOneMarine" "1"
+	}
+}

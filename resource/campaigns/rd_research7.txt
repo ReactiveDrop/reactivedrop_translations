@@ -1,0 +1,111 @@
+﻿GAME
+{
+	// identifier for this campaign
+	"CampaignName" "7번 연구소"
+	
+	// description shown on the main menu when choosing which campaign to play
+	"CampaignDescription" "우리는 베레온XII에서 가져온 샘플이 7번 연구소를 파괴했다고 믿고 있습니다. 조사를 위해 알파분대가 파견될 것입니다."
+	
+	// texture used on the main menu when choosing which campaign to play
+	"ChooseCampaignTexture" "swarm/MissionPics/rd_res_M1MissionPic"
+
+	// custom campaign credits file
+	"CustomCreditsFile"     "resource/rd_research7_credits"
+	
+	// texture used on the campaign screen for the map
+	"CampaignTextureName" "swarm/Campaign/rd_res_campaignMap"
+	// these textures are overlaid on top of the campaign map in order
+	"CampaignTextureLayer1" "swarm/Campaign/JacobCampaignMap_Haze"
+	"CampaignTextureLayer2" "swarm/Campaign/JacobCampaignMap_SnowNear"
+	"CampaignTextureLayer3" "swarm/Campaign/JacobCampaignMap_SnowFar"
+	
+	// position of this campaign in the galactic map (coords go from 0 to 1023)
+	"GalaxyX"   "660"
+	"GalaxyY"   "262"
+	
+	// searchlights (optional, max of 4)
+	// angle: 0 is right, 90 is up, 180 is left, 270 is down
+	"Searchlight1X" "500"
+	"Searchlight1Y" "500"
+	"Searchlight1Angle" "220"
+	"Searchlight2X" "375"
+	"Searchlight2Y" "500"
+	"Searchlight2Angle" "75"
+	"Searchlight3X" "425"
+	"Searchlight3Y" "450"
+	"Searchlight3Angle" "150"
+	"Searchlight4X" "450"
+	"Searchlight4Y" "450"
+	"Searchlight4Angle" "235"
+	
+	// first mission entry is a dummy for the starting point
+	"MISSION"
+	{
+		"MissionName"	"The Crash Site"
+		"MapName"	"start_area"
+		"LocationX"	"650"
+		"LocationY"	"550"
+		"DifficultyModifier" "-2"
+		"Links"		"rd-res1forestentrance" 
+		"LocationDescription"  "Crash Site"
+		"ShortBriefing"  "Something's taken down the Albatross, you'll have to continue towards RC7 on foot."
+	}
+	
+	// each mission listed
+	"MISSION"
+	{
+		"MissionName"		"수송 시설"		// name used on the map screen, etc.
+		"MapName"		"rd-res1forestentrance"		// name of the map file
+		"LocationX"		"550"				// location of the dot on the map
+		"LocationY"		"500"				// (from 0 to 1023, on the above texture)
+		"ThreatString" 		"1"    				// Threat level string to help players decide where to go next
+		"Links"			"start_area rd-res2research7"	// map names of neighbours
+		"LocationDescription" 	"7번 연구소 배송 및 회수 시설"
+		"ShortBriefing"  	"7번 연구소 수송 시설을 통해 이동하십시오."
+		"AlwaysVisible"		"1"
+		"NeedsMoreThanOneMarine" "0"				// If set to 1, two players need to be connected to play (no solo play)
+	}
+	"MISSION"
+	{
+		"MissionName"	"7번 연구소"		// name used on the map screen, etc.
+		"MapName"	"rd-res2research7"		// name of the map file
+		"LocationX"	"400"			// location of the dot on the map
+		"LocationY"	"475"			// (from 0 to 1023, on the above texture)
+		"DifficultyModifier" "-2"
+		"ThreatString" "1"    // Threat level string to help players decide where to go next
+		"Links"		"rd-res1forestentrance rd-res3miningcamp"	// map names of neighbours
+		"LocationDescription" "7번 연구소 실험실"
+		"ShortBriefing"  "7번 연구단지를 쓸어버리십시오."
+		"AlwaysVisible"	"1"
+		"NeedsMoreThanOneMarine" "0"
+	}
+	"MISSION"
+	{
+		"MissionName"	"일린 숲"
+		"MapName"	"rd-res3miningcamp"
+		"LocationX"	"370"
+		"LocationY"	"250"
+		"DifficultyModifier" "-1"
+		"ThreatString" "2"    // Threat level string to help players decide where to go next
+		"Links"		"rd-res2research7 rd-res4mines"
+		"LocationDescription" "일린 숲"
+		"ShortBriefing"  "동굴과 일린 숲을 통과하여 제리코 광산 출입구에 도달하세요."
+		"AlwaysVisible"	"1"
+		"NeedsMoreThanOneMarine" "0"
+	}
+	"MISSION"
+	{
+		"MissionName"	"제리코 광산"
+		"MapName"	"rd-res4mines"
+		"LocationX"	"425"
+		"LocationY"	"250"
+		"DifficultyModifier" "0"
+		"ThreatString" "3"
+		"Links"		"rd-res3miningcamp"
+		"LocationDescription" "제리코 광산"
+		"ShortBriefing"  "제리코 광산 내의 외계무리들을 제거하십시오."
+		"AlwaysVisible"	"1"
+		"NeedsMoreThanOneMarine" "0"
+	}
+
+}

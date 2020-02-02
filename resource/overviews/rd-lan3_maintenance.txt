@@ -1,0 +1,18 @@
+﻿GAME
+{
+"pos_x" "-10940"
+"pos_y" "8168"
+"scale" "9.0"
+"material" "vgui/swarm/overviews/rd-lan3_maintenanceoverview"
+"briefingmaterial" "vgui/swarm/overviews/rd-lan3_maintenancebriefingoverview"
+"mapyoffset" "-60"
+"missiontitle"		"라나의 유지관리 "
+//"description"	"Get the generator back online"
+"description"	"발전기를 다시 켜십시오"
+"image"		"swarm/objectivepics/Objectives/rd-lan3_maintenance_obj_3"
+
+"builtin" 		"1"
+"version"		"1.06"
+"author"		"Hephalistofene"
+"website"		""
+}

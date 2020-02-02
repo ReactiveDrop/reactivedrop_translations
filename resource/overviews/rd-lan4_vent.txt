@@ -1,0 +1,18 @@
+﻿GAME
+{
+"pos_x" "-4592"
+"pos_y" "3731"
+"scale" "7.0"
+"material" "vgui/swarm/overviews/rd-lan4_ventoverview"
+"briefingmaterial" "vgui/swarm/overviews/rd-lan4_ventbriefingoverview"
+"mapyoffset" "-60"
+"missiontitle"		"라나의 환풍구 "
+//"description"	"Activate explosive charges"
+"description"	"폭발물을 활성화 시키십시오"
+"image"		"swarm/MissionPics/rd-lan4_ventmpic"
+
+"builtin" 		"1"
+"version"		"1.06"
+"author"		"Hephalistofene"
+"website"		""
+}

@@ -1,0 +1,21 @@
+﻿GAME
+{
+	"pos_x"		"-13055"
+	"pos_y"		"8978"
+	"scale"		"12.0"
+
+	"material" 		"vgui/swarm/overviews/rd_res_miningcampoverview"
+	"briefingmaterial" 	"vgui/swarm/overviews/rd_res_miningcampoverviewbriefing"
+	
+	//"missiontitle"		"Illyn Forest"
+	"missiontitle"		"일린 숲 "
+	//"description"		"Trek through the Illyn Forest and the caves within, to reach the entrance to Jericho Mine."
+	"description"		"일린 숲과 동굴을 지나 제리코 광산 입구에 도착하십시오."
+
+	"image"			"swarm/MissionPics/rd_res_M3MissionPic"
+
+	"builtin" 		"1"
+	"version"		"1.3"
+	"author"		"Will Rogers"
+	"website"		"https://sites.google.com/site/swarmaddons/maps/research7"
+}

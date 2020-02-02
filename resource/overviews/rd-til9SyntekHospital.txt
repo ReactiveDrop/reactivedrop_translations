@@ -1,0 +1,17 @@
+﻿GAME
+{
+	"pos_x" "-7149"
+	"pos_y" "5322"
+	"scale" "10.0"
+	"material" "vgui/swarm/Overviews/tilarus09_overview"
+	"briefingmaterial" "vgui/swarm/Overviews/tilarus09_briefing"
+	"mapyoffset" "-60"
+	//"missiontitle"		"SynTek Hospital"
+	"missiontitle"		"신텍 병원 "
+	"image"		"swarm/objectivepics/tilarus09obpowerroom"
+
+	"builtin" 		"1"
+	"version"		"1.5"
+	"author"		"X-ray surgeon"
+	"website"		"https://sites.google.com/site/swarmaddons/maps/extermination"
+}

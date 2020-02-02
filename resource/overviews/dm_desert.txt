@@ -1,0 +1,28 @@
+﻿GAME
+{
+	// radar map position and scale (see the Valve wiki for more information: http://developer.valvesoftware.com/wiki/Main_Page)
+	"pos_x"		"-1737"
+	"pos_y"		"5453"
+	"scale"		"3.5"
+
+	// material used for the radar map (in the bottom left corner)
+	"material" 		"vgui/swarm/overviews/dm_desert_overview"  			// example: "vgui/swarm/Overviews/landingbay02Overview"
+
+	// material used for the briefing map (shown before the mission starts)
+	"briefingmaterial" 	"vgui/swarm/overviews/dm_desert_overview"		// example: "vgui/swarm/Overviews/landingbay02briefingOverview"
+
+	// Title of the mission
+	"missiontitle"		"사막 데스매치 "
+	// Description text shown for the mission
+	"description"		""
+	
+	// Mission image that shows when selecting this mission
+	"image"			"swarm/overviews/dm_desert_icon"  			//must be under "vgui" - dont include vgui in the path
+
+	"builtin" 		"1"
+	"version"		"0.1"
+	"author"		"Dmitriy"
+	"website"		"http://www.moddb.com/mods/reactivedrop"
+}
+
+// Overview: scale 3.50, pos_x -1289, pos_y 5453

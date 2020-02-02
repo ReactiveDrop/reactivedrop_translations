@@ -1,0 +1,28 @@
+﻿GAME
+{
+	// radar map position and scale (see the Valve wiki for more information: http://developer.valvesoftware.com/wiki/Main_Page)
+	"pos_x"		"-7738"//+480 from given value (was -8218)
+	"pos_y"		"6076"//
+	"scale"		"12.0"//120% of 10 (10= +400 to x)
+	"mapyoffset" "-60"
+	// material used for the radar map (in the bottom left corner)
+	"material" 		"vgui/swarm/overviews/rd-tft-desertoutpostoverview"  			// example: "vgui/swarm/Overviews/landingbay02Overview"
+
+	// material used for the briefing map (shown before the mission starts)
+	"briefingmaterial" 	"vgui/swarm/overviews/rd-tft-desertoutpostoverview"		// example: "vgui/swarm/Overviews/landingbay02briefingOverview"
+
+	// Title of the mission
+	//"missiontitle"		"Insertion Point"
+	"missiontitle"		"투입 지점 "
+	// Description text shown for the mission
+	//"description"		"Upon making planetfall, Cerberus was unable to establish a link with ground based guidance and tracking systems necessary to land at the spaceport. The captain has decided to drop the marines off a short distance away so they can make their way on foot and bring the guidance and tracking systems back online. The nearby abandoned communication outpost may hold useful information, or perhaps a functioning datalink to the main base."
+	"description"		"행성이 떨어지자, 세르베루스는 우주 항구에 착륙하는데 필요한 지상 기반 안내와 추적 시스템과의 연결을 확립할 수 없었습니다.  선장은 해병대원들이 걸어서 갈 수 있도록 조금 떨어진 곳에 내려주고 안내와 추적 시스템을 다시 작동시키기로 결정했습니다.  근처에 버려진 통신기지는 유용한 정보를 갖고 있을 수도 있고, 주 기지에 대한 자료연결 기능을 할 수도 있습니다."
+	
+	// Mission image that shows when selecting this mission
+	"image"			"swarm/campaign/rd-Tarnormission1"  			//must be under "vgui" - dont include vgui in the path
+
+	"builtin" 		"1"
+	"version"		"1.7"
+	"author"		"Michael 'Ezekel' Abraham"
+	"website"		""
+}

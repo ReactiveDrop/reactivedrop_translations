@@ -1,0 +1,158 @@
+GAME
+{
+	// identifier for this campaign
+	"CampaignName" "틸라루스-5"
+	
+	// description shown on the main menu when choosing which campaign to play
+	"CampaignDescription" "틸라루스-5의 여러 식민지가 조난 신호를 보냈습니다. IAF 사령부는 민간인 대피를 돕고 사상자를 최소화하기 위해 당신의 분대를 파견했습니다."
+	
+	// texture used on the main menu when choosing which campaign to play
+	"ChooseCampaignTexture" "swarm/objectivepics/tilarus01obj1"
+	
+	// texture used on the campaign screen for the map
+	"CampaignTextureName" "swarm/MissionPics/Tilarus5CampaignMap"
+	
+	// these textures are overlaid on top of the campaign map in order
+	"CampaignTextureLayer1" "swarm/Campaign/CampaignMap_EmptyLayer"			//"CampaignTextureLayer1" "swarm/Campaign/JacobCampaignMap_Haze"
+	"CampaignTextureLayer2" "swarm/Campaign/CampaignMap_EmptyLayer"			//"CampaignTextureLayer2" "swarm/Campaign/JacobCampaignMap_SnowNear"
+	"CampaignTextureLayer3" "swarm/Campaign/CampaignMap_EmptyLayer"			//"CampaignTextureLayer3" "swarm/Campaign/JacobCampaignMap_SnowFar"
+	
+	// custom campaign credits file
+	"CustomCreditsFile" 	"resource/tilarus5_credits"
+
+	// position of this campaign in the galactic map (coords go from 0 to 1023)
+	"GalaxyX"   "777"
+	"GalaxyY"   "777"
+	
+	// first mission entry is a dummy for the starting point
+	"MISSION"
+	{
+		"MissionName"			"Atmospheric Entry"
+		"MapName"				"dropzone"
+		"LocationX"				"900"
+		"LocationY"				"550"
+		"DifficultyModifier" 	"-2"
+		"Links"					"rd-til1MidnightPort" 
+		"LocationDescription"  	"Atmospheric Entry"
+		"ShortBriefing"  		"Dropship Bloodhound will enter atmosphere at these co-ordinates and proceed to primary objective."
+	}
+	
+	// each mission listed
+	"MISSION"
+	{
+		"MissionName"			"자정 항구"
+		"MapName"				"rd-til1MidnightPort"
+		"LocationX"				"876"
+		"LocationY"				"454"
+		"ThreatString" 			"1"
+		"Links"					"dropzone rd-til2RoadToDawn"
+		"LocationDescription" 	"식민지 항구"
+		"ShortBriefing"  		""
+		"AlwaysVisible"			"1"
+		"NeedsMoreThanOneMarine" "0"
+	}
+	"MISSION"
+	{
+		"MissionName"			"여명으로의 길"
+		"MapName"				"rd-til2RoadToDawn"
+		"LocationX"				"800"
+		"LocationY"				"418"
+		"ThreatString" 			"1"
+		"Links"					"rd-til1MidnightPort rd-til3ArcticInfiltration"
+		"LocationDescription" 	"교통로"
+		"ShortBriefing"  		""
+		"AlwaysVisible"			"1"
+		"NeedsMoreThanOneMarine" "0"
+	}
+	"MISSION"
+	{
+		"MissionName"		"북극 침입"
+		"MapName"			"rd-til3ArcticInfiltration"
+		"LocationX"			"686"
+		"LocationY"			"384"
+		"ThreatString" 		"1"
+		"Links"				"rd-til2RoadToDawn rd-til4area9800"
+		"LocationDescription" 	"북극 침입"
+		"ShortBriefing"  	""
+		"AlwaysVisible"		"1"
+		"NeedsMoreThanOneMarine" "0"
+	}
+	"MISSION"
+	{
+		"MissionName"		"9800 구역"
+		"MapName"			"rd-til4area9800"
+		"LocationX"			"630"
+		"LocationY"			"344"
+		"ThreatString" 		"1"
+		"Links"				"rd-til3ArcticInfiltration rd-til5ColdCatwalks"
+		"LocationDescription" 	"9800 구역"
+		"ShortBriefing"  	""
+		"AlwaysVisible"		"1"
+		"NeedsMoreThanOneMarine" "0"
+	}
+	"MISSION"
+	{
+		"MissionName"		"차가운 협로"
+		"MapName"			"rd-til5ColdCatwalks"
+		"LocationX"			"578"
+		"LocationY"			"308"
+		"ThreatString" 		"1"
+		"Links"				"rd-til4area9800 rd-til6YanaurusMine"
+		"LocationDescription" 	"차가운 협로"
+		"ShortBriefing"  	""
+		"AlwaysVisible"		"1"
+		"NeedsMoreThanOneMarine" "0"
+	}
+	"MISSION"
+	{
+		"MissionName"		"야나루스 광산"
+		"MapName"			"rd-til6YanaurusMine"
+		"LocationX"			"870"
+		"LocationY"			"260"
+		"ThreatString" 		"1"
+		"Links"				"rd-til5ColdCatwalks rd-til7Factory"
+		"LocationDescription" 	"야나루스 광산"
+		"ShortBriefing"  	""
+		"AlwaysVisible"		"1"
+		"NeedsMoreThanOneMarine" "0"
+	}
+	"MISSION"
+	{
+		"MissionName"		"잊혀진 공장"
+		"MapName"			"rd-til7Factory"
+		"LocationX"			"734"
+		"LocationY"			"238"
+		"ThreatString" 		"1"
+		"Links"				"rd-til6YanaurusMine rd-til8ComCenter"
+		"LocationDescription" 	"잊혀진 공장"
+		"ShortBriefing"  	""
+		"AlwaysVisible"		"1"
+		"NeedsMoreThanOneMarine" "0"
+	}
+	"MISSION"
+	{
+		"MissionName"		"통신실"
+		"MapName"			"rd-til8ComCenter"
+		"LocationX"			"620"
+		"LocationY"			"230"
+		"ThreatString" 		"1"
+		"Links"				"rd-til7Factory rd-til9SyntekHospital"
+		"LocationDescription" 	"통신실"
+		"ShortBriefing"  	""
+		"AlwaysVisible"		"1"
+		"NeedsMoreThanOneMarine" "0"
+	}
+	"MISSION"
+	{
+		"MissionName"		"신텍 병원"
+		"MapName"			"rd-til9SyntekHospital"
+		"LocationX"			"384"
+		"LocationY"			"508"
+		"ThreatString" 		"1"
+		"Links"				"rd-til8ComCenter"
+		"LocationDescription" 	"신텍 병원"
+		"ShortBriefing"  	""
+		"AlwaysVisible"		"1"
+		"NeedsMoreThanOneMarine" "0"
+	}
+}

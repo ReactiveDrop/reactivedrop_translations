@@ -1,0 +1,16 @@
+﻿GAME
+{
+	"pos_x"	"-9090"
+	"pos_y"	"3731"
+	"scale"	"14.0"
+	"material" "vgui/swarm/Overviews/timorOverview"
+	"briefingmaterial" "vgui/swarm/Overviews/timorBriefingOverview"
+	"missiontitle"		"티모르 정거장 "
+	//"description"	"Locate nuclear warhead and get it to the alien hive entrance."
+	"description"	"핵탄두를 찾아내 외계생물 둥지 입구까지 가져가십시오."
+	"image"		"swarm/ObjectivePics/obtimorstationnuke"
+	"version"		"1"
+	"author"		"Valve"
+	"website"		"http://www.alienswarm.com/"
+	"builtin"		"1"
+}

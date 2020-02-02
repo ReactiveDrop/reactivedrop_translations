@@ -1,0 +1,18 @@
+﻿GAME
+{
+"pos_x" "-3744"
+"pos_y" "-2374"
+"scale" "6.0"
+"material" "vgui/swarm/overviews/rd-lan5_complexoverview"
+"briefingmaterial" "vgui/swarm/overviews/rd-lan5_complexbriefingoverview"
+"mapyoffset" "-60"
+"missiontitle"		"라나의 단지 "
+//"description"	"Destroy Planet 137"
+"description"	"137 행성을 파괴하십시오"
+"image"		"swarm/MissionPics/rd-lan5_complexmpic"
+
+"builtin" 		"1"
+"version"		"1.06"
+"author"		"Hephalistofene"
+"website"		""
+}

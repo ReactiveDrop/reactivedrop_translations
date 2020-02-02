@@ -1,0 +1,20 @@
+﻿GAME
+{
+	"pos_x"		"-6189"
+	"pos_y"		"7085"
+	"scale"		"11.5"
+	"material" 		"vgui/swarm/Overviews/rd_par4_overview"
+	"briefingmaterial" 	"vgui/swarm/Overviews/rd_par4_overview"
+	//"missiontitle"		"High Tension"
+	"missiontitle"		"고조된 긴장 "
+	//"description"		"Looks like they did genetical research in this place, so now that we know what happens there, we should inform the IAF Command Center, that is to say find a communication center."
+	"description"		"여기서 그들이 유전적인 연구를 한 것 같아 보여, 거기에 무슨 일이 벌어질지 알게됐으니, 동맹군 지휘실에 알려야죠, 통신실을 찾아야 한다고 말입니다."
+	"image"			"swarm/objectivepics/rd_par_objectif33"
+
+	"builtin" 		"1"
+	"version"		"1"
+	"author"		"Eclipse"
+	"website"		""
+}
+
+// Overview: scale 11.50, pos_x -4717, pos_y 7085

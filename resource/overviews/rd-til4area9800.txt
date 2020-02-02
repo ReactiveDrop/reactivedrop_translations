@@ -1,0 +1,21 @@
+﻿GAME
+{
+	"pos_x" "-3762" // -2994 - 6 * 128
+	"pos_y" "3500"
+	"scale" "6.0"
+	"material" "vgui/swarm/overviews/tilarus04_overview"
+	"briefingmaterial" "vgui/swarm/overviews/tilarus04_briefing"
+	"mapyoffset" "-60"
+	//"missiontitle"		"Area9800 Landingzone"
+	"missiontitle"		"9800구역 착륙영역 "
+	//"description"	"Chek the place out"
+	"description"	"장소를 확인하십시오"
+	"image"		"swarm/objectivepics/tilarus04obj1"
+	
+	"builtin" 		"1"
+	"version"		"1.5"
+	"author"		"Darky"
+	"website"		"https://sites.google.com/site/swarmaddons/maps/extermination"
+}
+
+// Overview: scale 6.00, pos_x -2994, pos_y 3500

@@ -1,0 +1,20 @@
+﻿GAME
+{
+	// Overview: scale 9.00, pos_x -5084, pos_y 6052
+	"pos_x" "-6236"
+	"pos_y" "6052"
+	"scale" "9"
+	"material" "vgui/swarm/Overviews/tilarus03_overview"
+	"briefingmaterial" "vgui/swarm/Overviews/tilarus03_briefing"
+	//"missiontitle" "Arctic Infiltration"
+	"missiontitle" "북극 침입 "
+	//"description" "Investigate a distress call from a mysterious SynTek Research Facility."
+	"description" "미스터리한 신텍 연구 시설에서의 조난 신고를 조사하십시오."
+
+	"image" "swarm/MissionPics/rd_til3arcticInfiltration_pic"
+	
+	"builtin" 		"1"
+	"version"		"1.5"
+	"author" 		"Specur"
+	"website" 		"https://sites.google.com/site/swarmaddons/maps/extermination"
+}

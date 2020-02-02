@@ -1,0 +1,28 @@
+﻿GAME
+{
+	// radar map position and scale (see the Valve wiki for more information: http://developer.valvesoftware.com/wiki/Main_Page)
+	"pos_x"		"-7627"//+440 from given value (was -8067)
+	"pos_y"		"5216"//
+	"scale"		"11.0"//110% of 10
+	"mapyoffset" "-60"
+	// material used for the radar map (in the bottom left corner)
+	"material" 		"vgui/swarm/overviews/rd-tft-spaceportoverview"  			// example: "vgui/swarm/Overviews/landingbay02Overview"
+
+	// material used for the briefing map (shown before the mission starts)
+	"briefingmaterial" 	"vgui/swarm/overviews/rd-tft-spaceportoverview"		// example: "vgui/swarm/Overviews/landingbay02briefingOverview"
+
+	// Title of the mission
+	//"missiontitle"		"Oasis Colony Spaceport"
+	"missiontitle"		"오아시스 식민지 우주정거장 "
+	// Description text shown for the mission
+	//"description"		"The squad has reached the spaceport and must now ensure that Cerberus is able to land."
+	"description"		"분대는 우주 정거장에 도착했고 이제 세르베루스가 착륙할 수 있는지 확인해야 합니다."
+	
+	// Mission image that shows when selecting this mission
+	"image"			"swarm/campaign/rd-Tarnormission3"  			//must be under "vgui" - dont include vgui in the path
+
+	"builtin" 		"1"
+	"version"		"1.8"
+	"author"		"Michael 'Ezekel' Abraham"
+	"website"		""
+}

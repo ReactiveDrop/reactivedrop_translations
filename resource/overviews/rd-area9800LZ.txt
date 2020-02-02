@@ -1,0 +1,23 @@
+﻿GAME
+{
+"pos_x" 	"-7300"
+"pos_y" 	"4809"
+"scale" 	"11"
+
+"material" 			"vgui/swarm/overviews/rd-LZ_groundOverview"
+
+"briefingmaterial" 	"vgui/swarm/overviews/rd-LZ_briefgroundOverview"
+
+"mapyoffset" 		"-60"
+
+"missiontitle"		"착륙 영역 "
+//"description"		"Check the place out"
+"description"		"장소를 확인하십시오."
+
+"image"				"swarm/MissionPics/rd-area9800LZpic"
+
+"builtin"			"1"
+"version" 			"1.5"
+"author" 			"DK9800 productions"
+"website" 			"http://www.xs4all.nl/~arjend/"
+}

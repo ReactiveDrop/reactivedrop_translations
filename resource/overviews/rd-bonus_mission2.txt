@@ -1,0 +1,28 @@
+﻿GAME
+{
+	// radar map position and scale (see the Valve wiki for more information: http://developer.valvesoftware.com/wiki/Main_Page)
+	"pos_x"		"-11923"
+	"pos_y"		"-6471"
+	"scale"		"7.0"
+
+	// material used for the radar map (in the bottom left corner)
+	"material" 		"vgui/swarm/overviews/rd_bonusmis2_overview"  			// example: "vgui/swarm/Overviews/landingbay02Overview"
+
+	// material used for the briefing map (shown before the mission starts)
+	"briefingmaterial" 	"vgui/swarm/overviews/rd_bonusmis2_overview"		// example: "vgui/swarm/Overviews/landingbay02briefingOverview"
+
+	// Title of the mission
+	"missiontitle"		"추가 임무 2 " 
+	// Description text shown for the mission
+	"description"		""
+	
+	// Mission image that shows when selecting this mission
+	"image"			"swarm/objectivepics/rd_bon2_survivors"  			//must be under "vgui" - dont include vgui in the path
+
+	"builtin" 		"1"
+	"version"		"1.0"
+	"author"		"Sergei 'STALKER4732' Lavrinenco"
+	"website"		""
+}
+
+// Overview: scale 7.00, pos_x -11027, pos_y -6471

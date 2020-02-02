@@ -1,0 +1,23 @@
+﻿GAME
+{
+	"pos_x" 	"-7078"
+	"pos_y" 	"4838"
+	"scale" 	"10"
+
+	"material" 			"vgui/swarm/Overviews/rd-PP_groundOverview"
+
+	"briefingmaterial" 	"vgui/swarm/Overviews/rd-PP_briefgroundOverview"
+
+	"mapyoffset" 		"-60"
+
+	"missiontitle"		"추가 임무 7 "
+	//"description"		"Bring Power Online"
+	"description"		"전원을 다시 켜십시오"
+
+	"image"				"swarm/MissionPics/rd-area9800pp2pic"
+
+	"version" 			"1.4"
+	"author" 			"DK9800 productions"
+	"website" 			"http://www.xs4all.nl/~arjend/"
+	"builtin"			"1"
+}
