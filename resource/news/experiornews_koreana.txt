@@ -1,0 +1,13 @@
+GAME
+{
+	//"Headline"	"Pirate Bay to Purchase Sealand?"
+	"Headline"	"해적만이 시랜드를 사들이다?"
+	//"HeadlineDate"	"12/01/07"
+	"HeadlineDate"	"07년 12월 1일"
+	//"Paragraph1"	"Notorious Swedish file-sharing website The Pirate Bay is planning to buy its own nation in an attempt to get around troublesome international copyright laws. The organization, the world's largest bit torrent tracker, has set its sights on Sealand, a former British naval platform in the North Sea that has been designated a 'micronation' and claims to be outside UK jurisdiction. With a target price of £500m it won't be cheap, but Pirate Bay says contributors will become honorary citizens.""
+	"Paragraph1"	"악명 높은 스웨덴 파일 공유 웹 사이트 해적만은 성가신 국제 저작권법을 회피하기 위해 자체 국가를 구입할 계획입니다. 세계 최대의 비트 토렌트 추적기인 이 기구는 '초소형국민체'로 지정돼 영국 관할권 밖임을 주장하는 북해의 전 영국 해군 플랫폼 '시랜드'를 목표로 삼았습니다. 목표 가격이 500만 파운드로 저렴하지는 않지만 해적만은 기부자들은 명예 시민이 될 것이라고 말했습니다."
+	//"Paragraph2"	"今年のLinux界隈であるが、カーネルで大きな動きがあったわけでもないので、とりあえず印象に残っている ニュースを列挙すると、"
+	"Paragraph2"	"今年のLinux界隈であるが、カーネルで大きな動きがあったわけでもないので、とりあえず印象に残っている ニュースを列挙すると、"
+	//"Paragraph3"	"検察の広報キャラクター"
+	"Paragraph3"	"検察の広報キャラクター"
+}

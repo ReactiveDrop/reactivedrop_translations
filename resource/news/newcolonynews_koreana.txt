@@ -1,0 +1,13 @@
+GAME
+{
+	//"Headline"	"SynTek Establish New Mining Colony"
+	"Headline"	"신텍 채굴 식민지 건설"
+	//"HeadlineDate"	"12/15/52"
+	"HeadlineDate"	"52년 12월 15일"
+	//"Paragraph1"	"The SynTek Megacorporation today reported establishment of a new deep space mining colony on the outer edges of the SX-2833-87P cluster.  They also announced immediate shipment of a civilian fleet of workers to the planet."
+	"Paragraph1"	"오늘 신텍 초거대기업은 SX-2833-87P 클러스터의 외부 가장자리에서 새로운 심층우주 채굴 식민지를 건설했다고 발표했습니다. 또 이에 따라 지구에서 민간인 근로자를 즉각 파견할 것이라 발표했습니다."
+	//"Paragraph2"	"Demonstrations continue outside the SynTek Headquarters on the Tokyo York Island, Earth, over perceived working conditions on the colonies and low pay, allegations SynTek deny strongly."
+	"Paragraph2"	"지구, 도쿄 요크 섬에 위치한 신텍 본사에선 연일 시위가 이어지고 있습니다. 이들은 식민지에서의 열악한 노동 환경과 저임금 문제에 대한 처우개선을 요구하고 있으며, 신텍은 이러한 문제에 대해 강한 부정을 나타내고 있습니다."
+	//"Paragraph3"	"SynTek Stock rose 5 points with the news of the new colony."
+	"Paragraph3"	"새로운 식민지 건설 소식이 전해지면서 신텍 주식의 점수가 5점 상승했습니다."
+}

@@ -1,0 +1,15 @@
+GAME
+{
+	//"Headline"	"IAF marines missing at Moonspire"
+	"Headline"	"IAF 해병대가 문스파이어에서 실종되다"
+	//"HeadlineDate"	"12/19/52"
+	"HeadlineDate"	"52년 12월 19일"
+	//"Paragraph1"	"150 IAF marines are still missing after the latest Swarm attack near the colony Moonspire on Antheon Prime, according to a senior IAF officer at a recent news conference held aboard the USS Endurance."
+	"Paragraph1"	"최근 USS 엔듀랜스호에서 열린 기자회견에서 IAF 고위 장교는 안테온 프라임의 문스파이어 근처에서 발생한 외계 무리의 침략 이후 150명의 IAF 해병들이 여전히 실종 상태라고 말했습니다."
+	//"Paragraph2"	"An infantry division of 208 marines was attacked by the Swarm two days ago, while searching the remains of an outpost for possible civilian survivors."
+	"Paragraph2"	"이틀 전 208해병대 사단이 민간인 생존자를 찾기 위해 전초기지의 잔해를 수색하던 도중 외계무리의 습격을 받았습니다."
+	//"Paragraph3"	"'There is an ongoing effort to find the missing marines,' said General C. Morrison, 'we received a distress signal at around 0200, but the whereabouts of Company 212 is still unknown at this time.'"
+	"Paragraph3"	"C.모리슨 장군은'실종된 해병대를 찾기 위해 노력하고 있다'고 말했습니다. 덧붙여'0200년경에 조난신호를 받았지만, 212중대의 행방은 아직 알 수 없다.'고 말했습니다."
+	//"Paragraph4"	"'This is a black day for the IAF, but we must fight on,' said Morrison."
+	"Paragraph4"	"'이 날은 IAF에게 있어 슬픈 날이지만, 우린 계속 싸워나갈 것이다.' 모리슨 장군이 애기했습니다."
+}

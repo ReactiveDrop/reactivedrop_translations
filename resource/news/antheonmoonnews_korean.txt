@@ -1,0 +1,14 @@
+GAME
+{
+	//"Headline"	"IAF plans to retake Antheon Moon"
+	"Headline"	"IAF가 안테온 위성에서 재도약을 계획하다."
+	//"HeadlineDate"	"12/19/52"
+	"HeadlineDate"	"52년 12월 19일"
+	//"Paragraph1"	"General C. Morrison recently announced that the IAF are sending another 12,000 troops to defend the Antheon System from the encroaching Swarm.  The additional troops will be attempting to regain control of the human colony on the 5th moon of Antheon Prime."
+	"Paragraph1"	"C.모리슨 장군은 외계무리들이 잠식중인 안테온을 보호하기 위해 12,000명의 추가 병력을 파견할 것이라 발표했습니다. 파견된 병력들은 안테온 프라임의 5번째 위성의 인간 식민지의 지배권을 되찾기 위해 싸울 것입니다."
+	//"Paragraph2"	"Senator Tom Wearing of the Interstellar Alliance responded by calling the move a 'serious mistake' in his public address this morning."
+	"Paragraph2"	"이에 대해 오늘 오전 톰 성간동맹 상원의원은 자신의 대국민담화에서 이 같은 조치를 '심각한 실수'로 규정했습니다."
+	//Paragraph3"   "'I believe we are spreading our forces too thin,' said the Senator, adding, 'we should recall all our troops to Antheon Prime.  The 5th moon is already lost.'"
+	Paragraph3"	"'나는 우리가 우리의 군대를 너무 얇게 분산시키고 있다고 믿는다'라고 상원의원은 말하면서, '우리는 모든 군대를 안테온 프라임에 집중해야 한다'고 말했습니다. 이미 5번째 위성은 잃었습니다."
+	"Paragraph4"	""
+}

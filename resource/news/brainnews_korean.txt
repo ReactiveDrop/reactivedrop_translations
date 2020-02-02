@@ -1,0 +1,15 @@
+GAME
+{
+	//"Headline"	"New Cellular Processes Discovered"
+	"Headline"	"새로운 세포 구조를 발견하다"
+	//"HeadlineDate"	"12/19/52"
+    "HeadlineDate"	"52년 12월 19일"
+	//"Paragraph1"	"It is well understood that the human brain requires a steady supply of chemical energy to function properly.  SynTek Research Scientist Dr Lucas Weinburg recently announced his discovery of the genetic program which regulates this energy supply."
+	"Paragraph1"	"인간의 두뇌가 정상적으로 기능하기 위해서는 꾸준한 화학 에너지 공급이 필요하다는 것이 잘 알려져 있습니다. 신텍 연구 과학자 루카스 웨인버그 박사는 최근 이 에너지 공급을 조절하는 유전자 프로그램을 발견했다고 발표했습니다."
+	//"Paragraph2"	"Having identified the receptor which controls the process, Dr Lucas is able to alter the supply and allow longer periods of conciousness.  'Eight out of 10 test subjects have easily switched from a 24 hour cycle to a 29 hour one with no ill effects,' said Lucas."
+	"Paragraph2"	"루카스 박사는 이 과정을 제어하는 수용체를 확인한 후 공급을 변경하고 더 오랜 기간 동안의 의식 상태를 가능케했습니다. ''10여명의 피실험자 중 8명은 24시간 주기에서 29시간으로 쉽게 바뀌었고 아무런 부작용도 없었다'고 루카스 박사가 말했습니다."
+	//"Paragraph3"	"'Subjects feel healthy, strong, refreshed and ready for productive work.  Only two have complained about feeling unfocused'.  His tests also show that seven of the 10 subjects have stopped dreaming during their sleeping period."
+	"Paragraph3"	"'피실험자들은 건강하고, 기운차고, 상쾌하며, 생산적인 일을 할 준비가 되었다고 느꼈습니다. 오직 두 사람만이 집중하지 못하는 것에 대해 불평했습니다. 그의 실험중 10명의 피실험자 중 7명이 수면 중 꿈을 중단했다는 것을 보여줬습니다."
+	//"Paragraph4"	"If this technique passes long term safety tests, this could be another sensational medical achievement for the SynTek Megacorporation."
+	"Paragraph4"	"이 기술이 장기간의 안전성 검사를 통과한다면 이는 신텍 초거대기업의 또 다른 주목할만한 의학적 성과 일 수 있습니다."
+}

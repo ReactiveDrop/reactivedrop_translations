@@ -1,0 +1,15 @@
+GAME
+{
+	//"Headline"	"United Industries Convoy Departs"
+	"Headline"	"산업 수송 연합이 떠나다"
+	//"HeadlineDate"	"12/21/52"
+	"HeadlineDate"	"52년 12월 21일"
+	//"Paragraph1"	"A United Industries convoy departs this week from their central colony, headed for the Core Systems.  The massive fleet contains at least 25 Leviathan-class freighters and has full IAF cover for its journey."
+	"Paragraph1"	"산업 수송 연합이 이번 주에 그들의 중심 식민지에서 출발하여 코어 시스템으로 향합니다. 이 거대한 함대는 적어도 25대의 레비아탄급 화물선을 보유하고 있으며 이 여정을 위한 IAF 커버를 갖추고 있습니다."
+	//"Paragraph2"	"The convey will be bringing in much sought after off-world resources, used throughout the manufacturing and production industries in the Core Systems.  They will also be bringing exotic and luxury goods for consumer markets."
+	"Paragraph2"	"이 수송은 핵심 시스템의 제조 및 생산 산업 전반에 걸쳐 사용되는 외부 자원을 많이 가져올 것입니다. 그들은 또한 소비자 시장을 위해 이국적이며 사치스러운 물건들도 가져올 것입니다."
+	//"Paragraph3"	"United Industries critics accuse them of also bringing in a number of black market goods, including dangerous off-world narcotics."
+	"Paragraph3"	"수송 연합 비평가들은 그들이 외부에서 마약과 암시장 물품들 또한 가져왔다고 비난했습니다."
+	//"Paragraph4"	"The IAF has devoted a large defensive force to the convoy, calling the goods 'invaluable to the functioning of the IA.'"
+	"Paragraph4"	"성간군사동맹은 호송에 막대한 방어력을 기울였으며, IA의 기능에 값진 가치가 있다고 호소했습니다.'"
+}

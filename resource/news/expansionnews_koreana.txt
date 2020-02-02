@@ -1,0 +1,15 @@
+GAME
+{
+	//"Headline"	"Expansion Act 50th Anniversary"
+	"Headline"	"확장법이 50주년을 맞이하다"
+	//"HeadlineDate"	"02/12/52"
+	"HeadlineDate"	"52년 2월 12일"
+	//"Paragraph1"	"Celebrations were held across the Interstellar Alliance today, showing support for the Interstellar Expansion Act of 2202.  This wildly successful directive allows any registered entity to claim planets, moons and even entire star systems by right of first discovery."
+	"Paragraph1"	"오늘 성간동맹 전역에서 2202년의 성간 확장법에 대한 지지를 보여주는 축하행사가 열렸습니다. 이 매우 성공적인 법안은 아직 어떠한 실체도 밝혀지지 않은 항성들 뿐 아니라 달 그리고 심지어 전체 항성계의 성간동맹의 권리를 주장할 수 있게 했습니다."
+	//"Paragraph2"	"The Act has been heavily used by major corporations, spurring expansion and colonization unseen in human history.  The Act was put into place to encourage people to leave Earth, after dangerous overcrowding and high living costs put the homeworld's stability in danger."
+	"Paragraph2"	"이 법안은 인류 역사상 유래없는 영토 확장과 행성 식민화를 촉진하면서 주요 기업들에 의해 많이 사용되어 왔습니다. 이 법은 높은 인구 증가와 심각한 물가 상승으로 인해 지구를 떠나고자 하는 사람들에게 장려되었습니다."
+	//"Paragraph3"	"A number of demonstrators were arrested outside the IA Central Embassy after they picketed the building, claiming the Act is responsible for fractioning humanity, citing the Chosen and the Humanist Protectorate as prime examples.  A number of extremists also blame the Act and the IA for exposing humanity to the Swarm."
+	"Paragraph3"	"많은 시위자들이 이 법이 인류를 분열시키는 데 책임이 있다고 주장하며 성간동맹 중앙 대사관 밖에서 체포되었습니다. 또한 몇몇 극단주의자들은 이 법안으로 인해 인류가 외계무리의 위험에 노출되었다고 성간동맹을 비난했습니다."
+	//"Paragraph4"	"The celebrations were sponsored and organized by Trust Media, Paradise Supplies, United Industries and the SynTek Megacorporation, with a spokeman stating 'Relax, have fun, show your support!  Then come to one of our recruitment centres and embrace the future!'"
+	"Paragraph4"	"이 기념행사는 트러스트 미디어, 파라다이스 서플라이, 산업 연합 및 신텍 초거대기업이 후원하며 주관하고 있습니다. '진정하시고 즐거운 마음으로 응원해주세요! 그런 다음 우리 채용 센터 중 한 곳에 와서 미래를 품으세요!'"
+}

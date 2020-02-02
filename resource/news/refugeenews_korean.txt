@@ -1,0 +1,11 @@
+﻿GAME
+{
+	//"Headline"	"Refugees flow into S-N5 constellation"
+	"Headline"	"난민들이 S-N5성좌에 흘러들어오다"
+	//"HeadlineDate"	"12/18/52"
+	"HeadlineDate"	"52년 12월 18일"
+	//"Paragraph1"	"Scattered groups of refugees continue to arrive at the S-N5 constellation on the outskirts of Paradise space.  Survivors have been arriving at the system ever since Swarm attacks destroyed a number of independant colonies last month."
+	"Paragraph1"	"파라다이스 구역 외곽의 S-N5 성좌로부터 난민들이 지속적으로 유입중이다. 지난 달, 외계무리의 습격으로 인해 수많은 독립 식민지가 파괴된 이후 생존자들은 성간동맹의 구역으로 피난하고 있다."
+	//"Paragraph2"	"It is believed the attacks originated from the Anhaven Ruins, but many analysts are concerned that the Swarm attacks have reached so deep into Alliance space.  'This could be the precursor to a larger attack which may even reach the Core Systems,' says Dr McArthur, a noted analyst of Swarm movements."
+	"Paragraph2"	"이번 습격이 앤헤이븐 폐허로부터 비롯된 것이라 추측되는 가운데 많은 수의 분석가들은 무리의 공격이 성간 동맹의 내부구역까지 도달했을 것이라 우려하고 있다. '이는 핵심 구역에 도달할 수 있는 대규모 공격의 전조가 될 수 있다'라고 저명한 무리행동 분석가인 닥터 맥아더가 말했다."
+	

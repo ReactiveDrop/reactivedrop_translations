@@ -1,0 +1,15 @@
+GAME
+{
+	//"Headline"	"신텍, 안드로이드 법 위반 혐의로 기소되다"
+	"Headline"	"SynTek accused of Droid Law violations"
+	//"HeadlineDate"	"12/19/52"
+	"HeadlineDate"	"52년 12월 19일"
+	//"Paragraph1"	"An anonymous source recently contacted the IA with supposed proof that the SynTek Megacorporation is using reprogrammed military androids in some of its chemical facilities.  If the allegations are true, SynTek would be in violation of not just military law, but also several employment laws."
+	"Paragraph1"	"최근 한 익명의 제보자에 의하면 신텍 초거대기업이 일부 화학시설에 재 프로그래밍된 군용 안드로이드를 사용하고 있다고 전해왔습니다. 이 주장이 사실이라면 신텍은 군법 뿐 아니라 몇몇 고용법 또한 위반하고 있다는 겁니다."
+	//"Paragraph2"	"The source has also accused SynTek of using an S-300 Scavenger series droid, a highly unreliable model reserved for use by the IAF on remote planets far from possible civilian contact."
+	"Paragraph2"	"또 제보자는 신텍이 S-300스캐빈저 드로이드 시리즈를 사용중이라고 애기했다. 이 모델은 성간군사동맹이 민간인들이 접촉하지 못한 행성에서 사용하기 위해 남겨둔 매우 신뢰성 없는 드로이드입니다."
+	//"Paragraph3"	"A SynTek spokesman has commented on the allegations, stating 'These rumours are completely false.  No one would want to get near an S-300 after the Rosebloom Pleasure World Massacre in '36.  SynTek's Robotics division follows the IA standards to the letter.'"
+	"Paragraph3"	"이에 신텍 대변인은 '현재 퍼지고 있는 의혹들은 전부 거짓이다.'라고 일갈했습니다. 또 '로즈블룸 대학살 이후 S-300모델은 누구도 사용중이지 않으며 신텍 로봇공학 부서는 IA의 표준절차를 따르고 있다'고 덧붙였습니다."
+	//"Paragraph4"	"SynTek closed several of their chemical facilities shortly after the accusations came to light, claiming no connection to the allegations, but citing reasons of normal obsolescence."
+	"Paragraph4"	"의혹 이후 신텍은 몇몇 화학시설을 폐쇄했지만 현재 퍼지고 있는 의혹들과는 아무런 관련이 없으며 시설의 노후화로 인한 폐쇄였다고 애기했습니다."
+}

@@ -1,0 +1,17 @@
+GAME
+{
+	//"Headline"	"Out With The Old In With The New!"
+	"Headline"	"옛것은 사라지고 새것이 오리라!"
+	//"HeadlineDate"	"02/02/54"	
+	"HeadlineDate"	"54년 02월 02일"
+	//"Paragraph1"	"The new colony systems and facilities were officially brought online today. Oasis colonists need no longer hang their heads in shame, for we now boast one of the most modern colonies known to man."
+	"Paragraph1"	"새로운 식민지 시스템과 시설들이 오늘 공식적으로 온라인에 소개되었습니다. 오아시스 식민지 주민들은 더 이상 부끄러워 고개를 숙일 필요가 없습니다. 왜냐하면 우리는 이제 인간에게 알려진 식민지 중 가장 현대적이기 때문이죠."
+	//"Paragraph2"	"The old systems were well past their time for decommission, being as they were the original systems that were built when the colony was first founded. The completion comes just in time to mark the 23rd anniversary of Planetfall here on Oasis, meaning that we shouldn't see a repeat of the rolling blackout during last year's celebrations."
+	"Paragraph2"	"구식 시스템들은 처음 식민지가 건설됐을 시기 때 갖춰졌으며 퇴역시기가 한참 지나있었습니다. 완공 시기는 오아시스 개척 23주년 기념행사에 맞춰 진행됐는데 이는 지난 해 행사동안 지속적으로 발생했던 정전사태를 더 이상 겪지 않겠다는 의미를 담고 있습니다."
+	//"Paragraph3"	"The new systems include an integrated communication facility, an expansion of the medical facilities and a major overhaul to the colony's power grid."
+	"Paragraph3"	"새로운 시스템은 통합 통신 시설, 의료 시설의 확장, 그리고 식민지의 전력망에 대한 대대적인 개편이 포함되어 있습니다."
+	//"Paragraph4"	"Overall, it's a good day here in Oasis. Finally the administration would like to wish you all a happy Planetfall!"
+	"Paragraph4"	"전반적으로 오늘은 오아시스에 매우 뜻깊은 날이었습니다. 끝으로 행정부는 행성민 모두 행복한 날이 오길 기대했습니다!"
+}
+
+	
