@@ -1,6 +1,6 @@
 "lang"
 {
-	"Language"	"english"
+	"Language"	"korean"
 	"Tokens"
 	{
 		"NEW_ACHIEVEMENT_146_0_NAME"	"깔끔한 사격 솜씨"
@@ -28,7 +28,7 @@
 		"NEW_ACHIEVEMENT_146_11_NAME"	"기생충 종결자"
 		"NEW_ACHIEVEMENT_146_11_DESC"	"감염된 해병을 치료하십시오."
 		"NEW_ACHIEVEMENT_146_12_NAME"	"회로 좀 끊어본 몸"
-		"NEW_ACHIEVEMENT_146_12_DESC"	""접속 로그에 기록되는 일 없이 와이어 해킹 10번을 완료하십시오."
+		"NEW_ACHIEVEMENT_146_12_DESC"	"접속 로그에 기록되는 일 없이 와이어 해킹 10번을 완료하십시오."
 		"NEW_ACHIEVEMENT_146_13_NAME"	"보안 전문가"
 		"NEW_ACHIEVEMENT_146_13_DESC"	"접속 로그에 기록되는 일 없이 컴퓨터 해킹 10번을 완료하십시오."
 		"NEW_ACHIEVEMENT_146_14_NAME"	"집단 치료"
