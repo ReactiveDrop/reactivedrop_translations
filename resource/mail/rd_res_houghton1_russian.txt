@@ -4,9 +4,9 @@ GAME
 
 "MailFrom1" "От: Коммандор Хьютон"
 "MailDate1" "Дата: 12/30/52"
-"MailSubject1" "Тема: Операция Эрадикация"
-"MailBody1A" "Listen up Alpha,"
-"MailBody1B" "The Research 7 Transport Facility recieved a shipment of alien specimens a week ago, and then the entire outpost went dark."
-"MailBody1C" "We suspect we may have a foothold situation at RC7, and whatever just took down your Albatross all but confirms that."
-"MailBody1D" "Head through the Transport Facility to RC7 and find out what's going on. Good luck, Alpha. Houghton out."
-} 
+"MailSubject1" "Тема: Операция Искоренение"
+"MailBody1A" "Слушайте внимательно, Альфа,"
+"MailBody1B" "Транспортная станция 'Исследователькой 7' получила партию инопланетных образцов неделю назад, а затем весь аванпост погрузился во тьму."
+"MailBody1C" "Мы подозреваем, что имеем дело с ситуацией захвата ИК7, и саботаж вашего Альбатроса только подтверждает этот факт."
+"MailBody1D" "Отправляйтесь через транспортную станцию в ИК7 и узнайте, что происходит. Удачи, Альфа. Хьютон, конец связи."
+}
