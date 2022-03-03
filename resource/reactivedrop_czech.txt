@@ -197,7 +197,7 @@
 "[english]asw_MailBodyLabel"	"Message:"
 "asw_leadership"	"Vedení"
 "[english]asw_leadership"	"Leadership"
-"asw_incendiarym"	"Zápalné Miny\r\n"
+"asw_incendiarym"	"Zápalné Miny\n"
 "[english]asw_incendiarym"	"Incendiary Mines"
 "asw_hacking"	"Hackování"
 "[english]asw_hacking"	"Hacking"

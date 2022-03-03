@@ -19,7 +19,7 @@
 "[english]Command.co_m2_ob1"	"<clr:240,255,255>Commander: The situation isn’t pretty.  This next sector is completely overrun.  There’s a pipeline that the Swarm’s using as a superhighway to spread through the colony.  You go ahead and find the pipeline, and I'll see if we can figure out a way to destroy it. We need to stop these bugs from getting out.   "
 "Command.co_m2_ob2"	"<clr:240,255,255>Comandante: Parece que não somos os únicos a saber que os Swarm estavam a usar os canos. Isso são muitos \"booms\" à volta desse tubo. Os mineiros devem ter posto os explosivos mas nunca tiveram oportunidade de os ativar. Que tal tu acabares o que eles começaram?"
 "[english]Command.co_m2_ob2"	"<clr:240,255,255>Commander: Looks like we weren’t the only ones who knew the Swarm were using the pipeline.  That’s a lot of boom packed around that pipe.  Miners must have rigged the explosives but never got the chance to set em off.  How about you finish what they started?"
-"Command.co_m2_ob3"	"<clr:240,255,255>Comandante: É esse oleoduto mesmo por cima de ti. Explode-o agora!\r\n"
+"Command.co_m2_ob3"	"<clr:240,255,255>Comandante: É esse oleoduto mesmo por cima de ti. Explode-o agora!\n"
 "[english]Command.co_m2_ob3"	"<clr:240,255,255>Commander: That's the pipeline right above you.  Go ahead and blow it now!"
 "Command.co_m2_ob4"	"<clr:240,255,255>Comandante: Parece que não há energia na próxima área. Mas tenho uma ideia para te iluminar o caminho."
 "[english]Command.co_m2_ob4"	"<clr:240,255,255>Commander: Looks like power’s out in the next area.  I got an idea though for lighting up your way."

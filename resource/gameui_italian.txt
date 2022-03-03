@@ -907,7 +907,7 @@
 "[english]GameUI_Spray_Import_Error_Title"	"Spray Import Error"
 "GameUI_Spray_Import_Error_Reading_Image"	"Errore di lettura dell'immagine sorgente. Il file immagine potrebbe essere corrotto o formattato in maniera impropria."
 "[english]GameUI_Spray_Import_Error_Reading_Image"	"Error reading source image. Image file is possibly corrupt or improperly formated"
-"GameUI_Spray_Import_Image_Wrong_Size"	"Dimensioni non corrette dell'immagine sorgente.  \r\nSono consentiti i seguenti valori (in pixel) di altezza e larghezza: \r\n256, 128, 64, 32, 16, 8, 4, 2 e 1."
+"GameUI_Spray_Import_Image_Wrong_Size"	"Dimensioni non corrette dell'immagine sorgente.  \nSono consentiti i seguenti valori (in pixel) di altezza e larghezza: \n256, 128, 64, 32, 16, 8, 4, 2 e 1."
 "[english]GameUI_Spray_Import_Image_Wrong_Size"	"Source image is not the correct size.  Valid height and width values in pixels are 256, 128, 64, 32, 16, 8, 4, 2, and 1."
 "GameUI_Spray_Import_Error_Memory"	"Impossibile allocare memoria sufficiente per la conversione. File immagine probabilmente danneggiato."
 "[english]GameUI_Spray_Import_Error_Memory"	"Unable to allocate enough memory for conversion. Image file possibly corrupt."
