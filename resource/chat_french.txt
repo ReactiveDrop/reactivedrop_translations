@@ -1,0 +1,15 @@
+"lang"
+{
+"Language" "french"
+"Tokens"
+{
+"chat_filterbutton"	"Filtres"
+"filter_joinleave"	"Rejoindre/Quitter"
+"filter_namechange"	"Changer de Nom"
+"filter_publicchat"	"Chat Publique"
+"filter_servermsg"	"Message Serveur"
+"filter_teamchange"	"Changer d'Équipe"
+"chat_say"			"Dire :"
+"chat_say_team"	    "Dire (ÉQUIPE) :"
+}
+}
