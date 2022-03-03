@@ -483,7 +483,7 @@
 "[english]L4D360UI_GameSettings_Chapter"	"CHAPTER"
 "L4D360UI_GameSettings_Character"	"PERSONAJ"
 "[english]L4D360UI_GameSettings_Character"	"CHARACTER"
-"L4D360UI_GameSettings_Create_Lobby"	"CREEAZĂ UN LOBBY\r\n"
+"L4D360UI_GameSettings_Create_Lobby"	"CREEAZĂ UN LOBBY\n"
 "[english]L4D360UI_GameSettings_Create_Lobby"	"CREATE GAME"
 "L4D360UI_GameSettings_Server_Type"	"TIP SERVER"
 "[english]L4D360UI_GameSettings_Server_Type"	"SERVER TYPE"

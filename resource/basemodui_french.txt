@@ -1364,7 +1364,7 @@
 "L4D360UI_Difficulty_Easy"	"Facile"
 "[english]L4D360UI_Difficulty_Easy"	"Easy"
 "L4D360UI_Difficulty_Normal"	"Normale"
-"[english]L4D360UI_Difficulty_Normal"	"Normale"
+"[english]L4D360UI_Difficulty_Normal"	"Normal"
 "L4D360UI_Difficulty_Hard"	"Avancée"
 "[english]L4D360UI_Difficulty_Hard"	"Hard"
 "L4D360UI_Difficulty_Expert"	"Démente"
