@@ -83,10 +83,7 @@
 
 
 "Spec_Slow_Motion" "Slow Motion"
-"Spec_No_PIP" "
-Picture-In-Picture is not available
-in First-Person mode while playing.
-"
+"Spec_No_PIP" "\nPicture-In-Picture is not available\nin First-Person mode while playing.\n"
 
 "Spec_Replay" "Instant Replay"
 "Spec_Auto" "Auto"
@@ -98,24 +95,7 @@ in First-Person mode while playing.
 "Spec_PlayerItem_Team" "%s1 (%s2)"
 "Spec_Duck"	"Press DUCK for Spectator Menu"
 "Spec_Help_Title" "Spectator Mode"
-"Spec_Help_Text"  "
-Use the following keys to change view styles:
-
- FIRE1 - Chase next player
- FIRE2 - Chase previous player
- JUMP - Change view modes
- USE - Change inset window mode
- 
- DUCK  - Enable spectator menu
-  
-In Overview Map Mode move around with:
-
- MOVELEFT - move left
- MOVERIGHT - move right
- FORWARD - zoom in
- BACK - zoom out
- MOUSE - rotate around map/target
-"
+"Spec_Help_Text"  "\nUse the following keys to change view styles:\n\n FIRE1 - Chase next player\n FIRE2 - Chase previous player\n JUMP - Change view modes\n USE - Change inset window mode\n \n DUCK  - Enable spectator menu\n  \nIn Overview Map Mode move around with:\n\n MOVELEFT - move left\n MOVERIGHT - move right\n FORWARD - zoom in\n BACK - zoom out\n MOUSE - rotate around map/target\n"
 
 "Spec_Modes" 	"Camera Options"
 "Spec_Mode0" 	"Camera Disabled"
