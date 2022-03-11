@@ -7765,5 +7765,9 @@
 		"[english]asw_weapon_medrifle_attributes" ""
 		"rd_afk_not_allowed" "This server or game mode doesn't allow taking a break"
 		"[english]rd_afk_not_allowed" "This server or game mode doesn't allow taking a break"
+		"asw_iafranks" "IAF RANKS"
+		"[english]asw_iafranks" "IAF RANKS"
+		"asw_iaf_heroes_title" "Heroes of the Interstellar Armed Forces"
+		"[english]asw_iaf_heroes_title" "Heroes of the Interstellar Armed Forces"
 }
 }

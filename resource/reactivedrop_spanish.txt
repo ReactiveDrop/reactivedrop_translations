@@ -5127,5 +5127,9 @@
 "[english]rd_flashlight_not_allowed" "This server or game mode doesn't allow to toggle flashlight for marines."
 "rd_flashlight_toggle" "Linterna"
 "[english]rd_flashlight_toggle" "Flashlight"
+		"asw_iafranks" "IAF RANKS"
+		"[english]asw_iafranks" "IAF RANKS"
+		"asw_iaf_heroes_title" "Heroes of the Interstellar Armed Forces"
+		"[english]asw_iaf_heroes_title" "Heroes of the Interstellar Armed Forces"
 }
 }

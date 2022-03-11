@@ -5166,5 +5166,9 @@
 		"[english]RD_CAMPAIGN_NO_DEATHS_BIO_DESC" "Complete the BioGen Corporation campaign on Normal difficulty or harder without any marines dying."
 		"RD_NH_BONUS_OBJECTIVE_DESC" "In Groundwork Labs, upload prohibited data to the ship."
 		"[english]RD_NH_BONUS_OBJECTIVE_DESC" "In Groundwork Labs, upload prohibited data to the ship."
+		"asw_iafranks" "IAF RANKS"
+		"[english]asw_iafranks" "IAF RANKS"
+		"asw_iaf_heroes_title" "Heroes of the Interstellar Armed Forces"
+		"[english]asw_iaf_heroes_title" "Heroes of the Interstellar Armed Forces"
 }
 }
