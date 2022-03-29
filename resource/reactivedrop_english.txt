@@ -159,7 +159,7 @@
 "asw_grenades_desc"	"Increases the effectiveness of all\nexplosive weapons."
 "asw_health_desc"	"Increases the total health of the marine."
 "asw_melee_desc"	"Increases the damage dealt by the marine's\nmelee attacks and melee weapons."
-"asw_reloading_desc"     	"Decreases the reload time of all weapons."
+"asw_reloading_desc"	"Decreases the reload time of all weapons."
 "asw_agility_desc"	"Increases the marine's movement speed."
 "asw_name_sarge"	"Sarge"
 "asw_name_jaeger"	"Jaeger"
