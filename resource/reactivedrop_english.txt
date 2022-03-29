@@ -2298,7 +2298,7 @@
 "asw_wdesc_healampgun"	"This experimental version of the IAF regenerative healing gun can convert the healing charge into electromagnetic field which optimizes weapon of a single marine to fire rounds with increased impact force. Primary fire performs healing while alternate fire does amplification."
 "rd_weapon_50calmg"	"50CMG4-1"
 "rd_weaponl_50calmg"	""
-"rd_wdesc_50calmg"	""
+"rd_wdesc_50calmg"	"The 50cal is powerful enough to kill shieldbugs with a frontal assault in a matter of seconds."
 "rd_weapon_50calmg_attributes"	""
 //
 // Lana's Escape objectives
