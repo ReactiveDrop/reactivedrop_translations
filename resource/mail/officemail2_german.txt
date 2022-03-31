@@ -8,9 +8,10 @@ GAME
 "MailDate1"	"Datum: 21.12.52"
 "MailSubject1"	"Thema: Kontamination im Labor"
 "MailBody1A"	"Leutnant Kain."
-"MailBody1B"	"Ich will einen vollständigen Bericht über die Ereignisse auf Deck 2.  Dazu gehören die Art des Lecks, die Baupläne, eine Liste des Personals, das Zugang zu den Laboren hat, usw.  Ich bin es leid, jedes Mal nachzufragen, wenn etwas passiert.  Du solltest mich regelmäßig auf dem Laufenden halten."
-"MailBody1C"	"Ich bin gerade von der Timor Station zurückgekehrt.  Es gibt eine weitere Meldung über zwei vermisste Bergleute.  Klingt vage nach einem Sicherheitsproblem.  Warum habe ich dann niemanden von deinem Personal dort unten gesehen?"
-"MailBody1D"	"L. Callen"
+"MailBody1B"	"Ich will einen vollständigen Bericht über die Ereignisse auf Deck 2.  Dazu gehören die Art des Lecks, die Baupläne, eine Liste des Personals, das Zugang zu den Laboren hat, usw."
+"MailBody1C"	"Ich bin es leid, jedes Mal nachzufragen, wenn etwas passiert.  Du solltest mich regelmäßig auf dem Laufenden halten."
+"MailBody1D"	"Ich bin gerade von der Timor Station zurückgekehrt.  Es gibt eine weitere Meldung über zwei vermisste Bergleute.  Klingt vage nach einem Sicherheitsproblem.  Warum habe ich dann niemanden von deinem Personal dort unten gesehen?"
+"MailBody1E"	"L. Callen"
 
 
 "MailFrom2"	"Von: Laura Callen

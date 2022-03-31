@@ -2,11 +2,21 @@ GAME
 {
 // PDA belongs to Dr. Tom Hinler.
 
-"MailFrom1"	"Von: Dr. Tom Hinler."
+"MailFrom1"	"Von : Dr. Tom Hinler."
 "MailDate1"	"Datum: 26.05.2060."
-"MailSubject1"	"Thema: Thema 58."
-"MailBody1A"	"Donnerstag, 21. Mai 2060: Heute haben wir dem Patienten erfolgreich eine rekombinante DNA eingesetzt. Diese DNA stammt von dem Alien, das vor ein paar Tagen von einer Patrouille gefangen genommen wurde. Der Patient scheint bei guter Gesundheit zu sein."
-"MailBody1B"	"Samstag, 23. Mai 2060: Der Patient spricht von Kopfschmerzen, Übelkeit, Schwindel und ständigen. Sein Zustand verschlechtert sich von Tag zu Tag. Vielleicht hat das Implantat versagt ... wieder."
-"MailBody1C"	"Montag, 25. Mai 2060: Wir haben ein echtes Problem. Der Patient verhält sich sehr seltsam. Er hat immer öfter Anfälle von Wahnsinn und wird zunehmend gewalttätig gegenüber den Ärzten, die sich um ihn kümmern. Wir müssen eine Entscheidung treffen. Wenn er so weitermacht, wird er am Ende noch jemanden verletzen oder Schlimmeres ..."
-"MailBody1D"	"Dienstag, 26. Mai 2060: Der Patient ist geflohen. Er hat zwei Ärzte verwundet. Viele Soldaten haben sich auf die Suche nach ihm gemacht. Sie fanden ihn am Nachmittag, mit idle cut und Körper mit Blut verschmiert. Wir haben ihn in den medizinischen Raum gebracht und getötet, um weitere Untersuchungen vorzunehmen. Das mussten wir, sonst wäre es ausgeartet. = Thema 58 : Gescheitert. = Dr. Tom Hinler."
+"MailSubject1"	"Thema : Thema 58."
+"MailBody1A"	"Donnerstag, 21. Mai 2060:"
+"MailBody1B"	"Heute haben wir dem Patienten erfolgreich eine rekombinante DNA eingesetzt. Diese DNA stammt von dem Alien, das vor ein paar Tagen von einer Patrouille gefangen genommen wurde. Der Patient scheint bei guter Gesundheit zu sein."
+"MailBody1C"	"Samstag, 23. Mai 2060:"
+"MailBody1D"	"Der Patient spricht von Kopfschmerzen, Übelkeit, Schwindel und ständigen. Sein Zustand verschlechtert sich von Tag zu Tag. Vielleicht hat das Implantat versagt ... wieder."
+"MailBody1E"	""
+"MailBody1F"	"Montag, 25. Mai 2060:"
+"MailBody1G"	"Wir haben ein echtes Problem. Der Patient verhält sich sehr seltsam. Er hat immer öfter Anfälle von Wahnsinn und wird zunehmend gewalttätig gegenüber den Ärzten, die sich um ihn kümmern. Wir müssen eine Entscheidung treffen."
+"MailBody1H"	"Wenn er so weitermacht, wird er am Ende noch jemanden verletzen oder Schlimmeres ..."
+"MailBody1I"	"Dienstag, 26. Mai 2060:"
+"MailBody1J"	"Der Patient ist geflohen. Er hat zwei Ärzte verwundet. Viele Soldaten haben sich auf die Suche nach ihm gemacht. Sie fanden ihn am Nachmittag, mit idle cut und Körper mit Blut verschmiert. Wir haben ihn in den medizinischen Raum gebracht und getötet, um weitere Untersuchungen vorzunehmen. Das mussten wir, sonst wäre es ausgeartet."
+"MailBody1K"	""
+"MailBody1L"	"= Thema 58 : Gescheitert. ="
+"MailBody1M"	""
+"MailBody1N"	"Dr. Tom Hinler."
 }
