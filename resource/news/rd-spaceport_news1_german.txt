@@ -1,0 +1,9 @@
+GAME
+{
+	"Headline"	"Explosion erschüttert Raumhafen!"
+	"HeadlineDate"	"05/10/57"
+	"Paragraph1"	"In den frühen Morgenstunden des gestrigen Tages erschütterte eine Explosion den Raumhafen. Nach den bisherigen Ermittlungen erlitt ein Frachtschiff, das biologische Proben transportierte, einen mechanischen Defekt, der dazu führte, dass die Triebwerke ansprangen, während die Ingenieure des Raumhafens an ihnen arbeiteten. Aus unbekannten Gründen wurden die Ausfallsicherungen des Schiffes nicht aktiviert und die Triebwerke explodierten heftig. Fünf Menschen wurden bei der ersten Explosion schwer verletzt, und auch in der Folgezeit gab es zahlreiche leichte Verletzungen. Glücklicherweise gab es keine Todesopfer."
+	"Paragraph2"	"Die Verantwortlichen des Weltraumbahnhofs sind in Gedanken bei den Verletzten der Explosion, erklärten aber, dass es noch viel schlimmer hätte kommen können, wenn die Explosion später am Tag stattgefunden hätte. Der Kapitän des Frachters war für ein Interview nicht zu erreichen."
+	"Paragraph3"	"Aus diesem Grund wird der Hangar 4 in den nächsten Tagen für Reparaturarbeiten geschlossen sein. In Verbindung mit den Renovierungsarbeiten in Terminal 5 und den Hangars 7 und 8 ist in den nächsten Wochen mit erheblichen Verspätungen und Flugausfällen zu rechnen.
+	"Paragraph4"	"[Auszug aus dem Nachrichtenmagazin 'The Morning Star', gesponsert von der Oasis-Kolonieverwaltung. Füge einen Credit-Chip ein, um vollen Zugriff auf alle Artikel zu erhalten]"
+}
