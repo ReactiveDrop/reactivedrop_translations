@@ -1,0 +1,12 @@
+GAME
+{
+    // PDA belongs to Helen Young
+    
+	"MailFrom1"	"Von: Shaun Ming "
+	"MailDate1"	"Datum: 22.12.52"
+	"MailSubject1"	"Thema: Fortschritt"
+	"MailBody1A"	"Liebe Helen,"
+	"MailBody1B"	"Ich stehe kurz vor einer der größten Entdeckungen der letzten 200 Jahre.  Ich habe den genetischen Code der organischen Proben analysiert, die wir gefunden haben.  Die Daten, die ich gesammelt habe, unterstützen meine Theorie, wie die außerirdische Lebensform so schnell wachsen und sich vermehren kann.  Ich glaube, der Katalysator für die schnelle Gewebebildung ist warmes, lebendes Fleisch!"
+	"MailBody1C"	"Ich möchte, dass du hier bist, um das zu sehen.  Ich weiß, du würdest es zu schätzen wissen.  Ich werde versuchen, dir eine SynTek-Freigabe für die Labore zu besorgen.  Wir sehen uns bald wieder."
+	"MailBody1D"	"Shaun"
+}

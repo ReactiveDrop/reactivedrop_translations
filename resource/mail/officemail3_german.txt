@@ -1,0 +1,24 @@
+GAME
+{
+    // PDA belongs to Brian Howe
+    
+    // inbox
+    
+	"MailFrom1"	"Von: Helen Young"
+	"MailDate1"	"Datum: 23.12.52"
+	"MailSubject1"	"Betreff: Atrium geschlossen!"
+	"MailBody1A"	"Hi,"
+	"MailBody1B"	"Sie mussten heute Morgen das Atrium schließen!  Nicht nur der Südflügel, sondern die gesamte Anlage.  Uns wurde gesagt, dass sich die Kontamination von Deck 2 durch das Belüftungssystem ausgebreitet hat.  Das Sicherheitspersonal bewacht den gesamten nordwestlichen Teil von Deck 1.  Sie sind ziemlich unfreundlich."
+	"MailBody1C"	"Ich habe heute Morgen Post von diesem Idioten Ming bekommen.  Es scheint, dass er und seine Männer immer noch in den Laboren arbeiten und die Eier untersuchen, die du entdeckt hast.  Ich bin mir sicher, dass seine Arbeit nicht von der IA gebilligt wird."
+	"MailBody1D"	"Bis später, Helen."
+
+    // sent mail
+    
+	"MailFrom3"	"An: Helen Young"
+	"MailDate3"	"Datum: 23.12.52"
+	"MailSubject3"	"Betreff: Re: Atrium geschlossen!"
+	"MailBody3A"	"Helen, hier unten sieht es schlimm aus!  Wir haben heute Nacht eine weitere Leiche gefunden. Diese ist teilweise verschlungen.  Irgendetwas ist hier unten.  Irgendetwas.  Cain und ein Dutzend seiner Leute tauchten auf, fuhren mit dem Aufzug runter zur Timor Station und sagten uns, wir sollten zurückbleiben.  Kurze Zeit später hörten wir Schüsse."
+	"MailBody3B"	"Als Cain zurückkam, hatte er nur noch zwei Männer, beide schwer verwundet. Cain sagte mir, dass wir unsere Mannschaft aus der Mine holen müssen.  Ich sagte, das sei unmöglich, sie seien überall verstreut.  Er zuckte nur mit den Schultern.  Er sagte, das sei jetzt mein Problem.  Dann ist er gegangen."
+	"MailBody3C"	"Also, ich nehme Dave und Tom mit.  Wir werden ein letztes Mal nach den vermissten Arbeitern suchen.  Ich möchte, dass du die IA-Agentin Laura Callen darüber informierst.  Und wenn du schon dabei bist, erzähl ihr von Ming.  Sie ist die Einzige, die befugt ist, sich gegen Cain zu stellen."
+	"MailBody3D"	"Sei vorsichtig!  Brian."
+}
