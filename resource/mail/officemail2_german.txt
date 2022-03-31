@@ -7,7 +7,7 @@ GAME
 	"MailFrom1"	"Von: Laura Callen
 	"MailDate1"	"Datum: 21.12.52"
 	"MailSubject1"	"Thema: Kontamination im Labor"
-	"MailBody1A"	"Leutnant Kain".
+	"MailBody1A"	"Leutnant Kain."
 	"MailBody1B"	"Ich will einen vollständigen Bericht über die Ereignisse auf Deck 2.  Dazu gehören die Art des Lecks, die Baupläne, eine Liste des Personals, das Zugang zu den Laboren hat, usw.  Ich bin es leid, jedes Mal nachzufragen, wenn etwas passiert.  Du solltest mich regelmäßig auf dem Laufenden halten."
 	"MailBody1C"	"Ich bin gerade von der Timor Station zurückgekehrt.  Es gibt eine weitere Meldung über zwei vermisste Bergleute.  Klingt vage nach einem Sicherheitsproblem.  Warum habe ich dann niemanden von deinem Personal dort unten gesehen?"
 	"MailBody1D"	"L. Callen"
@@ -16,7 +16,7 @@ GAME
 	"MailFrom2"	"Von: Laura Callen
 	"MailDate2"	"Datum: 23.12.52"
 	"MailSubject2"	"Betreff: Fwd: Kontamination im Labor"
-	"MailBody2A"	"Leutnant Kain".
+	"MailBody2A"	"Leutnant Kain."
 	"MailBody2B"	"Immer noch kein Update.  Ich bin mit meiner Geduld am Ende.  Betrachte dies als formelle Mitteilung, dass ich einen Bericht über dein Verhalten bei der Interstellaren Allianz einreichen werde.  Außerdem beordere ich weitere IA-Mitarbeiter nach Vereon XII, um mir ein genaues Bild von der Situation zu machen.  Ich erwarte, dass du mich um 1100 an der Rezeption triffst."
 	"MailBody2C"	"L. Callen"
 }

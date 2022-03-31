@@ -10,7 +10,7 @@ GAME
 	"MailBody1A"	"Tony,"
 	"MailBody1B"	"Danke, dass du das zusätzliche Sicherheitspersonal eingesetzt hast. Alle waren ziemlich aufgewühlt, nachdem diese Typen versucht hatten, ihre Waren gewaltsam zurückzunehmen, und die zusätzlichen Sicherheitskräfte helfen den Leuten wirklich, sich wohler zu fühlen."
 	"MailBody1C"	"Ich habe auch gehört, dass es Jenny gut geht und sie wieder ganz gesund werden soll. Bitte sag Adam Bescheid, er schien sich große Sorgen um sie zu machen."
-	"MailBody1D"	"Barbara Whyte - Cargo Storage Supervisor".
+	"MailBody1D"	"Barbara Whyte - Cargo Storage Supervisor."
 
 	"MailFrom2"	"Von: Andrew Smithson"
 	"MailDate2"	"Datum: 04/10/57"
