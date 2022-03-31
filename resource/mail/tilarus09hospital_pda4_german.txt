@@ -1,25 +1,25 @@
 GAME
 {
-    // PDA belongs to Dr.Kennett
-    
-	"MailFrom1"	"Von: Dr. L. Gilmore"
-	"MailDate1"	"Datum: 17.3.46"
-	"MailSubject1"	"Betreff: Der tapfere Sicherheitschef"
-	"MailBody1A" 	"Kennett!"
-	"MailBody1B"	"Die Experimente sind am Sicherheitsteam vorbeigekommen!"
-	"MailBody1C"	"Der Sicherheitschef versucht, über den Teleporter zu fliehen. Er flieht vor seinem eigenen Revier. Erbärmlich. Wo will er denn überhaupt hin?"
-	"MailBody1D"	"Wir müssen etwas tun, und zwar schnell."
-	
-	"MailFrom2"	"Von: Dr. L. Gilmore"
-	"MailDate2"	"Datum: 17.3.46"
-	"MailSubject2"	"Betreff: ???"
-	"MailBody2A"	"Warum antwortest du mir nicht?!"
-	
-	"MailFrom3"	"Das: Dr. L. Gilmore."
-	"MailDate3"	"Datum: 17.3.46"
-	"MailSubject3"	"Betreff: Hilfe!"
-	"MailBody3A" 	"Lily!"
-	"MailBody3B"	"Die Experimente sind überall!"
-	"MailBody3C"	"Ich habe mich in einem der Lagerräume versteckt, bevor der Strom ausfiel; jetzt sitze ich in der Falle. Ich hoffe nur, dass diese verdammten Experimente hier nicht reinkommen können."
-	"MailBody3D"	"Das alles hat keinen Sinn mehr. Es ist notwendig, von hier wegzukommen und einen Komplex zu zerstören."
+// PDA belongs to Dr.Kennett
+
+"MailFrom1"	"Von: Dr. L. Gilmore"
+"MailDate1"	"Datum: 17.3.46"
+"MailSubject1"	"Betreff: Der tapfere Sicherheitschef"
+"MailBody1A" 	"Kennett!"
+"MailBody1B"	"Die Experimente sind am Sicherheitsteam vorbeigekommen!"
+"MailBody1C"	"Der Sicherheitschef versucht, über den Teleporter zu fliehen. Er flieht vor seinem eigenen Revier. Erbärmlich. Wo will er denn überhaupt hin?"
+"MailBody1D"	"Wir müssen etwas tun, und zwar schnell."
+
+"MailFrom2"	"Von: Dr. L. Gilmore"
+"MailDate2"	"Datum: 17.3.46"
+"MailSubject2"	"Betreff: ???"
+"MailBody2A"	"Warum antwortest du mir nicht?!"
+
+"MailFrom3"	"Das: Dr. L. Gilmore."
+"MailDate3"	"Datum: 17.3.46"
+"MailSubject3"	"Betreff: Hilfe!"
+"MailBody3A" 	"Lily!"
+"MailBody3B"	"Die Experimente sind überall!"
+"MailBody3C"	"Ich habe mich in einem der Lagerräume versteckt, bevor der Strom ausfiel; jetzt sitze ich in der Falle. Ich hoffe nur, dass diese verdammten Experimente hier nicht reinkommen können."
+"MailBody3D"	"Das alles hat keinen Sinn mehr. Es ist notwendig, von hier wegzukommen und einen Komplex zu zerstören."
 }

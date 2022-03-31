@@ -1,6 +1,6 @@
 GAME
 {
-    // PDA belongs to Overseer Ross
+// PDA belongs to Overseer Ross
 
 "MailFrom1"	"Von: Commander Harold"
 "MailDate1"	"Datum: 2/2/54"
