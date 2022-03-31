@@ -1,11 +1,11 @@
 GAME
 {
-    // PDA belongs to brian
-	"MailFrom1"	"Von: Helen Young"
-	"MailDate1"	"Datum: 24.12.52"
-	"MailSubject1"	"Betreff: Auf dem Weg ins Labor"
-	"MailBody1A"	"Brian, was zum Teufel ist hier los?  Schüsse?  Schreie?  Phil und ich haben beschlossen, zu versuchen, in die Labore zu gelangen.  Wir werden das Lüftungssystem benutzen, um auf Deck 2 zu gelangen."
-	"MailBody1B"	"Ich liebe dich.  Bitte melde dich bei mir!"
-	"MailBody1C"	"Helen"
-	"MailBody1D"	"PS: Herzlichen Glückwunsch zum Geburtstag, falls es etwas bringt."
+// PDA belongs to brian
+"MailFrom1"	"Von: Helen Young"
+"MailDate1"	"Datum: 24.12.52"
+"MailSubject1"	"Betreff: Auf dem Weg ins Labor"
+"MailBody1A"	"Brian, was zum Teufel ist hier los?  Schüsse?  Schreie?  Phil und ich haben beschlossen, zu versuchen, in die Labore zu gelangen.  Wir werden das Lüftungssystem benutzen, um auf Deck 2 zu gelangen."
+"MailBody1B"	"Ich liebe dich.  Bitte melde dich bei mir!"
+"MailBody1C"	"Helen"
+"MailBody1D"	"PS: Herzlichen Glückwunsch zum Geburtstag, falls es etwas bringt."
 }

@@ -1,12 +1,12 @@
 GAME
 {
-    // PDA belongs to Brian
-    
-	"MailFrom1"	"Von: Helen Young"
-	"MailDate1"	"Datum: 22.12.52"
-	"MailSubject1"	"Betreff: Keine Arbeit"
-	"MailBody1A"	"Hey Brian,"
-	"MailBody1B"	"Wir verpassen uns ständig."
-	"MailBody1C"	"Hast du von der Verseuchung gehört?  Sie haben die Labore auf unbestimmte Zeit abgeriegelt.  Nur Ming hat Zugang. Bewaffnete Sicherheitskräfte sind an den Aufzügen stationiert."
-	"MailBody1D"	"In Liebe, Helen.  PS: Kates Katze ist wieder verschwunden."
+// PDA belongs to Brian
+
+"MailFrom1"	"Von: Helen Young"
+"MailDate1"	"Datum: 22.12.52"
+"MailSubject1"	"Betreff: Keine Arbeit"
+"MailBody1A"	"Hey Brian,"
+"MailBody1B"	"Wir verpassen uns ständig."
+"MailBody1C"	"Hast du von der Verseuchung gehört?  Sie haben die Labore auf unbestimmte Zeit abgeriegelt.  Nur Ming hat Zugang. Bewaffnete Sicherheitskräfte sind an den Aufzügen stationiert."
+"MailBody1D"	"In Liebe, Helen.  PS: Kates Katze ist wieder verschwunden."
 }

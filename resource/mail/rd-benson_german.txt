@@ -1,22 +1,22 @@
 GAME
 {
-    // PDA belongs to George Benson
-    
-    // inbox 
-	"MailFrom1"	"Von: Versand und Lagerung"
-	"MailDate1"	"Datum: 24/10/53"
-	"MailSubject1"	"Betreff: Re: Kettensägen?!"
-	"MailBody1A"	"Hey George,"
-	"MailBody1B"	"Tut mir leid, dass wir das verwechselt haben. Ich sorge dafür, dass wir dir nächste Woche die Medikamente schicken."
-	"MailBody1C"	"Was die Kettensäge angeht, wirf sie von einer Klippe oder so. Irgendein Idiot hat aus Versehen eine Ladung davon bestellt und seitdem stehen sie im Lager und nehmen Platz weg. Als ob wir auf diesem Felsen Kettensägen brauchen würden!"
-	"MailBody1D"	"- Bob Vernes, Leiter der Abteilung Versand und Lagerung"
+// PDA belongs to George Benson
 
-   // sent mail
-	"MailFrom3"	"An: Versand und Lagerung"
-	"MailDate3"	"Datum: 23/10/53"
-	"MailSubject3"	"Betreff: Kettensägen?!"
-	"MailBody3A"	"Versand und Lagerung,"
-	"MailBody3B"	"Ich habe medizinische Hilfsmittel für den Außenposten bestellt, aber als die wöchentliche Lieferung kam, war ich überrascht, dass du uns stattdessen eine Kettensäge geschickt hast?! Könntest du dafür sorgen, dass wir die Medikamente mit der nächsten Lieferung bekommen? In der Zwischenzeit werde ich jemanden beauftragen, die Kettensäge zurückzuschicken.
-	"MailBody3C"	"Warum haben wir überhaupt Kettensägen???"
-	"MailBody3D"	"- George Benson, Comms officer"
+// inbox 
+"MailFrom1"	"Von: Versand und Lagerung"
+"MailDate1"	"Datum: 24/10/53"
+"MailSubject1"	"Betreff: Re: Kettensägen?!"
+"MailBody1A"	"Hey George,"
+"MailBody1B"	"Tut mir leid, dass wir das verwechselt haben. Ich sorge dafür, dass wir dir nächste Woche die Medikamente schicken."
+"MailBody1C"	"Was die Kettensäge angeht, wirf sie von einer Klippe oder so. Irgendein Idiot hat aus Versehen eine Ladung davon bestellt und seitdem stehen sie im Lager und nehmen Platz weg. Als ob wir auf diesem Felsen Kettensägen brauchen würden!"
+"MailBody1D"	"- Bob Vernes, Leiter der Abteilung Versand und Lagerung"
+
+// sent mail
+"MailFrom3"	"An: Versand und Lagerung"
+"MailDate3"	"Datum: 23/10/53"
+"MailSubject3"	"Betreff: Kettensägen?!"
+"MailBody3A"	"Versand und Lagerung,"
+"MailBody3B"	"Ich habe medizinische Hilfsmittel für den Außenposten bestellt, aber als die wöchentliche Lieferung kam, war ich überrascht, dass du uns stattdessen eine Kettensäge geschickt hast?! Könntest du dafür sorgen, dass wir die Medikamente mit der nächsten Lieferung bekommen? In der Zwischenzeit werde ich jemanden beauftragen, die Kettensäge zurückzuschicken.
+"MailBody3C"	"Warum haben wir überhaupt Kettensägen???"
+"MailBody3D"	"- George Benson, Comms officer"
 }

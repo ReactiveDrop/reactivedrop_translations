@@ -1,11 +1,11 @@
 GAME
 {
-    // PDA belongs to Helen Young
-    
-	"MailFrom1"	"Von: Brian Howe"
-	"MailDate1"	"Datum: 24.12.52"
-	"MailSubject1"	"Betreff: Re: Auf dem Weg ins Labor"
-	"MailBody1A"	"Tut mir leid, dass ich dich nicht früher erreichen konnte.  Wir haben einen Tunnel gefunden, den diese Dinger benutzen, um sich über die ganze Kolonie zu verteilen.  Wir haben einen alten Sprengkopf gebastelt.  Wir werden versuchen, den Tunnel mit der Sprengung zu versiegeln."
-	"MailBody1B"	"Wir haben auch einige alarmierende Mails von Laura Callen bekommen.  Ich kann mir nicht vorstellen, wie schlimm es da oben sein muss.  Helen, um Himmels willen, bleib weg von den Laboren!  Schließ dich ein, bis ich wieder im Hauptkomplex bin."
-	"MailBody1C"	"Brian"
+// PDA belongs to Helen Young
+
+"MailFrom1"	"Von: Brian Howe"
+"MailDate1"	"Datum: 24.12.52"
+"MailSubject1"	"Betreff: Re: Auf dem Weg ins Labor"
+"MailBody1A"	"Tut mir leid, dass ich dich nicht früher erreichen konnte.  Wir haben einen Tunnel gefunden, den diese Dinger benutzen, um sich über die ganze Kolonie zu verteilen.  Wir haben einen alten Sprengkopf gebastelt.  Wir werden versuchen, den Tunnel mit der Sprengung zu versiegeln."
+"MailBody1B"	"Wir haben auch einige alarmierende Mails von Laura Callen bekommen.  Ich kann mir nicht vorstellen, wie schlimm es da oben sein muss.  Helen, um Himmels willen, bleib weg von den Laboren!  Schließ dich ein, bis ich wieder im Hauptkomplex bin."
+"MailBody1C"	"Brian"
 }

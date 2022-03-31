@@ -1,24 +1,24 @@
 GAME
 {
-    // PDA belongs to Jan Anath
-    
-    // inbox
-    
-	"MailFrom1"	"Von: Windom King"
-	"MailDate1"	"Datum: 29.02.53"
-	"MailSubject1"	"Betreff: Große Bedrohung"
-	"MailBody1A"	"Hauptverwaltungsrat Anath, ich habe ein schlechtes Gefühl bei der ganzen Sache."
-	"MailBody1B"	"Ich bin mir sicher, dass wir einer großen Bedrohung gegenüberstehen."
-	"MailBody1C"	"Ich empfehle, dass wir die IAF kontaktieren. Das könnte ein Schwarmangriff sein."
-	"MailBody1D"	"Sicherheitsbeauftragter W. King"
-		
-	// sent mail
-	
-	"MailFrom3"	"An: Windom King"
-	"MailDate3"	"Datum: 29.02.53"
-	"MailSubject3"	"Betreff: Re: Große Bedrohung"
-	"MailBody3A"	"Ein Schwarmangriff? Das letzte Mal, als du das gesagt hast, war der einzige Käfer, den ich gesehen habe, eine Fliege, die ich unter einer Akte zerquetscht habe."
-	"MailBody3B"	"Vergiss deine Vergangenheit, König. Wir befinden uns hier nicht auf dem Schlachtfeld. Wir bauen Atomwaffen, die von einem Terroristen bedroht werden, der sich genau in dieser Basis befinden könnte."
-	"MailBody3C"	""
-	"MailBody3D"	"Hauptverwaltungsrat J. Anath"
+// PDA belongs to Jan Anath
+
+// inbox
+
+"MailFrom1"	"Von: Windom King"
+"MailDate1"	"Datum: 29.02.53"
+"MailSubject1"	"Betreff: Große Bedrohung"
+"MailBody1A"	"Hauptverwaltungsrat Anath, ich habe ein schlechtes Gefühl bei der ganzen Sache."
+"MailBody1B"	"Ich bin mir sicher, dass wir einer großen Bedrohung gegenüberstehen."
+"MailBody1C"	"Ich empfehle, dass wir die IAF kontaktieren. Das könnte ein Schwarmangriff sein."
+"MailBody1D"	"Sicherheitsbeauftragter W. King"
+
+// sent mail
+
+"MailFrom3"	"An: Windom King"
+"MailDate3"	"Datum: 29.02.53"
+"MailSubject3"	"Betreff: Re: Große Bedrohung"
+"MailBody3A"	"Ein Schwarmangriff? Das letzte Mal, als du das gesagt hast, war der einzige Käfer, den ich gesehen habe, eine Fliege, die ich unter einer Akte zerquetscht habe."
+"MailBody3B"	"Vergiss deine Vergangenheit, König. Wir befinden uns hier nicht auf dem Schlachtfeld. Wir bauen Atomwaffen, die von einem Terroristen bedroht werden, der sich genau in dieser Basis befinden könnte."
+"MailBody3C"	""
+"MailBody3D"	"Hauptverwaltungsrat J. Anath"
 }
