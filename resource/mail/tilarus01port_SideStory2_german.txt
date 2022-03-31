@@ -7,7 +7,7 @@ GAME
 "MailDate1"	"Datum: 2/2/54"
 "MailSubject1"	"Betreff: Reaktordruck runter"
 "MailBody1A"	"Hey Ross,"
-"MailBody1B"	"Ich melde nur ein paar seltsame Geräusche in Abschnitt 6".
+"MailBody1B"	"Ich melde nur ein paar seltsame Geräusche in Abschnitt 6."
 "MailBody1C"	"Und noch mehr kaputte Rohre, VIEL mehr Rohre, der Druck in Reaktor 1 ist um 15% gesunken."
 "MailBody1D"	"Ich könnte etwas Hilfe gebrauchen, wir sprechen uns später."
 

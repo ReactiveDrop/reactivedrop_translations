@@ -2447,8 +2447,8 @@
 "nb_leaderboard_not_found"	"Keiner deiner Freunde ist auf dieser Rangliste!"
 "rd_order_marine_hold"	"Marinestützpunkt bestellen"
 "rd_challenge_selection_title"	"CHALLENGE"
-"rd_challenge_selection_error"	"Fehler beim Laden von Challenge-Daten".
-"rd_challenge_selection_no_description"	"Keine Beschreibung angegeben".
+"rd_challenge_selection_error"	"Fehler beim Laden von Challenge-Daten."
+"rd_challenge_selection_no_description"	"Keine Beschreibung angegeben."
 "rd_challenge_selection_source_official"	"Offizielle Herausforderung"
 "rd_challenge_selection_source_manually_installed"	"Manuell installiert"
 "rd_challenge_selection_source_workshop"	"Workshop: %s1"
@@ -2460,7 +2460,7 @@
 "rd_ada2_ob_dead_end1_t"	"Zugang zum industriellen Komplex"
 "rd_ada2_ob_eggs2"	"Mit noch mehr Schwarm-Eiern auf dem Weg umgehen"
 "rd_ada2_ob_eggs2_t"	"Mehr Eier zum Zerstören"
-"rd_ada2_ob_airlockcodeA"	"Daten herunterladen, um auf Airloscks zuzugreifen".
+"rd_ada2_ob_airlockcodeA"	"Daten herunterladen, um auf Airloscks zuzugreifen."
 "rd_ada2_ob_airlockcodeB"	"Dann geh tiefer hinein."
 "rd_ada2_ob_airlockcode_t"	"Daten herunterladen und Luftschleusen passieren"
 "rd_ada2_ob_dead_end2A"	"Scanner zeigt seltsame Anomalie auf dem Weg"

@@ -2,9 +2,9 @@ GAME
 {
 // PDA belongs to Dr. Tom Hinler.
 
-"MailFrom1"	"Von: Dr. Tom Hinler".
-"MailDate1"	"Datum: 26.05.2060".
-"MailSubject1"	"Thema: Thema 58".
+"MailFrom1"	"Von: Dr. Tom Hinler."
+"MailDate1"	"Datum: 26.05.2060."
+"MailSubject1"	"Thema: Thema 58."
 "MailBody1A"	"Donnerstag, 21. Mai 2060: Heute haben wir dem Patienten erfolgreich eine rekombinante DNA eingesetzt. Diese DNA stammt von dem Alien, das vor ein paar Tagen von einer Patrouille gefangen genommen wurde. Der Patient scheint bei guter Gesundheit zu sein."
 "MailBody1B"	"Samstag, 23. Mai 2060: Der Patient spricht von Kopfschmerzen, Übelkeit, Schwindel und ständigen. Sein Zustand verschlechtert sich von Tag zu Tag. Vielleicht hat das Implantat versagt ... wieder."
 "MailBody1C"	"Montag, 25. Mai 2060: Wir haben ein echtes Problem. Der Patient verhält sich sehr seltsam. Er hat immer öfter Anfälle von Wahnsinn und wird zunehmend gewalttätig gegenüber den Ärzten, die sich um ihn kümmern. Wir müssen eine Entscheidung treffen. Wenn er so weitermacht, wird er am Ende noch jemanden verletzen oder Schlimmeres ..."

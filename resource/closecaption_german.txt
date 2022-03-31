@@ -202,7 +202,7 @@
 "bastille.CallWildcat0"	"<clr:205,127,50>Bastille: Hey, Wildcat."
 "bastille.CallWildcat1"	"<clr:205,127,50>Bastille: Wildkatze."
 "bastille.CallWolfe0"	"<clr:205,127,50>Bastille: Hey, Wolfe."
-"bastille.CallWolfe1"	"<clr:205,127,50>Bastille: Wolfe".
+"bastille.CallWolfe1"	"<clr:205,127,50>Bastille: Wolfe."
 "bastille.CallFaith0"	"<clr:205,127,50>Bastille: Der Glaube."
 "bastille.CallFaith1"	"<clr:205,127,50>Bastille: Hey, Faith."
 "bastille.CallCrash0"	"<clr:205,127,50>Bastille: Crash."
@@ -356,7 +356,7 @@
 "bastille.Selection0"	"<clr:205,127,50>Bastille: Bastille fertig!"
 "bastille.Selection1"	"<clr:205,127,50>Bastille: Commander!"
 "bastille.Selection2"	"<clr:205,127,50>Bastille: Commander!"
-"bastille.Selection3"	"<clr:205,127,50>Bastille: Medic Reporting".
+"bastille.Selection3"	"<clr:205,127,50>Bastille: Medic Reporting."
 "bastille.Selection4"	"<clr:205,127,50>Bastille: Berichterstattung."
 //Crash
 "crash.SargeIdleReply0"	"<clr:238,180,34>Crash: Du weißt wirklich, wie man eine Gruppe in Sicherheit bringt, Sarge."
@@ -412,7 +412,7 @@
 "crash.SentryInPlace1"	"<clr:238,180,34>Crash: Sentry Gun aktiv!"
 "crash.SentryInPlace2"	"<clr:238,180,34>Crash: Die Wache ist in Position."
 "crash.SentryInPlace3"	"<clr:238,180,34>Crash: Wache aufgebaut."
-"crash.SentryInPlace4"	"<clr:238,180,34>Crash: Sentry online".
+"crash.SentryInPlace4"	"<clr:238,180,34>Crash: Sentry online."
 "crash.SentryInPlace5"	"<clr:238,180,34>Crash: Die Wache ist bereit, ein paar Käfer zu töten."
 "crash.Ammo0"	"<clr:238,180,34>Crash: Munition."
 "crash.Medkit0"	"<clr:238,180,34>Crash: Medkit."
@@ -430,7 +430,7 @@
 "crash.CallWildcat0"	"<clr:238,180,34>Crash: Hey, Wildcat."
 "crash.CallWildcat1"	"<clr:238,180,34>Crash: Wildkatze."
 "crash.CallWolfe0"	"<clr:238,180,34>Crash: Hey, Wolfe."
-"crash.CallWolfe1"	"<clr:238,180,34>Crash: Wolfe".
+"crash.CallWolfe1"	"<clr:238,180,34>Crash: Wolfe."
 "crash.CallFaith0"	"<clr:238,180,34>Crash: Der Glaube."
 "crash.CallFaith1"	"<clr:238,180,34>Crash: Hey, Faith."
 "crash.CallBastille0"	"<clr:238,180,34>Crash: Bastille."
@@ -638,7 +638,7 @@
 "faith.Reloading3"	"<clr:178,34,34>Faith: Nachladen!"
 "faith.SentryInPlace0"	"<clr:178,34,34>Faith: Wache aufgebaut."
 "faith.SentryInPlace1"	"<clr:178,34,34>Faith: Wache in Position."
-"faith.SentryInPlace2"	"<clr:178,34,34>Faith: Sentry online".
+"faith.SentryInPlace2"	"<clr:178,34,34>Faith: Sentry online."
 "faith.Ammo0"	"<clr:178,34,34>Faith: Munition!"
 "faith.Ammo1"	"<clr:178,34,34>Faith: Munition!"
 "faith.Medkit0"	"<clr:178,34,34>Faith: Medkit!"
@@ -656,7 +656,7 @@
 "faith.CallWildcat0"	"<clr:178,34,34>Faith: Hey, Wildcat."
 "faith.CallWildcat1"	"<clr:178,34,34>Faith: Wildkatze."
 "faith.CallWolfe0"	"<clr:178,34,34>Faith: Hey, Wolfe."
-"faith.CallWolfe1"	"<clr:178,34,34>Faith: Wolfe".
+"faith.CallWolfe1"	"<clr:178,34,34>Faith: Wolfe."
 "faith.CallBastille0"	"<clr:178,34,34>Faith: Bastille."
 "faith.CallBastille1"	"<clr:178,34,34>Faith: Hey, Bastille."
 "faith.CallCrash0"	"<clr:178,34,34>Faith: Crash."
@@ -834,7 +834,7 @@
 "jaeger.Reloading3"	"<clr:198,226,255>Jaeger: Nachladen!"
 "jaeger.SentryInPlace0"	"<clr:198,226,255>Jaeger: Wache aufgebaut."
 "jaeger.SentryInPlace1"	"<clr:198,226,255>Jaeger: Wache in Position."
-"jaeger.SentryInPlace2"	"<clr:198,226,255>Jaeger: Sentry online".
+"jaeger.SentryInPlace2"	"<clr:198,226,255>Jaeger: Sentry online."
 "jaeger.Ammo0"	"<clr:198,226,255>Jaeger: Munition!"
 "jaeger.Medkit0"	"<clr:198,226,255>Jaeger: Medkit."
 "jaeger.Thanks0"	"<clr:198,226,255>Jaeger: Danke."
@@ -848,7 +848,7 @@
 "jaeger.CallWildcat0"	"<clr:198,226,255>Jaeger: Hey, Wildcat."
 "jaeger.CallWildcat1"	"<clr:198,226,255>Jaeger: Wildkatze."
 "jaeger.CallWolfe0"	"<clr:198,226,255>Jaeger: Hey, Wolfe."
-"jaeger.CallWolfe1"	"<clr:198,226,255>Jaeger: Wolfe".
+"jaeger.CallWolfe1"	"<clr:198,226,255>Jaeger: Wolfe."
 "jaeger.CallFaith0"	"<clr:198,226,255>Jaeger: Der Glaube."
 "jaeger.CallFaith1"	"<clr:198,226,255>Jaeger: Hey, Faith."
 "jaeger.CallBastille0"	"<clr:198,226,255>Jaeger: Bastille."
@@ -1024,7 +1024,7 @@
 "sarge.Reloading2"	"<clr:238,207,161>Sarge: Nachladen."
 "sarge.Reloading3"	"<clr:238,207,161>Sarge: Nachladen, gib mir Deckung!"
 "sarge.SentryInPlace0"	"<clr:238,207,161>Sarge: Wache in Position."
-"sarge.SentryInPlace1"	"<clr:238,207,161>Sarge: Sentry online".
+"sarge.SentryInPlace1"	"<clr:238,207,161>Sarge: Sentry online."
 "sarge.SentryInPlace2"	"<clr:238,207,161>Sarge: Wache aufgebaut."
 "sarge.Ammo0"	"<clr:238,207,161>Sarge: Munition."
 "sarge.Medkit0"	"<clr:238,207,161>Sarge: Medkit."
@@ -1105,7 +1105,7 @@
 "sarge.SealingDoor1"	"<clr:238,207,161>Sarge: Versiegeln durch."
 "sarge.SealingDoor2"	"<clr:238,207,161>Sarge: Sichert die Tür."
 "sarge.Biomass0"	"<clr:238,207,161>Sarge: Schwarm-Biomasse, brennt sie aus."
-"sarge.Biomass1"	"<clr:238,207,161>Sarge: Anzeichen für einen Befall".
+"sarge.Biomass1"	"<clr:238,207,161>Sarge: Anzeichen für einen Befall."
 "sarge.TimeToLeave0"	"<clr:238,207,161>Sarge: Also gut, Marinesoldaten, wir brechen auf."
 "sarge.TimeToLeave1"	"<clr:238,207,161>Sarge: Missionsziele erfüllt.  Trupp, wir rücken aus."
 "sarge.TimeToLeave2"	"<clr:238,207,161>Sarge: Trupp, wir fahren zum Sammelpunkt."
@@ -1204,7 +1204,7 @@
 "vegas.Use2"	"<clr:84,255,159>Vegas: Bin dabei."
 "vegas.Use3"	"<clr:84,255,159>Vegas: Si."
 "vegas.Use4"	"<clr:84,255,159>Vegas: Si."
-"vegas.Use5"	"<clr:84,255,159>Vegas: Yessir".
+"vegas.Use5"	"<clr:84,255,159>Vegas: Yessir."
 "vegas.Idle0"	"<clr:84,255,159>Vegas: 4 zu 1, was?  Ich mag die Chancen."
 "vegas.Idle1"	"<clr:84,255,159>Vegas: Also gut, wer hat Lust auf eine Partie Blackjack?"
 "vegas.Idle2"	"<clr:84,255,159>Vegas: Hat jemand ein Kartenspiel?"
@@ -1244,8 +1244,8 @@
 "vegas.SentryInPlace1"	"<clr:84,255,159>Vegas: Wache aufgebaut."
 "vegas.SentryInPlace2"	"<clr:84,255,159>Vegas: Wache in Position."
 "vegas.SentryInPlace3"	"<clr:84,255,159>Vegas: Wache in Position."
-"vegas.SentryInPlace4"	"<clr:84,255,159>Vegas: Sentry online".
-"vegas.SentryInPlace5"	"<clr:84,255,159>Vegas: Sentry online".
+"vegas.SentryInPlace4"	"<clr:84,255,159>Vegas: Sentry online."
+"vegas.SentryInPlace5"	"<clr:84,255,159>Vegas: Sentry online."
 "vegas.Ammo0"	"<clr:84,255,159>Vegas: Munition!"
 "vegas.Medkit0"	"<clr:84,255,159>Vegas: Medkit!"
 "vegas.Thanks0"	"<clr:84,255,159>Vegas: Danke!"
@@ -1262,7 +1262,7 @@
 "vegas.CallWildcat0"	"<clr:84,255,159>Vegas: Hey, Wildcat."
 "vegas.CallWildcat1"	"<clr:84,255,159>Vegas: Wildkatze."
 "vegas.CallWolfe0"	"<clr:84,255,159>Vegas: Hey, Wolfe."
-"vegas.CallWolfe1"	"<clr:84,255,159>Vegas: Wolfe".
+"vegas.CallWolfe1"	"<clr:84,255,159>Vegas: Wolfe."
 "vegas.CallFaith0"	"<clr:84,255,159>Vegas: Der Glaube."
 "vegas.CallFaith1"	"<clr:84,255,159>Vegas: Hey, Faith."
 "vegas.CallBastille0"	"<clr:84,255,159>Vegas: Bastille!"
@@ -1427,7 +1427,7 @@
 "wildcat.Idle1"	"<clr:238,106,80>Wildcat: Ich sage, wir legen ein paar T-75-Sprengsätze und hauen ab!"
 "wildcat.Idle2"	"<clr:238,106,80>Wildcat: Lasst uns mit der Party beginnen."
 "wildcat.Idle3"	"<clr:238,106,80>Wildcat: Miau."
-"wildcat.Idle4"	"<clr:238,106,80>Wildcat: Frieden durch überlegene Feuerkraft".
+"wildcat.Idle4"	"<clr:238,106,80>Wildcat: Frieden durch überlegene Feuerkraft."
 "wildcat.Idle5"	"<clr:238,106,80>Wildcat: Wer wagt, gewinnt."
 "wildcat.Idle6"	"<clr:238,106,80>Wildcat: Sollten wir nicht lieber Käfer verschwenden, anstatt uns abzukühlen?"
 "wildcat.FF0"	"<clr:238,106,80>Wildcat: Mein Gott, Mann."
@@ -1476,7 +1476,7 @@
 "wildcat.CallJaeger0"	"<clr:238,106,80>Wildcat: Hey, Jaeger."
 "wildcat.CallJaeger1"	"<clr:238,106,80>Wildcat: Jaeger."
 "wildcat.CallWolfe0"	"<clr:238,106,80>Wildcat: Hey, Wolfe."
-"wildcat.CallWolfe1"	"<clr:238,106,80>Wildcat: Wolfe".
+"wildcat.CallWolfe1"	"<clr:238,106,80>Wildcat: Wolfe."
 "wildcat.CallFaith0"	"<clr:238,106,80>Wildcat: Der Glaube."
 "wildcat.CallFaith1"	"<clr:238,106,80>Wildcat: Hey, Faith."
 "wildcat.CallBastille0"	"<clr:238,106,80>Wildcat: Bastille."
@@ -1527,7 +1527,7 @@
 "wildcat.CuttingDoor0"	"<clr:238,106,80>Wildcat: Durchschneiden."
 "wildcat.CuttingDoor1"	"<clr:238,106,80>Wildcat: Verstanden.  Tür aufschneiden."
 "wildcat.SealingDoor0"	"<clr:238,106,80>Wildcat: Sichert die Tür."
-"wildcat.SealingDoor1"	"<clr:238,106,80>Wildcat: Wildcat sealing by".
+"wildcat.SealingDoor1"	"<clr:238,106,80>Wildcat: Wildcat sealing by."
 "wildcat.Biomass0"	"<clr:238,106,80>Wildcat: Schwarm-Biomasse!  Verbrenne alles."
 "wildcat.Biomass1"	"<clr:238,106,80>Wildcat: Schwarm-Biomasse.  Ich hasse das Zeug."
 "wildcat.TimeToLeave0"	"<clr:238,106,80>Wildcat: Das war's, wir hauen ab."
@@ -1663,7 +1663,7 @@
 "wolfe.Medkit2"	"<clr:154,205,50>Wolfe: Es gibt einen Verbandskasten."
 "wolfe.Thanks0"	"<clr:154,205,50>Wolfe: Hey, danke."
 "wolfe.Thanks1"	"<clr:154,205,50>Wolfe: Ehrlich, danke."
-"wolfe.Thanks2"	"<clr:154,205,50>Wolfe: Danke".
+"wolfe.Thanks2"	"<clr:154,205,50>Wolfe: Danke."
 "wolfe.Thanks3"	"<clr:154,205,50>Wolfe: Dank dir."
 "wolfe.Thanks4"	"<clr:154,205,50>Wolfe: Danke!"
 "wolfe.Thanks5"	"<clr:154,205,50>Wolfe: Ja, danke."
@@ -1880,30 +1880,30 @@
 "wolfe.Selection1"	"<clr:154,205,50>Wolfe: Gib mir ein Ziel."
 "wolfe.Selection2"	"<clr:154,205,50>Wolfe: Sir."
 //BASE COMPUTER
-"ASWComputer.Startup"	"<clr:238,0,0>BASE COMPUTER: SynTek Megacorporation".
-"ASWComputer.AccessDenied"	"<clr:238,0,0>BASE COMPUTER: Zugang verweigert".
-"ASWComputer.HackComplete"	"<clr:238,0,0>BASE COMPUTER: Zugang gewährt".
+"ASWComputer.Startup"	"<clr:238,0,0>BASE COMPUTER: SynTek Megacorporation."
+"ASWComputer.AccessDenied"	"<clr:238,0,0>BASE COMPUTER: Zugang verweigert."
+"ASWComputer.HackComplete"	"<clr:238,0,0>BASE COMPUTER: Zugang gewährt."
 "ASWComputer.AccessDeniedBiohazard1"	"<clr:238,0,0>BASE COMPUTER: Zugang verweigert.  Biologische Gefährdung in der Forschungseinrichtung entdeckt."
 "ASWComputer.AccessDeniedBiohazard1"	"<clr:238,0,0>BASE COMPUTER: Zugang verweigert.  Biologische Gefährdung in der Forschungseinrichtung entdeckt."
 "ASWComputer.alarm"	"<clr:238,0,0>BASE COMPUTER: [Alarm!]"
-"ASWComputer.AtmosphericReport"	"<clr:238,0,0>BASE COMPUTER: Atmosphärischer Bericht".
+"ASWComputer.AtmosphericReport"	"<clr:238,0,0>BASE COMPUTER: Atmosphärischer Bericht."
 "ASWComputer.AwaitingSubsystemAlignment"	"<clr:238,0,0>BASE COMPUTER: Ich warte auf den Abgleich des Subsystems."
-"ASWComputer.BiohazardDetected2"	"<clr:238,0,0>BASE COMPUTER: Biologische Gefahr in der Forschungseinrichtung entdeckt".
-"ASWComputer.DownloadComplete"	"<clr:238,0,0>BASE COMPUTER: Download Complete".
+"ASWComputer.BiohazardDetected2"	"<clr:238,0,0>BASE COMPUTER: Biologische Gefahr in der Forschungseinrichtung entdeckt."
+"ASWComputer.DownloadComplete"	"<clr:238,0,0>BASE COMPUTER: Download Complete."
 "ASWComputer.Mail"	"<clr:238,0,0>BASE COMPUTER: Mail."
 "ASWComputer.News"	"<clr:238,0,0>BASE COMPUTER: Nachrichten."
 "ASWComputer.Override"	"<clr:238,0,0>BASE COMPUTER: Override."
-"ASWComputer.PlantStatus"	"<clr:238,0,0>BASE COMPUTER: Pflanzenstatus".
-"ASWComputer.QuarantineInEffect2"	"<clr:238,0,0>BASE COMPUTER: Quarantäne in Kraft".
-"ASWComputer.ReactorOnline"	"<clr:238,0,0>BASE COMPUTER: Reactor Online".
-"ASWComputer.RemoteTurret"	"<clr:238,0,0>BASE COMPUTER: Ferngesteuerter Geschützturm".
+"ASWComputer.PlantStatus"	"<clr:238,0,0>BASE COMPUTER: Pflanzenstatus."
+"ASWComputer.QuarantineInEffect2"	"<clr:238,0,0>BASE COMPUTER: Quarantäne in Kraft."
+"ASWComputer.ReactorOnline"	"<clr:238,0,0>BASE COMPUTER: Reactor Online."
+"ASWComputer.RemoteTurret"	"<clr:238,0,0>BASE COMPUTER: Ferngesteuerter Geschützturm."
 "ASWComputer.SecurityCamera"	"<clr:238,0,0>BASE COMPUTER: Sicherheitskamera."
 "ASWComputer.Stocks"	"<clr:238,0,0>BASE COMPUTER: Aktien."
-"ASWComputer.CriticalData"	"<clr:238,0,0>BASE COMPUTER: Kritische Daten".
+"ASWComputer.CriticalData"	"<clr:238,0,0>BASE COMPUTER: Kritische Daten."
 "ASWComputer.TimeOut"	"<clr:238,0,0>BASE COMPUTER: [Time-Out]"
-"ASWComputer.SyntekPDA"	"<clr:238,0,0>BASE COMPUTER: SynTek PDA".
-"ASWComputer.SyntekPersonalDigitalAssistant"	"<clr:238,0,0>BASE COMPUTER: SynTek Personal Digital Assistant".
-"ASWCountdown.WarningWarheadPathBlocked2"	"<clr:238,0,0>BASE COMPUTER: Warnung:  Sprengkopfweg blockiert.  Kritisches Versagen steht bevor".
+"ASWComputer.SyntekPDA"	"<clr:238,0,0>BASE COMPUTER: SynTek PDA."
+"ASWComputer.SyntekPersonalDigitalAssistant"	"<clr:238,0,0>BASE COMPUTER: SynTek Personal Digital Assistant."
+"ASWCountdown.WarningWarheadPathBlocked2"	"<clr:238,0,0>BASE COMPUTER: Warnung:  Sprengkopfweg blockiert.  Kritisches Versagen steht bevor."
 "ASWCountdown.Countdown60"	"<clr:238,0,0>BASE COMPUTER: Nukleare Detonation in 60 Sekunden."
 "ASWCountdown.Countdown30"	"<clr:238,0,0>BASE COMPUTER: Nukleare Detonation in 30 Sekunden."
 "ASWCountdown.Countdown10"	"<clr:238,0,0>BASE COMPUTER: Nukleare Detonation in 10 Sekunden."

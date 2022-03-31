@@ -17,7 +17,7 @@ GAME
 	"MailFrom3"	"An: John Cain
 	"MailDate3"	"Datum: 23.12.52"
 	"MailSubject3"	"Subject: Re:Re: Laborfreigabe für Helen Young"
-	"MailBody3A"	"Leutnant Kain".
+	"MailBody3A"	"Leutnant Kain."
 	"MailBody3B"	"Pass auf, was du sagst.  Ich bin nicht einer von deinen Grunzern.  Young wird ihren Mund halten.  Sie hat hervorragende Arbeit geleistet und sie weiß, dass ihre Karriere davon abhängt.  Du hast also lebende Exemplare in den Minen gesehen?  Das ist interessant.  Es gibt eine offensichtliche Erklärung:  Die Eier werden aktiv, wenn sie auftauen.  Da unten gibt es genug Beute, um den Wachstumszyklus zu unterstützen.  Rechne mal nach."
 	"MailBody3C"	"Mach dir keine Sorgen wegen des Atriums.  Wir haben es unter Kontrolle.  Einer der Parasiten ist gestern verschwunden.  Wir glauben, er hat einen Weg durch die Lüftungsschächte ins Unterdeck gefunden.  Der gesamte nordwestliche Bereich von Deck 1 ist versiegelt, also kommt nichts rein oder raus."
 	"MailBody3D"	"S. Ming"

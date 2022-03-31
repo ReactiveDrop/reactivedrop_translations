@@ -7,7 +7,7 @@ GAME
 "MailSubject1"	"VERBRENNT SIE!"
 "MailBody1A"	"Es war ein Fehler, dir diese Sachen zu schicken! Es tut mir leid!"
 "MailBody1B"	"Du musst alle deine Exemplare töten, JETZT!"
-"MailBody1C"	"Ich habe mich in einer Nische in der Timor Station verschanzt, ich kann sie hören. Sie sind hinter mir her!".
+"MailBody1C"	"Ich habe mich in einer Nische in der Timor Station verschanzt, ich kann sie hören. Sie sind hinter mir her!."
 "MailBody1D"	"TÖTE SIE ODER VERSCHWINDE, SOLANGE DU NOCH KANNST"
 
 "MailFrom2"	"Von: Martin Jericho"
