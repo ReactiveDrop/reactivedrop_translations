@@ -1,16 +1,13 @@
 GAME
 {
 // PDA belongs to Rivera
-
 // inbox
-
 "MailFrom1"	"Von: Laura Callen"
 "MailDate1"	"Datum: 23.12.52"
 "MailSubject1"	"Betreff: E-Mail-Übertragung"
 "MailBody1A"	"Mr. Rivera","
 "MailBody1B"	"Ich habe dich vor zwei Tagen nach den Problemen gefragt, die ich habe.  Sie sagten, Sie würden sich darum kümmern.  Ich habe noch immer kein Update erhalten. Warum dauert das so lange?"
 "MailBody1C"	"L. Callen"
-
 "MailFrom2"	"Von: John Cain"
 "MailDate2"	"Datum: 24.12.52"
 "MailSubject2"	"Betreff: Re: Callen wird misstrauisch"

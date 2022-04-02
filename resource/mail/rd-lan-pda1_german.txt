@@ -1,9 +1,7 @@
 GAME
 {
 // PDA belongs to Jan Anath
-
 // inbox
-
 "MailFrom1"	"Von: Windom King"
 "MailDate1"	"Datum: 29.02.53"
 "MailSubject1"	"Thema: Sicherheit"
@@ -11,10 +9,7 @@ GAME
 "MailBody1B"	"Es könnte ein Asteroid oder eine Rettungskapsel sein."
 "MailBody1C"	""
 "MailBody1D"	"Sicherheitschef W. King"
-
-
 // sent mail
-
 "MailFrom3"	"An: Windom King"
 "MailDate3"	"Datum: 29.02.53"
 "MailSubject3"	"Betreff: Re: Sicherheit"

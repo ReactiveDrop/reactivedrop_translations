@@ -1,9 +1,7 @@
 GAME
 {
 // PDA belongs to Lana King
-
 // inbox
-
 "MailFrom1"	"Von: Windom King"
 "MailDate1"	"Datum: 29.02.53"
 "MailSubject1"	"Betreff: Alert!"
@@ -11,7 +9,5 @@ GAME
 "MailBody1B"	"Du und Lucius müsst euer Bestes geben, um sie aufzuhalten und zur Sprengkopfanlage zu gelangen. Wenn ihr dort angekommen seid, aktiviert die Sicherheitsvorkehrungen und verlasst den Planeten."
 "MailBody1C"	"Anath glaubt mir nicht. Ich werde versuchen, ihn davon zu überzeugen, die IAF anzurufen, aber ich habe keine Hoffnung."
 "MailBody1D"	"Windom"
-
-
 // sent mail
 }

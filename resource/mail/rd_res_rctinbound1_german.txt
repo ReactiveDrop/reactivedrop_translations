@@ -1,8 +1,6 @@
 GAME
 {
-
 // inbox
-
 "MailFrom1"	"From: Shaun Ming"
 "MailDate1"	"Datum: 22/12/52"
 "MailSubject1"	"Betreff: Medizinische Sendung"
@@ -10,7 +8,6 @@ GAME
 "MailBody1B"	"Unser erster Versuch, ein Exemplar zu euch zu schmuggeln, war ein Fehlschlag. Callen hat die gefrorene Lieferung #4903877 entdeckt."
 "MailBody1C"	"Es ist uns aber gelungen, einige gefrorene Proben in eine zweite Ladung mit verbrauchten medizinischen Vorräten zu bekommen."
 "MailBody1D"	"Wenn dieser hier nicht entdeckt wird, ist er in ein paar Tagen bei dir im RC7. Ming."
-
 "MailFrom2"	"Von: Jenny Coulson"
 "MailDate2"	"Datum: 24/12/52"
 "MailSubject2"	"Re: Dinner"
@@ -18,9 +15,7 @@ GAME
 "MailBody2B"	"Das würde ich gerne. Ich sitze bis Donnerstag in den Minen von Jericho fest, aber vielleicht am Freitag, den 28. Juli?"
 "MailBody2C"	"Ich bin eigentlich allergisch gegen Xenon-Vegetation, vielleicht können wir stattdessen etwas trinken gehen, und danach vielleicht..."
 "MailBody2D"	"Jenny ;) xxxxx"
-
 // sent mail
-
 "MailFrom3"	"An: Shaun Ming"
 "MailDate3"	"Datum: 26/12/52"
 "MailSubject3"	"Re: Medizinischer Versand"
@@ -28,7 +23,6 @@ GAME
 "MailBody3B"	"Während ich schreibe, werden die Proben in RC7 aufgetaut."
 "MailBody3C"	"Vielleicht können wir etwas Licht in die Evolution dieser Kreaturen bringen. Der Nobelpreis ist so gut wie unser."
 "MailBody3D"	"Hullen."
-
 "MailFrom4"	"TO: Jenny Coulson"
 "MailDate4"	"Datum: 24/12/52"
 "MailSubject4"	"Dinner?"

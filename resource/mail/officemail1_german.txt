@@ -1,14 +1,12 @@
 GAME
 {
 // PDA belongs to Lt Cain
-
 "MailFrom1"	"From: Shaun Ming"
 "MailDate1"	"Datum: 21.12.52"
 "MailSubject1"	"Thema: Tests"
 "MailBody1A"	"Leutnant Kain."
 "MailBody1B"	"Eine Katze?  Das geht nicht.  Zu klein."
 "MailBody1C"	"S. Ming"
-
 "MailFrom2"	"From: Shaun Ming"
 "MailDate2"	"Datum: 22.12.52"
 "MailSubject2"	"Thema: Tests 2"

@@ -1,7 +1,6 @@
 GAME
 {
 // PDA belongs to John Hadan
-
 "MailFrom1"	"From: Jimmy Carter"
 "MailDate1"	"Date: 02/2/54"
 "MailSubject1"	"Subject: SynTek Shipment"

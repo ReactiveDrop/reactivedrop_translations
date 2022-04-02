@@ -1,7 +1,6 @@
 GAME
 {
 // PDA belongs to Helen Young
-
 "MailFrom1"	"Von: Shaun Ming "
 "MailDate1"	"Datum: 22.12.52"
 "MailSubject1"	"Thema: Fortschritt"

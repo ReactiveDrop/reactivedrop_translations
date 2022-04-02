@@ -1,7 +1,6 @@
 GAME
 {
 // PDA belongs to Joseph Palmer
-
 // inbox
 "MailFrom1"	"Von: Dr. Foster"
 "MailDate1"	"Datum: 13.3.46"
@@ -10,7 +9,6 @@ GAME
 "MailBody1B"	"Ich glaube, ich habe herausgefunden, warum der Patient Molligan nicht überlebt hat."
 "MailBody1C"	"Die zytostatische Dosis war nicht ausreichend. Ich empfehle, dass wir in der Endphase der Mutation eine zweite Dosis verabreichen."
 "MailBody1D"	"Dr. Foster"
-
 // sent mail
 "MailFrom3"	"An: Dr. Foster"
 "MailDate3"	"Datum: 13.3.46"
