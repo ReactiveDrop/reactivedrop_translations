@@ -1,9 +1,9 @@
 GAME
 {
-	"Headline"	"IAF will Antheon-Mond zurückerobern"
-	"HeadlineDate"	"12/19/52"
-	"Paragraph1"	"General C. Morrison hat kürzlich bekannt gegeben, dass die IAF weitere 12.000 Truppen zur Verteidigung des Antheon-Systems gegen den anrückenden Schwarm entsendet.  Die zusätzlichen Truppen werden versuchen, die Kontrolle über die menschliche Kolonie auf dem fünften Mond von Antheon Prime zurückzugewinnen."
-	"Paragraph2"	"Senator Tom Wearing von der Interstellaren Allianz nannte den Schritt in seiner öffentlichen Ansprache heute Morgen einen 'schweren Fehler'."
-	"Paragraph3"	"'Ich glaube, wir verteilen unsere Kräfte zu sehr', sagte die Senatorin und fügte hinzu: 'Wir sollten alle unsere Truppen nach Antheon Prime zurückrufen.  Der 5. Mond ist bereits verloren.'"
-	"Paragraph4"	""
+"Headline"	"IAF will Antheon-Mond zurückerobern"
+"HeadlineDate"	"12/19/52"
+"Paragraph1"	"General C. Morrison hat kürzlich bekannt gegeben, dass die IAF weitere 12.000 Truppen zur Verteidigung des Antheon-Systems gegen den anrückenden Schwarm entsendet.  Die zusätzlichen Truppen werden versuchen, die Kontrolle über die menschliche Kolonie auf dem fünften Mond von Antheon Prime zurückzugewinnen."
+"Paragraph2"	"Senator Tom Wearing von der Interstellaren Allianz nannte den Schritt in seiner öffentlichen Ansprache heute Morgen einen 'schweren Fehler'."
+"Paragraph3"	"'Ich glaube, wir verteilen unsere Kräfte zu sehr', sagte die Senatorin und fügte hinzu: 'Wir sollten alle unsere Truppen nach Antheon Prime zurückrufen.  Der 5. Mond ist bereits verloren.'"
+"Paragraph4"	""
 }

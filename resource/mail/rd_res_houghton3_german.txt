@@ -5,7 +5,7 @@ GAME
 "MailDate1"	"Datum: 30.12.52"
 "MailSubject1"	"Betreff: Operation Ausrottung"
 "MailBody1A"	"Gute Arbeit, Alpha."
-"MailBody1B"	"RC7 scheint frei zu sein, aber wir empfangen Biomasse-Signale, die von den Jericho-Minen nördlich von deiner Position kommen.
+"MailBody1B"	"RC7 scheint frei zu sein, aber wir empfangen Biomasse-Signale, die von den Jericho-Minen nördlich von deiner Position kommen."
 "MailBody1C"	"Östlich des Bereinigungscomputers sollte es eine Wartungsluke geben. Geh dort raus und durch den Wald."
 "MailBody1D"	"Sieht so aus, als ob die Hauptbedrohung weg ist, aber wir müssen sicherstellen, dass alle Feinde getötet werden. Houghton Ende."
-} 
+}

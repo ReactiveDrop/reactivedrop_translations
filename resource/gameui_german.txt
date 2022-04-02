@@ -342,9 +342,9 @@
 "GameUI_CrosshairScale"	"Größe"
 "GameUI_FastSwitchCheck"	"Waffe schnell wechseln"
 "GameUI_DeveloperConsoleCheck"	"Entwicklerkonsole aktivierbar"
-// asw - infested_dll changed
+//asw - infested_dll changed
 "GameUI_KeyboardAdvanced_Title"	"TASTATUR - ERWEITERT"
-// asw - infested_dll extra
+//asw - infested_dll extra
 "GameUI_GroundGrenadesCheck"	"Zielen Sie mit Granaten auf den Boden"
 "GameUI_AutoReloadCheck"	"Automatisch nachladen wenn leer"
 "GameUI_MinimapClicksCheck"	"Minimap-Zeichnung erlauben"

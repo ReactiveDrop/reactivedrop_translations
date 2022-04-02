@@ -27,4 +27,4 @@ GAME
 "MailBody3B"	"Ich habe mehrere Exemplare von Vereon XII erhalten, frag nicht, wie. Eines der Exemplare scheint während des Transports gestorben zu sein."
 "MailBody3C"	"Ich kann den Verbrennungsofen hier nicht benutzen, ohne dass die höheren Stellen davon erfahren, also schicke ich es in eure Minen, um es in einer der Lavagruben zu entsorgen."
 "MailBody3D"	"Hullen."
-} 
+}

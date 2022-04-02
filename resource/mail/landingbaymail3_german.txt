@@ -4,7 +4,7 @@ GAME
 
 // inbox
 
-"MailFrom1"	"Von: Laura Callen
+"MailFrom1"	"Von: Laura Callen"
 "MailDate1"	"Datum: 18.12.52"
 "MailSubject1"	"Betreff: Außenposten 17"
 "MailBody1A"	"Leutnant Cain, wir haben soeben von B. Campbell erfahren, dass die Frachtlieferung 4903877 organisches Material unbekannter Herkunft enthält, das gefroren und in Containern gelagert ist.  Das Ziel des Frachters ist die SynTek-Forschungsstation 7/Erde."
@@ -12,7 +12,7 @@ GAME
 "MailBody1C"	"Campbell meldet auch das Verschwinden mehrerer Arbeiter.  Die Sicherheit der Kolonie liegt in deiner Verantwortung.  Ich erwarte, dass du genug Personal schickst, um das Gebiet zu sichern."
 "MailBody1D"	"L. Callen"
 
-"MailFrom2"	"Von: Alena
+"MailFrom2"	"Von: Alena"
 "MailSubject2"	"Betreff: Re: Hi"
 "MailDate2"	"Datum: 15.11.52"
 "MailBody2A"	"Einstellen."
@@ -22,7 +22,7 @@ GAME
 
 // sent mail
 
-"MailFrom3"	"An: Laura Callen
+"MailFrom3"	"An: Laura Callen"
 "MailDate3"	"Datum: 21.12.52"
 "MailSubject3"	"Betreff: Außenposten 17"
 "MailBody3A"	"Frau Callen","

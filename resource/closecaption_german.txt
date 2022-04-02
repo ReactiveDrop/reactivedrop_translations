@@ -1,11 +1,10 @@
-﻿
- "lang"
- {
- "Language" "german"
- "Tokens" 
- { 
- "testcommands"	"<clr:255,0,0>Das ist rot<I> und kursiv<B> und<cr>fett<B><I><clr:255,255,255> und wieder weiß."
- //Commander Audio
+﻿"lang"
+{
+"Language"	"german"
+"Tokens"
+{
+"testcommands"	"<clr:255,0,0>Das ist rot<I> und kursiv<B> und<cr>fett<B><I><clr:255,255,255> und wieder weiß."
+//Commander Audio
 -"Command.co_m1_ob1"	"<clr:240,255,255>Commander: Okay, Truppe.  Wir müssen die Ladelisten überprüfen, um zu sehen, ob es Überlebende von diesem Felsen geschafft haben.  Macht euch auf den Weg zur Landebucht und sucht ein Terminal, von dem wir die Transportdaten herunterladen können.  Ich melde mich dort bei dir."
 -"Command.co_m1_ob2"	"<clr:240,255,255>Commander: Nun, diese Manifeste sind nutzlos.  Ich schätze, die Aufzeichnungen standen nicht gerade ganz oben auf der Prioritätenliste, als der Schwarm zuschlug.  Wir sind jetzt Such- und Rettungskräfte, bis wir anderweitig informiert werden, also haltet die Augen nach Überlebenden offen.  Begebt euch zum hinteren Ausgang, dann werden wir uns neu formieren."
 -"Command.co_m1_ob3"	"<clr:240,255,255>Commander: Also gut, weiter geht's!  Die Hauptkolonie liegt direkt vor uns!"
@@ -22,9 +21,9 @@
 -"Command.co_m2_ob6"	"<clr:240,255,255>Commander: Gut gemacht.  Jetzt geh rüber."
 -"Command.co_m2_ob7"	"<clr:240,255,255>Commander: Okay, ich bringe Bloodhound im Tiefflug und schwebe.  Du kletterst über ihren Rücken, während sie wartet.  Mach jetzt einen leichten Schritt.  Sie muss dich am Ende nach Hause bringen."
 -"Command.co_m2_ob8"	"<clr:240,255,255>Commander: Der Collony-Reaktor liegt direkt vor uns."
--"Command.co_m3_ob1"	"<clr:240,255,255>Commander: Okay Squad, das Kommando will, dass die Computer wieder laufen.  Der Reaktor der Kolonie wurde durch den Angriff des Schwarms außer Betrieb gesetzt, also musst du einen Weg zum Reaktorkern finden und den Strom dort wieder einschalten.
--"Command.co_m3_ob2"	"<clr:240,255,255>Commander: Gut gemacht, Team!  Der Strom ist eingeschaltet.  Die Zentrale greift gerade auf die Computersysteme der Kolonie zu.  Bleibt in Bewegung, und wir werden uns da vorne neu gruppieren.
--"Command.co_m3_ob3"	"<clr:240,255,255>Commander: Okay, Squad.  Die Nachricht kam gerade von ganz oben.  Ich will ganz ehrlich sein: Es ist alles schlecht.  Dem Kommando hat nicht gefallen, was das Computersystem der Kolonie zu sagen hatte.  Es sieht so aus, als ob die Kolonisten tot sind.  Das bedeutet, dass die Verseuchung außer Kontrolle geraten ist und sie beschlossen haben, den Schwarm mit den Wundern des Atomzeitalters vertraut zu machen.  Sie haben die Detonationscodes in die nukleare Ausgrabungsvorrichtung der Mine geladen - im Grunde ein nuklearer Sprengkopf - und sie brauchen dich, um ihn in das Herz des Schwarmnests zu bringen.  Geh in Richtung Wohngebiet, und ich werde dir einen Weg zur Bombe zeigen.
+-"Command.co_m3_ob1"	"<clr:240,255,255>Commander: Okay Squad, das Kommando will, dass die Computer wieder laufen.  Der Reaktor der Kolonie wurde durch den Angriff des Schwarms außer Betrieb gesetzt, also musst du einen Weg zum Reaktorkern finden und den Strom dort wieder einschalten."
+-"Command.co_m3_ob2"	"<clr:240,255,255>Commander: Gut gemacht, Team!  Der Strom ist eingeschaltet.  Die Zentrale greift gerade auf die Computersysteme der Kolonie zu.  Bleibt in Bewegung, und wir werden uns da vorne neu gruppieren."
+-"Command.co_m3_ob3"	"<clr:240,255,255>Commander: Okay, Squad.  Die Nachricht kam gerade von ganz oben.  Ich will ganz ehrlich sein: Es ist alles schlecht.  Dem Kommando hat nicht gefallen, was das Computersystem der Kolonie zu sagen hatte.  Es sieht so aus, als ob die Kolonisten tot sind.  Das bedeutet, dass die Verseuchung außer Kontrolle geraten ist und sie beschlossen haben, den Schwarm mit den Wundern des Atomzeitalters vertraut zu machen.  Sie haben die Detonationscodes in die nukleare Ausgrabungsvorrichtung der Mine geladen - im Grunde ein nuklearer Sprengkopf - und sie brauchen dich, um ihn in das Herz des Schwarmnests zu bringen.  Geh in Richtung Wohngebiet, und ich werde dir einen Weg zur Bombe zeigen."
 -"Command.co_m4_ob1"	"<clr:240,255,255>Commander: Also gut, die Sensoren zeigen eine massive Anhäufung von Eiern und Biomasse in diesem Sektor an.  Macht euch ein bisschen Platz zum Arbeiten.  Räumt die Verseuchung aus.  Verbrennt sie, wenn es sein muss, aber seid vorsichtig: Die Zerstörung von Biomasse ruft den Schwarm auf den Plan."
 -"Command.co_m4_ob2"	"<clr:240,255,255>Commander: Sieht nach noch mehr Biomasse aus; finde eine Lösung für dieses Problem.     "
 -"Command.co_m4_ob3"	"<clr:240,255,255>Commander: Gut, das letzte Stück hast du schon fast weggeräumt.  Geh weiter vorwärts."
@@ -72,10 +71,10 @@
 -"Command.co_debriefing_ob4"	"<clr:240,255,255>Commander: Alle müssen in dem Aufzug sein, bevor er aktiviert wird."
 -"Command.co_debriefing_ob5"	"<clr:240,255,255>Commander: Gute Arbeit bei der Zerstörung der Pipeline, Squad.  Das sollte die Bewegung des Schwarms innerhalb der Kolonie behindern."
 -"Command.co_debriefing_ob6"	"<clr:240,255,255>Commander: Wir zeigen, dass der Reaktor wieder hochgefahren ist und mit voller Leistung läuft. Gute Arbeit!"
--"Command.co_debriefing_ob7"	"<clr:240,255,255>Commander: Die von dir sichergestellten Daten zeigen, dass einige Mitarbeiter von SynTek Security versucht haben, den Befall zu bekämpfen.  Wir können zum jetzigen Zeitpunkt davon ausgehen, dass sie erfolglos waren.
+-"Command.co_debriefing_ob7"	"<clr:240,255,255>Commander: Die von dir sichergestellten Daten zeigen, dass einige Mitarbeiter von SynTek Security versucht haben, den Befall zu bekämpfen.  Wir können zum jetzigen Zeitpunkt davon ausgehen, dass sie erfolglos waren."
 -"Command.co_debriefing_ob8"	"<clr:240,255,255>Commander: Da der Zugangstunnel zur Kanalisation versiegelt ist, gibt es für den Schwarm nur einen Weg an die Oberfläche."
 -"Command.co_debriefing_ob9"	"<clr:240,255,255>Commander: Ausgezeichnete Arbeit, Commander.  Der thermonukleare Sprengsatz, den dein Trupp gezündet hat, hat den Großteil der Schwarmkräfte unter der Oberfläche vernichtet.  Wir schätzen, dass mehr als 200 Eier und zahllose Schwarmdrohnen durch die Detonation ausgelöscht worden sind."
--"Command.co_debriefing_ob10"	"<clr:240,255,255>Commander: Wir entdecken immer noch eine einzelne große Wärmequelle in einer tiefen, gut geschützten Kammer.  Das IAF-Kommando macht die Untersuchung dieser Quelle zu einer Priorität.
+-"Command.co_debriefing_ob10"	"<clr:240,255,255>Commander: Wir entdecken immer noch eine einzelne große Wärmequelle in einer tiefen, gut geschützten Kammer.  Das IAF-Kommando macht die Untersuchung dieser Quelle zu einer Priorität."
 //Bastille
 "bastille.SynUpReply0"	"<clr:205,127,50>Bastille: Du willst das Zeug nicht trinken, glaub mir."
 "bastille.CrashComplainReply0"	"<clr:205,127,50>Bastille: Vielleicht solltest du einen Nervenzusammenbruch melden."
@@ -794,14 +793,14 @@
 "jaeger.Idle1"	"<clr:198,226,255>Jaeger: Ich hoffe, es gibt keine Parasiten, die hasse ich am meisten."
 "jaeger.Idle2"	"<clr:198,226,255>Jaeger: All diese Kämpfe machen einen Marine hungrig."
 "jaeger.Idle3"	"<clr:198,226,255>Jaeger: Ich liebe diese Waffe."
-"jaeger.Idle4"	"<clr:198,226,255>Jaeger: Ich frage mich, wann das Kommando uns neue Spielzeuge gibt, mit denen wir spielen können.
+"jaeger.Idle4"	"<clr:198,226,255>Jaeger: Ich frage mich, wann das Kommando uns neue Spielzeuge gibt, mit denen wir spielen können."
 "jaeger.Idle5"	"<clr:198,226,255>Jaeger: Ich habe ein schlechtes Gefühl bei diesem Ort."
 "jaeger.Idle6"	"<clr:198,226,255>Jaeger: Mein Gott, ich brauche Urlaub."
 "jaeger.Idle7"	"<clr:198,226,255>Jaeger: Ein ganz normaler Tag im Korps."
 "jaeger.Idle8"	"<clr:198,226,255>Jaeger: Hast du das gehört?"
 "jaeger.Idle9"	"<clr:198,226,255>Jaeger: Bleibt wachsam, Leute, diese Typen machen keine Gefangenen."
 "jaeger.Idle10"	"<clr:198,226,255>Jaeger: Es gibt kein Insektenproblem, das nicht mit einer großen Kiste Sprengstoff behoben werden kann."
-"jaeger.Idle11"	"<clr:198,226,255>Jaeger: Ich frage mich, wann das Kommando uns neue Spielzeuge gibt, mit denen wir spielen können.
+"jaeger.Idle11"	"<clr:198,226,255>Jaeger: Ich frage mich, wann das Kommando uns neue Spielzeuge gibt, mit denen wir spielen können."
 "jaeger.Idle12"	"<clr:198,226,255>Jaeger: Heute ist kein guter Tag, um keine Zigaretten mehr zu haben."
 "jaeger.Idle13"	"<clr:198,226,255>Jaeger: Warum können wir nicht die ganze verdammte Kolonie in Brand setzen?"
 "jaeger.Idle14"	"<clr:198,226,255>Jaeger: Es fühlt sich an, als hätte ich seit Tagen nicht mehr geschlafen."
@@ -988,7 +987,7 @@
 "sarge.Idle10"	"<clr:238,207,161>Sarge: So weit, so gut."
 "sarge.Idle11"	"<clr:238,207,161>Sarge: Danach gehe ich in den Ruhestand."
 "sarge.Idle12"	"<clr:238,207,161>Sarge: Das sind die Interstellaren Streitkräfte und kein verdammtes Picknick."
-"sarge.Idle13"	"<clr:238,207,161>Sarge: Nun, es ist Zeit, sich die Gehaltsschecks zu verdienen.
+"sarge.Idle13"	"<clr:238,207,161>Sarge: Nun, es ist Zeit, sich die Gehaltsschecks zu verdienen."
 "sarge.Idle14"	"<clr:238,207,161>Sarge: Überprüfe deine Ecken."
 "sarge.Idle15"	"<clr:238,207,161>Sarge: Sichert die Umgebung."
 "sarge.Idle16"	"<clr:238,207,161>Sarge: Wenn wir nach Kader vorgehen, haben wir einen Job zu erledigen."
@@ -1249,7 +1248,7 @@
 "vegas.Ammo0"	"<clr:84,255,159>Vegas: Munition!"
 "vegas.Medkit0"	"<clr:84,255,159>Vegas: Medkit!"
 "vegas.Thanks0"	"<clr:84,255,159>Vegas: Danke!"
-"vegas.Thanks1"	"<clr:84,255,159>Vegas: Vielen Dank!
+"vegas.Thanks1"	"<clr:84,255,159>Vegas: Vielen Dank!"
 "vegas.Thanks2"	"<clr:84,255,159>Vegas: Danke!"
 "vegas.Question0"	"<clr:84,255,159>Vegas: Hm?"
 "vegas.Question1"	"<clr:84,255,159>Vegas: Que?"
@@ -1318,7 +1317,7 @@
 "vegas.Biomass5"	"<clr:84,255,159>Vegas: Schwarm-Biomasse!  Hat jemand einen Flamer?"
 "vegas.Biomass6"	"<clr:84,255,159>Vegas: Urgh!  Mehr Glibber!  Lass es uns anzünden!"
 "vegas.Biomass7"	"<clr:84,255,159>Vegas: Urgh! Schwarm-Biomasse.  Wo ist der Flamer?"
-"vegas.TimeToLeave0"	"<clr:84,255,159>Vegas: Ziel erfüllt.  Lass uns an die Spielautomaten gehen.
+"vegas.TimeToLeave0"	"<clr:84,255,159>Vegas: Ziel erfüllt.  Lass uns an die Spielautomaten gehen."
 "vegas.TimeToLeave1"	"<clr:84,255,159>Vegas: Toll!  Tequila, ich komme!"
 "vegas.WatchOut0"	"<clr:84,255,159>Vegas: Pass auf!"
 "vegas.WatchOut1"	"<clr:84,255,159>Vegas: Da!"
@@ -1591,7 +1590,7 @@
 "wolfe.WolfeBestReply5"	"<clr:154,205,50>Wolfe: Oh ja, los geht's!"
 "wolfe.WolfeBestReply6"	"<clr:154,205,50>Wolfe: Klingt nach einer Herausforderung."
 "wolfe.WolfeBestReply7"	"<clr:154,205,50>Wolfe: Das klingt nach einer Herausforderung."
-"wolfe.WolfeBestReply8"	"<clr:154,205,50>Wolfe: Nun, das klingt nach einer Herausforderung.
+"wolfe.WolfeBestReply8"	"<clr:154,205,50>Wolfe: Nun, das klingt nach einer Herausforderung."
 "wolfe.MedicComplainReply0"	"<clr:154,205,50>Wolfe: Ist das eine Fangfrage?"
 "wolfe.MedicComplainReply1"	"<clr:154,205,50>Wolfe: Das ist eine Fangfrage."
 "wolfe.TequilaReply0"	"<clr:154,205,50>Wolfe: Hmmm, und Whiskey für mich."
@@ -1641,7 +1640,7 @@
 "wolfe.WildcatKillReplyAhead0"	"<clr:154,205,50>Wolfe: Der war gut.  Aber ich habe schon mehr getötet."
 "wolfe.WildcatKillReplyAhead1"	"<clr:154,205,50>Wolfe: Du hast noch eine Weile Zeit, um mich einzuholen, Mädchen."
 "wolfe.WildcatKillReplyBehind0"	"<clr:154,205,50>Wolfe: Ah, du liegst vorn.  Für den Moment."
-"wolfe.WildcatKillReplyBehind1"	"<clr:154,205,50>Wolfe: Wir wärmen uns nur auf. Hol dir lieber alle Kills, die du kriegen kannst.
+"wolfe.WildcatKillReplyBehind1"	"<clr:154,205,50>Wolfe: Wir wärmen uns nur auf. Hol dir lieber alle Kills, die du kriegen kannst."
 "wolfe.WildcatKillReplyBehind2"	"<clr:154,205,50>Wolfe: Der da hinten, der hat nicht gezählt."
 "wolfe.WolfeKillStart0"	"<clr:154,205,50>Wolfe: Sieh zu und lerne."
 "wolfe.WolfeKillStart1"	"<clr:154,205,50>Wolfe: Noch einer weniger.  Ich bin unaufhaltsam."
@@ -1936,7 +1935,7 @@
 "Richard.02_01"	"<clr:191,195,167><B>Cmdr. Richard:<B> Wir wissen, dass diese Anlage eine Art Schienensystem verwendet, um das Personal in der Anlage zu bewegen. Hoffentlich kannst du noch eine der Plattformen benutzen, aber sei vorsichtig, du befindest dich immer noch in unbekanntem Gebiet."
 "Richard.02_02"	"<clr:191,195,167><B>Cmdr. Richard:<B> Das ist eine Absage. Das haben wir doch schon besprochen, Professor."
 "Richard.02_02_1"	"<clr:191,195,167><B>Cmdr. Richard:<B> Wenn Sie meine Männer nicht über das Töten von Wanzen informieren, Ms. Duval, wäre ich Ihnen dankbar, wenn Sie Funkstille halten würden. Sie sollten die Mission genauso gut kennen wie ich und wissen, dass es nicht darum geht, die Überlebenschancen meines Trupps zugunsten eines Ablenkungsmanövers zu gefährden."
-"Richard.02_03"	"<clr:191,195,167><B>Cmdr. Richard:<B> Leg den Schalter um, es kann nicht schaden, es zu versuchen.
+"Richard.02_03"	"<clr:191,195,167><B>Cmdr. Richard:<B> Leg den Schalter um, es kann nicht schaden, es zu versuchen."
 "Richard.02_04"	"<clr:191,195,167><B>Cmdr. Richard:<B> Du scheinst unsere Absicht hier missverstanden zu haben, Frau Duval. So beispiellos das für dich auch sein mag, alles, was ich da unten zu sehen bereit bin, ist das Ergebnis eines kranken Spiels, ein experimenteller Spielplatz für verrückte Männer, die nicht über ihr eigenes Vergnügen hinausblicken konnten. Es ist eine echte Sauerei, und wir sind die Aufräummannschaft. Praktischer ausgedrückt: Laut Protokoll haben wir jetzt ein Ziel zu suchen und zu zerstören. Wenn du also immer noch verwirrt bist, dann ist diese Wortwahl wohl eindeutig genug?"
 "Richard.02_04_1"	"<clr:191,195,167><B>Cmdr. Richard:<B> Gut. Jetzt lass uns einen Weg finden, um den Boden dieses Ortes zu erreichen und ihn in die Luft zu jagen."
 "Richard.02_05"	"<clr:191,195,167><B>Cmdr. Richard:<B> Was um Himmels willen..."

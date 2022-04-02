@@ -21,4 +21,4 @@ GAME
 "MailBody3B"	"Der Schwarm sollte nicht in der Lage sein, diese Tür zu durchbrechen, da sie aus stark verstärktem Metall besteht. Sie können nicht an die Generatoren herankommen, es sei denn, sie finden einen anderen Weg hinein."
 "MailBody3C"	"Ja, ich habe gerne gesehen, wie..."
 "MailBody3D"	"-Reactor Chefingenieur"
-} 
+}

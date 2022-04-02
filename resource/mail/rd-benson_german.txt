@@ -16,7 +16,7 @@ GAME
 "MailDate3"	"Datum: 23/10/53"
 "MailSubject3"	"Betreff: Kettensägen?!"
 "MailBody3A"	"Versand und Lagerung,"
-"MailBody3B"	"Ich habe medizinische Hilfsmittel für den Außenposten bestellt, aber als die wöchentliche Lieferung kam, war ich überrascht, dass du uns stattdessen eine Kettensäge geschickt hast?! Könntest du dafür sorgen, dass wir die Medikamente mit der nächsten Lieferung bekommen? In der Zwischenzeit werde ich jemanden beauftragen, die Kettensäge zurückzuschicken.
+"MailBody3B"	"Ich habe medizinische Hilfsmittel für den Außenposten bestellt, aber als die wöchentliche Lieferung kam, war ich überrascht, dass du uns stattdessen eine Kettensäge geschickt hast?! Könntest du dafür sorgen, dass wir die Medikamente mit der nächsten Lieferung bekommen? In der Zwischenzeit werde ich jemanden beauftragen, die Kettensäge zurückzuschicken."
 "MailBody3C"	"Warum haben wir überhaupt Kettensägen???"
 "MailBody3D"	"- George Benson, Comms officer"
 }
