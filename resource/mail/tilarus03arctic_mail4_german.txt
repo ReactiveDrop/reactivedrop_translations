@@ -29,4 +29,4 @@ GAME
 "MailBody4B"	"Wir haben wieder einige Anomalien auf dem Radarscanner festgestellt."
 "MailBody4C"	"Diesmal waren sie länger wach und es gab mehrere Ziele statt nur eines wie vor zwei Tagen."
 "MailBody4D"	"Und wieder sind sie wie beim letzten Mal plötzlich verschwunden. Ich habe eine Patrouille geschickt, um das zu überprüfen, nur um sicherzugehen."
-} 
+}

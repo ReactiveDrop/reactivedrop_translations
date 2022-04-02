@@ -3,14 +3,14 @@ GAME
 // PDA belongs to Brian Howe
 
 // inbox
-"MailFrom1"	"Von: Laura Callen
+"MailFrom1"	"Von: Laura Callen"
 "MailDate1"	"Datum: 21.12.52"
 "MailSubject1"	"Thema: Informationsfluss"
 "MailBody1A"	"Mr. Howe","
 "MailBody1B"	"Warum hast du mich nicht über die Eier informiert, die du und dein Team letzte Woche in der Mine gefunden habt?  Wenn du keine stichhaltige Begründung für dieses Versäumnis liefern kannst, muss ich einen Bericht einreichen."
 "MailBody1C"	"L. Callen"
 
-"MailFrom2"	"Von: Laura Callen
+"MailFrom2"	"Von: Laura Callen"
 "MailDate2"	"Datum: 21.12.52"
 "MailSubject2"	"Betreff: Re: Re: Informationsfluss"
 "MailBody2A"	"Mr. Howe","
@@ -20,7 +20,7 @@ GAME
 
 // sent mail
 
-"MailFrom3"	"An: Laura Callen
+"MailFrom3"	"An: Laura Callen"
 "MailDate3"	"Datum: 21.12.52"
 "MailSubject3"	"Betreff: Re: Informationsfluss"
 "MailBody3A"	"Liebe Frau Callen,"

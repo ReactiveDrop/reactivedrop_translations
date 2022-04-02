@@ -23,7 +23,7 @@ GAME
 
 "MailFrom3"	"An: Phil Ryan"
 "MailDate3"	"Datum: 20.12.52"
-"MailSubject3"	"Betreff: Re: Spam!
+"MailSubject3"	"Betreff: Re: Spam!"
 "MailBody3A"	"Lieber Herr,"
 "MailBody3B"	"Vielen Dank für deine Mail und dein Interesse an unserem Unternehmen.  Wir haben Ihre Anfrage sorgfältig geprüft, und sobald einer unserer Agenten verfügbar ist, wird er mit der Angelegenheit betraut.  Bitte antworte nicht auf diese E-Mail.  Wir werden uns so schnell wie möglich mit dir in Verbindung setzen."
 "MailBody3C"	"SynTek Management/Sys. Admin."

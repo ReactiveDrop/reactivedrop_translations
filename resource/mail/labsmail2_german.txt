@@ -14,7 +14,7 @@ GAME
 
 // sent mail
 
-"MailFrom3"	"An: John Cain
+"MailFrom3"	"An: John Cain"
 "MailDate3"	"Datum: 23.12.52"
 "MailSubject3"	"Subject: Re:Re: Laborfreigabe für Helen Young"
 "MailBody3A"	"Leutnant Kain."

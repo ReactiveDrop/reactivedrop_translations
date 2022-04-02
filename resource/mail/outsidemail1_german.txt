@@ -15,7 +15,7 @@ GAME
 // sent mail
 
 "MailFrom3"	"An: Shaun Ming"
-"MailDate3" "Date: 12/21/52"
+"MailDate3"	"Date: 12/21/52"
 "MailSubject3"	"Betreff: Re: Durchbruch"
 "MailBody3A"	"Herr Ming,"
 "MailBody3B"	"1) So gut wie erledigt."

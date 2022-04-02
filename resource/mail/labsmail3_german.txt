@@ -4,7 +4,7 @@ GAME
 
 // inbox
 
-"MailFrom1"	"Von: Laura Callen
+"MailFrom1"	"Von: Laura Callen"
 "MailDate1"	"Datum: 23.12.52"
 "MailSubject1"	"Betreff: E-Mail-Übertragung"
 "MailBody1A"	"Mr. Rivera","

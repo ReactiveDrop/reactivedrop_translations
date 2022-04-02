@@ -1,8 +1,8 @@
 GAME
 {
-	"Headline"	"Pirate Bay will Sealand kaufen?"
-	"HeadlineDate"	"12/01/07"
-	"Paragraph1"	"Die berüchtigte schwedische Tauschbörsen-Website The Pirate Bay plant, ihre eigene Nation zu kaufen, um die lästigen internationalen Urheberrechtsgesetze zu umgehen. Die Organisation, der größte Bit-Torrent-Tracker der Welt, hat Sealand ins Visier genommen, eine ehemalige britische Marineplattform in der Nordsee, die als "Mikronation" bezeichnet wird und behauptet, außerhalb der britischen Gerichtsbarkeit zu liegen. Mit einem angestrebten Preis von 500 Millionen Pfund wird es nicht billig sein, aber Pirate Bay sagt, dass Beitragszahler zu Ehrenbürgern werden.""
-	"Paragraph2"	"今年のLinux界隈であるが、カーネルで大きな動きがあったわけでもないので、とりあえず印象に残っている ニュースを列挙すると、"
-	"Paragraph3"	"検察の広報キャラクター"
+"Headline"	"Pirate Bay will Sealand kaufen?"
+"HeadlineDate"	"12/01/07"
+"Paragraph1"	"Die berüchtigte schwedische Tauschbörsen-Website The Pirate Bay plant, ihre eigene Nation zu kaufen, um die lästigen internationalen Urheberrechtsgesetze zu umgehen. Die Organisation, der größte Bit-Torrent-Tracker der Welt, hat Sealand ins Visier genommen, eine ehemalige britische Marineplattform in der Nordsee, die als "Mikronation" bezeichnet wird und behauptet, außerhalb der britischen Gerichtsbarkeit zu liegen. Mit einem angestrebten Preis von 500 Millionen Pfund wird es nicht billig sein, aber Pirate Bay sagt, dass Beitragszahler zu Ehrenbürgern werden.""
+"Paragraph2"	"今年のLinux界隈であるが、カーネルで大きな動きがあったわけでもないので、とりあえず印象に残っている ニュースを列挙すると、"
+"Paragraph3"	"検察の広報キャラクター"
 }
