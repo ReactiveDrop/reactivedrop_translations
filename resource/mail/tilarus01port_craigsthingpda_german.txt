@@ -2,7 +2,6 @@ GAME
 {
 // PDA belongs to Windows
 // inbox
-
 "MailFrom1"	"Von: Childs"
 "MailDate1"	"Datum: 2/2/54"
 "MailSubject1"	"Betreff: Re: Die Zwinger"
@@ -10,7 +9,6 @@ GAME
 "MailBody1B"	"Als Bennings auf mich zugelaufen ist, dachte ich, dass er und Mac "
 "MailBody1C"	"verrückt geworden war. Vielleicht hat Mac das schon?"
 "MailBody1D"	"Und wer hätte gedacht, dass der Flammenwerfer tatsächlich nützlich sein würde?"
-
 "MailFrom2"	"Von: Childs"
 "MailDate2"	"Datum: 2/2/54"
 "MailSubject2"	"Subject: Re:Re: Die Zwinger"
@@ -18,7 +16,6 @@ GAME
 "MailBody2B"	"Unbeständige und geradezu gefährliche Waffe in den Händen einer Gruppe von Forschern mit wenig bis gar keinem Kontakt zur Außenwelt"
 "MailBody2C"	"Monatelang?"
 "MailBody2D"	"Ich meine, es reicht, wenn einer von uns ein bisschen durchdreht, und schon sind wir alle erledigt."
-
 // sent mail
 "MailFrom3"	"An: Fenster"
 "MailDate3"	"Datum: 2/2/54"

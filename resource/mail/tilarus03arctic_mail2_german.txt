@@ -1,9 +1,7 @@
 GAME
 {
 // PDA belongs to Walter Jackson
-
 // inbox
-
 "MailFrom1"	"Von: SynTek Security"
 "MailDate1"	"Datum: 10/7/52"
 "MailSubject1"	"Betreff: WICHTIG: WIR WERDEN ANGEGRIFFEN"
@@ -11,9 +9,7 @@ GAME
 "MailBody1B"	"Wir werden gerade angegriffen. Der Schwarm hat bereits den Eingang durchbrochen und ist vorgedrungen."
 "MailBody1C"	"Das gesamte Personal sollte sich an das Protokoll für die Evakuierung der Einrichtung halten, und zwar sofort."
 "MailBody1D"	"Bleib sicher.   -SynTek Security"
-
 // sent mail
-
 "MailFrom3"	"An: Section Chief Jackson"
 "MailDate3"	"Datum: 10/7/52"
 "MailSubject3"	"Thema: Stromgeneratoren"

@@ -1,7 +1,6 @@
 GAME
 {
 // PDA belongs to GeoTerraCorp
-
 "MailFrom1"	"From: GeoTerra Rep, mandy"
 "MailDate1"	"Date: 02/2/54"
 "MailSubject1"	"Subject: Recent Earthquake"

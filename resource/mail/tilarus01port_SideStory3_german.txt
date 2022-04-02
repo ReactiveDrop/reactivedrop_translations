@@ -1,7 +1,6 @@
 GAME
 {
 // PDA belongs to Overseer Ross
-
 "MailFrom1"	"From: Kyle"
 "MailDate1"	"Datum: 2.2.54"
 "MailSubject1"	"Betreff: Bericht 709b"

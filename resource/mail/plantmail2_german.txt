@@ -1,7 +1,6 @@
 GAME
 {
 // PDA belongs to Brian Howe
-
 // inbox
 "MailFrom1"	"Von: Laura Callen"
 "MailDate1"	"Datum: 21.12.52"
@@ -9,7 +8,6 @@ GAME
 "MailBody1A"	"Mr. Howe","
 "MailBody1B"	"Warum hast du mich nicht über die Eier informiert, die du und dein Team letzte Woche in der Mine gefunden habt?  Wenn du keine stichhaltige Begründung für dieses Versäumnis liefern kannst, muss ich einen Bericht einreichen."
 "MailBody1C"	"L. Callen"
-
 "MailFrom2"	"Von: Laura Callen"
 "MailDate2"	"Datum: 21.12.52"
 "MailSubject2"	"Betreff: Re: Re: Informationsfluss"
@@ -17,9 +15,7 @@ GAME
 "MailBody2B"	"Ich habe in meinen Unterlagen nachgesehen, aber ich sehe dein Memo nicht.  Das ist beunruhigend.  Ich habe mit dem Systemadministrator gesprochen, in der Hoffnung, eine Erklärung zu finden."
 "MailBody2C"	"Ich nehme den nächsten Zug zum Bahnhof Timor.  Er kommt um 8:45 Uhr an.  Kannst du mich abholen?"
 "MailBody2D"	"L. Callen"
-
 // sent mail
-
 "MailFrom3"	"An: Laura Callen"
 "MailDate3"	"Datum: 21.12.52"
 "MailSubject3"	"Betreff: Re: Informationsfluss"
@@ -27,6 +23,4 @@ GAME
 "MailBody3B"	"Ich habe das Verfahren befolgt.  Ich habe dir vor 6 Tagen ein ausführliches Memo geschickt.  Ich habe dich auch über die Sicherheitsprobleme informiert, die wir in letzter Zeit in der Timor Station hatten.  Am Montag sind zwei Arbeiter verschwunden und heute gab es einen Todesfall."
 "MailBody3C"	"Meine Männer sind erschöpft von der Doppelschichtarbeit.  Die Hitze ist drückend und sie fangen an, vor Erschöpfung zu halluzinieren - sie berichten von unerklärlichen Geräuschen und so weiter.  Ich möchte, dass du mit SynTek sprichst und dafür sorgst, dass sich die Lage hier so schnell wie möglich verbessert."
 "MailBody3D"	"B. Howe"
-
-
 }

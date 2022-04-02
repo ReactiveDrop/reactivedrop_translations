@@ -1,7 +1,6 @@
 GAME
 {
 // PDA belongs to Dr. Tom Hinler.
-
 "MailFrom1"	"Von : Dr. Tom Hinler."
 "MailDate1"	"Datum: 26.05.2060."
 "MailSubject1"	"Thema : Thema 58."

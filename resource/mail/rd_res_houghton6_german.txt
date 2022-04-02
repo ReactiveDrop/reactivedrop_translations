@@ -1,6 +1,5 @@
 GAME
 {
-
 "MailFrom1"	"Von: Commander Houghton"
 "MailDate1"	"Datum: 30.12.52"
 "MailSubject1"	"Betreff: Operation Feuersturm"

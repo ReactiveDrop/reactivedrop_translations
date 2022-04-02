@@ -1,7 +1,6 @@
 GAME
 {
 // PDA belongs to David Foster
-
 // sent mail 
 "MailFrom3"	"An: Andrew Ward"
 "MailDate3"	"Datum: 16.3.46"
@@ -10,7 +9,6 @@ GAME
 "MailBody3B"	"Als Sicherheitschef des Krankenhauses ist es deine Aufgabe, so etwas einzudämmen."
 "MailBody3C"	"Wir haben die aggressiven Exemplare auf den untersten Ebenen der Anlage isoliert. Wir sind nicht sicher, wie lange wir sie noch dort unten halten können."
 "MailBody3D"	"Finde eine Lösung!"
-
 "MailFrom4"	"An: Andrew Ward"
 "MailDate4"	"Datum: 16.3.46"
 "MailSubject4"	"Betreff: Ich werde der Nächste sein"

@@ -1,9 +1,7 @@
 GAME
 {
 // PDA belongs to Lt. Cain
-
 // inbox 
-
 "MailFrom1"	"Von: Laura Callen"
 "MailDate1"	"Datum: 21.12.52"
 "MailSubject1"	"Thema: Kontamination im Labor"
@@ -12,8 +10,6 @@ GAME
 "MailBody1C"	"Ich bin es leid, jedes Mal nachzufragen, wenn etwas passiert.  Du solltest mich regelmäßig auf dem Laufenden halten."
 "MailBody1D"	"Ich bin gerade von der Timor Station zurückgekehrt.  Es gibt eine weitere Meldung über zwei vermisste Bergleute.  Klingt vage nach einem Sicherheitsproblem.  Warum habe ich dann niemanden von deinem Personal dort unten gesehen?"
 "MailBody1E"	"L. Callen"
-
-
 "MailFrom2"	"Von: Laura Callen"
 "MailDate2"	"Datum: 23.12.52"
 "MailSubject2"	"Betreff: Fwd: Kontamination im Labor"

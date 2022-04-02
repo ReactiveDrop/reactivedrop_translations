@@ -1,9 +1,7 @@
 GAME
 {
 // PDA belongs to Shaun Ming
-
 // inbox
-
 "MailFrom1"	"Von: John Cain"
 "MailDate1"	"Datum: 23.12.52"
 "MailSubject1"	"Betreff: Re: Laborfreigabe für Helen Young"
@@ -11,9 +9,7 @@ GAME
 "MailBody1B"	"Zu allem Übel laufen die Dinge auch noch aus dem Ruder.  Ich bin gerade von der Timor Station zurückgekommen.  Es breitet sich aus.  Wie zum Teufel sind sie von Deck 2 in die Mine gekommen?"
 "MailBody1C"	"Und übrigens, was ist im Atrium los?"
 "MailBody1D"	"Lt. Cain, SynTek Security."
-
 // sent mail
-
 "MailFrom3"	"An: John Cain"
 "MailDate3"	"Datum: 23.12.52"
 "MailSubject3"	"Subject: Re:Re: Laborfreigabe für Helen Young"

@@ -1,9 +1,7 @@
 GAME
 {
 // PDA belongs to Lt. Cain
-
 // inbox
-
 "MailFrom1"	"Von: Laura Callen"
 "MailDate1"	"Datum: 18.12.52"
 "MailSubject1"	"Betreff: Außenposten 17"
@@ -11,7 +9,6 @@ GAME
 "MailBody1B"	"Ich möchte, dass du dein Personal noch einmal befragst und mir hilfst, herauszufinden, wer gegen die Beschränkung 77-C verstößt. (IA muss über den Transfer von unbekanntem organischem Material zur Erde informiert werden; 77-C/1.1.4)"
 "MailBody1C"	"Campbell meldet auch das Verschwinden mehrerer Arbeiter.  Die Sicherheit der Kolonie liegt in deiner Verantwortung.  Ich erwarte, dass du genug Personal schickst, um das Gebiet zu sichern."
 "MailBody1D"	"L. Callen"
-
 "MailFrom2"	"Von: Alena"
 "MailSubject2"	"Betreff: Re: Hi"
 "MailDate2"	"Datum: 15.11.52"
@@ -19,9 +16,7 @@ GAME
 "MailBody2B"	"Die Arbeit außerhalb der Kernsysteme kann eine einsame Erfahrung sein.  Starfire SubNet Dating könnte die Antwort auf deine Probleme sein!  Triff dich auf einen Chat oder vielleicht mehr?  Ruf an (+490387439)"
 "MailBody2C"	"Alena,"
 "MailBody2D"	"xxx"
-
 // sent mail
-
 "MailFrom3"	"An: Laura Callen"
 "MailDate3"	"Datum: 21.12.52"
 "MailSubject3"	"Betreff: Außenposten 17"
