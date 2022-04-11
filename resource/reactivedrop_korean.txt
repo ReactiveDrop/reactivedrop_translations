@@ -5129,9 +5129,9 @@
 "[english]rd_revive_marine" "Hold to Revive Marine"
 "rd_afk_not_allowed" "이 서버 또는 게임 모드에서 휴식을 취할 수 없습니다"
 "[english]rd_afk_not_allowed" "This server or game mode doesn't allow taking a break"
-		"asw_iafranks" "IAF RANKS"
-		"[english]asw_iafranks" "IAF RANKS"
-		"asw_iaf_heroes_title" "Heroes of the Interstellar Armed Forces"
-		"[english]asw_iaf_heroes_title" "Heroes of the Interstellar Armed Forces"
+"asw_iafranks" "IAF 랭크"
+"[english]asw_iafranks" "IAF RANKS"
+"asw_iaf_heroes_title" "성간 군사 동맹의 영웅들"
+"[english]asw_iaf_heroes_title" "Heroes of the Interstellar Armed Forces"
 }
 }
