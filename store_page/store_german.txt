@@ -13,5 +13,5 @@ Alien Swarm: Reactive Drop ist eine alleinstehende Erweiterung von Alien Swarm, 
 [*]Neue Waffen: Schweres Sturmgwehr, Desert Eagle, Sanitäter SMG, Kampfgewehr und Devastator
 [*]Über 100 Steam-Errungenschaften
 [*]Ranglisten: Wetteifere mit deinen Freunden um den schnellsten Einsatzabschluss
-[*]Verbessertes Zuschauen: sie Hacker-Minispiele und Mausbewegungen in Echtzeit
+[*]Verbessertes Zuschauen: sichtbare Hack-Minispiele und Mausbewegungen in Echtzeit
 [/list]
