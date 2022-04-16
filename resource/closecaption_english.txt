@@ -4745,54 +4745,54 @@
 
 //NAM HUMANUM
 
-"Duval.01_02"	"<clr:179,203,207><B>Prof. Duval:<B> Charlie, Julie Duval here. Thermals from your shuttle’s radar are tracking multiple signals in and out the installation’s roofs and ducts. Though these readouts are oddly... human, for lack of details."
+"Duval.01_02"	"<clr:179,203,207><B>Prof. Duval:<B> Charlie, Julie Duval here. Thermals from your shuttle’s radar are tracking multiple signals in and out the installation’s roofs and ducts. Though these readouts are oddly...human, for lack of details."
 
-"Duval.01_03"	"<clr:179,203,207><B>Prof. Duval:<B> Their morphologies are just... not right. This specimen…"
+"Duval.01_03"	"<clr:179,203,207><B>Prof. Duval:<B> Their morphologies are just...not right. This specimen…"
 
 "Duval.01_03_01"	"<clr:179,203,207><B>Prof. Duval:<B> Understood."
 
 "Duval.01_04"	"<clr:179,203,207><B>Prof. Duval:<B> Charlie, it appears the warehouse’s booth control is out of power. You’ll have to get it back on before progressing any further inside the installation. Keep an eye out for what should be a maintenance panel in the vicinity."
 
-"Duval.01_05"	"<clr:179,203,207><B>Prof. Duval:<B> Power’s back on. Good job…"
+"Duval.01_05"	"<clr:179,203,207><B>Prof. Duval:<B> Power’s back on. Good job..."
 
 "Duval.01_06"	"<clr:179,203,207><B>Prof. Duval:<B> Charlie, we’re picking up a lot of activities converging on your position, you’ll have to hold them until the opening sequence is through!"
 
-"Duval.02_02"	"<clr:179,203,207><B>Prof. Duval:<B> Commander, if I may… I believe this excursion could turn into an opportunity to learn more about this alien ‘parasite’ that so many settlements seem to have encountered over the last few months. Maybe extending the field of investigation, given the uniqueness of Lugdunum's status, could lead to some sort of answer about this phenomenon as a whole."
+"Duval.02_02"	"<clr:179,203,207><B>Prof. Duval:<B> Commander, if I may... I believe this excursion could turn into an opportunity to learn more about this alien ‘parasite’ that so many settlements seem to have encountered over the last few months. Maybe extending the field of investigation, given the uniqueness of Lugdunum's status, could lead to some sort of answer about this phenomenon as a whole."
 
-"Duval.02_02_1"	"<clr:179,203,207><B>Prof. Duval:<B> Sir, with all due respect, what I’m asking is merely that we -"
+"Duval.02_02_1"	"<clr:179,203,207><B>Prof. Duval:<B> Sir, with all due respect, what I’m asking is merely that we-"
 
-"Duval.02_04"	"<clr:179,203,207><B>Prof. Duval:<B> Sir, I have to insist on the singularity of the circumstances we are drawing ourselves into. From the few records I could salvage, it reads like something happened, unlike past attacks, with the people of this colony as a direct cause... References to experiments and the creatures you've… we've been, so far, blissfully shooting down! Whatever we might find, would we not benefit from it, if nothing else?"
+"Duval.02_04"	"<clr:179,203,207><B>Prof. Duval:<B> Sir, I have to insist on the singularity of the circumstances we are drawing ourselves into. From the few records I could salvage, it reads like something happened, unlike past attacks, with the people of this colony as a direct cause... References to experiments and the creatures you've...we've been, so far, blissfully shooting down! Whatever we might find, would we not benefit from it, if nothing else?"
 
-"Duval.02_04_1"	"<clr:179,203,207><B>Prof. Duval:<B> Quite clear... sir."
+"Duval.02_04_1"	"<clr:179,203,207><B>Prof. Duval:<B> Quite clear...sir."
 
-"Duval.02_05"	"<clr:179,203,207><B>Prof. Duval:<B> … all of its body heat is concentrated around its rear, that’s the weak point!"
+"Duval.02_05"	"<clr:179,203,207><B>Prof. Duval:<B> ...all of its body heat is concentrated around its rear, that’s the weak point!"
 
-"Duval.03_01"	"<clr:179,203,207><B>Prof. Duval:<B> This place is a maze… Our best chance, if we’re to condemn the facility, would be to overheat its power source. A nuclear chain-reaction should be enough to cave the entire thing on itself. Looking at the design plans, we know that one of Lugdunum’s cores is located within this floor’s eastern section, alongside the... chief scientist’s office? Huh."
+"Duval.03_01"	"<clr:179,203,207><B>Prof. Duval:<B> This place is a maze... Our best chance, if we’re to condemn the facility, would be to overheat its power source. A nuclear chain-reaction should be enough to cave the entire thing on itself. Looking at the design plans, we know that one of Lugdunum’s cores is located within this floor’s eastern section, alongside the...chief scientist’s office? Huh."
 
 "Duval.03_01_1"	"<clr:179,203,207><B>Prof. Duval:<B> Of course. The only access to the east has been shut but, luckily, the corridor to the west appears to be leading to a remotely controlled defense station. If you find a way to make it work, that may be your ticket to the power core."
 
-"Duval.03_02"	"<clr:179,203,207><B>Prof. Duval:<B> It grows and spreads without restraint, like… a cancer."
+"Duval.03_02"	"<clr:179,203,207><B>Prof. Duval:<B> It grows and spreads without restraint, like...a cancer."
 
-"Duval.03_03"	"<clr:179,203,207><B>Prof. Duval:<B> Commander… Some of these bodies are showing gunshot wounds."
+"Duval.03_03"	"<clr:179,203,207><B>Prof. Duval:<B> Commander... Some of these bodies are showing gunshot wounds."
 
-"Duval.03_03_1"	"<clr:179,203,207><B>Prof. Duval:<B> Or maybe we can prevent it from happening again, if only we knew…"
+"Duval.03_03_1"	"<clr:179,203,207><B>Prof. Duval:<B> Or maybe we can prevent it from happening again, if only we knew..."
 
 "Duval.03_04"	"<clr:179,203,207><B>Prof. Duval:<B> There, that’s the defense station."
 
-"Duval.03_06"	"<clr:179,203,207><B>Prof. Duval:<B> This... is Dr. Moreau’s office. He seemed to have control on all communications coming in and out the colony... For whatever reason, he must have been the one to send the distress signal."
+"Duval.03_06"	"<clr:179,203,207><B>Prof. Duval:<B> This...is Dr. Moreau’s office. He seemed to have control on all communications coming in and out the colony... For whatever reason, he must have been the one to send the distress signal."
 
 "Duval.03_08"	"<clr:179,203,207><B>Prof. Duval:<B> One last thing Charlie, I’ve marked a database mainframe on your map, all you have to do is-"
 
 "Duval.03_08_1"	"<clr:179,203,207><B>Prof. Duval:<B> I know the mission. I’m sorry for putting you through this Charlie, but these datas could do more good now than they ever did harm! The terminal is located inside the chief scientist’s office just south of your position. If you hurry, there’s still a chance you can use his installation to upload the content into our ship’s server!"
 
-"Duval.03_09"	"<clr:179,203,207><B>Prof. Duval:<B> I got it! To hell with ethics or chain of commands. Now get out of there!"
+"Duval.03_09"	"<clr:179,203,207><B>Prof. Duval:<B> I got it! To hell with ethics or chain of command. Now get out of there!"
 
 "Duval.03_10"	"<clr:179,203,207><B>Prof. Duval:<B> Through the emergency exit, quickly!"
 
 
 "Richard.01_01"	"<clr:191,195,167><B>Cmdr. Richard:<B> Charlie Squad, this is your commander. Professor Duval and I will be monitoring your progress throughout the searches. Communications are cut off from your end so be alert, we’re still unsure of what to expect down there."
 
-"Richard.01_03"	"<clr:191,195,167><B>Cmdr. Richard:<B> … looks like any of the other bugs to me, Professor. We’re not here on a natural science endeavor, let this be clear already."
+"Richard.01_03"	"<clr:191,195,167><B>Cmdr. Richard:<B> ...looks like any of the other bugs to me, Professor. We’re not here on a natural science endeavor, let this be clear already."
 
 "Richard.01_06"	"<clr:191,195,167><B>Cmdr. Richard:<B> Just stay alive, marines."
 
@@ -4806,7 +4806,7 @@
 
 "Richard.02_04"	"<clr:191,195,167><B>Cmdr. Richard:<B> You seem to have misunderstood our purpose here, Ms. Duval. As unprecedented as this may be to you, all that I'm willing to see down there is the most basic result of one sick game, an experimental playground for mad men who couldn't be bothered to look beyond their own personal amusement. It’s a real mess, and we’re the clean up crew. In more practical terms, it is by protocol that we now derive to a search and destroy objective. So if you were still confused, I reckon this is a clear enough choice of words?"
 
-"Richard.02_04_1"	"<clr:191,195,167><B>Cmdr. Richard:<B> Good. Now let’s find a way to reach the bottom of this place, and blow it sky-high."
+"Richard.02_04_1"	"<clr:191,195,167><B>Cmdr. Richard:<B> Good. Now, let’s find a way to reach the bottom of this place and blow it sky-high."
 
 "Richard.02_05"	"<clr:191,195,167><B>Cmdr. Richard:<B> What in heaven's..."
 
@@ -4824,25 +4824,25 @@
 
 "Richard.03_07"	"<clr:191,195,167><B>Cmdr. Richard:<B> That’s fine work, marines. Be advised that once you set it all off, your only way out will be an emergency exit back at the junction. Now find me the controls to the power core and let us all be done with this place."
 
-"Richard.03_08"	"<clr:191,195,167><B>Cmdr. Richard:<B> Leave it Duval, this is NOT the mission! Orders are to…"
+"Richard.03_08"	"<clr:191,195,167><B>Cmdr. Richard:<B> Leave it Duval, this is NOT the mission! Orders are to-"
 
 
-"Pilot.01_01"	"<clr:236,236,236><B>Shuttle pilot:<B> Good luck out there, we'll be in touch."
+"Pilot.01_01"	"<clr:236,236,236><B>Dropship Snakebite:<B> Good luck out there, we'll be in touch."
 
-"Pilot.02_01"	"<clr:236,236,236><B>Shuttle pilot:<B> Charlie, we've had reports of blizzard activity coming from HQ, we’ll do a short rotation then get back to you."
+"Pilot.02_01"	"<clr:236,236,236><B>Dropship Snakebite:<B> Charlie, we've had reports of blizzard activity coming from HQ, we’ll do a short rotation then get back to you."
 
-"Pilot.03_11"	"<clr:236,236,236><B>Shuttle pilot:<B> ...arlie, Charlie? Better move your asses before lift off."
+"Pilot.03_11"	"<clr:236,236,236><B>Dropship Snakebite:<B> ...arlie, Charlie? Better move your asses before lift off."
 
-"Pilot.03_12"	"<clr:236,236,236><B>Shuttle pilot:<B> Glad you’re in one piece, looks like you got it easy."
+"Pilot.03_12"	"<clr:236,236,236><B>Dropship Snakebite:<B> Glad you’re in one piece, looks like you got it easy."
 
 
 "Vesta.01_03"	"<clr:234,217,245><B>???:<B> Leave."
 
 "Vesta.01_05"	"<clr:234,217,245><B>???:<B> Leave. Or join."
 
-"Vesta.02_05"	"<clr:234,217,245><B>???:<B> Leave."
+"Vesta.02_05"	"<clr:234,217,245><B>???:<B> Leave our home."
 
-"Vesta.03_11"	"<clr:234,217,245><B>???:<B> Vesta... lives."
+"Vesta.03_11"	"<clr:234,217,245><B>???:<B> Vesta...lives."
 
 
 }

@@ -1,0 +1,9 @@
+GAME
+{
+	"Headline"		"Architectes de demain"
+	"HeadlineDate"	"15/07/39"
+	"Paragraph1"	"Le 10 août 2239, l’expédition Lugdunum embarquera vers le système Gaethon en vue de la colonisation de Cassius-III. C’est après plusieurs années d’ébauches que la communauté scientifique de l’Alliance Interstellaire, patronnée par SynTek Mégacorporation et divers représentants des Ligues Commerciales des Systèmes Alliés, autorise la proposition d’expansion visant à établir une présence au cœur d’exoplanètes actuellement exemptes de tout plan de colonisation."
+	"Paragraph2"	"Orientée à fin ni militaire ni nationaliste, la fierté de la mission Lugdunum puise plutôt en ses motivations scientifiques, le leadership des professeurs Jacques et Helen Moreau - décorés l’année passée du Lauréat Intersystème en biologie pour leur théorie touchant à l’évolution des cellules vivantes en relation aux fluctuations gravitationnelles, actant comme figure de proue d’un progrès commun. Afin d’assurer leur sécurité et la quiétude de chaque brave personne suivant leur trace, prend également part un groupe indépendant de gardiens fondé par l’ex-Commandant Arthur Carradine de l’Impasse de Sabattis ; qui, pour ainsi éduquer nos plus jeunes générations de lecteurs, est historiquement reconnue comme décisive dans la construction d’une paix durable pour les Systèmes Alliés."
+	"Paragraph3"	"Désormais parée pour le voyage de cinq mois jusque dans les confins de la galaxie, l’objectif de la mission Lugdunum ne consiste pas seulement à créer un futur pivot de civilisation en plantant l’étendard de notre espèce sur un sol nouveau, mais également à assurer l’avancée active et continue de l’Humanité dans des domaines jusqu’alors inexplorés."
+	"Paragraph4"	"Nam Humanum, “Pour l’Humain”. Suivez les architectes de demain dans l’entreprise de tout un peuple."
+}
