@@ -1,0 +1,31 @@
+GAME
+{
+    // PDA belongs to Doctor Lin Da Silva
+
+    // Inbox
+    
+	"MailFrom1"		"De : Dr. Jacques Moreau"
+	"MailDate1"     "Date: 10/02/42"
+	"MailSubject1"	"Objet : RE : Transfert du personnel scientifique"
+	"MailBody1A"	"Dr. Da Silva, mes recherches requièrent de moi une précision chirurgicale mais aussi, et bien plus essentiellement, une concentration tranquille et ininterrompue."
+	"MailBody1B"	"Bien que j’apprécie l’aide considérable fournie jusqu’ici par vos assistants, les opérations en cours - et dont je porte la charge en vertu des mes attributions en tant que scientifique en chef de cette mission- arriveront promptement à terme si tout le monde accepte enfin de me laisser à mon travail."
+	"MailBody1C"	"Bien à vous."
+
+    // Sent mail
+    
+	"MailFrom3"     "À : Dr. Jacques Moreau"
+	"MailDate3"		"Date : 09/02/42"
+	"MailSubject3"	"Objet : Transfert du personnel scientifique"
+	"MailBody3A"	"Dr. Moreau,"
+	"MailBody3B"	"Selon votre requête, j’ai déplacé les efforts de l’équipe de biologie vers la recherche généraliste ; les sujets provenant de notre récente découverte ont également été transférés dans vos laboratoires personnels. Puis-je toutefois vous demander la raison de cette décision ?"
+	"MailBody3C"	"Respectueusement,"
+	"MailBody3D"	"Dr. Lin Da Silva"
+
+	"MailFrom4"     "À : Dr. Jacques Moreau"
+	"MailDate4"		"Date: 10/02/42"
+	"MailSubject4"	"Objet : RE : RE : Transfert du personnel scientifique"
+	"MailBody4A"	"Dr. Moreau,"
+	"MailBody4B"	"Bien sûr, je comprends. Remettre en question vos méthodes n’était pas mon intention. Les sujets additionnels vous seront joints d’ici la fin de la semaine. Nam Humanum."
+	"MailBody4C"	"Respectueusement,"
+	"MailBody4D"	"Dr. Lin Da Silva"
+}
