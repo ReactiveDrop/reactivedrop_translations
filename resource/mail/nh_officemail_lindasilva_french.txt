@@ -1,0 +1,34 @@
+GAME
+{
+    // PC belongs to Doctor Lin Da Silva
+
+    // Inbox
+    
+	"MailFrom1"		"De : Jonathan Dorland"
+	"MailDate1"     "Date : 13/02/42"
+	"MailSubject1"	"Objet : Dr. Moreau?"
+	"MailBody1A"	"Doc, c’est la troisième cargaison de spores qu’on est contraints de transférer aux labs du Dr. Moreau. La troisième. Je sais pas toi, mais j'aurais pensé que la découverte d’une forme de vie indigène aurait AU MOINS suscité l’avis du CA. On nage dans la fumée, et on fait semblant de n’y voir que du feu ?"
+	"MailBody1B"	"Allons Lin. Tu es la seconde en cheffe depuis que sa femme est morte. C’est le moment d’user un peu de ton rang. Si jamais plus, au moins cette fois."
+
+	"MailFrom2"		"De : Jonathan Dorland"
+	"MailDate2"     "Date : 14/02/46"
+	"MailSubject2"	"Objet : RE : RE : Dr. Moreau?"
+	"MailBody2A"	"Clair comme de l’eau de roche, Docteur Da Silva."
+	"MailBody2B"	"Nam Humanum :)"
+
+    // Sent mail
+    
+	"MailFrom3"     "À : Jonathan Dorland"
+	"MailDate3"		"Date : 13/02/42"
+	"MailSubject3"	"Objet : RE : Dr. Moreau?"
+	"MailBody3A"	"Lis attentivement, Jonathan."
+	"MailBody3B"	"Ne m’appelle plus par mon prénom, et ne me tutoie encore moins. Gardons cette relation strictement professionnelle, à moins qu’une petite piqûre de rappel ne s’impose quant à l’existence d’une cave du Nouveau-Havre ? Laquelle je me demande bien, tapis dans son ombre un quelconque criminel de bas-étage qui se serait jeté sur un vaisseau cargo si une idiote au cœur trop grand ne lui avait pas tendu une main ouverte."
+	"MailBody3C"	"Voie ça comme mon joker Johnny, ça m’importe que très peu. Dr. Moreau est à la tête des décisions touchant l’ensemble des recherches. En tant que simple assistant, c’est tout ce dont tu as besoin de savoir. Tâche donc de rester à ta place, “au moins cette fois”."
+	"MailBody3D"	"En espérant vous avoir éclairé ?"
+	
+	"MailFrom4"     "À : Lt. Gael Florenza"
+	"MailDate4"		"Date : 01/01/43"
+	"MailSubject4"	"Objet : (Vide)"
+	"MailBody4A"	"Si vous pouvez mettre un terme à tout ça alors oui, je m’assurerai que votre accès aux labs soit clair."
+	"MailBody4B"	"Effacez toute trace de cette conversation, et priez qu’il n’y ait pas déjà un Big Brother pour épier à nos portes."
+}

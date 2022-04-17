@@ -1947,13 +1947,13 @@
 "Richard.03_05"	"<clr:191,195,167><B>Cmdr. Richard:<B> So, das war's mit der östlichen Tür. Achtung, Soldaten, es ist noch nicht vorbei."
 "Richard.03_07"	"<clr:191,195,167><B>Cmdr. Richard:<B> Das ist gute Arbeit, Marinesoldaten. Sobald ihr alles in Gang gesetzt habt, ist euer einziger Ausweg ein Notausgang an der Kreuzung. Jetzt sucht mir die Steuerung für den Energiekern und lasst uns diesen Ort hinter uns lassen."
 "Richard.03_08"	"<clr:191,195,167><B>Cmdr. Richard:<B> Lass es Duval, das ist NICHT die Mission! Die Befehle lauten..."
-"Pilot.01_01"	"<clr:236,236,236><B>Shuttle pilot:<B> Viel Glück da draußen, wir bleiben in Kontakt."
-"Pilot.02_01"	"<clr:236,236,236><B>Shuttle pilot:<B> Charlie, wir haben Berichte über Schneesturm-Aktivitäten aus dem Hauptquartier erhalten, wir werden eine kurze Runde drehen und uns dann wieder bei dir melden."
-"Pilot.03_11"	"<clr:236,236,236><B>Shuttle pilot:<B> ...arlie, Charlie? Bewegt lieber eure Ärsche, bevor ihr abhebt."
-"Pilot.03_12"	"<clr:236,236,236><B>Shuttle pilot:<B> Schön, dass du heil geblieben bist. Sieht aus, als hättest du es leicht gehabt."
+"Pilot.01_01"	"<clr:236,236,236><B>Landungsschiff Snakebite:<B> Viel Glück da draußen, wir bleiben in Kontakt."
+"Pilot.02_01"	"<clr:236,236,236><B>Landungsschiff Snakebite:<B> Charlie, wir haben Berichte über Schneesturm-Aktivitäten aus dem Hauptquartier erhalten, wir werden eine kurze Runde drehen und uns dann wieder bei dir melden."
+"Pilot.03_11"	"<clr:236,236,236><B>Landungsschiff Snakebite:<B> ...arlie, Charlie? Bewegt lieber eure Ärsche, bevor ihr abhebt."
+"Pilot.03_12"	"<clr:236,236,236><B>Landungsschiff Snakebite:<B> Schön, dass du heil geblieben bist. Sieht aus, als hättest du es leicht gehabt."
 "Vesta.01_03"	"<clr:234,217,245><B>???:<B> Geh!"
 "Vesta.01_05"	"<clr:234,217,245><B>???:<B> Geh weg. Oder mach mit."
-"Vesta.02_05"	"<clr:234,217,245><B>???:<B> Geh!"
+"Vesta.02_05"	"<clr:234,217,245><B>???:<B> Verlass unser Zuhause!"
 "Vesta.03_11"	"<clr:234,217,245><B>???:<B> Vesta... Leben."
 }
 }
