@@ -6,7 +6,7 @@ GAME
 "MailDate1"	"Datum: 24/10/53"
 "MailSubject1"	"Betreff: Re: Kettensägen?!"
 "MailBody1A"	"Hey George,"
-"MailBody1B"	"Tut mir leid, dass wir das verwechselt haben. Ich sorge dafür, dass wir dir nächste Woche die Medikamente schicken."
+"MailBody1B"	"tut mir leid, dass wir das verwechselt haben. Ich sorge dafür, dass wir dir nächste Woche die Medikamente schicken."
 "MailBody1C"	"Was die Kettensäge angeht, wirf sie von einer Klippe oder so. Irgendein Idiot hat aus Versehen eine Ladung davon bestellt und seitdem stehen sie im Lager und nehmen Platz weg. Als ob wir auf diesem Felsen Kettensägen brauchen würden!"
 "MailBody1D"	"- Bob Vernes, Leiter der Abteilung Versand und Lagerung"
 // sent mail

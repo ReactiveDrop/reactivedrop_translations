@@ -2,7 +2,7 @@ GAME
 {
 // PDA belongs to GeoTerraCorp
 "MailFrom1"	"Von: GeoTerra Rep, Andrew"
-"MailDate1"	"Datum: 2.03.54"
+"MailDate1"	"Datum: 3/2/54"
 "MailSubject1"	"Betreff: WICHTIG--PLANETENWEITE EVAKUIERUNG"
 "MailBody1A"	"WICHTIG, die Evakuierung der Long Dawn Kolonie hat begonnen, begeben Sie sich zum nächsten Evakuierungszentrum"
 "MailBody1B"	"Die Evakuierungsmannschaften werden dich dann in Kürze zu den Schiffen bringen, die dich von der Welt zur nächsten Station oder zur Orbitalplattform bringen."

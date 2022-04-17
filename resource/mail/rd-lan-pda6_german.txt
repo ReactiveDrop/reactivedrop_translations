@@ -4,7 +4,7 @@ GAME
 // inbox
 // sent mail
 "MailFrom3"	"An: Lana King"
-"MailDate3"	"Datum: 29.02.53"
+"MailDate3"	"Datum: 02/29/53"
 "MailSubject3"	"Thema: Idee"
 "MailBody3A"	"Geh zur Landebucht und mach ein Schiff bereit, ich hatte gerade eine tolle Idee mit dem Sprengkopf."
 "MailBody3B"	"Ich habe den Timer gestartet. Wenn ich in drei Minuten nicht bei dir bin, dann bitte ... geh einfach. Die ganze Basis wird bei der Explosion zerstört werden."

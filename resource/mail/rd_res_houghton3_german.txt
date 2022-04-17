@@ -1,7 +1,7 @@
 GAME
 {
 "MailFrom1"	"Von: Commander Houghton"
-"MailDate1"	"Datum: 30.12.52"
+"MailDate1"	"Datum: 12/30/52"
 "MailSubject1"	"Betreff: Operation Ausrottung"
 "MailBody1A"	"Gute Arbeit, Alpha."
 "MailBody1B"	"RC7 scheint frei zu sein, aber wir empfangen Biomasse-Signale, die von den Jericho-Minen nördlich von deiner Position kommen."

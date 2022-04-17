@@ -1,0 +1,19 @@
+GAME
+{
+// Computer belongs to Doctor Jacques Moreau
+// Sent messages
+"MailFrom3"	"An: Persönliche Datenbank"
+"MailDate3"	"Datum: 05/24/42"
+"MailSubject3"	"Betreff: Etwas anderes"
+"MailBody3A"	"Es spricht zu mir. Ihr Schwarmgeist, oder wie auch immer man ein so unbekanntes Wesen taufen mag. Ich habe beschlossen, es als 'sie' zu bezeichnen. Vesta."
+"MailBody3B"	"Der Vorgang, mit dem sie sich an mich wendet, fühlt sich völlig fremd an. Es ist ... seltsam, sprunghaft, als ob mir für Sekundenbruchteile ein neuer Sinn entliehen wird, um dann wieder in einem Abgrund der Stille zu verschwinden. Aber aus dieser Leere, das weiß ich, hatte sich eine Stimme erhoben. Eine seltsam umfassende Reihe von Klängen, an die ich mich nach dem Hören nicht mehr vollständig erinnern kann. Diese Stimme... Sie erinnert mich an jemanden, den ich verloren habe."
+"MailBody3C"	"Ich habe aus eigenem Antrieb versucht, mit Vesta in Kontakt zu treten. Ich habe versucht, mit ihr zu reden und ihr verständlich zu machen, wer oder was wir sind. Ich bin mir bewusst, wie lächerlich das klingen mag ... aber ich habe um Führung gebeten. Ich möchte sie erreichen und ihr zeigen, dass sie nichts von uns zu befürchten hat. Wir sind nur zerbrechliche Hüllen aus verrottendem Gewebe und Verstand, und sie kann zu allem führen, was wir... ich mir erhofft habe."
+"MailBody3D"	"Sie braucht nur Körper."
+"MailFrom4"	"An: Dr. Helen Moreau"
+"MailDate4"	"Datum: 06/15/42"
+"MailSubject4"	"Betreff: N/A"
+"MailBody4A"	"So, hier bin ich also. Ich bekenne mich zu einem Geist. Um ganz ehrlich zu sein, weiß ich nicht, wie viel Zeit seit deiner Krankheit vergangen ist. Aber die Zeit, in der dein blumiger Duft die Erstickung in unserem Labor verdrängt hat, fühlt sich gar nicht so weit weg an."
+"MailBody4B"	"Wohin dieser Weg führt, Helen, frage ich mich. Diese Mission, bei der es um den Fortschritt unserer Spezies, der Menschheit als 'Ein und Alles' ging. Dann erhofften sich bald alle von mir Antworten auf alle Dinge, deren Inhalt ich im Laufe der Tage immer mehr improvisierte. Und nun liegt die Last der Verantwortung für eine so außergewöhnliche Entdeckung allein auf mir. Ich, ein einzelner Teil von zwei Köpfen, muss Antworten auf die Existenz eines neuen Lebens unter uns geben... Vesta... Helen. Wenn du nur hier wärst. Du warst mein Dreh- und Angelpunkt, das Stück, das mir das Gleichgewicht gab. Die Stimme, die mir den Weg wies, während ich blindlings an einem selbst genähten Faden entlanglief. Aber dieses Teil hat sich an dem Tag gelöst, als du deine Augen geschlossen hast."
+"MailBody4C"	"Also habe ich die Sache selbst in die Hand genommen, so wie ich es für richtig hielt. Ich weigere mich, SynTek oder anderen in die Hände zu spielen. Als mir klar wurde, dass diese Entdeckung auch nur die geringste Chance birgt, unser Verständnis von Krebszellen und ihrer Verbindung zur menschlichen Physiologie voranzutreiben, habe ich alle meine Zweifel beseitigt. Was ist meine Berufung als Wissenschaftlerin, wenn nicht genau das? Hätte ich auf diese Chance für echten Fortschritt verzichten und sie ihnen geben sollen? Eine solche Entdeckung einer Lobby von Konzernratten in makellosen Mänteln anvertrauen, damit sie sie irgendwie in einen so lächerlichen Gewinn umwandeln können, dass sie den Mächtigen zu einem Preis verkauft wird, den sich nur die Reichsten der Kerne leisten können? Oder lassen wir sie noch Schlimmeres damit anstellen ... und wofür? Damit zahllose andere wieder Ehefrauen, Ehemänner, Brüder und Schwestern, Söhne und Töchter an eine der furchtbarsten und unerträglichsten Krankheiten der Menschheitsgeschichte verlieren?"
+"MailBody4D"	"Nein. Ich habe meine Entscheidung getroffen. Sollen sie mich doch alle verrückt nennen."
+}
