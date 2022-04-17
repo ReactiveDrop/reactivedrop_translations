@@ -1,0 +1,9 @@
+GAME
+{
+	"Headline"		"[ANNONCE PUBLIQUE] Procédure de couvre-feu"
+	"HeadlineDate"	"07/05/42"
+	"Paragraph1"	"Citoyens de Lugdunum,"
+	"Paragraph2"	"La procédure d’urgence #03-41 est à ce jour en application pour l’installation coloniale dans son ensemble. Sous la direction avisée du Docteur Jacques Moreau, le Conseil Administratif vous demande de bien vouloir maintenir la paix. Comprenez par cela une responsabilité d’obéissance aux requêtes de vos gardiens ainsi que la nécessité pour chaque département de respecter le couvre-feu, déployé hors des plannings d’activités entre les heures 1700-0900 du cadran terrien."
+	"Paragraph3"	"Compagnons et compères, nous vous invitons fortement à ne pas céder à l’hystérie suite aux récents évènements. Dans le but d’assurer de prompts retrouvailles avec vos proches manquants ainsi que votre propre sécurité, nous tenons à vous annoncer la directe prise en charge des recherches par le Capitaine Arthur Carradin, responsable de notre sécurité collective depuis ces 3 dernières années."
+	"Paragraph4"	"Pour Lugdunum, la Science et l’Humain, maintenons notre tranquillité à tous. Nam Humanum."
+}
