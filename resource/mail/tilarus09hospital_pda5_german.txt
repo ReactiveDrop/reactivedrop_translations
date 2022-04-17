@@ -3,11 +3,11 @@ GAME
 // PDA belongs to 	Ian Cook
 // sent mail 
 "MailFrom3"	"An: Mitarbeiter von SynTek Hospital"
-"MailDate3"	"Datum: 16.3.46"
+"MailDate3"	"Datum: 3/16/46"
 "MailSubject3"	"Betreff: Wir brauchen einen neuen Plan"
 "MailBody3A"	"Jemand muss sich eine dauerhafte Lösung überlegen. Wir können die Experimente nicht für immer in unserem Keller einsperren..."
 "MailFrom4"	"An: Mitarbeiter von SynTek Hospital"
-"MailDate4"	"Datum: 17.3.46"
+"MailDate4"	"Datum: 3/17/46"
 "MailSubject4"	"Betreff: Ich habe einen Ausweg gefunden"
 "MailBody4A"	"Wir sind fast fertig zum Aufbruch. Hoffentlich habe ich noch genug Zeit, um rauszukommen. Ich habe bereits die gesamte Ausrüstung verlegt, die ich brauche, also sollten alle anderen ihr Bestes geben, um es zum Transport zu schaffen."
 "MailBody4B"	"Aber das ist alles nicht mehr wichtig; was zählt, ist, die Ausbreitung der Experimente zu stoppen. Ich habe ein wasserlösliches Nervengift vorbereitet, mit dem ich die Anlage fluten will. Ich habe es getestet und es hat sich als äußerst wirksam erwiesen."

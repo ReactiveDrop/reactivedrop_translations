@@ -1,0 +1,12 @@
+GAME
+{
+// Hacked into network history: Lieutenant Gael Florenza
+// Sent mail
+"MailFrom3"	"To: Iris Florenza"
+"MailDate3"	"Datum: 12/03/40"
+"MailSubject3"	"Thema: Eine trauernde Kolonie"
+"MailBody3A"	"Lieber Schatz,"
+"MailBody3B"	"heute ist ein trauriger Tag für Lugdunum. Fräulein Moreau, Helen, ist plötzlich an den Komplikationen eines bösartigen Tumors verstorben. Ich kann zwar nicht behaupten, sie gut gekannt zu haben... aber ich glaube, ich kannte sie gut genug. Ihr warmherziger, jugendlicher Eifer, diese Kolonie gastfreundlich zu gestalten, wurde von vielen Mitgliedern unserer Gemeinschaft geschätzt und... ich habe keinen Zweifel daran, dass jeder von uns auf seine Weise diese Trauer tragen wird."
+"MailBody3C"	"Ich bin tief berührt von Dr. Moreau. Ich wage mir nicht vorzustellen, was aus mir werden würde, wenn du oder Isaac verschwinden würden. Ich denke an euch beide in jeder langen Nacht, die auf diesem kalten, fernen Planeten vergeht."
+"MailBody3D"	"Nam Humanum."
+}

@@ -2,7 +2,7 @@ GAME
 {
 // PDA belongs to Overseer Ross
 "MailFrom1"	"From: Kyle"
-"MailDate1"	"Datum: 2.2.54"
+"MailDate1"	"Datum: 2/2/54"
 "MailSubject1"	"Betreff: Bericht 709b"
 "MailBody1A"	"-47 Droiden in den letzten 24 Stunden verloren"
 "MailBody1B"	"-Gesamtentsorgungskapazität auf 87% gesunken"

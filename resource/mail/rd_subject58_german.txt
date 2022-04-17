@@ -2,7 +2,7 @@ GAME
 {
 // PDA belongs to Dr. Tom Hinler.
 "MailFrom1"	"Von : Dr. Tom Hinler."
-"MailDate1"	"Datum: 26.05.2060."
+"MailDate1"	"Datum: 05/26/2060"
 "MailSubject1"	"Thema : Thema 58."
 "MailBody1A"	"Donnerstag, 21. Mai 2060:"
 "MailBody1B"	"Heute haben wir dem Patienten erfolgreich eine rekombinante DNA eingesetzt. Diese DNA stammt von dem Alien, das vor ein paar Tagen von einer Patrouille gefangen genommen wurde. Der Patient scheint bei guter Gesundheit zu sein."
