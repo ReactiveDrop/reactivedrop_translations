@@ -3008,5 +3008,7 @@
 "L4D360UI_FoundPublicGames_Filter_Distance_Far"	"Far"
 "[english]L4D360UI_FoundPublicGames_Filter_Distance_Far"	"Far"
 "L4D360UI_FoundPublicGames_Filter_Distance_Worldwide"	"Galaxy"
+		"L4D360UI_FoundPublicGames_Filter_Distance_Worldwide" "Galaxy"
+		"[english]L4D360UI_FoundPublicGames_Filter_Distance_Worldwide" "Galaxy"
 }
 }
