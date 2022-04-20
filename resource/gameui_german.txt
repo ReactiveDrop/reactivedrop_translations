@@ -1320,7 +1320,6 @@
 "GameUI_FOV"	"FOV"
 "[english]GameUI_FOV"	"Field of view"
 "GameUI_EnableHUDMinMode"	"Minimales HUD aktivieren"
-		"GameUI_EnableHUDMinMode" "Enable Minimal HUD"
-		"[english]GameUI_EnableHUDMinMode" "Enable Minimal HUD"
+"[english]GameUI_EnableHUDMinMode" "Enable Minimal HUD"
 }
 }
