@@ -1,0 +1,9 @@
+GAME
+{
+"Headline"	"[ÖFFENTLICHE ANKÜNDIGUNG] Ausgangssperre"
+"HeadlineDate"	"05/07/42"
+"Paragraph1"	"Bürger von Lugdunum,"
+"Paragraph2"	"die Notfallprozedur #03-41 wurde mit sofortiger Wirkung für die gesamte koloniale Einrichtung eingeführt. Unter der umsichtigen Aufsicht von Doktor Jacques Moreau bittet die Verwaltung euch demütig, Ruhe zu bewahren. Bitte habt Verständnis für die öffentliche Verantwortung, den Aufforderungen eurer Vormünder Folge zu leisten und euch an die Sperrstunden zu halten, die außerhalb der Arbeitszeiten zwischen 1700 und 0900 Uhr nach irdischer Zeit verhängt werden."
+"Paragraph3"	"Kameradinnen und Kameraden, wir raten euch dringend davon ab, als Reaktion auf die jüngsten Ereignisse in eine Massenhysterie zu verfallen. Um eine schnelle Behebung der Leere, die ihr ertragen müsstet, sowie eure persönliche Sicherheit zu gewährleisten, freuen wir uns, euch mitteilen zu können, dass wir Kapitän Arthur Carradine, der sich in den letzten drei Jahren um unsere kollektive Sicherheit gekümmert hat, mit der Leitung der laufenden Durchsuchungen betraut haben."
+"Paragraph4"	"Für Lugdunum, die Wissenschaft und die Menschheit, lasst uns alle die Ruhe innerhalb unserer Mauern bewahren. Nam Humanum."
+}

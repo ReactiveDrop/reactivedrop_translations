@@ -1,0 +1,16 @@
+GAME
+{
+// PDA belongs to Laura
+"MailFrom1"	"Von: Brad Campbell"
+"MailDate1"	"Datum: 12/18/52"
+"MailSubject1"	"Subject: Re:Re: Eier"
+"MailBody1A"	"Laura,"
+"MailBody1B"	"zwei meiner Männer sind unerreichbar.  Eine Gruppe meldete seltsame Geräusche bei der Durchsuchung von Sektor 24.  Das könnte alles Mögliche gewesen sein.  Dieser Ort fällt in sich zusammen."
+"MailBody1C"	"Was ist mit den zusätzlichen Männern?"
+"MailFrom2"	"Von: Brad Campbell"
+"MailDate2"	"Datum: 12/20/52"
+"MailSubject2"	"Betreff: Brauche Hilfe"
+"MailBody2A"	"Cortez, Jones und Stefani sind tot.  Gliedmaßen fehlen. Jones sieht aus, als ob seine Beine in einem Fleischwolf stecken geblieben wären.  Cain und einige seiner Männer kamen heute Morgen an, sehr aufdringlich, und fragten nach der Lieferung 4903877."
+"MailBody2B"	"Sie sagten uns, wir sollten zurückbleiben, bis sie das Gebiet nach den anderen Vermissten abgesucht hätten.  Ich habe einen Sicherheitsterminal angezapft und beobachtet, wie sie den Frachter mit den Containern beladen haben.  Natürlich sind sie nicht zurückgekommen."
+"MailBody2C"	"Wir schaffen es nie, ohne einen Wagen zurück zum Hauptkomplex zu kommen.  Da draußen sind bestimmt 50 Grad minus.  Was ist hier los?!?"
+}
