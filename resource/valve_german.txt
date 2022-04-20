@@ -574,7 +574,6 @@
 "Valve_Reject_CD_Key_In_Use"	"CD Key wird bereits verwendet."
 "[english]Valve_Reject_CD_Key_In_Use"	"CD Key already in use."
 "Valve_Reject_Banned_From_Server"	"Du wurdest von diesem Server verbannt."
-		"Valve_Reject_Banned_From_Server" "You have been banned from this server."
-		"[english]Valve_Reject_Banned_From_Server" "You have been banned from this server."
+"[english]Valve_Reject_Banned_From_Server"	"You have been banned from this server."
 }
 }
