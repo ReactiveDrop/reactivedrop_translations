@@ -1,0 +1,34 @@
+GAME
+{
+// PDA belongs to Tony Dawson
+// inbox 
+"MailFrom1"	"Von: Barbara Whyte"
+"MailDate1"	"Datum: 06/10/57"
+"MailSubject1"	"Subject: Re:Re: Zusätzliche Sicherheit"
+"MailBody1A"	"Tony,"
+"MailBody1B"	"danke, dass du das zusätzliche Sicherheitspersonal eingesetzt hast. Alle waren ziemlich aufgewühlt, nachdem diese Typen versucht hatten, ihre Waren gewaltsam zurückzunehmen, und die zusätzlichen Sicherheitskräfte helfen den Leuten wirklich, sich wohler zu fühlen."
+"MailBody1C"	"Ich habe auch gehört, dass es Jenny gut geht und sie wieder ganz gesund werden soll. Bitte sag Adam Bescheid, er schien sich große Sorgen um sie zu machen."
+"MailBody1D"	"Barbara Whyte - Cargo Storage Supervisor."
+"MailFrom2"	"Von: Andrew Smithson"
+"MailDate2"	"Datum: 04/10/57"
+"MailSubject2"	"Betreff: Möglicher blinder Passagier!"
+"MailBody2A"	"Tony,"
+"MailBody2B"	"könntest du bitte jemanden zu Hangar 6 schicken, ich glaube, hier könnte etwas in den Lüftungsschächten sein. Vielleicht ein blinder Passagier oder so. Vielleicht hat sich ein Haustier befreit oder so, denn ich glaube nicht, dass es ein Mensch ist."
+"MailBody2C"	""
+"MailBody2D"	"Andrew Smithson - Weltraumbahnhof-Wartung"
+// sent mail
+"MailFrom3"	"An: Barbara Whyte"
+"MailDate3"	"Datum: 06/10/57"
+"MailSubject3"	"Betreff: Konfiszierter Gegenstand"
+"MailBody3A"	"Wir haben heute einen interessanten Fund gemacht. Einer der Passagiere von Flug 320XYXF9A versuchte, einen Minenlaser in seinem Handgepäck in die Kolonie zu bringen. Wir haben ihn darüber informiert, dass alle elektrischen Geräte und Waffen in versiegelten Behältern transportiert und im Voraus angemeldet werden müssen."
+"MailBody3B"	"Ich habe ihm gesagt, welche Formulare er ausfüllen muss, damit er sie zurückbekommt, und er hat es gut aufgenommen. In der Zwischenzeit habe ich sie in der Waffenkammer der Sicherheitsstation eingeschlossen. Ich denke, es ist besser, wenn wir sie aufbewahren. Nach dem Vorfall mit den Bewaffneten werden sich deine Leute sicher besser fühlen, wenn sie nicht mit einer Hochleistungslaserwaffe umgehen müssen. Ich werde dir später einen vollständigen Bericht schicken, damit du ihn in deinen Unterlagen hast."
+"MailBody3C"	"Oh, und ich glaube, Adam weiß schon von Jenny. Er hat sich den Nachmittag freigenommen, um im Krankenhaus dabei zu sein. Ich vermute, da läuft etwas zwischen den beiden."
+"MailBody3D"	"Tony Dawson - Raumhafensicherheit"
+"MailFrom4"	"Von: Andrew Smithson"
+"MailDate4"	"Datum: 04/10/57"
+"MailSubject4"	"Betreff: Re:möglicher blinder Passagier!"
+"MailBody4A"	"Andrew, zum letzten Mal, da ist nichts in den Lüftungsschächten! Das ist das vierte Mal, dass du im letzten Monat einen Wolf geheult hast. Letzte Woche war es Hangar 3, die Woche davor war es Treibstofflager B. Jedes Mal, wenn du uns auf eine dieser wilden Verfolgungsjagden schickst, finden wir nicht den kleinsten Beweis dafür, dass dort tatsächlich etwas zu finden ist. Ich habe es satt, meine Männer durch Belüftungssysteme krabbeln zu lassen, nur um eure Wahnvorstellungen zu befriedigen."
+"MailBody4B"	"Das ist nicht meine Aufgabe, aber ich habe mit anderen Leuten in deiner Abteilung gesprochen und wir sind uns alle einig, dass du Hilfe brauchst. Ich werde mit der Verwaltung sprechen und dir empfehlen, dich beraten zu lassen."
+"MailBody4C"	""
+"MailBody4D"	"Tony Dawson - Raumhafensicherheit"
+}

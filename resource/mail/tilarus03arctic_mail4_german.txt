@@ -1,0 +1,27 @@
+GAME
+{
+// PDA belongs to Security Officer Barney
+// inbox
+"MailFrom1"	"Von: Bill Howze"
+"MailDate1"	"Datum: 10/4/52"
+"MailSubject1"	"Betreff: Der Flammenwerfer nachgefüllt"
+"MailBody1A"	"Hey Barney,"
+"MailBody1B"	"Ich habe deinen Flammenwerfer aufgefüllt, wie du es verlangt hast. Ich weiß nicht, warum du das Ding in deinem Büro hast..."
+"MailBody1C"	"Du hast dein Standard-Sicherheitsspielzeug bereits von SynTek."
+"MailBody1D"	"Später, Bill"
+// sent mail
+"MailFrom3"	"An: Bill Howze"
+"MailDate3"	"Datum: 10/4/52"
+"MailSubject3"	"Betreff: Re: Der Flammenwerfer nachgefüllt"
+"MailBody3A"	"Hallo Bill,"
+"MailBody3B"	"Hehe, danke, dass du nachgefüllt hast. Ich habe die Erfahrung gemacht, dass man immer etwas zusätzliche Feuerkraft dabei haben muss."
+"MailBody3C"	"Dieses Baby hat mich schon vor einigen Begegnungen mit dem Schwarm bewahrt. Man weiß nie, wann ich es wieder brauche."
+"MailBody3D"	"Pass auf dich auf, Barney"
+"MailFrom4"	"An: Section Chief Jackson"
+"MailDate4"	"Datum: 10/6/52"
+"MailSubject4"	"Betreff: Seltsame Messwerte"
+"MailBody4A"	"BERICHT:."
+"MailBody4B"	"Wir haben wieder einige Anomalien auf dem Radarscanner festgestellt."
+"MailBody4C"	"Diesmal waren sie länger wach und es gab mehrere Ziele statt nur eines wie vor zwei Tagen."
+"MailBody4D"	"Und wieder sind sie wie beim letzten Mal plötzlich verschwunden. Ich habe eine Patrouille geschickt, um das zu überprüfen, nur um sicherzugehen."
+}

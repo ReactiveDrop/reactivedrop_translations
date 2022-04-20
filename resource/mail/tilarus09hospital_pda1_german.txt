@@ -1,0 +1,12 @@
+GAME
+{
+// PDA belongs to Emily Hoggarth
+// sent mail
+"MailFrom3"	"An: Dr. Kennett"
+"MailDate3"	"Datum: 3/12/46"
+"MailSubject3"	"Thema: Untersuchung"
+"MailBody3A"	"Dr. Kennett,"
+"MailBody3B"	"es scheint, als hätten wir die Aufmerksamkeit der meisten Polizeikräfte in diesem Gebiet auf uns gezogen."
+"MailBody3C"	"Wir sollten extrem vorsichtig sein. Das, was dem Patienten Molligan passiert ist, darf sich nicht wiederholen."
+"MailBody3D"	"Dr. E. Hoggarth"
+}

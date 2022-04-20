@@ -1,0 +1,9 @@
+GAME
+{
+"Headline"	"Raus mit dem Alten, rein mit dem Neuen!"
+"HeadlineDate"	"02/02/54"
+"Paragraph1"	"Die neuen Systeme und Einrichtungen der Kolonie wurden heute offiziell in Betrieb genommen. Die Oasis-Kolonisten brauchen sich nicht mehr zu schämen, denn wir verfügen jetzt über eine der modernsten Kolonien, die die Menschheit kennt."
+"Paragraph2"	"Die alten Systeme waren schon lange nicht mehr in Betrieb, da es sich um die ursprünglichen Systeme handelte, die bei der Gründung der Kolonie gebaut wurden. Die Fertigstellung kommt gerade rechtzeitig zum 23. Jahrestag von Planetfall hier auf Oasis, so dass sich der Stromausfall während der Feierlichkeiten im letzten Jahr nicht wiederholen sollte."
+"Paragraph3"	"Zu den neuen Systemen gehören eine integrierte Kommunikationseinrichtung, eine Erweiterung der medizinischen Einrichtungen und eine umfassende Überholung des Stromnetzes der Kolonie."
+"Paragraph4"	"Insgesamt ist es ein guter Tag hier in der Oase. Abschließend möchte die Verwaltung euch allen einen schönen Planetfall wünschen!"
+}
