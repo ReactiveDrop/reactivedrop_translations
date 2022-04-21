@@ -961,7 +961,7 @@
 "[english]GAMEUI_Commentary_HowToUse"		"To start or stop a commentary node, aim your crosshairs at any balloon icon and then press your USE key."
 "GAMEUI_Commentary_HowToUse_Attack"		"Um einen Kommentarknoten zu starten oder zu stoppen, ziele mit deinem Fadenkreuz auf ein beliebiges Ballonsymbol und drücke dann deine PRIMÄRFEUER-Taste."
 "[english]GAMEUI_Commentary_HowToUse_Attack"		"To start or stop a commentary node, aim your crosshairs at any balloon icon and then press your PRIMARY FIRE key."
-"GAMEUI_COMMENTARY_GOD"		"(Wenn du das Spiel im Kommentarmodus spielst, bist du unverwundbar gegen Schaden und es werden keine Erfolge vergeben.)"
+"GAMEUI_COMMENTARY_GOD"		"(Wenn du das Spiel im Kommentarmodus spielst, bist du unverwundbar gegen Schaden und es werden keine Errungenschaften vergeben.)"
 "[english]GAMEUI_COMMENTARY_GOD"		"(While playing the game in commentary mode, you will be invulnerable to damage and achievements will not be awarded.)"
 "GAMEUI_Commentary_Console_Explanation"		"\'Kommentarknoten\' enthalten Audiokommentare des Valve-Entwicklungsteams. Um einen Knotenpunkt zu starten oder zu stoppen, ziele auf ein beliebiges Ballon-Symbol und drücke deine BENUTZEN-Taste. (Während du einem Knotenpunkt zuhörst, bist du unverwundbar gegen Schaden. Im Kommentarmodus können keine Errungenschaften erlangt werden.)"
 "[english]GAMEUI_Commentary_Console_Explanation"		"\'Commentary nodes\' contain audio commentary by the Valve development team. To start or stop a node, aim at any balloon icon and press your USE button. (You will be invulnerable to damage while listening to a node. Achievements can not be earned in commentary mode.)"
