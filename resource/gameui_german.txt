@@ -239,7 +239,7 @@
 "[english]GameUI_VoiceTransmitVolume"	"Voice transmit volume"
 "GameUI_SaveGame"	"SPIEL SPEICHERN"
 "[english]GameUI_SaveGame"	"SAVE GAME"
-"GameUI_SaveGameHelp"	"Wähle 'Neues Gespeichertes Spiel' in der Liste, um eine neue Datei zu erstellen, oder wähle "Vorheriges Spiel speichern", um eine Datei zu überschreiben."
+"GameUI_SaveGameHelp"	"Wähle 'Neues Gespeichertes Spiel' in der Liste, um eine neue Datei zu erstellen, oder wähle \"Vorheriges Spiel speichern\", um eine Datei zu überschreiben."
 "[english]GameUI_SaveGameHelp"	"Select 'New Save Game' in the list to create a new file, or select\na previously saved game to overwrite a file."
 "GameUI_Delete"	"Löschen"
 "[english]GameUI_Delete"	"Delete"
