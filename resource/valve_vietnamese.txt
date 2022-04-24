@@ -1,6 +1,6 @@
 ﻿"lang" 
 { 
-"Language" "Vietnamese" 
+"Language" "vietnamese" 
 "Tokens" 
 { 
 "Valve_Listen_MapName" "Bản đồ"
