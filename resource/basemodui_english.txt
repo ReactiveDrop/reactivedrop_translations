@@ -527,11 +527,10 @@
 "L4D360UI_Lobby_Character"                          "CHOOSE CHARACTER"
 "L4D360UI_Lobby_Change_ServerType"                  "SERVER TYPE"
 "L4D360UI_Lobby_Change_GameAccess"                  "PERMISSIONS"
-"L4D360UI_Lobby_Change_GameAccessAlt1"              "CHOOSE ACCESS TYPE"
+"L4D360UI_Lobby_Change_GameAccessAlt1"              "CHOOSE GAME TYPE"
 "L4D360UI_Lobby_Change_GameAccessAlt2"              "CHOOSE ACCESS"
 "L4D360UI_Lobby_Change_GameAccessAlt3"              "CHANGE INVITE LEVEL"
 "L4D360UI_Lobby_Change_GameAccessAlt4"              "CHOOSE CONNECTION"
-"L4D360UI_Lobby_Change_GameAccessAlt1"              "CHOOSE GAME TYPE"
 
 "L4D360UI_Lobby_PublicTitle"						"PUBLIC LOBBY"
 "L4D360UI_Lobby_SysLinkTitle"						"LAN LOBBY"
@@ -1406,9 +1405,6 @@
 
 "L4D360UI_Leaderboard_Tooltip_Mission"	"Select which campaign to display."
 "L4D360UI_Leaderboard_Tooltip_Chapter"	"Select which chapter to display."
-
-"L4D360UI_RestartChapter"			"Restart Round"
-"L4D360UI_RestartChapter_Tip"		"Call a vote to restart the round."
 
 "L4D360UI_MsgBx_DisconnectedFromSessionDLCrequired"		"Downloadable Content Required"
 "L4D360UI_MsgBx_KickedFromSessionDLCrequired"			"The host has selected a campaign that is provided with the Survival Pack.\nWould you like to download Survival Pack content from Xbox LIVE Marketplace?"
