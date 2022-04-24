@@ -1,6 +1,6 @@
 ﻿"lang" 
 { 
-"Language" "Vietnamese" 
+"Language" "vietnamese" 
 "Tokens" 
 { 
 "GameUI_ReverseMouse" 		"Reverse mouse"

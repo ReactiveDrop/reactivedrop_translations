@@ -1,6 +1,6 @@
 ﻿"lang"
 {
-"Language"	"korean"
+"Language"	"koreana"
 "Tokens"
 {
 "GameUI_ReverseMouse"	"마우스 반전"

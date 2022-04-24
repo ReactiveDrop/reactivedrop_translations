@@ -1,6 +1,6 @@
 ﻿"lang"
 {
-"Language" "Vietnamese"
+"Language" "vietnamese"
 "Tokens"
 {
 "chat_filterbutton" "Bộ lọc"

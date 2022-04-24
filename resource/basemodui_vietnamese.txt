@@ -1,6 +1,6 @@
 ﻿"lang" 
 { 
-"Language" "Vietnamese" 
+"Language" "vietnamese" 
 "Tokens" 
 { 
 "L4D360UI_AudioVideo"				"Âm thanh/Hình ảnh"

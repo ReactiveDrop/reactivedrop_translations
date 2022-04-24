@@ -1,6 +1,6 @@
 ﻿"lang"
 {
-"Language"	"schinese"
+"Language"	"tchinese"
 "Tokens"
 {
 "L4D360UI_AudioVideo"	"音频/视频"

@@ -1,6 +1,6 @@
 ﻿"lang"
 {
-"Language" "Spanish"
+"Language" "spanish"
 "Tokens"
 {
 "chat_filterbutton" "Filtros"
