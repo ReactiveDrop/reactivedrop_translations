@@ -369,10 +369,10 @@
 "[english]Valve_Hint_Command_send"	"%impulse 50% SEND YOUR SQUAD TO A LOCATION"
 "Valve_Hint_Command_recall"	"%Impuls 50% ZWEIMAL, um deine Truppe zurückzurufen"
 "[english]Valve_Hint_Command_recall"	"%impulse 50% TWICE TO RECALL YOUR SQUAD"
-"Valve_Hint_CraneKeys"	"%+vorwärts% ARM AUSFAHREN %+rückwärts% ARM ZURÜCKZIEHEN %+moveleft% LINKS WENDEN %+moveright% RECHTS WENDEN %+attack% OBJEKT AUFHEBEN ODER ABWERFEN" [$WIN32]
-"[english]Valve_Hint_CraneKeys"	"%+forward% EXTEND ARM %+back% RETRACT ARM %+moveleft% TURN LEFT %+moveright% TURN RIGHT %+attack% PICKUP OR DROP OBJECT" [$WIN32]
-"Valve_Hint_BoatKeys"	"%+forward% SCHNELLER %+back% LANGSAMER %+moveleft% LINKS %+moveright% RECHTS" [$WIN32]
-"[english]Valve_Hint_BoatKeys"	"%+forward% SPEED UP %+back% SLOW DOWN %+moveleft% TURN LEFT %+moveright% TURN RIGHT" [$WIN32]
+"Valve_Hint_CraneKeys"	"%+vorwärts% ARM AUSFAHREN %+rückwärts% ARM ZURÜCKZIEHEN %+moveleft% LINKS WENDEN %+moveright% RECHTS WENDEN %+attack% OBJEKT AUFHEBEN ODER ABWERFEN"
+"[english]Valve_Hint_CraneKeys"	"%+forward% EXTEND ARM %+back% RETRACT ARM %+moveleft% TURN LEFT %+moveright% TURN RIGHT %+attack% PICKUP OR DROP OBJECT"
+"Valve_Hint_BoatKeys"	"%+forward% SCHNELLER %+back% LANGSAMER %+moveleft% LINKS %+moveright% RECHTS"
+"[english]Valve_Hint_BoatKeys"	"%+forward% SPEED UP %+back% SLOW DOWN %+moveleft% TURN LEFT %+moveright% TURN RIGHT"
 "Valve_Hint_JeepKeys"	"%+Geschwindigkeit% TURBO %+Sprung% HANDBREMSE"
 "[english]Valve_Hint_JeepKeys"	"%+speed% TURBO %+jump% HANDBRAKE"
 "Valve_Hint_JeepTurbo"	"%+Geschwindigkeit% TURBO"
@@ -399,8 +399,6 @@
 "[english]Valve_Hint_Interact"	"%+use% INTERACT"
 "Valve_Hint_Jump"	"%+jump% SPRINGEN"
 "[english]Valve_Hint_Jump"	"%+jump% JUMP"
-"Valve_Hint_Movement"	"%xmove% ZUM BEWEGEN %xlook% ZUM UMSCHAUEN" [$X360]
-"[english]Valve_Hint_Movement"	"%xmove% TO MOVE %xlook% TO LOOK" [$X360]
 "Valve_Hint_Door"	"%+benutzen% TÜR ÖFFNEN"
 "[english]Valve_Hint_Door"	"%+use% OPEN DOOR"
 "Valve_Hint_Sprint"	"%+Geschwindigkeit% SPRINTEN"
@@ -533,8 +531,8 @@
 "[english]game_player_connecting"	"Player %s1 is connecting"
 "game_player_joined_game"	"Spieler %s1 ist dem Spiel beigetreten"
 "[english]game_player_joined_game"	"Player %s1 has joined the game"
-"game_player_left_game"	"Spieler %s1 hat das Spiel verlassen (%s2)" [$WIN32]
-"[english]game_player_left_game"	"Player %s1 left the game (%s2)" [$WIN32]
+"game_player_left_game"	"Spieler %s1 hat das Spiel verlassen (%s2)"
+"[english]game_player_left_game"	"Player %s1 left the game (%s2)"
 "game_player_joined_team"	"Spieler %s1 ist dem Team %s2 beigetreten"
 "[english]game_player_joined_team"	"Player %s1 joined team %s2"
 "game_player_joined_autoteam"	"Spieler %s1 wurde automatisch dem Team %s2 zugewiesen"
