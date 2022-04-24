@@ -54,7 +54,7 @@ var languageFiles = [...]string{
 	"../resource/closecaption",
 	"../resource/gameui",
 	"../resource/reactivedrop",
-	//"../resource/statsweb",
+	"../resource/statsweb",
 	"../resource/valve",
 }
 
