@@ -154,5 +154,17 @@
 "StatsWeb_PreviousCampaigns"		"Previous Campaigns"
 "StatsWeb_NextCampaigns"		"More Campaigns"
 "StatsWeb_ByAuthor"		"by %s"
+"StatsWeb_ShortNum_Thousand0"		"%dk"
+"StatsWeb_ShortNum_Thousand1"		"%d.%dk"
+"StatsWeb_ShortNum_Million0"		"%dM"
+"StatsWeb_ShortNum_Million1"		"%d.%dM"
+"StatsWeb_ShortNum_Billion0"		"%dG"
+"StatsWeb_ShortNum_Billion1"		"%d.%dG"
+"StatsWeb_ShortNum_Trillion0"		"%dT"
+"StatsWeb_ShortNum_Trillion1"		"%d.%dT"
+"StatsWeb_ShortNum_Quadrillion0"		"%dP"
+"StatsWeb_ShortNum_Quadrillion1"		"%d.%dP"
+"StatsWeb_ShortNum_Quintillion0"		"%dE"
+"StatsWeb_ShortNum_Quintillion1"		"%d.%dE"
 }
 }
