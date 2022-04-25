@@ -4,7 +4,7 @@ Kooperativer Top-Down Shooter. Eine epische Alienjagd mit einer einzigartigen Mi
 
 About This Game:
 
-Alien Swarm: Reactive Drop ist eine alleinstehende Erweiterung von Alien Swarm, mit einfach mehr von Allem: Karten, Aliens, Spielmodi, Waffen... und am allerwichtigsten: Steam Workshop Unterstützung um es durch die Community unendlich erweitern zu können.
+Alien Swarm: Reactive Drop ist eine alleinstehende Erweiterung von Alien Swarm, mit einfach mehr von allem: Karten, Aliens, Spielmodi, Waffen... und am allerwichtigsten: Steam Workshop Unterstützung um es durch die Community unendlich erweitern zu können.
 
 [list]
 [*]Taktischer Koop-Modus für bis zu 8 Spieler aus der Top-Down-Perspektive
