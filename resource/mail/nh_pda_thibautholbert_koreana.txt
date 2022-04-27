@@ -1,0 +1,14 @@
+GAME
+{
+    // PDA belongs to Private First Class Thibaut Holbert
+    
+    // Sent mail
+
+	"MailFrom3"     "수신자: 아서 캐러딘 대위"
+	"MailDate3"		"날짜: 03/31/43"
+	"MailSubject3"	"주제: 지원 요청"
+	"MailBody3A"	"대위"
+	"MailBody3B"	"괴물들이 모든 코너마다 들끓습니다. 부대가 캔턴 V 에서 압도당했습니다."
+	"MailBody3C"	"통신은 먹통. 전원은 차단됨. 불빛조차 없습니다"
+	"MailBody3D"	"즉시 지원을 요청합니다. 놈들이 지금--"
+}
