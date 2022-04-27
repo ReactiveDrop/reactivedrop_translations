@@ -211,7 +211,7 @@
 "[english]StatsWeb_WeaponStat_Kills"		"Kills"
 "StatsWeb_WeaponStat_ShotsFired"		"Colpi Sparati"
 "[english]StatsWeb_WeaponStat_ShotsFired"		"Shots Fired"
-"StatsWeb_WeaponStat_ShotsHit"		"Colpi A Segno"
+"StatsWeb_WeaponStat_ShotsHit"		"Colpi a Segno"
 "[english]StatsWeb_WeaponStat_ShotsHit"		"Shots Hit"
 "StatsWeb_WeaponStat_Accuracy"		"Precisione"
 "[english]StatsWeb_WeaponStat_Accuracy"		"Accuracy"
