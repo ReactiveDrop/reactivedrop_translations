@@ -297,7 +297,7 @@
 "[english]StatsWeb_LoadoutWeapon1"		"Secondary Weapon: %s"
 "StatsWeb_LoadoutWeapon2"		"Arma Extra: %s"
 "[english]StatsWeb_LoadoutWeapon2"		"Extra Weapon: %s"
-"StatsWeb_MarineCountDesc"		"C'erano %d marine in questa missione."
+"StatsWeb_MarineCountDesc"		"A questa missione hanno partecipato %d marine."
 "[english]StatsWeb_MarineCountDesc"		"There were %d marines on this mission."
 "StatsWeb_PreviousCampaigns"		"Campagne Precedenti"
 "[english]StatsWeb_PreviousCampaigns"		"Previous Campaigns"
