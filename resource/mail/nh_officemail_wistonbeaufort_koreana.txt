@@ -1,0 +1,14 @@
+GAME
+{
+    // Computer belongs to Chief Surgeon Wiston Beaufort
+    
+    // Sent messages
+
+	"MailFrom3"     "수신자: 자크 모로 박사"
+	"MailDate3"		"날짜: 05/18/42"
+	"MailSubject3"	"주제: Arthur Carradine’s brain surgery"
+	"MailBody3A"	"Dear sir,"
+	"MailBody3B"    "Captain Carradine’s amygdalohippocampectomy went without trouble."
+	"MailBody3C"    "Although the patient himself had requested for his amygdalae to be removed, it is my understanding that you have personally consented to the procedure. For this particular reason I feel compelled in warning you about the nature of the surgery we just undertook, and the repercussions it is bound to cause on the patient’s limbic system; mainly speaking, his altered reaction (or rather, lack thereof) to situations normally inciting fear, angst or aggressivity. Please be aware that there are relevant reasons as to why this surgical procedure had not been performed in centuries of medicine, and even then pertained only to the most severe of cases."
+	"MailBody3D"    "Cordially."
+}
