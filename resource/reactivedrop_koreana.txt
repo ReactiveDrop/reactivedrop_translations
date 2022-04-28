@@ -5779,5 +5779,17 @@
 "[english]rd_mission_desc_rd-tft3spaceport"		"The squad has reached the spaceport and must now ensure that Cerberus is able to land."
 "rd_mission_brief_rd-tft3spaceport"		"분대는 우주 정거장에 도착했고 이제 세르베루스가 착륙할 수 있는지 확인해야 합니다."
 "[english]rd_mission_brief_rd-tft3spaceport"		"The squad has reached the spaceport and must now ensure that Cerberus is able to land."
+		"rd_iaf_rank_score"		"Score"
+		"[english]rd_iaf_rank_score"		"Score"
+		"rd_iaf_rank_kills"		"Eliminations"
+		"[english]rd_iaf_rank_kills"		"Eliminations"
+		"rd_iaf_rank_teamkills"		"Team Kills"
+		"[english]rd_iaf_rank_teamkills"		"Team Kills"
+		"rd_iaf_rank_missionsuccess"		"Mis. Success"
+		"[english]rd_iaf_rank_missionsuccess"		"Mis. Success"
+		"rd_iaf_rank_missionfails"		"Mis. Fail"
+		"[english]rd_iaf_rank_missionfails"		"Mis. Fail"
+		"rd_iaf_rank_missiontotal"		"Mis. Total"
+		"[english]rd_iaf_rank_missiontotal"		"Mis. Total"
 }
 }
