@@ -78,6 +78,11 @@ func main() {
 
 		fmt.Println()
 	}
+
+	updateAchievements(sourceLanguage)
+	for _, lang := range derivedLanguages {
+		updateAchievements(lang)
+	}
 }
 
 func readBOM(r io.Reader) error {
@@ -343,4 +348,48 @@ func updateLanguageFile(source *vdf.KeyValues, prefix, lang string) (upToDate, t
 	}
 
 	return
+}
+
+func updateAchievements(lang string) {
+	kv, err := loadVDF("../resource/reactivedrop_" + lang + ".txt")
+	if err != nil {
+		panic(err)
+	}
+
+	f, err := os.Create("../achievements/563560_loc_" + lang + ".vdf")
+	if err != nil {
+		panic(err)
+	}
+	defer f.Close()
+
+	tokens := kv.FindKey("Tokens")
+
+	f.WriteString("\"lang\"\n{\n\t\"Language\"\t\"")
+	vdf.Escape.WriteString(f, lang)
+	f.WriteString("\"\n\t\"Tokens\"\n\t{\n")
+
+	for _, a := range achievements {
+		aName := tokens.FindKey(a.apiName + "_NAME").Value
+		aDesc := tokens.FindKey(a.apiName + "_DESC").Value
+		origName, origDesc := "", ""
+		if lang != sourceLanguage {
+			origName = tokens.FindKey(languagePrefix + a.apiName + "_NAME").Value
+			origDesc = tokens.FindKey(languagePrefix + a.apiName + "_DESC").Value
+		}
+
+		fmt.Fprintf(f, "\t\t\"NEW_ACHIEVEMENT_%d_%d_NAME\"\t\"", a.id, a.bit)
+		if origName == aName && origDesc == aDesc {
+			f.WriteString("\" //\"")
+		}
+		vdf.Escape.WriteString(f, aName)
+
+		fmt.Fprintf(f, "\"\n\t\t\"NEW_ACHIEVEMENT_%d_%d_DESC\"\t\"", a.id, a.bit)
+		if origName == aName && origDesc == aDesc {
+			f.WriteString("\" //\"")
+		}
+		vdf.Escape.WriteString(f, aDesc)
+		f.WriteString("\"\n")
+	}
+
+	f.WriteString("\t}\n}\n")
 }
