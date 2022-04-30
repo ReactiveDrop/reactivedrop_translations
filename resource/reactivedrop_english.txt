@@ -285,6 +285,7 @@
 "asw_objectives"	" Objectives"
 "asw_objectives_list" "- OBJECTIVES -"
 "asw_objective_titlef" "%s1"
+"asw_objective_complete" "Objective complete!"
 
 "asw_weapon_tooltip_activate" "Left click to activate"
 "asw_weapon_tooltip_change" "Left click to change"
@@ -301,6 +302,10 @@
 
 "asw_no_ammo" "- NO AMMO -"
 "asw_low_ammo" "- LOW AMMO -"
+"asw_alert_infested" "- INFESTED -"
+"asw_alert_poisoned" "- POSIONED -"
+"asw_alert_reloading" "- RELOADING -"
+"asw_alert_ffguard" "- FRIENDLY FIRE GUARD -"
 
 "asw_weapon_null_line" ""
 "asw_weapon_empty" "Empty Handed"
