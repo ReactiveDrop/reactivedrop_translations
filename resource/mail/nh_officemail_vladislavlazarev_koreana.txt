@@ -4,19 +4,19 @@ GAME
     
     // Inbox
 
-	"MailFrom1"     "송신자: Vladislav Lazarev"
+	"MailFrom1"     "송신자: 블라디슬라프 라자레프"
 	"MailDate1"		"날짜: 07/01/42"
-	"MailSubject1"	"주제: Fresh assignment"
+	"MailSubject1"	"주제: 새 할당"
 	"MailBody1A"	"Riddle me this: what vaguely passes for a human but is actually a highly-advanced cyborg specifically programmed by SynTek to make all our lives miserable? If your answer was “that motherf*cker Carradine”, you win a pickle. No, not really. They went extinct decades ago, sorry to say."
 	"MailBody1B"	"Ah, but I’m sure you must be dying to hear what your new mission entails. It is of the utmost importance so pray, hear me... Cap’ wants the colonial adage framed at least once in every room Lugdunum. Yep, that’s it. Weird cult shit, huh? Don’t complain, ‘cause chain of commands won’t budge on my account. At least you got your weekly schedule worked out for you. Careful of not covering any ventilation shafts tho, could lead to fires. Don’t ask me how either."
-	"MailBody1C"	"'Nam Humanum'... Think that’s even legit Latin?"
+	"MailBody1C"	"'남 휴머니움'... Think that’s even legit Latin?"
 
 
     // Sent mail
 
-	"MailFrom3"     "수신자: Tom Asselin"
+	"MailFrom3"     "수신자: 톰 애슬린"
 	"MailDate3"		"날짜: 07/02/42"
-	"MailSubject3"	"주제: 답장: Fresh assignment"
+	"MailSubject3"	"주제: 답장: 새 할당"
 	"MailBody3A"	"Never mind their lame-ass motto. As if it wasn’t humiliating enough stationing me here. I haven’t suffered through my bioastronautics classes to end up playing decorator."
 	"MailBody3B"	"I’ll sit right here and stay the unproductive member of society that they think I am, thank you very much. What are they gonna do, sue me? We’re literally a dubious scientific expedition with no legal resort or court of law."
 }

@@ -6,29 +6,29 @@ GAME
     
 	"MailFrom1"		"송신자: 조나단 돌랜드"
 	"MailDate1"     "날짜: 02/13/42"
-	"MailSubject1"	"주제: Dr. Moreau?"
+	"MailSubject1"	"주제:모로 박사?"
 	"MailBody1A"	"Doc, this is the third shipment of spores we’re being “asked” to transfer to Dr. Moreau’s labs. The third one. Dunno about you, but I had figured something as significant as the discovery of an indigenous lifeform would at LEAST be the board’s concern as well. A whole lot of smoke going on, and nobody’s even looking for the fire?"
 	"MailBody1B"	"Come on Lin. You’ve been second in charge ever since his wife died. Now’s the time to put some of that earning to use. Just this once, if never again."
 
 	"MailFrom2"		"송신자: 조나단 돌랜드"
 	"MailDate2"     "날짜: 02/14/46"
-	"MailSubject2"	"주제: 답장: 답장: Dr. Moreau?"
+	"MailSubject2"	"주제: 답장: 답장:모로 박사?"
 	"MailBody2A"	"Aye, pretty clear indeed, Doctor Da Silva."
-	"MailBody2B"	"Nam Humanum :)"
+	"MailBody2B"	"남 휴머니움 :)"
 
     // Sent mail
     
 	"MailFrom3"     "수신자: 조나단 돌랜드"
 	"MailDate3"		"날짜: 02/13/42"
-	"MailSubject3"	"주제: 답장: Dr. Moreau?"
+	"MailSubject3"	"주제: 답장:모로 박사?"
 	"MailBody3A"	"Please read with care, Jonathan."
 	"MailBody3B"	"You do not get to call me by my first name, let alone think you can get all familiar with me. Let’s keep this relationship strictly professional, unless perhaps you are in need of a small reminder about some New Havre’s rat hole? Which hole I wonder, crawling inside it some lowly felon who would have thrown its sorry existence on a cargo ship had a stupid girl with too much kindness not stretched him an open hand."
 	"MailBody3C"	"Think of this as my wild card, Johnny, or however else you like. Dr. Moreau is in charge of all decisions regarding research. Given you’re only an assistant here, that’s all you need to know. So do try and stay in your depth, “just this once”."
 	"MailBody3D"	"Hoping things are cleared out for you?"
 	
-	"MailFrom4"     "수신자: Lt. Gael Florenza"
+	"MailFrom4"     "수신자: 게일 플로렌자 중위"
 	"MailDate4"		"날짜: 01/01/43"
-	"MailSubject4"	"주제: (Empty)"
+	"MailSubject4"	"주제: (없음)"
 	"MailBody4A"	"If you can put an end to this then yes, I will make sure your access to the labs is clear."
 	"MailBody4B"	"Delete every trace of this conversation, and pray there isn’t already a Big Brother to pry at both our doors."
 }

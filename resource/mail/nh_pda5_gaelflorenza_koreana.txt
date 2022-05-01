@@ -4,19 +4,19 @@ GAME
     
     // Sent mail
 
-	"MailFrom3"     "수신자: Iris Florenza"
+	"MailFrom3"     "수신자: 아이리스 플로렌자"
 	"MailDate3"		"날짜: 06/25/42"
-	"MailSubject3"	"주제: Strange events"
-	"MailBody3A"	"Dear love,"
-	"MailBody3B"    "Strange things are happening in Lugdunum. It’s not my wish to make you worry, but translating my state of mind into letters feels somewhat therapeutic."
-	"MailBody3C"    "I don’t know how, but settlers are simply vanishing. Sarah, the most recent of them, is a young sergeant recently assigned to my unit. A serious cavalier attitude to that one, but never so much as to vanish this way out of the blue...not mentioning the whole logistics behind this stupid idea. Cpt. Carradine says he takes the problem very seriously, but I’ve yet to hear him come up with a concrete plan. If someone is kidnapping people inside the colony, shouldn’t we be surveying the area and/or conducting residence searches? Dr. Moreau, for his part, seems solely focused on his research about that cave we found 6 months past. Only the scientific teams are still in contact with his laboratory, and even then his close staff seems to have been reduced by more than half. Today of all days, I do wish Miss Helen would still be with us. She would have known better than to keep her own people in the dark."
-	"MailBody3D"    "Your loving husband."
+	"MailSubject3"	"주제: 이상한 사건"
+	"MailBody3A"	"내 사랑,"
+	"MailBody3B"    "루그두눔에서 이상한 일들이 일어나고 있어. 당신을 걱정하게 하고 싶지는 않지만, 내 마음을 글로 옮기는 것은 다소 치료적으로 느껴져."
+	"MailBody3C"    "어떻게 된 건지 모르겠지만, 정착민들은 그냥 사라지고 있어. 그들 중 가장 최근인 사라는 최근에 우리 부대에 배치된 젊은 하사야. 그런 거에 대한 진지한 거만한 태도, 하지만 이렇게 갑자기 사라지진 않을 만큼...이 멍청한 아이디어의 배후에 있는 모든 물류는 언급하지 않았어. 캐러딘 경사는 그 문제를 아주 심각하게 받아들인다고 하지만, 나는 아직 그가 구체적인 계획을 세우는 것을 듣지 못했어. 누군가 식민지 내에서 사람들을 납치하고 있다면, 우리는 그 지역을 조사하거나 거주지를 수색해야 하지 않을까? 모로 박사는 6개월 전에 발견한 동굴에 대한 연구에만 집중한 것 같아. 과학팀만 여전히 그의 연구소와 접촉하고 있고, 심지어 그때도 그의 측근 인력은 절반 이상 줄어든 것으로 보여. 하필이면 오늘, 헬렌 양이 우리와 함께 있었으면 좋겠어. 그녀는 자기 사람들을 비밀로 하는 것보다 더 잘 알았을 테니까."
+	"MailBody3D"    "당신의 사랑하는 남편."
 
-	"MailFrom4"     "수신자: Iris Florenza"
+	"MailFrom4"     "수신자: 아이리스 플로렌자"
 	"MailDate4"		"날짜: 11/14/42"
-	"MailSubject4"	"주제: Revelation"
+	"MailSubject4"	"주제: 폭로"
 	"MailBody4A"    "[송신 실패: 외부 통신 제한됨]"
-	"MailBody4B"	"Iris, it pains me to even think of sharing this news with you. Since day one, Dr. Moreau has been the one arranging the disappearances. He renounced his lies and cover-up as soon as it became clear that these so-called “volunteers” kept being sent to his labs with clear backing from Cpt. Carradine."
-	"MailBody4C"    "I don’t know what they’re doing with them. Some among the settlers are pressuring us custodians for the truth. I fear they can’t handle the truth...and perhaps neither can I. But since we’re the ones with guns, we get to decide whether or not they might show anything resembling a fight. Yesterday or the day before, a woman reached for my weapon in tears of anger...so I shot her. Every second since, I ask myself when or how we went about treating peers like mere cattle. I’ve had...strange dreams. About Helen Moreau. I can only hope that her husband is acting in favor of progress, for the wellbeing of all of us. An evil for a greater good, because I cannot accept it any other way."
-	"MailBody4D"    "Your husband, loving no matter what."
+	"MailBody4B"	"아이리스, 이 소식을 당신과 공유할 생각조차 하기 힘들어. 첫날부터 닥터 모로가 실종 사건을 주선해왔어. 그는 이른바 '자원봉사자'들이 카라딘 대장의 의 확실한 지원 아래 자신의 연구실로 계속 보내지고 있다는 사실이 확인되자마자 거짓말과 은폐를 포기했어."
+	"MailBody4C"    "나는 그들이 그들과 무엇을 하고 있는지 모르겠어. 정착민들 중 몇몇은 우리에게 진실을 밝히라고 압력을 가하고 있어. 진실을 처리하지 못할까 봐 걱정돼...아마 나도 못 하겠지. 하지만 우리는 총을 가진 사람들이기 때문에, 그들이 싸움과 비슷한 것을 보여줄지 말지를 결정할 수 있어. 어제나 그저께, 한 여자가 분노의 눈물을 흘리며 내 무기를 잡으려고 손을 뻗어서...그래서 그녀를 쐈어. 그 이후로 매초마다, 나는 우리가 언제, 어떻게 동료를 단순한 소처럼 대했는지 생각하고 있어. 나는...이상한 꿈을 꿨어. 헬렌 모로에 대한 거야. 나는 그녀의 남편이 우리 모두의 행복을 위해 진보를 위해 행동하기를 바랄 뿐이야, 더 큰 선을 위한 악이지 다른 방법으로는 받아들일 수 없거든."
+	"MailBody4D"    "무슨 일이 있어도 사랑하는, 당신의 남편."
 }
