@@ -4679,7 +4679,7 @@
 "[english]rd_ui_8_slots_tt"		"8 players can play on this server"
 "rd_ui_max_players"		"JOUEURS MAX"
 "[english]rd_ui_max_players"		"MAX PLAYERS"
-"asw_chat_died"		"%s1 a été tué en action!"
+"asw_chat_died"		"%s1 est mort au combat!"
 "[english]asw_chat_died"		"%s1 was killed in action!"
 		"rd_area9800LZ_ob_destroy"		"Sécuriser le hangar"
 		"[english]rd_area9800LZ_ob_destroy"		"Secure the hangar"
