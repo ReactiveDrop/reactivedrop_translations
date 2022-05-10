@@ -5931,6 +5931,8 @@
 "[english]RD_AdvancedSettings_HUD_NameUnderMarine_BothColor"		"Marine and Color Player Names"
 "RD_AdvancedSettings_HUD_ChatWipe"		"清除聊天记录"
 "[english]RD_AdvancedSettings_HUD_ChatWipe"		"Erase Chat Log"
+		"RD_AdvancedSettings_HUD_ChatColor"		"Default Chat Color"
+		"[english]RD_AdvancedSettings_HUD_ChatColor"		"Default Chat Color"
 "RD_AdvancedSettings_HUD_ColorNamesInChat"		"玩家名用角色特定颜色显示"
 "[english]RD_AdvancedSettings_HUD_ColorNamesInChat"		"Use Marine Color in Chat"
 "RD_AdvancedSettings_HUD_MarineLabelsDist"		"显示角色下面的状态条"

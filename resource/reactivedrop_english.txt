@@ -3106,6 +3106,7 @@
 "RD_AdvancedSettings_HUD_NameUnderMarine_Both" "Marine and Player Names"
 "RD_AdvancedSettings_HUD_NameUnderMarine_BothColor" "Marine and Color Player Names"
 "RD_AdvancedSettings_HUD_ChatWipe" "Erase Chat Log"
+"RD_AdvancedSettings_HUD_ChatColor" "Default Chat Color"
 "RD_AdvancedSettings_HUD_ColorNamesInChat" "Use Marine Color in Chat"
 "RD_AdvancedSettings_HUD_MarineLabelsDist" "Show Marine Bars"
 "RD_AdvancedSettings_HUD_MarineLabelsDist_Direct" "When Directly Targeting"
