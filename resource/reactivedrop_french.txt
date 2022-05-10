@@ -5931,6 +5931,8 @@
 "[english]RD_AdvancedSettings_HUD_NameUnderMarine_BothColor"		"Marine and Color Player Names"
 "RD_AdvancedSettings_HUD_ChatWipe"		"Efface le log du Chat"
 "[english]RD_AdvancedSettings_HUD_ChatWipe"		"Erase Chat Log"
+		"RD_AdvancedSettings_HUD_ChatColor"		"Default Chat Color"
+		"[english]RD_AdvancedSettings_HUD_ChatColor"		"Default Chat Color"
 "RD_AdvancedSettings_HUD_ColorNamesInChat"		"Utilise la couleur du Marine dans le Chat"
 "[english]RD_AdvancedSettings_HUD_ColorNamesInChat"		"Use Marine Color in Chat"
 "RD_AdvancedSettings_HUD_MarineLabelsDist"		"Montre la Barre sous le Marine"
