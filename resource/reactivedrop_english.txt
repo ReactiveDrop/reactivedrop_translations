@@ -3173,5 +3173,17 @@
 "RD_AdvancedSettings_Misc_WireHackClick_RightRev" "Right Button Rotates Back"
 "RD_AdvancedSettings_Misc_WireHackClick_LeftRev" "Left Button Rotates Back"
 "RD_AdvancedSettings_Misc_StreamlinedWeaponChooser" "Streamlined Weapon Chooser"
+"RD_AdvancedSettings_Misc_Interpolation" "Network Interpolation"
+"RD_AdvancedSettings_Misc_Interpolation_Lowest" "Lowest Possible"
+"RD_AdvancedSettings_Misc_Interpolation_25ms" "25ms"
+"RD_AdvancedSettings_Misc_Interpolation_50ms" "50ms"
+"RD_AdvancedSettings_Misc_Interpolation_100ms" "100ms"
+"RD_AdvancedSettings_Misc_Interpolation_250ms" "250ms"
+"RD_AdvancedSettings_Misc_Interpolation_500ms" "500ms"
+"RD_AdvancedSettings_Misc_DeathCamSlowdown" "Death Cam Slowdown (When Hosting)"
+"RD_AdvancedSettings_Misc_CameraRotation" "Camera Rotation (When Hosting)"
+"RD_AdvancedSettings_Misc_CameraRotation_MapperDefined" "Use Per-Map Setting"
+"RD_AdvancedSettings_Misc_CameraRotation_Never" "Never"
+"RD_AdvancedSettings_Misc_CameraRotation_Always" "Always"
 }
 }
