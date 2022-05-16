@@ -6085,5 +6085,11 @@
 		"[english]RD_AdvancedSettings_Misc_CameraRotation_Never"		"Never"
 		"RD_AdvancedSettings_Misc_CameraRotation_Always"		"Always"
 		"[english]RD_AdvancedSettings_Misc_CameraRotation_Always"		"Always"
+		"rd_workshop_find_new_campaign"		"Find New Campaigns"
+		"[english]rd_workshop_find_new_campaign"		"Find New Campaigns"
+		"rd_workshop_find_new_bonus_mission"		"Find New Bonus Missions"
+		"[english]rd_workshop_find_new_bonus_mission"		"Find New Bonus Missions"
+		"rd_workshop_find_new_deathmatch"		"Find New Deathmatch Maps"
+		"[english]rd_workshop_find_new_deathmatch"		"Find New Deathmatch Maps"
 }
 }
