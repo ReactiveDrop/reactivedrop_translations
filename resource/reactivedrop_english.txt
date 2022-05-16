@@ -3188,5 +3188,9 @@
 "RD_AdvancedSettings_Misc_CameraRotation_MapperDefined" "Use Per-Map Setting"
 "RD_AdvancedSettings_Misc_CameraRotation_Never" "Never"
 "RD_AdvancedSettings_Misc_CameraRotation_Always" "Always"
+
+"rd_workshop_find_new_campaign" "Find New Campaigns"
+"rd_workshop_find_new_bonus_mission" "Find New Bonus Missions"
+"rd_workshop_find_new_deathmatch" "Find New Deathmatch Maps"
 }
 }
