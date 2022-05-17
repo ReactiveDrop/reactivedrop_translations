@@ -194,6 +194,7 @@
 "asw_start_campaign"	"Start New Campaign"
 "asw_load_campaign"		"Load Saved Campaign"
 "asw_single_mission"	"Single Mission"
+"rd_endless_missions"	"Endless Missions"
 "asw_youhavenomarines"	"Select marines from the ROSTER to join this mission."
 "asw_revive_marines" "Revive Marines"
 "asw_revive_warning" "Reviving dead marines is a costly process for the IAF and will be a permanent negative mark on your record.  Are you sure you wish to authorize the procedure?"
@@ -3189,8 +3190,9 @@
 "RD_AdvancedSettings_Misc_CameraRotation_Never" "Never"
 "RD_AdvancedSettings_Misc_CameraRotation_Always" "Always"
 
-"rd_workshop_find_new_campaign" "Find New Campaigns"
-"rd_workshop_find_new_bonus_mission" "Find New Bonus Missions"
-"rd_workshop_find_new_deathmatch" "Find New Deathmatch Maps"
+"rd_workshop_find_new_campaign" "More Campaigns"
+"rd_workshop_find_new_bonus_mission" "More Bonus Missions"
+"rd_workshop_find_new_deathmatch" "More Deathmatch Maps"
+"rd_workshop_find_new_endless" "More Endless Missions"
 }
 }
