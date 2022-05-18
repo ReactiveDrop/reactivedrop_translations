@@ -373,6 +373,8 @@
 "[english]asw_load_campaign"		"Load Saved Campaign"
 "asw_single_mission"		"Самітна місія"
 "[english]asw_single_mission"		"Single Mission"
+		"rd_endless_missions"		"Endless Missions"
+		"[english]rd_endless_missions"		"Endless Missions"
 "asw_youhavenomarines"		"Оберіть десантників зі СКЛАДУ для участі у цій місії."
 "[english]asw_youhavenomarines"		"Select marines from the ROSTER to join this mission."
 "asw_revive_marines"		"Оживити десантників"
@@ -6085,5 +6087,13 @@
 		"[english]RD_AdvancedSettings_Misc_CameraRotation_Never"		"Never"
 		"RD_AdvancedSettings_Misc_CameraRotation_Always"		"Always"
 		"[english]RD_AdvancedSettings_Misc_CameraRotation_Always"		"Always"
+		"rd_workshop_find_new_campaign"		"More Campaigns"
+		"[english]rd_workshop_find_new_campaign"		"More Campaigns"
+		"rd_workshop_find_new_bonus_mission"		"More Bonus Missions"
+		"[english]rd_workshop_find_new_bonus_mission"		"More Bonus Missions"
+		"rd_workshop_find_new_deathmatch"		"More Deathmatch Maps"
+		"[english]rd_workshop_find_new_deathmatch"		"More Deathmatch Maps"
+		"rd_workshop_find_new_endless"		"More Endless Missions"
+		"[english]rd_workshop_find_new_endless"		"More Endless Missions"
 }
 }
