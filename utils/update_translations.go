@@ -287,9 +287,9 @@ func updateLanguageFile(source *vdf.KeyValues, prefix, lang string) (upToDate, t
 
 	var buf bytes.Buffer
 
-	buf.WriteString("\ufeff\"lang\"\n{\n\"Language\"\t\t\"")
+	buf.WriteString("\ufeff\"lang\"\r\n{\r\n\"Language\"\t\t\"")
 	vdf.Escape.WriteString(&buf, lang)
-	buf.WriteString("\"\n\"Tokens\"\n{\n")
+	buf.WriteString("\"\r\n\"Tokens\"\r\n{\r\n")
 
 	for c := source.FindKey("Tokens").FirstValue(); c != nil; c = c.NextValue() {
 		if c.Cond != "" {
@@ -326,7 +326,7 @@ func updateLanguageFile(source *vdf.KeyValues, prefix, lang string) (upToDate, t
 		vdf.Escape.WriteString(&buf, c.Key)
 		buf.WriteString("\"\t\t\"")
 		vdf.Escape.WriteString(&buf, x.translated)
-		buf.WriteString("\"\n")
+		buf.WriteString("\"\r\n")
 
 		if x.indent {
 			buf.WriteString("\t\t")
@@ -340,7 +340,7 @@ func updateLanguageFile(source *vdf.KeyValues, prefix, lang string) (upToDate, t
 		buf.WriteString("\"\n")
 	}
 
-	buf.WriteString("}\n}\n")
+	buf.WriteString("}\r\n}\r\n")
 
 	err = os.WriteFile(filename, buf.Bytes(), 0644)
 	if err != nil {
