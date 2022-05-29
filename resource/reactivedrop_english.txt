@@ -3227,5 +3227,7 @@
 "rd_radial_use_extra_Wolfe" "Wolfe: Use %s1"
 "rd_radial_use_extra_Bastille" "Bastille: Use %s1"
 "rd_radial_use_extra_Vegas" "Vegas: Use %s1"
+
+"rd_xp_bonus_anniversary" "Anniversary Week Bonus"
 }
 }
