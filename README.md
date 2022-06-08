@@ -10,6 +10,7 @@ This repository contains all the files required to translate [Alien Swarm: React
 
 ### Directory structure ###
 * achievements: Steam Achievement descriptions which will be shown on Steams website.
+* community: Steam Community (workshop, inventory, points shop) translations.
 * platform: Translations for generic source-engine UI ingame eg. the server browser.
 * resource: Game localization files. These are UTF-8 encoded, whereas the files in `Alien Swarm Reactive Drop\reactivedrop\resource` are UTF-16LE encoded.
 * rich_presence: Online status messages in Steams Friends List.
@@ -38,10 +39,14 @@ Translate the contents of this file similarly to how 563560_loc_ukrainian.vdf is
 > **Tip:** Most of achievements are same with Alien Swarm and they were already translated. You can find the translated achievements into for example reactivedrop_ukrainian.txt starting at ASW_KILL_WITHOUT_FRIENDLY_FIRE_NAME.
 ### Mail and News
 Create a copy of each mail and news file and rename it to your language sufix(e.g. labsmail1_russian.txt). Translate the contents of each file. See labsmail1_russian.txt as an example.
-### BaseModUi, CloseCaption, GameUi, ReactiveDrop
+### BaseModUi, CloseCaption, GameUi, ReactiveDrop, and Community VDF files
 In these files(e.g. basemodui_czech.txt) the untranslated strings are indented by two tabs to be easily visible. Translate each indented line and remove the two tabs in front of it.
-### How to test your translation before submitting it ###
+### Workshop
+Create a copy of the English file and rename it to your language suffix (e.g. workshop_tags_schinese.json). Translate the contents of the file. In JSON files, only translate text on the right side of the `:`.
+### Item Schema
+Copy the lines with `_english` for your language. Try to keep each block of translations in alphabetical order by language. If there are words between `%percent_signs%`, leave them as-is (they are replaced with numbers by the game client). Don't change any lines that aren't labelled with a language.
+### How to test your translation before submitting it
 * Go into Steam - Library - Alien Swarm: Reactive Drop, right click and choose Properties. In the Language tab select the language you are translating into.
-* Copy your files into respective folders in C:\Program Files (x86)\Steam\steamapps\common\Alien Swarm Reactive Drop
-### Got Questions? ###
-Feel free to ask them [here](https://steamcommunity.com/app/563560/discussions/1/). Prefix your question with [Translation] tag.
+* Copy your files into respective folders in `C:\Program Files (x86)\Steam\steamapps\common\Alien Swarm Reactive Drop\resource`
+### Got Questions?
+Feel free to ask them [on the Reactive Drop forum](https://steamcommunity.com/app/563560/discussions/1/).
