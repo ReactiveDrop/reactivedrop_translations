@@ -1,0 +1,48 @@
+{
+	"appid": 563560,
+	"items": [
+		{
+			"itemdefid": 1,
+			"type": "item",
+			"name_english": "Participant - Heroes of the Interstellar Armed Forces",
+			"before_description_english": "Finished Season %season% in rank #%rank% with a score of %score%.",
+			"description_english": "Medal awarded to those who participated in a season of Heroes of the Interstellar Armed Forces.",
+			"after_description_english": "Aliens Killed: %alien_kills%\nTeam Kills: %player_kills%\nSuccessful Missions: %games_won%\nFailed Missions: %games_lost%",
+			"display_type_english": "Medal",
+			"icon_url": "https://stats.reactivedrop.com/static/medals/hoiaf_participant.png",
+			"tradable": false,
+			"marketable": false,
+			"tags": "rarity:uncommon",
+			"item_slot": "medal"
+		},
+		{
+			"itemdefid": 2,
+			"type": "item",
+			"name_english": "Elite - Heroes of the Interstellar Armed Forces",
+			"before_description_english": "Finished Season %season% in rank #%rank% with a score of %score%.",
+			"description_english": "Medal awarded to those who finished a season of Heroes of the Interstellar Armed Forces in the top 100.",
+			"after_description_english": "Aliens Killed: %alien_kills%\nTeam Kills: %player_kills%\nSuccessful Missions: %games_won%\nFailed Missions: %games_lost%",
+			"display_type_english": "Medal",
+			"icon_url": "https://stats.reactivedrop.com/static/medals/hoiaf_elite.png",
+			"tradable": false,
+			"marketable": false,
+			"tags": "rarity:rare",
+			"item_slot": "medal"
+		},
+		{
+			"itemdefid": 3,
+			"type": "item",
+			"name_english": "Trick Hat",
+			"before_description_english": "",
+			"description_english": "The trick is, this isn't a hat or a medal. It's a commemorative sticker.",
+			"after_description_english": "Complete the Ready For Duty achievement in Team Fortress 2 to unlock.",
+			"display_type_english": "Medal…?",
+			"icon_url": "https://stats.reactivedrop.com/static/medals/trick_hat.png",
+			"tradable": false,
+			"marketable": false,
+			"tags": "rarity:common",
+			"promo": "ach:TF_COMPLETE_TRAINING/440",
+			"item_slot": "medal"
+		}
+	]
+}
