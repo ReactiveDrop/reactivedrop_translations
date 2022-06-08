@@ -48,41 +48,52 @@ var derivedLanguages = [...]string{
 	"vietnamese",
 }
 
-var languageFiles = [...]string{
+var txtLanguageFiles = [...]string{
 	"../resource/basemodui",
 	"../resource/chat",
 	"../resource/closecaption",
 	"../resource/gameui",
 	"../resource/reactivedrop",
-	"../resource/statsweb",
 	"../resource/valve",
 }
 
+var vdfLanguageFiles = [...]string{
+	"../community/points_shop",
+	"../community/statsweb",
+}
+
 func main() {
-	for _, prefix := range languageFiles {
-		fmt.Printf("%s:\n", prefix)
-
-		base, err := loadVDF(prefix + "_" + sourceLanguage + ".txt")
-		if err != nil {
-			panic(err)
-		}
-
-		for _, lang := range derivedLanguages {
-			fmt.Printf("  %10s: ", lang)
-
-			upToDate, total := updateLanguageFile(base, prefix, lang)
-			percent := float64(upToDate) / float64(total) * 100
-
-			fmt.Printf("% 7.3f%%\n", percent)
-		}
-
-		fmt.Println()
+	for _, prefix := range txtLanguageFiles {
+		syncTranslations(prefix, ".txt")
+	}
+	for _, prefix := range vdfLanguageFiles {
+		syncTranslations(prefix, ".vdf")
 	}
 
 	updateAchievements(sourceLanguage)
 	for _, lang := range derivedLanguages {
 		updateAchievements(lang)
 	}
+}
+
+func syncTranslations(prefix, suffix string) {
+	fmt.Printf("%s:\n", prefix)
+
+	base, err := loadVDF(prefix + "_" + sourceLanguage + suffix)
+	if err != nil {
+		panic(err)
+	}
+
+	for _, lang := range derivedLanguages {
+		fmt.Printf("  %10s: ", lang)
+
+		upToDate, total := updateLanguageFile(base, prefix, lang, suffix)
+		percent := float64(upToDate) / float64(total) * 100
+
+		fmt.Printf("% 7.3f%%\n", percent)
+	}
+
+	fmt.Println()
 }
 
 func readBOM(r io.Reader) error {
@@ -275,8 +286,8 @@ func loadTranslatedStrings(filename, lang string) (map[string]translatedString, 
 	return m, nil
 }
 
-func updateLanguageFile(source *vdf.KeyValues, prefix, lang string) (upToDate, total int) {
-	filename := prefix + "_" + lang + ".txt"
+func updateLanguageFile(source *vdf.KeyValues, prefix, lang, suffix string) (upToDate, total int) {
+	filename := prefix + "_" + lang + suffix
 	dest, err := loadTranslatedStrings(filename, lang)
 	if errors.Is(err, os.ErrNotExist) {
 		err = nil
