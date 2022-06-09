@@ -1,0 +1,11 @@
+GAME
+{
+    // PDA belongs to Overseer Ross
+    
+    "MailFrom1"    "From: Commander Harold"
+    "MailDate1"    "Date: 2/2/54"
+    "MailSubject1"    "Subject: Reports"
+    "MailBody1A"    "I've got your reports here Ross,"
+    "MailBody1B"    "Are you sure what you're telling me is right? because if it isnt it won't bode well for you"
+    "MailBody1c"    "On the other hand, if it is, We're all fucked, Harold Out"
+}

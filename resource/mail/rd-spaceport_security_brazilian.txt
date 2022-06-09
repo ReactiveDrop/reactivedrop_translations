@@ -1,0 +1,40 @@
+GAME
+{
+    // PDA belongs to Tony Dawson
+    
+    // inbox 
+
+	"MailFrom1"     "From: Barbara Whyte"
+	"MailDate1"     "Date: 06/10/57"
+	"MailSubject1"   "Subject: Re:Re: additional security"
+	"MailBody1A"     "Tony,"
+	"MailBody1B"     "Thank you for assigning the additional security personnel. Everyone was quite shaken after those guys tried to take their merchandise back by force, and the additional security is really helping people to feel more at ease."
+	"MailBody1C"     "I've also heard that Jenny's doing well and is expected to make a full recovery. Please let Adam know, he seemed quite worried about her."
+	"MailBody1D"     "Barbara Whyte - Cargo Storage Supervisor"
+
+	"MailFrom2"     "From: Andrew Smithson"
+	"MailDate2"     "Date: 04/10/57"
+	"MailSubject2"   "Subject: possible stowaway!"
+	"MailBody2A"     "Tony,"
+	"MailBody2B"     "Could you please send someone over to hangar 6, I think there might be something in the vents here. Perhaps a stowaway or something. Maybe someone's pet got free or something, cos I don't think it's a human I'm hearing."
+	"MailBody2C"     ""
+	"MailBody2D"     "Andrew Smithson - Spaceport Maintenance"
+
+   // sent mail
+	"MailFrom3"	"To: Barbara Whyte"
+	"MailDate3"	"Date: 06/10/57"
+	"MailSubject3"	"Subject: Confiscated item"
+	"MailBody3A"	"We've had an interesting find today. One of the passengers off of flight 320XYXF9A was attempting to get a mining laser into the colony in his hand luggage. We informed him that the proper procedures meant that all powered equipment and weapons had to be transferred in sealed containers and declared in advance."
+	"MailBody3B"	"I've told him which forms he needs to fill out to get it released back to him, he took it quite well overall. In the meantime I've locked it up in the security station's armoury. I think it's probably better we hang onto it. After that incident with the gunmen, I imagine your people will feel better if they don't have to handle a high-powered laser gun. I'll send you a full report later today so it's on your records."
+	"MailBody3C"	"Oh and I think Adam already knows about Jenny. He took the afternoon off so he could be there at the hospital. I'm guessing there's something going on between those two."
+	"MailBody3D"    "Tony Dawson - Spaceport Security"
+
+	"MailFrom4"     "From: Andrew Smithson"
+	"MailDate4"     "Date: 04/10/57"
+	"MailSubject4"   "Subject: Re:possible stowaway!"
+	"MailBody4A"     "Andrew for the last time, there's nothing in the vents! This is the 4th time you've cried wolf in the last month. Last week it was hangar 3, the week before it was fuel storage B. Everytime you send us on one of these wild goose chases we never find a single shred of evidence to say there's actually anything there. I'm fed up of sending my men crawling through ventillation systems just to satisfy your delusions."
+	"MailBody4B"     "This isn't my job, but I've been talking with other people in your department and we all agree you need help. I'm going to be speaking to the Administration to recommend you get some counselling."
+	"MailBody4C"     ""
+	"MailBody4D"     "Tony Dawson - Spaceport Security"
+
+}

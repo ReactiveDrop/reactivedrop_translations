@@ -1,0 +1,11 @@
+GAME
+{
+
+"MailFrom1" "From: Commander Houghton"
+"MailDate1" "Date: 12/30/52"
+"MailSubject1" "Subject: Operation Eradication"
+"MailBody1A" "Interesting, it looks as though the infestation might go deeper than first thought."
+"MailBody1B" "According to information from Vereon XII, the swarm parasites like the damp."
+"MailBody1C" "The caves ahead could be crawling with them."
+"MailBody1D" "Houghton out."
+} 

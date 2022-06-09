@@ -1,0 +1,22 @@
+GAME
+{
+    // PDA belongs to George Benson
+    
+    // inbox 
+	"MailFrom1"     "From: Shipping and Storage"
+	"MailDate1"     "Date: 24/10/53"
+	"MailSubject1"   "Subject: Re: Chainsaws?!"
+	"MailBody1A"     "Hey George,"
+	"MailBody1B"     "Sorry for the mix up. I'll make sure we send you those medical supplies next week."
+	"MailBody1C"     "As for the chainsaw, toss it off a cliff or something. Some idiot ordered a load of them by mistake and I've had them sitting in the warehouse taking up space ever since. As if we'd need chainsaws on this rock!"
+	"MailBody1D"     "- Bob Vernes, Head of Shipping and Storage"
+
+   // sent mail
+	"MailFrom3"	"To: Shipping and Storage"
+	"MailDate3"	"Date: 23/10/53"
+	"MailSubject3"	"Subject: Chainsaws?!"
+	"MailBody3A"	"Shipping and Storage,"
+	"MailBody3B"	"I ordered some medical supplies for the comms outpost but when the weekly delivery came by I was surprised to find you'd sent us a chainsaw instead?! Could you make sure we get the medical supplies in the next delivery. In the meantime, I'll have someone send the chainsaw back to you."
+	"MailBody3C"	"Why do we even have chainsaws anyway???"
+	"MailBody3D"    "- George Benson, Comms officer"
+}

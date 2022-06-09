@@ -1,0 +1,12 @@
+GAME
+{
+    // PDA belongs to Overseer Ross
+    
+    "MailFrom1"    "From: Commander harold"
+    "MailDate1"    "Date: 3/2/54"
+    "MailSubject1"    "Subject: EVacuation"
+    "MailBody1A"    "Dammit Ross, I wish you werent right"
+    "MailBody1B"    "But i'm Damm glad we decided to act on your advice, Evacuation is allready in progress as you know"
+    "MailBody1c"    "Get you and your staff the hell out of bay 7 and up to Dawn city"
+    "MailBody1d"    "Good Luck old Friend"
+}
