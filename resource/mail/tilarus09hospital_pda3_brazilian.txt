@@ -1,0 +1,20 @@
+GAME
+{
+    // PDA belongs to David Foster
+
+    // sent mail 
+	"MailFrom3"	"To: Andrew Ward"
+	"MailDate3"	"Date: 3/16/46"
+	"MailSubject3"	"Subject: Need Help"
+	"MailBody3A" 	"Andrew,"
+	"MailBody3B"	"As this hospital's head of security, it's your job to contain this sort of thing."
+	"MailBody3C"	"We've isolated the aggressive specimens at the lowest levels of the facility. We're not sure how much longer we can keep them down there."
+	"MailBody3D"	"Find a solution!"
+
+	"MailFrom4"	"To: Andrew Ward"
+	"MailDate4"	"Date: 3/16/46"
+	"MailSubject4"	"Subject: I'm going to be next"
+	"MailBody4A"	"Andrew,"
+	"MailBody4B"	"Doctor Archibald, Mason and Miln are dead."
+	"MailBody4C"	"You can do whatever you want now, but I'm getting the hell out of here. You better find some ammo fast if you plan on staying alive for much longer."
+}

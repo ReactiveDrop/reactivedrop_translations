@@ -1,0 +1,24 @@
+GAME
+{
+	// PDA belongs to Walter Jackson
+
+	// inbox
+
+	"MailFrom1" "From: SynTek Security"
+	"MailDate1" "Date: 10/7/52"
+	"MailSubject1" "Subject: IMPORTANT: WE ARE UNDER ATTACK"
+	"MailBody1A" "IMPORTANT MESSAGE --- TO ALL PERSONNEL"
+	"MailBody1B" "We are currently under attack. Swarm has already breached the entrance and has pushed forward."
+	"MailBody1C" "All personnel should follow the protocol on evacuating the facility right now."
+	"MailBody1D" "Stay safe.   -SynTek Security"
+
+	// sent mail
+
+	"MailFrom3" "To: Section Chief Jackson"
+	"MailDate3" "Date: 10/7/52"
+	"MailSubject3" "Subject: Power Generators"
+	"MailBody3A" "I have locked the door leading to the power generators so we should be alright with the power. We can atleast evacuate with the lights on and power running."
+	"MailBody3B" "Swarm shouldn't be able to breach that door since it's heavily reinforced metal. They can't access the generators unless they figure some other way in there."
+	"MailBody3C" "Yeah, I did like to see how..."
+	"MailBody3D" "-Reactor Chief Engineer"
+} 

@@ -1,0 +1,18 @@
+GAME
+{
+    // PDA belongs to 	Ian Cook
+
+    // sent mail 
+	"MailFrom3"	"To: SynTek Hospital Employees"
+	"MailDate3"	"Date: 3/16/46"
+	"MailSubject3"	"Subject: We need a new plan"
+	"MailBody3A"	"Someone needs to figure out a more permanent solution. We can't just keep the experiments locked in our basement forever..."
+
+	"MailFrom4"	"To: SynTek Hospital Employees"
+	"MailDate4"	"Date: 3/17/46"
+	"MailSubject4"	"Subject: I've found a way out"
+	"MailBody4A"	"We're almost ready to leave. Hopefully I'll still have enough time to get out. I've already moved all the equipment I need, so everyone else should just try their best to make it to the transport."
+	"MailBody4B"	"But all that doesn't matter anymore; what matters is stopping the spread of the experiments. I've prepared a water-soluble neurotoxin that I plan to flood the facility with. I've tested it and it has proven to be extremely effective."
+	"MailBody4C"	"I'm going to deploy the neurotoxin from inside the pump house near the northwest corner of the building. I'm going to flood the building with water, so everyone had better be out of there."
+	"MailBody4D"	"The compressor is almost ready. All I need to do is get these doors open and get to that building."
+}

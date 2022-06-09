@@ -1,0 +1,24 @@
+GAME
+{
+	// PDA belongs to Martin Bauer
+
+	// inbox
+
+	"MailFrom1" "From: SynTek Data Analyst"
+	"MailDate1" "Date: 10/5/52"
+	"MailSubject1" "Subject: Facility Layout Data"
+	"MailBody1A" "Hi Martin"
+	"MailBody1B" "I have uploaded the updated Facility Layout files into your terminal as you asked."
+	"MailBody1C" "I hope you won't get lost anymore. HAHA! ;D"
+	"MailBody1D" "With regards, Mike Palmer"
+
+	// sent mail
+
+	"MailFrom3" "To: SynTek Data Analyst"
+	"MailDate3" "Date: 10/5/52"
+	"MailSubject3" "Subject: Re: Facility Layout Data"
+	"MailBody3A" "Hi Mike"
+	"MailBody3B" "Oohh... You are so funny... :P"
+	"MailBody3C" "Thanks for the files anyway."
+	"MailBody3D" "-Martin"
+} 

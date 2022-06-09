@@ -1,0 +1,11 @@
+GAME
+{
+
+"MailFrom1" "From: Commander Houghton"
+"MailDate1" "Date: 12/30/52"
+"MailSubject1" "Subject: Operation Firestorm"
+"MailBody1A" "Things don't look good Alpha, and I don't have a spare nuke lying around."
+"MailBody1B" "Most of the biosignatures seem to be coming from a lift shaft in the Northern part of the mine. Remember what my old dad used to say, "if you can't kill it, outrun it"."
+"MailBody1C" "RC7 reports show that there's a powerful mining laser down there, might be that you can use it to"
+"MailBody1D" "burn through the biomass in the liftshaft. I think Operation Firestorm is more fitting now that we're using the laser. Houghton out."
+} 

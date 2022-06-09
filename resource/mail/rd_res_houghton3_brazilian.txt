@@ -1,0 +1,11 @@
+GAME
+{
+
+"MailFrom1" "From: Commander Houghton"
+"MailDate1" "Date: 12/30/52"
+"MailSubject1" "Subject: Operation Eradication"
+"MailBody1A" "Good job, Alpha."
+"MailBody1B" "RC7 looks to be clear, but we're picking up biomass signals coming from the Jericho Mines North of your position."
+"MailBody1C" "There should be a maintenance hatch East of the purge computer. Head out there and through the forest."
+"MailBody1D" "Looks like the main threat is gone, but we need to ensure all hostiles are killed. Houghton out."
+} 

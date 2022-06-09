@@ -1,0 +1,10 @@
+GAME
+{
+// PDA belongs to John Hadan
+
+"MailFrom1" "From: Jimmy Carter"
+"MailDate1" "Date: 02/2/54"
+"MailSubject1" "Subject: SynTek Shipment"
+"MailBody1A" "Hey john, You know that Shipment from Syntek? Its been put under quarintine. 
+Also kyle told me that there was an acident down by the docks, Around the same place as the shipment, You know anything about it?"
+}

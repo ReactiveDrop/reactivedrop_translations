@@ -1,0 +1,25 @@
+GAME
+{
+    // PDA belongs to Dr.Kennett
+    
+	"MailFrom1"	"From: Dr. L. Gilmore"
+	"MailDate1"	"Date: 3/17/46"
+	"MailSubject1"	"Subject: The brave head of security"
+	"MailBody1A" 	"Kennett!"
+	"MailBody1B"	"The experiments have gotten past the security team!"
+	"MailBody1C"	"The head of security is trying to escape via the teleporter. Running from his own turf. Pathetic. Where does he even plan on going?"
+	"MailBody1D"	"We need to do something, and we need to do it fast."
+	
+	"MailFrom2"	"From: Dr. L. Gilmore"
+	"MailDate2"	"Date: 3/17/46"
+	"MailSubject2"	"Subject: ???"
+	"MailBody2A"	"Why won't you answer me?!"
+	
+	"MailFrom3"	"To: Dr. L. Gilmore"
+	"MailDate3"	"Date: 3/17/46"
+	"MailSubject3"	"Subject: Help!"
+	"MailBody3A" 	"Lily!"
+	"MailBody3B"	"The experiments are everywhere!"
+	"MailBody3C"	"I hid in one of the storage rooms before the power went out; now I'm trapped. I just hope those damn experiments can't get in here."
+	"MailBody3D"	"All it any more has no sense. It is necessary to get out from here, and a complex to destroy."
+}

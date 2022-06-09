@@ -1,0 +1,11 @@
+GAME
+{
+
+"MailFrom1" "From: Commander Houghton"
+"MailDate1" "Date: 12/30/52"
+"MailSubject1" "Subject: Operation Eradication"
+"MailBody1A" "The mines should be a short way ahead, but I've got more bad news."
+"MailBody1B" "We've deciphered some of the intel found in RC7, and it looks like some swarm were sighted deep in the mines."
+"MailBody1C" "To make matters worse we're detecting a large concentration of swarm biosignatures coming from the mines."
+"MailBody1D" "Just heard that they've had to nuke Timor Station up on Vareon XII. Let's hope it doesn't come to that."
+} 

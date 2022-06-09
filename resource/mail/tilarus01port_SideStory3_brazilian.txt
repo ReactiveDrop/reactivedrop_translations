@@ -1,0 +1,13 @@
+GAME
+{
+// PDA belongs to Overseer Ross
+
+"MailFrom1" "From: Kyle"
+"MailDate1" "Date: 02/2/54"
+"MailSubject1" "Subject: Report 709b"
+"MailBody1A" "-47 Droids lost in last 24 hours"
+"MailBody1B" "-Overall disposal capasity down to 87%"
+"MailBody1C" "-Incinerators working at 100% capasity"
+"MailBody1D" "Please order 100 more Mark 4 droids, we were undermanned as it was befoure most of my droids started dissapearin.
+"
+}
