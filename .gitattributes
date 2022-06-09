@@ -1,0 +1,5 @@
+*.txt text eol=crlf
+*.vdf text eol=crlf
+*.json text eol=lf
+*.go text eol=lf
+go.* text eol=lf

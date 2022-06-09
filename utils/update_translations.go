@@ -36,7 +36,7 @@ var derivedLanguages = [...]string{
 	"norwegian",
 	"polish",
 	"portuguese",
-	//"brazilian",
+	"brazilian",
 	"romanian",
 	"russian",
 	"spanish",
@@ -348,7 +348,7 @@ func updateLanguageFile(source *vdf.KeyValues, prefix, lang, suffix string) (upT
 		vdf.Escape.WriteString(&buf, c.Key)
 		buf.WriteString("\"\t\t\"")
 		vdf.Escape.WriteString(&buf, x.source)
-		buf.WriteString("\"\n")
+		buf.WriteString("\"\r\n")
 	}
 
 	buf.WriteString("}\r\n}\r\n")
