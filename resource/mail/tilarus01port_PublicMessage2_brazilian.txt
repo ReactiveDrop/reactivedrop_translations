@@ -1,0 +1,12 @@
+GAME
+{
+// PDA belongs to GeoTerraCorp
+
+"MailFrom1" "From: GeoTerra Rep, Andrew"
+"MailDate1" "Date: 03/2/54"
+"MailSubject1" "Subject: IMPORTANT--PLANET-WIDE-EVACUATION"
+"MailBody1A" "IMPORTANT, Evacuation of Long Dawn colony has started, make your way to the nearest Evacuation centre"
+"MailBody1B" "Evacuation crews will then shortly take you to ships to be taken off world, onto the Nearest station, Or orbital platform"
+"MailBody1C" "Please Also note, as described in article 4566.78 of your employment contract, In a planet wide Emergency, your Health insurance is Void"
+"MailBody1D" "Have a pleasant day, Geocorp"
+}

@@ -1,0 +1,35 @@
+GAME
+{
+// PDA belongs to Overseer Ross
+// inbox
+
+"MailFrom1" "From: Jimmy Carter"
+"MailDate1" "Date: 2/2/54"
+"MailSubject1" "Subject: Reactor Pressure Down"
+"MailBody1A" "Hey Ross,"
+"MailBody1B" "Just Reporting some strange noises down in section 6,"
+"MailBody1C" "And more broken pipes, LOTS more pipes, The Pressure is down by 15% on Reactor 1."
+"MailBody1D" "Could use some help, talk to you later."
+
+"MailFrom2" "From: Overseer Ross"
+"MailDate2" "Date: 2/2/54"
+"MailSubject2" "Subject: John?"
+"MailBody2A" "Ross, Its been nearly 8 hours, When you planning to send John down?"
+
+// sent mail
+"MailFrom3" "To: Overseer Ross"
+"MailDate3" "Date: 12/18/52"
+"MailSubject3" "Subject: Re: Reactor Pressure Down"
+"MailBody3A" "Jimmy,"
+"MailBody3B" "Sorry Jimmy, my Hands are tied, most of the facility is trying to clean up The crash in bay 6."
+"MailBody3C" "However I will send John along, keep checking the reactor, if it falls below 25%, the colonies power goes with it"
+
+"MailFrom4" "To: Overseer Ross"
+"MailDate4" "Date: 12/18/52"
+"MailSubject4" "Subject: Re: John"
+"MailBody4A" "Jimmy,"
+"MailBody4B" "I sent John down right after i send you the mail, It only takes 20 miniutes to get to you at most"
+"MailBody4C" "I will talk to his other friends, see if they know where he is"
+"MailBody4D" "I'll also inform Security to look out for him, Theres an awfull lot of people dissapearing lately"
+
+}
