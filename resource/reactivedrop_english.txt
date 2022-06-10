@@ -3261,5 +3261,13 @@
 "rd_radial_use_extra_Vegas" "Vegas: Use %s1"
 
 "rd_xp_bonus_anniversary" "Anniversary Week Bonus"
+
+"rd_mainmenu_collections" "COLLECTIONS"
+"rd_collection_title" "Collections"
+"rd_collection_equipment" "Equipment"
+"rd_collection_inventory_medals" "Medals"
+"rd_collection_inventory_error_generic" "Inventory currently unavailable"
+"rd_collection_inventory_error_22" "Loading inventory..." // k_EResultPending
+"rd_collection_inventory_item_equipped" "This item is currently equipped."
 }
 }
