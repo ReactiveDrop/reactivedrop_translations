@@ -134,6 +134,7 @@
 "StatsWeb_HoIAF_LeaderboardDesc"		"Heroes of the Interstellar Armed Forces season %d leaderboard."
 "StatsWeb_HoIAF_AuditLog"		"Ranking History"
 "StatsWeb_HoIAF_AuditLogDesc"		"Heroes of the Interstellar Armed Forces score and rank history for %s."
+"StatsWeb_HoIAF_AuditLog_NoEntries"		"No score changes occurred during this hour."
 "StatsWeb_HoIAF_MissingMissionRecords"		"Missing Mission Records"
 "StatsWeb_HoIAF_MissingMissionRecords_Explain"		"Missions were partially recorded by ranked servers but not reported to the stats server. This can be caused by temporary networking problems between servers. Stat changes for multiple missions are combined in this record."
 "StatsWeb_Column_Rank"		"Rank"
