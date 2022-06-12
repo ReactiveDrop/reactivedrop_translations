@@ -166,6 +166,7 @@
 "StatsWeb_SpeedRunLeaderboardPointsDesc"		"Global high scores leaderboard for the Alien Swarm: Reactive Drop mission %s."
 "StatsWeb_SpeedRunLeaderboardChallengeDesc"		"Global speed run leaderboard for the Alien Swarm: Reactive Drop mission %[1]s (%[2]s challenge)."
 "StatsWeb_Leaderboards"		"Leaderboards"
+"StatsWeb_FilterByChallenge"		"Filter by Challenge"
 "StatsWeb_ChallengeLeaderboards"		"%s (Challenge) | Leaderboards"
 "StatsWeb_LeaderboardsDesc"		"Index of speed run leaderboards for Alien Swarm: Reactive Drop missions."
 "StatsWeb_MissionFailedDesc"		"Mission was not successfully completed."
