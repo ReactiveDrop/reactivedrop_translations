@@ -329,6 +329,8 @@
 "[english]StatsWeb_SpeedRunLeaderboardChallengeDesc"		"Global speed run leaderboard for the Alien Swarm: Reactive Drop mission %[1]s (%[2]s challenge)."
 "StatsWeb_Leaderboards"		"Classifiche"
 "[english]StatsWeb_Leaderboards"		"Leaderboards"
+		"StatsWeb_FilterByChallenge"		"Filter by Challenge"
+		"[english]StatsWeb_FilterByChallenge"		"Filter by Challenge"
 "StatsWeb_ChallengeLeaderboards"		"%s (Challenge) | Leaderboards"
 "[english]StatsWeb_ChallengeLeaderboards"		"%s (Challenge) | Leaderboards"
 "StatsWeb_LeaderboardsDesc"		"Indice delle classifiche speed run delle missioni di Alien Swarm: Reactive Drop."

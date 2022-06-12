@@ -329,6 +329,8 @@
 "[english]StatsWeb_SpeedRunLeaderboardChallengeDesc"		"Global speed run leaderboard for the Alien Swarm: Reactive Drop mission %[1]s (%[2]s challenge)."
 "StatsWeb_Leaderboards"		"전광판"
 "[english]StatsWeb_Leaderboards"		"Leaderboards"
+		"StatsWeb_FilterByChallenge"		"Filter by Challenge"
+		"[english]StatsWeb_FilterByChallenge"		"Filter by Challenge"
 "StatsWeb_ChallengeLeaderboards"		"%s (도전) | 전광판"
 "[english]StatsWeb_ChallengeLeaderboards"		"%s (Challenge) | Leaderboards"
 "StatsWeb_LeaderboardsDesc"		"Alien Swarm: Reactive Drop 임무를 위한 스피드런 전광판 지수."
