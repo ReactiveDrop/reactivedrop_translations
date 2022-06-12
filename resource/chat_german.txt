@@ -5,9 +5,9 @@
 {
 "chat_filterbutton"		"Filter"
 "[english]chat_filterbutton"		"Filters"
-"filter_joinleave"		"Beitritt/Verlassen"
+"filter_joinleave"		"Beitreten/Verlassen"
 "[english]filter_joinleave"		"Joins/Leaves"
-"filter_namechange"		"Namen Wechsel"
+"filter_namechange"		"Name wechseln"
 "[english]filter_namechange"		"Name Changes"
 "filter_publicchat"		"Öffentlicher Chat"
 "[english]filter_publicchat"		"Public Chat"
