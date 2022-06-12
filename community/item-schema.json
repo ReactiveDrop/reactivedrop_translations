@@ -19,7 +19,7 @@
 			"icon_url": "https://stats.reactivedrop.com/static/medals/hoiaf_participant_v2.png",
 			"tradable": false,
 			"marketable": false,
-			"tags": "rarity:uncommon",
+			"tags": "rarity:uncommon;slot:medal",
 			"item_slot": "medal"
 		},
 		{
@@ -40,7 +40,7 @@
 			"icon_url": "https://stats.reactivedrop.com/static/medals/hoiaf_elite_v2_green.png",
 			"tradable": false,
 			"marketable": false,
-			"tags": "rarity:rare",
+			"tags": "rarity:rare;slot:medal",
 			"item_slot": "medal"
 		},
 		{
@@ -60,7 +60,7 @@
 			"icon_url": "https://stats.reactivedrop.com/static/medals/trick_hat.png",
 			"tradable": false,
 			"marketable": false,
-			"tags": "rarity:common",
+			"tags": "rarity:common;slot:medal",
 			"promo": "ach:TF_COMPLETE_TRAINING/440",
 			"item_slot": "medal"
 		},
@@ -82,7 +82,7 @@
 			"icon_url": "https://stats.reactivedrop.com/static/medals/hoiaf_elite_v2_red.png",
 			"tradable": false,
 			"marketable": false,
-			"tags": "rarity:rare",
+			"tags": "rarity:rare;slot:medal",
 			"item_slot": "medal"
 		},
 		{
@@ -103,7 +103,7 @@
 			"icon_url": "https://stats.reactivedrop.com/static/medals/hoiaf_elite_v2_yellow.png",
 			"tradable": false,
 			"marketable": false,
-			"tags": "rarity:rare",
+			"tags": "rarity:rare;slot:medal",
 			"item_slot": "medal"
 		},
 		{
@@ -124,7 +124,7 @@
 			"icon_url": "https://stats.reactivedrop.com/static/medals/hoiaf_elite_v2_blue.png",
 			"tradable": false,
 			"marketable": false,
-			"tags": "rarity:rare",
+			"tags": "rarity:rare;slot:medal",
 			"item_slot": "medal"
 		}
 	]
