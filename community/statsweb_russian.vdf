@@ -117,7 +117,7 @@
 "[english]StatsWeb_ProfileTitle"		"Player Profiles"
 "StatsWeb_ProfileDesc"		"Alien Swarm: Reactive Drop статистика игры %s."
 "[english]StatsWeb_ProfileDesc"		"Alien Swarm: Reactive Drop gameplay statistics for %s."
-"StatsWeb_ProfileStat_TotalKills"		"Всего"
+"StatsWeb_ProfileStat_TotalKills"		"Всего убийств"
 "[english]StatsWeb_ProfileStat_TotalKills"		"Total Kills"
 "StatsWeb_ProfileStat_AverageKillsPerHour"		"Среднее количество убийств в час"
 "[english]StatsWeb_ProfileStat_AverageKillsPerHour"		"Avg Kills Per Hour"
