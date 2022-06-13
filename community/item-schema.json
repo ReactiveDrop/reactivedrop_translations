@@ -222,7 +222,7 @@
 			"tradable": false,
 			"marketable": false,
 			"tags": "rarity:legendary;slot:medal",
-			"item_slot": "medal"
+			"item_slot": "medal_future"
 		},
 		{
 			"itemdefid": 8,
@@ -249,7 +249,7 @@
 			"tradable": false,
 			"marketable": false,
 			"tags": "rarity:legendary;slot:medal",
-			"item_slot": "medal"
+			"item_slot": "medal_future"
 		},
 		{
 			"itemdefid": 9,
@@ -276,7 +276,7 @@
 			"tradable": false,
 			"marketable": false,
 			"tags": "rarity:legendary;slot:medal",
-			"item_slot": "medal"
+			"item_slot": "medal_future"
 		},
 		{
 			"itemdefid": 10,
@@ -303,7 +303,7 @@
 			"tradable": false,
 			"marketable": false,
 			"tags": "rarity:legendary;slot:medal",
-			"item_slot": "medal"
+			"item_slot": "medal_future"
 		},
 		{
 			"itemdefid": 11,
@@ -330,7 +330,7 @@
 			"tradable": false,
 			"marketable": false,
 			"tags": "rarity:legendary;slot:medal",
-			"item_slot": "medal"
+			"item_slot": "medal_future"
 		},
 		{
 			"itemdefid": 12,
@@ -357,7 +357,7 @@
 			"tradable": false,
 			"marketable": false,
 			"tags": "rarity:legendary;slot:medal",
-			"item_slot": "medal"
+			"item_slot": "medal_future"
 		},
 		{
 			"itemdefid": 13,
@@ -379,7 +379,7 @@
 			"marketable": false,
 			"tags": "rarity:common;slot:medal",
 			"promo": "manual",
-			"item_slot": "medal"
+			"item_slot": "medal_future"
 		}
 	]
 }
