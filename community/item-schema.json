@@ -334,6 +334,24 @@
 			"marketable": false,
 			"tags": "rarity:legendary;slot:medal",
 			"item_slot": "medal"
+		},
+		{
+			"itemdefid": 13,
+			"type": "item",
+			"name_english": "Beta Tester",
+			"briefing_name_english": "Beta Tester",
+			"before_description_english": "",
+			"description_english": "Awarded for participating in the Alien Swarm: Reactive Drop beta branch.",
+			"after_description_english": "",
+			"display_type_english": "Community Medal",
+			"display_type_german": "Gemeinschaftsmedaille",
+			"display_type_russian": "Медаль сообщества",
+			"icon_url": "https://stats.reactivedrop.com/static/medals/community_betatester.png",
+			"tradable": false,
+			"marketable": false,
+			"tags": "rarity:common;slot:medal",
+			"promo": "manual",
+			"item_slot": "medal"
 		}
 	]
 }
