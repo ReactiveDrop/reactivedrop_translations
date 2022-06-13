@@ -379,6 +379,7 @@
 			"marketable": false,
 			"tags": "rarity:common;slot:medal",
 			"promo": "manual",
+			"granted_manually": true,
 			"item_slot": "medal_future"
 		}
 	]
