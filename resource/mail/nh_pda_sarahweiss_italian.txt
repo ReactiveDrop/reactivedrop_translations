@@ -1,0 +1,14 @@
+GAME
+{
+    // PDA di proprietà del Sergente Sarah Weiss
+    
+    // Mail inviate
+
+	"MailFrom3"		"A: Ten. Gael Florenza"
+	"MailDate3"		"Data: 16/06/42"
+	"MailSubject3"	"Soggetto: È Carradine"
+	"MailBody3A"    "[Invio fallito: Il tuo PDA è stato disconnesso dalla rete]"
+	"MailBody3B"	"Florenza, scelgo te per riceverla perché... merda. Odio ammetterlo, ma sei davvero la meno cattiva di noi."
+	"MailBody3C"    "Ci scommetto il mio distintivo: il capitano Carradine ha qualcosa a che fare con le sparizioni. Se non è stato lui, è sicuramente a letto con i colpevoli. Come lo so? Perché ho fatto una domanda di troppo a cui non poteva rispondere per nessun motivo. Potrebbe essere un eroe di guerra, ma diavolo se non è il peggior bugiardo che abbia mai conosciuto. Indovina chi si presenta un paio di giorni dopo, chiedendomi direttamente un "incarico di manutenzione", senza fare domande? Manutenzione un cazzo. Lo str*nzo mi ha rinchiuso nella sala di controllo delle vecchie porte del magazzino. Mi ha lasciato a marcire come un topo in gabbia. Ha persino osato fingere un'interruzione di corrente, ma non sono una sciocca. Non un momento dopo, il mio PDA è stato disconnesso dal server. Parlando di coincidenze."
+	"MailBody3D"    "Tenente, se ci lascio la vita ma per miracolo riceve questo messaggio: ferma questi bastardi, perché nessuno lo farà se non lei."
+}
