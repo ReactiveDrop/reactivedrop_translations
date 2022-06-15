@@ -1,0 +1,28 @@
+GAME
+{
+    // PDA di proprietà del Caporale France Siriac
+    
+   // In arrivo
+    
+	"MailFrom1"		"Da: Pauline Vito"
+	"MailDate1"     "Data: 01/04/43"
+	"MailSubject1"	"Soggetto: Intrappolati nella serra"
+	"MailBody1A"	"Signore, alcuni di noi sono ancora nascosti nella serra."
+	"MailBody1B"	"Il signor Asselin è riuscito a sgattaiolare davanti a loro per chiedere aiuto. Non credo che tornerà..."
+	"MailBody1C"	"Possiamo vederli attraverso il vetro... queste cose... penso che stiano facendo qualcosa al nostro botanico, Jerome, che è rimasto intrappolato da solo nella stanza di manutenzione da quando sono arrivati. Cosa dovremmo fare? Oh dio, lo sento piagnucolare nel buio..."
+
+	"MailFrom2"		"Da: Pauline Vito"
+	"MailDate2"     "Data: 02/04/43"
+	"MailSubject2"	"Soggetto: RE: RE: Intrappolati nella serra"
+	"MailBody2A"	"Per gli dei, Jerome"
+	"MailBody2B"	"cosa gli hanno fatto"
+	"MailBody2C"	"per favore aiutateci"
+	"MailBody2D"	"per favore"
+
+    // Mail inviate
+    
+	"MailFrom3"     "A: Pauline Vito"
+	"MailDate3"		"Data: 01/04/43"
+	"MailSubject3"	"Soggetto: RE: Intrappolati nella serra"
+	"MailBody3A"	"DOVETE restare fermi finché non chiamiamo rinforzi. Siamo una squadra scheletrica, dal momento che Florenza ha pensato bene di rovinare le cose per tutti noi. Basta con queste stronzate da eroi, capito? Vi tireremo fuori non appena tutto sarà a posto dal nostro lato."
+}
