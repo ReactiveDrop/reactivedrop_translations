@@ -1187,7 +1187,7 @@
 "[english]asw_parasite_defangeds"		"Xenomites"
 "asw_queen"		"Königin"
 "[english]asw_queen"		"Alien Queen"
-"asw_queens"		"Königinen"
+"asw_queens"		"Königinnen"
 "[english]asw_queens"		"Alien Queens"
 "asw_ranger"		"Ranger"
 "[english]asw_ranger"		"Ranger"
