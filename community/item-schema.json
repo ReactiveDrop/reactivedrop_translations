@@ -383,6 +383,24 @@
 			"tags": "rarity:common;slot:medal",
 			"promo": "manual",
 			"granted_manually": true,
+			"item_slot": "medal"
+		},
+		{
+			"itemdefid": 14,
+			"type": "item",
+			"name_english": "Reporter",
+			"briefing_name_english": "Reporter",
+			"before_description_english": "",
+			"description_english": "Awarded by Reactive Drop Team for high quality bug reports in Alien Swarm: Reactive Drop.",
+			"after_description_english": "",
+			"display_type_english": "Community Medal",
+			"display_type_german": "Community Medaille",
+			"display_type_russian": "Медаль сообщества",
+			"display_type_schinese": "社区勋章",
+			"icon_url": "https://stats.reactivedrop.com/static/medals/error.png",
+			"tradable": false,
+			"marketable": false,
+			"tags": "rarity:legendary;slot:medal",
 			"item_slot": "medal_future"
 		}
 	]
