@@ -4029,7 +4029,7 @@
 "[english]ASW_WELD_DOOR_DESC"		"Seal a door with the welder."
 "ASW_DODGE_RANGER_SHOT_DESC"		"Совершите перекат под снарядом плевуна, не задев его."
 "[english]ASW_DODGE_RANGER_SHOT_DESC"		"Roll under a Swarm Ranger projectile."
-"ASW_BOOMER_KILL_EARLY_DESC"		"Убейте брюхача до того, как он начнет надуваться."
+"ASW_BOOMER_KILL_EARLY_DESC"		"Убейте брюхача до того, как он начнёт надуваться."
 "[english]ASW_BOOMER_KILL_EARLY_DESC"		"Kill a Swarm Boomer before it inflates."
 "ASW_FREEZE_GRENADE_DESC"		"Заморозьте 6 жуков одной замораживающей гранатой."
 "[english]ASW_FREEZE_GRENADE_DESC"		"Freeze 6 Swarm with a single Freeze Grenade."
