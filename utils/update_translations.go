@@ -12,6 +12,7 @@ import (
 	"git.lubar.me/ben/valve/vdf"
 )
 
+const onlyUpdateSourceStrings = false
 const sourceLanguage = "english"
 const languagePrefix = "[" + sourceLanguage + "]"
 
@@ -309,19 +310,23 @@ func updateLanguageFile(source *vdf.KeyValues, prefix, lang, suffix string) (upT
 
 		x := dest[strings.ToLower(c.Key)]
 
-		if x.source == "" && c.Value != "" {
-			if x.translated == "" {
-				x.translated = c.Value
+		if onlyUpdateSourceStrings {
+			x.source = c.Value
+		} else {
+			if x.source == "" && c.Value != "" {
+				if x.translated == "" {
+					x.translated = c.Value
+				}
+
+				x.source = c.Value
+				x.indent = true
 			}
 
-			x.source = c.Value
-			x.indent = true
-		}
-
-		if x.source != c.Value {
-			x.translated = c.Value
-			x.source = c.Value
-			x.indent = true
+			if x.source != c.Value {
+				x.translated = c.Value
+				x.source = c.Value
+				x.indent = true
+			}
 		}
 
 		total++
