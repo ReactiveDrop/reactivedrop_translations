@@ -1,0 +1,34 @@
+GAME
+{
+    // PC di proprietà del dottor Lin Da Silva
+
+    // In arrivo
+    
+	"MailFrom1"		"Da: Jonathan Dorland"
+	"MailDate1"     "Data: 13/02/42"
+	"MailSubject1"	"Soggetto: Dr. Moreau?"
+	"MailBody1A"	"Doc, questa è la terza spedizione di spore che ci viene "chiesto" di trasferire ai laboratori del dottor Moreau. La terza. Non so lei, ma pensavo che qualcosa di così significativo quanto la scoperta di una forma di vita indigena sarebbe stata quantomeno una preoccupazione per il consiglio. C'è un sacco di fumo e nessuno sta nemmeno cercando il fuoco?"
+	"MailBody1B"	"Andiamo Lin. Sei stato il secondo in carica da quando sua moglie è morta. Ora è il momento di mettere a frutto parte di quel guadagno. Solo per questa volta, se mai più."
+
+	"MailFrom2"		"Da: Jonathan Dorland"
+	"MailDate2"     "Data: 14/02/46"
+	"MailSubject2"	"Soggetto: RE: RE: Dr. Moreau?"
+	"MailBody2A"	"Sì, è davvero chiaro, dottor Da Silva."
+	"MailBody2B"	"Nam Humanum :)"
+
+    // Mail inviate
+    
+	"MailFrom3"     "A: Jonathan Dorland"
+	"MailDate3"		"Data: 02/13/42"
+	"MailSubject3"	"Soggetto: RE: Dr. Moreau?"
+	"MailBody3A"	"Legga con attenzione, Jonathan."
+	"MailBody3B"	"Non puoi chiamarmi per nome, figuriamoci pensare che puoi familiarizzare con me. Manteniamo questo rapporto strettamente professionale, a meno che tu non abbia bisogno di un piccolo promemoria su un buco per topi di New Havre? Il buco dentro al quale qualche umile criminale avrebbe gettato la sua triste esistenza su una nave mercantile se non fosse stato per una ragazza stupida con troppa gentilezza che voleva dargli una mano."
+	"MailBody3C"	"Pensa a questo come al mio jolly, Johnny, o come preferisci. Il Dr. Moreau è responsabile di tutte le decisioni riguardanti la ricerca. Dato che sei solo un assistente qui, è tutto ciò che devi sapere. Quindi cerca di rimanere nella tua profondità, "solo per questa volta"."
+	"MailBody3D"	"Spero che le cose siano chiare per te?"
+	
+	"MailFrom4"     "A: Ten. Gael Florenza"
+	"MailDate4"		"Data: 01/01/43"
+	"MailSubject4"	"Soggetto: (Vuoto)"
+	"MailBody4A"	"Se puoi porre fine a tutto questo, allora sì, mi assicurerò che il tuo accesso ai laboratori sia valido."
+	"MailBody4B"	"Elimina ogni traccia di questa conversazione e prega che non ci sia già un Grande Fratello a curiosare a entrambe le nostre porte."
+}
