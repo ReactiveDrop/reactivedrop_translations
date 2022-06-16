@@ -1,0 +1,11 @@
+GAME
+{
+	// PDA belongs to ???
+
+	"MailFrom1"	"From: Nuclear Warhead"
+	"MailDate1"	"Date: 12/24/52"
+	"MailSubject1"	"Subject: How rude."
+	"MailBody1A"	"Few people get the privilege of handling potent explosives such as myself."
+	"MailBody1B"	"I figured that those who do would give such munitions the respect they deserve, and certainly not just leave them unattended. That is, at least, until I encountered the lot of you."
+	"MailBody1C"	"Very disappointed."
+}
