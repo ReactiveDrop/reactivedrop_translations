@@ -1,0 +1,14 @@
+GAME
+{
+    // Hackerato nella storia della rete: Tenente Gael Florenza
+    
+    // Mail inviate
+
+	"MailFrom3"     "A: Iris Florenza"
+	"MailDate3"		"Data: 03/12/40"
+	"MailSubject3"	"Soggetto: Una colonia in lutto"
+	"MailBody3A"	"Caro Amore,"
+	"MailBody3B"    "Oggi è un giorno triste per Lugdunum. La signorina Moreau, Helen, è morta improvvisamente in seguito a complicazioni causate da un tumore maligno. Anche se non posso affermare di averla conosciuta bene... credo di averla conosciuta abbastanza. Il suo caldo e giovanile entusiasmo nel rendere ospitale questa colonia è stato apprezzato da molti membri della nostra comunità e... a modo nostro, non ho dubbi che ognuno di noi porterà con sé questo dolore."
+	"MailBody3C"    "Sono profondamente addolorato per il dottor Moreau. Non oserei immaginare cosa ne sarebbe di me se tu o Isaac doveste scomparire. Penso a voi due ogni lunga notte che passo su questo pianeta freddo e lontano."
+	"MailBody3D"    "Nam Humanum."
+}

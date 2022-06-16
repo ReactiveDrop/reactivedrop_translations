@@ -1,0 +1,22 @@
+GAME
+{
+    // Hackerato nella storia della rete: Tenente Gael Florenza
+    
+    // Mail inviate
+
+	"MailFrom3"     "A: Iris Florenza"
+	"MailDate3"		"Data: 19/01/41"
+	"MailSubject3"	"Soggetto: Le spedizioni prendono il via"
+	"MailBody3A"	"Caro Amore,"
+	"MailBody3B"    "Ci è voluto un po' più del previsto per avviare le spedizioni geologiche e botaniche, ma lo abbiamo fatto comunque. E anche se di certo non mancano le rocce... io stesso dubito del potenziale di abitabilità di questo freddo globo. In ogni caso, era dovere di tuo marito navigare in sicurezza durante la prima festa all'aperto. Almeno le decine di settimane trascorse a pianificare i percorsi non sono andate sprecate. Grazie agli dei."
+	"MailBody3C"    "Mi sorprendo a rivolgere sempre di più lo sguardo al dottor Moreau mentre si avventura al di sopra dei piani di ricerca. Essendo arrivato fin qui dal lato positivo della comunità scientifica, non lo prenderei per nient'altro che un uomo convinto... Tuttavia, il suo stato mentale sembra peggiorato dalla morte della moglie. Posso solo empatizzare con il suo dolore e sperare in una pronta guarigione, per il bene della colonia, per il nostro futuro. Tuo, mio ​​e di nostro figlio."
+	"MailBody3D"    "Nam Humanum."
+
+	"MailFrom4"     "A: Iris Florenza"
+	"MailDate4"		"Data: 28/05/41"
+	"MailSubject4"	"Soggetto: Impostazione di routine"
+	"MailBody4A"	"Caro Amore,"
+	"MailBody4B"    "Il fatto che le spedizioni verso le superfici inesplorate del pianeta stanno procedendo in fretta sarebbe l'ultima cosa da dire. Ho già chiuso più tour di quanti mi immaginassi di affrontare in un anno. È un compito stressante con la sua giusta dose di responsabilità, ma non è privo di vantaggi. Ogni tanto, ogni volta che le nostre teste d'uovo interrompono la marcia in un sussulto solo per inciampare nel più piccolo sassolino di forma sospetta, mi piace guardare il nostro cielo scuro e immaginare che, proprio in questo momento, anche tu stai guardando le stelle."
+	"MailBody4C"    "Sono felice di riferire che le mie preoccupazioni sul dottor Moreau si sono rivelate infondate dopo tutto. Lui e il capitano Carradine stanno lavorando fianco a fianco, impegnandosi per stimolare lo sviluppo della colonia con l'obiettivo prefissato per il prossimo futuro di facilitare il processo di pendolarismo, tirarci finalmente fuori dai nostri prefabbricati all'aperto e potenzialmente portare nuovi coloni per un più "dinamico intero”, o almeno così si dice. Anche se non sono sicuro di quanto tempo dovrò ancora desiderare la tua presenza, sono felice che le cose sembrino prendere di nuovo forma."
+	"MailBody4D"    "Nam Humanum."
+}
