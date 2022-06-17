@@ -1,15 +1,15 @@
 ﻿"lang"
 {
-"Language" "English"
+"Language" "Brazilian Portuguese"
 "Tokens"
 {
-"chat_filterbutton"	"Filters"
-"filter_joinleave"	"Joins/Leaves"
-"filter_namechange"	"Name Changes"
-"filter_publicchat"	"Public Chat"
-"filter_servermsg"	"Server Messages"
-"filter_teamchange"	"Team Changes"
-"chat_say"			"Say :"
-"chat_say_team"	    "Say (TEAM) :"
+"chat_filterbutton"	"Filtros"
+"filter_joinleave"	"Entradas/Saídas"
+"filter_namechange"	"Mudanças de nome"
+"filter_publicchat"	"Chat Público"
+"filter_servermsg"	"Mensagens do Servidor"
+"filter_teamchange"	"Mudanças de Time"
+"chat_say"			"Falar :"
+"chat_say_team"	    "Falar (Time) :"
 }
 }
