@@ -380,9 +380,9 @@ func updateAchievements(lang string) {
 
 	tokens := kv.FindKey("Tokens")
 
-	f.WriteString("\"lang\"\n{\n\t\"Language\"\t\"")
+	f.WriteString("\"lang\"\r\n{\n\t\"Language\"\t\"")
 	vdf.Escape.WriteString(f, lang)
-	f.WriteString("\"\n\t\"Tokens\"\n\t{\n")
+	f.WriteString("\"\r\n\t\"Tokens\"\r\n\t{\n")
 
 	for _, a := range achievements {
 		aName := tokens.FindKey(a.apiName + "_NAME").Value
@@ -399,13 +399,13 @@ func updateAchievements(lang string) {
 		}
 		vdf.Escape.WriteString(f, aName)
 
-		fmt.Fprintf(f, "\"\n\t\t\"NEW_ACHIEVEMENT_%d_%d_DESC\"\t\"", a.id, a.bit)
+		fmt.Fprintf(f, "\"\r\n\t\t\"NEW_ACHIEVEMENT_%d_%d_DESC\"\t\"", a.id, a.bit)
 		if origName == aName && origDesc == aDesc {
 			f.WriteString("\" //\"")
 		}
 		vdf.Escape.WriteString(f, aDesc)
-		f.WriteString("\"\n")
+		f.WriteString("\"\r\n")
 	}
 
-	f.WriteString("\t}\n}\n")
+	f.WriteString("\t}\r\n}\r\n")
 }
