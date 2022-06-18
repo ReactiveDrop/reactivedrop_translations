@@ -1,6 +1,6 @@
 # Alien Swarm: Reactive Drop Translations #
 
-This repository contains all the files required to translate [Alien Swarm: Reactive Drop](https://store.steampowered.com/app/563560/) user interface into any supported language. Reactive Drop(RD) supports all languages which are supported by Steam. You can also translate to an unsupported language but this will only work as a VPK add-on file through workshop.
+This repository contains all the files required to translate [Alien Swarm: Reactive Drop](https://store.steampowered.com/app/563560/) user interface into any supported language. Reactive Drop(RD) supports all [languages which are supported by Steam](https://partner.steamgames.com/doc/store/localization#supported_languages). You can also translate to an unsupported language but this will only work as a VPK add-on file through workshop.
 
 ### Pre-requisites ###
 
@@ -17,7 +17,7 @@ This repository contains all the files required to translate [Alien Swarm: React
 * store_page is [Steam's store page](https://store.steampowered.com/app/563560/)
 
 ### How to download the repository ###
-If you are not familiar with using GIT you can [download](https://github.com/ReactiveDrop/reactivedrop_translations/archive/refs/heads/master.zip) the repository as a ZIP archive and submit it using [Issues](https://github.com/ReactiveDrop/reactivedrop_translations/issues) tab.
+If you are not familiar with using GIT you can [download](https://github.com/ReactiveDrop/reactivedrop_translations/archive/refs/heads/master.zip) the repository as a ZIP archive and submit it using [Issues](https://github.com/ReactiveDrop/reactivedrop_translations/issues) tab, or edit the files in GitHub's web editor.
 
 ### CONTRIBUTING ###
 Thanks for your interest in the Alien Swarm: Reactive Drop project.  When you make a
@@ -34,9 +34,7 @@ As a condition of providing a Contribution, you agree that:
 ### File Encoding
 Please make sure that your text editor preserves file's encoding. The new files you create need to have same encoding as their English counterpart(e.g. labsmail1_czech.txt needs to be UTF-8 encoded just like labsmail1_english.txt). If you use Notepad++ you can see the file's encoding in the menu Encoding.
 ### Achievements
-Create a copy of file 563560_loc_english.vdf and rename it to your language(e.g. 563560_loc_ukrainian.vdf).
-Translate the contents of this file similarly to how 563560_loc_ukrainian.vdf is translated.
-> **Tip:** Most of achievements are same with Alien Swarm and they were already translated. You can find the translated achievements into for example reactivedrop_ukrainian.txt starting at ASW_KILL_WITHOUT_FRIENDLY_FIRE_NAME.
+These files are automatically created based on the `resource/reactivedrop_*.txt` files.
 ### Mail and News
 Create a copy of each mail and news file and rename it to your language sufix(e.g. labsmail1_russian.txt). Translate the contents of each file. See labsmail1_russian.txt as an example.
 ### BaseModUi, CloseCaption, GameUi, ReactiveDrop, and Community VDF files
@@ -44,9 +42,11 @@ In these files(e.g. basemodui_czech.txt) the untranslated strings are indented b
 ### Workshop
 Create a copy of the English file and rename it to your language suffix (e.g. workshop_tags_schinese.json). Translate the contents of the file. In JSON files, only translate text on the right side of the `:`.
 ### Item Schema
-Copy the lines with `_english` for your language. Try to keep each block of translations in alphabetical order by language. If there are words between `%percent_signs%`, leave them as-is (they are replaced with numbers by the game client). Don't change any lines that aren't labelled with a language.
+Copy the lines with `_english` for your language. Try to keep each block of translations in alphabetical order by language name. If there are words between `%percent_signs%`, leave them as-is (they are replaced with numbers by the game client). If there is a colon in the text between `%percent_signs:like this%`, translate only the part after the colon (it is used as a replacement if the number is missing from the item data). Don't change any lines that aren't labelled with a language.
+### Changing English strings
+If you change an English string in a way that does not require editing other languages (such as fixing a typo that doesn't change the meaning), you need to also change the `[english]` copy of the string in each of the other language files that have it translated. Adding new English strings or changing strings in a way that does require re-translation is handled by the sync script in the utils folder.
 ### How to test your translation before submitting it
 * Go into Steam - Library - Alien Swarm: Reactive Drop, right click and choose Properties. In the Language tab select the language you are translating into.
 * Copy your files into respective folders in `C:\Program Files (x86)\Steam\steamapps\common\Alien Swarm Reactive Drop\resource`
 ### Got Questions?
-Feel free to ask them [on the Reactive Drop forum](https://steamcommunity.com/app/563560/discussions/1/).
+Feel free to ask them on this repository's issue tracker or [the Reactive Drop forum](https://steamcommunity.com/app/563560/discussions/1/).
