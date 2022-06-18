@@ -264,11 +264,12 @@
 			"display_type_italian": "Medaglia della Comunità",
 			"display_type_russian": "Медаль сообщества",
 			"display_type_schinese": "社区勋章",
-			"icon_url": "https://stats.reactivedrop.com/static/medals/error.png",
+			"icon_url": "https://stats.reactivedrop.com/static/medals/community_translator.png",
+			"icon_url_small": "https://stats.reactivedrop.com/static/medals/community_translator_small.png",
 			"tradable": false,
 			"marketable": false,
 			"tags": "rarity:legendary;slot:medal",
-			"item_slot": "medal_future"
+			"item_slot": "medal"
 		},
 		{
 			"itemdefid": 8,
@@ -295,11 +296,12 @@
 			"display_type_italian": "Medaglia della Comunità",
 			"display_type_russian": "Медаль сообщества",
 			"display_type_schinese": "社区勋章",
-			"icon_url": "https://stats.reactivedrop.com/static/medals/error.png",
+			"icon_url": "https://stats.reactivedrop.com/static/medals/community_programmer.png",
+			"icon_url_small": "https://stats.reactivedrop.com/static/medals/community_programmer_small.png",
 			"tradable": false,
 			"marketable": false,
 			"tags": "rarity:legendary;slot:medal",
-			"item_slot": "medal_future"
+			"item_slot": "medal"
 		},
 		{
 			"itemdefid": 9,
@@ -326,11 +328,12 @@
 			"display_type_italian": "Medaglia della Comunità",
 			"display_type_russian": "Медаль сообщества",
 			"display_type_schinese": "社区勋章",
-			"icon_url": "https://stats.reactivedrop.com/static/medals/error.png",
+			"icon_url": "https://stats.reactivedrop.com/static/medals/community_mapper.png",
+			"icon_url_small": "https://stats.reactivedrop.com/static/medals/community_mapper_small.png",
 			"tradable": false,
 			"marketable": false,
 			"tags": "rarity:legendary;slot:medal",
-			"item_slot": "medal_future"
+			"item_slot": "medal"
 		},
 		{
 			"itemdefid": 10,
@@ -357,11 +360,12 @@
 			"display_type_italian": "Medaglia della Comunità",
 			"display_type_russian": "Медаль сообщества",
 			"display_type_schinese": "社区勋章",
-			"icon_url": "https://stats.reactivedrop.com/static/medals/error.png",
+			"icon_url": "https://stats.reactivedrop.com/static/medals/community_challenger.png",
+			"icon_url_small": "https://stats.reactivedrop.com/static/medals/community_challenger_small.png",
 			"tradable": false,
 			"marketable": false,
 			"tags": "rarity:legendary;slot:medal",
-			"item_slot": "medal_future"
+			"item_slot": "medal"
 		},
 		{
 			"itemdefid": 11,
@@ -388,11 +392,12 @@
 			"display_type_italian": "Medaglia della Comunità",
 			"display_type_russian": "Медаль сообщества",
 			"display_type_schinese": "社区勋章",
-			"icon_url": "https://stats.reactivedrop.com/static/medals/error.png",
+			"icon_url": "https://stats.reactivedrop.com/static/medals/community_guide.png",
+			"icon_url_small": "https://stats.reactivedrop.com/static/medals/community_guide_small.png",
 			"tradable": false,
 			"marketable": false,
 			"tags": "rarity:legendary;slot:medal",
-			"item_slot": "medal_future"
+			"item_slot": "medal"
 		},
 		{
 			"itemdefid": 12,
@@ -419,11 +424,12 @@
 			"display_type_italian": "Medaglia della Comunità",
 			"display_type_russian": "Медаль сообщества",
 			"display_type_schinese": "社区勋章",
-			"icon_url": "https://stats.reactivedrop.com/static/medals/error.png",
+			"icon_url": "https://stats.reactivedrop.com/static/medals/community_artist.png",
+			"icon_url_small": "https://stats.reactivedrop.com/static/medals/community_artist_small.png",
 			"tradable": false,
 			"marketable": false,
 			"tags": "rarity:legendary;slot:medal",
-			"item_slot": "medal_future"
+			"item_slot": "medal"
 		},
 		{
 			"itemdefid": 13,
@@ -481,11 +487,12 @@
 			"display_type_italian": "Medaglia della Comunità",
 			"display_type_russian": "Медаль сообщества",
 			"display_type_schinese": "社区勋章",
-			"icon_url": "https://stats.reactivedrop.com/static/medals/error.png",
+			"icon_url": "https://stats.reactivedrop.com/static/medals/community_reporter.png",
+			"icon_url_small": "https://stats.reactivedrop.com/static/medals/community_reporter_small.png",
 			"tradable": false,
 			"marketable": false,
 			"tags": "rarity:legendary;slot:medal",
-			"item_slot": "medal_future"
+			"item_slot": "medal"
 		},
 		{
 			"itemdefid": 900000000,
