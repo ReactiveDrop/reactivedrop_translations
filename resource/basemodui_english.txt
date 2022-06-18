@@ -827,8 +827,8 @@
 "L4D360UI_ModeCaps_offline_SP"					"SINGLE PLAYER"
 "L4D360UI_ModeCaps_offline_SS"					"OFFLINE CO-OP"
 
-"L4D360UI_FoudGames_CreateNew_campaign"			"CREATE NEW GAME"
-"L4D360UI_FoudGames_CreateNew_single_mission"	"CREATE NEW GAME"
+"L4D360UI_FoudGames_CreateNew_campaign"			"CREATE LOBBY"
+"L4D360UI_FoudGames_CreateNew_single_mission"	"CREATE LOBBY"
 "L4D360UI_FoudGames_CreateNewFlyout"				"Create Game"
 
 // Localized as "Campaign Game Search" and "Versus Game Search" and etc.
