@@ -19,3 +19,11 @@ Alien Swarm: Reactive Drop estende Alien Swarm aggiungendo mappe, alieni, modali
 [*]Classifiche: Competi con i tuoi amici per vedere chi riesce a completare le missioni più velocemente
 [*]Visuale spettatore migliorata: puoi vedere i mini giochi di hacking ed il movimento del mouse del giocatore in tempo reale
 [/list]
+
+System Requirements:
+
+Windows® XP o successivo
+Pentium 4 o più recente
+Scheda video compatibile con DirectX 9 da 128 MB, Shader model 2.0. ATI X800, NVidia 6600 o migliore
+Scheda audio compatibile con DirectX 9.0c
+Lo spazio su disco richiesto dipende dagli addon del Workshop installati.
