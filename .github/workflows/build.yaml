@@ -26,11 +26,24 @@ jobs:
         with:
           go-version: '^1.17'
 
+      # dependencies
+      - name: Install dependencies
+        run: |
+          sudo apt update
+          sudo apt -y install dos2unix
+
       # build PR
       - name: Build translations
         working-directory: utils
         run: |
           go run .
+
+      # check for unwanted differences from commit
+      - name: Check for unwanted changes
+        run: |
+          find . -type f -name '*.vdf' -exec unix2dos --quiet {} \;
+          git status
+          git diff
 
       # commit progress.md on master
       # if we want this, need to enable write permissions for the github actions bot, see:
