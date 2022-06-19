@@ -43,8 +43,7 @@ jobs:
       - name: View changes
         run: |
           find . -type f -name '*.vdf' -exec unix2dos --quiet {} \;
-          git status
-          git diff
+          git diff origin/master
 
   release:
     name: build (master)
