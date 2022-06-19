@@ -34,13 +34,13 @@ jobs:
           sudo apt -y install dos2unix
 
       # build PR
-      - name: Build translations (for pull request)
+      - name: Build translations
         working-directory: utils
         run: |
           go run .
 
       # view differences on PR
-      - name: View changes (for pull request)
+      - name: View changes
         run: |
           find . -type f -name '*.vdf' -exec unix2dos --quiet {} \;
           git status
@@ -61,16 +61,24 @@ jobs:
           go-version: '^1.17'
 
       # build master
-      - name: Build translations (only on master)
+      - name: Build translations
         working-directory: utils
         run: |
-          go run . | grep -v 'go: ' > ../PROGRESS.md
+          go run .
 
       # commit progress.md on master
-      - name: Update translation progress (only on master)
-        uses: EndBug/add-and-commit@v9
-        with:
-          message: '[CI] update translation progress'
-          default_author: github_actions
-          add: 'PROGRESS.md'
+      # if we want this, need to enable write permissions for the github actions bot, see:
+      # https://user-images.githubusercontent.com/2881159/127678772-776865c9-ca74-449b-a6df-8e95a0471560.png
+      # build master
+      #- name: Build translations (only on master)
+      #  working-directory: utils
+      #  run: |
+      #    go run . | grep -v 'go: ' > ../PROGRESS.md
+      #
+      # - name: Update translation progress (only on master)
+      #   uses: EndBug/add-and-commit@v9
+      #   with:
+      #     message: '[CI] update translation progress'
+      #     default_author: github_actions
+      #     add: 'PROGRESS.md'
 
