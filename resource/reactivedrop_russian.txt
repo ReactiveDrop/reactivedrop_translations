@@ -6291,7 +6291,7 @@
 "[english]rd_collection_inventory_error_generic"		"Inventory currently unavailable"
 "rd_collection_inventory_error_22"		"Загрузка инвентаря..."
 "[english]rd_collection_inventory_error_22"		"Loading inventory..."
-"rd_collection_inventory_item_equipped"		"Этот предмет надет."
+"rd_collection_inventory_item_equipped"		"Предмет уже надет."
 "[english]rd_collection_inventory_item_equipped"		"This item is currently equipped."
 }
 }
