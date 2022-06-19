@@ -13,8 +13,8 @@ on:
 
 jobs:
 
-  pull_request:
-    name: build (pull request)
+  build:
+    name: build
     runs-on: ubuntu-latest
     timeout-minutes: 5
     steps:
