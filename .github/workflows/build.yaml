@@ -15,7 +15,6 @@ jobs:
 
   pull_request:
     name: build (pull request)
-    if: ${{ github.ref != 'refs/heads/master' }}
     runs-on: ubuntu-latest
     timeout-minutes: 5
     steps:
@@ -26,41 +25,8 @@ jobs:
       - uses: actions/setup-go@v3
         with:
           go-version: '^1.17'
-
-      # dependencies
-      - name: Install dependencies
-        run: |
-          sudo apt update
-          sudo apt -y install dos2unix
 
       # build PR
-      - name: Build translations
-        working-directory: utils
-        run: |
-          go run .
-
-      # view differences on PR
-      - name: View changes
-        run: |
-          find . -type f -name '*.vdf' -exec unix2dos --quiet {} \;
-          git fetch origin master
-          git diff origin/master
-
-  release:
-    name: build (master)
-    if: ${{ github.ref == 'refs/heads/master' }}
-    runs-on: ubuntu-latest
-    timeout-minutes: 5
-    steps:
-      # checkout project
-      - uses: actions/checkout@v3
-
-      # setup go
-      - uses: actions/setup-go@v3
-        with:
-          go-version: '^1.17'
-
-      # build master
       - name: Build translations
         working-directory: utils
         run: |
