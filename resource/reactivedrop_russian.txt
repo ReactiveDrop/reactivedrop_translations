@@ -3991,7 +3991,7 @@
 "[english]ASW_GRENADE_MULTI_KILL_DESC"		"Kill 6 Swarm with a single Grenade."
 "ASW_ACCURACY_DESC"		"Пройдите миссию с точностью стрельбы выше 90%."
 "[english]ASW_ACCURACY_DESC"		"Complete a mission with better than 90% accuracy."
-"ASW_NO_DAMAGE_TAKEN_DESC"		"Убейте не менее 25 жуков на среднем или более высоком уровне сложности, не получив урона."
+"ASW_NO_DAMAGE_TAKEN_DESC"		"Убейте не менее 25 жуков на среднем или более высоком уровне сложности и пройдите миссию, не получив урона."
 "[english]ASW_NO_DAMAGE_TAKEN_DESC"		"Kill at least 25 aliens on Normal difficulty or higher and finish the mission without taking any damage."
 "ASW_EGGS_BEFORE_HATCH_DESC"		"Уничтожьте все яйца в миссии прежде, чем из них вылупятся паразиты."
 "[english]ASW_EGGS_BEFORE_HATCH_DESC"		"Destroy all Swarm Eggs in a mission without allowing any to hatch."
