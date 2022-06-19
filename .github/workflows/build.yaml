@@ -33,10 +33,10 @@ jobs:
           go run .
 
       # view differences on PR
-      - name: Build translations (for pull request)
+      - name: View changes (for pull request)
         if: ${{ github.ref != 'refs/heads/master' }}
         run: |
-          find . -type f -name '*.vdf' -exec sed -i 's/\r//' {} \;
+          find . -type f -name '*.vdf' -exec sed -i 's/\n/\r\n/' {} \;
           git status
           git diff
 
