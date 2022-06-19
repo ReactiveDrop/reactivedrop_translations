@@ -10,7 +10,7 @@ services:
     volumes:
       - "./:/target"
     entrypoint: [ "/entrypoint.sh" ]
-    environment:
-      - DEBUG=true
+    # environment:
+    #   - DEBUG=true
 networks:
   internal:
