@@ -25,26 +25,28 @@ jobs:
         with:
           go-version: '^1.17'
 
-      # build master
-      - name: Build translations for master
-        if: ${{ github.ref == 'refs/heads/master' }}
-        working-directory: utils
-        run: |
-          go run . | grep -v 'go: ' > ../PROGRESS.md
-
-      # commit progress for master
-      - if: ${{ github.ref == 'refs/heads/master' }}
-        uses: EndBug/add-and-commit@v9
-          with:
-            message: '[CI] update translation progress'
-            default_author: github_actions
-            add: 'PROGRESS.md'
-
       # build pull request
-      - name: Build translations for pull request
+      - name: Build translations (for pull request)
         if: ${{ github.ref != 'refs/heads/master' }}
         working-directory: utils
         run: |
           go run .
           git status
           git diff
+
+      # build master
+      - name: Build translations (only on master)
+        if: ${{ github.ref == 'refs/heads/master' }}
+        working-directory: utils
+        run: |
+          go run . | grep -v 'go: ' > ../PROGRESS.md
+
+      # commit progress.md on master
+      - name: Update translation progress (only on master)
+        uses: EndBug/add-and-commit@v9
+        if: ${{ github.ref == 'refs/heads/master' }}
+        with:
+          message: '[CI] update translation progress'
+          default_author: github_actions
+          add: 'PROGRESS.md'
+
