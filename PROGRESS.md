@@ -6,7 +6,7 @@
        dutch:  96.542%
      finnish:  96.542%
       french:  98.165%
-      german:  99.577%
+      german:  100.000%
    hungarian:  96.542%
      italian:  99.577%
     japanese:  94.143%
@@ -110,7 +110,7 @@
        dutch:  58.442%
      finnish:  58.442%
       french:  79.714%
-      german:  99.841%
+      german:  100.000%
    hungarian:  58.442%
      italian:  98.983%
     japanese:   5.596%
