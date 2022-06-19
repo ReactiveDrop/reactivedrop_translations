@@ -1,21 +1,21 @@
-Short Description:
+Breve Descrição:
 
-Co-operative top-down shooter game available for free. An epic bug hunt featuring a unique blend of co-op play and squad-level tactics.
+Um jogo de tiro cooperativo disponível gratuitamente. Uma caçada épica aos insetos apresentando uma mistura única de jogo cooperativo e táticas de esquadrão.
 
-About This Game:
+Sobre este jogo:
 
-Alien Swarm: Reactive Drop extends Alien Swarm, bringing more of everything: maps, aliens, game modes, guns... And most importantly Steam Workshop support.
+Alien Swarm: Reactive Drop é uma extensão de Alien Swarm, trazendo mais de tudo: mapas, aliens, modos de jogo, armas... E o mais importante suporte do Steam Workshop.
 
 [list]
-[*]Tactical co-op for up to 8 players with a top-down perspective
-[*]Steam Workshop support for community maps and challenges
-[*]New co-operative campaigns
-[*]Challenges: Modifications of the game, just like Mutations in Left 4 Dead 2
-[*]PvP: Deathmatch, Gun Game, Instagib, and Team Deathmatch
-[*]Singleplayer: Play with improved bots on all our official maps
-[*]New Aliens: HL2 antlion guards and more
-[*]New Weapons: Desert Eagle, Devastator, and Combat Rifle, with more to come
-[*]Over 100 Steam achievements
-[*]Leaderboards: compete with your friends for the fastest mission completion
-[*]Improved spectating: see hacking minigames and mouse movements in real time
+[*]Cooperativo tático para até 8 jogadores, com perspectiva de cima para baixo
+[*]Suporte ao Steam Workshop para mapas e desafios da comunidade
+[*]Novas campanhas cooperativas
+[*]Desafios: Modificações no jogo, similares as "Mutações" do Left 4 Dead 2
+[*]PvP: Morte Súbita, Gun Game, Instagib, and Morte Súbita em Equipe
+[*]Singleplayer: Jogue com bots aprimorados em todos os nossos mapas oficiais
+[*]Novos Aliens: Os Antlion Guards do Half Life 2 e mais
+[*]Novas armas: Desert Eagle, Devastator e o Rifle de Combate, com mais por ainda vir...
+[*]Mais de 100 conquistas do Steam
+[*]Leaderboards: dispute com seus amigos para quem conclui a missão mais rápido
+[*]Espectador aprimorado: veja o hackeamento e movimentos do mouse em tempo real
 [/list]

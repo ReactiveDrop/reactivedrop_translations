@@ -1,17 +1,17 @@
 ﻿"lang"
 {
-	"Language"	"english"
+	"Language"	"brazilian"
 	"Tokens"
 	{
-		"bg1_NAME"		"Landing Bay"
-		"bg1_DESC"		"A United Industries convoy departs this week from their central colony, headed for the Core Systems.  The massive fleet contains at least 25 Leviathan-class freighters and has full IAF cover for its journey."
-		"bg2_NAME"		"Residential"
-		"bg2_DESC"		"The SynTek Megacorporation today reported establishment of a new deep space mining colony on the outer edges of the SX-2833-87P cluster. They also announced immediate shipment of a civilian fleet of workers to the planet."
+		"bg1_NAME"		"Baía de desembarque"
+		"bg1_DESC"		"Um comboio da United Industries parte esta semana de sua colônia central, dirigido ao Núcleo dos Sistemas.  A frota massíva contém pelo menos 25 cargueiros da classe Leviathan e tem cobertura total da FAI para sua jornada."
+		"bg2_NAME"		"Residencial"
+		"bg2_DESC"		"A Megacorporação SynTek informou hoje o estabelecimento de uma nova colônia de mineração no espaço profundo nas bordas externas do cluster SX-2833-87P. Eles também anunciaram o envio imediato de uma frota civil de trabalhadores para o planeta."
 		"bg3_NAME"		"Deima"
-		"bg3_DESC"		"Pipelines transport product from the mines to the surface of Vereon XII for distribution throughout the system."
+		"bg3_DESC"		"Dutos transportam produto das minas até a superfície do Vereon XII para distribuição em todo o sistema."
 		"bg4_NAME"		"Rydberg"
-		"bg4_DESC"		"The experimental Rydberg Nuclear Reactor is capable of outputting in excess of 47 terawatts when running at peak efficiency."
-		"fail_NAME"		"Infested"
-		"fail_DESC"		"The parasite is one of the most dangerous Swarm lifeforms because of the rapid maturation of additional parasites inside an unwitting host. Victims are consumed from the inside and then burst, much like how viruses reproduce."
+		"bg4_DESC"		"O reator nuclear experimental Rydberg é capaz de produzir mais de 47 terawatts quando funcionando com eficiência máxima."
+		"fail_NAME"		"Infestado"
+		"fail_DESC"		"O parasita é uma das formas de vida mais perigosas do Enxame, devido à rápida maturação de parasitas adicionais dentro de um hospedeiro inconsciente. As vítimas são consumidas por dentro e depois explodem, muito parecido com a reprodução dos vírus."
 	}
 }
