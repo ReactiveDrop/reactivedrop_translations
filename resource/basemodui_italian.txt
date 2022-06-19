@@ -2831,7 +2831,7 @@
 "[english]L4D360UI_FoundPublicGames_Filter_Distance_Worldwide"		"Galaxy"
 "RDUI_SteamOverlay_Title"		"Overlay di Steam in gioco"
 "[english]RDUI_SteamOverlay_Title"		"Steam Overlay In-Game"
-"RDUI_SteamOverlay_Text"		"Questa funzionalità richiede l'Overlay di Steam in gioco per essere abilitata.\nPotresti dover riavviare il gioco dopo aver abilitato questa funzionalità su Steam:\nSteam -> Libreria -> Clicca col tasto destro su Alien Swarm: Reactive Drop -> Proprietà... -> Abilita l'Overlay di Steam mentre sei in gioco\n"
+"RDUI_SteamOverlay_Text"		"Questa funzionalità richiede l\'Overlay di Steam in gioco per essere abilitata.\nPotresti dover riavviare il gioco dopo aver abilitato questa funzionalità su Steam:\nSteam -> Libreria -> Clicca col tasto destro su Alien Swarm: Reactive Drop -> Proprietà... -> Abilita l\'Overlay di Steam mentre sei in gioco\n"
 "[english]RDUI_SteamOverlay_Text"		"This feature requires Steam Overlay In-Game to be enabled.\nYou might need to restart the game after you enable this feature in Steam:\nSteam -> Library -> Right-click on Alien Swarm: Reactive Drop -> Properties... -> Enable the Steam Overlay while in-game\n"
 "RDUI_WorkshopModeWarning_Title"		"Attenzione!"
 "[english]RDUI_WorkshopModeWarning_Title"		"Attention!"
