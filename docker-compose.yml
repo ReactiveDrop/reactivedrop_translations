@@ -1,0 +1,16 @@
+version: '3.9'
+
+services:
+  translations:
+    build:
+      context: .
+      dockerfile: utils/docker/Dockerfile
+    networks:
+      - internal
+    volumes:
+      - "./:/target"
+    entrypoint: [ "/entrypoint.sh" ]
+    environment:
+      - DEBUG=true
+networks:
+  internal:
