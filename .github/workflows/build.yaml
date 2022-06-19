@@ -13,9 +13,8 @@ on:
 
 jobs:
 
-  pull_request:
-    name: build (pull request)
-    if: ${{ github.ref != 'refs/heads/master' }}
+  build:
+    name: build
     runs-on: ubuntu-latest
     timeout-minutes: 5
     steps:
@@ -39,32 +38,16 @@ jobs:
         run: |
           go run .
 
-      # view differences on PR
-      - name: View changes
+      # check for unwanted differences from commit
+      - name: Check for unwanted changes
         run: |
           find . -type f -name '*.vdf' -exec unix2dos --quiet {} \;
-          git fetch origin master
-          git diff origin/master
-
-  release:
-    name: build (master)
-    if: ${{ github.ref == 'refs/heads/master' }}
-    runs-on: ubuntu-latest
-    timeout-minutes: 5
-    steps:
-      # checkout project
-      - uses: actions/checkout@v3
-
-      # setup go
-      - uses: actions/setup-go@v3
-        with:
-          go-version: '^1.17'
-
-      # build master
-      - name: Build translations
-        working-directory: utils
-        run: |
-          go run .
+          changes=$(git diff | wc -l)
+          if [[ $changes -gt 0 ]]; then
+            git status
+            git diff
+            /bin/false
+          fi
 
       # commit progress.md on master
       # if we want this, need to enable write permissions for the github actions bot, see:
@@ -81,4 +64,3 @@ jobs:
       #     message: '[CI] update translation progress'
       #     default_author: github_actions
       #     add: 'PROGRESS.md'
-
