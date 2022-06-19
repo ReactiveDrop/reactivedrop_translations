@@ -33,8 +33,7 @@ jobs:
           go run . | grep -v 'go: ' > ../PROGRESS.md
 
       # commit progress for master
-      - name: Update progress for master
-        if: ${{ github.ref == 'refs/heads/master' }}
+      - if: ${{ github.ref == 'refs/heads/master' }}
         uses: EndBug/add-and-commit@v9
           with:
             message: '[CI] update translation progress'
