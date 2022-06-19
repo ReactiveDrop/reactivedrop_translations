@@ -42,7 +42,7 @@ jobs:
       # view differences on PR
       - name: View changes (for pull request)
         run: |
-          find . -type f -name '*.vdf' -exec unix2dos {} \;
+          find . -type f -name '*.vdf' -exec unix2dos --quiet {} \;
           git status
           git diff
 
