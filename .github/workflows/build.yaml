@@ -14,7 +14,7 @@ on:
 jobs:
   release:
     name: build translations
-    runs-on: windows-2022
+    runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
       # checkout project
@@ -25,12 +25,18 @@ jobs:
         with:
           go-version: '^1.17'
 
-      # build pull request
+      # build PR
       - name: Build translations (for pull request)
         if: ${{ github.ref != 'refs/heads/master' }}
         working-directory: utils
         run: |
           go run .
+
+      # view differences on PR
+      - name: Build translations (for pull request)
+        if: ${{ github.ref != 'refs/heads/master' }}
+        run: |
+          find . -type f -name '*.vdf' -exec sed -i 's/\r//' {} \;
           git status
           git diff
 
