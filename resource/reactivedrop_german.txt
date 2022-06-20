@@ -903,7 +903,7 @@
 "[english]asw_weapon_normal_armor"		"Heavy Armor"
 "asw_weaponl_normal_armor"		"l3a Taktische Schwere Rüstung"
 "[english]asw_weaponl_normal_armor"		"l3a Tactical Heavy Armor"
-"asw_weapon_normal_armor_attributes"		"Bis zu 35% Schadensreduktion, passiv"
+"asw_weapon_normal_armor_attributes"		"Bis zu 35%% Schadensreduktion, passiv"
 "[english]asw_weapon_normal_armor_attributes"		"Up to 35%% Damage Reduction, Passive"
 "asw_weapon_fist"		"Kraftfaust"
 "[english]asw_weapon_fist"		"Power Fist"
