@@ -523,7 +523,7 @@
 "[english]L4D360UI_SignIn_PlayAsGuest"		"PLAY WITHOUT GAMER PROFILE"
 "L4D360UI_SignIn_CancelSignIn"		"Annulla"
 "[english]L4D360UI_SignIn_CancelSignIn"		"Cancel"
-"L4D360UI_MainMenu_CoOp"		"GIOCA: CAMPAGNA"
+"L4D360UI_MainMenu_CoOp"		"GIOCA ONLINE"
 "[english]L4D360UI_MainMenu_CoOp"		"PLAY ONLINE"
 "L4D360UI_MainMenu_Holdout"		"MODALITÀ SOPRAVVIVENZA"
 "[english]L4D360UI_MainMenu_Holdout"		"PLAY HOLDOUT"
