@@ -663,7 +663,7 @@
 "[english]asw_weapon_rifle"		"Assault Rifle"
 "asw_weapon_rifle_altfire"		"Granate a Frammentazione"
 "[english]asw_weapon_rifle_altfire"		"Frag Grenades"
-"asw_weaponl_rifle"		"22A3-1 Fucile d\'Assalto"
+"asw_weaponl_rifle"		"Fucile d\'Assalto 22A3-1"
 "[english]asw_weaponl_rifle"		"22A3-1 Assault Rifle"
 "asw_weapon_rifle_attributes"		""
 "[english]asw_weapon_rifle_attributes"		""
