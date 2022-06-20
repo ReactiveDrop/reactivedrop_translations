@@ -4685,7 +4685,7 @@
 "[english]rd_wdesc_50calmg"		""
 "rd_weapon_50calmg_attributes"		""
 "[english]rd_weapon_50calmg_attributes"		""
-"asw_ob_lanasbridge_1t"		"Проберитесь к мосту."
+"asw_ob_lanasbridge_1t"		"Откройте путь на мост."
 "[english]asw_ob_lanasbridge_1t"		"Get access to the bridge"
 "asw_ob_lanasbridge_1"		"Отряд, мы получаем автоматические отчёты о том, что оружейный комплекс МВС на Планете 137 активировал свою систему безопасности. Нет ответа от местного главного администратора, МВС посылает нас для расследования."
 "[english]asw_ob_lanasbridge_1"		"Squad, we\'re getting automated reports that an IAF weapon facility on Planet 137 has activated its security system. With no response from the local head administrator, the IAF are sending us to investigate"
