@@ -3,13 +3,13 @@
 "Language"		"italian"
 "Tokens"
 {
-"bg1_NAME"		"Baia d\'Atterraggio"
+"bg1_NAME"		"Baia d'Atterraggio"
 "[english]bg1_NAME"		"Landing Bay"
 "bg1_DESC"		"Un convoglio delle industrie unite parte questa settimana dalla colonia centrale, diretto verso i Sistemi Centrali.  Questa enorme flotta contiene almeno 25 mercantili di classe Leviatano e una scorta IAF completa per il viaggio."
 "[english]bg1_DESC"		"A United Industries convoy departs this week from their central colony, headed for the Core Systems.  The massive fleet contains at least 25 Leviathan-class freighters and has full IAF cover for its journey."
 "bg2_NAME"		"Residenziale"
 "[english]bg2_NAME"		"Residential"
-"bg2_DESC"		"La Megacorporazione SynTek oggi ha riportato la creazione di una nuova colonia mineraria nello spazio profondo ai bordi esterni dell\'ammasso SX-2833-87P. Hanno anche annunciato l\'invio immediato di una flotta civile di lavoratori sul pianeta."
+"bg2_DESC"		"La Megacorporazione SynTek oggi ha riportato la creazione di una nuova colonia mineraria nello spazio profondo ai bordi esterni dell'ammasso SX-2833-87P. Hanno anche annunciato l'invio immediato di una flotta civile di lavoratori sul pianeta."
 "[english]bg2_DESC"		"The SynTek Megacorporation today reported establishment of a new deep space mining colony on the outer edges of the SX-2833-87P cluster. They also announced immediate shipment of a civilian fleet of workers to the planet."
 "bg3_NAME"		"Deima"
 "[english]bg3_NAME"		"Deima"
@@ -21,7 +21,7 @@
 "[english]bg4_DESC"		"The experimental Rydberg Nuclear Reactor is capable of outputting in excess of 47 terawatts when running at peak efficiency."
 "fail_NAME"		"Infestato"
 "[english]fail_NAME"		"Infested"
-"fail_DESC"		"Il parassita è una delle forme di vita dello sciame più pericolose a causa della rapida maturazione di ulteriori parassiti all\'interno di un ospite inconsapevole. Le vittime vengono consumate dall\'interno per poi scoppiare, proprio come si riproducono i virus."
+"fail_DESC"		"Il parassita è una delle forme di vita dello sciame più pericolose a causa della rapida maturazione di ulteriori parassiti all'interno di un ospite inconsapevole. Le vittime vengono consumate dall'interno per poi scoppiare, proprio come si riproducono i virus."
 "[english]fail_DESC"		"The parasite is one of the most dangerous Swarm lifeforms because of the rapid maturation of additional parasites inside an unwitting host. Victims are consumed from the inside and then burst, much like how viruses reproduce."
 }
 }
