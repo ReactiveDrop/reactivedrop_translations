@@ -3546,7 +3546,7 @@
 "nb_start_mission"		"임무 시작"
 "[english]nb_start_mission"		"START MISSION"
 "nb_leader"		"방장:  %s1"
-"[english]nb_leader"		"방장:  %s1"
+"[english]nb_leader"		"Lobby Leader:  %s1"
 "nb_commander_level"		"레벨: %s1"
 "[english]nb_commander_level"		"Level: %s1"
 "nb_select_marine"		"병사를 선택하세요"
