@@ -2467,6 +2467,10 @@
 //
 //Lana's Escape objectives
 //
+// as_sci1_bridge CHAPTER TEXT
+//
+"asw_gametext_lan_lanasbridge_title" "Lana's Escape"
+//
 // as_sci1_bridge OBJECTIVES
 //
 "asw_ob_lanasbridge_1t" "Get access to the bridge"
@@ -2891,6 +2895,10 @@
 "nh_logisticsarea_4_title" "Leave the sector"
 "nh_logisticsarea_4" "This reinforced door mechanism will lead you out, assuming you've kept your tech mostly in one piece."
 
+"asw_gametext_nh_logisticsarea_title" "Alien Swarm: Nam Humanum"
+"asw_gametext_nh_logisticsarea_title2" "Thomas 'Synmachus' Lesteven"
+"asw_gametext_nh_logisticsarea_title3" "Guillaume 'Stral' Houard"
+
 "nh_platformXVII_1_title" "Look for the elevator"
 "nh_platformXVII_1a" "Things seem to be getting worse by the minute. While unclear as to a definite course of action, we still have ways to go before we reach our end. What's left of Lugdunum's railway could be a worthwhile alternative to get you around the facility."
 "nh_platformXVII_1b" "And keep your tech close, it'll save you some headaches with these rails."
@@ -3148,6 +3156,8 @@
 
 "tf1_desertoutpost_6_title" "Enter airlock"
 "tf1_desertoutpost_6a" "The abandoned outpost had information regarding a disused airlock access into the base. Access the base via the disused airlock."
+
+"asw_gametext_tf1_desertoutpost_title" "Chapter 1: Insertion"
 
 "tf1_abandonedmaintenance_1_title" "Briefing"
 "tf1_abandonedmaintenance_1a" "Having gained access to the base, it\'s time to move deeper. The swarm are on Tarnor and in high concentrations."
