@@ -1,20 +1,20 @@
 GAME
 {
-    // PDA belongs to Joseph Palmer
+    // PDA pertence ao Joseph Palmer
     
-    // inbox
-	"MailFrom1"	"From: Dr. Foster"
-	"MailDate1"	"Date: 3/13/46"
-	"MailSubject1"	"Subject: Dosage"
+    // Caixa de entrada
+	"MailFrom1"	"De: Dr. Foster"
+	"MailDate1"	"Data: 13/03/46"
+	"MailSubject1"	"Assunto: Dosagem"
 	"MailBody1A"	"Joseph,"
-	"MailBody1B"	"I think I've figured out why patient Molligan didn't survive." 
-	"MailBody1C"	"The cytostatic dose was insufficient. I recommend that we give a second dosage during the closing stage of the mutation."
+	"MailBody1B"	"Acho que descobri porque o paciente Molligan não sobreviveu." 
+	"MailBody1C"	"A dose citostática foi insuficiente. Eu recomendo darmos uma segunda dosagem durante o estágio de fechamento da mutação."
 	"MailBody1D"	"Dr. Foster"
 
-    // sent mail
-	"MailFrom3" 	"To: Dr. Foster"
-	"MailDate3"	"Date: 3/13/46"
-	"MailSubject3"	"Subject: Re: Dosage"
-	"MailBody3A"	"I agree."
-	"MailBody3B"	"Next time we'll increase the dosage. I'm pretty sure I've found a suitable patient." 
+    // Enviados
+	"MailFrom3" 	"Para: Dr. Foster"
+	"MailDate3"	"Data: 13/03/46"
+	"MailSubject3"	"Assunto: Re: Dosagem"
+	"MailBody3A"	"Eu concordo."
+	"MailBody3B"	"Da próxima vez aumentamos a dosagem. Tenho certeza de que encontrei um paciente adequado." 
 }

@@ -1,11 +1,11 @@
 GAME
 {
 
-"MailFrom1" "From: Commander Houghton"
-"MailDate1" "Date: 12/30/52"
-"MailSubject1" "Subject: Operation Firestorm"
-"MailBody1A" "Things don't look good Alpha, and I don't have a spare nuke lying around."
-"MailBody1B" "Most of the biosignatures seem to be coming from a lift shaft in the Northern part of the mine. Remember what my old dad used to say, "if you can't kill it, outrun it"."
-"MailBody1C" "RC7 reports show that there's a powerful mining laser down there, might be that you can use it to"
-"MailBody1D" "burn through the biomass in the liftshaft. I think Operation Firestorm is more fitting now that we're using the laser. Houghton out."
+"MailFrom1" "De: Comandante Houghton"
+"MailDate1" "Data: 30/12/52"
+"MailSubject1" "Assunto: Operação Tempestade de Fogo"
+"MailBody1A" "As coisas não parecem boas Alfa, e eu não tenho uma bomba nuclear sobrando por aí."
+"MailBody1B" "A maioria das bioassinaturas parecem vir de um poço de elevador no parte norte da mina. Lembre-se do que meu velho pai costumava dizer, "Se você não pode matá-los, ultrapasse-os"."
+"MailBody1C" "Relatórios do CP7 mostram que há um poderoso laser de mineração lá embaixo, pode ser que vocês possam usá-lo para"
+"MailBody1D" "queimar a biomassa no elevador. Acho que Operação Tempestade de Fogo é mais adequada agora que estamos usando o laser. Câmbio desligo."
 } 

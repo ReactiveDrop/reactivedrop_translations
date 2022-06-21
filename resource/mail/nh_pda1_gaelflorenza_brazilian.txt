@@ -1,22 +1,22 @@
 GAME
 {
-    // Hacked into network history: Lieutenant Gael Florenza
+    // Hackeado no histórico da rede: Tenente Gael Florenza
     
-    // Sent mail
+    // Enviados
 
-	"MailFrom3"		"To: Iris Florenza"
-	"MailDate3"		"Date: 01/18/40"
-	"MailSubject3"	"Subject: Sound landing"
-	"MailBody3A"	"Dear love,"
-	"MailBody3B"	"The communications team asks that I keep any written transmission brief while the installation is being worked on, so there you go. We finally landed on Cassius-III. As expected, the weather isn’t the gentlest out here. Not to mention that we’re still largely depending on the shuttle’s vitals. Still, everyone’s already doing their best to make it feel like a home. Pictured like something worthy of a tale. But I guess these letters will have to do, from this snowy island of mine to where you are now, an ocean of stars away."
-	"MailBody3C"	"It’s been 5 months since I’ve farewelled your harbor, dear Iris, but it already feels like an eternity at sea. I aim to make this modest colony a proper shelter for you and me, and for the little man growing inside of you."
+	"MailFrom3"		"Para: Iris Florenza"
+	"MailDate3"		"Data: 18/01/40"
+	"MailSubject3"	"Assunto: Som de pouso"
+	"MailBody3A"	"Meu amor,"
+	"MailBody3B"	"A equipe de comunicação pede que eu mantenha qualquer transmissão escrita breve enquanto a instalação está sendo trabalhada, então lá vai. Nós finalmente pousamos em Cassius-III. Como esperado, o clima não é o mais suave aqui. Sem mencionar que ainda dependemos em grande parte dos suprimentos vitais do ônibus espacial. Ainda assim, todos já estão fazendo o possível para que se sintam em casa. Retratado como algo digno de um conto. Mas acho que essas cartas terão que servir, desta minha ilha nevada para onde você está agora, um oceano de estrelas de distância."
+	"MailBody3C"	"Faz 5 meses desde que me despedi de você no porto, querida Iris, mas já parece uma eternidade no mar. Eu pretendo fazer desta modesta colônia um abrigo adequado para você e para mim, e para o homenzinho crescendo dentro de você."
 	"MailBody3D"	"Nam Humanum."
 
 	"MailFrom4"		"To: Iris Florenza"
-	"MailDate4"		"Date: 02/07/40"
-	"MailSubject4"	"Subject: A dream beginning"
-	"MailBody4A"	"Dear love,"
-	"MailBody4B"	"I’ve been informed that any message I’ll forward may travel for some time before it reaches you. The reason for it is...well, some technical gibberish I won’t get into, for you own sake. I hope all is well, for you and the baby. Construction out here is carrying on, the installation of the research complex standing as a monument to our progress. Geological expeditions won’t take place for another few months though, about enough time for the life support systems to read green."
-	"MailBody4C"	"The mission’s chief scientists, Miss and Mister Moreau conduct the operations with enthusiasm, inspiration even. Settlers have taken to calling them “Lugdunum’s Adam and Eve”. Seeing it put some much-needed smiles on their faces is somewhat reassuring, although I couldn’t really explain why. What I’m certain of is that I’ll keep writing until we’re both here, together too. Who knows, maybe once we’ve built our own kindergarten."
+	"MailDate4"		"Date: 07/02/40"
+	"MailSubject4"	"Assunto: Um sonho começando"
+	"MailBody4A"	"Meu amor,"
+	"MailBody4B"	"Fui informado de que qualquer mensagem que eu encaminhar pode viajar por algum tempo antes de chegar até você. A razão para isso é... bem, algum jargão técnico que eu não vou me aprofundar, pelo seu bem. Eu espero que tudo esteja bem, para você e o bebê.A construção aqui está continuando, a instalação do complexo de pesquisa se ergue como um monumento ao nosso progresso. Embora as expedições geológicas não ocorrerão por mais alguns meses, cerca de tempo suficiente para os sistemas de suporte de vida ficarem prontos."
+	"MailBody4C"	"Os cientistas-chefes da missão, Senhor e Senhora Moreau conduzem as operações com entusiasmo, até mesmo inspiração. Os colonos passaram a chamá-los de “Adão e Eva de Lugdunum”. Vendo isso colocar alguns bem-necessários sorrisos nos rostos deles é um pouco reconfortante, embora eu não consiga realmente explicar por que. O que tenho certeza é que continuarei escrevendo até que estejamos ambos aqui, juntos também. Quem sabe, talvez assim que tenhamos construído nosso próprio jardim de infância."
 	"MailBody4D"	"Nam Humanum."
 }

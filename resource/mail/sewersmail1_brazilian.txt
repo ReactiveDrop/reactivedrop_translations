@@ -1,23 +1,21 @@
 GAME
 {
-    // PDA belongs to Brian
+    // PDA pertence ao Brian
     
-    // inbox
+    // Caixa de entrada
     
-	"MailFrom1"	"From: Helen Young"
-	"MailDate1"	"Date: 12/23/52"
-	"MailSubject1"	"Subject: L. Callen"
+	"MailFrom1"	"De: Helen Young"
+	"MailDate1"	"Data: 23/12/52"
+	"MailSubject1"	"Assunto: L. Callen"
 	"MailBody1A"	"Brian,"
-	"MailBody1B"	"Stay out of Timor Station!  Please come back to the main quarters ASAP.  Kate is missing and no one knows where she is.  Phil said he knows of at least two other missing persons.  I'm meeting Ming tonight."
-	"MailBody1C"	"Please get back as soon as you can.  I love you."
+	"MailBody1B"	"Fique longe da Estação Timor!  Por favor, volte para os dormitórios principais o mais rápido possível. Kate está desaparecida e ninguém sabe onde ela está. Phil disse que sabe de pelo menos duas outras pessoas desaparecidas. Vou encontrar o Ming esta noite."
+	"MailBody1C"	"Por favor, volte assim que puder. Eu te amo."
 	"MailBody1D"	"Helen"
 
-	"MailFrom2"	"From: Helen Young"
-	"MailDate2"	"Date: 12/24/52"
-	"MailSubject2"	"Subject: WHERE ARE YOU??"
-	"MailBody2A"	"Brian, please contact me!  Where have you been?  I'm worried, all right?  Ming is experimenting with those eggs--experiments I know are illegal.  This morning they sealed off Deck 1; there are rumors of contamination but no confirmation.  SynTek wants to keep us in the dark.  We even heard gunfire somewhere in the main complex."
-	"MailBody2B"	"Please contact me. I can't stand the thought that you're still down there somewhere."
+	"MailFrom2"	"De: Helen Young"
+	"MailDate2"	"Data: 12/24/52"
+	"MailSubject2"	"Assunto: AONDE VOCÊ TÁ??"
+	"MailBody2A"	"Brian, Por favor entre em contato comigo! Por onde você esteve? Estou preocupada, está bem?  Ming está fazendo experimentos com esses ovos-- experimentos que eu sei que são ilegais.  Esta manhã eles selaram o Convés 1; há rumores de contaminação, mas nenhuma confirmação. A SynTek quer nos manter no escuro. Até ouvimos tiros em algum lugar do complexo principal."
+	"MailBody2B"	"Por favor entre em contato comigo. Eu não suporto o pensamento de que você ainda esteja lá em algum lugar."
 	"MailBody2C"	"Helen"
-
-    // sent
 }

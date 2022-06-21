@@ -1,23 +1,23 @@
 GAME
 {
-    // PDA belongs to Brian
+    // PDA pertence a Brian
     
-    // inbox
+    // Caixa de entrada
     
-	"MailFrom1"	"From: Helen Young"
-	"MailDate1"	"Date: 12/19/52"
-	"MailSubject1"	"Subject: Eusociality"
-	"MailBody1A"	"Swarm findings:"
-	"MailBody1B"	"We've run the numbers. All models for growth, lifespan and metabolism only work when applied across the entire population, rather than to individuals."  
-	"MailBody1C"	"In some ways, they're like advanced hive insects, a single advanced superorganism.  Containment is vital."
+	"MailFrom1"	"De: Helen Young"
+	"MailDate1"	"Data: 19/12/52"
+	"MailSubject1"	"Assunto: Eussocialidade"
+	"MailBody1A"	"Descobertas do Enxame:"
+	"MailBody1B"	"Fizemos as contas. Todos os modelos de crescimento, vida útil e metabolismo só funcionam quando aplicados em toda a população, ao invés de indivíduos."  
+	"MailBody1C"	"De certa forma, eles são como insetos de uma colmeia avançada, um único superorganismo avançado.  Contenção é vital."
 	
-	// sent mail
+	// Enviado
 
-	"MailFrom3" 	"To: Helen Young"
-	"MailDate3"	"Date: 12/19/52"
+	"MailFrom3" 	"Para: Helen Young"
+	"MailDate3"	"Data: 19/12/52"
 	"MailSubject3"	"Subject: Re: ??!"
-	"MailBody3A"	"Structured sociality?"
-	"MailBody3B"	"Among large-bodied organisms?  I'm still skeptical."  
-	"MailBody3C"	"There's no doubt the eggs are dangerous though.  We had an accident today.  One of the workers was found dead."
-	"MailBody3D"	"Agree containment is vital, but don't foresee difficulty."
+	"MailBody3A"	"Socialidade estruturada?"
+	"MailBody3B"	"Entre organismos de grande porte?  Ainda estou cético."  
+	"MailBody3C"	"Embora Não haja dúvidas de que os ovos são perigosos.  Tivemos um acidente hoje.  Um dos trabalhadores foi encontrado morto."
+	"MailBody3D"	"Concordo que a contenção é vital, mas não prevejo dificuldades."
     }

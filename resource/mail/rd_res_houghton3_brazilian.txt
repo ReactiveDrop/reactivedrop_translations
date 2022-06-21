@@ -1,11 +1,11 @@
 GAME
 {
 
-"MailFrom1" "From: Commander Houghton"
-"MailDate1" "Date: 12/30/52"
-"MailSubject1" "Subject: Operation Eradication"
-"MailBody1A" "Good job, Alpha."
-"MailBody1B" "RC7 looks to be clear, but we're picking up biomass signals coming from the Jericho Mines North of your position."
-"MailBody1C" "There should be a maintenance hatch East of the purge computer. Head out there and through the forest."
-"MailBody1D" "Looks like the main threat is gone, but we need to ensure all hostiles are killed. Houghton out."
+"MailFrom1" "De: Comandante Houghton"
+"MailDate1" "Data: 30/12/52"
+"MailSubject1" "Assunto: Operação Erradicação"
+"MailBody1A" "Bom trabalho, Alfa."
+"MailBody1B" "O CP7 parece estar limpo, mas estamos captando sinais de biomassa vindos das Minas do Jericho ao Norte da sua posição."
+"MailBody1C" "Deve haver uma escotilha de manutenção ao Leste do computador de extermínio. Vá até lá e atravesse pela floresta."
+"MailBody1D" "Parece que a ameaça principal se foi, mas precisamos garantir que todos os hostis sejam mortos. Câmbio desligo."
 } 

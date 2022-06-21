@@ -1,25 +1,25 @@
 GAME
 {
-    // PDA belongs to Dr.Kennett
+    // PDA pertence ao Dr.Kennett
     
-	"MailFrom1"	"From: Dr. L. Gilmore"
-	"MailDate1"	"Date: 3/17/46"
-	"MailSubject1"	"Subject: The brave head of security"
+	"MailFrom1"	"De: Dra. L. Gilmore"
+	"MailDate1"	"Data: 17/03/46"
+	"MailSubject1"	"Assunto: O corajoso chefe de segurança"
 	"MailBody1A" 	"Kennett!"
-	"MailBody1B"	"The experiments have gotten past the security team!"
-	"MailBody1C"	"The head of security is trying to escape via the teleporter. Running from his own turf. Pathetic. Where does he even plan on going?"
-	"MailBody1D"	"We need to do something, and we need to do it fast."
+	"MailBody1B"	"Os experimentos passaram pela equipe de segurança!"
+	"MailBody1C"	"O chefe de segurança está tentando escapar através do teletransportador. Fugindo de sua própria jurísdição. Patético. Aonde ele sequer está planejando ir?"
+	"MailBody1D"	"Precisamos fazer alguma coisa, e precisamos fazer rápido."
 	
-	"MailFrom2"	"From: Dr. L. Gilmore"
-	"MailDate2"	"Date: 3/17/46"
-	"MailSubject2"	"Subject: ???"
-	"MailBody2A"	"Why won't you answer me?!"
+	"MailFrom2"	"De: Dra. L. Gilmore"
+	"MailDate2"	"Data: 17/03/46"
+	"MailSubject2"	"Assunto: ???"
+	"MailBody2A"	"Por quê não me responde?!"
 	
-	"MailFrom3"	"To: Dr. L. Gilmore"
-	"MailDate3"	"Date: 3/17/46"
-	"MailSubject3"	"Subject: Help!"
+	"MailFrom3"	"Para: Dra. L. Gilmore"
+	"MailDate3"	"Data: 17/03/46"
+	"MailSubject3"	"Assunto: Socorro!"
 	"MailBody3A" 	"Lily!"
-	"MailBody3B"	"The experiments are everywhere!"
-	"MailBody3C"	"I hid in one of the storage rooms before the power went out; now I'm trapped. I just hope those damn experiments can't get in here."
-	"MailBody3D"	"All it any more has no sense. It is necessary to get out from here, and a complex to destroy."
+	"MailBody3B"	"Os experimentos estão em toda parte!"
+	"MailBody3C"	"Eu me escondi em um dos depósitos antes que a luz acabasse; agora estou preso. Eu só espero que esses malditos experimentos não cheguem até aqui."
+	"MailBody3D"	"Tudo isso não tem mais sentido. Precisamos sair daqui, e destruir esse complexo."
 }

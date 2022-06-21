@@ -1,22 +1,22 @@
 GAME
 {
-    // PDA belongs to George Benson
+    // PDA pertence ao George Benson
     
-    // inbox 
-	"MailFrom1"     "From: Shipping and Storage"
-	"MailDate1"     "Date: 24/10/53"
-	"MailSubject1"   "Subject: Re: Chainsaws?!"
-	"MailBody1A"     "Hey George,"
-	"MailBody1B"     "Sorry for the mix up. I'll make sure we send you those medical supplies next week."
-	"MailBody1C"     "As for the chainsaw, toss it off a cliff or something. Some idiot ordered a load of them by mistake and I've had them sitting in the warehouse taking up space ever since. As if we'd need chainsaws on this rock!"
-	"MailBody1D"     "- Bob Vernes, Head of Shipping and Storage"
+    // Caixa de entrada 
+	"MailFrom1"     "De: Envios e Armazenamentos"
+	"MailDate1"     "Data: 24/10/53"
+	"MailSubject1"   "Assunto: Re: Motoserra?!"
+	"MailBody1A"     "Ei George,"
+	"MailBody1B"     "Desculpe pela confusão. Vou me certificar de que lhe enviaremos esses suprimentos médicos na semana que vem."
+	"MailBody1C"     "Quanto à motosserra, jogue-a de um penhasco ou algo assim. Algum idiota encomendou um monte deles por engano e eu to com elas paradas no armazém ocupando espaço desde então. Como se precisássemos de motosserras nesta rocha!"
+	"MailBody1D"     "- Bob Vernes, Chefe da Envios e Armazenamentos"
 
-   // sent mail
-	"MailFrom3"	"To: Shipping and Storage"
-	"MailDate3"	"Date: 23/10/53"
-	"MailSubject3"	"Subject: Chainsaws?!"
-	"MailBody3A"	"Shipping and Storage,"
-	"MailBody3B"	"I ordered some medical supplies for the comms outpost but when the weekly delivery came by I was surprised to find you'd sent us a chainsaw instead?! Could you make sure we get the medical supplies in the next delivery. In the meantime, I'll have someone send the chainsaw back to you."
-	"MailBody3C"	"Why do we even have chainsaws anyway???"
-	"MailBody3D"    "- George Benson, Comms officer"
+   // Enviados
+	"MailFrom3"	"Para: Envios e Armazenamentos"
+	"MailDate3"	"Data: 23/10/53"
+	"MailSubject3"	"Assunto: Motoserra?!"
+	"MailBody3A"	"Envios e Armazenamentos,"
+	"MailBody3B"	"Encomendei alguns suprimentos médicos para o posto avançado de comunicação, mas quando a entrega semanal chegou, fiquei surpreso ao descobrir que você nos enviou uma motosserra?! Você poderia se certificar de que receberemos os suprimentos médicos na próxima entrega?. Enquanto isso, vou pedir para alguém enviar a motosserra de volta para você."
+	"MailBody3C"	"De qualquer maneira por quê nós temos motoserras???"
+	"MailBody3D"    "- George Benson, Oficial de comunicações"
 }

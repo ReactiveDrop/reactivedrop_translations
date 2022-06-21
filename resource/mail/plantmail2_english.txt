@@ -14,8 +14,7 @@ GAME
 	"MailDate2"	"Date: 12/21/52"
 	"MailSubject2"	"Subject: Re: Re: Flow of information"
 	"MailBody2A"	"Mr. Howe,"
-	"MailBody2B"	"I've checked my records but I don't see your memo.  This is worrying.  I've talked to the system administrator, in hopes of finding some sort of explanation."
-I'll take the next train to Timor Station.  Arriving at 0845.  Could you pick me up?
+	"MailBody2B"	"I've checked my records but I don't see your memo.  This is worrying.  I've talked to the system administrator, in hopes of finding some sort of explanation. I'll take the next train to Timor Station. Arriving at 0845. Could you pick me up?"
 	"MailBody2C"	"L. Callen"
 
     // sent mail

@@ -1,31 +1,31 @@
 GAME
 {
-    // PDA belongs to SysAdmin
+    // PDA pertence ao SysAdmin
     
-    // inbox
+    // Caixa de entrada
     
-	"MailFrom1"	"From: Phil Ryan"
-	"MailDate1"	"Date: 12/20/52"
+	"MailFrom1"	"De: Phil Ryan"
+	"MailDate1"	"Data: 20/12/52"
 	"MailSubject1"	"Subject: Spam!"
-	"MailBody1A"	"Mr. Rivera,"
-	"MailBody1B"	"I think I speak on behalf of everyone around here.  Can you PLEASE do something about the spam?  Update the inbox filters or whatever, I assume you know best, but for God's sake do something!  A nickel for every piece of crap I've received in the last month and I'd be set for life."
+	"MailBody1A"	"Sr. Rivera,"
+	"MailBody1B"	"Acho que falo em nome de todos aqui.  Você pode POR FAVOR fazer algo sobre o spam?  Atualize os filtros da caixa de entrada ou qualquer outra coisa, Eu presumo que você saiba melhor, mas pelo amor de Deus faça alguma coisa! Um centavo para cada porcaria que recebi no último mês e eu estaria rico para o resto da vida."
 	"MailBody1C"	"Phil Ryan."
 	
-	"MailFrom2"	"From: Dr. Miller"
+	"MailFrom2"	"De: Dr. Miller"
 	"MailSubject2"	"Fwd: Ph4rm4 4 U"
 	"MailDate2"	"Date: 12/12/52"
-	"MailBody2A"	"Get all the good stuff legally over SynNet!!"
-	"MailBody2B"	"Isoth4m1ne 23 for only 99$/package, all incl."
-	"MailBody2C"	"Interstellar shipping available."
-	"MailBody2D"	"Is0tham1ne 23 will make you feel fresh, strong and rested for an entire working day!!  Your supervisors are taking it--why shouldn't you?"
+	"MailBody2A"	"Consiga todas as paradas legalmente pela SynNet!!"
+	"MailBody2B"	"Is0t4m1na 23 por apenas 99$/pacote, tudo incl."
+	"MailBody2C"	"Transporte interestelar disponível."
+	"MailBody2D"	"Is0t4m1na 23 vai fazer você se sentir renovado, forte e descansado por um dia inteiro de trabalho!!  Seus supervisores estão tomando it--por que você não deveria?"
 
-    // sent mail
+    // Correspondência enviada
 
-	"MailFrom3"	"To: Phil Ryan"
-	"MailDate3"	"Date: 12/20/52"
-	"MailSubject3"	"Subject: Re: Spam!"
-	"MailBody3A"	"Dear Mr,"
-	"MailBody3B"	"Thank you for your mail and your interest in the company.  We have carefully studied your request, and as soon as one of our agents is available he will be assigned to the issue.  Do not reply to this email.  We will be in touch with you as soon as possible."
-	"MailBody3C"	"SynTek Management/Sys. Admin."
+	"MailFrom3"	"Para: Phil Ryan"
+	"MailDate3"	"Data: 20/12/52"
+	"MailSubject3"	"Assunto: Re: Spam!"
+	"MailBody3A"	"Caro Sr,"
+	"MailBody3B"	"Obrigado por seu e-mail e seu interesse na empresa.  Estudamos cuidadosamente o seu pedido, e assim que um de nossos agentes estiver disponível ele será designado a esse problema.  Não responda este email. Entraremos em contato com você o mais breve possível."
+	"MailBody3C"	"Gestor SynTek /Sys. Admin."
 	"MailBody3D"	"Rivera, C."	
 }

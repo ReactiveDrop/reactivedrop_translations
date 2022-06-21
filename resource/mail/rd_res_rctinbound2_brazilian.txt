@@ -1,30 +1,30 @@
 GAME
 {
-	//inbox
+//Caixa de entrada
 
-"MailFrom1" "From: Ming"
-"MailDate1" "Date: 27/12/52"
-"MailSubject1" "BURN THEM!"
-"MailBody1A" "Sending those things to you was a mistake! I'm sorry!"
-"MailBody1B" "You need to kill all of your specimens, NOW!"
-"MailBody1C" "I'm holed up in an alcove in Timor Station, I can HEAR them. They're coming for me!."
-"MailBody1D" "KILL THEM OR GET OUT WHILE YOU STILL CAN"
+"MailFrom1" "De: Ming"
+"MailDate1" "Data: 27/12/52"
+"MailSubject1" "Assunto: QUEIME-OS!"
+"MailBody1A" "Enviar essas coisas para você foi um erro! Eu sinto Muito!"
+"MailBody1B" "Você precisa matar todos os seus espécimes, AGORA!"
+"MailBody1C" "Estou escondido em uma alcova na Estação Timor, eu posso OUVI-LOS. Eles estão vindo por mim!."
+"MailBody1D" "MATE-OS OU FUJA ENQUANTO AINDA PODE"
 
-"MailFrom2" "From: Martin Jericho"
-"MailDate2" "Date: 27/12/52"
-"MailSubject2" "Re: Defrosting meat"
-"MailBody2A" "Hullen, you BASTARD!"
-"MailBody2B" "That thing you sent us wasn't dead! We took it near the lava and it came alive."
-"MailBody2C" "It killed Hodgson AND Jenny. You hear me, YOU KILLED JENNY!"
-"MailBody2D" "It bit me, I can feel something moving inside me... growing... I hate you."
+"MailFrom2" "De: Martin Jericho"
+"MailDate2" "Data: 27/12/52"
+"MailSubject2" "Assunto: Re: Carne descongelada"
+"MailBody2A" "Hullen, seu MALDITO!"
+"MailBody2B" "Aquela coisa que você nos enviou não estava morta! Nós o levamos perto da lava e ele ganhou vida."
+"MailBody2C" "Essa coisa matou o Hodgson E a Jenny. Você me ouviu?, VOCÊ MATOU A JENNY!"
+"MailBody2D" "Essa coisa me mordeu, Eu posso sentir algo se movendo dentro de mim... crescendo... eu odeio você."
 
-	//sent mail
+//Enviados
 
-"MailFrom3" "To: Martin Jericho"
-"MailDate3" "Date: 26/12/52"
-"MailSubject3" "Desfrosting meat"
-"MailBody3A" "Hello Martin,"
-"MailBody3B" "I've recieved several specimens from Vereon XII, don't ask how. One of the specmens appears to have died during transport."
-"MailBody3C" "I can't use the incinerator here without the higher ups finding out, I'm sending it to your mines for disposal in one of the lava pits."
+"MailFrom3" "Para: Martin Jericho"
+"MailDate3" "Data: 26/12/52"
+"MailSubject3" "Assunto: Carne descongelada"
+"MailBody3A" "Olá Martin,"
+"MailBody3B" "Recebi vários espécimes de Verizon XII, não me pergunte como.Um dos espécimes parece ter morrido durante o transporte."
+"MailBody3C" "Não posso usar o incinerador aqui sem que os superiores descubram, Estou enviando para suas minas para descarte em um dos poços de lava."
 "MailBody3D" "Hullen."
 } 

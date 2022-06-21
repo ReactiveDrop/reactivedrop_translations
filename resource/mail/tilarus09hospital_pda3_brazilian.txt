@@ -1,20 +1,20 @@
 GAME
 {
-    // PDA belongs to David Foster
+    // PDA pertence ao David Foster
 
-    // sent mail 
-	"MailFrom3"	"To: Andrew Ward"
-	"MailDate3"	"Date: 3/16/46"
-	"MailSubject3"	"Subject: Need Help"
+    // Enviados
+	"MailFrom3"	"Para: Andrew Ward"
+	"MailDate3"	"Data: 16/03/46"
+	"MailSubject3"	"Assunto: Preciso de ajuda"
 	"MailBody3A" 	"Andrew,"
-	"MailBody3B"	"As this hospital's head of security, it's your job to contain this sort of thing."
-	"MailBody3C"	"We've isolated the aggressive specimens at the lowest levels of the facility. We're not sure how much longer we can keep them down there."
-	"MailBody3D"	"Find a solution!"
+	"MailBody3B"	"Como chefe de segurança deste hospital, é seu trabalho conter esse tipo de coisa."
+	"MailBody3C"	"Isolamos os espécimes agressivos nos níveis mais baixos da instalação. Não temos certeza de quanto tempo mais podemos mantê-los lá embaixo."
+	"MailBody3D"	"Encontre uma solução!"
 
-	"MailFrom4"	"To: Andrew Ward"
-	"MailDate4"	"Date: 3/16/46"
-	"MailSubject4"	"Subject: I'm going to be next"
+	"MailFrom4"	"Para: Andrew Ward"
+	"MailDate4"	"Data: 16/03/46"
+	"MailSubject4"	"Assunto: Eu serei o proximo"
 	"MailBody4A"	"Andrew,"
-	"MailBody4B"	"Doctor Archibald, Mason and Miln are dead."
-	"MailBody4C"	"You can do whatever you want now, but I'm getting the hell out of here. You better find some ammo fast if you plan on staying alive for much longer."
+	"MailBody4B"	"Doutor Archibald, Mason e Miln estão mortos."
+	"MailBody4C"	"Você pode fazer o que quiser agora, mas eu vou dar o fora daqui. É melhor você encontrar munição rapidamente se planeja viver por muito mais tempo."
 }
