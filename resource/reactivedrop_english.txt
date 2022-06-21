@@ -1267,6 +1267,7 @@
 "asw_instructor_roll" "Roll to Avoid Projectiles"
 "asw_instructor_walk" "Hold to Walk"
 "asw_instructor_movement" "Move Marine"
+"asw_instructor_rotate_camera" "Rotate camera"
 
 "asw_fail_advice_teamwork" "Coordinate your squad's movement and firing zones."
 "asw_fail_advice_loadout" "Tactically coordinate your squad's loadout equipment."
@@ -2968,6 +2969,10 @@
 "t5_arcticinfiltration_4a" "At this point, you should be good to go further into the facility."
 "t5_arcticinfiltration_4b" "We will continue from there according to the data you recovered from the computers."
 
+"t5_arcticinfiltration_debrief1" "Great work, team. We have the generators online so the facility is now fully powered."
+"t5_arcticinfiltration_debrief2" "IAF Tech Division had a look at the data you retrieved from the computers. They managed to extract information about the facility inlcuding a layout of it."
+"t5_arcticinfiltration_debrief3" "Now we have a pretty good idea where you should proceed. More details will be available in the briefing of the next mission."
+
 "t5_arcticinfiltration_hint" "Hack this panel to open the door."
 "t5_arcticinfiltration_hint2" "Map made by Specur"
 
@@ -2982,6 +2987,8 @@
 "t5_area9800_2a" "Find the bridge and activate it."
 "t5_area9800_3_title" "Go to the Extraction Point"
 "t5_area9800_1_title" "Clear the Hangar"
+
+"t5_area9800_debrief" "Well done team!"
 
 "t5_coldcatwalks_1_title" "Disable the alarm"
 "t5_coldcatwalks_1a" "The emergency systems have closed the bridge between the rooftops. You need to disable the alarm and reopen the bridge."
@@ -3059,6 +3066,9 @@
 
 "t5_syntekhospital_hint" "You only have 60 seconds to reach the evacuation zone! Try to keep up!"
 "t5_syntekhospital_hint2" "Don\'t abandon the helipad, or you might miss the teleport!"
+
+"t5_syntekhospital_debrief1" "The complex has been destroyed, and you\'ve stopped those abominations."
+"t5_syntekhospital_debrief2" "Good work, marines."
 
 // BioGen Corporation strings
 "bio_operationx5_1_title" "Power up the generator"
@@ -3224,6 +3234,8 @@
 "par_unexpectedencounter_4_title" "Descend in the elevator"
 "par_unexpectedencounter_4a" "Use the elevator to descend to a lower level."
 
+"par_unexpectedencounter_debrief" "We found no survivors. The administrative area is in the lower levels of the outpost. We should search that location for documents about recent activities."
+
 "par_hostileplaces_1_title" "Reach administrative area"
 "par_hostileplaces_1a" "Proceed to the administrative area to find documents relating to this outpost\'s activities."
 
@@ -3231,17 +3243,22 @@
 "par_hostileplaces_2a" "The bridge we need to cross is collapsed, and there is no power to extend it."
 "par_hostileplaces_2b" "We need to locate the generator controls and activate power to the bridge to proceed."
 
-"par_closecontact_2_title" "Find documents"
-"par_closecontact_2a" "Collect important documents from this area."
+"par_hostileplaces_debrief" "We have arrived at the entrance to the administrative area. Our objective is to search this area for information relating to the outpost\'s most recent activities."
+
+"par_closecontact_1_title" "Find documents"
+"par_closecontact_1a" "Collect important documents from this area."
 
 "asw_power_should_be_restored" "Power should be restored."
 
-"par_closecontact_3_title" "Find exit"
-"par_closecontact_3a" "We have collected all relevant documents. Find an exit from this building."
-"par_closecontact_3b" "There appears to be an exit near the medical room to the north."
+"par_closecontact_2_title" "Find exit"
+"par_closecontact_2a" "We have collected all relevant documents. Find an exit from this building."
+"par_closecontact_2b" "There appears to be an exit near the medical room to the north."
 
-"par_closecontact_4_title" "Exit the base"
-"par_closecontact_4a" "Proceed to the surface to find the outpost\'s communication center."
+"par_closecontact_debrief1" "Our next objective is to reach the outpost\'s communication center."
+"par_closecontact_debrief2" "As we will be exiting the structure, be prepared for sub-zero temperatures and maintain situational awareness, as threats could come from any direction."
+
+"par_closecontact_1_title" "Find documents"
+"par_closecontact_1_title" "Find documents"
 
 "par_hightension_1_title" "Find communication center"
 "par_hightension_1a" "Proceed to the outpost\'s communication center."
@@ -3254,6 +3271,8 @@
 "par_hightension_3a" "The bridge is obstructed by a pile of rocks. We must find a way to clear the path."
 "par_hightension_3b" "The mine area to the north might contain tools or explosives which can help us."
 
+"par_hightension_debrief" "We've cleared the path to the evac zone. Our only task now is to leave this outpost."
+
 "par_crucialpoint_1_title" "Activate beacon"
 "par_crucialpoint_1a" "Activate the beacon to request evacuation."
 
@@ -3263,6 +3282,65 @@
 
 "par_crucialpoint_3_title" "Await evac"
 "par_crucialpoint_3a" "Wait for the evac dropship to arrive. Be prepared to defend this position."
+
+"par_crucialpoint_debrief" "Bloodhound... come in... Bloodhound... come in..."
+
+// Bonus Mission 1 strings
+"bon1_spaceport_1_title" "Get inside the Spaceport"
+
+"asw_gametext_bon1_spaceport_title" "Action Begins"
+
+"bon1_spaceport_2_title" "Turn on the Reactor"
+
+"bon1_spaceport_3_title" "Escape"
+
+// Bonus Mission 2 strings
+"bon2_survivors_1_title" "Get Access to Inner Perimeter"
+"bon2_survivors_1a" "Allow your tech marine to hack the door panel"
+"bon2_survivors_1b" "and obtain access to inner perimeter"
+
+"bon2_survivors_2_title" "Search for Survivors"
+
+"bon2_survivors_3_title" "Move to the Next Sector"
+
+// Bonus Mission 3 strings
+"bon3_blueprint_1_title" "Find the blueprints"
+
+"bon3_blueprint_2_title" "Plant explosives on the door"
+
+"bon3_blueprint_3_title" "Plant explosives in the classroom"
+
+"bon3_blueprint_4_title" "Plant explosives on the main entrance"
+
+"bon3_blueprint_5_title" "Plant explosives in the sleeping quarters"
+
+"bon3_blueprint_6_title" "Plant explosives near the tanks"
+
+"bon3_blueprint_7_title" "Escape"
+
+// Bonus Mission 5 strings
+"bon5_documents_1_title" "Restore the power of the metal bridge."
+"bon5_documents_1a" "This level is no longer powered. The power should be restored to pass the metal bridge. then we will continue in this level, to find documents about recent activities of this base."
+
+"bon5_documents_2_title" "Find documents that describe the recent activities of the base."
+"bon5_documents_2a" "We should know if the problem is there since a moment, so now we have to find documents that detail the problems, activities, and transactions in recent days."
+"bon5_documents_2b" "(Note : Get close to them to pick them up.)"
+
+"bon5_documents_3_title" "Find a passage to leave the sector."
+"bon5_documents_3a" "We have enough information from documents retrieved, so now we must get out of here! There seems to be a northwest passage to the medical room."
+
+"bon5_documents_4_title" "Exit the base."
+"bon5_documents_4a" "Well, we just have to continue, and certainly we will go back to the surface soon."
+
+"bon5_documents_debrief1" "We found all the documents on the activities and recent transactions. We must now return to the surface and try to communicate with the IAF command center. We will certainly be able to find a communications center outside."
+"bon5_documents_debrief2" "We will go outside, and we will walk in the snow, so be prepared for temperatures below zero!"
+"bon5_documents_debrief3" "And especially pay attention to these creatures, they can go out anywhere in an environment like this."
+
+// Bonus Mission 6 strings
+"bon6_crucidalpoint_debrief" "What happened... ? What was that... ? Comrads, where... where are you ? *vertiges* uh... *tombe dans les pommes*"
+
+// Bonus Mission 7 strings
+"bon7_area9800PP2_debrief" "Well done, team!"
 
 "rd_campaign_name_deathmatch_campaign" "Deathmatch"
 "rd_campaign_desc_deathmatch_campaign" "Kill everything that moves."
