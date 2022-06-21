@@ -1255,7 +1255,7 @@
 		"[english]faith.Reloading0"		"<clr:178,34,34>Faith: Lock and load!"
 		"faith.Reloading1"		"<clr:178,34,34>Вера: Заряжаю!"
 		"[english]faith.Reloading1"		"<clr:178,34,34>Faith: Reload!"
-		"faith.Reloading2"		"<clr:178,34,34>Вера: Заряжаю, Прикройте меня!"
+		"faith.Reloading2"		"<clr:178,34,34>Вера: Заряжаю, прикройте меня!"
 		"[english]faith.Reloading2"		"<clr:178,34,34>Faith: Reload, cover me!"
 		"faith.Reloading3"		"<clr:178,34,34>Вера: Перезаряжаю!"
 		"[english]faith.Reloading3"		"<clr:178,34,34>Faith: Reloading!"
