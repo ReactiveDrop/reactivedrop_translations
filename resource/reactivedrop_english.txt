@@ -1267,6 +1267,7 @@
 "asw_instructor_roll" "Roll to Avoid Projectiles"
 "asw_instructor_walk" "Hold to Walk"
 "asw_instructor_movement" "Move Marine"
+"asw_instructor_rotate_camera" "Rotate camera"
 
 "asw_fail_advice_teamwork" "Coordinate your squad's movement and firing zones."
 "asw_fail_advice_loadout" "Tactically coordinate your squad's loadout equipment."
@@ -1528,6 +1529,7 @@
 "asw_ob_plant_3t" "Reach the north exit"
 "asw_ob_plant_3" "Once power is restored, perform a sweep through the facility to the North exit, eliminating any hostiles encountered."
 "asw_hint_plant_1" "Fire Extinguisher"
+"asw_not_powered" "Not Powered"
 "asw_ob_office_3t" "Destroy the Swarm eggs"
 "asw_ob_office_3" "You must find and destroy all the swarm eggs in the residential complex.  This is the first step of Swarm containment."
 "asw_ob_office_3b" "Early scans indicate the Swarm eggs are concentrated around warm-air heat sources, so your squad must do a thorough check of the residential ventilation systems."
@@ -1592,6 +1594,15 @@
 "asw_pda_owner_name_doctor_david_foster" "Dr. D.Foster"
 "asw_pda_owner_name_doctor_kennett" "Dr.Kennett"
 "asw_pda_owner_name_doctor_ian_cook" "Dr. Ian Cook"
+"asw_pda_owner_name_doctor_tom_hinler" "Dr. Tom Hinler."
+"asw_pda_owner_name_jan_anath" "Jan Anath"
+"asw_pda_owner_name_lucius_pawn" "Lucius Pawn"
+"asw_pda_owner_name_lana_king" "Lana King"
+"asw_pda_owner_name_leon_bishop" "Leon Bishop"
+"asw_pda_owner_name_herbert_graffson" "H. Graffson"
+"asw_pda_owner_name_george_benson" "G. Benson"
+"asw_pda_owner_name_andrew_smithson" "A. Smithson"
+"asw_pda_owner_name_tony_dawson" "T. Dawson"
 
 "asw_galactic_map_core_systems" "CORE SYSTEMS"
 "asw_galactic_map_syntek_megacorporation" "SYNTEK MEGACORPORATION"
@@ -2457,6 +2468,10 @@
 //
 //Lana's Escape objectives
 //
+// as_sci1_bridge CHAPTER TEXT
+//
+"asw_gametext_lan_lanasbridge_title" "Lana's Escape"
+//
 // as_sci1_bridge OBJECTIVES
 //
 "asw_ob_lanasbridge_1t" "Get access to the bridge"
@@ -2475,6 +2490,8 @@
 "asw_hint_lanasbridge_2" "Bridge Authorized"
 "asw_hint_lanasbridge_3" "Cross the bridge"
 "asw_hint_lanasbridge_4" "Mines Detected"
+"asw_hint_lanasbridge_5" "Break the door to escape"
+"asw_hint_lanasbridge_6" "Minefield maintenance mode ON"
 //
 // as_sci2_sewer OBJECTIVES
 //
@@ -2515,12 +2532,14 @@
 "asw_ob_lanasvent_3" "Colonists will have set up explosive charges on the platforms. We have no information regarding the exact location of these charges. Stay on your toes, Marines!"
 "asw_ob_lanasvent_4t" "Escape!"
 "asw_ob_lanasvent_4" "The platforms will be destroyed quickly after the detonation, so proceed to the facility's main complex with haste."
+"asw_awaiting_sequence" "Awaiting Sequence..."
 //
 // as_sci4_vent HINTS
 //
 "asw_hint_lanasvent_1" "Find your way out of the vents"
 "asw_hint_lanasvent_2" "Input the detonation sequence!"
 "asw_hint_lanasvent_3" "Run to the complex!"
+"asw_hint_lanasvent_4" "Seal doors deactivated"
 //
 // as_sci5_complex OBJECTIVES
 //
@@ -2593,45 +2612,67 @@
 // Research 7 strings
 "rd_res1_ob_poweron1" "Restore the power"
 "rd_res1_ob_poweron1_d" "Turn on the backup generator to restore power to the airlock."
+
 "rd_res1_ob_airlock1" "Open the airlock"
 "rd_res1_ob_airlock1_d" "The airlock is back online, use the panel to open it."
+
 "rd_res1_ob_escape2" "Access the facility"
 "rd_res1_ob_escape2_d" "Open the airlock door to proceed through the facility."
+
 "rd_res1_ob_escape" "Proceed into facility"
 "rd_res1_ob_escape_d" "Get inside the Research 7 facility."
+
+"asw_find_the_generator_switch" "Find the generator switch"
+
 "rd_res1_ob_activatepurge1" "Activate the Purge System"
 "rd_res1_ob_activatepurge1_d" "Find and activate the RC7 Purge Systems to kill the swarm in the labs."
 "rd_res1_ob_activatepurge1_d2" "Some of the swarm may be driven upwards through vents."
+
 "rd_res1_ob_exit_though_forest" "Exit RC7 and head through the forest"
 "rd_res1_ob_exit_though_forest1_d" "The forest ahead blocks your path. Find a way through, be inventive."
+
 "rd_res1_ob_stop_spread" "Stop the aliens spreading!"
 "rd_res1_ob_stop_spread_d" "The swarm are coming from underground."
 "rd_res1_ob_stop_spread_d2" "Find a way to plug the hole to stop the alien menace spreading."
+
 "rd_res1_ob_find_the_hut" "Find a way into the hut"
 "rd_res1_ob_find_the_hut_d" "Maps show a cavern behind this hut."
+
 "rd_res1_ob_infested_hut_and_damp_d" "The damp and dark hut is full of the swarm, eradicate the eggs."
+
 "rd_res1_ob_biomass_inside_cabin_d" "Burn the biomass from inside the cabin."
+
 "rd_res1_ob_go_into_cave" "Go deeper into the cave system."
 "rd_res1_ob_go_into_cave_d" "The swarm broke through the cabin wall from a cave."
 "rd_res1_ob_go_into_cave_d2" "Follow the cave system."
+
 "rd_res1_ob_find_bypass_blockage" "Find a way past the blockage"
 "rd_res1_ob_find_bypass_blockage_d" "There must be something to use in the caves nearby"
+
 "rd_res1_ob_find_bypass_gate" "Find a way to bypass the gate"
 "rd_res1_ob_find_bypass_gate_d" "Burn the biomass away"
+
 "rd_res1_ob_rise_lift" "Rise the lift"
 "rd_res1_ob_rise_lift_d" "You\'ll need to bring that lift up, hit the switch to activate it"
+
 "rd_res1_ob_defend_generator" "Defend the generator"
 "rd_res1_ob_defend_generator_d" "The swarm seem to be attracted to something, defend the generator!"
 "rd_res1_ob_defend_generator_d2" "If they damage it too much the lift won\'t reach you."
+
 "rd_res1_ob_on_lift" "Get on the lift"
+
 "rd_res1_ob_find_way_raise_lift" "Find a way to raise the lift"
 "rd_res1_ob_rotate_laser" "Rotate the laser"
 "rd_res1_ob_recharge_laser" "Charge the laser"
 "rd_res1_ob_shoot_laser" "Fire the laser"
 "rd_res1_ob_exit_mines" "Escape the mines"
+
 "rd_res1_hint_raise_lift" "Raise the lift"
+
 "rd_res1_hint_open_doors" "Open lift doors"
+
 "rd_res1_hint_run_to_laser_room" "Run to the south, into laser room! Alien queen is close!"
+
 "rd_res1_hint_evacuate_quick" "Evacuate ASAP"
 
 "nb_commander_connecting" "Connecting..."
@@ -2854,6 +2895,11 @@
 "nh_logisticsarea_3" "Though the facility appears mostly intact, we're expecting extra steps to get these parts running again."
 "nh_logisticsarea_4_title" "Leave the sector"
 "nh_logisticsarea_4" "This reinforced door mechanism will lead you out, assuming you've kept your tech mostly in one piece."
+
+"asw_gametext_nh_logisticsarea_title" "Alien Swarm: Nam Humanum"
+"asw_gametext_nh_logisticsarea_title2" "Thomas 'Synmachus' Lesteven"
+"asw_gametext_nh_logisticsarea_title3" "Guillaume 'Stral' Houard"
+
 "nh_platformXVII_1_title" "Look for the elevator"
 "nh_platformXVII_1a" "Things seem to be getting worse by the minute. While unclear as to a definite course of action, we still have ways to go before we reach our end. What's left of Lugdunum's railway could be a worthwhile alternative to get you around the facility."
 "nh_platformXVII_1b" "And keep your tech close, it'll save you some headaches with these rails."
@@ -2868,8 +2914,10 @@
 "nh_platformXVII_5" "Should you come across barriers in your path, please restrain from jumping over. Bring them down to cross the chasm safely."
 "nh_platformXVII_6_title" "Take the elevator shaft down"
 "nh_platformXVII_6" "The elevator at the end of the sector will lead you to the research complex."
+
 "nh_platformXVII_hint" "All marines must be on the platform."
 "nh_platformXVII_hint2" "Press to launch the platform."
+
 "nh_groundworklabs_1_title" "Reach the labs' junction"
 "nh_groundworklabs_1a" "Change of plans: we're tearing down this place for good. Gaining access to one of the colony's power cores is our best lead at burying it whole. Thermal readings are all over the place, so be advised as to alien presence."
 "nh_groundworklabs_1b" "New goal, same deal. This is where it all began. Have someone who knows their stuff in electronics, and give it all you have."
@@ -2885,6 +2933,7 @@
 "nh_groundworklabs_5" "Be fast on your legs and escape through the emergency exit where dropship Snakebite will be there to pick you up."
 "nh_groundworklabs_6_title" "(Optional) Upload data to the ship"
 "nh_groundworklabs_6" "-unauthorized entry, Ship Command notified-"
+
 "nh_groundworklabs_6_hint" "Destroy the gate generator"
 "nh_groundworklabs_6_hint2" "Trigger the nuclear meltdown"
 
@@ -2895,6 +2944,7 @@
 "t5_midnight_2a" "Use controls located in the Main Server Room to open the gates to go towards the Dawn Colony."
 "t5_midnight_3_title" "Procede Towards Long Dawn"
 "t5_midnight_3a" "Procede towards the Colony of Long Dawn, To help the Remaining colonists escape."
+
 "t5_roadtodawn_1_title" "Take Dock Overseer's ID"
 "t5_roadtodawn_1a" "Download the Dock Overseer's ID & Profile of the Nearest Interface, to gain access to the Main Road leading to the colony."
 "t5_roadtodawn_2_title" "Activate SuperBlast doors"
@@ -2903,6 +2953,7 @@
 "t5_roadtodawn_3a" "Hold Position, and make sure those Blast Doors close."
 "t5_roadtodawn_4_title" "Go to next area"
 "t5_roadtodawn_4a" "Unless you want to stay here, with a load of angry trapped bugs, you should go to next area."
+
 "t5_arcticinfiltration_1_title" "Gain access into the facility"
 "t5_arcticinfiltration_1a" "We received a distress call from a SynTek facility saying that they are under swarm attack."
 "t5_arcticinfiltration_1b" "Proceed from the landing zone to the front entrance of the facility. Look for any survivors on your way."
@@ -2917,20 +2968,35 @@
 "t5_arcticinfiltration_4_title" "Proceed deeper into the facility"
 "t5_arcticinfiltration_4a" "At this point, you should be good to go further into the facility."
 "t5_arcticinfiltration_4b" "We will continue from there according to the data you recovered from the computers."
+
+"t5_arcticinfiltration_debrief1" "Great work, team. We have the generators online so the facility is now fully powered."
+"t5_arcticinfiltration_debrief2" "IAF Tech Division had a look at the data you retrieved from the computers. They managed to extract information about the facility inlcuding a layout of it."
+"t5_arcticinfiltration_debrief3" "Now we have a pretty good idea where you should proceed. More details will be available in the briefing of the next mission."
+
 "t5_arcticinfiltration_hint" "Hack this panel to open the door."
 "t5_arcticinfiltration_hint2" "Map made by Specur"
+
+"asw_burn_all_biomass_on_generators" "Burn all of the biomass attached to the generators."
+"asw_complete_objective_first" "Complete other objectives first before proceeding here."
+"asw_activate_generators_first" "No power. Activate the generators first."
+"asw_out_of_order" "Out of soda. You happy now?"
+
 "t5_area9800_1_title" "Clear the Hangar"
 "t5_area9800_1a" "Kill everything that ain\'t human"
 "t5_area9800_2_title" "Activate Bridge"
 "t5_area9800_2a" "Find the bridge and activate it."
 "t5_area9800_3_title" "Go to the Extraction Point"
 "t5_area9800_1_title" "Clear the Hangar"
+
+"t5_area9800_debrief" "Well done team!"
+
 "t5_coldcatwalks_1_title" "Disable the alarm"
 "t5_coldcatwalks_1a" "The emergency systems have closed the bridge between the rooftops. You need to disable the alarm and reopen the bridge."
 "t5_coldcatwalks_2_title" "Secure the antidote receipt"
 "t5_coldcatwalks_2a" "The scientist named Andy Layton claims to have a receipt for the virus antidote - but he was in a great hurry to leave the facility, so he left the receipt coded into a container. Your mission is to locate the container and secure the data inside it."
 "t5_coldcatwalks_3_title" "Leave the catwalks"
 "t5_coldcatwalks_3a" "After securing the antidote receipt head for the next zone."
+
 "t5_yanaurusmine_1_title" "Gain entrance to the facility"
 "t5_yanaurusmine_1a" "Gain entrance to the facility"
 "t5_yanaurusmine_2_title" "Search the facility for survivors"
@@ -2943,12 +3009,30 @@
 "t5_yanaurusmine_5_title" "Destroy the Mines Entrance"
 "t5_yanaurusmine_6_title" "Escape"
 "t5_yanaurusmine_6a" "Get back on the ship"
+
 "t5_yanaurusmine_hint" "Turn on the power to gain access to the elevator."
+
+"asw_turn_on_power_for_elevator" "Turn on the power to gain access to the elevator."
+
 "t5_factory_1a" "Our report says that there are at least 15 alien eggs in the inside of the building."
 "t5_factory_1b" "Your mission is to detect and destroy them all."
 "t5_factory_1c" "Beware of parasites!"
-"t5_yanaurusmine_1_title" "Gain entrance to the facility"
-"t5_yanaurusmine_1a" "Gain entrance to the facility"
+"t5_factory_2_title" "Turn on the generator"
+"t5_factory_2a" "The front door has no power."
+"t5_factory_2b" "You have to turn on the generator to get access to the building"
+"t5_factory_3_title" "Turn on the second generator"
+"t5_factory_3a" "The heavy door is out of power!"
+"t5_factory_3b" "You have to turn on the second generator to open it."
+"t5_factory_4_title" "Use the elevator to escape"
+"t5_factory_4a" "There is an elevator on the other side of the building."
+"t5_factory_4b" "It will bring you to the landing platform."
+"t5_factory_5_title" "Escape to the landing platform"
+"t5_factory_5a" "Make your way to the on the end of the falsework."
+"t5_factory_5b" "There is a landing platform. Our landing ship will pick you up there."
+
+"asw_get_in_the_elevator" "Get in the elevator!"
+"asw_clear_the_biomass_first" "Clear the biomass first"
+
 "t5_comcenter_1_title" "Restore power to the complex for entry"
 "t5_comcenter_1a" "Restore power to the complex for entry"
 "t5_comcenter_2a" "Destroy eggs"
@@ -2956,6 +3040,7 @@
 "t5_comcenter_3a" "Access hive location charts"
 "t5_comcenter_4_title" "Escape"
 "t5_comcenter_4a" "Find the launch pad at the rear of the complex"
+
 "t5_syntekhospital_1_title" "The mission description"
 "t5_syntekhospital_1a" "A series of deaths in SynTek hospital have finally forced the local government to investigate."
 "t5_syntekhospital_1b" "Unfortunately, all law enforcement officials that entered the hospital have yet to return. About an hour ago, all power to the hospital seems to have been cut."
@@ -2978,8 +3063,12 @@
 "t5_syntekhospital_6_title" "Evacuate!"
 "t5_syntekhospital_6a" "Get to the teleportation platform behind the facility."
 "t5_syntekhospital_6b" "SynTek\'s experiments are coming from everywhere. Bloodhound will cover your exit."
+
 "t5_syntekhospital_hint" "You only have 60 seconds to reach the evacuation zone! Try to keep up!"
 "t5_syntekhospital_hint2" "Don\'t abandon the helipad, or you might miss the teleport!"
+
+"t5_syntekhospital_debrief1" "The complex has been destroyed, and you\'ve stopped those abominations."
+"t5_syntekhospital_debrief2" "Good work, marines."
 
 // BioGen Corporation strings
 "bio_operationx5_1_title" "Power up the generator"
@@ -2989,11 +3078,13 @@
 "bio_operationx5_2b" "Find a way to go"
 "bio_operationx5_3_title" "Escape"
 "bio_operationx5_3a" "Escape from the facility."
+
 "bio_operationx5_hint" "WARNING! Unauthorized user detected. Sealing doors."
 "bio_operationx5_hint2" "We won\'t be able to hold them off when the door breaks. We have to do something!"
 "bio_operationx5_hint3" "Looks like something has just opened"
 "bio_operationx5_hint4" "Wait for the elevator."
 "bio_operationx5_hint5" "Wait for others."
+
 "bio_invisiblethreat_1_title" "Find the Armoury"
 "bio_invisiblethreat_hint" "Gather in the armoury"
 "bio_invisiblethreat_hint2" "Fan speed: 70 percent"
@@ -3003,12 +3094,14 @@
 "bio_invisiblethreat_hint6" "Fan speed: 110 percent"
 "bio_invisiblethreat_hint7" "Fan speed: 120 percent"
 "bio_invisiblethreat_hint8" "This door is welded, but doesn\'t seem to be locked."
+
 "bio_biogenlabs_1_title" "Take the antidote."
 "bio_biogenlabs_2_title" "Find DNA sample."
 "bio_biogenlabs_3_title" "Find the formula."
 "bio_biogenlabs_4_title" "Input the formula."
 "bio_biogenlabs_5_title" "Infect the heart of the biomass."
 "bio_biogenlabs_6_title" "Upload information to the net."
+
 "bio_biogenlabs_hint" "Gather in the armoury"
 "bio_biogenlabs_hint2" "Found it! Now hack it."
 "bio_biogenlabs_hint3" "All team members must gather around the cart to take the antidote"
@@ -3023,6 +3116,231 @@
 "bio_biogenlabs_hint11" "You forgot to input the formula! Go back."
 "bio_biogenlabs_hint12" "You don\'t have the formula"
 "bio_biogenlabs_hint13" "Flammable liquid is constantly leaking. You cannot extinguish this fire."
+
+// Operation Cleansweep strings
+"ocs_storagefacility_1_title" "Gain access to the storage facility."
+"ocs_storagefacility_1a" "The main entrance to the landing bay area is overrun with infestation. Use the \'back door\' to gain access to the storage facility, that leads to the landing bays."
+"ocs_storagefacility_2_title" "Enter the landing bay area"
+"ocs_storagefacility_2a" "Locate the landing bay area and escape."
+
+"ocs_landingbay7_1_title" "Infiltrate landing bay 7"
+"ocs_landingbay7_1a" "Gain entrance to landing bay 7"
+
+"ocs_landingbay7_2a" "Destroy 10 swarm eggs"
+
+"ocs_landingbay7_3_title" "Use the shuttle to escape"
+"ocs_landingbay7_3a" "Hack the shuttle and get in!"
+
+"ocs_uscmedusa_1a" "Destroy all alien biomass onboard the ship"
+
+"ocs_uscmedusa_2_title" "Bring the ship\'s reactor online"
+"ocs_uscmedusa_2a" "Locate the engine room and bring the reactor online."
+
+"ocs_uscmedusa_3_title" "Download the flight data"
+"ocs_uscmedusa_3a" "Use the terminal on the bridge to download the recorded flight data, in order to set course to the alien homeplanet"
+
+"asw_clear_all_biomass" "Clear all biomass"
+"asw_reactor_is_offline" "Reactor is offline"
+
+"ocs_uscmedusa_4_title" "Enter the stasis pods"
+"ocs_uscmedusa_4a" "Enter the statis pods to inititate interstellar travel"
+
+// Tears For Tarnor, Ch.1: Insertion strings
+"tf1_desertoutpost_1_title" "Briefing"
+"tf1_desertoutpost_1a" "Upon making planetfall, Cerberus was unable to establish a link with ground based guidance and tracking systems necessary to land at the spaceport."
+"tf1_desertoutpost_1b" "Whilst looking for an alternative drop-off spot, a weak distress signal was detected. The captain has decided to drop the marines off a short distance away, so they can investigate the signal."
+"tf1_desertoutpost_1c" "Afterwards, the marines will need to make their way to the spaceport and bring the guidance and tracking systems back online. The nearby abandoned communication outpost may hold useful information, or perhaps a functioning datalink to the main base."
+
+"tf1_desertoutpost_2_title" "Investigate Source of Distress Signal"
+"tf1_desertoutpost_2a" "A weak distress signal was detected in the vicinity. Investigate the source of the signal."
+
+"tf1_desertoutpost_3_title" "Reach the outpost"
+"tf1_desertoutpost_3a" "Find your way to the nearby abandoned communication outpost."
+
+"tf1_desertoutpost_4_title" "Investigate Second Distress Signal"
+"tf1_desertoutpost_4a" "A second distress beacon has been picked up from your current location. Investigate this beacon."
+"tf1_desertoutpost_4b" "Be wary, the beacon appears to be located within an unstable cave system."
+
+"tf1_desertoutpost_5_title" "Access outpost database"
+"tf1_desertoutpost_5a" "Access the outpost database to see if it has any useful information."
+
+"tf1_desertoutpost_6_title" "Enter airlock"
+"tf1_desertoutpost_6a" "The abandoned outpost had information regarding a disused airlock access into the base. Access the base via the disused airlock."
+
+"asw_gametext_tf1_desertoutpost_title" "Chapter 1: Insertion"
+
+"tf1_abandonedmaintenance_1_title" "Briefing"
+"tf1_abandonedmaintenance_1a" "Having gained access to the base, it\'s time to move deeper. The swarm are on Tarnor and in high concentrations."
+"tf1_abandonedmaintenance_1b" "These old maintenance and storage sectors should connect up to the spaceport."
+"tf1_abandonedmaintenance_1c" "Be advised that when newer facilities were constructed, these areas were left abandoned. Systems may not function properly here. Be prepared for malfunctions."
+"tf1_abandonedmaintenance_1d" "It\'s imperative that the squad makes it to the spaceport to find out why the guidance systems are offline and to search for anyone in need of assistance."
+
+"tf1_abandonedmaintenance_2_title" "Find Access To The Spaceport"
+"tf1_abandonedmaintenance_2a" "Explore the abandoned maintenance sector to find access to the spaceport."
+
+"tf1_abandonedmaintenance_3_title" "Activate Backup Power Systems"
+"tf1_abandonedmaintenance_3a" "Systems in this sector aren\'t receiving enough power to function properly."
+"tf1_abandonedmaintenance_3b" "Activating the backup power systems may restore power to some systems."
+
+"tf1_abandonedmaintenance_4_title" "Activate The Crane"
+"tf1_abandonedmaintenance_4a" "The backup power systems brought the crane online."
+"tf1_abandonedmaintenance_4b" "Use the crane control so that you may use the crane as a bridge."
+
+"tf1_abandonedmaintenance_5_title" "Use The Crane As A Bridge"
+"tf1_abandonedmaintenance_5a" "Now that you\'ve moved the crane, you can walk across it and search deeper for a power system"
+
+"tf1_abandonedmaintenance_6_title" "Activate Power Systems"
+"tf1_abandonedmaintenance_6a" "Find your way to the local generator system and bring it online."
+
+"tf1_abandonedmaintenance_7_title" "Access The Spaceport"
+"tf1_abandonedmaintenance_7a" "Leave the old maintenance sector and make your way to the spaceport."
+
+"tf1_abandonedmaintenance_lift1" "Human presence detected within critical area."
+"tf1_abandonedmaintenance_lift2" "Evacuate critical area before activating generator power injector."
+
+"tf1_spaceport_1_title" "Briefing"
+"tf1_spaceport_1a" "After navigating through the maze of maintenance systems, the squad has finally reached the spaceport."
+"tf1_spaceport_1b" "Your mission is to bring the guidance and tracking systems online and obtain landing permission for Cerberus. This will be most easily facilitated by interfacing with the spaceport control computer."
+"tf1_spaceport_1c" "Finally, please remember that whilst getting Cerberus into the spaceport is your current objective, your overall mission is still to investigate what has happened to Oasis colony."
+
+"tf1_spaceport_2_title" "Interface with Control Centre Computer"
+"tf1_spaceport_2a" "Interfacing with the spaceport's control computer is the only way to bring the guidance and tracking systems online."
+"tf1_spaceport_2b" "Use the computer systems to then gain landing clearance for Cerberus and remotely open one of the hangars."
+
+"tf1_spaceport_3_title" "Open the Hangar Doors"
+"tf1_spaceport_3a" "If you are unable to open any of the hangars remotely, move onto the nearest hangar and activate the door systems locally"
+"tf1_spaceport_3b" "The hangar\'s forcefields should protect you from catastrophic pressure variances when the doors are open."
+
+"tf1_spaceport_4_title" "Get to the Transit System"
+"tf1_spaceport_4a" "Make your way to the transit system station and board a train to Oasis colony\'s other sectors."
+
+"tf1_spaceport_5_title" "Get Around the Bridge"
+"tf1_spaceport_5a" "With the bridge down, another path to the control room must be found."
+"tf1_spaceport_5b" "Use the emergency airlocks to circumvent the destroyed bridge."
+
+"tf1_spaceport_6_title" "Board a Train"
+"tf1_spaceport_6a" "Wait for the next train to arrive and board it."
+
+"asw_system_not_aligned" "System Not Aligned"
+"asw_all_marines_beyond_elevator" "All marines must be beyond the elevator to proceed"
+
+// Paranoia strings
+"par_unexpectedencounter_1_title" "Enter the outpost"
+"par_unexpectedencounter_1a" "Enter the outpost and investigate the loss of communications."
+"par_unexpectedencounter_2_title" "Search for survivors"
+"par_unexpectedencounter_2a" "Try to find survivors in this complex. Maybe someone will be able to help you."
+"par_unexpectedencounter_3_title" "Download security records"
+"par_unexpectedencounter_3a" "Command wants the security records so they can find out what ships took off from this base."
+"par_unexpectedencounter_4_title" "Descend in the elevator"
+"par_unexpectedencounter_4a" "Use the elevator to descend to a lower level."
+
+"par_unexpectedencounter_debrief" "We found no survivors. The administrative area is in the lower levels of the outpost. We should search that location for documents about recent activities."
+
+"par_hostileplaces_1_title" "Reach administrative area"
+"par_hostileplaces_1a" "Proceed to the administrative area to find documents relating to this outpost\'s activities."
+
+"par_hostileplaces_2_title" "Restore power"
+"par_hostileplaces_2a" "The bridge we need to cross is collapsed, and there is no power to extend it."
+"par_hostileplaces_2b" "We need to locate the generator controls and activate power to the bridge to proceed."
+
+"par_hostileplaces_debrief" "We have arrived at the entrance to the administrative area. Our objective is to search this area for information relating to the outpost\'s most recent activities."
+
+"par_closecontact_1_title" "Find documents"
+"par_closecontact_1a" "Collect important documents from this area."
+
+"asw_power_should_be_restored" "Power should be restored."
+
+"par_closecontact_2_title" "Find exit"
+"par_closecontact_2a" "We have collected all relevant documents. Find an exit from this building."
+"par_closecontact_2b" "There appears to be an exit near the medical room to the north."
+
+"par_closecontact_debrief1" "Our next objective is to reach the outpost\'s communication center."
+"par_closecontact_debrief2" "As we will be exiting the structure, be prepared for sub-zero temperatures and maintain situational awareness, as threats could come from any direction."
+
+"par_closecontact_1_title" "Find documents"
+"par_closecontact_1_title" "Find documents"
+
+"par_hightension_1_title" "Find communication center"
+"par_hightension_1a" "Proceed to the outpost\'s communication center."
+"par_hightension_1b" "We have documentation of the strange studies done by this outpost. This information should be reported to the IAF before we can request evac."
+
+"par_hightension_2_title" "Find beacon"
+"par_hightension_2a" "Find and activate the beacon to request evacuation."
+
+"par_hightension_3_title" "Clear the bridge"
+"par_hightension_3a" "The bridge is obstructed by a pile of rocks. We must find a way to clear the path."
+"par_hightension_3b" "The mine area to the north might contain tools or explosives which can help us."
+
+"par_hightension_debrief" "We've cleared the path to the evac zone. Our only task now is to leave this outpost."
+
+"par_crucialpoint_1_title" "Activate beacon"
+"par_crucialpoint_1a" "Activate the beacon to request evacuation."
+
+"par_crucialpoint_2_title" "Turn off area lighting"
+"par_crucialpoint_2a" "[Optional] Turn off the exterior lighting system."
+"par_crucialpoint_2b" "Turning the lighting system off should attract fewer aliens. Unfortunately, it will also negatively impact our own visibility."
+
+"par_crucialpoint_3_title" "Await evac"
+"par_crucialpoint_3a" "Wait for the evac dropship to arrive. Be prepared to defend this position."
+
+"par_crucialpoint_debrief" "Bloodhound... come in... Bloodhound... come in..."
+
+// Bonus Mission 1 strings
+"bon1_spaceport_1_title" "Get inside the Spaceport"
+
+"asw_gametext_bon1_spaceport_title" "Action Begins"
+
+"bon1_spaceport_2_title" "Turn on the Reactor"
+
+"bon1_spaceport_3_title" "Escape"
+
+// Bonus Mission 2 strings
+"bon2_survivors_1_title" "Get Access to Inner Perimeter"
+"bon2_survivors_1a" "Allow your tech marine to hack the door panel"
+"bon2_survivors_1b" "and obtain access to inner perimeter"
+
+"bon2_survivors_2_title" "Search for Survivors"
+
+"bon2_survivors_3_title" "Move to the Next Sector"
+
+// Bonus Mission 3 strings
+"bon3_blueprint_1_title" "Find the blueprints"
+
+"bon3_blueprint_2_title" "Plant explosives on the door"
+
+"bon3_blueprint_3_title" "Plant explosives in the classroom"
+
+"bon3_blueprint_4_title" "Plant explosives on the main entrance"
+
+"bon3_blueprint_5_title" "Plant explosives in the sleeping quarters"
+
+"bon3_blueprint_6_title" "Plant explosives near the tanks"
+
+"bon3_blueprint_7_title" "Escape"
+
+// Bonus Mission 5 strings
+"bon5_documents_1_title" "Restore the power of the metal bridge."
+"bon5_documents_1a" "This level is no longer powered. The power should be restored to pass the metal bridge. then we will continue in this level, to find documents about recent activities of this base."
+
+"bon5_documents_2_title" "Find documents that describe the recent activities of the base."
+"bon5_documents_2a" "We should know if the problem is there since a moment, so now we have to find documents that detail the problems, activities, and transactions in recent days."
+"bon5_documents_2b" "(Note : Get close to them to pick them up.)"
+
+"bon5_documents_3_title" "Find a passage to leave the sector."
+"bon5_documents_3a" "We have enough information from documents retrieved, so now we must get out of here! There seems to be a northwest passage to the medical room."
+
+"bon5_documents_4_title" "Exit the base."
+"bon5_documents_4a" "Well, we just have to continue, and certainly we will go back to the surface soon."
+
+"bon5_documents_debrief1" "We found all the documents on the activities and recent transactions. We must now return to the surface and try to communicate with the IAF command center. We will certainly be able to find a communications center outside."
+"bon5_documents_debrief2" "We will go outside, and we will walk in the snow, so be prepared for temperatures below zero!"
+"bon5_documents_debrief3" "And especially pay attention to these creatures, they can go out anywhere in an environment like this."
+
+// Bonus Mission 6 strings
+"bon6_crucidalpoint_debrief" "What happened... ? What was that... ? Comrads, where... where are you ? *vertiges* uh... *tombe dans les pommes*"
+
+// Bonus Mission 7 strings
+"bon7_area9800PP2_debrief" "Well done, team!"
 
 "rd_campaign_name_deathmatch_campaign" "Deathmatch"
 "rd_campaign_desc_deathmatch_campaign" "Kill everything that moves."
