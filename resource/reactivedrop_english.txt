@@ -319,6 +319,11 @@
 "asw_objective_complete" "Objective complete!"
 "rd_objective_chat_message" "Objective %s1 complete! \nTime: %s2 Delta with previous objective: %s3\n"
 
+"asw_mission_complete_CAMPAIGN" "CAMPAIGN"
+"asw_mission_complete_MISSION" "MISSION"
+"asw_mission_complete_COMPLETE" "COMPLETE"
+"asw_mission_complete_FAILED" "FAILED"
+
 "asw_weapon_tooltip_activate" "Left click to activate"
 "asw_weapon_tooltip_change" "Left click to change"
 "asw_weapon_tooltip_increase" "LEFT CLICK TO INCREASE SKILL"
