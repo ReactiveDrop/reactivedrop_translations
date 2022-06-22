@@ -13,7 +13,7 @@
 "[english]filter_publicchat"		"Public Chat"
 "filter_servermsg"		"Message Serveur"
 "[english]filter_servermsg"		"Server Messages"
-"filter_teamchange"		"Changer d\'Équipe"
+"filter_teamchange"		"Changer d'Équipe"
 "[english]filter_teamchange"		"Team Changes"
 "chat_say"		"Dire :"
 "[english]chat_say"		"Say :"

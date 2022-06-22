@@ -1,5 +1,5 @@
-git.lubar.me/ben/valve v0.0.0-20220423231717-dd27f4acef9a h1:kHrUySmSOTdgyMohLNxvgSJES3jWZW4BRaeVVwGehf4=
-git.lubar.me/ben/valve v0.0.0-20220423231717-dd27f4acef9a/go.mod h1:H/0RIT0bYdjgE2na4+Vrv+JU9kP/9OJV3204vLjy3NE=
+git.lubar.me/ben/valve v0.0.0-20220621165626-a3a5b52442fc h1:LzlIaORecGu1N/DjyrCLbXQONJHWpNKzHaMr++d6gt0=
+git.lubar.me/ben/valve v0.0.0-20220621165626-a3a5b52442fc/go.mod h1:H/0RIT0bYdjgE2na4+Vrv+JU9kP/9OJV3204vLjy3NE=
 github.com/yuin/goldmark v1.4.1/go.mod h1:mwnBkeHKe2W/ZEtQ+71ViKU8L12m81fl3OWwC1Zlc8k=
 golang.org/x/crypto v0.0.0-20190308221718-c2843e01d9a2/go.mod h1:djNgcEr1/C05ACkg1iLfiJU5Ep61QUkGW8qpdssI0+w=
 golang.org/x/crypto v0.0.0-20210921155107-089bfa567519/go.mod h1:GvvjBRRGRdwPK5ydBHafDWAxML/pGHZbMvKqRZ5+Abc=
