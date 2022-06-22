@@ -2991,7 +2991,6 @@
 "t5_area9800_2_title" "Activate Bridge"
 "t5_area9800_2a" "Find the bridge and activate it."
 "t5_area9800_3_title" "Go to the Extraction Point"
-"t5_area9800_1_title" "Clear the Hangar"
 
 "t5_area9800_debrief" "Well done team!"
 
