@@ -2991,7 +2991,6 @@
 "t5_area9800_2_title" "Activate Bridge"
 "t5_area9800_2a" "Find the bridge and activate it."
 "t5_area9800_3_title" "Go to the Extraction Point"
-"t5_area9800_1_title" "Clear the Hangar"
 
 "t5_area9800_debrief" "Well done team!"
 
@@ -3261,9 +3260,6 @@
 
 "par_closecontact_debrief1" "Our next objective is to reach the outpost\'s communication center."
 "par_closecontact_debrief2" "As we will be exiting the structure, be prepared for sub-zero temperatures and maintain situational awareness, as threats could come from any direction."
-
-"par_closecontact_1_title" "Find documents"
-"par_closecontact_1_title" "Find documents"
 
 "par_hightension_1_title" "Find communication center"
 "par_hightension_1a" "Proceed to the outpost\'s communication center."
