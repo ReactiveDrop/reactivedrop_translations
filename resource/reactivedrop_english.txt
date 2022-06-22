@@ -3261,9 +3261,6 @@
 "par_closecontact_debrief1" "Our next objective is to reach the outpost\'s communication center."
 "par_closecontact_debrief2" "As we will be exiting the structure, be prepared for sub-zero temperatures and maintain situational awareness, as threats could come from any direction."
 
-"par_closecontact_1_title" "Find documents"
-"par_closecontact_1_title" "Find documents"
-
 "par_hightension_1_title" "Find communication center"
 "par_hightension_1a" "Proceed to the outpost\'s communication center."
 "par_hightension_1b" "We have documentation of the strange studies done by this outpost. This information should be reported to the IAF before we can request evac."
