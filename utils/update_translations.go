@@ -311,6 +311,10 @@ func updateLanguageFile(source *vdf.KeyValues, prefix, lang, suffix string) (upT
 		x := dest[strings.ToLower(c.Key)]
 
 		if onlyUpdateSourceStrings {
+			if x.translated == x.source {
+				x.translated = c.Value
+			}
+
 			x.source = c.Value
 		} else {
 			if x.source == "" && c.Value != "" {
