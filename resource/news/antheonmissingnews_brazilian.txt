@@ -1,9 +1,9 @@
 GAME
 {
-	"Headline"	"IAF marines missing at Moonspire"
-	"HeadlineDate"	"12/19/52"
-	"Paragraph1"	"150 IAF marines are still missing after the latest Swarm attack near the colony Moonspire on Antheon Prime, according to a senior IAF officer at a recent news conference held aboard the USS Endurance."
-	"Paragraph2"	"An infantry division of 208 marines was attacked by the Swarm two days ago, while searching the remains of an outpost for possible civilian survivors."
-	"Paragraph3"	"'There is an ongoing effort to find the missing marines,' said General C. Morrison, 'we received a distress signal at around 0200, but the whereabouts of Company 212 is still unknown at this time.'"
-	"Paragraph4"	"'This is a black day for the IAF, but we must fight on,' said Morrison."
+	"Headline"	"Fuzileiros da FAI desaparecidos em Moonspire"
+	"HeadlineDate"	"19/12/52"
+	"Paragraph1"	"150 fuzileitos da FAI ainda estão desaparecidos após o último ataque do Enxame perto da colônia Moonspire em Antheon Prime, de acordo com um oficial sênior da FAI em uma recente entrevista coletiva realizada a bordo da USS Resistência."
+	"Paragraph2"	"Uma divisão de infantaria de 208 fuzileiros foi atacada pelo Enxame há dois dias, enquanto procura os restos de um posto avançado por possíveis sobreviventes civis."
+	"Paragraph3"	"'Há um esforço contínuo para encontrar os fuzileiros desaparecidos,' disse o General C. Morrison, 'recebemos um sinal de socorro por volta das 02:00, mas o paradeiro da Compania 212 ainda é desconhecido neste momento.'"
+	"Paragraph4"	"'Este é um dia negro para a FAI, mas devemos lutar,' disso Morrison."
 }

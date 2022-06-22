@@ -1,9 +1,9 @@
 GAME
 {
-	"Headline"	"New Cellular Processes Discovered"
-	"HeadlineDate"	"12/19/52"
-	"Paragraph1"	"It is well understood that the human brain requires a steady supply of chemical energy to function properly.  SynTek Research Scientist Dr Lucas Weinburg recently announced his discovery of the genetic program which regulates this energy supply."
-	"Paragraph2"	"Having identified the receptor which controls the process, Dr Lucas is able to alter the supply and allow longer periods of conciousness.  'Eight out of 10 test subjects have easily switched from a 24 hour cycle to a 29 hour one with no ill effects,' said Lucas."
-	"Paragraph3"	"'Subjects feel healthy, strong, refreshed and ready for productive work.  Only two have complained about feeling unfocused'.  His tests also show that seven of the 10 subjects have stopped dreaming during their sleeping period."
-	"Paragraph4"	"If this technique passes long term safety tests, this could be another sensational medical achievement for the SynTek Megacorporation."
+	"Headline"	"Novos Processos Celulares Descobertos"
+	"HeadlineDate"	"19/12/52"
+	"Paragraph1"	"É de conhecimento geral que o cérebro humano requer um fornecimento constante de energia química para funcionar corretamente. O cientista de pesquisa da SynTek, Dr. Lucas Weinburg, anunciou recentemente sua descoberta do programa genético que regula esse suprimento de energia."
+	"Paragraph2"	"Tendo identificado o receptor que controla o processo, O Dr Lucas é capaz de alterar o suprimento e permitir períodos mais longos de consciência.  '8 em cada 10 sujeitos de teste mudaram facilmente de um ciclo de 24 horas para um de 29 horas sem efeitos nocivos,' disse Lucas."
+	"Paragraph3"	"'Os indivíduos se sentem saudáveis, fortes, revigorados e prontos para um trabalho produtivo. Apenas dois se queixaram de se sentirem desfocados'.  Seus testes também mostram que 7 dos 10 indivíduos pararam de sonhar durante o período de sono."
+	"Paragraph4"	"Se esta técnica passar nos testes de segurança de longo prazo, isso pode ser outra conquista médica sensacional para a Megacorporação SynTek."
 }

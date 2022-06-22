@@ -1,9 +1,9 @@
 GAME
 {
-	"Headline"	"Expansion Act 50th Anniversary"
-	"HeadlineDate"	"02/12/52"
-	"Paragraph1"	"Celebrations were held across the Interstellar Alliance today, showing support for the Interstellar Expansion Act of 2202.  This wildly successful directive allows any registered entity to claim planets, moons and even entire star systems by right of first discovery."
-	"Paragraph2"	"The Act has been heavily used by major corporations, spurring expansion and colonization unseen in human history.  The Act was put into place to encourage people to leave Earth, after dangerous overcrowding and high living costs put the homeworld's stability in danger."
-	"Paragraph3"	"A number of demonstrators were arrested outside the IA Central Embassy after they picketed the building, claiming the Act is responsible for fractioning humanity, citing the Chosen and the Humanist Protectorate as prime examples.  A number of extremists also blame the Act and the IA for exposing humanity to the Swarm."
-	"Paragraph4"	"The celebrations were sponsored and organized by Trust Media, Paradise Supplies, United Industries and the SynTek Megacorporation, with a spokeman stating 'Relax, have fun, show your support!  Then come to one of our recruitment centres and embrace the future!'"
+	"Headline"	" 50º Aniversário do Ato de Expansão"
+	"HeadlineDate"	"12/02/52"
+	"Paragraph1"	"Celebrações foram realizadas em toda a Aliança Interestelar hoje, demostrando apoio ao Ato de Expansão Interestelar de 2202.  Esta diretiva de grande sucesso permite que qualquer entidade registrada reivindique planetas, luas e até sistemas estelares inteiros por direito de primeira descoberta."
+	"Paragraph2"	"A lei tem sido fortemente usada por grandes corporações, estimulando a expansão e colonização nunca vista na história humana.  A lei foi criada para encorajar as pessoas a deixar a Terra, depois que a superlotação perigosa e o alto custo de vida colocaram em perigo a estabilidade do planeta natal."
+	"Paragraph3"	"Vários manifestantes foram presos do lado de fora da Embaixada Central da AI depois de fazerem piquetes no prédio, alegando que a Lei é a responsável por fracionar a humanidade, citando o Escolhido e o Protetorado Humanista como exemplos principais.  Vários extremistas também culpam a Lei e a AI por expor a humanidade ao Enxame."
+	"Paragraph4"	"As comemorações foram patrocinadas e organizadas pela Mídia Confiavel, Suprimentos Paraíso, Industrias Unidas e a Megacorporação SynTek, com um porta-voz dizendo 'Relaxe, divirta-se, mostre seu apoio! Então venha a um dos nossos centros de recrutamento e abrace o futuro!'"
 }
