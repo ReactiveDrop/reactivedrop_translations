@@ -13,7 +13,7 @@ Alien Swarm: Reactive Drop ist eine alleinstehende Erweiterung von Alien Swarm, 
 [*]Herausforderungen: Modifikationen des Spiels, genau wie Mutationen in Left 4 Dead 2
 [*]PvP: Deathmatch, Gun Game, Instagib, and Team Deathmatch
 [*]Einzelspielermodus: Spiel mit verbesserten Bots auf allen unserer offiziellen Karten
-[*]Neue Aliens: Antlion-Wächter, Träger-Drone, Schamane, Beschwörer-Drone und die Königin
+[*]Neue Aliens: Wanzenwächter, Träger-Drohne, Schamane, Beschwörer-Drohne und die Königin
 [*]Neue Waffen: Schweres Sturmgwehr, Desert Eagle, Sanitäter SMG, Kampfgewehr und Devastator
 [*]Über 100 Steam-Errungenschaften
 [*]Ranglisten: Wetteifere mit deinen Freunden um den schnellsten Einsatzabschluss

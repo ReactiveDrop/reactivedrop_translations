@@ -4,7 +4,7 @@ GAME
 // Inbox
 "MailFrom1"	"From: Pauline Vito"
 "MailDate1"	"Datum: 04/01/43"
-"MailSubject1"	"Thema: Gefangen im Gewächshaus"
+"MailSubject1"	"Betreff: Gefangen im Gewächshaus"
 "MailBody1A"	"Sir, einige von uns sind noch im Gewächshaus versteckt."
 "MailBody1B"	"Mr. Asselin hat es geschafft, sich an ihnen vorbeizuschleichen, um Hilfe zu holen. Ich glaube nicht, dass er zurückkommen wird..."
 "MailBody1C"	"Wir können sie durch das Glas sehen... diese Dinger... Ich glaube, sie machen etwas mit unserem Botaniker Jerome, der allein im Wartungsraum gefangen ist, seit sie gekommen sind. Was sollen wir tun? Oh Gott, ich kann ihn im Dunkeln wimmern hören..."
