@@ -4781,7 +4781,7 @@
 "[english]asw_weapon_healampgun"		"Medical Amplifier Gun"
 "asw_weaponl_healampgun"		"Усиливающая пушка МВС"
 "[english]asw_weaponl_healampgun"		"IAF Medical Amplifier Gun"
-"asw_weapon_healampgun_altfire"		"Усиление урона"
+"asw_weapon_healampgun_altfire"		"усилений урона"
 "[english]asw_weapon_healampgun_altfire"		"Damage Amplification"
 "asw_weapon_healampgun_attributes"		"Мобильное лечение и усиление"
 "[english]asw_weapon_healampgun_attributes"		"Mobile Healing and Amplification"
