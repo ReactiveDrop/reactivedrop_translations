@@ -2,7 +2,7 @@ module bitbucket.org/reactivedropteam/reactivedrop_translations/utils
 
 go 1.17
 
-require git.lubar.me/ben/valve v0.0.0-20220423231717-dd27f4acef9a
+require git.lubar.me/ben/valve v0.0.0-20220621165626-a3a5b52442fc
 
 require (
 	golang.org/x/mod v0.6.0-dev.0.20220106191415-9b9b3d81d5e3 // indirect
