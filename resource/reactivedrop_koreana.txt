@@ -935,6 +935,8 @@
 "[english]asw_weapon_shotgun"		"Shotgun"
 "asw_weaponl_shotgun"		"모델 35 펌프-연사식 산탄총"
 "[english]asw_weaponl_shotgun"		"Model 35 Pump-action Shotgun"
+		"asw_weapon_shotgun_altfire"		"Double Blast"
+		"[english]asw_weapon_shotgun_altfire"		"Double Blast"
 "asw_weapon_shotgun_attributes"		"높은 공격력 / 짧은 사거리"
 "[english]asw_weapon_shotgun_attributes"		"High Damage, Close Range"
 "asw_weapon_welder"		"IAF 용접기"
