@@ -4,7 +4,7 @@ GAME
 // inbox
 "MailFrom1"	"Von: Windom King"
 "MailDate1"	"Datum: 02/29/53"
-"MailSubject1"	"Thema: Sicherheit"
+"MailSubject1"	"Betreff: Sicherheit"
 "MailBody1A"	"Jan, wir empfangen etwas auf den Sensoren, ich bin mir nicht sicher, ob es wichtig ist oder nicht, aber es ist ungewöhnlich."
 "MailBody1B"	"Es könnte ein Asteroid oder eine Rettungskapsel sein."
 "MailBody1C"	""

@@ -11,7 +11,7 @@ GAME
 // Sent mail
 "MailFrom3"	"To: Dr. Jacques Moreau"
 "MailDate3"	"Date: 05/08/42"
-"MailSubject3"	"Thema: Vorüberlegungen"
+"MailSubject3"	"Betreff: Vorüberlegungen"
 "MailBody3A"	"Lieber Kollege. Ich habe eine erste Beobachtung der in deinem Labor eingeschlossenen Probengruppe durchgeführt, wie es deine Abteilung so... höflich verlangt hat. Denk daran, dass dies nur erste Gedanken sind - auch wenn die Schlussfolgerungen etwas alarmierend sein könnten."
 "MailBody3B"	"Auf den ersten Blick scheint das Exemplar im Wesentlichen einem recht einfachen Verhaltensmuster zu folgen, das sich als Suche und Beseitigung jeder potenziellen Bedrohung für sein Überleben zusammenfassen lässt - mit anderen Worten: uns. Interessanter ist jedoch, dass ich in 27 Jahren Biologie selten so viele Verhaltensbelege gesehen habe, die die Theorie des Bienenstocks unterstützen, egal ob bei Tieren, Pflanzen oder Pilzen. Sie bewegen sich und ruhen sich aus, als wären sie eine Familie oder vielmehr ein Schwarm - was auf die Existenz einer höheren Intuition hindeutet, die jedes Wesen mit jedem anderen verbindet. Wie diese Verbindung hergestellt wird und in welchem Ausmaß, ist die eigentliche Frage."
 "MailBody3C"	"Du findest das vollständige Manuskript meiner Beobachtungen in der Anlage zu dieser Mail, die ich nach der Überarbeitung auch an die Phalanx Station weiterleiten werde. Wenn ich eine persönliche Bitte anfügen darf: Ich würde gerne erfahren, wie dieses Exemplar entstanden ist und wie genau dein Team zu seiner Entdeckung gekommen ist. Es wäre ein großes Privileg, auch an der Untersuchung dieses Exemplars teilzunehmen. Ich stehe dir für diese neue Partnerschaft gerne zur Verfügung. Nam Humanum."
