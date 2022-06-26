@@ -12,7 +12,7 @@ GAME
 // sent mail
 "MailFrom3"	"An: G.S.D."
 "MailDate3"	"Datum: 17/9/57"
-"MailSubject3"	"Thema: Vorläufige Ergebnisse des Höhlensystems"
+"MailSubject3"	"Betreff: Vorläufige Ergebnisse des Höhlensystems"
 "MailBody3A"	"Das Höhlensystem in der Nähe des alten Komm-Außenpostens besteht hauptsächlich aus Sandstein und anderen weichen Gesteinen. Es gibt ein paar Einschlüsse aus Eisen und anderem festeren Material, die es ermöglichen, dass die Höhlen so weitläufig sind."
 "MailBody3B"	"Ich muss jedoch vom Abbau abraten, da die Gesamtstruktur instabil ist, was zum Teil an der bereits erwähnten Zusammensetzung der weichen Materialien liegt. Ich habe einen ausführlicheren Bericht als Anhang beigefügt."
 "MailBody3C"	"Nebenbei bemerkt: Diese Höhlensysteme sind geologisch sehr interessant. Ich habe noch nie ein Beispiel dafür gesehen, dass sich so weitläufige Höhlen ohne Regen gebildet haben. Wenn ich es nicht besser wüsste, würde ich sogar sagen, dass sie nicht ganz natürlich sind, aber es wurde bestätigt, dass Tarnor nie die Fähigkeit hatte, indigenes Leben zu kultivieren."

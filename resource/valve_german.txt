@@ -351,7 +351,7 @@
 "[english]Valve_Hint_MomentaryButton"		"%+use% HOLD DOWN TO TURN WHEEL"
 "Valve_Hint_ThrowBait"		"%+Angriff% KÖDER WERFEN"
 "[english]Valve_Hint_ThrowBait"		"%+attack% THROW BUGBAIT"
-"Valve_Hint_SqueezeBait"		"%+Angriff2% ANTLIONS RUFEN"
+"Valve_Hint_SqueezeBait"		"%+Angriff2% WANZEN RUFEN"
 "[english]Valve_Hint_SqueezeBait"		"%+attack2% CALL ANTLIONS"
 "Valve_Hint_Ladder"		"%+benutze% LEITER GREIFEN/LOSLASSEN"
 "[english]Valve_Hint_Ladder"		"%+use% MOUNT/DISMOUNT LADDER"

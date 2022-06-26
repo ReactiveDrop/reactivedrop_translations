@@ -4,7 +4,7 @@ GAME
 // Sent messages
 "MailFrom3"	"An: Cpt. Arthur Carradine"
 "MailDate3"	"Datum: 03/31/43"
-"MailSubject3"	"Thema: Meuterei"
+"MailSubject3"	"Betreff: Meuterei"
 "MailBody3A"	"Wir hätten Leutnant Florenza nicht in die Hände zwingen sollen. Er ist ein Idealist, mit Prinzipien und loyalen Männern. Und jetzt geht er auf mich los. Auf das, was ein Lebenswerk hätte sein können."
 "MailBody3B"	"Ich nehme an, man kann über Schmerz und Leid hinwegsehen, solange es außer Reichweite und außer Sichtweite ist. Aber man kann unmöglich den gequälten Welpen ignorieren, der in seinem eigenen Hinterhof weint. Das Gewissen ... kann eine solche Last sein. Gerade ich sollte das wissen."
 "MailBody3C"	"So soll es sein. Soll SynTek seine kleine Entdeckung doch haben, für einen Preis, den nur wir bezahlt haben."
