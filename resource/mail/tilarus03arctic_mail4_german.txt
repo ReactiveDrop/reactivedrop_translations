@@ -20,7 +20,7 @@ GAME
 "MailFrom4"	"An: Section Chief Jackson"
 "MailDate4"	"Datum: 10/6/52"
 "MailSubject4"	"Betreff: Seltsame Messwerte"
-"MailBody4A"	"BERICHT:."
+"MailBody4A"	"BERICHT:"
 "MailBody4B"	"Wir haben wieder einige Anomalien auf dem Radarscanner festgestellt."
 "MailBody4C"	"Diesmal waren sie länger wach und es gab mehrere Ziele statt nur eines wie vor zwei Tagen."
 "MailBody4D"	"Und wieder sind sie wie beim letzten Mal plötzlich verschwunden. Ich habe eine Patrouille geschickt, um das zu überprüfen, nur um sicherzugehen."

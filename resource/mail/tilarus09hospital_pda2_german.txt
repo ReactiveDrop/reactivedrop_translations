@@ -4,7 +4,7 @@ GAME
 // inbox
 "MailFrom1"	"Von: Dr. Foster"
 "MailDate1"	"Datum: 3/13/46"
-"MailSubject1"	"Thema: Dosierung"
+"MailSubject1"	"Betreff: Dosierung"
 "MailBody1A"	"Joseph,"
 "MailBody1B"	"Ich glaube, ich habe herausgefunden, warum der Patient Molligan nicht überlebt hat."
 "MailBody1C"	"Die zytostatische Dosis war nicht ausreichend. Ich empfehle, dass wir in der Endphase der Mutation eine zweite Dosis verabreichen."
