@@ -4,7 +4,7 @@ GAME
 // inbox 
 "MailFrom1"	"Von: Laura Callen"
 "MailDate1"	"Datum: 12/21/52"
-"MailSubject1"	"Thema: Kontamination im Labor"
+"MailSubject1"	"Betreff: Kontamination im Labor"
 "MailBody1A"	"Leutnant Kain,"
 "MailBody1B"	"Ich will einen vollständigen Bericht über die Ereignisse auf Deck 2.  Dazu gehören die Art des Lecks, die Baupläne, eine Liste des Personals, das Zugang zu den Laboren hat, usw."
 "MailBody1C"	"Ich bin es leid, jedes Mal nachzufragen, wenn etwas passiert.  Du solltest mich regelmäßig auf dem Laufenden halten."

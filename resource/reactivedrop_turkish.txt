@@ -935,6 +935,8 @@
 "[english]asw_weapon_shotgun"		"Shotgun"
 "asw_weaponl_shotgun"		"Model 35 Pompalı Av Tüfeği"
 "[english]asw_weaponl_shotgun"		"Model 35 Pump-action Shotgun"
+		"asw_weapon_shotgun_altfire"		"Double Blast"
+		"[english]asw_weapon_shotgun_altfire"		"Double Blast"
 "asw_weapon_shotgun_attributes"		"Yüksek Hasar, Yakın Menzil"
 "[english]asw_weapon_shotgun_attributes"		"High Damage, Close Range"
 "asw_weapon_welder"		"Kaynak Aleti"
