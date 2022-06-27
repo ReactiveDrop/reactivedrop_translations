@@ -482,6 +482,7 @@
 "asw_weapon_jump_jet_attributes" "Scatter Swarm"
 "asw_weapon_shotgun" "Shotgun"
 "asw_weaponl_shotgun" "Model 35 Pump-action Shotgun"
+"asw_weapon_shotgun_altfire" "Double Blast"
 "asw_weapon_shotgun_attributes" "High Damage, Close Range"
 "asw_weapon_welder" "Hand Welder"
 "asw_weaponl_welder" "Hand Welder"
