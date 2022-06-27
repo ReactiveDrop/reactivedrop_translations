@@ -935,6 +935,8 @@
 "[english]asw_weapon_shotgun"		"Shotgun"
 "asw_weaponl_shotgun"		"35式泵动霰弹枪"
 "[english]asw_weaponl_shotgun"		"Model 35 Pump-action Shotgun"
+		"asw_weapon_shotgun_altfire"		"Double Blast"
+		"[english]asw_weapon_shotgun_altfire"		"Double Blast"
 "asw_weapon_shotgun_attributes"		"高杀伤力，射程较短"
 "[english]asw_weapon_shotgun_attributes"		"High Damage, Close Range"
 "asw_weapon_welder"		"手持型电焊工具"
