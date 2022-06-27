@@ -5126,7 +5126,7 @@
 "rd_ada2_ob_eggs2_t"		"Altre uova da distruggere"
 "[english]rd_ada2_ob_eggs2_t"		"More Eggs To Destroy"
 "rd_ada2_ob_airlockcodeA"		"Scaricamento dati per accedere alle camere stagene."
-"[english]rd_ada2_ob_airlockcodeA"		"Download data to access Airloscks."
+"[english]rd_ada2_ob_airlockcodeA"		"Download data to access Airlocks."
 "rd_ada2_ob_airlockcodeB"		"Poi vai più in profondità."
 "[english]rd_ada2_ob_airlockcodeB"		"Then Pass Deeper inside."
 "rd_ada2_ob_airlockcode_t"		"Scarica i dati e supera la camera stagna"
