@@ -11,7 +11,7 @@ GAME
 "MailBody3D"	"Nam Humanum."
 "MailFrom4"	"An: Iris Florenza"
 "MailDate4"	"Datum: 02/07/40"
-"MailSubject4"	"Thema: Ein Traum beginnt"
+"MailSubject4"	"Betreff: Ein Traum beginnt"
 "MailBody4A"	"Lieber Schatz,"
 "MailBody4B"	"Ich wurde darüber informiert, dass jede Nachricht, die ich übermittle, einige Zeit unterwegs sein kann, bevor sie dich erreicht. Der Grund dafür ist... naja, ein technisches Kauderwelsch, das ich dir zuliebe nicht näher erläutern werde. Ich hoffe, es geht dir und dem Baby gut. Die Bauarbeiten hier draußen gehen weiter, die Einrichtung des Forschungskomplexes ist ein Denkmal für unseren Fortschritt. Geologische Expeditionen werden aber erst in ein paar Monaten stattfinden, so lange, bis die Lebenserhaltungssysteme grünes Licht geben."
 "MailBody4C"	"Die leitenden Wissenschaftler der Mission, Frau und Herr Moreau, leiten die Operationen mit Begeisterung, ja sogar mit Inspiration. Die Siedler nennen sie inzwischen "Lugdunums Adam und Eva". Zu sehen, wie das ein Lächeln auf ihre Gesichter zaubert, ist irgendwie beruhigend, auch wenn ich nicht wirklich erklären kann, warum. Ich bin mir sicher, dass ich weiterschreiben werde, bis wir beide hier sind, und zwar gemeinsam. Wer weiß, vielleicht haben wir einmal unseren eigenen Kindergarten gebaut."

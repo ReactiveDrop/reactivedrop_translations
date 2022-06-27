@@ -4,7 +4,7 @@ GAME
 // inbox
 "MailFrom1"	"Von: Laura Callen"
 "MailDate1"	"Datum: 12/21/52"
-"MailSubject1"	"Thema: Informationsfluss"
+"MailSubject1"	"Betreff: Informationsfluss"
 "MailBody1A"	"Mr. Howe,"
 "MailBody1B"	"warum hast du mich nicht über die Eier informiert, die du und dein Team letzte Woche in der Mine gefunden habt?  Wenn du keine stichhaltige Begründung für dieses Versäumnis liefern kannst, muss ich einen Bericht einreichen."
 "MailBody1C"	"L. Callen"
