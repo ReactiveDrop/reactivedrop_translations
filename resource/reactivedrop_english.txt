@@ -2703,7 +2703,7 @@
 "rd_ada2_ob_dead_end1_t" "Access the industrial complex"
 "rd_ada2_ob_eggs2" "Deal with even more Swarm Eggs on the way"
 "rd_ada2_ob_eggs2_t" "More Eggs To Destroy"
-"rd_ada2_ob_airlockcodeA" "Download data to access Airloscks."
+"rd_ada2_ob_airlockcodeA" "Download data to access Airlocks."
 "rd_ada2_ob_airlockcodeB" "Then Pass Deeper inside."
 "rd_ada2_ob_airlockcode_t" "Download data and pass Airlocks"
 "rd_ada2_ob_dead_end2A" "Scanner shows strange anomaly on the way"

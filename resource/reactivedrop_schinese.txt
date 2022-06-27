@@ -5126,7 +5126,7 @@
 "rd_ada2_ob_eggs2_t"		"摧毁更多的异形卵"
 "[english]rd_ada2_ob_eggs2_t"		"More Eggs To Destroy"
 "rd_ada2_ob_airlockcodeA"		"下载数据以打开气闸门。"
-"[english]rd_ada2_ob_airlockcodeA"		"Download data to access Airloscks."
+"[english]rd_ada2_ob_airlockcodeA"		"Download data to access Airlocks."
 "rd_ada2_ob_airlockcodeB"		"接下来前往内部。"
 "[english]rd_ada2_ob_airlockcodeB"		"Then Pass Deeper inside."
 "rd_ada2_ob_airlockcode_t"		"下载数据并通过气闸门"
