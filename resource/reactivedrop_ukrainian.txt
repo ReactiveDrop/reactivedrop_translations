@@ -5126,7 +5126,7 @@
 "rd_ada2_ob_eggs2_t"		"Ще більше яєць для знищення"
 "[english]rd_ada2_ob_eggs2_t"		"More Eggs To Destroy"
 "rd_ada2_ob_airlockcodeA"		"Завантажте дані для доступу до повітряних шлюзів."
-"[english]rd_ada2_ob_airlockcodeA"		"Download data to access Airloscks."
+"[english]rd_ada2_ob_airlockcodeA"		"Download data to access Airlocks."
 "rd_ada2_ob_airlockcodeB"		"Потім ідіть далі всередину."
 "[english]rd_ada2_ob_airlockcodeB"		"Then Pass Deeper inside."
 "rd_ada2_ob_airlockcode_t"		"Завантажте дані та пройдіть повітряні шлюзи"
