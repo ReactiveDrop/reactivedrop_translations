@@ -5126,7 +5126,7 @@
 "rd_ada2_ob_eggs2_t"		"Mas huevos por destruir"
 "[english]rd_ada2_ob_eggs2_t"		"More Eggs To Destroy"
 "rd_ada2_ob_airlockcodeA"		"Descarga los datos para acceder a las Compuertas de Aire."
-"[english]rd_ada2_ob_airlockcodeA"		"Download data to access Airloscks."
+"[english]rd_ada2_ob_airlockcodeA"		"Download data to access Airlocks."
 "rd_ada2_ob_airlockcodeB"		"Luego Pasa Más Profundo adentro."
 "[english]rd_ada2_ob_airlockcodeB"		"Then Pass Deeper inside."
 "rd_ada2_ob_airlockcode_t"		"Descargar los datos y pasar las Compuertas de Aire"
