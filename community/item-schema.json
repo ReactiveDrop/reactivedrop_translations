@@ -494,6 +494,26 @@
 			"item_slot": "medal"
 		},
 		{
+			"itemdefid": 15,
+			"type": "item",
+			"name_english": "Top 20 - Heroes of the Interstellar Armed Forces",
+			"briefing_name_english": "HoIAF Top 20",
+			"before_description_english": "Finished Season %season% in rank #%rank% with a score of %score%.",
+			"description_english": "Medal awarded to those who finished a season of Heroes of the Interstellar Armed Forces in the top 20.",
+			"after_description_english": "Aliens Killed: %alien_kills%\nTeam Kills: %player_kills%\nSuccessful Missions: %games_won%\nFailed Missions: %games_lost%",
+			"display_type_english": "Medal",
+			"display_type_german": "Medaille",
+			"display_type_italian": "Medaglia",
+			"display_type_russian": "Медаль",
+			"display_type_schinese": "勋章",
+			"icon_url": "https://stats.reactivedrop.com/static/medals/hoiaf_elite_top20.png",
+			"icon_url_small": "https://stats.reactivedrop.com/static/medals/hoiaf_elite_top20_small.png",
+			"tradable": false,
+			"marketable": false,
+			"tags": "rarity:rare;slot:medal",
+			"item_slot": "medal"
+		},
+		{
 			"itemdefid": 900000000,
 			"type": "item",
 			"name_arabic": "بن لوبار",
