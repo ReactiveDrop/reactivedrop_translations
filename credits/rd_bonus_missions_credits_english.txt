@@ -1,0 +1,22 @@
+"Credits"
+{
+// these keys must be in this order!
+"show_credits_logo" "0"
+//"custom_logo"	"ExampleCustomLogo/example_custom_logo"
+"asw_credits_"	""
+"asw_credits_"	""
+"asw_credits_"	"Mission 1, Invisible Threat, by uradzimiru"
+"asw_credits_"	""
+"asw_credits_"	"Mission 2, Rapture, by Sergei 'STALKER4732' Lavrinenco"
+"asw_credits_"	""
+"asw_credits_"	"Mission 3, Bunker, by uradzimiru"
+"asw_credits_"	""
+"asw_credits_"	"Mission 4, Offline Practice, by Valve"
+"asw_credits_"	""
+"asw_credits_"	"Mission 5, Hostile Places, by Eclipse"
+"asw_credits_"	""
+"asw_credits_"	"Mission 6, High Tension, by Eclipse"
+"asw_credits_"	""
+"asw_credits_"	"Mission 7, Power Plant, by Arjen de Graaf"
+"asw_credits_"	""
+}
