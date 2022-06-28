@@ -5126,7 +5126,7 @@
 "rd_ada2_ob_eggs2_t"		"남은 알을 부수십시오."
 "[english]rd_ada2_ob_eggs2_t"		"More Eggs To Destroy"
 "rd_ada2_ob_airlockcodeA"		"에어로스크로 데이터를 다운로드 하십시오."
-"[english]rd_ada2_ob_airlockcodeA"		"Download data to access Airloscks."
+"[english]rd_ada2_ob_airlockcodeA"		"Download data to access Airlocks."
 "rd_ada2_ob_airlockcodeB"		"더 깊은 곳으로 들어가십시오."
 "[english]rd_ada2_ob_airlockcodeB"		"Then Pass Deeper inside."
 "rd_ada2_ob_airlockcode_t"		"데이터를 다운받고 에어로스크로 들어가십시오."
