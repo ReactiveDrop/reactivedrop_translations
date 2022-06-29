@@ -5037,6 +5037,8 @@
 		"[english]rd_res1_ob_find_the_hut"		"Find a way into the hut"
 		"rd_res1_ob_find_the_hut_d"		"Maps show a cavern behind this hut."
 		"[english]rd_res1_ob_find_the_hut_d"		"Maps show a cavern behind this hut."
+		"rd_res1_ob_find_the_hut_d2"		"Check it out."
+		"[english]rd_res1_ob_find_the_hut_d2"		"Check it out."
 		"rd_res1_ob_infested_hut_and_damp_d"		"The damp and dark hut is full of the swarm, eradicate the eggs."
 		"[english]rd_res1_ob_infested_hut_and_damp_d"		"The damp and dark hut is full of the swarm, eradicate the eggs."
 		"rd_res1_ob_biomass_inside_cabin_d"		"Burn the biomass from inside the cabin."
