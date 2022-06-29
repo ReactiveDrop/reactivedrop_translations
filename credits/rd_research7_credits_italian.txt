@@ -1,0 +1,18 @@
+"Riconoscimenti"
+{
+// these keys must be in this order!
+"show_credits_logo" "0"
+//"custom_logo"	"ExampleCustomLogo/example_custom_logo"
+"asw_credits_"	"Will 'Issus' Rogers"
+"asw_credits_"	""
+"asw_credits_"	"Se riscontrate dei bug inviate una e-mail (in inglese) a:"
+"asw_credits_"	"wnrvids@hotmail.co.uk"
+"asw_credits_"	"Si prega di inserire RC7 nel soggetto"
+"asw_credits_"	""
+"asw_credits_"	"Grazie ad Alan, Jamie e Matt"
+"asw_credits_"	"per l'aiuto durante il testing." 
+"asw_credits_"	"Grazie ai membri del forum di steam"
+"asw_credits_"	"per il loro aiuto e supporto."
+"asw_credits_"	"E grazie a VALVe e Black Cat"
+"asw_credits_"	"Per Alien Swarm e altre figate generali!"
+}
