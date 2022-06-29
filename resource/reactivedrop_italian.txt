@@ -5037,6 +5037,8 @@
 "[english]rd_res1_ob_find_the_hut"		"Find a way into the hut"
 "rd_res1_ob_find_the_hut_d"		"Le mappe mostrano una caverna dietro a questo capanno."
 "[english]rd_res1_ob_find_the_hut_d"		"Maps show a cavern behind this hut."
+		"rd_res1_ob_find_the_hut_d2"		"Check it out."
+		"[english]rd_res1_ob_find_the_hut_d2"		"Check it out."
 "rd_res1_ob_infested_hut_and_damp_d"		"Questo capanno buio e umido è pieno dello sciame, distruggete le uova."
 "[english]rd_res1_ob_infested_hut_and_damp_d"		"The damp and dark hut is full of the swarm, eradicate the eggs."
 "rd_res1_ob_biomass_inside_cabin_d"		"Bruciate la biomassa da dentro la cabina."
