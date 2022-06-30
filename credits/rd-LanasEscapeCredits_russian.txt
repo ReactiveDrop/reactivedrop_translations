@@ -1,0 +1,18 @@
+"Credits"
+{
+// these keys must be in this order!
+"show_credits_logo" "1"
+"custom_logo"	"swarm/credits/rd-lan-Planet137credits"
+"asw_credits_"	"Создатель кампании"
+"asw_credits_"	"Жан-Габриэль Финат в роли Hephalistofene"
+"asw_credits_"	""
+"asw_credits_"  "Спасибо Jérôme Auliac, Felix, Blaxpirit, JohnnyTheWolf, Evildave"
+"asw_credits_"	"И всем тестировщикам"
+"asw_credits_"	""
+"asw_credits_"	"И спасибо VALVe"
+"asw_credits_"	""
+"asw_credits_"	""
+"asw_credits_"	""
+"asw_credits_"	""
+"asw_credits_"	""
+}
