@@ -2635,7 +2635,7 @@
 "rd_res1_ob_activatepurge1_d2" "Some of the swarm may be driven upwards through vents."
 
 "rd_res1_ob_exit_though_forest" "Exit RC7 and head through the forest"
-"rd_res1_ob_exit_though_forest1_d" "The forest ahead blocks your path. Find a way through, be inventive."
+"rd_res1_ob_exit_though_forest_d" "The forest ahead blocks your path. Find a way through, be inventive."
 
 "rd_res1_ob_stop_spread" "Stop the aliens spreading!"
 "rd_res1_ob_stop_spread_d" "The swarm are coming from underground."
@@ -2643,6 +2643,7 @@
 
 "rd_res1_ob_find_the_hut" "Find a way into the hut"
 "rd_res1_ob_find_the_hut_d" "Maps show a cavern behind this hut."
+"rd_res1_ob_find_the_hut_d2" "Check it out."
 
 "rd_res1_ob_infested_hut_and_damp_d" "The damp and dark hut is full of the swarm, eradicate the eggs."
 
