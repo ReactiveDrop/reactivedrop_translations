@@ -21,7 +21,6 @@
 "[english]bg4_DESC"		"The experimental Rydberg Nuclear Reactor is capable of outputting in excess of 47 terawatts when running at peak efficiency."
 "fail_NAME"		"寄生虫"
 "[english]fail_NAME"		"Infested"
-
 "fail_DESC"		"寄生虫是最危险的虫群生命体之一，因为它能在不知情的宿主体内迅速繁衍出更多的寄生虫。受害者从内部被吞噬，然后爆裂，就像病毒复制一样。"
 "[english]fail_DESC"		"The parasite is one of the most dangerous Swarm lifeforms because of the rapid maturation of additional parasites inside an unwitting host. Victims are consumed from the inside and then burst, much like how viruses reproduce."
 }
