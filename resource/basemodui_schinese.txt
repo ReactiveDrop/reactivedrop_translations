@@ -53,7 +53,7 @@
 "[english]L4D360UI_GameSettings"		"Game Settings"
 "L4D360UI_Survivors"		"生还者"
 "[english]L4D360UI_Survivors"		"Survivors"
-"L4D360UI_Infected"		"被感染者"
+"L4D360UI_Infected"		"感染者"
 "[english]L4D360UI_Infected"		"Infected"
 "L4D360UI_Spectator"		"旁观者"
 "[english]L4D360UI_Spectator"		"Spectator"
