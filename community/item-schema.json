@@ -508,6 +508,7 @@
 			"before_description_russian": "Завершил %season%-й сезон на позиции #%rank% с результатом: %score%.",
 			"before_description_schinese": "以 %score% 分的成绩完成了第 %season% 赛季，排名第 %rank% 。",
 			"description_english": "Medal awarded to those who finished a season of Heroes of the Interstellar Armed Forces in the top 20.",
+			"description_italian": "Medaglia conferita a coloro che terminano una stagione di Eroi delle Forze Armate Interstellari nella top 20.",
 			"description_russian": "Медаль, выдаваемая тем, кто завершил сезон игры «Героев межзвёздных вооружённых сил» одним из лучших 20 участников.",
 			"after_description_english": "Aliens Killed: %alien_kills%\nTeam Kills: %player_kills%\nSuccessful Missions: %games_won%\nFailed Missions: %games_lost%",
 			"after_description_german": "Getötete Aliens: %alien_kills%\nTeam Kills: %player_kills%\nErfolgreiche Einsätze: %games_won%\nFehlgeschlagene Einsätze: %games_lost%\n",
