@@ -2846,7 +2846,7 @@
 "asw_button_alreadysel"		"Bereits ausgewählt"
 "[english]asw_button_alreadysel"		"Already Selected"
 "asw_button_marinedead"		"Soldat gefallen"
-"[english]asw_button_marinedead"		"Soldat KIA"
+"[english]asw_button_marinedead"		"Marine KIA"
 "asw_button_missionfull"		"Einsatz voll"
 "[english]asw_button_missionfull"		"Mission Full"
 "asw_button_retcamp"		"Feldzug-Auswahl"
