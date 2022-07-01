@@ -667,7 +667,7 @@
 "[english]GameUI_MinimapClicksCheck"		"Allow minimap drawing"
 "GameUI_FullSquadCheck"		"Auf volles Team überprüfen"
 "[english]GameUI_FullSquadCheck"		"Check for full squad"
-"GameUI_MarineNumbersCheck"		"Zeige Marineanzahl in der Hauptansicht"
+"GameUI_MarineNumbersCheck"		"Zeige Soldat in der Hauptansicht"
 "[english]GameUI_MarineNumbersCheck"		"Show marine numbers in main view"
 "GameUI_OptionsRestartRequired_Title"		"OPTIONEN - NEU STARTEN"
 "[english]GameUI_OptionsRestartRequired_Title"		"OPTIONS - RESTART"
