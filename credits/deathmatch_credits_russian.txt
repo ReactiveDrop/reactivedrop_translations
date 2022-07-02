@@ -1,0 +1,12 @@
+"Credits"
+{
+// these keys must be in this order!
+"show_credits_logo" "1"
+"custom_logo"	"reactive_drop_team_logo"
+//"asw_credits_"	"Команда Reactive Drop"
+"asw_credits_"	"Создатель карт: dm_desert, dm_testlab - Dmitriy"
+"asw_credits_"	""
+"asw_credits_"	""
+"asw_credits_"	""
+"asw_credits_"	"Создатель карт: dm_deima, dm_residential - Valve"
+}

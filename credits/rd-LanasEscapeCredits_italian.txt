@@ -1,0 +1,18 @@
+"Riconoscimenti"
+{
+// these keys must be in this order!
+"show_credits_logo" "1"
+"custom_logo"	"swarm/credits/rd-lan-Planet137credits"
+"asw_credits_"	"Campagna di"
+"asw_credits_"	"Jean-Gabriel Finat come Hephalistofene"
+"asw_credits_"	""
+"asw_credits_"  "Grazie a Jérôme Auliac, Felix, Blaxpirit, JohnnyTheWolf, Evildave"
+"asw_credits_"	"E a tutti i tester"
+"asw_credits_"	""
+"asw_credits_"	"E grazie a VALVe"
+"asw_credits_"	""
+"asw_credits_"	""
+"asw_credits_"	""
+"asw_credits_"	""
+"asw_credits_"	""
+}

@@ -1,0 +1,18 @@
+"Credits"
+{
+// these keys must be in this order!
+"show_credits_logo" "1"
+"custom_logo"	"ExampleCustomLogo/example_custom_logo"
+"asw_credits_"	"ВАШЕ ИМЯ ЗДЕСЬ"
+"asw_credits_"	""
+"asw_credits_"	"Данные титры находятся в"
+"asw_credits_"	"addons/ExampleAddon/resource/CustomCampaignCredits.txt"
+"asw_credits_"	""
+"asw_credits_"	""
+"asw_credits_"	"Более подробная информация о создании и"
+"asw_credits_"	"распространении собственного контента для" 
+"asw_credits_"	"Alien Swarm можно найти в "
+"asw_credits_"	"разделе Alien Swarm на"
+"asw_credits_"	"Вики Valve Developer"
+"asw_credits_"	"http://developer.valvesoftware.com/"
+}
