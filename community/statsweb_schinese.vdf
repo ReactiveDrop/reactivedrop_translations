@@ -73,7 +73,7 @@
 "[english]StatsWeb_MissionStatsTotalTime"		"total time"
 "StatsWeb_MissionStatsAverageTimeSuccess"		"平均时间（成功）"
 "[english]StatsWeb_MissionStatsAverageTimeSuccess"		"average time (success)"
-"StatsWeb_WorkshopStatsTotalTime"		"总时间（统计了所有创意工坊插件）"
+"StatsWeb_WorkshopStatsTotalTime"		"总时间（包括了各种创意工坊插件）"
 "[english]StatsWeb_WorkshopStatsTotalTime"		"total time (stats are for entire workshop addon)"
 "StatsWeb_WorkshopStatsRecentTime"		"本周游戏时间"
 "[english]StatsWeb_WorkshopStatsRecentTime"		"playtime this week"
