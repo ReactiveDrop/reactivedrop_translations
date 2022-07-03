@@ -3301,8 +3301,6 @@
 "[english]asw_so_locations"		"Locations of interest"
 "asw_so_enviro"		"환경"
 "[english]asw_so_enviro"		"Environmental"
-"asw_so_swarm"		"에일리언"
-"[english]asw_so_swarm"		"The Swarm"
 "asw_so_centralcredit"		"중앙 신용 거래소"
 "[english]asw_so_centralcredit"		"Central Credit Exchange"
 "asw_so_syntek"		"신텍 법인제단"

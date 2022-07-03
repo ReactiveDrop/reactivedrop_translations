@@ -3743,8 +3743,6 @@
 "[english]ASWComputer.HackComplete"		"<clr:238,0,0>BASE COMPUTER: Access Granted."
 "ASWComputer.AccessDeniedBiohazard1"		"<clr:238,0,0>기지 컴퓨터: 접근 거부. 연구시설에서 생물학적 위험이 감지되었습니다."
 "[english]ASWComputer.AccessDeniedBiohazard1"		"<clr:238,0,0>BASE COMPUTER: Access Denied.  Biohazard detected within research facility."
-"ASWComputer.AccessDeniedBiohazard1"		"<clr:238,0,0>기지 컴퓨터: 접근 거부. 연구시설에서 생물학적 위험이 감지되었습니다."
-"[english]ASWComputer.AccessDeniedBiohazard1"		"<clr:238,0,0>BASE COMPUTER: Access Denied.  Biohazard detected within research facility."
 "ASWComputer.alarm"		"<clr:238,0,0>기지 컴퓨터: [경보!]"
 "[english]ASWComputer.alarm"		"<clr:238,0,0>BASE COMPUTER: [Alarm!]"
 "ASWComputer.AtmosphericReport"		"<clr:238,0,0>기지 컴퓨터: 대기 상태 보고서입니다."

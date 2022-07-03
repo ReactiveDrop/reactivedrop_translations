@@ -4697,8 +4697,6 @@
 
 "ASWComputer.AccessDeniedBiohazard1"	"<clr:238,0,0>BASE COMPUTER: Access Denied.  Biohazard detected within research facility."
 
-"ASWComputer.AccessDeniedBiohazard1"	"<clr:238,0,0>BASE COMPUTER: Access Denied.  Biohazard detected within research facility."
-
 "ASWComputer.alarm"	"<clr:238,0,0>BASE COMPUTER: [Alarm!]"
 
 "ASWComputer.AtmosphericReport"	"<clr:238,0,0>BASE COMPUTER: Atmospheric report."

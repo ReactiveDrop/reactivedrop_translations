@@ -3301,8 +3301,6 @@
 "[english]asw_so_locations"		"Locations of interest"
 "asw_so_enviro"		"Environnemental"
 "[english]asw_so_enviro"		"Environmental"
-"asw_so_swarm"		"L'Essaim"
-"[english]asw_so_swarm"		"The Swarm"
 "asw_so_centralcredit"		"Centre de Change des Crédits"
 "[english]asw_so_centralcredit"		"Central Credit Exchange"
 "asw_so_syntek"		"SynTek Mégacorporation"

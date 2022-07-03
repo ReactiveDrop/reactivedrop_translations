@@ -303,12 +303,21 @@ func updateLanguageFile(source *vdf.KeyValues, prefix, lang, suffix string) (upT
 	vdf.Escape.WriteString(&buf, lang)
 	buf.WriteString("\"\r\n\"Tokens\"\r\n{\r\n")
 
+	seen := make(map[string]bool)
+
 	for c := source.FindKey("Tokens").FirstValue(); c != nil; c = c.NextValue() {
 		if c.Cond != "" {
 			panic("unexpected VDF conditional: " + c.String())
 		}
 
-		x := dest[strings.ToLower(c.Key)]
+		lowerKey := strings.ToLower(c.Key)
+
+		if seen[lowerKey] {
+			panic("duplicate translation key: " + c.Key)
+		}
+		seen[lowerKey] = true
+
+		x := dest[lowerKey]
 
 		if onlyUpdateSourceStrings {
 			if x.translated == x.source {
