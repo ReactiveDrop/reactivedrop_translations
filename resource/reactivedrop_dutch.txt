@@ -3301,8 +3301,6 @@
 "[english]asw_so_locations"		"Locations of interest"
 "asw_so_enviro"		"Milieu"
 "[english]asw_so_enviro"		"Environmental"
-"asw_so_swarm"		"De Zwerm"
-"[english]asw_so_swarm"		"The Swarm"
 "asw_so_centralcredit"		"Centrale kredietuitwisseling"
 "[english]asw_so_centralcredit"		"Central Credit Exchange"
 "asw_so_syntek"		"SynTek Megacorporatie"

@@ -3301,8 +3301,6 @@
 "[english]asw_so_locations"		"Locations of interest"
 "asw_so_enviro"		"环境"
 "[english]asw_so_enviro"		"Environmental"
-"asw_so_swarm"		"异形"
-"[english]asw_so_swarm"		"The Swarm"
 "asw_so_centralcredit"		"中央信用交易所"
 "[english]asw_so_centralcredit"		"Central Credit Exchange"
 "asw_so_syntek"		"新特超级企业"

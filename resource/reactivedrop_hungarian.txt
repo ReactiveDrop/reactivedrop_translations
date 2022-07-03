@@ -3301,8 +3301,6 @@
 "[english]asw_so_locations"		"Locations of interest"
 "asw_so_enviro"		"Környezet"
 "[english]asw_so_enviro"		"Environmental"
-"asw_so_swarm"		"A Raj"
-"[english]asw_so_swarm"		"The Swarm"
 "asw_so_centralcredit"		"Központi Kreditváltó"
 "[english]asw_so_centralcredit"		"Central Credit Exchange"
 "asw_so_syntek"		"SynTek Megatársaság"
