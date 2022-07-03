@@ -3743,8 +3743,6 @@
 "[english]ASWComputer.HackComplete"		"<clr:238,0,0>BASE COMPUTER: Access Granted."
 "ASWComputer.AccessDeniedBiohazard1"		"<clr:238,0,0>COMPUTADOR DA BASE: Acesso negado. Risco biológico detectado dentro do centro de pesquisa."
 "[english]ASWComputer.AccessDeniedBiohazard1"		"<clr:238,0,0>BASE COMPUTER: Access Denied.  Biohazard detected within research facility."
-"ASWComputer.AccessDeniedBiohazard1"		"<clr:238,0,0>COMPUTADOR DA BASE: Acesso negado. Risco biológico detectado dentro do centro de pesquisa."
-"[english]ASWComputer.AccessDeniedBiohazard1"		"<clr:238,0,0>BASE COMPUTER: Access Denied.  Biohazard detected within research facility."
 "ASWComputer.alarm"		"<clr:238,0,0>COMPUTADOR DA BASE: [Alarme!]"
 "[english]ASWComputer.alarm"		"<clr:238,0,0>BASE COMPUTER: [Alarm!]"
 "ASWComputer.AtmosphericReport"		"<clr:238,0,0>COMPUTADOR DA BASE: Relatório atmosférico."
