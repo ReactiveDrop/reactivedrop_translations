@@ -3302,6 +3302,9 @@
 
 "bon1_spaceport_3_title" "Escape"
 
+"asw_bon1_error" "Err 0000087x048B"
+"asw_bon1_error2" "Exception 00x1C No Power."
+
 // Bonus Mission 2 strings
 "bon2_survivors_1_title" "Get Access to Inner Perimeter"
 "bon2_survivors_1a" "Allow your tech marine to hack the door panel"
@@ -3349,6 +3352,11 @@
 
 // Bonus Mission 7 strings
 "bon7_area9800PP2_debrief" "Well done, team!"
+
+// Example map strings
+"asw_panel_inactive" "Panel Inactive"
+
+"asw_need_dynamite" "Need TNT"
 
 "rd_campaign_name_deathmatch_campaign" "Deathmatch"
 "rd_campaign_desc_deathmatch_campaign" "Kill everything that moves."
