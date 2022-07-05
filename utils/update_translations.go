@@ -64,6 +64,11 @@ var vdfLanguageFiles = [...]string{
 	"../community/statsweb",
 }
 
+var txtAddonLanguageFiles = [...]string{
+	"../addons/*/resource/closecaption",
+	"../addons/*/resource/reactivedrop",
+}
+
 func main() {
 	for _, prefix := range txtLanguageFiles {
 		syncTranslations(prefix, ".txt", false)
@@ -77,20 +82,14 @@ func main() {
 		updateAchievements(lang)
 	}
 
-	addonFiles, err := filepath.Glob("../addons/*/resource/reactivedrop_" + sourceLanguage + ".txt")
-	if err != nil {
-		panic(err)
-	}
-	for _, file := range addonFiles {
-		syncTranslations(strings.TrimSuffix(file, "_"+sourceLanguage+".txt"), ".txt", true)
-	}
-
-	addonFiles, err = filepath.Glob("../addons/*/resource/closecaption_" + sourceLanguage + ".txt")
-	if err != nil {
-		panic(err)
-	}
-	for _, file := range addonFiles {
-		syncTranslations(strings.TrimSuffix(file, "_"+sourceLanguage+".txt"), ".txt", true)
+	for _, prefix := range txtAddonLanguageFiles {
+		addonFiles, err := filepath.Glob(prefix + "_" + sourceLanguage + ".txt")
+		if err != nil {
+			panic(err)
+		}
+		for _, file := range addonFiles {
+			syncTranslations(strings.TrimSuffix(file, "_"+sourceLanguage+".txt"), ".txt", true)
+		}
 	}
 }
 
@@ -113,6 +112,8 @@ func syncTranslations(prefix, suffix string, quiet bool) {
 	if err != nil {
 		panic(err)
 	}
+
+	checkForDuplicateSourceStrings(base)
 
 	for _, lang = range derivedLanguages {
 		if !quiet {
@@ -164,6 +165,24 @@ func loadVDF(name string) (*vdf.KeyValues, error) {
 	_, err = kv.ReadFrom(f)
 
 	return &kv, err
+}
+
+var everSeenString = make(map[string]bool)
+
+func checkForDuplicateSourceStrings(source *vdf.KeyValues) {
+	thisFile := make(map[string]bool)
+	for c := source.FindKey("Tokens").FirstValue(); c != nil; c = c.NextValue() {
+		lowerKey := strings.ToLower(c.Key)
+		if thisFile[lowerKey] {
+			panic("String appears multiple times in this file: " + c.Key)
+		}
+		thisFile[lowerKey] = true
+
+		if everSeenString[lowerKey] {
+			panic("Already encountered string in different translation file: " + c.Key)
+		}
+		everSeenString[lowerKey] = true
+	}
 }
 
 type translatedString struct {
