@@ -3,7 +3,7 @@
 "Language"		"schinese"
 "Tokens"
 {
-"bg1_NAME"		"停泊湾"
+"bg1_NAME"		"着陆湾"
 "[english]bg1_NAME"		"Landing Bay"
 "bg1_DESC"		"一个联合工业公司的舰队本周从他们的中心殖民地出发，前往核心系统。 这支庞大的舰队至少包含25艘利维坦级货船，并在旅途中得到了IAF的全面保护。"
 "[english]bg1_DESC"		"A United Industries convoy departs this week from their central colony, headed for the Core Systems.  The massive fleet contains at least 25 Leviathan-class freighters and has full IAF cover for its journey."
@@ -13,15 +13,15 @@
 "[english]bg2_DESC"		"The SynTek Megacorporation today reported establishment of a new deep space mining colony on the outer edges of the SX-2833-87P cluster. They also announced immediate shipment of a civilian fleet of workers to the planet."
 "bg3_NAME"		"迪马"
 "[english]bg3_NAME"		"Deima"
-"bg3_DESC"		"管道将产品从矿区运送到 Vereon XII 的地表，以便在整个系统中分配。"
+"bg3_DESC"		"管道将产品从矿区运送到 维隆十二 的地表，便于整个系统的分发。"
 "[english]bg3_DESC"		"Pipelines transport product from the mines to the surface of Vereon XII for distribution throughout the system."
-"bg4_NAME"		"雷德伯格"
+"bg4_NAME"		"雷德堡"
 "[english]bg4_NAME"		"Rydberg"
-"bg4_DESC"		"实验性的雷德伯格反应堆在以峰值效率运行时能够输出超过47兆瓦的功率。"
+"bg4_DESC"		"实验性的雷德堡核反应堆在最高效率运行时，能够输出超过47太瓦的功率。"
 "[english]bg4_DESC"		"The experimental Rydberg Nuclear Reactor is capable of outputting in excess of 47 terawatts when running at peak efficiency."
 "fail_NAME"		"寄生虫"
 "[english]fail_NAME"		"Infested"
-"fail_DESC"		"寄生虫是最危险的虫群生命体之一，因为它能在不知情的宿主体内迅速繁衍出更多寄生虫。受害者被从内部吞噬，然后爆裂，就像病毒繁殖一样"
+"fail_DESC"		"寄生虫是最危险的虫群生命体之一，因为它能在不知情的宿主体内迅速繁衍出更多的寄生虫。受害者从内部被吞噬，然后爆裂，就像病毒复制一样。"
 "[english]fail_DESC"		"The parasite is one of the most dangerous Swarm lifeforms because of the rapid maturation of additional parasites inside an unwitting host. Victims are consumed from the inside and then burst, much like how viruses reproduce."
 }
 }

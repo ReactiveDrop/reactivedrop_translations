@@ -1,0 +1,22 @@
+"Credits"
+{
+// these keys must be in this order!
+"show_credits_logo" "0"
+//"custom_logo"	"ExampleCustomLogo/example_custom_logo"
+"asw_credits_"	""
+"asw_credits_"	""
+"asw_credits_"	"Миссия 1, Незримая угроза, автор uradzimiru"
+"asw_credits_"	""
+"asw_credits_"	"Миссия 2, Вознесение, автор Сергей 'STALKER4732' Лавриненко"
+"asw_credits_"	""
+"asw_credits_"	"Миссия 3, Бункер, автор uradzimiru"
+"asw_credits_"	""
+"asw_credits_"	"Миссия 4, Одиночная игра, автор Valve"
+"asw_credits_"	""
+"asw_credits_"	"Миссия 5, Враждебные места, автор Eclipse"
+"asw_credits_"	""
+"asw_credits_"	"Миссия 6, Высокое напряжение, автор Eclipse"
+"asw_credits_"	""
+"asw_credits_"	"Миссия 7, Электростанция, автор Arjen de Graaf"
+"asw_credits_"	""
+}
