@@ -5,7 +5,7 @@ GAME
 	"MailFrom1"	"Von: Nuklearer Sprengkopf"
 	"MailDate1"	"Datum: 12/24/52"
 	"MailSubject1"	"Betreff: Wie unhöflich."
-	"MailBody1A"	"Nur wenige Menschen haben das Privileg, mit so starken Sprengstoffen umzugehen wie ich."
+	"MailBody1A"	"Nur wenige Menschen haben das Privileg, mit so starken Sprengstoffen umzugehen wie mir."
 	"MailBody1B"	"Ich dachte mir, dass diejenigen, die das tun, diese Munition mit dem nötigen Respekt behandeln und sie nicht einfach unbeaufsichtigt lassen. Zumindest, bis ich euch begegnet bin."
-	"MailBody1C"	"Sehr enttäuscht."
+	"MailBody1C"	"Sehr enttäuschend."
 }
