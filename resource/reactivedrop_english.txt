@@ -3262,6 +3262,9 @@
 "par_closecontact_2a" "We have collected all relevant documents. Find an exit from this building."
 "par_closecontact_2b" "There appears to be an exit near the medical room to the north."
 
+"par_closecontact_3_title" "Exit the base"
+"par_closecontact_3a" "Proceed to the surface to find the outpost's communication center."
+
 "par_closecontact_debrief1" "Our next objective is to reach the outpost\'s communication center."
 "par_closecontact_debrief2" "As we will be exiting the structure, be prepared for sub-zero temperatures and maintain situational awareness, as threats could come from any direction."
 
