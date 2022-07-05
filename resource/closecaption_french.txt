@@ -3743,8 +3743,6 @@
 "[english]ASWComputer.HackComplete"		"<clr:238,0,0>BASE COMPUTER: Access Granted."
 "ASWComputer.AccessDeniedBiohazard1"		"<clr:238,0,0>ORDINATEUR DE LA BASE : Accès refusé. Matières toxiques présentes dans le centre de recherche."
 "[english]ASWComputer.AccessDeniedBiohazard1"		"<clr:238,0,0>BASE COMPUTER: Access Denied.  Biohazard detected within research facility."
-"ASWComputer.AccessDeniedBiohazard1"		"<clr:238,0,0>ORDINATEUR DE LA BASE : Accès refusé. Matières toxiques présentes dans le centre de recherche."
-"[english]ASWComputer.AccessDeniedBiohazard1"		"<clr:238,0,0>BASE COMPUTER: Access Denied.  Biohazard detected within research facility."
 "ASWComputer.alarm"		"<clr:238,0,0>ORDINATEUR DE LA BASE : [Alarme !]"
 "[english]ASWComputer.alarm"		"<clr:238,0,0>BASE COMPUTER: [Alarm!]"
 "ASWComputer.AtmosphericReport"		"<clr:238,0,0>ORDINATEUR DE LA BASE : Rapport atmosphérique"

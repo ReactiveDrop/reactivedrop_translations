@@ -26,12 +26,6 @@ jobs:
         with:
           go-version: '^1.17'
 
-      # dependencies
-      - name: Install dependencies
-        run: |
-          sudo apt update
-          sudo apt -y install dos2unix
-
       # build PR
       - name: Build translations
         working-directory: utils
@@ -41,7 +35,6 @@ jobs:
       # check for unwanted differences from commit
       - name: Check for unwanted changes
         run: |
-          find . -type f -name '*.vdf' -exec unix2dos --quiet {} \;
           changes=$(git diff | wc -l)
           if [[ $changes -gt 0 ]]; then
             git status
