@@ -7,6 +7,7 @@ import (
 	"fmt"
 	"io"
 	"os"
+	"path/filepath"
 	"strings"
 
 	"git.lubar.me/ben/valve/vdf"
@@ -65,36 +66,70 @@ var vdfLanguageFiles = [...]string{
 
 func main() {
 	for _, prefix := range txtLanguageFiles {
-		syncTranslations(prefix, ".txt")
+		syncTranslations(prefix, ".txt", false)
 	}
 	for _, prefix := range vdfLanguageFiles {
-		syncTranslations(prefix, ".vdf")
+		syncTranslations(prefix, ".vdf", false)
 	}
 
 	updateAchievements(sourceLanguage)
 	for _, lang := range derivedLanguages {
 		updateAchievements(lang)
 	}
+
+	addonFiles, err := filepath.Glob("../addons/*/resource/reactivedrop_" + sourceLanguage + ".txt")
+	if err != nil {
+		panic(err)
+	}
+	for _, file := range addonFiles {
+		syncTranslations(strings.TrimSuffix(file, "_"+sourceLanguage+".txt"), ".txt", true)
+	}
+
+	addonFiles, err = filepath.Glob("../addons/*/resource/closecaption_" + sourceLanguage + ".txt")
+	if err != nil {
+		panic(err)
+	}
+	for _, file := range addonFiles {
+		syncTranslations(strings.TrimSuffix(file, "_"+sourceLanguage+".txt"), ".txt", true)
+	}
 }
 
-func syncTranslations(prefix, suffix string) {
-	fmt.Printf("%s:\n", prefix)
+func syncTranslations(prefix, suffix string, quiet bool) {
+	lang := sourceLanguage
+	if quiet {
+		defer func() {
+			if r := recover(); r != nil {
+				fmt.Printf("%s_%s%s:\n", prefix, lang, suffix)
+				panic(r)
+			}
+		}()
+	}
+
+	if !quiet {
+		fmt.Printf("%s:\n", prefix)
+	}
 
 	base, err := loadVDF(prefix + "_" + sourceLanguage + suffix)
 	if err != nil {
 		panic(err)
 	}
 
-	for _, lang := range derivedLanguages {
-		fmt.Printf("  %10s: ", lang)
+	for _, lang = range derivedLanguages {
+		if !quiet {
+			fmt.Printf("  %10s: ", lang)
+		}
 
 		upToDate, total := updateLanguageFile(base, prefix, lang, suffix)
 		percent := float64(upToDate) / float64(total) * 100
 
-		fmt.Printf("% 7.3f%%\n", percent)
+		if !quiet {
+			fmt.Printf("% 7.3f%%\n", percent)
+		}
 	}
 
-	fmt.Println()
+	if !quiet {
+		fmt.Println()
+	}
 }
 
 func readBOM(r io.Reader) error {
