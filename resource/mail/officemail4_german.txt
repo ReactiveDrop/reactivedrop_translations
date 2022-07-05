@@ -1,6 +1,6 @@
 GAME
 {
-// PDA belongs to Mr Tanner
+// PDA belongs to Mr. Tanner
 // inbox
 "MailFrom1"	"Von: Kate Edwards"
 "MailDate1"	"Datum: 12/22/52"
