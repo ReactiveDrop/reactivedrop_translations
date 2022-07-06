@@ -3125,6 +3125,102 @@
 "bio_biogenlabs_hint12" "You don\'t have the formula"
 "bio_biogenlabs_hint13" "Flammable liquid is constantly leaking. You cannot extinguish this fire."
 
+// Accident 32 strings
+"acc1_1_title" "Enter the Facility"
+"acc1_1a" "Your group has been sent to check out the accident in AMBER facility."
+"acc1_1b" "Yesterday we have received a lot of information from one of the workers at AMBER about what has the organisation been doing for the past two and a half years."
+"acc1_1c" "You marines have big responsibility in your hands. I will guide you through the facility."
+
+"acc1_2_title" "Communication"
+"acc1_2a" "Reenable the radiowave transmitter."
+
+"acc1_3_title" "Cool the Reactor down"
+"acc1_3a" "The 1st floor secondary reactor has gone crazy since the shut down of the main reactor on 2nd floor."
+"acc1_3b" "You should cool it down before it causes a lot of damage."
+
+"acc1_4_title" "Enable Temperature Regulation"
+"acc1_4a" "Enable the Thermoregulator to prevent the reactor from overheating again."
+
+"acc1_5_title" "Advance Deeper to Second Floor"
+"acc1_5a" "Get deeper into the facility."
+"acc1_5b" "Your next task is to start up the main reactor in the power sector on floor 2."
+
+"acc2_1_title" "Raise Water"
+"acc2_1a" "Raise the water for turbines."
+
+"acc2_2_title" "Turn on Turbines"
+"acc2_2a" "Start the turbines to produce electricity on 3rd floor."
+
+"acc2_3_title" "Turn on Generator"
+"acc2_3a" "Provide power for turbines."
+"acc2_3b" "You can turn on turbines first, then they would turn from the power of the reactor on 1st floor."
+
+"acc2_4a" "XENOMYTEs have been crawling through the vent system and laying eggs with PARASYTEs."
+"acc2_4b" "Eliminate all the eggs on this floor. Expect more eggs deeper in the facility."
+
+"acc2_5_title" "Turn on the main Reactor"
+"acc2_5a" "This Reactor is crucial to keep on, because it prevents infestation from growing on floor 4 by providing a lot of hot air."
+"acc2_5b" "This Reactor was shut down because of dangerous instabilities in temperature."
+"acc2_5c" "These instabilities alerted the Power Sector engineers and they were forced to shut it down."
+"acc2_5d" "The infestation has been growing since then. Turn on the reactor to help yourself fight off the infestation on next levels."
+
+"acc2_6_title" "Advance Deeper to Third Floor"
+"acc2_6a" "Advance to 3rd floor, also known as Research Sector. That is where all the experiments were conducted."
+
+"acc3_1a_title" "Collect Alien Data 0/4"
+"acc3_1b_title" "Collect Alien Data 1/4"
+"acc3_1c_title" "Collect Alien Data 2/4"
+"acc3_1d_title" "Collect Alien Data 3/4"
+"acc3_1e_title" "Collect Alien Data 4/4"
+"acc3_1a" "AMBER workers have been collecting data about their experiments with different specimen."
+"acc3_1b" "Collect their data so we can understand more about these aliens."
+
+"acc3_2_title" "Upload Data"
+"acc3_2a" "Send all the alien data you have collected to the government."
+
+"acc3_3_title" "Escape"
+"acc3_3a" "Advance to the neighbouring facility."
+
+"acc4_1_title" "Report Reactor Status"
+"acc4_1a" "Send the information about reactor's status to experts."
+
+"acc4_2_title" "Get into the Main Sewer Tunnel"
+"acc4_2a" "Find the sewer tunnel into which the bodies of employees were dumped."
+
+"acc4_3_title" "KIll the Uber Electrifier"
+"acc4_3a" "Make sure the electrifier is dead so that it can not break the elevator while marines are ascending."
+
+"acc4_4_title" "Power the Elevator"
+"acc4_4a" "Find a way to power the elevator which will take you to the surface."
+
+"acc4_5_title" "Advance Further"
+"acc4_5a" "Ascend to the surface via the elevator."
+
+"acc5_1a_title" "Fix Wiring 0/3"
+"acc5_1b_title" "Fix Wiring 1/3"
+"acc5_1c_title" "Fix Wiring 2/3"
+"acc5_1d_title" "Fix Wiring 3/3"
+"acc5_1a" "Fix the Wiring."
+
+"acc5_2a" "Eliminate the egg infestation."
+
+"acc5_3a" "Eliminate the biomass infestation."
+
+"acc5_4_title" "Escape"
+"acc5_4a" "Continue on your path through the facility."
+
+"acc6_1a_title" "Collect Samples 0/3"
+"acc6_1b_title" "Collect Samples 1/3"
+"acc6_1c_title" "Collect Samples 2/3"
+"acc6_1d_title" "Collect Samples 3/3"
+"acc6_1a" "Collect a few samples of the Muon Gem."
+
+"acc6_2_title" "Destroy the Muon Gem"
+"acc6_2a" "Press the console buttons as fast as you can to deal the most damage."
+
+"acc6_3_title" "A Call for Help"
+"acc6_3a" "Contact the railway."
+
 // Operation Cleansweep strings
 "ocs_storagefacility_1_title" "Gain access to the storage facility."
 "ocs_storagefacility_1a" "The main entrance to the landing bay area is overrun with infestation. Use the \'back door\' to gain access to the storage facility, that leads to the landing bays."
@@ -3366,6 +3462,8 @@
 "rd_campaign_desc_rd_bonus_missions" "Missions in various parts of the galaxy"
 "rd_campaign_name_rd-area9800" "Area 9800"
 "rd_campaign_desc_rd-area9800" "SynTek has lost contact with the colony on the planet Area9800. The probability of Swarm attack is high. IAF Command is sending your squad to investigate and halt the infestation if necessary."
+"rd_campaign_name_rd_accident32" "Accident 32"
+"rd_campaign_desc_rd_accident32" "Your crew is set out to investigate the accident and defuse the chemical bomb which is the Muon Gem before its too late."
 "rd_campaign_name_rd_biogen_corporation" "BioGen Corporation"
 "rd_campaign_desc_rd_biogen_corporation" "Stop the swarm infestation on the New Earth."
 "rd_campaign_name_tilarus5" "Tilarus-5"
@@ -3483,6 +3581,33 @@
 "rd_mission_loc_rd-area9800wl" "Wastelands"
 "rd_mission_desc_rd-area9800wl" "Cross the Wastelands."
 "rd_mission_brief_rd-area9800wl" "Cross the Wastelands."
+
+"rd_entrymission_title_rd-accident32" "Bogo Desert"
+"rd_entrymission_brief_rd-accident32" "The desert where the journey started."
+"rd_mission_title_rd-acc1_infodep" "Information Department"
+"rd_mission_loc_rd-acc1_infodep" "Information Department"
+"rd_mission_desc_rd-acc1_infodep" "The first floor of the facility. It contains all the equipment used for communications and data storage."
+"rd_mission_brief_rd-acc1_infodep" ""
+"rd_mission_title_rd-acc2_powerhood" "Powerhood"
+"rd_mission_loc_rd-acc2_powerhood" "Powerhood"
+"rd_mission_desc_rd-acc2_powerhood" "Power Sector is the heart of AMBER's Complex. There would be no power without it."
+"rd_mission_brief_rd-acc2_powerhood" ""
+"rd_mission_title_rd-acc3_rescenter" "Research Center"
+"rd_mission_loc_rd-acc3_rescenter" "Research Center"
+"rd_mission_desc_rd-acc3_rescenter" "An underground area used for conducting experiments on newly found life forms."
+"rd_mission_brief_rd-acc3_rescenter" ""
+"rd_mission_title_rd-acc4_confacility" "Confined Facility"
+"rd_mission_loc_rd-acc4_confacility" "Confined Facility"
+"rd_mission_desc_rd-acc4_confacility" "The start of a neighbouring facility which has been isolated from the surface."
+"rd_mission_brief_rd-acc4_confacility" ""
+"rd_mission_title_rd-acc5_j5connector" "J5 Connector"
+"rd_mission_loc_rd-acc5_j5connector" "J5 Connector"
+"rd_mission_desc_rd-acc5_j5connector" "Connects most important landmarks."
+"rd_mission_brief_rd-acc5_j5connector" ""
+"rd_mission_title_rd-acc6_labruins" "Lab Ruins"
+"rd_mission_loc_rd-acc6_labruins" "Lab Ruins"
+"rd_mission_desc_rd-acc6_labruins" "The heart of swarm. Contains a recently discovered Muon Gem which has been labelled as a chemical weapon."
+"rd_mission_brief_rd-acc6_labruins" ""
 
 "rd_entrymission_title_rd_biogen_corporation" "Entry Port"
 "rd_entrymission_brief_rd_biogen_corporation" "Dropship Bloodhound will enter atmosphere at these co-ordinates and proceed to primary objective."
