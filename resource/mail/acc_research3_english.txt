@@ -3,9 +3,9 @@ GAME
    	"MailFrom1"	"From: Hank Retller"
 	"MailDate1"	"Date: 23/03/31"
 	"MailSubject1"	"Subject: LISTEN PEOPLE pt. 1 &HIDDEN"
-	"MailBody1A"	"Me, HD, Brad and Orion conducted an experiment to check specimen's immunity to high temperatures. We received shocking results. The HARVESTERs get stimulated by high temperatures which allows their body to produce a ton of XENOMYTEs."
+	"MailBody1A"	"Me, HD, Brad and Orion conducted an experiment to check specimen's immunity to high temperatures. We received shocking results. The HARVESTERs get stimulated by high temperatures which allows their body to produce a ton of XENOMITEs."
 	"MailBody1B"	"When the Research Sector was built in July of last year, I've seen a HARVESTER escape to vents, which I thought was nothing to be scared about and I haven't told anybody about it."
-	"MailBody1C"	"I was WRONG! I should have told everyone, THIS IS MY FAULT. The XENOMYTEs created by HARVESTERs lay eggs which later hatch to much scarier, mutated versions of XENOMYTEs."
+	"MailBody1C"	"I was WRONG! I should have told everyone, THIS IS MY FAULT. The XENOMITEs created by HARVESTERs lay eggs which later hatch to much scarier, mutated versions of XENOMITEs."
 
 	"MailFrom2" "From: Hank Retller"
 	"MailDate2" "Date: 23/03/31"

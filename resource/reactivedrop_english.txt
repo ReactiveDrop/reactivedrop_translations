@@ -3155,7 +3155,7 @@
 "acc2_3a" "Provide power for turbines."
 "acc2_3b" "You can turn on turbines first, then they would turn from the power of the reactor on 1st floor."
 
-"acc2_4a" "XENOMYTEs have been crawling through the vent system and laying eggs with PARASYTEs."
+"acc2_4a" "XENOMITEs have been crawling through the vent system and laying eggs with PARASYTEs."
 "acc2_4b" "Eliminate all the eggs on this floor. Expect more eggs deeper in the facility."
 
 "acc2_5_title" "Turn on the main Reactor"
