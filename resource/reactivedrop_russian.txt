@@ -348,7 +348,7 @@
 "asw_firstname_flynn"		"Гарет"
 "[english]asw_firstname_flynn"		"Gareth"
 "asw_firstname_vegas"		"Ардженто"
-"[english]asw_firstname_vegas"		"Alejandro"
+"[english]asw_firstname_vegas"		"Argento"
 "asw_lastname_sarge"		"Конрад"
 "[english]asw_lastname_sarge"		"Conrad"
 "asw_lastname_jaeger"		"Егерь"

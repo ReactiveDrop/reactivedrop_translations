@@ -181,7 +181,7 @@
 "asw_firstname_bastille"	"Leon"
 "asw_firstname_crash"	"David"
 "asw_firstname_flynn"	"Gareth"
-"asw_firstname_vegas"	"Alejandro"
+"asw_firstname_vegas"	"Argento"
 
 "asw_lastname_sarge"	"Conrad"
 "asw_lastname_jaeger"	"Jaeger"
