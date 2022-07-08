@@ -1,6 +1,6 @@
 GAME
 {
-  "MailFrom1"	"A: Jacob Stankiewich"
+	"MailFrom1"	"A: Jacob Stankiewich"
 	"MailDate1"	"Data: 01/04/31"
 	"MailSubject1"	"Soggetto: Re: Informazioni da Retller &HIDDEN"
 	"MailBody1A"	"Sì, il signor Retller mi aveva già parlato dell'epidemia, notizie spaventose. In realtà ho visto dei piccoli insetti nel condotto di ventilazione ultimamente, ma essendo il duro che sono, ho gestito la situazione da solo."
