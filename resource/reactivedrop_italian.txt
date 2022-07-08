@@ -1327,7 +1327,7 @@
 "[english]asw_medal25"		"Iron Sword"
 "asw_medal26"		"Medico di Pace"
 "[english]asw_medal26"		"Peace Medic"
-"asw_medal27"		"Aura d'Alejandro"
+"asw_medal27"		"Aura d'Argento"
 "[english]asw_medal27"		"Silver Halo"
 "asw_medal28"		"Salvatore dall'Infestazione"
 "[english]asw_medal28"		"Infestation Savior"
