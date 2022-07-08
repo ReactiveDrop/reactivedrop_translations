@@ -1,0 +1,8 @@
+GAME
+{
+   	"MailFrom1"	"Da: Leeroy Jackins"
+	"MailDate1"	"Data: 20/06/32"
+	"MailSubject1"	"Soggetto: - &HIDDEN"
+	"MailBody1A"	"Ho appena scoperto l'intelligente sistema di sicurezza dietro il sistema di posta di AMBER e sono riuscito a hackerarlo. A breve invierò al governo tutte le informazioni che possiedo su AMBER. Spero di sopravvivere fino all'arrivo dei soccorsi."
+	"MailBody1B"	"Lavoro per AMBER da quando è stata fondata nel novembre del 2030. Sono uno dei pochi sopravvissuti, perché Schmitz si fida di me."
+}
