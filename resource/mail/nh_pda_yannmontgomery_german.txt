@@ -9,7 +9,7 @@ GAME
 "MailBody1B"	"Du wirst bei Bedarf von meinem Labor benachrichtigt."
 "MailFrom1C"	"Nam Humanum."
 // Sent mail
-"MailFrom3"	"To: Dr. Jacques Moreau"
+"MailFrom3"	"An: Dr. Jacques Moreau"
 "MailDate3"	"Date: 05/08/42"
 "MailSubject3"	"Betreff: Vorüberlegungen"
 "MailBody3A"	"Lieber Kollege. Ich habe eine erste Beobachtung der in deinem Labor eingeschlossenen Probengruppe durchgeführt, wie es deine Abteilung so... höflich verlangt hat. Denk daran, dass dies nur erste Gedanken sind - auch wenn die Schlussfolgerungen etwas alarmierend sein könnten."

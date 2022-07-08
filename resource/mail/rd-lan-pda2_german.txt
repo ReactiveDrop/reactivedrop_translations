@@ -17,7 +17,7 @@ GAME
 "MailBody2C"	""
 "MailBody2D"	"In Liebe, Lana"
 // sent mail
-"MailFrom3"	"To: Windom King"
+"MailFrom3"	"An: Windom King"
 "MailDate3"	"Date: 02/29/53"
 "MailSubject3"	"Betreff: Re: Sicherheit"
 "MailBody3A"	"Ja, Sir, ich werde alles melden."
