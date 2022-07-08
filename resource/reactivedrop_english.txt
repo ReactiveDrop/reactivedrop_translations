@@ -3580,8 +3580,6 @@
 "rd_mission_loc_rd-bonus_mission7" "Bonus Mission 7"
 "rd_mission_desc_rd-bonus_mission7" "Bring power online, start the generators and cooling pump."
 "rd_mission_brief_rd-bonus_mission7" "Get the power on"
-"rd_mission_title_rd-bonus_mission8" "Bonus Mission 8"
-"rd_mission_desc_rd-bonus_mission8" "Navigate through the AMBER Complex."
 
 "rd_entrymission_title_rd-area9800" "Drop Zone"
 "rd_entrymission_brief_rd-area9800" "Dropship Bloodhound will enter atmosphere at these co-ordinates and proceed to primary objective."
@@ -3628,6 +3626,8 @@
 "rd_mission_loc_rd-acc6_labruins" "Lab Ruins"
 "rd_mission_desc_rd-acc6_labruins" "The heart of swarm. Contains a recently discovered Muon Gem which has been labelled as a chemical weapon."
 "rd_mission_brief_rd-acc6_labruins" ""
+"rd_mission_title_rd-acc_complex" "AMBER Complex"
+"rd_mission_desc_rd-acc_complex" "Navigate through the AMBER Complex."
 
 "rd_entrymission_title_rd_biogen_corporation" "Entry Port"
 "rd_entrymission_brief_rd_biogen_corporation" "Dropship Bloodhound will enter atmosphere at these co-ordinates and proceed to primary objective."
