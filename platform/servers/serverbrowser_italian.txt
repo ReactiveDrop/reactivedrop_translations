@@ -196,7 +196,7 @@
 "ServerBrowser_AddServer"		"Aggiungi un server"
 "[english]ServerBrowser_AddServer"		"Add a Server"
 "ServerBrowser_AddCurrentServer"		"Aggiungi server attuale"
-"[english]ServerBrowser_AddCurrentServer"		"Aggiungi server attuale"
+"[english]ServerBrowser_AddCurrentServer"		"Add Current Server"
 "ServerBrowser_ImportBlacklist"		"Import Servers From File"
 "[english]ServerBrowser_ImportBlacklist"		"Import Servers From File"
 "ServerBrowser_ImportBlacklistTitle"		"Seleziona file da cui importare i server:"
