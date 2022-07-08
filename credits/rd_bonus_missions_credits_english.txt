@@ -19,6 +19,4 @@
 "asw_credits_"	""
 "asw_credits_"	"Mission 7, Power Plant, by Arjen de Graaf"
 "asw_credits_"	""
-"asw_credits_"	"Mission 8, AMBER Complex, by jhheight"
-"asw_credits_"	""
 }
