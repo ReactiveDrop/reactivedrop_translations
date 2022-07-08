@@ -3580,6 +3580,8 @@
 "rd_mission_loc_rd-bonus_mission7" "Bonus Mission 7"
 "rd_mission_desc_rd-bonus_mission7" "Bring power online, start the generators and cooling pump."
 "rd_mission_brief_rd-bonus_mission7" "Get the power on"
+"rd_mission_title_rd-bonus_mission8" "Bonus Mission 8"
+"rd_mission_desc_rd-bonus_mission8" "Navigate through the AMBER Complex."
 
 "rd_entrymission_title_rd-area9800" "Drop Zone"
 "rd_entrymission_brief_rd-area9800" "Dropship Bloodhound will enter atmosphere at these co-ordinates and proceed to primary objective."
