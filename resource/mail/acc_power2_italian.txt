@@ -1,6 +1,6 @@
 GAME
 {
-  "MailFrom1"	"Da: Xavier Plumes"
+	"MailFrom1"	"Da: Xavier Plumes"
 	"MailDate1"	"Data: 14/12/32"
 	"MailSubject1"	"Soggetto: La Situazione &HIDDEN"
 	"MailBody1A"	"Ieri l'ingegnere capo Nathan Poe è stato ucciso su richiesta del generale dopo essere stato sorpreso a diffondere informazioni sull'epidemia dell'infestazione nel settore di ricerca e sulla gravità della situazione nel settore sotterraneo."
