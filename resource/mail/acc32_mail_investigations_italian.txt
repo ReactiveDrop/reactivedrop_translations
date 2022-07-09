@@ -1,0 +1,14 @@
+GAME
+{
+   	"MailFrom1"	"Da: Sergente."
+	"MailDate1"	"Data: 20 Nov 2032"
+	"MailSubject1" "Soggetto: indagine"
+	"MailBody1A" "Siamo entrati attraverso le fogne, erano insanguinate da tutti i cadaveri che voi vermi ci avete scaricato dentro. la temperatura è di 50 gradi, i livelli di radiazioni sono 3 volte più alti ora".
+	"MailBody1B" "Sergente. 20 novembre 2032"
+	
+	"MailFrom1"	"Da: Sarge."
+	"MailDate1"	"Data: 20 Nov 2032"
+	"MailSubject1" "Soggetto: re: Mentre siete lì"
+	"MailBody1A" "No. Siamo stati mandati a investigare e non a fare qualche stupido esperimento. Siamo soldati. Non mi interessa quello che dici, ce ne andiamo da qui, cazzo".
+	"MailBody1B" "Sergente."
+}
