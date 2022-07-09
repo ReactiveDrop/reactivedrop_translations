@@ -1,6 +1,6 @@
 "Credits"
 {
-// Diese Schlüssel müssen in dieser Reihenfolge sein!
+// Diese Einräge müssen in dieser Reihenfolge sein!
 "show_credits_logo" "1"
 "custom_logo"	"ExampleCustomLogo/example_custom_logo"
 "asw_credits_"	"DEIN NAME HIER"
