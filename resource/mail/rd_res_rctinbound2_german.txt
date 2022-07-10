@@ -10,7 +10,7 @@ GAME
 "MailBody1D"	"TÖTE SIE ODER VERSCHWINDE, SOLANGE DU NOCH KANNST"
 "MailFrom2"	"Von: Martin Jericho"
 "MailDate2"	"Datum: 27/12/52"
-"MailSubject2"	"Re: Fleisch auftauen"
+"MailSubject2"	"Aw: Fleisch auftauen"
 "MailBody2A"	"Hullen, du BASTARD!"
 "MailBody2B"	"Das Ding, das du uns geschickt hast, war nicht tot! Wir haben es in die Nähe der Lava gebracht und es wurde lebendig."
 "MailBody2C"	"Es hat Hodgson UND Jenny getötet. Hörst du mich, DU HAST JENNY GETÖTET!"

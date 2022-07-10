@@ -12,7 +12,7 @@ GAME
 // sent mail
 "MailFrom3"	"An: Dr. Foster"
 "MailDate3"	"Datum: 3/13/46"
-"MailSubject3"	"Betreff: Re: Dosierung"
+"MailSubject3"	"Betreff: Aw: Dosierung"
 "MailBody3A"	"Ich stimme zu."
 "MailBody3B"	"Das nächste Mal erhöhen wir die Dosis. Ich bin mir ziemlich sicher, dass ich einen geeigneten Patienten gefunden habe."
 }

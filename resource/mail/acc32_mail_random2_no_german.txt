@@ -1,8 +1,8 @@
 GAME
 {
-   	"MailFrom1"	"From: Helen Baker"
-	"MailDate1"	"Date: 07/01/31"
-	"MailSubject1"	"Subject: Pipe Update"
-	"MailBody1A"	"Just keeping you updated on the pipe check - I haven't found any administration papers on the east pipe 5B, which is a little weird. Not sure what function it serves or where it leads to. Either way, I have informed the engineers about it, they will take a look at it next week."
-	"MailBody1B"	"At least there are no other problems like strange sounds coming from walls or something."
+   	"MailFrom1"	"Von: Helen Baker"
+	"MailDate1"	"Datum: 07/01/31"
+	"MailSubject1"	"Betreff: Update Rohrleitung"
+	"MailBody1A"	"Ich wollte dich nur auf dem Laufenden halten, was den Rohr-Check angeht. Ich habe keine Verwaltungsunterlagen über das Ostrohr 5B gefunden, was ein bisschen seltsam ist. Ich weiß nicht, welche Funktion es hat oder wohin es führt. Jedenfalls habe ich die Ingenieure darüber informiert, sie werden sich das nächste Woche ansehen."
+	"MailBody1B"	"Wenigstens gibt es keine anderen Probleme wie seltsame Geräusche, die aus den Wänden kommen oder so."
 }

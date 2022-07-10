@@ -2,7 +2,7 @@ GAME
 {
 // Computer belongs to Chief Surgeon Wiston Beaufort
 // Sent messages
-"MailFrom3"	"To: Dr. Jacques Moreau"
+"MailFrom3"	"An: Dr. Jacques Moreau"
 "MailDate3"	"Datum: 05/18/42"
 "MailSubject3"	"Betreff: Arthur Carradine's Gehirnoperation"
 "MailBody3A"	"Lieber Herr,"

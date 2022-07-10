@@ -10,7 +10,7 @@ GAME
 // sent mail
 "MailFrom3"	"An: Juan Rosales"
 "MailDate3"	"Datum: 12/18/52"
-"MailSubject3"	"Betreff: Re: Booze and babes?"
+"MailSubject3"	"Betreff: Aw: Booze and babes?"
 "MailBody3A"	"Klar doch, J."
 "MailBody3B"	"Ich bin sowieso raus aus Daxol. Wir sehen uns."
 }
