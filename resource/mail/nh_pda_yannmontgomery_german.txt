@@ -3,14 +3,14 @@ GAME
 // PDA belongs to Professor Yann Montgomery
 // Inbox
 "MailFrom1"	"Von: Dr. Jacques Moreau"
-"MailDate1"	"Date: 05/08/42"
-"MailSubject1"	"Betreff: RE: Vorüberlegungen"
+"MailDate1"	"Datum: 05/08/42"
+"MailSubject1"	"Betreff: AW: Vorüberlegungen"
 "MailBody1A"	"Ich danke dir für deine Zeit, Professor. Ihr Fachwissen bestätigt die meisten meiner Annahmen. Vergewissern Sie sich im Übrigen, dass die Maßnahmen der Gefangenschaft nach Vorschrift durchgeführt werden. Bevor wir nicht genau wissen, womit wir es zu tun haben, möchte ich Sie bitten, die Phalanx vorerst nicht zu kontaktieren."
 "MailBody1B"	"Du wirst bei Bedarf von meinem Labor benachrichtigt."
 "MailFrom1C"	"Nam Humanum."
 // Sent mail
-"MailFrom3"	"To: Dr. Jacques Moreau"
-"MailDate3"	"Date: 05/08/42"
+"MailFrom3"	"An: Dr. Jacques Moreau"
+"MailDate3"	"Datum: 05/08/42"
 "MailSubject3"	"Betreff: Vorüberlegungen"
 "MailBody3A"	"Lieber Kollege. Ich habe eine erste Beobachtung der in deinem Labor eingeschlossenen Probengruppe durchgeführt, wie es deine Abteilung so... höflich verlangt hat. Denk daran, dass dies nur erste Gedanken sind - auch wenn die Schlussfolgerungen etwas alarmierend sein könnten."
 "MailBody3B"	"Auf den ersten Blick scheint das Exemplar im Wesentlichen einem recht einfachen Verhaltensmuster zu folgen, das sich als Suche und Beseitigung jeder potenziellen Bedrohung für sein Überleben zusammenfassen lässt - mit anderen Worten: uns. Interessanter ist jedoch, dass ich in 27 Jahren Biologie selten so viele Verhaltensbelege gesehen habe, die die Theorie des Bienenstocks unterstützen, egal ob bei Tieren, Pflanzen oder Pilzen. Sie bewegen sich und ruhen sich aus, als wären sie eine Familie oder vielmehr ein Schwarm - was auf die Existenz einer höheren Intuition hindeutet, die jedes Wesen mit jedem anderen verbindet. Wie diese Verbindung hergestellt wird und in welchem Ausmaß, ist die eigentliche Frage."

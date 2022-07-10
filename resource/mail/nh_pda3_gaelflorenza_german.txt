@@ -10,7 +10,7 @@ GAME
 "MailBody3C"	"Ich ertappe mich dabei, wie ich meinen Blick mehr und mehr auf Dr. Moreau richte, wenn er sich über die Forschungsetagen wagt. Nachdem er es so weit gebracht hat, dass er auf der Sonnenseite der Wissenschaft steht, würde ich ihn nicht für etwas anderes halten als einen Mann mit Überzeugung... Doch sein geistiger Zustand scheint sich seit dem Tod seiner Frau nur verschlechtert zu haben. Ich kann seinen Schmerz nur nachempfinden und hoffe auf eine baldige Genesung, zum Wohle der Kolonie und für unsere Zukunft. Deine, meine und die unseres Kindes."
 "MailBody3D"	"Nam Humanum."
 "MailFrom4"	"An: Iris Florenza"
-"MailDate4"	"Date: 05/28/41"
+"MailDate4"	"Datum: 05/28/41"
 "MailSubject4"	"Betreff: Routine-Einstellung"
 "MailBody4A"	"Lieber Schatz,"
 "MailBody4B"	"Expeditionen zu den unerforschten Oberflächen des Planeten, die mit Eile voranschreiten, wäre das Mindeste, was man sagen kann. Ich habe schon mehr Touren abgeschlossen, als ich mir in einem Jahr hätte vorstellen können. Es ist eine stressige Aufgabe mit viel Verantwortung, aber sie hat auch ihre guten Seiten. Ab und zu, wenn unsere Eierköpfe den Marsch ruckartig anhalten, nur um über den kleinsten Kieselstein mit verdächtiger Form zu stolpern, schaue ich gerne in unseren dunklen Himmel und stelle mir vor, dass auch du in diesem Moment zu den Sternen aufblickst."

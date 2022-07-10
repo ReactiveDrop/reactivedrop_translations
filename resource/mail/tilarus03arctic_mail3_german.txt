@@ -12,7 +12,7 @@ GAME
 // sent mail
 "MailFrom3"	"An: SynTek Data Analyst"
 "MailDate3"	"Datum: 10/5/52"
-"MailSubject3"	"Betreff: Re: Facility Layout Daten"
+"MailSubject3"	"Betreff: Aw: Facility Layout Daten"
 "MailBody3A"	"Hi Mike,"
 "MailBody3B"	"oohh... Du bist so lustig... :P"
 "MailBody3C"	"Trotzdem danke für die Dateien."

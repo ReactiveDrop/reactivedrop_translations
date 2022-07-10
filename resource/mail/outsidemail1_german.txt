@@ -2,7 +2,7 @@ GAME
 {
 // PDA belongs to Lt. Cain
 // inbox
-"MailFrom1"	"From: Shaun Ming"
+"MailFrom1"	"Von: Shaun Ming"
 "MailDate1"	"Datum: 12/21/52"
 "MailSubject1"	"Betreff: Durchbruch"
 "MailBody1A"	"Leutnant Kain,"
@@ -11,8 +11,8 @@ GAME
 "MailBody1D"	"S. Ming"
 // sent mail
 "MailFrom3"	"An: Shaun Ming"
-"MailDate3"	"Date: 12/21/52"
-"MailSubject3"	"Betreff: Re: Durchbruch"
+"MailDate3"	"Datum: 12/21/52"
+"MailSubject3"	"Betreff: Aw: Durchbruch"
 "MailBody3A"	"Herr Ming,"
 "MailBody3B"	"1) So gut wie erledigt."
 "MailBody3C"	"2) Ich werde sehen, was ich tun kann."

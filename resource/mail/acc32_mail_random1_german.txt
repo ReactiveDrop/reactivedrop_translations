@@ -1,7 +1,7 @@
 GAME
 {
-   	"MailFrom1"	"From: Edward Zoff"
-	"MailDate1"	"Date: 07/07/31"
-	"MailSubject1"	"Subject: Mining Operation"
-	"MailBody1A"	"Surely I am not the only one wondering what those green, tasty-looking crystals that we are harvesting are. Curiosity sparked my interest and I asked the administration about it, however they seemed unpleased and ignored me. Those stones do not look like anything I have seen before, also they are very high temperature and even in the cold climate they do not seem to be cooling down at all." 
+   	"MailFrom1"	"Von: Edward Zoff"
+	"MailDate1"	"Datum: 07/07/31"
+	"MailSubject1"	"Betreff: Bergbaubetrieb"
+	"MailBody1A"	"Sicherlich bin ich nicht der Einzige, der sich fragt, was diese grünen, lecker aussehenden Kristalle sind, die wir ernten. Meine Neugierde hat mein Interesse geweckt und ich habe die Verwaltung danach gefragt, aber sie schienen unzufrieden und ignorierten mich. Diese Steine sehen anders aus als alles, was ich bisher gesehen habe. Außerdem haben sie eine sehr hohe Temperatur und selbst in dem kalten Klima scheinen sie nicht abzukühlen." 
 }

@@ -4,7 +4,7 @@ GAME
 // inbox 
 "MailFrom1"	"Von: Versand und Lagerung"
 "MailDate1"	"Datum: 24/10/53"
-"MailSubject1"	"Betreff: Re: Kettensägen?!"
+"MailSubject1"	"Betreff: Aw: Kettensägen?!"
 "MailBody1A"	"Hey George,"
 "MailBody1B"	"tut mir leid, dass wir das verwechselt haben. Ich sorge dafür, dass wir dir nächste Woche die Medikamente schicken."
 "MailBody1C"	"Was die Kettensäge angeht, wirf sie von einer Klippe oder so. Irgendein Idiot hat aus Versehen eine Ladung davon bestellt und seitdem stehen sie im Lager und nehmen Platz weg. Als ob wir auf diesem Felsen Kettensägen brauchen würden!"
