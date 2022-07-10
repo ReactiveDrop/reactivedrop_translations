@@ -1,7 +1,7 @@
 GAME
 {
 // PDA belongs to John Wisher	
-"MailFrom1"	"From: Kate Wisher"
+"MailFrom1"	"Von: Kate Wisher"
 "MailDate1"	"Datum: 10/13/52"
 "MailSubject1"	"Betreff: Was ist da drin los?"
 "MailBody1A"	"Hey Süße!"

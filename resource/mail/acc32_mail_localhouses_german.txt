@@ -1,9 +1,9 @@
 GAME
 {
-   	"MailFrom1"	"From: Local Houses"
-	"MailDate1"	"Date: Nov 14, 2032"
-	"MailSubject1"	"Subject: Our safety"
-	"MailBody1A"	"Just an hour ago one of your men had informed us of rapidly growing radiation levels in our area. Are you planning to sort it out? If this rapid growth continues, we will be forced to leave our houses tomorrow or else we will die."
-	"MailBody1B"	"Why have we been unofficially informed about this only now, a day before disaster strikes? Will the officials provide us with livable houses or will we have to evacuate by ourselves, with our own money?"
-	"MailBody1C"	"Local Houses - Nov 14, 2032"
+   	"MailFrom1"	"Von: Lokale Häuser"
+	"MailDate1"	"Datum: 14. Nov 2032"
+	"MailSubject1"	"Betreff: Unsere Sicherheit"
+	"MailBody1A"	"Erst vor einer Stunde hat uns einer deiner Männer über die rapide ansteigenden Strahlungswerte in unserem Gebiet informiert. Habt ihr vor, das in Ordnung zu bringen? Wenn die Strahlung weiter so schnell ansteigt, müssen wir morgen unsere Häuser verlassen, sonst werden wir sterben."
+	"MailBody1B"	"Warum werden wir erst jetzt, einen Tag vor der Katastrophe, inoffiziell darüber informiert? Werden uns die Behörden bewohnbare Häuser zur Verfügung stellen oder müssen wir selbst und mit unserem eigenen Geld evakuiert werden?"
+	"MailBody1C"	"Lokale Häuser - 14. Nov 2032"
 }

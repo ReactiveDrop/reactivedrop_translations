@@ -11,7 +11,7 @@ GAME
 // sent mail
 "MailFrom3"	"An: Helen Young"
 "MailDate3"	"Datum: 12/19/52"
-"MailSubject3"	"Betreff: Re: ??!"
+"MailSubject3"	"Betreff: Aw: ??!"
 "MailBody3A"	"Strukturierte Sozialität?"
 "MailBody3B"	"Unter Großlebewesen?  Ich bin immer noch skeptisch."
 "MailBody3C"	"Es besteht kein Zweifel, dass die Eier gefährlich sind.  Wir hatten heute einen Unfall.  Einer der Arbeiter wurde tot aufgefunden."
