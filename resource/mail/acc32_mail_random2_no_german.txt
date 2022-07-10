@@ -1,7 +1,7 @@
 GAME
 {
    	"MailFrom1"	"Von: Helen Baker"
-	"MailDate1"	"Datum: 07/01/31"
+	"MailDate1"	"Datum: 01/07/31"
 	"MailSubject1"	"Betreff: Update Rohrleitung"
 	"MailBody1A"	"Ich wollte dich nur auf dem Laufenden halten, was den Rohr-Check angeht. Ich habe keine Verwaltungsunterlagen über das Ostrohr 5B gefunden, was ein bisschen seltsam ist. Ich weiß nicht, welche Funktion es hat oder wohin es führt. Jedenfalls habe ich die Ingenieure darüber informiert, sie werden sich das nächste Woche ansehen."
 	"MailBody1B"	"Wenigstens gibt es keine anderen Probleme wie seltsame Geräusche, die aus den Wänden kommen oder so."
