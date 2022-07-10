@@ -4456,7 +4456,7 @@
 "RD_SPEEDRUN_AD_NEON_CARNAGE_DESC"		"Schließe den Einsatz \"Neon-Gemetzel\" innerhalb von ?:?? auf Normal ab, ohne Verluste."
 "[english]RD_SPEEDRUN_AD_NEON_CARNAGE_DESC"		"Complete Neon Carnage within ?:?? on Normal difficulty or harder without any marines dying."
 "RD_SPEEDRUN_AD_FUEL_JUNCTION_DESC"		"Schließe den Einsatz \"Kraftstoffanschluss\" innerhalb von ?:?? auf ab, ohne Verluste."
-"[english]RD_SPEEDRUN_AD_FUEL_JUNCTION_DESC"		"Complete Fuel Junction innerhalb von ?:?? auf Normal ab, ohne Verluste."
+"[english]RD_SPEEDRUN_AD_FUEL_JUNCTION_DESC"		"Complete Fuel Junction within ?:?? on Normal difficulty or harder without any marines dying."
 "RD_SPEEDRUN_AD_DARKPATH_CLASSIC_DESC"		"Schließe den Einsatz \"Dunkler Pfad\" innerhalb von ?:?? auf Normal ab, ohne Verluste."
 "[english]RD_SPEEDRUN_AD_DARKPATH_CLASSIC_DESC"		"Complete Dark Path within ?:?? on Normal difficulty or harder without any marines dying."
 "RD_SPEEDRUN_AD_FORBIDDEN_OUTPOST_DESC"		"Schließe den Einsatz \"Verbotener Außenposten\" innerhalb von ?:?? auf Normal ab, ohne Verluste."
