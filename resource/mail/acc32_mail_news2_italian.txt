@@ -1,15 +1,15 @@
 GAME
 {
    	"MailFrom1" "Da: Fox News"
-	"MailDate1" "Data: 03 gennaio 2033"
+	"MailDate1" "Data: 03 gennaio 2233"
 	"MailSubject1" "Oggetto: Diario delle notizie degli ultimi 1 mesi".
-	"MailBody1A" "3 dicembre 2032 - Il piano di raffreddamento della roccia è in fase di realizzazione. Il sistema di raffreddamento dovrebbe essere realizzato in 3-4 giorni."
-	"MailBody1B" "5 dicembre 2032 - Disastro! I corpi morti di minatori e ricercatori sono diventati senzienti e si sono trasformati in una specie aliena. Circa 40 di loro hanno attaccato il Connettore J7 e, secondo quanto riferito, hanno ucciso oltre 300 persone. Gli ingegneri e i soldati che eseguono il piano di raffreddamento sono fuggiti".
-	"MailBody1C" "6 dicembre 2032 - Gli alieni hanno attaccato il laboratorio e lo hanno esposto al mondo esterno. Le radiazioni della roccia fuoriescono. La catastrofe è stata dichiarata una minaccia di livello INES 8. I soldati stanno eliminando gli alieni ai confini della struttura".
-	"MailBody1D" "7 dicembre 2032 - Le radiazioni della roccia stanno raggiungendo aree con un raggio di oltre cento chilometri dal cuore. La maggior parte delle persone è stata evacuata, tuttavia le radiazioni continuano a crescere e potrebbero avere conseguenze globali."
-	"MailBody1E" "8 dicembre 2032 - Il piano prevede di far cadere dagli aerei diecimila tonnellate d'acqua sulla struttura il 9 dicembre per raffreddare la roccia."
-	"MailBody1F" "9 dicembre 2032 - Una grande esplosione al mattino è stata udita a mille chilometri di distanza. I laboratori sono stati ufficialmente dichiarati INFERNO. Le radiazioni stanno trasformando qualsiasi umano a cinquecento chilometri di distanza dai laboratori in un alieno con artigli mortali. Gli alieni hanno intercettato il piano per far cadere acqua sulla struttura. Si sta scatenando il panico globale e tutti i governi del mondo sono preparati militarmente".
-	"MailBody1G" "20 dicembre 2032 - I livelli di radiazione sono radicalmente diminuiti, poiché la roccia è praticamente decaduta. Una zona di 1600 chilometri di raggio dai laboratori è ancora considerata pericolosa, poiché ci sono molti alieni."
-	"MailBody1H" "3 gennaio 2033 - 8 dei soldati più esperti del mondo sono stati selezionati per eseguire un attacco al laboratorio e recuperare il Connettore J7. Il loro viaggio partirà in treno dalla Mongolia, la frontiera più attiva nella lotta agli alieni."
-	"MailBody1I" "Fox News - 03 gennaio 2033"
+	"MailBody1A" "3 dicembre 2232 - Il piano di raffreddamento della roccia è in fase di realizzazione. Il sistema di raffreddamento dovrebbe essere realizzato in 3-4 giorni."
+	"MailBody1B" "5 dicembre 2232 - Disastro! I corpi morti di minatori e ricercatori sono diventati senzienti e si sono trasformati in una specie aliena. Circa 40 di loro hanno attaccato il Connettore J7 e, secondo quanto riferito, hanno ucciso oltre 300 persone. Gli ingegneri e i soldati che eseguono il piano di raffreddamento sono fuggiti".
+	"MailBody1C" "6 dicembre 2232 - Gli alieni hanno attaccato il laboratorio e lo hanno esposto al mondo esterno. Le radiazioni della roccia fuoriescono. La catastrofe è stata dichiarata una minaccia di livello INES 8. I soldati stanno eliminando gli alieni ai confini della struttura".
+	"MailBody1D" "7 dicembre 2232 - Le radiazioni della roccia stanno raggiungendo aree con un raggio di oltre cento chilometri dal cuore. La maggior parte delle persone è stata evacuata, tuttavia le radiazioni continuano a crescere e potrebbero avere conseguenze globali."
+	"MailBody1E" "8 dicembre 2232 - Il piano prevede di far cadere dagli aerei diecimila tonnellate d'acqua sulla struttura il 9 dicembre per raffreddare la roccia."
+	"MailBody1F" "9 dicembre 2232 - Una grande esplosione al mattino è stata udita a mille chilometri di distanza. I laboratori sono stati ufficialmente dichiarati INFERNO. Le radiazioni stanno trasformando qualsiasi umano a cinquecento chilometri di distanza dai laboratori in un alieno con artigli mortali. Gli alieni hanno intercettato il piano per far cadere acqua sulla struttura. Si sta scatenando il panico globale e tutti i governi del mondo sono preparati militarmente".
+	"MailBody1G" "20 dicembre 2232 - I livelli di radiazione sono radicalmente diminuiti, poiché la roccia è praticamente decaduta. Una zona di 1600 chilometri di raggio dai laboratori è ancora considerata pericolosa, poiché ci sono molti alieni."
+	"MailBody1H" "3 gennaio 2233 - 8 dei soldati più esperti del mondo sono stati selezionati per eseguire un attacco al laboratorio e recuperare il Connettore J7. Il loro viaggio partirà in treno dalla Mongolia, la frontiera più attiva nella lotta agli alieni."
+	"MailBody1I" "Fox News - 03 gennaio 2233"
 }
