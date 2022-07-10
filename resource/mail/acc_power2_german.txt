@@ -1,7 +1,7 @@
 GAME
 {
    	"MailFrom1"	"Von: Xavier Plumes"
-	"MailDate1"	"Datum: 14/12/32"
+	"MailDate1"	"Datum: 12/14/32"
 	"MailSubject1"	"Betreff: Die Situation &VERSTECKT"
 	"MailBody1A"	"Gestern wurde der Chefingenieur Nathan Poe auf Wunsch des Generals getötet, nachdem er dabei erwischt wurde, wie er Informationen über den Ausbruch der Seuche im Forschungssektor und den Ernst der Lage im Untergrundsektor verbreitete."
 	"MailBody1B"	"Seit der Abschaltung des Reaktors im September wurde die Situation immer schlimmer. Immer mehr Ungeziefer kroch aus den Schächten und die Menschen gerieten in Panik."
