@@ -12,7 +12,7 @@ GAME
 // sent mail
 "MailFrom3"	"An: Helen Young"
 "MailDate3"	"Datum: 12/23/52"
-"MailSubject3"	"Betreff: Re: Atrium geschlossen!"
+"MailSubject3"	"Betreff: Aw: Atrium geschlossen!"
 "MailBody3A"	"Helen, hier unten sieht es schlimm aus!  Wir haben heute Nacht eine weitere Leiche gefunden. Diese ist teilweise verschlungen.  Irgendetwas ist hier unten.  Irgendetwas.  Cain und ein Dutzend seiner Leute tauchten auf, fuhren mit dem Aufzug runter zur Timor Station und sagten uns, wir sollten zurückbleiben.  Kurze Zeit später hörten wir Schüsse."
 "MailBody3B"	"Als Cain zurückkam, hatte er nur noch zwei Männer, beide schwer verwundet. Cain sagte mir, dass wir unsere Mannschaft aus der Mine holen müssen.  Ich sagte, das sei unmöglich, sie seien überall verstreut.  Er zuckte nur mit den Schultern.  Er sagte, das sei jetzt mein Problem.  Dann ist er gegangen."
 "MailBody3C"	"Also, ich nehme Dave und Tom mit.  Wir werden ein letztes Mal nach den vermissten Arbeitern suchen.  Ich möchte, dass du die IA-Agentin Laura Callen darüber informierst.  Und wenn du schon dabei bist, erzähl ihr von Ming.  Sie ist die Einzige, die befugt ist, sich gegen Cain zu stellen."

@@ -1,10 +1,10 @@
 GAME
 {
    	"MailFrom1"	"An: Brad Irwing"
-	"MailDate1"	"Date: 02/04/31"
-	"MailSubject1"	"Subject: ANSWER ME! &HIDDEN"
-	"MailBody1A"	"Why did you escape? What happened? TELL ME! You realise you can't do that? Capt. Bark and the Head Doc. are searching for you and they are not happy. The Head Doc. is responding aggresively to my questioning, perhaps he is hiding something? Actually, everybody is acting strangely."
-	"MailBody1B"	"You ran away after your experiment in march, what did you discover? I am being disquiet. I hope you aren't planning to tell the public or even worse, the government, about our facility's secrets. This information would cause a massive anarchy all around the world. Lieutenant Wanman and General Schmitz would be in deep trouble and in charge of causing an international scandal."
-	"MailBody1C"	"P.S: Where is Retller? I can't find him, maybe he could give me some information? I know you two are good colleagues since childhood."
+	"MailDate1"	"Datum: 02/04/31"
+	"MailSubject1"	"Betreff: ANTWORTE MIR! &VERSTECKT"
+	"MailBody1A"	"Warum bist du geflohen? Was ist passiert? SAGE ES MIR! Ist dir klar, dass du das nicht tun kannst? Kapitän Bark und der Chefarzt suchen nach dir und sie sind nicht glücklich. Der Chefarzt reagiert sehr aggressiv auf meine Fragen, vielleicht verbirgt er etwas? Eigentlich verhalten sich alle seltsam."
+	"MailBody1B"	"Du bist nach deinem Experiment im März weggelaufen, was hast du entdeckt? Ich bin beunruhigt. Ich hoffe, du hast nicht vor, der Öffentlichkeit oder noch schlimmer, der Regierung, die Geheimnisse unserer Einrichtung zu verraten. Diese Information würde auf der ganzen Welt eine massive Anarchie auslösen. Leutnant Wanman und General Schmitz wären in großen Schwierigkeiten und für einen internationalen Skandal verantwortlich."
+	"MailBody1C"	"P.S.: Wo ist Retller? Ich kann ihn nicht finden, vielleicht kann er mir ein paar Informationen geben? Ich weiß, dass ihr beide seit eurer Kindheit gute Kollegen seid."
 	"MailBody1D"	"Kate."
 }

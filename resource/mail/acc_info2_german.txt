@@ -1,9 +1,9 @@
 GAME
 {
-   	"MailFrom1"	"An: #veryone"
-	"MailDate1"	"Date: 19/10/30"
-	"MailSubject1"	"Subject: AMBER YOU SUCK"
-	"MailBody1A"	"This letter has been sent to every worker in AMBER. This dumb ass mailing system developed by AMBERs unexperienced programmers has soooo many flaws. If you want to secretly send messages to other workers without AMBER knowing, simply add '&HIDDEN' at the end of the subject in your mail."
-	"MailBody1B"	"If AMBER is reading this, so long suckers! I have escaped this prison that you call 'a project' long time ago. If you don't want government to know about your extraterrestrial life discovery, you know what I want."
-	"MailBody1c"	"Yours, СRĄ$H"
+   	"MailFrom1"	"An: #njeden"
+	"MailDate1"	"Datum: 19/10/30"
+	"MailSubject1"	"Betreff: AMBER DU SCHLUCKST"
+	"MailBody1A"	"Dieser Brief wurde an jeden Arbeiter bei AMBER geschickt. Dieses dämliche Mailsystem, das von AMBERs unerfahrenen Programmierern entwickelt wurde, hat soooo viele Fehler. Wenn du heimlich Nachrichten an andere Arbeiter/innen schicken willst, ohne dass AMBER davon erfährt, füge einfach "&VERSTECKT" am Ende des Betreffs in deiner Mail hinzu."
+	"MailBody1B"	"Wenn AMBER das hier liest, dann macht's gut, ihr Trottel! Ich bin diesem Gefängnis, das ihr "Projekt" nennt, schon vor langer Zeit entflohen. Wenn ihr nicht wollt, dass die Regierung von eurer Entdeckung außerirdischen Lebens erfährt, wießt ihr, was ich will."
+	"MailBody1c"	"Euer, СRĄ$H"
 }

@@ -1,9 +1,9 @@
 GAME
 {
    	"MailFrom1"	"An: Nathan Poe"
-	"MailDate1"	"Date: 25/08/32"
-	"MailSubject1"	"Subject: Reactor instability &HIDDEN"
-	"MailBody1A"	"You said you would shut down the reactor if the temperature suddently became unstable again, but that was a fucking lie! It's been unstable since May and I have no idea how the Reactor hasn't exploded yet!"
-	"MailBody1B"	"WE NEED TO SHUT DOWN THE REACTOR NOW! I don't care about the specimen outbreak in Sectors 3 and 4 and what AMBER says about the danger of infestation, Reactor is our main concern right now."
-	"MailBody1C"	"With fucking regards, Leonid Toptunov."
+	"MailDate1"	"Datum: 25/08/32"
+	"MailSubject1"	"Betreff: Instabilität des Reaktors &VERSTECKT"
+	"MailBody1A"	"Du hast gesagt, du würdest den Reaktor abschalten, wenn die Temperatur plötzlich wieder instabil wird, aber das war eine verdammte Lüge! Sie ist seit Mai instabil und ich habe keine Ahnung, warum der Reaktor noch nicht explodiert ist!"
+	"MailBody1B"	"WIR MÜSSEN DEN REAKTOR SOFORT ABSCHALTEN! Der Ausbruch der Exemplare in den Sektoren 3 und 4 und was AMBER über die Gefahr einer Verseuchung sagt, ist mir egal, der Reaktor ist jetzt unsere Hauptsorge."
+	"MailBody1C"	"Mit verfickten Grüßen, Leonid Toptunov."
 }

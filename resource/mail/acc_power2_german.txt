@@ -1,10 +1,10 @@
 GAME
 {
-   	"MailFrom1"	"From: Xavier Plumes"
-	"MailDate1"	"Date: 14/12/32"
-	"MailSubject1"	"Subject: The Situation &HIDDEN"
-	"MailBody1A"	"Yesterday the Head Engineer Nathan Poe was killed by General's request after getting caught spreading information about the Infestation Outbreak in Research Sector and the severity of the situation in the Underground Sector."
-	"MailBody1B"	"The situation got worse and worse ever since the Reactor shut down in September. More and more bugs started crawling out of vents and people started panicking."
-	"MailBody1C"	"A riot was caused 3 weeks ago and most of the personnel was shot, including me. I hid in my office and turned off the turbines, also welded my door. I am bleeding and I hear a swarm of aliens behind my door, which is good, because people from AMBER won't get me. I know that I will die soon."
-	"MailBody1D"	"In couple months the world will know the truth about AMBER. Hopefully the military sends some people to save all the poor workers here that have been enslaved, isolated from the world and got their life in grave danger."
+   	"MailFrom1"	"Von: Xavier Plumes"
+	"MailDate1"	"Datum: 14/12/32"
+	"MailSubject1"	"Betreff: Die Situation &VERSTECKT"
+	"MailBody1A"	"Gestern wurde der Chefingenieur Nathan Poe auf Wunsch des Generals getötet, nachdem er dabei erwischt wurde, wie er Informationen über den Ausbruch der Seuche im Forschungssektor und den Ernst der Lage im Untergrundsektor verbreitete."
+	"MailBody1B"	"Seit der Abschaltung des Reaktors im September wurde die Situation immer schlimmer. Immer mehr Ungeziefer kroch aus den Schächten und die Menschen gerieten in Panik."
+	"MailBody1C"	"Vor 3 Wochen gab es einen Aufstand und die meisten Mitarbeiter wurden erschossen, mich eingeschlossen. Ich habe mich in meinem Büro versteckt und die Turbinen ausgeschaltet, außerdem habe ich meine Tür verschweißt. Ich blute und ich höre einen Schwarm Aliens hinter meiner Tür, was gut ist, denn die Leute von AMBER werden mich nicht kriegen. Ich weiß, dass ich bald sterben werde."
+	"MailBody1D"	"In ein paar Monaten wird die Welt die Wahrheit über AMBER erfahren. Hoffentlich schickt das Militär ein paar Leute, um all die armen Arbeiter zu retten, die hier versklavt und von der Welt isoliert wurden und deren Leben in großer Gefahr ist."
 }

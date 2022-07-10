@@ -2,7 +2,7 @@ GAME
 {
 // Hacked into network history: Lieutenant Gael Florenza
 // Sent mail
-"MailFrom3"	"To: Iris Florenza"
+"MailFrom3"	"An: Iris Florenza"
 "MailDate3"	"Datum: 12/03/40"
 "MailSubject3"	"Betreff: Eine trauernde Kolonie"
 "MailBody3A"	"Lieber Schatz,"
