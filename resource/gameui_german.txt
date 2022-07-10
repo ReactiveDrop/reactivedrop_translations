@@ -997,7 +997,7 @@
 "[english]GameUI_LoadCommentaryHelp"		"Select a commentary track in the list below, then click 'Load game'."
 "GameUI_NoCommentaryItemsToDisplay"		"Keine Kommentare verfügbar."
 "[english]GameUI_NoCommentaryItemsToDisplay"		"No commentary tracks available."
-"GameUI_CommentaryUnlock"		"Schließe ein Kapitel ab, um seinen Kommentar freizuschalten."
+"GameUI_CommentaryUnlock"		"Schließe einen Einsatz ab, um seinen Kommentar freizuschalten."
 "[english]GameUI_CommentaryUnlock"		"Complete a chapter to unlock its commentary."
 "GameUI_A_BUTTON"		"Taste A"
 "[english]GameUI_A_BUTTON"		"A Button"
