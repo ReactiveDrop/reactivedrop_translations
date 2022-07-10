@@ -1,9 +1,9 @@
 GAME
 {
    	"MailFrom1"	"Von: Operation News [Kyle]"
-	"MailDate1"	"Datum: 22. Nov 2032"
+	"MailDate1"	"Datum: 22. Nov 2232"
 	"MailSubject1"	"Betreff: Einige Einblicke"
 	"MailBody1A"	"Hallo, heute hat uns Tio Rinto, ein Bergbauunternehmen, einige ihrer Aufzeichnungen über ein scheinbar ähnliches Gestein geschickt. Sie sind vor 43 Jahren bei ihren Bergbauexpeditionen auf einen ähnlichen Felsen gestoßen."
 	"MailBody1B"	"Sie haben nicht viele Daten darüber, aber was sie haben, ist schockierend - das Gestein wird mit höherer Temperatur viel radioaktiver. Das Labor, in dem sich eine große Probe befindet, ist seit einem Monat von der Außenluft abgeschottet. Da das Dach größtenteils aus Metall besteht, hat es sich aufgeheizt und das Innere des Labors wird nun langsam immer heißer und heißer. Wir müssen Maßnahmen ergreifen, um das zu verhindern."
-	"MailBody1C"	"Kyle - 22. Nov 2032"
+	"MailBody1C"	"Kyle - 22. Nov 2232"
 }

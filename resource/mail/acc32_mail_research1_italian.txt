@@ -1,10 +1,10 @@
 GAME
 {
    	"MailFrom1" "Da: Operazione News [Laura]"
-	"MailDate1" "Data: 18 Ott 2032"
+	"MailDate1" "Data: 18 Ott 2232"
 	"MailSubject1" "Oggetto: Ricerca volume 1"
 	"MailBody1A" "Ehi, ecco cosa abbiamo trovato finora:"
 	"MailBody1B" "I livelli di radioattività non sono letali anche senza le nostre tute protettive, ma è comunque consigliabile indossarle, per essere completamente sicuri."
 	"MailBody1C" "La struttura atomica è misteriosa, addirittura ultraterrena. È completamente composta da elettroni... Come è possibile? Inoltre non ha senso che abbia una sfumatura verde e sia trasparente... Questa cosa mi fa paura".
-	"MailBody1D" "Laura - 18 ottobre 2032"
+	"MailBody1D" "Laura - 18 ottobre 2232"
 }

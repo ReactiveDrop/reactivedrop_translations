@@ -1,13 +1,13 @@
 GAME
 {
    	"MailFrom1"	"Von: Sarge."
-	"MailDate1"	"Datum: 20. Nov 2032"
+	"MailDate1"	"Datum: 20. Nov 2232"
 	"MailSubject1"	"Betreff: untersuchung"
 	"MailBody1A"	"wir sind durch die kanalisation gekommen, die von all den leichen, die ihr maden hineingekippt habt, blutig war. die temperatur beträgt 50 grad, die strahlungswerte sind jetzt dreimal so hoch."
 	"MailBody1B"	"sarge."
 	
 	"MailFrom1"	"Von: Sarge."
-	"MailDate1"	"Datum: 20. Nov 2032"
+	"MailDate1"	"Datum: 20. Nov 2232"
 	"MailSubject1"	"Betreff: aw: Während du dort bist"
 	"MailBody1A"	"nein. wir wurden geschickt, um zu ermitteln und nicht, um irgendwelche dummen experimente durchzuführen. wir sind soldaten. es ist mir egal, was du sagst, wir verschwinden von dort."
 	"MailBody1B"	"sarge."
