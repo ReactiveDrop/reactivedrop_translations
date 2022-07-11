@@ -504,6 +504,7 @@
 			"name_italian": "Top 20 - Eroi delle Forze Armate Interstellari",
 			"name_russian": "Один из лучших 20 - Герои межзвёздных вооружённых сил",
 			"briefing_name_english": "HoIAF Top 20",
+			"briefing_name_german": "HoIAF Top 20",
 			"briefing_name_italian": "Top 20 EdFAI",
 			"briefing_name_russian": "Один из лучших 20 ГМВС",
 			"before_description_english": "Finished Season %season% in rank #%rank% with a score of %score%.",
