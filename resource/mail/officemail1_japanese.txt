@@ -1,0 +1,18 @@
+﻿GAME
+{
+    // PDA belongs to Lt Cain
+    
+	"MailFrom1"	"差出人: ショーン・ミン"
+	"MailDate1"	"送信日時: 52年12月21日"
+	"MailSubject1"	"件名: 実験"
+	"MailBody1A"	"ケイン大尉へ、"
+	"MailBody1B"	"猫？これじゃ駄目だ。 小さすぎる。"
+	"MailBody1C"	"ショーン・ミンより"
+
+	"MailFrom2"	"差出人: ショーン・ミン"
+	"MailDate2"	"送信日時: 52年12月22日"
+	"MailSubject2"	"件名: 実験 2"
+	"MailBody2A"	"ケイン大尉へ、"
+	"MailBody2B"	"これなら使えそうだ。 もっと必要です。可能でしょうか？ 私の実験がいかに重要であるか解説する必要が無いことを祈りますよ。"
+	"MailBody2C"	"ショーン・ミンより"
+}
