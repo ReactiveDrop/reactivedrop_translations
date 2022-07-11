@@ -1618,7 +1618,7 @@
 "jaeger.HoldPosition1"		"<clr:198,226,255>Jaeger: ここで待て。"
 "[english]jaeger.HoldPosition1"		"<clr:198,226,255>Jaeger: Wait here."
 "jaeger.NeedAmmo0"		"<clr:198,226,255>Jaeger: 弾薬が必要だ。"
-"[english]jaeger.NeedAmmo0"		"<clr:198,226,255>Jaeger: 弾薬が必要だ。"
+"[english]jaeger.NeedAmmo0"		"<clr:198,226,255>Jaeger: Need ammo."
 "jaeger.NeedAmmo1"		"<clr:198,226,255>Jaeger: 弾薬がもっと必要だ！"
 "[english]jaeger.NeedAmmo1"		"<clr:198,226,255>Jaeger: Need some ammo!"
 "jaeger.NoAmmo0"		"<clr:198,226,255>Jaeger: チクショウ、弾が無い！"
