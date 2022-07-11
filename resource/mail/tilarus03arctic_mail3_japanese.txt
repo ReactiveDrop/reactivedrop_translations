@@ -1,0 +1,24 @@
+﻿GAME
+{
+	// PDA belongs to Martin Bauer
+
+	// inbox
+
+	"MailFrom1" "差出人: SynTekデータ解析部"
+	"MailDate1" "送信日時: 52年10月5日"
+	"MailSubject1" "件名: 施設の見取り図データ"
+	"MailBody1A" "やあマーティン、"
+	"MailBody1B" "施設の構成図ファイルの最新版を君が言ってた端末にアップロードしておいたよ。"
+	"MailBody1C" "これでもう迷子にならないことを祈るよ。 ハハハ！(^^)"
+	"MailBody1D" "マイク・パーマーより、敬具"
+
+	// sent mail
+
+	"MailFrom3" "宛先: SynTekデータ解析部"
+	"MailDate3" "送信日時: 52年10月5日"
+	"MailSubject3" "件名: Re: 施設の見取り図データ"
+	"MailBody3A" "やあマイク、"
+	"MailBody3B" "おおぉぉ... お前は面白いやつだな...(・3・)"
+	"MailBody3C" "ともかくファイルを送ってくれてありがとう。"
+	"MailBody3D" "-マーティンより"
+} 
