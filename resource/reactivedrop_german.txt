@@ -293,7 +293,7 @@
 "[english]asw_healing_desc"		"Increases healing power of healing\nitems and the total amount carried."
 "asw_xenowound_desc"		"Erlaubt dem Sanitäter, verseuchte Soldaten zu heilen\nund so die Dauer der Verseuchung zu reduzieren."
 "[english]asw_xenowound_desc"		"Allows the medic to heal infested marines,\nreducing the duration of the infestation."
-"asw_combatdrugs_desc"		"Erhöht die Wirksamkeit von Adrenalin, wenn es von deinem Trupp eingesetzt wird."
+"asw_combatdrugs_desc"		"Erhöht die Wirksamkeit von Adrenalin,\nwenn es von deinem Trupp eingesetzt wird."
 "[english]asw_combatdrugs_desc"		"Boosts effectiveness of adrenaline\nwhen used by your squad."
 "asw_hacking_desc"		"Reduziert die benötigte Zeit beim Hacken\nund beim Downloaden von kritischen Daten."
 "[english]asw_hacking_desc"		"Reduces time needed to charge wire\npanel actuators and download critical data."
