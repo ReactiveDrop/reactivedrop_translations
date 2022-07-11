@@ -1,0 +1,25 @@
+﻿GAME
+{
+    // PDA belongs to Juan Rosale
+    
+    // inbox
+    
+	"MailFrom1"	"差出人: ヴィンセント・ベイカー"
+	"MailDate1"	"送信日時: 52年12月18日"
+	"MailSubject1"	"件名: 雑用でお楽しみはお預け"
+	"MailBody1A"	"おう若いの、キャンベルがオレ達に残業してくれってよ。 お前もセクター12～18を探せと言われたか？"
+
+    "MailFrom2"	"差出人: ヴィンセント・ベイカー"
+	"MailDate2"	"送信日時: 52年12月18日"
+	"MailSubject2"	"件名: Re:Re: 雑用でお楽しみはお預け"
+	"MailBody2A"	"フアン、"
+	"MailBody2B"	"アーハッハ！お前とスティーブだって？ そりゃ酔いもサッパリ醒めるわな。 まあいい。ともかくクソブリザードが来てるからな。"
+
+    // sent mail
+    
+	"MailFrom3"	"宛先: ヴィンセント・ベイカー"
+	"MailDate3"	"送信日時: 52年12月18日"
+	"MailSubject3"	"件名: Re: 雑用でお楽しみはお預け"
+	"MailBody3A"	"ヴィンス、"
+	"MailBody3B"	"いや、30～35をスティーブと一緒に探せってさ。 相方を交換したいか？"	
+}

@@ -1,0 +1,20 @@
+﻿GAME
+{
+    // PDA belongs to Joseph Palmer
+    
+    // inbox
+	"MailFrom1"	"差出人: フォスター博士"
+	"MailDate1"	"送信日時: 46年3月13日"
+	"MailSubject1"	"件名: 投薬"
+	"MailBody1A"	"ジョセフへ、"
+	"MailBody1B"	"被験者モリガンが何故死んでしまったのかわかったかもしれない。" 
+	"MailBody1C"	"細胞増殖抑制剤が不十分だったのだ。 変異の終盤でもう一度投与してみるべきだ。"
+	"MailBody1D"	"フォスター博士より"
+
+    // sent mail
+	"MailFrom3" 	"宛先: フォスター博士"
+	"MailDate3"	"送信日時: 46年3月13日"
+	"MailSubject3"	"件名: Re: 投薬"
+	"MailBody3A"	"それには同意する。"
+	"MailBody3B"	"次回は投与量を増やそう。 適切な被験者はもう見つけてある。" 
+}
