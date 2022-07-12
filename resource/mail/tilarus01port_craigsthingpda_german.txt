@@ -17,7 +17,7 @@ GAME
 "MailBody2C"	"Monatelang?"
 "MailBody2D"	"Ich meine, es reicht, wenn einer von uns ein bisschen durchdreht, und schon sind wir alle erledigt."
 // sent mail
-"MailFrom3"	"An: Fenster"
+"MailFrom3"	"An: Windows"
 "MailDate3"	"Datum: 2/2/54"
 "MailSubject3"	"Betreff: Aw: Die Zwinger"
 "MailBody3A"	"Es stellt sich die Frage, wir sind Kunstforscher und keine Soldaten, was zum Teufel machen wir mit einem Flammenwerfer?"

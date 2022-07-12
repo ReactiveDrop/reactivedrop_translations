@@ -1211,7 +1211,7 @@
 "[english]L4D360UI_SteamOverlay_Text"		"This feature requires Steam Community In-Game to be enabled.\n\nYou might need to restart the game after you enable this feature in Steam:\nSteam -> File -> Settings -> In-Game: Enable Steam Community In-Game\n"
 "L4D360UI_AddonAssociation_Title"		"アドオンの自動インストール"
 "[english]L4D360UI_AddonAssociation_Title"		"Automatic Add-on Installation"
-"L4D360UI_AddonAssociation_Subtitle"		"拡張子.vpkのファイルがAlien Swarm 2に関連付けられます  この拡張子をゲームに関連付けると、アドオンをダブルクリックするだけでインストールできるようになります  ファイルを関連付けますか?"
+"L4D360UI_AddonAssociation_Subtitle"		"拡張子.vpkのファイルがAlien Swarmに関連付けられます  この拡張子をゲームに関連付けると、アドオンをダブルクリックするだけでインストールできるようになります  ファイルを関連付けますか?"
 "[english]L4D360UI_AddonAssociation_Subtitle"		"Alien Swarm would like to associate with files using the .vpk extension.  This allows easier installation of add-ons by allowing you to double click on them.  Do you wish to allow this?"
 "L4D360UI_AddonAssociation_DoNotAsk_Tip"		"次からは確認しない"
 "[english]L4D360UI_AddonAssociation_DoNotAsk_Tip"		"Never ask this again"

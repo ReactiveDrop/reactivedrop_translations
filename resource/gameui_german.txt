@@ -205,7 +205,7 @@
 "[english]GameUI_KeyButton"		"KEY/BUTTON"
 "GameUI_Alternate"		"WECHSELN"
 "[english]GameUI_Alternate"		"ALTERNATE"
-"GameUI_Windowed"		"Im Fenster starten"
+"GameUI_Windowed"		"Im Fenstermodus starten"
 "[english]GameUI_Windowed"		"Run in a window"
 "GameUI_Renderer"		"Renderer"
 "[english]GameUI_Renderer"		"Renderer"
