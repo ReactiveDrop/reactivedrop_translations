@@ -9,8 +9,8 @@
 	
 	"MailFrom3"	"To: Unknown"
 	"MailDate3"	"Date: 25.09.63"
-	"MailSubject3"	"Subject: Almoust ready"
-	"MailBody3A"	"Ok, I am almoust done. All weapons are cracked and can be operated without authorization through the SecNet"
+	"MailSubject3"	"Subject: Almost ready"
+	"MailBody3A"	"Ok, I am almost done. All weapons are cracked and can be operated without authorization through the SecNet"
 	"MailBody3B"	"Had some problems with transporting them... Flamethrower got stuck, but I think I will be able to get it out."
 
 	"MailFrom4"	"To: Unknown"
