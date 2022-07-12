@@ -7103,7 +7103,7 @@
 "[english]RD_AdvancedSettings_HUD_CrosshairStyle"		"Crosshair Style"
 "RD_AdvancedSettings_HUD_CrosshairStyle_Cross"		"Croce"
 "[english]RD_AdvancedSettings_HUD_CrosshairStyle_Cross"		"Cross"
-"RD_AdvancedSettings_HUD_CrosshairStyle_Crescent"		"Crescente"
+"RD_AdvancedSettings_HUD_CrosshairStyle_Crescent"		"Mezzaluna"
 "[english]RD_AdvancedSettings_HUD_CrosshairStyle_Crescent"		"Crescent"
 "RD_AdvancedSettings_HUD_LaserSight"		"Mirino Laser"
 "[english]RD_AdvancedSettings_HUD_LaserSight"		"Laser Sights"
