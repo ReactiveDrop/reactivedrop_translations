@@ -1095,7 +1095,7 @@
 "[english]GameUI_KeyNames_A_BUTTON"		"A button"
 "GameUI_KeyNames_B_BUTTON"		"Taste B"
 "[english]GameUI_KeyNames_B_BUTTON"		"B button"
-"GameUI_KeyNames_X_BUTTON"		"X-Taste"
+"GameUI_KeyNames_X_BUTTON"		"Taste X"
 "[english]GameUI_KeyNames_X_BUTTON"		"X button"
 "GameUI_KeyNames_Y_BUTTON"		"Taste Y"
 "[english]GameUI_KeyNames_Y_BUTTON"		"Y button"
