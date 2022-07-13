@@ -239,7 +239,7 @@
 "[english]StatsWeb_WeaponStat_Accuracy"		"Accuracy"
 "StatsWeb_WeaponStat_AccuracyDesc"		"Eine Genauigkeit von über 100% bedeutet, dass du mehrere Aliens pro Schuss triffst."
 "[english]StatsWeb_WeaponStat_AccuracyDesc"		"Accuracy of over 100% means hitting multiple aliens per shot."
-"StatsWeb_WeaponStat_AlternateFire"		"Alternatives Feuer"
+"StatsWeb_WeaponStat_AlternateFire"		"Sekundärer Angriff"
 "[english]StatsWeb_WeaponStat_AlternateFire"		"Alternate Fire"
 "StatsWeb_WeaponStat_Deployed"		"Eingesetzt"
 "[english]StatsWeb_WeaponStat_Deployed"		"Deployed"
