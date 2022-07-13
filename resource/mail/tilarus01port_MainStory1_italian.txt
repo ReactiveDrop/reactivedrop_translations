@@ -1,6 +1,6 @@
 GAME
 {
-    // PDA di proprietà di Sovrintendente Ross
+    // PDA di proprietà del Sovrintendente Ross
     
     "MailFrom1"    "Da: Comandante Harold"
     "MailDate1"    "Data: 2/2/54"
