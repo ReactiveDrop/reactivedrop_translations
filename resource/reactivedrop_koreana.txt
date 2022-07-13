@@ -2620,7 +2620,7 @@
 "asw_wdesc_flashlight"		"고휘도의 자가충전 가능한 전구 다발 손전등 부착물. 가시성이 확보되지 않았을 때 목표 조명을 제공함."
 "[english]asw_wdesc_flashlight"		"A high intensity, self-recharging multi-bulb flashlight attachment, for providing targetted illumination at times of low visibility."
 "asw_wdesc_mines"		"M478 근접 소이 지뢰 5발은 하사관 해병의 표준 보급입니다.  이 지뢰들은 전장에 매설되고, 활성화된 이후 목표에 해당하는 생물체가 접근할 때 기폭됩니다.  기폭되면 가연성 네이팜이 지뢰의 양옆 일직선으로 방출되어 희생자들을 죽이고 적의 접근을 전술적으로 허용하지 않습니다."
-"[english]asw_wdesc_mines"		"A five piece set of M478 Proximity Incendiary Mines is standard issue for any N.C.O. rank marine.  These mines are placed and calibrated in the field and once activated will detonate when any creature matching target specifications comes near.  Upon detonation, highly flammable napalm is released in a line to either side of the mine,  both killing the victim and tactically denying the area to further foes."
+"[english]asw_wdesc_mines"		"A five piece set of M478 Proximity Incendiary Mines is standard issue for any NCO rank marine.  These mines are placed and calibrated in the field and once activated will detonate when any creature matching target specifications comes near.  Upon detonation, highly flammable napalm is released in a line to either side of the mine,  both killing the victim and tactically denying the area to further foes."
 "asw_wdesc_laser_mines"		"부착 가능한 레이저 센서 지뢰 한 팩입니다.  적이 감지 레이저에 침입하는 순간 기폭됩니다. 폭발물에 숙달된 해병은 한 번에 여러 개의 지뢰를 설치할 수 있습니다."
 "[english]asw_wdesc_laser_mines"		"A pack of attachable Laser Trip Mines.  Detonation is triggered by any hostile entity breaking the detection beam. Marines skilled with explosives are able to place multiple mines with a single toss."
 "asw_wdesc_electrified_armor"		"이 해병 방호복의 고전압 전류 활성화는 공격자를 경직시키고, 근접 피해를 줄이며, 방호복 표면에 달라붙은 기생충을 내쫓습니다."
