@@ -1,0 +1,10 @@
+GAME
+{
+	"MailFrom1"	"Da: Xavier Plumes"
+	"MailDate1"	"Data: 12/14/32"
+	"MailSubject1"	"Soggetto: La Situazione &HIDDEN"
+	"MailBody1A"	"Ieri l'ingegnere capo Nathan Poe è stato ucciso su richiesta del generale dopo essere stato sorpreso a diffondere informazioni sull'epidemia dell'infestazione nel settore di ricerca e sulla gravità della situazione nel settore sotterraneo."
+	"MailBody1B"	"La situazione è andata sempre peggio da quando il Reattore è stato chiuso a settembre. Sempre più insetti hanno iniziato a strisciare fuori dalle prese d'aria e le persone hanno iniziato a farsi prendere dal panico."
+	"MailBody1C"	"Tre settimane fa è stata provocata una rivolta e la maggior parte del personale è stato preso di mira, me compreso. Mi sono nascosto nel mio ufficio e ho spento le turbine, ho anche saldato la mia porta. Sto sanguinando e sento uno sciame di alieni dietro la mia porta, il che è positivo, perché la gente di AMBER non mi prenderà. So che morirò presto."
+	"MailBody1D"	"Tra un paio di mesi il mondo saprà la verità su AMBER. Spero che i militari mandino qualcuno a salvare tutti i poveri lavoratori che sono stati ridotti in schiavitù, isolati dal mondo e messi in grave pericolo."
+}

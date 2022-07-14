@@ -7,6 +7,7 @@ import (
 	"fmt"
 	"io"
 	"os"
+	"path/filepath"
 	"strings"
 
 	"git.lubar.me/ben/valve/vdf"
@@ -50,6 +51,8 @@ var derivedLanguages = [...]string{
 }
 
 var txtLanguageFiles = [...]string{
+	"../platform/servers/serverbrowser",
+	"../platform/vgui",
 	"../resource/basemodui",
 	"../resource/chat",
 	"../resource/closecaption",
@@ -63,38 +66,73 @@ var vdfLanguageFiles = [...]string{
 	"../community/statsweb",
 }
 
+var txtAddonLanguageFiles = [...]string{
+	"../addons/*/resource/closecaption",
+	"../addons/*/resource/reactivedrop",
+}
+
 func main() {
 	for _, prefix := range txtLanguageFiles {
-		syncTranslations(prefix, ".txt")
+		syncTranslations(prefix, ".txt", false)
 	}
 	for _, prefix := range vdfLanguageFiles {
-		syncTranslations(prefix, ".vdf")
+		syncTranslations(prefix, ".vdf", false)
 	}
 
 	updateAchievements(sourceLanguage)
 	for _, lang := range derivedLanguages {
 		updateAchievements(lang)
 	}
+
+	for _, prefix := range txtAddonLanguageFiles {
+		addonFiles, err := filepath.Glob(prefix + "_" + sourceLanguage + ".txt")
+		if err != nil {
+			panic(err)
+		}
+		for _, file := range addonFiles {
+			syncTranslations(strings.TrimSuffix(file, "_"+sourceLanguage+".txt"), ".txt", true)
+		}
+	}
 }
 
-func syncTranslations(prefix, suffix string) {
-	fmt.Printf("%s:\n", prefix)
+func syncTranslations(prefix, suffix string, quiet bool) {
+	lang := sourceLanguage
+	if quiet {
+		defer func() {
+			if r := recover(); r != nil {
+				fmt.Printf("%s_%s%s:\n", prefix, lang, suffix)
+				panic(r)
+			}
+		}()
+	}
+
+	if !quiet {
+		fmt.Printf("%s:\n", prefix)
+	}
 
 	base, err := loadVDF(prefix + "_" + sourceLanguage + suffix)
 	if err != nil {
 		panic(err)
 	}
 
-	for _, lang := range derivedLanguages {
-		fmt.Printf("  %10s: ", lang)
+	checkForDuplicateSourceStrings(base)
+
+	for _, lang = range derivedLanguages {
+		if !quiet {
+			fmt.Printf("  %10s: ", lang)
+		}
 
 		upToDate, total := updateLanguageFile(base, prefix, lang, suffix)
 		percent := float64(upToDate) / float64(total) * 100
 
-		fmt.Printf("% 7.3f%%\n", percent)
+		if !quiet {
+			fmt.Printf("% 7.3f%%\n", percent)
+		}
 	}
 
-	fmt.Println()
+	if !quiet {
+		fmt.Println()
+	}
 }
 
 func readBOM(r io.Reader) error {
@@ -129,6 +167,24 @@ func loadVDF(name string) (*vdf.KeyValues, error) {
 	_, err = kv.ReadFrom(f)
 
 	return &kv, err
+}
+
+var everSeenString = make(map[string]bool)
+
+func checkForDuplicateSourceStrings(source *vdf.KeyValues) {
+	thisFile := make(map[string]bool)
+	for c := source.FindKey("Tokens").FirstValue(); c != nil; c = c.NextValue() {
+		lowerKey := strings.ToLower(c.Key)
+		if thisFile[lowerKey] {
+			panic("String appears multiple times in this file: " + c.Key)
+		}
+		thisFile[lowerKey] = true
+
+		if everSeenString[lowerKey] {
+			panic("Already encountered string in different translation file: " + c.Key)
+		}
+		everSeenString[lowerKey] = true
+	}
 }
 
 type translatedString struct {
@@ -303,12 +359,21 @@ func updateLanguageFile(source *vdf.KeyValues, prefix, lang, suffix string) (upT
 	vdf.Escape.WriteString(&buf, lang)
 	buf.WriteString("\"\r\n\"Tokens\"\r\n{\r\n")
 
+	seen := make(map[string]bool)
+
 	for c := source.FindKey("Tokens").FirstValue(); c != nil; c = c.NextValue() {
 		if c.Cond != "" {
 			panic("unexpected VDF conditional: " + c.String())
 		}
 
-		x := dest[strings.ToLower(c.Key)]
+		lowerKey := strings.ToLower(c.Key)
+
+		if seen[lowerKey] {
+			panic("duplicate translation key: " + c.Key)
+		}
+		seen[lowerKey] = true
+
+		x := dest[lowerKey]
 
 		if onlyUpdateSourceStrings {
 			if x.translated == x.source {

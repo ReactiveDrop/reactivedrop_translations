@@ -3743,8 +3743,6 @@
 "[english]ASWComputer.HackComplete"		"<clr:238,0,0>BASE COMPUTER: Access Granted."
 "ASWComputer.AccessDeniedBiohazard1"		"<clr:238,0,0>ANA BİLGİSAYAR: Erişim Reddedildi.  Araştırma tesisi içinde biyolojik tehlike belirlendi."
 "[english]ASWComputer.AccessDeniedBiohazard1"		"<clr:238,0,0>BASE COMPUTER: Access Denied.  Biohazard detected within research facility."
-"ASWComputer.AccessDeniedBiohazard1"		"<clr:238,0,0>ANA BİLGİSAYAR: Erişim Reddedildi.  Araştırma tesisi içinde biyolojik tehlike belirlendi."
-"[english]ASWComputer.AccessDeniedBiohazard1"		"<clr:238,0,0>BASE COMPUTER: Access Denied.  Biohazard detected within research facility."
 "ASWComputer.alarm"		"<clr:238,0,0>ANA BİLGİSAYAR: [Alarm!]"
 "[english]ASWComputer.alarm"		"<clr:238,0,0>BASE COMPUTER: [Alarm!]"
 "ASWComputer.AtmosphericReport"		"<clr:238,0,0>ANA BİLGİSAYAR: Atmosfer raporu."

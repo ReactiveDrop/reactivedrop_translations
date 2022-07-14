@@ -1,7 +1,7 @@
 GAME
 {
 
-"MailFrom1" "Da: Commander Houghton"
+"MailFrom1" "Da: Comandante Houghton"
 "MailDate1" "Data: 12/30/52"
 "MailSubject1" "Soggetto: Operazione Eradication"
 "MailBody1A" "Alpha, non si mette bene."

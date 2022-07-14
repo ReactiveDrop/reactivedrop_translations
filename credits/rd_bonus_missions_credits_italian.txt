@@ -1,0 +1,22 @@
+"Riconoscimenti"
+{
+// these keys must be in this order!
+"show_credits_logo" "0"
+//"custom_logo"	"ExampleCustomLogo/example_custom_logo"
+"asw_credits_"	""
+"asw_credits_"	""
+"asw_credits_"	"Missione 1, Minaccia Invisibile, di uradzimiru"
+"asw_credits_"	""
+"asw_credits_"	"Missione 2, Rottura, di Sergei 'STALKER4732' Lavrinenco"
+"asw_credits_"	""
+"asw_credits_"	"Missione 3, Bunker, di uradzimiru"
+"asw_credits_"	""
+"asw_credits_"	"Missione 4, Pratica Offline, di Valve"
+"asw_credits_"	""
+"asw_credits_"	"Missione 5, Posti Ostili, di Eclipse"
+"asw_credits_"	""
+"asw_credits_"	"Missione 6, Alta Tensione, di Eclipse"
+"asw_credits_"	""
+"asw_credits_"	"Missione 7, Centrale Elettrica, di Arjen de Graaf"
+"asw_credits_"	""
+}

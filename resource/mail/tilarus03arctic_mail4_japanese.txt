@@ -1,0 +1,32 @@
+﻿GAME
+{
+	// PDA belongs to Security Officer Barney
+
+	// inbox
+
+	"MailFrom1" "差出人: ビル・ハウズ"
+	"MailDate1" "送信日時: 52年10月4日"
+	"MailSubject1" "件名: 火炎放射器の再充填"
+	"MailBody1A" "やあバーニー、"
+	"MailBody1B" "言われた通り火炎放射器を再充填しておいたよ。 何故君がオフィスにそんな物を置いておきたいのかわからないけどね..."
+	"MailBody1C" "君にはSynTek支給の標準護身豆鉄砲があるのにね。"
+	"MailBody1D" "じゃああとで、ビルより"
+
+	// sent mail
+
+	"MailFrom3" "宛先: ビル・ハウズ"
+	"MailDate3" "送信日時: 52年10月4日"
+	"MailSubject3" "件名: Re: 火炎放射器の再充填"
+	"MailBody3A" "おうビル、"
+	"MailBody3B" "ヘヘヘ、再充填してくれてありがとうな。 火力は余分に確保しておくべきだと経験から学んだんでな。"
+	"MailBody3C" "エイリアンの襲撃に何度か遭った時こいつに助けられたんだ。 またいつ必要になるかわからないさ。"
+	"MailBody3D" "気を付けてな、バーニーより"
+
+	"MailFrom4" "宛先: 支部長ジャクソン"
+	"MailDate4" "送信日時: 52年10月6日"
+	"MailSubject4" "件名: 奇妙な反応"
+	"MailBody4A" "報告:"
+	"MailBody4B" "レーダースキャナーにいくつか異常が映ったのを発見しました。"
+	"MailBody4C" "今回は2日前と違って長めの時間複数の反応が映り続けました。"
+	"MailBody4D" "そしてまた、前回のように突然反応が消えました。 確認のためパトロールを送ります。"
+} 

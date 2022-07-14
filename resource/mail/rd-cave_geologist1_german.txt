@@ -4,7 +4,7 @@ GAME
 // inbox 
 "MailFrom1"	"Von: G.S.D."
 "MailDate1"	"Datum: 17/9/57"
-"MailSubject1"	"Betreff: Re: Vorläufige Ergebnisse des Höhlensystems"
+"MailSubject1"	"Betreff: Aw: Vorläufige Ergebnisse des Höhlensystems"
 "MailBody1A"	"Gute Arbeit Herbert, nach den Daten in deinem Bericht muss ich dir zustimmen. Das Höhlensystem ist zu instabil, als dass es das Risiko wert wäre, das Eisenerz abzubauen."
 "MailBody1B"	"Ich hoffe, die Lasergeräte, die sie uns geschickt haben, waren nützlich für dich. Leider hat der Neue, Jenson, mit seinem Gerät ein bisschen übertrieben und einen Einsturz verursacht. Zum Glück wurde niemand schwer verletzt, aber der Neue wird sich wünschen, dass er im Koma liegt, wenn die Verwaltung mit ihm fertig ist."
 "MailBody1C"	"Natürlich weiß ich, dass ich dich nicht daran erinnern muss, vorsichtig damit zu sein."

@@ -10,7 +10,7 @@ GAME
 "MailBody1C"	"L. Callen"
 "MailFrom2"	"Von: John Cain"
 "MailDate2"	"Datum: 12/24/52"
-"MailSubject2"	"Betreff: Re: Callen wird misstrauisch"
+"MailSubject2"	"Betreff: Aw: Callen wird misstrauisch"
 "MailBody2A"	"Rivera:  Ignoriere Callen und geh ihr aus dem Weg.  Leite alle Post, die sie an die IA geschickt hat, an mich weiter."
 "MailBody2B"	"Lt. Cain, SynTek Security."
 }

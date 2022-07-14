@@ -1,0 +1,10 @@
+GAME
+{
+   	"MailFrom1"	"Von: Operation News [Laura]"
+	"MailDate1"	"Datum: 18. Okt 2232"
+	"MailSubject1"	"Betreff: Forschung Band 1"
+	"MailBody1A"	"Hey, hier ist, was wir bis jetzt gefunden haben:"
+	"MailBody1B"	"Die Radioaktivität ist auch ohne unsere Schutzanzüge nicht tödlich, aber es wird uns trotzdem empfohlen, sie zu tragen, um ganz sicher zu sein."
+	"MailBody1C"	"Die Struktur der Atome ist geheimnisvoll, sogar unheimlich. Sie besteht vollständig aus Elektronen... Wie ist das möglich? Es macht auch keinen Sinn, dass es einen grünen Farbton hat und durchsichtig ist... Dieses Ding macht mir Angst."
+	"MailBody1D"	"Laura - 18. Okt 2232"
+}

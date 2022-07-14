@@ -1,0 +1,16 @@
+GAME
+{
+   	"MailFrom1"	"Da: Operazione News [Jose Dunclub]"
+	"MailDate1"	"Data: 15 Ott 2232"
+	"MailSubject1" "Oggetto: Operazioni minerarie"
+	"MailBody1A" "Le letture delle radiazioni di Glenkor erano corrette. Abbiamo trovato una quantità anomala di radiazioni in una grotta sotto un canale a est del connettore J7."
+	"MailBody1B" "Fonte delle radiazioni: strane rocce trasparenti. Sono come vetro appannato, ma molto resistenti. Fa male tenerle in mano".
+	"MailBody1C" "La dimensione più grande che abbiamo trovato finora è all'incirca un cubo di 7,5 centimetri, è stato difficile tirarlo fuori dal soffitto della grotta, ho dovuto romperlo in due pezzi".
+	"MailBody1D" "Jose Dunclub - 15 ottobre 2232"
+	
+	"MailFrom2" "Da: Operazione News [Jose Dunclub]"
+	"MailDate2" "Data: 17 Ott 2232"
+	"MailSubject2" "Oggetto: Una bella rocciona"
+	"MailBody2A" "Woah, enorme scoperta! Non ci crederete: una roccia alta e larga più di 2 metri, 100 metri sotto l'ingresso della grotta. Non ho idea di come faremo a tirarla fuori, però. Dovremmo farlo?"
+	"MailBody2B" "Jose Dunclub - 17 ottobre 2232"
+}

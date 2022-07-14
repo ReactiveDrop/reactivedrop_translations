@@ -1,0 +1,17 @@
+GAME
+{
+  	"MailFrom1" "Da: Fox News"
+	"MailDate1" "Data: 31 novembre 2232"
+	"MailSubject1" "Oggetto: Diario delle notizie degli ultimi 4 mesi".
+	"MailBody1A" "1 agosto 2232 - La compagnia mineraria 'Glenkor' ha rilevato letture di radiazioni elevate a Syberia, a est del connettore J7, che sembrano provenire dal sottosuolo. Iniziano le operazioni minerarie".
+	"MailBody1B" "15 ottobre 2232 - La fonte delle immense radiazioni viene finalmente trovata: una grotta contenente tonnellate di rocce verdi e trasparenti. Si devono fare delle ricerche per scoprire cosa sono effettivamente le rocce".
+	"MailBody1C" "18 ottobre 2232 - Lunedì iniziano gli esperimenti. La struttura atomica della roccia non è mai stata vista prima".
+	"MailBody1D" "19 ottobre 2232 - All'inizio si pensava che la roccia fosse fatta solo di elettroni in qualche modo legati tra loro e non liberi. Tuttavia, questi 'elettroni' sembravano essere strani muoni. Si stanno sviluppando nuovi misuratori nucleari per misurare la reale radioattività della roccia. Tutte le persone che hanno lavorato nella miniera e negli esperimenti sono ora isolate".
+	"MailBody1E" "23 ottobre 2232 - Sono stati sviluppati nuovi misuratori nucleari. Come intuito, le rocce sono duecento volte più radioattive di quanto si pensasse in precedenza. Non si sa ancora perché i muoni siano legati tra loro e non fuoriescano rapidamente. Il laboratorio è stato abbandonato e dichiarato con un livello di minaccia INES pari a 5."
+	"MailBody1F" "29 ottobre 2232 - Due settimane dopo l'esposizione dei minatori alle rocce - il loro respiro è molto pesante e una persona è morta. Le persone sono ancora isolate, sono cosndierate 'infette'".
+	"MailBody1G" "11 novembre 2232 - L'ultima persona che è stata vicino alla roccia è morta. Tuttavia, i corpi morti non si sono decomposti. Sembrano freschi anche dopo quasi un mese".
+	"MailBody1H" "14 novembre 2232 - Le letture delle radiazioni a 15 chilometri dal laboratorio stanno aumentando rapidamente. Il motivo è sconosciuto. La roccia ha iniziato a decadere più velocemente? Perché?"
+	"MailBody1I" "20 novembre 2232 - Le autorità hanno inviato un coraggioso gruppo di soldati con nuove tute protettive contro i muoni per svolgere delle indagini. All'interno del laboratorio, tali livelli di radioattività non sono mai stati visti prima. La temperatura all'interno dell'edificio è aumentata da quando è stato isolato. Sembra che le temperature più elevate accelerino il decadimento della roccia. I soldati stanno mettendo in dubbio l'affidabilità delle loro tute e la loro sicurezza".
+	"MailBody1J" "22 novembre 2232 - Una società mineraria 'Tio Rinto' ha fornito alcune informazioni sul materiale di cui è fatta la roccia. 43 anni fa hanno incontrato un materiale che inizia a decadere rapidamente dopo essere stato esposto ad alte temperature. Secondo i loro registri, questo materiale è arrivato dallo spazio nell'impatto con un meteorite. Se la roccia è composta dallo stesso materiale, si prevede che raggiungerà lo stato critico il 17 dicembre 2232. Il tempo scorre".
+	"MailBody1K" "Il tuo abbonamento a Fox News è scaduto. Puoi prolungare l'abbonamento su www.foxnews.com/subscription".
+}

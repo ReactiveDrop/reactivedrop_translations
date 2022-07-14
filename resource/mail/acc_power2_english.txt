@@ -1,0 +1,10 @@
+GAME
+{
+   	"MailFrom1"	"From: Xavier Plumes"
+	"MailDate1"	"Date: 12/14/32"
+	"MailSubject1"	"Subject: The Situation &HIDDEN"
+	"MailBody1A"	"Yesterday the Head Engineer Nathan Poe was killed by General's request after getting caught spreading information about the Infestation Outbreak in Research Sector and the severity of the situation in the Underground Sector."
+	"MailBody1B"	"The situation got worse and worse ever since the Reactor shut down in September. More and more bugs started crawling out of vents and people started panicking."
+	"MailBody1C"	"A riot was caused 3 weeks ago and most of the personnel was shot, including me. I hid in my office and turned off the turbines, also welded my door. I am bleeding and I hear a swarm of aliens behind my door, which is good, because people from AMBER won't get me. I know that I will die soon."
+	"MailBody1D"	"In couple months the world will know the truth about AMBER. Hopefully the military sends some people to save all the poor workers here that have been enslaved, isolated from the world and got their life in grave danger."
+}

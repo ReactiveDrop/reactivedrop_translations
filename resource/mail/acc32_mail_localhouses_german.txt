@@ -1,0 +1,9 @@
+GAME
+{
+   	"MailFrom1"	"Von: Lokale Häuser"
+	"MailDate1"	"Datum: 14. Nov 2232"
+	"MailSubject1"	"Betreff: Unsere Sicherheit"
+	"MailBody1A"	"Erst vor einer Stunde hat uns einer deiner Männer über die rapide ansteigenden Strahlungswerte in unserem Gebiet informiert. Habt ihr vor, das in Ordnung zu bringen? Wenn die Strahlung weiter so schnell ansteigt, müssen wir morgen unsere Häuser verlassen, sonst werden wir sterben."
+	"MailBody1B"	"Warum werden wir erst jetzt, einen Tag vor der Katastrophe, inoffiziell darüber informiert? Werden uns die Behörden bewohnbare Häuser zur Verfügung stellen oder müssen wir selbst und mit unserem eigenen Geld evakuiert werden?"
+	"MailBody1C"	"Lokale Häuser - 14. Nov 2232"
+}
