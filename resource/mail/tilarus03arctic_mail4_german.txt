@@ -12,7 +12,7 @@ GAME
 // sent mail
 "MailFrom3"	"An: Bill Howze"
 "MailDate3"	"Datum: 10/4/52"
-"MailSubject3"	"Betreff: Re: Der Flammenwerfer nachgefüllt"
+"MailSubject3"	"Betreff: Aw: Der Flammenwerfer nachgefüllt"
 "MailBody3A"	"Hallo Bill,"
 "MailBody3B"	"Hehe, danke, dass du nachgefüllt hast. Ich habe die Erfahrung gemacht, dass man immer etwas zusätzliche Feuerkraft dabei haben muss."
 "MailBody3C"	"Dieses Baby hat mich schon vor einigen Begegnungen mit dem Schwarm bewahrt. Man weiß nie, wann ich es wieder brauche."

@@ -19,7 +19,7 @@ GAME
 // sent mail
 "MailFrom3"	"An: Henry Smithson"
 "MailDate3"	"Datum: 09/10/57"
-"MailSubject3"	"Betreff: Re:Re:Re:Hallo"
+"MailSubject3"	"Betreff: Aw:Aw:Aw:Hallo"
 "MailBody3A"	"Du hast leicht reden, du bist nicht derjenige, der in diesem sinnlosen Job feststeckt. Ich schwöre, wenn ich heute noch eine Tastatur reparieren muss, drehe ich durch!"
 "MailBody3B"	"Und das ist noch nicht das Schlimmste... In den letzten Wochen höre ich manchmal, wenn ich alleine arbeite, dass etwas in den Lüftungsschächten herumkrabbelt. Vielleicht bin ich nur paranoid, aber... weißt du noch, was vor ein paar Jahren in der Minenkolonie passiert ist?"
 "MailBody3C"	""

@@ -1,0 +1,10 @@
+GAME
+{
+   	"MailFrom1"	"An: Brad Irwing"
+	"MailDate1"	"Datum: 04/02/31"
+	"MailSubject1"	"Betreff: ANTWORTE MIR! &VERSTECKT"
+	"MailBody1A"	"Warum bist du geflohen? Was ist passiert? SAGE ES MIR! Ist dir klar, dass du das nicht tun kannst? Kapitän Bark und der Chefarzt suchen nach dir und sie sind nicht glücklich. Der Chefarzt reagiert sehr aggressiv auf meine Fragen, vielleicht verbirgt er etwas? Eigentlich verhalten sich alle seltsam."
+	"MailBody1B"	"Du bist nach deinem Experiment im März weggelaufen, was hast du entdeckt? Ich bin beunruhigt. Ich hoffe, du hast nicht vor, der Öffentlichkeit oder noch schlimmer, der Regierung, die Geheimnisse unserer Einrichtung zu verraten. Diese Information würde auf der ganzen Welt eine massive Anarchie auslösen. Leutnant Wanman und General Schmitz wären in großen Schwierigkeiten und für einen internationalen Skandal verantwortlich."
+	"MailBody1C"	"P.S.: Wo ist Retller? Ich kann ihn nicht finden, vielleicht kann er mir ein paar Informationen geben? Ich weiß, dass ihr beide seit eurer Kindheit gute Kollegen seid."
+	"MailBody1D"	"Kate."
+}
