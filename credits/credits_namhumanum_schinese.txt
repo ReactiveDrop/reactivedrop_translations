@@ -1,0 +1,30 @@
+"Credits"
+{
+	// These lines must be in this order!
+	"show_credits_logo" "1"
+	// The logo shown at the top of the end-of-campaign credits. This example refers to materials/vgui/swarm/credits/my_first_campaign_logo.vmt.
+	"custom_logo" "swarm/credits/namhumanum_campaign"
+	// Each line of your credits should be written like this, including blank lines:
+	"asw_credits_" "Alien Swarm: 纳姆·霍姆纳"
+	"asw_credits_" ""
+	"asw_credits_" "- 地图创作 -"
+	"asw_credits_" "Guillaume (Stral) Houard"
+	"asw_credits_" ""
+	"asw_credits_" "- 脚本编写 -"
+	"asw_credits_" "Thomas (Synmachus) Lesteven"
+	"asw_credits_" ""
+	"asw_credits_" "- 配音 -"
+	"asw_credits_" "教授 朱莉·杜瓦 - Emily Sheeran"
+	"asw_credits_" "指挥官 亚历山大·理查德 - Christian Wadley"
+	"asw_credits_" "蛇吻号 飞行员 - Daniel Doan"
+	"asw_credits_" "维斯塔 - Tiffany Perdue"
+	"asw_credits_" ""
+	"asw_credits_" "- 人物画像 -"
+	"asw_credits_" "Larry Lebon"
+	"asw_credits_" ""
+	"asw_credits_" "- 特别鸣谢 -"
+	"asw_credits_" "Valve 软件"
+	"asw_credits_" "Reactive Drop 团队"
+	"asw_credits_" "起源引擎修改社区"
+	"asw_credits_" "SkS 家族"
+}
