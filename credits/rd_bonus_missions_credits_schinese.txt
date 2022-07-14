@@ -1,0 +1,22 @@
+"Credits"
+{
+// these keys must be in this order!
+"show_credits_logo" "0"
+//"custom_logo"	"ExampleCustomLogo/example_custom_logo"
+"asw_credits_"	""
+"asw_credits_"	""
+"asw_credits_"	"任务 1，无形的威胁，创作者：uradzimiru"
+"asw_credits_"	""
+"asw_credits_"	"任务 2，狂喜，创作者：Sergei 'STALKER4732' Lavrinenco"
+"asw_credits_"	""
+"asw_credits_"	"任务 3，地堡，创作者：uradzimiru"
+"asw_credits_"	""
+"asw_credits_"	"任务 4，线下练习，创作者：Valve"
+"asw_credits_"	""
+"asw_credits_"	"任务 5，敌对地区，创作者：Eclipse"
+"asw_credits_"	""
+"asw_credits_"	"任务 6，高度紧张，创作者：Eclipse"
+"asw_credits_"	""
+"asw_credits_"	"任务 7，发电站，创作者：Arjen de Graaf"
+"asw_credits_"	""
+}
