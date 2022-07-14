@@ -3,7 +3,7 @@ GAME
 "MailFrom1"	"Von: Commander Houghton"
 "MailDate1"	"Datum: 12/30/52"
 "MailSubject1"	"Betreff: Operation Ausrottung"
-"MailBody1A"	"Interessant, es sieht so aus, als ob die Verseuchung tiefer geht, als zuerst angenommen."
+"MailBody1A"	"Interessant, es sieht so aus, als ob die Infestation tiefer geht, als zuerst angenommen."
 "MailBody1B"	"Nach Informationen von Vereon XII mögen die Schwarm-Parasiten die Feuchtigkeit."
 "MailBody1C"	"In den Höhlen vor uns könnte es von ihnen wimmeln."
 "MailBody1D"	"Houghton Ende."
