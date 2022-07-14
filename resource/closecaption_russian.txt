@@ -2027,7 +2027,7 @@
 		"[english]sarge.Reloading1"		"<clr:238,207,161>Sarge: Reload."
 		"sarge.Reloading2"		"<clr:238,207,161>Сержант: Заряжаю."
 		"[english]sarge.Reloading2"		"<clr:238,207,161>Sarge: Reload."
-		"sarge.Reloading3"		"<clr:238,207,161>Сержант: Заряжаю, Прикройте меня!"
+		"sarge.Reloading3"		"<clr:238,207,161>Сержант: Заряжаю, прикройте меня!"
 		"[english]sarge.Reloading3"		"<clr:238,207,161>Sarge: Reload, cover me!"
 		"sarge.SentryInPlace0"		"<clr:238,207,161>Сержант: Турель на месте."
 		"[english]sarge.SentryInPlace0"		"<clr:238,207,161>Sarge: Sentry in place."

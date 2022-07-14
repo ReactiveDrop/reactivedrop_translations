@@ -1,0 +1,16 @@
+﻿GAME
+{
+    // PDA belongs to Emily Hoggarth
+
+    // sent mail
+
+	"MailFrom3"	"宛先: ケネット博士"
+	"MailDate3"	"送信日時: 46年3月12日"
+	"MailSubject3"	"件名: 捜査"
+	"MailBody3A"	"ケネット博士へ、"
+	"MailBody3B"	"この区域の警官達に勘付かれてしまったようだ"
+	"MailBody3C"	"可能な限り注意しろ。 被験者モリガンの時のようなことには二度とさせてはならない。"
+	"MailBody3D"	"エミリー・ホガース博士より"
+}
+
+

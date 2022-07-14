@@ -1,0 +1,15 @@
+GAME
+{
+   	"MailFrom1"	"Von: Fox News"
+	"MailDate1"	"Datum: 03. Jan 2233"
+	"MailSubject1"	"Betreff: Nachrichtenprotokoll für die letzten 1 Monate."
+	"MailBody1A"	"03. Dezember 2232 - Der Plan zur Kühlung des Felsens wird gerade umgesetzt. Es wird erwartet, dass das Kühlsystem in 3 bis 4 Tagen aufgebaut sein wird."
+	"MailBody1B"	"05. Dezember 2232 - Katastrophe! Die toten Körper von Bergleuten und Forschern haben sich in eine Art außerirdische Spezies verwandelt und sind empfindungsfähig geworden. Etwa 40 von ihnen haben den J7 Knoten angegriffen und Berichten zufolge über 300 Menschen getötet. Die Ingenieure und Soldaten, die den Kühlplan durchführen, sind geflohen."
+	"MailBody1C"	"06. Dezember 2232 - Außerirdische haben das Labor angegriffen und es der Außenwelt ausgesetzt. Die Strahlung aus dem Gestein entweicht. Die Katastrophe wurde zu einer Bedrohung der INES-Stufe 8 erklärt. Soldaten beseitigen die Außerirdischen an den Grenzen der Einrichtung."
+	"MailBody1D"	"07. Dezember 2232 - Die Strahlung des Gesteins erreicht Gebiete mit einem Radius von über hundert Kilometern um das Zentrum. Die meisten Menschen wurden evakuiert, aber die Strahlung nimmt weiter zu und könnte globale Folgen haben."
+	"MailBody1E"	"08. Dezember 2232 - Der Plan ist, am 9. Dezember zehntausend Tonnen Wasser aus Flugzeugen auf die Anlage abzuwerfen, um das Gestein abzukühlen."
+	"MailBody1F"	"09. Dezember 2232 - Eine große Explosion am Morgen wurde aus tausend Kilometern Entfernung gehört. Die Labore werden offiziell zur HÖLLE erklärt. Die Strahlung verwandelt jeden Menschen, der fünfhundert Kilometer von den Laboren entfernt ist, in einen Außerirdischen mit tödlichen Krallen. Die Aliens haben den Plan, Wasser auf die Anlage abzuwerfen, abgefangen. Es entsteht eine weltweite Panik und alle Regierungen der Welt sind militärisch vorbereitet."
+	"MailBody1G"	"20. Dezember 2232 - Die Strahlungswerte sind radikal gesunken, da das Gestein praktisch zerfallen ist. Eine Zone mit einem Radius von 1600 Kilometern um die Labore gilt immer noch als gefährlich, da sich dort viele Außerirdische aufhalten."
+	"MailBody1H"	"03. Januar 2233 - 8 der erfahrensten Soldaten der Welt wurden ausgewählt, um einen Angriff auf das Labor durchzuführen und den J7 Knoten zurückzuerobern. Ihre Reise beginnt mit dem Zug von der Mongolei, dem aktivsten Grenzgebiet zur Bekämpfung von Außerirdischen."
+	"MailBody1I"	"Fox News - 03. Jan 2233"
+}

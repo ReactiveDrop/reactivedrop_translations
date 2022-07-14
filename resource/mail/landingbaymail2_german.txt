@@ -3,7 +3,7 @@ GAME
 // PDA belongs to Laura
 "MailFrom1"	"Von: Brad Campbell"
 "MailDate1"	"Datum: 12/18/52"
-"MailSubject1"	"Subject: Re:Re: Eier"
+"MailSubject1"	"Betreff: Aw:Aw: Eier"
 "MailBody1A"	"Laura,"
 "MailBody1B"	"zwei meiner Männer sind unerreichbar.  Eine Gruppe meldete seltsame Geräusche bei der Durchsuchung von Sektor 24.  Das könnte alles Mögliche gewesen sein.  Dieser Ort fällt in sich zusammen."
 "MailBody1C"	"Was ist mit den zusätzlichen Männern?"

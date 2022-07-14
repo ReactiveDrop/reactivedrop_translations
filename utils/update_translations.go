@@ -51,6 +51,8 @@ var derivedLanguages = [...]string{
 }
 
 var txtLanguageFiles = [...]string{
+	"../platform/servers/serverbrowser",
+	"../platform/vgui",
 	"../resource/basemodui",
 	"../resource/chat",
 	"../resource/closecaption",

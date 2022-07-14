@@ -12,7 +12,7 @@ GAME
 // sent mail
 "MailFrom3"	"An: Windom King"
 "MailDate3"	"Datum: 02/29/53"
-"MailSubject3"	"Betreff: Re: Sicherheit"
+"MailSubject3"	"Betreff: Aw: Sicherheit"
 "MailBody3A"	"Ich werde misstrauisch wegen einer möglichen Sicherheitsbedrohung. Es könnte sein, dass wir es mit einem Industriespion in der Anlage zu tun haben."
 "MailBody3B"	"Halte die Augen offen und sag deinem Personal, sie sollen mir alles melden."
 "MailBody3C"	"Übrigens, nenn mich NICHT Jan. Hauptverwaltungsrat Anath reicht völlig aus."

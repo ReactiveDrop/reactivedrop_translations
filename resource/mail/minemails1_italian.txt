@@ -1,6 +1,6 @@
 GAME
 {
-    // PDA di proprietà di misc colonist
+    // PDA di proprietà di coloni vari
     
 	"MailFrom1"	"Da: John Cain"
 	"MailDate1"	"Data: 12/24/52"

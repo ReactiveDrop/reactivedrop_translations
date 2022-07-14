@@ -1,0 +1,10 @@
+GAME
+{
+   	"MailFrom1"	"Von: Xavier Plumes"
+	"MailDate1"	"Datum: 12/14/32"
+	"MailSubject1"	"Betreff: Die Situation &VERSTECKT"
+	"MailBody1A"	"Gestern wurde der Chefingenieur Nathan Poe auf Wunsch des Generals getötet, nachdem er dabei erwischt wurde, wie er Informationen über den Ausbruch der Seuche im Forschungssektor und den Ernst der Lage im Untergrundsektor verbreitete."
+	"MailBody1B"	"Seit der Abschaltung des Reaktors im September wurde die Situation immer schlimmer. Immer mehr Ungeziefer kroch aus den Schächten und die Menschen gerieten in Panik."
+	"MailBody1C"	"Vor 3 Wochen gab es einen Aufstand und die meisten Mitarbeiter wurden erschossen, mich eingeschlossen. Ich habe mich in meinem Büro versteckt und die Turbinen ausgeschaltet, außerdem habe ich meine Tür verschweißt. Ich blute und ich höre einen Schwarm Aliens hinter meiner Tür, was gut ist, denn die Leute von AMBER werden mich nicht kriegen. Ich weiß, dass ich bald sterben werde."
+	"MailBody1D"	"In ein paar Monaten wird die Welt die Wahrheit über AMBER erfahren. Hoffentlich schickt das Militär ein paar Leute, um all die armen Arbeiter zu retten, die hier versklavt und von der Welt isoliert wurden und deren Leben in großer Gefahr ist."
+}

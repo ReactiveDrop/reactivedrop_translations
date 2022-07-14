@@ -1,0 +1,7 @@
+GAME
+{
+   	"MailFrom1"	"Von: Edward Zoff"
+	"MailDate1"	"Datum: 07/07/31"
+	"MailSubject1"	"Betreff: Bergbaubetrieb"
+	"MailBody1A"	"Sicherlich bin ich nicht der Einzige, der sich fragt, was diese grünen, lecker aussehenden Kristalle sind, die wir ernten. Meine Neugierde hat mein Interesse geweckt und ich habe die Verwaltung danach gefragt, aber sie schienen unzufrieden und ignorierten mich. Diese Steine sehen anders aus als alles, was ich bisher gesehen habe. Außerdem haben sie eine sehr hohe Temperatur und selbst in dem kalten Klima scheinen sie nicht abzukühlen." 
+}

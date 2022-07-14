@@ -1,0 +1,9 @@
+GAME
+{
+   	"MailFrom1"	"To: #veryone"
+	"MailDate1"	"Date: 10/19/30"
+	"MailSubject1"	"Subject: AMBER YOU SUCK"
+	"MailBody1A"	"This letter has been sent to every worker in AMBER. This dumb ass mailing system developed by AMBERs unexperienced programmers has soooo many flaws. If you want to secretly send messages to other workers without AMBER knowing, simply add '&HIDDEN' at the end of the subject in your mail."
+	"MailBody1B"	"If AMBER is reading this, so long suckers! I have escaped this prison that you call 'a project' long time ago. If you don't want government to know about your extraterrestrial life discovery, you know what I want."
+	"MailBody1c"	"Yours, СRĄ$H"
+}
