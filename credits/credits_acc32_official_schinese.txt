@@ -1,0 +1,23 @@
+"Credits"
+{
+// these keys must be in this order!
+"show_credits_logo" "0"
+"custom_logo"	""
+"asw_credits_"	"地图创作/脚本编写："
+"asw_credits_"	"jhheight"
+"asw_credits_"	""
+"asw_credits_"	""
+"asw_credits_"	""
+"asw_credits_"	""
+"asw_credits_"	""
+"asw_credits_"	""
+"asw_credits_"	"" 
+"asw_credits_"	""
+"asw_credits_"	"感谢 realworldtextures 提供的材质"
+"asw_credits_"	""
+"asw_credits_"	"感谢以下创意工坊作者提供的模型："
+"asw_credits_"	"火车 - https://steamcommunity.com/sharedfiles/filedetails/?id=2685407848"
+"asw_credits_"	"宝石 - https://steamcommunity.com/sharedfiles/filedetails/?id=609309413" 
+"asw_credits_"	"监视器 - https://steamcommunity.com/sharedfiles/filedetails/?id=1108535208"
+"asw_credits_"	"控制台 - https://steamcommunity.com/sharedfiles/filedetails/?id=2677359280"
+}
