@@ -1,6 +1,6 @@
 ﻿"lang" 
 { 
-"Language" "Brazilian" 
+"Language" "brazilian" 
 "Tokens" 
 { 
 "Valve_Listen_MapName"			"Mapa"
