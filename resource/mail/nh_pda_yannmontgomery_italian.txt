@@ -1,9 +1,9 @@
 GAME
 {
-    // PDA di proprietà del Professor Yann Montgomery
+	// PDA di proprietà del Professor Yann Montgomery
 
-    // In arrivo
-    
+	// In arrivo
+
 	"MailFrom1"		"Da: Dr. Jacques Moreau"
 	"MailDate1"     "Data: 08/05/42"
 	"MailSubject1"	"Soggetto: RE: Considerazioni preliminari"
@@ -11,8 +11,8 @@ GAME
 	"MailBody1B"	"Sarà ulteriormente informato dal mio laboratorio se necessario."
 	"MailFrom1C"	"Nam Humanum."
 
-    // Mail inviate
-    
+	// Mail inviate
+
 	"MailFrom3"     "A: Dr. Jacques Moreau"
 	"MailDate3"		"Data: 08/05/42"
 	"MailSubject3"	"Soggetto: Considerazioni preliminari"

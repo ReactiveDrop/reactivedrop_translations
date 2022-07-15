@@ -1,8 +1,8 @@
 GAME
 {
-    // PDA di proprietà di Brad Campbell
-    // inbox
-    
+	// PDA di proprietà di Brad Campbell
+	// inbox
+
 	"MailFrom1"	"Da: Laura Callen"
 	"MailDate1"	"Data: 12/18/52"
 	"MailSubject1"	"Soggetto: Re: Spedizione del carico"
@@ -17,7 +17,7 @@ GAME
 	"MailBody2A"	"Brad, sembra che Cain sia il mittente. Gliel'ho chiesto e lui ha negato tutto. Ha detto che chiunque avrebbe potuto usare quel computer, il che è abbastanza vero, ma non lo cancella ai miei occhi."
 	"MailBody2B"	"Voglio che ispezioniate quei container prima che lascino la stiva."
 
-    // mail spedita
+	// mail spedita
 	"MailFrom3"	"A: Laura Callen"
 	"MailDate3"	"Data: 12/18/52"
 	"MailSubject3"	"Soggetto: Re: Uova"

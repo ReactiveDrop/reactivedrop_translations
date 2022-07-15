@@ -1,6 +1,6 @@
 GAME
 {
-    // PDA belongs to Lt Cain
+	// PDA belongs to Lt Cain
 
 	"MailFrom1"	    "От: Шон Минг"
 	"MailDate1"	    "Дата: 12.21.52"

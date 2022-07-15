@@ -7,7 +7,7 @@ GAME
 	"MailBody1B"	"Source of radiation - weird transparent rocks. They are like foggy glass but very tough. It hurts to hold it in my hand."
 	"MailBody1C"	"Biggest size we found so far is roughly a 7.5 centimeter cube, was hard to get it out of the cave ceiling, had to break it down in two pieces."
 	"MailBody1D"	"Jose Dunclub - Oct 15th, 2232"
-	
+
 	"MailFrom2" "From: Operation News [Jose Dunclub]"
 	"MailDate2" "Date: Oct 17th, 2232"
 	"MailSubject2" "Subject: Big Boy Rock"

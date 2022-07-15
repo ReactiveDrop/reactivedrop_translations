@@ -1,8 +1,8 @@
 GAME
 {
-    // Computer belongs to Chief Surgeon Wiston Beaufort
-    
-    // Sent messages
+	// Computer belongs to Chief Surgeon Wiston Beaufort
+
+	// Sent messages
 
 	"MailFrom3"     "Кому: Д-р. Жак Моро"
 	"MailDate3"		"Дата: 05.18.42"

@@ -1,9 +1,9 @@
 ﻿GAME
 {
-    // PDA belongs to Lana King
-    
-    // inbox
-    
+	// PDA belongs to Lana King
+
+	// inbox
+
 	"MailFrom1"	"差出人: ウィンダム・キング"
 	"MailDate1"	"送信日時: 53年02月29日"
 	"MailSubject1"	"件名: 警告！"
@@ -12,6 +12,6 @@
 	"MailBody1C"	"アナトは俺を信じちゃいない。 無理だと思うがIAFを呼ぶように説得してみる。"
 	"MailBody1D"	"ウィンダムより"
 
-	
+
 	// sent mail
 }

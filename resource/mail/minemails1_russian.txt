@@ -1,6 +1,6 @@
 GAME
 {
-    // PDA belongs to misc colonist
+	// PDA belongs to misc colonist
 
 	"MailFrom1" 	"От: Джон Кейн"
 	"MailDate1"	    "Дата: 12.24.52"

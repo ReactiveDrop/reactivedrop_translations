@@ -1,7 +1,7 @@
 ﻿GAME
 {
-    // PDA belongs to Lt Cain
-    
+	// PDA belongs to Lt Cain
+
 	"MailFrom1"	"差出人: ショーン・ミン"
 	"MailDate1"	"送信日時: 52年12月21日"
 	"MailSubject1"	"件名: 実験"

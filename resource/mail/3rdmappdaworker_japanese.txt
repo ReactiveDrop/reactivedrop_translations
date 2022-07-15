@@ -1,16 +1,15 @@
-﻿    GAME
-    {
-    // PDA belongs to Naka
+﻿GAME
+{
+	// PDA belongs to Naka
 
-    "MailFrom1" "差出人: 司令官"
-    "MailDate1" "送信日時: 63年9月25日"
-    "MailSubject1" "件名: 命令"
-    "MailBody1A" "大至急会議室にもどれ。"
-
+	"MailFrom1" "差出人: 司令官"
+	"MailDate1" "送信日時: 63年9月25日"
+	"MailSubject1" "件名: 命令"
+	"MailBody1A" "大至急会議室にもどれ。"
 
 	"MailFrom3"	"宛先: 司令官"
 	"MailDate3"	"送信日時: 63年9月25日"
 	"MailSubject3"	"件名: 段階3aまで完了"
 	"MailBody3A"	"実験用のエイリアンの檻が届きました。 残念ながら透明のやつは繁殖させられないようです。"
 	"MailBody3B"	"ムシ達はもうすぐ起きるはずです... 海兵隊どもがコイツらに勝てる見込みは無いでしょう。"
-    }
+}

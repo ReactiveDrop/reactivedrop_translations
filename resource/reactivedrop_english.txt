@@ -2724,7 +2724,7 @@
 "rd_ada2_ob_escapeB" "and evacuate!"
 "rd_ada2_ob_escape_t" "Emmideately evacuation"
 "rd_ada2_debrief" "Well done team!"
- 
+
 "rd_ada3_ob_antenn1" "Try to send a signal for evacuation"
 "rd_ada3_ob_antenn1_t" "Investigate nearest satellite"
 "rd_ada3_ob_ships1" "Check for the ships that may help you"

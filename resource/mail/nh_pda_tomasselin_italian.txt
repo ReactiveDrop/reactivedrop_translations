@@ -1,8 +1,8 @@
 GAME
 {
-    // PDA di proprietà di Tom Asselin
-    
-    // In arrivo
+	// PDA di proprietà di Tom Asselin
+
+	// In arrivo
 
 	"MailFrom1"     "Da: Jonathan Dorland"
 	"MailDate1"		"Data: 17/06/42"
@@ -10,7 +10,7 @@ GAME
 	"MailBody1A"	"No. Con tutto quello che sta succedendo, non sono dell'umore giusto. Vai a prendere le tue vacche da mungere da qualche altra parte."
 
 
-    // Mail inviate
+	// Mail inviate
 
 	"MailFrom3"     "A: Jonathan Dorland"
 	"MailDate3"		"Data: 17/06/42"

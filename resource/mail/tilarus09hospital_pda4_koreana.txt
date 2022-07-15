@@ -1,7 +1,7 @@
 GAME
 {
-    // PDA belongs to Dr.Kennett
-    
+	// PDA belongs to Dr.Kennett
+
 	"MailFrom1"	"송신자: L. 길모어 박사"
 	"MailDate1"	"날짜: 46년 3월 17일"
 	"MailSubject1"	"주제: 용감한 보안 책임자"
@@ -9,12 +9,12 @@ GAME
 	"MailBody1B"	"그 실험체들이 보안팀을 뚫어버렸어요!"
 	"MailBody1C"	"보안 책임자는 순간이동기를 통해 탈출을 시도하고 있어요.  자기 영역을 벗어나서요.  한심하긴.  그는 대체 어디로 갈 계획인거야?"
 	"MailBody1D"	"우린 뭔가 해야하고, 빨리 해야 해요."
-	
+
 	"MailFrom2"	"송신자: L. 길모어 박사"
 	"MailDate2"	"날짜: 46년 3월 17일"
 	"MailSubject2"	"주제: ???"
 	"MailBody2A"	"왜 대답을 안 해주는 거에요?!"
-	
+
 	"MailFrom3"	"수신자: L. 길모어 박사"
 	"MailDate3"	"날짜: 46년 3월 17일"
 	"MailSubject3"	"주제: 도와줘요!"

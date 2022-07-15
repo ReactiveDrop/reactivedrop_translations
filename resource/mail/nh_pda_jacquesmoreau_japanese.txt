@@ -1,8 +1,8 @@
 ﻿GAME
 {
-    // PDA belongs to Doctor Jacques Moreau
-    
-    // Sent messages
+	// PDA belongs to Doctor Jacques Moreau
+
+	// Sent messages
 
 	"MailFrom3"     "宛先: アーサー・キャラダイン大佐"
 	"MailDate3"		"送信日時: 43年3月31日"

@@ -1,9 +1,9 @@
 GAME
 {
-    // PDA belongs to Shaun Ming
-    
-    // inbox
-    
+	// PDA belongs to Shaun Ming
+
+	// inbox
+
 	"MailFrom1"	"From: John Cain"
 	"MailDate1"	"Date: 12/23/52"
 	"MailSubject1"	"Subject: Re: Lab clearance for Helen Young"
@@ -11,7 +11,7 @@ GAME
 	"MailBody1B"	"To make things worse, things are getting out of hand.  I just got back from Timor Station.  It's spreading.  How the hell did they get from Deck 2 to the mine?"
 	"MailBody1C"	"And btw, what's going on in the atrium?"
 	"MailBody1D"	"Lt. Cain, SynTek Security."
-	
+
 	// sent mail
 
 	"MailFrom3"	"To: John Cain"

@@ -1,7 +1,7 @@
 GAME
 {
-    // PDA di proprietà del Dr.Kennett
-    
+	// PDA di proprietà del Dr.Kennett
+
 	"MailFrom1"	"Da: Dr. L. Gilmore"
 	"MailDate1"	"Data: 3/17/46"
 	"MailSubject1"	"Soggetto: Il coraggioso capo della sicurezza"
@@ -9,12 +9,12 @@ GAME
 	"MailBody1B"	"Gli esperimenti hanno superato il team di sicurezza!"
 	"MailBody1C"	"Il capo della sicurezza sta cercando di fuggire tramite il teletrasporto. Scappando dal suo stesso territorio. Patetico. Dove ha intenzione di andare??"
 	"MailBody1D"	"Dobbiamo fare qualcosa e dobbiamo farla in fretta."
-	
+
 	"MailFrom2"	"Da: Dr. L. Gilmore"
 	"MailDate2"	"Data: 3/17/46"
 	"MailSubject2"	"Soggetto: ???"
 	"MailBody2A"	"Perchè non mi rispondi?!"
-	
+
 	"MailFrom3"	"A: Dr. L. Gilmore"
 	"MailDate3"	"Data: 3/17/46"
 	"MailSubject3"	"Soggetto: Aiuto!"

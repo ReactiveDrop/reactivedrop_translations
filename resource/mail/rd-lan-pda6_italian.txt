@@ -1,11 +1,11 @@
 GAME
 {
-    // PDA di proprietà di Lucius Pawn
-    
-    // inbox
-    
-	
-	
+	// PDA di proprietà di Lucius Pawn
+
+	// inbox
+
+
+
 	// mail spedita
 
 	"MailFrom3"	"Da: Lana King"

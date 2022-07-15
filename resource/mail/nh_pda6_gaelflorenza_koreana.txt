@@ -1,8 +1,8 @@
 GAME
 {
-    // PDA belongs to Lieutenant Gael Florenza
-    
-    // Sent mail
+	// PDA belongs to Lieutenant Gael Florenza
+
+	// Sent mail
 
 	"MailFrom3"     "수신자: 아이리스 플로렌자"
 	"MailDate3"		"데이터: 03/31/43"

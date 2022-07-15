@@ -993,7 +993,7 @@
 
 "L4D360UI_Controller_Sticks_Default"		"Normal"
 "L4D360UI_Controller_Sticks_Southpaw"		"Southpaw"
-	
+
 "L4D360UI_Controller_Buttons_Config1"		"Default"
 "L4D360UI_Controller_Buttons_Config2"		"Config 2"
 "L4D360UI_Controller_Buttons_Config3"		"Config 3"
@@ -1081,7 +1081,7 @@
 "L4D360UI_Controller_Tooptip_DuckMode_Toggle"	"Toggle crouch."
 
 "L4D360UI_Controller_Tooptip_Clear"	"Clear Bind."
-	
+
 "L4D360UI_Campaign_Tooltip_Any"							"Select any campaign."
 "L4D360UI_Campaign_Tooltip_Any_Disabled"				"You have not yet unlocked the ability to select any campaign."
 "L4D360UI_Campaign_Tooltip_Currently_Playing"			"This is the campaign you are currently playing."

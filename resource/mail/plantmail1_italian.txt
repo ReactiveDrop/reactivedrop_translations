@@ -1,9 +1,9 @@
 GAME
 {
-    // PDA di proprietà di Ming
-    
-    // inbox
-    
+	// PDA di proprietà di Ming
+
+	// inbox
+
 	"MailFrom1"	"Da: John Cain"
 	"MailDate1"	"Data: 12/20/52"
 	"MailSubject1"	"Soggetto: Consegna per la Stazione di Ricerca 7"

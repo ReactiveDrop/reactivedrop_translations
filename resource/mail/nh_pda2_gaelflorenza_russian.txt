@@ -1,8 +1,8 @@
 GAME
 {
-    // Hacked into network history: Lieutenant Gael Florenza
-    
-    // Sent mail
+	// Hacked into network history: Lieutenant Gael Florenza
+
+	// Sent mail
 
 	"MailFrom3"     "Кому: Айрис Флоренца"
 	"MailDate3"		"Дата: 12.03.40"
