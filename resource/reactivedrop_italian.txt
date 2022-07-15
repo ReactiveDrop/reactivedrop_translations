@@ -6357,6 +6357,8 @@
 "[english]asw_panel_inactive"		"Panel Inactive"
 "asw_need_dynamite"		"Serve della TNT"
 "[english]asw_need_dynamite"		"Need TNT"
+		"asw_unnamed_mission_title"		"Unnamed Mission"
+		"[english]asw_unnamed_mission_title"		"Unnamed Mission"
 "rd_campaign_name_deathmatch_campaign"		"Deathmatch"
 "[english]rd_campaign_name_deathmatch_campaign"		"Deathmatch"
 "rd_campaign_desc_deathmatch_campaign"		"Uccidi tutto ciò che si muove."
