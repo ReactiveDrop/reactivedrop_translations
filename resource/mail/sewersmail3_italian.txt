@@ -1,6 +1,6 @@
 GAME
 {
-    // PDA di proprietà di Ming
+	// PDA di proprietà di Ming
 	"MailFrom1"	"Da: John Cain"
 	"MailDate1"	"Data: 12/24/52"
 	"MailSubject1"	"Soggetto: Re: Invece per Young?"

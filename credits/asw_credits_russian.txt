@@ -1,6 +1,6 @@
 "Credits"
 {
-"show_credits_logo" "1"
+"show_credits_logo"	"1"
 "asw_credits_"	"Аарон Барбер"
 "asw_credits_"	"Аарон Галифакс"
 "asw_credits_"	"Аарон Кирли"
@@ -135,7 +135,7 @@
 "asw_credits_"	"Квинтин Дорокез"
 "asw_credits_"	"Кайл Монро"
 "asw_credits_"	"Ларс Йенсвольд"
-"asw_credits_"	"Лаура Дюбюк" 
+"asw_credits_"	"Лаура Дюбюк"
 "asw_credits_"	"Лиам Лавери"
 "asw_credits_"	"Линдси Р Рэндалл"
 "asw_credits_"	"Лиз Кембридж"

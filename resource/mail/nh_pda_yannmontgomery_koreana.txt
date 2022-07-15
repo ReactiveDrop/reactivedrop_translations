@@ -1,9 +1,9 @@
 GAME
 {
-    // PDA belongs to Professor Yann Montgomery
+	// PDA belongs to Professor Yann Montgomery
 
-    // Inbox
-    
+	// Inbox
+
 	"MailFrom1"		"송신자: 자크 모로 박사"
 	"MailDate1"     "날짜: 05/08/42"
 	"MailSubject1"	"주제: 답장: 예비 고려 사항"
@@ -11,8 +11,8 @@ GAME
 	"MailBody1B"	"필요하면 제 실험실에서 추가로 알려드리겠습니다."
 	"MailFrom1C"	"남 휴머니움."
 
-    // Sent mail
-    
+	// Sent mail
+
 	"MailFrom3"     "수신자: 자크 모로 박사"
 	"MailDate3"		"날짜: 05/08/42"
 	"MailSubject3"	"주제: 예비 고려 사항"

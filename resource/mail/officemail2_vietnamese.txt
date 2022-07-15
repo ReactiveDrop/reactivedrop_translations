@@ -1,9 +1,9 @@
 GAME
 {
-    // PDA belongs to Lt. Cain
-    
-    // inbox 
-    
+	// PDA belongs to Lt. Cain
+
+	// inbox 
+
 	"MailFrom1"	"Từ: Laura Callen"
 	"MailDate1"	"Ngày: 12/21/52"
 	"MailSubject1"	"Tiêu đề: Lây nhiễm trong phòng thí nghiệm"

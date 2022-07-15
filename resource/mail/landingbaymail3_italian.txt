@@ -1,9 +1,9 @@
 GAME
 {
-    // PDA di proprietà di Lt. Cain
-    
-    // inbox
-    
+	// PDA di proprietà di Lt. Cain
+
+	// inbox
+
 	"MailFrom1"	"Da: Laura Callen"
 	"MailDate1"	"Data: 12/18/52"
 	"MailSubject1"	"Soggetto: Avamposto 17"
@@ -11,7 +11,7 @@ GAME
 	"MailBody1B"	"Vorrei che interrogassi nuovamente il tuo staff e mi aiutassi a scoprire chi sta violando la restrizione # 77-C. (IA deve essere informato del trasferimento di materiale organico sconosciuto sulla Terra; 77-C / 1.1.4)"
 	"MailBody1C"	"Campbell sta anche segnalando la scomparsa di diversi lavoratori. La sicurezza delle colonie è una tua responsabilità. Mi aspetto che invii abbastanza personale per proteggere l'area."
 	"MailBody1D"	"L. Callen"
-	
+
 	"MailFrom2"	"Da: Alena"
 	"MailSubject2"	"Soggetto: Re: Ciao"
 	"MailDate2"	"Data: 11/15/52"
@@ -19,7 +19,7 @@ GAME
 	"MailBody2B"	"Lavorare al di fuori dei sistemi di base può essere un'esperienza solitaria. Starfire SubNet Dating potrebbe essere la risposta ai tuoi problemi! Incontriamoci per parlare e forse qualcosa di più? Chiama (+490387439)"
 	"MailBody2C"	"Alena,"
 	"MailBody2D"	"xxx"
-	
+
 	// mail spedita
 
 	"MailFrom3"	"A: Laura Callen"

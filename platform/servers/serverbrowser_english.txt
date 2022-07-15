@@ -1,6 +1,6 @@
 ﻿"lang" 
 { 
-"Language" "English" 
+"Language"	"English" 
 "Tokens" 
 { 
 "ServerBrowser_Filter"				"Filter"

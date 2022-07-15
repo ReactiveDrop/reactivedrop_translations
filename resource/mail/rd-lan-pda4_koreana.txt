@@ -1,9 +1,9 @@
 ﻿GAME
 {
-    // PDA belongs to Lana King
-    
-    // inbox
-    
+	// PDA belongs to Lana King
+
+	// inbox
+
 	"MailFrom1"	"송신자: 윈덤 킹"
 	"MailDate1"	"날짜: 53년 2월 29일"
 	"MailSubject1"	"주제: 경고!"
@@ -12,6 +12,6 @@
 	"MailBody1C"	"애나스는 날 믿질 않아.  그에게 동맹군에게 연락해보도록 설득해보겠지만 희망적이진 않아."
 	"MailBody1D"	"윈덤이"
 
-	
+
 	// sent mail
 }

@@ -1,9 +1,9 @@
 GAME
 {
-    // PDA belongs to Corporal France Siriac
-    
-   // Inbox
-    
+	// PDA belongs to Corporal France Siriac
+
+	// Inbox
+
 	"MailFrom1"		"От: Полин Вито"
 	"MailDate1"     "Дата: 04.01.43"
 	"MailSubject1"	"Тема: Заперты в оранжерее"
@@ -19,8 +19,8 @@ GAME
 	"MailBody2C"	"пожалуйста, помогите нам"
 	"MailBody2D"	"пожалуйста"
 
-    // Sent mail
-    
+	// Sent mail
+
 	"MailFrom3"     "Кому: Полин Вито"
 	"MailDate3"		"Дата: 04.01.43"
 	"MailSubject3"	"Тема: Ответ: Заперты в оранжерее"

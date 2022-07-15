@@ -1,8 +1,8 @@
 ﻿GAME
 {
-    // PDA belongs to 	Ian Cook
+	// PDA belongs to 	Ian Cook
 
-    // sent mail 
+	// sent mail 
 	"MailFrom3"	"宛先: SynTek病院全職員"
 	"MailDate3"	"送信日時: 46年3月16日"
 	"MailSubject3"	"件名: 新しい作戦が必要"
