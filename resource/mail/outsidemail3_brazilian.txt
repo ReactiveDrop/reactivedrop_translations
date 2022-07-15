@@ -1,12 +1,12 @@
 GAME
 {
-    // PDA belongs to Brad Campbell
+    // PDA pertence ao Brad Campbell
     
-	"MailFrom1"	"From: David Anders"
-	"MailDate1"	"Date: 12/12/52"
-	"MailSubject1"	"Subject: Activation code"
+	"MailFrom1"	"De: David Anders"
+	"MailDate1"	"Data: 12/12/52"
+	"MailSubject1"	"Assunto: Código de ativação"
 	"MailBody1A"	"Brad," 
-	"MailBody1B"	"Kovac and I rigged explosives on the bridge. The detonation code is 0951. Tell your men to be careful."
-	"MailBody1C"	"Good luck.  Everything depends on this.
+	"MailBody1B"	"Eu e o Kovac armamos os explosivos na ponte. O código de detonação é 0951. Diga aos seus homens para serem cuidadosos."
+	"MailBody1C"	"Boa sorte. Tudo depende disso.
 	"MailBody1D"	"Dave"
 }

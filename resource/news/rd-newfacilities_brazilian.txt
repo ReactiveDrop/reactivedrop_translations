@@ -1,9 +1,9 @@
 GAME
 {
-	"Headline"	"Out With The Old In With The New!"
+	"Headline"	"Tirando o Velho e Colocando o Novo!"
 	"HeadlineDate"	"02/02/54"
-	"Paragraph1"	"The new colony systems and facilities were officially brought online today. Oasis colonists need no longer hang their heads in shame, for we now boast one of the most modern colonies known to man."
-	"Paragraph2"	"The old systems were well past their time for decommission, being as they were the original systems that were built when the colony was first founded. The completion comes just in time to mark the 23rd anniversary of Planetfall here on Oasis, meaning that we shouldn't see a repeat of the rolling blackout during last year's celebrations."
-	"Paragraph3"	"The new systems include an integrated communication facility, an expansion of the medical facilities and a major overhaul to the colony's power grid."
-	"Paragraph4"	"Overall, it's a good day here in Oasis. Finally the administration would like to wish you all a happy Planetfall!"
+	"Paragraph1"	"Os novos sistemas e instalações da colônia ficaram oficialmente online hoje. Os colonos do oásis não precisam mais abaixar a cabeça de vergonha, pois agora ostentamos uma das colônias mais modernas conhecidas pelo homem."
+	"Paragraph2"	"Os sistemas antigos já haviam passado do tempo de desativação, sendo como eram os sistemas originais que foram construídos quando a colônia foi fundada. A conclusão chega bem a tempo de marcar o 23º aniversário da chegada ao planeta aqui no Oasis, o que significa que não veremos novamente os apagões contínuos durante as comemorações do ano passado."
+	"Paragraph3"	"Os novos sistemas incluem um facilitador de comunicação integrada, uma expansão das instalações médicas e uma grande reforma na rede elétrica da colônia."
+	"Paragraph4"	"No geral, é um grande dia aqui no Oasis. Finalmente, a administração gostaria de desejar a todos um feliz chegada ao planeta!"
 }

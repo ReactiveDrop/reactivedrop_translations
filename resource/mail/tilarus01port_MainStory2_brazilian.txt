@@ -2,10 +2,10 @@ GAME
 {
     // PDA belongs to Overseer Ross
     
-    "MailFrom1"    "From: Commander Harold"
-    "MailDate1"    "Date: 2/2/54"
-    "MailSubject1"    "Subject: Reports"
-    "MailBody1A"    "I've got your reports here Ross,"
-    "MailBody1B"    "Are you sure what you're telling me is right? because if it isnt it won't bode well for you"
-    "MailBody1c"    "On the other hand, if it is, We're all fucked, Harold Out"
+    "MailFrom1"    "De: Comandante Harold"
+    "MailDate1"    "Date: 02/02/54"
+    "MailSubject1"    "Assunto: Relatórios"
+    "MailBody1A"    "Eu tenho seus relatórios aqui Ross,"
+    "MailBody1B"    "Você tem certeza que o que você está me dizendo está correto? porque se não estiver, não vai terminar bem para você"
+    "MailBody1c"    "Por outro lado, se for, estamos todos fodidos, Câmbio desligo"
 }

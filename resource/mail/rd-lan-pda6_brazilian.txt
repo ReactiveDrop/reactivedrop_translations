@@ -1,19 +1,15 @@
 GAME
 {
-    // PDA belongs to Lucius Pawn
+    // PDA pertence aoLucius Pawn
     
-    // inbox
-    
-	
-	
-	// sent mail
+	// Enviados
 
-	"MailFrom3"	"To: Lana King"
-	"MailDate3"	"Date: 02/29/53"
-	"MailSubject3"	"Subject: Idea"
-	"MailBody3A"	"Go to the landing bay and get a ship ready, I just had a great idea involving the warhead."
-	"MailBody3B"	"I initialized the timer. If I'm not with you in three minutes, then please... just go. The whole base will be destroyed in the explosion."
-	"MailBody3C"	"If I fail, we will never meet again. I love you. I'm sorry I never told you that before but here I am, all out of chances. I love you, Lana."
+	"MailFrom3"	"Para: Lana King"
+	"MailDate3"	"Data: 29/02/53"
+	"MailSubject3"	"Assunto: Ideia"
+	"MailBody3A"	"Vá para a baía de desembarque e prepare uma nave, acabei de ter uma ótima ideia envolvendo a ogiva."
+	"MailBody3B"	"Eu inicializei o cronometro. Se eu não estiver com você em três minutos, então por favor... Apenas vá. A base inteira será destruída na explosão."
+	"MailBody3C"	"Se eu falhar, nós nunca mais nos encontraremos. Eu te amo. Me desculpe, eu nunca te disse isso antes, mas aqui estou eu, sem chance nenhuma. Eu te amo, Lana."
 	"MailBody3D"	"Lucius"
 
 

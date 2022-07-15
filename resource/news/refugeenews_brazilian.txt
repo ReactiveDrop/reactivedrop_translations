@@ -1,9 +1,9 @@
 GAME
 {
-	"Headline"	"Refugees flow into S-N5 constellation"
-	"HeadlineDate"	"12/18/52"
-	"Paragraph1"	"Scattered groups of refugees continue to arrive at the S-N5 constellation on the outskirts of Paradise space.  Survivors have been arriving at the system ever since Swarm attacks destroyed a number of independant colonies last month."
-	"Paragraph2"	"It is believed the attacks originated from the Anhaven Ruins, but many analysts are concerned that the Swarm attacks have reached so deep into Alliance space.  'This could be the precursor to a larger attack which may even reach the Core Systems,' says Dr McArthur, a noted analyst of Swarm movements."
-	"Paragraph3"	"An officer from Paradise Supplies has requested IA support for dealing with the refugees, but has generously offered them all Paradise work contracts within the colonies."
+	"Headline"	"Os refugiados fluem para a constelação S-N5"
+	"HeadlineDate"	"18/12/52"
+	"Paragraph1"	"Grupos dispersos de refugiados continuam a chegar à constelação S-N5 nos arredores do espaço Paraíso.  Os sobreviventes chegam ao sistema desde que os ataques do enxame destruíram várias colônias independentes no mês passado."
+	"Paragraph2"	"Acredita-se que os ataques se originaram das Ruínas de Anhaven, mas muitos analistas estão preocupados que os ataques do Enxame tenham chegado tão fundo no espaço da Aliança.  “Isso pode ser o precursor de um ataque maior que pode até atingir os sistemas centrais”, deaclarou Dr McArthur, um notável analista de movimentos do Enxame."
+	"Paragraph3"	"Um oficial da Suprimentos Paraíso solicitou apoio da AI para lidar com os refugiados, mas generosamente ofereceu a todos eles contratos de trabalho do Paraíso dentro das colônias."
 	"Paragraph4"	""
 }

@@ -1,14 +1,14 @@
 GAME
 {
-    // PDA belongs to Private First Class Thibaut Holbert
+    // PDA pertence ao Soldado Primeira Classe Thibaut Holbert
     
-    // Sent mail
+    // Enviados
 
-	"MailFrom3"     "To: Cpt. Arthur Carradine"
-	"MailDate3"		"Date: 03/31/43"
-	"MailSubject3"	"Subject: need backup"
-	"MailBody3A"	"captain"
-	"MailBody3B"	"monsters crawling at every corner . unit overrun in canton V"
-	"MailBody3C"	"comms are dead . power out . no light"
-	"MailBody3D"	"request immediate backup . they’re in the wa"
+	"MailFrom3"     "Para: Cap. Arthur Carradine"
+	"MailDate3"		"Data: 31/03/43"
+	"MailSubject3"	"Assunto: Precisamos de reforços"
+	"MailBody3A"	"Capitão"
+	"MailBody3B"	"monstros rastejando em todos os cantos . unidade sobrepujada em canton V"
+	"MailBody3C"	"comunicação já era . sem energia . sem luz"
+	"MailBody3D"	"requisitando reforços imediatos . eles estão vin"
 }

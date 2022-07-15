@@ -1,14 +1,14 @@
 GAME
 {
-    // PDA belongs to Jonathan Dorland
+    // PDA pertence a Jonathan Dorland
     
-    // Sent mail
+    // Enviados
 
-	"MailFrom3"		"To: Dr. Lin Da Silva"
-	"MailDate3"		"Date: 03/31/43"
-	"MailSubject3"	"Subject: What’s going on?"
-	"MailBody3A"	"Lin, care to explain what’s going on out there?"
-	"MailBody3B"    "It’s been over an hour since a group of settlers, led by Lieutenant Florenza and more of the custodians, broke into support staff quarters and insisted that we’d be confined inside the warehouse’s secured premises until further notice. Running and yelling ensued, then nothing. If you’d be so inclined, Doctor, of letting us know what the hell is going on around here? Nothing to do with dear old Moreau, I’m sure..."
-	"MailBody3C"    "Maybe it’s the dehydration, but it feels like we’re going crazy in here. Some of us are hearing noises inside the walls. Just great, really. If I don’t hear from you by the end of the rotation period, I’ll have to use my one-use access key to force open the doors. Kind of a gamble, I know and I’m sorry. But it’s one the circumstances seem bent on me taking, don’t they?"
-	"MailBody3D"    "Talk about a wild card."
+	"MailFrom3"		"Para: Dra. Lin Da Silva"
+	"MailDate3"		"Data: 31/03/43"
+	"MailSubject3"	"Assunto: O que tá acontecendo?"
+	"MailBody3A"	"Lin, se importa de explicar o que tá acontecendo lá fora?"
+	"MailBody3B"    "Já faz mais de uma hora desde que um grupo de colonos, liderados pelo Tenente Florenza e mais alguns guardas, invadiu os aposentos da equipe de apoio e insistiu que ficaríamos confinados dentro das instalações seguras do armazém até novas ordens. Sairam correndo e gritando, e então nada. Se você estiver disposta, doutora, a nos informar o que diabos está acontecendo por aqui? Nada a ver com querido velho Moreau, certeza.."
+	"MailBody3C"    "Talvez seja a desidratação, mas parece que estamos ficando loucos aqui. Alguns de nós estão ouvindo barulhos dentro das paredes. Isso é otimo, de verdade. Se eu não tiver notícias suas até o final do período de rotação, Vou ter que usar minha chave de acesso de único para forçar a abertura das portas. Uma espécie de aposta, Eu sei e sinto muito. Mas é uma das circunstancias que me levam a tomar, não acha?"
+	"MailBody3D"    "Falando sobre um trunfo."
 }

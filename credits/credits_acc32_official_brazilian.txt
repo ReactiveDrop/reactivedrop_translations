@@ -1,0 +1,23 @@
+"Credits"
+{
+// these keys must be in this order!
+"show_credits_logo" "0"
+"custom_logo"	""
+"asw_credits_"	"Mapeamento/scripting por:"
+"asw_credits_"	"jhheight"
+"asw_credits_"	""
+"asw_credits_"	""
+"asw_credits_"	""
+"asw_credits_"	""
+"asw_credits_"	""
+"asw_credits_"	""
+"asw_credits_"	"" 
+"asw_credits_"	""
+"asw_credits_"	"Obrigado a realworldtextures pelas texturas"
+"asw_credits_"	""
+"asw_credits_"	"Agradecimentos aos autores dos itens de oficina para modelos:"
+"asw_credits_"	"Trem - https://steamcommunity.com/sharedfiles/filedetails/?id=2685407848"
+"asw_credits_"	"Gemas - https://steamcommunity.com/sharedfiles/filedetails/?id=609309413" 
+"asw_credits_"	"Monitores - https://steamcommunity.com/sharedfiles/filedetails/?id=1108535208"
+"asw_credits_"	"Paineis - https://steamcommunity.com/sharedfiles/filedetails/?id=2677359280"
+}

@@ -1,11 +1,11 @@
 GAME
 {
 
-"MailFrom1" "From: Commander Houghton"
-"MailDate1" "Date: 12/30/52"
-"MailSubject1" "Subject: Operation Eradication"
-"MailBody1A" "Alpha, this doesn't look good."
-"MailBody1B" "RC7 is definately compromised, any scientists or soldiers still alive below are beyond help."
-"MailBody1C" "There's a purge facility nearby which will fill all of the lower levels of RC7 with a deadly neurotoxin."
-"MailBody1D" "It'll kill or drive out the aliens. It's with regret that I task you with activating the purge. Houghton out."
+"MailFrom1" "De: Comandante Houghton"
+"MailDate1" "Data: 30/12/52"
+"MailSubject1" "Assunto: Operação Erradicação"
+"MailBody1A" "Alfa, isso não parece bom."
+"MailBody1B" "O CP7 foi definitivamente comprometido, quaisquer cientistas ou soldados ainda vivos lá embaixo estão ferrados."
+"MailBody1C" "Há uma instalação de extermínio nas proximidades que preencherá todos os níveis mais baixos do CP7 com uma neurotoxina mortal."
+"MailBody1D" "Vai matar ou expulsar os alienígenas. É com pesar que eu te encarrego de ativar o extermínio. Câmbio desligo."
 } 

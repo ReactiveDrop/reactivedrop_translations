@@ -1,29 +1,29 @@
 GAME
 {
-// PDA belongs to Windows
-// inbox
+// PDA pertence ao Windows
+// Caixa de entrada
 
-"MailFrom1"	"From: Childs"
-"MailDate1"	"Date: 2/2/54"
-"MailSubject1"	"Subject: Re: The Kennels"
-"MailBody1A"	"Man, that was some weird shit that went down earlier."
-"MailBody1B"	"When Bennings ran up to me, I thought that he and Mac"
-"MailBody1C"	"had gone crazy. Maybe Mac already has?"
-"MailBody1D"	"And who would have thought that the flamethrower would actually come in handy?"
+"MailFrom1"	"De: Childs"
+"MailDate1"	"Data: 02/02/54"
+"MailSubject1"	"Assunto: Re: Os Canis"
+"MailBody1A"	"Cara, Foi bizarro aquilo que rolou mais cedo."
+"MailBody1B"	"Quando o Bennings correu até mim, Eu pensei que ele e o Mac"
+"MailBody1C"	"tinham ficado loucos. Talves o Mac já esteja?"
+"MailBody1D"	"E quem teria imaginado que o lança-chamas seria tão útil?"
 
-"MailFrom2"	"From: Childs"
-"MailDate2"	"Date: 2/2/54"
-"MailSubject2"	"Subject: Re:Re: The Kennels"
-"MailBody2A"	"Not that i'm complaining, it definately saved our asses but doesn't it seem a little irresponsible leaving a highly"
-"MailBody2B"	"volatile and downright dangerous weapon in the hands of a bunch of researchers with little to no outside contact"
-"MailBody2C"	"for months on end?"
-"MailBody2D"	"i mean all it takes is one of us to go a little nutty and we're all toast."
+"MailFrom2"	"De: Childs"
+"MailDate2"	"Data: 02/02/54"
+"MailSubject2"	"Assunto: Re:Re: Os Canis"
+"MailBody2A"	"Não que eu esteja reclamando, isso definitivamente salvou nosso rabo mas não parece um tanto irresponsável deixar uma arma"
+"MailBody2B"	"altamente volátil e extremamente perigosa nas mãos de um bando de pesquisadores com pouco ou nenhum contato externo"
+"MailBody2C"	"por tantos meses?"
+"MailBody2D"	"Quero dizer, basta um de nós ficar um pouco maluco e estamos todos fritos."
 
-// sent mail
+// Enviados
 "MailFrom3"	"To: Windows"
-"MailDate3"	"Date: 2/2/54"
-"MailSubject3"	"Subject: Re: The Kennels"
-"MailBody3A"	"It begs the question, we're artic researchers not soldiers, what the hell are we doing with a flamethrower?"
-"MailBody3A"	"what possible purpose does it serve us? why is it here?"
-"MailBody3C"	"on that note keep an eye on Dr.Blair, he's seemed a bit on edge since the kennel incident."
+"MailDate3"	"Date: 02/02/54"
+"MailSubject3"	"Assunto: Re: Os Canis"
+"MailBody3A"	"sso levanta a questão, somos pesquisadores do Ártico, não soldados, o que diabos estamos fazendo com um lança-chamas?"
+"MailBody3A"	"A que possível propósito isso nos serve? Por que isso está aqui?"
+"MailBody3C"	"Falando nissoique de olho no Dr. Blair, ele parecia um pouco nervoso desde o incidente do canil."
 }

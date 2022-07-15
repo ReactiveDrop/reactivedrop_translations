@@ -1,24 +1,24 @@
 GAME
 {
-    // PDA belongs to Shaun Ming
+    // PDA pertence a Shaun Ming
     
-    // inbox
+    // Caixa de entrada
     
-	"MailFrom1"	"From: John Cain"
-	"MailDate1"	"Date: 12/23/52"
-	"MailSubject1"	"Subject: Re: Lab clearance for Helen Young"
-	"MailBody1A"	"Ming, are you out of your mind?  You talked to Young about your findings?!  I told you clearly, NO ONE outside SynTek is allowed to know what you're doing up there!"
-	"MailBody1B"	"To make things worse, things are getting out of hand.  I just got back from Timor Station.  It's spreading.  How the hell did they get from Deck 2 to the mine?"
-	"MailBody1C"	"And btw, what's going on in the atrium?"
-	"MailBody1D"	"Lt. Cain, SynTek Security."
+	"MailFrom1"	"De: John Cain"
+	"MailDate1"	"Data: 23/12/52"
+	"MailSubject1"	"Assunto: Re: Liberação do laboratório para Helen Young"
+	"MailBody1A"	"Ming, você perdeu a cabeça?  Você falou com a Young sobre suas descobertas?! Eu te disse claramente, NINGUÉM fora da SynTek tem permissão para saber o que você está fazendo ai em cima!"
+	"MailBody1B"	"Para piorar as coisas, as coisas estão ficando fora de controle.  Acabei de voltar da Estação Timor.  Está se espalhando.  Como diabos eles foram do Deck 2 para as minas?"
+	"MailBody1C"	"E a propósito, o que está acontecendo no átrio?"
+	"MailBody1D"	"Ten. Cain, Segurança da SynTek."
 	
-	// sent mail
+	// Email enviado
 
-	"MailFrom3"	"To: John Cain"
-	"MailDate3"	"Date: 12/23/52"
-	"MailSubject3"	"Subject: Re:Re: Lab clearance for Helen Young"
-	"MailBody3A"	"Lt. Cain,"
-	"MailBody3B"	"Watch your mouth.  I'm not one of your grunts.  Young will keep her mouth shut.  She's done brilliant work and she knows her career depends on it.  So you saw live ones in the mines?  Interesting.  There's an obvious explanation:  The eggs become active when they defrost.  There's enough prey down there to support the growth cycle.  Do the math."
-	"MailBody3C"	"Don't sweat the atrium situation.  We've got it under control.  One of the parasites went missing yesterday.  We think it found a way through the vents to the lower deck.  The whole NW area of Deck 1 is sealed shut, so nothing's getting in or out."
+	"MailFrom3"	"De: John Cain"
+	"MailDate3"	"Data: 23/12/52"
+	"MailSubject3"	"Assunto: Re:Re: Liberação do laboratório para Helen Young"
+	"MailBody3A"	"Ten. Cain,"
+	"MailBody3B"	"Meça suas palavras.  Eu não sou um dos seus recrutas.  Young vai manter a boca fechada.  Ela fez um trabalho brilhante e sabe que sua carreira depende disso.  Então você viu alguns vivos nas minas?  Interessante.  Há uma explicação óbvia:  Os ovos tornam-se ativos quando descongelam.  Há presas suficientes lá embaixo para sustentar o ciclo de crescimento.  Faça as contas."
+	"MailBody3C"	"Não se preocupe com a situação do átrio.  Nós temos tudo sob controle.  Um dos parasitas desapareceu ontem.  Achamos que ele encontrou um caminho através dos dutos para o convés inferior.  Toda a área do Deck 1 está selada, então nada entra ou sai."
 	"MailBody3D"	"S. Ming"
 }

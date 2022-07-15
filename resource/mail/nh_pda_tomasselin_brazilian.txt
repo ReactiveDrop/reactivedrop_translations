@@ -1,24 +1,24 @@
 GAME
 {
-    // PDA belongs to Tom Asselin
+    // PDA pertence ao Tom Asselin
     
-    // Inbox
+    // Caixa de entrada
 
-	"MailFrom1"     "From: Jonathan Dorland"
-	"MailDate1"		"Date: 06/17/42"
-	"MailSubject1"	"Subject: RE: Interested?"
-	"MailBody1A"	"Nah. With everything that’s going on, I’m in no mood. Go snag your cash cows somewhere else."
+	"MailFrom1"     "De: Jonathan Dorland"
+	"MailDate1"		"Data: 17/06/42"
+	"MailSubject1"	"Assunto: RE: Ta afim?"
+	"MailBody1A"	"Nada. Com tudo o que tá acontecendo, não to no clima. Vá fisgar sua mamata em outro lugar."
 
 
-    // Sent mail
+    // Enviados
 
-	"MailFrom3"     "To: Jonathan Dorland"
-	"MailDate3"		"Date: 06/17/42"
-	"MailSubject3"	"Subject: Interested?"
-	"MailBody3A"	"Hey. Seems as Carradine has his guys on leash, huh? Gamble nights are getting quiet, all the more without our boy-wonder. How about coming back some? For old times’ sake?"
+	"MailFrom3"     "Para: Jonathan Dorland"
+	"MailDate3"		"Data: 17/06/42"
+	"MailSubject3"	"Assunto: Ta afim?"
+	"MailBody3A"	"Ei. Parece que o Carradine tá com seus homens na coleira, né? As noites de aposta estão ficando quietas, ainda mais sem o nosso menino prodígio. Que tal ganhar algum? Pelos velhos tempos?"
 
-	"MailFrom4"     "To: Cpl. Sarah Weiss"
-	"MailDate4"		"Date: 06/17/42"
-	"MailSubject4"	"Subject: On the menu: drinks + simulation matches"
-	"MailBody4A"	"Oi, Sarah. I know that, teeechnically, you’re quarters-restricted with the rest of you custodians. That being said, how about late-night Friday, Barney’s canteen? Or are you finally getting tired of having your ass simulately whooped?"
+	"MailFrom4"     "Para: Cabo Sarah Weiss"
+	"MailDate4"		"Data: 17/06/42"
+	"MailSubject4"	"Assunto: No menu: bebidas + partidas simuladas"
+	"MailBody4A"	"Oi, Sarah. Eu sei disso, teeecnicamente, você está restrita aos dormitórios com o resto de vocês guardas. Dito isso, que tal sexta-feira ao anoitecer, Cantina do Barney? Ou você finalmente ta ficando cansada de simuladamente levar no rabo?"
 }

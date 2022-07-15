@@ -1,31 +1,31 @@
 GAME
 {
-    // PDA belongs to Doctor Lin Da Silva
+    // PDA pertence a Doutora Lin Da Silva
 
-    // Inbox
+    // Caixa de entrada
     
-	"MailFrom1"		"From: Dr. Jacques Moreau"
-	"MailDate1"     "Date: 02/10/42"
-	"MailSubject1"	"Subject: RE: Transfer of the scientific staff"
-	"MailBody1A"	"Dr. Da Silva, my research demands of me that I maintain precision to near surgical degrees. And with that, quite befittingly in fact, proper focus. ‘Proper’ as in not being continually interrupted with trivial concerns."
-	"MailBody1B"	"While I do appreciate the tremendous aid provided thus far by your assistants, the ongoing operations - of which I am in charge by virtue of my attributions as this mission’s Chief Scientist - will summarily conclude if everyone finally agrees to leave me to my work."
-	"MailBody1C"	"Thank you."
+	"MailFrom1"		"De: Dr. Jacques Moreau"
+	"MailDate1"     "Data: 10/02/42"
+	"MailSubject1"	"Assunto: RE: Transferência da equipe científica"
+	"MailBody1A"	"Dra. Da Silva, minha pesquisa demanda de mim que eu mantenha minha precisão proxima dos níveis cirúrgicos. E com isso, de fato, foco apropriado. ‘Apropriado’ de forma a não ser interrompido constantemente com preocupações triviais."
+	"MailBody1B"	"Embora eu aprecie a tremenda ajuda fornecida até agora por seus assistentes, as operações em curso - do qual estou a cargo em virtude de minhas atribuições como Cientista Chefe desta missão - concluirá sumariamente se todos finalmente concordarem em me deixar trabalhar."
+	"MailBody1C"	"Obrigado."
 
-    // Sent mail
+    // Enviados
     
-	"MailFrom3"     "To: Dr. Jacques Moreau"
-	"MailDate3"		"Date: 02/09/42"
-	"MailSubject3"	"Subject: Transfer of scientific staff"
+	"MailFrom3"     "Para: Dr. Jacques Moreau"
+	"MailDate3"		"Data: 09/02/42"
+	"MailSubject3"	"Assunto: Transferência da equipe científica"
 	"MailBody3A"	"Dr. Moreau,"
-	"MailBody3B"	"At your request, I have shifted the biology team’s efforts to general research; the subjects from our most recent discovery have also been transferred to your personal laboratories. May I, however, ask you the reasoning behind this decision?"
-	"MailBody3C"	"Yours sincerely,"
-	"MailBody3D"	"Dr. Lin Da Silva"
+	"MailBody3B"	"A seu pedido, Eu mudei os esforços da equipe de biologia para pesquisa geral; as cobaias de nossa descoberta mais recente também foram transferidos para seus laboratórios pessoais. Poderia, no entanto, çhe perguntar a razão por trás desta decisão?"
+	"MailBody3C"	"Atenciosamente,"
+	"MailBody3D"	"Dra. Lin Da Silva"
 
-	"MailFrom4"     "To: Dr. Jacques Moreau"
-	"MailDate4"		"Date: 02/10/42"
-	"MailSubject4"	"Subject: RE: RE: Transfer of scientific staff"
+	"MailFrom4"     "Para: Dr. Jacques Moreau"
+	"MailDate4"		"Data: 10/02/42"
+	"MailSubject4"	"Assunto: RE: RE: Transferência da equipe científica"
 	"MailBody4A"	"Dr. Moreau,"
-	"MailBody4B"	"Of course, I understand. To question your methods was not my intention. The additional subjects will be dispatched to you by the end of the week. Nam Humanum."
-	"MailBody4C"	"Yours sincerely,"
-	"MailBody4D"	"Dr. Lin Da Silva"
+	"MailBody4B"	"É claro, eu entendo. Questionar seus métodos não era minha intenção. As cobaias adicionais serão despachadas para você até o final da semana. Nam Humanum."
+	"MailBody4C"	"Atenciosamente,"
+	"MailBody4D"	"Dra. Lin Da Silva"
 }
