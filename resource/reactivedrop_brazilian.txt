@@ -6365,7 +6365,7 @@
 		"[english]rd_campaign_name_jacob"		"Jacob's Rest"
 		"rd_campaign_desc_jacob"		"O Comando da FAI recebeu um sinal de socorro do planeta remoto de Vereon XII. Parece que o Enxame atacou o Repouso de Jacob, a colônia de pesquisa e mineração da SynTek. O Comando da FAI está enviando seu esquadrão para contra-atacar o Enxame e interromper a infestação."
 		"[english]rd_campaign_desc_jacob"		"IAF Command has received a distress signal from the remote planet of Vereon XII.  It appears the Swarm have attacked Jacob's Rest, SynTek's research and mining colony. IAF Command is sending your squad to strike back at the Swarm and halt the infestation."
-		"rd_campaign_name_rd_bonus_missions"		"Bônus de Missões"
+		"rd_campaign_name_rd_bonus_missions"		"Missões Bônus"
 		"[english]rd_campaign_name_rd_bonus_missions"		"Bonus Missions"
 		"rd_campaign_desc_rd_bonus_missions"		"Missões em várias partes da galáxia"
 		"[english]rd_campaign_desc_rd_bonus_missions"		"Missions in various parts of the galaxy"
