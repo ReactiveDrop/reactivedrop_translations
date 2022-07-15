@@ -2469,7 +2469,6 @@
 "rd_workshop_error_timeout" "Workshop operation took longer than expected."
 "rd_workshop_error_not_logged_on" "Steam login timed out."
 "rd_workshop_error_jpeg_size_limit" "Preview images must be 1 MB or less."
-"rd_workshop_untitled_addon_title" "Untitled Addon"
 
 "asw_weapon_healampgun" "Medical Amplifier Gun"
 "asw_weaponl_healampgun" "IAF Medical Amplifier Gun"
