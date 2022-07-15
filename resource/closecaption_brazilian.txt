@@ -3,7 +3,7 @@
 "Language" "brazilian" 
 "Tokens" 
 { 
-	"testcommands"			"<clr:255,0,0>Isso é vermelho<I> e itálicos<B> e<cr>negríto<B><I><clr:255,255,255> branco denovo."
+	"testcommands" "<clr:255,0,0>Isso é vermelho<I> e itálicos<B> e<cr>negríto<B><I><clr:255,255,255> branco denovo."
 	
 //Commander Audio
 
@@ -3907,9 +3907,7 @@
 
 "Pilot.03_12"	"<clr:236,236,236><B>Nave de transp Snakebite:<B> Que bom que você voltou inteiro, parece que você tirou de letra."
 
-//Vesta
-
-"Vesta.01_03"	"<clr:234,217,245><B>???:<B> Saiam.""
+"Vesta.01_03"	"<clr:234,217,245><B>???:<B> Saiam."
 
 "Vesta.01_05"	"<clr:234,217,245><B>???:<B> Saiam. Ou juntem-se."
 

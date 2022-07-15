@@ -665,7 +665,7 @@
 		"[english]asw_weapon_empty"		"Empty Handed"
 		"asw_weapon_altfire_none"		"Nenhum"
 		"[english]asw_weapon_altfire_none"		"None"
-		"asw_weapon_altfire_NA"		"N/A"
+		"asw_weapon_altfire_NA"		"Nenhum"
 		"[english]asw_weapon_altfire_NA"		"N/A"
 		"asw_weapon_rifle"		"Fuzil de Assalto"
 		"[english]asw_weapon_rifle"		"Assault Rifle"
