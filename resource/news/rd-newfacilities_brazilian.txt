@@ -1,0 +1,9 @@
+GAME
+{
+	"Headline"	"Tirando o Velho e Colocando o Novo!"
+	"HeadlineDate"	"02/02/54"
+	"Paragraph1"	"Os novos sistemas e instalações da colônia ficaram oficialmente online hoje. Os colonos do oásis não precisam mais abaixar a cabeça de vergonha, pois agora ostentamos uma das colônias mais modernas conhecidas pelo homem."
+	"Paragraph2"	"Os sistemas antigos já haviam passado do tempo de desativação, sendo como eram os sistemas originais que foram construídos quando a colônia foi fundada. A conclusão chega bem a tempo de marcar o 23º aniversário da chegada ao planeta aqui no Oasis, o que significa que não veremos novamente os apagões contínuos durante as comemorações do ano passado."
+	"Paragraph3"	"Os novos sistemas incluem um facilitador de comunicação integrada, uma expansão das instalações médicas e uma grande reforma na rede elétrica da colônia."
+	"Paragraph4"	"No geral, é um grande dia aqui no Oasis. Finalmente, a administração gostaria de desejar a todos um feliz chegada ao planeta!"
+}

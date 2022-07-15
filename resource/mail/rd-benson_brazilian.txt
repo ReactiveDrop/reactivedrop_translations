@@ -1,0 +1,22 @@
+GAME
+{
+    // PDA pertence ao George Benson
+    
+    // Caixa de entrada 
+	"MailFrom1"     "De: Envios e Armazenamentos"
+	"MailDate1"     "Data: 24/10/53"
+	"MailSubject1"   "Assunto: Re: Motoserra?!"
+	"MailBody1A"     "Ei George,"
+	"MailBody1B"     "Desculpe pela confusão. Vou me certificar de que lhe enviaremos esses suprimentos médicos na semana que vem."
+	"MailBody1C"     "Quanto à motosserra, jogue-a de um penhasco ou algo assim. Algum idiota encomendou um monte deles por engano e eu to com elas paradas no armazém ocupando espaço desde então. Como se precisássemos de motosserras nesta rocha!"
+	"MailBody1D"     "- Bob Vernes, Chefe da Envios e Armazenamentos"
+
+   // Enviados
+	"MailFrom3"	"Para: Envios e Armazenamentos"
+	"MailDate3"	"Data: 23/10/53"
+	"MailSubject3"	"Assunto: Motoserra?!"
+	"MailBody3A"	"Envios e Armazenamentos,"
+	"MailBody3B"	"Encomendei alguns suprimentos médicos para o posto avançado de comunicação, mas quando a entrega semanal chegou, fiquei surpreso ao descobrir que você nos enviou uma motosserra?! Você poderia se certificar de que receberemos os suprimentos médicos na próxima entrega?. Enquanto isso, vou pedir para alguém enviar a motosserra de volta para você."
+	"MailBody3C"	"De qualquer maneira por quê nós temos motoserras???"
+	"MailBody3D"    "- George Benson, Oficial de comunicações"
+}

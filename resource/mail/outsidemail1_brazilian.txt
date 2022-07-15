@@ -1,0 +1,24 @@
+GAME
+{
+    // PDA pertence ao Ten Cain
+    
+    // Caixa de entrada
+    
+	"MailFrom1"	"De: Shaun Ming"
+	"MailDate1"	"Data: 21/12/52"
+	"MailSubject1"	"Assunto: Descoberta"
+	"MailBody1A"	"Ten. Cain,"
+	"MailBody1B"	"Grande descoberta hoje.  Consegui isolar e decodificar grandes pedaços da planta genética da forma de vida alienígena. Essa criatura é incrível, nunca vi nada parecido com isso. Eu também aprendi muito sobre o ciclo de vida alienígena. Agora a parte desagradável:"
+	"MailBody1C"	"Eu preciso que você tire todos dos laboratórios, exceto os cientistas que trabalham comigo. Ninguém deve ser autorizado a entrar no Convés 2. Para testar minhas suposições sobre como o Enxame atinge a maturidade, Eu preciso de algo vivo. Acredito que teria que ser pelo menos do tamanho de um cachorro para satisfazerem seus apetites. Posso contar com você?"
+	"MailBody1D"	"S. Ming"
+
+    // Enviados
+    
+	"MailFrom3"	"De: Shaun Ming"
+	"MailDate3" "Data: 21/12/52"
+	"MailSubject3"	"Assunto: Re: Descoberta"
+	"MailBody3A"	"Sr Ming,"
+	"MailBody3B"	"1) Considere isso feito."
+	"MailBody3C"	"2) Verei o que posso fazer."
+	"MailBody3D"	"Ten. Cain, Segurança da SynTek."
+}

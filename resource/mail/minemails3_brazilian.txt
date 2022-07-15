@@ -1,0 +1,33 @@
+GAME
+{
+    // PDA pertence a Brad Campbell
+    
+    // Caixa de entrada
+    
+	"MailFrom1"	"De: David Anders"
+	"MailDate1"	"Data: 12/12/52"
+	"MailSubject1"	"Assunto: Trajes de ambiente."
+	"MailBody1A"	"Credo Brad, esse calor está ficando insuportável. Encontramos outro campo de lava perto do túnel 11, então as coisas provavelmente não vão melhorar.  E aqueles trajes de ambiente?"
+	"MailBody1B"	"Dave"
+	
+	"MailFrom2"	"De: David Anders"
+	"MailDate2"	"Data: 14/12/52"
+	"MailSubject2"	"Assunto: Daxol"
+	"MailBody2A"	"Brad,"
+	"MailBody2B"    "Caramba.  Eu falei com o Pete e o Kovac.  Eles admitem abertamente que as pessoas começaram a usar Daxol de novo regularmente.  Justo quando pensamos que as coisas estavam voltando ao normal.  O que você quer que eu faça?"
+	
+	// Enviados
+
+	"MailFrom3"	"Para: David Anders"
+	"MailDate3"	"Data: 12/12/52"
+	"MailSubject3"	"Assunto: Re: Trajes de ambiente"
+	"MailBody3A"	"Oi Dave,"
+	"MailBody3B"	"Eu os encomendei faz muito tempo.  Não sei por que eles não estavam no último transporte de suprimentos.  Tudo o que posso fazer é reclamar, que é o que estou fazendo, mas você sabe o quanto isso ajuda. A propósito, Ouvi rumores sobre o abuso de Daxol aumentando novamente.  Você poderia ficar de olho?"
+	"MailBody3C"	"Agradeço, Brad."
+
+	"MailFrom4"	"Para: David Anders"
+	"MailDate4"	"Data: 14/12/52"
+	"MailSubject4"	"Assunto: Re: Daxol"
+	"MailBody4A"	"David,"
+	"MailBody4B"    "Valeu.  Vou bater um papo com eles.  Eu não quero reportar isso.  Eu sempre disse que os trabalhadores deveriam ser pagos por hora, não pelo quão rápido eles podem cavar buracos naquela maldita rocha.  Não podemos fazer muito sobre isso."
+}

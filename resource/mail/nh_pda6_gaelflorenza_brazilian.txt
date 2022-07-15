@@ -1,0 +1,14 @@
+GAME
+{
+    // PDA pertence ao Tenente Gael Florenza
+    
+    // Enviados
+
+	"MailFrom3"     "Para: Iris Florenza"
+	"MailDate3"		"Data: 31/03/43"
+	"MailSubject3"	"Assunto: Nam Humanum."
+	"MailBody3A"    "[Falha no envio: comunicações com o mundo de fora restritas]"
+	"MailBody3B"	"Iris, amor da minha vida. Esta mensagem, assim como a última que te enviei, será interceptada pela equipe de comunicação no momento que programar seu envio, 3 horas a partir de agora. Mas talvez algum dia isso finalmente chegue até você, de uma forma ou de outra."
+	"MailBody3C"    "Estou prestes a pegar em armas contra Moreau e seus experimentos desumanos. Eu tenho o apoio de muitos colonos, bem como o apoio da minha unidade. Apesar disso, temo e sei que pode ser uma passagem só de ida para muitos de nós. Sinto muito, meu amor. Eu tentei me convencer do mérito de tudo, de verdade. Eu sinto muito, por você e pelo menino que nunca vai me conhecer. Mas como eu poderia ser o pai de uma criança sem humanidade para transmitir."
+	"MailBody3D"    "Para sempre seu."
+}

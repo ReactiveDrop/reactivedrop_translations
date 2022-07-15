@@ -1,0 +1,18 @@
+GAME
+{
+    // PDA pertence ao Ian Cook
+
+    // Enviados
+	"MailFrom3"	"Para: Funcionários do Hospital SynTek"
+	"MailDate3"	"Data: 16/03/46"
+	"MailSubject3"	"Assunto: Precisamos de um plano"
+	"MailBody3A"	"Alguém precisa descobrir uma solução mais permanente. Não podemos manter os experimentos trancados em nosso porão para sempre..."
+
+	"MailFrom4"	"Para: Funcionários do Hospital SynTek"
+	"MailDate4"	"Data: 17/03/46"
+	"MailSubject4"	"Assunto: Eu encontrei uma saída"
+	"MailBody4A"	"Estamos quase prontos para partir. Espero que eu ainda tenha tempo suficiente para dar o fora. Eu já movi todo o equipamento de que preciso, então todos os outros devem tentar o seu melhor para chegar ao transporte."
+	"MailBody4B"	"Mas tudo isso não importa mais; o que importa é impedir a propagação dos experimentos. Eu preparei uma neurotoxina solúvel em água com a qual pretendo inundar as instalações. Eu testei e provou ser extremamente eficaz."
+	"MailBody4C"	"Vou implantar a neurotoxina de dentro das bombas d'agua perto do canto noroeste do prédio. Vou inundar o prédio com água, então é melhor todos saírem de lá."
+	"MailBody4D"	"TO compressor está quase pronto. Tudo o que preciso fazer é abrir essas portas e chegar naquele prédio."
+}

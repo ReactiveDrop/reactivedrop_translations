@@ -1,0 +1,19 @@
+GAME
+{
+    // PDA pertence ao Sr Tanner
+    
+    // Caixa de entrada
+    
+	"MailFrom1"	"De: Kate Edwards"
+	"MailDate1"	"Data: 22/12/52"
+	"MailSubject1"	"Assunto: Timothy"
+	"MailBody1A"	"Caro Sr. Tanner,"
+	"MailBody1B"	"Você viu Timothy por acaso?  Aquele gato estúpido não voltou para casa.  Eu sei que ele gosta de você, então, se ele aparecer, você se importaria de me ligar?  Obrigada."
+	"MailBody1C"	"K. Edwards"
+
+	"MailFrom2"	"De: Muriel Blanc"
+	"MailDate2"	"Data: 21/12/52"
+	"MailSubject2"	"Assunto: Cara Srta. Kate Edwards"
+	"MailBody2A"	"Nossos oficiais de serviço encontraram seis garrafas de Isothamine 23 quando escanearam o pedido 9476-B. Esta entrega foi endereçada a você. Como você sem dúvida está ciente, é ilegal comprar, possuir ou vender este produto em qualquer lugar da Orla Exterior.  (#205-P/7.7.12)  Por favor ligue (+34987) e faça um acordo com um de nossos agentes de segurança imediatamente."
+	"MailBody2B"	"Muriel Blanc, Alfândegas e Impostos SynTek"
+}

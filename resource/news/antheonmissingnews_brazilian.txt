@@ -1,0 +1,9 @@
+GAME
+{
+	"Headline"	"Fuzileiros da FAI desaparecidos em Moonspire"
+	"HeadlineDate"	"19/12/52"
+	"Paragraph1"	"150 fuzileitos da FAI ainda estão desaparecidos após o último ataque do Enxame perto da colônia Moonspire em Antheon Prime, de acordo com um oficial sênior da FAI em uma recente entrevista coletiva realizada a bordo da USS Resistência."
+	"Paragraph2"	"Uma divisão de infantaria de 208 fuzileiros foi atacada pelo Enxame há dois dias, enquanto procura os restos de um posto avançado por possíveis sobreviventes civis."
+	"Paragraph3"	"'Há um esforço contínuo para encontrar os fuzileiros desaparecidos,' disse o General C. Morrison, 'recebemos um sinal de socorro por volta das 02:00, mas o paradeiro da Compania 212 ainda é desconhecido neste momento.'"
+	"Paragraph4"	"'Este é um dia negro para a FAI, mas devemos lutar,' disso Morrison."
+}
