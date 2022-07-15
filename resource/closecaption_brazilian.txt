@@ -1,6 +1,6 @@
 ﻿"lang"
 { 
-"Language" "Brazilian" 
+"Language" "brazilian" 
 "Tokens" 
 { 
 	"testcommands"			"<clr:255,0,0>Isso é vermelho<I> e itálicos<B> e<cr>negríto<B><I><clr:255,255,255> branco denovo."

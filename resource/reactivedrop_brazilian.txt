@@ -1,6 +1,6 @@
 ﻿"lang"
 {
-"Language"		"Brazilian"
+"Language"		"brazilian"
 "Tokens"
 {
 		"asw_SynTekMegacorp"		"Megacorporação SynTek, Inc."
