@@ -1,6 +1,6 @@
 ﻿"lang"
 { 
-"Language" "English" 
+"Language"	"English" 
 "Tokens" 
 { 
 	"testcommands"			"<clr:255,0,0>This is red<I> and italics<B> and<cr>bold<B><I><clr:255,255,255> white again."
@@ -17,11 +17,11 @@
 
 "Command.co_m1_ob5"	"<clr:240,255,255>Commander: I'm picking up multiple inbound motion signatures.  Something tells me these ain't friendlies.  Try to hold out until the elevator arrives."
 
-"Command.co_m1_ob6" "<clr:240,255,255>Commander: We better get to the colony to see what we can find."
+"Command.co_m1_ob6"	"<clr:240,255,255>Commander: We better get to the colony to see what we can find."
 
-"Command.co_m1_ob7" "<clr:240,255,255>Commander: We can't get to the colony from up here, we need to get down to the lower level."
+"Command.co_m1_ob7"	"<clr:240,255,255>Commander: We can't get to the colony from up here, we need to get down to the lower level."
 
-"Command.co_m1_ob8" "<clr:240,255,255>Commander: Get to the exit!"
+"Command.co_m1_ob8"	"<clr:240,255,255>Commander: Get to the exit!"
 
 "Command.co_m2_ob1"	"<clr:240,255,255>Commander: The situation isn't pretty.  This next sector is completely overrun.  There's a pipeline that the Swarm's using as a superhighway to spread through the colony.  You go ahead and find the pipeline, and I'll see if we can figure out a way to destroy it. We need to stop these bugs from getting out."
 
@@ -37,7 +37,7 @@
 
 "Command.co_m2_ob7"	"<clr:240,255,255>Commander: Okay, I'm gonna bring Bloodhound in low and hover.  You climb across her back while she's waiting.  Step lightly now.  She's gotta bring you home at the end of this."
 
-"Command.co_m2_ob8" "<clr:240,255,255>Commander: Colony reactor is dead ahead."
+"Command.co_m2_ob8"	"<clr:240,255,255>Commander: Colony reactor is dead ahead."
 
 "Command.co_m3_ob1"	"<clr:240,255,255>Commander: Okay Squad, command wants the computers up and running.  The colony's reactor was knocked offline by the Swarm attack, so you need to find your way to the reactor core and get that juice back on in there."
 
@@ -51,9 +51,9 @@
 
 "Command.co_m4_ob3"	"<clr:240,255,255>Commander: All right, you've almost cleared out the last of it.  Keep pushing forward."
 
-"Command.co_m4_ob4" "<clr:240,255,255>Commander: Just a few more eggs to go."
+"Command.co_m4_ob4"	"<clr:240,255,255>Commander: Just a few more eggs to go."
 
-"Command.co_m4_ob5" "<clr:240,255,255>Commander: You cleared out the area, time to get to the Swarm nest. Take the elevator down."
+"Command.co_m4_ob5"	"<clr:240,255,255>Commander: You cleared out the area, time to get to the Swarm nest. Take the elevator down."
 
 "Command.co_m5_ob1"	"<clr:240,255,255>Commander: Okay Squad.  I'm picking up major swarm at sewer junction 16."
 
@@ -83,49 +83,49 @@
 
 "Command.co_m6_ob9"	"<clr:240,255,255>Commander: Gang, you need to be high speed, low drag on this operation."
 
-"Command.co_m6_ob10" "<clr:240,255,255>Commander: Time is running out!  You've got to pick up the pace."
+"Command.co_m6_ob10"	"<clr:240,255,255>Commander: Time is running out!  You've got to pick up the pace."
 
-"Command.co_m6_ob11" "<clr:240,255,255>Commander: You need to hustle.  You're almost out of time."
+"Command.co_m6_ob11"	"<clr:240,255,255>Commander: You need to hustle.  You're almost out of time."
 
-"Command.co_m6_ob12" "<clr:240,255,255>Commander: Squad, you need to run like your lives depend on it.  'Cuz they do!"
+"Command.co_m6_ob12"	"<clr:240,255,255>Commander: Squad, you need to run like your lives depend on it.  'Cuz they do!"
 
-"Command.co_m6_ob13" "<clr:240,255,255>Commander: There's not much time left."
+"Command.co_m6_ob13"	"<clr:240,255,255>Commander: There's not much time left."
 
-"Command.co_m6_ob14" "<clr:240,255,255>Commander: You're running out of time!"
+"Command.co_m6_ob14"	"<clr:240,255,255>Commander: You're running out of time!"
 
-"Command.co_m6_ob15" "<clr:240,255,255>Commander: Pick up the pace, or you're not going to make it!"
+"Command.co_m6_ob15"	"<clr:240,255,255>Commander: Pick up the pace, or you're not going to make it!"
 
-"Command.co_m6_ob16" "<clr:240,255,255>Commander: Squad, you need to get out of there, NOW!"
+"Command.co_m6_ob16"	"<clr:240,255,255>Commander: Squad, you need to get out of there, NOW!"
 
-"Command.co_m6_ob17" "<clr:240,255,255>Commander: Ten seconds left!"
+"Command.co_m6_ob17"	"<clr:240,255,255>Commander: Ten seconds left!"
 
-"Command.co_m6_ob18" "<clr:240,255,255>Commander: You almost made it."
+"Command.co_m6_ob18"	"<clr:240,255,255>Commander: You almost made it."
 
-"Command.co_m6_ob19" "<clr:240,255,255>Commander: I'm sorry.  I'll notify your next of kin."
+"Command.co_m6_ob19"	"<clr:240,255,255>Commander: I'm sorry.  I'll notify your next of kin."
 
-"Command.co_m6_ob20" "<clr:240,255,255>Commander: It was an honor serving with you.  You will be remembered."
+"Command.co_m6_ob20"	"<clr:240,255,255>Commander: It was an honor serving with you.  You will be remembered."
 
-"Command.co_m6_ob21" "<clr:240,255,255>Commander: It was an honor to serve with each and every one of you.  You made the ultimate sacrifice."
+"Command.co_m6_ob21"	"<clr:240,255,255>Commander: It was an honor to serve with each and every one of you.  You made the ultimate sacrifice."
 
-"Command.co_m6_ob22" "<clr:240,255,255>Commander: Good work, mission accomplished!"
+"Command.co_m6_ob22"	"<clr:240,255,255>Commander: Good work, mission accomplished!"
 
-"Command.co_m6_ob23" "<clr:240,255,255>Commander: Mission accomplished!"
+"Command.co_m6_ob23"	"<clr:240,255,255>Commander: Mission accomplished!"
 
-"Command.co_m6_ob24" "<clr:240,255,255>Commander: You did it!  The bomb's gone off!  The Swarm threat has been exterminated."
+"Command.co_m6_ob24"	"<clr:240,255,255>Commander: You did it!  The bomb's gone off!  The Swarm threat has been exterminated."
 
-"Command.co_m6_ob25" "<clr:240,255,255>Commander: The nuke is blocked! Clear up the biomass to free it up!"
+"Command.co_m6_ob25"	"<clr:240,255,255>Commander: The nuke is blocked! Clear up the biomass to free it up!"
 
-"Command.co_m6_ob26" "<clr:240,255,255>Commander: Landing pads overun! Bloodhound's coming in! Jump on our back and we'll get you out of there!"
+"Command.co_m6_ob26"	"<clr:240,255,255>Commander: Landing pads overun! Bloodhound's coming in! Jump on our back and we'll get you out of there!"
 
-"Command.co_m6_ob27" "<clr:240,255,255>Commander: Yeah! We made it!"
+"Command.co_m6_ob27"	"<clr:240,255,255>Commander: Yeah! We made it!"
 
-"Command.co_hold_ob1" "<clr:240,255,255>Commander: Alright, squad, you made it to the extraction zone.  Command ship is inbound.  You just need to hold out until I get there."
+"Command.co_hold_ob1"	"<clr:240,255,255>Commander: Alright, squad, you made it to the extraction zone.  Command ship is inbound.  You just need to hold out until I get there."
 
-"Command.co_hold_ob2" "<clr:240,255,255>Commander: Almost there, squad."
+"Command.co_hold_ob2"	"<clr:240,255,255>Commander: Almost there, squad."
 
-"Command.co_hold_ob3" "<clr:240,255,255>Commander: Hang in there, squad.  I'm on my way!"
+"Command.co_hold_ob3"	"<clr:240,255,255>Commander: Hang in there, squad.  I'm on my way!"
 
-"Command.co_hold_ob4" "<clr:240,255,255>Commander: Coming in hot!"
+"Command.co_hold_ob4"	"<clr:240,255,255>Commander: Coming in hot!"
 
 "Command.co_debriefing_ob1"	"<clr:240,255,255>Commander: Objective completed!  Good work, marines."
 
@@ -145,7 +145,7 @@
 
 "Command.co_debriefing_ob9"	"<clr:240,255,255>Commander: Excellent work, Commander.  The thermonuclear device detonated by your squad has destroyed the bulk of the Swarm forces beneath the surface.  We estimate in excess of 200 eggs and countless Swarm drones have been wiped out by the detonation."
 
-"Command.co_debriefing_ob10" "<clr:240,255,255>Commander: We are still detecting a single large heat source in a deep, well protected chamber.  IAF Command is making investigation of this a priority."
+"Command.co_debriefing_ob10"	"<clr:240,255,255>Commander: We are still detecting a single large heat source in a deep, well protected chamber.  IAF Command is making investigation of this a priority."
 
 //Bastille
 
@@ -1912,1358 +1912,1358 @@
 
 //Sarge
 
-"sarge.SargeIdle0" "<clr:238,207,161>Sarge: You know the claws on a swarm drone can rip right through our armor."
+"sarge.SargeIdle0"	"<clr:238,207,161>Sarge: You know the claws on a swarm drone can rip right through our armor."
 
 
-"sarge.SargeIdle1" "<clr:238,207,161>Sarge: I once saw a marine have his hand bitten clean off by one of these things."
+"sarge.SargeIdle1"	"<clr:238,207,161>Sarge: I once saw a marine have his hand bitten clean off by one of these things."
 
 
-"sarge.SargeIdleReply0" "<clr:238,207,161>Sarge: Watch your mouth, Marine."
+"sarge.SargeIdleReply0"	"<clr:238,207,161>Sarge: Watch your mouth, Marine."
 
 
-"sarge.SargeIdleReply1" "<clr:238,207,161>Sarge: You secure that shit."
+"sarge.SargeIdleReply1"	"<clr:238,207,161>Sarge: You secure that shit."
 
 
-"sarge.BigAlienDeadReply0" "<clr:238,207,161>Sarge: Yeah, getting ugly."
+"sarge.BigAlienDeadReply0"	"<clr:238,207,161>Sarge: Yeah, getting ugly."
 
 
-"sarge.MedicComplainReply0" "<clr:238,207,161>Sarge: That's part of the job."
+"sarge.MedicComplainReply0"	"<clr:238,207,161>Sarge: That's part of the job."
 
 
-"sarge.TequilaReply0" "<clr:238,207,161>Sarge: Hey, no drinking on the job."
+"sarge.TequilaReply0"	"<clr:238,207,161>Sarge: Hey, no drinking on the job."
 
 
-"sarge.TequilaReply1" "<clr:238,207,161>Sarge: You know what they got in the supply closet?  That stuff kicks you in the head."
+"sarge.TequilaReply1"	"<clr:238,207,161>Sarge: You know what they got in the supply closet?  That stuff kicks you in the head."
 
 
-"sarge.CrashIdleReply0" "<clr:238,207,161>Sarge: Did you sleep through the briefing again?"
+"sarge.CrashIdleReply0"	"<clr:238,207,161>Sarge: Did you sleep through the briefing again?"
 
 
-"sarge.InjuredSelection0" "<clr:238,207,161>Sarge: My first campaign wasn't this tough."
+"sarge.InjuredSelection0"	"<clr:238,207,161>Sarge: My first campaign wasn't this tough."
 
 
-"sarge.InjuredSelection1" "<clr:238,207,161>Sarge: We should pull back and reassess this."
+"sarge.InjuredSelection1"	"<clr:238,207,161>Sarge: We should pull back and reassess this."
 
 
-"sarge.InjuredSelection2" "<clr:238,207,161>Sarge: Make it quick."
+"sarge.InjuredSelection2"	"<clr:238,207,161>Sarge: Make it quick."
 
 
-"sarge.InjuredSelection3" "<clr:238,207,161>Sarge: This is tough."
+"sarge.InjuredSelection3"	"<clr:238,207,161>Sarge: This is tough."
 
 
-"sarge.SeriousInjuryReply0" "<clr:238,207,161>Sarge: Shit, it's not that bad."
+"sarge.SeriousInjuryReply0"	"<clr:238,207,161>Sarge: Shit, it's not that bad."
 
 
-"sarge.SeriousInjuryReply1" "<clr:238,207,161>Sarge: Shit, it ain't that bad."
+"sarge.SeriousInjuryReply1"	"<clr:238,207,161>Sarge: Shit, it ain't that bad."
 
 
-"sarge.AutogunReply0" "<clr:238,207,161>Sarge: Shoot em up, cut em down."
+"sarge.AutogunReply0"	"<clr:238,207,161>Sarge: Shoot em up, cut em down."
 
 
-"sarge.AutogunReply1" "<clr:238,207,161>Sarge: Yeah, show em what you got!"
+"sarge.AutogunReply1"	"<clr:238,207,161>Sarge: Yeah, show em what you got!"
 
 
-"sarge.AutogunReply2" "<clr:238,207,161>Sarge: Shoot em up, cut em down!"
+"sarge.AutogunReply2"	"<clr:238,207,161>Sarge: Shoot em up, cut em down!"
 
 
-"sarge.Use0" "<clr:238,207,161>Sarge: Roger."
+"sarge.Use0"	"<clr:238,207,161>Sarge: Roger."
 
 
-"sarge.Use1" "<clr:238,207,161>Sarge: Got it!"
+"sarge.Use1"	"<clr:238,207,161>Sarge: Got it!"
 
 
-"sarge.Use2" "<clr:238,207,161>Sarge: Looks good."
+"sarge.Use2"	"<clr:238,207,161>Sarge: Looks good."
 
 
-"sarge.Use3" "<clr:238,207,161>Sarge: Okay."
+"sarge.Use3"	"<clr:238,207,161>Sarge: Okay."
 
 
-"sarge.Idle0" "<clr:238,207,161>Sarge: Stay alert people, there's still plenty of ass waiting to be kicked."
+"sarge.Idle0"	"<clr:238,207,161>Sarge: Stay alert people, there's still plenty of ass waiting to be kicked."
 
 
-"sarge.Idle1" "<clr:238,207,161>Sarge: Why can't Syntek ever do anything by the books."
+"sarge.Idle1"	"<clr:238,207,161>Sarge: Why can't Syntek ever do anything by the books."
 
 
-"sarge.Idle2" "<clr:238,207,161>Sarge: Watch your spacing, team."
+"sarge.Idle2"	"<clr:238,207,161>Sarge: Watch your spacing, team."
 
 
-"sarge.Idle3" "<clr:238,207,161>Sarge: Remember your training, marines."
+"sarge.Idle3"	"<clr:238,207,161>Sarge: Remember your training, marines."
 
 
-"sarge.Idle4" "<clr:238,207,161>Sarge: Stay sharp, marines."
+"sarge.Idle4"	"<clr:238,207,161>Sarge: Stay sharp, marines."
 
 
-"sarge.Idle5" "<clr:238,207,161>Sarge: Stay sharp, look alive."
+"sarge.Idle5"	"<clr:238,207,161>Sarge: Stay sharp, look alive."
 
 
-"sarge.Idle6" "<clr:238,207,161>Sarge: There's a lot more swarm to kill yet."
+"sarge.Idle6"	"<clr:238,207,161>Sarge: There's a lot more swarm to kill yet."
 
 
-"sarge.Idle7" "<clr:238,207,161>Sarge: I love this job."
+"sarge.Idle7"	"<clr:238,207,161>Sarge: I love this job."
 
 
-"sarge.Idle8" "<clr:238,207,161>Sarge: Ah, another fine day in the Interstellar Armed Forces."
+"sarge.Idle8"	"<clr:238,207,161>Sarge: Ah, another fine day in the Interstellar Armed Forces."
 
 
-"sarge.Idle9" "<clr:238,207,161>Sarge: So far, so good."
+"sarge.Idle9"	"<clr:238,207,161>Sarge: So far, so good."
 
 
-"sarge.Idle10" "<clr:238,207,161>Sarge: So far, so good."
+"sarge.Idle10"	"<clr:238,207,161>Sarge: So far, so good."
 
 
-"sarge.Idle11" "<clr:238,207,161>Sarge: After this, I'm retiring."
+"sarge.Idle11"	"<clr:238,207,161>Sarge: After this, I'm retiring."
 
 
-"sarge.Idle12" "<clr:238,207,161>Sarge: This is the Interstellar Armed Forces, not a Gaddamned picnic."
+"sarge.Idle12"	"<clr:238,207,161>Sarge: This is the Interstellar Armed Forces, not a Gaddamned picnic."
 
 
-"sarge.Idle13" "<clr:238,207,161>Sarge: Well, time to earn those paychecks."
+"sarge.Idle13"	"<clr:238,207,161>Sarge: Well, time to earn those paychecks."
 
 
-"sarge.Idle14" "<clr:238,207,161>Sarge: Check your corners."
+"sarge.Idle14"	"<clr:238,207,161>Sarge: Check your corners."
 
 
-"sarge.Idle15" "<clr:238,207,161>Sarge: Secure the perimeter."
+"sarge.Idle15"	"<clr:238,207,161>Sarge: Secure the perimeter."
 
 
-"sarge.Idle16" "<clr:238,207,161>Sarge: Proceed by squads, we got a job to do."
+"sarge.Idle16"	"<clr:238,207,161>Sarge: Proceed by squads, we got a job to do."
 
 
-"sarge.Idle17" "<clr:238,207,161>Sarge: Let's do this by the book."
+"sarge.Idle17"	"<clr:238,207,161>Sarge: Let's do this by the book."
 
 
-"sarge.FF0" "<clr:238,207,161>Sarge: Check your targets!"
+"sarge.FF0"	"<clr:238,207,161>Sarge: Check your targets!"
 
 
-"sarge.FF1" "<clr:238,207,161>Sarge: Watch it, you hear?"
+"sarge.FF1"	"<clr:238,207,161>Sarge: Watch it, you hear?"
 
 
-"sarge.FiringAtAlien0" "<clr:238,207,161>Sarge: Contact!"
+"sarge.FiringAtAlien0"	"<clr:238,207,161>Sarge: Contact!"
 
 
-"sarge.FiringAtAlien1" "<clr:238,207,161>Sarge: Let em have it!"
+"sarge.FiringAtAlien1"	"<clr:238,207,161>Sarge: Let em have it!"
 
 
-"sarge.FiringAtAlien2" "<clr:238,207,161>Sarge: Arrrgh!"
+"sarge.FiringAtAlien2"	"<clr:238,207,161>Sarge: Arrrgh!"
 
 
-"sarge.FiringAtAlien3" "<clr:238,207,161>Sarge: Target!"
+"sarge.FiringAtAlien3"	"<clr:238,207,161>Sarge: Target!"
 
 
-"sarge.FollowMe0" "<clr:238,207,161>Sarge: Follow me!"
+"sarge.FollowMe0"	"<clr:238,207,161>Sarge: Follow me!"
 
 
-"sarge.FollowMe1" "<clr:238,207,161>Sarge: Let's move on out, soldiers!"
+"sarge.FollowMe1"	"<clr:238,207,161>Sarge: Let's move on out, soldiers!"
 
 
-"sarge.FollowMe2" "<clr:238,207,161>Sarge: Saddle up."
+"sarge.FollowMe2"	"<clr:238,207,161>Sarge: Saddle up."
 
 
-"sarge.HoldPosition0" "<clr:238,207,161>Sarge: Hold position."
+"sarge.HoldPosition0"	"<clr:238,207,161>Sarge: Hold position."
 
 
-"sarge.HoldPosition1" "<clr:238,207,161>Sarge: Wait here."
+"sarge.HoldPosition1"	"<clr:238,207,161>Sarge: Wait here."
 
 
-"sarge.NeedAmmo0" "<clr:238,207,161>Sarge: Need ammo!"
+"sarge.NeedAmmo0"	"<clr:238,207,161>Sarge: Need ammo!"
 
 
-"sarge.NoAmmo0" "<clr:238,207,161>Sarge: Shit, out of ammo."
+"sarge.NoAmmo0"	"<clr:238,207,161>Sarge: Shit, out of ammo."
 
 
-"sarge.NoAmmo1" "<clr:238,207,161>Sarge: No ammo."
+"sarge.NoAmmo1"	"<clr:238,207,161>Sarge: No ammo."
 
 
-"sarge.NoAmmo2" "<clr:238,207,161>Sarge: Damn, out of ammo."
+"sarge.NoAmmo2"	"<clr:238,207,161>Sarge: Damn, out of ammo."
 
 
-"sarge.NoAmmo3" "<clr:238,207,161>Sarge: I'm out of ammo."
+"sarge.NoAmmo3"	"<clr:238,207,161>Sarge: I'm out of ammo."
 
 
-"sarge.SargeJaegerConv10" "<clr:238,207,161>Sarge: Just like back in 38, eh Jaeger?"
+"sarge.SargeJaegerConv10"	"<clr:238,207,161>Sarge: Just like back in 38, eh Jaeger?"
 
 
-"sarge.SargeJaegerConv11" "<clr:238,207,161>Sarge: This place reminds me of Tilarus-9."
+"sarge.SargeJaegerConv11"	"<clr:238,207,161>Sarge: This place reminds me of Tilarus-9."
 
 
-"sarge.SargeJaegerConv1Reply0" "<clr:238,207,161>Sarge: Well, we made it through last time."
+"sarge.SargeJaegerConv1Reply0"	"<clr:238,207,161>Sarge: Well, we made it through last time."
 
 
-"sarge.SargeJaegerConv1Reply1" "<clr:238,207,161>Sarge: I need a drink."
+"sarge.SargeJaegerConv1Reply1"	"<clr:238,207,161>Sarge: I need a drink."
 
 
-"sarge.SargeJaegerConv2Reply0" "<clr:238,207,161>Sarge: Yeah, and I though I'd served my time in hell."
+"sarge.SargeJaegerConv2Reply0"	"<clr:238,207,161>Sarge: Yeah, and I though I'd served my time in hell."
 
 
-"sarge.SargeJaegerConv2Reply1" "<clr:238,207,161>Sarge: I remember it.  I just hope it doesn't have to come to that."
+"sarge.SargeJaegerConv2Reply1"	"<clr:238,207,161>Sarge: I remember it.  I just hope it doesn't have to come to that."
 
 
-"sarge.Medic0" "<clr:238,207,161>Sarge: Medic!"
+"sarge.Medic0"	"<clr:238,207,161>Sarge: Medic!"
 
 
-"sarge.Misc0" "<clr:238,207,161>Sarge: Squad, form up."
+"sarge.Misc0"	"<clr:238,207,161>Sarge: Squad, form up."
 
 
-"sarge.Misc1" "<clr:238,207,161>Sarge: Secure the Perimeter, I want this place locked down nice and tight."
+"sarge.Misc1"	"<clr:238,207,161>Sarge: Secure the Perimeter, I want this place locked down nice and tight."
 
 
-"sarge.Misc2" "<clr:238,207,161>Sarge: Marines, into positions."
+"sarge.Misc2"	"<clr:238,207,161>Sarge: Marines, into positions."
 
 
-"sarge.Reloading0" "<clr:238,207,161>Sarge: Lock and load."
+"sarge.Reloading0"	"<clr:238,207,161>Sarge: Lock and load."
 
 
-"sarge.Reloading1" "<clr:238,207,161>Sarge: Reload."
+"sarge.Reloading1"	"<clr:238,207,161>Sarge: Reload."
 
 
-"sarge.Reloading2" "<clr:238,207,161>Sarge: Reload." 
+"sarge.Reloading2"	"<clr:238,207,161>Sarge: Reload." 
 
 
-"sarge.Reloading3" "<clr:238,207,161>Sarge: Reload, cover me!"
+"sarge.Reloading3"	"<clr:238,207,161>Sarge: Reload, cover me!"
 
 
-"sarge.SentryInPlace0" "<clr:238,207,161>Sarge: Sentry in place."
+"sarge.SentryInPlace0"	"<clr:238,207,161>Sarge: Sentry in place."
 
 
-"sarge.SentryInPlace1" "<clr:238,207,161>Sarge: Sentry online."
+"sarge.SentryInPlace1"	"<clr:238,207,161>Sarge: Sentry online."
 
 
-"sarge.SentryInPlace2" "<clr:238,207,161>Sarge: Sentry assembled."
+"sarge.SentryInPlace2"	"<clr:238,207,161>Sarge: Sentry assembled."
 
 
-"sarge.Ammo0" "<clr:238,207,161>Sarge: Ammo."
+"sarge.Ammo0"	"<clr:238,207,161>Sarge: Ammo."
 
 
-"sarge.Medkit0" "<clr:238,207,161>Sarge: Medkit."
+"sarge.Medkit0"	"<clr:238,207,161>Sarge: Medkit."
 
 
-"sarge.Thanks0" "<clr:238,207,161>Sarge: Thanks."
+"sarge.Thanks0"	"<clr:238,207,161>Sarge: Thanks."
 
 
-"sarge.Thanks1" "<clr:238,207,161>Sarge: Thanks, marine."
+"sarge.Thanks1"	"<clr:238,207,161>Sarge: Thanks, marine."
 
 
-"sarge.Question0" "<clr:238,207,161>Sarge: Huh?"
+"sarge.Question0"	"<clr:238,207,161>Sarge: Huh?"
 
 
-"sarge.Question1" "<clr:238,207,161>Sarge: What?"
+"sarge.Question1"	"<clr:238,207,161>Sarge: What?"
 
 
-"sarge.Question2" "<clr:238,207,161>Sarge: What is it, marine?"
+"sarge.Question2"	"<clr:238,207,161>Sarge: What is it, marine?"
 
 
-"sarge.Question3" "<clr:238,207,161>Sarge: Yeah?"
+"sarge.Question3"	"<clr:238,207,161>Sarge: Yeah?"
 
 
-"sarge.CallJaeger0" "<clr:238,207,161>Sarge: Jaeger?"
+"sarge.CallJaeger0"	"<clr:238,207,161>Sarge: Jaeger?"
 
 
-"sarge.CallJaeger1" "<clr:238,207,161>Sarge: Hey, Jaeger."
+"sarge.CallJaeger1"	"<clr:238,207,161>Sarge: Hey, Jaeger."
 
 
-"sarge.CallWildcat0" "<clr:238,207,161>Sarge: Wildcat."
+"sarge.CallWildcat0"	"<clr:238,207,161>Sarge: Wildcat."
 
 
-"sarge.CallWildcat1" "<clr:238,207,161>Sarge: Hey, Wildcat."
+"sarge.CallWildcat1"	"<clr:238,207,161>Sarge: Hey, Wildcat."
 
 
-"sarge.CallWolfe0" "<clr:238,207,161>Sarge: Hey, Wolfe."
+"sarge.CallWolfe0"	"<clr:238,207,161>Sarge: Hey, Wolfe."
 
 
-"sarge.CallWolfe1" "<clr:238,207,161>Sarge: Wolfe!"
+"sarge.CallWolfe1"	"<clr:238,207,161>Sarge: Wolfe!"
 
 
-"sarge.CallFaith0" "<clr:238,207,161>Sarge: Faith!"
+"sarge.CallFaith0"	"<clr:238,207,161>Sarge: Faith!"
 
 
-"sarge.CallFaith1" "<clr:238,207,161>Sarge: Hey, Faith!"
+"sarge.CallFaith1"	"<clr:238,207,161>Sarge: Hey, Faith!"
 
 
-"sarge.CallBastille0" "<clr:238,207,161>Sarge: Bastille!"
+"sarge.CallBastille0"	"<clr:238,207,161>Sarge: Bastille!"
 
 
-"sarge.CallBastille1" "<clr:238,207,161>Sarge: Hey, Bastille!"
+"sarge.CallBastille1"	"<clr:238,207,161>Sarge: Hey, Bastille!"
 
 
-"sarge.CallCrash0" "<clr:238,207,161>Sarge: Crash."
+"sarge.CallCrash0"	"<clr:238,207,161>Sarge: Crash."
 
 
-"sarge.CallCrash1" "<clr:238,207,161>Sarge: Hey, Crash."
+"sarge.CallCrash1"	"<clr:238,207,161>Sarge: Hey, Crash."
 
 
-"sarge.CallFlynn0" "<clr:238,207,161>Sarge: Flynn!"
+"sarge.CallFlynn0"	"<clr:238,207,161>Sarge: Flynn!"
 
 
-"sarge.CallFlynn1" "<clr:238,207,161>Sarge: Hey, Flynn."
+"sarge.CallFlynn1"	"<clr:238,207,161>Sarge: Hey, Flynn."
 
 
-"sarge.CallVegas0" "<clr:238,207,161>Sarge: Vegas!"
+"sarge.CallVegas0"	"<clr:238,207,161>Sarge: Vegas!"
 
 
-"sarge.CallVegas1" "<clr:238,207,161>Sarge: Hey, Vegas."
+"sarge.CallVegas1"	"<clr:238,207,161>Sarge: Hey, Vegas."
 
 
-"sarge.CallVegas2" "<clr:238,207,161>Sarge: Hey Vegas, listen up."
+"sarge.CallVegas2"	"<clr:238,207,161>Sarge: Hey Vegas, listen up."
 
 
-"sarge.SuppliesAmmo0" "<clr:238,207,161>Sarge: Good, supplies.  Take what you need."
+"sarge.SuppliesAmmo0"	"<clr:238,207,161>Sarge: Good, supplies.  Take what you need."
 
 
-"sarge.SuppliesAmmo1" "<clr:238,207,161>Sarge: Good, supplies.  Lock and load, marines."
+"sarge.SuppliesAmmo1"	"<clr:238,207,161>Sarge: Good, supplies.  Lock and load, marines."
 
 
-"sarge.SuppliesAmmo2" "<clr:238,207,161>Sarge: Take what you need, and stand to."
+"sarge.SuppliesAmmo2"	"<clr:238,207,161>Sarge: Take what you need, and stand to."
 
 
-"sarge.LockedTerminalCrash0" "<clr:238,207,161>Sarge: Terminal secure.  Crash, you're up."
+"sarge.LockedTerminalCrash0"	"<clr:238,207,161>Sarge: Terminal secure.  Crash, you're up."
 
 
-"sarge.LockedTerminalCrash1" "<clr:238,207,161>Sarge: Terminal secure.  Get your ass over here, Crash."
+"sarge.LockedTerminalCrash1"	"<clr:238,207,161>Sarge: Terminal secure.  Get your ass over here, Crash."
 
 
-"sarge.LockedTerminalFlynn0" "<clr:238,207,161>Sarge: Terminal secure.  Flynn, you're up."
+"sarge.LockedTerminalFlynn0"	"<clr:238,207,161>Sarge: Terminal secure.  Flynn, you're up."
 
 
-"sarge.LockedTerminalVegas0" "<clr:238,207,161>Sarge: Terminal secure.  Vegas, you're up."
+"sarge.LockedTerminalVegas0"	"<clr:238,207,161>Sarge: Terminal secure.  Vegas, you're up."
 
 
-"sarge.LockedTerminalVegas1" "<clr:238,207,161>Sarge: Terminal secure.  Vegas, get your ass up here."
+"sarge.LockedTerminalVegas1"	"<clr:238,207,161>Sarge: Terminal secure.  Vegas, get your ass up here."
 
 
-"sarge.LockedTerminal0" "<clr:238,207,161>Sarge: Terminal's secure."
+"sarge.LockedTerminal0"	"<clr:238,207,161>Sarge: Terminal's secure."
 
 
-"sarge.LockedTerminal1" "<clr:238,207,161>Sarge: It's locked."
+"sarge.LockedTerminal1"	"<clr:238,207,161>Sarge: It's locked."
 
 
-"sarge.LockedTerminal2" "<clr:238,207,161>Sarge: I need a tech here, on the double."
+"sarge.LockedTerminal2"	"<clr:238,207,161>Sarge: I need a tech here, on the double."
 
 
-"sarge.HoldingPosition0" "<clr:238,207,161>Sarge: Cover an area."
+"sarge.HoldingPosition0"	"<clr:238,207,161>Sarge: Cover an area."
 
 
-"sarge.HoldingPosition1" "<clr:238,207,161>Sarge: Securing area."
+"sarge.HoldingPosition1"	"<clr:238,207,161>Sarge: Securing area."
 
 
-"sarge.HoldingPosition2" "<clr:238,207,161>Sarge: Holding position."
+"sarge.HoldingPosition2"	"<clr:238,207,161>Sarge: Holding position."
 
 
-"sarge.HoldingNorth0" "<clr:238,207,161>Sarge: Covering north."
+"sarge.HoldingNorth0"	"<clr:238,207,161>Sarge: Covering north."
 
 
-"sarge.HoldingNorth1" "<clr:238,207,161>Sarge: Covering north side."
+"sarge.HoldingNorth1"	"<clr:238,207,161>Sarge: Covering north side."
 
 
-"sarge.HoldingNorth2" "<clr:238,207,161>Sarge: North side in position."
+"sarge.HoldingNorth2"	"<clr:238,207,161>Sarge: North side in position."
 
 
-"sarge.HoldingNorth3" "<clr:238,207,161>Sarge: North side standing to."
+"sarge.HoldingNorth3"	"<clr:238,207,161>Sarge: North side standing to."
 
 
-"sarge.HoldingSouth0" "<clr:238,207,161>Sarge: Covering south."
+"sarge.HoldingSouth0"	"<clr:238,207,161>Sarge: Covering south."
 
 
-"sarge.HoldingSouth1" "<clr:238,207,161>Sarge: Covering south side."
+"sarge.HoldingSouth1"	"<clr:238,207,161>Sarge: Covering south side."
 
 
-"sarge.HoldingSouth2" "<clr:238,207,161>Sarge: South side in position."
+"sarge.HoldingSouth2"	"<clr:238,207,161>Sarge: South side in position."
 
 
-"sarge.HoldingSouth3" "<clr:238,207,161>Sarge: South side standing to."
+"sarge.HoldingSouth3"	"<clr:238,207,161>Sarge: South side standing to."
 
 
-"sarge.HoldingEast0" "<clr:238,207,161>Sarge: Covering east."
+"sarge.HoldingEast0"	"<clr:238,207,161>Sarge: Covering east."
 
 
-"sarge.HoldingEast1" "<clr:238,207,161>Sarge: Covering east side."
+"sarge.HoldingEast1"	"<clr:238,207,161>Sarge: Covering east side."
 
 
-"sarge.HoldingEast2" "<clr:238,207,161>Sarge: East side in position."
+"sarge.HoldingEast2"	"<clr:238,207,161>Sarge: East side in position."
 
 
-"sarge.HoldingEast3" "<clr:238,207,161>Sarge: East side standing to."
+"sarge.HoldingEast3"	"<clr:238,207,161>Sarge: East side standing to."
 
 
-"sarge.HoldingWest0" "<clr:238,207,161>Sarge: Covering west."
+"sarge.HoldingWest0"	"<clr:238,207,161>Sarge: Covering west."
 
 
-"sarge.HoldingWest1" "<clr:238,207,161>Sarge: Covering west side."
+"sarge.HoldingWest1"	"<clr:238,207,161>Sarge: Covering west side."
 
 
-"sarge.HoldingWest2" "<clr:238,207,161>Sarge: West side in position."
+"sarge.HoldingWest2"	"<clr:238,207,161>Sarge: West side in position."
 
 
-"sarge.HoldingWest3" "<clr:238,207,161>Sarge: West side standing to."
+"sarge.HoldingWest3"	"<clr:238,207,161>Sarge: West side standing to."
 
 
-"sarge.GotPoint0" "<clr:238,207,161>Sarge: Conrad taking point."
+"sarge.GotPoint0"	"<clr:238,207,161>Sarge: Conrad taking point."
 
 
-"sarge.GotPoint1" "<clr:238,207,161>Sarge: Taking point."
+"sarge.GotPoint1"	"<clr:238,207,161>Sarge: Taking point."
 
 
-"sarge.GotRear0" "<clr:238,207,161>Sarge: Covering the rear."
+"sarge.GotRear0"	"<clr:238,207,161>Sarge: Covering the rear."
 
 
-"sarge.GotRear1" "<clr:238,207,161>Sarge: Conrad taking rear guard."
+"sarge.GotRear1"	"<clr:238,207,161>Sarge: Conrad taking rear guard."
 
 
-"sarge.GotRear2" "<clr:238,207,161>Sarge: I've got you're back."
+"sarge.GotRear2"	"<clr:238,207,161>Sarge: I've got you're back."
 
 
-"sarge.RequestSealDoor0" "<clr:238,207,161>Sarge: Get this door sealed, on the double."
+"sarge.RequestSealDoor0"	"<clr:238,207,161>Sarge: Get this door sealed, on the double."
 
 
-"sarge.RequestSealDoor1" "<clr:238,207,161>Sarge: I need this door sealed now."
+"sarge.RequestSealDoor1"	"<clr:238,207,161>Sarge: I need this door sealed now."
 
 
-"sarge.RequestSealDoor2" "<clr:238,207,161>Sarge: Seal it up, marines."
+"sarge.RequestSealDoor2"	"<clr:238,207,161>Sarge: Seal it up, marines."
 
 
-"sarge.RequestSealDoor3" "<clr:238,207,161>Sarge: I want this door secured."
+"sarge.RequestSealDoor3"	"<clr:238,207,161>Sarge: I want this door secured."
 
 
-"sarge.RequestCutDoor0" "<clr:238,207,161>Sarge: Get it open, marines."
+"sarge.RequestCutDoor0"	"<clr:238,207,161>Sarge: Get it open, marines."
 
 
-"sarge.RequestCutDoor1" "<clr:238,207,161>Sarge: Cut it open."
+"sarge.RequestCutDoor1"	"<clr:238,207,161>Sarge: Cut it open."
 
 
-"sarge.RequestCutDoor2" "<clr:238,207,161>Sarge: I want this door cut open."
+"sarge.RequestCutDoor2"	"<clr:238,207,161>Sarge: I want this door cut open."
 
 
-"sarge.RequestCutDoor3" "<clr:238,207,161>Sarge: What are you waiting for?  Cut it open!"
+"sarge.RequestCutDoor3"	"<clr:238,207,161>Sarge: What are you waiting for?  Cut it open!"
 
 
-"sarge.RequestCutDoor4" "<clr:238,207,161>Sarge: I want this door in two, you understand me?"
+"sarge.RequestCutDoor4"	"<clr:238,207,161>Sarge: I want this door in two, you understand me?"
 
 
-"sarge.RequestShootDoor0" "<clr:238,207,161>Sarge: All right, marines, blow it down!"
+"sarge.RequestShootDoor0"	"<clr:238,207,161>Sarge: All right, marines, blow it down!"
 
 
-"sarge.RequestShootDoor1" "<clr:238,207,161>Sarge: Okay, marines, shoot your way through."
+"sarge.RequestShootDoor1"	"<clr:238,207,161>Sarge: Okay, marines, shoot your way through."
 
 
-"sarge.RequestShootDoor2" "<clr:238,207,161>Sarge: Blast it open."
+"sarge.RequestShootDoor2"	"<clr:238,207,161>Sarge: Blast it open."
 
 
-"sarge.RequestShootDoor3" "<clr:238,207,161>Sarge: Okay, marines, knock its teeth out."
+"sarge.RequestShootDoor3"	"<clr:238,207,161>Sarge: Okay, marines, knock its teeth out."
 
 
-"sarge.CuttingDoor0" "<clr:238,207,161>Sarge: Conrad cutting door."
+"sarge.CuttingDoor0"	"<clr:238,207,161>Sarge: Conrad cutting door."
 
 
-"sarge.CuttingDoor1" "<clr:238,207,161>Sarge: Roger that, cutting door."
+"sarge.CuttingDoor1"	"<clr:238,207,161>Sarge: Roger that, cutting door."
 
 
-"sarge.SealingDoor0" "<clr:238,207,161>Sarge: Conrad sealing door."
+"sarge.SealingDoor0"	"<clr:238,207,161>Sarge: Conrad sealing door."
 
 
-"sarge.SealingDoor1" "<clr:238,207,161>Sarge: Sealing door."
+"sarge.SealingDoor1"	"<clr:238,207,161>Sarge: Sealing door."
 
 
-"sarge.SealingDoor2" "<clr:238,207,161>Sarge: Securing door."
+"sarge.SealingDoor2"	"<clr:238,207,161>Sarge: Securing door."
 
 
-"sarge.Biomass0" "<clr:238,207,161>Sarge: Swarm biomass, burn it out."
+"sarge.Biomass0"	"<clr:238,207,161>Sarge: Swarm biomass, burn it out."
 
 
-"sarge.Biomass1" "<clr:238,207,161>Sarge: Signs of infestation."
+"sarge.Biomass1"	"<clr:238,207,161>Sarge: Signs of infestation."
 
 
-"sarge.TimeToLeave0" "<clr:238,207,161>Sarge: All right, marines, we're leaving."
+"sarge.TimeToLeave0"	"<clr:238,207,161>Sarge: All right, marines, we're leaving."
 
 
-"sarge.TimeToLeave1" "<clr:238,207,161>Sarge: Mission objectives complete.  Squad, we're moving out."
+"sarge.TimeToLeave1"	"<clr:238,207,161>Sarge: Mission objectives complete.  Squad, we're moving out."
 
 
-"sarge.TimeToLeave2" "<clr:238,207,161>Sarge: Squad, proceeding to extraction point."
+"sarge.TimeToLeave2"	"<clr:238,207,161>Sarge: Squad, proceeding to extraction point."
 
 
-"sarge.WatchOut0" "<clr:238,207,161>Sarge: Look out!"
+"sarge.WatchOut0"	"<clr:238,207,161>Sarge: Look out!"
 
 
-"sarge.WatchOut1" "<clr:238,207,161>Sarge: Watch it!"
+"sarge.WatchOut1"	"<clr:238,207,161>Sarge: Watch it!"
 
 
-"sarge.WatchOut2" "<clr:238,207,161>Sarge: Watch out, guys!"
+"sarge.WatchOut2"	"<clr:238,207,161>Sarge: Watch out, guys!"
 
 
-"sarge.WatchOut3" "<clr:238,207,161>Sarge: Careful, marines!"
+"sarge.WatchOut3"	"<clr:238,207,161>Sarge: Careful, marines!"
 
 
-"sarge.Shieldbug0" "<clr:238,207,161>Sarge: Shit, a shieldbug."
+"sarge.Shieldbug0"	"<clr:238,207,161>Sarge: Shit, a shieldbug."
 
 
-"sarge.Shieldbug1" "<clr:238,207,161>Sarge: Holy shit!"
+"sarge.Shieldbug1"	"<clr:238,207,161>Sarge: Holy shit!"
 
 
-"sarge.Shieldbug2" "<clr:238,207,161>Sarge: A shieldbug, take it down, marines."
+"sarge.Shieldbug2"	"<clr:238,207,161>Sarge: A shieldbug, take it down, marines."
 
 
-"sarge.ShieldbugHint0" "<clr:238,207,161>Sarge: Get behind it, marines."
+"sarge.ShieldbugHint0"	"<clr:238,207,161>Sarge: Get behind it, marines."
 
 
-"sarge.ShieldbugHint1" "<clr:238,207,161>Sarge: Shoot it in the back."
+"sarge.ShieldbugHint1"	"<clr:238,207,161>Sarge: Shoot it in the back."
 
 
-"sarge.ShieldbugHint2" "<clr:238,207,161>Sarge: Get behind."
+"sarge.ShieldbugHint2"	"<clr:238,207,161>Sarge: Get behind."
 
 
-"sarge.Parasite0" "<clr:238,207,161>Sarge: Parasite!"
+"sarge.Parasite0"	"<clr:238,207,161>Sarge: Parasite!"
 
 
-"sarge.Parasite1" "<clr:238,207,161>Sarge: Look out, marines!  Parasite!"
+"sarge.Parasite1"	"<clr:238,207,161>Sarge: Look out, marines!  Parasite!"
 
 
-"sarge.Parasite2" "<clr:238,207,161>Sarge: Parasite!  Kill it dead!"
+"sarge.Parasite2"	"<clr:238,207,161>Sarge: Parasite!  Kill it dead!"
 
 
-"sarge.BeenInfested0" "<clr:238,207,161>Sarge: Arrrrgh!  Get it off me!"
+"sarge.BeenInfested0"	"<clr:238,207,161>Sarge: Arrrrgh!  Get it off me!"
 
 
-"sarge.BeenInfested1" "<clr:238,207,161>Sarge: Get it off!"
+"sarge.BeenInfested1"	"<clr:238,207,161>Sarge: Get it off!"
 
 
-"sarge.BeenInfested2" "<clr:238,207,161>Sarge: Arrrgghhh!  It's on me!"
+"sarge.BeenInfested2"	"<clr:238,207,161>Sarge: Arrrgghhh!  It's on me!"
 
 
-"sarge.BeenInfested3" "<clr:238,207,161>Sarge: Shit!  Shit, parasite on!"
+"sarge.BeenInfested3"	"<clr:238,207,161>Sarge: Shit!  Shit, parasite on!"
 
 
-"sarge.SwarmEggs0" "<clr:238,207,161>Sarge: Swarm eggs, watch out."
+"sarge.SwarmEggs0"	"<clr:238,207,161>Sarge: Swarm eggs, watch out."
 
 
-"sarge.SwarmEggs1" "<clr:238,207,161>Sarge: Swarm eggs, take em out."
+"sarge.SwarmEggs1"	"<clr:238,207,161>Sarge: Swarm eggs, take em out."
 
 
-"sarge.SwarmEggs2" "<clr:238,207,161>Sarge: Careful boys, we got swarm eggs."
+"sarge.SwarmEggs2"	"<clr:238,207,161>Sarge: Careful boys, we got swarm eggs."
 
 
-"sarge.SwarmEggs3" "<clr:238,207,161>Sarge: Scramble them eggs, boys."
+"sarge.SwarmEggs3"	"<clr:238,207,161>Sarge: Scramble them eggs, boys."
 
 
-"sarge.Grenade0" "<clr:238,207,161>Sarge: Grenade!"
+"sarge.Grenade0"	"<clr:238,207,161>Sarge: Grenade!"
 
 
-"sarge.Grenade1" "<clr:238,207,161>Sarge: Clear!"
+"sarge.Grenade1"	"<clr:238,207,161>Sarge: Clear!"
 
 
-"sarge.Grenade2" "<clr:238,207,161>Sarge: Eat this!"
+"sarge.Grenade2"	"<clr:238,207,161>Sarge: Eat this!"
 
 
-"sarge.AlienTooClose0" "<clr:238,207,161>Sarge: Get it off!"
+"sarge.AlienTooClose0"	"<clr:238,207,161>Sarge: Get it off!"
 
 
-"sarge.AlienTooClose1" "<clr:238,207,161>Sarge: Kill it!"
+"sarge.AlienTooClose1"	"<clr:238,207,161>Sarge: Kill it!"
 
 
-"sarge.AlienTooClose2" "<clr:238,207,161>Sarge: On me!"
+"sarge.AlienTooClose2"	"<clr:238,207,161>Sarge: On me!"
 
 
-"sarge.AlienTooClose3" "<clr:238,207,161>Sarge: Hostile on me!"
+"sarge.AlienTooClose3"	"<clr:238,207,161>Sarge: Hostile on me!"
 
 
-"sarge.MadFiring0" "<clr:238,207,161>Sarge: Eat this you son of a bitch!"
+"sarge.MadFiring0"	"<clr:238,207,161>Sarge: Eat this you son of a bitch!"
 
 
-"sarge.MadFiring1" "<clr:238,207,161>Sarge: Die!"
+"sarge.MadFiring1"	"<clr:238,207,161>Sarge: Die!"
 
 
-"sarge.MadFiring2" "<clr:238,207,161>Sarge: Argghhhh!"
+"sarge.MadFiring2"	"<clr:238,207,161>Sarge: Argghhhh!"
 
 
-"sarge.BreachedDoor0" "<clr:238,207,161>Sarge: They breached the door!"
+"sarge.BreachedDoor0"	"<clr:238,207,161>Sarge: They breached the door!"
 
 
-"sarge.BreachedDoor1" "<clr:238,207,161>Sarge: They're through!"
+"sarge.BreachedDoor1"	"<clr:238,207,161>Sarge: They're through!"
 
 
-"sarge.BreachedDoor2" "<clr:238,207,161>Sarge: Look out!"
+"sarge.BreachedDoor2"	"<clr:238,207,161>Sarge: Look out!"
 
 
-"sarge.MarineDown0" "<clr:238,207,161>Sarge: Marine down!"
+"sarge.MarineDown0"	"<clr:238,207,161>Sarge: Marine down!"
 
 
-"sarge.SmallPain0" "<clr:238,207,161>Sarge: Arghh!"
+"sarge.SmallPain0"	"<clr:238,207,161>Sarge: Arghh!"
 
 
-"sarge.SmallPain1" "<clr:238,207,161>Sarge: [Pain]"
+"sarge.SmallPain1"	"<clr:238,207,161>Sarge: [Pain]"
 
 
-"sarge.SmallPain2" "<clr:238,207,161>Sarge: [Pain]"
+"sarge.SmallPain2"	"<clr:238,207,161>Sarge: [Pain]"
 
 
-"sarge.SmallPain3" "<clr:238,207,161>Sarge: [Pain]"
+"sarge.SmallPain3"	"<clr:238,207,161>Sarge: [Pain]"
 
 
-"sarge.LargePain0" "<clr:238,207,161>Sarge: [Pain]"
+"sarge.LargePain0"	"<clr:238,207,161>Sarge: [Pain]"
 
 
-"sarge.LargePain1" "<clr:238,207,161>Sarge: [Pain]"
+"sarge.LargePain1"	"<clr:238,207,161>Sarge: [Pain]"
 
 
-"sarge.Dead0" "<clr:238,207,161>Sarge: [Death]"
+"sarge.Dead0"	"<clr:238,207,161>Sarge: [Death]"
 
 
-"sarge.Dead1" "<clr:238,207,161>Sarge: [Death]"
+"sarge.Dead1"	"<clr:238,207,161>Sarge: [Death]"
 
 
-"sarge.OnFire0" "<clr:238,207,161>Sarge: Arghhhhh, aaah!"
+"sarge.OnFire0"	"<clr:238,207,161>Sarge: Arghhhhh, aaah!"
 
 
-"sarge.OnFire1" "<clr:238,207,161>Sarge: [Screaming pain]"
+"sarge.OnFire1"	"<clr:238,207,161>Sarge: [Screaming pain]"
 
 
-"sarge.OnFire2" "<clr:238,207,161>Sarge: Oh God! [Screaming pain]"
+"sarge.OnFire2"	"<clr:238,207,161>Sarge: Oh God! [Screaming pain]"
 
 
-"sarge.MineDeployed0" "<clr:238,207,161>Sarge: Mine in place, boys."
+"sarge.MineDeployed0"	"<clr:238,207,161>Sarge: Mine in place, boys."
 
 
-"sarge.MineDeployed1" "<clr:238,207,161>Sarge: Mine deployed."
+"sarge.MineDeployed1"	"<clr:238,207,161>Sarge: Mine deployed."
 
 
-"sarge.MineDeployed2" "<clr:238,207,161>Sarge: Watch it, mine deployed."
+"sarge.MineDeployed2"	"<clr:238,207,161>Sarge: Watch it, mine deployed."
 
 
-"sarge.MineDeployed3" "<clr:238,207,161>Sarge: Incendiary mine deployed."
+"sarge.MineDeployed3"	"<clr:238,207,161>Sarge: Incendiary mine deployed."
 
 
-"sarge.ActivateStims0" "<clr:238,207,161>Sarge: Stim now!"
+"sarge.ActivateStims0"	"<clr:238,207,161>Sarge: Stim now!"
 
 
-"sarge.ActivateStims1" "<clr:238,207,161>Sarge: Hit the stims."
+"sarge.ActivateStims1"	"<clr:238,207,161>Sarge: Hit the stims."
 
 
-"sarge.ActivateStims2" "<clr:238,207,161>Sarge: Activate stim pack!"
+"sarge.ActivateStims2"	"<clr:238,207,161>Sarge: Activate stim pack!"
 
 
-"sarge.ActivateStims3" "<clr:238,207,161>Sarge: Activate stim pack now."
+"sarge.ActivateStims3"	"<clr:238,207,161>Sarge: Activate stim pack now."
 
 
-"sarge.ActivateStims4" "<clr:238,207,161>Sarge: I need that stim pack."
+"sarge.ActivateStims4"	"<clr:238,207,161>Sarge: I need that stim pack."
 
 
-"sarge.ComplimentsJaeger0" "<clr:238,207,161>Sarge: Nice work, Jaeger"
+"sarge.ComplimentsJaeger0"	"<clr:238,207,161>Sarge: Nice work, Jaeger"
 
 
-"sarge.ComplimentsJaeger1" "<clr:238,207,161>Sarge: Good kill, Jaeger."
+"sarge.ComplimentsJaeger1"	"<clr:238,207,161>Sarge: Good kill, Jaeger."
 
 
-"sarge.ComplimentsJaeger2" "<clr:238,207,161>Sarge: Nice shootin' Tex."
+"sarge.ComplimentsJaeger2"	"<clr:238,207,161>Sarge: Nice shootin' Tex."
 
 
-"sarge.Compliments0" "<clr:238,207,161>Sarge: Good work, marine."
+"sarge.Compliments0"	"<clr:238,207,161>Sarge: Good work, marine."
 
 
-"sarge.Compliments1" "<clr:238,207,161>Sarge: That's what I like to hear."
+"sarge.Compliments1"	"<clr:238,207,161>Sarge: That's what I like to hear."
 
 
-"sarge.Compliments2" "<clr:238,207,161>Sarge: Damn fine work, marine."
+"sarge.Compliments2"	"<clr:238,207,161>Sarge: Damn fine work, marine."
 
 
-"sarge.Compliments3" "<clr:238,207,161>Sarge: Good job!"
+"sarge.Compliments3"	"<clr:238,207,161>Sarge: Good job!"
 
 
-"sarge.Impatience0" "<clr:238,207,161>Sarge: Come on marine, they don't pay us by the hour!"
+"sarge.Impatience0"	"<clr:238,207,161>Sarge: Come on marine, they don't pay us by the hour!"
 
 
-"sarge.Impatience1" "<clr:238,207,161>Sarge: That's what I like to hear."
+"sarge.Impatience1"	"<clr:238,207,161>Sarge: That's what I like to hear."
 
 
-"sarge.Impatience2" "<clr:238,207,161>Sarge: Shit, how long you gonna play that solitaire game anyway?"
+"sarge.Impatience2"	"<clr:238,207,161>Sarge: Shit, how long you gonna play that solitaire game anyway?"
 
 
-"sarge.Selection0" "<clr:238,207,161>Sarge: Speak."
+"sarge.Selection0"	"<clr:238,207,161>Sarge: Speak."
 
 
-"sarge.Selection1" "<clr:238,207,161>Sarge: I'm listening."
+"sarge.Selection1"	"<clr:238,207,161>Sarge: I'm listening."
 
 
-"sarge.Selection2" "<clr:238,207,161>Sarge: Conrad ready."
+"sarge.Selection2"	"<clr:238,207,161>Sarge: Conrad ready."
 
 
-"sarge.Selection3" "<clr:238,207,161>Sarge: Proceed."
+"sarge.Selection3"	"<clr:238,207,161>Sarge: Proceed."
 
 
 
 
 //Vegas
 
-"vegas.FirstBloodStart0" "<clr:84,255,159>Vegas: Taking bets on first blood."
+"vegas.FirstBloodStart0"	"<clr:84,255,159>Vegas: Taking bets on first blood."
 
 
-"vegas.FirstBloodWin0" "<clr:84,255,159>Vegas: Haha, fortune favours Vegas today."
+"vegas.FirstBloodWin0"	"<clr:84,255,159>Vegas: Haha, fortune favours Vegas today."
 
 
-"vegas.FirstBloodWin1" "<clr:84,255,159>Vegas: Lady luck is on my side."
+"vegas.FirstBloodWin1"	"<clr:84,255,159>Vegas: Lady luck is on my side."
 
 
-"vegas.SynUpSpotted0" "<clr:84,255,159>Vegas: Synup Cola, anyone have any creds?"
+"vegas.SynUpSpotted0"	"<clr:84,255,159>Vegas: Synup Cola, anyone have any creds?"
 
 
-"vegas.MedicComplainReply0" "<clr:84,255,159>Vegas: I wasn't exactly planning on it."
+"vegas.MedicComplainReply0"	"<clr:84,255,159>Vegas: I wasn't exactly planning on it."
 
 
-"vegas.TequilaReplySarge0" "<clr:84,255,159>Vegas: Aahh, man."
+"vegas.TequilaReplySarge0"	"<clr:84,255,159>Vegas: Aahh, man."
 
 
-"vegas.TequilaReplyJaeger0" "<clr:84,255,159>Vegas: Screw that, I'm sticking with tequila."
+"vegas.TequilaReplyJaeger0"	"<clr:84,255,159>Vegas: Screw that, I'm sticking with tequila."
 
 
-"vegas.TequilaReplyWildcat0" "<clr:84,255,159>Vegas: Hell, yeah!"
+"vegas.TequilaReplyWildcat0"	"<clr:84,255,159>Vegas: Hell, yeah!"
 
 
-"vegas.TequilaReplyWolfe0" "<clr:84,255,159>Vegas: You got it, Wolfe."
+"vegas.TequilaReplyWolfe0"	"<clr:84,255,159>Vegas: You got it, Wolfe."
 
 
-"vegas.TequilaReplyFaith0" "<clr:84,255,159>Vegas: Who cares?  No one lives forever."
+"vegas.TequilaReplyFaith0"	"<clr:84,255,159>Vegas: Who cares?  No one lives forever."
 
 
-"vegas.TequilaReplyBastille0" "<clr:84,255,159>Vegas: Ok, but you're missing out, Amigo."
+"vegas.TequilaReplyBastille0"	"<clr:84,255,159>Vegas: Ok, but you're missing out, Amigo."
 
 
-"vegas.TequilaStart0" "<clr:84,255,159>Vegas: I could do with some tequila right about now."
+"vegas.TequilaStart0"	"<clr:84,255,159>Vegas: I could do with some tequila right about now."
 
 
-"vegas.TequilaStart1" "<clr:84,255,159>Vegas: Who's up for some tequila?"
+"vegas.TequilaStart1"	"<clr:84,255,159>Vegas: Who's up for some tequila?"
 
 
-"vegas.InjuredSelection0" "<clr:84,255,159>Vegas: All bets are off."
+"vegas.InjuredSelection0"	"<clr:84,255,159>Vegas: All bets are off."
 
 
-"vegas.InjuredSelection1" "<clr:84,255,159>Vegas: Don't worry."
+"vegas.InjuredSelection1"	"<clr:84,255,159>Vegas: Don't worry."
 
 
-"vegas.InjuredSelection2" "<clr:84,255,159>Vegas: I still got an ace up my sleeve."
+"vegas.InjuredSelection2"	"<clr:84,255,159>Vegas: I still got an ace up my sleeve."
 
 
-"vegas.InjuredSelection3" "<clr:84,255,159>Vegas: Just my luck."
+"vegas.InjuredSelection3"	"<clr:84,255,159>Vegas: Just my luck."
 
 
-"vegas.InjuredSelection4" "<clr:84,255,159>Vegas: What?"
+"vegas.InjuredSelection4"	"<clr:84,255,159>Vegas: What?"
 
 
-"vegas.SeriousInjuryReply0" "<clr:84,255,159>Vegas: Ah man, I should have stayed in Culiacan Sinaloa."
+"vegas.SeriousInjuryReply0"	"<clr:84,255,159>Vegas: Ah man, I should have stayed in Culiacan Sinaloa."
 
 
-"vegas.StillBreathingReply0" "<clr:84,255,159>Vegas: Why do I always get the crazy ones?"
+"vegas.StillBreathingReply0"	"<clr:84,255,159>Vegas: Why do I always get the crazy ones?"
 
 
-"vegas.Use0" "<clr:84,255,159>Vegas: I got ya."
+"vegas.Use0"	"<clr:84,255,159>Vegas: I got ya."
 
 
-"vegas.Use1" "<clr:84,255,159>Vegas: I'm on it."
+"vegas.Use1"	"<clr:84,255,159>Vegas: I'm on it."
 
 
-"vegas.Use2" "<clr:84,255,159>Vegas: On it."
+"vegas.Use2"	"<clr:84,255,159>Vegas: On it."
 
 
-"vegas.Use3" "<clr:84,255,159>Vegas: Si."
+"vegas.Use3"	"<clr:84,255,159>Vegas: Si."
 
 
-"vegas.Use4" "<clr:84,255,159>Vegas: Si."
+"vegas.Use4"	"<clr:84,255,159>Vegas: Si."
 
 
-"vegas.Use5" "<clr:84,255,159>Vegas: Yessir."
+"vegas.Use5"	"<clr:84,255,159>Vegas: Yessir."
 
 
-"vegas.Idle0" "<clr:84,255,159>Vegas: 4 to 1, eh?  I like the odds."
+"vegas.Idle0"	"<clr:84,255,159>Vegas: 4 to 1, eh?  I like the odds."
 
 
-"vegas.Idle1" "<clr:84,255,159>Vegas: Alright, who's up for a game of blackjack?"
+"vegas.Idle1"	"<clr:84,255,159>Vegas: Alright, who's up for a game of blackjack?"
 
 
-"vegas.Idle2" "<clr:84,255,159>Vegas: Anyone got a deck of cards?"
+"vegas.Idle2"	"<clr:84,255,159>Vegas: Anyone got a deck of cards?"
 
 
-"vegas.Idle3" "<clr:84,255,159>Vegas: Can't wait to get off this rock and back to the tables."
+"vegas.Idle3"	"<clr:84,255,159>Vegas: Can't wait to get off this rock and back to the tables."
 
 
-"vegas.Idle4" "<clr:84,255,159>Vegas: I could be watching the races right now."
+"vegas.Idle4"	"<clr:84,255,159>Vegas: I could be watching the races right now."
 
 
-"vegas.Idle5" "<clr:84,255,159>Vegas: If I were a betting man, I'd say the worst is yet to come."
+"vegas.Idle5"	"<clr:84,255,159>Vegas: If I were a betting man, I'd say the worst is yet to come."
 
 
-"vegas.Idle6" "<clr:84,255,159>Vegas: [Whistle]"
+"vegas.Idle6"	"<clr:84,255,159>Vegas: [Whistle]"
 
 
-"vegas.Idle7" "<clr:84,255,159>Vegas: [Whistle]"
+"vegas.Idle7"	"<clr:84,255,159>Vegas: [Whistle]"
 
 
-"vegas.Idle8" "<clr:84,255,159>Vegas: Who's up for some tequila?"
+"vegas.Idle8"	"<clr:84,255,159>Vegas: Who's up for some tequila?"
 
 
-"vegas.Idle9" "<clr:84,255,159>Vegas: You guys like to gamble, we should play sometime."
+"vegas.Idle9"	"<clr:84,255,159>Vegas: You guys like to gamble, we should play sometime."
 
 
-"vegas.FF0" "<clr:84,255,159>Vegas: Check your target!"
+"vegas.FF0"	"<clr:84,255,159>Vegas: Check your target!"
 
 
-"vegas.FF1" "<clr:84,255,159>Vegas: Ten cuidado Bastard!"
+"vegas.FF1"	"<clr:84,255,159>Vegas: Ten cuidado Bastard!"
 
 
-"vegas.FF2" "<clr:84,255,159>Vegas: Watch it!"
+"vegas.FF2"	"<clr:84,255,159>Vegas: Watch it!"
 
 
-"vegas.FiringAtAlien0" "<clr:84,255,159>Vegas: Contact!"
+"vegas.FiringAtAlien0"	"<clr:84,255,159>Vegas: Contact!"
 
 
-"vegas.FiringAtAlien1" "<clr:84,255,159>Vegas: Die!"
+"vegas.FiringAtAlien1"	"<clr:84,255,159>Vegas: Die!"
 
 
-"vegas.FiringAtAlien2" "<clr:84,255,159>Vegas: Eat this!"
+"vegas.FiringAtAlien2"	"<clr:84,255,159>Vegas: Eat this!"
 
 
-"vegas.FiringAtAlien3" "<clr:84,255,159>Vegas: Incoming!"
+"vegas.FiringAtAlien3"	"<clr:84,255,159>Vegas: Incoming!"
 
 
-"vegas.FollowMe0" "<clr:84,255,159>Vegas: Go, go, go!"
+"vegas.FollowMe0"	"<clr:84,255,159>Vegas: Go, go, go!"
 
 
-"vegas.FollowMe1" "<clr:84,255,159>Vegas: Go, go, go!"
+"vegas.FollowMe1"	"<clr:84,255,159>Vegas: Go, go, go!"
 
 
-"vegas.FollowMe2" "<clr:84,255,159>Vegas: Let's move!"
+"vegas.FollowMe2"	"<clr:84,255,159>Vegas: Let's move!"
 
 
-"vegas.FollowMe3" "<clr:84,255,159>Vegas: Time to roll the dice, Compadre."
+"vegas.FollowMe3"	"<clr:84,255,159>Vegas: Time to roll the dice, Compadre."
 
 
-"vegas.HoldPosition0" "<clr:84,255,159>Vegas: Hold position."
+"vegas.HoldPosition0"	"<clr:84,255,159>Vegas: Hold position."
 
 
-"vegas.HoldPosition1" "<clr:84,255,159>Vegas: Secure this area."
+"vegas.HoldPosition1"	"<clr:84,255,159>Vegas: Secure this area."
 
 
-"vegas.HoldPosition2" "<clr:84,255,159>Vegas: Stay here."
+"vegas.HoldPosition2"	"<clr:84,255,159>Vegas: Stay here."
 
 
-"vegas.NeedAmmo0" "<clr:84,255,159>Vegas: I need some ammo."
+"vegas.NeedAmmo0"	"<clr:84,255,159>Vegas: I need some ammo."
 
 
-"vegas.NeedAmmo1" "<clr:84,255,159>Vegas: Need ammo."
+"vegas.NeedAmmo1"	"<clr:84,255,159>Vegas: Need ammo."
 
 
-"vegas.NoAmmo0" "<clr:84,255,159>Vegas: I'm out of ammo!"
+"vegas.NoAmmo0"	"<clr:84,255,159>Vegas: I'm out of ammo!"
 
 
-"vegas.NoAmmo1" "<clr:84,255,159>Vegas: No ammo!"
+"vegas.NoAmmo1"	"<clr:84,255,159>Vegas: No ammo!"
 
 
-"vegas.Medic0" "<clr:84,255,159>Vegas: Medic!"
+"vegas.Medic0"	"<clr:84,255,159>Vegas: Medic!"
 
 
-"vegas.Medic1" "<clr:84,255,159>Vegas: Need Medic!"
+"vegas.Medic1"	"<clr:84,255,159>Vegas: Need Medic!"
 
 
-"vegas.Reloading0" "<clr:84,255,159>Vegas: Lock and load!"
+"vegas.Reloading0"	"<clr:84,255,159>Vegas: Lock and load!"
 
 
-"vegas.Reloading1" "<clr:84,255,159>Vegas: Reload."
+"vegas.Reloading1"	"<clr:84,255,159>Vegas: Reload."
 
 
-"vegas.Reloading2" "<clr:84,255,159>Vegas: Estoy Cargando!"
+"vegas.Reloading2"	"<clr:84,255,159>Vegas: Estoy Cargando!"
 
 
-"vegas.Reloading3" "<clr:84,255,159>Vegas: Reload.  Cover me."
+"vegas.Reloading3"	"<clr:84,255,159>Vegas: Reload.  Cover me."
 
 
-"vegas.Reloading4" "<clr:84,255,159>Vegas: Reloading."
+"vegas.Reloading4"	"<clr:84,255,159>Vegas: Reloading."
 
 
-"vegas.SentryInPlace0" "<clr:84,255,159>Vegas: Let's hope this'll hold them off."
+"vegas.SentryInPlace0"	"<clr:84,255,159>Vegas: Let's hope this'll hold them off."
 
 
-"vegas.SentryInPlace1" "<clr:84,255,159>Vegas: Sentry assembled."
+"vegas.SentryInPlace1"	"<clr:84,255,159>Vegas: Sentry assembled."
 
 
-"vegas.SentryInPlace2" "<clr:84,255,159>Vegas: Sentry in place."
+"vegas.SentryInPlace2"	"<clr:84,255,159>Vegas: Sentry in place."
 
 
-"vegas.SentryInPlace3" "<clr:84,255,159>Vegas: Sentry in place."
+"vegas.SentryInPlace3"	"<clr:84,255,159>Vegas: Sentry in place."
 
 
-"vegas.SentryInPlace4" "<clr:84,255,159>Vegas: Sentry online."
+"vegas.SentryInPlace4"	"<clr:84,255,159>Vegas: Sentry online."
 
 
-"vegas.SentryInPlace5" "<clr:84,255,159>Vegas: Sentry online."
+"vegas.SentryInPlace5"	"<clr:84,255,159>Vegas: Sentry online."
 
 
-"vegas.Ammo0" "<clr:84,255,159>Vegas: Ammo!"
+"vegas.Ammo0"	"<clr:84,255,159>Vegas: Ammo!"
 
 
-"vegas.Medkit0" "<clr:84,255,159>Vegas: Medkit!"
+"vegas.Medkit0"	"<clr:84,255,159>Vegas: Medkit!"
 
 
-"vegas.Thanks0" "<clr:84,255,159>Vegas: Gracias."
+"vegas.Thanks0"	"<clr:84,255,159>Vegas: Gracias."
 
 
-"vegas.Thanks1" "<clr:84,255,159>Vegas: Muchos gracias."
+"vegas.Thanks1"	"<clr:84,255,159>Vegas: Muchos gracias."
 
 
-"vegas.Thanks2" "<clr:84,255,159>Vegas: Thanks!"
+"vegas.Thanks2"	"<clr:84,255,159>Vegas: Thanks!"
 
 
-"vegas.Question0" "<clr:84,255,159>Vegas: Huh?"
+"vegas.Question0"	"<clr:84,255,159>Vegas: Huh?"
 
 
-"vegas.Question1" "<clr:84,255,159>Vegas: Que?"
+"vegas.Question1"	"<clr:84,255,159>Vegas: Que?"
 
 
-"vegas.Question2" "<clr:84,255,159>Vegas: What?"
+"vegas.Question2"	"<clr:84,255,159>Vegas: What?"
 
 
-"vegas.Question3" "<clr:84,255,159>Vegas: What is it?"
+"vegas.Question3"	"<clr:84,255,159>Vegas: What is it?"
 
 
-"vegas.CallSarge0" "<clr:84,255,159>Vegas: Hey, Sarge."
+"vegas.CallSarge0"	"<clr:84,255,159>Vegas: Hey, Sarge."
 
 
-"vegas.CallSarge1" "<clr:84,255,159>Vegas: Sarge."
+"vegas.CallSarge1"	"<clr:84,255,159>Vegas: Sarge."
 
 
-"vegas.CallJaeger0" "<clr:84,255,159>Vegas: Hey, Jaeger."
+"vegas.CallJaeger0"	"<clr:84,255,159>Vegas: Hey, Jaeger."
 
 
-"vegas.CallJaeger1" "<clr:84,255,159>Vegas: Jaeger."
+"vegas.CallJaeger1"	"<clr:84,255,159>Vegas: Jaeger."
 
 
-"vegas.CallWildcat0" "<clr:84,255,159>Vegas: Hey, Wildcat."
+"vegas.CallWildcat0"	"<clr:84,255,159>Vegas: Hey, Wildcat."
 
 
-"vegas.CallWildcat1" "<clr:84,255,159>Vegas: Wildcat."
+"vegas.CallWildcat1"	"<clr:84,255,159>Vegas: Wildcat."
 
 
-"vegas.CallWolfe0" "<clr:84,255,159>Vegas: Hey, Wolfe."
+"vegas.CallWolfe0"	"<clr:84,255,159>Vegas: Hey, Wolfe."
 
 
-"vegas.CallWolfe1" "<clr:84,255,159>Vegas: Wolfe."
+"vegas.CallWolfe1"	"<clr:84,255,159>Vegas: Wolfe."
 
 
-"vegas.CallFaith0" "<clr:84,255,159>Vegas: Faith."
+"vegas.CallFaith0"	"<clr:84,255,159>Vegas: Faith."
 
 
-"vegas.CallFaith1" "<clr:84,255,159>Vegas: Hey, Faith."
+"vegas.CallFaith1"	"<clr:84,255,159>Vegas: Hey, Faith."
 
 
-"vegas.CallBastille0" "<clr:84,255,159>Vegas: Bastille!"
+"vegas.CallBastille0"	"<clr:84,255,159>Vegas: Bastille!"
 
 
-"vegas.CallBastille1" "<clr:84,255,159>Vegas: Hey, Bastille."
+"vegas.CallBastille1"	"<clr:84,255,159>Vegas: Hey, Bastille."
 
 
-"vegas.CallCrash0" "<clr:84,255,159>Vegas: Crash!"
+"vegas.CallCrash0"	"<clr:84,255,159>Vegas: Crash!"
 
 
-"vegas.CallCrash1" "<clr:84,255,159>Vegas: Hey, Crash."
+"vegas.CallCrash1"	"<clr:84,255,159>Vegas: Hey, Crash."
 
 
-"vegas.CallFlynn0" "<clr:84,255,159>Vegas: Flynn!"
+"vegas.CallFlynn0"	"<clr:84,255,159>Vegas: Flynn!"
 
 
-"vegas.CallFlynn1" "<clr:84,255,159>Vegas: Hey, Flynn."
+"vegas.CallFlynn1"	"<clr:84,255,159>Vegas: Hey, Flynn."
 
 
-"vegas.SuppliesAmmo0" "<clr:84,255,159>Vegas: More ammo!  Just what we need."
+"vegas.SuppliesAmmo0"	"<clr:84,255,159>Vegas: More ammo!  Just what we need."
 
 
-"vegas.Supplies0" "<clr:84,255,159>Vegas: Haha! Supplies."
+"vegas.Supplies0"	"<clr:84,255,159>Vegas: Haha! Supplies."
 
 
-"vegas.HoldingPosition0" "<clr:84,255,159>Vegas: Covering area."
+"vegas.HoldingPosition0"	"<clr:84,255,159>Vegas: Covering area."
 
 
-"vegas.HoldingPosition1" "<clr:84,255,159>Vegas: Holding position."
+"vegas.HoldingPosition1"	"<clr:84,255,159>Vegas: Holding position."
 
 
-"vegas.HoldingPosition2" "<clr:84,255,159>Vegas: In position."
+"vegas.HoldingPosition2"	"<clr:84,255,159>Vegas: In position."
 
 
-"vegas.HoldingPosition3" "<clr:84,255,159>Vegas: Securing area."
+"vegas.HoldingPosition3"	"<clr:84,255,159>Vegas: Securing area."
 
 
-"vegas.HoldingPosition4" "<clr:84,255,159>Vegas: They'll need an army to get past me."
+"vegas.HoldingPosition4"	"<clr:84,255,159>Vegas: They'll need an army to get past me."
 
 
-"vegas.HoldingNorth0" "<clr:84,255,159>Vegas: Covering north."
+"vegas.HoldingNorth0"	"<clr:84,255,159>Vegas: Covering north."
 
 
-"vegas.HoldingNorth1" "<clr:84,255,159>Vegas: Covering north side."
+"vegas.HoldingNorth1"	"<clr:84,255,159>Vegas: Covering north side."
 
 
-"vegas.HoldingNorth2" "<clr:84,255,159>Vegas: North side covered."
+"vegas.HoldingNorth2"	"<clr:84,255,159>Vegas: North side covered."
 
 
-"vegas.HoldingNorth3" "<clr:84,255,159>Vegas: North side in position."
+"vegas.HoldingNorth3"	"<clr:84,255,159>Vegas: North side in position."
 
 
-"vegas.HoldingSouth0" "<clr:84,255,159>Vegas: Covering south side."
+"vegas.HoldingSouth0"	"<clr:84,255,159>Vegas: Covering south side."
 
 
-"vegas.HoldingSouth1" "<clr:84,255,159>Vegas: Covering south side."
+"vegas.HoldingSouth1"	"<clr:84,255,159>Vegas: Covering south side."
 
 
-"vegas.HoldingSouth2" "<clr:84,255,159>Vegas: South side in position."
+"vegas.HoldingSouth2"	"<clr:84,255,159>Vegas: South side in position."
 
 
-"vegas.HoldingEast0" "<clr:84,255,159>Vegas: Covering east."
+"vegas.HoldingEast0"	"<clr:84,255,159>Vegas: Covering east."
 
 
-"vegas.HoldingEast1" "<clr:84,255,159>Vegas: Covering east side."
+"vegas.HoldingEast1"	"<clr:84,255,159>Vegas: Covering east side."
 
 
-"vegas.HoldingEast2" "<clr:84,255,159>Vegas: East side in position."
+"vegas.HoldingEast2"	"<clr:84,255,159>Vegas: East side in position."
 
 
-"vegas.HoldingWest0" "<clr:84,255,159>Vegas: Covering west."
+"vegas.HoldingWest0"	"<clr:84,255,159>Vegas: Covering west."
 
 
-"vegas.HoldingWest1" "<clr:84,255,159>Vegas: Covering west side."
+"vegas.HoldingWest1"	"<clr:84,255,159>Vegas: Covering west side."
 
 
-"vegas.HoldingWest2" "<clr:84,255,159>Vegas: West side in position."
+"vegas.HoldingWest2"	"<clr:84,255,159>Vegas: West side in position."
 
 
-"vegas.GotPoint0" "<clr:84,255,159>Vegas: I'll take point."
+"vegas.GotPoint0"	"<clr:84,255,159>Vegas: I'll take point."
 
 
-"vegas.GotPoint1" "<clr:84,255,159>Vegas: Vegas taking point."
+"vegas.GotPoint1"	"<clr:84,255,159>Vegas: Vegas taking point."
 
 
-"vegas.GotRear0" "<clr:84,255,159>Vegas: I'll cover the back."
+"vegas.GotRear0"	"<clr:84,255,159>Vegas: I'll cover the back."
 
 
-"vegas.GotRear1" "<clr:84,255,159>Vegas: I've got your back."
+"vegas.GotRear1"	"<clr:84,255,159>Vegas: I've got your back."
 
 
-"vegas.RequestSealDoor0" "<clr:84,255,159>Vegas: Quick, seal the door!"
+"vegas.RequestSealDoor0"	"<clr:84,255,159>Vegas: Quick, seal the door!"
 
 
-"vegas.RequestSealDoor1" "<clr:84,255,159>Vegas: Seal it up!  I wanna get off this rock alive."
+"vegas.RequestSealDoor1"	"<clr:84,255,159>Vegas: Seal it up!  I wanna get off this rock alive."
 
 
-"vegas.RequestSealDoor2" "<clr:84,255,159>Vegas: Seal it up.  We don't want those things getting in here."
+"vegas.RequestSealDoor2"	"<clr:84,255,159>Vegas: Seal it up.  We don't want those things getting in here."
 
 
-"vegas.RequestCutDoor0" "<clr:84,255,159>Vegas: Come on, open it."
+"vegas.RequestCutDoor0"	"<clr:84,255,159>Vegas: Come on, open it."
 
 
-"vegas.RequestCutDoor1" "<clr:84,255,159>Vegas: Cut it open."
+"vegas.RequestCutDoor1"	"<clr:84,255,159>Vegas: Cut it open."
 
 
-"vegas.RequestCutDoor2" "<clr:84,255,159>Vegas: Get the door open."
+"vegas.RequestCutDoor2"	"<clr:84,255,159>Vegas: Get the door open."
 
 
-"vegas.RequestShootDoor0" "<clr:84,255,159>Vegas: Blast it open."
+"vegas.RequestShootDoor0"	"<clr:84,255,159>Vegas: Blast it open."
 
 
-"vegas.RequestShootDoor1" "<clr:84,255,159>Vegas: Shoot it down."
+"vegas.RequestShootDoor1"	"<clr:84,255,159>Vegas: Shoot it down."
 
 
-"vegas.RequestShootDoor2" "<clr:84,255,159>Vegas: Shoot it open."
+"vegas.RequestShootDoor2"	"<clr:84,255,159>Vegas: Shoot it open."
 
 
-"vegas.CuttingDoor0" "<clr:84,255,159>Vegas: I'll have it open in no time."
+"vegas.CuttingDoor0"	"<clr:84,255,159>Vegas: I'll have it open in no time."
 
 
-"vegas.CuttingDoor1" "<clr:84,255,159>Vegas: Roger that.  Cutting door."
+"vegas.CuttingDoor1"	"<clr:84,255,159>Vegas: Roger that.  Cutting door."
 
 
-"vegas.CuttingDoor2" "<clr:84,255,159>Vegas: Vegas cutting door."
+"vegas.CuttingDoor2"	"<clr:84,255,159>Vegas: Vegas cutting door."
 
 
-"vegas.SealingDoor0" "<clr:84,255,159>Vegas: Sealing door nice and tight."
+"vegas.SealingDoor0"	"<clr:84,255,159>Vegas: Sealing door nice and tight."
 
 
-"vegas.SealingDoor1" "<clr:84,255,159>Vegas: Securing door."
+"vegas.SealingDoor1"	"<clr:84,255,159>Vegas: Securing door."
 
 
-"vegas.SealingDoor2" "<clr:84,255,159>Vegas: Vegas sealing door."
+"vegas.SealingDoor2"	"<clr:84,255,159>Vegas: Vegas sealing door."
 
 
-"vegas.Biomass0" "<clr:84,255,159>Vegas: Alien goo, the highlight of any infested colony.  Burn it."
+"vegas.Biomass0"	"<clr:84,255,159>Vegas: Alien goo, the highlight of any infested colony.  Burn it."
 
 
-"vegas.Biomass1" "<clr:84,255,159>Vegas: Biomass.  Man, I hate this stuff.  Burn it."
+"vegas.Biomass1"	"<clr:84,255,159>Vegas: Biomass.  Man, I hate this stuff.  Burn it."
 
 
-"vegas.Biomass2" "<clr:84,255,159>Vegas: Biomass!  Man, I hate this stuff.  Where is the damn flamer?"
+"vegas.Biomass2"	"<clr:84,255,159>Vegas: Biomass!  Man, I hate this stuff.  Where is the damn flamer?"
 
 
-"vegas.Biomass3" "<clr:84,255,159>Vegas: Bleagh!  Swarm biomass.  Anyone got a flamer?"
+"vegas.Biomass3"	"<clr:84,255,159>Vegas: Bleagh!  Swarm biomass.  Anyone got a flamer?"
 
 
-"vegas.Biomass4" "<clr:84,255,159>Vegas: Hmmmm, large swarm biomass. Anyone got a flamer?"
+"vegas.Biomass4"	"<clr:84,255,159>Vegas: Hmmmm, large swarm biomass. Anyone got a flamer?"
 
 
-"vegas.Biomass5" "<clr:84,255,159>Vegas: Swarm biomass!  Anyone got a flamer?"
+"vegas.Biomass5"	"<clr:84,255,159>Vegas: Swarm biomass!  Anyone got a flamer?"
 
 
-"vegas.Biomass6" "<clr:84,255,159>Vegas: Urgh!  More goo!  Let's set it on fire!"
+"vegas.Biomass6"	"<clr:84,255,159>Vegas: Urgh!  More goo!  Let's set it on fire!"
 
 
-"vegas.Biomass7" "<clr:84,255,159>Vegas: Urgh! Swarm biomass.  Where's the flamer?"
+"vegas.Biomass7"	"<clr:84,255,159>Vegas: Urgh! Swarm biomass.  Where's the flamer?"
 
 
-"vegas.TimeToLeave0" "<clr:84,255,159>Vegas: Objective completed.  Let's hit the slots."
+"vegas.TimeToLeave0"	"<clr:84,255,159>Vegas: Objective completed.  Let's hit the slots."
 
 
-"vegas.TimeToLeave1" "<clr:84,255,159>Vegas: Sweet!  Tequila, here I come."
+"vegas.TimeToLeave1"	"<clr:84,255,159>Vegas: Sweet!  Tequila, here I come."
 
 
-"vegas.WatchOut0" "<clr:84,255,159>Vegas: Lookout!"
+"vegas.WatchOut0"	"<clr:84,255,159>Vegas: Lookout!"
 
 
-"vegas.WatchOut1" "<clr:84,255,159>Vegas: There!"
+"vegas.WatchOut1"	"<clr:84,255,159>Vegas: There!"
 
 
-"vegas.WatchOut2" "<clr:84,255,159>Vegas: Watchout!"
+"vegas.WatchOut2"	"<clr:84,255,159>Vegas: Watchout!"
 
 
-"vegas.Shieldbug1" "<clr:84,255,159>Vegas: Holy shit."
+"vegas.Shieldbug1"	"<clr:84,255,159>Vegas: Holy shit."
 
 
-"vegas.Shieldbug2" "<clr:84,255,159>Vegas: Madre de dios!"
+"vegas.Shieldbug2"	"<clr:84,255,159>Vegas: Madre de dios!"
 
 
-"vegas.Shieldbug3" "<clr:84,255,159>Vegas: Shit, a shieldbug!"
+"vegas.Shieldbug3"	"<clr:84,255,159>Vegas: Shit, a shieldbug!"
 
 
-"vegas.ShieldbugHint0" "<clr:84,255,159>Vegas: They're vulnerable from behind."
+"vegas.ShieldbugHint0"	"<clr:84,255,159>Vegas: They're vulnerable from behind."
 
 
-"vegas.ShieldbugHint1" "<clr:84,255,159>Vegas: Use grenades."
+"vegas.ShieldbugHint1"	"<clr:84,255,159>Vegas: Use grenades."
 
 
-"vegas.ShieldbugHint2" "<clr:84,255,159>Vegas: Who's gonna get behind it?"
+"vegas.ShieldbugHint2"	"<clr:84,255,159>Vegas: Who's gonna get behind it?"
 
 
-"vegas.Parasite0" "<clr:84,255,159>Vegas: Look out, parasite!"
+"vegas.Parasite0"	"<clr:84,255,159>Vegas: Look out, parasite!"
 
 
-"vegas.Parasite2" "<clr:84,255,159>Vegas: Site!"
+"vegas.Parasite2"	"<clr:84,255,159>Vegas: Site!"
 
 
-"vegas.Parasite3" "<clr:84,255,159>Vegas: Site."
+"vegas.Parasite3"	"<clr:84,255,159>Vegas: Site."
 
 
-"vegas.BeenInfested0" "<clr:84,255,159>Vegas: Aahhh, get it off me!"
+"vegas.BeenInfested0"	"<clr:84,255,159>Vegas: Aahhh, get it off me!"
 
 
-"vegas.BeenInfested1" "<clr:84,255,159>Vegas: Aahh, it's on me!"
+"vegas.BeenInfested1"	"<clr:84,255,159>Vegas: Aahh, it's on me!"
 
 
-"vegas.BeenInfested2" "<clr:84,255,159>Vegas: Get it off, get it off, get it off!"
+"vegas.BeenInfested2"	"<clr:84,255,159>Vegas: Get it off, get it off, get it off!"
 
 
-"vegas.BeenInfested4" "<clr:84,255,159>Vegas: Help me get this thing off!"
+"vegas.BeenInfested4"	"<clr:84,255,159>Vegas: Help me get this thing off!"
 
 
-"vegas.SwarmEggs0" "<clr:84,255,159>Vegas: Careful, eggs."
+"vegas.SwarmEggs0"	"<clr:84,255,159>Vegas: Careful, eggs."
 
 
-"vegas.SwarmEggs1" "<clr:84,255,159>Vegas: Eggs."
+"vegas.SwarmEggs1"	"<clr:84,255,159>Vegas: Eggs."
 
 
-"vegas.SwarmEggs2" "<clr:84,255,159>Vegas: Watch out, swarm eggs."
+"vegas.SwarmEggs2"	"<clr:84,255,159>Vegas: Watch out, swarm eggs."
 
 
-"vegas.Grenade0" "<clr:84,255,159>Vegas: Clear."
+"vegas.Grenade0"	"<clr:84,255,159>Vegas: Clear."
 
 
-"vegas.Grenade1" "<clr:84,255,159>Vegas: Eat this."
+"vegas.Grenade1"	"<clr:84,255,159>Vegas: Eat this."
 
 
-"vegas.Grenade2" "<clr:84,255,159>Vegas: Fire in the hole!"
+"vegas.Grenade2"	"<clr:84,255,159>Vegas: Fire in the hole!"
 
 
-"vegas.Grenade3" "<clr:84,255,159>Vegas: Grenade!"
+"vegas.Grenade3"	"<clr:84,255,159>Vegas: Grenade!"
 
 
-"vegas.AlienTooClose0" "<clr:84,255,159>Vegas: Get it off!"
+"vegas.AlienTooClose0"	"<clr:84,255,159>Vegas: Get it off!"
 
 
-"vegas.AlienTooClose1" "<clr:84,255,159>Vegas: Hostile on me!"
+"vegas.AlienTooClose1"	"<clr:84,255,159>Vegas: Hostile on me!"
 
 
-"vegas.AlienTooClose2" "<clr:84,255,159>Vegas: Kill it!"
+"vegas.AlienTooClose2"	"<clr:84,255,159>Vegas: Kill it!"
 
 
-"vegas.AlienTooClose3" "<clr:84,255,159>Vegas: On me."
+"vegas.AlienTooClose3"	"<clr:84,255,159>Vegas: On me."
 
 
-"vegas.MadFiring0" "<clr:84,255,159>Vegas: Adios, muchachos."
+"vegas.MadFiring0"	"<clr:84,255,159>Vegas: Adios, muchachos."
 
 
-"vegas.MadFiring2" "<clr:84,255,159>Vegas: Oh, you wanna play rough."
+"vegas.MadFiring2"	"<clr:84,255,159>Vegas: Oh, you wanna play rough."
 
 
-"vegas.MadFiring3" "<clr:84,255,159>Vegas: You think you can take me?"
+"vegas.MadFiring3"	"<clr:84,255,159>Vegas: You think you can take me?"
 
 
-"vegas.BreachedDoor0" "<clr:84,255,159>Vegas: Hostiles breached the door!"
+"vegas.BreachedDoor0"	"<clr:84,255,159>Vegas: Hostiles breached the door!"
 
 
-"vegas.BreachedDoor1" "<clr:84,255,159>Vegas: They broke it down!"
+"vegas.BreachedDoor1"	"<clr:84,255,159>Vegas: They broke it down!"
 
 
-"vegas.BreachedDoor2" "<clr:84,255,159>Vegas: They're through the door!"
+"vegas.BreachedDoor2"	"<clr:84,255,159>Vegas: They're through the door!"
 
 
-"vegas.MarineDown0" "<clr:84,255,159>Vegas: Marine down!"
+"vegas.MarineDown0"	"<clr:84,255,159>Vegas: Marine down!"
 
 
-"vegas.MarineDown1" "<clr:84,255,159>Vegas: We lost one."
+"vegas.MarineDown1"	"<clr:84,255,159>Vegas: We lost one."
 
 
-"vegas.SmallPain0" "<clr:84,255,159>Vegas: [Pain]"
+"vegas.SmallPain0"	"<clr:84,255,159>Vegas: [Pain]"
 
 
-"vegas.SmallPain1" "<clr:84,255,159>Vegas: [Pain]"
+"vegas.SmallPain1"	"<clr:84,255,159>Vegas: [Pain]"
 
 
-"vegas.SmallPain2" "<clr:84,255,159>Vegas: [Pain]"
+"vegas.SmallPain2"	"<clr:84,255,159>Vegas: [Pain]"
 
 
-"vegas.LargePain0" "<clr:84,255,159>Vegas: [Pain]"
+"vegas.LargePain0"	"<clr:84,255,159>Vegas: [Pain]"
 
 
-"vegas.LargePain1" "<clr:84,255,159>Vegas: [Pain]"
+"vegas.LargePain1"	"<clr:84,255,159>Vegas: [Pain]"
 
 
-"vegas.Dead0" "<clr:84,255,159>Vegas: [Death]"
+"vegas.Dead0"	"<clr:84,255,159>Vegas: [Death]"
 
 
-"vegas.Dead1" "<clr:84,255,159>Vegas: [Death]"
+"vegas.Dead1"	"<clr:84,255,159>Vegas: [Death]"
 
 
-"vegas.OnFire0" "<clr:84,255,159>Vegas: Aaah, put me out, put me out!  Aaaaarhh!"
+"vegas.OnFire0"	"<clr:84,255,159>Vegas: Aaah, put me out, put me out!  Aaaaarhh!"
 
 
-"vegas.OnFire1" "<clr:84,255,159>Vegas: Aaaaarghhhh"
+"vegas.OnFire1"	"<clr:84,255,159>Vegas: Aaaaarghhhh"
 
 
-"vegas.StartedHack0" "<clr:84,255,159>Vegas: Ahh, finally something worthy of my time."
+"vegas.StartedHack0"	"<clr:84,255,159>Vegas: Ahh, finally something worthy of my time."
 
 
-"vegas.StartedHack1" "<clr:84,255,159>Vegas: I'll be in in no time."
+"vegas.StartedHack1"	"<clr:84,255,159>Vegas: I'll be in in no time."
 
 
-"vegas.StartedHack2" "<clr:84,255,159>Vegas: I'll be in in no time, haha!"
+"vegas.StartedHack2"	"<clr:84,255,159>Vegas: I'll be in in no time, haha!"
 
 
-"vegas.StartedHack3" "<clr:84,255,159>Vegas: Ok, lets make this baby play my game."
+"vegas.StartedHack3"	"<clr:84,255,159>Vegas: Ok, lets make this baby play my game."
 
 
-"vegas.StartedHack4" "<clr:84,255,159>Vegas: Starting hack."
+"vegas.StartedHack4"	"<clr:84,255,159>Vegas: Starting hack."
 
 
-"vegas.StartedHack5" "<clr:84,255,159>Vegas: Starting hack.  Cover me."
+"vegas.StartedHack5"	"<clr:84,255,159>Vegas: Starting hack.  Cover me."
 
 
-"vegas.StartedLongHack0" "<clr:84,255,159>Vegas: Ahh, finally something worthy of my time."
+"vegas.StartedLongHack0"	"<clr:84,255,159>Vegas: Ahh, finally something worthy of my time."
 
 
-"vegas.StartedLongHack1" "<clr:84,255,159>Vegas: Cover me, this'll take awhile."
+"vegas.StartedLongHack1"	"<clr:84,255,159>Vegas: Cover me, this'll take awhile."
 
 
-"vegas.StartedLongHack2" "<clr:84,255,159>Vegas: Cover me.  This'll take awhile."
+"vegas.StartedLongHack2"	"<clr:84,255,159>Vegas: Cover me.  This'll take awhile."
 
 
-"vegas.StartedLongHack3" "<clr:84,255,159>Vegas: Hmm, complicated.  You got my back, right?"
+"vegas.StartedLongHack3"	"<clr:84,255,159>Vegas: Hmm, complicated.  You got my back, right?"
 
 
-"vegas.StartedLongHack4" "<clr:84,255,159>Vegas: Ok, let's make this baby play my game."
+"vegas.StartedLongHack4"	"<clr:84,255,159>Vegas: Ok, let's make this baby play my game."
 
 
-"vegas.StartedLongHack5" "<clr:84,255,159>Vegas: Starting hack."
+"vegas.StartedLongHack5"	"<clr:84,255,159>Vegas: Starting hack."
 
 
-"vegas.StartedLongHack6" "<clr:84,255,159>Vegas: Starting hack, cover me."
+"vegas.StartedLongHack6"	"<clr:84,255,159>Vegas: Starting hack, cover me."
 
 
-"vegas.StartedLongHack7" "<clr:84,255,159>Vegas: Watch my back, ok?"
+"vegas.StartedLongHack7"	"<clr:84,255,159>Vegas: Watch my back, ok?"
 
 
-"vegas.HalfwayHack0" "<clr:84,255,159>Vegas: Hack at 50%"
+"vegas.HalfwayHack0"	"<clr:84,255,159>Vegas: Hack at 50%"
 
 
-"vegas.HalfwayHack1" "<clr:84,255,159>Vegas: Halfway there."
+"vegas.HalfwayHack1"	"<clr:84,255,159>Vegas: Halfway there."
 
 
-"vegas.HalfwayHack2" "<clr:84,255,159>Vegas: Halfway through."
+"vegas.HalfwayHack2"	"<clr:84,255,159>Vegas: Halfway through."
 
 
-"vegas.FinishedHack0" "<clr:84,255,159>Vegas: Hack completed.  What did I win?"
+"vegas.FinishedHack0"	"<clr:84,255,159>Vegas: Hack completed.  What did I win?"
 
 
-"vegas.FinishedHack1" "<clr:84,255,159>Vegas: Haha, I'm in!"
+"vegas.FinishedHack1"	"<clr:84,255,159>Vegas: Haha, I'm in!"
 
 
-"vegas.FinishedHack2" "<clr:84,255,159>Vegas: Ok, who wants to read some corporate mail?"
+"vegas.FinishedHack2"	"<clr:84,255,159>Vegas: Ok, who wants to read some corporate mail?"
 
 
-"vegas.FinishedHack3" "<clr:84,255,159>Vegas: Success!"
+"vegas.FinishedHack3"	"<clr:84,255,159>Vegas: Success!"
 
 
-"vegas.FinishedHack4" "<clr:84,255,159>Vegas: Too easy!"
+"vegas.FinishedHack4"	"<clr:84,255,159>Vegas: Too easy!"
 
 
-"vegas.FinishedHackButton0" "<clr:84,255,159>Vegas: Hack complete!  What did I win?"
+"vegas.FinishedHackButton0"	"<clr:84,255,159>Vegas: Hack complete!  What did I win?"
 
 
-"vegas.FinishedHackButton1" "<clr:84,255,159>Vegas: Success!"
+"vegas.FinishedHackButton1"	"<clr:84,255,159>Vegas: Success!"
 
 
-"vegas.FinishedHackButton2" "<clr:84,255,159>Vegas: Too easy!"
+"vegas.FinishedHackButton2"	"<clr:84,255,159>Vegas: Too easy!"
 
 
-"vegas.ScannerMultiple0" "<clr:84,255,159>Vegas: Lots of signals all around."
+"vegas.ScannerMultiple0"	"<clr:84,255,159>Vegas: Lots of signals all around."
 
 
-"vegas.ScannerMultiple1" "<clr:84,255,159>Vegas: Lots of signals all around."
+"vegas.ScannerMultiple1"	"<clr:84,255,159>Vegas: Lots of signals all around."
 
 
-"vegas.ScannerMultiple2" "<clr:84,255,159>Vegas: Multiple signals all around."
+"vegas.ScannerMultiple2"	"<clr:84,255,159>Vegas: Multiple signals all around."
 
 
-"vegas.ScannerMultiple3" "<clr:84,255,159>Vegas: They're all around us."
+"vegas.ScannerMultiple3"	"<clr:84,255,159>Vegas: They're all around us."
 
 
-"vegas.ScannerMultiple4" "<clr:84,255,159>Vegas: They're coming from all around!"
+"vegas.ScannerMultiple4"	"<clr:84,255,159>Vegas: They're coming from all around!"
 
 
-"vegas.ActivateStims0" "<clr:84,255,159>Vegas: Activate stims."
+"vegas.ActivateStims0"	"<clr:84,255,159>Vegas: Activate stims."
 
 
-"vegas.ActivateStims1" "<clr:84,255,159>Vegas: Hit the stims."
+"vegas.ActivateStims1"	"<clr:84,255,159>Vegas: Hit the stims."
 
 
-"vegas.ActivateStims2" "<clr:84,255,159>Vegas: Stim now!"
+"vegas.ActivateStims2"	"<clr:84,255,159>Vegas: Stim now!"
 
 
-"vegas.Compliments0" "<clr:84,255,159>Vegas: Good job, amigo."
+"vegas.Compliments0"	"<clr:84,255,159>Vegas: Good job, amigo."
 
 
-"vegas.Compliments1" "<clr:84,255,159>Vegas: Impressive."
+"vegas.Compliments1"	"<clr:84,255,159>Vegas: Impressive."
 
 
-"vegas.Compliments2" "<clr:84,255,159>Vegas: Nice one, amigo."
+"vegas.Compliments2"	"<clr:84,255,159>Vegas: Nice one, amigo."
 
 
-"vegas.Impatience0" "<clr:84,255,159>Vegas: Clock is ticking, amigo."
+"vegas.Impatience0"	"<clr:84,255,159>Vegas: Clock is ticking, amigo."
 
 
-"vegas.Selection0" "<clr:84,255,159>Vegas: Ready."
+"vegas.Selection0"	"<clr:84,255,159>Vegas: Ready."
 
 
-"vegas.Selection1" "<clr:84,255,159>Vegas: Wanna play a litle game?"
+"vegas.Selection1"	"<clr:84,255,159>Vegas: Wanna play a litle game?"
 
 
-"vegas.Selection2" "<clr:84,255,159>Vegas: What do you want?"
+"vegas.Selection2"	"<clr:84,255,159>Vegas: What do you want?"
 
 
 
@@ -3273,523 +3273,523 @@
 "wildcat.WolfeBestReply0"  "<clr:238,106,80>Wildcat: Heha! Yeah, well, We'll see who's the best now!"
 
 
-"wildcat.WolfeBestReply1" "<clr:238,106,80>Wildcat: Yeah, but I've got some tricks of my own."
+"wildcat.WolfeBestReply1"	"<clr:238,106,80>Wildcat: Yeah, but I've got some tricks of my own."
 
 
-"wildcat.MedicComplainReply0" "<clr:238,106,80>Wildcat: Hey, I give as much as I take."
+"wildcat.MedicComplainReply0"	"<clr:238,106,80>Wildcat: Hey, I give as much as I take."
 
 
-"wildcat.TequilaReply0" "<clr:238,106,80>Wildcat: Got enough for two?"
+"wildcat.TequilaReply0"	"<clr:238,106,80>Wildcat: Got enough for two?"
 
 
-"wildcat.InjuredSelection0" "<clr:238,106,80>Wildcat: I can make it."
+"wildcat.InjuredSelection0"	"<clr:238,106,80>Wildcat: I can make it."
 
 
-"wildcat.InjuredSelection1" "<clr:238,106,80>Wildcat: Make it quick."
+"wildcat.InjuredSelection1"	"<clr:238,106,80>Wildcat: Make it quick."
 
 
-"wildcat.InjuredSelection2" "<clr:238,106,80>Wildcat: They'll pay for this."
+"wildcat.InjuredSelection2"	"<clr:238,106,80>Wildcat: They'll pay for this."
 
 
-"wildcat.SeriousInjuryReply0" "<clr:238,106,80>Wildcat: Christ, can you just fix it up."
+"wildcat.SeriousInjuryReply0"	"<clr:238,106,80>Wildcat: Christ, can you just fix it up."
 
 
-"wildcat.StillBreathingReply0" "<clr:238,106,80>Wildcat: Hey, it's the same corp that made you sergeant."
+"wildcat.StillBreathingReply0"	"<clr:238,106,80>Wildcat: Hey, it's the same corp that made you sergeant."
 
 
-"wildcat.Autogun0" "<clr:238,106,80>Wildcat: Come on, there's plenty to go around."
+"wildcat.Autogun0"	"<clr:238,106,80>Wildcat: Come on, there's plenty to go around."
 
 
-"wildcat.Autogun1" "<clr:238,106,80>Wildcat: Die you son of a bitch, die!"
+"wildcat.Autogun1"	"<clr:238,106,80>Wildcat: Die you son of a bitch, die!"
 
 
-"wildcat.Autogun2" "<clr:238,106,80>Wildcat: Wiee!  Those little crawlers are toast!"
+"wildcat.Autogun2"	"<clr:238,106,80>Wildcat: Wiee!  Those little crawlers are toast!"
 
 
-"wildcat.AutogunReply0" "<clr:238,106,80>Wildcat: Hahaha, man!"
+"wildcat.AutogunReply0"	"<clr:238,106,80>Wildcat: Hahaha, man!"
 
 
-"wildcat.AutogunReply1" "<clr:238,106,80>Wildcat: Hell, yeah!"
+"wildcat.AutogunReply1"	"<clr:238,106,80>Wildcat: Hell, yeah!"
 
 
-"wildcat.Use0" "<clr:238,106,80>Wildcat: No problem."
+"wildcat.Use0"	"<clr:238,106,80>Wildcat: No problem."
 
 
-"wildcat.Use1" "<clr:238,106,80>Wildcat: Roger."
+"wildcat.Use1"	"<clr:238,106,80>Wildcat: Roger."
 
 
-"wildcat.Use2" "<clr:238,106,80>Wildcat: Sure."
+"wildcat.Use2"	"<clr:238,106,80>Wildcat: Sure."
 
 
-"wildcat.Use3" "<clr:238,106,80>Wildcat: Yeah."
+"wildcat.Use3"	"<clr:238,106,80>Wildcat: Yeah."
 
 
-"wildcat.Idle0" "<clr:238,106,80>Wildcat: Did you hear that noise."
+"wildcat.Idle0"	"<clr:238,106,80>Wildcat: Did you hear that noise."
 
 
-"wildcat.Idle1" "<clr:238,106,80>Wildcat: I say we set some T-75 explosives and get the hell out!"
+"wildcat.Idle1"	"<clr:238,106,80>Wildcat: I say we set some T-75 explosives and get the hell out!"
 
 
-"wildcat.Idle2" "<clr:238,106,80>Wildcat: Let's get this party started."
+"wildcat.Idle2"	"<clr:238,106,80>Wildcat: Let's get this party started."
 
 
-"wildcat.Idle3" "<clr:238,106,80>Wildcat: Meow."
+"wildcat.Idle3"	"<clr:238,106,80>Wildcat: Meow."
 
 
-"wildcat.Idle4" "<clr:238,106,80>Wildcat: Peace through superior firepower."
+"wildcat.Idle4"	"<clr:238,106,80>Wildcat: Peace through superior firepower."
 
 
-"wildcat.Idle5" "<clr:238,106,80>Wildcat: Who dares, wins."
+"wildcat.Idle5"	"<clr:238,106,80>Wildcat: Who dares, wins."
 
 
-"wildcat.Idle6" "<clr:238,106,80>Wildcat: Shouldn't we be wasting bugs instead of cooling our heels?"
+"wildcat.Idle6"	"<clr:238,106,80>Wildcat: Shouldn't we be wasting bugs instead of cooling our heels?"
 
 
-"wildcat.FF0" "<clr:238,106,80>Wildcat: Christ, man."
+"wildcat.FF0"	"<clr:238,106,80>Wildcat: Christ, man."
 
 
-"wildcat.FF1" "<clr:238,106,80>Wildcat: Watch it, man!"
+"wildcat.FF1"	"<clr:238,106,80>Wildcat: Watch it, man!"
 
 
-"wildcat.FiringAtAlien0" "<clr:238,106,80>Wildcat: Covering fire."
+"wildcat.FiringAtAlien0"	"<clr:238,106,80>Wildcat: Covering fire."
 
 
-"wildcat.FiringAtAlien1" "<clr:238,106,80>Wildcat: Kill em all."
+"wildcat.FiringAtAlien1"	"<clr:238,106,80>Wildcat: Kill em all."
 
 
-"wildcat.FollowMe0" "<clr:238,106,80>Wildcat: Follow me."
+"wildcat.FollowMe0"	"<clr:238,106,80>Wildcat: Follow me."
 
 
-"wildcat.FollowMe1" "<clr:238,106,80>Wildcat: Let's move."
+"wildcat.FollowMe1"	"<clr:238,106,80>Wildcat: Let's move."
 
 
-"wildcat.FollowMe2" "<clr:238,106,80>Wildcat: Let's move out!"
+"wildcat.FollowMe2"	"<clr:238,106,80>Wildcat: Let's move out!"
 
 
-"wildcat.HoldPosition0" "<clr:238,106,80>Wildcat: Hold position."
+"wildcat.HoldPosition0"	"<clr:238,106,80>Wildcat: Hold position."
 
 
-"wildcat.HoldPosition1" "<clr:238,106,80>Wildcat: Secure this area."
+"wildcat.HoldPosition1"	"<clr:238,106,80>Wildcat: Secure this area."
 
 
-"wildcat.HoldPosition2" "<clr:238,106,80>Wildcat: Stay here."
+"wildcat.HoldPosition2"	"<clr:238,106,80>Wildcat: Stay here."
 
 
-"wildcat.NeedAmmo0" "<clr:238,106,80>Wildcat: Need ammo."
+"wildcat.NeedAmmo0"	"<clr:238,106,80>Wildcat: Need ammo."
 
 
-"wildcat.NoAmmo0" "<clr:238,106,80>Wildcat: Damn, out of ammo."
+"wildcat.NoAmmo0"	"<clr:238,106,80>Wildcat: Damn, out of ammo."
 
 
-"wildcat.NoAmmo1" "<clr:238,106,80>Wildcat: No ammo!"
+"wildcat.NoAmmo1"	"<clr:238,106,80>Wildcat: No ammo!"
 
 
-"wildcat.NoAmmo2" "<clr:238,106,80>Wildcat: Out of ammo!"
+"wildcat.NoAmmo2"	"<clr:238,106,80>Wildcat: Out of ammo!"
 
 
-"wildcat.NoAmmo3" "<clr:238,106,80>Wildcat: Shit, out of ammo."
+"wildcat.NoAmmo3"	"<clr:238,106,80>Wildcat: Shit, out of ammo."
 
 
-"wildcat.Medic0" "<clr:238,106,80>Wildcat: Medic!"
+"wildcat.Medic0"	"<clr:238,106,80>Wildcat: Medic!"
 
 
-"wildcat.WildcatKillStart0" "<clr:238,106,80>Wildcat: Hah, you see that one, Wolfe?"
+"wildcat.WildcatKillStart0"	"<clr:238,106,80>Wildcat: Hah, you see that one, Wolfe?"
 
 
-"wildcat.WildcatKillStart1" "<clr:238,106,80>Wildcat: That's another for me, Wolfe.  You slowing down old man."
+"wildcat.WildcatKillStart1"	"<clr:238,106,80>Wildcat: That's another for me, Wolfe.  You slowing down old man."
 
 
-"wildcat.WildcatKillReplyAhead0" "<clr:238,106,80>Wildcat: Hehehe"
+"wildcat.WildcatKillReplyAhead0"	"<clr:238,106,80>Wildcat: Hehehe"
 
 
-"wildcat.WildcatKillReplyBehind0" "<clr:238,106,80>Wildcat: Damn it."
+"wildcat.WildcatKillReplyBehind0"	"<clr:238,106,80>Wildcat: Damn it."
 
 
-"wildcat.WildcatKillReplyBehind1" "<clr:238,106,80>Wildcat: Damn it!"
+"wildcat.WildcatKillReplyBehind1"	"<clr:238,106,80>Wildcat: Damn it!"
 
 
-"wildcat.WolfeKillReplyAhead0" "<clr:238,106,80>Wildcat: I'm still ahead, Wolfe."
+"wildcat.WolfeKillReplyAhead0"	"<clr:238,106,80>Wildcat: I'm still ahead, Wolfe."
 
 
-"wildcat.WolfeKillReplyAhead1" "<clr:238,106,80>Wildcat: It'll take more than that to beat me, old man."
+"wildcat.WolfeKillReplyAhead1"	"<clr:238,106,80>Wildcat: It'll take more than that to beat me, old man."
 
 
-"wildcat.WolfeKillReplyBehind0" "<clr:238,106,80>Wildcat: Damn it!"
+"wildcat.WolfeKillReplyBehind0"	"<clr:238,106,80>Wildcat: Damn it!"
 
 
-"wildcat.WolfeKillReplyBehind1" "<clr:238,106,80>Wildcat: Yeah, yeah."
+"wildcat.WolfeKillReplyBehind1"	"<clr:238,106,80>Wildcat: Yeah, yeah."
 
 
-"wildcat.Reloading0" "<clr:238,106,80>Wildcat: Lock and load."
+"wildcat.Reloading0"	"<clr:238,106,80>Wildcat: Lock and load."
 
 
-"wildcat.Reloading1" "<clr:238,106,80>Wildcat: Reload."
+"wildcat.Reloading1"	"<clr:238,106,80>Wildcat: Reload."
 
 
-"wildcat.Reloading2" "<clr:238,106,80>Wildcat: Reload.  Cover me."
+"wildcat.Reloading2"	"<clr:238,106,80>Wildcat: Reload.  Cover me."
 
 
-"wildcat.Reloading3" "<clr:238,106,80>Wildcat: Reloading."
+"wildcat.Reloading3"	"<clr:238,106,80>Wildcat: Reloading."
 
 
-"wildcat.SentryInPlace0" "<clr:238,106,80>Wildcat: Go get them, girl."
+"wildcat.SentryInPlace0"	"<clr:238,106,80>Wildcat: Go get them, girl."
 
 
-"wildcat.SentryInPlace1" "<clr:238,106,80>Wildcat: Sentry assembled."
+"wildcat.SentryInPlace1"	"<clr:238,106,80>Wildcat: Sentry assembled."
 
 
-"wildcat.SentryInPlace2" "<clr:238,106,80>Wildcat: Sentry's online."
+"wildcat.SentryInPlace2"	"<clr:238,106,80>Wildcat: Sentry's online."
 
 
-"wildcat.Ammo0" "<clr:238,106,80>Wildcat: Ammo!"
+"wildcat.Ammo0"	"<clr:238,106,80>Wildcat: Ammo!"
 
 
-"wildcat.Medkit0" "<clr:238,106,80>Wildcat: Medkit!"
+"wildcat.Medkit0"	"<clr:238,106,80>Wildcat: Medkit!"
 
 
-"wildcat.Thanks0" "<clr:238,106,80>Wildcat: I owe you one."
+"wildcat.Thanks0"	"<clr:238,106,80>Wildcat: I owe you one."
 
 
-"wildcat.Thanks1" "<clr:238,106,80>Wildcat: Thanks!"
+"wildcat.Thanks1"	"<clr:238,106,80>Wildcat: Thanks!"
 
 
-"wildcat.Question0" "<clr:238,106,80>Wildcat: Huh?"
+"wildcat.Question0"	"<clr:238,106,80>Wildcat: Huh?"
 
 
-"wildcat.Question1" "<clr:238,106,80>Wildcat: What?"
+"wildcat.Question1"	"<clr:238,106,80>Wildcat: What?"
 
 
-"wildcat.Question2" "<clr:238,106,80>Wildcat: What?"
+"wildcat.Question2"	"<clr:238,106,80>Wildcat: What?"
 
 
-"wildcat.Question3" "<clr:238,106,80>Wildcat: What is it?"
+"wildcat.Question3"	"<clr:238,106,80>Wildcat: What is it?"
 
 
-"wildcat.Question4" "<clr:238,106,80>Wildcat: What's up?"
+"wildcat.Question4"	"<clr:238,106,80>Wildcat: What's up?"
 
 
-"wildcat.CallSarge0" "<clr:238,106,80>Wildcat: Hey, Sarge."
+"wildcat.CallSarge0"	"<clr:238,106,80>Wildcat: Hey, Sarge."
 
 
-"wildcat.CallSarge1" "<clr:238,106,80>Wildcat: Sarge."
+"wildcat.CallSarge1"	"<clr:238,106,80>Wildcat: Sarge."
 
 
-"wildcat.CallJaeger0" "<clr:238,106,80>Wildcat: Hey, Jaeger." 
+"wildcat.CallJaeger0"	"<clr:238,106,80>Wildcat: Hey, Jaeger." 
 
 
-"wildcat.CallJaeger1" "<clr:238,106,80>Wildcat: Jaeger."
+"wildcat.CallJaeger1"	"<clr:238,106,80>Wildcat: Jaeger."
 
 
-"wildcat.CallWolfe0" "<clr:238,106,80>Wildcat: Hey, Wolfe."
+"wildcat.CallWolfe0"	"<clr:238,106,80>Wildcat: Hey, Wolfe."
 
 
-"wildcat.CallWolfe1" "<clr:238,106,80>Wildcat: Wolfe."
+"wildcat.CallWolfe1"	"<clr:238,106,80>Wildcat: Wolfe."
 
 
-"wildcat.CallFaith0" "<clr:238,106,80>Wildcat: Faith."
+"wildcat.CallFaith0"	"<clr:238,106,80>Wildcat: Faith."
 
 
-"wildcat.CallFaith1" "<clr:238,106,80>Wildcat: Hey, Faith."
+"wildcat.CallFaith1"	"<clr:238,106,80>Wildcat: Hey, Faith."
 
 
-"wildcat.CallBastille0" "<clr:238,106,80>Wildcat: Bastille."
+"wildcat.CallBastille0"	"<clr:238,106,80>Wildcat: Bastille."
 
 
-"wildcat.CallBastille1" "<clr:238,106,80>Wildcat: Hey, Bastille."
+"wildcat.CallBastille1"	"<clr:238,106,80>Wildcat: Hey, Bastille."
 
 
-"wildcat.CallCrash0" "<clr:238,106,80>Wildcat: Crash."
+"wildcat.CallCrash0"	"<clr:238,106,80>Wildcat: Crash."
 
 
-"wildcat.CallCrash1" "<clr:238,106,80>Wildcat: Hey, Crash."
+"wildcat.CallCrash1"	"<clr:238,106,80>Wildcat: Hey, Crash."
 
 
-"wildcat.CallFlynn0" "<clr:238,106,80>Wildcat: Flynn."
+"wildcat.CallFlynn0"	"<clr:238,106,80>Wildcat: Flynn."
 
 
-"wildcat.CallFlynn1" "<clr:238,106,80>Wildcat: Hey, Flynn."
+"wildcat.CallFlynn1"	"<clr:238,106,80>Wildcat: Hey, Flynn."
 
 
-"wildcat.CallVegas0" "<clr:238,106,80>Wildcat: Hey, Vegas."
+"wildcat.CallVegas0"	"<clr:238,106,80>Wildcat: Hey, Vegas."
 
 
-"wildcat.CallVegas1" "<clr:238,106,80>Wildcat: Vegas."
+"wildcat.CallVegas1"	"<clr:238,106,80>Wildcat: Vegas."
 
 
-"wildcat.SuppliesAmmo0" "<clr:238,106,80>Wildcat: Good!  More ammo."
+"wildcat.SuppliesAmmo0"	"<clr:238,106,80>Wildcat: Good!  More ammo."
 
 
-"wildcat.SuppliesAmmo1" "<clr:238,106,80>Wildcat: Whew!  Ammo stash."
+"wildcat.SuppliesAmmo1"	"<clr:238,106,80>Wildcat: Whew!  Ammo stash."
 
 
-"wildcat.Supplies0" "<clr:238,106,80>Wildcat: Haha, just what we need."
+"wildcat.Supplies0"	"<clr:238,106,80>Wildcat: Haha, just what we need."
 
 
-"wildcat.LockedTerminalCrash0" "<clr:238,106,80>Wildcat: Crash, this is all yours."
+"wildcat.LockedTerminalCrash0"	"<clr:238,106,80>Wildcat: Crash, this is all yours."
 
 
-"wildcat.LockedTerminalFlynn0" "<clr:238,106,80>Wildcat: Flynn, this is all yours."
+"wildcat.LockedTerminalFlynn0"	"<clr:238,106,80>Wildcat: Flynn, this is all yours."
 
 
-"wildcat.LockedTerminalVegas0" "<clr:238,106,80>Wildcat: Vegas, this is all yours."
+"wildcat.LockedTerminalVegas0"	"<clr:238,106,80>Wildcat: Vegas, this is all yours."
 
 
-"wildcat.LockedTerminal0" "<clr:238,106,80>Wildcat: Damn it.  All locked down."
+"wildcat.LockedTerminal0"	"<clr:238,106,80>Wildcat: Damn it.  All locked down."
 
 
-"wildcat.LockedTerminal1" "<clr:238,106,80>Wildcat: Damn it, this thing is secure."
+"wildcat.LockedTerminal1"	"<clr:238,106,80>Wildcat: Damn it, this thing is secure."
 
 
-"wildcat.HoldingPosition0" "<clr:238,106,80>Wildcat: Covering area."
+"wildcat.HoldingPosition0"	"<clr:238,106,80>Wildcat: Covering area."
 
 
-"wildcat.HoldingPosition1" "<clr:238,106,80>Wildcat: Holding position."
+"wildcat.HoldingPosition1"	"<clr:238,106,80>Wildcat: Holding position."
 
 
-"wildcat.HoldingPosition2" "<clr:238,106,80>Wildcat: In position."
+"wildcat.HoldingPosition2"	"<clr:238,106,80>Wildcat: In position."
 
 
-"wildcat.HoldingPosition3" "<clr:238,106,80>Wildcat: Securing area."
+"wildcat.HoldingPosition3"	"<clr:238,106,80>Wildcat: Securing area."
 
 
-"wildcat.HoldingPosition4" "<clr:238,106,80>Wildcat: They're not getting through here."
+"wildcat.HoldingPosition4"	"<clr:238,106,80>Wildcat: They're not getting through here."
 
 
-"wildcat.HoldingNorth0" "<clr:238,106,80>Wildcat: Covering north."
+"wildcat.HoldingNorth0"	"<clr:238,106,80>Wildcat: Covering north."
 
 
-"wildcat.HoldingNorth1" "<clr:238,106,80>Wildcat: Covering north side."
+"wildcat.HoldingNorth1"	"<clr:238,106,80>Wildcat: Covering north side."
 
 
-"wildcat.HoldingNorth2" "<clr:238,106,80>Wildcat: North side in position."
+"wildcat.HoldingNorth2"	"<clr:238,106,80>Wildcat: North side in position."
 
 
-"wildcat.HoldingSouth0" "<clr:238,106,80>Wildcat: Covering south."
+"wildcat.HoldingSouth0"	"<clr:238,106,80>Wildcat: Covering south."
 
 
-"wildcat.HoldingSouth1" "<clr:238,106,80>Wildcat: Covering south."
+"wildcat.HoldingSouth1"	"<clr:238,106,80>Wildcat: Covering south."
 
 
-"wildcat.HoldingSouth2" "<clr:238,106,80>Wildcat: South side covered."
+"wildcat.HoldingSouth2"	"<clr:238,106,80>Wildcat: South side covered."
 
 
-"wildcat.HoldingSouth3" "<clr:238,106,80>Wildcat: South side in position."
+"wildcat.HoldingSouth3"	"<clr:238,106,80>Wildcat: South side in position."
 
 
-"wildcat.HoldingEast0" "<clr:238,106,80>Wildcat: Covering east."
+"wildcat.HoldingEast0"	"<clr:238,106,80>Wildcat: Covering east."
 
 
-"wildcat.HoldingEast1" "<clr:238,106,80>Wildcat: Covering east side."
+"wildcat.HoldingEast1"	"<clr:238,106,80>Wildcat: Covering east side."
 
 
-"wildcat.HoldingEast2" "<clr:238,106,80>Wildcat: East side in position."
+"wildcat.HoldingEast2"	"<clr:238,106,80>Wildcat: East side in position."
 
 
-"wildcat.HoldingWest0" "<clr:238,106,80>Wildcat: Covering west."
+"wildcat.HoldingWest0"	"<clr:238,106,80>Wildcat: Covering west."
 
 
-"wildcat.HoldingWest1" "<clr:238,106,80>Wildcat: Covering west side."
+"wildcat.HoldingWest1"	"<clr:238,106,80>Wildcat: Covering west side."
 
 
-"wildcat.HoldingWest2" "<clr:238,106,80>Wildcat: West side in position."
+"wildcat.HoldingWest2"	"<clr:238,106,80>Wildcat: West side in position."
 
 
-"wildcat.GotPoint0" "<clr:238,106,80>Wildcat: I've got point."
+"wildcat.GotPoint0"	"<clr:238,106,80>Wildcat: I've got point."
 
 
-"wildcat.GotPoint1" "<clr:238,106,80>Wildcat: Wildcat taking point."
+"wildcat.GotPoint1"	"<clr:238,106,80>Wildcat: Wildcat taking point."
 
 
-"wildcat.GotRear0" "<clr:238,106,80>Wildcat: Dont worry guys, I've got your back."
+"wildcat.GotRear0"	"<clr:238,106,80>Wildcat: Dont worry guys, I've got your back."
 
 
-"wildcat.GotRear1" "<clr:238,106,80>Wildcat: Wildcat's on six."
+"wildcat.GotRear1"	"<clr:238,106,80>Wildcat: Wildcat's on six."
 
 
-"wildcat.GotRear2" "<clr:238,106,80>Wildcat: Wildcat taking rear guard."
+"wildcat.GotRear2"	"<clr:238,106,80>Wildcat: Wildcat taking rear guard."
 
 
-"wildcat.RequestSealDoor0" "<clr:238,106,80>Wildcat: Seal it up."
+"wildcat.RequestSealDoor0"	"<clr:238,106,80>Wildcat: Seal it up."
 
 
-"wildcat.RequestSealDoor1" "<clr:238,106,80>Wildcat: Secure the door!"
+"wildcat.RequestSealDoor1"	"<clr:238,106,80>Wildcat: Secure the door!"
 
 
-"wildcat.RequestCutDoor0" "<clr:238,106,80>Wildcat: Cut it open."
+"wildcat.RequestCutDoor0"	"<clr:238,106,80>Wildcat: Cut it open."
 
 
-"wildcat.RequestCutDoor1" "<clr:238,106,80>Wildcat: Get it open."
+"wildcat.RequestCutDoor1"	"<clr:238,106,80>Wildcat: Get it open."
 
 
-"wildcat.RequestShootDoor0" "<clr:238,106,80>Wildcat: Blast it open."
+"wildcat.RequestShootDoor0"	"<clr:238,106,80>Wildcat: Blast it open."
 
 
-"wildcat.RequestShootDoor1" "<clr:238,106,80>Wildcat: Shoot it."
+"wildcat.RequestShootDoor1"	"<clr:238,106,80>Wildcat: Shoot it."
 
 
-"wildcat.CuttingDoor0" "<clr:238,106,80>Wildcat: Cutting door."
+"wildcat.CuttingDoor0"	"<clr:238,106,80>Wildcat: Cutting door."
 
 
-"wildcat.CuttingDoor1" "<clr:238,106,80>Wildcat: Roger that.  Cutting door."
+"wildcat.CuttingDoor1"	"<clr:238,106,80>Wildcat: Roger that.  Cutting door."
 
 
-"wildcat.SealingDoor0" "<clr:238,106,80>Wildcat: Securing door."
+"wildcat.SealingDoor0"	"<clr:238,106,80>Wildcat: Securing door."
 
 
-"wildcat.SealingDoor1" "<clr:238,106,80>Wildcat: Wildcat sealing door."
+"wildcat.SealingDoor1"	"<clr:238,106,80>Wildcat: Wildcat sealing door."
 
 
-"wildcat.Biomass0" "<clr:238,106,80>Wildcat: Swarm biomass!  Burn it all."
+"wildcat.Biomass0"	"<clr:238,106,80>Wildcat: Swarm biomass!  Burn it all."
 
 
-"wildcat.Biomass1" "<clr:238,106,80>Wildcat: Swarm biomass.  I hate this stuff."
+"wildcat.Biomass1"	"<clr:238,106,80>Wildcat: Swarm biomass.  I hate this stuff."
 
 
-"wildcat.TimeToLeave0" "<clr:238,106,80>Wildcat: That's it, we're out of here."
+"wildcat.TimeToLeave0"	"<clr:238,106,80>Wildcat: That's it, we're out of here."
 
 
-"wildcat.TimeToLeave1" "<clr:238,106,80>Wildcat: Time to get the hell out."
+"wildcat.TimeToLeave1"	"<clr:238,106,80>Wildcat: Time to get the hell out."
 
 
-"wildcat.WatchOut0" "<clr:238,106,80>Wildcat: Look out!"
+"wildcat.WatchOut0"	"<clr:238,106,80>Wildcat: Look out!"
 
 
-"wildcat.WatchOut1" "<clr:238,106,80>Wildcat: Watch it!"
+"wildcat.WatchOut1"	"<clr:238,106,80>Wildcat: Watch it!"
 
 
-"wildcat.WatchOut2" "<clr:238,106,80>Wildcat: Watch out."
+"wildcat.WatchOut2"	"<clr:238,106,80>Wildcat: Watch out."
 
 
-"wildcat.Shieldbug0" "<clr:238,106,80>Wildcat: A shieldbug, kill it!"
+"wildcat.Shieldbug0"	"<clr:238,106,80>Wildcat: A shieldbug, kill it!"
 
 
-"wildcat.ShieldbugHint0" "<clr:238,106,80>Wildcat: Get behind it!"
+"wildcat.ShieldbugHint0"	"<clr:238,106,80>Wildcat: Get behind it!"
 
 
-"wildcat.ShieldbugHint1" "<clr:238,106,80>Wildcat: Shoot it in the back!"
+"wildcat.ShieldbugHint1"	"<clr:238,106,80>Wildcat: Shoot it in the back!"
 
 
-"wildcat.Parasite0" "<clr:238,106,80>Wildcat: Look out!  Parasite!"
+"wildcat.Parasite0"	"<clr:238,106,80>Wildcat: Look out!  Parasite!"
 
 
-"wildcat.Parasite1" "<clr:238,106,80>Wildcat: Parasite, kill it!"
+"wildcat.Parasite1"	"<clr:238,106,80>Wildcat: Parasite, kill it!"
 
 
-"wildcat.BeenInfested0" "<clr:238,106,80>Wildcat: Ahhh, get it off me!"
+"wildcat.BeenInfested0"	"<clr:238,106,80>Wildcat: Ahhh, get it off me!"
 
 
-"wildcat.BeenInfested1" "<clr:238,106,80>Wildcat: Get it off!"
+"wildcat.BeenInfested1"	"<clr:238,106,80>Wildcat: Get it off!"
 
 
-"wildcat.BeenInfested2" "<clr:238,106,80>Wildcat: Urrrgh!  It's on me!"
+"wildcat.BeenInfested2"	"<clr:238,106,80>Wildcat: Urrrgh!  It's on me!"
 
 
-"wildcat.SwarmEggs0" "<clr:238,106,80>Wildcat: Careful, swarm eggs."
+"wildcat.SwarmEggs0"	"<clr:238,106,80>Wildcat: Careful, swarm eggs."
 
 
-"wildcat.SwarmEggs1" "<clr:238,106,80>Wildcat: Swarm eggs."
+"wildcat.SwarmEggs1"	"<clr:238,106,80>Wildcat: Swarm eggs."
 
 
-"wildcat.SwarmEggs2" "<clr:238,106,80>Wildcat: Swarm eggs, take em out."
+"wildcat.SwarmEggs2"	"<clr:238,106,80>Wildcat: Swarm eggs, take em out."
 
 
-"wildcat.AlienTooClose0" "<clr:238,106,80>Wildcat: Kill it!"
+"wildcat.AlienTooClose0"	"<clr:238,106,80>Wildcat: Kill it!"
 
 
 "wildcat.AlienTooClose1"  "<clr:238,106,80>Wildcat: Get it off!"
 
 
-"wildcat.AlienTooClose2" "<clr:238,106,80>Wildcat: Kill it!"
+"wildcat.AlienTooClose2"	"<clr:238,106,80>Wildcat: Kill it!"
 
 
-"wildcat.AlienTooClose3" "<clr:238,106,80>Wildcat: On me!"
+"wildcat.AlienTooClose3"	"<clr:238,106,80>Wildcat: On me!"
 
 
-"wildcat.MadFiring0" "<clr:238,106,80>Wildcat: I'll kill you all!"
+"wildcat.MadFiring0"	"<clr:238,106,80>Wildcat: I'll kill you all!"
 
 
-"wildcat.MadFiring1" "<clr:238,106,80>Wildcat: Payback's a bitch, ain't it."
+"wildcat.MadFiring1"	"<clr:238,106,80>Wildcat: Payback's a bitch, ain't it."
 
 
-"wildcat.MadFiring2" "<clr:238,106,80>Wildcat: You like this?"
+"wildcat.MadFiring2"	"<clr:238,106,80>Wildcat: You like this?"
 
 
-"wildcat.BreachedDoor0" "<clr:238,106,80>Wildcat: Look out, they're through!"
+"wildcat.BreachedDoor0"	"<clr:238,106,80>Wildcat: Look out, they're through!"
 
 
-"wildcat.BreachedDoor1" "<clr:238,106,80>Wildcat: They're through."
+"wildcat.BreachedDoor1"	"<clr:238,106,80>Wildcat: They're through."
 
 
-"wildcat.MarineDown0" "<clr:238,106,80>Wildcat: Shit, Marine down."
+"wildcat.MarineDown0"	"<clr:238,106,80>Wildcat: Shit, Marine down."
 
 
-"wildcat.SmallPain0" "<clr:238,106,80>Wildcat: [Pain]"
+"wildcat.SmallPain0"	"<clr:238,106,80>Wildcat: [Pain]"
 
 
-"wildcat.SmallPain1" "<clr:238,106,80>Wildcat: [Pain]"
+"wildcat.SmallPain1"	"<clr:238,106,80>Wildcat: [Pain]"
 
 
-"wildcat.SmallPain2" "<clr:238,106,80>Wildcat: [Pain]"
+"wildcat.SmallPain2"	"<clr:238,106,80>Wildcat: [Pain]"
 
 
-"wildcat.LargePain0" "<clr:238,106,80>Wildcat: [Pain]"
+"wildcat.LargePain0"	"<clr:238,106,80>Wildcat: [Pain]"
 
 
-"wildcat.LargePain1" "<clr:238,106,80>Wildcat: [Pain]"
+"wildcat.LargePain1"	"<clr:238,106,80>Wildcat: [Pain]"
 
 
-"wildcat.Dead0" "<clr:238,106,80>Wildcat: [Death]"
+"wildcat.Dead0"	"<clr:238,106,80>Wildcat: [Death]"
 
 
-"wildcat.Dead1" "<clr:238,106,80>Wildcat: [Death]"
+"wildcat.Dead1"	"<clr:238,106,80>Wildcat: [Death]"
 
 
-"wildcat.OnFire0" "<clr:238,106,80>Wildcat: [Screaming]"
+"wildcat.OnFire0"	"<clr:238,106,80>Wildcat: [Screaming]"
 
 
-"wildcat.ActivateStims0" "<clr:238,106,80>Wildcat: Activate the stim pack."
+"wildcat.ActivateStims0"	"<clr:238,106,80>Wildcat: Activate the stim pack."
 
 
-"wildcat.ActivateStims1" "<clr:238,106,80>Wildcat: Hit the stims."
+"wildcat.ActivateStims1"	"<clr:238,106,80>Wildcat: Hit the stims."
 
 
-"wildcat.ActivateStims2" "<clr:238,106,80>Wildcat: Stim now."
+"wildcat.ActivateStims2"	"<clr:238,106,80>Wildcat: Stim now."
 
 
-"wildcat.ActivateStims3" "<clr:238,106,80>Wildcat: Stimpack now."
+"wildcat.ActivateStims3"	"<clr:238,106,80>Wildcat: Stimpack now."
 
 
-"wildcat.ComplimentsWolfe0" "<clr:238,106,80>Wildcat: Nice shot, Wolfe."
+"wildcat.ComplimentsWolfe0"	"<clr:238,106,80>Wildcat: Nice shot, Wolfe."
 
 
-"wildcat.ComplimentsWolfe1" "<clr:238,106,80>Wildcat: Not bad, Wolfe.  For an old timer."
+"wildcat.ComplimentsWolfe1"	"<clr:238,106,80>Wildcat: Not bad, Wolfe.  For an old timer."
 
 
-"wildcat.ComplimentsCrash0" "<clr:238,106,80>Wildcat: Hey Crash, you're my hero."
+"wildcat.ComplimentsCrash0"	"<clr:238,106,80>Wildcat: Hey Crash, you're my hero."
 
 
-"wildcat.Compliments0" "<clr:238,106,80>Wildcat: Nice job!"
+"wildcat.Compliments0"	"<clr:238,106,80>Wildcat: Nice job!"
 
 
-"wildcat.Impatience0" "<clr:238,106,80>Wildcat: Christ, what's taking so long?"
+"wildcat.Impatience0"	"<clr:238,106,80>Wildcat: Christ, what's taking so long?"
 
 
-"wildcat.Selection0" "<clr:238,106,80>Wildcat: Anytime, anywhere."
+"wildcat.Selection0"	"<clr:238,106,80>Wildcat: Anytime, anywhere."
 
 
-"wildcat.Selection1" "<clr:238,106,80>Wildcat: Let's do this."
+"wildcat.Selection1"	"<clr:238,106,80>Wildcat: Let's do this."
 
 
-"wildcat.Selection2" "<clr:238,106,80>Wildcat: Sir."
+"wildcat.Selection2"	"<clr:238,106,80>Wildcat: Sir."
 
 
-"wildcat.Selection3" "<clr:238,106,80>Wildcat: Yeah."
+"wildcat.Selection3"	"<clr:238,106,80>Wildcat: Yeah."
 
 
-"wildcat.Grenade0" "<clr:238,106,80>Wildcat: Look out!"
+"wildcat.Grenade0"	"<clr:238,106,80>Wildcat: Look out!"
 
 
-"wildcat.Grenade1" "<clr:238,106,80>Wildcat: Watch out."
+"wildcat.Grenade1"	"<clr:238,106,80>Wildcat: Watch out."
 
 
 
@@ -3813,10 +3813,10 @@
 "wolfe.WolfeBestReply2"  "<clr:154,205,50>Wolfe: Now that sounds like a challenge."
 
 
-"wolfe.WolfeBestReply3" "<clr:154,205,50>Wolfe: Oh, now it's on!"
+"wolfe.WolfeBestReply3"	"<clr:154,205,50>Wolfe: Oh, now it's on!"
 
 
-"wolfe.WolfeBestReply4" "<clr:154,205,50>Wolfe: Oh, now it's on."
+"wolfe.WolfeBestReply4"	"<clr:154,205,50>Wolfe: Oh, now it's on."
 
 
 "wolfe.WolfeBestReply5"  "<clr:154,205,50>Wolfe: Oh, yeah, bring it on!"
@@ -3834,7 +3834,7 @@
 "wolfe.MedicComplainReply0"  "<clr:154,205,50>Wolfe: Is that a trick question?"
 
 
-"wolfe.MedicComplainReply1" "<clr:154,205,50>Wolfe: That's a trick question."
+"wolfe.MedicComplainReply1"	"<clr:154,205,50>Wolfe: That's a trick question."
 
 
 "wolfe.TequilaReply0"  "<clr:154,205,50>Wolfe: Hmmm, and whiskey for me."
@@ -3849,10 +3849,10 @@
 "wolfe.InjuredSelection1"  "<clr:154,205,50>Wolfe: Just a flesh wound."
 
 
-"wolfe.InjuredSelection2" "<clr:154,205,50>Wolfe: What are you bothering me for?"
+"wolfe.InjuredSelection2"	"<clr:154,205,50>Wolfe: What are you bothering me for?"
 
 
-"wolfe.InjuredSelection3" "<clr:154,205,50>Wolfe: It's time we hit em where it hurts most.  All over."
+"wolfe.InjuredSelection3"	"<clr:154,205,50>Wolfe: It's time we hit em where it hurts most.  All over."
 
 "wolfe.SeriousInjuryReply0"  "<clr:154,205,50>Wolfe: No way, you gotta be kidding me."
 
@@ -3958,733 +3958,733 @@
 "wolfe.NoAmmo0"  "<clr:154,205,50>Wolfe: I need some ammo here."
 
 
-"wolfe.NoAmmo1" "<clr:154,205,50>Wolfe: Anyone got spare?"
+"wolfe.NoAmmo1"	"<clr:154,205,50>Wolfe: Anyone got spare?"
 
 
-"wolfe.Medic0" "<clr:154,205,50>Wolfe: Medic!"
+"wolfe.Medic0"	"<clr:154,205,50>Wolfe: Medic!"
 
 
-"wolfe.WildcatKillReplyAhead0" "<clr:154,205,50>Wolfe: Good one.  But I've killed more."
+"wolfe.WildcatKillReplyAhead0"	"<clr:154,205,50>Wolfe: Good one.  But I've killed more."
 
 
-"wolfe.WildcatKillReplyAhead1" "<clr:154,205,50>Wolfe: You've got a while to catch up with me, girl."
+"wolfe.WildcatKillReplyAhead1"	"<clr:154,205,50>Wolfe: You've got a while to catch up with me, girl."
 
 
-"wolfe.WildcatKillReplyBehind0" "<clr:154,205,50>Wolfe: Ah, you're ahead.  For now."
+"wolfe.WildcatKillReplyBehind0"	"<clr:154,205,50>Wolfe: Ah, you're ahead.  For now."
 
 
-"wolfe.WildcatKillReplyBehind1" "<clr:154,205,50>Wolfe: Just warming up. Better get all the kills you can."
+"wolfe.WildcatKillReplyBehind1"	"<clr:154,205,50>Wolfe: Just warming up. Better get all the kills you can."
 
 
-"wolfe.WildcatKillReplyBehind2" "<clr:154,205,50>Wolfe: That one back there, that didn't count."
+"wolfe.WildcatKillReplyBehind2"	"<clr:154,205,50>Wolfe: That one back there, that didn't count."
 
 
-"wolfe.WolfeKillStart0" "<clr:154,205,50>Wolfe: Watch and learn."
+"wolfe.WolfeKillStart0"	"<clr:154,205,50>Wolfe: Watch and learn."
 
 
-"wolfe.WolfeKillStart1" "<clr:154,205,50>Wolfe: Another one down.  I'm unstoppable."
+"wolfe.WolfeKillStart1"	"<clr:154,205,50>Wolfe: Another one down.  I'm unstoppable."
 
 
-"wolfe.WolfeKillReplyAhead0" "<clr:154,205,50>Wolfe: Just learn from the master."
+"wolfe.WolfeKillReplyAhead0"	"<clr:154,205,50>Wolfe: Just learn from the master."
 
 
-"wolfe.WolfeKillReplyBehind0" "<clr:154,205,50>Wolfe: There's still plenty of time."
+"wolfe.WolfeKillReplyBehind0"	"<clr:154,205,50>Wolfe: There's still plenty of time."
 
 
-"wolfe.WolfeKillReplyBehind1" "<clr:154,205,50>Wolfe: It's not the count, it's the style."
+"wolfe.WolfeKillReplyBehind1"	"<clr:154,205,50>Wolfe: It's not the count, it's the style."
 
 
-"wolfe.Misc0" "<clr:154,205,50>Wolfe: Cover my back, Crash."
+"wolfe.Misc0"	"<clr:154,205,50>Wolfe: Cover my back, Crash."
 
 
-"wolfe.Misc1" "<clr:154,205,50>Wolfe: Cover my back, Flynn."
+"wolfe.Misc1"	"<clr:154,205,50>Wolfe: Cover my back, Flynn."
 
 
-"wolfe.Misc2" "<clr:154,205,50>Wolfe: Wildcat, cover my back."
+"wolfe.Misc2"	"<clr:154,205,50>Wolfe: Wildcat, cover my back."
 
 
-"wolfe.Misc3" "<clr:154,205,50>Wolfe: You saved my life."
+"wolfe.Misc3"	"<clr:154,205,50>Wolfe: You saved my life."
 
 
-"wolfe.Reloading0" "<clr:154,205,50>Wolfe: Reloading!  Cover me."
+"wolfe.Reloading0"	"<clr:154,205,50>Wolfe: Reloading!  Cover me."
 
 
-"wolfe.Reloading1" "<clr:154,205,50>Wolfe: Reloading."
+"wolfe.Reloading1"	"<clr:154,205,50>Wolfe: Reloading."
 
 
-"wolfe.Reloading2" "<clr:154,205,50>Wolfe: Reload."
+"wolfe.Reloading2"	"<clr:154,205,50>Wolfe: Reload."
 
 
-"wolfe.SentryInPlace0" "<clr:154,205,50>Wolfe: Sentry on-line."
+"wolfe.SentryInPlace0"	"<clr:154,205,50>Wolfe: Sentry on-line."
 
 
-"wolfe.SentryInPlace1" "<clr:154,205,50>Wolfe: Show em what you got, old Betty."
+"wolfe.SentryInPlace1"	"<clr:154,205,50>Wolfe: Show em what you got, old Betty."
 
 
-"wolfe.Ammo0" "<clr:154,205,50>Wolfe: I need some ammo here."
+"wolfe.Ammo0"	"<clr:154,205,50>Wolfe: I need some ammo here."
 
 
-"wolfe.Medkit0" "<clr:154,205,50>Wolfe: Get that med kit."
+"wolfe.Medkit0"	"<clr:154,205,50>Wolfe: Get that med kit."
 
 
-"wolfe.Medkit1" "<clr:154,205,50>Wolfe: Med kit."
+"wolfe.Medkit1"	"<clr:154,205,50>Wolfe: Med kit."
 
 
-"wolfe.Medkit2" "<clr:154,205,50>Wolfe: There's a med kit."
+"wolfe.Medkit2"	"<clr:154,205,50>Wolfe: There's a med kit."
 
 
-"wolfe.Thanks0" "<clr:154,205,50>Wolfe: Hey, thanks."
+"wolfe.Thanks0"	"<clr:154,205,50>Wolfe: Hey, thanks."
 
 
-"wolfe.Thanks1" "<clr:154,205,50>Wolfe: Honestly, thank you."
+"wolfe.Thanks1"	"<clr:154,205,50>Wolfe: Honestly, thank you."
 
 
-"wolfe.Thanks2" "<clr:154,205,50>Wolfe: Thanks"
+"wolfe.Thanks2"	"<clr:154,205,50>Wolfe: Thanks"
 
 
-"wolfe.Thanks3" "<clr:154,205,50>Wolfe: Thanks to you."
+"wolfe.Thanks3"	"<clr:154,205,50>Wolfe: Thanks to you."
 
 
-"wolfe.Thanks4" "<clr:154,205,50>Wolfe: Thank you."
+"wolfe.Thanks4"	"<clr:154,205,50>Wolfe: Thank you."
 
 
-"wolfe.Thanks5" "<clr:154,205,50>Wolfe: Yeah, thanks."
+"wolfe.Thanks5"	"<clr:154,205,50>Wolfe: Yeah, thanks."
 
 
-"wolfe.Question0" "<clr:154,205,50>Wolfe: Hmmm."
+"wolfe.Question0"	"<clr:154,205,50>Wolfe: Hmmm."
 
 
-"wolfe.Question1" "<clr:154,205,50>Wolfe: Hmmm?"
+"wolfe.Question1"	"<clr:154,205,50>Wolfe: Hmmm?"
 
 
-"wolfe.Question2" "<clr:154,205,50>Wolfe: Hmmm."
+"wolfe.Question2"	"<clr:154,205,50>Wolfe: Hmmm."
 
 
-"wolfe.Question3" "<clr:154,205,50>Wolfe: What?"
+"wolfe.Question3"	"<clr:154,205,50>Wolfe: What?"
 
 
-"wolfe.Question4" "<clr:154,205,50>Wolfe: What?"
+"wolfe.Question4"	"<clr:154,205,50>Wolfe: What?"
 
 
-"wolfe.Question5" "<clr:154,205,50>Wolfe: What?"
+"wolfe.Question5"	"<clr:154,205,50>Wolfe: What?"
 
 
-"wolfe.Question6" "<clr:154,205,50>Wolfe: What?"
+"wolfe.Question6"	"<clr:154,205,50>Wolfe: What?"
 
 
-"wolfe.Question7" "<clr:154,205,50>Wolfe: What is it?"
+"wolfe.Question7"	"<clr:154,205,50>Wolfe: What is it?"
 
 
-"wolfe.Question8" "<clr:154,205,50>Wolfe: What now?"
+"wolfe.Question8"	"<clr:154,205,50>Wolfe: What now?"
 
 
-"wolfe.Question9" "<clr:154,205,50>Wolfe: What's going on?"
+"wolfe.Question9"	"<clr:154,205,50>Wolfe: What's going on?"
 
 
-"wolfe.CallSarge0" "<clr:154,205,50>Wolfe: Hey, Sarge."
+"wolfe.CallSarge0"	"<clr:154,205,50>Wolfe: Hey, Sarge."
 
 
-"wolfe.CallSarge1" "<clr:154,205,50>Wolfe: Sarge."
+"wolfe.CallSarge1"	"<clr:154,205,50>Wolfe: Sarge."
 
 
-"wolfe.CallSarge2" "<clr:154,205,50>Wolfe: Where's Sarge?"
+"wolfe.CallSarge2"	"<clr:154,205,50>Wolfe: Where's Sarge?"
 
 
-"wolfe.CallSarge3" "<clr:154,205,50>Wolfe: Where's Sarge?"
+"wolfe.CallSarge3"	"<clr:154,205,50>Wolfe: Where's Sarge?"
 
 
-"wolfe.CallJaeger0" "<clr:154,205,50>Wolfe: Hey, Jaeger."
+"wolfe.CallJaeger0"	"<clr:154,205,50>Wolfe: Hey, Jaeger."
 
 
-"wolfe.CallJaeger1" "<clr:154,205,50>Wolfe: Jaeger."
+"wolfe.CallJaeger1"	"<clr:154,205,50>Wolfe: Jaeger."
 
 
-"wolfe.CallJaeger2" "<clr:154,205,50>Wolfe: Where's Jaeger?"
+"wolfe.CallJaeger2"	"<clr:154,205,50>Wolfe: Where's Jaeger?"
 
 
-"wolfe.CallWildcat0" "<clr:154,205,50>Wolfe: Hey, Cat."
+"wolfe.CallWildcat0"	"<clr:154,205,50>Wolfe: Hey, Cat."
 
 
-"wolfe.CallWildcat1" "<clr:154,205,50>Wolfe: Hey, Wildcat."
+"wolfe.CallWildcat1"	"<clr:154,205,50>Wolfe: Hey, Wildcat."
 
 
-"wolfe.CallWildcat2" "<clr:154,205,50>Wolfe: Oi, Wildcat."
+"wolfe.CallWildcat2"	"<clr:154,205,50>Wolfe: Oi, Wildcat."
 
 
-"wolfe.CallWildcat3" "<clr:154,205,50>Wolfe: Where are you, Wildcat?"
+"wolfe.CallWildcat3"	"<clr:154,205,50>Wolfe: Where are you, Wildcat?"
 
 
-"wolfe.CallWildcat4" "<clr:154,205,50>Wolfe: Where's Wildcat?"
+"wolfe.CallWildcat4"	"<clr:154,205,50>Wolfe: Where's Wildcat?"
 
 
-"wolfe.CallWildcat5" "<clr:154,205,50>Wolfe: Wildcat."
+"wolfe.CallWildcat5"	"<clr:154,205,50>Wolfe: Wildcat."
 
 
-"wolfe.CallFaith0" "<clr:154,205,50>Wolfe: Faith."
+"wolfe.CallFaith0"	"<clr:154,205,50>Wolfe: Faith."
 
 
-"wolfe.CallFaith1" "<clr:154,205,50>Wolfe: Hey, Faith."
+"wolfe.CallFaith1"	"<clr:154,205,50>Wolfe: Hey, Faith."
 
 
-"wolfe.CallFaith2" "<clr:154,205,50>Wolfe: Oi, Faith."
+"wolfe.CallFaith2"	"<clr:154,205,50>Wolfe: Oi, Faith."
 
 
-"wolfe.CallFaith3" "<clr:154,205,50>Wolfe: Where's Faith?"
+"wolfe.CallFaith3"	"<clr:154,205,50>Wolfe: Where's Faith?"
 
 
-"wolfe.CallBastille0" "<clr:154,205,50>Wolfe: Bastille."
+"wolfe.CallBastille0"	"<clr:154,205,50>Wolfe: Bastille."
 
 
-"wolfe.CallBastille1" "<clr:154,205,50>Wolfe: Bastille."
+"wolfe.CallBastille1"	"<clr:154,205,50>Wolfe: Bastille."
 
 
-"wolfe.CallBastille2" "<clr:154,205,50>Wolfe: Hey, Bastille."
+"wolfe.CallBastille2"	"<clr:154,205,50>Wolfe: Hey, Bastille."
 
 
-"wolfe.CallBastille3" "<clr:154,205,50>Wolfe: Oi, Bastille."
+"wolfe.CallBastille3"	"<clr:154,205,50>Wolfe: Oi, Bastille."
 
 
-"wolfe.CallBastille4" "<clr:154,205,50>Wolfe: Where's Bastille?"
+"wolfe.CallBastille4"	"<clr:154,205,50>Wolfe: Where's Bastille?"
 
 
-"wolfe.CallCrash0" "<clr:154,205,50>Wolfe: Crash."
+"wolfe.CallCrash0"	"<clr:154,205,50>Wolfe: Crash."
 
 
-"wolfe.CallCrash1" "<clr:154,205,50>Wolfe: Hey, Crash."
+"wolfe.CallCrash1"	"<clr:154,205,50>Wolfe: Hey, Crash."
 
 
-"wolfe.CallFlynn0" "<clr:154,205,50>Wolfe: Flynn."
+"wolfe.CallFlynn0"	"<clr:154,205,50>Wolfe: Flynn."
 
 
-"wolfe.CallFlynn1" "<clr:154,205,50>Wolfe: Hey, Flynn."
+"wolfe.CallFlynn1"	"<clr:154,205,50>Wolfe: Hey, Flynn."
 
 
-"wolfe.CallFlynn2" "<clr:154,205,50>Wolfe: Where's Flynn?"
+"wolfe.CallFlynn2"	"<clr:154,205,50>Wolfe: Where's Flynn?"
 
 
-"wolfe.CallVegas0" "<clr:154,205,50>Wolfe: Hey, Vegas."
+"wolfe.CallVegas0"	"<clr:154,205,50>Wolfe: Hey, Vegas."
 
 
-"wolfe.CallVegas1" "<clr:154,205,50>Wolfe: Vegas."
+"wolfe.CallVegas1"	"<clr:154,205,50>Wolfe: Vegas."
 
 
-"wolfe.Supplies0" "<clr:154,205,50>Wolfe: Ah, supplies!"
+"wolfe.Supplies0"	"<clr:154,205,50>Wolfe: Ah, supplies!"
 
 
-"wolfe.Supplies1" "<clr:154,205,50>Wolfe: Ah, supplies."
+"wolfe.Supplies1"	"<clr:154,205,50>Wolfe: Ah, supplies."
 
 
-"wolfe.Supplies2" "<clr:154,205,50>Wolfe: Hey guys, supplies!  Just what we need."
+"wolfe.Supplies2"	"<clr:154,205,50>Wolfe: Hey guys, supplies!  Just what we need."
 
 
-"wolfe.Supplies3" "<clr:154,205,50>Wolfe: More ammo.  Just what we need."
+"wolfe.Supplies3"	"<clr:154,205,50>Wolfe: More ammo.  Just what we need."
 
 
-"wolfe.HoldingPosition0" "<clr:154,205,50>Wolfe: Covering area."
+"wolfe.HoldingPosition0"	"<clr:154,205,50>Wolfe: Covering area."
 
 
-"wolfe.HoldingPosition1" "<clr:154,205,50>Wolfe: Holding position."
+"wolfe.HoldingPosition1"	"<clr:154,205,50>Wolfe: Holding position."
 
 
-"wolfe.HoldingPosition2" "<clr:154,205,50>Wolfe: I'm in place."
+"wolfe.HoldingPosition2"	"<clr:154,205,50>Wolfe: I'm in place."
 
 
-"wolfe.HoldingPosition3" "<clr:154,205,50>Wolfe: In position."
+"wolfe.HoldingPosition3"	"<clr:154,205,50>Wolfe: In position."
 
 
-"wolfe.HoldingPosition4" "<clr:154,205,50>Wolfe: Nothing's getting past me."
+"wolfe.HoldingPosition4"	"<clr:154,205,50>Wolfe: Nothing's getting past me."
 
 
-"wolfe.HoldingPosition5" "<clr:154,205,50>Wolfe: Secure area."
+"wolfe.HoldingPosition5"	"<clr:154,205,50>Wolfe: Secure area."
 
 
-"wolfe.HoldingNorth0" "<clr:154,205,50>Wolfe: Covering north."
+"wolfe.HoldingNorth0"	"<clr:154,205,50>Wolfe: Covering north."
 
 
-"wolfe.HoldingNorth1" "<clr:154,205,50>Wolfe: Covering north side."
+"wolfe.HoldingNorth1"	"<clr:154,205,50>Wolfe: Covering north side."
 
 
-"wolfe.HoldingNorth2" "<clr:154,205,50>Wolfe: I got north side."
+"wolfe.HoldingNorth2"	"<clr:154,205,50>Wolfe: I got north side."
 
 
-"wolfe.HoldingNorth3" "<clr:154,205,50>Wolfe: North side in place."
+"wolfe.HoldingNorth3"	"<clr:154,205,50>Wolfe: North side in place."
 
 
-"wolfe.HoldingNorth4" "<clr:154,205,50>Wolfe: North side is mine."
+"wolfe.HoldingNorth4"	"<clr:154,205,50>Wolfe: North side is mine."
 
 
-"wolfe.HoldingNorth5" "<clr:154,205,50>Wolfe: North side standing to."
+"wolfe.HoldingNorth5"	"<clr:154,205,50>Wolfe: North side standing to."
 
 
-"wolfe.HoldingSouth0" "<clr:154,205,50>Wolfe: Covering south."
+"wolfe.HoldingSouth0"	"<clr:154,205,50>Wolfe: Covering south."
 
 
-"wolfe.HoldingSouth1" "<clr:154,205,50>Wolfe: Covering south side."
+"wolfe.HoldingSouth1"	"<clr:154,205,50>Wolfe: Covering south side."
 
 
-"wolfe.HoldingSouth2" "<clr:154,205,50>Wolfe: I got south side."
+"wolfe.HoldingSouth2"	"<clr:154,205,50>Wolfe: I got south side."
 
 
-"wolfe.HoldingSouth3" "<clr:154,205,50>Wolfe: South side in place."
+"wolfe.HoldingSouth3"	"<clr:154,205,50>Wolfe: South side in place."
 
 
-"wolfe.HoldingSouth4" "<clr:154,205,50>Wolfe: South side is mine."
+"wolfe.HoldingSouth4"	"<clr:154,205,50>Wolfe: South side is mine."
 
 
-"wolfe.HoldingSouth5" "<clr:154,205,50>Wolfe: South side standing to."
+"wolfe.HoldingSouth5"	"<clr:154,205,50>Wolfe: South side standing to."
 
 
-"wolfe.HoldingEast0" "<clr:154,205,50>Wolfe: Covering east."
+"wolfe.HoldingEast0"	"<clr:154,205,50>Wolfe: Covering east."
 
 
-"wolfe.HoldingEast1" "<clr:154,205,50>Wolfe: Covering east side."
+"wolfe.HoldingEast1"	"<clr:154,205,50>Wolfe: Covering east side."
 
 
-"wolfe.HoldingEast2" "<clr:154,205,50>Wolfe: East side in place."
+"wolfe.HoldingEast2"	"<clr:154,205,50>Wolfe: East side in place."
 
 
-"wolfe.HoldingEast3" "<clr:154,205,50>Wolfe: East side is mine."
+"wolfe.HoldingEast3"	"<clr:154,205,50>Wolfe: East side is mine."
 
 
-"wolfe.HoldingEast4" "<clr:154,205,50>Wolfe: East side standing to."
+"wolfe.HoldingEast4"	"<clr:154,205,50>Wolfe: East side standing to."
 
 
-"wolfe.HoldingEast5" "<clr:154,205,50>Wolfe: Got east side."
+"wolfe.HoldingEast5"	"<clr:154,205,50>Wolfe: Got east side."
 
 
-"wolfe.HoldingWest0" "<clr:154,205,50>Wolfe: Covering west."
+"wolfe.HoldingWest0"	"<clr:154,205,50>Wolfe: Covering west."
 
 
-"wolfe.HoldingWest1" "<clr:154,205,50>Wolfe: Covering west side."
+"wolfe.HoldingWest1"	"<clr:154,205,50>Wolfe: Covering west side."
 
 
-"wolfe.HoldingWest2" "<clr:154,205,50>Wolfe: I got west side."
+"wolfe.HoldingWest2"	"<clr:154,205,50>Wolfe: I got west side."
 
 
-"wolfe.HoldingWest3" "<clr:154,205,50>Wolfe: West side in place."
+"wolfe.HoldingWest3"	"<clr:154,205,50>Wolfe: West side in place."
 
 
-"wolfe.HoldingWest4" "<clr:154,205,50>Wolfe: West side is mine."
+"wolfe.HoldingWest4"	"<clr:154,205,50>Wolfe: West side is mine."
 
 
-"wolfe.HoldingWest5" "<clr:154,205,50>Wolfe: West side standing to."
+"wolfe.HoldingWest5"	"<clr:154,205,50>Wolfe: West side standing to."
 
 
-"wolfe.GotPoint0" "<clr:154,205,50>Wolfe: I got point."
+"wolfe.GotPoint0"	"<clr:154,205,50>Wolfe: I got point."
 
 
-"wolfe.GotPoint1" "<clr:154,205,50>Wolfe: I'll take point."
+"wolfe.GotPoint1"	"<clr:154,205,50>Wolfe: I'll take point."
 
 
-"wolfe.GotPoint2" "<clr:154,205,50>Wolfe: Taking point."
+"wolfe.GotPoint2"	"<clr:154,205,50>Wolfe: Taking point."
 
 
-"wolfe.GotRear0" "<clr:154,205,50>Wolfe: I got the back."
+"wolfe.GotRear0"	"<clr:154,205,50>Wolfe: I got the back."
 
 
-"wolfe.GotRear1" "<clr:154,205,50>Wolfe: I'll cover the back."
+"wolfe.GotRear1"	"<clr:154,205,50>Wolfe: I'll cover the back."
 
 
-"wolfe.GotRear2" "<clr:154,205,50>Wolfe: Taking rear guard."
+"wolfe.GotRear2"	"<clr:154,205,50>Wolfe: Taking rear guard."
 
 
-"wolfe.RequestSealDoor0" "<clr:154,205,50>Wolfe: Quick, seal the door."
+"wolfe.RequestSealDoor0"	"<clr:154,205,50>Wolfe: Quick, seal the door."
 
 
-"wolfe.RequestSealDoor1" "<clr:154,205,50>Wolfe: Seal it up."
+"wolfe.RequestSealDoor1"	"<clr:154,205,50>Wolfe: Seal it up."
 
 
-"wolfe.RequestSealDoor2" "<clr:154,205,50>Wolfe: Seal it up.  We don't want those things getting in here."
+"wolfe.RequestSealDoor2"	"<clr:154,205,50>Wolfe: Seal it up.  We don't want those things getting in here."
 
 
-"wolfe.RequestSealDoor3" "<clr:154,205,50>Wolfe: Secure the door."
+"wolfe.RequestSealDoor3"	"<clr:154,205,50>Wolfe: Secure the door."
 
 
-"wolfe.RequestCutDoor0" "<clr:154,205,50>Wolfe: Cut it open."
+"wolfe.RequestCutDoor0"	"<clr:154,205,50>Wolfe: Cut it open."
 
 
-"wolfe.RequestCutDoor1" "<clr:154,205,50>Wolfe: Get the door open."
+"wolfe.RequestCutDoor1"	"<clr:154,205,50>Wolfe: Get the door open."
 
 
-"wolfe.RequestCutDoor2" "<clr:154,205,50>Wolfe: What are you waiting for?  Get it open!"
+"wolfe.RequestCutDoor2"	"<clr:154,205,50>Wolfe: What are you waiting for?  Get it open!"
 
 
-"wolfe.RequestShootDoor0" "<clr:154,205,50>Wolfe: Blast it open."
+"wolfe.RequestShootDoor0"	"<clr:154,205,50>Wolfe: Blast it open."
 
 
-"wolfe.RequestShootDoor1" "<clr:154,205,50>Wolfe: Oh yeah, let's blast this door to hell!"
+"wolfe.RequestShootDoor1"	"<clr:154,205,50>Wolfe: Oh yeah, let's blast this door to hell!"
 
 
-"wolfe.RequestShootDoor2" "<clr:154,205,50>Wolfe: Okay, let's blast this door to hell."
+"wolfe.RequestShootDoor2"	"<clr:154,205,50>Wolfe: Okay, let's blast this door to hell."
 
 
-"wolfe.RequestShootDoor3" "<clr:154,205,50>Wolfe: Shoot it open."
+"wolfe.RequestShootDoor3"	"<clr:154,205,50>Wolfe: Shoot it open."
 
 
-"wolfe.CuttingDoor0" "<clr:154,205,50>Wolfe: I'll have it open in no time."
+"wolfe.CuttingDoor0"	"<clr:154,205,50>Wolfe: I'll have it open in no time."
 
 
-"wolfe.CuttingDoor1" "<clr:154,205,50>Wolfe: Roger, cutting door."
+"wolfe.CuttingDoor1"	"<clr:154,205,50>Wolfe: Roger, cutting door."
 
 
-"wolfe.CuttingDoor2" "<clr:154,205,50>Wolfe: Roger that.  Cutting door."
+"wolfe.CuttingDoor2"	"<clr:154,205,50>Wolfe: Roger that.  Cutting door."
 
 
-"wolfe.CuttingDoor3" "<clr:154,205,50>Wolfe: Cutting door."
+"wolfe.CuttingDoor3"	"<clr:154,205,50>Wolfe: Cutting door."
 
 
-"wolfe.SealingDoor0" "<clr:154,205,50>Wolfe: Okay, sealing door."
+"wolfe.SealingDoor0"	"<clr:154,205,50>Wolfe: Okay, sealing door."
 
 
-"wolfe.SealingDoor1" "<clr:154,205,50>Wolfe: Sealing door nice and tight."
+"wolfe.SealingDoor1"	"<clr:154,205,50>Wolfe: Sealing door nice and tight."
 
 
-"wolfe.SealingDoor2" "<clr:154,205,50>Wolfe: Securing door."
+"wolfe.SealingDoor2"	"<clr:154,205,50>Wolfe: Securing door."
 
 
-"wolfe.SealingDoor3" "<clr:154,205,50>Wolfe: Wolfe sealing door."
+"wolfe.SealingDoor3"	"<clr:154,205,50>Wolfe: Wolfe sealing door."
 
 
-"wolfe.Biomass0" "<clr:154,205,50>Wolfe: Biomass. Man, I hate this shit."
+"wolfe.Biomass0"	"<clr:154,205,50>Wolfe: Biomass. Man, I hate this shit."
 
 
-"wolfe.Biomass1" "<clr:154,205,50>Wolfe: Hey, there's some of that gooey stuff here."
+"wolfe.Biomass1"	"<clr:154,205,50>Wolfe: Hey, there's some of that gooey stuff here."
 
 
-"wolfe.Biomass2" "<clr:154,205,50>Wolfe: Swarm biomass! Burn it all."
+"wolfe.Biomass2"	"<clr:154,205,50>Wolfe: Swarm biomass! Burn it all."
 
 
-"wolfe.Biomass3" "<clr:154,205,50>Wolfe: Ugh.  Swarm biomass.  Burn it."
+"wolfe.Biomass3"	"<clr:154,205,50>Wolfe: Ugh.  Swarm biomass.  Burn it."
 
 
-"wolfe.Biomass4" "<clr:154,205,50>Wolfe: We got some alien goo here."
+"wolfe.Biomass4"	"<clr:154,205,50>Wolfe: We got some alien goo here."
 
 
-"wolfe.TimeToLeave0" "<clr:154,205,50>Wolfe: Job's done.  Time to skedaddle."
+"wolfe.TimeToLeave0"	"<clr:154,205,50>Wolfe: Job's done.  Time to skedaddle."
 
 
-"wolfe.TimeToLeave1" "<clr:154,205,50>Wolfe: Okay, let's get out of here."
+"wolfe.TimeToLeave1"	"<clr:154,205,50>Wolfe: Okay, let's get out of here."
 
 
-"wolfe.TimeToLeave2" "<clr:154,205,50>Wolfe: Our job here is done."
+"wolfe.TimeToLeave2"	"<clr:154,205,50>Wolfe: Our job here is done."
 
 
-"wolfe.TimeToLeave3" "<clr:154,205,50>Wolfe: Time to move out."
+"wolfe.TimeToLeave3"	"<clr:154,205,50>Wolfe: Time to move out."
 
 
-"wolfe.TimeToLeave4" "<clr:154,205,50>Wolfe: Whoa.  Time to wave this place goodbye."
+"wolfe.TimeToLeave4"	"<clr:154,205,50>Wolfe: Whoa.  Time to wave this place goodbye."
 
 
-"wolfe.TimeToLeave5" "<clr:154,205,50>Wolfe: Woohoo.  Time to wave this place goodbye."
+"wolfe.TimeToLeave5"	"<clr:154,205,50>Wolfe: Woohoo.  Time to wave this place goodbye."
 
 
-"wolfe.TimeToLeave6" "<clr:154,205,50>Wolfe: Yeah, let's get outta here."
+"wolfe.TimeToLeave6"	"<clr:154,205,50>Wolfe: Yeah, let's get outta here."
 
 
-"wolfe.TimeToLeave7" "<clr:154,205,50>Wolfe: Yeah, time to wave this place goodbye."
+"wolfe.TimeToLeave7"	"<clr:154,205,50>Wolfe: Yeah, time to wave this place goodbye."
 
 
-"wolfe.WatchOut0" "<clr:154,205,50>Wolfe: Lookout!"
+"wolfe.WatchOut0"	"<clr:154,205,50>Wolfe: Lookout!"
 
 
-"wolfe.WatchOut1" "<clr:154,205,50>Wolfe: There!"
+"wolfe.WatchOut1"	"<clr:154,205,50>Wolfe: There!"
 
 
-"wolfe.WatchOut2" "<clr:154,205,50>Wolfe: Watchout!"
+"wolfe.WatchOut2"	"<clr:154,205,50>Wolfe: Watchout!"
 
 
-"wolfe.Shieldbug0" "<clr:154,205,50>Wolfe: A shieldbug!"
+"wolfe.Shieldbug0"	"<clr:154,205,50>Wolfe: A shieldbug!"
 
 
-"wolfe.Shieldbug1" "<clr:154,205,50>Wolfe: Holy shit."
+"wolfe.Shieldbug1"	"<clr:154,205,50>Wolfe: Holy shit."
 
 
-"wolfe.Shieldbug2" "<clr:154,205,50>Wolfe: It's a shieldbug."
+"wolfe.Shieldbug2"	"<clr:154,205,50>Wolfe: It's a shieldbug."
 
 
-"wolfe.Shieldbug3" "<clr:154,205,50>Wolfe: Shit, a shieldbug!"
+"wolfe.Shieldbug3"	"<clr:154,205,50>Wolfe: Shit, a shieldbug!"
 
 
-"wolfe.ShieldbugHint0" "<clr:154,205,50>Wolfe: Get behind it."
+"wolfe.ShieldbugHint0"	"<clr:154,205,50>Wolfe: Get behind it."
 
 
-"wolfe.ShieldbugHint1" "<clr:154,205,50>Wolfe: Get behind it quick."
+"wolfe.ShieldbugHint1"	"<clr:154,205,50>Wolfe: Get behind it quick."
 
 
-"wolfe.ShieldbugHint2" "<clr:154,205,50>Wolfe: Shoot it in the back!"
+"wolfe.ShieldbugHint2"	"<clr:154,205,50>Wolfe: Shoot it in the back!"
 
 
-"wolfe.ShieldbugHint3" "<clr:154,205,50>Wolfe: Someone grenade it!"
+"wolfe.ShieldbugHint3"	"<clr:154,205,50>Wolfe: Someone grenade it!"
 
 
-"wolfe.Parasite0" "<clr:154,205,50>Wolfe: Lookout!  Parasite!"
+"wolfe.Parasite0"	"<clr:154,205,50>Wolfe: Lookout!  Parasite!"
 
 
-"wolfe.Parasite1" "<clr:154,205,50>Wolfe: Parasite!"
+"wolfe.Parasite1"	"<clr:154,205,50>Wolfe: Parasite!"
 
 
-"wolfe.Parasite2" "<clr:154,205,50>Wolfe: Parasite!"
+"wolfe.Parasite2"	"<clr:154,205,50>Wolfe: Parasite!"
 
 
-"wolfe.Parasite3" "<clr:154,205,50>Wolfe: Shit.  A parasite."
+"wolfe.Parasite3"	"<clr:154,205,50>Wolfe: Shit.  A parasite."
 
 
-"wolfe.Parasite4" "<clr:154,205,50>Wolfe: Watchout!  A parasite."
+"wolfe.Parasite4"	"<clr:154,205,50>Wolfe: Watchout!  A parasite."
 
 
-"wolfe.BeenInfested0" "<clr:154,205,50>Wolfe: Argh!  Get it off me!"
+"wolfe.BeenInfested0"	"<clr:154,205,50>Wolfe: Argh!  Get it off me!"
 
 
-"wolfe.BeenInfested2" "<clr:154,205,50>Wolfe: Argh! It's on me!"
+"wolfe.BeenInfested2"	"<clr:154,205,50>Wolfe: Argh! It's on me!"
 
 
-"wolfe.BeenInfested3" "<clr:154,205,50>Wolfe: Ahhh!  It's on me!"
+"wolfe.BeenInfested3"	"<clr:154,205,50>Wolfe: Ahhh!  It's on me!"
 
 
-"wolfe.BeenInfested4" "<clr:154,205,50>Wolfe: Gah!  Get it off, get it off of me!"
+"wolfe.BeenInfested4"	"<clr:154,205,50>Wolfe: Gah!  Get it off, get it off of me!"
 
 
-"wolfe.BeenInfested5" "<clr:154,205,50>Wolfe: Get it off, get it off, get it off!"
+"wolfe.BeenInfested5"	"<clr:154,205,50>Wolfe: Get it off, get it off, get it off!"
 
 
-"wolfe.BeenInfested6" "<clr:154,205,50>Wolfe: Get it off, get it off!"
+"wolfe.BeenInfested6"	"<clr:154,205,50>Wolfe: Get it off, get it off!"
 
 
-"wolfe.BeenInfested8" "<clr:154,205,50>Wolfe: Huarrgh! Get it off me!"
+"wolfe.BeenInfested8"	"<clr:154,205,50>Wolfe: Huarrgh! Get it off me!"
 
 
-"wolfe.BeenInfested9" "<clr:154,205,50>Wolfe: Huarrgh!  It's on me!"
+"wolfe.BeenInfested9"	"<clr:154,205,50>Wolfe: Huarrgh!  It's on me!"
 
 
-"wolfe.BeenInfested10" "<clr:154,205,50>Wolfe: Yarrrgh! It's on me!"
+"wolfe.BeenInfested10"	"<clr:154,205,50>Wolfe: Yarrrgh! It's on me!"
 
 
-"wolfe.SwarmEggs0" "<clr:154,205,50>Wolfe: Swarm eggs."
+"wolfe.SwarmEggs0"	"<clr:154,205,50>Wolfe: Swarm eggs."
 
 
-"wolfe.SwarmEggs1" "<clr:154,205,50>Wolfe: Swarm eggs.  Watch yourself."
+"wolfe.SwarmEggs1"	"<clr:154,205,50>Wolfe: Swarm eggs.  Watch yourself."
 
 
-"wolfe.SwarmEggs2" "<clr:154,205,50>Wolfe: Watch out.  Swarm eggs."
+"wolfe.SwarmEggs2"	"<clr:154,205,50>Wolfe: Watch out.  Swarm eggs."
 
 
-"wolfe.Grenade0" "<clr:154,205,50>Wolfe: Clear."
+"wolfe.Grenade0"	"<clr:154,205,50>Wolfe: Clear."
 
 
-"wolfe.Grenade1" "<clr:154,205,50>Wolfe: Clear!"
+"wolfe.Grenade1"	"<clr:154,205,50>Wolfe: Clear!"
 
 
-"wolfe.Grenade2" "<clr:154,205,50>Wolfe: Eat this!"
+"wolfe.Grenade2"	"<clr:154,205,50>Wolfe: Eat this!"
 
 
-"wolfe.Grenade3" "<clr:154,205,50>Wolfe: Eat this!"
+"wolfe.Grenade3"	"<clr:154,205,50>Wolfe: Eat this!"
 
 
-"wolfe.Grenade4" "<clr:154,205,50>Wolfe: Fire in the hole!"
+"wolfe.Grenade4"	"<clr:154,205,50>Wolfe: Fire in the hole!"
 
 
-"wolfe.Grenade5" "<clr:154,205,50>Wolfe: Grenade!"
+"wolfe.Grenade5"	"<clr:154,205,50>Wolfe: Grenade!"
 
 
-"wolfe.AlienTooClose0" "<clr:154,205,50>Wolfe: Get it off!"
+"wolfe.AlienTooClose0"	"<clr:154,205,50>Wolfe: Get it off!"
 
 
-"wolfe.AlienTooClose1" "<clr:154,205,50>Wolfe: Hostile on me!"
+"wolfe.AlienTooClose1"	"<clr:154,205,50>Wolfe: Hostile on me!"
 
 
-"wolfe.AlienTooClose2" "<clr:154,205,50>Wolfe: Kill it!"
+"wolfe.AlienTooClose2"	"<clr:154,205,50>Wolfe: Kill it!"
 
 
-"wolfe.AlienTooClose3" "<clr:154,205,50>Wolfe: On me."
+"wolfe.AlienTooClose3"	"<clr:154,205,50>Wolfe: On me."
 
 
-"wolfe.AlienTooClose4" "<clr:154,205,50>Wolfe: On me, on me!"
+"wolfe.AlienTooClose4"	"<clr:154,205,50>Wolfe: On me, on me!"
 
 
-"wolfe.MadFiring0" "<clr:154,205,50>Wolfe: Come on, get a piece of me!"
+"wolfe.MadFiring0"	"<clr:154,205,50>Wolfe: Come on, get a piece of me!"
 
 
-"wolfe.MadFiring1" "<clr:154,205,50>Wolfe: Hah!  You want some of this."
+"wolfe.MadFiring1"	"<clr:154,205,50>Wolfe: Hah!  You want some of this."
 
 
-"wolfe.MadFiring2" "<clr:154,205,50>Wolfe: Hurgh, you want some of this?  Yeah, you want some of this."
+"wolfe.MadFiring2"	"<clr:154,205,50>Wolfe: Hurgh, you want some of this?  Yeah, you want some of this."
 
 
-"wolfe.MadFiring3" "<clr:154,205,50>Wolfe: Oh, right.  Say hello to my friend."
+"wolfe.MadFiring3"	"<clr:154,205,50>Wolfe: Oh, right.  Say hello to my friend."
 
 
-"wolfe.MadFiring4" "<clr:154,205,50>Wolfe: Say hello to my friend."
+"wolfe.MadFiring4"	"<clr:154,205,50>Wolfe: Say hello to my friend."
 
 
-"wolfe.MadFiring5" "<clr:154,205,50>Wolfe: Who wants some more?  Ehahha!"
+"wolfe.MadFiring5"	"<clr:154,205,50>Wolfe: Who wants some more?  Ehahha!"
 
 
-"wolfe.MadFiring6" "<clr:154,205,50>Wolfe: Yeah, hahaha.  You want some of this, you want some?"
+"wolfe.MadFiring6"	"<clr:154,205,50>Wolfe: Yeah, hahaha.  You want some of this, you want some?"
 
 
-"wolfe.MadFiring7" "<clr:154,205,50>Wolfe: Yeah, you want some of this."
+"wolfe.MadFiring7"	"<clr:154,205,50>Wolfe: Yeah, you want some of this."
 
 
-"wolfe.MadFiring8" "<clr:154,205,50>Wolfe: Yeah, haaagh!  You want some of that."
+"wolfe.MadFiring8"	"<clr:154,205,50>Wolfe: Yeah, haaagh!  You want some of that."
 
 
-"wolfe.MadFiring9" "<clr:154,205,50>Wolfe: Yeah, hahhh!  You want some of this."
+"wolfe.MadFiring9"	"<clr:154,205,50>Wolfe: Yeah, hahhh!  You want some of this."
 
 
-"wolfe.MadFiring10" "<clr:154,205,50>Wolfe: Yeah, say hello to my friend."
+"wolfe.MadFiring10"	"<clr:154,205,50>Wolfe: Yeah, say hello to my friend."
 
 
-"wolfe.MadFiring11" "<clr:154,205,50>Wolfe: Yehahaha.  You want some?"
+"wolfe.MadFiring11"	"<clr:154,205,50>Wolfe: Yehahaha.  You want some?"
 
 
-"wolfe.BreachedDoor0" "<clr:154,205,50>Wolfe: Hostiles through the door."
+"wolfe.BreachedDoor0"	"<clr:154,205,50>Wolfe: Hostiles through the door."
 
 
-"wolfe.BreachedDoor1" "<clr:154,205,50>Wolfe: They broke it down."
+"wolfe.BreachedDoor1"	"<clr:154,205,50>Wolfe: They broke it down."
 
 
-"wolfe.BreachedDoor2" "<clr:154,205,50>Wolfe: They broke through the door."
+"wolfe.BreachedDoor2"	"<clr:154,205,50>Wolfe: They broke through the door."
 
 
-"wolfe.BreachedDoor3" "<clr:154,205,50>Wolfe: They've breached the door."
+"wolfe.BreachedDoor3"	"<clr:154,205,50>Wolfe: They've breached the door."
 
 
-"wolfe.MarineDown0" "<clr:154,205,50>Wolfe: Bah!  Marine down!"
+"wolfe.MarineDown0"	"<clr:154,205,50>Wolfe: Bah!  Marine down!"
 
 
-"wolfe.MarineDown1" "<clr:154,205,50>Wolfe: Gah! Marine down!"
+"wolfe.MarineDown1"	"<clr:154,205,50>Wolfe: Gah! Marine down!"
 
 
-"wolfe.MarineDown2" "<clr:154,205,50>Wolfe: Marine down!"
+"wolfe.MarineDown2"	"<clr:154,205,50>Wolfe: Marine down!"
 
 
-"wolfe.SmallPain0" "<clr:154,205,50>Wolfe: [Pain]"
+"wolfe.SmallPain0"	"<clr:154,205,50>Wolfe: [Pain]"
 
 
-"wolfe.SmallPain1" "<clr:154,205,50>Wolfe: [Pain]"
+"wolfe.SmallPain1"	"<clr:154,205,50>Wolfe: [Pain]"
 
 
-"wolfe.SmallPain2" "<clr:154,205,50>Wolfe: [Pain]"
+"wolfe.SmallPain2"	"<clr:154,205,50>Wolfe: [Pain]"
 
 
-"wolfe.SmallPain3" "<clr:154,205,50>Wolfe: [Pain]"
+"wolfe.SmallPain3"	"<clr:154,205,50>Wolfe: [Pain]"
 
 
-"wolfe.SmallPain4" "<clr:154,205,50>Wolfe: [Pain]"
+"wolfe.SmallPain4"	"<clr:154,205,50>Wolfe: [Pain]"
 
 
-"wolfe.SmallPain5" "<clr:154,205,50>Wolfe: [Pain]"
+"wolfe.SmallPain5"	"<clr:154,205,50>Wolfe: [Pain]"
 
 
-"wolfe.SmallPain6" "<clr:154,205,50>Wolfe: [Pain]"
+"wolfe.SmallPain6"	"<clr:154,205,50>Wolfe: [Pain]"
 
 
-"wolfe.SmallPain7" "<clr:154,205,50>Wolfe: [Pain]"
+"wolfe.SmallPain7"	"<clr:154,205,50>Wolfe: [Pain]"
 
 
-"wolfe.SmallPain8" "<clr:154,205,50>Wolfe: [Pain]"
+"wolfe.SmallPain8"	"<clr:154,205,50>Wolfe: [Pain]"
 
 
-"wolfe.SmallPain9" "<clr:154,205,50>Wolfe: [Pain]"
+"wolfe.SmallPain9"	"<clr:154,205,50>Wolfe: [Pain]"
 
 
-"wolfe.SmallPain10" "<clr:154,205,50>Wolfe: [Pain]"
+"wolfe.SmallPain10"	"<clr:154,205,50>Wolfe: [Pain]"
 
 
-"wolfe.SmallPain11" "<clr:154,205,50>Wolfe: [Pain]"
+"wolfe.SmallPain11"	"<clr:154,205,50>Wolfe: [Pain]"
 
 
 "wolfe.LargePain0"  "<clr:154,205,50>Wolfe: [Pain]"
 
 
-"wolfe.LargePain1" "<clr:154,205,50>Wolfe: [Pain]"
+"wolfe.LargePain1"	"<clr:154,205,50>Wolfe: [Pain]"
 
 
-"wolfe.LargePain2" "<clr:154,205,50>Wolfe: [Pain]"
+"wolfe.LargePain2"	"<clr:154,205,50>Wolfe: [Pain]"
 
 
-"wolfe.LargePain3" "<clr:154,205,50>Wolfe: [Pain]"
+"wolfe.LargePain3"	"<clr:154,205,50>Wolfe: [Pain]"
 
 
-"wolfe.LargePain4" "<clr:154,205,50>Wolfe: [Pain]"
+"wolfe.LargePain4"	"<clr:154,205,50>Wolfe: [Pain]"
 
 
-"wolfe.Dead0" "<clr:154,205,50>Wolfe: [Death]"
+"wolfe.Dead0"	"<clr:154,205,50>Wolfe: [Death]"
 
 
-"wolfe.Dead1" "<clr:154,205,50>Wolfe: [Death]"
+"wolfe.Dead1"	"<clr:154,205,50>Wolfe: [Death]"
 
 
-"wolfe.Dead2" "<clr:154,205,50>Wolfe: [Death]"
+"wolfe.Dead2"	"<clr:154,205,50>Wolfe: [Death]"
 
 
-"wolfe.Dead3" "<clr:154,205,50>Wolfe: [Death]"
+"wolfe.Dead3"	"<clr:154,205,50>Wolfe: [Death]"
 
 
-"wolfe.Dead4" "<clr:154,205,50>Wolfe: [Death]"
+"wolfe.Dead4"	"<clr:154,205,50>Wolfe: [Death]"
 
 
-"wolfe.Dead5" "<clr:154,205,50>Wolfe: [Death]"
+"wolfe.Dead5"	"<clr:154,205,50>Wolfe: [Death]"
 
 
-"wolfe.Dead6" "<clr:154,205,50>Wolfe: [Death]"
+"wolfe.Dead6"	"<clr:154,205,50>Wolfe: [Death]"
 
 
-"wolfe.OnFire0" "<clr:154,205,50>Wolfe: [Screaming]"
+"wolfe.OnFire0"	"<clr:154,205,50>Wolfe: [Screaming]"
 
 
-"wolfe.OnFire1" "<clr:154,205,50>Wolfe: [Screaming]"
+"wolfe.OnFire1"	"<clr:154,205,50>Wolfe: [Screaming]"
 
 
-"wolfe.ActivateStims0" "<clr:154,205,50>Wolfe: Activate stims!"
+"wolfe.ActivateStims0"	"<clr:154,205,50>Wolfe: Activate stims!"
 
 
-"wolfe.ActivateStims1" "<clr:154,205,50>Wolfe: Activate the stims."
+"wolfe.ActivateStims1"	"<clr:154,205,50>Wolfe: Activate the stims."
 
 
-"wolfe.ActivateStims2" "<clr:154,205,50>Wolfe: Gimme some stim action."
+"wolfe.ActivateStims2"	"<clr:154,205,50>Wolfe: Gimme some stim action."
 
 
-"wolfe.ActivateStims3" "<clr:154,205,50>Wolfe: Hit the stim packs!"
+"wolfe.ActivateStims3"	"<clr:154,205,50>Wolfe: Hit the stim packs!"
 
 
-"wolfe.ActivateStims4" "<clr:154,205,50>Wolfe: Hit the stims!"
+"wolfe.ActivateStims4"	"<clr:154,205,50>Wolfe: Hit the stims!"
 
 
-"wolfe.ActivateStims5" "<clr:154,205,50>Wolfe: Stims."
+"wolfe.ActivateStims5"	"<clr:154,205,50>Wolfe: Stims."
 
 
-"wolfe.ActivateStims6" "<clr:154,205,50>Wolfe: Stim now."
+"wolfe.ActivateStims6"	"<clr:154,205,50>Wolfe: Stim now."
 
 
-"wolfe.ComplimentsWildcat0" "<clr:154,205,50>Wolfe: Make em bleed, Cat."
+"wolfe.ComplimentsWildcat0"	"<clr:154,205,50>Wolfe: Make em bleed, Cat."
 
 
-"wolfe.ComplimentsWildcat1" "<clr:154,205,50>Wolfe: Good shot, Cat.  Bring em down."
+"wolfe.ComplimentsWildcat1"	"<clr:154,205,50>Wolfe: Good shot, Cat.  Bring em down."
 
 
-"wolfe.ComplimentsWildcat2" "<clr:154,205,50>Wolfe: Nice shooting, Kid."
+"wolfe.ComplimentsWildcat2"	"<clr:154,205,50>Wolfe: Nice shooting, Kid."
 
 
-"wolfe.ComplimentsWildcat3" "<clr:154,205,50>Wolfe: Good shot, Wildcat."
+"wolfe.ComplimentsWildcat3"	"<clr:154,205,50>Wolfe: Good shot, Wildcat."
 
 
-"wolfe.Impatience0" "<clr:154,205,50>Wolfe: Don't mind me, just dying of old age here."
+"wolfe.Impatience0"	"<clr:154,205,50>Wolfe: Don't mind me, just dying of old age here."
 
 
-"wolfe.Impatience1" "<clr:154,205,50>Wolfe: Hey, don't mind me.  Just dying of old age here."
+"wolfe.Impatience1"	"<clr:154,205,50>Wolfe: Hey, don't mind me.  Just dying of old age here."
 
 
-"wolfe.Impatience2" "<clr:154,205,50>Wolfe: Man, don't make me wait all day."
+"wolfe.Impatience2"	"<clr:154,205,50>Wolfe: Man, don't make me wait all day."
 
 
-"wolfe.Selection0" "<clr:154,205,50>Wolfe: Locked and loaded."
+"wolfe.Selection0"	"<clr:154,205,50>Wolfe: Locked and loaded."
 
 
-"wolfe.Selection1" "<clr:154,205,50>Wolfe: Gimme a target."
+"wolfe.Selection1"	"<clr:154,205,50>Wolfe: Gimme a target."
 
 
-"wolfe.Selection2" "<clr:154,205,50>Wolfe: Sir."
+"wolfe.Selection2"	"<clr:154,205,50>Wolfe: Sir."
 
 //BASE COMPUTER
 

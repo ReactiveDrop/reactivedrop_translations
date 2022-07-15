@@ -2,10 +2,10 @@
 {
 	// PDA di proprietà di Naka
 
-	"MailFrom1" "Da: Comandante"
-	"MailDate1" "Data: 25.09.63"
-	"MailSubject1" "Soggetto: Ordini"
-	"MailBody1A" "Lasciate tutto e tornate nella sala conferenze."
+	"MailFrom1"	"Da: Comandante"
+	"MailDate1"	"Data: 25.09.63"
+	"MailSubject1"	"Soggetto: Ordini"
+	"MailBody1A"	"Lasciate tutto e tornate nella sala conferenze."
 
 	"MailFrom3"	"A: Comandante"
 	"MailDate3"	"Data: 25.09.63"
