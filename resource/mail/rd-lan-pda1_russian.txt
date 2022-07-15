@@ -1,8 +1,8 @@
 GAME
 {
-    // PDA belongs to Jan Anath
+	// PDA belongs to Jan Anath
 
-    // inbox
+	// inbox
 
 	"MailFrom1"	    "От: Уиндом Кинг"
 	"MailDate1"	    "Дата: 02.29.53"

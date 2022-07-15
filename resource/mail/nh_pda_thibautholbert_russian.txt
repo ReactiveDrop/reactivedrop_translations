@@ -1,8 +1,8 @@
 GAME
 {
-    // PDA belongs to Private First Class Thibaut Holbert
-    
-    // Sent mail
+	// PDA belongs to Private First Class Thibaut Holbert
+
+	// Sent mail
 
 	"MailFrom3"     "Кому: Капитан Артур Кэррадайн"
 	"MailDate3"		"Дата: 03.31.43"

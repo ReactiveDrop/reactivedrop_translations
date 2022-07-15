@@ -1,9 +1,9 @@
 GAME
 {
-    // PC belongs to Doctor Lin Da Silva
+	// PC belongs to Doctor Lin Da Silva
 
-    // Inbox
-    
+	// Inbox
+
 	"MailFrom1"		"송신자: 조나단 돌랜드"
 	"MailDate1"     "날짜: 02/13/42"
 	"MailSubject1"	"주제:모로 박사?"
@@ -16,8 +16,8 @@ GAME
 	"MailBody2A"	"Aye, pretty clear indeed, Doctor Da Silva."
 	"MailBody2B"	"남 휴머니움 :)"
 
-    // Sent mail
-    
+	// Sent mail
+
 	"MailFrom3"     "수신자: 조나단 돌랜드"
 	"MailDate3"		"날짜: 02/13/42"
 	"MailSubject3"	"주제: 답장:모로 박사?"
@@ -25,11 +25,10 @@ GAME
 	"MailBody3B"	"You do not get to call me by my first name, let alone think you can get all familiar with me. Let’s keep this relationship strictly professional, unless perhaps you are in need of a small reminder about some New Havre’s rat hole? Which hole I wonder, crawling inside it some lowly felon who would have thrown its sorry existence on a cargo ship had a stupid girl with too much kindness not stretched him an open hand."
 	"MailBody3C"	"Think of this as my wild card, Johnny, or however else you like. Dr. Moreau is in charge of all decisions regarding research. Given you’re only an assistant here, that’s all you need to know. So do try and stay in your depth, “just this once”."
 	"MailBody3D"	"Hoping things are cleared out for you?"
-	
+
 	"MailFrom4"     "수신자: 게일 플로렌자 중위"
 	"MailDate4"		"날짜: 01/01/43"
 	"MailSubject4"	"주제: (없음)"
 	"MailBody4A"	"If you can put an end to this then yes, I will make sure your access to the labs is clear."
 	"MailBody4B"	"Delete every trace of this conversation, and pray there isn’t already a Big Brother to pry at both our doors."
 }
-

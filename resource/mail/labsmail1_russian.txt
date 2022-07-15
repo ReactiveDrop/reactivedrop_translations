@@ -1,6 +1,6 @@
 GAME
 {
-    // PDA belongs to Helen Young
+	// PDA belongs to Helen Young
 
 	"MailFrom1" 	"От: Шон Минг"
 	"MailDate1" 	"Дата: 12.22.52"

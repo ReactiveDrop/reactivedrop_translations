@@ -1,9 +1,9 @@
 ﻿GAME
 {
-    // PDA belongs to Shaun Ming
-    
-    // inbox
-    
+	// PDA belongs to Shaun Ming
+
+	// inbox
+
 	"MailFrom1"	"差出人: ジョン・ケイン"
 	"MailDate1"	"送信日時: 52年12月23日"
 	"MailSubject1"	"件名: Re: ヘレン・ヤングを研究所に通す認可について"
@@ -11,7 +11,7 @@
 	"MailBody1B"	"事態は悪化して、もう手に負えなくなってきた。私は先ほどティモール前哨地から戻ってきた所だ。 ヤツらは広がり続けている。どうやってヤツらは2番デッキから採掘場へ入り込んだというのだ？"
 	"MailBody1C"	"それから、アトリウムでは何が起きているんだ？"
 	"MailBody1D"	"SynTekセキュリティ社、ケイン大尉より"
-	
+
 	// sent mail
 
 	"MailFrom3"	"宛先: ジョン・ケイン"

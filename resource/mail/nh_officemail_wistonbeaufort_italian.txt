@@ -1,8 +1,8 @@
 GAME
 {
-    // Computer di proprietà del capo chirurgo Wiston Beaufort
-    
-    // Messaggi inviati
+	// Computer di proprietà del capo chirurgo Wiston Beaufort
+
+	// Messaggi inviati
 
 	"MailFrom3"     "A: Dr. Jacques Moreau"
 	"MailDate3"		"Data: 18/05/42"

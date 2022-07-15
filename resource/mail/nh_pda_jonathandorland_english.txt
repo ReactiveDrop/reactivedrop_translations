@@ -1,8 +1,8 @@
 GAME
 {
-    // PDA belongs to Jonathan Dorland
-    
-    // Sent mail
+	// PDA belongs to Jonathan Dorland
+
+	// Sent mail
 
 	"MailFrom3"		"To: Dr. Lin Da Silva"
 	"MailDate3"		"Date: 03/31/43"

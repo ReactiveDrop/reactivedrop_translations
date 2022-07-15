@@ -1,7 +1,7 @@
 ﻿GAME
 {
-    // spam
-	"MailFrom1" "差出人: 名無しさん"
+	// spam
+	"MailFrom1"	"差出人: 名無しさん"
 	"MailSubject1"	"目覚めよ！！！"
 	"MailDate1"	"送信日時: 52年12月25日"
 	"MailBody1A"	"やあ自由人ども、"

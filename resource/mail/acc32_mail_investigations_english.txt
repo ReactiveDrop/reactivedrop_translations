@@ -5,7 +5,7 @@ GAME
 	"MailSubject1"	"Subject: investigation"
 	"MailBody1A"	"we entered through the sewer, was bloody from all the bodies you maggots dumped into them. temp is 50 degrees, radiation levels 3 times higher now."
 	"MailBody1B"	"Sarge. nov 20 2232"
-	
+
 	"MailFrom1"	"From: Sarge."
 	"MailDate1"	"Date: Nov 20, 2232"
 	"MailSubject1"	"Subject: re: While you are There"

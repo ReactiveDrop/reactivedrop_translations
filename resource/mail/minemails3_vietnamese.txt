@@ -1,21 +1,21 @@
 GAME
 {
-    // PDA belongs to Brad Campbell
-    
-    // inbox
-    
+	// PDA belongs to Brad Campbell
+
+	// inbox
+
 	"MailFrom1"	"Từ: David Anders"
 	"MailDate1"	"Ngày: 12/12/52"
 	"MailSubject1"	"Tiêu đề: Đồ bảo vệ"
 	"MailBody1A"	"Jeez Brad, sức nóng đang quá mức chịu đựng rồi. Chúng tôi lại tìm thêm 1 mỏ nham thạch gần đường hầm số 11, ko thể cải thiện tình hình được nữa đâu. Hay là thử mấy bộ đồ bảo vệ?"
 	"MailBody1B"	"Dave"
-	
+
 	"MailFrom2"	"Từ: David Anders"
 	"MailDate2"	"Ngày: 12/14/52"
 	"MailSubject2"	"Tiêu đề: Daxol"
 	"MailBody2A"	"Brad,"
 	"MailBody2B"    "Mẹ kiếp. Tôi vừa mới nói chuyện với Pete và Kovac. Chúng nó thừa nhận là đã cho phép mọi người sử dụng Daxol, trái với quy định. Tôi vừa nghĩ rằng mọi chuyện đang dần trở lại bình thường. Giờ ông muốn tôi phải làm gì?"
-	
+
 	// sent mail
 
 	"MailFrom3"	"Từ: David Anders"

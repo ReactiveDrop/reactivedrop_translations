@@ -1,9 +1,9 @@
 GAME
 {
-    // PDA di proprietà del Caporale France Siriac
-    
-   // In arrivo
-    
+	// PDA di proprietà del Caporale France Siriac
+
+	// In arrivo
+
 	"MailFrom1"		"Da: Pauline Vito"
 	"MailDate1"     "Data: 01/04/43"
 	"MailSubject1"	"Soggetto: Intrappolati nella serra"
@@ -19,8 +19,8 @@ GAME
 	"MailBody2C"	"per favore aiutateci"
 	"MailBody2D"	"per favore"
 
-    // Mail inviate
-    
+	// Mail inviate
+
 	"MailFrom3"     "A: Pauline Vito"
 	"MailDate3"		"Data: 01/04/43"
 	"MailSubject3"	"Soggetto: RE: Intrappolati nella serra"

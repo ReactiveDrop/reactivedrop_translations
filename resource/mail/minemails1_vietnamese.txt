@@ -1,7 +1,7 @@
 GAME
 {
-    // PDA belongs to misc colonist
-    
+	// PDA belongs to misc colonist
+
 	"MailFrom1"	"Từ: John Cain"
 	"MailDate1"	"Ngày: 12/24/52"
 	"MailSubject1"	"Tiêu đề: Luật giới nghiêm"

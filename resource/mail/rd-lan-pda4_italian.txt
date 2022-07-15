@@ -1,9 +1,9 @@
 GAME
 {
-    // PDA di proprietà di Lana King
-    
-    // inbox
-    
+	// PDA di proprietà di Lana King
+
+	// inbox
+
 	"MailFrom1"	"Da: Windom King"
 	"MailDate1"	"Data: 02/29/53"
 	"MailSubject1"	"Soggetto: Attenzione!"
@@ -12,6 +12,6 @@ GAME
 	"MailBody1C"	"Anath non mi crede. Proverò a convincerlo a chiamare l'IAF ma non sono fiducioso."
 	"MailBody1D"	"Windom"
 
-	
+
 	// mail spedita
 }
