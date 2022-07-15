@@ -1,7 +1,7 @@
 GAME
 {
-    // PDA di proprietà di Lt Cain
-    
+	// PDA di proprietà di Lt Cain
+
 	"MailFrom1"	"Da: Laura Callen"
 	"MailDate1"	"Data: 12/24/52"
 	"MailSubject1"	"Soggetto: Ci siamo"

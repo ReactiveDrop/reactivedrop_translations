@@ -1,8 +1,8 @@
 ﻿GAME
 {
-    // PDA belongs to Tom Asselin
-    
-    // Inbox
+	// PDA belongs to Tom Asselin
+
+	// Inbox
 
 	"MailFrom1"     "差出人: ジョナサン・ドーランド"
 	"MailDate1"		"送信日時: 42年6月17日"
@@ -10,7 +10,7 @@
 	"MailBody1A"	"いや。今起きていることを考えると、とてもそういう気分になれない。 カモ探しなら他をあたってくれ。"
 
 
-    // Sent mail
+	// Sent mail
 
 	"MailFrom3"     "宛先: ジョナサン・ドーランド"
 	"MailDate3"		"送信日時: 42年6月17日"

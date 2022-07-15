@@ -1,9 +1,9 @@
 GAME
 {
-    // PDA belongs to Ming
-    
-    // inbox
-    
+	// PDA belongs to Ming
+
+	// inbox
+
 	"MailFrom1"	"From: John Cain"
 	"MailDate1"	"Date: 12/20/52"
 	"MailSubject1"	"Subject: Delivery to Research Station 7"

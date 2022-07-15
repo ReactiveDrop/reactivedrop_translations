@@ -1,8 +1,8 @@
 ﻿GAME
 {
-    // PDA belongs to Andrew Smithson
-    
-    // inbox 
+	// PDA belongs to Andrew Smithson
+
+	// inbox 
 	"MailFrom1"     "差出人: ジェームズ・シュルガー"
 	"MailDate1"     "送信日時: 57年10月9日"
 	"MailSubject1"   "件名: 壊れかけのドア"
@@ -19,7 +19,7 @@
 	"MailBody2C"     "管理部よりこの場をお借りして申し上げます。 この度は人事部に興味をお持ちいただき、ありがとうございました。今後のご活躍を心よりお祈り申し上げます。"
 	"MailBody2D"     "オアシスコロニー人材管理部-ジョナス・ホワイトより"
 
-   // sent mail
+	// sent mail
 	"MailFrom3"	"宛先: ヘンリー・スミスソン"
 	"MailDate3"	"送信日時: 57年10月9日"
 	"MailSubject3"	"件名: Re:Re:Re:こんにちは"

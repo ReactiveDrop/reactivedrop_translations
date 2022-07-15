@@ -1,8 +1,8 @@
 GAME
 {
-    // PDA belongs to Shaun Ming
+	// PDA belongs to Shaun Ming
 
-    // inbox
+	// inbox
 
 	"MailFrom1" 	"От: Джон Кейн"
 	"MailDate1" 	"Дата: 12.23.52"

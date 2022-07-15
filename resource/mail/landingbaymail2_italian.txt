@@ -1,7 +1,7 @@
 GAME
 {
-    // PDA di proprietà di Laura
-    
+	// PDA di proprietà di Laura
+
 	"MailFrom1"	"Da: Brad Campbell"
 	"MailDate1"	"Data: 12/18/52"
 	"MailSubject1"	"Soggetto: Re:Re: Uova"

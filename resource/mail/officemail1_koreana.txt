@@ -1,7 +1,7 @@
 ﻿GAME
 {
-    // PDA belongs to Lt Cain
-    
+	// PDA belongs to Lt Cain
+
 	"MailFrom1"	"송신자: 숀 밍"
 	"MailDate1"	"날짜: 52년 12월 21일"
 	"MailSubject1"	"주제: 실험"

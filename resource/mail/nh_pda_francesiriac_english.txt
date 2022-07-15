@@ -1,9 +1,9 @@
 GAME
 {
-    // PDA belongs to Corporal France Siriac
-    
-   // Inbox
-    
+	// PDA belongs to Corporal France Siriac
+
+	// Inbox
+
 	"MailFrom1"		"From: Pauline Vito"
 	"MailDate1"     "Date: 04/01/43"
 	"MailSubject1"	"Subject: Trapped in the greenhouse"
@@ -19,8 +19,8 @@ GAME
 	"MailBody2C"	"please help us"
 	"MailBody2D"	"please"
 
-    // Sent mail
-    
+	// Sent mail
+
 	"MailFrom3"     "To: Pauline Vito"
 	"MailDate3"		"Date: 04/01/43"
 	"MailSubject3"	"Subject: RE: Trapped in the greenhouse"

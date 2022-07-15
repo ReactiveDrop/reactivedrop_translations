@@ -1,8 +1,8 @@
 ﻿GAME
 {
-    // PDA belongs to Andrew Smithson
-    
-    // inbox 
+	// PDA belongs to Andrew Smithson
+
+	// inbox 
 	"MailFrom1"     "송신자: 제임스 슐러거"
 	"MailDate1"     "날짜: 57년 10월 9일"
 	"MailSubject1"   "주제: 결함이 있는 문"
@@ -19,7 +19,7 @@
 	"MailBody2C"     "관리부에서는 이 기회를 빌어 귀하의 관심에 감사를 드리고 앞으로의 모든 노력에 행운을 빌겠습니다."
 	"MailBody2D"     "조나스 화이트 - 인사부, 오아시스 식민지"
 
-   // sent mail
+	// sent mail
 	"MailFrom3"	"수신자: 헨리 스밋손"
 	"MailDate3"	"날짜: 57년 10월 9일"
 	"MailSubject3"	"주제: 회신:회신:회신:안녕"
