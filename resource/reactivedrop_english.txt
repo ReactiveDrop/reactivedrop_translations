@@ -3474,6 +3474,8 @@
 
 "asw_need_dynamite"	"Need TNT"
 
+"asw_unnamed_mission_title" "Unnamed Mission"
+
 "rd_campaign_name_deathmatch_campaign"	"Deathmatch"
 "rd_campaign_desc_deathmatch_campaign"	"Kill everything that moves."
 "rd_campaign_name_jacob"	"Jacob's Rest"
