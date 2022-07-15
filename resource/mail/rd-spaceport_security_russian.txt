@@ -1,8 +1,8 @@
 GAME
 {
-    // PDA belongs to Tony Dawson
+	// PDA belongs to Tony Dawson
 
-    // inbox
+	// inbox
 
 	"MailFrom1"      "От: Барбара Уайт"
 	"MailDate1"      "Дата: 06.10.57"
@@ -20,7 +20,7 @@ GAME
 	"MailBody2C"     ""
 	"MailBody2D"     "Эндрю Смитсон - Техобслуживание космопорта"
 
-   // sent mail
+	// sent mail
 	"MailFrom3"	    "Кому: Барбара Уайт"
 	"MailDate3"	    "Дата: 06.10.57"
 	"MailSubject3"	"Тема: Конфискованный предмет"

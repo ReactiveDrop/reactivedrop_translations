@@ -1,8 +1,8 @@
 GAME
 {
-    // PDA belongs to Doctor Jacques Moreau
-    
-    // Sent messages
+	// PDA belongs to Doctor Jacques Moreau
+
+	// Sent messages
 
 	"MailFrom3"     "To: Cpt. Arthur Carradine"
 	"MailDate3"		"Date: 03/31/43"

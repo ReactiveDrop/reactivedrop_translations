@@ -5,7 +5,6 @@ GAME
 	"MailSubject1"	"Betreff: Lösung"
 	"MailBody1A"	"Ich schlage vor, dass wir die gesamte Anlage langsam dekonfizieren, angefangen im Süden. Frische, kalte Luft sollte einströmen und in ein paar Tagen ihre Arbeit tun. Ich gehe davon aus, dass die freigesetzte Strahlung in der Umgebung nicht zu hoch sein wird. Wir könnten trotzdem die umliegenden Häuser evakuieren, um sie zu schützen."
 	"MailBody1B"	"Richard - 24. Nov 2232"
-	
 	"MailFrom1"	"An: Richard"
 	"MailDate1"	"Datum: 24. Nov 2232"
 	"MailSubject1"	"Betreff: aw: Lösung"

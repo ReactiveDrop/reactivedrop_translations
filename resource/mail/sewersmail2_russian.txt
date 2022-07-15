@@ -1,6 +1,6 @@
 GAME
 {
-    // PDA belongs to brian
+	// PDA belongs to brian
 	"MailFrom1"   	"От: Хелен Янг"
 	"MailDate1"	    "Дата: 12.24.52"
 	"MailSubject1"	"Тема: Переход в лаборатории"

@@ -11,7 +11,7 @@
 "asw_credits_"	"Testen"
 "asw_credits_"	"Stain"
 "asw_credits_"	"Dane"
-"asw_credits_"	"Brak&Roll" 
+"asw_credits_"	"Brak&Roll"
 "asw_credits_"	""
 "asw_credits_"	"Zusätzliche Ideen"
 "asw_credits_"	"GI-Jack"

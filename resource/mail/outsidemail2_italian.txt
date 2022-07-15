@@ -1,7 +1,7 @@
 GAME
 {
-    // PDA di proprietà di Brian
-    
+	// PDA di proprietà di Brian
+
 	"MailFrom1"	"Da: Helen Young"
 	"MailDate1"	"Data: 12/22/52"
 	"MailSubject1"	"Soggetto: Niente lavoro"

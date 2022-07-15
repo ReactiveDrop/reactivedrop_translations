@@ -1,8 +1,8 @@
 GAME
 {
-    // PDA belongs to Andrew Smithson
+	// PDA belongs to Andrew Smithson
 
-    // inbox
+	// inbox
 	"MailFrom1"      "От: Джеймс Шлюгер"
 	"MailDate1"      "Дата: 09.10.57"
 	"MailSubject1"   "Тема: Неисправная дверь"
@@ -19,7 +19,7 @@ GAME
 	"MailBody2C"     "Администрация хотела бы воспользоваться этой возможностью, чтобы поблагодарить вас за проявленный интерес и пожелать вам удачи во всех будущих начинаниях."
 	"MailBody2D"     "Джонас Уайт - Отдел Кадров, колония Оазис"
 
-   // sent mail
+	// sent mail
 	"MailFrom3"	    "Кому: Генри Смитсон"
 	"MailDate3"	    "Дата: 09.10.57"
 	"MailSubject3"	"Тема: Ответ:Ответ:Ответ: Привет"

@@ -1,8 +1,8 @@
 GAME
 {
-    // PDA belongs to Tony Dawson
-    
-    // inbox 
+	// PDA belongs to Tony Dawson
+
+	// inbox 
 
 	"MailFrom1"     "From: Barbara Whyte"
 	"MailDate1"     "Date: 06/10/57"
@@ -20,7 +20,7 @@ GAME
 	"MailBody2C"     ""
 	"MailBody2D"     "Andrew Smithson - Spaceport Maintenance"
 
-   // sent mail
+	// sent mail
 	"MailFrom3"	"To: Barbara Whyte"
 	"MailDate3"	"Date: 06/10/57"
 	"MailSubject3"	"Subject: Confiscated item"

@@ -4,7 +4,7 @@
 "Tokens" 
 { 
 	"testcommands"			"<clr:255,0,0>This is red<I> and italics<B> and<cr>bold<B><I><clr:255,255,255> white again."
-	
+
 //Commander Audio
 
 "Command.co_m1_ob1"	"<clr:240,255,255>Commander: Okay, squad.  We need to check the shipping manifests to see if any survivors made it off this rock.  Make your way down to the landing bay and find a terminal where we can download the transport records.  I'll check in with you there."
@@ -2016,7 +2016,7 @@
 
 "sarge.Idle12" "<clr:238,207,161>Sarge: This is the Interstellar Armed Forces, not a Gaddamned picnic."
 
- 
+
 "sarge.Idle13" "<clr:238,207,161>Sarge: Well, time to earn those paychecks."
 
 
@@ -2169,7 +2169,7 @@
 
 "sarge.CallWolfe0" "<clr:238,207,161>Sarge: Hey, Wolfe."
 
- 
+
 "sarge.CallWolfe1" "<clr:238,207,161>Sarge: Wolfe!"
 
 
@@ -2205,7 +2205,7 @@
 
 "sarge.CallVegas2" "<clr:238,207,161>Sarge: Hey Vegas, listen up."
 
- 
+
 "sarge.SuppliesAmmo0" "<clr:238,207,161>Sarge: Good, supplies.  Take what you need."
 
 
@@ -2253,7 +2253,7 @@
 
 "sarge.HoldingNorth1" "<clr:238,207,161>Sarge: Covering north side."
 
- 
+
 "sarge.HoldingNorth2" "<clr:238,207,161>Sarge: North side in position."
 
 
@@ -2274,7 +2274,7 @@
 
 "sarge.HoldingEast0" "<clr:238,207,161>Sarge: Covering east."
 
- 
+
 "sarge.HoldingEast1" "<clr:238,207,161>Sarge: Covering east side."
 
 
@@ -2541,7 +2541,7 @@
 
 "sarge.ActivateStims3" "<clr:238,207,161>Sarge: Activate stim pack now."
 
- 
+
 "sarge.ActivateStims4" "<clr:238,207,161>Sarge: I need that stim pack."
 
 
@@ -2574,7 +2574,7 @@
 
 "sarge.Impatience2" "<clr:238,207,161>Sarge: Shit, how long you gonna play that solitaire game anyway?"
 
- 
+
 "sarge.Selection0" "<clr:238,207,161>Sarge: Speak."
 
 
@@ -2755,7 +2755,7 @@
 
 "vegas.Medic0" "<clr:84,255,159>Vegas: Medic!"
 
- 
+
 "vegas.Medic1" "<clr:84,255,159>Vegas: Need Medic!"
 
 
@@ -2770,7 +2770,7 @@
 
 "vegas.Reloading3" "<clr:84,255,159>Vegas: Reload.  Cover me."
 
- 
+
 "vegas.Reloading4" "<clr:84,255,159>Vegas: Reloading."
 
 
@@ -2812,7 +2812,7 @@
 
 "vegas.Question1" "<clr:84,255,159>Vegas: Que?"
 
- 
+
 "vegas.Question2" "<clr:84,255,159>Vegas: What?"
 
 
@@ -2839,7 +2839,7 @@
 
 "vegas.CallWolfe0" "<clr:84,255,159>Vegas: Hey, Wolfe."
 
- 
+
 "vegas.CallWolfe1" "<clr:84,255,159>Vegas: Wolfe."
 
 
@@ -2935,7 +2935,7 @@
 
 "vegas.GotRear0" "<clr:84,255,159>Vegas: I'll cover the back."
 
- 
+
 "vegas.GotRear1" "<clr:84,255,159>Vegas: I've got your back."
 
 
@@ -3046,7 +3046,7 @@
 
 "vegas.Parasite2" "<clr:84,255,159>Vegas: Site!"
 
- 
+
 "vegas.Parasite3" "<clr:84,255,159>Vegas: Site."
 
 
@@ -3211,7 +3211,7 @@
 
 "vegas.FinishedHack4" "<clr:84,255,159>Vegas: Too easy!"
 
- 
+
 "vegas.FinishedHackButton0" "<clr:84,255,159>Vegas: Hack complete!  What did I win?"
 
 
@@ -3329,7 +3329,7 @@
 
 "wildcat.Idle1" "<clr:238,106,80>Wildcat: I say we set some T-75 explosives and get the hell out!"
 
- 
+
 "wildcat.Idle2" "<clr:238,106,80>Wildcat: Let's get this party started."
 
 
@@ -3383,7 +3383,7 @@
 
 "wildcat.NoAmmo1" "<clr:238,106,80>Wildcat: No ammo!"
 
- 
+
 "wildcat.NoAmmo2" "<clr:238,106,80>Wildcat: Out of ammo!"
 
 
@@ -3593,7 +3593,7 @@
 
 "wildcat.HoldingWest2" "<clr:238,106,80>Wildcat: West side in position."
 
- 
+
 "wildcat.GotPoint0" "<clr:238,106,80>Wildcat: I've got point."
 
 
@@ -3755,7 +3755,7 @@
 
 "wildcat.ActivateStims2" "<clr:238,106,80>Wildcat: Stim now."
 
- 
+
 "wildcat.ActivateStims3" "<clr:238,106,80>Wildcat: Stimpack now."
 
 
@@ -4014,7 +4014,7 @@
 
 "wolfe.Reloading2" "<clr:154,205,50>Wolfe: Reload."
 
- 
+
 "wolfe.SentryInPlace0" "<clr:154,205,50>Wolfe: Sentry on-line."
 
 
@@ -4074,7 +4074,7 @@
 
 "wolfe.Question7" "<clr:154,205,50>Wolfe: What is it?"
 
- 
+
 "wolfe.Question8" "<clr:154,205,50>Wolfe: What now?"
 
 
@@ -4215,7 +4215,7 @@
 
 "wolfe.HoldingNorth5" "<clr:154,205,50>Wolfe: North side standing to."
 
- 
+
 "wolfe.HoldingSouth0" "<clr:154,205,50>Wolfe: Covering south."
 
 
@@ -4545,7 +4545,7 @@
 
 "wolfe.BreachedDoor2" "<clr:154,205,50>Wolfe: They broke through the door."
 
- 
+
 "wolfe.BreachedDoor3" "<clr:154,205,50>Wolfe: They've breached the door."
 
 
@@ -4677,7 +4677,7 @@
 
 "wolfe.Impatience2" "<clr:154,205,50>Wolfe: Man, don't make me wait all day."
 
- 
+
 "wolfe.Selection0" "<clr:154,205,50>Wolfe: Locked and loaded."
 
 

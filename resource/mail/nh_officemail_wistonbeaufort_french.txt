@@ -1,8 +1,8 @@
 GAME
 {
-    // Computer belongs to Chief Surgeon Wiston Beaufort
-    
-    // Sent messages
+	// Computer belongs to Chief Surgeon Wiston Beaufort
+
+	// Sent messages
 
 	"MailFrom3"     "À : Dr. Jacques Moreau"
 	"MailDate3"		"Date : 18/05/42"

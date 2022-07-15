@@ -10,7 +10,7 @@
 "asw_credits_"	"Bitte schreib RC7 in den Betreff"
 "asw_credits_"	""
 "asw_credits_"	"Danke an Alan, Jamie und Matt"
-"asw_credits_"	"für ihre Hilfe beim Testen." 
+"asw_credits_"	"für ihre Hilfe beim Testen."
 "asw_credits_"	"Danke an die Mitglieder der Steam-Foren"
 "asw_credits_"	"für ihre Hilfe und Unterstützung."
 "asw_credits_"	"Und danke an Valve und Black Cat Games"

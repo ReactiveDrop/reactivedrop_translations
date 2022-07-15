@@ -7,7 +7,6 @@ GAME
 	"MailBody1B"	"Quelle der Strahlung - seltsame transparente Felsen. Sie sind wie beschlagenes Glas, aber sehr zäh. Es tut weh, wenn ich sie in der Hand halte."
 	"MailBody1C"	"Der größte Würfel, den wir bisher gefunden haben, ist etwa 7,5 Zentimeter groß. Es war schwierig, ihn aus der Höhlendecke zu bekommen, wir mussten ihn in zwei Teile zerlegen."
 	"MailBody1D"	"Jose Dunclub - 15. Okt 2232"
-	
 	"MailFrom2" "Von: Operation News [Jose Dunclub]"
 	"MailDate2" "Datum: 17. Okt 2232"
 	"MailSubject2" "Betreff: Großer Junge"

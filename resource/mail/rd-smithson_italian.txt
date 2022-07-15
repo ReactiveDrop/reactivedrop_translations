@@ -1,8 +1,8 @@
 GAME
 {
-    // PDA di proprietà di Andrew Smithson
-    
-    // inbox 
+	// PDA di proprietà di Andrew Smithson
+
+	// inbox 
 	"MailFrom1"     "Da: James Shluger"
 	"MailDate1"     "Data: 09/10/57"
 	"MailSubject1"   "Soggetto: Porta difettosa"
@@ -19,7 +19,7 @@ GAME
 	"MailBody2C"     "L'Amministrazione vorrebbe cogliere l'occasione per ringraziarti per il tuo interesse e ti augura buona fortuna per tutti gli sforzi futuri."
 	"MailBody2D"     "Jonas White - Risorse Umane, Colonia Oasis"
 
-   // sent mail
+	// sent mail
 	"MailFrom3"	"A: Henry Smithson"
 	"MailDate3"	"Data: 09/10/57"
 	"MailSubject3"	"Soggetto: Re:Re:Re:ciao"

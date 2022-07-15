@@ -1,8 +1,8 @@
 GAME
 {
-    // PDA belongs to Sergeant Sarah Weiss
-    
-    // Sent mail
+	// PDA belongs to Sergeant Sarah Weiss
+
+	// Sent mail
 
 	"MailFrom3"		"수신자: 게일 플로렌자 중위"
 	"MailDate3"		"날짜: 06/16/42"

@@ -1,8 +1,8 @@
 GAME
 {
-    // PDA di proprietà del Sergente Sarah Weiss
-    
-    // Mail inviate
+	// PDA di proprietà del Sergente Sarah Weiss
+
+	// Mail inviate
 
 	"MailFrom3"		"A: Ten. Gael Florenza"
 	"MailDate3"		"Data: 16/06/42"

@@ -1,12 +1,12 @@
 GAME
 {
-    // Hacked into network history: Lieutenant Gael Florenza
-    
-    // Sent mail
+	// Hacked into network history: Lieutenant Gael Florenza
+
+	// Sent mail
 
 	"MailFrom3"     "À : Iris Florenza"
 	"MailDate3"		"Date : 25/06/42"
-	"MailSubject3"	"Objet : Événements étranges
+	"MailSubject3"	"Objet : Événements étranges"
 	"MailBody3A"	"Mon cœur,"
 	"MailBody3B"    "Il se passe des choses étranges à Lugdunum. Ce n’est pas mon souhait de t’inquiéter, mais traduire mon état d’esprit à l’écrit m’est quelque peu thérapeuthique."
 	"MailBody3C"    "Je ne sais pas comment, mais des colons disparaissent. Sarah, la dernière d’entre eux, est une jeune sergente récemment affectée à mon unité. Bien qu’elle soit cavalière, je n’imagine pas qu’elle puisse se volatiliser du jour au lendemain d’elle-même... sans parler de toute la logistique derrière cette seule idée. Cpt. Carradine m’affirme prendre le problème très au sérieux, mais je ne l’ai pas encore entendu proposer de solution concrète. Si quelqu’un kidnappe des gens au sein de la colonie, ne devrions-nous pas quadriller la zone et/ou opérer à des fouilles d’habitations ? Le Dr. Moreau, quant à lui, semble entièrement plongé dans ses recherches sur la grotte trouvée 6 mois plus tôt. Seules les équipes scientifiques gardent contact avec son laboratoire, et encore son personnel proche semble s’être réduit de moitié. Aujourd’hui plus que jamais, j’aurai souhaité que Mme. Moreau soit encore parmi nous. Elle, au moins, aurait conservé un semblant de transparence avec les siens."
