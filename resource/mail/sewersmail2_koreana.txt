@@ -1,6 +1,6 @@
 ﻿GAME
 {
-    // PDA belongs to brian
+	// PDA belongs to brian
 	"MailFrom1"	"송신자: 헬렌 영"
 	"MailDate1"	"날짜: 52년 12월 24일"
 	"MailSubject1"	"주제: 실험실로 가는 중"

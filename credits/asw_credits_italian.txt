@@ -1,6 +1,6 @@
 "Riconoscimenti"
 {
-"show_credits_logo" "1"
+"show_credits_logo"	"1"
 "asw_credits_"	"Aaron Barber"
 "asw_credits_"	"Aaron Halifax"
 "asw_credits_"	"Aaron Kearly"

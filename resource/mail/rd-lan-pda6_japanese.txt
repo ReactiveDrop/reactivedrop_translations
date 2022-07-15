@@ -1,11 +1,11 @@
 ﻿GAME
 {
-    // PDA belongs to Lucius Pawn
-    
-    // inbox
-    
-	
-	
+	// PDA belongs to Lucius Pawn
+
+	// inbox
+
+
+
 	// sent mail
 
 	"MailFrom3"	"宛先: ラナ・キング"

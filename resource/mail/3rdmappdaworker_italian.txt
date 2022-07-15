@@ -1,16 +1,15 @@
  GAME
-    {
-    // PDA di proprietà di Naka
+{
+	// PDA di proprietà di Naka
 
-    "MailFrom1" "Da: Comandante"
-    "MailDate1" "Data: 25.09.63"
-    "MailSubject1" "Soggetto: Ordini"
-    "MailBody1A" "Lasciate tutto e tornate nella sala conferenze."
-
+	"MailFrom1"	"Da: Comandante"
+	"MailDate1"	"Data: 25.09.63"
+	"MailSubject1"	"Soggetto: Ordini"
+	"MailBody1A"	"Lasciate tutto e tornate nella sala conferenze."
 
 	"MailFrom3"	"A: Comandante"
 	"MailDate3"	"Data: 25.09.63"
 	"MailSubject3"	"Soggetto: Fase 3a completata"
 	"MailBody3A"	"Le gabbie con gli alieni sperimentali sono al loro posto. Peccato che quelli invisibili non possano riprodursi."
 	"MailBody3B"	"Dovrebbero svegliarsi presto... Quei soldati non hanno alcuna possibilità contro di loro."
-    }
+}

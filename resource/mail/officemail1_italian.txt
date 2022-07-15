@@ -1,7 +1,7 @@
 GAME
 {
-    // PDA di proprietà di Lt Cain
-    
+	// PDA di proprietà di Lt Cain
+
 	"MailFrom1"	"Da: Shaun Ming"
 	"MailDate1"	"Data: 12/21/52"
 	"MailSubject1"	"Soggetto: Test"

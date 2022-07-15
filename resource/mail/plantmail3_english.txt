@@ -1,7 +1,7 @@
 GAME
 {
-    // spam
-	"MailFrom1" "From: John Doe"
+	// spam
+	"MailFrom1"	"From: John Doe"
 	"MailSubject1"	"WAKE UP!!!"
 	"MailDate1"	"Date: 12/25/52"
 	"MailBody1A"	"Hello free people,"

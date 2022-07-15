@@ -1,7 +1,7 @@
 "Credits"
 {
 // these keys must be in this order!
-"show_credits_logo" "0"
+"show_credits_logo"	"0"
 //"custom_logo"	"ExampleCustomLogo/example_custom_logo"
 "asw_credits_"	"OPERATION CLEANSWEEP"
 "asw_credits_"	""
@@ -11,7 +11,7 @@
 "asw_credits_"	"Testen"
 "asw_credits_"	"Stain"
 "asw_credits_"	"Dane"
-"asw_credits_"	"Brak&Roll" 
+"asw_credits_"	"Brak&Roll"
 "asw_credits_"	""
 "asw_credits_"	"Zusätzliche Ideen"
 "asw_credits_"	"GI-Jack"

@@ -1,8 +1,8 @@
 GAME
 {
-    // PDA belongs to Doctor Jacques Moreau
-    
-    // Sent messages
+	// PDA belongs to Doctor Jacques Moreau
+
+	// Sent messages
 
 	"MailFrom3"     "Кому: К-н. Артур Кэррадайн"
 	"MailDate3"		"Дата: 03.31.43"

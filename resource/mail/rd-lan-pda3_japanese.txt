@@ -1,9 +1,9 @@
 ﻿GAME
 {
-    // PDA belongs to Jan Anath
-    
-    // inbox
-    
+	// PDA belongs to Jan Anath
+
+	// inbox
+
 	"MailFrom1"	"差出人: ウィンダム・キング"
 	"MailDate1"	"送信日時: 53年02月29日"
 	"MailSubject1"	"件名: 大きな脅威"
@@ -11,9 +11,9 @@
 	"MailBody1B"	"我々は大きな脅威に直面していると確信しています。"
 	"MailBody1C"	"IAFに連絡を取るべきです。 エイリアンの襲撃かもしれません。"
 	"MailBody1D"	"警備責任者、ウィンダム・キングより"
-		
+
 	// sent mail
-	
+
 	"MailFrom3"	"宛先: ウィンダム・キング"
 	"MailDate3"	"送信日時: 53年02月29日"
 	"MailSubject3"	"件名: Re: 大きな脅威"

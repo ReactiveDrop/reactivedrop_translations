@@ -1,9 +1,9 @@
 GAME
 {
-    // PDA belongs to Leon Bishop
-    
-    // inbox
-    
+	// PDA belongs to Leon Bishop
+
+	// inbox
+
 	"MailFrom1"	"From: Jan Anath"
 	"MailDate1"	"Date: 02/29/53"
 	"MailSubject1"	"Subject: Spy Found"
@@ -12,6 +12,6 @@ GAME
 	"MailBody1C"	"Stop them at any cost--including their lives. This is an order."
 	"MailBody1D"	"Head Administrator J. Anath"
 
-	
+
 	// sent mail
 }

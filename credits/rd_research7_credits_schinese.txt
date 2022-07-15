@@ -1,7 +1,7 @@
 "Credits"
 {
 // these keys must be in this order!
-"show_credits_logo" "0"
+"show_credits_logo"	"0"
 //"custom_logo"	"ExampleCustomLogo/example_custom_logo"
 "asw_credits_"	"Will 'Issus' Rogers"
 "asw_credits_"	""
@@ -10,7 +10,7 @@
 "asw_credits_"	"请将 RC7 加入邮件主题"
 "asw_credits_"	""
 "asw_credits_"	"感谢 Alan, Jamie, and Matt"
-"asw_credits_"	"感谢他们在测试期间的帮助。" 
+"asw_credits_"	"感谢他们在测试期间的帮助。"
 "asw_credits_"	"感谢steam论坛的成员"
 "asw_credits_"	"感谢他们的帮助和支持。"
 "asw_credits_"	"同时也感谢 VALVe 和 Black Cat"

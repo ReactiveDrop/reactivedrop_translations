@@ -1,8 +1,8 @@
 GAME
 {
-    // PDA belongs to Sergeant Sarah Weiss
-    
-    // Sent mail
+	// PDA belongs to Sergeant Sarah Weiss
+
+	// Sent mail
 
 	"MailFrom3"		"To: Lt. Gael Florenza"
 	"MailDate3"		"Date: 06/16/42"
