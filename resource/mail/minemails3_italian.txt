@@ -1,21 +1,21 @@
 GAME
 {
-    // PDA di proprietà di Brad Campbell
-    
-    // inbox
-    
+	// PDA di proprietà di Brad Campbell
+
+	// inbox
+
 	"MailFrom1"	"Da: David Anders"
 	"MailDate1"	"Data: 12/12/52"
 	"MailSubject1"	"Soggetto: Tute ambientali"
 	"MailBody1A"	"Caspita Brad, il caldo sta diventando insopportabile. Abbiamo trovato un altro campo di lava vicino al tunnel 11, quindi è probabile che le cose non migliorino. Che ne è stato di quelle tute ambientali?"
 	"MailBody1B"	"Dave"
-	
+
 	"MailFrom2"	"Da: David Anders"
 	"MailDate2"	"Data: 12/14/52"
 	"MailSubject2"	"Soggetto: Daxol"
 	"MailBody2A"	"Brad,"
 	"MailBody2B"    "Accidenti. Ho parlato con Pete e Kovac. Ammettono apertamente che le persone hanno iniziato a usare di nuovo Daxol regolarmente. Proprio quando pensavamo che le cose stessero tornando alla normalità. Cosa volete che faccia?"
-	
+
 	// mail spedita
 
 	"MailFrom3"	"A: David Anders"

@@ -1,9 +1,9 @@
 ﻿GAME
 {
-    // PDA belongs to Brian Howe
-    
-    // inbox
-    
+	// PDA belongs to Brian Howe
+
+	// inbox
+
 	"MailFrom1"	"差出人: ヘレン・ヤング"
 	"MailDate1"	"送信日時: 52年12月23日"
 	"MailSubject1"	"件名: アトリウムが閉鎖された！！"
@@ -12,8 +12,8 @@
 	"MailBody1C"	"話は変わるけど、今朝糞馬鹿ミンからメールを受け取ったわ。 あいつとその部下はあなたが発見した卵について、まだ研究所で何か研究しているみたい。 あいつの実験は星間連盟の許可を受けてないに決まってるわ。"
 	"MailBody1D"	"またあとで--ヘレンより"
 
-    // sent mail
-    
+	// sent mail
+
 	"MailFrom3"	"宛先: ヘレン・ヤング"
 	"MailDate3"	"送信日時: 52年12月23日"
 	"MailSubject3"	"件名: Re: アトリウムが閉鎖された！！"

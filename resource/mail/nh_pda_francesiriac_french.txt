@@ -1,9 +1,9 @@
 GAME
 {
-    // PDA belongs to Corporal France Siriac
-    
-   // Inbox
-    
+	// PDA belongs to Corporal France Siriac
+
+	// Inbox
+
 	"MailFrom1"		"De : Pauline Vito"
 	"MailDate1"     "Date : 01/04/43"
 	"MailSubject1"	"Objet : Coincés dans la serre"
@@ -19,8 +19,8 @@ GAME
 	"MailBody2C"	"s’il vous plaît, aidez-nous"
 	"MailBody2D"	"s’il vous plaît"
 
-    // Sent mail
-    
+	// Sent mail
+
 	"MailFrom3"     "À : Pauline Vito"
 	"MailDate3"		"Date : 01/04/43"
 	"MailSubject3"	"Objet : RE: Coincés dans la serre"

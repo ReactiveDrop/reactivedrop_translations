@@ -1,9 +1,9 @@
 GAME
 {
-    // PDA di proprietà di Leon Bishop
-    
-    // Inbox
-    
+	// PDA di proprietà di Leon Bishop
+
+	// Inbox
+
 	"MailFrom1"	"Da: Jan Anath"
 	"MailDate1"	"Data: 02/29/53"
 	"MailSubject1"	"Soggetto: Spia Trovata"
@@ -12,6 +12,6 @@ GAME
 	"MailBody1C"	"Fermali ad ogni costo, compresa la loro vita. Questo è un ordine."
 	"MailBody1D"	"Capo Amministratore J. Anath"
 
-	
+
 	// mail spedita
 }

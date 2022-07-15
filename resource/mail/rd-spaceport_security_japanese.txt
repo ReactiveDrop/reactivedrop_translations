@@ -1,8 +1,8 @@
 ﻿GAME
 {
-    // PDA belongs to Tony Dawson
-    
-    // inbox 
+	// PDA belongs to Tony Dawson
+
+	// inbox 
 
 	"MailFrom1"     "差出人: バーバラ・ホワイト"
 	"MailDate1"     "送信日時: 57年10月6日"
@@ -20,7 +20,7 @@
 	"MailBody2C"     ""
 	"MailBody2D"     "宇宙港整備部-アンドリュー・スミスソンより"
 
-   // sent mail
+	// sent mail
 	"MailFrom3"	"宛先: バーバラ・ホワイト"
 	"MailDate3"	"送信日時: 57年10月6日"
 	"MailSubject3"	"件名: 没収品"

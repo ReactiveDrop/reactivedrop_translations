@@ -1,9 +1,9 @@
 ﻿GAME
 {
-    // PDA belongs to Corporal France Siriac
-    
-   // Inbox
-    
+	// PDA belongs to Corporal France Siriac
+
+	// Inbox
+
 	"MailFrom1"		"差出人: ポーリーン・ヴィトー"
 	"MailDate1"     "送信日時: 43年4月1日"
 	"MailSubject1"	"件名: 温室に閉じ込められた人"
@@ -19,8 +19,8 @@
 	"MailBody2C"	"お願い助けて"
 	"MailBody2D"	"お願い"
 
-    // Sent mail
-    
+	// Sent mail
+
 	"MailFrom3"     "宛先: ポーリーン・ヴィトー"
 	"MailDate3"		"送信日時: 43年4月1日"
 	"MailSubject3"	"件名: RE: 温室に閉じ込められた人"

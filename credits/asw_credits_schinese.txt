@@ -1,6 +1,6 @@
 "Credits"
 {
-"show_credits_logo" "1"
+"show_credits_logo"	"1"
 "asw_credits_"	"Aaron Barber"
 "asw_credits_"	"Aaron Halifax"
 "asw_credits_"	"Aaron Kearly"
@@ -149,7 +149,7 @@
 "asw_credits_"	"Kutta Srinivasan"
 "asw_credits_"	"Kyle Monroe"
 "asw_credits_"	"Lars Jensvold"
-"asw_credits_"	"Laura Dubuk" 
+"asw_credits_"	"Laura Dubuk"
 "asw_credits_"	"Liam Lavery"
 "asw_credits_"	"Lindsay R Randall"
 "asw_credits_"	"Liz Cambridge"

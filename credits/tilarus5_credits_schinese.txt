@@ -1,7 +1,7 @@
 "Credits"
 {
 // these keys must be in this order!
-"show_credits_logo" "0"
+"show_credits_logo"	"0"
 "custom_logo"	"credits_logo/extermination_credits_logo"
 "asw_credits_"	""
 "asw_credits_"	"地图 1 '午夜港口' 和 2 '黎明之路' 由 Jarhchief 创作"

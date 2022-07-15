@@ -1,9 +1,9 @@
 ﻿GAME
 {
-    // PDA belongs to Professor Yann Montgomery
+	// PDA belongs to Professor Yann Montgomery
 
-    // Inbox
-    
+	// Inbox
+
 	"MailFrom1"		"差出人: ジャック・モロー博士"
 	"MailDate1"     "送信日時: 42年5月8日"
 	"MailSubject1"	"件名: RE: 暫定的な考察"
@@ -11,8 +11,8 @@
 	"MailBody1B"	"必要があれば詳しいことは研究室内で後で知らせます。"
 	"MailFrom1C"	"Nam Humanum(ヒトのために)。"
 
-    // Sent mail
-    
+	// Sent mail
+
 	"MailFrom3"     "宛先: ジャック・モロー博士"
 	"MailDate3"		"送信日時: 42年5月8日"
 	"MailSubject3"	"件名: 暫定的な考察"

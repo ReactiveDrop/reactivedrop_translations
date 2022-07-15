@@ -1,7 +1,7 @@
 "Credits"
 {
 // these keys must be in this order!
-"show_credits_logo" "0"
+"show_credits_logo"	"0"
 "custom_logo"	"image_addon/image_addon"
 "asw_credits_"	"本战役由 Eclipse 创作。"
 "asw_credits_"	"特别感谢："

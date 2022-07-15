@@ -1,9 +1,9 @@
 ﻿GAME
 {
-    // PDA belongs to Doctor Lin Da Silva
+	// PDA belongs to Doctor Lin Da Silva
 
-    // Inbox
-    
+	// Inbox
+
 	"MailFrom1"		"差出人: ジャック・モロー博士"
 	"MailDate1"     "送信日時: 42年2月10日"
 	"MailSubject1"	"件名: RE: 科学スタッフの配置転換"
@@ -11,8 +11,8 @@
 	"MailBody1B"	"これまでの君の手伝いで私は大いに助かっているのを感謝するとともに、現在進行中の研究は -このミッションの主任研究者の役割についた私の責務のためでもあるが- 皆が私の仕事の邪魔をしなければ早く結論が出せるというのをわかってもらいたい。"
 	"MailBody1C"	"いいですね。"
 
-    // Sent mail
-    
+	// Sent mail
+
 	"MailFrom3"     "宛先: ジャック・モロー博士"
 	"MailDate3"		"送信日時: 42年2月9日"
 	"MailSubject3"	"件名: 科学スタッフの配置転換"

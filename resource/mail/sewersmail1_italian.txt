@@ -1,9 +1,9 @@
 GAME
 {
-    // PDA di proprietà di Brian
-    
-    // inbox
-    
+	// PDA di proprietà di Brian
+
+	// inbox
+
 	"MailFrom1"	"Da: Helen Young"
 	"MailDate1"	"Data: 12/23/52"
 	"MailSubject1"	"Soggetto: L. Callen"
@@ -19,5 +19,5 @@ GAME
 	"MailBody2B"	"Perfavore contattami. Non sopporto il pensiero che tu sia ancora laggiù da qualche parte."
 	"MailBody2C"	"Helen"
 
-    // spediti
+	// spediti
 }

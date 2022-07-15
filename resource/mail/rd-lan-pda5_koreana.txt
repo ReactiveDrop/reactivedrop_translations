@@ -1,9 +1,9 @@
 ﻿GAME
 {
-    // PDA belongs to Leon Bishop
-    
-    // inbox
-    
+	// PDA belongs to Leon Bishop
+
+	// inbox
+
 	"MailFrom1"	"송신자: 잰 애나스"
 	"MailDate1"	"날짜: 53년 2월 29일"
 	"MailSubject1"	"주제: 스파이 발견"
@@ -12,6 +12,6 @@
 	"MailBody1C"	"어떻게해서든 그들을 막으세요--목숨을 포함해서.  이건 명령입니다."
 	"MailBody1D"	"수석 관리관 J. 애나스"
 
-	
+
 	// sent mail
 }

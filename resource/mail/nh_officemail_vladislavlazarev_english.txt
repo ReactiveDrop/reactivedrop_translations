@@ -1,8 +1,8 @@
 GAME
 {
-    // PC belongs to Vladislav Lazarev
-    
-    // Inbox
+	// PC belongs to Vladislav Lazarev
+
+	// Inbox
 
 	"MailFrom1"     "From: Vladislav Lazarev"
 	"MailDate1"		"Date: 07/01/42"
@@ -11,8 +11,7 @@ GAME
 	"MailBody1B"	"Ah, but I’m sure you must be dying to hear what your new mission entails. It is of the utmost importance so pray, hear me... Cap’ wants the colonial adage framed at least once in every room Lugdunum. Yep, that’s it. Weird cult shit, huh? Don’t complain, ‘cause chain of commands won’t budge on my account. At least you got your weekly schedule worked out for you. Careful of not covering any ventilation shafts tho, could lead to fires. Don’t ask me how either."
 	"MailBody1C"	"'Nam Humanum'... Think that’s even legit Latin?"
 
-
-    // Sent mail
+	// Sent mail
 
 	"MailFrom3"     "To: Tom Asselin"
 	"MailDate3"		"Date: 07/02/42"

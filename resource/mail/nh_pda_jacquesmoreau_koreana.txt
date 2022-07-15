@@ -1,8 +1,8 @@
 GAME
 {
-    // PDA belongs to Doctor Jacques Moreau
-    
-    // Sent messages
+	// PDA belongs to Doctor Jacques Moreau
+
+	// Sent messages
 
 	"MailFrom3"     "수신자: 아서 캐러딘 대장"
 	"MailDate3"		"날짜: 03/31/43"

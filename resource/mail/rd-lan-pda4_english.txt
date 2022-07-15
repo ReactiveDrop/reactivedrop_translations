@@ -1,9 +1,9 @@
 GAME
 {
-    // PDA belongs to Lana King
-    
-    // inbox
-    
+	// PDA belongs to Lana King
+
+	// inbox
+
 	"MailFrom1"	"From: Windom King"
 	"MailDate1"	"Date: 02/29/53"
 	"MailSubject1"	"Subject: Alert!"
@@ -12,6 +12,6 @@ GAME
 	"MailBody1C"	"Anath does not believe me. I'll try to convince him to call IAF but I'm not hopeful."
 	"MailBody1D"	"Windom"
 
-	
+
 	// sent mail
 }

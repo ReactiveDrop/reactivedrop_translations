@@ -1,7 +1,7 @@
 "Riconoscimenti"
 {
 // these keys must be in this order!
-"show_credits_logo" "0"
+"show_credits_logo"	"0"
 "custom_logo"	"image_addon/image_addon"
 "asw_credits_"	"Campagna creata da Eclipse."
 "asw_credits_"	"Ringraziamenti speciali a :"
