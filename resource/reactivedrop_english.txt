@@ -2469,6 +2469,7 @@
 "rd_workshop_error_timeout" "Workshop operation took longer than expected."
 "rd_workshop_error_not_logged_on" "Steam login timed out."
 "rd_workshop_error_jpeg_size_limit" "Preview images must be 1 MB or less."
+"rd_workshop_untitled_addon_title" "Untitled Addon"
 
 "asw_weapon_healampgun" "Medical Amplifier Gun"
 "asw_weaponl_healampgun" "IAF Medical Amplifier Gun"
@@ -3473,6 +3474,8 @@
 "asw_panel_inactive" "Panel Inactive"
 
 "asw_need_dynamite" "Need TNT"
+
+"asw_unnamed_mission_title" "Unnamed Mission"
 
 "rd_campaign_name_deathmatch_campaign" "Deathmatch"
 "rd_campaign_desc_deathmatch_campaign" "Kill everything that moves."
