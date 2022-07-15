@@ -13,5 +13,3 @@ GAME
 	//"Paragraph4"	"Overall, it's a good day here in Oasis. Finally the administration would like to wish you all a happy Planetfall!"
 	"Paragraph4"	"전반적으로 오늘은 오아시스에 매우 뜻깊은 날이었습니다. 끝으로 행정부는 행성민 모두 행복한 날이 오길 기대했습니다!"
 }
-
-	

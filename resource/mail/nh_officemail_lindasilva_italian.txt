@@ -1,9 +1,9 @@
 GAME
 {
-    // PC di proprietà del dottor Lin Da Silva
+	// PC di proprietà del dottor Lin Da Silva
 
-    // In arrivo
-    
+	// In arrivo
+
 	"MailFrom1"		"Da: Jonathan Dorland"
 	"MailDate1"     "Data: 13/02/42"
 	"MailSubject1"	"Soggetto: Dr. Moreau?"
@@ -16,8 +16,8 @@ GAME
 	"MailBody2A"	"Sì, è davvero chiaro, dottor Da Silva."
 	"MailBody2B"	"Nam Humanum :)"
 
-    // Mail inviate
-    
+	// Mail inviate
+
 	"MailFrom3"     "A: Jonathan Dorland"
 	"MailDate3"		"Data: 02/13/42"
 	"MailSubject3"	"Soggetto: RE: Dr. Moreau?"
@@ -25,7 +25,7 @@ GAME
 	"MailBody3B"	"Non puoi chiamarmi per nome, figuriamoci pensare che puoi familiarizzare con me. Manteniamo questo rapporto strettamente professionale, a meno che tu non abbia bisogno di un piccolo promemoria su un buco per topi di New Havre? Il buco dentro al quale qualche umile criminale avrebbe gettato la sua triste esistenza su una nave mercantile se non fosse stato per una ragazza stupida con troppa gentilezza che voleva dargli una mano."
 	"MailBody3C"	"Pensa a questo come al mio jolly, Johnny, o come preferisci. Il Dr. Moreau è responsabile di tutte le decisioni riguardanti la ricerca. Dato che sei solo un assistente qui, è tutto ciò che devi sapere. Quindi cerca di rimanere nella tua profondità, "solo per questa volta"."
 	"MailBody3D"	"Spero che le cose siano chiare per te?"
-	
+
 	"MailFrom4"     "A: Ten. Gael Florenza"
 	"MailDate4"		"Data: 01/01/43"
 	"MailSubject4"	"Soggetto: (Vuoto)"

@@ -1,8 +1,8 @@
 GAME
 {
-    // Computer belongs to Doctor Jacques Moreau
-    
-    // Sent mail
+	// Computer belongs to Doctor Jacques Moreau
+
+	// Sent mail
 
 	"MailFrom3"     "수신자: 개인 데이터베이스"
 	"MailDate3"		"날짜: 01/11/42"

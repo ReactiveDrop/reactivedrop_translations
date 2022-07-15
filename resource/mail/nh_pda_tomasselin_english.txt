@@ -1,8 +1,8 @@
 GAME
 {
-    // PDA belongs to Tom Asselin
-    
-    // Inbox
+	// PDA belongs to Tom Asselin
+
+	// Inbox
 
 	"MailFrom1"     "From: Jonathan Dorland"
 	"MailDate1"		"Date: 06/17/42"
@@ -10,7 +10,7 @@ GAME
 	"MailBody1A"	"Nah. With everything that’s going on, I’m in no mood. Go snag your cash cows somewhere else."
 
 
-    // Sent mail
+	// Sent mail
 
 	"MailFrom3"     "To: Jonathan Dorland"
 	"MailDate3"		"Date: 06/17/42"

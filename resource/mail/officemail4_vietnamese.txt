@@ -1,9 +1,9 @@
 GAME
 {
-    // PDA belongs to Mr Tanner
-    
-    // inbox
-    
+	// PDA belongs to Mr Tanner
+
+	// inbox
+
 	"MailFrom1"	"Từ: Kate Edwards"
 	"MailDate1"	"Ngày: 12/22/52"
 	"MailSubject1"	"Tiêu đề: Timothy"
@@ -17,6 +17,6 @@ GAME
 	"MailBody2A"	"Văn phòng của chúng tôi tìm thấy 6 chai Isothamine số 23 khi họ kiểm tra đơn hàng số 9476-B. Đơn hàng này gửi về địa chỉ của cô. Cô nên biết rằng việc tàng trữ, mua bán sản phẩm này ở bất kỳ đâu đều là trái với quy định ở Outer Rim.  (#205-P/7.7.12). Hãy gọi số (+34987) và sắp xếp 1 cuộc gặp với 1 nhân viên an ninh của chúng tôi ngay lập tức."
 	"MailBody2B"	"Muriel Blanc, SynTek Customs and Taxes"
 
-    // sent mail
-   
+	// sent mail
+
 }

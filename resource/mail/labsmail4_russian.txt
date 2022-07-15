@@ -1,8 +1,8 @@
 GAME
 {
-    // PDA belongs to SysAdmin
+	// PDA belongs to SysAdmin
 
-    // inbox
+	// inbox
 
 	"MailFrom1" 	"От: Фил Райан"
 	"MailDate1" 	"Дата: 12.20.52"
@@ -19,7 +19,7 @@ GAME
 	"MailBody2C"	"Возможна межзвёздная доставка."
 	"MailBody2D"	"Из0т4мин 23 заставит вас чувствовать себя свежим, сильным и отдохнувшим в течение всего рабочего дня!! Ваши руководители принимают его - почему не должны и вы?"
 
-    // sent mail
+	// sent mail
 
 	"MailFrom3" 	"Кому: Фил Райан"
 	"MailDate3" 	"Дата: 12.20.52"

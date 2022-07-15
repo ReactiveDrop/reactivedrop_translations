@@ -1,8 +1,8 @@
 GAME
 {
-    // PDA belongs to Jonathan Dorland
-    
-    // Sent mail
+	// PDA belongs to Jonathan Dorland
+
+	// Sent mail
 
 	"MailFrom3"		"수신자: 다 실바 박사"
 	"MailDate3"		"날짜: 03/31/43"

@@ -1,8 +1,8 @@
 ﻿GAME
 {
-    // PDA belongs to Brad Campbell
-    // inbox
-    
+	// PDA belongs to Brad Campbell
+	// inbox
+
 	"MailFrom1"	"差出人: ローラ・カレン"
 	"MailDate1"	"送信日時: 52年12月18日"
 	"MailSubject1"	"件名: Re: 貨物の発送"
@@ -17,7 +17,7 @@
 	"MailBody2A"	"ブラッド、どうやら送り主はケインみたい。 彼に聞いてみたけど全部否定されたわ。 彼が言うにはコンピューターは誰でも使えた、それで十分説明つくだろうと。でも私にはまだ疑わしく見えるわ。"
 	"MailBody2B"	"あなたにはそのコンテナが格納庫から出る前に調査してほしいの。"
 
-    // sent mail
+	// sent mail
 	"MailFrom3"	"宛先: ローラ・カレン"
 	"MailDate3"	"送信日時: 52年12月18日"
 	"MailSubject3"	"件名: Re: 卵について"

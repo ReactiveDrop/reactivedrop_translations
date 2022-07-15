@@ -1,9 +1,9 @@
 ﻿GAME
 {
-    // PDA belongs to Brian
-    
-    // inbox
-    
+	// PDA belongs to Brian
+
+	// inbox
+
 	"MailFrom1"	"差出人: ヘレン・ヤング"
 	"MailDate1"	"送信日時: 52年12月23日"
 	"MailSubject1"	"件名: ローラ・カレンについて"
@@ -19,5 +19,5 @@
 	"MailBody2B"	"連絡をちょうだい。 あなたがまだ地下のどこかに取り残されているなんて考えにもう耐えられない。"
 	"MailBody2C"	"ヘレンより"
 
-    // sent
+	// sent
 }

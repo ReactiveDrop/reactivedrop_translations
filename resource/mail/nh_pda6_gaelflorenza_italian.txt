@@ -1,8 +1,8 @@
 GAME
 {
-    // PDA di proprietà del Tenente Gael Florenza
-    
-    // Mail inviate
+	// PDA di proprietà del Tenente Gael Florenza
+
+	// Mail inviate
 
 	"MailFrom3"     "A: Iris Florenza"
 	"MailDate3"		"Data: 31/03/43"

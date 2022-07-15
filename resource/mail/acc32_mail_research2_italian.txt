@@ -1,9 +1,9 @@
 GAME
 {
-   	"MailFrom1" "Da: Operazione News [Laura]"
-	"MailDate1" "Data: 19 Ott 2232"
-	"MailSubject1" "Oggetto: Ricerca volume 2"
-	"MailBody1A" "Porca miseria, i nostri rilevatori più potenti hanno identificato che la roccia è fatta di muoni, non di elettroni".
-	"MailBody1B" "Questa è una notizia terribile, potrebbe essere molto più radioattiva di quanto pensassimo... Si stanno sviluppando misuratori migliori e siamo tutti in isolamento finché non capiremo se siamo al sicuro o meno."
-	"MailBody1C" "Laura - 19 ottobre 2232"
+   	"MailFrom1"	"Da: Operazione News [Laura]"
+	"MailDate1"	"Data: 19 Ott 2232"
+	"MailSubject1"	"Oggetto: Ricerca volume 2"
+	"MailBody1A"	"Porca miseria, i nostri rilevatori più potenti hanno identificato che la roccia è fatta di muoni, non di elettroni."
+	"MailBody1B"	"Questa è una notizia terribile, potrebbe essere molto più radioattiva di quanto pensassimo... Si stanno sviluppando misuratori migliori e siamo tutti in isolamento finché non capiremo se siamo al sicuro o meno."
+	"MailBody1C"	"Laura - 19 ottobre 2232"
 }

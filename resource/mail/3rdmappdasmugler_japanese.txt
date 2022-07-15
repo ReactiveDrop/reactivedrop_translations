@@ -1,12 +1,12 @@
-﻿    GAME
-    {
-    // PDA belongs to Naka
+﻿GAME
+{
+	// PDA belongs to Naka
 
-    "MailFrom1" "差出人: 不明"
-    "MailDate1" "送信日時: 63年9月25日"
-    "MailSubject1" "件名: ？？？"
-    "MailBody1A" "何を言っている？ これらの武器について嘘はつくんじゃない。 武器を用意できないなら素手でお前を殺すぞ。"
-	
+	"MailFrom1"	"差出人: 不明"
+	"MailDate1"	"送信日時: 63年9月25日"
+	"MailSubject1"	"件名: ？？？"
+	"MailBody1A"	"何を言っている？ これらの武器について嘘はつくんじゃない。 武器を用意できないなら素手でお前を殺すぞ。"
+
 	"MailFrom3"	"宛先: 不明"
 	"MailDate3"	"送信日時: 63年9月25日"
 	"MailSubject3"	"件名: ほぼほぼ準備完了"
@@ -18,4 +18,4 @@
 	"MailSubject4"	"件名: 全 部 キ ャ ン セ ル だ ！"
 	"MailBody4A"	"化け物か何かがここに入ってきたらしい。まだ直接は見ていないが、影に隠れているように感じる。 絶対に！ここに！来るんじゃないぞ！！！"
 	"MailBody4B"    "自分もここを出る"
-    }
+}

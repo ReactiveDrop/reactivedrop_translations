@@ -1,9 +1,9 @@
 GAME
 {
-    // PDA belongs to Professor Yann Montgomery
+	// PDA belongs to Professor Yann Montgomery
 
-    // Inbox
-    
+	// Inbox
+
 	"MailFrom1"		"От: Д-р. Жак Моро"
 	"MailDate1"     "Дата: 05.08.42"
 	"MailSubject1"	"Тема: Ответ: Предварительное рассмотрение"
@@ -11,8 +11,8 @@ GAME
 	"MailBody1B"	"При необходимости вы получите дополнительное уведомление от моей лаборатории."
 	"MailFrom1C"	"Нам Гуманум."
 
-    // Sent mail
-    
+	// Sent mail
+
 	"MailFrom3"     "Кому: Д-р. Жак Моро"
 	"MailDate3"		"Дата: 05.08.42"
 	"MailSubject3"	"Тема: Предварительное рассмотрение"
