@@ -1,7 +1,7 @@
 "Riconoscimenti"
 {
 // these keys must be in this order!
-"show_credits_logo" "1"
+"show_credits_logo"	"1"
 "custom_logo"	"swarm/credits/rd-lan-Planet137credits"
 "asw_credits_"	"Campagna di"
 "asw_credits_"	"Jean-Gabriel Finat come Hephalistofene"

@@ -2,10 +2,10 @@ GAME
 {
 // PDA belongs to Naka
 
-	"MailFrom1" "Von: Kommandant"
-	"MailDate1" "Datum: 25.09.63"
-	"MailSubject1" "Betreff: Anweisung"
-	"MailBody1A" "Lass alles stehen und liegen und geh zurück in den Konferenzraum."
+	"MailFrom1"	"Von: Kommandant"
+	"MailDate1"	"Datum: 25.09.63"
+	"MailSubject1"	"Betreff: Anweisung"
+	"MailBody1A"	"Lass alles stehen und liegen und geh zurück in den Konferenzraum."
 
 	"MailFrom3"	"An: Kommandant"
 	"MailDate3"	"Datum: 25.09.63"

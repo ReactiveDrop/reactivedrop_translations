@@ -15,7 +15,7 @@ GAME
 	// mail spedita
 
 	"MailFrom3"	"A: Shaun Ming"
-	"MailDate3" "Data: 12/21/52"
+	"MailDate3"	"Data: 12/21/52"
 	"MailSubject3"	"Soggetto: Re: Sfondamento"
 	"MailBody3A"	"Mr Ming,"
 	"MailBody3B"	"1) Come se fosse già fatto."

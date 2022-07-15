@@ -1,10 +1,10 @@
 GAME
 {
 	// PDA belongs to Naka
-	"MailFrom1" "Von: Unbekannt"
-	"MailDate1" "Datum: 25.09.63"
-	"MailSubject1" "Betreff: ???"
-	"MailBody1A" "Wovon redest du eigentlich? Ich hoffe, du hast nicht gelogen, was diese Waffen angeht. Ich werde dich auch ohne sie töten, wenn du sie nicht hast."
+	"MailFrom1"	"Von: Unbekannt"
+	"MailDate1"	"Datum: 25.09.63"
+	"MailSubject1"	"Betreff: ???"
+	"MailBody1A"	"Wovon redest du eigentlich? Ich hoffe, du hast nicht gelogen, was diese Waffen angeht. Ich werde dich auch ohne sie töten, wenn du sie nicht hast."
 
 	"MailFrom3"	"An: Unbekannt"
 	"MailDate3"	"Datum: 25.09.63"

@@ -15,7 +15,7 @@
 	// sent mail
 
 	"MailFrom3"	"宛先: ショーン・ミン"
-	"MailDate3" "送信日時: 52年12月21日"
+	"MailDate3"	"送信日時: 52年12月21日"
 	"MailSubject3"	"件名: Re: 大躍進"
 	"MailBody3A"	"ミスター・ミンへ、"
 	"MailBody3B"	"1) できる限りやっている。"
