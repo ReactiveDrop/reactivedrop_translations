@@ -2807,13 +2807,13 @@
 		"[english]L4D360UI_FoundPublicGames_Filter_Distance_Far"		"Far"
 		"L4D360UI_FoundPublicGames_Filter_Distance_Worldwide"		"Galáxia"
 		"[english]L4D360UI_FoundPublicGames_Filter_Distance_Worldwide"		"Galaxy"
-		"RDUI_SteamOverlay_Title"		"Steam Overlay In-Game"
+		"RDUI_SteamOverlay_Title"		"Painel Steam em jogo"
 		"[english]RDUI_SteamOverlay_Title"		"Steam Overlay In-Game"
-		"RDUI_SteamOverlay_Text"		"This feature requires Steam Overlay In-Game to be enabled.\nYou might need to restart the game after you enable this feature in Steam:\nSteam -> Library -> Right-click on Alien Swarm: Reactive Drop -> Properties... -> Enable the Steam Overlay while in-game\n"
+		"RDUI_SteamOverlay_Text"		"Este recurso requer que o Painel Steam em jogo esteja ativado.\nPode ser necessário reiniciar o jogo depois de ativar esse recurso no Steam:\nSteam -> Biblioteca -> botão direito do mouse em Alien Swarm: Reactive Drop -> Propriedades... -> Ativar o Painel Steam dentro do jogo\n"
 		"[english]RDUI_SteamOverlay_Text"		"This feature requires Steam Overlay In-Game to be enabled.\nYou might need to restart the game after you enable this feature in Steam:\nSteam -> Library -> Right-click on Alien Swarm: Reactive Drop -> Properties... -> Enable the Steam Overlay while in-game\n"
-		"RDUI_WorkshopModeWarning_Title"		"Attention!"
+		"RDUI_WorkshopModeWarning_Title"		"Atenção!"
 		"[english]RDUI_WorkshopModeWarning_Title"		"Attention!"
-		"RDUI_WorkshopModeWarning_Text"		"Please set rd_workshop_allow_item_creation 1 before doing this action"
+		"RDUI_WorkshopModeWarning_Text"		"Por favor, defina rd_workshop_allow_item_creation 1 antes de realizar esta ação"
 		"[english]RDUI_WorkshopModeWarning_Text"		"Please set rd_workshop_allow_item_creation 1 before doing this action"
 }
 }
