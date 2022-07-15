@@ -977,8 +977,6 @@
 
 "crash.Shieldbug0"	"<clr:238,180,34>Crash: Puta merda!"
 
-//"crash.Shieldbug1"	"<clr:238,180,34> " --Possivelmente faltando
-
 "crash.Shieldbug2"	"<clr:238,180,34>Crash: Merda, um shieldbug!"
 
 "crash.ShieldbugHint0"	"<clr:238,180,34>Crash: FIquem atrás dele!"
@@ -3911,7 +3909,7 @@
 
 //Vesta
 
-"Vesta.01_03"	"<clr:234,217,245><B>???:<B> Saiam."
+"Vesta.01_03"	"<clr:234,217,245><B>???:<B> Saiam.""
 
 "Vesta.01_05"	"<clr:234,217,245><B>???:<B> Saiam. Ou juntem-se."
 

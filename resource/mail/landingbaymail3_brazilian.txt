@@ -7,7 +7,7 @@ GAME
 	"MailFrom1"	"De: Laura Callen"
 	"MailDate1"	"Data: 18/12/52"
 	"MailSubject1"	"Assunto: Posto avançado 17"
-	"MailBody1A"	"Ten. Cain,  Acabamos de receber uma resposta do B. Campbell  que aquela entrega de carga 4903877 contém material orgânico de origem desconhecida, tudo congelado e armazenado em recipientes.  O destino do navio de carga é a Estação de pesquisa SynTek 7/Terra."
+	"MailBody1A"	"Ten. Cain,  Acabamos de receber uma resposta do B. Campbell  que aquela entrega de carga 4903877 contém material orgânico de origem desconhecida, tudo congelado e armazenado em recipientes.  O destino da nave de carga é a Estação de pesquisa SynTek 7/Terra."
 	"MailBody1B"	"Eu gostaria que você interrogasse sua equipe novamente e me ajude a descobrir quem está violando a restrição #77-C. (a AI deve ser informada sobre a transferência de material orgânico desconhecido para a Terra; 77-C/1.1.4)"
 	"MailBody1C"	"Campbell também está reportando o desaparecimento de vários trabalhadores.  A segurança da colônia é sua responsabilidade.  Espero que você envie pessoal suficiente para manter a área segura."
 	"MailBody1D"	"L. Callen"

@@ -1,6 +1,6 @@
 ﻿"lang" 
 { 
-"Language" "English" 
+"Language" "Brazilian" 
 "Tokens" 
 { 
 "L4D360UI_AudioVideo"				"Audio/Video"
@@ -1348,8 +1348,8 @@
 "L4D_import_spray_tip"				"Importe uma nova imagem de spray para usar no jogo."
 "L4D_import_game_instruct"			"Ative ou desative as dicas úteis em tempo real durante o jogo."
 
-"L4D360UI_MainMenu_ServerBrowser"	"NAVEGADOR DE SERVIDOR"
-"L4D360UI_MainMenu_ServerBrowser_Tip" "Mostrar o navegador de servidor no jogo."
+"L4D360UI_MainMenu_ServerBrowser"	"NAVEGADOR DE SERVIDORES"
+"L4D360UI_MainMenu_ServerBrowser_Tip" "Exibe o navegador de servidores no jogo."
 
 // Legacy controls
 "L4D360UI_LegacyOn"					"Desativar legado"
@@ -1698,7 +1698,7 @@
 
 "L4D360UI_ingame" "No jogo"
 "L4D360UI_briefing" "Instruções"
-"L4D360UI_MainMenu_DedicatedServerBrowser"			"Navegador de servidor dedicado"
+"L4D360UI_MainMenu_DedicatedServerBrowser"			"Navegador de Servidores"
 "L4D360UI_Onslaught" "ONSLAUGHT"
 "L4D360UI_OnslaughtDisabled" "Desabilitado"
 "L4D360UI_OnslaughtDisabled_tt" "Geração Regular"

@@ -22,7 +22,7 @@ GAME
 	"MailDate3"		"Data: 13/02/42"
 	"MailSubject3"	"Assunto: RE: Dr. Moreau?"
 	"MailBody3A"	"Jonathan, Por favor leia com atenção."
-	"MailBody3B"	"Você não pode me chamar pelo primeiro nome, quanto mais pensar que você pode se familiarizar comigo. Vamos manter essa relação estritamente profissional, a menos que talvez você precise de um pequeno lembrete sobre alguma buraco de rato de New Havre? Que buraco eu me pergunto, rastejando dentro dele algum criminoso humilde que teria jogado sua triste existência em um navio de carga se uma garota estúpida com muita bondade não lhe estendesse a mão."
+	"MailBody3B"	"Você não pode me chamar pelo primeiro nome, quanto mais pensar que você pode se familiarizar comigo. Vamos manter essa relação estritamente profissional, a menos que talvez você precise de um pequeno lembrete sobre alguma buraco de rato de New Havre? Que buraco eu me pergunto, rastejando dentro dele algum criminoso humilde que teria jogado sua triste existência em uma nave de carga se uma garota estúpida com muita bondade não lhe estendesse a mão."
 	"MailBody3C"	"Pense nisso como meu trunfo, Johnny, ou como quiser. Dr. Moreau é o responsável por todas as decisões relativas à pesquisa. Dado que você é apenas um assistente aqui, isso é tudo que você precisa saber. Então tenta ficar na sua "só desta vez"."
 	"MailBody3D"	"Espero que as coisas estejam claras para você?"
 	

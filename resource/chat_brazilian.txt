@@ -1,6 +1,6 @@
 ﻿"lang"
 {
-"Language" "Brazilian Portuguese"
+"Language" "Brazilian"
 "Tokens"
 {
 "chat_filterbutton"	"Filtros"
