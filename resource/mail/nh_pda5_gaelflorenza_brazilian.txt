@@ -1,22 +1,22 @@
 GAME
 {
-    // Hacked into network history: Lieutenant Gael Florenza
+    // Hackeado no histórico da rede: Tenente Gael Florenza
     
-    // Sent mail
+    // Enviados
 
-	"MailFrom3"     "To: Iris Florenza"
-	"MailDate3"		"Date: 06/25/42"
-	"MailSubject3"	"Subject: Strange events"
-	"MailBody3A"	"Dear love,"
-	"MailBody3B"    "Strange things are happening in Lugdunum. It’s not my wish to make you worry, but translating my state of mind into letters feels somewhat therapeutic."
-	"MailBody3C"    "I don’t know how, but settlers are simply vanishing. Sarah, the most recent of them, is a young sergeant recently assigned to my unit. A serious cavalier attitude to that one, but never so much as to vanish this way out of the blue...not mentioning the whole logistics behind this stupid idea. Cpt. Carradine says he takes the problem very seriously, but I’ve yet to hear him come up with a concrete plan. If someone is kidnapping people inside the colony, shouldn’t we be surveying the area and/or conducting residence searches? Dr. Moreau, for his part, seems solely focused on his research about that cave we found 6 months past. Only the scientific teams are still in contact with his laboratory, and even then his close staff seems to have been reduced by more than half. Today of all days, I do wish Miss Helen would still be with us. She would have known better than to keep her own people in the dark."
-	"MailBody3D"    "Your loving husband."
+	"MailFrom3"     "Para: Iris Florenza"
+	"MailDate3"		"Date: 25/06/42"
+	"MailSubject3"	"Assunto: Eventos estranhos"
+	"MailBody3A"	"Meu amor,"
+	"MailBody3B"    "Coisas estranhas estão acontecendo em Lugdunum. Não é minha vontade fazer você se preocupar, mas traduzir meu estado de espírito em cartas parece um pouco terapêutico."
+	"MailBody3C"    "Não sei como, mas os colonos estão simplesmente desaparecendo. Sarah, o mais recente deles, é uma jovem sargento recentemente designada para minha unidade. Ela tinha uma atitude rebelde, mas nunca a ponto de desaparecer assim do nada... sem mencionar toda a logística por trás dessa ideia estúpida. Cap. Carradine diz que leva o problema muito a sério, mas ainda não o ouvi apresentar um plano concreto. Se alguém está sequestrando pessoas dentro da colônia, não deveríamos estar fazendo o levantamento da área e/ou fazendo buscas nas residências? Dr. Moreau, por sua vez, parece apenas focado em sua pesquisa sobre aquela caverna que encontramos 6 meses atrás. Apenas as equipes científicas ainda estão em contato com seu laboratório, e mesmo sua equipe próxima parece ter sido reduzida em mais da metade. Hoje, de todos os dias, eu gostaria que a senhorita Helen ainda estivesse conosco. Ela saberia melhor do que manter seu próprio povo no escuro."
+	"MailBody3D"    "Seu amado marido."
 
-	"MailFrom4"     "To: Iris Florenza"
-	"MailDate4"		"Date: 11/14/42"
-	"MailSubject4"	"Subject: Revelation"
-	"MailBody4A"    "[Sending failed: Off-world communications restricted]"
-	"MailBody4B"	"Iris, it pains me to even think of sharing this news with you. Since day one, Dr. Moreau has been the one arranging the disappearances. He renounced his lies and cover-up as soon as it became clear that these so-called “volunteers” kept being sent to his labs with clear backing from Cpt. Carradine."
-	"MailBody4C"    "I don’t know what they’re doing with them. Some among the settlers are pressuring us custodians for the truth. I fear they can’t handle the truth...and perhaps neither can I. But since we’re the ones with guns, we get to decide whether or not they might show anything resembling a fight. Yesterday or the day before, a woman reached for my weapon in tears of anger...so I shot her. Every second since, I ask myself when or how we went about treating peers like mere cattle. I’ve had...strange dreams. About Helen Moreau. I can only hope that her husband is acting in favor of progress, for the wellbeing of all of us. An evil for a greater good, because I cannot accept it any other way."
-	"MailBody4D"    "Your husband, loving no matter what."
+	"MailFrom4"     "Para: Iris Florenza"
+	"MailDate4"		"Data: 14/11/42"
+	"MailSubject4"	"Assunto: Revelação"
+	"MailBody4A"    "[Falha no envio: comunicações com o mundo de fora restritas]"
+	"MailBody4B"	"Iris, me dói até de pensar em compartilhar essa notícia com você. Desde o começo, Dr. Moreau foi quem organizou os desaparecimentos. Ele renunciou às suas mentiras e encobrimento assim que ficou claro que esses chamados “voluntários” continuavam sendo enviados para seus laboratórios claramente com o apoio do Cap. Carradine."
+	"MailBody4C"    "Eu não sei o que eles estão fazendo com eles. Alguns entre os colonos estão pressionando nós guardas pela verdade. Eu temo que eles não possam lidar com a verdade... e talvez nem eu possa. Mas já que somos nós que temos armas, podemos decidir se eles podem ou não mostrar alguma resistencia. Ontem ou anteontem, uma mulher pegou minha arma em lágrimas de raiva... então eu atirei nela. A cada segundo desde então, me pergunto quando ou como começamos a tratar os colegas como mero gado. Eu tenho tido... sonhos estranhos. Sobre Helen Moreau. Só posso esperar que seu marido esteja agindo a favor do progresso, para o bem de todos nós. Um mal por um bem maior, porque não posso aceitar de nenhuma outra forma."
+	"MailBody4D"    "Seu amado marido, não importa como."
 }

@@ -1,35 +1,35 @@
 GAME
 {
-    // PC belongs to Doctor Lin Da Silva
+    // PC pertence ao Doutor Lin Da Silva
 
-    // Inbox
+    // Caixa de entrada
     
-	"MailFrom1"		"From: Jonathan Dorland"
-	"MailDate1"     "Date: 02/13/42"
-	"MailSubject1"	"Subject: Dr. Moreau?"
-	"MailBody1A"	"Doc, this is the third shipment of spores we’re being “asked” to transfer to Dr. Moreau’s labs. The third one. Dunno about you, but I had figured something as significant as the discovery of an indigenous lifeform would at LEAST be the board’s concern as well. A whole lot of smoke going on, and nobody’s even looking for the fire?"
-	"MailBody1B"	"Come on Lin. You’ve been second in charge ever since his wife died. Now’s the time to put some of that earning to use. Just this once, if never again."
+	"MailFrom1"		"De: Jonathan Dorland"
+	"MailDate1"     "Data: 13/02/42"
+	"MailSubject1"	"Assunto: Dr. Moreau?"
+	"MailBody1A"	"Doutor, este é o terceiro carregamento de esporos que nos "pediram" para transferir para os laboratórios do Dr. Moreau. O terceiro. Não sei você, mas eu imaginei que algo tão significativo quanto a descoberta de uma forma de vida indígena seria pelo menos de preocupação do conselho também. Muita fumaça rolando, e ninguém está procurando pelo fogo?"
+	"MailBody1B"	"Vamo lá Lin. Você é a segunda em comando desde que a esposa dele morreu. Agora é a hora de colocar parte dessa conquista em uso. Só desta vez, se nunca mais."
 
-	"MailFrom2"		"From: Jonathan Dorland"
-	"MailDate2"     "Date: 02/14/46"
-	"MailSubject2"	"Subject: RE: RE: Dr. Moreau?"
-	"MailBody2A"	"Aye, pretty clear indeed, Doctor Da Silva."
+	"MailFrom2"		"De: Jonathan Dorland"
+	"MailDate2"     "Data: 14/02/46"
+	"MailSubject2"	"Assunto: RE: RE: Dr. Moreau?"
+	"MailBody2A"	"Certo, certinho mesmo, Doutor Da Silva."
 	"MailBody2B"	"Nam Humanum :)"
 
-    // Sent mail
+    // Enviados
     
-	"MailFrom3"     "To: Jonathan Dorland"
-	"MailDate3"		"Date: 02/13/42"
-	"MailSubject3"	"Subject: RE: Dr. Moreau?"
-	"MailBody3A"	"Please read with care, Jonathan."
-	"MailBody3B"	"You do not get to call me by my first name, let alone think you can get all familiar with me. Let’s keep this relationship strictly professional, unless perhaps you are in need of a small reminder about some New Havre’s rat hole? Which hole I wonder, crawling inside it some lowly felon who would have thrown its sorry existence on a cargo ship had a stupid girl with too much kindness not stretched him an open hand."
-	"MailBody3C"	"Think of this as my wild card, Johnny, or however else you like. Dr. Moreau is in charge of all decisions regarding research. Given you’re only an assistant here, that’s all you need to know. So do try and stay in your depth, “just this once”."
-	"MailBody3D"	"Hoping things are cleared out for you?"
+	"MailFrom3"     "Para: Jonathan Dorland"
+	"MailDate3"		"Data: 13/02/42"
+	"MailSubject3"	"Assunto: RE: Dr. Moreau?"
+	"MailBody3A"	"Jonathan, Por favor leia com atenção."
+	"MailBody3B"	"Você não pode me chamar pelo primeiro nome, quanto mais pensar que você pode se familiarizar comigo. Vamos manter essa relação estritamente profissional, a menos que talvez você precise de um pequeno lembrete sobre alguma buraco de rato de New Havre? Que buraco eu me pergunto, rastejando dentro dele algum criminoso humilde que teria jogado sua triste existência em uma nave de carga se uma garota estúpida com muita bondade não lhe estendesse a mão."
+	"MailBody3C"	"Pense nisso como meu trunfo, Johnny, ou como quiser. Dr. Moreau é o responsável por todas as decisões relativas à pesquisa. Dado que você é apenas um assistente aqui, isso é tudo que você precisa saber. Então tenta ficar na sua "só desta vez"."
+	"MailBody3D"	"Espero que as coisas estejam claras para você?"
 	
-	"MailFrom4"     "To: Lt. Gael Florenza"
-	"MailDate4"		"Date: 01/01/43"
-	"MailSubject4"	"Subject: (Empty)"
-	"MailBody4A"	"If you can put an end to this then yes, I will make sure your access to the labs is clear."
-	"MailBody4B"	"Delete every trace of this conversation, and pray there isn’t already a Big Brother to pry at both our doors."
+	"MailFrom4"     "Para: Ten. Gael Florenza"
+	"MailDate4"		"Data: 01/01/43"
+	"MailSubject4"	"Assunto: (Vazio)"
+	"MailBody4A"	"Se você pode por um fim nisso, então sim, Vou garantir que seu acesso aos laboratórios estejam liberados."
+	"MailBody4B"	"Apague todos os rastros desta conversa, e rezar para que já não haja um Big brother para bisbilhotar em nossas portas."
 }
 

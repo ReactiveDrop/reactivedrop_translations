@@ -1,11 +1,11 @@
 GAME
 {
-    // PDA belongs to Lt Cain
+    // PDA pertence ao Ten. Cain
     
-	"MailFrom1"	"From: Laura Callen"
-	"MailDate1"	"Date: 12/24/52"
-	"MailSubject1"	"Subject: This is it"
-	"MailBody1A"	"Martial law?"
-	"MailBody1B"	"It's too late for that."
-	"MailBody1C"	"We need serious intervention, or we're going to lose this facility."
+	"MailFrom1"	"De: Laura Callen"
+	"MailDate1"	"Data: 24/12/52"
+	"MailSubject1"	"Assunto: É isso mesmo?"
+	"MailBody1A"	"Lei marcial?"
+	"MailBody1B"	"É tarde demais para isso."
+	"MailBody1C"	"Precisamos de uma intervenção séria, ou vamos perder esta instalação."
 }

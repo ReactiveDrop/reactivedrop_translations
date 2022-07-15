@@ -1,33 +1,33 @@
 GAME
 {
-    // PDA belongs to Brad Campbell
+    // PDA pertence a Brad Campbell
     
-    // inbox
+    // Caixa de entrada
     
-	"MailFrom1"	"From: David Anders"
-	"MailDate1"	"Date: 12/12/52"
-	"MailSubject1"	"Subject: Env suits"
-	"MailBody1A"	"Jeez Brad, the heat is getting unbearable.  We found another lava field near tunnel 11, so things are not likely to improve.  What about those env suits?"
+	"MailFrom1"	"De: David Anders"
+	"MailDate1"	"Data: 12/12/52"
+	"MailSubject1"	"Assunto: Trajes de ambiente."
+	"MailBody1A"	"Credo Brad, esse calor está ficando insuportável. Encontramos outro campo de lava perto do túnel 11, então as coisas provavelmente não vão melhorar.  E aqueles trajes de ambiente?"
 	"MailBody1B"	"Dave"
 	
-	"MailFrom2"	"From: David Anders"
-	"MailDate2"	"Date: 12/14/52"
-	"MailSubject2"	"Subject: Daxol"
+	"MailFrom2"	"De: David Anders"
+	"MailDate2"	"Data: 14/12/52"
+	"MailSubject2"	"Assunto: Daxol"
 	"MailBody2A"	"Brad,"
-	"MailBody2B"    "Damn it.  I talked to Pete and Kovac.  They openly admit that people have started using Daxol again on a regular basis.  Just when we thought things were getting back to normal.  What do you want me to do?"
+	"MailBody2B"    "Caramba.  Eu falei com o Pete e o Kovac.  Eles admitem abertamente que as pessoas começaram a usar Daxol de novo regularmente.  Justo quando pensamos que as coisas estavam voltando ao normal.  O que você quer que eu faça?"
 	
-	// sent mail
+	// Enviados
 
-	"MailFrom3"	"To: David Anders"
-	"MailDate3"	"Date: 12/12/52"
-	"MailSubject3"	"Subject: Re: Env suits"
-	"MailBody3A"	"Hi Dave,"
-	"MailBody3B"	"I ordered them a long time ago.  Don't know why they weren't in the last supply shuttle.  All I can do is complain, which I'm doing, but you know how much good that does. By the way, I heard rumors about Daxol abuse on the rise again.  Can you keep an eye out?"
-	"MailBody3C"	"Cheers, Brad."
+	"MailFrom3"	"Para: David Anders"
+	"MailDate3"	"Data: 12/12/52"
+	"MailSubject3"	"Assunto: Re: Trajes de ambiente"
+	"MailBody3A"	"Oi Dave,"
+	"MailBody3B"	"Eu os encomendei faz muito tempo.  Não sei por que eles não estavam no último transporte de suprimentos.  Tudo o que posso fazer é reclamar, que é o que estou fazendo, mas você sabe o quanto isso ajuda. A propósito, Ouvi rumores sobre o abuso de Daxol aumentando novamente.  Você poderia ficar de olho?"
+	"MailBody3C"	"Agradeço, Brad."
 
-	"MailFrom4"	"To: David Anders"
-	"MailDate4"	"Date: 12/14/52"
-	"MailSubject4"	"Subject: Re: Daxol"
+	"MailFrom4"	"Para: David Anders"
+	"MailDate4"	"Data: 14/12/52"
+	"MailSubject4"	"Assunto: Re: Daxol"
 	"MailBody4A"	"David,"
-	"MailBody4B"    "Thanks.  I'll have a chat with them.  I don't want to report it.  I've always said the workers should be paid per hour, not for how fast they can dig holes into that damned rock.  Not much we can do about it."
+	"MailBody4B"    "Valeu.  Vou bater um papo com eles.  Eu não quero reportar isso.  Eu sempre disse que os trabalhadores deveriam ser pagos por hora, não pelo quão rápido eles podem cavar buracos naquela maldita rocha.  Não podemos fazer muito sobre isso."
 }

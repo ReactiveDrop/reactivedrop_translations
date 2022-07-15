@@ -1,25 +1,25 @@
 GAME
 {
-    // PDA belongs to Jan Anath
+    // PDA pertence ao Jan Anath
     
-    // inbox
+    // Caixa de entrada
     
-	"MailFrom1"	"From: Windom King"
-	"MailDate1"	"Date: 02/29/53"
-	"MailSubject1"	"Subject: Security"
-	"MailBody1A"	"Jan, we are getting something on the sensors, I am not quite sure if it's important or not but it is unusual."
-	"MailBody1B"	"It could be an asteroid or a drop pod."
+	"MailFrom1"	"De: Windom King"
+	"MailDate1"	"Data: 29/02/53"
+	"MailSubject1"	"Assunto: Segurança"
+	"MailBody1A"	"Jan, estamos recebendo algo nos sensores, não tenho certeza se é importante ou não, mas é incomum."
+	"MailBody1B"	"Pode ser um asteroide ou uma cápsula caída."
 	"MailBody1C"	""
-	"MailBody1D"	"Chief of Security W. King"
+	"MailBody1D"	"Chefe de Segurança W. King"
 
 	
-	// sent mail
+	// Enviados
 	
-	"MailFrom3"	"To: Windom King"
-	"MailDate3"	"Date: 02/29/53"
-	"MailSubject3"	"Subject: Re: Security"
-	"MailBody3A"	"I am getting suspicious about a possible security threat. We might have to face the possibility of an industrial spy in the facility."
-	"MailBody3B"	"Keep your eyes open and have your staff report anything to me."
-	"MailBody3C"	"By the way, do NOT call me Jan. Head Administrator Anath will do just fine."
-	"MailBody3D"	"Head Administrator J. Anath"
+	"MailFrom3"	"Para: Windom King"
+	"MailDate3"	"Data: 29/02/53"
+	"MailSubject3"	"Assunto: Re: Segurança"
+	"MailBody3A"	"Estou suspeitando de uma possível ameaça à segurança. Podemos ter que enfrentar a possibilidade de um espião industrial nas instalações."
+	"MailBody3B"	"Mantenha os olhos abertos e peça à sua equipe que relate qualquer coisa para mim."
+	"MailBody3C"	"A propósito, NÃO me chame de Jan. Administrador principal Anath serve muito bem."
+	"MailBody3D"	"Administrador Principal J. Anath"
 }

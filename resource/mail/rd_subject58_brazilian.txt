@@ -1,22 +1,17 @@
 GAME
 {
-// PDA belongs to Dr. Tom Hinler.
+// PDA pertence ao Dr. Tom Hinler.
 
-"MailFrom1" "From : Dr. Tom Hinler."
-"MailDate1" "Date : 05/26/2060."
-"MailSubject1" "Subject : Subject 58."
-"MailBody1A" "Thursday, May 21, 2060 :
-Today we have successfully implemented a recombinant DNA on the patient. This DNA came from the Alien captured a few days ago by a patrol. The patient seems to be in good health."
-"MailBody1B" "Saturday, May 23, 2060 :
-The patient speaks of headache, nausea, dizziness and constant. His condition is deteriorating day by day. Perhaps the implant failed ... Again.
-"
-"MailBody1C" "Monday, May 25, 2060 :
-We have a real problem. The patient is behaving very oddly. He has fits of madness more often, and became increasingly violent toward doctors who are on his case. We must take a decision.
-If it continues like this, it will end up hurting someone, or worse ..."
-"MailBody1D" "Tuesday, May 26, 2060 :
-The patient has escaped. He wounded two doctors. Many soldiers have started looking for him. They found him in the afternoon, with idle cut and body smeared with blood. We have brought in the medical room, and killed, to undertake further studies. We had to, otherwise it would have degenerated.
+"MailFrom1" "De : Dr. Tom Hinler."
+"MailDate1" "Data : 26/05/2060."
+"MailSubject1" "Assunto : Cobaia 58."
+"MailBody1A" "Quinta-feira, 21 de maio, 2060: Hoje implementamos com sucesso um DNA recombinante no paciente. Este DNA veio do Alien capturado há alguns dias por uma patrulha. O paciente parece estar bem de saúde."
+"MailBody1B" "Sábado, 23 de maio, 2060 : O paciente fala de dor de cabeça, náuseas, tonturas e constantes. Sua condição está se deteriorando dia a dia. Talvez o implante tenha falhado... De novo."
+"MailBody1C" "Segunda-feira, 25 de maio, 2060 : Temos um problema de verdade. O paciente está se comportando de forma muito estranha. Ele tem ataques de loucura com mais frequência e se tornou cada vez mais violento com os médicos que estão cuidando do seu caso. Devemos tomar uma decisão. Se continuar assim, vai acabar machucando alguém, ou pior..."
+"MailBody1D" "Terça-feira, 26 de maio, 2060 :
+O paciente escapou. Ele feriu dois médicos. Muitos soldados começaram a procurá-lo. Eles o encontraram à tarde, com corte ocioso e corpo manchado de sangue. Nós trouxemos a sala médica, e o matamos, para realizar mais estudos. Nós precisávamos, scaso contrário, ele teria degenerado.
 
-= Subject 58 : Failed. =
+= Cobaia 58 : Failhou. =
 
 Dr. Tom Hinler."
 }

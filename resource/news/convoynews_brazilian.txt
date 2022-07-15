@@ -1,9 +1,9 @@
 GAME
 {
-	"Headline"	"United Industries Convoy Departs"
-	"HeadlineDate"	"12/21/52"
-	"Paragraph1"	"A United Industries convoy departs this week from their central colony, headed for the Core Systems.  The massive fleet contains at least 25 Leviathan-class freighters and has full IAF cover for its journey."
-	"Paragraph2"	"The convey will be bringing in much sought after off-world resources, used throughout the manufacturing and production industries in the Core Systems.  They will also be bringing exotic and luxury goods for consumer markets."
-	"Paragraph3"	"United Industries critics accuse them of also bringing in a number of black market goods, including dangerous off-world narcotics."
-	"Paragraph4"	"The IAF has devoted a large defensive force to the convoy, calling the goods 'invaluable to the functioning of the IA.'"
+	"Headline"	"Partida do Comboio das Indústrias Unidas"
+	"HeadlineDate"	"21/12/52"
+	"Paragraph1"	"Um comboio das Indústrias Unidas parte esta semana de sua colônia central, em direção ao Sistema de Núcleos.  A enorme frota contém pelo menos 25 cargueiros da classe Leviathan e tem cobertura total da FAI para sua jornada."
+	"Paragraph2"	"O transporte trará recursos muito requisitados do mundo afora, usado em todas as indústrias de fabricação e produção nos sistemas principais. Eles também estarão trazendo produtos exóticos e de luxo para os mercados de consumo."
+	"Paragraph3"	"Os críticos das Industrias Unidas os acusam de também trazer uma série de produtos do mercado negro, incluindo narcóticos perigosos do mundo afora."
+	"Paragraph4"	"As FAI dedicou uma grande força defensiva ao comboio, chamando os bens de 'inestimáveis para o funcionamento da AI.'"
 }

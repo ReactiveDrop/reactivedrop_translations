@@ -1,18 +1,18 @@
 GAME
 {
-    // PDA belongs to Laura
+    // PDA pertence a Laura
     
-	"MailFrom1"	"From: Brad Campbell"
-	"MailDate1"	"Date: 12/18/52"
-	"MailSubject1"	"Subject: Re:Re: Eggs"
+	"MailFrom1"	"De: Brad Campbell"
+	"MailDate1"	"Data: 18/12/52"
+	"MailSubject1"	"Assunto: Re:Re: Ovos"
 	"MailBody1A"    "Laura,"
-	"MailBody1B"	"Two of my men are unreachable.  One group reported strange noises when searching Sector 24.  Could've been anything.  This place is falling to pieces."
-	"MailBody1C"	"What about those extra men?"
+	"MailBody1B"	"Dois dos meus homens estão inacessíveis.  Um grupo relatou ruídos estranhos ao buscavam o Setor 24.  Poderia ter sido qualquer coisa.  Este lugar está caindo aos pedaços."
+	"MailBody1C"	"E sobre aqueles homens extras?"
 
-	"MailFrom2"	"From: Brad Campbell"
-	"MailDate2"	"Date: 12/20/52"
-	"MailSubject2"	"Subject: Need Help"
-	"MailBody2A"	"Cortez, Jones and Stefani are dead.  Limbs missing. Jones looks as if his legs got caught in a meatgrinder.  Cain and some of his men arrived this morning, real pushy, asking about Delivery 4903877."
-	"MailBody2B"	"They told us to stay behind until they'd searched the area for the other missing personnel.  I tapped a security terminal, watched them loading up the cargo vessel with those containers.  Needless to say, they didn't come back."
-	"MailBody2C"	"We'll never be able to make it back to the main complex without a ride.  Must be 50 degrees below out there.  WTH is going on?!?"
+	"MailFrom2"	"De: Brad Campbell"
+	"MailDate2"	"Data: 20/12/52"
+	"MailSubject2"	"Assunto: Preciso de ajuda"
+	"MailBody2A"	"Cortez, Jones e Stefani estão mortos.  Membros faltando. As pernas do Jones parecem que ficaram presas em um moedor de carne. Cain e alguns de seus homens chegaram esta manhã, bem insistentes, perguntando sobre a entrega 4903877."
+	"MailBody2B"	"Eles nos disseram para ficarmos para trás até que eles vasculhassem a área pelo outro pessoal desaparecido.  Eu gravei em um terminal de segurança, assisti eles carregando a nave de carga com esses contêineres.  Não preciso dizer, que eles não retornaram."
+	"MailBody2C"	"Nunca conseguiremos voltar ao complexo principal sem uma carona.  Deve estar 50 graus negativos lá fora.  QUE MERDA está acontecendo?!?"
 }

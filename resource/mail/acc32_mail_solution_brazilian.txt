@@ -1,0 +1,15 @@
+GAME
+{
+   	"MailFrom1"	"De: Notícias da Operação [Richard]"
+	"MailDate1"	"Data: 24/11/32"
+	"MailSubject1"	"Assunto: Solução"
+	"MailBody1A"	"Sugiro desconfinarmos lentamente toda a instalação, começando pelo sul. O ar fresco e frio deve entrar e fazer seu trabalho em alguns dias. Reconheço que os níveis de radiação liberados não serão muito altos no ambiente. Ainda poderíamos evacuar casas próximas para a segurança deles."
+	"MailBody1B"	"Richard - 24 de Novembro de 2232"
+	
+	"MailFrom1"	"Para: Richard"
+	"MailDate1"	"Data: 24/11/32"
+	"MailSubject1"	"Assunto: Re: Solução"
+	"MailBody1A"	"Seu \"recruta\" imbecil?! Ficou louco? Quem te contratou? LA última vez que a instalação não foi confinada, os níveis de radiação foram letais em uma área de 15 quilômetros de raio dos laboratórios. Agora os níveis são triplos ou provavelmente até quadruplicados."
+	"MailBody1B"	"Obrigado por seu conselho profissional, senhor, mas não, não consideraremos matar nenhuma pessoa. Estaremos instalando medidas de refrigeração interna."
+	"MailBody1C"	"Administração - 24 de Novembro de 2232"
+}

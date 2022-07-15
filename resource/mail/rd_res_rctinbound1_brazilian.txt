@@ -1,39 +1,39 @@
 GAME
 {
 
-	// inbox
+	// Caixa de entrada
 
-"MailFrom1" "From: Shaun Ming"
-"MailDate1" "Date: 22/12/52"
-"MailSubject1" "Subject: Medical Shipment"
-"MailBody1A" "Apologies, Hullen."
-"MailBody1B" "Our first attempt at sneaking a specimen to you was a failure. Callen discovered the frozen shipment #4903877."
-"MailBody1C" "However, we have managed to get several frozen specimens into a second shipment of spent medical supplies."
-"MailBody1D" "Unless this one is discovered it will be with you at RC7 within a few days. Ming."
+"MailFrom1" "De: Shaun Ming"
+"MailDate1" "Data: 22/12/52"
+"MailSubject1" "Assunto: Remessa médica"
+"MailBody1A" "Minhas desculpas, Hullen."
+"MailBody1B" "Nossa primeira tentativa de contrabandear um espécime para você foi um fracasso. Callendescobriu o carregamento congelado #4903877."
+"MailBody1C" "No entanto, conseguimos colocar vários espécimes congelados em uma segunda remessa de suprimentos médicos usados."
+"MailBody1D" "A menos que isto seja descoberto, estará com você no CP7 dentro de alguns dias. Ming."
 
-"MailFrom2" "From: Jenny Coulson"
-"MailDate2" "Date: 24/12/52"
-"MailSubject2" "Re: Dinner"
-"MailBody2A" "Hi Hullen,"
-"MailBody2B" "I'd like that. I'm stuck in the Jericho mines until Thursday, but maybe on Friday the 28th?"
-"MailBody2C" "I'm actually allergic to Xenon vegetation, perhaps we can go out for drinks instead, and then maybe after..."
+"MailFrom2" "De: Jenny Coulson"
+"MailDate2" "Data: 24/12/52"
+"MailSubject2" "Assunto: Re: Jantar"
+"MailBody2A" "Oi Hullen,"
+"MailBody2B" "Eu gostaría sim. Eu estou presa nas minas do Jericho até quinta-feira, mas talvez na sexta-feira dia 28?"
+"MailBody2C" "Na verdade, sou alérgica a vegetação de Xenon, alvez possamos sair para beber em vez disso, e então talvez mais tarde..."
 "MailBody2D" "Jenny ;) xxxxx"
 
-	// sent mail
+// Enviados
 
-"MailFrom3" "To: Shaun Ming"
-"MailDate3" "Date: 26/12/52"
-"MailSubject3" "Re: Medical Shipment"
-"MailBody3A" "Ming, the shipment has been recieved."
-"MailBody3B" "As I type the specimens are being thawed within RC7."
-"MailBody3C" "Perhaps we can shed some light on the evolution of these creatures. That nobel prize is as good as ours."
+"MailFrom3" "Para: Shaun Ming"
+"MailDate3" "Data: 26/12/52"
+"MailSubject3" "Assunto: Re: Remessa médica"
+"MailBody3A" "Ming, a remessa foi recebida."
+"MailBody3B" "Enquanto digito os espécimes estão sendo descongelados dentro do CP7."
+"MailBody3C" "Talvez possamos lançar alguma luz sobre a evolução dessas criaturas. Esse prêmio Nobel já está nas nossas mãos."
 "MailBody3D" "Hullen."
 
-"MailFrom4" "TO: Jenny Coulson"
-"MailDate4" "Date: 24/12/52"
-"MailSubject4" "Dinner?"
-"MailBody4A" "Hi Jenny"
-"MailBody4B" "I know we don't know each other very well, but I was wondering if you'd like to come out for dinner with me?"
-"MailBody4C" "I know this nice little place that serves food from Xenon IX, maybe Wednesday?"
+"MailFrom4" "Para: Jenny Coulson"
+"MailDate4" "Data: 24/12/52"
+"MailSubject4" "Assunto: Jantar?"
+"MailBody4A" "Oi Jenny"
+"MailBody4B" "Eu sei que não nos conhecemos muito bem, mas eu queria saber se você gostaria de sair para jantar comigo?"
+"MailBody4C" "Conheço um lugarzinho simpático que serve comida de Xenon IX, talvez na quarta-feira?"
 "MailBody4D" "Hullen. XXXX"
 } 
