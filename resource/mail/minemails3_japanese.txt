@@ -1,21 +1,21 @@
 ﻿GAME
 {
-    // PDA belongs to Brad Campbell
-    
-    // inbox
-    
+	// PDA belongs to Brad Campbell
+
+	// inbox
+
 	"MailFrom1"	"差出人: デイヴィッド・アンダース"
 	"MailDate1"	"送信日時: 52年12月12日"
 	"MailSubject1"	"件名: 環境スーツについて"
 	"MailBody1A"	"ああもうブラッド、暑さが我慢できない程になってきた。 11番トンネルの近くでまた別の溶岩溜まりを見つけたぞ、これじゃ暑さが改善する見込みはないな。 環境スーツは使えないのか？"
 	"MailBody1B"	"デイヴより"
-	
+
 	"MailFrom2"	"差出人: デイヴィッド・アンダース"
 	"MailDate2"	"送信日時: 52年12月14日"
 	"MailSubject2"	"件名: Daxolについて"
 	"MailBody2A"	"ブラッドへ、"
 	"MailBody2B"    "畜生め。ピートとコバックとも話した。 みんなまたDaxolを定期的に使うようになってるってアイツら大っぴらに認めたぞ。やっと平常運転になったと思ったばかりなのに。 どうすればいいと思う？"
-	
+
 	// sent mail
 
 	"MailFrom3"	"宛先: デイヴィッド・アンダース"

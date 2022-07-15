@@ -1,8 +1,8 @@
 GAME
 {
-    // PC belongs to Vladislav Lazarev
-    
-    // Inbox
+	// PC belongs to Vladislav Lazarev
+
+	// Inbox
 
 	"MailFrom1"     "De : Vladislav Lazarev"
 	"MailDate1"		"Date : 01/07/42"
@@ -11,8 +11,7 @@ GAME
 	"MailBody1B"	"Ah, mais j’imagine que tu trépignes d’entendre ta nouvelle mission. Elle est de la plus haute importance, alors je t’en prie, entends-moi... Le cap’ veut l’adage colonial placardé au moins une fois dans chaque pièce de Lugdunum. Yep, c’est tout. Un peu bizarre, non ? Inutile de protester, la chaîne de commande ne bougera pas d’un pet même pour moi. Au moins tu as ton planning de la semaine tout tracé. Attention à pas recouvrir de conduit d’aération par contre, ça pourrait foutre le feu. Me demande pas comment."
 	"MailBody1C"	"‘Nam Humanum’... Est-ce que c’est au moins du vrai latin ?"
 
-
-    // Sent mail
+	// Sent mail
 
 	"MailFrom3"     "À : Tom Asselin"
 	"MailDate3"		"Date: 02/07/42"

@@ -1,8 +1,8 @@
 GAME
 {
-    // Computer di proprietà del Dottor Jacques Moreau
-    
-    // Mail inviate
+	// Computer di proprietà del Dottor Jacques Moreau
+
+	// Mail inviate
 
 	"MailFrom3"     "A: Database personale"
 	"MailDate3"		"Data: 11/01/42"

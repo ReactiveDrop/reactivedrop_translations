@@ -1,9 +1,9 @@
 GAME
 {
-    // PDA belongs to Shaun Ming
-    
-    // inbox
-    
+	// PDA belongs to Shaun Ming
+
+	// inbox
+
 	"MailFrom1"	"Từ: John Cain"
 	"MailDate1"	"Ngày: 12/23/52"
 	"MailSubject1"	"Tiêu đề: Re: Chuẩn bị phòng thí nghiệm cho Helen Young"
@@ -11,7 +11,7 @@ GAME
 	"MailBody1B"	"Mọi thứ thậm chí còn tồi tệ hơn, vượt ra ngoài tầm kiểm soát. Tao mới quay về từ ga Timor và thấy chúng nó lan ra khắp nơi. Thế méo nào mà bọn nó chui được từ tầng 2 xuống được khu hầm vậy? "
 	"MailBody1C"	"Thêm nữa, mày đang làm gì trên phòng  atrium thế? "
 	"MailBody1D"	"Lt. Cain, SynTek Security."
-	
+
 	// sent mail
 
 	"MailFrom3"	"Tới: John Cain"

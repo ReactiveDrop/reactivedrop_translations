@@ -1,9 +1,9 @@
 GAME
 {
-    // PDA belongs to Lt. Cain
-    
-    // inbox
-    
+	// PDA belongs to Lt. Cain
+
+	// inbox
+
 	"MailFrom1"	"Từ: Laura Callen"
 	"MailDate1"	"Ngày: 12/18/52"
 	"MailSubject1"	"Tiêu đề: Tiền đồn số 17"
@@ -11,7 +11,7 @@ GAME
 	"MailBody1B"	"Tôi sẽ cần lời giải thích từ phía người của ông và cần ông giúp tôi tìm ra ai là kẻ đã cố tình vi phạm luật hạn chế số #77-C. (IA cần phải được thông báo về các hoạt động vận chuyển vật liệu hữu cơ không rõ nguồn gốc xuống Trái Đất; 77-C/1.1.4)"
 	"MailBody1C"	"Campbell cũng báo cáo thêm về sự mất ích của 1 số công nhân. Đơn vị bảo vệ thuộc trách nhiệm của ông. Vì vậy, tôi hy vọng ông sẽ điều động quân số đủ để đảm bảo an ninh trong khu vực."
 	"MailBody1D"	"L. Callen"
-	
+
 	"MailFrom2"	"Từ: Alena"
 	"MailSubject2"	"Tiêu đề: Re: Hế lu"
 	"MailDate2"	"Ngày: 11/15/52"
@@ -19,7 +19,7 @@ GAME
 	"MailBody2B"	"Làm việc bên ngoài cơ sở là 1 trải nghiệm khá cô đơn. Phần mềm hẹn hò Starfire SubNet sẽ giúp bạn bớt buồn chán. Gặp nhau tâm sự, hoặc tiến xa hơn? Gọi số (+490387439)"
 	"MailBody2C"	"Alena,"
 	"MailBody2D"	"xxx"
-	
+
 	// sent mail
 
 	"MailFrom3"	"Tới: Laura Callen"

@@ -1,8 +1,8 @@
 GAME
 {
-    // PDA belongs to Brad Campbell
-    // inbox
-    
+	// PDA belongs to Brad Campbell
+	// inbox
+
 	"MailFrom1"	"송신자: 로라 캘런"
 	"MailDate1"	"날짜: 52년 12월 18일"
 	"MailSubject1"	"주제: 회신: 화물 배송"
@@ -17,7 +17,7 @@ GAME
 	"MailBody2A"	"브래드, 케인이 발송자인 것 같아.  그에게 그것에 대해 물어봤는데 모든 것을 부인했어.  그는 누구든지 그 컴퓨터를 사용할 수 있다고 말했는데, 충분히 사실이긴 하지만, 내가 보기에 그는 확실해보이지 않았어."
 	"MailBody2B"	"저들이 화물칸을 떠나기 전에 저 컨테이너들을 검사해줬으면 해."
 
-    // sent mail
+	// sent mail
 	"MailFrom3"	"수신자: 로라 캘런"
 	"MailDate3"	"날짜: 52년 12월 18일"
 	"MailSubject3"	"주제: 회신: 알들"

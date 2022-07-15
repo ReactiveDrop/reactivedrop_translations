@@ -1,11 +1,11 @@
 ﻿GAME
 {
-    // PDA belongs to Lucius Pawn
-    
-    // inbox
-    
-	
-	
+	// PDA belongs to Lucius Pawn
+
+	// inbox
+
+
+
 	// sent mail
 
 	"MailFrom3"	"수신자: 라나 킹"

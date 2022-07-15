@@ -1,8 +1,8 @@
 GAME
 {
-    // PDA belongs to George Benson
-    
-    // inbox 
+	// PDA belongs to George Benson
+
+	// inbox 
 	"MailFrom1"     "From: Shipping and Storage"
 	"MailDate1"     "Date: 24/10/53"
 	"MailSubject1"   "Subject: Re: Chainsaws?!"
@@ -11,7 +11,7 @@ GAME
 	"MailBody1C"     "As for the chainsaw, toss it off a cliff or something. Some idiot ordered a load of them by mistake and I've had them sitting in the warehouse taking up space ever since. As if we'd need chainsaws on this rock!"
 	"MailBody1D"     "- Bob Vernes, Head of Shipping and Storage"
 
-   // sent mail
+	// sent mail
 	"MailFrom3"	"To: Shipping and Storage"
 	"MailDate3"	"Date: 23/10/53"
 	"MailSubject3"	"Subject: Chainsaws?!"

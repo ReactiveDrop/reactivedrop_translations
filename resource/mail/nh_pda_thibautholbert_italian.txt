@@ -1,8 +1,8 @@
 GAME
 {
-    // PDA di proprietà del soldato di prima classe Thibaut Holbert
-    
-    // Mail inviate
+	// PDA di proprietà del soldato di prima classe Thibaut Holbert
+
+	// Mail inviate
 
 	"MailFrom3"     "A: Cpt. Arthur Carradine"
 	"MailDate3"		"Data: 31/03/43"

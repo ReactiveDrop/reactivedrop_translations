@@ -27,4 +27,3 @@ GAME
 "MailBody4A"	"Wenn du dem ein Ende setzen kannst, dann ja, ich werde dafür sorgen, dass dein Zugang zu den Laboren frei ist."
 "MailBody4B"	"Lösche jede Spur dieses Gesprächs und bete, dass nicht schon ein Big Brother an unseren beiden Türen herumschnüffelt."
 }
-

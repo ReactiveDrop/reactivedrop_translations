@@ -1,7 +1,7 @@
 "Credits"
 {
 // these keys must be in this order!
-"show_credits_logo" "0"
+"show_credits_logo"	"0"
 "custom_logo"	""
 "asw_credits_"	"Gestaltung von:"
 "asw_credits_"	"jhheight"
@@ -11,7 +11,7 @@
 "asw_credits_"	""
 "asw_credits_"	""
 "asw_credits_"	""
-"asw_credits_"	"" 
+"asw_credits_"	""
 "asw_credits_"	""
 "asw_credits_"	"Danke an realworldtextures für die Texturen"
 "asw_credits_"	""

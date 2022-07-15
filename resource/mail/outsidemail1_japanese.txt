@@ -1,9 +1,9 @@
 ﻿GAME
 {
-    // PDA belongs to Lt Cain
-    
-    // inbox
-    
+	// PDA belongs to Lt Cain
+
+	// inbox
+
 	"MailFrom1"	"差出人: ショーン・ミン"
 	"MailDate1"	"送信日時: 52年12月21日"
 	"MailSubject1"	"件名: 大躍進"
@@ -12,10 +12,10 @@
 	"MailBody1C"	"僕に従う科学者以外を研究所から締め出して頂きたい。 2番デッキには誰も立ち入らせないでください。 エイリアンがどうやって成体になるかの僕の仮定をテストするため、何か生き物が必要です。 エイリアンの食欲を満たすには最低でも犬以上のサイズが必要のはずです。 任せてもよろしいでしょうか？"
 	"MailBody1D"	"ショーン・ミンより"
 
-    // sent mail
-    
+	// sent mail
+
 	"MailFrom3"	"宛先: ショーン・ミン"
-	"MailDate3" "送信日時: 52年12月21日"
+	"MailDate3"	"送信日時: 52年12月21日"
 	"MailSubject3"	"件名: Re: 大躍進"
 	"MailBody3A"	"ミスター・ミンへ、"
 	"MailBody3B"	"1) できる限りやっている。"

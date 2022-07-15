@@ -1,7 +1,7 @@
 GAME
 {
-    // PDA di proprietà di Helen Young
-    
+	// PDA di proprietà di Helen Young
+
 	"MailFrom1"	"Da: Brian Howe"
 	"MailDate1"	"Data: 12/24/52"
 	"MailSubject1"	"Soggetto: Testata nucleare"

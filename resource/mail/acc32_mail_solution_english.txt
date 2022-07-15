@@ -5,7 +5,7 @@ GAME
 	"MailSubject1"	"Subject: Solution"
 	"MailBody1A"	"I suggest we slowly deconfine the whole facility, starting from the South. Fresh cold air should rush in and do it's work in a couple days. I recon the released radiation levels will not be too high in the environment. We could still evacuate close houses for their safety."
 	"MailBody1B"	"Richard - Nov 24th, 2232"
-	
+
 	"MailFrom1"	"To: Richard"
 	"MailDate1"	"Date: Nov 24th, 2232"
 	"MailSubject1"	"Subject: re: Solution"

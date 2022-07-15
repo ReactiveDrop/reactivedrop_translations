@@ -1,9 +1,9 @@
 GAME
 {
-    // PDA di proprietà del Dottor Lin Da Silva
+	// PDA di proprietà del Dottor Lin Da Silva
 
-    // In arrivo
-    
+	// In arrivo
+
 	"MailFrom1"		"Da: Dr. Jacques Moreau"
 	"MailDate1"     "Data: 10/02/42"
 	"MailSubject1"	"Soggetto: RE: Trasferimento dello staff scientifico"
@@ -11,8 +11,8 @@ GAME
 	"MailBody1B"	"Sebbene apprezzi l'enorme aiuto fornito finora dai vostri assistenti, le operazioni in corso - di cui sono responsabile in virtù delle mie attribuzioni di scienziato capo di questa missione - si concluderanno sommariamente se tutti alla fine acconsentiranno a lasciarmi al mio lavoro."
 	"MailBody1C"	"Grazie."
 
-    // Mail inviate
-    
+	// Mail inviate
+
 	"MailFrom3"     "A: Dr. Jacques Moreau"
 	"MailDate3"		"Data: 09/02/42"
 	"MailSubject3"	"Soggetto: Trasferimento dello staff scientifico"

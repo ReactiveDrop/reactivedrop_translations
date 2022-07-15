@@ -1,8 +1,8 @@
 GAME
 {
-    // PDA belongs to Tom Asselin
-    
-    // Inbox
+	// PDA belongs to Tom Asselin
+
+	// Inbox
 
 	"MailFrom1"     "송신자: 조나단 도랜드"
 	"MailDate1"		"날짜: 06/17/42"
@@ -10,7 +10,7 @@ GAME
 	"MailBody1A"	"아니. 여러 일이 있어서, 기분이 좀 안좋아. 다른 데 가서 돈주머니나 찾아봐."
 
 
-    // Sent mail
+	// Sent mail
 
 	"MailFrom3"     "수신자: 조나단 도랜드"
 	"MailDate3"		"날짜: 06/17/42"

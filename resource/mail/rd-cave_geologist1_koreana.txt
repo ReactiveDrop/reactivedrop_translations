@@ -1,8 +1,8 @@
 ﻿GAME
 {
-    // PDA belongs to cave_geologist1
-    
-    // inbox 
+	// PDA belongs to cave_geologist1
+
+	// inbox 
 	"MailFrom1"     "송신자: 지조부"
 	"MailDate1"     "날짜: 57년 9월 17일"
 	"MailSubject1"   "주제: 회신: 동굴 체계의 예비 결과"
@@ -11,7 +11,7 @@
 	"MailBody1C"     "물론 그것을 조심히 사용하라는 걸 당신에게 상기시킬 필요가 없다는 걸 알고 있어요."
 	"MailBody1D"     "- 제프 테일러, 지질조사부"
 
-   // sent mail
+	// sent mail
 	"MailFrom3"	"수신자: 지조부"
 	"MailDate3"	"날짜: 57년 9월 17일"
 	"MailSubject3"	"주제: 동굴 체계의 예비 결과"

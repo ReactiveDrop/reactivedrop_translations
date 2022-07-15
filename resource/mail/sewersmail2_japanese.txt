@@ -1,6 +1,6 @@
 ﻿GAME
 {
-    // PDA belongs to brian
+	// PDA belongs to brian
 	"MailFrom1"	"差出人: ヘレン・ヤング"
 	"MailDate1"	"送信日時: 52年12月24日"
 	"MailSubject1"	"件名: 研究所に向かってます"

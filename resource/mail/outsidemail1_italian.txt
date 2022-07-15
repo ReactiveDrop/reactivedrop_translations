@@ -1,9 +1,9 @@
 GAME
 {
-    // PDA di proprietà di Lt Cain
-    
-    // inbox
-    
+	// PDA di proprietà di Lt Cain
+
+	// inbox
+
 	"MailFrom1"	"Da: Shaun Ming"
 	"MailDate1"	"Data: 12/21/52"
 	"MailSubject1"	"Soggetto: Sfondamento"
@@ -12,10 +12,10 @@ GAME
 	"MailBody1C"	"Ho bisogno che porti tutti fuori dai laboratori tranne gli scienziati che lavorano sotto di me. A nessuno dovrebbe essere permesso di entrare nel Ponte 2. Per testare i miei presupposti su come lo Sciame raggiunga la maturità, ho bisogno di qualcosa di vivo. Ci credo dovrebbe avere almeno le dimensioni di un cane per soddisfare i loro appetiti. Posso contare su di te?"
 	"MailBody1D"	"S. Ming"
 
-    // mail spedita
-    
+	// mail spedita
+
 	"MailFrom3"	"A: Shaun Ming"
-	"MailDate3" "Data: 12/21/52"
+	"MailDate3"	"Data: 12/21/52"
 	"MailSubject3"	"Soggetto: Re: Sfondamento"
 	"MailBody3A"	"Mr Ming,"
 	"MailBody3B"	"1) Come se fosse già fatto."

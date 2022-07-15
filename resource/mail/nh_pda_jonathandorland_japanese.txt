@@ -1,8 +1,8 @@
 ﻿GAME
 {
-    // PDA belongs to Jonathan Dorland
-    
-    // Sent mail
+	// PDA belongs to Jonathan Dorland
+
+	// Sent mail
 
 	"MailFrom3"		"宛先: リン・ダ・シルヴァ博士"
 	"MailDate3"		"送信日時: 43年3月31日"

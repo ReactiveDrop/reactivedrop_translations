@@ -1,9 +1,9 @@
 GAME
 {
-    // PDA belongs to Corporal France Siriac
-    
-   // Inbox
-    
+	// PDA belongs to Corporal France Siriac
+
+	// Inbox
+
 	"MailFrom1"		"송신자: 폴린 비토"
 	"MailDate1"     "날짜: 04/01/43"
 	"MailSubject1"	"주제: 온실에 갇혔다"
@@ -19,8 +19,8 @@ GAME
 	"MailBody2C"	"제발 우리를 도와주세요"
 	"MailBody2D"	"제발"
 
-    // Sent mail
-    
+	// Sent mail
+
 	"MailFrom3"     "수신자: 폴린 비토"
 	"MailDate3"		"날짜: 04/01/43"
 	"MailSubject3"	"주제: 답장: 온실에 갇혔다"

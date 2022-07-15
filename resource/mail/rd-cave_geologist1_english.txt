@@ -1,8 +1,8 @@
 GAME
 {
-    // PDA belongs to cave_geologist1
-    
-    // inbox 
+	// PDA belongs to cave_geologist1
+
+	// inbox 
 	"MailFrom1"     "From: G.S.D."
 	"MailDate1"     "Date: 17/9/57"
 	"MailSubject1"   "Subject: Re: Preliminary results of the cave system"
@@ -11,7 +11,7 @@ GAME
 	"MailBody1C"     "Of course I know I won't have to remind you to be careful using it."
 	"MailBody1D"     "- Jeff Taylor, Geological Surveying Dept."
 
-   // sent mail
+	// sent mail
 	"MailFrom3"	"To: G.S.D."
 	"MailDate3"	"Date: 17/9/57"
 	"MailSubject3"	"Subject: Preliminary results of the cave system"

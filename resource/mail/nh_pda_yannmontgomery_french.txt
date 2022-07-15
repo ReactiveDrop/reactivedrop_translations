@@ -1,9 +1,9 @@
 GAME
 {
-    // PDA belongs to Professor Yann Montgomery
+	// PDA belongs to Professor Yann Montgomery
 
-    // Inbox
-    
+	// Inbox
+
 	"MailFrom1"		"De : Dr. Jacques Moreau"
 	"MailDate1"     "Date : 08/05/42"
 	"MailSubject1"	"Objet : RE : Observations liminaires"
@@ -11,8 +11,8 @@ GAME
 	"MailBody1B"	"Vous serez notifié dans le futur en cas de besoin."
 	"MailFrom1C"	"Nam Humanum."
 
-    // Sent mail
-    
+	// Sent mail
+
 	"MailFrom3"     "À : Dr. Jacques Moreau"
 	"MailDate3"		"Date : 08/05/42"
 	"MailSubject3"	"Objet : Observations liminaires"

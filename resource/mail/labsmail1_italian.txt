@@ -1,7 +1,7 @@
 GAME
 {
-    // PDA di proprietà di Helen Young
-    
+	// PDA di proprietà di Helen Young
+
 	"MailFrom1"	"Da: Shaun Ming "
 	"MailDate1"	"Data: 12/22/52"
 	"MailSubject1"	"Soggetto: Progressi"

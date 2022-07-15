@@ -1,8 +1,8 @@
 GAME
 {
-    // PDA belongs to Leon Bishop
+	// PDA belongs to Leon Bishop
 
-    // inbox
+	// inbox
 
 	"MailFrom1"	    "От: Ян Анат"
 	"MailDate1"	    "Дата: 02.29.53"
