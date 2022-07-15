@@ -843,7 +843,7 @@
 		"[english]asw_weapon_prifle_altfire"		"Stun Grenades"
 		"asw_weaponl_prifle"		"Protótipo de Fuzil de assalto 22A7-Z"
 		"[english]asw_weaponl_prifle"		"22A7-Z Prototype Assault Rifle"
-		"asw_weapon_prifle_attributes"		"Mirá Automática"
+		"asw_weapon_prifle_attributes"		"Mira Automática"
 		"[english]asw_weapon_prifle_attributes"		"Auto-Aim"
 		"asw_weapon_railgun"		"Fuzil Eletrônico"
 		"[english]asw_weapon_railgun"		"Rail Rifle"
