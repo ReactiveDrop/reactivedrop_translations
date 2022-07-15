@@ -1,0 +1,13 @@
+GAME
+{
+    // PDA pertence ao Supervisor Ross
+    
+    "MailFrom1"    "De: Comandante Harold"
+    "MailDate1"    "Date: 02/02/54"
+    "MailSubject1"  "Assunto: Colisão"
+    "MailBody1A"    "Bom dia Ross,"
+    "MailBody1B"    "Eu acredito que as equipes de limpeza nem sabem por onde começar."
+    "MailBody1c"    "No entanto, eu quero essa bagunça limpa, rapidamente, Nós não queremos isso no noticiário,"
+    "MailBody1d"    "Isso poderia prejudicar a reputação da empresa, mas o conselho de diretores estão trabalhando em algo para encobrir isso"
+    "MailBody1d"    "Falarei com você mais tarde para obter um relatório completo sobre o progresso"
+}

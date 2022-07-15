@@ -1,0 +1,18 @@
+GAME
+{
+    // PDA  pertence ao Vincent baker
+    
+    // Caixa de entrada
+	"MailFrom1"	"De: Juan Rosales"
+	"MailDate1"	"Data: 18/12/52"
+	"MailSubject1"	"Assunto: Birita e gatinhas?"
+	"MailBody1A"	"E ae Vinc,"
+	"MailBody1B"	"Nós realmente deveríamos pegar um dos Snow Cats e chegar ao complexo principal hoje à noite. Queimadura de frio não pode ser pior do que ficar aqui, nos embebedando sozinhos. 19:00 ok?"
+
+    // Enviados
+	"MailFrom3"	"Para: Juan Rosales"
+	"MailDate3"	"Data: 18/12/52"
+	"MailSubject3"	"Assunto: Re: Birita e gatinhas?"
+	"MailBody3A"	"Demorou J."
+	"MailBody3B"	"De qualquer forma estou sem Daxol. Até mais."
+}

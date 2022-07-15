@@ -1,0 +1,20 @@
+GAME
+{
+    // PDA pertence ao Joseph Palmer
+    
+    // Caixa de entrada
+	"MailFrom1"	"De: Dr. Foster"
+	"MailDate1"	"Data: 13/03/46"
+	"MailSubject1"	"Assunto: Dosagem"
+	"MailBody1A"	"Joseph,"
+	"MailBody1B"	"Acho que descobri porque o paciente Molligan não sobreviveu." 
+	"MailBody1C"	"A dose citostática foi insuficiente. Eu recomendo darmos uma segunda dosagem durante o estágio de fechamento da mutação."
+	"MailBody1D"	"Dr. Foster"
+
+    // Enviados
+	"MailFrom3" 	"Para: Dr. Foster"
+	"MailDate3"	"Data: 13/03/46"
+	"MailSubject3"	"Assunto: Re: Dosagem"
+	"MailBody3A"	"Eu concordo."
+	"MailBody3B"	"Da próxima vez aumentamos a dosagem. Tenho certeza de que encontrei um paciente adequado." 
+}

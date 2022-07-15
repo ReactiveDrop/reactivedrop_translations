@@ -1,0 +1,9 @@
+GAME
+{
+	"Headline"	"Os refugiados fluem para a constelação S-N5"
+	"HeadlineDate"	"18/12/52"
+	"Paragraph1"	"Grupos dispersos de refugiados continuam a chegar à constelação S-N5 nos arredores do espaço Paraíso.  Os sobreviventes chegam ao sistema desde que os ataques do enxame destruíram várias colônias independentes no mês passado."
+	"Paragraph2"	"Acredita-se que os ataques se originaram das Ruínas de Anhaven, mas muitos analistas estão preocupados que os ataques do Enxame tenham chegado tão fundo no espaço da Aliança.  “Isso pode ser o precursor de um ataque maior que pode até atingir os sistemas centrais”, deaclarou Dr McArthur, um notável analista de movimentos do Enxame."
+	"Paragraph3"	"Um oficial da Suprimentos Paraíso solicitou apoio da AI para lidar com os refugiados, mas generosamente ofereceu a todos eles contratos de trabalho do Paraíso dentro das colônias."
+	"Paragraph4"	""
+}

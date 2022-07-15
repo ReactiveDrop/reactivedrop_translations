@@ -1,0 +1,28 @@
+GAME
+{
+    // PDA pertence ao Brad Campbell
+    // Caixa de entrada
+    
+	"MailFrom1"	"De: Laura Callen"
+	"MailDate1"	"Data: 18/12/52"
+	"MailSubject1"	"Assunto: Re: Carga da remessa"
+	"MailBody1A"	"Ei Brad,"
+	"MailBody1B"	"Isto é estranho. Pesquisei nossos registros de transporte, mas não há nada registrado para 'Entrega 4903877'."
+	"MailBody1C"	"Sugiro que segure a carga até eu rastrear a origem. Foi enviado de algum lugar dentro do complexo principal. Não deve ser muito difícil descobrir quem te encaminhou esse pedido."
+	"MailBody1D"	"Falo com você mais tarde. Se cuida."
+
+	"MailFrom2"	"De: Laura Callen"
+	"MailDate2"	"Data: 18/12/52"
+	"MailSubject2"	"Assunto: Re:Re: Carga da remessa"
+	"MailBody2A"	"Brad, parece que Cain é o remetente. Questionei ele sobre isso e ele negou tudo. Ele disse que qualquer um poderia ter usado aquele computador, o quê é verdade, mas ainda não acredito nele."
+	"MailBody2B"	"Eu quero que você inspecione esses contêineres antes que eles saiam do compartimento de carga."
+
+    // Enviados
+	"MailFrom3"	"Para: Laura Callen"
+	"MailDate3"	"Data: 18/12/52"
+	"MailSubject3"	"Assunto: Re: Ovos"
+	"MailBody3A"    "Laura,"
+	"MailBody3B"	"As coisas estão ficando ainda mais estranhas por aqui. Depois do seu e-mail, voltei para onde deixamos os ovos. As cascas estavam quebradas e eles estavam vazios."
+	"MailBody3C"	"Decidimos procurar no Posto Avançado 17 em grupos de dois e ver se algo incomum aparece.  Apreciariamos uma ajuda extra."
+	"MailBody3D"	"Acho que estamos certos em assumir que tem algo de suspeito acontecendo. O envio de carga viva para a Terra é previsto na restrição da AI #77-C. Ninguém poderia ter feito isso por engano."
+}

@@ -1,0 +1,22 @@
+"Credits"
+{
+// these keys must be in this order!
+"show_credits_logo" "0"
+//"custom_logo"	"ExampleCustomLogo/example_custom_logo"
+"asw_credits_"	""
+"asw_credits_"	""
+"asw_credits_"	"Missão 1, Ameaça invisível, por uradzimiru"
+"asw_credits_"	""
+"asw_credits_"	"Missão 2, Arrebatamento, por Sergei 'STALKER4732' Lavrinenco"
+"asw_credits_"	""
+"asw_credits_"	"Missão 3, Bunker, por uradzimiru"
+"asw_credits_"	""
+"asw_credits_"	"Missão 4, Offline Practice, por Valve"
+"asw_credits_"	""
+"asw_credits_"	"Missão 5, Lugares Hostis, por Eclipse"
+"asw_credits_"	""
+"asw_credits_"	"Missão 6, Alta tensão, por Eclipse"
+"asw_credits_"	""
+"asw_credits_"	"Missão 7, Usina de Energia, por Arjen de Graaf"
+"asw_credits_"	""
+}

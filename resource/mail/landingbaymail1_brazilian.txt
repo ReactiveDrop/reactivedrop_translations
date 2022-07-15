@@ -1,0 +1,23 @@
+GAME
+{
+    // PDA pertence a Brian
+    
+    // Caixa de entrada
+    
+	"MailFrom1"	"De: Helen Young"
+	"MailDate1"	"Data: 19/12/52"
+	"MailSubject1"	"Assunto: Eussocialidade"
+	"MailBody1A"	"Descobertas do Enxame:"
+	"MailBody1B"	"Fizemos as contas. Todos os modelos de crescimento, vida útil e metabolismo só funcionam quando aplicados em toda a população, ao invés de indivíduos."  
+	"MailBody1C"	"De certa forma, eles são como insetos de uma colmeia avançada, um único superorganismo avançado.  Contenção é vital."
+	
+	// Enviado
+
+	"MailFrom3" 	"Para: Helen Young"
+	"MailDate3"	"Data: 19/12/52"
+	"MailSubject3"	"Subject: Re: ??!"
+	"MailBody3A"	"Socialidade estruturada?"
+	"MailBody3B"	"Entre organismos de grande porte?  Ainda estou cético."  
+	"MailBody3C"	"Embora Não haja dúvidas de que os ovos são perigosos.  Tivemos um acidente hoje.  Um dos trabalhadores foi encontrado morto."
+	"MailBody3D"	"Concordo que a contenção é vital, mas não prevejo dificuldades."
+    }

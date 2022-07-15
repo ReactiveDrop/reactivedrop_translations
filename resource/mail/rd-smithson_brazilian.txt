@@ -1,0 +1,31 @@
+GAME
+{
+    // PDA belongs to Andrew Smithson
+    
+    // inbox 
+	"MailFrom1"     "From: James Shluger"
+	"MailDate1"     "Date: 09/10/57"
+	"MailSubject1"   "Subject: Faulty door"
+	"MailBody1A"     "Andrew,"
+	"MailBody1B"     "The stairwell door near hangar 7 is giving trouble again, could you head over there and see what you can do with it? Thanks."
+	"MailBody1C"     ""
+	"MailBody1D"     ""
+
+	"MailFrom2"     "From: Oasis HR"
+	"MailDate2"     "Date: 02/10/57"
+	"MailSubject2"   "Subject: Your application feedback"
+	"MailBody2A"     "Dear Mr. Smithson,"
+	"MailBody2B"     "Your application for the role of technician within the research facilities has been reviewed. We are sorry to say that your application has been rejected at this time. However, we will keep a record of your details just in case anything turns up."
+	"MailBody2C"     "The Administration would like to take this opportunity to thank you for your interest and wishes you the best of luck with all future endeavours."
+	"MailBody2D"     "Jonas White - Human Resources, Oasis Colony"
+
+   // sent mail
+	"MailFrom3"	"To: Henry Smithson"
+	"MailDate3"	"Date: 09/10/57"
+	"MailSubject3"	"Subject: Re:Re:Re:hi"
+	"MailBody3A"	"That's easy for you to say, you're not the one stuck in this mindless job. I swear, if I have to repair another keypad today, I think I'm going to go nuts!"
+	"MailBody3B"	"and that's not the worst of it... the last few weeks, sometimes when I'm working alone, I swear I can hear something crawling about in the air vents. Maybe I'm just being paranoid but... well you remember what happened at that mining colony couple years back?"
+	"MailBody3C"	""
+	"MailBody3D"    "Andy"
+
+}

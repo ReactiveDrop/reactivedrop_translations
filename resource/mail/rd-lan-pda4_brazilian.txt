@@ -1,0 +1,15 @@
+GAME
+{
+    // PDA pertence a Lana King
+    
+    // Caixa de entrada
+    
+	"MailFrom1"	"De: Windom King"
+	"MailDate1"	"Data: 29/02/53"
+	"MailSubject1"	"Assunto: Alerta!"
+	"MailBody1A"	"Lana, o Enxame está aqui! Eu vi essas mesmas assinaturas nos sensores de massa no passado."
+	"MailBody1B"	"Você e Lucius devem fazer o possível para desacelerá-los e correr para as instalações da ogiva. Quando chegar lá, ative as defesas de segurança e saia do planeta."
+	"MailBody1C"	"Anath não acredita em mim. Vou tentar convencê-lo a ligar para a FAI, mas não estou esperançoso."
+	"MailBody1D"	"Windom"
+
+}

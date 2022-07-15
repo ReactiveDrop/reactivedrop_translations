@@ -1,0 +1,24 @@
+GAME
+{
+    // PDA pertence ao Jan Anath
+    
+    // Caixa de entrada
+    
+	"MailFrom1"	"De: Windom King"
+	"MailDate1"	"Data: 29/02/53"
+	"MailSubject1"	"Assunto: Grande ameaça"
+	"MailBody1A"	"Administrador Principal Anath, Eu tenho um mau pressentimento sobre tudo isso."
+	"MailBody1B"	"Estou certo de que estamos enfrentando uma grande ameaça."
+	"MailBody1C"	"Recomendo que entremos em contato com a FAI. Isso pode ser um ataque do Enxame."
+	"MailBody1D"	"Oficial de segurança W. King"
+		
+	// Enviados
+	
+	"MailFrom3"	"Para: Windom King"
+	"MailDate3"	"Data: 29/02/53"
+	"MailSubject3"	"Assunto: Re: Grande ameaça"
+	"MailBody3A"	"Um ataque do Enxame? A última vez que você disse isso, o único inseto que vi foi uma mosca que esmaguei com um arquivo."
+	"MailBody3B"	"Esqueça do passado, King. Nós não estamos no campo de batalha aqui. Construímos dispositivos nucleares ameaçados por um terrorista que poderia estar nesta mesma base."
+	"MailBody3C"	""
+	"MailBody3D"	"Administrador Principal J. Anath"
+}
