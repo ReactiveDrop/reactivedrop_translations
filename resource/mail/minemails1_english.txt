@@ -7,8 +7,8 @@ GAME
 	"MailSubject1"	"Subject: Martial Law"
 	"MailBody1A"	"To all citizens of Vereon XII:"
 	"MailBody1B"	"I am declaring a state of martial law, effective immediately.  Everyone is ordered to go to their quarters and remain there until further notice.  Anyone found in violation of this order will be shot on sight."
-Declaration by authority of SynTek Colony Law #545/76B as per standard contractual worker agreement clause 45(vii)."
-	"MailBody1C"	"Lt. Cain, SynTek Security."
+	"MailBody1C"	"Declaration by authority of SynTek Colony Law #545/76B as per standard contractual worker agreement clause 45(vii)."
+	"MailBody1D"	"Lt. Cain, SynTek Security."
 
 	"MailFrom2"	"From: Dr. PharmA MedTech."
 	"MailSubject2"	"Subject: Re: Good 2239"

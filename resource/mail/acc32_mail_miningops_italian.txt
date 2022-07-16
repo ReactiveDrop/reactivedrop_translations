@@ -1,6 +1,6 @@
 GAME
 {
-   	"MailFrom1"	"Da: Operazione News [Jose Dunclub]"
+	"MailFrom1"	"Da: Operazione News [Jose Dunclub]"
 	"MailDate1"	"Data: 15 Ott 2232"
 	"MailSubject1"	"Oggetto: Operazioni minerarie"
 	"MailBody1A"	"Le letture delle radiazioni di Glenkor erano corrette. Abbiamo trovato una quantità anomala di radiazioni in una grotta sotto un canale a est del connettore J7."

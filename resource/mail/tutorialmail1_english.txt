@@ -21,7 +21,7 @@ GAME
 	"MailFrom3"	"To: Laura Callen"
 	"MailDate3"	"Date: 12/18/52"
 	"MailSubject3"	"Subject: Re: Eggs"
-	"MailBody3A"    "Laura,"
+	"MailBody3A"	"Laura,"
 	"MailBody3B"	"Things are getting even weirder around here.  After your mail I headed back to where we left the eggs.  The shells were broken and they were empty."
 	"MailBody3C"	"We have decided to search Outpost 17 in groups of two and see if we anything unusual turns up.  Extra manpower would be appreciated."
 	"MailBody3D"	"I think we're safe in assuming there's something suspicious going on. Shipping live cargo to Earth goes under IA restriction #77-C.  Nobody could do that by mistake."

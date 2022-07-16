@@ -10,7 +10,7 @@ GAME
 	"MailFrom3"	"A: Sconosciuto"
 	"MailDate3"	"Data: 25.09.63"
 	"MailSubject3"	"Oggetto: Quasi pronto"
-	"MailBody3A"		"Ok, ho finito. Tutte le armi sono state disattivate e possono essere utilizzate senza autorizzazione attraverso la SecNet."
+	"MailBody3A"	"Ok, ho finito. Tutte le armi sono state disattivate e possono essere utilizzate senza autorizzazione attraverso la SecNet."
 	"MailBody3B"	"Ho avuto qualche problema con il trasporto... Il lanciafiamme si è bloccato, ma credo che riuscirò a tirarlo fuori."
 
 	"MailFrom4"	"A: Sconosciuto"

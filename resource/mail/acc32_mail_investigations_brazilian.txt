@@ -1,11 +1,11 @@
 GAME
 {
-   	"MailFrom1"	"De: Sarge."
+	"MailFrom1"	"De: Sarge."
 	"MailDate1"	"Data: 20/11/32"
 	"MailSubject1"	"Assunto: Investigação"
 	"MailBody1A"	"Entramos pelo esgoto, estava todo ensanguentado por causa dos corpos que vocês vermes jogaram neles. A temperatura é de 50 graus, os níveis de radiação são 3 vezes maiores agora."
 	"MailBody1B"	"Sarge 20 de Novembro de 2232"
-	
+
 	"MailFrom1"	"De: Sarge."
 	"MailDate1"	"Data: 20/11/32"
 	"MailSubject1"	"Assunto: Re: Enquanto você estiver lá"

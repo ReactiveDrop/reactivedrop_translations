@@ -1,6 +1,6 @@
 ﻿GAME
 {
-   	"MailFrom1"	"差出人: Sarge"
+	"MailFrom1"	"差出人: Sarge"
 	"MailDate1"	"送信日時: 2232年11月20日"
 	"MailSubject1"	"件名: 調査"
 	"MailBody1A"	"下水道より侵入した。ここはお前らクズ野郎どもが投げ捨てた死体で血まみれだ。 温度は50度、放射線レベルは3倍になった。"

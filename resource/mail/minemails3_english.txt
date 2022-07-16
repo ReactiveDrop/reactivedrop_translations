@@ -14,7 +14,7 @@ GAME
 	"MailDate2"	"Date: 12/14/52"
 	"MailSubject2"	"Subject: Daxol"
 	"MailBody2A"	"Brad,"
-	"MailBody2B"    "Damn it.  I talked to Pete and Kovac.  They openly admit that people have started using Daxol again on a regular basis.  Just when we thought things were getting back to normal.  What do you want me to do?"
+	"MailBody2B"	"Damn it.  I talked to Pete and Kovac.  They openly admit that people have started using Daxol again on a regular basis.  Just when we thought things were getting back to normal.  What do you want me to do?"
 
 	// sent mail
 
@@ -29,5 +29,5 @@ GAME
 	"MailDate4"	"Date: 12/14/52"
 	"MailSubject4"	"Subject: Re: Daxol"
 	"MailBody4A"	"David,"
-	"MailBody4B"    "Thanks.  I'll have a chat with them.  I don't want to report it.  I've always said the workers should be paid per hour, not for how fast they can dig holes into that damned rock.  Not much we can do about it."
+	"MailBody4B"	"Thanks.  I'll have a chat with them.  I don't want to report it.  I've always said the workers should be paid per hour, not for how fast they can dig holes into that damned rock.  Not much we can do about it."
 }

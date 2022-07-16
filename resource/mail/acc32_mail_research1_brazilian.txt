@@ -1,6 +1,6 @@
 GAME
 {
-   	"MailFrom1"	"De: Notícias da Operação [Laura]"
+	"MailFrom1"	"De: Notícias da Operação [Laura]"
 	"MailDate1"	"Data: 18/10/32"
 	"MailSubject1"	"Assunto: Volume da Pesquisa 1"
 	"MailBody1A"	"Hey, here's what we found so far:"

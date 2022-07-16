@@ -1,6 +1,6 @@
 GAME
 {
-   	"MailFrom1"	"An: Jacob Stankiewich"
+	"MailFrom1"	"An: Jacob Stankiewich"
 	"MailDate1"	"Datum: 01/04/31"
 	"MailSubject1"	"Betreff: Aw: Infos von Retller &VERSTECKT"
 	"MailBody1A"	"Ja, Mr. Retller hatte mir bereits von dem Ausbruch erzählt, eine beängstigende Nachricht. Ich habe in letzter Zeit tatsächlich ein paar kleine Wanzen im Lüftungsschacht gesehen, aber da ich ein harter Kerl bin, habe ich die Situation selbst in die Hand genommen."

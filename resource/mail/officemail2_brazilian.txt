@@ -1,9 +1,9 @@
 GAME
 {
-    // PDA pertence ao Ten. Cain
-    
-    // Caixa de entrada
-    
+	// PDA pertence ao Ten. Cain
+
+	// Caixa de entrada
+
 	"MailFrom1"	"De: Laura Callen"
 	"MailDate1"	"Data: 21/12/52"
 	"MailSubject1"	"Assunto: Contaminação do Laboratório"

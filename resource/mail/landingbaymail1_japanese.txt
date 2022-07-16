@@ -13,7 +13,7 @@
 
 	// sent mail
 
-	"MailFrom3" 	"宛先: ヘレン・ヤング"
+	"MailFrom3"	"宛先: ヘレン・ヤング"
 	"MailDate3"	"送信日時: 52年12月19日"
 	"MailSubject3"	"件名: Re: ？？！"
 	"MailBody3A"	"構造化された社会性？"

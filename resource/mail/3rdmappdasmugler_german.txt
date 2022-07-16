@@ -16,5 +16,5 @@ GAME
 	"MailDate4"	"Datum: 25.09.63"
 	"MailSubject4"	"Betreff: VERGISS ES!"
 	"MailBody4A"	"Hier sind irgendwelche Monster, ich habe sie nicht gesehen, aber ich spüre, dass sie sich in den Schatten verstecken. GEH HIER NICHT REIN!!!"
-	"MailBody4B"    "Ich hau ab"
+	"MailBody4B"	"Ich hau ab"
 }

@@ -4,16 +4,16 @@ GAME
 
 	// Mail inviate
 
-	"MailFrom3"		"A: Iris Florenza"
-	"MailDate3"		"Data: 18/01/40"
+	"MailFrom3"	"A: Iris Florenza"
+	"MailDate3"	"Data: 18/01/40"
 	"MailSubject3"	"Soggetto: Atterraggio sonoro"
 	"MailBody3A"	"Caro Amore,"
 	"MailBody3B"	"Il team di comunicazione mi chiede di conservare le informazioni scritte sulla trasmissione mentre si sta lavorando all'installazione, quindi ecco fatto. Finalmente siamo atterrati su Cassius-III. Come previsto, il tempo non è dei più miti qui fuori. Per non parlare del fatto che dipendiamo ancora in gran parte dai parametri vitali della navetta. Tuttavia, tutti stanno già facendo del loro meglio per farci sentire come a casa. Come qualcosa degno di una fiaba. Ma immagino che queste lettere dovranno andare da questa mia isola innevata a dove sei ora, un oceano di stelle lontano."
 	"MailBody3C"	"Sono passati 5 mesi da quando ho salutato il tuo porto, cara Iris, ma mi sembra già un'eternità in mare. Miro a fare di questa modesta colonia un rifugio adeguato per te e per me, e per l'ometto che cresce dentro di te."
 	"MailBody3D"	"Nam Humanum."
 
-	"MailFrom4"		"A: Iris Florenza"
-	"MailDate4"		"Data: 07/02/40"
+	"MailFrom4"	"A: Iris Florenza"
+	"MailDate4"	"Data: 07/02/40"
 	"MailSubject4"	"Soggetto: Un inizio da sogno"
 	"MailBody4A"	"Caro Amore,"
 	"MailBody4B"	"Sono stato informato che qualsiasi messaggio che inoltrerò potrebbe viaggiare per un po' di tempo prima che ti raggiunga. Il motivo è... beh, alcune incomprensioni tecniche in cui non entrerò, per il tuo bene. Spero che vada tutto bene, per te e il bambino. La costruzione qui sta proseguendo, l'installazione del complesso di ricerca procede come un monumento al nostro progresso. Tuttavia, le spedizioni geologiche non avranno luogo per ancora qualche mese, circa il tempo necessario perché i sistemi di supporto vitale siano sul verde."

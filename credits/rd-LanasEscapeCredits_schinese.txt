@@ -6,7 +6,7 @@
 "asw_credits_"	"战役创作"
 "asw_credits_"	"Jean-Gabriel Finat as Hephalistofene"
 "asw_credits_"	""
-"asw_credits_"  "感谢 Jérôme Auliac, Felix, Blaxpirit, JohnnyTheWolf, Evildave"
+"asw_credits_"	"感谢 Jérôme Auliac, Felix, Blaxpirit, JohnnyTheWolf, Evildave"
 "asw_credits_"	"和其他所有的测试员。"
 "asw_credits_"	""
 "asw_credits_"	"同时也感谢 VALVe"

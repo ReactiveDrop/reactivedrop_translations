@@ -6,7 +6,7 @@
 "asw_credits_"	"Feldzug von"
 "asw_credits_"	"Jean-Gabriel Finat alias Hephalistofene"
 "asw_credits_"	""
-"asw_credits_"  "Danke an Jérôme Auliac, Felix, Blaxpirit, JohnnyTheWolf, Evildave"
+"asw_credits_"	"Danke an Jérôme Auliac, Felix, Blaxpirit, JohnnyTheWolf, Evildave"
 "asw_credits_"	"und alle Tester"
 "asw_credits_"	""
 "asw_credits_"	"Und danke an Valve"

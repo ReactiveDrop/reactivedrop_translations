@@ -1,11 +1,11 @@
 GAME
 {
-    // PDA pertence a Laura
-    
+	// PDA pertence a Laura
+
 	"MailFrom1"	"De: Brad Campbell"
 	"MailDate1"	"Data: 18/12/52"
 	"MailSubject1"	"Assunto: Re:Re: Ovos"
-	"MailBody1A"    "Laura,"
+	"MailBody1A"	"Laura,"
 	"MailBody1B"	"Dois dos meus homens estão inacessíveis.  Um grupo relatou ruídos estranhos ao buscavam o Setor 24.  Poderia ter sido qualquer coisa.  Este lugar está caindo aos pedaços."
 	"MailBody1C"	"E sobre aqueles homens extras?"
 

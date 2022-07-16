@@ -4,18 +4,18 @@ GAME
 
 	// Sent messages
 
-	"MailFrom3"     "À : Cpt. Arthur Carradine"
-	"MailDate3"		"Date: 31/03/43"
+	"MailFrom3"	"À : Cpt. Arthur Carradine"
+	"MailDate3"	"Date: 31/03/43"
 	"MailSubject3"	"Objet : Mutinerie"
 	"MailBody3A"	"Nous n’aurions jamais dû forcer la main du sergent Luca. C’est un idéaliste, doté de principes et d’hommes loyaux. Et maintenant, il vient pour s’en prendre à moi. À ce qui aurait pû être l’œuvre d’une vie."
-	"MailBody3B"    "Je suppose qu’il est facile d’ignorer la souffrance lorsqu'elle est hors d’atteinte, hors de vue. Mais comment continuer dans l’apathie quand les glapissements de torture du chiot se font entendre sous notre propre toit. La conscience.. peut être un tel fardeau. Je devrai le savoir, moi plus que quiconque."
-	"MailBody3C"    "Ainsi soit-il. Qu’enfin SynTek ait leur petite découverte, à un prix que nous seuls avons payé."
+	"MailBody3B"	"Je suppose qu’il est facile d’ignorer la souffrance lorsqu'elle est hors d’atteinte, hors de vue. Mais comment continuer dans l’apathie quand les glapissements de torture du chiot se font entendre sous notre propre toit. La conscience.. peut être un tel fardeau. Je devrai le savoir, moi plus que quiconque."
+	"MailBody3C"	"Ainsi soit-il. Qu’enfin SynTek ait leur petite découverte, à un prix que nous seuls avons payé."
 
-	"MailFrom4"     "À : Dr. Helen Moreau"
-	"MailDate4"		"Date : 31/03/43"
+	"MailFrom4"	"À : Dr. Helen Moreau"
+	"MailDate4"	"Date : 31/03/43"
 	"MailSubject4"	"Objet : S/O"
 	"MailBody4A"	"Chère Vesta, ceci sera mon dernier message. À celui ou celle qui le découvrira, voici ma requête pour l’Humanité :"
-	"MailBody4B"    "Mon nom est Jacques Valery Moreau. En tant que scientifique en chef des recherches opérées au sein du complexe de la mission Lugdunum, j’ai organisé et mené de mes propres mains des expériences allant non seulement à l’encontre de l’éthique professionnelle, mais aussi de toute morale ou raison humaine. J’implore désormais les forces militaires qui trouveront ce message à sauver les produits de ses recherches. Protégez-les, si vous le pouvez, de ceux d’en haut qui les utiliseraient pour eux-mêmes. Que notre espèce puisse progresser dans l’adversité. Comme il n’y a aucune odyssée sans obstacles, nulle science n’est sans sacrifice."
-	"MailBody4C"    "Ves ta--gHelen. Mon printemps, mon fulcrum. S’il existe un endroit après la mort, je crains qu’aucun dieu ne me laissera t’y rejoindre."
-	"MailBody4D"    "Nam Humanum."
+	"MailBody4B"	"Mon nom est Jacques Valery Moreau. En tant que scientifique en chef des recherches opérées au sein du complexe de la mission Lugdunum, j’ai organisé et mené de mes propres mains des expériences allant non seulement à l’encontre de l’éthique professionnelle, mais aussi de toute morale ou raison humaine. J’implore désormais les forces militaires qui trouveront ce message à sauver les produits de ses recherches. Protégez-les, si vous le pouvez, de ceux d’en haut qui les utiliseraient pour eux-mêmes. Que notre espèce puisse progresser dans l’adversité. Comme il n’y a aucune odyssée sans obstacles, nulle science n’est sans sacrifice."
+	"MailBody4C"	"Ves ta--gHelen. Mon printemps, mon fulcrum. S’il existe un endroit après la mort, je crains qu’aucun dieu ne me laissera t’y rejoindre."
+	"MailBody4D"	"Nam Humanum."
 }

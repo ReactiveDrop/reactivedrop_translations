@@ -1,6 +1,6 @@
 GAME
 {
-   	"MailFrom1"	"Para: #todos"
+	"MailFrom1"	"Para: #todos"
 	"MailDate1"	"Data: 19/10/30"
 	"MailSubject1"	"Assunto: VAI SE FODER AMBER"
 	"MailBody1A"	"Esta mensagem foi enviada a todos os trabalhadores da AMBER. Este sistema de correspondência burro desenvolvido por programadores da AMBER inexperientes tem muitas falhas. Se você quiser enviar mensagens secretamente para outros funcionários sem que AMBER saiba, basta adicionar '&OCULTO' no final do assunto em seu e-mail."

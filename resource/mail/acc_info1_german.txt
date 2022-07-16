@@ -1,6 +1,6 @@
 GAME
 {
-   	"MailFrom1"	"Von: Leeroy Jackins"
+	"MailFrom1"	"Von: Leeroy Jackins"
 	"MailDate1"	"Datum: 20/06/32"
 	"MailSubject1"	"Betreff: - &VERSTECKT"
 	"MailBody1A"	"Ich habe gerade das clevere Sicherheitssystem hinter AMBERs Mailsystem herausgefunden und es geschafft, es zu hacken. In Kürze werde ich der Regierung alle Informationen schicken, die ich über AMBER besitze. Hoffentlich kann ich überleben, bis Hilfe eintrifft."

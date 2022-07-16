@@ -1,28 +1,28 @@
 GAME
 {
-    // PDA pertence a Doutora Lin Da Silva
+	// PDA pertence a Doutora Lin Da Silva
 
-    // Caixa de entrada
-    
-	"MailFrom1"		"De: Dr. Jacques Moreau"
-	"MailDate1"     "Data: 10/02/42"
+	// Caixa de entrada
+
+	"MailFrom1"	"De: Dr. Jacques Moreau"
+	"MailDate1"	"Data: 10/02/42"
 	"MailSubject1"	"Assunto: RE: Transferência da equipe científica"
 	"MailBody1A"	"Dra. Da Silva, minha pesquisa demanda de mim que eu mantenha minha precisão proxima dos níveis cirúrgicos. E com isso, de fato, foco apropriado. ‘Apropriado’ de forma a não ser interrompido constantemente com preocupações triviais."
 	"MailBody1B"	"Embora eu aprecie a tremenda ajuda fornecida até agora por seus assistentes, as operações em curso - do qual estou a cargo em virtude de minhas atribuições como Cientista Chefe desta missão - concluirá sumariamente se todos finalmente concordarem em me deixar trabalhar."
 	"MailBody1C"	"Obrigado."
 
-    // Enviados
-    
-	"MailFrom3"     "Para: Dr. Jacques Moreau"
-	"MailDate3"		"Data: 09/02/42"
+	// Enviados
+
+	"MailFrom3"	"Para: Dr. Jacques Moreau"
+	"MailDate3"	"Data: 09/02/42"
 	"MailSubject3"	"Assunto: Transferência da equipe científica"
 	"MailBody3A"	"Dr. Moreau,"
 	"MailBody3B"	"A seu pedido, Eu mudei os esforços da equipe de biologia para pesquisa geral; as cobaias de nossa descoberta mais recente também foram transferidos para seus laboratórios pessoais. Poderia, no entanto, çhe perguntar a razão por trás desta decisão?"
 	"MailBody3C"	"Atenciosamente,"
 	"MailBody3D"	"Dra. Lin Da Silva"
 
-	"MailFrom4"     "Para: Dr. Jacques Moreau"
-	"MailDate4"		"Data: 10/02/42"
+	"MailFrom4"	"Para: Dr. Jacques Moreau"
+	"MailDate4"	"Data: 10/02/42"
 	"MailSubject4"	"Assunto: RE: RE: Transferência da equipe científica"
 	"MailBody4A"	"Dr. Moreau,"
 	"MailBody4B"	"É claro, eu entendo. Questionar seus métodos não era minha intenção. As cobaias adicionais serão despachadas para você até o final da semana. Nam Humanum."

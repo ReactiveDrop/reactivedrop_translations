@@ -1,24 +1,24 @@
 GAME
 {
-    // PDA pertence ao Dr.Kennett
-    
+	// PDA pertence ao Dr.Kennett
+
 	"MailFrom1"	"De: Dra. L. Gilmore"
 	"MailDate1"	"Data: 17/03/46"
 	"MailSubject1"	"Assunto: O corajoso chefe de segurança"
-	"MailBody1A" 	"Kennett!"
+	"MailBody1A"	"Kennett!"
 	"MailBody1B"	"Os experimentos passaram pela equipe de segurança!"
 	"MailBody1C"	"O chefe de segurança está tentando escapar através do teletransportador. Fugindo de sua própria jurísdição. Patético. Aonde ele sequer está planejando ir?"
 	"MailBody1D"	"Precisamos fazer alguma coisa, e precisamos fazer rápido."
-	
+
 	"MailFrom2"	"De: Dra. L. Gilmore"
 	"MailDate2"	"Data: 17/03/46"
 	"MailSubject2"	"Assunto: ???"
 	"MailBody2A"	"Por quê não me responde?!"
-	
+
 	"MailFrom3"	"Para: Dra. L. Gilmore"
 	"MailDate3"	"Data: 17/03/46"
 	"MailSubject3"	"Assunto: Socorro!"
-	"MailBody3A" 	"Lily!"
+	"MailBody3A"	"Lily!"
 	"MailBody3B"	"Os experimentos estão em toda parte!"
 	"MailBody3C"	"Eu me escondi em um dos depósitos antes que a luz acabasse; agora estou preso. Eu só espero que esses malditos experimentos não cheguem até aqui."
 	"MailBody3D"	"Tudo isso não tem mais sentido. Precisamos sair daqui, e destruir esse complexo."

@@ -4,8 +4,8 @@
 
 	// Sent mail
 
-	"MailFrom3"     "宛先: アーサー・キャラダイン大佐"
-	"MailDate3"		"送信日時: 43年3月31日"
+	"MailFrom3"	"宛先: アーサー・キャラダイン大佐"
+	"MailDate3"	"送信日時: 43年3月31日"
 	"MailSubject3"	"件名: 応援はやく"
 	"MailBody3A"	"たいさへ"
 	"MailBody3B"	"モンスターあちこちはいまわってます。カントン5の部隊は全滅"
