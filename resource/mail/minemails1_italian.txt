@@ -6,8 +6,9 @@ GAME
 	"MailDate1"	"Data: 12/24/52"
 	"MailSubject1"	"Soggetto: Martial Law"
 	"MailBody1A"	"A tutti i cittadini di Vereon XII:"
-	"MailBody1B"	"Sto dichiarando uno stato di legge marziale, con effetto immediato. A tutti viene ordinato di andare nei loro alloggi e rimanere lì fino a nuovo avviso. Chiunque sia stato trovato in violazione di questo ordine verrà sparato a vista. Dichiarazione dell'autorità della SynTek Colony Law n. 545 / 76B secondo la clausola 45 (vii) dell'accordo sui contratti contrattuali standard."
-	"MailBody1C"	"Lt. Cain, Sicurezza SynTek."
+	"MailBody1B"	"Sto dichiarando uno stato di legge marziale, con effetto immediato. A tutti viene ordinato di andare nei loro alloggi e rimanere lì fino a nuovo avviso. Chiunque sia stato trovato in violazione di questo ordine verrà sparato a vista."
+	"MailBody1C"	"Dichiarazione dell'autorità della SynTek Colony Law n. 545 / 76B secondo la clausola 45 (vii) dell'accordo sui contratti contrattuali standard."
+	"MailBody1D"	"Lt. Cain, Sicurezza SynTek."
 
 	"MailFrom2"	"Da: Dr. PharmA MedTech."
 	"MailSubject2"	"Soggetto: Re: Buon 2239"
