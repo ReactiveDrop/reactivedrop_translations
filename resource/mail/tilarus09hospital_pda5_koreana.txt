@@ -1,6 +1,6 @@
 GAME
 {
-	// PDA belongs to 	Ian Cook
+	// PDA belongs to	Ian Cook
 
 	// sent mail 
 	"MailFrom3"	"수신자: 신텍 병원 직원들"

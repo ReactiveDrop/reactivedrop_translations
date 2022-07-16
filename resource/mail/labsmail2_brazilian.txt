@@ -1,9 +1,9 @@
 GAME
 {
-    // PDA pertence a Shaun Ming
-    
-    // Caixa de entrada
-    
+	// PDA pertence a Shaun Ming
+
+	// Caixa de entrada
+
 	"MailFrom1"	"De: John Cain"
 	"MailDate1"	"Data: 23/12/52"
 	"MailSubject1"	"Assunto: Re: Liberação do laboratório para Helen Young"
@@ -11,7 +11,7 @@ GAME
 	"MailBody1B"	"Para piorar as coisas, as coisas estão ficando fora de controle.  Acabei de voltar da Estação Timor.  Está se espalhando.  Como diabos eles foram do Deck 2 para as minas?"
 	"MailBody1C"	"E a propósito, o que está acontecendo no átrio?"
 	"MailBody1D"	"Ten. Cain, Segurança da SynTek."
-	
+
 	// Email enviado
 
 	"MailFrom3"	"De: John Cain"

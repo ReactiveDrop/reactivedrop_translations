@@ -1,9 +1,9 @@
 GAME
 {
-    // PDA pertence ao Brian Howe
-    
-    // Caixa de entrada
-    
+	// PDA pertence ao Brian Howe
+
+	// Caixa de entrada
+
 	"MailFrom1"	"De: Helen Young"
 	"MailDate1"	"Date: 23/12/52"
 	"MailSubject1"	"Assunto: Átrio fechado!"
@@ -12,8 +12,8 @@ GAME
 	"MailBody1C"	"Enquanto isso, recebi um e-mail daquele idiota do Ming esta manhã. Parece que ele e seus homens ainda estão trabalhando nos laboratórios, estudando os ovos que você descobriu. Tenho certeza de que o trabalho dele não tem aprovação da AI."
 	"MailBody1D"	"Vejo você depois--Helen."
 
-    // Enviados
-    
+	// Enviados
+
 	"MailFrom3"	"Para: Helen Young"
 	"MailDate3"	"Data: 23/12/52"
 	"MailSubject3"	"Assunto: Re: Átrio fechado!"

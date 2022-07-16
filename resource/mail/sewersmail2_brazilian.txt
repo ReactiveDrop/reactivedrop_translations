@@ -1,6 +1,6 @@
 GAME
 {
-    // PDA pertence ao Brian
+	// PDA pertence ao Brian
 	"MailFrom1"	"De: Helen Young"
 	"MailDate1"	"Data: 24/12/52"
 	"MailSubject1"	"Assunto: Indo aos laboratórios"

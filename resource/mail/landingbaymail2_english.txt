@@ -5,7 +5,7 @@ GAME
 	"MailFrom1"	"From: Brad Campbell"
 	"MailDate1"	"Date: 12/18/52"
 	"MailSubject1"	"Subject: Re:Re: Eggs"
-	"MailBody1A"    "Laura,"
+	"MailBody1A"	"Laura,"
 	"MailBody1B"	"Two of my men are unreachable.  One group reported strange noises when searching Sector 24.  Could've been anything.  This place is falling to pieces."
 	"MailBody1C"	"What about those extra men?"
 

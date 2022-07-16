@@ -1,6 +1,6 @@
 GAME
 {
-   	"MailFrom1"	"From: Brad Irwing"
+	"MailFrom1"	"From: Brad Irwing"
 	"MailDate1"	"Date: 03/19/31"
 	"MailSubject1"	"Subject: README pt. 1 &HIDDEN"
 	"MailBody1A"	"Kate, I'm writing this letter to you. I hope you see it. After the experiment on 14th of march the Head Doc. blocked my mail account and was constantly monitoring me, because he feared I would spread the results of the experiment. I'm sending this mail to my own account with hopes that you will read it."

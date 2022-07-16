@@ -1,16 +1,16 @@
 GAME
 {
-    // PDA pertence a Rivera
-    
-    // Caixa de entrada
-    
+	// PDA pertence a Rivera
+
+	// Caixa de entrada
+
 	"MailFrom1"	"De: Laura Callen"
 	"MailDate1"	"Data: 23/12/52"
 	"MailSubject1"	"Assunto: Transferência de e-mail"
 	"MailBody1A"	"Sr. Rivera,"
 	"MailBody1B"	"Eu te perguntei dois dias atrás sobre os problemas que eu tenho tido.  Você disse que ia dar uma olhada.  Ainda não recebi uma resposta. Por que isso está demorando tanto?"
 	"MailBody1C"	"L. Callen"
-	
+
 	"MailFrom2"	"De: John Cain"
 	"MailDate2"	"Data: 24/12/52"
 	"MailSubject2"	"Assunto: Re: Callen ficando desconfiada"

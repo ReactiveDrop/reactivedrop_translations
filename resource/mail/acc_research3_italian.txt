@@ -1,6 +1,6 @@
 GAME
 {
-   	"MailFrom1"	"Da: Hank Retller"
+	"MailFrom1"	"Da: Hank Retller"
 	"MailDate1"	"Data: 03/23/31"
 	"MailSubject1"	"Soggetto: ASCOLTATE GENTE pt. 1 &HIDDEN"
 	"MailBody1A"	"Io, HD, Brad e Orion abbiamo condotto un esperimento per verificare l'immunità dei campioni alle alte temperature. Abbiamo ricevuto risultati scioccanti. Gli HARVESTER vengono stimolati dalle alte temperature, il che permette al loro corpo di produrre una tonnellata di XENOMITI."

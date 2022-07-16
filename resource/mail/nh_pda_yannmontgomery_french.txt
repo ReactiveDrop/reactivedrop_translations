@@ -4,8 +4,8 @@ GAME
 
 	// Inbox
 
-	"MailFrom1"		"De : Dr. Jacques Moreau"
-	"MailDate1"     "Date : 08/05/42"
+	"MailFrom1"	"De : Dr. Jacques Moreau"
+	"MailDate1"	"Date : 08/05/42"
 	"MailSubject1"	"Objet : RE : Observations liminaires"
 	"MailBody1A"	"Je vous remercie pour votre temps, professeur. Votre expertise confirme la majorité de mes suppositions. Soyez certain au passage que les mesures de confinement sont suivies à la lettre. Avant que nous soyons parfaitement sûrs de ce à quoi nous avons affaire, je vous demanderai toutefois de vous garder de contacter Phalanx pour le moment."
 	"MailBody1B"	"Vous serez notifié dans le futur en cas de besoin."
@@ -13,16 +13,16 @@ GAME
 
 	// Sent mail
 
-	"MailFrom3"     "À : Dr. Jacques Moreau"
-	"MailDate3"		"Date : 08/05/42"
+	"MailFrom3"	"À : Dr. Jacques Moreau"
+	"MailDate3"	"Date : 08/05/42"
 	"MailSubject3"	"Objet : Observations liminaires"
 	"MailBody3A"	"Cher collègue. J’ai entrepris une observation première du groupe de sujets confinés dans vos laboratoires, comme aimablement commandé par votre département. Gardez en tête qu’il ne s’agit que d’impressions initiales - bien que leurs conclusions pourraient s’avérer quelque peu alarmantes."
 	"MailBody3B"	"À première vue, le spécimen semble adopter un schéma comportemental relativement simple, puisqu’il se résume à la recherche puis l’élimination de toute menace potentielle à sa survie - autrement dit, nous. Plus intéressant cependant, rarement en 27 années de biologie n’ai-je compté autant d’éléments comportementaux soutenant la théorie de l’esprit de ruche, qu’il s’agisse d’animaux, plantes ou champignons. Ils se déplacent et se reposent comme une famille, ou plutôt une nuée - suggérant l’existence d’une plus large intuition à l’origine de leur connexion commune. Comment cette connexion est-elle établie et dans quelle mesure, là est la vraie question."
 	"MailBody3C"	"Vous trouverez le manuscrit complet de mes observations attaché en annexe, que je relayerai également vers la Station Phalanx après révision. Si je puis enjoindre une requête personnelle, j’aimerai apprendre les origines de ce spécimen et comment exactement votre équipe en est venue à sa genèse. Participer à son étude serait également mon privilège. Je reste à votre disposition dans cette optique de coopération. Nam Humanum."
 	"MailBody3D"	"PS : il va sans dire que toute mesure nécessaire doit être adoptée pour éviter une éventuelle débâcle. Bien que je sois encore sceptique quant à la capacité de ces créatures à nous porter préjudice, il est évident qu’une agitation générale causée par la publicité de leur présence ne serait pas dans l’intérêt de Lugdunum... ni de SynTek, pour ce qu’il en est."
 
-	"MailFrom4"     "À : Jonathan Dorland"
-	"MailDate4"		"Date : 10/05/42"
+	"MailFrom4"	"À : Jonathan Dorland"
+	"MailDate4"	"Date : 10/05/42"
 	"MailSubject4"	"Objet : Mes excuses"
 	"MailBody4A"	"Monsieur Dorland,"
 	"MailBody4B"	"Bien que je partage vos préoccupations quant aux récentes décisions du Docteur Moreau, je ne peux décemment vous exposer mes observations suivant mon passage au sein de son laboratoire. L’éthique professionnelle m’en interdit, aussi je ne vous retrouverai pas pour déjeuner."

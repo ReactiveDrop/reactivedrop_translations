@@ -1,6 +1,6 @@
 GAME
 {
-   	"MailFrom1"	"Da: Operazione News [Richard]"
+	"MailFrom1"	"Da: Operazione News [Richard]"
 	"MailDate1"	"Data: 24 Nov 2232"
 	"MailSubject1"	"Soggetto: Soluzione"
 	"MailBody1A"	"Suggerisco di decontaminare lentamente l'intera struttura, partendo da sud. L'aria fredda dovrebbe entrare e fare il suo lavoro in un paio di giorni. Ricordo che i livelli di radiazioni rilasciati non saranno troppo elevati nell'ambiente. Potremmo comunque evacuare le case vicine per la loro sicurezza."

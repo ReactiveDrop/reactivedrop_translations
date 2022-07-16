@@ -14,7 +14,7 @@ GAME
 	"MailDate2"	"Ngày: 12/14/52"
 	"MailSubject2"	"Tiêu đề: Daxol"
 	"MailBody2A"	"Brad,"
-	"MailBody2B"    "Mẹ kiếp. Tôi vừa mới nói chuyện với Pete và Kovac. Chúng nó thừa nhận là đã cho phép mọi người sử dụng Daxol, trái với quy định. Tôi vừa nghĩ rằng mọi chuyện đang dần trở lại bình thường. Giờ ông muốn tôi phải làm gì?"
+	"MailBody2B"	"Mẹ kiếp. Tôi vừa mới nói chuyện với Pete và Kovac. Chúng nó thừa nhận là đã cho phép mọi người sử dụng Daxol, trái với quy định. Tôi vừa nghĩ rằng mọi chuyện đang dần trở lại bình thường. Giờ ông muốn tôi phải làm gì?"
 
 	// sent mail
 
@@ -29,5 +29,5 @@ GAME
 	"MailDate4"	"Ngày: 12/14/52"
 	"MailSubject4"	"Tiêu đề: Re: Daxol"
 	"MailBody4A"	"David,"
-	"MailBody4B"    "Cảm ơn nhé. Tôi sẽ nói chuyện với họ. Tôi ko định sẽ báo cáo điều này lên trên. Như tôi đã nói từ trước, chúng ta nên trả tiền cho công nhân theo giờ làm việc, chứ ko phải theo tốc độ đào cái mấy cái hòn đá bỏ mie đấy. Giờ thì còn làm gì được nữa."
+	"MailBody4B"	"Cảm ơn nhé. Tôi sẽ nói chuyện với họ. Tôi ko định sẽ báo cáo điều này lên trên. Như tôi đã nói từ trước, chúng ta nên trả tiền cho công nhân theo giờ làm việc, chứ ko phải theo tốc độ đào cái mấy cái hòn đá bỏ mie đấy. Giờ thì còn làm gì được nữa."
 }

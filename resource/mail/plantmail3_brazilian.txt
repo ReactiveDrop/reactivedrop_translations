@@ -1,7 +1,7 @@
 GAME
 {
-    // Spam
-	"MailFrom1" "De: José Da Silva"
+	// Spam
+	"MailFrom1"	"De: José Da Silva"
 	"MailSubject1"	"ACORDE!!!"
 	"MailDate1"	"Data: 25/12/52"
 	"MailBody1A"	"Olá pessoas livres,"

@@ -4,8 +4,8 @@ GAME
 
 	// Mail inviate
 
-	"MailFrom3"     "A: Cpt. Arthur Carradine"
-	"MailDate3"		"Data: 31/03/43"
+	"MailFrom3"	"A: Cpt. Arthur Carradine"
+	"MailDate3"	"Data: 31/03/43"
 	"MailSubject3"	"Soggetto: servono rinforzi"
 	"MailBody3A"	"capitano"
 	"MailBody3B"	"mostri che strisciano ad ogni angolo. unità assaltata nel cantone V"

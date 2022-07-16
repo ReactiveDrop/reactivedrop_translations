@@ -14,7 +14,7 @@ GAME
 	"MailDate2"	"Data: 12/14/52"
 	"MailSubject2"	"Soggetto: Daxol"
 	"MailBody2A"	"Brad,"
-	"MailBody2B"    "Accidenti. Ho parlato con Pete e Kovac. Ammettono apertamente che le persone hanno iniziato a usare di nuovo Daxol regolarmente. Proprio quando pensavamo che le cose stessero tornando alla normalità. Cosa volete che faccia?"
+	"MailBody2B"	"Accidenti. Ho parlato con Pete e Kovac. Ammettono apertamente che le persone hanno iniziato a usare di nuovo Daxol regolarmente. Proprio quando pensavamo che le cose stessero tornando alla normalità. Cosa volete che faccia?"
 
 	// mail spedita
 
@@ -29,5 +29,5 @@ GAME
 	"MailDate4"	"Data: 12/14/52"
 	"MailSubject4"	"Soggetto: Re: Daxol"
 	"MailBody4A"	"David,"
-	"MailBody4B"    "Grazie. Parlerò con loro. Non voglio segnalarlo. Ho sempre detto che i lavoratori dovrebbero essere pagati all'ora, non per quanto velocemente possono scavare buche in quella dannata roccia. Non possiamo fare molto al riguardo."
+	"MailBody4B"	"Grazie. Parlerò con loro. Non voglio segnalarlo. Ho sempre detto che i lavoratori dovrebbero essere pagati all'ora, non per quanto velocemente possono scavare buche in quella dannata roccia. Non possiamo fare molto al riguardo."
 }

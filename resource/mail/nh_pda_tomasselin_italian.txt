@@ -4,21 +4,21 @@ GAME
 
 	// In arrivo
 
-	"MailFrom1"     "Da: Jonathan Dorland"
-	"MailDate1"		"Data: 17/06/42"
+	"MailFrom1"	"Da: Jonathan Dorland"
+	"MailDate1"	"Data: 17/06/42"
 	"MailSubject1"	"Soggetto: RE: Interessato?"
 	"MailBody1A"	"No. Con tutto quello che sta succedendo, non sono dell'umore giusto. Vai a prendere le tue vacche da mungere da qualche altra parte."
 
 
 	// Mail inviate
 
-	"MailFrom3"     "A: Jonathan Dorland"
-	"MailDate3"		"Data: 17/06/42"
+	"MailFrom3"	"A: Jonathan Dorland"
+	"MailDate3"	"Data: 17/06/42"
 	"MailSubject3"	"Soggetto: Interessato?"
 	"MailBody3A"	"Ehi. Sembra che Carradine tenga i suoi ragazzi al guinzaglio, eh? Le notti di gioco stanno diventando tranquille, tanto più senza il nostro ragazzo-meraviglia. Che ne dici di tornare un po'? Per amore dei vecchi tempi?"
 
-	"MailFrom4"     "A: Cpl. Sarah Weiss"
-	"MailDate4"		"Data: 17/06/42"
+	"MailFrom4"	"A: Cpl. Sarah Weiss"
+	"MailDate4"	"Data: 17/06/42"
 	"MailSubject4"	"Soggetto: Sul menu: drink + partite di simulazione"
 	"MailBody4A"	"Ehi, Sara. So che, tecnicamente, sei limitata ai dormitori con il resto di voi custodi. Detto questo, che ne dici di venerdì a tarda notte nella mensa di Barney? O ti stai finalmente stancando di farti battere le chiappe in modo simulato?"
 }

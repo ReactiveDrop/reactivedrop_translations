@@ -1,7 +1,7 @@
 GAME
 {
-    // PDA pertence aoLucius Pawn
-    
+	// PDA pertence aoLucius Pawn
+
 	// Enviados
 
 	"MailFrom3"	"Para: Lana King"

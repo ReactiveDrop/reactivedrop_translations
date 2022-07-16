@@ -1,6 +1,6 @@
 GAME
 {
-   	"MailFrom1"	"To: Nathan Poe"
+	"MailFrom1"	"To: Nathan Poe"
 	"MailDate1"	"Date: 08/25/32"
 	"MailSubject1"	"Subject: Reactor instability &HIDDEN"
 	"MailBody1A"	"You said you would shut down the reactor if the temperature suddently became unstable again, but that was a fucking lie! It's been unstable since May and I have no idea how the Reactor hasn't exploded yet!"

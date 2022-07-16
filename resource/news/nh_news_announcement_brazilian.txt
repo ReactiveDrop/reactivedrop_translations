@@ -1,6 +1,6 @@
 GAME
 {
-	"Headline"		"[AVISO PÚBLICO] Procedimento de toque de recolher"
+	"Headline"	"[AVISO PÚBLICO] Procedimento de toque de recolher"
 	"HeadlineDate"	"07/05/42"
 	"Paragraph1"	"Cidadãos de Lugdunum,"
 	"Paragraph2"	"O procedimento de emergência #03-41 foi implantado cobrindo toda a instalação colonial com efeito imediato. Sob a astuta supervisão do Doutor Jacques Moreau, o Conselho de Administração pede humildemente que mantenha a calma. Please appreciate in these words a public responsibility of compliance with your custodians’ requests compounding to the strict necessity for each canton to abide by curfew hours, enforced outside work schedules between hours 1700-0900 of earthling dial."
