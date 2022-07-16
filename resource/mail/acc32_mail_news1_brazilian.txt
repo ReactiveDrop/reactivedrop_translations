@@ -1,6 +1,6 @@
 GAME
 {
-   	"MailFrom1"	"De: Fox News"
+	"MailFrom1"	"De: Fox News"
 	"MailDate1"	"Data: 31/11/32"
 	"MailSubject1"	"Assunto: Registro de notícias dos últimos 4 meses."
 	"MailBody1A"	"01 de Agosto de 2232 - A empresa de mineração 'Glenkor' detectou altas leituras de radiação na Sibéria, a leste do conector J7, que parecem estar vindo do subsolo. As operações de mineração começam."

@@ -3,7 +3,7 @@
 "Language"	"English" 
 "Tokens" 
 { 
-	"testcommands"			"<clr:255,0,0>This is red<I> and italics<B> and<cr>bold<B><I><clr:255,255,255> white again."
+	"testcommands"	"<clr:255,0,0>This is red<I> and italics<B> and<cr>bold<B><I><clr:255,255,255> white again."
 
 //Commander Audio
 
@@ -719,7 +719,7 @@
 "crash.SargeIdleReply0"	"<clr:238,180,34>Crash: You really know how to make a squad feel safe, Sarge."
 
 
-"crash.SargeIdleReply1"		"<clr:238,180,34>Crash: That mean you wanna go home now, Sarge?"
+"crash.SargeIdleReply1"	"<clr:238,180,34>Crash: That mean you wanna go home now, Sarge?"
 
 "crash.SynUpSpotted0"	"<clr:238,180,34>Crash: Hey look, they got SynUp Cola, my favorite."
 
@@ -1761,7 +1761,7 @@
 
 "jaeger.HoldingSouth2"	"<clr:198,226,255>Jaeger: Watching southside."
 
-"jaeger.HoldingEast0"		"<clr:198,226,255>Jaeger: Covering east."
+"jaeger.HoldingEast0"	"<clr:198,226,255>Jaeger: Covering east."
 
 "jaeger.HoldingEast1"	"<clr:198,226,255>Jaeger: Covering eastside."
 
@@ -3270,7 +3270,7 @@
 
 //Wildcat
 
-"wildcat.WolfeBestReply0"  "<clr:238,106,80>Wildcat: Heha! Yeah, well, We'll see who's the best now!"
+"wildcat.WolfeBestReply0"	"<clr:238,106,80>Wildcat: Heha! Yeah, well, We'll see who's the best now!"
 
 
 "wildcat.WolfeBestReply1"	"<clr:238,106,80>Wildcat: Yeah, but I've got some tricks of my own."
@@ -3696,7 +3696,7 @@
 "wildcat.AlienTooClose0"	"<clr:238,106,80>Wildcat: Kill it!"
 
 
-"wildcat.AlienTooClose1"  "<clr:238,106,80>Wildcat: Get it off!"
+"wildcat.AlienTooClose1"	"<clr:238,106,80>Wildcat: Get it off!"
 
 
 "wildcat.AlienTooClose2"	"<clr:238,106,80>Wildcat: Kill it!"
@@ -3807,10 +3807,10 @@
 "wolfe.WolfeBestReply0"	"<clr:154,205,50>Wolfe: Bring it on!"
 
 
-"wolfe.WolfeBestReply1"  "<clr:154,205,50>Wolfe: Bring it on, Kitty Cat."
+"wolfe.WolfeBestReply1"	"<clr:154,205,50>Wolfe: Bring it on, Kitty Cat."
 
 
-"wolfe.WolfeBestReply2"  "<clr:154,205,50>Wolfe: Now that sounds like a challenge."
+"wolfe.WolfeBestReply2"	"<clr:154,205,50>Wolfe: Now that sounds like a challenge."
 
 
 "wolfe.WolfeBestReply3"	"<clr:154,205,50>Wolfe: Oh, now it's on!"
@@ -3819,34 +3819,34 @@
 "wolfe.WolfeBestReply4"	"<clr:154,205,50>Wolfe: Oh, now it's on."
 
 
-"wolfe.WolfeBestReply5"  "<clr:154,205,50>Wolfe: Oh, yeah, bring it on!"
+"wolfe.WolfeBestReply5"	"<clr:154,205,50>Wolfe: Oh, yeah, bring it on!"
 
 
-"wolfe.WolfeBestReply6"  "<clr:154,205,50>Wolfe: Sounds like a challenge."
+"wolfe.WolfeBestReply6"	"<clr:154,205,50>Wolfe: Sounds like a challenge."
 
 
-"wolfe.WolfeBestReply7"  "<clr:154,205,50>Wolfe: That sounds like a challenge."
+"wolfe.WolfeBestReply7"	"<clr:154,205,50>Wolfe: That sounds like a challenge."
 
 
-"wolfe.WolfeBestReply8"  "<clr:154,205,50>Wolfe: Well, that sounds like a challenge."
+"wolfe.WolfeBestReply8"	"<clr:154,205,50>Wolfe: Well, that sounds like a challenge."
 
 
-"wolfe.MedicComplainReply0"  "<clr:154,205,50>Wolfe: Is that a trick question?"
+"wolfe.MedicComplainReply0"	"<clr:154,205,50>Wolfe: Is that a trick question?"
 
 
 "wolfe.MedicComplainReply1"	"<clr:154,205,50>Wolfe: That's a trick question."
 
 
-"wolfe.TequilaReply0"  "<clr:154,205,50>Wolfe: Hmmm, and whiskey for me."
+"wolfe.TequilaReply0"	"<clr:154,205,50>Wolfe: Hmmm, and whiskey for me."
 
 
-"wolfe.TequilaReply1"  "<clr:154,205,50>Wolfe: Yeah, and whiskey for me."
+"wolfe.TequilaReply1"	"<clr:154,205,50>Wolfe: Yeah, and whiskey for me."
 
 
-"wolfe.InjuredSelection0"  "<clr:154,205,50>Wolfe: Ain't got time to bleed."
+"wolfe.InjuredSelection0"	"<clr:154,205,50>Wolfe: Ain't got time to bleed."
 
 
-"wolfe.InjuredSelection1"  "<clr:154,205,50>Wolfe: Just a flesh wound."
+"wolfe.InjuredSelection1"	"<clr:154,205,50>Wolfe: Just a flesh wound."
 
 
 "wolfe.InjuredSelection2"	"<clr:154,205,50>Wolfe: What are you bothering me for?"
@@ -3854,108 +3854,108 @@
 
 "wolfe.InjuredSelection3"	"<clr:154,205,50>Wolfe: It's time we hit em where it hurts most.  All over."
 
-"wolfe.SeriousInjuryReply0"  "<clr:154,205,50>Wolfe: No way, you gotta be kidding me."
+"wolfe.SeriousInjuryReply0"	"<clr:154,205,50>Wolfe: No way, you gotta be kidding me."
 
-"wolfe.Autogun0"  "<clr:154,205,50>Wolfe: Dance, bugs, dance.  While you can."
+"wolfe.Autogun0"	"<clr:154,205,50>Wolfe: Dance, bugs, dance.  While you can."
 
-"wolfe.Autogun1"  "<clr:154,205,50>Wolfe:  Eat it up, suckers."
+"wolfe.Autogun1"	"<clr:154,205,50>Wolfe:  Eat it up, suckers."
 
-"wolfe.Autogun2"  "<clr:154,205,50>Wolfe:  Right here.  I'm right here."
+"wolfe.Autogun2"	"<clr:154,205,50>Wolfe:  Right here.  I'm right here."
 
-"wolfe.AutogunReply0"  "<clr:154,205,50>Wolfe:  Kill em all!"
+"wolfe.AutogunReply0"	"<clr:154,205,50>Wolfe:  Kill em all!"
 
 
-"wolfe.AutogunReply1"  "<clr:154,205,50>Wolfe:  Kill em all.  Kill em all!"
+"wolfe.AutogunReply1"	"<clr:154,205,50>Wolfe:  Kill em all.  Kill em all!"
 
 
-"wolfe.AutogunReply2"  "<clr:154,205,50>Wolfe: Right on!"
+"wolfe.AutogunReply2"	"<clr:154,205,50>Wolfe: Right on!"
 
 
-"wolfe.AutogunReply3"  "<clr:154,205,50>Wolfe: Right on."
+"wolfe.AutogunReply3"	"<clr:154,205,50>Wolfe: Right on."
 
 
-"wolfe.Use0"  "<clr:154,205,50>Wolfe: All right!"
+"wolfe.Use0"	"<clr:154,205,50>Wolfe: All right!"
 
 
-"wolfe.Use1"  "<clr:154,205,50>Wolfe: Okay."
+"wolfe.Use1"	"<clr:154,205,50>Wolfe: Okay."
 
 
-"wolfe.Use2"  "<clr:154,205,50>Wolfe: Roger."
+"wolfe.Use2"	"<clr:154,205,50>Wolfe: Roger."
 
 
-"wolfe.Use3"  "<clr:154,205,50>Wolfe: I gotcha."
+"wolfe.Use3"	"<clr:154,205,50>Wolfe: I gotcha."
 
 
-"wolfe.Use4"  "<clr:154,205,50>Wolfe: I'm on it."
+"wolfe.Use4"	"<clr:154,205,50>Wolfe: I'm on it."
 
 
-"wolfe.Use5"  "<clr:154,205,50>Wolfe: Oh, yessir."
+"wolfe.Use5"	"<clr:154,205,50>Wolfe: Oh, yessir."
 
 
-"wolfe.Use6"  "<clr:154,205,50>Wolfe: Yeah!"
+"wolfe.Use6"	"<clr:154,205,50>Wolfe: Yeah!"
 
 
-"wolfe.Use7"  "<clr:154,205,50>Wolfe: Yeah."
+"wolfe.Use7"	"<clr:154,205,50>Wolfe: Yeah."
 
 
-"wolfe.Idle0"  "<clr:154,205,50>Wolfe: Don't get too close.  I got a thing for collateral damage."
+"wolfe.Idle0"	"<clr:154,205,50>Wolfe: Don't get too close.  I got a thing for collateral damage."
 
 
-"wolfe.Idle1"  "<clr:154,205,50>Wolfe: I smell bugs.  They're nasty and almost as ugly as me."
+"wolfe.Idle1"	"<clr:154,205,50>Wolfe: I smell bugs.  They're nasty and almost as ugly as me."
 
 
-"wolfe.Idle2"  "<clr:154,205,50>Wolfe: I got some scores to settle."
+"wolfe.Idle2"	"<clr:154,205,50>Wolfe: I got some scores to settle."
 
 
-"wolfe.Idle3"  "<clr:154,205,50>Wolfe: The only good bug is a dead bug."
+"wolfe.Idle3"	"<clr:154,205,50>Wolfe: The only good bug is a dead bug."
 
 
-"wolfe.Idle4"  "<clr:154,205,50>Wolfe: Remember, you don't hurt em, if you don't hit em."
+"wolfe.Idle4"	"<clr:154,205,50>Wolfe: Remember, you don't hurt em, if you don't hit em."
 
 
-"wolfe.Idle5"  "<clr:154,205,50>Wolfe: There's only one way to solve this, and I think I'm gonna enjoy it."
+"wolfe.Idle5"	"<clr:154,205,50>Wolfe: There's only one way to solve this, and I think I'm gonna enjoy it."
 
 
-"wolfe.Idle6"  "<clr:154,205,50>Wolfe: This is getting more fun by the minute."
+"wolfe.Idle6"	"<clr:154,205,50>Wolfe: This is getting more fun by the minute."
 
 
-"wolfe.Idle7"  "<clr:154,205,50>Wolfe: This is getting more fun every second."
+"wolfe.Idle7"	"<clr:154,205,50>Wolfe: This is getting more fun every second."
 
 
-"wolfe.Idle8"  "<clr:154,205,50>Wolfe: You don't hurt em if you don't hit em."
+"wolfe.Idle8"	"<clr:154,205,50>Wolfe: You don't hurt em if you don't hit em."
 
 
-"wolfe.FF0"  "<clr:154,205,50>Wolfe: Check your target."
+"wolfe.FF0"	"<clr:154,205,50>Wolfe: Check your target."
 
 
-"wolfe.FiringAtAlien0"  "<clr:154,205,50>Wolfe: [Aggressive growl]"
+"wolfe.FiringAtAlien0"	"<clr:154,205,50>Wolfe: [Aggressive growl]"
 
 
-"wolfe.FiringAtAlien1"  "<clr:154,205,50>Wolfe: Contact!"
+"wolfe.FiringAtAlien1"	"<clr:154,205,50>Wolfe: Contact!"
 
 
-"wolfe.FiringAtAlien2"  "<clr:154,205,50>Wolfe: Take it down!"
+"wolfe.FiringAtAlien2"	"<clr:154,205,50>Wolfe: Take it down!"
 
 
-"wolfe.FollowMe0"  "<clr:154,205,50>Wolfe: Follow me."
+"wolfe.FollowMe0"	"<clr:154,205,50>Wolfe: Follow me."
 
 
-"wolfe.FollowMe1"  "<clr:154,205,50>Wolfe: Let's move."
+"wolfe.FollowMe1"	"<clr:154,205,50>Wolfe: Let's move."
 
 
-"wolfe.HoldPosition0"  "<clr:154,205,50>Wolfe: Hold it right there."
+"wolfe.HoldPosition0"	"<clr:154,205,50>Wolfe: Hold it right there."
 
 
-"wolfe.HoldPosition1"  "<clr:154,205,50>Wolfe: Wait here."
+"wolfe.HoldPosition1"	"<clr:154,205,50>Wolfe: Wait here."
 
 
-"wolfe.HoldPosition2"  "<clr:154,205,50>Wolfe: Secure this area."
+"wolfe.HoldPosition2"	"<clr:154,205,50>Wolfe: Secure this area."
 
 
-"wolfe.NeedAmmo0"  "<clr:154,205,50>Wolfe: I need some ammo here."
+"wolfe.NeedAmmo0"	"<clr:154,205,50>Wolfe: I need some ammo here."
 
 
-"wolfe.NoAmmo0"  "<clr:154,205,50>Wolfe: I need some ammo here."
+"wolfe.NoAmmo0"	"<clr:154,205,50>Wolfe: I need some ammo here."
 
 
 "wolfe.NoAmmo1"	"<clr:154,205,50>Wolfe: Anyone got spare?"
@@ -4594,7 +4594,7 @@
 "wolfe.SmallPain11"	"<clr:154,205,50>Wolfe: [Pain]"
 
 
-"wolfe.LargePain0"  "<clr:154,205,50>Wolfe: [Pain]"
+"wolfe.LargePain0"	"<clr:154,205,50>Wolfe: [Pain]"
 
 
 "wolfe.LargePain1"	"<clr:154,205,50>Wolfe: [Pain]"

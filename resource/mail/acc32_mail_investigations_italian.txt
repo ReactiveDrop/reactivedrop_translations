@@ -1,6 +1,6 @@
 GAME
 {
-   	"MailFrom1"	"Da: Sergente."
+	"MailFrom1"	"Da: Sergente."
 	"MailDate1"	"Data: 20 Nov 2232"
 	"MailSubject1"	"Soggetto: indagine"
 	"MailBody1A"	"Siamo entrati attraverso le fogne, erano insanguinate da tutti i cadaveri che voi vermi ci avete scaricato dentro. la temperatura è di 50 gradi, i livelli di radiazioni sono 3 volte più alti ora."

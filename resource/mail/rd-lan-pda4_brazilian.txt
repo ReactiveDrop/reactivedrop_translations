@@ -1,9 +1,9 @@
 GAME
 {
-    // PDA pertence a Lana King
-    
-    // Caixa de entrada
-    
+	// PDA pertence a Lana King
+
+	// Caixa de entrada
+
 	"MailFrom1"	"De: Windom King"
 	"MailDate1"	"Data: 29/02/53"
 	"MailSubject1"	"Assunto: Alerta!"

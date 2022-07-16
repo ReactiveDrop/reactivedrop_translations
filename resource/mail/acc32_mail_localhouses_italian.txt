@@ -1,6 +1,6 @@
 GAME
 {
-   	"MailFrom1"	"Da: Case locali"
+	"MailFrom1"	"Da: Case locali"
 	"MailDate1"	"Data: 14 Nov 2232"
 	"MailSubject1"	"Soggetto: La nostra sicurezza"
 	"MailBody1A"	"Solo un'ora fa uno dei vostri uomini ci ha informato della rapida crescita dei livelli di radiazioni nella nostra zona. Avete intenzione di risolvere la questione? Se questa rapida crescita continua, domani saremo costretti a lasciare le nostre case o moriremo."

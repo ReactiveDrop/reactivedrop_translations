@@ -1,6 +1,6 @@
 GAME
 {
-   	"MailFrom1"	"Von: Fox News"
+	"MailFrom1"	"Von: Fox News"
 	"MailDate1"	"Datum: 03. Jan 2233"
 	"MailSubject1"	"Betreff: Nachrichtenprotokoll für die letzten 1 Monate."
 	"MailBody1A"	"03. Dezember 2232 - Der Plan zur Kühlung des Felsens wird gerade umgesetzt. Es wird erwartet, dass das Kühlsystem in 3 bis 4 Tagen aufgebaut sein wird."

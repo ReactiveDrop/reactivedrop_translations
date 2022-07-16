@@ -1,6 +1,6 @@
 GAME
 {
-   	"MailFrom1"	"Von: Operation News [Laura]"
+	"MailFrom1"	"Von: Operation News [Laura]"
 	"MailDate1"	"Datum: 19. Okt 2232"
 	"MailSubject1"	"Betreff: Forschung Band 2"
 	"MailBody1A"	"Heilige Scheiße, unsere stärkeren Detektoren haben festgestellt, dass das Gestein aus Myonen und nicht aus Elektronen besteht."

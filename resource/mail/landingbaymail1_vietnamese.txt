@@ -13,7 +13,7 @@ GAME
 
 	// sent mail
 
-	"MailFrom3" 	"Tới: Helen Young"
+	"MailFrom3"	"Tới: Helen Young"
 	"MailDate3"	"Ngày: 12/19/52"
 	"MailSubject3"	"Tiêu đề: Re: ??!"
 	"MailBody3A"	"Cấu trúc quần thể xã hội?"

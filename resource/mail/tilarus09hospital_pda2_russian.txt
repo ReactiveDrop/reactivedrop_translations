@@ -3,8 +3,8 @@ GAME
 	// PDA belongs to Joseph Palmer
 
 	// inbox
-	"MailFrom1"	    "От: Д-р. Фостер"
-	"MailDate1"	    "Дата: 3.13.46"
+	"MailFrom1"	"От: Д-р. Фостер"
+	"MailDate1"	"Дата: 3.13.46"
 	"MailSubject1"	"Тема: Дозировка"
 	"MailBody1A"	"Джозеф"
 	"MailBody1B"	"Я думаю, что я понял, почему больной Моллиган не выжил."
@@ -12,8 +12,8 @@ GAME
 	"MailBody1D"	"Д-р. Фостер"
 
 	// sent mail
-	"MailFrom3" 	"Кому: Д-р. Фостер"
-	"MailDate3"	    "Дата: 3.13.46"
+	"MailFrom3"	"Кому: Д-р. Фостер"
+	"MailDate3"	"Дата: 3.13.46"
 	"MailSubject3"	"Тема: Ответ: Дозировка"
 	"MailBody3A"	"Согласен."
 	"MailBody3B"	"В следующий раз мы увеличим дозировку. Я уверен, что нашёл подходящего пациента."

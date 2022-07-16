@@ -21,7 +21,7 @@ GAME
 	"MailFrom3"	"A: Laura Callen"
 	"MailDate3"	"Data: 12/18/52"
 	"MailSubject3"	"Soggetto: Re: Uova"
-	"MailBody3A"    "Laura,"
+	"MailBody3A"	"Laura,"
 	"MailBody3B"	"Le cose stanno diventando ancora più strane qui. Dopo la tua mail sono tornato dove abbiamo lasciato le uova. Le sacche erano rotte ed erano vuote."
 	"MailBody3C"	"Abbiamo deciso di cercare nell'Avamposto 17 in gruppi di due e vedere se troviamo qualcosa di insolito. Manodopera extra sarebbe apprezzata."
 	"MailBody3D"	"Sta succedendo qualcosa di sospetto, ne siamo sicuri. La spedizione di carichi vivi sulla Terra è soggetta alla restrizione IA n. 77-C. Nessuno poteva farlo per errore."

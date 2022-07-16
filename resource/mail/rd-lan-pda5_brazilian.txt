@@ -1,9 +1,9 @@
 GAME
 {
-    // PDA pertence ao Leon Bishop
-    
-    // Caixa de entrada
-    
+	// PDA pertence ao Leon Bishop
+
+	// Caixa de entrada
+
 	"MailFrom1"	"De: Jan Anath"
 	"MailDate1"	"Data: 29/02/53"
 	"MailSubject1"	"Assunto: Espião Encontrado"

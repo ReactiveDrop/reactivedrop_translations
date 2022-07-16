@@ -1,6 +1,6 @@
 GAME
 {
-   	"MailFrom1"	"Para: Brad Irwing"
+	"MailFrom1"	"Para: Brad Irwing"
 	"MailDate1"	"Data: 02/04/31"
 	"MailSubject1"	"Assunto: ME RESPONDA! &OCULTO"
 	"MailBody1A"	"Por que você fugiu? O que aconteceu? ME DIGA! Você percebe que não pode fazer isso? Capitão Bark e o Doc Chefe. estão procurando por você e não estão felizes. O Doutor Chefe. está respondendo de forma agressiva ao meu questionamento, talvez ele esteja escondendo alguma coisa? Na verdade, todo mundo está agindo de forma estranha."

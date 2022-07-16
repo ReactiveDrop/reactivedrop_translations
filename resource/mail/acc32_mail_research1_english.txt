@@ -1,6 +1,6 @@
 GAME
 {
-   	"MailFrom1"	"From: Operation News [Laura]"
+	"MailFrom1"	"From: Operation News [Laura]"
 	"MailDate1"	"Date: Oct 18th, 2232"
 	"MailSubject1"	"Subject: Research volume 1"
 	"MailBody1A"	"Hey, here's what we found so far:"

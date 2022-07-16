@@ -1,7 +1,7 @@
 "Credits"
 {
 // essas chaves devem estar nesta ordem!
-"show_credits_logo" "1"
+"show_credits_logo"	"1"
 "custom_logo"	"ExampleCustomLogo/example_custom_logo"
 "asw_credits_"	"SEU NOME AQUI"
 "asw_credits_"	""
@@ -10,7 +10,7 @@
 "asw_credits_"	""
 "asw_credits_"	""
 "asw_credits_"	"Mais informações sobre como criar e"
-"asw_credits_"	""distribuir seu próprio conteúdo para" 
+"asw_credits_"	"distribuir seu próprio conteúdo para"
 "asw_credits_"	"Alien Swarm pode ser encontrado na "
 "asw_credits_"	"Seção de Alien Swarm na"
 "asw_credits_"	"Valve Developer Wiki"

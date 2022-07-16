@@ -1,9 +1,9 @@
 GAME
 {
-    // PDA pertence ao Ten. Cain
-    
-    // Caixa de entrada
-    
+	// PDA pertence ao Ten. Cain
+
+	// Caixa de entrada
+
 	"MailFrom1"	"De: Laura Callen"
 	"MailDate1"	"Data: 18/12/52"
 	"MailSubject1"	"Assunto: Posto avançado 17"
@@ -11,7 +11,7 @@ GAME
 	"MailBody1B"	"Eu gostaria que você interrogasse sua equipe novamente e me ajude a descobrir quem está violando a restrição #77-C. (a AI deve ser informada sobre a transferência de material orgânico desconhecido para a Terra; 77-C/1.1.4)"
 	"MailBody1C"	"Campbell também está reportando o desaparecimento de vários trabalhadores.  A segurança da colônia é sua responsabilidade.  Espero que você envie pessoal suficiente para manter a área segura."
 	"MailBody1D"	"L. Callen"
-	
+
 	"MailFrom2"	"De: Alena"
 	"MailSubject2"	"Assunto: Re: Oi"
 	"MailDate2"	"Data: 15/11/52"
@@ -19,7 +19,7 @@ GAME
 	"MailBody2B"	"Trabalhar fora dos sistemas centrais pode ser uma experiência solitária.  Encontros da SubRede Estelar pode ser a resposta para seus problemas!  Me encontre para um bate-papo, ou talvez mais?  Ligue (+490387439)"
 	"MailBody2C"	"Alena,"
 	"MailBody2D"	"xxx"
-	
+
 	// Enviados
 
 	"MailFrom3"	"Para: Laura Callen"

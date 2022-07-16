@@ -4,15 +4,15 @@ GAME
 
 	// Inbox
 
-	"MailFrom1"		"De : Pauline Vito"
-	"MailDate1"     "Date : 01/04/43"
+	"MailFrom1"	"De : Pauline Vito"
+	"MailDate1"	"Date : 01/04/43"
 	"MailSubject1"	"Objet : Coincés dans la serre"
 	"MailBody1A"	"Monsieur, plusieurs d’entre nous sont toujours cachés dans la serre."
 	"MailBody1B"	"M. Asselin a réussi à se faufiler derrière eux pour aller chercher de l’aide. Je ne pense pas qu’il reviendra..."
 	"MailBody1C"	"On les voit à travers les vitres... ces choses... J’ai l’impression qu’ils font quelque chose à notre jardinier, Jerome, qui s’est retrouvé piégé dans la salle de maintenance. Que doit-on faire ? Dieux, je peux l’entendre gémir dans le noir..."
 
-	"MailFrom2"		"De : Pauline Vito"
-	"MailDate2"     "Date : 02/04/43"
+	"MailFrom2"	"De : Pauline Vito"
+	"MailDate2"	"Date : 02/04/43"
 	"MailSubject2"	"Objet : RE : RE : Coincés dans la serre"
 	"MailBody2A"	"Oh dieux, Jerome"
 	"MailBody2B"	"que lui ont-ils fait"
@@ -21,8 +21,8 @@ GAME
 
 	// Sent mail
 
-	"MailFrom3"     "À : Pauline Vito"
-	"MailDate3"		"Date : 01/04/43"
+	"MailFrom3"	"À : Pauline Vito"
+	"MailDate3"	"Date : 01/04/43"
 	"MailSubject3"	"Objet : RE: Coincés dans la serre"
 	"MailBody3A"	"Vous DEVEZ rester tranquilles jusqu’à ce qu’on puisse appeler du renfort. Nous sommes en équipe réduite, depuis que le Sergent Luca a cru bon de foutre la m*rde pour nous tous. Je ne veux plus d’héroïsme hypocrite de ce genre, compris ? On vous sort de là dès que tout est dégagé de notre côté."
 }

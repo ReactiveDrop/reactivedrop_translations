@@ -12,7 +12,7 @@ GAME
 	"MailBody1D"	"Dr. Foster"
 
 	// mail spedita
-	"MailFrom3" 	"A: Dr. Foster"
+	"MailFrom3"	"A: Dr. Foster"
 	"MailDate3"	"Data: 3/13/46"
 	"MailSubject3"	"Soggetto: Re: Dosaggio"
 	"MailBody3A"	"Sono d'accordo."

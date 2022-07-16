@@ -1,9 +1,9 @@
 GAME
 {
-    // PDA pertence ao Juan Rosale
-    
-    // Caixa de entrada
-    
+	// PDA pertence ao Juan Rosale
+
+	// Caixa de entrada
+
 	"MailFrom1"	"De: Vincent Baker"
 	"MailDate1"	"Data: 18/12/52"
 	"MailSubject1"	"Assunto: Todo trabalho e nenhuma diversão"
@@ -15,11 +15,11 @@ GAME
 	"MailBody2A"	"Juan,"
 	"MailBody2B"	"Ahhah! Você e o Steve? Isso com certeza é melhor que ficar chapado.  Ah certo. De qualquer forma tem uma nevasca vindo por ai."
 
-    // Enviados
-    
+	// Enviados
+
 	"MailFrom3"	"Para: Vincent Baker"
 	"MailDate3"	"Data: 18/12/52"
 	"MailSubject3"	"Assunto: Re: Todo trabalho e nenhuma diversão."
 	"MailBody3A"	"Vinc,"
-	"MailBody3B"	"Nem, ele quer que eu e Steve pesquisemos os setores 30-35. Quer trocar?"	
+	"MailBody3B"	"Nem, ele quer que eu e Steve pesquisemos os setores 30-35. Quer trocar?"
 }

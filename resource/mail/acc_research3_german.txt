@@ -1,6 +1,6 @@
 GAME
 {
-   	"MailFrom1"	"Von: Hank Retller"
+	"MailFrom1"	"Von: Hank Retller"
 	"MailDate1"	"Datum: 03/23/31"
 	"MailSubject1"	"Betreff: HÖRT ZU LEUTE Teil 1 &VERSTECKT"
 	"MailBody1A"	"Ich, HD, Brad und Orion haben ein Experiment durchgeführt, um die Widerstandsfähigkeit von Exemplaren gegen hohe Temperaturen zu testen. Wir erhielten schockierende Ergebnisse. Die RAFFER werden durch hohe Temperaturen stimuliert, so dass ihr Körper eine Menge XENOMITEN produziert."

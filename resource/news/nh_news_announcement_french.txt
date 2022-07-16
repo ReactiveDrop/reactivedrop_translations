@@ -1,6 +1,6 @@
 GAME
 {
-	"Headline"		"[ANNONCE PUBLIQUE] Procédure de couvre-feu"
+	"Headline"	"[ANNONCE PUBLIQUE] Procédure de couvre-feu"
 	"HeadlineDate"	"07/05/42"
 	"Paragraph1"	"Citoyens de Lugdunum,"
 	"Paragraph2"	"La procédure d’urgence #03-41 est à ce jour en application pour l’installation coloniale dans son ensemble. Sous la direction avisée du Docteur Jacques Moreau, le Conseil Administratif vous demande de bien vouloir maintenir la paix. Comprenez par cela une responsabilité d’obéissance aux requêtes de vos gardiens ainsi que la nécessité pour chaque département de respecter le couvre-feu, déployé hors des plannings d’activités entre les heures 1700-0900 du cadran terrien."

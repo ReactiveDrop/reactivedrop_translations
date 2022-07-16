@@ -4,8 +4,8 @@ GAME
 
 	// Sent mail
 
-	"MailFrom3"     "To: Cpt. Arthur Carradine"
-	"MailDate3"		"Date: 03/31/43"
+	"MailFrom3"	"To: Cpt. Arthur Carradine"
+	"MailDate3"	"Date: 03/31/43"
 	"MailSubject3"	"Subject: need backup"
 	"MailBody3A"	"captain"
 	"MailBody3B"	"monsters crawling at every corner . unit overrun in canton V"

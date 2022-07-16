@@ -1,14 +1,14 @@
 GAME
 {
-    // Hackeado no histórico da rede: Tenente Gael Florenza
-    
-    // Enviados
+	// Hackeado no histórico da rede: Tenente Gael Florenza
 
-	"MailFrom3"     "Para: Iris Florenza"
-	"MailDate3"		"Data: 03/12/40"
+	// Enviados
+
+	"MailFrom3"	"Para: Iris Florenza"
+	"MailDate3"	"Data: 03/12/40"
 	"MailSubject3"	"Assunto: Uma colônia de luto"
 	"MailBody3A"	"Meu amor,"
-	"MailBody3B"    "Hoje é um dia triste para Lugdunum. A senhorita Moreau, Helen, faleceu repentinamente após complicações causadas por um tumor maligno. Embora eu não possa afirmar que a conhecia bem... Eu acredito que eu a conhecia o bastante. Sua ânsia, calorosa e juvenil, em tornar esta colônia hospitaleira foi apreciada por muitos membros de nossa comunidade e... à nossa maneira, não tenho dúvidas de que cada um de nós estará carregando esse pesar."
-	"MailBody3C"    "Estou profundamente tocado pelo Dr. Moreau. Eu não ousaria imaginar o que seria de mim se você ou Isaac desaparecessem. Eu penso em vocês dois todas as longas noites que passo nesse frio, e distante planeta."
-	"MailBody3D"    "Nam Humanum."
+	"MailBody3B"	"Hoje é um dia triste para Lugdunum. A senhorita Moreau, Helen, faleceu repentinamente após complicações causadas por um tumor maligno. Embora eu não possa afirmar que a conhecia bem... Eu acredito que eu a conhecia o bastante. Sua ânsia, calorosa e juvenil, em tornar esta colônia hospitaleira foi apreciada por muitos membros de nossa comunidade e... à nossa maneira, não tenho dúvidas de que cada um de nós estará carregando esse pesar."
+	"MailBody3C"	"Estou profundamente tocado pelo Dr. Moreau. Eu não ousaria imaginar o que seria de mim se você ou Isaac desaparecessem. Eu penso em vocês dois todas as longas noites que passo nesse frio, e distante planeta."
+	"MailBody3D"	"Nam Humanum."
 }

@@ -1,9 +1,9 @@
 GAME
 {
-    // PDA pertence ao Ming
-    
-    // Caixa de entrada
-    
+	// PDA pertence ao Ming
+
+	// Caixa de entrada
+
 	"MailFrom1"	"De: John Cain"
 	"MailDate1"	"Data: 23/12/52"
 	"MailSubject1"	"Assunto: Entrega à Estação de Pesquisa 7"

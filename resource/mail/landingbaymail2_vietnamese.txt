@@ -5,7 +5,7 @@ GAME
 	"MailFrom1"	"Từ: Brad Campbell"
 	"MailDate1"	"Ngày: 12/18/52"
 	"MailSubject1"	"Tiêu đề: Re:Re: Kén"
-	"MailBody1A"    "Laura,"
+	"MailBody1A"	"Laura,"
 	"MailBody1B"	"2 người của ta đang mất tích. 1 số khác báo cáo nghe thấy tiếng động lạ khi đang tìm kiếm ở khu 24, ko biết là cái gì. Chỗ này sắp tanh bành tới nơi rồi."
 	"MailBody1C"	"Những người mới thế nào rồi?"
 

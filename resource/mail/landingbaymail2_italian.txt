@@ -5,7 +5,7 @@ GAME
 	"MailFrom1"	"Da: Brad Campbell"
 	"MailDate1"	"Data: 12/18/52"
 	"MailSubject1"	"Soggetto: Re:Re: Uova"
-	"MailBody1A"    "Laura,"
+	"MailBody1A"	"Laura,"
 	"MailBody1B"	"Due dei miei uomini sono irraggiungibili. Un gruppo ha riferito strani rumori durante la ricerca nel settore 24. Potrebbe essere stato qualsiasi cosa. Questo posto sta andando in pezzi."
 	"MailBody1C"	"Cosa è successo agli uomini extra?"
 
