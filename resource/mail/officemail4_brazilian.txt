@@ -1,9 +1,9 @@
 GAME
 {
-    // PDA pertence ao Sr Tanner
-    
-    // Caixa de entrada
-    
+	// PDA pertence ao Sr Tanner
+
+	// Caixa de entrada
+
 	"MailFrom1"	"De: Kate Edwards"
 	"MailDate1"	"Data: 22/12/52"
 	"MailSubject1"	"Assunto: Timothy"

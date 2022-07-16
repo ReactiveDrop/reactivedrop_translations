@@ -1,6 +1,6 @@
 GAME
 {
-   	"MailFrom1"	"To: Jacob Stankiewich"
+	"MailFrom1"	"To: Jacob Stankiewich"
 	"MailDate1"	"Date: 01/04/31"
 	"MailSubject1"	"Subject: Re: Info from Retller &HIDDEN"
 	"MailBody1A"	"Yeah, Mr. Retller had already told me about the outbreak, scary news. I have actually seen some small ass bugs in the vent lately, but being the tough guy I am, I handled the situation by myself."

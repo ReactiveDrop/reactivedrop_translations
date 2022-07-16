@@ -13,7 +13,7 @@
 
 	// sent mail
 
-	"MailFrom3" 	"수신자: 헬렌 영"
+	"MailFrom3"	"수신자: 헬렌 영"
 	"MailDate3"	"날짜: 52년 12월 19일"
 	"MailSubject3"	"주제: 회신: ??!"
 	"MailBody3A"	"조직화된 사회성?"

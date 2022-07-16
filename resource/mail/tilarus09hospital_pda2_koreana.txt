@@ -12,7 +12,7 @@ GAME
 	"MailBody1D"	"포스터 박사"
 
 	// sent mail
-	"MailFrom3" 	"수신자: 포스터 박사"
+	"MailFrom3"	"수신자: 포스터 박사"
 	"MailDate3"	"날짜: 46년 3월 13일"
 	"MailSubject3"	"주제: 회신: 복용량"
 	"MailBody3A"	"동의합니다."

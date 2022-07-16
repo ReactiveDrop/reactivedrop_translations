@@ -1,6 +1,6 @@
 GAME
 {
-   	"MailFrom1"	"To: Brad Irwing"
+	"MailFrom1"	"To: Brad Irwing"
 	"MailDate1"	"Date: 04/02/31"
 	"MailSubject1"	"Subject: ANSWER ME! &HIDDEN"
 	"MailBody1A"	"Why did you escape? What happened? TELL ME! You realise you can't do that? Capt. Bark and the Head Doc. are searching for you and they are not happy. The Head Doc. is responding aggresively to my questioning, perhaps he is hiding something? Actually, everybody is acting strangely."

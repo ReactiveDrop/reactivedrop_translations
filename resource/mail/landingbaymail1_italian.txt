@@ -13,7 +13,7 @@ GAME
 
 	// mail spedita
 
-	"MailFrom3" 	"A: Helen Young"
+	"MailFrom3"	"A: Helen Young"
 	"MailDate3"	"Data: 12/19/52"
 	"MailSubject3"	"Soggetto: Re: ??!"
 	"MailBody3A"	"Socialità strutturata?"

@@ -1,6 +1,6 @@
 GAME
 {
-   	"MailFrom1"	"From: Fox News"
+	"MailFrom1"	"From: Fox News"
 	"MailDate1"	"Date: Jan 03, 2233"
 	"MailSubject1"	"Subject: News log for the past 1 months."
 	"MailBody1A"	"December 3rd, 2232 - The plan to cool the rock is being deployed. The cooling system is expected to be built in 3 to 4 days."

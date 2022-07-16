@@ -1,6 +1,6 @@
 GAME
 {
-   	"MailFrom1"	"From: Operation News [Laura]"
+	"MailFrom1"	"From: Operation News [Laura]"
 	"MailDate1"	"Date: Oct 19th, 2232"
 	"MailSubject1"	"Subject: Research volume 2"
 	"MailBody1A"	"Holy fuck, our stronger detectors have identified that the rock is made out of muons, not electrons."

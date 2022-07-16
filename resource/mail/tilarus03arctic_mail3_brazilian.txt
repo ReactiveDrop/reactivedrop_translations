@@ -4,21 +4,21 @@ GAME
 
 	// Caixa de entrada
 
-	"MailFrom1" "De: Analista de Dados SynTek"
-	"MailDate1" "Data: 05/10/52"
-	"MailSubject1" "Assunto: Dados do Esquema da Instalação"
-	"MailBody1A" "Oi Martin"
-	"MailBody1B" "Eu carreguei os arquivos atualizados do Esquema da Instalação no seu terminal, como você pediu."
-	"MailBody1C" "Espero que você não se perca mais. HAHA! ;D"
-	"MailBody1D" "Atenciosamente, Mike Palmer"
+	"MailFrom1"	"De: Analista de Dados SynTek"
+	"MailDate1"	"Data: 05/10/52"
+	"MailSubject1"	"Assunto: Dados do Esquema da Instalação"
+	"MailBody1A"	"Oi Martin"
+	"MailBody1B"	"Eu carreguei os arquivos atualizados do Esquema da Instalação no seu terminal, como você pediu."
+	"MailBody1C"	"Espero que você não se perca mais. HAHA! ;D"
+	"MailBody1D"	"Atenciosamente, Mike Palmer"
 
 	// Enviados
 
-	"MailFrom3" "Para: Analista de Dados SynTek"
-	"MailDate3" "Data: 05/10/52"
-	"MailSubject3" "Assunto: Re: Dados do Esquema da Instalação"
-	"MailBody3A" "Oi Mike"
-	"MailBody3B" "Ahh... você é muito engraçado... :P"
-	"MailBody3C" "Obrigado pelos arquivos mesmo assim."
-	"MailBody3D" "-Martin"
+	"MailFrom3"	"Para: Analista de Dados SynTek"
+	"MailDate3"	"Data: 05/10/52"
+	"MailSubject3"	"Assunto: Re: Dados do Esquema da Instalação"
+	"MailBody3A"	"Oi Mike"
+	"MailBody3B"	"Ahh... você é muito engraçado... :P"
+	"MailBody3C"	"Obrigado pelos arquivos mesmo assim."
+	"MailBody3D"	"-Martin"
 } 

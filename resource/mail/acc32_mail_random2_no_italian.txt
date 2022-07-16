@@ -1,6 +1,6 @@
 GAME
 {
-   	"MailFrom1"	"Da: Helen Baker"
+	"MailFrom1"	"Da: Helen Baker"
 	"MailDate1"	"Data: 01/07/31"
 	"MailSubject1"	"Oggetto: Aggiornamento sul tubo"
 	"MailBody1A"	"Vi tengo aggiornati sul controllo delle tubature - non ho trovato alcun documento amministrativo sulla tubatura est 5B, il che è un po' strano. Non sono sicuro di quale funzione abbia o dove conduca. In ogni caso, ho informato gli ingegneri, che ci daranno un'occhiata la prossima settimana."

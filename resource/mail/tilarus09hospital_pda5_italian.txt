@@ -1,6 +1,6 @@
 GAME
 {
-	// PDA di proprietà di 	Ian Cook
+	// PDA di proprietà di	Ian Cook
 
 	// mail spedita 
 	"MailFrom3"	"A: SynTek Hospital Employees"

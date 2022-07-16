@@ -4,8 +4,8 @@ GAME
 
 	// Inbox
 
-	"MailFrom1"     "De : Vladislav Lazarev"
-	"MailDate1"		"Date : 01/07/42"
+	"MailFrom1"	"De : Vladislav Lazarev"
+	"MailDate1"	"Date : 01/07/42"
 	"MailSubject1"	"Objet : Nouvelle affectation"
 	"MailBody1A"	"Petite énigme : qu’est-ce qui ressemble vaguement à un humain mais est en fait un cyborg ultra avancé programmé par SynTek spécifiquement pour rendre nos vies un enfer ? Si t’as répondu “cet enfo*ré de Carradine”, tu gagnes un cornichon. Je mens. J’ai bien peur qu’ils n’aient disparu il y a perpète."
 	"MailBody1B"	"Ah, mais j’imagine que tu trépignes d’entendre ta nouvelle mission. Elle est de la plus haute importance, alors je t’en prie, entends-moi... Le cap’ veut l’adage colonial placardé au moins une fois dans chaque pièce de Lugdunum. Yep, c’est tout. Un peu bizarre, non ? Inutile de protester, la chaîne de commande ne bougera pas d’un pet même pour moi. Au moins tu as ton planning de la semaine tout tracé. Attention à pas recouvrir de conduit d’aération par contre, ça pourrait foutre le feu. Me demande pas comment."
@@ -13,8 +13,8 @@ GAME
 
 	// Sent mail
 
-	"MailFrom3"     "À : Tom Asselin"
-	"MailDate3"		"Date: 02/07/42"
+	"MailFrom3"	"À : Tom Asselin"
+	"MailDate3"	"Date: 02/07/42"
 	"MailSubject3"	"Objet : RE : Nouvelle affectation"
 	"MailBody3A"	"Je me torche avec leur devise pourrie. Comme si c’était pas assez humiliant de me stationner ici. J’ai pas subi mes cours de bioastronautique pour me retrouver à faire de la déco."
 	"MailBody3B"	"Je vais garder tranquillement mes fesses chaudes et rester l’improductif qu’ils pensent que je suis, merci bien. Qu’est-ce qu’ils vont faire, porter plainte ? On est littéralement une expédition scientifique très ambiguë sans recours légal ni juridiction."

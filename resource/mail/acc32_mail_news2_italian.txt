@@ -1,6 +1,6 @@
 GAME
 {
-   	"MailFrom1"	"Da: Fox News"
+	"MailFrom1"	"Da: Fox News"
 	"MailDate1"	"Data: 03 gennaio 2233"
 	"MailSubject1"	"Oggetto: Diario delle notizie degli ultimi 1 mesi."
 	"MailBody1A"	"3 dicembre 2232 - Il piano di raffreddamento della roccia è in fase di realizzazione. Il sistema di raffreddamento dovrebbe essere realizzato in 3-4 giorni."

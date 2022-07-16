@@ -1,6 +1,6 @@
 GAME
 {
-   	"MailFrom1"	"Von: Operation News [Jose Dunclub]"
+	"MailFrom1"	"Von: Operation News [Jose Dunclub]"
 	"MailDate1"	"Datum: 15. Okt 2232"
 	"MailSubject1"	"Betreff: Bergbauarbeiten"
 	"MailBody1A"	"Die Strahlungswerte von Glenkor waren korrekt. Wir haben eine ungewöhnliche Menge an Strahlung in einer Höhle unter einem Kanal östlich von J7 Knoten gefunden."

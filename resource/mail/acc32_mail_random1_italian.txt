@@ -1,6 +1,6 @@
 GAME
 {
-   	"MailFrom1"	"Da: Edward Zoff"
+	"MailFrom1"	"Da: Edward Zoff"
 	"MailDate1"	"Data: 07/07/31"
 	"MailSubject1"	"Oggetto: Operazione mineraria"
 	"MailBody1A"	"Sicuramente non sono l'unico a chiedersi cosa siano quei cristalli verdi dall'aspetto gustoso che stiamo raccogliendo. La curiosità ha scatenato il mio interesse e ho chiesto spiegazioni all'amministrazione, ma sembravano non gradire e mi hanno ignorato. Quelle pietre non assomigliano a nulla che abbia mai visto prima, inoltre hanno una temperatura molto alta e anche nel clima freddo non sembrano raffreddarsi affatto."

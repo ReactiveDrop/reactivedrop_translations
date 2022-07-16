@@ -1,22 +1,22 @@
 GAME
 {
-    // Computador pertence ao Doutor Jacques Moreau
-    
-    // Enviados
+	// Computador pertence ao Doutor Jacques Moreau
 
-	"MailFrom3"     "Para: Banco de dados pessoal"
-	"MailDate3"		"Date: 24/05/42"
+	// Enviados
+
+	"MailFrom3"	"Para: Banco de dados pessoal"
+	"MailDate3"	"Date: 24/05/42"
 	"MailSubject3"	"Assunto: Algo mais"
 	"MailBody3A"	"Se comunica comigo. A mente coletiva deles, ou do que quer que se possa chamar uma entidade tão enigmática. Eu decidi me referir a isto como 'ela'. Vesta."
-	"MailBody3B"    "O processo pelo qual ela se dirige a mim parece totalmente alienígena. Isso é... estranho, errático, como se um novo sentido me fosse emprestado por frações de segundos apenas para desaparecer novamente em um abismo de silêncio. Mas desse vazio, eu sei que é verdade, chegou a uma voz. Uma série estranhamente abrangente de sons que nunca consigo me lembrar completamente depois de ouvi-lo. Essa voz... me lembra a alguém que perdi."
+	"MailBody3B"	"O processo pelo qual ela se dirige a mim parece totalmente alienígena. Isso é... estranho, errático, como se um novo sentido me fosse emprestado por frações de segundos apenas para desaparecer novamente em um abismo de silêncio. Mas desse vazio, eu sei que é verdade, chegou a uma voz. Uma série estranhamente abrangente de sons que nunca consigo me lembrar completamente depois de ouvi-lo. Essa voz... me lembra a alguém que perdi."
 	"MailBody3C"	"Tenho feito tentativas de me envolver com Vesta of por minha própria vontade. Tentei falar com ela, fazê-la entender quem ou o que somos. Estou ciente de quão absurdo isso pode soar... mas eu pedi por orientação. Eu quero alcançá-la, mostrar a ela que não há nada a temer de nós. Nós somos apenas cascas frágeis de tecido e mente em decomposição, e ela pode ou não levar a tudo que nós... eu, esperava."
-	"MailBody3D"    "Ela precisa apenas de corpos."
+	"MailBody3D"	"Ela precisa apenas de corpos."
 
-	"MailFrom4"     "Para: Dra. Helen Moreau"
-	"MailDate4"		"Data: 15/06/42"
+	"MailFrom4"	"Para: Dra. Helen Moreau"
+	"MailDate4"	"Data: 15/06/42"
 	"MailSubject4"	"Assunto: N/A"
 	"MailBody4A"	"Então aqui estou. Me declarando a um fantasma. Para ser perfeitamente honesto, Não tenho certeza de quanto tempo se passou desde sua doença. Embora, o tempo em que seu perfume de flores reprimiu a asfixia de nosso laboratório não pareça tão distante."
-	"MailBody4B"    "Para onde este caminho leva, Helen, Eu me pergunto. Esta missão que era tudo sobre o avanço de nossa espécie, a humanidade como um 'um e todo'. Então logo todos esperavam que eu desse respostas para todas as coisas, a substância da qual eu estava improvisando cada vez mais com o passar dos dias. E agora, o peso da responsabilidade por uma descoberta tão excepcional, recai exclusivamente sobre mim. Eu, uma única parte de duas mentes, devo extrair respostas quanto à existência de uma nova vida entre nós... Vesta... Helen. Se ao menos você estivesse aqui. Você era meu fulcro, a peça que me dava equilíbrio. A voz que me guiou enquanto eu caminhava cegamente no fio de uma mente de minha própria costura. Mas essa peça foi desalojada no dia em que seus olhos se fecharam."
+	"MailBody4B"	"Para onde este caminho leva, Helen, Eu me pergunto. Esta missão que era tudo sobre o avanço de nossa espécie, a humanidade como um 'um e todo'. Então logo todos esperavam que eu desse respostas para todas as coisas, a substância da qual eu estava improvisando cada vez mais com o passar dos dias. E agora, o peso da responsabilidade por uma descoberta tão excepcional, recai exclusivamente sobre mim. Eu, uma única parte de duas mentes, devo extrair respostas quanto à existência de uma nova vida entre nós... Vesta... Helen. Se ao menos você estivesse aqui. Você era meu fulcro, a peça que me dava equilíbrio. A voz que me guiou enquanto eu caminhava cegamente no fio de uma mente de minha própria costura. Mas essa peça foi desalojada no dia em que seus olhos se fecharam."
 	"MailBody4C"	"Então Eu agi com minhas próprias mãos, do jeito que eu achei adequado. Eu me recuso a ficar nas mãos da Syntek ou de qualquer outro. Quando percebi que dentro dessa descoberta poderia estar contida até mesmo a menor chance de impulsionar nossa compreensão das células cancerígenas e sua conexão com a fisiologia humana, Eu fui e matei todas as dúvidas que eu nutria. Como cientista, qual seria minha vocação senão precisamente essa? Eu deveria ter renunciado a esta oportunidade real de progresso e cedido a eles? Confiar tal descoberta a um lobby de ratos corporativos vestidos com casacos imaculados para que eles pudessem, de alguma forma, transformá-lo em um lucro tão ridículo que seria repugnantemente deformado para ser vendido aos poderosos, concedido a um preço que ninguém, exceto os mais ricos dos Núcleos, poderiam esperar poupar? Ou, deixá-los fazer ainda pior... e para quê? Para que incontáveis outros possam novamente perder esposas, maridos, irmãos e irmãs, para uma das doenças mais terríveis e intoleráveis da história humana?"
-	"MailBody4D"    "Não. Eu fiz minha escolha. Deixe todos eles me chamarem de louco."
+	"MailBody4D"	"Não. Eu fiz minha escolha. Deixe todos eles me chamarem de louco."
 }

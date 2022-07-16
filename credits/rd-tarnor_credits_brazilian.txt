@@ -1,7 +1,7 @@
 "Credits"
 {
 // these keys must be in this order!
-"show_credits_logo" "1"
+"show_credits_logo"	"1"
 "custom_logo"	"rd-tarnor_logo"
 "asw_credits_"	"Lágrimas para Tarnor, Capítulo 1: Inserção, v1.0"
 "asw_credits_"	""

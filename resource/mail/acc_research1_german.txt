@@ -1,6 +1,6 @@
 GAME
 {
-   	"MailFrom1"	"An: Brad Irwing"
+	"MailFrom1"	"An: Brad Irwing"
 	"MailDate1"	"Datum: 04/02/31"
 	"MailSubject1"	"Betreff: ANTWORTE MIR! &VERSTECKT"
 	"MailBody1A"	"Warum bist du geflohen? Was ist passiert? SAGE ES MIR! Ist dir klar, dass du das nicht tun kannst? Kapitän Bark und der Chefarzt suchen nach dir und sie sind nicht glücklich. Der Chefarzt reagiert sehr aggressiv auf meine Fragen, vielleicht verbirgt er etwas? Eigentlich verhalten sich alle seltsam."

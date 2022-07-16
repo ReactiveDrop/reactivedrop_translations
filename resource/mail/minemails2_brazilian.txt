@@ -1,7 +1,7 @@
 GAME
 {
-    // PDA pertence ao Ten. Cain
-    
+	// PDA pertence ao Ten. Cain
+
 	"MailFrom1"	"De: Laura Callen"
 	"MailDate1"	"Data: 24/12/52"
 	"MailSubject1"	"Assunto: É isso mesmo?"

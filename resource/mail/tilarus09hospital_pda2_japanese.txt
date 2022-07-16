@@ -12,7 +12,7 @@
 	"MailBody1D"	"フォスター博士より"
 
 	// sent mail
-	"MailFrom3" 	"宛先: フォスター博士"
+	"MailFrom3"	"宛先: フォスター博士"
 	"MailDate3"	"送信日時: 46年3月13日"
 	"MailSubject3"	"件名: Re: 投薬"
 	"MailBody3A"	"それには同意する。"

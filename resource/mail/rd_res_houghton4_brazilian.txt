@@ -1,11 +1,11 @@
 GAME
 {
 
-"MailFrom1" "De: Comandante Houghton"
-"MailDate1" "Data: 30/12/52"
-"MailSubject1" "Assunto: Operação Erradicação"
-"MailBody1A" "Interessante, parece que a infestação pode ser mais profunda do que pensavamos inicialmente."
-"MailBody1B" "De acordo com informações de Vereon XII, os parasítas do enxame gostam de umidade."
-"MailBody1C" "As cavernas à frente podem estar infestada deles."
-"MailBody1D" "Câmbio desligo."
+"MailFrom1"	"De: Comandante Houghton"
+"MailDate1"	"Data: 30/12/52"
+"MailSubject1"	"Assunto: Operação Erradicação"
+"MailBody1A"	"Interessante, parece que a infestação pode ser mais profunda do que pensavamos inicialmente."
+"MailBody1B"	"De acordo com informações de Vereon XII, os parasítas do enxame gostam de umidade."
+"MailBody1C"	"As cavernas à frente podem estar infestada deles."
+"MailBody1D"	"Câmbio desligo."
 } 

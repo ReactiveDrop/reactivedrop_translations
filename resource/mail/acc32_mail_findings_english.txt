@@ -1,6 +1,6 @@
 GAME
 {
-   	"MailFrom1"	"From: Operation News [Kyle]"
+	"MailFrom1"	"From: Operation News [Kyle]"
 	"MailDate1"	"Date: Nov 22, 2232"
 	"MailSubject1"	"Subject: Some Insight"
 	"MailBody1A"	"Hello, today Tio Rinto, a mining company, has sent us some of their logs of what seems to be a similar rock. They have encountered a similar rock 43 years ago in their mining expeditions."

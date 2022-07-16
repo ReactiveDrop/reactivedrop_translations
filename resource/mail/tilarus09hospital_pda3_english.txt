@@ -6,7 +6,7 @@ GAME
 	"MailFrom3"	"To: Andrew Ward"
 	"MailDate3"	"Date: 3/16/46"
 	"MailSubject3"	"Subject: Need Help"
-	"MailBody3A" 	"Andrew,"
+	"MailBody3A"	"Andrew,"
 	"MailBody3B"	"As this hospital's head of security, it's your job to contain this sort of thing."
 	"MailBody3C"	"We've isolated the aggressive specimens at the lowest levels of the facility. We're not sure how much longer we can keep them down there."
 	"MailBody3D"	"Find a solution!"

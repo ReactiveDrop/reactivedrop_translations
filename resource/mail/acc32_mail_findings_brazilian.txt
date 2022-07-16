@@ -1,6 +1,6 @@
 GAME
 {
-   	"MailFrom1"	"De: Notícias da Operação [Kyle]"
+	"MailFrom1"	"De: Notícias da Operação [Kyle]"
 	"MailDate1"	"Data: 22/11/32"
 	"MailSubject1"	"Assunto: Algumas Informações dos Bastidores"
 	"MailBody1A"	"Olá, hoje a empresa de mineração Tio Rinto nos enviou alguns de seus registros do que parece ser uma rocha semelhante. Eles encontraram uma rocha semelhante há 43 anos em suas expedições de mineração."

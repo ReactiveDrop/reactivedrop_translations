@@ -1,6 +1,6 @@
 GAME
 {
-   	"MailFrom1"	"From: Operation News [Jose Dunclub]"
+	"MailFrom1"	"From: Operation News [Jose Dunclub]"
 	"MailDate1"	"Date: Oct 15th, 2232"
 	"MailSubject1"	"Subject: Mining Operations"
 	"MailBody1A"	"Glenkor's radiation readings were correct. We have found an abnormal amount of radiation in a cave below a canal to the east of J7 Connector."
