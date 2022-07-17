@@ -9,7 +9,7 @@ GAME
 	"MailSubject1"	"Assunto: Todo trabalho e nenhuma diversão"
 	"MailBody1A"	"Ei Junito, parece que Campbell quer que façamos hora extra. Ele colocou você para pesquisar nos Setores 12-18 também?"
 
-    "MailFrom2"	"De: Vincent Baker"
+	"MailFrom2"	"De: Vincent Baker"
 	"MailDate2"	"Data: 18/12/52"
 	"MailSubject2"	"Assunto: Re:Re: Todo trabalho e nenhuma diversão."
 	"MailBody2A"	"Juan,"
