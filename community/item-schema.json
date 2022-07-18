@@ -617,6 +617,18 @@
 			"item_slot": "medal"
 		},
 		{
+			"itemdefid": 100000000,
+			"type": "item",
+			"name_english": "Test Item 100m",
+			"description_english": "Test item, ignore this; %m_unQuantity:test%; translators, do not translate any of this item's strings.",
+			"display_type_english": "placeholder",
+			"icon_url": "https://stats.reactivedrop.com/static/medals/error.png",
+			"icon_url_small": "https://stats.reactivedrop.com/static/medals/error_small.png",
+			"tradable": false,
+			"marketable": false,
+			"workshopid": "868090182"
+		},
+		{
 			"itemdefid": 900000000,
 			"type": "item",
 			"name_arabic": "بن لوبار",
