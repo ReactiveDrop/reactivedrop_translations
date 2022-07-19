@@ -2,11 +2,11 @@ GAME
 {
 	// PDA bpertence ao supervisor Ross
 
-    "MailFrom1"	"De: Comandante Harold"
-    "MailDate1"	"Data: 02/03/54"
-    "MailSubject1"	"Assunto: Evacuação"
-    "MailBody1A"	"Droga Ross, Eu queria que você não estivesse certo"
-    "MailBody1B"	"Mas estou feliz por termos decidido seguir seu conselho, Como você sabe, a evacuação já está em andamento."
-    "MailBody1c"	"Tire você e sua equipe do inferno da baía 7 e vá até a cidade do amanhecer"
-    "MailBody1d"	"Boa sorte velho amigo"
+	"MailFrom1"	"De: Comandante Harold"
+	"MailDate1"	"Data: 02/03/54"
+	"MailSubject1"	"Assunto: Evacuação"
+	"MailBody1A"	"Droga Ross, Eu queria que você não estivesse certo"
+	"MailBody1B"	"Mas estou feliz por termos decidido seguir seu conselho, Como você sabe, a evacuação já está em andamento."
+	"MailBody1c"	"Tire você e sua equipe do inferno da baía 7 e vá até a cidade do amanhecer"
+	"MailBody1d"	"Boa sorte velho amigo"
 }
