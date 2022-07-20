@@ -9,7 +9,7 @@
 "asw_credits_"	"wnrvids@hotmail.co.uk"
 "asw_credits_"	"请将 RC7 加入邮件主题"
 "asw_credits_"	""
-"asw_credits_"	"感谢 Alan, Jamie, and Matt"
+"asw_credits_"	"感谢 Alan、Jamie，和 Matt"
 "asw_credits_"	"感谢他们在测试期间的帮助。"
 "asw_credits_"	"感谢steam论坛的成员"
 "asw_credits_"	"感谢他们的帮助和支持。"
