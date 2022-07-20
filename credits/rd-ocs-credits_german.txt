@@ -3,7 +3,7 @@
 // these keys must be in this order!
 "show_credits_logo"	"0"
 //"custom_logo"	"ExampleCustomLogo/example_custom_logo"
-"asw_credits_"	"OPERATION CLEANSWEEP"
+"asw_credits_"	"Operation Säuberung"
 "asw_credits_"	""
 "asw_credits_"	"Gestaltung"
 "asw_credits_"	"Steve76"

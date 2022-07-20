@@ -6461,7 +6461,7 @@
 "[english]rd_entrymission_brief_jacob"		"Atmospheric reports show nominal weather patterns at this location.  Dropship Bloodhound will enter atmosphere at these co-ordinates and proceed to primary objective."
 "rd_mission_title_asi-jac1-landingbay_01"		"Landungsbucht"
 "[english]rd_mission_title_asi-jac1-landingbay_01"		"Landing Bay"
-"rd_mission_title_asi-jac1-landingbay_pract"		"Offline-Übung"
+"rd_mission_title_asi-jac1-landingbay_pract"		"Ausbildung"
 "[english]rd_mission_title_asi-jac1-landingbay_pract"		"Offline Practice"
 "rd_mission_loc_asi-jac1-landingbay_01"		"Landungsbucht"
 "[english]rd_mission_loc_asi-jac1-landingbay_01"		"Landing bay"
