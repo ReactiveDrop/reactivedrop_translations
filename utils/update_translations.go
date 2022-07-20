@@ -62,7 +62,6 @@ var txtLanguageFiles = [...]string{
 }
 
 var vdfLanguageFiles = [...]string{
-	"../community/points_shop",
 	"../community/statsweb",
 }
 
