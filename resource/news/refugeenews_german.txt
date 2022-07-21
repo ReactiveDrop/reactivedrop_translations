@@ -4,6 +4,6 @@ GAME
 "HeadlineDate"	"12/18/52"
 "Paragraph1"	"Versprengte Gruppen von Flüchtlingen treffen weiterhin in der S-N5-Konstellation am Rande des Paradies-Raums ein.  Seit die Angriffe des Schwarms im letzten Monat eine Reihe unabhängiger Kolonien zerstört haben, kommen immer wieder Überlebende in das System."
 "Paragraph2"	"Es wird vermutet, dass die Angriffe von den Anhavener Ruinen ausgingen, aber viele Analysten sind besorgt, dass die Schwarmangriffe so tief in den Allianzraum vorgedrungen sind.  Dies könnte der Vorläufer eines größeren Angriffs sein, der sogar die Kernsysteme erreichen könnte, sagt Dr. McArthur, ein bekannter Analyst der Schwarmbewegungen."
-"Paragraph3"	"Ein Offizier von Paradise Supplies hat die IA um Unterstützung im Umgang mit den Flüchtlingen gebeten, hat ihnen aber großzügigerweise alle Paradise-Arbeitsverträge innerhalb der Kolonien angeboten."
+"Paragraph3"	"Ein Offizier von Paradies Nachschub hat die IA um Unterstützung im Umgang mit den Flüchtlingen gebeten, hat ihnen aber großzügigerweise alle Paradies-Arbeitsverträge innerhalb der Kolonien angeboten."
 "Paragraph4"	""
 }
