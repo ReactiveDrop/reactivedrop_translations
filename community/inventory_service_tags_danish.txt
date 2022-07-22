@@ -1,0 +1,9 @@
+rarity		Sjældenhed
+	common		Almindelig
+	uncommon		Ualmindelig
+	rare		Sjælden
+	legendary		Legendarisk
+	genuine		
+	strange		
+slot		
+	medal		

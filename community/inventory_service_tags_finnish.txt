@@ -1,0 +1,9 @@
+rarity		Harvinaisuus
+	common		Yleinen
+	uncommon		Tavaton
+	rare		Harvinainen
+	legendary		Tarunhohtoinen
+	genuine		
+	strange		
+slot		
+	medal		

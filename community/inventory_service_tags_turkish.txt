@@ -1,0 +1,9 @@
+rarity		Nadirlik
+	common		Yaygın
+	uncommon		Seyrek
+	rare		Nadir
+	legendary		Destansı
+	genuine		
+	strange		
+slot		
+	medal		
