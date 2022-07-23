@@ -1,0 +1,9 @@
+rarity		稀有度
+	common		普通
+	uncommon		特別
+	rare		稀有
+	legendary		傳奇
+	genuine		
+	strange		
+slot		
+	medal		

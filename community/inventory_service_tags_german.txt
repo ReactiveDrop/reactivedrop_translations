@@ -1,0 +1,9 @@
+rarity		Seltenheit
+	common		Gewöhnlich
+	uncommon		Ungewöhnlich
+	rare		Rare
+	legendary		Legendär
+	genuine		
+	strange		
+slot		
+	medal		Medaille
