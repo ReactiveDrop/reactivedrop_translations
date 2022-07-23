@@ -1,0 +1,9 @@
+rarity		Редкость
+	common		Обычное
+	uncommon		Необычное
+	rare		Редкое
+	legendary		Легендарное
+	genuine		
+	strange		
+slot		Слот
+	medal		Медаль

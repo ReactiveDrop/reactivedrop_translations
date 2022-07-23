@@ -1,0 +1,9 @@
+rarity		Raritate
+	common		Obișnuit
+	uncommon		Neobișnuit
+	rare		Rar
+	legendary		Legendar
+	genuine		
+	strange		
+slot		
+	medal		

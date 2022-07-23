@@ -1,0 +1,9 @@
+rarity		Raridade
+	common		Comum
+	uncommon		Invulgar
+	rare		Raro
+	legendary		Lendário
+	genuine		
+	strange		
+slot		
+	medal		
