@@ -5507,7 +5507,7 @@
 "[english]rd_flashlight_not_allowed"		"This server or game mode doesn't allow to toggle flashlight for marines."
 "rd_flashlight_toggle"		"Taschenlampe"
 "[english]rd_flashlight_toggle"		"Flashlight"
-"asw_iafranks"		"HELDEN DER INTERSTELLAREN STREITKRÄFTE"
+"asw_iafranks"		"HELDEN DER IAF"
 "[english]asw_iafranks"		"IAF RANKS"
 "asw_iaf_heroes_title"		"Helden der interstellaren Streitkräfte"
 "[english]asw_iaf_heroes_title"		"Heroes of the Interstellar Armed Forces"
