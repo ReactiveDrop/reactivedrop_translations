@@ -1,9 +1,9 @@
 rarity		Seltenheit
 	common		Gewöhnlich
 	uncommon		Ungewöhnlich
-	rare		Rare
+	rare		Selten
 	legendary		Legendär
-	genuine		
-	strange		
+	genuine		Authentisch
+	strange		Seltsam
 slot		
 	medal		Medaille
