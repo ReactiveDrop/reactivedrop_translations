@@ -798,6 +798,8 @@
 "asw_player_disco"	"%s1 has disconnected."
 "asw_player_list_leader_check"	"Make leader"
 "asw_player_list_mute_check"	"Mute"
+"asw_player_list_name_leader"	"%s1 (leader)"
+"asw_player_list_ping_bot"	"BOT" // shown in place of ping for bots
 "asw_kicked_by_vote"	"Kicked by player vote."
 "asw_commander_medals"	"Commander Medals:"
 "asw_nco_medals"	"NCO Medals:"
