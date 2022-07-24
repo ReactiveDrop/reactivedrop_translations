@@ -2,6 +2,8 @@ Short Description:
 
 Kooperativer Top-Down Shooter. Eine epische Alienjagd mit einer einzigartigen Mischung aus Koop-Spiel und Taktik auf Gruppenebene.
 
+---
+
 About This Game:
 
 Alien Swarm: Reactive Drop ist eine alleinstehende Erweiterung von Alien Swarm, mit einfach mehr von allem: Karten, Aliens, Spielmodi, Waffen... und am allerwichtigsten: Steam Workshop Unterstützung um es durch die Community unendlich erweitern zu können.
@@ -27,4 +29,12 @@ Pentium 4 oder neuer
 DirectX 9 kompatible Grafikkarte mit 128 MB, Shader model 2.0. ATI X800, NVidia 6600 oder besser
 DirectX 9.0c kompatible Soundkarte
 Der benötigte Speicherplatz hängt von den installierten Workshop-Addons ab.
+
+---
+
+Mature Content:
+
+Der Hauptteil des Spiels besteht darin, außerirdische Käfer mit Waffen zu töten. Die Aliens explodieren in Blut und Blutlachen, wenn sie getötet werden. In einigen Missionen sind blutige menschliche Leichen zu finden, aber es werden keine Menschen zerstückelt.
+Schimpfwörter wie "Scheiße" werden in gesprochenen Dialogen verwendet.
+Warnung vor Photosensibilität: Es gibt einige von der Community erstellte Einsätze, die einen Stroboskop-Lichteffekt verwenden.
 
