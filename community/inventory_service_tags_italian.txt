@@ -5,5 +5,5 @@ rarity		Rarità
 	legendary		Leggendario
 	genuine		Genuino
 	strange		Strano
-slot		
+slot		Slot
 	medal		Medaglia
