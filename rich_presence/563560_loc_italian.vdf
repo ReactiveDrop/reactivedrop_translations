@@ -4,7 +4,7 @@
 	"Tokens"
 	{
 		"#Main_Menu"	"Menu Principale"
-		"#Watching_a_Demo"	"Guardando una Demo"
+		"#Watching_a_Demo"	"Guarda una Demo"
 		"#Briefing_Campaign"	"{#Briefing_Generic}: %rd_campaign% - %rd_mission%"
 		"#Deathmatch_DM_Campaign"	"%rd_mission%, {#Deathmatch_DM_Generic}, %num_players%/%max_players%"
 		"#Deathmatch_TDM_Campaign"	"%rd_mission%, {#Deathmatch_TDM_Generic}, %num_players%/%max_players%"
