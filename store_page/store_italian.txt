@@ -26,7 +26,7 @@ System Requirements:
 
 Windows® XP o successivo
 Pentium 4 o più recente
-Scheda video compatibile con DirectX 9 da 128 MB, Shader model 2.0. ATI X800, NVidia 6600 o migliore
+Scheda video da 128 MB compatibile con DirectX 9, Shader model 2.0. ATI X800, NVidia 6600 o migliore
 Scheda audio compatibile con DirectX 9.0c
 Lo spazio su disco richiesto dipende dagli addon del Workshop installati.
 
