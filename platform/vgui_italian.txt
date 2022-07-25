@@ -101,7 +101,7 @@
 "[english]vgui_TimeLeftSecondsRemaining"		"%s1 seconds remaining"
 "vgui_TimeLeftSecondRemaining"		"Manca %s1 secondo"
 "[english]vgui_TimeLeftSecondRemaining"		"%s1 second remaining"
-"vgui_CreateDirectoryFail_Title"		"Crea directory: errore"
+"vgui_CreateDirectoryFail_Title"		"Crea directory - Errore"
 "[english]vgui_CreateDirectoryFail_Title"		"Create Directory - Error"
 "vgui_CreateDirectoryFail_Info"		"Creazione directory non riuscita, il drive è in sola lettura."
 "[english]vgui_CreateDirectoryFail_Info"		"Failed to create directory, drive is read-only."
