@@ -236,7 +236,7 @@ func loadTranslatedStrings(filename, lang string) (map[string]translatedString, 
 		return nil, fmt.Errorf("expected file to start with \"lang\"")
 	}
 
-	s, t, _, err = nextRealToken(r)
+	_, t, _, err = nextRealToken(r)
 	if err != nil {
 		return nil, err
 	}
@@ -272,7 +272,7 @@ func loadTranslatedStrings(filename, lang string) (map[string]translatedString, 
 		return nil, fmt.Errorf("expected \"Tokens\"")
 	}
 
-	s, t, _, err = nextRealToken(r)
+	_, t, _, err = nextRealToken(r)
 	if err != nil {
 		return nil, err
 	}
