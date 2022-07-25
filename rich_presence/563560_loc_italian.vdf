@@ -15,7 +15,7 @@
 		"#Campaign_Difficulty"	"%rd_mission%, {#Difficulty_%rd_difficulty%}, %num_players%/%max_players%"
 		"#Campaign_Difficulty_Challenge"	"%rd_mission%, {#Difficulty_%rd_difficulty%}, %num_players%/%max_players%, %rd_challenge%"
 		"#Debrief_Campaign"	"{#Debrief_Generic}: %rd_campaign% - %rd_mission%"
-		"#Briefing_Generic"	"Briefing Missione"
+		"#Briefing_Generic"	"Briefing"
 		"#Deathmatch_DM_Generic"	"Deathmatch"
 		"#Deathmatch_TDM_Generic"	"Deathmatch a Squadre"
 		"#Deathmatch_GG_Generic"	"Gioco delle Armi"
