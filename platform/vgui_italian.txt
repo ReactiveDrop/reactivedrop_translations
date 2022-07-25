@@ -21,7 +21,7 @@
 "[english]FileOpenDialog_Look_in"		"Look in:"
 "FileOpenDialog_File_Name"		"Nome file:"
 "[english]FileOpenDialog_File_Name"		"File name:"
-"FileOpenDialog_Directory_Name"		"Nome percorso:"
+"FileOpenDialog_Directory_Name"		"Nome cartella:"
 "[english]FileOpenDialog_Directory_Name"		"Directory name:"
 "FileOpenDialog_File_Type"		"Tipo file:"
 "[english]FileOpenDialog_File_Type"		"File type:"
