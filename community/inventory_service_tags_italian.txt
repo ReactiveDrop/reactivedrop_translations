@@ -3,7 +3,7 @@ rarity		Rarità
 	uncommon		Non comune
 	rare		Raro
 	legendary		Leggendario
-	genuine		
-	strange		
+	genuine		Genuino
+	strange		Strano
 slot		
-	medal		
+	medal		Medaglia
