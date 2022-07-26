@@ -4271,7 +4271,7 @@
 "[english]RD_INSANE_CAMPAIGN_TFT_DESC"		"Complete the Tears for Tarnor campaign on Insane difficulty or harder."
 "RD_IMBA_CAMPAIGN_TFT_DESC"		"Completa la campagna Lacrime per Tarnor, a difficoltà Brutale."
 "[english]RD_IMBA_CAMPAIGN_TFT_DESC"		"Complete the Tears for Tarnor campaign on Brutal difficulty."
-"RD_EASY_CAMPAIGN_TIL_DESC"		"Completa la campagna Tilarus-5, a difficoltà Facile o superiore.."
+"RD_EASY_CAMPAIGN_TIL_DESC"		"Completa la campagna Tilarus-5, a difficoltà Facile o superiore."
 "[english]RD_EASY_CAMPAIGN_TIL_DESC"		"Complete the Tilarus-5 campaign on Easy difficulty or harder."
 "RD_NORMAL_CAMPAIGN_TIL_DESC"		"Completa la campagna Tilarus-5, a difficoltà Normale o superiore."
 "[english]RD_NORMAL_CAMPAIGN_TIL_DESC"		"Complete the Tilarus-5 campaign on Normal difficulty or harder."
