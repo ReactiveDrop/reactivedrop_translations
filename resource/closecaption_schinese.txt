@@ -3,8 +3,8 @@
 "Language"		"schinese"
 "Tokens"
 {
-		"testcommands"		"<clr:255,0,0>This is red<I> and italics<B> and<cr>bold<B><I><clr:255,255,255> white again."
-		"[english]testcommands"		"<clr:255,0,0>This is red<I> and italics<B> and<cr>bold<B><I><clr:255,255,255> white again."
+"testcommands"		"<clr:255,0,0>这是红色<I> 且是斜体<B> 以及<cr>粗体<B><I><clr:255,255,255> 再来个白色。"
+"[english]testcommands"		"<clr:255,0,0>This is red<I> and italics<B> and<cr>bold<B><I><clr:255,255,255> white again."
 "Command.co_m1_ob1"		"<clr:240,255,255>指挥官：好的，小队。我们需要查看船运清单，看看有没有幸存者成功逃出来。你们得前往着陆湾，然后找到一个可以下载运输记录的端口。我在那里与你们联络。"
 "[english]Command.co_m1_ob1"		"<clr:240,255,255>Commander: Okay, squad.  We need to check the shipping manifests to see if any survivors made it off this rock.  Make your way down to the landing bay and find a terminal where we can download the transport records.  I'll check in with you there."
 "Command.co_m1_ob2"		"<clr:240,255,255>指挥官：好吧，看来这些名单已经失效了。我猜异形来袭时，保存记录这件事被忽略了。我们得继续搜救，直至收到其他指令，所以继续去寻找幸存者。朝远方的出口前进，我们在那里会合。"
