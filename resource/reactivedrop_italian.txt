@@ -7323,7 +7323,7 @@
 "[english]rd_audio_mixer_interface_tooltip"		"Buttons in the UI."
 "rd_audio_mixer_environment_ambient_label"		"Ambiente"
 "[english]rd_audio_mixer_environment_ambient_label"		"Environment"
-"rd_audio_mixer_environment_ambient_tooltip"		"I suoni ambientali provenienti da oggetti ambientali."
+"rd_audio_mixer_environment_ambient_tooltip"		"I suoni provenienti da oggetti ambientali."
 "[english]rd_audio_mixer_environment_ambient_tooltip"		"Ambient sounds from environmental objects."
 "rd_audio_mixer_environment_physics_label"		"Impatti"
 "[english]rd_audio_mixer_environment_physics_label"		"Impacts"
