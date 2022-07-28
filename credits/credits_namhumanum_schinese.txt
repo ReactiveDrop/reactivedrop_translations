@@ -13,7 +13,7 @@
 	"asw_credits_"	"- 脚本编写 -"
 	"asw_credits_"	"Thomas (Synmachus) Lesteven"
 	"asw_credits_"	""
-	"asw_credits_"	"- 配音 -"
+	"asw_credits_"	"- 配音人员 -"
 	"asw_credits_"	"教授 朱莉·杜瓦 - Emily Sheeran"
 	"asw_credits_"	"指挥官 亚历山大·理查德 - Christian Wadley"
 	"asw_credits_"	"蛇吻号 飞行员 - Daniel Doan"
