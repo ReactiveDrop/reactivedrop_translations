@@ -933,7 +933,7 @@
 "[english]GameUI_Chapter"		"MISSION"
 "VAC_LoggedInElsewhere_Title"		"Аккаунт уже используется на другом компьютере"
 "[english]VAC_LoggedInElsewhere_Title"		"Account Used Elsewhere"
-"VAC_LoggedInElsewhereReason"		"ЭВход с этого аккаунта Steam уже осуществлён с другого компьютера. Для продолжения работы со Steam необходим повторный вход."
+"VAC_LoggedInElsewhereReason"		"Вход с этого аккаунта Steam уже осуществлён с другого компьютера. Для продолжения работы со Steam необходим повторный вход."
 "[english]VAC_LoggedInElsewhereReason"		"This Steam account has been used to log in from another computer. To continue using Steam, you need to log in again."
 "GAMEUI_Commentary"		"Комментарии"
 "[english]GAMEUI_Commentary"		"Commentary"
