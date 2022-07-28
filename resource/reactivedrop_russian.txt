@@ -5487,7 +5487,7 @@
 "[english]asw_weapon_gas_grenades_attributes"		""
 "asw_weapon_heavy_rifle"		"Тяжёлая винтовка"
 "[english]asw_weapon_heavy_rifle"		"Heavy Rifle"
-"asw_weaponl_heavy_rifle"		"Тяжёлая винтовка 22A5"
+"asw_weaponl_heavy_rifle"		"Тяж. штурмовая винтовка 22A5"
 "[english]asw_weaponl_heavy_rifle"		"22A5 Heavy Assault Rifle"
 "asw_wdesc_heavy_rifle"		"Тяжёлая штурмовая винтовка 22A5 — более крупнокалиберный вариант штурмовой винтовки 22A3-1. Разработана для более эффективной борьбы с бронированными целями. Подствольный гранатомёт заменён на функционально-форсирующий механизм, при активации который значительно увеличивает скорострельность винтовки на короткий промежуток времени."
 "[english]asw_wdesc_heavy_rifle"		"The 22A5 Heavy Assault Rifle is a larger caliber variant of 22A3-1 Assault Rifle. Designed to be more efficient against armored targets. The underslung grenade launcher is replaced with a function-augmentation mechanism which, upon activation, significantly increases rifle's fire rate for a short duration of time."
