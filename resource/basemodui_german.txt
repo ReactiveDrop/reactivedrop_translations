@@ -2721,7 +2721,7 @@
 "[english]jb_REMOVE_track"		"REMOVE MUSIC"
 "L4D360UI_ingame"		"In-game"
 "[english]L4D360UI_ingame"		"In-game"
-"L4D360UI_briefing"		"Einsatzbesprechung"
+"L4D360UI_briefing"		"Einweisung"
 "[english]L4D360UI_briefing"		"Briefing"
 "L4D360UI_MainMenu_DedicatedServerBrowser"		"Dedizierten Server finden"
 "[english]L4D360UI_MainMenu_DedicatedServerBrowser"		"Dedicated Server Browser"
