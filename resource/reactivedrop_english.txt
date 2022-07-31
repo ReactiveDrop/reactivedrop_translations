@@ -2909,6 +2909,7 @@
 "rd_flashlight_toggle"	"Flashlight"
 "asw_iafranks"	"IAF RANKS"
 "asw_iaf_heroes_title"	"Heroes of the Interstellar Armed Forces"
+"rd_inactive_kick_seconds"	"You will be disconnected due to inactivity in %s1 seconds."
 
 // Nam Humanum objectives
 "nh_logisticsarea_1_title"	"Hack through the service entrance"

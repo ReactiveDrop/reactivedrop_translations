@@ -5515,6 +5515,8 @@
 "[english]asw_iafranks"		"IAF RANKS"
 "asw_iaf_heroes_title"		"Héros des Forces Interstellaires Armées"
 "[english]asw_iaf_heroes_title"		"Heroes of the Interstellar Armed Forces"
+		"rd_inactive_kick_seconds"		"You will be disconnected due to inactivity in %s1 seconds."
+		"[english]rd_inactive_kick_seconds"		"You will be disconnected due to inactivity in %s1 seconds."
 "nh_logisticsarea_1_title"		"Hackez l'entrée de service"
 "[english]nh_logisticsarea_1_title"		"Hack through the service entrance"
 "nh_logisticsarea_1a"		"Passer par le secteur logistique vous mènera au cœur de l'installation. Le vaisseau Snakebite vous déposera non loin. En plus de notre point d'accès, votre sondage de la zone servira d'assertion initiale quant à toute potentielle menace."

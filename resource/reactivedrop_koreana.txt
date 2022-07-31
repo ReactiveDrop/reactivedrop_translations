@@ -5515,6 +5515,8 @@
 "[english]asw_iafranks"		"IAF RANKS"
 "asw_iaf_heroes_title"		"성간 군사 동맹의 영웅들"
 "[english]asw_iaf_heroes_title"		"Heroes of the Interstellar Armed Forces"
+		"rd_inactive_kick_seconds"		"You will be disconnected due to inactivity in %s1 seconds."
+		"[english]rd_inactive_kick_seconds"		"You will be disconnected due to inactivity in %s1 seconds."
 "nh_logisticsarea_1_title"		"서비스 입구를 해킹하세요"
 "[english]nh_logisticsarea_1_title"		"Hack through the service entrance"
 "nh_logisticsarea_1a"		"우리는 물류 지역이 가장 빠르고 안전한 통로라는 것을 발견했습니다. 드롭십 스네이크비트가 근처에 내려줄 겁니다. 우리의 진입 지점뿐만 아니라 이 지역에 대한 당신의 조사는 잠재적인 위협에 대한 주요 증거로 작용할 것입니다."
