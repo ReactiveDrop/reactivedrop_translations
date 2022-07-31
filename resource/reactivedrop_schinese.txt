@@ -5515,6 +5515,8 @@
 "[english]asw_iafranks"		"IAF RANKS"
 "asw_iaf_heroes_title"		"星际武装部队的英雄们"
 "[english]asw_iaf_heroes_title"		"Heroes of the Interstellar Armed Forces"
+		"rd_inactive_kick_seconds"		"You will be disconnected due to inactivity in %s1 seconds."
+		"[english]rd_inactive_kick_seconds"		"You will be disconnected due to inactivity in %s1 seconds."
 "nh_logisticsarea_1_title"		"侵入服务入口"
 "[english]nh_logisticsarea_1_title"		"Hack through the service entrance"
 "nh_logisticsarea_1a"		"我们发现物流部门是进入设施最快最安全的通道。蛇吻号飞船会把你送到附 近。作为我们的切入点，你们对该地区的调查，将作为判断任何潜在威胁的 主要依据。"

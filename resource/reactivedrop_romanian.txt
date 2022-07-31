@@ -5515,6 +5515,8 @@
 		"[english]asw_iafranks"		"IAF RANKS"
 		"asw_iaf_heroes_title"		"Heroes of the Interstellar Armed Forces"
 		"[english]asw_iaf_heroes_title"		"Heroes of the Interstellar Armed Forces"
+		"rd_inactive_kick_seconds"		"You will be disconnected due to inactivity in %s1 seconds."
+		"[english]rd_inactive_kick_seconds"		"You will be disconnected due to inactivity in %s1 seconds."
 		"nh_logisticsarea_1_title"		"Hack through the service entrance"
 		"[english]nh_logisticsarea_1_title"		"Hack through the service entrance"
 		"nh_logisticsarea_1a"		"We've found the logistics sector to be the quickest and safest passage inside the installation. Dropship Snakebite will drop you off nearby. As well as our point of entry, your survey of the area will serve as a primary assertion of any potential threat."

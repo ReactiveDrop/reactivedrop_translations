@@ -5515,6 +5515,8 @@
 "[english]asw_iafranks"		"IAF RANKS"
 "asw_iaf_heroes_title"		"Interstellar Armed Forcesの英雄たち"
 "[english]asw_iaf_heroes_title"		"Heroes of the Interstellar Armed Forces"
+		"rd_inactive_kick_seconds"		"You will be disconnected due to inactivity in %s1 seconds."
+		"[english]rd_inactive_kick_seconds"		"You will be disconnected due to inactivity in %s1 seconds."
 "nh_logisticsarea_1_title"		"搬入口をハッキングして通る"
 "[english]nh_logisticsarea_1_title"		"Hack through the service entrance"
 "nh_logisticsarea_1a"		"管理セクターが一番素早く安全に軍事施設内部に入る道だとわかった。降下艇スネークバイト号はその付近で部隊を降ろす。 出発後、調査が進めば潜在的脅威があるかといった肝心な要件は判明するだろう。"

@@ -5515,6 +5515,8 @@
 "[english]asw_iafranks"		"IAF RANKS"
 "asw_iaf_heroes_title"		"Heróis das Forças Armadas Interestelares"
 "[english]asw_iaf_heroes_title"		"Heroes of the Interstellar Armed Forces"
+		"rd_inactive_kick_seconds"		"You will be disconnected due to inactivity in %s1 seconds."
+		"[english]rd_inactive_kick_seconds"		"You will be disconnected due to inactivity in %s1 seconds."
 "nh_logisticsarea_1_title"		"Hackeie pela entrada de serviço"
 "[english]nh_logisticsarea_1_title"		"Hack through the service entrance"
 "nh_logisticsarea_1a"		"Descobrimos que o setor de logística é a passagem mais rápida e segura dentro da instalação. A Nave Snakebite irá deixá-lo nas proximidades. Além de nosso ponto de entrada, seu levantamento da área servirá como uma confirmação primária de qualquer ameaça potencial."
