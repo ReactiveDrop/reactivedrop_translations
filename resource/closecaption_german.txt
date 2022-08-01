@@ -3881,7 +3881,7 @@
 "[english]Vesta.01_05"		"<clr:234,217,245><B>???:<B> Leave. Or join."
 "Vesta.02_05"		"<clr:234,217,245><B>???:<B> Verlass unser Zuhause!"
 "[english]Vesta.02_05"		"<clr:234,217,245><B>???:<B> Leave our home."
-"Vesta.03_11"		"<clr:234,217,245><B>???:<B> Vesta... Leben."
+"Vesta.03_11"		"<clr:234,217,245><B>???:<B> Vesta... lebt."
 "[english]Vesta.03_11"		"<clr:234,217,245><B>???:<B> Vesta...lives."
 }
 }
