@@ -463,7 +463,7 @@
 "[english]asw_hacking_tumbler_rejected_7"		"ERROR: ROOT PRIVILEGES REJECTED BY INNER NETWORK HUB. ERRCODE 81."
 "asw_hacking_tumbler_rejected_8"		"ERRO: PRIVILÉGIOS DE ROOT REJEITADOS PELO KERNEL DO SO. ERRCODE 904."
 "[english]asw_hacking_tumbler_rejected_8"		"ERROR: ROOT PRIVILEGES REJECTED BY OS KERNEL. ERRCODE 904."
-"asw_computer_insufficient_rights"		"Direitos insuficientes para acessar este \\Nterminal da Megacorporaçao SynTek. Esta tentativa de acesso\ne seu ID do Transponder foram registrados\npara revisão pelo pessoal da Segurança SynTek."
+"asw_computer_insufficient_rights"		"Direitos insuficientes para acessar este\nterminal da Megacorporaçao SynTek. Esta tentativa de acesso\ne seu ID do Transponder foram registrados\npara revisão pelo pessoal da Segurança SynTek."
 "[english]asw_computer_insufficient_rights"		"Insufficient rights to access this SynTek\nMegacorporation terminal.  This access attempt\nand your Transponder ID have been logged\nfor review by SynTek Security personnel."
 "asw_computer_access_denied"		"ACCESS\nDENIED"
 "[english]asw_computer_access_denied"		"ACCESS\nDENIED"
