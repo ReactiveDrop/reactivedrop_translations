@@ -5515,7 +5515,7 @@
 "[english]asw_iafranks"		"IAF RANKS"
 "asw_iaf_heroes_title"		"Interstellar Armed Forcesの英雄たち"
 "[english]asw_iaf_heroes_title"		"Heroes of the Interstellar Armed Forces"
-"rd_inactive_kick_seconds"		"あと%s1で放置プレイヤーとして切断されます。"
+"rd_inactive_kick_seconds"		"あと%s1秒で放置プレイヤーとして切断されます。"
 "[english]rd_inactive_kick_seconds"		"You will be disconnected due to inactivity in %s1 seconds."
 "nh_logisticsarea_1_title"		"搬入口をハッキングして通る"
 "[english]nh_logisticsarea_1_title"		"Hack through the service entrance"
