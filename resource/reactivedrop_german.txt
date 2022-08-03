@@ -5687,7 +5687,7 @@
 "[english]asw_out_of_order"		"Out of soda. You happy now?"
 "t5_area9800_chapter_title"		"Findet die Königin und tötet sie"
 "[english]t5_area9800_chapter_title"		"Find the Queen and kill her"
-"t5_area9800_chapter_title_comment"		"Dekompiliert mit BSPSource v1.3.6 von area9800_lz.bsp"
+"t5_area9800_chapter_title_comment"		"Dekompiliert mit BSPSource v1.3.6 aus area9800_lz.bsp"
 "[english]t5_area9800_chapter_title_comment"		"Decompiled by BSPSource v1.3.6 from area9800_lz.bsp"
 "t5_area9800_chapter_title_message"		"Die Alien Königin"
 "[english]t5_area9800_chapter_title_message"		"The Alien Queen"
