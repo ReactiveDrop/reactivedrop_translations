@@ -3967,7 +3967,7 @@
 "[english]ASW_KILL_GRIND_2_NAME"		"Another Bughunt"
 "ASW_KILL_GRIND_3_NAME"		"Tötet sie alle"
 "[english]ASW_KILL_GRIND_3_NAME"		"Kill Them All"
-"ASW_KILL_GRIND_4_NAME"		"Orbitaler Nuklearangriff"
+"ASW_KILL_GRIND_4_NAME"		"Orbitalschlag"
 "[english]ASW_KILL_GRIND_4_NAME"		"Nuke From Orbit"
 "ASW_SPEEDRUN_LANDING_BAY_NAME"		"Speedrun: Landungsbucht"
 "[english]ASW_SPEEDRUN_LANDING_BAY_NAME"		"Landing Bay Speed Run"
