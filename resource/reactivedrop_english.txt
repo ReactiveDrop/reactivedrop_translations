@@ -2587,9 +2587,6 @@
 "asw_chat_died"	"%s1 was killed in action!"
 
 // Area9800 strings
-"rd_area9800WL_chapter_title"	"Wastelands Hell on this Rock"
-"rd_area9800WL_chapter_title_message"	"Wastelands"
-
 "rd_area9800LZ_ob_destroy"	"Secure the hangar"
 "rd_area9800LZ_ob_destroy_d"	"We lost contact with Area9800. Secure the hangar and Investigate for possible anomalies."
 "rd_area9800LZ_ob_bridge"	"Activate the bridge"
@@ -3009,10 +3006,6 @@
 "asw_complete_objective_first"	"Complete other objectives first before proceeding here."
 "asw_activate_generators_first"	"No power. Activate the generators first."
 "asw_out_of_order"	"Out of soda. You happy now?"
-
-"t5_area9800_chapter_title"	"Find the Queen and kill her"
-"t5_area9800_chapter_title_comment"	"Decompiled by BSPSource v1.3.6 from area9800_lz.bsp"
-"t5_area9800_chapter_title_message"	"The Alien Queen"
 
 "t5_area9800_1_title"	"Clear the Hangar"
 "t5_area9800_1a"	"Kill everything that ain\'t human"
