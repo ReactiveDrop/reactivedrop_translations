@@ -1,0 +1,25 @@
+GAME
+{
+	// PDA belongs to Dr.Kennett
+
+	"MailFrom1"	"发件人：L.吉尔摩博士"
+	"MailDate1"	"日期：3/17/46"
+	"MailSubject1"	"主题：勇敢的安全主管"
+	"MailBody1A"	"肯尼特！"
+	"MailBody1B"	"实验体已经突破了安全小组的封锁！"
+	"MailBody1C"	"安全主管正试图通过传送器逃跑。从自己的地盘逃跑。可悲。他打算去哪里？"
+	"MailBody1D"	"我们得做点什么，而且要快。"
+
+	"MailFrom2"	"发件人：L.吉尔摩博士"
+	"MailDate2"	"日期：3/17/46"
+	"MailSubject2"	"主题：？？？"
+	"MailBody2A"	"你为什么不回答我？！"
+
+	"MailFrom3"	"收件人：L.吉尔摩博士"
+	"MailDate3"	"日期：3/17/46"
+	"MailSubject3"	"主题：救命！"
+	"MailBody3A"	"莉莉！"
+	"MailBody3B"	"实验体无处不在！"
+	"MailBody3C"	"我在停电前躲到一个储藏室里；现在我被困住了。我只希望那些该死的实验体别进来。"
+	"MailBody3D"	"一切都没有意义了。必须从这里出去，并把这个综合体摧毁。"
+}

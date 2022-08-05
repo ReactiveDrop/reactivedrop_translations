@@ -1,0 +1,12 @@
+GAME
+{
+	// PDA belongs to John Wisher	
+
+	"MailFrom1"	"发件人：凯特·维希"
+	"MailDate1"	"日期：10/13/52"
+	"MailSubject1"	"主题：在那里发生了什么？"
+	"MailBody1A"	"嘿亲爱的！"
+	"MailBody1B"	"我现在没有你的任何消息，亲爱的！里面发生了什么事？"
+	"MailBody1C"	"我联系了新特的首席人力资源官，他说我不应该担心，他们只是有一些沟通上的小问题。但是已经好几天了！"
+	"MailBody1D"	"爱你，凯特 <3"
+} 
