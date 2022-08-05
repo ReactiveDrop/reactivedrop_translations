@@ -1,0 +1,23 @@
+GAME
+{
+	// PDA belongs to Brian
+
+	// inbox
+
+	"MailFrom1"	"发件人：海伦.杨"
+	"MailDate1"	"日期：12/19/52"
+	"MailSubject1"	"主题：群居性"
+	"MailBody1A"	"虫群发现："
+	"MailBody1B"	"我们已经计算过了。所有关于生长、寿命和新陈代谢的模型，只适用于整个种群，而不是个体。"
+	"MailBody1C"	"在某种程度上，它们就像高级的蜂群昆虫，一种高级的超级有机体。遏制至关重要。"
+
+	// sent mail
+
+	"MailFrom3"	"收件人：海伦.杨"
+	"MailDate3"	"日期：12/19/52"
+	"MailSubject3"	"主题：回复：？？！"
+	"MailBody3A"	"结构化的社会性？"
+	"MailBody3B"	"在大型生物体中？我仍然持怀疑态度。"
+	"MailBody3C"	"但毫无疑问，这些虫卵很危险。我们今天发生了事故。其中一名工人被发现已死亡。"
+	"MailBody3D"	"同意遏制是至关重要的，但不要预见困难。"
+}

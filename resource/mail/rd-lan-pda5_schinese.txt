@@ -1,0 +1,17 @@
+GAME
+{
+	// PDA belongs to Leon Bishop
+
+	// inbox
+
+	"MailFrom1"	"发件人：简.阿纳特"
+	"MailDate1"	"日期：02/29/53"
+	"MailSubject1"	"主题：发现间谍了"
+	"MailBody1A"	"温顿.金是我们的叛徒，我被迫处决了他。"
+	"MailBody1B"	"他说的虫群袭击是为了转移注意力。他派他的女儿和一名安全人员，去弹头区偷我们的设计图。"
+	"MailBody1C"	"不惜一切代价阻止他们，包括他们的生命。这是命令。"
+	"MailBody1D"	"首席行政官 J.阿纳特"
+
+
+	// sent mail
+}

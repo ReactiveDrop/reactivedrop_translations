@@ -1,0 +1,31 @@
+GAME
+{
+	// PDA belongs to SysAdmin
+
+	// inbox
+
+	"MailFrom1"	"发件人：菲尔.瑞恩"
+	"MailDate1"	"日期：12/20/52"
+	"MailSubject1"	"主题：垃圾邮件！"
+	"MailBody1A"	"里韦拉先生，"
+	"MailBody1B"	"我想我代表这里所有人说话。你能不能处理一下垃圾邮件？更新收件箱过滤器或其他什么，我认为你最清楚，但看在上帝的份上，做点什么吧！上个月我每收到一件垃圾就给我五分钱，我这辈子就好过了。"
+	"MailBody1C"	"菲尔.瑞恩"
+
+	"MailFrom2"	"发件人：米勒博士"
+	"MailSubject2"	"转发：Ph4rm4 4 U"
+	"MailDate2"	"日期：12/12/52"
+	"MailBody2A"	"通过新特网合法获取所有好东西！！"
+	"MailBody2B"	"Isoth4m1ne23仅需99美元/包，全部包括。"
+	"MailBody2C"	"星际航运可用。"
+	"MailBody2D"	"Isoth4m1ne23会让你在一整天的工作中都感觉清爽、强壮、精力充沛！你的上司都在服用，你为什么不服用呢？"
+
+	// sent mail
+
+	"MailFrom3"	"收件人：菲尔.瑞恩"
+	"MailDate3"	"日期：12/20/52"
+	"MailSubject3"	"主题：回复：垃圾邮件！"
+	"MailBody3A"	"尊敬的，"
+	"MailBody3B"	"谢谢你的邮件和你对公司的关注。我们已经仔细研究了你的要求，一旦我们的代理人有空，他将被派去处理这个问题。不要回复此邮件。我们会尽快与您联系。"
+	"MailBody3C"	"新特管理部/系统管理员"
+	"MailBody3D"	"里韦拉，C."
+}
