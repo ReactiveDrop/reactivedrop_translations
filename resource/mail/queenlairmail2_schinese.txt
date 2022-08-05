@@ -1,0 +1,12 @@
+GAME
+{
+	// PDA belongs to Helen Young
+
+	"MailFrom1"	"发件人：布莱恩.豪"
+	"MailDate1"	"日期：12/24/52"
+	"MailSubject1"	"主题：弹头"
+	"MailBody1A"	"海伦，看在上帝的份上，回答我！拜托！戴夫和汤姆死了。我们没能把弹头装进隧道。我现在躲起来了，但待在这里不行。"
+	"MailBody1B"	"我只希望你没事。我有很多话想对你说。只是一直觉得时机不对。但现在……一切都出问题了。"
+	"MailBody1C"	"我爱你。"
+	"MailBody1D"	"布莱恩"
+}
