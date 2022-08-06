@@ -3747,7 +3747,7 @@
 "[english]ASW_NO_FRIENDLY_FIRE_NAME"		"Short Controlled Bursts"
 "ASW_SHIELDBUG_NAME"		"Scudo Abbassato"
 "[english]ASW_SHIELDBUG_NAME"		"Shield Down"
-"ASW_GRENADE_MULTI_KILL_NAME"		"Raggio Esplosione"
+"ASW_GRENADE_MULTI_KILL_NAME"		"Raggio dell'Esplosione"
 "[english]ASW_GRENADE_MULTI_KILL_NAME"		"Blast Radius"
 "ASW_ACCURACY_NAME"		"Tiratore Scelto"
 "[english]ASW_ACCURACY_NAME"		"Sharpshooter"
