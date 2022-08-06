@@ -3793,7 +3793,7 @@
 "[english]Duval.01_03"		"<clr:179,203,207><B>Prof. Duval:<B> Their morphologies are just...not right. This specimen…"
 "Duval.01_03_01"		"<clr:179,203,207><B>教授 杜瓦：<B> 明白。"
 "[english]Duval.01_03_01"		"<clr:179,203,207><B>Prof. Duval:<B> Understood."
-"Duval.01_04"		"<clr:179,203,207><B>教授 杜瓦：<B>查理小队，仓库的展位控制似乎没电了。在进一步安装之前，您必须重新启动它。留意附近的维护面板。"
+"Duval.01_04"		"<clr:179,203,207><B>教授 杜瓦：<B> 查理小队，仓库的展位控制似乎没电了。在进一步安装之前，您必须重新启动它。留意附近的维护面板。"
 "[english]Duval.01_04"		"<clr:179,203,207><B>Prof. Duval:<B> Charlie, it appears the warehouse's booth control is out of power. You'll have to get it back on before progressing any further inside the installation. Keep an eye out for what should be a maintenance panel in the vicinity."
 "Duval.01_05"		"<clr:179,203,207><B>教授 杜瓦：<B> 电源恢复了。干得漂亮..."
 "[english]Duval.01_05"		"<clr:179,203,207><B>Prof. Duval:<B> Power's back on. Good job..."
