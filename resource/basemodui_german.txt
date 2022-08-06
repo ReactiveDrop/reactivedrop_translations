@@ -221,7 +221,7 @@
 "[english]L4D360UI_RestartScenarioConfMsg"		"You'll have to go back to the first chapter of this campaign."
 "L4D360UI_StartNewCampaignConf"		"Bist du sicher, dass du einen neuen Feldzug starten willst?"
 "[english]L4D360UI_StartNewCampaignConf"		"Are you sure you want to start a new campaign?"
-"L4D360UI_StartNewCampaignConfMsg"		"Der gesamte Fortschritt des Teams geht dann verloren."
+"L4D360UI_StartNewCampaignConfMsg"		"Der gesamte Fortschritt des Teams geht verloren."
 "[english]L4D360UI_StartNewCampaignConfMsg"		"You and your team will lose your progress."
 "L4D360UI_MainMenu_SplitscreenDisableConf"		"Bist du sicher, dass du den Splitscreen deaktivieren willst?"
 "[english]L4D360UI_MainMenu_SplitscreenDisableConf"		"Are you sure you want to disable splitscreen?"
