@@ -45,7 +45,7 @@
 "[english]examplecampaign_ob3_killbiomass_title"		"Destroy biomass"
 "examplecampaign_ob3_killbiomass_desc"		"Findet einen Weg, die Biomasse zu zerstören"
 "[english]examplecampaign_ob3_killbiomass_desc"		"Find a way to destroy the biomass"
-"examplecampaign_ob4_killeggs_desc"		"Alle Eier zerstören"
+"examplecampaign_ob4_killeggs_desc"		"Zerstört alle Eier"
 "[english]examplecampaign_ob4_killeggs_desc"		"Destroy all eggs"
 "examplecampaign_debrief1"		"Platziere eine asw_debrief_info, um Spielern, die den Einsatz abgeschlossen haben, eine Nachricht zu zeigen."
 "[english]examplecampaign_debrief1"		"Place an asw_debrief_info to show a message to players who complete the mission."
