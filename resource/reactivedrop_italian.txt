@@ -6497,7 +6497,7 @@
 "[english]rd_mission_loc_asi-jac1-landingbay_02"		"Cargo Elevator"
 "rd_mission_desc_asi-jac1-landingbay_02"		"Procedete verso l'Ascensore da Carico per il complesso della colonia."
 "[english]rd_mission_desc_asi-jac1-landingbay_02"		"Proceed down the central Cargo Elevator to the colony complex."
-"rd_mission_brief_asi-jac1-landingbay_02"		"Proceed to the main colony complex."
+"rd_mission_brief_asi-jac1-landingbay_02"		"Procedi verso il complesso della colonia principale."
 "[english]rd_mission_brief_asi-jac1-landingbay_02"		"Proceed to the main colony complex."
 "rd_mission_title_asi-jac2-deima"		"Ponte della Superficie di Deima"
 "[english]rd_mission_title_asi-jac2-deima"		"Deima Surface Bridge"
