@@ -7455,8 +7455,6 @@
 "[english]rd_mainmenu_collections"		"COLLECTIONS"
 "rd_collection_title"		"收藏品"
 "[english]rd_collection_title"		"Collections"
-"rd_collection_equipment"		"装备"
-"[english]rd_collection_equipment"		"Equipment"
 "rd_collection_inventory_medals"		"勋章"
 "[english]rd_collection_inventory_medals"		"Medals"
 "rd_collection_inventory_error_generic"		"库存目前不可用"
@@ -7465,5 +7463,13 @@
 "[english]rd_collection_inventory_error_22"		"Loading inventory..."
 "rd_collection_inventory_item_equipped"		"该物品目前已装备"
 "[english]rd_collection_inventory_item_equipped"		"This item is currently equipped."
+		"rd_collection_weapons"		"Weapons"
+		"[english]rd_collection_weapons"		"Weapons"
+"rd_collection_equipment"		"装备"
+"[english]rd_collection_equipment"		"Equipment"
+		"rd_reach_level_to_unlock_weapon"		"Reach level %s1 to unlock \"%s2\"."
+		"[english]rd_reach_level_to_unlock_weapon"		"Reach level %s1 to unlock \"%s2\"."
+		"rd_collection_swarmopedia"		"Swarmopedia"
+		"[english]rd_collection_swarmopedia"		"Swarmopedia"
 }
 }
