@@ -643,7 +643,7 @@
 "[english]asw_weapon_details_attributes"		"Attributes"
 "asw_weapon_details_notes"		"Особенности"
 "[english]asw_weapon_details_notes"		"Notes"
-"asw_weapon_details_required_level"		"Доступна на уровне"
+"asw_weapon_details_required_level"		"Доступно на уровне"
 "[english]asw_weapon_details_required_level"		"Unlocks at level"
 "asw_weapon_details_seconds"		"сек."
 "[english]asw_weapon_details_seconds"		"Sec."
