@@ -2583,6 +2583,10 @@
 "rd_ui_4_slots_tt"	"4 players can play on this server"
 "rd_ui_8_slots"	"8 Slots"
 "rd_ui_8_slots_tt"	"8 players can play on this server"
+"rd_ui_12_slots"	"12 Slots"
+"rd_ui_12_slots_tt"	"12 players can play or spectate on this server"
+"rd_ui_16_slots"	"16 Slots"
+"rd_ui_16_slots_tt"	"16 players can play or spectate on this server"
 "rd_ui_max_players"	"MAX PLAYERS"
 "asw_chat_died"	"%s1 was killed in action!"
 
@@ -2672,11 +2676,11 @@
 "rd_res1_ob_find_bypass_gate_d"	"Burn the biomass away"
 
 "rd_res1_ob_rise_lift"	"Rise the lift"
-"rd_res1_ob_rise_lift_d"	"You\'ll need to bring that lift up, hit the switch to activate it"
+"rd_res1_ob_rise_lift_d"	"You'll need to bring that lift up, hit the switch to activate it"
 
 "rd_res1_ob_defend_generator"	"Defend the generator"
 "rd_res1_ob_defend_generator_d"	"The swarm seem to be attracted to something, defend the generator!"
-"rd_res1_ob_defend_generator_d2"	"If they damage it too much the lift won\'t reach you."
+"rd_res1_ob_defend_generator_d2"	"If they damage it too much the lift won't reach you."
 
 "rd_res1_ob_on_lift"	"Get on the lift"
 
@@ -2986,7 +2990,7 @@
 "t5_arcticinfiltration_1_title"	"Gain access into the facility"
 "t5_arcticinfiltration_1a"	"We received a distress call from a SynTek facility saying that they are under swarm attack."
 "t5_arcticinfiltration_1b"	"Proceed from the landing zone to the front entrance of the facility. Look for any survivors on your way."
-"t5_arcticinfiltration_1c"	"The temperatures are extremely cold outside and the weather isn\'t clearing anytime soon. A storm is heading your way, so you need to move quickly."
+"t5_arcticinfiltration_1c"	"The temperatures are extremely cold outside and the weather isn't clearing anytime soon. A storm is heading your way, so you need to move quickly."
 "t5_arcticinfiltration_2_title"	"Power up the generators"
 "t5_arcticinfiltration_2a"	"Our initial scans show that the facility is currently out of power. Find out what caused this and deal with it."
 "t5_arcticinfiltration_2b"	"You need to power up the generators in order to proceed any further into the facility."
@@ -3011,7 +3015,7 @@
 "asw_out_of_order"	"Out of soda. You happy now?"
 
 "t5_area9800_1_title"	"Clear the Hangar"
-"t5_area9800_1a"	"Kill everything that ain\'t human"
+"t5_area9800_1a"	"Kill everything that ain't human"
 "t5_area9800_2_title"	"Activate Bridge"
 "t5_area9800_2a"	"Find the bridge and activate it."
 "t5_area9800_3_title"	"Go to the Extraction Point"
@@ -3080,7 +3084,7 @@
 "t5_syntekhospital_2b"	"We need access to to the computer network inside that building."
 "t5_syntekhospital_2c"	"Find the generator and get those lights back on."
 "t5_syntekhospital_3_title"	"Retrieve Patient Records"
-"t5_syntekhospital_3a"	"Hack into the hospital\'s computer system."
+"t5_syntekhospital_3a"	"Hack into the hospital's computer system."
 "t5_syntekhospital_3b"	"We need you to download all of the patient records."
 "t5_syntekhospital_4_title"	"Deploy the Neurotoxin"
 "t5_syntekhospital_4a"	"We found something... extra in the patient records."
@@ -3088,16 +3092,16 @@
 "t5_syntekhospital_4c"	"There was some kind of containment breach, and apparently they were attempting to flood the building with neurotoxins."
 "t5_syntekhospital_4d"	"I guess we found out what they were trying to contain... now you need to finish releasing that neurotoxin."
 "t5_syntekhospital_5_title"	"Flood the Facility"
-"t5_syntekhospital_5a"	"Now that you\'ve pumped the neurotoxin into the hospital\'s water supply, open the floodgates to release it into the building."
+"t5_syntekhospital_5a"	"Now that you've pumped the neurotoxin into the hospital's water supply, open the floodgates to release it into the building."
 "t5_syntekhospital_5b"	"That should kill anything living in there."
 "t5_syntekhospital_6_title"	"Evacuate!"
 "t5_syntekhospital_6a"	"Get to the teleportation platform behind the facility."
-"t5_syntekhospital_6b"	"SynTek\'s experiments are coming from everywhere. Bloodhound will cover your exit."
+"t5_syntekhospital_6b"	"SynTek's experiments are coming from everywhere. Bloodhound will cover your exit."
 
 "t5_syntekhospital_hint"	"You only have 60 seconds to reach the evacuation zone! Try to keep up!"
-"t5_syntekhospital_hint2"	"Don\'t abandon the helipad, or you might miss the teleport!"
+"t5_syntekhospital_hint2"	"Don't abandon the helipad, or you might miss the teleport!"
 
-"t5_syntekhospital_debrief1"	"The complex has been destroyed, and you\'ve stopped those abominations."
+"t5_syntekhospital_debrief1"	"The complex has been destroyed, and you've stopped those abominations."
 "t5_syntekhospital_debrief2"	"Good work, marines."
 
 // BioGen Corporation strings
@@ -3110,7 +3114,7 @@
 "bio_operationx5_3a"	"Escape from the facility."
 
 "bio_operationx5_hint"	"WARNING! Unauthorized user detected. Sealing doors."
-"bio_operationx5_hint2"	"We won\'t be able to hold them off when the door breaks. We have to do something!"
+"bio_operationx5_hint2"	"We won't be able to hold them off when the door breaks. We have to do something!"
 "bio_operationx5_hint3"	"Looks like something has just opened"
 "bio_operationx5_hint4"	"Wait for the elevator."
 "bio_operationx5_hint5"	"Wait for others."
@@ -3123,7 +3127,7 @@
 "bio_invisiblethreat_hint5"	"Fan speed: 100 percent"
 "bio_invisiblethreat_hint6"	"Fan speed: 110 percent"
 "bio_invisiblethreat_hint7"	"Fan speed: 120 percent"
-"bio_invisiblethreat_hint8"	"This door is welded, but doesn\'t seem to be locked."
+"bio_invisiblethreat_hint8"	"This door is welded, but doesn't seem to be locked."
 
 "bio_biogenlabs_1_title"	"Take the antidote."
 "bio_biogenlabs_2_title"	"Find DNA sample."
@@ -3144,7 +3148,7 @@
 "bio_biogenlabs_hint9"	"DNA scanned."
 "bio_biogenlabs_hint10"	"You forgot to take the antidote! Go back."
 "bio_biogenlabs_hint11"	"You forgot to input the formula! Go back."
-"bio_biogenlabs_hint12"	"You don\'t have the formula"
+"bio_biogenlabs_hint12"	"You don't have the formula"
 "bio_biogenlabs_hint13"	"Flammable liquid is constantly leaking. You cannot extinguish this fire."
 
 // Accident 32 strings
@@ -3259,7 +3263,7 @@
 
 // Operation Cleansweep strings
 "ocs_storagefacility_1_title"	"Gain access to the storage facility."
-"ocs_storagefacility_1a"	"The main entrance to the landing bay area is overrun with infestation. Use the \'back door\' to gain access to the storage facility, that leads to the landing bays."
+"ocs_storagefacility_1a"	"The main entrance to the landing bay area is overrun with infestation. Use the 'back door' to gain access to the storage facility, that leads to the landing bays."
 "ocs_storagefacility_2_title"	"Enter the landing bay area"
 "ocs_storagefacility_2a"	"Locate the landing bay area and escape."
 
@@ -3273,7 +3277,7 @@
 
 "ocs_uscmedusa_1a"	"Destroy all alien biomass onboard the ship"
 
-"ocs_uscmedusa_2_title"	"Bring the ship\'s reactor online"
+"ocs_uscmedusa_2_title"	"Bring the ship's reactor online"
 "ocs_uscmedusa_2a"	"Locate the engine room and bring the reactor online."
 
 "ocs_uscmedusa_3_title"	"Download the flight data"
@@ -3310,16 +3314,16 @@
 "asw_gametext_tf1_desertoutpost_title"	"Chapter 1: Insertion"
 
 "tf1_abandonedmaintenance_1_title"	"Briefing"
-"tf1_abandonedmaintenance_1a"	"Having gained access to the base, it\'s time to move deeper. The swarm are on Tarnor and in high concentrations."
+"tf1_abandonedmaintenance_1a"	"Having gained access to the base, it's time to move deeper. The swarm are on Tarnor and in high concentrations."
 "tf1_abandonedmaintenance_1b"	"These old maintenance and storage sectors should connect up to the spaceport."
 "tf1_abandonedmaintenance_1c"	"Be advised that when newer facilities were constructed, these areas were left abandoned. Systems may not function properly here. Be prepared for malfunctions."
-"tf1_abandonedmaintenance_1d"	"It\'s imperative that the squad makes it to the spaceport to find out why the guidance systems are offline and to search for anyone in need of assistance."
+"tf1_abandonedmaintenance_1d"	"It's imperative that the squad makes it to the spaceport to find out why the guidance systems are offline and to search for anyone in need of assistance."
 
 "tf1_abandonedmaintenance_2_title"	"Find Access To The Spaceport"
 "tf1_abandonedmaintenance_2a"	"Explore the abandoned maintenance sector to find access to the spaceport."
 
 "tf1_abandonedmaintenance_3_title"	"Activate Backup Power Systems"
-"tf1_abandonedmaintenance_3a"	"Systems in this sector aren\'t receiving enough power to function properly."
+"tf1_abandonedmaintenance_3a"	"Systems in this sector aren't receiving enough power to function properly."
 "tf1_abandonedmaintenance_3b"	"Activating the backup power systems may restore power to some systems."
 
 "tf1_abandonedmaintenance_4_title"	"Activate The Crane"
@@ -3327,7 +3331,7 @@
 "tf1_abandonedmaintenance_4b"	"Use the crane control so that you may use the crane as a bridge."
 
 "tf1_abandonedmaintenance_5_title"	"Use The Crane As A Bridge"
-"tf1_abandonedmaintenance_5a"	"Now that you\'ve moved the crane, you can walk across it and search deeper for a power system"
+"tf1_abandonedmaintenance_5a"	"Now that you've moved the crane, you can walk across it and search deeper for a power system"
 
 "tf1_abandonedmaintenance_6_title"	"Activate Power Systems"
 "tf1_abandonedmaintenance_6a"	"Find your way to the local generator system and bring it online."
@@ -3349,10 +3353,10 @@
 
 "tf1_spaceport_3_title"	"Open the Hangar Doors"
 "tf1_spaceport_3a"	"If you are unable to open any of the hangars remotely, move onto the nearest hangar and activate the door systems locally"
-"tf1_spaceport_3b"	"The hangar\'s forcefields should protect you from catastrophic pressure variances when the doors are open."
+"tf1_spaceport_3b"	"The hangar's forcefields should protect you from catastrophic pressure variances when the doors are open."
 
 "tf1_spaceport_4_title"	"Get to the Transit System"
-"tf1_spaceport_4a"	"Make your way to the transit system station and board a train to Oasis colony\'s other sectors."
+"tf1_spaceport_4a"	"Make your way to the transit system station and board a train to Oasis colony's other sectors."
 
 "tf1_spaceport_5_title"	"Get Around the Bridge"
 "tf1_spaceport_5a"	"With the bridge down, another path to the control room must be found."
@@ -3377,13 +3381,13 @@
 "par_unexpectedencounter_debrief"	"We found no survivors. The administrative area is in the lower levels of the outpost. We should search that location for documents about recent activities."
 
 "par_hostileplaces_1_title"	"Reach administrative area"
-"par_hostileplaces_1a"	"Proceed to the administrative area to find documents relating to this outpost\'s activities."
+"par_hostileplaces_1a"	"Proceed to the administrative area to find documents relating to this outpost's activities."
 
 "par_hostileplaces_2_title"	"Restore power"
 "par_hostileplaces_2a"	"The bridge we need to cross is collapsed, and there is no power to extend it."
 "par_hostileplaces_2b"	"We need to locate the generator controls and activate power to the bridge to proceed."
 
-"par_hostileplaces_debrief"	"We have arrived at the entrance to the administrative area. Our objective is to search this area for information relating to the outpost\'s most recent activities."
+"par_hostileplaces_debrief"	"We have arrived at the entrance to the administrative area. Our objective is to search this area for information relating to the outpost's most recent activities."
 
 "par_closecontact_1_title"	"Find documents"
 "par_closecontact_1a"	"Collect important documents from this area."
@@ -3397,11 +3401,11 @@
 "par_closecontact_3_title"	"Exit the base"
 "par_closecontact_3a"	"Proceed to the surface to find the outpost's communication center."
 
-"par_closecontact_debrief1"	"Our next objective is to reach the outpost\'s communication center."
+"par_closecontact_debrief1"	"Our next objective is to reach the outpost's communication center."
 "par_closecontact_debrief2"	"As we will be exiting the structure, be prepared for sub-zero temperatures and maintain situational awareness, as threats could come from any direction."
 
 "par_hightension_1_title"	"Find communication center"
-"par_hightension_1a"	"Proceed to the outpost\'s communication center."
+"par_hightension_1a"	"Proceed to the outpost's communication center."
 "par_hightension_1b"	"We have documentation of the strange studies done by this outpost. This information should be reported to the IAF before we can request evac."
 
 "par_hightension_2_title"	"Find beacon"
@@ -4076,10 +4080,13 @@
 
 "rd_mainmenu_collections"	"COLLECTIONS"
 "rd_collection_title"	"Collections"
-"rd_collection_equipment"	"Equipment"
 "rd_collection_inventory_medals"	"Medals"
 "rd_collection_inventory_error_generic"	"Inventory currently unavailable"
 "rd_collection_inventory_error_22"	"Loading inventory..." // k_EResultPending
 "rd_collection_inventory_item_equipped"	"This item is currently equipped."
+"rd_collection_weapons"	"Weapons"
+"rd_collection_equipment"	"Equipment"
+"rd_reach_level_to_unlock_weapon"	"Reach level %s1 to unlock \"%s2\"."
+"rd_collection_swarmopedia"	"Swarmopedia"
 }
 }
