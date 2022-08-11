@@ -987,7 +987,7 @@
 "[english]L4D360UI_Lobby_Player_Left"		"%s1 left."
 "L4D360UI_GameAccess"		"游戏访问"
 "[english]L4D360UI_GameAccess"		"Game Access"
-"L4D360UI_Access_Description"		"指定你愿意一起游戏的一组队员。"
+"L4D360UI_Access_Description"		"指定你愿意一起游戏的一组士兵。"
 "[english]L4D360UI_Access_Description"		"Specify a group of people you would like to play with."
 "L4D360UI_Access_Public"		"公共游戏"
 "[english]L4D360UI_Access_Public"		"Public Game"
