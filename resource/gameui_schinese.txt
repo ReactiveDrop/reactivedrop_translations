@@ -667,7 +667,7 @@
 "[english]GameUI_MinimapClicksCheck"		"Allow minimap drawing"
 "GameUI_FullSquadCheck"		"检查全组成员"
 "[english]GameUI_FullSquadCheck"		"Check for full squad"
-"GameUI_MarineNumbersCheck"		"在主界面显示陆战队员人数"
+"GameUI_MarineNumbersCheck"		"在主界面显示士兵人数"
 "[english]GameUI_MarineNumbersCheck"		"Show marine numbers in main view"
 "GameUI_OptionsRestartRequired_Title"		"选项 - 重新启动"
 "[english]GameUI_OptionsRestartRequired_Title"		"OPTIONS - RESTART"
