@@ -4809,7 +4809,7 @@
 "[english]rd_workshop_conflict_explain"		"Some filenames in this addon match the names of different files in other addons. Only one file can be loaded for each name."
 "rd_workshop_conflict_won"		"\n- Файл «%s1» переписывает дополнение «%s2»"
 "[english]rd_workshop_conflict_won"		"\n- File \"%s1\" overrides addon \"%s2\""
-"rd_workshop_conflict_lost"		"\n- Файл «%s1» переписывается дополнением \"%s2\""
+"rd_workshop_conflict_lost"		"\n- Файл «%s1» переписывается дополнением «%s2»"
 "[english]rd_workshop_conflict_lost"		"\n- File \"%s1\" is overridden by addon \"%s2\""
 "asw_weapon_healampgun"		"Лечебно-усиливающая пушка"
 "[english]asw_weapon_healampgun"		"Medical Amplifier Gun"
