@@ -2808,7 +2808,7 @@
 "rd_so_alien_parasite"	"Parasite"
 "rd_so_alien_mortarbug"	"Mortarbug"
 "rd_so_alien_harvester"	"Harvester"
-"rd_so_alien_parasite_defanged"	"Xenomite"
+"rd_so_alien_xenomite"	"Xenomite"
 "rd_so_alien_shaman"	"Shaman"
 "rd_so_alien_biomass"	"Biomass"
 "rd_so_alien_grub"	"Grub"
@@ -2846,6 +2846,19 @@
 "rd_so_ability_razor_sharp_claws"	"Razor-Sharp Claws"
 "rd_so_ability_resistant_to_damage"	"Resistant to Damage"
 "rd_so_ability_suicide_bomber"	"Suicide Bomber"
+
+"rd_so_global_stat_loading"	"Requesting statistics from IAF Command..."
+"rd_so_global_stat_failed"	"Connection to IAF Command failed. Statistics are unavailable."
+"rd_so_global_stat_total"	"%s1 (total): %s3"
+"rd_so_global_stat_days"	"%s1 (last %s2 days): %s3"
+"rd_so_requirements_not_met"	"Data Missing"
+"rd_so_requirement_kill_this_alien"	"Not enough alien biometric data. Find and eliminate members of this species to reveal more information. (%s1%)"
+
+"rd_so_stat_killed"	"Killed"
+"rd_so_stat_killed_jumper"	"Jumpers Killed"
+"rd_so_stat_killed_uber"	"Ubers Killed"
+"rd_so_stat_killed_egg"	"Eggs Killed"
+"rd_so_stat_killed_cavern"	"Guardians Killed"
 
 "rd_so_paragraph_drone_0"	"Drones make up the bulk of the Swarm's numbers and \"manpower\". Marines can be expected to encounter several dozen of these per mission, and possibly end up killing in the region of several hundred each over the course of a campaign."
 "rd_so_paragraph_drone_1"	"Drones are weak in terms of durability, but fast, strong, and numerous. Their four massive claws can inflict horrendous injuries on marines unlucky enough to get hit. Being swarmed by Drones (especially if you have an empty gun and no backup weapon) is a surefire way to end up dead, no matter the difficulty level. A single Drone is only a minor threat to a marine and easily dispatched with gunfire or even a melee attack."
