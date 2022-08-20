@@ -2863,6 +2863,40 @@
 "rd_so_stat_killed_egg"	"Eggs Killed"
 "rd_so_stat_killed_cavern"	"Guardians Killed"
 
+"rd_so_damage_resistance_drone"	"Drones are the damage resistance baseline used in these articles.\nDamage Resistance (Uber): 12.5×"
+"rd_so_damage_resistance_biomass"	"Damage Resistance: N/A"
+"rd_so_damage_resistance_1hp"	"Damage Resistance: None"
+"rd_so_damage_resistance_10hp"	"Damage Resistance: 0.25×"
+"rd_so_damage_resistance_25hp"	"Damage Resistance: 0.63×"
+"rd_so_damage_resistance_30hp"	"Damage Resistance: 0.75×"
+"rd_so_damage_resistance_59hp"	"Damage Resistance: 1.48×"
+"rd_so_damage_resistance_101hp"	"Damage Resistance: 2.5×"
+"rd_so_damage_resistance_200hp"	"Damage Resistance: 5×"
+"rd_so_damage_resistance_350hp"	"Damage Resistance: 8.75×"
+"rd_so_damage_resistance_500hp"	"Damage Resistance: 12.5×"
+"rd_so_damage_resistance_800hp"	"Damage Resistance: 20×"
+"rd_so_damage_resistance_1000hp"	"Damage Resistance: 25×"
+
+"rd_so_tips_drone"	"IAF Fact Sheet:\n• Drones only attack with their claws. Taking them out before they reach the squad will render them harmless.\n• Certain drones have been known to leap large distances. Take extra precautions when using explosive weaponry, as targets may rapidly advance into unsafe range.\n• Drones can crawl through ducts and under scaffolding. It is sometimes possible to block the drones' points of egress, trapping them in a location where they are not a threat to marines."
+"rd_so_tips_ranger"	"" // TODO
+"rd_so_tips_shieldbug"	"" // TODO
+"rd_so_tips_boomer"	"" // TODO
+"rd_so_tips_buzzer"	"" // TODO
+"rd_so_tips_parasite"	"" // TODO
+"rd_so_tips_mortarbug"	"" // TODO
+"rd_so_tips_harvester"	"" // TODO
+"rd_so_tips_xenomite"	"" // TODO
+"rd_so_tips_shaman"	"" // TODO
+"rd_so_tips_biomass"	"" // TODO
+"rd_so_tips_grub"	"" // TODO
+"rd_so_tips_antlionguard"	"" // TODO
+
+"rd_so_author_brad_irwing"	"From the journal of Dr. Brad Irwing (AMBER)"
+"rd_so_author_bur_nable"	"From the journal of Bur Nable (Nanotrasen)"
+"rd_so_author_isaac_kleiner"	"From the journal of Dr. Isaac Kleiner (Black Mesa)"
+"rd_so_author_julie_duval"	"From the journal of Prof. Julie Duval (IAF)"
+"rd_so_author_shaun_ming"	"From the journal of Shaun Ming (SynTek)"
+
 "rd_so_paragraph_drone_0"	"" // TODO
 "rd_so_paragraph_drone_1"	"" // TODO
 "rd_so_paragraph_drone_2"	"" // TODO
