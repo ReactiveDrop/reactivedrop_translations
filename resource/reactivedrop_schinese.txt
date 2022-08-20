@@ -5412,7 +5412,7 @@
 "rd_so_requirements_not_met"		"数据缺失"
 "[english]rd_so_requirements_not_met"		"Data Missing"
 "rd_so_requirement_kill_this_alien"		"没有足够的异形生物特征数据。找到并消除这个物种的成员，以揭示更多的信息。（%s1%）"
-"[english]rd_so_requirement_kill_this_alien"		"没有足够的异形生物特征数据。找到并消除这个物种的成员，以揭示更多的信息。（%s1%）"
+"[english]rd_so_requirement_kill_this_alien"		"Not enough alien biometric data. Find and eliminate members of this species to reveal more information. (%s1%)"
 "rd_so_stat_killed"		"已击杀"
 "[english]rd_so_stat_killed"		"Killed"
 "rd_so_stat_killed_jumper"		"已击杀 跳爪虫"
