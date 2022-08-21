@@ -2720,6 +2720,7 @@
 "rd_challenge_selection_source_workshop"	"Workshop: %s1"
 "rd_challenge_selection_author"	"By: %s1"
 "rd_challenge_selection_author_official"	"By the Reactive Drop Team"
+"rd_official_content"	"Official Content"
 
 "rd_ada2_ob_eggs1"	"Clear the area"
 "rd_ada2_ob_dead_end1a"	"Scanner shows that the path ahead is most likely blocked"
@@ -2816,13 +2817,15 @@
 "rd_so_alien_carrier_drone"	"Carrier Drone"
 "rd_so_alien_summoner_drone"	"Summoner Drone"
 
+"rd_so_display_no_model"	"No Specimen Available"
 "rd_so_display_caption_specimen_a"	"Specimen A"
 "rd_so_display_caption_specimen_b"	"Specimen B"
 "rd_so_display_caption_specimen_c"	"Specimen C"
 "rd_so_display_caption_specimen_d"	"Specimen D"
+"rd_so_sources"	"Data Sources:"
 
 "rd_so_ability_alerts_swarm"	"Alerts Swarm"
-"rd_so_ability_attacks_doors"	" Attacks Doors"
+"rd_so_ability_attacks_doors"	"Attacks Doors"
 "rd_so_ability_charging_attack"	"Charging Attack"
 "rd_so_ability_corrosive_skin"	"Corrosive Skin"
 "rd_so_ability_corrosive_spit"	"Corrosive Spit"
@@ -2860,40 +2863,105 @@
 "rd_so_stat_killed_egg"	"Eggs Killed"
 "rd_so_stat_killed_cavern"	"Guardians Killed"
 
-"rd_so_paragraph_drone_0"	"Drones make up the bulk of the Swarm's numbers and \"manpower\". Marines can be expected to encounter several dozen of these per mission, and possibly end up killing in the region of several hundred each over the course of a campaign."
-"rd_so_paragraph_drone_1"	"Drones are weak in terms of durability, but fast, strong, and numerous. Their four massive claws can inflict horrendous injuries on marines unlucky enough to get hit. Being swarmed by Drones (especially if you have an empty gun and no backup weapon) is a surefire way to end up dead, no matter the difficulty level. A single Drone is only a minor threat to a marine and easily dispatched with gunfire or even a melee attack."
-"rd_so_paragraph_drone_2"	"Countering drones is easy; make your shots count, stick together, and cover your teammates whilst they're reloading or if they're being mobbed."
-"rd_so_paragraph_drone_3"	"Drones move more slowly if they're electrified by the Prototype Assault Rifle or Tesla Cannon - neither of which will slow down or harm teammates, so use this to your advantage. Stunning a mob of Drones that are trying to gang up on a squadmate can give them breathing room to backpedal, reload, use items, and so on."
-"rd_so_paragraph_drone_4"	"Drones on fire, such as from a M868 Flamer Unit will be slowed down and often stop attacking marines and stumble around on fire."
-"rd_so_paragraph_drone_5"	"Drones are very lethal on Brutal, as a single hit by their claws can reduce the health of weaker characters (such as medics) by almost half. They're also capable of withstanding a much larger amount of damage, making basic weapons less effective against them. It is highly recommended that at least one player carry a Minigun or Autogun to deal with drone swarms."
-"rd_so_paragraph_ranger_0"	"One of the few swarm lifeforms with a ranged attack, Rangers launch a volley of acidic projectiles over moderate to long distances, harassing squads from afar. Individually they are weak and their projectiles can be evaded by the quick-witted, but they can prove to be a nuisance in numbers or when supported by Drones. Rangers are tougher than Drones and can take quite a beating - on Insane, a Ranger can even survive a direct grenade hit."
-"rd_so_paragraph_ranger_1"	"As soon as a Ranger spreads out its limbs, it cannot turn until it has shot in the direction it is currently facing. Use this opportunity to circle around for a melee attack or prepare to roll out of the way of its projectiles."
-"rd_so_paragraph_shieldbug_0"	"Capable of absorbing vast amounts of damage compared to most bugs, Shieldbugs have massive, armoured limbs that give them their name."
-"rd_so_paragraph_shieldbug_1"	"The best way to kill a Shieldbug is to attack it from behind, aiming for the yellow-white cluster on the rear of their body. Attacking from the front is ineffective, and the Shieldbug has a strong melee attack that can knock a marine a good distance - so be careful."
-"rd_so_paragraph_shieldbug_2"	"Shieldbugs tend to pick a single marine (typically the one closest to them or the one attacking them) and then advance towards them slowly. The other marines then have (and should make the most of) the opportunity to flank and kill the Shieldbug while it's distracted."
-"rd_so_paragraph_shieldbug_3"	"When you're alone and lack any grenades or weapons that can stun, the only viable strategy to pursue is to draw the shieldbug into his defensive mode and wait for him to strike you. This will momentarily stop him from rotating towards you and allows you to attack his back."
-"rd_so_paragraph_shieldbug_4"	"Avoid confronting Shieldbugs near a bridge or cliff. If the Shieldbug manages to connect at the right angle, it will knock you off the edge into oblivion, killing you and preventing fellow marines from scavenging your gear."
-"rd_so_paragraph_boomer_0"	"Boomers are large tripedal creatures whose sole purpose seems to be to act as a gigantic suicide bomber. Boomers can roll to quickly approach and block a marine's passage."
-"rd_so_paragraph_boomer_1"	"If a Boomer is killed before it can inflate, it poses little threat to a team, but if it does inflate, killing it will result in the release of several \"bomblet\"-like projectiles that explode after several seconds, inflicting considerable damage to nearby marines in the process."
-"rd_so_paragraph_buzzer_0"	"A small flying insectoid prone to diving down from above, Buzzers are a nuisance, but not a huge threat by themselves. Their ability and capacity to disorient and distract a marine who might otherwise be engaged with other swarm lifeforms makes them troublesome."
-"rd_so_paragraph_buzzer_1"	"They deal relatively low amounts of damage, but present a small target that can be hard to hit unless using a weapon with automatic aim assistance, such as the 22A7-Z Prototype Assault Rifle or S23A SynTek Autogun."
-"rd_so_paragraph_parasite_0"	"The Parasite is one of the most dangerous Swarm lifeforms because of the rapid maturation of additional Parasites inside an unwitting host. If a marine dies whilst infested, then four additional Parasites will be ejected from their corpse. The only way to remove infestation is to heal the infested marine (with the Medical Gun or Heal Beacons) until the yellow portion of their health bar is gone, or to activate Electric Charged Armor. IAF Personal Healing Kits are very ineffective at curing infestation, but one kit can keep you alive for a few more seconds and give Medics more time to cure you."
-"rd_so_paragraph_parasite_1"	"Contrasting from their in-game habitat, their biological habitat seems to require a moist area, be it in the air or any surface. This seems to be supported by the fact that the eggs they spawn out of contain an unsavory fluid."
-"rd_so_paragraph_mortarbug_0"	"Mortarbugs are large support units that spit a line of three highly explosive projectiles over long distances, like an upgraded version of the Ranger. These projectiles do not explode instantly, but instead stick to the floor and walls, then explode after approximately three seconds, dealing significant damage to anyone nearby."
-"rd_so_paragraph_mortarbug_1"	"If not killed quickly, they can harass a squad and prevent them from gaining access to an area. They are essentially defenseless at short range, but like Rangers, their main strength is supporting other members of the Swarm, using their bombs to restrict marine movement or split the squad up."
-"rd_so_paragraph_harvester_0"	"A large brownish creature with a glowing bulbous appendage, the Harvester is a support-type unit that spawns tiny suicidal Xenomites instead of attacking the squad directly. The Harvester itself is relatively fragile and easy to kill, but like the Ranger or Mortarbug, it can be much more effective when supporting other Swarm units, harassing Marines whilst Drones distract them."
-"rd_so_paragraph_harvester_1"	"Harvesters should be taken out quickly to minimize the effect they have on a battle, much like the Mortarbug. When a Harvester is killed, it releases several Xenomites that fly straight up in the air before they land and attack nearby marines."
-"rd_so_paragraph_harvester_2"	"Killing the Harvester while it is burning or frozen will also kill the Xenomites it releases upon death."
-"rd_so_paragraph_harvester_3"	"Although it cannot attack directly, physical contact with the Harvester causes damage to marines. Coupled with their ability to produce Xenomites every few seconds, melee attacks against Harvesters are generally ill-advised."
-"rd_so_paragraph_harvester_4"	"When threatened, the Harvester attempts to retreat from battle but continues to produce Xenomites. It is advised that you persue and destroy the Harvester before too many Xenomites are produced."
-"rd_so_paragraph_parasite_defanged_0"	"The Xenomite is a small, red and white insectoid that attacks by leaping towards a marine and exploding to shower its target in a corrosive substance. Individually, these Xenomites do not pose a significant threat to a marine, but caution is advised as their attack can knock a marine back and disorient them."
-"rd_so_paragraph_parasite_defanged_1"	"Although similar in size, shape and movement to the Parasite, the Xenomite can be easily distinguished by its red and white color in contrast to the Parasite's yellow, and its attack cannot be negated with Electric Charged Armor."
-"rd_so_paragraph_biomass_0"	"\"Biomass\" is a term for large, static formations of organic materials that the Swarm uses to assemble massive hive-like structures. Biomass accumulation is one of the first signs of hive formation, so it must be purged as soon as possible."
-"rd_so_paragraph_biomass_1"	"Biomass is immune to bullets, explosives, and melee attacks; it can only be destroyed by incendiary weaponry (such as the M868 Flamer Unit, the Vindicator's incendiary grenade, and the Proximity Incendiary Mine) or the Mining Laser."
-"rd_so_paragraph_biomass_2"	"A pile of dead colonists near the Biomass in Timor Station suggests that the biomass is \"assembled\" by incorporating any organic material that can be acquired. This could mean that the colonists, as well as their pets and food are inside Biomass, dead or alive."
-"rd_so_paragraph_biomass_3"	"Biomass itself is largely defenseless and harmless, although coming into contact with it will deal minor damage and knock a marine back."
-"rd_so_paragraph_biomass_4"	"Once the biomass is ignited, it will eventually die. Sustained incendiary damage is not necessary but will accelerate the process."
-"rd_so_paragraph_grub_0"	"A grub is the presumed larval stage of the Swarm. It is about as large as a marine's foot and is attracted to marines, but is incapable of harming them. Grubs come in sacs of about a dozen, which open up upon fire or when a marine is nearby."
+"rd_so_damage_resistance_drone"	"Drones are the damage resistance baseline used in these articles.\nDamage Resistance (Uber): 12.5×"
+"rd_so_damage_resistance_biomass"	"Damage Resistance: N/A"
+"rd_so_damage_resistance_1hp"	"Damage Resistance: None"
+"rd_so_damage_resistance_10hp"	"Damage Resistance: 0.25×"
+"rd_so_damage_resistance_25hp"	"Damage Resistance: 0.63×"
+"rd_so_damage_resistance_30hp"	"Damage Resistance: 0.75×"
+"rd_so_damage_resistance_59hp"	"Damage Resistance: 1.48×"
+"rd_so_damage_resistance_101hp"	"Damage Resistance: 2.5×"
+"rd_so_damage_resistance_200hp"	"Damage Resistance: 5×"
+"rd_so_damage_resistance_350hp"	"Damage Resistance: 8.75×"
+"rd_so_damage_resistance_500hp"	"Damage Resistance: 12.5×"
+"rd_so_damage_resistance_800hp"	"Damage Resistance: 20×"
+"rd_so_damage_resistance_1000hp"	"Damage Resistance: 25×"
+
+"rd_so_tips_drone"	"IAF Fact Sheet:\n• Drones only attack with their claws. Taking them out before they reach the squad will render them harmless.\n• Certain drones have been known to leap large distances. Take extra precautions when using explosive weaponry, as targets may rapidly advance into unsafe range.\n• Drones can crawl through ducts and under scaffolding. It is sometimes possible to block the drones' points of egress, trapping them in a location where they are not a threat to marines."
+"rd_so_tips_ranger"	"" // TODO
+"rd_so_tips_shieldbug"	"" // TODO
+"rd_so_tips_boomer"	"" // TODO
+"rd_so_tips_buzzer"	"" // TODO
+"rd_so_tips_parasite"	"" // TODO
+"rd_so_tips_mortarbug"	"" // TODO
+"rd_so_tips_harvester"	"" // TODO
+"rd_so_tips_xenomite"	"" // TODO
+"rd_so_tips_shaman"	"" // TODO
+"rd_so_tips_biomass"	"" // TODO
+"rd_so_tips_grub"	"" // TODO
+"rd_so_tips_antlionguard"	"" // TODO
+
+"rd_so_author_brad_irwing"	"From the journal of Dr. Brad Irwing (AMBER)"
+"rd_so_author_bur_nable"	"From the journal of Bur Nable (Nanotrasen)"
+"rd_so_author_isaac_kleiner"	"From the journal of Dr. Isaac Kleiner (Black Mesa)"
+"rd_so_author_julie_duval"	"From the journal of Prof. Julie Duval (IAF)"
+"rd_so_author_shaun_ming"	"From the journal of Shaun Ming (SynTek)"
+
+"rd_so_paragraph_drone_0"	"" // TODO
+"rd_so_paragraph_drone_1"	"" // TODO
+"rd_so_paragraph_drone_2"	"" // TODO
+"rd_so_paragraph_drone_3"	"" // TODO
+"rd_so_paragraph_drone_4"	"" // TODO
+"rd_so_paragraph_ranger_0"	"" // TODO
+"rd_so_paragraph_ranger_1"	"" // TODO
+"rd_so_paragraph_ranger_2"	"" // TODO
+"rd_so_paragraph_ranger_3"	"" // TODO
+"rd_so_paragraph_ranger_4"	"" // TODO
+"rd_so_paragraph_shieldbug_0"	"" // TODO
+"rd_so_paragraph_shieldbug_1"	"" // TODO
+"rd_so_paragraph_shieldbug_2"	"" // TODO
+"rd_so_paragraph_shieldbug_3"	"" // TODO
+"rd_so_paragraph_shieldbug_4"	"" // TODO
+"rd_so_paragraph_boomer_0"	"" // TODO
+"rd_so_paragraph_boomer_1"	"" // TODO
+"rd_so_paragraph_boomer_2"	"" // TODO
+"rd_so_paragraph_boomer_3"	"" // TODO
+"rd_so_paragraph_boomer_4"	"" // TODO
+"rd_so_paragraph_buzzer_0"	"" // TODO
+"rd_so_paragraph_buzzer_1"	"" // TODO
+"rd_so_paragraph_buzzer_2"	"" // TODO
+"rd_so_paragraph_buzzer_3"	"" // TODO
+"rd_so_paragraph_buzzer_4"	"" // TODO
+"rd_so_paragraph_parasite_0"	"" // TODO
+"rd_so_paragraph_parasite_1"	"" // TODO
+"rd_so_paragraph_parasite_2"	"" // TODO
+"rd_so_paragraph_parasite_3"	"" // TODO
+"rd_so_paragraph_parasite_4"	"" // TODO
+"rd_so_paragraph_mortarbug_0"	"" // TODO
+"rd_so_paragraph_mortarbug_1"	"" // TODO
+"rd_so_paragraph_mortarbug_2"	"" // TODO
+"rd_so_paragraph_mortarbug_3"	"" // TODO
+"rd_so_paragraph_mortarbug_4"	"" // TODO
+"rd_so_paragraph_harvester_0"	"" // TODO
+"rd_so_paragraph_harvester_1"	"" // TODO
+"rd_so_paragraph_harvester_2"	"" // TODO
+"rd_so_paragraph_harvester_3"	"" // TODO
+"rd_so_paragraph_harvester_4"	"" // TODO
+"rd_so_paragraph_xenomite_0"	"" // TODO
+"rd_so_paragraph_xenomite_1"	"" // TODO
+"rd_so_paragraph_xenomite_2"	"" // TODO
+"rd_so_paragraph_xenomite_3"	"" // TODO
+"rd_so_paragraph_xenomite_4"	"" // TODO
+"rd_so_paragraph_shaman_0"	"" // TODO
+"rd_so_paragraph_shaman_1"	"" // TODO
+"rd_so_paragraph_shaman_2"	"" // TODO
+"rd_so_paragraph_shaman_3"	"" // TODO
+"rd_so_paragraph_shaman_4"	"" // TODO
+"rd_so_paragraph_biomass_0"	"" // TODO
+"rd_so_paragraph_biomass_1"	"" // TODO
+"rd_so_paragraph_biomass_2"	"" // TODO
+"rd_so_paragraph_biomass_3"	"" // TODO
+"rd_so_paragraph_biomass_4"	"" // TODO
+"rd_so_paragraph_grub_0"	"" // TODO
+"rd_so_paragraph_grub_1"	"" // TODO
+"rd_so_paragraph_grub_2"	"" // TODO
+"rd_so_paragraph_grub_3"	"" // TODO
+"rd_so_paragraph_grub_4"	"" // TODO
+"rd_so_paragraph_antlionguard_0"	"" // TODO
+"rd_so_paragraph_antlionguard_1"	"" // TODO
+"rd_so_paragraph_antlionguard_2"	"" // TODO
+"rd_so_paragraph_antlionguard_3"	"" // TODO
+"rd_so_paragraph_antlionguard_4"	"" // TODO
 
 "rd_no_steam_service"	"Game cannot connect to Steam service"
 "rd_no_steam_solutions"	"Possible solutions: restart Steam or computer, allow game in antivirus or firewall, verify integrity of game files"
