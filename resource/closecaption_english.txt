@@ -2762,10 +2762,10 @@
 "vegas.Reloading0"	"<clr:84,255,159>Vegas: Lock and load!"
 
 
-"vegas.Reloading1"	"<clr:84,255,159>Vegas: Reload."
+"vegas.Reloading1"	"<clr:84,255,159>Vegas: Estoy Cargando!"
 
 
-"vegas.Reloading2"	"<clr:84,255,159>Vegas: Estoy Cargando!"
+"vegas.Reloading2"	"<clr:84,255,159>Vegas: Reload."
 
 
 "vegas.Reloading3"	"<clr:84,255,159>Vegas: Reload.  Cover me."
