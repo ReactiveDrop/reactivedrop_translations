@@ -5427,7 +5427,7 @@
 "[english]rd_so_damage_resistance_drone"		"Drones are the damage resistance baseline used in these articles.\nDamage Resistance (Uber): 12.5×"
 "rd_so_damage_resistance_biomass"		"Resistenza ai Danni: N/D"
 "[english]rd_so_damage_resistance_biomass"		"Damage Resistance: N/A"
-"rd_so_damage_resistance_1hp"		Resistenza ai Danni: Nessuna"
+"rd_so_damage_resistance_1hp"		"Resistenza ai Danni: Nessuna"
 "[english]rd_so_damage_resistance_1hp"		"Damage Resistance: None"
 "rd_so_damage_resistance_10hp"		"Resistenza ai Danni: 0.25×"
 "[english]rd_so_damage_resistance_10hp"		"Damage Resistance: 0.25×"
