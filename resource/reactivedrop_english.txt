@@ -2852,8 +2852,8 @@
 
 "rd_so_global_stat_loading"	"Requesting statistics from IAF Command..."
 "rd_so_global_stat_failed"	"Connection to IAF Command failed. Statistics are unavailable."
-"rd_so_global_stat_total"	"%s1 (total): %s3"
-"rd_so_global_stat_days"	"%s1 (last %s2 days): %s3"
+"rd_so_global_stat_total"	"%s1 (total)"
+"rd_so_global_stat_days"	"%s1 (last %s2 days)"
 "rd_so_requirements_not_met"	"Data Missing"
 "rd_so_requirement_kill_this_alien"	"Not enough alien biometric data. Find and eliminate members of this species to reveal more information. (%s1%)"
 
