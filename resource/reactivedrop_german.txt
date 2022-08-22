@@ -4687,7 +4687,7 @@
 "[english]rd_mainmenu_workshop_tip"		"Find new campaigns and challenges on the Steam Workshop"
 "rd_mainmenu_workshop_browse"		"Workshop durchstöbern"
 "[english]rd_mainmenu_workshop_browse"		"Browse"
-"rd_mainmenu_workshop_manage"		"Meine Workshop-Objekte verwalten"
+"rd_mainmenu_workshop_manage"		"Erstellte Erweiterungen verwalten"
 "[english]rd_mainmenu_workshop_manage"		"Manage"
 "workshop_restart_for_update"		"Reactive Drop neustarten um zu aktualisieren"
 "[english]workshop_restart_for_update"		"Restart Reactive Drop to update"
