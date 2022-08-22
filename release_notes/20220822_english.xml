@@ -1,4 +1,5 @@
-As we continue preparing for the 6th anniversary update in 2023, there are some UI improvements and bugfixes we would like to release sooner. Notably, we've made font rendering more consistent for non-Latin character sets and added support for workshop addons that change or add BIK files.
+<?xml version="1.0" encoding="UTF-8" ?>
+<content><string id="body">As we continue preparing for the 6th anniversary update in 2023, there are some UI improvements and bugfixes we would like to release sooner. Notably, we've made font rendering more consistent for non-Latin character sets and added support for workshop addons that change or add BIK files.
 
 [h1]Campaigns[/h1]
 [list]
@@ -48,4 +49,4 @@ As we continue preparing for the 6th anniversary update in 2023, there are some 
 [*][b]CBaseEntity SpawnEntityFromTable( string name, table )[/b] // Spawn entity from KeyValues in table - 'name' is entity name, rest are KeyValues for spawn.
 [*][b]int PrecacheModel( string modelName )[/b] // Precache a model after the map has loaded and return index of the model
 [*][b]int GetModelIndex( string modelName )[/b] // Returns index of model by name
-[/list]
+[/list]</string><string id="subtitle"></string><string id="summary"></string><string id="title">Alien Swarm: Reactive Drop Update - August 22, 2022</string></content>

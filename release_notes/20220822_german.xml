@@ -1,4 +1,5 @@
-Während wir uns weiter auf das 6. Jubiläums-Update im Jahr 2023 vorbereiten, gibt es einige UI-Verbesserungen und Fehlerbehebungen, die wir gerne schon früher veröffentlichen möchten. Insbesondere haben wir die Schriftdarstellung für nicht-lateinische Zeichensätze konsistenter gemacht und Unterstützung für Workshop-Erweiterungen hinzugefügt, die BIK-Dateien ändern oder hinzufügen.
+<?xml version="1.0" encoding="UTF-8" ?>
+<content><string id="body">Während wir uns weiter auf das 6. Jubiläums-Update im Jahr 2023 vorbereiten, gibt es einige UI-Verbesserungen und Fehlerbehebungen, die wir gerne schon früher veröffentlichen möchten. Insbesondere haben wir die Schriftdarstellung für nicht-lateinische Zeichensätze konsistenter gemacht und Unterstützung für Workshop-Erweiterungen hinzugefügt, die BIK-Dateien ändern oder hinzufügen.
 
 [h1]Feldzüge[/h1]
 [list]
@@ -48,4 +49,4 @@ Während wir uns weiter auf das 6. Jubiläums-Update im Jahr 2023 vorbereiten, g
 [*][b]CBaseEntity SpawnEntityFromTable( string name, table )[/b] // Spawn Entität aus Schlüssel-Werte-Tabelle - 'Name' ist der Entität-Name, der Rest sind Schlüssel-Werte für den Spawn.
 [*][b]int PrecacheModel( string modelName )[/b] // Ein Modell vorlagern, nachdem die Karte geladen wurde, und den Index des Modells zurückgeben
 [*][b]int GetModelIndex( string modelName )[/b] // Gibt den Index des Modells nach Name zurück
-[/list]
+[/list]</string><string id="subtitle"></string><string id="summary"></string><string id="title">Alien Swarm: Reactive Drop Update - August 22, 2022</string></content>
