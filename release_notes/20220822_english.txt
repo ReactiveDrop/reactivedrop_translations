@@ -1,0 +1,51 @@
+As we continue preparing for the 6th anniversary update in 2023, there are some UI improvements and bugfixes we would like to release sooner. Notably, we've made font rendering more consistent for non-Latin character sets and added support for workshop addons that change or add BIK files.
+
+[h1]Campaigns[/h1]
+[list]
+[*][b]Area 9800: Wastelands:[/b] Fixed a soft lock that could be caused by director aliens spawning inside of a grate.
+[/list]
+
+[h1]Aliens[/h1]
+[list]
+[*]Added statistics tracking for number of biomass ignited.
+[*]Fixed aliens that were already on fire counting towards the "aliens burned" statistic.
+[/list]
+
+[h1]Translations[/h1]
+[list]
+[*]Updated Chinese translation.
+[*]Updated German translation.
+[*]Updated Italian translation.
+[*]Updated Japanese translation.
+[*]Updated Russian translation.
+[*]Fixed missing letters on the mission complete screen for Chinese.
+[*]The game now uses Noto Sans SC as its default fallback font instead of an arbitrary system font.
+[/list]
+
+[h1]Misc[/h1]
+[list]
+[*]Fixed a long-standing issue where doors that were destroyed before they became dented would not position themselves properly when falling.
+[*]Updated the appearance of the tabs in the mission chooser and collections screens.
+[*]Turn speed related convars are now marked as cheats.
+[*]Removed per-map soundcache manifests to save disk space.
+[*]asw_max_saves can no longer be set below 2, which can cause crashes or lock-ups.
+[*]Added rd_dump_workshop_conflicts_client concommand.
+[*]Added information about addon file name conflicts to the Addons screen.
+[*]Added convar rd_reduce_motion, which disables some UI animations.
+[*]Added some diagnostic data to Steam lobbies.
+[/list]
+
+[h1]Mapping[/h1]
+[list]
+[*]Added a new entity, rd_briefing_camera, to show part of the level as the background for briefing. Mappers should try to keep large motions to a minimum (eg. avoid parenting rd_briefing_camera or having it point at a rotating projected texture) as this version of the briefing background cannot be affected by rd_reduce_motion.
+[*]Added a field to asw_gamerules for setting the briefing background movie filename. If empty, the game will choose randomly from the four default movies. This random choice is now synchronized between clients.
+[*]The game will automatically extract BIK files from VPK addons if needed.
+[/list]
+
+[h1]VScript[/h1]
+[list]
+[*]Fixed FileToString returning one byte from a previously read file.
+[*][b]CBaseEntity SpawnEntityFromTable( string name, table )[/b] // Spawn entity from KeyValues in table - 'name' is entity name, rest are KeyValues for spawn.
+[*][b]int PrecacheModel( string modelName )[/b] // Precache a model after the map has loaded and return index of the model
+[*][b]int GetModelIndex( string modelName )[/b] // Returns index of model by name
+[/list]
