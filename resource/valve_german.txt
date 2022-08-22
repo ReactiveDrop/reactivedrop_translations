@@ -41,7 +41,7 @@
 "[english]Valve_Keyboard_Look_Modifier"		"Keyboard look modifier"
 "Valve_Use_Items"		"Gegenstand verwenden (Tasten, Maschinen, ...)"
 "[english]Valve_Use_Items"		"Use item (buttons, machines, ...)"
-"Valve_Pickup_Use_Objects"		"Objekte abholen/verwenden"
+"Valve_Pickup_Use_Objects"		"Objekte aufnehmen/verwenden"
 "[english]Valve_Pickup_Use_Objects"		"Pickup/Use objects"
 "Valve_Communication_Title"		"KOMMUNIKATION"
 "[english]Valve_Communication_Title"		"COMMUNICATION"
