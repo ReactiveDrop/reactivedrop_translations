@@ -215,7 +215,7 @@
 		"[english]L4D360UI_LeaveMultiplayerConf_ServerOwner"		"End the game?"
 "L4D360UI_LeaveMultiplayerConfMsg_ServerOwner"		"Du sorgst dafür, dass die Verbindung zu allen anderen Spielern unterbrochen wird!"
 "[english]L4D360UI_LeaveMultiplayerConfMsg_ServerOwner"		"You'll cause all other players to be disconnected!"
-		"L4D360UI_ChangeTeamConf"		"Team wechseln willst?"
+		"L4D360UI_ChangeTeamConf"		"Team wechseln?"
 		"[english]L4D360UI_ChangeTeamConf"		"Change teams?"
 "L4D360UI_ChangeTeamConfMessage"		"Das wird die anderen Teammitglieder bestimmt nicht freuen..."
 "[english]L4D360UI_ChangeTeamConfMessage"		"Your teammates might not be happy about that..."
