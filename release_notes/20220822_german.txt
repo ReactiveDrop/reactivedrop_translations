@@ -1,0 +1,51 @@
+Während wir uns weiter auf das 6. Jubiläums-Update im Jahr 2023 vorbereiten, gibt es einige UI-Verbesserungen und Fehlerbehebungen, die wir gerne schon früher veröffentlichen möchten. Insbesondere haben wir die Schriftdarstellung für nicht-lateinische Zeichensätze konsistenter gemacht und Unterstützung für Workshop-Erweiterungen hinzugefügt, die BIK-Dateien ändern oder hinzufügen.
+
+[h1]Feldzüge[/h1]
+[list]
+[*][b]Bereich 9800: Ödland:[/b] Es wurde ein Softlock behoben, der durch Aliens der KI-Steuerung verursacht werden konnte, die in einem Gitter spawnen.
+[/list]
+
+[h1]Aliens[/h1]
+[list]
+[*]Es wurde eine Statistik für die Anzahl der angezündeten Biomasse hinzugefügt.
+[*]Es wurde behoben, dass Aliens, die bereits in Flammen standen, für die Statistik verbrannte Aliens gezählt werden.
+[/list]
+
+[h1]Übersetzungen[/h1]
+[list]
+[*]Aktualisierte chinesische Übersetzung.
+[*]Aktualisierte deutsche Übersetzung.
+[*]Aktualisierte italienische Übersetzung.
+[*]Aktualisierte japanische Übersetzung.
+[*]Aktualisierte russische Übersetzung.
+[*]Fehlende Buchstaben auf dem Einsatzabschlussbildschirm für Chinesisch wurden behoben.
+[*]Das Spiel verwendet jetzt Noto Sans SC als Standard-Fallback-Schriftart anstelle einer beliebigen Systemschriftart.
+[/list]
+
+[h1]Verschiedenes[/h1]
+[list]
+[*]Ein langjähriges Problem wurde behoben, bei dem Türen, die zerstört wurden, bevor sie verbeult wurden, beim Fallen nicht richtig positioniert wurden.
+[*]Das Erscheinungsbild der Registerkarten in den Einsatzsauswahl- und Inventarbildschirmen wurde aktualisiert.
+[*]Geschwindigkeitsabhängige Convars werden jetzt als Cheats markiert.
+[*]Die Soundcache-Manifeste pro Karte wurden entfernt, um Speicherplatz zu sparen.
+[*]asw_max_saves kann nicht mehr unter 2 gesetzt werden, was zu Abstürzen oder Einfrieren führen kann.
+[*]Der Befehl rd_dump_workshop_conflicts_client wurde hinzugefügt.
+[*]Auf dem Bildschirm "Installierte Erweiterungen" wurden Informationen zu Konflikten mit Dateinamen hinzugefügt.
+[*]Convar rd_reduce_motion hinzugefügt, der einige UI-Animationen abschaltet.
+[*]Einige Diagnosedaten zu Steam-Lobbys hinzugefügt.
+[/list]
+
+[h1]Mapping[/h1]
+[list]
+[*]Es wurde eine neue Entität, rd_briefing_camera, hinzugefügt, um einen Teil des Levels als Hintergrund für die Einweisung zu zeigen. Mapper sollten versuchen, große Bewegungen auf ein Minimum zu beschränken (z. B. vermeiden, rd_briefing_camera zu erben oder auf eine rotierende projizierte Textur zu richten), da diese Version des Einweisung-Hintergrunds nicht von rd_reduce_motion beeinflusst werden kann.
+[*]Zu asw_gamerules wurde ein Feld hinzugefügt, in dem der Dateiname des Hintergrundfilms für die Einweisung festgelegt werden kann. Wenn es leer ist, wählt das Spiel zufällig aus den vier Standardfilmen. Diese zufällige Auswahl wird jetzt zwischen den Clients synchronisiert.
+[*]Das Spiel extrahiert bei Bedarf automatisch BIK-Dateien aus VPK-Addons.
+[/list]
+
+[h1]VScript[/h1]
+[list]
+[*]Es wurde behoben, dass FileToString ein Byte aus einer zuvor gelesenen Datei zurückgibt.
+[*][b]CBaseEntity SpawnEntityFromTable( string name, table )[/b] // Spawn Entität aus Schlüssel-Werte-Tabelle - 'Name' ist der Entität-Name, der Rest sind Schlüssel-Werte für den Spawn.
+[*][b]int PrecacheModel( string modelName )[/b] // Ein Modell vorlagern, nachdem die Karte geladen wurde, und den Index des Modells zurückgeben
+[*][b]int GetModelIndex( string modelName )[/b] // Gibt den Index des Modells nach Name zurück
+[/list]
