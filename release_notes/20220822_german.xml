@@ -49,4 +49,4 @@
 [*][b]CBaseEntity SpawnEntityFromTable( string name, table )[/b] // Spawn Entität aus Schlüssel-Werte-Tabelle - 'Name' ist der Entität-Name, der Rest sind Schlüssel-Werte für den Spawn.
 [*][b]int PrecacheModel( string modelName )[/b] // Ein Modell vorlagern, nachdem die Karte geladen wurde, und den Index des Modells zurückgeben
 [*][b]int GetModelIndex( string modelName )[/b] // Gibt den Index des Modells nach Name zurück
-[/list]</string><string id="subtitle"></string><string id="summary"></string><string id="title">Alien Swarm: Reactive Drop Update - August 22, 2022</string></content>
+[/list]</string><string id="subtitle"></string><string id="summary"></string><string id="title">Alien Swarm: Reactive Drop Update - 22. August 2022</string></content>
