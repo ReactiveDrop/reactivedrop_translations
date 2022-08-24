@@ -3514,6 +3514,9 @@
 
 "par_crucialpoint_debrief"	"Bloodhound... come in... Bloodhound... come in..."
 
+"par_crucialpoint_bossbar_timeleft" "Time Left"
+"par_crucialpoint_bossbar_health" "Satellite Dish Health"
+
 // Bonus Mission 1 strings
 "bon1_spaceport_1_title"	"Get inside the Spaceport"
 
