@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<content><string id="body">Mentre ci prepariamo per l'aggiornamento del sesto anniversario nel 2023, vorremo rilasciare dei miglioramenti per l'interfaccia utente e dei bugfix. In particolare, abbiamo reso il rendering dei font più coerente per i set di caratteri non latini e abbiamo aggiunto il supporto per gli addon del workshop che modificano o aggiungono file BIK.
+
+[h1]Campagne[/h1]
+[list]
+[*][b]Area 9800: Lande Desolate:[/b] Corretto un soft lock che poteva essere causato dagli alieni del Director che venivano generati all'interno delle grate.
+[/list]
+
+[h1]Alieni[/h1]
+[list]
+[*]Aggiunto il monitoraggio delle statistiche per il numero di biomasse infiammate.
+[*]Corretto il conteggio degli alieni già in fiamme per la statistica "alieni bruciati".
+[/list]
+
+[h1]Traduzioni[/h1]
+[list]
+[*]Aggiornamento della traduzione Cinese.
+[*]Aggiornamento della traduzione Tedesca
+[*]Aggiornamento della traduzione Italiana.
+[*]Aggiornamento della traduzione Giapponese.
+[*]Aggiornamento della traduzione Russa.
+[*]Corrette le lettere mancanti nella schermata di completamento della missione per il Cinese.
+[*][strike]Il gioco ora utilizza il Noto Sans SC come carattere di riserva predefinito, invece di un carattere di sistema arbitrario.[/strike]
+[/list]
+
+[h1]Varie[/h1]
+[list]
+[*]Risolto un problema di vecchia data per cui le porte distrutte prima di essere ammaccate non si posizionavano correttamente quando cadevano.
+[*]Aggiornato l'aspetto delle schede nelle schermate di selezione delle missioni e delle collezioni.
+[*]Le convar legate alla velocità di rotazione sono ora contrassegnate come cheat.
+[*]Rimossi i manifesti della soundcache per mappa per risparmiare spazio su disco.
+[*]asw_max_saves non può più essere impostato al di sotto di 2, il che può causare crash o blocchi.
+[*]Aggiunto il comando rd_dump_workshop_conflicts_client.
+[*]Aggiunte informazioni sui conflitti tra i nomi dei file degli Addon alla schermata Addon.
+[*]Aggiunta la convar rd_reduce_motion, che disabilita alcune animazioni dell'interfaccia utente.
+[*]Aggiunti alcuni dati diagnostici alle lobby di Steam.
+[/list]
+
+[h1]Mapping[/h1]
+[list]
+[*]Aggiunta una nuova entità, rd_briefing_camera, per mostrare parte del livello come sfondo per il briefing. I mapper dovrebbero cercare di ridurre al minimo i movimenti di grandi dimensioni (ad esempio, evitare di fare parenting con rd_briefing_camera o di farla puntare su una texture proiettata in rotazione), poiché questa versione dello sfondo del briefing non può essere influenzata da rd_reduce_motion.
+[*]Aggiunto un campo ad asw_gamerules per impostare il nome del file del filmato di sfondo del briefing. Se vuoto, il gioco sceglierà a caso tra i quattro filmati predefiniti. Questa scelta casuale è ora sincronizzata tra i client.
+[*]Il gioco estrarrà automaticamente i file BIK dagli addon VPK, se necessario.
+[/list]
+
+[h1]VScript[/h1]
+[list]
+[*]Corretto FileToString che restituisce un byte da un file letto in precedenza.
+[*][b]CBaseEntity SpawnEntityFromTable( string name, table )[/b] // Genera entità da KeyValues nella tabella - 'name' è il nome dell'entità, il resto sono valori-chiave per la generazione.
+[*][b]int PrecacheModel( string modelName )[/b] // Esegue la precache di un modello dopo che la mappa è stata caricata e restituisce l'indice del modello
+[*][b]int GetModelIndex( string modelName )[/b] // Restituisce l'indice del modello per nome
+[/list]</string><string id="subtitle"></string><string id="summary"></string><string id="title">Aggiornamento di Alien Swarm: Reactive Drop - 22 Agosto 2022</string></content>
