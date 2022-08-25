@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<content><string id="body">2023年の6周年アップデートの準備に向けて、いくつかのUIの改善とバグ修正をリリースしていく予定です。 特筆すべきは、非ラテン文字のフォント描画をより安定したものにしたのと、ワークショップアドオンによるBIKファイルの追加や変更をサポートしました。
+
+[h1]キャンペーン[/h1]
+[list]
+[*][b]Area 9800: Wastelands:[/b] AIディレクターが格子内にエイリアンを出現させてしまいソフトロックが発生することがあったのを修正。
+[/list]
+
+[h1]エイリアン[/h1]
+[list]
+[*]バイオマスを燃やした数の統計情報記録を追加。
+[*]既に燃えているエイリアンも「エイリアンを燃やした数」の統計にカウントされていたのを修正。
+[/list]
+
+[h1]翻訳[/h1]
+[list]
+[*]中国語翻訳を更新。
+[*]ドイツ語翻訳を更新。
+[*]イタリア語翻訳を更新。
+[*]日本語翻訳を更新。
+[*]ロシア語翻訳を更新。
+[*]中国語でミッション完了画面の文字が欠けていたのを修正。
+[*][strike]適当なシステムフォントではなくNoto Sans SCフォントをデフォルトのフォールバックフォントとして使用するように変更。[/strike]
+[/list]
+
+[h1]その他[/h1]
+[list]
+[*]へこむ前に破壊されたドアが正常な位置に倒れないという長らくあった問題を修正。
+[*]ミッション選択とコレクション画面のタブの見た目を更新。
+[*]回転速度に関するコンソール変数をチートとして扱うように変更。
+[*]各マップごとのサウンドキャッシュマニフェストを削除して使用ディスク容量を節約。
+[*]クラッシュやフリーズを引き起こしていたので、asw_max_savesを2未満に設定できないように変更。
+[*]コンソールコマンドrd_dump_workshop_conflicts_clientを追加。
+[*]アドオン画面にアドオンファイル名の競合に関する情報を追加。
+[*]一部のUIアニメーションを無効化する、コンソール変数rd_reduce_motionを追加。
+[*]Steamロビーに診断データをいくつか追加。
+[/list]
+
+[h1]マップ作成[/h1]
+[list]
+[*]ブリーフィング中にレベルの一部を背景として表示するための新しいentity、rd_briefing_cameraを追加。マップ作成者は大きな動きは最小限に留めた方が良いです(例えば、rd_briefing_cameraを親に指定したり回転投射されるテクスチャに向けたりするのを避ける)。現バージョンではブリーフィング背景はrd_reduce_motionの影響も受けることが出来ませんので。
+[*]asw_gamerulesにブリーフィング中の背景動画ファイル名を設定する項目を追加。空欄の場合、4種類のデフォルト動画からランダムに選ばれる。このランダム選択はゲームの参加者達で同期される。
+[*]ゲームは必要ならばVPKアドオンからBIKファイルを自動的に抽出する様に変更。
+[/list]
+
+[h1]VScript[/h1]
+[list]
+[*]FileToStringが前回読み込んだファイルから1バイトreturnしていたのを修正。
+[*][b]CBaseEntity SpawnEntityFromTable( string name, table )[/b] // テーブル内のKeyValuesからentityを出現させる。 - 'name'はentity名、残りは出現用のKeyValues。
+[*][b]int PrecacheModel( string modelName )[/b] // マップの読み込み後にモデルをPrecacheし、そのモデルのindexをreturnする。
+[*][b]int GetModelIndex( string modelName )[/b] // nameからモデルのindexをreturnする。
+[/list]</string><string id="subtitle"></string><string id="summary"></string><string id="title">Alien Swarm: Reactive Dropアップデート - 2022年8月22日</string></content>
