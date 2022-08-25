@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<content><string id="body">TODO: Blurb
+
+[h1]Campaigns[/h1]
+[list]
+[*][b]Paranoia: Crucial Point:[/b] Reworked the final encounter. Marines must now defend a generator. If the generator is damaged, it will stop the completion progress until fixed by a tech. If no marine is near the generator, it will take additional damage.
+[/list]
+
+[h1]Aliens[/h1]
+[list]
+[*]Added Queen sound effects from the City 17 campaign.
+[/list]
+
+[h1]Weapons[/h1]
+[list]
+[*]Fixed piercing chance calculation for bullets that went through a door or other non-living object. (A 200% chance, 290% chance, and 300% chance now all become 100% chance of piercing another target rather than 0%, 90%, and 0%.)
+[/list]
+
+[h1]Translations[/h1]
+[list]
+[*]Updated Chinese translation.
+[*]Updated German translation.
+[*]Updated Italian translation.
+[*]Updated Japanese translation.
+[*]Updated Russian translation.
+[/list]
+
+[h1]Misc[/h1]
+[list]
+[*]Fixed non-Workshop addons acting as if they were disabled in the mission chooser.
+[/list]
+
+[h1]Mapping[/h1]
+[list]
+[*]Fixed npc_bullseye failing to compile due to a key being too long.
+[/list]
+
+[h1]VScript[/h1]
+[list]
+[*]Added new VScript class TempEnts which allows creating Temporary Entities on clients.
+[*]Added new global VScript functions to use when creating Temporary Entities.
+[/list]
+
+[h2]TempEnts[/h2]
+
+[code]void Create( CBasePlayer player, string name, float delay, table )[/code]
+Queue a temp entity for transmission on a client from a passed table of SendProp data.
+Passing null for a player will playback Temp Entity on all clients.
+
+[code]void GetPropTypes( string name, table )[/code]
+Fills in a passed table with all SendProps and their types for the temp entity
+
+[code]void GetNames( table )[/code]
+Fills in a passed table with the names of all temp entities
+
+[h2]Global[/h2]
+
+[code]int PrecacheParticleSystem( string name )[/code]
+Precaches a particle material
+
+[code]int GetParticleSystemIndex( string name )[/code]
+Converts a previously precached material into an index
+
+[code]string GetParticleSystemNameFromIndex( int index )[/code]
+Converts a previously precached material index into a string
+
+[code]void PrecacheEffect( string name )[/code]
+Precaches an effect
+
+[code]int GetEffectIndex( const char *name )[/code]
+Converts a previously precached effect into an index
+
+[code]string GetEffectNameFromIndex( int index )[/code]
+Converts a previously precached effect index into a string
+
+[code]int GetDecalIndexForName( string name )[/code]
+Get decal index from a string</string><string id="subtitle"></string><string id="summary"></string><string id="title">Alien Swarm: Reactive Drop Update - MMMMM DD, YYYY</string></content>
