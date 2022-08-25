@@ -221,7 +221,7 @@
 "[english]L4D360UI_ChangeTeamConfMessage"		"Your teammates might not be happy about that..."
 "L4D360UI_RestartScenarioConf"		"Neu starten?"
 "[english]L4D360UI_RestartScenarioConf"		"Restart?"
-"L4D360UI_RestartScenarioConfMsg"		"Du musst zum ersten Einsatz dieses Feldzuges zurückgehen."
+"L4D360UI_RestartScenarioConfMsg"		"Du wirst zum ersten Einsatz dieses Feldzuges zurückkehren müssen."
 "[english]L4D360UI_RestartScenarioConfMsg"		"You'll have to go back to the first chapter of this campaign."
 "L4D360UI_StartNewCampaignConf"		"Neuen Feldzug starten?"
 "[english]L4D360UI_StartNewCampaignConf"		"Start a new campaign?"
