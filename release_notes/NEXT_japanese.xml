@@ -3,6 +3,7 @@
 
 [h1]キャンペーン[/h1]
 [list]
+		[*][b]Research 7: Illyn Forest:[/b] Fixed generator being targetable by marine bots.
 [*][b]Paranoia: Crucial Point:[/b] 最後の戦闘を作り変えた。海兵隊達は発電機を守らなければならなくなった。発電機が損傷すると、エンジニアが修理しない限り完了までの時間が進まなくなる。発電機の近くに誰も隊員がいないと、発電機は追加のダメージを受ける。
 [/list]
 
@@ -28,11 +29,14 @@
 [h1]その他[/h1]
 [list]
 [*]ワークショップのものではないアドオンがミッション選択時に無効化されているかのような挙動をしていたのを修正。
+		[*]Fixed a crash at startup if the PATH environment variable was very long.
 [/list]
 
 [h1]マップ作成[/h1]
 [list]
 [*]npc_bullseyeのkeyが長すぎるせいでコンパイルが失敗するのを修正。
+		[*]npc_bullseye now inherits AI relationships from its faction and is not an enemy of all by default.
+		[*]ai_relationship now delays applying its effect to gameplay start rather than map spawn.
 [/list]
 
 [h1]VScript[/h1]

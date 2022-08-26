@@ -3,6 +3,7 @@
 
 [h1]Campaigns[/h1]
 [list]
+[*][b]Research 7: Illyn Forest:[/b] Fixed generator being targetable by marine bots.
 [*][b]Paranoia: Crucial Point:[/b] Reworked the final encounter. Marines must now defend a generator. If the generator is damaged, it will stop the completion progress until fixed by a tech. If no marine is near the generator, it will take additional damage.
 [/list]
 
@@ -28,11 +29,14 @@
 [h1]Misc[/h1]
 [list]
 [*]Fixed non-Workshop addons acting as if they were disabled in the mission chooser.
+[*]Fixed a crash at startup if the PATH environment variable was very long.
 [/list]
 
 [h1]Mapping[/h1]
 [list]
 [*]Fixed npc_bullseye failing to compile due to a key being too long.
+[*]npc_bullseye now inherits AI relationships from its faction and is not an enemy of all by default.
+[*]ai_relationship now delays applying its effect to gameplay start rather than map spawn.
 [/list]
 
 [h1]VScript[/h1]

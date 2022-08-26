@@ -3,6 +3,7 @@
 
 [h1]Feldzüge[/h1]
 [list]
+		[*][b]Research 7: Illyn Forest:[/b] Fixed generator being targetable by marine bots.
 [*][b]Paranoia: Entscheidender Punkt:[/b] Die letzte Begegnung wurde überarbeitet. Die Soldaten müssen jetzt einen Generator verteidigen. Wenn der Generator beschädigt wird, stoppt er den Fortschritt der Fertigstellung, bis er von einem Techniker repariert wurde. Wenn sich kein Soldat in der Nähe des Generators befindet, nimmt er zusätzlichen Schaden.
 [/list]
 
@@ -28,11 +29,14 @@
 [h1]Verschiedenes[/h1]
 [list]
 [*]Es wurde behoben, dass Erweiterungen, die nicht aus dem Workshop stammen, in der Einsatzauswahl so wirken, als seien sie deaktiviert.
+		[*]Fixed a crash at startup if the PATH environment variable was very long.
 [/list]
 
 [h1]Mapping[/h1]
 [list]
 [*]npc_bullseye wurde nicht kompiliert, weil ein Schlüssel zu lang war.
+		[*]npc_bullseye now inherits AI relationships from its faction and is not an enemy of all by default.
+		[*]ai_relationship now delays applying its effect to gameplay start rather than map spawn.
 [/list]
 
 [h1]VScript[/h1]
