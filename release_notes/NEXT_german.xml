@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<content><string id="body">TODO: Blurb
+
+[h1]Feldzüge[/h1]
+[list]
+[*][b]Paranoia: Entscheidender Punkt:[/b] Die letzte Begegnung wurde überarbeitet. Die Soldaten müssen jetzt einen Generator verteidigen. Wenn der Generator beschädigt wird, stoppt er den Fortschritt der Fertigstellung, bis er von einem Techniker repariert wurde. Wenn sich kein Soldat in der Nähe des Generators befindet, nimmt er zusätzlichen Schaden.
+[/list]
+
+[h1]Aliens[/h1]
+[list]
+[*]Soundeffekte der Alien Königin aus dem City 17-Feldzug hinzugefügt.
+[/list]
+
+[h1]Waffen[/h1]
+[list]
+[*]Die Berechnung der Durchdringungschance für Geschosse, die durch eine Tür oder ein anderes nicht-lebendes Objekt gegangen sind, wurde korrigiert. (Aus einer 200%igen, 290%igen und 300%igen Chance wird nun eine 100%ige Chance, ein anderes Ziel zu durchbohren, anstatt 0%, 90% und 0%).
+[/list]
+
+[h1]Übersetzungen[/h1]
+[list]
+[*]Aktualisierte chinesische Übersetzung.
+[*]Aktualisierte deutsche Übersetzung.
+[*]Aktualisierte italienische Übersetzung.
+[*]Aktualisierte japanische Übersetzung.
+[*]Aktualisierte russische Übersetzung.
+[/list]
+
+[h1]Verschiedenes[/h1]
+[list]
+[*]Es wurde behoben, dass Erweiterungen, die nicht aus dem Workshop stammen, in der Einsatzauswahl so wirken, als seien sie deaktiviert.
+[/list]
+
+[h1]Mapping[/h1]
+[list]
+[*]npc_bullseye wurde nicht kompiliert, weil ein Schlüssel zu lang war.
+[/list]
+
+[h1]VScript[/h1]
+[list]
+[*]Neue VScript-Klasse TempEnts hinzugefügt, mit der temporäre Entitäten auf Clients erstellt werden können.
+[*]Es wurden neue globale VScript-Funktionen hinzugefügt, die beim Erstellen von temporären Entitäten verwendet werden können.
+[/list]
+
+[h2]TempEnts[/h2]
+
+[code]void Create( CBasePlayer player, string name, float delay, table )[/code]
+Stellt eine temporäre Entität aus einer übergebenen Tabelle mit SendProp-Daten in die Warteschlange für die Übertragung an einen Client.
+Wenn du für einen Spieler null angibst, wird Temp Entity auf allen Clients wiedergegeben.
+
+[code]void GetPropTypes( string name, table )[/code]
+Füllt eine übergebene Tabelle mit allen SendProps und ihren Typen für die temporäre Entität aus
+
+[code]void GetNames( table )[/code]
+Füllt eine übergebene Tabelle mit den Namen aller temporären Entitäten
+
+[h2]Global[/h2]
+
+[code]int PrecacheParticleSystem( string name )[/code]
+Precaches ein Partikelmaterial
+
+[code]int GetParticleSystemIndex( string name )[/code]
+Wandelt ein zuvor vorgespeichertes Material in einen Index um
+
+[code]string GetParticleSystemNameFromIndex( int index )[/code]
+Wandelt einen zuvor zwischengespeicherten Materialindex in einen String um
+
+[code]void PrecacheEffect( string name )[/code]
+Precached einen Effekt
+
+[code]int GetEffectIndex( const char *name )[/code]
+Wandelt einen zuvor vorgespeicherten Effekt in einen Index um
+
+[code]string GetEffectNameFromIndex( int index )[/code]
+Wandelt einen zuvor zwischengespeicherten Effektindex in einen String um
+
+[code]int GetDecalIndexForName( string name )[/code]
+Decal-Index aus einer Zeichenkette holen</string><string id="subtitle"></string><string id="summary"></string><string id="title">Alien Swarm: Reactive Drop Update - DD. MMMMM YYYY</string></content>
