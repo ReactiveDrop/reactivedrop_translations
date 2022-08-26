@@ -579,7 +579,7 @@
 "[english]asw_menu_player_list"		"Player List"
 "asw_menu_database"		"IAF-Datenbank"
 "[english]asw_menu_database"		"IAF Database"
-"asw_swarmopedia"		"SCHWARMOPÄDIE"
+"asw_swarmopedia"		"SWARMOPEDIA"
 "[english]asw_swarmopedia"		"SWARMOPEDIA"
 "aswmenu_notutorial_title"		"Nachricht vom IAF-Kommando"
 "[english]aswmenu_notutorial_title"		"Message from IAF Command"
