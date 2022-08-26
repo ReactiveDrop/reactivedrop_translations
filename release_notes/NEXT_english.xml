@@ -39,6 +39,7 @@
 [list]
 [*]Added new VScript class TempEnts which allows creating Temporary Entities on clients.
 [*]Added new global VScript functions to use when creating Temporary Entities.
+[*]Add the PlayerVoiceListener class to VScript with access to the following functions.
 [/list]
 
 [h2]TempEnts[/h2]
@@ -52,6 +53,14 @@ Fills in a passed table with all SendProps and their types for the temp entity
 
 [code]void GetNames( table )[/code]
 Fills in a passed table with the names of all temp entities
+
+[h2]PlayerVoiceListener[/h2]
+
+[code]bool IsPlayerSpeaking( int nPlayerIndex )[/code]
+Returns whether the player specified is speaking.
+
+[code]float GetPlayerSpeechDuration( int nPlayerIndex )[/code]
+Returns the number of seconds the player has been continuously speaking.
 
 [h2]Global[/h2]
 
