@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<content><string id="body">TODO: Blurb
+
+[h1]Campagne[/h1]
+[list]
+[*][b]Paranoia: Punto Cruciale:[/b] Rielaborato l'incontro finale. I soldati devono difendere un generatore. Se il generatore viene danneggiato, interromperà l'avanzamento del completamento finché non sarà riparato da un tecnico. Se nessun soldato è vicino al generatore, questo subirà danni aggiuntivi.
+[/list]
+
+[h1]Alieni[/h1]
+[list]
+[*]Aggiunti gli effetti sonori per la Regina della campagna City 17.
+[/list]
+
+[h1]Armi[/h1]
+[list]
+[*]Corretto il calcolo della probabilità di perforazione per i proiettili che hanno attraversato una porta o un altro oggetto non vivente. (Il 200% di probabilità, il 290% di probabilità e il 300% di probabilità diventano ora il 100% di probabilità di perforare un altro bersaglio, anziché lo 0%, il 90% e lo 0%).
+[/list]
+
+[h1]Traduzioni[/h1]
+[list]
+[*]Aggiornata la traduzione in Cinese.
+[*]Aggiornata la traduzione in Tedesco.
+[*]Aggiornata la traduzione in Italiano.
+[*]Aggiornata la traduzione in Giapponese.
+[*]Aggiornata la Traduzione in Russo.
+[/list]
+
+[h1]Varie[/h1]
+[list]
+[*]Corretto il problema degli addon non del Workshop che si comportavano come se fossero disabilitati nel menu di selezione missione.
+[/list]
+
+[h1]Mapping[/h1]
+[list]
+[*]Corretta la compilazione di npc_bullseye a causa di una chiave troppo lunga.
+[/list]
+
+[h1]VScript[/h1]
+[list]
+[*]Aggiunta la nuova classe VScript TempEnts che consente di creare entità temporanee nei client.
+[*]Aggiunte nuove funzioni VScript globali da utilizzare per la creazione di entità temporanee.
+[*]Aggiunta la classe PlayerVoiceListener a VScript con accesso alle seguenti funzioni.
+[/list]
+
+[h2]TempEnts[/h2]
+
+[code]void Create( CBasePlayer player, string name, float delay, table )[/code]
+Mette in coda un'entità temporanea per la trasmissione a un client da una tabella di dati SendProp passata.
+Se si passa null per un giocatore, l'entità temporanea verrà riprodotta su tutti i client.
+
+[code]void GetPropTypes( string name, table )[/code]
+Riempie una tabella passata con tutti i SendProps e i loro tipi per l'entità temp.
+
+[code]void GetNames( table )[/code]
+Riempie una tabella passata con i nomi di tutte le entità temporanee.
+
+[h2]PlayerVoiceListener[/h2]
+
+[code]bool IsPlayerSpeaking( int nPlayerIndex )[/code]
+Riporta se il giocatore specificato sta parlando.
+
+[code]float GetPlayerSpeechDuration( int nPlayerIndex )[/code]
+Riporta il numero di secondi in cui il giocatore ha parlato ininterrottamente.
+
+[h2]Global[/h2]
+
+[code]int PrecacheParticleSystem( string name )[/code]
+Memorizza nella cache un materiale particellare
+
+[code]int GetParticleSystemIndex( string name )[/code]
+Converte un materiale precedentemente memorizzato nella cache in un indice
+
+[code]string GetParticleSystemNameFromIndex( int index )[/code]
+Converte un indice di materiale precedentemente memorizzato nella cache in una stringa.
+
+[code]void PrecacheEffect( string name )[/code]
+Memorizza nella cache un effetto
+
+[code]int GetEffectIndex( const char *name )[/code]
+Converte un effetto precedentemente memorizzato nella cache in un indice.
+
+[code]string GetEffectNameFromIndex( int index )[/code]
+Converte un indice di effetto precedentemente memorizzato nella cache in una stringa
+
+[code]int GetDecalIndexForName( string name )[/code]
+Ottieni l'indice della decalcomania da una stringa</string><string id="subtitle"></string><string id="summary"></string><string id="title">Aggiornamento di Alien Swarm: Reactive Drop - MMMMM DD, YYYY</string></content>
