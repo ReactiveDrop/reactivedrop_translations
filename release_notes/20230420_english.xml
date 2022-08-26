@@ -1,0 +1,36 @@
+<!--
+
+Note to translators: This document is in VERY early stages of being written. Probably don't translate it yet.
+
+-->
+<?xml version="1.0" encoding="UTF-8" ?>
+<content><string id="body">Today, Alien Swarm: Reactive Drop celebrates 6 years on Steam. You'll earn [url=https://store.steampowered.com/news/app/563560/view/3267945303130139335]double experience points all week[/url], but we know what you're really here for. Let's unwrap some presents:
+
+[h1]New Campaign: Accident 32[/h1]
+
+TODO
+
+[h1]New Campaign: Adanaxis[/h1]
+
+TODO
+
+[h1]Collections: Weapons, Equipment, and Swarmopedia[/h1]
+
+TODO
+
+[h1]Changelog[/h1]
+
+TODO
+
+[h1]In Case You Missed It[/h1]
+
+Here are some highlights from updates since the previous anniversary:
+[list]
+[*]Workshop addons can now contain videos, and missions can define their own briefing background video, or even show part of the world as the background during briefing.
+[*]We're Steam Deck verified! The game runs great on the Steam Deck, and players on Linux or who use a controller have also seen improvements.
+[*]There are now medals you can earn by helping with the game's development, contributing to the Steam community hub, or participating in a season of Heroes of the Interstellar Armed Forces.
+[*]The slow-opening vault doors used in many missions now have more accurate collision data, allowing you to step or shoot through a partially-opened door.
+[*]The all-new mission selection screen includes support for bonus missions and new "endless" missions.
+[*]We've added an advanced settings menu and an advanced audio settings menu.
+[*]Restarting a mission no longer requires a loading screen.
+[/list]</string><string id="subtitle">It's Alien Swarm: Reactive Drop's Birthday!</string><string id="summary">Today, Alien Swarm: Reactive Drop celebrates 6 years on Steam! Here's a week of double experience, two new campaigns, and some other goodies to celebrate.</string><string id="title">Alien Swarm: Reactive Drop Update - April 20, 2023</string></content>
