@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<content><string id="body">TODO: Blurb
+
+[h1]キャンペーン[/h1]
+[list]
+[*][b]Paranoia: Crucial Point:[/b] 最後の戦闘を作り変えた。海兵隊達は発電機を守らなければならなくなった。発電機が損傷すると、エンジニアが修理しない限り完了までの時間が進まなくなる。発電機の近くに誰も隊員がいないと、発電機は追加のダメージを受ける。
+[/list]
+
+[h1]エイリアン[/h1]
+[list]
+[*]City 17キャンペーンに登場するクイーンのサウンドエフェクトを追加。
+[/list]
+
+[h1]武器[/h1]
+[list]
+[*]ドアや非生物オブジェクトを弾丸が貫通する確率の計算式を修正。(200%、290%、300%なら次のターゲットを0%、90%、0%で貫通していたのを全て100%になるように修正。)
+[/list]
+
+[h1]翻訳[/h1]
+[list]
+[*]中国語の翻訳を更新。
+[*]ドイツ語の翻訳を更新。
+[*]イタリア語の翻訳を更新。
+[*]日本語の翻訳を更新。
+[*]ロシア語の翻訳を更新。
+[/list]
+
+[h1]その他[/h1]
+[list]
+[*]ワークショップのものではないアドオンがミッション選択時に無効化されているかのような挙動をしていたのを修正。
+[/list]
+
+[h1]マップ作成[/h1]
+[list]
+[*]npc_bullseyeのkeyが長すぎるせいでコンパイルが失敗するのを修正。
+[/list]
+
+[h1]VScript[/h1]
+[list]
+[*]新しいVScriptのクラスTempEntsを追加。クライアントに一時的なentityの作成を許可する。
+[*]一時的なentityの作成時に使用する新しいVScriptのグローバル関数を追加。
+[/list]
+
+[h2]TempEnts[/h2]
+
+[code]void Create( CBasePlayer player, string name, float delay, table )[/code]
+SendPropデータのtableから渡された一時的entityをクライアントに送るためにキューに入れる。
+playerにnullを渡した場合全てのクライアントに一時的entityが再生される。
+
+[code]void GetPropTypes( string name, table )[/code]
+渡されたtableに一時的entityについての全てのSendPropsとそれらのtypeを書き込む。
+
+[code]void GetNames( table )[/code]
+渡されたtableに全ての一時的entityのnameを書き込む。
+
+[h2]グローバル[/h2]
+
+[code]int PrecacheParticleSystem( string name )[/code]
+particleのmaterialをプリキャッシュする。
+
+[code]int GetParticleSystemIndex( string name )[/code]
+以前にプリキャッシュしたmaterialをindexに変換する。
+
+[code]string GetParticleSystemNameFromIndex( int index )[/code]
+以前にプリキャッシュしたmaterial indexをstringに変換する。
+
+[code]void PrecacheEffect( string name )[/code]
+effectをプリキャッシュする。
+
+[code]int GetEffectIndex( const char *name )[/code]
+以前にプリキャッシュしたeffectをindexに変換する。
+
+[code]string GetEffectNameFromIndex( int index )[/code]
+以前にプリキャッシュしたeffect indexをstringに変換する。
+
+[code]int GetDecalIndexForName( string name )[/code]
+stringからdecalのindexを取得する。</string><string id="subtitle"></string><string id="summary"></string><string id="title">Alien Swarm: Reactive Drop Update - MMMMM DD, YYYY</string></content>
