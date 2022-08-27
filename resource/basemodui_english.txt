@@ -1511,8 +1511,8 @@
 // "SessionError_TU_Required_20091225"	"The game you are trying to join doesn't have required updates installed.\nUpdate for that game must be downloaded from Xbox LIVE."
 //
 
-"L4D360UI_Not_Joinable_Mod"	"Playing Mod: %s1"
-"L4D2360_JoinError_OtherTitle_Modded"	"Player is running a different Alien Swarm mod to you.\n"
+"L4D360UI_Not_Joinable_Mod"	"Playing Version: %s1"
+"L4D2360_JoinError_OtherTitle_Modded"	"Player is running a different version of Alien Swarm: Reactive Drop.\n"
 
 "L4D2360_FoundGames_DLC"	"Downloadable Content"
 "L4D2360_FoundGames_DLC_Msg"	"Please, download required content\nfrom Xbox LIVE Marketplace\n"
