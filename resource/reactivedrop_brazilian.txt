@@ -5127,6 +5127,8 @@
 "[english]rd_res1_hint_run_to_laser_room"		"Run to the south, into laser room! Alien queen is close!"
 "rd_res1_hint_evacuate_quick"		"Evacue o mais rápido possível"
 "[english]rd_res1_hint_evacuate_quick"		"Evacuate ASAP"
+		"rd_res1_healthbar_generator"		"Generator Damage"
+		"[english]rd_res1_healthbar_generator"		"Generator Damage"
 "nb_commander_connecting"		"Conectando..."
 "[english]nb_commander_connecting"		"Connecting..."
 "rd_out_of_meds"		"%s1 está sem medicamentos."
