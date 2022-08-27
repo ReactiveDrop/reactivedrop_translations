@@ -4077,6 +4077,7 @@
 "RD_AdvancedSettings_VisualEffects_OtherEffects"	"Other Effects"
 "RD_AdvancedSettings_VisualEffects_Beacons"	"Beacon Warp"
 "RD_AdvancedSettings_VisualEffects_MarineGibs"	"Marine Gibs"
+"RD_AdvancedSettings_VisualEffects_ReduceMotion"	"Reduce Motion on Menus"
 
 "RD_AdvancedSettings_Misc"	"Miscellaneous"
 "RD_AdvancedSettings_Misc_MissionIconLoading"	"Show Mission Icon When Loading"

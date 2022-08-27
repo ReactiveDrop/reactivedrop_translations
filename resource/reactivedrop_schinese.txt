@@ -7447,6 +7447,8 @@
 "[english]RD_AdvancedSettings_VisualEffects_Beacons"		"Beacon Warp"
 "RD_AdvancedSettings_VisualEffects_MarineGibs"		"自爆后分尸"
 "[english]RD_AdvancedSettings_VisualEffects_MarineGibs"		"Marine Gibs"
+		"RD_AdvancedSettings_VisualEffects_ReduceMotion"		"Reduce Motion on Menus"
+		"[english]RD_AdvancedSettings_VisualEffects_ReduceMotion"		"Reduce Motion on Menus"
 "RD_AdvancedSettings_Misc"		"杂项"
 "[english]RD_AdvancedSettings_Misc"		"Miscellaneous"
 "RD_AdvancedSettings_Misc_MissionIconLoading"		"加载时显示任务图标"
