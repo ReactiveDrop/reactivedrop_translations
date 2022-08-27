@@ -3,13 +3,13 @@
 
 [h1]Campagne[/h1]
 [list]
-		[*][b]Research 7: Illyn Forest:[/b] Fixed generator being targetable by marine bots.
+[*][b]Research 7: Foresta di Illyn:[/b] Corretto l'errore che permetteva ai soldati bot di bersagliare il generatore.
 [*][b]Paranoia: Punto Cruciale:[/b] Rielaborato l'incontro finale. I soldati devono difendere un generatore. Se il generatore viene danneggiato, interromperà l'avanzamento del completamento finché non sarà riparato da un tecnico. Se nessun soldato è vicino al generatore, questo subirà danni aggiuntivi.
 [/list]
 
 [h1]Alieni[/h1]
 [list]
-[*]Aggiunti gli effetti sonori per la Regina della campagna City 17.
+[*]Aggiunti gli effetti sonori della campagna City 17 per la Regina.
 [/list]
 
 [h1]Armi[/h1]
@@ -29,14 +29,14 @@
 [h1]Varie[/h1]
 [list]
 [*]Corretto il problema degli addon non del Workshop che si comportavano come se fossero disabilitati nel menu di selezione missione.
-		[*]Fixed a crash at startup if the PATH environment variable was very long.
+[*]Corretto un arresto anomalo all'avvio se la variabile ambientale PATH era molto lunga.
 [/list]
 
 [h1]Mapping[/h1]
 [list]
 [*]Corretta la compilazione di npc_bullseye a causa di una chiave troppo lunga.
-		[*]npc_bullseye now inherits AI relationships from its faction and is not an enemy of all by default.
-		[*]ai_relationship now delays applying its effect to gameplay start rather than map spawn.
+[*]npc_bullseye ora eredita le relazioni con l'IA della sua fazione e non è un nemico di tutti per impostazione predefinita.
+[*]ai_relationship ora ritarda l'applicazione del suo effetto all'inizio del gioco piuttosto che all'avvio della mappa.
 [/list]
 
 [h1]VScript[/h1]
