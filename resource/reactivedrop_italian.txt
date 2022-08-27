@@ -7447,6 +7447,8 @@
 "[english]RD_AdvancedSettings_VisualEffects_Beacons"		"Beacon Warp"
 "RD_AdvancedSettings_VisualEffects_MarineGibs"		"Smembramento del Soldato"
 "[english]RD_AdvancedSettings_VisualEffects_MarineGibs"		"Marine Gibs"
+		"RD_AdvancedSettings_VisualEffects_ReduceMotion"		"Reduce Motion on Menus"
+		"[english]RD_AdvancedSettings_VisualEffects_ReduceMotion"		"Reduce Motion on Menus"
 "RD_AdvancedSettings_Misc"		"Varie"
 "[english]RD_AdvancedSettings_Misc"		"Miscellaneous"
 "RD_AdvancedSettings_Misc_MissionIconLoading"		"Mostra Icona Missione Durante il Caricamento"
