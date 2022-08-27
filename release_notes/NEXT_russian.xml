@@ -30,6 +30,9 @@
 [list]
 [*]Исправлены дополнения, не относящиеся к мастерской, которые вели себя так, будто они отключены в окне выбора миссий.
 [*]Исправлена критическая ошибка при запуске, если переменная среды PATH была очень длинной.
+		[*]Added an advanced setting to reduce motion on menus.
+		[*]Improved keyboard/controller navigation on Advanced Settings and Game Settings.
+		[*]Added a warning on the lobby list if you have a different version of a map than the host.
 [/list]
 
 [h1]Карты[/h1]

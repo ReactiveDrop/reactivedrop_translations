@@ -30,6 +30,9 @@
 [list]
 [*]ワークショップのものではないアドオンがミッション選択時に無効化されているかのような挙動をしていたのを修正。
 		[*]Fixed a crash at startup if the PATH environment variable was very long.
+		[*]Added an advanced setting to reduce motion on menus.
+		[*]Improved keyboard/controller navigation on Advanced Settings and Game Settings.
+		[*]Added a warning on the lobby list if you have a different version of a map than the host.
 [/list]
 
 [h1]マップ作成[/h1]
