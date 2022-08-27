@@ -30,6 +30,9 @@
 [list]
 [*]Es wurde behoben, dass Erweiterungen, die nicht aus dem Workshop stammen, in der Einsatzauswahl so wirken, als seien sie deaktiviert.
 [*]Ein Absturz beim Start wurde behoben, wenn die Umgebungsvariable PATH sehr lang war.
+		[*]Added an advanced setting to reduce motion on menus.
+		[*]Improved keyboard/controller navigation on Advanced Settings and Game Settings.
+		[*]Added a warning on the lobby list if you have a different version of a map than the host.
 [/list]
 
 [h1]Mapping[/h1]
