@@ -30,9 +30,9 @@
 [list]
 [*]Corretto il problema degli addon non del Workshop che si comportavano come se fossero disabilitati nel menu di selezione missione.
 [*]Corretto un arresto anomalo all'avvio se la variabile ambientale PATH era molto lunga.
-		[*]Added an advanced setting to reduce motion on menus.
-		[*]Improved keyboard/controller navigation on Advanced Settings and Game Settings.
-		[*]Added a warning on the lobby list if you have a different version of a map than the host.
+[*]Aggiunta una impostazione avanzata per ridurre il movimento nei menu.
+[*]Migliorata la navigazione con tastiera/controller nelle Impostazioni Avanzate e Impostazioni di Gioco.
+[*]Aggiunto un avviso nella lobby se hai una versione della mappa differente rispetto all'host.
 [/list]
 
 [h1]Mapping[/h1]
