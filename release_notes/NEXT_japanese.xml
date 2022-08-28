@@ -3,7 +3,7 @@
 
 [h1]キャンペーン[/h1]
 [list]
-		[*][b]Research 7: Illyn Forest:[/b] Fixed generator being targetable by marine bots.
+[*][b]Research 7: Illyn Forest:[/b] 海兵隊botが発電機を狙うことがあったのを修正。
 [*][b]Paranoia: Crucial Point:[/b] 最後の戦闘を作り変えた。海兵隊達は発電機を守らなければならなくなった。発電機が損傷すると、エンジニアが修理しない限り完了までの時間が進まなくなる。発電機の近くに誰も隊員がいないと、発電機は追加のダメージを受ける。
 [/list]
 
@@ -29,17 +29,17 @@
 [h1]その他[/h1]
 [list]
 [*]ワークショップのものではないアドオンがミッション選択時に無効化されているかのような挙動をしていたのを修正。
-		[*]Fixed a crash at startup if the PATH environment variable was very long.
-		[*]Added an advanced setting to reduce motion on menus.
-		[*]Improved keyboard/controller navigation on Advanced Settings and Game Settings.
-		[*]Added a warning on the lobby list if you have a different version of a map than the host.
+[*]PATH環境変数が長すぎると起動時にクラッシュするのを修正。
+[*]高度な設定にメニュー中の挙動の簡素化を追加。
+[*]高度な設定とゲーム設定でのキーボード・コントローラーのナビゲーションを改善。
+[*]ロビーリストでホストプレイヤーとマップのバージョンが違う際の警告メッセージを追加。
 [/list]
 
 [h1]マップ作成[/h1]
 [list]
 [*]npc_bullseyeのkeyが長すぎるせいでコンパイルが失敗するのを修正。
-		[*]npc_bullseye now inherits AI relationships from its faction and is not an enemy of all by default.
-		[*]ai_relationship now delays applying its effect to gameplay start rather than map spawn.
+[*]npc_bullseyeは所属からAIの関係性を継承するようになり、デフォルトで全てに敵対ではなくなった。
+[*]ai_relationshipはマップの生成時ではなくゲームをプレイ開始後に間を置いて効果が適用されるようになった。
 [/list]
 
 [h1]VScript[/h1]
