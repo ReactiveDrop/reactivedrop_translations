@@ -65,7 +65,7 @@ Copy the lines with `_english` for your language. Try to keep each block of tran
 
 ### Changing English strings
 
-If you change an English string in a way that does not require editing other languages (such as fixing a typo that doesn't change the meaning), you need to also change the `[english]` copy of the string in each of the other language files that have it translated. Adding new English strings or changing strings in a way that does require re-translation is handled by the sync script/executeable in the utils folder.
+If you change an English string in a way that does not require editing other languages (such as fixing a typo that doesn't change the meaning), you need to also change the `[english]` copy of the string in each of the other language files that have it translated. Adding new English strings or changing strings in a way that does require re-translation is handled by the sync script/executable in the utils folder.
 
 ### How to test your translation before submitting it
 
