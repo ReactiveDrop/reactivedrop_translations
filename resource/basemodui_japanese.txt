@@ -5,7 +5,7 @@
 {
 "L4D360UI_AudioVideo"		"オーディオ/ビデオ"
 "[english]L4D360UI_AudioVideo"		"Audio/Video"
-"L4D360UI_ChangeClass"		"クラスを変更"
+"L4D360UI_ChangeClass"		"兵科を変更"
 "[english]L4D360UI_ChangeClass"		"Change Class"
 "L4D360UI_ChangeTeam"		"チームを変更"
 "[english]L4D360UI_ChangeTeam"		"Change Team"
