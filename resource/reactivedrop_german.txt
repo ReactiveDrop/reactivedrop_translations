@@ -7433,7 +7433,7 @@
 "[english]RD_AdvancedSettings_HUD_ColorNamesInChat"		"Use Marine Color in Chat"
 "RD_AdvancedSettings_HUD_MarineLabelsDist"		"Laservisier-Reichweite"
 "[english]RD_AdvancedSettings_HUD_MarineLabelsDist"		"Show Marine Bars"
-"RD_AdvancedSettings_HUD_MarineLabelsDist_Direct"		"Bei direktem zielen"
+"RD_AdvancedSettings_HUD_MarineLabelsDist_Direct"		"Beim direkten Zielen"
 "[english]RD_AdvancedSettings_HUD_MarineLabelsDist_Direct"		"When Directly Targeting"
 "RD_AdvancedSettings_HUD_MarineLabelsDist_Default"		"Standardreichweite"
 "[english]RD_AdvancedSettings_HUD_MarineLabelsDist_Default"		"Default Range"
