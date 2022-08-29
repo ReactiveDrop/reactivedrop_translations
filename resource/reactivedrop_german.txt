@@ -5649,7 +5649,7 @@
 "[english]rd_weapon_fact_throwable"		"Throwable"
 "rd_weapon_fact_deployable"		"Aufstellbar"
 "[english]rd_weapon_fact_deployable"		"Deployable"
-"rd_weapon_fact_deployable_sentry"		"Wächter. Die Fähigkeit "Technik" in der Nähe verbessert die Aufbaugeschwindigkeit. Kann nach dem Aufbau gedreht und wieder zusammengepackt werden."
+"rd_weapon_fact_deployable_sentry"		"Wächter. Die Fähigkeit \"Technik\" in der Nähe verbessert die Aufbaugeschwindigkeit. Kann nach dem Aufbau gedreht und wieder zusammengepackt werden."
 "[english]rd_weapon_fact_deployable_sentry"		"Sentry. Nearby Engineering skill improves deployment speed. Can be rotated and retrieved once placed."
 "rd_weapon_fact_rockets_auto_aim"		"Raketen suchen automatisch nach Zielen"
 "[english]rd_weapon_fact_rockets_auto_aim"		"Rockets Automatically Seek Targets"
