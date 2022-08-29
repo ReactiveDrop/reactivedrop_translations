@@ -117,7 +117,7 @@
 "[english]Valve_Activate_In_Game_GUI"		"Activate in-game GUI"
 "Valve_Change_Team"		"チーム変更"
 "[english]Valve_Change_Team"		"Change team"
-"Valve_Change_Class"		"クラス変更"
+"Valve_Change_Class"		"兵科を変更"
 "[english]Valve_Change_Class"		"Change class"
 "Valve_Use_Special_Skill"		"特殊スキルを使用"
 "[english]Valve_Use_Special_Skill"		"Use special skill"
