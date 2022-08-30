@@ -3238,6 +3238,8 @@
 "t5_syntekhospital_debrief1"	"The complex has been destroyed, and you've stopped those abominations."
 "t5_syntekhospital_debrief2"	"Good work, marines."
 
+"t5_syntekhospital_countdown_caption" "BIOHAZARD DETECTED"
+
 // BioGen Corporation strings
 "bio_operationx5_1_title"	"Power up the generator"
 "bio_operationx5_1a"	"Power up an additional generator."
