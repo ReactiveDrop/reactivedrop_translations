@@ -5,7 +5,7 @@ GAME
 	// inbox
 
 	"MailFrom1"	"From: Bill Howze"
-	"MailDate1"	"Date: 10/4/52"
+	"MailDate1"	"Date: 10/04/52"
 	"MailSubject1"	"Subject: The flamethrower refilled"
 	"MailBody1A"	"Hey Barney"
 	"MailBody1B"	"I have refilled your flamethrower as you requested. I don't know why you keep that thing in your office..."
@@ -15,7 +15,7 @@ GAME
 	// sent mail
 
 	"MailFrom3"	"To: Bill Howze"
-	"MailDate3"	"Date: 10/4/52"
+	"MailDate3"	"Date: 10/04/52"
 	"MailSubject3"	"Subject: Re: The flamethrower refilled"
 	"MailBody3A"	"Hey there Bill"
 	"MailBody3B"	"Hehe, thanks for refilling it. I have learned from experience that you gotta have some extra firepower around."
@@ -23,7 +23,7 @@ GAME
 	"MailBody3D"	"Keep safe, Barney"
 
 	"MailFrom4"	"To: Section Chief Jackson"
-	"MailDate4"	"Date: 10/6/52"
+	"MailDate4"	"Date: 10/06/52"
 	"MailSubject4"	"Subject: Strange readings"
 	"MailBody4A"	"REPORT:"
 	"MailBody4B"	"We have noticed few anomalies on the radar scanner again."

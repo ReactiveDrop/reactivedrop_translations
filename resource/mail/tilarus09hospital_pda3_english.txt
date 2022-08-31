@@ -4,7 +4,7 @@ GAME
 
 	// sent mail 
 	"MailFrom3"	"To: Andrew Ward"
-	"MailDate3"	"Date: 3/16/46"
+	"MailDate3"	"Date: 03/16/46"
 	"MailSubject3"	"Subject: Need Help"
 	"MailBody3A"	"Andrew,"
 	"MailBody3B"	"As this hospital's head of security, it's your job to contain this sort of thing."
@@ -12,7 +12,7 @@ GAME
 	"MailBody3D"	"Find a solution!"
 
 	"MailFrom4"	"To: Andrew Ward"
-	"MailDate4"	"Date: 3/16/46"
+	"MailDate4"	"Date: 03/16/46"
 	"MailSubject4"	"Subject: I'm going to be next"
 	"MailBody4A"	"Andrew,"
 	"MailBody4B"	"Doctor Archibald, Mason and Miln are dead."

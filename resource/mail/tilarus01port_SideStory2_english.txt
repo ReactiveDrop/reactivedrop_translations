@@ -4,7 +4,7 @@ GAME
 // inbox
 
 "MailFrom1"	"From: Jimmy Carter"
-"MailDate1"	"Date: 2/2/54"
+"MailDate1"	"Date: 02/02/54"
 "MailSubject1"	"Subject: Reactor Pressure Down"
 "MailBody1A"	"Hey Ross,"
 "MailBody1B"	"Just Reporting some strange noises down in section 6,"
@@ -12,7 +12,7 @@ GAME
 "MailBody1D"	"Could use some help, talk to you later."
 
 "MailFrom2"	"From: Overseer Ross"
-"MailDate2"	"Date: 2/2/54"
+"MailDate2"	"Date: 02/02/54"
 "MailSubject2"	"Subject: John?"
 "MailBody2A"	"Ross, Its been nearly 8 hours, When you planning to send John down?"
 
