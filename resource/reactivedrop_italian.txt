@@ -5701,7 +5701,7 @@
 "[english]rd_weapon_fact_damage_over_time_before"		""
 "rd_weapon_fact_damage_over_time_after"		" danni al secondo"
 "[english]rd_weapon_fact_damage_over_time_after"		" damage per second"
-"rd_weapon_fact_grenade_cluster"		"Granata a grappolo"
+"rd_weapon_fact_grenade_cluster"		"Granate a grappolo"
 "[english]rd_weapon_fact_grenade_cluster"		"Grenade Cluster"
 "rd_weapon_fact_grenade_cluster_before"		""
 "[english]rd_weapon_fact_grenade_cluster_before"		""
