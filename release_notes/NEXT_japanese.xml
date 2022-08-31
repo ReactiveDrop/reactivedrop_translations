@@ -44,6 +44,7 @@
 [*]高度な設定にメニュー中の挙動の簡素化を追加。
 [*]高度な設定とゲーム設定でのキーボード・コントローラーのナビゲーションを改善。
 [*]ロビーリストでホストプレイヤーとマップのバージョンが違う際の警告メッセージを追加。
+		[*]prop_dynamic now uses server-driven animation timing. This fixes vault door opening animations getting desynchronized, but increases network bandwidth requirements in missions that use a lot of animated props.
 [/list]
 
 [h1]マップ作成[/h1]

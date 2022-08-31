@@ -44,6 +44,7 @@
 [*]Es wurde eine erweiterte Einstellung hinzugefügt, um Bewegungen in Menüs zu reduzieren.
 [*]Die Tastatur-/Controller-Navigation in den erweiterten Einstellungen und Spieleinstellungen wurde verbessert.
 [*]Es wurde eine Warnung in der Lobbyliste hinzugefügt, wenn du eine andere Version einer Karte hast als der Host.
+		[*]prop_dynamic now uses server-driven animation timing. This fixes vault door opening animations getting desynchronized, but increases network bandwidth requirements in missions that use a lot of animated props.
 [/list]
 
 [h1]Mapping[/h1]
