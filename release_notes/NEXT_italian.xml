@@ -3,17 +3,17 @@
 
 [h1]Campagne[/h1]
 [list]
-		[*][b]Area 9800: Power Plant's Generator:[/b] Fixed narrow catwalks negatively affecting AI pathing.
-		[*][b]Operation Cleansweep: U.S.C. Medusa:[/b] Pods will now reopen if a marine leaves, rather than if they are fully empty.
+[*][b]Area 9800: Generatore della Centrale Elettrica:[/b] Corretto il problema delle passerelle strette che influiscono negativamente sul percorso dell'IA.
+[*][b]Operazione Cleansweep: U.S.C. Medusa:[/b] Le capsule ora si riaprono se un soldato se ne va e non se sono completamente vuote.
 [*][b]Research 7: Foresta di Illyn:[/b] Corretto l'errore che permetteva ai soldati bot di bersagliare il generatore.
-		[*][b]Tears for Tarnor: Oasis Colony Spaceport:[/b] Fixed a soft lock if a boomer used in a cinematic is killed early due to a challenge.
-		[*][b]Tilarus-5: SynTek Hospital:[/b] Reworked countdown at end of mission.
-		[*][b]Lana's Escape: Lana's Bridge:[/b] Fixed escape objective not updating when a marine dies.
-		[*][b]Lana's Escape: Lana's Sewer:[/b] Fixed escape objective not updating when a marine dies.
+[*][b]Lacrime per Tarnor: Spazioporto della Colonia di Oasis:[/b] Corretto un soft lock se un boomer utilizzato in una cinematica viene ucciso in anticipo a causa di una sfida.
+[*][b]Tilarus-5: Ospedale SynTek:[/b] Rielaborato il conto alla rovescia alla fine della missione.
+[*][b]La Fuga di Lana: Ponte di Lana:[/b] Corretto l'obiettivo di fuga che non si aggiornava quando un soldato moriva.
+[*][b]La Fuga di Lana: Fogna di Lana:[/b] Corretto l'obiettivo di fuga che non si aggiornava quando un soldato moriva.
 [*][b]Paranoia: Punto Cruciale:[/b] Rielaborato l'incontro finale. I soldati devono difendere un generatore. Se il generatore viene danneggiato, interromperà l'avanzamento del completamento finché non sarà riparato da un tecnico. Se nessun soldato è vicino al generatore, questo subirà danni aggiuntivi.
-		[*][b]Nam Humanum: Logistics Area:[/b] Reworked geometry near a fire.
-		[*][b]Nam Humanum: Groundwork Labs:[/b] Fixed a large door being able to be damaged, which would cause it to get stuck.
-		[*][b]Bonus Mission 7:[/b] Fixed narrow catwalks negatively affecting AI pathing.
+[*][b]Nam Humanum: Area Logistica:[/b] Geometria rielaborata in prossimità di un incendio.
+[*][b]Nam Humanum: Groundwork Labs:[/b] Risolto un problema con il danneggiamento di una porta grande, che la faceva bloccare.
+[*][b]Missione Bonus 7:[/b] Corretto il problema delle passerelle strette che influiscono negativamente sul percorso dell'IA.
 [/list]
 
 [h1]Alieni[/h1]
@@ -24,8 +24,8 @@
 [h1]Armi[/h1]
 [list]
 [*]Corretto il calcolo della probabilità di perforazione per i proiettili che hanno attraversato una porta o un altro oggetto non vivente. (Il 200% di probabilità, il 290% di probabilità e il 300% di probabilità diventano ora il 100% di probabilità di perforare un altro bersaglio, anziché lo 0%, il 90% e lo 0%).
-		[*][b]M868 Flamer Unit:[/b] Doubled ammo per clip and ammo usage. Primary attack now uses one unit of fuel per shot.
-		[*][b]IAF Minigun:[/b] Doubled ammo per clip and ammo usage. Primary attack now uses one unit of ammo per shot.
+[*][b]Unità Lanciafiamme M868:[/b] Raddoppiate le munizioni per caricatore e il consumo di munizioni. L'attacco primario ora utilizza un'unità di carburante per colpo.
+[*][b]Minigun IAF:[/b] Raddoppiate le munizioni per caricatore e il consumo di munizioni. L'attacco primario ora utilizza un'unità di carburante per colpo.
 [/list]
 
 [h1]Traduzioni[/h1]
@@ -58,7 +58,7 @@
 [*]Aggiunta la nuova classe VScript TempEnts che consente di creare entità temporanee nei client.
 [*]Aggiunte nuove funzioni VScript globali da utilizzare per la creazione di entità temporanee.
 [*]Aggiunta la classe PlayerVoiceListener a VScript con accesso alle seguenti funzioni.
-		[*]Added new VScript functions for CASW_Player.
+[*]Aggiunta una nuova funzione VScript per CASW_Player.
 [/list]
 
 [h2]TempEnts[/h2]
