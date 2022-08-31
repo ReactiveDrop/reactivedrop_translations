@@ -3,8 +3,17 @@
 
 [h1]Кампании[/h1]
 [list]
+		[*][b]Area 9800: Power Plant's Generator:[/b] Fixed narrow catwalks negatively affecting AI pathing.
+		[*][b]Operation Cleansweep: U.S.C. Medusa:[/b] Pods will now reopen if a marine leaves, rather than if they are fully empty.
 [*][b]Исследование №7: Лес Иллин:[/b] Исправлена возможность атаки генератора бойцами-ботами.
+		[*][b]Tears for Tarnor: Oasis Colony Spaceport:[/b] Fixed a soft lock if a boomer used in a cinematic is killed early due to a challenge.
+		[*][b]Tilarus-5: SynTek Hospital:[/b] Reworked countdown at end of mission.
+		[*][b]Lana's Escape: Lana's Bridge:[/b] Fixed escape objective not updating when a marine dies.
+		[*][b]Lana's Escape: Lana's Sewer:[/b] Fixed escape objective not updating when a marine dies.
 [*][b]Паранойя: Переломный момент:[/b] Переработана встреча в конце. Теперь бойцы должны защищать генератор. Если генератор повреждён, он остановит процесс завершения, пока его не починит техник. Если рядом с генератором нет бойца, он получит дополнительный урон.
+		[*][b]Nam Humanum: Logistics Area:[/b] Reworked geometry near a fire.
+		[*][b]Nam Humanum: Groundwork Labs:[/b] Fixed a large door being able to be damaged, which would cause it to get stuck.
+		[*][b]Bonus Mission 7:[/b] Fixed narrow catwalks negatively affecting AI pathing.
 [/list]
 
 [h1]Чужие[/h1]
@@ -15,6 +24,8 @@
 [h1]Оружие[/h1]
 [list]
 [*]Исправлен расчёт шанса пробития для пуль, прошедших через дверь или другой неживой объект. (Шанс 200%, 290% и 300% теперь становится 100% шансом пробить другую цель, а не 0%, 90% и 0%).
+		[*][b]M868 Flamer Unit:[/b] Doubled ammo per clip and ammo usage. Primary attack now uses one unit of fuel per shot.
+		[*][b]IAF Minigun:[/b] Doubled ammo per clip and ammo usage. Primary attack now uses one unit of ammo per shot.
 [/list]
 
 [h1]Переводы[/h1]
@@ -47,6 +58,7 @@
 [*]Добавлен новый класс VScript TempEnts, который позволяет создавать временные энтити на клиентах.
 [*]Добавлены новые глобальные функции VScript для использования при создании временных энтити.
 [*]Добавлен класс PlayerVoiceListener в VScript с доступом к следующим функциям.
+		[*]Added new VScript functions for CASW_Player.
 [/list]
 
 [h2]TempEnts (временные энтити)[/h2]
