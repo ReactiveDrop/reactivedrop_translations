@@ -3,7 +3,7 @@ GAME
 // PDA belongs to Overseer Ross
 
 "MailFrom1"	"From: Kyle"
-"MailDate1"	"Date: 02/2/54"
+"MailDate1"	"Date: 02/02/54"
 "MailSubject1"	"Subject: Report 709b"
 "MailBody1A"	"-47 Droids lost in last 24 hours"
 "MailBody1B"	"-Overall disposal capasity down to 87%"

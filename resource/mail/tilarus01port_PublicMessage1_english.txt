@@ -3,7 +3,7 @@ GAME
 // PDA belongs to GeoTerraCorp
 
 "MailFrom1"	"From: GeoTerra Rep, mandy"
-"MailDate1"	"Date: 02/2/54"
+"MailDate1"	"Date: 02/02/54"
 "MailSubject1"	"Subject: Recent Earthquake"
 "MailBody1A"	"As everyone will know, the recent earthquake that hit yesterday was caused by an acident in Docking Bay 6.
 A large Cargo Ship inbound for Orbital Platform 11, Piloted by Captain Lee o'Ryan had a reactor failiure,causing a loss of orbit, and crashing into bay 6"

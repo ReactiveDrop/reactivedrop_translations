@@ -4,7 +4,7 @@ GAME
 // inbox
 
 "MailFrom1"	"From: Childs"
-"MailDate1"	"Date: 2/2/54"
+"MailDate1"	"Date: 02/02/54"
 "MailSubject1"	"Subject: Re: The Kennels"
 "MailBody1A"	"Man, that was some weird shit that went down earlier."
 "MailBody1B"	"When Bennings ran up to me, I thought that he and Mac"
@@ -12,7 +12,7 @@ GAME
 "MailBody1D"	"And who would have thought that the flamethrower would actually come in handy?"
 
 "MailFrom2"	"From: Childs"
-"MailDate2"	"Date: 2/2/54"
+"MailDate2"	"Date: 02/02/54"
 "MailSubject2"	"Subject: Re:Re: The Kennels"
 "MailBody2A"	"Not that i'm complaining, it definately saved our asses but doesn't it seem a little irresponsible leaving a highly"
 "MailBody2B"	"volatile and downright dangerous weapon in the hands of a bunch of researchers with little to no outside contact"
@@ -21,7 +21,7 @@ GAME
 
 // sent mail
 "MailFrom3"	"To: Windows"
-"MailDate3"	"Date: 2/2/54"
+"MailDate3"	"Date: 02/02/54"
 "MailSubject3"	"Subject: Re: The Kennels"
 "MailBody3A"	"It begs the question, we're artic researchers not soldiers, what the hell are we doing with a flamethrower?"
 "MailBody3A"	"what possible purpose does it serve us? why is it here?"

@@ -1,16 +1,16 @@
 GAME
 {
 	"MailFrom1"	"From: Operation News [Jose Dunclub]"
-	"MailDate1"	"Date: Oct 15th, 2232"
+	"MailDate1"	"Date: 10/15/32"
 	"MailSubject1"	"Subject: Mining Operations"
 	"MailBody1A"	"Glenkor's radiation readings were correct. We have found an abnormal amount of radiation in a cave below a canal to the east of J7 Connector."
 	"MailBody1B"	"Source of radiation - weird transparent rocks. They are like foggy glass but very tough. It hurts to hold it in my hand."
 	"MailBody1C"	"Biggest size we found so far is roughly a 7.5 centimeter cube, was hard to get it out of the cave ceiling, had to break it down in two pieces."
-	"MailBody1D"	"Jose Dunclub - Oct 15th, 2232"
+	"MailBody1D"	"Jose Dunclub."
 
 	"MailFrom2"	"From: Operation News [Jose Dunclub]"
-	"MailDate2"	"Date: Oct 17th, 2232"
+	"MailDate2"	"Date: 10/17/32"
 	"MailSubject2"	"Subject: Big Boy Rock"
 	"MailBody2A"	"Woah, huge find! You won't believe it - over 2 meter tall and wide one, 100 meters below the entrance to the cave. No idea how will we get it out, though. Should we even?"
-	"MailBody2B"	"Jose Dunclub - Oct 17th, 2232"
+	"MailBody2B"	"Jose Dunclub."
 }

@@ -4,7 +4,7 @@ GAME
 
 	// inbox
 	"MailFrom1"	"From: Dr. Foster"
-	"MailDate1"	"Date: 3/13/46"
+	"MailDate1"	"Date: 03/13/46"
 	"MailSubject1"	"Subject: Dosage"
 	"MailBody1A"	"Joseph,"
 	"MailBody1B"	"I think I've figured out why patient Molligan didn't survive."
@@ -13,7 +13,7 @@ GAME
 
 	// sent mail
 	"MailFrom3"	"To: Dr. Foster"
-	"MailDate3"	"Date: 3/13/46"
+	"MailDate3"	"Date: 03/13/46"
 	"MailSubject3"	"Subject: Re: Dosage"
 	"MailBody3A"	"I agree."
 	"MailBody3B"	"Next time we'll increase the dosage. I'm pretty sure I've found a suitable patient."

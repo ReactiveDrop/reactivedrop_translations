@@ -2,18 +2,18 @@ GAME
 {
 	// PDA belongs to Naka
 	"MailFrom1"	"Von: Unbekannt"
-	"MailDate1"	"Datum: 25.09.63"
+	"MailDate1"	"Datum: 09/25/63"
 	"MailSubject1"	"Betreff: ???"
 	"MailBody1A"	"Wovon redest du eigentlich? Ich hoffe, du hast nicht gelogen, was diese Waffen angeht. Ich werde dich auch ohne sie töten, wenn du sie nicht hast."
 
 	"MailFrom3"	"An: Unbekannt"
-	"MailDate3"	"Datum: 25.09.63"
+	"MailDate3"	"Datum: 09/25/63"
 	"MailSubject3"	"Betreff: Fast fertig"
 	"MailBody3A"	"Ok, ich bin fast fertig. Alle Waffen sind geknackt und können ohne Genehmigung über das SecNet bedient werden"
 	"MailBody3B"	"Ich hatte ein paar Probleme mit dem Transport... Der Flammenwerfer blieb stecken, aber ich denke, ich werde ihn wieder herausbekommen."
 
 	"MailFrom4"	"An: Unbekannt"
-	"MailDate4"	"Datum: 25.09.63"
+	"MailDate4"	"Datum: 09/25/63"
 	"MailSubject4"	"Betreff: VERGISS ES!"
 	"MailBody4A"	"Hier sind irgendwelche Monster, ich habe sie nicht gesehen, aber ich spüre, dass sie sich in den Schatten verstecken. GEH HIER NICHT REIN!!!"
 	"MailBody4B"	"Ich hau ab"
