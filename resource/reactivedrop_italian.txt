@@ -5051,7 +5051,7 @@
 "[english]rd_res1_ob_escape2"		"Access the facility"
 "rd_res1_ob_escape2_d"		"Apri la camera stagna per procedere nella struttura."
 "[english]rd_res1_ob_escape2_d"		"Open the airlock door to proceed through the facility."
-"rd_res1_ob_escape"		"Procedi dentro la stuttura"
+"rd_res1_ob_escape"		"Procedi dentro la struttura"
 "[english]rd_res1_ob_escape"		"Proceed into facility"
 "rd_res1_ob_escape_d"		"Entra nella struttura Research 7."
 "[english]rd_res1_ob_escape_d"		"Get inside the Research 7 facility."
