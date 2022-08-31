@@ -3,17 +3,17 @@
 
 [h1]Feldzüge[/h1]
 [list]
-		[*][b]Area 9800: Power Plant's Generator:[/b] Fixed narrow catwalks negatively affecting AI pathing.
-		[*][b]Operation Cleansweep: U.S.C. Medusa:[/b] Pods will now reopen if a marine leaves, rather than if they are fully empty.
+[*][b]Bereich 9800: Der Generator des Kraftwerks:[/b] Enge Laufstege behoben, die die KI-Wegfindung negativ beeinflussen.
+[*][b]Operation Säuberung: U.S.C. Medusa:[/b] Pods werden jetzt wieder geöffnet, wenn ein Soldat sie verlässt, anstatt wenn sie komplett leer sind.
 [*][b]Forschung 7: Illyn Wald:[/b] Es wurde behoben, dass der Generator von Bots angegriffen werden kann.
-		[*][b]Tears for Tarnor: Oasis Colony Spaceport:[/b] Fixed a soft lock if a boomer used in a cinematic is killed early due to a challenge.
-		[*][b]Tilarus-5: SynTek Hospital:[/b] Reworked countdown at end of mission.
-		[*][b]Lana's Escape: Lana's Bridge:[/b] Fixed escape objective not updating when a marine dies.
-		[*][b]Lana's Escape: Lana's Sewer:[/b] Fixed escape objective not updating when a marine dies.
+[*][b]Tränen für Tarnor: Oasis-Kolonie Raumhafen:[/b] Ein Softlock wurde behoben, wenn ein Boomer, der in einer Filmsequenz verwendet wird, aufgrund einer Herausforderung frühzeitig getötet wird.
+[*][b]Tilarus-5: SynTek Krankenhaus:[/b] Der Countdown am Ende der Mission wurde überarbeitet.
+[*][b]Lanas Flucht: Lanas Brücke:[/b] Das Ziel der Flucht wurde nicht aktualisiert, wenn ein Soldat starb.
+[*][b]Lanas Flucht: Lanas Abwasserkanal:[/b] Das Ziel der Flucht wurde nicht aktualisiert, wenn ein Soldat starb.
 [*][b]Paranoia: Entscheidender Punkt:[/b] Die letzte Begegnung wurde überarbeitet. Die Soldaten müssen jetzt einen Generator verteidigen. Wenn der Generator beschädigt wird, stoppt er den Fortschritt der Fertigstellung, bis er von einem Techniker repariert wurde. Wenn sich kein Soldat in der Nähe des Generators befindet, nimmt er zusätzlichen Schaden.
-		[*][b]Nam Humanum: Logistics Area:[/b] Reworked geometry near a fire.
-		[*][b]Nam Humanum: Groundwork Labs:[/b] Fixed a large door being able to be damaged, which would cause it to get stuck.
-		[*][b]Bonus Mission 7:[/b] Fixed narrow catwalks negatively affecting AI pathing.
+[*][b]Nam Humanum: Logistikgebiet:[/b] Überarbeitete Geometrie in der Nähe eines Feuers.
+[*][b]Nam Humanum: Grundstein Laboratorien:[/b] Es wurde behoben, dass eine große Tür beschädigt werden konnte, was dazu führte, dass sie stecken blieb.
+[*][b]Bonus Einsatz 7:[/b] Enge Laufstege, die die KI-Wegfindung negativ beeinflussen, wurden behoben.
 [/list]
 
 [h1]Aliens[/h1]
@@ -24,8 +24,8 @@
 [h1]Waffen[/h1]
 [list]
 [*]Die Berechnung der Durchdringungschance für Geschosse, die durch eine Tür oder ein anderes nicht-lebendes Objekt gegangen sind, wurde korrigiert. (Aus einer 200%igen, 290%igen und 300%igen Chance wird nun eine 100%ige Chance, ein anderes Ziel zu durchbohren, anstatt 0%, 90% und 0%).
-		[*][b]M868 Flamer Unit:[/b] Doubled ammo per clip and ammo usage. Primary attack now uses one unit of fuel per shot.
-		[*][b]IAF Minigun:[/b] Doubled ammo per clip and ammo usage. Primary attack now uses one unit of ammo per shot.
+[*][b]M868 Flammenwerfer:[/b] Die Munition pro Clip und der Munitionsverbrauch wurden verdoppelt. Der Hauptangriff verbraucht jetzt eine Einheit Treibstoff pro Schuss.
+[*][b]IAF Minigun:[/b] Verdoppelung der Munition pro Clip und des Munitionsverbrauchs. Der Hauptangriff verbraucht jetzt eine Einheit Munition pro Schuss.
 [/list]
 
 [h1]Übersetzungen[/h1]
@@ -57,8 +57,8 @@
 [list]
 [*]Neue VScript-Klasse TempEnts hinzugefügt, mit der temporäre Entitäten auf Clients erstellt werden können.
 [*]Es wurden neue globale VScript-Funktionen hinzugefügt, die beim Erstellen von temporären Entitäten verwendet werden können.
-		[*]Added the PlayerVoiceListener class to VScript with access to the following functions.
-		[*]Added new VScript functions for CASW_Player.
+[*]Die Klasse PlayerVoiceListener wurde zu VScript hinzugefügt und bietet Zugriff auf die folgenden Funktionen.
+[*]Neue VScript-Funktionen für CASW_Player hinzugefügt.
 [/list]
 
 [h2]TempEnts[/h2]
