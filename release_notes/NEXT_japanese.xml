@@ -3,17 +3,17 @@
 
 [h1]キャンペーン[/h1]
 [list]
-		[*][b]Area 9800: Power Plant's Generator:[/b] Fixed narrow catwalks negatively affecting AI pathing.
-		[*][b]Operation Cleansweep: U.S.C. Medusa:[/b] Pods will now reopen if a marine leaves, rather than if they are fully empty.
+[*][b]Area 9800: Power Plant's Generator:[/b] 細い足場がAIの経路決定に悪い影響を与えていたのを修正。
+[*][b]Operation Cleansweep: U.S.C. Medusa:[/b] 隊員がゲームを抜けたらポッドがただ空っぽのままになるのではなく、蓋が開くようになった。
 [*][b]Research 7: Illyn Forest:[/b] 海兵隊botが発電機を狙うことがあったのを修正。
-		[*][b]Tears for Tarnor: Oasis Colony Spaceport:[/b] Fixed a soft lock if a boomer used in a cinematic is killed early due to a challenge.
-		[*][b]Tilarus-5: SynTek Hospital:[/b] Reworked countdown at end of mission.
-		[*][b]Lana's Escape: Lana's Bridge:[/b] Fixed escape objective not updating when a marine dies.
-		[*][b]Lana's Escape: Lana's Sewer:[/b] Fixed escape objective not updating when a marine dies.
-[*][b]Paranoia: Crucial Point:[/b] 最後の戦闘を作り変えた。海兵隊達は発電機を守らなければならなくなった。発電機が損傷すると、エンジニアが修理しない限り完了までの時間が進まなくなる。発電機の近くに誰も隊員がいないと、発電機は追加のダメージを受ける。
-		[*][b]Nam Humanum: Logistics Area:[/b] Reworked geometry near a fire.
-		[*][b]Nam Humanum: Groundwork Labs:[/b] Fixed a large door being able to be damaged, which would cause it to get stuck.
-		[*][b]Bonus Mission 7:[/b] Fixed narrow catwalks negatively affecting AI pathing.
+[*][b]Tears for Tarnor: Oasis Colony Spaceport:[/b] 演出中に出現するブーマーがチャレンジの影響で先に殺されてしまった時にソフトロックが発生していたのを修正。
+[*][b]Tilarus-5: SynTek Hospital:[/b] ミッションの最後のカウントダウンを変更。
+[*][b]Lana's Escape: Lana's Bridge:[/b] 隊員が死亡した場合に脱出目標が更新されなかったのを修正。
+[*][b]Lana's Escape: Lana's Sewer:[/b] 隊員が死亡した場合に脱出目標が更新されなかったのを修正。
+[*][b]Paranoia: Crucial Point:[/b] 最後の戦闘の内容を変更。海兵隊達は発電機を守らなければならなくなった。発電機が損傷すると、エンジニアが修理しない限り完了までの時間が進まなくなる。発電機の近くに誰も隊員がいないと、発電機は追加のダメージを受ける。
+[*][b]Nam Humanum: Logistics Area:[/b] 火災周りの配置を変更。
+[*][b]Nam Humanum: Groundwork Labs:[/b] 大型のドアにダメージを与えることが可能で、それにより進行不能になることがあったのを修正。
+[*][b]ボーナスミッション 7:[/b] 細い足場がAIの経路決定に悪い影響を与えていたのを修正。
 [/list]
 
 [h1]エイリアン[/h1]
@@ -24,8 +24,8 @@
 [h1]武器[/h1]
 [list]
 [*]ドアや非生物オブジェクトを弾丸が貫通する確率の計算式を修正。(200%、290%、300%なら次のターゲットを0%、90%、0%で貫通していたのを全て100%になるように修正。)
-		[*][b]M868 Flamer Unit:[/b] Doubled ammo per clip and ammo usage. Primary attack now uses one unit of fuel per shot.
-		[*][b]IAF Minigun:[/b] Doubled ammo per clip and ammo usage. Primary attack now uses one unit of ammo per shot.
+[*][b]M868 フレイマーユニット:[/b] 1マガジンの弾薬量と弾薬消費を2倍に変更。通常攻撃1射で燃料1を消費するようになった。
+[*][b]IAF ミニガン:[/b] 1マガジンの弾薬量と弾薬消費を2倍に変更。通常攻撃1射で弾薬1を消費するようになった。
 [/list]
 
 [h1]翻訳[/h1]
@@ -57,8 +57,8 @@
 [list]
 [*]新しいVScriptのクラスTempEntsを追加。クライアントに一時的なentityの作成を許可する。
 [*]一時的なentityの作成時に使用する新しいVScriptのグローバル関数を追加。
-		[*]Added the PlayerVoiceListener class to VScript with access to the following functions.
-		[*]Added new VScript functions for CASW_Player.
+[*]以下に記述する関数へアクセスするクラスPlayerVoiceListenerをVscriptに追加。
+[*]CASW_Playerに関する新しいVScript関数を追加。
 [/list]
 
 [h2]TempEnts[/h2]
@@ -94,4 +94,4 @@ effectをプリキャッシュする。
 以前にプリキャッシュしたeffect indexをstringに変換する。
 
 [code]int GetDecalIndexForName( string name )[/code]
-stringからdecalのindexを取得する。</string><string id="subtitle"></string><string id="summary"></string><string id="title">Alien Swarm: Reactive Drop Update - MMMMM DD, YYYY</string></content>
+stringからdecalのindexを取得する。</string><string id="subtitle"></string><string id="summary"></string><string id="title">Alien Swarm: Reactive Drop アップデート - MMMMM DD, YYYY</string></content>
