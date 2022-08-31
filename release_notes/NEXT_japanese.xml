@@ -3,8 +3,17 @@
 
 [h1]キャンペーン[/h1]
 [list]
+		[*][b]Area 9800: Power Plant's Generator:[/b] Fixed narrow catwalks negatively affecting AI pathing.
+		[*][b]Operation Cleansweep: U.S.C. Medusa:[/b] Pods will now reopen if a marine leaves, rather than if they are fully empty.
 [*][b]Research 7: Illyn Forest:[/b] 海兵隊botが発電機を狙うことがあったのを修正。
+		[*][b]Tears for Tarnor: Oasis Colony Spaceport:[/b] Fixed a soft lock if a boomer used in a cinematic is killed early due to a challenge.
+		[*][b]Tilarus-5: SynTek Hospital:[/b] Reworked countdown at end of mission.
+		[*][b]Lana's Escape: Lana's Bridge:[/b] Fixed escape objective not updating when a marine dies.
+		[*][b]Lana's Escape: Lana's Sewer:[/b] Fixed escape objective not updating when a marine dies.
 [*][b]Paranoia: Crucial Point:[/b] 最後の戦闘を作り変えた。海兵隊達は発電機を守らなければならなくなった。発電機が損傷すると、エンジニアが修理しない限り完了までの時間が進まなくなる。発電機の近くに誰も隊員がいないと、発電機は追加のダメージを受ける。
+		[*][b]Nam Humanum: Logistics Area:[/b] Reworked geometry near a fire.
+		[*][b]Nam Humanum: Groundwork Labs:[/b] Fixed a large door being able to be damaged, which would cause it to get stuck.
+		[*][b]Bonus Mission 7:[/b] Fixed narrow catwalks negatively affecting AI pathing.
 [/list]
 
 [h1]エイリアン[/h1]
@@ -15,6 +24,8 @@
 [h1]武器[/h1]
 [list]
 [*]ドアや非生物オブジェクトを弾丸が貫通する確率の計算式を修正。(200%、290%、300%なら次のターゲットを0%、90%、0%で貫通していたのを全て100%になるように修正。)
+		[*][b]M868 Flamer Unit:[/b] Doubled ammo per clip and ammo usage. Primary attack now uses one unit of fuel per shot.
+		[*][b]IAF Minigun:[/b] Doubled ammo per clip and ammo usage. Primary attack now uses one unit of ammo per shot.
 [/list]
 
 [h1]翻訳[/h1]
@@ -46,6 +57,8 @@
 [list]
 [*]新しいVScriptのクラスTempEntsを追加。クライアントに一時的なentityの作成を許可する。
 [*]一時的なentityの作成時に使用する新しいVScriptのグローバル関数を追加。
+		[*]Added the PlayerVoiceListener class to VScript with access to the following functions.
+		[*]Added new VScript functions for CASW_Player.
 [/list]
 
 [h2]TempEnts[/h2]

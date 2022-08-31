@@ -3,8 +3,17 @@
 
 [h1]Campaigns[/h1]
 [list]
+[*][b]Area 9800: Power Plant's Generator:[/b] Fixed narrow catwalks negatively affecting AI pathing.
+[*][b]Operation Cleansweep: U.S.C. Medusa:[/b] Pods will now reopen if a marine leaves, rather than if they are fully empty.
 [*][b]Research 7: Illyn Forest:[/b] Fixed generator being targetable by marine bots.
+[*][b]Tears for Tarnor: Oasis Colony Spaceport:[/b] Fixed a soft lock if a boomer used in a cinematic is killed early due to a challenge.
+[*][b]Tilarus-5: SynTek Hospital:[/b] Reworked countdown at end of mission.
+[*][b]Lana's Escape: Lana's Bridge:[/b] Fixed escape objective not updating when a marine dies.
+[*][b]Lana's Escape: Lana's Sewer:[/b] Fixed escape objective not updating when a marine dies.
 [*][b]Paranoia: Crucial Point:[/b] Reworked the final encounter. Marines must now defend a generator. If the generator is damaged, it will stop the completion progress until fixed by a tech. If no marine is near the generator, it will take additional damage.
+[*][b]Nam Humanum: Logistics Area:[/b] Reworked geometry near a fire.
+[*][b]Nam Humanum: Groundwork Labs:[/b] Fixed a large door being able to be damaged, which would cause it to get stuck.
+[*][b]Bonus Mission 7:[/b] Fixed narrow catwalks negatively affecting AI pathing.
 [/list]
 
 [h1]Aliens[/h1]
@@ -15,6 +24,8 @@
 [h1]Weapons[/h1]
 [list]
 [*]Fixed piercing chance calculation for bullets that went through a door or other non-living object. (A 200% chance, 290% chance, and 300% chance now all become 100% chance of piercing another target rather than 0%, 90%, and 0%.)
+[*][b]M868 Flamer Unit:[/b] Doubled ammo per clip and ammo usage. Primary attack now uses one unit of fuel per shot.
+[*][b]IAF Minigun:[/b] Doubled ammo per clip and ammo usage. Primary attack now uses one unit of ammo per shot.
 [/list]
 
 [h1]Translations[/h1]
@@ -46,7 +57,8 @@
 [list]
 [*]Added new VScript class TempEnts which allows creating Temporary Entities on clients.
 [*]Added new global VScript functions to use when creating Temporary Entities.
-[*]Add the PlayerVoiceListener class to VScript with access to the following functions.
+[*]Added the PlayerVoiceListener class to VScript with access to the following functions.
+[*]Added new VScript functions for CASW_Player.
 [/list]
 
 [h2]TempEnts[/h2]
@@ -90,4 +102,24 @@ Converts a previously precached effect into an index
 Converts a previously precached effect index into a string
 
 [code]int GetDecalIndexForName( string name )[/code]
-Get decal index from a string</string><string id="subtitle"></string><string id="summary"></string><string id="title">Alien Swarm: Reactive Drop Update - MMMMM DD, YYYY</string></content>
+Get decal index from a string
+
+[h2]CASW_Player[/h2]
+
+[code]CBaseEntity GetNPC()[/code]
+Returns entity the player is inhabiting
+
+[code]CBaseEntity GetSpectatingNPC()[/code]
+Returns entity the player is spectating
+
+[code]CBaseEntity GetViewNPC()[/code]
+Returns entity the player is spectating, else will return inhabiting entity
+
+[code]CASW_Marine GetMarine()[/code]
+Returns the marine the player is commanding
+
+[code]CBaseEntity FindPickerEntity()[/code]
+Finds the nearest entity in front of the player
+
+[code]Vector GetCrosshairTracePos()[/code]
+Returns the world location directly beneath the player's crosshair</string><string id="subtitle"></string><string id="summary"></string><string id="title">Alien Swarm: Reactive Drop Update - MMMMM DD, YYYY</string></content>
