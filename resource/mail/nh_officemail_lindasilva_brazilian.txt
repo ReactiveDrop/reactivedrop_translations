@@ -11,7 +11,7 @@ GAME
 	"MailBody1B"	"Vamo lá Lin. Você é a segunda em comando desde que a esposa dele morreu. Agora é a hora de colocar parte dessa conquista em uso. Só desta vez, se nunca mais."
 
 	"MailFrom2"	"De: Jonathan Dorland"
-	"MailDate2"	"Data: 14/02/46"
+	"MailDate2"	"Data: 14/02/42"
 	"MailSubject2"	"Assunto: RE: RE: Dr. Moreau?"
 	"MailBody2A"	"Certo, certinho mesmo, Doutor Da Silva."
 	"MailBody2B"	"Nam Humanum :)"
@@ -32,4 +32,3 @@ GAME
 	"MailBody4A"	"Se você pode por um fim nisso, então sim, Vou garantir que seu acesso aos laboratórios estejam liberados."
 	"MailBody4B"	"Apague todos os rastros desta conversa, e rezar para que já não haja um Big brother para bisbilhotar em nossas portas."
 }
-
