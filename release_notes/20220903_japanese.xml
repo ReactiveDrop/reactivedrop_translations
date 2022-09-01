@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<content><string id="body">As Season 2 of Heroes of the Interstellar armed forces comes to an end, we are changing the competition from quarterly to monthly. We've also got a wide assortment of bugfixes and a few new VScript functions.
+<content><string id="body">Interstellar armed forcesの英雄たちのシーズン2が終わりを迎えるのにあたり、競争期間を四半期から毎月に変更しました。他にも幅広い内容のバグ修正と少々のVScript関数を新しく追加しました。
 
 [h1]キャンペーン[/h1]
 [list]
@@ -44,7 +44,7 @@
 [*]高度な設定にメニュー中の挙動の簡素化を追加。
 [*]高度な設定とゲーム設定でのキーボード・コントローラーのナビゲーションを改善。
 [*]ロビーリストでホストプレイヤーとマップのバージョンが違う際の警告メッセージを追加。
-		[*]prop_dynamic now uses server-driven animation timing. This fixes vault door opening animations getting desynchronized, but increases network bandwidth requirements in missions that use a lot of animated props.
+[*]prop_dynamicはサーバー側でアニメーションのタイミングを取るようになった。これによりシェルタードアが開くアニメーションが同期ずれしていたのを修正したが、動きのあるpropが多いミッションでは必要なネットワーク帯域幅が増加した。
 [/list]
 
 [h1]マップ作成[/h1]
@@ -95,4 +95,4 @@ effectをプリキャッシュする。
 以前にプリキャッシュしたeffect indexをstringに変換する。
 
 [code]int GetDecalIndexForName( string name )[/code]
-stringからdecalのindexを取得する。</string><string id="subtitle"></string><string id="summary"></string><string id="title">Alien Swarm: Reactive Drop アップデート - September 3, 2022</string></content>
+stringからdecalのindexを取得する。</string><string id="subtitle"></string><string id="summary"></string><string id="title">Alien Swarm: Reactive Drop アップデート - 2022年9月3日</string></content>
