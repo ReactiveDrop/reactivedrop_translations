@@ -11,7 +11,7 @@ GAME
 	"MailBody1B"	"Andiamo Lin. Sei stato il secondo in carica da quando sua moglie è morta. Ora è il momento di mettere a frutto parte di quel guadagno. Solo per questa volta, se mai più."
 
 	"MailFrom2"	"Da: Jonathan Dorland"
-	"MailDate2"	"Data: 14/02/46"
+	"MailDate2"	"Data: 14/02/42"
 	"MailSubject2"	"Soggetto: RE: RE: Dr. Moreau?"
 	"MailBody2A"	"Sì, è davvero chiaro, dottor Da Silva."
 	"MailBody2B"	"Nam Humanum :)"
