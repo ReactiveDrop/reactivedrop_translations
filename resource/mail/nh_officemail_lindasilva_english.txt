@@ -11,7 +11,7 @@ GAME
 	"MailBody1B"	"Come on Lin. You’ve been second in charge ever since his wife died. Now’s the time to put some of that earning to use. Just this once, if never again."
 
 	"MailFrom2"	"From: Jonathan Dorland"
-	"MailDate2"	"Date: 02/14/46"
+	"MailDate2"	"Date: 02/14/42"
 	"MailSubject2"	"Subject: RE: RE: Dr. Moreau?"
 	"MailBody2A"	"Aye, pretty clear indeed, Doctor Da Silva."
 	"MailBody2B"	"Nam Humanum :)"
