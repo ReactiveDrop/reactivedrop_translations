@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<content><string id="body">As Season 2 of Heroes of the Interstellar Armed Forces comes to an end, we are changing the competition from quarterly to monthly. We've also got a wide assortment of bugfixes and a few new VScript functions.
+<content><string id="body">Поскольку 2-й сезон «Героев межзвёздных вооружённых сил» подходит к концу, мы меняем конкурс с ежеквартального на ежемесячный. Мы также исправили множество ошибок и добавили несколько новых функций VScript.
 
 [h1]Кампании[/h1]
 [list]
-		[*][b]Area 9800: Power Plant's Generator:[/b] Fixed narrow catwalks negatively affecting AI pathing.
-		[*][b]Operation Cleansweep: U.S.C. Medusa:[/b] Pods will now reopen if a marine leaves, rather than if they are fully empty.
+[*][b]Сектор 9800: Генератор электростанции:[/b] Исправлены узкие помосты, негативно влияющие на траекторию движения ИИ.
+[*][b]Операция «Очистка»: О.С.К. «Медуза»:[/b] Теперь капсулы будут вновь открываться, если боец покидает их, а не если они полностью пусты.
 [*][b]Исследование №7: Лес Иллин:[/b] Исправлена возможность атаки генератора бойцами-ботами.
-		[*][b]Tears for Tarnor: Oasis Colony Spaceport:[/b] Fixed a soft lock if a boomer used in a cinematic is killed early due to a challenge.
-		[*][b]Tilarus-5: SynTek Hospital:[/b] Reworked countdown at end of mission.
-		[*][b]Lana's Escape: Lana's Bridge:[/b] Fixed escape objective not updating when a marine dies.
-		[*][b]Lana's Escape: Lana's Sewer:[/b] Fixed escape objective not updating when a marine dies.
+[*][b]Слёзы по Тарнору: Космопорт колонии «Оазис»:[/b] Исправлено подвесание игры, если брюхач, используемый в в камере после убийства, был убит раньше времени из-за испытания.
+[*][b]Тиларус-5: Госпиталь «СинТек»:[/b] Переработан обратный отсчёт в конце миссии.
+[*][b]«Спасение Ланы»: Мост «Лана»:[/b] Исправлено отсутствие обновления цели спасения при гибели бойца.
+[*][b]«Спасение Ланы»: Коллектор «Лана»:[/b] Исправлено отсутствие обновления цели спасения при гибели бойца.
 [*][b]Паранойя: Переломный момент:[/b] Переработана встреча в конце. Теперь бойцы должны защищать генератор. Если генератор повреждён, он остановит процесс завершения, пока его не починит техник. Если рядом с генератором нет бойца, он получит дополнительный урон.
-		[*][b]Nam Humanum: Logistics Area:[/b] Reworked geometry near a fire.
-		[*][b]Nam Humanum: Groundwork Labs:[/b] Fixed a large door being able to be damaged, which would cause it to get stuck.
-		[*][b]Bonus Mission 7:[/b] Fixed narrow catwalks negatively affecting AI pathing.
+[*][b]«Нам Гуманум»: Область логистики:[/b] Переработана геометрия вблизи огня.
+[*][b]«Нам Гуманум»: Лаборатория «Фундаментальность»:[/b] Исправлена возможность повреждения большой двери, в результате чего она застревала.
+[*][b]Бонусная миссия №7:[/b] Исправлены узкие помосты, негативно влияющие на траекторию движения ИИ.
 [/list]
 
-[h1]Чужие[/h1]
+[h1]Жуки[/h1]
 [list]
 [*]Добавлены звуковые эффекты королевы из кампании Сити-17.
 [/list]
@@ -24,8 +24,8 @@
 [h1]Оружие[/h1]
 [list]
 [*]Исправлен расчёт шанса пробития для пуль, прошедших через дверь или другой неживой объект. (Шанс 200%, 290% и 300% теперь становится 100% шансом пробить другую цель, а не 0%, 90% и 0%).
-		[*][b]M868 Flamer Unit:[/b] Doubled ammo per clip and ammo usage. Primary attack now uses one unit of fuel per shot.
-		[*][b]IAF Minigun:[/b] Doubled ammo per clip and ammo usage. Primary attack now uses one unit of ammo per shot.
+[*][b]Огнемёт M868:[/b] Удвоено количество топлива в обойме и расход топлива. Основная атака теперь расходует одну единицу топлива на выстрел.
+[*][b]Миниган МВС:[/b] Удвоено количество патронов в обойме и расход боеприпасов. Основная атака теперь использует одну единицу патронов за выстрел.
 [/list]
 
 [h1]Переводы[/h1]
@@ -41,10 +41,10 @@
 [list]
 [*]Исправлены дополнения, не относящиеся к мастерской, которые вели себя так, будто они отключены в окне выбора миссий.
 [*]Исправлена критическая ошибка при запуске, если переменная среды PATH была очень длинной.
-		[*]Added an advanced setting to reduce motion on menus.
-		[*]Improved keyboard/controller navigation on Advanced Settings and Game Settings.
-		[*]Added a warning on the lobby list if you have a different version of a map than the host.
-		[*]prop_dynamic now uses server-driven animation timing. This fixes vault door opening animations getting desynchronized, but increases network bandwidth requirements in missions that use a lot of animated props.
+[*]Добавлена расширенная настройка для уменьшения движения в меню.
+[*]Улучшена навигация по клавиатуре/контроллеру в расширенных настройках и настройках игры.
+[*]Добавлено предупреждение в списке лобби, если у вас версия карты отличается от версии организатора.
+[*]prop_dynamic теперь использует управляемую сервером синхронизацию анимации. Это устраняет рассинхронизацию анимации открытия дверей хранилища, но увеличивает требования к пропускной способности сети в миссиях с большим количеством анимированных объектов.
 [/list]
 
 [h1]Карты[/h1]
@@ -59,7 +59,7 @@
 [*]Добавлен новый класс VScript TempEnts, который позволяет создавать временные энтити на клиентах.
 [*]Добавлены новые глобальные функции VScript для использования при создании временных энтити.
 [*]Добавлен класс PlayerVoiceListener в VScript с доступом к следующим функциям.
-		[*]Added new VScript functions for CASW_Player.
+[*]Добавлены новые функции VScript для CASW_Player.
 [/list]
 
 [h2]TempEnts (временные энтити)[/h2]
@@ -103,4 +103,24 @@
 Преобразует предварительно запомненный индекс эффекта в строку
 
 [code]int GetDecalIndexForName( string name )[/code]
-Получение индекса декали из строки</string><string id="subtitle"></string><string id="summary"></string><string id="title">Обновление Alien Swarm: Reactive Drop - September 3, 2022</string></content>
+Получение индекса декали из строки
+
+[h2]CASW_Player[/h2]
+
+[code]CBaseEntity GetNPC()[/code]
+Возвращает энтити, в которой находится игрок
+
+[code]CBaseEntity GetSpectatingNPC()[/code]
+Возвращает энтити, за которым наблюдает игрок
+
+[code]CBaseEntity GetViewNPC()[/code]
+Возвращает энтити, за которой наблюдает игрок, в противном случае возвращает энтити, в которой находится игрок
+
+[code]CASW_Marine GetMarine()[/code]
+Возвращает бойца, которым управляет игрок
+
+[code]CBaseEntity FindPickerEntity()[/code]
+Находит ближайшую энтити перед игроком
+
+[code]Vector GetCrosshairTracePos()[/code]
+Возвращает местоположение мира непосредственно под прицелом игрока</string><string id="subtitle"></string><string id="summary"></string><string id="title">Обновление Alien Swarm: Reactive Drop - 3 сентября 2022</string></content>
