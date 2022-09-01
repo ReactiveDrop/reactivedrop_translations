@@ -8,7 +8,7 @@ GAME
 "MailBody1A"	"Doc, das ist die dritte Lieferung von Sporen, die wir in Dr. Moreaus Labore bringen sollen. Die dritte Lieferung. Ich weiß nicht, wie es dir geht, aber ich hätte gedacht, dass etwas so Bedeutendes wie die Entdeckung einer einheimischen Lebensform zumindest auch den Vorstand beschäftigen würde. Es gibt eine Menge Rauch und niemand sucht nach dem Feuer?"
 "MailBody1B"	"Komm schon, Lin. Seit dem Tod seiner Frau bist du der zweite Mann im Haus. Jetzt ist es an der Zeit, etwas von dem, was du verdient hast, einzusetzen. Nur dieses eine Mal, wenn auch nie wieder."
 "MailFrom2"	"Von: Jonathan Dorland"
-"MailDate2"	"Datum: 02/14/46"
+"MailDate2"	"Datum: 02/14/42"
 "MailSubject2"	"Betreff: AW: AW: Dr. Moreau?"
 "MailBody2A"	"Aye, ziemlich klar, Doktor Da Silva."
 "MailBody2B"	"Nam Humanum :)"
