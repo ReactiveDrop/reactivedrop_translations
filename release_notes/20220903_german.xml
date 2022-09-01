@@ -95,4 +95,24 @@ Wandelt einen zuvor vorgespeicherten Effekt in einen Index um
 Wandelt einen zuvor zwischengespeicherten Effektindex in einen String um
 
 [code]int GetDecalIndexForName( string name )[/code]
-Decal-Index aus einer Zeichenkette holen</string><string id="subtitle"></string><string id="summary"></string><string id="title">Alien Swarm: Reactive Drop Update - September 3, 2022</string></content>
+Decal-Index aus einer Zeichenkette holen
+
+[h2]CASW_Player[/h2]
+
+[code]CBaseEntity GetNPC()[/code]
+		Returns entity the player is inhabiting
+
+[code]CBaseEntity GetSpectatingNPC()[/code]
+		Returns entity the player is spectating
+
+[code]CBaseEntity GetViewNPC()[/code]
+		Returns entity the player is spectating, else will return inhabiting entity
+
+[code]CASW_Marine GetMarine()[/code]
+		Returns the marine the player is commanding
+
+[code]CBaseEntity FindPickerEntity()[/code]
+		Finds the nearest entity in front of the player
+
+[code]Vector GetCrosshairTracePos()[/code]
+		Returns the world location directly beneath the player's crosshair</string><string id="subtitle"></string><string id="summary"></string><string id="title">Alien Swarm: Reactive Drop Update - September 3, 2022</string></content>
