@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<content><string id="body">As Season 2 of Heroes of the Interstellar Armed Forces comes to an end, we are changing the competition from quarterly to monthly. We've also got a wide assortment of bugfixes and a few new VScript functions.
+<content><string id="body">Poiché la Stagione 2 di Eroi delle Forze Armate Interstellari volge al termine, stiamo cambiando la competizione da trimestrale a mensile. Abbiamo anche un vasto assortimento di correzioni di bug e alcune nuove funzioni VScript.
 
 [h1]Campagne[/h1]
 [list]
@@ -44,7 +44,7 @@
 [*]Aggiunta una impostazione avanzata per ridurre il movimento nei menu.
 [*]Migliorata la navigazione con tastiera/controller nelle Impostazioni Avanzate e Impostazioni di Gioco.
 [*]Aggiunto un avviso nella lobby se hai una versione della mappa differente rispetto all'host.
-		[*]prop_dynamic now uses server-driven animation timing. This fixes vault door opening animations getting desynchronized, but increases network bandwidth requirements in missions that use a lot of animated props.
+[*]prop_dynamic ora utilizza una tempistica delle animazioni guidata dal server. Questo risolve il problema della desincronizzazione delle animazioni di apertura delle porte del caveau, ma aumenta i requisiti di larghezza di banda della rete nelle missioni che utilizzano molti oggetti di scena animati.
 [/list]
 
 [h1]Mapping[/h1]
@@ -103,4 +103,4 @@ Converte un effetto precedentemente memorizzato nella cache in un indice.
 Converte un indice di effetto precedentemente memorizzato nella cache in una stringa
 
 [code]int GetDecalIndexForName( string name )[/code]
-Ottieni l'indice della decalcomania da una stringa</string><string id="subtitle"></string><string id="summary"></string><string id="title">Aggiornamento di Alien Swarm: Reactive Drop - September 3, 2022</string></content>
+Ottieni l'indice della decalcomania da una stringa</string><string id="subtitle"></string><string id="summary"></string><string id="title">Aggiornamento di Alien Swarm: Reactive Drop - 3 Settembre 2022</string></content>
