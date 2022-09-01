@@ -18,7 +18,7 @@ GAME
 
 // mail spedita
 "MailFrom3"	"A: Soprintendente Ross"
-"MailDate3"	"Data: 02/02/54"
+"MailDate3"	"Data: 2/2/54"
 "MailSubject3"	"Soggetto: Re: Pressione del reattore in calo"
 "MailBody3A"	"Jimmy,"
 "MailBody3B"	"Scusa Jimmy, le mie mani sono legate, la maggior parte della struttura sta cercando di ripulire lo schianto nella baia 6."
@@ -26,7 +26,7 @@ GAME
 
 
 "MailFrom4"	"A: Soprintendente Ross"
-"MailDate4"	"Data: 02/02/54"
+"MailDate4"	"Data: 2/2/54"
 "MailSubject4"	"Soggetto: Re: John"
 "MailBody4A"	"Jimmy,"
 "MailBody4B"	"Ho mandato John subito dopo averti inviato la mail, ci vogliono solo 20 minuti per arrivare da te"
