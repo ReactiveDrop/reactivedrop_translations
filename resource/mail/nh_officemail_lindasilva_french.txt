@@ -11,7 +11,7 @@ GAME
 	"MailBody1B"	"Allons Lin. Tu es la seconde en cheffe depuis que sa femme est morte. C’est le moment d’user un peu de ton rang. Si jamais plus, au moins cette fois."
 
 	"MailFrom2"	"De : Jonathan Dorland"
-	"MailDate2"	"Date : 14/02/46"
+	"MailDate2"	"Date : 14/02/42"
 	"MailSubject2"	"Objet : RE : RE : Dr. Moreau?"
 	"MailBody2A"	"Clair comme de l’eau de roche, Docteur Da Silva."
 	"MailBody2B"	"Nam Humanum :)"
