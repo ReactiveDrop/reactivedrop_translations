@@ -3,7 +3,7 @@ GAME
 // PDA di proprietà di GeoTerraCorp
 
 "MailFrom1"	"Da: GeoTerra Rep, Andrew"
-"MailDate1"	"Data: 03/2/54"
+"MailDate1"	"Data: 03/02/54"
 "MailSubject1"	"Soggetto: IMPORTANTE--EVACUAZIONE-PLANETARIA"
 "MailBody1A"	"IMPORTANTE, È iniziata l'evacuazione della colonia di Long Dawn, dirigiti verso il centro di evacuazione più vicino"
 "MailBody1B"	"Gli equipaggi di evacuazione ti porteranno quindi presto sulle navi per essere portati fuori dal mondo, sulla stazione o piattaforma orbitale più vicina"

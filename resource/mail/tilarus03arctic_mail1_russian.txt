@@ -3,7 +3,7 @@ GAME
 	// PDA belongs to John Wisher
 
 	"MailFrom1"	"От: Кейт Вишер"
-	"MailDate1"	"Дата: 10.13.52"
+	"MailDate1"	"Дата: 10/13/52"
 	"MailSubject1"	"Тема: Что тут происходит?"
 	"MailBody1A"	"Эй милый!"
 	"MailBody1B"	"Я ничего от тебя не слышала, милый! Что там происходит?"

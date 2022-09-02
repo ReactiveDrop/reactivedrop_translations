@@ -3,7 +3,7 @@ GAME
 // PDA belongs to GeoTerraCorp
 
 "MailFrom1"	"发件人：吉泰勒代表，曼迪"
-"MailDate1"	"日期：02/2/54"
+"MailDate1"	"日期：02/02/54"
 "MailSubject1"	"主题：最近的地震"
 "MailBody1A"	"大家都知道，昨天发生的地震是由六号码头的事故引起的。
 一艘驶往11号轨道平台的大型货船，由李.奥瑞安船长驾驶，由于反应堆故障，失去轨道，撞入6号舱"

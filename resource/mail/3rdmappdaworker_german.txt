@@ -3,12 +3,12 @@ GAME
 // PDA belongs to Naka
 
 	"MailFrom1"	"Von: Kommandant"
-	"MailDate1"	"Datum: 25.09.63"
+	"MailDate1"	"Datum: 09/25/63"
 	"MailSubject1"	"Betreff: Anweisung"
 	"MailBody1A"	"Lass alles stehen und liegen und geh zurück in den Konferenzraum."
 
 	"MailFrom3"	"An: Kommandant"
-	"MailDate3"	"Datum: 25.09.63"
+	"MailDate3"	"Datum: 09/25/63"
 	"MailSubject3"	"Betreff: Phase 3a abgeschlossen"
 	"MailBody3A"	"Käfige mit experimentellen Außerirdischen sind vor Ort. Schade, dass sich die Unsichtbaren nicht fortpflanzen können"
 	"MailBody3B"	"Sie sollten bald aufwachen... Die Soldaten haben keine Chance gegen sie."
