@@ -2,7 +2,7 @@ GAME
 {
 // PDA belongs to Overseer Ross
 "MailFrom1"	"Von: Commander Harold"
-"MailDate1"	"Datum: 2/2/54"
+"MailDate1"	"Datum: 02/02/54"
 "MailSubject1"	"Betreff: Absturz "
 "MailBody1A"	"Guten Morgen Ross,"
 "MailBody1B"	"Ich nehme an, die Aufräumtrupps wissen gar nicht, wo sie anfangen sollen."

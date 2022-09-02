@@ -3,14 +3,14 @@ GAME
 // PDA belongs to Overseer Ross
 // inbox
 "MailFrom1"	"Von: Jimmy Carter"
-"MailDate1"	"Datum: 2/2/54"
+"MailDate1"	"Datum: 02/02/54"
 "MailSubject1"	"Betreff: Reaktordruck runter"
 "MailBody1A"	"Hey Ross,"
 "MailBody1B"	"Ich melde nur ein paar seltsame Geräusche in Abschnitt 6."
 "MailBody1C"	"Und noch mehr kaputte Rohre, VIEL mehr Rohre, der Druck in Reaktor 1 ist um 15% gesunken."
 "MailBody1D"	"Ich könnte etwas Hilfe gebrauchen, wir sprechen uns später."
 "MailFrom2"	"Von: Jimmy Carter"
-"MailDate2"	"Datum: 2/2/54"
+"MailDate2"	"Datum: 02/02/54"
 "MailSubject2"	"Betreff: John?"
 "MailBody2A"	"Ross, es ist fast 8 Stunden her. Wann willst du John runterschicken?"
 // sent mail

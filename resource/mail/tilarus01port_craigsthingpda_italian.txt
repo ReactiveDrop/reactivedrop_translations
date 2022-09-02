@@ -4,7 +4,7 @@ GAME
 // inbox
 
 "MailFrom1"	"Da: Childs"
-"MailDate1"	"Data: 2/2/54"
+"MailDate1"	"Data: 02/02/54"
 "MailSubject1"	"Soggetto: Re: I Canili"
 "MailBody1A"	"Amico, quella si che era roba strana."
 "MailBody1B"	"Quando Bennings mi è corso incontro, pensai che lui e Mac 
@@ -12,7 +12,7 @@ fossero impazziti. Forse Mac è già impazzito?"
 "MailBody1C"	"E chi avrebbe mai pensato che il lanciafiamme sarebbe effettivamente tornato utile?"
 
 "MailFrom2"	"Da: Childs"
-"MailDate2"	"Data: 2/2/54"
+"MailDate2"	"Data: 02/02/54"
 "MailSubject2"	"Soggetto: Re:Re: I Canili"
 "MailBody2A"	"Non che mi stia lamentando, ci ha sicuramente salvato i culi, ma non sembra un po' irresponsabile lasciare
 un'arma volatile e decisamente pericolosa nelle mani di un gruppo di ricercatori con poco o nessun contatto esterno
@@ -21,7 +21,7 @@ per mesi e mesi?"
 
 // mail spedita
 "MailFrom3"	"A: Windows"
-"MailDate3"	"Data: 2/2/54"
+"MailDate3"	"Data: 02/02/54"
 "MailSubject3"	"Soggetto: Re: I Canili"
 "MailBody3A"	"Sorge la domanda: noi siamo ricercatori artici e non soldati, che diavolo stiamo facendo con un lanciafiamme?
 quale possibile scopo ci serve? perché è qui?"
