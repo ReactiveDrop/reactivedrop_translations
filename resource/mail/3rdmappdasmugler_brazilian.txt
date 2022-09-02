@@ -3,18 +3,18 @@ GAME
 	// PDA Pertence ao Naka
 
 	"MailFrom1"	"De: Desconhecido"
-	"MailDate1"	"Data: 25/09/63"
+	"MailDate1"	"Data: 09/25/63"
 	"MailSubject1"	"Assunto: ???"
 	"MailBody1A"	"O que você está falando? Espero que não tenha mentido sobre essas armas. Eu vou te matar de mãos vazias se você não tiver com elas."
 
 	"MailFrom3"	"Para: Desconhecido"
-	"MailDate3"	"Data: 25/09/63"
+	"MailDate3"	"Data: 09/25/63"
 	"MailSubject3"	"Assunto: Quase pronto"
 	"MailBody3A"	"Ok, estou quase pronto. Todas as armas foram crackeadas e podem ser operadas sem autorização da SecNet"
 	"MailBody3B"	"Tive alguns problemas para transportá-las... O lança chamas ficou entalado, mas acho que vou conseguir."
 
 	"MailFrom4"	"Para: Desconhecido"
-	"MailDate4"	"Data: 25/09/63"
+	"MailDate4"	"Data: 09/25/63"
 	"MailSubject4"	"Assunto: TUDO CANCELADO!"
 	"MailBody4A"	"Existem alguns tipos de monstros aqui, Eu não os vi, mas os sinto escondidos nas sombras, NÃO ENTRE AQUI!!!"
 	"MailBody4B"	"Vou dar o fora daqui"

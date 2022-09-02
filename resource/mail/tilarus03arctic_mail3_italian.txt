@@ -5,7 +5,7 @@ GAME
 	// inbox
 
 	"MailFrom1"	"Da: Analista dati SynTek"
-	"MailDate1"	"Data: 10/5/52"
+	"MailDate1"	"Data: 10/05/52"
 	"MailSubject1"	"Soggetto: Dati layout impianto"
 	"MailBody1A"	"Ciao Martin"
 	"MailBody1B"	"Ho caricato i file di layout della struttura aggiornati nel terminale come da lei richiesto."
@@ -15,7 +15,7 @@ GAME
 	// mail spedita
 
 	"MailFrom3"	"A: Analista dati SynTek"
-	"MailDate3"	"Data: 10/5/52"
+	"MailDate3"	"Data: 10/05/52"
 	"MailSubject3"	"Soggetto: Re: Dati layout impianto"
 	"MailBody3A"	"Ciao Mike"
 	"MailBody3B"	"Oohh... Sei così divertente... :P"

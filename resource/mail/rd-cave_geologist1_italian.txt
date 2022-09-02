@@ -4,7 +4,7 @@ GAME
 
 	// inbox 
 	"MailFrom1"	"Da: G.S.D."
-	"MailDate1"	"Data: 17/9/57"
+	"MailDate1"	"Data: 17/09/57"
 	"MailSubject1"	"Soggetto: Re: Risultati preliminari del sistema delle caverne"
 	"MailBody1A"	"Ottimo lavoro Herbert, in base ai dati che hai inviato nel tuo rapporto, dovrei essere d'accordo con te. Il sistema di grotte è troppo instabile per far valere il rischio di estrarre il minerale di ferro."
 	"MailBody1B"	"Spero che quei dispositivi laser che ci hanno inviato ti siano stati utili. Sfortunatamente quel nuovo ragazzo, Jenson ha avuto una piccola arma da fuoco con la sua e ha causato una caverna. Fortunatamente nessuno è stato gravemente ferito, anche se il nuovo ragazzo vorrebbe che fosse stato in coma quando l'amministrazione lo avrebbe superato."
@@ -13,7 +13,7 @@ GAME
 
 	// mail spedita
 	"MailFrom3"	"A: G.S.D."
-	"MailDate3"	"Data: 17/9/57"
+	"MailDate3"	"Data: 17/09/57"
 	"MailSubject3"	"Soggetto: Risultati preliminari del sistema delle caverne"
 	"MailBody3A"	"Il sistema di grotte vicino al vecchio avamposto è costituito principalmente da arenaria e altre rocce molli. Ci sono alcune tasche di ferro e altri materiali più resistenti che permettono alle caverne di esistere a un livello così ampio."
 	"MailBody3B"	"Dovrei sconsigliare tuttavia l'estrazione, poiché la struttura generale è instabile, in parte a causa della suddetta composizione di materiali morbidi. Ho incluso un rapporto più approfondito come allegato."

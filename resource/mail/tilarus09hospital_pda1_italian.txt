@@ -5,7 +5,7 @@ GAME
 	// mail spedita
 
 	"MailFrom3"	"A: Dr. Kennett"
-	"MailDate3"	"Data: 3/12/46"
+	"MailDate3"	"Data: 03/12/46"
 	"MailSubject3"	"Soggetto: Investigazioni"
 	"MailBody3A"	"Dr.Kennett,"
 	"MailBody3B"	"Sembra che abbiamo attirato l'attenzione della maggior parte delle forze di polizia di quest'area."
