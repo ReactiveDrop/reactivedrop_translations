@@ -3,16 +3,20 @@
 
 [h1]Campaigns[/h1]
 [list]
+[*][b]Jacob's Rest: Rydberg Reactor:[/b] Fixed a bug in the ending area where marines could jump with jump jets underground to their death.
 [*][b]Area 9800: Power Plant's Generator:[/b] Fixed narrow catwalks negatively affecting AI pathing.
+[*][b]Operation Cleansweep: Landing Bay 7:[/b] Removed an invisible ceiling near the south egg room to prevent unintuitive grenade trajectories.
 [*][b]Operation Cleansweep: U.S.C. Medusa:[/b] Pods will now reopen if a marine leaves, rather than if they are fully empty.
 [*][b]Research 7: Illyn Forest:[/b] Fixed generator being targetable by marine bots.
 [*][b]Tears for Tarnor: Oasis Colony Spaceport:[/b] Fixed a soft lock if a boomer used in a cinematic is killed early due to a challenge.
 [*][b]Tilarus-5: SynTek Hospital:[/b] Reworked countdown at end of mission.
 [*][b]Lana's Escape: Lana's Bridge:[/b] Fixed escape objective not updating when a marine dies.
 [*][b]Lana's Escape: Lana's Sewer:[/b] Fixed escape objective not updating when a marine dies.
+[*][b]Lana's Escape: Lana's Complex:[/b] Expanded the evacuation zone.
 [*][b]Paranoia: Crucial Point:[/b] Reworked the final encounter. Marines must now defend a generator. If the generator is damaged, it will stop the completion progress until fixed by a tech. If no marine is near the generator, it will take additional damage.
 [*][b]Nam Humanum: Logistics Area:[/b] Reworked geometry near a fire.
 [*][b]Nam Humanum: Groundwork Labs:[/b] Fixed a large door being able to be damaged, which would cause it to get stuck.
+[*][b]BioGen Corporation: Invisible Threat:[/b] Added markers and a visual clue for the fan room to make it easier to navigate for players who do not know the way.
 [*][b]Bonus Mission 7:[/b] Fixed narrow catwalks negatively affecting AI pathing.
 [/list]
 
