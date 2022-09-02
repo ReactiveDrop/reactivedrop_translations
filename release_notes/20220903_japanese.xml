@@ -3,16 +3,20 @@
 
 [h1]キャンペーン[/h1]
 [list]
+        [*][b]Jacob's Rest: Rydberg Reactor:[/b] Fixed a bug in the ending area where marines could jump with jump jets underground to their death.
 [*][b]Area 9800: Power Plant's Generator:[/b] 細い足場がAIの経路決定に悪い影響を与えていたのを修正。
+        [*][b]Operation Cleansweep: Landing Bay 7:[/b] Removed an invisible ceiling near the south egg room to prevent unintuitive grenade trajectories.
 [*][b]Operation Cleansweep: U.S.C. Medusa:[/b] 隊員がゲームを抜けたらポッドがただ空っぽのままになるのではなく、蓋が開くようになった。
 [*][b]Research 7: Illyn Forest:[/b] 海兵隊botが発電機を狙うことがあったのを修正。
 [*][b]Tears for Tarnor: Oasis Colony Spaceport:[/b] 演出中に出現するブーマーがチャレンジの影響で先に殺されてしまった時にソフトロックが発生していたのを修正。
 [*][b]Tilarus-5: SynTek Hospital:[/b] ミッションの最後のカウントダウンを変更。
 [*][b]Lana's Escape: Lana's Bridge:[/b] 隊員が死亡した場合に脱出目標が更新されなかったのを修正。
 [*][b]Lana's Escape: Lana's Sewer:[/b] 隊員が死亡した場合に脱出目標が更新されなかったのを修正。
+        [*][b]Lana's Escape: Lana's Complex:[/b] Expanded the evacuation zone.
 [*][b]Paranoia: Crucial Point:[/b] 最後の戦闘の内容を変更。海兵隊達は発電機を守らなければならなくなった。発電機が損傷すると、エンジニアが修理しない限り完了までの時間が進まなくなる。発電機の近くに誰も隊員がいないと、発電機は追加のダメージを受ける。
 [*][b]Nam Humanum: Logistics Area:[/b] 火災周りの配置を変更。
 [*][b]Nam Humanum: Groundwork Labs:[/b] 大型のドアにダメージを与えることが可能で、それにより進行不能になることがあったのを修正。
+        [*][b]BioGen Corporation: Invisible Threat:[/b] Added markers and a visual clue for the fan room to make it easier to navigate for players who do not know the way.
 [*][b]ボーナスミッション 7:[/b] 細い足場がAIの経路決定に悪い影響を与えていたのを修正。
 [/list]
 
