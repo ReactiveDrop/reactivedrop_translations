@@ -3,7 +3,7 @@ GAME
 // PDA di proprietà di GeoTerraCorp
 
 "MailFrom1"	"Da: GeoTerra Rep, Mandy"
-"MailDate1"	"Data: 02/2/54"
+"MailDate1"	"Data: 02/02/54"
 "MailSubject1"	"Soggetto: Terremoto recente"
 "MailBody1A"	"Come tutti sapranno, il recente terremoto che ha colpito ieri è stato causato da un incidente a Docking Bay 6.
 Una grande nave cargo in entrata per la piattaforma orbitale 11, pilotata dal capitano Lee o'Ryan, ebbe un guasto al reattore, causando una perdita di orbita e schiantandosi nella baia 6"
