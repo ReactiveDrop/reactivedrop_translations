@@ -3,20 +3,20 @@
 
 [h1]Feldzüge[/h1]
 [list]
-		[*][b]Jacob's Rest: Rydberg Reactor:[/b] Fixed a bug in the ending area where marines could jump with jump jets underground to their death.
+[*][b]Jakobsruhe: Rydberg Reaktor:[/b] Es wurde ein Fehler im Endgebiet behoben, bei dem Soldaten mit dem Raketenrucksack unterirdisch in den Tod springen konnten.
 [*][b]Bereich 9800: Der Generator des Kraftwerks:[/b] Enge Laufstege behoben, die die KI-Wegfindung negativ beeinflussen.
-		[*][b]Operation Cleansweep: Landing Bay 7:[/b] Removed an invisible ceiling near the south egg room to prevent unintuitive grenade trajectories.
+[*][b]Operation Säuberung: Landebucht 7:[/b] Eine unsichtbare Decke in der Nähe des südlichen Eierraums wurde entfernt, um unintuitive Granatenflugbahnen zu verhindern.
 [*][b]Operation Säuberung: U.S.C. Medusa:[/b] Pods werden jetzt wieder geöffnet, wenn ein Soldat sie verlässt, anstatt wenn sie komplett leer sind.
 [*][b]Forschung 7: Illyn Wald:[/b] Es wurde behoben, dass der Generator von Bots angegriffen werden kann.
 [*][b]Tränen für Tarnor: Oasis-Kolonie Raumhafen:[/b] Ein Softlock wurde behoben, wenn ein Boomer, der in einer Filmsequenz verwendet wird, aufgrund einer Herausforderung frühzeitig getötet wird.
 [*][b]Tilarus-5: SynTek Krankenhaus:[/b] Der Countdown am Ende der Mission wurde überarbeitet.
 [*][b]Lanas Flucht: Lanas Brücke:[/b] Das Ziel der Flucht wurde nicht aktualisiert, wenn ein Soldat starb.
 [*][b]Lanas Flucht: Lanas Abwasserkanal:[/b] Das Ziel der Flucht wurde nicht aktualisiert, wenn ein Soldat starb.
-		[*][b]Lana's Escape: Lana's Complex:[/b] Expanded the evacuation zone.
+[*][b]Lanas Flucht: Lanas Komplex:[/b] Evakuierungszone erweitert.
 [*][b]Paranoia: Entscheidender Punkt:[/b] Die letzte Begegnung wurde überarbeitet. Die Soldaten müssen jetzt einen Generator verteidigen. Wenn der Generator beschädigt wird, stoppt er den Fortschritt der Fertigstellung, bis er von einem Techniker repariert wurde. Wenn sich kein Soldat in der Nähe des Generators befindet, nimmt er zusätzlichen Schaden.
 [*][b]Nam Humanum: Logistikgebiet:[/b] Überarbeitete Geometrie in der Nähe eines Feuers.
 [*][b]Nam Humanum: Grundstein Laboratorien:[/b] Es wurde behoben, dass eine große Tür beschädigt werden konnte, was dazu führte, dass sie stecken blieb.
-		[*][b]BioGen Corporation: Invisible Threat:[/b] Added markers and a visual clue for the fan room to make it easier to navigate for players who do not know the way.
+[*][b]BioGen Gesellschaft: Unsichtbare Bedrohung:[/b] Es wurden Markierungen und ein visueller Hinweis für den Ventilator-Raum hinzugefügt, um Spielern, die den Weg nicht kennen, die Navigation zu erleichtern.
 [*][b]Bonus Einsatz 7:[/b] Enge Laufstege, die die KI-Wegfindung negativ beeinflussen, wurden behoben.
 [/list]
 
