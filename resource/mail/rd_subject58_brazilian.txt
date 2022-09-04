@@ -5,10 +5,10 @@ GAME
 "MailFrom1"	"De : Dr. Tom Hinler."
 "MailDate1"	"Data : 26/05/60."
 "MailSubject1"	"Assunto : Cobaia 58."
-"MailBody1A"	"Quinta-feira, 21 de maio, 2260: Hoje implementamos com sucesso um DNA recombinante no paciente. Este DNA veio do Alien capturado há alguns dias por uma patrulha. O paciente parece estar bem de saúde."
-"MailBody1B"	"Sábado, 23 de maio, 2260 : O paciente fala de dor de cabeça, náuseas, tonturas e constantes. Sua condição está se deteriorando dia a dia. Talvez o implante tenha falhado... De novo."
-"MailBody1C"	"Segunda-feira, 25 de maio, 2260 : Temos um problema de verdade. O paciente está se comportando de forma muito estranha. Ele tem ataques de loucura com mais frequência e se tornou cada vez mais violento com os médicos que estão cuidando do seu caso. Devemos tomar uma decisão. Se continuar assim, vai acabar machucando alguém, ou pior..."
-"MailBody1D"	"Terça-feira, 26 de maio, 2260 :
+"MailBody1A"	"Quinta-feira, 21 de maio : Hoje implementamos com sucesso um DNA recombinante no paciente. Este DNA veio do Alien capturado há alguns dias por uma patrulha. O paciente parece estar bem de saúde."
+"MailBody1B"	"Sábado, 23 de maio : O paciente fala de dor de cabeça, náuseas, tonturas e constantes. Sua condição está se deteriorando dia a dia. Talvez o implante tenha falhado... De novo."
+"MailBody1C"	"Segunda-feira, 25 de maio : Temos um problema de verdade. O paciente está se comportando de forma muito estranha. Ele tem ataques de loucura com mais frequência e se tornou cada vez mais violento com os médicos que estão cuidando do seu caso. Devemos tomar uma decisão. Se continuar assim, vai acabar machucando alguém, ou pior..."
+"MailBody1D"	"Terça-feira, 26 de maio :
 O paciente escapou. Ele feriu dois médicos. Muitos soldados começaram a procurá-lo. Eles o encontraram à tarde, com corte ocioso e corpo manchado de sangue. Nós trouxemos a sala médica, e o matamos, para realizar mais estudos. Nós precisávamos, scaso contrário, ele teria degenerado.
 
 = Cobaia 58 : Failhou. =
