@@ -3,7 +3,7 @@ GAME
 	//inbox
 
 "MailFrom1"	"From: Ming"
-"MailDate1"	"Date: 27/12/52"
+"MailDate1"	"Date: 12/27/52"
 "MailSubject1"	"BURN THEM!"
 "MailBody1A"	"Sending those things to you was a mistake! I'm sorry!"
 "MailBody1B"	"You need to kill all of your specimens, NOW!"
@@ -11,7 +11,7 @@ GAME
 "MailBody1D"	"KILL THEM OR GET OUT WHILE YOU STILL CAN"
 
 "MailFrom2"	"From: Martin Jericho"
-"MailDate2"	"Date: 27/12/52"
+"MailDate2"	"Date: 12/27/52"
 "MailSubject2"	"Re: Defrosting meat"
 "MailBody2A"	"Hullen, you BASTARD!"
 "MailBody2B"	"That thing you sent us wasn't dead! We took it near the lava and it came alive."
@@ -21,7 +21,7 @@ GAME
 	//sent mail
 
 "MailFrom3"	"To: Martin Jericho"
-"MailDate3"	"Date: 26/12/52"
+"MailDate3"	"Date: 12/26/52"
 "MailSubject3"	"Desfrosting meat"
 "MailBody3A"	"Hello Martin,"
 "MailBody3B"	"I've recieved several specimens from Vereon XII, don't ask how. One of the specmens appears to have died during transport."
