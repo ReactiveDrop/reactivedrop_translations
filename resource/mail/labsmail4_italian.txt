@@ -5,7 +5,7 @@ GAME
 	// in arrivo
 
 	"MailFrom1"	"Da: Phil Ryan"
-	"MailDate1"	"Data: 20/12/52"
+	"MailDate1"	"Data: 12/20/52"
 	"MailSubject1"	"Soggetto: Spam!"
 	"MailBody1A"	"Sig. Rivera,"
 	"MailBody1B"	"Penso di parlare a nome di tutti qui. Puoi PER FAVORE fare qualcosa per lo spam? Aggiorna i filtri della posta in arrivo o qualcosa, suppongo tu sappia cosa fare, ma per l'amor di Dio fai qualcosa! Se avessi un credito per ogni mail che ho ricevuto nell'ultimo mese sarei ricco a vita."
