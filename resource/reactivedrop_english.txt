@@ -2967,6 +2967,11 @@
 "rd_so_paragraph_antlionguard_3"	"" // TODO
 "rd_so_paragraph_antlionguard_4"	"" // TODO
 
+"rd_cant_equip_generic"	"Cannot use this weapon"
+"rd_cant_equip_class"	"Current marine cannot use"
+"rd_cant_equip_locked"	"Level up to unlock"
+"rd_cant_equip_game_rules"	"Disallowed by game rules"
+
 "rd_weapon_fact_unique"	"Unique. Marines cannot equip multiple of this weapon."
 "rd_weapon_fact_slow_movement_while_held"	"Heavy. Marine movement is slowed when deployed."
 "rd_weapon_fact_explodes_if_burned"	"Warning: Explodes if Burned"
