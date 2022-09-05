@@ -7752,7 +7752,7 @@
 "rd_mainmenu_collections"		"COLLEZIONI"
 "[english]rd_mainmenu_collections"		"COLLECTIONS"
 "rd_collection_title"		"Collezioni"
-"[english]rd_collection_title"ù"Collections"
+"[english]rd_collection_title"		"Collections"
 "rd_collection_inventory_medals"		"Medaglie"
 "[english]rd_collection_inventory_medals"		"Medals"
 "rd_collection_inventory_error_generic"		"Inventario al momento non disponibile"
