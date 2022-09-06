@@ -3813,7 +3813,7 @@
 "[english]ASW_VINDICATOR_KILLS_NAME"		"Vindicator Veteran"
 "ASW_PISTOL_KILLS_NAME"		"当代燕双鹰"
 "[english]ASW_PISTOL_KILLS_NAME"		"Pistols Expert"
-"ASW_PDW_KILLS_NAME"		"轻重武手"
+"ASW_PDW_KILLS_NAME"		"轻武器专家"
 "[english]ASW_PDW_KILLS_NAME"		"Small Arms Specialist"
 "ASW_TESLA_GUN_KILLS_NAME"		"高压电能手"
 "[english]ASW_TESLA_GUN_KILLS_NAME"		"High Voltage Expert"
