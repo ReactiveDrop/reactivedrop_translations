@@ -5811,7 +5811,7 @@
 "[english]rd_flashlight_toggle"		"Flashlight"
 "asw_iafranks"		"IAF天梯排位"
 "[english]asw_iafranks"		"IAF RANKS"
-"asw_iaf_heroes_title"		"星际武装部队的英雄们"
+"asw_iaf_heroes_title"		"星际武装部队的英雄"
 "[english]asw_iaf_heroes_title"		"Heroes of the Interstellar Armed Forces"
 "rd_inactive_kick_seconds"		"由于不活跃，您将在%s1秒后断开连接。"
 "[english]rd_inactive_kick_seconds"		"You will be disconnected due to inactivity in %s1 seconds."
