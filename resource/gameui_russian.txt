@@ -1065,7 +1065,7 @@
 "[english]GameUI_Icons_UPCURSOR"		"<"
 "GameUI_Icons_DOWNCURSOR"		">"
 "[english]GameUI_Icons_DOWNCURSOR"		">"
-"GameUI_Icons_NONE"		"< не назначено >"
+"GameUI_Icons_NONE"		"< не назнач. >"
 "[english]GameUI_Icons_NONE"		"< not assigned >"
 "GameUI_KeyNames_UP"		"D-вверх"
 "[english]GameUI_KeyNames_UP"		"D-pad up"
