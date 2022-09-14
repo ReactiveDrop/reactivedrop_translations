@@ -24,8 +24,8 @@
 
 [h1]Mapping[/h1]
 [list]
-[*]Added trigger_tonemap brush entity. This trigger overrides the active tonemap controller for characters inside its volume, and is overridden by the new SetTonemapController VScript function.
-[*]Changed fog_volume to be based on the position of the currently-controlled character's eyes rather than the camera position. Some maps may need to be edited to shift their fog_volume entities north if they were originally made to compensate for the camera shift. fog_volume can now be overridden by the new SetFogController, SetPostProcessController, and SetColorCorrection VScript functions.
+[*]Added [b]trigger_tonemap[/b] brush entity. This trigger overrides the active tonemap controller for characters inside its volume, and is overridden by the new SetTonemapController VScript function.
+[*]Changed [b]fog_volume[/b] to be based on the position of the currently-controlled character's eyes rather than the camera position. Some maps may need to be edited to shift their fog_volume entities north if they were originally made to compensate for the camera shift. fog_volume can now be overridden by the new SetFogController, SetPostProcessController, and SetColorCorrection VScript functions.
 [/list]
 
 [h1]VScript[/h1]
