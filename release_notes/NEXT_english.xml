@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<content><string id="body">TODO: Blurb
+
+[h1]Weapons[/h1]
+[list]
+[*][b]IAF Minigun:[/b] Fixed reloading with an odd ammo count resulting in 499/500 ammo.
+[/list]
+
+[h1]Translations[/h1]
+[list]
+[*]Updated Chinese translation.
+[*]Updated European Portuguese translation.
+[*]Updated German translation.
+[*]Updated Italian translation.
+[*]Updated Japanese translation.
+[*]Updated Russian translation.
+[/list]
+
+[h1]Misc[/h1]
+[list]
+[*]Changed how animated props are networked. Reverted the change in the last update that makes the server drive animations. Instead, specific props are always visible to the client regardless of distance. Joining a game after an animation has started will play animations late, but this should fix the stuttering.
+[*]Improved controller navigation in advanced settings.
+[/list]
+
+[h1]Mapping[/h1]
+[list]
+[*]Added trigger_tonemap brush entity. This trigger overrides the active tonemap controller for characters inside its volume, and is overridden by the new SetTonemapController VScript function.
+[*]Changed fog_volume to be based on the position of the currently-controlled character's eyes rather than the camera position. Some maps may need to be edited to shift their fog_volume entities north if they were originally made to compensate for the camera shift. fog_volume can now be overridden by the new SetFogController, SetPostProcessController, and SetColorCorrection VScript functions.
+[/list]
+
+[h1]VScript[/h1]
+[list]
+[*][b]CASW_Marine::GetMarineName()[/b] no longer leaks memory on every call and now properly translates the name.
+[*]Added [b]GetCommander[/b] method to inhabitable NPCs (eg. marines).
+[*]Added [b]SetFogController[/b] method to inhabitable NPCs.
+[*]Added [b]SetPostProcessController[/b] method to inhabitable NPCs.
+[*]Added [b]SetColorCorrection[/b] method to inhabitable NPCs.
+[*]Added [b]SetTonemapController[/b] method to inhabitable NPCs.
+[/list]</string><string id="subtitle"></string><string id="summary"></string><string id="title">Alien Swarm: Reactive Drop Update - MMMMM DD, YYYY</string></content>
