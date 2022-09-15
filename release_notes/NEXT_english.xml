@@ -4,6 +4,14 @@
 [h1]Weapons[/h1]
 [list]
 [*][b]IAF Minigun:[/b] Fixed reloading with an odd ammo count resulting in 499/500 ammo.
+[*][b]Flashlight Attachment:[/b] This weapon now reflects light like other weapons do.
+[*][b]IAF Medical Amplifier Gun:[/b] Updated skin to differentiate it from the normal medical gun.
+[*][b]TG-05 Gas Grenades:[/b] Updated the grenade box to match the style of other grenade items.
+[/list]
+
+[h1]Aliens[/h1]
+[list]
+[*]Made grubs reflect light like other aliens do.
 [/list]
 
 [h1]Translations[/h1]
@@ -13,6 +21,7 @@
 [*]Updated German translation.
 [*]Updated Italian translation.
 [*]Updated Japanese translation.
+[*]Updated Korean translation.
 [*]Updated Russian translation.
 [/list]
 
@@ -20,6 +29,7 @@
 [list]
 [*]Changed how animated props are networked. Reverted the change in the last update that makes the server drive animations. Instead, specific props are always visible to the client regardless of distance. Joining a game after an animation has started will play animations late, but this should fix the stuttering.
 [*]Improved controller navigation in advanced settings.
+[*]Added some example color correction files.
 [/list]
 
 [h1]Mapping[/h1]

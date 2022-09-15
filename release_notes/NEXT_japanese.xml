@@ -4,6 +4,14 @@
 [h1]武器[/h1]
 [list]
 [*][b]IAF ミニガン:[/b] 残弾が奇数の時にリロードすると弾薬が499/500になっていたのを修正。
+		[*][b]Flashlight Attachment:[/b] This weapon now reflects light like other weapons do.
+		[*][b]IAF Medical Amplifier Gun:[/b] Updated skin to differentiate it from the normal medical gun.
+		[*][b]TG-05 Gas Grenades:[/b] Updated the grenade box to match the style of other grenade items.
+[/list]
+
+		[h1]Aliens[/h1]
+[list]
+		[*]Made grubs reflect light like other aliens do.
 [/list]
 
 [h1]翻訳[/h1]
@@ -13,6 +21,7 @@
 [*]ドイツ語の翻訳を更新。
 [*]イタリア語の翻訳を更新。
 [*]日本語の翻訳を更新。
+		[*]Updated Korean translation.
 [*]ロシア語の翻訳を更新。
 [/list]
 
@@ -20,6 +29,7 @@
 [list]
 [*]動きのあるpropのネットワーク挙動を変更。前回のアップデートでアニメーションをサーバー側管理に変更したのを元に戻した。代わりに、特定のpropは距離に関係無く常に描画するするようにした。アニメーションが開始されてからゲームに途中参加した場合は遅れて表示されることになるが、これによりカクつきが修正されるはずです。
 [*]高度な設定でのコントローラーのナビゲーションを改善。
+		[*]Added some example color correction files.
 [/list]
 
 [h1]マップ作成[/h1]
