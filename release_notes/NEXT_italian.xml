@@ -4,6 +4,14 @@
 [h1]Armi[/h1]
 [list]
 [*][b]Minigun IAF:[/b] Corretta la ricarica che risultava in un conteggio insolito delle munizioni di 499/500 colpi.
+		[*][b]Flashlight Attachment:[/b] This weapon now reflects light like other weapons do.
+		[*][b]IAF Medical Amplifier Gun:[/b] Updated skin to differentiate it from the normal medical gun.
+		[*][b]TG-05 Gas Grenades:[/b] Updated the grenade box to match the style of other grenade items.
+[/list]
+
+		[h1]Aliens[/h1]
+[list]
+		[*]Made grubs reflect light like other aliens do.
 [/list]
 
 [h1]Traduzioni[/h1]
@@ -13,6 +21,7 @@
 [*]Aggiornata la traduzione in Tedesco.
 [*]Aggiornata la traduzione in Italiano.
 [*]Aggiornata la traduzione in Giapponese.
+		[*]Updated Korean translation.
 [*]Aggiornata la traduzione in Russo.
 [/list]
 
@@ -20,6 +29,7 @@
 [list]
 [*]Modificato il modo in cui gli oggetti di scena animati sono collegati alla rete. È stata annullata la modifica apportata nell'ultimo aggiornamento, che faceva sì che il server guidasse le animazioni. Invece, gli oggetti di scena specifici sono sempre visibili al client, indipendentemente dalla distanza. Se ci si unisce a una partita dopo l'inizio di un'animazione, le animazioni verranno riprodotte in ritardo, ma questo dovrebbe risolvere il problema di stuttering.
 [*]Migliorata la navigazione del controller nelle impostazioni avanzate.
+		[*]Added some example color correction files.
 [/list]
 
 [h1]Mapping[/h1]
