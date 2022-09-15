@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<content><string id="body">TODO: Blurb
+
+[h1]武器[/h1]
+[list]
+[*][b]IAF ミニガン:[/b] 残弾が奇数の時にリロードすると弾薬が499/500になっていたのを修正。
+[/list]
+
+[h1]翻訳[/h1]
+[list]
+[*]中国語の翻訳を更新。
+[*]ヨーロッパポルトガル語の翻訳を更新。
+[*]ドイツ語の翻訳を更新。
+[*]イタリア語の翻訳を更新。
+[*]日本語の翻訳を更新。
+[*]ロシア語の翻訳を更新。
+[/list]
+
+[h1]その他[/h1]
+[list]
+[*]動きのあるpropのネットワーク挙動を変更。前回のアップデートでアニメーションをサーバー側管理に変更したのを元に戻した。代わりに、特定のpropは距離に関係無く常に描画するするようにした。アニメーションが開始されてからゲームに途中参加した場合は遅れて表示されることになるが、これによりカクつきが修正されるはずです。
+[*]高度な設定でのコントローラーのナビゲーションを改善。
+[/list]
+
+[h1]マップ作成[/h1]
+[list]
+[*][b]trigger_tonemap[/b]のbrush entityを追加。このトリガーはそのvolume内のキャラクターのアクティブなtonemap controllerを上書きし、新しいVScript関数SetTonemapControllerで置き換える。
+[*][b]fog_volume[/b]がカメラ位置ではなく操作中のキャラクターの目の位置を基準とするように変更。カメラ移動を補正していた一部のマップではfog_volumeのentityを北にずらさなければならない可能性がある。 fog_volumeは新しいVscript関数SetFogController, SetPostProcessController, SetColorCorrectionで置き換え可能になった。
+[/list]
+
+[h1]VScript[/h1]
+[list]
+[*][b]CASW_Marine::GetMarineName()[/b]が呼び出されるたびにメモリリークを起こすことは無くなり、正常にnameを変換するようになった。
+[*]操作可能なNPC(例えば海兵隊)にメソッド[b]GetCommander[/b]を追加。
+[*]操作可能なNPCにメソッド[b]SetFogController[/b]を追加。
+[*]操作可能なNPCにメソッド[b]SetPostProcessController[/b]を追加。
+[*]操作可能なNPCにメソッド[b]SetColorCorrection[/b]を追加。
+[*]操作可能なNPCにメソッド[b]SetTonemapController[/b]を追加。
+[/list]</string><string id="subtitle"></string><string id="summary"></string><string id="title">Alien Swarm: Reactive Drop アップデート - MMMMM DD, YYYY</string></content>
