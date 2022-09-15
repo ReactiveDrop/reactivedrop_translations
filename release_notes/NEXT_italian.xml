@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<content><string id="body">TODO: Blurb
+
+[h1]Armi[/h1]
+[list]
+[*][b]Minigun IAF:[/b] Corretta la ricarica che risultava in un conteggio insolito delle munizioni di 499/500 colpi.
+[/list]
+
+[h1]Traduzioni[/h1]
+[list]
+[*]Aggiornata la traduzione in Cinese.
+[*]Aggiornata la traduzione in Portoghese.
+[*]Aggiornata la traduzione in Tedesco.
+[*]Aggiornata la traduzione in Italiano.
+[*]Aggiornata la traduzione in Giapponese.
+[*]Aggiornata la traduzione in Russo.
+[/list]
+
+[h1]Varie[/h1]
+[list]
+[*]Modificato il modo in cui gli oggetti di scena animati sono collegati alla rete. È stata annullata la modifica apportata nell'ultimo aggiornamento, che faceva sì che il server guidasse le animazioni. Invece, gli oggetti di scena specifici sono sempre visibili al client, indipendentemente dalla distanza. Se ci si unisce a una partita dopo l'inizio di un'animazione, le animazioni verranno riprodotte in ritardo, ma questo dovrebbe risolvere il problema di stuttering.
+[*]Migliorata la navigazione del controller nelle impostazioni avanzate.
+[/list]
+
+[h1]Mapping[/h1]
+[list]
+[*]Aggiunta l'entità pennello [b]trigger_tonemap[/b]. Questo trigger sovrascrive il controller tonemap attivo per i personaggi all'interno del suo volume ed è sovrascritto dalla nuova funzione VScript SetTonemapController.
+[*]Modificato il [b]fog_volume[/b] in modo che si basi sulla posizione degli occhi del personaggio attualmente controllato piuttosto che sulla posizione della telecamera. Alcune mappe potrebbero dover essere modificate per spostare le entità fog_volume verso nord se sono state originariamente create per compensare lo spostamento della telecamera. fog_volume può ora essere sovrascritto dalle nuove funzioni VScript SetFogController, SetPostProcessController e SetColorCorrection.
+[/list]
+
+[h1]VScript[/h1]
+[list]
+[*][b]CASW_Marine::GetMarineName()[/b] non perde più memoria a ogni chiamata e ora traduce correttamente il nome.
+[*]Aggiunto il metodo [b]GetCommander[/b] ai PNG abitabili (es. soldati).
+[*]Aggiunto il metodo [b]SetFogController[/b] ai PNG abitabili.
+[*]Aggiunto il metodo [b]SetPostProcessController[/b] ai PNG abitabili.
+[*]Aggiunto il metodo [b]SetColorCorrection[/b] ai PNG abitabili.
+[*]Aggiunto il metodo [b]SetTonemapController[/b] ai PNG abitabili.
+[/list]</string><string id="subtitle"></string><string id="summary"></string><string id="title">Aggiornamento di Alien Swarm: Reactive Drop - MMMMM DD, YYYY</string></content>
