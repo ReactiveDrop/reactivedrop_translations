@@ -1,4 +1,4 @@
-﻿"lang"
+"lang"
 {
 "Language"		"koreana"
 "Tokens"
@@ -969,7 +969,7 @@
 "[english]GAMEUI_Commentary_HowToUse_Attack"		"To start or stop a commentary node, aim your crosshairs at any balloon icon and then press your PRIMARY FIRE key."
 "GAMEUI_COMMENTARY_GOD"		"(커멘터리 모드에서 게임을 플레이하는 동안에는 데미지를 입지 않으며 개인 기록이 달성되지 않습니다.)"
 "[english]GAMEUI_COMMENTARY_GOD"		"(While playing the game in commentary mode, you will be invulnerable to damage and achievements will not be awarded.)"
-"GAMEUI_Commentary_Console_Explanation"		"'커멘토리 노드'는 Valve 개발팀의 코멘터리를 담고 있습니다. 노드를 시작하거나 멈추려면 풍선 아이콘 하나를 조준한 다음 주 화력 버튼을 누릅니다."
+"GAMEUI_Commentary_Console_Explanation"		"'코멘토리 노드'는 Valve 개발팀의 코멘터리를 담고 있습니다. 노드를 시작하거나 멈추려면 풍선 아이콘 하나를 조준한 다음 주 화력 버튼을 누릅니다."
 "[english]GAMEUI_Commentary_Console_Explanation"		"'Commentary nodes' contain audio commentary by the Valve development team. To start or stop a node, aim at any balloon icon and press your USE button. (You will be invulnerable to damage while listening to a node. Achievements can not be earned in commentary mode.)"
 "GAMEUI_AudioSpokenLanguage"		"음성 언어"
 "[english]GAMEUI_AudioSpokenLanguage"		"Audio (spoken) language"
