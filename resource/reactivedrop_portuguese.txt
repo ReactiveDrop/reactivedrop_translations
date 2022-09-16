@@ -1199,7 +1199,7 @@
 "[english]asw_parasite_defanged"		"Xenomite"
 "asw_parasite_defangeds"		"Xenomites"
 "[english]asw_parasite_defangeds"		"Xenomites"
-"asw_queen"		"Alien Queen"
+		"asw_queen"		"Alien Queen"
 		"[english]asw_queen"		"Alien Queen"
 		"asw_queens"		"Alien Queens"
 		"[english]asw_queens"		"Alien Queens"
