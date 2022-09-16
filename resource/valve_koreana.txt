@@ -1,6 +1,6 @@
 "lang"
 {
-"Language"		"korana"
+"Language"		"koreana"
 "Tokens"
 {
 "Valve_Listen_MapName"		"맵"
