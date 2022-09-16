@@ -19,7 +19,7 @@ This repository contains all the files required to translate [Alien Swarm: React
 - resource: Game localization files. These are UTF-8 encoded, whereas the files in `\Alien Swarm Reactive Drop\reactivedrop\resource` are UTF-16LE encoded.
 - rich_presence: Online status messages in Steams Friends List.
 - store_page: [Steam's store page](https://store.steampowered.com/app/563560/)
-- utils: helper tools for translators.
+- utils: Helper tools for translators.
 
 ### How to download the repository
 

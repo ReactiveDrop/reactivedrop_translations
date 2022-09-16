@@ -7,13 +7,13 @@ GAME
 	"MailFrom1"	"송신자: 조나단 돌랜드"
 	"MailDate1"	"날짜: 02/13/42"
 	"MailSubject1"	"주제:모로 박사?"
-	"MailBody1A"	"Doc, this is the third shipment of spores we’re being “asked” to transfer to Dr. Moreau’s labs. The third one. Dunno about you, but I had figured something as significant as the discovery of an indigenous lifeform would at LEAST be the board’s concern as well. A whole lot of smoke going on, and nobody’s even looking for the fire?"
-	"MailBody1B"	"Come on Lin. You’ve been second in charge ever since his wife died. Now’s the time to put some of that earning to use. Just this once, if never again."
+	"MailBody1A"	"박사님, 모로 박사의 연구실로 옮겨달라는 "요청"을 받은 포자의 세 번째 선적입니다. 세 번째는. 당신은 모르겠지만, 원시 생명체의 발견만큼 중요한 것이 적어도 이사회의 관심사가 될 것이라고 생각했습니다. 온 사방에 연기가 자욱한데, 불을 찾는 사람이 아무도 없는겁니까?"
+	"MailBody1B"	"이럴 순 없죠 린. 당신은 그의 아내가 죽은 이후로 줄곧 두 번째 책임자였습니다. 지금이야 말로 얻어왔던 것을 사용할 때입니다. 이번 뿐입니다, 또 반복되지 않는다면."
 
 	"MailFrom2"	"송신자: 조나단 돌랜드"
 	"MailDate2"	"날짜: 02/14/46"
 	"MailSubject2"	"주제: 답장: 답장:모로 박사?"
-	"MailBody2A"	"Aye, pretty clear indeed, Doctor Da Silva."
+	"MailBody2A"	"네, 확실히 알겠습니다, 다 실바 박사님."
 	"MailBody2B"	"남 휴머니움 :)"
 
 	// Sent mail
@@ -21,14 +21,14 @@ GAME
 	"MailFrom3"	"수신자: 조나단 돌랜드"
 	"MailDate3"	"날짜: 02/13/42"
 	"MailSubject3"	"주제: 답장:모로 박사?"
-	"MailBody3A"	"Please read with care, Jonathan."
-	"MailBody3B"	"You do not get to call me by my first name, let alone think you can get all familiar with me. Let’s keep this relationship strictly professional, unless perhaps you are in need of a small reminder about some New Havre’s rat hole? Which hole I wonder, crawling inside it some lowly felon who would have thrown its sorry existence on a cargo ship had a stupid girl with too much kindness not stretched him an open hand."
-	"MailBody3C"	"Think of this as my wild card, Johnny, or however else you like. Dr. Moreau is in charge of all decisions regarding research. Given you’re only an assistant here, that’s all you need to know. So do try and stay in your depth, “just this once”."
-	"MailBody3D"	"Hoping things are cleared out for you?"
+	"MailBody3A"	"조나단, 주의해서 읽어."
+	"MailBody3B"	"당신은 나를 이름으로 부를 수 없어, 당신이 나와 친해질 수 있다고 생각하는 건 고사하고 말이지. 이 관계를 철저히 전문적으로 유지하자, 뉴 하버의 쥐구멍에 대한 작은 기억이라도 필요한 게 아니라면 말이지? 어느 구멍인지 궁금하군요, 화물선에 자신의 불쌍한 존재를 던졌을 어떤 천한 중죄인이 그 안에 기어들어갔을 때 너무 많은 친절을 베푼 멍청한 소녀가 그에게 손을 내밀지 않는 법이야."
+	"MailBody3C"	"이게 내 와일드 카드라고 생각해, 조니, 또는 당신이 좋아하는 다른 방법이지. 모로 박사는 연구에 관한 모든 결정을 책임지고 있어. 넌 여기 조수일 뿐이니까, 그것만 알면 돼. 그러니 "이번 한 번만" 당신의 위치에서 머무르도록 노력하도록 해."
+	"MailBody3D"	"일이 잘 해결되길 바라나?"
 
 	"MailFrom4"	"수신자: 게일 플로렌자 중위"
 	"MailDate4"	"날짜: 01/01/43"
 	"MailSubject4"	"주제: (없음)"
-	"MailBody4A"	"If you can put an end to this then yes, I will make sure your access to the labs is clear."
-	"MailBody4B"	"Delete every trace of this conversation, and pray there isn’t already a Big Brother to pry at both our doors."
+	"MailBody4A"	"당신이 이 일을 끝낼 수 있다면 네, 실험실에 접근할 수 있도록 확실히 해두겠습니다."
+	"MailBody4B"	"이 대화의 모든 흔적을 지우고, 지금 당장이라도 우리 둘의 문을 구석구석 캐묻는 빅 브라더가 없기를 기도해보죠."
 }

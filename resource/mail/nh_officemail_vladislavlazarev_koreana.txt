@@ -7,15 +7,15 @@ GAME
 	"MailFrom1"	"송신자: 블라디슬라프 라자레프"
 	"MailDate1"	"날짜: 07/01/42"
 	"MailSubject1"	"주제: 새 할당"
-	"MailBody1A"	"Riddle me this: what vaguely passes for a human but is actually a highly-advanced cyborg specifically programmed by SynTek to make all our lives miserable? If your answer was “that motherf*cker Carradine”, you win a pickle. No, not really. They went extinct decades ago, sorry to say."
-	"MailBody1B"	"Ah, but I’m sure you must be dying to hear what your new mission entails. It is of the utmost importance so pray, hear me... Cap’ wants the colonial adage framed at least once in every room Lugdunum. Yep, that’s it. Weird cult shit, huh? Don’t complain, ‘cause chain of commands won’t budge on my account. At least you got your weekly schedule worked out for you. Careful of not covering any ventilation shafts tho, could lead to fires. Don’t ask me how either."
-	"MailBody1C"	"'남 휴머니움'... Think that’s even legit Latin?"
+	"MailBody1A"	"이건 수수께끼다: 인간에게는 모호하게 스쳐지나 실제로는 신텍에 의해 특별히 프로그램된 고도로 발전된 사이보그는 무엇일까? 만약 너의 대답이 “그 *같은 캐러딘”이었다면, 피클에 당첨됐을 거야. 아니, 그렇지 않아. 유감스럽게도, 그들은 수십 년 전에 멸종되었어."
+	"MailBody1B"	"아, 하지만 새 임무가 무슨 내용인지 정말 듣고 싶곘지. 정말 중요한 내용이니 기도나 하도록 해, 내 말좀 들어봐... 캡’은 식민지 시대의 격언이 루그두눔의 모든 방에 적어도 한 번은 틀에 들어가기를 원해. 맞아, 바로 그거야. 이상한 사이비 종교, 흠? 불평하지 마, ‘명령 계통은 내 쪽에서도 움직이지 않을테니까. 적어도 너는 네 주간 일정을 해결했어. 어떤 환풍구라도 덮지 않도록 조심해, 화재를 일으킬테니까. 어떻게 하냐고 묻지는 말고."
+	"MailBody1C"	"'남 휴머니움'... 이게 진짜 라틴어라고 생각해?"
 
 	// Sent mail
 
 	"MailFrom3"	"수신자: 톰 애슬린"
 	"MailDate3"	"날짜: 07/02/42"
 	"MailSubject3"	"주제: 답장: 새 할당"
-	"MailBody3A"	"Never mind their lame-ass motto. As if it wasn’t humiliating enough stationing me here. I haven’t suffered through my bioastronautics classes to end up playing decorator."
-	"MailBody3B"	"I’ll sit right here and stay the unproductive member of society that they think I am, thank you very much. What are they gonna do, sue me? We’re literally a dubious scientific expedition with no legal resort or court of law."
+	"MailBody3A"	"그들의 구차한 좌우명은 신경쓰지 마. 나를 여기에 두는 것이 충분히 굴욕적이지 않은 것처럼. 나는 우주 생리학 수업이 끝내 실내 장식이 되는 고통은 겪지 않았어."
+	"MailBody3B"	"난 여기 앉아서 그들이 생각하는 사회의 비생산적인 구성원으로 남을거야, 정말로 고마워. 날 고소하면 어쩔거냐고? 우리는 말 그대로 법적인 수단이나 법정이 없는 수상한 과학 탐험대야."
 }
