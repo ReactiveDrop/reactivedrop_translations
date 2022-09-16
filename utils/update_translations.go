@@ -68,7 +68,7 @@ var reportedLanguages = map[string]bool{
 	"koreana":    true,
 	"norwegian":  false,
 	"polish":     true,
-	"portuguese": false,
+	"portuguese": true,
 	"brazilian":  true,
 	"romanian":   false,
 	"russian":    true,
