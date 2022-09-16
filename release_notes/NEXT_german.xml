@@ -5,6 +5,7 @@
 [list]
 [*][b]IAF Minigun:[/b] Nachladen mit einer ungeraden Munitionsanzahl, die zu 499/500 Munition führte, wurde behoben.
 		[*][b]Flashlight Attachment:[/b] This weapon now reflects light like other weapons do.
+		[*][b]Grenade Launcher:[/b] Fixed a bug causing grenades to explode twice if they hit an alien directly. Instead, grenades now do double damage if they hit a character (marine or alien). This fixes splash damage from a direct hit bypassing one-hit protection and slightly increases grenade launcher damage (the first explosion would previously push enemies slightly away from the grenade before the second explosion).
 		[*][b]IAF Medical Amplifier Gun:[/b] Updated skin to differentiate it from the normal medical gun.
 		[*][b]TG-05 Gas Grenades:[/b] Updated the grenade box to match the style of other grenade items.
 [/list]
