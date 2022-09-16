@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<content><string id="body">TODO: Blurb
+
+[h1]Waffen[/h1]
+[list]
+[*][b]IAF Minigun:[/b] Nachladen mit einer ungeraden Munitionsanzahl, die zu 499/500 Munition führte, wurde behoben.
+		[*][b]Flashlight Attachment:[/b] This weapon now reflects light like other weapons do.
+		[*][b]IAF Medical Amplifier Gun:[/b] Updated skin to differentiate it from the normal medical gun.
+		[*][b]TG-05 Gas Grenades:[/b] Updated the grenade box to match the style of other grenade items.
+[/list]
+
+		[h1]Aliens[/h1]
+[list]
+		[*]Made grubs reflect light like other aliens do.
+[/list]
+
+[h1]Übersetzungen[/h1]
+[list]
+[*]Aktualisierte chinesische Übersetzung.
+[*]Aktualisierte deutsche Übersetzung.
+[*]Aktualisierte europäisch portugiesische Übersetzung.
+[*]Aktualisierte italienische Übersetzung.
+[*]Aktualisierte japanische Übersetzung.
+		[*]Updated Korean translation.
+[*]Aktualisierte russische Übersetzung.
+[/list]
+
+[h1]Verschiedenes[/h1]
+[list]
+[*]Es wurde geändert, wie animierte Props vernetzt werden. Die Änderung aus dem letzten Update, dass der Server die Animationen steuert, wurde rückgängig gemacht. Stattdessen sind bestimmte Props unabhängig von der Entfernung immer für den Client sichtbar. Wenn du einem Spiel beitrittst, nachdem eine Animation begonnen hat, werden die Animationen verspätet abgespielt, das sollte das Stottern beheben.
+[*]Die Controller-Navigation in den erweiterten Einstellungen wurde verbessert.
+		[*]Added some example color correction files.
+[/list]
+
+[h1]Mapping[/h1]
+[list]
+[*]Der brush [b]trigger_tonemap[/b] wurde hinzugefügt. Dieser Trigger setzt den aktiven Tonemap-Controller für Zeichen innerhalb seines Volumens außer Kraft und wird von der neuen SetTonemapController VScript-Funktion außer Kraft gesetzt.
+[*]Das [b]fog_volume[/b] basiert nun auf der Position der Augen des aktuell gesteuerten Charakters und nicht mehr auf der Kameraposition. Einige Karten müssen möglicherweise bearbeitet werden, um ihre fog_volume-Entitäten nach Norden zu verschieben, wenn sie ursprünglich erstellt wurden, um die Kameraverschiebung zu kompensieren. fog_volume kann jetzt von den neuen VScript-Funktionen SetFogController, SetPostProcessController und SetColorCorrection überschrieben werden.
+[/list]
+
+[h1]VScript[/h1]
+[list]
+[*][b]CASW_Marine::GetMarineName()[/b] leaked nicht mehr bei jedem Aufruf Speicher und übersetzt den Namen jetzt richtig.
+[*]Methode [b]GetCommander[/b] für bewohnbare NPCs (z.B. Soldaten) hinzugefügt.
+[*]Methode [b]SetFogController[/b] für bewohnbare NPCs hinzugefügt.
+[*]Methode [b]SetPostProcessController[/b] für bewohnbare NPCs hinzugefügt.
+[*]Methode [b]SetColorCorrection[/b] für bewohnbare NPCs hinzugefügt.
+[*]Methode [b]SetTonemapController[/b] für bewohnbare NPCs hinzugefügt.
+[/list]</string><string id="subtitle"></string><string id="summary"></string><string id="title">Alien Swarm: Reactive Drop Update - DD. MMMMM YYYY</string></content>
