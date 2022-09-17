@@ -24,6 +24,7 @@
 [*]Updated Japanese translation.
 [*]Updated Korean translation.
 [*]Updated Russian translation.
+[*]Fixed translations being silently truncated after 1023 bytes. Translations can now be up to 4095 bytes and a warning will be printed to the console if they are longer.
 [/list]
 
 [h1]Misc[/h1]
