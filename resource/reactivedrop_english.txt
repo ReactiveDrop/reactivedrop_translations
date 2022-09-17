@@ -472,7 +472,7 @@
 "asw_weapon_electrified_armor_attributes"	"Stops Infestation, Stuns"
 "asw_weapon_normal_armor"	"Heavy Armor"
 "asw_weaponl_normal_armor"	"l3a Tactical Heavy Armor"
-"asw_weapon_normal_armor_attributes"	"Up to 35%% Damage Reduction, Passive"
+"asw_weapon_normal_armor_attributes"	"Up to 35% Damage Reduction, Passive"
 "asw_weapon_fist"	"Power Fist"
 "asw_weaponl_fist"	"IAF Power Fist Attachment"
 "asw_weapon_fist_attributes"	"Massive Damage Bonus on Combo Finisher"

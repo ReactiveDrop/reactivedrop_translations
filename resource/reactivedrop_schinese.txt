@@ -916,7 +916,7 @@
 "asw_weaponl_normal_armor"		"l3a 重型战术护甲"
 "[english]asw_weaponl_normal_armor"		"l3a Tactical Heavy Armor"
 "asw_weapon_normal_armor_attributes"		"高达35%的伤害减免，被动"
-"[english]asw_weapon_normal_armor_attributes"		"Up to 35%% Damage Reduction, Passive"
+"[english]asw_weapon_normal_armor_attributes"		"Up to 35% Damage Reduction, Passive"
 "asw_weapon_fist"		"动力拳套"
 "[english]asw_weapon_fist"		"Power Fist"
 "asw_weaponl_fist"		"IAF 动力拳套配件"
