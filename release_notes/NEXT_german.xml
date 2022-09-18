@@ -4,16 +4,16 @@
 [h1]Waffen[/h1]
 [list]
 [*][b]IAF Minigun:[/b] Nachladen mit einer ungeraden Munitionsanzahl, die zu 499/500 Munition führte, wurde behoben.
-		[*][b]Flashlight Attachment:[/b] This weapon now reflects light like other weapons do.
-		[*][b]Grenade Launcher:[/b] Fixed a bug causing grenades to explode twice if they hit an alien directly. Instead, grenades now do double damage if they hit a character (marine or alien). This fixes splash damage from a direct hit bypassing one-hit protection and slightly increases grenade launcher damage (the first explosion would previously push enemies slightly away from the grenade before the second explosion).
-		[*][b]IAF Medical Amplifier Gun:[/b] Updated skin to differentiate it from the normal medical gun.
-		[*][b]TG-05 Gas Grenades:[/b] Updated the grenade box to match the style of other grenade items.
+[*][b]Taschenlampe:[/b] Diese Waffe reflektiert jetzt Licht wie andere Waffen auch.
+[*][b]Granatwerfer:[/b] Ein Fehler wurde behoben, der dazu führte, dass Granaten doppelt explodierten, wenn sie einen Alien direkt trafen. Stattdessen richten Granaten jetzt doppelten Schaden an, wenn sie einen Charakter (Soldat oder Alien) treffen. Dies behebt den Spritzschaden eines direkten Treffers, der den Ein-Treffer-Schutz umgeht, und erhöht den Schaden des Granatwerfers geringfügig (die erste Explosion stieß die Gegner vor der zweiten Explosion etwas von der Granate weg).
+[*][b]Mobile Amp-Heileinheit:[/b] Aktualisierter Skin, um sie von der normalen Mobile Heileinheit zu unterscheiden.
+[*][b]Gasgranaten[/b] Die Granatenbox wurde aktualisiert, damit sie dem Stil der anderen Granaten-Gegenstände entspricht.
 [/list]
 
-		[h1]Aliens[/h1]
+[h1]Aliens[/h1]
 [list]
-		[*]Made grubs reflect light like other aliens do.
-		[*]Harvesters no longer spawn xenomites when they are killed by blast damage.
+[*]Die Larven reflektieren das Licht wie andere Aliens auch.
+[*]Raffer spawnen keine Xenomiten mehr, wenn sie durch Explosionsschaden getötet werden.
 [/list]
 
 [h1]Übersetzungen[/h1]
@@ -23,16 +23,16 @@
 [*]Aktualisierte europäisch portugiesische Übersetzung.
 [*]Aktualisierte italienische Übersetzung.
 [*]Aktualisierte japanische Übersetzung.
-		[*]Updated Korean translation.
+[*]Aktualisierte koreanische Übersetzung.
 [*]Aktualisierte russische Übersetzung.
-		[*]Fixed translations being silently truncated after 1023 bytes. Translations can now be up to 4095 bytes and a warning will be printed to the console if they are longer.
+[*]Es wurde behoben, dass Übersetzungen nach 1023 Bytes automatisch abgeschnitten wurden. Übersetzungen können jetzt bis zu 4095 Bytes lang sein und eine Warnung wird auf der Konsole ausgegeben, wenn sie länger sind.
 [/list]
 
 [h1]Verschiedenes[/h1]
 [list]
 [*]Es wurde geändert, wie animierte Props vernetzt werden. Die Änderung aus dem letzten Update, dass der Server die Animationen steuert, wurde rückgängig gemacht. Stattdessen sind bestimmte Props unabhängig von der Entfernung immer für den Client sichtbar. Wenn du einem Spiel beitrittst, nachdem eine Animation begonnen hat, werden die Animationen verspätet abgespielt, das sollte das Stottern beheben.
 [*]Die Controller-Navigation in den erweiterten Einstellungen wurde verbessert.
-		[*]Added some example color correction files.
+[*]Einige Beispiel-Farbkorrekturdateien wurden hinzugefügt.
 [/list]
 
 [h1]Mapping[/h1]
