@@ -4,16 +4,16 @@
 [h1]Armi[/h1]
 [list]
 [*][b]Minigun IAF:[/b] Corretta la ricarica che risultava in un conteggio insolito delle munizioni di 499/500 colpi.
-		[*][b]Flashlight Attachment:[/b] This weapon now reflects light like other weapons do.
-		[*][b]Grenade Launcher:[/b] Fixed a bug causing grenades to explode twice if they hit an alien directly. Instead, grenades now do double damage if they hit a character (marine or alien). This fixes splash damage from a direct hit bypassing one-hit protection and slightly increases grenade launcher damage (the first explosion would previously push enemies slightly away from the grenade before the second explosion).
-		[*][b]IAF Medical Amplifier Gun:[/b] Updated skin to differentiate it from the normal medical gun.
-		[*][b]TG-05 Gas Grenades:[/b] Updated the grenade box to match the style of other grenade items.
+[*][b]Accessorio Torcia:[/b] Quest'arma ora riflette la luce come le altre armi.
+[*][b]Lancia Granate:[/b] Corretto un bug che faceva esplodere due volte le granate se colpivano direttamente un alieno. Invece, le granate ora fanno danni doppi se colpiscono un personaggio (marine o alieno). In questo modo si risolve il danno ad area di un colpo diretto che aggira la protezione da un colpo solo e si aumenta leggermente il danno del lanciagranate (in precedenza la prima esplosione spingeva i nemici leggermente lontano dalla granata prima della seconda esplosione).
+[*][b]Pistola Medica Amplificatrice IAF:[/b] Aggiornato il modello per differenziarla dalla normale pistola medica.
+[*][b]Granate a Gas TG-05:[/b] Aggiornata la scatola delle granate per adattarla allo stile degli altri oggetti delle granate.
 [/list]
 
-		[h1]Aliens[/h1]
+[h1]Alieni[/h1]
 [list]
-		[*]Made grubs reflect light like other aliens do.
-		[*]Harvesters no longer spawn xenomites when they are killed by blast damage.
+[*]Le larve ora riflettono la luce come gli altri alieni.
+[*]I mietitori non generano più xenomiti quando vengono uccisi da un'esplosione.
 [/list]
 
 [h1]Traduzioni[/h1]
@@ -23,16 +23,16 @@
 [*]Aggiornata la traduzione in Tedesco.
 [*]Aggiornata la traduzione in Italiano.
 [*]Aggiornata la traduzione in Giapponese.
-		[*]Updated Korean translation.
+[*]Aggiornata la traduzione in Coreano.
 [*]Aggiornata la traduzione in Russo.
-		[*]Fixed translations being silently truncated after 1023 bytes. Translations can now be up to 4095 bytes and a warning will be printed to the console if they are longer.
+[*]Corretto il troncamento silenzioso delle traduzioni dopo i 1023 byte. Le traduzioni possono ora essere fino a 4095 byte e se sono più lunghe viene stampato un avviso nella console.
 [/list]
 
 [h1]Varie[/h1]
 [list]
 [*]Modificato il modo in cui gli oggetti di scena animati sono collegati alla rete. È stata annullata la modifica apportata nell'ultimo aggiornamento, che faceva sì che il server guidasse le animazioni. Invece, gli oggetti di scena specifici sono sempre visibili al client, indipendentemente dalla distanza. Se ci si unisce a una partita dopo l'inizio di un'animazione, le animazioni verranno riprodotte in ritardo, ma questo dovrebbe risolvere il problema di stuttering.
 [*]Migliorata la navigazione del controller nelle impostazioni avanzate.
-		[*]Added some example color correction files.
+[*]Aggiunti alcuni esempi di file di correzione del colore.
 [/list]
 
 [h1]Mapping[/h1]
