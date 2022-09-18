@@ -13,7 +13,7 @@
 [h1]エイリアン[/h1]
 [list]
 [*]グラブが他のエイリアンと同様に光を反射するようにした。
-		[*]Harvesters no longer spawn xenomites when they are killed by blast damage.
+[*]ハーベスターが爆発ダメージで死んだ場合ゼノマイトを産まなくなった。
 [/list]
 
 [h1]翻訳[/h1]
@@ -25,7 +25,7 @@
 [*]日本語の翻訳を更新。
 [*]韓国語の翻訳を更新。
 [*]ロシア語の翻訳を更新。
-		[*]Fixed translations being silently truncated after 1023 bytes. Translations can now be up to 4095 bytes and a warning will be printed to the console if they are longer.
+[*]翻訳が1023バイト以上あると勝手に省略されていたのを修正。4095バイトまで可能になり、それを超える場合コンソール画面に警告が表示されるようになった。
 [/list]
 
 [h1]その他[/h1]
