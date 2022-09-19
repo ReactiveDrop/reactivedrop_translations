@@ -2617,7 +2617,7 @@
 "[english]vegas.Biomass6"		"<clr:84,255,159>Vegas: Urgh!  More goo!  Let's set it on fire!"
 "vegas.Biomass7"		"<clr:84,255,159>Vegas: Urgh! Schwarm-Biomasse.  Wo ist der Flamer?"
 "[english]vegas.Biomass7"		"<clr:84,255,159>Vegas: Urgh! Swarm biomass.  Where's the flamer?"
-"vegas.TimeToLeave0"		"<clr:84,255,159>Vegas: Ziel erfüllt.  Lass uns an die Spielautomaten gehen."
+"vegas.TimeToLeave0"		"<clr:84,255,159>Vegas: Ziel erfüllt.  Lasst uns an die Spielautomaten gehen."
 "[english]vegas.TimeToLeave0"		"<clr:84,255,159>Vegas: Objective completed.  Let's hit the slots."
 "vegas.TimeToLeave1"		"<clr:84,255,159>Vegas: Toll!  Tequila, ich komme!"
 "[english]vegas.TimeToLeave1"		"<clr:84,255,159>Vegas: Sweet!  Tequila, here I come."
