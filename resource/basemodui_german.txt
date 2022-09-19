@@ -2105,7 +2105,7 @@
 "[english]L4D_InMemoryOf"		"In Memory of"
 "L4D_ServerShutdownIdle"		"Der Server wurde heruntergefahren, da alle Spieler inaktiv sind."
 "[english]L4D_ServerShutdownIdle"		"The server shut down because all players were idle."
-"L4D_NotEnoughSlotsAvailable"		"Nicht genügend Plätze verfügbar"
+"L4D_NotEnoughSlotsAvailable"		"Nicht genügend Spielerplätze verfügbar"
 "[english]L4D_NotEnoughSlotsAvailable"		"Not Enough Open Slots in Game"
 "L4D_ServerTimedOut"		"Der Alien Swarm Server ist zurzeit nicht verfügbar. Versuche es später noch einmal."
 "[english]L4D_ServerTimedOut"		"The Alien Swarm server is not available at this time. Please try again later."
