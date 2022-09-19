@@ -217,7 +217,7 @@
 "[english]GameUI_D3D"		"D3D"
 "GameUI_Brightness"		"亮度"
 "[english]GameUI_Brightness"		"Brightness"
-"GameUI_Gamma"		"Gamma 值"
+"GameUI_Gamma"		"伽马值"
 "[english]GameUI_Gamma"		"Gamma"
 "GameUI_Resolution"		"分辨率"
 "[english]GameUI_Resolution"		"Resolution"
