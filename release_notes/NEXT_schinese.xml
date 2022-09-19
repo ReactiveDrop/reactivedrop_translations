@@ -13,7 +13,7 @@
 [h1]异形[/h1]
 [list]
 [*]现在让幼虫像其他异形一样能反射光线。
-		[*]Harvesters no longer spawn xenomites when they are killed by blast damage.
+[*]收获主被爆炸伤害杀死后不再产生小爆虫。
 [/list]
 
 [h1]翻译[/h1]
@@ -25,7 +25,7 @@
 [*]更新了 日文翻译。
 [*]更新了 韩语翻译。
 [*]更新了 俄语翻译。
-	[*]Fixed translations being silently truncated after 1023 bytes. Translations can now be up to 4095 bytes and a warning will be printed to the console if they are longer.
+[*]修复了 翻译在1023字节后被静默截断的问题。翻译现在可以达到4095字节，如果它们更长，控制台将打印一个警告。
 [/list]
 
 [h1]杂项[/h1]
