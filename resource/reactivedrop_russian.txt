@@ -89,7 +89,7 @@
 "[english]asw_SynTekTurret3"		"Turret 3"
 "asw_turret_text_top_left"		"СИСТЕМА БЕЗОПАСНОСТИ\nАКТИВИРУЮ КОД АЛЬФА 5/34\n\nСИСТЕМНАЯ ПРОВЕРКА ТУРЕЛИ\n0X83 0x32 0x17 0x02 0x82\n0x18 0x53 0x5A 0x70 0x12\n\nПРОВЕРКА БЕЗОПАСНОСТИ ЦЕЛИ:\nОТКЛЮЧЕНО"
 "[english]asw_turret_text_top_left"		"COLONY SECURITY SYSTEM\nRUNNING OVERRIDE CODE ALPHA 5/34\n\nINTERNAL TURRET SYSTEMS CHECK\n0X83 0x32 0x17 0x02 0x82\n0x18 0x53 0x5A 0x70 0x12\n\nTARGET SAFETY CHECK:\nDISABLED"
-"asw_turret_text_top_right"		"СИСТЕМА БЕЗОПАСНОСТИ ВЕР. 264.3C\n\nПРЕДОСТАВЛЕНА ОТДЕЛОМ БЕЗОПАСНОСТИ «СИНТЕК»,\nДОЧЕРНЕЙ КОМПАНИЕЙ\nМЕГАКОРПОРАЦИИ «СИНТЕК»\n\nСИСТЕМА СЛЕЖЕНИЯ\nЗА ПЕРЕДВИЖЕНИЕМ: В НОРМЕ"
+"asw_turret_text_top_right"		"СИСТЕМА БЕЗОПАСНОСТИ ВЕР. 264.3C\n\nПРЕДОСТАВЛЕНА ОТДЕЛОМ\nБЕЗОПАСНОСТИ «СИНТЕК»,\nДОЧЕРНЕЙ КОМПАНИЕЙ\nМЕГАКОРПОРАЦИИ «СИНТЕК»\n\nСИСТЕМА СЛЕЖЕНИЯ\nЗА ПЕРЕДВИЖЕНИЕМ: В НОРМЕ"
 "[english]asw_turret_text_top_right"		"REMOTE SECURITY SYSTEM V264.3C\n\nPROVIDED BY SYNTEK SECURITY, A\nWHOLLY OWNED SUBSIDIARY OF\nSYNTEK MEGACORPORATION, INC.\n\nTRACKING ACTIVE\nFIRING CHAMBER: OK"
 "asw_SynTekMail"		"Почта"
 "[english]asw_SynTekMail"		"Mail"
