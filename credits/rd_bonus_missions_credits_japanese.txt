@@ -1,0 +1,22 @@
+"Credits"
+{
+// these keys must be in this order!
+"show_credits_logo"	"0"
+//"custom_logo"	"ExampleCustomLogo/example_custom_logo"
+"asw_credits_"	""
+"asw_credits_"	""
+"asw_credits_"	"ミッション 1, Invisible Threat, 製作者： uradzimiru"
+"asw_credits_"	""
+"asw_credits_"	"ミッション 2, Rapture, 製作者： Sergei 'STALKER4732' Lavrinenco"
+"asw_credits_"	""
+"asw_credits_"	"ミッション 3, Bunker, 製作者： uradzimiru"
+"asw_credits_"	""
+"asw_credits_"	"ミッション 4, Offline Practice, 製作者： Valve"
+"asw_credits_"	""
+"asw_credits_"	"ミッション 5, Hostile Places, 製作者： Eclipse"
+"asw_credits_"	""
+"asw_credits_"	"ミッション 6, High Tension, 製作者： Eclipse"
+"asw_credits_"	""
+"asw_credits_"	"ミッション 7, Power Plant, 製作者： Arjen de Graaf"
+"asw_credits_"	""
+}
