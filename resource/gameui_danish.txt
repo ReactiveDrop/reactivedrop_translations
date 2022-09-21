@@ -1067,6 +1067,8 @@
 "[english]GameUI_Icons_DOWNCURSOR"		">"
 "GameUI_Icons_NONE"		"< ikke tildelt >"
 "[english]GameUI_Icons_NONE"		"< not assigned >"
+		"GameUI_KeyNames_Not_Bound"		"<Not Bound>"
+		"[english]GameUI_KeyNames_Not_Bound"		"<Not Bound>"
 "GameUI_KeyNames_UP"		"Retningsknap, op"
 "[english]GameUI_KeyNames_UP"		"D-pad up"
 "GameUI_KeyNames_DOWN"		"Retningsknap, ned"
