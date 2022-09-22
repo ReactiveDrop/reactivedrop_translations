@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<content><string id="body">TODO: Blurb
+<content><string id="body">		Today's update fixes some inconsistencies in various weapons. It also adds the ability to assign screen effects to individual marines, and a new trigger to apply different HDR settings to different areas of a map.
 
 [h1]武器[/h1]
 [list]
 [*][b]IAF 加特林机枪：[/b] 修复了 在奇怪的弹药数重新加载时，出现 499/500 弹药的问题。
 [*][b]战术手电配件：[/b] 这把武器现在会像其他武器一样反射光线了。
 [*][b]榴弹发射器：[/b] 修复了 榴弹直接击中异形时会爆炸两次的错误。相反，如果榴弹击中角色（士兵或异形），现在会造成双倍伤害。这修复了直接命中时，会绕过一击保护的飞溅伤害的问题，并略微增加榴弹发射器的伤害（在第二次爆炸之前，第一次爆炸会将敌人推离榴弹范围）。
+		[*][b]Desert Eagle:[/b] This gun has been renamed to PS50 Bulldog and has a new appearance and sounds.
 [*][b]IAF 医疗强化枪：[/b] 更新了 武器的皮肤，以区别于普通医疗枪。
 [*][b]TG-05 毒气手雷：[/b] 更新了 手榴弹盒，以匹配其他手榴弹物品的风格。
 [/list]
@@ -13,7 +14,7 @@
 [h1]异形[/h1]
 [list]
 [*]现在让幼虫像其他异形一样能反射光线。
-[*]收获主被爆炸伤害杀死后，不再生成小爆虫。
+		[*]Harvesters no longer spawn xenomites when they are killed by a direct grenade hit that deals more than double their remaining health.
 [/list]
 
 [h1]翻译[/h1]
@@ -33,6 +34,7 @@
 [*]改变了 动画道具的联网方案。恢复了上次更新中的让服务器来驱动器动画的更改。相反，不管距离如何，特定的道具对客户端总是可见。在动画开始后再加入游戏，会延迟播放动画，但这应该可以解决卡顿问题。
 [*]改进了 高级设置中的控制器导航。
 [*]增加了 一些示例颜色校正文件。
+		[*]Explosions now deal full damage within a small radius of their epicenter, and damage falloff only starts beyond that distance.
 [/list]
 
 [h1]映射[/h1]
@@ -49,4 +51,4 @@
 [*]添加了 [b]SetPostProcessController[/b] 方法给可占据的NPC。
 [*]添加了 [b]SetColorCorrection[/b] 方法给可占据的NPC。
 [*]添加了 [b]SetTonemapController[/b] 方法给可占据的NPC。
-[/list]</string><string id="subtitle"></string><string id="summary"></string><string id="title">Alien Swarm: Reactive Drop Update - MMMMM DD, YYYY</string></content>
+[/list]</string><string id="subtitle"></string><string id="summary"></string><string id="title">Alien Swarm: Reactive Drop Update - October 20, 2022</string></content>

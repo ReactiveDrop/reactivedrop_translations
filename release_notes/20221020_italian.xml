@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<content><string id="body">TODO: Blurb
+<content><string id="body">		Today's update fixes some inconsistencies in various weapons. It also adds the ability to assign screen effects to individual marines, and a new trigger to apply different HDR settings to different areas of a map.
 
 [h1]Armi[/h1]
 [list]
 [*][b]Minigun IAF:[/b] Corretta la ricarica che risultava in un conteggio insolito delle munizioni di 499/500 colpi.
 [*][b]Accessorio Torcia:[/b] Quest'arma ora riflette la luce come le altre armi.
 [*][b]Lancia Granate:[/b] Corretto un bug che faceva esplodere due volte le granate se colpivano direttamente un alieno. Invece, le granate ora fanno danni doppi se colpiscono un personaggio (marine o alieno). In questo modo si risolve il danno ad area di un colpo diretto che aggira la protezione da un colpo solo e si aumenta leggermente il danno del lanciagranate (in precedenza la prima esplosione spingeva i nemici leggermente lontano dalla granata prima della seconda esplosione).
+		[*][b]Desert Eagle:[/b] This gun has been renamed to PS50 Bulldog and has a new appearance and sounds.
 [*][b]Pistola Medica Amplificatrice IAF:[/b] Aggiornato il modello per differenziarla dalla normale pistola medica.
 [*][b]Granate a Gas TG-05:[/b] Aggiornata la scatola delle granate per adattarla allo stile degli altri oggetti delle granate.
 [/list]
@@ -13,7 +14,7 @@
 [h1]Alieni[/h1]
 [list]
 [*]Le larve ora riflettono la luce come gli altri alieni.
-[*]I mietitori non generano più xenomiti quando vengono uccisi da un'esplosione.
+		[*]Harvesters no longer spawn xenomites when they are killed by a direct grenade hit that deals more than double their remaining health.
 [/list]
 
 [h1]Traduzioni[/h1]
@@ -33,6 +34,7 @@
 [*]Modificato il modo in cui gli oggetti di scena animati sono collegati alla rete. È stata annullata la modifica apportata nell'ultimo aggiornamento, che faceva sì che il server guidasse le animazioni. Invece, gli oggetti di scena specifici sono sempre visibili al client, indipendentemente dalla distanza. Se ci si unisce a una partita dopo l'inizio di un'animazione, le animazioni verranno riprodotte in ritardo, ma questo dovrebbe risolvere il problema di stuttering.
 [*]Migliorata la navigazione del controller nelle impostazioni avanzate.
 [*]Aggiunti alcuni esempi di file di correzione del colore.
+		[*]Explosions now deal full damage within a small radius of their epicenter, and damage falloff only starts beyond that distance.
 [/list]
 
 [h1]Mapping[/h1]
@@ -49,4 +51,4 @@
 [*]Aggiunto il metodo [b]SetPostProcessController[/b] ai PNG abitabili.
 [*]Aggiunto il metodo [b]SetColorCorrection[/b] ai PNG abitabili.
 [*]Aggiunto il metodo [b]SetTonemapController[/b] ai PNG abitabili.
-[/list]</string><string id="subtitle"></string><string id="summary"></string><string id="title">Aggiornamento di Alien Swarm: Reactive Drop - MMMMM DD, YYYY</string></content>
+[/list]</string><string id="subtitle"></string><string id="summary"></string><string id="title">Aggiornamento di Alien Swarm: Reactive Drop - October 20, 2022</string></content>
