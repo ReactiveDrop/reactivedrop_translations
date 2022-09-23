@@ -5,7 +5,7 @@
 //"custom_logo"	"ExampleCustomLogo/example_custom_logo"
 "asw_credits_"	""
 "asw_credits_"	""
-"asw_credits_"	"Миссия 1, Незримая угроза, автор uradzimiru"
+		"asw_credits_"	"Миссия 1, Train Station Catastrophe, автор jhheight"
 "asw_credits_"	""
 "asw_credits_"	"Миссия 2, Вознесение, автор Сергей 'STALKER4732' Лавриненко"
 "asw_credits_"	""

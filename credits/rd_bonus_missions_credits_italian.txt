@@ -5,7 +5,7 @@
 //"custom_logo"	"ExampleCustomLogo/example_custom_logo"
 "asw_credits_"	""
 "asw_credits_"	""
-"asw_credits_"	"Missione 1, Minaccia Invisibile, di uradzimiru"
+		"asw_credits_"	"Missione 1, Train Station Catastrophe, di jhheight"
 "asw_credits_"	""
 "asw_credits_"	"Missione 2, Rottura, di Sergei 'STALKER4732' Lavrinenco"
 "asw_credits_"	""
