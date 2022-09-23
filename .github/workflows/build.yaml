@@ -51,6 +51,7 @@ jobs:
       
       - name: Commit translation progress document
         if: github.repository == 'ReactiveDrop/reactivedrop_translations' && github.ref == 'refs/heads/master' && github.event_name == 'push'
+        continue-on-error: true
         uses: EndBug/add-and-commit@v9
         with:
           message: '[CI] update translation progress'
