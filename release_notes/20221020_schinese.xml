@@ -35,6 +35,7 @@
 [*]改进了 高级设置中的控制器导航。
 [*]增加了 一些示例颜色校正文件。
 [*]爆炸现在在其震中的小半径范围内，算造成完全伤害；并且伤害衰减仅在该距离之外才开始。
+		[*]Tech marines can now manually override the boot-up sequence of an unlocked computer that has downloadable data, and will automatically start the hack on a locked computer after 4 seconds.
 [/list]
 
 [h1]映射[/h1]

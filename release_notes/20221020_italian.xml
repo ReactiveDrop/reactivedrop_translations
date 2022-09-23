@@ -35,6 +35,7 @@
 [*]Migliorata la navigazione del controller nelle impostazioni avanzate.
 [*]Aggiunti alcuni esempi di file di correzione del colore.
 [*]Le esplosioni ora infliggono il massimo dei danni entro un piccolo raggio dall'epicentro, mentre la diminuzione dei danni inizia solo oltre tale distanza.
+		[*]Tech marines can now manually override the boot-up sequence of an unlocked computer that has downloadable data, and will automatically start the hack on a locked computer after 4 seconds.
 [/list]
 
 [h1]Mapping[/h1]

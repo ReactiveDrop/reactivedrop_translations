@@ -35,6 +35,7 @@
 [*]高度な設定でのコントローラーのナビゲーションを改善。
 [*]色補正の使用例ファイルをいくつか追加した。
 [*]爆発は爆心地からある程度の範囲内には最大ダメージを与え、その範囲の先からはダメージが減衰するようになった。
+		[*]Tech marines can now manually override the boot-up sequence of an unlocked computer that has downloadable data, and will automatically start the hack on a locked computer after 4 seconds.
 [/list]
 
 [h1]マップ作成[/h1]
