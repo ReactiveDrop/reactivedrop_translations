@@ -48,7 +48,7 @@ jobs:
         working-directory: utils
         run: |
           go run . -markdown > ../PROGRESS.md
-      
+
       - name: Commit translation progress document
         if: github.repository == 'ReactiveDrop/reactivedrop_translations' && github.ref == 'refs/heads/master' && github.event_name == 'push'
         continue-on-error: true
