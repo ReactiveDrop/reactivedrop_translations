@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<content><string id="body">		Today's update fixes some inconsistencies in various weapons. It also adds the ability to assign screen effects to individual marines, and a new trigger to apply different HDR settings to different areas of a map.
+<content><string id="body">		今回のアップデートでは各種武器の矛盾点を修正しました。他にも各海兵隊ごとに画面エフェクトを割り当てる機能や、別々のHDR設定を一つのマップ内のそれぞれの場所ごとに適用するトリガーも追加されました。
 
 [h1]武器[/h1]
 [list]
 [*][b]IAF ミニガン:[/b] 残弾が奇数の時にリロードすると弾薬が499/500になっていたのを修正。
 [*][b]装着式フラッシュライト:[/b] 他の武器と同様に光が反射するようになった。
 [*][b]グレネードランチャー:[/b] グレネードがエイリアンに直撃したときに2回爆発するバグを修正。代わりに、グレネードが直撃した相手(エイリアンでも海兵隊でも)には2倍のダメージを与えるようになった。 これにより直撃時の範囲ダメージが一撃死防止システムを貫通してしまうのが修正されたのと、わずかにグレネードランチャーのダメージが上がった(1回目の爆発が2回目の爆発の前に敵を少し押しのけていた)。
-		[*][b]Desert Eagle:[/b] This gun has been renamed to PS50 Bulldog and has a new appearance and sounds.
+[*][b]デザートイーグル:[/b] 銃の名前をPS50 ブルドッグに変更し、見た目と音声も新しい物になった。
 [*][b]IAF メディカルアンプガン:[/b] スキンを変更して通常のメディカルガンと見分けが付くようにした。
 [*][b]TG-05 ガスグレネード:[/b] グレネードの箱を追加して他のグレネード系アイテムと同じ形式にした。
 [/list]
@@ -14,7 +14,7 @@
 [h1]エイリアン[/h1]
 [list]
 [*]グラブが他のエイリアンと同様に光を反射するようにした。
-		[*]Harvesters no longer spawn xenomites when they are killed by a direct grenade hit that deals more than double their remaining health.
+[*]ハーベスターがグレネードの直撃により残りヘルスの2倍以上のダメージを受けて死ぬ時にゼノマイトを産まなくなった。
 [/list]
 
 [h1]翻訳[/h1]
@@ -34,7 +34,7 @@
 [*]動きのあるpropのネットワーク挙動を変更。前回のアップデートでアニメーションをサーバー側管理に変更したのを元に戻した。代わりに、特定のpropは距離に関係無く常に描画するするようにした。アニメーションが開始されてからゲームに途中参加した場合は遅れて表示されることになるが、これによりカクつきが修正されるはずです。
 [*]高度な設定でのコントローラーのナビゲーションを改善。
 [*]色補正の使用例ファイルをいくつか追加した。
-		[*]Explosions now deal full damage within a small radius of their epicenter, and damage falloff only starts beyond that distance.
+[*]爆発は爆心地からある程度の範囲内には最大ダメージを与え、その範囲の先からはダメージが減衰するようになった。
 [/list]
 
 [h1]マップ作成[/h1]
@@ -51,4 +51,4 @@
 [*]操作可能なNPCにメソッド[b]SetPostProcessController[/b]を追加。
 [*]操作可能なNPCにメソッド[b]SetColorCorrection[/b]を追加。
 [*]操作可能なNPCにメソッド[b]SetTonemapController[/b]を追加。
-[/list]</string><string id="subtitle"></string><string id="summary"></string><string id="title">Alien Swarm: Reactive Drop アップデート - October 20, 2022</string></content>
+[/list]</string><string id="subtitle"></string><string id="summary"></string><string id="title">Alien Swarm: Reactive Drop アップデート - 2022年10月20日</string></content>
