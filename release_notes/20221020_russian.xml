@@ -35,6 +35,7 @@
 [*]Улучшена навигация по контроллеру в расширенных параметрах.
 [*]Добавлено несколько примеров файлов цветокоррекции.
 [*]Взрывы теперь наносят полный урон в небольшом радиусе от эпицентра, а спад урона начинается только за пределами этого расстояния.
+		[*]Tech marines can now manually override the boot-up sequence of an unlocked computer that has downloadable data, and will automatically start the hack on a locked computer after 4 seconds.
 [/list]
 
 [h1]Карты[/h1]
