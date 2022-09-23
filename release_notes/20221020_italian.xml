@@ -3,6 +3,7 @@
 
 [h1]Armi[/h1]
 [list]
+		[*][b]M868 Flamer Unit:[/b] Now slows marine movement when equipped, similar to the autogun.
 [*][b]Minigun IAF:[/b] Corretta la ricarica che risultava in un conteggio insolito delle munizioni di 499/500 colpi.
 [*][b]Accessorio Torcia:[/b] Quest'arma ora riflette la luce come le altre armi.
 [*][b]Lancia Granate:[/b] Corretto un bug che faceva esplodere due volte le granate se colpivano direttamente un alieno. Invece, le granate ora fanno danni doppi se colpiscono un personaggio (marine o alieno). In questo modo si risolve il danno ad area di un colpo diretto che aggira la protezione da un colpo solo e si aumenta leggermente il danno del lanciagranate (in precedenza la prima esplosione spingeva i nemici leggermente lontano dalla granata prima della seconda esplosione).
