@@ -3,6 +3,7 @@
 
 [h1]Waffen[/h1]
 [list]
+		[*][b]M868 Flamer Unit:[/b] Now slows marine movement when equipped, similar to the autogun.
 [*][b]IAF Minigun:[/b] Nachladen mit einer ungeraden Munitionsanzahl, die zu 499/500 Munition führte, wurde behoben.
 [*][b]Taschenlampe:[/b] Diese Waffe reflektiert jetzt Licht wie andere Waffen auch.
 [*][b]Granatwerfer:[/b] Ein Fehler wurde behoben, der dazu führte, dass Granaten doppelt explodierten, wenn sie einen Alien direkt trafen. Stattdessen richten Granaten jetzt doppelten Schaden an, wenn sie einen Charakter (Soldat oder Alien) treffen. Dies behebt den Spritzschaden eines direkten Treffers, der den Ein-Treffer-Schutz umgeht, und erhöht den Schaden des Granatwerfers geringfügig (die erste Explosion stieß die Gegner vor der zweiten Explosion etwas von der Granate weg).

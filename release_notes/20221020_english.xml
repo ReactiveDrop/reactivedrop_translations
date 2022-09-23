@@ -3,6 +3,7 @@
 
 [h1]Weapons[/h1]
 [list]
+[*][b]M868 Flamer Unit:[/b] Now slows marine movement when equipped, similar to the autogun.
 [*][b]IAF Minigun:[/b] Fixed reloading with an odd ammo count resulting in 499/500 ammo.
 [*][b]Flashlight Attachment:[/b] This weapon now reflects light like other weapons do.
 [*][b]Grenade Launcher:[/b] Fixed a bug causing grenades to explode twice if they hit an alien directly. Instead, grenades now do double damage if they hit a character (marine or alien). This fixes splash damage from a direct hit bypassing one-hit protection and slightly increases grenade launcher damage (the first explosion would previously push enemies slightly away from the grenade before the second explosion).
