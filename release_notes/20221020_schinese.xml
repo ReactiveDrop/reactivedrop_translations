@@ -3,7 +3,7 @@
 
 [h1]武器[/h1]
 [list]
-		[*][b]M868 Flamer Unit:[/b] Now slows marine movement when equipped, similar to the autogun.
+[*][b]M868 火焰喷射器：[/b] 现在装备后，减慢士兵的移速，类似于自动机枪。
 [*][b]IAF 加特林机枪：[/b] 修复了 在奇怪的弹药数重新加载时，出现 499/500 弹药的问题。
 [*][b]战术手电配件：[/b] 这把武器现在会像其他武器一样反射光线了。
 [*][b]榴弹发射器：[/b] 修复了 榴弹直接击中异形时会爆炸两次的错误。相反，如果榴弹击中角色（士兵或异形），现在会造成双倍伤害。这修复了直接命中时，会绕过一击保护的飞溅伤害的问题，并略微增加榴弹发射器的伤害（在第二次爆炸之前，第一次爆炸会将敌人推离榴弹范围）。
@@ -36,7 +36,7 @@
 [*]改进了 高级设置中的控制器导航。
 [*]增加了 一些示例颜色校正文件。
 [*]爆炸现在在其震中的小半径范围内，算造成完全伤害；并且伤害衰减仅在该距离之外才开始。
-		[*]Tech marines can now manually override the boot-up sequence of an unlocked computer that has downloadable data, and will automatically start the hack on a locked computer after 4 seconds.
+[*]技术员现在可以手动改写具有可下载数据的未锁定计算机的启动顺序，并在 4 秒后自动在锁定的计算机上启动黑客攻击。
 [/list]
 
 [h1]映射[/h1]
