@@ -7149,7 +7149,7 @@
 "[english]rd_mission_brief_rd-bonus_mission3"		""
 "rd_mission_title_rd-bonus_mission4"		"Посадочная площадка + Грузовой лифт"
 "[english]rd_mission_title_rd-bonus_mission4"		"Landing Bay + Cargo Elevator"
-"rd_mission_loc_rd-bonus_mission4"		"Посадочная площадка + грузовой лифт"
+"rd_mission_loc_rd-bonus_mission4"		"Посадочная площадка + Грузовой лифт"
 "[english]rd_mission_loc_rd-bonus_mission4"		"Landing Bay + Cargo Elevator"
 "rd_mission_desc_rd-bonus_mission4"		"Проведите зачистку посадочной площадки на Вереоне XII. Командование МВС приказало извлечь полётные данные из спасательной капсулы в одном из отсеков. Затем спуститесь на центральном грузовом лифте в колониальный комплекс."
 "[english]rd_mission_desc_rd-bonus_mission4"		"Perform a sweep of the Landing Bay on Vereon XII. IAF Command has ordered retrieval of flight data from an escape pod in one of the bays. Then proceed down the central Cargo Elevator to the colony complex."
