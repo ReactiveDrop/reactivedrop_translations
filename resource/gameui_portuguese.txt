@@ -990,7 +990,7 @@
 "GameUI_ChangeLanguageRestart_Info"		"O jogo tem de ser reiniciado para mudar o idioma áudio falado.\n\nDeseja reiniciar agora?"
 "[english]GameUI_ChangeLanguageRestart_Info"		"The game must restart in order to change the spoken audio language.\n\nWould you like to restart now?"
 "GameUI64_64BitNotice"		"Modo de 64 bits ativo"
-"[english]GameUI64_64BitNotice"		"64-bit mode ative"
+"[english]GameUI64_64BitNotice"		"64-bit mode active"
 "GameUI_LoadCommentary"		"COMENTÁRIOS DO PROGRAMADOR"
 "[english]GameUI_LoadCommentary"		"DEVELOPER COMMENTARY"
 "GameUI_LoadCommentaryHelp"		"Seleccione uma faixa de comentário guardada na lista em baixo e clique em 'Carregar jogo'."
