@@ -3,7 +3,7 @@
 
 [h1]Armi[/h1]
 [list]
-		[*][b]M868 Flamer Unit:[/b] Now slows marine movement when equipped, similar to the autogun.
+[*][b]Unità Lanciafiamme M868:[/b] Ora rallenta i soldati quando viene equipaggiata, come l'autogun.
 [*][b]Minigun IAF:[/b] Corretta la ricarica che risultava in un conteggio insolito delle munizioni di 499/500 colpi.
 [*][b]Accessorio Torcia:[/b] Quest'arma ora riflette la luce come le altre armi.
 [*][b]Lancia Granate:[/b] Corretto un bug che faceva esplodere due volte le granate se colpivano direttamente un alieno. Invece, le granate ora fanno danni doppi se colpiscono un personaggio (marine o alieno). In questo modo si risolve il danno ad area di un colpo diretto che aggira la protezione da un colpo solo e si aumenta leggermente il danno del lanciagranate (in precedenza la prima esplosione spingeva i nemici leggermente lontano dalla granata prima della seconda esplosione).
@@ -36,7 +36,7 @@
 [*]Migliorata la navigazione del controller nelle impostazioni avanzate.
 [*]Aggiunti alcuni esempi di file di correzione del colore.
 [*]Le esplosioni ora infliggono il massimo dei danni entro un piccolo raggio dall'epicentro, mentre la diminuzione dei danni inizia solo oltre tale distanza.
-		[*]Tech marines can now manually override the boot-up sequence of an unlocked computer that has downloadable data, and will automatically start the hack on a locked computer after 4 seconds.
+[*]Ora i soldati tecnici possono sovrascrivere manualmente la sequenza di avvio di un computer sbloccato con dati scaricabili e avviare in automatico l'hack di un computer bloccato dopo 4 secondi.
 [/list]
 
 [h1]Mapping[/h1]
