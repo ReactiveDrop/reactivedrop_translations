@@ -1,6 +1,6 @@
 GAME
 {
-	//Caixa de entrada
+	// Caixa de entrada
 
 	"MailFrom1"	"De: Ming"
 	"MailDate1"	"Data: 27/12/52"
@@ -18,7 +18,7 @@ GAME
 	"MailBody2C"	"Essa coisa matou o Hodgson E a Jenny. Você me ouviu?, VOCÊ MATOU A JENNY!"
 	"MailBody2D"	"Essa coisa me mordeu, Eu posso sentir algo se movendo dentro de mim... crescendo... eu odeio você."
 
-	//Enviados
+	// Enviados
 
 	"MailFrom3"	"Para: Martin Jericho"
 	"MailDate3"	"Data: 26/12/52"

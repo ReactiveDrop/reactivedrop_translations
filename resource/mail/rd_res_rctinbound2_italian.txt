@@ -1,6 +1,6 @@
 GAME
 {
-	//inbox
+	// inbox
 
 	"MailFrom1"	"Da: Ming"
 	"MailDate1"	"Data: 27/12/52"
@@ -18,7 +18,7 @@ GAME
 	"MailBody2C"	"Ha ucciso Hodgson E Jenny. Mi hai sentito, hai ucciso JENNY!"
 	"MailBody2D"	"Mi ha morso, riesco a sentire qualcosa che si muove dentro di me... crescendo... ti odio."
 
-	//mail spedita
+	// mail spedita
 
 	"MailFrom3"	"A: Martin Jericho"
 	"MailDate3"	"Data: 26/12/52"
