@@ -1,20 +1,20 @@
 GAME
 {
-// PDA belongs to cave_geologist1
-// inbox
-"MailFrom1"	"Von: G.S.D."
-"MailDate1"	"Datum: 17/09/57"
-"MailSubject1"	"Betreff: Aw: Vorläufige Ergebnisse des Höhlensystems"
-"MailBody1A"	"Gute Arbeit Herbert, nach den Daten in deinem Bericht muss ich dir zustimmen. Das Höhlensystem ist zu instabil, als dass es das Risiko wert wäre, das Eisenerz abzubauen."
-"MailBody1B"	"Ich hoffe, die Lasergeräte, die sie uns geschickt haben, waren nützlich für dich. Leider hat der Neue, Jenson, mit seinem Gerät ein bisschen übertrieben und einen Einsturz verursacht. Zum Glück wurde niemand schwer verletzt, aber der Neue wird sich wünschen, dass er im Koma liegt, wenn die Verwaltung mit ihm fertig ist."
-"MailBody1C"	"Natürlich weiß ich, dass ich dich nicht daran erinnern muss, vorsichtig damit zu sein."
-"MailBody1D"	"- Jeff Taylor, Geologische Vermessungsabteilung."
-// sent mail
-"MailFrom3"	"An: G.S.D."
-"MailDate3"	"Datum: 17/09/57"
-"MailSubject3"	"Betreff: Vorläufige Ergebnisse des Höhlensystems"
-"MailBody3A"	"Das Höhlensystem in der Nähe des alten Komm-Außenpostens besteht hauptsächlich aus Sandstein und anderen weichen Gesteinen. Es gibt ein paar Einschlüsse aus Eisen und anderem festeren Material, die es ermöglichen, dass die Höhlen so weitläufig sind."
-"MailBody3B"	"Ich muss jedoch vom Abbau abraten, da die Gesamtstruktur instabil ist, was zum Teil an der bereits erwähnten Zusammensetzung der weichen Materialien liegt. Ich habe einen ausführlicheren Bericht als Anhang beigefügt."
-"MailBody3C"	"Nebenbei bemerkt: Diese Höhlensysteme sind geologisch sehr interessant. Ich habe noch nie ein Beispiel dafür gesehen, dass sich so weitläufige Höhlen ohne Regen gebildet haben. Wenn ich es nicht besser wüsste, würde ich sogar sagen, dass sie nicht ganz natürlich sind, aber es wurde bestätigt, dass Tarnor nie die Fähigkeit hatte, indigenes Leben zu kultivieren."
-"MailBody3D"	"- Herbert Graffson, Feldforscher, Geologische Vermessungsabteilung."
+	// PDA belongs to cave_geologist1
+	// inbox
+	"MailFrom1"	"Von: G.S.D."
+	"MailDate1"	"Datum: 17/09/57"
+	"MailSubject1"	"Betreff: Aw: Vorläufige Ergebnisse des Höhlensystems"
+	"MailBody1A"	"Gute Arbeit Herbert, nach den Daten in deinem Bericht muss ich dir zustimmen. Das Höhlensystem ist zu instabil, als dass es das Risiko wert wäre, das Eisenerz abzubauen."
+	"MailBody1B"	"Ich hoffe, die Lasergeräte, die sie uns geschickt haben, waren nützlich für dich. Leider hat der Neue, Jenson, mit seinem Gerät ein bisschen übertrieben und einen Einsturz verursacht. Zum Glück wurde niemand schwer verletzt, aber der Neue wird sich wünschen, dass er im Koma liegt, wenn die Verwaltung mit ihm fertig ist."
+	"MailBody1C"	"Natürlich weiß ich, dass ich dich nicht daran erinnern muss, vorsichtig damit zu sein."
+	"MailBody1D"	"- Jeff Taylor, Geologische Vermessungsabteilung."
+	// sent mail
+	"MailFrom3"	"An: G.S.D."
+	"MailDate3"	"Datum: 17/09/57"
+	"MailSubject3"	"Betreff: Vorläufige Ergebnisse des Höhlensystems"
+	"MailBody3A"	"Das Höhlensystem in der Nähe des alten Komm-Außenpostens besteht hauptsächlich aus Sandstein und anderen weichen Gesteinen. Es gibt ein paar Einschlüsse aus Eisen und anderem festeren Material, die es ermöglichen, dass die Höhlen so weitläufig sind."
+	"MailBody3B"	"Ich muss jedoch vom Abbau abraten, da die Gesamtstruktur instabil ist, was zum Teil an der bereits erwähnten Zusammensetzung der weichen Materialien liegt. Ich habe einen ausführlicheren Bericht als Anhang beigefügt."
+	"MailBody3C"	"Nebenbei bemerkt: Diese Höhlensysteme sind geologisch sehr interessant. Ich habe noch nie ein Beispiel dafür gesehen, dass sich so weitläufige Höhlen ohne Regen gebildet haben. Wenn ich es nicht besser wüsste, würde ich sogar sagen, dass sie nicht ganz natürlich sind, aber es wurde bestätigt, dass Tarnor nie die Fähigkeit hatte, indigenes Leben zu kultivieren."
+	"MailBody3D"	"- Herbert Graffson, Feldforscher, Geologische Vermessungsabteilung."
 }

@@ -1,11 +1,11 @@
 GAME
 {
-// PDA belongs to John Wisher	
-"MailFrom1"	"Von: Kate Wisher"
-"MailDate1"	"Datum: 10/13/52"
-"MailSubject1"	"Betreff: Was ist da drin los?"
-"MailBody1A"	"Hey Süße!"
-"MailBody1B"	"Jetzt habe ich nichts mehr von dir gehört, Schatz! Was ist da drinnen los?"
-"MailBody1C"	"Ich habe den Personalchef von SynTek kontaktiert und er sagte, ich solle mir keine Sorgen machen und sie hätten nur kleine Kommunikationsprobleme. Aber das ist jetzt schon TAGE her!"
-"MailBody1D"	"In Liebe, Kate <3"
+	// PDA belongs to John Wisher	
+	"MailFrom1"	"Von: Kate Wisher"
+	"MailDate1"	"Datum: 10/13/52"
+	"MailSubject1"	"Betreff: Was ist da drin los?"
+	"MailBody1A"	"Hey Süße!"
+	"MailBody1B"	"Jetzt habe ich nichts mehr von dir gehört, Schatz! Was ist da drinnen los?"
+	"MailBody1C"	"Ich habe den Personalchef von SynTek kontaktiert und er sagte, ich solle mir keine Sorgen machen und sie hätten nur kleine Kommunikationsprobleme. Aber das ist jetzt schon TAGE her!"
+	"MailBody1D"	"In Liebe, Kate <3"
 }

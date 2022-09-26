@@ -1,25 +1,25 @@
 GAME
 {
-// PDA belongs to Brad Campbell
-// inbox
-"MailFrom1"	"Von: Laura Callen"
-"MailDate1"	"Datum: 12/18/52"
-"MailSubject1"	"Betreff: Aw: Frachtversand"
-"MailBody1A"	"Hey Brad,"
-"MailBody1B"	"das ist seltsam.  Ich habe unsere Transportprotokolle durchsucht, aber es ist nichts unter 'Lieferung 4903877' eingetragen."
-"MailBody1C"	"Ich schlage vor, du behältst die Fracht, bis ich die Post zurückverfolgt habe.  Sie wurde von irgendwo innerhalb des Hauptkomplexes verschickt.  Es sollte nicht allzu schwer sein, herauszufinden, wer die Bestellung weitergeleitet hat."
-"MailBody1D"	"Wir sprechen uns später.  Pass auf dich auf."
-"MailFrom2"	"Von: Laura Callen"
-"MailDate2"	"Datum: 12/18/52"
-"MailSubject2"	"Betreff: Aw:Aw: Frachtschifffahrt"
-"MailBody2A"	"Brad, es sieht so aus, als ob Cain der Absender ist.  Ich habe ihn danach gefragt und er hat alles abgestritten.  Er sagte, dass jeder den Computer hätte benutzen können, was zwar stimmt, ihn aber in meinen Augen nicht entlastet."
-"MailBody2B"	"Ich möchte, dass du diese Container kontrollierst, bevor sie den Frachtraum verlassen."
-// sent mail
-"MailFrom3"	"An: Laura Callen"
-"MailDate3"	"Datum: 12/18/52"
-"MailSubject3"	"Betreff: Aw: Eier"
-"MailBody3A"	"Laura,"
-"MailBody3B"	"die Dinge werden hier immer merkwürdiger.  Nach deinem Post bin ich dorthin gegangen, wo wir die Eier gelassen haben.  Die Schalen waren kaputt und sie waren leer."
-"MailBody3C"	"Wir haben beschlossen, Außenposten 17 in Zweiergruppen zu durchsuchen und zu sehen, ob wir etwas Ungewöhnliches finden.  Zusätzliche Arbeitskräfte wären sehr willkommen."
-"MailBody3D"	"Ich denke, wir können davon ausgehen, dass etwas Verdächtiges vor sich geht. Der Transport lebender Fracht zur Erde fällt unter die IA-Beschränkung #77-C.  Niemand könnte das aus Versehen tun."
+	// PDA belongs to Brad Campbell
+	// inbox
+	"MailFrom1"	"Von: Laura Callen"
+	"MailDate1"	"Datum: 12/18/52"
+	"MailSubject1"	"Betreff: Aw: Frachtversand"
+	"MailBody1A"	"Hey Brad,"
+	"MailBody1B"	"das ist seltsam.  Ich habe unsere Transportprotokolle durchsucht, aber es ist nichts unter 'Lieferung 4903877' eingetragen."
+	"MailBody1C"	"Ich schlage vor, du behältst die Fracht, bis ich die Post zurückverfolgt habe.  Sie wurde von irgendwo innerhalb des Hauptkomplexes verschickt.  Es sollte nicht allzu schwer sein, herauszufinden, wer die Bestellung weitergeleitet hat."
+	"MailBody1D"	"Wir sprechen uns später.  Pass auf dich auf."
+	"MailFrom2"	"Von: Laura Callen"
+	"MailDate2"	"Datum: 12/18/52"
+	"MailSubject2"	"Betreff: Aw:Aw: Frachtschifffahrt"
+	"MailBody2A"	"Brad, es sieht so aus, als ob Cain der Absender ist.  Ich habe ihn danach gefragt und er hat alles abgestritten.  Er sagte, dass jeder den Computer hätte benutzen können, was zwar stimmt, ihn aber in meinen Augen nicht entlastet."
+	"MailBody2B"	"Ich möchte, dass du diese Container kontrollierst, bevor sie den Frachtraum verlassen."
+	// sent mail
+	"MailFrom3"	"An: Laura Callen"
+	"MailDate3"	"Datum: 12/18/52"
+	"MailSubject3"	"Betreff: Aw: Eier"
+	"MailBody3A"	"Laura,"
+	"MailBody3B"	"die Dinge werden hier immer merkwürdiger.  Nach deinem Post bin ich dorthin gegangen, wo wir die Eier gelassen haben.  Die Schalen waren kaputt und sie waren leer."
+	"MailBody3C"	"Wir haben beschlossen, Außenposten 17 in Zweiergruppen zu durchsuchen und zu sehen, ob wir etwas Ungewöhnliches finden.  Zusätzliche Arbeitskräfte wären sehr willkommen."
+	"MailBody3D"	"Ich denke, wir können davon ausgehen, dass etwas Verdächtiges vor sich geht. Der Transport lebender Fracht zur Erde fällt unter die IA-Beschränkung #77-C.  Niemand könnte das aus Versehen tun."
 }

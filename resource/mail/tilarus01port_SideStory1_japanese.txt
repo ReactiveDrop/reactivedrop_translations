@@ -1,10 +1,10 @@
 ﻿GAME
 {
-// PDA belongs to John Hadan
+	// PDA belongs to John Hadan
 
-"MailFrom1"	"差出人: ジミー・カーター"
-"MailDate1"	"送信日時: 54年2月2日"
-"MailSubject1"	"件名: SynTekの貨物"
-"MailBody1A"	"やあジョン、Syntekから貨物が来たのは知ってるか？検疫中のやつだ。
+	"MailFrom1"	"差出人: ジミー・カーター"
+	"MailDate1"	"送信日時: 54年2月2日"
+	"MailSubject1"	"件名: SynTekの貨物"
+	"MailBody1A"	"やあジョン、Syntekから貨物が来たのは知ってるか？検疫中のやつだ。
 あと船着場の下で事故が起きたってカイルから聞いた。例の貨物の近くだ。 それについて何か知らないか？"
 }
