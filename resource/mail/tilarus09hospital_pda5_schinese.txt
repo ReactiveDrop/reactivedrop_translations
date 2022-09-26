@@ -2,7 +2,7 @@ GAME
 {
 	// PDA belongs to	Ian Cook
 
-	// sent mail 
+	// sent mail
 	"MailFrom3"	"收件人：新特医院员工"
 	"MailDate3"	"日期：03/16/46"
 	"MailSubject3"	"主题：我们需要一个新计划"

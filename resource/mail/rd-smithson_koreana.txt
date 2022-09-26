@@ -2,7 +2,7 @@
 {
 	// PDA belongs to Andrew Smithson
 
-	// inbox 
+	// inbox
 	"MailFrom1"	"송신자: 제임스 슐러거"
 	"MailDate1"	"날짜: 57년 10월 9일"
 	"MailSubject1"	"주제: 결함이 있는 문"

@@ -8,4 +8,4 @@ GAME
 "MailBody1B"	"Abbiamo decifrato alcune delle informazioni trovate in RC7 e sembra che alcuni sciami siano stati avvistati in profondità nelle miniere."
 "MailBody1C"	"A peggiorare le cose, stiamo rilevando una grande concentrazione di biosignature di sciami provenienti dalle miniere."
 "MailBody1D"	"Ho appena sentito che hanno dovuto ricorrere al comando nucleare della Stazione di Timor su Vareon XII. Speriamo che non si arrivi a quello."
-} 
+}

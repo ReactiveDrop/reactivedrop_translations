@@ -2,7 +2,7 @@
 {
 	// PDA belongs to Andrew Smithson
 
-	// inbox 
+	// inbox
 	"MailFrom1"	"差出人: ジェームズ・シュルガー"
 	"MailDate1"	"送信日時: 57年10月9日"
 	"MailSubject1"	"件名: 壊れかけのドア"

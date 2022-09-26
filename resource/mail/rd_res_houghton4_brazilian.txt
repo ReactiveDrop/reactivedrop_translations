@@ -8,4 +8,4 @@ GAME
 "MailBody1B"	"De acordo com informações de Vereon XII, os parasítas do enxame gostam de umidade."
 "MailBody1C"	"As cavernas à frente podem estar infestada deles."
 "MailBody1D"	"Câmbio desligo."
-} 
+}

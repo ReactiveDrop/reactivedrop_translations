@@ -7,7 +7,7 @@ GAME
 "MailDate1"	"Data: 02/02/54"
 "MailSubject1"	"Soggetto: Re: I Canili"
 "MailBody1A"	"Amico, quella si che era roba strana."
-"MailBody1B"	"Quando Bennings mi è corso incontro, pensai che lui e Mac 
+"MailBody1B"	"Quando Bennings mi è corso incontro, pensai che lui e Mac
 fossero impazziti. Forse Mac è già impazzito?"
 "MailBody1C"	"E chi avrebbe mai pensato che il lanciafiamme sarebbe effettivamente tornato utile?"
 

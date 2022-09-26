@@ -8,4 +8,4 @@ GAME
 "MailBody1B"	"根据维隆十二的情报，虫群的寄生虫喜欢潮湿。"
 "MailBody1C"	"前面的洞穴里可能爬满了它们。"
 "MailBody1D"	"霍顿挂断。"
-} 
+}
