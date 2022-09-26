@@ -1,6 +1,7 @@
 GAME
 {
-	//inbox
+	// inbox
+
 	"MailFrom1"	"Von: Ming"
 	"MailDate1"	"Datum: 12/27/52"
 	"MailSubject1"	"VERBRENNT SIE!"
@@ -8,6 +9,7 @@ GAME
 	"MailBody1B"	"Du musst alle deine Exemplare töten, JETZT!"
 	"MailBody1C"	"Ich habe mich in einer Nische in der Timor Station verschanzt, ich kann sie hören. Sie sind hinter mir her!."
 	"MailBody1D"	"TÖTE SIE ODER VERSCHWINDE, SOLANGE DU NOCH KANNST"
+
 	"MailFrom2"	"Von: Martin Jericho"
 	"MailDate2"	"Datum: 12/27/52"
 	"MailSubject2"	"Aw: Fleisch auftauen"
@@ -15,7 +17,9 @@ GAME
 	"MailBody2B"	"Das Ding, das du uns geschickt hast, war nicht tot! Wir haben es in die Nähe der Lava gebracht und es wurde lebendig."
 	"MailBody2C"	"Es hat Hodgson UND Jenny getötet. Hörst du mich, DU HAST JENNY GETÖTET!"
 	"MailBody2D"	"Es hat mich gebissen, ich spüre, wie sich etwas in mir bewegt... wächst... Ich hasse dich."
-	//sent mail
+
+	// sent mail
+
 	"MailFrom3"	"An: Martin Jericho"
 	"MailDate3"	"Datum: 12/26/52"
 	"MailSubject3"	"Fleisch auftauen"
