@@ -1,11 +1,11 @@
 GAME
 {
-// PDA pertence a corporação GeoTerra
+	// PDA pertence a corporação GeoTerra
 
-"MailFrom1"	"De: Rep. GeoTerra, Mandy"
-"MailDate1"	"Data: 02/02/54"
-"MailSubject1"	"Assunto: Terremoto Recente"
-"MailBody1A"	"Como todos sabem, o terremoto recente que nos atingiu ontem foi causado por um acidente na Doca 6. Um grande nave de carga entrando pela Plataforma Orbital 11, Pilotado pelo capitão Lee o'Ryan teve uma falha no reator, causando uma perda de órbita, e colidindo com a baía 6"
-"MailBody1B"	"A Segurança GeoTerra ainda está investigando, No entanto, felizmente ninguém foi ferido, Devido às baias 4-6 terem sido fechadas antecipadamente, devido à chegada de uma tempestade de neve."
-"MailBody1C"	"Assinado por, Andrew Baker, Escritórios principais da Corporação GeoTerra"
+	"MailFrom1"	"De: Rep. GeoTerra, Mandy"
+	"MailDate1"	"Data: 02/02/54"
+	"MailSubject1"	"Assunto: Terremoto Recente"
+	"MailBody1A"	"Como todos sabem, o terremoto recente que nos atingiu ontem foi causado por um acidente na Doca 6. Um grande nave de carga entrando pela Plataforma Orbital 11, Pilotado pelo capitão Lee o'Ryan teve uma falha no reator, causando uma perda de órbita, e colidindo com a baía 6"
+	"MailBody1B"	"A Segurança GeoTerra ainda está investigando, No entanto, felizmente ninguém foi ferido, Devido às baias 4-6 terem sido fechadas antecipadamente, devido à chegada de uma tempestade de neve."
+	"MailBody1C"	"Assinado por, Andrew Baker, Escritórios principais da Corporação GeoTerra"
 }
