@@ -27,4 +27,4 @@ GAME
 "MailBody3B"	"Recebi vários espécimes de Verizon XII, não me pergunte como.Um dos espécimes parece ter morrido durante o transporte."
 "MailBody3C"	"Não posso usar o incinerador aqui sem que os superiores descubram, Estou enviando para suas minas para descarte em um dos poços de lava."
 "MailBody3D"	"Hullen."
-} 
+}

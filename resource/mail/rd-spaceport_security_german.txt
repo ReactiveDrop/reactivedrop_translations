@@ -1,7 +1,7 @@
 GAME
 {
 // PDA belongs to Tony Dawson
-// inbox 
+// inbox
 "MailFrom1"	"Von: Barbara Whyte"
 "MailDate1"	"Datum: 06/10/57"
 "MailSubject1"	"Betreff: Aw:Aw: Zusätzliche Sicherheit"

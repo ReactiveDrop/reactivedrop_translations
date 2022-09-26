@@ -8,4 +8,4 @@ GAME
 "MailBody1B"	"Secondo le informazioni di Vereon XII, i parassiti dello sciame amano l'umidità."
 "MailBody1C"	"Le grotte davanti potrebbero essere piene di alieni."
 "MailBody1D"	"Houghton chiudo."
-} 
+}

@@ -1,7 +1,7 @@
 GAME
 {
 // PDA belongs to cave_geologist1
-// inbox 
+// inbox
 "MailFrom1"	"Von: G.S.D."
 "MailDate1"	"Datum: 17/09/57"
 "MailSubject1"	"Betreff: Aw: Vorläufige Ergebnisse des Höhlensystems"

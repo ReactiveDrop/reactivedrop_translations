@@ -1,7 +1,7 @@
 GAME
 {
 // PDA belongs to Andrew Smithson
-// inbox 
+// inbox
 "MailFrom1"	"Von: James Shluger"
 "MailDate1"	"Datum: 09/10/57"
 "MailSubject1"	"Betreff: Defekte Tür"

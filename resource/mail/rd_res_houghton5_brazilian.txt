@@ -8,4 +8,4 @@ GAME
 "MailBody1B"	"Deciframos algumas das informações encontradas no CP7,e parece que alguns enxames foram avistados nas profundezas das minas."
 "MailBody1C"	"Para piorar as coisas, estamos detectando uma grande concentração de bioassinaturas dos enxames vindos das minas."
 "MailBody1D"	"Acabei de ouvir que eles tiveram que explodir a Estação Timor em Vareon XII. Vamos torcer para que não cheguemos a isso."
-} 
+}

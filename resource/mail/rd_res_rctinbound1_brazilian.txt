@@ -36,4 +36,4 @@ GAME
 "MailBody4B"	"Eu sei que não nos conhecemos muito bem, mas eu queria saber se você gostaria de sair para jantar comigo?"
 "MailBody4C"	"Conheço um lugarzinho simpático que serve comida de Xenon IX, talvez na quarta-feira?"
 "MailBody4D"	"Hullen. XXXX"
-} 
+}

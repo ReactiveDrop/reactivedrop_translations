@@ -1,7 +1,7 @@
 GAME
 {
 // PDA belongs to Vincent baker
-// inbox 
+// inbox
 "MailFrom1"	"Von: Juan Rosales"
 "MailDate1"	"Datum: 12/18/52"
 "MailSubject1"	"Betreff: Schnaps und Weiber?"

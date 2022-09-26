@@ -1,7 +1,7 @@
 GAME
 {
 // PDA belongs to George Benson
-// inbox 
+// inbox
 "MailFrom1"	"Von: Versand und Lagerung"
 "MailDate1"	"Datum: 10/24/53"
 "MailSubject1"	"Betreff: Aw: Kettensägen?!"
