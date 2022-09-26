@@ -6090,7 +6090,7 @@
 "rd_branch_disclaimer_bugtest"		"Die Bugtest-Version ist dafür da, Fehler zu reproduzieren, die bereits behoben wurden. Wenn du hier bist, um das Spiel zu spielen oder neue Funktionen zu testen, wechsle bitte die Version."
 "[english]rd_branch_disclaimer_bugtest"		"The \"bugtest\" version is for reproducing bugs that have already been mitigated.\nIf you are here to play the game or to test new features, please change versions.\nThis version does not receive regular updates."
 "rd_branch_disclaimer_releasecandidate"		"Dies ist der Veröffentlichungs-Version von Alien Swarm: Reactive Drop.\nWenn eine Veröffentlichung geplant ist, entspricht diese Version der Beta-Version, nur dass einige Funktionen, die sich derzeit in der Entwicklung befinden, deaktiviert sind."
-"[english]rd_branch_disclaimer_releasecandidate"		"This is the release candidate branch of Alien Swarm: Reactive Drop.\nWhen a release is scheduled, this branch is equivalent to the beta branch,\nbut with some features that are currently in development turned off."
+"[english]rd_branch_disclaimer_releasecandidate"		"This is the release candidate version of Alien Swarm: Reactive Drop.\nWhen a release is scheduled, this version is equivalent to the beta version,\nbut with some features that are currently in development turned off."
 "rd_commander_profile"		"KOMMANDANTEN-PROFIL"
 "[english]rd_commander_profile"		"COMMANDER PROFILE"
 "nh_logisticsarea_1_title"		"Hackt euch durch den Diensteingang"
