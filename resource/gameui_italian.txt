@@ -1067,7 +1067,7 @@
 "[english]GameUI_Icons_DOWNCURSOR"		">"
 "GameUI_Icons_NONE"		"< non assegnato >"
 "[english]GameUI_Icons_NONE"		"< not assigned >"
-"GameUI_KeyNames_Not_Bound"		"< Non Vincolato >"
+"GameUI_KeyNames_Not_Bound"		"< non vincolato >"
 "[english]GameUI_KeyNames_Not_Bound"		"< not bound >"
 "GameUI_KeyNames_UP"		"Tasto direzionale su"
 "[english]GameUI_KeyNames_UP"		"D-pad up"
