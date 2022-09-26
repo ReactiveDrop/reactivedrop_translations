@@ -6090,7 +6090,7 @@
 "rd_branch_disclaimer_bugtest"		"Версия \"bugtest\" предназначена для воспроизведения ошибок, которые уже были исправлены.\nЕсли вы здесь, чтобы играть в игру или тестировать новые возможности, пожалуйста, смените версию игры.\nЭта версия не получает регулярных обновлений."
 "[english]rd_branch_disclaimer_bugtest"		"The \"bugtest\" version is for reproducing bugs that have already been mitigated.\nIf you are here to play the game or to test new features, please change versions.\nThis version does not receive regular updates."
 "rd_branch_disclaimer_releasecandidate"		"Это кандидатная на выпуск версия Alien Swarm: Reactive Drop.\nКогда запланирован выпуск новой версии, эта ветка аналогична бета-версии,\nно с некоторыми функциями, которые в настоящее время находятся в разработке, отключены."
-"[english]rd_branch_disclaimer_releasecandidate"		"This is the release candidate branch of Alien Swarm: Reactive Drop.\nWhen a release is scheduled, this branch is equivalent to the beta branch,\nbut with some features that are currently in development turned off."
+"[english]rd_branch_disclaimer_releasecandidate"		"This is the release candidate version of Alien Swarm: Reactive Drop.\nWhen a release is scheduled, this version is equivalent to the beta version,\nbut with some features that are currently in development turned off."
 "rd_commander_profile"		"ПРОФИЛЬ КОМАНДИРА"
 "[english]rd_commander_profile"		"COMMANDER PROFILE"
 "nh_logisticsarea_1_title"		"Взломайте служебный вход"
