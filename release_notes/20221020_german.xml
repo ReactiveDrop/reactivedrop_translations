@@ -3,11 +3,11 @@
 
 [h1]Waffen[/h1]
 [list]
-		[*][b]M868 Flamer Unit:[/b] Now slows marine movement when equipped, similar to the autogun.
+[*][b]M868 Flammenwerfer:[/b] Verlangsamt jetzt die Bewegung des Soldaten, wenn er ausgerüstet ist, ähnlich wie die Autogun.
 [*][b]IAF Minigun:[/b] Nachladen mit einer ungeraden Munitionsanzahl, die zu 499/500 Munition führte, wurde behoben.
 [*][b]Taschenlampe:[/b] Diese Waffe reflektiert jetzt Licht wie andere Waffen auch.
 [*][b]Granatwerfer:[/b] Ein Fehler wurde behoben, der dazu führte, dass Granaten doppelt explodierten, wenn sie einen Alien direkt trafen. Stattdessen richten Granaten jetzt doppelten Schaden an, wenn sie einen Charakter (Soldat oder Alien) treffen. Dies behebt den Spritzschaden eines direkten Treffers, der den Ein-Treffer-Schutz umgeht, und erhöht den Schaden des Granatwerfers geringfügig (die erste Explosion stieß die Gegner vor der zweiten Explosion etwas von der Granate weg).
-		[*][b]Desert Eagle:[/b] This gun has been renamed to PS50 Bulldog and has a new appearance and sounds.
+[*][b]Desert Eagle:[/b] Diese Waffe wurde in PS50 Bulldog umbenannt, hat ein neues Aussehen und neue Sounds.
 [*][b]Mobile Amp-Heileinheit:[/b] Aktualisierter Skin, um sie von der normalen Mobile Heileinheit zu unterscheiden.
 [*][b]Gasgranaten[/b] Die Granatenbox wurde aktualisiert, damit sie dem Stil der anderen Granaten-Gegenstände entspricht.
 [/list]
@@ -15,7 +15,7 @@
 [h1]Aliens[/h1]
 [list]
 [*]Die Larven reflektieren das Licht wie andere Aliens auch.
-		[*]Harvesters no longer spawn xenomites when they are killed by a direct grenade hit that deals more than double their remaining health.
+[*]Raffer spawnen keine Xenomiten mehr, wenn sie durch einen direkten Granattreffer getötet werden, der mehr als das Doppelte ihrer verbleibenden Lebenspunkte verursacht.
 [/list]
 
 [h1]Übersetzungen[/h1]
@@ -35,8 +35,8 @@
 [*]Es wurde geändert, wie animierte Props vernetzt werden. Die Änderung aus dem letzten Update, dass der Server die Animationen steuert, wurde rückgängig gemacht. Stattdessen sind bestimmte Props unabhängig von der Entfernung immer für den Client sichtbar. Wenn du einem Spiel beitrittst, nachdem eine Animation begonnen hat, werden die Animationen verspätet abgespielt, das sollte das Stottern beheben.
 [*]Die Controller-Navigation in den erweiterten Einstellungen wurde verbessert.
 [*]Einige Beispiel-Farbkorrekturdateien wurden hinzugefügt.
-		[*]Explosions now deal full damage within a small radius of their epicenter, and damage falloff only starts beyond that distance.
-		[*]Tech marines can now manually override the boot-up sequence of an unlocked computer that has downloadable data, and will automatically start the hack on a locked computer after 4 seconds.
+[*]Explosionen verursachen jetzt innerhalb eines kleinen Radius um ihr Epizentrum den vollen Schaden, der Schaden nimmt erst jenseits dieser Entfernung ab.
+[*]Techniker können jetzt die Startsequenz eines nicht gesperrten Computers mit herunterladbaren Daten manuell überschreiben und starten den Hack bei einem gesperrten Computer automatisch nach 4 Sekunden.
 [/list]
 
 [h1]Mapping[/h1]
