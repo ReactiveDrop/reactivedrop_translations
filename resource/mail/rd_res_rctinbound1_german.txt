@@ -12,7 +12,7 @@ GAME
 	"MailDate2"	"Datum: 12/24/52"
 	"MailSubject2"	"Aw: Dinner"
 	"MailBody2A"	"Hallo Hullen,"
-	"MailBody2B"	"das würde ich gerne. Ich sitze bis Donnerstag in den Minen von Jericho fest, aber vielleicht am Freitag, den 28. Juli?"
+	"MailBody2B"	"das würde ich gerne. Ich sitze bis Donnerstag in den Minen von Jericho fest, aber vielleicht am Freitag, den 28.?"
 	"MailBody2C"	"Ich bin eigentlich allergisch gegen Xenon-Vegetation, vielleicht können wir stattdessen etwas trinken gehen, und danach vielleicht..."
 	"MailBody2D"	"Jenny ;) xxxxx"
 	// sent mail
