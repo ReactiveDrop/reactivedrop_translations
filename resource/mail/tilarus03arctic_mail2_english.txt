@@ -21,4 +21,4 @@ GAME
 	"MailBody3B"	"Swarm shouldn't be able to breach that door since it's heavily reinforced metal. They can't access the generators unless they figure some other way in there."
 	"MailBody3C"	"Yeah, I did like to see how..."
 	"MailBody3D"	"-Reactor Chief Engineer"
-} 
+}

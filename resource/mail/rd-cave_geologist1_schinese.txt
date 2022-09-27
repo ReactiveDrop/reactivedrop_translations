@@ -2,7 +2,7 @@ GAME
 {
 	// PDA belongs to cave_geologist1
 
-	// inbox 
+	// inbox
 	"MailFrom1"	"发件人：地质勘测部"
 	"MailDate1"	"日期：17/09/57"
 	"MailSubject1"	"主题：回复：洞穴系统的初步结果"

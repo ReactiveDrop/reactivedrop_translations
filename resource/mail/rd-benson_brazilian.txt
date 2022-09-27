@@ -2,7 +2,7 @@ GAME
 {
 	// PDA pertence ao George Benson
 
-	// Caixa de entrada 
+	// Caixa de entrada
 	"MailFrom1"	"De: Envios e Armazenamentos"
 	"MailDate1"	"Data: 24/10/53"
 	"MailSubject1"	"Assunto: Re: Motoserra?!"

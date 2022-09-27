@@ -1,10 +1,10 @@
 GAME
 {
-"MailFrom1"	"Von: Commander Houghton"
-"MailDate1"	"Datum: 12/30/52"
-"MailSubject1"	"Betreff: Operation Feuersturm"
-"MailBody1A"	"Es sieht nicht gut aus, Alpha, und ich habe keine Ersatzbombe herumliegen."
-"MailBody1B"	"Die meisten Biosignaturen scheinen aus einem Aufzugsschacht im nördlichen Teil der Mine zu kommen. Erinnere dich an den Spruch meines Vaters: "Wenn du es nicht töten kannst, laufe ihm davon."
-"MailBody1C"	"RC7-Berichte zeigen, dass es dort unten einen starken Minenlaser gibt, vielleicht kannst du ihn benutzen, um"
-"MailBody1D"	"brennt sich durch die Biomasse im Aufzugsschacht. Ich denke, die Operation Feuersturm ist jetzt passender, da wir den Laser benutzen. Houghton Ende."
+	"MailFrom1"	"Von: Commander Houghton"
+	"MailDate1"	"Datum: 12/30/52"
+	"MailSubject1"	"Betreff: Operation Feuersturm"
+	"MailBody1A"	"Es sieht nicht gut aus, Alpha, und ich habe keine Ersatzbombe herumliegen."
+	"MailBody1B"	"Die meisten Biosignaturen scheinen aus einem Aufzugsschacht im nördlichen Teil der Mine zu kommen. Erinnere dich an den Spruch meines Vaters: "Wenn du es nicht töten kannst, laufe ihm davon."
+	"MailBody1C"	"RC7-Berichte zeigen, dass es dort unten einen starken Minenlaser gibt, vielleicht kannst du ihn benutzen, um"
+	"MailBody1D"	"brennt sich durch die Biomasse im Aufzugsschacht. Ich denke, die Operation Feuersturm ist jetzt passender, da wir den Laser benutzen. Houghton Ende."
 }

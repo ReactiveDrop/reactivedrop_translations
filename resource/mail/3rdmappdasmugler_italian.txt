@@ -1,6 +1,6 @@
 GAME
 {
-// PDA di proprietà di Naka
+	// PDA di proprietà di Naka
 
 	"MailFrom1"	"Da: Sconosciuto"
 	"MailDate1"	"Data: 09/25/63"

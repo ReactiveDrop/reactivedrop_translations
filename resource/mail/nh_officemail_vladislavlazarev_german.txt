@@ -1,17 +1,17 @@
 GAME
 {
-// PC belongs to Vladislav Lazarev
-// Inbox
-"MailFrom1"	"Von: Vladislav Lazarev"
-"MailDate1"	"Datum: 07/01/42"
-"MailSubject1"	"Betreff: Neuer Auftrag"
-"MailBody1A"	"Rätsel: Was sieht vage wie ein Mensch aus, ist aber in Wirklichkeit ein hochentwickelter Cyborg, der von SynTek so programmiert wurde, dass er uns allen das Leben schwer macht? Wenn deine Antwort 'dieser Wichser Carradine' war, hast du eine Gurke gewonnen. Nein, nicht wirklich. Die sind schon vor Jahrzehnten ausgestorben, so leid es mir tut."
-"MailBody1B"	"Aber du kannst es sicher kaum erwarten zu erfahren, was deine neue Mission beinhaltet. Es ist von äußerster Wichtigkeit, also bitte, hör mich an... Der Kapitän will, dass das koloniale Sprichwort mindestens einmal in jedem Raum des Lugdunum aufgehängt wird. Ja, das ist es. Seltsame Sektenscheiße, was? Beschwere dich nicht, denn die Befehlskette wird sich meinetwegen nicht rühren. Wenigstens hast du dir deinen Wochenplan zurechtgelegt. Pass aber auf, dass du keine Lüftungsschächte abdeckst, das könnte zu Bränden führen. Frag mich auch nicht, wie."
-"MailBody1C"	"'Nam Humanum'... Glaubst du, das ist überhaupt richtiges Latein?"
-// Sent mail
-"MailFrom3"	"An: Tom Asselin"
-"MailDate3"	"Datum: 07/02/42"
-"MailSubject3"	"Betreff: AW: Neuer Auftrag"
-"MailBody3A"	"Vergiss ihr lahmarschiges Motto. Als ob es nicht schon demütigend genug wäre, mich hier zu stationieren. Ich habe mich nicht durch meinen Bioastronautik-Unterricht gequält, um am Ende Dekorateur zu spielen."
-"MailBody3B"	"Ich bleibe hier sitzen und bleibe das unproduktive Mitglied der Gesellschaft, für das sie mich halten, vielen Dank. Was sollen sie schon tun, mich verklagen? Wir sind buchstäblich eine dubiose wissenschaftliche Expedition ohne Rechtsmittel oder Gericht."
+	// PC belongs to Vladislav Lazarev
+	// Inbox
+	"MailFrom1"	"Von: Vladislav Lazarev"
+	"MailDate1"	"Datum: 07/01/42"
+	"MailSubject1"	"Betreff: Neuer Auftrag"
+	"MailBody1A"	"Rätsel: Was sieht vage wie ein Mensch aus, ist aber in Wirklichkeit ein hochentwickelter Cyborg, der von SynTek so programmiert wurde, dass er uns allen das Leben schwer macht? Wenn deine Antwort 'dieser Wichser Carradine' war, hast du eine Gurke gewonnen. Nein, nicht wirklich. Die sind schon vor Jahrzehnten ausgestorben, so leid es mir tut."
+	"MailBody1B"	"Aber du kannst es sicher kaum erwarten zu erfahren, was deine neue Mission beinhaltet. Es ist von äußerster Wichtigkeit, also bitte, hör mich an... Der Kapitän will, dass das koloniale Sprichwort mindestens einmal in jedem Raum des Lugdunum aufgehängt wird. Ja, das ist es. Seltsame Sektenscheiße, was? Beschwere dich nicht, denn die Befehlskette wird sich meinetwegen nicht rühren. Wenigstens hast du dir deinen Wochenplan zurechtgelegt. Pass aber auf, dass du keine Lüftungsschächte abdeckst, das könnte zu Bränden führen. Frag mich auch nicht, wie."
+	"MailBody1C"	"'Nam Humanum'... Glaubst du, das ist überhaupt richtiges Latein?"
+	// Sent mail
+	"MailFrom3"	"An: Tom Asselin"
+	"MailDate3"	"Datum: 07/02/42"
+	"MailSubject3"	"Betreff: AW: Neuer Auftrag"
+	"MailBody3A"	"Vergiss ihr lahmarschiges Motto. Als ob es nicht schon demütigend genug wäre, mich hier zu stationieren. Ich habe mich nicht durch meinen Bioastronautik-Unterricht gequält, um am Ende Dekorateur zu spielen."
+	"MailBody3B"	"Ich bleibe hier sitzen und bleibe das unproduktive Mitglied der Gesellschaft, für das sie mich halten, vielen Dank. Was sollen sie schon tun, mich verklagen? Wir sind buchstäblich eine dubiose wissenschaftliche Expedition ohne Rechtsmittel oder Gericht."
 }
