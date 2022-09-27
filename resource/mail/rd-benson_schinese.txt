@@ -2,7 +2,7 @@ GAME
 {
 	// PDA belongs to George Benson
 
-	// inbox 
+	// inbox
 	"MailFrom1"	"发件人：运输存储部"
 	"MailDate1"	"日期：10/24/53"
 	"MailSubject1"	"回复：链锯？！"

@@ -1,26 +1,26 @@
 GAME
 {
-// PDA belongs to SysAdmin
-// inbox
-"MailFrom1"	"Von: Phil Ryan"
-"MailDate1"	"Datum: 12/20/52"
-"MailSubject1"	"Betreff: Spam!"
-"MailBody1A"	"Mr. Rivera,"
-"MailBody1B"	"Ich glaube, ich spreche im Namen aller hier.  Kannst du BITTE etwas gegen den Spam tun?  Aktualisiere die Posteingangsfilter oder was auch immer, ich gehe davon aus, dass du es am besten weißt, aber um Himmels willen, tu etwas!  Ein Nickel für jeden Mist, den ich im letzten Monat erhalten habe, und ich hätte für immer ausgesorgt."
-"MailBody1C"	"Phil Ryan."
-"MailFrom2"	"Von: Dr. Miller"
-"MailSubject2"	"Fwd: Ph4rm4 4 U"
-"MailDate2"	"Datum: 12/12/52"
-"MailBody2A"	"Hol dir das ganze gute Zeug legal über SynNet!"
-"MailBody2B"	"Isoth4m1ne 23 für nur 99$/Paket, alles inkl."
-"MailBody2C"	"Interstellarer Versand verfügbar."
-"MailBody2D"	"Mit Is0tham1ne 23 fühlst du dich frisch, stark und ausgeruht für einen ganzen Arbeitstag!!!  Deine Vorgesetzten nehmen es - warum solltest du es nicht auch tun?"
-// sent mail
-"MailFrom3"	"An: Phil Ryan"
-"MailDate3"	"Datum: 12/20/52"
-"MailSubject3"	"Betreff: Aw: Spam!"
-"MailBody3A"	"Lieber Herr,"
-"MailBody3B"	"vielen Dank für deine Mail und dein Interesse an unserem Unternehmen.  Wir haben Ihre Anfrage sorgfältig geprüft, und sobald einer unserer Agenten verfügbar ist, wird er mit der Angelegenheit betraut.  Bitte antworte nicht auf diese E-Mail.  Wir werden uns so schnell wie möglich mit dir in Verbindung setzen."
-"MailBody3C"	"SynTek Management/Sys. Admin."
-"MailBody3D"	"Rivera, C."
+	// PDA belongs to SysAdmin
+	// inbox
+	"MailFrom1"	"Von: Phil Ryan"
+	"MailDate1"	"Datum: 12/20/52"
+	"MailSubject1"	"Betreff: Spam!"
+	"MailBody1A"	"Mr. Rivera,"
+	"MailBody1B"	"Ich glaube, ich spreche im Namen aller hier.  Kannst du BITTE etwas gegen den Spam tun?  Aktualisiere die Posteingangsfilter oder was auch immer, ich gehe davon aus, dass du es am besten weißt, aber um Himmels willen, tu etwas!  Ein Nickel für jeden Mist, den ich im letzten Monat erhalten habe, und ich hätte für immer ausgesorgt."
+	"MailBody1C"	"Phil Ryan."
+	"MailFrom2"	"Von: Dr. Miller"
+	"MailSubject2"	"Fwd: Ph4rm4 4 U"
+	"MailDate2"	"Datum: 12/12/52"
+	"MailBody2A"	"Hol dir das ganze gute Zeug legal über SynNet!"
+	"MailBody2B"	"Isoth4m1ne 23 für nur 99$/Paket, alles inkl."
+	"MailBody2C"	"Interstellarer Versand verfügbar."
+	"MailBody2D"	"Mit Is0tham1ne 23 fühlst du dich frisch, stark und ausgeruht für einen ganzen Arbeitstag!!!  Deine Vorgesetzten nehmen es - warum solltest du es nicht auch tun?"
+	// sent mail
+	"MailFrom3"	"An: Phil Ryan"
+	"MailDate3"	"Datum: 12/20/52"
+	"MailSubject3"	"Betreff: Aw: Spam!"
+	"MailBody3A"	"Lieber Herr,"
+	"MailBody3B"	"vielen Dank für deine Mail und dein Interesse an unserem Unternehmen.  Wir haben Ihre Anfrage sorgfältig geprüft, und sobald einer unserer Agenten verfügbar ist, wird er mit der Angelegenheit betraut.  Bitte antworte nicht auf diese E-Mail.  Wir werden uns so schnell wie möglich mit dir in Verbindung setzen."
+	"MailBody3C"	"SynTek Management/Sys. Admin."
+	"MailBody3D"	"Rivera, C."
 }

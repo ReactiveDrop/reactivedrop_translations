@@ -2,7 +2,7 @@ GAME
 {
 	// PDA belongs to Lt. Cain
 
-	// inbox 
+	// inbox
 
 	"MailFrom1"	"发件人：劳拉.考伦"
 	"MailDate1"	"日期：12/21/52"

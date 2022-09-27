@@ -2,7 +2,7 @@ GAME
 {
 	// PDA belongs to David Foster
 
-	// sent mail 
+	// sent mail
 	"MailFrom3"	"To: Andrew Ward"
 	"MailDate3"	"Date: 03/16/46"
 	"MailSubject3"	"Subject: Need Help"

@@ -6090,7 +6090,7 @@
 "rd_branch_disclaimer_bugtest"		"「バグテスト」版は修正したはずのバグが再現されるか試すためのバージョンです。\nゲームをプレイしたり新機能を試したい場合は、別のバージョンに切り替えてください。\nこのバージョンは定期的にアップデートはされません。"
 "[english]rd_branch_disclaimer_bugtest"		"The \"bugtest\" version is for reproducing bugs that have already been mitigated.\nIf you are here to play the game or to test new features, please change versions.\nThis version does not receive regular updates."
 "rd_branch_disclaimer_releasecandidate"		"これはAlien Swarm: Reactive Dropのリリース候補版です。\nリリースの目処が立っている場合、このバージョンはベータ版と基本的に同じ物になりますが、\n一部の開発中の機能は無効化された状態になっています。"
-"[english]rd_branch_disclaimer_releasecandidate"		"This is the release candidate branch of Alien Swarm: Reactive Drop.\nWhen a release is scheduled, this branch is equivalent to the beta branch,\nbut with some features that are currently in development turned off."
+"[english]rd_branch_disclaimer_releasecandidate"		"This is the release candidate version of Alien Swarm: Reactive Drop.\nWhen a release is scheduled, this version is equivalent to the beta version,\nbut with some features that are currently in development turned off."
 "rd_commander_profile"		"プレイヤーのプロフィール"
 "[english]rd_commander_profile"		"COMMANDER PROFILE"
 "nh_logisticsarea_1_title"		"搬入口をハッキングして通る"
