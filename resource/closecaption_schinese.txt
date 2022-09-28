@@ -3851,7 +3851,7 @@
 "[english]Richard.02_04_1"		"<clr:191,195,167><B>Cmdr. Richard:<B> Good. Now, let's find a way to reach the bottom of this place and blow it sky-high."
 "Richard.02_05"		"<clr:191,195,167><B>指挥官 理查德：<B> 天上有什么..."
 "[english]Richard.02_05"		"<clr:191,195,167><B>Cmdr. Richard:<B> What in heaven's..."
-"Richard.02_06"		"<clr:191,195,167><B>指挥官 理查德：<B> 打得不错，陆战队，你们已经接近地表了。看来你得坐电梯去他们进行“研究”的地方了。"
+"Richard.02_06"		"<clr:191,195,167><B>指挥官 理查德：<B> 打得不错，士兵们，你们已经接近地表了。看来你得坐电梯去他们进行“研究”的地方了。"
 "[english]Richard.02_06"		"<clr:191,195,167><B>Cmdr. Richard:<B> Nice shooting, marines, you're nearing groundwork level. It's looking like you'll have to take the elevator shaft down into where they performed their “research”."
 "Richard.03_01"		"<clr:191,195,167><B>指挥官 理查德：<B> 别想太多，教授。你只要给我的小队指明正确的方向即可。"
 "[english]Richard.03_01"		"<clr:191,195,167><B>Cmdr. Richard:<B> Don't get any big ideas, Professor. Just point my men in the right direction."
