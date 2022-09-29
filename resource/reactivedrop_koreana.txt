@@ -3099,7 +3099,7 @@
 		"[english]asw_pda_owner_name_lieutenant_gael_florenza"		"Lt. Gael Florenza"
 		"asw_pda_owner_name_alpha_squad"		"알파 분대"
 		"[english]asw_pda_owner_name_alpha_squad"		"Alpha Squad"
-		"asw_pda_owner_name_hullen"		"헬렌"
+		"asw_pda_owner_name_hullen"		"헐렌"
 		"[english]asw_pda_owner_name_hullen"		"Hullen"
 		"asw_pda_owner_name_public_message_important"		"공개 메세지-중요"
 		"[english]asw_pda_owner_name_public_message_important"		"Public Message-IMPORTANT"
