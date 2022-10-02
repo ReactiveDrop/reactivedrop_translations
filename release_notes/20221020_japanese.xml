@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-		<content><string id="body">Today's update fixes some inconsistencies in various weapons and campaigns. It also adds the ability to assign screen effects to individual marines, and a new trigger to apply different HDR settings to different areas of a map.
+<content><string id="body">今回のアップデートでは各種武器とキャンペーンの矛盾点を修正しました。他にも各海兵隊ごとに画面エフェクトを割り当てる機能や、別々のHDR設定を一つのマップ内のそれぞれの場所ごとに適用するトリガーも追加されました。
 
-		[h1]Campaigns[/h1]
-		[list]
-		[*][b]Jacob's Rest: Timor Station:[/b] Fixed NPC pathfinding near the end of the mission.
-		[*][b]Research 7: Jericho Mines:[/b] Fixed objective markers failing to update with objective completion.
-		[*][b]Tears for Tarnor: Abandoned Maintenance Tunnels:[/b] Fixed walls having unexpectedly tall collision, negatively affecting grenades.
-		[*][b]Tilarus-5: Yanaurus Mine:[/b] Fixed walls being invisible with a rotated camera.
-		[*][b]Tilarus-5: Forgotten Factory:[/b] Fixed walls being invisible with a rotated camera.
-		[*][b]Nam Humanum: Platform XVII:[/b] Removed a tech marine requirement after the last hack is completed.
-		[*][b]Nam Humanum: Groundwork Labs:[/b] Fixed the countdown objective ending early.
-		[*][b]BioGen Corporation: Operation x5:[/b] Fixed death traps not being deadly enough.
-		[*][b]BioGen Corporation: Operation x5:[/b] Fixed aliens being able to spawn inside the ending elevator, causing it to get stuck.
-		[*][b]BioGen Corporation: BioGen Labs:[/b] Removed invisible ceiling collision.
-		[/list]
+[h1]キャンペーン[/h1]
+[list]
+[*][b]Jacob's Rest: Timor Station:[/b] ミッション終盤のNPCの経路探索を修正。
+[*][b]Research 7: Jericho Mines:[/b] 目標達成時に目標マーカーの更新に失敗するのを修正。
+[*][b]Tears for Tarnor: Abandoned Maintenance Tunnels:[/b] 壁が想定より高い衝突判定を持っていたのを修正。グレネードの邪魔になっていた。
+[*][b]Tilarus-5: Yanaurus Mine:[/b] カメラを回転させると壁が透明になるのを修正。
+[*][b]Tilarus-5: Forgotten Factory:[/b] カメラを回転させると壁が透明になるのを修正。
+[*][b]Nam Humanum: Platform XVII:[/b] 最後のハッキングを終えた後はエンジニアの生存が必須ではなくなった。
+[*][b]Nam Humanum: Groundwork Labs:[/b] カウントダウン目標が早めに終了してしまうのを修正。
+[*][b]BioGen Corporation: Operation x5:[/b] 即死トラップが十分な威力ではなかったのを修正。
+[*][b]BioGen Corporation: Operation x5:[/b] エイリアンが最後のエレベーター内に出現する可能性があったのを修正。スタックを引き起こしていた。
+[*][b]BioGen Corporation: BioGen Labs:[/b] 透明な天井の衝突判定を削除。
+[/list]
 
 [h1]武器[/h1]
 [list]
@@ -21,7 +21,7 @@
 [*][b]IAF ミニガン:[/b] 残弾が奇数の時にリロードすると弾薬が499/500になっていたのを修正。
 [*][b]装着式フラッシュライト:[/b] 他の武器と同様に光が反射するようになった。
 [*][b]グレネードランチャー:[/b] グレネードがエイリアンに直撃したときに2回爆発するバグを修正。代わりに、グレネードが直撃した相手(エイリアンでも海兵隊でも)には2倍のダメージを与えるようになった。 これにより直撃時の範囲ダメージが一撃死防止システムを貫通してしまうのが修正されたのと、わずかにグレネードランチャーのダメージが上がった(1回目の爆発が2回目の爆発の前に敵を少し押しのけていた)。
-[*][b]デザートイーグル:[/b] 銃の名前をPS50 ブルドッグに変更し、見た目と音声も新しい物になった。
+[*][b]デザートイーグル:[/b] 銃の名前をPS50 ブルドッグに変更し、見た目と音声も新しい物にした。
 [*][b]IAF メディカルアンプガン:[/b] スキンを変更して通常のメディカルガンと見分けが付くようにした。
 [*][b]TG-05 ガスグレネード:[/b] グレネードの箱を追加して他のグレネード系アイテムと同じ形式にした。
 [/list]
