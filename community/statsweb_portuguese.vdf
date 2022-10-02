@@ -382,6 +382,6 @@
 "StatsWeb_ShortNum_Quintillion0"		"%dT"
 "[english]StatsWeb_ShortNum_Quintillion0"		"%dE"
 "StatsWeb_ShortNum_Quintillion1"		"%d.%dT"
-"[english]StatsWeb_ShortNum_Quintillion1"		"%d.%dT"
+"[english]StatsWeb_ShortNum_Quintillion1"		"%d.%dE"
 }
 }
