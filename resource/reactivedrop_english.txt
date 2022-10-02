@@ -2975,6 +2975,7 @@
 "rd_cant_equip_class"	"Current marine cannot use"
 "rd_cant_equip_locked"	"Level up to unlock"
 "rd_cant_equip_game_rules"	"Disallowed by game rules"
+"rd_cant_equip_unique"	"Cannot hold two of this weapon"
 
 "rd_weapon_fact_units_hammer_before"	""
 "rd_weapon_fact_units_hammer_after"	" units"
