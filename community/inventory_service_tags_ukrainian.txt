@@ -1,9 +1,0 @@
-rarity		Рідкість
-	common		Поширений
-	uncommon		Непоширений
-	rare		Рідкісний
-	legendary		Легендарний
-	genuine		
-	strange		
-slot		
-	medal		

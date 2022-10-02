@@ -5637,6 +5637,8 @@
 "[english]rd_cant_equip_locked"		"Level up to unlock"
 "rd_cant_equip_game_rules"		"游戏规则不允许"
 "[english]rd_cant_equip_game_rules"		"Disallowed by game rules"
+		"rd_cant_equip_unique"		"Cannot hold two of this weapon"
+		"[english]rd_cant_equip_unique"		"Cannot hold two of this weapon"
 "rd_weapon_fact_units_hammer_before"		""
 "[english]rd_weapon_fact_units_hammer_before"		""
 "rd_weapon_fact_units_hammer_after"		" 单位"
