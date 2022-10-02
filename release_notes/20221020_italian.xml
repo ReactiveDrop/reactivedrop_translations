@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-		<content><string id="body">Today's update fixes some inconsistencies in various weapons and campaigns. It also adds the ability to assign screen effects to individual marines, and a new trigger to apply different HDR settings to different areas of a map.
+<content><string id="body">L'aggiornamento di oggi corregge alcune incongruenze in varie armi e campagne. Aggiunge inoltre la possibilità di assegnare effetti a schermo ai singoli soldati e un nuovo trigger per applicare diverse impostazioni HDR a diverse aree di una mappa.
 
-		[h1]Campaigns[/h1]
-		[list]
-		[*][b]Jacob's Rest: Timor Station:[/b] Fixed NPC pathfinding near the end of the mission.
-		[*][b]Research 7: Jericho Mines:[/b] Fixed objective markers failing to update with objective completion.
-		[*][b]Tears for Tarnor: Abandoned Maintenance Tunnels:[/b] Fixed walls having unexpectedly tall collision, negatively affecting grenades.
-		[*][b]Tilarus-5: Yanaurus Mine:[/b] Fixed walls being invisible with a rotated camera.
-		[*][b]Tilarus-5: Forgotten Factory:[/b] Fixed walls being invisible with a rotated camera.
-		[*][b]Nam Humanum: Platform XVII:[/b] Removed a tech marine requirement after the last hack is completed.
-		[*][b]Nam Humanum: Groundwork Labs:[/b] Fixed the countdown objective ending early.
-		[*][b]BioGen Corporation: Operation x5:[/b] Fixed death traps not being deadly enough.
-		[*][b]BioGen Corporation: Operation x5:[/b] Fixed aliens being able to spawn inside the ending elevator, causing it to get stuck.
-		[*][b]BioGen Corporation: BioGen Labs:[/b] Removed invisible ceiling collision.
-		[/list]
+[h1]Campagne[/h1]
+[list]
+[*][b]Jacob's Rest: Stazione di Timor:[/b] Corretto il pathfinding dei PNG verso la fine della missione.
+[*][b]Research 7: Miniere di Jericho:[/b] Corretto l'aggiornamento dei segnalini obiettivo con il completamento dell'obiettivo.
+[*][b]Lacrime per Tarnor: Tunnel della Manutenzione Abbandonati:[/b] Corretto il problema con i muri che hanno collisioni troppo alte e influenzano negativamente le granate.
+[*][b]Tilarus-5: Miniera di Yanaurus:[/b] Corretti i muri invisibili con la telecamera ruotata.
+[*][b]Tilarus-5: Fabbrica Dimenticata:[/b] Corretti i muri invisibili con la telecamera ruotata.
+[*][b]Nam Humanum: Piattaforma XVII:[/b] Rimosso il requisito del soldato tecnico dopo il completamento dell'ultimo hack.
+[*][b]Nam Humanum: Groundwork Labs:[/b] Corretto l'obiettivo con il conto alla rovescia che terminava in anticipo.
+[*][b]BioGen Corporation: Operazione x5:[/b] Corretto un problema che non rendeva le trappole mortali abbastanza mortali.
+[*][b]BioGen Corporation: Operazione x5:[/b] Corretta la possibilità che gli alieni si riproducano all'interno dell'ascensore finale, causandone il blocco.
+[*][b]BioGen Corporation: Laboratori BioGen:[/b] Rimossa la collisione invisibile con il soffitto.
+[/list]
 
 [h1]Armi[/h1]
 [list]
