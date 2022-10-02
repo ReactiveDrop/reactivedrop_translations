@@ -1,5 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<content><string id="body">Сегодняшнее обновление исправляет некоторые несоответствия в различных видах оружия. Также добавлена возможность назначать эффекты на экране отдельным бойцам и новый триггер для применения различных настроек HDR к разным участкам карты.
+		<content><string id="body">Today's update fixes some inconsistencies in various weapons and campaigns. It also adds the ability to assign screen effects to individual marines, and a new trigger to apply different HDR settings to different areas of a map.
+
+		[h1]Campaigns[/h1]
+		[list]
+		[*][b]Jacob's Rest: Timor Station:[/b] Fixed NPC pathfinding near the end of the mission.
+		[*][b]Research 7: Jericho Mines:[/b] Fixed objective markers failing to update with objective completion.
+		[*][b]Tears for Tarnor: Abandoned Maintenance Tunnels:[/b] Fixed walls having unexpectedly tall collision, negatively affecting grenades.
+		[*][b]Tilarus-5: Yanaurus Mine:[/b] Fixed walls being invisible with a rotated camera.
+		[*][b]Tilarus-5: Forgotten Factory:[/b] Fixed walls being invisible with a rotated camera.
+		[*][b]Nam Humanum: Platform XVII:[/b] Removed a tech marine requirement after the last hack is completed.
+		[*][b]Nam Humanum: Groundwork Labs:[/b] Fixed the countdown objective ending early.
+		[*][b]BioGen Corporation: Operation x5:[/b] Fixed death traps not being deadly enough.
+		[*][b]BioGen Corporation: Operation x5:[/b] Fixed aliens being able to spawn inside the ending elevator, causing it to get stuck.
+		[*][b]BioGen Corporation: BioGen Labs:[/b] Removed invisible ceiling collision.
+		[/list]
 
 [h1]Оружие[/h1]
 [list]
