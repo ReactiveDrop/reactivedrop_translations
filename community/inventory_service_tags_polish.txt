@@ -1,9 +1,0 @@
-rarity		Rzadkość
-	common		Pospolity
-	uncommon		Niepospolity
-	rare		Rzadki
-	legendary		Legendarny
-	genuine		
-	strange		
-slot		
-	medal		

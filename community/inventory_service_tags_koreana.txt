@@ -1,9 +1,0 @@
-rarity		희귀도
-	common		일반
-	uncommon		고급
-	rare		희귀
-	legendary		전설
-	genuine		
-	strange		
-slot		
-	medal		
