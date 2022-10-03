@@ -1,9 +1,0 @@
-rarity		Độ hiếm
-	common		Phổ biến
-	uncommon		Lạ
-	rare		Hiếm
-	legendary		Huyền thoại
-	genuine		
-	strange		
-slot		
-	medal		
