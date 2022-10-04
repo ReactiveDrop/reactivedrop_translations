@@ -3,8 +3,8 @@
 "Language"		"schinese"
 "Tokens"
 {
-		"inventory_name_format_1"		"Unique %ITEMNAME%"
-		"[english]inventory_name_format_1"		"Unique %ITEMNAME%"
+"inventory_name_format_1"		"唯一 %ITEMNAME%"
+"[english]inventory_name_format_1"		"Unique %ITEMNAME%"
 "inventory_name_format_2"		""
 "[english]inventory_name_format_2"		""
 "inventory_name_format_3"		""
