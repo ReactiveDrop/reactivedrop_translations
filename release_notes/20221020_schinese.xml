@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-		<content><string id="body">Today's update fixes some inconsistencies in various weapons and campaigns. It also adds the ability to assign screen effects to individual marines, and a new trigger to apply different HDR settings to different areas of a map.
+<content><string id="body">今天的更新修复了一些武器和战役的冲突。它还增加了分配屏幕效果给个别士兵的能力；以及一个新的触发器，能适配地图的不同区域的不同HDR设置。
 
-		[h1]Campaigns[/h1]
-		[list]
-		[*][b]Jacob's Rest: Timor Station:[/b] Fixed NPC pathfinding near the end of the mission.
-		[*][b]Research 7: Jericho Mines:[/b] Fixed objective markers failing to update with objective completion.
-		[*][b]Tears for Tarnor: Abandoned Maintenance Tunnels:[/b] Fixed walls having unexpectedly tall collision, negatively affecting grenades.
-		[*][b]Tilarus-5: Yanaurus Mine:[/b] Fixed walls being invisible with a rotated camera.
-		[*][b]Tilarus-5: Forgotten Factory:[/b] Fixed walls being invisible with a rotated camera.
-		[*][b]Nam Humanum: Platform XVII:[/b] Removed a tech marine requirement after the last hack is completed.
-		[*][b]Nam Humanum: Groundwork Labs:[/b] Fixed the countdown objective ending early.
-		[*][b]BioGen Corporation: Operation x5:[/b] Fixed death traps not being deadly enough.
-		[*][b]BioGen Corporation: Operation x5:[/b] Fixed aliens being able to spawn inside the ending elevator, causing it to get stuck.
-		[*][b]BioGen Corporation: BioGen Labs:[/b] Removed invisible ceiling collision.
-		[/list]
+[h1]战役[/h1]
+[list]
+[*][b]雅格布的栖息地 帝汶站：[/b] 修复了 NPC在任务结束时进行的寻路。
+[*][b]7号研究所 杰里科矿区：[/b] 修复了 目标标记未能随着目标完成而更新。
+[*][b]塔诺尔之泪 废弃的维修通道[/b] 修复了 墙壁有出乎意料的高碰撞，对榴弹的负面影响。
+[*][b]蒂拉鲁斯-5 亚纳鲁斯矿区：[/b] 修复了 当旋转相机时，墙壁将隐形。
+[*][b]蒂拉鲁斯-5 被遗忘的工厂：[/b] 修复了 当旋转相机时，墙壁将隐形。
+[*][b]纳姆·霍姆纳 十七号平台：[/b] 移除了 最后一次入侵完成后的技术陆战队需求。
+[*][b]纳姆·霍姆纳 基础实验室：[/b] 修复了 倒计时目标提前结束的问题。
+[*][b]生物基因公司 x5行动：[/b] 修复了 死亡陷阱不够致命的问题。
+[*][b]生物基因公司 x5行动：[/b] 修复了 异形能够在终点电梯内生成，导致它被卡住的问题。
+[*][b]生物基因公司 生物基因实验室：[/b] 移除了 隐形的天花板碰撞。
+[/list]
 
 [h1]武器[/h1]
 [list]
