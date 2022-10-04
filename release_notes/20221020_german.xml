@@ -3,8 +3,9 @@
 
 [h1]Feldzüge[/h1]
 [list]
-[*][b]JakobsruheJacob's Rest: Timor Station:[/b] Die Wegfindung der NSCs am Ende des Einsatzes wurde verbessert.
+[*][b]Jakobsruhe: Timor Station:[/b] Die Wegfindung der NSCs am Ende des Einsatzes wurde verbessert.
 [*][b]Forschung 7: Jericho Minen:[/b] Es wurde behoben das Zielmarkierungen nicht mehr aktualisiert wurden, wenn das Ziel erreicht war.
+		[*][b]Research 7: Jericho Mines:[/b] Fixed lag caused by physics calculations for falling pipes.
 [*][b]Tränen für Tarnor: Verlassene Wartungstunnel:[/b] Unerwartet hohe Kollisionen mit Wänden, die sich negativ auf Granaten auswirken, wurden behoben.
 [*][b]Tilarus-5: Yanaurus Mine:[/b] Es wurde behoben, dass Wände bei gedrehter Kamera unsichtbar waren.
 [*][b]Tilarus-5: Vergessene Fabrik:[/b] Es wurde behoben, dass Wände bei gedrehter Kamera unsichtbar waren.
@@ -17,7 +18,6 @@
 
 [h1]Waffen[/h1]
 [list]
-[*][b]M868 Flammenwerfer:[/b] Verlangsamt jetzt die Bewegung des Soldaten, wenn er ausgerüstet ist, ähnlich wie die Autogun.
 [*][b]IAF Minigun:[/b] Nachladen mit einer ungeraden Munitionsanzahl, die zu 499/500 Munition führte, wurde behoben.
 [*][b]Taschenlampe:[/b] Diese Waffe reflektiert jetzt Licht wie andere Waffen auch.
 [*][b]Granatwerfer:[/b] Ein Fehler wurde behoben, der dazu führte, dass Granaten doppelt explodierten, wenn sie einen Alien direkt trafen. Stattdessen richten Granaten jetzt doppelten Schaden an, wenn sie einen Charakter (Soldat oder Alien) treffen. Dies behebt den Spritzschaden eines direkten Treffers, der den Ein-Treffer-Schutz umgeht, und erhöht den Schaden des Granatwerfers geringfügig (die erste Explosion stieß die Gegner vor der zweiten Explosion etwas von der Granate weg).
