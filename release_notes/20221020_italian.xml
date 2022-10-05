@@ -58,7 +58,7 @@
 [list]
 [*]Aggiunta l'entità pennello [b]trigger_tonemap[/b]. Questo trigger sovrascrive il controller tonemap attivo per i personaggi all'interno del suo volume ed è sovrascritto dalla nuova funzione VScript SetTonemapController.
 [*]Modificato il [b]fog_volume[/b] in modo che si basi sulla posizione degli occhi del personaggio attualmente controllato piuttosto che sulla posizione della telecamera. Alcune mappe potrebbero dover essere modificate per spostare le entità fog_volume verso nord se sono state originariamente create per compensare lo spostamento della telecamera. fog_volume può ora essere sovrascritto dalle nuove funzioni VScript SetFogController, SetPostProcessController e SetColorCorrection.
-[*]Aggiunta l'opzione a [b]asw_spawner[/b] per ignorare la dimensione della carneficina, pensato apposta per gli spawner in cui l'aumento del numero di alieni dovuto alla difficoltà è indesiderabile (ad esempio, gli spawner usati per i filmati).
+[*]Aggiunta l'opzione a [b]asw_spawner[/b] per ignorare la dimensione della carneficina. Questa opzione è stata pensata apposta per gli spawner in cui l'aumento del numero di alieni dovuto alla difficoltà è indesiderabile (ad esempio, gli spawner usati per i filmati).
 [/list]
 
 [h1]VScript[/h1]
