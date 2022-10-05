@@ -9,6 +9,7 @@
 [*][b]Tränen für Tarnor: Verlassene Wartungstunnel:[/b] Unerwartet hohe Kollisionen mit Wänden, die sich negativ auf Granaten auswirken, wurden behoben.
 [*][b]Tilarus-5: Yanaurus Mine:[/b] Es wurde behoben, dass Wände bei gedrehter Kamera unsichtbar waren.
 [*][b]Tilarus-5: Vergessene Fabrik:[/b] Es wurde behoben, dass Wände bei gedrehter Kamera unsichtbar waren.
+		[*][b]Lana's Escape: Lana's Bridge:[/b] Made performance optimizations to lighting and cinematic alien spawns.
 [*][b]Nam Humanum: Plattform XVII:[/b] Die Techniker-Anforderung wurde entfernt, nachdem der letzte Hack abgeschlossen wurde.
 [*][b]Nam Humanum: Grundstein Laboratorien:[/b] Das Countdown-Ziel wird nicht mehr vorzeitig beendet.
 [*][b]BioGen Gesellschaft: Operation x5:[/b] Todesfallen waren nicht mehr tödlich genug.
@@ -57,6 +58,7 @@
 [list]
 [*]Der brush [b]trigger_tonemap[/b] wurde hinzugefügt. Dieser Trigger setzt den aktiven Tonemap-Controller für Zeichen innerhalb seines Volumens außer Kraft und wird von der neuen SetTonemapController VScript-Funktion außer Kraft gesetzt.
 [*]Das [b]fog_volume[/b] basiert nun auf der Position der Augen des aktuell gesteuerten Charakters und nicht mehr auf der Kameraposition. Einige Karten müssen möglicherweise bearbeitet werden, um ihre fog_volume-Entitäten nach Norden zu verschieben, wenn sie ursprünglich erstellt wurden, um die Kameraverschiebung zu kompensieren. fog_volume kann jetzt von den neuen VScript-Funktionen SetFogController, SetPostProcessController und SetColorCorrection überschrieben werden.
+		[*]Added an option to [b]asw_spawner[/b] to ignore carnage scaling, for spawners where the number of aliens being increased due to higher difficulty is undesirable (eg. spawners used for cinematics).
 [/list]
 
 [h1]VScript[/h1]
