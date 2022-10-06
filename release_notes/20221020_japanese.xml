@@ -9,7 +9,7 @@
 [*][b]Tears for Tarnor: Abandoned Maintenance Tunnels:[/b] 壁が想定より高い衝突判定を持っていたのを修正。グレネードの邪魔になっていた。
 [*][b]Tilarus-5: Yanaurus Mine:[/b] カメラを回転させると壁が透明になるのを修正。
 [*][b]Tilarus-5: Forgotten Factory:[/b] カメラを回転させると壁が透明になるのを修正。
-		[*][b]Lana's Escape: Lana's Bridge:[/b] Made performance optimizations to lighting and cinematic alien spawns.
+[*][b]Lana's Escape: Lana's Bridge:[/b] 照明と演出上のエイリアン出現に関してのパフォーマンス最適化を行った。
 [*][b]Nam Humanum: Platform XVII:[/b] 最後のハッキングを終えた後はエンジニアの生存が必須ではなくなった。
 [*][b]Nam Humanum: Groundwork Labs:[/b] カウントダウン目標が早めに終了してしまうのを修正。
 [*][b]BioGen Corporation: Operation x5:[/b] 即死トラップが十分な威力ではなかったのを修正。
@@ -58,7 +58,7 @@
 [list]
 [*][b]trigger_tonemap[/b]のbrush entityを追加。このトリガーはそのvolume内のキャラクターのアクティブなtonemap controllerを上書きし、新しいVScript関数SetTonemapControllerで置き換える。
 [*][b]fog_volume[/b]がカメラ位置ではなく操作中のキャラクターの目の位置を基準とするように変更。カメラ移動を補正していた一部のマップではfog_volumeのentityを北にずらさなければならない可能性がある。 fog_volumeは新しいVscript関数SetFogController, SetPostProcessController, SetColorCorrectionで置き換え可能になった。
-		[*]Added an option to [b]asw_spawner[/b] to ignore carnage scaling, for spawners where the number of aliens being increased due to higher difficulty is undesirable (eg. spawners used for cinematics).
+[*][b]asw_spawner[/b]にcarnage scalingを無視するオプションを追加。高難易度設定により大量のエイリアンが出現してしまう事が望ましくないspawner用(例：演出に使用するspawner)。
 [/list]
 
 [h1]VScript[/h1]
