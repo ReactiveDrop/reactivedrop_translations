@@ -261,7 +261,7 @@
 		"[english]ServerBrowser_AddServerToBlacklist"		"Add server to blacklist"
 "ServerBrowser_NotResponding"		"< 沒有回應 >"
 "[english]ServerBrowser_NotResponding"		"< not responding >"
-"ServerBrowser_FiltersActive"		"过滤器有效"
+"ServerBrowser_FiltersActive"		"過濾器有效"
 "[english]ServerBrowser_FiltersActive"		"Filters active"
 "ServerBrowser_ServerOutOfDate"		"伺服器版本已過期.."
 "[english]ServerBrowser_ServerOutOfDate"		"Server is out of date.."
