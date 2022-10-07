@@ -49,4 +49,4 @@
 [*][b]CBaseEntity SpawnEntityFromTable( string name, table )[/b] // Создание энтити из KeyValues в таблице - 'name' - имя энтити, остальные - KeyValues для создания.
 [*][b]int PrecacheModel( string modelName )[/b] // Предварительное кэширование модели после загрузки карты и возврат индекса модели
 [*][b]int GetModelIndex( string modelName )[/b] // Возвращает индекс модели по имени
-[/list]</string><string id="subtitle"></string><string id="summary"></string><string id="title">Обновление Alien Swarm: Reactive Drop - 22 августа 2022</string></content>
+[/list]</string><string id="subtitle"></string><string id="summary"></string><string id="title">Обновление Alien Swarm: Reactive Drop - 22 августа 2022 года</string></content>

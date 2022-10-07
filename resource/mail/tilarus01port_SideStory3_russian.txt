@@ -3,7 +3,7 @@ GAME
 	// PDA belongs to Overseer Ross
 
 	"MailFrom1"	"От: Кайл"
-	"MailDate1"	"Дата: 02/02/54"
+	"MailDate1"	"Дата: 02.02.54"
 	"MailSubject1"	"Тема: Отчёт 709б"
 	"MailBody1A"	"-47 дроидов потеряно за последние 24 часа"
 	"MailBody1B"	"-Общая мощность упала до 87%"
