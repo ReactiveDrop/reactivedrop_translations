@@ -745,7 +745,7 @@
 "[english]crash.Use1"		"<clr:238,180,34>Crash: No problem."
 "crash.Use2"		"<clr:238,180,34>Crash: Uh huh."
 "[english]crash.Use2"		"<clr:238,180,34>Crash: Uh huh."
-"crash.Use3"		"<clr:238,180,34>Crash: L'hai preso."
+"crash.Use3"		"<clr:238,180,34>Crash: Puoi contarci."
 "[english]crash.Use3"		"<clr:238,180,34>Crash: You got it."
 "crash.Idle0"		"<clr:238,180,34>Crash: Questo posto è un casino."
 "[english]crash.Idle0"		"<clr:238,180,34>Crash: This place is a mess."
