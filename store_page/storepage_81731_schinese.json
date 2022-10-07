@@ -1,0 +1,12 @@
+{
+"language": "schinese",
+"itemid": "81731",
+"app[content][short_description]": "免费的上帝视角射击游戏。面对凶猛的外星虫群，IAF小队将开启一场场史诗般的消灭外星虫族的战役。本游戏也独特地融合了合作游戏和小队级战术。你将使用不同等级的武器装备，同时运用各种混合战术去消灭它们。",
+"app[content][about]": "《Alien Swarm: Reactive Drop》是由《Alien Swarm》扩展而来。此游戏增添了更多的战役地图、外星虫群、游戏模式、枪械物品等等，并且最重要的是支持Steam创意工坊了。\n\n[list]\n[*]充满战术合作的使用上帝视角8人射击游戏\n[*]Steam创意工坊支持玩家自制地图和挑战\n[*]增添了许多新的合作地图\n[*]挑战：游戏的修改，就像《求生之路2》中的突变一样\n[*]PvP：死亡竞赛，枪械游戏，一击必杀以及团队死亡竞赛\n[*]单人：在任意官方地图中，与属性增强了的机器人一起作战\n[*]新的异形：半条命2蚁狮守卫以及其他\n[*]新武器：沙漠之鹰、毁灭者霰弹枪、战斗步枪，还会有更多\n[*]新增成就：超过100个Steam成就可获取\n[*]排行榜系统: 与好友或全世界玩家竞速（任务完成时间）\n[*]旁观者优化：实时观看被旁观者的鼠标移动轨迹\n[\/list]",
+		"app[content][legal]": "© 2017 Reactive Drop Team",
+"app[content][sysreqs][windows][min][osversion]": "Windows® XP 或以上",
+"app[content][sysreqs][windows][min][processor]": "奔腾4或更新",
+"app[content][sysreqs][windows][min][graphics]": "兼容DirectX 9的128 MB显卡，Shader模型2.0，ATI X800，NVidia 6600或更高",
+"app[content][sysreqs][windows][min][soundcard]": "兼容DirectX 9.0c的声卡",
+"app[content][sysreqs][windows][min][notes]": "磁盘空间需求取决于安装的创意工坊插件。"
+}

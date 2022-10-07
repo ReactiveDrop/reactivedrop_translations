@@ -1,0 +1,12 @@
+{
+"language": "vietnamese",
+"itemid": "81731",
+"app[content][short_description]": "Đây là một trò chơi miễn phí thuộc thể loại bắn súng diệt quái vật. Trò chơi này yêu cầu tính chiến thuật và sự phối hợp đồng đội cao.",
+"app[content][about]": "Alien Swarm: Reactive Drop là một phiên bản mở rộng của Alien Swarm, mang đến nhiều sự thay đổi như: bản đồ mới, thêm nhiều loại quái vật hơn, thêm chế độ chơi, bổ sung các loại súng mới... và hỗ trợ đầy đủ Steam Workshop.\n[list]\n[*]Chế độ thông thường: Chơi với đồng đội theo đội hình chiến thuật 8 người với góc nhìn nghiêng từ trên xuống\n[*]Chế độ đối kháng (PvP): Sinh tử, sinh tử theo đội, Gun Game và Instagib\n[*]Chế độ chơi đơn: Chơi với bot trong các bản đồ chính thức của trò chơi\n[*]Các thử thách và bản đồ mới đều được Steam Workshop hỗ trợ\n[*]Các chiến dịch mới\n[*]Các thử thách (Challenges): Cho phép thay đổi nhiều yếu tố trong trò chơi, được gợi cảm hứng từ trò Left 4 Dead 2\n[*]Các loại quái mới: Bổ sung thêm Antlion một số loại quái vật mới.\n[*]Vũ khí mới: Súng ngắn (Desert Eagle), Devastator, súng trường chiến thuật và một số loại súng mới\n[*]Hỗ trợ trên 100 thành tích của Steam\n[*]Bảng thành tích: Cho phép hoàn thành chiến dịch cùng với bạn bè nhanh hơn.\n[*]Cải thiện: Người xem sẽ thấy được chuột di chuyển trong khi đồng đội đang hack theo thời gian thực\n[\/list]",
+		"app[content][legal]": "© 2017 Reactive Drop Team",
+		"app[content][sysreqs][windows][min][osversion]": "Windows® XP or above",
+		"app[content][sysreqs][windows][min][processor]": "Pentium 4 or newer",
+		"app[content][sysreqs][windows][min][graphics]": "DirectX 9 compatible video card with 128 MB, Shader model 2.0. ATI X800, NVidia 6600 or better",
+		"app[content][sysreqs][windows][min][soundcard]": "DirectX 9.0c compatible sound card",
+		"app[content][sysreqs][windows][min][notes]": "Disk space requirement depends on installed Workshop addons."
+}
