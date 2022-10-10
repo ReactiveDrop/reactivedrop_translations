@@ -2625,6 +2625,8 @@
 "[english]asw_wdesc_extinguisher"		"Filled with a multi-purpose flame suppressant, this item can be used to extinguish any kind of fire encountered in the field."
 "asw_wdesc_welder"		"Ce soudeur des FIA utilise du plasma ionisé à haute température pour un découpage plus efficace ou une soudure plus résistante, en fonction des réglages de l'utilisateur. Généralement utilisé pour souder ou dessouder des portes, les FIA offrent un avantage tactique à leurs Marines avec cet objet."
 "[english]asw_wdesc_welder"		"This IAF-issue handheld welder uses high temperature ionized plasma to create an effective cutting or welding arc, depending on the user specified setting.  Generally used in the field to cut through or seal doors, offering the IAF marines a tactical advantage."
+		"asw_wdesc_flechette"		"Fires self-propelled magnesium tipped flechettes with built in auto-targeting systems."
+		"[english]asw_wdesc_flechette"		"Fires self-propelled magnesium tipped flechettes with built in auto-targeting systems."
 "asw_wdesc_flashlight"		"Avec une haute intensité, cette lampe auto-rechargeable fournit un éclairage complet à l'équipe dans les endroits sombres."
 "[english]asw_wdesc_flashlight"		"A high intensity, self-recharging multi-bulb flashlight attachment, for providing targetted illumination at times of low visibility."
 "asw_wdesc_mines"		"Un pack de cinq mines incendiaires M478 est le standard pour tout Marine Officier. Ces mines doivent être placées sur le terrain et une fois activées, elles vont exploser à l'approche de n'importe quelle créature. Après la détonation, du napalm hautement inflammable est libéré tout autour de la mine, permettant ainsi de tuer la victime et de brûler toute la zone autour, affaiblissant ou tuant les ennemis présents."

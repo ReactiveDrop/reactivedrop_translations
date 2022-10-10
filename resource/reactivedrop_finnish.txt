@@ -2625,6 +2625,8 @@
 "[english]asw_wdesc_extinguisher"		"Filled with a multi-purpose flame suppressant, this item can be used to extinguish any kind of fire encountered in the field."
 "asw_wdesc_welder"		"Tämä IAF:n jakama kannettava hitsauslaite käyttää erittäin kuumaa ionisoitua plasmavalokaarta leikkaamista ja hitsaamista varten, riippuen käyttäjän asetuksista. Yleensä käytetään kentällä ovien aukileikkaamiseen tai kiinnihitsaamiseen, antaen IAF:n jääkäreille taktisen yliotteen."
 "[english]asw_wdesc_welder"		"This IAF-issue handheld welder uses high temperature ionized plasma to create an effective cutting or welding arc, depending on the user specified setting.  Generally used in the field to cut through or seal doors, offering the IAF marines a tactical advantage."
+		"asw_wdesc_flechette"		"Fires self-propelled magnesium tipped flechettes with built in auto-targeting systems."
+		"[english]asw_wdesc_flechette"		"Fires self-propelled magnesium tipped flechettes with built in auto-targeting systems."
 "asw_wdesc_flashlight"		"Erittäin kirkas itselatautuva monilamppuinen valaisinlisälaite, mahdollistaen tähtäämisen heikossakin valaistuksessa."
 "[english]asw_wdesc_flashlight"		"A high intensity, self-recharging multi-bulb flashlight attachment, for providing targetted illumination at times of low visibility."
 "asw_wdesc_mines"		"Viiden kappaleen tuliannos M478 polttomiinoja jaetaan usein jääkärialiupseereille. Näitä miinoja asetetaan ja kalibroidaan kentällä, ja virittyneinä ollessaan laukeavat sopivan maalin tullessa lähelle. Lauetessaan erittäin tulenherkkä napalm purkautuu tuliseinämänä molemmille puolille miinaa, tappaen uhrin ja muodostaen esteen muille vihollisille."

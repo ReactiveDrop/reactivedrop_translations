@@ -2625,6 +2625,8 @@
 "[english]asw_wdesc_extinguisher"		"Filled with a multi-purpose flame suppressant, this item can be used to extinguish any kind of fire encountered in the field."
 "asw_wdesc_welder"		"Стандартное приспособление МВС для ручной сварки, основанное на использовании ионизированной плазмы сверхвысоких температур для создания дуги, способной разрезать или сварить металл. Как правило, используется для вскрытия или блокировки дверей, дающих бойцам МВС тактическое преимущество."
 "[english]asw_wdesc_welder"		"This IAF-issue handheld welder uses high temperature ionized plasma to create an effective cutting or welding arc, depending on the user specified setting.  Generally used in the field to cut through or seal doors, offering the IAF marines a tactical advantage."
+		"asw_wdesc_flechette"		"Fires self-propelled magnesium tipped flechettes with built in auto-targeting systems."
+		"[english]asw_wdesc_flechette"		"Fires self-propelled magnesium tipped flechettes with built in auto-targeting systems."
 "asw_wdesc_flashlight"		"Прикрепляемый фонарь с высокой яркостью света и самоподзарядкой способен отлично осветить цель в условиях плохой видимости."
 "[english]asw_wdesc_flashlight"		"A high intensity, self-recharging multi-bulb flashlight attachment, for providing targetted illumination at times of low visibility."
 "asw_wdesc_mines"		"Пять зажигательных мин M478 — стандартный набор сержанта. Эти мины устанавливаются и настраиваются на поле боя, детонируя, когда к ним приблизится подходящая цель. Во время детонации, легковоспламеняющийся напалм разбрасывается во все стороны от мины, не только убивая цель, но и изолируя область от других врагов."
