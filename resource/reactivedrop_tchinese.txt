@@ -2625,6 +2625,8 @@
 "[english]asw_wdesc_extinguisher"		"Filled with a multi-purpose flame suppressant, this item can be used to extinguish any kind of fire encountered in the field."
 "asw_wdesc_welder"		"這個 IAF-手持型電焊工具使用高溫電離等離子來進行切割或焊接工作，可根據使用者需要來進行設置。一般用于切割或焊接大門，來爲 IAF 士兵提供戰術優勢。"
 "[english]asw_wdesc_welder"		"This IAF-issue handheld welder uses high temperature ionized plasma to create an effective cutting or welding arc, depending on the user specified setting.  Generally used in the field to cut through or seal doors, offering the IAF marines a tactical advantage."
+		"asw_wdesc_flechette"		"Fires self-propelled magnesium tipped flechettes with built in auto-targeting systems."
+		"[english]asw_wdesc_flechette"		"Fires self-propelled magnesium tipped flechettes with built in auto-targeting systems."
 "asw_wdesc_flashlight"		"一款高強度、具有自我充電功能的多燈頭手電筒附件，可在低能見度環境下使用以提高視野。"
 "[english]asw_wdesc_flashlight"		"A high intensity, self-recharging multi-bulb flashlight attachment, for providing targetted illumination at times of low visibility."
 "asw_wdesc_mines"		"一組5顆的 M478 感應式燃燒地雷是士官級別的士兵們的標准配備。這些地雷能夠能放置在地上並且進行校准，一旦有與地雷感應器記錄相匹配的生物靠近時，地雷就會立刻引爆。一旦引爆，地雷兩邊會各噴出一條凝固汽油帶並且將其點燃，形成一道火牆。可用來殺死靠近的敵人以及對特定區域進行封鎖。"

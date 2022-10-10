@@ -2625,6 +2625,8 @@
 "[english]asw_wdesc_extinguisher"		"Filled with a multi-purpose flame suppressant, this item can be used to extinguish any kind of fire encountered in the field."
 "asw_wdesc_welder"		"IAF-지급 휴대용 용접기는 사용자 설정에 따라 효율적인 절단 또는 아크 용접을 하기 위해 고온의 이온화 플라즈마를 사용합니다.  전장에서는 일반적으로 문을 개봉하거나 용접하는 데에 사용되며, 이는 IAF 해병대에 전술적 이점을 제공합니다."
 "[english]asw_wdesc_welder"		"This IAF-issue handheld welder uses high temperature ionized plasma to create an effective cutting or welding arc, depending on the user specified setting.  Generally used in the field to cut through or seal doors, offering the IAF marines a tactical advantage."
+		"asw_wdesc_flechette"		"Fires self-propelled magnesium tipped flechettes with built in auto-targeting systems."
+		"[english]asw_wdesc_flechette"		"Fires self-propelled magnesium tipped flechettes with built in auto-targeting systems."
 "asw_wdesc_flashlight"		"고휘도의 자가충전 가능한 전구 다발 손전등 부착물. 가시성이 확보되지 않았을 때 목표 조명을 제공함."
 "[english]asw_wdesc_flashlight"		"A high intensity, self-recharging multi-bulb flashlight attachment, for providing targetted illumination at times of low visibility."
 "asw_wdesc_mines"		"M478 근접 소이 지뢰 5발은 하사관 해병의 표준 보급입니다.  이 지뢰들은 전장에 매설되고, 활성화된 이후 목표에 해당하는 생물체가 접근할 때 기폭됩니다.  기폭되면 가연성 네이팜이 지뢰의 양옆 일직선으로 방출되어 희생자들을 죽이고 적의 접근을 전술적으로 허용하지 않습니다."

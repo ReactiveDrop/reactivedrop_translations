@@ -2625,6 +2625,8 @@
 "[english]asw_wdesc_extinguisher"		"Filled with a multi-purpose flame suppressant, this item can be used to extinguish any kind of fire encountered in the field."
 "asw_wdesc_welder"		"Bu YSK malı Kaynak Aleti, kullanıcı isteğine göre ayarlanabilen efektif bir kesim ve kaynak yapabilmek için yüksek ısıda iyonize plazma kullanır. Genellikle kapılara kaynak yapmak veya kesmek için kullanılır, YSK piyadelerine taktiksel avantaj sağlar."
 "[english]asw_wdesc_welder"		"This IAF-issue handheld welder uses high temperature ionized plasma to create an effective cutting or welding arc, depending on the user specified setting.  Generally used in the field to cut through or seal doors, offering the IAF marines a tactical advantage."
+		"asw_wdesc_flechette"		"Fires self-propelled magnesium tipped flechettes with built in auto-targeting systems."
+		"[english]asw_wdesc_flechette"		"Fires self-propelled magnesium tipped flechettes with built in auto-targeting systems."
 "asw_wdesc_flashlight"		"Yüksek şiddetli, kendiliğinden şarj olabilen, birden fazla ampule sahip el feneri, görüşün yetersiz olduğu anlarda hedef bölgenin aydınlatılmasını sağlar."
 "[english]asw_wdesc_flashlight"		"A high intensity, self-recharging multi-bulb flashlight attachment, for providing targetted illumination at times of low visibility."
 "asw_wdesc_mines"		"Beş parçalık M478 Yakınlığa Duyarlı Yanıcı Mayın seti herhangi bir NCO rütbeli piyade için standart teçhizattır. Bu mayınlar bölgeye yerleştirilir ve kalibre edilir, aktif haldeyken hedef özellikleriyle uyuşan bir canlı yakınına geldiğinde patlar. Patlama ile birlikte mayının her yönüne yüksek seviyede yanıcı napalm püskürtülür, ve aynı anda hem kurban öldürülür hem de geçişi engelleyerek taktiksel avantaj sağlar."

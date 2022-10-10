@@ -2625,6 +2625,8 @@
 "[english]asw_wdesc_extinguisher"		"Filled with a multi-purpose flame suppressant, this item can be used to extinguish any kind of fire encountered in the field."
 "asw_wdesc_welder"		"Портативний зварювальний апарат МЗС використовує іонізовану плазму високої температури для створення дуги, здатної зварювати чи розрізати метал, залежно від потреби. Як правило, застосовується для блокування або розрізання дверей, що дає піхотинцям тактичну перевагу."
 "[english]asw_wdesc_welder"		"This IAF-issue handheld welder uses high temperature ionized plasma to create an effective cutting or welding arc, depending on the user specified setting.  Generally used in the field to cut through or seal doors, offering the IAF marines a tactical advantage."
+		"asw_wdesc_flechette"		"Fires self-propelled magnesium tipped flechettes with built in auto-targeting systems."
+		"[english]asw_wdesc_flechette"		"Fires self-propelled magnesium tipped flechettes with built in auto-targeting systems."
 "asw_wdesc_flashlight"		"Потужний світлодіодний ліхтар із самозарядною батареєю. Кріпиться до зброї, освітлюючи цілі в умовах поганої видимості."
 "[english]asw_wdesc_flashlight"		"A high intensity, self-recharging multi-bulb flashlight attachment, for providing targetted illumination at times of low visibility."
 "asw_wdesc_mines"		"Комплект з п’яти запалювальних мін M478 є стандартним спорядженням офіцера. Ці міни встановлюються і калібруються на полі бою, вибухаючи при наближенні, відповідної до налаштувань, істоти. Під час детонації вивільняється легкозаймистий напалм у лінію по обидва боки від міни, тим самим не тільки знешкоджуючи ціль, а ще й ізолюючи область від інших ворогів."

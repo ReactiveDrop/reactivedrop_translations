@@ -2625,6 +2625,8 @@
 "[english]asw_wdesc_extinguisher"		"Filled with a multi-purpose flame suppressant, this item can be used to extinguish any kind of fire encountered in the field."
 "asw_wdesc_welder"		"Ez a CSFE-nél rendszeresített kézi hegesztő magas hőmérsékletű ionizált plazmából hoz létre a beállítástól függően hegesztésre vagy vágásra alkalmas szúrólángot. A harcmezőn általában ajtók átvágására vagy lezárására használják, amivel a CSFE katonái taktikai előnyhöz juthatnak."
 "[english]asw_wdesc_welder"		"This IAF-issue handheld welder uses high temperature ionized plasma to create an effective cutting or welding arc, depending on the user specified setting.  Generally used in the field to cut through or seal doors, offering the IAF marines a tactical advantage."
+		"asw_wdesc_flechette"		"Fires self-propelled magnesium tipped flechettes with built in auto-targeting systems."
+		"[english]asw_wdesc_flechette"		"Fires self-propelled magnesium tipped flechettes with built in auto-targeting systems."
 "asw_wdesc_flashlight"		"Nagy fényerejű, több fényforrásos, öntöltő reflektor-toldat, amivel rossz fényviszonyok között irányított megvilágítás biztosítható."
 "[english]asw_wdesc_flashlight"		"A high intensity, self-recharging multi-bulb flashlight attachment, for providing targetted illumination at times of low visibility."
 "asw_wdesc_mines"		"Az altisztek szabványos felszerelésének része az öt darab M478 közelségi gyújtóaknából álló csomag. Miután elhelyezték a harcmezőn, a beállított és élesített aknák a megadott paramétereknek megfelelő élőlények közeledésére robbannak. Robbanáskor az akna mindkét oldalán erősen gyúlékony napalmot bocsát ki egyenes vonalban, ezzel egyrészt megölve az áldozatot, másrészt taktikailag elzárva a területet a többi ellenség elől."
