@@ -6,7 +6,7 @@ This repository contains all the files required to translate [Alien Swarm: React
 
 - achievements: Steam Achievement descriptions which will be shown on Steams website.
 - addons: Translations for custom campaigns and challenges.
-- community: Steam Community (workshop, inventory, points shop) translations.
+- community: Steam Community (workshop, inventory, points shop, eula) translations.
 - credits: Credits texts for official campaigns.
 - platform: Translations for generic source-engine UI ingame eg. the server browser.
 - release_notes: Update notes shown on Steams website.
@@ -14,8 +14,6 @@ This repository contains all the files required to translate [Alien Swarm: React
 - rich_presence: Online status messages in Steams Friends List.
 - store_page: [Steam's store page](https://store.steampowered.com/app/563560/)
 - utils: Helper tools for translators.
-
-
 
 
 ### Got Questions?
