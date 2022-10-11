@@ -36,7 +36,7 @@ Read more about it [on our wiki](https://github.com/ReactiveDrop/reactivedrop_tr
 Please make sure that your text editor preserves file's encoding. The new files you create need to have same encoding as their english counterpart(e.g. labsmail1_czech.txt needs to be UTF-8 encoded just like labsmail1_english.txt). If you use Notepad++ you can see the file's encoding in the menu Encoding.
 
 ## Achievements
-These files are automatically created based on the `resource/reactivedrop_*.txt` files.
+These files are automatically created based on the `resource/reactivedrop_*.txt` files. You can manually trigger an update of the files through executing `utils/translation-sync-tool.exe` (helps solving issues with ci-checks).
 
 ## Mail and News
 Create a copy of each mail and news file and rename it to your language sufix(e.g. labsmail1_russian.txt). Translate the contents of each file. See labsmail1_russian.txt as an example.
@@ -55,5 +55,5 @@ If you change an English string in a way that does not require editing other lan
 
 ## How to test your translation before submitting it
 - Go into Steam - Library - Alien Swarm: Reactive Drop, right click and choose Properties. In the Language tab select the language you are translating into.
-- Copy your files into respective folders in `C:\Program Files (x86)\Steam\steamapps\common\Alien Swarm Reactive Drop\reactivedrop\resource`
+- Copy your files into respective folders in `C:\Program Files (x86)\Steam\steamapps\common\Alien Swarm Reactive Drop\reactivedrop\resource`.
 
