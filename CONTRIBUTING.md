@@ -26,41 +26,41 @@ There are multiple ways to add or edit your translation of the game:
 
 ## The professional way
 Use an editor to make your changes and integrate them through github.
-Read more about it on our [wiki](https://github.com/ReactiveDrop/reactivedrop_translations/wiki).
+Read more about it [on our wiki](https://github.com/ReactiveDrop/reactivedrop_translations/wiki).
 
-### Pre-requisites
+## Pre-requisites
 - Any unicode plain text editor. E.g. [Notepad++](https://notepad-plus-plus.org/) or [Visual Studio Code](https://code.visualstudio.com/).
 - An [GIT installation](https://git-scm.com/downloads)
 
-### File Encoding
+## File Encoding
 
 Please make sure that your text editor preserves file's encoding. The new files you create need to have same encoding as their english counterpart(e.g. labsmail1_czech.txt needs to be UTF-8 encoded just like labsmail1_english.txt). If you use Notepad++ you can see the file's encoding in the menu Encoding.
 
-### Achievements
+## Achievements
 
 These files are automatically created based on the `resource/reactivedrop_*.txt` files.
 
-### Mail and News
+## Mail and News
 
 Create a copy of each mail and news file and rename it to your language sufix(e.g. labsmail1_russian.txt). Translate the contents of each file. See labsmail1_russian.txt as an example.
 
-### BaseModUi, CloseCaption, GameUi, ReactiveDrop, and Community VDF files
+## BaseModUi, CloseCaption, GameUi, ReactiveDrop, and Community VDF files
 
 In these files(e.g. basemodui_czech.txt) the untranslated strings are indented by two tabs to be easily visible. Translate each indented line and remove the two tabs in front of it.
 
-### Workshop
+## Workshop
 
 Create a copy of the English file and rename it to your language suffix (e.g. workshop_tags_schinese.json). Translate the contents of the file. In JSON files, only translate text on the right side of the `:`.
 
-### Item Schema
+## Item Schema
 
 Copy the lines with `_english` for your language. Try to keep each block of translations in alphabetical order by language name. If there are words between `%percent_signs%`, leave them as-is (they are replaced with numbers by the game client). If there is a colon in the text between `%percent_signs:like this%`, translate only the part after the colon (it is used as a replacement if the number is missing from the item data). Don't change any lines that aren't labelled with a language.
 
-### Changing English strings
+## Changing English strings
 
 If you change an English string in a way that does not require editing other languages (such as fixing a typo that doesn't change the meaning), you need to also change the `[english]` copy of the string in each of the other language files that have it translated. Adding new English strings or changing strings in a way that does require re-translation is handled by the sync script/executable in the utils folder.
 
-### How to test your translation before submitting it
+## How to test your translation before submitting it
 
 - Go into Steam - Library - Alien Swarm: Reactive Drop, right click and choose Properties. In the Language tab select the language you are translating into.
 - Copy your files into respective folders in `C:\Program Files (x86)\Steam\steamapps\common\Alien Swarm Reactive Drop\reactivedrop\resource`
