@@ -15,7 +15,7 @@ This repository contains everything required to translate [Alien Swarm: Reactive
 - release_notes: Update notes shown on Steams website.
 - resource: Game localization files.
 - rich_presence: Online status messages in Steams Friends List.
-- store_page: [Steam's store page](https://store.steampowered.com/app/563560/)
+- store_page: Steam's store page
 - utils: Helper tools for translators.
 
 ## How to contribute
