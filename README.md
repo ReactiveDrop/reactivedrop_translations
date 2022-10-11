@@ -8,7 +8,7 @@ You can also translate to an unsupported language but this will only work as a V
 </div>
 
 ### Directory structure
-- achievements: Steam Achievement descriptions which will be shown on Steams website.
+- achievements: Steam Achievement descriptions which are shown on Steams website.
 - addons: Translations for custom campaigns and challenges.
 - community: Steam Community (workshop, inventory, points shop, eula) translations.
 - credits: Credits texts for official campaigns.
