@@ -17,5 +17,5 @@ This repository contains all the files required to translate [Alien Swarm: React
 ## How to contribute
 Read more on how to contribute to this project [here](https://github.com/ReactiveDrop/reactivedrop_translations/blob/master/CONTRIBUTING.md).
 
-### Got Questions?
+## Got Questions?
 Feel free to ask them on this repository's issue tracker or [the Reactive Drop forum](https://steamcommunity.com/app/563560/discussions/1/).
