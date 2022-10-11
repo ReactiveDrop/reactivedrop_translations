@@ -7,7 +7,7 @@ You can also translate to an unsupported language but this will only work as a V
 
 </div>
 
-## Directory structure
+### Directory structure
 - achievements: Steam Achievement descriptions which will be shown on Steams website.
 - addons: Translations for custom campaigns and challenges.
 - community: Steam Community (workshop, inventory, points shop, eula) translations.
@@ -19,8 +19,8 @@ You can also translate to an unsupported language but this will only work as a V
 - store_page: Steam's store page contents.
 - utils: Helper tools for translators.
 
-## How to contribute
+### How to contribute
 Read more on how to contribute to this project [here](https://github.com/ReactiveDrop/reactivedrop_translations/blob/master/CONTRIBUTING.md).
 
-## Got questions?
+### Got questions?
 Feel free to ask on this repository's [discussions](https://github.com/ReactiveDrop/reactivedrop_translations/discussions), [issue tracker](https://github.com/ReactiveDrop/reactivedrop_translations/issues) or [the Reactive Drop forum](https://steamcommunity.com/app/563560/discussions/1/) in the Steam community.
