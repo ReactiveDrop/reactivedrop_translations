@@ -4,7 +4,7 @@
 
 </div>
 
-This repository contains everything required to translate [Alien Swarm: Reactive Drop](https://store.steampowered.com/app/563560/) into any language [supported by Steam](https://partner.steamgames.com/doc/store/localization#supported_languages).  
+Here's everything required to translate [Alien Swarm: Reactive Drop](https://store.steampowered.com/app/563560/) into any language [supported by Steam](https://partner.steamgames.com/doc/store/localization#supported_languages).  
 You can also translate to an unsupported language but this will only work as a VPK add-on file through workshop.
 
 ## Directory structure
