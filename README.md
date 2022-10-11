@@ -16,7 +16,7 @@ You can also translate to an unsupported language but this will only work as a V
 - release_notes: Update notes shown on Steams website.
 - resource: Game localization files.
 - rich_presence: Online status messages in Steams Friends List.
-- store_page: Steam's store page
+- store_page: Steam's store page contents.
 - utils: Helper tools for translators.
 
 ## How to contribute
