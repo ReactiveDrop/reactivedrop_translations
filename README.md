@@ -8,16 +8,16 @@ You can also translate to an unsupported language but this will only work as a V
 </div>
 
 ### Directory structure
-- achievements: Steam Achievement descriptions which are shown on Steams website.
-- addons: Translations for custom campaigns and challenges.
-- community: Steam Community (workshop, inventory, points shop, eula) translations.
-- credits: Credits texts for official campaigns.
-- platform: Translations for generic source-engine UI ingame eg. the server browser.
-- release_notes: Update notes shown on Steams website.
-- resource: Game localization files.
-- rich_presence: Online status messages in Steams Friends List.
-- store_page: Steam's store page contents.
-- utils: Helper tools for translators.
+- ***achievements:*** Steam Achievement descriptions which are shown on Steams website.
+- ***addons:*** Translations for custom campaigns and challenges.
+- ***community:*** Steam Community (workshop, inventory, points shop, eula) translations.
+- ***credits:*** Credits texts for official campaigns.
+- ***platform:*** Translations for generic source-engine UI ingame eg. the server browser.
+- ***release_notes:*** Update notes shown on Steams website.
+- ***resource:*** Game localization files.
+- ***rich_presence:*** Online status messages in Steams Friends List.
+- ***store_page:*** Steam's store page contents.
+- ***utils:*** Helper tools for translators.
 
 ### How to contribute
 Read more on how to contribute to this project [here](https://github.com/ReactiveDrop/reactivedrop_translations/blob/master/CONTRIBUTING.md).
