@@ -4,7 +4,7 @@
 
 </div>
 
-This repository contains all the files required to translate [Alien Swarm: Reactive Drop](https://store.steampowered.com/app/563560/) user interface into any supported language. Reactive Drop(RD) supports all [languages which are supported by Steam](https://partner.steamgames.com/doc/store/localization#supported_languages). You can also translate to an unsupported language but this will only work as a VPK add-on file through workshop.
+This repository contains everything required to translate [Alien Swarm: Reactive Drop](https://store.steampowered.com/app/563560/) into any language [supported by Steam](https://partner.steamgames.com/doc/store/localization#supported_languages). You can also translate to an unsupported language but this will only work as a VPK add-on file through workshop.
 
 ## Directory structure
 - achievements: Steam Achievement descriptions which will be shown on Steams website.
@@ -13,7 +13,7 @@ This repository contains all the files required to translate [Alien Swarm: React
 - credits: Credits texts for official campaigns.
 - platform: Translations for generic source-engine UI ingame eg. the server browser.
 - release_notes: Update notes shown on Steams website.
-- resource: Game localization files. These are UTF-8 encoded, whereas your local installation files in `\Alien Swarm Reactive Drop\reactivedrop\resource` are UTF-16LE encoded.
+- resource: Game localization files.
 - rich_presence: Online status messages in Steams Friends List.
 - store_page: [Steam's store page](https://store.steampowered.com/app/563560/)
 - utils: Helper tools for translators.
