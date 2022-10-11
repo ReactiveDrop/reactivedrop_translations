@@ -1874,7 +1874,7 @@
 "jaeger.MineDeployed0"		"<clr:198,226,255>Jaeger: Brandmine ausgelegt!"
 "[english]jaeger.MineDeployed0"		"<clr:198,226,255>Jaeger: Incendiary mine deployed!"
 "jaeger.MineDeployed1"		"<clr:198,226,255>Jaeger: Mine gelegt!"
-"[english]jaeger.MineDeployed1"		"<clr:198,226,255>Jaeger: Mine gelegt!"
+"[english]jaeger.MineDeployed1"		"<clr:198,226,255>Jaeger: Mine deployed!"
 "jaeger.MineDeployed2"		"<clr:198,226,255>Jaeger: Mine an Ort und Stelle!"
 "[english]jaeger.MineDeployed2"		"<clr:198,226,255>Jaeger: Mine in place!"
 "jaeger.MineDeployed3"		"<clr:198,226,255>Jaeger: Pass auf! Mine!"
