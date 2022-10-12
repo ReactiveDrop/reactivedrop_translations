@@ -1,6 +1,6 @@
 Thanks for your interest in the Alien Swarm: Reactive Drop project. When you make a
 contribution to the project (e.g. create an Issue or submit a Pull Request)
-(a "Contribution"), Reactive Drop Team wants to be able to use your Contribution to improve
+(a "Contribution"), the Reactive Drop Team wants to be able to use your Contribution to improve
 the game.
 
 As a condition of providing a Contribution, you agree that:
