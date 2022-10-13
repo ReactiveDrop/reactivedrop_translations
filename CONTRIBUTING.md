@@ -55,6 +55,8 @@ If you change an English string in a way that does not require editing other lan
 
 ## How to test your translation before submitting it
 - Go into Steam - Library - Alien Swarm: Reactive Drop, right click and choose Properties. In the Language tab select the language you are translating into.
-- Copy your files into respective folders in `C:\Program Files (x86)\Steam\steamapps\common\Alien Swarm Reactive Drop\reactivedrop\resource`.
+- Prepare game version: beta is recommended, in this way, you can see the real effect of the translated text in the game. Otherwise, the game text may not match the translated text.
+- Enter game folder `...\YourSteam\steamapps\common\Alien Swarm Reactive Drop\reactivedrop\resource`.
+- Copy your files into respective folders in game folder.
 - ATTENTION: Every file in the resource folder is UTF-16LE encoded, whereas all files in this repo are UTF-8 encoded. You need to change the encoding of the files before you copy them over.
 
