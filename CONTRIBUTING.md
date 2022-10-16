@@ -54,9 +54,12 @@ Copy the lines with `_english` for your language. Try to keep each block of tran
 If you change an English string in a way that does not require editing other languages (such as fixing a typo that doesn't change the meaning), you need to also change the `[english]` copy of the string in each of the other language files that have it translated. Adding new English strings or changing strings in a way that does require re-translation is handled by the sync script/executable in the utils folder.
 
 ## How to test your translation before submitting it
-- Go into Steam - Library - Alien Swarm: Reactive Drop, right click and choose Properties. In the Language tab select the language you are translating into.
-- Prepare game version: beta is recommended, in this way, you can see the real effect of the translated text in the game. Otherwise, the game text may not match the translated text.
-- Enter game folder `...\YourSteam\steamapps\common\Alien Swarm Reactive Drop\reactivedrop\resource`.
-- Copy your files into respective folders in game folder.
-- ATTENTION: Every file in the resource folder is UTF-16LE encoded, whereas all files in this repo are UTF-8 encoded. You need to change the encoding of the files before you copy them over.
+First of all, Go into Steam - Library - Alien Swarm: Reactive Drop, right click and choose 'Properties'.
+1. Select 'Language' tab: Select the language you are translating into.
+2. Select 'Betas' (Recommended): Join the beta version, this way you can see the real effect of the translated text in the game. Otherwise, the game text may not match the translated text.
+3. Select 'Local files': Click 'Browse...' to open your game folder.
+4. Enter the subfolders '.\reactivedrop\resource', like: `Steam\steamapps\common\Alien Swarm Reactive Drop\reactivedrop\resource`
+5. Copy your translate files into the respective folders (.\resource).
+6. Start game, and test your translation.  ＜（＾－＾）＞
 
+- ATTENTION: Every file in the resource folder is UTF-16LE encoded, whereas all files in this repo are UTF-8 encoded. You may need to change the encoding of the files before you copy them over.
