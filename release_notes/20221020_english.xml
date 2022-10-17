@@ -12,9 +12,12 @@
 [*][b]Lana's Escape: Lana's Bridge:[/b] Made performance optimizations to lighting and cinematic alien spawns.
 [*][b]Nam Humanum: Platform XVII:[/b] Removed a tech marine requirement after the last hack is completed.
 [*][b]Nam Humanum: Groundwork Labs:[/b] Fixed the countdown objective ending early.
+[*][b]Nam Humanum: Groundwork Labs:[/b] Fixed lighting being unexpectedly bright.
+[*][b]Nam Humanum: Groundwork Labs:[/b] Improved marine bot navigation.
 [*][b]BioGen Corporation: Operation x5:[/b] Fixed death traps not being deadly enough.
 [*][b]BioGen Corporation: Operation x5:[/b] Fixed aliens being able to spawn inside the ending elevator, causing it to get stuck.
 [*][b]BioGen Corporation: BioGen Labs:[/b] Removed invisible ceiling collision.
+[*]All 7 official bonus missions now have speedrun achievements.
 [/list]
 
 [h1]Weapons[/h1]
@@ -59,6 +62,7 @@
 [*]Added [b]trigger_tonemap[/b] brush entity. This trigger overrides the active tonemap controller for characters inside its volume, and is overridden by the new SetTonemapController VScript function.
 [*]Changed [b]fog_volume[/b] to be based on the position of the currently-controlled character's eyes rather than the camera position. Some maps may need to be edited to shift their fog_volume entities north if they were originally made to compensate for the camera shift. fog_volume can now be overridden by the new SetFogController, SetPostProcessController, and SetColorCorrection VScript functions.
 [*]Added an option to [b]asw_spawner[/b] to ignore carnage scaling, for spawners where the number of aliens being increased due to higher difficulty is undesirable (eg. spawners used for cinematics).
+[*]Additional colonist models are now available for use as ragdolls.
 [/list]
 
 [h1]VScript[/h1]
