@@ -12,9 +12,12 @@
 		[*][b]Lana's Escape: Lana's Bridge:[/b] Made performance optimizations to lighting and cinematic alien spawns.
 [*][b]«Нам Гуманум»: Платформа XVII:[/b] Удалено требование техника после завершения последнего взлома.
 [*][b]«Нам Гуманум»: Лаборатория «Фундаментальность»:[/b] Исправлено преждевременное завершение цели с обратным отсчётом.
+		[*][b]Nam Humanum: Groundwork Labs:[/b] Fixed lighting being unexpectedly bright.
+		[*][b]Nam Humanum: Groundwork Labs:[/b] Improved marine bot navigation.
 [*][b]Корпорация «БиоГен»: Операция «На 5»:[/b] Исправлены смертельные ловушки, которые не были достаточно смертоносными.
 [*][b]Корпорация «БиоГен»: Операция «На 5»:[/b] Исправлено появление жуков внутри конечного лифта, из-за чего они застревали.
 [*][b]Корпорация «БиоГен»: Лаборатории «БиоГен»:[/b] Устранено столкновение с невидимым потолком.
+		[*]All 7 official bonus missions now have speedrun achievements.
 [/list]
 
 [h1]Оружие[/h1]
@@ -59,6 +62,7 @@
 [*]Добавлена энтити кисти [b]trigger_tonemap[/b]. Этот триггер переопределяет активный контроллер tonemap для персонажей внутри его объёма, и переопределяется новой функцией SetTonemapController VScript.
 [*]Изменён [b]fog_volume[/b], чтобы основываться на положении глаз персонажа, контролируемого в данный момент, а не на положении камеры. Некоторые карты, возможно, придётся отредактировать, чтобы сместить энтити fog_volume на север, если они изначально были сделаны для компенсации сдвига камеры. fog_volume теперь можно переопределить с помощью новых функций VScript SetFogController, SetPostProcessController и SetColorCorrection.
 		[*]Added an option to [b]asw_spawner[/b] to ignore carnage scaling, for spawners where the number of aliens being increased due to higher difficulty is undesirable (eg. spawners used for cinematics).
+		[*]Additional colonist models are now available for use as ragdolls.
 [/list]
 
 [h1]VScript[/h1]
