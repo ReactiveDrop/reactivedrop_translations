@@ -12,9 +12,12 @@
 [*][b]Lana's Escape: Lana's Bridge:[/b] 照明と演出上のエイリアン出現に関してのパフォーマンス最適化を行った。
 [*][b]Nam Humanum: Platform XVII:[/b] 最後のハッキングを終えた後はエンジニアの生存が必須ではなくなった。
 [*][b]Nam Humanum: Groundwork Labs:[/b] カウントダウン目標が早めに終了してしまうのを修正。
+		[*][b]Nam Humanum: Groundwork Labs:[/b] Fixed lighting being unexpectedly bright.
+		[*][b]Nam Humanum: Groundwork Labs:[/b] Improved marine bot navigation.
 [*][b]BioGen Corporation: Operation x5:[/b] 即死トラップが十分な威力ではなかったのを修正。
 [*][b]BioGen Corporation: Operation x5:[/b] エイリアンが最後のエレベーター内に出現する可能性があったのを修正。スタックを引き起こしていた。
 [*][b]BioGen Corporation: BioGen Labs:[/b] 透明な天井の衝突判定を削除。
+		[*]All 7 official bonus missions now have speedrun achievements.
 [/list]
 
 [h1]武器[/h1]
@@ -59,6 +62,7 @@
 [*][b]trigger_tonemap[/b]のbrush entityを追加。このトリガーはそのvolume内のキャラクターのアクティブなtonemap controllerを上書きし、新しいVScript関数SetTonemapControllerで置き換える。
 [*][b]fog_volume[/b]がカメラ位置ではなく操作中のキャラクターの目の位置を基準とするように変更。カメラ移動を補正していた一部のマップではfog_volumeのentityを北にずらさなければならない可能性がある。 fog_volumeは新しいVscript関数SetFogController, SetPostProcessController, SetColorCorrectionで置き換え可能になった。
 [*][b]asw_spawner[/b]にcarnage scalingを無視するオプションを追加。高難易度設定により大量のエイリアンが出現してしまう事が望ましくないspawner用(例：演出に使用するspawner)。
+		[*]Additional colonist models are now available for use as ragdolls.
 [/list]
 
 [h1]VScript[/h1]
