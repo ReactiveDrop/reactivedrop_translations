@@ -12,12 +12,12 @@
 [*][b]拉娜的逃亡 拉娜的大桥：[/b] 对灯光和动画的异形生成进行了性能优化。
 [*][b]纳姆·霍姆纳 十七号平台：[/b] 移除了 最后一次入侵完成后的技术员需求。
 [*][b]纳姆·霍姆纳 基础实验室：[/b] 修复了 倒计时目标提前结束的问题。
-		[*][b]Nam Humanum: Groundwork Labs:[/b] Fixed lighting being unexpectedly bright.
-		[*][b]Nam Humanum: Groundwork Labs:[/b] Improved marine bot navigation.
+[*][b]纳姆.霍姆纳 基础实验室：[/b] 修复了 光线照明出乎意料的明亮的问题。
+[*][b]纳姆.霍姆纳 基础实验室：[/b] 改进了 AI士兵的寻路能力。
 [*][b]生物基因公司 x5行动：[/b] 修复了 死亡陷阱不够致命的问题。
 [*][b]生物基因公司 x5行动：[/b] 修复了 异形能够在终点电梯内生成，导致它被卡住的问题。
 [*][b]生物基因公司 生物基因实验室：[/b] 移除了 隐形的天花板碰撞。
-		[*]All 7 official bonus missions now have speedrun achievements.
+[*]所有的7个官方赏金任务现在都有速通成就了！
 [/list]
 
 [h1]武器[/h1]
@@ -62,7 +62,7 @@
 [*]添加了 [b]trigger_tonemap[/b] 刷新实体。此触发器会覆盖其音频播放时的字符的活动色调映射控制器，并且被新的SetTonemapController VScript函数覆盖。
 [*]更新了 [b]fog_volume[/b] 基于当前控制角色的眼睛位置，而再不是摄像机的位置。有些地图如果它们最初为了补偿相机的移动，可能需要被重新编辑，以将它们的fog_volume实体向北移动。fog_volume现在可以被新的SetFogController，SetPostProcessController和SetColorCorrection VScript函数覆盖。
 [*]添加了 一个选项[b]asw_spawner[/b]，其可以忽略大屠杀规模。因为在高难度时，增加异形的生成数量，是不受欢迎的（如，使用动画的异形生成器）。
-		[*]Additional colonist models are now available for use as ragdolls.
+[*]额外的殖民者模型现在可以作为布娃娃使用。
 [/list]
 
 [h1]VScript[/h1]
