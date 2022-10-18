@@ -5483,7 +5483,7 @@
 "[english]rd_so_stat_damage_doubled"		"Damage Doubled"
 "rd_so_stat_damage_blocked"		"Danni bloccati"
 "[english]rd_so_stat_damage_blocked"		"Damage Blocked"
-"rd_so_stat_extinguish_marines"		"Soldati spenti"
+"rd_so_stat_extinguish_marines"		"Soldati in fiamme spenti"
 "[english]rd_so_stat_extinguish_marines"		"Marines Extinguished"
 "rd_so_damage_resistance_drone"		"I droni sono la base di resistenza ai danni utilizzata in questi articoli.\nResistenza ai Danni (Uber): 12.5×"
 "[english]rd_so_damage_resistance_drone"		"Drones are the damage resistance baseline used in these articles.\nDamage Resistance (Uber): 12.5×"
