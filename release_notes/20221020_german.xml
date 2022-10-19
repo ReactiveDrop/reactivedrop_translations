@@ -12,12 +12,11 @@
 [*][b]Lanas Flucht: Lanas Brücke:[/b] Leistungsoptimierungen an der Beleuchtung und am Alien-Spawn einer Filmsequenz vorgenommen.
 [*][b]Nam Humanum: Plattform XVII:[/b] Die Techniker-Anforderung wurde entfernt, nachdem der letzte Hack abgeschlossen wurde.
 [*][b]Nam Humanum: Grundstein Laboratorien:[/b] Das Countdown-Ziel wird nicht mehr vorzeitig beendet.
-		[*][b]Nam Humanum: Groundwork Labs:[/b] Fixed lighting being unexpectedly bright.
-		[*][b]Nam Humanum: Groundwork Labs:[/b] Improved marine bot navigation.
+[*][b]Nam Humanum: Grundstein Laboratorien:[/b] Unerwartet helle Beleuchtung behoben.
+[*][b]Nam Humanum: Grundstein Laboratorien:[/b] Verbesserte Bot Navigation.
 [*][b]BioGen Gesellschaft: Operation x5:[/b] Todesfallen waren nicht mehr tödlich genug.
 [*][b]BioGen Gesellschaft: Operation x5:[/b] Es wurde behoben, dass Aliens im Endaufzug spawnen konnten, wodurch dieser stecken blieb.
 [*][b]BioGen Gesellschaft: BioGen Labore:[/b] Eine Unsichtbare Deckenkollisionen wurden entfernt.
-		[*]All 7 official bonus missions now have speedrun achievements.
 [/list]
 
 [h1]Waffen[/h1]
@@ -62,7 +61,7 @@
 [*]Der brush [b]trigger_tonemap[/b] wurde hinzugefügt. Dieser Trigger setzt den aktiven Tonemap-Controller für Zeichen innerhalb seines Volumens außer Kraft und wird von der neuen SetTonemapController VScript-Funktion außer Kraft gesetzt.
 [*]Das [b]fog_volume[/b] basiert nun auf der Position der Augen des aktuell gesteuerten Charakters und nicht mehr auf der Kameraposition. Einige Karten müssen möglicherweise bearbeitet werden, um ihre fog_volume-Entitäten nach Norden zu verschieben, wenn sie ursprünglich erstellt wurden, um die Kameraverschiebung zu kompensieren. fog_volume kann jetzt von den neuen VScript-Funktionen SetFogController, SetPostProcessController und SetColorCorrection überschrieben werden.
 [*]Zu [b]asw_spawner[/b] wurde eine Option hinzugefügt, mit der die Skalierung des Gemetzels bei Spawnern ignoriert werden kann, bei denen die Anzahl der Aliens aufgrund eines höheren Schwierigkeitsgrades unerwünscht ist (z.B. bei Spawnern, die für Filmsequenzen verwendet werden).
-		[*]Additional colonist models are now available for use as ragdolls.
+[*]Es gibt jetzt zusätzliche Kolonistenmodelle, die als Ragdolls verwendet werden können.
 [/list]
 
 [h1]VScript[/h1]

@@ -12,12 +12,11 @@
 [*][b]La Fuga di Lana: Il Ponte di Lana:[/b] Ottimizzazione delle prestazioni per l'illuminazione e la riproduzione degli alieni nello sfondo.
 [*][b]Nam Humanum: Piattaforma XVII:[/b] Rimosso il requisito del soldato tecnico dopo il completamento dell'ultimo hack.
 [*][b]Nam Humanum: Groundwork Labs:[/b] Corretto l'obiettivo con il conto alla rovescia che terminava in anticipo.
-		[*][b]Nam Humanum: Groundwork Labs:[/b] Fixed lighting being unexpectedly bright.
-		[*][b]Nam Humanum: Groundwork Labs:[/b] Improved marine bot navigation.
+[*][b]Nam Humanum: Groundwork Labs:[/b] Corretta l'illuminazione inaspettatamente luminosa.
+[*][b]Nam Humanum: Groundwork Labs:[/b] Migliorata la navigazione dei soldati bot.
 [*][b]BioGen Corporation: Operazione x5:[/b] Corretto un problema che non rendeva le trappole mortali abbastanza mortali.
 [*][b]BioGen Corporation: Operazione x5:[/b] Corretta la possibilità che gli alieni si riproducano all'interno dell'ascensore finale, causandone il blocco.
 [*][b]BioGen Corporation: Laboratori BioGen:[/b] Rimossa la collisione invisibile con il soffitto.
-		[*]All 7 official bonus missions now have speedrun achievements.
 [/list]
 
 [h1]Armi[/h1]
@@ -62,7 +61,7 @@
 [*]Aggiunta l'entità pennello [b]trigger_tonemap[/b]. Questo trigger sovrascrive il controller tonemap attivo per i personaggi all'interno del suo volume ed è sovrascritto dalla nuova funzione VScript SetTonemapController.
 [*]Modificato il [b]fog_volume[/b] in modo che si basi sulla posizione degli occhi del personaggio attualmente controllato piuttosto che sulla posizione della telecamera. Alcune mappe potrebbero dover essere modificate per spostare le entità fog_volume verso nord se sono state originariamente create per compensare lo spostamento della telecamera. fog_volume può ora essere sovrascritto dalle nuove funzioni VScript SetFogController, SetPostProcessController e SetColorCorrection.
 [*]Aggiunta l'opzione a [b]asw_spawner[/b] per ignorare la dimensione della carneficina. Questa opzione è stata pensata apposta per gli spawner in cui l'aumento del numero di alieni dovuto alla difficoltà è indesiderabile (ad esempio, gli spawner usati per i filmati).
-		[*]Additional colonist models are now available for use as ragdolls.
+[*]Sono ora disponibili altri modelli di coloni da utilizzare come ragdoll.
 [/list]
 
 [h1]VScript[/h1]
