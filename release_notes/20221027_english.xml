@@ -19,6 +19,7 @@
 [*]Fixed a crash when leaving the mission settings screen with a dropdown menu open.
 [*]Fixed a duplicate in-game voting menu being visible during briefing if a briefing camera is in use.
 [*]Added convar asw_blip_color_parasite_egg for setting the color of unhatched parasites on the minimap.
+[*]Fixed being unable to join lobbies for certain missions through the game UI.
 [/list]
 
 [h1]Mapping[/h1]
