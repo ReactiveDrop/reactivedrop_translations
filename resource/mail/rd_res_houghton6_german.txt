@@ -1,5 +1,7 @@
 GAME
 {
+	// Inbox
+
 	"MailFrom1"	"Von: Commander Houghton"
 	"MailDate1"	"Datum: 12/30/52"
 	"MailSubject1"	"Betreff: Operation Feuersturm"

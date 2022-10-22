@@ -1,5 +1,7 @@
 GAME
 {
+	// Inbox
+
 	"MailFrom1"	"Von: Brad Irwing"
 	"MailDate1"	"Datum: 03/19/31"
 	"MailSubject1"	"Betreff: LIESMICH Teil 1 &VERSTECKT"

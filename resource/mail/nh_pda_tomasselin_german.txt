@@ -1,17 +1,22 @@
 GAME
 {
 	// PDA belongs to Tom Asselin
+
 	// Inbox
+
 	"MailFrom1"	"Von: Jonathan Dorland"
 	"MailDate1"	"Datum: 06/17/42"
-	"MailSubject1"	"Betreff: AW: Interessiert?"
+	"MailSubject1"	"Betreff: Aw: Interessiert?"
 	"MailBody1A"	"Nee. Bei all dem, was gerade los ist, habe ich keine Lust. Schnappt euch eure Geldkühe woanders."
-	// Sent mail
+
+	// Sent
+
 	"MailFrom3"	"An: Jonathan Dorland"
 	"MailDate3"	"Datum: 06/17/42"
 	"MailSubject3"	"Betreff: Interessiert?"
 	"MailBody3A"	"Hey. Sieht so aus, als hätte Carradine seine Jungs an der Leine, hm? Die Spielabende werden immer ruhiger, vor allem ohne unseren Wunderknaben. Wie wär's, wenn du mal wieder kommst? Um der alten Zeiten willen?"
-	"MailFrom4"	"An: Cpl. Sarah Weiss"
+
+	"MailFrom4"	"An: Sarah Weiss"
 	"MailDate4"	"Datum: 06/17/42"
 	"MailSubject4"	"Betreff: Auf der Speisekarte: Getränke + Planspiele"
 	"MailBody4A"	"Hey, Sarah. Ich weiß, dass du mit dem Rest von euch Hausmeistern nur ein begrenztes Quartier hast. Aber wie wär's denn mit Freitagabend in Barneys Kantine? Oder hast du es endlich satt, dir den Arsch versohlen zu lassen?"

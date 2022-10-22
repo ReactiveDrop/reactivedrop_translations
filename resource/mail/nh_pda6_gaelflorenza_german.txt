@@ -1,7 +1,9 @@
 GAME
 {
-	// PDA belongs to Lieutenant Gael Florenza
-	// Sent mail
+	// PDA belongs to Lt. Gael Florenza
+
+	// Sent
+
 	"MailFrom3"	"An: Iris Florenza"
 	"MailDate3"	"Datum: 03/31/43"
 	"MailSubject3"	"Betreff: Nam Humanum"

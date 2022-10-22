@@ -1,8 +1,10 @@
 GAME
 {
 	// PDA belongs to Private First Class Thibaut Holbert
-	// Sent mail
-	"MailFrom3"	"An: Cpt. Arthur Carradine"
+
+	// Sent
+
+	"MailFrom3"	"An: Arthur Carradine"
 	"MailDate3"	"Datum: 03/31/43"
 	"MailSubject3"	"Betreff: brauche Unterstützung"
 	"MailBody3A"	"Kapitän"

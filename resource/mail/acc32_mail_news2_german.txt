@@ -1,5 +1,7 @@
 GAME
 {
+	// Inbox
+
 	"MailFrom1"	"Von: Fox News"
 	"MailDate1"	"Datum: 03. Jan 2233"
 	"MailSubject1"	"Betreff: Nachrichtenprotokoll für die letzten 1 Monate."

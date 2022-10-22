@@ -1,7 +1,9 @@
 GAME
 {
 	// PDA belongs to Lucius Pawn
-	// inbox
+
+	// Inbox
+
 	"MailFrom1"	"Von: Windom King"
 	"MailDate1"	"Datum: 02/29/53"
 	"MailSubject1"	"Betreff: Sicherheit"
@@ -9,6 +11,7 @@ GAME
 	"MailBody1B"	"Anath glaubt, dass es wieder ein Spion ist... Vielleicht ein Kommando-Spion, der aus dem Orbit abgesetzt wurde?"
 	"MailBody1C"	"Dieser Mann kotzt mich an mit seinen Geschichten."
 	"MailBody1D"	"Sicherheitschef W. King"
+
 	"MailFrom2"	"Von: Lana King"
 	"MailDate2"	"Datum: 02/29/53"
 	"MailSubject2"	"Betreff: Kaffeemaschine???"
@@ -16,7 +19,9 @@ GAME
 	"MailBody2B"	"Ist das wirklich nicht in Ordnung oder wollt ihr euch nur gemeinsam irgendwo verstecken?"
 	"MailBody2C"	""
 	"MailBody2D"	"In Liebe, Lana"
-	// sent mail
+
+	// Sent
+
 	"MailFrom3"	"An: Windom King"
 	"MailDate3"	"Datum: 02/29/53"
 	"MailSubject3"	"Betreff: Aw: Sicherheit"

@@ -1,7 +1,9 @@
 GAME
 {
 	// PDA belongs to Jan Anath
-	// inbox
+
+	// Inbox
+
 	"MailFrom1"	"Von: Windom King"
 	"MailDate1"	"Datum: 02/29/53"
 	"MailSubject1"	"Betreff: Große Bedrohung"
@@ -9,7 +11,9 @@ GAME
 	"MailBody1B"	"Ich bin mir sicher, dass wir einer großen Bedrohung gegenüberstehen."
 	"MailBody1C"	"Ich empfehle, dass wir die IAF kontaktieren. Das könnte ein Schwarmangriff sein."
 	"MailBody1D"	"Sicherheitsbeauftragter W. King"
-	// sent mail
+
+	// Sent
+
 	"MailFrom3"	"An: Windom King"
 	"MailDate3"	"Datum: 02/29/53"
 	"MailSubject3"	"Betreff: Aw: Große Bedrohung"
