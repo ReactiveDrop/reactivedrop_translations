@@ -2,7 +2,8 @@ GAME
 {
 	// PDA belongs to Joseph Palmer
 
-	// inbox
+	// Inbox
+
 	"MailFrom1"	"От: Д-р. Фостер"
 	"MailDate1"	"Дата: 13.03.46"
 	"MailSubject1"	"Тема: Дозировка"
@@ -11,7 +12,8 @@ GAME
 	"MailBody1C"	"Цитостатическая доза была недостаточной. Я рекомендую, чтобы мы дали вторую дозу во время заключительной стадии мутации."
 	"MailBody1D"	"Д-р. Фостер"
 
-	// sent mail
+	// Sent
+
 	"MailFrom3"	"Кому: Д-р. Фостер"
 	"MailDate3"	"Дата: 13.03.46"
 	"MailSubject3"	"Тема: Ответ: Дозировка"

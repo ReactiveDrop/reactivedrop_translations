@@ -1,5 +1,7 @@
 GAME
 {
+	// Inbox
+
 	"MailFrom1"	"От: Жилые дома"
 	"MailDate1"	"Дата: 14.11.32"
 	"MailSubject1"	"Тема: Наша безопасность"

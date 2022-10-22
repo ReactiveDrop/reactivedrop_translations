@@ -1,8 +1,8 @@
 GAME
 {
-	// PDA belongs to David Foster
+	// PDA belongs to Dr. David Foster
 
-	// sent mail
+	// Sent
 	"MailFrom3"	"Кому: Эндрю Уорд"
 	"MailDate3"	"Дата: 16.03.46"
 	"MailSubject3"	"Тема: Нужна помощь"

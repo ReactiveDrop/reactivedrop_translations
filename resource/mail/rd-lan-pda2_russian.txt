@@ -2,7 +2,7 @@ GAME
 {
 	// PDA belongs to Lucius Pawn
 
-	// inbox
+	// Inbox
 
 	"MailFrom1"	"От: Уиндом Кинг"
 	"MailDate1"	"Дата: 29.02.53"
@@ -20,8 +20,7 @@ GAME
 	"MailBody2C"	""
 	"MailBody2D"	"С любовью, Лана"
 
-
-	// sent mail
+	// Sent
 
 	"MailFrom3"	"Кому: Уиндом Кинг"
 	"MailDate3"	"Дата: 29.02.53"

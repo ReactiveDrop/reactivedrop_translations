@@ -1,8 +1,9 @@
 GAME
 {
-	// PDA belongs to	Ian Cook
+	// PDA belongs to Dr. Ian Cook
 
-	// sent mail
+	// Sent
+
 	"MailFrom3"	"Кому: Больница «СинТек»"
 	"MailDate3"	"Дата: 16.03.46"
 	"MailSubject3"	"Тема: Нам нужен новый план"

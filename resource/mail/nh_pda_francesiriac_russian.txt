@@ -1,6 +1,6 @@
 GAME
 {
-	// PDA belongs to Corporal France Siriac
+	// PDA belongs to Cpl. France Siriac
 
 	// Inbox
 
@@ -19,7 +19,7 @@ GAME
 	"MailBody2C"	"пожалуйста, помогите нам"
 	"MailBody2D"	"пожалуйста"
 
-	// Sent mail
+	// Sent
 
 	"MailFrom3"	"Кому: Полин Вито"
 	"MailDate3"	"Дата: 01.04.43"
