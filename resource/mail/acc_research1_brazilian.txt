@@ -1,5 +1,7 @@
 GAME
 {
+	// Sent
+
 	"MailFrom1"	"Para: Brad Irwing"
 	"MailDate1"	"Data: 02/04/31"
 	"MailSubject1"	"Assunto: ME RESPONDA! &OCULTO"

@@ -1,8 +1,8 @@
 GAME
 {
-	// PDA pertence ao SysAdmin
+	// PDA belongs to SysAdmin
 
-	// Caixa de entrada
+	// Inbox
 
 	"MailFrom1"	"De: Phil Ryan"
 	"MailDate1"	"Data: 20/12/52"
@@ -19,7 +19,7 @@ GAME
 	"MailBody2C"	"Transporte interestelar disponível."
 	"MailBody2D"	"Is0t4m1na 23 vai fazer você se sentir renovado, forte e descansado por um dia inteiro de trabalho!!  Seus supervisores estão tomando it--por que você não deveria?"
 
-	// Correspondência enviada
+	// Sent
 
 	"MailFrom3"	"Para: Phil Ryan"
 	"MailDate3"	"Data: 20/12/52"

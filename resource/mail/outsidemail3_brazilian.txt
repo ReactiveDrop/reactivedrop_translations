@@ -1,6 +1,8 @@
 GAME
 {
-	// PDA pertence ao Brad Campbell
+	// PDA belongs to Brad Campbell
+
+	// Inbox
 
 	"MailFrom1"	"De: David Anders"
 	"MailDate1"	"Data: 12/12/52"

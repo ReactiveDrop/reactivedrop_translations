@@ -1,7 +1,8 @@
 GAME
 {
+	// PDA belongs to Hullen
 
-	// Caixa de entrada
+	// Inbox
 
 	"MailFrom1"	"De: Shaun Ming"
 	"MailDate1"	"Data: 22/12/52"
@@ -19,7 +20,7 @@ GAME
 	"MailBody2C"	"Na verdade, sou alérgica a vegetação de Xenon, alvez possamos sair para beber em vez disso, e então talvez mais tarde..."
 	"MailBody2D"	"Jenny ;) xxxxx"
 
-	// Enviados
+	// Sent
 
 	"MailFrom3"	"Para: Shaun Ming"
 	"MailDate3"	"Data: 26/12/52"

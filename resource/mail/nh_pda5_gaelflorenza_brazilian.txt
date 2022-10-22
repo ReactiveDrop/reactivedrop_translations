@@ -1,8 +1,8 @@
 GAME
 {
-	// Hackeado no histórico da rede: Tenente Gael Florenza
+	// Hacked into network history: Lt. Gael Florenza
 
-	// Enviados
+	// Sent
 
 	"MailFrom3"	"Para: Iris Florenza"
 	"MailDate3"	"Date: 25/06/42"

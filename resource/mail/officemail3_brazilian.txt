@@ -1,8 +1,8 @@
 GAME
 {
-	// PDA pertence ao Brian Howe
+	// PDA belongs to Brian Howe
 
-	// Caixa de entrada
+	// Inbox
 
 	"MailFrom1"	"De: Helen Young"
 	"MailDate1"	"Date: 23/12/52"
@@ -12,7 +12,7 @@ GAME
 	"MailBody1C"	"Enquanto isso, recebi um e-mail daquele idiota do Ming esta manhã. Parece que ele e seus homens ainda estão trabalhando nos laboratórios, estudando os ovos que você descobriu. Tenho certeza de que o trabalho dele não tem aprovação da AI."
 	"MailBody1D"	"Vejo você depois--Helen."
 
-	// Enviados
+	// Sent
 
 	"MailFrom3"	"Para: Helen Young"
 	"MailDate3"	"Data: 23/12/52"

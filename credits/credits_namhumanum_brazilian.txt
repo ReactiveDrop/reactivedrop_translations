@@ -14,7 +14,7 @@
 	"asw_credits_"	"Thomas (Synmachus) Lesteven"
 	"asw_credits_"	""
 	"asw_credits_"	"- Dublagem -"
-	"asw_credits_"	"Dra. Julie Duval - Emily Sheeran"
+	"asw_credits_"	"Dr. Julie Duval - Emily Sheeran"
 	"asw_credits_"	"Com. Alexander Richard - Christian Wadley"
 	"asw_credits_"	"Piloto da Snakebite - Daniel Doan"
 	"asw_credits_"	"Vesta - Tiffany Perdue"

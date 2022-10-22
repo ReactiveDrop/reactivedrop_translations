@@ -1,18 +1,18 @@
 GAME
 {
-	// PDA pertence ao Doutor Jacques Moreau
+	// PDA belongs to Dr. Jacques Moreau
 
-	// Enviados
+	// Sent
 
-	"MailFrom3"	"Para: Cap. Arthur Carradine"
+	"MailFrom3"	"Para: Arthur Carradine"
 	"MailDate3"	"Data: 31/03/43"
 	"MailSubject3"	"Assunto: Motim"
 	"MailBody3A"	"Não deveriamos ter forçado as mãos do Tenente Florenza. Ele é um idealista, com princípios e homens leais. E agora ele está vindo por mim. No que poderia ter sido o trabalho de uma vida."
 	"MailBody3B"	"Suponho que se possa ignorar a dor e o sofrimento desde que esteja fora de alcance, fora de vista. Mas não se pode ignorar o filhote torturado chorando em seu próprio quintal. Consciência... pode ser um grande fardo. De todo mundo, eu devería saber."
 	"MailBody3C"	"Que seja. Deixe a SynTek ter sua pequena descoberta no fim, por um preço que apenas nós pagamos."
 
-	"MailFrom4"	"Para: Dra. Helen Moreau"
-	"MailDate4"	"Data : 31/03/43"
+	"MailFrom4"	"Para: Helen Moreau"
+	"MailDate4"	"Data: 31/03/43"
 	"MailSubject4"	"Assunto: N/A"
 	"MailBody4A"	"Querida Vesta, esta será minha mensagem final. A quem quer a encontre, fica aqui o meu pedido para a humanidade:"
 	"MailBody4B"	"Meu nome é Jacques Valery Moreau. Como cientista-chefe dos projetos de pesquisa realizados dentro da missão e colônia de Lugdunum, Eu regulei e realizei pessoalmente experimentos que não eram apenas repulsivos para a ética profissional, mas excruciante para qualquer tipo de razão ou senso de moralidade. Eu agora imploro às forças militares que se deparam com minha mensagem para preservar os produtos desse esforço. Proteja-os se puder, daqueles acima que o usariam para si mesmos. Para que nossa espécie ainda progrida na adversidade. Como não há odisseia sem lutas, não há ciência sem sacrifícios."

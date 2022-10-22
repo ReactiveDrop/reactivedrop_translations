@@ -1,8 +1,8 @@
 GAME
 {
-	// PDA pertence a Brian
+	// PDA belongs to Brian Howe
 
-	// Caixa de entrada
+	// Inbox
 
 	"MailFrom1"	"De: Helen Young"
 	"MailDate1"	"Data: 19/12/52"
@@ -11,7 +11,7 @@ GAME
 	"MailBody1B"	"Fizemos as contas. Todos os modelos de crescimento, vida útil e metabolismo só funcionam quando aplicados em toda a população, ao invés de indivíduos."
 	"MailBody1C"	"De certa forma, eles são como insetos de uma colmeia avançada, um único superorganismo avançado.  Contenção é vital."
 
-	// Enviado
+	// Sent
 
 	"MailFrom3"	"Para: Helen Young"
 	"MailDate3"	"Data: 19/12/52"
