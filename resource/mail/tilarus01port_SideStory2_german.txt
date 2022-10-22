@@ -1,7 +1,9 @@
 GAME
 {
 	// PDA belongs to Overseer Ross
-	// inbox
+
+	// Inbox
+
 	"MailFrom1"	"Von: Jimmy Carter"
 	"MailDate1"	"Datum: 02/02/54"
 	"MailSubject1"	"Betreff: Reaktordruck runter"
@@ -13,7 +15,9 @@ GAME
 	"MailDate2"	"Datum: 02/02/54"
 	"MailSubject2"	"Betreff: John?"
 	"MailBody2A"	"Ross, es ist fast 8 Stunden her. Wann willst du John runterschicken?"
-	// sent mail
+
+	// Sent
+
 	"MailFrom3"	"An: Aufseher Ross"
 	"MailDate3"	"Datum: 02/02/54"
 	"MailSubject3"	"Betreff: Aw: Reaktordruck runter"

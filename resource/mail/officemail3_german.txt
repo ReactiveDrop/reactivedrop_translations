@@ -1,7 +1,9 @@
 GAME
 {
 	// PDA belongs to Brian Howe
-	// inbox
+
+	// Inbox
+
 	"MailFrom1"	"Von: Helen Young"
 	"MailDate1"	"Datum: 12/23/52"
 	"MailSubject1"	"Betreff: Atrium geschlossen!"
@@ -9,7 +11,9 @@ GAME
 	"MailBody1B"	"sie mussten heute Morgen das Atrium schließen!  Nicht nur der Südflügel, sondern die gesamte Anlage.  Uns wurde gesagt, dass sich die Kontamination von Deck 2 durch das Belüftungssystem ausgebreitet hat.  Das Sicherheitspersonal bewacht den gesamten nordwestlichen Teil von Deck 1.  Sie sind ziemlich unfreundlich."
 	"MailBody1C"	"Ich habe heute Morgen Post von diesem Idioten Ming bekommen.  Es scheint, dass er und seine Männer immer noch in den Laboren arbeiten und die Eier untersuchen, die du entdeckt hast.  Ich bin mir sicher, dass seine Arbeit nicht von der IA gebilligt wird."
 	"MailBody1D"	"Bis später, Helen."
-	// sent mail
+
+	// Sent
+
 	"MailFrom3"	"An: Helen Young"
 	"MailDate3"	"Datum: 12/23/52"
 	"MailSubject3"	"Betreff: Aw: Atrium geschlossen!"

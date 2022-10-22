@@ -1,5 +1,7 @@
 GAME
 {
+	// Inbox
+
 	"MailFrom1"	"Von: Hank Retller"
 	"MailDate1"	"Datum: 03/23/31"
 	"MailSubject1"	"Betreff: HÖRT ZU LEUTE Teil 1 &VERSTECKT"

@@ -1,7 +1,9 @@
 GAME
 {
-	// Hacked into network history: Lieutenant Gael Florenza
-	// Sent mail
+	// Hacked into network history: Lt. Gael Florenza
+
+	// Sent
+
 	"MailFrom3"	"An: Iris Florenza"
 	"MailDate3"	"Datum: 06/25/42"
 	"MailSubject3"	"Betreff: Seltsame Ereignisse"

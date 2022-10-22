@@ -1,5 +1,7 @@
 GAME
 {
+	// Sent
+
 	"MailFrom1"	"An: Nathan Poe"
 	"MailDate1"	"Datum: 08/25/32"
 	"MailSubject1"	"Betreff: Instabilität des Reaktors &VERSTECKT"

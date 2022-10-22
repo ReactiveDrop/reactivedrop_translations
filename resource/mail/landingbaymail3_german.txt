@@ -1,7 +1,9 @@
 GAME
 {
 	// PDA belongs to Lt. Cain
-	// inbox
+
+	// Inbox
+
 	"MailFrom1"	"Von: Laura Callen"
 	"MailDate1"	"Datum: 12/18/52"
 	"MailSubject1"	"Betreff: Außenposten 17"
@@ -12,11 +14,13 @@ GAME
 	"MailFrom2"	"Von: Alena"
 	"MailSubject2"	"Betreff: Aw: Hi"
 	"MailDate2"	"Datum: 11/15/52"
-	"MailBody2A"	"Einstellen."
+	"MailBody2A"	"Hallo Du."
 	"MailBody2B"	"Die Arbeit außerhalb der Kernsysteme kann eine einsame Erfahrung sein.  Starfire SubNet Dating könnte die Antwort auf deine Probleme sein!  Triff dich auf einen Chat oder vielleicht mehr?  Ruf an (+490387439)"
 	"MailBody2C"	"Alena,"
 	"MailBody2D"	"xxx"
-	// sent mail
+
+	// Sent
+
 	"MailFrom3"	"An: Laura Callen"
 	"MailDate3"	"Datum: 12/21/52"
 	"MailSubject3"	"Betreff: Außenposten 17"

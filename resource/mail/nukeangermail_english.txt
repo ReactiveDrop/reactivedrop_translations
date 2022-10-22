@@ -2,6 +2,8 @@ GAME
 {
 	// PDA belongs to ???
 
+	// Inbox
+
 	"MailFrom1"	"From: Nuclear Warhead"
 	"MailDate1"	"Date: 12/24/52"
 	"MailSubject1"	"Subject: How rude."

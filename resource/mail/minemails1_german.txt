@@ -2,6 +2,8 @@ GAME
 {
 	// PDA belongs to misc colonist
 
+	// Inbox
+
 	"MailFrom1"	"Von: John Cain"
 	"MailDate1"	"Datum: 12/24/52"
 	"MailSubject1"	"Betreff: Kriegsrecht"

@@ -1,5 +1,7 @@
 GAME
 {
+	// Sent
+
 	"MailFrom1"	"An: Brad Irwing"
 	"MailDate1"	"Datum: 04/02/31"
 	"MailSubject1"	"Betreff: ANTWORTE MIR! &VERSTECKT"

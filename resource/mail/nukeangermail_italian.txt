@@ -1,6 +1,8 @@
 GAME
 {
-	// PDA di proprietà di ???
+	// PDA belongs to ???
+
+	// Inbox
 
 	"MailFrom1"	"Da: Testata Nucleare"
 	"MailDate1"	"Data: 12/24/52"
