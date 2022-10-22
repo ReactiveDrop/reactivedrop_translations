@@ -2,7 +2,7 @@ GAME
 {
 	// PDA belongs to Lt. Cain
 
-	// inbox
+	// Inbox
 
 	"MailFrom1"	"Từ: Laura Callen"
 	"MailDate1"	"Ngày: 12/18/52"
@@ -20,7 +20,7 @@ GAME
 	"MailBody2C"	"Alena,"
 	"MailBody2D"	"xxx"
 
-	// sent mail
+	// Sent
 
 	"MailFrom3"	"Tới: Laura Callen"
 	"MailDate3"	"Ngày: 12/21/52"

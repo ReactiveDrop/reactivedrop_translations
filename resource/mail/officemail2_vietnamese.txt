@@ -2,7 +2,7 @@ GAME
 {
 	// PDA belongs to Lt. Cain
 
-	// inbox
+	// Inbox
 
 	"MailFrom1"	"Từ: Laura Callen"
 	"MailDate1"	"Ngày: 12/21/52"
@@ -11,7 +11,6 @@ GAME
 	"MailBody1B"	"Tôi muốn 1 bản báo cáo đầy đủ về sự việc ở tầng 2. Bao gồm nguyên nhân rò rĩ, bản thiết kế, danh sách nhân sự làm việc trong phòng thí nghiệm, vân vân. Tôi khá mệt mỏi với việc yêu cầu điều này mỗi khi có việc xảy ra. Ông đáng nhẽ phải cập nhật tình hình cho tôi thường xuyên. "
 	"MailBody1C"	"Tôi mới từ ga Timor về. Có 1 báo cáo về 2 người công nhân mỏ mất tích. Nghe có vẻ như là 1 vấn đề liên quan tới bảo vệ. Vậy tại sao tôi ko hề thấy bất kỳ nhân viên nào của ông dưới đó vậy?"
 	"MailBody1D"	"L. Callen"
-
 
 	"MailFrom2"	"Từ: Laura Callen"
 	"MailDate2"	"Ngày: 12/23/52"

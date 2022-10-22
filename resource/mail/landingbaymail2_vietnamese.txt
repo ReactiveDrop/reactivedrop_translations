@@ -1,6 +1,8 @@
 GAME
 {
-	// PDA belongs to Laura
+	// PDA belongs to Laura Callen
+
+	// Inbox
 
 	"MailFrom1"	"Từ: Brad Campbell"
 	"MailDate1"	"Ngày: 12/18/52"

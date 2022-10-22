@@ -2,7 +2,7 @@ GAME
 {
 	// PDA belongs to Shaun Ming
 
-	// inbox
+	// Inbox
 
 	"MailFrom1"	"Từ: John Cain"
 	"MailDate1"	"Ngày: 12/23/52"
@@ -12,7 +12,7 @@ GAME
 	"MailBody1C"	"Thêm nữa, mày đang làm gì trên phòng  atrium thế? "
 	"MailBody1D"	"Lt. Cain, SynTek Security."
 
-	// sent mail
+	// Sent
 
 	"MailFrom3"	"Tới: John Cain"
 	"MailDate3"	"Ngày: 12/23/52"
