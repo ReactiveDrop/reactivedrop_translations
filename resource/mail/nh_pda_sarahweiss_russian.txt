@@ -1,10 +1,10 @@
 GAME
 {
-	// PDA belongs to Sergeant Sarah Weiss
+	// PDA belongs to Sgt. Sarah Weiss
 
-	// Sent mail
+	// Sent
 
-	"MailFrom3"	"Кому: Л-т. Гаэль Флоренца"
+	"MailFrom3"	"Кому: Гаэль Флоренца"
 	"MailDate3"	"Дата: 16.06.42"
 	"MailSubject3"	"Тема: Это Кэррадайн"
 	"MailBody3A"	"[Отправка не удалась: Ваш КПК был отключён от сети]"
