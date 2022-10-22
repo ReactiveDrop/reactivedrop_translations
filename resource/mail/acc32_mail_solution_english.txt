@@ -12,7 +12,7 @@ GAME
 
 	"MailFrom1"	"To: Richard"
 	"MailDate1"	"Date: 11/24/32"
-	"MailSubject1"	"Subject: re: Solution"
+	"MailSubject1"	"Subject: Re: Solution"
 	"MailBody1A"	"You fucking 'recon'?! Are you out of your mind? Who hired you? Last time the facility was not confined the radiation levels were lethal in the area of 15 kilometer radius from the labs. Now the levels are triple or probably even quadriple."
 	"MailBody1B"	"Thank you for your Professional advice sir but no, we will not consider killing any people. We will be installing internal cooling measures."
 	"MailBody1C"	"Admin."

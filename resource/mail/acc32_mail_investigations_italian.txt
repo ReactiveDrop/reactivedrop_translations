@@ -2,15 +2,15 @@ GAME
 {
 	// Inbox
 
-	"MailFrom1"	"Da: Sarge"
+	"MailFrom1"	"Da: Joseph Conrad"
 	"MailDate1"	"Data: 20 Nov 2232"
 	"MailSubject1"	"Soggetto: indagine"
-	"MailBody1A"	"Siamo entrati attraverso le fogne, erano insanguinate da tutti i cadaveri che voi vermi ci avete scaricato dentro. la temperatura è di 50 gradi, i livelli di radiazioni sono 3 volte più alti ora."
-	"MailBody1B"	"Sarge"
+	"MailBody1A"	"siamo entrati attraverso le fogne, erano insanguinate da tutti i cadaveri che voi vermi ci avete scaricato dentro. la temperatura è di 50 gradi, i livelli di radiazioni sono 3 volte più alti ora"
+	"MailBody1B"	"sarge"
 
-	"MailFrom1"	"Da: Sarge"
+	"MailFrom1"	"Da: Joseph Conrad"
 	"MailDate1"	"Data: 20 Nov 2232"
-	"MailSubject1"	"Soggetto: re: Mentre siete lì"
-	"MailBody1A"	"No. Siamo stati mandati a investigare e non a fare qualche stupido esperimento. Siamo soldati. Non mi interessa quello che dici, ce ne andiamo da qui, cazzo."
-	"MailBody1B"	"Sarge"
+	"MailSubject1"	"Soggetto: Re: Mentre siete lì"
+	"MailBody1A"	"no. siamo stati mandati a investigare e non a fare qualche stupido esperimento. siamo soldati. non mi interessa quello che dici, ce ne andiamo da qui, cazzo"
+	"MailBody1B"	"sarge"
 }
