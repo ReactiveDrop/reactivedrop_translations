@@ -2,11 +2,11 @@ GAME
 {
 	// PDA belongs to Jonathan Dorland
 
-	// Sent mail
+	// Sent
 
-	"MailFrom3"	"À : Dr. Lin Da Silva"
-	"MailDate3"	"Date : 31/03/43"
-	"MailSubject3"	"Objet : Qu’est-ce qu’il se passe ?"
+	"MailFrom3"	"À: Dr. Lin Da Silva"
+	"MailDate3"	"Date: 31/03/43"
+	"MailSubject3"	"Objet: Qu’est-ce qu’il se passe ?"
 	"MailBody3A"	"Lin, peut-on savoir ce qu’il se passe ?"
 	"MailBody3B"	"Il y a à peine 1h, un groupe de colons a pénétré nos quartiers avec le lieutenant Florenza et plusieurs gardiens, exigeant que nous nous confinions dans les locaux sécurisés de l’entrepôt jusqu’à nouvel ordre. On les a entendus partir en hâte, puis plus rien. Serais-tu bien aimable, chère docteure, de nous tenir au courant de la situation au sein de ce foutu complexe ? Certainement rien à voir avec le bon vieux Moreau, nooon..."
 	"MailBody3C"	"C’est peut-être la déshydratation, mais j’ai l’impression qu’on en perd la boussole là-dedans. Certains disent entendre des bruits dans les murs. Génial, juste génial. Si je n’ai aucune de tes nouvelles d’ici la fin de la période de rotation, j’utiliserai ma clé à usage unique pour forcer les portes. C’est un pari, je sais et j’en suis désolé. Mais on peut bien dire que ce sont les circonstances qui me poussent à l’envisager."
