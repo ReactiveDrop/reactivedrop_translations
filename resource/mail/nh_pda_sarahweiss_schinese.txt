@@ -1,10 +1,10 @@
 GAME
 {
-	// PDA belongs to Sergeant Sarah Weiss
+	// PDA belongs to Sgt. Sarah Weiss
 
-	// Sent mail
+	// Sent
 
-	"MailFrom3"	"收件人：盖尔.弗洛伦萨中尉"
+	"MailFrom3"	"收件人：盖尔.弗洛伦斯"
 	"MailDate3"	"日期：06/16/42"
 	"MailSubject3"	"主题：关于卡拉丁"
 	"MailBody3A"	"[发送失败：您的PDA已与网络断开]"

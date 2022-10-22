@@ -2,6 +2,8 @@ GAME
 {
 	// PDA belongs to misc colonist
 
+	// Inbox
+
 	"MailFrom1"	"发件人：约翰.凯恩"
 	"MailDate1"	"日期：12/24/52"
 	"MailSubject1"	"主题：戒严令"

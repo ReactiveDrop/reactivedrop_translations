@@ -1,19 +1,19 @@
 GAME
 {
-	// PDA belongs to Professor Yann Montgomery
+	// PDA belongs to Prof. Yann Montgomery
 
 	// Inbox
 
-	"MailFrom1"	"发件人：雅克.莫罗博士"
+	"MailFrom1"	"发件人：雅克·莫罗"
 	"MailDate1"	"日期：05/08/42"
 	"MailSubject1"	"主题：回复：初步考虑"
 	"MailBody1A"	"谢谢你抽出时间，教授。你的专业知识证实了我的大部分假设。顺便要确定的是，限制措施是按规定执行的。在我们完全确定我们面对的是什么之前，我要求你暂时不要联系方阵站。"
 	"MailBody1B"	"如有需要，我的实验室会进一步通知你。"
 	"MailFrom1C"	"生而为人。"
 
-	// Sent mail
+	// Sent
 
-	"MailFrom3"	"收件人：雅克.莫罗博士"
+	"MailFrom3"	"收件人：雅克.莫罗"
 	"MailDate3"	"日期：05/08/42"
 	"MailSubject3"	"主题：初步考虑"
 	"MailBody3A"	"亲爱的同事。我已经对您实验室里的标本组进行了初步观察，因为您的部门…礼貌地吩咐。请记住，这些只是初步的想法——尽管它们的结论可能有些令人担忧。"

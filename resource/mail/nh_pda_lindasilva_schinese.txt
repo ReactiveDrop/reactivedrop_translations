@@ -1,6 +1,6 @@
 GAME
 {
-	// PDA belongs to Doctor Lin Da Silva
+	// PDA belongs to Dr. Lin Da Silva
 
 	// Inbox
 
@@ -11,7 +11,7 @@ GAME
 	"MailBody1B"	"虽然我非常感谢你们的助手们迄今为止提供的巨大援助，但如果大家最终同意让我继续工作，那么正在进行的工作——由于我是这次任务的首席科学家，所以由我负责——将很快结束。"
 	"MailBody1C"	"谢谢。"
 
-	// Sent mail
+	// Sent
 
 	"MailFrom3"	"收件人：雅克.莫罗博士"
 	"MailDate3"	"日期：02/09/42"

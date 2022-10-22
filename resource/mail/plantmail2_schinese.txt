@@ -2,7 +2,8 @@ GAME
 {
 	// PDA belongs to Brian Howe
 
-	// inbox
+	// Inbox
+
 	"MailFrom1"	"发件人：劳拉.考伦"
 	"MailDate1"	"日期：12/21/52"
 	"MailSubject1"	"主题：信息流"
@@ -17,7 +18,7 @@ GAME
 	"MailBody2B"	"我查了我的记录，但没看到你的备忘录。这令人担忧。我已经和系统管理员谈过了，希望能找到一些解释。我要搭下一班火车去帝汶岛站。8:45到达。你能来接我吗？"
 	"MailBody2C"	"L.考伦"
 
-	// sent mail
+	// Sent
 
 	"MailFrom3"	"收件人：劳拉.考伦"
 	"MailDate3"	"日期：12/21/52"

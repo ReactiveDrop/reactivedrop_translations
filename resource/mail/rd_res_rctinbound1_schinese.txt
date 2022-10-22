@@ -1,7 +1,8 @@
 GAME
 {
+	// PDA belongs to Hullen
 
-	// inbox
+	// Inbox
 
 	"MailFrom1"	"发件人：肖恩.明"
 	"MailDate1"	"日期：12/22/52"
@@ -19,7 +20,7 @@ GAME
 	"MailBody2C"	"我其实对氙气植物过敏，也许我们可以出去喝一杯，然后也许在……"
 	"MailBody2D"	"珍妮 ;) xxxxx"
 
-	// sent mail
+	// Sent
 
 	"MailFrom3"	"收件人：肖恩.明"
 	"MailDate3"	"日期：12/26/52"

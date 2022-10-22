@@ -2,7 +2,7 @@ GAME
 {
 	// PDA belongs to Shaun Ming
 
-	// inbox
+	// Inbox
 
 	"MailFrom1"	"发件人：约翰.凯恩"
 	"MailDate1"	"日期：12/23/52"
@@ -12,7 +12,7 @@ GAME
 	"MailBody1C"	"顺便问一下，中庭发生了什么事？"
 	"MailBody1D"	"凯恩中尉，新特安全部。"
 
-	// sent mail
+	// Sent
 
 	"MailFrom3"	"收件人：约翰.凯恩"
 	"MailDate3"	"日期：12/23/52"

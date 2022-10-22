@@ -2,7 +2,7 @@ GAME
 {
 	// PDA belongs to Doctor Jacques Moreau
 
-	// Sent messages
+	// Sent
 
 	"MailFrom3"	"收件人：亚瑟.卡拉丁上尉"
 	"MailDate3"	"日期：03/31/43"

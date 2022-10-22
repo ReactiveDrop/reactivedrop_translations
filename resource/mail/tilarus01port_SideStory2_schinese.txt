@@ -1,7 +1,8 @@
 GAME
 {
 	// PDA belongs to Overseer Ross
-	// inbox
+
+	// Inbox
 
 	"MailFrom1"	"发件人：吉米.卡特"
 	"MailDate1"	"日期：02/02/54"
@@ -16,7 +17,8 @@ GAME
 	"MailSubject2"	"主题：约翰？"
 	"MailBody2A"	"罗斯，已经快8个小时了，你打算把约翰送下去？"
 
-	// sent mail
+	// Sent
+
 	"MailFrom3"	"收件人：监督者 罗斯"
 	"MailDate3"	"日期：02/02/54"
 	"MailSubject3"	"主题：回复：反应堆压力下降"
@@ -31,5 +33,4 @@ GAME
 	"MailBody4B"	"我一给你发完邮件就叫约翰去了，最多20分钟就能到你那里"
 	"MailBody4C"	"我去问问他的其他朋友，看他们知不知道他在哪儿"
 	"MailBody4D"	"我还要通知保安注意他，最近有很多人失踪了"
-
 }

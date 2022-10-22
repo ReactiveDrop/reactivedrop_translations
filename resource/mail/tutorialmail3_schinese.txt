@@ -1,8 +1,8 @@
 GAME
 {
-	// PDA belongs to Juan Rosale
+	// PDA belongs to Juan Rosales
 
-	// inbox
+	// Inbox
 
 	"MailFrom1"	"发件人：文森特.贝克"
 	"MailDate1"	"日期：12/18/52"
@@ -15,7 +15,7 @@ GAME
 	"MailBody2A"	"胡安，"
 	"MailBody2B"	"啊哈！你和史蒂夫？这肯定比被扔石头好。那好吧。无论如何，该死的暴风雪正在向我们袭来。"
 
-	// sent mail
+	// Sent
 
 	"MailFrom3"	"收件人：文森特.贝克"
 	"MailDate3"	"日期：12/18/52"

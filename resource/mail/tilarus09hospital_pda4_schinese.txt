@@ -1,6 +1,8 @@
 GAME
 {
-	// PDA belongs to Dr.Kennett
+	// PDA belongs to Dr. Kennett
+
+	// Inbox
 
 	"MailFrom1"	"发件人：L.吉尔摩博士"
 	"MailDate1"	"日期：03/17/46"
@@ -14,6 +16,8 @@ GAME
 	"MailDate2"	"日期：03/17/46"
 	"MailSubject2"	"主题：？？？"
 	"MailBody2A"	"你为什么不回答我？！"
+
+	// Sent
 
 	"MailFrom3"	"收件人：L.吉尔摩博士"
 	"MailDate3"	"日期：03/17/46"

@@ -2,7 +2,8 @@ GAME
 {
 	// PDA belongs to Joseph Palmer
 
-	// inbox
+	// Inbox
+
 	"MailFrom1"	"发件人：福斯特博士"
 	"MailDate1"	"日期：03/13/46"
 	"MailSubject1"	"主题：剂量"
@@ -11,7 +12,8 @@ GAME
 	"MailBody1C"	"细胞抑制剂量不足。我建议在突变的最后阶段，再给一次剂量。"
 	"MailBody1D"	"福斯特博士"
 
-	// sent mail
+	// Sent
+
 	"MailFrom3"	"收件人：福斯特博士"
 	"MailDate3"	"日期：03/13/46"
 	"MailSubject3"	"主题：回复：剂量"

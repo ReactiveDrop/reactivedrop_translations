@@ -2,6 +2,8 @@ GAME
 {
 	// PDA belongs to Helen Young
 
+	// Inbox
+
 	"MailFrom1"	"发件人：肖恩.明"
 	"MailDate1"	"日期：12/22/52"
 	"MailSubject1"	"主题：进展"

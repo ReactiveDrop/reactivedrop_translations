@@ -1,8 +1,8 @@
 GAME
 {
-	// PDA belongs to Lt Cain
+	// PDA belongs to Lt. Cain
 
-	// inbox
+	// Inbox
 
 	"MailFrom1"	"发件人：肖恩.明"
 	"MailDate1"	"日期：12/21/52"
@@ -12,7 +12,7 @@ GAME
 	"MailBody1C"	"我要你让所有人离开实验室，除了我手下的科学家。不应该让任何人进入2号平台。为了测试我关于虫群如何成熟的假设，我需要一些活的东西。我认为至少要有狗那么大，才能满足它们的胃口。我能指望你吗？"
 	"MailBody1D"	"S.明"
 
-	// sent mail
+	// Sent
 
 	"MailFrom3"	"收件人：肖恩.明"
 	"MailDate3"	"日期：12/21/52"

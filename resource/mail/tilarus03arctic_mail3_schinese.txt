@@ -2,7 +2,7 @@ GAME
 {
 	// PDA belongs to Martin Bauer
 
-	// inbox
+	// Inbox
 
 	"MailFrom1"	"发件人：新特数据分析师"
 	"MailDate1"	"日期：10/05/52"
@@ -12,7 +12,7 @@ GAME
 	"MailBody1C"	"我希望你不会再迷路了。哈哈！ ;D"
 	"MailBody1D"	"迈克.帕默，谨致问候"
 
-	// sent mail
+	// Sent
 
 	"MailFrom3"	"收件人：新特数据分析师"
 	"MailDate3"	"日期：10/05/52"

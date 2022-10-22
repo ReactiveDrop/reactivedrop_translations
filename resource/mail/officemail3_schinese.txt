@@ -2,7 +2,7 @@ GAME
 {
 	// PDA belongs to Brian Howe
 
-	// inbox
+	// Inbox
 
 	"MailFrom1"	"发件人：海伦.杨"
 	"MailDate1"	"日期：12/23/52"
@@ -12,7 +12,7 @@ GAME
 	"MailBody1C"	"与此同时，我今天早上收到了那个白痴明的邮件。看来他和他的手下还在实验室里工作，研究你发现的那些蛋。我肯定他的工作没有得到IA的批准。"
 	"MailBody1D"	"待会儿见--海伦。"
 
-	// sent mail
+	// Sent
 
 	"MailFrom3"	"收件人：海伦.杨"
 	"MailDate3"	"日期：12/23/52"
