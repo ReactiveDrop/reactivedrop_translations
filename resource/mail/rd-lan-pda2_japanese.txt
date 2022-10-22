@@ -2,7 +2,7 @@
 {
 	// PDA belongs to Lucius Pawn
 
-	// inbox
+	// Inbox
 
 	"MailFrom1"	"差出人: ウィンダム・キング"
 	"MailDate1"	"送信日時: 53年02月29日"
@@ -20,8 +20,7 @@
 	"MailBody2C"	""
 	"MailBody2D"	"ラナより、愛をこめて"
 
-
-	// sent mail
+	// Sent
 
 	"MailFrom3"	"宛先: ウィンダム・キング"
 	"MailDate3"	"送信日時: 53年02月29日"

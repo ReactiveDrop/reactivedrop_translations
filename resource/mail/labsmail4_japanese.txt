@@ -2,7 +2,7 @@
 {
 	// PDA belongs to SysAdmin
 
-	// inbox
+	// Inbox
 
 	"MailFrom1"	"差出人: フィル・ライアン"
 	"MailDate1"	"送信日時: 52年12月20日"
@@ -19,7 +19,7 @@
 	"MailBody2C"	"星間輸送も対応しています。"
 	"MailBody2D"	"ア亻ソ夕三ン23で丸一日働いても気分爽快、気合十分、気力満点！！ あなたの監督官も使ってるよ--あなたも使うべきじゃない？"
 
-	// sent mail
+	// Sent
 
 	"MailFrom3"	"宛先: フィル・ライアン"
 	"MailDate3"	"送信日時: 52年12月20日"

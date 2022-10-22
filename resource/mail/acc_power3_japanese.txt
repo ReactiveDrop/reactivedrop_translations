@@ -1,5 +1,7 @@
 ﻿GAME
 {
+	// Sent
+
 	"MailFrom1"	"宛先: ネイサン・ポー"
 	"MailDate1"	"送信日時: 32年8月25日"
 	"MailSubject1"	"件名: 動力炉の不安定性 ＆非表示"

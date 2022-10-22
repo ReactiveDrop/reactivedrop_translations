@@ -1,5 +1,7 @@
 ﻿GAME
 {
+	// Sent
+
 	"MailFrom1"	"宛先: ヤコブ・スタンキビッチ"
 	"MailDate1"	"送信日時: 31年1月4日"
 	"MailSubject1"	"件名: Re: レトラーからの情報 ＆非表示"

@@ -1,6 +1,8 @@
 ﻿GAME
 {
-	// PDA belongs to Laura
+	// PDA belongs to Laura Callen
+
+	// Inbox
 
 	"MailFrom1"	"差出人: ブラッド・キャンベル"
 	"MailDate1"	"送信日時: 52年12月18日"

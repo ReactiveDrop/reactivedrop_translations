@@ -1,5 +1,7 @@
 ﻿GAME
 {
+	// Sent
+
 	"MailFrom1"	"宛先: ブラッド・アーヴィング"
 	"MailDate1"	"送信日時: 31年4月2日"
 	"MailSubject1"	"件名: 返事をして！ ＆非表示"

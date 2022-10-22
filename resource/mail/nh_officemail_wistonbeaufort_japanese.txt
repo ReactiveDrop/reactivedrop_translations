@@ -2,7 +2,7 @@
 {
 	// Computer belongs to Chief Surgeon Wiston Beaufort
 
-	// Sent messages
+	// Sent
 
 	"MailFrom3"	"宛先: ジャック・モロー博士"
 	"MailDate3"	"送信日時: 42年5月18日"

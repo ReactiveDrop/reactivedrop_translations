@@ -2,7 +2,7 @@
 {
 	// PDA belongs to Brad Campbell
 
-	// inbox
+	// Inbox
 
 	"MailFrom1"	"差出人: デイヴィッド・アンダース"
 	"MailDate1"	"送信日時: 52年12月12日"
@@ -16,7 +16,7 @@
 	"MailBody2A"	"ブラッドへ、"
 	"MailBody2B"	"畜生め。ピートとコバックとも話した。 みんなまたDaxolを定期的に使うようになってるってアイツら大っぴらに認めたぞ。やっと平常運転になったと思ったばかりなのに。 どうすればいいと思う？"
 
-	// sent mail
+	// Sent
 
 	"MailFrom3"	"宛先: デイヴィッド・アンダース"
 	"MailDate3"	"送信日時: 52年12月12日"

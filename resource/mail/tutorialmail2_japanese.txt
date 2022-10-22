@@ -1,15 +1,17 @@
 ﻿GAME
 {
-	// PDA belongs to Vincent baker
+	// PDA belongs to Vincent Baker
 
-	// inbox
+	// Inbox
+
 	"MailFrom1"	"差出人: フアン・ロサレス"
 	"MailDate1"	"送信日時: 52年12月18日"
 	"MailSubject1"	"件名: 酒と女？"
 	"MailBody1A"	"やあヴィンス、"
 	"MailBody1B"	"今夜は雪上車で主要複合施設に行こうぜ。 ここにずっと居るよりは凍傷がマシになるはずだ、2人で思いっきり飲もうじゃないか。 19時丁度だいいな？"
 
-	// sent mail
+	// Sent
+
 	"MailFrom3"	"宛先: フアン・ロサレス"
 	"MailDate3"	"送信日時: 52年12月18日"
 	"MailSubject3"	"件名: Re: 酒と女？"
