@@ -2,7 +2,7 @@ GAME
 {
 	// PDA belongs to Lucius Pawn
 
-	// inbox
+	// Inbox
 
 	"MailFrom1"	"发件人：温顿.金"
 	"MailDate1"	"日期：02/29/53"
@@ -20,8 +20,7 @@ GAME
 	"MailBody2C"	""
 	"MailBody2D"	"爱你的，拉娜"
 
-
-	// sent mail
+	// Sent
 
 	"MailFrom3"	"收件人：温顿.金"
 	"MailDate3"	"日期：02/29/53"

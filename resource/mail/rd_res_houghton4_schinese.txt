@@ -1,5 +1,6 @@
 GAME
 {
+	// Inbox
 
 	"MailFrom1"	"发件人：指挥官霍顿"
 	"MailDate1"	"日期：12/30/52"

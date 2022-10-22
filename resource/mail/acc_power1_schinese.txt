@@ -1,5 +1,7 @@
 GAME
 {
+	// Sent
+
 	"MailFrom1"	"收件人：雅各布.斯坦基维奇"
 	"MailDate1"	"日期：01/04/31"
 	"MailSubject1"	"主题：回复：信息来自瑞特勒 &HIDDEN"

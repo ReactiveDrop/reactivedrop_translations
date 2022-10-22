@@ -2,7 +2,7 @@ GAME
 {
 	// PDA belongs to Lt. Cain
 
-	// inbox
+	// Inbox
 
 	"MailFrom1"	"发件人：劳拉.考伦"
 	"MailDate1"	"日期：12/18/52"
@@ -20,7 +20,7 @@ GAME
 	"MailBody2C"	"阿勒娜，"
 	"MailBody2D"	"xxx"
 
-	// sent mail
+	// Sent
 
 	"MailFrom3"	"收件人：劳拉.考伦"
 	"MailDate3"	"日期：12/21/52"

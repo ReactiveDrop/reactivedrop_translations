@@ -2,14 +2,13 @@ GAME
 {
 	// PDA belongs to Andrew Smithson
 
-	// inbox
+	// Inbox
+
 	"MailFrom1"	"发件人：詹姆斯.施卢格"
 	"MailDate1"	"日期：09/10/57"
 	"MailSubject1"	"主题：故障门"
 	"MailBody1A"	"安德鲁，"
 	"MailBody1B"	"7号机库附近的楼梯间门又出问题了，你能过去看看你能做些什么吗？谢谢。"
-	"MailBody1C"	""
-	"MailBody1D"	""
 
 	"MailFrom2"	"发件人：绿洲HR"
 	"MailDate2"	"日期：02/10/57"
@@ -19,7 +18,8 @@ GAME
 	"MailBody2C"	"主管也借此机会对您的关注表示感谢，并祝您万事如意。"
 	"MailBody2D"	"乔纳斯.怀特 - 绿洲殖民地人力资源部"
 
-	// sent mail
+	// Sent
+
 	"MailFrom3"	"收件人：亨利.史密森"
 	"MailDate3"	"日期：09/10/57"
 	"MailSubject3"	"主题：回复：回复：回复：嗨"
@@ -27,5 +27,4 @@ GAME
 	"MailBody3B"	"这还不是最糟糕的……过去几周，当我一个人工作的时候，我发誓我能听到通风口有东西在爬。也许是我太多疑了，但是…你还记得几年前在采矿殖民地发生的事吗？"
 	"MailBody3C"	""
 	"MailBody3D"	"安迪"
-
 }

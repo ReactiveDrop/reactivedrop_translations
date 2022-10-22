@@ -1,5 +1,7 @@
 GAME
 {
+	// Inbox
+
 	"MailFrom1"	"发件人：福克斯新闻"
 	"MailDate1"	"日期：2233年1月3日"
 	"MailSubject1"	"主题：过去1个月的新闻日志。"

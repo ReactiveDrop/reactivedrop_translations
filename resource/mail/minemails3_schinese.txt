@@ -2,7 +2,7 @@ GAME
 {
 	// PDA belongs to Brad Campbell
 
-	// inbox
+	// Inbox
 
 	"MailFrom1"	"发件人：大卫.安德斯"
 	"MailDate1"	"日期：12/12/52"
@@ -16,7 +16,7 @@ GAME
 	"MailBody2A"	"布拉德，"
 	"MailBody2B"	"该死。我跟皮特和科瓦奇谈过了。他们公开承认，人们又开始定期服用达索了。就在我们以为一切会恢复正常的时候。你想让我怎么做？"
 
-	// sent mail
+	// Sent
 
 	"MailFrom3"	"收件人：大卫.安德斯"
 	"MailDate3"	"日期：12/12/52"

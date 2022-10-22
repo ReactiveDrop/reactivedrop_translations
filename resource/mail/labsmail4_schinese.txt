@@ -2,7 +2,7 @@ GAME
 {
 	// PDA belongs to SysAdmin
 
-	// inbox
+	// Inbox
 
 	"MailFrom1"	"发件人：菲尔.瑞恩"
 	"MailDate1"	"日期：12/20/52"
@@ -19,7 +19,7 @@ GAME
 	"MailBody2C"	"星际航运可用。"
 	"MailBody2D"	"Isoth4m1ne23会让你在一整天的工作中都感觉清爽、强壮、精力充沛！你的上司都在服用，你为什么不服用呢？"
 
-	// sent mail
+	// Sent
 
 	"MailFrom3"	"收件人：菲尔.瑞恩"
 	"MailDate3"	"日期：12/20/52"

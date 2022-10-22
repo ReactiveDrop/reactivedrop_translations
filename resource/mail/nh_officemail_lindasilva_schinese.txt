@@ -1,6 +1,6 @@
 GAME
 {
-	// PC belongs to Doctor Lin Da Silva
+	// Computer belongs to Dr. Lin Da Silva
 
 	// Inbox
 
@@ -16,7 +16,7 @@ GAME
 	"MailBody2A"	"是啊，很清楚，达.席尔瓦博士。"
 	"MailBody2B"	"生而为人 :)"
 
-	// Sent mail
+	// Sent
 
 	"MailFrom3"	"收件人：乔纳森.多兰"
 	"MailDate3"	"日期：02/13/42"
@@ -26,7 +26,7 @@ GAME
 	"MailBody3C"	"就当是我的王牌吧，强尼，随便你怎么想。莫罗博士负责所有有关研究的决定。鉴于你只是这里的助理，你只需要知道这些就够了。所以一定要试着保持深沉，“就这一次”。"
 	"MailBody3D"	"希望事情已经说清楚了？"
 
-	"MailFrom4"	"收件人：中尉 盖尔.弗洛伦萨"
+	"MailFrom4"	"收件人：盖尔.弗洛伦斯"
 	"MailDate4"	"日期：01/01/43"
 	"MailSubject4"	"主题：（空）"
 	"MailBody4A"	"如果你能结束这一切，那么好，我会确保你能进入实验室。"

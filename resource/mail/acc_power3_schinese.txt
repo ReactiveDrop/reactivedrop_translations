@@ -1,5 +1,7 @@
 GAME
 {
+	// Sent
+
 	"MailFrom1"	"收件人：内森.坡"
 	"MailDate1"	"日期：08/25/32"
 	"MailSubject1"	"主题：反应堆不稳定 &HIDDEN"

@@ -1,6 +1,9 @@
 GAME
 {
-	// PDA belongs to Ming
+	// PDA belongs to Shaun Ming
+
+	// Inbox
+
 	"MailFrom1"	"发件人：约翰.凯恩"
 	"MailDate1"	"日期：12/24/52"
 	"MailSubject1"	"主题：回复：杨咋样？"
