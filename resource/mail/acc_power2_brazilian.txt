@@ -1,5 +1,7 @@
 GAME
 {
+	// Inbox
+
 	"MailFrom1"	"De: Xavier Plumes"
 	"MailDate1"	"Data: 14/12/32"
 	"MailSubject1"	"Assunto: A Situação &OCULTO"

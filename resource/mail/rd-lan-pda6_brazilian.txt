@@ -1,8 +1,8 @@
 GAME
 {
-	// PDA pertence aoLucius Pawn
+	// PDA belongs to Lucius Pawn
 
-	// Enviados
+	// Sent
 
 	"MailFrom3"	"Para: Lana King"
 	"MailDate3"	"Data: 29/02/53"
@@ -11,6 +11,4 @@ GAME
 	"MailBody3B"	"Eu inicializei o cronometro. Se eu não estiver com você em três minutos, então por favor... Apenas vá. A base inteira será destruída na explosão."
 	"MailBody3C"	"Se eu falhar, nós nunca mais nos encontraremos. Eu te amo. Me desculpe, eu nunca te disse isso antes, mas aqui estou eu, sem chance nenhuma. Eu te amo, Lana."
 	"MailBody3D"	"Lucius"
-
-
 }

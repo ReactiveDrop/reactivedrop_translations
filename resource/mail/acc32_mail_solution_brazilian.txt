@@ -1,10 +1,14 @@
 GAME
 {
+	// Inbox
+
 	"MailFrom1"	"De: Notícias da Operação [Richard]"
 	"MailDate1"	"Data: 24/11/32"
 	"MailSubject1"	"Assunto: Solução"
 	"MailBody1A"	"Sugiro desconfinarmos lentamente toda a instalação, começando pelo sul. O ar fresco e frio deve entrar e fazer seu trabalho em alguns dias. Reconheço que os níveis de radiação liberados não serão muito altos no ambiente. Ainda poderíamos evacuar casas próximas para a segurança deles."
 	"MailBody1B"	"Richard."
+
+	// Sent
 
 	"MailFrom1"	"Para: Richard"
 	"MailDate1"	"Data: 24/11/32"

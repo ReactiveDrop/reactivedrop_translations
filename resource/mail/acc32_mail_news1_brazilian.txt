@@ -1,5 +1,7 @@
 GAME
 {
+	// Inbox
+
 	"MailFrom1"	"De: Fox News"
 	"MailDate1"	"Data: 31/11/32"
 	"MailSubject1"	"Assunto: Registro de notícias dos últimos 4 meses."

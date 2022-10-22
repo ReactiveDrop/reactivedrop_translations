@@ -1,8 +1,8 @@
 GAME
 {
-	// Computador pertence ao Doutor Jacques Moreau
+	// Computer belongs to Dr. Jacques Moreau
 
-	// Enviados
+	// Sent
 
 	"MailFrom3"	"Para: Banco de dados pessoal"
 	"MailDate3"	"Date: 24/05/42"
@@ -12,7 +12,7 @@ GAME
 	"MailBody3C"	"Tenho feito tentativas de me envolver com Vesta of por minha própria vontade. Tentei falar com ela, fazê-la entender quem ou o que somos. Estou ciente de quão absurdo isso pode soar... mas eu pedi por orientação. Eu quero alcançá-la, mostrar a ela que não há nada a temer de nós. Nós somos apenas cascas frágeis de tecido e mente em decomposição, e ela pode ou não levar a tudo que nós... eu, esperava."
 	"MailBody3D"	"Ela precisa apenas de corpos."
 
-	"MailFrom4"	"Para: Dra. Helen Moreau"
+	"MailFrom4"	"Para: Helen Moreau"
 	"MailDate4"	"Data: 15/06/42"
 	"MailSubject4"	"Assunto: N/A"
 	"MailBody4A"	"Então aqui estou. Me declarando a um fantasma. Para ser perfeitamente honesto, Não tenho certeza de quanto tempo se passou desde sua doença. Embora, o tempo em que seu perfume de flores reprimiu a asfixia de nosso laboratório não pareça tão distante."

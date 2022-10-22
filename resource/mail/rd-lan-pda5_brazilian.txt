@@ -1,8 +1,8 @@
 GAME
 {
-	// PDA pertence ao Leon Bishop
+	// PDA belongs to Leon Bishop
 
-	// Caixa de entrada
+	// Inbox
 
 	"MailFrom1"	"De: Jan Anath"
 	"MailDate1"	"Data: 29/02/53"

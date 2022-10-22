@@ -1,6 +1,6 @@
 "Credits"
 {
-// essas chaves devem estar nesta ordem!
+// these keys must be in this order!
 "show_credits_logo"	"1"
 "custom_logo"	"ExampleCustomLogo/example_custom_logo"
 "asw_credits_"	"SEU NOME AQUI"

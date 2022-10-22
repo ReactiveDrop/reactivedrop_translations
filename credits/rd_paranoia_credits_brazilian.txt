@@ -21,7 +21,7 @@
 "asw_credits_"	"-> Byblo."
 "asw_credits_"	"-> Prototstar."
 "asw_credits_"	"-> Alien Swarm Wiki"
-"asw_credits_"	"Outros mapas personalizados de outros autores em :"
+"asw_credits_"	"Outros mapas personalizados de outros autores em:"
 "asw_credits_"	"http://www.fpsbanana.com/maps/games/4214"
 "asw_credits_"	"http://forums.steampowered.com/forums/showthread.php?t=1373361"
 "asw_credits_"	"http://swarmarmory.com/maps"

@@ -1,8 +1,8 @@
 GAME
 {
-	// PDA pertence ao Ian Cook
+	// PDA belongs to Dr. Ian Cook
 
-	// Enviados
+	// Sent
 	"MailFrom3"	"Para: Funcionários do Hospital SynTek"
 	"MailDate3"	"Data: 16/03/46"
 	"MailSubject3"	"Assunto: Precisamos de um plano"

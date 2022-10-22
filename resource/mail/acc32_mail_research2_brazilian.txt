@@ -1,5 +1,7 @@
 GAME
 {
+	// Inbox
+
 	"MailFrom1"	"De: Notícias da Operação [Laura]"
 	"MailDate1"	"Data: 19/10/32"
 	"MailSubject1"	"Assunto: Volume da Pesquisa 2"
