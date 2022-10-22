@@ -1,5 +1,7 @@
 ﻿GAME
 {
+	// Inbox
+
 	"MailFrom1"	"差出人: 作業報 [ホセ・ダンクラブ]"
 	"MailDate1"	"送信日時: 2232年10月15日"
 	"MailSubject1"	"件名: 採掘作業について"

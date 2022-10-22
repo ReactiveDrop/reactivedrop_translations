@@ -2,7 +2,8 @@
 {
 	// PDA belongs to cave_geologist1
 
-	// inbox
+	// Inbox
+
 	"MailFrom1"	"差出人: 地質観測機関"
 	"MailDate1"	"送信日時: 57年9月17日"
 	"MailSubject1"	"件名: Re: 洞窟についての暫定報告"
@@ -11,7 +12,8 @@
 	"MailBody1C"	"もちろん君には使い方に注意しろなどと言うまでもないのはわかってるがね。"
 	"MailBody1D"	"-地質観測機関所属、ジェフ・テイラーより"
 
-	// sent mail
+	// Sent
+
 	"MailFrom3"	"宛先: 地質観測機関"
 	"MailDate3"	"送信日時: 57年9月17日"
 	"MailSubject3"	"件名: 洞窟についての暫定報告"

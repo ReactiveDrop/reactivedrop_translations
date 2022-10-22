@@ -1,5 +1,7 @@
 ﻿GAME
 {
+	// Inbox
+
 	"MailFrom1"	"差出人: ブラッド・アーヴィング"
 	"MailDate1"	"送信日時: 31年3月19日"
 	"MailSubject1"	"件名: 読んでくれ！ 1枚目 ＆非表示"

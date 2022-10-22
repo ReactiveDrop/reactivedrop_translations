@@ -1,5 +1,6 @@
 ﻿GAME
 {
+	// Inbox
 
 	"MailFrom1"	"差出人: ホートン司令官"
 	"MailDate1"	"送信日時: 52年12月30日"

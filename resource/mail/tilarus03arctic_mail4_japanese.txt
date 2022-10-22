@@ -2,7 +2,7 @@
 {
 	// PDA belongs to Security Officer Barney
 
-	// inbox
+	// Inbox
 
 	"MailFrom1"	"差出人: ビル・ハウズ"
 	"MailDate1"	"送信日時: 52年10月4日"
@@ -12,7 +12,7 @@
 	"MailBody1C"	"君にはSynTek支給の標準護身豆鉄砲があるのにね。"
 	"MailBody1D"	"じゃああとで、ビルより"
 
-	// sent mail
+	// Sent
 
 	"MailFrom3"	"宛先: ビル・ハウズ"
 	"MailDate3"	"送信日時: 52年10月4日"
@@ -22,7 +22,7 @@
 	"MailBody3C"	"エイリアンの襲撃に何度か遭った時こいつに助けられたんだ。 またいつ必要になるかわからないさ。"
 	"MailBody3D"	"気を付けてな、バーニーより"
 
-	"MailFrom4"	"宛先: 支部長ジャクソン"
+	"MailFrom4"	"宛先: ウォルター・ジャクソン"
 	"MailDate4"	"送信日時: 52年10月6日"
 	"MailSubject4"	"件名: 奇妙な反応"
 	"MailBody4A"	"報告:"

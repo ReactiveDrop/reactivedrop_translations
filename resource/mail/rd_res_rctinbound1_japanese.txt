@@ -1,7 +1,8 @@
 ﻿GAME
 {
+	// PDA belongs to Hullen
 
-	// inbox
+	// Inbox
 
 	"MailFrom1"	"差出人: ショーン・ミン"
 	"MailDate1"	"送信日時: 52年12月22日"
@@ -19,7 +20,7 @@
 	"MailBody2C"	"実は私はゼノンの植物にアレルギーがあるんだけど、代わりに飲みに行くならいいわ。それでその後は..."
 	"MailBody2D"	"ジェニーより(^^) xxxxx"
 
-	// sent mail
+	// Sent
 
 	"MailFrom3"	"宛先: ショーン・ミン"
 	"MailDate3"	"送信日時: 52年12月26日"

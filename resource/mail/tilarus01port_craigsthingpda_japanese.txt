@@ -1,7 +1,8 @@
 ﻿GAME
 {
 	// PDA belongs to Windows
-	// inbox
+
+	// Inbox
 
 	"MailFrom1"	"差出人: チャイルズ"
 	"MailDate1"	"送信日時: 54年2月2日"
@@ -19,7 +20,8 @@
 	"MailBody2C"	"随分無責任じゃないか？"
 	"MailBody2D"	"要するに言いたいのは、俺たちの誰か1人でも血迷った行動を取れば、簡単に全滅してしまうんじゃないかって。"
 
-	// sent mail
+	// Sent
+
 	"MailFrom3"	"宛先: チャイルズ"
 	"MailDate3"	"送信日時: 54年2月2日"
 	"MailSubject3"	"件名: Re: 犬小屋の件"

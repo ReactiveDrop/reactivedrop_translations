@@ -1,6 +1,8 @@
 ﻿GAME
 {
-	// PDA belongs to Dr.Kennett
+	// PDA belongs to Dr. Kennett
+
+	// Inbox
 
 	"MailFrom1"	"差出人: リリー・ギルモア博士"
 	"MailDate1"	"送信日時: 46年3月17日"
@@ -14,6 +16,8 @@
 	"MailDate2"	"送信日時: 46年3月17日"
 	"MailSubject2"	"件名: ？？？"
 	"MailBody2A"	"何故返事をくれないの？！"
+
+	// Sent
 
 	"MailFrom3"	"宛先: リリー・ギルモア博士"
 	"MailDate3"	"送信日時: 46年3月17日"
