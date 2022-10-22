@@ -2,7 +2,7 @@ GAME
 {
 	// PDA belongs to Brian Howe
 
-	// inbox
+	// Inbox
 
 	"MailFrom1"	"Từ: Helen Young"
 	"MailDate1"	"Ngày: 12/23/52"
@@ -12,7 +12,7 @@ GAME
 	"MailBody1C"	"Trong khi đó, tôi vừa mới nhận được 1 email từ gã Ming ngớ ngẩn sáng nay. Có vẻ như hắn và người của hắn vẫn đang làm việc trong phòng thí nghiệm, nghiên cứu mấy cái kén mới tìm được. Tôi khá chắc là mấy việc tên này đang làm không hề được phê duyệt từ phía IA. "
 	"MailBody1D"	"Gặp lại cô sau--Helen."
 
-	// sent mail
+	// Sent
 
 	"MailFrom3"	"Tới: Helen Young"
 	"MailDate3"	"Ngày: 12/23/52"

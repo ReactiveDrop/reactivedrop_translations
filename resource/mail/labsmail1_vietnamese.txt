@@ -2,6 +2,8 @@ GAME
 {
 	// PDA belongs to Helen Young
 
+	// Inbox
+
 	"MailFrom1"	"Từ: Shaun Ming "
 	"MailDate1"	"Ngày: 12/22/52"
 	"MailSubject1"	"Tiêu đề: Tiến độ công việc"
