@@ -1,15 +1,17 @@
 GAME
 {
-	// PDA belongs to Vincent baker
+	// PDA belongs to Vincent Baker
 
-	// inbox
+	// Inbox
+
 	"MailFrom1"	"From: Juan Rosales"
 	"MailDate1"	"Date: 12/18/52"
 	"MailSubject1"	"Subject: Booze and babes?"
 	"MailBody1A"	"Hey Vinc,"
 	"MailBody1B"	"We should really take one of the Snow Cats and get to the main complex tonight.  Frostbite can't be worse than staying here, getting drunk all by ourselves.  19:00 okay?"
 
-	// sent mail
+	// Sent
+
 	"MailFrom3"	"To: Juan Rosales"
 	"MailDate3"	"Date: 12/18/52"
 	"MailSubject3"	"Subject: Re: Booze and babes?"

@@ -1,8 +1,8 @@
 GAME
 {
-	// PDA belongs to Lt Cain
+	// PDA belongs to Lt. Cain
 
-	// inbox
+	// Inbox
 
 	"MailFrom1"	"From: Shaun Ming"
 	"MailDate1"	"Date: 12/21/52"
@@ -12,7 +12,7 @@ GAME
 	"MailBody1C"	"I need you to get everyone out of the laboratories except the scientists who work under me.  No one should be allowed to enter Deck 2.  In order to test my assumptions on how the Swarm reach maturity, I need something alive.  I believe it would have to be at least the size of a dog to satisfy their appetites.  Can I count on you?"
 	"MailBody1D"	"S. Ming"
 
-	// sent mail
+	// Sent
 
 	"MailFrom3"	"To: Shaun Ming"
 	"MailDate3"	"Date: 12/21/52"

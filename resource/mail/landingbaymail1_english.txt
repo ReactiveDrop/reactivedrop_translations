@@ -1,8 +1,8 @@
 GAME
 {
-	// PDA belongs to Brian
+	// PDA belongs to Brian Howe
 
-	// inbox
+	// Inbox
 
 	"MailFrom1"	"From: Helen Young"
 	"MailDate1"	"Date: 12/19/52"
@@ -11,7 +11,7 @@ GAME
 	"MailBody1B"	"We've run the numbers. All models for growth, lifespan and metabolism only work when applied across the entire population, rather than to individuals."
 	"MailBody1C"	"In some ways, they're like advanced hive insects, a single advanced superorganism.  Containment is vital."
 
-	// sent mail
+	// Sent
 
 	"MailFrom3"	"To: Helen Young"
 	"MailDate3"	"Date: 12/19/52"

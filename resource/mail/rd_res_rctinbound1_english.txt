@@ -1,7 +1,8 @@
 GAME
 {
+	// PDA belongs to Hullen
 
-	// inbox
+	// Inbox
 
 	"MailFrom1"	"From: Shaun Ming"
 	"MailDate1"	"Date: 12/22/52"
@@ -19,7 +20,7 @@ GAME
 	"MailBody2C"	"I'm actually allergic to Xenon vegetation, perhaps we can go out for drinks instead, and then maybe after..."
 	"MailBody2D"	"Jenny ;) xxxxx"
 
-	// sent mail
+	// Sent
 
 	"MailFrom3"	"To: Shaun Ming"
 	"MailDate3"	"Date: 12/26/52"
@@ -29,7 +30,7 @@ GAME
 	"MailBody3C"	"Perhaps we can shed some light on the evolution of these creatures. That nobel prize is as good as ours."
 	"MailBody3D"	"Hullen."
 
-	"MailFrom4"	"TO: Jenny Coulson"
+	"MailFrom4"	"To: Jenny Coulson"
 	"MailDate4"	"Date: 12/24/52"
 	"MailSubject4"	"Dinner?"
 	"MailBody4A"	"Hi Jenny"

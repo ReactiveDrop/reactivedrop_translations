@@ -2,7 +2,7 @@ GAME
 {
 	// PDA belongs to Rivera
 
-	// inbox
+	// Inbox
 
 	"MailFrom1"	"From: Laura Callen"
 	"MailDate1"	"Date: 12/23/52"

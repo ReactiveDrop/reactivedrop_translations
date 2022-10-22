@@ -1,19 +1,19 @@
 GAME
 {
-	// PDA belongs to Professor Yann Montgomery
+	// PDA belongs to Prof. Yann Montgomery
 
 	// Inbox
 
-	"MailFrom1"	"From: Dr. Jacques Moreau"
+	"MailFrom1"	"From: Jacques Moreau"
 	"MailDate1"	"Date: 05/08/42"
-	"MailSubject1"	"Subject: RE: Preliminary considerations"
+	"MailSubject1"	"Subject: Re: Preliminary considerations"
 	"MailBody1A"	"I thank you for your time, Professor. Your expertise confirms most of my assumptions. Be certain in passing that measures of confinement are being handled by the book. Before we are perfectly sure of what we are dealing with however, I will ask you to refrain from contacting Phalanx for now."
 	"MailBody1B"	"You will be further notified by my laboratory if needed."
 	"MailFrom1C"	"Nam Humanum."
 
-	// Sent mail
+	// Sent
 
-	"MailFrom3"	"To: Dr. Jacques Moreau"
+	"MailFrom3"	"To: Jacques Moreau"
 	"MailDate3"	"Date: 05/08/42"
 	"MailSubject3"	"Subject: Preliminary considerations"
 	"MailBody3A"	"Dear colleague. I have proceeded to a primary observation of the specimen group confined in your laboratory, as your department so...politely commanded. Keep in mind these are but initial thoughts - though their conclusions could be somewhat alarming."
