@@ -1,8 +1,8 @@
 GAME
 {
-	// PDA belongs to Juan Rosale
+	// PDA belongs to Juan Rosales
 
-	// inbox
+	// Inbox
 
 	"MailFrom1"	"송신자: 빈센트 베이커"
 	"Mail날짜1"	"날짜: 52년 12월 18일"
@@ -15,7 +15,7 @@ GAME
 	"MailBody2A"	"주안,"
 	"MailBody2B"	"아하하!  너하고 스티브?  그거 확실히 약빤 것보다 낫겠네.  어쩔 수 없지 뭐.  그나저나 빌어먹을 눈보라가 우리 쪽으로 오고 있어."
 
-	// sent mail
+	// Sent
 
 	"MailFrom3"	"수신자: 빈센트 베이커"
 	"Mail날짜3"	"날짜: 52년 12월 18일"

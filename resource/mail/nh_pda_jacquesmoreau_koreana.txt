@@ -2,7 +2,7 @@ GAME
 {
 	// PDA belongs to Doctor Jacques Moreau
 
-	// Sent messages
+	// Sent
 
 	"MailFrom3"	"수신자: 아서 캐러딘 대장"
 	"MailDate3"	"날짜: 03/31/43"
@@ -12,7 +12,7 @@ GAME
 	"MailBody3C"	"So be it. Let SynTek have their little discovery in the end, for a price only us paid."
 
 	"MailFrom4"	"수신자: 헬렌 모로 박사"
-	"MailDate4"	"날짜 : 03/31/43"
+	"MailDate4"	"날짜: 03/31/43"
 	"MailSubject4"	"주제: 없음"
 	"MailBody4A"	"Dear Vesta, this will be my final message. To whomever finds it, here is my request for Humanity:"
 	"MailBody4B"	"My name is Jacques Valery Moreau. As chief scientist of the research projects undertaken within the Lugdunum’s mission and colony, I have regulated and personally carried out experiments that were not only repulsive to professional ethics, but excruciating towards any type of reason or sense of morality. I now implore the military forces who’ll come upon my message to preserve the products of this effort. Protect them if you can, from those above who would use it for themselves. So that our species still progresses in adversity. As there is no odyssey without struggles, no science is without sacrifices."

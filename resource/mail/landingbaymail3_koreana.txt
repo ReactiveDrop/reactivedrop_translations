@@ -2,7 +2,7 @@
 {
 	// PDA belongs to Lt. Cain
 
-	// inbox
+	// Inbox
 
 	"MailFrom1"	"송신자: 로라 캘런"
 	"MailDate1"	"날짜: 52년 12월 18일"
@@ -20,7 +20,7 @@
 	"MailBody2C"	"알레나,"
 	"MailBody2D"	"xxx"
 
-	// sent mail
+	// Sent
 
 	"MailFrom3"	"수신자: 로라 캘런"
 	"MailDate3"	"날짜: 52년 12월 21일"

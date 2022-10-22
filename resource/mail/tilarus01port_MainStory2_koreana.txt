@@ -2,6 +2,8 @@
 {
 	// PDA belongs to Overseer Ross
 
+	// Inbox
+
 	"MailFrom1"	"송신자: 해럴드 사령관"
 	"MailDate1"	"날짜: 54년 2월 2일"
 	"MailSubject1"	"주제: 보고서"

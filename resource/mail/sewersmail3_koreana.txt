@@ -1,6 +1,9 @@
 ﻿GAME
 {
-	// PDA belongs to Ming
+	// PDA belongs to Shaun Ming
+
+	// Inbox
+
 	"MailFrom1"	"송신자: 존 케인"
 	"MailDate1"	"날짜: 52년 12월 24일"
 	"MailSubject1"	"주제: 회신: 영은요?"

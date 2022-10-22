@@ -1,8 +1,8 @@
 ﻿GAME
 {
-	// PDA belongs to Lt Cain
+	// PDA belongs to Lt. Cain
 
-	// inbox
+	// Inbox
 
 	"MailFrom1"	"송신자: 숀 밍"
 	"MailDate1"	"날짜: 52년 12월 21일"
@@ -12,7 +12,7 @@
 	"MailBody1C"	"내 밑에서 일하는 과학자들만 빼고 모두 실험실에서 꺼내주세요.  그 누구도 2 갑판에 들어가는 것을 허락해서는 안 됩니다.  군단이 어떻게 성숙해졌는지에 대한 저의 가정을 시험하기 위해서, 살아있는 무언가가 필요합니다.  그들의 입맛을 만족시키려면 적어도 개의 크기 정도는 되어야 한다고 생각해요.  당신에게 기대해봐도 될까요?"
 	"MailBody1D"	"S. 밍"
 
-	// sent mail
+	// Sent
 
 	"MailFrom3"	"수신자: 숀 밍"
 	"MailDate3"	"날짜: 52년 12월 21일"

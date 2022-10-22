@@ -1,8 +1,8 @@
 ﻿GAME
 {
-	// PDA belongs to Brian
+	// PDA belongs to Brian Howe
 
-	// inbox
+	// Inbox
 
 	"MailFrom1"	"송신자: 헬렌 영"
 	"MailDate1"	"날짜: 52년 12월 19일"
@@ -11,7 +11,7 @@
 	"MailBody1B"	"저희는 그 숫자들을 조사해왔어요.  성장, 수명 및 신진대사를 위한 모든 모델은 개인이 아니라 전체 인구에 적용될 때만 작용해요."
 	"MailBody1C"	"어떤 면에서, 그 것들은 진보된 벌집 곤충들, 하나의 진보된 초유기체 같은 것이에요.  봉쇄는 필수입니다."
 
-	// sent mail
+	// Sent
 
 	"MailFrom3"	"수신자: 헬렌 영"
 	"MailDate3"	"날짜: 52년 12월 19일"

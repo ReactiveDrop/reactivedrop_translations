@@ -2,7 +2,7 @@
 {
 	// PDA belongs to Brian Howe
 
-	// inbox
+	// Inbox
 
 	"MailFrom1"	"송신자: 헬렌 영"
 	"MailDate1"	"날짜: 52년 12월 23일"
@@ -12,7 +12,7 @@
 	"MailBody1C"	"한편, 오늘 아침에 그 멍청이 밍에게 메일을 받았어.  그와 사람들이 실험실에서 여전히 일하고 있는 것 같아, 네가 발견한 알들을 연구하면서.  그의 연구가 동맹의 승인을 받지 않은게 확실해."
 	"MailBody1D"	"나중에 봐--헬렌."
 
-	// sent mail
+	// Sent
 
 	"MailFrom3"	"수신자: 헬렌 영"
 	"MailDate3"	"날짜: 52년 12월 23일"

@@ -2,6 +2,8 @@
 {
 	// PDA belongs to Helen Young
 
+	// Inbox
+
 	"MailFrom1"	"송신자: 숀 밍"
 	"MailDate1"	"날짜: 52년 12월 22일"
 	"MailSubject1"	"주제: 진전"

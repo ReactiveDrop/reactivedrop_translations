@@ -1,6 +1,6 @@
 GAME
 {
-	// PC belongs to Doctor Lin Da Silva
+	// Computer belongs to Dr. Lin Da Silva
 
 	// Inbox
 
@@ -16,7 +16,7 @@ GAME
 	"MailBody2A"	"네, 확실히 알겠습니다, 다 실바 박사님."
 	"MailBody2B"	"남 휴머니움 :)"
 
-	// Sent mail
+	// Sent
 
 	"MailFrom3"	"수신자: 조나단 돌랜드"
 	"MailDate3"	"날짜: 02/13/42"
@@ -26,7 +26,7 @@ GAME
 	"MailBody3C"	"이게 내 와일드 카드라고 생각해, 조니, 또는 당신이 좋아하는 다른 방법이지. 모로 박사는 연구에 관한 모든 결정을 책임지고 있어. 넌 여기 조수일 뿐이니까, 그것만 알면 돼. 그러니 "이번 한 번만" 당신의 위치에서 머무르도록 노력하도록 해."
 	"MailBody3D"	"일이 잘 해결되길 바라나?"
 
-	"MailFrom4"	"수신자: 게일 플로렌자 중위"
+	"MailFrom4"	"수신자: 게일 플로렌자"
 	"MailDate4"	"날짜: 01/01/43"
 	"MailSubject4"	"주제: (없음)"
 	"MailBody4A"	"당신이 이 일을 끝낼 수 있다면 네, 실험실에 접근할 수 있도록 확실히 해두겠습니다."

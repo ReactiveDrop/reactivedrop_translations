@@ -1,6 +1,8 @@
 ﻿GAME
 {
-	// inbox
+	// PDA belongs to Hullen
+
+	// Inbox
 
 	"MailFrom1"	"송신자: 밍"
 	"MailDate1"	"날짜: 52년 12월 27일"
@@ -19,7 +21,7 @@
 	"MailBody2C"	"그것은 호득손과 제니를 죽였어.  내 말 들려, 당신이 제니를 죽였어!"
 	"MailBody2D"	"그것은 날 물었고, 내 안에 뭔가 움직이는게 느껴져... 자라고있어... 당신을 증오해."
 
-	// sent mail
+	// Sent
 
 	"MailFrom3"	"수신자: 마틴 제리코"
 	"MailDate3"	"날짜: 52년 12월 26일"

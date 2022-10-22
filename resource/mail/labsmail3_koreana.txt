@@ -2,7 +2,7 @@
 {
 	// PDA belongs to Rivera
 
-	// inbox
+	// Inbox
 
 	"MailFrom1"	"송신자: 로라 캘런"
 	"MailDate1"	"날짜: 52년 12월 23일"
