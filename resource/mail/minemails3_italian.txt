@@ -1,8 +1,8 @@
 GAME
 {
-	// PDA di proprietà di Brad Campbell
+	// PDA belongs to Brad Campbell
 
-	// inbox
+	// Inbox
 
 	"MailFrom1"	"Da: David Anders"
 	"MailDate1"	"Data: 12/12/52"
@@ -16,7 +16,7 @@ GAME
 	"MailBody2A"	"Brad,"
 	"MailBody2B"	"Accidenti. Ho parlato con Pete e Kovac. Ammettono apertamente che le persone hanno iniziato a usare di nuovo Daxol regolarmente. Proprio quando pensavamo che le cose stessero tornando alla normalità. Cosa volete che faccia?"
 
-	// mail spedita
+	// Sent
 
 	"MailFrom3"	"A: David Anders"
 	"MailDate3"	"Data: 12/12/52"

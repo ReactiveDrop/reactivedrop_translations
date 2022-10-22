@@ -1,5 +1,7 @@
 GAME
 {
+	// Sent
+
 	"MailFrom1"	"A: Jacob Stankiewich"
 	"MailDate1"	"Data: 01/04/31"
 	"MailSubject1"	"Soggetto: Re: Informazioni da Retller &HIDDEN"

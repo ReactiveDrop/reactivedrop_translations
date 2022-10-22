@@ -1,17 +1,17 @@
 GAME
 {
-	// PDA di proprietà del Dottor Lin Da Silva
+	// PDA belongs to Dr. Lin Da Silva
 
-	// In arrivo
+	// Inbox
 
 	"MailFrom1"	"Da: Dr. Jacques Moreau"
 	"MailDate1"	"Data: 10/02/42"
-	"MailSubject1"	"Soggetto: RE: Trasferimento dello staff scientifico"
+	"MailSubject1"	"Soggetto: Re: Trasferimento dello staff scientifico"
 	"MailBody1A"	"Dr. Da Silva, la mia ricerca mi richiede di mantenere la precisione a livelli quasi chirurgici. E con questo, in effetti, la giusta concentrazione. 'Corretto' come nel non essere continuamente interrotto da preoccupazioni banali."
 	"MailBody1B"	"Sebbene apprezzi l'enorme aiuto fornito finora dai vostri assistenti, le operazioni in corso - di cui sono responsabile in virtù delle mie attribuzioni di scienziato capo di questa missione - si concluderanno sommariamente se tutti alla fine acconsentiranno a lasciarmi al mio lavoro."
 	"MailBody1C"	"Grazie."
 
-	// Mail inviate
+	// Sent
 
 	"MailFrom3"	"A: Dr. Jacques Moreau"
 	"MailDate3"	"Data: 09/02/42"
@@ -23,7 +23,7 @@ GAME
 
 	"MailFrom4"	"A: Dr. Jacques Moreau"
 	"MailDate4"	"Data: 10/02/42"
-	"MailSubject4"	"Soggetto: RE: RE: Trasferimento dello staff scientifico"
+	"MailSubject4"	"Soggetto: Re: Re: Trasferimento dello staff scientifico"
 	"MailBody4A"	"Dr. Moreau,"
 	"MailBody4B"	"Certo, ho capito. Non era mia intenzione mettere in discussione i suoi metodi. Gli argomenti aggiuntivi le saranno spediti entro la fine della settimana. Nam Humanum."
 	"MailBody4C"	"Cordiali saluti,"

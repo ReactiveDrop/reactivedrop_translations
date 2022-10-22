@@ -1,5 +1,7 @@
 GAME
 {
+	// Sent
+
 	"MailFrom1"	"A: #veryone"
 	"MailDate1"	"Data: 10/19/30"
 	"MailSubject1"	"Soggetto: AMBER FAI SCHIFO"

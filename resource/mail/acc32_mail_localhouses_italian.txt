@@ -1,5 +1,7 @@
 GAME
 {
+	// Inbox
+
 	"MailFrom1"	"Da: Case locali"
 	"MailDate1"	"Data: 14 Nov 2232"
 	"MailSubject1"	"Soggetto: La nostra sicurezza"

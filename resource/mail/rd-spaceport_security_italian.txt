@@ -1,8 +1,8 @@
 GAME
 {
-	// PDA di proprietà di Tony Dawson
+	// PDA belongs to Tony Dawson
 
-	// inbox
+	// Inbox
 
 	"MailFrom1"	"Da: Barbara Whyte"
 	"MailDate1"	"Data: 06/10/57"
@@ -20,7 +20,7 @@ GAME
 	"MailBody2C"	""
 	"MailBody2D"	"Andrew Smithson - Manutenzione dello spazioporto"
 
-	// mail spedita
+	// Sent
 	"MailFrom3"	"A: Barbara Whyte"
 	"MailDate3"	"Data: 06/10/57"
 	"MailSubject3"	"Soggetto: Oggetto confiscato"

@@ -1,8 +1,8 @@
 GAME
 {
-	// PDA di proprietà di Jan Anath
+	// PDA belongs to Jan Anath
 
-	// inbox
+	// Inbox
 
 	"MailFrom1"	"Da: Windom King"
 	"MailDate1"	"Data: 02/29/53"
@@ -12,8 +12,7 @@ GAME
 	"MailBody1C"	""
 	"MailBody1D"	"Capo della Sicurezza W. King"
 
-
-	// mail spedita
+	// Sent
 
 	"MailFrom3"	"A: Windom King"
 	"MailDate3"	"Data: 02/29/53"
