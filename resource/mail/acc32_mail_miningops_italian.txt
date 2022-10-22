@@ -1,5 +1,7 @@
 GAME
 {
+	// Inbox
+
 	"MailFrom1"	"Da: Operazione News [Jose Dunclub]"
 	"MailDate1"	"Data: 15 Ott 2232"
 	"MailSubject1"	"Oggetto: Operazioni minerarie"

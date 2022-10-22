@@ -1,5 +1,7 @@
 GAME
 {
+	// Inbox
+
 	"MailFrom1"	"Da: Operazione News [Laura]"
 	"MailDate1"	"Data: 19 Ott 2232"
 	"MailSubject1"	"Oggetto: Ricerca volume 2"

@@ -1,5 +1,6 @@
 GAME
 {
+	// Inbox
 
 	"MailFrom1"	"Da: Comandante Houghton"
 	"MailDate1"	"Data: 12/30/52"

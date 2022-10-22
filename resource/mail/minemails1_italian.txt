@@ -1,6 +1,8 @@
 GAME
 {
-	// PDA di proprietà di coloni vari
+	// PDA belongs to coloni vari
+
+	// Inbox
 
 	"MailFrom1"	"Da: John Cain"
 	"MailDate1"	"Data: 24/12/52"

@@ -2,7 +2,7 @@ GAME
 {
 	// Hackerato nella storia della rete: Tenente Gael Florenza
 
-	// Mail inviate
+	// Sent
 
 	"MailFrom3"	"A: Iris Florenza"
 	"MailDate3"	"Data: 18/01/40"

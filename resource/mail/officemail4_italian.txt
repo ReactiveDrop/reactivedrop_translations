@@ -1,8 +1,8 @@
 GAME
 {
-	// PDA di proprietà di Mr Tanner
+	// PDA belongs to Mr Tanner
 
-	// inbox
+	// Inbox
 
 	"MailFrom1"	"Da: Kate Edwards"
 	"MailDate1"	"Data: 12/22/52"
@@ -16,7 +16,4 @@ GAME
 	"MailSubject2"	"Soggetto: Cara Sig.ra Kate Edwards"
 	"MailBody2A"	"I nostri ufficiali di servizio hanno trovato sei bottiglie di Isothamine 23 quando hanno scannerizzato l'ordine 9476-B. Questa consegna è stata indirizzata a te. Come sicuramente saprai, è illegale acquistare, possedere o vendere questo prodotto ovunque nell'Orlo Esterno. (# 205-P / 7.7.12) Chiama (+34987) e prendi immediatamente contatto con uno dei nostri agenti di sicurezza."
 	"MailBody2B"	"Muriel Blanc, Dogane e tasse SynTek"
-
-	// mail spedita
-
 }

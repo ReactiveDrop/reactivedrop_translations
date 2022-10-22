@@ -1,8 +1,8 @@
 GAME
 {
-	// PDA di proprietà di Brian
+	// PDA belongs to Brian Howe
 
-	// inbox
+	// Inbox
 
 	"MailFrom1"	"Da: Helen Young"
 	"MailDate1"	"Data: 12/23/52"
@@ -18,6 +18,4 @@ GAME
 	"MailBody2A"	"Brian, per favore contattami! Dove sei? Sono preoccupata, d'accordo? Ming sta sperimentando su quelle uova - esperimenti che so essere illegali. Questa mattina hanno sigillato il ponte 1; ci sono voci di contaminazione ma nessuna conferma. SynTek vuole tenerci al oscuro. Abbiamo anche sentito degli spari da qualche parte nel complesso principale."
 	"MailBody2B"	"Perfavore contattami. Non sopporto il pensiero che tu sia ancora laggiù da qualche parte."
 	"MailBody2C"	"Helen"
-
-	// spediti
 }

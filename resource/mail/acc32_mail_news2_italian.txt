@@ -1,5 +1,7 @@
 GAME
 {
+	// Inbox
+
 	"MailFrom1"	"Da: Fox News"
 	"MailDate1"	"Data: 03 gennaio 2233"
 	"MailSubject1"	"Oggetto: Diario delle notizie degli ultimi 1 mesi."

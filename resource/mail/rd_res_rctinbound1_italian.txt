@@ -1,7 +1,7 @@
 GAME
 {
 
-	// inbox
+	// Inbox
 
 	"MailFrom1"	"Da: Shaun Ming"
 	"MailDate1"	"Data: 22/12/52"
@@ -19,7 +19,7 @@ GAME
 	"MailBody2C"	"In realtà sono allergica alla vegetazione di Xenon, forse possiamo uscire per bere invece, e forse dopo..."
 	"MailBody2D"	"Jenny ;) xxxxx"
 
-	// mail spedita
+	// Sent
 
 	"MailFrom3"	"A: Shaun Ming"
 	"MailDate3"	"Data: 26/12/52"

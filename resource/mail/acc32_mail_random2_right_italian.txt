@@ -1,5 +1,7 @@
 GAME
 {
+	// Inbox
+
 	"MailFrom1"	"Da: Helen Baker"
 	"MailDate1"	"Data: 01/07/31"
 	"MailSubject1"	"Oggetto: Aggiornamento sul tubo"

@@ -1,5 +1,7 @@
 GAME
 {
+	// Sent
+
 	"MailFrom1"	"A: Brad Irwing"
 	"MailDate1"	"Data: 04/02/31"
 	"MailSubject1"	"Soggetto: RISPONDIMI! &HIDDEN"
