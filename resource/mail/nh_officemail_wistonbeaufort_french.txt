@@ -2,11 +2,11 @@ GAME
 {
 	// Computer belongs to Chief Surgeon Wiston Beaufort
 
-	// Sent messages
+	// Sent
 
-	"MailFrom3"	"À : Dr. Jacques Moreau"
-	"MailDate3"	"Date : 18/05/42"
-	"MailSubject3"	"Objet : Opération d’Arthur Carradine"
+	"MailFrom3"	"À: Dr. Jacques Moreau"
+	"MailDate3"	"Date: 18/05/42"
+	"MailSubject3"	"Objet: Opération d’Arthur Carradine"
 	"MailBody3A"	"Cher monsieur,"
 	"MailBody3B"	"L’amygdalectomie du Capitaine Carradine s’est déroulée sans complication."
 	"MailBody3C"	"Si l’opération m’a été sollicitée par le patient même, je crois comprendre que vous y avez personnellement consenti. Je m’estime donc tenu de vous alerter quant à la nature de l’ablation totale des amygdales du cerveau que nous venons d’entreprendre, et ses conséquences irrémédiables quant au système limbique du patient ; principalement parlant, l’altération de ses réactions (ou plutôt, son absence de) aux situations d’anxiété, de peur ou d’agressivité. Sachez seulement qu’il existe bel et bien un raisonnement à ce pourquoi cette procédure chirurgicale, qui ne concernait d’ailleurs que les plus sévères des cas, n’avait pas été pratiquée en plus de deux siècles de médecine."

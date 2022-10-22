@@ -1,20 +1,20 @@
 GAME
 {
-	// Hacked into network history: Lieutenant Gael Florenza
+	// Hacked into network history: Lt. Gael Florenza
 
-	// Sent mail
+	// Sent
 
-	"MailFrom3"	"À : Iris Florenza"
-	"MailDate3"	"Date : 25/06/42"
-	"MailSubject3"	"Objet : Événements étranges"
+	"MailFrom3"	"À: Iris Florenza"
+	"MailDate3"	"Date: 25/06/42"
+	"MailSubject3"	"Objet: Événements étranges"
 	"MailBody3A"	"Mon cœur,"
 	"MailBody3B"	"Il se passe des choses étranges à Lugdunum. Ce n’est pas mon souhait de t’inquiéter, mais traduire mon état d’esprit à l’écrit m’est quelque peu thérapeuthique."
 	"MailBody3C"	"Je ne sais pas comment, mais des colons disparaissent. Sarah, la dernière d’entre eux, est une jeune sergente récemment affectée à mon unité. Bien qu’elle soit cavalière, je n’imagine pas qu’elle puisse se volatiliser du jour au lendemain d’elle-même... sans parler de toute la logistique derrière cette seule idée. Cpt. Carradine m’affirme prendre le problème très au sérieux, mais je ne l’ai pas encore entendu proposer de solution concrète. Si quelqu’un kidnappe des gens au sein de la colonie, ne devrions-nous pas quadriller la zone et/ou opérer à des fouilles d’habitations ? Le Dr. Moreau, quant à lui, semble entièrement plongé dans ses recherches sur la grotte trouvée 6 mois plus tôt. Seules les équipes scientifiques gardent contact avec son laboratoire, et encore son personnel proche semble s’être réduit de moitié. Aujourd’hui plus que jamais, j’aurai souhaité que Mme. Moreau soit encore parmi nous. Elle, au moins, aurait conservé un semblant de transparence avec les siens."
 	"MailBody3D"	"Ton mari qui t’aime."
 
-	"MailFrom4"	"À : Iris Florenza"
-	"MailDate4"	"Date : 14/11/42"
-	"MailSubject4"	"Objet : Révélation"
+	"MailFrom4"	"À: Iris Florenza"
+	"MailDate4"	"Date: 14/11/42"
+	"MailSubject4"	"Objet: Révélation"
 	"MailBody4A"	"[Échec de l’envoi: Communications interplanétaires limitées]"
 	"MailBody4B"	"Laura, je souffre à l’idée même de partager cette nouvelle avec toi. Depuis le premier jour, le Dr. Moreau est à l’origine des disparitions. Il a décidé de ne plus s’en cacher dès qu’il apparut évident que les “volontaires” étaient emmenés vers son laboratoire personnel sous supervision du Capitaine."
 	"MailBody4C"	"J’ignore ce qu’ils font avec eux. Certains parmi les colons nous incitent, gardiens, à leur dire la vérité. J’ai peur qu’ils ne puissent supporter la vérité... et peut-être que moins non plus. Mais puisque nous avons les armes, on décide si oui ou non ils sont en mesure de protester. Hier ou avant-hier, une femme en larmes s’est jeté sur mon arme... alors j’ai tiré. Chaque seconde qui s’écoule depuis, je me demande quand et comment nous en sommes venus à traiter nos voisins comme du vulgaire bétail. J’ai... des rêves étranges. Des rêves d’Helen Moreau. Je ne peux qu’espérer que son mari agisse pour nous tous, pour notre progrès. Un mal pour un plus grand bien, car je ne peux l’accepter autrement."
