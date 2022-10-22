@@ -1,5 +1,7 @@
 GAME
 {
+	// Inbox
+
 	"MailFrom1"	"From: Fox News"
 	"MailDate1"	"Date: Jan 03, 2233"
 	"MailSubject1"	"Subject: News log for the past 1 months."

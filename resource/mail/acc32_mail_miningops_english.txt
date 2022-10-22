@@ -1,5 +1,7 @@
 GAME
 {
+	// Inbox
+
 	"MailFrom1"	"From: Operation News [Jose Dunclub]"
 	"MailDate1"	"Date: 10/15/32"
 	"MailSubject1"	"Subject: Mining Operations"

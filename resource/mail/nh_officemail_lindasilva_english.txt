@@ -1,6 +1,6 @@
 GAME
 {
-	// PC belongs to Doctor Lin Da Silva
+	// Computer belongs to Dr. Lin Da Silva
 
 	// Inbox
 
@@ -12,21 +12,21 @@ GAME
 
 	"MailFrom2"	"From: Jonathan Dorland"
 	"MailDate2"	"Date: 02/14/42"
-	"MailSubject2"	"Subject: RE: RE: Dr. Moreau?"
+	"MailSubject2"	"Subject: Re: Re: Dr. Moreau?"
 	"MailBody2A"	"Aye, pretty clear indeed, Doctor Da Silva."
 	"MailBody2B"	"Nam Humanum :)"
 
-	// Sent mail
+	// Sent
 
 	"MailFrom3"	"To: Jonathan Dorland"
 	"MailDate3"	"Date: 02/13/42"
-	"MailSubject3"	"Subject: RE: Dr. Moreau?"
+	"MailSubject3"	"Subject: Re: Dr. Moreau?"
 	"MailBody3A"	"Please read with care, Jonathan."
 	"MailBody3B"	"You do not get to call me by my first name, let alone think you can get all familiar with me. Let’s keep this relationship strictly professional, unless perhaps you are in need of a small reminder about some New Havre’s rat hole? Which hole I wonder, crawling inside it some lowly felon who would have thrown its sorry existence on a cargo ship had a stupid girl with too much kindness not stretched him an open hand."
 	"MailBody3C"	"Think of this as my wild card, Johnny, or however else you like. Dr. Moreau is in charge of all decisions regarding research. Given you’re only an assistant here, that’s all you need to know. So do try and stay in your depth, “just this once”."
 	"MailBody3D"	"Hoping things are cleared out for you?"
 
-	"MailFrom4"	"To: Lt. Gael Florenza"
+	"MailFrom4"	"To: Gael Florenza"
 	"MailDate4"	"Date: 01/01/43"
 	"MailSubject4"	"Subject: (Empty)"
 	"MailBody4A"	"If you can put an end to this then yes, I will make sure your access to the labs is clear."
