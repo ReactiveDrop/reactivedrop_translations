@@ -2,7 +2,7 @@ GAME
 {
 	// PDA belongs to Walter Jackson
 
-	// inbox
+	// Inbox
 
 	"MailFrom1"	"송신자: 신텍 보안팀"
 	"MailDate1"	"날짜: 52년 10월 7일"
@@ -12,9 +12,9 @@ GAME
 	"MailBody1C"	"모든 직원은 지금 당장 대피 규정을 따라야 합니다."
 	"MailBody1D"	"안전하게 있으십시오.   -신텍 보안팀"
 
-	// sent mail
+	// Sent
 
-	"MailFrom3"	"수신자: 구역 장 잭슨"
+	"MailFrom3"	"수신자: 월터 잭슨"
 	"MailDate3"	"날짜: 52년 10월 7일"
 	"MailSubject3"	"주제: 발전기들"
 	"MailBody3A"	"발전기로 향하는 문을 잠궈뒀으니 전력은 괜찮을 것 입니다.  우린 최소한 불이 켜져있고 전력이 돌아가면 대피할 수 있습니다."

@@ -1,10 +1,10 @@
 GAME
 {
-	// PDA belongs to Sergeant Sarah Weiss
+	// PDA belongs to Sgt. Sarah Weiss
 
-	// Sent mail
+	// Sent
 
-	"MailFrom3"	"수신자: 게일 플로렌자 중위"
+	"MailFrom3"	"수신자: 게일 플로렌자"
 	"MailDate3"	"날짜: 06/16/42"
 	"MailSubject3"	"주제: 카라딘입니다"
 	"MailBody3A"	"[송신 실패: PDA가 네트워크에서 접속이 끊겼습니다]"

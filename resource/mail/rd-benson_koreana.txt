@@ -2,7 +2,8 @@
 {
 	// PDA belongs to George Benson
 
-	// inbox
+	// Inbox
+
 	"MailFrom1"	"송신자: 물류 창고"
 	"MailDate1"	"날짜: 53년 10월 24일"
 	"MailSubject1"	"주제: 회신: 전기톱?!"
@@ -11,7 +12,8 @@
 	"MailBody1C"	"전기톱에 대해 말하자면, 절벽에서 던져버리거나 하세요.  어떤 멍청이가 실수로 그것들을 잔뜩 주문했는데 그 이후로 창고에 공간을 차지하게 해야했습니다.  마치 우리가 이 바위에 전기톱을 필요로 하는 것처럼요!"
 	"MailBody1D"	"- 밥 베른스, 물류 창고 책임자"
 
-	// sent mail
+	// Sent
+
 	"MailFrom3"	"수신자: 물류 창고"
 	"MailDate3"	"날짜: 53년 10월 23일"
 	"MailSubject3"	"주제: 전기톱?!"

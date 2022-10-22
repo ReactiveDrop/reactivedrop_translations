@@ -1,5 +1,6 @@
 ﻿GAME
 {
+	// Inbox
 
 	"MailFrom1"	"송신자: 휴턴 사령관"
 	"MailDate1"	"날짜: 52년 12월 30일"

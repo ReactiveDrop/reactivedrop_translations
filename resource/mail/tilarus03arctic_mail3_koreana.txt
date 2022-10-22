@@ -2,7 +2,7 @@ GAME
 {
 	// PDA belongs to Martin Bauer
 
-	// inbox
+	// Inbox
 
 	"MailFrom1"	"송신자: 신텍 자료 분석가"
 	"MailDate1"	"날짜: 52년 10월 5일"
@@ -12,7 +12,7 @@ GAME
 	"MailBody1C"	"더 이상 잃어버리지 않길 바랍니다.  하하!  ;D"
 	"MailBody1D"	"경의를 담아, 마이크 파머"
 
-	// sent mail
+	// Sent
 
 	"MailFrom3"	"수신자: 신텍 자료 분석가"
 	"MailDate3"	"날짜: 52년 10월 5일"
