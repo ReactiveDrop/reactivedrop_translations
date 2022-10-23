@@ -6,9 +6,9 @@ GAME
 
 	"MailFrom3"	"A: Iris Florenza"
 	"MailDate3"	"Data: 31/03/43"
-	"MailSubject3"	"Soggetto: Nam Humanum."
+	"MailSubject3"	"Soggetto: Nam Humanum"
 	"MailBody3A"	"[Invio non riuscito: comunicazioni fuori dal mondo limitate]"
 	"MailBody3B"	"Iris, amore della mia vita. Questo messaggio, proprio come l'ultimo che ti ho inviato, sarà intercettato dal team di comunicazione nel momento in cui ho programmato la sua trasmissione, tra 3 ore. Ma forse un giorno ti raggiungerà finalmente, in un modo o nell'altro."
 	"MailBody3C"	"Sto per prendere le armi contro Moreau e i suoi esperimenti disumani. Ho il supporto di molti coloni, così come della mia unità. Nonostante ciò, temo e so che potrebbe essere un biglietto di sola andata per molti di noi. Mi dispiace, amore mio. Ho cercato di convincermi del merito di tutto, davvero. Mi dispiace, per te e per il ragazzo che non mi conoscerà mai. Ma come potrei essere il padre di un bambino senza umanità da impartire."
-	"MailBody3D"	"Per sempre tuo."
+	"MailBody3D"	"Per sempre tuo"
 }

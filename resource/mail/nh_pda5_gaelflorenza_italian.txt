@@ -10,7 +10,7 @@ GAME
 	"MailBody3A"	"Caro Amore,"
 	"MailBody3B"	"A Lugdunum stanno accadendo cose strane. Non è mio desiderio farti preoccupare, ma tradurre il mio stato d'animo in lettere è in qualche modo terapeutico."
 	"MailBody3C"	"Non so come, ma i coloni stanno semplicemente scomparendo. Sarah, l'ultima di loro, è un giovane sergente recentemente assegnato alla mia unità. Ha un atteggiamento serio e sprezzante ma mai tanto da svanire in questo modo di punto in bianco... per non parlare dell'intera logistica dietro questa stupida idea. Il Cap. Carradine dice di prendere il problema molto sul serio, ma devo ancora sentirlo elaborare un piano concreto. Se qualcuno rapisce persone all'interno della colonia, non dovremmo ispezionare l'area e/o effettuare ricerche sulla residenza? Il dottor Moreau, da parte sua, sembra concentrato esclusivamente sulla sua ricerca su quella grotta che abbiamo trovato 6 mesi fa. Solo le équipe scientifiche sono ancora in contatto con il suo laboratorio, e anche allora il suo stretto staff sembra essersi ridotto di oltre la metà. Oggi di tutti i giorni, vorrei davvero che Miss Helen fosse ancora con noi. Avrebbe saputo di meglio che tenere all'oscuro la sua stessa gente."
-	"MailBody3D"	"Il tuo amorevole marito."
+	"MailBody3D"	"Il tuo amorevole marito"
 
 	"MailFrom4"	"A: Iris Florenza"
 	"MailDate4"	"Data: 14/11/42"
@@ -18,5 +18,5 @@ GAME
 	"MailBody4A"	"[Invio non riuscito: comunicazioni fuori dal mondo limitate]"
 	"MailBody4B"	"Iris, mi addolora anche solo pensare di condividere questa notizia con te. Fin dal primo giorno, il dottor Moreau è stato quello che ha organizzato le sparizioni. Ha rinunciato alle sue bugie e alla sua copertura non appena è diventato chiaro che questi cosiddetti "volontari" continuavano a essere inviati ai suoi laboratori con il chiaro sostegno del Cpt. Carradine."
 	"MailBody4C"	"Non so cosa stiano facendo con loro. Alcuni tra i coloni stanno facendo pressioni su noi custodi per la verità. Temo che non possano gestire la verità... e forse nemmeno io. Ma dal momento che siamo quelli con le pistole, dobbiamo decidere se possono mostrare o meno qualcosa che assomigli a una rissa. Ieri o il giorno prima, una donna ha preso la mia arma in lacrime di rabbia... così le ho sparato. Ogni secondo da allora, mi chiedo quando o come abbiamo trattato i coetanei come semplici bovini. Ho fatto... strani sogni. A proposito di Helen Moreau. Posso solo sperare che suo marito agisca a favore del progresso, per il benessere di tutti noi. Un male per un bene più grande, perché non posso accettarlo diversamente."
-	"MailBody4D"	"Tuo marito, che ti ama qualunque cosa accada."
+	"MailBody4D"	"Tuo marito, che ti ama qualunque cosa accada"
 }

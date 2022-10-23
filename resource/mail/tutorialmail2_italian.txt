@@ -16,5 +16,5 @@ GAME
 	"MailDate3"	"Data: 12/18/52"
 	"MailSubject3"	"Soggetto: Re: Alcohol e donne?"
 	"MailBody3A"	"Certo J."
-	"MailBody3B"	"Avevo comuqnue finito il Daxol. Ci vediamo."
+	"MailBody3B"	"Avevo comuqnue finito il Daxol. Ci vediamo"
 }

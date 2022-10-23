@@ -9,7 +9,7 @@ GAME
 	"MailSubject1"	"Soggetto: Re: Trasferimento dello staff scientifico"
 	"MailBody1A"	"Dr. Da Silva, la mia ricerca mi richiede di mantenere la precisione a livelli quasi chirurgici. E con questo, in effetti, la giusta concentrazione. 'Corretto' come nel non essere continuamente interrotto da preoccupazioni banali."
 	"MailBody1B"	"Sebbene apprezzi l'enorme aiuto fornito finora dai vostri assistenti, le operazioni in corso - di cui sono responsabile in virtù delle mie attribuzioni di scienziato capo di questa missione - si concluderanno sommariamente se tutti alla fine acconsentiranno a lasciarmi al mio lavoro."
-	"MailBody1C"	"Grazie."
+	"MailBody1C"	"Grazie"
 
 	// Sent
 
