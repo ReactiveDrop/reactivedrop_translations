@@ -1,5 +1,7 @@
 ﻿GAME
 {
+	// PDA belongs to Leonid Toptunov
+
 	// Sent
 
 	"MailFrom1"	"宛先: ネイサン・ポー"
