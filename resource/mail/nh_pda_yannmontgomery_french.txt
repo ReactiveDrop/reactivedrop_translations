@@ -9,7 +9,7 @@ GAME
 	"MailSubject1"	"Objet: Re: Observations liminaires"
 	"MailBody1A"	"Je vous remercie pour votre temps, professeur. Votre expertise confirme la majorité de mes suppositions. Soyez certain au passage que les mesures de confinement sont suivies à la lettre. Avant que nous soyons parfaitement sûrs de ce à quoi nous avons affaire, je vous demanderai toutefois de vous garder de contacter Phalanx pour le moment."
 	"MailBody1B"	"Vous serez notifié dans le futur en cas de besoin."
-	"MailFrom1C"	"Nam Humanum."
+	"MailFrom1C"	"Nam Humanum"
 
 	// Sent
 
@@ -27,5 +27,5 @@ GAME
 	"MailBody4A"	"Monsieur Dorland,"
 	"MailBody4B"	"Bien que je partage vos préoccupations quant aux récentes décisions du Docteur Moreau, je ne peux décemment vous exposer mes observations suivant mon passage au sein de son laboratoire. L’éthique professionnelle m’en interdit, aussi je ne vous retrouverai pas pour déjeuner."
 	"MailBody4C"	"Qui plus est, le Capitaine Carradine m’ayant enjoint à assister aux recherches à commencer cette matinée, il m’aurait été impossible de vous rejoindre de toute manière."
-	"MailBody4D"	"Bonne continuation à vous."
+	"MailBody4D"	"Bonne continuation à vous"
 }

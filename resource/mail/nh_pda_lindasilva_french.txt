@@ -9,7 +9,7 @@ GAME
 	"MailSubject1"	"Objet: Re: Transfert du personnel scientifique"
 	"MailBody1A"	"Dr. Da Silva, mes recherches requièrent de moi une précision chirurgicale mais aussi, et bien plus essentiellement, une concentration tranquille et ininterrompue."
 	"MailBody1B"	"Bien que j’apprécie l’aide considérable fournie jusqu’ici par vos assistants, les opérations en cours - et dont je porte la charge en vertu des mes attributions en tant que scientifique en chef de cette mission- arriveront promptement à terme si tout le monde accepte enfin de me laisser à mon travail."
-	"MailBody1C"	"Bien à vous."
+	"MailBody1C"	"Bien à vous"
 
 	// Sent
 
