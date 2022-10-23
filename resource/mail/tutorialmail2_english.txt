@@ -16,5 +16,5 @@ GAME
 	"MailDate3"	"Date: 12/18/52"
 	"MailSubject3"	"Subject: Re: Booze and babes?"
 	"MailBody3A"	"Sure thing J."
-	"MailBody3B"	"I'm out of Daxol anyways. See you."
+	"MailBody3B"	"I'm out of Daxol anyways. See you"
 }

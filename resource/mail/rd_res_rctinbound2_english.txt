@@ -28,5 +28,5 @@ GAME
 	"MailBody3A"	"Hello Martin,"
 	"MailBody3B"	"I've recieved several specimens from Vereon XII, don't ask how. One of the specmens appears to have died during transport."
 	"MailBody3C"	"I can't use the incinerator here without the higher ups finding out, I'm sending it to your mines for disposal in one of the lava pits."
-	"MailBody3D"	"Hullen."
+	"MailBody3D"	"Hullen"
 }

@@ -7,5 +7,5 @@ GAME
 	"MailSubject1"	"Subject: Research volume 2"
 	"MailBody1A"	"Holy fuck, our stronger detectors have identified that the rock is made out of muons, not electrons."
 	"MailBody1B"	"This is terrible news, it might be way more radioactive than we thought... Better gauges are being developed now and we are all in isolation until we figure out if we are safe or not."
-	"MailBody1C"	"Laura."
+	"MailBody1C"	"Laura"
 }

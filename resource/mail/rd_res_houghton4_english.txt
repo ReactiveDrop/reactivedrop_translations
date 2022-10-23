@@ -8,5 +8,5 @@ GAME
 	"MailBody1A"	"Interesting, it looks as though the infestation might go deeper than first thought."
 	"MailBody1B"	"According to information from Vereon XII, the swarm parasites like the damp."
 	"MailBody1C"	"The caves ahead could be crawling with them."
-	"MailBody1D"	"Houghton out."
+	"MailBody1D"	"Houghton out"
 }
