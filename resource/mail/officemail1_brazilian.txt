@@ -7,14 +7,14 @@ GAME
 	"MailFrom1"	"De: Shaun Ming"
 	"MailDate1"	"Data: 21/12/52"
 	"MailSubject1"	"Assunto: Testes"
-	"MailBody1A"	"Lt. Cain,"
+	"MailBody1A"	"Ten. Cain,"
 	"MailBody1B"	"Um gato?  Não vai dar.  Muito pequeno."
 	"MailBody1C"	"S. Ming"
 
 	"MailFrom2"	"De: Shaun Ming"
 	"MailDate2"	"Data: 22/12/52"
 	"MailSubject2"	"Assunto: Testes 2"
-	"MailBody2A"	"Lt. Cain,"
+	"MailBody2A"	"Ten. Cain,"
 	"MailBody2B"	"Isso deve funcionar.  Eu posso precisar de mais.  Isso seria um problema?  Espero não ter que enfatizar a importância dos meus exames."
 	"MailBody2C"	"S. Ming"
 }
