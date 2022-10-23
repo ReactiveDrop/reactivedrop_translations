@@ -4,7 +4,7 @@ GAME
 
 	// Sent
 
-	"MailFrom3"	"An: Dr. Lin Da Silva"
+	"MailFrom3"	"An: Lin Da Silva"
 	"MailDate3"	"Datum: 03/31/43"
 	"MailSubject3"	"Betreff: Was ist hier los?"
 	"MailBody3A"	"Lin, kannst du mir erklären, was da draußen los ist?"

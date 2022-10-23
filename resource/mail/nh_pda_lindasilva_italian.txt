@@ -4,7 +4,7 @@ GAME
 
 	// Inbox
 
-	"MailFrom1"	"Da: Dr. Jacques Moreau"
+	"MailFrom1"	"Da: Jacques Moreau"
 	"MailDate1"	"Data: 10/02/42"
 	"MailSubject1"	"Soggetto: Re: Trasferimento dello staff scientifico"
 	"MailBody1A"	"Dr. Da Silva, la mia ricerca mi richiede di mantenere la precisione a livelli quasi chirurgici. E con questo, in effetti, la giusta concentrazione. 'Corretto' come nel non essere continuamente interrotto da preoccupazioni banali."
@@ -13,7 +13,7 @@ GAME
 
 	// Sent
 
-	"MailFrom3"	"A: Dr. Jacques Moreau"
+	"MailFrom3"	"A: Jacques Moreau"
 	"MailDate3"	"Data: 09/02/42"
 	"MailSubject3"	"Soggetto: Trasferimento dello staff scientifico"
 	"MailBody3A"	"Dr. Moreau,"
@@ -21,7 +21,7 @@ GAME
 	"MailBody3C"	"Cordiali saluti,"
 	"MailBody3D"	"Dr. Lin Da Silva"
 
-	"MailFrom4"	"A: Dr. Jacques Moreau"
+	"MailFrom4"	"A: Jacques Moreau"
 	"MailDate4"	"Data: 10/02/42"
 	"MailSubject4"	"Soggetto: Re: Re: Trasferimento dello staff scientifico"
 	"MailBody4A"	"Dr. Moreau,"
