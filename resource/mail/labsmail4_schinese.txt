@@ -1,6 +1,6 @@
 GAME
 {
-	// PDA belongs to SysAdmin
+	// PDA belongs to Charles Rivera
 
 	// Inbox
 
@@ -27,5 +27,5 @@ GAME
 	"MailBody3A"	"尊敬的，"
 	"MailBody3B"	"谢谢你的邮件和你对公司的关注。我们已经仔细研究了你的要求，一旦我们的代理人有空，他将被派去处理这个问题。不要回复此邮件。我们会尽快与您联系。"
 	"MailBody3C"	"新特管理部/系统管理员"
-	"MailBody3D"	"里韦拉，C."
+	"MailBody3D"	"C. 里韦拉"
 }

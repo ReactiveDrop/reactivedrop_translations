@@ -16,5 +16,5 @@ GAME
 	"MailDate3"	"日期：12/18/52"
 	"MailSubject3"	"主题：回复：酒和美女?"
 	"MailBody3A"	"当然，胡。"
-	"MailBody3B"	"反正我用完了达索。再会。"
+	"MailBody3B"	"反正我用完了达索。再会"
 }
