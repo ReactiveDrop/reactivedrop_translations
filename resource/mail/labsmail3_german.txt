@@ -1,6 +1,6 @@
 GAME
 {
-	// PDA belongs to Rivera
+	// PDA belongs to Charles Rivera
 
 	// Inbox
 
@@ -15,5 +15,5 @@ GAME
 	"MailDate2"	"Datum: 12/24/52"
 	"MailSubject2"	"Betreff: Aw: Callen wird misstrauisch"
 	"MailBody2A"	"Rivera:  Ignoriere Callen und geh ihr aus dem Weg.  Leite alle Post, die sie an die IA geschickt hat, an mich weiter."
-	"MailBody2B"	"Lt. Cain, SynTek Security."
+	"MailBody2B"	"Lt. Cain, SynTek Security"
 }

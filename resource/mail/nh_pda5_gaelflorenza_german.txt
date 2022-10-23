@@ -10,12 +10,13 @@ GAME
 	"MailBody3A"	"Lieber Schatz,"
 	"MailBody3B"	"in Lugdunum geschehen seltsame Dinge. Ich will dich nicht beunruhigen, aber es wirkt irgendwie therapeutisch, wenn ich meinen Gemütszustand in Briefen ausdrücke."
 	"MailBody3C"	"Ich weiß nicht wie, aber die Siedler verschwinden einfach. Sarah, die jüngste von ihnen, ist eine junge Unteroffizierin, die kürzlich meiner Einheit zugeteilt wurde. Eine ernsthafte Kavaliershaltung, aber niemals so, dass sie aus heiterem Himmel verschwindet ... ganz zu schweigen von der ganzen Logistik hinter dieser dummen Idee. Cpt. Carradine sagt, er nehme das Problem sehr ernst, aber ich habe noch keinen konkreten Plan von ihm gehört. Wenn jemand Menschen in der Kolonie entführt, sollten wir dann nicht die Gegend überwachen und/oder Hausdurchsuchungen durchführen? Dr. Moreau seinerseits scheint sich ausschließlich auf seine Forschungen über die Höhle zu konzentrieren, die wir vor sechs Monaten gefunden haben. Nur die wissenschaftlichen Teams stehen noch in Kontakt mit seinem Labor, und selbst dann scheint sein enger Mitarbeiterstab um mehr als die Hälfte reduziert worden zu sein. Gerade heute wünschte ich mir, dass Miss Helen noch unter uns wäre. Sie hätte es besser gewusst, als ihre eigenen Leute im Dunkeln zu lassen."
-	"MailBody3D"	"Dein dich liebender Ehemann."
+	"MailBody3D"	"Dein dich liebender Ehemann"
+
 	"MailFrom4"	"An: Iris Florenza"
 	"MailDate4"	"Datum: 11/14/42"
 	"MailSubject4"	"Betreff: Offenbarung"
 	"MailBody4A"	"[Senden fehlgeschlagen: Kommunikation außerhalb des Planeten eingeschränkt]"
 	"MailBody4B"	"Iris, es schmerzt mich, dass ich dir diese Nachricht überbringen muss. Vom ersten Tag an war Dr. Moreau derjenige, der das Verschwinden organisiert hat. Er hat seine Lügen und seine Vertuschung aufgegeben, als klar wurde, dass diese so genannten "Freiwilligen" mit eindeutiger Rückendeckung von Cpt. Carradine in seine Labore geschickt wurden."
 	"MailBody4C"	"Ich weiß nicht, was sie mit ihnen machen. Einige der Siedler setzen uns Wächter unter Druck, um die Wahrheit zu erfahren. Ich fürchte, sie können mit der Wahrheit nicht umgehen ... und ich vielleicht auch nicht. Aber da wir diejenigen mit den Waffen sind, dürfen wir entscheiden, ob sie etwas zeigen, das einem Kampf ähnelt oder nicht. Gestern oder vorgestern hat eine Frau unter Tränen nach meiner Waffe gegriffen ... also habe ich sie erschossen. Seitdem frage ich mich jede Sekunde, wann oder wie wir Gleichaltrige wie Vieh behandelt haben. Ich hatte ... seltsame Träume. Über Helen Moreau. Ich kann nur hoffen, dass ihr Mann im Sinne des Fortschritts handelt, zum Wohle von uns allen. Ein Übel für ein größeres Gut, denn anders kann ich es nicht akzeptieren."
-	"MailBody4D"	"Dein Mann, der dich liebt, egal was passiert."
+	"MailBody4D"	"Dein Mann, der dich liebt, egal was passiert"
 }

@@ -10,7 +10,7 @@ GAME
 	"MailBody1A"	"Ming, hast du den Verstand verloren?  Du hast mit Young über deine Erkenntnisse gesprochen?!  Ich habe dir ganz klar gesagt, dass NIEMAND außerhalb von SynTek wissen darf, was du da oben machst!"
 	"MailBody1B"	"Zu allem Übel laufen die Dinge auch noch aus dem Ruder.  Ich bin gerade von der Timor Station zurückgekommen.  Es breitet sich aus.  Wie zum Teufel sind sie von Deck 2 in die Mine gekommen?"
 	"MailBody1C"	"Und übrigens, was ist im Atrium los?"
-	"MailBody1D"	"Lt. Cain, SynTek Security."
+	"MailBody1D"	"Lt. Cain, SynTek Security"
 
 	// Sent
 

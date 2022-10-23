@@ -9,7 +9,7 @@ GAME
 	"MailSubject1"	"Betreff: Aw: Versetzung des wissenschaftlichen Personals"
 	"MailBody1A"	"Dr. Da Silva, meine Forschung verlangt von mir, dass ich eine fast chirurgische Präzision an den Tag lege. Und damit, wie es sich gehört, auch die richtige Konzentration. Angemessen, weil ich nicht ständig mit trivialen Fragen unterbrochen werde."
 	"MailBody1B"	"Ich weiß die enorme Hilfe zu schätzen, die deine Assistenten bisher geleistet haben, aber die laufenden Operationen - für die ich als leitender Wissenschaftler dieser Mission verantwortlich bin - werden schnell beendet sein, wenn alle endlich zustimmen, mich meiner Arbeit zu überlassen."
-	"MailBody1C"	"Danke."
+	"MailBody1C"	"Danke"
 
 	// Sent
 

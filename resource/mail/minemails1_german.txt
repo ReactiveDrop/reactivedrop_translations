@@ -10,7 +10,7 @@ GAME
 	"MailBody1A"	"An alle Bürger von Vereon XII:"
 	"MailBody1B"	"Ich erkläre mit sofortiger Wirkung das Kriegsrecht.  Jeder hat sich in sein Quartier zu begeben und dort bis auf Weiteres zu bleiben.  Jeder, der gegen diesen Befehl verstößt, wird sofort erschossen."
 	"MailBody1C"	"Erklärung im Namen des SynTek-Koloniegesetzes Nr. 545/76B gemäß Standardvertragsklausel 45(vii)."
-	"MailBody1D"	"Lt. Cain, SynTek Security."
+	"MailBody1D"	"Lt. Cain, SynTek Security"
 
 	"MailFrom2"	"Von: Dr. PharmA MedTech."
 	"MailSubject2"	"Betreff: Aw: Gut 2239"
