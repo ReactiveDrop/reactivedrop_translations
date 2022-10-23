@@ -8,5 +8,5 @@ GAME
 	"MailBody1A"	"有趣的是，看起来感染的程度，可能比最初想象的还要深。"
 	"MailBody1B"	"根据维隆十二的情报，虫群的寄生虫喜欢潮湿。"
 	"MailBody1C"	"前面的洞穴里可能爬满了它们。"
-	"MailBody1D"	"霍顿挂断。"
+	"MailBody1D"	"霍顿挂断"
 }

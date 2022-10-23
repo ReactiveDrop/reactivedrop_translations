@@ -20,5 +20,5 @@ GAME
 	"MailBody3A"	"明先生，"
 	"MailBody3B"	"1) 做得好。"
 	"MailBody3C"	"2) 我看看我能做些什么。"
-	"MailBody3D"	"凯恩中尉，新特安全部。"
+	"MailBody3D"	"凯恩中尉，新特安全部"
 }
