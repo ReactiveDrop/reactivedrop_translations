@@ -20,5 +20,5 @@
 	"MailBody3A"	"밍 씨,"
 	"MailBody3B"	"1) 끝난 거나 다름없군요."
 	"MailBody3C"	"2) 제가 뭘 할 수 있을지 알아보겠습니다."
-	"MailBody3D"	"케인 중위, 신텍 보안팀."
+	"MailBody3D"	"케인 중위, 신텍 보안팀"
 }
