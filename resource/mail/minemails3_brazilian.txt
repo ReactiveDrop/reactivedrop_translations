@@ -23,7 +23,7 @@ GAME
 	"MailSubject3"	"Assunto: Re: Trajes de ambiente"
 	"MailBody3A"	"Oi Dave,"
 	"MailBody3B"	"Eu os encomendei faz muito tempo.  Não sei por que eles não estavam no último transporte de suprimentos.  Tudo o que posso fazer é reclamar, que é o que estou fazendo, mas você sabe o quanto isso ajuda. A propósito, Ouvi rumores sobre o abuso de Daxol aumentando novamente.  Você poderia ficar de olho?"
-	"MailBody3C"	"Agradeço, Brad."
+	"MailBody3C"	"Agradeço, Brad"
 
 	"MailFrom4"	"Para: David Anders"
 	"MailDate4"	"Data: 14/12/52"

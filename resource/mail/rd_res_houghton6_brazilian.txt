@@ -8,5 +8,5 @@ GAME
 	"MailBody1A"	"As coisas não parecem boas Alfa, e eu não tenho uma bomba nuclear sobrando por aí."
 	"MailBody1B"	"A maioria das bioassinaturas parecem vir de um poço de elevador no parte norte da mina. Lembre-se do que meu velho pai costumava dizer, "Se você não pode matá-los, ultrapasse-os"."
 	"MailBody1C"	"Relatórios do CP7 mostram que há um poderoso laser de mineração lá embaixo, pode ser que vocês possam usá-lo para"
-	"MailBody1D"	"queimar a biomassa no elevador. Acho que Operação Tempestade de Fogo é mais adequada agora que estamos usando o laser. Câmbio desligo."
+	"MailBody1D"	"queimar a biomassa no elevador. Acho que Operação Tempestade de Fogo é mais adequada agora que estamos usando o laser. Câmbio desligo"
 }

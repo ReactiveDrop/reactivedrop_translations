@@ -9,7 +9,7 @@ GAME
 	"MailSubject1"	"Assunto: Re: Transferência da equipe científica"
 	"MailBody1A"	"Dra. Da Silva, minha pesquisa demanda de mim que eu mantenha minha precisão proxima dos níveis cirúrgicos. E com isso, de fato, foco apropriado. ‘Apropriado’ de forma a não ser interrompido constantemente com preocupações triviais."
 	"MailBody1B"	"Embora eu aprecie a tremenda ajuda fornecida até agora por seus assistentes, as operações em curso - do qual estou a cargo em virtude de minhas atribuições como Cientista Chefe desta missão - concluirá sumariamente se todos finalmente concordarem em me deixar trabalhar."
-	"MailBody1C"	"Obrigado."
+	"MailBody1C"	"Obrigado"
 
 	// Sent
 

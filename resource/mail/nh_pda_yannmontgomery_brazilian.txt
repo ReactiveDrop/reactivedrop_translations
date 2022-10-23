@@ -9,7 +9,7 @@ GAME
 	"MailSubject1"	"Assunto: Re: Considerações preliminares"
 	"MailBody1A"	"Agradeço pelo seu tempo, professor. Sua experiência confirma a maior parte das minhas suposições. Certifique-se que as medidas de confinamento estão dentro da lei. Antes de estarmos perfeitamente seguros com o que estamos lidando, Eu pedirei que você se abstenha de entrar em contato com a Phalanx por enquanto."
 	"MailBody1B"	"Você será notificado pelo meu laboratório, se necessário."
-	"MailFrom1C"	"Nam Humanum."
+	"MailFrom1C"	"Nam Humanum"
 
 	// Sent
 
@@ -27,5 +27,5 @@ GAME
 	"MailBody4A"	"Senhor Dorland,"
 	"MailBody4B"	"Embora eu compartilhe suas preocupações sobre as decisões mais recentes do Dr. Moreau, Eu, com toda decência, não posso revelar nada a você após minha visita dentro de seus laboratórios. A ética profissional me impede de fazê-lo, portanto, temo quê não irei encontrá-lo para almoçar."
 	"MailBody4C"	"Em conjunto com minhas reservas, Capitão Carradine me requisitou para ajudar nas buscas que começaram esta manhã, então teria sido impossível para mim me juntar a você de qualquer forma."
-	"MailBody4D"	"Tudo de melhor para você."
+	"MailBody4D"	"Tudo de melhor para você"
 }

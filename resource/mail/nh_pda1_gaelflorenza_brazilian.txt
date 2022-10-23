@@ -10,7 +10,7 @@ GAME
 	"MailBody3A"	"Meu amor,"
 	"MailBody3B"	"A equipe de comunicação pede que eu mantenha qualquer transmissão escrita breve enquanto a instalação está sendo trabalhada, então lá vai. Nós finalmente pousamos em Cassius-III. Como esperado, o clima não é o mais suave aqui. Sem mencionar que ainda dependemos em grande parte dos suprimentos vitais do ônibus espacial. Ainda assim, todos já estão fazendo o possível para que se sintam em casa. Retratado como algo digno de um conto. Mas acho que essas cartas terão que servir, desta minha ilha nevada para onde você está agora, um oceano de estrelas de distância."
 	"MailBody3C"	"Faz 5 meses desde que me despedi de você no porto, querida Iris, mas já parece uma eternidade no mar. Eu pretendo fazer desta modesta colônia um abrigo adequado para você e para mim, e para o homenzinho crescendo dentro de você."
-	"MailBody3D"	"Nam Humanum."
+	"MailBody3D"	"Nam Humanum"
 
 	"MailFrom4"	"To: Iris Florenza"
 	"MailDate4"	"Date: 07/02/40"
@@ -18,5 +18,5 @@ GAME
 	"MailBody4A"	"Meu amor,"
 	"MailBody4B"	"Fui informado de que qualquer mensagem que eu encaminhar pode viajar por algum tempo antes de chegar até você. A razão para isso é... bem, algum jargão técnico que eu não vou me aprofundar, pelo seu bem. Eu espero que tudo esteja bem, para você e o bebê.A construção aqui está continuando, a instalação do complexo de pesquisa se ergue como um monumento ao nosso progresso. Embora as expedições geológicas não ocorrerão por mais alguns meses, cerca de tempo suficiente para os sistemas de suporte de vida ficarem prontos."
 	"MailBody4C"	"Os cientistas-chefes da missão, Senhor e Senhora Moreau conduzem as operações com entusiasmo, até mesmo inspiração. Os colonos passaram a chamá-los de “Adão e Eva de Lugdunum”. Vendo isso colocar alguns bem-necessários sorrisos nos rostos deles é um pouco reconfortante, embora eu não consiga realmente explicar por que. O que tenho certeza é que continuarei escrevendo até que estejamos ambos aqui, juntos também. Quem sabe, talvez assim que tenhamos construído nosso próprio jardim de infância."
-	"MailBody4D"	"Nam Humanum."
+	"MailBody4D"	"Nam Humanum"
 }
