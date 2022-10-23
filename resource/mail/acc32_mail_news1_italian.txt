@@ -2,7 +2,7 @@ GAME
 {
 	// Inbox
 
-	"MailFrom1"	"Da: Fox News"
+	"MailFrom1"	"Da: IAF News"
 	"MailDate1"	"Data: 31 novembre 2232"
 	"MailSubject1"	"Oggetto: Diario delle notizie degli ultimi 4 mesi."
 	"MailBody1A"	"1 agosto 2232 - La compagnia mineraria 'Glenkor' ha rilevato letture di radiazioni elevate a Syberia, a est del connettore J7, che sembrano provenire dal sottosuolo. Iniziano le operazioni minerarie."
@@ -15,5 +15,5 @@ GAME
 	"MailBody1H"	"14 novembre 2232 - Le letture delle radiazioni a 15 chilometri dal laboratorio stanno aumentando rapidamente. Il motivo è sconosciuto. La roccia ha iniziato a decadere più velocemente? Perché?"
 	"MailBody1I"	"20 novembre 2232 - Le autorità hanno inviato un coraggioso gruppo di soldati con nuove tute protettive contro i muoni per svolgere delle indagini. All'interno del laboratorio, tali livelli di radioattività non sono mai stati visti prima. La temperatura all'interno dell'edificio è aumentata da quando è stato isolato. Sembra che le temperature più elevate accelerino il decadimento della roccia. I soldati stanno mettendo in dubbio l'affidabilità delle loro tute e la loro sicurezza."
 	"MailBody1J"	"22 novembre 2232 - Una società mineraria 'Tio Rinto' ha fornito alcune informazioni sul materiale di cui è fatta la roccia. 43 anni fa hanno incontrato un materiale che inizia a decadere rapidamente dopo essere stato esposto ad alte temperature. Secondo i loro registri, questo materiale è arrivato dallo spazio nell'impatto con un meteorite. Se la roccia è composta dallo stesso materiale, si prevede che raggiungerà lo stato critico il 17 dicembre 2232. Il tempo scorre."
-	"MailBody1K"	"Il tuo abbonamento a Fox News è scaduto. Puoi prolungare l'abbonamento su www.foxnews.com/subscription."
+	"MailBody1K"	"Il tuo abbonamento a IAF News è scaduto. Puoi prolungare l'abbonamento su iafnews.space/subscription."
 }
