@@ -10,5 +10,5 @@ GAME
 	"MailBody3A"	"Mon cœur,"
 	"MailBody3B"	"Je t’écris alors que plusieurs heures se sont écoulées depuis mon retour de la dernière expédition, où j’accompagnais l’équipe de recherche Stibius dans l’exploration d’une zone inconnue de nos cartes. L’équipement radar des géologues avait vraisemblablement détecté l’emplacement d’un complexe caverneux caché jusqu’ici sous la glace. Comme tant d’autres, je n’en suspectais initialement rien. Après 21 mois sur ce rocher, qu’est-ce qui aurait pu s’y trouver que nous n’avions pas déjà vu ? Et bien, nous avons creusé pour le découvrir. Et voilà que devant nos yeux de sceptiques s’étalèrent des façades entières de spores jaunâtres ressemblant à des champignons terrestres, comme une fresque colorée à la lueur de nos torches. Nous avons réussi à contacter l’équipe botanique, qui s’est naturellement empressée de prendre en charge les opérations de prospection."
 	"MailBody3C"	"Au moment où je te parle, le Dr. Moreau et ses collègues sont en ébat total. Je ne suis pas certain des implications plus larges qu’une telle découverte est sûr d’engendrer, mais cette situation me dépasse largement de toute façon. Je suis bien content de la laisser entre les mains des autorités compétentes qui sauront quoi en faire."
-	"MailBody3D"	"Nam Humanum."
+	"MailBody3D"	"Nam Humanum"
 }
