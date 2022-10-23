@@ -1,5 +1,7 @@
 ﻿GAME
 {
+	// PDA belongs to Kate Larson
+
 	// Inbox
 
 	"MailFrom1"	"差出人: ブラッド・アーヴィング"

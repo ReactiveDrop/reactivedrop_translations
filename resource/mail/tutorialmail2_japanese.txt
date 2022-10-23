@@ -16,5 +16,5 @@
 	"MailDate3"	"送信日時: 52年12月18日"
 	"MailSubject3"	"件名: Re: 酒と女？"
 	"MailBody3A"	"もちろんだともJ。"
-	"MailBody3B"	"いずれにせよDaxolを切らしてたんだ。 じゃあ後でな。"
+	"MailBody3B"	"いずれにせよDaxolを切らしてたんだ。 じゃあ後でな"
 }
