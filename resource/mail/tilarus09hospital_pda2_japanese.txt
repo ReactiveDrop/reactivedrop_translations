@@ -1,6 +1,6 @@
 ﻿GAME
 {
-	// PDA belongs to Joseph Palmer
+	// PDA belongs to Dr. Joseph Palmer
 
 	// Inbox
 
