@@ -2,7 +2,7 @@ GAME
 {
 	// Inbox
 
-	"MailFrom1"	"Von: Fox News"
+	"MailFrom1"	"Von: IAF News"
 	"MailDate1"	"Datum: 31. Nov 2232"
 	"MailSubject1"	"Betreff: Nachrichtenprotokoll für die letzten 4 Monate."
 	"MailBody1A"	"01. August 2232 - Das Bergbauunternehmen "Glenkor" hat in Syberia östlich von J7 Knoten hohe Strahlungswerte entdeckt, die aus dem Untergrund zu kommen scheinen. Die Bergbauarbeiten beginnen."
@@ -15,5 +15,5 @@ GAME
 	"MailBody1H"	"14. November 2232 - Die Strahlungswerte 15 Kilometer vom Labor entfernt steigen rapide an. Der Grund dafür ist unbekannt. Hat das Gestein angefangen, schneller zu zerfallen? Und warum?"
 	"MailBody1I"	"20. November 2232 - Die Behörden haben eine tapfere Gruppe von Soldaten in neuen Myonen-Schutzanzügen geschickt, um Untersuchungen durchzuführen. Im Inneren des Labors wurde noch nie eine so hohe Radioaktivität festgestellt. Die Temperatur im Inneren des Gebäudes ist seit der Isolierung angestiegen. Es scheint, dass höhere Temperaturen den Zerfall des Gesteins beschleunigen. Die Soldaten stellen die Zuverlässigkeit ihrer Anzüge und ihre Sicherheit in Frage."
 	"MailBody1J"	"22. November 2232 - Das Bergbauunternehmen "Tio Rinto" hat einen Einblick in das Material gegeben, aus dem das Gestein besteht. Vor 43 Jahren sind sie auf ein Material gestoßen, das bei hohen Temperaturen schnell zu zerfallen beginnt. Ihren Aufzeichnungen zufolge kam dieses Material bei einem Meteoriteneinschlag aus dem All. Wenn das Gestein aus demselben Material besteht, wird es voraussichtlich am 17. Dezember 2232 seinen kritischen Zustand erreichen. Die Uhr tickt."
-	"MailBody1K"	"Dein Fox News-Abonnement ist abgelaufen. Du kannst dein Abonnement unter www.foxnews.com/subscription verlängern."
+	"MailBody1K"	"Dein IAF News-Abonnement ist abgelaufen. Du kannst dein Abonnement unter iafnews.space/subscription verlängern."
 }
