@@ -23,7 +23,7 @@ GAME
 	"MailSubject3"	"Subject: Re: Env suits"
 	"MailBody3A"	"Hi Dave,"
 	"MailBody3B"	"I ordered them a long time ago.  Don't know why they weren't in the last supply shuttle.  All I can do is complain, which I'm doing, but you know how much good that does. By the way, I heard rumors about Daxol abuse on the rise again.  Can you keep an eye out?"
-	"MailBody3C"	"Cheers, Brad."
+	"MailBody3C"	"Cheers, Brad"
 
 	"MailFrom4"	"To: David Anders"
 	"MailDate4"	"Date: 12/14/52"

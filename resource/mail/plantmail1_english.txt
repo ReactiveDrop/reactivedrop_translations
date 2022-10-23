@@ -9,7 +9,7 @@ GAME
 	"MailSubject1"	"Subject: Delivery to Research Station 7"
 	"MailBody1A"	"Mr. Ming,"
 	"MailBody1B"	"IA agent L. Callen has discovered our shipment.  It also looks like some of the specimens are loose.  I'll take care of it, but she might come asking you and your staff some pointed questions.  I recommend you devise some good answers in advance.  Get your story straight."
-	"MailBody1C"	"Lt. Cain, SynTek Security."
+	"MailBody1C"	"Lt. Cain, SynTek Security"
 
 	"MailFrom2"	"From: Friend"
 	"MailSubject2"	"Subject: Re: Employment Opportunity"

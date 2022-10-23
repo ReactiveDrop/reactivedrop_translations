@@ -1,5 +1,7 @@
 GAME
 {
+	// PDA belongs to Kate Larson
+
 	// Inbox
 
 	"MailFrom1"	"From: Brad Irwing"
@@ -15,5 +17,5 @@ GAME
 	"MailSubject2"	"Subject: README pt. 2 &HIDDEN"
 	"MailBody2A"	"But there is something way more terrifying that we discovered. We noticed that specimen 8'1'18'22, codename HARVESTER, can give birth to specimen 24'5'14'15, codename XENOMITE, in matter of seconds. Which is terrifying, because in january we discovered that XENOMITEs can lay eggs, which later mutate to specimen 16'1'18'1, codename PARASITE."
 	"MailBody2B"	"Kate, I am planning to escape this facility, what we are doing is not right. We should share this information with the government. And if nobody agrees with me, I WILL DO IT MYSELF."
-	"MailBody2C"	"Regards, Brad."
+	"MailBody2C"	"Regards, Brad"
 }

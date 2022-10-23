@@ -12,7 +12,7 @@ GAME
 	"MailBody3C"	"I have made attempts in engaging with Vesta of my own volition. I have tried talking to her, making her understand who or what we are. I am aware of how ludicrous this might sound...but I asked for guidance. I want to reach her, show her that nothing is to fear from us. We are but fragile shells of decaying tissue and mind, and she may or may not lead to everything we...I, hoped for."
 	"MailBody3D"	"She needs only bodies."
 
-	"MailFrom4"	"To: Dr. Helen Moreau"
+	"MailFrom4"	"To: Helen Moreau"
 	"MailDate4"	"Date: 06/15/42"
 	"MailSubject4"	"Subject: N/A"
 	"MailBody4A"	"So, here I am. Confessing to a ghost. To be perfectly honest, I am unsure how much time has passed since your illness. Although, the time when your flowery perfume repressed the suffocation of our laboratory does not feel so far."
