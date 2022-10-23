@@ -25,7 +25,7 @@ GAME
 	"MailDate4"	"Datum: 05/10/42"
 	"MailSubject4"	"Betreff: Meine Entschuldigung"
 	"MailBody4A"	"Mister Dorland,"
-	"MailBody4B"	"obwohl ich deine Bedenken über die jüngsten Entscheidungen von Dr. Moreau teile, kann ich dir aus Anstandsgründen nach meinem Besuch in seinen Laboren nichts sagen. Die Berufsethik verbietet es mir, deshalb werde ich dich leider nicht zum Mittagessen treffen."
-	"MailBody4C"	"In Verbindung mit meinen Reserven hat mich Kapitän Carradine gebeten, bei den Durchsuchungen zu helfen, die gerade heute Morgen begonnen haben, deshalb wäre es für mich unmöglich gewesen, euch zu begleiten."
-	"MailBody4D"	"Alles Gute für dich."
+	"MailBody4B"	"obwohl ich Ihre Bedenken über die jüngsten Entscheidungen von Dr. Moreau teile, kann ich Ihnen aus Anstandsgründen nach meinem Besuch in seinen Laboren nichts sagen. Die Berufsethik verbietet es mir, deshalb werde ich mich leider nicht zum Mittagessen treffen."
+	"MailBody4C"	"In Verbindung mit meinen Reserven hat mich Kapitän Carradine gebeten, bei den Durchsuchungen zu helfen, die gerade heute Morgen begonnen haben, deshalb wäre es für mich unmöglich gewesen, Sie zu begleiten."
+	"MailBody4D"	"Alles Gute wünsche ich Ihnen"
 }

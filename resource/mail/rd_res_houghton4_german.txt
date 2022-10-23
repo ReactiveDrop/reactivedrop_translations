@@ -8,5 +8,5 @@ GAME
 	"MailBody1A"	"Interessant, es sieht so aus, als ob die Infestation tiefer geht, als zuerst angenommen."
 	"MailBody1B"	"Nach Informationen von Vereon XII mögen die Schwarm-Parasiten die Feuchtigkeit."
 	"MailBody1C"	"In den Höhlen vor uns könnte es von ihnen wimmeln."
-	"MailBody1D"	"Houghton Ende."
+	"MailBody1D"	"Houghton Ende"
 }

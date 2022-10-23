@@ -23,7 +23,7 @@ GAME
 	"MailSubject3"	"Betreff: Aw: Env-Anzüge"
 	"MailBody3A"	"Hi Dave,"
 	"MailBody3B"	"Ich habe sie schon vor langer Zeit bestellt.  Ich weiß nicht, warum sie nicht im letzten Versorgungsshuttle dabei waren.  Ich kann mich nur beschweren, was ich auch tue, aber du weißt ja, wie viel das bringt. Übrigens habe ich gehört, dass der Missbrauch von Daxol wieder zunimmt.  Kannst du ein Auge darauf haben?"
-	"MailBody3C"	"Prost, Brad."
+	"MailBody3C"	"Prost, Brad"
 
 	"MailFrom4"	"An: David Anders"
 	"MailDate4"	"Datum: 12/14/52"

@@ -10,7 +10,7 @@ GAME
 	"MailBody1A"	"Entschuldigung, Hullen."
 	"MailBody1B"	"Unser erster Versuch, ein Exemplar zu euch zu schmuggeln, war ein Fehlschlag. Callen hat die gefrorene Lieferung #4903877 entdeckt."
 	"MailBody1C"	"Es ist uns aber gelungen, einige gefrorene Proben in eine zweite Ladung mit verbrauchten medizinischen Vorräten zu bekommen."
-	"MailBody1D"	"Wenn dieser hier nicht entdeckt wird, ist er in ein paar Tagen bei dir im RC7. Ming."
+	"MailBody1D"	"Wenn dieser hier nicht entdeckt wird, ist er in ein paar Tagen bei dir im RC7. Ming"
 
 	"MailFrom2"	"Von: Jenny Coulson"
 	"MailDate2"	"Datum: 12/24/52"
@@ -36,5 +36,5 @@ GAME
 	"MailBody4A"	"Hi Jenny"
 	"MailBody4B"	"Ich weiß, dass wir uns nicht sehr gut kennen, aber ich habe mich gefragt, ob du Lust hast, mit mir essen zu gehen?"
 	"MailBody4C"	"Ich kenne da ein nettes kleines Lokal, das Essen von Xenon IX serviert, vielleicht am Mittwoch?"
-	"MailBody4D"	"Hullen, XXXX"
+	"MailBody4D"	"Hullen XXXX"
 }

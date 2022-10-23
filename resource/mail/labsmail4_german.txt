@@ -1,6 +1,6 @@
 GAME
 {
-	// PDA belongs to SysAdmin
+	// PDA belongs to Charles Rivera
 
 	// Inbox
 
@@ -10,6 +10,7 @@ GAME
 	"MailBody1A"	"Mr. Rivera,"
 	"MailBody1B"	"Ich glaube, ich spreche im Namen aller hier.  Kannst du BITTE etwas gegen den Spam tun?  Aktualisiere die Posteingangsfilter oder was auch immer, ich gehe davon aus, dass du es am besten weißt, aber um Himmels willen, tu etwas!  Ein Nickel für jeden Mist, den ich im letzten Monat erhalten habe, und ich hätte für immer ausgesorgt."
 	"MailBody1C"	"Phil Ryan"
+
 	"MailFrom2"	"Von: Dr. Miller"
 	"MailSubject2"	"Fwd: Ph4rm4 4 U"
 	"MailDate2"	"Datum: 12/12/52"
@@ -26,5 +27,5 @@ GAME
 	"MailBody3A"	"Lieber Herr,"
 	"MailBody3B"	"vielen Dank für deine Mail und dein Interesse an unserem Unternehmen.  Wir haben Ihre Anfrage sorgfältig geprüft, und sobald einer unserer Agenten verfügbar ist, wird er mit der Angelegenheit betraut.  Bitte antworte nicht auf diese E-Mail.  Wir werden uns so schnell wie möglich mit dir in Verbindung setzen."
 	"MailBody3C"	"SynTek Management/Sys. Admin."
-	"MailBody3D"	"Rivera, C."
+	"MailBody3D"	"C. Rivera"
 }

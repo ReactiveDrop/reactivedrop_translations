@@ -26,5 +26,5 @@ GAME
 	"MailSubject3"	"Betreff: Außenposten 17"
 	"MailBody3A"	"Frau Callen,"
 	"MailBody3B"	"Ich weiß alles über die Beschränkung #77-C.  Wir haben Außenposten 17 durchsucht und die lebende Fracht gefunden.  Wir haben sie in Sektor 39 eingeschlossen und sie bleibt dort, bis wir von der Interstellaren Allianz Anweisungen erhalten, wie wir weiter vorgehen sollen.  Das vermisste Personal haben wir noch nicht gefunden.  Es wäre nicht das erste Mal, dass ein paar Arbeiter betrunken sind und für ein oder zwei Tage verschwinden.  Da auf Vereon XII nie etwas wirklich verloren gehen kann, bin ich sicher, dass sie bald wieder auftauchen werden.  Mr. Campbell hat den Befehl, mich alle 6 Stunden auf den neuesten Stand zu bringen."
-	"MailBody3C"	"Lt. Cain, SynTek Security."
+	"MailBody3C"	"Lt. Cain, SynTek Security"
 }
