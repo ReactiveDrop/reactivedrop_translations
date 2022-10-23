@@ -23,7 +23,7 @@ GAME
 	"MailSubject3"	"Subject: Re: Đồ bảo vệ"
 	"MailBody3A"	"Hi Dave,"
 	"MailBody3B"	"Tôi đã đặt hàng mấy món này từ lâu rồi. Không hiểu tại sao vẫn chưa tới. Giờ tôi chỉ có thể khiếu nại, nhưng cậu cũng biết là chả ích gì dâu. Tôi lại mới nghe phong thanh về việc lạm dụng Daxol đang tăng lên. Cậu có thể để ý hộ tôi việc này chứ?"
-	"MailBody3C"	"Cheers, Brad."
+	"MailBody3C"	"Cheers, Brad"
 
 	"MailFrom4"	"Tới: David Anders"
 	"MailDate4"	"Ngày: 12/14/52"

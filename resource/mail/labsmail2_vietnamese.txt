@@ -10,7 +10,7 @@ GAME
 	"MailBody1A"	"Ming, mày có điên không? Sao mày lại kể lể cho Young về những gì mày phát hiện được? Tao đã nói rất rõ với mày rằng, KHÔNG MỘT AI bên ngoài SynTek được biết về những gì mày đang làm!"
 	"MailBody1B"	"Mọi thứ thậm chí còn tồi tệ hơn, vượt ra ngoài tầm kiểm soát. Tao mới quay về từ ga Timor và thấy chúng nó lan ra khắp nơi. Thế méo nào mà bọn nó chui được từ tầng 2 xuống được khu hầm vậy? "
 	"MailBody1C"	"Thêm nữa, mày đang làm gì trên phòng  atrium thế? "
-	"MailBody1D"	"Lt. Cain, SynTek Security."
+	"MailBody1D"	"Lt. Cain, SynTek Security"
 
 	// Sent
 
