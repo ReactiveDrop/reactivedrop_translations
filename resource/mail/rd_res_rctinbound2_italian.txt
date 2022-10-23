@@ -28,5 +28,5 @@ GAME
 	"MailBody3A"	"Salve Martin,"
 	"MailBody3B"	"Ho ricevuto diversi esemplari da Vereon XII, non chiedermi come. Uno degli esemplari sembra essere morto durante il trasporto."
 	"MailBody3C"	"Non posso usare l'inceneritore qui senza che i rilevatori superiori lo scoprano, lo sto inviando alle tue miniere per lo smaltimento in una delle fosse di lava."
-	"MailBody3D"	"Hullen."
+	"MailBody3D"	"Hullen"
 }

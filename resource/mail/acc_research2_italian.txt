@@ -1,5 +1,7 @@
 GAME
 {
+	// PDA belongs to Kate Larson
+
 	// Inbox
 
 	"MailFrom1"	"Da: Brad Irwing"
@@ -15,5 +17,5 @@ GAME
 	"MailSubject2"	"Soggetto: LEGGIMI pt. 2 &HIDDEN"
 	"MailBody2A"	"Ma abbiamo scoperto qualcosa di molto più terrificante. Abbiamo notato che l'esemplare 8'1'18'22, nome in codice HARVESTER, può dare vita all'esemplare 24'5'14'15, nome in codice XENOMITA, in pochi secondi. Il che è terrificante, perché a gennaio abbiamo scoperto che gli XENOMITI possono deporre uova, che poi mutano nell'esemplare 16'1'18'1, nome in codice PARASSITA."
 	"MailBody2B"	"Kate, ho intenzione di fuggire da questa struttura, quello che stiamo facendo non è giusto. Dovremmo condividere queste informazioni con il governo. E se nessuno è d'accordo con me, lo farò da solo."
-	"MailBody2C"	"Saluti, Brad."
+	"MailBody2C"	"Saluti, Brad"
 }

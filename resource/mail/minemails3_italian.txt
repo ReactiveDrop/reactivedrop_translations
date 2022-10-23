@@ -23,7 +23,7 @@ GAME
 	"MailSubject3"	"Soggetto: Re: Tute ambientali"
 	"MailBody3A"	"Ciao Dave,"
 	"MailBody3B"	"Li ho ordinati molto tempo fa. Non so perché non fossero nell'ultima navetta di rifornimento. Tutto quello che posso fare è lamentarmi, cosa che sto facendo, ma sai quanto può servire. A proposito, ho sentito di nuovo voci su abusi di Daxol. Puoi starci attento?"
-	"MailBody3C"	"Saluti, Brad."
+	"MailBody3C"	"Saluti, Brad"
 
 	"MailFrom4"	"A: David Anders"
 	"MailDate4"	"Data: 12/14/52"

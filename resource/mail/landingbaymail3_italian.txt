@@ -27,5 +27,5 @@ GAME
 	"MailSubject3"	"Soggetto: Avamposto 17"
 	"MailBody3A"	"Ms. Callen,"
 	"MailBody3B"	"So tutto sulla restrizione # 77-C. Abbiamo cercato nell'Avamposto 17 e abbiamo trovato il carico vivo. L'abbiamo bloccato nel settore 39 e rimarrà lì fino a quando non avremo ricevuto ordini dall'Interstellar Alliance su come procedere. Dobbiamo ancora trovare il personale mancante. Non sarebbe la prima volta che alcuni lavoratori si ubriacano e scompaiono per un giorno o due. Dato che nulla può mai davvero perdersi su Vereon XII, sono sicuro che arriveranno presto. Il signor Campbell ha l'ordine di darmi aggiornamenti ogni 6 ore."
-	"MailBody3C"	"Ten. Cain, Sicurezza SynTek."
+	"MailBody3C"	"Ten. Cain, Sicurezza SynTek"
 }

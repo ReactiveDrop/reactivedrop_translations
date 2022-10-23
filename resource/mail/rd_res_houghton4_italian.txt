@@ -8,5 +8,5 @@ GAME
 	"MailBody1A"	"Interessante, sembra che l'infestazione potrebbe andare più in profondità di quanto pensassimo."
 	"MailBody1B"	"Secondo le informazioni di Vereon XII, i parassiti dello sciame amano l'umidità."
 	"MailBody1C"	"Le grotte davanti potrebbero essere piene di alieni."
-	"MailBody1D"	"Houghton chiudo."
+	"MailBody1D"	"Houghton chiudo"
 }

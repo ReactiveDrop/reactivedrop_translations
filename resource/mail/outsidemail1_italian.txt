@@ -20,5 +20,5 @@ GAME
 	"MailBody3A"	"Mr Ming,"
 	"MailBody3B"	"1) Come se fosse già fatto."
 	"MailBody3C"	"2) Vedrò cosa posso fare."
-	"MailBody3D"	"Ten. Cain, Sicurezza SynTek."
+	"MailBody3D"	"Ten. Cain, Sicurezza SynTek"
 }

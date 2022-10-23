@@ -9,7 +9,7 @@ GAME
 	"MailBody1A"	"Scusami, Hullen."
 	"MailBody1B"	"Il nostro primo tentativo di rubare un esemplare per te è stato un fallimento. Callen ha scoperto la spedizione congelata #4903877."
 	"MailBody1C"	"Tuttavia, siamo riusciti a ottenere diversi campioni congelati in una seconda spedizione di forniture mediche esaurite."
-	"MailBody1D"	"A meno che questo non venga scoperto, sarà con te al RC7 entro pochi giorni. Ming."
+	"MailBody1D"	"A meno che questo non venga scoperto, sarà con te al RC7 entro pochi giorni. Ming"
 
 	"MailFrom2"	"Da: Jenny Coulson"
 	"MailDate2"	"Data: 24/12/52"
@@ -27,7 +27,7 @@ GAME
 	"MailBody3A"	"Ming, la spedizione è stata ricevuta."
 	"MailBody3B"	"Mentre scrivo, i campioni vengono scongelati all'interno del RC7."
 	"MailBody3C"	"Forse possiamo far luce sull'evoluzione di queste creature. Quel premio nobel è praticamente nostro."
-	"MailBody3D"	"Hullen."
+	"MailBody3D"	"Hullen"
 
 	"MailFrom4"	"A: Jenny Coulson"
 	"MailDate4"	"Data: 24/12/52"
@@ -35,5 +35,5 @@ GAME
 	"MailBody4A"	"Ciao Jenny"
 	"MailBody4B"	"So che non ci conosciamo molto bene, ma mi chiedevo se ti piacerebbe venire fuori a cena con me?"
 	"MailBody4C"	"Conosco questo bel posticino che serve cibo da Xenon IX, forse mercoledì?"
-	"MailBody4D"	"Hullen. XXXX"
+	"MailBody4D"	"Hullen XXXX"
 }

@@ -10,7 +10,7 @@ GAME
 	"MailBody1A"	"Ming, sei fuori di testa? Hai parlato con la Young delle tue scoperte?! Te l'ho detto chiaramente, NESSUNO al di fuori di SynTek è autorizzato a sapere cosa stai facendo lassù!"
 	"MailBody1B"	"A peggiorare il tutto, le cose stanno sfuggendo di mano. Sono appena tornato dalla stazione di Timor. Si sta diffondendo. Come diavolo sono arrivati ​​dal ponte 2 alla miniera?"
 	"MailBody1C"	"E a proposito, cosa sta succedendo nell'atrio?"
-	"MailBody1D"	"Ten. Cain, Sicurezza SynTek."
+	"MailBody1D"	"Ten. Cain, Sicurezza SynTek"
 
 	// Sent
 

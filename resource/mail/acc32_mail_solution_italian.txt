@@ -6,7 +6,7 @@ GAME
 	"MailDate1"	"Data: 24 Nov 2232"
 	"MailSubject1"	"Soggetto: Soluzione"
 	"MailBody1A"	"Suggerisco di decontaminare lentamente l'intera struttura, partendo da sud. L'aria fredda dovrebbe entrare e fare il suo lavoro in un paio di giorni. Ricordo che i livelli di radiazioni rilasciati non saranno troppo elevati nell'ambiente. Potremmo comunque evacuare le case vicine per la loro sicurezza."
-	"MailBody1B"	"Richard."
+	"MailBody1B"	"Richard"
 
 	// Sent
 
@@ -15,5 +15,5 @@ GAME
 	"MailSubject1"	"Soggetto: Re: Soluzione"
 	"MailBody1A"	"'Ricordi' cazzo?! Sei fuori di testa? Chi ti ha assunto? L'ultima volta che la struttura non era confinata, i livelli di radiazioni erano letali nel raggio di 15 chilometri dai laboratori. Ora i livelli sono triplicati o probabilmente addirittura quadruplicati."
 	"MailBody1B"	"Grazie per il suo consiglio professionale, signore, ma no, non prenderemo in considerazione la possibilità di uccidere persone. Installeremo misure di raffreddamento interne."
-	"MailBody1C"	"Amministratore."
+	"MailBody1C"	"Amministratore"
 }
