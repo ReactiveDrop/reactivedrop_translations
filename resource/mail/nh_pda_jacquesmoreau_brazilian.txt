@@ -17,5 +17,5 @@ GAME
 	"MailBody4A"	"Querida Vesta, esta será minha mensagem final. A quem quer a encontre, fica aqui o meu pedido para a humanidade:"
 	"MailBody4B"	"Meu nome é Jacques Valery Moreau. Como cientista-chefe dos projetos de pesquisa realizados dentro da missão e colônia de Lugdunum, Eu regulei e realizei pessoalmente experimentos que não eram apenas repulsivos para a ética profissional, mas excruciante para qualquer tipo de razão ou senso de moralidade. Eu agora imploro às forças militares que se deparam com minha mensagem para preservar os produtos desse esforço. Proteja-os se puder, daqueles acima que o usariam para si mesmos. Para que nossa espécie ainda progrida na adversidade. Como não há odisseia sem lutas, não há ciência sem sacrifícios."
 	"MailBody4C"	"Ves ta--Helen. Minha flor, meu fulcro. Se existe um lugar após a morte, Temo que nenhum deus me permitirá me juntar a você lá."
-	"MailBody4D"	"Nam Humanum."
+	"MailBody4D"	"Nam Humanum"
 }
