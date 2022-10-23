@@ -1,10 +1,10 @@
 GAME
 {
-	// PDA belongs to Emily Hoggarth
+	// PDA belongs to Emily Dr. Hoggarth
 
 	// Sent
 
-	"MailFrom3"	"A: Dr. Kennett"
+	"MailFrom3"	"A: Kennett"
 	"MailDate3"	"Data: 03/12/46"
 	"MailSubject3"	"Soggetto: Investigazioni"
 	"MailBody3A"	"Dr. Kennett,"

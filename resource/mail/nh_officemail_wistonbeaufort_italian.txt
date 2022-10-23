@@ -4,7 +4,7 @@ GAME
 
 	// Sent
 
-	"MailFrom3"	"A: Dr. Jacques Moreau"
+	"MailFrom3"	"A: Jacques Moreau"
 	"MailDate3"	"Data: 18/05/42"
 	"MailSubject3"	"Soggetto: Intervento al cervello di Arthur Carradine"
 	"MailBody3A"	"Caro signore,"
