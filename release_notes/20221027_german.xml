@@ -20,6 +20,9 @@
 [*]Es wurde ein doppeltes Abstimmungsmenü im Spiel behoben, das während der Einweisung sichtbar war, wenn ein Kamerahintergrund verwendet wurde.
 [*]Convar asw_blip_color_parasite_egg hinzugefügt, um die Farbe von nicht geschlüpften Parasiten auf der Minimap einzustellen.
 		[*]Fixed being unable to join lobbies for certain missions through the game UI.
+		[*]Fixed the list of disabled workshop addons not being loaded at startup.
+		[*]Fixed wanderers and hordes spawning behind vault doors.
+		[*]Added a workaround for the engine sometimes forgetting which players are voice-muted.
 [/list]
 
 [h1]Mapping[/h1]
