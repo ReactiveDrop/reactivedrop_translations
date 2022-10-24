@@ -20,9 +20,9 @@
 [*]ブリーフィングカメラが使用されている場合、ブリーフィング中にゲーム内投票メニューが二重に見えていたのを修正。
 [*]孵化していないパラサイトのミニマップ上での表示色を設定するコンソール変数asw_blip_color_parasite_eggを追加。
 [*]ゲーム内UIから特定のミッションのロビーに参加できなかったのを修正。
-		[*]Fixed the list of disabled workshop addons not being loaded at startup.
-		[*]Fixed wanderers and hordes spawning behind vault doors.
-		[*]Added a workaround for the engine sometimes forgetting which players are voice-muted.
+[*]無効化されたワークショップアドオンのリストが起動時に読み込まれなかったのを修正。
+[*]徘徊型や群れのエイリアンがシェルタードアの奥に出現してしまうのを修正。
+[*]ゲームエンジンがどのプレイヤーのボイスチャットをミュートにしていたか忘れる事があるのに対する回避策を追加。
 [/list]
 
 [h1]マップ作成[/h1]
