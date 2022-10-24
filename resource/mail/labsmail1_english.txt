@@ -4,7 +4,7 @@ GAME
 
 	// Inbox
 
-	"MailFrom1"	"From: Shaun Ming "
+	"MailFrom1"	"From: Shaun Ming"
 	"MailDate1"	"Date: 12/22/52"
 	"MailSubject1"	"Subject: Progress"
 	"MailBody1A"	"Dear Helen,"
