@@ -20,6 +20,9 @@
 [*]Corretto un duplicato del menu di votazione in gioco visibile durante il briefing se è in uso una telecamera per il briefing.
 [*]Aggiunta convar asw_blip_color_parasite_egg per impostare il colore dei parassiti non schiusi sulla minimappa.
 [*]Corretta l'impossibilità di unirsi alle lobby per alcune missioni attraverso l'interfaccia utente del gioco.
+		[*]Fixed the list of disabled workshop addons not being loaded at startup.
+		[*]Fixed wanderers and hordes spawning behind vault doors.
+		[*]Added a workaround for the engine sometimes forgetting which players are voice-muted.
 [/list]
 
 [h1]Mapping[/h1]
