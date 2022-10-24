@@ -15,7 +15,7 @@ You can also translate to an unsupported language but this will only work as a V
 - ***platform:*** Translations for generic source-engine UI ingame eg. the server browser.
 - ***release_notes:*** Update notes shown on Steams website.
 - ***resource:*** Game localization files.
-- ***rich_presence:*** Online status messages in Steams Friends List.
+- ***rich_presence:*** Online status messages shown in Steam Friends List.
 - ***store_page:*** Steam's store page contents.
 - ***utils:*** Helper tools for translators.
 
