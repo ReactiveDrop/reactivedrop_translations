@@ -2,7 +2,7 @@
 {
 	// PDA belongs to cave_geologist1
 
-	// inbox 
+	// inbox
 	"MailFrom1"	"송신자: 지조부"
 	"MailDate1"	"날짜: 57년 9월 17일"
 	"MailSubject1"	"주제: 회신: 동굴 체계의 예비 결과"

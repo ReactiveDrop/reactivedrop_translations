@@ -1,9 +1,0 @@
-rarity		希少性
-	common		コモン
-	uncommon		アンコモン
-	rare		レア
-	legendary		レジェンダリー
-	genuine		
-	strange		
-slot		
-	medal		

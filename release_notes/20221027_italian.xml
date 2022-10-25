@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<content><string id="body">Dopo l'aggiornamento della scorsa settimana, ecco alcune correzioni di bug segnalati dalla comunità.
+
+[h1]Armi[/h1]
+[list]
+[*][b]Pistola Medica IAF:[/b] Correzione della collisione orientata in modo diverso rispetto al modello visibile.
+[*][b]Granate Congelanti CR18:[/b] Correzione della collisione orientata in modo diverso rispetto al modello visibile.
+[*][b]Supporto Torcia:[/b] Risolto un problema di vecchia data relativo al centro di gravità di questo equipaggiamento.
+[*][b]Granate a Mano FG01:[/b] Correzione della collisione orientata in modo diverso rispetto al modello visibile.
+[*][b]Pistola Medica Amplificatrice IAF:[/b] Correzione della collisione orientata in modo diverso rispetto al modello visibile.
+[*][b]Granate a Gas TG-05:[/b] Correzione della collisione orientata in modo diverso rispetto al modello visibile.
+[/list]
+
+[h1]Varie[/h1]
+[list]
+[*]Corretto il problema delle porte che a volte rimanevano in piedi dopo un singolo grande colpo che infliggeva più della loro salute massima.
+[*]Corretto un raro crash anomalo legato ai Ragdoll.
+[*]Corretto un crash anomalo quando si uccidono gli alieni senza una connessione al client di Steam su una mappa caricata tramite comandi della console.
+[*]Corretto un crash anomalo quando si lasciava la schermata delle impostazioni della missione con un menu a discesa aperto.
+[*]Corretto un duplicato del menu di votazione in gioco visibile durante il briefing se è in uso una telecamera per il briefing.
+[*]Aggiunta convar asw_blip_color_parasite_egg per impostare il colore dei parassiti non schiusi sulla minimappa.
+[*]Corretta l'impossibilità di unirsi alle lobby per alcune missioni attraverso l'interfaccia utente del gioco.
+		[*]Fixed the list of disabled workshop addons not being loaded at startup.
+		[*]Fixed wanderers and hordes spawning behind vault doors.
+		[*]Added a workaround for the engine sometimes forgetting which players are voice-muted.
+[/list]
+
+[h1]Mapping[/h1]
+[list]
+[*]Ora env_sprite_clientside cambia in env_sprite lato server se ha un targetname o un parentname definito. Se ciò accade, viene stampato un avviso nella console.
+[/list]</string><string id="subtitle"></string><string id="summary"></string><string id="title">Aggiornamento di Alien Swarm: Reactive Drop - 27 Ottobre 2022</string></content>

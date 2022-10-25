@@ -1,9 +1,0 @@
-rarity		Rareté
-	common		Commun
-	uncommon		Peu commun
-	rare		Rare
-	legendary		Légendaire
-	genuine		
-	strange		
-slot		
-	medal		

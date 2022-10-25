@@ -1,9 +1,0 @@
-rarity		Zeldzaamheid
-	common		Vaak voorkomend
-	uncommon		Niet vaak voorkomend
-	rare		Zeldzaam
-	legendary		Legendarisch
-	genuine		
-	strange		
-slot		
-	medal		

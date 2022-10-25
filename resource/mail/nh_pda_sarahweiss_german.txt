@@ -1,12 +1,12 @@
 GAME
 {
-// PDA belongs to Sergeant Sarah Weiss
-// Sent mail
-"MailFrom3"	"An: Lt. Gael Florenza"
-"MailDate3"	"Datum: 06/16/42"
-"MailSubject3"	"Betreff: Ich bin's, Carradine"
-"MailBody3A"	"[Senden fehlgeschlagen: Ihr PDA wurde vom Netzwerk getrennt]"
-"MailBody3B"	"Florenza, ich habe dich ausgewählt, weil... Scheiße. Ich gebe es nur ungern zu, aber du bist wirklich der weniger Böse von uns."
-"MailBody3C"	"Ich würde meine Marke darauf verwetten: Captain Carradine hat etwas mit den Verschwundenen zu tun. Wenn er nicht selbst dahintersteckt, steckt er definitiv mit denjenigen unter einer Decke, die es sind. Woher ich das weiß? Weil ich ihm eine Frage zu viel gestellt habe, die er mir beim besten Willen nicht beantworten konnte. Er mag ein Kriegsheld sein, aber wenn er nicht der schlechteste Lügner ist, den ich kenne. Rate mal, wer ein paar Tage später auftaucht und mich direkt um einen "Wartungsauftrag" bittet, ohne Fragen zu stellen? Von wegen Wartungsarbeiten. Der Wichser hat mich in den Kontrollraum der alten Lagertüren gesperrt. Ließ mich verrotten wie eine Ratte im Käfig. Er hat es sogar gewagt, einen Stromausfall vorzutäuschen, aber ich bin ja nicht blöd. Keinen Moment später wurde mein PDA vom Server getrennt. Was für ein Zufall."
-"MailBody3D"	"Leutnant, wenn ich hier drin den Löffel abgebe, aber wie durch ein Wunder erhältst du diese Nachricht: Halte diese Bastarde auf, denn niemand wird es tun, wenn du es nicht tust."
+	// PDA belongs to Sergeant Sarah Weiss
+	// Sent mail
+	"MailFrom3"	"An: Lt. Gael Florenza"
+	"MailDate3"	"Datum: 06/16/42"
+	"MailSubject3"	"Betreff: Ich bin's, Carradine"
+	"MailBody3A"	"[Senden fehlgeschlagen: Ihr PDA wurde vom Netzwerk getrennt]"
+	"MailBody3B"	"Florenza, ich habe dich ausgewählt, weil... Scheiße. Ich gebe es nur ungern zu, aber du bist wirklich der weniger Böse von uns."
+	"MailBody3C"	"Ich würde meine Marke darauf verwetten: Captain Carradine hat etwas mit den Verschwundenen zu tun. Wenn er nicht selbst dahintersteckt, steckt er definitiv mit denjenigen unter einer Decke, die es sind. Woher ich das weiß? Weil ich ihm eine Frage zu viel gestellt habe, die er mir beim besten Willen nicht beantworten konnte. Er mag ein Kriegsheld sein, aber wenn er nicht der schlechteste Lügner ist, den ich kenne. Rate mal, wer ein paar Tage später auftaucht und mich direkt um einen "Wartungsauftrag" bittet, ohne Fragen zu stellen? Von wegen Wartungsarbeiten. Der Wichser hat mich in den Kontrollraum der alten Lagertüren gesperrt. Ließ mich verrotten wie eine Ratte im Käfig. Er hat es sogar gewagt, einen Stromausfall vorzutäuschen, aber ich bin ja nicht blöd. Keinen Moment später wurde mein PDA vom Server getrennt. Was für ein Zufall."
+	"MailBody3D"	"Leutnant, wenn ich hier drin den Löffel abgebe, aber wie durch ein Wunder erhältst du diese Nachricht: Halte diese Bastarde auf, denn niemand wird es tun, wenn du es nicht tust."
 }

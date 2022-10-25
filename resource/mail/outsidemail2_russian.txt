@@ -3,7 +3,7 @@ GAME
 	// PDA belongs to Brian
 
 	"MailFrom1"	"От: Хелен Янг"
-	"MailDate1"	"Дата: 12/22/52"
+	"MailDate1"	"Дата: 22.12.52"
 	"MailSubject1"	"Тема: Нет работы"
 	"MailBody1A"	"Привет, Брайан"
 	"MailBody1B"	"Мы продолжаем скучать друг по другу."
