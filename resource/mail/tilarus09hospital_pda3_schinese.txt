@@ -2,7 +2,7 @@ GAME
 {
 	// PDA belongs to David Foster
 
-	// sent mail 
+	// sent mail
 	"MailFrom3"	"收件人：安德鲁.沃德"
 	"MailDate3"	"日期：03/16/46"
 	"MailSubject3"	"主题：需要帮助"

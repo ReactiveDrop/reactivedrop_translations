@@ -2,7 +2,7 @@
 {
 	// PDA belongs to Vincent baker
 
-	// inbox 
+	// inbox
 	"MailFrom1"	"差出人: フアン・ロサレス"
 	"MailDate1"	"送信日時: 52年12月18日"
 	"MailSubject1"	"件名: 酒と女？"

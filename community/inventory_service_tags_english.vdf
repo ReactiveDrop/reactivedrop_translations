@@ -1,0 +1,24 @@
+﻿"lang"
+{
+"Language"		"english"
+"Tokens"
+{
+"inventory_name_format_1"		"Unique %ITEMNAME%"
+"inventory_name_format_2"		""
+"inventory_name_format_3"		""
+"inventory_name_format_4"		""
+"inventory_name_format_5"		""
+"inventory_name_format_6"		""
+"inventory_name_format_7"		""
+"inventory_name_format_8"		""
+"inventory_rarity"		"Rarity"
+"inventory_rarity_common"		"Common"
+"inventory_rarity_uncommon"		"Uncommon"
+"inventory_rarity_rare"		"Rare"
+"inventory_rarity_legendary"		"Legendary"
+"inventory_rarity_genuine"		"Genuine"
+"inventory_rarity_strange"		"Strange"
+"inventory_slot"		"Slot"
+"inventory_slot_medal"		"Medal"
+}
+}

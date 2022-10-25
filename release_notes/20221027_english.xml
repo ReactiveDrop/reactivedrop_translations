@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<content><string id="body">Hot off the tail of last week's update, here are some fixes for bugs reported by the community.
+
+[h1]Weapons[/h1]
+[list]
+[*][b]IAF Medical Gun:[/b] Fixed collision being oriented differently than the visible model.
+[*][b]CR18 Freeze Grenades:[/b] Fixed collision being oriented differently than the visible model.
+[*][b]Flashlight Attachment:[/b] Fixed a long-standing issue with this equipment's center of gravity.
+[*][b]FG01 Hand Grenades:[/b] Fixed collision being oriented differently than the visible model.
+[*][b]IAF Medical Amplifier Gun:[/b] Fixed collision being oriented differently than the visible model.
+[*][b]TG-05 Gas Grenades:[/b] Fixed collision being oriented differently than the visible model.
+[/list]
+
+[h1]Misc[/h1]
+[list]
+[*]Fixed doors sometimes surviving a single large hit that dealt more than their max health.
+[*]Fixed a rare ragdoll-related crash.
+[*]Fixed a crash when killing aliens without a Steam client connection on a map loaded via console commands.
+[*]Fixed a crash when leaving the mission settings screen with a dropdown menu open.
+[*]Fixed a duplicate in-game voting menu being visible during briefing if a briefing camera is in use.
+[*]Added convar asw_blip_color_parasite_egg for setting the color of unhatched parasites on the minimap.
+[*]Fixed being unable to join lobbies for certain missions through the game UI.
+[*]Fixed the list of disabled workshop addons not being loaded at startup.
+[*]Fixed wanderers and hordes spawning behind vault doors.
+[*]Added a workaround for the engine sometimes forgetting which players are voice-muted.
+[/list]
+
+[h1]Mapping[/h1]
+[list]
+[*]env_sprite_clientside now changes to server-side env_sprite if it has a targetname or parentname defined. A warning is printed to the console if this happens.
+[/list]</string><string id="subtitle"></string><string id="summary"></string><string id="title">Alien Swarm: Reactive Drop Update - October 27, 2022</string></content>

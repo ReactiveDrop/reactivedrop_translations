@@ -1,10 +1,10 @@
 GAME
 {
-// PDA belongs to John Hadan
+	// PDA belongs to John Hadan
 
-"MailFrom1"	"发件人：吉米.卡特"
-"MailDate1"	"日期：02/02/54"
-"MailSubject1"	"主题：新特装运"
-"MailBody1A"	"嗨，约翰，你知道新特的那批货吗？它被隔离起来了。
+	"MailFrom1"	"发件人：吉米.卡特"
+	"MailDate1"	"日期：02/02/54"
+	"MailSubject1"	"主题：新特装运"
+	"MailBody1A"	"嗨，约翰，你知道新特的那批货吗？它被隔离起来了。
 凯尔还告诉我在码头附近发生了事故，就在那批货的附近，你知道什么吗？"
 }

@@ -1,11 +1,11 @@
 GAME
 {
-// PDA belongs to Overseer Ross
-"MailFrom1"	"Von: Commander Harold"
-"MailDate1"	"Datum: 03/02/54"
-"MailSubject1"	"Betreff: EVacuation"
-"MailBody1A"	"Verdammt Ross, ich wünschte, du hättest nicht recht"
-"MailBody1B"	"Aber ich bin verdammt froh, dass wir deinen Rat befolgt haben. Die Evakuierung ist bereits im Gange, wie du weißt."
-"MailBody1c"	"Bringen Sie sich und Ihre Mitarbeiter aus Bucht 7 in die Stadt Dawn."
-"MailBody1d"	"Viel Glück, alter Freund"
+	// PDA belongs to Overseer Ross
+	"MailFrom1"	"Von: Commander Harold"
+	"MailDate1"	"Datum: 03/02/54"
+	"MailSubject1"	"Betreff: EVacuation"
+	"MailBody1A"	"Verdammt Ross, ich wünschte, du hättest nicht recht"
+	"MailBody1B"	"Aber ich bin verdammt froh, dass wir deinen Rat befolgt haben. Die Evakuierung ist bereits im Gange, wie du weißt."
+	"MailBody1c"	"Bringen Sie sich und Ihre Mitarbeiter aus Bucht 7 in die Stadt Dawn."
+	"MailBody1d"	"Viel Glück, alter Freund"
 }
