@@ -1,20 +1,20 @@
 GAME
 {
-// PDA belongs to Martin Bauer
-// inbox
-"MailFrom1"	"Von: SynTek Data Analyst"
-"MailDate1"	"Datum: 10/05/52"
-"MailSubject1"	"Betreff: Facility Layout Data"
-"MailBody1A"	"Hallo Martin,"
-"MailBody1B"	"Ich habe die aktualisierten Anlagenlayout-Dateien in dein Terminal hochgeladen, wie du es verlangt hast."
-"MailBody1C"	"Ich hoffe, du wirst dich nicht mehr verirren. HAHA! ;D"
-"MailBody1D"	"Mit freundlichen Grüßen, Mike Palmer"
-// sent mail
-"MailFrom3"	"An: SynTek Data Analyst"
-"MailDate3"	"Datum: 10/05/52"
-"MailSubject3"	"Betreff: Aw: Facility Layout Daten"
-"MailBody3A"	"Hi Mike,"
-"MailBody3B"	"oohh... Du bist so lustig... :P"
-"MailBody3C"	"Trotzdem danke für die Dateien."
-"MailBody3D"	"-Martin"
+	// PDA belongs to Martin Bauer
+	// inbox
+	"MailFrom1"	"Von: SynTek Data Analyst"
+	"MailDate1"	"Datum: 10/05/52"
+	"MailSubject1"	"Betreff: Facility Layout Data"
+	"MailBody1A"	"Hallo Martin,"
+	"MailBody1B"	"Ich habe die aktualisierten Anlagenlayout-Dateien in dein Terminal hochgeladen, wie du es verlangt hast."
+	"MailBody1C"	"Ich hoffe, du wirst dich nicht mehr verirren. HAHA! ;D"
+	"MailBody1D"	"Mit freundlichen Grüßen, Mike Palmer"
+	// sent mail
+	"MailFrom3"	"An: SynTek Data Analyst"
+	"MailDate3"	"Datum: 10/05/52"
+	"MailSubject3"	"Betreff: Aw: Facility Layout Daten"
+	"MailBody3A"	"Hi Mike,"
+	"MailBody3B"	"oohh... Du bist so lustig... :P"
+	"MailBody3C"	"Trotzdem danke für die Dateien."
+	"MailBody3D"	"-Martin"
 }

@@ -1,11 +1,11 @@
 GAME
 {
-// PDA belongs to Helen Young
-"MailFrom1"	"Von: Brian Howe"
-"MailDate1"	"Datum: 12/24/52"
-"MailSubject1"	"Betreff: Sprengkopf"
-"MailBody1A"	"Helen, um Himmels willen, antworte mir!  Bitte!  Dave und Tom sind tot.  Wir haben es nicht geschafft, den Sprengkopf in den Tunnel zu bekommen.  Ich verstecke mich vorerst, aber hierbleiben ist keine Option."
-"MailBody1B"	"Ich hoffe nur, dass es dir gut geht.  Es gibt so viele Dinge, die ich gerne zu dir gesagt hätte.  Es schien nur nie der richtige Zeitpunkt zu sein.  Und jetzt... ist alles falsch."
-"MailBody1C"	"Ich liebe dich."
-"MailBody1D"	"Brian"
+	// PDA belongs to Helen Young
+	"MailFrom1"	"Von: Brian Howe"
+	"MailDate1"	"Datum: 12/24/52"
+	"MailSubject1"	"Betreff: Sprengkopf"
+	"MailBody1A"	"Helen, um Himmels willen, antworte mir!  Bitte!  Dave und Tom sind tot.  Wir haben es nicht geschafft, den Sprengkopf in den Tunnel zu bekommen.  Ich verstecke mich vorerst, aber hierbleiben ist keine Option."
+	"MailBody1B"	"Ich hoffe nur, dass es dir gut geht.  Es gibt so viele Dinge, die ich gerne zu dir gesagt hätte.  Es schien nur nie der richtige Zeitpunkt zu sein.  Und jetzt... ist alles falsch."
+	"MailBody1C"	"Ich liebe dich."
+	"MailBody1D"	"Brian"
 }

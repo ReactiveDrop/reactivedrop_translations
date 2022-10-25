@@ -1,9 +1,0 @@
-rarity		Ritkaság
-	common		Közönséges
-	uncommon		Szokatlan
-	rare		Ritka
-	legendary		Legendás
-	genuine		
-	strange		
-slot		
-	medal		

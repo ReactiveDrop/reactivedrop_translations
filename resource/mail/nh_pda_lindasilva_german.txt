@@ -1,26 +1,26 @@
 GAME
 {
-// PDA belongs to Doctor Lin Da Silva
-// Inbox
-"MailFrom1"	"Von: Dr. Jacques Moreau"
-"MailDate1"	"Datum: 02/10/42"
-"MailSubject1"	"Betreff: AW: Versetzung des wissenschaftlichen Personals"
-"MailBody1A"	"Dr. Da Silva, meine Forschung verlangt von mir, dass ich eine fast chirurgische Präzision an den Tag lege. Und damit, wie es sich gehört, auch die richtige Konzentration. Angemessen, weil ich nicht ständig mit trivialen Fragen unterbrochen werde."
-"MailBody1B"	"Ich weiß die enorme Hilfe zu schätzen, die deine Assistenten bisher geleistet haben, aber die laufenden Operationen - für die ich als leitender Wissenschaftler dieser Mission verantwortlich bin - werden schnell beendet sein, wenn alle endlich zustimmen, mich meiner Arbeit zu überlassen."
-"MailBody1C"	"Danke."
-// Sent mail
-"MailFrom3"	"An: Dr. Jacques Moreau"
-"MailDate3"	"Datum: 02/09/42"
-"MailSubject3"	"Betreff: Versetzung von wissenschaftlichem Personal"
-"MailBody3A"	"Dr. Moreau,"
-"MailBody3B"	"auf deine Bitte hin habe ich die Bemühungen des Biologie-Teams auf die allgemeine Forschung verlagert; die Versuchspersonen unserer jüngsten Entdeckung wurden auch in deine persönlichen Labore gebracht. Darf ich dich trotzdem nach den Gründen für diese Entscheidung fragen?"
-"MailBody3C"	"Mit freundlichen Grüßen,"
-"MailBody3D"	"Dr. Lin Da Silva"
-"MailFrom4"	"An: Dr. Jacques Moreau"
-"MailDate4"	"Datum: 02/10/42"
-"MailSubject4"	"Betreff: AW: AW: Versetzung von wissenschaftlichem Personal"
-"MailBody4A"	"Dr. Moreau,"
-"MailBody4B"	"natürlich, ich verstehe. Es war nicht meine Absicht, deine Methoden in Frage zu stellen. Die zusätzlichen Versuchspersonen werden dir bis zum Ende der Woche zugestellt. Nam Humanum."
-"MailBody4C"	"Mit freundlichen Grüßen,"
-"MailBody4D"	"Dr. Lin Da Silva"
+	// PDA belongs to Doctor Lin Da Silva
+	// Inbox
+	"MailFrom1"	"Von: Dr. Jacques Moreau"
+	"MailDate1"	"Datum: 02/10/42"
+	"MailSubject1"	"Betreff: AW: Versetzung des wissenschaftlichen Personals"
+	"MailBody1A"	"Dr. Da Silva, meine Forschung verlangt von mir, dass ich eine fast chirurgische Präzision an den Tag lege. Und damit, wie es sich gehört, auch die richtige Konzentration. Angemessen, weil ich nicht ständig mit trivialen Fragen unterbrochen werde."
+	"MailBody1B"	"Ich weiß die enorme Hilfe zu schätzen, die deine Assistenten bisher geleistet haben, aber die laufenden Operationen - für die ich als leitender Wissenschaftler dieser Mission verantwortlich bin - werden schnell beendet sein, wenn alle endlich zustimmen, mich meiner Arbeit zu überlassen."
+	"MailBody1C"	"Danke."
+	// Sent mail
+	"MailFrom3"	"An: Dr. Jacques Moreau"
+	"MailDate3"	"Datum: 02/09/42"
+	"MailSubject3"	"Betreff: Versetzung von wissenschaftlichem Personal"
+	"MailBody3A"	"Dr. Moreau,"
+	"MailBody3B"	"auf deine Bitte hin habe ich die Bemühungen des Biologie-Teams auf die allgemeine Forschung verlagert; die Versuchspersonen unserer jüngsten Entdeckung wurden auch in deine persönlichen Labore gebracht. Darf ich dich trotzdem nach den Gründen für diese Entscheidung fragen?"
+	"MailBody3C"	"Mit freundlichen Grüßen,"
+	"MailBody3D"	"Dr. Lin Da Silva"
+	"MailFrom4"	"An: Dr. Jacques Moreau"
+	"MailDate4"	"Datum: 02/10/42"
+	"MailSubject4"	"Betreff: AW: AW: Versetzung von wissenschaftlichem Personal"
+	"MailBody4A"	"Dr. Moreau,"
+	"MailBody4B"	"natürlich, ich verstehe. Es war nicht meine Absicht, deine Methoden in Frage zu stellen. Die zusätzlichen Versuchspersonen werden dir bis zum Ende der Woche zugestellt. Nam Humanum."
+	"MailBody4C"	"Mit freundlichen Grüßen,"
+	"MailBody4D"	"Dr. Lin Da Silva"
 }

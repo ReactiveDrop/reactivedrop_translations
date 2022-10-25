@@ -2,7 +2,7 @@ GAME
 {
 	// PDA di proprietà di Tony Dawson
 
-	// inbox 
+	// inbox
 
 	"MailFrom1"	"Da: Barbara Whyte"
 	"MailDate1"	"Data: 06/10/57"

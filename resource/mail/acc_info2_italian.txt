@@ -1,6 +1,6 @@
 GAME
 {
-  "MailFrom1"	"A: #veryone"
+	"MailFrom1"	"A: #veryone"
 	"MailDate1"	"Data: 10/19/30"
 	"MailSubject1"	"Soggetto: AMBER FAI SCHIFO"
 	"MailBody1A"	"Questa lettera è stata inviata a tutti i lavoratori in AMBER. Questo stupido sistema di posta sviluppato da programmatori inesperti di AMBER ha davvero molti difetti. Se vuoi inviare segretamente messaggi ad altri lavoratori senza che AMBER lo sappia, aggiungi semplicemente '&HIDDEN' alla fine dell'oggetto nella tua posta."

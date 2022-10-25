@@ -1,9 +1,0 @@
-rarity		ระดับความหายาก
-	common		
-	uncommon		
-	rare		
-	legendary		
-	genuine		
-	strange		
-slot		
-	medal		
