@@ -1810,7 +1810,7 @@
 "jaeger.Parasite2"		"<clr:198,226,255>Jaeger: 気をつけろ、パラサイトだ！"
 "[english]jaeger.Parasite2"		"<clr:198,226,255>Jaeger: Watch out, parasite!"
 "jaeger.BeenInfested0"		"<clr:198,226,255>Jaeger: クソッタレめ！(ドイツ語) 取ってくれ！"
-"[english]jaeger.BeenInfested0"		"<clr:198,226,255>Jaeger: Verdammte Scheisse! Get it off!"
+"[english]jaeger.BeenInfested0"		"<clr:198,226,255>Jaeger: Verdammte Scheiße! Get it off!"
 "jaeger.BeenInfested1"		"<clr:198,226,255>Jaeger: 取ってくれ！"
 "[english]jaeger.BeenInfested1"		"<clr:198,226,255>Jaeger: Get it off!"
 "jaeger.BeenInfested2"		"<clr:198,226,255>Jaeger: 剥がしてくれ！"

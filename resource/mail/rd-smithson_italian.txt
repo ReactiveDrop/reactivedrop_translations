@@ -2,7 +2,7 @@ GAME
 {
 	// PDA di proprietà di Andrew Smithson
 
-	// inbox 
+	// inbox
 	"MailFrom1"	"Da: James Shluger"
 	"MailDate1"	"Data: 09/10/57"
 	"MailSubject1"	"Soggetto: Porta difettosa"

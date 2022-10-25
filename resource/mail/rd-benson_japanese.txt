@@ -2,7 +2,7 @@
 {
 	// PDA belongs to George Benson
 
-	// inbox 
+	// inbox
 	"MailFrom1"	"差出人: 物流・保管部"
 	"MailDate1"	"送信日時: 53年10月24日"
 	"MailSubject1"	"件名: Re: チェーンソー？！"

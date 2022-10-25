@@ -21,4 +21,4 @@ GAME
 	"MailBody3B"	"偶偶偶... 你太有趣了... :P"
 	"MailBody3C"	"还是要谢谢你的文件。"
 	"MailBody3D"	"-马丁"
-} 
+}

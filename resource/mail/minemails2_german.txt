@@ -1,10 +1,10 @@
 GAME
 {
-// PDA belongs to Lt. Cain
-"MailFrom1"	"Von: Laura Callen"
-"MailDate1"	"Datum: 12/24/52"
-"MailSubject1"	"Betreff: Das ist es"
-"MailBody1A"	"Kriegsrecht?"
-"MailBody1B"	"Dafür ist es zu spät."
-"MailBody1C"	"Wir müssen ernsthaft eingreifen, oder wir werden diese Einrichtung verlieren."
+	// PDA belongs to Lt. Cain
+	"MailFrom1"	"Von: Laura Callen"
+	"MailDate1"	"Datum: 12/24/52"
+	"MailSubject1"	"Betreff: Das ist es"
+	"MailBody1A"	"Kriegsrecht?"
+	"MailBody1B"	"Dafür ist es zu spät."
+	"MailBody1C"	"Wir müssen ernsthaft eingreifen, oder wir werden diese Einrichtung verlieren."
 }

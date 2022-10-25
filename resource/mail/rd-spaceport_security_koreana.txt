@@ -2,7 +2,7 @@
 {
 	// PDA belongs to Tony Dawson
 
-	// inbox 
+	// inbox
 
 	"MailFrom1"	"송신자: 바바라 화이트"
 	"MailDate1"	"날짜: 57년 10월 6일"
