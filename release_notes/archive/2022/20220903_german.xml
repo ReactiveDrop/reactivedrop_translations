@@ -119,4 +119,4 @@ Gibt den Soldaten zurück, den der Spieler befehligt
 Findet das nächstgelegene Objekt vor dem Spieler
 
 [code]Vector GetCrosshairTracePos()[/code]
-Liefert den Standort der Welt direkt unter dem Fadenkreuz des Spielers</string><string id="subtitle"></string><string id="summary"></string><string id="title">Alien Swarm: Reactive Drop Update - 3. September 2022</string></content>
+Liefert den Standort der Welt direkt unter dem Fadenkreuz des Spielers</string><string id="subtitle"></string><string id="summary"></string><string id="title">Alien Swarm: Reactive Drop Update - September 3, 2022</string></content>

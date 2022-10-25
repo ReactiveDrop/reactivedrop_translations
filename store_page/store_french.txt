@@ -1,0 +1,21 @@
+Short Description:
+
+Jeux de tir coopératif en vue du dessus, disponible gratuitement. Une chasse aux aliens épique, incluant un mélange unique de coopération et de tactiques d'escouade.
+
+About This Game:
+
+Alien Swarm: Reactive Drop étends Alien Swarm, amenant plus de tout: cartes, aliens, modes de jeu, armes.... Et le plus important, support du Steam Workshop.
+
+[list]
+[*]Coopération Tactique jusqu'à 8 joueurs en vue du dessus
+[*]Support du Steam Workshop pour les cartes crées par la communauté et les défis
+[*]Nouvelles campagnes coopératives
+[*]Défis: Modifications du jeu, exactement comme les Mutations dans Left 4 Dead 2
+[*]PvP: Match à mort, Gun Game, Mort instantanée, et Match à mort en équipe
+[*]Jeu Solo: Jouez avec des bots améliorés sur toutes les cartes officielles
+[*]Nouveaux Aliens: Gardes fourmis-Lions de HL2 et plus encore...
+[*]Nouvelles Armes: Desert Eagle, Devastator, et Combat Rifle, et plus à venir
+[*]Plus de 100 succès Steam
+[*]Tableaux des scores: Affrontez vos amis pour être le plus rapide à terminer une mission
+[*]Mode Spectateur amélioré: regardez les mini-jeux de hacking avec chaque mouvement de souris en temps réel
+[/list]

@@ -1,16 +1,16 @@
 GAME
 {
-	// PDA belongs to Ming
-	// inbox
-	"MailFrom1"	"Von: John Cain"
-	"MailDate1"	"Datum: 12/20/52"
-	"MailSubject1"	"Betreff: Lieferung an die Forschungsstation 7"
-	"MailBody1A"	"Mr. Ming,"
-	"MailBody1B"	"IA-Agent L. Callen hat unsere Lieferung entdeckt.  Es sieht auch so aus, als ob einige der Exemplare lose sind.  Ich kümmere mich darum, aber es könnte sein, dass sie dir und deinen Mitarbeitern ein paar gezielte Fragen stellt.  Ich empfehle dir, dir im Voraus ein paar gute Antworten zu überlegen.  Mach dir deine Geschichte klar."
-	"MailBody1C"	"Lt. Cain, SynTek Security."
-	"MailFrom2"	"Von: Freund"
-	"MailSubject2"	"Betreff: Aw: Arbeitsgelegenheit"
-	"MailDate2"	"Datum: 12/18/53"
-	"MailBody2A"	"Das Paradies gefunden!"
-	"MailBody2B"	"Hast du den Alltag satt?  Beengte Lebensbedingungen, kein Essen, keine Medizin und keine saubere Luft zum Atmen?  Mach mit beim Colony Placement Program (CPP) und finde ein besseres Leben zwischen den Sternen!  Zu den Mitgliedspartnern gehören SynTek Megacorporation, Vereinigte Industrien und Frontier-Pharmazeutika.  Garantierte Vermittlung, unabhängig von deinem Profil oder deiner Kreditwürdigkeit!  Finde noch heute dein Paradies! (TM)"
+// PDA belongs to Ming
+// inbox
+"MailFrom1"	"Von: John Cain"
+"MailDate1"	"Datum: 12/20/52"
+"MailSubject1"	"Betreff: Lieferung an die Forschungsstation 7"
+"MailBody1A"	"Mr. Ming,"
+"MailBody1B"	"IA-Agent L. Callen hat unsere Lieferung entdeckt.  Es sieht auch so aus, als ob einige der Exemplare lose sind.  Ich kümmere mich darum, aber es könnte sein, dass sie dir und deinen Mitarbeitern ein paar gezielte Fragen stellt.  Ich empfehle dir, dir im Voraus ein paar gute Antworten zu überlegen.  Mach dir deine Geschichte klar."
+"MailBody1C"	"Lt. Cain, SynTek Security."
+"MailFrom2"	"Von: Freund"
+"MailSubject2"	"Betreff: Aw: Arbeitsgelegenheit"
+"MailDate2"	"Datum: 12/18/53"
+"MailBody2A"	"Das Paradies gefunden!"
+"MailBody2B"	"Hast du den Alltag satt?  Beengte Lebensbedingungen, kein Essen, keine Medizin und keine saubere Luft zum Atmen?  Mach mit beim Colony Placement Program (CPP) und finde ein besseres Leben zwischen den Sternen!  Zu den Mitgliedspartnern gehören SynTek Megacorporation, Vereinigte Industrien und Frontier-Pharmazeutika.  Garantierte Vermittlung, unabhängig von deinem Profil oder deiner Kreditwürdigkeit!  Finde noch heute dein Paradies! (TM)"
 }

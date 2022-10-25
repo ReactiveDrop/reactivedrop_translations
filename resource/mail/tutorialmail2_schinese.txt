@@ -2,7 +2,7 @@ GAME
 {
 	// PDA belongs to Vincent baker
 
-	// inbox
+	// inbox 
 	"MailFrom1"	"发件人：胡安.罗萨莱斯"
 	"MailDate1"	"日期：12/18/52"
 	"MailSubject1"	"主题：酒和美女？"

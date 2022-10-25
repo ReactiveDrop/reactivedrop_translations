@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<content><string id="body">		Today's update fixes some inconsistencies in various weapons. It also adds the ability to assign screen effects to individual marines, and a new trigger to apply different HDR settings to different areas of a map.
+
+[h1]Waffen[/h1]
+[list]
+[*][b]IAF Minigun:[/b] Nachladen mit einer ungeraden Munitionsanzahl, die zu 499/500 Munition führte, wurde behoben.
+[*][b]Taschenlampe:[/b] Diese Waffe reflektiert jetzt Licht wie andere Waffen auch.
+[*][b]Granatwerfer:[/b] Ein Fehler wurde behoben, der dazu führte, dass Granaten doppelt explodierten, wenn sie einen Alien direkt trafen. Stattdessen richten Granaten jetzt doppelten Schaden an, wenn sie einen Charakter (Soldat oder Alien) treffen. Dies behebt den Spritzschaden eines direkten Treffers, der den Ein-Treffer-Schutz umgeht, und erhöht den Schaden des Granatwerfers geringfügig (die erste Explosion stieß die Gegner vor der zweiten Explosion etwas von der Granate weg).
+		[*][b]Desert Eagle:[/b] This gun has been renamed to PS50 Bulldog and has a new appearance and sounds.
+[*][b]Mobile Amp-Heileinheit:[/b] Aktualisierter Skin, um sie von der normalen Mobile Heileinheit zu unterscheiden.
+[*][b]Gasgranaten[/b] Die Granatenbox wurde aktualisiert, damit sie dem Stil der anderen Granaten-Gegenstände entspricht.
+[/list]
+
+[h1]Aliens[/h1]
+[list]
+[*]Die Larven reflektieren das Licht wie andere Aliens auch.
+		[*]Harvesters no longer spawn xenomites when they are killed by a direct grenade hit that deals more than double their remaining health.
+[/list]
+
+[h1]Übersetzungen[/h1]
+[list]
+[*]Aktualisierte chinesische Übersetzung.
+[*]Aktualisierte deutsche Übersetzung.
+[*]Aktualisierte europäisch portugiesische Übersetzung.
+[*]Aktualisierte italienische Übersetzung.
+[*]Aktualisierte japanische Übersetzung.
+[*]Aktualisierte koreanische Übersetzung.
+[*]Aktualisierte russische Übersetzung.
+[*]Es wurde behoben, dass Übersetzungen nach 1023 Bytes automatisch abgeschnitten wurden. Übersetzungen können jetzt bis zu 4095 Bytes lang sein und eine Warnung wird auf der Konsole ausgegeben, wenn sie länger sind.
+[/list]
+
+[h1]Verschiedenes[/h1]
+[list]
+[*]Es wurde geändert, wie animierte Props vernetzt werden. Die Änderung aus dem letzten Update, dass der Server die Animationen steuert, wurde rückgängig gemacht. Stattdessen sind bestimmte Props unabhängig von der Entfernung immer für den Client sichtbar. Wenn du einem Spiel beitrittst, nachdem eine Animation begonnen hat, werden die Animationen verspätet abgespielt, das sollte das Stottern beheben.
+[*]Die Controller-Navigation in den erweiterten Einstellungen wurde verbessert.
+[*]Einige Beispiel-Farbkorrekturdateien wurden hinzugefügt.
+		[*]Explosions now deal full damage within a small radius of their epicenter, and damage falloff only starts beyond that distance.
+[/list]
+
+[h1]Mapping[/h1]
+[list]
+[*]Der brush [b]trigger_tonemap[/b] wurde hinzugefügt. Dieser Trigger setzt den aktiven Tonemap-Controller für Zeichen innerhalb seines Volumens außer Kraft und wird von der neuen SetTonemapController VScript-Funktion außer Kraft gesetzt.
+[*]Das [b]fog_volume[/b] basiert nun auf der Position der Augen des aktuell gesteuerten Charakters und nicht mehr auf der Kameraposition. Einige Karten müssen möglicherweise bearbeitet werden, um ihre fog_volume-Entitäten nach Norden zu verschieben, wenn sie ursprünglich erstellt wurden, um die Kameraverschiebung zu kompensieren. fog_volume kann jetzt von den neuen VScript-Funktionen SetFogController, SetPostProcessController und SetColorCorrection überschrieben werden.
+[/list]
+
+[h1]VScript[/h1]
+[list]
+[*][b]CASW_Marine::GetMarineName()[/b] leaked nicht mehr bei jedem Aufruf Speicher und übersetzt den Namen jetzt richtig.
+[*]Methode [b]GetCommander[/b] für bewohnbare NPCs (z.B. Soldaten) hinzugefügt.
+[*]Methode [b]SetFogController[/b] für bewohnbare NPCs hinzugefügt.
+[*]Methode [b]SetPostProcessController[/b] für bewohnbare NPCs hinzugefügt.
+[*]Methode [b]SetColorCorrection[/b] für bewohnbare NPCs hinzugefügt.
+[*]Methode [b]SetTonemapController[/b] für bewohnbare NPCs hinzugefügt.
+[/list]</string><string id="subtitle"></string><string id="summary"></string><string id="title">Alien Swarm: Reactive Drop Update - October 20, 2022</string></content>

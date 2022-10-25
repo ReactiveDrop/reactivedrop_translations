@@ -21,4 +21,4 @@ GAME
 	"MailBody3B"	"O enxame não deve ser capaz de arrombar essa porta, pois é de metal fortemente reforçado. Eles não podem ter acesso aos geradores a menos que encontrem alguma outra maneira lá."
 	"MailBody3C" É, eu gostaria de ver isso..."
 	"MailBody3D"	"-Engenheiro Chefe do Reator"
-}
+} 

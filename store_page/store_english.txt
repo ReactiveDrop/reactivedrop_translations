@@ -1,0 +1,39 @@
+Short Description:
+
+Co-operative top-down shooter game available for free. An epic bug hunt featuring a unique blend of co-op play and squad-level tactics.
+
+---
+
+About This Game:
+
+Alien Swarm: Reactive Drop extends Alien Swarm, bringing more of everything: maps, aliens, game modes, guns... And most importantly Steam Workshop support.
+
+[list]
+[*]Tactical co-op for up to 8 players with a top-down perspective
+[*]Steam Workshop support for community maps and challenges
+[*]New co-operative campaigns
+[*]Challenges: Modifications of the game, just like Mutations in Left 4 Dead 2
+[*]PvP: Deathmatch, Gun Game, Instagib, and Team Deathmatch
+[*]Singleplayer: Play with improved bots on all our official maps
+[*]New Aliens: HL2 antlion guards and more
+[*]New Weapons: Desert Eagle, Devastator, and Combat Rifle, with more to come
+[*]Over 100 Steam achievements
+[*]Leaderboards: compete with your friends for the fastest mission completion
+[*]Improved spectating: see hacking minigames and mouse movements in real time
+[/list]
+
+System Requirements:
+
+Windows® XP or above
+Pentium 4 or newer
+DirectX 9 compatible video card with 128 MB, Shader model 2.0. ATI X800, NVidia 6600 or better
+DirectX 9.0c compatible sound card
+Disk space requirement depends on installed Workshop addons.
+
+---
+
+Mature Content:
+
+The main gameplay loop is using weapons to kill alien bugs. Aliens explode into blood and gore when killed. Bloodied human corpses can be found in some missions, but there is no graphic human dismemberment. Friendly fire with explosives can cause marines to break apart into cartoon "gibs".
+Profanity such as "shit" is used in voiced dialogue. Strong language is also used in some optional written content.
+Photosensitivity warning: There are some community-made missions that use a strobe light effect.

@@ -1,26 +1,26 @@
 GAME
 {
-	// PDA belongs to Windows
-	// inbox
-	"MailFrom1"	"Von: Childs"
-	"MailDate1"	"Datum: 02/02/54"
-	"MailSubject1"	"Betreff: Aw: Die Zwinger"
-	"MailBody1A"	"Mann, das war vielleicht eine komische Scheiße, die da vorhin passiert ist."
-	"MailBody1B"	"Als Bennings auf mich zugelaufen ist, dachte ich, dass er und Mac "
-	"MailBody1C"	"verrückt geworden war. Vielleicht hat Mac das schon?"
-	"MailBody1D"	"Und wer hätte gedacht, dass der Flammenwerfer tatsächlich nützlich sein würde?"
-	"MailFrom2"	"Von: Childs"
-	"MailDate2"	"Datum: 02/02/54"
-	"MailSubject2"	"Betreff: Aw:Aw: Die Zwinger"
-	"MailBody2A"	"Nicht, dass ich mich beschweren würde, es hat uns definitiv den Arsch gerettet, aber ist es nicht ein bisschen unverantwortlich, ein Hoch zu hinterlassen?"
-	"MailBody2B"	"Unbeständige und geradezu gefährliche Waffe in den Händen einer Gruppe von Forschern mit wenig bis gar keinem Kontakt zur Außenwelt"
-	"MailBody2C"	"Monatelang?"
-	"MailBody2D"	"Ich meine, es reicht, wenn einer von uns ein bisschen durchdreht, und schon sind wir alle erledigt."
-	// sent mail
-	"MailFrom3"	"An: Windows"
-	"MailDate3"	"Datum: 02/02/54"
-	"MailSubject3"	"Betreff: Aw: Die Zwinger"
-	"MailBody3A"	"Es stellt sich die Frage, wir sind Kunstforscher und keine Soldaten, was zum Teufel machen wir mit einem Flammenwerfer?"
-	"MailBody3B"	"Welchen Zweck erfüllt es für uns? Warum ist es hier?"
-	"MailBody3C"	"Behalte Dr. Blair im Auge, er scheint seit dem Vorfall im Zwinger etwas nervös zu sein."
+// PDA belongs to Windows
+// inbox
+"MailFrom1"	"Von: Childs"
+"MailDate1"	"Datum: 02/02/54"
+"MailSubject1"	"Betreff: Aw: Die Zwinger"
+"MailBody1A"	"Mann, das war vielleicht eine komische Scheiße, die da vorhin passiert ist."
+"MailBody1B"	"Als Bennings auf mich zugelaufen ist, dachte ich, dass er und Mac "
+"MailBody1C"	"verrückt geworden war. Vielleicht hat Mac das schon?"
+"MailBody1D"	"Und wer hätte gedacht, dass der Flammenwerfer tatsächlich nützlich sein würde?"
+"MailFrom2"	"Von: Childs"
+"MailDate2"	"Datum: 02/02/54"
+"MailSubject2"	"Betreff: Aw:Aw: Die Zwinger"
+"MailBody2A"	"Nicht, dass ich mich beschweren würde, es hat uns definitiv den Arsch gerettet, aber ist es nicht ein bisschen unverantwortlich, ein Hoch zu hinterlassen?"
+"MailBody2B"	"Unbeständige und geradezu gefährliche Waffe in den Händen einer Gruppe von Forschern mit wenig bis gar keinem Kontakt zur Außenwelt"
+"MailBody2C"	"Monatelang?"
+"MailBody2D"	"Ich meine, es reicht, wenn einer von uns ein bisschen durchdreht, und schon sind wir alle erledigt."
+// sent mail
+"MailFrom3"	"An: Windows"
+"MailDate3"	"Datum: 02/02/54"
+"MailSubject3"	"Betreff: Aw: Die Zwinger"
+"MailBody3A"	"Es stellt sich die Frage, wir sind Kunstforscher und keine Soldaten, was zum Teufel machen wir mit einem Flammenwerfer?"
+"MailBody3B"	"Welchen Zweck erfüllt es für uns? Warum ist es hier?"
+"MailBody3C"	"Behalte Dr. Blair im Auge, er scheint seit dem Vorfall im Zwinger etwas nervös zu sein."
 }

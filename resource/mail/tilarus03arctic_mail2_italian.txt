@@ -21,4 +21,4 @@ GAME
 	"MailBody3B"	"Lo Sciame non dovrebbe essere in grado di aprire quella porta poiché è in metallo pesantemente rinforzato. Non possono accedere ai generatori se non riescono a capire come entrare in qualche altro modo."
 	"MailBody3C"	"Sì, mi è piaciuto vedere come..."
 	"MailBody3D"	"-Ingegnere capo del reattore"
-}
+} 

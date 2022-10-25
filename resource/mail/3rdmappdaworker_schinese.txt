@@ -1,6 +1,6 @@
 GAME
 {
-	// PDA belongs to Naka
+// PDA belongs to Naka
 
 	"MailFrom1"	"发件人：指挥官"
 	"MailDate1"	"日期：09/25/63"

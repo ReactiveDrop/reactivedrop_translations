@@ -1,35 +1,35 @@
 GAME
 {
-	// PDA belongs to Overseer Ross
-	// inbox
+// PDA belongs to Overseer Ross
+// inbox
 
-	"MailFrom1"	"发件人：吉米.卡特"
-	"MailDate1"	"日期：02/02/54"
-	"MailSubject1"	"主题：反应堆压力下降"
-	"MailBody1A"	"嗨，罗斯，"
-	"MailBody1B"	"我只是在报告第六区有奇怪的声音，"
-	"MailBody1C"	"还有很多破裂的管道，超级多的管道，1号反应堆的压力下降了15%。"
-	"MailBody1D"	"需要帮忙的话，回头再聊。"
+"MailFrom1"	"发件人：吉米.卡特"
+"MailDate1"	"日期：02/02/54"
+"MailSubject1"	"主题：反应堆压力下降"
+"MailBody1A"	"嗨，罗斯，"
+"MailBody1B"	"我只是在报告第六区有奇怪的声音，"
+"MailBody1C"	"还有很多破裂的管道，超级多的管道，1号反应堆的压力下降了15%。"
+"MailBody1D"	"需要帮忙的话，回头再聊。"
 
-	"MailFrom2"	"发件人：吉米.卡特"
-	"MailDate2"	"日期：02/02/54"
-	"MailSubject2"	"主题：约翰？"
-	"MailBody2A"	"罗斯，已经快8个小时了，你打算把约翰送下去？"
+"MailFrom2"	"发件人：吉米.卡特"
+"MailDate2"	"日期：02/02/54"
+"MailSubject2"	"主题：约翰？"
+"MailBody2A"	"罗斯，已经快8个小时了，你打算把约翰送下去？"
 
-	// sent mail
-	"MailFrom3"	"收件人：监督者 罗斯"
-	"MailDate3"	"日期：02/02/54"
-	"MailSubject3"	"主题：回复：反应堆压力下降"
-	"MailBody3A"	"吉米，"
-	"MailBody3B"	"抱歉，吉米，我无能为力，大部分人都在忙着清理6号舱的事故。"
-	"MailBody3C"	"但是我会让约翰一起去，继续检查反应堆，如果低于25%，殖民地的能量就会随之而去了"
+// sent mail
+"MailFrom3"	"收件人：监督者 罗斯"
+"MailDate3"	"日期：02/02/54"
+"MailSubject3"	"主题：回复：反应堆压力下降"
+"MailBody3A"	"吉米，"
+"MailBody3B"	"抱歉，吉米，我无能为力，大部分人都在忙着清理6号舱的事故。"
+"MailBody3C"	"但是我会让约翰一起去，继续检查反应堆，如果低于25%，殖民地的能量就会随之而去了"
 
-	"MailFrom4"	"收件人：监督者 罗斯"
-	"MailDate4"	"日期：02/02/54"
-	"MailSubject4"	"主题：回复：约翰？"
-	"MailBody4A"	"吉米，"
-	"MailBody4B"	"我一给你发完邮件就叫约翰去了，最多20分钟就能到你那里"
-	"MailBody4C"	"我去问问他的其他朋友，看他们知不知道他在哪儿"
-	"MailBody4D"	"我还要通知保安注意他，最近有很多人失踪了"
+"MailFrom4"	"收件人：监督者 罗斯"
+"MailDate4"	"日期：02/02/54"
+"MailSubject4"	"主题：回复：约翰？"
+"MailBody4A"	"吉米，"
+"MailBody4B"	"我一给你发完邮件就叫约翰去了，最多20分钟就能到你那里"
+"MailBody4C"	"我去问问他的其他朋友，看他们知不知道他在哪儿"
+"MailBody4D"	"我还要通知保安注意他，最近有很多人失踪了"
 
 }

@@ -2,7 +2,7 @@
 {
 	// PDA belongs to David Foster
 
-	// sent mail
+	// sent mail 
 	"MailFrom3"	"宛先: アンドリュー・ウォード"
 	"MailDate3"	"送信日時: 46年3月16日"
 	"MailSubject3"	"件名: 助けが必要だ"

@@ -1,19 +1,19 @@
 GAME
 {
-	// Hacked into network history: Lieutenant Gael Florenza
-	// Sent mail
-	"MailFrom3"	"An: Iris Florenza"
-	"MailDate3"	"Datum: 01/19/41"
-	"MailSubject3"	"Betreff: Expeditionsauftakt"
-	"MailBody3A"	"Lieber Schatz,"
-	"MailBody3B"	"es hat länger gedauert als erwartet, bis wir mit den geologischen und botanischen Expeditionen beginnen konnten, aber wir haben es trotzdem getan. Und obwohl es sicher nicht an Felsen mangelt... Ich selbst bezweifle, dass dieser kalte Globus grün sein kann. Auf jeden Fall war es die Pflicht deines Mannes, die erste Outdoor-Party sicher zu leiten. Wenigstens waren die Dutzende von Wochen, die wir mit der Planung der Routen verbracht haben, nicht umsonst. Den Göttern sei Dank."
-	"MailBody3C"	"Ich ertappe mich dabei, wie ich meinen Blick mehr und mehr auf Dr. Moreau richte, wenn er sich über die Forschungsetagen wagt. Nachdem er es so weit gebracht hat, dass er auf der Sonnenseite der Wissenschaft steht, würde ich ihn nicht für etwas anderes halten als einen Mann mit Überzeugung... Doch sein geistiger Zustand scheint sich seit dem Tod seiner Frau nur verschlechtert zu haben. Ich kann seinen Schmerz nur nachempfinden und hoffe auf eine baldige Genesung, zum Wohle der Kolonie und für unsere Zukunft. Deine, meine und die unseres Kindes."
-	"MailBody3D"	"Nam Humanum."
-	"MailFrom4"	"An: Iris Florenza"
-	"MailDate4"	"Datum: 05/28/41"
-	"MailSubject4"	"Betreff: Routine-Einstellung"
-	"MailBody4A"	"Lieber Schatz,"
-	"MailBody4B"	"Expeditionen zu den unerforschten Oberflächen des Planeten, die mit Eile voranschreiten, wäre das Mindeste, was man sagen kann. Ich habe schon mehr Touren abgeschlossen, als ich mir in einem Jahr hätte vorstellen können. Es ist eine stressige Aufgabe mit viel Verantwortung, aber sie hat auch ihre guten Seiten. Ab und zu, wenn unsere Eierköpfe den Marsch ruckartig anhalten, nur um über den kleinsten Kieselstein mit verdächtiger Form zu stolpern, schaue ich gerne in unseren dunklen Himmel und stelle mir vor, dass auch du in diesem Moment zu den Sternen aufblickst."
-	"MailBody4C"	"Ich freue mich, berichten zu können, dass sich meine Bedenken gegenüber Dr. Moreau als unbegründet erwiesen haben. Er und Kapitän Carradine arbeiten Hand in Hand und bemühen sich, die Entwicklung der Kolonie voranzutreiben, mit dem Ziel, in naher Zukunft das Pendeln zu erleichtern, uns endlich aus unseren Fertighäusern im Freien herauszuholen und möglicherweise neue Siedler für ein "dynamischeres Ganzes" zu gewinnen, wie sie sagen. Obwohl ich nicht weiß, wie lange ich mich noch nach deiner Anwesenheit sehnen muss, bin ich froh, dass sich die Dinge wieder zum Guten wenden."
-	"MailBody4D"	"Nam Humanum."
+// Hacked into network history: Lieutenant Gael Florenza
+// Sent mail
+"MailFrom3"	"An: Iris Florenza"
+"MailDate3"	"Datum: 01/19/41"
+"MailSubject3"	"Betreff: Expeditionsauftakt"
+"MailBody3A"	"Lieber Schatz,"
+"MailBody3B"	"es hat länger gedauert als erwartet, bis wir mit den geologischen und botanischen Expeditionen beginnen konnten, aber wir haben es trotzdem getan. Und obwohl es sicher nicht an Felsen mangelt... Ich selbst bezweifle, dass dieser kalte Globus grün sein kann. Auf jeden Fall war es die Pflicht deines Mannes, die erste Outdoor-Party sicher zu leiten. Wenigstens waren die Dutzende von Wochen, die wir mit der Planung der Routen verbracht haben, nicht umsonst. Den Göttern sei Dank."
+"MailBody3C"	"Ich ertappe mich dabei, wie ich meinen Blick mehr und mehr auf Dr. Moreau richte, wenn er sich über die Forschungsetagen wagt. Nachdem er es so weit gebracht hat, dass er auf der Sonnenseite der Wissenschaft steht, würde ich ihn nicht für etwas anderes halten als einen Mann mit Überzeugung... Doch sein geistiger Zustand scheint sich seit dem Tod seiner Frau nur verschlechtert zu haben. Ich kann seinen Schmerz nur nachempfinden und hoffe auf eine baldige Genesung, zum Wohle der Kolonie und für unsere Zukunft. Deine, meine und die unseres Kindes."
+"MailBody3D"	"Nam Humanum."
+"MailFrom4"	"An: Iris Florenza"
+"MailDate4"	"Datum: 05/28/41"
+"MailSubject4"	"Betreff: Routine-Einstellung"
+"MailBody4A"	"Lieber Schatz,"
+"MailBody4B"	"Expeditionen zu den unerforschten Oberflächen des Planeten, die mit Eile voranschreiten, wäre das Mindeste, was man sagen kann. Ich habe schon mehr Touren abgeschlossen, als ich mir in einem Jahr hätte vorstellen können. Es ist eine stressige Aufgabe mit viel Verantwortung, aber sie hat auch ihre guten Seiten. Ab und zu, wenn unsere Eierköpfe den Marsch ruckartig anhalten, nur um über den kleinsten Kieselstein mit verdächtiger Form zu stolpern, schaue ich gerne in unseren dunklen Himmel und stelle mir vor, dass auch du in diesem Moment zu den Sternen aufblickst."
+"MailBody4C"	"Ich freue mich, berichten zu können, dass sich meine Bedenken gegenüber Dr. Moreau als unbegründet erwiesen haben. Er und Kapitän Carradine arbeiten Hand in Hand und bemühen sich, die Entwicklung der Kolonie voranzutreiben, mit dem Ziel, in naher Zukunft das Pendeln zu erleichtern, uns endlich aus unseren Fertighäusern im Freien herauszuholen und möglicherweise neue Siedler für ein "dynamischeres Ganzes" zu gewinnen, wie sie sagen. Obwohl ich nicht weiß, wie lange ich mich noch nach deiner Anwesenheit sehnen muss, bin ich froh, dass sich die Dinge wieder zum Guten wenden."
+"MailBody4D"	"Nam Humanum."
 }

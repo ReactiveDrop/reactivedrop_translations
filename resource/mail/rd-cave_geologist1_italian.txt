@@ -2,7 +2,7 @@ GAME
 {
 	// PDA di proprietà di cave_geologist1
 
-	// inbox
+	// inbox 
 	"MailFrom1"	"Da: G.S.D."
 	"MailDate1"	"Data: 17/09/57"
 	"MailSubject1"	"Soggetto: Re: Risultati preliminari del sistema delle caverne"

@@ -2,7 +2,7 @@
 {
 	// PDA belongs to Tony Dawson
 
-	// inbox
+	// inbox 
 
 	"MailFrom1"	"差出人: バーバラ・ホワイト"
 	"MailDate1"	"送信日時: 57年10月6日"

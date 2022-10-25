@@ -1,11 +1,11 @@
 GAME
 {
 
-	"MailFrom1"	"De: Comandante Houghton"
-	"MailDate1"	"Data: 30/12/52"
-	"MailSubject1"	"Assunto: Operação Erradicação"
-	"MailBody1A"	"Bom trabalho, Alfa."
-	"MailBody1B"	"O CP7 parece estar limpo, mas estamos captando sinais de biomassa vindos das Minas do Jericho ao Norte da sua posição."
-	"MailBody1C"	"Deve haver uma escotilha de manutenção ao Leste do computador de extermínio. Vá até lá e atravesse pela floresta."
-	"MailBody1D"	"Parece que a ameaça principal se foi, mas precisamos garantir que todos os hostis sejam mortos. Câmbio desligo."
-}
+"MailFrom1"	"De: Comandante Houghton"
+"MailDate1"	"Data: 30/12/52"
+"MailSubject1"	"Assunto: Operação Erradicação"
+"MailBody1A"	"Bom trabalho, Alfa."
+"MailBody1B"	"O CP7 parece estar limpo, mas estamos captando sinais de biomassa vindos das Minas do Jericho ao Norte da sua posição."
+"MailBody1C"	"Deve haver uma escotilha de manutenção ao Leste do computador de extermínio. Vá até lá e atravesse pela floresta."
+"MailBody1D"	"Parece que a ameaça principal se foi, mas precisamos garantir que todos os hostis sejam mortos. Câmbio desligo."
+} 

@@ -1,10 +1,10 @@
 GAME
 {
-	"MailFrom1"	"Von: Commander Houghton"
-	"MailDate1"	"Datum: 12/30/52"
-	"MailSubject1"	"Betreff: Operation Ausrottung"
-	"MailBody1A"	"Hört zu, Alpha."
-	"MailBody1B"	"Vor einer Woche erhielt die Research 7 Transport Facility eine Ladung außerirdischer Proben, und dann wurde der gesamte Außenposten dunkel."
-	"MailBody1C"	"Wir vermuten, dass wir bei RC7 einen Stützpunkt haben, und was auch immer gerade deine Albatross abgeschossen hat, bestätigt das nur."
-	"MailBody1D"	"Geh durch die Transportanlage zu RC7 und finde heraus, was los ist. Viel Glück, Alpha. Houghton Ende."
+"MailFrom1"	"Von: Commander Houghton"
+"MailDate1"	"Datum: 12/30/52"
+"MailSubject1"	"Betreff: Operation Ausrottung"
+"MailBody1A"	"Hört zu, Alpha."
+"MailBody1B"	"Vor einer Woche erhielt die Research 7 Transport Facility eine Ladung außerirdischer Proben, und dann wurde der gesamte Außenposten dunkel."
+"MailBody1C"	"Wir vermuten, dass wir bei RC7 einen Stützpunkt haben, und was auch immer gerade deine Albatross abgeschossen hat, bestätigt das nur."
+"MailBody1D"	"Geh durch die Transportanlage zu RC7 und finde heraus, was los ist. Viel Glück, Alpha. Houghton Ende."
 }

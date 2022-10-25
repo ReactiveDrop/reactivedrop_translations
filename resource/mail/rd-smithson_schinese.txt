@@ -2,7 +2,7 @@ GAME
 {
 	// PDA belongs to Andrew Smithson
 
-	// inbox
+	// inbox 
 	"MailFrom1"	"发件人：詹姆斯.施卢格"
 	"MailDate1"	"日期：09/10/57"
 	"MailSubject1"	"主题：故障门"

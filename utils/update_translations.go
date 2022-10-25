@@ -93,7 +93,6 @@ var txtLanguageFiles = [...]string{
 }
 
 var vdfLanguageFiles = [...]string{
-	"../community/inventory_service_tags",
 	"../community/statsweb",
 }
 

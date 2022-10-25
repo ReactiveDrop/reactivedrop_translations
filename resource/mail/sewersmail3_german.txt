@@ -1,9 +1,9 @@
 GAME
 {
-	// PDA belongs to Ming
-	"MailFrom1"	"Von: John Cain"
-	"MailDate1"	"Datum: 12/24/52"
-	"MailSubject1"	"Betreff: Aw: Was ist mit Young?"
-	"MailBody1A"	"Wir können sie nirgendwo finden."
-	"MailBody1B"	"Die Dinge sind außer Kontrolle geraten.  Ich werde die SynTek-Zentrale kontaktieren.  Ich brauche die IAF hier, pronto."
+// PDA belongs to Ming
+"MailFrom1"	"Von: John Cain"
+"MailDate1"	"Datum: 12/24/52"
+"MailSubject1"	"Betreff: Aw: Was ist mit Young?"
+"MailBody1A"	"Wir können sie nirgendwo finden."
+"MailBody1B"	"Die Dinge sind außer Kontrolle geraten.  Ich werde die SynTek-Zentrale kontaktieren.  Ich brauche die IAF hier, pronto."
 }

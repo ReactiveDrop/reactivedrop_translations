@@ -2,7 +2,7 @@
 {
 	// PDA belongs to George Benson
 
-	// inbox
+	// inbox 
 	"MailFrom1"	"송신자: 물류 창고"
 	"MailDate1"	"날짜: 53년 10월 24일"
 	"MailSubject1"	"주제: 회신: 전기톱?!"
