@@ -1,18 +1,18 @@
 GAME
 {
-	// PDA belongs to David Foster
-	// sent mail
-	"MailFrom3"	"An: Andrew Ward"
-	"MailDate3"	"Datum: 03/16/46"
-	"MailSubject3"	"Betreff: Brauche Hilfe"
-	"MailBody3A"	"Andrew,"
-	"MailBody3B"	"als Sicherheitschef des Krankenhauses ist es deine Aufgabe, so etwas einzudämmen."
-	"MailBody3C"	"Wir haben die aggressiven Exemplare auf den untersten Ebenen der Anlage isoliert. Wir sind nicht sicher, wie lange wir sie noch dort unten halten können."
-	"MailBody3D"	"Finde eine Lösung!"
-	"MailFrom4"	"An: Andrew Ward"
-	"MailDate4"	"Datum: 03/16/46"
-	"MailSubject4"	"Betreff: Ich werde der Nächste sein"
-	"MailBody4A"	"Andrew,"
-	"MailBody4B"	"Doktor Archibald, Mason und Miln sind tot."
-	"MailBody4C"	"Du kannst jetzt machen, was du willst, aber ich verschwinde von hier. Du solltest dir schnell Munition besorgen, wenn du noch länger am Leben bleiben willst."
+// PDA belongs to David Foster
+// sent mail 
+"MailFrom3"	"An: Andrew Ward"
+"MailDate3"	"Datum: 03/16/46"
+"MailSubject3"	"Betreff: Brauche Hilfe"
+"MailBody3A"	"Andrew,"
+"MailBody3B"	"als Sicherheitschef des Krankenhauses ist es deine Aufgabe, so etwas einzudämmen."
+"MailBody3C"	"Wir haben die aggressiven Exemplare auf den untersten Ebenen der Anlage isoliert. Wir sind nicht sicher, wie lange wir sie noch dort unten halten können."
+"MailBody3D"	"Finde eine Lösung!"
+"MailFrom4"	"An: Andrew Ward"
+"MailDate4"	"Datum: 03/16/46"
+"MailSubject4"	"Betreff: Ich werde der Nächste sein"
+"MailBody4A"	"Andrew,"
+"MailBody4B"	"Doktor Archibald, Mason und Miln sind tot."
+"MailBody4C"	"Du kannst jetzt machen, was du willst, aber ich verschwinde von hier. Du solltest dir schnell Munition besorgen, wenn du noch länger am Leben bleiben willst."
 }

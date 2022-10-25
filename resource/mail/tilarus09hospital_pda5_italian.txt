@@ -2,7 +2,7 @@ GAME
 {
 	// PDA di proprietà di	Ian Cook
 
-	// mail spedita
+	// mail spedita 
 	"MailFrom3"	"A: SynTek Hospital Employees"
 	"MailDate3"	"Data: 03/16/46"
 	"MailSubject3"	"Soggetto: Ci serve un nuovo piano"

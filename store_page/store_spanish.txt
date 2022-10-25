@@ -1,0 +1,21 @@
+Descripción Corta:
+
+Juego de disparos, de vista desde arriba, cooperativo y disponible gratis. Una búsqueda de bichos épica mediante una fusión única de juego cooperativo y tácticas de escuadrones.
+
+Sobre el juego:
+
+Alien Swarm: Reactive Drop es una extensión de Alien Swarm, trayendo más de todo: mapas, alienigenas, modos de juego, armas... Y lo más importante: Soporte para el Workshop de Steam.
+
+[list]
+[*]Cooperativo táctico para hasta 8 jugadores desde perspectiva superior
+[*]Soporte para Workshop de Steam para mapas comunitarios y desafíos
+[*]Nuevas campañas cooperativas
+[*]Desafíos: Modificaciones del juego, igual que las Mutaciones en Left 4 Dead 2
+[*]PvP: Combate a Muerte, Juego de Armas, Instagib, y Combate a Muerte por Equipos
+[*]Campaña Individual: Juega con bots mejorados en todos nuestros mapas oficiales
+[*]Nuevos Alienigenas: Guardias antlion de HL2 y más
+[*]Nuevas Armas: Desert Eagle, Devastador, y Rifle de Combate, y aún mas por venir
+[*]Más de 100 logros de Steam
+[*]Tablas Clasificatorias: compite con tus amigos por el menor tiempo en completar las misiones
+[*]Espectador mejorado: observa los minijuegos de hackeo y movimientos de mouse en tiempo real
+[/list]

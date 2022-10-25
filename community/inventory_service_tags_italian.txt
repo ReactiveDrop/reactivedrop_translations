@@ -1,0 +1,9 @@
+rarity		Rarità
+	common		Comune
+	uncommon		Non comune
+	rare		Raro
+	legendary		Leggendario
+	genuine		Genuino
+	strange		Strano
+slot		Slot
+	medal		Medaglia

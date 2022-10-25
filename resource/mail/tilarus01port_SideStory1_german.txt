@@ -1,9 +1,9 @@
 GAME
 {
-	// PDA belongs to John Hadan
-	"MailFrom1"	"Von: Jimmy Carter"
-	"MailDate1"	"Datum: 02/02/54"
-	"MailSubject1"	"Betreff: SynTek Shipment"
-	"MailBody1A"	"Hey John, du kennst doch die Lieferung von Syntek? Sie wurde unter Quarantäne gestellt."
-	"MailBody1B"	"Außerdem hat mir Kyle erzählt, dass es unten bei den Docks einen Unfall gegeben hat, ungefähr an der gleichen Stelle wie die Lieferung. Weißt du etwas darüber?"
+// PDA belongs to John Hadan
+"MailFrom1"	"Von: Jimmy Carter"
+"MailDate1"	"Datum: 02/02/54"
+"MailSubject1"	"Betreff: SynTek Shipment"
+"MailBody1A"	"Hey John, du kennst doch die Lieferung von Syntek? Sie wurde unter Quarantäne gestellt."
+"MailBody1B"	"Außerdem hat mir Kyle erzählt, dass es unten bei den Docks einen Unfall gegeben hat, ungefähr an der gleichen Stelle wie die Lieferung. Weißt du etwas darüber?"
 }

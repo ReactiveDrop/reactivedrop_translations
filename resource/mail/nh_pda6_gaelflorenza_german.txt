@@ -1,12 +1,12 @@
 GAME
 {
-	// PDA belongs to Lieutenant Gael Florenza
-	// Sent mail
-	"MailFrom3"	"An: Iris Florenza"
-	"MailDate3"	"Datum: 03/31/43"
-	"MailSubject3"	"Betreff: Nam Humanum"
-	"MailBody3A"	"[Senden fehlgeschlagen: Kommunikation außerhalb der Welt eingeschränkt]"
-	"MailBody3B"	"Iris, Liebe meines Lebens. Diese Nachricht, genau wie die letzte, die ich dir geschickt habe, wird vom Kommunikationsteam zu dem Zeitpunkt abgefangen werden, den ich für die Übermittlung vorgesehen habe, also in drei Stunden. Aber vielleicht wird sie dich eines Tages doch noch erreichen, so oder so."
-	"MailBody3C"	"Ich bin dabei, mich gegen Moreau und seine unmenschlichen Experimente zu wehren. Ich habe die Unterstützung vieler Siedlerinnen und Siedler und auch den Rückhalt meiner Einheit. Trotzdem befürchte und weiß ich, dass es für einige von uns eine Einbahnstraße sein könnte. Es tut mir leid, meine Liebe. Ich habe versucht, mich selbst von der Richtigkeit des Ganzen zu überzeugen, wirklich. Es tut mir leid für dich und den Jungen, der mich nie kennen lernen wird. Aber wie könnte ich der Vater eines Kindes sein, dem ich keine Menschlichkeit mehr vermitteln kann."
-	"MailBody3D"	"Für immer dein."
+// PDA belongs to Lieutenant Gael Florenza
+// Sent mail
+"MailFrom3"	"An: Iris Florenza"
+"MailDate3"	"Datum: 03/31/43"
+"MailSubject3"	"Betreff: Nam Humanum"
+"MailBody3A"	"[Senden fehlgeschlagen: Kommunikation außerhalb der Welt eingeschränkt]"
+"MailBody3B"	"Iris, Liebe meines Lebens. Diese Nachricht, genau wie die letzte, die ich dir geschickt habe, wird vom Kommunikationsteam zu dem Zeitpunkt abgefangen werden, den ich für die Übermittlung vorgesehen habe, also in drei Stunden. Aber vielleicht wird sie dich eines Tages doch noch erreichen, so oder so."
+"MailBody3C"	"Ich bin dabei, mich gegen Moreau und seine unmenschlichen Experimente zu wehren. Ich habe die Unterstützung vieler Siedlerinnen und Siedler und auch den Rückhalt meiner Einheit. Trotzdem befürchte und weiß ich, dass es für einige von uns eine Einbahnstraße sein könnte. Es tut mir leid, meine Liebe. Ich habe versucht, mich selbst von der Richtigkeit des Ganzen zu überzeugen, wirklich. Es tut mir leid für dich und den Jungen, der mich nie kennen lernen wird. Aber wie könnte ich der Vater eines Kindes sein, dem ich keine Menschlichkeit mehr vermitteln kann."
+"MailBody3D"	"Für immer dein."
 }

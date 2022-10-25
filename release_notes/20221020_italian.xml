@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<content><string id="body">L'aggiornamento di oggi corregge alcune incongruenze con varie armi. Aggiunge inoltre la possibilità di assegnare effetti visivi a singoli soldati e un nuovo trigger per applicare diverse impostazioni HDR a diverse aree di una mappa.
+
+[h1]Armi[/h1]
+[list]
+[*][b]Minigun IAF:[/b] Corretta la ricarica che risultava in un conteggio insolito delle munizioni di 499/500 colpi.
+[*][b]Accessorio Torcia:[/b] Quest'arma ora riflette la luce come le altre armi.
+[*][b]Lancia Granate:[/b] Corretto un bug che faceva esplodere due volte le granate se colpivano direttamente un alieno. Invece, le granate ora fanno danni doppi se colpiscono un personaggio (marine o alieno). In questo modo si risolve il danno ad area di un colpo diretto che aggira la protezione da un colpo solo e si aumenta leggermente il danno del lanciagranate (in precedenza la prima esplosione spingeva i nemici leggermente lontano dalla granata prima della seconda esplosione).
+[*][b]Desert Eagle:[/b] Questa pistola è stata rinominata PS50 Bulldog e ora ha un nuovo modello e nuovi suoni.
+[*][b]Pistola Medica Amplificatrice IAF:[/b] Aggiornato il modello per differenziarla dalla normale pistola medica.
+[*][b]Granate a Gas TG-05:[/b] Aggiornata la scatola delle granate per adattarla allo stile degli altri oggetti delle granate.
+[/list]
+
+[h1]Alieni[/h1]
+[list]
+[*]Le larve ora riflettono la luce come gli altri alieni.
+[*]I mietitori non generano più xenomiti quando vengono uccisi da un colpo di granata diretto che infligge più del doppio della loro salute residua.
+[/list]
+
+[h1]Traduzioni[/h1]
+[list]
+[*]Aggiornata la traduzione in Cinese.
+[*]Aggiornata la traduzione in Portoghese.
+[*]Aggiornata la traduzione in Tedesco.
+[*]Aggiornata la traduzione in Italiano.
+[*]Aggiornata la traduzione in Giapponese.
+[*]Aggiornata la traduzione in Coreano.
+[*]Aggiornata la traduzione in Russo.
+[*]Corretto il troncamento silenzioso delle traduzioni dopo i 1023 byte. Le traduzioni possono ora essere fino a 4095 byte e se sono più lunghe viene stampato un avviso nella console.
+[/list]
+
+[h1]Varie[/h1]
+[list]
+[*]Modificato il modo in cui gli oggetti di scena animati sono collegati alla rete. È stata annullata la modifica apportata nell'ultimo aggiornamento, che faceva sì che il server guidasse le animazioni. Invece, gli oggetti di scena specifici sono sempre visibili al client, indipendentemente dalla distanza. Se ci si unisce a una partita dopo l'inizio di un'animazione, le animazioni verranno riprodotte in ritardo, ma questo dovrebbe risolvere il problema di stuttering.
+[*]Migliorata la navigazione del controller nelle impostazioni avanzate.
+[*]Aggiunti alcuni esempi di file di correzione del colore.
+[*]Le esplosioni ora infliggono il massimo dei danni entro un piccolo raggio dall'epicentro, mentre la diminuzione dei danni inizia solo oltre tale distanza.
+[/list]
+
+[h1]Mapping[/h1]
+[list]
+[*]Aggiunta l'entità pennello [b]trigger_tonemap[/b]. Questo trigger sovrascrive il controller tonemap attivo per i personaggi all'interno del suo volume ed è sovrascritto dalla nuova funzione VScript SetTonemapController.
+[*]Modificato il [b]fog_volume[/b] in modo che si basi sulla posizione degli occhi del personaggio attualmente controllato piuttosto che sulla posizione della telecamera. Alcune mappe potrebbero dover essere modificate per spostare le entità fog_volume verso nord se sono state originariamente create per compensare lo spostamento della telecamera. fog_volume può ora essere sovrascritto dalle nuove funzioni VScript SetFogController, SetPostProcessController e SetColorCorrection.
+[/list]
+
+[h1]VScript[/h1]
+[list]
+[*][b]CASW_Marine::GetMarineName()[/b] non perde più memoria a ogni chiamata e ora traduce correttamente il nome.
+[*]Aggiunto il metodo [b]GetCommander[/b] ai PNG abitabili (es. soldati).
+[*]Aggiunto il metodo [b]SetFogController[/b] ai PNG abitabili.
+[*]Aggiunto il metodo [b]SetPostProcessController[/b] ai PNG abitabili.
+[*]Aggiunto il metodo [b]SetColorCorrection[/b] ai PNG abitabili.
+[*]Aggiunto il metodo [b]SetTonemapController[/b] ai PNG abitabili.
+[/list]</string><string id="subtitle"></string><string id="summary"></string><string id="title">Aggiornamento di Alien Swarm: Reactive Drop - 20 Ottobre 2022</string></content>

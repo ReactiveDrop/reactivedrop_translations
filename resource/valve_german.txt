@@ -59,7 +59,7 @@
 "[english]Valve_Secondary_Attack"		"Secondary attack"
 "Valve_Reload_Weapon"		"Waffe nachladen"
 "[english]Valve_Reload_Weapon"		"Reload weapon"
-"Valve_Walk"		"Gehen (Langsam bewegen)"
+"Valve_Walk"		"Walk (Move Slowly)"
 "[english]Valve_Walk"		"Walk (Move Slowly)"
 "Valve_Flashlight"		"Taschenlampe"
 "[english]Valve_Flashlight"		"Flashlight"

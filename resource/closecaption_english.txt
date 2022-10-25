@@ -1830,7 +1830,7 @@
 
 "jaeger.Parasite2"	"<clr:198,226,255>Jaeger: Watch out, parasite!"
 
-"jaeger.BeenInfested0"	"<clr:198,226,255>Jaeger: Verdammte Scheiße! Get it off!"
+"jaeger.BeenInfested0"	"<clr:198,226,255>Jaeger: Verdammte Scheisse! Get it off!"
 
 "jaeger.BeenInfested1"	"<clr:198,226,255>Jaeger: Get it off!"
 

@@ -1,10 +1,10 @@
 GAME
 {
-	"MailFrom1"	"Von: Commander Houghton"
-	"MailDate1"	"Datum: 12/30/52"
-	"MailSubject1"	"Betreff: Operation Ausrottung"
-	"MailBody1A"	"Alpha, das sieht nicht gut aus."
-	"MailBody1B"	"RC7 ist definitiv gefährdet, allen Wissenschaftlern und Soldaten, die noch leben, kann nicht mehr geholfen werden."
-	"MailBody1C"	"In der Nähe gibt es eine Säuberungsanlage, die alle unteren Ebenen von RC7 mit einem tödlichen Nervengift füllt."
-	"MailBody1D"	"Es wird die Aliens töten oder vertreiben. Mit Bedauern übertrage ich dir die Aufgabe, die Säuberung zu aktivieren. Houghton Ende."
+"MailFrom1"	"Von: Commander Houghton"
+"MailDate1"	"Datum: 12/30/52"
+"MailSubject1"	"Betreff: Operation Ausrottung"
+"MailBody1A"	"Alpha, das sieht nicht gut aus."
+"MailBody1B"	"RC7 ist definitiv gefährdet, allen Wissenschaftlern und Soldaten, die noch leben, kann nicht mehr geholfen werden."
+"MailBody1C"	"In der Nähe gibt es eine Säuberungsanlage, die alle unteren Ebenen von RC7 mit einem tödlichen Nervengift füllt."
+"MailBody1D"	"Es wird die Aliens töten oder vertreiben. Mit Bedauern übertrage ich dir die Aufgabe, die Säuberung zu aktivieren. Houghton Ende."
 }

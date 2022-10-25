@@ -1,23 +1,23 @@
 GAME
 {
-	// PDA belongs to Corporal France Siriac
-	// Inbox
-	"MailFrom1"	"Von: Pauline Vito"
-	"MailDate1"	"Datum: 04/01/43"
-	"MailSubject1"	"Betreff: Gefangen im Gewächshaus"
-	"MailBody1A"	"Sir, einige von uns sind noch im Gewächshaus versteckt."
-	"MailBody1B"	"Mr. Asselin hat es geschafft, sich an ihnen vorbeizuschleichen, um Hilfe zu holen. Ich glaube nicht, dass er zurückkommen wird..."
-	"MailBody1C"	"Wir können sie durch das Glas sehen... diese Dinger... Ich glaube, sie machen etwas mit unserem Botaniker Jerome, der allein im Wartungsraum gefangen ist, seit sie gekommen sind. Was sollen wir tun? Oh Gott, ich kann ihn im Dunkeln wimmern hören..."
-	"MailFrom2"	"Von: Pauline Vito"
-	"MailDate2"	"Datum: 04/02/43"
-	"MailSubject2"	"Betreff: AW: AW: Gefangen im Gewächshaus"
-	"MailBody2A"	"Bei den Göttern, Jerome"
-	"MailBody2B"	"Was haben sie mit ihm gemacht?"
-	"MailBody2C"	"Bitte hilf uns"
-	"MailBody2D"	"Bitte"
-	// Sent mail
-	"MailFrom3"	"An: Pauline Vito"
-	"MailDate3"	"Datum: 04/01/43"
-	"MailSubject3"	"Betreff: AW: Gefangen im Gewächshaus"
-	"MailBody3A"	"Ihr müsst hier bleiben, bis wir Verstärkung anfordern können. Wir haben nur noch eine Notbesatzung, denn Florenza hat es geschafft, es uns allen zu vermasseln. Schluss mit diesem Heldenkomplex, verstanden? Wir holen dich raus, sobald auf unserer Seite alles klar ist."
+// PDA belongs to Corporal France Siriac
+// Inbox
+"MailFrom1"	"Von: Pauline Vito"
+"MailDate1"	"Datum: 04/01/43"
+"MailSubject1"	"Betreff: Gefangen im Gewächshaus"
+"MailBody1A"	"Sir, einige von uns sind noch im Gewächshaus versteckt."
+"MailBody1B"	"Mr. Asselin hat es geschafft, sich an ihnen vorbeizuschleichen, um Hilfe zu holen. Ich glaube nicht, dass er zurückkommen wird..."
+"MailBody1C"	"Wir können sie durch das Glas sehen... diese Dinger... Ich glaube, sie machen etwas mit unserem Botaniker Jerome, der allein im Wartungsraum gefangen ist, seit sie gekommen sind. Was sollen wir tun? Oh Gott, ich kann ihn im Dunkeln wimmern hören..."
+"MailFrom2"	"Von: Pauline Vito"
+"MailDate2"	"Datum: 04/02/43"
+"MailSubject2"	"Betreff: AW: AW: Gefangen im Gewächshaus"
+"MailBody2A"	"Bei den Göttern, Jerome"
+"MailBody2B"	"Was haben sie mit ihm gemacht?"
+"MailBody2C"	"Bitte hilf uns"
+"MailBody2D"	"Bitte"
+// Sent mail
+"MailFrom3"	"An: Pauline Vito"
+"MailDate3"	"Datum: 04/01/43"
+"MailSubject3"	"Betreff: AW: Gefangen im Gewächshaus"
+"MailBody3A"	"Ihr müsst hier bleiben, bis wir Verstärkung anfordern können. Wir haben nur noch eine Notbesatzung, denn Florenza hat es geschafft, es uns allen zu vermasseln. Schluss mit diesem Heldenkomplex, verstanden? Wir holen dich raus, sobald auf unserer Seite alles klar ist."
 }

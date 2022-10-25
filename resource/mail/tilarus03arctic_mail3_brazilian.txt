@@ -21,4 +21,4 @@ GAME
 	"MailBody3B"	"Ahh... você é muito engraçado... :P"
 	"MailBody3C"	"Obrigado pelos arquivos mesmo assim."
 	"MailBody3D"	"-Martin"
-}
+} 

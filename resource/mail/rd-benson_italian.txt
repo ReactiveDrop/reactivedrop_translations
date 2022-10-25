@@ -2,7 +2,7 @@ GAME
 {
 	// PDA di proprietà di George Benson
 
-	// inbox
+	// inbox 
 	"MailFrom1"	"Da: Spedizione e stoccaggio"
 	"MailDate1"	"Data: 24/10/53"
 	"MailSubject1"	"Soggetto: Re: Motoseghe?!"

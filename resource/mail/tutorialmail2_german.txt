@@ -1,16 +1,16 @@
 GAME
 {
-	// PDA belongs to Vincent baker
-	// inbox
-	"MailFrom1"	"Von: Juan Rosales"
-	"MailDate1"	"Datum: 12/18/52"
-	"MailSubject1"	"Betreff: Schnaps und Weiber?"
-	"MailBody1A"	"Hey Vinc,"
-	"MailBody1B"	"wir sollten wirklich eine der Schneekatzen nehmen und heute Abend zum Hauptkomplex gehen.  Eine Erfrierung kann nicht schlimmer sein, als hier zu bleiben und uns ganz allein zu betrinken.  Ist 19:00 Uhr okay?"
-	// sent mail
-	"MailFrom3"	"An: Juan Rosales"
-	"MailDate3"	"Datum: 12/18/52"
-	"MailSubject3"	"Betreff: Aw: Booze and babes?"
-	"MailBody3A"	"Klar doch, J."
-	"MailBody3B"	"Ich bin sowieso raus aus Daxol. Wir sehen uns."
+// PDA belongs to Vincent baker
+// inbox 
+"MailFrom1"	"Von: Juan Rosales"
+"MailDate1"	"Datum: 12/18/52"
+"MailSubject1"	"Betreff: Schnaps und Weiber?"
+"MailBody1A"	"Hey Vinc,"
+"MailBody1B"	"wir sollten wirklich eine der Schneekatzen nehmen und heute Abend zum Hauptkomplex gehen.  Eine Erfrierung kann nicht schlimmer sein, als hier zu bleiben und uns ganz allein zu betrinken.  Ist 19:00 Uhr okay?"
+// sent mail
+"MailFrom3"	"An: Juan Rosales"
+"MailDate3"	"Datum: 12/18/52"
+"MailSubject3"	"Betreff: Aw: Booze and babes?"
+"MailBody3A"	"Klar doch, J."
+"MailBody3B"	"Ich bin sowieso raus aus Daxol. Wir sehen uns."
 }

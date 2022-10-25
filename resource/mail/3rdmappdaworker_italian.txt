@@ -1,4 +1,4 @@
-GAME
+ GAME
 {
 	// PDA di proprietà di Naka
 

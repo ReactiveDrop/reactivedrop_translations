@@ -2,7 +2,7 @@ GAME
 {
 	// PDA belongs to Vincent baker
 
-	// inbox
+	// inbox 
 	"MailFrom1"	"송신자: 주안 로잘레스"
 	"Mail날짜1"	"날짜: 52년 12월 18일"
 	"Mail주제1"	"주제: 주지육림?"

@@ -1,0 +1,17 @@
+Short Description:
+
+Kooperacyjna strzelanka z widokiem izometrycznym dostępna za darmo. Epickie polowanie na robactwo zawierające unikalną mieszankę współpracy i taktyki drużynowej.
+
+About This Game:
+
+Alien Swarm: Reactive Drop poszerza Alien Swarm, przynosząc więcej wszystkiego: map, obcych, trybów rozgrywki, broni... I przede wszystkim wsparcia dla Steam Workshop.
+
+[list]Taktyczna, 4 lub 8 osobowa, kooperacyjna gra akcji z widokiem izometrycznym
+[*]Wsparcie Steam Workshop dla map i wyzwań
+[*]Nowe kampanie kooperacyjne
+[*]Wyzwania: Modyfikacje gry, tak jak mutacje w Left 4 Dead 2
+[*]PvP: Deathmach, Gun Game, Instagib i Team Deathmatch
+[*]Single-player: Graj z ulepszonymi botami na wszystkich oficjalnych mapach
+[*]Nowe gatunki obcych: strażnicy antlionów z Half Life 2 oraz więcej
+[*]Nowe bronie: Desert Eagle, Devastator, karabin bojowy oraz więcej
+[*]Ponad 100 osiągnięć steam[/list]

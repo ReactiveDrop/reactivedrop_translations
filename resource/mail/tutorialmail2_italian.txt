@@ -2,7 +2,7 @@ GAME
 {
 	// PDA di proprietà di Vincent Baker
 
-	// inbox
+	// inbox 
 	"MailFrom1"	"Da: Juan Rosales"
 	"MailDate1"	"Data: 12/18/52"
 	"MailSubject1"	"Soggetto: Alcohol e donne?"

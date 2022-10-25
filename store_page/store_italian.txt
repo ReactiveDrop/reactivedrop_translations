@@ -1,0 +1,39 @@
+Short Description:
+
+Gioco sparatutto cooperativo, con visuale isometrica e disponibile gratuitamente. Il gioco scaraventa il giocatore in una epica caccia all'insetto, caratterizzata da una peculiare miscela di gioco cooperativo e tattiche di squadra.
+
+---
+
+About This Game:
+
+Alien Swarm: Reactive Drop amplia Alien Swarm aggiungendo mappe, alieni, modalità di gioco, armi... e, cosa più importante, il supporto per il Workshop di Steam.
+
+[list]
+[*]Gioco cooperativo tattico fino a 8 giocatori con visuale isometrica
+[*]Supporto per il Workshop di Steam e per le mappe e le sfide della comunità
+[*]Nuove campagne cooperative
+[*]Sfide: Modifiche per il gioco, come le Mutazioni in Left 4 Dead 2
+[*]PvP: Deathmatch, Gioco delle Armi, Instagib, e Deathmatch a Squadre
+[*]Giocatore Singolo: Gioca con dei bot migliorati su tutte le nostre mappe ufficiali
+[*]Nuovi Alieni: Le Guardie Formicaleone di HL2 e molto altro
+[*]Nuove Armi: La Desert Eagle, il Devastator ed il Fucile da Combattimento. Con molte altre armi in arrivo
+[*]Più di 100 Achievement di Steam
+[*]Classifiche: Competi con i tuoi amici per vedere chi riesce a completare le missioni più velocemente
+[*]Visuale spettatore migliorata: puoi vedere i mini giochi di hacking ed il movimento del mouse del giocatore in tempo reale
+[/list]
+
+System Requirements:
+
+Windows® XP o successivo
+Pentium 4 o più recente
+Scheda video da 128 MB compatibile con DirectX 9, Shader model 2.0. ATI X800, NVidia 6600 o migliore
+Scheda audio compatibile con DirectX 9.0c
+Lo spazio su disco richiesto dipende dagli addon del Workshop installati.
+
+---
+
+Mature Content:
+
+Il gameplay principale consiste nell'utilizzare delle armi per uccidere insetti alieni. Gli alieni esplodono in molte parti sanguinolente quando vengono uccisi. In alcune missioni si possono trovare cadaveri umani insanguinati, ma non c'è alcuno smembramento umano grafico. Il fuoco amico con gli esplosivi può causare l'esplosione dei soldati in "mille pezzi" come in un cartone animato.
+Nei dialoghi doppiati vengono usate parolacce come "merda". Anche in alcuni contenuti scritti facoltativi viene utilizzato un linguaggio forte.
+Avviso di fotosensibilità: Ci sono alcune missioni create dalla comunità che utilizzano effetti con luci stroboscopiche.

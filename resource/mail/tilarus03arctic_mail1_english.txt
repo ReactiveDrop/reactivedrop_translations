@@ -9,4 +9,4 @@ GAME
 	"MailBody1B"	"I haven't heard anything from you now, honey! What is going on in there?"
 	"MailBody1C"	"I contacted the SynTek Chief Human Resources Officer and he said I shouldn't worry and they are just having small communication problems. But it has been DAYS now!"
 	"MailBody1D"	"With love, Kate <3"
-}
+} 

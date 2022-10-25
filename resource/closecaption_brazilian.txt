@@ -1810,7 +1810,7 @@
 		"jaeger.Parasite2"		"<clr:198,226,255>Jaeger: Atenção, parasita!"
 		"[english]jaeger.Parasite2"		"<clr:198,226,255>Jaeger: Watch out, parasite!"
 		"jaeger.BeenInfested0"		"<clr:198,226,255>Jaeger: Verdammte Scheisse! Tira isso!"
-		"[english]jaeger.BeenInfested0"		"<clr:198,226,255>Jaeger: Verdammte Scheiße! Get it off!"
+		"[english]jaeger.BeenInfested0"		"<clr:198,226,255>Jaeger: Verdammte Scheisse! Get it off!"
 		"jaeger.BeenInfested1"		"<clr:198,226,255>Jaeger: Tira isso!"
 		"[english]jaeger.BeenInfested1"		"<clr:198,226,255>Jaeger: Get it off!"
 		"jaeger.BeenInfested2"		"<clr:198,226,255>Jaeger: Tira isso de mim!"

@@ -9,4 +9,4 @@ GAME
 	"MailBody1B"	"Non sto sentendo niente da te ora, tesoro! Cosa sta succedendo lì dentro?"
 	"MailBody1C"	"Ho contattato il responsabile delle risorse umane di SynTek e mi ha detto che non avrei dovuto preoccuparmi e che avevano solo piccoli problemi di comunicazione. Ma ormai sono passati GIORNI!"
 	"MailBody1D"	"Con amore, Kate <3"
-}
+} 
