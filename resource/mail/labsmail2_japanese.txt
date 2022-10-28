@@ -2,7 +2,7 @@
 {
 	// PDA belongs to Shaun Ming
 
-	// inbox
+	// Inbox
 
 	"MailFrom1"	"差出人: ジョン・ケイン"
 	"MailDate1"	"送信日時: 52年12月23日"
@@ -12,7 +12,7 @@
 	"MailBody1C"	"それから、アトリウムでは何が起きているんだ？"
 	"MailBody1D"	"SynTekセキュリティ社、ケイン大尉より"
 
-	// sent mail
+	// Sent
 
 	"MailFrom3"	"宛先: ジョン・ケイン"
 	"MailDate3"	"送信日時: 52年12月23日"

@@ -2,6 +2,8 @@
 {
 	// PDA belongs to ???
 
+	// Inbox
+
 	"MailFrom1"	"差出人: 核弾頭"
 	"MailDate1"	"送信日時: 52年12月24日"
 	"MailSubject1"	"件名: なんと無礼な"

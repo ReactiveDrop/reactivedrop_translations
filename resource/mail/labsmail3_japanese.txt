@@ -1,8 +1,8 @@
 ﻿GAME
 {
-	// PDA belongs to Rivera
+	// PDA belongs to Charles Rivera
 
-	// inbox
+	// Inbox
 
 	"MailFrom1"	"差出人: ローラ・カレン"
 	"MailDate1"	"送信日時: 52年12月23日"

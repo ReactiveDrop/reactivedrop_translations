@@ -2,7 +2,8 @@ GAME
 {
 	// PDA belongs to George Benson
 
-	// inbox
+	// Inbox
+
 	"MailFrom1"	"发件人：运输存储部"
 	"MailDate1"	"日期：10/24/53"
 	"MailSubject1"	"回复：链锯？！"
@@ -11,7 +12,8 @@ GAME
 	"MailBody1C"	"至于电锯，把它扔下悬崖之类的就行了。有个白痴，不小心订了一大堆；从那以后，我就一直把它们放在仓库里占地方。好像我们在这块石头上需要电锯似的！"
 	"MailBody1D"	"- 鲍勃.凡尔纳斯，运输存储主管"
 
-	// sent mail
+	// Sent
+
 	"MailFrom3"	"收件人：运输存储部"
 	"MailDate3"	"日期：10/23/53"
 	"MailSubject3"	"主题：链锯？！"

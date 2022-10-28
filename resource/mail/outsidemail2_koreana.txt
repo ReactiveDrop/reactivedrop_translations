@@ -1,6 +1,8 @@
 ﻿GAME
 {
-	// PDA belongs to Brian
+	// PDA belongs to Brian Howe
+
+	// Inbox
 
 	"MailFrom1"	"송신자: 헬렌 영"
 	"MailDate1"	"날짜: 52년 12월 22일"

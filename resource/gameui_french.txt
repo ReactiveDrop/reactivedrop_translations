@@ -425,7 +425,7 @@
 "[english]GameUI_Properties"		"Properties"
 "GameUI_AddFriendTitle"		"AMIS - AJOUTER UN AMI"
 "[english]GameUI_AddFriendTitle"		"FRIENDS - ADD FRIEND"
-"GameUI_FriendAddedToList"		"%name% a été ajouté à votre liste d'amis.\nRemarque : le statut de connexion de la personne ne sera pas indiqué tant que celle-ci n'aura pas accepté votre requête d'amis."
+"GameUI_FriendAddedToList"		"%name% a été ajouté à votre liste d'amis.\nRemarque: le statut de connexion de la personne ne sera pas indiqué tant que celle-ci n'aura pas accepté votre requête d'amis."
 "[english]GameUI_FriendAddedToList"		"%name% has been added to your friends list.\nNote that they will not show up as online until they have accepted your friendship request."
 "GameUI_AddFriendFailed"		"%name% n'a pas pu être ajouté à votre liste.\nSoit il y a eu un problème de connexion, soit vous n'utilisez pas la fonction Amis."
 "[english]GameUI_AddFriendFailed"		"%name% could not be added to your list.\nThere was either a connection error, or they are not running Friends."

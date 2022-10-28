@@ -2,7 +2,7 @@
 {
 	// PDA belongs to Walter Jackson
 
-	// inbox
+	// Inbox
 
 	"MailFrom1"	"差出人: SynTek警備部"
 	"MailDate1"	"送信日時: 52年10月7日"
@@ -12,9 +12,9 @@
 	"MailBody1C"	"全職員は今すぐ施設脱出の手順に従ってください。"
 	"MailBody1D"	"くれぐれもお気をつけて。-SynTek警備部より"
 
-	// sent mail
+	// Sent
 
-	"MailFrom3"	"宛先: 支部長ジャクソン"
+	"MailFrom3"	"宛先: ウォルター・ジャクソン"
 	"MailDate3"	"送信日時: 52年10月7日"
 	"MailSubject3"	"件名: 発電機"
 	"MailBody3A"	"発電施設に繋がるドアはロックしたので電源は大丈夫のはずです。 脱出まで明かりと電力は保つでしょう。"

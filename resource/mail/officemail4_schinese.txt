@@ -2,7 +2,7 @@ GAME
 {
 	// PDA belongs to Mr Tanner
 
-	// inbox
+	// Inbox
 
 	"MailFrom1"	"发件人：凯特.爱德华兹"
 	"MailDate1"	"日期：12/22/52"
@@ -16,7 +16,4 @@ GAME
 	"MailSubject2"	"主题：亲爱的凯特.爱德华兹先生，"
 	"MailBody2A"	"我们的值班人员在扫描9476-B订单时，发现了6瓶Isothamine23。这封信是寄给你的。你肯定知道，在外环的任何地方购买、拥有或出售这种产品都是非法的。（#205-P/7.7.12）请致电（+34987），并立即与我们的保安人员联系。"
 	"MailBody2B"	"穆里尔.布兰科，新特海关税收部"
-
-	// sent mail
-
 }

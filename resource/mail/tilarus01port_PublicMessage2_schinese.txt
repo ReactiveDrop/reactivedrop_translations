@@ -2,7 +2,9 @@ GAME
 {
 	// PDA belongs to GeoTerraCorp
 
-	"MailFrom1"	"发件人：吉泰勒代表，安德鲁"
+	// Inbox
+
+	"MailFrom1"	"发件人：安德鲁·贝克"
 	"MailDate1"	"日期：03/02/54"
 	"MailSubject1"	"主题：重要--星球-大规模-疏散"
 	"MailBody1A"	"重要，漫长黎明殖民地的疏散已经开始，请前往最近的疏散中心"

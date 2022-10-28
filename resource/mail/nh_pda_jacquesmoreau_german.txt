@@ -1,18 +1,21 @@
 GAME
 {
 	// PDA belongs to Doctor Jacques Moreau
-	// Sent messages
-	"MailFrom3"	"An: Cpt. Arthur Carradine"
+
+	// Sent
+
+	"MailFrom3"	"An: Arthur Carradine"
 	"MailDate3"	"Datum: 03/31/43"
 	"MailSubject3"	"Betreff: Meuterei"
 	"MailBody3A"	"Wir hätten Leutnant Florenza nicht in die Hände zwingen sollen. Er ist ein Idealist, mit Prinzipien und loyalen Männern. Und jetzt geht er auf mich los. Auf das, was ein Lebenswerk hätte sein können."
 	"MailBody3B"	"Ich nehme an, man kann über Schmerz und Leid hinwegsehen, solange es außer Reichweite und außer Sichtweite ist. Aber man kann unmöglich den gequälten Welpen ignorieren, der in seinem eigenen Hinterhof weint. Das Gewissen ... kann eine solche Last sein. Gerade ich sollte das wissen."
 	"MailBody3C"	"So soll es sein. Soll SynTek seine kleine Entdeckung doch haben, für einen Preis, den nur wir bezahlt haben."
-	"MailFrom4"	"An: Dr. Helen Moreau"
-	"MailDate4"	"Date : 03/31/43"
+
+	"MailFrom4"	"An: Helen Moreau"
+	"MailDate4"	"Date: 03/31/43"
 	"MailSubject4"	"Betreff: N/A"
 	"MailBody4A"	"Liebe Vesta, dies ist meine letzte Botschaft. Wer auch immer sie findet, hier ist meine Bitte an die Menschheit:"
 	"MailBody4B"	"Mein Name ist Jacques Valery Moreau. Als leitender Wissenschaftler der Forschungsprojekte, die im Rahmen der Lugdunum-Mission und der Kolonie durchgeführt wurden, habe ich Experimente geleitet und persönlich durchgeführt, die nicht nur gegen die Berufsethik, sondern auch gegen jede Art von Vernunft und Moral verstoßen haben. Ich beschwöre nun die Streitkräfte, die meine Nachricht erhalten werden, die Produkte dieser Bemühungen zu bewahren. Schützt sie, wenn ihr könnt, vor denen da oben, die sie für sich selbst nutzen wollen. Damit unsere Spezies auch in der Not weiterkommt. So wie es keine Odyssee ohne Kämpfe gibt, gibt es keine Wissenschaft ohne Opfer."
 	"MailBody4C"	"Ves ta--gHelen. Meine Blume, mein Dreh- und Angelpunkt. Wenn es einen Ort nach dem Tod gibt, fürchte ich, dass kein Gott mir erlauben wird, mich dir dort anzuschließen."
-	"MailBody4D"	"Nam Humanum."
+	"MailBody4D"	"Nam Humanum"
 }

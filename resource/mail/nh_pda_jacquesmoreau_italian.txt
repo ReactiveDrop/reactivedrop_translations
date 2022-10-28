@@ -2,20 +2,20 @@ GAME
 {
 	// PDA di propirietà del Dottor Jacques Moreau
 
-	// Messaggi inviati
+	// Sent
 
-	"MailFrom3"	"A: Cpt. Arthur Carradine"
+	"MailFrom3"	"A: Arthur Carradine"
 	"MailDate3"	"Data: 31/03/43"
 	"MailSubject3"	"Soggetto: Ammutinamento"
 	"MailBody3A"	"Non avremmo dovuto forzare la mano al tenente Florenza. È una idealista, con principi e uomini leali. E ora viene verso di me. A quello che avrebbe potuto essere il lavoro di una vita."
 	"MailBody3B"	"Suppongo che si possa trascurare il dolore e la sofferenza fintanto che sono fuori portata, fuori dalla vista. Ma non si può ignorare il cucciolo torturato che piange nel proprio cortile. La coscienza... può essere un tale peso. Dovrei essere io il primo a saperlo."
 	"MailBody3C"	"Così sia. Lascia che la SynTek abbia la sua piccola scoperta, per un prezzo che solo noi abbiamo pagato."
 
-	"MailFrom4"	"A: Dr. Helen Moreau"
-	"MailDate4"	"Data : 31/03/43"
+	"MailFrom4"	"A: Helen Moreau"
+	"MailDate4"	"Data: 31/03/43"
 	"MailSubject4"	"Soggetto: N/D"
 	"MailBody4A"	"Cara Vesta, questo sarà il mio ultimo messaggio. A chi lo trova, ecco la mia richiesta per l'Umanità:"
 	"MailBody4B"	"Mi chiamo Jacques Valery Moreau. In qualità di capo scienziato dei progetti di ricerca intrapresi all'interno della missione e della colonia del Lugdunum, ho regolato e condotto personalmente esperimenti che non erano solo ripugnanti per l'etica professionale, ma strazianti nei confronti di qualsiasi tipo di ragione o senso morale. Ora imploro le forze militari che riceveranno il mio messaggio di preservare i prodotti di questo sforzo. Proteggeteli se potete, da quelli di sopra che li userebbero per loro stessi. In modo che la nostra specie progredisca ancora nelle avversità. Come non c'è odissea senza lotte, nessuna scienza è senza sacrifici."
 	"MailBody4C"	"Ves ta--gHelen. Il mio fiore, il mio fulcro. Se c'è un posto dopo la morte, temo che nessun dio mi permetterà di raggiungerti lì."
-	"MailBody4D"	"Nam Humanum."
+	"MailBody4D"	"Nam Humanum"
 }

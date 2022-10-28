@@ -1,7 +1,8 @@
 GAME
 {
 	// PDA belongs to Windows
-	// inbox
+
+	// Inbox
 
 	"MailFrom1"	"发件人：蔡尔兹"
 	"MailDate1"	"日期：02/02/54"
@@ -19,7 +20,8 @@ GAME
 	"MailBody2C"	"还持续了几个月？"
 	"MailBody2D"	"我的意思是，只要我们中有一个人有点疯，我们就都成烤串了。"
 
-	// sent mail
+	// Sent
+
 	"MailFrom3"	"收件人：温德斯"
 	"MailDate3"	"日期：02/02/54"
 	"MailSubject3"	"主题：回复：狗舍"

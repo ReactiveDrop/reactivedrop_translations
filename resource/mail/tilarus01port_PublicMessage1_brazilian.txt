@@ -1,8 +1,10 @@
 GAME
 {
-	// PDA pertence a corporação GeoTerra
+	// PDA belongs to GeoTerraCorp
 
-	"MailFrom1"	"De: Rep. GeoTerra, Mandy"
+	// Inbox
+
+	"MailFrom1"	"De: Andrew Baker"
 	"MailDate1"	"Data: 02/02/54"
 	"MailSubject1"	"Assunto: Terremoto Recente"
 	"MailBody1A"	"Como todos sabem, o terremoto recente que nos atingiu ontem foi causado por um acidente na Doca 6. Um grande nave de carga entrando pela Plataforma Orbital 11, Pilotado pelo capitão Lee o'Ryan teve uma falha no reator, causando uma perda de órbita, e colidindo com a baía 6"

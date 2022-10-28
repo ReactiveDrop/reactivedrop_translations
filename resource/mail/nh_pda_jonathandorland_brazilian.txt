@@ -1,10 +1,10 @@
 GAME
 {
-	// PDA pertence a Jonathan Dorland
+	// PDA belongs to Jonathan Dorland
 
-	// Enviados
+	// Sent
 
-	"MailFrom3"	"Para: Dra. Lin Da Silva"
+	"MailFrom3"	"Para: Lin Da Silva"
 	"MailDate3"	"Data: 31/03/43"
 	"MailSubject3"	"Assunto: O que tá acontecendo?"
 	"MailBody3A"	"Lin, se importa de explicar o que tá acontecendo lá fora?"

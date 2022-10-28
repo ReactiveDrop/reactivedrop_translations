@@ -1,8 +1,8 @@
 ﻿GAME
 {
-	// PDA belongs to Brian
+	// PDA belongs to Brian Howe
 
-	// inbox
+	// Inbox
 
 	"MailFrom1"	"差出人: ヘレン・ヤング"
 	"MailDate1"	"送信日時: 52年12月23日"
@@ -19,5 +19,5 @@
 	"MailBody2B"	"連絡をちょうだい。 あなたがまだ地下のどこかに取り残されているなんて考えにもう耐えられない。"
 	"MailBody2C"	"ヘレンより"
 
-	// sent
+	// Sent
 }

@@ -1,5 +1,7 @@
 ﻿GAME
 {
+	// Inbox
+
 	"MailFrom1"	"差出人: 地方議事会"
 	"MailDate1"	"送信日時: 2232年11月14日"
 	"MailSubject1"	"件名: 我々の安全"

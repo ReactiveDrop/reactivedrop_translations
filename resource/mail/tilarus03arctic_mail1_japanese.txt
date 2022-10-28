@@ -1,6 +1,8 @@
 ﻿GAME
 {
-	// PDA belongs to John Wisher	
+	// PDA belongs to John Wisher
+
+	// Inbox
 
 	"MailFrom1"	"差出人: ケイト・ウィッシャー"
 	"MailDate1"	"送信日時: 52年10月13日"

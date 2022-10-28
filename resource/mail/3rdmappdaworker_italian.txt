@@ -1,11 +1,15 @@
 GAME
 {
-	// PDA di proprietà di Naka
+	// PDA belongs to Naka
+
+	// Inbox
 
 	"MailFrom1"	"Da: Comandante"
 	"MailDate1"	"Data: 09/25/63"
 	"MailSubject1"	"Soggetto: Ordini"
 	"MailBody1A"	"Lasciate tutto e tornate nella sala conferenze."
+
+	// Sent
 
 	"MailFrom3"	"A: Comandante"
 	"MailDate3"	"Data: 09/25/63"

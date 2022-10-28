@@ -1,9 +1,10 @@
 GAME
 {
-	// PDA di proprietà di Joseph Palmer
+	// PDA belongs to Dr. Joseph Palmer
 
-	// inbox
-	"MailFrom1"	"Da: Dr. Foster"
+	// Inbox
+
+	"MailFrom1"	"Da: David Foster"
 	"MailDate1"	"Data: 03/13/46"
 	"MailSubject1"	"Soggetto: Dosaggio"
 	"MailBody1A"	"Joseph,"
@@ -11,8 +12,9 @@ GAME
 	"MailBody1C"	"La dose citostatica era insufficiente. Raccomando di dare un secondo dosaggio durante la fase di chiusura della mutazione."
 	"MailBody1D"	"Dr. Foster"
 
-	// mail spedita
-	"MailFrom3"	"A: Dr. Foster"
+	// Sent
+
+	"MailFrom3"	"A: David Foster"
 	"MailDate3"	"Data: 03/13/46"
 	"MailSubject3"	"Soggetto: Re: Dosaggio"
 	"MailBody3A"	"Sono d'accordo."

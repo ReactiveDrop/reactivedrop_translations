@@ -1,6 +1,8 @@
 GAME
 {
-	// inbox
+	// PDA belongs to Hullen
+
+	// Inbox
 
 	"MailFrom1"	"发件人：明"
 	"MailDate1"	"日期：12/27/52"
@@ -18,7 +20,7 @@ GAME
 	"MailBody2C"	"它杀死了霍奇森和珍妮。你听到了吗，你杀了珍妮！"
 	"MailBody2D"	"它咬了我，我能感觉到我体内有东西在动……在成长…我恨你。"
 
-	// sent mail
+	// Sent
 
 	"MailFrom3"	"收件人：马丁.耶利哥"
 	"MailDate3"	"日期：12/26/52"
@@ -26,5 +28,5 @@ GAME
 	"MailBody3A"	"你好，马丁，"
 	"MailBody3B"	"我从维隆十二收到了几个标本，别问我怎么收到的。其中一个标本似乎在运输过程中死亡了。"
 	"MailBody3C"	"我不能用这里的焚化炉，否则上级会发现。我要把它送到你的矿井，在一个熔岩坑里处理掉它。"
-	"MailBody3D"	"胡伦。"
+	"MailBody3D"	"胡伦"
 }

@@ -1,8 +1,8 @@
 ﻿GAME
 {
-	// PDA belongs to Emily Hoggarth
+	// PDA belongs to Dr. Emily Hoggarth
 
-	// sent mail
+	// Sent
 
 	"MailFrom3"	"宛先: ケネット博士"
 	"MailDate3"	"送信日時: 46年3月12日"
@@ -12,5 +12,3 @@
 	"MailBody3C"	"可能な限り注意しろ。 被験者モリガンの時のようなことには二度とさせてはならない。"
 	"MailBody3D"	"エミリー・ホガース博士より"
 }
-
-

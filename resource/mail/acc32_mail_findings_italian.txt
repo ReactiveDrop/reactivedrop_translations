@@ -1,9 +1,11 @@
 GAME
 {
+	// Inbox
+
 	"MailFrom1"	"Da: Operazione News [Kyle]"
 	"MailDate1"	"Data: 22 Nov 2232"
 	"MailSubject1"	"Soggetto: Alcune informazioni"
 	"MailBody1A"	"Salve, oggi Tio Rinto, una compagnia mineraria, ci ha inviato alcuni dei loro registri di quella che sembra essere una roccia simile. Hanno incontrato una roccia simile 43 anni fa nelle loro spedizioni minerarie."
 	"MailBody1B"	"Non hanno molti dati al riguardo, ma quelli che hanno sono scioccanti: la roccia diventa molto più radioattiva con l'aumentare della temperatura. I laboratori che contengono un grosso campione sono isolati da un mese e non sono esposti all'aria esterna. Poiché il tetto è fatto principalmente di metallo, si è riscaldato e l'interno del laboratorio sta lentamente diventando sempre più caldo. Dobbiamo prendere provvedimenti per evitare che ciò accada."
-	"MailBody1C"	"Kyle - 22 novembre 2232"
+	"MailBody1C"	"Kyle"
 }

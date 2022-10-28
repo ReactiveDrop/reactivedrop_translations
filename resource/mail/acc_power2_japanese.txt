@@ -1,5 +1,7 @@
 ﻿GAME
 {
+	// Inbox
+
 	"MailFrom1"	"差出人: ザビエル・プルームス"
 	"MailDate1"	"送信日時: 32年12月14日"
 	"MailSubject1"	"件名: 現在の状況 ＆非表示"

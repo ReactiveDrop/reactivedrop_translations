@@ -1,9 +1,11 @@
 GAME
 {
+	// Inbox
+
 	"MailFrom1"	"From: Local Houses"
 	"MailDate1"	"Date: 11/14/32"
 	"MailSubject1"	"Subject: Our safety"
 	"MailBody1A"	"Just an hour ago one of your men had informed us of rapidly growing radiation levels in our area. Are you planning to sort it out? If this rapid growth continues, we will be forced to leave our houses tomorrow or else we will die."
 	"MailBody1B"	"Why have we been unofficially informed about this only now, a day before disaster strikes? Will the officials provide us with livable houses or will we have to evacuate by ourselves, with our own money?"
-	"MailBody1C"	"Local Houses."
+	"MailBody1C"	"Local Houses"
 }

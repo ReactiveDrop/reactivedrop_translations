@@ -1,5 +1,6 @@
 GAME
 {
+	// Inbox
 
 	"MailFrom1"	"De: Comandante Houghton"
 	"MailDate1"	"Data: 30/12/52"
@@ -7,5 +8,5 @@ GAME
 	"MailBody1A"	"Alfa, isso não parece bom."
 	"MailBody1B"	"O CP7 foi definitivamente comprometido, quaisquer cientistas ou soldados ainda vivos lá embaixo estão ferrados."
 	"MailBody1C"	"Há uma instalação de extermínio nas proximidades que preencherá todos os níveis mais baixos do CP7 com uma neurotoxina mortal."
-	"MailBody1D"	"Vai matar ou expulsar os alienígenas. É com pesar que eu te encarrego de ativar o extermínio. Câmbio desligo."
+	"MailBody1D"	"Vai matar ou expulsar os alienígenas. É com pesar que eu te encarrego de ativar o extermínio. Câmbio desligo"
 }

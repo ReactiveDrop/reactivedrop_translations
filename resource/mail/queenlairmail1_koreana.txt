@@ -2,6 +2,8 @@
 {
 	// PDA belongs to Helen Young
 
+	// Inbox
+
 	"MailFrom1"	"송신자: 브라이언 하우"
 	"MailDate1"	"날짜: 52년 12월 24일"
 	"MailSubject1"	"주제: 회신: 실험실로 가고 있어"

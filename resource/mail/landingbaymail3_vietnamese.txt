@@ -2,7 +2,7 @@ GAME
 {
 	// PDA belongs to Lt. Cain
 
-	// inbox
+	// Inbox
 
 	"MailFrom1"	"Từ: Laura Callen"
 	"MailDate1"	"Ngày: 12/18/52"
@@ -20,12 +20,12 @@ GAME
 	"MailBody2C"	"Alena,"
 	"MailBody2D"	"xxx"
 
-	// sent mail
+	// Sent
 
 	"MailFrom3"	"Tới: Laura Callen"
 	"MailDate3"	"Ngày: 12/21/52"
 	"MailSubject3"	"Tiêu đề: Tiền đồn số 17"
 	"MailBody3A"	"Ms. Callen,"
 	"MailBody3B"	"Tôi biết rất rõ luật hạn chế số  #77-C. Khi lục soát khu tiền đồn 17 và tìm thấy gói hàng sống đó, chúng tôi đã niêm phong và đưa về khu 39. Nó sẽ ở đấy cho tới khi chúng tôi nhận chỉ thị từ Interstellar Alliance về cách xử lý. Chúng tôi cũng đã tìm thấy những người mất tích. Đây không phải lần đầu chúng tôi có vài gã say xỉn và biến mất 1-2 hôm. Ở Vereon XII, không có cái gì sẽ biến mất hoàn toàn cả, tôi đảm bảo mọi thứ sẽ lại đâu vào đấy. Mr. Campbell theo lệnh ở trên, sẽ có nhiệm vụ cập nhật tình hình cho tôi sau mỗi 6 tiếng."
-	"MailBody3C"	"Lt. Cain, SynTek Security."
+	"MailBody3C"	"Lt. Cain, SynTek Security"
 }

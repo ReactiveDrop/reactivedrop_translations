@@ -2,7 +2,7 @@
 {
 	// PDA belongs to Jan Anath
 
-	// inbox
+	// Inbox
 
 	"MailFrom1"	"송신자: 윈덤 킹"
 	"MailDate1"	"날짜: 53년 2월 29일"
@@ -12,7 +12,7 @@
 	"MailBody1C"	"동맹군에 연락해보길 추천합니다.  군단의 공격일 수도 있어요."
 	"MailBody1D"	"보안팀장 W. 킹"
 
-	// sent mail
+	// Sent
 
 	"MailFrom3"	"수신자: 윈덤 킹"
 	"MailDate3"	"날짜: 53년 2월 29일"

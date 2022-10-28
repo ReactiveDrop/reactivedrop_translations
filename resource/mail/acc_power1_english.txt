@@ -1,10 +1,12 @@
 GAME
 {
+	// Sent
+
 	"MailFrom1"	"To: Jacob Stankiewich"
 	"MailDate1"	"Date: 01/04/31"
 	"MailSubject1"	"Subject: Re: Info from Retller &HIDDEN"
 	"MailBody1A"	"Yeah, Mr. Retller had already told me about the outbreak, scary news. I have actually seen some small ass bugs in the vent lately, but being the tough guy I am, I handled the situation by myself."
 	"MailBody1B"	"We need to inform the first floor about it, but that is easier to say than do. That might take a couple months, or maybe years. We are used by these scummy people at AMBER, we can't do anything about it, they would kill us. Fucking pricks, this feels like prison. For now act like you don't know anything."
 	"MailBody1C"	"P.S: Have you found out the reason for sudden temperature rise at Core 2B? I think it might be the bugs. If it happens again we will be forced to close the Reactor, which means the Underground Sector is screwed."
-	"MailBody1D"	"Nate."
+	"MailBody1D"	"Nate"
 }

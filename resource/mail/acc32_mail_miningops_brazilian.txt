@@ -1,16 +1,18 @@
 GAME
 {
+	// Inbox
+
 	"MailFrom1"	"De: Notícias da Operação [Jose Dunclub]"
 	"MailDate1"	"Data: 15/10/32"
 	"MailSubject1"	"Assunto: Operações de mineração"
 	"MailBody1A"	"As leituras de radiação de Glenkor estavam corretas. Encontramos uma quantidade anormal de radiação em uma caverna abaixo de um canal a leste do conector J7."
 	"MailBody1B"	"Fonte de radiação - rochas transparentes estranhas. Eles são como vidro embaçado, mas muito resistentes. Dói de segurá-lo na mão."
 	"MailBody1C"	"O maior pedaço que encontramos até agora é de aproximadamente um cubo de 7,5 centímetros, foi difícil tirá-lo do teto da caverna, tive que dividi-lo em dois pedaços."
-	"MailBody1D"	"Jose Dunclub - 15 de outubro de 2232"
+	"MailBody1D"	"Jose Dunclub"
 
 	"MailFrom2"	"De: Notícias da Operação [Jose Dunclub]"
 	"MailDate2"	"Data: 17/10/32"
 	"MailSubject2"	"Assunto: Pedra Grandinha"
 	"MailBody2A"	"Uau, grande descoberta! Você não vai acreditar - mais de 2 metros de altura e largura, 100 metros abaixo da entrada da caverna. No entanto não faço ideia de como vamos remove-la. Nós deviamos mesmo?"
-	"MailBody2B"	"Jose Dunclub - 17 de Outubro de 2232"
+	"MailBody2B"	"Jose Dunclub"
 }

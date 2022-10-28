@@ -2,7 +2,7 @@ GAME
 {
 	// PDA belongs to Security Officer Barney
 
-	// inbox
+	// Inbox
 
 	"MailFrom1"	"송신자: 빌 하우즈"
 	"MailDate1"	"날짜: 52년 10월 4일"
@@ -12,7 +12,7 @@ GAME
 	"MailBody1C"	"이미 신텍에서 제공한 표준 보안 장난감을 가지고 있잖아."
 	"MailBody1D"	"나중에, 빌"
 
-	// sent mail
+	// Sent
 
 	"MailFrom3"	"수신자: 빌 하우즈"
 	"MailDate3"	"날짜: 52년 10월 4일"
@@ -22,7 +22,7 @@ GAME
 	"MailBody3C"	"그 아이는 날 군단과의 몇 만남에서 구해줬어.  언제 다시 필요할지 몰라."
 	"MailBody3D"	"안전하게 있어, 바니"
 
-	"MailFrom4"	"수신자: 구역 장 잭슨"
+	"MailFrom4"	"수신자: 월터 잭슨"
 	"MailDate4"	"날짜: 52년 10월 6일"
 	"MailSubject4"	"주제: 이상한 움직임"
 	"MailBody4A"	"보고:"

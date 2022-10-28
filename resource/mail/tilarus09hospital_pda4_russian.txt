@@ -1,6 +1,8 @@
 GAME
 {
-	// PDA belongs to Dr.Kennett
+	// PDA belongs to Dr. Kennett
+
+	// Inbox
 
 	"MailFrom1"	"От: Д-р. Л. Гилмор"
 	"MailDate1"	"Дата: 17.03.46"
@@ -14,6 +16,8 @@ GAME
 	"MailDate2"	"Дата: 17.03.46"
 	"MailSubject2"	"Тема: ???"
 	"MailBody2A"	"Почему ты не отвечаешь мне?!"
+
+	// Sent
 
 	"MailFrom3"	"Кому: Д-р. Л. Гилмор"
 	"MailDate3"	"Дата: 17.03.46"

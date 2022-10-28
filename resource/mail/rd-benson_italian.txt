@@ -1,8 +1,9 @@
 GAME
 {
-	// PDA di proprietà di George Benson
+	// PDA belongs to George Benson
 
-	// inbox
+	// Inbox
+
 	"MailFrom1"	"Da: Spedizione e stoccaggio"
 	"MailDate1"	"Data: 24/10/53"
 	"MailSubject1"	"Soggetto: Re: Motoseghe?!"
@@ -11,7 +12,8 @@ GAME
 	"MailBody1C"	"Per quanto riguarda la motosega, gettala da una scogliera o qualcosa del genere. Qualche idiota ne ha ordinato un carico per errore e li ho fatti sedere nel magazzino occupando spazio da allora. Come se avessimo bisogno di motoseghe su questa roccia!"
 	"MailBody1D"	"- Bob Vernes, Responsabile della spedizione e dello stoccaggio"
 
-	// mail spedita
+	// Sent
+
 	"MailFrom3"	"A: Spedizione e stoccaggio"
 	"MailDate3"	"Data: 23/10/53"
 	"MailSubject3"	"Soggetto: Motoseghe?!"

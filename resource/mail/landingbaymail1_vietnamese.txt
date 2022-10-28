@@ -1,8 +1,8 @@
 GAME
 {
-	// PDA belongs to Brian
+	// PDA belongs to Brian Howe
 
-	// inbox
+	// Inbox
 
 	"MailFrom1"	"Từ: Helen Young"
 	"MailDate1"	"Ngày: 12/19/52"
@@ -11,7 +11,7 @@ GAME
 	"MailBody1B"	"Chúng ta đang bị áp đảo về mặt con số. Mọi biểu đồ về tăng trưởng, tuổi thọ và trao đổi chất đều chỉ hoạt động với toàn bộ quần thể, thay vì các cá thể riêng lẻ. "
 	"MailBody1C"	"Nhìn theo 1 khía cạnh nào đó, chúng là loài côn trùng tiên tiến, 1 dạng tiến hóa siêu cấp. Việc ngăn chặn đà phát triển của chúng là cực kỳ quan trọng."
 
-	// sent mail
+	// Sent
 
 	"MailFrom3"	"Tới: Helen Young"
 	"MailDate3"	"Ngày: 12/19/52"

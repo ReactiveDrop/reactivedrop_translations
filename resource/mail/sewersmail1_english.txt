@@ -1,8 +1,8 @@
 GAME
 {
-	// PDA belongs to Brian
+	// PDA belongs to Brian Howe
 
-	// inbox
+	// Inbox
 
 	"MailFrom1"	"From: Helen Young"
 	"MailDate1"	"Date: 12/23/52"
@@ -18,6 +18,4 @@ GAME
 	"MailBody2A"	"Brian, please contact me!  Where have you been?  I'm worried, all right?  Ming is experimenting with those eggs--experiments I know are illegal.  This morning they sealed off Deck 1; there are rumors of contamination but no confirmation.  SynTek wants to keep us in the dark.  We even heard gunfire somewhere in the main complex."
 	"MailBody2B"	"Please contact me. I can't stand the thought that you're still down there somewhere."
 	"MailBody2C"	"Helen"
-
-	// sent
 }

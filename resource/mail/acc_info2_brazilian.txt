@@ -1,5 +1,7 @@
 GAME
 {
+	// Sent
+
 	"MailFrom1"	"Para: #todos"
 	"MailDate1"	"Data: 19/10/30"
 	"MailSubject1"	"Assunto: VAI SE FODER AMBER"

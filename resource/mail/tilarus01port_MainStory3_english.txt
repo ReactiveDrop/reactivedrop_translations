@@ -2,6 +2,8 @@ GAME
 {
 	// PDA belongs to Overseer Ross
 
+	// Inbox
+
 	"MailFrom1"	"From: Commander harold"
 	"MailDate1"	"Date: 02/03/54"
 	"MailSubject1"	"Subject: EVacuation"

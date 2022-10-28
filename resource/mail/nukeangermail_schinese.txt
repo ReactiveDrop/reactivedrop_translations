@@ -2,6 +2,8 @@ GAME
 {
 	// PDA belongs to ???
 
+	// Inbox
+
 	"MailFrom1"	"发件人：核弹头"
 	"MailDate1"	"日期：12/24/52"
 	"MailSubject1"	"主题：太无礼了。"

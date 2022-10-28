@@ -2,10 +2,14 @@
 {
 	// PDA belongs to Naka
 
+	// Inbox
+
 	"MailFrom1"	"差出人: 司令官"
 	"MailDate1"	"送信日時: 63年9月25日"
 	"MailSubject1"	"件名: 命令"
 	"MailBody1A"	"大至急会議室にもどれ。"
+
+	// Sent
 
 	"MailFrom3"	"宛先: 司令官"
 	"MailDate3"	"送信日時: 63年9月25日"

@@ -1,8 +1,8 @@
 GAME
 {
-	// PDA belongs to Juan Rosale
+	// PDA belongs to Juan Rosales
 
-	// inbox
+	// Inbox
 
 	"MailFrom1"	"From: Vincent Baker"
 	"MailDate1"	"Date: 12/18/52"
@@ -15,7 +15,7 @@ GAME
 	"MailBody2A"	"Juan,"
 	"MailBody2B"	"Ahhah! You and Steve?  That surely beats getting stoned.  Oh well.  Goddamn blizzard's coming our way anyway."
 
-	// sent mail
+	// Sent
 
 	"MailFrom3"	"To: Vincent Baker"
 	"MailDate3"	"Date: 12/18/52"

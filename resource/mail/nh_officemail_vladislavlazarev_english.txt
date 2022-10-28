@@ -1,6 +1,6 @@
 GAME
 {
-	// PC belongs to Vladislav Lazarev
+	// Computer belongs to Vladislav Lazarev
 
 	// Inbox
 
@@ -11,11 +11,11 @@ GAME
 	"MailBody1B"	"Ah, but I’m sure you must be dying to hear what your new mission entails. It is of the utmost importance so pray, hear me... Cap’ wants the colonial adage framed at least once in every room Lugdunum. Yep, that’s it. Weird cult shit, huh? Don’t complain, ‘cause chain of commands won’t budge on my account. At least you got your weekly schedule worked out for you. Careful of not covering any ventilation shafts tho, could lead to fires. Don’t ask me how either."
 	"MailBody1C"	"'Nam Humanum'... Think that’s even legit Latin?"
 
-	// Sent mail
+	// Sent
 
 	"MailFrom3"	"To: Tom Asselin"
 	"MailDate3"	"Date: 07/02/42"
-	"MailSubject3"	"Subject: RE: Fresh assignment"
+	"MailSubject3"	"Subject: Re: Fresh assignment"
 	"MailBody3A"	"Never mind their lame-ass motto. As if it wasn’t humiliating enough stationing me here. I haven’t suffered through my bioastronautics classes to end up playing decorator."
 	"MailBody3B"	"I’ll sit right here and stay the unproductive member of society that they think I am, thank you very much. What are they gonna do, sue me? We’re literally a dubious scientific expedition with no legal resort or court of law."
 }

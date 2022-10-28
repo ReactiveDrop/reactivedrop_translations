@@ -2,7 +2,7 @@ GAME
 {
 	// PDA belongs to Martin Bauer
 
-	// inbox
+	// Inbox
 
 	"MailFrom1"	"From: SynTek Data Analyst"
 	"MailDate1"	"Date: 10/05/52"
@@ -12,7 +12,7 @@ GAME
 	"MailBody1C"	"I hope you won't get lost anymore. HAHA! ;D"
 	"MailBody1D"	"With regards, Mike Palmer"
 
-	// sent mail
+	// Sent
 
 	"MailFrom3"	"To: SynTek Data Analyst"
 	"MailDate3"	"Date: 10/05/52"

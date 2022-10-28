@@ -1,6 +1,8 @@
 GAME
 {
-	// inbox
+	// PDA belongs to Hullen
+
+	// Inbox
 
 	"MailFrom1"	"Von: Ming"
 	"MailDate1"	"Datum: 12/27/52"
@@ -18,7 +20,7 @@ GAME
 	"MailBody2C"	"Es hat Hodgson UND Jenny getötet. Hörst du mich, DU HAST JENNY GETÖTET!"
 	"MailBody2D"	"Es hat mich gebissen, ich spüre, wie sich etwas in mir bewegt... wächst... Ich hasse dich."
 
-	// sent mail
+	// Sent
 
 	"MailFrom3"	"An: Martin Jericho"
 	"MailDate3"	"Datum: 12/26/52"
@@ -26,5 +28,5 @@ GAME
 	"MailBody3A"	"Hallo Martin,"
 	"MailBody3B"	"Ich habe mehrere Exemplare von Vereon XII erhalten, frag nicht, wie. Eines der Exemplare scheint während des Transports gestorben zu sein."
 	"MailBody3C"	"Ich kann den Verbrennungsofen hier nicht benutzen, ohne dass die höheren Stellen davon erfahren, also schicke ich es in eure Minen, um es in einer der Lavagruben zu entsorgen."
-	"MailBody3D"	"Hullen."
+	"MailBody3D"	"Hullen"
 }

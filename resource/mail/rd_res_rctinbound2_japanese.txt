@@ -1,6 +1,8 @@
 ﻿GAME
 {
-	// inbox
+	// PDA belongs to Hullen
+
+	// Inbox
 
 	"MailFrom1"	"差出人: ミン"
 	"MailDate1"	"送信日時: 52年12月27日"
@@ -18,7 +20,7 @@
 	"MailBody2C"	"ホジソンとジェニーがアイツに殺された。 わかってるか、テメエがジェニーを殺したんだ！！！！！"
 	"MailBody2D"	"オレも噛まれた。身体の中を何かが這い回ってるみたいに感じる... しかも次第に大きく... 許さねえからな。"
 
-	// sent mail
+	// Sent
 
 	"MailFrom3"	"宛先: マーティン・ジェリコ"
 	"MailDate3"	"送信日時: 52年12月26日"

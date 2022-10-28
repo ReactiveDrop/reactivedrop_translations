@@ -2,7 +2,7 @@ GAME
 {
 	// PDA belongs to Security Officer Barney
 
-	// inbox
+	// Inbox
 
 	"MailFrom1"	"From: Bill Howze"
 	"MailDate1"	"Date: 10/04/52"
@@ -12,7 +12,7 @@ GAME
 	"MailBody1C"	"You have your standard security toys already provided by SynTek."
 	"MailBody1D"	"Later, Bill"
 
-	// sent mail
+	// Sent
 
 	"MailFrom3"	"To: Bill Howze"
 	"MailDate3"	"Date: 10/04/52"
@@ -22,7 +22,7 @@ GAME
 	"MailBody3C"	"That baby has saved me from a quite few encounters with the swarm. Never know when I might need it again."
 	"MailBody3D"	"Keep safe, Barney"
 
-	"MailFrom4"	"To: Section Chief Jackson"
+	"MailFrom4"	"To: Walter Jackson"
 	"MailDate4"	"Date: 10/06/52"
 	"MailSubject4"	"Subject: Strange readings"
 	"MailBody4A"	"REPORT:"
