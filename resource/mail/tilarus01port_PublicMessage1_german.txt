@@ -1,11 +1,14 @@
 GAME
 {
 	// PDA belongs to GeoTerraCorp
-	"MailFrom1"	"Von: GeoTerra Rep, Andrew"
+
+	// Inbox
+
+	"MailFrom1"	"Von: Andrew Baker"
 	"MailDate1"	"Datum: 02/02/54"
 	"MailSubject1"	"Betreff: Jüngstes Erdbeben"
 	"MailBody1A"	"Wie ihr sicher alle wisst, wurde das gestrige Erdbeben durch einen Unfall in Andockbucht 6 verursacht."
 	"MailBody1B"	"Ein großes Frachtschiff, das auf dem Weg zur Orbitalplattform 11 war und von Kapitän Lee o'Ryan gesteuert wurde, hatte einen Reaktorausfall, der zum Verlust der Umlaufbahn und zum Absturz in der Bucht führte."
 	"MailBody1C"	"Der GeoTerra-Sicherheitsdienst ist immer noch im Einsatz, aber zum Glück wurde niemand verletzt, da die Buchten 4-6 wegen des Schneesturms bereits geschlossen waren."
-	"MailBody1D"	"Gezeichnet, Andrew Baker, GeoTerra Corp Hauptsitz"
+	"MailBody1D"	"Gezeichnet, Andrew Baker, GeoTerra Corp Hauptquartier"
 }

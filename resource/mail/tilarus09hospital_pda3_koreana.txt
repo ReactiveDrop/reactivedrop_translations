@@ -1,8 +1,8 @@
 GAME
 {
-	// PDA belongs to David Foster
+	// PDA belongs to Dr. David Foster
 
-	// sent mail
+	// Sent
 	"MailFrom3"	"수신자: 앤드류 와드"
 	"MailDate3"	"날짜: 46년 3월 16일"
 	"MailSubject3"	"주제: 도움이 필요해요"

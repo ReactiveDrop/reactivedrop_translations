@@ -1,6 +1,9 @@
 GAME
 {
 	// PDA belongs to Helen Young
+
+	// Inbox
+
 	"MailFrom1"	"Von: Brian Howe"
 	"MailDate1"	"Datum: 12/24/52"
 	"MailSubject1"	"Betreff: Aw: Auf dem Weg ins Labor"

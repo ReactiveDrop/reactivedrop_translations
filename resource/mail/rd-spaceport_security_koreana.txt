@@ -2,7 +2,7 @@
 {
 	// PDA belongs to Tony Dawson
 
-	// inbox
+	// Inbox
 
 	"MailFrom1"	"송신자: 바바라 화이트"
 	"MailDate1"	"날짜: 57년 10월 6일"
@@ -20,7 +20,7 @@
 	"MailBody2C"	""
 	"MailBody2D"	"앤드류 스밋손 - 우주정거장 유지보수"
 
-	// sent mail
+	// Sent
 	"MailFrom3"	"수신자: 바바라 화이트"
 	"MailDate3"	"날짜: 57년 10월 6일"
 	"MailSubject3"	"주제: 몰수 품목"

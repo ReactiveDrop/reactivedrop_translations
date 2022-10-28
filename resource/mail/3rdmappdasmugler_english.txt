@@ -2,10 +2,14 @@ GAME
 {
 	// PDA belongs to Naka
 
+	// Inbox
+
 	"MailFrom1"	"From: Unknown"
 	"MailDate1"	"Date: 09/25/63"
 	"MailSubject1"	"Subject: ???"
 	"MailBody1A"	"What are you talking about? I hope you didn't lie about those weapons. I'll kill you without them if you don't have them."
+
+	// Sent
 
 	"MailFrom3"	"To: Unknown"
 	"MailDate3"	"Date: 09/25/63"

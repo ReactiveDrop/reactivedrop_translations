@@ -1,10 +1,10 @@
 ﻿GAME
 {
-	// PDA belongs to Sergeant Sarah Weiss
+	// PDA belongs to Sgt. Sarah Weiss
 
-	// Sent mail
+	// Sent
 
-	"MailFrom3"	"宛先: ゲール・フローレンス大尉"
+	"MailFrom3"	"宛先: ゲイル・フローレンス"
 	"MailDate3"	"送信日時: 42年6月16日"
 	"MailSubject3"	"件名: キャラダインのやつだ"
 	"MailBody3A"	"[送信失敗: あなたのPDAはネットワークから切断されています]"

@@ -2,13 +2,15 @@ GAME
 {
 	// PDA belongs to misc colonist
 
+	// Inbox
+
 	"MailFrom1"	"发件人：约翰.凯恩"
 	"MailDate1"	"日期：12/24/52"
 	"MailSubject1"	"主题：戒严令"
 	"MailBody1A"	"致维隆十二的所有公民："
 	"MailBody1B"	"我宣布进入戒严状态，立即生效。所有人都被命令回自己的住处，并待在那里等待进一步通知。任何违反此命令的人将被当场击毙。"
 	"MailBody1C"	"新特殖民地法第545/76B号授权声明，根据标准合同工人协议第45（vii）条。"
-	"MailBody1D"	"凯恩中尉，新特安全部。"
+	"MailBody1D"	"凯恩中尉，新特安全部"
 
 	"MailFrom2"	"发件人：博士制药医学技术。"
 	"MailSubject2"	"主题：回复：2239年好"

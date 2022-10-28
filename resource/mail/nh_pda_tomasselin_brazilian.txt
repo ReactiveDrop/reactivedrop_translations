@@ -1,23 +1,22 @@
 GAME
 {
-	// PDA pertence ao Tom Asselin
+	// PDA belongs to Tom Asselin
 
-	// Caixa de entrada
+	// Inbox
 
 	"MailFrom1"	"De: Jonathan Dorland"
 	"MailDate1"	"Data: 17/06/42"
-	"MailSubject1"	"Assunto: RE: Ta afim?"
+	"MailSubject1"	"Assunto: Re: Ta afim?"
 	"MailBody1A"	"Nada. Com tudo o que tá acontecendo, não to no clima. Vá fisgar sua mamata em outro lugar."
 
-
-	// Enviados
+	// Sent
 
 	"MailFrom3"	"Para: Jonathan Dorland"
 	"MailDate3"	"Data: 17/06/42"
 	"MailSubject3"	"Assunto: Ta afim?"
 	"MailBody3A"	"Ei. Parece que o Carradine tá com seus homens na coleira, né? As noites de aposta estão ficando quietas, ainda mais sem o nosso menino prodígio. Que tal ganhar algum? Pelos velhos tempos?"
 
-	"MailFrom4"	"Para: Cabo Sarah Weiss"
+	"MailFrom4"	"Para: Sarah Weiss"
 	"MailDate4"	"Data: 17/06/42"
 	"MailSubject4"	"Assunto: No menu: bebidas + partidas simuladas"
 	"MailBody4A"	"Oi, Sarah. Eu sei disso, teeecnicamente, você está restrita aos dormitórios com o resto de vocês guardas. Dito isso, que tal sexta-feira ao anoitecer, Cantina do Barney? Ou você finalmente ta ficando cansada de simuladamente levar no rabo?"

@@ -2,10 +2,14 @@
 {
 	// PDA belongs to Naka
 
+	// Inbox
+
 	"MailFrom1"	"差出人: 不明"
 	"MailDate1"	"送信日時: 63年9月25日"
 	"MailSubject1"	"件名: ？？？"
 	"MailBody1A"	"何を言っている？ これらの武器について嘘はつくんじゃない。 武器を用意できないなら素手でお前を殺すぞ。"
+
+	// Sent
 
 	"MailFrom3"	"宛先: 不明"
 	"MailDate3"	"送信日時: 63年9月25日"

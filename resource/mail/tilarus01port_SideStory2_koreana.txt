@@ -1,7 +1,8 @@
 ﻿GAME
 {
 	// PDA belongs to Overseer Ross
-	// inbox
+
+	// Inbox
 
 	"MailFrom1"	"송신자: 지미 카터"
 	"MailDate1"	"날짜: 54년 2월 2일"
@@ -16,7 +17,8 @@
 	"MailSubject2"	"주제: 존?"
 	"MailBody2A"	"로스, 거의 8시간이나 지났는데, 언제 존을 내려 보낼 계획이야?"
 
-	// sent mail
+	// Sent
+
 	"MailFrom3"	"수신자: 로스 감독관"
 	"MailDate3"	"날짜: 54년 2월 2일"
 	"MailSubject3"	"주제: 회신: 반응로 압력 저하"
@@ -31,5 +33,4 @@
 	"MailBody4B"	"메일을 보내고 바로 존을 내려보냈어, 거기까지 가는데 기껏해야 20분밖에 안걸려."
 	"MailBody4C"	"다른 친구들에게 물어봐서, 그가 어디 있는지 알아봐 줄께"
 	"MailBody4D"	"또 보안관에게 알려서 그를 찾아봐달라고 할께, 최근 이상하게 실종되는 사람들이 많아졌어"
-
 }

@@ -1,6 +1,8 @@
 GAME
 {
-	// PDApertence a colotista desap.
+	// PDA belongs to misc colonist
+
+	// Inbox
 
 	"MailFrom1"	"De: John Cain"
 	"MailDate1"	"Data: 24/12/52"
@@ -8,7 +10,7 @@ GAME
 	"MailBody1A"	"A todos os cidadãos de Vereon XII:"
 	"MailBody1B"	"Estou declarando um estado de lei marcial, efetivo imediatamente.  Todos são ordenados a ir para seus aposentos e permanecer lá até novas ordens.  Qualquer pessoa encontrada em violação desta ordem será baleada na hora."
 	"MailBody1C"	"Declaração por autoridade de Colonia SynTek Lei #545/76B de acordo com a cláusula 45 do contrato de trabalho padrão(vii)."
-	"MailBody1D"	"Ten. Cain, Segurança da SynTek."
+	"MailBody1D"	"Ten. Cain, Segurança da SynTek"
 
 	"MailFrom2"	"De: Dr. PharmA MedTech."
 	"MailSubject2"	"Assunto: Re: Bom 2239"

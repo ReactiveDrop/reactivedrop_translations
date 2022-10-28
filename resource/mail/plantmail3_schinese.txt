@@ -1,6 +1,7 @@
 GAME
 {
-	// spam
+	// Inbox
+
 	"MailFrom1"	"发件人：无名氏"
 	"MailSubject1"	"主题：醒醒吧！！"
 	"MailDate1"	"日期：12/25/52"

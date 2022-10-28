@@ -16,8 +16,8 @@
 "filter_teamchange"		"變更團隊"
 "[english]filter_teamchange"		"Team Changes"
 "chat_say"		"發言："
-"[english]chat_say"		"Say :"
+"[english]chat_say"		"Say"
 "chat_say_team"		"發言（團隊）："
-"[english]chat_say_team"		"Say (TEAM) :"
+"[english]chat_say_team"		"Say (TEAM)"
 }
 }

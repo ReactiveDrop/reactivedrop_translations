@@ -1,6 +1,6 @@
 GAME
 {
-	// PDA belongs to Corporal France Siriac
+	// PDA belongs to Cpl. France Siriac
 
 	// Inbox
 
@@ -19,7 +19,7 @@ GAME
 	"MailBody2C"	"请帮帮我们"
 	"MailBody2D"	"求你了"
 
-	// Sent mail
+	// Sent
 
 	"MailFrom3"	"收件人：宝琳.维托"
 	"MailDate3"	"日期：04/01/43"

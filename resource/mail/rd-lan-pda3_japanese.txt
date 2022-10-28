@@ -2,7 +2,7 @@
 {
 	// PDA belongs to Jan Anath
 
-	// inbox
+	// Inbox
 
 	"MailFrom1"	"差出人: ウィンダム・キング"
 	"MailDate1"	"送信日時: 53年02月29日"
@@ -12,7 +12,7 @@
 	"MailBody1C"	"IAFに連絡を取るべきです。 エイリアンの襲撃かもしれません。"
 	"MailBody1D"	"警備責任者、ウィンダム・キングより"
 
-	// sent mail
+	// Sent
 
 	"MailFrom3"	"宛先: ウィンダム・キング"
 	"MailDate3"	"送信日時: 53年02月29日"

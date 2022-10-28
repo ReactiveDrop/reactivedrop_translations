@@ -1,9 +1,11 @@
 GAME
 {
+	// Inbox
+
 	"MailFrom1"	"De: Notícias da Operação [Laura]"
 	"MailDate1"	"Data: 19/10/32"
 	"MailSubject1"	"Assunto: Volume da Pesquisa 2"
 	"MailBody1A"	"Puta merda, nossos detectores mais fortes identificaram que a rocha é feita de múons, não de elétrons."
 	"MailBody1B"	"Esta é uma notícia terrível, pode ser muito mais radioativo do que pensávamos... Medidores melhores estão sendo desenvolvidos agora e estamos todos isolados até descobrirmos se estamos seguros ou não."
-	"MailBody1C"	"Laura - 19 de Outubro de 2232"
+	"MailBody1C"	"Laura"
 }

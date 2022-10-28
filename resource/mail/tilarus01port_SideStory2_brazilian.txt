@@ -1,7 +1,8 @@
 GAME
 {
-	// PDA pertence ao Supervisor Ross
-	// Caixa de entrada
+	// PDA belongs to Overseer Ross
+
+	// Inbox
 
 	"MailFrom1"	"De: Jimmy Carter"
 	"MailDate1"	"Data: 02/02/54"
@@ -16,7 +17,8 @@ GAME
 	"MailSubject2"	"Assunto: John?"
 	"MailBody2A"	"Ross, Já se passaram quase 8 horas, quando você planeja enviar John aqui embaixo?"
 
-	// Enviados
+	// Sent
+
 	"MailFrom3"	"Para: Supervisor Ross"
 	"MailDate3"	"Date: 02/02/54"
 	"MailSubject3"	"Assunto: Re: Redução de Pressão do Reator"
@@ -31,5 +33,4 @@ GAME
 	"MailBody4B"	"Eu enviei o John ai embaixo logo depois de enviar o e-mail, Leva apenas 20 minutos para chegar até você no máximo"
 	"MailBody4C"	"Vou falar com os outros amigos dele, ver se eles sabem onde ele está"
 	"MailBody4D"	"Eu também vou informar a segurança para cuidar dele, há um monte de gente desaparecendo ultimamente"
-
 }

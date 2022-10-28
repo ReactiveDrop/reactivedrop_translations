@@ -1,22 +1,22 @@
 GAME
 {
-	// Hacked into network history: Lieutenant Gael Florenza
+	// Hacked into network history: Lt. Gael Florenza
 
-	// Sent mail
+	// Sent
 
-	"MailFrom3"	"À : Iris Florenza"
+	"MailFrom3"	"À: Iris Florenza"
 	"MailDate3"	"Date: 19/01/41"
-	"MailSubject3"	"Objet : Lancement des expéditions"
+	"MailSubject3"	"Objet: Lancement des expéditions"
 	"MailBody3A"	"Mon cœur,"
 	"MailBody3B"	"Cela aura pris plus de temps qu’anticipé, mais nous avons enfin démarré les expéditions géologiques et botaniques. Et bien qu’on ne manque pas de cailloux... je doute de la richesse floristique de cette grosse boule gelée. Sache en tout cas que c’est ton époux qui a eu l’honneur d’escorter et naviguer la première sortie. Les semaines passées à planifier les routes de convois n’auront donc pas été en vain. Dieux merci."
 	"MailBody3C"	"Je me surprends parfois à tourner le regard vers le Dr. Moreau lorsque celui-ci s’aventure hors du complexe scientifique. Pour en être arrivé là et dans les bonnes grâces de la communauté savante interstellaire, je ne doute pas qu’il s’agisse d’un homme de conviction... Quand bien même, son état mental ne semble cesser de se détériorer depuis la mort de son épouse. Je ne peux que compatir à sa douleur et espérer un prompt rétablissement, pour le bien de la colonie. Pour notre futur à toi, à moi, et à notre garçon."
-	"MailBody3D"	"Nam Humanum."
+	"MailBody3D"	"Nam Humanum"
 
-	"MailFrom4"	"À : Iris Florenza"
-	"MailDate4"	"Date : 28/05/41"
-	"MailSubject4"	"Objet : La routine s’installe"
+	"MailFrom4"	"À: Iris Florenza"
+	"MailDate4"	"Date: 28/05/41"
+	"MailSubject4"	"Objet: La routine s’installe"
 	"MailBody4A"	"Mon cœur,"
 	"MailBody4B"	"Les expéditions sur les surfaces inexplorées de la planète continuent de but en blanc. J’ai déjà complété plus de sorties que je n’aurai imaginé en faire en une année. C’est une tâche laborieuse avec sa juste part de responsabilités, mais elle n’est pas sans avantages. Quand nos chercheurs haltent la marche pour analyser le moindre cailloux de forme suspecte, j’aime poser le regard sur notre ciel sombre et me convaincre que toi aussi, à ce moment même, lève les yeux vers les étoiles."
 	"MailBody4C"	"Je suis heureux d’annoncer que mes inquiétudes à propos du Dr. Moreau se sont avérées infondées. Lui et le Capitaine travaillent main dans la main et redoublent d’efforts pour stimuler la colonie avec pour objectif proche de faciliter les déplacements, enfin nous sortir de de nos préfabs pour ensuite rendre possible l’accueil de nouveaux colons dans un tout plus “dynamique”, d’après ce qu’ils disent. Si j’ignore exactement combien de temps encore je dois me languir de ta présence, je suis heureux que les choses aient l’air de prendre forme de nouveau."
-	"MailBody4D"	"Nam Humanum."
+	"MailBody4D"	"Nam Humanum"
 }

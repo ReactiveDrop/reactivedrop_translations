@@ -1,8 +1,8 @@
 GAME
 {
-	// PDA belongs to Brian
+	// PDA belongs to Brian Howe
 
-	// inbox
+	// Inbox
 
 	"MailFrom1"	"发件人：海伦.杨"
 	"MailDate1"	"日期：12/19/52"
@@ -11,7 +11,7 @@ GAME
 	"MailBody1B"	"我们已经计算过了。所有关于生长、寿命和新陈代谢的模型，只适用于整个种群，而不是个体。"
 	"MailBody1C"	"在某种程度上，它们就像高级的蜂群昆虫，一种高级的超级有机体。遏制至关重要。"
 
-	// sent mail
+	// Sent
 
 	"MailFrom3"	"收件人：海伦.杨"
 	"MailDate3"	"日期：12/19/52"

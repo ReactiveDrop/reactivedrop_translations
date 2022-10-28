@@ -506,7 +506,7 @@
 "Achievement_Earned"		"%s1 获得了成就 %s2"
 "[english]Achievement_Earned"		"%s1 has earned the achievement %s2"
 "game_nextmap"		"下一张地图：%s1"
-"[english]game_nextmap"		"Next map : %s1"
+"[english]game_nextmap"		"Next map: %s1"
 "game_takesshots"		"在地图末尾自动保存记分板屏幕快照。"
 "[english]game_takesshots"		"Auto-save a scoreboard screenshot at the end of a map."
 "Cannot_Be_Spectator"		"该服务器不允许旁观"

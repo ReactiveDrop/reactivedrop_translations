@@ -961,7 +961,7 @@
 "[english]L4D360UI_Lobby_PlayerCount"		"Players: %s1"
 "L4D360UI_Stat_TeamSearch_Time_Nsec"		"Tempo previsto per giocare contro la squadra avversaria: meno di %s1 secondi"
 "[english]L4D360UI_Stat_TeamSearch_Time_Nsec"		"Estimated time to match with opponents team: less than %s1 seconds"
-"L4D360UI_Stat_TeamSearch_Time_Nmin"		"Tempo previsto per giocare contro la squadra avversaria : meno di %s1 minuti"
+"L4D360UI_Stat_TeamSearch_Time_Nmin"		"Tempo previsto per giocare contro la squadra avversaria: meno di %s1 minuti"
 "[english]L4D360UI_Stat_TeamSearch_Time_Nmin"		"Estimated time to match with opponents team: less than %s1 minutes"
 "L4D360UI_Lobby_ChatPrompt"		"Dici:"
 "[english]L4D360UI_Lobby_ChatPrompt"		"Say:"

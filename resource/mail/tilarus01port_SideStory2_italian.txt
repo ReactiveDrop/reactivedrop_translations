@@ -1,7 +1,8 @@
 GAME
 {
-	// PDA di proprietà di Soprintendente Ross
-	// inbox
+	// PDA belongs to Overseer Ross
+
+	// Inbox
 
 	"MailFrom1"	"Da: Jimmy Carter"
 	"MailDate1"	"Data: 02/02/54"
@@ -16,14 +17,14 @@ GAME
 	"MailSubject2"	"Soggetto: John?"
 	"MailBody2A"	"Ross, sono passate quasi 8 ore, quando hai intenzione di mandare John giù?"
 
-	// mail spedita
+	// Sent
+
 	"MailFrom3"	"A: Soprintendente Ross"
 	"MailDate3"	"Data: 02/02/54"
 	"MailSubject3"	"Soggetto: Re: Pressione del reattore in calo"
 	"MailBody3A"	"Jimmy,"
 	"MailBody3B"	"Scusa Jimmy, le mie mani sono legate, la maggior parte della struttura sta cercando di ripulire lo schianto nella baia 6."
 	"MailBody3C"	"Comunque manderò John, continua a controllare il reattore, se scende al di sotto del 25%, l'energia delle colonie se ne va con esso."
-
 
 	"MailFrom4"	"A: Soprintendente Ross"
 	"MailDate4"	"Data: 02/02/54"
@@ -32,5 +33,4 @@ GAME
 	"MailBody4B"	"Ho mandato John subito dopo averti inviato la mail, ci vogliono solo 20 minuti per arrivare da te"
 	"MailBody4C"	"Parlerò con gli altri suoi amici, per vedere se sanno dove si trova"
 	"MailBody4D"	"Informerò anche la sicurezza di cercarlo, c'è un sacco di gente che scompare ultimamente"
-
 }

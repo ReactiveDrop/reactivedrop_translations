@@ -1,8 +1,8 @@
 GAME
 {
-	// PC di proprietà di Vladislav Lazarev
+	// Computer belongs to Vladislav Lazarev
 
-	// In arrivo
+	// Inbox
 
 	"MailFrom1"	"Da: Vladislav Lazarev"
 	"MailDate1"	"Data: 01/07/42"
@@ -11,11 +11,11 @@ GAME
 	"MailBody1B"	"Ah, ma sono sicuro che muori dalla voglia di sentire cosa comporta la tua nuova missione. È della massima importanza quindi per favore, ascoltami... Il Cap' vuole che l'adagio coloniale sia incorniciato almeno una volta in ogni stanza Lugdunum. Sì, è tutto. Strana merda di culto, eh? Non lamentarti, perché la catena di comando non si muoverà per me. Almeno hai preparato il tuo programma settimanale apposta per te. Fai attenzione a non coprire i pozzi di ventilazione, potresti causare degli incendi. Non chiedermi nemmeno come."
 	"MailBody1C"	"'Nam Humanum'... Pensi che sia veramente Latino?"
 
-	// Mail inviate
+	// Sent
 
 	"MailFrom3"	"A: Tom Asselin"
 	"MailDate3"	"Data: 07/02/42"
-	"MailSubject3"	"Soggetto: RE: Nuovo incarico"
+	"MailSubject3"	"Soggetto: Re: Nuovo incarico"
 	"MailBody3A"	"Non importa il loro motto imbecille. Come se non fosse abbastanza umiliante posizionarmi qui. Non ho sofferto durante le mie lezioni di bioastronautica per finire a fare il decoratore."
 	"MailBody3B"	"Mi siederò proprio qui e rimarrò il membro improduttivo della società che pensano che io sia, grazie mille. Cosa faranno, mi denuncieranno? Siamo letteralmente una spedizione scientifica dubbia senza ricorso legale o tribunali."
 }

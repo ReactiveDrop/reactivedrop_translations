@@ -2,6 +2,8 @@
 {
 	// PDA belongs to Helen Young
 
+	// Inbox
+
 	"MailFrom1"	"差出人: ブライアン・ハウ"
 	"MailDate1"	"送信日時: 52年12月24日"
 	"MailSubject1"	"件名: 核弾頭"

@@ -2,7 +2,7 @@ GAME
 {
 	// PDA belongs to Martin Bauer
 
-	// inbox
+	// Inbox
 
 	"MailFrom1"	"От: Аналитик данных «СинТек»"
 	"MailDate1"	"Дата: 05.10.52"
@@ -12,7 +12,7 @@ GAME
 	"MailBody1C"	"Надеюсь, ты больше не заблудишься. АХАХ! ;D"
 	"MailBody1D"	"С уважением, Майк Палмер"
 
-	// sent mail
+	// Sent
 
 	"MailFrom3"	"Кому: Аналитик данных «СинТек»"
 	"MailDate3"	"Дата: 05.10.52"

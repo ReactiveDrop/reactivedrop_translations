@@ -1,6 +1,8 @@
 GAME
 {
-	// PDA belongs to John Wisher	
+	// PDA belongs to John Wisher
+
+	// Inbox
 
 	"MailFrom1"	"发件人：凯特·维希"
 	"MailDate1"	"日期：10/13/52"

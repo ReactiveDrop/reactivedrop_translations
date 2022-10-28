@@ -2,7 +2,7 @@ GAME
 {
 	// PDA belongs to Tony Dawson
 
-	// inbox
+	// Inbox
 
 	"MailFrom1"	"发件人：芭芭拉.怀特"
 	"MailDate1"	"日期：06/10/57"
@@ -20,7 +20,7 @@ GAME
 	"MailBody2C"	""
 	"MailBody2D"	"安德鲁.史密森 - 航天港维护员"
 
-	// sent mail
+	// Sent
 	"MailFrom3"	"收件人：芭芭拉.怀特"
 	"MailDate3"	"日期：06/10/57"
 	"MailSubject3"	"主题：没收物品"

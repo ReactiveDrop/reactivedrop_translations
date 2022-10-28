@@ -1,14 +1,19 @@
 GAME
 {
-	"MailFrom1"	"Von: Operation News [Richard]"
+	// Inbox
+
+	"MailFrom1"	"Von: Betriebsnachrichten [Richard]"
 	"MailDate1"	"Datum: 24. Nov 2232"
 	"MailSubject1"	"Betreff: Lösung"
 	"MailBody1A"	"Ich schlage vor, dass wir die gesamte Anlage langsam dekonfizieren, angefangen im Süden. Frische, kalte Luft sollte einströmen und in ein paar Tagen ihre Arbeit tun. Ich gehe davon aus, dass die freigesetzte Strahlung in der Umgebung nicht zu hoch sein wird. Wir könnten trotzdem die umliegenden Häuser evakuieren, um sie zu schützen."
-	"MailBody1B"	"Richard."
+	"MailBody1B"	"Richard"
+
+	// Sent
+
 	"MailFrom1"	"An: Richard"
 	"MailDate1"	"Datum: 24. Nov 2232"
-	"MailSubject1"	"Betreff: aw: Lösung"
+	"MailSubject1"	"Betreff: Aw: Lösung"
 	"MailBody1A"	"Bist du überhaupt "aufgeklärt"?! Hast du den Verstand verloren? Wer hat dich angeheuert? Als die Anlage das letzte Mal nicht abgesperrt war, waren die Strahlungswerte im Umkreis von 15 Kilometern um die Labore tödlich. Jetzt sind die Werte dreifach oder wahrscheinlich sogar vierfach so hoch."
 	"MailBody1B"	"Vielen Dank für deine professionellen Rat, Sir, aber nein, wir werden nicht in Erwägung ziehen, irgendwelche Menschen zu töten. Wir werden interne Kühlungsmaßnahmen einrichten."
-	"MailBody1C"	"Admin."
+	"MailBody1C"	"Admin"
 }

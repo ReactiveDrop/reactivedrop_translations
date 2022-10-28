@@ -1,14 +1,16 @@
 ﻿GAME
 {
-	"MailFrom1"	"差出人: Sarge"
+	// Inbox
+
+	"MailFrom1"	"差出人: Joseph Conrad"
 	"MailDate1"	"送信日時: 2232年11月20日"
 	"MailSubject1"	"件名: 調査"
-	"MailBody1A"	"下水道より侵入した。ここはお前らクズ野郎どもが投げ捨てた死体で血まみれだ。 温度は50度、放射線レベルは3倍になった。"
-	"MailBody1B"	"Sargeより"
+	"MailBody1A"	"下水道より侵入した。ここはお前らクズ野郎どもが投げ捨てた死体で血まみれだ。 温度は50度、放射線レベルは3倍になった"
+	"MailBody1B"	"sarge"
 
-	"MailFrom1"	"差出人: Sarge"
+	"MailFrom1"	"差出人: Joseph Conrad"
 	"MailDate1"	"送信日時: 2232年11月20日"
-	"MailSubject1"	"件名: re: そこにいるなら"
-	"MailBody1A"	"断る。 我々は調査のために派遣されたのであって、馬鹿げた実験に付き合うためではない。 我々は兵士だ。 貴様らが何を言おうと関係ない、まずはここから出させてもらう。"
-	"MailBody1B"	"Sargeより"
+	"MailSubject1"	"件名: Re: そこにいるなら"
+	"MailBody1A"	"断る。 我々は調査のために派遣されたのであって、馬鹿げた実験に付き合うためではない。 我々は兵士だ。 貴様らが何を言おうと関係ない、まずはここから出させてもらう"
+	"MailBody1B"	"sarge"
 }

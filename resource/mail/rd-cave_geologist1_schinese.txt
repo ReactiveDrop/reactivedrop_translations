@@ -2,7 +2,8 @@ GAME
 {
 	// PDA belongs to cave_geologist1
 
-	// inbox
+	// Inbox
+
 	"MailFrom1"	"发件人：地质勘测部"
 	"MailDate1"	"日期：17/09/57"
 	"MailSubject1"	"主题：回复：洞穴系统的初步结果"
@@ -11,7 +12,8 @@ GAME
 	"MailBody1C"	"当然，我知道我不需要提醒你小心使用它。"
 	"MailBody1D"	"- 杰夫.泰勒，地质勘测部。"
 
-	// sent mail
+	// Sent
+
 	"MailFrom3"	"收件人：地质勘测部"
 	"MailDate3"	"日期：17/09/57"
 	"MailSubject3"	"主题：洞穴系统的初步结果"

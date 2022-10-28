@@ -1,6 +1,8 @@
 GAME
 {
-	"MailFrom1"	"From: Fox News"
+	// Inbox
+
+	"MailFrom1"	"From: IAF News"
 	"MailDate1"	"Date: Nov 31st, 2232"
 	"MailSubject1"	"Subject: News log for the past 4 months."
 	"MailBody1A"	"August 1st, 2232 - Mining company 'Glenkor' detected high radiation readings in Syberia to the east of J7 Connector that seem to be coming from under the ground. Mining operations begin."
@@ -13,5 +15,5 @@ GAME
 	"MailBody1H"	"November 14th, 2232 - Radiation readings 15 kilometers away from the laboratory are growing rapidly. The reason for that is unknown. Did the rock start decaying faster? Why?"
 	"MailBody1I"	"November 20th, 2232 - Authorities have sent a brave group of soldiers in new muon-protective suits to carry out investigations. Inside of the lab, such radioactivity levels have not been seen before. The temperature inside of the building has been growing since the isolation of it. It appears that higher temperatures accelerate the decay of the rock. Soldiers are questioning the reliability of their suits and their safety."
 	"MailBody1J"	"November 22nd, 2232 - A mining company 'Tio Rinto' has provided some insight on the material that the rock is made of. 43 years ago they have encountered a material that starts decaying rapidly after being exposed to high temperatures. According to their logs, this material came from space in a meteor impact. If the rock made from the same material, it is expected to reach it's critical state on December 17th, 2232. The clock is running."
-	"MailBody1K"	"Your fox news subscription has expired. You can prolong your subscriptions at www.foxnews.com/subscription"
+	"MailBody1K"	"Your IAF News subscription has expired. You can prolong your subscriptions at iafnews.space/subscription"
 }

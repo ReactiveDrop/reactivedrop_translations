@@ -1,20 +1,24 @@
 GAME
 {
 	// PDA belongs to Shaun Ming
-	// inbox
+
+	// Inbox
+
 	"MailFrom1"	"Von: John Cain"
 	"MailDate1"	"Datum: 12/23/52"
 	"MailSubject1"	"Betreff: Aw: Laborfreigabe für Helen Young"
 	"MailBody1A"	"Ming, hast du den Verstand verloren?  Du hast mit Young über deine Erkenntnisse gesprochen?!  Ich habe dir ganz klar gesagt, dass NIEMAND außerhalb von SynTek wissen darf, was du da oben machst!"
 	"MailBody1B"	"Zu allem Übel laufen die Dinge auch noch aus dem Ruder.  Ich bin gerade von der Timor Station zurückgekommen.  Es breitet sich aus.  Wie zum Teufel sind sie von Deck 2 in die Mine gekommen?"
 	"MailBody1C"	"Und übrigens, was ist im Atrium los?"
-	"MailBody1D"	"Lt. Cain, SynTek Security."
-	// sent mail
+	"MailBody1D"	"Lt. Cain, SynTek Security"
+
+	// Sent
+
 	"MailFrom3"	"An: John Cain"
 	"MailDate3"	"Datum: 12/23/52"
 	"MailSubject3"	"Betreff: Aw:Aw: Laborfreigabe für Helen Young"
-	"MailBody3A"	"Leutnant Kain,"
-	"MailBody3B"	"pass auf, was du sagst.  Ich bin nicht einer von deinen Grunzern.  Young wird ihren Mund halten.  Sie hat hervorragende Arbeit geleistet und sie weiß, dass ihre Karriere davon abhängt.  Du hast also lebende Exemplare in den Minen gesehen?  Das ist interessant.  Es gibt eine offensichtliche Erklärung:  Die Eier werden aktiv, wenn sie auftauen.  Da unten gibt es genug Beute, um den Wachstumszyklus zu unterstützen.  Rechne mal nach."
+	"MailBody3A"	"Leutnant Cain,"
+	"MailBody3B"	"pass auf, was du sagst.  Ich bin nicht einer von deinen Hampelmännern.  Young wird ihren Mund halten.  Sie hat hervorragende Arbeit geleistet und sie weiß, dass ihre Karriere davon abhängt.  Du hast also lebende Exemplare in den Minen gesehen?  Das ist interessant.  Es gibt eine offensichtliche Erklärung:  Die Eier werden aktiv, wenn sie auftauen.  Da unten gibt es genug Beute, um den Wachstumszyklus zu unterstützen.  Rechne mal nach."
 	"MailBody3C"	"Mach dir keine Sorgen wegen des Atriums.  Wir haben es unter Kontrolle.  Einer der Parasiten ist gestern verschwunden.  Wir glauben, er hat einen Weg durch die Lüftungsschächte ins Unterdeck gefunden.  Der gesamte nordwestliche Bereich von Deck 1 ist versiegelt, also kommt nichts rein oder raus."
 	"MailBody3D"	"S. Ming"
 }

@@ -1,7 +1,8 @@
 GAME
 {
 	// PDA belongs to Brad Campbell
-	// inbox
+
+	// Inbox
 
 	"MailFrom1"	"发件人：劳拉.考伦"
 	"MailDate1"	"日期：12/18/52"
@@ -17,7 +18,8 @@ GAME
 	"MailBody2A"	"布拉德，看来凯恩是发信人。我问过他，他什么都否认。他说任何人都可能使用那台电脑，这倒是千真万确，不过在我看来，这并不能消除他的嫌疑。"
 	"MailBody2B"	"我要你在这些集装箱离开货舱之前，检查一下。"
 
-	// sent mail
+	// Sent
+
 	"MailFrom3"	"收件人：劳拉.考伦"
 	"MailDate3"	"日期：12/18/52"
 	"MailSubject3"	"主题：回复：蛋"

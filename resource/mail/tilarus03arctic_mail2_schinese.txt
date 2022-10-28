@@ -2,7 +2,7 @@ GAME
 {
 	// PDA belongs to Walter Jackson
 
-	// inbox
+	// Inbox
 
 	"MailFrom1"	"发件人：新特安全部"
 	"MailDate1"	"日期：10/07/52"
@@ -12,9 +12,9 @@ GAME
 	"MailBody1C"	"所有人员，立即按照规程撤离设施。"
 	"MailBody1D"	"注意安全。  -新特安全部"
 
-	// sent mail
+	// Sent
 
-	"MailFrom3"	"收件人：科长杰克逊"
+	"MailFrom3"	"收件人：沃尔特.杰克逊"
 	"MailDate3"	"日期：10/07/52"
 	"MailSubject3"	"主题：发电机"
 	"MailBody3A"	"我已经把通往发电机的门锁上了，所以我们应该还有电。我们至少可以在灯亮着，供电正常的情况下撤离。"
