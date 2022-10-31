@@ -15,9 +15,9 @@
 "[english]filter_servermsg"		"Server Messages"
 "filter_teamchange"		"团队更改"
 "[english]filter_teamchange"		"Team Changes"
-"chat_say"		"说："
+"chat_say"		"说"
 "[english]chat_say"		"Say"
-"chat_say_team"		"说（团队）："
+"chat_say_team"		"说（团队）"
 "[english]chat_say_team"		"Say (TEAM)"
 }
 }
