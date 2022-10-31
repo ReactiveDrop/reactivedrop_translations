@@ -7,6 +7,9 @@ You can also translate to an unsupported language but this will only work as a V
 
 </div>
 
+### Progress
+Check out the current translation progress [here](PROGRESS.md).
+
 ### Directory structure
 - ***achievements:*** Steam Achievement descriptions which are shown on Steams website.
 - ***addons:*** Translations for custom campaigns and challenges.
@@ -20,7 +23,7 @@ You can also translate to an unsupported language but this will only work as a V
 - ***utils:*** Helper tools for translators.
 
 ### How to contribute
-Read more on how to contribute to this project [here](https://github.com/ReactiveDrop/reactivedrop_translations/blob/master/CONTRIBUTING.md).
+Read more on how to contribute to this project [here](CONTRIBUTING.md).
 
 ### Got questions?
 Feel free to ask on this repository's [discussions](https://github.com/ReactiveDrop/reactivedrop_translations/discussions), [issue tracker](https://github.com/ReactiveDrop/reactivedrop_translations/issues) or [the Reactive Drop forum](https://steamcommunity.com/app/563560/discussions/1/) in the Steam community.
