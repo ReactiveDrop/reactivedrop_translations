@@ -1000,7 +1000,7 @@
 "L4D360UI_Access_LAN"		"Jogo por LAN"
 "[english]L4D360UI_Access_LAN"		"LAN Game"
 "L4D360UI_Access_Invite"		"Jogo privado"
-"[english]L4D360UI_Access_Invite"		"Private Game"
+"[english]L4D360UI_Access_Invite"		"Invite-Only Game"
 "L4D360UI_Access_Private"		"Jogo privado"
 "[english]L4D360UI_Access_Private"		"Private Game"
 "L4D360UI_Access_NumOnline"		"Amigos online: "

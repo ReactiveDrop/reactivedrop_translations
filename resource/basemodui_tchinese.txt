@@ -1000,7 +1000,7 @@
 "L4D360UI_Access_LAN"		"局域網遊戲"
 "[english]L4D360UI_Access_LAN"		"LAN Game"
 "L4D360UI_Access_Invite"		"私人遊戲"
-"[english]L4D360UI_Access_Invite"		"Private Game"
+"[english]L4D360UI_Access_Invite"		"Invite-Only Game"
 "L4D360UI_Access_Private"		"私人遊戲"
 "[english]L4D360UI_Access_Private"		"Private Game"
 "L4D360UI_Access_NumOnline"		"在線好友： "
