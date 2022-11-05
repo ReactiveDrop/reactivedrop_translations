@@ -7100,7 +7100,7 @@
 "rd_campaign_desc_rd_research7"		"Wir glauben, dass Proben von Vereon XII es bis zur Erde geschafft haben und die Forschungseinrichtung 7 gefährden. Wir schicken ein Alpha-Team, um das zu untersuchen."
 "[english]rd_campaign_desc_rd_research7"		"We believe that samples from Vereon XII have made it to Earth and compromised the Research 7 Facility. We're sending in Alpha squad to investigate."
 "rd_campaign_name_rd-tarnorcampaign1"		"Tränen für Tarnor"
-"[english]rd_campaign_name_rd-tarnorcampaign1"		"Tears For Tarnor, Ch.1: Insertion"
+"[english]rd_campaign_name_rd-tarnorcampaign1"		"Tears for Tarnor"
 "rd_campaign_desc_rd-tarnorcampaign1"		"Die Kolonie auf Tarnor ist auf mysteriöse Weise verstummt. Eine Gruppe von IAF-Soldaten wurde auf den Planeten beordert, um Nachforschungen anzustellen."
 "[english]rd_campaign_desc_rd-tarnorcampaign1"		"The colony on Tarnor has mysteriously gone silent. A group of IAF marines has been ordered to the planet to investigate."
 "rd_entrymission_title_deathmatch_campaign"		"IAF HAUPTQUARTIER"

@@ -3620,7 +3620,7 @@
 "ocs_uscmedusa_4_title"	"Enter the stasis pods"
 "ocs_uscmedusa_4a"	"Enter the statis pods to inititate interstellar travel"
 
-// Tears For Tarnor, Ch.1: Insertion strings
+// Tears for Tarnor strings
 "tf1_desertoutpost_1_title"	"Briefing"
 "tf1_desertoutpost_1a"	"Upon making planetfall, Cerberus was unable to establish a link with ground based guidance and tracking systems necessary to land at the spaceport."
 "tf1_desertoutpost_1b"	"Whilst looking for an alternative drop-off spot, a weak distress signal was detected. The captain has decided to drop the marines off a short distance away, so they can investigate the signal."
@@ -3859,7 +3859,7 @@
 "rd_campaign_desc_rd_paranoia"	"Your team has been sent to investigate a distant IAF outpost. All communication between IAF command and the base has ceased some time ago. Your task is to find out what happened at this base."
 "rd_campaign_name_rd_research7"	"Research 7"
 "rd_campaign_desc_rd_research7"	"We believe that samples from Vereon XII have made it to Earth and compromised the Research 7 Facility. We're sending in Alpha squad to investigate."
-"rd_campaign_name_rd-tarnorcampaign1"	"Tears For Tarnor, Ch.1: Insertion"
+"rd_campaign_name_rd-tarnorcampaign1"	"Tears for Tarnor"
 "rd_campaign_desc_rd-tarnorcampaign1"	"The colony on Tarnor has mysteriously gone silent. A group of IAF marines has been ordered to the planet to investigate."
 
 "rd_entrymission_title_deathmatch_campaign"	"IAF HQ"
