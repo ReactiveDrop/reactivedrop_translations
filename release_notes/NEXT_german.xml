@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<content><string id="body">
+
+[h1]Feldzüge[/h1]
+[list]
+[*][b]Tilarus-5: SynTek Krankenhaus:[/b] Alarmtöne sind jetzt lauter.
+[*][b]Bunker:[/b] Die Kollision mit einem unsichtbaren Deckenbalken wurde entfernt.
+[/list]
+
+[h1]Waffen[/h1]
+[list]
+[*][b]ML30 Laser Haftminen:[/b] Verbesserte Netzvorhersage für Wurfanimation.
+[/list]
+
+[h1]Verschiedenes[/h1]
+[list]
+[*]Für den Befehl buildcubemaps muss jetzt sv_cheats aktiviert sein.
+[*]Ein Absturz wurde behoben, wenn ein Alien versuchte, ein physikalisches Objekt auf ein Ziel zu werfen, das gestorben war.
+[*]Ein Absturz beim Verlassen eines Bildschirms mit einem geöffneten Dropdown-Menü wurde behoben.
+[/list]</string><string id="subtitle"></string><string id="summary"></string><string id="title">Alien Swarm: Reactive Drop Update - DD. MMMMM YYYY</string></content>
