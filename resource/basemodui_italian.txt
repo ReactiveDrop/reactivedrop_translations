@@ -999,7 +999,7 @@
 "[english]L4D360UI_Access_Friends"		"Friends-Only Game"
 "L4D360UI_Access_LAN"		"Partita LAN"
 "[english]L4D360UI_Access_LAN"		"LAN Game"
-"L4D360UI_Access_Invite"		"Partita privata"
+"L4D360UI_Access_Invite"		"Partita solo su invito"
 "[english]L4D360UI_Access_Invite"		"Invite-Only Game"
 "L4D360UI_Access_Private"		"Partita privata"
 "[english]L4D360UI_Access_Private"		"Private Game"
