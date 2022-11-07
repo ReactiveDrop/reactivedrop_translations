@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<content><string id="body">
+
+[h1]Campagne[/h1]
+[list]
+[*][b]Tilarus-5: Ospedale SynTek:[/b] L'allarme è stato reso più rumoroso.
+[*][b]Bunker:[/b] Rimossa la collisione con una trave invisibile sul soffitto.
+[/list]
+
+[h1]Armi[/h1]
+[list]
+[*][b]Mina Laser a Pressione ML30:[/b] Miglioramento della previsione della rete per l'animazione del lancio.
+[/list]
+
+[h1]Varie[/h1]
+[list]
+[*]Il comando buildcubemaps ora richiede che sv_cheats sia abilitato.
+[*]Corretto un crash anomalo quando un alieno cercava di lanciare un oggetto fisico contro un bersaglio morto.
+[*]Corretto un crash anomalo quando si lasciava una schermata con un menu a discesa aperto.
+[/list]</string><string id="subtitle"></string><string id="summary"></string><string id="title">Aggiornamento di Alien Swarm: Reactive Drop - DD MMMMM YYYY</string></content>
