@@ -14,5 +14,5 @@
 "asw_credits_"	"感谢steam论坛的成员"
 "asw_credits_"	"感谢他们的帮助和支持。"
 "asw_credits_"	"同时也感谢 VALVe 和 Black Cat"
-"asw_credits_"	"感谢提供了 Alien Swarm 和其他的精彩内容！"
+"asw_credits_"	"感谢提供了 异形丛生 和其他的精彩内容！"
 }
