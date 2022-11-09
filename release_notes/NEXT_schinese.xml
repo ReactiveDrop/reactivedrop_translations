@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<content><string id="body">
+
+[h1]战役[/h1]
+[list]
+[*][b]蒂拉鲁斯-5 新特医院：[/b] 使警报听起来更响。
+[*][b]燃料库：[/b] 移除了 无形天花板横梁的碰撞。
+[/list]
+
+[h1]武器[/h1]
+[list]
+[*][b]ML30激光地雷：[/b] 改进了投掷动画的网络预测。
+[/list]
+
+[h1]杂项[/h1]
+[list]
+[*]buildcubemaps命令现在需要启用sv_cheats。
+[*]修正了 异形试图向已死亡目投掷一个实体时导致的崩溃。
+[*]修复了 当屏幕下拉菜单打开时崩溃的问题。
+[/list]</string><string id="subtitle"></string><string id="summary"></string><string id="title">Alien Swarm: Reactive Drop Update - MMMMM DD, YYYY</string></content>
