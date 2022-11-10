@@ -1,6 +1,6 @@
 GAME
 {
-	// PDA belongs to Corporal France Siriac
+	// PDA belongs to Cpl. France Siriac
 
 	// Inbox
 
@@ -13,16 +13,16 @@ GAME
 
 	"MailFrom2"	"From: Pauline Vito"
 	"MailDate2"	"Date: 04/02/43"
-	"MailSubject2"	"Subject: RE: RE: Trapped in the greenhouse"
+	"MailSubject2"	"Subject: Re: Re: Trapped in the greenhouse"
 	"MailBody2A"	"By the gods, Jerome"
 	"MailBody2B"	"what have they done to him"
 	"MailBody2C"	"please help us"
 	"MailBody2D"	"please"
 
-	// Sent mail
+	// Sent
 
 	"MailFrom3"	"To: Pauline Vito"
 	"MailDate3"	"Date: 04/01/43"
-	"MailSubject3"	"Subject: RE: Trapped in the greenhouse"
+	"MailSubject3"	"Subject: Re: Trapped in the greenhouse"
 	"MailBody3A"	"You NEED to stay put until we can call for reinforcement. We’re down to a skeleton crew, since Florenza saw good to screw things up for all of us. No more of this hero complex bullshit, understand? We’ll get you out as soon as everything’s clear on our side."
 }

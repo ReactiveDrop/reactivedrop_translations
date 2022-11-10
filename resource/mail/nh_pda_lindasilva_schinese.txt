@@ -1,6 +1,6 @@
 GAME
 {
-	// PDA belongs to Doctor Lin Da Silva
+	// PDA belongs to Dr. Lin Da Silva
 
 	// Inbox
 
@@ -9,9 +9,9 @@ GAME
 	"MailSubject1"	"主题：回复：科研人员调动"
 	"MailBody1A"	"达·席尔瓦博士，我的研究要求我，要保持接近外科手术般的精确度。在此基础上，需要非常合适的，恰当的聚精会神。“适当”指的是不会被琐碎的事情，不断地打断。"
 	"MailBody1B"	"虽然我非常感谢你们的助手们迄今为止提供的巨大援助，但如果大家最终同意让我继续工作，那么正在进行的工作——由于我是这次任务的首席科学家，所以由我负责——将很快结束。"
-	"MailBody1C"	"谢谢。"
+	"MailBody1C"	"谢谢"
 
-	// Sent mail
+	// Sent
 
 	"MailFrom3"	"收件人：雅克.莫罗博士"
 	"MailDate3"	"日期：02/09/42"

@@ -2,10 +2,14 @@ GAME
 {
 	// PDA belongs to Naka
 
+	// Inbox
+
 	"MailFrom1"	"发件人：未知"
 	"MailDate1"	"日期：09/25/63"
 	"MailSubject1"	"主题：？？？"
 	"MailBody1A"	"你在说什么？我希望那些武器的事你没撒谎。如果你没有撒谎，我要杀了你。"
+
+	// Sent
 
 	"MailFrom3"	"收件人：未知"
 	"MailDate3"	"日期：09/25/63"

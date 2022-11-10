@@ -294,7 +294,7 @@
 //  = 0x01 (SOH) - Use normal color from this point forward
 "Achievement_Earned"	"%s1 has earned the achievement %s2"
 
-"game_nextmap"	"Next map : %s1"
+"game_nextmap"	"Next map: %s1"
 "game_takesshots"	"Auto-save a scoreboard screenshot at the end of a map."
 
 "Cannot_Be_Spectator"	"This server does not allow spectating"

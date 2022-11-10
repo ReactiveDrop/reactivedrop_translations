@@ -1,7 +1,8 @@
 GAME
 {
 	// PDA belongs to Overseer Ross
-	// inbox
+
+	// Inbox
 
 	"MailFrom1"	"From: Jimmy Carter"
 	"MailDate1"	"Date: 02/02/54"
@@ -16,7 +17,8 @@ GAME
 	"MailSubject2"	"Subject: John?"
 	"MailBody2A"	"Ross, Its been nearly 8 hours, When you planning to send John down?"
 
-	// sent mail
+	// Sent
+
 	"MailFrom3"	"To: Overseer Ross"
 	"MailDate3"	"Date: 02/02/54"
 	"MailSubject3"	"Subject: Re: Reactor Pressure Down"
@@ -31,5 +33,4 @@ GAME
 	"MailBody4B"	"I sent John down right after i send you the mail, It only takes 20 miniutes to get to you at most"
 	"MailBody4C"	"I will talk to his other friends, see if they know where he is"
 	"MailBody4D"	"I'll also inform Security to look out for him, Theres an awfull lot of people dissapearing lately"
-
 }

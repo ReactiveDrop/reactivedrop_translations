@@ -2,7 +2,8 @@
 {
 	// PDA belongs to Brian Howe
 
-	// inbox
+	// Inbox
+
 	"MailFrom1"	"송신자: 로라 캘런"
 	"MailDate1"	"날짜: 52년 12월 21일"
 	"MailSubject1"	"주제: 정보의 흐름"
@@ -17,7 +18,7 @@
 	"MailBody2B"	"제 기록들을 확인해봤는데 당신의 메모가 보이질 않네요.  걱정돼서 하는 말입니다.  뭔가 설명을 들을 수 있을거 같아서, 시스템 관리자와 얘기했어요. 티모르 역으로 가는 다음 열차를 탈겁니다.  08시 45분에 도착해요.  데리러 와줄래요?"
 	"MailBody2C"	"L. 캘런"
 
-	// sent mail
+	// Sent
 
 	"MailFrom3"	"수신자: 로라 캘런"
 	"MailDate3"	"날짜: 52년 12월 21일"

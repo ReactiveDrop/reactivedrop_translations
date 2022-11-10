@@ -1,6 +1,9 @@
 GAME
 {
-	// PDA di proprietà di Brian
+	// PDA belongs to Brian Howe
+
+	// Inbox
+
 	"MailFrom1"	"Da: Helen Young"
 	"MailDate1"	"Data: 12/24/52"
 	"MailSubject1"	"Soggetto: Andando ai laboratori"

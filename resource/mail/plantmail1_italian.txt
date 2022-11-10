@@ -1,15 +1,15 @@
 GAME
 {
-	// PDA di proprietà di Ming
+	// PDA belongs to Shaun Ming
 
-	// inbox
+	// Inbox
 
 	"MailFrom1"	"Da: John Cain"
 	"MailDate1"	"Data: 12/20/52"
 	"MailSubject1"	"Soggetto: Consegna per la Stazione di Ricerca 7"
 	"MailBody1A"	"Mr. Ming,"
 	"MailBody1B"	"L'agente IA L. Callen ha scoperto la nostra spedizione. Sembra anche che alcuni dei campioni siano sciolti. Mi prenderò cura di lui, ma potrebbe venire a fare a te e al tuo staff alcune domande precise. Ti consiglio di escogitare alcune buone risposte in anticipo. Metti in chiaro la tua storia."
-	"MailBody1C"	"Lt. Cain, Sicurezza SynTek."
+	"MailBody1C"	"Ten. Cain, Sicurezza SynTek"
 
 	"MailFrom2"	"Da: Friend"
 	"MailSubject2"	"Soggetto: Re: Opportunità di lavoro"

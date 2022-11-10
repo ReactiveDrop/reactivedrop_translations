@@ -2,6 +2,8 @@ GAME
 {
 	// PDA belongs to John Hadan
 
+	// Inbox
+
 	"MailFrom1"	"От: Джимми Картер"
 	"MailDate1"	"Дата: 02.02.54"
 	"MailSubject1"	"Тема: Отгрузка из «СинТек»"

@@ -1,5 +1,7 @@
 GAME
 {
+	// Inbox
+
 	"MailFrom1"	"Von: Helen Baker"
 	"MailDate1"	"Datum: 01/07/31"
 	"MailSubject1"	"Betreff: Update Rohrleitung"

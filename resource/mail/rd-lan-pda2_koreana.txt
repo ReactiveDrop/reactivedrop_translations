@@ -2,7 +2,7 @@
 {
 	// PDA belongs to Lucius Pawn
 
-	// inbox
+	// Inbox
 
 	"MailFrom1"	"송신자: 윈덤 킹"
 	"MailDate1"	"날짜: 53년 2월 29일"
@@ -20,8 +20,7 @@
 	"MailBody2C"	""
 	"MailBody2D"	"사랑하는, 라나가"
 
-
-	// sent mail
+	// Sent
 
 	"MailFrom3"	"수신자: 윈덤 킹"
 	"MailDate3"	"날짜: 53년 2월 29일"

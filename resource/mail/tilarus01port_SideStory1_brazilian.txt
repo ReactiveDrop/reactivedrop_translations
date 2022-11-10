@@ -1,6 +1,8 @@
 GAME
 {
-	// PDA pertence ao John Hadan
+	// PDA belongs to John Hadan
+
+	// Inbox
 
 	"MailFrom1"	"De: Jimmy Carter"
 	"MailDate1"	"Data: 02/02/54"

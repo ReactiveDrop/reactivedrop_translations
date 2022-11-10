@@ -2,6 +2,8 @@ GAME
 {
 	// PDA belongs to Overseer Ross
 
+	// Inbox
+
 	"MailFrom1"	"发件人：指挥官哈罗德"
 	"MailDate1"	"日期：02/02/54"
 	"MailSubject1"	"主题：报告"

@@ -1,6 +1,6 @@
 GAME
 {
-	// PDA di proprietà di Leon Bishop
+	// PDA belongs to Leon Bishop
 
 	// Inbox
 
@@ -11,7 +11,4 @@ GAME
 	"MailBody1B"	"La sua storia dell'attacco Swarm era un diversivo. Ha mandato sua figlia e un agente di sicurezza nel complesso della testata per rubare i nostri progetti."
 	"MailBody1C"	"Fermali ad ogni costo, compresa la loro vita. Questo è un ordine."
 	"MailBody1D"	"Capo Amministratore J. Anath"
-
-
-	// mail spedita
 }

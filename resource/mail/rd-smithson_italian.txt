@@ -1,15 +1,14 @@
 GAME
 {
-	// PDA di proprietà di Andrew Smithson
+	// PDA belongs to Andrew Smithson
 
-	// inbox
+	// Inbox
+
 	"MailFrom1"	"Da: James Shluger"
 	"MailDate1"	"Data: 09/10/57"
 	"MailSubject1"	"Soggetto: Porta difettosa"
 	"MailBody1A"	"Andrew,"
 	"MailBody1B"	"La porta della tromba delle scale vicino all'hangar 7 sta dando di nuovo problemi, potresti andare laggiù e vedere cosa puoi farci? Grazie."
-	"MailBody1C"	""
-	"MailBody1D"	""
 
 	"MailFrom2"	"Da: Oasis HR"
 	"MailDate2"	"Data: 02/10/57"
@@ -19,7 +18,8 @@ GAME
 	"MailBody2C"	"L'Amministrazione vorrebbe cogliere l'occasione per ringraziarti per il tuo interesse e ti augura buona fortuna per tutti gli sforzi futuri."
 	"MailBody2D"	"Jonas White - Risorse Umane, Colonia Oasis"
 
-	// sent mail
+	// Sent
+
 	"MailFrom3"	"A: Henry Smithson"
 	"MailDate3"	"Data: 09/10/57"
 	"MailSubject3"	"Soggetto: Re:Re:Re:ciao"
@@ -27,5 +27,4 @@ GAME
 	"MailBody3B"	"e non è la cosa peggiore ... le ultime settimane, a volte quando lavoro da solo, giuro di poter sentire qualcosa che striscia nelle prese d'aria. Forse sono solo paranoico ma ... beh, ricordi cosa è successo a quella colonia mineraria un paio di anni fa?"
 	"MailBody3C"	""
 	"MailBody3D"	"Andy"
-
 }

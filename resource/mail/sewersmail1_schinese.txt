@@ -1,8 +1,8 @@
 GAME
 {
-	// PDA belongs to Brian
+	// PDA belongs to Brian Howe
 
-	// inbox
+	// Inbox
 
 	"MailFrom1"	"发件人：海伦.杨"
 	"MailDate1"	"日期：12/23/52"
@@ -19,5 +19,5 @@ GAME
 	"MailBody2B"	"请与我联系。一想到你还在下面的某个地方，我就受不了。"
 	"MailBody2C"	"海伦"
 
-	// sent
+	// Sent
 }

@@ -1,20 +1,24 @@
 GAME
 {
 	// PDA belongs to Lt. Cain
-	// inbox
+
+	// Inbox
+
 	"MailFrom1"	"Von: Shaun Ming"
 	"MailDate1"	"Datum: 12/21/52"
 	"MailSubject1"	"Betreff: Durchbruch"
-	"MailBody1A"	"Leutnant Kain,"
+	"MailBody1A"	"Leutnant Cain,"
 	"MailBody1B"	"großer Durchbruch heute.  Es ist mir gelungen, große Teile des genetischen Bauplans der außerirdischen Lebensform zu isolieren und zu entschlüsseln.  Diese Kreatur ist verblüffend, so etwas habe ich noch nie gesehen.  Ich habe auch eine Menge über den Lebenszyklus der Außerirdischen gelernt.  Jetzt kommt der unangenehme Teil:"
 	"MailBody1C"	"Ich möchte, dass du alle aus den Laboren holst, außer den Wissenschaftlern, die unter mir arbeiten.  Keiner darf Deck 2 betreten.  Um meine Vermutungen darüber zu testen, wie der Schwarm zur Reife gelangt, brauche ich etwas Lebendiges.  Ich glaube, es müsste mindestens die Größe eines Hundes haben, um seinen Appetit zu stillen.  Kann ich auf dich zählen?"
 	"MailBody1D"	"S. Ming"
-	// sent mail
+
+	// Sent
+
 	"MailFrom3"	"An: Shaun Ming"
 	"MailDate3"	"Datum: 12/21/52"
 	"MailSubject3"	"Betreff: Aw: Durchbruch"
 	"MailBody3A"	"Herr Ming,"
 	"MailBody3B"	"1) So gut wie erledigt."
 	"MailBody3C"	"2) Ich werde sehen, was ich tun kann."
-	"MailBody3D"	"Lt. Cain, SynTek Security."
+	"MailBody3D"	"Lt. Cain, SynTek Security"
 }

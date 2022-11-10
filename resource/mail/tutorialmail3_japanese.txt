@@ -1,8 +1,8 @@
 ﻿GAME
 {
-	// PDA belongs to Juan Rosale
+	// PDA belongs to Juan Rosales
 
-	// inbox
+	// Inbox
 
 	"MailFrom1"	"差出人: ヴィンセント・ベイカー"
 	"MailDate1"	"送信日時: 52年12月18日"
@@ -15,7 +15,7 @@
 	"MailBody2A"	"フアン、"
 	"MailBody2B"	"アーハッハ！お前とスティーブだって？ そりゃ酔いもサッパリ醒めるわな。 まあいい。ともかくクソブリザードが来てるからな。"
 
-	// sent mail
+	// Sent
 
 	"MailFrom3"	"宛先: ヴィンセント・ベイカー"
 	"MailDate3"	"送信日時: 52年12月18日"

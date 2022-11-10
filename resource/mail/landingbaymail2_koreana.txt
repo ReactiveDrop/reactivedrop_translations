@@ -1,6 +1,8 @@
 ﻿GAME
 {
-	// PDA belongs to Laura
+	// PDA belongs to Laura Callen
+
+	// Inbox
 
 	"MailFrom1"	"송신자: 브래드 캠프벨"
 	"MailDate1"	"날짜: 52년 12월 18일"

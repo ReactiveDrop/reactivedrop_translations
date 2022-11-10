@@ -1,7 +1,8 @@
 GAME
 {
-	// PDA pertence ao Brad Campbell
-	// Caixa de entrada
+	// PDA belongs to Brad Campbell
+
+	// Inbox
 
 	"MailFrom1"	"De: Laura Callen"
 	"MailDate1"	"Data: 18/12/52"
@@ -17,7 +18,8 @@ GAME
 	"MailBody2A"	"Brad, parece que Cain é o remetente. Questionei ele sobre isso e ele negou tudo. Ele disse que qualquer um poderia ter usado aquele computador, o quê é verdade, mas ainda não acredito nele."
 	"MailBody2B"	"Eu quero que você inspecione esses contêineres antes que eles saiam do compartimento de carga."
 
-	// Enviados
+	// Sent
+
 	"MailFrom3"	"Para: Laura Callen"
 	"MailDate3"	"Data: 18/12/52"
 	"MailSubject3"	"Assunto: Re: Ovos"

@@ -2,7 +2,7 @@ GAME
 {
 	// PDA belongs to Jan Anath
 
-	// inbox
+	// Inbox
 
 	"MailFrom1"	"From: Windom King"
 	"MailDate1"	"Date: 02/29/53"
@@ -12,8 +12,7 @@ GAME
 	"MailBody1C"	""
 	"MailBody1D"	"Chief of Security W. King"
 
-
-	// sent mail
+	// Sent
 
 	"MailFrom3"	"To: Windom King"
 	"MailDate3"	"Date: 02/29/53"

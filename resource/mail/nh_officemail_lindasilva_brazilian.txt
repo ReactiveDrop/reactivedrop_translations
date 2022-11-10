@@ -1,8 +1,8 @@
 GAME
 {
-	// PC pertence ao Doutor Lin Da Silva
+	// Computer belongs to Dr. Lin Da Silva
 
-	// Caixa de entrada
+	// Inbox
 
 	"MailFrom1"	"De: Jonathan Dorland"
 	"MailDate1"	"Data: 13/02/42"
@@ -12,21 +12,21 @@ GAME
 
 	"MailFrom2"	"De: Jonathan Dorland"
 	"MailDate2"	"Data: 14/02/42"
-	"MailSubject2"	"Assunto: RE: RE: Dr. Moreau?"
+	"MailSubject2"	"Assunto: Re: Re: Dr. Moreau?"
 	"MailBody2A"	"Certo, certinho mesmo, Doutor Da Silva."
 	"MailBody2B"	"Nam Humanum :)"
 
-	// Enviados
+	// Sent
 
 	"MailFrom3"	"Para: Jonathan Dorland"
 	"MailDate3"	"Data: 13/02/42"
-	"MailSubject3"	"Assunto: RE: Dr. Moreau?"
+	"MailSubject3"	"Assunto: Re: Dr. Moreau?"
 	"MailBody3A"	"Jonathan, Por favor leia com atenção."
 	"MailBody3B"	"Você não pode me chamar pelo primeiro nome, quanto mais pensar que você pode se familiarizar comigo. Vamos manter essa relação estritamente profissional, a menos que talvez você precise de um pequeno lembrete sobre alguma buraco de rato de New Havre? Que buraco eu me pergunto, rastejando dentro dele algum criminoso humilde que teria jogado sua triste existência em uma nave de carga se uma garota estúpida com muita bondade não lhe estendesse a mão."
 	"MailBody3C"	"Pense nisso como meu trunfo, Johnny, ou como quiser. Dr. Moreau é o responsável por todas as decisões relativas à pesquisa. Dado que você é apenas um assistente aqui, isso é tudo que você precisa saber. Então tenta ficar na sua "só desta vez"."
 	"MailBody3D"	"Espero que as coisas estejam claras para você?"
 
-	"MailFrom4"	"Para: Ten. Gael Florenza"
+	"MailFrom4"	"Para: Gael Florenza"
 	"MailDate4"	"Data: 01/01/43"
 	"MailSubject4"	"Assunto: (Vazio)"
 	"MailBody4A"	"Se você pode por um fim nisso, então sim, Vou garantir que seu acesso aos laboratórios estejam liberados."

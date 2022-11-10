@@ -1,10 +1,14 @@
 GAME
 {
+	// PDA belongs to Kate Larson
+
+	// Sent
+
 	"MailFrom1"	"To: Brad Irwing"
 	"MailDate1"	"Date: 04/02/31"
 	"MailSubject1"	"Subject: ANSWER ME! &HIDDEN"
 	"MailBody1A"	"Why did you escape? What happened? TELL ME! You realise you can't do that? Capt. Bark and the Head Doc. are searching for you and they are not happy. The Head Doc. is responding aggresively to my questioning, perhaps he is hiding something? Actually, everybody is acting strangely."
 	"MailBody1B"	"You ran away after your experiment in march, what did you discover? I am being disquiet. I hope you aren't planning to tell the public or even worse, the government, about our facility's secrets. This information would cause a massive anarchy all around the world. Lieutenant Wanman and General Schmitz would be in deep trouble and in charge of causing an international scandal."
 	"MailBody1C"	"P.S: Where is Retller? I can't find him, maybe he could give me some information? I know you two are good colleagues since childhood."
-	"MailBody1D"	"Kate."
+	"MailBody1D"	"Kate"
 }

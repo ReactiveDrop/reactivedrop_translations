@@ -1,8 +1,8 @@
 ﻿GAME
 {
-	// PDA belongs to Brian
+	// PDA belongs to Brian Howe
 
-	// inbox
+	// Inbox
 
 	"MailFrom1"	"差出人: ヘレン・ヤング"
 	"MailDate1"	"送信日時: 52年12月19日"
@@ -11,7 +11,7 @@
 	"MailBody1B"	"多くの計算をしてみたわ。あらゆる成長、寿命、世代交代の構造は全個体の必要に応じて作用しているの、一体ずつが持っているのではなくね。"
 	"MailBody1C"	"ある意味では、エイリアン達は巣であり虫でもある、一つの高度な生命体のようなものなの。 隔離が必須です。"
 
-	// sent mail
+	// Sent
 
 	"MailFrom3"	"宛先: ヘレン・ヤング"
 	"MailDate3"	"送信日時: 52年12月19日"

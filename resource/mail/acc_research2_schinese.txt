@@ -1,5 +1,9 @@
 GAME
 {
+	// PDA belongs to Kate Larson
+
+	// Inbox
+
 	"MailFrom1"	"发件人：布拉德.欧文"
 	"MailDate1"	"日期：03/19/31"
 	"MailSubject1"	"主题：快看我1 &HIDDEN"
@@ -13,5 +17,5 @@ GAME
 	"MailSubject2"	"主题：快看我2 &HIDDEN"
 	"MailBody2A"	"但我们还发现了更可怕的东西。我们注意到样本8'1'18'22，代号为HARVESTER（收获主），可以在几秒钟内生出样本24'5'14'15，代号为XENOMITE（小爆虫）。这很可怕，因为今年1月我们发现XENOMITE可以产卵，这些卵后来会变异成样本16'1'18'1，代号为PARASITE（寄生虫）。"
 	"MailBody2B"	"凯特，我正计划逃离这里，我们这样做是不对的。我们应该与政府共享此信息。如果没有人同意我，我就自己做。"
-	"MailBody2C"	"祝你好运，布拉德。"
+	"MailBody2C"	"祝你好运，布拉德"
 }

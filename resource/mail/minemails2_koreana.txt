@@ -1,6 +1,8 @@
 ﻿GAME
 {
-	// PDA belongs to Lt Cain
+	// PDA belongs to Lt. Cain
+
+	// Inbox
 
 	"MailFrom1"	"송신자: 로라 캘런"
 	"MailDate1"	"날짜: 52년 12월 24일"

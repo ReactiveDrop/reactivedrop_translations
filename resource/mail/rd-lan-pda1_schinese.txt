@@ -2,7 +2,7 @@ GAME
 {
 	// PDA belongs to Jan Anath
 
-	// inbox
+	// Inbox
 
 	"MailFrom1"	"发件人：温顿.金"
 	"MailDate1"	"日期：02/29/53"
@@ -12,8 +12,7 @@ GAME
 	"MailBody1C"	""
 	"MailBody1D"	"安全主管 W.金"
 
-
-	// sent mail
+	// Sent
 
 	"MailFrom3"	"收件人：温顿.金"
 	"MailDate3"	"日期：02/29/53"

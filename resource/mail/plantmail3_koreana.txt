@@ -1,6 +1,7 @@
 ﻿GAME
 {
-	// spam
+	// Inbox
+
 	"MailFrom1"	"송신자: 존 도"
 	"MailSubject1"	"일어나!!!"
 	"MailDate1"	"날짜: 52년 12월 25일"

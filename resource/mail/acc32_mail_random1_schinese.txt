@@ -1,5 +1,7 @@
 GAME
 {
+	// Inbox
+
 	"MailFrom1"	"发件人：爱德华.佐夫"
 	"MailDate1"	"日期：07/07/31"
 	"MailSubject1"	"主题：采矿作业"

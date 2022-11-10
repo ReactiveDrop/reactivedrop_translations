@@ -2,6 +2,8 @@ GAME
 {
 	// PDA belongs to misc colonist
 
+	// Inbox
+
 	"MailFrom1"	"От: Джон Кейн"
 	"MailDate1"	"Дата: 24.12.52"
 	"MailSubject1"	"Тема: Военное положение"

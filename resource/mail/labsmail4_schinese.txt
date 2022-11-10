@@ -1,8 +1,8 @@
 GAME
 {
-	// PDA belongs to SysAdmin
+	// PDA belongs to Charles Rivera
 
-	// inbox
+	// Inbox
 
 	"MailFrom1"	"发件人：菲尔.瑞恩"
 	"MailDate1"	"日期：12/20/52"
@@ -19,7 +19,7 @@ GAME
 	"MailBody2C"	"星际航运可用。"
 	"MailBody2D"	"Isoth4m1ne23会让你在一整天的工作中都感觉清爽、强壮、精力充沛！你的上司都在服用，你为什么不服用呢？"
 
-	// sent mail
+	// Sent
 
 	"MailFrom3"	"收件人：菲尔.瑞恩"
 	"MailDate3"	"日期：12/20/52"
@@ -27,5 +27,5 @@ GAME
 	"MailBody3A"	"尊敬的，"
 	"MailBody3B"	"谢谢你的邮件和你对公司的关注。我们已经仔细研究了你的要求，一旦我们的代理人有空，他将被派去处理这个问题。不要回复此邮件。我们会尽快与您联系。"
 	"MailBody3C"	"新特管理部/系统管理员"
-	"MailBody3D"	"里韦拉，C."
+	"MailBody3D"	"C. 里韦拉"
 }

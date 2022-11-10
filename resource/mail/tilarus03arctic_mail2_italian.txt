@@ -1,8 +1,8 @@
 GAME
 {
-	// PDA di proprietà di Walter Jackson
+	// PDA belongs to Walter Jackson
 
-	// inbox
+	// Inbox
 
 	"MailFrom1"	"Da: SynTek Security"
 	"MailDate1"	"Data: 10/07/52"
@@ -12,9 +12,9 @@ GAME
 	"MailBody1C"	"Tutto il personale dovrebbe seguire il protocollo sull'evacuazione della struttura in questo momento."
 	"MailBody1D"	"Restate al sicuro.   - Sicurezza SynTek"
 
-	// mail spedita
+	// Sent
 
-	"MailFrom3"	"A: Section Chief Jackson"
+	"MailFrom3"	"A: Walter Jackson"
 	"MailDate3"	"Data: 10/07/52"
 	"MailSubject3"	"Soggetto: Generatori"
 	"MailBody3A"	"Ho chiuso a chiave la porta che conduce ai generatori di corrente, quindi dovremmo stare bene con la potenza. Possiamo almeno evacuare con le luci accese e l'alimentazione in esecuzione."

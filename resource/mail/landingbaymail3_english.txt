@@ -2,7 +2,7 @@ GAME
 {
 	// PDA belongs to Lt. Cain
 
-	// inbox
+	// Inbox
 
 	"MailFrom1"	"From: Laura Callen"
 	"MailDate1"	"Date: 12/18/52"
@@ -20,12 +20,12 @@ GAME
 	"MailBody2C"	"Alena,"
 	"MailBody2D"	"xxx"
 
-	// sent mail
+	// Sent
 
 	"MailFrom3"	"To: Laura Callen"
 	"MailDate3"	"Date: 12/21/52"
 	"MailSubject3"	"Subject: Outpost 17"
 	"MailBody3A"	"Ms. Callen,"
 	"MailBody3B"	"I know all about restriction #77-C.  We searched Outpost 17 and found the live cargo.  We locked it up in sector 39 and it'll stay there until we get orders from the Interstellar Alliance on how to proceed.  We have yet to find the missing personnel.  It wouldn't be the first time some workers got drunk and disappeared for a day or two.  Since nothing can ever really get lost on Vereon XII, I'm sure they'll show up soon.  Mr. Campbell has orders to give me updates  every 6 hours."
-	"MailBody3C"	"Lt. Cain, SynTek Security."
+	"MailBody3C"	"Lt. Cain, SynTek Security"
 }

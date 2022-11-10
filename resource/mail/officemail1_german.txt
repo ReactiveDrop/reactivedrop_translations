@@ -1,16 +1,20 @@
 GAME
 {
 	// PDA belongs to Lt. Cain
+
+	// Inbox
+
 	"MailFrom1"	"Von: Shaun Ming"
 	"MailDate1"	"Datum: 12/21/52"
 	"MailSubject1"	"Betreff: Tests"
-	"MailBody1A"	"Leutnant Kain,"
+	"MailBody1A"	"Leutnant Cain,"
 	"MailBody1B"	"eine Katze?  Das geht nicht.  Zu klein."
 	"MailBody1C"	"S. Ming"
+
 	"MailFrom2"	"Von: Shaun Ming"
 	"MailDate2"	"Datum: 12/22/52"
 	"MailSubject2"	"Betreff: Tests 2"
-	"MailBody2A"	"Leutnant Kain."
+	"MailBody2A"	"Leutnant Cain."
 	"MailBody2B"	"das sollte funktionieren.  Ich brauche vielleicht mehr.  Wäre das ein Problem?  Ich hoffe, ich muss nicht betonen, wie wichtig meine Prüfungen sind."
 	"MailBody2C"	"S. Ming"
 }

@@ -1,14 +1,14 @@
 GAME
 {
-	// PDA belongs to Lieutenant Gael Florenza
+	// PDA belongs to Lt. Gael Florenza
 
-	// Sent mail
+	// Sent
 
-	"MailFrom3"	"À : Iris Florenza"
-	"MailDate3"	"Date : 31/03/43"
-	"MailSubject3"	"Objet : Nam Humanum."
+	"MailFrom3"	"À: Iris Florenza"
+	"MailDate3"	"Date: 31/03/43"
+	"MailSubject3"	"Objet: Nam Humanum"
 	"MailBody3A"	"[Échec de l’envoi: Communications interplanétaires limitées]"
 	"MailBody3B"	"Iris, cœur de ma vie. Ce message, comme le dernier que je t’ai envoyé, sera bloqué par l’équipe des communications au moment de sa transmission que j’ai programmé dans 3 heures. Mais peut-être un jour te parviendra-t-il, d’une manière ou d’une autre."
 	"MailBody3C"	"Je m’apprête à prendre les armes contre le Dr. Moreau et ses expériences inhumaines. J’ai le soutien de nombreux colons, ainsi que celui de mon unité. Malgré cela, je crains qu’il ne s’agisse d’un aller sans retour pour la majorité d’entre nous. Je suis désolé, mon amour. J’ai essayé de me convaincre du bien-fondé de tout cela, vraiment. Je suis désolé, pour toi et le petit homme qui ne me connaîtra jamais. Mais comment pourrais-je être le père d’un enfant sans aucune humanité à lui transmettre."
-	"MailBody3D"	"À jamais tien."
+	"MailBody3D"	"À jamais tien"
 }

@@ -1,7 +1,8 @@
 GAME
 {
-	// PDA pertence ao Windows
-	// Caixa de entrada
+	// PDA belongs to Windows
+
+	// Inbox
 
 	"MailFrom1"	"De: Childs"
 	"MailDate1"	"Data: 02/02/54"
@@ -19,7 +20,8 @@ GAME
 	"MailBody2C"	"por tantos meses?"
 	"MailBody2D"	"Quero dizer, basta um de nós ficar um pouco maluco e estamos todos fritos."
 
-	// Enviados
+	// Sent
+
 	"MailFrom3"	"To: Windows"
 	"MailDate3"	"Date: 02/02/54"
 	"MailSubject3"	"Assunto: Re: Os Canis"

@@ -37,5 +37,9 @@
 "[english]inventory_slot"		"Slot"
 "inventory_slot_medal"		"勲章"
 "[english]inventory_slot_medal"		"Medal"
+"item_store_category_donations"		"寄付"
+"[english]item_store_category_donations"		"Donations"
+"item_store_category_mapstamp"		"マップスタンプ"
+"[english]item_store_category_mapstamp"		"Map Stamps"
 }
 }

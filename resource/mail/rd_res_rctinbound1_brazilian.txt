@@ -1,7 +1,8 @@
 GAME
 {
+	// PDA belongs to Hullen
 
-	// Caixa de entrada
+	// Inbox
 
 	"MailFrom1"	"De: Shaun Ming"
 	"MailDate1"	"Data: 22/12/52"
@@ -9,7 +10,7 @@ GAME
 	"MailBody1A"	"Minhas desculpas, Hullen."
 	"MailBody1B"	"Nossa primeira tentativa de contrabandear um espécime para você foi um fracasso. Callendescobriu o carregamento congelado #4903877."
 	"MailBody1C"	"No entanto, conseguimos colocar vários espécimes congelados em uma segunda remessa de suprimentos médicos usados."
-	"MailBody1D"	"A menos que isto seja descoberto, estará com você no CP7 dentro de alguns dias. Ming."
+	"MailBody1D"	"A menos que isto seja descoberto, estará com você no CP7 dentro de alguns dias. Ming"
 
 	"MailFrom2"	"De: Jenny Coulson"
 	"MailDate2"	"Data: 24/12/52"
@@ -19,7 +20,7 @@ GAME
 	"MailBody2C"	"Na verdade, sou alérgica a vegetação de Xenon, alvez possamos sair para beber em vez disso, e então talvez mais tarde..."
 	"MailBody2D"	"Jenny ;) xxxxx"
 
-	// Enviados
+	// Sent
 
 	"MailFrom3"	"Para: Shaun Ming"
 	"MailDate3"	"Data: 26/12/52"
@@ -27,7 +28,7 @@ GAME
 	"MailBody3A"	"Ming, a remessa foi recebida."
 	"MailBody3B"	"Enquanto digito os espécimes estão sendo descongelados dentro do CP7."
 	"MailBody3C"	"Talvez possamos lançar alguma luz sobre a evolução dessas criaturas. Esse prêmio Nobel já está nas nossas mãos."
-	"MailBody3D"	"Hullen."
+	"MailBody3D"	"Hullen"
 
 	"MailFrom4"	"Para: Jenny Coulson"
 	"MailDate4"	"Data: 24/12/52"
@@ -35,5 +36,5 @@ GAME
 	"MailBody4A"	"Oi Jenny"
 	"MailBody4B"	"Eu sei que não nos conhecemos muito bem, mas eu queria saber se você gostaria de sair para jantar comigo?"
 	"MailBody4C"	"Conheço um lugarzinho simpático que serve comida de Xenon IX, talvez na quarta-feira?"
-	"MailBody4D"	"Hullen. XXXX"
+	"MailBody4D"	"Hullen XXXX"
 }

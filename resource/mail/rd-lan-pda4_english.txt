@@ -2,7 +2,7 @@ GAME
 {
 	// PDA belongs to Lana King
 
-	// inbox
+	// Inbox
 
 	"MailFrom1"	"From: Windom King"
 	"MailDate1"	"Date: 02/29/53"
@@ -11,7 +11,4 @@ GAME
 	"MailBody1B"	"You and Lucius must do your best to slow them down and make a run to the warhead facility. When you get there, activate the security defenses and leave the planet."
 	"MailBody1C"	"Anath does not believe me. I'll try to convince him to call IAF but I'm not hopeful."
 	"MailBody1D"	"Windom"
-
-
-	// sent mail
 }

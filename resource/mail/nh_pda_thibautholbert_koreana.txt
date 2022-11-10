@@ -2,7 +2,7 @@ GAME
 {
 	// PDA belongs to Private First Class Thibaut Holbert
 
-	// Sent mail
+	// Sent
 
 	"MailFrom3"	"수신자: 아서 캐러딘 대위"
 	"MailDate3"	"날짜: 03/31/43"

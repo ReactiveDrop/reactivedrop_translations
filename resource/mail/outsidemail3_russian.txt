@@ -2,6 +2,8 @@ GAME
 {
 	// PDA belongs to Brad Campbell
 
+	// Inbox
+
 	"MailFrom1"	"От: Дэвид Андерс"
 	"MailDate1"	"Дата: 12.12.52"
 	"MailSubject1"	"Тема: Код активации"

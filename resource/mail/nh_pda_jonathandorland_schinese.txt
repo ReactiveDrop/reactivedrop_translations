@@ -2,7 +2,7 @@ GAME
 {
 	// PDA belongs to Jonathan Dorland
 
-	// Sent mail
+	// Sent
 
 	"MailFrom3"	"收件人：林.达.席尔瓦博士"
 	"MailDate3"	"日期：03/31/43"

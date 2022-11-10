@@ -1,8 +1,8 @@
 GAME
 {
-	// PDA pertence ao Ten. Cain
+	// PDA belongs to Lt. Cain
 
-	// Caixa de entrada
+	// Inbox
 
 	"MailFrom1"	"De: Laura Callen"
 	"MailDate1"	"Data: 21/12/52"
@@ -11,7 +11,6 @@ GAME
 	"MailBody1B"	"Quero um relatório completo sobre os eventos no Convés 2.  Inclua a natureza do vazamento, plantas, lista de pessoal com autorização para os laboratórios, etc. Estou ficando cansada de ter que pedir isso cada vez que algo acontece. Você deveria me manter atualizada regularmente."
 	"MailBody1C"	"Acabei de voltar da Estação Timor. Há outro relato de dois mineiros desaparecidos. Soa vagamente como um problema de segurança. Então, por que não vi nenhum de seus funcionários lá embaixo?"
 	"MailBody1D"	"L. Callen"
-
 
 	"MailFrom2"	"De: Laura Callen"
 	"MailDate2"	"Date: 23/12/52"

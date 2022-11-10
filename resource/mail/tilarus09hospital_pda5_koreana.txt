@@ -1,8 +1,9 @@
 GAME
 {
-	// PDA belongs to	Ian Cook
+	// PDA belongs to Dr. Ian Cook
 
-	// sent mail
+	// Sent
+
 	"MailFrom3"	"수신자: 신텍 병원 직원들"
 	"MailDate3"	"날짜: 46년 3월 16일"
 	"MailSubject3"	"주제: 새 계획이 필요합니다"

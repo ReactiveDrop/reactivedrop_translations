@@ -1,8 +1,8 @@
 GAME
 {
-	// PDA belongs to Rivera
+	// PDA belongs to Charles Rivera
 
-	// inbox
+	// Inbox
 
 	"MailFrom1"	"发件人：劳拉.考伦"
 	"MailDate1"	"日期：12/23/52"
@@ -15,5 +15,5 @@ GAME
 	"MailDate2"	"日期：12/24/52"
 	"MailSubject2"	"主题：回复：考伦越来越怀疑"
 	"MailBody2A"	"里韦拉：别理考伦，别挡她的路。把她发给IA的所有邮件都转发给我。"
-	"MailBody2B"	"凯恩中尉，新特安全部。"
+	"MailBody2B"	"凯恩中尉，新特安全部"
 }
