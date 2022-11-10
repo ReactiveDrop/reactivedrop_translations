@@ -2,7 +2,7 @@
 {
 	// PDA belongs to Private First Class Thibaut Holbert
 
-	// Sent mail
+	// Sent
 
 	"MailFrom3"	"宛先: アーサー・キャラダイン大佐"
 	"MailDate3"	"送信日時: 43年3月31日"

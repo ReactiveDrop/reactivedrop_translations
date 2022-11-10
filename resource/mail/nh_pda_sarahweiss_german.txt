@@ -1,8 +1,10 @@
 GAME
 {
-	// PDA belongs to Sergeant Sarah Weiss
-	// Sent mail
-	"MailFrom3"	"An: Lt. Gael Florenza"
+	// PDA belongs to Sgt. Sarah Weiss
+
+	// Sent
+
+	"MailFrom3"	"An: Gael Florenza"
 	"MailDate3"	"Datum: 06/16/42"
 	"MailSubject3"	"Betreff: Ich bin's, Carradine"
 	"MailBody3A"	"[Senden fehlgeschlagen: Ihr PDA wurde vom Netzwerk getrennt]"

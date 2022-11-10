@@ -1,8 +1,8 @@
 GAME
 {
-	// PDA pertence ao Cabo France Siriac
+	// PDA belongs to Cpl. France Siriac
 
-	// Caixa de entrada
+	// Inbox
 
 	"MailFrom1"	"De: Pauline Vito"
 	"MailDate1"	"Data: 01/04/43"
@@ -13,16 +13,16 @@ GAME
 
 	"MailFrom2"	"De: Pauline Vito"
 	"MailDate2"	"Data: 02/04/43"
-	"MailSubject2"	"Assunto: RE: RE: Presos na estufa"
+	"MailSubject2"	"Assunto: Re: Re: Presos na estufa"
 	"MailBody2A"	"Pelos Deuses, Jerome"
 	"MailBody2B"	"O que fizeram com ele"
 	"MailBody2C"	"Por favor nos ajudem"
 	"MailBody2D"	"por favor"
 
-	// Enviados
+	// Sent
 
 	"MailFrom3"	"Para: Pauline Vito"
 	"MailDate3"	"Data: 01/04/43"
-	"MailSubject3"	"Assunto: RE: Presos na estufa"
+	"MailSubject3"	"Assunto: Re: Presos na estufa"
 	"MailBody3A"	"Você PRECISA ficar firme até que possamos chamar reforços. Estamos reduzidos a uma equipe escassa, desde que Florenza achou melhor ferrar as coisas para todos nós. Chega dessa merda de complexo de herói, entendeu? Vamos tirá-lo dai assim que tudo estiver limpo do nosso lado."
 }

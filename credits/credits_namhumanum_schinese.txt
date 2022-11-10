@@ -5,7 +5,7 @@
 	// The logo shown at the top of the end-of-campaign credits. This example refers to materials/vgui/swarm/credits/my_first_campaign_logo.vmt.
 	"custom_logo"	"swarm/credits/namhumanum_campaign"
 	// Each line of your credits should be written like this, including blank lines:
-	"asw_credits_"	"AlienSwarm: 生而为人（拉丁语）"
+	"asw_credits_"	"异形丛生: 生而为人（拉丁语）"
 	"asw_credits_"	""
 	"asw_credits_"	"（译者注：Nam Humanum，拉丁语，原意是 为人）"
 	"asw_credits_"	"（结合游戏剧情，此短语为一种类信仰的口头禅）"

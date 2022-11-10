@@ -1,6 +1,6 @@
 GAME
 {
-	// PC belongs to Vladislav Lazarev
+	// Computer belongs to Vladislav Lazarev
 
 	// Inbox
 
@@ -11,7 +11,7 @@ GAME
 	"MailBody1B"	"但我相信你一定非常想知道你的新任务包括什么。这件事非常重要，请听我说……美国队长希望这句殖民时期的格言，至少在每个房间里放一次。对，就是这样。奇怪的邪教，是吧？不要抱怨，因为一连串的命令不会因为我的原因而改变。至少你把每周的时间表都安排好了。小心不要覆盖任何通风井，可能会导致火灾。也别问我怎么做到的。"
 	"MailBody1C"	"‘纳姆.霍姆纳’（生而为人）...你觉得这是正统的拉丁语吗？"
 
-	// Sent mail
+	// Sent
 
 	"MailFrom3"	"收件人：汤姆.阿塞林"
 	"MailDate3"	"日期：07/02/42"

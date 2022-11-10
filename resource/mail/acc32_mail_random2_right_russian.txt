@@ -1,5 +1,7 @@
 GAME
 {
+	// Inbox
+
 	"MailFrom1"	"От: Хелен Бейкер"
 	"MailDate1"	"Дата: 07.01.31"
 	"MailSubject1"	"Тема: Обновление труб"

@@ -1,8 +1,8 @@
 GAME
 {
-	// PDA di proprietà di Lana King
+	// PDA belongs to Lana King
 
-	// inbox
+	// Inbox
 
 	"MailFrom1"	"Da: Windom King"
 	"MailDate1"	"Data: 02/29/53"
@@ -11,7 +11,4 @@ GAME
 	"MailBody1B"	"Tu e Lucius dovete fare del vostro meglio per rallentarli e correre alla struttura della testata. Quando arrivi lì, attiva le difese di sicurezza e lascia il pianeta."
 	"MailBody1C"	"Anath non mi crede. Proverò a convincerlo a chiamare l'IAF ma non sono fiducioso."
 	"MailBody1D"	"Windom"
-
-
-	// mail spedita
 }

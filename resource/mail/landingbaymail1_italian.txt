@@ -1,8 +1,8 @@
 GAME
 {
-	// PDA di proprietà di Brian
+	// PDA belongs to Brian Howe
 
-	// inbox
+	// Inbox
 
 	"MailFrom1"	"Da: Helen Young"
 	"MailDate1"	"Data: 12/19/52"
@@ -11,7 +11,7 @@ GAME
 	"MailBody1B"	"Abbiamo fatto dei test. Tutti i modelli per la crescita, la durata della vita e il metabolismo funzionano solo se applicati su tutta la popolazione, piuttosto che sugli individui."
 	"MailBody1C"	"In un certo senso, sono come gli insetti avanzati dell'alveare, un singolo superorganismo avanzato. Il contenimento è vitale."
 
-	// mail spedita
+	// Sent
 
 	"MailFrom3"	"A: Helen Young"
 	"MailDate3"	"Data: 12/19/52"

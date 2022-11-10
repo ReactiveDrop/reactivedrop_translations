@@ -1,7 +1,8 @@
 GAME
 {
+	// PDA belongs to Hullen
 
-	// inbox
+	// Inbox
 
 	"MailFrom1"	"发件人：肖恩.明"
 	"MailDate1"	"日期：12/22/52"
@@ -9,7 +10,7 @@ GAME
 	"MailBody1A"	"抱歉，胡伦。"
 	"MailBody1B"	"我们第一次试图偷偷把标本给你，结果就失败了。考伦发现了4903877号冷冻货物。"
 	"MailBody1C"	"不过，我们成功地将几份冷冻标本，放入了第二批用过的医疗用品中。"
-	"MailBody1D"	"除非这个被发现，否则几天之内它就会在7号研究所和你在一起。明。"
+	"MailBody1D"	"除非这个被发现，否则几天之内它就会在7号研究所和你在一起。明"
 
 	"MailFrom2"	"发件人：珍妮.科尔森"
 	"MailDate2"	"日期：12/24/52"
@@ -19,7 +20,7 @@ GAME
 	"MailBody2C"	"我其实对氙气植物过敏，也许我们可以出去喝一杯，然后也许在……"
 	"MailBody2D"	"珍妮 ;) xxxxx"
 
-	// sent mail
+	// Sent
 
 	"MailFrom3"	"收件人：肖恩.明"
 	"MailDate3"	"日期：12/26/52"
@@ -27,7 +28,7 @@ GAME
 	"MailBody3A"	"明，货物已经收到。"
 	"MailBody3B"	"我打字的时候，标本正在7号研究所内解冻。"
 	"MailBody3C"	"也许我们能对这些生物的进化有一些了解。诺贝尔奖是和我们想的一样好。"
-	"MailBody3D"	"胡伦。"
+	"MailBody3D"	"胡伦"
 
 	"MailFrom4"	"收件人：珍妮.科尔森"
 	"MailDate4"	"日期：12/24/52"
@@ -35,5 +36,5 @@ GAME
 	"MailBody4A"	"嗨，珍妮"
 	"MailBody4B"	"我知道我们彼此不太了解，但我想知道，你是否愿意和我一起出去吃晚饭？"
 	"MailBody4C"	"我知道有个不错的小地方供应氙IX的食物，周三怎么样？"
-	"MailBody4D"	"胡伦。 XXXX"
+	"MailBody4D"	"胡伦 XXXX"
 }

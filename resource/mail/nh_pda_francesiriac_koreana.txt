@@ -1,6 +1,6 @@
 GAME
 {
-	// PDA belongs to Corporal France Siriac
+	// PDA belongs to Cpl. France Siriac
 
 	// Inbox
 
@@ -19,7 +19,7 @@ GAME
 	"MailBody2C"	"제발 우리를 도와주세요"
 	"MailBody2D"	"제발"
 
-	// Sent mail
+	// Sent
 
 	"MailFrom3"	"수신자: 폴린 비토"
 	"MailDate3"	"날짜: 04/01/43"

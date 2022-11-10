@@ -2,6 +2,8 @@
 {
 	// PDA belongs to Brad Campbell
 
+	// Inbox
+
 	"MailFrom1"	"송신자: 데이비드 앤더스"
 	"MailDate1"	"날짜: 52년 12월 12일"
 	"MailSubject1"	"주제: 활성화 코드"

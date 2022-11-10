@@ -2,7 +2,7 @@
 {
 	// PDA belongs to Brad Campbell
 
-	// inbox
+	// Inbox
 
 	"MailFrom1"	"송신자: 데이비드 앤더스"
 	"MailDate1"	"날짜: 52년 12월 12일"
@@ -16,7 +16,7 @@
 	"MailBody2A"	"브래드,"
 	"MailBody2B"	"빌어먹을.  피트와 코박에게 말해봤는데.  사람들이 다시 닥솔을 정기적으로 사용하기 시작했다는 걸 공공연하게 인정했어.  모든 게 정상으로 돌아왔다고 생각했을 때 말이야.  내가 뭘 해줬으면 좋겠어?"
 
-	// sent mail
+	// Sent
 
 	"MailFrom3"	"수신자: 데이비드 앤더스"
 	"MailDate3"	"날짜: 52년 12월 12일"

@@ -1,12 +1,14 @@
 GAME
 {
-	// Hacked into network history: Lieutenant Gael Florenza
-	// Sent mail
+	// Hacked into network history: Lt. Gael Florenza
+
+	// Sent
+
 	"MailFrom3"	"An: Iris Florenza"
 	"MailDate3"	"Datum: 12/21/41"
 	"MailSubject3"	"Betreff: Unerwartete Entdeckung"
 	"MailBody3A"	"Lieber Schatz,"
 	"MailBody3B"	"während ich schreibe, sind einige Stunden seit der Rückkehr unserer letzten Expedition vergangen, bei der ich die Stibius-Forschungsgruppe bei der Erkundung eines unerforschten Teils unserer Karten geleitet habe. Die Geologen hatten mit Hilfe ihrer Radargeräte die Lage eines Höhlenkomplexes entdeckt, der bisher unter dem Eis verborgen war. Wie viele andere habe auch ich mir zunächst nichts dabei gedacht. Nach 21 Monaten auf diesem Felsen, was könnte sich darunter verbergen, das wir nicht schon wussten? Nun, wir gruben, um es herauszufinden. Und bald stand vor unseren ungläubigen Augen eine riesige Höhle, an deren Wänden sich Knäuel gelblicher Sporen entfalteten, die ein wenig an irdische Pilze erinnerten, wie eine Leinwand, die vom Licht unserer Taschenlampen gefärbt wurde. Es gelang uns, den biologischen Kanton zu kontaktieren, der natürlich eifrig die Erkundung übernahm."
 	"MailBody3C"	"Dr. Moreau und seine Kollegen befinden sich gerade in einem intellektuellen Aufruhr. Ich bin mir nicht so sicher, welche größeren Auswirkungen eine solche Entdeckung haben wird, aber diese Situation geht mir sowieso zu weit. Ich überlasse die Angelegenheit gerne den zuständigen Behörden, die sich mit solchen Dingen auskennen."
-	"MailBody3D"	"Nam Humanum."
+	"MailBody3D"	"Nam Humanum"
 }

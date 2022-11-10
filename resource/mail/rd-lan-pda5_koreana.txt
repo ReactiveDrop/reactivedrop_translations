@@ -2,7 +2,7 @@
 {
 	// PDA belongs to Leon Bishop
 
-	// inbox
+	// Inbox
 
 	"MailFrom1"	"송신자: 잰 애나스"
 	"MailDate1"	"날짜: 53년 2월 29일"
@@ -11,7 +11,4 @@
 	"MailBody1B"	"그의 군단 공격 이야기는 시선 돌리기용 이었어요.  그는 우리의 청사진을 훔치기 위해 그의 딸과 보안 요원을 탄두 단지로 보냈습니다."
 	"MailBody1C"	"어떻게해서든 그들을 막으세요--목숨을 포함해서.  이건 명령입니다."
 	"MailBody1D"	"수석 관리관 J. 애나스"
-
-
-	// sent mail
 }

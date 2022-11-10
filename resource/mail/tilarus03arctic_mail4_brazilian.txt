@@ -1,8 +1,8 @@
 GAME
 {
-	// PDA pertence ao Chefe de segurança Barney
+	// PDA belongs to Security Officer Barney
 
-	// Caixa de entrada
+	// Inbox
 
 	"MailFrom1"	"De: Bill Howze"
 	"MailDate1"	"Data: 04/10/52"
@@ -12,7 +12,7 @@ GAME
 	"MailBody1C"	"Você já tem seus brinquedos de segurança padrão fornecidos pela SynTek."
 	"MailBody1D"	"Até mais, Bill"
 
-	// Enviados
+	// Sent
 
 	"MailFrom3"	"Para: Bill Howze"
 	"MailDate3"	"Data: 04/10/52"

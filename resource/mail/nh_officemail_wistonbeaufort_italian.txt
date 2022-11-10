@@ -1,14 +1,14 @@
 GAME
 {
-	// Computer di proprietà del capo chirurgo Wiston Beaufort
+	// Computer belongs to Chief Surgeon Wiston Beaufort
 
-	// Messaggi inviati
+	// Sent
 
-	"MailFrom3"	"A: Dr. Jacques Moreau"
+	"MailFrom3"	"A: Jacques Moreau"
 	"MailDate3"	"Data: 18/05/42"
 	"MailSubject3"	"Soggetto: Intervento al cervello di Arthur Carradine"
 	"MailBody3A"	"Caro signore,"
 	"MailBody3B"	"L'amigdaloippocampectomia del capitano Carradine è andata senza problemi."
 	"MailBody3C"	"Sebbene il paziente stesso avesse chiesto la rimozione dell'amigdala, mi risulta che lei abbia acconsentito personalmente alla procedura. Per questo particolare motivo mi sento in dovere di metterla in guardia sulla natura dell'intervento che abbiamo appena intrapreso e sulle ripercussioni che è destinato a causare sul sistema limbico del paziente; principalmente, la sua reazione alterata (o meglio, la mancanza di) a situazioni che normalmente incitano alla paura, all'angoscia o all'aggressività. Si prega di essere consapevoli del fatto che ci sono ragioni rilevanti per cui questa procedura chirurgica non veniva eseguita in secoli di medicina e anche allora riguardava solo i casi più gravi."
-	"MailBody3D"	"Cordialmente."
+	"MailBody3D"	"Cordialmente"
 }

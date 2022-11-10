@@ -1,8 +1,9 @@
 GAME
 {
 	// PDA belongs to Lucius Pawn
-	// inbox
-	// sent mail
+
+	// Sent
+
 	"MailFrom3"	"An: Lana King"
 	"MailDate3"	"Datum: 02/29/53"
 	"MailSubject3"	"Betreff: Idee"

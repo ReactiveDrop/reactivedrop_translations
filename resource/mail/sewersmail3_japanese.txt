@@ -1,6 +1,9 @@
 ﻿GAME
 {
-	// PDA belongs to Ming
+	// PDA belongs to Shaun Ming
+
+	// Inbox
+
 	"MailFrom1"	"差出人: ジョン・ケイン"
 	"MailDate1"	"送信日時: 52年12月24日"
 	"MailSubject1"	"件名: Re: ヤングに何があった？"

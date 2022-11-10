@@ -1,6 +1,6 @@
 ﻿GAME
 {
-	// PDA belongs to Corporal France Siriac
+	// PDA belongs to Cpl. France Siriac
 
 	// Inbox
 
@@ -13,16 +13,16 @@
 
 	"MailFrom2"	"差出人: ポーリーン・ヴィトー"
 	"MailDate2"	"送信日時: 43年4月2日"
-	"MailSubject2"	"件名: RE: RE: 温室に閉じ込められた人"
+	"MailSubject2"	"件名: Re: Re: 温室に閉じ込められた人"
 	"MailBody2A"	"ああなんてことなの、ジェローム"
 	"MailBody2B"	"彼になんてことを"
 	"MailBody2C"	"お願い助けて"
 	"MailBody2D"	"お願い"
 
-	// Sent mail
+	// Sent
 
 	"MailFrom3"	"宛先: ポーリーン・ヴィトー"
 	"MailDate3"	"送信日時: 43年4月1日"
-	"MailSubject3"	"件名: RE: 温室に閉じ込められた人"
+	"MailSubject3"	"件名: Re: 温室に閉じ込められた人"
 	"MailBody3A"	"増援を呼ぶまでそこを絶対に動くんじゃない。 こちらには最小限の人員しか残っていない、フローレンスが良かれと思ってメチャクチャにしてくれたおかげでな。 こんな英雄気取りのアホはもう御免だぜ、わかったな？ こちら側が片付き次第そっちに救出へ向かう。"
 }

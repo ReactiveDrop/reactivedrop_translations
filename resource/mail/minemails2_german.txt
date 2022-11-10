@@ -1,6 +1,9 @@
 GAME
 {
 	// PDA belongs to Lt. Cain
+
+	// Inbox
+
 	"MailFrom1"	"Von: Laura Callen"
 	"MailDate1"	"Datum: 12/24/52"
 	"MailSubject1"	"Betreff: Das ist es"

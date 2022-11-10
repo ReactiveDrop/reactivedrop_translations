@@ -1,8 +1,8 @@
 GAME
 {
-	// PDA pertence ao Sr Tanner
+	// PDA belongs to Mr Tanner
 
-	// Caixa de entrada
+	// Inbox
 
 	"MailFrom1"	"De: Kate Edwards"
 	"MailDate1"	"Data: 22/12/52"

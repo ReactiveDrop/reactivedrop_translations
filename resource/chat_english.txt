@@ -9,7 +9,7 @@
 "filter_publicchat"	"Public Chat"
 "filter_servermsg"	"Server Messages"
 "filter_teamchange"	"Team Changes"
-"chat_say"	"Say :"
-"chat_say_team"	"Say (TEAM) :"
+"chat_say"	"Say"
+"chat_say_team"	"Say (TEAM)"
 }
 }

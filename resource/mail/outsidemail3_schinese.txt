@@ -2,6 +2,8 @@ GAME
 {
 	// PDA belongs to Brad Campbell
 
+	// Inbox
+
 	"MailFrom1"	"发件人：大卫.安德斯"
 	"MailDate1"	"日期：12/12/52"
 	"MailSubject1"	"主题：激活码"

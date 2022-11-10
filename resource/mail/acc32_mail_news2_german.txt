@@ -1,6 +1,8 @@
 GAME
 {
-	"MailFrom1"	"Von: Fox News"
+	// Inbox
+
+	"MailFrom1"	"Von: IAF News"
 	"MailDate1"	"Datum: 03. Jan 2233"
 	"MailSubject1"	"Betreff: Nachrichtenprotokoll für die letzten 1 Monate."
 	"MailBody1A"	"03. Dezember 2232 - Der Plan zur Kühlung des Felsens wird gerade umgesetzt. Es wird erwartet, dass das Kühlsystem in 3 bis 4 Tagen aufgebaut sein wird."
@@ -11,5 +13,5 @@ GAME
 	"MailBody1F"	"09. Dezember 2232 - Eine große Explosion am Morgen wurde aus tausend Kilometern Entfernung gehört. Die Labore werden offiziell zur HÖLLE erklärt. Die Strahlung verwandelt jeden Menschen, der fünfhundert Kilometer von den Laboren entfernt ist, in einen Außerirdischen mit tödlichen Krallen. Die Aliens haben den Plan, Wasser auf die Anlage abzuwerfen, abgefangen. Es entsteht eine weltweite Panik und alle Regierungen der Welt sind militärisch vorbereitet."
 	"MailBody1G"	"20. Dezember 2232 - Die Strahlungswerte sind radikal gesunken, da das Gestein praktisch zerfallen ist. Eine Zone mit einem Radius von 1600 Kilometern um die Labore gilt immer noch als gefährlich, da sich dort viele Außerirdische aufhalten."
 	"MailBody1H"	"03. Januar 2233 - 8 der erfahrensten Soldaten der Welt wurden ausgewählt, um einen Angriff auf das Labor durchzuführen und den J7 Knoten zurückzuerobern. Ihre Reise beginnt mit dem Zug von der Mongolei, dem aktivsten Grenzgebiet zur Bekämpfung von Außerirdischen."
-	"MailBody1I"	"Fox News - 03. Jan 2233"
+	"MailBody1I"	"IAF News - 03. Jan 2233"
 }

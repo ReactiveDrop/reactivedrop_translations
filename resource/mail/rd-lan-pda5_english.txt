@@ -2,7 +2,7 @@ GAME
 {
 	// PDA belongs to Leon Bishop
 
-	// inbox
+	// Inbox
 
 	"MailFrom1"	"From: Jan Anath"
 	"MailDate1"	"Date: 02/29/53"
@@ -11,7 +11,4 @@ GAME
 	"MailBody1B"	"His Swarm attack story was a diversion. He sent his daughter and a security agent to the warhead complex to steal our blueprints."
 	"MailBody1C"	"Stop them at any cost--including their lives. This is an order."
 	"MailBody1D"	"Head Administrator J. Anath"
-
-
-	// sent mail
 }

@@ -1,6 +1,8 @@
 GAME
 {
-	// PDA belongs to John Wisher	
+	// PDA belongs to John Wisher
+
+	// Inbox
 
 	"MailFrom1"	"송신자: 케이트 위셔"
 	"MailDate1"	"날짜: 52년 10월 13일"

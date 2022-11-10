@@ -1,6 +1,8 @@
 GAME
 {
-	"MailFrom1"	"From: Fox News"
+	// Inbox
+
+	"MailFrom1"	"From: IAF News"
 	"MailDate1"	"Date: Jan 03, 2233"
 	"MailSubject1"	"Subject: News log for the past 1 months."
 	"MailBody1A"	"December 3rd, 2232 - The plan to cool the rock is being deployed. The cooling system is expected to be built in 3 to 4 days."
@@ -11,5 +13,5 @@ GAME
 	"MailBody1F"	"December 9th, 2232 - A large explosion in the morning has been heard from a thousand kilometers away. The laboratories are officially declared HELL. The radiation is turning any human five hundred kilometers away from the labs into an alien with deadly claws. Aliens have intercepted the plan to drop water onto the facility. Global panic is emerging and all governments of the world are military prepared."
 	"MailBody1G"	"December 20th, 2232 - The radiation levels have radically dropped, as the rock has practically decayed. A 1600 kilometer radius zone from the labs is still considered dangerous, as there are many aliens."
 	"MailBody1H"	"January 3rd, 2233 - 8 of the most experienced soldiers in the world have been selected to perform an attack on the lab and reclaim the J7 Connector. They journey will start by train from Mongolia, the most active alien-fighting frontier."
-	"MailBody1I"	"Fox News - Jan 03, 2233"
+	"MailBody1I"	"IAF News - Jan 03, 2233"
 }

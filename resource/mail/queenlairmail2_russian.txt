@@ -2,6 +2,8 @@ GAME
 {
 	// PDA belongs to Helen Young
 
+	// Inbox
+
 	"MailFrom1"	"От: Брайан Хоу"
 	"MailDate1"	"Дата: 24.12.52"
 	"MailSubject1"	"Тема: Боеголовка"

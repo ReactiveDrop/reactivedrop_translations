@@ -1,8 +1,8 @@
 GAME
 {
-	// Hackeado no histórico da rede: Tenente Gael Florenza
+	// Hacked into network history: Lt. Gael Florenza
 
-	// Enviados
+	// Sent
 
 	"MailFrom3"	"Para: Iris Florenza"
 	"MailDate3"	"Data: 21/12/41"
@@ -10,5 +10,5 @@ GAME
 	"MailBody3A"	"Meu amor,"
 	"MailBody3B"	"Enquanto escrevo, várias horas se passaram desde o retorno da nossa última expedição, em que eu estava conduzindo o grupo de pesquisa Stibius para explorar uma parte desconhecida de nossos mapas. Os geólogos descobriram, graças ao seu equipamento de radar, a localização de um complexo cavernoso escondido até agora sob o gelo. Eu, assim como os outros no começo, não dei bola para isso. Após 21 meses nesta rocha, o que poderia haver lá embaixo que já não saibamos? em, nós cavamos para descobrir. E assim, logo diante dos nossos olhos incrédulos, surgiu uma enorme caverna cujas paredes desvendavam aglomerados de esporos amarelados que lembravam um pouco cogumelos terrestres, como uma pintura colorida pela luz de nossas tochas. Entramos em contato com a divisão biológica, que naturalmente assumiram as operações de prospecção de com bastante empolgação."
 	"MailBody3C"	"Dr. Moreau e seus colegas estão em turbulência intelectual agora. Não sei dizer em quais grandes implicações tal descoberta implicará, mas esta situação vai muito além de mim de qualquer maneira. Estou mais do que feliz em deixár nas mãos das autoridades competentes, cujo trabalho é realmente saber sobre esse tipo de coisa."
-	"MailBody3D"	"Nam Humanum."
+	"MailBody3D"	"Nam Humanum"
 }

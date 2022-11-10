@@ -1,6 +1,8 @@
 GAME
 {
-	// PDA pertence ao Tenente Cain
+	// PDA belongs to Lt. Cain
+
+	// Inbox
 
 	"MailFrom1"	"De: Shaun Ming"
 	"MailDate1"	"Data: 21/12/52"

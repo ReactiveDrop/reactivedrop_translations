@@ -1,10 +1,14 @@
 GAME
 {
+	// PDA belongs to Kate Larson
+
+	// Sent
+
 	"MailFrom1"	"A: Brad Irwing"
 	"MailDate1"	"Data: 04/02/31"
 	"MailSubject1"	"Soggetto: RISPONDIMI! &HIDDEN"
 	"MailBody1A"	"Perché sei scappato? Che cosa è successo? DIMMELO! Ti rendi conto che non puoi farlo? Il capitano Bark e il primario ti stanno cercando e non sono contenti. Il primario risponde in modo aggressivo alle mie domande, forse nasconde qualcosa? In realtà, tutti si comportano in modo strano."
 	"MailBody1B"	"Sei scappato dopo l'esperimento di marzo, cosa hai scoperto? Sono inquieta. Spero che tu non abbia intenzione di rivelare al pubblico o, peggio ancora, al governo, i segreti della nostra struttura. Questa informazione causerebbe un'anarchia di massa in tutto il mondo. Il tenente Wanman e il generale Schmitz si troverebbero in guai seri e avrebbero il compito di provocare uno scandalo internazionale."
 	"MailBody1C"	"P.S: Dov'è Retller? Non riesco a trovarlo, forse potrebbe darmi qualche informazione? So che voi due siete buoni colleghi fin dall'infanzia."
-	"MailBody1D"	"Kate."
+	"MailBody1D"	"Kate"
 }

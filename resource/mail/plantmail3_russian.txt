@@ -1,6 +1,7 @@
 GAME
 {
-	// spam
+	// Inbox
+
 	"MailFrom1"	"От: Джон Доу"
 	"MailSubject1"	"ОЧНИТЕСЬ!!!"
 	"MailDate1"	"Дата: 25.12.52"

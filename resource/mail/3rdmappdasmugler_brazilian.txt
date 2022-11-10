@@ -1,11 +1,15 @@
 GAME
 {
-	// PDA Pertence ao Naka
+	// PDA belongs to Naka
+
+	// Inbox
 
 	"MailFrom1"	"De: Desconhecido"
 	"MailDate1"	"Data: 09/25/63"
 	"MailSubject1"	"Assunto: ???"
 	"MailBody1A"	"O que você está falando? Espero que não tenha mentido sobre essas armas. Eu vou te matar de mãos vazias se você não tiver com elas."
+
+	// Sent
 
 	"MailFrom3"	"Para: Desconhecido"
 	"MailDate3"	"Data: 09/25/63"

@@ -1,8 +1,9 @@
 GAME
 {
-	// PDA pertence ao George Benson
+	// PDA belongs to George Benson
 
-	// Caixa de entrada
+	// Inbox
+
 	"MailFrom1"	"De: Envios e Armazenamentos"
 	"MailDate1"	"Data: 24/10/53"
 	"MailSubject1"	"Assunto: Re: Motoserra?!"
@@ -11,7 +12,8 @@ GAME
 	"MailBody1C"	"Quanto à motosserra, jogue-a de um penhasco ou algo assim. Algum idiota encomendou um monte deles por engano e eu to com elas paradas no armazém ocupando espaço desde então. Como se precisássemos de motosserras nesta rocha!"
 	"MailBody1D"	"- Bob Vernes, Chefe da Envios e Armazenamentos"
 
-	// Enviados
+	// Sent
+
 	"MailFrom3"	"Para: Envios e Armazenamentos"
 	"MailDate3"	"Data: 23/10/53"
 	"MailSubject3"	"Assunto: Motoserra?!"

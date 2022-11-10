@@ -1,7 +1,9 @@
 GAME
 {
-	// Computer belongs to Doctor Jacques Moreau
-	// Sent messages
+	// Computer belongs to Dr. Jacques Moreau
+
+	// Sent
+
 	"MailFrom3"	"An: Persönliche Datenbank"
 	"MailDate3"	"Datum: 05/24/42"
 	"MailSubject3"	"Betreff: Etwas anderes"
@@ -9,7 +11,8 @@ GAME
 	"MailBody3B"	"Der Vorgang, mit dem sie sich an mich wendet, fühlt sich völlig fremd an. Es ist ... seltsam, sprunghaft, als ob mir für Sekundenbruchteile ein neuer Sinn entliehen wird, um dann wieder in einem Abgrund der Stille zu verschwinden. Aber aus dieser Leere, das weiß ich, hatte sich eine Stimme erhoben. Eine seltsam umfassende Reihe von Klängen, an die ich mich nach dem Hören nicht mehr vollständig erinnern kann. Diese Stimme... Sie erinnert mich an jemanden, den ich verloren habe."
 	"MailBody3C"	"Ich habe aus eigenem Antrieb versucht, mit Vesta in Kontakt zu treten. Ich habe versucht, mit ihr zu reden und ihr verständlich zu machen, wer oder was wir sind. Ich bin mir bewusst, wie lächerlich das klingen mag ... aber ich habe um Führung gebeten. Ich möchte sie erreichen und ihr zeigen, dass sie nichts von uns zu befürchten hat. Wir sind nur zerbrechliche Hüllen aus verrottendem Gewebe und Verstand, und sie kann zu allem führen, was wir... ich mir erhofft habe."
 	"MailBody3D"	"Sie braucht nur Körper."
-	"MailFrom4"	"An: Dr. Helen Moreau"
+
+	"MailFrom4"	"An: Helen Moreau"
 	"MailDate4"	"Datum: 06/15/42"
 	"MailSubject4"	"Betreff: N/A"
 	"MailBody4A"	"So, hier bin ich also. Ich bekenne mich zu einem Geist. Um ganz ehrlich zu sein, weiß ich nicht, wie viel Zeit seit deiner Krankheit vergangen ist. Aber die Zeit, in der dein blumiger Duft die Erstickung in unserem Labor verdrängt hat, fühlt sich gar nicht so weit weg an."

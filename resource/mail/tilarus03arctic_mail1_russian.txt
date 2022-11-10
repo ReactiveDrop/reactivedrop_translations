@@ -2,6 +2,8 @@ GAME
 {
 	// PDA belongs to John Wisher
 
+	// Inbox
+
 	"MailFrom1"	"От: Кейт Вишер"
 	"MailDate1"	"Дата: 13.10.52"
 	"MailSubject1"	"Тема: Что тут происходит?"

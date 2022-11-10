@@ -1,6 +1,7 @@
 ﻿GAME
 {
-	// spam
+	// Inbox
+
 	"MailFrom1"	"差出人: 名無しさん"
 	"MailSubject1"	"目覚めよ！！！"
 	"MailDate1"	"送信日時: 52年12月25日"

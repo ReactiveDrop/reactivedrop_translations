@@ -1000,7 +1000,7 @@
 "L4D360UI_Access_LAN"		"LAN játék"
 "[english]L4D360UI_Access_LAN"		"LAN Game"
 "L4D360UI_Access_Invite"		"Privát játék"
-"[english]L4D360UI_Access_Invite"		"Private Game"
+"[english]L4D360UI_Access_Invite"		"Invite-Only Game"
 "L4D360UI_Access_Private"		"Privát játék"
 "[english]L4D360UI_Access_Private"		"Private Game"
 "L4D360UI_Access_NumOnline"		"Online barátok: "

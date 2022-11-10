@@ -1,8 +1,8 @@
 GAME
 {
-	// PDA pertence ao Brian Howe
+	// PDA belongs to Brian Howe
 
-	// Caixa de entrada
+	// Inbox
 
 	"MailFrom1"	"De: Helen Young"
 	"MailDate1"	"Date: 23/12/52"
@@ -10,9 +10,9 @@ GAME
 	"MailBody1A"	"Oi,"
 	"MailBody1B"	"Eles tiveram que fechar o Atrio esta manhã!  Não apenas a ala sul, mas toda a instalação.  Fomos informados de que a contaminação se espalhou do Deck 2 através do sistema de ventilação. O pessoal de segurança está guardando toda a seção noroeste do convés 1. Eles são bastante hostis."
 	"MailBody1C"	"Enquanto isso, recebi um e-mail daquele idiota do Ming esta manhã. Parece que ele e seus homens ainda estão trabalhando nos laboratórios, estudando os ovos que você descobriu. Tenho certeza de que o trabalho dele não tem aprovação da AI."
-	"MailBody1D"	"Vejo você depois--Helen."
+	"MailBody1D"	"Vejo você depois--Helen"
 
-	// Enviados
+	// Sent
 
 	"MailFrom3"	"Para: Helen Young"
 	"MailDate3"	"Data: 23/12/52"
@@ -20,5 +20,5 @@ GAME
 	"MailBody3A"	"Helen, as coisas estão ruins por aqui!  Encontramos outro corpo esta noite. Este parcialmente devorado. Tem algo aqui embaixo. Alguma coisa. Caim e uma dúzia de sua tripulação apareceram, pegaram o elevador até a Estação Timor, nos dizendo para ficarmos para trás. Um pouco depois, ouvimos tiros."
 	"MailBody3B"	"Quando Cain voltou, ele estava reduzido a dois homens, ambos gravemente feridos. Cain, me disse que tínhamos que retirar nossa equipe da mina. Eu disse que é impossível, eles estão espalhados por todo o lugar. Ele apenas mexeu os ombros para isso. Disse que é problema meu agora. E então ele foi embora."
 	"MailBody3C"	"Então, vou levar Dave e Tom comigo. Faremos uma última busca pelos trabalhadores desaparecidos. Eu quero que você informe a agente da AI Laura Callen sobre isso. Enquanto você faz isso, conte a ela sobre o Ming. Ela é a única com autoridade para enfrentar Cain."
-	"MailBody3D"	"Tenha cuidado! Brian."
+	"MailBody3D"	"Tenha cuidado! Brian"
 }

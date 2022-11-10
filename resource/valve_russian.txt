@@ -506,7 +506,7 @@
 "Achievement_Earned"		"%s1 зарабатывает достижение %s2"
 "[english]Achievement_Earned"		"%s1 has earned the achievement %s2"
 "game_nextmap"		"Следующая карта: %s1"
-"[english]game_nextmap"		"Next map : %s1"
+"[english]game_nextmap"		"Next map: %s1"
 "game_takesshots"		"Сохранять снимок таблицы результатов по окончании карты."
 "[english]game_takesshots"		"Auto-save a scoreboard screenshot at the end of a map."
 "Cannot_Be_Spectator"		"Наблюдение на этом сервере невозможно"

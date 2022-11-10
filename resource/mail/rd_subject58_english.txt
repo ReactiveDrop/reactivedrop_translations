@@ -1,22 +1,23 @@
 GAME
 {
-	// PDA belongs to Dr. Tom Hinler.
+	// PDA belongs to Dr. Tom Hinler
 
-	"MailFrom1"	"From : Dr. Tom Hinler."
-	"MailDate1"	"Date : 05/26/60"
-	"MailSubject1"	"Subject : Subject 58."
-	"MailBody1A"	"Thursday, May 21 :
-Today we have successfully implemented a recombinant DNA on the patient. This DNA came from the Alien captured a few days ago by a patrol. The patient seems to be in good health."
-	"MailBody1B"	"Saturday, May 23 :
-The patient speaks of headache, nausea, dizziness and constant. His condition is deteriorating day by day. Perhaps the implant failed ... Again.
-	"
-	"MailBody1C"	"Monday, May 25 :
-We have a real problem. The patient is behaving very oddly. He has fits of madness more often, and became increasingly violent toward doctors who are on his case. We must take a decision.
-If it continues like this, it will end up hurting someone, or worse ..."
-	"MailBody1D"	"Tuesday, May 26 :
-The patient has escaped. He wounded two doctors. Many soldiers have started looking for him. They found him in the afternoon, with idle cut and body smeared with blood. We have brought in the medical room, and killed, to undertake further studies. We had to, otherwise it would have degenerated.
+	// Inbox
 
-= Subject 58 : Failed. =
-
-Dr. Tom Hinler."
+	"MailFrom1"	"From: Tom Hinler"
+	"MailDate1"	"Date: 05/26/60"
+	"MailSubject1"	"Subject: Subject 58"
+	"MailBody1A"	"Thursday, May 21:"
+	"MailBody1B"	"Today we have successfully implemented a recombinant DNA on the patient. This DNA came from the Alien captured a few days ago by a patrol. The patient seems to be in good health."
+	"MailBody1C"	"Saturday, May 23:"
+	"MailBody1D"	"The patient speaks of headache, nausea, dizziness and constant. His condition is deteriorating day by day. Perhaps the implant failed ... Again."
+	"MailBody1E"	"Monday, May 25:"
+	"MailBody1F"	"We have a real problem. The patient is behaving very oddly. He has fits of madness more often, and became increasingly violent toward doctors who are on his case. We must take a decision."
+	"MailBody1G"	"If it continues like this, it will end up hurting someone, or worse ..."
+	"MailBody1H"	"Tuesday, May 26:"
+	"MailBody1I"	"The patient has escaped. He wounded two doctors. Many soldiers have started looking for him. They found him in the afternoon, with idle cut and body smeared with blood. We have brought in the medical room, and killed, to undertake further studies. We had to, otherwise it would have degenerated."
+	"MailBody1J"	""
+	"MailBody1K"	"= Subject 58: Failed. ="
+	"MailBody1L"	""
+	"MailBody1M"	"Dr. Tom Hinler"
 }

@@ -1,10 +1,10 @@
 GAME
 {
-	// PDA belongs to Sergeant Sarah Weiss
+	// PDA belongs to Sgt. Sarah Weiss
 
-	// Sent mail
+	// Sent
 
-	"MailFrom3"	"To: Lt. Gael Florenza"
+	"MailFrom3"	"To: Gael Florenza"
 	"MailDate3"	"Date: 06/16/42"
 	"MailSubject3"	"Subject: It’s Carradine"
 	"MailBody3A"	"[Sending failed: Your PDA has been disconnected from the network]"
