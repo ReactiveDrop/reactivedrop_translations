@@ -9,7 +9,7 @@ GAME
 	"MailSubject1"	"Subject: Eusociality"
 	"MailBody1A"	"Swarm findings:"
 	"MailBody1B"	"We've run the numbers. All models for growth, lifespan and metabolism only work when applied across the entire population, rather than to individuals."
-	"MailBody1C"	"In some ways, they're like advanced hive insects, a single advanced superorganism.  Containment is vital."
+	"MailBody1C"	"In some ways, they're like advanced hive insects, a single advanced superorganism. Containment is vital."
 
 	// Sent
 
@@ -17,7 +17,7 @@ GAME
 	"MailDate3"	"Date: 12/19/52"
 	"MailSubject3"	"Subject: Re: ??!"
 	"MailBody3A"	"Structured sociality?"
-	"MailBody3B"	"Among large-bodied organisms?  I'm still skeptical."
-	"MailBody3C"	"There's no doubt the eggs are dangerous though.  We had an accident today.  One of the workers was found dead."
+	"MailBody3B"	"Among large-bodied organisms? I'm still skeptical."
+	"MailBody3C"	"There's no doubt the eggs are dangerous though. We had an accident today. One of the workers was found dead."
 	"MailBody3D"	"Agree containment is vital, but don't foresee difficulty."
 }

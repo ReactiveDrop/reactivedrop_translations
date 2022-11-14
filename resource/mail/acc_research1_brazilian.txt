@@ -9,6 +9,6 @@ GAME
 	"MailSubject1"	"Assunto: ME RESPONDA! &OCULTO"
 	"MailBody1A"	"Por que você fugiu? O que aconteceu? ME DIGA! Você percebe que não pode fazer isso? Capitão Bark e o Doc Chefe. estão procurando por você e não estão felizes. O Doutor Chefe. está respondendo de forma agressiva ao meu questionamento, talvez ele esteja escondendo alguma coisa? Na verdade, todo mundo está agindo de forma estranha."
 	"MailBody1B"	"Você fugiu após seu experimento em março, o que descobriu? Estou ficando inquieta. Espero que você não esteja planejando contar ao público ou, pior ainda, ao governo, sobre os segredos de nossas instalações. Esta informação causaria uma enorme anarquia em todo o mundo. O tenente Wanman e o general Schmitz estariam em apuros e encarregados de causar um escândalo internacional."
-	"MailBody1C"	"P.S:  Onde está Retller? Não consigo encontrá-lo, talvez ele possa me dar alguma informação? Eu sei que vocês dois são bons amigos desde a infância."
+	"MailBody1C"	"P.S: Onde está Retller? Não consigo encontrá-lo, talvez ele possa me dar alguma informação? Eu sei que vocês dois são bons amigos desde a infância."
 	"MailBody1D"	"Kate"
 }

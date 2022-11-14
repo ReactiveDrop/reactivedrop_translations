@@ -2,8 +2,8 @@ GAME
 {
 "Headline"	"Konvoi der Vereinigten Industrien bricht auf"
 "HeadlineDate"	"12/21/52"
-"Paragraph1"	"Ein Konvoi der Vereinigten Industrien verlässt diese Woche ihre zentrale Kolonie in Richtung der Kernsysteme.  Die riesige Flotte besteht aus mindestens 25 Frachtern der Leviathan-Klasse und wird auf ihrer Reise von der IAF geschützt."
-"Paragraph2"	"Die Transporteure werden begehrte Rohstoffe von außerhalb der Welt mitbringen, die in der Fertigungs- und Produktionsindustrie in den Kernsystemen verwendet werden.  Sie werden auch exotische und luxuriöse Waren für die Verbrauchermärkte mitbringen."
+"Paragraph1"	"Ein Konvoi der Vereinigten Industrien verlässt diese Woche ihre zentrale Kolonie in Richtung der Kernsysteme. Die riesige Flotte besteht aus mindestens 25 Frachtern der Leviathan-Klasse und wird auf ihrer Reise von der IAF geschützt."
+"Paragraph2"	"Die Transporteure werden begehrte Rohstoffe von außerhalb der Welt mitbringen, die in der Fertigungs- und Produktionsindustrie in den Kernsystemen verwendet werden. Sie werden auch exotische und luxuriöse Waren für die Verbrauchermärkte mitbringen."
 "Paragraph3"	"Kritiker der Vereinigten Industrien werfen ihnen vor, dass sie auch eine Reihe von Schwarzmarktgütern einführen, darunter gefährliche außerweltliche Drogen."
 "Paragraph4"	"Die IAF hat dem Konvoi eine große Anzahl von Verteidigungskräften zur Seite gestellt und bezeichnete die Güter als 'unschätzbar wertvoll für das Funktionieren der IA'."
 }

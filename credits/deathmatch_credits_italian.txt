@@ -8,5 +8,5 @@
 "asw_credits_"	""
 "asw_credits_"	""
 "asw_credits_"	""
-"asw_credits_"	"dm_deima, dm_residential  di Valve"
+"asw_credits_"	"dm_deima, dm_residential di Valve"
 }

@@ -99,7 +99,7 @@
 		"[english]StatsWeb_ProfileNavInventory"		"Collections"
 		"StatsWeb_ProfileAchievements"		"成就"
 		"[english]StatsWeb_ProfileAchievements"		"Achievements"
-		"StatsWeb_ProfileAchievementsDesc"		"Alien Swarm 的 Steam 成就列表: 賺取的 Reactive Drop  %s."
+		"StatsWeb_ProfileAchievementsDesc"		"Alien Swarm 的 Steam 成就列表: 賺取的 Reactive Drop %s."
 		"[english]StatsWeb_ProfileAchievementsDesc"		"List of Steam achievements for Alien Swarm: Reactive Drop earned by %s."
 		"StatsWeb_AchievementMissionComplete"		"%s (完成)"
 		"[english]StatsWeb_AchievementMissionComplete"		"%s (Complete)"

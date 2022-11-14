@@ -9,7 +9,7 @@ GAME
 	"MailSubject1"	"주제: 시설 배치 자료"
 	"MailBody1A"	"안녕하세요 마틴"
 	"MailBody1B"	"당신이 요청한 대로 단말기에 업데이트된 시설 배치 파일을 업로드했어요."
-	"MailBody1C"	"더 이상 잃어버리지 않길 바랍니다.  하하!  ;D"
+	"MailBody1C"	"더 이상 잃어버리지 않길 바랍니다. 하하! ;D"
 	"MailBody1D"	"경의를 담아, 마이크 파머"
 
 	// Sent

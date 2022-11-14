@@ -2,7 +2,7 @@ GAME
 {
 	"Headline"	"SynTek Estabelece Nova Colônia de Mineração"
 	"HeadlineDate"	"15/12/52"
-	"Paragraph1"	"A Megacorporação SynTek informou hoje o estabelecimento de uma nova colônia de mineração no espaço profundo nas bordas externas do cluster SX-2833-87P.  Eles também anunciaram o envio imediato de uma frota civil de trabalhadores para o planeta."
+	"Paragraph1"	"A Megacorporação SynTek informou hoje o estabelecimento de uma nova colônia de mineração no espaço profundo nas bordas externas do cluster SX-2833-87P. Eles também anunciaram o envio imediato de uma frota civil de trabalhadores para o planeta."
 	"Paragraph2"	"As manifestações continuam fora da sede da SynTek na ilha de Tokyo York, Terra, sobre as condições de trabalho percebidas nas colônias e os baixos salários, alegações que a SynTek nega fortemente."
 	"Paragraph3"	"As ações da SynTek subiram 5 pontos com a notícia da nova colônia."
 }
