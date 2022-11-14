@@ -13,7 +13,7 @@ GAME
 	"MailDate2"	"Data: 18/12/52"
 	"MailSubject2"	"Assunto: Re:Re: Todo trabalho e nenhuma diversão."
 	"MailBody2A"	"Juan,"
-	"MailBody2B"	"Ahhah! Você e o Steve? Isso com certeza é melhor que ficar chapado.  Ah certo. De qualquer forma tem uma nevasca vindo por ai."
+	"MailBody2B"	"Ahhah! Você e o Steve? Isso com certeza é melhor que ficar chapado. Ah certo. De qualquer forma tem uma nevasca vindo por ai."
 
 	// Sent
 

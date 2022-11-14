@@ -25,6 +25,6 @@ GAME
 	"MailSubject3"	"Assunto: Re: Ovos"
 	"MailBody3A"	"Laura,"
 	"MailBody3B"	"As coisas estão ficando ainda mais estranhas por aqui. Depois do seu e-mail, voltei para onde deixamos os ovos. As cascas estavam quebradas e eles estavam vazios."
-	"MailBody3C"	"Decidimos procurar no Posto Avançado 17 em grupos de dois e ver se algo incomum aparece.  Apreciariamos uma ajuda extra."
+	"MailBody3C"	"Decidimos procurar no Posto Avançado 17 em grupos de dois e ver se algo incomum aparece. Apreciariamos uma ajuda extra."
 	"MailBody3D"	"Acho que estamos certos em assumir que tem algo de suspeito acontecendo. O envio de carga viva para a Terra é previsto na restrição da AI #77-C. Ninguém poderia ter feito isso por engano."
 }

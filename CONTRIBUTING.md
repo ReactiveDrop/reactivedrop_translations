@@ -37,7 +37,7 @@ The new files you create need to have same encoding as their english counterpart
 ## File type
 ### Achievements
 These files are automatically created based on the `resource/reactivedrop_*.txt` files. You can manually trigger an update of the files through executing `utils/translation-sync-tool.exe`.
-* sync-tool: Very useful verification tool! 
+* sync-tool: Very useful verification tool!
  1. It can help solving issues with ci-checks. After you have manually modified the content about achievements, it is highly recommended to run the tool to check for problems. Avoid Pull Request Failure.
  2. It can automatically synchronize achievement fields from `reactivedrop_*.txt` to `563560_loc_*.vdf`! This is very useful to avoid the painful achievement of comparing and duplicating work.
 
@@ -63,6 +63,6 @@ First of all, Go into Steam - Library - Alien Swarm: Reactive Drop, right click 
 3. Select 'Local files': Click 'Browse...' to open your game folder.
 4. Enter the subfolders '.\reactivedrop\resource', like: `Steam\steamapps\common\Alien Swarm Reactive Drop\reactivedrop\resource`
 5. Copy your translate files into the respective folders (.\resource).
-6. Start game, and test your translation  :D
+6. Start game, and test your translation :D
 
 - ATTENTION: Every file in the resource folder is UTF-16LE encoded, whereas all files in this repo are UTF-8 encoded. You may need to change the encoding of the files before you copy them over.

@@ -2,7 +2,7 @@ GAME
 {
 	"Headline"	"Partida do Comboio das Indústrias Unidas"
 	"HeadlineDate"	"21/12/52"
-	"Paragraph1"	"Um comboio das Indústrias Unidas parte esta semana de sua colônia central, em direção ao Sistema de Núcleos.  A enorme frota contém pelo menos 25 cargueiros da classe Leviathan e tem cobertura total da FAI para sua jornada."
+	"Paragraph1"	"Um comboio das Indústrias Unidas parte esta semana de sua colônia central, em direção ao Sistema de Núcleos. A enorme frota contém pelo menos 25 cargueiros da classe Leviathan e tem cobertura total da FAI para sua jornada."
 	"Paragraph2"	"O transporte trará recursos muito requisitados do mundo afora, usado em todas as indústrias de fabricação e produção nos sistemas principais. Eles também estarão trazendo produtos exóticos e de luxo para os mercados de consumo."
 	"Paragraph3"	"Os críticos das Industrias Unidas os acusam de também trazer uma série de produtos do mercado negro, incluindo narcóticos perigosos do mundo afora."
 	"Paragraph4"	"As FAI dedicou uma grande força defensiva ao comboio, chamando os bens de 'inestimáveis para o funcionamento da AI.'"

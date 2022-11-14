@@ -10,7 +10,7 @@ GAME
 	"MailBody1A"	"重要信息——致全体员工"
 	"MailBody1B"	"我们现在正遭受攻击。虫群已经突破了入口，并向前推进。"
 	"MailBody1C"	"所有人员，立即按照规程撤离设施。"
-	"MailBody1D"	"注意安全。  -新特安全部"
+	"MailBody1D"	"注意安全。 -新特安全部"
 
 	// Sent
 

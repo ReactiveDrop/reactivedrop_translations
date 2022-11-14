@@ -8,7 +8,7 @@ GAME
 	"MailDate1"	"Data: 21/12/52"
 	"MailSubject1"	"Assunto: Contaminação do Laboratório"
 	"MailBody1A"	"Ten. Cain,"
-	"MailBody1B"	"Quero um relatório completo sobre os eventos no Convés 2.  Inclua a natureza do vazamento, plantas, lista de pessoal com autorização para os laboratórios, etc. Estou ficando cansada de ter que pedir isso cada vez que algo acontece. Você deveria me manter atualizada regularmente."
+	"MailBody1B"	"Quero um relatório completo sobre os eventos no Convés 2. Inclua a natureza do vazamento, plantas, lista de pessoal com autorização para os laboratórios, etc. Estou ficando cansada de ter que pedir isso cada vez que algo acontece. Você deveria me manter atualizada regularmente."
 	"MailBody1C"	"Acabei de voltar da Estação Timor. Há outro relato de dois mineiros desaparecidos. Soa vagamente como um problema de segurança. Então, por que não vi nenhum de seus funcionários lá embaixo?"
 	"MailBody1D"	"L. Callen"
 

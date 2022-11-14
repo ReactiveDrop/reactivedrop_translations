@@ -8,7 +8,7 @@ GAME
 	"MailDate1"	"Date: 12/24/52"
 	"MailSubject1"	"Subject: Martial Law"
 	"MailBody1A"	"To all citizens of Vereon XII:"
-	"MailBody1B"	"I am declaring a state of martial law, effective immediately.  Everyone is ordered to go to their quarters and remain there until further notice.  Anyone found in violation of this order will be shot on sight."
+	"MailBody1B"	"I am declaring a state of martial law, effective immediately. Everyone is ordered to go to their quarters and remain there until further notice. Anyone found in violation of this order will be shot on sight."
 	"MailBody1C"	"Declaration by authority of SynTek Colony Law #545/76B as per standard contractual worker agreement clause 45(vii)."
 	"MailBody1D"	"Lt. Cain, SynTek Security"
 
@@ -17,5 +17,5 @@ GAME
 	"MailDate2"	"Date: 10/08/52"
 	"MailBody2A"	"Hi,"
 	"MailBody2B"	"cHeAp BiOtEcH eNhAnCmEnTs"
-	"MailBody2C"	"Not strong enough?  Not smart enough?  Not pretty enough?  At PharmA MedTech we can solve all your problems, with a full range of artificial implant, growth meds and attachments.  Reply now for 50% off replacement optics!"
+	"MailBody2C"	"Not strong enough? Not smart enough? Not pretty enough? At PharmA MedTech we can solve all your problems, with a full range of artificial implant, growth meds and attachments. Reply now for 50% off replacement optics!"
 }

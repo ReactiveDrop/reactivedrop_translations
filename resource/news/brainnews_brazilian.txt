@@ -3,7 +3,7 @@ GAME
 	"Headline"	"Novos Processos Celulares Descobertos"
 	"HeadlineDate"	"19/12/52"
 	"Paragraph1"	"É de conhecimento geral que o cérebro humano requer um fornecimento constante de energia química para funcionar corretamente. O cientista de pesquisa da SynTek, Dr. Lucas Weinburg, anunciou recentemente sua descoberta do programa genético que regula esse suprimento de energia."
-	"Paragraph2"	"Tendo identificado o receptor que controla o processo, O Dr Lucas é capaz de alterar o suprimento e permitir períodos mais longos de consciência.  '8 em cada 10 sujeitos de teste mudaram facilmente de um ciclo de 24 horas para um de 29 horas sem efeitos nocivos,' disse Lucas."
-	"Paragraph3"	"'Os indivíduos se sentem saudáveis, fortes, revigorados e prontos para um trabalho produtivo. Apenas dois se queixaram de se sentirem desfocados'.  Seus testes também mostram que 7 dos 10 indivíduos pararam de sonhar durante o período de sono."
+	"Paragraph2"	"Tendo identificado o receptor que controla o processo, O Dr Lucas é capaz de alterar o suprimento e permitir períodos mais longos de consciência. '8 em cada 10 sujeitos de teste mudaram facilmente de um ciclo de 24 horas para um de 29 horas sem efeitos nocivos,' disse Lucas."
+	"Paragraph3"	"'Os indivíduos se sentem saudáveis, fortes, revigorados e prontos para um trabalho produtivo. Apenas dois se queixaram de se sentirem desfocados'. Seus testes também mostram que 7 dos 10 indivíduos pararam de sonhar durante o período de sono."
 	"Paragraph4"	"Se esta técnica passar nos testes de segurança de longo prazo, isso pode ser outra conquista médica sensacional para a Megacorporação SynTek."
 }

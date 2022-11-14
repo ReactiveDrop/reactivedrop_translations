@@ -10,7 +10,7 @@ GAME
 	"MailBody1A"	"WICHTIGE NACHRICHT --- AN ALLE MITARBEITER"
 	"MailBody1B"	"Wir werden gerade angegriffen. Der Schwarm hat bereits den Eingang durchbrochen und ist vorgedrungen."
 	"MailBody1C"	"Das gesamte Personal sollte sich an das Protokoll für die Evakuierung der Einrichtung halten, und zwar sofort."
-	"MailBody1D"	"Bleib sicher.   -SynTek Security"
+	"MailBody1D"	"Bleib sicher. -SynTek Security"
 
 	// Sent
 

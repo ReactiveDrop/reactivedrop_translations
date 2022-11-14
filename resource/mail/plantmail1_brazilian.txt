@@ -15,5 +15,5 @@ GAME
 	"MailSubject2"	"Assunto: Re: Oportunidade de emprego"
 	"MailDate2"	"Data: 18/12/53"
 	"MailBody2A"	"Paraíso encontrado!"
-	"MailBody2B"	"Cansado da rotina diária? Condições de vida apertadas, sem comida, remédios ou ar puro para respirar? Participe do Programa de Colocação Colônial (PCC) para encontrar uma vida melhor entre as estrelas! Os membros parceiros incluem a Megacorporação SynTek, Indústrias Unidas e Farmacêuticas de Fronteira. Colocação garantida, independentemente do seu perfil ou classificação de crédito!  Encontre o seu paraíso hoje! (TM)"
+	"MailBody2B"	"Cansado da rotina diária? Condições de vida apertadas, sem comida, remédios ou ar puro para respirar? Participe do Programa de Colocação Colônial (PCC) para encontrar uma vida melhor entre as estrelas! Os membros parceiros incluem a Megacorporação SynTek, Indústrias Unidas e Farmacêuticas de Fronteira. Colocação garantida, independentemente do seu perfil ou classificação de crédito! Encontre o seu paraíso hoje! (TM)"
 }
