@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+		<content><string id="body">Today, Alien Swarm: Reactive Drop celebrates 6 years on Steam. You'll earn [url=https://store.steampowered.com/news/app/563560/view/3267945303130139335]double experience points all week[/url], but we know what you're really here for. Let's unwrap some presents:
+
+		[h1]New Campaign: Accident 32[/h1]
+
+		Mysterious, seemingly harmless green glowing gems are discovered under the ground of a populated area due to abnormal radioactivity levels. The company "AMBER" came to study this supernatural material. Findings are frightening and undocumented, kept away from the public. Gems are identified to be extremely dangerous, extraterrestrial materials comprised of mostly muons. Emitted radiation modifies all biological structures in a big vicinity.
+
+		Originally released in May of 2020 and May of 2022 on the Steam Workshop, Accident 32 is a six-mission campaign which combines two three-mission campaigns into one. Marines are set out to explore the mysterious complex and headquarters of the company called "AMBER" and face a lot of threats. A bonus "AMBER Complex" mission is included which is the first three missions combined into one.
+
+		[h1]New Campaign: Adanaxis[/h1]
+
+TODO
+
+		[h1]Collections: Weapons, Equipment, and Swarmopedia[/h1]
+
+TODO
+
+		[h1]In Case You Missed It[/h1]
+
+		Here are some highlights from updates since the previous anniversary:
+[list]
+		[*]Workshop addons can now contain videos, and missions can define their own briefing background video, or even show part of the world as the background during briefing.
+		[*]We're Steam Deck verified! The game runs great on the Steam Deck, and players on Linux or who use a controller have also seen improvements.
+		[*]There are now medals you can earn by helping with the game's development, contributing to the Steam community hub, or participating in a season of Heroes of the Interstellar Armed Forces.
+		[*]The slow-opening vault doors used in many missions now have more accurate collision data, allowing you to step or shoot through a partially-opened door.
+		[*]The all-new mission selection screen includes support for bonus missions and new "endless" missions.
+		[*]We've added an advanced settings menu and an advanced audio settings menu.
+		[*]Restarting a mission no longer requires a loading screen.
+[/list]
+
+		[h1]Changelog[/h1]
+
+[h1]战役[/h1]
+[list]
+[*][b]蒂拉鲁斯-5 新特医院：[/b] 使警报听起来更响。
+[*][b]燃料库：[/b] 移除了 无形天花板横梁的碰撞。
+[/list]
+
+[h1]武器[/h1]
+[list]
+[*][b]ML30激光地雷：[/b] 改进了投掷动画的网络预测。
+[/list]
+
+[h1]杂项[/h1]
+[list]
+[*]buildcubemaps命令现在需要启用sv_cheats。
+[*]修正了 异形试图向已死亡目投掷一个实体时导致的崩溃。
+[*]修复了 当屏幕下拉菜单打开时崩溃的问题。
+		[*]Fixed the game instructor recommending marines weld a door that is already damaged to the point where it cannot open or close.
+		[*]Fixed the white rounded square door used in some custom maps visually falling in the wrong direction sometimes.
+		[*]Fixed marines being unselected in the lobby when restarting a bonus mission that was started via a vote.
+		[*]The chat panel can now be opened in singleplayer (for use in custom challenges).
+[/list]
+
+		[h2]Mapping[/h2]
+[list]
+		[*]Added npc_crow, npc_pigeon, and npc_seagull.
+		[*]asw_env_shake can now be flagged to bypass user settings (a new convar has been added for disabling [i]all[/i] shakes regardless of this flag).
+		[/list]</string><string id="subtitle">It's Alien Swarm: Reactive Drop's Birthday!</string><string id="summary">Today, Alien Swarm: Reactive Drop celebrates 6 years on Steam! Here's a week of double experience, two new campaigns, and some other goodies to celebrate.</string><string id="title">Alien Swarm: Reactive Drop Update - April 20, 2023</string></content>
