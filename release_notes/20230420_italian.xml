@@ -30,4 +30,30 @@ Ecco alcuni momenti salienti dagli aggiornamenti precedenti allo scorso annivers
 
 [h1]Lista dei Cambiamenti[/h1]
 
-TODO</string><string id="subtitle">È il Compleanno di Alien Swarm: Reactive Drop!</string><string id="summary">Oggi, Alien Swarm: Reactive Drop festeggia 6 anni su Steam! Ecco a voi una settimana di punti esperienza doppi, due nuove campagne e altro ancora per festeggiare.</string><string id="title">Aggiornamento di Alien Swarm: Reactive Drop - 20 Aprile 2023</string></content>
+[h2]Campagne[/h2]
+[list]
+[*][b]Tilarus-5: Ospedale SynTek:[/b] L'allarme è stato reso più rumoroso.
+[*][b]Bunker:[/b] Rimossa la collisione con una trave invisibile sul soffitto.
+[/list]
+
+[h2]Armi[/h2]
+[list]
+[*][b]Mina Laser a Pressione ML30:[/b] Miglioramento della previsione della rete per l'animazione del lancio.
+[/list]
+
+[h2]Varie[/h2]
+[list]
+[*]Il comando buildcubemaps ora richiede che sv_cheats sia abilitato.
+[*]Corretto un crash anomalo quando un alieno cercava di lanciare un oggetto fisico contro un bersaglio morto.
+[*]Corretto un crash anomalo quando si lasciava una schermata con un menu a discesa aperto.
+		[*]Fixed the game instructor recommending marines weld a door that is already damaged to the point where it cannot open or close.
+		[*]Fixed the white rounded square door used in some custom maps visually falling in the wrong direction sometimes.
+		[*]Fixed marines being unselected in the lobby when restarting a bonus mission that was started via a vote.
+		[*]The chat panel can now be opened in singleplayer (for use in custom challenges).
+[/list]
+
+		[h2]Mapping[/h2]
+[list]
+		[*]Added npc_crow, npc_pigeon, and npc_seagull.
+		[*]asw_env_shake can now be flagged to bypass user settings (a new convar has been added for disabling [i]all[/i] shakes regardless of this flag).
+[/list]</string><string id="subtitle">È il Compleanno di Alien Swarm: Reactive Drop!</string><string id="summary">Oggi, Alien Swarm: Reactive Drop festeggia 6 anni su Steam! Ecco a voi una settimana di punti esperienza doppi, due nuove campagne e altro ancora per festeggiare.</string><string id="title">Aggiornamento di Alien Swarm: Reactive Drop - 20 Aprile 2023</string></content>
