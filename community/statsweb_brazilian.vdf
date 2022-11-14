@@ -337,7 +337,7 @@
 "[english]StatsWeb_SpeedRunLeaderboardDesc"		"Global speed run leaderboard for the Alien Swarm: Reactive Drop mission %s."
 "StatsWeb_SpeedRunLeaderboardPointsDesc"		"Tabela de Classificações Globais de speed run das missões de Alien Swarm: Reactive Drop %s."
 "[english]StatsWeb_SpeedRunLeaderboardPointsDesc"		"Global high scores leaderboard for the Alien Swarm: Reactive Drop mission %s."
-"StatsWeb_SpeedRunLeaderboardChallengeDesc"		"Tabela de Recordes Globais de speed run das missões  %[1]s (desafios %[2]s) de Alien Swarm: Reactive Drop."
+"StatsWeb_SpeedRunLeaderboardChallengeDesc"		"Tabela de Recordes Globais de speed run das missões %[1]s (desafios %[2]s) de Alien Swarm: Reactive Drop."
 "[english]StatsWeb_SpeedRunLeaderboardChallengeDesc"		"Global speed run leaderboard for the Alien Swarm: Reactive Drop mission %[1]s (%[2]s challenge)."
 "StatsWeb_Leaderboards"		"Classificações"
 "[english]StatsWeb_Leaderboards"		"Leaderboards"

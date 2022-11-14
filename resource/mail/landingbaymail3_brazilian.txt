@@ -7,16 +7,16 @@ GAME
 	"MailFrom1"	"De: Laura Callen"
 	"MailDate1"	"Data: 18/12/52"
 	"MailSubject1"	"Assunto: Posto avançado 17"
-	"MailBody1A"	"Ten. Cain,  Acabamos de receber uma resposta do B. Campbell  que aquela entrega de carga 4903877 contém material orgânico de origem desconhecida, tudo congelado e armazenado em recipientes.  O destino da nave de carga é a Estação de pesquisa SynTek 7/Terra."
+	"MailBody1A"	"Ten. Cain, Acabamos de receber uma resposta do B. Campbell que aquela entrega de carga 4903877 contém material orgânico de origem desconhecida, tudo congelado e armazenado em recipientes. O destino da nave de carga é a Estação de pesquisa SynTek 7/Terra."
 	"MailBody1B"	"Eu gostaria que você interrogasse sua equipe novamente e me ajude a descobrir quem está violando a restrição #77-C. (a AI deve ser informada sobre a transferência de material orgânico desconhecido para a Terra; 77-C/1.1.4)"
-	"MailBody1C"	"Campbell também está reportando o desaparecimento de vários trabalhadores.  A segurança da colônia é sua responsabilidade.  Espero que você envie pessoal suficiente para manter a área segura."
+	"MailBody1C"	"Campbell também está reportando o desaparecimento de vários trabalhadores. A segurança da colônia é sua responsabilidade. Espero que você envie pessoal suficiente para manter a área segura."
 	"MailBody1D"	"L. Callen"
 
 	"MailFrom2"	"De: Alena"
 	"MailSubject2"	"Assunto: Re: Oi"
 	"MailDate2"	"Data: 15/11/52"
 	"MailBody2A"	"Contratando,"
-	"MailBody2B"	"Trabalhar fora dos sistemas centrais pode ser uma experiência solitária.  Encontros da SubRede Estelar pode ser a resposta para seus problemas!  Me encontre para um bate-papo, ou talvez mais?  Ligue (+490387439)"
+	"MailBody2B"	"Trabalhar fora dos sistemas centrais pode ser uma experiência solitária. Encontros da SubRede Estelar pode ser a resposta para seus problemas! Me encontre para um bate-papo, ou talvez mais? Ligue (+490387439)"
 	"MailBody2C"	"Alena,"
 	"MailBody2D"	"xxx"
 
@@ -26,6 +26,6 @@ GAME
 	"MailDate3"	"Data: 21/12/52"
 	"MailSubject3"	"Assunto: Posto avançado 17"
 	"MailBody3A"	"Srta. Callen,"
-	"MailBody3B"	"Eu sei tudo sobre a restrição #77-C.  Procuramos no Posto Avançado 17 e encontramos a carga viva.  Nós a trancamos no setor 39 e ela ficará lá até recebermos ordens da Aliança Interestelar sobre como proceder.  Ainda temos que encontrar o pessoal desaparecido.  Não seria a primeira vez que alguns trabalhadores ficaram bêbados e desapareceram por um dia ou dois.  Já que nada pode realmente se perder em Vereon XII, Tenho certeza que eles vão aparecer em breve.  Sr. Campbell tem ordens para me dar atualizações a cada 6 horas."
+	"MailBody3B"	"Eu sei tudo sobre a restrição #77-C. Procuramos no Posto Avançado 17 e encontramos a carga viva. Nós a trancamos no setor 39 e ela ficará lá até recebermos ordens da Aliança Interestelar sobre como proceder. Ainda temos que encontrar o pessoal desaparecido. Não seria a primeira vez que alguns trabalhadores ficaram bêbados e desapareceram por um dia ou dois. Já que nada pode realmente se perder em Vereon XII, Tenho certeza que eles vão aparecer em breve. Sr. Campbell tem ordens para me dar atualizações a cada 6 horas."
 	"MailBody3C"	"Ten. Cain, Seguurança da SynTek"
 }

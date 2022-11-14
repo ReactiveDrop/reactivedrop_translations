@@ -8,12 +8,12 @@ GAME
 	"MailDate1"	"Datum: 12/22/52"
 	"MailSubject1"	"Betreff: Timothy"
 	"MailBody1A"	"Lieber Mr. Tanner,"
-	"MailBody1B"	"hast du zufällig Timothy gesehen?  Der blöde Kater ist wieder nicht nach Hause gekommen.  Ich weiß, dass er dich mag, also ruf mich bitte an, wenn er vorbeikommt.  Danke."
+	"MailBody1B"	"hast du zufällig Timothy gesehen? Der blöde Kater ist wieder nicht nach Hause gekommen. Ich weiß, dass er dich mag, also ruf mich bitte an, wenn er vorbeikommt. Danke."
 	"MailBody1C"	"K. Edwards"
 
 	"MailFrom2"	"Von: Muriel Blanc"
 	"MailDate2"	"Datum: 12/21/52"
 	"MailSubject2"	"Betreff: Liebe Mrs. Kate Edwards,"
-	"MailBody2A"	"unsere Zollbeamten fanden sechs Flaschen Isothamin 23, als sie die Bestellung 9476-B überprüften.  Diese Lieferung war an dich adressiert.  Wie du sicher weißt, ist es illegal, dieses Produkt im gesamten Outer Rim zu kaufen, zu besitzen oder zu verkaufen.  (#205-P/7.7.12) Bitte rufe (+34987) an und vereinbare sofort einen Termin mit einem unserer Sicherheitsbeamten."
+	"MailBody2A"	"unsere Zollbeamten fanden sechs Flaschen Isothamin 23, als sie die Bestellung 9476-B überprüften. Diese Lieferung war an dich adressiert. Wie du sicher weißt, ist es illegal, dieses Produkt im gesamten Outer Rim zu kaufen, zu besitzen oder zu verkaufen. (#205-P/7.7.12) Bitte rufe (+34987) an und vereinbare sofort einen Termin mit einem unserer Sicherheitsbeamten."
 	"MailBody2B"	"Muriel Blanc, SynTek Zoll und Steuern"
 }
