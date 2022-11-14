@@ -10,7 +10,7 @@ GAME
 	"MailBody1A"	"MENSAGEM IMPORTANTE --- A TODO O PESSOAL"
 	"MailBody1B"	"Estamos atualmente sob ataque. O Enxame já invadiu a entrada e avançou."
 	"MailBody1C"	"Todo o pessoal deve seguir o protocolo de evacuação da instalação agora mesmo."
-	"MailBody1D"	"Mantenham-se seguros.   -Segurança da SynTek"
+	"MailBody1D"	"Mantenham-se seguros. -Segurança da SynTek"
 
 	// Sent
 

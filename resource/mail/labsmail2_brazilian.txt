@@ -7,8 +7,8 @@ GAME
 	"MailFrom1"	"De: John Cain"
 	"MailDate1"	"Data: 23/12/52"
 	"MailSubject1"	"Assunto: Re: Liberação do laboratório para Helen Young"
-	"MailBody1A"	"Ming, você perdeu a cabeça?  Você falou com a Young sobre suas descobertas?! Eu te disse claramente, NINGUÉM fora da SynTek tem permissão para saber o que você está fazendo ai em cima!"
-	"MailBody1B"	"Para piorar as coisas, as coisas estão ficando fora de controle.  Acabei de voltar da Estação Timor.  Está se espalhando.  Como diabos eles foram do Deck 2 para as minas?"
+	"MailBody1A"	"Ming, você perdeu a cabeça? Você falou com a Young sobre suas descobertas?! Eu te disse claramente, NINGUÉM fora da SynTek tem permissão para saber o que você está fazendo ai em cima!"
+	"MailBody1B"	"Para piorar as coisas, as coisas estão ficando fora de controle. Acabei de voltar da Estação Timor. Está se espalhando. Como diabos eles foram do Deck 2 para as minas?"
 	"MailBody1C"	"E a propósito, o que está acontecendo no átrio?"
 	"MailBody1D"	"Ten. Cain, Segurança da SynTek"
 
@@ -18,7 +18,7 @@ GAME
 	"MailDate3"	"Data: 23/12/52"
 	"MailSubject3"	"Assunto: Re:Re: Liberação do laboratório para Helen Young"
 	"MailBody3A"	"Ten. Cain,"
-	"MailBody3B"	"Meça suas palavras.  Eu não sou um dos seus recrutas.  Young vai manter a boca fechada.  Ela fez um trabalho brilhante e sabe que sua carreira depende disso.  Então você viu alguns vivos nas minas?  Interessante.  Há uma explicação óbvia:  Os ovos tornam-se ativos quando descongelam.  Há presas suficientes lá embaixo para sustentar o ciclo de crescimento.  Faça as contas."
-	"MailBody3C"	"Não se preocupe com a situação do átrio.  Nós temos tudo sob controle.  Um dos parasitas desapareceu ontem.  Achamos que ele encontrou um caminho através dos dutos para o convés inferior.  Toda a área do Deck 1 está selada, então nada entra ou sai."
+	"MailBody3B"	"Meça suas palavras. Eu não sou um dos seus recrutas. Young vai manter a boca fechada. Ela fez um trabalho brilhante e sabe que sua carreira depende disso. Então você viu alguns vivos nas minas? Interessante. Há uma explicação óbvia: Os ovos tornam-se ativos quando descongelam. Há presas suficientes lá embaixo para sustentar o ciclo de crescimento. Faça as contas."
+	"MailBody3C"	"Não se preocupe com a situação do átrio. Nós temos tudo sob controle. Um dos parasitas desapareceu ontem. Achamos que ele encontrou um caminho através dos dutos para o convés inferior. Toda a área do Deck 1 está selada, então nada entra ou sai."
 	"MailBody3D"	"S. Ming"
 }

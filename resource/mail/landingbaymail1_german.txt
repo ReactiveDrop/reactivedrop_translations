@@ -9,7 +9,7 @@ GAME
 	"MailSubject1"	"Betreff: Eusozialität"
 	"MailBody1A"	"Schwarmfunde:"
 	"MailBody1B"	"Wir haben die Zahlen überprüft. Alle Modelle für Wachstum, Lebenserwartung und Stoffwechsel funktionieren nur, wenn sie auf die gesamte Population angewendet werden und nicht auf einzelne Personen."
-	"MailBody1C"	"In gewisser Weise sind sie wie fortschrittliche Bienenstöcke, ein einziger fortschrittlicher Superorganismus.  Eindämmung ist lebenswichtig."
+	"MailBody1C"	"In gewisser Weise sind sie wie fortschrittliche Bienenstöcke, ein einziger fortschrittlicher Superorganismus. Eindämmung ist lebenswichtig."
 
 	// Sent
 
@@ -17,7 +17,7 @@ GAME
 	"MailDate3"	"Datum: 12/19/52"
 	"MailSubject3"	"Betreff: Aw: ??!"
 	"MailBody3A"	"Strukturierte Sozialität?"
-	"MailBody3B"	"Unter Großlebewesen?  Ich bin immer noch skeptisch."
-	"MailBody3C"	"Es besteht kein Zweifel, dass die Eier gefährlich sind.  Wir hatten heute einen Unfall.  Einer der Arbeiter wurde tot aufgefunden."
+	"MailBody3B"	"Unter Großlebewesen? Ich bin immer noch skeptisch."
+	"MailBody3C"	"Es besteht kein Zweifel, dass die Eier gefährlich sind. Wir hatten heute einen Unfall. Einer der Arbeiter wurde tot aufgefunden."
 	"MailBody3D"	"Ich stimme zu, dass die Eindämmung wichtig ist, aber ich sehe keine Schwierigkeiten voraus."
 }

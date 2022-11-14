@@ -17,7 +17,7 @@ GAME
 	"MailBody2A"	"(Thư rác, không dịch) Get all the good stuff legally over SynNet!!"
 	"MailBody2B"	"Isoth4m1ne 23 for only 99$/package, all incl."
 	"MailBody2C"	"Interstellar shipping available."
-	"MailBody2D"	"Is0tham1ne 23 will make you feel fresh, strong and rested for an entire working day!!  Your supervisors are taking it--why shouldn't you?"
+	"MailBody2D"	"Is0tham1ne 23 will make you feel fresh, strong and rested for an entire working day!! Your supervisors are taking it--why shouldn't you?"
 
 	// Sent
 

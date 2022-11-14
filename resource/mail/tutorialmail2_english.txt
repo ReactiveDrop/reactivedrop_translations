@@ -8,7 +8,7 @@ GAME
 	"MailDate1"	"Date: 12/18/52"
 	"MailSubject1"	"Subject: Booze and babes?"
 	"MailBody1A"	"Hey Vinc,"
-	"MailBody1B"	"We should really take one of the Snow Cats and get to the main complex tonight.  Frostbite can't be worse than staying here, getting drunk all by ourselves.  19:00 okay?"
+	"MailBody1B"	"We should really take one of the Snow Cats and get to the main complex tonight. Frostbite can't be worse than staying here, getting drunk all by ourselves. 19:00 okay?"
 
 	// Sent
 

@@ -46,7 +46,7 @@ Ecco alcuni momenti salienti dagli aggiornamenti precedenti allo scorso annivers
 [*]Il comando buildcubemaps ora richiede che sv_cheats sia abilitato.
 [*]Corretto un crash anomalo quando un alieno cercava di lanciare un oggetto fisico contro un bersaglio morto.
 [*]Corretto un crash anomalo quando si lasciava una schermata con un menu a discesa aperto.
-		[*]Fixed the game instructor recommending marines weld a door that is already damaged to the point where it cannot open or close.
+		[*]Fixed the game instructor recommending marines to weld a door that is already damaged to the point where it cannot open or close.
 		[*]Fixed the white rounded square door used in some custom maps visually falling in the wrong direction sometimes.
 		[*]Fixed marines being unselected in the lobby when restarting a bonus mission that was started via a vote.
 		[*]The chat panel can now be opened in singleplayer (for use in custom challenges).

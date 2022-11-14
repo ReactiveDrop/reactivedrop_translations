@@ -2,8 +2,8 @@ GAME
 {
 	"Headline"	"SynTek é acusada de violações da Lei Droid"
 	"HeadlineDate"	"19/12/52"
-	"Paragraph1"	"Uma fonte anônima recentemente entrou em contato com a AI com uma suposta prova de que a Megacorporação SynTek está usando andróides militares reprogramados em algumas de suas instalações químicas.  Se as alegações forem verdadeiras, a SynTek estaria violando não apenas a lei militar, mas também várias leis trabalhistas."
+	"Paragraph1"	"Uma fonte anônima recentemente entrou em contato com a AI com uma suposta prova de que a Megacorporação SynTek está usando andróides militares reprogramados em algumas de suas instalações químicas. Se as alegações forem verdadeiras, a SynTek estaria violando não apenas a lei militar, mas também várias leis trabalhistas."
 	"Paragraph2"	"A fonte também acusou a SynTek de usar um droide da série S-300 Scavenger, um modelo altamente não confiável reservado para uso das FAI em planetas remotos longe de um possível contato civil."
-	"Paragraph3"	"Um porta-voz da SynTek comentou as alegações, afirmando 'Esses rumores são completamente falsos.  Ninguém gostaria de chegar perto de um S-300 após o Massacre do Mundo do Prazer Rosebloom em 36.  A divisão Robotics da SynTek segue os padrões da AI ao pé da letra.'"
+	"Paragraph3"	"Um porta-voz da SynTek comentou as alegações, afirmando 'Esses rumores são completamente falsos. Ninguém gostaria de chegar perto de um S-300 após o Massacre do Mundo do Prazer Rosebloom em 36. A divisão Robotics da SynTek segue os padrões da AI ao pé da letra.'"
 	"Paragraph4"	"A SynTek fechou várias de suas instalações químicas logo após as acusações virem à tona, alegando nenhuma conexão com as acusações, mas citando razões de obsolescência normal."
 }
