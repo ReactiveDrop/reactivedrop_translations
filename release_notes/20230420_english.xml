@@ -30,4 +30,30 @@ Here are some highlights from updates since the previous anniversary:
 
 [h1]Changelog[/h1]
 
-TODO</string><string id="subtitle">It's Alien Swarm: Reactive Drop's Birthday!</string><string id="summary">Today, Alien Swarm: Reactive Drop celebrates 6 years on Steam! Here's a week of double experience, two new campaigns, and some other goodies to celebrate.</string><string id="title">Alien Swarm: Reactive Drop Update - April 20, 2023</string></content>
+[h2]Campaigns[/h2]
+[list]
+[*][b]Tilarus-5: SynTek Hospital:[/b] Made alarm sounds louder.
+[*][b]Bunker:[/b] Removed collision from an invisible ceiling beam.
+[/list]
+
+[h2]Weapons[/h2]
+[list]
+[*][b]ML30 Laser Trip Mine:[/b] Improved network prediction for throwing animation.
+[/list]
+
+[h2]Misc[/h2]
+[list]
+[*]The buildcubemaps command now requires sv_cheats to be enabled.
+[*]Fixed a crash when an alien tried to throw a physics object at a target who had died.
+[*]Fixed a crash when leaving a screen with a dropdown menu open.
+[*]Fixed the game instructor recommending marines weld a door that is already damaged to the point where it cannot open or close.
+[*]Fixed the white rounded square door used in some custom maps visually falling in the wrong direction sometimes.
+[*]Fixed marines being unselected in the lobby when restarting a bonus mission that was started via a vote.
+[*]The chat panel can now be opened in singleplayer (for use in custom challenges).
+[/list]
+
+[h2]Mapping[/h2]
+[list]
+[*]Added npc_crow, npc_pigeon, and npc_seagull.
+[*]asw_env_shake can now be flagged to bypass user settings (a new convar has been added for disabling [i]all[/i] shakes regardless of this flag).
+[/list]</string><string id="subtitle">It's Alien Swarm: Reactive Drop's Birthday!</string><string id="summary">Today, Alien Swarm: Reactive Drop celebrates 6 years on Steam! Here's a week of double experience, two new campaigns, and some other goodies to celebrate.</string><string id="title">Alien Swarm: Reactive Drop Update - April 20, 2023</string></content>
