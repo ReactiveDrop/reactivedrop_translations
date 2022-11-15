@@ -32,7 +32,11 @@ Hier sind einige Highlights der Updates seit dem letzten Jahrestag:
 
 [h2]Feldzüge[/h2]
 [list]
+		[*][b]Area 9800: Wastelands:[/b] Fixed a harvester getting stuck in the exit during the finale gauntlet introduction scene.
+		[*][b]Tilarus-5: Arctic Infiltration:[/b] Fixed uber drones appearing and disappearing shortly after the start of the mission.
 [*][b]Tilarus-5: SynTek Krankenhaus:[/b] Alarmtöne sind jetzt lauter.
+		[*][b]Paranoia: Unexpected Encounter:[/b] Fixed bugs related to grenade launcher aiming.
+		[*][b]Paranoia: Hostile Places:[/b] Fixed bugs related to grenade launcher aiming.
 [*][b]Bunker:[/b] Die Kollision mit einem unsichtbaren Deckenbalken wurde entfernt.
 [/list]
 

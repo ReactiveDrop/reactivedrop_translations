@@ -32,7 +32,11 @@ Ecco alcuni momenti salienti dagli aggiornamenti precedenti allo scorso annivers
 
 [h2]Campagne[/h2]
 [list]
+		[*][b]Area 9800: Wastelands:[/b] Fixed a harvester getting stuck in the exit during the finale gauntlet introduction scene.
+		[*][b]Tilarus-5: Arctic Infiltration:[/b] Fixed uber drones appearing and disappearing shortly after the start of the mission.
 [*][b]Tilarus-5: Ospedale SynTek:[/b] L'allarme è stato reso più rumoroso.
+		[*][b]Paranoia: Unexpected Encounter:[/b] Fixed bugs related to grenade launcher aiming.
+		[*][b]Paranoia: Hostile Places:[/b] Fixed bugs related to grenade launcher aiming.
 [*][b]Bunker:[/b] Rimossa la collisione con una trave invisibile sul soffitto.
 [/list]
 
