@@ -32,11 +32,11 @@ Ecco alcuni momenti salienti dagli aggiornamenti precedenti allo scorso annivers
 
 [h2]Campagne[/h2]
 [list]
-		[*][b]Area 9800: Wastelands:[/b] Fixed a harvester getting stuck in the exit during the finale gauntlet introduction scene.
-		[*][b]Tilarus-5: Arctic Infiltration:[/b] Fixed uber drones appearing and disappearing shortly after the start of the mission.
+[*][b]Area 9800: Lande Desolate:[/b] Corretto un mietitore che si bloccava nell'uscita durante la scena di introduzione della sfida finale.
+[*][b]Tilarus-5: Infiltrazione Artica:[/b] Corretto il problema dei droni Uber che appaiono e scompaiono poco dopo l'inizio della missione.
 [*][b]Tilarus-5: Ospedale SynTek:[/b] L'allarme è stato reso più rumoroso.
-		[*][b]Paranoia: Unexpected Encounter:[/b] Fixed bugs related to grenade launcher aiming.
-		[*][b]Paranoia: Hostile Places:[/b] Fixed bugs related to grenade launcher aiming.
+[*][b]Paranoia: Incontro Inaspettato:[/b] Corretti i bug relativi alla mira del lanciagranate.
+[*][b]Paranoia: Posti Ostili:[/b] Corretti i bug relativi alla mira del lanciagranate.
 [*][b]Bunker:[/b] Rimossa la collisione con una trave invisibile sul soffitto.
 [/list]
 
@@ -50,14 +50,14 @@ Ecco alcuni momenti salienti dagli aggiornamenti precedenti allo scorso annivers
 [*]Il comando buildcubemaps ora richiede che sv_cheats sia abilitato.
 [*]Corretto un crash anomalo quando un alieno cercava di lanciare un oggetto fisico contro un bersaglio morto.
 [*]Corretto un crash anomalo quando si lasciava una schermata con un menu a discesa aperto.
-		[*]Fixed the game instructor recommending marines to weld a door that is already damaged to the point where it cannot open or close.
-		[*]Fixed the white rounded square door used in some custom maps visually falling in the wrong direction sometimes.
-		[*]Fixed marines being unselected in the lobby when restarting a bonus mission that was started via a vote.
-		[*]The chat panel can now be opened in singleplayer (for use in custom challenges).
+[*]Corretto l'istruttore di gioco che consigliava ai soldati di saldare una porta già danneggiata al punto da non potersi aprire o chiudere.
+[*]Corretta la porta quadrata arrotondata bianca utilizzata in alcune mappe personalizzate che a volte cadeva visivamente nella direzione sbagliata.
+[*]Corretta la deselezione dei soldati nella lobby quando si riavvia una missione bonus iniziata tramite una votazione.
+[*]Il pannello della chat ora può essere aperto in giocatore singolo (per l'uso nelle sfide personalizzate).
 [/list]
 
-		[h2]Mapping[/h2]
+[h2]Mapping[/h2]
 [list]
-		[*]Added npc_crow, npc_pigeon, and npc_seagull.
-		[*]asw_env_shake can now be flagged to bypass user settings (a new convar has been added for disabling [i]all[/i] shakes regardless of this flag).
+[*]Aggiunti npc_crow, npc_pigeon e npc_seagull.
+[*]Ora asw_env_shake può essere contrassegnato per aggirare le impostazioni dell'utente (è stata aggiunta una nuova convar per disabilitare [i]tutte[/i] le scosse indipendentemente da questo flag).
 [/list]</string><string id="subtitle">È il Compleanno di Alien Swarm: Reactive Drop!</string><string id="summary">Oggi, Alien Swarm: Reactive Drop festeggia 6 anni su Steam! Ecco a voi una settimana di punti esperienza doppi, due nuove campagne e altro ancora per festeggiare.</string><string id="title">Aggiornamento di Alien Swarm: Reactive Drop - 20 Aprile 2023</string></content>
