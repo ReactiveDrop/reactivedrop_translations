@@ -1,0 +1,9 @@
+{
+  "extensions": [
+    "yzhang.markdown-all-in-one",
+    "eamodio.gitlens",
+    "soerenuhrbach.vscode-deepl",
+    "GEEKiDoS.vdf",
+    "golang.go"
+  ]
+}
