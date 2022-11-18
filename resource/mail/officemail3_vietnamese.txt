@@ -20,5 +20,5 @@ GAME
 	"MailBody3A"	"Helen, mọi thứ đang khá tồi tệ dưới này. Chúng tôi lại tìm thấy thêm 1 xác chết trong tối nay, đã bị nuốt mất 1 phần. Có cái gì đó ở dưới này. Một thứ gì đó. Cain với 1 tá cộng sự xuất hiện, đi thang máy xuống ga Timor, và bảo chúng tôi ở yên đây. Một lúc sau, chúng tôi nghe thấy tiếng súng nổ."
 	"MailBody3B"	"Khi Cain quay lại, hắn chỉ còn có 2 người, bị thương khá nặng. Cain bảo tôi đưa người của tôi ra khỏi khu hầm mỏ. Tôi bảo hắn điều này không thể làm được, vì người của tôi đang ở rải rác khắp nơi. Hắn nhún vai và nói đấy là việc của tôi rồi bỏ đi. "
 	"MailBody3C"	"Vì vậy, tôi đã đi cùng với Dave và Tom. Chúng tôi sẽ đi tìm những công nhân bị mất tích lần chót. Tôi muốn cô thông báo với đặc vụ của IA, cô Laura Callen về chuyện này. Hãy nói cho cô ấy về Ming. Laura là người duy nhất có đủ thẩm quyền để ngăn cản Cain."
-	"MailBody3D"	"Bảo trọng!  Brian"
+	"MailBody3D"	"Bảo trọng! Brian"
 }

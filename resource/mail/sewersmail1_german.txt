@@ -8,14 +8,14 @@ GAME
 	"MailDate1"	"Datum: 12/23/52"
 	"MailSubject1"	"Betreff: L. Callen"
 	"MailBody1A"	"Brian,"
-	"MailBody1B"	"halte dich von der Timor Station fern!  Bitte komm so schnell wie möglich zum Hauptquartier zurück.  Kate ist verschwunden und niemand weiß, wo sie ist.  Phil sagt, er weiß von mindestens zwei weiteren vermissten Personen.  Ich treffe mich heute Abend mit Ming."
-	"MailBody1C"	"Bitte komm so schnell wie möglich zurück.  Ich liebe dich."
+	"MailBody1B"	"halte dich von der Timor Station fern! Bitte komm so schnell wie möglich zum Hauptquartier zurück. Kate ist verschwunden und niemand weiß, wo sie ist. Phil sagt, er weiß von mindestens zwei weiteren vermissten Personen. Ich treffe mich heute Abend mit Ming."
+	"MailBody1C"	"Bitte komm so schnell wie möglich zurück. Ich liebe dich."
 	"MailBody1D"	"Helen"
 
 	"MailFrom2"	"Von: Helen Young"
 	"MailDate2"	"Datum: 12/24/52"
 	"MailSubject2"	"Betreff: WO BIST DU??"
-	"MailBody2A"	"Brian, bitte melde dich bei mir!  Wo bist du gewesen?  Ich mache mir Sorgen, okay?  Ming experimentiert mit diesen Eiern - Experimente, von denen ich weiß, dass sie illegal sind.  Heute Morgen haben sie Deck 1 abgeriegelt; es gibt Gerüchte über eine Verseuchung, aber keine Bestätigung.  SynTek will uns im Unklaren lassen.  Wir haben sogar Schüsse irgendwo im Hauptkomplex gehört."
+	"MailBody2A"	"Brian, bitte melde dich bei mir! Wo bist du gewesen? Ich mache mir Sorgen, okay? Ming experimentiert mit diesen Eiern - Experimente, von denen ich weiß, dass sie illegal sind. Heute Morgen haben sie Deck 1 abgeriegelt; es gibt Gerüchte über eine Verseuchung, aber keine Bestätigung. SynTek will uns im Unklaren lassen. Wir haben sogar Schüsse irgendwo im Hauptkomplex gehört."
 	"MailBody2B"	"Bitte melde dich bei mir. Ich kann den Gedanken nicht ertragen, dass du immer noch irgendwo da unten bist."
 	"MailBody2C"	"Helen"
 }

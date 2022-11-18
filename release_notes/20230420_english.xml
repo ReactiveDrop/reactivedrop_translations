@@ -32,7 +32,11 @@ Here are some highlights from updates since the previous anniversary:
 
 [h2]Campaigns[/h2]
 [list]
+[*][b]Area 9800: Wastelands:[/b] Fixed a harvester getting stuck in the exit during the finale gauntlet introduction scene.
+[*][b]Tilarus-5: Arctic Infiltration:[/b] Fixed uber drones appearing and disappearing shortly after the start of the mission.
 [*][b]Tilarus-5: SynTek Hospital:[/b] Made alarm sounds louder.
+[*][b]Paranoia: Unexpected Encounter:[/b] Fixed bugs related to grenade launcher aiming.
+[*][b]Paranoia: Hostile Places:[/b] Fixed bugs related to grenade launcher aiming.
 [*][b]Bunker:[/b] Removed collision from an invisible ceiling beam.
 [/list]
 
@@ -46,7 +50,7 @@ Here are some highlights from updates since the previous anniversary:
 [*]The buildcubemaps command now requires sv_cheats to be enabled.
 [*]Fixed a crash when an alien tried to throw a physics object at a target who had died.
 [*]Fixed a crash when leaving a screen with a dropdown menu open.
-[*]Fixed the game instructor recommending marines weld a door that is already damaged to the point where it cannot open or close.
+[*]Fixed the game instructor recommending marines to weld a door that is already damaged to the point where it cannot open or close.
 [*]Fixed the white rounded square door used in some custom maps visually falling in the wrong direction sometimes.
 [*]Fixed marines being unselected in the lobby when restarting a bonus mission that was started via a vote.
 [*]The chat panel can now be opened in singleplayer (for use in custom challenges).

@@ -316,7 +316,7 @@
 "Steam_ValidLoginRequiredTitle"		"Wymagany ważny login Steam"
 "[english]Steam_ValidLoginRequiredTitle"		"Valid Steam Login Required"
 "Steam_ValidLoginRequired"		"Nie można połączyć z serwerami VAC Steam. Aby zapoznać się z poradami dotyczącymi problemów z siecią, kliknij poniższe łącze."
-"[english]Steam_ValidLoginRequired"		"A connection to the Steam VAC servers could not be made.  For troubleshooting network issues, please click the link below."
+"[english]Steam_ValidLoginRequired"		"A connection to the Steam VAC servers could not be made. For troubleshooting network issues, please click the link below."
 "VAC_ConnectionIssuesSupport_Title"		"Bezpieczne połączenie nie powiodło się"
 "[english]VAC_ConnectionIssuesSupport_Title"		"Secure Connection Failed"
 "VAC_ConnectionIssuesSupportSite"		"Kliknij tutaj, by przejść do strony pomocy technicznej Steam"

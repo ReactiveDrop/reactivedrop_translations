@@ -32,7 +32,11 @@ TODO
 
 [h1]战役[/h1]
 [list]
+		[*][b]Area 9800: Wastelands:[/b] Fixed a harvester getting stuck in the exit during the finale gauntlet introduction scene.
+		[*][b]Tilarus-5: Arctic Infiltration:[/b] Fixed uber drones appearing and disappearing shortly after the start of the mission.
 [*][b]蒂拉鲁斯-5 新特医院：[/b] 使警报听起来更响。
+		[*][b]Paranoia: Unexpected Encounter:[/b] Fixed bugs related to grenade launcher aiming.
+		[*][b]Paranoia: Hostile Places:[/b] Fixed bugs related to grenade launcher aiming.
 [*][b]燃料库：[/b] 移除了 无形天花板横梁的碰撞。
 [/list]
 
@@ -46,7 +50,7 @@ TODO
 [*]buildcubemaps命令现在需要启用sv_cheats。
 [*]修正了 异形试图向已死亡目投掷一个实体时导致的崩溃。
 [*]修复了 当屏幕下拉菜单打开时崩溃的问题。
-		[*]Fixed the game instructor recommending marines weld a door that is already damaged to the point where it cannot open or close.
+		[*]Fixed the game instructor recommending marines to weld a door that is already damaged to the point where it cannot open or close.
 		[*]Fixed the white rounded square door used in some custom maps visually falling in the wrong direction sometimes.
 		[*]Fixed marines being unselected in the lobby when restarting a bonus mission that was started via a vote.
 		[*]The chat panel can now be opened in singleplayer (for use in custom challenges).
