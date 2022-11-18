@@ -8,7 +8,7 @@ GAME
 	"MailDate1"	"Datum: 12/24/52"
 	"MailSubject1"	"Betreff: Kriegsrecht"
 	"MailBody1A"	"An alle Bürger von Vereon XII:"
-	"MailBody1B"	"Ich erkläre mit sofortiger Wirkung das Kriegsrecht.  Jeder hat sich in sein Quartier zu begeben und dort bis auf Weiteres zu bleiben.  Jeder, der gegen diesen Befehl verstößt, wird sofort erschossen."
+	"MailBody1B"	"Ich erkläre mit sofortiger Wirkung das Kriegsrecht. Jeder hat sich in sein Quartier zu begeben und dort bis auf Weiteres zu bleiben. Jeder, der gegen diesen Befehl verstößt, wird sofort erschossen."
 	"MailBody1C"	"Erklärung im Namen des SynTek-Koloniegesetzes Nr. 545/76B gemäß Standardvertragsklausel 45(vii)."
 	"MailBody1D"	"Lt. Cain, SynTek Security"
 
@@ -17,5 +17,5 @@ GAME
 	"MailDate2"	"Datum: 10/08/52"
 	"MailBody2A"	"Hi,"
 	"MailBody2B"	"cHeAp BiOtEcH eNhAnCmEnTs"
-	"MailBody2C"	"Nicht stark genug?  Nicht klug genug?  Nicht schön genug?  Bei PharmA MedTech können wir all deine Probleme lösen, mit einer breiten Palette an künstlichen Implantaten, Wachstumsmedikamenten und Anbauteilen.  Antworte jetzt und erhalte 50% Rabatt auf Ersatzoptiken!"
+	"MailBody2C"	"Nicht stark genug? Nicht klug genug? Nicht schön genug? Bei PharmA MedTech können wir all deine Probleme lösen, mit einer breiten Palette an künstlichen Implantaten, Wachstumsmedikamenten und Anbauteilen. Antworte jetzt und erhalte 50% Rabatt auf Ersatzoptiken!"
 }

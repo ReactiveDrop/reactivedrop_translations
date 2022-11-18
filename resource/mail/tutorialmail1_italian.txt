@@ -10,7 +10,7 @@ GAME
 	"MailBody1A"	"Ehi Brad,"
 	"MailBody1B"	"Questo è strano. Ho cercato nei nostri registri di trasporto ma non c'è nulla di archiviato in 'Consegna 4903877'."
 	"MailBody1C"	"Ti suggerisco di trattenere il carico finché non avrò rintracciato la mail. È stato inviato da qualche parte all'interno del complesso principale. Non dovrebbe essere troppo difficile scoprire chi ti ha inoltrato quell'ordine."
-	"MailBody1D"	"Ti contatto dopo.  Abbi cura di te."
+	"MailBody1D"	"Ti contatto dopo. Abbi cura di te."
 
 	"MailFrom2"	"Da: Laura Callen"
 	"MailDate2"	"Data: 12/18/52"

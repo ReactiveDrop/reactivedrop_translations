@@ -7,7 +7,7 @@ GAME
 	"MailFrom1"	"Da: Laura Callen"
 	"MailDate1"	"Data: 12/18/52"
 	"MailSubject1"	"Soggetto: Avamposto 17"
-	"MailBody1A"	"Ten. Cain,  abbiamo appena ricevuto la notizia da B. Campbell che la consegna del carico 4903877 contiene materiale organico di origine sconosciuta, il tutto congelato e immagazzinato in contenitori. La destinazione della nave mercantile è la Stazione di Ricerca SynTek 7 / Terra."
+	"MailBody1A"	"Ten. Cain, abbiamo appena ricevuto la notizia da B. Campbell che la consegna del carico 4903877 contiene materiale organico di origine sconosciuta, il tutto congelato e immagazzinato in contenitori. La destinazione della nave mercantile è la Stazione di Ricerca SynTek 7 / Terra."
 	"MailBody1B"	"Vorrei che interrogassi nuovamente il tuo staff e mi aiutassi a scoprire chi sta violando la restrizione # 77-C. (IA deve essere informato del trasferimento di materiale organico sconosciuto sulla Terra; 77-C / 1.1.4)"
 	"MailBody1C"	"Campbell sta anche segnalando la scomparsa di diversi lavoratori. La sicurezza delle colonie è una tua responsabilità. Mi aspetto che invii abbastanza personale per proteggere l'area."
 	"MailBody1D"	"L. Callen"
