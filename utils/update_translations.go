@@ -93,7 +93,7 @@ var txtLanguageFiles = [...]string{
 }
 
 var vdfLanguageFiles = [...]string{
-	"../community/inventory_service_tags",
+	"../community/inventory_service/inventory_service_tags",
 	"../community/statsweb",
 }
 
@@ -184,13 +184,13 @@ func syncTranslations(prefix, suffix string, quiet bool) {
 				if upToDate >= total {
 					fmt.Print(" ✔ |")
 				} else {
-					fmt.Printf(" %.3f%% (%d untranslated strings) |", percent, total-upToDate)
+					fmt.Printf(" %.0f%% (%d untranslated strings) |", percent, total-upToDate)
 				}
 			} else {
 				if upToDate >= total {
 					fmt.Println(" ✔")
 				} else {
-					fmt.Printf("%8.3f%% (%d untranslated strings)\n", percent, total-upToDate)
+					fmt.Printf("%8.0f%% (%d untranslated strings)\n", percent, total-upToDate)
 				}
 			}
 		}
