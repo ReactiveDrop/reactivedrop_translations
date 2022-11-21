@@ -225,7 +225,7 @@
 "[english]StatsWeb_HoIAFBlurb_Present"		"This season started on %[1]s and will run until %[2]s."
 "StatsWeb_HoIAFBlurb_Future"		"Этот сезон начнётся %[1]s и закончится %[2]s."
 "[english]StatsWeb_HoIAFBlurb_Future"		"This season will begin on %[1]s and end on %[2]s."
-"StatsWeb_WeaponStat_DeathmatchMode"		"Режим «Бой насмерть»"
+"StatsWeb_WeaponStat_DeathmatchMode"		"Режим «Побоище»"
 "[english]StatsWeb_WeaponStat_DeathmatchMode"		"Deathmatch mode"
 "StatsWeb_WeaponStat_Missions0"		"Миссии (первое оружие)"
 "[english]StatsWeb_WeaponStat_Missions0"		"Missions (primary)"

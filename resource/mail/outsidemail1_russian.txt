@@ -16,7 +16,7 @@ GAME
 
 	"MailFrom3"	"Кому: Шон Минг"
 	"MailDate3"	"Дата: 21.12.52"
-	"MailSubject3"	"Тема: Ответ: Прорыв"
+	"MailSubject3"	"Тема: На: Прорыв"
 	"MailBody3A"	"М-р Минг,"
 	"MailBody3B"	"1) Хорошо, сделаю."
 	"MailBody3C"	"2) Я посмотрю что я могу сделать."
