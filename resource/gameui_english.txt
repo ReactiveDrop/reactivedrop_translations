@@ -13,7 +13,7 @@
 "GameUI_Joystick"	"Gamepad"
 "GameUI_JoystickLabel"	"Enable the gamepad"
 "GameUI_ReverseJoystick"	"Reverse gamepad up-down axis"
-"GameUI_JoystickLook"	"Joystick look"
+"GameUI_JoystickLook"	"Gamepad look"
 "GameUI_JoystickLookLabel"	"Use the gamepad to look around"
 "GameUI_JoystickLookType"	"Look type"
 "GameUI_JoystickNormal"	"Normal"
