@@ -15,6 +15,16 @@ TODO
 
 TODO
 
+		[h1]Mapping Competition 2023: "Boss Fight"[/h1]
+
+		This year, we're hosting our first annual community mapping competition, and what better place to start than at the end? The theme for this year is [b]Boss Fight[/b].
+
+		Create a mission or short campaign that contains a boss fight - a scripted encounter with some big bad that the marines must overcome. Will the boss be an alien, a group of aliens, or something completely new? Where will the mission take place? Why are the marines there? All of these questions and more are things you'll have to consider in the coming months.
+
+		Or, if you have a better idea, go ahead and make that instead! AS:RD mapping competition themes are optional.
+
+		Entries must be tagged with [b]BossFight2023[/b]. Competition starts today and ends August 1st. Prizes include unique ingame medals. If you need help getting started, check out the [url=https://steamcommunity.com/app/563560/discussions/1/]Modding / Mapping Help and Tips[/url] forum.
+
 		[h1]In Case You Missed It[/h1]
 
 		Here are some highlights from updates since the previous anniversary:
@@ -30,7 +40,7 @@ TODO
 
 		[h1]Changelog[/h1]
 
-[h1]战役[/h1]
+[h2]战役[/h2]
 [list]
 		[*][b]Area 9800: Wastelands:[/b] Fixed a harvester getting stuck in the exit during the finale gauntlet introduction scene.
 		[*][b]Tilarus-5: Arctic Infiltration:[/b] Fixed uber drones appearing and disappearing shortly after the start of the mission.
@@ -40,14 +50,14 @@ TODO
 [*][b]燃料库：[/b] 移除了 无形天花板横梁的碰撞。
 [/list]
 
-[h1]武器[/h1]
+[h2]武器[/h2]
 [list]
 [*][b]ML30激光地雷：[/b] 改进了投掷动画的网络预测。
 		[*]Fixed the scanning animation for sentries desynchronizing from the gun's idle angle.
 		[*]Fixed inconsistencies in collision-checking code, most notably related to bot marines and projectiles.
 [/list]
 
-[h1]杂项[/h1]
+[h2]杂项[/h2]
 [list]
 [*]buildcubemaps命令现在需要启用sv_cheats。
 [*]修正了 异形试图向已死亡目投掷一个实体时导致的崩溃。
