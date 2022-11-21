@@ -43,6 +43,8 @@ TODO
 [h1]武器[/h1]
 [list]
 [*][b]ML30激光地雷：[/b] 改进了投掷动画的网络预测。
+		[*]Fixed the scanning animation for sentries desynchronizing from the gun's idle angle.
+		[*]Fixed inconsistencies in collision-checking code, most notably related to bot marines and projectiles.
 [/list]
 
 [h1]杂项[/h1]
@@ -60,4 +62,11 @@ TODO
 [list]
 		[*]Added npc_crow, npc_pigeon, and npc_seagull.
 		[*]asw_env_shake can now be flagged to bypass user settings (a new convar has been added for disabling [i]all[/i] shakes regardless of this flag).
+		[*]Added env_headcrabcanister.
+		[*]Added script_intro.
+[/list]
+
+		[h2]VScript[/h2]
+[list]
+		[*]Added a new method to marines: SetMarineRolls, which allows maps and challenges to change whether individual marines can jump.
 		[/list]</string><string id="subtitle">It's Alien Swarm: Reactive Drop's Birthday!</string><string id="summary">Today, Alien Swarm: Reactive Drop celebrates 6 years on Steam! Here's a week of double experience, two new campaigns, and some other goodies to celebrate.</string><string id="title">Alien Swarm: Reactive Drop Update - April 20, 2023</string></content>
