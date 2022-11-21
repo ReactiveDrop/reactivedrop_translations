@@ -94,7 +94,7 @@ var txtLanguageFiles = [...]string{
 
 var vdfLanguageFiles = [...]string{
 	"../community/inventory_service/inventory_service_tags",
-	"../community/statsweb",
+	"../community/stats_website/statsweb",
 }
 
 var txtAddonLanguageFiles = [...]string{
