@@ -1,4 +1,4 @@
-# schinese
+# schinese (简体中文)
 
 <details><summary>Strings</summary>
 
@@ -27,7 +27,7 @@
 
 </details>
 
-# tchinese
+# tchinese (繁體中文)
 
 <details><summary>Strings</summary>
 
@@ -235,7 +235,7 @@
 
 </details>
 
-# french
+# french (français)
 
 <details><summary>Strings</summary>
 
@@ -425,7 +425,7 @@
 
 </details>
 
-# german
+# german (Deutsch)
 
 <details><summary>Strings</summary>
 
@@ -441,7 +441,7 @@
 
 </details>
 
-# italian
+# italian (italiano)
 
 <details><summary>Strings</summary>
 
@@ -450,7 +450,7 @@
 
 </details>
 
-# japanese
+# japanese (日本語)
 
 <details><summary>Strings</summary>
 
@@ -467,7 +467,7 @@
 
 </details>
 
-# koreana
+# koreana (한국어)
 
 <details><summary>Strings</summary>
 
@@ -583,7 +583,7 @@
 
 </details>
 
-# polish
+# polish (polski)
 
 <details><summary>Strings</summary>
 
@@ -796,7 +796,7 @@
 
 </details>
 
-# portuguese
+# portuguese (português europeu)
 
 <details><summary>Strings</summary>
 
@@ -1004,7 +1004,7 @@
 
 </details>
 
-# brazilian
+# brazilian (português)
 
 <details><summary>Strings</summary>
 
@@ -1063,7 +1063,7 @@
 
 </details>
 
-# russian
+# russian (русский)
 
 <details><summary>Strings</summary>
 
@@ -1085,7 +1085,7 @@
 
 </details>
 
-# spanish
+# spanish (español de España)
 
 <details><summary>Strings</summary>
 
@@ -1296,7 +1296,7 @@
 
 </details>
 
-# ukrainian
+# ukrainian (українська)
 
 <details><summary>Strings</summary>
 
@@ -1508,7 +1508,7 @@
 
 </details>
 
-# vietnamese
+# vietnamese (Tiếng Việt)
 
 <details><summary>Strings</summary>
 
