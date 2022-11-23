@@ -280,7 +280,7 @@ func generateReport() {
 
 		for _, lang := range derivedLanguages {
 			if !reportedLanguages[lang] {
-				fmt.Printf("- %s\n", lang)
+				fmt.Printf("- %s (%s)\n", lang)
 			}
 		}
 	}
