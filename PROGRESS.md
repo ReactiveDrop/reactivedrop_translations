@@ -2,6 +2,7 @@
 
 <details><summary>Strings</summary>
 
+- [statsweb_schinese.vdf](community/stats_website/statsweb_schinese.vdf) has 2 untranslated strings.
 - [gameui_schinese.txt](resource/gameui_schinese.txt) has 1 untranslated strings.
 - [reactivedrop_schinese.txt](resource/reactivedrop_schinese.txt) has 52 untranslated strings.
 
@@ -31,7 +32,7 @@
 <details><summary>Strings</summary>
 
 - [reactivedrop_tchinese.txt](addons/ExampleAddon/resource/reactivedrop_tchinese.txt) has 39 untranslated strings.
-- [statsweb_tchinese.vdf](community/stats_website/statsweb_tchinese.vdf) has 189 untranslated strings.
+- [statsweb_tchinese.vdf](community/stats_website/statsweb_tchinese.vdf) has 191 untranslated strings.
 - [basemodui_tchinese.txt](resource/basemodui_tchinese.txt) has 7 untranslated strings.
 - [closecaption_tchinese.txt](resource/closecaption_tchinese.txt) has 75 untranslated strings.
 - [gameui_tchinese.txt](resource/gameui_tchinese.txt) has 1 untranslated strings.
@@ -240,7 +241,7 @@
 
 - [reactivedrop_french.txt](addons/ExampleAddon/resource/reactivedrop_french.txt) has 39 untranslated strings.
 - [inventory_service_tags_french.vdf](community/inventory_service/inventory_service_tags_french.vdf) has 7 untranslated strings.
-- [statsweb_french.vdf](community/stats_website/statsweb_french.vdf) has 189 untranslated strings.
+- [statsweb_french.vdf](community/stats_website/statsweb_french.vdf) has 191 untranslated strings.
 - [serverbrowser_french.txt](platform/servers/serverbrowser_french.txt) has 24 untranslated strings.
 - [vgui_french.txt](platform/vgui_french.txt) has 93 untranslated strings.
 - [basemodui_french.txt](resource/basemodui_french.txt) has 25 untranslated strings.
@@ -428,6 +429,7 @@
 
 <details><summary>Strings</summary>
 
+- [statsweb_german.vdf](community/stats_website/statsweb_german.vdf) has 2 untranslated strings.
 - [gameui_german.txt](resource/gameui_german.txt) has 1 untranslated strings.
 - [reactivedrop_german.txt](resource/reactivedrop_german.txt) has 27 untranslated strings.
 
@@ -443,6 +445,7 @@
 
 <details><summary>Strings</summary>
 
+- [statsweb_italian.vdf](community/stats_website/statsweb_italian.vdf) has 2 untranslated strings.
 - [reactivedrop_italian.txt](resource/reactivedrop_italian.txt) has 27 untranslated strings.
 
 </details>
@@ -451,7 +454,7 @@
 
 <details><summary>Strings</summary>
 
-- [statsweb_japanese.vdf](community/stats_website/statsweb_japanese.vdf) has 12 untranslated strings.
+- [statsweb_japanese.vdf](community/stats_website/statsweb_japanese.vdf) has 14 untranslated strings.
 - [vgui_japanese.txt](platform/vgui_japanese.txt) has 37 untranslated strings.
 - [reactivedrop_japanese.txt](resource/reactivedrop_japanese.txt) has 49 untranslated strings.
 - [valve_japanese.txt](resource/valve_japanese.txt) has 7 untranslated strings.
@@ -470,7 +473,7 @@
 
 - [reactivedrop_koreana.txt](addons/ExampleAddon/resource/reactivedrop_koreana.txt) has 39 untranslated strings.
 - [inventory_service_tags_koreana.vdf](community/inventory_service/inventory_service_tags_koreana.vdf) has 7 untranslated strings.
-- [statsweb_koreana.vdf](community/stats_website/statsweb_koreana.vdf) has 41 untranslated strings.
+- [statsweb_koreana.vdf](community/stats_website/statsweb_koreana.vdf) has 43 untranslated strings.
 - [serverbrowser_koreana.txt](platform/servers/serverbrowser_koreana.txt) has 24 untranslated strings.
 - [vgui_koreana.txt](platform/vgui_koreana.txt) has 93 untranslated strings.
 - [basemodui_koreana.txt](resource/basemodui_koreana.txt) has 47 untranslated strings.
@@ -586,7 +589,7 @@
 
 - [reactivedrop_polish.txt](addons/ExampleAddon/resource/reactivedrop_polish.txt) has 39 untranslated strings.
 - [inventory_service_tags_polish.vdf](community/inventory_service/inventory_service_tags_polish.vdf) has 7 untranslated strings.
-- [statsweb_polish.vdf](community/stats_website/statsweb_polish.vdf) has 189 untranslated strings.
+- [statsweb_polish.vdf](community/stats_website/statsweb_polish.vdf) has 191 untranslated strings.
 - [serverbrowser_polish.txt](platform/servers/serverbrowser_polish.txt) has 24 untranslated strings.
 - [vgui_polish.txt](platform/vgui_polish.txt) has 81 untranslated strings.
 - [basemodui_polish.txt](resource/basemodui_polish.txt) has 26 untranslated strings.
@@ -799,7 +802,7 @@
 
 - [reactivedrop_portuguese.txt](addons/ExampleAddon/resource/reactivedrop_portuguese.txt) has 12 untranslated strings.
 - [inventory_service_tags_portuguese.vdf](community/inventory_service/inventory_service_tags_portuguese.vdf) has 1 untranslated strings.
-- [statsweb_portuguese.vdf](community/stats_website/statsweb_portuguese.vdf) has 17 untranslated strings.
+- [statsweb_portuguese.vdf](community/stats_website/statsweb_portuguese.vdf) has 19 untranslated strings.
 - [vgui_portuguese.txt](platform/vgui_portuguese.txt) has 93 untranslated strings.
 - [basemodui_portuguese.txt](resource/basemodui_portuguese.txt) has 1 untranslated strings.
 - [closecaption_portuguese.txt](resource/closecaption_portuguese.txt) has 115 untranslated strings.
@@ -1006,7 +1009,7 @@
 <details><summary>Strings</summary>
 
 - [inventory_service_tags_brazilian.vdf](community/inventory_service/inventory_service_tags_brazilian.vdf) has 7 untranslated strings.
-- [statsweb_brazilian.vdf](community/stats_website/statsweb_brazilian.vdf) has 5 untranslated strings.
+- [statsweb_brazilian.vdf](community/stats_website/statsweb_brazilian.vdf) has 7 untranslated strings.
 - [serverbrowser_brazilian.txt](platform/servers/serverbrowser_brazilian.txt) has 186 untranslated strings.
 - [vgui_brazilian.txt](platform/vgui_brazilian.txt) has 184 untranslated strings.
 - [basemodui_brazilian.txt](resource/basemodui_brazilian.txt) has 14 untranslated strings.
@@ -1064,6 +1067,7 @@
 
 <details><summary>Strings</summary>
 
+- [statsweb_russian.vdf](community/stats_website/statsweb_russian.vdf) has 2 untranslated strings.
 - [reactivedrop_russian.txt](resource/reactivedrop_russian.txt) has 27 untranslated strings.
 
 </details>
@@ -1087,7 +1091,7 @@
 
 - [reactivedrop_spanish.txt](addons/ExampleAddon/resource/reactivedrop_spanish.txt) has 39 untranslated strings.
 - [inventory_service_tags_spanish.vdf](community/inventory_service/inventory_service_tags_spanish.vdf) has 7 untranslated strings.
-- [statsweb_spanish.vdf](community/stats_website/statsweb_spanish.vdf) has 189 untranslated strings.
+- [statsweb_spanish.vdf](community/stats_website/statsweb_spanish.vdf) has 191 untranslated strings.
 - [serverbrowser_spanish.txt](platform/servers/serverbrowser_spanish.txt) has 24 untranslated strings.
 - [vgui_spanish.txt](platform/vgui_spanish.txt) has 93 untranslated strings.
 - [basemodui_spanish.txt](resource/basemodui_spanish.txt) has 26 untranslated strings.
@@ -1298,7 +1302,7 @@
 
 - [reactivedrop_ukrainian.txt](addons/ExampleAddon/resource/reactivedrop_ukrainian.txt) has 39 untranslated strings.
 - [inventory_service_tags_ukrainian.vdf](community/inventory_service/inventory_service_tags_ukrainian.vdf) has 7 untranslated strings.
-- [statsweb_ukrainian.vdf](community/stats_website/statsweb_ukrainian.vdf) has 189 untranslated strings.
+- [statsweb_ukrainian.vdf](community/stats_website/statsweb_ukrainian.vdf) has 191 untranslated strings.
 - [serverbrowser_ukrainian.txt](platform/servers/serverbrowser_ukrainian.txt) has 186 untranslated strings.
 - [vgui_ukrainian.txt](platform/vgui_ukrainian.txt) has 184 untranslated strings.
 - [basemodui_ukrainian.txt](resource/basemodui_ukrainian.txt) has 25 untranslated strings.
@@ -1510,7 +1514,7 @@
 
 - [reactivedrop_vietnamese.txt](addons/ExampleAddon/resource/reactivedrop_vietnamese.txt) has 39 untranslated strings.
 - [inventory_service_tags_vietnamese.vdf](community/inventory_service/inventory_service_tags_vietnamese.vdf) has 7 untranslated strings.
-- [statsweb_vietnamese.vdf](community/stats_website/statsweb_vietnamese.vdf) has 189 untranslated strings.
+- [statsweb_vietnamese.vdf](community/stats_website/statsweb_vietnamese.vdf) has 191 untranslated strings.
 - [serverbrowser_vietnamese.txt](platform/servers/serverbrowser_vietnamese.txt) has 186 untranslated strings.
 - [vgui_vietnamese.txt](platform/vgui_vietnamese.txt) has 184 untranslated strings.
 - [basemodui_vietnamese.txt](resource/basemodui_vietnamese.txt) has 1279 untranslated strings.

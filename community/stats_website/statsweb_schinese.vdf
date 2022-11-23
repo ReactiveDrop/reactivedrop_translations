@@ -185,6 +185,9 @@
 "[english]StatsWeb_GlobalStatsDesc"		"Alien Swarm: Reactive Drop global mission statistics."
 "StatsWeb_GlobalWeaponStatsDesc"		"全球所有武器的历史统计数据 异形丛生：活性衰退."
 "[english]StatsWeb_GlobalWeaponStatsDesc"		"A list of all-time global statistics for every weapon available in Alien Swarm: Reactive Drop."
+		"StatsWeb_DateFormat"		"%e %B %Y"
+		// format is strftime, see https://github.com/KarpelesLab/strftime#pattern-support
+		"[english]StatsWeb_DateFormat"		"%e %B %Y"
 "StatsWeb_StartedMinutesAgo"		"%d 分钟前开始"
 "[english]StatsWeb_StartedMinutesAgo"		"Started %d minutes ago"
 "StatsWeb_StartedHoursAgo"		"%d 小时前开始"
@@ -367,6 +370,8 @@
 "[english]StatsWeb_NextCampaigns"		"More Campaigns"
 "StatsWeb_ByAuthor"		"由 %s"
 "[english]StatsWeb_ByAuthor"		"by %s"
+		"StatsWeb_RankNumber"		"#%s"
+		"[english]StatsWeb_RankNumber"		"#%s"
 "StatsWeb_ShortNum_Thousand0"		"%d 千"
 "[english]StatsWeb_ShortNum_Thousand0"		"%dk"
 "StatsWeb_ShortNum_Thousand1"		"%d.%d 千"
