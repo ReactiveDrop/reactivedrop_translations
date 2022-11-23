@@ -37,6 +37,10 @@ func main() {
 
 	updateAchievements(sourceLanguage)
 	for _, lang := range derivedLanguages {
+		if emptyLanguages[lang] {
+			continue
+		}
+
 		updateAchievements(lang)
 	}
 
@@ -80,6 +84,10 @@ func syncTranslations(prefix, suffix string, quiet bool) {
 	}
 
 	for _, lang = range derivedLanguages {
+		if emptyLanguages[lang] {
+			continue
+		}
+
 		if !quiet && reportedLanguages[lang] {
 			fmt.Printf("  %10s:", lang)
 		}
