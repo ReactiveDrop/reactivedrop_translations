@@ -285,5 +285,7 @@ func generateReport() {
 				fmt.Printf("- %s (%s)\n", lang, display.Self.Name(translation.FromSteamLanguage[lang]))
 			}
 		}
+	} else {
+		fmt.Print("# Non-Curated Languages\n\nAlien Swarm: Reactive Drop currently supports [every language with full Steam platform support](https://partner.steamgames.com/doc/store/localization/languages)! If you are fluent in a language above and would like to contribute, don't hesitate to ask for directions :)\n")
 	}
 }
