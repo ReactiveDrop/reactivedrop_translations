@@ -1067,15 +1067,7 @@
 
 <details><summary>Strings</summary>
 
-- [statsweb_russian.vdf](community/stats_website/statsweb_russian.vdf) has 2 untranslated strings.
 - [reactivedrop_russian.txt](resource/reactivedrop_russian.txt) has 27 untranslated strings.
-
-</details>
-
-<details><summary>Steam Store and Community</summary>
-
-- [mappingcontest2023_russian.txt](community/workshop/mappingcontest2023_english.txt) is missing.
-- [workshop_tags_russian.json](community/workshop/workshop_tags_russian.json) has 1 indented lines.
 
 </details>
 
