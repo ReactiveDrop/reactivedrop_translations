@@ -433,19 +433,6 @@
 
 </details>
 
-<details><summary>Steam Store and Community</summary>
-
-- [mappingcontest2023_german.txt](community/workshop/mappingcontest2023_german.txt) is missing.
-- [workshop_tags_german.json](community/workshop/workshop_tags_german.json) has 1 indented lines.
-
-</details>
-
-<details><summary>Upcoming Release Notes</summary>
-
-- [20230420_german.xml](release_notes/20230420_german.xml) has 12 indented lines.
-
-</details>
-
 <details><summary>Credits</summary>
 
 - [rd-tarnor_credits_german.txt](credits/rd-tarnor_credits_german.txt) has 25 indented lines.
