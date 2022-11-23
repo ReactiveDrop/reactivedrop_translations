@@ -1711,13 +1711,17 @@
 
 These languages have not been substantially updated since the start of the Reactive Drop translation project. If you are fluent in one of these (or the ones above) and would like to contribute, don't hesitate to ask for directions :)
 
-- czech
-- danish
-- dutch
-- finnish
-- hungarian
-- norwegian
-- romanian
-- swedish
-- thai
-- turkish
+- arabic (%!s(MISSING))
+- bulgarian (%!s(MISSING))
+- czech (%!s(MISSING))
+- danish (%!s(MISSING))
+- dutch (%!s(MISSING))
+- finnish (%!s(MISSING))
+- greek (%!s(MISSING))
+- hungarian (%!s(MISSING))
+- norwegian (%!s(MISSING))
+- romanian (%!s(MISSING))
+- latam (%!s(MISSING))
+- swedish (%!s(MISSING))
+- thai (%!s(MISSING))
+- turkish (%!s(MISSING))
