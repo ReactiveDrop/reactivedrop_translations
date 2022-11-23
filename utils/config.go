@@ -97,8 +97,8 @@ var checkButNoSync = [...]struct {
 		patterns: []string{
 			"../community/eula/eula_*.txt",
 			"../community/points_shop/app_items_*.json",
-			"../workshop/*.txt",
-			"../workshop/workshop_tags_*.json",
+			"../community/workshop/*.txt",
+			"../community/workshop/workshop_tags_*.json",
 			"../store_page/content_warning_*.txt",
 			"../store_page/storepage_*.json",
 		},

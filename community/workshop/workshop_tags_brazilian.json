@@ -1,15 +1,15 @@
 {
-	"language": "brazilian",
-	"category_0": "Conteúdo",
-	"tag_100994": "Campanha",
-	"tag_103306": "Desafio",
-	"tag_104793": "Deathmatch",
-	"tag_309434": "Bonus",
-	"tag_310235": "Endless",
-	"tag_106993": "Outros",
-	"category_1": "Genero",
-	"tag_114461": "Survival",
-	"tag_114787": "Training",
-			"category_2": "Mapping Competitions",
-	"appid": 563560
+"language": "brazilian",
+"category_0": "Conteúdo",
+"tag_100994": "Campanha",
+"tag_103306": "Desafio",
+"tag_104793": "Deathmatch",
+"tag_309434": "Bonus",
+"tag_310235": "Endless",
+"tag_106993": "Outros",
+"category_1": "Genero",
+"tag_114461": "Survival",
+"tag_114787": "Training",
+		"category_2": "Mapping Competitions",
+"appid": 563560
 }
