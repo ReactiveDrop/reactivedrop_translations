@@ -6,6 +6,7 @@
 "testcommands"		"<clr:255,0,0>这是红色<I> 且是斜体<B> 以及<cr>粗体<B><I><clr:255,255,255> 再来个白色。"
 "[english]testcommands"		"<clr:255,0,0>This is red<I> and italics<B> and<cr>bold<B><I><clr:255,255,255> white again."
 "Command.co_m1_ob1"		"<clr:240,255,255>指挥官：好的，小队。我们需要查看船运清单，看看有没有幸存者成功逃出来。你们得前往着陆湾，然后找到一个可以下载运输记录的端口。我在那里与你们联络。"
+//Commander Audio
 "[english]Command.co_m1_ob1"		"<clr:240,255,255>Commander: Okay, squad. We need to check the shipping manifests to see if any survivors made it off this rock. Make your way down to the landing bay and find a terminal where we can download the transport records. I'll check in with you there."
 "Command.co_m1_ob2"		"<clr:240,255,255>指挥官：好吧，看来这些名单已经失效了。我猜异形来袭时，保存记录这件事被忽略了。我们得继续搜救，直至收到其他指令，所以继续去寻找幸存者。朝远方的出口前进，我们在那里会合。"
 "[english]Command.co_m1_ob2"		"<clr:240,255,255>Commander: Well, these manifests are useless. Guess record keeping wasn't exactly high on the priority list when the swarm hit. We are now search and rescue until otherwise informed, so keep an eye out for survivors. Head for the far exit and then we'll regroup."
@@ -146,6 +147,7 @@
 "Command.co_debriefing_ob10"		"<clr:240,255,255>指挥官：但我们侦测到，在地下深处有一个孵化室依然处于完好的保护状态，并从其中传出一个巨大的热源活动信号。IAF指挥部正对此展开调查。"
 "[english]Command.co_debriefing_ob10"		"<clr:240,255,255>Commander: We are still detecting a single large heat source in a deep, well protected chamber. IAF Command is making investigation of this a priority."
 "bastille.SynUpReply0"		"<clr:205,127,50>底狱：你不会想去喝那玩意的，相信我。"
+//Bastille
 "[english]bastille.SynUpReply0"		"<clr:205,127,50>Bastille: You don't wanna drink that shit, believe me."
 "bastille.CrashComplainReply0"		"<clr:205,127,50>底狱：也许你该向上头报告，说自己患有神经衰弱。"
 "[english]bastille.CrashComplainReply0"		"<clr:205,127,50>Bastille: Maybe you should report a nervous breakdown."
@@ -708,6 +710,7 @@
 "bastille.Selection4"		"<clr:205,127,50>底狱：报到。"
 "[english]bastille.Selection4"		"<clr:205,127,50>Bastille: Reporting."
 "crash.SargeIdleReply0"		"<clr:238,180,34>溃客：你真懂得该如何让大伙们放心，军士长。"
+//Crash
 "[english]crash.SargeIdleReply0"		"<clr:238,180,34>Crash: You really know how to make a squad feel safe, Sarge."
 "crash.SargeIdleReply1"		"<clr:238,180,34>溃客：那表示你现在想回家了，军士长？"
 "[english]crash.SargeIdleReply1"		"<clr:238,180,34>Crash: That mean you wanna go home now, Sarge?"
@@ -1140,6 +1143,7 @@
 "crash.Selection2"		"<clr:238,180,34>溃客：什么事？"
 "[english]crash.Selection2"		"<clr:238,180,34>Crash: What's up?"
 "faith.SynUpReply0"		"<clr:178,34,34>白莲：这底下有一半的地方都是这玩意。"
+//Faith
 "[english]faith.SynUpReply0"		"<clr:178,34,34>Faith: Half the core world is addicted to that stuff."
 "faith.SynUpReply1"		"<clr:178,34,34>白莲：你不会想喝那些鬼东西的，相信我。"
 "[english]faith.SynUpReply1"		"<clr:178,34,34>Faith: You don't want to drink that shit, believe me."
@@ -1538,6 +1542,7 @@
 "faith.Selection5"		"<clr:178,34,34>白莲：你需要我干吗？"
 "[english]faith.Selection5"		"<clr:178,34,34>Faith: You need me?"
 "jaeger.WeatherReply0"		"<clr:198,226,255>贼鸥：耶，这让我想起了最近一次假期。"
+//Jaeger
 "[english]jaeger.WeatherReply0"		"<clr:198,226,255>Jaeger: Yeah, reminds me of my last vacation."
 "jaeger.MedicComplainReply0"		"<clr:198,226,255>贼鸥：这看起来不像是故意的。"
 "[english]jaeger.MedicComplainReply0"		"<clr:198,226,255>Jaeger: It's not like I do it on purpose."
@@ -1890,6 +1895,7 @@
 "jaeger.Selection1"		"<clr:198,226,255>贼鸥：这里是贼鸥。"
 "[english]jaeger.Selection1"		"<clr:198,226,255>Jaeger: Jaeger here."
 "sarge.SargeIdle0"		"<clr:238,207,161>军士长：你知道的，那些异形爪虫的爪子正好能撕开我们的护甲。"
+//Sarge
 "[english]sarge.SargeIdle0"		"<clr:238,207,161>Sarge: You know the claws on a swarm drone can rip right through our armor."
 "sarge.SargeIdle1"		"<clr:238,207,161>军士长：我曾经见过一名士兵的手被那些家伙咬了下来。"
 "[english]sarge.SargeIdle1"		"<clr:238,207,161>Sarge: I once saw a marine have his hand bitten clean off by one of these things."
@@ -2340,6 +2346,7 @@
 "sarge.Selection3"		"<clr:238,207,161>军士长：继续。"
 "[english]sarge.Selection3"		"<clr:238,207,161>Sarge: Proceed."
 "vegas.FirstBloodStart0"		"<clr:84,255,159>赌徒：第一滴血是我的了。"
+//Vegas
 "[english]vegas.FirstBloodStart0"		"<clr:84,255,159>Vegas: Taking bets on first blood."
 "vegas.FirstBloodWin0"		"<clr:84,255,159>赌徒：哈哈，今天好运眷顾着我。"
 "[english]vegas.FirstBloodWin0"		"<clr:84,255,159>Vegas: Haha, fortune favours Vegas today."
@@ -2790,6 +2797,7 @@
 "vegas.Selection2"		"<clr:84,255,159>赌徒：你需要些什么？"
 "[english]vegas.Selection2"		"<clr:84,255,159>Vegas: What do you want?"
 "wildcat.WolfeBestReply0"		"<clr:238,106,80>野猫：嘿哈！耶，好的，我们就看看现在谁最厉害！"
+//Wildcat
 "[english]wildcat.WolfeBestReply0"		"<clr:238,106,80>Wildcat: Heha! Yeah, well, We'll see who's the best now!"
 "wildcat.WolfeBestReply1"		"<clr:238,106,80>野猫：耶，但我也有我自己的技巧。"
 "[english]wildcat.WolfeBestReply1"		"<clr:238,106,80>Wildcat: Yeah, but I've got some tricks of my own."
@@ -3138,6 +3146,7 @@
 "wildcat.Grenade1"		"<clr:238,106,80>野猫：注意。"
 "[english]wildcat.Grenade1"		"<clr:238,106,80>Wildcat: Watch out."
 "wolfe.WolfeBest0"		"<clr:154,205,50>恶狼：你没机会的，因为我教了你一切。"
+//Wolfe
 "[english]wolfe.WolfeBest0"		"<clr:154,205,50>Wolfe: You got no chance, I taught you everything."
 "wolfe.WolfeBest1"		"<clr:154,205,50>恶狼：你没机会的，还记得我所教你的一切吗。"
 "[english]wolfe.WolfeBest1"		"<clr:154,205,50>Wolfe: You got no chance, remember I taught you everything."
@@ -3736,6 +3745,7 @@
 "wolfe.Selection2"		"<clr:154,205,50>恶狼：长官。"
 "[english]wolfe.Selection2"		"<clr:154,205,50>Wolfe: Sir."
 "ASWComputer.Startup"		"<clr:238,0,0>基地电脑：新特超级集团。"
+//BASE COMPUTER
 "[english]ASWComputer.Startup"		"<clr:238,0,0>BASE COMPUTER: SynTek Megacorporation."
 "ASWComputer.AccessDenied"		"<clr:238,0,0>基地电脑：拒绝访问。"
 "[english]ASWComputer.AccessDenied"		"<clr:238,0,0>BASE COMPUTER: Access Denied."
@@ -3788,6 +3798,7 @@
 "ASWCountdown.Countdown10"		"<clr:238,0,0>基地电脑：距离核爆炸还有 10 秒。"
 "[english]ASWCountdown.Countdown10"		"<clr:238,0,0>BASE COMPUTER: Nuclear detonation in 10 seconds."
 "Duval.01_02"		"<clr:179,203,207><B>教授 杜瓦：<B> 查理小队，我是朱莉·杜瓦。你飞船的雷达热源信号，追踪到了多个从屋顶和管道进出的信号。虽然这些读数显示这是很奇怪的......人，进一步分析缺乏细节。"
+//NAM HUMANUM
 "[english]Duval.01_02"		"<clr:179,203,207><B>Prof. Duval:<B> Charlie, Julie Duval here. Thermals from your shuttle's radar are tracking multiple signals in and out the installation's roofs and ducts. Though these readouts are oddly...human, for lack of details."
 "Duval.01_03"		"<clr:179,203,207><B>教授 杜瓦：<B> 他们的形态只是......不对。这个标本..."
 "[english]Duval.01_03"		"<clr:179,203,207><B>Prof. Duval:<B> Their morphologies are just...not right. This specimen…"
@@ -3884,6 +3895,7 @@
 "Vesta.03_11"		"<clr:234,217,245><B>？？？：<B> 维斯塔...还活着。"
 "[english]Vesta.03_11"		"<clr:234,217,245><B>???:<B> Vesta...lives."
 "Amber.01_01"		"<clr:255,0,0><B>琥珀警告：<B><clr:158,143,39> 天线通信故障。"
+// ACCIDENT 32
 "[english]Amber.01_01"		"<clr:255,0,0><B>AMBER Warning:<B><clr:158,143,39> Antenna Communication Failure."
 "Amber.01_02"		"<clr:255,0,0><B>琥珀警告：<B><clr:158,143,39> 二级反应堆冷却剂启动。"
 "[english]Amber.01_02"		"<clr:255,0,0><B>AMBER Warning:<B><clr:158,143,39> Secondary Reactor Coolant Activated."

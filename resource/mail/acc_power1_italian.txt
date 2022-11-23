@@ -1,12 +1,12 @@
 GAME
 {
-	// Sent
+// Sent
 
-	"MailFrom1"	"A: Jacob Stankiewich"
-	"MailDate1"	"Data: 01/04/31"
-	"MailSubject1"	"Soggetto: Re: Informazioni da Retller &HIDDEN"
-	"MailBody1A"	"Sì, il signor Retller mi aveva già parlato dell'epidemia, notizie spaventose. In realtà ho visto dei piccoli insetti nel condotto di ventilazione ultimamente, ma essendo il duro che sono, ho gestito la situazione da solo."
-	"MailBody1B"	"Dobbiamo informarne il primo piano, ma è più facile a dirsi che a farsi. Potrebbero volerci un paio di mesi, o forse anni. Siamo usati da queste schifose persone ad AMBER, non possiamo farci niente, ci ucciderebbero. Maledetti bastardi, sembra una prigione. Per ora comportati come se non sapessi niente."
-	"MailBody1C"	"P.S: Hai scoperto il motivo dell'improvviso aumento della temperatura al Nucleo 2B? Penso che potrebbero essere gli insetti. Se dovesse succedere di nuovo saremo costretti a chiudere il Reattore, il che significa che il Settore Sotterraneo sarà fottuto."
-	"MailBody1D"	"Nate"
+"MailFrom1"	"A: Jacob Stankiewich"
+"MailDate1"	"Data: 01/04/31"
+"MailSubject1"	"Soggetto: Re: Informazioni da Retller &HIDDEN"
+"MailBody1A"	"Sì, il signor Retller mi aveva già parlato dell'epidemia, notizie spaventose. In realtà ho visto dei piccoli insetti nel condotto di ventilazione ultimamente, ma essendo il duro che sono, ho gestito la situazione da solo."
+"MailBody1B"	"Dobbiamo informarne il primo piano, ma è più facile a dirsi che a farsi. Potrebbero volerci un paio di mesi, o forse anni. Siamo usati da queste schifose persone ad AMBER, non possiamo farci niente, ci ucciderebbero. Maledetti bastardi, sembra una prigione. Per ora comportati come se non sapessi niente."
+"MailBody1C"	"P.S: Hai scoperto il motivo dell'improvviso aumento della temperatura al Nucleo 2B? Penso che potrebbero essere gli insetti. Se dovesse succedere di nuovo saremo costretti a chiudere il Reattore, il che significa che il Settore Sotterraneo sarà fottuto."
+"MailBody1D"	"Nate"
 }

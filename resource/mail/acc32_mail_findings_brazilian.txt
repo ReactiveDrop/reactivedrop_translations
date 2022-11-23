@@ -1,11 +1,11 @@
 GAME
 {
-	// Inbox
+// Inbox
 
-	"MailFrom1"	"De: Notícias da Operação [Kyle]"
-	"MailDate1"	"Data: 22/11/32"
-	"MailSubject1"	"Assunto: Algumas Informações dos Bastidores"
-	"MailBody1A"	"Olá, hoje a empresa de mineração Tio Rinto nos enviou alguns de seus registros do que parece ser uma rocha semelhante. Eles encontraram uma rocha semelhante há 43 anos em suas expedições de mineração."
-	"MailBody1B"	"Eles não têm muitos dados sobre, mas o pouco que têm é chocante - a rocha se torna muito mais radioativa em temperaturas elevadas. Os laboratórios contendo uma grande amostra estão isolados há um mês sem exposição ao ar externo. Como o telhado é feito principalmente de metal, ele esquentou e o interior do laboratório agora está ficando cada vez mais quente. Temos que tomar medidas e evitar isso."
-	"MailBody1C"	"Kyle"
+"MailFrom1"	"De: Notícias da Operação [Kyle]"
+"MailDate1"	"Data: 22/11/32"
+"MailSubject1"	"Assunto: Algumas Informações dos Bastidores"
+"MailBody1A"	"Olá, hoje a empresa de mineração Tio Rinto nos enviou alguns de seus registros do que parece ser uma rocha semelhante. Eles encontraram uma rocha semelhante há 43 anos em suas expedições de mineração."
+"MailBody1B"	"Eles não têm muitos dados sobre, mas o pouco que têm é chocante - a rocha se torna muito mais radioativa em temperaturas elevadas. Os laboratórios contendo uma grande amostra estão isolados há um mês sem exposição ao ar externo. Como o telhado é feito principalmente de metal, ele esquentou e o interior do laboratório agora está ficando cada vez mais quente. Temos que tomar medidas e evitar isso."
+"MailBody1C"	"Kyle"
 }

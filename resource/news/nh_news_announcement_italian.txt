@@ -1,9 +1,9 @@
 GAME
 {
-	"Headline"	"[ANNUNCIO PUBBLICO] Procedura di coprifuoco"
-	"HeadlineDate"	"07/05/42"
-	"Paragraph1"	"Cittadini di Lugdunum,"
-	"Paragraph2"	"La procedura di emergenza n. 03-41 è stata implementata per l'intera installazione coloniale con effetto immediato. Sotto l'astuta supervisione del dottor Jacques Moreau, il Consiglio di amministrazione vi chiede cortesemente di mantenere la calma. Vi preghiamo di apprezzare in queste parole una responsabilità pubblica di ottemperanza alle richieste dei vostri custodi, aggravata dalla stretta necessità per ogni cantone di rispettare il coprifuoco, imposto al di fuori degli orari di lavoro tra le ore 1700-0900 del quadrante terrestre."
-	"Paragraph3"	"Compagni e colleghi, consigliamo vivamente di non cedere all'isteria di massa in risposta ai recenti eventi. Per garantire un rapido rimedio a qualsiasi vuoto che potreste sopportare e la vostra sicurezza personale, siamo lieti di informarvi che abbiamo messo il capitano Arthur Carradine, il cui dovere è stato verso la nostra sicurezza collettiva per gli ultimi 3 anni, in addebito diretto delle ricerche in corso."
-	"Paragraph4"	"Per Lugdunum, Scienza e Umanità, conserviamo tutti la tranquillità tra le nostre mura. Nam Humanum."
+"Headline"	"[ANNUNCIO PUBBLICO] Procedura di coprifuoco"
+"HeadlineDate"	"07/05/42"
+"Paragraph1"	"Cittadini di Lugdunum,"
+"Paragraph2"	"La procedura di emergenza n. 03-41 è stata implementata per l'intera installazione coloniale con effetto immediato. Sotto l'astuta supervisione del dottor Jacques Moreau, il Consiglio di amministrazione vi chiede cortesemente di mantenere la calma. Vi preghiamo di apprezzare in queste parole una responsabilità pubblica di ottemperanza alle richieste dei vostri custodi, aggravata dalla stretta necessità per ogni cantone di rispettare il coprifuoco, imposto al di fuori degli orari di lavoro tra le ore 1700-0900 del quadrante terrestre."
+"Paragraph3"	"Compagni e colleghi, consigliamo vivamente di non cedere all'isteria di massa in risposta ai recenti eventi. Per garantire un rapido rimedio a qualsiasi vuoto che potreste sopportare e la vostra sicurezza personale, siamo lieti di informarvi che abbiamo messo il capitano Arthur Carradine, il cui dovere è stato verso la nostra sicurezza collettiva per gli ultimi 3 anni, in addebito diretto delle ricerche in corso."
+"Paragraph4"	"Per Lugdunum, Scienza e Umanità, conserviamo tutti la tranquillità tra le nostre mura. Nam Humanum."
 }

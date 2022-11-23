@@ -1,14 +1,14 @@
 ﻿GAME
 {
-	// PDA belongs to Brad Campbell
+// PDA belongs to Brad Campbell
 
-	// Inbox
+// Inbox
 
-	"MailFrom1"	"差出人: デイヴィッド・アンダース"
-	"MailDate1"	"送信日時: 52年12月12日"
-	"MailSubject1"	"件名: 起爆コード"
-	"MailBody1A"	"ブラッドへ、"
-	"MailBody1B"	"コバックと俺で橋に爆薬を設置した。 起爆コードは0951だ。部下達に注意するように言っておくんだ。"
-	"MailBody1C"	"幸運を祈る。 これに全てがかかってるんだからな。"
-	"MailBody1D"	"デイヴより"
+"MailFrom1"	"差出人: デイヴィッド・アンダース"
+"MailDate1"	"送信日時: 52年12月12日"
+"MailSubject1"	"件名: 起爆コード"
+"MailBody1A"	"ブラッドへ、"
+"MailBody1B"	"コバックと俺で橋に爆薬を設置した。 起爆コードは0951だ。部下達に注意するように言っておくんだ。"
+"MailBody1C"	"幸運を祈る。 これに全てがかかってるんだからな。"
+"MailBody1D"	"デイヴより"
 }

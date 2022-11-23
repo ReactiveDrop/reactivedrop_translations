@@ -1,14 +1,14 @@
 ﻿GAME
 {
-	// PDA belongs to Private First Class Thibaut Holbert
+// PDA belongs to Private First Class Thibaut Holbert
 
-	// Sent
+// Sent
 
-	"MailFrom3"	"宛先: アーサー・キャラダイン大佐"
-	"MailDate3"	"送信日時: 43年3月31日"
-	"MailSubject3"	"件名: 応援はやく"
-	"MailBody3A"	"たいさへ"
-	"MailBody3B"	"モンスターあちこちはいまわってます。カントン5の部隊は全滅"
-	"MailBody3C"	"司令官死亡。電源切れた。明かりなし"
-	"MailBody3D"	"今すぐ応援ください。ヤツらがなかに"
+"MailFrom3"	"宛先: アーサー・キャラダイン大佐"
+"MailDate3"	"送信日時: 43年3月31日"
+"MailSubject3"	"件名: 応援はやく"
+"MailBody3A"	"たいさへ"
+"MailBody3B"	"モンスターあちこちはいまわってます。カントン5の部隊は全滅"
+"MailBody3C"	"司令官死亡。電源切れた。明かりなし"
+"MailBody3D"	"今すぐ応援ください。ヤツらがなかに"
 }

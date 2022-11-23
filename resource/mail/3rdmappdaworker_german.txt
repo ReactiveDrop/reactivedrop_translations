@@ -1,19 +1,19 @@
 GAME
 {
-	// PDA belongs to Naka
+// PDA belongs to Naka
 
-	// Inbox
+// Inbox
 
-	"MailFrom1"	"Von: Kommandant"
-	"MailDate1"	"Datum: 09/25/63"
-	"MailSubject1"	"Betreff: Anweisung"
-	"MailBody1A"	"Lass alles stehen und liegen und geh zurück in den Konferenzraum."
+"MailFrom1"	"Von: Kommandant"
+"MailDate1"	"Datum: 09/25/63"
+"MailSubject1"	"Betreff: Anweisung"
+"MailBody1A"	"Lass alles stehen und liegen und geh zurück in den Konferenzraum."
 
-	// Sent
+// Sent
 
-	"MailFrom3"	"An: Kommandant"
-	"MailDate3"	"Datum: 09/25/63"
-	"MailSubject3"	"Betreff: Phase 3a abgeschlossen"
-	"MailBody3A"	"Käfige mit experimentellen Außerirdischen sind vor Ort. Schade, dass sich die Unsichtbaren nicht fortpflanzen können"
-	"MailBody3B"	"Sie sollten bald aufwachen... Die Soldaten haben keine Chance gegen sie."
+"MailFrom3"	"An: Kommandant"
+"MailDate3"	"Datum: 09/25/63"
+"MailSubject3"	"Betreff: Phase 3a abgeschlossen"
+"MailBody3A"	"Käfige mit experimentellen Außerirdischen sind vor Ort. Schade, dass sich die Unsichtbaren nicht fortpflanzen können"
+"MailBody3B"	"Sie sollten bald aufwachen... Die Soldaten haben keine Chance gegen sie."
 }

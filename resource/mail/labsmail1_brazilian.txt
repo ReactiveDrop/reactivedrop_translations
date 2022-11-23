@@ -1,14 +1,14 @@
 GAME
 {
-	// PDA belongs to Helen Young
+// PDA belongs to Helen Young
 
-	// Inbox
+// Inbox
 
-	"MailFrom1"	"De: Shaun Ming"
-	"MailDate1"	"Data: 22/12/52"
-	"MailSubject1"	"Assunto: Progresso"
-	"MailBody1A"	"Querida Helen,"
-	"MailBody1B"	"Estou à beira de uma das maiores descobertas dos últimos 200 anos. Estive analisando o código genético dessas amostras orgânicas que encontramos. Os dados que reuni suportam minha teoria de como a forma de vida alienígena é capaz de crescer e se reproduzir tão rapidamente. Acredito que o catalisador para a rápida geração de tecidos é a carne quente e viva!"
-	"MailBody1C"	"Eu gostaria que você estivesse aqui para ver isso. Eu sei que você iria apreciar. Vou tentar obter autorização da SynTek para os laboratórios. Vejo você em breve."
-	"MailBody1D"	"Shaun"
+"MailFrom1"	"De: Shaun Ming"
+"MailDate1"	"Data: 22/12/52"
+"MailSubject1"	"Assunto: Progresso"
+"MailBody1A"	"Querida Helen,"
+"MailBody1B"	"Estou à beira de uma das maiores descobertas dos últimos 200 anos. Estive analisando o código genético dessas amostras orgânicas que encontramos. Os dados que reuni suportam minha teoria de como a forma de vida alienígena é capaz de crescer e se reproduzir tão rapidamente. Acredito que o catalisador para a rápida geração de tecidos é a carne quente e viva!"
+"MailBody1C"	"Eu gostaria que você estivesse aqui para ver isso. Eu sei que você iria apreciar. Vou tentar obter autorização da SynTek para os laboratórios. Vejo você em breve."
+"MailBody1D"	"Shaun"
 }

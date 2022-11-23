@@ -1,29 +1,29 @@
 GAME
 {
-	// PDA belongs to Dr. Kennett
+// PDA belongs to Dr. Kennett
 
-	// Inbox
+// Inbox
 
-	"MailFrom1"	"From: Dr. Lily Gilmore"
-	"MailDate1"	"Date: 03/17/46"
-	"MailSubject1"	"Subject: The brave head of security"
-	"MailBody1A"	"Kennett!"
-	"MailBody1B"	"The experiments have gotten past the security team!"
-	"MailBody1C"	"The head of security is trying to escape via the teleporter. Running from his own turf. Pathetic. Where does he even plan on going?"
-	"MailBody1D"	"We need to do something, and we need to do it fast."
+"MailFrom1"	"From: Dr. Lily Gilmore"
+"MailDate1"	"Date: 03/17/46"
+"MailSubject1"	"Subject: The brave head of security"
+"MailBody1A"	"Kennett!"
+"MailBody1B"	"The experiments have gotten past the security team!"
+"MailBody1C"	"The head of security is trying to escape via the teleporter. Running from his own turf. Pathetic. Where does he even plan on going?"
+"MailBody1D"	"We need to do something, and we need to do it fast."
 
-	"MailFrom2"	"From: Dr. Lily Gilmore"
-	"MailDate2"	"Date: 03/17/46"
-	"MailSubject2"	"Subject: ???"
-	"MailBody2A"	"Why won't you answer me?!"
+"MailFrom2"	"From: Dr. Lily Gilmore"
+"MailDate2"	"Date: 03/17/46"
+"MailSubject2"	"Subject: ???"
+"MailBody2A"	"Why won't you answer me?!"
 
-	// Sent
+// Sent
 
-	"MailFrom3"	"To: Dr. Lily Gilmore"
-	"MailDate3"	"Date: 03/17/46"
-	"MailSubject3"	"Subject: Help!"
-	"MailBody3A"	"Lily!"
-	"MailBody3B"	"The experiments are everywhere!"
-	"MailBody3C"	"I hid in one of the storage rooms before the power went out; now I'm trapped. I just hope those damn experiments can't get in here."
-	"MailBody3D"	"All it any more has no sense. It is necessary to get out from here, and a complex to destroy."
+"MailFrom3"	"To: Dr. Lily Gilmore"
+"MailDate3"	"Date: 03/17/46"
+"MailSubject3"	"Subject: Help!"
+"MailBody3A"	"Lily!"
+"MailBody3B"	"The experiments are everywhere!"
+"MailBody3C"	"I hid in one of the storage rooms before the power went out; now I'm trapped. I just hope those damn experiments can't get in here."
+"MailBody3D"	"All it any more has no sense. It is necessary to get out from here, and a complex to destroy."
 }

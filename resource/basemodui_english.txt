@@ -1,6 +1,6 @@
 ﻿"lang" 
 { 
-"Language"	"English" 
+"Language"	"english" 
 "Tokens" 
 { 
 "L4D360UI_AudioVideo"	"Audio/Video"
@@ -269,10 +269,10 @@
 "L4D360UI_ShowUnlockableAwards"	"Display Avatar Awards"
 "L4D360UI_ShowAchievements"	"Display Achievements"
 
-//Attract Screen/////////////////////////////////////////////////////////////////////////////////////////////////
+//Attract Screen
 "L4D360UI_Attract_PressStart"	"PRESS START"
 
-//Sign In Screen/////////////////////////////////////////////////////////////////////////////////////////////////
+//Sign In Screen
 "L4D360UI_SignIn_Title"	" Welcome, %s1"
 "L4D360UI_SignIn_TitleNo"	" Welcome"
 "L4D360UI_SignIn_Messege"	"Sign in to your Xbox LIVE gamer profile."
@@ -283,7 +283,7 @@
 "L4D360UI_SignIn_PlayAsGuest"	"PLAY WITHOUT GAMER PROFILE"
 "L4D360UI_SignIn_CancelSignIn"	"Cancel"
 
-//Main Menu//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+//Main Menu
 "L4D360UI_MainMenu_CoOp"	"PLAY ONLINE"
 "L4D360UI_MainMenu_Holdout"	"PLAY HOLDOUT"
 "L4D360UI_MainMenu_Solo"	"OFFLINE PRACTICE"
@@ -317,7 +317,7 @@
 "L4D360UI_MainMenu_PlaySplitscreen"	"PLAY OFFLINE CO-OP"
 
 "L4D360UI_MainMenu_PlayTeamVersus"	"Play Team Versus"
-"L4D360UI_MainMenu_PlayTeamScavenge"	"Play Team Game"	// TODO: Change to real name
+"L4D360UI_MainMenu_PlayTeamScavenge"	"Play Team Game"
 
 "L4D360UI_MainMenu_PlayTeam_Tip"	"Make a team with your friends to play against another team."
 "L4D360UI_MainMenu_PlayTeam_Tip_Disabled"	"You must be signed in to Xbox LIVE with multiplayer privileges to play online."
@@ -380,7 +380,7 @@
 
 "L4D360UI_Character_Guest"	"Player"
 
-//In Game Main Menu//////////////////////////////////////////////////////////////////////////////////////////////
+//In Game Main Menu
 "L4D360UI_InGameMainMenu_ReturnToGame"	"RETURN TO GAME"
 "L4D360UI_InGameMainMenu_ReturnToGame_Tip"	"Leave this menu and continue playing."
 "L4D360UI_InGameMainMenu_GoIdle"	"TAKE A BREAK"
@@ -396,12 +396,12 @@
 "L4D360UI_InGameMainMenu_ExitToMainMenu"	"EXIT TO MAIN MENU"
 "L4D360UI_InGameMainMenu_ExitToMainMenu_Tip"	"Leave this game."
 
-// Vote menu //////////////////////////////////////////////////////////////////////////////////////////////
+// Vote menu
 "L4D360UI_VoteMenu_YesBinding"	"Yes: START"
 "L4D360UI_VoteMenu_NoBinding"	"No: BACK"
 
 
-// Invite UI options /////////////////////////////////////////////////////////////////////////
+// Invite UI options
 "L4D360UI_InviteUIOptions"	"ONLINE MULTIPLAYER"
 "L4D360UI_InviteUIOptions_Tip"	"Change voice chat channel or send game invites."
 "L4D360UI_InviteUIOptions_Tip_Disabled"	""
@@ -434,7 +434,7 @@
 "L4D360UI_InviteUI_gamevoiceui_Tip"	"Switch to game voice chat channel."
 "L4D360UI_InviteUI_gamevoiceui_Tip_Disabled"	""
 
-//Game Lobby Screen /////////////////////////////////////////////////////////////////////////
+//Game Lobby Screen
 "L4D360UI_Lobby_EmptySlotAd"	"Player Slot Available"
 "L4D360UI_Lobby_SplitSlotAd"	"Player Two, Sign in for Splitscreen"
 
@@ -572,7 +572,7 @@
 "L4D360UI_Lobby_Player_Joined"	"%s1 joined."
 "L4D360UI_Lobby_Player_Left"	"%s1 left."
 
-//Player Access screen///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+//Player Access screen
 "L4D360UI_GameAccess"	"Game Access"
 "L4D360UI_Access_Description"	"Specify a group of people you would like to play with."
 "L4D360UI_Access_Public"	"Public Game"
@@ -587,16 +587,16 @@
 "L4D360UI_Access_Tooltip_LAN"	"Play with people connected via LAN."
 "L4D360UI_Access_Tooltip_Invite"	"Invite specific people to your game."
 
-//Server type screen///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+//Server type screen
 "L4D360UI_ServerType_Official"	"Official Dedicated"
 "L4D360UI_ServerType_Dedicated"	"Best Available Dedicated"
 "L4D360UI_ServerType_Listen"	"Local Server"
 
-//Audio Video////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+//Audio Video
 "L4D360UI_AudioVideo_Title"	"AUDIO/VIDEO OPTIONS"
 "L4D360UI_AudioVideo_Desc"	"Find your optimal settings based on your hardware and preferences."
 
-//Audio Options//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+//Audio Options
 "L4D360UI_AudioOptions_Volume"	"MASTER VOLUME"
 "L4D360UI_AudioOptions_Tooltip_Volume"	"Adjust the volume of the game."
 "L4D360UI_AudioOptions_MusicVolume"	"MUSIC VOLUME"
@@ -623,7 +623,7 @@
 "L4D360UI_AudioOptions_Tooltip_Volume_Disabled"	"Adjusting the volume is currently disabled."
 
 
-//Video Options//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+//Video Options
 "L4D360UI_VideoOptions_Brightness"	"BRIGHTNESS"
 "L4D360UI_VideoOptions_Tooltip_Brightness"	"Gamma-correct your screen."
 "L4D360UI_VideoOptions_ColorMode"	"COLOR MODE"
@@ -667,7 +667,7 @@
 "L4D360UI_DropDownGore_Low_Tooltip_Disabled"	"Gore modification not available."
 
 
-//Multiplayer Options//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+//Multiplayer Options
 "L4D360UI_Multiplayer_Desc"	"Configure settings and preferences for multiplayer gaming."
 "L4D360UI_Multiplayer_AllowCustomContent"	"Custom Server Content"
 "L4D360UI_Multiplayer_AllowCustomContent_All"	"Allow All"
@@ -685,7 +685,7 @@
 "L4D360UI_Multiplayer_Cutsom_Logo"	"Custom Logo"
 "L4D360UI_DownloadFilter_Title"	"Filter the files that a game server with custom content can download to your computer."
 
-//Cloud Options//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+//Cloud Options
 "L4D360UI_Cloud_Title"	"Steam Cloud"
 "L4D360UI_Cloud_Subtitle"	"The Steam Cloud stores information so your gameplay experience is consistent across PCs."
 "L4D360UI_Cloud_KeepInSync"	"Sync With Steam Cloud"
@@ -704,7 +704,7 @@
 "L4D360UI_SteamOverlay_Title"	"Steam Community In-Game"
 "L4D360UI_SteamOverlay_Text"	"This feature requires Steam Community In-Game to be enabled.\n\nYou might need to restart the game after you enable this feature in Steam:\nSteam -> File -> Settings -> In-Game: Enable Steam Community In-Game\n"
 
-//Add-on Assocation Options//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+//Add-on Assocation Options
 "L4D360UI_AddonAssociation_Title"	"Automatic Add-on Installation"
 "L4D360UI_AddonAssociation_Subtitle"	"Alien Swarm would like to associate with files using the .vpk extension. This allows easier installation of add-ons by allowing you to double click on them. Do you wish to allow this?"
 "L4D360UI_AddonAssociation_DoNotAsk_Tip"	"Never ask this again"
@@ -718,7 +718,7 @@
 "L4D360UI_ADDON_SUPPORT_INSTALL"	"INSTALL ADD-ON SUPPORT"
 "L4D360UI_ADDON_SUPPORT_INSTALLING"	"INSTALLING ADD-ON SUPPORT..."
 "L4D360UI_ADDON_SUPPORT_INSTALLING_DETAILS"	"Check download progress in the Steam Tools tab."
-//Add-on Legacy Data Download Options//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+//Add-on Legacy Data Download Options
 "L4D360UI_GetLegacyData_Title"	"Download Add-on Support Data"
 "L4D360UI_GetLegacyData_Subtitle"	"Alien Swarm would like to download additional game data that many add-ons require to work properly. It can also be installed from the Tools tab in Steam.\n\nDo you wish to install this additional game data now?"
 "L4D360UI_GetLegacyData_Installing"	"Alien Swarm Add-on Support has not yet finished installing.\n\nPlease wait until the installation is complete and restart the game before attempting to run any add-ons."
@@ -727,7 +727,7 @@
 "L4D360UI_GetLegacyData_No"	"No"
 "L4D360UI_GetLegacyData_OK"	"OK"
 
-//Download Campaign Options//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+//Download Campaign Options
 "L4D360UI_DownloadCampaign_Title"	"Download Campaign AddOn"
 "L4D360UI_DownloadCampaign_Subtitle"	"Download a custom third party campaign."
 "L4D360UI_DownloadCampaign_Campaign"	"%s1 by %s2"
@@ -737,15 +737,15 @@
 "L4D360UI_DownloadCampaign_Site"	"Click to continue to:"
 "L4D360UI_DownloadCampaign_Back"	"Back"
 
-//Visit Campaign Website Options/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+//Visit Campaign Website Options
 "L4D360UI_VisitCampaign_Title"	"Visit Campaign Add-on Website"
 "L4D360UI_VisitCampaign_Text"	"You are about to switch out of Alien Swarm and visit the website for a custom add-on."
 
-//Kicked for missing content//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+//Kicked for missing content
 "L4D360UI_Lobby_MissingContent"	"Downloadable Content Required"
 "L4D360UI_Lobby_MissingContent_Message"	"You were removed from the lobby because the host has selected a campaign that is not installed."
 
-//Extras//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+//Extras
 "L4D360UI_Extras_WatchMovie"	"Watch Intro Movie"
 "L4D360UI_Extras_Commentary"	"Developer Commentary"
 "L4D360UI_Extras_Credits"	"Credits"
@@ -761,14 +761,14 @@
 "L4D360UI_Extras_Addons"	"Add-ons"
 "L4D360UI_Extras_Addons_Tip"	"Enable and configure game add-ons downloaded to your computer"
 
-//Round Limit settings///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+//Round Limit settings
 "L4D360UI_RoundLimit"	"ROUND LIMIT"
 "L4D360UI_RoundLimit_Tip"	"Specify how many rounds you are willing to play."
 "L4D360UI_RoundLimit_1"	"Single Round"
 "L4D360UI_RoundLimit_3"	"Best of Three"
 "L4D360UI_RoundLimit_5"	"Best of Five"
 
-//Choose difficulty screen///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+//Choose difficulty screen
 "L4D360UI_ChooseDifficulty"	"Select Game Difficulty"
 "L4D360UI_Difficulty_Description"	"Specify the level of difficulty you are most comfortable with."
 "L4D360UI_Difficulty_Easy"	"Easy"
@@ -801,7 +801,7 @@
 "L4D360UI_Difficulty_Tooltip_Expert"	"Play this game in Expert mode (for the most challenging Survivor experience)."
 "L4D360UI_Difficulty_Tooltip_insane"	"Play this game in Expert mode (for the most challenging Survivor experience)."
 
-//Choose campaign screen/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+//Choose campaign screen
 "L4D360UI_ChooseCampaign"	"Select a Campaign"
 "L4D360UI_Campaign_Description"	"Specify which campaign you would like to play."
 "L4D360UI_Campaign_Any"	"Any Campaign"
@@ -809,12 +809,12 @@
 "L4D360UI_Campaign_Custom"	"AddOn Campaign..."
 "L4D360UI_Chapter_Only1Avail"	"No More Chapters"
 
-//Kick Player screen/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+//Kick Player screen
 "L4D360UI_KickPlayerList_Title"	"Select Player to Kick"
 "L4D360UI_KickPlayerList_Description"	"Choose the player you would like to kick."
 "L4D360UI_KickPlayerList_No_eligible_players"	"There are no players on your team who are eligible to be kicked."
 
-//Found Games screen/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+//Found Games screen
 "L4D360UI_Mode_campaign"	"Campaign"
 "L4D360UI_Mode_single_mission"	"Single Mission"
 "L4D360UI_Mode_offline_SP"	"Single Player"
@@ -835,7 +835,7 @@
 
 
 
-//Found Games screen/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+//Found Games screen
 "L4D360UI_FOUNDGAMES_ADDON_SUPPORT_REQUIRED"	"Add-on support is required to play third party campaigns."
 "L4D360UI_FoundGames_Friends"	"FRIENDS' GAMES FOUND"
 "L4D360UI_FoundGames_SystemLink"	"LAN GAMES FOUND"
@@ -971,7 +971,7 @@
 "L4D360UI_FoundPublicGames_Filter_Campaign_InstalledAddOn_Tip"	"Filter for games that are only using installed add-on campaigns."
 "L4D360UI_FoundPublicGames_Filter_Campaign_NotInstalledAddOn_Tip"	"Filter for games that are only using not installed add-on campaigns."
 
-//Controller Screen//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+//Controller Screen
 "L4D360UI_Controller_Title"	"CONTROLLER OPTIONS (%s1)"
 "L4D360UI_Controller_Buttons_Title"	"BUTTON LAYOUT (%s1)"
 "L4D360UI_Controller_Sticks_Title"	"STICK LAYOUT (%s1)"
@@ -1146,8 +1146,6 @@
 "L4D360UI_Installer_Loading"	"Loading..."
 "L4D360UI_Installer_QuitDemo"	"Quit Demo"
 
-/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-
 "GameUI_Icons_A_3DBUTTON"	"d"
 "GameUI_Icons_B_3DBUTTON"	"e"
 "GameUI_Icons_X_3DBUTTON"	"f"
@@ -1276,7 +1274,6 @@
 "L4D360UI_LeaveLobbyConfHostingLive_PC"	"You are currently the Lobby Leader."
 "L4D360UI_LeaveLobbyConfLive_PC"	"You are currently part of an online game lobby."
 
-//--------------------------------------------------------------------------------------------------------
 // Main Menu
 "L4D_video_tip"	"Configure video settings based on your system's abilities and requirements."
 "L4D_audio_tip"	"Configure audio settings based on your preferences and speakers."
@@ -1285,7 +1282,6 @@
 "L4D_steamcloud_tip"	"Store settings online so your gameplay experience is consistent across PCs."
 "L4D_steamcloud_disabled_tip"	"Steam Cloud is currently unavailable."
 
-//--------------------------------------------------------------------------------------------------------
 // Video Options
 "L4D_aspect_ratio_tip"	"Adjust the width and height of your display."
 "L4D_resolution_tip"	"Adjust the level of detail of your display."
@@ -1304,7 +1300,6 @@
 "L4D_model_texture_tip"	"Adjust the detail of models and textures in the game."
 "L4D_paged_pool_mem_tip"	"Configure your driver to allocate less or more memory."
 
-//--------------------------------------------------------------------------------------------------------
 // Audio Options
 "L4D_spkr_config_tip"	"Configure speaker layout and channels."
 "L4D_sound_qual_tip"	"Adjust sound quality."
@@ -1319,7 +1314,6 @@
 "L4D_mic_sens_tip"	"Microphone sensitivity when the open mic setting is enabled."
 "L4D_test_mic_tip"	"Test whether your microphone is functioning properly."
 
-//--------------------------------------------------------------------------------------------------------
 // Keyboard Options
 "L4D_edit_keys_tip"	"Choose your preferred keyboard, mouse, and gamepad button layout."
 "L4D_reverse_mouse_tip"	"Invert the directions of your mouse."
@@ -1334,7 +1328,6 @@
 "L4D_gamepad_aimtomovement_tip"	"When not using the aiming stick, use the movement stick for aiming."
 "L4D_gamepad_autoattack_tip"	"Automatically shoot while holding the aiming stick."
 
-//--------------------------------------------------------------------------------------------------------
 // Multiplayer Options
 "L4D_import_spray_tip"	"Import a new spray image to use in-game."
 "L4D_import_game_instruct"	"Enable or disable helpful real-time hints during gameplay."
@@ -1402,9 +1395,7 @@
 "L4D360UI_MsgBx_DisconnectedFromSessionDLCrequired"	"Downloadable Content Required"
 "L4D360UI_MsgBx_KickedFromSessionDLCrequired"	"The host has selected a campaign that is provided with the Survival Pack.\nWould you like to download Survival Pack content from Xbox LIVE Marketplace?"
 
-//
 // Addon campaigns
-//
 "L4D360UI_My_CustomCampaigns"	"ADDON CAMPAIGNS"
 "L4D360UI_My_CustomCampaigns_Desc"	"Choose an addon campaign."
 
@@ -1427,10 +1418,6 @@
 "L4D360UI_CustomCampaign_Select"	"SELECT"
 "L4D360UI_CustomCampaign_Select_Tooltip"	"Select this addon campaign."
 
-//
-//
-//
-
 "L4D360UI_ChapterSelect_Title"	"Change Chapter"
 "L4D360UI_ChapterSelect_Description"	"Select a chapter to propose a change chapter vote."
 "L4D360UI_ChapterSelect_Tip"	"Start a vote to change to the selected chapter."
@@ -1440,9 +1427,7 @@
 "L4D360UI_CampaignName_Unknown"	"Unknown Campaign"
 "L4D360UI_LevelName_Unknown"	"Unknown Chapter"
 
-//
 // Matchmaking strings
-//
 
 "Matchmaking_Creating"	"Creating game..."
 "Matchmaking_NoResultsCreating"	"Failed to join games matching your request.\nCreating a new public game..."
@@ -1487,9 +1472,7 @@
 "InviteError_SameConsole1"	"You cannot accept game invite from the same console.\nPlease, go to main menu to enable splitscreen."
 "InviteError_SameConsole2"	"You cannot accept game invite from the same console."
 
-//
 // Intro movie subtitles
-//
 
 "L4D_Credits_VoicesTitle"	"Voices:"
 "L4D_Credits_Additional_Voices"	"Additional Voices:"
@@ -1500,48 +1483,8 @@
 "L4D_Credits_AdditionalMusic"	"Additional Music by:"
 "L4D_Credits_FacesThanks"	"Thanks to the following for the use of their faces:"
 
-//
-// Title Update and DLC strings
-// For every TU that we release, we should modify the last string of this table
-// so that client could identify which TU the remote console is running,
-// e.g.: we will release a DLC and update on 2009/12/25
-//	then we need to modify the previous string 000000 to indicate the 12/25 update
-//	and we need to add a new string to indicate "latest" updates
-// "SessionError_TU_Required_00000000"	"The game you are trying to join hasn't been updated since December 25, 2009.\nUpdate for that game must be downloaded from Xbox LIVE."
-// "SessionError_TU_Required_20091225"	"The game you are trying to join doesn't have required updates installed.\nUpdate for that game must be downloaded from Xbox LIVE."
-//
-
 "L4D360UI_Not_Joinable_Mod"	"Playing Version: %s1"
 "L4D2360_JoinError_OtherTitle_Modded"	"Player is running a different version of Alien Swarm: Reactive Drop.\n"
-
-"L4D2360_FoundGames_DLC"	"Downloadable Content"
-"L4D2360_FoundGames_DLC_Msg"	"Please, download required content\nfrom Xbox LIVE Marketplace\n"
-
-"SessionError_TU_RequiredTitle"	"Incompatible Version"
-"SessionError_TU_RequiredMessage"	"The game you are trying to join requires you to have updates installed.\nPlease, download the latest update for the game from Xbox LIVE."
-// "SessionError_TU_Required_00000000"	"The game you are trying to join doesn't have required updates installed.\nUpdate for that game must be downloaded from Xbox LIVE."
-"SessionError_TU_Required_00000000"	"The game you are trying to join hasn't been updated since November 17, 2009.\nUpdate for that game must be downloaded from Xbox LIVE."
-"SessionError_TU_Required_20091117"	"The game you are trying to join doesn't have required updates installed.\nUpdate for that game must be downloaded from Xbox LIVE."
-
-"SessionError_DLC_RequiredTitle_0"	"Downloadable Content"
-"SessionError_DLC_RequiredKicked_0"	"You were kicked from the game because downloadable content was selected.\n"
-"SessionError_DLC_RequiredJoin_0"	"Game requires downloadable content.\n"
-"SessionError_DLC_RequiredMessage_0"	"Please, download content from Xbox LIVE Marketplace."
-"SessionError_DLC_RequiredOffer_0"	"Would you like to download content from Xbox LIVE Marketplace now?"
-
-// DLC strings:
-// "SessionError_DLC_RequiredTitle_1"	"Miracle Pack"
-// "SessionError_DLC_RequiredKicked_1"	"You were kicked from the lobby because downloadable content was selected.\n"
-// "SessionError_DLC_RequiredJoin_1"	"Game requires downloadable content provided with Miracle Pack.\n"
-// "SessionError_DLC_RequiredMessage_1"	"Please, download Miracle Pack content from Xbox LIVE Marketplace."
-// "SessionError_DLC_RequiredOffer_1"	"Would you like to download Survival Pack 1 content from Xbox LIVE Marketplace now?"
-// 
-// "SessionError_DLC_RequiredTitle_2"	"Apocalyptic Pack"
-// "SessionError_DLC_RequiredKicked_2"	"You were kicked from the lobby because downloadable content was selected.\n"
-// "SessionError_DLC_RequiredJoin_2"	"Game requires downloadable content provided with Apocalyptic Pack.\n"
-// "SessionError_DLC_RequiredMessage_2"	"Please, download Apocalyptic Pack content from Xbox LIVE Marketplace."
-// "SessionError_DLC_RequiredOffer_2"	"Would you like to download Apocalyptic Pack content from Xbox LIVE Marketplace now?"
-// End of DLC strings
 
 "ASUI_GameType"	"GAME TYPE"
 "ASUI_GameType_tt"	"Select the type of game to play."
@@ -1610,10 +1553,7 @@
 "L4D360UI_FoundPublicGames_Filter_Distance_Far"	"Far"
 "L4D360UI_FoundPublicGames_Filter_Distance_Worldwide"	"Galaxy"
 
-
-//
 // Reactive Drop strings
-//
 
 "RDUI_SteamOverlay_Title"	"Steam Overlay In-Game"
 "RDUI_SteamOverlay_Text"	"This feature requires Steam Overlay In-Game to be enabled.\nYou might need to restart the game after you enable this feature in Steam:\nSteam -> Library -> Right-click on Alien Swarm: Reactive Drop -> Properties... -> Enable the Steam Overlay while in-game\n"

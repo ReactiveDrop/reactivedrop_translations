@@ -1,22 +1,22 @@
 GAME
 {
-	// Computer belongs to Dr. Jacques Moreau
+// Computer belongs to Dr. Jacques Moreau
 
-	// Sent
+// Sent
 
-	"MailFrom3"	"To: Personal database"
-	"MailDate3"	"Date: 05/24/42"
-	"MailSubject3"	"Subject: Something else"
-	"MailBody3A"	"It speaks to me. Their hive mind, or whatever one may baptize an entity so unknown. I’ve decided to refer to it as a ‘her’. Vesta."
-	"MailBody3B"	"The process by which she addresses herself to me feels wholly alien. It is...strange, erratic, as if a new sense is borrowed to me for split seconds only to disappear again in an abyss of silence. But from this void, I know it to be true, had reached a voice. An oddly comprehensive series of sounds that I can never fully recall after hearing it. This voice... It reminds me of someone I’ve lost."
-	"MailBody3C"	"I have made attempts in engaging with Vesta of my own volition. I have tried talking to her, making her understand who or what we are. I am aware of how ludicrous this might sound...but I asked for guidance. I want to reach her, show her that nothing is to fear from us. We are but fragile shells of decaying tissue and mind, and she may or may not lead to everything we...I, hoped for."
-	"MailBody3D"	"She needs only bodies."
+"MailFrom3"	"To: Personal database"
+"MailDate3"	"Date: 05/24/42"
+"MailSubject3"	"Subject: Something else"
+"MailBody3A"	"It speaks to me. Their hive mind, or whatever one may baptize an entity so unknown. I’ve decided to refer to it as a ‘her’. Vesta."
+"MailBody3B"	"The process by which she addresses herself to me feels wholly alien. It is...strange, erratic, as if a new sense is borrowed to me for split seconds only to disappear again in an abyss of silence. But from this void, I know it to be true, had reached a voice. An oddly comprehensive series of sounds that I can never fully recall after hearing it. This voice... It reminds me of someone I’ve lost."
+"MailBody3C"	"I have made attempts in engaging with Vesta of my own volition. I have tried talking to her, making her understand who or what we are. I am aware of how ludicrous this might sound...but I asked for guidance. I want to reach her, show her that nothing is to fear from us. We are but fragile shells of decaying tissue and mind, and she may or may not lead to everything we...I, hoped for."
+"MailBody3D"	"She needs only bodies."
 
-	"MailFrom4"	"To: Helen Moreau"
-	"MailDate4"	"Date: 06/15/42"
-	"MailSubject4"	"Subject: N/A"
-	"MailBody4A"	"So, here I am. Confessing to a ghost. To be perfectly honest, I am unsure how much time has passed since your illness. Although, the time when your flowery perfume repressed the suffocation of our laboratory does not feel so far."
-	"MailBody4B"	"Where this road leads, Helen, I wonder. This mission which was all about the advancement of our species, humanity as a ‘one and whole’. Then everyone soon hoped for me to give answers to all things, the substance of which I was improvising more and more as days went by. And now, the burden of responsibility for such an exceptional discovery, lies solely on me. I, a single part of two minds, must draw answers as to the existence of a new life among us... Vesta...Helen. If only you were here. You were my fulcrum, the piece that gave me balance. The voice that guided me as I walked blindly on a mind’s thread of my own sewing. But that piece got dislodged the day your eyes closed."
-	"MailBody4C"	"So I took matters into my own hands, the way I saw fit. I refuse to play into SynTek or anyone’s hands. When I realized that within this discovery could be contained even the tiniest chance in propelling our understanding of cancerous cells and their connection to human physiology, I went and killed every doubt I harbored. As a scientist, what calling is mine if not precisely that? Should I have renounced this opportunity for real progress and given it to them? Entrust such a discovery to a lobby of corporate rats dressed in immaculate coats so they could, somehow, morph it into a profit so ludicrous that it’d be obnoxiously warped to be sold to the powerful, conceded at a price none but the wealthiest from the Cores could ever hope to spare? Or, let them do worse with it...and for what? So that countless others may again lose wives, husbands, brothers and sisters, sons and daughters to one of the most dreadful, intolerable diseases of Human history?"
-	"MailBody4D"	"No. I’ve made my choice. Let them all call me mad."
+"MailFrom4"	"To: Helen Moreau"
+"MailDate4"	"Date: 06/15/42"
+"MailSubject4"	"Subject: N/A"
+"MailBody4A"	"So, here I am. Confessing to a ghost. To be perfectly honest, I am unsure how much time has passed since your illness. Although, the time when your flowery perfume repressed the suffocation of our laboratory does not feel so far."
+"MailBody4B"	"Where this road leads, Helen, I wonder. This mission which was all about the advancement of our species, humanity as a ‘one and whole’. Then everyone soon hoped for me to give answers to all things, the substance of which I was improvising more and more as days went by. And now, the burden of responsibility for such an exceptional discovery, lies solely on me. I, a single part of two minds, must draw answers as to the existence of a new life among us... Vesta...Helen. If only you were here. You were my fulcrum, the piece that gave me balance. The voice that guided me as I walked blindly on a mind’s thread of my own sewing. But that piece got dislodged the day your eyes closed."
+"MailBody4C"	"So I took matters into my own hands, the way I saw fit. I refuse to play into SynTek or anyone’s hands. When I realized that within this discovery could be contained even the tiniest chance in propelling our understanding of cancerous cells and their connection to human physiology, I went and killed every doubt I harbored. As a scientist, what calling is mine if not precisely that? Should I have renounced this opportunity for real progress and given it to them? Entrust such a discovery to a lobby of corporate rats dressed in immaculate coats so they could, somehow, morph it into a profit so ludicrous that it’d be obnoxiously warped to be sold to the powerful, conceded at a price none but the wealthiest from the Cores could ever hope to spare? Or, let them do worse with it...and for what? So that countless others may again lose wives, husbands, brothers and sisters, sons and daughters to one of the most dreadful, intolerable diseases of Human history?"
+"MailBody4D"	"No. I’ve made my choice. Let them all call me mad."
 }

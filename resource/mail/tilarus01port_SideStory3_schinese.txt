@@ -1,14 +1,14 @@
 GAME
 {
-	// PDA belongs to Overseer Ross
+// PDA belongs to Overseer Ross
 
-	// Inbox
+// Inbox
 
-	"MailFrom1"	"发件人：凯尔"
-	"MailDate1"	"日期：02/02/54"
-	"MailSubject1"	"主题：709b号报告"
-	"MailBody1A"	"- 过去24小时失去了47个机器人"
-	"MailBody1B"	"- 整体处理能力下降到87%"
-	"MailBody1C"	"- 焚烧炉以100%的产能运转"
-	"MailBody1D"	"请再订购100台马克4机器人，我们人手不足，因为在4号之前我的大多数机器人就开始消失了。"
+"MailFrom1"	"发件人：凯尔"
+"MailDate1"	"日期：02/02/54"
+"MailSubject1"	"主题：709b号报告"
+"MailBody1A"	"- 过去24小时失去了47个机器人"
+"MailBody1B"	"- 整体处理能力下降到87%"
+"MailBody1C"	"- 焚烧炉以100%的产能运转"
+"MailBody1D"	"请再订购100台马克4机器人，我们人手不足，因为在4号之前我的大多数机器人就开始消失了。"
 }

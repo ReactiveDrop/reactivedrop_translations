@@ -1,6 +1,6 @@
 ﻿"lang"
 {
-"Language"	"English"
+"Language"	"english"
 "Tokens"
 {
 "GameUI_ReverseMouse"	"Reverse mouse"
@@ -145,7 +145,7 @@
 "GameUI_TimeStamp"	"Time Stamp"
 "GameUI_KeyboardSettings"	"Keyboard settings"
 "GameUI_KeyboardSettingsText"	"Reset all actions to use their default keys?"
-"GameUI_GameMenu_NewGame"	"NEW MISSION" // asw changed to mission
+"GameUI_GameMenu_NewGame"	"NEW MISSION"
 "GameUI_GameMenu_PlayDemo"	"PLAY DEMO"
 "GameUI_GameMenu_BonusMaps"	"BONUS MAPS"
 "GameUI_GameMenu_LoadGame"	"LOAD GAME"
@@ -330,15 +330,12 @@
 "GameUI_CrosshairScale"	"Size"
 "GameUI_FastSwitchCheck"	"Fast weapon switch"
 "GameUI_DeveloperConsoleCheck"	"Enable developer console"
-// asw - infested_dll changed
 "GameUI_KeyboardAdvanced_Title"	"ADVANCED CONTROLS"
-// asw - infested_dll extra
 "GameUI_GroundGrenadesCheck"	"Aim grenades at ground"
 "GameUI_AutoReloadCheck"	"Auto reload when empty"
 "GameUI_MinimapClicksCheck"	"Allow minimap drawing"
 "GameUI_FullSquadCheck"	"Check for full squad"
 "GameUI_MarineNumbersCheck"	"Show marine numbers in main view"
-// temp restart strings
 "GameUI_OptionsRestartRequired_Title"	"OPTIONS - RESTART"
 "GameUI_OptionsRestartRequired_Info"	"The changes you have made require the game to be\nrestarted. Do you wish to restart now?"
 "GameUI_OptionsRestart_OKButton"	"Restart now"
@@ -444,7 +441,6 @@
 "GameUI_Subtitles"	"Subtitles"
 "GameUI_SubtitlesAndSoundEffects"	"Closed Captions"
 "GameUI_Paused"	"PAUSED"
-// spray importer strings.
 "GameUI_Spray_Import_Error_Title"	"Spray Import Error"
 "GameUI_Spray_Import_Error_Reading_Image"	"Error reading source image. Image file is possibly corrupt or improperly formated"
 "GameUI_Spray_Import_Image_Wrong_Size"	"Source image is not the correct size. Valid height and width values in pixels are 256, 128, 64, 32, 16, 8, 4, 2, and 1."
@@ -462,7 +458,6 @@
 "GameUI_TGA_Images"	"Targa Images (*.tga)"
 "GameUI_BMP_Images"	"Bitmap Images (*.bmp)"
 "GameUI_VTF_Images"	"VTF Images (*.vtf)"
-// bonus map importer strings
 "GameUI_ImportBonusMapsEllipsis"	"Import Bonus Maps..."
 "GameUI_ImportBonusMaps"	"Import Bonus Maps"
 "GameUI_BMZ_Files"	"Bonus Map Zip Files (*.bmz)"
@@ -471,7 +466,6 @@
 "GameUI_SettingChangeFromX360Dashboard_Title"	"OPTIONS"
 "GameUI_SettingChangeFromX360Dashboard_Info"	"This setting can only be changed from the Xbox 360 Dashboard."
 "GameUI_Dlg_CheckingStorageDevice"	"Checking storage device..."
-// asw changed to mission
 "GameUI_Chapter"	"MISSION"
 "VAC_LoggedInElsewhere_Title"	"Account Used Elsewhere"
 "VAC_LoggedInElsewhereReason"	"This Steam account has been used to log in from another computer. To continue using Steam, you need to log in again."
@@ -507,7 +501,6 @@
 "GameUI_LoadCommentaryHelp"	"Select a commentary track in the list below, then click 'Load game'."
 "GameUI_NoCommentaryItemsToDisplay"	"No commentary tracks available."
 "GameUI_CommentaryUnlock"	"Complete a chapter to unlock its commentary."
-// Xbox 360
 "GameUI_A_BUTTON"	"A Button"
 "GameUI_B_BUTTON"	"B Button"
 "GameUI_X_BUTTON"	"X Button"

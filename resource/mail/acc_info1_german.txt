@@ -1,10 +1,10 @@
 GAME
 {
-	// Inbox
+// Inbox
 
-	"MailFrom1"	"Von: Leeroy Jackins"
-	"MailDate1"	"Datum: 06/20/32"
-	"MailSubject1"	"Betreff: - &VERSTECKT"
-	"MailBody1A"	"Ich habe gerade das clevere Sicherheitssystem hinter AMBERs Mailsystem herausgefunden und es geschafft, es zu hacken. In Kürze werde ich der Regierung alle Informationen schicken, die ich über AMBER besitze. Hoffentlich kann ich überleben, bis Hilfe eintrifft."
-	"MailBody1B"	"Ich arbeite für AMBER, seit es im November 2230 gegründet wurde. Ich bin einer der wenigen, die überlebt haben, weil Schmitz mir vertraut."
+"MailFrom1"	"Von: Leeroy Jackins"
+"MailDate1"	"Datum: 06/20/32"
+"MailSubject1"	"Betreff: - &VERSTECKT"
+"MailBody1A"	"Ich habe gerade das clevere Sicherheitssystem hinter AMBERs Mailsystem herausgefunden und es geschafft, es zu hacken. In Kürze werde ich der Regierung alle Informationen schicken, die ich über AMBER besitze. Hoffentlich kann ich überleben, bis Hilfe eintrifft."
+"MailBody1B"	"Ich arbeite für AMBER, seit es im November 2230 gegründet wurde. Ich bin einer der wenigen, die überlebt haben, weil Schmitz mir vertraut."
 }

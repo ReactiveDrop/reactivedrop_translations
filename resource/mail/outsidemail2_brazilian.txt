@@ -1,14 +1,14 @@
 GAME
 {
-	// PDA belongs to Brian Howe
+// PDA belongs to Brian Howe
 
-	// Inbox
+// Inbox
 
-	"MailFrom1"	"De: Helen Young"
-	"MailDate1"	"Data: 22/12/52"
-	"MailSubject1"	"Assunto: Sem trabalho"
-	"MailBody1A"	"E ae Brian,"
-	"MailBody1B"	"Continuamos nos desencontrando."
-	"MailBody1C"	"Você ouviu falar da contaminação? Eles isolaram os laboratórios indefinidamente. Apenas o Ming tem acesso. Os guardas de segurança armados estão estacionados nos elevadores."
-	"MailBody1D"	"Com amor, Helen. PS: O gato de Kate desapareceu de novo."
+"MailFrom1"	"De: Helen Young"
+"MailDate1"	"Data: 22/12/52"
+"MailSubject1"	"Assunto: Sem trabalho"
+"MailBody1A"	"E ae Brian,"
+"MailBody1B"	"Continuamos nos desencontrando."
+"MailBody1C"	"Você ouviu falar da contaminação? Eles isolaram os laboratórios indefinidamente. Apenas o Ming tem acesso. Os guardas de segurança armados estão estacionados nos elevadores."
+"MailBody1D"	"Com amor, Helen. PS: O gato de Kate desapareceu de novo."
 }

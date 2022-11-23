@@ -6,6 +6,7 @@
 		"testcommands"		"<clr:255,0,0>This is red<I> and italics<B> and<cr>bold<B><I><clr:255,255,255> white again."
 		"[english]testcommands"		"<clr:255,0,0>This is red<I> and italics<B> and<cr>bold<B><I><clr:255,255,255> white again."
 "Command.co_m1_ob1"		"<clr:240,255,255>Komutan: Pekâlâ, takım. Herhangi bir kurtulan olup olmadığını öğrenmek için nakliye bildirimini kontrol etmemiz gerekiyor. İniş peronuna doğru ilerleyin ve nakliye kayıtlarını indirebileceğiniz bir terminal bulun. Sizinle orada buluşacağım."
+//Commander Audio
 "[english]Command.co_m1_ob1"		"<clr:240,255,255>Commander: Okay, squad. We need to check the shipping manifests to see if any survivors made it off this rock. Make your way down to the landing bay and find a terminal where we can download the transport records. I'll check in with you there."
 "Command.co_m1_ob2"		"<clr:240,255,255>Komutan: Pekâlâ, bu veriler işe yaramaz. Sanırım kayıt tutmak uzaylı saldırısı yüzünden pek mümkün olamamış. Farklı bir bilgi gelinceye kadar arama kurtarma yapacağız. Bu yüzden kurtulan birilerini bulmak için gözünüzü dört açın. Çıkışa doğru gidin. Burada tekrar toplanalım."
 "[english]Command.co_m1_ob2"		"<clr:240,255,255>Commander: Well, these manifests are useless. Guess record keeping wasn't exactly high on the priority list when the swarm hit. We are now search and rescue until otherwise informed, so keep an eye out for survivors. Head for the far exit and then we'll regroup."
@@ -146,6 +147,7 @@
 "Command.co_debriefing_ob10"		"<clr:240,255,255>Komutan: Hala derinde iyi korunan bir bölümde, büyük dev bir ısı kaynağı olduğunu görüyoruz. YSK Komutanlığı bunun araştırılmasını önceliğe aldı."
 "[english]Command.co_debriefing_ob10"		"<clr:240,255,255>Commander: We are still detecting a single large heat source in a deep, well protected chamber. IAF Command is making investigation of this a priority."
 "bastille.SynUpReply0"		"<clr:205,127,50>Bastille: Bu zıkkımı içmek istemezsin, inan bana."
+//Bastille
 "[english]bastille.SynUpReply0"		"<clr:205,127,50>Bastille: You don't wanna drink that shit, believe me."
 "bastille.CrashComplainReply0"		"<clr:205,127,50>Bastille: Belki de bu sinir bozukluğunu rapor etmelisin."
 "[english]bastille.CrashComplainReply0"		"<clr:205,127,50>Bastille: Maybe you should report a nervous breakdown."
@@ -708,6 +710,7 @@
 "bastille.Selection4"		"<clr:205,127,50>Bastille: Buradayım."
 "[english]bastille.Selection4"		"<clr:205,127,50>Bastille: Reporting."
 "crash.SargeIdleReply0"		"<clr:238,180,34>Crash: Takımını nasıl güvende hissettireceğini iyi biliyorsun, Sarge."
+//Crash
 "[english]crash.SargeIdleReply0"		"<clr:238,180,34>Crash: You really know how to make a squad feel safe, Sarge."
 "crash.SargeIdleReply1"		"<clr:238,180,34>Crash: Bu şimdi geri dönmek istediğin anlamına mı geliyor, Sarge?"
 "[english]crash.SargeIdleReply1"		"<clr:238,180,34>Crash: That mean you wanna go home now, Sarge?"
@@ -1140,6 +1143,7 @@
 "crash.Selection2"		"<clr:238,180,34>Crash: N'aber?"
 "[english]crash.Selection2"		"<clr:238,180,34>Crash: What's up?"
 "faith.SynUpReply0"		"<clr:178,34,34>Faith: İnsanların neredeyse yarısı buna bağımlı."
+//Faith
 "[english]faith.SynUpReply0"		"<clr:178,34,34>Faith: Half the core world is addicted to that stuff."
 "faith.SynUpReply1"		"<clr:178,34,34>Faith: O zıkkımı içmek istemezsin, inan bana."
 "[english]faith.SynUpReply1"		"<clr:178,34,34>Faith: You don't want to drink that shit, believe me."
@@ -1538,6 +1542,7 @@
 "faith.Selection5"		"<clr:178,34,34>Faith: Bana ihtiyacınız var mı?"
 "[english]faith.Selection5"		"<clr:178,34,34>Faith: You need me?"
 "jaeger.WeatherReply0"		"<clr:198,226,255>Jaeger: Evet, bana en son tatilimi hatırlatıyor."
+//Jaeger
 "[english]jaeger.WeatherReply0"		"<clr:198,226,255>Jaeger: Yeah, reminds me of my last vacation."
 "jaeger.MedicComplainReply0"		"<clr:198,226,255>Jaeger: Bunu bilerek yapmadım."
 "[english]jaeger.MedicComplainReply0"		"<clr:198,226,255>Jaeger: It's not like I do it on purpose."
@@ -1890,6 +1895,7 @@
 "jaeger.Selection1"		"<clr:198,226,255>Jaeger: Ben Jaeger."
 "[english]jaeger.Selection1"		"<clr:198,226,255>Jaeger: Jaeger here."
 "sarge.SargeIdle0"		"<clr:238,207,161>Sarge: Bir sürü asalağının pençeleri zırhımızı yırtarak parçalayabilir. Bunu biliyor muydun?"
+//Sarge
 "[english]sarge.SargeIdle0"		"<clr:238,207,161>Sarge: You know the claws on a swarm drone can rip right through our armor."
 "sarge.SargeIdle1"		"<clr:238,207,161>Sarge: Bir keresinde bu şeylerin elini kopardığı bir piyade görmüştüm."
 "[english]sarge.SargeIdle1"		"<clr:238,207,161>Sarge: I once saw a marine have his hand bitten clean off by one of these things."
@@ -2340,6 +2346,7 @@
 "sarge.Selection3"		"<clr:238,207,161>Sarge: Devam et."
 "[english]sarge.Selection3"		"<clr:238,207,161>Sarge: Proceed."
 "vegas.FirstBloodStart0"		"<clr:84,255,159>Vegas: İlk kanı kim dökeceğine dair bahse girebilirim."
+//Vegas
 "[english]vegas.FirstBloodStart0"		"<clr:84,255,159>Vegas: Taking bets on first blood."
 "vegas.FirstBloodWin0"		"<clr:84,255,159>Vegas: Haha, şans bugün Vegas'ın yanında."
 "[english]vegas.FirstBloodWin0"		"<clr:84,255,159>Vegas: Haha, fortune favours Vegas today."
@@ -2790,6 +2797,7 @@
 "vegas.Selection2"		"<clr:84,255,159>Vegas: Ne istiyorsun?"
 "[english]vegas.Selection2"		"<clr:84,255,159>Vegas: What do you want?"
 "wildcat.WolfeBestReply0"		"<clr:238,106,80>Wildcat: Haha! Evet, pekâlâ, şimdi kimin en iyi olduğunu göreceğiz!"
+//Wildcat
 "[english]wildcat.WolfeBestReply0"		"<clr:238,106,80>Wildcat: Heha! Yeah, well, We'll see who's the best now!"
 "wildcat.WolfeBestReply1"		"<clr:238,106,80>Wildcat: Evet, ama benim de kendime göre bazı numaralarım var."
 "[english]wildcat.WolfeBestReply1"		"<clr:238,106,80>Wildcat: Yeah, but I've got some tricks of my own."
@@ -3138,6 +3146,7 @@
 "wildcat.Grenade1"		"<clr:238,106,80>Wildcat: Dikkatli olun."
 "[english]wildcat.Grenade1"		"<clr:238,106,80>Wildcat: Watch out."
 "wolfe.WolfeBest0"		"<clr:154,205,50>Wolfe: Hiç şansın yok, sana her şeyi ben öğrettim."
+//Wolfe
 "[english]wolfe.WolfeBest0"		"<clr:154,205,50>Wolfe: You got no chance, I taught you everything."
 "wolfe.WolfeBest1"		"<clr:154,205,50>Wolfe: Hiç şansın yok, hatırlarsan sana her şeyi ben öğrettim."
 "[english]wolfe.WolfeBest1"		"<clr:154,205,50>Wolfe: You got no chance, remember I taught you everything."
@@ -3736,6 +3745,7 @@
 "wolfe.Selection2"		"<clr:154,205,50>Wolfe: Efendim."
 "[english]wolfe.Selection2"		"<clr:154,205,50>Wolfe: Sir."
 "ASWComputer.Startup"		"<clr:238,0,0>ANA BİLGİSAYAR: SynTek Şirketler Grubu."
+//BASE COMPUTER
 "[english]ASWComputer.Startup"		"<clr:238,0,0>BASE COMPUTER: SynTek Megacorporation."
 "ASWComputer.AccessDenied"		"<clr:238,0,0>ANA BİLGİSAYAR: Erişim Reddedildi."
 "[english]ASWComputer.AccessDenied"		"<clr:238,0,0>BASE COMPUTER: Access Denied."
@@ -3788,6 +3798,7 @@
 "ASWCountdown.Countdown10"		"<clr:238,0,0>ANA BİLGİSAYAR: Nükleer patlama için son 10 saniye."
 "[english]ASWCountdown.Countdown10"		"<clr:238,0,0>BASE COMPUTER: Nuclear detonation in 10 seconds."
 		"Duval.01_02"		"<clr:179,203,207><B>Prof. Duval:<B> Charlie, Julie Duval here. Thermals from your shuttle's radar are tracking multiple signals in and out the installation's roofs and ducts. Though these readouts are oddly...human, for lack of details."
+		//NAM HUMANUM
 		"[english]Duval.01_02"		"<clr:179,203,207><B>Prof. Duval:<B> Charlie, Julie Duval here. Thermals from your shuttle's radar are tracking multiple signals in and out the installation's roofs and ducts. Though these readouts are oddly...human, for lack of details."
 		"Duval.01_03"		"<clr:179,203,207><B>Prof. Duval:<B> Their morphologies are just...not right. This specimen…"
 		"[english]Duval.01_03"		"<clr:179,203,207><B>Prof. Duval:<B> Their morphologies are just...not right. This specimen…"
@@ -3884,6 +3895,7 @@
 		"Vesta.03_11"		"<clr:234,217,245><B>???:<B> Vesta...lives."
 		"[english]Vesta.03_11"		"<clr:234,217,245><B>???:<B> Vesta...lives."
 		"Amber.01_01"		"<clr:255,0,0><B>AMBER Warning:<B><clr:158,143,39> Antenna Communication Failure."
+		// ACCIDENT 32
 		"[english]Amber.01_01"		"<clr:255,0,0><B>AMBER Warning:<B><clr:158,143,39> Antenna Communication Failure."
 		"Amber.01_02"		"<clr:255,0,0><B>AMBER Warning:<B><clr:158,143,39> Secondary Reactor Coolant Activated."
 		"[english]Amber.01_02"		"<clr:255,0,0><B>AMBER Warning:<B><clr:158,143,39> Secondary Reactor Coolant Activated."

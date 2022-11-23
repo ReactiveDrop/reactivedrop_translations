@@ -1,11 +1,11 @@
 GAME
 {
-	// Sent
+// Sent
 
-	"MailFrom1"	"An: #lle"
-	"MailDate1"	"Datum: 10/19/30"
-	"MailSubject1"	"Betreff: AMBER DU SCHLUCKST"
-	"MailBody1A"	"Dieser Brief wurde an jeden Arbeiter bei AMBER geschickt. Dieses dämliche Mailsystem, das von AMBERs unerfahrenen Programmierern entwickelt wurde, hat soooo viele Fehler. Wenn du heimlich Nachrichten an andere Arbeiter/innen schicken willst, ohne dass AMBER davon erfährt, füge einfach "&VERSTECKT" am Ende des Betreffs in deiner Mail hinzu."
-	"MailBody1B"	"Wenn AMBER das hier liest, dann macht's gut, ihr Trottel! Ich bin diesem Gefängnis, das ihr "Projekt" nennt, schon vor langer Zeit entflohen. Wenn ihr nicht wollt, dass die Regierung von eurer Entdeckung außerirdischen Lebens erfährt, wießt ihr, was ich will."
-	"MailBody1c"	"Euer, СRĄ$H"
+"MailFrom1"	"An: #lle"
+"MailDate1"	"Datum: 10/19/30"
+"MailSubject1"	"Betreff: AMBER DU SCHLUCKST"
+"MailBody1A"	"Dieser Brief wurde an jeden Arbeiter bei AMBER geschickt. Dieses dämliche Mailsystem, das von AMBERs unerfahrenen Programmierern entwickelt wurde, hat soooo viele Fehler. Wenn du heimlich Nachrichten an andere Arbeiter/innen schicken willst, ohne dass AMBER davon erfährt, füge einfach "&VERSTECKT" am Ende des Betreffs in deiner Mail hinzu."
+"MailBody1B"	"Wenn AMBER das hier liest, dann macht's gut, ihr Trottel! Ich bin diesem Gefängnis, das ihr "Projekt" nennt, schon vor langer Zeit entflohen. Wenn ihr nicht wollt, dass die Regierung von eurer Entdeckung außerirdischen Lebens erfährt, wießt ihr, was ich will."
+"MailBody1c"	"Euer, СRĄ$H"
 }

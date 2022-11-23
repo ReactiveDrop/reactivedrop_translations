@@ -1,32 +1,32 @@
 GAME
 {
-	// PDA belongs to Hullen
+// PDA belongs to Hullen
 
-	// Inbox
+// Inbox
 
-	"MailFrom1"	"Von: Ming"
-	"MailDate1"	"Datum: 12/27/52"
-	"MailSubject1"	"VERBRENNT SIE!"
-	"MailBody1A"	"Es war ein Fehler, dir diese Sachen zu schicken! Es tut mir leid!"
-	"MailBody1B"	"Du musst alle deine Exemplare töten, JETZT!"
-	"MailBody1C"	"Ich habe mich in einer Nische in der Timor Station verschanzt, ich kann sie hören. Sie sind hinter mir her!."
-	"MailBody1D"	"TÖTE SIE ODER VERSCHWINDE, SOLANGE DU NOCH KANNST"
+"MailFrom1"	"Von: Ming"
+"MailDate1"	"Datum: 12/27/52"
+"MailSubject1"	"VERBRENNT SIE!"
+"MailBody1A"	"Es war ein Fehler, dir diese Sachen zu schicken! Es tut mir leid!"
+"MailBody1B"	"Du musst alle deine Exemplare töten, JETZT!"
+"MailBody1C"	"Ich habe mich in einer Nische in der Timor Station verschanzt, ich kann sie hören. Sie sind hinter mir her!."
+"MailBody1D"	"TÖTE SIE ODER VERSCHWINDE, SOLANGE DU NOCH KANNST"
 
-	"MailFrom2"	"Von: Martin Jericho"
-	"MailDate2"	"Datum: 12/27/52"
-	"MailSubject2"	"Aw: Fleisch auftauen"
-	"MailBody2A"	"Hullen, du BASTARD!"
-	"MailBody2B"	"Das Ding, das du uns geschickt hast, war nicht tot! Wir haben es in die Nähe der Lava gebracht und es wurde lebendig."
-	"MailBody2C"	"Es hat Hodgson UND Jenny getötet. Hörst du mich, DU HAST JENNY GETÖTET!"
-	"MailBody2D"	"Es hat mich gebissen, ich spüre, wie sich etwas in mir bewegt... wächst... Ich hasse dich."
+"MailFrom2"	"Von: Martin Jericho"
+"MailDate2"	"Datum: 12/27/52"
+"MailSubject2"	"Aw: Fleisch auftauen"
+"MailBody2A"	"Hullen, du BASTARD!"
+"MailBody2B"	"Das Ding, das du uns geschickt hast, war nicht tot! Wir haben es in die Nähe der Lava gebracht und es wurde lebendig."
+"MailBody2C"	"Es hat Hodgson UND Jenny getötet. Hörst du mich, DU HAST JENNY GETÖTET!"
+"MailBody2D"	"Es hat mich gebissen, ich spüre, wie sich etwas in mir bewegt... wächst... Ich hasse dich."
 
-	// Sent
+// Sent
 
-	"MailFrom3"	"An: Martin Jericho"
-	"MailDate3"	"Datum: 12/26/52"
-	"MailSubject3"	"Fleisch auftauen"
-	"MailBody3A"	"Hallo Martin,"
-	"MailBody3B"	"Ich habe mehrere Exemplare von Vereon XII erhalten, frag nicht, wie. Eines der Exemplare scheint während des Transports gestorben zu sein."
-	"MailBody3C"	"Ich kann den Verbrennungsofen hier nicht benutzen, ohne dass die höheren Stellen davon erfahren, also schicke ich es in eure Minen, um es in einer der Lavagruben zu entsorgen."
-	"MailBody3D"	"Hullen"
+"MailFrom3"	"An: Martin Jericho"
+"MailDate3"	"Datum: 12/26/52"
+"MailSubject3"	"Fleisch auftauen"
+"MailBody3A"	"Hallo Martin,"
+"MailBody3B"	"Ich habe mehrere Exemplare von Vereon XII erhalten, frag nicht, wie. Eines der Exemplare scheint während des Transports gestorben zu sein."
+"MailBody3C"	"Ich kann den Verbrennungsofen hier nicht benutzen, ohne dass die höheren Stellen davon erfahren, also schicke ich es in eure Minen, um es in einer der Lavagruben zu entsorgen."
+"MailBody3D"	"Hullen"
 }

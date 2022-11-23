@@ -1,9 +1,9 @@
 GAME
 {
-	"Headline"	"Rochas Explosivas no Porto Espacial!"
-	"HeadlineDate"	"10/05/57"
-	"Paragraph1"	"Uma explosão abalou o porto espacial nas primeiras horas da manhã de ontem. Do que foi reunido pelas investigações, uma nave de carga carregando amostras biológicas sofreu uma falha mecânica fazendo com que os motores iniciassem enquanto os engenheiros do porto espacial trabalhavam neles. Por razões desconhecidas, as travas de segurança da nave não haviam sido ativadas e os motores explodiram violentamente. Cinco pessoas ficaram gravemente feridas na explosão inicial e vários ferimentos leves foram relatados após o ocorrido. Felizmente não houve mortes."
-	"Paragraph2"	"Oficiais do Porto Espacial ofereceram seus pesames aos feridos na explosão, mas afirmaram que poderia ter sido muito pior se tivesse ocorrido no final do dia. O capitão da nave de carga não foi encontrado para uma entrevista."
-	"Paragraph3"	"Como resultado, o Hangar 4 será fechado para reparos nos próximos dias. Em conjunto com as obras de remodelação do Terminal 5 e Hangares 7 e 8, esperamos ver severos atrasos e cancelamentos nas próximas semanas."
-	"Paragraph4"	"[Trecho do jornal 'A Estrela da Manhã', patrocinado pela administração da colônia Oasis. Insira o chip de crédito para acesso total a todos os artigos]"
+"Headline"	"Rochas Explosivas no Porto Espacial!"
+"HeadlineDate"	"10/05/57"
+"Paragraph1"	"Uma explosão abalou o porto espacial nas primeiras horas da manhã de ontem. Do que foi reunido pelas investigações, uma nave de carga carregando amostras biológicas sofreu uma falha mecânica fazendo com que os motores iniciassem enquanto os engenheiros do porto espacial trabalhavam neles. Por razões desconhecidas, as travas de segurança da nave não haviam sido ativadas e os motores explodiram violentamente. Cinco pessoas ficaram gravemente feridas na explosão inicial e vários ferimentos leves foram relatados após o ocorrido. Felizmente não houve mortes."
+"Paragraph2"	"Oficiais do Porto Espacial ofereceram seus pesames aos feridos na explosão, mas afirmaram que poderia ter sido muito pior se tivesse ocorrido no final do dia. O capitão da nave de carga não foi encontrado para uma entrevista."
+"Paragraph3"	"Como resultado, o Hangar 4 será fechado para reparos nos próximos dias. Em conjunto com as obras de remodelação do Terminal 5 e Hangares 7 e 8, esperamos ver severos atrasos e cancelamentos nas próximas semanas."
+"Paragraph4"	"[Trecho do jornal 'A Estrela da Manhã', patrocinado pela administração da colônia Oasis. Insira o chip de crédito para acesso total a todos os artigos]"
 }

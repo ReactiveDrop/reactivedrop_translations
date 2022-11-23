@@ -6,6 +6,7 @@
 "testcommands"		"<clr:255,0,0>これは赤<I>そして斜体<B>そして<cr>太字<B><I><clr:255,255,255>白に戻る。"
 "[english]testcommands"		"<clr:255,0,0>This is red<I> and italics<B> and<cr>bold<B><I><clr:255,255,255> white again."
 "Command.co_m1_ob1"		"<clr:240,255,255>司令官: よし、みんな。 搬出目録を見て生存者が脱出したのか調べる必要がある。 着陸場に向かい入搬出記録をダウンロードできる端末を見つけるんだ。 見つけたら私にもチェックさせてもらう。"
+//Commander Audio
 "[english]Command.co_m1_ob1"		"<clr:240,255,255>Commander: Okay, squad. We need to check the shipping manifests to see if any survivors made it off this rock. Make your way down to the landing bay and find a terminal where we can download the transport records. I'll check in with you there."
 "Command.co_m1_ob2"		"<clr:240,255,255>司令官: ふむ、この記録は役に立たないな。 記録の保持はエイリアンの襲撃があってからは優先されなかったんだろう。 新しい情報を得るまで捜索と救出を続けるぞ、生存者を見逃すな。 反対側の出口へ向かえ、そこで再集合するぞ。"
 "[english]Command.co_m1_ob2"		"<clr:240,255,255>Commander: Well, these manifests are useless. Guess record keeping wasn't exactly high on the priority list when the swarm hit. We are now search and rescue until otherwise informed, so keep an eye out for survivors. Head for the far exit and then we'll regroup."
@@ -146,6 +147,7 @@
 "Command.co_debriefing_ob10"		"<clr:240,255,255>司令官: まだ深い位置で厳重に守られた部屋に、一つの巨大な熱反応を検知している。 IAF司令部はこれを優先的に調査中だ。"
 "[english]Command.co_debriefing_ob10"		"<clr:240,255,255>Commander: We are still detecting a single large heat source in a deep, well protected chamber. IAF Command is making investigation of this a priority."
 "bastille.SynUpReply0"		"<clr:205,127,50>Bastille: こんなクソを飲むべきじゃない、私を信じろ。"
+//Bastille
 "[english]bastille.SynUpReply0"		"<clr:205,127,50>Bastille: You don't wanna drink that shit, believe me."
 "bastille.CrashComplainReply0"		"<clr:205,127,50>Bastille: お前さんにはノイローゼの医療報告を出すべきかもな。"
 "[english]bastille.CrashComplainReply0"		"<clr:205,127,50>Bastille: Maybe you should report a nervous breakdown."
@@ -708,6 +710,7 @@
 "bastille.Selection4"		"<clr:205,127,50>Bastille: なんだね。"
 "[english]bastille.Selection4"		"<clr:205,127,50>Bastille: Reporting."
 "crash.SargeIdleReply0"		"<clr:238,180,34>Crash: みんなを安心させるのがすっごく得意なんだね、Sarge。"
+//Crash
 "[english]crash.SargeIdleReply0"		"<clr:238,180,34>Crash: You really know how to make a squad feel safe, Sarge."
 "crash.SargeIdleReply1"		"<clr:238,180,34>Crash: つまりさっさとお家に帰りたいってことかい、Sarge？"
 "[english]crash.SargeIdleReply1"		"<clr:238,180,34>Crash: That mean you wanna go home now, Sarge?"
@@ -1140,6 +1143,7 @@
 "crash.Selection2"		"<clr:238,180,34>Crash: どうした？"
 "[english]crash.Selection2"		"<clr:238,180,34>Crash: What's up?"
 "faith.SynUpReply0"		"<clr:178,34,34>Faith: 人類の半分がこれの依存症になってるわ。"
+//Faith
 "[english]faith.SynUpReply0"		"<clr:178,34,34>Faith: Half the core world is addicted to that stuff."
 "faith.SynUpReply1"		"<clr:178,34,34>Faith: このクソを飲むべきじゃないわ、信じて。"
 "[english]faith.SynUpReply1"		"<clr:178,34,34>Faith: You don't want to drink that shit, believe me."
@@ -1538,6 +1542,7 @@
 "faith.Selection5"		"<clr:178,34,34>Faith: 私の力が必要？"
 "[english]faith.Selection5"		"<clr:178,34,34>Faith: You need me?"
 "jaeger.WeatherReply0"		"<clr:198,226,255>Jaeger: ああ、この前の休暇を思い出すよ。"
+//Jaeger
 "[english]jaeger.WeatherReply0"		"<clr:198,226,255>Jaeger: Yeah, reminds me of my last vacation."
 "jaeger.MedicComplainReply0"		"<clr:198,226,255>Jaeger: わざとやっているわけではないぞ。"
 "[english]jaeger.MedicComplainReply0"		"<clr:198,226,255>Jaeger: It's not like I do it on purpose."
@@ -1890,6 +1895,7 @@
 "jaeger.Selection1"		"<clr:198,226,255>Jaeger: こちらJaeger。"
 "[english]jaeger.Selection1"		"<clr:198,226,255>Jaeger: Jaeger here."
 "sarge.SargeIdle0"		"<clr:238,207,161>Sarge: エイリアンドローンの爪は我々のアーマーなんぞ引き裂いてしまうからな。"
+//Sarge
 "[english]sarge.SargeIdle0"		"<clr:238,207,161>Sarge: You know the claws on a swarm drone can rip right through our armor."
 "sarge.SargeIdle1"		"<clr:238,207,161>Sarge: ヤツらに手をまるごと食いちぎられた兵士を見たことがあるんだ。"
 "[english]sarge.SargeIdle1"		"<clr:238,207,161>Sarge: I once saw a marine have his hand bitten clean off by one of these things."
@@ -2340,6 +2346,7 @@
 "sarge.Selection3"		"<clr:238,207,161>Sarge: 行くか。"
 "[english]sarge.Selection3"		"<clr:238,207,161>Sarge: Proceed."
 "vegas.FirstBloodStart0"		"<clr:84,255,159>Vegas: オレが最初の一匹を殺るのに賭けるぜ。"
+//Vegas
 "[english]vegas.FirstBloodStart0"		"<clr:84,255,159>Vegas: Taking bets on first blood."
 "vegas.FirstBloodWin0"		"<clr:84,255,159>Vegas: ハッハー、今日のVegas様はツイてるぜ。"
 "[english]vegas.FirstBloodWin0"		"<clr:84,255,159>Vegas: Haha, fortune favours Vegas today."
@@ -2790,6 +2797,7 @@
 "vegas.Selection2"		"<clr:84,255,159>Vegas: 何をしてほしいんだ？"
 "[english]vegas.Selection2"		"<clr:84,255,159>Vegas: What do you want?"
 "wildcat.WolfeBestReply0"		"<clr:238,106,80>Wildcat: ハッハー！ いいよ、誰が一番か確かめようじゃないか！"
+//Wildcat
 "[english]wildcat.WolfeBestReply0"		"<clr:238,106,80>Wildcat: Heha! Yeah, well, We'll see who's the best now!"
 "wildcat.WolfeBestReply1"		"<clr:238,106,80>Wildcat: ええ、でもアタシ独自の技も身につけてきたわ。"
 "[english]wildcat.WolfeBestReply1"		"<clr:238,106,80>Wildcat: Yeah, but I've got some tricks of my own."
@@ -3138,6 +3146,7 @@
 "wildcat.Grenade1"		"<clr:238,106,80>Wildcat: 気をつけて。"
 "[english]wildcat.Grenade1"		"<clr:238,106,80>Wildcat: Watch out."
 "wolfe.WolfeBest0"		"<clr:154,205,50>Wolfe: オレに勝てるわけないだろう、オレが師匠なんだからな。"
+//Wolfe
 "[english]wolfe.WolfeBest0"		"<clr:154,205,50>Wolfe: You got no chance, I taught you everything."
 "wolfe.WolfeBest1"		"<clr:154,205,50>Wolfe: オレに勝てるわけないだろう、オレが師匠だと忘れてないよな。"
 "[english]wolfe.WolfeBest1"		"<clr:154,205,50>Wolfe: You got no chance, remember I taught you everything."
@@ -3736,6 +3745,7 @@
 "wolfe.Selection2"		"<clr:154,205,50>Wolfe: はい上官殿。"
 "[english]wolfe.Selection2"		"<clr:154,205,50>Wolfe: Sir."
 "ASWComputer.Startup"		"<clr:238,0,0>コンピューター: こちらはSynTek Megacorporationです。"
+//BASE COMPUTER
 "[english]ASWComputer.Startup"		"<clr:238,0,0>BASE COMPUTER: SynTek Megacorporation."
 "ASWComputer.AccessDenied"		"<clr:238,0,0>コンピューター: アクセスは拒否されました。"
 "[english]ASWComputer.AccessDenied"		"<clr:238,0,0>BASE COMPUTER: Access Denied."
@@ -3788,6 +3798,7 @@
 "ASWCountdown.Countdown10"		"<clr:238,0,0>コンピューター: 核爆発まで残り10秒。"
 "[english]ASWCountdown.Countdown10"		"<clr:238,0,0>BASE COMPUTER: Nuclear detonation in 10 seconds."
 "Duval.01_02"		"<clr:179,203,207><B>デュバル教授:<B> チャーリー部隊、私はジュリー・デュバルです。 あなた達のシャトルの熱源レーダーは設備の屋根と通気口の内外から複数の信号を検知している。 しかしこの計測結果は奇妙なことに...人間みたいなのよ、詳細な情報が欠けているけどね。"
+//NAM HUMANUM
 "[english]Duval.01_02"		"<clr:179,203,207><B>Prof. Duval:<B> Charlie, Julie Duval here. Thermals from your shuttle's radar are tracking multiple signals in and out the installation's roofs and ducts. Though these readouts are oddly...human, for lack of details."
 "Duval.01_03"		"<clr:179,203,207><B>デュバル教授:<B> ただ形態学的には...人間と一致しない。 この検体はいったい..."
 "[english]Duval.01_03"		"<clr:179,203,207><B>Prof. Duval:<B> Their morphologies are just...not right. This specimen…"
@@ -3884,6 +3895,7 @@
 "Vesta.03_11"		"<clr:234,217,245><B>???:<B> ヴェスタは...ここにいる。"
 "[english]Vesta.03_11"		"<clr:234,217,245><B>???:<B> Vesta...lives."
 "Amber.01_01"		"<clr:255,0,0><B>AMBER警報システム:<B><clr:158,143,39> アンテナ通信に失敗。"
+// ACCIDENT 32
 "[english]Amber.01_01"		"<clr:255,0,0><B>AMBER Warning:<B><clr:158,143,39> Antenna Communication Failure."
 "Amber.01_02"		"<clr:255,0,0><B>AMBER警報システム:<B><clr:158,143,39> 予備動力炉冷却システム起動。"
 "[english]Amber.01_02"		"<clr:255,0,0><B>AMBER Warning:<B><clr:158,143,39> Secondary Reactor Coolant Activated."

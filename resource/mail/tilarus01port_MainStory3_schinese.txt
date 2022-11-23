@@ -1,14 +1,14 @@
 GAME
 {
-	// PDA belongs to Overseer Ross
+// PDA belongs to Overseer Ross
 
-	// Inbox
+// Inbox
 
-	"MailFrom1"	"发件人：指挥官哈罗德"
-	"MailDate1"	"日期：03/02/54"
-	"MailSubject1"	"主题：疏散"
-	"MailBody1A"	"该死的罗斯，我希望你说得不对"
-	"MailBody1B"	"但是我们决定按照您的建议采取行动后，我很TM高兴，如您所知，疏散已经在进行中"
-	"MailBody1c"	"把你和你的员工从7号湾带出去，直到黎明城"
-	"MailBody1d"	"祝你好运，老友"
+"MailFrom1"	"发件人：指挥官哈罗德"
+"MailDate1"	"日期：03/02/54"
+"MailSubject1"	"主题：疏散"
+"MailBody1A"	"该死的罗斯，我希望你说得不对"
+"MailBody1B"	"但是我们决定按照您的建议采取行动后，我很TM高兴，如您所知，疏散已经在进行中"
+"MailBody1c"	"把你和你的员工从7号湾带出去，直到黎明城"
+"MailBody1d"	"祝你好运，老友"
 }

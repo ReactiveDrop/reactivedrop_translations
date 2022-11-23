@@ -1,14 +1,14 @@
 GAME
 {
-	// PDA belongs to Brian Howe
+// PDA belongs to Brian Howe
 
-	// Inbox
+// Inbox
 
-	"MailFrom1"	"发件人：海伦.杨"
-	"MailDate1"	"日期：12/22/52"
-	"MailSubject1"	"主题：不谈工作"
-	"MailBody1A"	"嘿，布莱恩，"
-	"MailBody1B"	"我们一直在想念彼此。"
-	"MailBody1C"	"你听说污染的事了吗？他们无限期地封锁了实验室。只有明有权限。武装安保驻守在电梯旁。"
-	"MailBody1D"	"爱你的海伦。附：凯特的猫又不见了。"
+"MailFrom1"	"发件人：海伦.杨"
+"MailDate1"	"日期：12/22/52"
+"MailSubject1"	"主题：不谈工作"
+"MailBody1A"	"嘿，布莱恩，"
+"MailBody1B"	"我们一直在想念彼此。"
+"MailBody1C"	"你听说污染的事了吗？他们无限期地封锁了实验室。只有明有权限。武装安保驻守在电梯旁。"
+"MailBody1D"	"爱你的海伦。附：凯特的猫又不见了。"
 }

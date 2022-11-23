@@ -1,14 +1,14 @@
 GAME
 {
-	// PDA belongs to Leon Bishop
+// PDA belongs to Leon Bishop
 
-	// Inbox
+// Inbox
 
-	"MailFrom1"	"De: Jan Anath"
-	"MailDate1"	"Data: 29/02/53"
-	"MailSubject1"	"Assunto: Espião Encontrado"
-	"MailBody1A"	"Windom King era nosso traidor, fui forçado a executá-lo."
-	"MailBody1B"	"Sua história de ataque do Enxame foi uma distração. Ele enviou sua filha e um agente de segurança para o complexo de ogivas para roubar nossas plantas."
-	"MailBody1C"	"Impeça-os a qualquer custo - incluindo suas vidas. Isso é uma ordem."
-	"MailBody1D"	"Administrador Principal J. Anath"
+"MailFrom1"	"De: Jan Anath"
+"MailDate1"	"Data: 29/02/53"
+"MailSubject1"	"Assunto: Espião Encontrado"
+"MailBody1A"	"Windom King era nosso traidor, fui forçado a executá-lo."
+"MailBody1B"	"Sua história de ataque do Enxame foi uma distração. Ele enviou sua filha e um agente de segurança para o complexo de ogivas para roubar nossas plantas."
+"MailBody1C"	"Impeça-os a qualquer custo - incluindo suas vidas. Isso é uma ordem."
+"MailBody1D"	"Administrador Principal J. Anath"
 }

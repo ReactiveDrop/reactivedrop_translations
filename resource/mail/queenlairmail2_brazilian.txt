@@ -1,14 +1,14 @@
 GAME
 {
-	// PDA belongs to Helen Young
+// PDA belongs to Helen Young
 
-	// Inbox
+// Inbox
 
-	"MailFrom1"	"De: Brian Howe"
-	"MailDate1"	"Data: 24/12/52"
-	"MailSubject1"	"Assunto: Ogiva"
-	"MailBody1A"	"Helen, pelo amor de deus me responda! Por favor! Dave e Tom estão mortos. Não conseguimos colocar a ogiva naquele túnel. Estou me escondendo por enquanto, mas ficar aqui não é uma opção."
-	"MailBody1B"	"Eu só espero que você esteja bem. Há tantas coisas que eu gostaria de ter dito a você. Apenas nunca parecia o momento certo. E agora... está tudo errado."
-	"MailBody1C"	"Eu te amo."
-	"MailBody1D"	"Brian"
+"MailFrom1"	"De: Brian Howe"
+"MailDate1"	"Data: 24/12/52"
+"MailSubject1"	"Assunto: Ogiva"
+"MailBody1A"	"Helen, pelo amor de deus me responda! Por favor! Dave e Tom estão mortos. Não conseguimos colocar a ogiva naquele túnel. Estou me escondendo por enquanto, mas ficar aqui não é uma opção."
+"MailBody1B"	"Eu só espero que você esteja bem. Há tantas coisas que eu gostaria de ter dito a você. Apenas nunca parecia o momento certo. E agora... está tudo errado."
+"MailBody1C"	"Eu te amo."
+"MailBody1D"	"Brian"
 }

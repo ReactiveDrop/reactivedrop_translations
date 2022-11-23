@@ -1,16 +1,16 @@
 GAME
 {
-	// Inbox
+// Inbox
 
-	"MailFrom1"	"De: Joseph Conrad"
-	"MailDate1"	"Data: 20/11/32"
-	"MailSubject1"	"Assunto: investigação"
-	"MailBody1A"	"entramos pelo esgoto, estava todo ensanguentado por causa dos corpos que vocês vermes jogaram neles. a temperatura é de 50 graus, os níveis de radiação são 3 vezes maiores agora"
-	"MailBody1B"	"sarge"
+"MailFrom1"	"De: Joseph Conrad"
+"MailDate1"	"Data: 20/11/32"
+"MailSubject1"	"Assunto: investigação"
+"MailBody1A"	"entramos pelo esgoto, estava todo ensanguentado por causa dos corpos que vocês vermes jogaram neles. a temperatura é de 50 graus, os níveis de radiação são 3 vezes maiores agora"
+"MailBody1B"	"sarge"
 
-	"MailFrom1"	"De: Joseph Conrad"
-	"MailDate1"	"Data: 20/11/32"
-	"MailSubject1"	"Assunto: Re: Enquanto você estiver lá"
-	"MailBody1A"	"não. fomos enviados para investigar e não para fazer algumas experiências estúpidas. nós somos soldados. eu não me importo com o que diabos você fala, estamos dando o fora de lá"
-	"MailBody1B"	"sarge"
+"MailFrom1"	"De: Joseph Conrad"
+"MailDate1"	"Data: 20/11/32"
+"MailSubject1"	"Assunto: Re: Enquanto você estiver lá"
+"MailBody1A"	"não. fomos enviados para investigar e não para fazer algumas experiências estúpidas. nós somos soldados. eu não me importo com o que diabos você fala, estamos dando o fora de lá"
+"MailBody1B"	"sarge"
 }

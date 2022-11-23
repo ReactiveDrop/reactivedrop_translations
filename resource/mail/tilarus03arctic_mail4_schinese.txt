@@ -1,32 +1,32 @@
 GAME
 {
-	// PDA belongs to Security Officer Barney
+// PDA belongs to Security Officer Barney
 
-	// Inbox
+// Inbox
 
-	"MailFrom1"	"发件人：比尔.豪兹"
-	"MailDate1"	"日期：10/04/52"
-	"MailSubject1"	"主题：火焰喷射器重新填满"
-	"MailBody1A"	"嘿，巴尼"
-	"MailBody1B"	"我按你的要求，给你的喷火器加满了油。我不知道你为什么把那东西放在办公室里…"
-	"MailBody1C"	"新特已经为你提供了标准的安全玩具。"
-	"MailBody1D"	"再会，比尔"
+"MailFrom1"	"发件人：比尔.豪兹"
+"MailDate1"	"日期：10/04/52"
+"MailSubject1"	"主题：火焰喷射器重新填满"
+"MailBody1A"	"嘿，巴尼"
+"MailBody1B"	"我按你的要求，给你的喷火器加满了油。我不知道你为什么把那东西放在办公室里…"
+"MailBody1C"	"新特已经为你提供了标准的安全玩具。"
+"MailBody1D"	"再会，比尔"
 
-	// Sent
+// Sent
 
-	"MailFrom3"	"收件人：比尔.豪兹"
-	"MailDate3"	"日期：10/04/52"
-	"MailSubject3"	"主题：回复：火焰喷射器重新填满"
-	"MailBody3A"	"你好呀，比尔"
-	"MailBody3B"	"呵呵，谢谢你给我装满。我的经验告诉我，你得有额外的火力。"
-	"MailBody3C"	"这个宝贝救了我几次，让我避开了虫群。不知道什么时候我还会用到它。"
-	"MailBody3D"	"注意安全，巴尼"
+"MailFrom3"	"收件人：比尔.豪兹"
+"MailDate3"	"日期：10/04/52"
+"MailSubject3"	"主题：回复：火焰喷射器重新填满"
+"MailBody3A"	"你好呀，比尔"
+"MailBody3B"	"呵呵，谢谢你给我装满。我的经验告诉我，你得有额外的火力。"
+"MailBody3C"	"这个宝贝救了我几次，让我避开了虫群。不知道什么时候我还会用到它。"
+"MailBody3D"	"注意安全，巴尼"
 
-	"MailFrom4"	"收件人：沃尔特.杰克逊"
-	"MailDate4"	"日期：10/06/52"
-	"MailSubject4"	"主题：奇怪的读数"
-	"MailBody4A"	"报告："
-	"MailBody4B"	"我们在雷达扫描仪上再次发现了一些异常。"
-	"MailBody4C"	"这次它们运动的时间更长，有多个目标，而不是两天前的一个。"
-	"MailBody4D"	"再一次，就像上次，它们突然消失了一样。我已经派人去检查了，以防万一。"
+"MailFrom4"	"收件人：沃尔特.杰克逊"
+"MailDate4"	"日期：10/06/52"
+"MailSubject4"	"主题：奇怪的读数"
+"MailBody4A"	"报告："
+"MailBody4B"	"我们在雷达扫描仪上再次发现了一些异常。"
+"MailBody4C"	"这次它们运动的时间更长，有多个目标，而不是两天前的一个。"
+"MailBody4D"	"再一次，就像上次，它们突然消失了一样。我已经派人去检查了，以防万一。"
 }

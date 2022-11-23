@@ -1,13 +1,13 @@
 GAME
 {
-	// PDA belongs to Lt. Cain
+// PDA belongs to Lt. Cain
 
-	// Inbox
+// Inbox
 
-	"MailFrom1"	"De: Laura Callen"
-	"MailDate1"	"Data: 24/12/52"
-	"MailSubject1"	"Assunto: É isso mesmo?"
-	"MailBody1A"	"Lei marcial?"
-	"MailBody1B"	"É tarde demais para isso."
-	"MailBody1C"	"Precisamos de uma intervenção séria, ou vamos perder esta instalação."
+"MailFrom1"	"De: Laura Callen"
+"MailDate1"	"Data: 24/12/52"
+"MailSubject1"	"Assunto: É isso mesmo?"
+"MailBody1A"	"Lei marcial?"
+"MailBody1B"	"É tarde demais para isso."
+"MailBody1C"	"Precisamos de uma intervenção séria, ou vamos perder esta instalação."
 }
