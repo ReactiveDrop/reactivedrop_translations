@@ -94,6 +94,8 @@
 "StatsWeb_CopyrightDisclaimer"		"Valve, Alien Swarm, the Alien Swarm logo, Source, and the Source logo are trademarks and/or registered trademarks of Valve Corporation in the United States and other countries."
 "StatsWeb_GlobalStatsDesc"		"Alien Swarm: Reactive Drop global mission statistics."
 "StatsWeb_GlobalWeaponStatsDesc"		"A list of all-time global statistics for every weapon available in Alien Swarm: Reactive Drop."
+// format is strftime, see https://github.com/KarpelesLab/strftime#pattern-support
+"StatsWeb_DateFormat"		"%e %B %Y"
 "StatsWeb_StartedMinutesAgo"		"Started %d minutes ago"
 "StatsWeb_StartedHoursAgo"		"Started %d hours ago"
 "StatsWeb_JustNow"		"just now"
@@ -185,6 +187,7 @@
 "StatsWeb_PreviousCampaigns"		"Previous Campaigns"
 "StatsWeb_NextCampaigns"		"More Campaigns"
 "StatsWeb_ByAuthor"		"by %s"
+"StatsWeb_RankNumber"		"#%s"
 "StatsWeb_ShortNum_Thousand0"		"%dk"
 "StatsWeb_ShortNum_Thousand1"		"%d.%dk"
 "StatsWeb_ShortNum_Million0"		"%dM"
