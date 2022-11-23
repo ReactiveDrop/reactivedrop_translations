@@ -1,13 +1,13 @@
 ﻿GAME
 {
-	// PDA belongs to Overseer Ross
+// PDA belongs to Overseer Ross
 
-	// Inbox
+// Inbox
 
-	"MailFrom1"	"差出人: ハロルド司令官"
-	"MailDate1"	"送信日時: 54年2月2日"
-	"MailSubject1"	"件名: 報告"
-	"MailBody1A"	"報告書を受け取ったぞロス、"
-	"MailBody1B"	"お前が言ったことは本当なのか？間違いならタダじゃ済まさんぞ。"
-	"MailBody1c"	"逆に言えば、本当なら恐ろしいことになったぞ。 ハロルド、通信終了。"
+"MailFrom1"	"差出人: ハロルド司令官"
+"MailDate1"	"送信日時: 54年2月2日"
+"MailSubject1"	"件名: 報告"
+"MailBody1A"	"報告書を受け取ったぞロス、"
+"MailBody1B"	"お前が言ったことは本当なのか？間違いならタダじゃ済まさんぞ。"
+"MailBody1c"	"逆に言えば、本当なら恐ろしいことになったぞ。 ハロルド、通信終了。"
 }

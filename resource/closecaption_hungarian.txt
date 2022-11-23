@@ -6,6 +6,7 @@
 		"testcommands"		"<clr:255,0,0>This is red<I> and italics<B> and<cr>bold<B><I><clr:255,255,255> white again."
 		"[english]testcommands"		"<clr:255,0,0>This is red<I> and italics<B> and<cr>bold<B><I><clr:255,255,255> white again."
 "Command.co_m1_ob1"		"<clr:240,255,255>Parancsnok: Jól van, osztag. Ellenőriznünk kell a rakományjegyzékeket, hogy megtudjuk, jutottak-e ki túlélők erről a kődarabról. Jussanak le leszállóhangárhoz és keressenek egy terminált, ahol letölthetjük a szállítási feljegyzéseket. Ott majd újra jelentkezem."
+//Commander Audio
 "[english]Command.co_m1_ob1"		"<clr:240,255,255>Commander: Okay, squad. We need to check the shipping manifests to see if any survivors made it off this rock. Make your way down to the landing bay and find a terminal where we can download the transport records. I'll check in with you there."
 "Command.co_m1_ob2"		"<clr:240,255,255>Parancsnok: Hát, ezek a jegyzékek használhatatlanok. Gondolom, nem a nyilvántartás vezetése volt a legfontosabb dolguk, mikor a Raj rajtuk ütött. Mostantól további utasításig kutató-mentő feladatot látunk el, úgyhogy keressenek túlélőket. Irány a távolabbi kijárat, aztán majd alakzatba fejlődünk."
 "[english]Command.co_m1_ob2"		"<clr:240,255,255>Commander: Well, these manifests are useless. Guess record keeping wasn't exactly high on the priority list when the swarm hit. We are now search and rescue until otherwise informed, so keep an eye out for survivors. Head for the far exit and then we'll regroup."
@@ -146,6 +147,7 @@
 "Command.co_debriefing_ob10"		"<clr:240,255,255>Parancsnok: Még mindig észlelünk egy nagy, egybefüggő hőforrást egy mély, erősen védett kamrában. A CSFE Parancsnokság elsődleges fontosságúnak tekinti ennek kivizsgálását."
 "[english]Command.co_debriefing_ob10"		"<clr:240,255,255>Commander: We are still detecting a single large heat source in a deep, well protected chamber. IAF Command is making investigation of this a priority."
 "bastille.SynUpReply0"		"<clr:205,127,50>Bastille: Hidd el, jobb, ha nem iszol abból a szarból."
+//Bastille
 "[english]bastille.SynUpReply0"		"<clr:205,127,50>Bastille: You don't wanna drink that shit, believe me."
 "bastille.CrashComplainReply0"		"<clr:205,127,50>Bastille: Talán jelentened kéne, hogy idegösszeomlásod van."
 "[english]bastille.CrashComplainReply0"		"<clr:205,127,50>Bastille: Maybe you should report a nervous breakdown."
@@ -708,6 +710,7 @@
 "bastille.Selection4"		"<clr:205,127,50>Bastille: Jelen."
 "[english]bastille.Selection4"		"<clr:205,127,50>Bastille: Reporting."
 "crash.SargeIdleReply0"		"<clr:238,180,34>Crash: Főtörzs, maga aztán tudja, hogy nyugtasson meg egy osztagot..."
+//Crash
 "[english]crash.SargeIdleReply0"		"<clr:238,180,34>Crash: You really know how to make a squad feel safe, Sarge."
 "crash.SargeIdleReply1"		"<clr:238,180,34>Crash: Úgy érti, most haza akar menni, Főtörzs?"
 "[english]crash.SargeIdleReply1"		"<clr:238,180,34>Crash: That mean you wanna go home now, Sarge?"
@@ -1140,6 +1143,7 @@
 "crash.Selection2"		"<clr:238,180,34>Crash: Mi a helyzet?"
 "[english]crash.Selection2"		"<clr:238,180,34>Crash: What's up?"
 "faith.SynUpReply0"		"<clr:178,34,34>Faith: A Magrendszerek fele rá van kattanva arra a löttyre."
+//Faith
 "[english]faith.SynUpReply0"		"<clr:178,34,34>Faith: Half the core world is addicted to that stuff."
 "faith.SynUpReply1"		"<clr:178,34,34>Faith: Hidd el, jobb, ha nem iszol abból a szarból."
 "[english]faith.SynUpReply1"		"<clr:178,34,34>Faith: You don't want to drink that shit, believe me."
@@ -1538,6 +1542,7 @@
 "faith.Selection5"		"<clr:178,34,34>Faith: Akar valamit?"
 "[english]faith.Selection5"		"<clr:178,34,34>Faith: You need me?"
 "jaeger.WeatherReply0"		"<clr:198,226,255>Jaeger: Ja, a legutóbbi vakációmra emlékeztet."
+//Jaeger
 "[english]jaeger.WeatherReply0"		"<clr:198,226,255>Jaeger: Yeah, reminds me of my last vacation."
 "jaeger.MedicComplainReply0"		"<clr:198,226,255>Jaeger: Mintha szándékosan csinálnám..."
 "[english]jaeger.MedicComplainReply0"		"<clr:198,226,255>Jaeger: It's not like I do it on purpose."
@@ -1890,6 +1895,7 @@
 "jaeger.Selection1"		"<clr:198,226,255>Jaeger: Jaeger jelen."
 "[english]jaeger.Selection1"		"<clr:198,226,255>Jaeger: Jaeger here."
 "sarge.SargeIdle0"		"<clr:238,207,161>Főtörzs: Ugye tudjátok, hogy a Raj-dolgozók karmai simán átszakítják a páncélunkat?"
+//Sarge
 "[english]sarge.SargeIdle0"		"<clr:238,207,161>Sarge: You know the claws on a swarm drone can rip right through our armor."
 "sarge.SargeIdle1"		"<clr:238,207,161>Főtörzs: Egyszer láttam, ahogy egy ilyen izé simán leharapja egy katona karját."
 "[english]sarge.SargeIdle1"		"<clr:238,207,161>Sarge: I once saw a marine have his hand bitten clean off by one of these things."
@@ -2340,6 +2346,7 @@
 "sarge.Selection3"		"<clr:238,207,161>Főtörzs: Folytassa."
 "[english]sarge.Selection3"		"<clr:238,207,161>Sarge: Proceed."
 "vegas.FirstBloodStart0"		"<clr:84,255,159>Vegas: Fogadjunk, ki sérül meg először."
+//Vegas
 "[english]vegas.FirstBloodStart0"		"<clr:84,255,159>Vegas: Taking bets on first blood."
 "vegas.FirstBloodWin0"		"<clr:84,255,159>Vegas: Haha, a szerencse ma Vegasnak kedvez."
 "[english]vegas.FirstBloodWin0"		"<clr:84,255,159>Vegas: Haha, fortune favours Vegas today."
@@ -2790,6 +2797,7 @@
 "vegas.Selection2"		"<clr:84,255,159>Vegas: Mit akarsz?"
 "[english]vegas.Selection2"		"<clr:84,255,159>Vegas: What do you want?"
 "wildcat.WolfeBestReply0"		"<clr:238,106,80>Wildcat: Juhé! Hát, most majd meglátjuk, ki is a legjobb!"
+//Wildcat
 "[english]wildcat.WolfeBestReply0"		"<clr:238,106,80>Wildcat: Heha! Yeah, well, We'll see who's the best now!"
 "wildcat.WolfeBestReply1"		"<clr:238,106,80>Wildcat: Ja, de nekem is van pár trükköm."
 "[english]wildcat.WolfeBestReply1"		"<clr:238,106,80>Wildcat: Yeah, but I've got some tricks of my own."
@@ -3138,6 +3146,7 @@
 "wildcat.Grenade1"		"<clr:238,106,80>Wildcat: Figyelj."
 "[english]wildcat.Grenade1"		"<clr:238,106,80>Wildcat: Watch out."
 "wolfe.WolfeBest0"		"<clr:154,205,50>Wolfe: Esélyed sincs, mindenre én tanítottalak."
+//Wolfe
 "[english]wolfe.WolfeBest0"		"<clr:154,205,50>Wolfe: You got no chance, I taught you everything."
 "wolfe.WolfeBest1"		"<clr:154,205,50>Wolfe: Esélyed sincs; ne feledd, mindenre én tanítottalak."
 "[english]wolfe.WolfeBest1"		"<clr:154,205,50>Wolfe: You got no chance, remember I taught you everything."
@@ -3736,6 +3745,7 @@
 "wolfe.Selection2"		"<clr:154,205,50>Wolfe: Uram?"
 "[english]wolfe.Selection2"		"<clr:154,205,50>Wolfe: Sir."
 "ASWComputer.Startup"		"<clr:238,0,0>A BÁZIS SZÁMÍTÓGÉPE: SynTek Megatársaság."
+//BASE COMPUTER
 "[english]ASWComputer.Startup"		"<clr:238,0,0>BASE COMPUTER: SynTek Megacorporation."
 "ASWComputer.AccessDenied"		"<clr:238,0,0>A BÁZIS SZÁMÍTÓGÉPE: Hozzáférés megtagadva."
 "[english]ASWComputer.AccessDenied"		"<clr:238,0,0>BASE COMPUTER: Access Denied."
@@ -3788,6 +3798,7 @@
 "ASWCountdown.Countdown10"		"<clr:238,0,0>A BÁZIS SZÁMÍTÓGÉPE: Nukleáris robbanás 10 másodperc múlva."
 "[english]ASWCountdown.Countdown10"		"<clr:238,0,0>BASE COMPUTER: Nuclear detonation in 10 seconds."
 		"Duval.01_02"		"<clr:179,203,207><B>Prof. Duval:<B> Charlie, Julie Duval here. Thermals from your shuttle's radar are tracking multiple signals in and out the installation's roofs and ducts. Though these readouts are oddly...human, for lack of details."
+		//NAM HUMANUM
 		"[english]Duval.01_02"		"<clr:179,203,207><B>Prof. Duval:<B> Charlie, Julie Duval here. Thermals from your shuttle's radar are tracking multiple signals in and out the installation's roofs and ducts. Though these readouts are oddly...human, for lack of details."
 		"Duval.01_03"		"<clr:179,203,207><B>Prof. Duval:<B> Their morphologies are just...not right. This specimen…"
 		"[english]Duval.01_03"		"<clr:179,203,207><B>Prof. Duval:<B> Their morphologies are just...not right. This specimen…"
@@ -3884,6 +3895,7 @@
 		"Vesta.03_11"		"<clr:234,217,245><B>???:<B> Vesta...lives."
 		"[english]Vesta.03_11"		"<clr:234,217,245><B>???:<B> Vesta...lives."
 		"Amber.01_01"		"<clr:255,0,0><B>AMBER Warning:<B><clr:158,143,39> Antenna Communication Failure."
+		// ACCIDENT 32
 		"[english]Amber.01_01"		"<clr:255,0,0><B>AMBER Warning:<B><clr:158,143,39> Antenna Communication Failure."
 		"Amber.01_02"		"<clr:255,0,0><B>AMBER Warning:<B><clr:158,143,39> Secondary Reactor Coolant Activated."
 		"[english]Amber.01_02"		"<clr:255,0,0><B>AMBER Warning:<B><clr:158,143,39> Secondary Reactor Coolant Activated."

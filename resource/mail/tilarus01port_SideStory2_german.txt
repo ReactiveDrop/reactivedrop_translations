@@ -1,34 +1,34 @@
 GAME
 {
-	// PDA belongs to Overseer Ross
+// PDA belongs to Overseer Ross
 
-	// Inbox
+// Inbox
 
-	"MailFrom1"	"Von: Jimmy Carter"
-	"MailDate1"	"Datum: 02/02/54"
-	"MailSubject1"	"Betreff: Reaktordruck runter"
-	"MailBody1A"	"Hey Ross,"
-	"MailBody1B"	"Ich melde nur ein paar seltsame Geräusche in Abschnitt 6."
-	"MailBody1C"	"Und noch mehr kaputte Rohre, VIEL mehr Rohre, der Druck in Reaktor 1 ist um 15% gesunken."
-	"MailBody1D"	"Ich könnte etwas Hilfe gebrauchen, wir sprechen uns später."
-	"MailFrom2"	"Von: Jimmy Carter"
-	"MailDate2"	"Datum: 02/02/54"
-	"MailSubject2"	"Betreff: John?"
-	"MailBody2A"	"Ross, es ist fast 8 Stunden her. Wann willst du John runterschicken?"
+"MailFrom1"	"Von: Jimmy Carter"
+"MailDate1"	"Datum: 02/02/54"
+"MailSubject1"	"Betreff: Reaktordruck runter"
+"MailBody1A"	"Hey Ross,"
+"MailBody1B"	"Ich melde nur ein paar seltsame Geräusche in Abschnitt 6."
+"MailBody1C"	"Und noch mehr kaputte Rohre, VIEL mehr Rohre, der Druck in Reaktor 1 ist um 15% gesunken."
+"MailBody1D"	"Ich könnte etwas Hilfe gebrauchen, wir sprechen uns später."
+"MailFrom2"	"Von: Jimmy Carter"
+"MailDate2"	"Datum: 02/02/54"
+"MailSubject2"	"Betreff: John?"
+"MailBody2A"	"Ross, es ist fast 8 Stunden her. Wann willst du John runterschicken?"
 
-	// Sent
+// Sent
 
-	"MailFrom3"	"An: Aufseher Ross"
-	"MailDate3"	"Datum: 02/02/54"
-	"MailSubject3"	"Betreff: Aw: Reaktordruck runter"
-	"MailBody3A"	"Jimmy,"
-	"MailBody3B"	"tut mir leid, Jimmy, mir sind die Hände gebunden, der größte Teil der Einrichtung ist mit den Aufräumarbeiten nach dem Unfall in Hangar 6 beschäftigt."
-	"MailBody3C"	"Aber ich werde John mitschicken, er soll den Reaktor kontrollieren, denn wenn er unter 25% fällt, geht die Energie der Kolonie mit ihm unter."
-	"MailFrom4"	"An: Aufseher Ross"
-	"MailDate4"	"Datum: 02/02/54"
-	"MailSubject4"	"Betreff: Aw: John"
-	"MailBody4A"	"Jimmy,"
-	"MailBody4B"	"Ich habe John gleich nach der Post runtergeschickt, es dauert höchstens 20 Minuten, bis er bei dir ist."
-	"MailBody4C"	"Ich werde mit seinen anderen Freunden sprechen, mal sehen, ob sie wissen, wo er ist"
-	"MailBody4D"	"Ich werde auch den Sicherheitsdienst informieren, dass sie nach ihm Ausschau halten sollen, denn in letzter Zeit verschwinden sehr viele Leute."
+"MailFrom3"	"An: Aufseher Ross"
+"MailDate3"	"Datum: 02/02/54"
+"MailSubject3"	"Betreff: Aw: Reaktordruck runter"
+"MailBody3A"	"Jimmy,"
+"MailBody3B"	"tut mir leid, Jimmy, mir sind die Hände gebunden, der größte Teil der Einrichtung ist mit den Aufräumarbeiten nach dem Unfall in Hangar 6 beschäftigt."
+"MailBody3C"	"Aber ich werde John mitschicken, er soll den Reaktor kontrollieren, denn wenn er unter 25% fällt, geht die Energie der Kolonie mit ihm unter."
+"MailFrom4"	"An: Aufseher Ross"
+"MailDate4"	"Datum: 02/02/54"
+"MailSubject4"	"Betreff: Aw: John"
+"MailBody4A"	"Jimmy,"
+"MailBody4B"	"Ich habe John gleich nach der Post runtergeschickt, es dauert höchstens 20 Minuten, bis er bei dir ist."
+"MailBody4C"	"Ich werde mit seinen anderen Freunden sprechen, mal sehen, ob sie wissen, wo er ist"
+"MailBody4D"	"Ich werde auch den Sicherheitsdienst informieren, dass sie nach ihm Ausschau halten sollen, denn in letzter Zeit verschwinden sehr viele Leute."
 }

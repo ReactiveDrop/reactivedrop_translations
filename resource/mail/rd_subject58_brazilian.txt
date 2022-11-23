@@ -1,23 +1,23 @@
 GAME
 {
-	// PDA belongs to Dr. Tom Hinler
+// PDA belongs to Dr. Tom Hinler
 
-	// Inbox
+// Inbox
 
-	"MailFrom1"	"De: Tom Hinler"
-	"MailDate1"	"Data: 26/05/60."
-	"MailSubject1"	"Assunto: Cobaia 58."
-	"MailBody1A"	"Quinta-feira, 21 de maio:"
-	"MailBody1B"	"Hoje implementamos com sucesso um DNA recombinante no paciente. Este DNA veio do Alien capturado há alguns dias por uma patrulha. O paciente parece estar bem de saúde."
-	"MailBody1C"	"Sábado, 23 de maio:"
-	"MailBody1D"	"O paciente fala de dor de cabeça, náuseas, tonturas e constantes. Sua condição está se deteriorando dia a dia. Talvez o implante tenha falhado... De novo."
-	"MailBody1E"	"Segunda-feira, 25 de maio:"
-	"MailBody1F"	"Temos um problema de verdade. O paciente está se comportando de forma muito estranha. Ele tem ataques de loucura com mais frequência e se tornou cada vez mais violento com os médicos que estão cuidando do seu caso. Devemos tomar uma decisão."
-	"MailBody1G"	"Se continuar assim, vai acabar machucando alguém, ou pior..."
-	"MailBody1H"	"Terça-feira, 26 de maio:"
-	"MailBody1I"	"O paciente escapou. Ele feriu dois médicos. Muitos soldados começaram a procurá-lo. Eles o encontraram à tarde, com corte ocioso e corpo manchado de sangue. Nós trouxemos a sala médica, e o matamos, para realizar mais estudos. Nós precisávamos, scaso contrário, ele teria degenerado.
-	"MailBody1J"	""
-	"MailBody1K"	"= Cobaia 58: Failhou. ="
-	"MailBody1L"	""
-	"MailBody1M"	"Dr. Tom Hinler"
+"MailFrom1"	"De: Tom Hinler"
+"MailDate1"	"Data: 26/05/60."
+"MailSubject1"	"Assunto: Cobaia 58."
+"MailBody1A"	"Quinta-feira, 21 de maio:"
+"MailBody1B"	"Hoje implementamos com sucesso um DNA recombinante no paciente. Este DNA veio do Alien capturado há alguns dias por uma patrulha. O paciente parece estar bem de saúde."
+"MailBody1C"	"Sábado, 23 de maio:"
+"MailBody1D"	"O paciente fala de dor de cabeça, náuseas, tonturas e constantes. Sua condição está se deteriorando dia a dia. Talvez o implante tenha falhado... De novo."
+"MailBody1E"	"Segunda-feira, 25 de maio:"
+"MailBody1F"	"Temos um problema de verdade. O paciente está se comportando de forma muito estranha. Ele tem ataques de loucura com mais frequência e se tornou cada vez mais violento com os médicos que estão cuidando do seu caso. Devemos tomar uma decisão."
+"MailBody1G"	"Se continuar assim, vai acabar machucando alguém, ou pior..."
+"MailBody1H"	"Terça-feira, 26 de maio:"
+"MailBody1I"	"O paciente escapou. Ele feriu dois médicos. Muitos soldados começaram a procurá-lo. Eles o encontraram à tarde, com corte ocioso e corpo manchado de sangue. Nós trouxemos a sala médica, e o matamos, para realizar mais estudos. Nós precisávamos, scaso contrário, ele teria degenerado.
+"MailBody1J"	""
+"MailBody1K"	"= Cobaia 58: Failhou. ="
+"MailBody1L"	""
+"MailBody1M"	"Dr. Tom Hinler"
 }

@@ -1,14 +1,14 @@
 GAME
 {
-	// PDA belongs to Sgt. Sarah Weiss
+// PDA belongs to Sgt. Sarah Weiss
 
-	// Sent
+// Sent
 
-	"MailFrom3"	"À: Gael Florenza"
-	"MailDate3"	"Date: 16/06/42"
-	"MailSubject3"	"Objet: C’est Carradine"
-	"MailBody3A"	"[Échec de l’envoi: votre PDA a été déconnecté du réseau local]"
-	"MailBody3B"	"Florenza, je choisis de vous dire ça à vous parce que... merde. Ça fait mal de l’admettre, mais vous êtes le moins pire de tous."
-	"MailBody3C"	"Je serais prête à parier mon badge là-dessus: Capitaine Carradine à quelque chose à voir avec les disparitions. S’il en est pas directement à l’origine, il collabore avec celui ou ceux qui le sont. Comment je le sais ? Parce que j’ai posé LA question de trop à laquelle il a pas su répondre. Un héros de guerre, peut-être, mais bon dieux s’il est pas le pire menteur que j’ai eu le malheur de connaître. Qui se pointe alors deux jours plus tard, me désignant personnellement pour une “mission de maintenance” ? Maintenance mon cul. Le chien m’a enfermé dans la vieille pièce de contrôle des portes de l’entrepôt pour me laisser pourrir. Il a même osé feindre la panne d’alimentation, mais je suis pas c*nne. Mon PDA a été déconnecté du serveur juste après. Sacré coïncidence."
-	"MailBody3D"	"Lieutenant, si je crève ici mais que par miracle vous recevez mon message: arrêtez ces chiens, ou bien personne ne le fera."
+"MailFrom3"	"À: Gael Florenza"
+"MailDate3"	"Date: 16/06/42"
+"MailSubject3"	"Objet: C’est Carradine"
+"MailBody3A"	"[Échec de l’envoi: votre PDA a été déconnecté du réseau local]"
+"MailBody3B"	"Florenza, je choisis de vous dire ça à vous parce que... merde. Ça fait mal de l’admettre, mais vous êtes le moins pire de tous."
+"MailBody3C"	"Je serais prête à parier mon badge là-dessus: Capitaine Carradine à quelque chose à voir avec les disparitions. S’il en est pas directement à l’origine, il collabore avec celui ou ceux qui le sont. Comment je le sais ? Parce que j’ai posé LA question de trop à laquelle il a pas su répondre. Un héros de guerre, peut-être, mais bon dieux s’il est pas le pire menteur que j’ai eu le malheur de connaître. Qui se pointe alors deux jours plus tard, me désignant personnellement pour une “mission de maintenance” ? Maintenance mon cul. Le chien m’a enfermé dans la vieille pièce de contrôle des portes de l’entrepôt pour me laisser pourrir. Il a même osé feindre la panne d’alimentation, mais je suis pas c*nne. Mon PDA a été déconnecté du serveur juste après. Sacré coïncidence."
+"MailBody3D"	"Lieutenant, si je crève ici mais que par miracle vous recevez mon message: arrêtez ces chiens, ou bien personne ne le fera."
 }

@@ -1,30 +1,30 @@
 GAME
 {
-	// PDA belongs to Brian Howe
+// PDA belongs to Brian Howe
 
-	// Inbox
+// Inbox
 
-	"MailFrom1"	"De: Laura Callen"
-	"MailDate1"	"Data: 21/12/52"
-	"MailSubject1"	"Assunto: Fluxo de informação"
-	"MailBody1A"	"Sr. Howe,"
-	"MailBody1B"	"Por que você não me informou sobre os ovos que você e sua equipe encontraram na mina na semana passada?. A menos que você possa fornecer uma justificativa sólida para esse lapso, terei que registrar uma ocorrencia."
-	"MailBody1C"	"L. Callen"
+"MailFrom1"	"De: Laura Callen"
+"MailDate1"	"Data: 21/12/52"
+"MailSubject1"	"Assunto: Fluxo de informação"
+"MailBody1A"	"Sr. Howe,"
+"MailBody1B"	"Por que você não me informou sobre os ovos que você e sua equipe encontraram na mina na semana passada?. A menos que você possa fornecer uma justificativa sólida para esse lapso, terei que registrar uma ocorrencia."
+"MailBody1C"	"L. Callen"
 
-	"MailFrom2"	"De: Laura Callen"
-	"MailDate2"	"Data: 21/12/52"
-	"MailSubject2"	"Assunto: Re: Re: Fluxo de informação"
-	"MailBody2A"	"Sr. Howe,"
-	"MailBody2B"	"Verifiquei meus registros, mas não vejo seu memorando. Isso é preocupante. Falei com o administrador do sistema, na esperança de encontrar algum tipo de explicação. Vou pegar o próximo trem para a Estação Timor. Chegando as 08:45. Você poderia me buscar?"
-	"MailBody2C"	"L. Callen"
+"MailFrom2"	"De: Laura Callen"
+"MailDate2"	"Data: 21/12/52"
+"MailSubject2"	"Assunto: Re: Re: Fluxo de informação"
+"MailBody2A"	"Sr. Howe,"
+"MailBody2B"	"Verifiquei meus registros, mas não vejo seu memorando. Isso é preocupante. Falei com o administrador do sistema, na esperança de encontrar algum tipo de explicação. Vou pegar o próximo trem para a Estação Timor. Chegando as 08:45. Você poderia me buscar?"
+"MailBody2C"	"L. Callen"
 
-	// Sent
+// Sent
 
-	"MailFrom3"	"Para: Laura Callen"
-	"MailDate3"	"Data: 21/12/52"
-	"MailSubject3"	"Assunto: Re: Fluxo de informação"
-	"MailBody3A"	"Cara Srta. Callen,"
-	"MailBody3B"	"Eu SEGUI o procedimento. Lhe enviei um memorando detalhado há 6 dias atrás. Também lhe enviei um e-mail sobre os problemas de segurança que temos tido ultimamente na Estação de Timor. Dois trabalhadores desapareceram na segunda-feira e hoje tivemos uma fatalidade"
-	"MailBody3C"	"Meus homens estão exaustos de trabalhar em turnos duplos. O calor é opressivo, e eles estão começando a alucinar de fadiga -- relatando ruídos inexplicáveis e tal. Eu gostaria que você falasse com a SynTek e visse que as coisas melhoraram por aqui o mais rápido possível"
-	"MailBody3D"	"B. Howe"
+"MailFrom3"	"Para: Laura Callen"
+"MailDate3"	"Data: 21/12/52"
+"MailSubject3"	"Assunto: Re: Fluxo de informação"
+"MailBody3A"	"Cara Srta. Callen,"
+"MailBody3B"	"Eu SEGUI o procedimento. Lhe enviei um memorando detalhado há 6 dias atrás. Também lhe enviei um e-mail sobre os problemas de segurança que temos tido ultimamente na Estação de Timor. Dois trabalhadores desapareceram na segunda-feira e hoje tivemos uma fatalidade"
+"MailBody3C"	"Meus homens estão exaustos de trabalhar em turnos duplos. O calor é opressivo, e eles estão começando a alucinar de fadiga -- relatando ruídos inexplicáveis e tal. Eu gostaria que você falasse com a SynTek e visse que as coisas melhoraram por aqui o mais rápido possível"
+"MailBody3D"	"B. Howe"
 }

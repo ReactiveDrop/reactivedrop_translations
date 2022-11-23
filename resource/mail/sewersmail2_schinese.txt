@@ -1,14 +1,14 @@
 GAME
 {
-	// PDA belongs to Brian Howe
+// PDA belongs to Brian Howe
 
-	// Inbox
+// Inbox
 
-	"MailFrom1"	"发件人：海伦.杨"
-	"MailDate1"	"日期：12/24/52"
-	"MailSubject1"	"主题：快去实验室"
-	"MailBody1A"	"布莱恩，到底怎么回事？枪声？尖叫？菲尔和我决定去实验室看看。我们会通过通风系统到达2号平台。"
-	"MailBody1B"	"我爱你。请与我联系!"
-	"MailBody1C"	"海伦"
-	"MailBody1D"	"附注：生日快乐，无论如何。"
+"MailFrom1"	"发件人：海伦.杨"
+"MailDate1"	"日期：12/24/52"
+"MailSubject1"	"主题：快去实验室"
+"MailBody1A"	"布莱恩，到底怎么回事？枪声？尖叫？菲尔和我决定去实验室看看。我们会通过通风系统到达2号平台。"
+"MailBody1B"	"我爱你。请与我联系!"
+"MailBody1C"	"海伦"
+"MailBody1D"	"附注：生日快乐，无论如何。"
 }

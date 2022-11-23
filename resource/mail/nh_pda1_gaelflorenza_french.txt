@@ -1,22 +1,22 @@
 GAME
 {
-	// Hacked into network history: Lt. Gael Florenza
+// Hacked into network history: Lt. Gael Florenza
 
-	// Sent
+// Sent
 
-	"MailFrom3"	"À: Iris Florenza"
-	"MailDate3"	"Date: 18/01/40"
-	"MailSubject3"	"Objet: Arrivée à bon port"
-	"MailBody3A"	"Mon cœur,"
-	"MailBody3B"	"L’équipe des communications demande à ce qu’on garde les transmissions brèves le temps que l’installation se fasse, alors voilà. Nous avons enfin mis pied sur Cassius-III. Comme prédit la météo n’y est pas des plus facile, sans parler du fait que l’on est encore largement dépendants des systèmes de survie de la navette. Mais chacun fait déjà de son mieux pour en faire un chez-soi malgré tout. On pourrait presque en faire un conte. Mais je suppose que de simples lettres devront suffire, depuis mon île enneigée jusqu’à toi, par-delà l’océan d’étoiles qui nous sépare."
-	"MailBody3C"	"Cela fait 5 mois que j’ai quitté ton port, chère Iris, et cela semble déjà une éternité en mer. Je compte faire de cette modeste colonie un havre pour nous deux, et pour le petit homme qui grandit en toi."
-	"MailBody3D"	"Nam Humanum"
+"MailFrom3"	"À: Iris Florenza"
+"MailDate3"	"Date: 18/01/40"
+"MailSubject3"	"Objet: Arrivée à bon port"
+"MailBody3A"	"Mon cœur,"
+"MailBody3B"	"L’équipe des communications demande à ce qu’on garde les transmissions brèves le temps que l’installation se fasse, alors voilà. Nous avons enfin mis pied sur Cassius-III. Comme prédit la météo n’y est pas des plus facile, sans parler du fait que l’on est encore largement dépendants des systèmes de survie de la navette. Mais chacun fait déjà de son mieux pour en faire un chez-soi malgré tout. On pourrait presque en faire un conte. Mais je suppose que de simples lettres devront suffire, depuis mon île enneigée jusqu’à toi, par-delà l’océan d’étoiles qui nous sépare."
+"MailBody3C"	"Cela fait 5 mois que j’ai quitté ton port, chère Iris, et cela semble déjà une éternité en mer. Je compte faire de cette modeste colonie un havre pour nous deux, et pour le petit homme qui grandit en toi."
+"MailBody3D"	"Nam Humanum"
 
-	"MailFrom4"	"À: Iris Florenza"
-	"MailDate4"	"Date: 07/02/40"
-	"MailSubject4"	"Objet: Les débuts d’un rêve"
-	"MailBody4A"	"Mon cœur,"
-	"MailBody4B"	"On m’a informé que ces messages pourraient voyager un certain temps avant de te parvenir. C’est dû à tout un charabia technique dans lequel je ne rentrerai pas, pour ton propre bien. J’espère que tout va pour le mieux, pour toi et le bébé. Ici l’installation de la colonie persévère, avec la mise en place du complexe de recherche comme façade de notre progrès. Les expéditions géologiques n’auront pas lieu avant quelques mois toutefois, le temps que les systèmes de survie de la colonie obtiennent le feu vert."
-	"MailBody4C"	"Les chefs de la mission, M. et Mme Moreau dirigent les opérations avec enthousiasme et inspiration. Les colons ont rapidement pris à les appeler les “Adam et Eve de Lugdunum”. Voir les sourires que ça leur évoque me rassure, bien que je ne saurai pas vraiment expliquer pourquoi. Ce dont je suis sûr, c’est que je continuerai de t’écrire jusqu’à ce que nous soyons nous aussi réunis. Qui sait, peut-être une fois que nous aurons notre propre garderie."
-	"MailBody4D"	"Nam Humanum"
+"MailFrom4"	"À: Iris Florenza"
+"MailDate4"	"Date: 07/02/40"
+"MailSubject4"	"Objet: Les débuts d’un rêve"
+"MailBody4A"	"Mon cœur,"
+"MailBody4B"	"On m’a informé que ces messages pourraient voyager un certain temps avant de te parvenir. C’est dû à tout un charabia technique dans lequel je ne rentrerai pas, pour ton propre bien. J’espère que tout va pour le mieux, pour toi et le bébé. Ici l’installation de la colonie persévère, avec la mise en place du complexe de recherche comme façade de notre progrès. Les expéditions géologiques n’auront pas lieu avant quelques mois toutefois, le temps que les systèmes de survie de la colonie obtiennent le feu vert."
+"MailBody4C"	"Les chefs de la mission, M. et Mme Moreau dirigent les opérations avec enthousiasme et inspiration. Les colons ont rapidement pris à les appeler les “Adam et Eve de Lugdunum”. Voir les sourires que ça leur évoque me rassure, bien que je ne saurai pas vraiment expliquer pourquoi. Ce dont je suis sûr, c’est que je continuerai de t’écrire jusqu’à ce que nous soyons nous aussi réunis. Qui sait, peut-être une fois que nous aurons notre propre garderie."
+"MailBody4D"	"Nam Humanum"
 }

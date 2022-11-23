@@ -1,6 +1,6 @@
 ﻿"lang" 
 { 
-"Language"	"English" 
+"Language"	"english"
 "Tokens" 
 { 
 "ServerBrowser_Filter"	"Filter"
@@ -167,7 +167,6 @@
 "VAC_Status"	"VAC Status:"
 "Steam_ValidLoginRequiredTitle"	"Valid Steam Login Required"
 
-// need to remove the VAC line from this when we have our authentication system going via the Steam servers (when it should change to a login failure)
 "Steam_ValidLoginRequired"	"A connection to the Steam VAC servers could not be made. For troubleshooting network issues, please click the link below."
 "VAC_ConnectionIssuesSupport_Title"	"Secure Connection Failed"
 "VAC_ConnectionIssuesSupportSite"	"Click here to visit Steam support"

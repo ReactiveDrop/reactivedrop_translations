@@ -1,22 +1,22 @@
 GAME
 {
-	// PDA belongs to Dr. Joseph Palmer
+// PDA belongs to Dr. Joseph Palmer
 
-	// Inbox
+// Inbox
 
-	"MailFrom1"	"Da: David Foster"
-	"MailDate1"	"Data: 03/13/46"
-	"MailSubject1"	"Soggetto: Dosaggio"
-	"MailBody1A"	"Joseph,"
-	"MailBody1B"	"Penso di aver capito perché il paziente Molligan non è sopravvissuto."
-	"MailBody1C"	"La dose citostatica era insufficiente. Raccomando di dare un secondo dosaggio durante la fase di chiusura della mutazione."
-	"MailBody1D"	"Dr. Foster"
+"MailFrom1"	"Da: David Foster"
+"MailDate1"	"Data: 03/13/46"
+"MailSubject1"	"Soggetto: Dosaggio"
+"MailBody1A"	"Joseph,"
+"MailBody1B"	"Penso di aver capito perché il paziente Molligan non è sopravvissuto."
+"MailBody1C"	"La dose citostatica era insufficiente. Raccomando di dare un secondo dosaggio durante la fase di chiusura della mutazione."
+"MailBody1D"	"Dr. Foster"
 
-	// Sent
+// Sent
 
-	"MailFrom3"	"A: David Foster"
-	"MailDate3"	"Data: 03/13/46"
-	"MailSubject3"	"Soggetto: Re: Dosaggio"
-	"MailBody3A"	"Sono d'accordo."
-	"MailBody3B"	"La prossima volta aumenteremo il dosaggio. Sono abbastanza sicuro di aver trovato un paziente adatto."
+"MailFrom3"	"A: David Foster"
+"MailDate3"	"Data: 03/13/46"
+"MailSubject3"	"Soggetto: Re: Dosaggio"
+"MailBody3A"	"Sono d'accordo."
+"MailBody3B"	"La prossima volta aumenteremo il dosaggio. Sono abbastanza sicuro di aver trovato un paziente adatto."
 }

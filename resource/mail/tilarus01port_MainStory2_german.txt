@@ -1,13 +1,13 @@
 GAME
 {
-	// PDA belongs to Overseer Ross
+// PDA belongs to Overseer Ross
 
-	// Inbox
+// Inbox
 
-	"MailFrom1"	"Von: Commander Harold"
-	"MailDate1"	"Datum: 02/02/54"
-	"MailSubject1"	"Betreff: Berichte"
-	"MailBody1A"	"Ich habe hier deine Berichte, Ross."
-	"MailBody1B"	"Bist du dir sicher, dass das, was du mir erzählst, richtig ist? Denn wenn nicht, dann sieht es nicht gut für dich aus."
-	"MailBody1c"	"Andererseits, wenn es so ist, sind wir alle am Arsch, Harold Out"
+"MailFrom1"	"Von: Commander Harold"
+"MailDate1"	"Datum: 02/02/54"
+"MailSubject1"	"Betreff: Berichte"
+"MailBody1A"	"Ich habe hier deine Berichte, Ross."
+"MailBody1B"	"Bist du dir sicher, dass das, was du mir erzählst, richtig ist? Denn wenn nicht, dann sieht es nicht gut für dich aus."
+"MailBody1c"	"Andererseits, wenn es so ist, sind wir alle am Arsch, Harold Out"
 }

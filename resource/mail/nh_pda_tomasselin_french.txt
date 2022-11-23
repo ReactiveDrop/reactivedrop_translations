@@ -1,23 +1,23 @@
 GAME
 {
-	// PDA belongs to Tom Asselin
+// PDA belongs to Tom Asselin
 
-	// Inbox
+// Inbox
 
-	"MailFrom1"	"De: Jonathan Dorland"
-	"MailDate1"	"Date: 17/06/42"
-	"MailSubject1"	"Objet: Re: Partant ?"
-	"MailBody1A"	"Nan. Avec tout ce qu’il se passe, j’ai pas la tête à ça. Trouve tes vaches à lait autre part."
+"MailFrom1"	"De: Jonathan Dorland"
+"MailDate1"	"Date: 17/06/42"
+"MailSubject1"	"Objet: Re: Partant ?"
+"MailBody1A"	"Nan. Avec tout ce qu’il se passe, j’ai pas la tête à ça. Trouve tes vaches à lait autre part."
 
-	// Sent
+// Sent
 
-	"MailFrom3"	"À: Jonathan Dorland"
-	"MailDate3"	"Date: 17/06/42"
-	"MailSubject3"	"Objet: Partant ?"
-	"MailBody3A"	"Hey. On dirait bien que Carradine tient ses hommes en laisse. Les soirées jeux commencent à se faire calmes, d’autant plus sans notre enfant prodige. Pourquoi pas revenir pour un bout ? En hommage au bon vieux temps ?"
+"MailFrom3"	"À: Jonathan Dorland"
+"MailDate3"	"Date: 17/06/42"
+"MailSubject3"	"Objet: Partant ?"
+"MailBody3A"	"Hey. On dirait bien que Carradine tient ses hommes en laisse. Les soirées jeux commencent à se faire calmes, d’autant plus sans notre enfant prodige. Pourquoi pas revenir pour un bout ? En hommage au bon vieux temps ?"
 
-	"MailFrom4"	"À: Sarah Weiss"
-	"MailDate4"	"Date: 17/06/42"
-	"MailSubject4"	"Objet: Au menu: verres + matches de simu"
-	"MailBody4A"	"Yo Sarah. Je sais que, teeeechniquement, toi et le reste des gardiens êtes consignés dans vos quartiers. Cela étant dit, que dis-tu de vendredi soir, cantine de Barney ? À moins que t’en ai marre de te faire continuellement humilier en simulation ?"
+"MailFrom4"	"À: Sarah Weiss"
+"MailDate4"	"Date: 17/06/42"
+"MailSubject4"	"Objet: Au menu: verres + matches de simu"
+"MailBody4A"	"Yo Sarah. Je sais que, teeeechniquement, toi et le reste des gardiens êtes consignés dans vos quartiers. Cela étant dit, que dis-tu de vendredi soir, cantine de Barney ? À moins que t’en ai marre de te faire continuellement humilier en simulation ?"
 }

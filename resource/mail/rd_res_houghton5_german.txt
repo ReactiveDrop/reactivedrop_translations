@@ -1,12 +1,12 @@
 GAME
 {
-	// Inbox
+// Inbox
 
-	"MailFrom1"	"Von: Commander Houghton"
-	"MailDate1"	"Datum: 12/30/52"
-	"MailSubject1"	"Betreff: Operation Ausrottung"
-	"MailBody1A"	"Die Minen sollten nicht mehr weit entfernt sein, aber ich habe noch mehr schlechte Nachrichten."
-	"MailBody1B"	"Wir haben einige der Informationen aus RC7 entschlüsselt, und es sieht so aus, als ob ein Schwarm tief in den Minen gesichtet wurde."
-	"MailBody1C"	"Zu allem Überfluss entdecken wir eine große Konzentration von Schwarm-Biosignaturen, die aus den Minen kommen."
-	"MailBody1D"	"Ich habe gerade gehört, dass sie die Timor-Station auf Vareon XII in die Luft jagen mussten. Hoffen wir, dass es nicht so weit kommt."
+"MailFrom1"	"Von: Commander Houghton"
+"MailDate1"	"Datum: 12/30/52"
+"MailSubject1"	"Betreff: Operation Ausrottung"
+"MailBody1A"	"Die Minen sollten nicht mehr weit entfernt sein, aber ich habe noch mehr schlechte Nachrichten."
+"MailBody1B"	"Wir haben einige der Informationen aus RC7 entschlüsselt, und es sieht so aus, als ob ein Schwarm tief in den Minen gesichtet wurde."
+"MailBody1C"	"Zu allem Überfluss entdecken wir eine große Konzentration von Schwarm-Biosignaturen, die aus den Minen kommen."
+"MailBody1D"	"Ich habe gerade gehört, dass sie die Timor-Station auf Vareon XII in die Luft jagen mussten. Hoffen wir, dass es nicht so weit kommt."
 }

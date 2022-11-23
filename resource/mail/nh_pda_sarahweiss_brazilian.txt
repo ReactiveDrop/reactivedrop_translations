@@ -1,14 +1,14 @@
 GAME
 {
-	// PDA belongs to Sgt. Sarah Weiss
+// PDA belongs to Sgt. Sarah Weiss
 
-	// Sent
+// Sent
 
-	"MailFrom3"	"Para: Gael Florenza"
-	"MailDate3"	"Data: 16/06/42"
-	"MailSubject3"	"Assunto: É o Carradine"
-	"MailBody3A"	"[Envio falhou: Seu PDA foi desconectado da rede]"
-	"MailBody3B"	"Florenza, Estou escolhendo você para receber isso porque... merda. Odeio admitir, mas você é realmente o menos pior de nós."
-	"MailBody3C"	"Eu apostaria meu distintivo nisso: Capitão Carradine tem algo a ver com os desaparecimentos. Se não for ele mesmo no final, ele definitivamente está dormindo com aqueles que estão. Como eu sei? Porque eu fiz uma pergunta demais que ele não poderia responder na vida dele. Ele pode ser um herói de guerra, mas pro inferno se ele não é o pior mentiroso que eu conheço. Adivinha quem apareceu alguns dias depois, Me solicitando diretamente para uma “tarefa de manutenção”, sem perguntas? Manutenção meu rabo. O p*to me trancou dentro antiga sala de controle das portas do armazén. Deixou-me apodrecer como um rato em uma gaiola. Ele até se atreveu a fingir uma falha de energia, mas eu não sou besta. Na mesma hora, meu PDA foi desconectado do servidor. Falando sobre coincidência."
-	"MailBody3D"	"Tenente, se eu bater as botas aqui mas por algum milagre você receber esta mensagem: impeça esses malditos, porque ninguém irá se você não fizer."
+"MailFrom3"	"Para: Gael Florenza"
+"MailDate3"	"Data: 16/06/42"
+"MailSubject3"	"Assunto: É o Carradine"
+"MailBody3A"	"[Envio falhou: Seu PDA foi desconectado da rede]"
+"MailBody3B"	"Florenza, Estou escolhendo você para receber isso porque... merda. Odeio admitir, mas você é realmente o menos pior de nós."
+"MailBody3C"	"Eu apostaria meu distintivo nisso: Capitão Carradine tem algo a ver com os desaparecimentos. Se não for ele mesmo no final, ele definitivamente está dormindo com aqueles que estão. Como eu sei? Porque eu fiz uma pergunta demais que ele não poderia responder na vida dele. Ele pode ser um herói de guerra, mas pro inferno se ele não é o pior mentiroso que eu conheço. Adivinha quem apareceu alguns dias depois, Me solicitando diretamente para uma “tarefa de manutenção”, sem perguntas? Manutenção meu rabo. O p*to me trancou dentro antiga sala de controle das portas do armazén. Deixou-me apodrecer como um rato em uma gaiola. Ele até se atreveu a fingir uma falha de energia, mas eu não sou besta. Na mesma hora, meu PDA foi desconectado do servidor. Falando sobre coincidência."
+"MailBody3D"	"Tenente, se eu bater as botas aqui mas por algum milagre você receber esta mensagem: impeça esses malditos, porque ninguém irá se você não fizer."
 }

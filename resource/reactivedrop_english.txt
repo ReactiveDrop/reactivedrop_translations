@@ -1,9 +1,8 @@
 ﻿"lang" 
 { 
-"Language"	"English" 
+"Language"	"english"
 "Tokens" 
-{ 
-// asw
+{
 "asw_SynTekMegacorp"	"SynTek Megacorporation, Inc."
 "asw_SynTekPDA"	"SynTek Personal Digital Assistant"
 "asw_SynTekAccount"	"User: %s1"
@@ -126,7 +125,7 @@
 "asw_stopping"	"Stopping Power"
 "asw_piercingbullets"	"Piercing Bullets"
 "asw_healing"	"Healing"
-"asw_xenowound"	"Infestation Curing"	//"Xenowound Specialization"
+"asw_xenowound"	"Infestation Curing"
 "asw_combatdrugs"	"Combat Drugs"
 "asw_hacking"	"Hacking"
 "asw_scanner"	"Scanner"
@@ -143,7 +142,7 @@
 "asw_undo_tooltip_desc"	"Undo skill points spent this mission"
 "asw_points_tooltip"	"Unused Skill Points"
 "asw_points_tooltip_desc"	"Spend skill points to improve marine abilities.\nMarine has %s1 skill points already allocated."
-// skill descriptions
+
 "asw_leadership_desc"	"Boosts the damage dealt and damage\nresistance of nearby squad mates."
 "asw_vindicator_desc"	"Increases damage dealt by the Vindicator."
 "asw_incendiarym_desc"	"Increases the size and duration of the\nnapalm fires released from Incendiary Mines."
@@ -225,10 +224,6 @@
 "asw_load_campaign"	"Load Saved Campaign"
 "asw_single_mission"	"Single Mission"
 "rd_endless_missions"	"Endless Missions"
-"asw_youhavenomarines"	"Select marines from the ROSTER to join this mission."
-"asw_revive_marines"	"Revive Marines"
-"asw_revive_warning"	"Reviving dead marines is a costly process for the IAF and will be a permanent negative mark on your record. Are you sure you wish to authorize the procedure?"
-"asw_marines_revived"	"Dead marines revived."
 "asw_button_cancel"	"Cancel"
 "asw_hacking_tumbler_title"	"EXEC: Sec-Override v4.00774"
 "asw_hacking_tumbler_status"	"ACCESS STATUS"
@@ -683,7 +678,6 @@
 "asw_medal17"	"Iron Dagger"
 "asw_medal18"	"Pyromaniac"
 "asw_medal19"	"Stay Frosty"
-//"asw_medal20"	"Hybrid Weapons Expert"
 "asw_medal20"	"Gunslinger"
 "asw_medal21"	"Damage Amped"
 "asw_medal22"	"Incendiary Defense"
@@ -744,7 +738,6 @@
 "asw_medaltt17"	"Awarded for finishing a mission using only\nan Assault Rifle with over 90% accuracy\non Hard difficulty."
 "asw_medaltt18"	"Awarded for finishing a mission using only\na Flamethrower with over 90% accuracy\non Hard difficulty."
 "asw_medaltt19"	"Freeze 6 Swarm with a single Freeze Grenade."
-//"asw_medaltt20"	"Awarded for finishing a mission using only\na Rail Rifle with over 90% accuracy\non Hard difficulty."
 "asw_medaltt20"	"Successfully perform 5 fast reloads in a row."
 "asw_medaltt21"	"Kill 15 Swarm collectively while all 4 marines are in a Damage Amp's energy field."
 "asw_medaltt22"	"Awarded for killing 60 Swarm\nwith Incendiary Mines."
@@ -807,24 +800,6 @@
 "asw_player_list_name_leader"	"%s1 (leader)"
 "asw_player_list_ping_bot"	"BOT" // shown in place of ping for bots
 "asw_kicked_by_vote"	"Kicked by player vote."
-"asw_commander_medals"	"Commander Medals:"
-"asw_nco_medals"	"NCO Medals:"
-"asw_sw_medals"	"SW Medals:"
-"asw_medic_medals"	"Medic Medals:"
-"asw_tech_medals"	"Tech Medals:"
-"asw_medal_collect_format"	"%s1: %s2"
-"asw_sarges_total"	"Sarge's Total"
-"asw_jaegers_total"	"Jaeger's Total"
-"asw_wildcats_total"	"Wildcat's Total"
-"asw_wolfes_total"	"Wolfe's Total"
-"asw_faiths_total"	"Faith's Total"
-"asw_bastilles_total"	"Bastille's Total"
-"asw_crashs_total"	"Crash's Total"
-"asw_flynns_total"	"Flynn's Total"
-"asw_vegas_total"	"Vegas' Total"
-"asw_medal_collection"	"Medal Collection"
-"asw_medal_player_collection"	"%s1's Medal Collection"
-"asw_medal_player_collection_no_s"	"%s1' Medal Collection"
 "asw_mission_complete"	"MISSION COMPLETE"
 "asw_mission_failed"	"MISSION FAILED"
 "asw_mission_tab"	"MISSION"
@@ -1000,205 +975,6 @@
 "asw_suicide_male"	"%s1 killed himself."
 "asw_suicide_female"	"%s1 killed herself."
 "asw_out_of_ammo"	"%s1 is out of ammo."
-// player triggerable speech
-"asw_comms"	" Comms. "
-"asw_comms_menu"	"Comms. Menu"
-"asw_speech_menu"	"%s1. %s2"
-"asw_speech_watchout"	"Watch out!"
-"asw_speech_parasite"	"Parasite!"
-"asw_speech_question"	"What?"
-"asw_speech_thanks"	"Thanks"
-"asw_speech_medic"	"Medic!"
-"asw_speech_needammo"	"Need ammo!"
-"asw_speech_stim"	"Adrenaline now!"
-"asw_speech_positioning"	"Positioning..."
-"asw_speech_doors"	"Doors..."
-"asw_speech_more"	"More..."
-"asw_speech_point"	"Taking point"
-"asw_speech_rear"	"Rear guard"
-"asw_speech_holding"	"Holding position"
-"asw_speech_north"	"Covering north"
-"asw_speech_south"	"Covering south"
-"asw_speech_east"	"Covering east"
-"asw_speech_west"	"Covering west"
-"asw_speech_hold"	"Hold position"
-"asw_speech_go"	"Follow me"
-"asw_speech_back"	"Back..."
-"asw_speech_rcut"	"Request cut"
-"asw_speech_rseal"	"Request seal"
-"asw_speech_rshoot"	"Request shoot"
-"asw_speech_cut"	"Cutting door"
-"asw_speech_seal"	"Sealing door"
-"asw_speech_medkit"	"Medkit."
-"asw_speech_ammo"	"Ammo."
-"asw_speech_careful"	"Be careful"
-"asw_speech_ready"	"Ready?"
-"asw_speech_smile"	"*smile*"
-"asw_speech_zing"	"Zing!"
-// sarge speech
-"asw_speech_signs"	"Signs of infestation"
-"asw_speech_form"	"Squad, form up"
-"asw_speech_positions"	"Marines, into positions"
-"asw_speech_mouth"	"Watch your mouth, marine"
-"asw_speech_secure_that"	"You secure that shit"
-"asw_speech_drink"	"I need a drink"
-"asw_speech_looks_good"	"Looks good"
-"asw_speech_stay_sharps"	"Stay sharp, look alive"
-"asw_speech_love_job"	"I love this job"
-"asw_speech_fine_day"	"Another fine day in the IAF"
-"asw_speech_picnic"	"Not a picnic"
-"asw_speech_spacing"	"Watch your spacing team"
-"asw_speech_so_far"	"So far, so good"
-"asw_speech_holy"	"Holy shit!"
-"asw_speech_eat"	"Eat this!"
-"asw_speech_paychecks"	"Time to earn those paychecks"
-"asw_speech_corners"	"Check your corners"
-"asw_speech_squads"	"Proceed by squads"
-"asw_speech_book"	"Let's do this by the book"
-"asw_speech_like_hear"	"That's what I like to hear"
-"asw_speech_damn_fine"	"Damn fine work, marine"
-"asw_speech_pull"	"We should pull back, reassess this"
-"asw_speech_tough"	"This is tough"
-"asw_speech_got_backs"	"I've got your back"
-// jaeger speech
-"asw_speech_never_thought"	"Never thought it would end like this"
-"asw_speech_bad_feeling"	"I've got a bad feeling about this place"
-"asw_speech_no_trouble"	"Cure bug trouble"
-"asw_speech_run_smokes"	"Outta smokes"
-"asw_speech_set_fire"	"Set fire to the colony"
-"asw_speech_sharp_prisoners"	"Stay sharp people"
-"asw_speech_another_day"	"Just another day in the corp"
-"asw_speech_vacation"	"I need a vacation"
-"asw_speech_hungry"	"This makes a marine hungry"
-"asw_speech_rock_roll"	"Rock and roll!"
-"asw_speech_want_some"	"You want some?"
-"asw_speech_spirit"	"That's the spirit!"
-"asw_speech_breathing"	"You guys still breathing?"
-// wildcat speech
-"asw_speech_t75"	"T75 explosives"
-"asw_speech_party"	"Let's get this party started"
-"asw_speech_peace"	"Peace through superior firepower"
-"asw_speech_dares_wins"	"Who dares wins"
-"asw_speech_cooling_heels"	"Shouldn't we be wasting bugs?"
-"asw_speech_anytime_anywhere"	"Anytime, anywhere"
-"asw_speech_theyll_pay"	"They'll pay for this"
-"asw_speech_hell_out"	"Time to get the hell out"
-"asw_speech_payback"	"Payback's a bitch"
-"asw_speech_nice_job"	"Nice job"
-"asw_speech_meow"	"Meow"
-"asw_speech_hell_yeah"	"Hell yeah!"
-"asw_speech_taking_long"	"What's taking so long?"
-"asw_speech_christ_man"	"Christ, man"
-// wolfe speech
-"asw_speech_lock_load"	"Locked and loaded"
-"asw_speech_time_bleed"	"Ain't got time to bleed"
-"asw_speech_all_over"	"Hit em where it hurts the most"
-"asw_speech_alright"	"Haha, alright!"
-"asw_speech_smell_bugs"	"I smell bugs"
-"asw_speech_collateral"	"Collateral damage"
-"asw_speech_scores_settle"	"I got some scores to settle"
-"asw_speech_good_bug"	"The only good bug is a dead bug"
-"asw_speech_dont_hurt"	"Don't hurt em if you don't hit em"
-"asw_speech_one_way"	"Only one way to solve this"
-"asw_speech_more_fun"	"More fun by the minute"
-"asw_speech_wait_day"	"Don't make me wait all day"
-"asw_speech_nice_shootin"	"Nice shootin' kid"
-"asw_speech_save_life"	"You saved my life"
-"asw_speech_challenge"	"That sounds like a challenge"
-"asw_speech_trick"	"Is that a trick question?"
-"asw_speech_kidding"	"You're kidding me?"
-// faith speech
-"asw_speech_what_need"	"What do you need?"
-"asw_speech_be_careful"	"Let's be careful ok?"
-"asw_speech_excellent"	"Excellent"
-"asw_speech_absolutely"	"Absolutely"
-"asw_speech_too_quiet"	"It's way too quiet"
-"asw_speech_nightmare"	"This seems like a horrible nightmare"
-"asw_speech_pull_through"	"I hope we pull through"
-"asw_speech_isnt_secure"	"This place isn't secure"
-"asw_speech_down_here"	"I don't like it down here"
-"asw_speech_wait_hear"	"Wait! I hear something"
-"asw_speech_kill_you"	"I'll kill you all!"
-"asw_speech_oom"	"Out of meds"
-"asw_speech_love_harm"	"You love getting in harm's way"
-// bastille speech
-"asw_speech_good_thinking"	"Good thinking"
-"asw_speech_immediatement"	"Immediatement"
-"asw_speech_careful_anywhere"	"Careful, they could be anywhere"
-"asw_speech_stim_packs"	"Adrenaline isn't that addictive"
-"asw_speech_send_hell"	"Send these bastards straight to hell"
-"asw_speech_how_many"	"Just how many more bugs are there?"
-"asw_speech_stay_sharp"	"Stay sharp mes ami"
-"asw_speech_what_was"	"What was that?"
-"asw_speech_hearing_things"	"Great, now I'm hearing things"
-"asw_speech_exit"	"Time to make an exit"
-"asw_speech_alien_scum"	"Eat this alien scum!"
-"asw_speech_should_dead"	"You should be dead, but you're not"
-"asw_speech_youll_live"	"You'll live, probably"
-"asw_speech_should_help"	"That should help"
-"asw_speech_kill_ami"	"Good kill mon ami"
-"asw_speech_annoying"	"You're starting to be annoying"
-"asw_speech_closer"	"They're getting closer!"
-"asw_speech_breakdown"	"Nervous breakdown"
-"asw_speech_why_close"	"Why do you get so close?"
-"asw_speech_saving"	"I'm saving them for when you get really hurt"
-"asw_speech_off_mission"	"You're off the next mission"
-"asw_speech_alright_say_so"	"Alright, if you say so"
-// crash speech
-"asw_speech_ready_get"	"I'm ready to get it on"
-"asw_speech_get_fuck"	"Let's get the fuck outta here!"
-"asw_speech_got_skills"	"I got the skills"
-"asw_speech_shoulda_stolen"	"I shoulda stolen more money to put up with this shit"
-"asw_speech_guys_lucky"	"You guys are lucky that I'm here"
-"asw_speech_like_to_see"	"Oh yeah! That's what I like to see"
-"asw_speech_want_some_of"	"You want some?"
-"asw_speech_time_magic"	"Time for me to work my magic"
-"asw_speech_got_back"	"You got my back, right?"
-"asw_speech_who_man"	"Oh yeah, who's the man?"
-"asw_speech_smooth"	"Smooth"
-"asw_speech_cant_stand"	"I can't stand this place much longer"
-"asw_speech_anyone_idea"	"Does anyone have any idea what we are doing here?"
-"asw_speech_no_problem"	"No problem"
-"asw_speech_place_action"	"Wow, this place has seen some action"
-// flynn speech
-"asw_speech_got_job"	"Got a job for me?"
-"asw_speech_bad_idea"	"This was a bad idea"
-"asw_speech_calm_storm"	"Ah, that calm before the storm"
-"asw_speech_surrounded"	"I think we're surrounded"
-"asw_speech_grim"	"Things are looking grim"
-"asw_speech_places_hide"	"Lots of places to hide down here"
-"asw_speech_followed"	"Is it just me, or are we being followed?"
-"asw_speech_company"	"We got company!"
-"asw_speech_corp_net"	"Nothing like breaking into a corporate network"
-"asw_speech_nice_work"	"Nice work"
-"asw_speech_looks_clear"	"Looks clear"
-"asw_speech_dont_worry"	"Don't worry about me"
-// vegas speech
-"asw_speech_little_game"	"Wanna play a little game?"
-"asw_speech_ace_sleeve"	"I still got an ace up my sleeve"
-"asw_speech_on_it"	"I'm on it"
-"asw_speech_4_to_1"	"4 to 1 eh? I like these odds"
-"asw_speech_deck_cards"	"Anyone got a deck o' cards?"
-"asw_speech_tequila"	"Who's up for some Tequila?"
-"asw_speech_worst_come"	"I'd say the worst is yet to come"
-"asw_speech_roll_dice"	"Time to roll the dice"
-"asw_speech_sweet_tequila"	"Sweet Tequila, here I come!"
-"asw_speech_madre_dios"	"Madre de dios!"
-"asw_speech_play_rough"	"Oh, you wanna play rough?"
-"asw_speech_muchachos"	"Adios muchachos"
-"asw_speech_fuck_with_me"	"You wanna fuck with me?"
-"asw_speech_finally_time"	"Finally something worth my time"
-"asw_speech_back_ok"	"Watch my back ok?"
-"asw_speech_too_easy"	"Too easy"
-"asw_speech_job_amigo"	"Good job amigo"
-"asw_speech_impressive"	"Impressive!"
-"asw_speech_nice_one_amigo"	"Nice one amigo"
-"asw_speech_clock_ticking"	"Clock is ticking amigo"
-"asw_speech_lady_luck"	"Lady luck is on my side"
-"asw_speech_fortune_fav"	"Fortune favors Vegas today"
-"asw_speech_could_tequila"	"I could do with some Tequila..."
-"asw_speech_ahh_man"	"Ahh man, I should've stayed in Culiacan"
-"asw_speech_crazy_ones"	"Why do I always get the crazy ones?"
 
 "asw_cain_mail_0"	"Transmission From: SynTek Research Station 7"
 "asw_cain_mail_1"	"Date: 12/20/52"
@@ -1208,24 +984,6 @@
 "asw_cain_mail_5"	"We have a carrier en route to Vereon XII to collect Delivery 4903877."
 "asw_cain_mail_6"	"ETA 14 days."
 "asw_cain_mail_7"	"Expect a promotion before the end of the year."
-"asw_tutorial_message_1"	"%s1 %s2 %s3 %s4 to move marine"
-"asw_tutorial_message_2"	"%s1 to pick up items"
-"asw_tutorial_message_3"	"Mouse to aim\n%s1 to fire"	// \n%s2 to alt-fire (grenade)
-"asw_tutorial_message_4"	"%s1 to use panel"
-"asw_tutorial_message_5"	"%s1 /\n%s2 to change weapon"
-"asw_tutorial_message_6"	"%s1 to fire"
-"asw_tutorial_message_7"	"%s1 to melee attack"
-"asw_tutorial_message_8"	"%s1 to seal door\n%s2 to cut door"
-//"asw_tutorial_message_9"	"1,2,3,4 to select marine\n%s1 orders marine to follow\n%s2 orders marine to guard a spot\n%s3 to order marine under the mouse cursor"
-"asw_tutorial_message_9"	"1 - Select first marine\n2 - Select second marine"
-"asw_tutorial_message_10"	"1 - Select first marine\n2 - Select second marine\n3 - Select third marine"
-"asw_tutorial_message_11"	"1,2 to select marine\n%s1 to use panel"
-"asw_tutorial_message_12"	"%s1 to pick up flares\n%s2 to throw flare"
-"asw_tutorial_message_13"	"%s1 to pick up\n%s1/%s2 to change weapon"
-"asw_tutorial_message_14"	"%s1 to pick up ammo\n%s2 to reload"
-"asw_tutorial_message_15"	"%s1 to use panel"
-"asw_tutorial_message_16"	"%s1 to use terminal"
-"asw_tutorial_message_17"	"%s1 to Order Follow\n%s2 to Order Hold Position\n%s3 to position specific marine"
 
 "asw_instructor_infestation_death"	"Healing is the Only Infestation Cure"
 "asw_instructor_switch_marine"	"Control Marine"
@@ -1385,73 +1143,7 @@
 "asw_wdesc_chainsaw"	"A civilian chainsaw, used for cutting through wood or other soft materials."
 "asw_wdesc_tesla_gun"	"Originally designed to jumpstart heavy equipment, this tool was quickly weaponized after the discovery that the 24-30 amps and 25K voltage was the perfect blend for liquifying alien innards. The IAF Tesla Cannon is calibrated to identify human biometrics and avoid friendly-fire accidents. In proximity to alien life forms, the beam will arc to nearby hostiles."
 "asw_wdesc_ammosatchel"	"A standard issue IAF ammo pack containing deployable ammo for all weapon types used in the field. Each pack contains 3 ammo stashes."
-"asw_style"	"Game Style:"
-"asw_gamestyle_normal"	"Normal"
-"asw_gamestyle_carnage"	"Carnage"
-"asw_gamestyle_uber"	"Über"
-"asw_gamestyle_hardcore"	"Hardcore"
-"asw_unlocked_format"	"%s1%s2%s3"
-"asw_unlocked_uber_format"	"Completed mission in under %s1 - Über mode unlocked!\n"
-"asw_unlocked_carnage"	"Completed mission on Insane - Carnage Mode Unlocked!\n"
-"asw_unlocked_hardcore"	"Completed mission with all marines alive - Hardcore Mode Unlocked!\n"
-"asw_beat_speedrun_format"	"Completed mission within the Speedrun time! (%s1)\n"
-"asw_best_kills_format"	"Highest Kills: %s1"
-"asw_best_time_format"	"Best Time: %s1"
-"asw_newbest_kills_format"	"NEW RECORD - Previous Highest Kills: %s1"
-"asw_newbest_time_format"	"NEW RECORD - Previous Best Time: %s1"
-//"asw_loading_hint_vereon"	"Vereon XII Ambient Temperature: 242 Degrees Kelvin\nMineral composition rating: 8.4 Sovereignty: SynTek Megacorporation"
-"asw_loading_hint_vereon"	""
-"asw_loading_hint_labs1"	""
-"asw_loading_hint_labs2"	""
-"asw_loading_hint_landingbay"	""
-"asw_loading_hint_mine1"	""
-"asw_loading_hint_mine2"	""
-"asw_loading_hint_mine3"	""
-"asw_loading_hint_office"	""
-"asw_loading_hint_plant1"	""
-"asw_loading_hint_plant2"	""
-"asw_loading_hint_plant3"	""
-"asw_loading_hint_sewers1"	""
-"asw_loading_hint_sewers2"	""
-"asw_loading_hint_sewers3"	""
-"asw_loading_hint_sewers4"	""
-"asw_tutorial_brief"	"This is IAF Command to Squad Commander. We have a situation on the outpost here on Vereon XII. We have reports of a Swarm attack on the SynTek employees and colony infrastructure. Your squad must immediately regroup and head north. You need to download the surface data logs."
-"asw_tutorial_brief2"	"We've lost radio contact with Crash and Bastille, Sarge must proceed to their last known positions and attempt to regain contact. Move it, Commander!"
-"asw_tutorial_barricade"	"We're showing numerous makeshift barricades throughout the outpost, probably from desperate colonists trying to save their sorry hides."
-"asw_tutorial_barricade2"	"We have full fire authority in this planetary system, if something's in your way, blast it clear. Command out."
-"asw_tutorial_button"	"Use that nearby door panel to gain access and proceed north."
-"asw_tutorial_biomass"	"You're looking at Swarm biomass, Commander, a sure sign of Swarm infestation. Ugly stuff. It means the Swarm are trying to build up a permanent presence here."
-"asw_tutorial_biomass2"	"It's vulnerable to fire, use that Flamethrower to clear it out - right now."
-"asw_tutorial_melee"	"You should conserve ammo whenever possible. Use your melee attack instead to clear the way."
-"asw_tutorial_cutting"	"That door has been welded shut. Use that Welding Tool to cut it open."
-"asw_tutorial_team"	"Good job, Commander! You've located Sarge, and we have re-established radio contact."
-"asw_tutorial_team2"	"Make use of both marines as you proceed north. IAF Command out."
-"asw_tutorial_hacking"	"Security reports that this door is securely locked. You could blast it down, but we recommend using Crash's technical skill to hack the door panel."
-"asw_tutorial_flares"	"We're reading power failure to this section of corridor. Try grabbing those nearby flares and throw them to light up the area."
-"asw_tutorial_healing"	"Commander, we can see from your health readout that Bastille is injured. Have him pick up this med-satchel and use its ALT-FIRE to heal himself."
-"asw_tutorial_healing2"	"As a medic, Bastille can heal wounded marines. Have him drop a heal beacon to to heal any wounded marines."
-"asw_tutorial_positioning1a"	"Warning Commander, we have thermal signatures in multiple directions. They're moving in on your position. Worse, the door is sealed and heavily reinforced; your weapons won't be able to blast it open."
-"asw_tutorial_positioning1b"	"We're trying to open the door remotely, but you'll need to hold tight in the marked positions and defend against the attack."
-"asw_tutorial_positioning1c"	"That's it Commander! We've restored power to the door, you may proceed north."
-"asw_tutorial_positioning"	"Bad news, Commander, a mass Swarm attack is headed your way! Command Sarge to build an automated sentry gun in the marked location."
-"asw_tutorial_positioning2"	"Now aim your sentry to cover one area of threat and defend the remaining directions from the marked defensive positions!"
-"asw_tutorial_positioning_no_turret"	"Bad news, Commander, a mass Swarm attack is headed your way! Defend from the marked defensive positions!"
-"asw_tutorial_sealing1"	"We're picking up more Swarm drones headed your way from the east. Get your squad inside quickly."
-"asw_tutorial_sealing2"	"Pick up that portable welder and seal up that reinforced door, that should keep them from following you."
-"asw_tutorial_ammo1"	"Good, you've found a supply stash. Remember, keep a close watch on your squad's ammo and so they can make the most of the clips you find."
-"asw_tutorial_ammo2"	"When reloading, you lose any bullets left in your current clip, so only reload when absolutely necessary."
-"asw_tutorial_pos3"	"Watch out Commander, we're picking up another Swarm attack headed your way from the north-west. Our orbital scan of this area is hazy, could be due to some kind of radioactive interference in the room."
-"asw_tutorial_pos3b"	"Analyze your surroundings and choose suitable positions for your marines to defend. Move it Commander, the Swarm are inbound!"
-"asw_tutorial_follow1"	"Okay Commander, thermal scans of the area are now looking clear. You are free to issue a Follow order to your squad."
-"asw_tutorial_follow2"	"Be aware that in Follow mode your marines react slower and shoot with less accuracy. Only use this mode when you are not in direct combat."
-"asw_tutorial_follow3"	"A Hold Position order may be given to quickly leave Follow mode for defensive formations. A marine holding position is very powerful and can cover the direction he's facing with extreme efficiency."
-"asw_tutorial_data1"	"This computer contains data vital to the planning of the operation here on Vereon XII. We need thermal signature data and near atmosphere analysis to help us respond to the situation."
-"asw_tutorial_data2"	"The information is classified, courtesy of our friends at SynTek, so you'll need a tech marine to break in. Get to it, Commander!"
-"asw_tutorial_exit"	"Commander, ensure all objectives are complete before attempting to exit the mission area. We need your squad and that data before we can proceed."
-"asw_tutorial_exit2"	"Search the area for a useable computer panel and download the critical data."
-"asw_tutorial_alt_fire"	"Commander, pick up that rifle and use its alt-fire to blast those crates clear."
-"asw_tutorial_parasites1"	"Even in an armored suit your squad can be infested by parasites just the same. Exercise extreme caution around the eggs that they hatch from."
-"asw_tutorial_parasites2"	"If the worst happens and a squad member becomes infested by a parasite, the medic will need to act quickly and keep them alive until the infestation passes."
+
 "asw_labs_bio1"	"ACCESS DENIED:\nBIOHAZARD DETECTED WITHIN RESEARCH FACILITY"
 "asw_labs_bio2"	"Warning: Class 4 organism detected in Sector 1 of SynTek Research Facility. Quarantine lock-out has re-routed power as per Interstellar Alliance protocol #45/82763. Please remove all Class 4 foreign organisms to gain access."
 "asw_button_start"	"START"
@@ -1804,51 +1496,6 @@
 "asw_music_types"	"Audio Files (*.mp3)"
 "asw_ingame_map"	"In-game map"
 
-// Attribute affixes
-"damagedone_2"	"High Velocity"
-"damagedoors_2"	"Intrusion"
-"damageflyers_2"	"High Altitude"
-"clipsize_2"	"High Capacity"
-"firerate_2"	"Rapid Firing"
-"healonhit_1"	"Vampiric"
-"piercing_1"	"Piercing"
-"stopping_1"	"Heavy"
-"ignite_1"	"Incendiary"
-"electro_1"	"Charged"
-"reloadtime_2"	"Prepared"
-"extraammo_2"	"High Capacity"
-"healbonus_1"	"Restorative"
-"xenowoundbonus_1"	"Xenowound"
-"firewall_1"	"Nitro"
-"duration_1"	"Persistent"
-
-// Attribute descriptions
-"Attrib_ClipSize_Positive"	"+%s1% Clip size"
-"Attrib_ClipSize_Negative"	"%s1% Clip size"
-"Attrib_DamageDone_Positive"	"+%s1% Damage done"
-"Attrib_DamageDone_Negative"	"%s1% Damage done"
-"Attrib_DamageDoors_Positive"	"+%s1% Damage done to Doors"
-"Attrib_DamageFlyers_Positive"	"+%s1% Damage done to flying targets"
-"Attrib_FireRate_Positive"	"+%s1% Faster firing speed"
-"Attrib_FireRate_Negative"	"%s1% Slower firing speed"
-"Attrib_HealOnHit_Positive"	"+%s1 Health on hit"
-"Attrib_HealOnHit_Negative"	"%s1 Health on hit"
-"Attrib_Piercing_Positive"	"+%s1% Piercing chance"
-"Attrib_Stopping_Positive"	"+%s1% Stopping Power"
-"Attrib_Ignite_Positive"	"+%s1% chance to ignite target"
-"Attrib_Electro_Positive"	"+%s1% chance to stun target"
-"Attrib_ReloadTime_Positive"	"+%s1% Faster reload time"
-"Attrib_ExtraAmmo"	"+%s1 Ammo"
-"Attrib_HealBonus_Positive"	"+%s1% Heal amount"
-"Attrib_XenowoundBonus_Positive"	"+%s1% Infestation cure bonus"
-"Attrib_FirewallLength"	"+%s1 Firewall Length"
-"Attrib_Duration_Positive"	"+%s1% Duration"
-
-// item qualities
-"item_common"	"COMMON"
-"item_rare"	"RARE"
-"item_unique"	"UNIQUE"
-
 // holdout
 "asw_holdout_hud_wave"	"Wave: %s1"
 "asw_holdout_hud_score"	"Score: %s1"
@@ -1941,7 +1588,6 @@
 "marine_class_medic_label"	"Medics:"
 "marine_class_tech_label"	"Technical Engineers:"
 
-// achievements
 "ASW_KILL_WITHOUT_FRIENDLY_FIRE_NAME"	"Clear Firing"
 "ASW_NO_FRIENDLY_FIRE_NAME"	"Short Controlled Bursts"
 "ASW_SHIELDBUG_NAME"	"Shield Down"
@@ -2510,15 +2156,9 @@
 "rd_wdesc_50calmg"	"This .50 caliber heavy machine gun is based on a design used as early as 1933. With the use of an IAF marine exosuit, this weapon can be used as a powerful, if inaccurate, mobile turret."
 "rd_weapon_50calmg_attributes"	"Heavy Machine Gun"
 
-//
-//Lana's Escape objectives
-//
 // as_sci1_bridge CHAPTER TEXT
-//
 "asw_gametext_lan_lanasbridge_title"	"Lana's Escape"
-//
 // as_sci1_bridge OBJECTIVES
-//
 "asw_ob_lanasbridge_1t"	"Get access to the bridge"
 "asw_ob_lanasbridge_1"	"Squad, we're getting automated reports that an IAF weapon facility on Planet 137 has activated its security system. With no response from the local head administrator, the IAF are sending us to investigate"
 "asw_ob_lanasbridge_1b"	"Extreme caution will be required to cross a field of motion-detecting mines beyond the landing area."
@@ -2528,47 +2168,35 @@
 "asw_ob_lanasbridge_3t"	"Infiltrate the facility"
 "asw_ob_lanasbridge_3"	"You will have to find a way to infiltrate the facility through the waste treatment system."
 "asw_ob_lanasbridge_3b"	"A heavy door is blocking the way but with any luck it will be unlocked."
-//
 // as_sci1_bridge HINTS
-//
 "asw_hint_lanasbridge_1"	"Find the way to get access to the bridge"
 "asw_hint_lanasbridge_2"	"Bridge Authorized"
 "asw_hint_lanasbridge_3"	"Cross the bridge"
 "asw_hint_lanasbridge_4"	"Mines Detected"
 "asw_hint_lanasbridge_5"	"Break the door to escape"
 "asw_hint_lanasbridge_6"	"Minefield maintenance mode ON"
-//
 // as_sci2_sewer OBJECTIVES
-//
 "asw_ob_lanassewer_1t"	"Investigate abnormal signatures"
 "asw_ob_lanassewer_1"	"Abnormal kinetic signatures are coming from the main area below."
 "asw_ob_lanassewer_1b"	"One thing is certain: This cannot be friendly."
 "asw_ob_lanassewer_2t"	"Proceed to the maintenance facility"
 "asw_ob_lanassewer_2"	"Squad, this place is dangerous. Heavy machinery, pumping systems, and worst of all: huge kinetic signatures on my screens."
 "asw_ob_lanassewer_2b"	"Your mission is simple: Make your way to the surface."
-//
 // as_sci2_sewer HINTS
-//
 "asw_hint_lanassewer_1"	"Tunnel sealed"
 "asw_hint_lanassewer_2"	"Opening..."
-//
 // as_sci3_maintenance OBJECTIVES
-//
 "asw_ob_lanasmaintenance_1t"	"Repair any damaged electrical devices"
 "asw_ob_lanasmaintenance_1"	"According to the facility system, you will find three damaged electrical devices. Repair all three in order to bring the generator back online."
 "asw_ob_lanasmaintenance_2t"	"Get the generator back online"
 "asw_ob_lanasmaintenance_2"	"Supply the generator with power in order to activate the door leading to the vents."
 "asw_ob_lanasmaintenance_3t"	"Get to the vents"
 "asw_ob_lanasmaintenance_3"	"The vent's main access should open once the power comes on. You may have to hold your position during the process."
-//
 // as_sci3_maintenance HINTS
-//
 "asw_hint_lanasmaintenance_1"	"No power. Get the generator back online."
 "asw_hint_lanasmaintenance_2"	"Generator Failure"
 "asw_hint_lanasmaintenance_3"	"Reactivate the generator"
-//
 // as_sci4_vent OBJECTIVES
-//
 "asw_ob_lanasvent_1t"	"Find your way out of the vents"
 "asw_ob_lanasvent_1"	"Find an exit door leading to the outside."
 "asw_ob_lanasvent_2t"	"Input the correct detonation sequence"
@@ -2578,16 +2206,12 @@
 "asw_ob_lanasvent_4t"	"Escape!"
 "asw_ob_lanasvent_4"	"The platforms will be destroyed quickly after the detonation, so proceed to the facility's main complex with haste."
 "asw_awaiting_sequence"	"Awaiting Sequence..."
-//
 // as_sci4_vent HINTS
-//
 "asw_hint_lanasvent_1"	"Find your way out of the vents"
 "asw_hint_lanasvent_2"	"Input the detonation sequence!"
 "asw_hint_lanasvent_3"	"Run to the complex!"
 "asw_hint_lanasvent_4"	"Seal doors deactivated"
-//
 // as_sci5_complex OBJECTIVES
-//
 "asw_ob_lanascomplex_1t"	"Obtain security codes"
 "asw_ob_lanascomplex_1"	"Download landing security codes in order to allow the Bloodhound to get past automated air defenses and come for extraction."
 "asw_ob_lanascomplex_2t"	"Nuclear warhead"
@@ -2599,13 +2223,10 @@
 "asw_ob_lanascomplex_4t"	"Countdown"
 "asw_ob_lanascomplex_4"	"Marines, time is not our ally in this mission."
 "asw_no_power_waiting"	"Waiting..."
-//
 // as_sci5_complex HINTS
-//
 "asw_hint_lanascomplex_1"	"Nuclear warhead stopped!"
 "asw_hint_lanascomplex_2"	"Sentry activated"
-//
-// End of Lana's Escape text
+
 "rd_ui_4_slots"	"4 Slots"
 "rd_ui_4_slots_tt"	"4 players can play on this server"
 "rd_ui_8_slots"	"8 Slots"
@@ -2916,16 +2537,26 @@
 "rd_so_tips_drone"	"IAF Fact Sheet:\n• Drones only attack with their claws. Taking them out before they reach the squad will render them harmless.\n• Certain drones have been known to leap large distances. Take extra precautions when using explosive weaponry, as targets may rapidly advance into unsafe range.\n• Drones can crawl through ducts and under scaffolding. It is sometimes possible to block the drones' points of egress, trapping them in a location where they are not a threat to marines."
 "rd_so_tips_ranger"	"IAF Fact Sheet:\n• The ranger's acidic weapon travels at a constant height. Dodge roll out of the way for a clean escape.\n• Rangers lack a melee attack. The only risk in getting close to a ranger is a point-blank acid orb.\n• Rangers cannot turn while firing. Use this opportunity to flank or get into melee range."
 "rd_so_tips_shieldbug"	"IAF Fact Sheet:\n• The large bone plates on the front of a shieldbug are completely invulnerable. Attack from the side or through gaps to do damage.\n• Shieldbugs have two stances. The \"offensive\" stance moves and turns faster, but reduces coverage from the bone plates. The \"defensive\" stance moves and turns slower in exchange for having its shields up.\n• Shieldbugs often switch to defensive stance when injured. It's often best to shoot one before attempting to flank to take advantage of its reduced movement speeds."
-"rd_so_tips_boomer"	"" // TODO
-"rd_so_tips_buzzer"	"" // TODO
-"rd_so_tips_parasite"	"" // TODO
-"rd_so_tips_mortarbug"	"" // TODO
-"rd_so_tips_harvester"	"" // TODO
-"rd_so_tips_xenomite"	"" // TODO
-"rd_so_tips_shaman"	"" // TODO
-"rd_so_tips_biomass"	"" // TODO
-"rd_so_tips_grub"	"" // TODO
-"rd_so_tips_antlionguard"	"" // TODO
+// TODO
+"rd_so_tips_boomer"	""
+// TODO
+"rd_so_tips_buzzer"	""
+// TODO
+"rd_so_tips_parasite"	""
+// TODO
+"rd_so_tips_mortarbug"	""
+// TODO
+"rd_so_tips_harvester"	""
+// TODO
+"rd_so_tips_xenomite"	""
+// TODO
+"rd_so_tips_shaman"	""
+// TODO
+"rd_so_tips_biomass"	""
+// TODO
+"rd_so_tips_grub"	""
+// TODO
+"rd_so_tips_antlionguard"	""
 
 "rd_so_author_brad_irwing"	"From the journal of Dr. Brad Irwing (AMBER)"
 "rd_so_author_bur_nable"	"From the journal of Bur Nable (Nanotrasen)"
@@ -2948,56 +2579,106 @@
 "rd_so_paragraph_shieldbug_2"	"05/02/43, 08:32\nI'm pulling the trigger. Exit strategy implemented. No turning back now. I'm deleting what I can get away with and falsifying what I can't. Just a little bit every day. By the time I leave, I'll have the only real copy. Helvetica says she's preparing a place for me at the Office. If I'm lucky, I'll find out what OCM stands for. It's either that or I'm making a powerful enemy and burning every bridge I have because a pretty redhead made me realize how much I hate my job. At least, that's what she tells me. You don't exactly attach pictures of yourself when you're exchanging confidential messages about alien biology, work conditions, and sedition. Every morning I wonder if this is the right choice and every night I poison a little more data. I'll know whether I'm making the right move soon enough. I'm guessing it's either the Office of Cyclical Momentum or the Office of Constant Mystery."
 "rd_so_paragraph_shieldbug_3"	"05/05/43, 09:55\nThe IAF is onto me. I can't prove it, but I swear the chain of command is freezing me out. Nobody wants to eat with me. I have to scan my badge a few times before the doors open. Every time I log in to the network, I worry it's not going to work this time. I've always been able to hear the footsteps echoing in the hall outside. I don't have the luxury of tuning them out any more. They get louder all the time. One day, they'll stop outside and haul me off.\n\nI'm being paranoid, I know. They'll do it while I'm asleep. Less struggle that way. I've signed and sealed my devil's bargain. All that's left to do is wait and see if she delivers. They warned me the devil will be attractive, and that's helping more than I'd like to admit right now. T-minus 12 hours. Time to get everything as ready as I can without broadcasting my intentions. I know they're watching the cameras."
 "rd_so_paragraph_shieldbug_4"	"05/05/43, 22:20\nIt worked. I'm still in shock, but it worked. I can feel the relief already. Stress I didn't know I had is starting to melt off. Unless this is part of some extremely long con by the IAF to punish me, I'm free. The kind of person who rises through the ranks of the Interstellar Armed Forces is pointlessly cruel, staggeringly narrow-minded, and fundamentally angry. These are undeniably terrible traits to have in a boss, but they are, at least, predictable. They are not the kind of people who stage a phony escape and print up a coffee mug to teach someone a lesson.\n\nSo, here I am. Home free. I have my notes, I have my mug, and I have someone I can trust. She was telling the truth about her hair, by the way. Welcome to the Office of Consensus Maintenance, Julie."
-"rd_so_paragraph_boomer_0"	"" // TODO
-"rd_so_paragraph_boomer_1"	"" // TODO
-"rd_so_paragraph_boomer_2"	"" // TODO
-"rd_so_paragraph_boomer_3"	"" // TODO
-"rd_so_paragraph_boomer_4"	"" // TODO
-"rd_so_paragraph_buzzer_0"	"" // TODO
-"rd_so_paragraph_buzzer_1"	"" // TODO
-"rd_so_paragraph_buzzer_2"	"" // TODO
-"rd_so_paragraph_buzzer_3"	"" // TODO
-"rd_so_paragraph_buzzer_4"	"" // TODO
-"rd_so_paragraph_parasite_0"	"" // TODO
-"rd_so_paragraph_parasite_1"	"" // TODO
-"rd_so_paragraph_parasite_2"	"" // TODO
-"rd_so_paragraph_parasite_3"	"" // TODO
-"rd_so_paragraph_parasite_4"	"" // TODO
-"rd_so_paragraph_mortarbug_0"	"" // TODO
-"rd_so_paragraph_mortarbug_1"	"" // TODO
-"rd_so_paragraph_mortarbug_2"	"" // TODO
-"rd_so_paragraph_mortarbug_3"	"" // TODO
-"rd_so_paragraph_mortarbug_4"	"" // TODO
-"rd_so_paragraph_harvester_0"	"" // TODO
-"rd_so_paragraph_harvester_1"	"" // TODO
-"rd_so_paragraph_harvester_2"	"" // TODO
-"rd_so_paragraph_harvester_3"	"" // TODO
-"rd_so_paragraph_harvester_4"	"" // TODO
-"rd_so_paragraph_xenomite_0"	"" // TODO
-"rd_so_paragraph_xenomite_1"	"" // TODO
-"rd_so_paragraph_xenomite_2"	"" // TODO
-"rd_so_paragraph_xenomite_3"	"" // TODO
-"rd_so_paragraph_xenomite_4"	"" // TODO
-"rd_so_paragraph_shaman_0"	"" // TODO
-"rd_so_paragraph_shaman_1"	"" // TODO
-"rd_so_paragraph_shaman_2"	"" // TODO
-"rd_so_paragraph_shaman_3"	"" // TODO
-"rd_so_paragraph_shaman_4"	"" // TODO
-"rd_so_paragraph_biomass_0"	"" // TODO
-"rd_so_paragraph_biomass_1"	"" // TODO
-"rd_so_paragraph_biomass_2"	"" // TODO
-"rd_so_paragraph_biomass_3"	"" // TODO
-"rd_so_paragraph_biomass_4"	"" // TODO
-"rd_so_paragraph_grub_0"	"" // TODO
-"rd_so_paragraph_grub_1"	"" // TODO
-"rd_so_paragraph_grub_2"	"" // TODO
-"rd_so_paragraph_grub_3"	"" // TODO
-"rd_so_paragraph_grub_4"	"" // TODO
-"rd_so_paragraph_antlionguard_0"	"" // TODO
-"rd_so_paragraph_antlionguard_1"	"" // TODO
-"rd_so_paragraph_antlionguard_2"	"" // TODO
-"rd_so_paragraph_antlionguard_3"	"" // TODO
-"rd_so_paragraph_antlionguard_4"	"" // TODO
+// TODO
+"rd_so_paragraph_boomer_0"	""
+// TODO
+"rd_so_paragraph_boomer_1"	""
+// TODO
+"rd_so_paragraph_boomer_2"	""
+// TODO
+"rd_so_paragraph_boomer_3"	""
+// TODO
+"rd_so_paragraph_boomer_4"	""
+// TODO
+"rd_so_paragraph_buzzer_0"	""
+// TODO
+"rd_so_paragraph_buzzer_1"	""
+// TODO
+"rd_so_paragraph_buzzer_2"	""
+// TODO
+"rd_so_paragraph_buzzer_3"	""
+// TODO
+"rd_so_paragraph_buzzer_4"	""
+// TODO
+"rd_so_paragraph_parasite_0"	""
+// TODO
+"rd_so_paragraph_parasite_1"	""
+// TODO
+"rd_so_paragraph_parasite_2"	""
+// TODO
+"rd_so_paragraph_parasite_3"	""
+// TODO
+"rd_so_paragraph_parasite_4"	""
+// TODO
+"rd_so_paragraph_mortarbug_0"	""
+// TODO
+"rd_so_paragraph_mortarbug_1"	""
+// TODO
+"rd_so_paragraph_mortarbug_2"	""
+// TODO
+"rd_so_paragraph_mortarbug_3"	""
+// TODO
+"rd_so_paragraph_mortarbug_4"	""
+// TODO
+"rd_so_paragraph_harvester_0"	""
+// TODO
+"rd_so_paragraph_harvester_1"	""
+// TODO
+"rd_so_paragraph_harvester_2"	""
+// TODO
+"rd_so_paragraph_harvester_3"	""
+// TODO
+"rd_so_paragraph_harvester_4"	""
+// TODO
+"rd_so_paragraph_xenomite_0"	""
+// TODO
+"rd_so_paragraph_xenomite_1"	""
+// TODO
+"rd_so_paragraph_xenomite_2"	""
+// TODO
+"rd_so_paragraph_xenomite_3"	""
+// TODO
+"rd_so_paragraph_xenomite_4"	""
+// TODO
+"rd_so_paragraph_shaman_0"	""
+// TODO
+"rd_so_paragraph_shaman_1"	""
+// TODO
+"rd_so_paragraph_shaman_2"	""
+// TODO
+"rd_so_paragraph_shaman_3"	""
+// TODO
+"rd_so_paragraph_shaman_4"	""
+// TODO
+"rd_so_paragraph_biomass_0"	""
+// TODO
+"rd_so_paragraph_biomass_1"	""
+// TODO
+"rd_so_paragraph_biomass_2"	""
+// TODO
+"rd_so_paragraph_biomass_3"	""
+// TODO
+"rd_so_paragraph_biomass_4"	""
+// TODO
+"rd_so_paragraph_grub_0"	""
+// TODO
+"rd_so_paragraph_grub_1"	""
+// TODO
+"rd_so_paragraph_grub_2"	""
+// TODO
+"rd_so_paragraph_grub_3"	""
+// TODO
+"rd_so_paragraph_grub_4"	""
+// TODO
+"rd_so_paragraph_antlionguard_0"	""
+// TODO
+"rd_so_paragraph_antlionguard_1"	""
+// TODO
+"rd_so_paragraph_antlionguard_2"	""
+// TODO
+"rd_so_paragraph_antlionguard_3"	""
+// TODO
+"rd_so_paragraph_antlionguard_4"	""
 
 "rd_cant_equip_generic"	"Cannot use this weapon"
 "rd_cant_equip_class"	"Current marine cannot use"
@@ -3871,7 +3552,8 @@
 "rd_campaign_name_rd_accident32"	"Accident 32"
 "rd_campaign_desc_rd_accident32"	"Your crew is set out to investigate the accident and defuse the chemical bomb which is the Muon Gem before its too late."
 "rd_campaign_name_rd_adanaxis"	"Adanaxis"
-//"rd_campaign_desc_rd_adanxis"	"" // TODO
+// TODO
+"rd_campaign_desc_rd_adanxis"	""
 "rd_campaign_name_rd_biogen_corporation"	"BioGen Corporation"
 "rd_campaign_desc_rd_biogen_corporation"	"Stop the swarm infestation on the New Earth."
 "rd_campaign_name_tilarus5"	"Tilarus-5"
@@ -4019,40 +3701,66 @@
 "rd_mission_title_rd-acc_complex"	"AMBER Complex"
 "rd_mission_desc_rd-acc_complex"	"Navigate through the AMBER Complex."
 
-//"rd_entrymission_title_rd_adanaxis"	"" // TODO
-//"rd_entrymission_brief_rd_adanaxis"	"" // TODO
-//"rd_mission_loc_rd-ada_sector_a9"	"" // TODO
-//"rd_mission_brief_rd-ada_sector_a9"	"" // TODO
+// TODO
+"rd_entrymission_title_rd_adanaxis"	""
+// TODO
+"rd_entrymission_brief_rd_adanaxis"	""
+// TODO
+"rd_mission_loc_rd-ada_sector_a9"	""
+// TODO
+"rd_mission_brief_rd-ada_sector_a9"	""
 "rd_mission_title_rd-ada_sector_a9"	"Sector A9"
-//"rd_mission_desc_rd-ada_sector_a9"	"" // TODO
-//"rd_mission_loc_rd-ada_nexus_subnode"	"" // TODO
-//"rd_mission_brief_rd-ada_nexus_subnode"	"" // TODO
+// TODO
+"rd_mission_desc_rd-ada_sector_a9"	""
+// TODO
+"rd_mission_loc_rd-ada_nexus_subnode"	""
+// TODO
+"rd_mission_brief_rd-ada_nexus_subnode"	""
 "rd_mission_title_rd-ada_nexus_subnode"	"Nexus SubNode"
-//"rd_mission_desc_rd-ada_nexus_subnode"	"" // TODO
-//"rd_mission_loc_rd-ada_neon_carnage"	"" // TODO
-//"rd_mission_brief_rd-ada_neon_carnage"	"" // TODO
+// TODO
+"rd_mission_desc_rd-ada_nexus_subnode"	""
+// TODO
+"rd_mission_loc_rd-ada_neon_carnage"	""
+// TODO
+"rd_mission_brief_rd-ada_neon_carnage"	""
 "rd_mission_title_rd-ada_neon_carnage"	"Neon Carnage"
-//"rd_mission_desc_rd-ada_neon_carnage"	"" // TODO
-//"rd_mission_loc_rd-ada_fuel_junction"	"" // TODO
-//"rd_mission_brief_rd-ada_fuel_junction"	"" // TODO
+// TODO
+"rd_mission_desc_rd-ada_neon_carnage"	""
+// TODO
+"rd_mission_loc_rd-ada_fuel_junction"	""
+// TODO
+"rd_mission_brief_rd-ada_fuel_junction"	""
 "rd_mission_title_rd-ada_fuel_junction"	"Fuel Junction"
-//"rd_mission_desc_rd-ada_fuel_junction"	"" // TODO
-//"rd_mission_loc_rd-ada_dark_path"	"" // TODO
-//"rd_mission_brief_rd-ada_dark_path"	"" // TODO
+// TODO
+"rd_mission_desc_rd-ada_fuel_junction"	""
+// TODO
+"rd_mission_loc_rd-ada_dark_path"	""
+// TODO
+"rd_mission_brief_rd-ada_dark_path"	""
 "rd_mission_title_rd-ada_dark_path"	"Dark Path"
-//"rd_mission_desc_rd-ada_dark_path"	"" // TODO
-//"rd_mission_loc_rd-ada_forbidden_outpost"	"" // TODO
-//"rd_mission_brief_rd-ada_forbidden_outpost"	"" // TODO
+// TODO
+"rd_mission_desc_rd-ada_dark_path"	""
+// TODO
+"rd_mission_loc_rd-ada_forbidden_outpost"	""
+// TODO
+"rd_mission_brief_rd-ada_forbidden_outpost"	""
 "rd_mission_title_rd-ada_forbidden_outpost"	"Forbidden Outpost"
-//"rd_mission_desc_rd-ada_forbidden_outpost"	"" // TODO
-//"rd_mission_loc_rd-ada_new_beginning"	"" // TODO
-//"rd_mission_brief_rd-ada_new_beginning"	"" // TODO
+// TODO
+"rd_mission_desc_rd-ada_forbidden_outpost"	""
+// TODO
+"rd_mission_loc_rd-ada_new_beginning"	""
+// TODO
+"rd_mission_brief_rd-ada_new_beginning"	""
 "rd_mission_title_rd-ada_new_beginning"	"New Beginning"
-//"rd_mission_desc_rd-ada_new_beginning"	"" // TODO
-//"rd_mission_loc_rd-ada_anomaly"	"" // TODO
-//"rd_mission_brief_rd-ada_anomaly"	"" // TODO
+// TODO
+"rd_mission_desc_rd-ada_new_beginning"	""
+// TODO
+"rd_mission_loc_rd-ada_anomaly"	""
+// TODO
+"rd_mission_brief_rd-ada_anomaly"	""
 "rd_mission_title_rd-ada_anomaly"	"Anomaly"
-//"rd_mission_desc_rd-ada_anomaly"	"" // TODO
+// TODO
+"rd_mission_desc_rd-ada_anomaly"	""
 
 "rd_entrymission_title_rd_biogen_corporation"	"Entry Port"
 "rd_entrymission_brief_rd_biogen_corporation"	"Dropship Bloodhound will enter atmosphere at these co-ordinates and proceed to primary objective."
@@ -4444,7 +4152,8 @@
 "rd_collection_title"	"Collections"
 "rd_collection_inventory_medals"	"Medals"
 "rd_collection_inventory_error_generic"	"Inventory currently unavailable"
-"rd_collection_inventory_error_22"	"Loading inventory..." // k_EResultPending
+// k_EResultPending
+"rd_collection_inventory_error_22"	"Loading inventory..."
 "rd_collection_inventory_item_equipped"	"This item is currently equipped."
 "rd_collection_weapons"	"Weapons"
 "rd_collection_equipment"	"Equipment"

@@ -1,19 +1,19 @@
 GAME
 {
-	// Inbox
+// Inbox
 
-	"MailFrom1"	"De: IAF News"
-	"MailDate1"	"Data: 31/11/32"
-	"MailSubject1"	"Assunto: Registro de notícias dos últimos 4 meses."
-	"MailBody1A"	"01 de Agosto de 2232 - A empresa de mineração 'Glenkor' detectou altas leituras de radiação na Sibéria, a leste do conector J7, que parecem estar vindo do subsolo. As operações de mineração começam."
-	"MailBody1B"	"15 de Outubro de 2232 - A fonte de imensa radiação é finalmente encontrada - uma caverna contendo toneladas de rochas verdes e transparentes. Pesquisas precisam ser feitas para descobrir o que as rochas realmente são."
-	"MailBody1C"	"18 de Outubro de 2232 - Os experimentos começam na segunda-feira. A estrutura atômica da rocha é diferente de tudo que já foi visto antes."
-	"MailBody1D"	"19 de Outubro de 2232 - A princípio, pensava-se que a rocha é feita exclusivamente de elétrons que estavam de alguma forma ligados e não soltos. No entanto, esses 'elétrons' pareciam ser múons estranhos. Novos medidores nucleares estão sendo desenvolvidos para medir a radioatividade real da rocha. Todas as pessoas que trabalharam na mina e nos experimentos agora estão isoladas."
-	"MailBody1E"	"23 de Outubro de 2232 - Novos medidores nucleares foram desenvolvidos. Como previsto, as rochas são duzentas vezes mais radioativas do que se pensava anteriormente. Ainda não se sabe por que os múons estão amarrados e não escapam rapidamente. O laboratório foi abandonado e declarado um nível de ameaça INES de 5."
-	"MailBody1F"	"29 de Outubro de 2232 - Duas semanas após a exposição dos mineiros às rochas - A respiração deles está muito pesada e uma pessoa morreu. As pessoas ainda estão isoladas estão com status de \"infectadas\"."
-	"MailBody1G"	"11 de Novembro de 2232 - A última pessoa que esteve perto da rocha morreu. No entanto, os cadáveres não estão se decompondo. Eles parecem estar frescos mesmo depois de quase um mês."
-	"MailBody1H"	"14 de Novembro de 2232 - As leituras de radiação a 15 quilômetros do laboratório estão crescendo rapidamente. A razão para isso é desconhecida. A rocha começou a se decompor mais rápido? Por quê?"
-	"MailBody1I"	"20 de Novembro de 2232 - As autoridades enviaram um bravo grupo de soldados em novos trajes de proteção de múons para realizar investigações. Dentro do laboratório, tais níveis de radioatividade nunca foram vistos antes. A temperatura no interior do edifício vem crescendo desde o isolamento do mesmo. Parece que temperaturas mais altas aceleram a decomposição da rocha. Os soldados estão questionando a confiabilidade de seus trajes e sua segurança."
-	"MailBody1J"	"22 de Novembro de 2232 - Uma empresa de mineração \"Tio Rinto\" forneceu algumas informações sobre o material de que a rocha é feita. Há 43 anos, eles encontraram um material que começa a se decompor rapidamente após ser exposto a altas temperaturas. De acordo com seus registros, este material veio do espaço em um impacto de meteoro. Se a rocha for feita do mesmo material, espera-se que atinja seu estado crítico em 17 de dezembro de 2232. O relógio está correndo."
-	"MailBody1K"	"Sua assinatura da IAF News expirou. Você pode prolongar sua assinatura em iafnews.space/subscription"
+"MailFrom1"	"De: IAF News"
+"MailDate1"	"Data: 31/11/32"
+"MailSubject1"	"Assunto: Registro de notícias dos últimos 4 meses."
+"MailBody1A"	"01 de Agosto de 2232 - A empresa de mineração 'Glenkor' detectou altas leituras de radiação na Sibéria, a leste do conector J7, que parecem estar vindo do subsolo. As operações de mineração começam."
+"MailBody1B"	"15 de Outubro de 2232 - A fonte de imensa radiação é finalmente encontrada - uma caverna contendo toneladas de rochas verdes e transparentes. Pesquisas precisam ser feitas para descobrir o que as rochas realmente são."
+"MailBody1C"	"18 de Outubro de 2232 - Os experimentos começam na segunda-feira. A estrutura atômica da rocha é diferente de tudo que já foi visto antes."
+"MailBody1D"	"19 de Outubro de 2232 - A princípio, pensava-se que a rocha é feita exclusivamente de elétrons que estavam de alguma forma ligados e não soltos. No entanto, esses 'elétrons' pareciam ser múons estranhos. Novos medidores nucleares estão sendo desenvolvidos para medir a radioatividade real da rocha. Todas as pessoas que trabalharam na mina e nos experimentos agora estão isoladas."
+"MailBody1E"	"23 de Outubro de 2232 - Novos medidores nucleares foram desenvolvidos. Como previsto, as rochas são duzentas vezes mais radioativas do que se pensava anteriormente. Ainda não se sabe por que os múons estão amarrados e não escapam rapidamente. O laboratório foi abandonado e declarado um nível de ameaça INES de 5."
+"MailBody1F"	"29 de Outubro de 2232 - Duas semanas após a exposição dos mineiros às rochas - A respiração deles está muito pesada e uma pessoa morreu. As pessoas ainda estão isoladas estão com status de \"infectadas\"."
+"MailBody1G"	"11 de Novembro de 2232 - A última pessoa que esteve perto da rocha morreu. No entanto, os cadáveres não estão se decompondo. Eles parecem estar frescos mesmo depois de quase um mês."
+"MailBody1H"	"14 de Novembro de 2232 - As leituras de radiação a 15 quilômetros do laboratório estão crescendo rapidamente. A razão para isso é desconhecida. A rocha começou a se decompor mais rápido? Por quê?"
+"MailBody1I"	"20 de Novembro de 2232 - As autoridades enviaram um bravo grupo de soldados em novos trajes de proteção de múons para realizar investigações. Dentro do laboratório, tais níveis de radioatividade nunca foram vistos antes. A temperatura no interior do edifício vem crescendo desde o isolamento do mesmo. Parece que temperaturas mais altas aceleram a decomposição da rocha. Os soldados estão questionando a confiabilidade de seus trajes e sua segurança."
+"MailBody1J"	"22 de Novembro de 2232 - Uma empresa de mineração \"Tio Rinto\" forneceu algumas informações sobre o material de que a rocha é feita. Há 43 anos, eles encontraram um material que começa a se decompor rapidamente após ser exposto a altas temperaturas. De acordo com seus registros, este material veio do espaço em um impacto de meteoro. Se a rocha for feita do mesmo material, espera-se que atinja seu estado crítico em 17 de dezembro de 2232. O relógio está correndo."
+"MailBody1K"	"Sua assinatura da IAF News expirou. Você pode prolongar sua assinatura em iafnews.space/subscription"
 }

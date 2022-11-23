@@ -1,11 +1,11 @@
 GAME
 {
-	// Inbox
+// Inbox
 
-	"MailFrom1"	"Von: Betriebsnachrichten [Laura]"
-	"MailDate1"	"Datum: 19. Okt 2232"
-	"MailSubject1"	"Betreff: Forschung Band 2"
-	"MailBody1A"	"Heilige Scheiße, unsere stärkeren Detektoren haben festgestellt, dass das Gestein aus Myonen und nicht aus Elektronen besteht."
-	"MailBody1B"	"Das ist eine schreckliche Nachricht. Es könnte viel radioaktiver sein, als wir dachten... Es werden jetzt bessere Messgeräte entwickelt und wir sind alle in Isolation, bis wir herausgefunden haben, ob wir sicher sind oder nicht."
-	"MailBody1C"	"Laura"
+"MailFrom1"	"Von: Betriebsnachrichten [Laura]"
+"MailDate1"	"Datum: 19. Okt 2232"
+"MailSubject1"	"Betreff: Forschung Band 2"
+"MailBody1A"	"Heilige Scheiße, unsere stärkeren Detektoren haben festgestellt, dass das Gestein aus Myonen und nicht aus Elektronen besteht."
+"MailBody1B"	"Das ist eine schreckliche Nachricht. Es könnte viel radioaktiver sein, als wir dachten... Es werden jetzt bessere Messgeräte entwickelt und wir sind alle in Isolation, bis wir herausgefunden haben, ob wir sicher sind oder nicht."
+"MailBody1C"	"Laura"
 }

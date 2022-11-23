@@ -1,6 +1,6 @@
 ﻿"lang"
 {
-"Language"	"English" 
+"Language"	"english" 
 "Tokens"
 {
 "TextEntry_Cut"	"Cut"

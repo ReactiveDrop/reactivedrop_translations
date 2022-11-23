@@ -300,6 +300,7 @@
 "L4D360UI_UnderConstruction"		"[Under konstruktion]"
 "[english]L4D360UI_UnderConstruction"		"[Under Construction]"
 "L4D360UI_WaitScreen_WorkingMsg"		""
+//generic wait screen text and messages
 "[english]L4D360UI_WaitScreen_WorkingMsg"		""
 "L4D360UI_WaitScreen_CreatingLobby"		"Opretter lobby"
 "[english]L4D360UI_WaitScreen_CreatingLobby"		"Creating a Lobby"
@@ -326,6 +327,7 @@
 "L4D360UI_WaitScreen_GameInFinale"		"Spil i finale"
 "[english]L4D360UI_WaitScreen_GameInFinale"		"Game in Finale"
 "L4D360UI_Ok"		"OK"
+//shared strings
 "[english]L4D360UI_Ok"		"OK"
 "L4D360UI_Select"		"Vælg"
 "[english]L4D360UI_Select"		"Select"
@@ -352,12 +354,14 @@
 "L4D360UI_Tooltip_Cancel"		"Gå tilbage uden at beholde ændringer."
 "[english]L4D360UI_Tooltip_Cancel"		"Go back without keeping changes."
 "L4D360UI_Join_Anywhere"		"FIND ET IGANGVÆRENDE SPIL"
+//Public search options
 "[english]L4D360UI_Join_Anywhere"		"FIND A GAME"
 "L4D360UI_Join_At_Start"		"FIND EN SPILLOBBY"
 "[english]L4D360UI_Join_At_Start"		"FIND A GAME LOBBY"
 "L4D360UI_Join_Create"		"OPRET EN SPILLOBBY"
 "[english]L4D360UI_Join_Create"		"CREATE A GAME"
 "L4D360UI_MsgBx_NeedTwoProfilesC"		"Spil med delt skærm"
+//generic error messages
 "[english]L4D360UI_MsgBx_NeedTwoProfilesC"		"Play Splitscreen"
 "L4D360UI_MsgBx_NeedTwoProfilesTxt"		"To gamer-profiler skal være logget på, for at der kan spilles med delt skærm."
 "[english]L4D360UI_MsgBx_NeedTwoProfilesTxt"		"Two gamer profiles must be signed in to play splitscreen."
@@ -438,6 +442,7 @@
 "L4D360UI_MsgBx_GuestsUnavailableToGuests"		"Gæster kan ikke låse op for eller få vist gennemførelsespoint."
 "[english]L4D360UI_MsgBx_GuestsUnavailableToGuests"		"Guests are not allowed to unlock or view achievement scores."
 "L4D360UI_GameSettings_LiveOpen"		"SPILINDSTILLINGER: OFFENTLIGT SPIL"
+//Game Settings
 "[english]L4D360UI_GameSettings_LiveOpen"		"Game Settings: PUBLIC GAME"
 "L4D360UI_GameSettings_LiveFriends"		"SPILINDSTILLINGER: SPIL KUN FOR VENNER"
 "[english]L4D360UI_GameSettings_LiveFriends"		"Game Settings: FRIENDS-ONLY GAME"
@@ -496,12 +501,15 @@
 "L4D360UI_GameSettings_Tooltip_Create_Lobby"		"Opret en lobby med disse indstillinger."
 "[english]L4D360UI_GameSettings_Tooltip_Create_Lobby"		"Create a lobby with these settings."
 "L4D360UI_ShowUnlockableAwards"		"Vis avatar-præmier"
+// Unlockable Awards
 "[english]L4D360UI_ShowUnlockableAwards"		"Display Avatar Awards"
 "L4D360UI_ShowAchievements"		"Vis gennemførelser"
 "[english]L4D360UI_ShowAchievements"		"Display Achievements"
 "L4D360UI_Attract_PressStart"		"TRYK PÅ START"
+//Attract Screen
 "[english]L4D360UI_Attract_PressStart"		"PRESS START"
 "L4D360UI_SignIn_Title"		" Velkommen, %s1"
+//Sign In Screen
 "[english]L4D360UI_SignIn_Title"		" Welcome, %s1"
 "L4D360UI_SignIn_TitleNo"		" Velkommen"
 "[english]L4D360UI_SignIn_TitleNo"		" Welcome"
@@ -520,6 +528,7 @@
 "L4D360UI_SignIn_CancelSignIn"		"Annuller"
 "[english]L4D360UI_SignIn_CancelSignIn"		"Cancel"
 "L4D360UI_MainMenu_CoOp"		"SPIL KAMPAGNE"
+//Main Menu
 "[english]L4D360UI_MainMenu_CoOp"		"PLAY ONLINE"
 "L4D360UI_MainMenu_Holdout"		"SPIL HOLDOUT"
 "[english]L4D360UI_MainMenu_Holdout"		"PLAY HOLDOUT"
@@ -684,6 +693,7 @@
 "L4D360UI_Character_Guest"		"Spiller"
 "[english]L4D360UI_Character_Guest"		"Player"
 "L4D360UI_InGameMainMenu_ReturnToGame"		"TILBAGE TIL SPILLET"
+//In Game Main Menu
 "[english]L4D360UI_InGameMainMenu_ReturnToGame"		"RETURN TO GAME"
 "L4D360UI_InGameMainMenu_ReturnToGame_Tip"		"Forlad denne menu, og fortsæt spillet."
 "[english]L4D360UI_InGameMainMenu_ReturnToGame_Tip"		"Leave this menu and continue playing."
@@ -712,10 +722,12 @@
 "L4D360UI_InGameMainMenu_ExitToMainMenu_Tip"		"Forlad dette spil."
 "[english]L4D360UI_InGameMainMenu_ExitToMainMenu_Tip"		"Leave this game."
 "L4D360UI_VoteMenu_YesBinding"		"Ja: START"
+// Vote menu
 "[english]L4D360UI_VoteMenu_YesBinding"		"Yes: START"
 "L4D360UI_VoteMenu_NoBinding"		"Nej: TILBAGE"
 "[english]L4D360UI_VoteMenu_NoBinding"		"No: BACK"
 "L4D360UI_InviteUIOptions"		"ONLINE MULTIPLAYER"
+// Invite UI options
 "[english]L4D360UI_InviteUIOptions"		"ONLINE MULTIPLAYER"
 "L4D360UI_InviteUIOptions_Tip"		"Skift kanal for voice-chat eller send spilinvitationer."
 "[english]L4D360UI_InviteUIOptions_Tip"		"Change voice chat channel or send game invites."
@@ -764,6 +776,7 @@
 "L4D360UI_InviteUI_gamevoiceui_Tip_Disabled"		""
 "[english]L4D360UI_InviteUI_gamevoiceui_Tip_Disabled"		""
 "L4D360UI_Lobby_EmptySlotAd"		"Spillerplads disponibel"
+//Game Lobby Screen
 "[english]L4D360UI_Lobby_EmptySlotAd"		"Player Slot Available"
 "L4D360UI_Lobby_SplitSlotAd"		"Spiller to, log på for delt skærm"
 "[english]L4D360UI_Lobby_SplitSlotAd"		"Player Two, Sign in for Splitscreen"
@@ -990,6 +1003,7 @@
 "L4D360UI_Lobby_Player_Left"		"%s1 forlod lobbyen."
 "[english]L4D360UI_Lobby_Player_Left"		"%s1 left."
 "L4D360UI_GameAccess"		"Spiladgang"
+//Player Access screen
 "[english]L4D360UI_GameAccess"		"Game Access"
 "L4D360UI_Access_Description"		"Angiv den gruppe personer, du vil spille med."
 "[english]L4D360UI_Access_Description"		"Specify a group of people you would like to play with."
@@ -1014,16 +1028,19 @@
 "L4D360UI_Access_Tooltip_Invite"		"Inviter bestemte personer til dit spil."
 "[english]L4D360UI_Access_Tooltip_Invite"		"Invite specific people to your game."
 "L4D360UI_ServerType_Official"		"Officiel, dedikeret"
+//Server type screen
 "[english]L4D360UI_ServerType_Official"		"Official Dedicated"
 "L4D360UI_ServerType_Dedicated"		"Bedste dedikerede"
 "[english]L4D360UI_ServerType_Dedicated"		"Best Available Dedicated"
 "L4D360UI_ServerType_Listen"		"Lokal server"
 "[english]L4D360UI_ServerType_Listen"		"Local Server"
 "L4D360UI_AudioVideo_Title"		"AUDIO/VIDEO-INDSTILLINGER"
+//Audio Video
 "[english]L4D360UI_AudioVideo_Title"		"AUDIO/VIDEO OPTIONS"
 "L4D360UI_AudioVideo_Desc"		"Find dine optimale indstillinger baseret på din hardware og dine præferencer."
 "[english]L4D360UI_AudioVideo_Desc"		"Find your optimal settings based on your hardware and preferences."
 "L4D360UI_AudioOptions_Volume"		"PRIMÆR LYDSTYRKE"
+//Audio Options
 "[english]L4D360UI_AudioOptions_Volume"		"MASTER VOLUME"
 "L4D360UI_AudioOptions_Tooltip_Volume"		"Juster spillets lydstyrke."
 "[english]L4D360UI_AudioOptions_Tooltip_Volume"		"Adjust the volume of the game."
@@ -1070,6 +1087,7 @@
 "L4D360UI_AudioOptions_Tooltip_Volume_Disabled"		"Justering af lydstyrken er deaktiveret i øjeblikket."
 "[english]L4D360UI_AudioOptions_Tooltip_Volume_Disabled"		"Adjusting the volume is currently disabled."
 "L4D360UI_VideoOptions_Brightness"		"LYSSTYRKE"
+//Video Options
 "[english]L4D360UI_VideoOptions_Brightness"		"BRIGHTNESS"
 "L4D360UI_VideoOptions_Tooltip_Brightness"		"Gamma-korriger din skærm."
 "[english]L4D360UI_VideoOptions_Tooltip_Brightness"		"Gamma-correct your screen."
@@ -1150,6 +1168,7 @@
 "L4D360UI_DropDownGore_Low_Tooltip_Disabled"		"Modificering af splat ikke tilgængelig."
 "[english]L4D360UI_DropDownGore_Low_Tooltip_Disabled"		"Gore modification not available."
 "L4D360UI_Multiplayer_Desc"		"Konfigurer indstillinger og præferencer for multiplayer-spil."
+//Multiplayer Options
 "[english]L4D360UI_Multiplayer_Desc"		"Configure settings and preferences for multiplayer gaming."
 "L4D360UI_Multiplayer_AllowCustomContent"		"Brugerdefineret serverindhold"
 "[english]L4D360UI_Multiplayer_AllowCustomContent"		"Custom Server Content"
@@ -1182,6 +1201,7 @@
 "L4D360UI_DownloadFilter_Title"		"Filtrer de filer, som en spilserver med brugerdefineret indhold kan downloade til din computer."
 "[english]L4D360UI_DownloadFilter_Title"		"Filter the files that a game server with custom content can download to your computer."
 "L4D360UI_Cloud_Title"		"Steam Cloud"
+//Cloud Options
 "[english]L4D360UI_Cloud_Title"		"Steam Cloud"
 "L4D360UI_Cloud_Subtitle"		"Steam Cloud gemmer oplysninger, så din gameplay-oplevelse er ensartet fra pc til pc."
 "[english]L4D360UI_Cloud_Subtitle"		"The Steam Cloud stores information so your gameplay experience is consistent across PCs."
@@ -1214,6 +1234,7 @@
 "L4D360UI_SteamOverlay_Text"		"Denne funktion kræver, at Steam-fællesskab i spil er aktiveret.\n\nDu er måske nødt til at genstarte spillet, efter du aktiverer denne funktionen i Steam:\nSteam -> Fil -> Indstillinger -> I spil: Aktiver Steam-fællesskabet i spil\n"
 "[english]L4D360UI_SteamOverlay_Text"		"This feature requires Steam Community In-Game to be enabled.\n\nYou might need to restart the game after you enable this feature in Steam:\nSteam -> File -> Settings -> In-Game: Enable Steam Community In-Game\n"
 "L4D360UI_AddonAssociation_Title"		"Automatisk installation af udvidelse"
+//Add-on Assocation Options
 "[english]L4D360UI_AddonAssociation_Title"		"Automatic Add-on Installation"
 "L4D360UI_AddonAssociation_Subtitle"		"Alien Swarm vil gerne associere filer med filtypenavnet .vpk. Dette letter installationen af udvidelser ved at gøre det muligt at dobbeltklikke på dem. Ønsker du at tillade dette?"
 "[english]L4D360UI_AddonAssociation_Subtitle"		"Alien Swarm would like to associate with files using the .vpk extension. This allows easier installation of add-ons by allowing you to double click on them. Do you wish to allow this?"
@@ -1240,6 +1261,7 @@
 "L4D360UI_ADDON_SUPPORT_INSTALLING_DETAILS"		"Kontrollér download-fremskridtet på fanen Tools (Værktøjer) i Steam."
 "[english]L4D360UI_ADDON_SUPPORT_INSTALLING_DETAILS"		"Check download progress in the Steam Tools tab."
 "L4D360UI_GetLegacyData_Title"		"Download data til understøttelse af udvidelser"
+//Add-on Legacy Data Download Options
 "[english]L4D360UI_GetLegacyData_Title"		"Download Add-on Support Data"
 "L4D360UI_GetLegacyData_Subtitle"		"Alien Swarm vil gerne downloade supplerende spildata, som kræves af en del udvidelser, for at de kan fungere ordentligt. Dataene kan også installeres fra fanen Tools (Værktøjer) i Steam.\n\nVil du installere disse supplerende spildata nu?"
 "[english]L4D360UI_GetLegacyData_Subtitle"		"Alien Swarm would like to download additional game data that many add-ons require to work properly. It can also be installed from the Tools tab in Steam.\n\nDo you wish to install this additional game data now?"
@@ -1254,6 +1276,7 @@
 "L4D360UI_GetLegacyData_OK"		"OK"
 "[english]L4D360UI_GetLegacyData_OK"		"OK"
 "L4D360UI_DownloadCampaign_Title"		"Download kampagneudvidelse"
+//Download Campaign Options
 "[english]L4D360UI_DownloadCampaign_Title"		"Download Campaign AddOn"
 "L4D360UI_DownloadCampaign_Subtitle"		"Download en brugerdefineret tredjepartskampagne."
 "[english]L4D360UI_DownloadCampaign_Subtitle"		"Download a custom third party campaign."
@@ -1270,14 +1293,17 @@
 "L4D360UI_DownloadCampaign_Back"		"Tilbage"
 "[english]L4D360UI_DownloadCampaign_Back"		"Back"
 "L4D360UI_VisitCampaign_Title"		"Besøg webstedet for kampagneudvidelsen"
+//Visit Campaign Website Options
 "[english]L4D360UI_VisitCampaign_Title"		"Visit Campaign Add-on Website"
 "L4D360UI_VisitCampaign_Text"		"Du er ved at logge ud af Alien Swarm for at besøge webstedet for en brugerdefineret udvidelse."
 "[english]L4D360UI_VisitCampaign_Text"		"You are about to switch out of Alien Swarm and visit the website for a custom add-on."
 "L4D360UI_Lobby_MissingContent"		"Det er nødvendigt at downloade indhold"
+//Kicked for missing content
 "[english]L4D360UI_Lobby_MissingContent"		"Downloadable Content Required"
 "L4D360UI_Lobby_MissingContent_Message"		"Du blev fjernet fra denne lobby, fordi værten har valgt en kampagne, der ikke er installeret."
 "[english]L4D360UI_Lobby_MissingContent_Message"		"You were removed from the lobby because the host has selected a campaign that is not installed."
 "L4D360UI_Extras_WatchMovie"		"Se introfilm"
+//Extras
 "[english]L4D360UI_Extras_WatchMovie"		"Watch Intro Movie"
 "L4D360UI_Extras_Commentary"		"Udviklerkommentar"
 "[english]L4D360UI_Extras_Commentary"		"Developer Commentary"
@@ -1300,6 +1326,7 @@
 "L4D360UI_Extras_Addons_Tip"		"Aktiver og konfigurer spiludvidelser, der er downloadet til din computer"
 "[english]L4D360UI_Extras_Addons_Tip"		"Enable and configure game add-ons downloaded to your computer"
 "L4D360UI_RoundLimit"		"RUNDEGRÆNSE"
+//Round Limit settings
 "[english]L4D360UI_RoundLimit"		"ROUND LIMIT"
 "L4D360UI_RoundLimit_Tip"		"Angiv, hvor mange runder du er parat til at spille."
 "[english]L4D360UI_RoundLimit_Tip"		"Specify how many rounds you are willing to play."
@@ -1310,6 +1337,7 @@
 "L4D360UI_RoundLimit_5"		"Bedst af fem"
 "[english]L4D360UI_RoundLimit_5"		"Best of Five"
 "L4D360UI_ChooseDifficulty"		"Vælg spillets sværhedsgrad"
+//Choose difficulty screen
 "[english]L4D360UI_ChooseDifficulty"		"Select Game Difficulty"
 "L4D360UI_Difficulty_Description"		"Vælg den sværhedsgrad, der passer dig bedst."
 "[english]L4D360UI_Difficulty_Description"		"Specify the level of difficulty you are most comfortable with."
@@ -1364,6 +1392,7 @@
 "L4D360UI_Difficulty_Tooltip_insane"		"Spil dette spil i eksperttilstand (den mest udfordrende spiloplevelse som overlevende)."
 "[english]L4D360UI_Difficulty_Tooltip_insane"		"Play this game in Expert mode (for the most challenging Survivor experience)."
 "L4D360UI_ChooseCampaign"		"Vælg en kampagne"
+//Choose campaign screen
 "[english]L4D360UI_ChooseCampaign"		"Select a Campaign"
 "L4D360UI_Campaign_Description"		"Angiv, hvilken kampagne du vil spille."
 "[english]L4D360UI_Campaign_Description"		"Specify which campaign you would like to play."
@@ -1376,12 +1405,14 @@
 "L4D360UI_Chapter_Only1Avail"		"Ikke flere kapitler"
 "[english]L4D360UI_Chapter_Only1Avail"		"No More Chapters"
 "L4D360UI_KickPlayerList_Title"		"Vælg spiller at sparke ud"
+//Kick Player screen
 "[english]L4D360UI_KickPlayerList_Title"		"Select Player to Kick"
 "L4D360UI_KickPlayerList_Description"		"Vælg den spillere, som du gerne vil sparke ud."
 "[english]L4D360UI_KickPlayerList_Description"		"Choose the player you would like to kick."
 "L4D360UI_KickPlayerList_No_eligible_players"		"Der er ingen spillere på dit hold, der kan blive sparket ud."
 "[english]L4D360UI_KickPlayerList_No_eligible_players"		"There are no players on your team who are eligible to be kicked."
 "L4D360UI_Mode_campaign"		"Kampagne"
+//Found Games screen
 "[english]L4D360UI_Mode_campaign"		"Campaign"
 "L4D360UI_Mode_single_mission"		"Enkelt mission"
 "[english]L4D360UI_Mode_single_mission"		"Single Mission"
@@ -1404,10 +1435,12 @@
 "L4D360UI_FoudGames_CreateNewFlyout"		"Opret spil"
 "[english]L4D360UI_FoudGames_CreateNewFlyout"		"Create Game"
 "L4D360UI_FoudGames_CustomMatch_campaign"		"Flere søgeindstillinger"
+// Localized as "Campaign Game Search" and "Versus Game Search" and etc.
 "[english]L4D360UI_FoudGames_CustomMatch_campaign"		"More Search Options"
 "L4D360UI_FoudGames_CustomMatch_single_mission"		"Flere søgeindstillinger"
 "[english]L4D360UI_FoudGames_CustomMatch_single_mission"		"More Search Options"
 "L4D360UI_FOUNDGAMES_ADDON_SUPPORT_REQUIRED"		"Understøttelse af udvidelser skal være installeret, for at der kan spilles tredjepartskampagner."
+//Found Games screen
 "[english]L4D360UI_FOUNDGAMES_ADDON_SUPPORT_REQUIRED"		"Add-on support is required to play third party campaigns."
 "L4D360UI_FoundGames_Friends"		"VENNERS SPIL FUNDET"
 "[english]L4D360UI_FoundGames_Friends"		"FRIENDS' GAMES FOUND"
@@ -1546,6 +1579,7 @@
 "L4D360UI_FoundPublicGames_Filter_Label_Tip"		"Filtrér, hvilke spil og lobbyer der vises."
 "[english]L4D360UI_FoundPublicGames_Filter_Label_Tip"		"Filter which games and lobbies are found."
 "L4D360UI_FoundPublicGames_Status"		"%s1, %s2"
+// Expands to L4D360UI_FoundGames_LobbyCount, L4D360UI_FoundGames_GameCountInProgress
 "[english]L4D360UI_FoundPublicGames_Status"		"%s1, %s2"
 "L4D360UI_FoundPublicGames_Status_None"		"Ingen tilgængelige lobbyer eller igangværende spil"
 "[english]L4D360UI_FoundPublicGames_Status_None"		"No Lobbies or Games in Progress"
@@ -1614,6 +1648,7 @@
 "L4D360UI_FoundPublicGames_Filter_Campaign_NotInstalledAddOn_Tip"		"Sortering for spil eller lobbys der ikke benytter installerede tilføjelseskampagner."
 "[english]L4D360UI_FoundPublicGames_Filter_Campaign_NotInstalledAddOn_Tip"		"Filter for games that are only using not installed add-on campaigns."
 "L4D360UI_Controller_Title"		"CONTROLLER-INDSTILLINGER (%s1)"
+//Controller Screen
 "[english]L4D360UI_Controller_Title"		"CONTROLLER OPTIONS (%s1)"
 "L4D360UI_Controller_Buttons_Title"		"KNAPTILKNYTNING (%s1)"
 "[english]L4D360UI_Controller_Buttons_Title"		"BUTTON LAYOUT (%s1)"
@@ -1988,6 +2023,7 @@
 "GameUI_Icons_LOBBY"		"i"
 "[english]GameUI_Icons_LOBBY"		"i"
 "L4D360UI_MultiPlayer_CreateLiveGame"		"Opret et Xbox LIVE-spil"
+// tooltips
 "[english]L4D360UI_MultiPlayer_CreateLiveGame"		"Create an Xbox LIVE Game"
 "L4D360UI_MultiPlayer_FindLiveGame"		"Find et Xbox LIVE-spil"
 "[english]L4D360UI_MultiPlayer_FindLiveGame"		"Find an Xbox LIVE Game"
@@ -2012,6 +2048,7 @@
 "L4D360UI_Controller_SwapJoysticks"		"Byt om på controllerens styrepinde, så SE er til venstre, og BEVÆG er til højre."
 "[english]L4D360UI_Controller_SwapJoysticks"		"Swap the controller sticks so that LOOK is on the left and MOVE on the right."
 		"L4D360UI_Loading_Starring"		"Commanders: "
+		// Loading posters
 		"[english]L4D360UI_Loading_Starring"		"Commanders: "
 		"L4D360UI_Loading_Costarring"		"Commanders: "
 		"[english]L4D360UI_Loading_Costarring"		"Commanders: "
@@ -2022,6 +2059,7 @@
 "L4D360UI_Loading_GameMode_single_mission"		"Tilslutter til et Enkelt mission-spil."
 "[english]L4D360UI_Loading_GameMode_single_mission"		"Joining a Single Mission game."
 "L4D360UI_My_Achievements"		"Præstationer"
+// achievements
 "[english]L4D360UI_My_Achievements"		"Achievements"
 "L4D360UI_My_Achievements_Desc"		"Se en liste over de gennemførelser, du hidtil har opnået."
 "[english]L4D360UI_My_Achievements_Desc"		"See the list of Achievements you have earned so far."
@@ -2038,6 +2076,7 @@
 "L4D360UI_Scroll_Progress"		"%s1 - %s2 af %s3"
 "[english]L4D360UI_Scroll_Progress"		"%s1 - %s2 of %s3"
 "L4D360UI_My_Addons"		"UDVIDELSER"
+// Addons
 "[english]L4D360UI_My_Addons"		"Add-ons"
 "L4D360UI_My_Addons_Desc"		"Sæt kryds ved brugerdefinerede udvidelser for at aktivere dem til singleplayer-spil og spil med lokal vært."
 "[english]L4D360UI_My_Addons_Desc"		"Check custom add-ons to enable them for single player and locally hosted games."
@@ -2072,6 +2111,7 @@
 "L4D360UI_Addon_DoNotAssociate"		"Forsøg ikke på at associere .vpk-udvidelsesfiler"
 "[english]L4D360UI_Addon_DoNotAssociate"		"Do not attempt to associate .VPK add-on files"
 "L4D360UI_MsgBx_StorageDeviceRemoved"		"Præferencer og fremskridt i spillet gemmes ikke uden en gyldig lagerenhed."
+// TCR additions
 "[english]L4D360UI_MsgBx_StorageDeviceRemoved"		"Preferences and game progress will not be saved without a valid storage device."
 "L4D360UI_MsgBx_ControllerUnpluggedTitle"		"Controller afbrudt"
 "[english]L4D360UI_MsgBx_ControllerUnpluggedTitle"		"Controller Unplugged"
@@ -2088,6 +2128,7 @@
 "L4D360UI_MsgBx_GuestProfile_Dismissed"		"Du er blevet fjernet fra spillet på grund af en login-ændring."
 "[english]L4D360UI_MsgBx_GuestProfile_Dismissed"		"You have been removed the game due to a sign-in change."
 "L4D_Friend_Online"		"Online"
+// Friend status
 "[english]L4D_Friend_Online"		"Online"
 "L4D_Friend_Away"		"Borte"
 "[english]L4D_Friend_Away"		"Away"
@@ -2124,6 +2165,7 @@
 "L4D360UI_LeaveLobbyConfLive_PC"		"Du er i øjeblikket med i en online spillobby."
 "[english]L4D360UI_LeaveLobbyConfLive_PC"		"You are currently part of an online game lobby."
 "L4D_video_tip"		"Konfigurer videoindstillinger ud fra din systemopsætning og spilkravene."
+// Main Menu
 "[english]L4D_video_tip"		"Configure video settings based on your system's abilities and requirements."
 "L4D_audio_tip"		"Konfigurer lydindstillinger ud fra præferencer og højttalere."
 "[english]L4D_audio_tip"		"Configure audio settings based on your preferences and speakers."
@@ -2136,6 +2178,7 @@
 "L4D_steamcloud_disabled_tip"		"Steam Cloud er ikke tilgængelig i øjeblikket."
 "[english]L4D_steamcloud_disabled_tip"		"Steam Cloud is currently unavailable."
 "L4D_aspect_ratio_tip"		"Juster bredde og højde på displayet."
+// Video Options
 "[english]L4D_aspect_ratio_tip"		"Adjust the width and height of your display."
 "L4D_resolution_tip"		"Juster detaljegrad på displayet."
 "[english]L4D_resolution_tip"		"Adjust the level of detail of your display."
@@ -2168,6 +2211,7 @@
 "L4D_paged_pool_mem_tip"		"Konfigurer din driver for at allokere mere eller mindre hukommelse."
 "[english]L4D_paged_pool_mem_tip"		"Configure your driver to allocate less or more memory."
 "L4D_spkr_config_tip"		"Konfigurer højttalerlayout og kanaler."
+// Audio Options
 "[english]L4D_spkr_config_tip"		"Configure speaker layout and channels."
 "L4D_sound_qual_tip"		"Juster lydkvalitet."
 "[english]L4D_sound_qual_tip"		"Adjust sound quality."
@@ -2192,6 +2236,7 @@
 "L4D_test_mic_tip"		"Test, om din mikrofon fungerer korrekt."
 "[english]L4D_test_mic_tip"		"Test whether your microphone is functioning properly."
 "L4D_edit_keys_tip"		"Vælg dit foretrukne layout for tastatur, mus og gamepad."
+// Keyboard Options
 "[english]L4D_edit_keys_tip"		"Choose your preferred keyboard, mouse, and gamepad button layout."
 "L4D_reverse_mouse_tip"		"Vend retningerne på musen om."
 "[english]L4D_reverse_mouse_tip"		"Invert the directions of your mouse."
@@ -2216,6 +2261,7 @@
 		"L4D_gamepad_autoattack_tip"		"Automatically shoot while holding the aiming stick."
 		"[english]L4D_gamepad_autoattack_tip"		"Automatically shoot while holding the aiming stick."
 "L4D_import_spray_tip"		"Importer et nyt spraybillede til brug i spillet."
+// Multiplayer Options
 "[english]L4D_import_spray_tip"		"Import a new spray image to use in-game."
 "L4D_import_game_instruct"		"Aktiver eller deaktiver nyttige realtidsråd i spillet."
 "[english]L4D_import_game_instruct"		"Enable or disable helpful real-time hints during gameplay."
@@ -2224,6 +2270,7 @@
 "L4D360UI_MainMenu_ServerBrowser_Tip"		"Vis spillets serverbrowser."
 "[english]L4D360UI_MainMenu_ServerBrowser_Tip"		"Show the in-game server browser."
 "L4D360UI_LegacyOn"		"Deaktiver tidligere indstillinger"
+// Legacy controls
 "[english]L4D360UI_LegacyOn"		"Turn Legacy Off"
 "L4D360UI_LegacyOff"		"Aktiver tidligere indstillinger"
 "[english]L4D360UI_LegacyOff"		"Turn Legacy On"
@@ -2280,6 +2327,7 @@
 "L4D360UI_MsgBx_NeedLiveGeneric"		"Du skal være logget ind på Xbox LIVE for at udføre denne handling."
 "[english]L4D360UI_MsgBx_NeedLiveGeneric"		"You must be signed in to Xbox LIVE to perform that action."
 "L4D360UI_Leaderboard_Rank"		"Placering"
+// Leaderboard
 "[english]L4D360UI_Leaderboard_Rank"		"Rank"
 "L4D360UI_Leaderboard_Gamertag"		"Gamertag"
 "[english]L4D360UI_Leaderboard_Gamertag"		"Gamertag"
@@ -2316,6 +2364,7 @@
 "L4D360UI_MsgBx_KickedFromSessionDLCrequired"		"Værten har valgt en kampagne, der leveres sammen med Overlevelsespakken.\n Ønsker du at downloade indholdet til Overlevelsespakken fra Xbox LIVE Marketplace?"
 "[english]L4D360UI_MsgBx_KickedFromSessionDLCrequired"		"The host has selected a campaign that is provided with the Survival Pack.\nWould you like to download Survival Pack content from Xbox LIVE Marketplace?"
 "L4D360UI_My_CustomCampaigns"		"UDVIDELSESKAMPAGNER"
+// Addon campaigns
 "[english]L4D360UI_My_CustomCampaigns"		"ADDON CAMPAIGNS"
 "L4D360UI_My_CustomCampaigns_Desc"		"Vælg en udvidelseskampagne."
 "[english]L4D360UI_My_CustomCampaigns_Desc"		"Choose an addon campaign."
@@ -2364,6 +2413,7 @@
 "L4D360UI_LevelName_Unknown"		"Ukendt kapitel"
 "[english]L4D360UI_LevelName_Unknown"		"Unknown Chapter"
 "Matchmaking_Creating"		"Opretter spil..."
+// Matchmaking strings
 "[english]Matchmaking_Creating"		"Creating game..."
 "Matchmaking_NoResultsCreating"		"Kunne ikke slutte til spil, der svarer til din anmodning.\nOpretter et nyt offentligt spil..."
 "[english]Matchmaking_NoResultsCreating"		"Failed to join games matching your request.\nCreating a new public game..."
@@ -2440,6 +2490,7 @@
 "InviteError_SameConsole2"		"Du kan ikke acceptere en spilinvitation fra den samme konsol."
 "[english]InviteError_SameConsole2"		"You cannot accept game invite from the same console."
 "L4D_Credits_VoicesTitle"		"Stemmer:"
+// Intro movie subtitles
 "[english]L4D_Credits_VoicesTitle"		"Voices:"
 "L4D_Credits_Additional_Voices"		"Yderligere stemmer:"
 "[english]L4D_Credits_Additional_Voices"		"Additional Voices:"
@@ -2459,28 +2510,6 @@
 		"[english]L4D360UI_Not_Joinable_Mod"		"Playing Version: %s1"
 		"L4D2360_JoinError_OtherTitle_Modded"		"Player is running a different version of Alien Swarm: Reactive Drop.\n"
 		"[english]L4D2360_JoinError_OtherTitle_Modded"		"Player is running a different version of Alien Swarm: Reactive Drop.\n"
-"L4D2360_FoundGames_DLC"		"Indhold, der kan downloades"
-"[english]L4D2360_FoundGames_DLC"		"Downloadable Content"
-"L4D2360_FoundGames_DLC_Msg"		"Download nødvendigt indhold\nfra Xbox LIVE Marketplace\n"
-"[english]L4D2360_FoundGames_DLC_Msg"		"Please, download required content\nfrom Xbox LIVE Marketplace\n"
-"SessionError_TU_RequiredTitle"		"Inkompatibel version"
-"[english]SessionError_TU_RequiredTitle"		"Incompatible Version"
-"SessionError_TU_RequiredMessage"		"Spillet, du forsøger at deltage i, kræver, at du installerer visse opdateringer.\nDownload de seneste opdateringer til spillet fra Xbox LIVE."
-"[english]SessionError_TU_RequiredMessage"		"The game you are trying to join requires you to have updates installed.\nPlease, download the latest update for the game from Xbox LIVE."
-"SessionError_TU_Required_00000000"		"Spillet, du forsøger at deltage i, er ikke blevet opdateret siden 17. november 2009.\nOpdateringer til dette spil skal downloades fra Xbox LIVE."
-"[english]SessionError_TU_Required_00000000"		"The game you are trying to join hasn't been updated since November 17, 2009.\nUpdate for that game must be downloaded from Xbox LIVE."
-"SessionError_TU_Required_20091117"		"Spillet, du forsøger at deltage i, mangler at få installeret visse påkrævede opdateringer.\nOpdateringer til dette spil skal downloades fra Xbox LIVE."
-"[english]SessionError_TU_Required_20091117"		"The game you are trying to join doesn't have required updates installed.\nUpdate for that game must be downloaded from Xbox LIVE."
-"SessionError_DLC_RequiredTitle_0"		"Indhold, der kan downloades"
-"[english]SessionError_DLC_RequiredTitle_0"		"Downloadable Content"
-"SessionError_DLC_RequiredKicked_0"		"Du blev sparket ud af spillet, fordi indhold, der kan downloades, blev valgt.\n"
-"[english]SessionError_DLC_RequiredKicked_0"		"You were kicked from the game because downloadable content was selected.\n"
-"SessionError_DLC_RequiredJoin_0"		"Spillet kræver indhold, der kan downloades.\n"
-"[english]SessionError_DLC_RequiredJoin_0"		"Game requires downloadable content.\n"
-"SessionError_DLC_RequiredMessage_0"		"Download indhold fra Xbox LIVE Marketplace."
-"[english]SessionError_DLC_RequiredMessage_0"		"Please, download content from Xbox LIVE Marketplace."
-"SessionError_DLC_RequiredOffer_0"		"Ønsker du at downloade indhold fra Xbox LIVE Marketplace nu?"
-"[english]SessionError_DLC_RequiredOffer_0"		"Would you like to download content from Xbox LIVE Marketplace now?"
 "ASUI_GameType"		"SPILTYPE"
 "[english]ASUI_GameType"		"GAME TYPE"
 "ASUI_GameType_tt"		"Vælg spiltypen for at spille."
@@ -2610,6 +2639,7 @@
 		"L4D360UI_FoundPublicGames_Filter_Distance_Worldwide"		"Galaxy"
 		"[english]L4D360UI_FoundPublicGames_Filter_Distance_Worldwide"		"Galaxy"
 		"RDUI_SteamOverlay_Title"		"Steam Overlay In-Game"
+		// Reactive Drop strings
 		"[english]RDUI_SteamOverlay_Title"		"Steam Overlay In-Game"
 		"RDUI_SteamOverlay_Text"		"This feature requires Steam Overlay In-Game to be enabled.\nYou might need to restart the game after you enable this feature in Steam:\nSteam -> Library -> Right-click on Alien Swarm: Reactive Drop -> Properties... -> Enable the Steam Overlay while in-game\n"
 		"[english]RDUI_SteamOverlay_Text"		"This feature requires Steam Overlay In-Game to be enabled.\nYou might need to restart the game after you enable this feature in Steam:\nSteam -> Library -> Right-click on Alien Swarm: Reactive Drop -> Properties... -> Enable the Steam Overlay while in-game\n"
