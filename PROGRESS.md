@@ -476,13 +476,6 @@
 
 </details>
 
-<details><summary>Upcoming Release Notes</summary>
-
-- [20230419_japanese.xml](release_notes/20230419_japanese.xml) is missing.
-- [20230420_japanese.xml](release_notes/20230420_japanese.xml) is missing.
-
-</details>
-
 # koreana
 
 <details><summary>Strings</summary>
