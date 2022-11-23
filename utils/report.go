@@ -195,9 +195,10 @@ func generateReport() {
 			}
 
 			name := file.prefix + lang + file.suffix
+			sourceName := file.prefix + sourceLanguage + file.suffix
 
 			if !ok {
-				fmt.Printf("- [%s](%s) is missing.\n", filepath.Base(name), name)
+				fmt.Printf("- [%s](%s) is missing.\n", filepath.Base(name), sourceName)
 			} else {
 				fmt.Printf("- [%s](%s) has %d untranslated strings.\n", filepath.Base(name), name, indented)
 			}
@@ -224,9 +225,10 @@ func generateReport() {
 				}
 
 				name := file.prefix + lang + file.suffix
+				sourceName := file.prefix + sourceLanguage + file.suffix
 
 				if !ok {
-					fmt.Printf("- [%s](%s) is missing.\n", filepath.Base(name), name)
+					fmt.Printf("- [%s](%s) is missing.\n", filepath.Base(name), sourceName)
 				} else {
 					fmt.Printf("- [%s](%s) has %d indented lines.\n", filepath.Base(name), name, indented)
 				}
