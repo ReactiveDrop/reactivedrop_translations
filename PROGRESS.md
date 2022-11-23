@@ -7,6 +7,13 @@
 
 </details>
 
+<details><summary>Steam Store and Community</summary>
+
+- [mappingcontest2023_schinese.txt](community/workshop/mappingcontest2023_schinese.txt) is missing.
+- [workshop_tags_schinese.json](community/workshop/workshop_tags_schinese.json) has 1 indented lines.
+
+</details>
+
 <details><summary>Upcoming Release Notes</summary>
 
 - [20230420_schinese.xml](release_notes/20230420_schinese.xml) has 39 indented lines.
@@ -36,6 +43,9 @@
 
 - [eula_tchinese.txt](community/eula/eula_tchinese.txt) is missing.
 - [app_items_563560_tchinese.json](community/points_shop/app_items_563560_tchinese.json) is missing.
+- [mappingcontest2023_tchinese.txt](community/workshop/mappingcontest2023_tchinese.txt) is missing.
+- [workshop_description_tchinese.txt](community/workshop/workshop_description_tchinese.txt) is missing.
+- [workshop_tags_tchinese.json](community/workshop/workshop_tags_tchinese.json) is missing.
 - [content_warning_563560_tchinese.txt](store_page/content_warning_563560_tchinese.txt) is missing.
 - [storepage_81731_tchinese.json](store_page/storepage_81731_tchinese.json) has 6 indented lines.
 
@@ -244,6 +254,9 @@
 <details><summary>Steam Store and Community</summary>
 
 - [app_items_563560_french.json](community/points_shop/app_items_563560_french.json) is missing.
+- [mappingcontest2023_french.txt](community/workshop/mappingcontest2023_french.txt) is missing.
+- [workshop_description_french.txt](community/workshop/workshop_description_french.txt) is missing.
+- [workshop_tags_french.json](community/workshop/workshop_tags_french.json) is missing.
 - [content_warning_563560_french.txt](store_page/content_warning_563560_french.txt) is missing.
 - [storepage_81731_french.json](store_page/storepage_81731_french.json) has 6 indented lines.
 
@@ -420,6 +433,13 @@
 
 </details>
 
+<details><summary>Steam Store and Community</summary>
+
+- [mappingcontest2023_german.txt](community/workshop/mappingcontest2023_german.txt) is missing.
+- [workshop_tags_german.json](community/workshop/workshop_tags_german.json) has 1 indented lines.
+
+</details>
+
 <details><summary>Upcoming Release Notes</summary>
 
 - [20230420_german.xml](release_notes/20230420_german.xml) has 12 indented lines.
@@ -443,6 +463,8 @@
 
 <details><summary>Steam Store and Community</summary>
 
+- [mappingcontest2023_italian.txt](community/workshop/mappingcontest2023_italian.txt) is missing.
+- [workshop_tags_italian.json](community/workshop/workshop_tags_italian.json) has 1 indented lines.
 - [storepage_81731_italian.json](store_page/storepage_81731_italian.json) has 1 indented lines.
 
 </details>
@@ -496,6 +518,9 @@
 <details><summary>Steam Store and Community</summary>
 
 - [eula_koreana.txt](community/eula/eula_koreana.txt) is missing.
+- [mappingcontest2023_koreana.txt](community/workshop/mappingcontest2023_koreana.txt) is missing.
+- [workshop_description_koreana.txt](community/workshop/workshop_description_koreana.txt) is missing.
+- [workshop_tags_koreana.json](community/workshop/workshop_tags_koreana.json) is missing.
 - [content_warning_563560_koreana.txt](store_page/content_warning_563560_koreana.txt) is missing.
 - [storepage_81731_koreana.json](store_page/storepage_81731_koreana.json) has 6 indented lines.
 
@@ -611,6 +636,9 @@
 
 - [eula_polish.txt](community/eula/eula_polish.txt) is missing.
 - [app_items_563560_polish.json](community/points_shop/app_items_563560_polish.json) is missing.
+- [mappingcontest2023_polish.txt](community/workshop/mappingcontest2023_polish.txt) is missing.
+- [workshop_description_polish.txt](community/workshop/workshop_description_polish.txt) is missing.
+- [workshop_tags_polish.json](community/workshop/workshop_tags_polish.json) is missing.
 - [content_warning_563560_polish.txt](store_page/content_warning_563560_polish.txt) is missing.
 - [storepage_81731_polish.json](store_page/storepage_81731_polish.json) has 6 indented lines.
 
@@ -819,6 +847,8 @@
 
 - [eula_portuguese.txt](community/eula/eula_portuguese.txt) is missing.
 - [app_items_563560_portuguese.json](community/points_shop/app_items_563560_portuguese.json) is missing.
+- [mappingcontest2023_portuguese.txt](community/workshop/mappingcontest2023_portuguese.txt) is missing.
+- [workshop_tags_portuguese.json](community/workshop/workshop_tags_portuguese.json) has 1 indented lines.
 - [storepage_81731_portuguese.json](store_page/storepage_81731_portuguese.json) has 1 indented lines.
 
 </details>
@@ -1023,6 +1053,8 @@
 <details><summary>Steam Store and Community</summary>
 
 - [eula_brazilian.txt](community/eula/eula_brazilian.txt) is missing.
+- [mappingcontest2023_brazilian.txt](community/workshop/mappingcontest2023_brazilian.txt) is missing.
+- [workshop_tags_brazilian.json](community/workshop/workshop_tags_brazilian.json) has 1 indented lines.
 - [content_warning_563560_brazilian.txt](store_page/content_warning_563560_brazilian.txt) is missing.
 - [storepage_81731_brazilian.json](store_page/storepage_81731_brazilian.json) has 6 indented lines.
 
@@ -1070,6 +1102,13 @@
 
 </details>
 
+<details><summary>Steam Store and Community</summary>
+
+- [mappingcontest2023_russian.txt](community/workshop/mappingcontest2023_russian.txt) is missing.
+- [workshop_tags_russian.json](community/workshop/workshop_tags_russian.json) has 1 indented lines.
+
+</details>
+
 <details><summary>Upcoming Release Notes</summary>
 
 - [20230420_russian.xml](release_notes/20230420_russian.xml) is missing.
@@ -1096,6 +1135,9 @@
 <details><summary>Steam Store and Community</summary>
 
 - [app_items_563560_spanish.json](community/points_shop/app_items_563560_spanish.json) is missing.
+- [mappingcontest2023_spanish.txt](community/workshop/mappingcontest2023_spanish.txt) is missing.
+- [workshop_description_spanish.txt](community/workshop/workshop_description_spanish.txt) is missing.
+- [workshop_tags_spanish.json](community/workshop/workshop_tags_spanish.json) is missing.
 - [content_warning_563560_spanish.txt](store_page/content_warning_563560_spanish.txt) is missing.
 - [storepage_81731_spanish.json](store_page/storepage_81731_spanish.json) has 6 indented lines.
 
@@ -1306,6 +1348,9 @@
 
 - [eula_ukrainian.txt](community/eula/eula_ukrainian.txt) is missing.
 - [app_items_563560_ukrainian.json](community/points_shop/app_items_563560_ukrainian.json) is missing.
+- [mappingcontest2023_ukrainian.txt](community/workshop/mappingcontest2023_ukrainian.txt) is missing.
+- [workshop_description_ukrainian.txt](community/workshop/workshop_description_ukrainian.txt) is missing.
+- [workshop_tags_ukrainian.json](community/workshop/workshop_tags_ukrainian.json) is missing.
 - [content_warning_563560_ukrainian.txt](store_page/content_warning_563560_ukrainian.txt) is missing.
 - [storepage_81731_ukrainian.json](store_page/storepage_81731_ukrainian.json) has 6 indented lines.
 
@@ -1515,6 +1560,9 @@
 
 - [eula_vietnamese.txt](community/eula/eula_vietnamese.txt) is missing.
 - [app_items_563560_vietnamese.json](community/points_shop/app_items_563560_vietnamese.json) is missing.
+- [mappingcontest2023_vietnamese.txt](community/workshop/mappingcontest2023_vietnamese.txt) is missing.
+- [workshop_description_vietnamese.txt](community/workshop/workshop_description_vietnamese.txt) is missing.
+- [workshop_tags_vietnamese.json](community/workshop/workshop_tags_vietnamese.json) is missing.
 - [content_warning_563560_vietnamese.txt](store_page/content_warning_563560_vietnamese.txt) is missing.
 - [storepage_81731_vietnamese.json](store_page/storepage_81731_vietnamese.json) has 6 indented lines.
 
