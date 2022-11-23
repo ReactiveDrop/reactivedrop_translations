@@ -1,22 +1,22 @@
 GAME
 {
-	// Computer belongs to Dr. Jacques Moreau
+// Computer belongs to Dr. Jacques Moreau
 
-	// Sent
+// Sent
 
-	"MailFrom3"	"À: Base de données personnelle"
-	"MailDate3"	"Date: 24/05/42"
-	"MailSubject3"	"Objet: Quelque chose d’autre"
-	"MailBody3A"	"Il s’adresse à moi. Leur esprit de ruche, ou quoique l’on puisse baptiser une entité si peu connue. J’ai décidé de m’y référer en tant qu’un ‘elle’. Vesta."
-	"MailBody3B"	"Le processus par lequel elle me parle m’est totalement alien. C’est... étrange, erratique, comme si un nouveau sens m’était emprunté pour quelques secondes avant de disparaître de nouveau dans un silence abyssal. Mais de ce vide, je le sais au fond de moi, m’est parvenue une voix. Une série de sons étrangement compréhensible dont je n’arrive jamais à me rappeler complètement. Cette voix... Elle me rappelle quelqu’un que j’ai perdu."
-	"MailBody3C"	"J’ai essayé d’engager avec Vesta de mon propre chef. J’ai voulu lui parler, lui faire comprendre qui, ou qu’est-ce que nous sommes. Je sais que cela peut sembler absurde... mais je lui ai demandé de nous guider. Je veux la toucher, lui montrer qu’il n’y a rien à craindre venant de nous. Nous ne sommes que de fragiles coquilles de chair aux esprits faiblissants, et elle pourrait nous mener à tout ce que nous... Moi, désirions."
-	"MailBody3D"	"She needs only bodies."
+"MailFrom3"	"À: Base de données personnelle"
+"MailDate3"	"Date: 24/05/42"
+"MailSubject3"	"Objet: Quelque chose d’autre"
+"MailBody3A"	"Il s’adresse à moi. Leur esprit de ruche, ou quoique l’on puisse baptiser une entité si peu connue. J’ai décidé de m’y référer en tant qu’un ‘elle’. Vesta."
+"MailBody3B"	"Le processus par lequel elle me parle m’est totalement alien. C’est... étrange, erratique, comme si un nouveau sens m’était emprunté pour quelques secondes avant de disparaître de nouveau dans un silence abyssal. Mais de ce vide, je le sais au fond de moi, m’est parvenue une voix. Une série de sons étrangement compréhensible dont je n’arrive jamais à me rappeler complètement. Cette voix... Elle me rappelle quelqu’un que j’ai perdu."
+"MailBody3C"	"J’ai essayé d’engager avec Vesta de mon propre chef. J’ai voulu lui parler, lui faire comprendre qui, ou qu’est-ce que nous sommes. Je sais que cela peut sembler absurde... mais je lui ai demandé de nous guider. Je veux la toucher, lui montrer qu’il n’y a rien à craindre venant de nous. Nous ne sommes que de fragiles coquilles de chair aux esprits faiblissants, et elle pourrait nous mener à tout ce que nous... Moi, désirions."
+"MailBody3D"	"She needs only bodies."
 
-	"MailFrom4"	"À: Helen Moreau"
-	"MailDate4"	"Date: 15/06/42"
-	"MailSubject4"	"Objet: S/O"
-	"MailBody4A"	"Nous y voilà donc. Moi me confessant à un fantôme. Pour être tout à fait honnête, je ne sais pas exactement combien de temps s’est écoulé depuis ta maladie. Mais il ne semble pas si longtemps encore que ton parfum fleuri débondait la suffocation de notre laboratoire."
-	"MailBody4B"	"J’ignore où cette voie mène, Helen. Cette mission qui avait pour but l’avancement de notre espèce, de l’humanité dans son ensemble. Tout le monde se tournant vers moi pour obtenir des réponses dont j’improvisais de jour en jour la substance. Et voilà désormais que la responsabilité d’une si découverte si exceptionnelle, m’incombe à moi seul. Moi, une part de deux esprits, se doit d’offrir des réponses quant à l’existence d’une nouvelle vie parmi nous... Vesta... Helen. Si seulement tu étais là. Tu étais mon fulcrum, la pièce qui me servait d’équilibre. La voix qui me guidait quand je funambulais aveuglément au-dessus du vide mon esprit. Mais cette pièce s’est délogée le jour où tes yeux se sont fermés."
-	"MailBody4C"	"Alors j’ai pris les choses en main, de la manière dont j’ai jugé bon. Je ne jouerai ni au jeu de SynTek ni à celui de personne. Lorsque j’ai réalisé qu’avec cette découverte pouvait suivre la moindre chance de propulser notre compréhension des cellules cancéreuses et leur connexion à la physiologie humaine, j’ai tué chacun des doutes qui m’habitaient. En tant qu’homme de sciences, quel aurait dû être mon devoir si ce n’est précisément cela ? Aurai-je dû cracher sur cette opportunité pour un réel progrès et leur offrir sur un plateau ? Confier une telle découverte à un lobby de rats aux blouses immaculées afin qu’ils en engendrent un profit si replet qu’elle soit odieusement transformée puis vendue aux puissants, donnée à un prix que nul exceptés les plus riches du Noyau ne pourraient jamais espérer se produire ? Ou les laisser faire pire... et pour quoi...? Que tant d’autres perdent à leur tour femmes, maris, frères et sœurs, fils et filles à l’une des plus terribles maladies de l’histoire humaine ?"
-	"MailBody4D"	"Non. J’ai fait mon choix. Qu’ils me traitent donc tous de fou."
+"MailFrom4"	"À: Helen Moreau"
+"MailDate4"	"Date: 15/06/42"
+"MailSubject4"	"Objet: S/O"
+"MailBody4A"	"Nous y voilà donc. Moi me confessant à un fantôme. Pour être tout à fait honnête, je ne sais pas exactement combien de temps s’est écoulé depuis ta maladie. Mais il ne semble pas si longtemps encore que ton parfum fleuri débondait la suffocation de notre laboratoire."
+"MailBody4B"	"J’ignore où cette voie mène, Helen. Cette mission qui avait pour but l’avancement de notre espèce, de l’humanité dans son ensemble. Tout le monde se tournant vers moi pour obtenir des réponses dont j’improvisais de jour en jour la substance. Et voilà désormais que la responsabilité d’une si découverte si exceptionnelle, m’incombe à moi seul. Moi, une part de deux esprits, se doit d’offrir des réponses quant à l’existence d’une nouvelle vie parmi nous... Vesta... Helen. Si seulement tu étais là. Tu étais mon fulcrum, la pièce qui me servait d’équilibre. La voix qui me guidait quand je funambulais aveuglément au-dessus du vide mon esprit. Mais cette pièce s’est délogée le jour où tes yeux se sont fermés."
+"MailBody4C"	"Alors j’ai pris les choses en main, de la manière dont j’ai jugé bon. Je ne jouerai ni au jeu de SynTek ni à celui de personne. Lorsque j’ai réalisé qu’avec cette découverte pouvait suivre la moindre chance de propulser notre compréhension des cellules cancéreuses et leur connexion à la physiologie humaine, j’ai tué chacun des doutes qui m’habitaient. En tant qu’homme de sciences, quel aurait dû être mon devoir si ce n’est précisément cela ? Aurai-je dû cracher sur cette opportunité pour un réel progrès et leur offrir sur un plateau ? Confier une telle découverte à un lobby de rats aux blouses immaculées afin qu’ils en engendrent un profit si replet qu’elle soit odieusement transformée puis vendue aux puissants, donnée à un prix que nul exceptés les plus riches du Noyau ne pourraient jamais espérer se produire ? Ou les laisser faire pire... et pour quoi...? Que tant d’autres perdent à leur tour femmes, maris, frères et sœurs, fils et filles à l’une des plus terribles maladies de l’histoire humaine ?"
+"MailBody4D"	"Non. J’ai fait mon choix. Qu’ils me traitent donc tous de fou."
 }

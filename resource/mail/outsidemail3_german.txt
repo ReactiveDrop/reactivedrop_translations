@@ -1,14 +1,14 @@
 GAME
 {
-	// PDA belongs to Brad Campbell
+// PDA belongs to Brad Campbell
 
-	// Inbox
+// Inbox
 
-	"MailFrom1"	"Von: David Anders"
-	"MailDate1"	"Datum: 12/12/52"
-	"MailSubject1"	"Betreff: Aktivierungscode"
-	"MailBody1A"	"Brad,"
-	"MailBody1B"	"Kovac und ich haben Sprengstoff auf der Brücke angebracht. Der Detonationscode lautet 0951. Sag deinen Männern, dass sie vorsichtig sein sollen."
-	"MailBody1C"	"Viel Glück. Alles hängt hiervon ab."
-	"MailBody1D"	"Dave"
+"MailFrom1"	"Von: David Anders"
+"MailDate1"	"Datum: 12/12/52"
+"MailSubject1"	"Betreff: Aktivierungscode"
+"MailBody1A"	"Brad,"
+"MailBody1B"	"Kovac und ich haben Sprengstoff auf der Brücke angebracht. Der Detonationscode lautet 0951. Sag deinen Männern, dass sie vorsichtig sein sollen."
+"MailBody1C"	"Viel Glück. Alles hängt hiervon ab."
+"MailBody1D"	"Dave"
 }

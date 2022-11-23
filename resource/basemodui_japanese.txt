@@ -300,6 +300,7 @@
 "L4D360UI_UnderConstruction"		"[工事中...]"
 "[english]L4D360UI_UnderConstruction"		"[Under Construction]"
 "L4D360UI_WaitScreen_WorkingMsg"		""
+//generic wait screen text and messages
 "[english]L4D360UI_WaitScreen_WorkingMsg"		""
 "L4D360UI_WaitScreen_CreatingLobby"		"ロビーを作成"
 "[english]L4D360UI_WaitScreen_CreatingLobby"		"Creating a Lobby"
@@ -326,6 +327,7 @@
 "L4D360UI_WaitScreen_GameInFinale"		"現在フィナーレが進行中です"
 "[english]L4D360UI_WaitScreen_GameInFinale"		"Game in Finale"
 "L4D360UI_Ok"		"OK"
+//shared strings
 "[english]L4D360UI_Ok"		"OK"
 "L4D360UI_Select"		"選択"
 "[english]L4D360UI_Select"		"Select"
@@ -352,12 +354,14 @@
 "L4D360UI_Tooltip_Cancel"		"変更を保存せずに戻ります"
 "[english]L4D360UI_Tooltip_Cancel"		"Go back without keeping changes."
 "L4D360UI_Join_Anywhere"		"進行中のゲームを検索"
+//Public search options
 "[english]L4D360UI_Join_Anywhere"		"FIND A GAME"
 "L4D360UI_Join_At_Start"		"ゲームロビーを検索"
 "[english]L4D360UI_Join_At_Start"		"FIND A GAME LOBBY"
 "L4D360UI_Join_Create"		"ゲームを作成"
 "[english]L4D360UI_Join_Create"		"CREATE A GAME"
 "L4D360UI_MsgBx_NeedTwoProfilesC"		"分割画面でプレイ"
+//generic error messages
 "[english]L4D360UI_MsgBx_NeedTwoProfilesC"		"Play Splitscreen"
 "L4D360UI_MsgBx_NeedTwoProfilesTxt"		"分割画面でプレイするには2つのゲーマープロフィールがサインインしている必要があります"
 "[english]L4D360UI_MsgBx_NeedTwoProfilesTxt"		"Two gamer profiles must be signed in to play splitscreen."
@@ -438,6 +442,7 @@
 "L4D360UI_MsgBx_GuestsUnavailableToGuests"		"ゲストは実績を解除したり、実績スコアを表示したりすることができません"
 "[english]L4D360UI_MsgBx_GuestsUnavailableToGuests"		"Guests are not allowed to unlock or view achievement scores."
 "L4D360UI_GameSettings_LiveOpen"		"ゲーム設定:公開ゲーム"
+//Game Settings
 "[english]L4D360UI_GameSettings_LiveOpen"		"Game Settings: PUBLIC GAME"
 "L4D360UI_GameSettings_LiveFriends"		"ゲーム設定:フレンド専用ゲーム"
 "[english]L4D360UI_GameSettings_LiveFriends"		"Game Settings: FRIENDS-ONLY GAME"
@@ -496,12 +501,15 @@
 "L4D360UI_GameSettings_Tooltip_Create_Lobby"		"この設定でロビーを作成します"
 "[english]L4D360UI_GameSettings_Tooltip_Create_Lobby"		"Create a lobby with these settings."
 "L4D360UI_ShowUnlockableAwards"		"アバターアワードを表示します"
+// Unlockable Awards
 "[english]L4D360UI_ShowUnlockableAwards"		"Display Avatar Awards"
 "L4D360UI_ShowAchievements"		"実績を表示します"
 "[english]L4D360UI_ShowAchievements"		"Display Achievements"
 "L4D360UI_Attract_PressStart"		"PRESS START"
+//Attract Screen
 "[english]L4D360UI_Attract_PressStart"		"PRESS START"
 "L4D360UI_SignIn_Title"		" ようこそ%s1さん"
+//Sign In Screen
 "[english]L4D360UI_SignIn_Title"		" Welcome, %s1"
 "L4D360UI_SignIn_TitleNo"		" ようこそ"
 "[english]L4D360UI_SignIn_TitleNo"		" Welcome"
@@ -520,6 +528,7 @@
 "L4D360UI_SignIn_CancelSignIn"		"キャンセル"
 "[english]L4D360UI_SignIn_CancelSignIn"		"Cancel"
 "L4D360UI_MainMenu_CoOp"		"キャンペーン"
+//Main Menu
 "[english]L4D360UI_MainMenu_CoOp"		"PLAY ONLINE"
 "L4D360UI_MainMenu_Holdout"		"耐久モード"
 "[english]L4D360UI_MainMenu_Holdout"		"PLAY HOLDOUT"
@@ -684,6 +693,7 @@
 "L4D360UI_Character_Guest"		"プレイヤー"
 "[english]L4D360UI_Character_Guest"		"Player"
 "L4D360UI_InGameMainMenu_ReturnToGame"		"ゲームに戻る"
+//In Game Main Menu
 "[english]L4D360UI_InGameMainMenu_ReturnToGame"		"RETURN TO GAME"
 "L4D360UI_InGameMainMenu_ReturnToGame_Tip"		"メニューを閉じてゲームに戻ります"
 "[english]L4D360UI_InGameMainMenu_ReturnToGame_Tip"		"Leave this menu and continue playing."
@@ -712,10 +722,12 @@
 "L4D360UI_InGameMainMenu_ExitToMainMenu_Tip"		"このゲームから退出します"
 "[english]L4D360UI_InGameMainMenu_ExitToMainMenu_Tip"		"Leave this game."
 "L4D360UI_VoteMenu_YesBinding"		"賛成: START"
+// Vote menu
 "[english]L4D360UI_VoteMenu_YesBinding"		"Yes: START"
 "L4D360UI_VoteMenu_NoBinding"		"反対: BACK"
 "[english]L4D360UI_VoteMenu_NoBinding"		"No: BACK"
 "L4D360UI_InviteUIOptions"		"招待"
+// Invite UI options
 "[english]L4D360UI_InviteUIOptions"		"ONLINE MULTIPLAYER"
 "L4D360UI_InviteUIOptions_Tip"		"Xbox LIVEパーティにフレンドや他のプレイヤーを招待します"
 "[english]L4D360UI_InviteUIOptions_Tip"		"Change voice chat channel or send game invites."
@@ -764,6 +776,7 @@
 "L4D360UI_InviteUI_gamevoiceui_Tip_Disabled"		""
 "[english]L4D360UI_InviteUI_gamevoiceui_Tip_Disabled"		""
 "L4D360UI_Lobby_EmptySlotAd"		"空きスロットあり"
+//Game Lobby Screen
 "[english]L4D360UI_Lobby_EmptySlotAd"		"Player Slot Available"
 "L4D360UI_Lobby_SplitSlotAd"		"プレイヤー2:画面分割モードでプレイするにはサインインしてください"
 "[english]L4D360UI_Lobby_SplitSlotAd"		"Player Two, Sign in for Splitscreen"
@@ -990,6 +1003,7 @@
 "L4D360UI_Lobby_Player_Left"		"%s1が退出しました"
 "[english]L4D360UI_Lobby_Player_Left"		"%s1 left."
 "L4D360UI_GameAccess"		"ゲームアクセス"
+//Player Access screen
 "[english]L4D360UI_GameAccess"		"Game Access"
 "L4D360UI_Access_Description"		"一緒にプレイするプレイヤーの範囲を指定します"
 "[english]L4D360UI_Access_Description"		"Specify a group of people you would like to play with."
@@ -1014,16 +1028,19 @@
 "L4D360UI_Access_Tooltip_Invite"		"特定の人達だけをゲームに招待します"
 "[english]L4D360UI_Access_Tooltip_Invite"		"Invite specific people to your game."
 "L4D360UI_ServerType_Official"		"公式専用サーバー"
+//Server type screen
 "[english]L4D360UI_ServerType_Official"		"Official Dedicated"
 "L4D360UI_ServerType_Dedicated"		"最適な専用サーバー"
 "[english]L4D360UI_ServerType_Dedicated"		"Best Available Dedicated"
 "L4D360UI_ServerType_Listen"		"ローカルサーバー"
 "[english]L4D360UI_ServerType_Listen"		"Local Server"
 "L4D360UI_AudioVideo_Title"		"オーディオ/ビデオオプション"
+//Audio Video
 "[english]L4D360UI_AudioVideo_Title"		"AUDIO/VIDEO OPTIONS"
 "L4D360UI_AudioVideo_Desc"		"使用しているハードウェアや好みに合わせて設定を変更できます"
 "[english]L4D360UI_AudioVideo_Desc"		"Find your optimal settings based on your hardware and preferences."
 "L4D360UI_AudioOptions_Volume"		"マスターボリューム"
+//Audio Options
 "[english]L4D360UI_AudioOptions_Volume"		"MASTER VOLUME"
 "L4D360UI_AudioOptions_Tooltip_Volume"		"効果音のボリュームを調整します"
 "[english]L4D360UI_AudioOptions_Tooltip_Volume"		"Adjust the volume of the game."
@@ -1070,6 +1087,7 @@
 "L4D360UI_AudioOptions_Tooltip_Volume_Disabled"		"効果音ボリュームはこの段階では変更できません"
 "[english]L4D360UI_AudioOptions_Tooltip_Volume_Disabled"		"Adjusting the volume is currently disabled."
 "L4D360UI_VideoOptions_Brightness"		"明るさ"
+//Video Options
 "[english]L4D360UI_VideoOptions_Brightness"		"BRIGHTNESS"
 "L4D360UI_VideoOptions_Tooltip_Brightness"		"画面のガンマ補正を行います"
 "[english]L4D360UI_VideoOptions_Tooltip_Brightness"		"Gamma-correct your screen."
@@ -1150,6 +1168,7 @@
 "L4D360UI_DropDownGore_Low_Tooltip_Disabled"		"流血表現レベルの変更はできません"
 "[english]L4D360UI_DropDownGore_Low_Tooltip_Disabled"		"Gore modification not available."
 "L4D360UI_Multiplayer_Desc"		"マルチプレイヤーゲームの設定をユーザー設定やお好みに合わせて変更します"
+//Multiplayer Options
 "[english]L4D360UI_Multiplayer_Desc"		"Configure settings and preferences for multiplayer gaming."
 "L4D360UI_Multiplayer_AllowCustomContent"		"カスタムサーバーコンテンツ"
 "[english]L4D360UI_Multiplayer_AllowCustomContent"		"Custom Server Content"
@@ -1182,6 +1201,7 @@
 "L4D360UI_DownloadFilter_Title"		"カスタムコンテンツを使用しているゲームサーバーからダウンロードするファイルにフィルタを適用します"
 "[english]L4D360UI_DownloadFilter_Title"		"Filter the files that a game server with custom content can download to your computer."
 "L4D360UI_Cloud_Title"		"Steamクラウド"
+//Cloud Options
 "[english]L4D360UI_Cloud_Title"		"Steam Cloud"
 "L4D360UI_Cloud_Subtitle"		"Steamクラウドに情報を保存しておけば、どのPCからでも同じゲーム設定が使えるようになります"
 "[english]L4D360UI_Cloud_Subtitle"		"The Steam Cloud stores information so your gameplay experience is consistent across PCs."
@@ -1214,6 +1234,7 @@
 "L4D360UI_SteamOverlay_Text"		"この機能を使用するには、ゲーム内でSteamコミュニティを使用するオプションが有効になっている必要があります。\n\n有効になっていない場合は、Steamで次のとおりに選択してこの機能を有効にした後、ゲームを再起動する必要があります:\nSteam -> [ファイル] -> [設定] -> [ゲーム中]: [ゲーム中にSteamコミュニティを有効にする]\n"
 "[english]L4D360UI_SteamOverlay_Text"		"This feature requires Steam Community In-Game to be enabled.\n\nYou might need to restart the game after you enable this feature in Steam:\nSteam -> File -> Settings -> In-Game: Enable Steam Community In-Game\n"
 "L4D360UI_AddonAssociation_Title"		"アドオンの自動インストール"
+//Add-on Assocation Options
 "[english]L4D360UI_AddonAssociation_Title"		"Automatic Add-on Installation"
 "L4D360UI_AddonAssociation_Subtitle"		"拡張子.vpkのファイルがAlien Swarmに関連付けられます この拡張子をゲームに関連付けると、アドオンをダブルクリックするだけでインストールできるようになります ファイルを関連付けますか?"
 "[english]L4D360UI_AddonAssociation_Subtitle"		"Alien Swarm would like to associate with files using the .vpk extension. This allows easier installation of add-ons by allowing you to double click on them. Do you wish to allow this?"
@@ -1240,6 +1261,7 @@
 "L4D360UI_ADDON_SUPPORT_INSTALLING_DETAILS"		"Steamの「ツール」タブでダウンロードの進渉を確認することができます。"
 "[english]L4D360UI_ADDON_SUPPORT_INSTALLING_DETAILS"		"Check download progress in the Steam Tools tab."
 "L4D360UI_GetLegacyData_Title"		"アドオンサポートをダウンロード"
+//Add-on Legacy Data Download Options
 "[english]L4D360UI_GetLegacyData_Title"		"Download Add-on Support Data"
 "L4D360UI_GetLegacyData_Subtitle"		"多くのアドオンをAlien Swarmで正常に動作させるためには、追加のゲームデータが必要です。Steamの「ツール」タブからのインストールも可能です。\n\n今すぐに追加のゲームデータをインストールしますか？"
 "[english]L4D360UI_GetLegacyData_Subtitle"		"Alien Swarm would like to download additional game data that many add-ons require to work properly. It can also be installed from the Tools tab in Steam.\n\nDo you wish to install this additional game data now?"
@@ -1254,6 +1276,7 @@
 "L4D360UI_GetLegacyData_OK"		"OK"
 "[english]L4D360UI_GetLegacyData_OK"		"OK"
 "L4D360UI_DownloadCampaign_Title"		"キャンペーンのアドオンをダウンロード"
+//Download Campaign Options
 "[english]L4D360UI_DownloadCampaign_Title"		"Download Campaign AddOn"
 "L4D360UI_DownloadCampaign_Subtitle"		"サードパーティ製のカスタムキャンペーンをダウンロードします"
 "[english]L4D360UI_DownloadCampaign_Subtitle"		"Download a custom third party campaign."
@@ -1270,14 +1293,17 @@
 "L4D360UI_DownloadCampaign_Back"		"戻る"
 "[english]L4D360UI_DownloadCampaign_Back"		"Back"
 "L4D360UI_VisitCampaign_Title"		"キャンペーンアドオンのWebサイトにアクセス"
+//Visit Campaign Website Options
 "[english]L4D360UI_VisitCampaign_Title"		"Visit Campaign Add-on Website"
 "L4D360UI_VisitCampaign_Text"		"Alien Swarmを抜けてカスタムアドオンのWebサイトに移動します"
 "[english]L4D360UI_VisitCampaign_Text"		"You are about to switch out of Alien Swarm and visit the website for a custom add-on."
 "L4D360UI_Lobby_MissingContent"		"ダウンロードコンテンツが必要です"
+//Kicked for missing content
 "[english]L4D360UI_Lobby_MissingContent"		"Downloadable Content Required"
 "L4D360UI_Lobby_MissingContent_Message"		"ホストが選択したキャンペーンがインストールされていなかったため、ロビーから退出しました"
 "[english]L4D360UI_Lobby_MissingContent_Message"		"You were removed from the lobby because the host has selected a campaign that is not installed."
 "L4D360UI_Extras_WatchMovie"		"紹介ムービーを再生"
+//Extras
 "[english]L4D360UI_Extras_WatchMovie"		"Watch Intro Movie"
 "L4D360UI_Extras_Commentary"		"開発者による解説"
 "[english]L4D360UI_Extras_Commentary"		"Developer Commentary"
@@ -1300,6 +1326,7 @@
 "L4D360UI_Extras_Addons_Tip"		"ダウンロードしたアドオンを有効にして設定します"
 "[english]L4D360UI_Extras_Addons_Tip"		"Enable and configure game add-ons downloaded to your computer"
 "L4D360UI_RoundLimit"		"ラウンド数制限"
+//Round Limit settings
 "[english]L4D360UI_RoundLimit"		"ROUND LIMIT"
 "L4D360UI_RoundLimit_Tip"		"プレイするラウンド数を指定してください"
 "[english]L4D360UI_RoundLimit_Tip"		"Specify how many rounds you are willing to play."
@@ -1310,6 +1337,7 @@
 "L4D360UI_RoundLimit_5"		"5ラウンドマッチ"
 "[english]L4D360UI_RoundLimit_5"		"Best of Five"
 "L4D360UI_ChooseDifficulty"		"ゲーム難易度を選択"
+//Choose difficulty screen
 "[english]L4D360UI_ChooseDifficulty"		"Select Game Difficulty"
 "L4D360UI_Difficulty_Description"		"プレイしたい難易度を選択します"
 "[english]L4D360UI_Difficulty_Description"		"Specify the level of difficulty you are most comfortable with."
@@ -1364,6 +1392,7 @@
 "L4D360UI_Difficulty_Tooltip_insane"		"このゲームをエキスパートモードでプレイします(生存者チームの究極限界モード)"
 "[english]L4D360UI_Difficulty_Tooltip_insane"		"Play this game in Expert mode (for the most challenging Survivor experience)."
 "L4D360UI_ChooseCampaign"		"キャンペーンを選択"
+//Choose campaign screen
 "[english]L4D360UI_ChooseCampaign"		"Select a Campaign"
 "L4D360UI_Campaign_Description"		"プレイするキャンペーンを選択します"
 "[english]L4D360UI_Campaign_Description"		"Specify which campaign you would like to play."
@@ -1376,12 +1405,14 @@
 "L4D360UI_Chapter_Only1Avail"		"他にチャプターがありません"
 "[english]L4D360UI_Chapter_Only1Avail"		"No More Chapters"
 "L4D360UI_KickPlayerList_Title"		"追放するプレイヤーの選択"
+//Kick Player screen
 "[english]L4D360UI_KickPlayerList_Title"		"Select Player to Kick"
 "L4D360UI_KickPlayerList_Description"		"追放したいプレイヤーを選択してください"
 "[english]L4D360UI_KickPlayerList_Description"		"Choose the player you would like to kick."
 "L4D360UI_KickPlayerList_No_eligible_players"		"自チームには追放可能なプレイヤーがいません"
 "[english]L4D360UI_KickPlayerList_No_eligible_players"		"There are no players on your team who are eligible to be kicked."
 "L4D360UI_Mode_campaign"		"キャンペーン"
+//Found Games screen
 "[english]L4D360UI_Mode_campaign"		"Campaign"
 "L4D360UI_Mode_single_mission"		"シングルミッション"
 "[english]L4D360UI_Mode_single_mission"		"Single Mission"
@@ -1404,10 +1435,12 @@
 "L4D360UI_FoudGames_CreateNewFlyout"		"ゲームを作成"
 "[english]L4D360UI_FoudGames_CreateNewFlyout"		"Create Game"
 "L4D360UI_FoudGames_CustomMatch_campaign"		"高度な検索"
+// Localized as "Campaign Game Search" and "Versus Game Search" and etc.
 "[english]L4D360UI_FoudGames_CustomMatch_campaign"		"More Search Options"
 "L4D360UI_FoudGames_CustomMatch_single_mission"		"高度な検索"
 "[english]L4D360UI_FoudGames_CustomMatch_single_mission"		"More Search Options"
 "L4D360UI_FOUNDGAMES_ADDON_SUPPORT_REQUIRED"		"サードパーティ製のキャンペーンをプレイするにはアドオンサポートが必要です。"
+//Found Games screen
 "[english]L4D360UI_FOUNDGAMES_ADDON_SUPPORT_REQUIRED"		"Add-on support is required to play third party campaigns."
 "L4D360UI_FoundGames_Friends"		"フレンドのゲームが見つかりました"
 "[english]L4D360UI_FoundGames_Friends"		"FRIENDS' GAMES FOUND"
@@ -1546,6 +1579,7 @@
 "L4D360UI_FoundPublicGames_Filter_Label_Tip"		"ゲームとロビーを指定した条件で絞り込みます"
 "[english]L4D360UI_FoundPublicGames_Filter_Label_Tip"		"Filter which games and lobbies are found."
 "L4D360UI_FoundPublicGames_Status"		"%s1、%s2"
+// Expands to L4D360UI_FoundGames_LobbyCount, L4D360UI_FoundGames_GameCountInProgress
 "[english]L4D360UI_FoundPublicGames_Status"		"%s1, %s2"
 "L4D360UI_FoundPublicGames_Status_None"		"ロビー/進行中のゲームはありません"
 "[english]L4D360UI_FoundPublicGames_Status_None"		"No Lobbies or Games in Progress"
@@ -1614,6 +1648,7 @@
 "L4D360UI_FoundPublicGames_Filter_Campaign_NotInstalledAddOn_Tip"		"インストールされていないアドオンキャンペーンのゲーム/ロビーだけを表示します"
 "[english]L4D360UI_FoundPublicGames_Filter_Campaign_NotInstalledAddOn_Tip"		"Filter for games that are only using not installed add-on campaigns."
 "L4D360UI_Controller_Title"		"コントローラー設定(%s1)"
+//Controller Screen
 "[english]L4D360UI_Controller_Title"		"CONTROLLER OPTIONS (%s1)"
 "L4D360UI_Controller_Buttons_Title"		"ボタンのレイアウト(%s1)"
 "[english]L4D360UI_Controller_Buttons_Title"		"BUTTON LAYOUT (%s1)"
@@ -1988,6 +2023,7 @@
 "GameUI_Icons_LOBBY"		"i"
 "[english]GameUI_Icons_LOBBY"		"i"
 "L4D360UI_MultiPlayer_CreateLiveGame"		"Xbox LIVEゲームを作成"
+// tooltips
 "[english]L4D360UI_MultiPlayer_CreateLiveGame"		"Create an Xbox LIVE Game"
 "L4D360UI_MultiPlayer_FindLiveGame"		"Xbox LIVEを検索"
 "[english]L4D360UI_MultiPlayer_FindLiveGame"		"Find an Xbox LIVE Game"
@@ -2012,6 +2048,7 @@
 "L4D360UI_Controller_SwapJoysticks"		"左右スティックの機能を反転させます(左スティックで視点移動、右スティックで移動するようにします)"
 "[english]L4D360UI_Controller_SwapJoysticks"		"Swap the controller sticks so that LOOK is on the left and MOVE on the right."
 "L4D360UI_Loading_Starring"		"プレイヤー: "
+// Loading posters
 "[english]L4D360UI_Loading_Starring"		"Commanders: "
 "L4D360UI_Loading_Costarring"		"プレイヤー: "
 "[english]L4D360UI_Loading_Costarring"		"Commanders: "
@@ -2022,6 +2059,7 @@
 "L4D360UI_Loading_GameMode_single_mission"		"シングルミッションのゲームに参加しています。"
 "[english]L4D360UI_Loading_GameMode_single_mission"		"Joining a Single Mission game."
 "L4D360UI_My_Achievements"		"実績"
+// achievements
 "[english]L4D360UI_My_Achievements"		"Achievements"
 "L4D360UI_My_Achievements_Desc"		"これまでに解除した実績を表示します"
 "[english]L4D360UI_My_Achievements_Desc"		"See the list of Achievements you have earned so far."
@@ -2038,6 +2076,7 @@
 "L4D360UI_Scroll_Progress"		"%s1 - %s2 / %s3"
 "[english]L4D360UI_Scroll_Progress"		"%s1 - %s2 of %s3"
 "L4D360UI_My_Addons"		"アドオン"
+// Addons
 "[english]L4D360UI_My_Addons"		"Add-ons"
 "L4D360UI_My_Addons_Desc"		"オンに設定すると、カスタムアドオンがシングルプレイヤーモードとローカルホストゲームで使えるようになります"
 "[english]L4D360UI_My_Addons_Desc"		"Check custom add-ons to enable them for single player and locally hosted games."
@@ -2072,6 +2111,7 @@
 "L4D360UI_Addon_DoNotAssociate"		".VPKアドオンファイルを関連付けない"
 "[english]L4D360UI_Addon_DoNotAssociate"		"Do not attempt to associate .VPK add-on files"
 "L4D360UI_MsgBx_StorageDeviceRemoved"		"有効なストレージ機器を選択しないでゲームをプレイした場合、個人設定やゲームの進捗情報は保存されません"
+// TCR additions
 "[english]L4D360UI_MsgBx_StorageDeviceRemoved"		"Preferences and game progress will not be saved without a valid storage device."
 "L4D360UI_MsgBx_ControllerUnpluggedTitle"		"コントローラーの接続が切れました"
 "[english]L4D360UI_MsgBx_ControllerUnpluggedTitle"		"Controller Unplugged"
@@ -2088,6 +2128,7 @@
 "L4D360UI_MsgBx_GuestProfile_Dismissed"		"ゲーム中にゲーマープロフィールが変更されたため、プレイ中のゲームから退出しました"
 "[english]L4D360UI_MsgBx_GuestProfile_Dismissed"		"You have been removed the game due to a sign-in change."
 "L4D_Friend_Online"		"オンライン"
+// Friend status
 "[english]L4D_Friend_Online"		"Online"
 "L4D_Friend_Away"		"離席中"
 "[english]L4D_Friend_Away"		"Away"
@@ -2124,6 +2165,7 @@
 "L4D360UI_LeaveLobbyConfLive_PC"		"あなたは現在、オンラインゲームロビーの参加者です"
 "[english]L4D360UI_LeaveLobbyConfLive_PC"		"You are currently part of an online game lobby."
 "L4D_video_tip"		"ビデオ設定をお使いのシステムの性能と要件に合わせて変更します"
+// Main Menu
 "[english]L4D_video_tip"		"Configure video settings based on your system's abilities and requirements."
 "L4D_audio_tip"		"オーディオ設定をユーザー設定とご使用のスピーカーに合わせて変更します。"
 "[english]L4D_audio_tip"		"Configure audio settings based on your preferences and speakers."
@@ -2136,6 +2178,7 @@
 "L4D_steamcloud_disabled_tip"		"Steam Cloudは現在利用できません"
 "[english]L4D_steamcloud_disabled_tip"		"Steam Cloud is currently unavailable."
 "L4D_aspect_ratio_tip"		"ゲーム画面の高さと幅をディスプレイの仕様に合わせて調整します"
+// Video Options
 "[english]L4D_aspect_ratio_tip"		"Adjust the width and height of your display."
 "L4D_resolution_tip"		"グラフィックの詳細設定を調整します"
 "[english]L4D_resolution_tip"		"Adjust the level of detail of your display."
@@ -2168,6 +2211,7 @@
 "L4D_paged_pool_mem_tip"		"割り当てるメモリを増加/減少させるようにドライバを設定します"
 "[english]L4D_paged_pool_mem_tip"		"Configure your driver to allocate less or more memory."
 "L4D_spkr_config_tip"		"スピーカーのレイアウトとチャネル数を設定します"
+// Audio Options
 "[english]L4D_spkr_config_tip"		"Configure speaker layout and channels."
 "L4D_sound_qual_tip"		"サウンド品質を調整します"
 "[english]L4D_sound_qual_tip"		"Adjust sound quality."
@@ -2192,6 +2236,7 @@
 "L4D_test_mic_tip"		"マイクが正常に動作しているかどうかをテストします"
 "[english]L4D_test_mic_tip"		"Test whether your microphone is functioning properly."
 "L4D_edit_keys_tip"		"キーボード、マウス、ゲームパッドのキーやボタンに割り当てるアクションを選択します"
+// Keyboard Options
 "[english]L4D_edit_keys_tip"		"Choose your preferred keyboard, mouse, and gamepad button layout."
 "L4D_reverse_mouse_tip"		"マウスのコントロール軸を反転させます"
 "[english]L4D_reverse_mouse_tip"		"Invert the directions of your mouse."
@@ -2216,6 +2261,7 @@
 "L4D_gamepad_autoattack_tip"		"エイム用スティックを動かしている間自動的に射撃します。"
 "[english]L4D_gamepad_autoattack_tip"		"Automatically shoot while holding the aiming stick."
 "L4D_import_spray_tip"		"ゲームで使用するスプレー画像をインポートします"
+// Multiplayer Options
 "[english]L4D_import_spray_tip"		"Import a new spray image to use in-game."
 "L4D_import_game_instruct"		"ゲーム中にリアルタイムで表示されるヒント機能の表示/非表示を切り替えます"
 "[english]L4D_import_game_instruct"		"Enable or disable helpful real-time hints during gameplay."
@@ -2224,6 +2270,7 @@
 "L4D360UI_MainMenu_ServerBrowser_Tip"		"ゲーム内でサーバーブラウザを表示します"
 "[english]L4D360UI_MainMenu_ServerBrowser_Tip"		"Show the in-game server browser."
 "L4D360UI_LegacyOn"		"レガシー: オフ"
+// Legacy controls
 "[english]L4D360UI_LegacyOn"		"Turn Legacy Off"
 "L4D360UI_LegacyOff"		"レガシー: オン"
 "[english]L4D360UI_LegacyOff"		"Turn Legacy On"
@@ -2280,6 +2327,7 @@
 "L4D360UI_MsgBx_NeedLiveGeneric"		"このアクションを実行するにはXbox LIVEにサインインしている必要があります"
 "[english]L4D360UI_MsgBx_NeedLiveGeneric"		"You must be signed in to Xbox LIVE to perform that action."
 "L4D360UI_Leaderboard_Rank"		"順位"
+// Leaderboard
 "[english]L4D360UI_Leaderboard_Rank"		"Rank"
 "L4D360UI_Leaderboard_Gamertag"		"ゲーマータグ"
 "[english]L4D360UI_Leaderboard_Gamertag"		"Gamertag"
@@ -2316,6 +2364,7 @@
 "L4D360UI_MsgBx_KickedFromSessionDLCrequired"		"ホストが「サバイバルパック」に含まれるキャンペーンを選択しました\nXbox LIVEマーケットプレースからサバイバルパックをダウンロードしますか?"
 "[english]L4D360UI_MsgBx_KickedFromSessionDLCrequired"		"The host has selected a campaign that is provided with the Survival Pack.\nWould you like to download Survival Pack content from Xbox LIVE Marketplace?"
 "L4D360UI_My_CustomCampaigns"		"アドオンキャンペーン"
+// Addon campaigns
 "[english]L4D360UI_My_CustomCampaigns"		"ADDON CAMPAIGNS"
 "L4D360UI_My_CustomCampaigns_Desc"		"アドオンキャンペーンを選択してください"
 "[english]L4D360UI_My_CustomCampaigns_Desc"		"Choose an addon campaign."
@@ -2364,6 +2413,7 @@
 "L4D360UI_LevelName_Unknown"		"不明なチャプター"
 "[english]L4D360UI_LevelName_Unknown"		"Unknown Chapter"
 "Matchmaking_Creating"		"ゲームを作成しています..."
+// Matchmaking strings
 "[english]Matchmaking_Creating"		"Creating game..."
 "Matchmaking_NoResultsCreating"		"ゲーム参加のリクエストが失敗しました\n新しい公開ゲームを作成します"
 "[english]Matchmaking_NoResultsCreating"		"Failed to join games matching your request.\nCreating a new public game..."
@@ -2440,6 +2490,7 @@
 "InviteError_SameConsole2"		"同じコンソールからゲームの招待を受け入れることはできません"
 "[english]InviteError_SameConsole2"		"You cannot accept game invite from the same console."
 "L4D_Credits_VoicesTitle"		"声:"
+// Intro movie subtitles
 "[english]L4D_Credits_VoicesTitle"		"Voices:"
 "L4D_Credits_Additional_Voices"		"他の声:"
 "[english]L4D_Credits_Additional_Voices"		"Additional Voices:"
@@ -2459,28 +2510,6 @@
 "[english]L4D360UI_Not_Joinable_Mod"		"Playing Version: %s1"
 "L4D2360_JoinError_OtherTitle_Modded"		"このプレイヤーは別バージョンのAlien Swarm: Reactive Dropをプレイ中です。\n"
 "[english]L4D2360_JoinError_OtherTitle_Modded"		"Player is running a different version of Alien Swarm: Reactive Drop.\n"
-"L4D2360_FoundGames_DLC"		"ダウンロードコンテンツ"
-"[english]L4D2360_FoundGames_DLC"		"Downloadable Content"
-"L4D2360_FoundGames_DLC_Msg"		"必要なコンテンツをXbox LIVE\nマーケットプレースからダウンロードしてください\n"
-"[english]L4D2360_FoundGames_DLC_Msg"		"Please, download required content\nfrom Xbox LIVE Marketplace\n"
-"SessionError_TU_RequiredTitle"		"互換性のないバージョンです"
-"[english]SessionError_TU_RequiredTitle"		"Incompatible Version"
-"SessionError_TU_RequiredMessage"		"指定されたゲームに参加するにはアップデートをインストールする必要があります\nLIVEからゲームの最新アップデートをダウンロードしてください"
-"[english]SessionError_TU_RequiredMessage"		"The game you are trying to join requires you to have updates installed.\nPlease, download the latest update for the game from Xbox LIVE."
-"SessionError_TU_Required_00000000"		"指定されたゲームに参加するには１１月７日２００９年のアップデートをインストールする必要があります。LIVEからゲームの最新アップデートをダウンロードしてください。"
-"[english]SessionError_TU_Required_00000000"		"The game you are trying to join hasn't been updated since November 17, 2009.\nUpdate for that game must be downloaded from Xbox LIVE."
-"SessionError_TU_Required_20091117"		"指定されたゲームには必要なアップデートがインストールされていません\n対象ゲーム向けのアップデートをXbox LIVEからダウンロードする必要があります"
-"[english]SessionError_TU_Required_20091117"		"The game you are trying to join doesn't have required updates installed.\nUpdate for that game must be downloaded from Xbox LIVE."
-"SessionError_DLC_RequiredTitle_0"		"ダウンロードコンテンツ"
-"[english]SessionError_DLC_RequiredTitle_0"		"Downloadable Content"
-"SessionError_DLC_RequiredKicked_0"		"ダウンロードコンテンツが選択されたため、ゲームから退出しました\n"
-"[english]SessionError_DLC_RequiredKicked_0"		"You were kicked from the game because downloadable content was selected.\n"
-"SessionError_DLC_RequiredJoin_0"		"このゲームをプレイするには対応するダウンロードコンテンツが必要です\n"
-"[english]SessionError_DLC_RequiredJoin_0"		"Game requires downloadable content.\n"
-"SessionError_DLC_RequiredMessage_0"		"必要なコンテンツをXbox LIVEマーケットプレースからダウンロードしてください"
-"[english]SessionError_DLC_RequiredMessage_0"		"Please, download content from Xbox LIVE Marketplace."
-"SessionError_DLC_RequiredOffer_0"		"Xbox LIVEマーケットプレースから今すぐコンテンツをダウンロードしますか?"
-"[english]SessionError_DLC_RequiredOffer_0"		"Would you like to download content from Xbox LIVE Marketplace now?"
 "ASUI_GameType"		"ゲームタイプ"
 "[english]ASUI_GameType"		"GAME TYPE"
 "ASUI_GameType_tt"		"プレイするゲームタイプを選択してください。"
@@ -2610,6 +2639,7 @@
 "L4D360UI_FoundPublicGames_Filter_Distance_Worldwide"		"無制限"
 "[english]L4D360UI_FoundPublicGames_Filter_Distance_Worldwide"		"Galaxy"
 "RDUI_SteamOverlay_Title"		"ゲーム内Steamオーバーレイ"
+// Reactive Drop strings
 "[english]RDUI_SteamOverlay_Title"		"Steam Overlay In-Game"
 "RDUI_SteamOverlay_Text"		"この機能を使用するにはゲーム内Steamオーバーレイを有効にする必要があります。\n有効にした後はゲームを再起動する必要があります。:\nSteam -> ライブラリ -> Alien Swarm: Reactive Dropを右クリック -> プロパティ... -> ゲーム中にSteamオーバーレイを有効にするにチェックを入れる。\n"
 "[english]RDUI_SteamOverlay_Text"		"This feature requires Steam Overlay In-Game to be enabled.\nYou might need to restart the game after you enable this feature in Steam:\nSteam -> Library -> Right-click on Alien Swarm: Reactive Drop -> Properties... -> Enable the Steam Overlay while in-game\n"

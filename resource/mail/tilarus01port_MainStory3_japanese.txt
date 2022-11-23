@@ -1,14 +1,14 @@
 ﻿GAME
 {
-	// PDA belongs to Overseer Ross
+// PDA belongs to Overseer Ross
 
-	// Inbox
+// Inbox
 
-	"MailFrom1"	"差出人: ハロルド司令官"
-	"MailDate1"	"送信日時: 54年2月3日"
-	"MailSubject1"	"件名: 脱出"
-	"MailBody1A"	"畜生、ロス、お前が間違ってると信じたかったぞ。"
-	"MailBody1B"	"しかしお前の言ったことを前提にしてて良かった。 知っての通り脱出の準備は進んでいる。"
-	"MailBody1c"	"部下達と一緒にドーン・シティの7番発着場に来て脱出するんだ。"
-	"MailBody1d"	"幸運を祈るぞ旧友。"
+"MailFrom1"	"差出人: ハロルド司令官"
+"MailDate1"	"送信日時: 54年2月3日"
+"MailSubject1"	"件名: 脱出"
+"MailBody1A"	"畜生、ロス、お前が間違ってると信じたかったぞ。"
+"MailBody1B"	"しかしお前の言ったことを前提にしてて良かった。 知っての通り脱出の準備は進んでいる。"
+"MailBody1c"	"部下達と一緒にドーン・シティの7番発着場に来て脱出するんだ。"
+"MailBody1d"	"幸運を祈るぞ旧友。"
 }

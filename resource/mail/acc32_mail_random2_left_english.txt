@@ -1,10 +1,10 @@
 GAME
 {
-	// Inbox
+// Inbox
 
-	"MailFrom1"	"From: Helen Baker"
-	"MailDate1"	"Date: 01/07/31"
-	"MailSubject1"	"Subject: Pipe Update"
-	"MailBody1A"	"Just keeping you updated on the pipe check - I haven't found any administration papers on the east pipe 5B, which is a little weird. Not sure what function it serves or where it leads to. Either way, I have informed the engineers about it, they will take a look at it next week."
-	"MailBody1B"	"Another problem is some strange sounds coming from the left wall of the main corridor entrance."
+"MailFrom1"	"From: Helen Baker"
+"MailDate1"	"Date: 01/07/31"
+"MailSubject1"	"Subject: Pipe Update"
+"MailBody1A"	"Just keeping you updated on the pipe check - I haven't found any administration papers on the east pipe 5B, which is a little weird. Not sure what function it serves or where it leads to. Either way, I have informed the engineers about it, they will take a look at it next week."
+"MailBody1B"	"Another problem is some strange sounds coming from the left wall of the main corridor entrance."
 }

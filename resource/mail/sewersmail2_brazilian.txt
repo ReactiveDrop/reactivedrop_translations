@@ -1,14 +1,14 @@
 GAME
 {
-	// PDA belongs to Brian Howe
+// PDA belongs to Brian Howe
 
-	// Inbox
+// Inbox
 
-	"MailFrom1"	"De: Helen Young"
-	"MailDate1"	"Data: 24/12/52"
-	"MailSubject1"	"Assunto: Indo aos laboratórios"
-	"MailBody1A"	"Brian, O que diabos está acontecendo? Tiros? Gritaria? Eu e o Phil decidimos tentar entrar nos laboratórios. Usaremos o sistema de ventilação para chegar ao Convés 2."
-	"MailBody1B"	"Eu te amo. Por favor entre em contato comigo!"
-	"MailBody1C"	"Helen"
-	"MailBody1D"	"PS: Feliz aniversário, se é que conta."
+"MailFrom1"	"De: Helen Young"
+"MailDate1"	"Data: 24/12/52"
+"MailSubject1"	"Assunto: Indo aos laboratórios"
+"MailBody1A"	"Brian, O que diabos está acontecendo? Tiros? Gritaria? Eu e o Phil decidimos tentar entrar nos laboratórios. Usaremos o sistema de ventilação para chegar ao Convés 2."
+"MailBody1B"	"Eu te amo. Por favor entre em contato comigo!"
+"MailBody1C"	"Helen"
+"MailBody1D"	"PS: Feliz aniversário, se é que conta."
 }

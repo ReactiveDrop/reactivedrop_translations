@@ -1,13 +1,13 @@
 GAME
 {
-	// PDA belongs to Leonid Toptunov
+// PDA belongs to Leonid Toptunov
 
-	// Sent
+// Sent
 
-	"MailFrom1"	"An: Nathan Poe"
-	"MailDate1"	"Datum: 08/25/32"
-	"MailSubject1"	"Betreff: Instabilität des Reaktors &VERSTECKT"
-	"MailBody1A"	"Du hast gesagt, du würdest den Reaktor abschalten, wenn die Temperatur plötzlich wieder instabil wird, aber das war eine verdammte Lüge! Sie ist seit Mai instabil und ich habe keine Ahnung, warum der Reaktor noch nicht explodiert ist!"
-	"MailBody1B"	"WIR MÜSSEN DEN REAKTOR SOFORT ABSCHALTEN! Der Ausbruch der Exemplare in den Sektoren 3 und 4 und was AMBER über die Gefahr einer Verseuchung sagt, ist mir egal, der Reaktor ist jetzt unsere Hauptsorge."
-	"MailBody1C"	"Mit verfickten Grüßen, Leonid Toptunov"
+"MailFrom1"	"An: Nathan Poe"
+"MailDate1"	"Datum: 08/25/32"
+"MailSubject1"	"Betreff: Instabilität des Reaktors &VERSTECKT"
+"MailBody1A"	"Du hast gesagt, du würdest den Reaktor abschalten, wenn die Temperatur plötzlich wieder instabil wird, aber das war eine verdammte Lüge! Sie ist seit Mai instabil und ich habe keine Ahnung, warum der Reaktor noch nicht explodiert ist!"
+"MailBody1B"	"WIR MÜSSEN DEN REAKTOR SOFORT ABSCHALTEN! Der Ausbruch der Exemplare in den Sektoren 3 und 4 und was AMBER über die Gefahr einer Verseuchung sagt, ist mir egal, der Reaktor ist jetzt unsere Hauptsorge."
+"MailBody1C"	"Mit verfickten Grüßen, Leonid Toptunov"
 }

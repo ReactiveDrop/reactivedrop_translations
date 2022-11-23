@@ -1,7 +1,7 @@
 "Credits"
 {
-	// these keys must be in this order!
-	"show_credits_logo"	"0"
-	"asw_credits_"	"キャンペーン製作者 Uradzimiru"
-	"asw_credits_"	""
+// these keys must be in this order!
+"show_credits_logo"	"0"
+"asw_credits_"	"キャンペーン製作者 Uradzimiru"
+"asw_credits_"	""
 }

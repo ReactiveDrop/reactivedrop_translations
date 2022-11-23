@@ -1,14 +1,14 @@
 GAME
 {
-	// PDA belongs to Lucius Pawn
+// PDA belongs to Lucius Pawn
 
-	// Sent
+// Sent
 
-	"MailFrom3"	"收件人：拉娜.金"
-	"MailDate3"	"日期：02/29/53"
-	"MailSubject3"	"主题：想法"
-	"MailBody3A"	"去登陆舱准备一艘船，我刚刚有一个关于弹头的好主意。"
-	"MailBody3B"	"我初始化了定时器。如果三分钟后我还没跟你在一起，那么请…走吧。整个基地将在爆炸中被摧毁。"
-	"MailBody3C"	"如果我失败了，我们就再也不会见面了。我爱你。很抱歉我以前没告诉过你，但我说出来了，毫无希望了。我爱你，拉娜。"
-	"MailBody3D"	"卢修斯"
+"MailFrom3"	"收件人：拉娜.金"
+"MailDate3"	"日期：02/29/53"
+"MailSubject3"	"主题：想法"
+"MailBody3A"	"去登陆舱准备一艘船，我刚刚有一个关于弹头的好主意。"
+"MailBody3B"	"我初始化了定时器。如果三分钟后我还没跟你在一起，那么请…走吧。整个基地将在爆炸中被摧毁。"
+"MailBody3C"	"如果我失败了，我们就再也不会见面了。我爱你。很抱歉我以前没告诉过你，但我说出来了，毫无希望了。我爱你，拉娜。"
+"MailBody3D"	"卢修斯"
 }

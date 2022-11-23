@@ -1,31 +1,31 @@
 GAME
 {
-	// PDA belongs to Prof. Yann Montgomery
+// PDA belongs to Prof. Yann Montgomery
 
-	// Inbox
+// Inbox
 
-	"MailFrom1"	"De: Jacques Moreau"
-	"MailDate1"	"Data: 08/05/42"
-	"MailSubject1"	"Assunto: Re: Considerações preliminares"
-	"MailBody1A"	"Agradeço pelo seu tempo, professor. Sua experiência confirma a maior parte das minhas suposições. Certifique-se que as medidas de confinamento estão dentro da lei. Antes de estarmos perfeitamente seguros com o que estamos lidando, Eu pedirei que você se abstenha de entrar em contato com a Phalanx por enquanto."
-	"MailBody1B"	"Você será notificado pelo meu laboratório, se necessário."
-	"MailFrom1C"	"Nam Humanum"
+"MailFrom1"	"De: Jacques Moreau"
+"MailDate1"	"Data: 08/05/42"
+"MailSubject1"	"Assunto: Re: Considerações preliminares"
+"MailBody1A"	"Agradeço pelo seu tempo, professor. Sua experiência confirma a maior parte das minhas suposições. Certifique-se que as medidas de confinamento estão dentro da lei. Antes de estarmos perfeitamente seguros com o que estamos lidando, Eu pedirei que você se abstenha de entrar em contato com a Phalanx por enquanto."
+"MailBody1B"	"Você será notificado pelo meu laboratório, se necessário."
+"MailFrom1C"	"Nam Humanum"
 
-	// Sent
+// Sent
 
-	"MailFrom3"	"Para: Jacques Moreau"
-	"MailDate3"	"Data: 08/05/42"
-	"MailSubject3"	"Assunto: Considerações preliminares"
-	"MailBody3A"	"Caro colega. Procedi a uma observação primária do grupo de espécimes confinado em seu laboratório, assim como seu departamento... ordenou educadamente. Tenha em mente que estes são apenas pensamentos iniciais - embora suas conclusões possam ser um pouco alarmantes."
-	"MailBody3B"	"À primeira vista, o espécime essencialmente parece seguir um padrão de conduta bastante simples, no qual pode ser resumido como a busca e remoção de qualquer ameaça potencial à sua sobrevivência - nós, em outras palavras. Mais interessante no entanto, raramente em 27 anos de biologia eu vi evidências comportamentais tão fortemente apoiando a teoria da mente unificada, sejam eles de animais, plantas ou fungos. Eles se movem e descansam como se fossem da família, ou melhor, algo ao longo da linha de um enxame - sugerindo a existência de uma intuição superior conectando cada entidade a todas as outras. Como se estabelece esta ligação e em qual extensão, é a verdadeira questão."
-	"MailBody3C"	"Você encontrará o manuscrito completo de minhas observações anexado a este e-mail, que também transmitirei à Estação Phalanx após a revisão. Se eu puder anexar um pedido pessoal, adoraria saber sobre a base deste espécime e como exatamente sua equipe chegou à esta descoberta. Seria um grande privilégio participar de seu estudo também. Permaneço à sua disposição nesta perspectiva recém-descoberta de parceria. Nam Humanum."
-	"MailBody3D"	"PS: Devo prosseguir sem dizer que as medidas necessárias devem ser adotadas para evitar qualquer surto. Embora eu ainda esteja cético sobre a capacidade real de dano dessas criaturas, a agitação pública causada pelo conhecimento de sua presença obviamente não seria de interesse da Lugdunum...nem da SynTek, falando nisso."
+"MailFrom3"	"Para: Jacques Moreau"
+"MailDate3"	"Data: 08/05/42"
+"MailSubject3"	"Assunto: Considerações preliminares"
+"MailBody3A"	"Caro colega. Procedi a uma observação primária do grupo de espécimes confinado em seu laboratório, assim como seu departamento... ordenou educadamente. Tenha em mente que estes são apenas pensamentos iniciais - embora suas conclusões possam ser um pouco alarmantes."
+"MailBody3B"	"À primeira vista, o espécime essencialmente parece seguir um padrão de conduta bastante simples, no qual pode ser resumido como a busca e remoção de qualquer ameaça potencial à sua sobrevivência - nós, em outras palavras. Mais interessante no entanto, raramente em 27 anos de biologia eu vi evidências comportamentais tão fortemente apoiando a teoria da mente unificada, sejam eles de animais, plantas ou fungos. Eles se movem e descansam como se fossem da família, ou melhor, algo ao longo da linha de um enxame - sugerindo a existência de uma intuição superior conectando cada entidade a todas as outras. Como se estabelece esta ligação e em qual extensão, é a verdadeira questão."
+"MailBody3C"	"Você encontrará o manuscrito completo de minhas observações anexado a este e-mail, que também transmitirei à Estação Phalanx após a revisão. Se eu puder anexar um pedido pessoal, adoraria saber sobre a base deste espécime e como exatamente sua equipe chegou à esta descoberta. Seria um grande privilégio participar de seu estudo também. Permaneço à sua disposição nesta perspectiva recém-descoberta de parceria. Nam Humanum."
+"MailBody3D"	"PS: Devo prosseguir sem dizer que as medidas necessárias devem ser adotadas para evitar qualquer surto. Embora eu ainda esteja cético sobre a capacidade real de dano dessas criaturas, a agitação pública causada pelo conhecimento de sua presença obviamente não seria de interesse da Lugdunum...nem da SynTek, falando nisso."
 
-	"MailFrom4"	"Para: Jonathan Dorland"
-	"MailDate4"	"Data: 10/05/42"
-	"MailSubject4"	"Assunto: Minhas desculpas"
-	"MailBody4A"	"Senhor Dorland,"
-	"MailBody4B"	"Embora eu compartilhe suas preocupações sobre as decisões mais recentes do Dr. Moreau, Eu, com toda decência, não posso revelar nada a você após minha visita dentro de seus laboratórios. A ética profissional me impede de fazê-lo, portanto, temo quê não irei encontrá-lo para almoçar."
-	"MailBody4C"	"Em conjunto com minhas reservas, Capitão Carradine me requisitou para ajudar nas buscas que começaram esta manhã, então teria sido impossível para mim me juntar a você de qualquer forma."
-	"MailBody4D"	"Tudo de melhor para você"
+"MailFrom4"	"Para: Jonathan Dorland"
+"MailDate4"	"Data: 10/05/42"
+"MailSubject4"	"Assunto: Minhas desculpas"
+"MailBody4A"	"Senhor Dorland,"
+"MailBody4B"	"Embora eu compartilhe suas preocupações sobre as decisões mais recentes do Dr. Moreau, Eu, com toda decência, não posso revelar nada a você após minha visita dentro de seus laboratórios. A ética profissional me impede de fazê-lo, portanto, temo quê não irei encontrá-lo para almoçar."
+"MailBody4C"	"Em conjunto com minhas reservas, Capitão Carradine me requisitou para ajudar nas buscas que começaram esta manhã, então teria sido impossível para mim me juntar a você de qualquer forma."
+"MailBody4D"	"Tudo de melhor para você"
 }

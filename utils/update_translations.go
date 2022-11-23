@@ -14,112 +14,18 @@ import (
 	"git.lubar.me/ben/valve/vdf"
 )
 
-const sourceLanguage = "english"
-const languagePrefix = "[" + sourceLanguage + "]"
-
-// order of this array matches the Steam documentation table order:
-// https://partner.steamgames.com/doc/store/localization
-var derivedLanguages = [...]string{
-	//"arabic",
-	//"bulgarian",
-	"schinese",
-	"tchinese",
-	"czech",
-	"danish",
-	"dutch",
-	"finnish",
-	"french",
-	"german",
-	//"greek",
-	"hungarian",
-	"italian",
-	"japanese",
-	"koreana",
-	"norwegian",
-	"polish",
-	"portuguese",
-	"brazilian",
-	"romanian",
-	"russian",
-	"spanish",
-	//"latam",
-	"swedish",
-	"thai",
-	"turkish",
-	"ukrainian",
-	"vietnamese",
-}
-
-var reportedLanguages = map[string]bool{
-	"arabic":     false,
-	"bulgarian":  false,
-	"schinese":   true,
-	"tchinese":   true,
-	"czech":      false,
-	"danish":     false,
-	"dutch":      false,
-	"finnish":    false,
-	"french":     true,
-	"german":     true,
-	"greek":      false,
-	"hungarian":  false,
-	"italian":    true,
-	"japanese":   true,
-	"koreana":    true,
-	"norwegian":  false,
-	"polish":     true,
-	"portuguese": true,
-	"brazilian":  true,
-	"romanian":   false,
-	"russian":    true,
-	"spanish":    true,
-	"latam":      false,
-	"swedish":    false,
-	"thai":       false,
-	"turkish":    false,
-	"ukrainian":  true,
-	"vietnamese": true,
-}
-
-var txtLanguageFiles = [...]string{
-	"../platform/servers/serverbrowser",
-	"../platform/vgui",
-	"../resource/basemodui",
-	"../resource/chat",
-	"../resource/closecaption",
-	"../resource/gameui",
-	"../resource/reactivedrop",
-	"../resource/valve",
-}
-
-var vdfLanguageFiles = [...]string{
-	"../community/inventory_service/inventory_service_tags",
-	"../community/stats_website/statsweb",
-}
-
-var txtAddonLanguageFiles = [...]string{
-	"../addons/*/resource/closecaption",
-	"../addons/*/resource/reactivedrop",
-}
-
 var (
-	flagMarkdown   = flag.Bool("markdown", false, "generate a markdown table as output")
-	flagOnlyUpdate = flag.Bool("only-update", false, "only update source strings; do not sync")
+	flagMarkdown   = flag.Bool("markdown", false, "generate a markdown translation progress report")
+	flagOnlyUpdate = flag.Bool("only-update", false, "only update source strings; do not reset differing translations")
 )
 
 func main() {
 	flag.Parse()
 
 	if *flagMarkdown {
-		numReported := 0
-		fmt.Print("| File ")
-		for _, lang := range derivedLanguages {
-			if reportedLanguages[lang] {
-				fmt.Printf("| %s ", lang)
-				numReported++
-			}
-		}
-		fmt.Printf("|\n|:- |%s\n", strings.Repeat(":-:|", numReported))
+		generateReport()
+
+		return
 	}
 
 	for _, prefix := range txtLanguageFiles {
@@ -157,22 +63,24 @@ func syncTranslations(prefix, suffix string, quiet bool) {
 	}
 
 	if !quiet {
-		if *flagMarkdown {
-			fmt.Printf("| `%s` |", prefix)
-		} else {
-			fmt.Printf("%s\n", prefix)
-		}
+		fmt.Printf("%s\n", prefix)
 	}
 
-	base, err := loadVDF(prefix + "_" + sourceLanguage + suffix)
+	base, err := loadTranslatedStrings(prefix+"_"+sourceLanguage+suffix, sourceLanguage)
 	if err != nil {
 		panic(err)
 	}
 
-	checkForDuplicateSourceStrings(base)
+	for key, i := range base.lookup {
+		if everSeenString[key] {
+			panic("Already encountered string in different translation file: " + base.strings[i].key)
+		}
+
+		everSeenString[key] = true
+	}
 
 	for _, lang = range derivedLanguages {
-		if !quiet && reportedLanguages[lang] && !*flagMarkdown {
+		if !quiet && reportedLanguages[lang] {
 			fmt.Printf("  %10s:", lang)
 		}
 
@@ -180,18 +88,10 @@ func syncTranslations(prefix, suffix string, quiet bool) {
 		percent := float64(upToDate) / float64(total) * 100
 
 		if !quiet && reportedLanguages[lang] {
-			if *flagMarkdown {
-				if upToDate >= total {
-					fmt.Print(" ✔ |")
-				} else {
-					fmt.Printf(" %.0f%% (%d untranslated strings) |", percent, total-upToDate)
-				}
+			if upToDate >= total {
+				fmt.Println(" ✔")
 			} else {
-				if upToDate >= total {
-					fmt.Println(" ✔")
-				} else {
-					fmt.Printf("%8.0f%% (%d untranslated strings)\n", percent, total-upToDate)
-				}
+				fmt.Printf("%8.0f%% (%d untranslated strings)\n", percent, total-upToDate)
 			}
 		}
 	}
@@ -216,68 +116,44 @@ func readBOM(r io.Reader) error {
 	return nil
 }
 
-func loadVDF(name string) (*vdf.KeyValues, error) {
-	f, err := os.Open(name)
-	if err != nil {
-		return nil, err
-	}
-	defer f.Close()
-
-	err = readBOM(f)
-	if err != nil {
-		return nil, err
-	}
-
-	var kv vdf.KeyValues
-
-	_, err = kv.ReadFrom(f)
-
-	return &kv, err
-}
-
 var everSeenString = make(map[string]bool)
 
-func checkForDuplicateSourceStrings(source *vdf.KeyValues) {
-	thisFile := make(map[string]bool)
-	for c := source.FindKey("Tokens").FirstValue(); c != nil; c = c.NextValue() {
-		lowerKey := strings.ToLower(c.Key)
-		if thisFile[lowerKey] {
-			panic("String appears multiple times in this file: " + c.Key)
-		}
-		thisFile[lowerKey] = true
-
-		if everSeenString[lowerKey] {
-			panic("Already encountered string in different translation file: " + c.Key)
-		}
-		everSeenString[lowerKey] = true
-	}
-}
-
 type translatedString struct {
+	key        string
 	translated string
+	tcomment   string
 	source     string
+	scomment   string
+	tseen      bool
+	sseen      bool
 	indent     bool
 }
 
-func nextRealToken(r *bufio.Reader) (s string, t vdf.Token, indent bool, err error) {
+type translatedStrings struct {
+	strings []translatedString
+	lookup  map[string]int
+}
+
+func nextRealToken(r *bufio.Reader) (s string, t vdf.Token, indent bool, comments string, err error) {
 	for {
 		s, t, err = vdf.ReadToken(r)
 		if err != nil {
 			return
 		}
 
-		if t == vdf.TokenSpace {
+		switch t {
+		case vdf.TokenSpace:
 			indent = indent || strings.ContainsRune(s, '\t')
-		}
-
-		if t != vdf.TokenSpace && t != vdf.TokenComment {
+		case vdf.TokenComment:
+			comments += s
+		default:
 			return
 		}
 	}
 }
 
-func loadTranslatedStrings(filename, lang string) (map[string]translatedString, error) {
-	m := make(map[string]translatedString)
+func loadTranslatedStrings(filename, lang string) (*translatedStrings, error) {
+	ts := &translatedStrings{lookup: make(map[string]int)}
 
 	f, err := os.Open(filename)
 	if err != nil {
@@ -292,7 +168,7 @@ func loadTranslatedStrings(filename, lang string) (map[string]translatedString, 
 		return nil, err
 	}
 
-	s, t, _, err := nextRealToken(r)
+	s, t, _, _, err := nextRealToken(r)
 	if err != nil {
 		return nil, err
 	}
@@ -301,7 +177,7 @@ func loadTranslatedStrings(filename, lang string) (map[string]translatedString, 
 		return nil, fmt.Errorf("expected file to start with \"lang\"")
 	}
 
-	_, t, _, err = nextRealToken(r)
+	_, t, _, _, err = nextRealToken(r)
 	if err != nil {
 		return nil, err
 	}
@@ -310,7 +186,7 @@ func loadTranslatedStrings(filename, lang string) (map[string]translatedString, 
 		return nil, fmt.Errorf("expected opening brace")
 	}
 
-	s, t, _, err = nextRealToken(r)
+	s, t, _, _, err = nextRealToken(r)
 	if err != nil {
 		return nil, err
 	}
@@ -319,7 +195,7 @@ func loadTranslatedStrings(filename, lang string) (map[string]translatedString, 
 		return nil, fmt.Errorf("expected \"Language\"")
 	}
 
-	s, t, _, err = nextRealToken(r)
+	s, t, _, _, err = nextRealToken(r)
 	if err != nil {
 		return nil, err
 	}
@@ -328,7 +204,7 @@ func loadTranslatedStrings(filename, lang string) (map[string]translatedString, 
 		return nil, fmt.Errorf("expected language name to match filename")
 	}
 
-	s, t, _, err = nextRealToken(r)
+	s, t, _, _, err = nextRealToken(r)
 	if err != nil {
 		return nil, err
 	}
@@ -337,7 +213,7 @@ func loadTranslatedStrings(filename, lang string) (map[string]translatedString, 
 		return nil, fmt.Errorf("expected \"Tokens\"")
 	}
 
-	_, t, _, err = nextRealToken(r)
+	_, t, _, _, err = nextRealToken(r)
 	if err != nil {
 		return nil, err
 	}
@@ -347,7 +223,7 @@ func loadTranslatedStrings(filename, lang string) (map[string]translatedString, 
 	}
 
 	for {
-		key, t, indent, err := nextRealToken(r)
+		key, t, indent, comment, err := nextRealToken(r)
 		if err != nil {
 			return nil, err
 		}
@@ -360,7 +236,7 @@ func loadTranslatedStrings(filename, lang string) (map[string]translatedString, 
 			return nil, fmt.Errorf("unexpected token type: %q %v", key, t)
 		}
 
-		value, t, _, err := nextRealToken(r)
+		value, t, _, _, err := nextRealToken(r)
 		if err != nil {
 			return nil, err
 		}
@@ -375,22 +251,52 @@ func loadTranslatedStrings(filename, lang string) (map[string]translatedString, 
 		value = value[1 : len(value)-1]
 		value = vdf.Unescape.Replace(value)
 
+		origKey := key
 		key = strings.ToLower(key)
 		if strings.HasPrefix(key, languagePrefix) {
 			key = key[len(languagePrefix):]
-			x := m[key]
+
+			i, ok := ts.lookup[key]
+			if !ok {
+				i = len(ts.strings)
+				ts.lookup[key] = i
+				ts.strings = append(ts.strings, translatedString{
+					key: origKey[len(languagePrefix):],
+				})
+			}
+
+			x := &ts.strings[i]
+			if x.sseen {
+				return nil, fmt.Errorf("string appears multiple times: %q", origKey)
+			}
+
 			x.source = value
+			x.scomment = comment
+			x.sseen = true
 			x.indent = x.indent || indent
-			m[key] = x
 		} else {
-			x := m[key]
+			i, ok := ts.lookup[key]
+			if !ok {
+				i = len(ts.strings)
+				ts.lookup[key] = i
+				ts.strings = append(ts.strings, translatedString{
+					key: origKey,
+				})
+			}
+
+			x := &ts.strings[i]
+			if x.tseen {
+				return nil, fmt.Errorf("string appears multiple times: %q", origKey)
+			}
+
 			x.translated = value
+			x.tcomment = comment
+			x.tseen = true
 			x.indent = x.indent || indent
-			m[key] = x
 		}
 	}
 
-	_, t, _, err = nextRealToken(r)
+	_, t, _, _, err = nextRealToken(r)
 	if err != nil {
 		return nil, err
 	}
@@ -399,12 +305,12 @@ func loadTranslatedStrings(filename, lang string) (map[string]translatedString, 
 		return nil, fmt.Errorf("expected closing brace")
 	}
 
-	_, _, _, err = nextRealToken(r)
+	_, _, _, _, err = nextRealToken(r)
 	if err != io.EOF {
 		return nil, fmt.Errorf("expected EOF")
 	}
 
-	return m, nil
+	return ts, nil
 }
 
 func check(n int, err error) {
@@ -413,7 +319,9 @@ func check(n int, err error) {
 	}
 }
 
-func updateLanguageFile(source *vdf.KeyValues, prefix, lang, suffix string) (upToDate, total int) {
+var indentNewLine = strings.NewReplacer("\n", "\n\t\t")
+
+func updateLanguageFile(source *translatedStrings, prefix, lang, suffix string) (upToDate, total int) {
 	filename := prefix + "_" + lang + suffix
 	dest, err := loadTranslatedStrings(filename, lang)
 	if errors.Is(err, os.ErrNotExist) {
@@ -429,45 +337,35 @@ func updateLanguageFile(source *vdf.KeyValues, prefix, lang, suffix string) (upT
 	check(vdf.Escape.WriteString(&buf, lang))
 	check(buf.WriteString("\"\r\n\"Tokens\"\r\n{\r\n"))
 
-	seen := make(map[string]bool)
+	for _, c := range source.strings {
+		lowerKey := strings.ToLower(c.key)
 
-	for c := source.FindKey("Tokens").FirstValue(); c != nil; c = c.NextValue() {
-		if c.Cond != "" {
-			panic("unexpected VDF conditional: " + c.String())
-		}
-
-		lowerKey := strings.ToLower(c.Key)
-
-		if seen[lowerKey] {
-			panic("duplicate translation key: " + c.Key)
-		}
-		seen[lowerKey] = true
-
-		x := dest[lowerKey]
+		x := &dest.strings[dest.lookup[lowerKey]]
+		x.scomment = c.tcomment
 
 		if *flagOnlyUpdate {
 			if x.translated == x.source {
-				x.translated = c.Value
+				x.translated = c.translated
 			}
 
-			x.source = c.Value
+			x.source = c.translated
 		} else {
-			if x.source == "" && c.Value != "" {
+			if x.source == "" && c.translated != "" {
 				if x.translated == "" {
-					x.translated = c.Value
+					x.translated = c.translated
 				}
 
-				x.source = c.Value
+				x.source = c.translated
 				x.indent = true
 			}
 
-			if x.source != c.Value && x.translated == c.Value {
+			if x.source != c.translated && x.translated == c.translated {
 				x.source, x.translated = x.translated, x.source
 			}
 
-			if x.source != c.Value {
-				x.translated = c.Value
-				x.source = c.Value
+			if x.source != c.translated {
+				x.translated = c.translated
+				x.source = c.translated
 				x.indent = true
 			}
 		}
@@ -481,8 +379,14 @@ func updateLanguageFile(source *vdf.KeyValues, prefix, lang, suffix string) (upT
 			check(buf.WriteString("\t\t"))
 		}
 
+		if x.indent {
+			check(indentNewLine.WriteString(&buf, x.tcomment))
+		} else {
+			check(buf.WriteString(x.tcomment))
+		}
+
 		check(1, buf.WriteByte('"'))
-		check(vdf.Escape.WriteString(&buf, c.Key))
+		check(vdf.Escape.WriteString(&buf, c.key))
 		check(buf.WriteString("\"\t\t\""))
 		check(vdf.Escape.WriteString(&buf, x.translated))
 		check(buf.WriteString("\"\r\n"))
@@ -491,9 +395,15 @@ func updateLanguageFile(source *vdf.KeyValues, prefix, lang, suffix string) (upT
 			check(buf.WriteString("\t\t"))
 		}
 
+		if x.indent {
+			check(indentNewLine.WriteString(&buf, x.scomment))
+		} else {
+			check(buf.WriteString(x.scomment))
+		}
+
 		check(1, buf.WriteByte('"'))
 		check(vdf.Escape.WriteString(&buf, languagePrefix))
-		check(vdf.Escape.WriteString(&buf, c.Key))
+		check(vdf.Escape.WriteString(&buf, c.key))
 		check(buf.WriteString("\"\t\t\""))
 		check(vdf.Escape.WriteString(&buf, x.source))
 		check(buf.WriteString("\"\r\n"))
@@ -510,7 +420,7 @@ func updateLanguageFile(source *vdf.KeyValues, prefix, lang, suffix string) (upT
 }
 
 func updateAchievements(lang string) {
-	kv, err := loadVDF("../resource/reactivedrop_" + lang + ".txt")
+	kv, err := loadTranslatedStrings("../resource/reactivedrop_"+lang+".txt", lang)
 	if err != nil {
 		panic(err)
 	}
@@ -521,19 +431,30 @@ func updateAchievements(lang string) {
 	}
 	defer f.Close()
 
-	tokens := kv.FindKey("Tokens")
-
 	check(f.WriteString("\"lang\"\r\n{\r\n\t\"Language\"\t\""))
 	check(vdf.Escape.WriteString(f, lang))
 	check(f.WriteString("\"\r\n\t\"Tokens\"\r\n\t{\r\n"))
 
+	findString := func(key string, useSource bool) string {
+		i, ok := kv.lookup[strings.ToLower(key)]
+		if !ok {
+			return ""
+		}
+
+		if useSource {
+			return kv.strings[i].source
+		}
+
+		return kv.strings[i].translated
+	}
+
 	for _, a := range achievements {
-		aName := tokens.FindKey(a.apiName + "_NAME").Value
-		aDesc := tokens.FindKey(a.apiName + "_DESC").Value
+		aName := findString(a.apiName+"_NAME", false)
+		aDesc := findString(a.apiName+"_DESC", false)
 		origName, origDesc := "", ""
 		if lang != sourceLanguage {
-			origName = tokens.FindKey(languagePrefix + a.apiName + "_NAME").Value
-			origDesc = tokens.FindKey(languagePrefix + a.apiName + "_DESC").Value
+			origName = findString(a.apiName+"_NAME", true)
+			origDesc = findString(a.apiName+"_DESC", true)
 		}
 
 		check(fmt.Fprintf(f, "\t\t\"NEW_ACHIEVEMENT_%d_%d_NAME\"\t\"", a.id, a.bit))

@@ -1,14 +1,14 @@
 ﻿GAME
 {
-	// PDA belongs to Brian Howe
+// PDA belongs to Brian Howe
 
-	// Inbox
+// Inbox
 
-	"MailFrom1"	"差出人: ヘレン・ヤング"
-	"MailDate1"	"送信日時: 52年12月22日"
-	"MailSubject1"	"件名: 仕事無し"
-	"MailBody1A"	"ハーイ、ブライアン、"
-	"MailBody1B"	"ずっと会ってないわね。"
-	"MailBody1C"	"汚染があったって聞いた？研究所が無期限封鎖されたわ。 ミンだけは通行許可されているの。武装した警備員がエレベーターでずっと見張ってる。"
-	"MailBody1D"	"ヘレンより、愛をこめて。 追伸: ケイトの猫がまたどこかに行っちゃった。"
+"MailFrom1"	"差出人: ヘレン・ヤング"
+"MailDate1"	"送信日時: 52年12月22日"
+"MailSubject1"	"件名: 仕事無し"
+"MailBody1A"	"ハーイ、ブライアン、"
+"MailBody1B"	"ずっと会ってないわね。"
+"MailBody1C"	"汚染があったって聞いた？研究所が無期限封鎖されたわ。 ミンだけは通行許可されているの。武装した警備員がエレベーターでずっと見張ってる。"
+"MailBody1D"	"ヘレンより、愛をこめて。 追伸: ケイトの猫がまたどこかに行っちゃった。"
 }

@@ -1,21 +1,21 @@
 GAME
 {
-	// PDA belongs to coloni vari
+// PDA belongs to coloni vari
 
-	// Inbox
+// Inbox
 
-	"MailFrom1"	"Da: John Cain"
-	"MailDate1"	"Data: 24/12/52"
-	"MailSubject1"	"Soggetto: Legge Marziale"
-	"MailBody1A"	"A tutti i cittadini di Vereon XII:"
-	"MailBody1B"	"Sto dichiarando uno stato di legge marziale, con effetto immediato. A tutti viene ordinato di andare nei loro alloggi e rimanere lì fino a nuovo avviso. Chiunque sia stato trovato in violazione di questo ordine verrà fucilato a vista."
-	"MailBody1C"	"Dichiarazione dell'autorità della SynTek Colony Law n. 545 / 76B secondo la clausola 45 (vii) dell'accordo sui contratti standard."
-	"MailBody1D"	"Ten. Cain, Sicurezza SynTek"
+"MailFrom1"	"Da: John Cain"
+"MailDate1"	"Data: 24/12/52"
+"MailSubject1"	"Soggetto: Legge Marziale"
+"MailBody1A"	"A tutti i cittadini di Vereon XII:"
+"MailBody1B"	"Sto dichiarando uno stato di legge marziale, con effetto immediato. A tutti viene ordinato di andare nei loro alloggi e rimanere lì fino a nuovo avviso. Chiunque sia stato trovato in violazione di questo ordine verrà fucilato a vista."
+"MailBody1C"	"Dichiarazione dell'autorità della SynTek Colony Law n. 545 / 76B secondo la clausola 45 (vii) dell'accordo sui contratti standard."
+"MailBody1D"	"Ten. Cain, Sicurezza SynTek"
 
-	"MailFrom2"	"Da: Dr. PharmA MedTech."
-	"MailSubject2"	"Soggetto: Re: Buon 2239"
-	"MailDate2"	"Data: 10/08/52"
-	"MailBody2A"	"Ciao,"
-	"MailBody2B"	"mIgLiOrAmEnTi BiOtEcH eCoNoMiCi"
-	"MailBody2C"	"Non sei abbastanza forte? Non sei abbastanza intelligente? Non sei abbastanza carino? In PharmA MedTech siamo in grado di risolvere tutti i tuoi problemi, con una gamma completa di impianti artificiali, farmaci per la crescita e accessori. Rispondi ora per il 50% di sconto sull'ottica sostitutiva! NT"
+"MailFrom2"	"Da: Dr. PharmA MedTech."
+"MailSubject2"	"Soggetto: Re: Buon 2239"
+"MailDate2"	"Data: 10/08/52"
+"MailBody2A"	"Ciao,"
+"MailBody2B"	"mIgLiOrAmEnTi BiOtEcH eCoNoMiCi"
+"MailBody2C"	"Non sei abbastanza forte? Non sei abbastanza intelligente? Non sei abbastanza carino? In PharmA MedTech siamo in grado di risolvere tutti i tuoi problemi, con una gamma completa di impianti artificiali, farmaci per la crescita e accessori. Rispondi ora per il 50% di sconto sull'ottica sostitutiva! NT"
 }

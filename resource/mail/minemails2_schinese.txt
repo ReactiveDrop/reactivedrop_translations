@@ -1,13 +1,13 @@
 GAME
 {
-	// PDA belongs to Lt. Cain
+// PDA belongs to Lt. Cain
 
-	// Inbox
+// Inbox
 
-	"MailFrom1"	"发件人：劳拉.考伦"
-	"MailDate1"	"日期：12/24/52"
-	"MailSubject1"	"主题：就这"
-	"MailBody1A"	"戒严令？"
-	"MailBody1B"	"现在已经太晚了。"
-	"MailBody1C"	"我们需要认真的干预措施，或者我们会失去这个设施。"
+"MailFrom1"	"发件人：劳拉.考伦"
+"MailDate1"	"日期：12/24/52"
+"MailSubject1"	"主题：就这"
+"MailBody1A"	"戒严令？"
+"MailBody1B"	"现在已经太晚了。"
+"MailBody1C"	"我们需要认真的干预措施，或者我们会失去这个设施。"
 }

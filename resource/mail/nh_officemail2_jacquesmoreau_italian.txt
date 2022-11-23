@@ -1,22 +1,22 @@
 GAME
 {
-	// Computer belongs to Dr. Jacques Moreau
+// Computer belongs to Dr. Jacques Moreau
 
-	// Sent
+// Sent
 
-	"MailFrom3"	"A: Database personale"
-	"MailDate3"	"Data: 24/05/42"
-	"MailSubject3"	"Soggetto: Qualcos'altro"
-	"MailBody3A"	"Mi parla. La loro mente alveare, o qualunque cosa si possa battezzare un'entità così sconosciuta. Ho deciso di darle del "lei". Vesta."
-	"MailBody3B"	"Il processo con cui si rivolge a me sembra del tutto estraneo. È... strano, irregolare, come se un nuovo senso mi fosse prestato per frazioni di secondi solo per scomparire di nuovo in un abisso di silenzio. Ma da questo vuoto, so che è vero, era giunta una voce. Una serie stranamente completa di suoni che non riesco mai a ricordare completamente dopo averla ascoltata. Questa voce... Mi ricorda qualcuno che ho perso."
-	"MailBody3C"	"Ho tentato di impegnarmi con Vesta di mia spontanea volontà. Ho provato a parlarle, a farle capire chi o cosa siamo. Sono consapevole di quanto possa sembrare ridicolo... ma ho chiesto una guida. Voglio raggiungerla, mostrarle che non deve temere nulla da noi. Non siamo che fragili gusci di tessuto e mente in decomposizione, e lei può o non può portare a tutto ciò che noi... io speravo."
-	"MailBody3D"	"Ha solo bisogno di corpi."
+"MailFrom3"	"A: Database personale"
+"MailDate3"	"Data: 24/05/42"
+"MailSubject3"	"Soggetto: Qualcos'altro"
+"MailBody3A"	"Mi parla. La loro mente alveare, o qualunque cosa si possa battezzare un'entità così sconosciuta. Ho deciso di darle del "lei". Vesta."
+"MailBody3B"	"Il processo con cui si rivolge a me sembra del tutto estraneo. È... strano, irregolare, come se un nuovo senso mi fosse prestato per frazioni di secondi solo per scomparire di nuovo in un abisso di silenzio. Ma da questo vuoto, so che è vero, era giunta una voce. Una serie stranamente completa di suoni che non riesco mai a ricordare completamente dopo averla ascoltata. Questa voce... Mi ricorda qualcuno che ho perso."
+"MailBody3C"	"Ho tentato di impegnarmi con Vesta di mia spontanea volontà. Ho provato a parlarle, a farle capire chi o cosa siamo. Sono consapevole di quanto possa sembrare ridicolo... ma ho chiesto una guida. Voglio raggiungerla, mostrarle che non deve temere nulla da noi. Non siamo che fragili gusci di tessuto e mente in decomposizione, e lei può o non può portare a tutto ciò che noi... io speravo."
+"MailBody3D"	"Ha solo bisogno di corpi."
 
-	"MailFrom4"	"A: Helen Moreau"
-	"MailDate4"	"Data: 15/06/42"
-	"MailSubject4"	"Soggetto: N/D"
-	"MailBody4A"	"Quindi, eccomi qui. Mi sto confessando a un fantasma. Ad essere del tutto onesto, non sono sicuro di quanto tempo sia passato dalla tua malattia. Anche se il momento in cui il tuo profumo fiorito ha represso il soffocamento del nostro laboratorio non sembra così lontano."
-	"MailBody4B"	"Mi chiedo dove conduca questa strada, Helen. Questa missione che riguardava il progresso della nostra specie, l'umanità come "uno e tutto". Poi tutti speravano presto che dessi risposte a tutto, la cui sostanza improvvisavo sempre di più con il passare dei giorni. E ora, l'onere della responsabilità di una scoperta così eccezionale, grava esclusivamente su di me. Io, una sola parte di due menti, devo trarre risposte sull'esistenza di una nuova vita tra noi... Vesta... Helen. Se solo tu fossi qui. Eri il mio fulcro, il pezzo che mi dava equilibrio. La voce che mi ha guidato mentre camminavo alla cieca sul filo della mente da me cucita. Ma quel pezzo si è staccato il giorno in cui i tuoi occhi si sono chiusi."
-	"MailBody4C"	"Quindi ho preso in mano la situazione, nel modo che ritenevo opportuno. Mi rifiuto di giocare al gioco della SynTek o di chiunque altro. Quando ho capito che all'interno di questa scoperta poteva essere contenuta anche la più piccola possibilità di promuovere la nostra comprensione delle cellule cancerose e della loro connessione con la fisiologia umana, mi sono tolto ogni dubbio che nutrivo. Come scienziato, che vocazione è la mia se non proprio quella? Avrei dovuto rinunciare a questa opportunità di progresso reale e darla a loro? Affidare una tale scoperta a una lobby di topi aziendali vestiti con cappotti immacolati in modo che possano, in qualche modo, trasformarla in un profitto così ridicolo che sarebbe odiosamente deformato per essere venduto ai potenti, concesso a un prezzo che solo i più ricchi possono sperare di spendere? O peggio... e per cosa? Perché innumerevoli altri perdano di nuovo mogli, mariti, fratelli e sorelle, figli e figlie a causa di una delle malattie più terribili e intollerabili della storia umana?"
-	"MailBody4D"	"No. Ho fatto la mia scelta. Possono anche darmi del matto."
+"MailFrom4"	"A: Helen Moreau"
+"MailDate4"	"Data: 15/06/42"
+"MailSubject4"	"Soggetto: N/D"
+"MailBody4A"	"Quindi, eccomi qui. Mi sto confessando a un fantasma. Ad essere del tutto onesto, non sono sicuro di quanto tempo sia passato dalla tua malattia. Anche se il momento in cui il tuo profumo fiorito ha represso il soffocamento del nostro laboratorio non sembra così lontano."
+"MailBody4B"	"Mi chiedo dove conduca questa strada, Helen. Questa missione che riguardava il progresso della nostra specie, l'umanità come "uno e tutto". Poi tutti speravano presto che dessi risposte a tutto, la cui sostanza improvvisavo sempre di più con il passare dei giorni. E ora, l'onere della responsabilità di una scoperta così eccezionale, grava esclusivamente su di me. Io, una sola parte di due menti, devo trarre risposte sull'esistenza di una nuova vita tra noi... Vesta... Helen. Se solo tu fossi qui. Eri il mio fulcro, il pezzo che mi dava equilibrio. La voce che mi ha guidato mentre camminavo alla cieca sul filo della mente da me cucita. Ma quel pezzo si è staccato il giorno in cui i tuoi occhi si sono chiusi."
+"MailBody4C"	"Quindi ho preso in mano la situazione, nel modo che ritenevo opportuno. Mi rifiuto di giocare al gioco della SynTek o di chiunque altro. Quando ho capito che all'interno di questa scoperta poteva essere contenuta anche la più piccola possibilità di promuovere la nostra comprensione delle cellule cancerose e della loro connessione con la fisiologia umana, mi sono tolto ogni dubbio che nutrivo. Come scienziato, che vocazione è la mia se non proprio quella? Avrei dovuto rinunciare a questa opportunità di progresso reale e darla a loro? Affidare una tale scoperta a una lobby di topi aziendali vestiti con cappotti immacolati in modo che possano, in qualche modo, trasformarla in un profitto così ridicolo che sarebbe odiosamente deformato per essere venduto ai potenti, concesso a un prezzo che solo i più ricchi possono sperare di spendere? O peggio... e per cosa? Perché innumerevoli altri perdano di nuovo mogli, mariti, fratelli e sorelle, figli e figlie a causa di una delle malattie più terribili e intollerabili della storia umana?"
+"MailBody4D"	"No. Ho fatto la mia scelta. Possono anche darmi del matto."
 }

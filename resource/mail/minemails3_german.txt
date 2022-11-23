@@ -1,33 +1,33 @@
 GAME
 {
-	// PDA belongs to Brad Campbell
+// PDA belongs to Brad Campbell
 
-	// Inbox
+// Inbox
 
-	"MailFrom1"	"Von: David Anders"
-	"MailDate1"	"Datum: 12/12/52"
-	"MailSubject1"	"Betreff: Env suits"
-	"MailBody1A"	"Mensch Brad, die Hitze wird unerträglich. In der Nähe von Tunnel 11 haben wir ein weiteres Lavafeld gefunden, es wird also nicht besser werden. Was ist mit den Neoprenanzügen?"
-	"MailBody1B"	"Dave"
+"MailFrom1"	"Von: David Anders"
+"MailDate1"	"Datum: 12/12/52"
+"MailSubject1"	"Betreff: Env suits"
+"MailBody1A"	"Mensch Brad, die Hitze wird unerträglich. In der Nähe von Tunnel 11 haben wir ein weiteres Lavafeld gefunden, es wird also nicht besser werden. Was ist mit den Neoprenanzügen?"
+"MailBody1B"	"Dave"
 
-	"MailFrom2"	"Von: David Anders"
-	"MailDate2"	"Datum: 12/14/52"
-	"MailSubject2"	"Betreff: Daxol"
-	"MailBody2A"	"Brad,"
-	"MailBody2B"	"Verdammt noch mal. Ich habe mit Pete und Kovac gesprochen. Sie geben offen zu, dass die Leute wieder regelmäßig Daxol benutzen. Gerade als wir dachten, die Dinge würden wieder normal werden. Was soll ich tun?"
+"MailFrom2"	"Von: David Anders"
+"MailDate2"	"Datum: 12/14/52"
+"MailSubject2"	"Betreff: Daxol"
+"MailBody2A"	"Brad,"
+"MailBody2B"	"Verdammt noch mal. Ich habe mit Pete und Kovac gesprochen. Sie geben offen zu, dass die Leute wieder regelmäßig Daxol benutzen. Gerade als wir dachten, die Dinge würden wieder normal werden. Was soll ich tun?"
 
-	// Sent
+// Sent
 
-	"MailFrom3"	"An: David Anders"
-	"MailDate3"	"Datum: 12/12/52"
-	"MailSubject3"	"Betreff: Aw: Env-Anzüge"
-	"MailBody3A"	"Hi Dave,"
-	"MailBody3B"	"Ich habe sie schon vor langer Zeit bestellt. Ich weiß nicht, warum sie nicht im letzten Versorgungsshuttle dabei waren. Ich kann mich nur beschweren, was ich auch tue, aber du weißt ja, wie viel das bringt. Übrigens habe ich gehört, dass der Missbrauch von Daxol wieder zunimmt. Kannst du ein Auge darauf haben?"
-	"MailBody3C"	"Prost, Brad"
+"MailFrom3"	"An: David Anders"
+"MailDate3"	"Datum: 12/12/52"
+"MailSubject3"	"Betreff: Aw: Env-Anzüge"
+"MailBody3A"	"Hi Dave,"
+"MailBody3B"	"Ich habe sie schon vor langer Zeit bestellt. Ich weiß nicht, warum sie nicht im letzten Versorgungsshuttle dabei waren. Ich kann mich nur beschweren, was ich auch tue, aber du weißt ja, wie viel das bringt. Übrigens habe ich gehört, dass der Missbrauch von Daxol wieder zunimmt. Kannst du ein Auge darauf haben?"
+"MailBody3C"	"Prost, Brad"
 
-	"MailFrom4"	"An: David Anders"
-	"MailDate4"	"Datum: 12/14/52"
-	"MailSubject4"	"Betreff: Aw: Daxol"
-	"MailBody4A"	"David,"
-	"MailBody4B"	"Danke. Ich werde mich mit ihnen unterhalten. Ich will es nicht melden. Ich habe immer gesagt, dass die Arbeiter pro Stunde bezahlt werden sollten, nicht dafür, wie schnell sie Löcher in den verdammten Fels graben können. Daran können wir nicht viel ändern."
+"MailFrom4"	"An: David Anders"
+"MailDate4"	"Datum: 12/14/52"
+"MailSubject4"	"Betreff: Aw: Daxol"
+"MailBody4A"	"David,"
+"MailBody4B"	"Danke. Ich werde mich mit ihnen unterhalten. Ich will es nicht melden. Ich habe immer gesagt, dass die Arbeiter pro Stunde bezahlt werden sollten, nicht dafür, wie schnell sie Löcher in den verdammten Fels graben können. Daran können wir nicht viel ändern."
 }

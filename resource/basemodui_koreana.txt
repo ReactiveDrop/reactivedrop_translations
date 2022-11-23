@@ -300,6 +300,7 @@
 "L4D360UI_UnderConstruction"		"[생성 중]"
 "[english]L4D360UI_UnderConstruction"		"[Under Construction]"
 "L4D360UI_WaitScreen_WorkingMsg"		""
+//generic wait screen text and messages
 "[english]L4D360UI_WaitScreen_WorkingMsg"		""
 "L4D360UI_WaitScreen_CreatingLobby"		"로비 만들기"
 "[english]L4D360UI_WaitScreen_CreatingLobby"		"Creating a Lobby"
@@ -326,6 +327,7 @@
 "L4D360UI_WaitScreen_GameInFinale"		"게임 최종전"
 "[english]L4D360UI_WaitScreen_GameInFinale"		"Game in Finale"
 "L4D360UI_Ok"		"확인"
+//shared strings
 "[english]L4D360UI_Ok"		"OK"
 "L4D360UI_Select"		"선택"
 "[english]L4D360UI_Select"		"Select"
@@ -352,12 +354,14 @@
 "L4D360UI_Tooltip_Cancel"		"변경하지 않고 뒤로 이동합니다."
 "[english]L4D360UI_Tooltip_Cancel"		"Go back without keeping changes."
 "L4D360UI_Join_Anywhere"		"진행 중인 게임 찾기"
+//Public search options
 "[english]L4D360UI_Join_Anywhere"		"FIND A GAME"
 "L4D360UI_Join_At_Start"		"게임 로비 찾기"
 "[english]L4D360UI_Join_At_Start"		"FIND A GAME LOBBY"
 "L4D360UI_Join_Create"		"게임 로비 만들기"
 "[english]L4D360UI_Join_Create"		"CREATE A GAME"
 "L4D360UI_MsgBx_NeedTwoProfilesC"		"분할 화면 플레이"
+//generic error messages
 "[english]L4D360UI_MsgBx_NeedTwoProfilesC"		"Play Splitscreen"
 "L4D360UI_MsgBx_NeedTwoProfilesTxt"		"분할 화면으로 플레이하려면 두 개의 게이머 프로필이 로그인되어 있어야 합니다."
 "[english]L4D360UI_MsgBx_NeedTwoProfilesTxt"		"Two gamer profiles must be signed in to play splitscreen."
@@ -438,6 +442,7 @@
 "L4D360UI_MsgBx_GuestsUnavailableToGuests"		"손님은 도전 과제를 해결하거나 도전 과제 점수를 볼 수 없습니다."
 "[english]L4D360UI_MsgBx_GuestsUnavailableToGuests"		"Guests are not allowed to unlock or view achievement scores."
 "L4D360UI_GameSettings_LiveOpen"		"게임 설정: 공개 게임"
+//Game Settings
 "[english]L4D360UI_GameSettings_LiveOpen"		"Game Settings: PUBLIC GAME"
 "L4D360UI_GameSettings_LiveFriends"		"게임 설정: 친구 전용 게임"
 "[english]L4D360UI_GameSettings_LiveFriends"		"Game Settings: FRIENDS-ONLY GAME"
@@ -496,12 +501,15 @@
 "L4D360UI_GameSettings_Tooltip_Create_Lobby"		"이 설정으로 로비를 만듭니다."
 "[english]L4D360UI_GameSettings_Tooltip_Create_Lobby"		"Create a lobby with these settings."
 "L4D360UI_ShowUnlockableAwards"		"아바타 상품 표시"
+// Unlockable Awards
 "[english]L4D360UI_ShowUnlockableAwards"		"Display Avatar Awards"
 "L4D360UI_ShowAchievements"		"도전 과제 표시"
 "[english]L4D360UI_ShowAchievements"		"Display Achievements"
 "L4D360UI_Attract_PressStart"		"START를 누르십시오."
+//Attract Screen
 "[english]L4D360UI_Attract_PressStart"		"PRESS START"
 "L4D360UI_SignIn_Title"		"%s1 님, 환영합니다."
+//Sign In Screen
 "[english]L4D360UI_SignIn_Title"		" Welcome, %s1"
 "L4D360UI_SignIn_TitleNo"		" 환영합니다."
 "[english]L4D360UI_SignIn_TitleNo"		" Welcome"
@@ -520,6 +528,7 @@
 "L4D360UI_SignIn_CancelSignIn"		"취소"
 "[english]L4D360UI_SignIn_CancelSignIn"		"Cancel"
 "L4D360UI_MainMenu_CoOp"		"온라인 플레이"
+//Main Menu
 "[english]L4D360UI_MainMenu_CoOp"		"PLAY ONLINE"
 		"L4D360UI_MainMenu_Holdout"		"PLAY HOLDOUT"
 		"[english]L4D360UI_MainMenu_Holdout"		"PLAY HOLDOUT"
@@ -684,6 +693,7 @@
 "L4D360UI_Character_Guest"		"플레이어"
 "[english]L4D360UI_Character_Guest"		"Player"
 "L4D360UI_InGameMainMenu_ReturnToGame"		"게임으로 돌아가기"
+//In Game Main Menu
 "[english]L4D360UI_InGameMainMenu_ReturnToGame"		"RETURN TO GAME"
 "L4D360UI_InGameMainMenu_ReturnToGame_Tip"		"이 메뉴에서 나가고 계속 플레이합니다."
 "[english]L4D360UI_InGameMainMenu_ReturnToGame_Tip"		"Leave this menu and continue playing."
@@ -712,10 +722,12 @@
 "L4D360UI_InGameMainMenu_ExitToMainMenu_Tip"		"이 게임에서 나갑니다."
 "[english]L4D360UI_InGameMainMenu_ExitToMainMenu_Tip"		"Leave this game."
 "L4D360UI_VoteMenu_YesBinding"		"예: START"
+// Vote menu
 "[english]L4D360UI_VoteMenu_YesBinding"		"Yes: START"
 "L4D360UI_VoteMenu_NoBinding"		"아니요: BACK"
 "[english]L4D360UI_VoteMenu_NoBinding"		"No: BACK"
 "L4D360UI_InviteUIOptions"		"온라인 멀티플레이어"
+// Invite UI options
 "[english]L4D360UI_InviteUIOptions"		"ONLINE MULTIPLAYER"
 "L4D360UI_InviteUIOptions_Tip"		"음성 채팅 채널을 변경하거나 게임 초대를 보냅니다."
 "[english]L4D360UI_InviteUIOptions_Tip"		"Change voice chat channel or send game invites."
@@ -764,6 +776,7 @@
 "L4D360UI_InviteUI_gamevoiceui_Tip_Disabled"		""
 "[english]L4D360UI_InviteUI_gamevoiceui_Tip_Disabled"		""
 "L4D360UI_Lobby_EmptySlotAd"		"사용 가능한 슬롯"
+//Game Lobby Screen
 "[english]L4D360UI_Lobby_EmptySlotAd"		"Player Slot Available"
 "L4D360UI_Lobby_SplitSlotAd"		"플레이어 2: 분할 화면으로 플레이하려면 로그인하십시오."
 "[english]L4D360UI_Lobby_SplitSlotAd"		"Player Two, Sign in for Splitscreen"
@@ -990,6 +1003,7 @@
 "L4D360UI_Lobby_Player_Left"		"%s1 님이 나갔습니다."
 "[english]L4D360UI_Lobby_Player_Left"		"%s1 left."
 "L4D360UI_GameAccess"		"게임 액세스"
+//Player Access screen
 "[english]L4D360UI_GameAccess"		"Game Access"
 "L4D360UI_Access_Description"		"함께 플레이할 그룹을 지정합니다."
 "[english]L4D360UI_Access_Description"		"Specify a group of people you would like to play with."
@@ -1014,16 +1028,19 @@
 "L4D360UI_Access_Tooltip_Invite"		"특정인을 게임에 초대합니다."
 "[english]L4D360UI_Access_Tooltip_Invite"		"Invite specific people to your game."
 "L4D360UI_ServerType_Official"		"공식 전용 서버"
+//Server type screen
 "[english]L4D360UI_ServerType_Official"		"Official Dedicated"
 "L4D360UI_ServerType_Dedicated"		"최적의 전용 서버"
 "[english]L4D360UI_ServerType_Dedicated"		"Best Available Dedicated"
 "L4D360UI_ServerType_Listen"		"로컬 서버"
 "[english]L4D360UI_ServerType_Listen"		"Local Server"
 "L4D360UI_AudioVideo_Title"		"오디오/비디오 옵션"
+//Audio Video
 "[english]L4D360UI_AudioVideo_Title"		"AUDIO/VIDEO OPTIONS"
 "L4D360UI_AudioVideo_Desc"		"하드웨어 및 기본 설정을 바탕으로 최적의 설정을 찾습니다."
 "[english]L4D360UI_AudioVideo_Desc"		"Find your optimal settings based on your hardware and preferences."
 "L4D360UI_AudioOptions_Volume"		"마스터 볼륨"
+//Audio Options
 "[english]L4D360UI_AudioOptions_Volume"		"MASTER VOLUME"
 "L4D360UI_AudioOptions_Tooltip_Volume"		"게임의 볼륨을 조절합니다."
 "[english]L4D360UI_AudioOptions_Tooltip_Volume"		"Adjust the volume of the game."
@@ -1070,6 +1087,7 @@
 "L4D360UI_AudioOptions_Tooltip_Volume_Disabled"		"현재 볼륨 조절 기능이 해제되어 있습니다."
 "[english]L4D360UI_AudioOptions_Tooltip_Volume_Disabled"		"Adjusting the volume is currently disabled."
 "L4D360UI_VideoOptions_Brightness"		"밝기"
+//Video Options
 "[english]L4D360UI_VideoOptions_Brightness"		"BRIGHTNESS"
 "L4D360UI_VideoOptions_Tooltip_Brightness"		"화면의 명암을 조정합니다."
 "[english]L4D360UI_VideoOptions_Tooltip_Brightness"		"Gamma-correct your screen."
@@ -1150,6 +1168,7 @@
 "L4D360UI_DropDownGore_Low_Tooltip_Disabled"		"혈흔 효과를 조절할 수 없습니다."
 "[english]L4D360UI_DropDownGore_Low_Tooltip_Disabled"		"Gore modification not available."
 "L4D360UI_Multiplayer_Desc"		"멀티플레이어 게임의 설정 및 기본 설정을 구성합니다."
+//Multiplayer Options
 "[english]L4D360UI_Multiplayer_Desc"		"Configure settings and preferences for multiplayer gaming."
 "L4D360UI_Multiplayer_AllowCustomContent"		"커스텀 서버 컨텐츠"
 "[english]L4D360UI_Multiplayer_AllowCustomContent"		"Custom Server Content"
@@ -1182,6 +1201,7 @@
 "L4D360UI_DownloadFilter_Title"		"컴퓨터에 다운로드할 수 있는 게임 서버의 사용자 지정 컨텐츠 파일을 필터링합니다."
 "[english]L4D360UI_DownloadFilter_Title"		"Filter the files that a game server with custom content can download to your computer."
 "L4D360UI_Cloud_Title"		"Steam 클라우드"
+//Cloud Options
 "[english]L4D360UI_Cloud_Title"		"Steam Cloud"
 "L4D360UI_Cloud_Subtitle"		"Steam 클라우드는 여러 PC에서 동일한 게임 플레이 환경을 사용할 수 있도록 정보를 저장합니다."
 "[english]L4D360UI_Cloud_Subtitle"		"The Steam Cloud stores information so your gameplay experience is consistent across PCs."
@@ -1214,6 +1234,7 @@
 "L4D360UI_SteamOverlay_Text"		"이 기능을 사용하려면 게임 내 Steam 커뮤니티를 활성화해야 합니다.\n\nSteam의 Steam -> 파일 -> 설정 -> 게임 내: 게임 내 Steam 커뮤니티 사용\n에서 이 기능을 활성화한 후 게임을 다시 시작해야 할 수 있습니다.\n"
 "[english]L4D360UI_SteamOverlay_Text"		"This feature requires Steam Community In-Game to be enabled.\n\nYou might need to restart the game after you enable this feature in Steam:\nSteam -> File -> Settings -> In-Game: Enable Steam Community In-Game\n"
 "L4D360UI_AddonAssociation_Title"		"자동 애드온 설치"
+//Add-on Assocation Options
 "[english]L4D360UI_AddonAssociation_Title"		"Automatic Add-on Installation"
 "L4D360UI_AddonAssociation_Subtitle"		"Alien Swarm에서 .vpk 확장자를 사용하는 파일을 연결하려 합니다. 이를 허용하면 해당 파일을 두 번 클릭하여 애드온을 쉽게 설치할 수 있습니다. 허용하시겠습니까?"
 "[english]L4D360UI_AddonAssociation_Subtitle"		"Alien Swarm would like to associate with files using the .vpk extension. This allows easier installation of add-ons by allowing you to double click on them. Do you wish to allow this?"
@@ -1240,6 +1261,7 @@
 "L4D360UI_ADDON_SUPPORT_INSTALLING_DETAILS"		"Steam 도구 탭에서 다운로드 상태를 확인해보세요."
 "[english]L4D360UI_ADDON_SUPPORT_INSTALLING_DETAILS"		"Check download progress in the Steam Tools tab."
 		"L4D360UI_GetLegacyData_Title"		"Download Add-on Support Data"
+		//Add-on Legacy Data Download Options
 		"[english]L4D360UI_GetLegacyData_Title"		"Download Add-on Support Data"
 		"L4D360UI_GetLegacyData_Subtitle"		"Alien Swarm would like to download additional game data that many add-ons require to work properly. It can also be installed from the Tools tab in Steam.\n\nDo you wish to install this additional game data now?"
 		"[english]L4D360UI_GetLegacyData_Subtitle"		"Alien Swarm would like to download additional game data that many add-ons require to work properly. It can also be installed from the Tools tab in Steam.\n\nDo you wish to install this additional game data now?"
@@ -1254,6 +1276,7 @@
 "L4D360UI_GetLegacyData_OK"		"확인"
 "[english]L4D360UI_GetLegacyData_OK"		"OK"
 "L4D360UI_DownloadCampaign_Title"		"작전 애드온 다운로드"
+//Download Campaign Options
 "[english]L4D360UI_DownloadCampaign_Title"		"Download Campaign AddOn"
 "L4D360UI_DownloadCampaign_Subtitle"		"사용자 지정 타사 작전을 다운로드합니다."
 "[english]L4D360UI_DownloadCampaign_Subtitle"		"Download a custom third party campaign."
@@ -1270,14 +1293,17 @@
 "L4D360UI_DownloadCampaign_Back"		"뒤로"
 "[english]L4D360UI_DownloadCampaign_Back"		"Back"
 "L4D360UI_VisitCampaign_Title"		"작전 애드온 웹 사이트 방문"
+//Visit Campaign Website Options
 "[english]L4D360UI_VisitCampaign_Title"		"Visit Campaign Add-on Website"
 "L4D360UI_VisitCampaign_Text"		"Alien Swarm를 전환하여 사용자 지정 애드온 웹 사이트를 방문하려고 합니다."
 "[english]L4D360UI_VisitCampaign_Text"		"You are about to switch out of Alien Swarm and visit the website for a custom add-on."
 "L4D360UI_Lobby_MissingContent"		"다운로드 콘텐츠 필요"
+//Kicked for missing content
 "[english]L4D360UI_Lobby_MissingContent"		"Downloadable Content Required"
 "L4D360UI_Lobby_MissingContent_Message"		"현재 설치되어있지 않은 작전을 호스트가 선택했기에 로비에서 제외되었습니다."
 "[english]L4D360UI_Lobby_MissingContent_Message"		"You were removed from the lobby because the host has selected a campaign that is not installed."
 "L4D360UI_Extras_WatchMovie"		"인트로 무비 감상"
+//Extras
 "[english]L4D360UI_Extras_WatchMovie"		"Watch Intro Movie"
 "L4D360UI_Extras_Commentary"		"개발자 커멘터리"
 "[english]L4D360UI_Extras_Commentary"		"Developer Commentary"
@@ -1300,6 +1326,7 @@
 "L4D360UI_Extras_Addons_Tip"		"컴퓨터에 다운로드한 게임 애드온 사용 및 구성"
 "[english]L4D360UI_Extras_Addons_Tip"		"Enable and configure game add-ons downloaded to your computer"
 "L4D360UI_RoundLimit"		"라운드 제한"
+//Round Limit settings
 "[english]L4D360UI_RoundLimit"		"ROUND LIMIT"
 "L4D360UI_RoundLimit_Tip"		"플레이할 라운드 수를 지정합니다."
 "[english]L4D360UI_RoundLimit_Tip"		"Specify how many rounds you are willing to play."
@@ -1310,6 +1337,7 @@
 "L4D360UI_RoundLimit_5"		"5라운드 3선승제"
 "[english]L4D360UI_RoundLimit_5"		"Best of Five"
 "L4D360UI_ChooseDifficulty"		"게임 난이도 선택"
+//Choose difficulty screen
 "[english]L4D360UI_ChooseDifficulty"		"Select Game Difficulty"
 "L4D360UI_Difficulty_Description"		"자신에게 가장 잘 맞는 난이도를 지정합니다."
 "[english]L4D360UI_Difficulty_Description"		"Specify the level of difficulty you are most comfortable with."
@@ -1364,6 +1392,7 @@
 		"L4D360UI_Difficulty_Tooltip_insane"		"Play this game in Expert mode (for the most challenging Survivor experience)."
 		"[english]L4D360UI_Difficulty_Tooltip_insane"		"Play this game in Expert mode (for the most challenging Survivor experience)."
 "L4D360UI_ChooseCampaign"		"작전 선택"
+//Choose campaign screen
 "[english]L4D360UI_ChooseCampaign"		"Select a Campaign"
 "L4D360UI_Campaign_Description"		"플레이할 작전을 지정합니다."
 "[english]L4D360UI_Campaign_Description"		"Specify which campaign you would like to play."
@@ -1376,12 +1405,14 @@
 "L4D360UI_Chapter_Only1Avail"		"더 이상 사용 가능한 챕터 없음"
 "[english]L4D360UI_Chapter_Only1Avail"		"No More Chapters"
 "L4D360UI_KickPlayerList_Title"		"추방할 플레이어 선택"
+//Kick Player screen
 "[english]L4D360UI_KickPlayerList_Title"		"Select Player to Kick"
 "L4D360UI_KickPlayerList_Description"		"추방하려는 플레이어를 선택합니다."
 "[english]L4D360UI_KickPlayerList_Description"		"Choose the player you would like to kick."
 "L4D360UI_KickPlayerList_No_eligible_players"		"추방하기에 적합한 플레이어가 팀에 없습니다."
 "[english]L4D360UI_KickPlayerList_No_eligible_players"		"There are no players on your team who are eligible to be kicked."
 "L4D360UI_Mode_campaign"		"작전"
+//Found Games screen
 "[english]L4D360UI_Mode_campaign"		"Campaign"
 "L4D360UI_Mode_single_mission"		"싱글 미션"
 "[english]L4D360UI_Mode_single_mission"		"Single Mission"
@@ -1404,10 +1435,12 @@
 "L4D360UI_FoudGames_CreateNewFlyout"		"게임 생성"
 "[english]L4D360UI_FoudGames_CreateNewFlyout"		"Create Game"
 "L4D360UI_FoudGames_CustomMatch_campaign"		"자세한 검색 옵션"
+// Localized as "Campaign Game Search" and "Versus Game Search" and etc.
 "[english]L4D360UI_FoudGames_CustomMatch_campaign"		"More Search Options"
 "L4D360UI_FoudGames_CustomMatch_single_mission"		"자세한 검색 옵션"
 "[english]L4D360UI_FoudGames_CustomMatch_single_mission"		"More Search Options"
 		"L4D360UI_FOUNDGAMES_ADDON_SUPPORT_REQUIRED"		"Add-on support is required to play third party campaigns."
+		//Found Games screen
 		"[english]L4D360UI_FOUNDGAMES_ADDON_SUPPORT_REQUIRED"		"Add-on support is required to play third party campaigns."
 "L4D360UI_FoundGames_Friends"		"검색된 친구의 게임"
 "[english]L4D360UI_FoundGames_Friends"		"FRIENDS' GAMES FOUND"
@@ -1546,6 +1579,7 @@
 "L4D360UI_FoundPublicGames_Filter_Label_Tip"		"검색된 게임 및 로비를 필터링합니다."
 "[english]L4D360UI_FoundPublicGames_Filter_Label_Tip"		"Filter which games and lobbies are found."
 "L4D360UI_FoundPublicGames_Status"		"%s1, %s2"
+// Expands to L4D360UI_FoundGames_LobbyCount, L4D360UI_FoundGames_GameCountInProgress
 "[english]L4D360UI_FoundPublicGames_Status"		"%s1, %s2"
 "L4D360UI_FoundPublicGames_Status_None"		"진행 중인 로비 및 게임 없음"
 "[english]L4D360UI_FoundPublicGames_Status_None"		"No Lobbies or Games in Progress"
@@ -1614,6 +1648,7 @@
 "L4D360UI_FoundPublicGames_Filter_Campaign_NotInstalledAddOn_Tip"		"설치되지 않은 애드온 작전만 사용하는 게임 또는 로비를 필터링합니다."
 "[english]L4D360UI_FoundPublicGames_Filter_Campaign_NotInstalledAddOn_Tip"		"Filter for games that are only using not installed add-on campaigns."
 "L4D360UI_Controller_Title"		"컨트롤러 옵션(%s1)"
+//Controller Screen
 "[english]L4D360UI_Controller_Title"		"CONTROLLER OPTIONS (%s1)"
 "L4D360UI_Controller_Buttons_Title"		"단추 배치(%s1)"
 "[english]L4D360UI_Controller_Buttons_Title"		"BUTTON LAYOUT (%s1)"
@@ -1988,6 +2023,7 @@
 "GameUI_Icons_LOBBY"		"i"
 "[english]GameUI_Icons_LOBBY"		"i"
 "L4D360UI_MultiPlayer_CreateLiveGame"		"Xbox LIVE 게임 만들기"
+// tooltips
 "[english]L4D360UI_MultiPlayer_CreateLiveGame"		"Create an Xbox LIVE Game"
 "L4D360UI_MultiPlayer_FindLiveGame"		"Xbox LIVE 게임 찾기"
 "[english]L4D360UI_MultiPlayer_FindLiveGame"		"Find an Xbox LIVE Game"
@@ -2012,6 +2048,7 @@
 "L4D360UI_Controller_SwapJoysticks"		"왼쪽 스틱이 시점을 조종하고 오른쪽 스틱이 움직임을 조종하도록 컨트롤러 스틱을 서로 바꿉니다."
 "[english]L4D360UI_Controller_SwapJoysticks"		"Swap the controller sticks so that LOOK is on the left and MOVE on the right."
 "L4D360UI_Loading_Starring"		"주인공: "
+// Loading posters
 "[english]L4D360UI_Loading_Starring"		"Commanders: "
 "L4D360UI_Loading_Costarring"		"공동 주인공: "
 "[english]L4D360UI_Loading_Costarring"		"Commanders: "
@@ -2022,6 +2059,7 @@
 		"L4D360UI_Loading_GameMode_single_mission"		"Joining a Single Mission game."
 		"[english]L4D360UI_Loading_GameMode_single_mission"		"Joining a Single Mission game."
 "L4D360UI_My_Achievements"		"도전과제"
+// achievements
 "[english]L4D360UI_My_Achievements"		"Achievements"
 "L4D360UI_My_Achievements_Desc"		"현재까지 획득한 도전 과제 목록을 봅니다."
 "[english]L4D360UI_My_Achievements_Desc"		"See the list of Achievements you have earned so far."
@@ -2038,6 +2076,7 @@
 "L4D360UI_Scroll_Progress"		"%s1 - %s2/%s3"
 "[english]L4D360UI_Scroll_Progress"		"%s1 - %s2 of %s3"
 "L4D360UI_My_Addons"		"애드온"
+// Addons
 "[english]L4D360UI_My_Addons"		"Add-ons"
 "L4D360UI_My_Addons_Desc"		"사용자 지정 애드온을 싱글 플레이 및 로컬 호스트 게임에서 사용할 수 있는지 확인하십시오."
 "[english]L4D360UI_My_Addons_Desc"		"Check custom add-ons to enable them for single player and locally hosted games."
@@ -2072,6 +2111,7 @@
 "L4D360UI_Addon_DoNotAssociate"		".VPK 애드온 파일을 연결하지 않습니다."
 "[english]L4D360UI_Addon_DoNotAssociate"		"Do not attempt to associate .VPK add-on files"
 "L4D360UI_MsgBx_StorageDeviceRemoved"		"올바른 저장 장치가 없으면 기본 설정 및 게임 진행 상황이 저장되지 않습니다."
+// TCR additions
 "[english]L4D360UI_MsgBx_StorageDeviceRemoved"		"Preferences and game progress will not be saved without a valid storage device."
 "L4D360UI_MsgBx_ControllerUnpluggedTitle"		"컨트롤러 연결 끊김"
 "[english]L4D360UI_MsgBx_ControllerUnpluggedTitle"		"Controller Unplugged"
@@ -2088,6 +2128,7 @@
 "L4D360UI_MsgBx_GuestProfile_Dismissed"		"로그인 변경으로 인해 게임에서 제거되었습니다."
 "[english]L4D360UI_MsgBx_GuestProfile_Dismissed"		"You have been removed the game due to a sign-in change."
 "L4D_Friend_Online"		"온라인"
+// Friend status
 "[english]L4D_Friend_Online"		"Online"
 "L4D_Friend_Away"		"자리 비움"
 "[english]L4D_Friend_Away"		"Away"
@@ -2124,6 +2165,7 @@
 "L4D360UI_LeaveLobbyConfLive_PC"		"현재 온라인 게임 로비의 일원입니다."
 "[english]L4D360UI_LeaveLobbyConfLive_PC"		"You are currently part of an online game lobby."
 "L4D_video_tip"		"시스템의 성능 및 요구 사항을 바탕으로 비디오 설정을 구성합니다."
+// Main Menu
 "[english]L4D_video_tip"		"Configure video settings based on your system's abilities and requirements."
 "L4D_audio_tip"		"기본 설정 및 스피커를 바탕으로 오디오 설정을 구성합니다."
 "[english]L4D_audio_tip"		"Configure audio settings based on your preferences and speakers."
@@ -2136,6 +2178,7 @@
 "L4D_steamcloud_disabled_tip"		"현재 Steam 클라우드를 사용하실 수 없습니다."
 "[english]L4D_steamcloud_disabled_tip"		"Steam Cloud is currently unavailable."
 "L4D_aspect_ratio_tip"		"화면 비율을 조절합니다."
+// Video Options
 "[english]L4D_aspect_ratio_tip"		"Adjust the width and height of your display."
 "L4D_resolution_tip"		"화면의 해상도를 조절합니다."
 "[english]L4D_resolution_tip"		"Adjust the level of detail of your display."
@@ -2168,6 +2211,7 @@
 "L4D_paged_pool_mem_tip"		"메모리를 많게 또는 적게 할당하도록 드라이버를 구성합니다."
 "[english]L4D_paged_pool_mem_tip"		"Configure your driver to allocate less or more memory."
 "L4D_spkr_config_tip"		"스피커 환경을 설정합니다."
+// Audio Options
 "[english]L4D_spkr_config_tip"		"Configure speaker layout and channels."
 "L4D_sound_qual_tip"		"사운드 품질을 조절합니다."
 "[english]L4D_sound_qual_tip"		"Adjust sound quality."
@@ -2192,6 +2236,7 @@
 "L4D_test_mic_tip"		"마이크가 제대로 작동하는지 테스트합니다."
 "[english]L4D_test_mic_tip"		"Test whether your microphone is functioning properly."
 "L4D_edit_keys_tip"		"선호하는 키보드, 마우스 및 게임패드 버튼 배치를 선택합니다."
+// Keyboard Options
 "[english]L4D_edit_keys_tip"		"Choose your preferred keyboard, mouse, and gamepad button layout."
 "L4D_reverse_mouse_tip"		"마우스의 방향을 반전합니다."
 "[english]L4D_reverse_mouse_tip"		"Invert the directions of your mouse."
@@ -2216,6 +2261,7 @@
 		"L4D_gamepad_autoattack_tip"		"Automatically shoot while holding the aiming stick."
 		"[english]L4D_gamepad_autoattack_tip"		"Automatically shoot while holding the aiming stick."
 "L4D_import_spray_tip"		"게임에서 사용할 스프레이 이미지를 가져옵니다."
+// Multiplayer Options
 "[english]L4D_import_spray_tip"		"Import a new spray image to use in-game."
 "L4D_import_game_instruct"		"게임을 플레이할 때 실시간 힌트를 사용하거나 해제합니다."
 "[english]L4D_import_game_instruct"		"Enable or disable helpful real-time hints during gameplay."
@@ -2224,6 +2270,7 @@
 "L4D360UI_MainMenu_ServerBrowser_Tip"		"게임 내 서버 브라우저를 표시합니다."
 "[english]L4D360UI_MainMenu_ServerBrowser_Tip"		"Show the in-game server browser."
 "L4D360UI_LegacyOn"		"기존 모드 끄기"
+// Legacy controls
 "[english]L4D360UI_LegacyOn"		"Turn Legacy Off"
 "L4D360UI_LegacyOff"		"기존 모드 켜기"
 "[english]L4D360UI_LegacyOff"		"Turn Legacy On"
@@ -2280,6 +2327,7 @@
 "L4D360UI_MsgBx_NeedLiveGeneric"		"이 작업을 수행하려면 먼저 Xbox LIVE에 로그인해야 합니다."
 "[english]L4D360UI_MsgBx_NeedLiveGeneric"		"You must be signed in to Xbox LIVE to perform that action."
 "L4D360UI_Leaderboard_Rank"		"랭킹"
+// Leaderboard
 "[english]L4D360UI_Leaderboard_Rank"		"Rank"
 "L4D360UI_Leaderboard_Gamertag"		"게이머태그"
 "[english]L4D360UI_Leaderboard_Gamertag"		"Gamertag"
@@ -2316,6 +2364,7 @@
 "L4D360UI_MsgBx_KickedFromSessionDLCrequired"		"주최자가 선택한 작전은 서바이벌 팩과 함께 제공되는 전투 도구입니다.\nXbox LIVE 마켓플레이스에서 서바이벌 팩 콘텐츠를 다운로드하시겠습니까?"
 "[english]L4D360UI_MsgBx_KickedFromSessionDLCrequired"		"The host has selected a campaign that is provided with the Survival Pack.\nWould you like to download Survival Pack content from Xbox LIVE Marketplace?"
 "L4D360UI_My_CustomCampaigns"		"애드온 작전"
+// Addon campaigns
 "[english]L4D360UI_My_CustomCampaigns"		"ADDON CAMPAIGNS"
 "L4D360UI_My_CustomCampaigns_Desc"		"애드온 작전을 선택하십시오."
 "[english]L4D360UI_My_CustomCampaigns_Desc"		"Choose an addon campaign."
@@ -2364,6 +2413,7 @@
 "L4D360UI_LevelName_Unknown"		"알 수 없는 챕터"
 "[english]L4D360UI_LevelName_Unknown"		"Unknown Chapter"
 "Matchmaking_Creating"		"게임 만드는 중..."
+// Matchmaking strings
 "[english]Matchmaking_Creating"		"Creating game..."
 "Matchmaking_NoResultsCreating"		"요청과 일치하는 게임에 참가하지 못했습니다.\n새로운 공개 게임을 만드는 중..."
 "[english]Matchmaking_NoResultsCreating"		"Failed to join games matching your request.\nCreating a new public game..."
@@ -2440,6 +2490,7 @@
 "InviteError_SameConsole2"		"동일한 콘솔의 게임 초대를 수락할 수 없습니다."
 "[english]InviteError_SameConsole2"		"You cannot accept game invite from the same console."
 "L4D_Credits_VoicesTitle"		"성우:"
+// Intro movie subtitles
 "[english]L4D_Credits_VoicesTitle"		"Voices:"
 "L4D_Credits_Additional_Voices"		"추가 성우:"
 "[english]L4D_Credits_Additional_Voices"		"Additional Voices:"
@@ -2459,28 +2510,6 @@
 		"[english]L4D360UI_Not_Joinable_Mod"		"Playing Version: %s1"
 		"L4D2360_JoinError_OtherTitle_Modded"		"Player is running a different version of Alien Swarm: Reactive Drop.\n"
 		"[english]L4D2360_JoinError_OtherTitle_Modded"		"Player is running a different version of Alien Swarm: Reactive Drop.\n"
-"L4D2360_FoundGames_DLC"		"다운로드 콘텐츠"
-"[english]L4D2360_FoundGames_DLC"		"Downloadable Content"
-"L4D2360_FoundGames_DLC_Msg"		"Xbox LIVE 마켓플레이스에서\n필요한 콘텐츠를 다운로드하십시오.\n"
-"[english]L4D2360_FoundGames_DLC_Msg"		"Please, download required content\nfrom Xbox LIVE Marketplace\n"
-"SessionError_TU_RequiredTitle"		"버전 미호환"
-"[english]SessionError_TU_RequiredTitle"		"Incompatible Version"
-"SessionError_TU_RequiredMessage"		"이 게임에 참가하려면 업데이트를 설치해야 합니다.\nXbox LIVE에서 게임에 필요한 최신 업데이트를 다운로드하십시오."
-"[english]SessionError_TU_RequiredMessage"		"The game you are trying to join requires you to have updates installed.\nPlease, download the latest update for the game from Xbox LIVE."
-"SessionError_TU_Required_00000000"		"들어가시려는 게임은 2009년 11월 17일 부터 업데이트가 안되있습니다.\nXbox LIVE에서 게임에 필요한 업데이트를 다운로드해야 합니다."
-"[english]SessionError_TU_Required_00000000"		"The game you are trying to join hasn't been updated since November 17, 2009.\nUpdate for that game must be downloaded from Xbox LIVE."
-"SessionError_TU_Required_20091117"		"이 게임에 참가하려면 업데이트를 설치해야 합니다.\nXbox LIVE에서 게임에 필요한 최신 업데이트를 다운로드하십시오."
-"[english]SessionError_TU_Required_20091117"		"The game you are trying to join doesn't have required updates installed.\nUpdate for that game must be downloaded from Xbox LIVE."
-"SessionError_DLC_RequiredTitle_0"		"다운로드 콘텐츠"
-"[english]SessionError_DLC_RequiredTitle_0"		"Downloadable Content"
-"SessionError_DLC_RequiredKicked_0"		"다운로드 콘텐츠가 선택되어 게임에서 추방당했습니다.\n"
-"[english]SessionError_DLC_RequiredKicked_0"		"You were kicked from the game because downloadable content was selected.\n"
-"SessionError_DLC_RequiredJoin_0"		"다운로드 콘텐츠가 필요한 게임입니다.\n"
-"[english]SessionError_DLC_RequiredJoin_0"		"Game requires downloadable content.\n"
-"SessionError_DLC_RequiredMessage_0"		"Xbox LIVE 마켓플레이스에서 콘텐츠를 다운로드하십시오."
-"[english]SessionError_DLC_RequiredMessage_0"		"Please, download content from Xbox LIVE Marketplace."
-"SessionError_DLC_RequiredOffer_0"		"지금 Xbox LIVE 마켓플레이스에서 콘텐츠를 다운로드하시겠습니까?"
-"[english]SessionError_DLC_RequiredOffer_0"		"Would you like to download content from Xbox LIVE Marketplace now?"
 "ASUI_GameType"		"게임 유형"
 "[english]ASUI_GameType"		"GAME TYPE"
 "ASUI_GameType_tt"		"게임 유형을 선택하십시오."
@@ -2610,6 +2639,7 @@
 "L4D360UI_FoundPublicGames_Filter_Distance_Worldwide"		"전세계"
 "[english]L4D360UI_FoundPublicGames_Filter_Distance_Worldwide"		"Galaxy"
 		"RDUI_SteamOverlay_Title"		"Steam Overlay In-Game"
+		// Reactive Drop strings
 		"[english]RDUI_SteamOverlay_Title"		"Steam Overlay In-Game"
 		"RDUI_SteamOverlay_Text"		"This feature requires Steam Overlay In-Game to be enabled.\nYou might need to restart the game after you enable this feature in Steam:\nSteam -> Library -> Right-click on Alien Swarm: Reactive Drop -> Properties... -> Enable the Steam Overlay while in-game\n"
 		"[english]RDUI_SteamOverlay_Text"		"This feature requires Steam Overlay In-Game to be enabled.\nYou might need to restart the game after you enable this feature in Steam:\nSteam -> Library -> Right-click on Alien Swarm: Reactive Drop -> Properties... -> Enable the Steam Overlay while in-game\n"

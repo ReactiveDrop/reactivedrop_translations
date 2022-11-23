@@ -1,12 +1,12 @@
 GAME
 {
-	// PDA belongs to Shaun Ming
+// PDA belongs to Shaun Ming
 
-	// Inbox
+// Inbox
 
-	"MailFrom1"	"De: John Cain"
-	"MailDate1"	"Data: 24/12/52"
-	"MailSubject1"	"Assunto: Re: E sobre a Young?"
-	"MailBody1A"	"Não conseguimos encontrar ela em lugar nenhum."
-	"MailBody1B"	"As coisas estão fora de controle. Entrarei em contato com a sede da SynTek. Eu preciso da FAI aqui agora."
+"MailFrom1"	"De: John Cain"
+"MailDate1"	"Data: 24/12/52"
+"MailSubject1"	"Assunto: Re: E sobre a Young?"
+"MailBody1A"	"Não conseguimos encontrar ela em lugar nenhum."
+"MailBody1B"	"As coisas estão fora de controle. Entrarei em contato com a sede da SynTek. Eu preciso da FAI aqui agora."
 }

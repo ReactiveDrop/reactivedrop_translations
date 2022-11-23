@@ -1,30 +1,30 @@
 GAME
 {
-	// PDA belongs to Brian Howe
+// PDA belongs to Brian Howe
 
-	// Inbox
+// Inbox
 
-	"MailFrom1"	"Von: Laura Callen"
-	"MailDate1"	"Datum: 12/21/52"
-	"MailSubject1"	"Betreff: Informationsfluss"
-	"MailBody1A"	"Mr. Howe,"
-	"MailBody1B"	"warum hast du mich nicht über die Eier informiert, die du und dein Team letzte Woche in der Mine gefunden habt? Wenn du keine stichhaltige Begründung für dieses Versäumnis liefern kannst, muss ich einen Bericht einreichen."
-	"MailBody1C"	"L. Callen"
+"MailFrom1"	"Von: Laura Callen"
+"MailDate1"	"Datum: 12/21/52"
+"MailSubject1"	"Betreff: Informationsfluss"
+"MailBody1A"	"Mr. Howe,"
+"MailBody1B"	"warum hast du mich nicht über die Eier informiert, die du und dein Team letzte Woche in der Mine gefunden habt? Wenn du keine stichhaltige Begründung für dieses Versäumnis liefern kannst, muss ich einen Bericht einreichen."
+"MailBody1C"	"L. Callen"
 
-	"MailFrom2"	"Von: Laura Callen"
-	"MailDate2"	"Datum: 12/21/52"
-	"MailSubject2"	"Betreff: Aw:Aw: Informationsfluss"
-	"MailBody2A"	"Mr. Howe,"
-	"MailBody2B"	"Ich habe in meinen Unterlagen nachgesehen, aber ich sehe dein Memo nicht. Das ist beunruhigend. Ich habe mit dem Systemadministrator gesprochen, in der Hoffnung, eine Erklärung zu finden. Ich nehme den nächsten Zug zum Bahnhof Timor. Er kommt um 8:45 Uhr an. Kannst du mich abholen?"
-	"MailBody2C"	"L. Callen"
+"MailFrom2"	"Von: Laura Callen"
+"MailDate2"	"Datum: 12/21/52"
+"MailSubject2"	"Betreff: Aw:Aw: Informationsfluss"
+"MailBody2A"	"Mr. Howe,"
+"MailBody2B"	"Ich habe in meinen Unterlagen nachgesehen, aber ich sehe dein Memo nicht. Das ist beunruhigend. Ich habe mit dem Systemadministrator gesprochen, in der Hoffnung, eine Erklärung zu finden. Ich nehme den nächsten Zug zum Bahnhof Timor. Er kommt um 8:45 Uhr an. Kannst du mich abholen?"
+"MailBody2C"	"L. Callen"
 
-	// Sent
+// Sent
 
-	"MailFrom3"	"An: Laura Callen"
-	"MailDate3"	"Datum: 12/21/52"
-	"MailSubject3"	"Betreff: Aw: Informationsfluss"
-	"MailBody3A"	"Liebe Frau Callen,"
-	"MailBody3B"	"Ich habe das Verfahren befolgt. Ich habe dir vor 6 Tagen ein ausführliches Memo geschickt. Ich habe dich auch über die Sicherheitsprobleme informiert, die wir in letzter Zeit in der Timor Station hatten. Am Montag sind zwei Arbeiter verschwunden und heute gab es einen Todesfall."
-	"MailBody3C"	"Meine Männer sind erschöpft von der Doppelschichtarbeit. Die Hitze ist drückend und sie fangen an, vor Erschöpfung zu halluzinieren - sie berichten von unerklärlichen Geräuschen und so weiter. Ich möchte, dass du mit SynTek sprichst und dafür sorgst, dass sich die Lage hier so schnell wie möglich verbessert."
-	"MailBody3D"	"B. Howe"
+"MailFrom3"	"An: Laura Callen"
+"MailDate3"	"Datum: 12/21/52"
+"MailSubject3"	"Betreff: Aw: Informationsfluss"
+"MailBody3A"	"Liebe Frau Callen,"
+"MailBody3B"	"Ich habe das Verfahren befolgt. Ich habe dir vor 6 Tagen ein ausführliches Memo geschickt. Ich habe dich auch über die Sicherheitsprobleme informiert, die wir in letzter Zeit in der Timor Station hatten. Am Montag sind zwei Arbeiter verschwunden und heute gab es einen Todesfall."
+"MailBody3C"	"Meine Männer sind erschöpft von der Doppelschichtarbeit. Die Hitze ist drückend und sie fangen an, vor Erschöpfung zu halluzinieren - sie berichten von unerklärlichen Geräuschen und so weiter. Ich möchte, dass du mit SynTek sprichst und dafür sorgst, dass sich die Lage hier so schnell wie möglich verbessert."
+"MailBody3D"	"B. Howe"
 }

@@ -1,19 +1,19 @@
 GAME
 {
-	// PDA belongs to Charles Rivera
+// PDA belongs to Charles Rivera
 
-	// Inbox
+// Inbox
 
-	"MailFrom1"	"De: Laura Callen"
-	"MailDate1"	"Data: 23/12/52"
-	"MailSubject1"	"Assunto: Transferência de e-mail"
-	"MailBody1A"	"Sr. Rivera,"
-	"MailBody1B"	"Eu te perguntei dois dias atrás sobre os problemas que eu tenho tido. Você disse que ia dar uma olhada. Ainda não recebi uma resposta. Por que isso está demorando tanto?"
-	"MailBody1C"	"L. Callen"
+"MailFrom1"	"De: Laura Callen"
+"MailDate1"	"Data: 23/12/52"
+"MailSubject1"	"Assunto: Transferência de e-mail"
+"MailBody1A"	"Sr. Rivera,"
+"MailBody1B"	"Eu te perguntei dois dias atrás sobre os problemas que eu tenho tido. Você disse que ia dar uma olhada. Ainda não recebi uma resposta. Por que isso está demorando tanto?"
+"MailBody1C"	"L. Callen"
 
-	"MailFrom2"	"De: John Cain"
-	"MailDate2"	"Data: 24/12/52"
-	"MailSubject2"	"Assunto: Re: Callen ficando desconfiada"
-	"MailBody2A"	"Rivera: Ignore a Callen e saia do caminho dela. Me encaminhe todo e qualquer e-mail que ela enviou para o IA."
-	"MailBody2B"	"Ten. Cain, Segurança da SynTek"
+"MailFrom2"	"De: John Cain"
+"MailDate2"	"Data: 24/12/52"
+"MailSubject2"	"Assunto: Re: Callen ficando desconfiada"
+"MailBody2A"	"Rivera: Ignore a Callen e saia do caminho dela. Me encaminhe todo e qualquer e-mail que ela enviou para o IA."
+"MailBody2B"	"Ten. Cain, Segurança da SynTek"
 }

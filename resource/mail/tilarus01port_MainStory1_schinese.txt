@@ -1,15 +1,15 @@
 GAME
 {
-	// PDA belongs to Overseer Ross
+// PDA belongs to Overseer Ross
 
-	// Inbox
+// Inbox
 
-	"MailFrom1"	"发件人：指挥官哈罗德"
-	"MailDate1"	"日期：02/02/54"
-	"MailSubject1"	"主题：应急"
-	"MailBody1A"	"罗斯，早上好，"
-	"MailBody1B"	"看来清理人员都不知道从何下手了。"
-	"MailBody1c"	"但是我希望尽快清理这个烂摊子，我们都不希望这件事出现在新闻中，"
-	"MailBody1d"	"这可能会损害公司的信誉，但董事会正在设法掩盖这一点"
-	"MailBody1d"	"稍后将与您交谈，以获取有关进度的完整报告"
+"MailFrom1"	"发件人：指挥官哈罗德"
+"MailDate1"	"日期：02/02/54"
+"MailSubject1"	"主题：应急"
+"MailBody1A"	"罗斯，早上好，"
+"MailBody1B"	"看来清理人员都不知道从何下手了。"
+"MailBody1c"	"但是我希望尽快清理这个烂摊子，我们都不希望这件事出现在新闻中，"
+"MailBody1d"	"这可能会损害公司的信誉，但董事会正在设法掩盖这一点"
+"MailBody1d"	"稍后将与您交谈，以获取有关进度的完整报告"
 }

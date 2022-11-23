@@ -1,24 +1,24 @@
 GAME
 {
-	// PDA belongs to cave_geologist1
+// PDA belongs to cave_geologist1
 
-	// Inbox
+// Inbox
 
-	"MailFrom1"	"De: D.P.G."
-	"MailDate1"	"Data: 17/09/57"
-	"MailSubject1"	"Assunto: Re: Resultados preliminares do sistema de cavernas"
-	"MailBody1A"	"Bom trabalho Herbert, com base nos dados que você enviou em seu relatório, sou obrigado a concordar com você. O sistema de cavernas é instável demais para valer a pena o risco de extrair o minério de ferro."
-	"MailBody1B"	"Espero que os dispositivos a laser que eles nos enviaram tenham sido úteis para você. Infelizmente aquele novato, Jenson, se entusiasmou um pouco e causou um desabamento. Felizmente ninguém se feriu gravemente, embora o novato vá desejar que ele -estivesse- em coma quando a administração terminar com ele."
-	"MailBody1C"	"Claro que eu sei que não preciso lembrá-lo de ter cuidado usando isso."
-	"MailBody1D"	"- Jeff Taylor, Departamento de Pesquisa Geológica."
+"MailFrom1"	"De: D.P.G."
+"MailDate1"	"Data: 17/09/57"
+"MailSubject1"	"Assunto: Re: Resultados preliminares do sistema de cavernas"
+"MailBody1A"	"Bom trabalho Herbert, com base nos dados que você enviou em seu relatório, sou obrigado a concordar com você. O sistema de cavernas é instável demais para valer a pena o risco de extrair o minério de ferro."
+"MailBody1B"	"Espero que os dispositivos a laser que eles nos enviaram tenham sido úteis para você. Infelizmente aquele novato, Jenson, se entusiasmou um pouco e causou um desabamento. Felizmente ninguém se feriu gravemente, embora o novato vá desejar que ele -estivesse- em coma quando a administração terminar com ele."
+"MailBody1C"	"Claro que eu sei que não preciso lembrá-lo de ter cuidado usando isso."
+"MailBody1D"	"- Jeff Taylor, Departamento de Pesquisa Geológica."
 
-	// Sent
+// Sent
 
-	"MailFrom3"	"Para: D.P.G."
-	"MailDate3"	"Date: 17/09/57"
-	"MailSubject3"	"Assunto: Resultados preliminares do sistema de cavernas"
-	"MailBody3A"	"O sistema de cavernas perto do antigo posto avançado de comunicação é composto principalmente de arenito e outras rochas macias. Existem alguns bolsões de ferro e outros materiais mais fortes que permitem que as cavernas existam em um grau tão extenso."
-	"MailBody3B"	"No entando eu devo aconselha-lo contra a mineração, pois a estrutura geral é instável, em parte devido à composição de materiais macios mencionada anteriormente. Eu incluí um relatório mais completo em anexo."
-	"MailBody3C"	"Em nota: esses sistemas de cavernas são geologicamente bem interessantes. Eu nunca encontrei um exemplo de cavernas tão extensas como essas se formando sem a presença de chuvas. Se eu não soubesse melhor, eu poderia até dizer que eles não são totalmente naturais, mas foi confirmado que Tarnor nunca teve a capacidade de cultivar qualquer vida nativa."
-	"MailBody3D"	"- Herbert Graffson, Pesquisador de campo, Departamento de Pesquisa Geológica."
+"MailFrom3"	"Para: D.P.G."
+"MailDate3"	"Date: 17/09/57"
+"MailSubject3"	"Assunto: Resultados preliminares do sistema de cavernas"
+"MailBody3A"	"O sistema de cavernas perto do antigo posto avançado de comunicação é composto principalmente de arenito e outras rochas macias. Existem alguns bolsões de ferro e outros materiais mais fortes que permitem que as cavernas existam em um grau tão extenso."
+"MailBody3B"	"No entando eu devo aconselha-lo contra a mineração, pois a estrutura geral é instável, em parte devido à composição de materiais macios mencionada anteriormente. Eu incluí um relatório mais completo em anexo."
+"MailBody3C"	"Em nota: esses sistemas de cavernas são geologicamente bem interessantes. Eu nunca encontrei um exemplo de cavernas tão extensas como essas se formando sem a presença de chuvas. Se eu não soubesse melhor, eu poderia até dizer que eles não são totalmente naturais, mas foi confirmado que Tarnor nunca teve a capacidade de cultivar qualquer vida nativa."
+"MailBody3D"	"- Herbert Graffson, Pesquisador de campo, Departamento de Pesquisa Geológica."
 }
