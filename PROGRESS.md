@@ -443,28 +443,7 @@
 
 <details><summary>Strings</summary>
 
-- [gameui_italian.txt](resource/gameui_italian.txt) has 1 untranslated strings.
 - [reactivedrop_italian.txt](resource/reactivedrop_italian.txt) has 27 untranslated strings.
-
-</details>
-
-<details><summary>Steam Store and Community</summary>
-
-- [mappingcontest2023_italian.txt](community/workshop/mappingcontest2023_italian.txt) is missing.
-- [workshop_tags_italian.json](community/workshop/workshop_tags_italian.json) has 1 indented lines.
-- [storepage_81731_italian.json](store_page/storepage_81731_italian.json) has 1 indented lines.
-
-</details>
-
-<details><summary>Upcoming Release Notes</summary>
-
-- [20230420_italian.xml](release_notes/20230420_italian.xml) has 12 indented lines.
-
-</details>
-
-<details><summary>Mail and News</summary>
-
-- [nh_pda_jonathandorland_italian.txt](resource/mail/nh_pda_jonathandorland_italian.txt) is missing.
 
 </details>
 
