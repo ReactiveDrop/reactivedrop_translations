@@ -15,15 +15,15 @@ TODO
 
 TODO
 
-		[h1]Mapping Competition 2023: "Boss Fight"[/h1]
+[h1]Competizione di Mapping 2023: "Combattimento contro i Boss"[/h1]
 
-		This year, we're hosting our first annual community mapping competition, and what better place to start than at the end? The theme for this year is [b]Boss Fight[/b].
+Quest'anno ospiteremo il nostro primo concorso annuale di mapping della comunità e quale posto migliore per iniziare se non la fine? Il tema di quest'anno è [b]Combattimento contro i Boss[/b].
 
-		Create a mission or short campaign that contains a boss fight - a scripted encounter with some big bad that the marines must overcome. Will the boss be an alien, a group of aliens, or something completely new? Where will the mission take place? Why are the marines there? All of these questions and more are things you'll have to consider in the coming months.
+Create una missione o una breve campagna che contenga un combattimento con un boss: un incontro programmato con un grande cattivo che i soldati devono superare. Il boss sarà un alieno, un gruppo di alieni o qualcosa di completamente nuovo? Dove si svolgerà la missione? Perché i soldati sono lì? Tutte queste domande e altre ancora sono elementi che dovrete considerare nei prossimi mesi.
 
-		Or, if you have a better idea, go ahead and make that instead! AS:RD mapping competition themes are optional.
+Oppure, se avete un'idea migliore, fate pure quella! I temi del concorso di mapping AS:RD sono facoltativi.
 
-		Entries must be tagged with [b]BossFight2023[/b]. Competition starts today and ends August 1st. Prizes include unique ingame medals. If you need help getting started, check out the [url=https://steamcommunity.com/app/563560/discussions/1/]Modding / Mapping Help and Tips[/url] forum.
+I contributi devono essere etichettati con [b]BossFight2023[/b]. Il concorso inizia oggi e termina il 1° agosto. I premi includono medaglie uniche in gioco. Se hai bisogno di aiuto per iniziare, consulta il forum di [url=https://steamcommunity.com/app/563560/discussions/1/]Aiuto e suggerimenti per il modding/mapping[/url].
 
 [h1]In caso ve lo siate persi[/h1]
 
@@ -38,7 +38,7 @@ Ecco alcuni momenti salienti dagli aggiornamenti precedenti allo scorso annivers
 [*]Il riavvio di una missione non richiede più una schermata di caricamento.
 [/list]
 
-		[h1]Other changes in this update[/h1]
+[h1]Altri cambiamenti in questo aggiornamento[/h1]
 
 [h2]Campagne[/h2]
 [list]
@@ -53,8 +53,8 @@ Ecco alcuni momenti salienti dagli aggiornamenti precedenti allo scorso annivers
 [h2]Armi[/h2]
 [list]
 [*][b]Mina Laser a Pressione ML30:[/b] Miglioramento della previsione della rete per l'animazione del lancio.
-		[*]Fixed the scanning animation for sentries desynchronizing from the gun's idle angle.
-		[*]Fixed inconsistencies in collision-checking code, most notably related to bot marines and projectiles.
+[*]Corretta l'animazione di scansione per le sentinelle che si desincronizza dall'angolo di inattività dell'arma.
+[*]Corrette le incongruenze nel codice di controllo delle collisioni, soprattutto per quanto riguarda i soldati bot e i proiettili.
 [/list]
 
 [h2]Varie[/h2]
@@ -72,11 +72,11 @@ Ecco alcuni momenti salienti dagli aggiornamenti precedenti allo scorso annivers
 [list]
 [*]Aggiunti npc_crow, npc_pigeon e npc_seagull.
 [*]Ora asw_env_shake può essere contrassegnato per aggirare le impostazioni dell'utente (è stata aggiunta una nuova convar per disabilitare [i]tutte[/i] le scosse indipendentemente da questo flag).
-		[*]Added env_headcrabcanister.
-		[*]Added script_intro.
+[*]Aggiunto env_headcrabcanister.
+[*]Aggiunto script_intro.
 [/list]
 
-		[h2]VScript[/h2]
+[h2]VScript[/h2]
 [list]
-		[*]Added a new method to marines: SetMarineRolls, which allows maps and challenges to change whether individual marines can jump.
+[*]Aggiunto un nuovo metodo ai soldati: SetMarineRolls, che consente alle mappe e alle sfide di modificare la possibilità di salto dei singoli soldati.
 [/list]</string><string id="subtitle">È il Compleanno di Alien Swarm: Reactive Drop!</string><string id="summary">Oggi, Alien Swarm: Reactive Drop festeggia 6 anni su Steam! Ecco a voi una settimana di punti esperienza doppi, due nuove campagne e altro ancora per festeggiare.</string><string id="title">Aggiornamento di Alien Swarm: Reactive Drop - 20 Aprile 2023</string></content>
