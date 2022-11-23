@@ -300,6 +300,7 @@
 "L4D360UI_UnderConstruction"		"[Építés alatt]"
 "[english]L4D360UI_UnderConstruction"		"[Under Construction]"
 "L4D360UI_WaitScreen_WorkingMsg"		""
+//generic wait screen text and messages
 "[english]L4D360UI_WaitScreen_WorkingMsg"		""
 "L4D360UI_WaitScreen_CreatingLobby"		"Várószoba létrehozása"
 "[english]L4D360UI_WaitScreen_CreatingLobby"		"Creating a Lobby"
@@ -326,6 +327,7 @@
 "L4D360UI_WaitScreen_GameInFinale"		"A játék a fináléban van"
 "[english]L4D360UI_WaitScreen_GameInFinale"		"Game in Finale"
 "L4D360UI_Ok"		"OK"
+//shared strings
 "[english]L4D360UI_Ok"		"OK"
 "L4D360UI_Select"		"Választ"
 "[english]L4D360UI_Select"		"Select"
@@ -352,12 +354,14 @@
 "L4D360UI_Tooltip_Cancel"		"Visszalépés a változások elvetésével."
 "[english]L4D360UI_Tooltip_Cancel"		"Go back without keeping changes."
 "L4D360UI_Join_Anywhere"		"JÁTÉK KERESÉSE"
+//Public search options
 "[english]L4D360UI_Join_Anywhere"		"FIND A GAME"
 "L4D360UI_Join_At_Start"		"VÁRÓSZOBA KERESÉSE"
 "[english]L4D360UI_Join_At_Start"		"FIND A GAME LOBBY"
 "L4D360UI_Join_Create"		"JÁTÉK LÉTREHOZÁSA"
 "[english]L4D360UI_Join_Create"		"CREATE A GAME"
 "L4D360UI_MsgBx_NeedTwoProfilesC"		"Játék osztott képernyőn"
+//generic error messages
 "[english]L4D360UI_MsgBx_NeedTwoProfilesC"		"Play Splitscreen"
 "L4D360UI_MsgBx_NeedTwoProfilesTxt"		"Osztott képernyős játékhoz két játékosprofillal kell bejelentkezni."
 "[english]L4D360UI_MsgBx_NeedTwoProfilesTxt"		"Two gamer profiles must be signed in to play splitscreen."
@@ -438,6 +442,7 @@
 "L4D360UI_MsgBx_GuestsUnavailableToGuests"		"Vendégek nem érhetnek el vagy tekinthetnek meg teljesítményeket."
 "[english]L4D360UI_MsgBx_GuestsUnavailableToGuests"		"Guests are not allowed to unlock or view achievement scores."
 "L4D360UI_GameSettings_LiveOpen"		"Játékbeállítások: NYILVÁNOS JÁTÉK"
+//Game Settings
 "[english]L4D360UI_GameSettings_LiveOpen"		"Game Settings: PUBLIC GAME"
 "L4D360UI_GameSettings_LiveFriends"		"Játékbeállítások: JÁTÉK CSAK BARÁTOKKAL"
 "[english]L4D360UI_GameSettings_LiveFriends"		"Game Settings: FRIENDS-ONLY GAME"
@@ -496,12 +501,15 @@
 "L4D360UI_GameSettings_Tooltip_Create_Lobby"		"Váró létrehozása ezekkel a beállításokkal."
 "[english]L4D360UI_GameSettings_Tooltip_Create_Lobby"		"Create a lobby with these settings."
 "L4D360UI_ShowUnlockableAwards"		"Avatár kitüntetések megjelenítése"
+// Unlockable Awards
 "[english]L4D360UI_ShowUnlockableAwards"		"Display Avatar Awards"
 "L4D360UI_ShowAchievements"		"Teljesítmények megjelenítése"
 "[english]L4D360UI_ShowAchievements"		"Display Achievements"
 "L4D360UI_Attract_PressStart"		"NYOMJ START-OT"
+//Attract Screen
 "[english]L4D360UI_Attract_PressStart"		"PRESS START"
 "L4D360UI_SignIn_Title"		" Üdvözlünk, %s1"
+//Sign In Screen
 "[english]L4D360UI_SignIn_Title"		" Welcome, %s1"
 "L4D360UI_SignIn_TitleNo"		" Üdvözlünk"
 "[english]L4D360UI_SignIn_TitleNo"		" Welcome"
@@ -520,6 +528,7 @@
 "L4D360UI_SignIn_CancelSignIn"		"Mégse"
 "[english]L4D360UI_SignIn_CancelSignIn"		"Cancel"
 "L4D360UI_MainMenu_CoOp"		"ONLINE JÁTÉK"
+//Main Menu
 "[english]L4D360UI_MainMenu_CoOp"		"PLAY ONLINE"
 "L4D360UI_MainMenu_Holdout"		"TÚLÉLŐ MÓD"
 "[english]L4D360UI_MainMenu_Holdout"		"PLAY HOLDOUT"
@@ -684,6 +693,7 @@
 "L4D360UI_Character_Guest"		"Játékos"
 "[english]L4D360UI_Character_Guest"		"Player"
 "L4D360UI_InGameMainMenu_ReturnToGame"		"VISSZA A JÁTÉKBA"
+//In Game Main Menu
 "[english]L4D360UI_InGameMainMenu_ReturnToGame"		"RETURN TO GAME"
 "L4D360UI_InGameMainMenu_ReturnToGame_Tip"		"Kilépés a menüből és a játék folytatása."
 "[english]L4D360UI_InGameMainMenu_ReturnToGame_Tip"		"Leave this menu and continue playing."
@@ -712,10 +722,12 @@
 "L4D360UI_InGameMainMenu_ExitToMainMenu_Tip"		"Elhagyod ezt a játékot."
 "[english]L4D360UI_InGameMainMenu_ExitToMainMenu_Tip"		"Leave this game."
 "L4D360UI_VoteMenu_YesBinding"		"Igen: START"
+// Vote menu
 "[english]L4D360UI_VoteMenu_YesBinding"		"Yes: START"
 "L4D360UI_VoteMenu_NoBinding"		"Nem: VISSZA"
 "[english]L4D360UI_VoteMenu_NoBinding"		"No: BACK"
 "L4D360UI_InviteUIOptions"		"ONLINE TÖBBJÁTÉKOS"
+// Invite UI options
 "[english]L4D360UI_InviteUIOptions"		"ONLINE MULTIPLAYER"
 "L4D360UI_InviteUIOptions_Tip"		"Hangkommunikáció-csatorna megváltoztatása vagy játék-meghívás küldése."
 "[english]L4D360UI_InviteUIOptions_Tip"		"Change voice chat channel or send game invites."
@@ -764,6 +776,7 @@
 "L4D360UI_InviteUI_gamevoiceui_Tip_Disabled"		""
 "[english]L4D360UI_InviteUI_gamevoiceui_Tip_Disabled"		""
 "L4D360UI_Lobby_EmptySlotAd"		"Szabad játékoshely"
+//Game Lobby Screen
 "[english]L4D360UI_Lobby_EmptySlotAd"		"Player Slot Available"
 "L4D360UI_Lobby_SplitSlotAd"		"Kettes játékos: jelentkezz be az osztott képernyős játékhoz"
 "[english]L4D360UI_Lobby_SplitSlotAd"		"Player Two, Sign in for Splitscreen"
@@ -990,6 +1003,7 @@
 "L4D360UI_Lobby_Player_Left"		"%s1 kilépett."
 "[english]L4D360UI_Lobby_Player_Left"		"%s1 left."
 "L4D360UI_GameAccess"		"Játék hozzáférése"
+//Player Access screen
 "[english]L4D360UI_GameAccess"		"Game Access"
 "L4D360UI_Access_Description"		"Azok csoportjának meghatározása, akikkel játszani szeretnél."
 "[english]L4D360UI_Access_Description"		"Specify a group of people you would like to play with."
@@ -1014,16 +1028,19 @@
 "L4D360UI_Access_Tooltip_Invite"		"Bizonyos emberek meghívása a játékodba."
 "[english]L4D360UI_Access_Tooltip_Invite"		"Invite specific people to your game."
 "L4D360UI_ServerType_Official"		"Hivatalos dedikált"
+//Server type screen
 "[english]L4D360UI_ServerType_Official"		"Official Dedicated"
 "L4D360UI_ServerType_Dedicated"		"Elérhető legjobb dedikált"
 "[english]L4D360UI_ServerType_Dedicated"		"Best Available Dedicated"
 "L4D360UI_ServerType_Listen"		"Helyi szerver"
 "[english]L4D360UI_ServerType_Listen"		"Local Server"
 "L4D360UI_AudioVideo_Title"		"HANG/KÉP BEÁLLÍTÁSOK"
+//Audio Video
 "[english]L4D360UI_AudioVideo_Title"		"AUDIO/VIDEO OPTIONS"
 "L4D360UI_AudioVideo_Desc"		"A hardverednek és igényeidnek megfelelő optimális beállítások megtalálása."
 "[english]L4D360UI_AudioVideo_Desc"		"Find your optimal settings based on your hardware and preferences."
 "L4D360UI_AudioOptions_Volume"		"FŐ HANGERŐ"
+//Audio Options
 "[english]L4D360UI_AudioOptions_Volume"		"MASTER VOLUME"
 "L4D360UI_AudioOptions_Tooltip_Volume"		"A játék hangerejének beállítása."
 "[english]L4D360UI_AudioOptions_Tooltip_Volume"		"Adjust the volume of the game."
@@ -1070,6 +1087,7 @@
 "L4D360UI_AudioOptions_Tooltip_Volume_Disabled"		"A hangerő változtatása jelenleg nem lehetséges."
 "[english]L4D360UI_AudioOptions_Tooltip_Volume_Disabled"		"Adjusting the volume is currently disabled."
 "L4D360UI_VideoOptions_Brightness"		"FÉNYERŐ"
+//Video Options
 "[english]L4D360UI_VideoOptions_Brightness"		"BRIGHTNESS"
 "L4D360UI_VideoOptions_Tooltip_Brightness"		"A gamma-korrekció beállítása."
 "[english]L4D360UI_VideoOptions_Tooltip_Brightness"		"Gamma-correct your screen."
@@ -1150,6 +1168,7 @@
 "L4D360UI_DropDownGore_Low_Tooltip_Disabled"		"Vérmennyiség beállítása nem lehetséges."
 "[english]L4D360UI_DropDownGore_Low_Tooltip_Disabled"		"Gore modification not available."
 "L4D360UI_Multiplayer_Desc"		"Többjátékos játékmód beállításainak megadása."
+//Multiplayer Options
 "[english]L4D360UI_Multiplayer_Desc"		"Configure settings and preferences for multiplayer gaming."
 "L4D360UI_Multiplayer_AllowCustomContent"		"Egyedi szervertartalom"
 "[english]L4D360UI_Multiplayer_AllowCustomContent"		"Custom Server Content"
@@ -1182,6 +1201,7 @@
 "L4D360UI_DownloadFilter_Title"		"Szűkíti az egyedi tartalmat használó szerver által a gépedre letölthető fájlok fajtáit."
 "[english]L4D360UI_DownloadFilter_Title"		"Filter the files that a game server with custom content can download to your computer."
 "L4D360UI_Cloud_Title"		"Steam Felhő"
+//Cloud Options
 "[english]L4D360UI_Cloud_Title"		"Steam Cloud"
 "L4D360UI_Cloud_Subtitle"		"A Steam Felhő információkat tárol, melyekkel játékélményed különböző PC-ken ugyanolyan lesz."
 "[english]L4D360UI_Cloud_Subtitle"		"The Steam Cloud stores information so your gameplay experience is consistent across PCs."
@@ -1214,6 +1234,7 @@
 "L4D360UI_SteamOverlay_Text"		"Ehhez a funkcióhoz engedélyezni kell a játék közbeni Steam közösséget.\n\nLehet, hogy miután engedélyezted a funkciót a Steamben, újra kell indítani a játékot:\nSteam -> Beállítások -> Játék közben: A Steam közösség engedélyezése játékon belül\n"
 "[english]L4D360UI_SteamOverlay_Text"		"This feature requires Steam Community In-Game to be enabled.\n\nYou might need to restart the game after you enable this feature in Steam:\nSteam -> File -> Settings -> In-Game: Enable Steam Community In-Game\n"
 "L4D360UI_AddonAssociation_Title"		"Kiegészítők automatikus telepítése"
+//Add-on Assocation Options
 "[english]L4D360UI_AddonAssociation_Title"		"Automatic Add-on Installation"
 "L4D360UI_AddonAssociation_Subtitle"		"Az Alien Swarm szeretné társítani magát a .vpk kiterjesztésű fájlokhoz. Ez könnyebbé teszi a kiegészítők telepítését, mert csak duplán kell kattintanod rájuk. Kívánod ezt engedélyezni?"
 "[english]L4D360UI_AddonAssociation_Subtitle"		"Alien Swarm would like to associate with files using the .vpk extension. This allows easier installation of add-ons by allowing you to double click on them. Do you wish to allow this?"
@@ -1240,6 +1261,7 @@
 "L4D360UI_ADDON_SUPPORT_INSTALLING_DETAILS"		"A letöltés állapotát ellenőrizheted a Steam Kellékek kategóriájában."
 "[english]L4D360UI_ADDON_SUPPORT_INSTALLING_DETAILS"		"Check download progress in the Steam Tools tab."
 "L4D360UI_GetLegacyData_Title"		"Kiegészítő-támogatási adatok letöltése"
+//Add-on Legacy Data Download Options
 "[english]L4D360UI_GetLegacyData_Title"		"Download Add-on Support Data"
 "L4D360UI_GetLegacyData_Subtitle"		"Az Alien Swarm szeretne további játék-adatokat letölteni, melyekre számos kiegészítőnek szüksége van a helyes működéshez. Ezeket a Steam Kellékek kategóriájából is lehet telepíteni.\n\nSzeretnéd most telepíteni ezeket a kiegészítő adatokat?"
 "[english]L4D360UI_GetLegacyData_Subtitle"		"Alien Swarm would like to download additional game data that many add-ons require to work properly. It can also be installed from the Tools tab in Steam.\n\nDo you wish to install this additional game data now?"
@@ -1254,6 +1276,7 @@
 "L4D360UI_GetLegacyData_OK"		"OK"
 "[english]L4D360UI_GetLegacyData_OK"		"OK"
 "L4D360UI_DownloadCampaign_Title"		"Kiegészítő hadjárat letöltése"
+//Download Campaign Options
 "[english]L4D360UI_DownloadCampaign_Title"		"Download Campaign AddOn"
 "L4D360UI_DownloadCampaign_Subtitle"		"Egyedi külső fejlesztésű hadjárat letöltése."
 "[english]L4D360UI_DownloadCampaign_Subtitle"		"Download a custom third party campaign."
@@ -1270,14 +1293,17 @@
 "L4D360UI_DownloadCampaign_Back"		"Vissza"
 "[english]L4D360UI_DownloadCampaign_Back"		"Back"
 "L4D360UI_VisitCampaign_Title"		"Kiegészítő hadjárat weboldalának meglátogatása"
+//Visit Campaign Website Options
 "[english]L4D360UI_VisitCampaign_Title"		"Visit Campaign Add-on Website"
 "L4D360UI_VisitCampaign_Text"		"Át fogsz váltani az Alien Swarmról, és meglátogatod egy egyedi kiegészítő weboldalát."
 "[english]L4D360UI_VisitCampaign_Text"		"You are about to switch out of Alien Swarm and visit the website for a custom add-on."
 "L4D360UI_Lobby_MissingContent"		"Letölthető tartalom szükséges"
+//Kicked for missing content
 "[english]L4D360UI_Lobby_MissingContent"		"Downloadable Content Required"
 "L4D360UI_Lobby_MissingContent_Message"		"Kiléptettek a váróból, mert a játék-házigazda olyan hadjáratot választott, ami nálad nincs telepítve."
 "[english]L4D360UI_Lobby_MissingContent_Message"		"You were removed from the lobby because the host has selected a campaign that is not installed."
 "L4D360UI_Extras_WatchMovie"		"Intró megnézése"
+//Extras
 "[english]L4D360UI_Extras_WatchMovie"		"Watch Intro Movie"
 "L4D360UI_Extras_Commentary"		"Fejlesztői kommentár"
 "[english]L4D360UI_Extras_Commentary"		"Developer Commentary"
@@ -1300,6 +1326,7 @@
 "L4D360UI_Extras_Addons_Tip"		"A számítógépedre letöltött játék-kiegészítők engedélyezése és beállítása"
 "[english]L4D360UI_Extras_Addons_Tip"		"Enable and configure game add-ons downloaded to your computer"
 "L4D360UI_RoundLimit"		"KÖRLIMIT"
+//Round Limit settings
 "[english]L4D360UI_RoundLimit"		"ROUND LIMIT"
 "L4D360UI_RoundLimit_Tip"		"Add meg, hány kört akarsz játszani."
 "[english]L4D360UI_RoundLimit_Tip"		"Specify how many rounds you are willing to play."
@@ -1310,6 +1337,7 @@
 "L4D360UI_RoundLimit_5"		"Ötből a legjobb"
 "[english]L4D360UI_RoundLimit_5"		"Best of Five"
 "L4D360UI_ChooseDifficulty"		"Játék nehézségének kiválasztása"
+//Choose difficulty screen
 "[english]L4D360UI_ChooseDifficulty"		"Select Game Difficulty"
 "L4D360UI_Difficulty_Description"		"Válaszd ki azt a nehézségi fokozatot, amit a legmegfelelőbbnek érzel."
 "[english]L4D360UI_Difficulty_Description"		"Specify the level of difficulty you are most comfortable with."
@@ -1364,6 +1392,7 @@
 "L4D360UI_Difficulty_Tooltip_insane"		"Játék Szakértő módban (a legnagyobb kihívást jelentő túlélő-élményhez)."
 "[english]L4D360UI_Difficulty_Tooltip_insane"		"Play this game in Expert mode (for the most challenging Survivor experience)."
 "L4D360UI_ChooseCampaign"		"Hadjárat kiválasztása"
+//Choose campaign screen
 "[english]L4D360UI_ChooseCampaign"		"Select a Campaign"
 "L4D360UI_Campaign_Description"		"Válaszd ki, melyik hadjáratot szeretnéd végigjátszani."
 "[english]L4D360UI_Campaign_Description"		"Specify which campaign you would like to play."
@@ -1376,12 +1405,14 @@
 "L4D360UI_Chapter_Only1Avail"		"Nincs több fejezet"
 "[english]L4D360UI_Chapter_Only1Avail"		"No More Chapters"
 "L4D360UI_KickPlayerList_Title"		"Kirúgandó játékos kiválasztása"
+//Kick Player screen
 "[english]L4D360UI_KickPlayerList_Title"		"Select Player to Kick"
 "L4D360UI_KickPlayerList_Description"		"Válaszd ki azt a játékost, akit ki akarsz rúgni."
 "[english]L4D360UI_KickPlayerList_Description"		"Choose the player you would like to kick."
 "L4D360UI_KickPlayerList_No_eligible_players"		"Nincs több olyan játékos a csapatodban, akit ki lehetne rúgni."
 "[english]L4D360UI_KickPlayerList_No_eligible_players"		"There are no players on your team who are eligible to be kicked."
 "L4D360UI_Mode_campaign"		"Hadjárat"
+//Found Games screen
 "[english]L4D360UI_Mode_campaign"		"Campaign"
 "L4D360UI_Mode_single_mission"		"Önálló küldetés"
 "[english]L4D360UI_Mode_single_mission"		"Single Mission"
@@ -1404,10 +1435,12 @@
 "L4D360UI_FoudGames_CreateNewFlyout"		"Játék létrehozása"
 "[english]L4D360UI_FoudGames_CreateNewFlyout"		"Create Game"
 "L4D360UI_FoudGames_CustomMatch_campaign"		"További keresési beállítások"
+// Localized as "Campaign Game Search" and "Versus Game Search" and etc.
 "[english]L4D360UI_FoudGames_CustomMatch_campaign"		"More Search Options"
 "L4D360UI_FoudGames_CustomMatch_single_mission"		"További keresési beállítások"
 "[english]L4D360UI_FoudGames_CustomMatch_single_mission"		"More Search Options"
 "L4D360UI_FOUNDGAMES_ADDON_SUPPORT_REQUIRED"		"A külső fejlesztésű hadjáratokhoz kiegészítő-támogatás szükséges."
+//Found Games screen
 "[english]L4D360UI_FOUNDGAMES_ADDON_SUPPORT_REQUIRED"		"Add-on support is required to play third party campaigns."
 "L4D360UI_FoundGames_Friends"		"BARÁTOK ELÉRHETŐ JÁTÉKAI"
 "[english]L4D360UI_FoundGames_Friends"		"FRIENDS' GAMES FOUND"
@@ -1546,6 +1579,7 @@
 "L4D360UI_FoundPublicGames_Filter_Label_Tip"		"Keresendő játékok és várószobák szűréséhez."
 "[english]L4D360UI_FoundPublicGames_Filter_Label_Tip"		"Filter which games and lobbies are found."
 "L4D360UI_FoundPublicGames_Status"		"%s1, %s2"
+// Expands to L4D360UI_FoundGames_LobbyCount, L4D360UI_FoundGames_GameCountInProgress
 "[english]L4D360UI_FoundPublicGames_Status"		"%s1, %s2"
 "L4D360UI_FoundPublicGames_Status_None"		"Nincs folyamatban lévő játék vagy várószoba"
 "[english]L4D360UI_FoundPublicGames_Status_None"		"No Lobbies or Games in Progress"
@@ -1614,6 +1648,7 @@
 "L4D360UI_FoundPublicGames_Filter_Campaign_NotInstalledAddOn_Tip"		"Szűrés csak olyan játékokra, melyekhez a szükséges kiegészítő hadjárat nincs telepítve."
 "[english]L4D360UI_FoundPublicGames_Filter_Campaign_NotInstalledAddOn_Tip"		"Filter for games that are only using not installed add-on campaigns."
 "L4D360UI_Controller_Title"		"JÁTÉKVEZÉRLŐ-BEÁLLÍTÁSOK (%s1)"
+//Controller Screen
 "[english]L4D360UI_Controller_Title"		"CONTROLLER OPTIONS (%s1)"
 "L4D360UI_Controller_Buttons_Title"		"GOMBKIOSZTÁS (%s1)"
 "[english]L4D360UI_Controller_Buttons_Title"		"BUTTON LAYOUT (%s1)"
@@ -1988,6 +2023,7 @@
 "GameUI_Icons_LOBBY"		"i"
 "[english]GameUI_Icons_LOBBY"		"i"
 "L4D360UI_MultiPlayer_CreateLiveGame"		"Xbox LIVE játék létrehozása"
+// tooltips
 "[english]L4D360UI_MultiPlayer_CreateLiveGame"		"Create an Xbox LIVE Game"
 "L4D360UI_MultiPlayer_FindLiveGame"		"Xbox LIVE játék keresése"
 "[english]L4D360UI_MultiPlayer_FindLiveGame"		"Find an Xbox LIVE Game"
@@ -2012,6 +2048,7 @@
 "L4D360UI_Controller_SwapJoysticks"		"Karok felcserélése; a NÉZELŐDÉS bal oldalon, a MOZGÁS a jobb oldalon."
 "[english]L4D360UI_Controller_SwapJoysticks"		"Swap the controller sticks so that LOOK is on the left and MOVE on the right."
 		"L4D360UI_Loading_Starring"		"Commanders: "
+		// Loading posters
 		"[english]L4D360UI_Loading_Starring"		"Commanders: "
 		"L4D360UI_Loading_Costarring"		"Commanders: "
 		"[english]L4D360UI_Loading_Costarring"		"Commanders: "
@@ -2022,6 +2059,7 @@
 "L4D360UI_Loading_GameMode_single_mission"		"Csatlakozás önálló küldetéses játékhoz."
 "[english]L4D360UI_Loading_GameMode_single_mission"		"Joining a Single Mission game."
 "L4D360UI_My_Achievements"		"Teljesítmények"
+// achievements
 "[english]L4D360UI_My_Achievements"		"Achievements"
 "L4D360UI_My_Achievements_Desc"		"Eddig elért teljesítményeid listájának megnézése."
 "[english]L4D360UI_My_Achievements_Desc"		"See the list of Achievements you have earned so far."
@@ -2038,6 +2076,7 @@
 "L4D360UI_Scroll_Progress"		"%s1 - %s2 / %s3"
 "[english]L4D360UI_Scroll_Progress"		"%s1 - %s2 of %s3"
 "L4D360UI_My_Addons"		"KIEGÉSZÍTŐK"
+// Addons
 "[english]L4D360UI_My_Addons"		"Add-ons"
 "L4D360UI_My_Addons_Desc"		"Jelöld ki az egyedi kiegészítőket elérhetővé tételükhöz egyjátékos módban és helyi szerveren."
 "[english]L4D360UI_My_Addons_Desc"		"Check custom add-ons to enable them for single player and locally hosted games."
@@ -2072,6 +2111,7 @@
 "L4D360UI_Addon_DoNotAssociate"		"Ne próbálja társítani a .VPK kiegészítő fájlokat"
 "[english]L4D360UI_Addon_DoNotAssociate"		"Do not attempt to associate .VPK add-on files"
 "L4D360UI_MsgBx_StorageDeviceRemoved"		"Érvényes tárolóeszköz nélkül a beállítások és a játékállás nem kerül mentésre."
+// TCR additions
 "[english]L4D360UI_MsgBx_StorageDeviceRemoved"		"Preferences and game progress will not be saved without a valid storage device."
 "L4D360UI_MsgBx_ControllerUnpluggedTitle"		"Játékvezérlő kihúzva"
 "[english]L4D360UI_MsgBx_ControllerUnpluggedTitle"		"Controller Unplugged"
@@ -2088,6 +2128,7 @@
 "L4D360UI_MsgBx_GuestProfile_Dismissed"		"Bejelentkezés-váltás miatt ki lettél léptetve a játékból."
 "[english]L4D360UI_MsgBx_GuestProfile_Dismissed"		"You have been removed the game due to a sign-in change."
 "L4D_Friend_Online"		"Online"
+// Friend status
 "[english]L4D_Friend_Online"		"Online"
 "L4D_Friend_Away"		"Távol van"
 "[english]L4D_Friend_Away"		"Away"
@@ -2124,6 +2165,7 @@
 "L4D360UI_LeaveLobbyConfLive_PC"		"Jelenleg tagja vagy egy online várószobának."
 "[english]L4D360UI_LeaveLobbyConfLive_PC"		"You are currently part of an online game lobby."
 "L4D_video_tip"		"Videobeállítások konfigurálása a rendszered képességeinek és követelményeinek megfelelően."
+// Main Menu
 "[english]L4D_video_tip"		"Configure video settings based on your system's abilities and requirements."
 "L4D_audio_tip"		"Hangbeállítások konfigurálása igényeidnek és hangszóró-készletednek megfelelően."
 "[english]L4D_audio_tip"		"Configure audio settings based on your preferences and speakers."
@@ -2136,6 +2178,7 @@
 "L4D_steamcloud_disabled_tip"		"A Steam Felhő jelenleg nem érhető el."
 "[english]L4D_steamcloud_disabled_tip"		"Steam Cloud is currently unavailable."
 "L4D_aspect_ratio_tip"		"Megjelenítés szélességének és magasságának beállítása."
+// Video Options
 "[english]L4D_aspect_ratio_tip"		"Adjust the width and height of your display."
 "L4D_resolution_tip"		"Megjelenítés részletességi szintjének beállítása."
 "[english]L4D_resolution_tip"		"Adjust the level of detail of your display."
@@ -2168,6 +2211,7 @@
 "L4D_paged_pool_mem_tip"		"Magasabb vagy alacsonyabb illesztőprogram-memóriahasználat beállítása."
 "[english]L4D_paged_pool_mem_tip"		"Configure your driver to allocate less or more memory."
 "L4D_spkr_config_tip"		"Hangszórókiosztás és csatornák beállítása."
+// Audio Options
 "[english]L4D_spkr_config_tip"		"Configure speaker layout and channels."
 "L4D_sound_qual_tip"		"Hangminőség beállítása."
 "[english]L4D_sound_qual_tip"		"Adjust sound quality."
@@ -2192,6 +2236,7 @@
 "L4D_test_mic_tip"		"Mikrofon megfelelő működésének ellenőrzése."
 "[english]L4D_test_mic_tip"		"Test whether your microphone is functioning properly."
 "L4D_edit_keys_tip"		"Billentyűzet, egér és játékvezérlő gombkiosztásának beállítása."
+// Keyboard Options
 "[english]L4D_edit_keys_tip"		"Choose your preferred keyboard, mouse, and gamepad button layout."
 "L4D_reverse_mouse_tip"		"Egérműködés irányának megfordítása."
 "[english]L4D_reverse_mouse_tip"		"Invert the directions of your mouse."
@@ -2216,6 +2261,7 @@
 		"L4D_gamepad_autoattack_tip"		"Automatically shoot while holding the aiming stick."
 		"[english]L4D_gamepad_autoattack_tip"		"Automatically shoot while holding the aiming stick."
 "L4D_import_spray_tip"		"Játékban használható játékoslogó importálása."
+// Multiplayer Options
 "[english]L4D_import_spray_tip"		"Import a new spray image to use in-game."
 "L4D_import_game_instruct"		"Játék közbeni hasznos segítő üzenetek engedélyezése vagy tiltása."
 "[english]L4D_import_game_instruct"		"Enable or disable helpful real-time hints during gameplay."
@@ -2224,6 +2270,7 @@
 "L4D360UI_MainMenu_ServerBrowser_Tip"		"Játékon belüli szerverböngésző megjelenítése."
 "[english]L4D360UI_MainMenu_ServerBrowser_Tip"		"Show the in-game server browser."
 "L4D360UI_LegacyOn"		"Hagyományos mód kikapcsolása"
+// Legacy controls
 "[english]L4D360UI_LegacyOn"		"Turn Legacy Off"
 "L4D360UI_LegacyOff"		"Hagyományos mód bekapcsolása"
 "[english]L4D360UI_LegacyOff"		"Turn Legacy On"
@@ -2280,6 +2327,7 @@
 "L4D360UI_MsgBx_NeedLiveGeneric"		"A művelet végrehajtásához be kell jelentkezned az Xbox LIVE-ba."
 "[english]L4D360UI_MsgBx_NeedLiveGeneric"		"You must be signed in to Xbox LIVE to perform that action."
 "L4D360UI_Leaderboard_Rank"		"Helyezés"
+// Leaderboard
 "[english]L4D360UI_Leaderboard_Rank"		"Rank"
 "L4D360UI_Leaderboard_Gamertag"		"Gamertag"
 "[english]L4D360UI_Leaderboard_Gamertag"		"Gamertag"
@@ -2316,6 +2364,7 @@
 "L4D360UI_MsgBx_KickedFromSessionDLCrequired"		"A házigazda olyan kampányt választott, ami a Túlélő Csomag része.\nSzeretnéd letölteni a Túlélő Csomagot az Xbox LIVE Piactérről?"
 "[english]L4D360UI_MsgBx_KickedFromSessionDLCrequired"		"The host has selected a campaign that is provided with the Survival Pack.\nWould you like to download Survival Pack content from Xbox LIVE Marketplace?"
 "L4D360UI_My_CustomCampaigns"		"KIEGÉSZÍTŐ HADJÁRATOK"
+// Addon campaigns
 "[english]L4D360UI_My_CustomCampaigns"		"ADDON CAMPAIGNS"
 "L4D360UI_My_CustomCampaigns_Desc"		"Válassz kiegészítő hadjáratot."
 "[english]L4D360UI_My_CustomCampaigns_Desc"		"Choose an addon campaign."
@@ -2364,6 +2413,7 @@
 "L4D360UI_LevelName_Unknown"		"Ismeretlen fejezet"
 "[english]L4D360UI_LevelName_Unknown"		"Unknown Chapter"
 "Matchmaking_Creating"		"Játék létrehozása..."
+// Matchmaking strings
 "[english]Matchmaking_Creating"		"Creating game..."
 "Matchmaking_NoResultsCreating"		"Nem sikerült a kérésednek megfelelő játékhoz csatlakozni.\nÚj nyilvános játék létrehozása folyamatban..."
 "[english]Matchmaking_NoResultsCreating"		"Failed to join games matching your request.\nCreating a new public game..."
@@ -2440,6 +2490,7 @@
 "InviteError_SameConsole2"		"Nem fogadhatsz el játék-meghívást ugyanarról a konzolról."
 "[english]InviteError_SameConsole2"		"You cannot accept game invite from the same console."
 "L4D_Credits_VoicesTitle"		"Hangok:"
+// Intro movie subtitles
 "[english]L4D_Credits_VoicesTitle"		"Voices:"
 "L4D_Credits_Additional_Voices"		"További hangok:"
 "[english]L4D_Credits_Additional_Voices"		"Additional Voices:"
@@ -2459,28 +2510,6 @@
 		"[english]L4D360UI_Not_Joinable_Mod"		"Playing Version: %s1"
 		"L4D2360_JoinError_OtherTitle_Modded"		"Player is running a different version of Alien Swarm: Reactive Drop.\n"
 		"[english]L4D2360_JoinError_OtherTitle_Modded"		"Player is running a different version of Alien Swarm: Reactive Drop.\n"
-"L4D2360_FoundGames_DLC"		"Letölthető tartalom"
-"[english]L4D2360_FoundGames_DLC"		"Downloadable Content"
-"L4D2360_FoundGames_DLC_Msg"		"Kérjük, töltsd le a szükséges tartalmat\naz Xbox LIVE piactérről\n"
-"[english]L4D2360_FoundGames_DLC_Msg"		"Please, download required content\nfrom Xbox LIVE Marketplace\n"
-"SessionError_TU_RequiredTitle"		"Eltérő verzió"
-"[english]SessionError_TU_RequiredTitle"		"Incompatible Version"
-"SessionError_TU_RequiredMessage"		"A játék, amihez csatlakozni próbálsz, frissítések telepítését igényli.\nKérjük, töltsd le a játék legújabb frissítését az Xbox LIVE-ról."
-"[english]SessionError_TU_RequiredMessage"		"The game you are trying to join requires you to have updates installed.\nPlease, download the latest update for the game from Xbox LIVE."
-"SessionError_TU_Required_00000000"		"A játék, amihez csatlakozni próbálsz, 2009. november 17. óta nem volt frissítve.\nFrissítést kell letölteni ahhoz a játékhoz az Xbox LIVE-ról."
-"[english]SessionError_TU_Required_00000000"		"The game you are trying to join hasn't been updated since November 17, 2009.\nUpdate for that game must be downloaded from Xbox LIVE."
-"SessionError_TU_Required_20091117"		"A játék, amihez csatlakozni próbálsz, nem rendelkezik a szükséges frissítésekkel.\nFrissítést kell letölteni ahhoz a játékhoz az Xbox LIVE-ról."
-"[english]SessionError_TU_Required_20091117"		"The game you are trying to join doesn't have required updates installed.\nUpdate for that game must be downloaded from Xbox LIVE."
-"SessionError_DLC_RequiredTitle_0"		"Letölthető tartalom"
-"[english]SessionError_DLC_RequiredTitle_0"		"Downloadable Content"
-"SessionError_DLC_RequiredKicked_0"		"Kirúgtak a játékból, mert letölthető tartalom került kiválasztásra.\n"
-"[english]SessionError_DLC_RequiredKicked_0"		"You were kicked from the game because downloadable content was selected.\n"
-"SessionError_DLC_RequiredJoin_0"		"A játékhoz letölthető tartalom szükséges.\n"
-"[english]SessionError_DLC_RequiredJoin_0"		"Game requires downloadable content.\n"
-"SessionError_DLC_RequiredMessage_0"		"Kérjük, töltsd le a tartalmat az Xbox LIVE Piactérről."
-"[english]SessionError_DLC_RequiredMessage_0"		"Please, download content from Xbox LIVE Marketplace."
-"SessionError_DLC_RequiredOffer_0"		"Szeretnéd most letöltetni a tartalmat az Xbox LIVE piactérről?"
-"[english]SessionError_DLC_RequiredOffer_0"		"Would you like to download content from Xbox LIVE Marketplace now?"
 "ASUI_GameType"		"JÁTÉKTÍPUS"
 "[english]ASUI_GameType"		"GAME TYPE"
 "ASUI_GameType_tt"		"Válaszd ki a játszani kívánt játék típusát."
@@ -2610,6 +2639,7 @@
 		"L4D360UI_FoundPublicGames_Filter_Distance_Worldwide"		"Galaxy"
 		"[english]L4D360UI_FoundPublicGames_Filter_Distance_Worldwide"		"Galaxy"
 		"RDUI_SteamOverlay_Title"		"Steam Overlay In-Game"
+		// Reactive Drop strings
 		"[english]RDUI_SteamOverlay_Title"		"Steam Overlay In-Game"
 		"RDUI_SteamOverlay_Text"		"This feature requires Steam Overlay In-Game to be enabled.\nYou might need to restart the game after you enable this feature in Steam:\nSteam -> Library -> Right-click on Alien Swarm: Reactive Drop -> Properties... -> Enable the Steam Overlay while in-game\n"
 		"[english]RDUI_SteamOverlay_Text"		"This feature requires Steam Overlay In-Game to be enabled.\nYou might need to restart the game after you enable this feature in Steam:\nSteam -> Library -> Right-click on Alien Swarm: Reactive Drop -> Properties... -> Enable the Steam Overlay while in-game\n"

@@ -1,31 +1,31 @@
 GAME
 {
-	// PDA belongs to Dr. Lin Da Silva
+// PDA belongs to Dr. Lin Da Silva
 
-	// Inbox
+// Inbox
 
-	"MailFrom1"	"Da: Jacques Moreau"
-	"MailDate1"	"Data: 10/02/42"
-	"MailSubject1"	"Soggetto: Re: Trasferimento dello staff scientifico"
-	"MailBody1A"	"Dr. Da Silva, la mia ricerca mi richiede di mantenere la precisione a livelli quasi chirurgici. E con questo, in effetti, la giusta concentrazione. 'Corretto' come nel non essere continuamente interrotto da preoccupazioni banali."
-	"MailBody1B"	"Sebbene apprezzi l'enorme aiuto fornito finora dai vostri assistenti, le operazioni in corso - di cui sono responsabile in virtù delle mie attribuzioni di scienziato capo di questa missione - si concluderanno sommariamente se tutti alla fine acconsentiranno a lasciarmi al mio lavoro."
-	"MailBody1C"	"Grazie"
+"MailFrom1"	"Da: Jacques Moreau"
+"MailDate1"	"Data: 10/02/42"
+"MailSubject1"	"Soggetto: Re: Trasferimento dello staff scientifico"
+"MailBody1A"	"Dr. Da Silva, la mia ricerca mi richiede di mantenere la precisione a livelli quasi chirurgici. E con questo, in effetti, la giusta concentrazione. 'Corretto' come nel non essere continuamente interrotto da preoccupazioni banali."
+"MailBody1B"	"Sebbene apprezzi l'enorme aiuto fornito finora dai vostri assistenti, le operazioni in corso - di cui sono responsabile in virtù delle mie attribuzioni di scienziato capo di questa missione - si concluderanno sommariamente se tutti alla fine acconsentiranno a lasciarmi al mio lavoro."
+"MailBody1C"	"Grazie"
 
-	// Sent
+// Sent
 
-	"MailFrom3"	"A: Jacques Moreau"
-	"MailDate3"	"Data: 09/02/42"
-	"MailSubject3"	"Soggetto: Trasferimento dello staff scientifico"
-	"MailBody3A"	"Dr. Moreau,"
-	"MailBody3B"	"Su sua richiesta, ho spostato gli sforzi del team di biologia sulla ricerca generale; anche i soggetti della nostra più recente scoperta sono stati trasferiti nei vostri laboratori personali. Posso però chiederti il ​​motivo di questa decisione?"
-	"MailBody3C"	"Cordiali saluti,"
-	"MailBody3D"	"Dr. Lin Da Silva"
+"MailFrom3"	"A: Jacques Moreau"
+"MailDate3"	"Data: 09/02/42"
+"MailSubject3"	"Soggetto: Trasferimento dello staff scientifico"
+"MailBody3A"	"Dr. Moreau,"
+"MailBody3B"	"Su sua richiesta, ho spostato gli sforzi del team di biologia sulla ricerca generale; anche i soggetti della nostra più recente scoperta sono stati trasferiti nei vostri laboratori personali. Posso però chiederti il ​​motivo di questa decisione?"
+"MailBody3C"	"Cordiali saluti,"
+"MailBody3D"	"Dr. Lin Da Silva"
 
-	"MailFrom4"	"A: Jacques Moreau"
-	"MailDate4"	"Data: 10/02/42"
-	"MailSubject4"	"Soggetto: Re: Re: Trasferimento dello staff scientifico"
-	"MailBody4A"	"Dr. Moreau,"
-	"MailBody4B"	"Certo, ho capito. Non era mia intenzione mettere in discussione i suoi metodi. Gli argomenti aggiuntivi le saranno spediti entro la fine della settimana. Nam Humanum."
-	"MailBody4C"	"Cordiali saluti,"
-	"MailBody4D"	"Dr. Lin Da Silva"
+"MailFrom4"	"A: Jacques Moreau"
+"MailDate4"	"Data: 10/02/42"
+"MailSubject4"	"Soggetto: Re: Re: Trasferimento dello staff scientifico"
+"MailBody4A"	"Dr. Moreau,"
+"MailBody4B"	"Certo, ho capito. Non era mia intenzione mettere in discussione i suoi metodi. Gli argomenti aggiuntivi le saranno spediti entro la fine della settimana. Nam Humanum."
+"MailBody4C"	"Cordiali saluti,"
+"MailBody4D"	"Dr. Lin Da Silva"
 }

@@ -1,14 +1,14 @@
 GAME
 {
-	// PDA belongs to Private First Class Thibaut Holbert
+// PDA belongs to Private First Class Thibaut Holbert
 
-	// Sent
+// Sent
 
-	"MailFrom3"	"A: Arthur Carradine"
-	"MailDate3"	"Data: 31/03/43"
-	"MailSubject3"	"Soggetto: servono rinforzi"
-	"MailBody3A"	"capitano"
-	"MailBody3B"	"mostri che strisciano ad ogni angolo. unità assaltata nel cantone V"
-	"MailBody3C"	"le comunicazioni sono morte. niente elettricità . senza luce"
-	"MailBody3D"	"richiedo rinforzi immediati . sono in mez"
+"MailFrom3"	"A: Arthur Carradine"
+"MailDate3"	"Data: 31/03/43"
+"MailSubject3"	"Soggetto: servono rinforzi"
+"MailBody3A"	"capitano"
+"MailBody3B"	"mostri che strisciano ad ogni angolo. unità assaltata nel cantone V"
+"MailBody3C"	"le comunicazioni sono morte. niente elettricità . senza luce"
+"MailBody3D"	"richiedo rinforzi immediati . sono in mez"
 }

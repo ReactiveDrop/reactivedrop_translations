@@ -1,6 +1,6 @@
 ﻿"lang" 
 { 
-"Language"	"English" 
+"Language"	"english" 
 "Tokens" 
 { 
 "Valve_Listen_MapName"	"Map"
@@ -247,7 +247,6 @@
 "Valve_FilmDemo_ColorCorrection_LeftTitle"	"No Color Correction"
 "Valve_FilmDemo_ColorCorrection_RightTitle"	"Color Correction"
 
-// Xbox 360
 "Valve_Hint_Select_Weapon_357"	"%slot1% SELECT .357 MAGNUM"
 "Valve_Hint_Select_Weapon_AR2"	"%slot2% SELECT PULSE-RIFLE"
 "Valve_Hint_Select_Weapon_Bugbait"	"%slot4% SELECT PHEROPOD"

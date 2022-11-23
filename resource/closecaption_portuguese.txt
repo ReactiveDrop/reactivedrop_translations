@@ -6,6 +6,7 @@
 		"testcommands"		"<clr:255,0,0>This is red<I> and italics<B> and<cr>bold<B><I><clr:255,255,255> white again."
 		"[english]testcommands"		"<clr:255,0,0>This is red<I> and italics<B> and<cr>bold<B><I><clr:255,255,255> white again."
 "Command.co_m1_ob1"		"<clr:240,255,255>Comandante: Ok pelotão. Precisamos de verificar o manifesto de carga para ver se alguns sobreviventes escaparam desta rocha. Abram caminho para a zona de aterragem e encontrem um terminal de onde possam transferir os registos de transporte. Contacto-vos quando lá chegarem."
+//Commander Audio
 "[english]Command.co_m1_ob1"		"<clr:240,255,255>Commander: Okay, squad. We need to check the shipping manifests to see if any survivors made it off this rock. Make your way down to the landing bay and find a terminal where we can download the transport records. I'll check in with you there."
 "Command.co_m1_ob2"		"<clr:240,255,255>Comandante: Bem, estes manifestos são inúteis. Acho que manterem os registos não estava propriamente no topo da lista de prioridades quando o swarm atacou. Estamos agora em busca e salvamento até ordens em contrário, por isso mantenham os olhos abertos em busca de sobreviventes. Dirijam-se à saída mais longe e então reagrupamo-nos."
 "[english]Command.co_m1_ob2"		"<clr:240,255,255>Commander: Well, these manifests are useless. Guess record keeping wasn't exactly high on the priority list when the swarm hit. We are now search and rescue until otherwise informed, so keep an eye out for survivors. Head for the far exit and then we'll regroup."
@@ -146,6 +147,7 @@
 		"Command.co_debriefing_ob10"		"<clr:240,255,255>Commander: We are still detecting a single large heat source in a deep, well protected chamber. IAF Command is making investigation of this a priority."
 		"[english]Command.co_debriefing_ob10"		"<clr:240,255,255>Commander: We are still detecting a single large heat source in a deep, well protected chamber. IAF Command is making investigation of this a priority."
 "bastille.SynUpReply0"		"<clr:205,127,50>Bastille: Não queres beber essa merda, acredita em mim."
+//Bastille
 "[english]bastille.SynUpReply0"		"<clr:205,127,50>Bastille: You don't wanna drink that shit, believe me."
 		"bastille.CrashComplainReply0"		"<clr:205,127,50>Bastille: Maybe you should report a nervous breakdown."
 		"[english]bastille.CrashComplainReply0"		"<clr:205,127,50>Bastille: Maybe you should report a nervous breakdown."
@@ -708,6 +710,7 @@
 "bastille.Selection4"		"<clr:205,127,50>Bastille: A reportar."
 "[english]bastille.Selection4"		"<clr:205,127,50>Bastille: Reporting."
 "crash.SargeIdleReply0"		"<clr:238,180,34>Crash: Sabes mesmo como fazer com que um esquadrão se sinta seguro, Sarge."
+//Crash
 "[english]crash.SargeIdleReply0"		"<clr:238,180,34>Crash: You really know how to make a squad feel safe, Sarge."
 "crash.SargeIdleReply1"		"<clr:238,180,34>Crash: Isso quer dizer que queres ir para casa agora, Sarge?"
 "[english]crash.SargeIdleReply1"		"<clr:238,180,34>Crash: That mean you wanna go home now, Sarge?"
@@ -1140,6 +1143,7 @@
 "crash.Selection2"		"<clr:238,180,34>Crash: O que é que se passa?"
 "[english]crash.Selection2"		"<clr:238,180,34>Crash: What's up?"
 		"faith.SynUpReply0"		"<clr:178,34,34>Faith: Half the core world is addicted to that stuff."
+		//Faith
 		"[english]faith.SynUpReply0"		"<clr:178,34,34>Faith: Half the core world is addicted to that stuff."
 "faith.SynUpReply1"		"<clr:178,34,34>Faith: Não queres beber essa merda, acredita em mim."
 "[english]faith.SynUpReply1"		"<clr:178,34,34>Faith: You don't want to drink that shit, believe me."
@@ -1538,6 +1542,7 @@
 "faith.Selection5"		"<clr:178,34,34>Faith: Precisa de mim?"
 "[english]faith.Selection5"		"<clr:178,34,34>Faith: You need me?"
 "jaeger.WeatherReply0"		"<clr:198,226,255>Jaeger: Sim, lembra-me das minhas últimas férias."
+//Jaeger
 "[english]jaeger.WeatherReply0"		"<clr:198,226,255>Jaeger: Yeah, reminds me of my last vacation."
 "jaeger.MedicComplainReply0"		"<clr:198,226,255>Jaeger: Não é como se eu o fizesse de propósito."
 "[english]jaeger.MedicComplainReply0"		"<clr:198,226,255>Jaeger: It's not like I do it on purpose."
@@ -1890,6 +1895,7 @@
 "jaeger.Selection1"		"<clr:198,226,255>Jaeger: Jaeger aqui."
 "[english]jaeger.Selection1"		"<clr:198,226,255>Jaeger: Jaeger here."
 "sarge.SargeIdle0"		"<clr:238,207,161>Sarge: Saibam que as garras de um drone Swarm podem rasgar através da vossa armadura."
+//Sarge
 "[english]sarge.SargeIdle0"		"<clr:238,207,161>Sarge: You know the claws on a swarm drone can rip right through our armor."
 "sarge.SargeIdle1"		"<clr:238,207,161>Sarge: Uma vez vi a mão de um marine a ser mordida e arrancada por uma destas coisas."
 "[english]sarge.SargeIdle1"		"<clr:238,207,161>Sarge: I once saw a marine have his hand bitten clean off by one of these things."
@@ -2340,6 +2346,7 @@
 "sarge.Selection3"		"<clr:238,207,161>Sarge: Prossigam."
 "[english]sarge.Selection3"		"<clr:238,207,161>Sarge: Proceed."
 "vegas.FirstBloodStart0"		"<clr:84,255,159>Vegas: Aposto que o primeiro vai ser meu."
+//Vegas
 "[english]vegas.FirstBloodStart0"		"<clr:84,255,159>Vegas: Taking bets on first blood."
 "vegas.FirstBloodWin0"		"<clr:84,255,159>Vegas: Haha, a sorte está do lado do Vegas hoje."
 "[english]vegas.FirstBloodWin0"		"<clr:84,255,159>Vegas: Haha, fortune favours Vegas today."
@@ -2790,6 +2797,7 @@
 "vegas.Selection2"		"<clr:84,255,159>Vegas: O que foi?"
 "[english]vegas.Selection2"		"<clr:84,255,159>Vegas: What do you want?"
 "wildcat.WolfeBestReply0"		"<clr:238,106,80>Wildcat: Heha! Sim, bem, agora vamos ver quem é o melhor!"
+//Wildcat
 "[english]wildcat.WolfeBestReply0"		"<clr:238,106,80>Wildcat: Heha! Yeah, well, We'll see who's the best now!"
 		"wildcat.WolfeBestReply1"		"<clr:238,106,80>Wildcat: Yeah, but I've got some tricks of my own."
 		"[english]wildcat.WolfeBestReply1"		"<clr:238,106,80>Wildcat: Yeah, but I've got some tricks of my own."
@@ -3138,6 +3146,7 @@
 "wildcat.Grenade1"		"<clr:238,106,80>Wildcat: Cuidado."
 "[english]wildcat.Grenade1"		"<clr:238,106,80>Wildcat: Watch out."
 "wolfe.WolfeBest0"		"<clr:154,205,50>Wolfe: Não tens hipótese, eu ensinei-te tudo."
+//Wolfe
 "[english]wolfe.WolfeBest0"		"<clr:154,205,50>Wolfe: You got no chance, I taught you everything."
 "wolfe.WolfeBest1"		"<clr:154,205,50>Wolfe: Não tens hipótese, lembra-te que eu te ensinei tudo."
 "[english]wolfe.WolfeBest1"		"<clr:154,205,50>Wolfe: You got no chance, remember I taught you everything."
@@ -3736,6 +3745,7 @@
 "wolfe.Selection2"		"<clr:154,205,50>Wolfe: Senhor."
 "[english]wolfe.Selection2"		"<clr:154,205,50>Wolfe: Sir."
 "ASWComputer.Startup"		"<clr:238,0,0>COMPUTADOR DA BASE: Megacorporação Syntek."
+//BASE COMPUTER
 "[english]ASWComputer.Startup"		"<clr:238,0,0>BASE COMPUTER: SynTek Megacorporation."
 "ASWComputer.AccessDenied"		"<clr:238,0,0>COMPUTADOR DA BASE: Acesso Negado."
 "[english]ASWComputer.AccessDenied"		"<clr:238,0,0>BASE COMPUTER: Access Denied."
@@ -3788,6 +3798,7 @@
 "ASWCountdown.Countdown10"		"<clr:238,0,0>COMPUTADOR DA BASE: Detonação nuclear em 10 segundos."
 "[english]ASWCountdown.Countdown10"		"<clr:238,0,0>BASE COMPUTER: Nuclear detonation in 10 seconds."
 		"Duval.01_02"		"<clr:179,203,207><B>Prof. Duval:<B> Charlie, Julie Duval here. Thermals from your shuttle's radar are tracking multiple signals in and out the installation's roofs and ducts. Though these readouts are oddly...human, for lack of details."
+		//NAM HUMANUM
 		"[english]Duval.01_02"		"<clr:179,203,207><B>Prof. Duval:<B> Charlie, Julie Duval here. Thermals from your shuttle's radar are tracking multiple signals in and out the installation's roofs and ducts. Though these readouts are oddly...human, for lack of details."
 		"Duval.01_03"		"<clr:179,203,207><B>Prof. Duval:<B> Their morphologies are just...not right. This specimen…"
 		"[english]Duval.01_03"		"<clr:179,203,207><B>Prof. Duval:<B> Their morphologies are just...not right. This specimen…"
@@ -3884,6 +3895,7 @@
 		"Vesta.03_11"		"<clr:234,217,245><B>???:<B> Vesta...lives."
 		"[english]Vesta.03_11"		"<clr:234,217,245><B>???:<B> Vesta...lives."
 		"Amber.01_01"		"<clr:255,0,0><B>AMBER Warning:<B><clr:158,143,39> Antenna Communication Failure."
+		// ACCIDENT 32
 		"[english]Amber.01_01"		"<clr:255,0,0><B>AMBER Warning:<B><clr:158,143,39> Antenna Communication Failure."
 		"Amber.01_02"		"<clr:255,0,0><B>AMBER Warning:<B><clr:158,143,39> Secondary Reactor Coolant Activated."
 		"[english]Amber.01_02"		"<clr:255,0,0><B>AMBER Warning:<B><clr:158,143,39> Secondary Reactor Coolant Activated."

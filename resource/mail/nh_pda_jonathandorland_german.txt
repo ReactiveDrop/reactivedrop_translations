@@ -1,14 +1,14 @@
 GAME
 {
-	// PDA belongs to Jonathan Dorland
+// PDA belongs to Jonathan Dorland
 
-	// Sent
+// Sent
 
-	"MailFrom3"	"An: Lin Da Silva"
-	"MailDate3"	"Datum: 03/31/43"
-	"MailSubject3"	"Betreff: Was ist hier los?"
-	"MailBody3A"	"Lin, kannst du mir erklären, was da draußen los ist?"
-	"MailBody3B"	"Es ist über eine Stunde her, dass eine Gruppe von Siedlern, angeführt von Leutnant Florenza und weiteren Aufsehern, in die Unterkünfte des Hilfspersonals eingedrungen ist und darauf bestanden hat, dass wir bis auf Weiteres in den gesicherten Räumen des Lagers eingesperrt werden. Es wurde gerannt und geschrien, dann kam nichts mehr. Würden Sie uns bitte sagen, was hier vor sich geht, Doktor? Es hat sicher nichts mit der guten alten Moreau zu tun..."
-	"MailBody3C"	"Vielleicht ist es die Dehydrierung, aber es fühlt sich an, als würden wir hier drin verrückt werden. Einige von uns hören Geräusche in den Wänden. Einfach toll, wirklich. Wenn ich bis zum Ende der Rotationszeit nichts von dir höre, muss ich meinen Einmalschlüssel benutzen, um die Türen aufzubrechen. Ein ziemliches Risiko, ich weiß und es tut mir leid. Aber die Umstände wollen wohl, dass ich dieses Risiko eingehe, nicht wahr?"
-	"MailBody3D"	"Das ist ein Joker."
+"MailFrom3"	"An: Lin Da Silva"
+"MailDate3"	"Datum: 03/31/43"
+"MailSubject3"	"Betreff: Was ist hier los?"
+"MailBody3A"	"Lin, kannst du mir erklären, was da draußen los ist?"
+"MailBody3B"	"Es ist über eine Stunde her, dass eine Gruppe von Siedlern, angeführt von Leutnant Florenza und weiteren Aufsehern, in die Unterkünfte des Hilfspersonals eingedrungen ist und darauf bestanden hat, dass wir bis auf Weiteres in den gesicherten Räumen des Lagers eingesperrt werden. Es wurde gerannt und geschrien, dann kam nichts mehr. Würden Sie uns bitte sagen, was hier vor sich geht, Doktor? Es hat sicher nichts mit der guten alten Moreau zu tun..."
+"MailBody3C"	"Vielleicht ist es die Dehydrierung, aber es fühlt sich an, als würden wir hier drin verrückt werden. Einige von uns hören Geräusche in den Wänden. Einfach toll, wirklich. Wenn ich bis zum Ende der Rotationszeit nichts von dir höre, muss ich meinen Einmalschlüssel benutzen, um die Türen aufzubrechen. Ein ziemliches Risiko, ich weiß und es tut mir leid. Aber die Umstände wollen wohl, dass ich dieses Risiko eingehe, nicht wahr?"
+"MailBody3D"	"Das ist ein Joker."
 }

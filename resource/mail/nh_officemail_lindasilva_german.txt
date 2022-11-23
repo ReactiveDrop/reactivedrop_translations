@@ -1,34 +1,34 @@
 GAME
 {
-	// Computer belongs to Dr. Lin Da Silva
+// Computer belongs to Dr. Lin Da Silva
 
-	// Inbox
+// Inbox
 
-	"MailFrom1"	"Von: Jonathan Dorland"
-	"MailDate1"	"Datum: 02/13/42"
-	"MailSubject1"	"Betreff: Dr. Moreau?"
-	"MailBody1A"	"Doc, das ist die dritte Lieferung von Sporen, die wir in Dr. Moreaus Labore bringen sollen. Die dritte Lieferung. Ich weiß nicht, wie es dir geht, aber ich hätte gedacht, dass etwas so Bedeutendes wie die Entdeckung einer einheimischen Lebensform zumindest auch den Vorstand beschäftigen würde. Es gibt eine Menge Rauch und niemand sucht nach dem Feuer?"
-	"MailBody1B"	"Komm schon, Lin. Seit dem Tod seiner Frau bist du der zweite Mann im Haus. Jetzt ist es an der Zeit, etwas von dem, was du verdient hast, einzusetzen. Nur dieses eine Mal, wenn auch nie wieder."
+"MailFrom1"	"Von: Jonathan Dorland"
+"MailDate1"	"Datum: 02/13/42"
+"MailSubject1"	"Betreff: Dr. Moreau?"
+"MailBody1A"	"Doc, das ist die dritte Lieferung von Sporen, die wir in Dr. Moreaus Labore bringen sollen. Die dritte Lieferung. Ich weiß nicht, wie es dir geht, aber ich hätte gedacht, dass etwas so Bedeutendes wie die Entdeckung einer einheimischen Lebensform zumindest auch den Vorstand beschäftigen würde. Es gibt eine Menge Rauch und niemand sucht nach dem Feuer?"
+"MailBody1B"	"Komm schon, Lin. Seit dem Tod seiner Frau bist du der zweite Mann im Haus. Jetzt ist es an der Zeit, etwas von dem, was du verdient hast, einzusetzen. Nur dieses eine Mal, wenn auch nie wieder."
 
-	"MailFrom2"	"Von: Jonathan Dorland"
-	"MailDate2"	"Datum: 02/14/42"
-	"MailSubject2"	"Betreff: Aw:Aw: Dr. Moreau?"
-	"MailBody2A"	"Aye, ziemlich klar, Doktor Da Silva."
-	"MailBody2B"	"Nam Humanum :)"
+"MailFrom2"	"Von: Jonathan Dorland"
+"MailDate2"	"Datum: 02/14/42"
+"MailSubject2"	"Betreff: Aw:Aw: Dr. Moreau?"
+"MailBody2A"	"Aye, ziemlich klar, Doktor Da Silva."
+"MailBody2B"	"Nam Humanum :)"
 
-	// Sent
+// Sent
 
-	"MailFrom3"	"An: Jonathan Dorland"
-	"MailDate3"	"Datum: 02/13/42"
-	"MailSubject3"	"Betreff: Aw: Dr. Moreau?"
-	"MailBody3A"	"Lies bitte sorgfältig, Jonathan."
-	"MailBody3B"	"Du darfst mich nicht beim Vornamen nennen, geschweige denn denken, dass du dich mit mir anfreunden kannst. Lass uns diese Beziehung strikt professionell halten, es sei denn, du brauchst eine kleine Erinnerung an ein Rattenloch in New Havre? Welches Loch, frage ich mich, in dem ein niederer Verbrecher herumkriecht, der sein jämmerliches Dasein auf ein Frachtschiff geworfen hätte, wenn ein dummes Mädchen mit zu viel Freundlichkeit ihm nicht eine offene Hand gereicht hätte."
-	"MailBody3C"	"Betrachte das als meinen Joker, Johnny, oder wie auch immer du es nennen willst. Dr. Moreau ist für alle Entscheidungen in der Forschung zuständig. Da du hier nur ein Assistent bist, ist das alles, was du wissen musst. Versuche also, nur dieses eine Mal auf dem Teppich zu bleiben."
-	"MailBody3D"	"Ich hoffe, die Dinge sind für dich geklärt?"
+"MailFrom3"	"An: Jonathan Dorland"
+"MailDate3"	"Datum: 02/13/42"
+"MailSubject3"	"Betreff: Aw: Dr. Moreau?"
+"MailBody3A"	"Lies bitte sorgfältig, Jonathan."
+"MailBody3B"	"Du darfst mich nicht beim Vornamen nennen, geschweige denn denken, dass du dich mit mir anfreunden kannst. Lass uns diese Beziehung strikt professionell halten, es sei denn, du brauchst eine kleine Erinnerung an ein Rattenloch in New Havre? Welches Loch, frage ich mich, in dem ein niederer Verbrecher herumkriecht, der sein jämmerliches Dasein auf ein Frachtschiff geworfen hätte, wenn ein dummes Mädchen mit zu viel Freundlichkeit ihm nicht eine offene Hand gereicht hätte."
+"MailBody3C"	"Betrachte das als meinen Joker, Johnny, oder wie auch immer du es nennen willst. Dr. Moreau ist für alle Entscheidungen in der Forschung zuständig. Da du hier nur ein Assistent bist, ist das alles, was du wissen musst. Versuche also, nur dieses eine Mal auf dem Teppich zu bleiben."
+"MailBody3D"	"Ich hoffe, die Dinge sind für dich geklärt?"
 
-	"MailFrom4"	"An: Gael Florenza"
-	"MailDate4"	"Datum: 01/01/43"
-	"MailSubject4"	"Betreff: (Leer)"
-	"MailBody4A"	"Wenn du dem ein Ende setzen kannst, dann ja, ich werde dafür sorgen, dass dein Zugang zu den Laboren frei ist."
-	"MailBody4B"	"Lösche jede Spur dieses Gesprächs und bete, dass nicht schon ein Big Brother an unseren beiden Türen herumschnüffelt."
+"MailFrom4"	"An: Gael Florenza"
+"MailDate4"	"Datum: 01/01/43"
+"MailSubject4"	"Betreff: (Leer)"
+"MailBody4A"	"Wenn du dem ein Ende setzen kannst, dann ja, ich werde dafür sorgen, dass dein Zugang zu den Laboren frei ist."
+"MailBody4B"	"Lösche jede Spur dieses Gesprächs und bete, dass nicht schon ein Big Brother an unseren beiden Türen herumschnüffelt."
 }

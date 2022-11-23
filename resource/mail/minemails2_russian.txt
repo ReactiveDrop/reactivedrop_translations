@@ -1,13 +1,13 @@
 GAME
 {
-	// PDA belongs to Lt. Cain
+// PDA belongs to Lt. Cain
 
-	// Inbox
+// Inbox
 
-	"MailFrom1"	"От: Лора Каллен"
-	"MailDate1"	"Дата: 24.12.52"
-	"MailSubject1"	"Тема: Это конец"
-	"MailBody1A"	"Военное положение?"
-	"MailBody1B"	"Слишком поздно."
-	"MailBody1C"	"Нам нужно серьёзное вмешательство, иначе мы потеряем этот комплекс."
+"MailFrom1"	"От: Лора Каллен"
+"MailDate1"	"Дата: 24.12.52"
+"MailSubject1"	"Тема: Это конец"
+"MailBody1A"	"Военное положение?"
+"MailBody1B"	"Слишком поздно."
+"MailBody1C"	"Нам нужно серьёзное вмешательство, иначе мы потеряем этот комплекс."
 }

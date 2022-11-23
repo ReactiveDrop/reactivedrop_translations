@@ -1,22 +1,22 @@
 GAME
 {
-	// Hacked into network history: Lt. Gael Florenza
+// Hacked into network history: Lt. Gael Florenza
 
-	// Sent
+// Sent
 
-	"MailFrom3"	"An: Iris Florenza"
-	"MailDate3"	"Datum: 01/18/40"
-	"MailSubject3"	"Betreff: Schalllandung"
-	"MailBody3A"	"Lieber Schatz,"
-	"MailBody3B"	"das Kommunikationsteam bittet mich, alle schriftlichen Übertragungen kurz zu halten, während an der Anlage gearbeitet wird, also bitte sehr. Wir sind endlich auf Cassius-III gelandet. Wie erwartet, ist das Wetter hier draußen nicht gerade sanft. Ganz zu schweigen davon, dass wir immer noch weitgehend von den Vitalfunktionen des Shuttles abhängig sind. Trotzdem tun alle ihr Bestes, damit wir uns hier wie zu Hause fühlen. Wie etwas, das einer Erzählung würdig ist. Aber ich schätze, diese Briefe müssen reichen, von meiner verschneiten Insel bis zu deinem jetzigen Aufenthaltsort, ein Meer von Sternen entfernt."
-	"MailBody3C"	"Es ist jetzt fünf Monate her, dass ich mich von deinem Hafen verabschiedet habe, liebe Iris, aber es fühlt sich schon wie eine Ewigkeit auf See an. Ich möchte aus dieser bescheidenen Kolonie eine angemessene Unterkunft für dich und mich machen, und für den kleinen Mann, der in dir wächst."
-	"MailBody3D"	"Nam Humanum"
+"MailFrom3"	"An: Iris Florenza"
+"MailDate3"	"Datum: 01/18/40"
+"MailSubject3"	"Betreff: Schalllandung"
+"MailBody3A"	"Lieber Schatz,"
+"MailBody3B"	"das Kommunikationsteam bittet mich, alle schriftlichen Übertragungen kurz zu halten, während an der Anlage gearbeitet wird, also bitte sehr. Wir sind endlich auf Cassius-III gelandet. Wie erwartet, ist das Wetter hier draußen nicht gerade sanft. Ganz zu schweigen davon, dass wir immer noch weitgehend von den Vitalfunktionen des Shuttles abhängig sind. Trotzdem tun alle ihr Bestes, damit wir uns hier wie zu Hause fühlen. Wie etwas, das einer Erzählung würdig ist. Aber ich schätze, diese Briefe müssen reichen, von meiner verschneiten Insel bis zu deinem jetzigen Aufenthaltsort, ein Meer von Sternen entfernt."
+"MailBody3C"	"Es ist jetzt fünf Monate her, dass ich mich von deinem Hafen verabschiedet habe, liebe Iris, aber es fühlt sich schon wie eine Ewigkeit auf See an. Ich möchte aus dieser bescheidenen Kolonie eine angemessene Unterkunft für dich und mich machen, und für den kleinen Mann, der in dir wächst."
+"MailBody3D"	"Nam Humanum"
 
-	"MailFrom4"	"An: Iris Florenza"
-	"MailDate4"	"Datum: 02/07/40"
-	"MailSubject4"	"Betreff: Ein Traum beginnt"
-	"MailBody4A"	"Lieber Schatz,"
-	"MailBody4B"	"Ich wurde darüber informiert, dass jede Nachricht, die ich übermittle, einige Zeit unterwegs sein kann, bevor sie dich erreicht. Der Grund dafür ist... naja, ein technisches Kauderwelsch, das ich dir zuliebe nicht näher erläutern werde. Ich hoffe, es geht dir und dem Baby gut. Die Bauarbeiten hier draußen gehen weiter, die Einrichtung des Forschungskomplexes ist ein Denkmal für unseren Fortschritt. Geologische Expeditionen werden aber erst in ein paar Monaten stattfinden, so lange, bis die Lebenserhaltungssysteme grünes Licht geben."
-	"MailBody4C"	"Die leitenden Wissenschaftler der Mission, Frau und Herr Moreau, leiten die Operationen mit Begeisterung, ja sogar mit Inspiration. Die Siedler nennen sie inzwischen "Lugdunums Adam und Eva". Zu sehen, wie das ein Lächeln auf ihre Gesichter zaubert, ist irgendwie beruhigend, auch wenn ich nicht wirklich erklären kann, warum. Ich bin mir sicher, dass ich weiterschreiben werde, bis wir beide hier sind, und zwar gemeinsam. Wer weiß, vielleicht haben wir einmal unseren eigenen Kindergarten gebaut."
-	"MailBody4D"	"Nam Humanum"
+"MailFrom4"	"An: Iris Florenza"
+"MailDate4"	"Datum: 02/07/40"
+"MailSubject4"	"Betreff: Ein Traum beginnt"
+"MailBody4A"	"Lieber Schatz,"
+"MailBody4B"	"Ich wurde darüber informiert, dass jede Nachricht, die ich übermittle, einige Zeit unterwegs sein kann, bevor sie dich erreicht. Der Grund dafür ist... naja, ein technisches Kauderwelsch, das ich dir zuliebe nicht näher erläutern werde. Ich hoffe, es geht dir und dem Baby gut. Die Bauarbeiten hier draußen gehen weiter, die Einrichtung des Forschungskomplexes ist ein Denkmal für unseren Fortschritt. Geologische Expeditionen werden aber erst in ein paar Monaten stattfinden, so lange, bis die Lebenserhaltungssysteme grünes Licht geben."
+"MailBody4C"	"Die leitenden Wissenschaftler der Mission, Frau und Herr Moreau, leiten die Operationen mit Begeisterung, ja sogar mit Inspiration. Die Siedler nennen sie inzwischen "Lugdunums Adam und Eva". Zu sehen, wie das ein Lächeln auf ihre Gesichter zaubert, ist irgendwie beruhigend, auch wenn ich nicht wirklich erklären kann, warum. Ich bin mir sicher, dass ich weiterschreiben werde, bis wir beide hier sind, und zwar gemeinsam. Wer weiß, vielleicht haben wir einmal unseren eigenen Kindergarten gebaut."
+"MailBody4D"	"Nam Humanum"
 }

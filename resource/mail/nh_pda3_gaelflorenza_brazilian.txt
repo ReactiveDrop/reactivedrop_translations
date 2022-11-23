@@ -1,22 +1,22 @@
 GAME
 {
-	// Hackeado no histórico da rede: Tenente Gael Florenza
+// Hackeado no histórico da rede: Tenente Gael Florenza
 
-	// Sent
+// Sent
 
-	"MailFrom3"	"Para: Iris Florenza"
-	"MailDate3"	"Data: 19/01/41"
-	"MailSubject3"	"Assunto: As expedições começam"
-	"MailBody3A"	"Meu amor,"
-	"MailBody3B"	"Demorou um pouco mais do que o previsto para iniciarmos as expedições geológicas e botânicas, mas que nós fizemos de qualquer forma. E embora certamente não faltem pedras... Eu mesmo duvido do potencial deste globo frio para vegetação. Em todo o caso, era dever do seu marido navegar com segurança o primeiro grupo ao ar livre. Pelo menos as dezenas de semanas gastas planejando rotas não foram desperdiçadas. Graças aos deuses."
-	"MailBody3C"	"Eu me pego vigiando cada vez mais para o Dr. Moreau enquanto ele se aventura acima dos andares de pesquisa. Tendo chegado tão longe no lado positivo da comunidade científica, Eu não o tomaria por nada além de um homem de convicção... Ainda assim, seu estado mental parece ter se deteriorado desde o falecimento de sua esposa. Só posso simpatizar com sua dor e esperar uma rápida recuperação, pelo bem da colônia, pelo nosso futuro. Seu, meu e do nosso filho."
-	"MailBody3D"	"Nam Humanum"
+"MailFrom3"	"Para: Iris Florenza"
+"MailDate3"	"Data: 19/01/41"
+"MailSubject3"	"Assunto: As expedições começam"
+"MailBody3A"	"Meu amor,"
+"MailBody3B"	"Demorou um pouco mais do que o previsto para iniciarmos as expedições geológicas e botânicas, mas que nós fizemos de qualquer forma. E embora certamente não faltem pedras... Eu mesmo duvido do potencial deste globo frio para vegetação. Em todo o caso, era dever do seu marido navegar com segurança o primeiro grupo ao ar livre. Pelo menos as dezenas de semanas gastas planejando rotas não foram desperdiçadas. Graças aos deuses."
+"MailBody3C"	"Eu me pego vigiando cada vez mais para o Dr. Moreau enquanto ele se aventura acima dos andares de pesquisa. Tendo chegado tão longe no lado positivo da comunidade científica, Eu não o tomaria por nada além de um homem de convicção... Ainda assim, seu estado mental parece ter se deteriorado desde o falecimento de sua esposa. Só posso simpatizar com sua dor e esperar uma rápida recuperação, pelo bem da colônia, pelo nosso futuro. Seu, meu e do nosso filho."
+"MailBody3D"	"Nam Humanum"
 
-	"MailFrom4"	"Para: Iris Florenza"
-	"MailDate4"	"Data: 28/05/41"
-	"MailSubject4"	"Assunto: Rotina definida"
-	"MailBody4A"	"Meu amor,"
-	"MailBody4B"	"Expedições às superfícies inexploradas do planeta procedendo com pressa seria o mínimo a dizer. Já fiz mais tours do que imaginava fazer em um ano. É uma tarefa estressante com a sua parcela de responsabilidades, mas não sem vantagens. De vez em quando, sempre que os carecas param de marchar chocados por tropeçarem na menor pedrinha de forma suspeita, Eu gosto de olhar para o nosso céu escuro e imaginar que, neste exato momento, você também está olhando para as estrelas."
-	"MailBody4C"	"Tenho o prazer de informar que minhas preocupações sobre Dr. Moreau se mostraram infundadas depois de tudo. Ele e o Capitão Carradine estão trabalhando de mãos dadas, fazer esforços para estimular o desenvolvimento da colônia com o objetivo definido para em um futuro próximo para facilitar o processo de deslocamento, finalmente nos tirando de nossos ambientes fabricados e potencialmente trazendo novos colonizadores para um "dinamismo maior", ou assim eles dizem. Embora eu não tenha certeza de quanto tempo exatamente eu tenha que ansiar pela sua presença, Estou feliz que as coisas parecem estar tomando forma novamente."
-	"MailBody4D"	"Nam Humanum"
+"MailFrom4"	"Para: Iris Florenza"
+"MailDate4"	"Data: 28/05/41"
+"MailSubject4"	"Assunto: Rotina definida"
+"MailBody4A"	"Meu amor,"
+"MailBody4B"	"Expedições às superfícies inexploradas do planeta procedendo com pressa seria o mínimo a dizer. Já fiz mais tours do que imaginava fazer em um ano. É uma tarefa estressante com a sua parcela de responsabilidades, mas não sem vantagens. De vez em quando, sempre que os carecas param de marchar chocados por tropeçarem na menor pedrinha de forma suspeita, Eu gosto de olhar para o nosso céu escuro e imaginar que, neste exato momento, você também está olhando para as estrelas."
+"MailBody4C"	"Tenho o prazer de informar que minhas preocupações sobre Dr. Moreau se mostraram infundadas depois de tudo. Ele e o Capitão Carradine estão trabalhando de mãos dadas, fazer esforços para estimular o desenvolvimento da colônia com o objetivo definido para em um futuro próximo para facilitar o processo de deslocamento, finalmente nos tirando de nossos ambientes fabricados e potencialmente trazendo novos colonizadores para um "dinamismo maior", ou assim eles dizem. Embora eu não tenha certeza de quanto tempo exatamente eu tenha que ansiar pela sua presença, Estou feliz que as coisas parecem estar tomando forma novamente."
+"MailBody4D"	"Nam Humanum"
 }

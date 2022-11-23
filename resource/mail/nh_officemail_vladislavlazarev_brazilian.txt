@@ -1,21 +1,21 @@
 GAME
 {
-	// Computer belongs to Vladislav Lazarev
+// Computer belongs to Vladislav Lazarev
 
-	// Inbox
+// Inbox
 
-	"MailFrom1"	"De: Vladislav Lazarev"
-	"MailDate1"	"Data: 01/07/42"
-	"MailSubject1"	"Assunto: Nova atribuição"
-	"MailBody1A"	"Me conte essa: o que vagamente se passa por um humano, mas na verdade é um cyborg altamente avançado especificamente programado pela SynTek para tornar todas as nossas vidas miseráveis? Se sua resposta foi “aquele filho da puta do Carradine”, você ganha um picles. Não, na verdade não. Eles foram extintos décadas atrás, desculpe por falar."
-	"MailBody1B"	"Ah, mas tenho certeza que você deve estar morrendo de vontade de ouvir o que sua nova missão implica. É de extrema importância, então me escuta... O Cap’ quer o provérbio colonial enquadrado pelo menos uma vez em cada quarto Lugdunum. Isso, é isso mesmo. Merda de culto estranho, né? Não reclame, porque a corda não vai estourar do meu lado. Pelo menos você tem sua agenda semanal elaborada para você. Cuidado para não cobrir nenhum poço de ventilação, pois pode causar incêndios. Também não me pergunte como."
-	"MailBody1C"	"'Nam Humanum'... Acha que isso é Latin legitimo?"
+"MailFrom1"	"De: Vladislav Lazarev"
+"MailDate1"	"Data: 01/07/42"
+"MailSubject1"	"Assunto: Nova atribuição"
+"MailBody1A"	"Me conte essa: o que vagamente se passa por um humano, mas na verdade é um cyborg altamente avançado especificamente programado pela SynTek para tornar todas as nossas vidas miseráveis? Se sua resposta foi “aquele filho da puta do Carradine”, você ganha um picles. Não, na verdade não. Eles foram extintos décadas atrás, desculpe por falar."
+"MailBody1B"	"Ah, mas tenho certeza que você deve estar morrendo de vontade de ouvir o que sua nova missão implica. É de extrema importância, então me escuta... O Cap’ quer o provérbio colonial enquadrado pelo menos uma vez em cada quarto Lugdunum. Isso, é isso mesmo. Merda de culto estranho, né? Não reclame, porque a corda não vai estourar do meu lado. Pelo menos você tem sua agenda semanal elaborada para você. Cuidado para não cobrir nenhum poço de ventilação, pois pode causar incêndios. Também não me pergunte como."
+"MailBody1C"	"'Nam Humanum'... Acha que isso é Latin legitimo?"
 
-	// Sent
+// Sent
 
-	"MailFrom3"	"Para: Tom Asselin"
-	"MailDate3"	"Data: 02/07/42"
-	"MailSubject3"	"Assunto: Re: Nova atribuição"
-	"MailBody3A"	"Não importa o lema tosco deles. Como se não fosse humilhante o suficiente me colocarem aqui. Não sofri com minhas aulas de bioastronáutica para acabar bancando o decorador."
-	"MailBody3B"	"Eu vou sentar aqui e continuar sendo o membro improdutivo da sociedade que eles pensam que eu sou, muito obrigado. O que eles vão fazer, me processar? Somos literalmente uma expedição científica duvidosa sem recurso legal ou tribunal."
+"MailFrom3"	"Para: Tom Asselin"
+"MailDate3"	"Data: 02/07/42"
+"MailSubject3"	"Assunto: Re: Nova atribuição"
+"MailBody3A"	"Não importa o lema tosco deles. Como se não fosse humilhante o suficiente me colocarem aqui. Não sofri com minhas aulas de bioastronáutica para acabar bancando o decorador."
+"MailBody3B"	"Eu vou sentar aqui e continuar sendo o membro improdutivo da sociedade que eles pensam que eu sou, muito obrigado. O que eles vão fazer, me processar? Somos literalmente uma expedição científica duvidosa sem recurso legal ou tribunal."
 }

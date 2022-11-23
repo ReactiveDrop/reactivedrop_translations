@@ -1,13 +1,13 @@
 GAME
 {
-	// PDA belongs to Leonid Toptunov
+// PDA belongs to Leonid Toptunov
 
-	// Sent
+// Sent
 
-	"MailFrom1"	"To: Nathan Poe"
-	"MailDate1"	"Date: 08/25/32"
-	"MailSubject1"	"Subject: Reactor instability &HIDDEN"
-	"MailBody1A"	"You said you would shut down the reactor if the temperature suddently became unstable again, but that was a fucking lie! It's been unstable since May and I have no idea how the Reactor hasn't exploded yet!"
-	"MailBody1B"	"WE NEED TO SHUT DOWN THE REACTOR NOW! I don't care about the specimen outbreak in Sectors 3 and 4 and what AMBER says about the danger of infestation, Reactor is our main concern right now."
-	"MailBody1C"	"With fucking regards, Leonid Toptunov"
+"MailFrom1"	"To: Nathan Poe"
+"MailDate1"	"Date: 08/25/32"
+"MailSubject1"	"Subject: Reactor instability &HIDDEN"
+"MailBody1A"	"You said you would shut down the reactor if the temperature suddently became unstable again, but that was a fucking lie! It's been unstable since May and I have no idea how the Reactor hasn't exploded yet!"
+"MailBody1B"	"WE NEED TO SHUT DOWN THE REACTOR NOW! I don't care about the specimen outbreak in Sectors 3 and 4 and what AMBER says about the danger of infestation, Reactor is our main concern right now."
+"MailBody1C"	"With fucking regards, Leonid Toptunov"
 }

@@ -504,6 +504,13 @@
 "game_server_cvar_changed"		"Server cvar '%s1' đã đổi thành %s2"
 "[english]game_server_cvar_changed"		"Server cvar '%s1' changed to %s2"
 "Achievement_Earned"		"%s1 vừa đạt được thành tích %s2"
+// Radio and chat strings can have control characters embedded to set colors. For the control characters to be used, one must be at the start of the string.
+// The control characters can be copied and pasted in notepad.
+//  = 0x02 (STX) - Use team color up to the end of the player name. This only works at the start of the string, and precludes using the other control characters.
+//  = 0x03 (ETX) - Use team color from this point forward
+//  = 0x04 (EOT) - Use location color from this point forward
+//  = 0x05 (ENQ) - Use achievement color from this point forward
+//  = 0x01 (SOH) - Use normal color from this point forward
 "[english]Achievement_Earned"		"%s1 has earned the achievement %s2"
 "game_nextmap"		"Bản đồ kế tiếp: %s1"
 "[english]game_nextmap"		"Next map: %s1"
@@ -512,6 +519,7 @@
 		"Cannot_Be_Spectator"		"This server does not allow spectating"
 		"[english]Cannot_Be_Spectator"		"This server does not allow spectating"
 		"Valve_Reject_Background_Map"		"Can't join multiplayer game on background map listen server."
+		// Strings used by RejectConnection() in the engine
 		"[english]Valve_Reject_Background_Map"		"Can't join multiplayer game on background map listen server."
 		"Valve_Reject_Single_Player"		"Can't join another person's single player game from remote IP address."
 		"[english]Valve_Reject_Single_Player"		"Can't join another person's single player game from remote IP address."

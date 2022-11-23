@@ -1,28 +1,28 @@
 GAME
 {
-	// PDA belongs to Cpl. France Siriac
+// PDA belongs to Cpl. France Siriac
 
-	// Inbox
+// Inbox
 
-	"MailFrom1"	"De: Pauline Vito"
-	"MailDate1"	"Data: 01/04/43"
-	"MailSubject1"	"Assunto: Presos na estufa"
-	"MailBody1A"	"Senhor, alguns de nós ainda estão escondidos dentro da estufa."
-	"MailBody1B"	"O Sr. Asselin conseguiu se esgueirar por eles para conseguir ajuda. Eu não acho que ele vai voltar..."
-	"MailBody1C"	"Conseguimos vê-los através do vidro... essas coisas... Eu acho que eles estão fazendo algo com nosso botânico, Jerome, que está preso sozinho na sala de manutenção desde que eles vieram. O que devemos fazer? Ah Deus, Eu posso ouvi-lo choramingar no escuro..."
+"MailFrom1"	"De: Pauline Vito"
+"MailDate1"	"Data: 01/04/43"
+"MailSubject1"	"Assunto: Presos na estufa"
+"MailBody1A"	"Senhor, alguns de nós ainda estão escondidos dentro da estufa."
+"MailBody1B"	"O Sr. Asselin conseguiu se esgueirar por eles para conseguir ajuda. Eu não acho que ele vai voltar..."
+"MailBody1C"	"Conseguimos vê-los através do vidro... essas coisas... Eu acho que eles estão fazendo algo com nosso botânico, Jerome, que está preso sozinho na sala de manutenção desde que eles vieram. O que devemos fazer? Ah Deus, Eu posso ouvi-lo choramingar no escuro..."
 
-	"MailFrom2"	"De: Pauline Vito"
-	"MailDate2"	"Data: 02/04/43"
-	"MailSubject2"	"Assunto: Re: Re: Presos na estufa"
-	"MailBody2A"	"Pelos Deuses, Jerome"
-	"MailBody2B"	"O que fizeram com ele"
-	"MailBody2C"	"Por favor nos ajudem"
-	"MailBody2D"	"por favor"
+"MailFrom2"	"De: Pauline Vito"
+"MailDate2"	"Data: 02/04/43"
+"MailSubject2"	"Assunto: Re: Re: Presos na estufa"
+"MailBody2A"	"Pelos Deuses, Jerome"
+"MailBody2B"	"O que fizeram com ele"
+"MailBody2C"	"Por favor nos ajudem"
+"MailBody2D"	"por favor"
 
-	// Sent
+// Sent
 
-	"MailFrom3"	"Para: Pauline Vito"
-	"MailDate3"	"Data: 01/04/43"
-	"MailSubject3"	"Assunto: Re: Presos na estufa"
-	"MailBody3A"	"Você PRECISA ficar firme até que possamos chamar reforços. Estamos reduzidos a uma equipe escassa, desde que Florenza achou melhor ferrar as coisas para todos nós. Chega dessa merda de complexo de herói, entendeu? Vamos tirá-lo dai assim que tudo estiver limpo do nosso lado."
+"MailFrom3"	"Para: Pauline Vito"
+"MailDate3"	"Data: 01/04/43"
+"MailSubject3"	"Assunto: Re: Presos na estufa"
+"MailBody3A"	"Você PRECISA ficar firme até que possamos chamar reforços. Estamos reduzidos a uma equipe escassa, desde que Florenza achou melhor ferrar as coisas para todos nós. Chega dessa merda de complexo de herói, entendeu? Vamos tirá-lo dai assim que tudo estiver limpo do nosso lado."
 }
