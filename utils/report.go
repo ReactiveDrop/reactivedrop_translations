@@ -8,6 +8,9 @@ import (
 	"path/filepath"
 	"sort"
 	"strings"
+
+	"git.lubar.me/ben/valve/translation"
+	"golang.org/x/text/language/display"
 )
 
 func eachFile(patterns []string, addSuffix string, cb func(string, io.Reader)) {
@@ -173,7 +176,7 @@ func generateReport() {
 			continue
 		}
 
-		fmt.Printf("# %s\n\n", lang)
+		fmt.Printf("# %s (%s)\n\n", lang, display.Self.Name(translation.FromSteamLanguage[lang]))
 
 		any := false
 
