@@ -185,8 +185,8 @@
 "[english]StatsWeb_GlobalStatsDesc"		"Alien Swarm: Reactive Drop global mission statistics."
 "StatsWeb_GlobalWeaponStatsDesc"		"Alien Swarm: Reactive Dropに登場する全武器についての全期間の統計情報リストです。"
 "[english]StatsWeb_GlobalWeaponStatsDesc"		"A list of all-time global statistics for every weapon available in Alien Swarm: Reactive Drop."
-"StatsWeb_DateFormat"		"%Y年 %-m月 %e日"
-		// format is strftime, see https://github.com/KarpelesLab/strftime#pattern-support
+"StatsWeb_DateFormat"		"%Y年 %m月 %e日"
+// format is strftime, see https://github.com/KarpelesLab/strftime#pattern-support
 "[english]StatsWeb_DateFormat"		"%e %B %Y"
 "StatsWeb_StartedMinutesAgo"		"%d分前に開始"
 "[english]StatsWeb_StartedMinutesAgo"		"Started %d minutes ago"
@@ -370,8 +370,8 @@
 "[english]StatsWeb_NextCampaigns"		"More Campaigns"
 "StatsWeb_ByAuthor"		"製作者： %s"
 "[english]StatsWeb_ByAuthor"		"by %s"
-		"StatsWeb_RankNumber"		"#%s"
-		"[english]StatsWeb_RankNumber"		"#%s"
+"StatsWeb_RankNumber"		"%s位"
+"[english]StatsWeb_RankNumber"		"#%s"
 		"StatsWeb_ShortNum_Thousand0"		"%dk"
 		"[english]StatsWeb_ShortNum_Thousand0"		"%dk"
 		"StatsWeb_ShortNum_Thousand1"		"%d.%dk"
