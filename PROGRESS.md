@@ -454,7 +454,7 @@
 
 <details><summary>Strings</summary>
 
-- [statsweb_japanese.vdf](community/stats_website/statsweb_japanese.vdf) has 14 untranslated strings.
+- [statsweb_japanese.vdf](community/stats_website/statsweb_japanese.vdf) has 12 untranslated strings.
 - [vgui_japanese.txt](platform/vgui_japanese.txt) has 37 untranslated strings.
 - [reactivedrop_japanese.txt](resource/reactivedrop_japanese.txt) has 49 untranslated strings.
 - [valve_japanese.txt](resource/valve_japanese.txt) has 7 untranslated strings.
