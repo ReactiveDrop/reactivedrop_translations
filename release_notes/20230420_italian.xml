@@ -74,6 +74,18 @@ Ecco alcuni momenti salienti dagli aggiornamenti precedenti allo scorso annivers
 [*]Ora asw_env_shake può essere contrassegnato per aggirare le impostazioni dell'utente (è stata aggiunta una nuova convar per disabilitare [i]tutte[/i] le scosse indipendentemente da questo flag).
 [*]Aggiunto env_headcrabcanister.
 [*]Aggiunto script_intro.
+		[*]A new material proxy, LanguagePreference, can be used to change a texture based on the viewer's language preference. For example:[code]UnlitGeneric {
+    $basetexture "example/translated_texture_english"
+
+    Proxies {
+        LanguagePreference {
+            default "example/translated_texture_english"
+            schinese "example/translated_texture_schinese"
+            french "example/translated_texture_french"
+            resultvar "$basetexture"
+        }
+    }
+}[/code]
 [/list]
 
 [h2]VScript[/h2]

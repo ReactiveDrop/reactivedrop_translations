@@ -73,7 +73,19 @@ Hier sind einige Highlights der Updates seit dem letzten Jahrestag:
 [*]npc_crow, npc_pigeon, und npc_seagull hinzugefügt.
 [*]asw_env_shake kann jetzt markiert werden, um Benutzereinstellungen zu umgehen (ein neuer Convar wurde hinzugefügt, um [i]alle[/i] Shakes unabhängig von dieser Markierung zu deaktivieren).
 [*]env_headcrabcanister hinzugefügt.
-[*]Script_intro hinzugefügt.
+[*]script_intro hinzugefügt.
+		[*]A new material proxy, LanguagePreference, can be used to change a texture based on the viewer's language preference. For example:[code]UnlitGeneric {
+    $basetexture "example/translated_texture_english"
+
+    Proxies {
+        LanguagePreference {
+            default "example/translated_texture_english"
+            schinese "example/translated_texture_schinese"
+            french "example/translated_texture_french"
+            resultvar "$basetexture"
+        }
+    }
+}[/code]
 [/list]
 
 [h2]VScript[/h2]
