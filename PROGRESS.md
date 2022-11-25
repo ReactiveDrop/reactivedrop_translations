@@ -7,7 +7,7 @@
 | [Dutch](#non-curated-languages) | 49 | 1948 | 10 | 2117 | 191 | 425 | 125 | 144 |
 | [Finnish](#non-curated-languages) | 49 | 1948 | 10 | 2117 | 191 | 425 | 125 | 144 |
 | [French](#french-français) | 25 | 73 | 10 | 1466 | 191 | 359 | 125 | 123 |
-| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | 27 | ✔️ | ✔️ | ✔️ | 1 |
+| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | 27 | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Hungarian](#non-curated-languages) | 49 | 73 | 10 | 2117 | 191 | 690 | 125 | 145 |
 | [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | 27 | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | 49 | 12 | 44 | ✔️ | 2 |
@@ -450,10 +450,6 @@
 ### Strings
 
 - [reactivedrop_german.txt](resource/reactivedrop_german.txt) has 27 untranslated strings.
-
-### Credits
-
-- [rd-tarnor_credits_german.txt](credits/rd-tarnor_credits_german.txt) has 25 indented lines.
 
 </details>
 
