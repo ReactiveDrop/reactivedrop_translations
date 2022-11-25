@@ -1,29 +1,29 @@
-| Language | serverbrowser | vgui | basemodui | closecaption | gameui | reactivedrop | statsweb | Addons | Store/Community | Release Notes | Credits | Mail and News | Inventory |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [简体中文](#schinese-简体中文) | ✔️ | ✔️ | ✔️ | ✔️ | 1 | 52 | 2 | ✔️ | 2 | 1 | ✔️ | ✔️ | 1 |
-| [繁體中文](#tchinese-繁體中文) | ✔️ | ✔️ | 7 | 75 | 1 | 1998 | 191 | 39 | 7 | 2 | 13 | 122 | 125 |
-| [čeština](#non-curated-languages) | 186 | 184 | 69 | 1751 | 10 | 3122 | 191 | 325 | 6 | 2 | 14 | 122 | 125 |
-| [dansk](#non-curated-languages) | 24 | 81 | 50 | 166 | 10 | 2655 | 191 | 320 | 7 | 2 | 14 | 122 | 125 |
-| [Nederlands](#non-curated-languages) | 24 | 81 | 49 | 1948 | 10 | 2117 | 191 | 320 | 6 | 2 | 14 | 122 | 125 |
-| [suomi](#non-curated-languages) | 24 | 81 | 49 | 1948 | 10 | 2117 | 191 | 320 | 6 | 2 | 14 | 122 | 125 |
-| [français](#french-français) | 24 | 93 | 25 | 73 | 10 | 1466 | 191 | 242 | 6 | 2 | 14 | 101 | 125 |
-| [Deutsch](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 27 | ✔️ | ✔️ | ✔️ | 1 | 1 | ✔️ | ✓ |
-| [magyar](#non-curated-languages) | 186 | 184 | 49 | 73 | 10 | 2117 | 191 | 320 | 7 | 2 | 14 | 122 | 125 |
-| [italiano](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 27 | 2 | ✔️ | ✔️ | 1 | ✔️ | ✔️ | ✓ |
-| [日本語](#japanese-日本語) | ✔️ | 37 | ✔️ | ✔️ | ✔️ | 49 | 12 | 7 | 1 | 1 | ✔️ | ✔️ | ✓ |
-| [한국어](#koreana-한국어) | 24 | 93 | 47 | 10 | 6 | 976 | 43 | 136 | 6 | 2 | 14 | 27 | 125 |
-| [norsk bokmål](#non-curated-languages) | 24 | 81 | 67 | 648 | 15 | 2834 | 191 | 320 | 7 | 2 | 14 | 122 | 125 |
-| [polski](#polish-polski) | 24 | 81 | 26 | 1948 | 10 | 2117 | 191 | 320 | 7 | 2 | 14 | 122 | 125 |
-| [português europeu](#portuguese-português-europeu) | ✔️ | 93 | 1 | 115 | 1 | 1419 | 19 | 279 | 5 | 2 | 12 | 122 | 125 |
-| [português](#brazilian-português) | 186 | 184 | 14 | 1948 | 2 | 358 | 7 | 7 | 5 | 2 | 2 | 8 | 2 |
-| [română](#non-curated-languages) | 186 | 184 | 49 | 1940 | 16 | 2825 | 191 | 320 | 7 | 2 | 14 | 122 | 125 |
-| [русский](#russian-русский) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 27 | ✔️ | ✔️ | ✔️ | 1 | ✔️ | ✔️ | ✓ |
-| [español de España](#spanish-español-de-españa) | 24 | 93 | 26 | 1948 | 8 | 1517 | 191 | 312 | 6 | 2 | 14 | 122 | 125 |
-| [svenska](#non-curated-languages) | 24 | 81 | 49 | 1948 | 10 | 2117 | 191 | 320 | 7 | 2 | 14 | 122 | 125 |
-| [ไทย](#non-curated-languages) | 37 | 93 | 964 | 1937 | 18 | 3359 | 191 | 324 | 7 | 2 | 14 | 122 | 125 |
-| [Türkçe](#non-curated-languages) | 186 | 184 | 49 | 72 | 10 | 2117 | 191 | 320 | 7 | 2 | 14 | 122 | 125 |
-| [українська](#ukrainian-українська) | 186 | 184 | 25 | 66 | 9 | 1646 | 191 | 320 | 7 | 2 | 14 | 122 | 123 |
-| [Tiếng Việt](#vietnamese-tiếng-việt) | 186 | 184 | 1279 | 1948 | 605 | 3623 | 191 | 271 | 7 | 2 | 14 | 108 | 125 |
+| Language | basemodui | closecaption | gameui | reactivedrop | statsweb | Strings | Inventory | Files |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | 1 | 52 | 2 | ✔️ | 1 | 3 |
+| [Traditional Chinese](#tchinese-繁體中文) | 7 | 75 | 1 | 1998 | 191 | 39 | 125 | 144 |
+| [Czech](#non-curated-languages) | 69 | 1751 | 10 | 3122 | 191 | 695 | 125 | 144 |
+| [Danish](#non-curated-languages) | 50 | 166 | 10 | 2655 | 191 | 425 | 125 | 145 |
+| [Dutch](#non-curated-languages) | 49 | 1948 | 10 | 2117 | 191 | 425 | 125 | 144 |
+| [Finnish](#non-curated-languages) | 49 | 1948 | 10 | 2117 | 191 | 425 | 125 | 144 |
+| [French](#french-français) | 25 | 73 | 10 | 1466 | 191 | 359 | 125 | 123 |
+| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | 27 | ✔️ | ✔️ | ✓ | 2 |
+| [Hungarian](#non-curated-languages) | 49 | 73 | 10 | 2117 | 191 | 690 | 125 | 145 |
+| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | 27 | 2 | ✔️ | ✓ | 1 |
+| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | 49 | 12 | 44 | ✓ | 2 |
+| [Korean](#koreana-한국어) | 47 | 10 | 6 | 976 | 43 | 253 | 125 | 49 |
+| [Norwegian Bokmål](#non-curated-languages) | 67 | 648 | 15 | 2834 | 191 | 425 | 125 | 145 |
+| [Polish](#polish-polski) | 26 | 1948 | 10 | 2117 | 191 | 425 | 125 | 145 |
+| [European Portuguese](#portuguese-português-europeu) | 1 | 115 | 1 | 1419 | 19 | 372 | 125 | 141 |
+| [Brazilian Portuguese](#brazilian-português) | 14 | 1948 | 2 | 358 | 7 | 377 | 2 | 17 |
+| [Romanian](#non-curated-languages) | 49 | 1940 | 16 | 2825 | 191 | 690 | 125 | 145 |
+| [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | 27 | ✔️ | ✔️ | ✓ | 1 |
+| [European Spanish](#spanish-español-de-españa) | 26 | 1948 | 8 | 1517 | 191 | 429 | 125 | 144 |
+| [Swedish](#non-curated-languages) | 49 | 1948 | 10 | 2117 | 191 | 425 | 125 | 145 |
+| [Thai](#non-curated-languages) | 964 | 1937 | 18 | 3359 | 191 | 454 | 125 | 145 |
+| [Turkish](#non-curated-languages) | 49 | 72 | 10 | 2117 | 191 | 690 | 125 | 145 |
+| [Ukrainian](#ukrainian-українська) | 25 | 66 | 9 | 1646 | 191 | 690 | 123 | 145 |
+| [Vietnamese](#vietnamese-tiếng-việt) | 1279 | 1948 | 605 | 3623 | 191 | 641 | 125 | 131 |
 # Per-File Breakdown
 
 ## schinese (简体中文)
