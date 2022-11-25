@@ -429,8 +429,6 @@
 
 <details><summary>Strings</summary>
 
-- [statsweb_german.vdf](community/stats_website/statsweb_german.vdf) has 2 untranslated strings.
-- [gameui_german.txt](resource/gameui_german.txt) has 1 untranslated strings.
 - [reactivedrop_german.txt](resource/reactivedrop_german.txt) has 27 untranslated strings.
 
 </details>
