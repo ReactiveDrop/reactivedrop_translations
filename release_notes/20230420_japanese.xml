@@ -74,7 +74,8 @@ TODO
 [*]asw_env_shakeはユーザー設定を無視するフラグを立てられるようになった。(このフラグに関係なく[i]全ての[/i]画面揺れを無効にする新しいコンソール変数も追加された)。
 [*]env_headcrabcanisterを追加。
 [*]script_introを追加。
-		[*]A new material proxy, LanguagePreference, can be used to change a texture based on the viewer's language preference. For example:[code]UnlitGeneric {
+		[*]A new material proxy, LanguagePreference, can be used to change a texture based on the viewer's language preference. For example:
+[code]UnlitGeneric {
     $basetexture "example/translated_texture_english"
 
     Proxies {

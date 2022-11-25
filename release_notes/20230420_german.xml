@@ -74,7 +74,8 @@ Hier sind einige Highlights der Updates seit dem letzten Jahrestag:
 [*]asw_env_shake kann jetzt markiert werden, um Benutzereinstellungen zu umgehen (ein neuer Convar wurde hinzugefügt, um [i]alle[/i] Shakes unabhängig von dieser Markierung zu deaktivieren).
 [*]env_headcrabcanister hinzugefügt.
 [*]script_intro hinzugefügt.
-		[*]A new material proxy, LanguagePreference, can be used to change a texture based on the viewer's language preference. For example:[code]UnlitGeneric {
+[*]Ein neues Proxy-Material, LanguagePreference, kann verwendet werden, um eine Textur auf der Grundlage der Sprachpräferenz des Spielers zu ändern. Zum Beispiel:
+[code]UnlitGeneric {
     $basetexture "example/translated_texture_english"
 
     Proxies {
