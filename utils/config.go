@@ -98,10 +98,12 @@ var txtAddonLanguageFiles = [...]string{
 
 var checkButNoSync = [...]struct {
 	category string
+	short    string
 	patterns []string
 }{
 	{
 		category: "Steam Store and Community",
+		short:    "Store/Community",
 		patterns: []string{
 			"../community/eula/eula_*.txt",
 			"../community/points_shop/app_items_*.json",
@@ -113,19 +115,17 @@ var checkButNoSync = [...]struct {
 	},
 	{
 		category: "Upcoming Release Notes",
+		short:    "Release Notes",
 		patterns: []string{
 			"../release_notes/*.xml", // not checking archive
 		},
 	},
 	{
-		category: "Credits",
+		category: "Credits, Mail, and News",
+		short:    "Other Files",
 		patterns: []string{
 			"../credits/*.txt",
-		},
-	},
-	{
-		category: "Mail and News",
-		patterns: []string{
+			"../addons/*/resource/*.txt",
 			"../resource/mail/*.txt",
 			"../addons/*/resource/mail/*.txt",
 			"../resource/news/*.txt",
@@ -136,4 +136,14 @@ var checkButNoSync = [...]struct {
 
 var checkInventorySchema = [...]string{
 	"../community/inventory_service/item-schema-*.json",
+}
+
+var inventoryKeyPrefixes = [...]string{
+	"name_",
+	"briefing_name_",
+	"description_",
+	"ingame_description_",
+	"before_description_",
+	"after_description_",
+	"display_type_",
 }
