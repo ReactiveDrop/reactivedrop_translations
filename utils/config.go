@@ -97,8 +97,6 @@ var txtAddonLanguageFiles = [...]string{
 }
 
 var importantLanguageFiles = [...][2]string{
-	{"platform/servers/serverbrowser_", ".txt"},
-	{"platform/vgui_", ".txt"},
 	{"resource/basemodui_", ".txt"},
 	{"resource/closecaption_", ".txt"},
 	{"resource/gameui_", ".txt"},
@@ -108,12 +106,10 @@ var importantLanguageFiles = [...][2]string{
 
 var checkButNoSync = [...]struct {
 	category string
-	short    string
 	patterns []string
 }{
 	{
 		category: "Steam Store and Community",
-		short:    "Store/Community",
 		patterns: []string{
 			"../community/eula/eula_*.txt",
 			"../community/points_shop/app_items_*.json",
@@ -125,14 +121,12 @@ var checkButNoSync = [...]struct {
 	},
 	{
 		category: "Upcoming Release Notes",
-		short:    "Release Notes",
 		patterns: []string{
 			"../release_notes/*.xml", // not checking archive
 		},
 	},
 	{
 		category: "Credits",
-		short:    "Credits",
 		patterns: []string{
 			"../credits/*.txt",
 			"../addons/*/resource/*.txt",
@@ -140,7 +134,6 @@ var checkButNoSync = [...]struct {
 	},
 	{
 		category: "Mail and News",
-		short:    "Mail and News",
 		patterns: []string{
 			"../resource/mail/*.txt",
 			"../addons/*/resource/mail/*.txt",

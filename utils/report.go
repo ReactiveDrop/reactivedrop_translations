@@ -177,15 +177,8 @@ func generateReport() {
 	for _, file := range importantLanguageFiles {
 		fmt.Printf(" %s |", filepath.Base(file[0][:len(file[0])-1]))
 	}
-	fmt.Print(" Addons |")
-	for _, check := range checkButNoSync {
-		fmt.Printf(" %s |", check.short)
-	}
-	fmt.Print(" Inventory |\n| --- | --- | --- |")
+	fmt.Print(" Strings | Inventory | Files |\n| --- | --- | --- | --- |")
 	for range importantLanguageFiles {
-		fmt.Print(" --- |")
-	}
-	for range checkButNoSync {
 		fmt.Print(" --- |")
 	}
 
@@ -199,7 +192,7 @@ func generateReport() {
 			slug = strings.ReplaceAll(strings.ToLower(lang+" "+display.Self.Name(translation.FromSteamLanguage[lang])), " ", "-")
 		}
 
-		fmt.Printf("\n| [%s](#%s) |", display.Self.Name(translation.FromSteamLanguage[lang]), slug)
+		fmt.Printf("\n| [%s](#%s) |", display.English.Tags().Name(translation.FromSteamLanguage[lang]), slug)
 
 		isImportantFile := make(map[[2]string]bool)
 		for _, file := range importantLanguageFiles {
@@ -226,24 +219,6 @@ func generateReport() {
 			fmt.Printf(" %d |", incomplete)
 		}
 
-		// for other files, count each file as one unit
-		for _, files := range checked {
-			incomplete = 0
-
-			for _, file := range files {
-				indented, ok := file.indented[lang]
-				if !ok || indented != 0 {
-					incomplete++
-				}
-			}
-
-			if incomplete == 0 {
-				fmt.Print(" ✔️ |")
-			} else {
-				fmt.Printf(" %d |", incomplete)
-			}
-		}
-
 		// count each missing key in the inventory schema
 		incomplete = 0
 		for _, item := range inventoryItems {
@@ -258,6 +233,23 @@ func generateReport() {
 
 		if incomplete == 0 {
 			fmt.Print(" ✓ |")
+		} else {
+			fmt.Printf(" %d |", incomplete)
+		}
+
+		// for other files, count each file as one unit
+		incomplete = 0
+		for _, files := range checked {
+			for _, file := range files {
+				indented, ok := file.indented[lang]
+				if !ok || indented != 0 {
+					incomplete++
+				}
+			}
+		}
+
+		if incomplete == 0 {
+			fmt.Print(" ✔️ |")
 		} else {
 			fmt.Printf(" %d |", incomplete)
 		}
