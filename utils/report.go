@@ -134,6 +134,10 @@ func generateReport() {
 				panic("unexpected indented lines in source file " + s)
 			}
 
+			if _, ok := languageFiles[[2]string{prefix, suffix}]; ok {
+				return // don't count language files twice
+			}
+
 			m, ok := checkCategory[[2]string{prefix, suffix}]
 			if !ok {
 				m = make(map[string]int)
@@ -169,6 +173,79 @@ func generateReport() {
 		inventoryItems = append(inventoryItems, data.Items...)
 	})
 
+	fmt.Print("| Language | Strings |")
+	for _, check := range checkButNoSync {
+		fmt.Printf(" %s |", check.short)
+	}
+	fmt.Print(" Inventory |\n| --- | --- | --- |")
+	for range checkButNoSync {
+		fmt.Print(" --- |")
+	}
+
+	for _, lang := range derivedLanguages {
+		if emptyLanguages[lang] {
+			continue
+		}
+
+		slug := "#non-curated-languages"
+		if reportedLanguages[lang] {
+			slug = strings.ReplaceAll(strings.ToLower(lang+" "+display.Self.Name(translation.FromSteamLanguage[lang])), " ", "-")
+		}
+
+		fmt.Printf("\n| [%s](#%s \"%s\") |", translation.FromSteamLanguage[lang].String(), slug, display.Self.Name(translation.FromSteamLanguage[lang]))
+
+		// for strings, count each incomplete string; don't count entirely missing
+		// files as we auto-sync these, but report them below in case we mess up
+		incomplete := 0
+		for _, file := range sortedLanguageFiles {
+			incomplete += file.indented[lang]
+		}
+
+		if incomplete == 0 {
+			fmt.Print(" ✓ |")
+		} else {
+			fmt.Printf(" %d |", incomplete)
+		}
+
+		// for other files, count each file as one unit
+		for _, files := range checked {
+			incomplete = 0
+
+			for _, file := range files {
+				indented, ok := file.indented[lang]
+				if !ok || indented != 0 {
+					incomplete++
+				}
+			}
+
+			if incomplete == 0 {
+				fmt.Print(" ✓ |")
+			} else {
+				fmt.Printf(" %d |", incomplete)
+			}
+		}
+
+		// count each missing key in the inventory schema
+		incomplete = 0
+		for _, item := range inventoryItems {
+			for _, prefix := range inventoryKeyPrefixes {
+				_, ok1 := item[prefix+sourceLanguage]
+				_, ok2 := item[prefix+lang]
+				if ok1 && !ok2 {
+					incomplete++
+				}
+			}
+		}
+
+		if incomplete == 0 {
+			fmt.Print(" ✓ |")
+		} else {
+			fmt.Printf(" %d |", incomplete)
+		}
+	}
+
+	fmt.Print("\n# Per-File Breakdown\n\n")
+
 	anyNonReported := false
 	for _, lang := range derivedLanguages {
 		if !reportedLanguages[lang] {
@@ -176,7 +253,7 @@ func generateReport() {
 			continue
 		}
 
-		fmt.Printf("# %s (%s)\n\n", lang, display.Self.Name(translation.FromSteamLanguage[lang]))
+		fmt.Printf("## %s (%s)\n\n", lang, display.Self.Name(translation.FromSteamLanguage[lang]))
 
 		any := false
 
@@ -243,7 +320,7 @@ func generateReport() {
 		for _, item := range inventoryItems {
 			anyThisItem := false
 
-			for _, prefix := range []string{"name_", "briefing_name_", "description_", "ingame_description_", "before_description_", "after_description_", "display_type_"} {
+			for _, prefix := range inventoryKeyPrefixes {
 				_, ok1 := item[prefix+sourceLanguage]
 				_, ok2 := item[prefix+lang]
 				if ok1 && !ok2 {
