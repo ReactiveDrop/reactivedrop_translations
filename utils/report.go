@@ -336,7 +336,7 @@ func generateReport() {
 					if !anyThisItem {
 						anyThisItem = true
 						file := item["_file"].(string)
-						fmt.Printf("- Item %s %q in [`%s`](%s) is missing `%s`", item["itemdefid"], item["name_"+sourceLanguage], filepath.Base(file), file, prefix+lang)
+						fmt.Printf("- Item %s %q in [%s](%s) is missing `%s`", item["itemdefid"], item["name_"+sourceLanguage], filepath.Base(file), file, prefix+lang)
 					} else {
 						fmt.Printf(", `%s`", prefix+lang)
 					}
