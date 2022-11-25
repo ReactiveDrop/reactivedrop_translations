@@ -232,7 +232,7 @@ func generateReport() {
 		}
 
 		if incomplete == 0 {
-			fmt.Print(" ✓ |")
+			fmt.Print(" ✔️ |")
 		} else {
 			fmt.Printf(" %d |", incomplete)
 		}
