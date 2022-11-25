@@ -185,9 +185,9 @@
 "[english]StatsWeb_GlobalStatsDesc"		"Alien Swarm: Reactive Drop global mission statistics."
 "StatsWeb_GlobalWeaponStatsDesc"		"Una lista di statistiche in assoluto globali per ogni arma disponibile su Alien Swarm: Reactive Drop."
 "[english]StatsWeb_GlobalWeaponStatsDesc"		"A list of all-time global statistics for every weapon available in Alien Swarm: Reactive Drop."
-		"StatsWeb_DateFormat"		"%e %B %Y"
-		// format is strftime, see https://github.com/KarpelesLab/strftime#pattern-support
-		"[english]StatsWeb_DateFormat"		"%e %B %Y"
+"StatsWeb_DateFormat"		"%e %B %Y"
+// format is strftime, see https://github.com/KarpelesLab/strftime#pattern-support
+"[english]StatsWeb_DateFormat"		"%e %B %Y"
 "StatsWeb_StartedMinutesAgo"		"Iniziata %d minuti fa"
 "[english]StatsWeb_StartedMinutesAgo"		"Started %d minutes ago"
 "StatsWeb_StartedHoursAgo"		"Iniziata %d ore fa"
