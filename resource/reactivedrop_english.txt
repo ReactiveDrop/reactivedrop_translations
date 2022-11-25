@@ -313,12 +313,7 @@
 "asw_objective_titlef"	"%s1"
 "asw_objective_complete"	"Objective complete!"
 "rd_objective_chat_message"	"Objective %s1 complete! \nTime: %s2 Delta with previous objective: %s3\n"
-"rd_points_awarding_message_0"		"Awarding ~~~%s1 points to ~~~%s2, total = ~~~%s3\n"
-"rd_points_awarding_message_100"		"Awarding %s1 points to %s2, total = %s3\n"
-"rd_points_awarding_message_225"		"Awarding jO1%s1 points to jO1%s2, total = jO1%s3\n"
-"rd_points_awarding_message_500"		"Awarding %s1 points to %s2, total = %s3\n"
-"rd_points_awarding_message_1000"		"Awarding  Y))E,,%s1 points to  Y))E,,%s2, total =  Y))E,,%s3\n"
-"rd_points_awarding_message_1750"		"Awarding  j'tC0k%s1 points to  j'tC0k%s2, total =  j'tC0k%s3\n"
+"rd_points_awarding_message"		"Awarding %s4%s1 points to %s4%s2, total = %s4%s3\n"
 
 "asw_mission_complete_CAMPAIGN"	"CAMPAIGN"
 "asw_mission_complete_MISSION"	"MISSION"
