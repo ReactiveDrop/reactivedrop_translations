@@ -255,7 +255,7 @@ func generateReport() {
 		}
 	}
 
-	fmt.Print("\n# Per-File Breakdown\n\n")
+	fmt.Print("\n\n# Per-File Breakdown\n\n")
 
 	anyNonReported := false
 	for _, lang := range derivedLanguages {
@@ -264,7 +264,7 @@ func generateReport() {
 			continue
 		}
 
-		fmt.Printf("## %s (%s)\n\n", lang, display.Self.Name(translation.FromSteamLanguage[lang]))
+		fmt.Printf("<details><summary>\n\n## %s (%s)\n\n</summary>\n", lang, display.Self.Name(translation.FromSteamLanguage[lang]))
 
 		any := false
 
@@ -279,7 +279,7 @@ func generateReport() {
 				any = true
 				anyStrings = true
 
-				fmt.Printf("<details><summary>Strings</summary>\n\n")
+				fmt.Printf("\n### Strings\n\n")
 			}
 
 			name := file.prefix + lang + file.suffix
@@ -290,10 +290,6 @@ func generateReport() {
 			} else {
 				fmt.Printf("- [%s](%s) has %d untranslated strings.\n", filepath.Base(name), name, indented)
 			}
-		}
-
-		if anyStrings {
-			fmt.Printf("\n</details>\n\n")
 		}
 
 		for i, files := range checked {
@@ -309,7 +305,7 @@ func generateReport() {
 					any = true
 					anyOther = true
 
-					fmt.Printf("<details><summary>%s</summary>\n\n", checkButNoSync[i].category)
+					fmt.Printf("\n### %s\n\n", checkButNoSync[i].category)
 				}
 
 				name := file.prefix + lang + file.suffix
@@ -320,10 +316,6 @@ func generateReport() {
 				} else {
 					fmt.Printf("- [%s](%s) has %d indented lines.\n", filepath.Base(name), name, indented)
 				}
-			}
-
-			if anyOther {
-				fmt.Printf("\n</details>\n\n")
 			}
 		}
 
@@ -338,7 +330,7 @@ func generateReport() {
 					if !anyItems {
 						any = true
 						anyItems = true
-						fmt.Print("<details><summary>Inventory Schema</summary>\n\n")
+						fmt.Print("\n### Inventory Schema</summary>\n\n")
 					}
 
 					if !anyThisItem {
@@ -356,13 +348,11 @@ func generateReport() {
 			}
 		}
 
-		if anyItems {
-			fmt.Print("\n</details>\n\n")
+		if !any {
+			fmt.Print("\n✓ Up to date!\n")
 		}
 
-		if !any {
-			fmt.Print("✓ Up to date!\n")
-		}
+		fmt.Print("\n</details>\n\n")
 	}
 
 	if anyNonReported {
