@@ -9,7 +9,7 @@
 | [French](#french-français) | 25 | 73 | 10 | 1466 | 191 | 359 | 125 | 123 |
 | [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | 27 | ✔️ | ✔️ | ✔️ | 2 |
 | [Hungarian](#non-curated-languages) | 49 | 73 | 10 | 2117 | 191 | 690 | 125 | 145 |
-| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | 27 | 2 | ✔️ | ✔️ | 1 |
+| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | 27 | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | 49 | 12 | 44 | ✔️ | 2 |
 | [Korean](#koreana-한국어) | 47 | 10 | 6 | 976 | 43 | 253 | 125 | 49 |
 | [Norwegian Bokmål](#non-curated-languages) | 67 | 648 | 15 | 2834 | 191 | 425 | 125 | 145 |
@@ -469,12 +469,7 @@
 
 ### Strings
 
-- [statsweb_italian.vdf](community/stats_website/statsweb_italian.vdf) has 2 untranslated strings.
 - [reactivedrop_italian.txt](resource/reactivedrop_italian.txt) has 27 untranslated strings.
-
-### Upcoming Release Notes
-
-- [20230420_italian.xml](release_notes/20230420_italian.xml) has 1 indented lines.
 
 </details>
 
