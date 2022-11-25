@@ -24,40 +24,43 @@
 | [Turkish](#non-curated-languages) | 49 | 72 | 10 | 2117 | 191 | 690 | 125 | 145 |
 | [Ukrainian](#ukrainian-українська) | 25 | 66 | 9 | 1646 | 191 | 690 | 123 | 145 |
 | [Vietnamese](#vietnamese-tiếng-việt) | 1279 | 1948 | 605 | 3623 | 191 | 641 | 125 | 131 |
+
 # Per-File Breakdown
+
+<details><summary>
 
 ## schinese (简体中文)
 
-<details><summary>Strings</summary>
+</summary>
+
+### Strings
 
 - [statsweb_schinese.vdf](community/stats_website/statsweb_schinese.vdf) has 2 untranslated strings.
 - [gameui_schinese.txt](resource/gameui_schinese.txt) has 1 untranslated strings.
 - [reactivedrop_schinese.txt](resource/reactivedrop_schinese.txt) has 52 untranslated strings.
 
-</details>
-
-<details><summary>Steam Store and Community</summary>
+### Steam Store and Community
 
 - [mappingcontest2023_schinese.txt](community/workshop/mappingcontest2023_english.txt) is missing.
 - [workshop_tags_schinese.json](community/workshop/workshop_tags_schinese.json) has 1 indented lines.
 
-</details>
-
-<details><summary>Upcoming Release Notes</summary>
+### Upcoming Release Notes
 
 - [20230420_schinese.xml](release_notes/20230420_schinese.xml) has 40 indented lines.
 
-</details>
-
-<details><summary>Inventory Schema</summary>
+### Inventory Schema</summary>
 
 - Item 15 "Top 20 - Heroes of the Interstellar Armed Forces" in [`item-schema-automated.json`](community/inventory_service/item-schema-automated.json) is missing `description_schinese`
 
 </details>
 
+<details><summary>
+
 ## tchinese (繁體中文)
 
-<details><summary>Strings</summary>
+</summary>
+
+### Strings
 
 - [reactivedrop_tchinese.txt](addons/ExampleAddon/resource/reactivedrop_tchinese.txt) has 39 untranslated strings.
 - [statsweb_tchinese.vdf](community/stats_website/statsweb_tchinese.vdf) has 191 untranslated strings.
@@ -66,9 +69,7 @@
 - [gameui_tchinese.txt](resource/gameui_tchinese.txt) has 1 untranslated strings.
 - [reactivedrop_tchinese.txt](resource/reactivedrop_tchinese.txt) has 1998 untranslated strings.
 
-</details>
-
-<details><summary>Steam Store and Community</summary>
+### Steam Store and Community
 
 - [eula_tchinese.txt](community/eula/eula_english.txt) is missing.
 - [app_items_563560_tchinese.json](community/points_shop/app_items_563560_english.json) is missing.
@@ -78,16 +79,12 @@
 - [content_warning_563560_tchinese.txt](store_page/content_warning_563560_english.txt) is missing.
 - [storepage_81731_tchinese.json](store_page/storepage_81731_tchinese.json) has 6 indented lines.
 
-</details>
-
-<details><summary>Upcoming Release Notes</summary>
+### Upcoming Release Notes
 
 - [20230419_tchinese.xml](release_notes/20230419_english.xml) is missing.
 - [20230420_tchinese.xml](release_notes/20230420_english.xml) is missing.
 
-</details>
-
-<details><summary>Credits</summary>
+### Credits
 
 - [asw_credits_tchinese.txt](credits/asw_credits_english.txt) is missing.
 - [biogen_corporation_credits_tchinese.txt](credits/biogen_corporation_credits_english.txt) is missing.
@@ -103,9 +100,7 @@
 - [rd_research7_credits_tchinese.txt](credits/rd_research7_credits_english.txt) is missing.
 - [tilarus5_credits_tchinese.txt](credits/tilarus5_credits_english.txt) is missing.
 
-</details>
-
-<details><summary>Mail and News</summary>
+### Mail and News
 
 - [3rdmappdasmugler_tchinese.txt](resource/mail/3rdmappdasmugler_english.txt) is missing.
 - [3rdmappdaworker_tchinese.txt](resource/mail/3rdmappdaworker_english.txt) is missing.
@@ -230,9 +225,7 @@
 - [rd-spaceport_news1_tchinese.txt](resource/news/rd-spaceport_news1_english.txt) is missing.
 - [refugeenews_tchinese.txt](resource/news/refugeenews_english.txt) is missing.
 
-</details>
-
-<details><summary>Inventory Schema</summary>
+### Inventory Schema</summary>
 
 - Item 1 "Participant - Heroes of the Interstellar Armed Forces" in [`item-schema-automated.json`](community/inventory_service/item-schema-automated.json) is missing `name_tchinese`, `briefing_name_tchinese`, `description_tchinese`, `before_description_tchinese`, `after_description_tchinese`, `display_type_tchinese`
 - Item 2 "Elite - Heroes of the Interstellar Armed Forces" in [`item-schema-automated.json`](community/inventory_service/item-schema-automated.json) is missing `name_tchinese`, `briefing_name_tchinese`, `description_tchinese`, `before_description_tchinese`, `after_description_tchinese`, `display_type_tchinese`
@@ -263,9 +256,13 @@
 
 </details>
 
+<details><summary>
+
 ## french (français)
 
-<details><summary>Strings</summary>
+</summary>
+
+### Strings
 
 - [reactivedrop_french.txt](addons/ExampleAddon/resource/reactivedrop_french.txt) has 39 untranslated strings.
 - [inventory_service_tags_french.vdf](community/inventory_service/inventory_service_tags_french.vdf) has 7 untranslated strings.
@@ -278,9 +275,7 @@
 - [reactivedrop_french.txt](resource/reactivedrop_french.txt) has 1466 untranslated strings.
 - [valve_french.txt](resource/valve_french.txt) has 196 untranslated strings.
 
-</details>
-
-<details><summary>Steam Store and Community</summary>
+### Steam Store and Community
 
 - [app_items_563560_french.json](community/points_shop/app_items_563560_english.json) is missing.
 - [mappingcontest2023_french.txt](community/workshop/mappingcontest2023_english.txt) is missing.
@@ -289,16 +284,12 @@
 - [content_warning_563560_french.txt](store_page/content_warning_563560_english.txt) is missing.
 - [storepage_81731_french.json](store_page/storepage_81731_french.json) has 6 indented lines.
 
-</details>
-
-<details><summary>Upcoming Release Notes</summary>
+### Upcoming Release Notes
 
 - [20230419_french.xml](release_notes/20230419_english.xml) is missing.
 - [20230420_french.xml](release_notes/20230420_english.xml) is missing.
 
-</details>
-
-<details><summary>Credits</summary>
+### Credits
 
 - [CustomCampaignCredits_french.txt](addons/ExampleAddon/resource/CustomCampaignCredits_english.txt) is missing.
 - [asw_credits_french.txt](credits/asw_credits_english.txt) is missing.
@@ -315,9 +306,7 @@
 - [rd_research7_credits_french.txt](credits/rd_research7_credits_english.txt) is missing.
 - [tilarus5_credits_french.txt](credits/tilarus5_credits_english.txt) is missing.
 
-</details>
-
-<details><summary>Mail and News</summary>
+### Mail and News
 
 - [3rdmappdasmugler_french.txt](resource/mail/3rdmappdasmugler_english.txt) is missing.
 - [3rdmappdaworker_french.txt](resource/mail/3rdmappdaworker_english.txt) is missing.
@@ -421,9 +410,7 @@
 - [rd-spaceport_news1_french.txt](resource/news/rd-spaceport_news1_english.txt) is missing.
 - [refugeenews_french.txt](resource/news/refugeenews_english.txt) is missing.
 
-</details>
-
-<details><summary>Inventory Schema</summary>
+### Inventory Schema</summary>
 
 - Item 1 "Participant - Heroes of the Interstellar Armed Forces" in [`item-schema-automated.json`](community/inventory_service/item-schema-automated.json) is missing `name_french`, `briefing_name_french`, `description_french`, `before_description_french`, `after_description_french`, `display_type_french`
 - Item 2 "Elite - Heroes of the Interstellar Armed Forces" in [`item-schema-automated.json`](community/inventory_service/item-schema-automated.json) is missing `name_french`, `briefing_name_french`, `description_french`, `before_description_french`, `after_description_french`, `display_type_french`
@@ -454,67 +441,73 @@
 
 </details>
 
+<details><summary>
+
 ## german (Deutsch)
 
-<details><summary>Strings</summary>
+</summary>
+
+### Strings
 
 - [reactivedrop_german.txt](resource/reactivedrop_german.txt) has 27 untranslated strings.
 
-</details>
-
-<details><summary>Upcoming Release Notes</summary>
+### Upcoming Release Notes
 
 - [20230420_german.xml](release_notes/20230420_german.xml) has 1 indented lines.
 
-</details>
-
-<details><summary>Credits</summary>
+### Credits
 
 - [rd-tarnor_credits_german.txt](credits/rd-tarnor_credits_german.txt) has 25 indented lines.
 
 </details>
 
+<details><summary>
+
 ## italian (italiano)
 
-<details><summary>Strings</summary>
+</summary>
+
+### Strings
 
 - [statsweb_italian.vdf](community/stats_website/statsweb_italian.vdf) has 2 untranslated strings.
 - [reactivedrop_italian.txt](resource/reactivedrop_italian.txt) has 27 untranslated strings.
 
-</details>
-
-<details><summary>Upcoming Release Notes</summary>
+### Upcoming Release Notes
 
 - [20230420_italian.xml](release_notes/20230420_italian.xml) has 1 indented lines.
 
 </details>
 
+<details><summary>
+
 ## japanese (日本語)
 
-<details><summary>Strings</summary>
+</summary>
+
+### Strings
 
 - [statsweb_japanese.vdf](community/stats_website/statsweb_japanese.vdf) has 12 untranslated strings.
 - [vgui_japanese.txt](platform/vgui_japanese.txt) has 37 untranslated strings.
 - [reactivedrop_japanese.txt](resource/reactivedrop_japanese.txt) has 49 untranslated strings.
 - [valve_japanese.txt](resource/valve_japanese.txt) has 7 untranslated strings.
 
-</details>
-
-<details><summary>Steam Store and Community</summary>
+### Steam Store and Community
 
 - [storepage_81731_japanese.json](store_page/storepage_81731_japanese.json) has 1 indented lines.
 
-</details>
-
-<details><summary>Upcoming Release Notes</summary>
+### Upcoming Release Notes
 
 - [20230420_japanese.xml](release_notes/20230420_japanese.xml) has 1 indented lines.
 
 </details>
 
+<details><summary>
+
 ## koreana (한국어)
 
-<details><summary>Strings</summary>
+</summary>
+
+### Strings
 
 - [reactivedrop_koreana.txt](addons/ExampleAddon/resource/reactivedrop_koreana.txt) has 39 untranslated strings.
 - [inventory_service_tags_koreana.vdf](community/inventory_service/inventory_service_tags_koreana.vdf) has 7 untranslated strings.
@@ -527,9 +520,7 @@
 - [reactivedrop_koreana.txt](resource/reactivedrop_koreana.txt) has 976 untranslated strings.
 - [valve_koreana.txt](resource/valve_koreana.txt) has 90 untranslated strings.
 
-</details>
-
-<details><summary>Steam Store and Community</summary>
+### Steam Store and Community
 
 - [eula_koreana.txt](community/eula/eula_english.txt) is missing.
 - [mappingcontest2023_koreana.txt](community/workshop/mappingcontest2023_english.txt) is missing.
@@ -538,16 +529,12 @@
 - [content_warning_563560_koreana.txt](store_page/content_warning_563560_english.txt) is missing.
 - [storepage_81731_koreana.json](store_page/storepage_81731_koreana.json) has 6 indented lines.
 
-</details>
-
-<details><summary>Upcoming Release Notes</summary>
+### Upcoming Release Notes
 
 - [20230419_koreana.xml](release_notes/20230419_english.xml) is missing.
 - [20230420_koreana.xml](release_notes/20230420_english.xml) is missing.
 
-</details>
-
-<details><summary>Credits</summary>
+### Credits
 
 - [CustomCampaignCredits_koreana.txt](addons/ExampleAddon/resource/CustomCampaignCredits_english.txt) is missing.
 - [asw_credits_koreana.txt](credits/asw_credits_english.txt) is missing.
@@ -564,9 +551,7 @@
 - [rd_research7_credits_koreana.txt](credits/rd_research7_credits_english.txt) is missing.
 - [tilarus5_credits_koreana.txt](credits/tilarus5_credits_english.txt) is missing.
 
-</details>
-
-<details><summary>Mail and News</summary>
+### Mail and News
 
 - [3rdmappdasmugler_koreana.txt](resource/mail/3rdmappdasmugler_english.txt) is missing.
 - [3rdmappdaworker_koreana.txt](resource/mail/3rdmappdaworker_english.txt) is missing.
@@ -596,9 +581,7 @@
 - [nh_news_announcement_koreana.txt](resource/news/nh_news_announcement_english.txt) is missing.
 - [nh_news_prospectus_koreana.txt](resource/news/nh_news_prospectus_english.txt) is missing.
 
-</details>
-
-<details><summary>Inventory Schema</summary>
+### Inventory Schema</summary>
 
 - Item 1 "Participant - Heroes of the Interstellar Armed Forces" in [`item-schema-automated.json`](community/inventory_service/item-schema-automated.json) is missing `name_koreana`, `briefing_name_koreana`, `description_koreana`, `before_description_koreana`, `after_description_koreana`, `display_type_koreana`
 - Item 2 "Elite - Heroes of the Interstellar Armed Forces" in [`item-schema-automated.json`](community/inventory_service/item-schema-automated.json) is missing `name_koreana`, `briefing_name_koreana`, `description_koreana`, `before_description_koreana`, `after_description_koreana`, `display_type_koreana`
@@ -629,9 +612,13 @@
 
 </details>
 
+<details><summary>
+
 ## polish (polski)
 
-<details><summary>Strings</summary>
+</summary>
+
+### Strings
 
 - [reactivedrop_polish.txt](addons/ExampleAddon/resource/reactivedrop_polish.txt) has 39 untranslated strings.
 - [inventory_service_tags_polish.vdf](community/inventory_service/inventory_service_tags_polish.vdf) has 7 untranslated strings.
@@ -645,9 +632,7 @@
 - [reactivedrop_polish.txt](resource/reactivedrop_polish.txt) has 2117 untranslated strings.
 - [valve_polish.txt](resource/valve_polish.txt) has 266 untranslated strings.
 
-</details>
-
-<details><summary>Steam Store and Community</summary>
+### Steam Store and Community
 
 - [eula_polish.txt](community/eula/eula_english.txt) is missing.
 - [app_items_563560_polish.json](community/points_shop/app_items_563560_english.json) is missing.
@@ -657,16 +642,12 @@
 - [content_warning_563560_polish.txt](store_page/content_warning_563560_english.txt) is missing.
 - [storepage_81731_polish.json](store_page/storepage_81731_polish.json) has 6 indented lines.
 
-</details>
-
-<details><summary>Upcoming Release Notes</summary>
+### Upcoming Release Notes
 
 - [20230419_polish.xml](release_notes/20230419_english.xml) is missing.
 - [20230420_polish.xml](release_notes/20230420_english.xml) is missing.
 
-</details>
-
-<details><summary>Credits</summary>
+### Credits
 
 - [CustomCampaignCredits_polish.txt](addons/ExampleAddon/resource/CustomCampaignCredits_english.txt) is missing.
 - [asw_credits_polish.txt](credits/asw_credits_english.txt) is missing.
@@ -683,9 +664,7 @@
 - [rd_research7_credits_polish.txt](credits/rd_research7_credits_english.txt) is missing.
 - [tilarus5_credits_polish.txt](credits/tilarus5_credits_english.txt) is missing.
 
-</details>
-
-<details><summary>Mail and News</summary>
+### Mail and News
 
 - [3rdmappdasmugler_polish.txt](resource/mail/3rdmappdasmugler_english.txt) is missing.
 - [3rdmappdaworker_polish.txt](resource/mail/3rdmappdaworker_english.txt) is missing.
@@ -810,9 +789,7 @@
 - [rd-spaceport_news1_polish.txt](resource/news/rd-spaceport_news1_english.txt) is missing.
 - [refugeenews_polish.txt](resource/news/refugeenews_english.txt) is missing.
 
-</details>
-
-<details><summary>Inventory Schema</summary>
+### Inventory Schema</summary>
 
 - Item 1 "Participant - Heroes of the Interstellar Armed Forces" in [`item-schema-automated.json`](community/inventory_service/item-schema-automated.json) is missing `name_polish`, `briefing_name_polish`, `description_polish`, `before_description_polish`, `after_description_polish`, `display_type_polish`
 - Item 2 "Elite - Heroes of the Interstellar Armed Forces" in [`item-schema-automated.json`](community/inventory_service/item-schema-automated.json) is missing `name_polish`, `briefing_name_polish`, `description_polish`, `before_description_polish`, `after_description_polish`, `display_type_polish`
@@ -843,9 +820,13 @@
 
 </details>
 
+<details><summary>
+
 ## portuguese (português europeu)
 
-<details><summary>Strings</summary>
+</summary>
+
+### Strings
 
 - [reactivedrop_portuguese.txt](addons/ExampleAddon/resource/reactivedrop_portuguese.txt) has 12 untranslated strings.
 - [inventory_service_tags_portuguese.vdf](community/inventory_service/inventory_service_tags_portuguese.vdf) has 1 untranslated strings.
@@ -857,9 +838,7 @@
 - [reactivedrop_portuguese.txt](resource/reactivedrop_portuguese.txt) has 1419 untranslated strings.
 - [valve_portuguese.txt](resource/valve_portuguese.txt) has 266 untranslated strings.
 
-</details>
-
-<details><summary>Steam Store and Community</summary>
+### Steam Store and Community
 
 - [eula_portuguese.txt](community/eula/eula_english.txt) is missing.
 - [app_items_563560_portuguese.json](community/points_shop/app_items_563560_english.json) is missing.
@@ -867,16 +846,12 @@
 - [workshop_tags_portuguese.json](community/workshop/workshop_tags_portuguese.json) has 1 indented lines.
 - [storepage_81731_portuguese.json](store_page/storepage_81731_portuguese.json) has 1 indented lines.
 
-</details>
-
-<details><summary>Upcoming Release Notes</summary>
+### Upcoming Release Notes
 
 - [20230419_portuguese.xml](release_notes/20230419_english.xml) is missing.
 - [20230420_portuguese.xml](release_notes/20230420_english.xml) is missing.
 
-</details>
-
-<details><summary>Credits</summary>
+### Credits
 
 - [biogen_corporation_credits_portuguese.txt](credits/biogen_corporation_credits_english.txt) is missing.
 - [credits_acc32_official_portuguese.txt](credits/credits_acc32_official_english.txt) is missing.
@@ -891,9 +866,7 @@
 - [rd_research7_credits_portuguese.txt](credits/rd_research7_credits_english.txt) is missing.
 - [tilarus5_credits_portuguese.txt](credits/tilarus5_credits_english.txt) is missing.
 
-</details>
-
-<details><summary>Mail and News</summary>
+### Mail and News
 
 - [3rdmappdasmugler_portuguese.txt](resource/mail/3rdmappdasmugler_english.txt) is missing.
 - [3rdmappdaworker_portuguese.txt](resource/mail/3rdmappdaworker_english.txt) is missing.
@@ -1018,9 +991,7 @@
 - [rd-spaceport_news1_portuguese.txt](resource/news/rd-spaceport_news1_english.txt) is missing.
 - [refugeenews_portuguese.txt](resource/news/refugeenews_english.txt) is missing.
 
-</details>
-
-<details><summary>Inventory Schema</summary>
+### Inventory Schema</summary>
 
 - Item 1 "Participant - Heroes of the Interstellar Armed Forces" in [`item-schema-automated.json`](community/inventory_service/item-schema-automated.json) is missing `name_portuguese`, `briefing_name_portuguese`, `description_portuguese`, `before_description_portuguese`, `after_description_portuguese`, `display_type_portuguese`
 - Item 2 "Elite - Heroes of the Interstellar Armed Forces" in [`item-schema-automated.json`](community/inventory_service/item-schema-automated.json) is missing `name_portuguese`, `briefing_name_portuguese`, `description_portuguese`, `before_description_portuguese`, `after_description_portuguese`, `display_type_portuguese`
@@ -1051,9 +1022,13 @@
 
 </details>
 
+<details><summary>
+
 ## brazilian (português)
 
-<details><summary>Strings</summary>
+</summary>
+
+### Strings
 
 - [inventory_service_tags_brazilian.vdf](community/inventory_service/inventory_service_tags_brazilian.vdf) has 7 untranslated strings.
 - [statsweb_brazilian.vdf](community/stats_website/statsweb_brazilian.vdf) has 7 untranslated strings.
@@ -1064,9 +1039,7 @@
 - [gameui_brazilian.txt](resource/gameui_brazilian.txt) has 2 untranslated strings.
 - [reactivedrop_brazilian.txt](resource/reactivedrop_brazilian.txt) has 358 untranslated strings.
 
-</details>
-
-<details><summary>Steam Store and Community</summary>
+### Steam Store and Community
 
 - [eula_brazilian.txt](community/eula/eula_english.txt) is missing.
 - [mappingcontest2023_brazilian.txt](community/workshop/mappingcontest2023_english.txt) is missing.
@@ -1074,23 +1047,17 @@
 - [content_warning_563560_brazilian.txt](store_page/content_warning_563560_english.txt) is missing.
 - [storepage_81731_brazilian.json](store_page/storepage_81731_brazilian.json) has 6 indented lines.
 
-</details>
-
-<details><summary>Upcoming Release Notes</summary>
+### Upcoming Release Notes
 
 - [20230419_brazilian.xml](release_notes/20230419_english.xml) is missing.
 - [20230420_brazilian.xml](release_notes/20230420_english.xml) is missing.
 
-</details>
-
-<details><summary>Credits</summary>
+### Credits
 
 - [rd_bonus_missions_credits_brazilian.txt](credits/rd_bonus_missions_credits_brazilian.txt) has 1 indented lines.
 - [rd_research7_credits_brazilian.txt](credits/rd_research7_credits_english.txt) is missing.
 
-</details>
-
-<details><summary>Mail and News</summary>
+### Mail and News
 
 - [3rdmappdaworker_brazilian.txt](resource/mail/3rdmappdaworker_english.txt) is missing.
 - [acc32_mail_localhouses_brazilian.txt](resource/mail/acc32_mail_localhouses_english.txt) is missing.
@@ -1101,32 +1068,36 @@
 - [acc_research2_brazilian.txt](resource/mail/acc_research2_english.txt) is missing.
 - [antheonmoonnews_brazilian.txt](resource/news/antheonmoonnews_english.txt) is missing.
 
-</details>
-
-<details><summary>Inventory Schema</summary>
+### Inventory Schema</summary>
 
 - Item 5 "Elite - Heroes of the Interstellar Armed Forces" in [`item-schema-automated.json`](community/inventory_service/item-schema-automated.json) is missing `display_type_brazilian`
 - Item 6 "Elite - Heroes of the Interstellar Armed Forces" in [`item-schema-automated.json`](community/inventory_service/item-schema-automated.json) is missing `display_type_brazilian`
 
 </details>
 
+<details><summary>
+
 ## russian (русский)
 
-<details><summary>Strings</summary>
+</summary>
+
+### Strings
 
 - [reactivedrop_russian.txt](resource/reactivedrop_russian.txt) has 27 untranslated strings.
 
-</details>
-
-<details><summary>Upcoming Release Notes</summary>
+### Upcoming Release Notes
 
 - [20230420_russian.xml](release_notes/20230420_english.xml) is missing.
 
 </details>
 
+<details><summary>
+
 ## spanish (español de España)
 
-<details><summary>Strings</summary>
+</summary>
+
+### Strings
 
 - [reactivedrop_spanish.txt](addons/ExampleAddon/resource/reactivedrop_spanish.txt) has 39 untranslated strings.
 - [inventory_service_tags_spanish.vdf](community/inventory_service/inventory_service_tags_spanish.vdf) has 7 untranslated strings.
@@ -1139,9 +1110,7 @@
 - [reactivedrop_spanish.txt](resource/reactivedrop_spanish.txt) has 1517 untranslated strings.
 - [valve_spanish.txt](resource/valve_spanish.txt) has 266 untranslated strings.
 
-</details>
-
-<details><summary>Steam Store and Community</summary>
+### Steam Store and Community
 
 - [app_items_563560_spanish.json](community/points_shop/app_items_563560_english.json) is missing.
 - [mappingcontest2023_spanish.txt](community/workshop/mappingcontest2023_english.txt) is missing.
@@ -1150,16 +1119,12 @@
 - [content_warning_563560_spanish.txt](store_page/content_warning_563560_english.txt) is missing.
 - [storepage_81731_spanish.json](store_page/storepage_81731_spanish.json) has 6 indented lines.
 
-</details>
-
-<details><summary>Upcoming Release Notes</summary>
+### Upcoming Release Notes
 
 - [20230419_spanish.xml](release_notes/20230419_english.xml) is missing.
 - [20230420_spanish.xml](release_notes/20230420_english.xml) is missing.
 
-</details>
-
-<details><summary>Credits</summary>
+### Credits
 
 - [CustomCampaignCredits_spanish.txt](addons/ExampleAddon/resource/CustomCampaignCredits_english.txt) is missing.
 - [asw_credits_spanish.txt](credits/asw_credits_english.txt) is missing.
@@ -1176,9 +1141,7 @@
 - [rd_research7_credits_spanish.txt](credits/rd_research7_credits_english.txt) is missing.
 - [tilarus5_credits_spanish.txt](credits/tilarus5_credits_english.txt) is missing.
 
-</details>
-
-<details><summary>Mail and News</summary>
+### Mail and News
 
 - [3rdmappdasmugler_spanish.txt](resource/mail/3rdmappdasmugler_english.txt) is missing.
 - [3rdmappdaworker_spanish.txt](resource/mail/3rdmappdaworker_english.txt) is missing.
@@ -1303,9 +1266,7 @@
 - [rd-spaceport_news1_spanish.txt](resource/news/rd-spaceport_news1_english.txt) is missing.
 - [refugeenews_spanish.txt](resource/news/refugeenews_english.txt) is missing.
 
-</details>
-
-<details><summary>Inventory Schema</summary>
+### Inventory Schema</summary>
 
 - Item 1 "Participant - Heroes of the Interstellar Armed Forces" in [`item-schema-automated.json`](community/inventory_service/item-schema-automated.json) is missing `name_spanish`, `briefing_name_spanish`, `description_spanish`, `before_description_spanish`, `after_description_spanish`, `display_type_spanish`
 - Item 2 "Elite - Heroes of the Interstellar Armed Forces" in [`item-schema-automated.json`](community/inventory_service/item-schema-automated.json) is missing `name_spanish`, `briefing_name_spanish`, `description_spanish`, `before_description_spanish`, `after_description_spanish`, `display_type_spanish`
@@ -1336,9 +1297,13 @@
 
 </details>
 
+<details><summary>
+
 ## ukrainian (українська)
 
-<details><summary>Strings</summary>
+</summary>
+
+### Strings
 
 - [reactivedrop_ukrainian.txt](addons/ExampleAddon/resource/reactivedrop_ukrainian.txt) has 39 untranslated strings.
 - [inventory_service_tags_ukrainian.vdf](community/inventory_service/inventory_service_tags_ukrainian.vdf) has 7 untranslated strings.
@@ -1352,9 +1317,7 @@
 - [reactivedrop_ukrainian.txt](resource/reactivedrop_ukrainian.txt) has 1646 untranslated strings.
 - [valve_ukrainian.txt](resource/valve_ukrainian.txt) has 266 untranslated strings.
 
-</details>
-
-<details><summary>Steam Store and Community</summary>
+### Steam Store and Community
 
 - [eula_ukrainian.txt](community/eula/eula_english.txt) is missing.
 - [app_items_563560_ukrainian.json](community/points_shop/app_items_563560_english.json) is missing.
@@ -1364,16 +1327,12 @@
 - [content_warning_563560_ukrainian.txt](store_page/content_warning_563560_english.txt) is missing.
 - [storepage_81731_ukrainian.json](store_page/storepage_81731_ukrainian.json) has 6 indented lines.
 
-</details>
-
-<details><summary>Upcoming Release Notes</summary>
+### Upcoming Release Notes
 
 - [20230419_ukrainian.xml](release_notes/20230419_english.xml) is missing.
 - [20230420_ukrainian.xml](release_notes/20230420_english.xml) is missing.
 
-</details>
-
-<details><summary>Credits</summary>
+### Credits
 
 - [CustomCampaignCredits_ukrainian.txt](addons/ExampleAddon/resource/CustomCampaignCredits_english.txt) is missing.
 - [asw_credits_ukrainian.txt](credits/asw_credits_english.txt) is missing.
@@ -1390,9 +1349,7 @@
 - [rd_research7_credits_ukrainian.txt](credits/rd_research7_credits_english.txt) is missing.
 - [tilarus5_credits_ukrainian.txt](credits/tilarus5_credits_english.txt) is missing.
 
-</details>
-
-<details><summary>Mail and News</summary>
+### Mail and News
 
 - [3rdmappdasmugler_ukrainian.txt](resource/mail/3rdmappdasmugler_english.txt) is missing.
 - [3rdmappdaworker_ukrainian.txt](resource/mail/3rdmappdaworker_english.txt) is missing.
@@ -1517,9 +1474,7 @@
 - [rd-spaceport_news1_ukrainian.txt](resource/news/rd-spaceport_news1_english.txt) is missing.
 - [refugeenews_ukrainian.txt](resource/news/refugeenews_english.txt) is missing.
 
-</details>
-
-<details><summary>Inventory Schema</summary>
+### Inventory Schema</summary>
 
 - Item 1 "Participant - Heroes of the Interstellar Armed Forces" in [`item-schema-automated.json`](community/inventory_service/item-schema-automated.json) is missing `name_ukrainian`, `briefing_name_ukrainian`, `description_ukrainian`, `before_description_ukrainian`, `after_description_ukrainian`, `display_type_ukrainian`
 - Item 2 "Elite - Heroes of the Interstellar Armed Forces" in [`item-schema-automated.json`](community/inventory_service/item-schema-automated.json) is missing `name_ukrainian`, `briefing_name_ukrainian`, `description_ukrainian`, `before_description_ukrainian`, `after_description_ukrainian`, `display_type_ukrainian`
@@ -1549,9 +1504,13 @@
 
 </details>
 
+<details><summary>
+
 ## vietnamese (Tiếng Việt)
 
-<details><summary>Strings</summary>
+</summary>
+
+### Strings
 
 - [reactivedrop_vietnamese.txt](addons/ExampleAddon/resource/reactivedrop_vietnamese.txt) has 39 untranslated strings.
 - [inventory_service_tags_vietnamese.vdf](community/inventory_service/inventory_service_tags_vietnamese.vdf) has 7 untranslated strings.
@@ -1565,9 +1524,7 @@
 - [reactivedrop_vietnamese.txt](resource/reactivedrop_vietnamese.txt) has 3623 untranslated strings.
 - [valve_vietnamese.txt](resource/valve_vietnamese.txt) has 224 untranslated strings.
 
-</details>
-
-<details><summary>Steam Store and Community</summary>
+### Steam Store and Community
 
 - [eula_vietnamese.txt](community/eula/eula_english.txt) is missing.
 - [app_items_563560_vietnamese.json](community/points_shop/app_items_563560_english.json) is missing.
@@ -1577,16 +1534,12 @@
 - [content_warning_563560_vietnamese.txt](store_page/content_warning_563560_english.txt) is missing.
 - [storepage_81731_vietnamese.json](store_page/storepage_81731_vietnamese.json) has 6 indented lines.
 
-</details>
-
-<details><summary>Upcoming Release Notes</summary>
+### Upcoming Release Notes
 
 - [20230419_vietnamese.xml](release_notes/20230419_english.xml) is missing.
 - [20230420_vietnamese.xml](release_notes/20230420_english.xml) is missing.
 
-</details>
-
-<details><summary>Credits</summary>
+### Credits
 
 - [CustomCampaignCredits_vietnamese.txt](addons/ExampleAddon/resource/CustomCampaignCredits_english.txt) is missing.
 - [asw_credits_vietnamese.txt](credits/asw_credits_english.txt) is missing.
@@ -1603,9 +1556,7 @@
 - [rd_research7_credits_vietnamese.txt](credits/rd_research7_credits_english.txt) is missing.
 - [tilarus5_credits_vietnamese.txt](credits/tilarus5_credits_english.txt) is missing.
 
-</details>
-
-<details><summary>Mail and News</summary>
+### Mail and News
 
 - [3rdmappdasmugler_vietnamese.txt](resource/mail/3rdmappdasmugler_english.txt) is missing.
 - [3rdmappdaworker_vietnamese.txt](resource/mail/3rdmappdaworker_english.txt) is missing.
@@ -1716,9 +1667,7 @@
 - [rd-spaceport_news1_vietnamese.txt](resource/news/rd-spaceport_news1_english.txt) is missing.
 - [refugeenews_vietnamese.txt](resource/news/refugeenews_english.txt) is missing.
 
-</details>
-
-<details><summary>Inventory Schema</summary>
+### Inventory Schema</summary>
 
 - Item 1 "Participant - Heroes of the Interstellar Armed Forces" in [`item-schema-automated.json`](community/inventory_service/item-schema-automated.json) is missing `name_vietnamese`, `briefing_name_vietnamese`, `description_vietnamese`, `before_description_vietnamese`, `after_description_vietnamese`, `display_type_vietnamese`
 - Item 2 "Elite - Heroes of the Interstellar Armed Forces" in [`item-schema-automated.json`](community/inventory_service/item-schema-automated.json) is missing `name_vietnamese`, `briefing_name_vietnamese`, `description_vietnamese`, `before_description_vietnamese`, `after_description_vietnamese`, `display_type_vietnamese`
