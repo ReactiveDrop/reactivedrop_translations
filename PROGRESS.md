@@ -7,17 +7,17 @@
 | [Dutch](#non-curated-languages) | 49 | 1948 | 10 | 2117 | 191 | 425 | 125 | 144 |
 | [Finnish](#non-curated-languages) | 49 | 1948 | 10 | 2117 | 191 | 425 | 125 | 144 |
 | [French](#french-français) | 25 | 73 | 10 | 1466 | 191 | 359 | 125 | 123 |
-| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | 27 | ✔️ | ✔️ | ✓ | 2 |
+| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | 27 | ✔️ | ✔️ | ✔️ | 2 |
 | [Hungarian](#non-curated-languages) | 49 | 73 | 10 | 2117 | 191 | 690 | 125 | 145 |
-| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | 27 | 2 | ✔️ | ✓ | 1 |
-| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | 49 | 12 | 44 | ✓ | 2 |
+| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | 27 | 2 | ✔️ | ✔️ | 1 |
+| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | 49 | 12 | 44 | ✔️ | 2 |
 | [Korean](#koreana-한국어) | 47 | 10 | 6 | 976 | 43 | 253 | 125 | 49 |
 | [Norwegian Bokmål](#non-curated-languages) | 67 | 648 | 15 | 2834 | 191 | 425 | 125 | 145 |
 | [Polish](#polish-polski) | 26 | 1948 | 10 | 2117 | 191 | 425 | 125 | 145 |
 | [European Portuguese](#portuguese-português-europeu) | 1 | 115 | 1 | 1419 | 19 | 372 | 125 | 141 |
 | [Brazilian Portuguese](#brazilian-português) | 14 | 1948 | 2 | 358 | 7 | 377 | 2 | 17 |
 | [Romanian](#non-curated-languages) | 49 | 1940 | 16 | 2825 | 191 | 690 | 125 | 145 |
-| [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | 27 | ✔️ | ✔️ | ✓ | 1 |
+| [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | 27 | ✔️ | ✔️ | ✔️ | 1 |
 | [European Spanish](#spanish-español-de-españa) | 26 | 1948 | 8 | 1517 | 191 | 429 | 125 | 144 |
 | [Swedish](#non-curated-languages) | 49 | 1948 | 10 | 2117 | 191 | 425 | 125 | 145 |
 | [Thai](#non-curated-languages) | 964 | 1937 | 18 | 3359 | 191 | 454 | 125 | 145 |
