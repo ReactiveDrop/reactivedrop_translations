@@ -173,11 +173,18 @@ func generateReport() {
 		inventoryItems = append(inventoryItems, data.Items...)
 	})
 
-	fmt.Print("| Language | Strings |")
+	fmt.Print("| Language |")
+	for _, file := range importantLanguageFiles {
+		fmt.Printf(" %s |", filepath.Base(file[0][:len(file[0])-1]))
+	}
+	fmt.Print(" Addons |")
 	for _, check := range checkButNoSync {
 		fmt.Printf(" %s |", check.short)
 	}
 	fmt.Print(" Inventory |\n| --- | --- | --- |")
+	for range importantLanguageFiles {
+		fmt.Print(" --- |")
+	}
 	for range checkButNoSync {
 		fmt.Print(" --- |")
 	}
@@ -187,22 +194,34 @@ func generateReport() {
 			continue
 		}
 
-		slug := "#non-curated-languages"
+		slug := "non-curated-languages"
 		if reportedLanguages[lang] {
 			slug = strings.ReplaceAll(strings.ToLower(lang+" "+display.Self.Name(translation.FromSteamLanguage[lang])), " ", "-")
 		}
 
-		fmt.Printf("\n| [%s](#%s \"%s\") |", translation.FromSteamLanguage[lang].String(), slug, display.Self.Name(translation.FromSteamLanguage[lang]))
+		fmt.Printf("\n| [%s](#%s) |", display.Self.Name(translation.FromSteamLanguage[lang]), slug)
+
+		isImportantFile := make(map[[2]string]bool)
+		for _, file := range importantLanguageFiles {
+			isImportantFile[file] = true
+			if languageFiles[file][lang] == 0 {
+				fmt.Print(" ✔️ |")
+			} else {
+				fmt.Printf(" %d |", languageFiles[file][lang])
+			}
+		}
 
 		// for strings, count each incomplete string; don't count entirely missing
 		// files as we auto-sync these, but report them below in case we mess up
 		incomplete := 0
 		for _, file := range sortedLanguageFiles {
-			incomplete += file.indented[lang]
+			if !isImportantFile[[2]string{file.prefix, file.suffix}] {
+				incomplete += file.indented[lang]
+			}
 		}
 
 		if incomplete == 0 {
-			fmt.Print(" ✓ |")
+			fmt.Print(" ✔️ |")
 		} else {
 			fmt.Printf(" %d |", incomplete)
 		}
@@ -219,7 +238,7 @@ func generateReport() {
 			}
 
 			if incomplete == 0 {
-				fmt.Print(" ✓ |")
+				fmt.Print(" ✔️ |")
 			} else {
 				fmt.Printf(" %d |", incomplete)
 			}

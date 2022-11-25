@@ -96,6 +96,16 @@ var txtAddonLanguageFiles = [...]string{
 	"../addons/*/resource/reactivedrop",
 }
 
+var importantLanguageFiles = [...][2]string{
+	{"platform/servers/serverbrowser_", ".txt"},
+	{"platform/vgui_", ".txt"},
+	{"resource/basemodui_", ".txt"},
+	{"resource/closecaption_", ".txt"},
+	{"resource/gameui_", ".txt"},
+	{"resource/reactivedrop_", ".txt"},
+	{"community/stats_website/statsweb_", ".vdf"},
+}
+
 var checkButNoSync = [...]struct {
 	category string
 	short    string
@@ -121,11 +131,17 @@ var checkButNoSync = [...]struct {
 		},
 	},
 	{
-		category: "Credits, Mail, and News",
-		short:    "Other Files",
+		category: "Credits",
+		short:    "Credits",
 		patterns: []string{
 			"../credits/*.txt",
 			"../addons/*/resource/*.txt",
+		},
+	},
+	{
+		category: "Mail and News",
+		short:    "Mail and News",
+		patterns: []string{
 			"../resource/mail/*.txt",
 			"../addons/*/resource/mail/*.txt",
 			"../resource/news/*.txt",
