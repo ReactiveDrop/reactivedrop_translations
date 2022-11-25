@@ -74,7 +74,8 @@ TODO
 		[*]asw_env_shake can now be flagged to bypass user settings (a new convar has been added for disabling [i]all[/i] shakes regardless of this flag).
 		[*]Added env_headcrabcanister.
 		[*]Added script_intro.
-		[*]A new material proxy, LanguagePreference, can be used to change a texture based on the viewer's language preference. For example:[code]UnlitGeneric {
+		[*]A new material proxy, LanguagePreference, can be used to change a texture based on the viewer's language preference. For example:
+[code]UnlitGeneric {
     $basetexture "example/translated_texture_english"
 
     Proxies {
