@@ -1,4 +1,32 @@
-# schinese (简体中文)
+| Language | Strings | Store/Community | Release Notes | Other Files | Inventory |
+| --- | --- | --- | --- | --- | --- |
+| [zh-Hans](#schinese-简体中文 "简体中文") | 55 | 2 | 1 | ✓ | 1 |
+| [zh-Hant](#tchinese-繁體中文 "繁體中文") | 2311 | 7 | 2 | 135 | 125 |
+| [cs](##non-curated-languages "čeština") | 5838 | 6 | 2 | 136 | 125 |
+| [da](##non-curated-languages "dansk") | 3497 | 7 | 2 | 136 | 125 |
+| [nl](##non-curated-languages "Nederlands") | 4740 | 6 | 2 | 136 | 125 |
+| [fi](##non-curated-languages "suomi") | 4740 | 6 | 2 | 136 | 125 |
+| [fr](#french-français "français") | 2124 | 6 | 2 | 115 | 125 |
+| [de](#german-deutsch "Deutsch") | 27 | ✓ | 1 | 1 | ✓ |
+| [hu](##non-curated-languages "magyar") | 3130 | 7 | 2 | 136 | 125 |
+| [it](#italian-italiano "italiano") | 29 | ✓ | 1 | ✓ | ✓ |
+| [ja](#japanese-日本語 "日本語") | 105 | 1 | 1 | ✓ | ✓ |
+| [ko](#koreana-한국어 "한국어") | 1335 | 6 | 2 | 41 | 125 |
+| [no](##non-curated-languages "norsk bokmål") | 4180 | 7 | 2 | 136 | 125 |
+| [pl](#polish-polski "polski") | 4717 | 7 | 2 | 136 | 125 |
+| [pt-PT](#portuguese-português-europeu "português europeu") | 1927 | 5 | 2 | 134 | 125 |
+| [pt-BR](#brazilian-português "português") | 2706 | 5 | 2 | 10 | 2 |
+| [ro](##non-curated-languages "română") | 5711 | 7 | 2 | 136 | 125 |
+| [ru](#russian-русский "русский") | 27 | ✓ | 1 | ✓ | ✓ |
+| [es-ES](#spanish-español-de-españa "español de España") | 4119 | 6 | 2 | 136 | 125 |
+| [sv](##non-curated-languages "svenska") | 4740 | 7 | 2 | 136 | 125 |
+| [th](##non-curated-languages "ไทย") | 6923 | 7 | 2 | 136 | 125 |
+| [tr](##non-curated-languages "Türkçe") | 3129 | 7 | 2 | 136 | 125 |
+| [uk](#ukrainian-українська "українська") | 2627 | 7 | 2 | 136 | 123 |
+| [vi](#vietnamese-tiếng-việt "Tiếng Việt") | 8287 | 7 | 2 | 122 | 125 |
+# Per-File Breakdown
+
+## schinese (简体中文)
 
 <details><summary>Strings</summary>
 
@@ -17,7 +45,7 @@
 
 <details><summary>Upcoming Release Notes</summary>
 
-- [20230420_schinese.xml](release_notes/20230420_schinese.xml) has 39 indented lines.
+- [20230420_schinese.xml](release_notes/20230420_schinese.xml) has 40 indented lines.
 
 </details>
 
@@ -27,7 +55,7 @@
 
 </details>
 
-# tchinese (繁體中文)
+## tchinese (繁體中文)
 
 <details><summary>Strings</summary>
 
@@ -59,7 +87,7 @@
 
 </details>
 
-<details><summary>Credits</summary>
+<details><summary>Credits, Mail, and News</summary>
 
 - [asw_credits_tchinese.txt](credits/asw_credits_english.txt) is missing.
 - [biogen_corporation_credits_tchinese.txt](credits/biogen_corporation_credits_english.txt) is missing.
@@ -74,11 +102,6 @@
 - [rd_paranoia_credits_tchinese.txt](credits/rd_paranoia_credits_english.txt) is missing.
 - [rd_research7_credits_tchinese.txt](credits/rd_research7_credits_english.txt) is missing.
 - [tilarus5_credits_tchinese.txt](credits/tilarus5_credits_english.txt) is missing.
-
-</details>
-
-<details><summary>Mail and News</summary>
-
 - [3rdmappdasmugler_tchinese.txt](resource/mail/3rdmappdasmugler_english.txt) is missing.
 - [3rdmappdaworker_tchinese.txt](resource/mail/3rdmappdaworker_english.txt) is missing.
 - [acc32_mail_findings_tchinese.txt](resource/mail/acc32_mail_findings_english.txt) is missing.
@@ -235,7 +258,7 @@
 
 </details>
 
-# french (français)
+## french (français)
 
 <details><summary>Strings</summary>
 
@@ -270,8 +293,9 @@
 
 </details>
 
-<details><summary>Credits</summary>
+<details><summary>Credits, Mail, and News</summary>
 
+- [CustomCampaignCredits_french.txt](addons/ExampleAddon/resource/CustomCampaignCredits_english.txt) is missing.
 - [asw_credits_french.txt](credits/asw_credits_english.txt) is missing.
 - [biogen_corporation_credits_french.txt](credits/biogen_corporation_credits_english.txt) is missing.
 - [credits_acc32_official_french.txt](credits/credits_acc32_official_english.txt) is missing.
@@ -285,11 +309,6 @@
 - [rd_paranoia_credits_french.txt](credits/rd_paranoia_credits_english.txt) is missing.
 - [rd_research7_credits_french.txt](credits/rd_research7_credits_english.txt) is missing.
 - [tilarus5_credits_french.txt](credits/tilarus5_credits_english.txt) is missing.
-
-</details>
-
-<details><summary>Mail and News</summary>
-
 - [3rdmappdasmugler_french.txt](resource/mail/3rdmappdasmugler_english.txt) is missing.
 - [3rdmappdaworker_french.txt](resource/mail/3rdmappdaworker_english.txt) is missing.
 - [acc32_mail_findings_french.txt](resource/mail/acc32_mail_findings_english.txt) is missing.
@@ -425,7 +444,7 @@
 
 </details>
 
-# german (Deutsch)
+## german (Deutsch)
 
 <details><summary>Strings</summary>
 
@@ -433,13 +452,19 @@
 
 </details>
 
-<details><summary>Credits</summary>
+<details><summary>Upcoming Release Notes</summary>
+
+- [20230420_german.xml](release_notes/20230420_german.xml) has 1 indented lines.
+
+</details>
+
+<details><summary>Credits, Mail, and News</summary>
 
 - [rd-tarnor_credits_german.txt](credits/rd-tarnor_credits_german.txt) has 25 indented lines.
 
 </details>
 
-# italian (italiano)
+## italian (italiano)
 
 <details><summary>Strings</summary>
 
@@ -448,7 +473,13 @@
 
 </details>
 
-# japanese (日本語)
+<details><summary>Upcoming Release Notes</summary>
+
+- [20230420_italian.xml](release_notes/20230420_italian.xml) has 1 indented lines.
+
+</details>
+
+## japanese (日本語)
 
 <details><summary>Strings</summary>
 
@@ -465,7 +496,13 @@
 
 </details>
 
-# koreana (한국어)
+<details><summary>Upcoming Release Notes</summary>
+
+- [20230420_japanese.xml](release_notes/20230420_japanese.xml) has 1 indented lines.
+
+</details>
+
+## koreana (한국어)
 
 <details><summary>Strings</summary>
 
@@ -500,8 +537,9 @@
 
 </details>
 
-<details><summary>Credits</summary>
+<details><summary>Credits, Mail, and News</summary>
 
+- [CustomCampaignCredits_koreana.txt](addons/ExampleAddon/resource/CustomCampaignCredits_english.txt) is missing.
 - [asw_credits_koreana.txt](credits/asw_credits_english.txt) is missing.
 - [biogen_corporation_credits_koreana.txt](credits/biogen_corporation_credits_english.txt) is missing.
 - [credits_acc32_official_koreana.txt](credits/credits_acc32_official_english.txt) is missing.
@@ -515,11 +553,6 @@
 - [rd_paranoia_credits_koreana.txt](credits/rd_paranoia_credits_english.txt) is missing.
 - [rd_research7_credits_koreana.txt](credits/rd_research7_credits_english.txt) is missing.
 - [tilarus5_credits_koreana.txt](credits/tilarus5_credits_english.txt) is missing.
-
-</details>
-
-<details><summary>Mail and News</summary>
-
 - [3rdmappdasmugler_koreana.txt](resource/mail/3rdmappdasmugler_english.txt) is missing.
 - [3rdmappdaworker_koreana.txt](resource/mail/3rdmappdaworker_english.txt) is missing.
 - [acc32_mail_findings_koreana.txt](resource/mail/acc32_mail_findings_english.txt) is missing.
@@ -581,7 +614,7 @@
 
 </details>
 
-# polish (polski)
+## polish (polski)
 
 <details><summary>Strings</summary>
 
@@ -618,8 +651,9 @@
 
 </details>
 
-<details><summary>Credits</summary>
+<details><summary>Credits, Mail, and News</summary>
 
+- [CustomCampaignCredits_polish.txt](addons/ExampleAddon/resource/CustomCampaignCredits_english.txt) is missing.
 - [asw_credits_polish.txt](credits/asw_credits_english.txt) is missing.
 - [biogen_corporation_credits_polish.txt](credits/biogen_corporation_credits_english.txt) is missing.
 - [credits_acc32_official_polish.txt](credits/credits_acc32_official_english.txt) is missing.
@@ -633,11 +667,6 @@
 - [rd_paranoia_credits_polish.txt](credits/rd_paranoia_credits_english.txt) is missing.
 - [rd_research7_credits_polish.txt](credits/rd_research7_credits_english.txt) is missing.
 - [tilarus5_credits_polish.txt](credits/tilarus5_credits_english.txt) is missing.
-
-</details>
-
-<details><summary>Mail and News</summary>
-
 - [3rdmappdasmugler_polish.txt](resource/mail/3rdmappdasmugler_english.txt) is missing.
 - [3rdmappdaworker_polish.txt](resource/mail/3rdmappdaworker_english.txt) is missing.
 - [acc32_mail_findings_polish.txt](resource/mail/acc32_mail_findings_english.txt) is missing.
@@ -794,7 +823,7 @@
 
 </details>
 
-# portuguese (português europeu)
+## portuguese (português europeu)
 
 <details><summary>Strings</summary>
 
@@ -827,7 +856,7 @@
 
 </details>
 
-<details><summary>Credits</summary>
+<details><summary>Credits, Mail, and News</summary>
 
 - [biogen_corporation_credits_portuguese.txt](credits/biogen_corporation_credits_english.txt) is missing.
 - [credits_acc32_official_portuguese.txt](credits/credits_acc32_official_english.txt) is missing.
@@ -841,11 +870,6 @@
 - [rd_paranoia_credits_portuguese.txt](credits/rd_paranoia_credits_english.txt) is missing.
 - [rd_research7_credits_portuguese.txt](credits/rd_research7_credits_english.txt) is missing.
 - [tilarus5_credits_portuguese.txt](credits/tilarus5_credits_english.txt) is missing.
-
-</details>
-
-<details><summary>Mail and News</summary>
-
 - [3rdmappdasmugler_portuguese.txt](resource/mail/3rdmappdasmugler_english.txt) is missing.
 - [3rdmappdaworker_portuguese.txt](resource/mail/3rdmappdaworker_english.txt) is missing.
 - [acc32_mail_findings_portuguese.txt](resource/mail/acc32_mail_findings_english.txt) is missing.
@@ -1002,7 +1026,7 @@
 
 </details>
 
-# brazilian (português)
+## brazilian (português)
 
 <details><summary>Strings</summary>
 
@@ -1034,15 +1058,10 @@
 
 </details>
 
-<details><summary>Credits</summary>
+<details><summary>Credits, Mail, and News</summary>
 
 - [rd_bonus_missions_credits_brazilian.txt](credits/rd_bonus_missions_credits_brazilian.txt) has 1 indented lines.
 - [rd_research7_credits_brazilian.txt](credits/rd_research7_credits_english.txt) is missing.
-
-</details>
-
-<details><summary>Mail and News</summary>
-
 - [3rdmappdaworker_brazilian.txt](resource/mail/3rdmappdaworker_english.txt) is missing.
 - [acc32_mail_localhouses_brazilian.txt](resource/mail/acc32_mail_localhouses_english.txt) is missing.
 - [acc32_mail_news2_brazilian.txt](resource/mail/acc32_mail_news2_english.txt) is missing.
@@ -1061,7 +1080,7 @@
 
 </details>
 
-# russian (русский)
+## russian (русский)
 
 <details><summary>Strings</summary>
 
@@ -1075,7 +1094,7 @@
 
 </details>
 
-# spanish (español de España)
+## spanish (español de España)
 
 <details><summary>Strings</summary>
 
@@ -1110,8 +1129,9 @@
 
 </details>
 
-<details><summary>Credits</summary>
+<details><summary>Credits, Mail, and News</summary>
 
+- [CustomCampaignCredits_spanish.txt](addons/ExampleAddon/resource/CustomCampaignCredits_english.txt) is missing.
 - [asw_credits_spanish.txt](credits/asw_credits_english.txt) is missing.
 - [biogen_corporation_credits_spanish.txt](credits/biogen_corporation_credits_english.txt) is missing.
 - [credits_acc32_official_spanish.txt](credits/credits_acc32_official_english.txt) is missing.
@@ -1125,11 +1145,6 @@
 - [rd_paranoia_credits_spanish.txt](credits/rd_paranoia_credits_english.txt) is missing.
 - [rd_research7_credits_spanish.txt](credits/rd_research7_credits_english.txt) is missing.
 - [tilarus5_credits_spanish.txt](credits/tilarus5_credits_english.txt) is missing.
-
-</details>
-
-<details><summary>Mail and News</summary>
-
 - [3rdmappdasmugler_spanish.txt](resource/mail/3rdmappdasmugler_english.txt) is missing.
 - [3rdmappdaworker_spanish.txt](resource/mail/3rdmappdaworker_english.txt) is missing.
 - [acc32_mail_findings_spanish.txt](resource/mail/acc32_mail_findings_english.txt) is missing.
@@ -1286,7 +1301,7 @@
 
 </details>
 
-# ukrainian (українська)
+## ukrainian (українська)
 
 <details><summary>Strings</summary>
 
@@ -1323,8 +1338,9 @@
 
 </details>
 
-<details><summary>Credits</summary>
+<details><summary>Credits, Mail, and News</summary>
 
+- [CustomCampaignCredits_ukrainian.txt](addons/ExampleAddon/resource/CustomCampaignCredits_english.txt) is missing.
 - [asw_credits_ukrainian.txt](credits/asw_credits_english.txt) is missing.
 - [biogen_corporation_credits_ukrainian.txt](credits/biogen_corporation_credits_english.txt) is missing.
 - [credits_acc32_official_ukrainian.txt](credits/credits_acc32_official_english.txt) is missing.
@@ -1338,11 +1354,6 @@
 - [rd_paranoia_credits_ukrainian.txt](credits/rd_paranoia_credits_english.txt) is missing.
 - [rd_research7_credits_ukrainian.txt](credits/rd_research7_credits_english.txt) is missing.
 - [tilarus5_credits_ukrainian.txt](credits/tilarus5_credits_english.txt) is missing.
-
-</details>
-
-<details><summary>Mail and News</summary>
-
 - [3rdmappdasmugler_ukrainian.txt](resource/mail/3rdmappdasmugler_english.txt) is missing.
 - [3rdmappdaworker_ukrainian.txt](resource/mail/3rdmappdaworker_english.txt) is missing.
 - [acc32_mail_findings_ukrainian.txt](resource/mail/acc32_mail_findings_english.txt) is missing.
@@ -1498,7 +1509,7 @@
 
 </details>
 
-# vietnamese (Tiếng Việt)
+## vietnamese (Tiếng Việt)
 
 <details><summary>Strings</summary>
 
@@ -1535,8 +1546,9 @@
 
 </details>
 
-<details><summary>Credits</summary>
+<details><summary>Credits, Mail, and News</summary>
 
+- [CustomCampaignCredits_vietnamese.txt](addons/ExampleAddon/resource/CustomCampaignCredits_english.txt) is missing.
 - [asw_credits_vietnamese.txt](credits/asw_credits_english.txt) is missing.
 - [biogen_corporation_credits_vietnamese.txt](credits/biogen_corporation_credits_english.txt) is missing.
 - [credits_acc32_official_vietnamese.txt](credits/credits_acc32_official_english.txt) is missing.
@@ -1550,11 +1562,6 @@
 - [rd_paranoia_credits_vietnamese.txt](credits/rd_paranoia_credits_english.txt) is missing.
 - [rd_research7_credits_vietnamese.txt](credits/rd_research7_credits_english.txt) is missing.
 - [tilarus5_credits_vietnamese.txt](credits/tilarus5_credits_english.txt) is missing.
-
-</details>
-
-<details><summary>Mail and News</summary>
-
 - [3rdmappdasmugler_vietnamese.txt](resource/mail/3rdmappdasmugler_english.txt) is missing.
 - [3rdmappdaworker_vietnamese.txt](resource/mail/3rdmappdaworker_english.txt) is missing.
 - [acc32_mail_findings_vietnamese.txt](resource/mail/acc32_mail_findings_english.txt) is missing.
