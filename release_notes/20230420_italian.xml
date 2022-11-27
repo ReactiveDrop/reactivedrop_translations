@@ -53,6 +53,7 @@ Ecco alcuni momenti salienti dagli aggiornamenti precedenti allo scorso annivers
 [h2]Armi[/h2]
 [list]
 [*][b]Mina Laser a Pressione ML30:[/b] Miglioramento della previsione della rete per l'animazione del lancio.
+		[*][b]M868 Flamer Unit:[/b] Fixed fuel tanks only granting half a reload worth of ammo.
 [*]Corretta l'animazione di scansione per le sentinelle che si desincronizza dall'angolo di inattività dell'arma.
 [*]Corrette le incongruenze nel codice di controllo delle collisioni, soprattutto per quanto riguarda i soldati bot e i proiettili.
 [/list]
@@ -87,6 +88,11 @@ Ecco alcuni momenti salienti dagli aggiornamenti precedenti allo scorso annivers
         }
     }
 }[/code]
+		[*]TileGen now expects rooms to be built for -alldetail mode (world brushes turn into func_detail, func_brush with a name starting with structure_ turns into a world brush).
+		[*]Improved the randomization of rd_tilegen_instance.
+		[*]rd_tilegen_instance now searches in reactivedrop/tilegen/instances rather than reactivedrop/tilegen/instance/ThemeName.
+		[*]TileGen now flattens instances before sending the map to VBSP, allowing TileGen room sets to be distributed in VPKs or on the workshop. This also means rd_tilegen_instance can be used within instances.
+		[*]TileGen maps now use toolsskybox for a level seal, allowing the use of light_environment and light_directional.
 [/list]
 
 [h2]VScript[/h2]

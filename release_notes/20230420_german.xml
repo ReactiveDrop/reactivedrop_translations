@@ -53,6 +53,7 @@ Hier sind einige Highlights der Updates seit dem letzten Jahrestag:
 [h2]Waffen[/h2]
 [list]
 [*][b]ML30 Laser Haftminen:[/b] Verbesserte Netzvorhersage für Wurfanimation.
+		[*][b]M868 Flamer Unit:[/b] Fixed fuel tanks only granting half a reload worth of ammo.
 [*]Die Scan-Animation für Wächter, die aus dem Ruhewinkel des Geschützes ausscheren, wurde behoben.
 [*]Unstimmigkeiten im Code der Kollisionsprüfung wurden behoben, vor allem im Zusammenhang mit Bots und Geschossen.
 [/list]
@@ -87,6 +88,11 @@ Hier sind einige Highlights der Updates seit dem letzten Jahrestag:
         }
     }
 }[/code]
+		[*]TileGen now expects rooms to be built for -alldetail mode (world brushes turn into func_detail, func_brush with a name starting with structure_ turns into a world brush).
+		[*]Improved the randomization of rd_tilegen_instance.
+		[*]rd_tilegen_instance now searches in reactivedrop/tilegen/instances rather than reactivedrop/tilegen/instance/ThemeName.
+		[*]TileGen now flattens instances before sending the map to VBSP, allowing TileGen room sets to be distributed in VPKs or on the workshop. This also means rd_tilegen_instance can be used within instances.
+		[*]TileGen maps now use toolsskybox for a level seal, allowing the use of light_environment and light_directional.
 [/list]
 
 [h2]VScript[/h2]
