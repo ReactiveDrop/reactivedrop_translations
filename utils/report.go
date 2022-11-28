@@ -173,6 +173,7 @@ func generateReport() {
 		inventoryItems = append(inventoryItems, data.Items...)
 	})
 
+	fmt.Print("# Overview\n\n")
 	fmt.Print("| Language |")
 	for _, file := range importantLanguageFiles {
 		fmt.Printf(" %s |", filepath.Base(file[0][:len(file[0])-1]))
@@ -254,6 +255,8 @@ func generateReport() {
 			fmt.Printf(" %d |", incomplete)
 		}
 	}
+
+	fmt.Print("\n### Legend\n- ***Non-capitalized column headers*** are the most important specific files and their number of missing strings. All of these txt-files are located in the resources folder. Except statsweb, which lies in community/stats_website, it's an vdf-file.\n- ***Strings*** is the number of missing strings not included in one of the files which get an individual non-capitalized column.\n- ***Inventory*** is the number of missing language-specific keys in the inventory schema.\n- ***Files*** is the total number of files missing contents.")
 
 	fmt.Print("\n\n# Per-File Breakdown\n\n")
 
