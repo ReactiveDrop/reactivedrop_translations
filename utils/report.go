@@ -173,7 +173,7 @@ func generateReport() {
 		inventoryItems = append(inventoryItems, data.Items...)
 	})
 
-	fmt.Print("# Overview\n\n")
+	fmt.Print("# Overview\n")
 	fmt.Print("| Language |")
 	for _, file := range importantLanguageFiles {
 		fmt.Printf(" %s |", filepath.Base(file[0][:len(file[0])-1]))
