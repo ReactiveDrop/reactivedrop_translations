@@ -1,3 +1,4 @@
+# Overview
 | Language | basemodui | closecaption | gameui | reactivedrop | statsweb | Strings | Inventory | Files |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | 1 | 52 | 2 | ✔️ | 1 | 3 |
@@ -7,7 +8,7 @@
 | [Dutch](#non-curated-languages) | 49 | 1948 | 10 | 2112 | 191 | 425 | 125 | 144 |
 | [Finnish](#non-curated-languages) | 49 | 1948 | 10 | 2112 | 191 | 425 | 125 | 144 |
 | [French](#french-français) | 25 | 73 | 10 | 1461 | 191 | 359 | 125 | 123 |
-| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | 27 | ✔️ | ✔️ | ✔️ | 1 |
+| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | 27 | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Hungarian](#non-curated-languages) | 49 | 73 | 10 | 2112 | 191 | 690 | 125 | 145 |
 | [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | 27 | ✔️ | ✔️ | ✔️ | 1 |
 | [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | 49 | 12 | 44 | ✔️ | 2 |
@@ -24,6 +25,11 @@
 | [Turkish](#non-curated-languages) | 49 | 72 | 10 | 2112 | 191 | 690 | 125 | 145 |
 | [Ukrainian](#ukrainian-українська) | 25 | 66 | 9 | 1641 | 191 | 690 | 123 | 145 |
 | [Vietnamese](#vietnamese-tiếng-việt) | 1279 | 1948 | 605 | 3618 | 191 | 641 | 125 | 131 |
+### Legend
+- ***Non-capitalized column headers*** are the most important specific files and their number of missing strings. All of these txt-files are located in the resources folder. Except statsweb, which lies in community/stats_website, it's an vdf-file.
+- ***Strings*** is the number of missing strings not included in one of the files which get an individual non-capitalized column.
+- ***Inventory*** is the number of missing language-specific keys in the inventory schema.
+- ***Files*** is the total number of files missing contents.
 
 # Per-File Breakdown
 
@@ -450,10 +456,6 @@
 ### Strings
 
 - [reactivedrop_german.txt](resource/reactivedrop_german.txt) has 27 untranslated strings.
-
-### Upcoming Release Notes
-
-- [20230420_german.xml](release_notes/20230420_german.xml) has 6 indented lines.
 
 </details>
 
