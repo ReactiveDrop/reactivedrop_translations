@@ -1,4 +1,6 @@
-| Language | basemodui | closecaption | gameui | reactivedrop | statsweb | Strings | Inventory | Files |
+# Overview
+
+| Language | [basemodui](# "resources/basemodui_<language>.txt") | [closecaption](# "resources/closecaption_<language>.txt") | [gameui](# "resources/gameui_<language>.txt") | [reactivedrop](# "resources/reactivedrop_<language>.txt") | [statsweb](# "community/stats_website/statsweb_<language>.vdf") | [Strings](# "The number of missing strings not included in one of the files which get an individual non-capitalized column.") | [Inventory](# "The number of missing language-specific keys in the inventory schema.") | [Files](# "The total number of files missing contents.") |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | 1 | 52 | 2 | ✔️ | 1 | 3 |
 | [Traditional Chinese](#tchinese-繁體中文) | 7 | 75 | 1 | 1993 | 191 | 39 | 125 | 144 |
@@ -24,6 +26,12 @@
 | [Turkish](#non-curated-languages) | 49 | 72 | 10 | 2112 | 191 | 690 | 125 | 145 |
 | [Ukrainian](#ukrainian-українська) | 25 | 66 | 9 | 1641 | 191 | 690 | 123 | 145 |
 | [Vietnamese](#vietnamese-tiếng-việt) | 1279 | 1948 | 605 | 3618 | 191 | 641 | 125 | 131 |
+
+### Legend
+- ***Non-capitalized column headers*** are the most important specific files and their number of missing strings. All of these txt-files are located in the resources folder. Except statsweb, which lies in community/stats_website, it's an vdf-file.
+- ***Strings*** is the number of missing strings not included in one of the files which get an individual non-capitalized column.
+- ***Inventory*** is the number of missing language-specific keys in the inventory schema.
+- ***Files*** is the total number of files missing contents.
 
 # Per-File Breakdown
 
