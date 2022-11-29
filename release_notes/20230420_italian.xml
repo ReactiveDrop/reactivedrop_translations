@@ -53,7 +53,7 @@ Ecco alcuni momenti salienti dagli aggiornamenti precedenti allo scorso annivers
 [h2]Armi[/h2]
 [list]
 [*][b]Mina Laser a Pressione ML30:[/b] Miglioramento della previsione della rete per l'animazione del lancio.
-		[*][b]M868 Flamer Unit:[/b] Fixed fuel tanks only granting half a reload worth of ammo.
+[*][b]Unità Lanciafiamme M868:[/b] Corretto il fatto che i serbatoi di carburante forniscano solo mezza ricarica di munizioni.
 [*]Corretta l'animazione di scansione per le sentinelle che si desincronizza dall'angolo di inattività dell'arma.
 [*]Corrette le incongruenze nel codice di controllo delle collisioni, soprattutto per quanto riguarda i soldati bot e i proiettili.
 [/list]
@@ -88,11 +88,11 @@ Ecco alcuni momenti salienti dagli aggiornamenti precedenti allo scorso annivers
         }
     }
 }[/code]
-		[*]TileGen now expects rooms to be built for -alldetail mode (world brushes turn into func_detail, func_brush with a name starting with structure_ turns into a world brush).
-		[*]Improved the randomization of rd_tilegen_instance.
-		[*]rd_tilegen_instance now searches in reactivedrop/tilegen/instances rather than reactivedrop/tilegen/instance/ThemeName.
-		[*]TileGen now flattens instances before sending the map to VBSP, allowing TileGen room sets to be distributed in VPKs or on the workshop. This also means rd_tilegen_instance can be used within instances.
-		[*]TileGen maps now use toolsskybox for a level seal, allowing the use of light_environment and light_directional.
+[*]Il TileGen ora si aspetta che le stanze siano costruite per la modalità -alldetail (i world brush si trasformano in func_detail, il func_brush si trasforma in un world brush con un nome che inizia con structure_).
+[*]Migliorata la randomizzazione di rd_tilegen_instance.
+[*]rd_tilegen_instance ora cerca in reactivedrop/tilegen/instances invece di reactivedrop/tilegen/instance/ThemeName.
+[*]Il TileGen ora appiattisce le istanze prima di inviare la mappa a VBSP, permettendo ai set di stanze del TileGen di essere distribuiti in formato VPK o sul workshop. Vuol dire anche che rd_tilegen_instance può essere utilizzato nelle istanze.
+[*]Le mappe del TileGen ora utilizzano toolsskybox per la chiusura del livello, consentendo l'uso di light_environment e light_directional.
 [/list]
 
 [h2]VScript[/h2]
