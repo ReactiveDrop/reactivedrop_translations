@@ -29,7 +29,7 @@
 - ***Non-capitalized column headers*** are the most important specific files and their number of missing strings. All of these txt-files are located in the resources folder. Except statsweb, which lies in community/stats_website, it's an vdf-file.
 - ***Strings*** is the number of missing strings not included in one of the files which get an individual non-capitalized column.
 - ***Inventory*** is the number of missing language-specific keys in the inventory schema.
-- ***Files*** is the total number of files missing contents.
+- ***Files*** is the total number of other files that are missing or need updating.
 
 # Per-File Breakdown
 
