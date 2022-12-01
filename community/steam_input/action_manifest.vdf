@@ -1,0 +1,104 @@
+﻿"Action Manifest"
+{
+	"configurations"
+	{
+		// Steam Deck Controller
+		"controller_neptune"
+		{
+		}
+
+		// Steam Controller
+		"controller_steamcontroller_gordon"
+		{
+		}
+
+		// Xbox 360 Controller
+		"controller_xbox360"
+		{
+		}
+
+		// Xbox One Controller
+		"controller_xboxone"
+		{
+		}
+
+		// Xbox One Elite Controller
+		"controller_xboxelite"
+		{
+		}
+
+		// PlayStation 4 Controller
+		"controller_ps4"
+		{
+		}
+
+		// PlayStation 5 Controller
+		"controller_ps5"
+		{
+		}
+
+		// Nintendo Switch Pro Controller
+		"controller_switch_pro"
+		{
+		}
+
+		// Generic Gamepads
+		"controller_generic"
+		{
+		}
+	}
+
+	"major_revision"		"0" // update if we need to break all existing configs
+	"minor_revision"		"0" // update if configs should be marked as outdated but not broken
+	"major_revision_affects_mousekb"		"1"
+	"major_revision_affects_xinput"		"1"
+
+	"actions"
+	{
+		"InGame"
+		{
+			"title"		"#ActionSet_InGame"
+
+			"Button"
+			{
+				"PrimaryAttack"		"#Button_PrimaryAttack"
+				"SecondaryAttack"		"#Button_SecondaryAttack"
+				"MeleeAttack"		"#Button_MeleeAttack"
+				"OffHandAttack"		"#Button_OffHandAttack"
+				"Reload"		"#Button_Reload"
+				"Jump"		"#Button_Jump"
+				"Use"		"#Button_Use"
+				"SwapWeapons"		"#Button_SwapWeapons"
+				"SelectPrimary"		"#Button_SelectPrimary"
+				"SelectSecondary"		"#Button_SelectSecondary"
+				"ActivatePrimary"		"#Button_ActivatePrimary"
+				"ActivateSecondary"		"#Button_ActivateSecondary"
+
+				"EmoteMedic"		"#Button_EmoteMedic"
+				"EmoteAmmo"		"#Button_EmoteAmmo"
+				"EmoteSmile"		"#Button_EmoteSmile"
+				"EmoteGo"		"#Button_EmoteGo"
+				"EmoteStop"		"#Button_EmoteStop"
+				"EmoteExclaim"		"#Button_EmoteExclaim"
+				"EmoteSmile2"		"#Button_EmoteSmile2"
+				"EmoteQuestion"		"#Button_EmoteQuestion"
+
+				"PlayerList"		"#Button_PlayerList"
+				"InGameBriefing"		"#Button_InGameBriefing"
+				"VoteYes"		"#Button_VoteYes"
+				"VoteNo"		"#Button_VoteNo"
+			}
+		}
+	}
+
+	"action_layers"
+	{
+	}
+
+	"localization"
+	{
+		// This section is filled in by a script.
+		// Run `translation-sync-tool -input-manifest` to generate.
+		// See the steam_input_*.vdf files for individual languages.
+	}
+}

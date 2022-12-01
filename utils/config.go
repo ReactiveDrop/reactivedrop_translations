@@ -89,6 +89,7 @@ var txtLanguageFiles = [...]string{
 var vdfLanguageFiles = [...]string{
 	"../community/inventory_service/inventory_service_tags",
 	"../community/stats_website/statsweb",
+	"../community/steam_input/steam_input",
 }
 
 var txtAddonLanguageFiles = [...]string{
