@@ -15,8 +15,9 @@ import (
 )
 
 var (
-	flagMarkdown   = flag.Bool("markdown", false, "generate a markdown translation progress report")
-	flagOnlyUpdate = flag.Bool("only-update", false, "only update source strings; do not reset differing translations")
+	flagMarkdown      = flag.Bool("markdown", false, "generate a markdown translation progress report")
+	flagInputManifest = flag.Bool("input-manifest", false, "compile the steam input manifest")
+	flagOnlyUpdate    = flag.Bool("only-update", false, "only update source strings; do not reset differing translations")
 )
 
 func main() {
@@ -24,6 +25,12 @@ func main() {
 
 	if *flagMarkdown {
 		generateReport()
+
+		return
+	}
+
+	if *flagInputManifest {
+		compileSteamInputManifest()
 
 		return
 	}
@@ -348,7 +355,11 @@ func updateLanguageFile(source *translatedStrings, prefix, lang, suffix string) 
 	for _, c := range source.strings {
 		lowerKey := strings.ToLower(c.key)
 
-		x := &dest.strings[dest.lookup[lowerKey]]
+		var x translatedString
+		i, ok := dest.lookup[lowerKey]
+		if ok {
+			x = dest.strings[i]
+		}
 		x.scomment = c.tcomment
 
 		if *flagOnlyUpdate {
