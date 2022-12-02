@@ -45,6 +45,8 @@ TODO
 		[*][b]Area 9800: Wastelands:[/b] Fixed a harvester getting stuck in the exit during the finale gauntlet introduction scene.
 		[*][b]Tilarus-5: Arctic Infiltration:[/b] Fixed uber drones appearing and disappearing shortly after the start of the mission.
 [*][b]蒂拉鲁斯-5 新特医院：[/b] 使警报听起来更响。
+		[*][b]Lana's Escape: Lana's Bridge:[/b] Significant performance optimizations to lighting, rendering, and pathfinding.
+		[*][b]Lana's Escape: Lana's Sewer:[/b] The radioactive barrels in the arena deal more damage to shamans.
 		[*][b]Paranoia: Unexpected Encounter:[/b] Fixed bugs related to grenade launcher aiming.
 		[*][b]Paranoia: Hostile Places:[/b] Fixed bugs related to grenade launcher aiming.
 [*][b]燃料库：[/b] 移除了 无形天花板横梁的碰撞。
