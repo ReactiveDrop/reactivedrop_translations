@@ -45,6 +45,8 @@ TODO
 [*][b]Area 9800: Wastelands:[/b] 最後の襲撃の導入部でハーベスターが出口に詰まることがあったのを修正。
 [*][b]Tilarus-5: Arctic Infiltration:[/b] ミッションを開始してからしばらくウーバードローンが出たり消えたりしていたのを修正。
 [*][b]Tilarus-5: SynTek Hospital:[/b] 警報の音を大きくした。
+		[*][b]Lana's Escape: Lana's Bridge:[/b] Significant performance optimizations to lighting, rendering, and pathfinding.
+		[*][b]Lana's Escape: Lana's Sewer:[/b] The radioactive barrels in the arena deal more damage to shamans.
 [*][b]Paranoia: Unexpected Encounter:[/b] グレネードランチャーのエイムに関するバグを修正。
 [*][b]Paranoia: Hostile Places:[/b] グレネードランチャーのエイムに関するバグを修正。
 [*][b]Bunker:[/b] 天井の見えない梁の衝突判定を削除。

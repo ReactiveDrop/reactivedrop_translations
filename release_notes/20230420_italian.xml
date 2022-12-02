@@ -45,6 +45,8 @@ Ecco alcuni momenti salienti dagli aggiornamenti precedenti allo scorso annivers
 [*][b]Area 9800: Lande Desolate:[/b] Corretto un mietitore che si bloccava nell'uscita durante la scena di introduzione della sfida finale.
 [*][b]Tilarus-5: Infiltrazione Artica:[/b] Corretto il problema dei droni Uber che appaiono e scompaiono poco dopo l'inizio della missione.
 [*][b]Tilarus-5: Ospedale SynTek:[/b] L'allarme è stato reso più rumoroso.
+		[*][b]Lana's Escape: Lana's Bridge:[/b] Significant performance optimizations to lighting, rendering, and pathfinding.
+		[*][b]Lana's Escape: Lana's Sewer:[/b] The radioactive barrels in the arena deal more damage to shamans.
 [*][b]Paranoia: Incontro Inaspettato:[/b] Corretti i bug relativi alla mira del lanciagranate.
 [*][b]Paranoia: Posti Ostili:[/b] Corretti i bug relativi alla mira del lanciagranate.
 [*][b]Bunker:[/b] Rimossa la collisione con una trave invisibile sul soffitto.
