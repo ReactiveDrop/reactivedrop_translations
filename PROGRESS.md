@@ -15,7 +15,7 @@
 | [Korean](#koreana-한국어) | 47 | 10 | 6 | 975 | 43 | 253 | 125 | 49 |
 | [Norwegian Bokmål](#non-curated-languages) | 67 | 648 | 15 | 2833 | 191 | 425 | 125 | 145 |
 | [Polish](#polish-polski) | 26 | 1948 | 10 | 2116 | 191 | 425 | 125 | 145 |
-| [European Portuguese](#portuguese-português-europeu) | 1 | 115 | 1 | 1418 | 19 | 372 | 125 | 141 |
+| [European Portuguese](#portuguese-português-europeu) | 1 | 115 | 1 | 1413 | 18 | 371 | 98 | 138 |
 | [Brazilian Portuguese](#brazilian-português) | 14 | 1948 | 2 | 357 | 7 | 377 | 2 | 17 |
 | [Romanian](#non-curated-languages) | 49 | 1940 | 16 | 2824 | 191 | 690 | 125 | 145 |
 | [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | 31 | ✔️ | ✔️ | ✔️ | 1 |
@@ -822,22 +822,18 @@
 ### Strings
 
 - [reactivedrop_portuguese.txt](addons/ExampleAddon/resource/reactivedrop_portuguese.txt) has 12 untranslated strings.
-- [inventory_service_tags_portuguese.vdf](community/inventory_service/inventory_service_tags_portuguese.vdf) has 1 untranslated strings.
-- [statsweb_portuguese.vdf](community/stats_website/statsweb_portuguese.vdf) has 19 untranslated strings.
+- [statsweb_portuguese.vdf](community/stats_website/statsweb_portuguese.vdf) has 18 untranslated strings.
 - [vgui_portuguese.txt](platform/vgui_portuguese.txt) has 93 untranslated strings.
 - [basemodui_portuguese.txt](resource/basemodui_portuguese.txt) has 1 untranslated strings.
 - [closecaption_portuguese.txt](resource/closecaption_portuguese.txt) has 115 untranslated strings.
 - [gameui_portuguese.txt](resource/gameui_portuguese.txt) has 1 untranslated strings.
-- [reactivedrop_portuguese.txt](resource/reactivedrop_portuguese.txt) has 1418 untranslated strings.
+- [reactivedrop_portuguese.txt](resource/reactivedrop_portuguese.txt) has 1413 untranslated strings.
 - [valve_portuguese.txt](resource/valve_portuguese.txt) has 266 untranslated strings.
 
 ### Steam Store and Community
 
-- [eula_portuguese.txt](community/eula/eula_english.txt) is missing.
 - [app_items_563560_portuguese.json](community/points_shop/app_items_563560_english.json) is missing.
 - [mappingcontest2023_portuguese.txt](community/workshop/mappingcontest2023_english.txt) is missing.
-- [workshop_tags_portuguese.json](community/workshop/workshop_tags_portuguese.json) has 1 indented lines.
-- [storepage_81731_portuguese.json](store_page/storepage_81731_portuguese.json) has 1 indented lines.
 
 ### Upcoming Release Notes
 
@@ -994,13 +990,7 @@
 - Item 6 "Elite - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_portuguese`, `briefing_name_portuguese`, `description_portuguese`, `before_description_portuguese`, `after_description_portuguese`, `display_type_portuguese`
 - Item 13 "Beta Tester" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_portuguese`, `briefing_name_portuguese`, `description_portuguese`, `display_type_portuguese`
 - Item 15 "Top 20 - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_portuguese`, `briefing_name_portuguese`, `description_portuguese`, `before_description_portuguese`, `after_description_portuguese`, `display_type_portuguese`
-- Item 7 "Translator" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_portuguese`, `briefing_name_portuguese`, `description_portuguese`, `display_type_portuguese`
-- Item 8 "Programmer" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_portuguese`, `briefing_name_portuguese`, `description_portuguese`, `display_type_portuguese`
-- Item 9 "Mapper" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_portuguese`, `briefing_name_portuguese`, `description_portuguese`, `display_type_portuguese`
-- Item 10 "Challenger" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_portuguese`, `briefing_name_portuguese`, `description_portuguese`, `display_type_portuguese`
-- Item 11 "Guide" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_portuguese`, `briefing_name_portuguese`, `description_portuguese`, `display_type_portuguese`
-- Item 12 "Artist" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_portuguese`, `briefing_name_portuguese`, `description_portuguese`, `display_type_portuguese`
-- Item 14 "Reporter" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_portuguese`, `briefing_name_portuguese`, `description_portuguese`, `display_type_portuguese`
+- Item 14 "Reporter" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_portuguese`, `briefing_name_portuguese`, `description_portuguese`
 - Item 100000000 "Donor: Tears for Tarnor" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_portuguese`, `description_portuguese`, `ingame_description_portuguese`, `after_description_portuguese`, `display_type_portuguese`
 - Item 100000001 "Donor: Paranoia" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_portuguese`, `description_portuguese`, `ingame_description_portuguese`, `after_description_portuguese`, `display_type_portuguese`
 - Item 100000002 "Donor: Lana's Escape" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_portuguese`, `description_portuguese`, `ingame_description_portuguese`, `after_description_portuguese`, `display_type_portuguese`
@@ -1011,7 +1001,6 @@
 - Item 100000007 "Donor: Nam Humanum" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_portuguese`, `description_portuguese`, `ingame_description_portuguese`, `after_description_portuguese`, `display_type_portuguese`
 - Item 100000008 "Donor: Accident 32" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_portuguese`, `description_portuguese`, `ingame_description_portuguese`, `after_description_portuguese`, `display_type_portuguese`
 - Item 100000009 "Donor: Adanaxis" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_portuguese`, `description_portuguese`, `ingame_description_portuguese`, `after_description_portuguese`, `display_type_portuguese`
-- Item 900000000 "Ben Lubar" in [item-schema-unique.json](community/inventory_service/item-schema-unique.json) is missing `name_portuguese`, `briefing_name_portuguese`
 
 </details>
 
