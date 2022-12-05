@@ -11,7 +11,7 @@
 | [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | 27 | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Hungarian](#non-curated-languages) | 49 | 73 | 10 | 2116 | 191 | 690 | 125 | 145 |
 | [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | 31 | ✔️ | ✔️ | ✔️ | ✔️ |
-| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | 53 | 12 | 44 | ✔️ | 2 |
+| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | 49 | 12 | 44 | ✔️ | 2 |
 | [Korean](#koreana-한국어) | 47 | 10 | 6 | 975 | 43 | 253 | 125 | 49 |
 | [Norwegian Bokmål](#non-curated-languages) | 67 | 648 | 15 | 2833 | 191 | 425 | 125 | 145 |
 | [Polish](#polish-polski) | 26 | 1948 | 10 | 2116 | 191 | 425 | 125 | 145 |
@@ -481,7 +481,7 @@
 
 - [statsweb_japanese.vdf](community/stats_website/statsweb_japanese.vdf) has 12 untranslated strings.
 - [vgui_japanese.txt](platform/vgui_japanese.txt) has 37 untranslated strings.
-- [reactivedrop_japanese.txt](resource/reactivedrop_japanese.txt) has 53 untranslated strings.
+- [reactivedrop_japanese.txt](resource/reactivedrop_japanese.txt) has 49 untranslated strings.
 - [valve_japanese.txt](resource/valve_japanese.txt) has 7 untranslated strings.
 
 ### Steam Store and Community
