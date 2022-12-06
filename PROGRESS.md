@@ -10,7 +10,7 @@
 | [French](#french-français) | 25 | 73 | 10 | 1465 | 191 | 359 | 125 | 123 |
 | [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | 27 | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Hungarian](#non-curated-languages) | 49 | 73 | 10 | 2116 | 191 | 690 | 125 | 145 |
-| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | 31 | ✔️ | ✔️ | ✔️ | ✔️ |
+| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | 27 | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | 49 | 12 | 44 | ✔️ | 2 |
 | [Korean](#koreana-한국어) | 47 | 10 | 6 | 975 | 43 | 253 | 125 | 49 |
 | [Norwegian Bokmål](#non-curated-languages) | 67 | 648 | 15 | 2833 | 191 | 425 | 125 | 145 |
@@ -467,7 +467,7 @@
 
 ### Strings
 
-- [reactivedrop_italian.txt](resource/reactivedrop_italian.txt) has 31 untranslated strings.
+- [reactivedrop_italian.txt](resource/reactivedrop_italian.txt) has 27 untranslated strings.
 
 </details>
 
