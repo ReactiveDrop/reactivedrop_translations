@@ -95,9 +95,13 @@ TODO
 		[*]rd_tilegen_instance now searches in reactivedrop/tilegen/instances rather than reactivedrop/tilegen/instance/ThemeName.
 		[*]TileGen now flattens instances before sending the map to VBSP, allowing TileGen room sets to be distributed in VPKs or on the workshop. This also means rd_tilegen_instance can be used within instances.
 		[*]TileGen maps now use toolsskybox for a level seal, allowing the use of light_environment and light_directional.
+		[*]asw_vehicle_jeep is now functional. Available vehicles without add-ons are the dune buggy from Half-Life 2 (models/buggy.mdl, scripts/vehicles/jeep_test.txt) which allows one driver, and the muscle car from Half-Life 2: Episode Two (models/vehicle.mdl, scripts/vehicles/jalopy.txt) which allows one driver and one passenger.
 [/list]
 
 [h2]VScript[/h2]
 [list]
 [*]海兵隊に新しいメソッドを追加: SetMarineRollsで、マップやチャレンジによって各海兵がそれぞれジャンプできるかどうかを設定できます。
+		[*]asw_vehicle_jeep has methods to override its camera, SetCameraControls, SetCameraPitch, SetCameraDist, and SetCameraHeight, with corresponding Get* methods. Setting a negative value causes the vehicle to use the global setting.
+		[*]asw_vehicle_jeep has methods to query the occupants: MaxPassengers(), GetDriver(), and GetPassenger(seat).
+		[*]asw_vehicle_jeep has methods to retrieve statistics: GetSpeed, GetMaxSpeed (in miles per hour), GetRPM, GetThrottle, HasBoost, and BoostTimeLeft.
 [/list]</string><string id="subtitle">今日はAlien Swarm: Reactive Dropの誕生日です！</string><string id="summary">今日はAlien Swarm: Reactive DropがSteamでリリースされてから6周年の記念日です！経験値2倍週間、2つの新キャンペーン、その他色々でお祝いしましょう。</string><string id="title">Alien Swarm: Reactive Dropアップデート - 2023年4月20日</string></content>

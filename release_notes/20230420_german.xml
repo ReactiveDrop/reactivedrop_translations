@@ -95,9 +95,13 @@ Hier sind einige Highlights der Updates seit dem letzten Jahrestag:
 [*]rd_tilegen_instance sucht jetzt in reactivedrop/tilegen/instances und nicht mehr in reactivedrop/tilegen/instance/ThemeName.
 [*]TileGen flacht jetzt Instanzen ab, bevor es die Karte an VBSP sendet, sodass TileGen-Raumsets in VPKs oder auf dem Workshop verteilt werden können. Das bedeutet auch, dass rd_tilegen_instance innerhalb von Instanzen verwendet werden kann.
 [*]TileGen-Karten verwenden jetzt toolsskybox für ein level seal und ermöglichen die Verwendung von light_environment und light_directional.
+		[*]asw_vehicle_jeep is now functional. Available vehicles without add-ons are the dune buggy from Half-Life 2 (models/buggy.mdl, scripts/vehicles/jeep_test.txt) which allows one driver, and the muscle car from Half-Life 2: Episode Two (models/vehicle.mdl, scripts/vehicles/jalopy.txt) which allows one driver and one passenger.
 [/list]
 
 [h2]VScript[/h2]
 [list]
 [*]Den Soldaten wurde eine neue Methode hinzugefügt: SetMarineRolls, mit der Karten und Herausforderungen ändern können, ob einzelne Soldaten springen können.
+		[*]asw_vehicle_jeep has methods to override its camera, SetCameraControls, SetCameraPitch, SetCameraDist, and SetCameraHeight, with corresponding Get* methods. Setting a negative value causes the vehicle to use the global setting.
+		[*]asw_vehicle_jeep has methods to query the occupants: MaxPassengers(), GetDriver(), and GetPassenger(seat).
+		[*]asw_vehicle_jeep has methods to retrieve statistics: GetSpeed, GetMaxSpeed (in miles per hour), GetRPM, GetThrottle, HasBoost, and BoostTimeLeft.
 [/list]</string><string id="subtitle">Es ist der Alien Swarm: Reactive Drop's Geburtstag!</string><string id="summary">Heute feiert Alien Swarm: Reactive Drop sein 6-jähriges Bestehen auf Steam. Hier ist eine Woche mit doppelter Erfahrung, zwei neuen Feldzügen und ein paar anderen Leckereien zum Feiern.</string><string id="title">Alien Swarm: Reactive Drop Update - 20. April 2023</string></content>
