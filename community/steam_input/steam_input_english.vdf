@@ -3,36 +3,29 @@
 "Language"		"english"
 "Tokens"
 {
-//"ActionSet_InGame"		"In-Game"
-//
-//"Button_PrimaryAttack"		"Primary Attack"
-//"Button_SecondaryAttack"		"Secondary Attack"
-//"Button_MeleeAttack"		"Melee Attack"
-//"Button_OffHandAttack"		"Off-Hand Attack"
-//"Button_Reload"		"Reload"
-//"Button_Jump"		"Jump / Dodge / Roll"
-//"Button_Use"		"Use Object / Pick Up Item"
-//"Button_SwapWeapons"		"Switch Weapons"
-//"Button_SelectPrimary"		"Switch to Primary Weapon"
-//"Button_SelectSecondary"		"Switch to Secondary Weapon"
-//"Button_ActivatePrimary"		"Deploy Primary Weapon"
-//"Button_ActivateSecondary"		"Deploy Secondary Weapon"
-//
-//"Button_EmoteMedic"		"\"Medic!\""
-//"Button_EmoteAmmo"		"\"Need Ammo!\""
-//"Button_EmoteSmile"		"(Smile)"
-//"Button_EmoteGo"		"\"Follow Me!\""
-//"Button_EmoteStop"		"\"Hold Position\""
-//"Button_EmoteExclaim"		"\"Watch Out!\""
-//"Button_EmoteSmile2"		"(Smile 2)"
-//"Button_EmoteQuestion"		"\"What?\""
-//
-//"Button_PlayerList"		"Player List"
-//"Button_InGameBriefing"		"Mission Overview"
-//"Button_VoteYes"		"Vote \"Yes\""
-//"Button_VoteNo"		"Vote \"No\""
-//
-//"InputConfigTitle_Generic"		"Gamepad"
-//"InputConfigDescription_Generic"		"The default controller layout for Alien Swarm."
+"Button_PrimaryAttack"		"Primary Fire"
+"Button_SecondaryAttack"		"Secondary Fire"
+"Button_MeleeAttack"		"Melee"
+"Button_OffHandAttack"		"Use Gear Item"
+
+"Button_Reload"		"Reload"
+"Button_Jump"		"Roll"
+"Button_Use"		"Use / Interact"
+"Button_SwapWeapons"		"Switch Weapons"
+
+"Button_PlayerList"		"Player List"
+"Button_InGameBriefing"		"Mission Overview"
+"Button_Menu"		"Menu"
+
+"Button_EmoteGo"		"\"Follow Me!\""
+"Button_EmoteStop"		"\"Hold Position\""
+
+"RadialMenu_Marine"		"Command Marine"
+"RadialMenu_Equipment1"		"Equipment 1"
+"RadialMenu_Equipment2"		"Equipment 2"
+"RadialMenu_Default"		"Shout Menu"
+
+"InputConfigTitle_SteamDeck"		"AS:RD Steam Deck Default"
+"InputConfigDescription_SteamDeck"		"Default control scheme for Alien Swarm: Reactive Drop with mouse trackpads."
 }
 }
