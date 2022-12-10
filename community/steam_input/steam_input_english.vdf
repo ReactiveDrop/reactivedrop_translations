@@ -17,8 +17,8 @@
 "Button_InGameBriefing"		"Mission Overview"
 "Button_Menu"		"Menu"
 
-"Button_EmoteGo"		"\"Follow Me!\""
-"Button_EmoteStop"		"\"Hold Position\""
+"Button_EmoteGo"		"'Follow Me!'"
+"Button_EmoteStop"		"'Hold Position'"
 
 "RadialMenu_Marine"		"Command Marine"
 "RadialMenu_Equipment1"		"Equipment 1"
