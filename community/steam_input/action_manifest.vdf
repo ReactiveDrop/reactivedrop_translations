@@ -5,6 +5,10 @@
 		// Steam Deck Controller
 		"controller_neptune"
 		{
+			"0"
+			{
+				"path"	"steam_deck.vdf"
+			}
 		}
 
 		// Steam Controller
@@ -53,47 +57,47 @@
 	"major_revision_affects_mousekb"		"1"
 	"major_revision_affects_xinput"		"1"
 
-	"actions"
-	{
-		"InGame"
-		{
-			"title"		"#ActionSet_InGame"
+	//"actions"
+	//{
+	//	"InGame"
+	//	{
+	//		"title"		"#ActionSet_InGame"
+	//
+	//		"Button"
+	//		{
+	//			"PrimaryAttack"		"#Button_PrimaryAttack"
+	//			"SecondaryAttack"		"#Button_SecondaryAttack"
+	//			"MeleeAttack"		"#Button_MeleeAttack"
+	//			"OffHandAttack"		"#Button_OffHandAttack"
+	//			"Reload"		"#Button_Reload"
+	//			"Jump"		"#Button_Jump"
+	//			"Use"		"#Button_Use"
+	//			"SwapWeapons"		"#Button_SwapWeapons"
+	//			"SelectPrimary"		"#Button_SelectPrimary"
+	//			"SelectSecondary"		"#Button_SelectSecondary"
+	//			"ActivatePrimary"		"#Button_ActivatePrimary"
+	//			"ActivateSecondary"		"#Button_ActivateSecondary"
+	//
+	//			"EmoteMedic"		"#Button_EmoteMedic"
+	//			"EmoteAmmo"		"#Button_EmoteAmmo"
+	//			"EmoteSmile"		"#Button_EmoteSmile"
+	//			"EmoteGo"		"#Button_EmoteGo"
+	//			"EmoteStop"		"#Button_EmoteStop"
+	//			"EmoteExclaim"		"#Button_EmoteExclaim"
+	//			"EmoteSmile2"		"#Button_EmoteSmile2"
+	//			"EmoteQuestion"		"#Button_EmoteQuestion"
+	//
+	//			"PlayerList"		"#Button_PlayerList"
+	//			"InGameBriefing"		"#Button_InGameBriefing"
+	//			"VoteYes"		"#Button_VoteYes"
+	//			"VoteNo"		"#Button_VoteNo"
+	//		}
+	//	}
+	//}
 
-			"Button"
-			{
-				"PrimaryAttack"		"#Button_PrimaryAttack"
-				"SecondaryAttack"		"#Button_SecondaryAttack"
-				"MeleeAttack"		"#Button_MeleeAttack"
-				"OffHandAttack"		"#Button_OffHandAttack"
-				"Reload"		"#Button_Reload"
-				"Jump"		"#Button_Jump"
-				"Use"		"#Button_Use"
-				"SwapWeapons"		"#Button_SwapWeapons"
-				"SelectPrimary"		"#Button_SelectPrimary"
-				"SelectSecondary"		"#Button_SelectSecondary"
-				"ActivatePrimary"		"#Button_ActivatePrimary"
-				"ActivateSecondary"		"#Button_ActivateSecondary"
-
-				"EmoteMedic"		"#Button_EmoteMedic"
-				"EmoteAmmo"		"#Button_EmoteAmmo"
-				"EmoteSmile"		"#Button_EmoteSmile"
-				"EmoteGo"		"#Button_EmoteGo"
-				"EmoteStop"		"#Button_EmoteStop"
-				"EmoteExclaim"		"#Button_EmoteExclaim"
-				"EmoteSmile2"		"#Button_EmoteSmile2"
-				"EmoteQuestion"		"#Button_EmoteQuestion"
-
-				"PlayerList"		"#Button_PlayerList"
-				"InGameBriefing"		"#Button_InGameBriefing"
-				"VoteYes"		"#Button_VoteYes"
-				"VoteNo"		"#Button_VoteNo"
-			}
-		}
-	}
-
-	"action_layers"
-	{
-	}
+	//"action_layers"
+	//{
+	//}
 
 	"localization"
 	{
