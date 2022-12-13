@@ -4082,6 +4082,10 @@
 "RD_AdvancedSettings_Misc_CameraRotation_MapperDefined"	"Use Per-Map Setting"
 "RD_AdvancedSettings_Misc_CameraRotation_Never"	"Never"
 "RD_AdvancedSettings_Misc_CameraRotation_Always"	"Always"
+"RD_AdvancedSettings_Misc_SwarmopediaUnits"	"Swarmopedia Units"
+"RD_AdvancedSettings_Misc_SwarmopediaUnits_Hammer"	"Hammer Units"
+"RD_AdvancedSettings_Misc_SwarmopediaUnits_Metric"	"Metric (meters)"
+"RD_AdvancedSettings_Misc_SwarmopediaUnits_Imperial"	"Imperial (feet)"
 
 "rd_audio_advanced_mixers_label"	"Advanced Volume Settings"
 "rd_audio_advanced_mixers_tooltip"	"Adjust the volume of each audio channel separately."
