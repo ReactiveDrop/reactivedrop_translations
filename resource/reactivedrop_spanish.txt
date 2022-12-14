@@ -3930,6 +3930,8 @@
 "[english]rd_gungame_activated"		"Gun Game game mode is activated"
 "rd_gungame_deactivated"		"Modo de juego Juego de Arma desactivado"
 "[english]rd_gungame_deactivated"		"Gun Game game mode is deactivated"
+		"rd_teamdeathmatch_activated"		"Team Deathmatch game mode is activated"
+		"[english]rd_teamdeathmatch_activated"		"Team Deathmatch game mode is activated"
 "rd_schedule_event"		"Programar Evento de Juego"
 "[english]rd_schedule_event"		"Schedule Game Event"
 "rd_leave_feedback"		"Comentarios"
