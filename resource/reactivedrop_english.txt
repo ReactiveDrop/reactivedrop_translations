@@ -4007,6 +4007,12 @@
 "RD_AdvancedSettings_HUD_MapDrawing"	"Map Drawing"
 "RD_AdvancedSettings_HUD_MapDrawing_BriefingOnly"	"Briefing Map Only"
 "RD_AdvancedSettings_HUD_MapDrawing_AllowMinimap"	"Allow Minimap Drawing"
+"RD_AdvancedSettings_HUD_ControllerIcons"	"Controller Icon Set"
+"RD_AdvancedSettings_HUD_ControllerIcons_Default"	"Auto-Detect"
+"RD_AdvancedSettings_HUD_ControllerIcons_XboxOne"	"Microsoft"
+"RD_AdvancedSettings_HUD_ControllerIcons_Switch"	"Nintendo"
+"RD_AdvancedSettings_HUD_ControllerIcons_PS5"	"Sony"
+"RD_AdvancedSettings_HUD_ControllerIcons_SteamDeck"	"Valve"
 
 "RD_AdvancedSettings_SpeedRunning"	"Speed Running"
 "RD_AdvancedSettings_SpeedRunning_ObjectiveTimeChat"	"Write Objective Timing in Chat"
@@ -4051,6 +4057,8 @@
 "RD_AdvancedSettings_VisualEffects_OtherEffects"	"Other Effects"
 "RD_AdvancedSettings_VisualEffects_Beacons"	"Beacon Warp"
 "RD_AdvancedSettings_VisualEffects_MarineGibs"	"Marine Gibs"
+"RD_AdvancedSettings_VisualEffects_ScreenShake"	"Screen Shake"
+"RD_AdvancedSettings_VisualEffects_ScreenShake_Reduced"	"Reduced"
 "RD_AdvancedSettings_VisualEffects_ReduceMotion"	"Reduce Motion on Menus"
 
 "RD_AdvancedSettings_Misc"	"Miscellaneous"
@@ -4074,6 +4082,10 @@
 "RD_AdvancedSettings_Misc_CameraRotation_MapperDefined"	"Use Per-Map Setting"
 "RD_AdvancedSettings_Misc_CameraRotation_Never"	"Never"
 "RD_AdvancedSettings_Misc_CameraRotation_Always"	"Always"
+"RD_AdvancedSettings_Misc_SwarmopediaUnits"	"Swarmopedia Units"
+"RD_AdvancedSettings_Misc_SwarmopediaUnits_Hammer"	"Hammer Units"
+"RD_AdvancedSettings_Misc_SwarmopediaUnits_Metric"	"Metric (meters)"
+"RD_AdvancedSettings_Misc_SwarmopediaUnits_Imperial"	"Imperial (feet)"
 
 "rd_audio_advanced_mixers_label"	"Advanced Volume Settings"
 "rd_audio_advanced_mixers_tooltip"	"Adjust the volume of each audio channel separately."
