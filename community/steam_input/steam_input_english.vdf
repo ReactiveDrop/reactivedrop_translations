@@ -3,15 +3,15 @@
 "Language"		"english"
 "Tokens"
 {
-"Button_PrimaryAttack"		"Primary Fire"
-"Button_SecondaryAttack"		"Secondary Fire"
+"Button_PrimaryAttack"		"Primary Attack"
+"Button_SecondaryAttack"		"Secondary Attack"
 "Button_MeleeAttack"		"Melee"
-"Button_OffHandAttack"		"Use Gear Item"
+"Button_OffHandAttack"		"Use Offhand Item"
 
 "Button_Reload"		"Reload"
 "Button_Jump"		"Roll"
 "Button_Use"		"Use / Interact"
-"Button_SwapWeapons"		"Switch Weapons"
+"Button_SwapWeapons"		"Switch Weapon"
 
 "Button_PlayerList"		"Player List"
 "Button_InGameBriefing"		"Mission Overview"
