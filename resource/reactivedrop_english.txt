@@ -2041,6 +2041,8 @@
 "rd_challenge_desc_riflemod_classic"	"Only rifles. Rifle's secondary ammunition is replenished by picking up regular ammo."
 "rd_challenge_name_first_person"	"First Person"
 "rd_challenge_desc_first_person"	"Experience the game from a different perspective."
+"rd_challenge_name_third_person"	"Third Person"
+"rd_challenge_desc_third_person"	"Experience the game from a different perspective."
 "rd_challenge_disabled"	"Challenge disabled"
 "rd_challenge_enabled"	"Challenge enabled: %s1"
 "rd_weapon_devastator"	"Devastator"
