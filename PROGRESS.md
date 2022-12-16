@@ -8,9 +8,9 @@
 | [Dutch](#non-curated-languages) | 49 | 1948 | 10 | 2131 | 191 | 444 | 125 | 144 |
 | [Finnish](#non-curated-languages) | 49 | 1948 | 10 | 2131 | 191 | 444 | 125 | 144 |
 | [French](#french-français) | 25 | 73 | 10 | 1480 | 191 | 378 | 125 | 123 |
-| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | 27 | ✔️ | ✔️ | ✔️ | ✔️ |
+| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | 27 | ✔️ | ✔️ | ✔️ | 1 |
 | [Hungarian](#non-curated-languages) | 49 | 73 | 10 | 2131 | 191 | 709 | 125 | 145 |
-| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | 41 | ✔️ | ✔️ | ✔️ | ✔️ |
+| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | 41 | ✔️ | ✔️ | ✔️ | 1 |
 | [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | 49 | 12 | 44 | ✔️ | 2 |
 | [Korean](#koreana-한국어) | 47 | 10 | 6 | 990 | 43 | 272 | 125 | 49 |
 | [Norwegian Bokmål](#non-curated-languages) | 67 | 648 | 15 | 2848 | 191 | 444 | 125 | 145 |
@@ -53,7 +53,7 @@
 
 ### Upcoming Release Notes
 
-- [20230420_schinese.xml](release_notes/20230420_schinese.xml) has 52 indented lines.
+- [20230420_schinese.xml](release_notes/20230420_schinese.xml) has 54 indented lines.
 
 ### Inventory Schema</summary>
 
@@ -460,6 +460,10 @@
 
 - [reactivedrop_german.txt](resource/reactivedrop_german.txt) has 27 untranslated strings.
 
+### Upcoming Release Notes
+
+- [20230420_german.xml](release_notes/20230420_german.xml) has 2 indented lines.
+
 </details>
 
 <details><summary>
@@ -471,6 +475,10 @@
 ### Strings
 
 - [reactivedrop_italian.txt](resource/reactivedrop_italian.txt) has 41 untranslated strings.
+
+### Upcoming Release Notes
+
+- [20230420_italian.xml](release_notes/20230420_italian.xml) has 2 indented lines.
 
 </details>
 
@@ -493,7 +501,7 @@
 
 ### Upcoming Release Notes
 
-- [20230420_japanese.xml](release_notes/20230420_japanese.xml) has 13 indented lines.
+- [20230420_japanese.xml](release_notes/20230420_japanese.xml) has 15 indented lines.
 
 </details>
 
