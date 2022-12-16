@@ -7777,6 +7777,8 @@
 "[english]rd_collection_equipment"		"Equipment"
 "rd_reach_level_to_unlock_weapon"		"到达等级 %s1 后解锁 “%s2”。"
 "[english]rd_reach_level_to_unlock_weapon"		"Reach level %s1 to unlock \"%s2\"."
+		"rd_reach_level_to_unlock_public_difficulty"		"Reach level 15 to unlock public lobbies with this difficulty."
+		"[english]rd_reach_level_to_unlock_public_difficulty"		"Reach level 15 to unlock public lobbies with this difficulty."
 "rd_collection_swarmopedia"		"虫群百科"
 "[english]rd_collection_swarmopedia"		"Swarmopedia"
 		"rd_exit_vehicle"		"Exit Vehicle"
