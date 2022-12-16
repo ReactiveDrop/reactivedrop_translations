@@ -56,6 +56,7 @@ TODO
 [list]
 [*][b]ML30 レーザー検知地雷:[/b] 投げるアニメーション用にネットワーク予測を改善した。
 		[*][b]M868 Flamer Unit:[/b] Fixed fuel tanks only granting half a reload worth of ammo.
+		[*][b]TG-05 Gas Grenades:[/b] Updated the item's appearance to help differentiate it from other types of grenades.
 [*]セントリーガンがスキャンするアニメーションが停止時の角度と同期されていなかったのを修正。
 [*]衝突判定のコードに矛盾があったのを修正。BOTと投射物に関して特に顕著だった。
 [/list]
@@ -69,6 +70,7 @@ TODO
 [*]一部のカスタムマップで使われている白く角の無い正方形のドアが間違った方向に倒れることがあったのを修正。
 [*]投票によりボーナスミッションをやり直した時にロビーで隊員が未選択になっていたのを修正。
 [*]チャット画面がシングルプレイヤーでも開けるようになった(カスタムチャレンジ用)。
+		[*]Improved bots in Deathmatch maps. They should get stuck less, turn at more reasonable times, and will now automatically join if you start a Deathmatch map in singleplayer.
 [/list]
 
 [h2]マップ作成[/h2]
