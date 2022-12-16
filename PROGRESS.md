@@ -53,7 +53,7 @@
 
 ### Upcoming Release Notes
 
-- [20230420_schinese.xml](release_notes/20230420_schinese.xml) has 54 indented lines.
+- [20230420_schinese.xml](release_notes/20230420_schinese.xml) has 56 indented lines.
 
 ### Inventory Schema</summary>
 
@@ -462,7 +462,7 @@
 
 ### Upcoming Release Notes
 
-- [20230420_german.xml](release_notes/20230420_german.xml) has 2 indented lines.
+- [20230420_german.xml](release_notes/20230420_german.xml) has 4 indented lines.
 
 </details>
 
@@ -478,7 +478,7 @@
 
 ### Upcoming Release Notes
 
-- [20230420_italian.xml](release_notes/20230420_italian.xml) has 2 indented lines.
+- [20230420_italian.xml](release_notes/20230420_italian.xml) has 4 indented lines.
 
 </details>
 
@@ -501,7 +501,7 @@
 
 ### Upcoming Release Notes
 
-- [20230420_japanese.xml](release_notes/20230420_japanese.xml) has 15 indented lines.
+- [20230420_japanese.xml](release_notes/20230420_japanese.xml) has 17 indented lines.
 
 </details>
 
