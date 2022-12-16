@@ -56,6 +56,7 @@ Hier sind einige Highlights der Updates seit dem letzten Jahrestag:
 [list]
 [*][b]ML30 Laser Haftminen:[/b] Verbesserte Netzvorhersage für Wurfanimation.
 [*][b]M868 Flammenwerfer:[/b] Treibstofftanks, die nur eine halbe Nachladung an Munition liefern wurden behoben.
+		[*][b]TG-05 Gas Grenades:[/b] Updated the item's appearance to help differentiate it from other types of grenades.
 [*]Die Scan-Animation für Wächter, die aus dem Ruhewinkel des Geschützes ausscheren, wurde behoben.
 [*]Unstimmigkeiten im Code der Kollisionsprüfung wurden behoben, vor allem im Zusammenhang mit Bots und Geschossen.
 [/list]
@@ -69,6 +70,7 @@ Hier sind einige Highlights der Updates seit dem letzten Jahrestag:
 [*]Die weiße, abgerundete, quadratische Tür, die in einigen benutzerdefinierten Karten verwendet wird, fiehl manchmal in die falsche Richtung.
 [*]Es wurde behoben, dass Charaktere in der Lobby nicht ausgewählt waren, wenn ein Bonuseinsatz, der durch eine Abstimmung gestartet wurde, neu gestartet wurde.
 [*]Das Chat-Panel kann jetzt im Einzelspieler geöffnet werden (zur Verwendung in benutzerdefinierten Herausforderungen).
+		[*]Improved bots in Deathmatch maps. They should get stuck less, turn at more reasonable times, and will now automatically join if you start a Deathmatch map in singleplayer.
 [/list]
 
 [h2]Mapping[/h2]
