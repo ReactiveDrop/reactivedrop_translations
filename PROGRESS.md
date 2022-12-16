@@ -3,8 +3,8 @@
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | 1 | 70 | 2 | 19 | 1 | 3 |
 | [Traditional Chinese](#tchinese-繁體中文) | 7 | 75 | 1 | 2012 | 191 | 58 | 125 | 144 |
-| [Czech](#non-curated-languages) | 69 | 1751 | 10 | 3136 | 191 | 714 | 125 | 144 |
-| [Danish](#non-curated-languages) | 50 | 166 | 10 | 2669 | 191 | 444 | 125 | 145 |
+| [Czech](#non-curated-languages) | 69 | 1751 | 10 | 3156 | 191 | 714 | 125 | 144 |
+| [Danish](#non-curated-languages) | 50 | 166 | 10 | 2676 | 191 | 444 | 125 | 145 |
 | [Dutch](#non-curated-languages) | 49 | 1948 | 10 | 2131 | 191 | 444 | 125 | 144 |
 | [Finnish](#non-curated-languages) | 49 | 1948 | 10 | 2131 | 191 | 444 | 125 | 144 |
 | [French](#french-français) | 25 | 73 | 10 | 1480 | 191 | 378 | 125 | 123 |
@@ -13,18 +13,18 @@
 | [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | 41 | ✔️ | ✔️ | ✔️ | 1 |
 | [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | 49 | 12 | 44 | ✔️ | 2 |
 | [Korean](#koreana-한국어) | 47 | 10 | 6 | 990 | 43 | 272 | 125 | 49 |
-| [Norwegian Bokmål](#non-curated-languages) | 67 | 648 | 15 | 2848 | 191 | 444 | 125 | 145 |
+| [Norwegian Bokmål](#non-curated-languages) | 67 | 648 | 15 | 2851 | 191 | 444 | 125 | 145 |
 | [Polish](#polish-polski) | 26 | 1948 | 10 | 2131 | 191 | 444 | 125 | 145 |
-| [European Portuguese](#portuguese-português-europeu) | 1 | 115 | 1 | 1427 | 18 | 390 | 98 | 138 |
+| [European Portuguese](#portuguese-português-europeu) | 1 | 115 | 1 | 1431 | 18 | 390 | 98 | 138 |
 | [Brazilian Portuguese](#brazilian-português) | 14 | 1948 | 2 | 371 | 7 | 396 | 2 | 17 |
-| [Romanian](#non-curated-languages) | 49 | 1940 | 16 | 2839 | 191 | 709 | 125 | 145 |
+| [Romanian](#non-curated-languages) | 49 | 1940 | 16 | 2856 | 191 | 709 | 125 | 145 |
 | [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | 45 | ✔️ | 19 | ✔️ | 1 |
 | [European Spanish](#spanish-español-de-españa) | 26 | 1948 | 8 | 1531 | 191 | 448 | 125 | 144 |
 | [Swedish](#non-curated-languages) | 49 | 1948 | 10 | 2131 | 191 | 444 | 125 | 145 |
-| [Thai](#non-curated-languages) | 964 | 1937 | 18 | 3373 | 191 | 473 | 125 | 145 |
+| [Thai](#non-curated-languages) | 964 | 1937 | 18 | 3407 | 191 | 473 | 125 | 145 |
 | [Turkish](#non-curated-languages) | 49 | 72 | 10 | 2131 | 191 | 709 | 125 | 145 |
 | [Ukrainian](#ukrainian-українська) | 25 | 66 | 9 | 1660 | 191 | 709 | 123 | 145 |
-| [Vietnamese](#vietnamese-tiếng-việt) | 1279 | 1948 | 605 | 3637 | 191 | 660 | 125 | 131 |
+| [Vietnamese](#vietnamese-tiếng-việt) | 1279 | 1948 | 605 | 3671 | 191 | 660 | 125 | 131 |
 ### Legend
 - ***Non-capitalized column headers*** are the most important specific files and their number of missing strings. All of these txt-files are located in the resources folder. Except statsweb, which lies in community/stats_website, it's an vdf-file.
 - ***Strings*** is the number of missing strings not included in one of the files which get an individual non-capitalized column.
@@ -841,7 +841,7 @@
 - [basemodui_portuguese.txt](resource/basemodui_portuguese.txt) has 1 untranslated strings.
 - [closecaption_portuguese.txt](resource/closecaption_portuguese.txt) has 115 untranslated strings.
 - [gameui_portuguese.txt](resource/gameui_portuguese.txt) has 1 untranslated strings.
-- [reactivedrop_portuguese.txt](resource/reactivedrop_portuguese.txt) has 1427 untranslated strings.
+- [reactivedrop_portuguese.txt](resource/reactivedrop_portuguese.txt) has 1431 untranslated strings.
 - [valve_portuguese.txt](resource/valve_portuguese.txt) has 266 untranslated strings.
 
 ### Steam Store and Community
@@ -1522,7 +1522,7 @@
 - [chat_vietnamese.txt](resource/chat_vietnamese.txt) has 1 untranslated strings.
 - [closecaption_vietnamese.txt](resource/closecaption_vietnamese.txt) has 1948 untranslated strings.
 - [gameui_vietnamese.txt](resource/gameui_vietnamese.txt) has 605 untranslated strings.
-- [reactivedrop_vietnamese.txt](resource/reactivedrop_vietnamese.txt) has 3637 untranslated strings.
+- [reactivedrop_vietnamese.txt](resource/reactivedrop_vietnamese.txt) has 3671 untranslated strings.
 - [valve_vietnamese.txt](resource/valve_vietnamese.txt) has 224 untranslated strings.
 
 ### Steam Store and Community
