@@ -20,5 +20,5 @@
 "asw_credits_"	"Gems - https://steamcommunity.com/sharedfiles/filedetails/?id=609309413" 
 "asw_credits_"	"Monitors - https://steamcommunity.com/sharedfiles/filedetails/?id=1108535208"
 "asw_credits_"	"Consoles - https://steamcommunity.com/sharedfiles/filedetails/?id=2677359280"
-"asw_credits_"	"Pickup Truck - https://skfb.ly/oxV9M"
+		"asw_credits_"	"Pickup Truck - https://skfb.ly/oxV9M"
 }
