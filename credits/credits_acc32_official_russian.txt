@@ -20,5 +20,5 @@
 "asw_credits_"	"Самоцветы - https://steamcommunity.com/sharedfiles/filedetails/?id=609309413" 
 "asw_credits_"	"Мониторы - https://steamcommunity.com/sharedfiles/filedetails/?id=1108535208"
 "asw_credits_"	"Консоли - https://steamcommunity.com/sharedfiles/filedetails/?id=2677359280"
-		"asw_credits_"	"Пикап - https://skfb.ly/oxV9M"
+"asw_credits_"	"Пикап - https://skfb.ly/oxV9M"
 }
