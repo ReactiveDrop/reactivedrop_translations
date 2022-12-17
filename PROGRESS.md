@@ -11,7 +11,7 @@
 | [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | 27 | ✔️ | ✔️ | ✔️ | 1 |
 | [Hungarian](#non-curated-languages) | 49 | 73 | 10 | 2132 | 191 | 709 | 125 | 145 |
 | [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | 42 | ✔️ | ✔️ | ✔️ | 2 |
-| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | 49 | 12 | 44 | ✔️ | 3 |
+| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | 49 | 12 | 44 | ✔️ | 1 |
 | [Korean](#koreana-한국어) | 47 | 10 | 6 | 991 | 43 | 272 | 125 | 49 |
 | [Norwegian Bokmål](#non-curated-languages) | 67 | 648 | 15 | 2852 | 191 | 444 | 125 | 145 |
 | [Polish](#polish-polski) | 26 | 1948 | 10 | 2132 | 191 | 444 | 125 | 145 |
@@ -506,14 +506,6 @@
 ### Steam Store and Community
 
 - [storepage_81731_japanese.json](store_page/storepage_81731_japanese.json) has 1 indented lines.
-
-### Upcoming Release Notes
-
-- [20230420_japanese.xml](release_notes/20230420_japanese.xml) has 17 indented lines.
-
-### Credits
-
-- [credits_acc32_official_japanese.txt](credits/credits_acc32_official_japanese.txt) has 1 indented lines.
 
 </details>
 
