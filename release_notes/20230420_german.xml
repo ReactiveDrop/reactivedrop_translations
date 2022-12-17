@@ -13,9 +13,9 @@ TODO
 
 [h1]INVENTAR: Waffen, Ausrüstung und Swarmopedia[/h1]
 
-		As promised when the Collections screen was added, the Swarmopedia has returned, better than ever! Unlock stats, tips, and short stories about aliens by killing them in the field. Add-ons can also create their own Swarmopedia entries or add content to existing ones.
+Wie bei der Einführung des Inventarbildschirms versprochen, ist die Swarmopedia zurückgekehrt, besser als je zuvor! Schalte Statistiken, Tipps und Kurzgeschichten über Aliens frei, indem du sie auf dem Feld tötest. Workshop-Erweiterungen können auch ihre eigenen Swarmopedia-Einträge erstellen oder Inhalte zu bestehenden Einträgen hinzufügen.
 
-		With the Swarmopedia revamp comes a new screen for selecting weapons using a grid intended to speed up finding high-level weapons and help with muscle memory. Unlocking weapons by leveling up now also gives you access to their fact sheets, with precise statistics about range, damage, and more.
+Mit der Überarbeitung der Swarmopedia gibt es einen neuen Bildschirm für die Auswahl von Waffen, der ein Raster verwendet, um das Auffinden hochstufiger Waffen zu beschleunigen und das Muskelgedächtnis zu unterstützen. Wenn du Waffen durch Aufleveln freischaltest, hast du jetzt auch Zugriff auf ihre Steckbriefe mit genauen Statistiken zu Reichweite, Schaden und mehr.
 
 [h1]Mapping-Wettbewerb 2023: "Boss Fight"[/h1]
 
@@ -58,7 +58,7 @@ Hier sind einige Highlights der Updates seit dem letzten Jahrestag:
 [list]
 [*][b]ML30 Laser Haftminen:[/b] Verbesserte Netzvorhersage für Wurfanimation.
 [*][b]M868 Flammenwerfer:[/b] Treibstofftanks, die nur eine halbe Nachladung an Munition liefern wurden behoben.
-		[*][b]TG-05 Gas Grenades:[/b] Updated the item's appearance to help differentiate it from other types of grenades.
+[*][b]TG-05 Gasgranaten:[/b] Das Aussehen des Gegenstandes wurde aktualisiert, um ihn von anderen Granaten zu unterscheiden.
 [*]Die Scan-Animation für Wächter, die aus dem Ruhewinkel des Geschützes ausscheren, wurde behoben.
 [*]Unstimmigkeiten im Code der Kollisionsprüfung wurden behoben, vor allem im Zusammenhang mit Bots und Geschossen.
 [/list]
@@ -72,7 +72,7 @@ Hier sind einige Highlights der Updates seit dem letzten Jahrestag:
 [*]Die weiße, abgerundete, quadratische Tür, die in einigen benutzerdefinierten Karten verwendet wird, fiehl manchmal in die falsche Richtung.
 [*]Es wurde behoben, dass Charaktere in der Lobby nicht ausgewählt waren, wenn ein Bonuseinsatz, der durch eine Abstimmung gestartet wurde, neu gestartet wurde.
 [*]Das Chat-Panel kann jetzt im Einzelspieler geöffnet werden (zur Verwendung in benutzerdefinierten Herausforderungen).
-		[*]Improved bots in Deathmatch maps. They should get stuck less, turn at more reasonable times, and will now automatically join if you start a Deathmatch map in singleplayer.
+[*]Die Bots in Deathmatch-Karten wurden verbessert. Sie sollten weniger stecken bleiben, sich zu vernünftigeren Zeiten drehen und werden jetzt automatisch beitreten, wenn du eine Deathmatch-Karte im Einzelspielermodus startest.
 [/list]
 
 [h2]Mapping[/h2]
