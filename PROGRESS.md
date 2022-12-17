@@ -1,22 +1,22 @@
 # Overview
 | Language | basemodui | closecaption | gameui | reactivedrop | statsweb | Strings | Inventory | Files |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | 1 | 71 | 2 | 19 | 1 | 3 |
+| [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | 1 | 71 | 2 | 19 | 1 | 4 |
 | [Traditional Chinese](#tchinese-繁體中文) | 7 | 75 | 1 | 2013 | 191 | 58 | 125 | 144 |
 | [Czech](#non-curated-languages) | 69 | 1751 | 10 | 3157 | 191 | 714 | 125 | 144 |
 | [Danish](#non-curated-languages) | 50 | 166 | 10 | 2677 | 191 | 444 | 125 | 145 |
 | [Dutch](#non-curated-languages) | 49 | 1948 | 10 | 2132 | 191 | 444 | 125 | 144 |
 | [Finnish](#non-curated-languages) | 49 | 1948 | 10 | 2132 | 191 | 444 | 125 | 144 |
 | [French](#french-français) | 25 | 73 | 10 | 1481 | 191 | 378 | 125 | 123 |
-| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | 27 | ✔️ | ✔️ | ✔️ | ✔️ |
+| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | 27 | ✔️ | ✔️ | ✔️ | 1 |
 | [Hungarian](#non-curated-languages) | 49 | 73 | 10 | 2132 | 191 | 709 | 125 | 145 |
-| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | 42 | ✔️ | ✔️ | ✔️ | 1 |
-| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | 49 | 12 | 44 | ✔️ | 2 |
+| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | 42 | ✔️ | ✔️ | ✔️ | 2 |
+| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | 49 | 12 | 44 | ✔️ | 3 |
 | [Korean](#koreana-한국어) | 47 | 10 | 6 | 991 | 43 | 272 | 125 | 49 |
 | [Norwegian Bokmål](#non-curated-languages) | 67 | 648 | 15 | 2852 | 191 | 444 | 125 | 145 |
 | [Polish](#polish-polski) | 26 | 1948 | 10 | 2132 | 191 | 444 | 125 | 145 |
 | [European Portuguese](#portuguese-português-europeu) | 1 | 115 | 1 | 1432 | 18 | 390 | 98 | 138 |
-| [Brazilian Portuguese](#brazilian-português) | 14 | 1948 | 2 | 372 | 7 | 396 | 2 | 17 |
+| [Brazilian Portuguese](#brazilian-português) | 14 | 1948 | 2 | 372 | 7 | 396 | 2 | 18 |
 | [Romanian](#non-curated-languages) | 49 | 1940 | 16 | 2857 | 191 | 709 | 125 | 145 |
 | [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | 46 | ✔️ | 19 | ✔️ | 1 |
 | [European Spanish](#spanish-español-de-españa) | 26 | 1948 | 8 | 1532 | 191 | 448 | 125 | 144 |
@@ -54,6 +54,10 @@
 ### Upcoming Release Notes
 
 - [20230420_schinese.xml](release_notes/20230420_schinese.xml) has 56 indented lines.
+
+### Credits
+
+- [credits_acc32_official_schinese.txt](credits/credits_acc32_official_schinese.txt) has 1 indented lines.
 
 ### Inventory Schema</summary>
 
@@ -460,6 +464,10 @@
 
 - [reactivedrop_german.txt](resource/reactivedrop_german.txt) has 27 untranslated strings.
 
+### Credits
+
+- [credits_acc32_official_german.txt](credits/credits_acc32_official_german.txt) has 1 indented lines.
+
 </details>
 
 <details><summary>
@@ -475,6 +483,10 @@
 ### Upcoming Release Notes
 
 - [20230420_italian.xml](release_notes/20230420_italian.xml) has 4 indented lines.
+
+### Credits
+
+- [credits_acc32_official_italian.txt](credits/credits_acc32_official_italian.txt) has 1 indented lines.
 
 </details>
 
@@ -498,6 +510,10 @@
 ### Upcoming Release Notes
 
 - [20230420_japanese.xml](release_notes/20230420_japanese.xml) has 17 indented lines.
+
+### Credits
+
+- [credits_acc32_official_japanese.txt](credits/credits_acc32_official_japanese.txt) has 1 indented lines.
 
 </details>
 
@@ -1047,6 +1063,7 @@
 
 ### Credits
 
+- [credits_acc32_official_brazilian.txt](credits/credits_acc32_official_brazilian.txt) has 1 indented lines.
 - [rd_bonus_missions_credits_brazilian.txt](credits/rd_bonus_missions_credits_brazilian.txt) has 1 indented lines.
 - [rd_research7_credits_brazilian.txt](credits/rd_research7_credits_english.txt) is missing.
 
