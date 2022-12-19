@@ -20,4 +20,5 @@
 "asw_credits_"	"結晶 - https://steamcommunity.com/sharedfiles/filedetails/?id=609309413"
 "asw_credits_"	"モニター - https://steamcommunity.com/sharedfiles/filedetails/?id=1108535208"
 "asw_credits_"	"端末 - https://steamcommunity.com/sharedfiles/filedetails/?id=2677359280"
+"asw_credits_"	"ピックアップトラック - https://skfb.ly/oxV9M"
 }
