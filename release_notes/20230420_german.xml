@@ -58,6 +58,7 @@ Hier sind einige Highlights der Updates seit dem letzten Jahrestag:
 [list]
 [*][b]ML30 Laser Haftminen:[/b] Verbesserte Netzvorhersage für Wurfanimation.
 [*][b]M868 Flammenwerfer:[/b] Treibstofftanks, die nur eine halbe Nachladung an Munition liefern wurden behoben.
+		[*][b]Chainsaw:[/b] Bots now use this weapon from a more reasonable range.
 [*][b]TG-05 Gasgranaten:[/b] Das Aussehen des Gegenstandes wurde aktualisiert, um ihn von anderen Granaten zu unterscheiden.
 [*]Die Scan-Animation für Wächter, die aus dem Ruhewinkel des Geschützes ausscheren, wurde behoben.
 [*]Unstimmigkeiten im Code der Kollisionsprüfung wurden behoben, vor allem im Zusammenhang mit Bots und Geschossen.
@@ -73,6 +74,7 @@ Hier sind einige Highlights der Updates seit dem letzten Jahrestag:
 [*]Es wurde behoben, dass Charaktere in der Lobby nicht ausgewählt waren, wenn ein Bonuseinsatz, der durch eine Abstimmung gestartet wurde, neu gestartet wurde.
 [*]Das Chat-Panel kann jetzt im Einzelspieler geöffnet werden (zur Verwendung in benutzerdefinierten Herausforderungen).
 [*]Die Bots in Deathmatch-Karten wurden verbessert. Sie sollten weniger stecken bleiben, sich zu vernünftigeren Zeiten drehen und werden jetzt automatisch beitreten, wenn du eine Deathmatch-Karte im Einzelspielermodus startest.
+		[*]Fixed the game instructor giving incorrect information about how to respawn in Deathmatch mode, and tidied up the prompts on the HUD.
 [/list]
 
 [h2]Mapping[/h2]
@@ -100,6 +102,7 @@ Hier sind einige Highlights der Updates seit dem letzten Jahrestag:
 [*]TileGen flacht jetzt Instanzen ab, bevor es die Karte an VBSP sendet, sodass TileGen-Raumsets in VPKs oder auf dem Workshop verteilt werden können. Das bedeutet auch, dass rd_tilegen_instance innerhalb von Instanzen verwendet werden kann.
 [*]TileGen-Karten verwenden jetzt toolsskybox für ein level seal und ermöglichen die Verwendung von light_environment und light_directional.
 [*]asw_vehicle_jeep ist jetzt funktionsfähig. Verfügbare Fahrzeuge ohne Add-ons sind der Dünenbuggy aus Half-Life 2 (models/buggy.mdl, scripts/vehicles/jeep_test.txt), der einen Fahrer zulässt, und das Muscle Car aus Half-Life 2: Episode Two (models/vehicle.mdl, scripts/vehicles/jalopy.txt), das einen Fahrer und einen Passagier zulässt.
+		[*]trigger_asw_button_area now has options for overriding UI hints with custom text.
 [/list]
 
 [h2]VScript[/h2]
