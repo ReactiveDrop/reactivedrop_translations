@@ -20,4 +20,5 @@
 "asw_credits_"	"宝石 - https://steamcommunity.com/sharedfiles/filedetails/?id=609309413" 
 "asw_credits_"	"监视器 - https://steamcommunity.com/sharedfiles/filedetails/?id=1108535208"
 "asw_credits_"	"控制台 - https://steamcommunity.com/sharedfiles/filedetails/?id=2677359280"
+		"asw_credits_"	"Pickup Truck - https://skfb.ly/oxV9M"
 }

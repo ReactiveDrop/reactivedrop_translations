@@ -13,7 +13,9 @@ TODO
 
 [h1]コレクション: 武器、装備、エイリアン図鑑[/h1]
 
-TODO
+予告通りに、コレクション画面の追加時にエイリアン図鑑も戻ってきました。しかも以前より良い物になりました！戦場でエイリアンを倒すことでエイリアンについての能力値解説、アドバイス、ストーリー短編をアンロックできます。アドオンによって独自のエイリアン図鑑の項目を作ったり、既存の項目に追加もできます。
+
+エイリアン図鑑の刷新と同時に、グリッドを採用して高レベルの武器を反射的に素早く武器選択できるようにした新しい武器選択画面も導入されました。レベルアップで武器がアンロックされれば、正確な射程や威力などの書かれた武器の概要書の閲覧も許可されるようになります。
 
 [h1]マップ作成コンテスト 2023: 『ボス戦』[/h1]
 
@@ -45,8 +47,8 @@ TODO
 [*][b]Area 9800: Wastelands:[/b] 最後の襲撃の導入部でハーベスターが出口に詰まることがあったのを修正。
 [*][b]Tilarus-5: Arctic Infiltration:[/b] ミッションを開始してからしばらくウーバードローンが出たり消えたりしていたのを修正。
 [*][b]Tilarus-5: SynTek Hospital:[/b] 警報の音を大きくした。
-		[*][b]Lana's Escape: Lana's Bridge:[/b] Significant performance optimizations to lighting, rendering, and pathfinding.
-		[*][b]Lana's Escape: Lana's Sewer:[/b] The radioactive barrels in the arena deal more damage to shamans.
+[*][b]Lana's Escape: Lana's Bridge:[/b] 照明、描画、経路探索の大幅なパフォーマンス最適化。
+[*][b]Lana's Escape: Lana's Sewer:[/b] アリーナにある放射性物質のドラム缶がシャーマンに与えるダメージを増加。
 [*][b]Paranoia: Unexpected Encounter:[/b] グレネードランチャーのエイムに関するバグを修正。
 [*][b]Paranoia: Hostile Places:[/b] グレネードランチャーのエイムに関するバグを修正。
 [*][b]Bunker:[/b] 天井の見えない梁の衝突判定を削除。
@@ -55,7 +57,8 @@ TODO
 [h2]武器[/h2]
 [list]
 [*][b]ML30 レーザー検知地雷:[/b] 投げるアニメーション用にネットワーク予測を改善した。
-		[*][b]M868 Flamer Unit:[/b] Fixed fuel tanks only granting half a reload worth of ammo.
+[*][b]M868 フレイマーユニット:[/b] 燃料タンクを拾ってもリロード1回の半分相当しか弾薬が得られなかったのを修正。
+[*][b]TG-05 ガスグレネード:[/b] 他のグレネード類と見分け易くなるようにアイテムの見た目を更新。
 [*]セントリーガンがスキャンするアニメーションが停止時の角度と同期されていなかったのを修正。
 [*]衝突判定のコードに矛盾があったのを修正。BOTと投射物に関して特に顕著だった。
 [/list]
@@ -69,6 +72,7 @@ TODO
 [*]一部のカスタムマップで使われている白く角の無い正方形のドアが間違った方向に倒れることがあったのを修正。
 [*]投票によりボーナスミッションをやり直した時にロビーで隊員が未選択になっていたのを修正。
 [*]チャット画面がシングルプレイヤーでも開けるようになった(カスタムチャレンジ用)。
+[*]デスマッチマップでのBOTを改善。ハマりにくくなり、旋回速度が適切になり、シングルプレイヤーでデスマッチマップを開始した場合に自動的に参加するようになった。
 [/list]
 
 [h2]マップ作成[/h2]
@@ -77,7 +81,7 @@ TODO
 [*]asw_env_shakeはユーザー設定を無視するフラグを立てられるようになった。(このフラグに関係なく[i]全ての[/i]画面揺れを無効にする新しいコンソール変数も追加された)。
 [*]env_headcrabcanisterを追加。
 [*]script_introを追加。
-		[*]A new material proxy, LanguagePreference, can be used to change a texture based on the viewer's language preference. For example:
+[*]新しいmaterial proxyとしてLanguagePreferenceを追加。見る人の言語設定に応じてテクスチャを変更できる。例:
 [code]UnlitGeneric {
     $basetexture "example/translated_texture_english"
 
@@ -90,18 +94,19 @@ TODO
         }
     }
 }[/code]
-		[*]TileGen now expects rooms to be built for -alldetail mode (world brushes turn into func_detail, func_brush with a name starting with structure_ turns into a world brush).
-		[*]Improved the randomization of rd_tilegen_instance.
-		[*]rd_tilegen_instance now searches in reactivedrop/tilegen/instances rather than reactivedrop/tilegen/instance/ThemeName.
-		[*]TileGen now flattens instances before sending the map to VBSP, allowing TileGen room sets to be distributed in VPKs or on the workshop. This also means rd_tilegen_instance can be used within instances.
-		[*]TileGen maps now use toolsskybox for a level seal, allowing the use of light_environment and light_directional.
-		[*]asw_vehicle_jeep is now functional. Available vehicles without add-ons are the dune buggy from Half-Life 2 (models/buggy.mdl, scripts/vehicles/jeep_test.txt) which allows one driver, and the muscle car from Half-Life 2: Episode Two (models/vehicle.mdl, scripts/vehicles/jalopy.txt) which allows one driver and one passenger.
+[*]TileGenは部屋が-alldetailモードで造られていることを前提とするようになった。(world brushesはfunc_detailに、nameがstructure_から始まるfunc_brushはworld brushに変化する)。
+[*]rd_tilegen_instanceのランダム性を改善。
+[*]rd_tilegen_instanceはreactivedrop/tilegen/instance/ThemeNameではなくreactivedrop/tilegen/instancesを検索するように変更。
+[*]TileGenはVBSPにマップを送る前にインスタンスを均一化ようになり、TileGenの部屋がVPKファイルやワークショップで配布可能になった。これは同時にrd_tilegen_instanceがインスタンス間での使用も可能になったことも意味する。
+[*]TileGenのマップはlevel sealにtoolsskyboxを使用するようになり、light_environmentとlight_directionalが使用可能になった。
+[*]asw_vehicle_jeepが機能するようになった。アドオン無しで使える物はハーフライフ2の一人乗りバギー(models/buggy.mdl, scripts/vehicles/jeep_test.txt)と、ハーフライフ2:エピソード2の運転席と助手席があるマッスルカー(models/vehicle.mdl, scripts/vehicles/jalopy.txt)です。
 [/list]
 
 [h2]VScript[/h2]
 [list]
 [*]海兵隊に新しいメソッドを追加: SetMarineRollsで、マップやチャレンジによって各海兵がそれぞれジャンプできるかどうかを設定できます。
-		[*]asw_vehicle_jeep has methods to override its camera, SetCameraControls, SetCameraPitch, SetCameraDist, and SetCameraHeight, with corresponding Get* methods. Setting a negative value causes the vehicle to use the global setting.
-		[*]asw_vehicle_jeep has methods to query the occupants: MaxPassengers(), GetDriver(), and GetPassenger(seat).
-		[*]asw_vehicle_jeep has methods to retrieve statistics: GetSpeed, GetMaxSpeed (in miles per hour), GetRPM, GetThrottle, HasBoost, and BoostTimeLeft.
+[*]操作可能なNPC(海兵隊など)が新しいメソッドとしてSetControlsを持つようになった。これによりキャラクターを操作や観戦してるプレイヤー用にasw_controlsの値を上書きできる。負の値を設定するとキャラクターはグローバル設定を使用するようになる。
+[*]asw_vehicle_jeepはカメラを上書きするメソッドとして、SetCameraControls, SetCameraPitch, SetCameraDist, SetCameraHeight, 及びそれぞれに対応するGet*を持つようになった。負の値を設定すると乗り物はグローバル設定を使用するようになる。
+[*]asw_vehicle_jeepが乗員についての情報を要求するメソッドとして、MaxPassengers(), GetDriver(), GetPassenger(seat)を持つようになった。
+[*]asw_vehicle_jeepが統計情報を取得するメソッドとして、GetSpeed, GetMaxSpeed (時速マイル表記), GetRPM, GetThrottle, HasBoost, BoostTimeLeftを持つようになった。
 [/list]</string><string id="subtitle">今日はAlien Swarm: Reactive Dropの誕生日です！</string><string id="summary">今日はAlien Swarm: Reactive DropがSteamでリリースされてから6周年の記念日です！経験値2倍週間、2つの新キャンペーン、その他色々でお祝いしましょう。</string><string id="title">Alien Swarm: Reactive Dropアップデート - 2023年4月20日</string></content>

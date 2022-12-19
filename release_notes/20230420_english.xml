@@ -5,7 +5,7 @@
 
 Mysterious, seemingly harmless green glowing gems are discovered under the ground of a populated area due to abnormal radioactivity levels. The company "AMBER" came to study this supernatural material. Findings are frightening and undocumented, kept away from the public. Gems are identified to be extremely dangerous, extraterrestrial materials comprised of mostly muons. Emitted radiation modifies all biological structures in a big vicinity.
 
-Originally released in May of 2020 and May of 2022 on the Steam Workshop, Accident 32 is a six-mission campaign which combines two three-mission campaigns into one. Marines are set out to explore the mysterious complex and headquarters of the company called "AMBER" and face a lot of threats. A bonus "AMBER Complex" mission is included which is the first three missions combined into one.
+Originally released in May of 2020 and May of 2022 on the Steam Workshop, Accident 32 is a six-mission campaign which combines two three-mission campaigns into one. Marines are set out to explore the mysterious complex and headquarters of the company called "AMBER" and face many threats. A bonus "AMBER Complex" mission is included which is the first three missions combined into one.
 
 [h1]New Campaign: Adanaxis[/h1]
 
@@ -13,7 +13,9 @@ TODO
 
 [h1]Collections: Weapons, Equipment, and Swarmopedia[/h1]
 
-TODO
+As promised when the Collections screen was added, the Swarmopedia has returned, better than ever! Unlock stats, tips, and short stories about aliens by killing them in the field. Add-ons can also create their own Swarmopedia entries or add content to existing ones.
+
+With the Swarmopedia revamp comes a new screen for selecting weapons using a grid intended to speed up finding high-level weapons and help with muscle memory. Unlocking weapons by leveling up now also gives you access to their fact sheets, with precise statistics about range, damage, and more.
 
 [h1]Mapping Competition 2023: "Boss Fight"[/h1]
 
@@ -56,6 +58,7 @@ Here are some highlights from updates since the previous anniversary:
 [list]
 [*][b]ML30 Laser Trip Mine:[/b] Improved network prediction for throwing animation.
 [*][b]M868 Flamer Unit:[/b] Fixed fuel tanks only granting half a reload worth of ammo.
+[*][b]TG-05 Gas Grenades:[/b] Updated the item's appearance to help differentiate it from other types of grenades.
 [*]Fixed the scanning animation for sentries desynchronizing from the gun's idle angle.
 [*]Fixed inconsistencies in collision-checking code, most notably related to bot marines and projectiles.
 [/list]
@@ -69,6 +72,7 @@ Here are some highlights from updates since the previous anniversary:
 [*]Fixed the white rounded square door used in some custom maps visually falling in the wrong direction sometimes.
 [*]Fixed marines being unselected in the lobby when restarting a bonus mission that was started via a vote.
 [*]The chat panel can now be opened in singleplayer (for use in custom challenges).
+[*]Improved bots in Deathmatch maps. They should get stuck less, turn at more reasonable times, and will now automatically join if you start a Deathmatch map in singleplayer.
 [/list]
 
 [h2]Mapping[/h2]
