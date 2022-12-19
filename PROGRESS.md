@@ -8,10 +8,10 @@
 | [Dutch](#non-curated-languages) | 49 | 1948 | 10 | 2132 | 191 | 444 | 125 | 144 |
 | [Finnish](#non-curated-languages) | 49 | 1948 | 10 | 2132 | 191 | 444 | 125 | 144 |
 | [French](#french-français) | 25 | 73 | 10 | 1484 | 191 | 378 | 125 | 123 |
-| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | 30 | ✔️ | ✔️ | ✔️ | ✔️ |
+| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | 30 | ✔️ | ✔️ | ✔️ | 1 |
 | [Hungarian](#non-curated-languages) | 49 | 73 | 10 | 2132 | 191 | 709 | 125 | 145 |
 | [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | 45 | ✔️ | ✔️ | ✔️ | 2 |
-| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | 52 | 12 | 44 | ✔️ | 1 |
+| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | 52 | 12 | 44 | ✔️ | 2 |
 | [Korean](#koreana-한국어) | 47 | 10 | 6 | 994 | 43 | 272 | 125 | 49 |
 | [Norwegian Bokmål](#non-curated-languages) | 67 | 648 | 15 | 2852 | 191 | 444 | 125 | 145 |
 | [Polish](#polish-polski) | 26 | 1948 | 10 | 2132 | 191 | 444 | 125 | 145 |
@@ -53,7 +53,7 @@
 
 ### Upcoming Release Notes
 
-- [20230420_schinese.xml](release_notes/20230420_schinese.xml) has 56 indented lines.
+- [20230420_schinese.xml](release_notes/20230420_schinese.xml) has 59 indented lines.
 
 ### Credits
 
@@ -464,6 +464,10 @@
 
 - [reactivedrop_german.txt](resource/reactivedrop_german.txt) has 30 untranslated strings.
 
+### Upcoming Release Notes
+
+- [20230420_german.xml](release_notes/20230420_german.xml) has 3 indented lines.
+
 </details>
 
 <details><summary>
@@ -478,7 +482,7 @@
 
 ### Upcoming Release Notes
 
-- [20230420_italian.xml](release_notes/20230420_italian.xml) has 4 indented lines.
+- [20230420_italian.xml](release_notes/20230420_italian.xml) has 7 indented lines.
 
 ### Credits
 
@@ -502,6 +506,10 @@
 ### Steam Store and Community
 
 - [storepage_81731_japanese.json](store_page/storepage_81731_japanese.json) has 1 indented lines.
+
+### Upcoming Release Notes
+
+- [20230420_japanese.xml](release_notes/20230420_japanese.xml) has 3 indented lines.
 
 </details>
 
