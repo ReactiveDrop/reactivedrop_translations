@@ -16,7 +16,7 @@
 | [Norwegian Bokmål](#non-curated-languages) | 67 | 648 | 15 | 2852 | 191 | 444 | 125 | 145 |
 | [Polish](#polish-polski) | 26 | 1948 | 10 | 2132 | 191 | 444 | 125 | 145 |
 | [European Portuguese](#portuguese-português-europeu) | 1 | 115 | 1 | 1435 | 18 | 390 | 98 | 138 |
-| [Brazilian Portuguese](#brazilian-português) | 14 | 1948 | 2 | 375 | 7 | 396 | 2 | 18 |
+| [Brazilian Portuguese](#brazilian-português) | 14 | 1948 | 2 | 375 | 7 | 396 | 2 | 17 |
 | [Romanian](#non-curated-languages) | 49 | 1940 | 16 | 2857 | 191 | 709 | 125 | 145 |
 | [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | 49 | ✔️ | 19 | ✔️ | 1 |
 | [European Spanish](#spanish-español-de-españa) | 26 | 1948 | 8 | 1535 | 191 | 448 | 125 | 144 |
@@ -1042,7 +1042,6 @@
 
 ### Steam Store and Community
 
-- [eula_brazilian.txt](community/eula/eula_english.txt) is missing.
 - [mappingcontest2023_brazilian.txt](community/workshop/mappingcontest2023_english.txt) is missing.
 - [workshop_tags_brazilian.json](community/workshop/workshop_tags_brazilian.json) has 1 indented lines.
 - [content_warning_563560_brazilian.txt](store_page/content_warning_563560_english.txt) is missing.
