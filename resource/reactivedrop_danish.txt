@@ -3082,6 +3082,8 @@
 "[english]nb_next_mission"		"NEXT MISSION:"
 "nb_campaign_title"		"KAMPAGNE: %s1"
 "[english]nb_campaign_title"		"CAMPAIGN: %s1"
+		"nb_next_mission_title"		"UP NEXT: %s1"
+		"[english]nb_next_mission_title"		"UP NEXT: %s1"
 "nb_weapon_unlocked"		"Nyt våben låst op"
 "[english]nb_weapon_unlocked"		"New Weapon Unlocked"
 		"nb_skill_points"		"Skill Points"
