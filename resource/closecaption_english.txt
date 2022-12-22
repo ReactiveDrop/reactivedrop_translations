@@ -4874,5 +4874,43 @@
 
 "Amber.06_01"	"<clr:255,0,0><B>AMBER Warning:<B><clr:158,143,39> Detected Radioactive Material Presence."
 
+// Sound effects (not shown in Subtitles mode; mostly for sounds without a corresponding visual cue or for very important sounds)
+"asw_song.Stinger"	"<sfx><I>[Horde incoming!]"
+"Spawner.Horde"	"<sfx><I>[Horde incoming!]"
+"ASW_Weapon.LowAmmoClick"	"<sfx><I><norepeat:15>[Gun low on ammo]"
+"ASW_Weapon.Empty"	"<sfx><I>[Gun has no ammo]"
+"ASW_Sentry.AmmoWarning"	"<sfx><I><norepeat:15>[Sentry low on ammo]"
+"ASW_Sentry.OutOfAmmo"	"<sfx><I>[Sentry has no ammo]"
+"ASW_Weapon.BatteryCharged"	"<sfx><I>[Battery recharges]"
+"ASW_Weapon.InsufficientBattery"	"<sfx><I>[Battery needs to recharge]"
+"ASWScanner.Warning1"	"<sfx><I><norepeat:15>[Scanner detects movement]"
+"ASW_Door.MeleeHit"	"<sfx><I><norepeat:15>[Door hit]"
+"ASW_Door.MeleeDown"	"<sfx><I>[Door breached!]"
+"ASWBarrel.Explode"	"<sfx><I><norepeat:15>[Barrel explodes!]"
+"ambient.alarms.klaxon1"	"<sfx><I><norepeat:15>[Alarm!]"
+"swarm.gameeffects.swarmalarm"	"<sfx><I><norepeat:15>[Alarm!]"
+"ambient.alarms.klaxon1_nopitch"	"<sfx><I><norepeat:15>[Alarm!]"
+"ambient.alarms.door_alarm"	"<sfx><I><norepeat:15>[Alarm!]"
+
+// Alien vocalizations (SFX)
+"ASWGoo.GooScream"	"<sfx><I><norepeat:15>[Biomass screams!]"
+"ASW_Drone.Roar"	"<sfx><I><norepeat:15>[Drone roars!]"
+"ASW_Drone.Alert"	"<sfx><I><norepeat:15>[Drone alerted]"
+"ASW_ShieldBug.Stomp"	"<sfx><I><norepeat:15>[Shieldbug stomps!]"
+"ASW_ShieldBug.Roar"	"<sfx><I><norepeat:15>[Shieldbug roars!]"
+"ASW_ShieldBug.Alert"	"<sfx><I><norepeat:15>[Shieldbug alerted]"
+"Ranger.fire"	"<sfx><I><norepeat:15>[Ranger spits!]"
+"ASW_Egg.Open"	"<sfx><I><norepeat:15>[Egg opens!]"
+"ASW_Egg.Pop"	"<sfx><I><norepeat:15>[Egg pops!]"
+"ASW_Parasite.EggBurst"	"<sfx><I><norepeat:15>[Egg pops!]"
+"ASW_Parasite.Attack"	"<sfx><I><norepeat:15>[Parasite leaps!]"
+"ASW_Boomer.Inflate"	"<sfx><I><norepeat:15>[Boomer inflates!]"
+"ASW_Boomer.Death_Explode"	"<sfx><I><norepeat:15>[Boomer pops!]"
+"ASW_MortarBug.Spit"	"<sfx><I><norepeat:15>[Mortarbug spits!]"
+"ASW_Harvester.Alert"	"<sfx><I><norepeat:15>[Harvester alerted]"
+"ASW_Queen.Slash"	"<sfx><I><norepeat:15>[Queen attacks!]"
+"ASW_Queen.AttackWave"	"<sfx><I>[Horde incoming!]"
+"ASW_Queen.Spit"	"<sfx><I><norepeat:15>[Queen spits!]"
+
 }
 }
