@@ -4909,7 +4909,7 @@
 "ASW_MortarBug.Spit"	"<sfx><I><norepeat:15>[Mortarbug spits!]"
 "ASW_Harvester.Alert"	"<sfx><I><norepeat:15>[Harvester alerted]"
 "ASW_Queen.Slash"	"<sfx><I><norepeat:15>[Queen attacks!]"
-"ASW_Queen.AttackWave"	"<sfx><I>[Horde incoming!]"
+"ASW_Queen.AttackWave"	"<sfx><I>[Queen screams!]"
 "ASW_Queen.Spit"	"<sfx><I><norepeat:15>[Queen spits!]"
 
 }
