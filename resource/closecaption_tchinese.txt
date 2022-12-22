@@ -4001,8 +4001,8 @@
 		"[english]ASW_Harvester.Alert"		"<sfx><I><norepeat:15>[Harvester alerted]"
 		"ASW_Queen.Slash"		"<sfx><I><norepeat:15>[Queen attacks!]"
 		"[english]ASW_Queen.Slash"		"<sfx><I><norepeat:15>[Queen attacks!]"
-		"ASW_Queen.AttackWave"		"<sfx><I>[Horde incoming!]"
-		"[english]ASW_Queen.AttackWave"		"<sfx><I>[Horde incoming!]"
+		"ASW_Queen.AttackWave"		"<sfx><I>[Queen screams!]"
+		"[english]ASW_Queen.AttackWave"		"<sfx><I>[Queen screams!]"
 		"ASW_Queen.Spit"		"<sfx><I><norepeat:15>[Queen spits!]"
 		"[english]ASW_Queen.Spit"		"<sfx><I><norepeat:15>[Queen spits!]"
 }
