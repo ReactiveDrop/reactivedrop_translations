@@ -8,10 +8,10 @@
 | [Dutch](#non-curated-languages) | 49 | 1993 | 10 | 2133 | 191 | 444 | 125 | 144 |
 | [Finnish](#non-curated-languages) | 49 | 1993 | 10 | 2133 | 191 | 444 | 125 | 144 |
 | [French](#french-français) | 25 | 118 | 10 | 1485 | 191 | 378 | 125 | 123 |
-| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | 28 | ✔️ | ✔️ | ✔️ | ✔️ |
+| [German](#german-deutsch) | ✔️ | 1 | ✔️ | 28 | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Hungarian](#non-curated-languages) | 49 | 118 | 10 | 2133 | 191 | 709 | 125 | 145 |
 | [Italian](#italian-italiano) | ✔️ | 45 | ✔️ | 46 | ✔️ | ✔️ | ✔️ | 2 |
-| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | 50 | 12 | 44 | ✔️ | 2 |
+| [Japanese](#japanese-日本語) | ✔️ | 1 | ✔️ | 50 | 12 | 44 | ✔️ | 2 |
 | [Korean](#koreana-한국어) | 47 | 55 | 6 | 995 | 43 | 272 | 125 | 49 |
 | [Norwegian Bokmål](#non-curated-languages) | 67 | 693 | 15 | 2853 | 191 | 444 | 125 | 145 |
 | [Polish](#polish-polski) | 26 | 1993 | 10 | 2133 | 191 | 444 | 125 | 145 |
@@ -463,6 +463,7 @@
 
 ### Strings
 
+- [closecaption_german.txt](resource/closecaption_german.txt) has 1 untranslated strings.
 - [reactivedrop_german.txt](resource/reactivedrop_german.txt) has 28 untranslated strings.
 
 </details>
@@ -498,6 +499,7 @@
 
 - [statsweb_japanese.vdf](community/stats_website/statsweb_japanese.vdf) has 12 untranslated strings.
 - [vgui_japanese.txt](platform/vgui_japanese.txt) has 37 untranslated strings.
+- [closecaption_japanese.txt](resource/closecaption_japanese.txt) has 1 untranslated strings.
 - [reactivedrop_japanese.txt](resource/reactivedrop_japanese.txt) has 50 untranslated strings.
 - [valve_japanese.txt](resource/valve_japanese.txt) has 7 untranslated strings.
 
