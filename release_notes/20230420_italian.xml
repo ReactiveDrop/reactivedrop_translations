@@ -13,9 +13,9 @@ TODO
 
 [h1]Collezioni: Armi, Equipaggiamenti e la Swarmopedia[/h1]
 
-		As promised when the Collections screen was added, the Swarmopedia has returned, better than ever! Unlock stats, tips, and short stories about aliens by killing them in the field. Add-ons can also create their own Swarmopedia entries or add content to existing ones.
+Come promesso quando è stata aggiunta la schermata delle Collezioni, la Swarmopedia è tornata, più bella che mai! Sbloccate statistiche, consigli e brevi storie sugli alieni uccidendoli sul campo. Gli add-on possono anche creare le proprie voci della Swarmopedia o aggiungere contenuti a quelle esistenti.
 
-		With the Swarmopedia revamp comes a new screen for selecting weapons using a grid intended to speed up finding high-level weapons and help with muscle memory. Unlocking weapons by leveling up now also gives you access to their fact sheets, with precise statistics about range, damage, and more.
+Con il rinnovamento della Swarmopedia è stata introdotta una nuova schermata per la selezione delle armi che utilizza una griglia per velocizzare la ricerca delle armi di alto livello e aiutare la memoria muscolare. Sbloccando le armi con l'aumento di livello si accede anche alle loro schede informative, con statistiche precise su gittata, danni e altro.
 
 [h1]Competizione di Mapping 2023: "Combattimento contro i Boss"[/h1]
 
@@ -58,8 +58,8 @@ Ecco alcuni momenti salienti dagli aggiornamenti precedenti allo scorso annivers
 [list]
 [*][b]Mina Laser a Pressione ML30:[/b] Miglioramento della previsione della rete per l'animazione del lancio.
 [*][b]Unità Lanciafiamme M868:[/b] Corretto il fatto che i serbatoi di carburante forniscano solo mezza ricarica di munizioni.
-		[*][b]Chainsaw:[/b] Bots now use this weapon from a more reasonable range.
-		[*][b]TG-05 Gas Grenades:[/b] Updated the item's appearance to help differentiate it from other types of grenades.
+[*][b]Motosega:[/b] Ora i bot usano quest'arma a una distanza più ragionevole.
+[*][b]Granate a Gas TG-05:[/b] Aggiornato l'aspetto dell'arma per differenziarla meglio dalle armi dello stesso tipo.
 [*]Corretta l'animazione di scansione per le sentinelle che si desincronizza dall'angolo di inattività dell'arma.
 [*]Corrette le incongruenze nel codice di controllo delle collisioni, soprattutto per quanto riguarda i soldati bot e i proiettili.
 [/list]
@@ -73,8 +73,8 @@ Ecco alcuni momenti salienti dagli aggiornamenti precedenti allo scorso annivers
 [*]Corretta la porta quadrata arrotondata bianca utilizzata in alcune mappe personalizzate che a volte cadeva visivamente nella direzione sbagliata.
 [*]Corretta la deselezione dei soldati nella lobby quando si riavvia una missione bonus iniziata tramite una votazione.
 [*]Il pannello della chat ora può essere aperto in giocatore singolo (per l'uso nelle sfide personalizzate).
-		[*]Improved bots in Deathmatch maps. They should get stuck less, turn at more reasonable times, and will now automatically join if you start a Deathmatch map in singleplayer.
-		[*]Fixed the game instructor giving incorrect information about how to respawn in Deathmatch mode, and tidied up the prompts on the HUD.
+[*]Miglioramento dei bot nelle mappe Deathmatch. Dovrebbero bloccarsi di meno, girare con tempi più ragionevoli e ora si uniranno automaticamente se si avvia una mappa Deathmatch in giocatore singolo.
+[*]Corretto l'istruttore di gioco che dava informazioni errate su come respawnare in modalità Deathmatch e sono state riordinate le indicazioni sull'HUD.
 [/list]
 
 [h2]Mapping[/h2]
@@ -102,7 +102,7 @@ Ecco alcuni momenti salienti dagli aggiornamenti precedenti allo scorso annivers
 [*]Il TileGen ora appiattisce le istanze prima di inviare la mappa a VBSP, permettendo ai set di stanze del TileGen di essere distribuiti in formato VPK o sul workshop. Vuol dire anche che rd_tilegen_instance può essere utilizzato nelle istanze.
 [*]Le mappe del TileGen ora utilizzano toolsskybox per la chiusura del livello, consentendo l'uso di light_environment e light_directional.
 [*]asw_vehicle_jeep ora è funzionante. I veicoli disponibili senza add-on sono il Dune Buggy di Half-Life 2 (models/buggy.mdl, scripts/vehicles/jeep_test.txt) che ha spazio per un guidatore, e la Muscle Car di Half-Life 2: Episode Two (models/vehicle.mdl, scripts/vehicles/jalopy.txt) che ha spazio per un guidatore e un passeggero.
-		[*]trigger_asw_button_area now has options for overriding UI hints with custom text.
+[*]trigger_asw_button_area dispone ora di opzioni per sovrascrivere i suggerimenti dell'interfaccia utente con un testo personalizzato.
 [/list]
 
 [h2]VScript[/h2]
