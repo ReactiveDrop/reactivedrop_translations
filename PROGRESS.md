@@ -10,7 +10,7 @@
 | [French](#french-français) | 25 | 118 | 10 | 1485 | 191 | 378 | 125 | 123 |
 | [German](#german-deutsch) | ✔️ | 1 | ✔️ | 28 | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Hungarian](#non-curated-languages) | 49 | 118 | 10 | 2133 | 191 | 709 | 125 | 145 |
-| [Italian](#italian-italiano) | ✔️ | 45 | ✔️ | 46 | ✔️ | ✔️ | ✔️ | 2 |
+| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | 32 | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Japanese](#japanese-日本語) | ✔️ | 1 | ✔️ | 50 | 12 | 44 | ✔️ | 2 |
 | [Korean](#koreana-한국어) | 47 | 55 | 6 | 995 | 43 | 272 | 125 | 49 |
 | [Norwegian Bokmål](#non-curated-languages) | 67 | 693 | 15 | 2853 | 191 | 444 | 125 | 145 |
@@ -476,16 +476,7 @@
 
 ### Strings
 
-- [closecaption_italian.txt](resource/closecaption_italian.txt) has 45 untranslated strings.
-- [reactivedrop_italian.txt](resource/reactivedrop_italian.txt) has 46 untranslated strings.
-
-### Upcoming Release Notes
-
-- [20230420_italian.xml](release_notes/20230420_italian.xml) has 7 indented lines.
-
-### Credits
-
-- [credits_acc32_official_italian.txt](credits/credits_acc32_official_italian.txt) has 1 indented lines.
+- [reactivedrop_italian.txt](resource/reactivedrop_italian.txt) has 32 untranslated strings.
 
 </details>
 
