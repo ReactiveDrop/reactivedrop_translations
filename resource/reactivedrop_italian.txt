@@ -1127,7 +1127,7 @@
 "[english]asw_pull_lever"		"Pull Lever"
 "asw_turn_valve"		"Gira la Valvola"
 "[english]asw_turn_valve"		"Turn Valve"
-"asw_access_terminal"		"Terminale di Accesso"
+"asw_access_terminal"		"Accedi al Terminale"
 "[english]asw_access_terminal"		"Access Terminal"
 "asw_use_terminal"		"Usa il Terminale"
 "[english]asw_use_terminal"		"Use Terminal"
