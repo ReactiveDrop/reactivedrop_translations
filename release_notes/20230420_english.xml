@@ -58,6 +58,7 @@ Here are some highlights from updates since the previous anniversary:
 [list]
 [*][b]ML30 Laser Trip Mine:[/b] Improved network prediction for throwing animation.
 [*][b]M868 Flamer Unit:[/b] Fixed fuel tanks only granting half a reload worth of ammo.
+[*][b]Chainsaw:[/b] Bots now use this weapon from a more reasonable range.
 [*][b]TG-05 Gas Grenades:[/b] Updated the item's appearance to help differentiate it from other types of grenades.
 [*]Fixed the scanning animation for sentries desynchronizing from the gun's idle angle.
 [*]Fixed inconsistencies in collision-checking code, most notably related to bot marines and projectiles.
@@ -73,6 +74,7 @@ Here are some highlights from updates since the previous anniversary:
 [*]Fixed marines being unselected in the lobby when restarting a bonus mission that was started via a vote.
 [*]The chat panel can now be opened in singleplayer (for use in custom challenges).
 [*]Improved bots in Deathmatch maps. They should get stuck less, turn at more reasonable times, and will now automatically join if you start a Deathmatch map in singleplayer.
+[*]Fixed the game instructor giving incorrect information about how to respawn in Deathmatch mode, and tidied up the prompts on the HUD.
 [/list]
 
 [h2]Mapping[/h2]
@@ -100,6 +102,7 @@ Here are some highlights from updates since the previous anniversary:
 [*]TileGen now flattens instances before sending the map to VBSP, allowing TileGen room sets to be distributed in VPKs or on the workshop. This also means rd_tilegen_instance can be used within instances.
 [*]TileGen maps now use toolsskybox for a level seal, allowing the use of light_environment and light_directional.
 [*]asw_vehicle_jeep is now functional. Available vehicles without add-ons are the dune buggy from Half-Life 2 (models/buggy.mdl, scripts/vehicles/jeep_test.txt) which allows one driver, and the muscle car from Half-Life 2: Episode Two (models/vehicle.mdl, scripts/vehicles/jalopy.txt) which allows one driver and one passenger.
+[*]trigger_asw_button_area now has options for overriding UI hints with custom text.
 [/list]
 
 [h2]VScript[/h2]
