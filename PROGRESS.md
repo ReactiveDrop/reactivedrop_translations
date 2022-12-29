@@ -8,17 +8,17 @@
 | [Dutch](#non-curated-languages) | 49 | 1993 | 10 | 2143 | 191 | 444 | 125 | 144 |
 | [Finnish](#non-curated-languages) | 49 | 1993 | 10 | 2143 | 191 | 444 | 125 | 144 |
 | [French](#french-français) | 25 | 118 | 10 | 1495 | 191 | 378 | 125 | 123 |
-| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | 27 | ✔️ | ✔️ | ✔️ | ✔️ |
+| [German](#german-deutsch) | ✔️ | 1 | ✔️ | 27 | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Hungarian](#non-curated-languages) | 49 | 118 | 10 | 2143 | 191 | 709 | 125 | 145 |
-| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | 27 | ✔️ | ✔️ | ✔️ | ✔️ |
-| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | 49 | 12 | 44 | ✔️ | 2 |
+| [Italian](#italian-italiano) | ✔️ | 1 | ✔️ | 27 | ✔️ | ✔️ | ✔️ | ✔️ |
+| [Japanese](#japanese-日本語) | ✔️ | 1 | ✔️ | 49 | 12 | 44 | ✔️ | 2 |
 | [Korean](#koreana-한국어) | 47 | 55 | 6 | 1005 | 43 | 272 | 125 | 49 |
 | [Norwegian Bokmål](#non-curated-languages) | 67 | 693 | 15 | 2863 | 191 | 444 | 125 | 145 |
 | [Polish](#polish-polski) | 26 | 1993 | 10 | 2143 | 191 | 444 | 125 | 145 |
 | [European Portuguese](#portuguese-português-europeu) | 1 | 160 | 1 | 1446 | 18 | 390 | 98 | 138 |
 | [Brazilian Portuguese](#brazilian-português) | 14 | 1993 | 2 | 386 | 7 | 396 | 2 | 17 |
 | [Romanian](#non-curated-languages) | 49 | 1985 | 16 | 2868 | 191 | 709 | 125 | 145 |
-| [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | 27 | ✔️ | ✔️ | ✔️ | 1 |
+| [Russian](#russian-русский) | ✔️ | 1 | ✔️ | 27 | ✔️ | ✔️ | ✔️ | 1 |
 | [European Spanish](#spanish-español-de-españa) | 26 | 1993 | 8 | 1546 | 191 | 448 | 125 | 144 |
 | [Swedish](#non-curated-languages) | 49 | 1993 | 10 | 2143 | 191 | 444 | 125 | 145 |
 | [Thai](#non-curated-languages) | 964 | 1982 | 18 | 3419 | 191 | 473 | 125 | 145 |
@@ -463,6 +463,7 @@
 
 ### Strings
 
+- [closecaption_german.txt](resource/closecaption_german.txt) has 1 untranslated strings.
 - [reactivedrop_german.txt](resource/reactivedrop_german.txt) has 27 untranslated strings.
 
 </details>
@@ -475,6 +476,7 @@
 
 ### Strings
 
+- [closecaption_italian.txt](resource/closecaption_italian.txt) has 1 untranslated strings.
 - [reactivedrop_italian.txt](resource/reactivedrop_italian.txt) has 27 untranslated strings.
 
 </details>
@@ -489,6 +491,7 @@
 
 - [statsweb_japanese.vdf](community/stats_website/statsweb_japanese.vdf) has 12 untranslated strings.
 - [vgui_japanese.txt](platform/vgui_japanese.txt) has 37 untranslated strings.
+- [closecaption_japanese.txt](resource/closecaption_japanese.txt) has 1 untranslated strings.
 - [reactivedrop_japanese.txt](resource/reactivedrop_japanese.txt) has 49 untranslated strings.
 - [valve_japanese.txt](resource/valve_japanese.txt) has 7 untranslated strings.
 
@@ -1077,6 +1080,7 @@
 
 ### Strings
 
+- [closecaption_russian.txt](resource/closecaption_russian.txt) has 1 untranslated strings.
 - [reactivedrop_russian.txt](resource/reactivedrop_russian.txt) has 27 untranslated strings.
 
 ### Upcoming Release Notes
