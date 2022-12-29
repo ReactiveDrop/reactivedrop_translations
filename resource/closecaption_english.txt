@@ -4878,7 +4878,7 @@
 "asw_song.Stinger"	"<sfx><I>[Horde incoming!]"
 "Spawner.Horde"	"<sfx><I>[Horde incoming!]"
 "ASW_Weapon.LowAmmoClick"	"<sfx><I><norepeat:15>[Gun low on ammo]"
-"ASW_Weapon.Empty"	"<sfx><I>[Gun has no ammo]"
+"ASW_Weapon.Empty"	"<sfx><I>[Gun clicks]"
 "ASW_Sentry.AmmoWarning"	"<sfx><I><norepeat:15>[Sentry low on ammo]"
 "ASW_Sentry.OutOfAmmo"	"<sfx><I>[Sentry has no ammo]"
 "ASW_Weapon.BatteryCharged"	"<sfx><I>[Battery recharges]"
