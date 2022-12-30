@@ -6786,7 +6786,7 @@
 "[english]rd_mission_title_rd-bonus_mission1"		"Space Port Catastrophe"
 "rd_mission_loc_rd-bonus_mission1"		"Raumhafen-Katastrophe"
 "[english]rd_mission_loc_rd-bonus_mission1"		"Space Port Catastrophe"
-"rd_mission_desc_rd-bonus_mission1"		"Untersucht die Raumhafenkatastrophe."
+"rd_mission_desc_rd-bonus_mission1"		"Untersucht die Raumhafen-Katastrophe."
 "[english]rd_mission_desc_rd-bonus_mission1"		"Investigate the Space Port Catastrophe."
 "rd_mission_brief_rd-bonus_mission1"		""
 "[english]rd_mission_brief_rd-bonus_mission1"		""
