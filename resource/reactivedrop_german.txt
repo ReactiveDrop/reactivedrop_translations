@@ -6645,9 +6645,9 @@
 "[english]rd_campaign_desc_rd_accident32"		"Your crew is set out to investigate the accident and defuse the chemical bomb which is the Muon Gem before its too late."
 "rd_campaign_name_rd_adanaxis"		"Adanaxis"
 "[english]rd_campaign_name_rd_adanaxis"		"Adanaxis"
-		"rd_campaign_desc_rd_adanxis"		""
-		// TODO
-		"[english]rd_campaign_desc_rd_adanxis"		""
+"rd_campaign_desc_rd_adanxis"		""
+// TODO
+"[english]rd_campaign_desc_rd_adanxis"		""
 "rd_campaign_name_rd_biogen_corporation"		"BioGen Gesellschaft"
 "[english]rd_campaign_name_rd_biogen_corporation"		"BioGen Corporation"
 "rd_campaign_desc_rd_biogen_corporation"		"Stoppt die Schwarminvasion auf der Neuen Erde."
@@ -6930,100 +6930,100 @@
 "[english]rd_mission_title_rd-acc_complex"		"AMBER Complex"
 "rd_mission_desc_rd-acc_complex"		"Navigiert durch den AMBER-Komplex."
 "[english]rd_mission_desc_rd-acc_complex"		"Navigate through the AMBER Complex."
-		"rd_entrymission_title_rd_adanaxis"		""
-		// TODO
-		"[english]rd_entrymission_title_rd_adanaxis"		""
-		"rd_entrymission_brief_rd_adanaxis"		""
-		// TODO
-		"[english]rd_entrymission_brief_rd_adanaxis"		""
-		"rd_mission_loc_rd-ada_sector_a9"		""
-		// TODO
-		"[english]rd_mission_loc_rd-ada_sector_a9"		""
-		"rd_mission_brief_rd-ada_sector_a9"		""
-		// TODO
-		"[english]rd_mission_brief_rd-ada_sector_a9"		""
+"rd_entrymission_title_rd_adanaxis"		""
+// TODO
+"[english]rd_entrymission_title_rd_adanaxis"		""
+"rd_entrymission_brief_rd_adanaxis"		""
+// TODO
+"[english]rd_entrymission_brief_rd_adanaxis"		""
+"rd_mission_loc_rd-ada_sector_a9"		""
+// TODO
+"[english]rd_mission_loc_rd-ada_sector_a9"		""
+"rd_mission_brief_rd-ada_sector_a9"		""
+// TODO
+"[english]rd_mission_brief_rd-ada_sector_a9"		""
 "rd_mission_title_rd-ada_sector_a9"		"Sektor A9"
 "[english]rd_mission_title_rd-ada_sector_a9"		"Sector A9"
-		"rd_mission_desc_rd-ada_sector_a9"		""
-		// TODO
-		"[english]rd_mission_desc_rd-ada_sector_a9"		""
-		"rd_mission_loc_rd-ada_nexus_subnode"		""
-		// TODO
-		"[english]rd_mission_loc_rd-ada_nexus_subnode"		""
-		"rd_mission_brief_rd-ada_nexus_subnode"		""
-		// TODO
-		"[english]rd_mission_brief_rd-ada_nexus_subnode"		""
+"rd_mission_desc_rd-ada_sector_a9"		""
+// TODO
+"[english]rd_mission_desc_rd-ada_sector_a9"		""
+"rd_mission_loc_rd-ada_nexus_subnode"		""
+// TODO
+"[english]rd_mission_loc_rd-ada_nexus_subnode"		""
+"rd_mission_brief_rd-ada_nexus_subnode"		""
+// TODO
+"[english]rd_mission_brief_rd-ada_nexus_subnode"		""
 "rd_mission_title_rd-ada_nexus_subnode"		"Nexus SubNode"
 "[english]rd_mission_title_rd-ada_nexus_subnode"		"Nexus SubNode"
-		"rd_mission_desc_rd-ada_nexus_subnode"		""
-		// TODO
-		"[english]rd_mission_desc_rd-ada_nexus_subnode"		""
-		"rd_mission_loc_rd-ada_neon_carnage"		""
-		// TODO
-		"[english]rd_mission_loc_rd-ada_neon_carnage"		""
-		"rd_mission_brief_rd-ada_neon_carnage"		""
-		// TODO
-		"[english]rd_mission_brief_rd-ada_neon_carnage"		""
+"rd_mission_desc_rd-ada_nexus_subnode"		""
+// TODO
+"[english]rd_mission_desc_rd-ada_nexus_subnode"		""
+"rd_mission_loc_rd-ada_neon_carnage"		""
+// TODO
+"[english]rd_mission_loc_rd-ada_neon_carnage"		""
+"rd_mission_brief_rd-ada_neon_carnage"		""
+// TODO
+"[english]rd_mission_brief_rd-ada_neon_carnage"		""
 "rd_mission_title_rd-ada_neon_carnage"		"Neon-Gemetzel"
 "[english]rd_mission_title_rd-ada_neon_carnage"		"Neon Carnage"
-		"rd_mission_desc_rd-ada_neon_carnage"		""
-		// TODO
-		"[english]rd_mission_desc_rd-ada_neon_carnage"		""
-		"rd_mission_loc_rd-ada_fuel_junction"		""
-		// TODO
-		"[english]rd_mission_loc_rd-ada_fuel_junction"		""
-		"rd_mission_brief_rd-ada_fuel_junction"		""
-		// TODO
-		"[english]rd_mission_brief_rd-ada_fuel_junction"		""
+"rd_mission_desc_rd-ada_neon_carnage"		""
+// TODO
+"[english]rd_mission_desc_rd-ada_neon_carnage"		""
+"rd_mission_loc_rd-ada_fuel_junction"		""
+// TODO
+"[english]rd_mission_loc_rd-ada_fuel_junction"		""
+"rd_mission_brief_rd-ada_fuel_junction"		""
+// TODO
+"[english]rd_mission_brief_rd-ada_fuel_junction"		""
 "rd_mission_title_rd-ada_fuel_junction"		"Kraftstoffanschluss"
 "[english]rd_mission_title_rd-ada_fuel_junction"		"Fuel Junction"
-		"rd_mission_desc_rd-ada_fuel_junction"		""
-		// TODO
-		"[english]rd_mission_desc_rd-ada_fuel_junction"		""
-		"rd_mission_loc_rd-ada_dark_path"		""
-		// TODO
-		"[english]rd_mission_loc_rd-ada_dark_path"		""
-		"rd_mission_brief_rd-ada_dark_path"		""
-		// TODO
-		"[english]rd_mission_brief_rd-ada_dark_path"		""
+"rd_mission_desc_rd-ada_fuel_junction"		""
+// TODO
+"[english]rd_mission_desc_rd-ada_fuel_junction"		""
+"rd_mission_loc_rd-ada_dark_path"		""
+// TODO
+"[english]rd_mission_loc_rd-ada_dark_path"		""
+"rd_mission_brief_rd-ada_dark_path"		""
+// TODO
+"[english]rd_mission_brief_rd-ada_dark_path"		""
 "rd_mission_title_rd-ada_dark_path"		"Dunkler Pfad"
 "[english]rd_mission_title_rd-ada_dark_path"		"Dark Path"
-		"rd_mission_desc_rd-ada_dark_path"		""
-		// TODO
-		"[english]rd_mission_desc_rd-ada_dark_path"		""
-		"rd_mission_loc_rd-ada_forbidden_outpost"		""
-		// TODO
-		"[english]rd_mission_loc_rd-ada_forbidden_outpost"		""
-		"rd_mission_brief_rd-ada_forbidden_outpost"		""
-		// TODO
-		"[english]rd_mission_brief_rd-ada_forbidden_outpost"		""
+"rd_mission_desc_rd-ada_dark_path"		""
+// TODO
+"[english]rd_mission_desc_rd-ada_dark_path"		""
+"rd_mission_loc_rd-ada_forbidden_outpost"		""
+// TODO
+"[english]rd_mission_loc_rd-ada_forbidden_outpost"		""
+"rd_mission_brief_rd-ada_forbidden_outpost"		""
+// TODO
+"[english]rd_mission_brief_rd-ada_forbidden_outpost"		""
 "rd_mission_title_rd-ada_forbidden_outpost"		"Verbotener Außenposten"
 "[english]rd_mission_title_rd-ada_forbidden_outpost"		"Forbidden Outpost"
-		"rd_mission_desc_rd-ada_forbidden_outpost"		""
-		// TODO
-		"[english]rd_mission_desc_rd-ada_forbidden_outpost"		""
-		"rd_mission_loc_rd-ada_new_beginning"		""
-		// TODO
-		"[english]rd_mission_loc_rd-ada_new_beginning"		""
-		"rd_mission_brief_rd-ada_new_beginning"		""
-		// TODO
-		"[english]rd_mission_brief_rd-ada_new_beginning"		""
+"rd_mission_desc_rd-ada_forbidden_outpost"		""
+// TODO
+"[english]rd_mission_desc_rd-ada_forbidden_outpost"		""
+"rd_mission_loc_rd-ada_new_beginning"		""
+// TODO
+"[english]rd_mission_loc_rd-ada_new_beginning"		""
+"rd_mission_brief_rd-ada_new_beginning"		""
+// TODO
+"[english]rd_mission_brief_rd-ada_new_beginning"		""
 "rd_mission_title_rd-ada_new_beginning"		"Neubeginn"
 "[english]rd_mission_title_rd-ada_new_beginning"		"New Beginning"
-		"rd_mission_desc_rd-ada_new_beginning"		""
-		// TODO
-		"[english]rd_mission_desc_rd-ada_new_beginning"		""
-		"rd_mission_loc_rd-ada_anomaly"		""
-		// TODO
-		"[english]rd_mission_loc_rd-ada_anomaly"		""
-		"rd_mission_brief_rd-ada_anomaly"		""
-		// TODO
-		"[english]rd_mission_brief_rd-ada_anomaly"		""
+"rd_mission_desc_rd-ada_new_beginning"		""
+// TODO
+"[english]rd_mission_desc_rd-ada_new_beginning"		""
+"rd_mission_loc_rd-ada_anomaly"		""
+// TODO
+"[english]rd_mission_loc_rd-ada_anomaly"		""
+"rd_mission_brief_rd-ada_anomaly"		""
+// TODO
+"[english]rd_mission_brief_rd-ada_anomaly"		""
 "rd_mission_title_rd-ada_anomaly"		"Anomalie"
 "[english]rd_mission_title_rd-ada_anomaly"		"Anomaly"
-		"rd_mission_desc_rd-ada_anomaly"		""
-		// TODO
-		"[english]rd_mission_desc_rd-ada_anomaly"		""
+"rd_mission_desc_rd-ada_anomaly"		""
+// TODO
+"[english]rd_mission_desc_rd-ada_anomaly"		""
 "rd_entrymission_title_rd_biogen_corporation"		"Eingangshafen"
 "[english]rd_entrymission_title_rd_biogen_corporation"		"Entry Port"
 "rd_entrymission_brief_rd_biogen_corporation"		"Dropship Bloodhound wird an diesen Koordinaten in die Atmosphäre eintreten und sich zum Primärziel begeben."
