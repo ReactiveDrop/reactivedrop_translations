@@ -58,7 +58,7 @@ TODO
 [list]
 [*][b]ML30 レーザー検知地雷:[/b] 投げるアニメーション用にネットワーク予測を改善した。
 [*][b]M868 フレイマーユニット:[/b] 燃料タンクを拾ってもリロード1回の半分相当しか弾薬が得られなかったのを修正。
-		[*][b]Chainsaw:[/b] Bots now use this weapon from a more reasonable range.
+[*][b]チェーンソー:[/b] BOTがこの武器をより適切な射程で使うようになった。
 [*][b]TG-05 ガスグレネード:[/b] 他のグレネード類と見分け易くなるようにアイテムの見た目を更新。
 [*]セントリーガンがスキャンするアニメーションが停止時の角度と同期されていなかったのを修正。
 [*]衝突判定のコードに矛盾があったのを修正。BOTと投射物に関して特に顕著だった。
@@ -74,7 +74,7 @@ TODO
 [*]投票によりボーナスミッションをやり直した時にロビーで隊員が未選択になっていたのを修正。
 [*]チャット画面がシングルプレイヤーでも開けるようになった(カスタムチャレンジ用)。
 [*]デスマッチマップでのBOTを改善。ハマりにくくなり、旋回速度が適切になり、シングルプレイヤーでデスマッチマップを開始した場合に自動的に参加するようになった。
-		[*]Fixed the game instructor giving incorrect information about how to respawn in Deathmatch mode, and tidied up the prompts on the HUD.
+[*]デスマッチモードにてゲームインストラクターがリスポーンの方法について正しくない情報を出していたのを修正し、HUD上に出される指示を整理した。
 [/list]
 
 [h2]マップ作成[/h2]
@@ -102,7 +102,7 @@ TODO
 [*]TileGenはVBSPにマップを送る前にインスタンスを均一化ようになり、TileGenの部屋がVPKファイルやワークショップで配布可能になった。これは同時にrd_tilegen_instanceがインスタンス間での使用も可能になったことも意味する。
 [*]TileGenのマップはlevel sealにtoolsskyboxを使用するようになり、light_environmentとlight_directionalが使用可能になった。
 [*]asw_vehicle_jeepが機能するようになった。アドオン無しで使える物はハーフライフ2の一人乗りバギー(models/buggy.mdl, scripts/vehicles/jeep_test.txt)と、ハーフライフ2:エピソード2の運転席と助手席があるマッスルカー(models/vehicle.mdl, scripts/vehicles/jalopy.txt)です。
-		[*]trigger_asw_button_area now has options for overriding UI hints with custom text.
+[*]trigger_asw_button_areaがUIのヒントを設定した文章で上書きするオプションを持つようになった。
 [/list]
 
 [h2]VScript[/h2]
