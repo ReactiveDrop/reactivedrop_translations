@@ -3669,7 +3669,7 @@
 "rd_entrymission_brief_rd_bonus_missions"	""
 "rd_mission_title_rd-bonus_mission1"	"Space Port Catastrophe"
 "rd_mission_loc_rd-bonus_mission1"	"Space Port Catastrophe"
-"rd_mission_desc_rd-bonus_mission1"	"Investigate the Space Port Catastrophe"
+"rd_mission_desc_rd-bonus_mission1"	"Investigate the Space Port Catastrophe."
 "rd_mission_brief_rd-bonus_mission1"	""
 "rd_mission_title_rd-bonus_mission2"	"Rapture"
 "rd_mission_loc_rd-bonus_mission2"	"Rapture"
