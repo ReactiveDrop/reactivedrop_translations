@@ -1,7 +1,7 @@
 # Overview
 | Language | basemodui | closecaption | gameui | reactivedrop | statsweb | Strings | Inventory | Files |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [Simplified Chinese](#schinese-简体中文) | ✔️ | 45 | 1 | 85 | 2 | 19 | 1 | 4 |
+| [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | ✔️ | 85 | 2 | ✔️ | 1 | 2 |
 | [Traditional Chinese](#tchinese-繁體中文) | 7 | 120 | 1 | 2024 | 191 | 58 | 125 | 144 |
 | [Czech](#non-curated-languages) | 69 | 1796 | 10 | 3168 | 191 | 714 | 125 | 144 |
 | [Danish](#non-curated-languages) | 50 | 211 | 10 | 2688 | 191 | 444 | 125 | 145 |
@@ -42,23 +42,15 @@
 ### Strings
 
 - [statsweb_schinese.vdf](community/stats_website/statsweb_schinese.vdf) has 2 untranslated strings.
-- [steam_input_schinese.vdf](community/steam_input/steam_input_schinese.vdf) has 19 untranslated strings.
-- [closecaption_schinese.txt](resource/closecaption_schinese.txt) has 45 untranslated strings.
-- [gameui_schinese.txt](resource/gameui_schinese.txt) has 1 untranslated strings.
 - [reactivedrop_schinese.txt](resource/reactivedrop_schinese.txt) has 85 untranslated strings.
 
 ### Steam Store and Community
 
 - [mappingcontest2023_schinese.txt](community/workshop/mappingcontest2023_english.txt) is missing.
-- [workshop_tags_schinese.json](community/workshop/workshop_tags_schinese.json) has 1 indented lines.
 
 ### Upcoming Release Notes
 
 - [20230420_schinese.xml](release_notes/20230420_schinese.xml) has 59 indented lines.
-
-### Credits
-
-- [credits_acc32_official_schinese.txt](credits/credits_acc32_official_schinese.txt) has 1 indented lines.
 
 ### Inventory Schema</summary>
 
