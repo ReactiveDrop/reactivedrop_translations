@@ -3965,7 +3965,7 @@
 "swarm.gameeffects.swarmalarm"		"<sfx><I><norepeat:15>[警告！]"
 "[english]swarm.gameeffects.swarmalarm"		"<sfx><I><norepeat:15>[Alarm!]"
 "ambient.alarms.klaxon1_nopitch"		"<sfx><I><norepeat:15>[警告！]"
-"[english]ambient.alarms.klaxon1_nopitch"		"<sfx><I><norepeat:15>[警告！]"
+"[english]ambient.alarms.klaxon1_nopitch"		"<sfx><I><norepeat:15>[Alarm!]"
 "ambient.alarms.door_alarm"		"<sfx><I><norepeat:15>[警告！]"
 "[english]ambient.alarms.door_alarm"		"<sfx><I><norepeat:15>[Alarm!]"
 "ASWGoo.GooScream"		"<sfx><I><norepeat:15>[生物质体尖叫！]"
