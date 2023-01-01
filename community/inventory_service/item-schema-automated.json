@@ -375,6 +375,7 @@
 			"description_italian": "Medaglia conferita a coloro che terminano una stagione di Eroi delle Forze Armate Interstellari nella top 20.",
 			"description_japanese": "Interstellar Armed Forcesの英雄たちのいずれかのシーズンを上位20位以内で完了した者に与えられる勲章。",
 			"description_russian": "Медаль, выдаваемая тем, кто завершил сезон игры «Героев межзвёздных вооружённых сил» одним из лучших 20 участников.",
+			"description_schinese": "勋章授予给完成“星际武装部队的英雄”季赛前20名的选手。",
 			"after_description_brazilian": "Alienígenas Eliminados: %alien_kills%\nEliminações em Equipe: %player_kills%\nMissões Bem-Sucedidas: %games_won%\nMissões Falhadas: %games_lost%",
 			"after_description_english": "Aliens Killed: %alien_kills%\nTeam Kills: %player_kills%\nSuccessful Missions: %games_won%\nFailed Missions: %games_lost%",
 			"after_description_german": "Getötete Aliens: %alien_kills%\nTeam Kills: %player_kills%\nErfolgreiche Einsätze: %games_won%\nFehlgeschlagene Einsätze: %games_lost%\n",
