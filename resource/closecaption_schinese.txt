@@ -3808,10 +3808,10 @@
 "[english]DM.four_frags_left"		"<clr:238,0,0>ANNOUNCER: Four frags left."
 "DM.five_frags_left"		"<clr:238,0,0>播音员：五个碎片。"
 "[english]DM.five_frags_left"		"<clr:238,0,0>ANNOUNCER: Five frags left."
-"DM.instagib_activated"		"<clr:238,0,0>播音员：InstaGib模式激活。"
+"DM.instagib_activated"		"<clr:238,0,0>播音员：中路对狙模式激活。"
 // these don't have "mode activated" in the actual audio, but we're putting it in the caption for clarity.
 "[english]DM.instagib_activated"		"<clr:238,0,0>ANNOUNCER: InstaGib mode activated."
-"DM.gungame_activated"		"<clr:238,0,0>播音员：启动枪支游戏模式。"
+"DM.gungame_activated"		"<clr:238,0,0>播音员：启动枪械游戏模式。"
 "[english]DM.gungame_activated"		"<clr:238,0,0>ANNOUNCER: Gun Game mode activated."
 "DM.double_kill"		"<clr:238,0,0>播音员：双杀！"
 "[english]DM.double_kill"		"<clr:238,0,0>ANNOUNCER: Double kill!"
