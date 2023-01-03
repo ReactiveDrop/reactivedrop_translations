@@ -18,7 +18,7 @@
 | [European Portuguese](#portuguese-português-europeu) | 1 | 160 | 1 | 1424 | 18 | 390 | 98 | 138 |
 | [Brazilian Portuguese](#brazilian-português) | 14 | 1993 | 2 | 362 | 7 | 396 | 2 | 17 |
 | [Romanian](#non-curated-languages) | 49 | 1985 | 16 | 2844 | 191 | 709 | 125 | 145 |
-| [Russian](#russian-русский) | ✔️ | 1 | ✔️ | 6 | ✔️ | ✔️ | ✔️ | 1 |
+| [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 1 |
 | [European Spanish](#spanish-español-de-españa) | 26 | 1993 | 8 | 1522 | 191 | 448 | 125 | 144 |
 | [Swedish](#non-curated-languages) | 49 | 1993 | 10 | 2119 | 191 | 444 | 125 | 145 |
 | [Thai](#non-curated-languages) | 964 | 1982 | 18 | 3395 | 191 | 473 | 125 | 145 |
@@ -1044,11 +1044,6 @@
 ## russian (русский)
 
 </summary>
-
-### Strings
-
-- [closecaption_russian.txt](resource/closecaption_russian.txt) has 1 untranslated strings.
-- [reactivedrop_russian.txt](resource/reactivedrop_russian.txt) has 6 untranslated strings.
 
 ### Upcoming Release Notes
 
