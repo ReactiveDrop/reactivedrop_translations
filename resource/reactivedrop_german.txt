@@ -4971,9 +4971,8 @@
 "[english]rd_so_tips_ranger"		"IAF Fact Sheet:\n• The ranger's acidic weapon travels at a constant height. Dodge roll out of the way for a clean escape.\n• Rangers lack a melee attack. The only risk in getting close to a ranger is a point-blank acid orb.\n• Rangers cannot turn while firing. Use this opportunity to flank or get into melee range."
 "rd_so_tips_shieldbug"		"IAF Datenblatt:\n• Die großen Knochenplatten auf der Vorderseite eines Schildkäfers sind völlig unverwundbar. Greife von der Seite oder durch Lücken an, um Schaden anzurichten.\n• Schildkäfer haben zwei Haltungen. Die \"offensive\" Haltung bewegt und dreht sich schneller, verringert aber die Deckung durch die Knochenplatten. Die \"defensive\" Haltung bewegt und dreht sich langsamer, hat dafür aber ihre Schilde oben.\n• Schildkäfer wechseln oft in die defensive Haltung, wenn sie verletzt sind. Es ist oft am besten, einen Schildkäfer zu beschießen, bevor du versuchst, ihn zu flankieren, um seine reduzierte Bewegungsgeschwindigkeit auszunutzen."
 "[english]rd_so_tips_shieldbug"		"IAF Fact Sheet:\n• The large bone plates on the front of a shieldbug are completely invulnerable. Attack from the side or through gaps to do damage.\n• Shieldbugs have two stances. The \"offensive\" stance moves and turns faster, but reduces coverage from the bone plates. The \"defensive\" stance moves and turns slower in exchange for having its shields up.\n• Shieldbugs often switch to defensive stance when injured. It's often best to shoot one before attempting to flank to take advantage of its reduced movement speeds."
-"rd_so_tips_boomer"		""
-// TODO
-"[english]rd_so_tips_boomer"		""
+		"rd_so_tips_boomer"		"IAF Fact Sheet:\n• Boomers explode when provoked. If you see one inflating, it's wise to avoid the glowing blobs after they burst.\n• Boomers are mainly dangerous because they burst, but they may attempt to kick you if you get too close.\n• Boomers are known to emerge from under walls or roll across the floor to menace marines."
+		"[english]rd_so_tips_boomer"		"IAF Fact Sheet:\n• Boomers explode when provoked. If you see one inflating, it's wise to avoid the glowing blobs after they burst.\n• Boomers are mainly dangerous because they burst, but they may attempt to kick you if you get too close.\n• Boomers are known to emerge from under walls or roll across the floor to menace marines."
 "rd_so_tips_buzzer"		""
 // TODO
 "[english]rd_so_tips_buzzer"		""
@@ -5041,21 +5040,16 @@
 "[english]rd_so_paragraph_shieldbug_3"		"05/05/43, 09:55\nThe IAF is onto me. I can't prove it, but I swear the chain of command is freezing me out. Nobody wants to eat with me. I have to scan my badge a few times before the doors open. Every time I log in to the network, I worry it's not going to work this time. I've always been able to hear the footsteps echoing in the hall outside. I don't have the luxury of tuning them out any more. They get louder all the time. One day, they'll stop outside and haul me off.\n\nI'm being paranoid, I know. They'll do it while I'm asleep. Less struggle that way. I've signed and sealed my devil's bargain. All that's left to do is wait and see if she delivers. They warned me the devil will be attractive, and that's helping more than I'd like to admit right now. T-minus 12 hours. Time to get everything as ready as I can without broadcasting my intentions. I know they're watching the cameras."
 "rd_so_paragraph_shieldbug_4"		"05/05/43, 22:20\nEs hat funktioniert. Ich stehe immer noch unter Schock, aber es hat funktioniert. Ich kann die Erleichterung bereits spüren. Der Stress, von dem ich nicht wusste, dass ich ihn hatte, beginnt zu schmelzen. Wenn das nicht Teil eines extrem langen Schwindels der IAF ist, um mich zu bestrafen, bin ich frei. Die Art von Mensch, die in den Reihen der Interstellaren Streitkräfte aufsteigt, ist sinnlos grausam, umwerfend engstirnig und von Grund auf wütend. Das sind unbestreitbar schreckliche Eigenschaften für einen Chef, aber sie sind zumindest vorhersehbar. Das ist nicht die Art von Menschen, die eine Flucht vortäuschen und einen Kaffeebecher drucken, um jemandem eine Lektion zu erteilen.\n\nSo, hier bin ich also. Frei von zu Hause. Ich habe meine Notizen, ich habe meine Tasse und ich habe jemanden, dem ich vertrauen kann. Übrigens hat sie die Wahrheit über ihre Haare gesagt. Willkommen im Büro für Konsenspflege, Julie."
 "[english]rd_so_paragraph_shieldbug_4"		"05/05/43, 22:20\nIt worked. I'm still in shock, but it worked. I can feel the relief already. Stress I didn't know I had is starting to melt off. Unless this is part of some extremely long con by the IAF to punish me, I'm free. The kind of person who rises through the ranks of the Interstellar Armed Forces is pointlessly cruel, staggeringly narrow-minded, and fundamentally angry. These are undeniably terrible traits to have in a boss, but they are, at least, predictable. They are not the kind of people who stage a phony escape and print up a coffee mug to teach someone a lesson.\n\nSo, here I am. Home free. I have my notes, I have my mug, and I have someone I can trust. She was telling the truth about her hair, by the way. Welcome to the Office of Consensus Maintenance, Julie."
-"rd_so_paragraph_boomer_0"		""
-// TODO
-"[english]rd_so_paragraph_boomer_0"		""
-"rd_so_paragraph_boomer_1"		""
-// TODO
-"[english]rd_so_paragraph_boomer_1"		""
-"rd_so_paragraph_boomer_2"		""
-// TODO
-"[english]rd_so_paragraph_boomer_2"		""
-"rd_so_paragraph_boomer_3"		""
-// TODO
-"[english]rd_so_paragraph_boomer_3"		""
-"rd_so_paragraph_boomer_4"		""
-// TODO
-"[english]rd_so_paragraph_boomer_4"		""
+		"rd_so_paragraph_boomer_0"		"Okay. BOOMERs. Specimen 2'15'15'13'5'18. Where do I even start? Terrifying things. They're all terrifying, but I have to start somewhere. If you're reading this, I hope you can help or know someone who does. People have been killed for trying to blow this whistle. I know I'm not special. I just can't keep quiet about it any more. I've done everything I can to stop these horrible experiments from within and all it's going to get me is a bullet in the head. I don't even have a good idea what they're doing, but I know they really don't like questions about it. I know they're making these alien murder machines and setting them loose on an unsuspecting galaxy. I know they're going to do everything they can to stop this information getting out."
+		"[english]rd_so_paragraph_boomer_0"		"Okay. BOOMERs. Specimen 2'15'15'13'5'18. Where do I even start? Terrifying things. They're all terrifying, but I have to start somewhere. If you're reading this, I hope you can help or know someone who does. People have been killed for trying to blow this whistle. I know I'm not special. I just can't keep quiet about it any more. I've done everything I can to stop these horrible experiments from within and all it's going to get me is a bullet in the head. I don't even have a good idea what they're doing, but I know they really don't like questions about it. I know they're making these alien murder machines and setting them loose on an unsuspecting galaxy. I know they're going to do everything they can to stop this information getting out."
+		"rd_so_paragraph_boomer_1"		"This, unfortunately, means that they might go after you. Whoever you are, we have to stop them. They can't kill all of us. The aliens can and will kill all of us. I've seen what these specimens can do. Just one of them can explode and fill a whole room with these horrible yellow blobs. There's security camera footage of one of them destroying an entire room. I saw the the furniture just instantly reduced to splinters and shrapnel. I watched people I knew- friends and coworkers- turned into fine red mist. All that's left of them are the stains on the wall. These horrible, wretched things have to be eradicated. The scar they leave on the galaxy is only going to get wider and deeper unless we treat it. It's up to us to stem the bleeding and help it heal."
+		"[english]rd_so_paragraph_boomer_1"		"This, unfortunately, means that they might go after you. Whoever you are, we have to stop them. They can't kill all of us. The aliens can and will kill all of us. I've seen what these specimens can do. Just one of them can explode and fill a whole room with these horrible yellow blobs. There's security camera footage of one of them destroying an entire room. I saw the the furniture just instantly reduced to splinters and shrapnel. I watched people I knew- friends and coworkers- turned into fine red mist. All that's left of them are the stains on the wall. These horrible, wretched things have to be eradicated. The scar they leave on the galaxy is only going to get wider and deeper unless we treat it. It's up to us to stem the bleeding and help it heal."
+		"rd_so_paragraph_boomer_2"		"Whoever you are, I'm sorry you've been dragged into this. If it were up to me, all the data would have been burned ages ago. We'd have shot these damn things into the sun and forgotten about it. Vaporize the site from orbit if necessary. But it's too late for that now. Blood, sweat, and tears have already been spent trying to beat these horrible things back, and it's going to take a lot more before the galaxy can rest easy. The real monsters at AMBER are the executives and managers that let it get this far. The real boomers we should have killed are the wretched old men who think the galaxy belongs to them. The aliens can really only kill a room full of people at a time and they're nice enough to make it quick. The humans in charge have been slowly squeezing the life out of everyone they can get their hands on. They've been grinding thousands of people, soul-first, into dust for years. I can't believe it took an outbreak of living bombs for me to notice."
+		"[english]rd_so_paragraph_boomer_2"		"Whoever you are, I'm sorry you've been dragged into this. If it were up to me, all the data would have been burned ages ago. We'd have shot these damn things into the sun and forgotten about it. Vaporize the site from orbit if necessary. But it's too late for that now. Blood, sweat, and tears have already been spent trying to beat these horrible things back, and it's going to take a lot more before the galaxy can rest easy. The real monsters at AMBER are the executives and managers that let it get this far. The real boomers we should have killed are the wretched old men who think the galaxy belongs to them. The aliens can really only kill a room full of people at a time and they're nice enough to make it quick. The humans in charge have been slowly squeezing the life out of everyone they can get their hands on. They've been grinding thousands of people, soul-first, into dust for years. I can't believe it took an outbreak of living bombs for me to notice."
+		"rd_so_paragraph_boomer_3"		"If there was any justice in this universe beyond what we make ourselves, their own murderous creations would have killed them already. The first alien creature they weaponized should have nestled right into their laps and ended it all in a shower of disgusting organic explosions. If someone had the foresight to shove one in the right board room at the right time, we wouldn't be here. I wouldn't have to sit here begging the unfeeling universe for help. Captain Bark. Head Doc. Wanman. Schmitz. I know you're out there. I know you saw my name on this message and you've already signed the order to have me killed. I know I can't stop you, so I'm going to keep doing this until the universe is safe or you put the bullet in my head yourselves."
+		"[english]rd_so_paragraph_boomer_3"		"If there was any justice in this universe beyond what we make ourselves, their own murderous creations would have killed them already. The first alien creature they weaponized should have nestled right into their laps and ended it all in a shower of disgusting organic explosions. If someone had the foresight to shove one in the right board room at the right time, we wouldn't be here. I wouldn't have to sit here begging the unfeeling universe for help. Captain Bark. Head Doc. Wanman. Schmitz. I know you're out there. I know you saw my name on this message and you've already signed the order to have me killed. I know I can't stop you, so I'm going to keep doing this until the universe is safe or you put the bullet in my head yourselves."
+		"rd_so_paragraph_boomer_4"		"I'll be waiting."
+		"[english]rd_so_paragraph_boomer_4"		"I'll be waiting."
 "rd_so_paragraph_buzzer_0"		""
 // TODO
 "[english]rd_so_paragraph_buzzer_0"		""
@@ -6933,9 +6927,6 @@
 "rd_entrymission_title_rd_adanaxis"		""
 // TODO
 "[english]rd_entrymission_title_rd_adanaxis"		""
-"rd_entrymission_brief_rd_adanaxis"		""
-// TODO
-"[english]rd_entrymission_brief_rd_adanaxis"		""
 "rd_mission_loc_rd-ada_sector_a9"		""
 // TODO
 "[english]rd_mission_loc_rd-ada_sector_a9"		""
@@ -7002,23 +6993,11 @@
 "rd_mission_desc_rd-ada_forbidden_outpost"		""
 // TODO
 "[english]rd_mission_desc_rd-ada_forbidden_outpost"		""
-"rd_mission_loc_rd-ada_new_beginning"		""
-// TODO
-"[english]rd_mission_loc_rd-ada_new_beginning"		""
-"rd_mission_brief_rd-ada_new_beginning"		""
-// TODO
-"[english]rd_mission_brief_rd-ada_new_beginning"		""
 "rd_mission_title_rd-ada_new_beginning"		"Neubeginn"
 "[english]rd_mission_title_rd-ada_new_beginning"		"New Beginning"
 "rd_mission_desc_rd-ada_new_beginning"		""
 // TODO
 "[english]rd_mission_desc_rd-ada_new_beginning"		""
-"rd_mission_loc_rd-ada_anomaly"		""
-// TODO
-"[english]rd_mission_loc_rd-ada_anomaly"		""
-"rd_mission_brief_rd-ada_anomaly"		""
-// TODO
-"[english]rd_mission_brief_rd-ada_anomaly"		""
 "rd_mission_title_rd-ada_anomaly"		"Anomalie"
 "[english]rd_mission_title_rd-ada_anomaly"		"Anomaly"
 "rd_mission_desc_rd-ada_anomaly"		""
