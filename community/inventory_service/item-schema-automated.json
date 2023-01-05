@@ -241,7 +241,7 @@
 			"after_description_japanese": "倒したエイリアン: %alien_kills%\n味方殺し: %player_kills%\n成功したミッション: %games_won%\n失敗したミッション: %games_lost%",
 			"after_description_russian": "Жуков убито: %alien_kills%\nСоюзников убито: %player_kills%\nМиссий выполнено: %games_won%\nМиссий провалено: %games_lost%",
 			"after_description_schinese": "击杀异形: %alien_kills%\n击杀队友: %player_kills%\n任务完成: %games_won%\n任务失败: %games_lost%",
-			"display_type_brazilian": "Medalha"
+			"display_type_brazilian": "Medalha",
 			"display_type_english": "Medal",
 			"display_type_german": "Medaille",
 			"display_type_italian": "Medaglia",
@@ -293,7 +293,7 @@
 			"after_description_japanese": "倒したエイリアン: %alien_kills%\n味方殺し: %player_kills%\n成功したミッション: %games_won%\n失敗したミッション: %games_lost%",
 			"after_description_russian": "Жуков убито: %alien_kills%\nСоюзников убито: %player_kills%\nМиссий выполнено: %games_won%\nМиссий провалено: %games_lost%",
 			"after_description_schinese": "击杀异形: %alien_kills%\n击杀队友: %player_kills%\n任务完成: %games_won%\n任务失败: %games_lost%",
-			"display_type_brazilian": "Medalha"
+			"display_type_brazilian": "Medalha",
 			"display_type_english": "Medal",
 			"display_type_german": "Medaille",
 			"display_type_italian": "Medaglia",
