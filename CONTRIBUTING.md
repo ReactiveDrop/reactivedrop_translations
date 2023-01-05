@@ -24,20 +24,20 @@ There are multiple ways to add or edit your translation of the game:
 
 2. When prompted, install the suggested extension.
 
-   ![Recommended Extensions tooltip, suggesting the installation of "Valve KeyValue File Support".](https://i.imgur.com/2YjF5ue.png)
+   ![Recommended Extensions tooltip, suggesting the installation of "Valve KeyValue File Support".](https://user-images.githubusercontent.com/1540885/210736839-3e297a14-59bd-4296-8673-25e3e25b6648.png)
 
 3. Use the File Explorer panel on the left to find a file to translate.
 
-   ![The File Explorer activity sidebar.](https://i.imgur.com/bGqR0js.png)
+   ![The File Explorer activity sidebar.](https://user-images.githubusercontent.com/1540885/210736894-3f82846d-2c7c-4747-bb7d-ecbe0612c8c3.png)
 
 4. Find some untranslated lines – compared to the translated ones, they are **indented with two tabs**!
 
-   ![Two lines to translate, with an orange square emphasising the indentation.](https://i.imgur.com/Dmh3MYi.png)
+   ![Two lines to translate, with an orange square emphasising the indentation.](https://user-images.githubusercontent.com/1540885/210736935-643c5e14-7fca-46b0-8924-c45b734359ad.png)
 
 5. Translate the lines, paying attention to not remove the quotes `"` at the start and at the end of the string.
    Don't edit the lines starting with `[english]`: they're just there to provide some context for the translation!
 
-   ![The previous two lines are now translated into Italian.](https://i.imgur.com/fmD73HV.png)
+   ![The previous two lines are now translated into Italian.](https://user-images.githubusercontent.com/1540885/210737245-7fd57508-908b-47fe-9c14-040e8a8e2ac1.png)
 
 6. Outdent (remove the indentation from) the now-translated lines.  
    If you have many lines, you can select them all and then press <kbd>Shift</kbd> + <kbd>Tab</kbd>!
@@ -46,31 +46,31 @@ There are multiple ways to add or edit your translation of the game:
 
 7. Once you've translated enough lines, open the Source Control panel on the left.
 
-   ![The Source Control activity sidebar.](https://i.imgur.com/6Q0O7DB.png)
+   ![The Source Control activity sidebar.](https://user-images.githubusercontent.com/1540885/210737455-72f3c2b8-200e-44a7-ae93-5e5aa0d4f8e6.png)
 
 8. You will be prompted to enter a message describing your changes; add the name of the language you translated strings to between parenthesis, then describe very briefly what these strings are related to.
    
    For example, a good message might be `(italian) Translate Steam Rich Presence strings`.
 
-   ![The Source Control activity sidebar, now having "(italian) Translate Steam Rich Presence strings" as commit message.](https://i.imgur.com/TMlIhTb.png)
+   ![The Source Control activity sidebar, now having "(italian) Translate Steam Rich Presence strings" as commit message.](https://user-images.githubusercontent.com/1540885/210737513-06935053-f900-4b4d-9ba2-0ca19a67ee4c.png)
 
 9. Create a new **pull request** by pressing <kbd>Ctrl</kbd> + <kbd>Enter</kbd> while the cursor is in the message box.
    
    If it's your first time submitting translations, you might be prompted to *fork* the repository: please do so!
    
-   ![Window prompting to fork the repository, with a orange 9 suggesting to press the "Fork Repository" button.](https://i.imgur.com/P8Vwy3K.png)
+   ![Window prompting to fork the repository, with a orange 9 suggesting to press the "Fork Repository" button.](https://user-images.githubusercontent.com/1540885/210737549-06ebede8-10c9-451d-a5bf-20b916f67b9f.png)
 
    You'll then be prompted to enter the title of the pull request, which will be pre-filled with the message you entered earlier; press <kbd>Enter</kbd> to continue.
 
-   ![Window prompting to enter a pull request title, with "(italian) Translate Steam Rich Presence strings" prefilled.](https://i.imgur.com/MNgRTBU.png)
+   ![Window prompting to enter a pull request title, with "(italian) Translate Steam Rich Presence strings" prefilled.](https://user-images.githubusercontent.com/1540885/210737584-03186854-4697-49ad-b889-be013618b605.png)
 
    You will also be prompted to enter a branch name; leave whatever the editor suggested unchanged, and press <kbd>Enter</kbd> again.
 
-   ![Window prompting to enter a branch name, with "patch-1" prefilled.](https://i.imgur.com/LjubYZn.png)
+   ![Window prompting to enter a branch name, with "patch-1" prefilled.](https://user-images.githubusercontent.com/1540885/210737617-0ec6fc32-e569-44a8-8ec0-2862982cb497.png)
 
 10. Done! Your translation should now appear in the [list of pull requests of the repository](https://github.com/ReactiveDrop/reactivedrop_translations/pulls), and can be approved, edited, or rejected!
 
-    ![List of the open pull requests of the ReactiveDrop repository, displaying 1 open with the title "(italian) Translate Steam Rich Presence strings".](https://i.imgur.com/7XNWLNo.png)
+    ![List of the open pull requests of the ReactiveDrop repository, displaying 1 open with the title "(italian) Translate Steam Rich Presence strings".](https://user-images.githubusercontent.com/1540885/210737654-9525a62b-a4ae-46b9-ae83-12e7b73e5e67.png)
 
 ## Using a repository archive
 
