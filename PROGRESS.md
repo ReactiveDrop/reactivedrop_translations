@@ -16,7 +16,7 @@
 | [Norwegian Bokmål](#non-curated-languages) | 67 | 693 | 15 | 2839 | 191 | 444 | 125 | 153 |
 | [Polish](#polish-polski) | 26 | 1993 | 10 | 2119 | 191 | 444 | 125 | 153 |
 | [European Portuguese](#portuguese-português-europeu) | 1 | 160 | 1 | 1424 | 18 | 390 | 98 | 146 |
-| [Brazilian Portuguese](#brazilian-português) | ✔️ | 1993 | ✔️ | 362 | ✔️ | 370 | ✔️ | ✔️ |
+| [Brazilian Portuguese](#brazilian-português) | ✔️ | 1993 | ✔️ | 362 | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Romanian](#non-curated-languages) | 49 | 1985 | 16 | 2844 | 191 | 709 | 125 | 153 |
 | [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 9 |
 | [European Spanish](#spanish-español-de-españa) | 26 | 1993 | 8 | 1522 | 191 | 448 | 125 | 152 |
@@ -1069,8 +1069,6 @@
 
 ### Strings
 
-- [serverbrowser_brazilian.txt](platform/servers/serverbrowser_brazilian.txt) has 186 untranslated strings.
-- [vgui_brazilian.txt](platform/vgui_brazilian.txt) has 184 untranslated strings.
 - [closecaption_brazilian.txt](resource/closecaption_brazilian.txt) has 1993 untranslated strings.
 - [reactivedrop_brazilian.txt](resource/reactivedrop_brazilian.txt) has 362 untranslated strings.
 
