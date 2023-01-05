@@ -16,7 +16,7 @@
 | [Norwegian Bokmål](#non-curated-languages) | 67 | 693 | 15 | 2839 | 191 | 444 | 125 | 145 |
 | [Polish](#polish-polski) | 26 | 1993 | 10 | 2119 | 191 | 444 | 125 | 145 |
 | [European Portuguese](#portuguese-português-europeu) | 1 | 160 | 1 | 1424 | 18 | 390 | 98 | 138 |
-| [Brazilian Portuguese](#brazilian-português) | 14 | 1993 | 2 | 362 | 7 | 396 | 2 | 17 |
+| [Brazilian Portuguese](#brazilian-português) | ✔️ | 1993 | ✔️ | 362 | ✔️ | 389 | ✔️ | 13 |
 | [Romanian](#non-curated-languages) | 49 | 1985 | 16 | 2844 | 191 | 709 | 125 | 145 |
 | [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | 5 | ✔️ | ✔️ | ✔️ | 1 |
 | [European Spanish](#spanish-español-de-españa) | 26 | 1993 | 8 | 1522 | 191 | 448 | 125 | 144 |
@@ -989,22 +989,11 @@
 
 ### Strings
 
-- [inventory_service_tags_brazilian.vdf](community/inventory_service/inventory_service_tags_brazilian.vdf) has 7 untranslated strings.
-- [statsweb_brazilian.vdf](community/stats_website/statsweb_brazilian.vdf) has 7 untranslated strings.
 - [steam_input_brazilian.vdf](community/steam_input/steam_input_brazilian.vdf) has 19 untranslated strings.
 - [serverbrowser_brazilian.txt](platform/servers/serverbrowser_brazilian.txt) has 186 untranslated strings.
 - [vgui_brazilian.txt](platform/vgui_brazilian.txt) has 184 untranslated strings.
-- [basemodui_brazilian.txt](resource/basemodui_brazilian.txt) has 14 untranslated strings.
 - [closecaption_brazilian.txt](resource/closecaption_brazilian.txt) has 1993 untranslated strings.
-- [gameui_brazilian.txt](resource/gameui_brazilian.txt) has 2 untranslated strings.
 - [reactivedrop_brazilian.txt](resource/reactivedrop_brazilian.txt) has 362 untranslated strings.
-
-### Steam Store and Community
-
-- [mappingcontest2023_brazilian.txt](community/workshop/mappingcontest2023_english.txt) is missing.
-- [workshop_tags_brazilian.json](community/workshop/workshop_tags_brazilian.json) has 1 indented lines.
-- [content_warning_563560_brazilian.txt](store_page/content_warning_563560_english.txt) is missing.
-- [storepage_81731_brazilian.json](store_page/storepage_81731_brazilian.json) has 6 indented lines.
 
 ### Upcoming Release Notes
 
@@ -1027,11 +1016,6 @@
 - [acc_power3_brazilian.txt](resource/mail/acc_power3_english.txt) is missing.
 - [acc_research2_brazilian.txt](resource/mail/acc_research2_english.txt) is missing.
 - [antheonmoonnews_brazilian.txt](resource/news/antheonmoonnews_english.txt) is missing.
-
-### Inventory Schema</summary>
-
-- Item 5 "Elite - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `display_type_brazilian`
-- Item 6 "Elite - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `display_type_brazilian`
 
 </details>
 
