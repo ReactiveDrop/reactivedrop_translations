@@ -11,14 +11,14 @@
 | [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Hungarian](#non-curated-languages) | 49 | 118 | 10 | 2119 | 191 | 709 | 125 | 145 |
 | [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
-| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | 24 | ✔️ | 35 | ✔️ | ✔️ |
+| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | 20 | ✔️ | 35 | ✔️ | ✔️ |
 | [Korean](#koreana-한국어) | 47 | 55 | 6 | 981 | 43 | 272 | 125 | 49 |
 | [Norwegian Bokmål](#non-curated-languages) | 67 | 693 | 15 | 2839 | 191 | 444 | 125 | 145 |
 | [Polish](#polish-polski) | 26 | 1993 | 10 | 2119 | 191 | 444 | 125 | 145 |
 | [European Portuguese](#portuguese-português-europeu) | 1 | 160 | 1 | 1424 | 18 | 390 | 98 | 138 |
 | [Brazilian Portuguese](#brazilian-português) | ✔️ | 1993 | ✔️ | 362 | ✔️ | 389 | ✔️ | 13 |
 | [Romanian](#non-curated-languages) | 49 | 1985 | 16 | 2844 | 191 | 709 | 125 | 145 |
-| [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | 5 | ✔️ | ✔️ | ✔️ | 1 |
+| [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 1 |
 | [European Spanish](#spanish-español-de-españa) | 26 | 1993 | 8 | 1522 | 191 | 448 | 125 | 144 |
 | [Swedish](#non-curated-languages) | 49 | 1993 | 10 | 2119 | 191 | 444 | 125 | 145 |
 | [Thai](#non-curated-languages) | 964 | 1982 | 18 | 3395 | 191 | 473 | 125 | 145 |
@@ -464,7 +464,7 @@
 ### Strings
 
 - [vgui_japanese.txt](platform/vgui_japanese.txt) has 35 untranslated strings.
-- [reactivedrop_japanese.txt](resource/reactivedrop_japanese.txt) has 24 untranslated strings.
+- [reactivedrop_japanese.txt](resource/reactivedrop_japanese.txt) has 20 untranslated strings.
 
 </details>
 
@@ -1024,10 +1024,6 @@
 ## russian (русский)
 
 </summary>
-
-### Strings
-
-- [reactivedrop_russian.txt](resource/reactivedrop_russian.txt) has 5 untranslated strings.
 
 ### Upcoming Release Notes
 
