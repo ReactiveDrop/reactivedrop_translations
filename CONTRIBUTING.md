@@ -42,7 +42,7 @@ There are multiple ways to add or edit your translation of the game:
 6. Outdent (remove the indentation from) the now-translated lines.  
    If you have many lines, you can select them all and then press <kbd>Shift</kbd> + <kbd>Tab</kbd>!
 
-   TODO - use webeditor to add video
+   https://user-images.githubusercontent.com/1540885/210732809-08c0ad52-8416-46ac-9bbe-6a90da8e2533.mp4
 
 7. Once you've translated enough lines, open the Source Control panel on the left.
 
