@@ -8,27 +8,85 @@ As a condition of providing a Contribution, you agree that:
 - You irrevocably grant anyone the right to use your work under the following license: Creative Commons CC0 Waiver (release all rights, like public domain: [legal code](https://creativecommons.org/publicdomain/zero/1.0/))
 - You warrant and represent that the Contribution is your original creation, that you have the authority to grant this license to anyone, and that this license does not require the permission of any third party. Otherwise, you provide your Contribution "as is" without warranties.
 
+# How to translate
 
-# Ways to translate
-## Which way
 There are multiple ways to add or edit your translation of the game:
-1. The easy way
-  * Edit the repository directly through GitHub's web editor. Navigate to a file, click on the edit-button on the top far right, make your changes, add a description click on the 'Propose changes'.
-  * Pro: fast and easy.
-  * Con: not suited for bigger changes, as the web-editor has much less tools than a full fledged text editor.
-2. The manual way
-  * [Download](https://github.com/ReactiveDrop/reactivedrop_translations/archive/refs/heads/master.zip) the repository, edit it on your computer and then submit it through the [Issues tab](https://github.com/ReactiveDrop/reactivedrop_translations/issues) by providing an archive.
-  * Pro: you do not have to understand how to work with [Git](https://en.wikipedia.org/wiki/Git).
-  * Con: the admins have to do the git-work for you, and as a result your changes will be logged as theirs.
-3. The professional way
-  * [Fork the repository](https://github.com/ReactiveDrop/reactivedrop_translations/fork), edit & commit it and then push your changes back to the origin.
-  * Pro: full control over big sets of changes, use functions like search & replace in files, regex, machine translation.
-  * Con: steeper learning curve using the git system.
-  * Use an editor to make your changes and integrate them through github. Read more about it [on our wiki](https://github.com/ReactiveDrop/reactivedrop_translations/wiki).
 
-## Pre-requisites
+* via the GitHub web editor [\[jump\]]()
+* by downloading and editing an archive of the repository [\[jump\]]()
+* by forking the Git repository, editing your fork, and then submitting a pull request [\[jump\]]()
+
+## Using the GitHub web editor
+
+0. Ensure you are [logged in](https://github.com/login) to GitHub.
+
+1. Open the [GitHub web editor](https://github.dev/ReactiveDrop/reactivedrop_translations) by clicking on this link.
+
+2. When prompted, install the suggested extension.
+
+   ![Screenshot of the Recommended Extensions tooltip, suggesting the installation of "Valve KeyValue File Support".](https://i.imgur.com/2YjF5ue.png)
+
+3. Use the File Explorer panel on the left to find a file to translate.
+
+   ![Screenshot of the VSCode File Explorer activity badge.](https://i.imgur.com/bGqR0js.png)
+
+4. Find some untranslated lines – compared to the translated ones, they are **indented with two tabs**!
+
+   ![TODO](https://i.imgur.com/Dmh3MYi.png)
+
+5. Translate the lines, paying attention to not remove the quotes `"` at the start and at the end of the string.
+   Don't edit the lines starting with `[english]`: they're just there to provide some context for the translation!
+
+   ![TODO](https://i.imgur.com/fmD73HV.png)
+
+6. Outdent (remove the indentation from) the now-translated lines.  
+   If you have many lines, you can select them all and then press <kbd>Shift</kbd> + <kbd>Tab</kbd>!
+
+   TODO - use webeditor to add video
+
+7. Once you've translated enough lines, open the Source Control panel on the left.
+
+   ![TODO](https://i.imgur.com/6Q0O7DB.png)
+
+8. You will be prompted to enter a message describing your changes; add the name of the language you translated strings to between parenthesis, then describe very briefly what these strings are related to.
+   
+   For example, a good message might be `(italian) Translate Steam Rich Presence strings`.
+
+   ![TODO](https://i.imgur.com/TMlIhTb.png)
+
+9. Create a new **pull request** by pressing <kbd>Ctrl</kbd> + <kbd>Enter</kbd> while the cursor is in the message box.
+   
+   If it's your first time submitting translations, you might be prompted to *fork* the repository: please do so!
+   
+   ![TODO](https://i.imgur.com/P8Vwy3K.png)
+
+   You'll then be prompted to enter the title of the pull request, which will be pre-filled with the message you entered earlier; press <kbd>Enter</kbd> to continue.
+
+   ![TODO](https://i.imgur.com/MNgRTBU.png)
+
+   You will also be prompted to enter a branch name; leave whatever the editor suggested unchanged, and press <kbd>Enter</kbd> again.
+
+   ![TODO](https://i.imgur.com/LjubYZn.png)
+
+10. Done! Your translation should now appear in the [list of pull requests of the repository](https://github.com/ReactiveDrop/reactivedrop_translations/pulls), and can be approved, edited, or rejected!
+
+    ![TODO](https://i.imgur.com/7XNWLNo.png)
+
+## Using a repository archive
+
+[Download](https://github.com/ReactiveDrop/reactivedrop_translations/archive/refs/heads/master.zip) the repository, edit it on your computer and then submit it through the [Issues tab](https://github.com/ReactiveDrop/reactivedrop_translations/issues) by providing an archive.
+
+## Using a GitHub fork
+
+[Fork the repository](https://github.com/ReactiveDrop/reactivedrop_translations/fork), edit & commit it and then push your changes back to the origin.
+
+Use an editor to make your changes and integrate them through github. Read more about it [on our wiki](https://github.com/ReactiveDrop/reactivedrop_translations/wiki).
+
+### Pre-requisites
 - Any unicode plain text editor. E.g. [Notepad++](https://notepad-plus-plus.org/) or [Visual Studio Code](https://code.visualstudio.com/).
 - An [GIT installation](https://git-scm.com/downloads)
+
+# Files
 
 ## File Encoding
 Please make sure that your text editor preserves file's encoding.  
