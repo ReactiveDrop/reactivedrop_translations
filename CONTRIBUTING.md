@@ -12,9 +12,9 @@ As a condition of providing a Contribution, you agree that:
 
 There are multiple ways to add or edit your translation of the game:
 
-* via the GitHub web editor [\[jump\]]()
-* by downloading and editing an archive of the repository [\[jump\]]()
-* by forking the Git repository, editing your fork, and then submitting a pull request [\[jump\]]()
+* via the GitHub web editor [\[jump\]](#using-the-github-web-editor)
+* by downloading and editing an archive of the repository [\[jump\]](#using-a-repository-archive)
+* by forking the Git repository, editing your fork, and then submitting a pull request [\[jump\]](#using-a-github-fork)
 
 ## Using the GitHub web editor
 
