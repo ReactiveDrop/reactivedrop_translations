@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<content><string id="body">Hoje, o Alien Swarm: Reactive Drop comemora 6 anos no Steam. Você ganhará [url=https://store.steampowered.com/news/app/563560/view/3267945303130139335]o dobro de pontos de experiência a semana toda[/url], mas sabemos por que você realmente está aqui. Vamos desembrulhar alguns presentes:
+
+[h1]Nova campanha: Accident 32[/h1]
+
+Gemas verdes, brilhantes, misteriosas e aparentemente inofensivas são descobertas sob o solo de uma área povoada devido a níveis anormais de radioatividade. A empresa "AMBER" veio estudar este material sobrenatural. As descobertas são assustadoras e não documentadas, mantidas longe do público. As gemas são identificadas como materiais extraterrestres extremamente perigosos, compostos principalmente de múons. A radiação emitida modifica todas as estruturas biológicas em uma grande área.
+
+Lançado originalmente em maio de 2020 e maio de 2022 no Steam Workshop, Accident 32 é uma campanha de seis missões que combina duas campanhas de três missões em uma. Os fuzileiros estão determinados a explorar o misterioso complexo e a sede da empresa chamada "AMBER" e enfrentar muitas ameaças. Uma missão bônus "AMBER Complex" está incluída, que são as três primeiras missões combinadas em uma.
+
+[h1]Nova campanha: Adanaxis[/h1]
+
+TO-DO
+
+[h1]Coleções: Armas, Equipamentos e Swarmopedia[/h1]
+
+Conforme prometido quando a tela Coleções foi adicionada, a Swarmopedia retornou, melhor do que nunca! Desbloqueie estatísticas, dicas e histórias curtas sobre alienígenas matando-os no campo. Os add-ons também podem criar suas próprias entradas no Swarmopedia ou adicionar conteúdo às já existentes.
+
+Com a reformulação da Swarmopedia, terá uma nova tela para selecionar armas usando uma grade destinada a acelerar a localização de armas de alto nível e ajudar na memória muscular. Desbloquear armas ao subir de nível agora também dá acesso às fichas técnicas, com estatísticas precisas sobre alcance, dano e muito mais.
+
+[h1]Competição de Mapas 2023: "Boss Fight"[/h1]
+
+Este ano, estamos organizando nossa primeira competição anual de mapas da comunidade, e que lugar melhor para começar do que no final? O tema deste ano é [b]Boss Fight[/b].
+
+Crie uma missão ou campanha curta que contenha uma luta de chefe - um encontro roteirizado com algum grande mal que os fuzileiros devem superar. O chefe será um alienígena, um grupo de alienígenas ou algo completamente novo? Onde será a missão? Por que os fuzileiros estão lá? Todas essas perguntas e muito mais são coisas que você terá que considerar nos próximos meses.
+
+Ou, se você tiver uma ideia melhor, vá em frente e faça isso! Os temas da competição de mapas AS:RD são opcionais.
+
+As inscrições devem ser marcadas com [b]BossFight2023[/b]. A competição começa hoje e termina em 1º de agosto. Os prêmios incluem medalhas exclusivas no jogo. Se precisar de ajuda para começar, confira o fórum [url=https://steamcommunity.com/app/563560/discussions/1/]Modding/Mapping Help and Tips[/url].
+
+[h1]Caso você tenha perdido[/h1]
+
+Aqui estão alguns destaques das atualizações desde o aniversário anterior:
+[list]
+[*]Os add-ons do workshop agora podem conter vídeos, e as missões podem conter seu próprio vídeo como um resmo no plano de fundo ou até mesmo mostrar parte do mundo como plano de fundo durante o resumo.
+[*]Somos verificados pelo Steam Deck! O jogo roda muito bem no Steam Deck, e os jogadores no Linux ou que usam um controle também notaram melhorias.
+[*]Agora existem medalhas que você pode ganhar ajudando no desenvolvimento do jogo, contribuindo para o centro da comunidade Steam ou participando de uma temporada de Heróis das Forças Armadas Interestelares.
+[*]As portas de cofre que abrem lentamente usadas em muitas missões agora possuem informações de colisão mais precisos, permitindo que você pise ou atire através de uma porta parcialmente aberta.
+[*]A nova tela de seleção de missão inclui suporte para missões bônus e novas missões "sem fim".
+[*]Adicionamos um menu de configurações avançadas e um menu de configurações de áudio avançadas.
+[*]Reiniciar uma missão não requer mais uma tela de carregamento.
+[/list]
+
+[h1]Outras mudanças nesta atualização[/h1]
+
+[h2]Campanhas[/h2]
+[list]
+[*][b]Área 9800: Wastelands:[/b] Corrigido um harvester ficando preso na saída durante a cena final de introdução da manopla.
+[*][b]Tilarus-5: Arctic Infiltration:[/b] Corrigido uber drones aparecendo e desaparecendo logo após o início da missão.
+[*][b]Tilarus-5: SynTek Hospital:[/b] Volume do alarme aumentado.
+[*][b]Lana's Escape: Lana's Bridge:[/b] Otimizações de desempenho significativas para iluminação, renderização e localização de caminhos.
+[*][b]Lana's Escape: Lana's Sewer:[/b] Os barris radioativos na arena causam mais dano aos shamans.
+[*][b]Paranoia: Unexpected Encounter:[/b] Corrigido bugs relacionados à mira do lançador de granadas.
+[*][b]Paranoia: Hostile Places:[/b] Corrigido bugs relacionados à mira do lançador de granadas.
+[*][b]Bunker:[/b] Removido a colisão de uma viga de teto invisível.
+[/list]
+
+[h2]Armas[/h2]
+[list]
+[*][b]ML30 Laser Trip Mine:[/b] Previsão de rede aprimorada para a animação de arremesso.
+[*][b]M868 Flamer Unit:[/b] Corrigido tanques de combustível concedendo apenas meia recarga de munição.
+[*][b]Motoserra:[/b] Bots agora usam essa arma de um alcance mais razoável.
+[*][b]Granadas de Gás TG-05:[/b] Atualizado a aparência do item para ajudar a diferenciá-lo de outros tipos de granadas.
+[*]Corrigido a animação de escaneamento para sentinelas que dessincronizava o ângulo de quando a arma estava inativa.
+[*]Corrigido inconsistências no código de verificação de colisão, principalmente relacionadas a fuzileiros e projéteis.
+[/list]
+
+[h2]Diversos[/h2]
+[list]
+[*]O comando buildcubemaps agora requer que sv_cheats esteja ativado.
+[*]Corrigido um erro quando um alienígena tentou jogar um objeto físico em um alvo que havia morrido.
+[*]Corrigido um erro ao sair de uma tela com um menu suspenso aberto.
+[*]Corrigido o instrutor do jogo recomendando fuzileiros para soldar uma porta que já está danificada a ponto de não poder abrir ou fechar.
+[*]Corrigido a porta quadrada arredondada branca usada em alguns mapas personalizados caindo visualmente na direção errada às vezes.
+[*]Corrigido fuzileiros sendo desmarcados na sala ao reiniciar uma missão de bônus iniciada por votação.
+[*]O painel de bate-papo agora pode ser aberto no modo singleplayer (para uso em desafios personalizados).
+[*]Bots aprimorados em mapas de morte súbita. Eles devem ficar menos presos, girar em momentos melhores e agora se juntarão automaticamente se você iniciar um mapa de morte súbita no modo singleplayer.
+[*]Corrigido o instrutor do jogo dando informações incorretas sobre como reaparecer no modo de morte súbita e arrumado os prompts no HUD.
+[/list]
+
+[h2]Criação de mapas[/h2]
+[list]
+[*]Adicionado npc_crow, npc_pigeon e npc_seagull.
+[*]asw_env_shake agora pode ser sinalizado para ignorar as configurações do usuário (um novo convar foi adicionado para desabilitar [i]all[/i] shakes independentemente deste sinalizador).
+[*]Adicionado env_headcrabcanister.
+[*]Adicionado script_intro.
+[*]Um novo proxy de material, LanguagePreference, pode ser usado para alterar uma textura com base na preferência de idioma do visualizador. Por exemplo:
+[code]UnlitGeneric {
+    $basetexture "example/translated_texture_english"
+
+    Proxies {
+        LanguagePreference {
+            default "example/translated_texture_english"
+            schinese "example/translated_texture_schinese"
+            french "example/translated_texture_french"
+            resultvar "$basetexture"
+        }
+    }
+}[/code]
+[*]TileGen agora espera que as salas sejam construídas para o modo -alldetail (world brushes se transformam em func_detail, func_brush com um nome começando com structure_ se transforma em um world brush).
+[*]Melhorado a randomização do rd_tilegen_instance.
+[*]rd_tilegen_instance agora pesquisa em reactivedrop/tilegen/instances em vez de reactivedrop/tilegen/instance/ThemeName.
+[*]TileGen agora nivela as instâncias antes de enviar o mapa para o VBSP, permitindo que os conjuntos de salas do TileGen sejam distribuídos em VPKs ou no Workshop. Isso também significa que rd_tilegen_instance pode ser usado dentro de instâncias.
+[*]Os mapas TileGen agora usam toolsskybox para um selo de nível, permitindo o uso de light_environment e light_directional.
+[*]asw_vehicle_jeep agora está funcional. Os veículos disponíveis sem add-ons são o buggy do Half-Life 2 (models/buggy.mdl, scripts/vehicles/jeep_test.txt) que permite um motorista, e o muscle car do Half-Life 2: Episode Two (models/ veículo.mdl, scripts/veículos/jalopy.txt) que permite um motorista e um passageiro.
+[*]trigger_asw_button_area agora tem opções para substituir dicas de interface do usuário com texto personalizado.
+[/list]
+
+[h2]VScript[/h2]
+[list]
+[*]Adicionado um novo método para fuzileiros: SetMarineRolls, que permite que mapas e desafios alterar se os fuzileiros podem pular.
+[*]NPCs habitáveis (como fuzileiros) têm um novo método: SetControls, que substitui o valor de asw_controls para qualquer um jogando ou assistindo aquele personagem. Números negativos fazem com que o personagem use a configuração global.
+[*]asw_vehicle_jeep tem métodos para substituir sua câmera, SetCameraControls, SetCameraPitch, SetCameraDist e SetCameraHeight, com métodos Get* correspondentes. Definir um valor negativo faz com que o veículo use a configuração global.
+[*]asw_vehicle_jeep possui métodos para consultar os ocupantes: MaxPassengers(), GetDriver() e GetPassenger(seat).
+[*]asw_vehicle_jeep tem métodos para recuperar estatísticas: GetSpeed, GetMaxSpeed (em milhas por hora), GetRPM, GetThrottle, HasBoost e BoostTimeLeft.
+[/list]</string><string id="subtitle">É aniversário do Alien Swarm: Reactive Drop!</string><string id="summary">Hoje, Alien Swarm: Reactive Drop comemora 6 anos no Steam! Aqui está uma semana de dobro de experiência, duas novas campanhas e alguns outros brindes para comemorar.</string><string id="title">Alien Swarm: Reactive Drop Atualização - 20 de abril de 2023</string></content>

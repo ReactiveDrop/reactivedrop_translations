@@ -1,0 +1,9 @@
+GAME
+{
+"Headline"	"Planos da FAI para retomar a lua Antheon"
+"HeadlineDate"	"19/12/52"
+"Paragraph1"	"O General C. Morrison anunciou recentemente que a FAI está enviando outros 12.000 soldados para defender o sistema Antheon do enxame invasor. As tropas adicionais tentarão recuperar o controle da colônia humana na 5ª lua de Antheon Prime."
+"Paragraph2"	"O senador Tom Wearing, da Aliança Interestelar, respondeu chamando a ação de 'erro grave' em seu discurso público esta manhã."
+"Paragraph3"	"'Acredito que estamos espalhando muito pouco nossas forças', disse o senador, acrescentando, 'devemos chamar todas as nossas tropas para Antheon Prime. A 5ª lua já está perdida.'"
+"Paragraph4"	""
+}
