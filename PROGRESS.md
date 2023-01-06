@@ -1,30 +1,30 @@
 # Overview
 | Language | basemodui | closecaption | gameui | reactivedrop | statsweb | Strings | Inventory | Files |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | ✔️ | 6 | 1 | ✔️ | ✔️ | 8 |
-| [Traditional Chinese](#tchinese-繁體中文) | 7 | 120 | 1 | 2000 | 191 | 58 | 125 | 152 |
-| [Czech](#non-curated-languages) | 69 | 1796 | 10 | 3144 | 191 | 714 | 125 | 152 |
-| [Danish](#non-curated-languages) | 50 | 211 | 10 | 2664 | 191 | 444 | 125 | 153 |
-| [Dutch](#non-curated-languages) | 49 | 1993 | 10 | 2119 | 191 | 444 | 125 | 152 |
-| [Finnish](#non-curated-languages) | 49 | 1993 | 10 | 2119 | 191 | 444 | 125 | 152 |
-| [French](#french-français) | 25 | 118 | 10 | 1471 | 191 | 378 | 125 | 131 |
-| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 8 |
-| [Hungarian](#non-curated-languages) | 49 | 118 | 10 | 2119 | 191 | 709 | 125 | 153 |
-| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 8 |
-| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | 20 | ✔️ | 35 | ✔️ | 8 |
-| [Korean](#koreana-한국어) | 47 | 55 | 6 | 981 | 43 | 272 | 125 | 57 |
-| [Norwegian Bokmål](#non-curated-languages) | 67 | 693 | 15 | 2839 | 191 | 444 | 125 | 153 |
-| [Polish](#polish-polski) | 26 | 1993 | 10 | 2119 | 191 | 444 | 125 | 153 |
-| [European Portuguese](#portuguese-português-europeu) | 1 | 160 | 1 | 1424 | 18 | 390 | 98 | 146 |
+| [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | ✔️ | 6 | 1 | ✔️ | ✔️ | ✔️ |
+| [Traditional Chinese](#tchinese-繁體中文) | 7 | 120 | 1 | 2000 | 191 | 58 | 125 | 144 |
+| [Czech](#non-curated-languages) | 69 | 1796 | 10 | 3144 | 191 | 714 | 125 | 144 |
+| [Danish](#non-curated-languages) | 50 | 211 | 10 | 2664 | 191 | 444 | 125 | 145 |
+| [Dutch](#non-curated-languages) | 49 | 1993 | 10 | 2119 | 191 | 444 | 125 | 144 |
+| [Finnish](#non-curated-languages) | 49 | 1993 | 10 | 2119 | 191 | 444 | 125 | 144 |
+| [French](#french-français) | 25 | 118 | 10 | 1471 | 191 | 378 | 125 | 123 |
+| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
+| [Hungarian](#non-curated-languages) | 49 | 118 | 10 | 2119 | 191 | 709 | 125 | 145 |
+| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
+| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | 20 | ✔️ | 35 | ✔️ | ✔️ |
+| [Korean](#koreana-한국어) | 47 | 55 | 6 | 981 | 43 | 272 | 125 | 49 |
+| [Norwegian Bokmål](#non-curated-languages) | 67 | 693 | 15 | 2839 | 191 | 444 | 125 | 145 |
+| [Polish](#polish-polski) | 26 | 1993 | 10 | 2119 | 191 | 444 | 125 | 145 |
+| [European Portuguese](#portuguese-português-europeu) | 1 | 160 | 1 | 1424 | 18 | 390 | 98 | 138 |
 | [Brazilian Portuguese](#brazilian-português) | ✔️ | 1993 | ✔️ | 362 | ✔️ | ✔️ | ✔️ | ✔️ |
-| [Romanian](#non-curated-languages) | 49 | 1985 | 16 | 2844 | 191 | 709 | 125 | 153 |
-| [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 9 |
-| [European Spanish](#spanish-español-de-españa) | 26 | 1993 | 8 | 1522 | 191 | 448 | 125 | 152 |
-| [Swedish](#non-curated-languages) | 49 | 1993 | 10 | 2119 | 191 | 444 | 125 | 153 |
-| [Thai](#non-curated-languages) | 964 | 1982 | 18 | 3395 | 191 | 473 | 125 | 153 |
-| [Turkish](#non-curated-languages) | 49 | 117 | 10 | 2119 | 191 | 709 | 125 | 153 |
-| [Ukrainian](#ukrainian-українська) | 25 | 111 | 9 | 1651 | 191 | 709 | 123 | 153 |
-| [Vietnamese](#vietnamese-tiếng-việt) | 1279 | 1993 | 605 | 3659 | 191 | 660 | 125 | 139 |
+| [Romanian](#non-curated-languages) | 49 | 1985 | 16 | 2844 | 191 | 709 | 125 | 145 |
+| [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 1 |
+| [European Spanish](#spanish-español-de-españa) | 26 | 1993 | 8 | 1522 | 191 | 448 | 125 | 144 |
+| [Swedish](#non-curated-languages) | 49 | 1993 | 10 | 2119 | 191 | 444 | 125 | 145 |
+| [Thai](#non-curated-languages) | 964 | 1982 | 18 | 3395 | 191 | 473 | 125 | 145 |
+| [Turkish](#non-curated-languages) | 49 | 117 | 10 | 2119 | 191 | 709 | 125 | 145 |
+| [Ukrainian](#ukrainian-українська) | 25 | 111 | 9 | 1651 | 191 | 709 | 123 | 145 |
+| [Vietnamese](#vietnamese-tiếng-việt) | 1279 | 1993 | 605 | 3659 | 191 | 660 | 125 | 131 |
 ### Legend
 - ***Non-capitalized column headers*** are the most important specific files and their number of missing strings. All of these txt-files are located in the resources folder. Except statsweb, which lies in community/stats_website, it's an vdf-file.
 - ***Strings*** is the number of missing strings not included in one of the files which get an individual non-capitalized column.
@@ -43,17 +43,6 @@
 
 - [statsweb_schinese.vdf](community/stats_website/statsweb_schinese.vdf) has 1 untranslated strings.
 - [reactivedrop_schinese.txt](resource/reactivedrop_schinese.txt) has 6 untranslated strings.
-
-### Mail and News
-
-- [3rdmappdasmugler_schinese.txt](resource/news/3rdmappdasmugler_english.txt) is missing.
-- [3rdmappdaworker_schinese.txt](resource/news/3rdmappdaworker_english.txt) is missing.
-- [acc32_mail_localhouses_schinese.txt](resource/news/acc32_mail_localhouses_english.txt) is missing.
-- [acc32_mail_news2_schinese.txt](resource/news/acc32_mail_news2_english.txt) is missing.
-- [acc32_mail_random2_no_schinese.txt](resource/news/acc32_mail_random2_no_english.txt) is missing.
-- [acc_power1_schinese.txt](resource/news/acc_power1_english.txt) is missing.
-- [acc_power3_schinese.txt](resource/news/acc_power3_english.txt) is missing.
-- [acc_research2_schinese.txt](resource/news/acc_research2_english.txt) is missing.
 
 </details>
 
@@ -215,14 +204,6 @@
 - [tutorialmail1_tchinese.txt](resource/mail/tutorialmail1_english.txt) is missing.
 - [tutorialmail2_tchinese.txt](resource/mail/tutorialmail2_english.txt) is missing.
 - [tutorialmail3_tchinese.txt](resource/mail/tutorialmail3_english.txt) is missing.
-- [3rdmappdasmugler_tchinese.txt](resource/news/3rdmappdasmugler_english.txt) is missing.
-- [3rdmappdaworker_tchinese.txt](resource/news/3rdmappdaworker_english.txt) is missing.
-- [acc32_mail_localhouses_tchinese.txt](resource/news/acc32_mail_localhouses_english.txt) is missing.
-- [acc32_mail_news2_tchinese.txt](resource/news/acc32_mail_news2_english.txt) is missing.
-- [acc32_mail_random2_no_tchinese.txt](resource/news/acc32_mail_random2_no_english.txt) is missing.
-- [acc_power1_tchinese.txt](resource/news/acc_power1_english.txt) is missing.
-- [acc_power3_tchinese.txt](resource/news/acc_power3_english.txt) is missing.
-- [acc_research2_tchinese.txt](resource/news/acc_research2_english.txt) is missing.
 - [antheonmissingnews_tchinese.txt](resource/news/antheonmissingnews_english.txt) is missing.
 - [antheonmoonnews_tchinese.txt](resource/news/antheonmoonnews_english.txt) is missing.
 - [brainnews_tchinese.txt](resource/news/brainnews_english.txt) is missing.
@@ -411,14 +392,6 @@
 - [tutorialmail1_french.txt](resource/mail/tutorialmail1_english.txt) is missing.
 - [tutorialmail2_french.txt](resource/mail/tutorialmail2_english.txt) is missing.
 - [tutorialmail3_french.txt](resource/mail/tutorialmail3_english.txt) is missing.
-- [3rdmappdasmugler_french.txt](resource/news/3rdmappdasmugler_english.txt) is missing.
-- [3rdmappdaworker_french.txt](resource/news/3rdmappdaworker_english.txt) is missing.
-- [acc32_mail_localhouses_french.txt](resource/news/acc32_mail_localhouses_english.txt) is missing.
-- [acc32_mail_news2_french.txt](resource/news/acc32_mail_news2_english.txt) is missing.
-- [acc32_mail_random2_no_french.txt](resource/news/acc32_mail_random2_no_english.txt) is missing.
-- [acc_power1_french.txt](resource/news/acc_power1_english.txt) is missing.
-- [acc_power3_french.txt](resource/news/acc_power3_english.txt) is missing.
-- [acc_research2_french.txt](resource/news/acc_research2_english.txt) is missing.
 - [antheonmissingnews_french.txt](resource/news/antheonmissingnews_english.txt) is missing.
 - [antheonmoonnews_french.txt](resource/news/antheonmoonnews_english.txt) is missing.
 - [brainnews_french.txt](resource/news/brainnews_english.txt) is missing.
@@ -468,16 +441,7 @@
 
 </summary>
 
-### Mail and News
-
-- [3rdmappdasmugler_german.txt](resource/news/3rdmappdasmugler_english.txt) is missing.
-- [3rdmappdaworker_german.txt](resource/news/3rdmappdaworker_english.txt) is missing.
-- [acc32_mail_localhouses_german.txt](resource/news/acc32_mail_localhouses_english.txt) is missing.
-- [acc32_mail_news2_german.txt](resource/news/acc32_mail_news2_english.txt) is missing.
-- [acc32_mail_random2_no_german.txt](resource/news/acc32_mail_random2_no_english.txt) is missing.
-- [acc_power1_german.txt](resource/news/acc_power1_english.txt) is missing.
-- [acc_power3_german.txt](resource/news/acc_power3_english.txt) is missing.
-- [acc_research2_german.txt](resource/news/acc_research2_english.txt) is missing.
+✓ Up to date!
 
 </details>
 
@@ -487,16 +451,7 @@
 
 </summary>
 
-### Mail and News
-
-- [3rdmappdasmugler_italian.txt](resource/news/3rdmappdasmugler_english.txt) is missing.
-- [3rdmappdaworker_italian.txt](resource/news/3rdmappdaworker_english.txt) is missing.
-- [acc32_mail_localhouses_italian.txt](resource/news/acc32_mail_localhouses_english.txt) is missing.
-- [acc32_mail_news2_italian.txt](resource/news/acc32_mail_news2_english.txt) is missing.
-- [acc32_mail_random2_no_italian.txt](resource/news/acc32_mail_random2_no_english.txt) is missing.
-- [acc_power1_italian.txt](resource/news/acc_power1_english.txt) is missing.
-- [acc_power3_italian.txt](resource/news/acc_power3_english.txt) is missing.
-- [acc_research2_italian.txt](resource/news/acc_research2_english.txt) is missing.
+✓ Up to date!
 
 </details>
 
@@ -510,17 +465,6 @@
 
 - [vgui_japanese.txt](platform/vgui_japanese.txt) has 35 untranslated strings.
 - [reactivedrop_japanese.txt](resource/reactivedrop_japanese.txt) has 20 untranslated strings.
-
-### Mail and News
-
-- [3rdmappdasmugler_japanese.txt](resource/news/3rdmappdasmugler_english.txt) is missing.
-- [3rdmappdaworker_japanese.txt](resource/news/3rdmappdaworker_english.txt) is missing.
-- [acc32_mail_localhouses_japanese.txt](resource/news/acc32_mail_localhouses_english.txt) is missing.
-- [acc32_mail_news2_japanese.txt](resource/news/acc32_mail_news2_english.txt) is missing.
-- [acc32_mail_random2_no_japanese.txt](resource/news/acc32_mail_random2_no_english.txt) is missing.
-- [acc_power1_japanese.txt](resource/news/acc_power1_english.txt) is missing.
-- [acc_power3_japanese.txt](resource/news/acc_power3_english.txt) is missing.
-- [acc_research2_japanese.txt](resource/news/acc_research2_english.txt) is missing.
 
 </details>
 
@@ -602,14 +546,6 @@
 - [acc_research2_koreana.txt](resource/mail/acc_research2_english.txt) is missing.
 - [acc_research3_koreana.txt](resource/mail/acc_research3_english.txt) is missing.
 - [nukeangermail_koreana.txt](resource/mail/nukeangermail_english.txt) is missing.
-- [3rdmappdasmugler_koreana.txt](resource/news/3rdmappdasmugler_english.txt) is missing.
-- [3rdmappdaworker_koreana.txt](resource/news/3rdmappdaworker_english.txt) is missing.
-- [acc32_mail_localhouses_koreana.txt](resource/news/acc32_mail_localhouses_english.txt) is missing.
-- [acc32_mail_news2_koreana.txt](resource/news/acc32_mail_news2_english.txt) is missing.
-- [acc32_mail_random2_no_koreana.txt](resource/news/acc32_mail_random2_no_english.txt) is missing.
-- [acc_power1_koreana.txt](resource/news/acc_power1_english.txt) is missing.
-- [acc_power3_koreana.txt](resource/news/acc_power3_english.txt) is missing.
-- [acc_research2_koreana.txt](resource/news/acc_research2_english.txt) is missing.
 - [nh_news_announcement_koreana.txt](resource/news/nh_news_announcement_english.txt) is missing.
 - [nh_news_prospectus_koreana.txt](resource/news/nh_news_prospectus_english.txt) is missing.
 
@@ -808,14 +744,6 @@
 - [tutorialmail1_polish.txt](resource/mail/tutorialmail1_english.txt) is missing.
 - [tutorialmail2_polish.txt](resource/mail/tutorialmail2_english.txt) is missing.
 - [tutorialmail3_polish.txt](resource/mail/tutorialmail3_english.txt) is missing.
-- [3rdmappdasmugler_polish.txt](resource/news/3rdmappdasmugler_english.txt) is missing.
-- [3rdmappdaworker_polish.txt](resource/news/3rdmappdaworker_english.txt) is missing.
-- [acc32_mail_localhouses_polish.txt](resource/news/acc32_mail_localhouses_english.txt) is missing.
-- [acc32_mail_news2_polish.txt](resource/news/acc32_mail_news2_english.txt) is missing.
-- [acc32_mail_random2_no_polish.txt](resource/news/acc32_mail_random2_no_english.txt) is missing.
-- [acc_power1_polish.txt](resource/news/acc_power1_english.txt) is missing.
-- [acc_power3_polish.txt](resource/news/acc_power3_english.txt) is missing.
-- [acc_research2_polish.txt](resource/news/acc_research2_english.txt) is missing.
 - [antheonmissingnews_polish.txt](resource/news/antheonmissingnews_english.txt) is missing.
 - [antheonmoonnews_polish.txt](resource/news/antheonmoonnews_english.txt) is missing.
 - [brainnews_polish.txt](resource/news/brainnews_english.txt) is missing.
@@ -1015,14 +943,6 @@
 - [tutorialmail1_portuguese.txt](resource/mail/tutorialmail1_english.txt) is missing.
 - [tutorialmail2_portuguese.txt](resource/mail/tutorialmail2_english.txt) is missing.
 - [tutorialmail3_portuguese.txt](resource/mail/tutorialmail3_english.txt) is missing.
-- [3rdmappdasmugler_portuguese.txt](resource/news/3rdmappdasmugler_english.txt) is missing.
-- [3rdmappdaworker_portuguese.txt](resource/news/3rdmappdaworker_english.txt) is missing.
-- [acc32_mail_localhouses_portuguese.txt](resource/news/acc32_mail_localhouses_english.txt) is missing.
-- [acc32_mail_news2_portuguese.txt](resource/news/acc32_mail_news2_english.txt) is missing.
-- [acc32_mail_random2_no_portuguese.txt](resource/news/acc32_mail_random2_no_english.txt) is missing.
-- [acc_power1_portuguese.txt](resource/news/acc_power1_english.txt) is missing.
-- [acc_power3_portuguese.txt](resource/news/acc_power3_english.txt) is missing.
-- [acc_research2_portuguese.txt](resource/news/acc_research2_english.txt) is missing.
 - [antheonmissingnews_portuguese.txt](resource/news/antheonmissingnews_english.txt) is missing.
 - [antheonmoonnews_portuguese.txt](resource/news/antheonmoonnews_english.txt) is missing.
 - [brainnews_portuguese.txt](resource/news/brainnews_english.txt) is missing.
@@ -1083,17 +1003,6 @@
 ### Upcoming Release Notes
 
 - [20230420_russian.xml](release_notes/20230420_english.xml) is missing.
-
-### Mail and News
-
-- [3rdmappdasmugler_russian.txt](resource/news/3rdmappdasmugler_english.txt) is missing.
-- [3rdmappdaworker_russian.txt](resource/news/3rdmappdaworker_english.txt) is missing.
-- [acc32_mail_localhouses_russian.txt](resource/news/acc32_mail_localhouses_english.txt) is missing.
-- [acc32_mail_news2_russian.txt](resource/news/acc32_mail_news2_english.txt) is missing.
-- [acc32_mail_random2_no_russian.txt](resource/news/acc32_mail_random2_no_english.txt) is missing.
-- [acc_power1_russian.txt](resource/news/acc_power1_english.txt) is missing.
-- [acc_power3_russian.txt](resource/news/acc_power3_english.txt) is missing.
-- [acc_research2_russian.txt](resource/news/acc_research2_english.txt) is missing.
 
 </details>
 
@@ -1259,14 +1168,6 @@
 - [tutorialmail1_spanish.txt](resource/mail/tutorialmail1_english.txt) is missing.
 - [tutorialmail2_spanish.txt](resource/mail/tutorialmail2_english.txt) is missing.
 - [tutorialmail3_spanish.txt](resource/mail/tutorialmail3_english.txt) is missing.
-- [3rdmappdasmugler_spanish.txt](resource/news/3rdmappdasmugler_english.txt) is missing.
-- [3rdmappdaworker_spanish.txt](resource/news/3rdmappdaworker_english.txt) is missing.
-- [acc32_mail_localhouses_spanish.txt](resource/news/acc32_mail_localhouses_english.txt) is missing.
-- [acc32_mail_news2_spanish.txt](resource/news/acc32_mail_news2_english.txt) is missing.
-- [acc32_mail_random2_no_spanish.txt](resource/news/acc32_mail_random2_no_english.txt) is missing.
-- [acc_power1_spanish.txt](resource/news/acc_power1_english.txt) is missing.
-- [acc_power3_spanish.txt](resource/news/acc_power3_english.txt) is missing.
-- [acc_research2_spanish.txt](resource/news/acc_research2_english.txt) is missing.
 - [antheonmissingnews_spanish.txt](resource/news/antheonmissingnews_english.txt) is missing.
 - [antheonmoonnews_spanish.txt](resource/news/antheonmoonnews_english.txt) is missing.
 - [brainnews_spanish.txt](resource/news/brainnews_english.txt) is missing.
@@ -1476,14 +1377,6 @@
 - [tutorialmail1_ukrainian.txt](resource/mail/tutorialmail1_english.txt) is missing.
 - [tutorialmail2_ukrainian.txt](resource/mail/tutorialmail2_english.txt) is missing.
 - [tutorialmail3_ukrainian.txt](resource/mail/tutorialmail3_english.txt) is missing.
-- [3rdmappdasmugler_ukrainian.txt](resource/news/3rdmappdasmugler_english.txt) is missing.
-- [3rdmappdaworker_ukrainian.txt](resource/news/3rdmappdaworker_english.txt) is missing.
-- [acc32_mail_localhouses_ukrainian.txt](resource/news/acc32_mail_localhouses_english.txt) is missing.
-- [acc32_mail_news2_ukrainian.txt](resource/news/acc32_mail_news2_english.txt) is missing.
-- [acc32_mail_random2_no_ukrainian.txt](resource/news/acc32_mail_random2_no_english.txt) is missing.
-- [acc_power1_ukrainian.txt](resource/news/acc_power1_english.txt) is missing.
-- [acc_power3_ukrainian.txt](resource/news/acc_power3_english.txt) is missing.
-- [acc_research2_ukrainian.txt](resource/news/acc_research2_english.txt) is missing.
 - [antheonmissingnews_ukrainian.txt](resource/news/antheonmissingnews_english.txt) is missing.
 - [antheonmoonnews_ukrainian.txt](resource/news/antheonmoonnews_english.txt) is missing.
 - [brainnews_ukrainian.txt](resource/news/brainnews_english.txt) is missing.
@@ -1678,14 +1571,6 @@
 - [tutorialmail1_vietnamese.txt](resource/mail/tutorialmail1_english.txt) is missing.
 - [tutorialmail2_vietnamese.txt](resource/mail/tutorialmail2_english.txt) is missing.
 - [tutorialmail3_vietnamese.txt](resource/mail/tutorialmail3_english.txt) is missing.
-- [3rdmappdasmugler_vietnamese.txt](resource/news/3rdmappdasmugler_english.txt) is missing.
-- [3rdmappdaworker_vietnamese.txt](resource/news/3rdmappdaworker_english.txt) is missing.
-- [acc32_mail_localhouses_vietnamese.txt](resource/news/acc32_mail_localhouses_english.txt) is missing.
-- [acc32_mail_news2_vietnamese.txt](resource/news/acc32_mail_news2_english.txt) is missing.
-- [acc32_mail_random2_no_vietnamese.txt](resource/news/acc32_mail_random2_no_english.txt) is missing.
-- [acc_power1_vietnamese.txt](resource/news/acc_power1_english.txt) is missing.
-- [acc_power3_vietnamese.txt](resource/news/acc_power3_english.txt) is missing.
-- [acc_research2_vietnamese.txt](resource/news/acc_research2_english.txt) is missing.
 - [antheonmissingnews_vietnamese.txt](resource/news/antheonmissingnews_english.txt) is missing.
 - [antheonmoonnews_vietnamese.txt](resource/news/antheonmoonnews_english.txt) is missing.
 - [brainnews_vietnamese.txt](resource/news/brainnews_english.txt) is missing.
