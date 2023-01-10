@@ -49,7 +49,7 @@ var reportedLanguages = map[string]bool{
 	"bulgarian":  false,
 	"schinese":   true,
 	"tchinese":   true,
-	"czech":      false,
+	"czech":      true,
 	"danish":     false,
 	"dutch":      false,
 	"finnish":    false,
