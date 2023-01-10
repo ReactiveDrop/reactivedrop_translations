@@ -3,7 +3,7 @@
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | ✔️ | 15 | 1 | ✔️ | ✔️ | ✔️ |
 | [Traditional Chinese](#tchinese-繁體中文) | 7 | 120 | 1 | 2009 | 191 | 58 | 125 | 144 |
-| [Czech](#non-curated-languages) | 69 | 1796 | 10 | 3153 | 191 | 714 | 125 | 144 |
+| [Czech](#czech-čeština) | 69 | 1796 | 10 | 3153 | 191 | 714 | 125 | 144 |
 | [Danish](#non-curated-languages) | 50 | 211 | 10 | 2673 | 191 | 444 | 125 | 145 |
 | [Dutch](#non-curated-languages) | 49 | 1993 | 10 | 2128 | 191 | 444 | 125 | 144 |
 | [Finnish](#non-curated-languages) | 49 | 1993 | 10 | 2128 | 191 | 444 | 125 | 144 |
@@ -18,7 +18,7 @@
 | [European Portuguese](#portuguese-português-europeu) | 1 | 160 | 1 | 1433 | 18 | 390 | 98 | 138 |
 | [Brazilian Portuguese](#brazilian-português) | ✔️ | 1993 | ✔️ | 371 | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Romanian](#non-curated-languages) | 49 | 1985 | 16 | 2853 | 191 | 709 | 125 | 145 |
-| [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | 9 | ✔️ | ✔️ | ✔️ | 1 |
+| [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | 3 | ✔️ | ✔️ | ✔️ | 1 |
 | [European Spanish](#spanish-español-de-españa) | 26 | 1993 | 8 | 1531 | 191 | 448 | 125 | 144 |
 | [Swedish](#non-curated-languages) | 49 | 1993 | 10 | 2128 | 191 | 444 | 125 | 145 |
 | [Thai](#non-curated-languages) | 964 | 1982 | 18 | 3404 | 191 | 473 | 125 | 145 |
@@ -246,6 +246,214 @@
 - Item 100000008 "Donor: Accident 32" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_tchinese`, `description_tchinese`, `ingame_description_tchinese`, `after_description_tchinese`, `display_type_tchinese`
 - Item 100000009 "Donor: Adanaxis" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_tchinese`, `description_tchinese`, `ingame_description_tchinese`, `after_description_tchinese`, `display_type_tchinese`
 - Item 900000000 "Ben Lubar" in [item-schema-unique.json](community/inventory_service/item-schema-unique.json) is missing `name_tchinese`, `briefing_name_tchinese`
+
+</details>
+
+<details><summary>
+
+## czech (čeština)
+
+</summary>
+
+### Strings
+
+- [reactivedrop_czech.txt](addons/ExampleAddon/resource/reactivedrop_czech.txt) has 39 untranslated strings.
+- [inventory_service_tags_czech.vdf](community/inventory_service/inventory_service_tags_czech.vdf) has 12 untranslated strings.
+- [statsweb_czech.vdf](community/stats_website/statsweb_czech.vdf) has 191 untranslated strings.
+- [steam_input_czech.vdf](community/steam_input/steam_input_czech.vdf) has 19 untranslated strings.
+- [serverbrowser_czech.txt](platform/servers/serverbrowser_czech.txt) has 186 untranslated strings.
+- [vgui_czech.txt](platform/vgui_czech.txt) has 184 untranslated strings.
+- [basemodui_czech.txt](resource/basemodui_czech.txt) has 69 untranslated strings.
+- [chat_czech.txt](resource/chat_czech.txt) has 8 untranslated strings.
+- [closecaption_czech.txt](resource/closecaption_czech.txt) has 1796 untranslated strings.
+- [gameui_czech.txt](resource/gameui_czech.txt) has 10 untranslated strings.
+- [reactivedrop_czech.txt](resource/reactivedrop_czech.txt) has 3153 untranslated strings.
+- [valve_czech.txt](resource/valve_czech.txt) has 266 untranslated strings.
+
+### Steam Store and Community
+
+- [app_items_563560_czech.json](community/points_shop/app_items_563560_english.json) is missing.
+- [mappingcontest2023_czech.txt](community/workshop/mappingcontest2023_english.txt) is missing.
+- [workshop_description_czech.txt](community/workshop/workshop_description_english.txt) is missing.
+- [workshop_tags_czech.json](community/workshop/workshop_tags_english.json) is missing.
+- [content_warning_563560_czech.txt](store_page/content_warning_563560_english.txt) is missing.
+- [storepage_81731_czech.json](store_page/storepage_81731_english.json) is missing.
+
+### Upcoming Release Notes
+
+- [20230419_czech.xml](release_notes/20230419_english.xml) is missing.
+- [20230420_czech.xml](release_notes/20230420_english.xml) is missing.
+
+### Credits
+
+- [CustomCampaignCredits_czech.txt](addons/ExampleAddon/resource/CustomCampaignCredits_english.txt) is missing.
+- [asw_credits_czech.txt](credits/asw_credits_english.txt) is missing.
+- [biogen_corporation_credits_czech.txt](credits/biogen_corporation_credits_english.txt) is missing.
+- [credits_acc32_official_czech.txt](credits/credits_acc32_official_english.txt) is missing.
+- [credits_namhumanum_czech.txt](credits/credits_namhumanum_english.txt) is missing.
+- [deathmatch_credits_czech.txt](credits/deathmatch_credits_english.txt) is missing.
+- [rd-LanasEscapeCredits_czech.txt](credits/rd-LanasEscapeCredits_english.txt) is missing.
+- [rd-area9800Credits_czech.txt](credits/rd-area9800Credits_english.txt) is missing.
+- [rd-ocs-credits_czech.txt](credits/rd-ocs-credits_english.txt) is missing.
+- [rd-tarnor_credits_czech.txt](credits/rd-tarnor_credits_english.txt) is missing.
+- [rd_bonus_missions_credits_czech.txt](credits/rd_bonus_missions_credits_english.txt) is missing.
+- [rd_paranoia_credits_czech.txt](credits/rd_paranoia_credits_english.txt) is missing.
+- [rd_research7_credits_czech.txt](credits/rd_research7_credits_english.txt) is missing.
+- [tilarus5_credits_czech.txt](credits/tilarus5_credits_english.txt) is missing.
+
+### Mail and News
+
+- [3rdmappdasmugler_czech.txt](resource/mail/3rdmappdasmugler_english.txt) is missing.
+- [3rdmappdaworker_czech.txt](resource/mail/3rdmappdaworker_english.txt) is missing.
+- [acc32_mail_findings_czech.txt](resource/mail/acc32_mail_findings_english.txt) is missing.
+- [acc32_mail_investigations_czech.txt](resource/mail/acc32_mail_investigations_english.txt) is missing.
+- [acc32_mail_localhouses_czech.txt](resource/mail/acc32_mail_localhouses_english.txt) is missing.
+- [acc32_mail_miningops_czech.txt](resource/mail/acc32_mail_miningops_english.txt) is missing.
+- [acc32_mail_news1_czech.txt](resource/mail/acc32_mail_news1_english.txt) is missing.
+- [acc32_mail_news2_czech.txt](resource/mail/acc32_mail_news2_english.txt) is missing.
+- [acc32_mail_random1_czech.txt](resource/mail/acc32_mail_random1_english.txt) is missing.
+- [acc32_mail_random2_left_czech.txt](resource/mail/acc32_mail_random2_left_english.txt) is missing.
+- [acc32_mail_random2_no_czech.txt](resource/mail/acc32_mail_random2_no_english.txt) is missing.
+- [acc32_mail_random2_right_czech.txt](resource/mail/acc32_mail_random2_right_english.txt) is missing.
+- [acc32_mail_research1_czech.txt](resource/mail/acc32_mail_research1_english.txt) is missing.
+- [acc32_mail_research2_czech.txt](resource/mail/acc32_mail_research2_english.txt) is missing.
+- [acc32_mail_secret2_czech.txt](resource/mail/acc32_mail_secret2_english.txt) is missing.
+- [acc32_mail_solution_czech.txt](resource/mail/acc32_mail_solution_english.txt) is missing.
+- [acc_info1_czech.txt](resource/mail/acc_info1_english.txt) is missing.
+- [acc_info2_czech.txt](resource/mail/acc_info2_english.txt) is missing.
+- [acc_power1_czech.txt](resource/mail/acc_power1_english.txt) is missing.
+- [acc_power2_czech.txt](resource/mail/acc_power2_english.txt) is missing.
+- [acc_power3_czech.txt](resource/mail/acc_power3_english.txt) is missing.
+- [acc_research1_czech.txt](resource/mail/acc_research1_english.txt) is missing.
+- [acc_research2_czech.txt](resource/mail/acc_research2_english.txt) is missing.
+- [acc_research3_czech.txt](resource/mail/acc_research3_english.txt) is missing.
+- [labsmail1_czech.txt](resource/mail/labsmail1_english.txt) is missing.
+- [labsmail2_czech.txt](resource/mail/labsmail2_english.txt) is missing.
+- [labsmail3_czech.txt](resource/mail/labsmail3_english.txt) is missing.
+- [labsmail4_czech.txt](resource/mail/labsmail4_english.txt) is missing.
+- [landingbaymail1_czech.txt](resource/mail/landingbaymail1_english.txt) is missing.
+- [landingbaymail2_czech.txt](resource/mail/landingbaymail2_english.txt) is missing.
+- [landingbaymail3_czech.txt](resource/mail/landingbaymail3_english.txt) is missing.
+- [minemails1_czech.txt](resource/mail/minemails1_english.txt) is missing.
+- [minemails2_czech.txt](resource/mail/minemails2_english.txt) is missing.
+- [minemails3_czech.txt](resource/mail/minemails3_english.txt) is missing.
+- [nh_officemail1_jacquesmoreau_czech.txt](resource/mail/nh_officemail1_jacquesmoreau_english.txt) is missing.
+- [nh_officemail2_jacquesmoreau_czech.txt](resource/mail/nh_officemail2_jacquesmoreau_english.txt) is missing.
+- [nh_officemail_lindasilva_czech.txt](resource/mail/nh_officemail_lindasilva_english.txt) is missing.
+- [nh_officemail_vladislavlazarev_czech.txt](resource/mail/nh_officemail_vladislavlazarev_english.txt) is missing.
+- [nh_officemail_wistonbeaufort_czech.txt](resource/mail/nh_officemail_wistonbeaufort_english.txt) is missing.
+- [nh_pda1_gaelflorenza_czech.txt](resource/mail/nh_pda1_gaelflorenza_english.txt) is missing.
+- [nh_pda2_gaelflorenza_czech.txt](resource/mail/nh_pda2_gaelflorenza_english.txt) is missing.
+- [nh_pda3_gaelflorenza_czech.txt](resource/mail/nh_pda3_gaelflorenza_english.txt) is missing.
+- [nh_pda4_gaelflorenza_czech.txt](resource/mail/nh_pda4_gaelflorenza_english.txt) is missing.
+- [nh_pda5_gaelflorenza_czech.txt](resource/mail/nh_pda5_gaelflorenza_english.txt) is missing.
+- [nh_pda6_gaelflorenza_czech.txt](resource/mail/nh_pda6_gaelflorenza_english.txt) is missing.
+- [nh_pda_francesiriac_czech.txt](resource/mail/nh_pda_francesiriac_english.txt) is missing.
+- [nh_pda_jacquesmoreau_czech.txt](resource/mail/nh_pda_jacquesmoreau_english.txt) is missing.
+- [nh_pda_jonathandorland_czech.txt](resource/mail/nh_pda_jonathandorland_english.txt) is missing.
+- [nh_pda_lindasilva_czech.txt](resource/mail/nh_pda_lindasilva_english.txt) is missing.
+- [nh_pda_sarahweiss_czech.txt](resource/mail/nh_pda_sarahweiss_english.txt) is missing.
+- [nh_pda_thibautholbert_czech.txt](resource/mail/nh_pda_thibautholbert_english.txt) is missing.
+- [nh_pda_tomasselin_czech.txt](resource/mail/nh_pda_tomasselin_english.txt) is missing.
+- [nh_pda_yannmontgomery_czech.txt](resource/mail/nh_pda_yannmontgomery_english.txt) is missing.
+- [nukeangermail_czech.txt](resource/mail/nukeangermail_english.txt) is missing.
+- [officemail1_czech.txt](resource/mail/officemail1_english.txt) is missing.
+- [officemail2_czech.txt](resource/mail/officemail2_english.txt) is missing.
+- [officemail3_czech.txt](resource/mail/officemail3_english.txt) is missing.
+- [officemail4_czech.txt](resource/mail/officemail4_english.txt) is missing.
+- [outsidemail1_czech.txt](resource/mail/outsidemail1_english.txt) is missing.
+- [outsidemail2_czech.txt](resource/mail/outsidemail2_english.txt) is missing.
+- [outsidemail3_czech.txt](resource/mail/outsidemail3_english.txt) is missing.
+- [plantmail1_czech.txt](resource/mail/plantmail1_english.txt) is missing.
+- [plantmail2_czech.txt](resource/mail/plantmail2_english.txt) is missing.
+- [plantmail3_czech.txt](resource/mail/plantmail3_english.txt) is missing.
+- [queenlairmail1_czech.txt](resource/mail/queenlairmail1_english.txt) is missing.
+- [queenlairmail2_czech.txt](resource/mail/queenlairmail2_english.txt) is missing.
+- [rd-benson_czech.txt](resource/mail/rd-benson_english.txt) is missing.
+- [rd-cave_geologist1_czech.txt](resource/mail/rd-cave_geologist1_english.txt) is missing.
+- [rd-lan-pda1_czech.txt](resource/mail/rd-lan-pda1_english.txt) is missing.
+- [rd-lan-pda2_czech.txt](resource/mail/rd-lan-pda2_english.txt) is missing.
+- [rd-lan-pda3_czech.txt](resource/mail/rd-lan-pda3_english.txt) is missing.
+- [rd-lan-pda4_czech.txt](resource/mail/rd-lan-pda4_english.txt) is missing.
+- [rd-lan-pda5_czech.txt](resource/mail/rd-lan-pda5_english.txt) is missing.
+- [rd-lan-pda6_czech.txt](resource/mail/rd-lan-pda6_english.txt) is missing.
+- [rd-smithson_czech.txt](resource/mail/rd-smithson_english.txt) is missing.
+- [rd-spaceport_security_czech.txt](resource/mail/rd-spaceport_security_english.txt) is missing.
+- [rd_res_houghton1_czech.txt](resource/mail/rd_res_houghton1_english.txt) is missing.
+- [rd_res_houghton2_czech.txt](resource/mail/rd_res_houghton2_english.txt) is missing.
+- [rd_res_houghton3_czech.txt](resource/mail/rd_res_houghton3_english.txt) is missing.
+- [rd_res_houghton4_czech.txt](resource/mail/rd_res_houghton4_english.txt) is missing.
+- [rd_res_houghton5_czech.txt](resource/mail/rd_res_houghton5_english.txt) is missing.
+- [rd_res_houghton6_czech.txt](resource/mail/rd_res_houghton6_english.txt) is missing.
+- [rd_res_rctinbound1_czech.txt](resource/mail/rd_res_rctinbound1_english.txt) is missing.
+- [rd_res_rctinbound2_czech.txt](resource/mail/rd_res_rctinbound2_english.txt) is missing.
+- [rd_subject58_czech.txt](resource/mail/rd_subject58_english.txt) is missing.
+- [sewersmail1_czech.txt](resource/mail/sewersmail1_english.txt) is missing.
+- [sewersmail2_czech.txt](resource/mail/sewersmail2_english.txt) is missing.
+- [sewersmail3_czech.txt](resource/mail/sewersmail3_english.txt) is missing.
+- [tilarus01port_MainStory1_czech.txt](resource/mail/tilarus01port_MainStory1_english.txt) is missing.
+- [tilarus01port_MainStory2_czech.txt](resource/mail/tilarus01port_MainStory2_english.txt) is missing.
+- [tilarus01port_MainStory3_czech.txt](resource/mail/tilarus01port_MainStory3_english.txt) is missing.
+- [tilarus01port_PublicMessage1_czech.txt](resource/mail/tilarus01port_PublicMessage1_english.txt) is missing.
+- [tilarus01port_PublicMessage2_czech.txt](resource/mail/tilarus01port_PublicMessage2_english.txt) is missing.
+- [tilarus01port_SideStory1_czech.txt](resource/mail/tilarus01port_SideStory1_english.txt) is missing.
+- [tilarus01port_SideStory2_czech.txt](resource/mail/tilarus01port_SideStory2_english.txt) is missing.
+- [tilarus01port_SideStory3_czech.txt](resource/mail/tilarus01port_SideStory3_english.txt) is missing.
+- [tilarus01port_craigsthingpda_czech.txt](resource/mail/tilarus01port_craigsthingpda_english.txt) is missing.
+- [tilarus03arctic_mail1_czech.txt](resource/mail/tilarus03arctic_mail1_english.txt) is missing.
+- [tilarus03arctic_mail2_czech.txt](resource/mail/tilarus03arctic_mail2_english.txt) is missing.
+- [tilarus03arctic_mail3_czech.txt](resource/mail/tilarus03arctic_mail3_english.txt) is missing.
+- [tilarus03arctic_mail4_czech.txt](resource/mail/tilarus03arctic_mail4_english.txt) is missing.
+- [tilarus09hospital_pda1_czech.txt](resource/mail/tilarus09hospital_pda1_english.txt) is missing.
+- [tilarus09hospital_pda2_czech.txt](resource/mail/tilarus09hospital_pda2_english.txt) is missing.
+- [tilarus09hospital_pda3_czech.txt](resource/mail/tilarus09hospital_pda3_english.txt) is missing.
+- [tilarus09hospital_pda4_czech.txt](resource/mail/tilarus09hospital_pda4_english.txt) is missing.
+- [tilarus09hospital_pda5_czech.txt](resource/mail/tilarus09hospital_pda5_english.txt) is missing.
+- [tutorialmail1_czech.txt](resource/mail/tutorialmail1_english.txt) is missing.
+- [tutorialmail2_czech.txt](resource/mail/tutorialmail2_english.txt) is missing.
+- [tutorialmail3_czech.txt](resource/mail/tutorialmail3_english.txt) is missing.
+- [antheonmissingnews_czech.txt](resource/news/antheonmissingnews_english.txt) is missing.
+- [antheonmoonnews_czech.txt](resource/news/antheonmoonnews_english.txt) is missing.
+- [brainnews_czech.txt](resource/news/brainnews_english.txt) is missing.
+- [convoynews_czech.txt](resource/news/convoynews_english.txt) is missing.
+- [droidlawsnews_czech.txt](resource/news/droidlawsnews_english.txt) is missing.
+- [expansionnews_czech.txt](resource/news/expansionnews_english.txt) is missing.
+- [experiornews_czech.txt](resource/news/experiornews_english.txt) is missing.
+- [newcolonynews_czech.txt](resource/news/newcolonynews_english.txt) is missing.
+- [nh_news_announcement_czech.txt](resource/news/nh_news_announcement_english.txt) is missing.
+- [nh_news_prospectus_czech.txt](resource/news/nh_news_prospectus_english.txt) is missing.
+- [rd-newfacilities_czech.txt](resource/news/rd-newfacilities_english.txt) is missing.
+- [rd-spaceport_news1_czech.txt](resource/news/rd-spaceport_news1_english.txt) is missing.
+- [refugeenews_czech.txt](resource/news/refugeenews_english.txt) is missing.
+
+### Inventory Schema</summary>
+
+- Item 1 "Participant - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_czech`, `briefing_name_czech`, `description_czech`, `before_description_czech`, `after_description_czech`, `display_type_czech`
+- Item 2 "Elite - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_czech`, `briefing_name_czech`, `description_czech`, `before_description_czech`, `after_description_czech`, `display_type_czech`
+- Item 3 "Trick Hat" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_czech`, `briefing_name_czech`, `description_czech`, `after_description_czech`, `display_type_czech`
+- Item 4 "Elite - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_czech`, `briefing_name_czech`, `description_czech`, `before_description_czech`, `after_description_czech`, `display_type_czech`
+- Item 5 "Elite - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_czech`, `briefing_name_czech`, `description_czech`, `before_description_czech`, `after_description_czech`, `display_type_czech`
+- Item 6 "Elite - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_czech`, `briefing_name_czech`, `description_czech`, `before_description_czech`, `after_description_czech`, `display_type_czech`
+- Item 13 "Beta Tester" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_czech`, `briefing_name_czech`, `description_czech`, `display_type_czech`
+- Item 15 "Top 20 - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_czech`, `briefing_name_czech`, `description_czech`, `before_description_czech`, `after_description_czech`, `display_type_czech`
+- Item 7 "Translator" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_czech`, `briefing_name_czech`, `description_czech`, `display_type_czech`
+- Item 8 "Programmer" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_czech`, `briefing_name_czech`, `description_czech`, `display_type_czech`
+- Item 9 "Mapper" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_czech`, `briefing_name_czech`, `description_czech`, `display_type_czech`
+- Item 10 "Challenger" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_czech`, `briefing_name_czech`, `description_czech`, `display_type_czech`
+- Item 11 "Guide" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_czech`, `briefing_name_czech`, `description_czech`, `display_type_czech`
+- Item 12 "Artist" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_czech`, `briefing_name_czech`, `description_czech`, `display_type_czech`
+- Item 14 "Reporter" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_czech`, `briefing_name_czech`, `description_czech`, `display_type_czech`
+- Item 100000000 "Donor: Tears for Tarnor" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_czech`, `description_czech`, `ingame_description_czech`, `after_description_czech`, `display_type_czech`
+- Item 100000001 "Donor: Paranoia" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_czech`, `description_czech`, `ingame_description_czech`, `after_description_czech`, `display_type_czech`
+- Item 100000002 "Donor: Lana's Escape" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_czech`, `description_czech`, `ingame_description_czech`, `after_description_czech`, `display_type_czech`
+- Item 100000003 "Donor: Operation Cleansweep" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_czech`, `description_czech`, `ingame_description_czech`, `after_description_czech`, `display_type_czech`
+- Item 100000004 "Donor: Research 7" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_czech`, `description_czech`, `ingame_description_czech`, `after_description_czech`, `display_type_czech`
+- Item 100000005 "Donor: Area 9800" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_czech`, `description_czech`, `ingame_description_czech`, `after_description_czech`, `display_type_czech`
+- Item 100000006 "Donor: BioGen Corporation" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_czech`, `description_czech`, `ingame_description_czech`, `after_description_czech`, `display_type_czech`
+- Item 100000007 "Donor: Nam Humanum" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_czech`, `description_czech`, `ingame_description_czech`, `after_description_czech`, `display_type_czech`
+- Item 100000008 "Donor: Accident 32" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_czech`, `description_czech`, `ingame_description_czech`, `after_description_czech`, `display_type_czech`
+- Item 100000009 "Donor: Adanaxis" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_czech`, `description_czech`, `ingame_description_czech`, `after_description_czech`, `display_type_czech`
+- Item 900000000 "Ben Lubar" in [item-schema-unique.json](community/inventory_service/item-schema-unique.json) is missing `name_czech`, `briefing_name_czech`
 
 </details>
 
@@ -1004,7 +1212,7 @@
 
 ### Strings
 
-- [reactivedrop_russian.txt](resource/reactivedrop_russian.txt) has 9 untranslated strings.
+- [reactivedrop_russian.txt](resource/reactivedrop_russian.txt) has 3 untranslated strings.
 
 ### Upcoming Release Notes
 
@@ -1628,7 +1836,6 @@ These languages have not been substantially updated since the start of the React
 
 - arabic (العربية)
 - bulgarian (български)
-- czech (čeština)
 - danish (dansk)
 - dutch (Nederlands)
 - finnish (suomi)
