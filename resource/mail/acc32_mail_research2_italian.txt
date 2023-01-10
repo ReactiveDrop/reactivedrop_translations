@@ -2,6 +2,10 @@ GAME
 {
 // Inbox
 
+"MailBody1ImageTall" "128"
+"MailBody1ImageWide" "128"
+"MailBody1Image"	"mailpics/mailpic_acc_muongem"
+
 "MailFrom1"	"Da: Operazione News [Laura]"
 "MailDate1"	"Data: 19 Ott 2232"
 "MailSubject1"	"Oggetto: Ricerca volume 2"

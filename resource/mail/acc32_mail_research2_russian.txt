@@ -2,6 +2,10 @@ GAME
 {
 // Inbox
 
+"MailBody1ImageTall" "128"
+"MailBody1ImageWide" "128"
+"MailBody1Image"	"mailpics/mailpic_acc_muongem"
+
 "MailFrom1"	"От: Новости операции [Лора]"
 "MailDate1"	"Дата: 19.10.32"
 "MailSubject1"	"Тема: Исследовательский том 2"
