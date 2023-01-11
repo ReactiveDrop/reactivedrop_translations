@@ -4213,5 +4213,17 @@
 "rd_enter_vehicle_driver"	"Drive Vehicle"
 "rd_enter_vehicle_passenger"	"Ride Vehicle"
 "rd_enter_vehicle_full"	"Vehicle is Full"
+
+"rd_demo_list_title"	"Mission Recordings"
+// This message appears both if a filesystem error occurs or if the demo had an unrecoverable error in it (such as when the game crashes while recording a demo).
+"rd_demo_cant_play_failed_open"	"Could not read demo file."
+// %s1 is game folder name which is different than "reactivedrop", for example "hl2" or "left4dead2".
+"rd_demo_cant_play_other_game"	"Not a Reactive Drop demo - recorded by \"%s1\"."
+// %s1 and %s2 are both four part version numbers (specifically the PatchVersion from steam.inf)
+"rd_demo_cant_play_old_version"	"Reactive Drop %s1 cannot play a version %s2 demo."
+// %s1 is a map filename like asi-jac01-landingbay_01
+"rd_demo_cant_play_missing_map"	"Map \"%s1\" is not installed."
+"rd_demo_size"	"%s1 MB"
+"rd_demo_list_empty"	"No missions recorded."
 }
 }
