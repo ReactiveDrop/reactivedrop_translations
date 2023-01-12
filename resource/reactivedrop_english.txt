@@ -4239,5 +4239,10 @@
 "rd_demo_auto_setting_10"	"Yes (keep last 10)"
 "rd_demo_auto_setting_100"	"Yes (keep last 100)"
 "rd_demo_auto_setting_1000"	"Yes (keep last 1000)"
+"rd_demo_action_delete"	"Delete"
+"rd_demo_action_rename"	"Rename"
+"rd_demo_action_watch"	"Watch"
+"rd_demo_confirm_delete_title"	"Permanently delete this recording?"
+"rd_demo_confirm_delete_message"	"Are you sure you want to delete \"%s1\"? This cannot be undone."
 }
 }
