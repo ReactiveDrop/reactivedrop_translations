@@ -5009,9 +5009,9 @@
 "[english]rd_so_author_brad_irwing"		"From the journal of Dr. Brad Irwing (AMBER)"
 "rd_so_author_bur_nable"		"Aus den Aufzeichnungen von Bur Nable (Nanotrasen)"
 "[english]rd_so_author_bur_nable"		"From the journal of Bur Nable (Nanotrasen)"
-		"rd_so_author_helvetica_scenario"		"Annotation from Dr. Helvetica Scenario (OCM)"
-		// Office of Consensus Maintenance
-		"[english]rd_so_author_helvetica_scenario"		"Annotation from Dr. Helvetica Scenario (OCM)"
+"rd_so_author_helvetica_scenario"		"Anmerkung von Dr. Helvetica Scenario (OCM)"
+// Office of Consensus Maintenance
+"[english]rd_so_author_helvetica_scenario"		"Annotation from Dr. Helvetica Scenario (OCM)"
 "rd_so_author_isaac_kleiner"		"Aus den Aufzeichnungen von Dr. Isaac Kleiner (Black Mesa)"
 "[english]rd_so_author_isaac_kleiner"		"From the journal of Dr. Isaac Kleiner (Black Mesa)"
 "rd_so_author_julie_duval"		"Aus den Aufzeichnungen von Prof. Julie Duval (IAF)"
