@@ -62,6 +62,7 @@ TODO
 [*][b]TG-05 ガスグレネード:[/b] 他のグレネード類と見分け易くなるようにアイテムの見た目を更新。
 [*]セントリーガンがスキャンするアニメーションが停止時の角度と同期されていなかったのを修正。
 [*]衝突判定のコードに矛盾があったのを修正。BOTと投射物に関して特に顕著だった。
+		[*]Fixed a bug sometimes preventing the use of off-hand items on controller.
 [/list]
 
 [h2]その他[/h2]
@@ -75,6 +76,15 @@ TODO
 [*]チャット画面がシングルプレイヤーでも開けるようになった(カスタムチャレンジ用)。
 [*]デスマッチマップでのBOTを改善。ハマりにくくなり、旋回速度が適切になり、シングルプレイヤーでデスマッチマップを開始した場合に自動的に参加するようになった。
 [*]デスマッチモードにてゲームインストラクターがリスポーンの方法について正しくない情報を出していたのを修正し、HUD上に出される指示を整理した。
+		[*]Improved bots' ability to avoid danger and flank shieldbugs.
+		[*]Bots are now much less likely to teleport in front of a player.
+		[*]Marines no longer always face east when starting a mission in first or third person.
+		[*]Fixed some tooltips being too small to comfortably read.
+		[*]When selecting a text input with Steam Big Picture enabled, the on-screen keyboard will open.
+		[*]Added a mission recording list and an option to automatically record missions.
+		[*]The game now updates its state more frequently during slow motion.
+		[*]Performing an override on a locked computer now always goes to the menu rather than downloading critical data or doing nothing.
+		[*]When finishing a bonus or deathmatch map, the game now selects a default next mission.
 [/list]
 
 [h2]マップ作成[/h2]
@@ -103,6 +113,13 @@ TODO
 [*]TileGenのマップはlevel sealにtoolsskyboxを使用するようになり、light_environmentとlight_directionalが使用可能になった。
 [*]asw_vehicle_jeepが機能するようになった。アドオン無しで使える物はハーフライフ2の一人乗りバギー(models/buggy.mdl, scripts/vehicles/jeep_test.txt)と、ハーフライフ2:エピソード2の運転席と助手席があるマッスルカー(models/vehicle.mdl, scripts/vehicles/jalopy.txt)です。
 [*]trigger_asw_button_areaがUIのヒントを設定した文章で上書きするオプションを持つようになった。
+		[*]trigger_asw_computer_area has been made more customizable:
+[list]
+		[*]Mail and news articles can now optionally end with an image. Use Image, ImageWide, and ImageTall to add an image to a news file. For mail, use MailBody1Image, etc.
+		[*]Reactor status can be controlled via an input on the computer area, as an alternative to the old method of having an objective with a specific icon.
+		[*]Weather, reactor status, and stock market info can now be customized with keyvalues files. Additionally, the current temperature is no longer randomized every time the weather report is opened.
+[/list]
+		[*]func_asw_fade now ignores collisions with grenades by default.
 [/list]
 
 [h2]VScript[/h2]

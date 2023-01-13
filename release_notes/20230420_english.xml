@@ -62,6 +62,7 @@ Here are some highlights from updates since the previous anniversary:
 [*][b]TG-05 Gas Grenades:[/b] Updated the item's appearance to help differentiate it from other types of grenades.
 [*]Fixed the scanning animation for sentries desynchronizing from the gun's idle angle.
 [*]Fixed inconsistencies in collision-checking code, most notably related to bot marines and projectiles.
+[*]Fixed a bug sometimes preventing the use of off-hand items on controller.
 [/list]
 
 [h2]Misc[/h2]
@@ -75,6 +76,15 @@ Here are some highlights from updates since the previous anniversary:
 [*]The chat panel can now be opened in singleplayer (for use in custom challenges).
 [*]Improved bots in Deathmatch maps. They should get stuck less, turn at more reasonable times, and will now automatically join if you start a Deathmatch map in singleplayer.
 [*]Fixed the game instructor giving incorrect information about how to respawn in Deathmatch mode, and tidied up the prompts on the HUD.
+[*]Improved bots' ability to avoid danger and flank shieldbugs.
+[*]Bots are now much less likely to teleport in front of a player.
+[*]Marines no longer always face east when starting a mission in first or third person.
+[*]Fixed some tooltips being too small to comfortably read.
+[*]When selecting a text input with Steam Big Picture enabled, the on-screen keyboard will open.
+[*]Added a mission recording list and an option to automatically record missions.
+[*]The game now updates its state more frequently during slow motion.
+[*]Performing an override on a locked computer now always goes to the menu rather than downloading critical data or doing nothing.
+[*]When finishing a bonus or deathmatch map, the game now selects a default next mission.
 [/list]
 
 [h2]Mapping[/h2]
@@ -103,6 +113,13 @@ Here are some highlights from updates since the previous anniversary:
 [*]TileGen maps now use toolsskybox for a level seal, allowing the use of light_environment and light_directional.
 [*]asw_vehicle_jeep is now functional. Available vehicles without add-ons are the dune buggy from Half-Life 2 (models/buggy.mdl, scripts/vehicles/jeep_test.txt) which allows one driver, and the muscle car from Half-Life 2: Episode Two (models/vehicle.mdl, scripts/vehicles/jalopy.txt) which allows one driver and one passenger.
 [*]trigger_asw_button_area now has options for overriding UI hints with custom text.
+[*]trigger_asw_computer_area has been made more customizable:
+[list]
+[*]Mail and news articles can now optionally end with an image. Use Image, ImageWide, and ImageTall to add an image to a news file. For mail, use MailBody1Image, etc.
+[*]Reactor status can be controlled via an input on the computer area, as an alternative to the old method of having an objective with a specific icon.
+[*]Weather, reactor status, and stock market info can now be customized with keyvalues files. Additionally, the current temperature is no longer randomized every time the weather report is opened.
+[/list]
+[*]func_asw_fade now ignores collisions with grenades by default.
 [/list]
 
 [h2]VScript[/h2]
