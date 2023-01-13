@@ -1,22 +1,22 @@
 # Overview
 | Language | basemodui | closecaption | gameui | reactivedrop | statsweb | Strings | Inventory | Files |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | ✔️ | 45 | 1 | ✔️ | ✔️ | ✔️ |
+| [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | ✔️ | 45 | 1 | ✔️ | ✔️ | 1 |
 | [Traditional Chinese](#tchinese-繁體中文) | 7 | 120 | 1 | 2041 | 191 | 58 | 125 | 144 |
 | [Czech](#czech-čeština) | 69 | 1796 | 10 | 3185 | 191 | 714 | 125 | 144 |
 | [Danish](#non-curated-languages) | 50 | 211 | 10 | 2705 | 191 | 444 | 125 | 145 |
 | [Dutch](#non-curated-languages) | 49 | 1993 | 10 | 2160 | 191 | 444 | 125 | 144 |
 | [Finnish](#non-curated-languages) | 49 | 1993 | 10 | 2160 | 191 | 444 | 125 | 144 |
 | [French](#french-français) | 25 | 118 | 10 | 1512 | 191 | 378 | 125 | 123 |
-| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | 7 | ✔️ | ✔️ | ✔️ | ✔️ |
+| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | 7 | ✔️ | ✔️ | ✔️ | 1 |
 | [Hungarian](#non-curated-languages) | 49 | 118 | 10 | 2160 | 191 | 709 | 125 | 145 |
-| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | 2 | ✔️ | ✔️ | ✔️ | ✔️ |
-| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | 21 | ✔️ | 35 | ✔️ | ✔️ |
+| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | 2 | ✔️ | ✔️ | ✔️ | 1 |
+| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | 21 | ✔️ | 35 | ✔️ | 1 |
 | [Korean](#koreana-한국어) | 47 | 55 | 6 | 1022 | 43 | 272 | 125 | 49 |
 | [Norwegian Bokmål](#non-curated-languages) | 67 | 693 | 15 | 2880 | 191 | 444 | 125 | 145 |
 | [Polish](#polish-polski) | 26 | 1993 | 10 | 2160 | 191 | 444 | 125 | 145 |
 | [European Portuguese](#portuguese-português-europeu) | 1 | 160 | 1 | 1465 | 18 | 390 | 98 | 138 |
-| [Brazilian Portuguese](#brazilian-português) | ✔️ | 1993 | ✔️ | 403 | ✔️ | ✔️ | ✔️ | ✔️ |
+| [Brazilian Portuguese](#brazilian-português) | ✔️ | 1993 | ✔️ | 403 | ✔️ | ✔️ | ✔️ | 1 |
 | [Romanian](#non-curated-languages) | 49 | 1985 | 16 | 2885 | 191 | 709 | 125 | 145 |
 | [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | 33 | ✔️ | ✔️ | ✔️ | 1 |
 | [European Spanish](#spanish-español-de-españa) | 26 | 1993 | 8 | 1563 | 191 | 448 | 125 | 144 |
@@ -43,6 +43,10 @@
 
 - [statsweb_schinese.vdf](community/stats_website/statsweb_schinese.vdf) has 1 untranslated strings.
 - [reactivedrop_schinese.txt](resource/reactivedrop_schinese.txt) has 45 untranslated strings.
+
+### Upcoming Release Notes
+
+- [20230420_schinese.xml](release_notes/20230420_schinese.xml) has 15 indented lines.
 
 </details>
 
@@ -653,6 +657,10 @@
 
 - [reactivedrop_german.txt](resource/reactivedrop_german.txt) has 7 untranslated strings.
 
+### Upcoming Release Notes
+
+- [20230420_german.xml](release_notes/20230420_german.xml) has 15 indented lines.
+
 </details>
 
 <details><summary>
@@ -664,6 +672,10 @@
 ### Strings
 
 - [reactivedrop_italian.txt](resource/reactivedrop_italian.txt) has 2 untranslated strings.
+
+### Upcoming Release Notes
+
+- [20230420_italian.xml](release_notes/20230420_italian.xml) has 15 indented lines.
 
 </details>
 
@@ -677,6 +689,10 @@
 
 - [vgui_japanese.txt](platform/vgui_japanese.txt) has 35 untranslated strings.
 - [reactivedrop_japanese.txt](resource/reactivedrop_japanese.txt) has 21 untranslated strings.
+
+### Upcoming Release Notes
+
+- [20230420_japanese.xml](release_notes/20230420_japanese.xml) has 15 indented lines.
 
 </details>
 
@@ -1203,6 +1219,10 @@
 
 - [closecaption_brazilian.txt](resource/closecaption_brazilian.txt) has 1993 untranslated strings.
 - [reactivedrop_brazilian.txt](resource/reactivedrop_brazilian.txt) has 403 untranslated strings.
+
+### Upcoming Release Notes
+
+- [20230420_brazilian.xml](release_notes/20230420_brazilian.xml) has 15 indented lines.
 
 </details>
 
