@@ -62,6 +62,7 @@ Ecco alcuni momenti salienti dagli aggiornamenti precedenti allo scorso annivers
 [*][b]Granate a Gas TG-05:[/b] Aggiornato l'aspetto dell'arma per differenziarla meglio dalle armi dello stesso tipo.
 [*]Corretta l'animazione di scansione per le sentinelle che si desincronizza dall'angolo di inattività dell'arma.
 [*]Corrette le incongruenze nel codice di controllo delle collisioni, soprattutto per quanto riguarda i soldati bot e i proiettili.
+		[*]Fixed a bug sometimes preventing the use of off-hand items on controller.
 [/list]
 
 [h2]Varie[/h2]
@@ -75,6 +76,15 @@ Ecco alcuni momenti salienti dagli aggiornamenti precedenti allo scorso annivers
 [*]Il pannello della chat ora può essere aperto in giocatore singolo (per l'uso nelle sfide personalizzate).
 [*]Miglioramento dei bot nelle mappe Deathmatch. Dovrebbero bloccarsi di meno, girare con tempi più ragionevoli e ora si uniranno automaticamente se si avvia una mappa Deathmatch in giocatore singolo.
 [*]Corretto l'istruttore di gioco che dava informazioni errate su come respawnare in modalità Deathmatch e sono state riordinate le indicazioni sull'HUD.
+		[*]Improved bots' ability to avoid danger and flank shieldbugs.
+		[*]Bots are now much less likely to teleport in front of a player.
+		[*]Marines no longer always face east when starting a mission in first or third person.
+		[*]Fixed some tooltips being too small to comfortably read.
+		[*]When selecting a text input with Steam Big Picture enabled, the on-screen keyboard will open.
+		[*]Added a mission recording list and an option to automatically record missions.
+		[*]The game now updates its state more frequently during slow motion.
+		[*]Performing an override on a locked computer now always goes to the menu rather than downloading critical data or doing nothing.
+		[*]When finishing a bonus or deathmatch map, the game now selects a default next mission.
 [/list]
 
 [h2]Mapping[/h2]
@@ -103,6 +113,13 @@ Ecco alcuni momenti salienti dagli aggiornamenti precedenti allo scorso annivers
 [*]Le mappe del TileGen ora utilizzano toolsskybox per la chiusura del livello, consentendo l'uso di light_environment e light_directional.
 [*]asw_vehicle_jeep ora è funzionante. I veicoli disponibili senza add-on sono il Dune Buggy di Half-Life 2 (models/buggy.mdl, scripts/vehicles/jeep_test.txt) che ha spazio per un guidatore, e la Muscle Car di Half-Life 2: Episode Two (models/vehicle.mdl, scripts/vehicles/jalopy.txt) che ha spazio per un guidatore e un passeggero.
 [*]trigger_asw_button_area dispone ora di opzioni per sovrascrivere i suggerimenti dell'interfaccia utente con un testo personalizzato.
+		[*]trigger_asw_computer_area has been made more customizable:
+[list]
+		[*]Mail and news articles can now optionally end with an image. Use Image, ImageWide, and ImageTall to add an image to a news file. For mail, use MailBody1Image, etc.
+		[*]Reactor status can be controlled via an input on the computer area, as an alternative to the old method of having an objective with a specific icon.
+		[*]Weather, reactor status, and stock market info can now be customized with keyvalues files. Additionally, the current temperature is no longer randomized every time the weather report is opened.
+[/list]
+		[*]func_asw_fade now ignores collisions with grenades by default.
 [/list]
 
 [h2]VScript[/h2]

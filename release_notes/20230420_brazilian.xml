@@ -62,6 +62,7 @@ Aqui estão alguns destaques das atualizações desde o aniversário anterior:
 [*][b]Granadas de Gás TG-05:[/b] Atualizado a aparência do item para ajudar a diferenciá-lo de outros tipos de granadas.
 [*]Corrigido a animação de escaneamento para sentinelas que dessincronizava o ângulo de quando a arma estava inativa.
 [*]Corrigido inconsistências no código de verificação de colisão, principalmente relacionadas a fuzileiros e projéteis.
+		[*]Fixed a bug sometimes preventing the use of off-hand items on controller.
 [/list]
 
 [h2]Diversos[/h2]
@@ -75,6 +76,15 @@ Aqui estão alguns destaques das atualizações desde o aniversário anterior:
 [*]O painel de bate-papo agora pode ser aberto no modo singleplayer (para uso em desafios personalizados).
 [*]Bots aprimorados em mapas de morte súbita. Eles devem ficar menos presos, girar em momentos melhores e agora se juntarão automaticamente se você iniciar um mapa de morte súbita no modo singleplayer.
 [*]Corrigido o instrutor do jogo dando informações incorretas sobre como reaparecer no modo de morte súbita e arrumado os prompts no HUD.
+		[*]Improved bots' ability to avoid danger and flank shieldbugs.
+		[*]Bots are now much less likely to teleport in front of a player.
+		[*]Marines no longer always face east when starting a mission in first or third person.
+		[*]Fixed some tooltips being too small to comfortably read.
+		[*]When selecting a text input with Steam Big Picture enabled, the on-screen keyboard will open.
+		[*]Added a mission recording list and an option to automatically record missions.
+		[*]The game now updates its state more frequently during slow motion.
+		[*]Performing an override on a locked computer now always goes to the menu rather than downloading critical data or doing nothing.
+		[*]When finishing a bonus or deathmatch map, the game now selects a default next mission.
 [/list]
 
 [h2]Criação de mapas[/h2]
@@ -103,6 +113,13 @@ Aqui estão alguns destaques das atualizações desde o aniversário anterior:
 [*]Os mapas TileGen agora usam toolsskybox para um selo de nível, permitindo o uso de light_environment e light_directional.
 [*]asw_vehicle_jeep agora está funcional. Os veículos disponíveis sem add-ons são o buggy do Half-Life 2 (models/buggy.mdl, scripts/vehicles/jeep_test.txt) que permite um motorista, e o muscle car do Half-Life 2: Episode Two (models/ veículo.mdl, scripts/veículos/jalopy.txt) que permite um motorista e um passageiro.
 [*]trigger_asw_button_area agora tem opções para substituir dicas de interface do usuário com texto personalizado.
+		[*]trigger_asw_computer_area has been made more customizable:
+[list]
+		[*]Mail and news articles can now optionally end with an image. Use Image, ImageWide, and ImageTall to add an image to a news file. For mail, use MailBody1Image, etc.
+		[*]Reactor status can be controlled via an input on the computer area, as an alternative to the old method of having an objective with a specific icon.
+		[*]Weather, reactor status, and stock market info can now be customized with keyvalues files. Additionally, the current temperature is no longer randomized every time the weather report is opened.
+[/list]
+		[*]func_asw_fade now ignores collisions with grenades by default.
 [/list]
 
 [h2]VScript[/h2]
