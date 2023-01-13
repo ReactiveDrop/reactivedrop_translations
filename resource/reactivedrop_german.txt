@@ -7856,5 +7856,9 @@
 "[english]rd_demo_confirm_delete_title"		"Permanently delete this recording?"
 "rd_demo_confirm_delete_message"		"Bist du sicher, dass du \"%s1\" löschen willst? Dies kann nicht rückgängig gemacht werden."
 "[english]rd_demo_confirm_delete_message"		"Are you sure you want to delete \"%s1\"? This cannot be undone."
+		"rd_demo_rename_title"		"Rename Mission Recording"
+		"[english]rd_demo_rename_title"		"Rename Mission Recording"
+		"rd_demo_rename_message"		"What should the new filename for this recording be?"
+		"[english]rd_demo_rename_message"		"What should the new filename for this recording be?"
 }
 }
