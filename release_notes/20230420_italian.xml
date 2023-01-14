@@ -62,7 +62,7 @@ Ecco alcuni momenti salienti dagli aggiornamenti precedenti allo scorso annivers
 [*][b]Granate a Gas TG-05:[/b] Aggiornato l'aspetto dell'arma per differenziarla meglio dalle armi dello stesso tipo.
 [*]Corretta l'animazione di scansione per le sentinelle che si desincronizza dall'angolo di inattività dell'arma.
 [*]Corrette le incongruenze nel codice di controllo delle collisioni, soprattutto per quanto riguarda i soldati bot e i proiettili.
-		[*]Fixed a bug sometimes preventing the use of off-hand items on controller.
+[*]Corretto un bug che a volte impediva l'uso di oggetti a mano libera sul controller.
 [/list]
 
 [h2]Varie[/h2]
@@ -76,15 +76,15 @@ Ecco alcuni momenti salienti dagli aggiornamenti precedenti allo scorso annivers
 [*]Il pannello della chat ora può essere aperto in giocatore singolo (per l'uso nelle sfide personalizzate).
 [*]Miglioramento dei bot nelle mappe Deathmatch. Dovrebbero bloccarsi di meno, girare con tempi più ragionevoli e ora si uniranno automaticamente se si avvia una mappa Deathmatch in giocatore singolo.
 [*]Corretto l'istruttore di gioco che dava informazioni errate su come respawnare in modalità Deathmatch e sono state riordinate le indicazioni sull'HUD.
-		[*]Improved bots' ability to avoid danger and flank shieldbugs.
-		[*]Bots are now much less likely to teleport in front of a player.
-		[*]Marines no longer always face east when starting a mission in first or third person.
-		[*]Fixed some tooltips being too small to comfortably read.
-		[*]When selecting a text input with Steam Big Picture enabled, the on-screen keyboard will open.
-		[*]Added a mission recording list and an option to automatically record missions.
-		[*]The game now updates its state more frequently during slow motion.
-		[*]Performing an override on a locked computer now always goes to the menu rather than downloading critical data or doing nothing.
-		[*]When finishing a bonus or deathmatch map, the game now selects a default next mission.
+[*]Migliorata la capacità dei bot di evitare i pericoli e di affiancare gli shieldbug.
+[*]I bot sono ora molto meno propensi a teletrasportarsi davanti a un giocatore.
+[*]I soldati non sono più sempre rivolti verso est quando iniziano una missione in prima o terza persona.
+[*]Corretti alcuni consigli troppo piccoli per essere letti comodamente.
+[*]Quando si seleziona un input di testo con Steam Big Picture attivato, si apre la tastiera su schermo.
+[*]Aggiunto un elenco di registrazione delle missioni e un'opzione per la registrazione automatica delle missioni.
+[*]Il gioco ora aggiorna il suo stato più frequentemente durante il rallentatore.
+[*]L'esecuzione di un override su un computer bloccato ora porta sempre al menu anziché scaricare dati critici o non fare nulla.
+[*]Quando si termina una mappa bonus o deathmatch, il gioco ora seleziona una missione successiva predefinita.
 [/list]
 
 [h2]Mapping[/h2]
@@ -113,13 +113,13 @@ Ecco alcuni momenti salienti dagli aggiornamenti precedenti allo scorso annivers
 [*]Le mappe del TileGen ora utilizzano toolsskybox per la chiusura del livello, consentendo l'uso di light_environment e light_directional.
 [*]asw_vehicle_jeep ora è funzionante. I veicoli disponibili senza add-on sono il Dune Buggy di Half-Life 2 (models/buggy.mdl, scripts/vehicles/jeep_test.txt) che ha spazio per un guidatore, e la Muscle Car di Half-Life 2: Episode Two (models/vehicle.mdl, scripts/vehicles/jalopy.txt) che ha spazio per un guidatore e un passeggero.
 [*]trigger_asw_button_area dispone ora di opzioni per sovrascrivere i suggerimenti dell'interfaccia utente con un testo personalizzato.
-		[*]trigger_asw_computer_area has been made more customizable:
+[*]trigger_asw_computer_area è stato reso più personalizzabile:
 [list]
-		[*]Mail and news articles can now optionally end with an image. Use Image, ImageWide, and ImageTall to add an image to a news file. For mail, use MailBody1Image, etc.
-		[*]Reactor status can be controlled via an input on the computer area, as an alternative to the old method of having an objective with a specific icon.
-		[*]Weather, reactor status, and stock market info can now be customized with keyvalues files. Additionally, the current temperature is no longer randomized every time the weather report is opened.
+[*]Le mail e le notizie ora possono terminare con un'immagine. Usare Image, ImageWide e ImageTall per aggiungere un'immagine a un file di notizie. Per la posta, usare MailBody1Image, ecc.
+[*]Lo stato del reattore può essere controllato tramite un input nell'area del computer, in alternativa al vecchio metodo di avere un obiettivo con un'icona specifica.
+[*]Le informazioni sul meteo, sullo stato dei reattori e sul mercato azionario possono ora essere personalizzate con file di valori chiave. Inoltre, la temperatura corrente non è più randomizzata ogni volta che si apre il bollettino meteo.
 [/list]
-		[*]func_asw_fade now ignores collisions with grenades by default.
+[*]func_asw_fade ora ignora le collisioni con le granate per impostazione predefinita.
 [/list]
 
 [h2]VScript[/h2]

@@ -7810,7 +7810,7 @@
 "[english]rd_enter_vehicle_passenger"		"Ride Vehicle"
 "rd_enter_vehicle_full"		"Veicolo al Completo"
 "[english]rd_enter_vehicle_full"		"Vehicle is Full"
-"rd_demo_list_title"		"Registrazione Missioni"
+"rd_demo_list_title"		"Registrazioni di Missione"
 "[english]rd_demo_list_title"		"Mission Recordings"
 "rd_demo_cant_play_failed_open"		"Impossibile leggere il file demo."
 // This message appears both if a filesystem error occurs or if the demo had an unrecoverable error in it (such as when the game crashes while recording a demo).
@@ -7856,9 +7856,9 @@
 "[english]rd_demo_confirm_delete_title"		"Permanently delete this recording?"
 "rd_demo_confirm_delete_message"		"Sei sicuro di voler cancellare \"%s1\"? Quest'azione non può essere annullata."
 "[english]rd_demo_confirm_delete_message"		"Are you sure you want to delete \"%s1\"? This cannot be undone."
-		"rd_demo_rename_title"		"Rename Mission Recording"
-		"[english]rd_demo_rename_title"		"Rename Mission Recording"
-		"rd_demo_rename_message"		"What should the new filename for this recording be?"
-		"[english]rd_demo_rename_message"		"What should the new filename for this recording be?"
+"rd_demo_rename_title"		"Rinomina Registrazione di Missione"
+"[english]rd_demo_rename_title"		"Rename Mission Recording"
+"rd_demo_rename_message"		"Quale dovrebbe essere il nuovo nome per questa registrazione?"
+"[english]rd_demo_rename_message"		"What should the new filename for this recording be?"
 }
 }
