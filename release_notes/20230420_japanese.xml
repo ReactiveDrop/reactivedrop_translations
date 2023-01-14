@@ -62,7 +62,7 @@ TODO
 [*][b]TG-05 ガスグレネード:[/b] 他のグレネード類と見分け易くなるようにアイテムの見た目を更新。
 [*]セントリーガンがスキャンするアニメーションが停止時の角度と同期されていなかったのを修正。
 [*]衝突判定のコードに矛盾があったのを修正。BOTと投射物に関して特に顕著だった。
-		[*]Fixed a bug sometimes preventing the use of off-hand items on controller.
+[*]ゲームパッドでプレイ中に補助アイテムが使用できなくなることがあったのを修正。
 [/list]
 
 [h2]その他[/h2]
@@ -76,15 +76,15 @@ TODO
 [*]チャット画面がシングルプレイヤーでも開けるようになった(カスタムチャレンジ用)。
 [*]デスマッチマップでのBOTを改善。ハマりにくくなり、旋回速度が適切になり、シングルプレイヤーでデスマッチマップを開始した場合に自動的に参加するようになった。
 [*]デスマッチモードにてゲームインストラクターがリスポーンの方法について正しくない情報を出していたのを修正し、HUD上に出される指示を整理した。
-		[*]Improved bots' ability to avoid danger and flank shieldbugs.
-		[*]Bots are now much less likely to teleport in front of a player.
-		[*]Marines no longer always face east when starting a mission in first or third person.
-		[*]Fixed some tooltips being too small to comfortably read.
-		[*]When selecting a text input with Steam Big Picture enabled, the on-screen keyboard will open.
-		[*]Added a mission recording list and an option to automatically record missions.
-		[*]The game now updates its state more frequently during slow motion.
-		[*]Performing an override on a locked computer now always goes to the menu rather than downloading critical data or doing nothing.
-		[*]When finishing a bonus or deathmatch map, the game now selects a default next mission.
+[*]BOTが危険な状況を避けたりシールドバグ相手に回り込む行動を改善した。
+[*]BOTがプレイヤーの目の前にテレポートしにくくなった。
+[*]一人称か三人称モードでのミッション開始時に隊員が必ず東向きになっている事は無くなった。
+[*]一部のヒントが小さすぎて読みにくかったのを修正。
+[*]SteamのBig Pictureモードを使用中にテキスト入力欄を選択した時、スクリーンキーボードが開くようになった。
+[*]ミッション記録リストと自動ミッション記録のオプションを追加した。
+[*]スローモーション中にゲームの状態がより仔細に計算されるようになった。
+[*]ロックされたコンピューターのハッキング時に勝手に重要データをダウンロードしたり何もしなかったりするのではなく、必ずメニューが開くようになった。
+[*]ボーナスミッションやデスマッチマップの終了時に、デフォルトで設定された次のミッションが選択されるようになった。
 [/list]
 
 [h2]マップ作成[/h2]
@@ -113,13 +113,13 @@ TODO
 [*]TileGenのマップはlevel sealにtoolsskyboxを使用するようになり、light_environmentとlight_directionalが使用可能になった。
 [*]asw_vehicle_jeepが機能するようになった。アドオン無しで使える物はハーフライフ2の一人乗りバギー(models/buggy.mdl, scripts/vehicles/jeep_test.txt)と、ハーフライフ2:エピソード2の運転席と助手席があるマッスルカー(models/vehicle.mdl, scripts/vehicles/jalopy.txt)です。
 [*]trigger_asw_button_areaがUIのヒントを設定した文章で上書きするオプションを持つようになった。
-		[*]trigger_asw_computer_area has been made more customizable:
+[*]trigger_asw_computer_areaはより多くのカスタマイズが可能になった:
 [list]
-		[*]Mail and news articles can now optionally end with an image. Use Image, ImageWide, and ImageTall to add an image to a news file. For mail, use MailBody1Image, etc.
-		[*]Reactor status can be controlled via an input on the computer area, as an alternative to the old method of having an objective with a specific icon.
-		[*]Weather, reactor status, and stock market info can now be customized with keyvalues files. Additionally, the current temperature is no longer randomized every time the weather report is opened.
+[*]メールとニュース記事は末尾に画像を入れられるようになった。Image、ImageWide、ImageTallを使用してニュースファイルに画像を追加できる。メールにはMailBody1Imageなどを使用する。
+[*]動力炉の状態は特定の固定値を表示する旧来の手法の他に、computer areaへの入力経由で制御可能になった。
+[*]天気、動力炉の状態、株価情報はファイルのkeyvaluesでカスタム可能になった。それと同時に、天気予報を開く度に気温がランダムには設定されなくなった。
 [/list]
-		[*]func_asw_fade now ignores collisions with grenades by default.
+[*]func_asw_fadeはデフォルト設定ではグレネードとの衝突判定を無視するようになった。
 [/list]
 
 [h2]VScript[/h2]
