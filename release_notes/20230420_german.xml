@@ -62,7 +62,7 @@ Hier sind einige Highlights der Updates seit dem letzten Jahrestag:
 [*][b]TG-05 Gasgranaten:[/b] Das Aussehen des Gegenstandes wurde aktualisiert, um ihn von anderen Granaten zu unterscheiden.
 [*]Die Scan-Animation für Wächter, die aus dem Ruhewinkel des Geschützes ausscheren, wurde behoben.
 [*]Unstimmigkeiten im Code der Kollisionsprüfung wurden behoben, vor allem im Zusammenhang mit Bots und Geschossen.
-		[*]Fixed a bug sometimes preventing the use of off-hand items on controller.
+[*]Ein Fehler wurde behoben, der manchmal die Verwendung Zusatzausrüstung auf dem Controller verhinderte.
 [/list]
 
 [h2]Verschiedenes[/h2]
@@ -76,15 +76,15 @@ Hier sind einige Highlights der Updates seit dem letzten Jahrestag:
 [*]Das Chat-Panel kann jetzt im Einzelspieler geöffnet werden (zur Verwendung in benutzerdefinierten Herausforderungen).
 [*]Die Bots in Deathmatch-Karten wurden verbessert. Sie sollten weniger stecken bleiben, sich zu vernünftigeren Zeiten drehen und werden jetzt automatisch beitreten, wenn du eine Deathmatch-Karte im Einzelspielermodus startest.
 [*]Der Spielanleiter hat falsche Informationen über den Respawn im Deathmatch-Modus angezeigt. Außerdem wurden die Eingabeaufforderungen auf dem HUD aufgeräumt.
-		[*]Improved bots' ability to avoid danger and flank shieldbugs.
-		[*]Bots are now much less likely to teleport in front of a player.
-		[*]Marines no longer always face east when starting a mission in first or third person.
-		[*]Fixed some tooltips being too small to comfortably read.
-		[*]When selecting a text input with Steam Big Picture enabled, the on-screen keyboard will open.
-		[*]Added a mission recording list and an option to automatically record missions.
-		[*]The game now updates its state more frequently during slow motion.
-		[*]Performing an override on a locked computer now always goes to the menu rather than downloading critical data or doing nothing.
-		[*]When finishing a bonus or deathmatch map, the game now selects a default next mission.
+[*]Die Fähigkeit der Bots, Gefahren auszuweichen und Schildkäfer zu flankieren, wurde verbessert.
+[*]Die Wahrscheinlichkeit, dass sich Bots vor einen Spieler teleportieren, ist jetzt viel geringer.
+[*]Spieler schauen nicht mehr immer nach Osten, wenn sie einen Einsatz in der ersten oder dritten Person starten.
+[*]Einige Tooltips waren zu klein, um sie gut lesen zu können.
+[*]Wenn du bei aktiviertem Steam-Big-Picture eine Texteingabe auswählst, wird die Bildschirmtastatur geöffnet.
+[*]Es wurde eine Einsatzaufzeichnungsliste und eine Option zur automatischen Aufzeichnung von Einsätzen hinzugefügt.
+[*]Das Spiel aktualisiert seinen Status jetzt häufiger in Zeitlupe.
+[*]Wenn du einen gesperrten Computer hackst, wird jetzt immer das Menü angezeigt, anstatt kritische Daten herunterzuladen oder nichts zu tun.
+[*]Wenn du eine Bonus- oder Deathmatch-Karte beendest, wählt das Spiel jetzt standardmäßig einen nächsten Einsatz aus.
 [/list]
 
 [h2]Mapping[/h2]
