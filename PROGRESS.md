@@ -8,7 +8,7 @@
 | [Dutch](#non-curated-languages) | 49 | 1993 | 10 | 2160 | 191 | 444 | 125 | 144 |
 | [Finnish](#non-curated-languages) | 49 | 1993 | 10 | 2160 | 191 | 444 | 125 | 144 |
 | [French](#french-français) | 25 | 118 | 10 | 1512 | 191 | 378 | 125 | 123 |
-| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | 7 | ✔️ | ✔️ | ✔️ | 1 |
+| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | 5 | ✔️ | ✔️ | ✔️ | 1 |
 | [Hungarian](#non-curated-languages) | 49 | 118 | 10 | 2160 | 191 | 709 | 125 | 145 |
 | [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | 19 | ✔️ | 35 | ✔️ | ✔️ |
@@ -655,11 +655,11 @@
 
 ### Strings
 
-- [reactivedrop_german.txt](resource/reactivedrop_german.txt) has 7 untranslated strings.
+- [reactivedrop_german.txt](resource/reactivedrop_german.txt) has 5 untranslated strings.
 
 ### Upcoming Release Notes
 
-- [20230420_german.xml](release_notes/20230420_german.xml) has 15 indented lines.
+- [20230420_german.xml](release_notes/20230420_german.xml) has 5 indented lines.
 
 </details>
 
