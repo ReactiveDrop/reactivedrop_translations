@@ -7633,6 +7633,8 @@
 "[english]RD_AdvancedSettings_VisualEffects_WeatherEffects"		"Weather Effects"
 "RD_AdvancedSettings_VisualEffects_DynamicLighting"		"动态光源"
 "[english]RD_AdvancedSettings_VisualEffects_DynamicLighting"		"Dynamic Lighting"
+		"RD_AdvancedSettings_VisualEffects_AlienShadows"		"Alien Shadows"
+		"[english]RD_AdvancedSettings_VisualEffects_AlienShadows"		"Alien Shadows"
 "RD_AdvancedSettings_VisualEffects_OtherEffects"		"其他效果"
 "[english]RD_AdvancedSettings_VisualEffects_OtherEffects"		"Other Effects"
 "RD_AdvancedSettings_VisualEffects_Beacons"		"医疗信标罩"

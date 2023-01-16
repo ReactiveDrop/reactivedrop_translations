@@ -4122,6 +4122,7 @@
 "RD_AdvancedSettings_VisualEffects"	"Visual Effects"
 "RD_AdvancedSettings_VisualEffects_WeatherEffects"	"Weather Effects"
 "RD_AdvancedSettings_VisualEffects_DynamicLighting"	"Dynamic Lighting"
+"RD_AdvancedSettings_VisualEffects_AlienShadows"	"Alien Shadows"
 "RD_AdvancedSettings_VisualEffects_OtherEffects"	"Other Effects"
 "RD_AdvancedSettings_VisualEffects_Beacons"	"Beacon Warp"
 "RD_AdvancedSettings_VisualEffects_MarineGibs"	"Marine Gibs"
