@@ -113,13 +113,13 @@ Hier sind einige Highlights der Updates seit dem letzten Jahrestag:
 [*]TileGen-Karten verwenden jetzt toolsskybox für ein level seal und ermöglichen die Verwendung von light_environment und light_directional.
 [*]asw_vehicle_jeep ist jetzt funktionsfähig. Verfügbare Fahrzeuge ohne Add-ons sind der Dünenbuggy aus Half-Life 2 (models/buggy.mdl, scripts/vehicles/jeep_test.txt), der einen Fahrer zulässt, und das Muscle Car aus Half-Life 2: Episode Two (models/vehicle.mdl, scripts/vehicles/jalopy.txt), das einen Fahrer und einen Passagier zulässt.
 [*]trigger_asw_button_area hat jetzt Optionen, um UI-Hinweise mit eigenem Text zu überschreiben.
-		[*]trigger_asw_computer_area has been made more customizable:
+[*]trigger_asw_computer_area wurde besser anpassbar gemacht:
 [list]
-		[*]Mail and news articles can now optionally end with an image. Use Image, ImageWide, and ImageTall to add an image to a news file. For mail, use MailBody1Image, etc.
-		[*]Reactor status can be controlled via an input on the computer area, as an alternative to the old method of having an objective with a specific icon.
-		[*]Weather, reactor status, and stock market info can now be customized with keyvalues files. Additionally, the current temperature is no longer randomized every time the weather report is opened.
+[*]Mail- und Nachrichten können jetzt optional mit einem Bild enden. Verwende Image, ImageWide und ImageTall, um ein Bild zu einer News-Datei hinzuzufügen. Für Mails verwendest du MailBody1Image, usw.
+[*]Der Reaktorstatus kann über eine Eingabe im Computerbereich gesteuert werden, als Alternative zu der alten Methode, bei der ein Objektiv mit einem bestimmten Symbol verwendet wurde.
+[*]Wetter, Reaktorstatus und Börseninformationen können jetzt mit Keyvalues-Dateien angepasst werden. Außerdem wird die aktuelle Temperatur nicht mehr jedes Mal zufällig angezeigt, wenn der Wetterbericht geöffnet wird.
 [/list]
-		[*]func_asw_fade now ignores collisions with grenades by default.
+[*]func_asw_fade ignoriert jetzt standardmäßig Kollisionen mit Granaten.
 [/list]
 
 [h2]VScript[/h2]
