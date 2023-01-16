@@ -660,6 +660,7 @@
 "npc_headcrab_fasts"	"Fast Headcrabs"
 "npc_headcrab_poison"	"Poison Headcrab"
 "npc_headcrab_poisons"	"Poison Headcrabs"
+// headcrab zombie of a combine soldier https://www.youtube.com/watch?v=MpoKQDREKDA
 "npc_zombine"	"Zombine"
 "npc_zombines"	"Zombine"
 "npc_combine_s"	"Combine Soldier"

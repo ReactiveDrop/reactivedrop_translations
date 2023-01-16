@@ -1286,6 +1286,7 @@
 		"npc_headcrab_poisons"		"Poison Headcrabs"
 		"[english]npc_headcrab_poisons"		"Poison Headcrabs"
 		"npc_zombine"		"Zombine"
+		// headcrab zombie of a combine soldier https://www.youtube.com/watch?v=MpoKQDREKDA
 		"[english]npc_zombine"		"Zombine"
 		"npc_zombines"		"Zombine"
 		"[english]npc_zombines"		"Zombine"
