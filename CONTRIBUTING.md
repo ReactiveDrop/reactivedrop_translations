@@ -32,7 +32,10 @@ There are multiple ways to add or edit your translation of the game:
 
 4. Find some untranslated lines – compared to the translated ones, they are **indented with two tabs**!
 
-   ![Two lines to translate, with an orange square emphasising the indentation.](https://user-images.githubusercontent.com/1540885/210736935-643c5e14-7fca-46b0-8924-c45b734359ad.png)
+   ![Two lines to translate, with an orange square emphasising the indentation.](https://user-images.githubusercontent.com/1540885/210736935-643c5e14-7fca-46b0-8924-c45b734359ad.png)  
+   You can find all of them at once through searching with the regex `^\t\t` like this:  
+   ![image](https://user-images.githubusercontent.com/69652463/213093897-08f6b1c3-7cc3-47d3-bb13-a383ca8ef17b.png)
+
 
 5. Translate the lines, paying attention to not remove the quotes `"` at the start and at the end of the string.
    Don't edit the lines starting with `[english]`: they're just there to provide some context for the translation!
