@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<content><string id="body">A hotfix to address issues in ranked play has been released.
+
+[list]
+[*]Fixed grub stomping counting as alien kills in places it was not intended to, such as the achievements Smoking Barrels and Damage Amped.
+[*]Fixed marines getting stuck in fire extinguisher particles, staircases, and terrain.
+[/list]</string><string id="subtitle"></string><string id="summary"></string><string id="title">Alien Swarm: Reactive Drop Update - January 19, 2023</string></content>
