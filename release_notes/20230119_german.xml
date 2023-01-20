@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<content><string id="body">Ein Hotfix, der Probleme in der Rangliste zu beheben, wurde veröffentlicht.
+
+[list]
+[*]Es wurde behoben, dass das Stampfen von Larven an manchen Stellen als Alien-Kills gezählt wurde, an denen dies nicht beabsichtigt war, wie z.B. bei den Erfolgen Räucherfässer und Schadensverstärkt.
+[*]Soldaten bleiben nicht mehr in Feuerlöscherpartikeln, Treppen und Geländern stecken.
+[/list]</string><string id="subtitle"></string><string id="summary"></string><string id="title">Alien Swarm: Reactive Drop Update - 19. Januar 2023</string></content>
