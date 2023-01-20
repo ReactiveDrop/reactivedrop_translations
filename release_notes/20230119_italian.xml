@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<content><string id="body">Un hotfix per risolvere dei problemi nelle partite classificate.
+
+[list]
+[*]Sistemato il conteggio delle larve come uccisioni di alieni dove non era previsto, come per gli achievement Barili Fumanti e Danno Amplificato.
+[*]Sistemati i soldati che si bloccavano nelle particelle degli estintori, nelle scale e nel terreno.
+[/list]</string><string id="subtitle"></string><string id="summary"></string><string id="title">Aggiornamento di Alien Swarm: Reactive Drop - 19 Gennaio 2023</string></content>
