@@ -2,6 +2,6 @@
 <content><string id="body">ランクマッチ導入後に発見されている問題への対処用hotfixです。
 
 [list]
-[*]「火を吹くバレル」や「ダメージ増幅」など様々な点において、グラブを踏み潰すのがエイリアンのキル数としてカウントされていたのを修正。
+[*]「火を吹くバレル」や「ダメージ増幅」の実績など様々な点において、グラブを踏み潰すのがエイリアンのキル数としてカウントされていたのを修正。
 [*]海兵隊が消火器の粒子、階段、地形に埋まって動けなくなるのを修正。
 [/list]</string><string id="subtitle"></string><string id="summary"></string><string id="title">Alien Swarm: Reactive Drop アップデート - 2023年1月19日</string></content>
