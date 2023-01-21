@@ -5059,12 +5059,12 @@
 "rd_so_author_bur_nable"		"Из дневника Бура Нейбла («Нанотрасэн»)"
 "[english]rd_so_author_bur_nable"		"From the journal of Bur Nable (Nanotrasen)"
 "rd_so_author_helvetica_scenario"		"Аннотация от доктора Гельветики Сценарий (УПК)"
-// Управление по поддержанию консенсуса
+// Office of Consensus Maintenance
 "[english]rd_so_author_helvetica_scenario"		"Annotation from Dr. Helvetica Scenario (OCM)"
 "rd_so_author_isaac_kleiner"		"Из дневника доктора Айзека Кляйнера (Чёрная меза)"
 "[english]rd_so_author_isaac_kleiner"		"From the journal of Dr. Isaac Kleiner (Black Mesa)"
 "rd_so_author_julie_duval"		"Из журнала профессора Жюли Дюваль (МВС)"
-// Межзвёздные вооружённые силы
+// Interstellar Armed Forces
 "[english]rd_so_author_julie_duval"		"From the journal of Prof. Julie Duval (IAF)"
 "rd_so_author_shaun_ming"		"Из дневника Шона Минга («СинТек»)"
 "[english]rd_so_author_shaun_ming"		"From the journal of Shaun Ming (SynTek)"
