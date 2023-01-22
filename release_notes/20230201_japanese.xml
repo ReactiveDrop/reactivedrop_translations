@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<content><string id="body">今日はInterstellar Armed Forcesの英雄たちシーズン8の開幕です。そしてランクマッチ指定サーバーでプレイ可能なリストに更に多くのワークショップのミッションとチャレンジを追加しました。
+
+[h1]キャンペーンとボーナスミッション[/h1]
+下記のワークショップのキャンペーンとミッションをランクマッチ対象リストに追加しました:
+[list]
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2821100493]Blitz Campaign[/url] 製作者: _Vertigo_, jhheight, Dmitriy
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=914071790]Reduction[/url] 製作者: XFunc_CaRteR (備考: ミッション5は戦闘が無いのでスコアは記録されません)
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=1519884777]Crude Infestation[/url] 製作者: jhheight
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=1313628775]Nitro Canister MR[/url] 製作者: Tien, Orange
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=1312255876]Warehouse[/url] 製作者: Sergei 'STALKER4732' Lavrinenco
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=1109961848]Chemical Facility[/url] 製作者: Apairofkings
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=935549703]Delusion[/url] 製作者: ShadowsInRain
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=930171604]Ground Zero[/url] 製作者: Spectre13
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=880002363]The Beginning[/url] 製作者: Kenny_WWE
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=848331447]Nest[/url] 製作者: Dmitriy
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2120875626]Absolute Madness[/url] 製作者: Orange
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=915370759]Ancient Ruins[/url] 製作者: Cryora
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=914421802]Edge[/url] 製作者: Jester_prince
+[/list]
+
+[h1]チャレンジ[/h1]
+下記のワークショップのチャレンジをランクマッチ対象リストに追加しました:
+[list]
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=1584605820]Bounds[/url] 製作者: Reit
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=1757080639]Darkness[/url] 製作者: jhheight
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=937399666]Kill or Die[/url] 製作者: Orange
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2592381597]Invisible Aliens[/url] 製作者: jhheight
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=1297056081]ASBI 3.0[/url] 製作者: Revenant
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=937405470]ASBI Kill or Die[/url] 製作者: Orange
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2921394571]ASBI Bounds[/url] 製作者: Reit and jhheight
+[/list]
+
+[h1]スコア計算の変更[/h1]
+更に、同じマップを繰り返しプレイし続けた時にどのように報酬が減少していくかを変更しました。
+
+『Interstellar Armed Forcesの英雄たち』における報酬の減少は立て続けに同じミッションをプレイすることで発生します。最後にランクマッチをプレイしてから2時間以上経っているか、直近6回以内にそのミッションをプレイしていないなら、繰り返しのプレイではないと判断されます。
+
+報酬の減少が発生している場合、そのミッションを繰り返しプレイした回数によって、スコア倍率が決定されるように変更しました。
+
+[table]
+[tr][th]繰り返し回数[/th][th]0[/th][th]1[/th][th]2[/th][th]3[/th][th]4[/th][th]5[/th][th]6以上[/th][/tr]
+[tr][th]変更前の倍率[/th][td]100%[/td][td]25%[/td][td]25%[/td][td]25%[/td][td]25%[/td][td]25%[/td][td]25%[/td][/tr]
+[tr][th]変更後の倍率[/th][td]100%[/td][td]50%[/td][td]25%[/td][td]13%[/td][td]6%[/td][td]3%[/td][td]1.5%[/td][/tr]
+[/table]</string><string id="subtitle"></string><string id="summary"></string><string id="title">Alien Swarm: Reactive Drop アップデート - 2023年2月1日</string></content>
