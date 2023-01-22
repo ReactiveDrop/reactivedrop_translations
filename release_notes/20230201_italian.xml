@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<content><string id="body">Oggi inizia la stagione 8 di Eroi delle Forze Armate Interstellari e stiamo aggiungendo altre missioni e sfide del Workshop all'elenco dei contenuti che potrete giocare sui server partecipanti.
+
+[h1]Campagne e Missioni Bonus[/h1]
+Le seguenti campagne e missioni del Workshop sono state aggiunte all'elenco dei contenuti disponibili nelle partite classificate:
+[list]
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2821100493]Blitz Campaign[/url] di _Vertigo_, jhheight e Dmitriy
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=914071790]Reduction[/url] di XFunc_CaRteR (nota: La missione 5 non viene conteggiata perché non ci sono combattimenti)
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=1519884777]Crude Infestation[/url] di jhheight
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=1313628775]Nitro Canister MR[/url] di Tien e Orange
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=1312255876]Warehouse[/url] di Sergei 'STALKER4732' Lavrinenco
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=1109961848]Chemical Facility[/url] di Apairofkings
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=935549703]Delusion[/url] di ShadowsInRain
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=930171604]Ground Zero[/url] di Spectre13
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=880002363]The Beginning[/url] di Kenny_WWE
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=848331447]Nest[/url] di Dmitriy
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2120875626]Absolute Madness[/url] di Orange
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=915370759]Ancient Ruins[/url] di Cryora
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=914421802]Edge[/url] di Jester_prince
+[/list]
+
+[h1]Sfide[/h1]
+Le seguenti modalità sfida del Workshop sono ora disponibili nelle partite classificate:
+[list]
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=1584605820]Bounds[/url] di Reit
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=1757080639]Darkness[/url] di jhheight
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=937399666]Kill or Die[/url] di Orange
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2592381597]Invisible Aliens[/url] di jhheight
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=1297056081]ASBI 3.0[/url] di Revenant
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=937405470]ASBI Kill or Die[/url] di Orange
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2921394571]ASBI Bounds[/url] di Reit e jhheight
+[/list]
+
+[h1]Cambiamento al Punteggio[/h1]
+Inoltre, stiamo cambiando il modo in cui il rendimento diminuisce giocando sempre la stessa mappa.
+
+In Eroi delle Forze Armate Interstellari i rendimenti diminuiscono quando si gioca la stessa missione più volte in rapida successione. Se sono passate 2 o più ore dall'ultima missione HoIAF o se non si è ripetuta la missione nell'arco delle ultime 6 missioni giocate, si considera che la missione non sia stata ripetuta.
+
+Stiamo modificando il moltiplicatore di punteggio per i rendimenti in diminuzione, in modo da farlo scalare in base al numero di volte in cui si è ripetuta la missione di recente.
+
+[table]
+[tr][th]Ripetizioni[/th][th]0[/th][th]1[/th][th]2[/th][th]3[/th][th]4[/th][th]5[/th][th]6+[/th][/tr]
+[tr][th]Vecchio Moltiplicatore[/th][td]100%[/td][td]25%[/td][td]25%[/td][td]25%[/td][td]25%[/td][td]25%[/td][td]25%[/td][/tr]
+[tr][th]Nuovo Moltiplicatore[/th][td]100%[/td][td]50%[/td][td]25%[/td][td]13%[/td][td]6%[/td][td]3%[/td][td]1.5%[/td][/tr]
+[/table]</string><string id="subtitle"></string><string id="summary"></string><string id="title">Aggiornamento di Alien Swarm: Reactive Drop - 1 Febbraio 2023</string></content>
