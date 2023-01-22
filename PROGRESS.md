@@ -10,8 +10,8 @@
 | [French](#french-français) | 25 | 118 | 10 | 1549 | 191 | 378 | 125 | 124 |
 | [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | 6 | ✔️ | ✔️ | ✔️ | 1 |
 | [Hungarian](#non-curated-languages) | 49 | 118 | 10 | 2197 | 191 | 709 | 125 | 146 |
-| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | 6 | ✔️ | ✔️ | ✔️ | 1 |
-| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | 25 | ✔️ | 35 | ✔️ | ✔️ |
+| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
+| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | 19 | ✔️ | 35 | ✔️ | ✔️ |
 | [Korean](#koreana-한국어) | 47 | 55 | 6 | 1059 | 43 | 272 | 125 | 50 |
 | [Norwegian Bokmål](#non-curated-languages) | 67 | 693 | 15 | 2917 | 191 | 444 | 125 | 146 |
 | [Polish](#polish-polski) | 26 | 1993 | 10 | 2197 | 191 | 444 | 125 | 146 |
@@ -673,13 +673,7 @@
 
 </summary>
 
-### Strings
-
-- [reactivedrop_italian.txt](resource/reactivedrop_italian.txt) has 6 untranslated strings.
-
-### Upcoming Release Notes
-
-- [20230119_italian.xml](release_notes/20230119_english.xml) is missing.
+✓ Up to date!
 
 </details>
 
@@ -692,7 +686,7 @@
 ### Strings
 
 - [vgui_japanese.txt](platform/vgui_japanese.txt) has 35 untranslated strings.
-- [reactivedrop_japanese.txt](resource/reactivedrop_japanese.txt) has 25 untranslated strings.
+- [reactivedrop_japanese.txt](resource/reactivedrop_japanese.txt) has 19 untranslated strings.
 
 </details>
 
