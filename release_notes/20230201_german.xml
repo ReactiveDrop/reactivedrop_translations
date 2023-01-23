@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<content><string id="body">Heute beginnt die Saison 8 von Helden der interstellaren Streitkräfte. Wir fügen der Liste der Inhalte, die du auf den teilnehmenden Servern spielen kannst, weitere Einsätze und Herausforderungen aus dem Workshop hinzu.
+
+[h1]Feldzüge und Bonuseinsätze[/h1]
+Die folgenden Workshop-Feldzüge und -Einsätze wurden der Liste der im Ranglistenspiel verfügbaren Inhalte hinzugefügt:
+[list]
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2821100493]Blitz Campaign[/url] von _Vertigo_, jhheight, und Dmitriy
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=914071790]Reduction[/url] von XFunc_CaRteR (Hinweis: Einsatz 5 wird nicht gewertet, da er keinen Kampf enthält)
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=1519884777]Crude Infestation[/url] von jhheight
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=1313628775]Nitro Canister MR[/url] von Tien und Orange
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=1312255876]Warehouse[/url] von Sergei 'STALKER4732' Lavrinenco
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=1109961848]Chemical Facility[/url] von Apairofkings
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=935549703]Delusion[/url] von ShadowsInRain
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=930171604]Ground Zero[/url] von Spectre13
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=880002363]The Beginning[/url] von Kenny_WWE
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=848331447]Nest[/url] von Dmitriy
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2120875626]Absolute Madness[/url] von Orange
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=915370759]Ancient Ruins[/url] von Cryora
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=914421802]Edge[/url] von Jester_prince
+[/list]
+
+[h1]Herausforderungen[/h1]
+Die folgenden Workshop-Herausforderungsmodi sind jetzt im Ranglistenspiel verfügbar:
+[list]
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=1584605820]Bounds[/url] von Reit
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=1757080639]Darkness[/url] von jhheight
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=937399666]Kill or Die[/url] von Orange
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2592381597]Invisible Aliens[/url] von jhheight
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=1297056081]ASBI 3.0[/url] von Revenant
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=937405470]ASBI Kill or Die[/url] von Orange
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2921394571]ASBI Bounds[/url] von Reit und jhheight
+[/list]
+
+[h1]Wertungsänderung[/h1]
+Außerdem ändern wir die Art und Weise, wie der abnehmende Gewinn durch das wiederholte Spielen der gleichen Karte funktioniert.
+
+Wenn du in Helden der interstellaren Streitkräfte denselben Einsatz mehrmals kurz hintereinander spielst, sinkt der Ertrag. Wenn seit deinem letzten HoIAF-Einsatz 2 oder mehr Stunden vergangen sind oder du den Einsatz innerhalb der letzten 6 Einsätze, die du gespielt hast, nicht wiederholt hast, wird davon ausgegangen, dass du den Einsatz nicht wiederholt hast.
+
+Wir ändern den Punktemultiplikator für abnehmende Erträge so, dass er mit der Anzahl der Wiederholungen der Einsätze skaliert, die du in letzter Zeit gemacht hast.
+
+[table]
+[tr][th]Wiederholungen[/th][th]0[/th][th]1[/th][th]2[/th][th]3[/th][th]4[/th][th]5[/th][th]6+[/th][/tr]
+[tr][th]Alter Multiplikator[/th][td]100%[/td][td]25%[/td][td]25%[/td][td]25%[/td][td]25%[/td][td]25%[/td][td]25%[/td][/tr]
+[tr][th]Neuer Multiplikator[/th][td]100%[/td][td]50%[/td][td]25%[/td][td]13%[/td][td]6%[/td][td]3%[/td][td]1.5%[/td][/tr]
+[/table]</string><string id="subtitle"></string><string id="summary"></string><string id="title">Alien Swarm: Reactive Drop Update - 1. Februar 2023</string></content>
