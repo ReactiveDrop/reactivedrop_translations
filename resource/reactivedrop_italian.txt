@@ -3289,7 +3289,7 @@
 "[english]ASW_WELD_DOOR_NAME"		"Seal of Quality"
 "ASW_DODGE_RANGER_SHOT_NAME"		"Sotto Tiro"
 "[english]ASW_DODGE_RANGER_SHOT_NAME"		"Under the Gun"
-"ASW_BOOMER_KILL_EARLY_NAME"		"Morte Fulminea"
+"ASW_BOOMER_KILL_EARLY_NAME"		"Pronti a Morire"
 "[english]ASW_BOOMER_KILL_EARLY_NAME"		"The Quick and the Dead"
 "ASW_FREEZE_GRENADE_NAME"		"Congelati"
 "[english]ASW_FREEZE_GRENADE_NAME"		"Stay Frosty"
