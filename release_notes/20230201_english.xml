@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<content><string id="body">Today marks the start of Heroes of the Interstellar Armed Forces season 8, and we're adding more missions and challenges from the Workshop to the list of content you can play on participating servers.
+
+[h1]Campaigns and Bonus Missions[/h1]
+The following Workshop campaigns and missions have been added to the list of content available in ranked play:
+[list]
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2821100493]Blitz Campaign[/url] by _Vertigo_, jhheight, and Dmitriy
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=914071790]Reduction[/url] by XFunc_CaRteR (note: Mission 5 is not scored as it contains no combat)
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=1519884777]Crude Infestation[/url] by jhheight
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=1313628775]Nitro Canister MR[/url] by Tien and Orange
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=1312255876]Warehouse[/url] by Sergei 'STALKER4732' Lavrinenco
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=1109961848]Chemical Facility[/url] by Apairofkings
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=935549703]Delusion[/url] by ShadowsInRain
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=930171604]Ground Zero[/url] by Spectre13
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=880002363]The Beginning[/url] by Kenny_WWE
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=848331447]Nest[/url] by Dmitriy
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2120875626]Absolute Madness[/url] by Orange
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=915370759]Ancient Ruins[/url] by Cryora
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=914421802]Edge[/url] by Jester_prince
+[/list]
+
+[h1]Challenges[/h1]
+The following Workshop challenge modes are now available in ranked play:
+[list]
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=1584605820]Bounds[/url] by Reit
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=1757080639]Darkness[/url] by jhheight
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=937399666]Kill or Die[/url] by Orange
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2592381597]Invisible Aliens[/url] by jhheight
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=1297056081]ASBI 3.0[/url] by Revenant
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=937405470]ASBI Kill or Die[/url] by Orange
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2921394571]ASBI Bounds[/url] by Reit and jhheight
+[/list]
+
+[h1]Scoring Change[/h1]
+Additionally, we are changing how diminishing returns from playing the same map over and over works.
+
+Diminishing returns happen in Heroes of the Interstellar Armed Forces when you play the same mission multiple times in quick succession. If it has been 2 or more hours since your last HoIAF mission, or you have not repeated the mission within 6 the last missions you have played, you are considered to have not repeated the mission.
+
+We are changing the score multiplier for diminishing returns so that it scales with the number of times you have repeated the mission recently.
+
+[table]
+[tr][th]Repeats[/th][th]0[/th][th]1[/th][th]2[/th][th]3[/th][th]4[/th][th]5[/th][th]6+[/th][/tr]
+[tr][th]Old Multiplier[/th][td]100%[/td][td]25%[/td][td]25%[/td][td]25%[/td][td]25%[/td][td]25%[/td][td]25%[/td][/tr]
+[tr][th]New Multiplier[/th][td]100%[/td][td]50%[/td][td]25%[/td][td]13%[/td][td]6%[/td][td]3%[/td][td]1.5%[/td][/tr]
+[/table]</string><string id="subtitle"></string><string id="summary"></string><string id="title">Alien Swarm: Reactive Drop Update - February 1, 2023</string></content>
