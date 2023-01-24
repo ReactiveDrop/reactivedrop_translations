@@ -51,7 +51,7 @@
 "[english]GameUI_JoystickAimToMovement"		"Aim to movement"
 "GameUI_JoystickAutoAttack"		"Auto attackieren"
 "[english]GameUI_JoystickAutoAttack"		"Auto attack"
-"GameUI_AutoAim"		"Autom. zielen"
+"GameUI_AutoAim"		"Zielhilfe"
 "[english]GameUI_AutoAim"		"Auto-Aim"
 "GameUI_AutoaimLabel"		"Gegner werden automatisch anvisiert"
 "[english]GameUI_AutoaimLabel"		"Aims at enemies automatically."
