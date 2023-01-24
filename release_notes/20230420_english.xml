@@ -7,6 +7,8 @@ Mysterious, seemingly harmless green glowing gems are discovered under the groun
 
 Originally released in May of 2020 and May of 2022 on the Steam Workshop, Accident 32 is a six-mission campaign which combines two three-mission campaigns into one. Marines are set out to explore the mysterious complex and headquarters of the company called "AMBER" and face many threats. A bonus "AMBER Complex" mission is included which is the first three missions combined into one.
 
+[img]{STEAM_CLAN_IMAGE}/27357479/6eec6d4976d6b0ceb9bbe4941b1fe9e2b803fbee.jpg[/img]
+
 [h1]New Campaign: Adanaxis[/h1]
 
 TODO
@@ -16,6 +18,8 @@ TODO
 As promised when the Collections screen was added, the Swarmopedia has returned, better than ever! Unlock stats, tips, and short stories about aliens by killing them in the field. Add-ons can also create their own Swarmopedia entries or add content to existing ones.
 
 With the Swarmopedia revamp comes a new screen for selecting weapons using a grid intended to speed up finding high-level weapons and help with muscle memory. Unlocking weapons by leveling up now also gives you access to their fact sheets, with precise statistics about range, damage, and more.
+
+[img]{STEAM_CLAN_IMAGE}/27357479/fefea2173b3b092fa85c0fe2e6a72891c6653862.jpg[/img]
 
 [h1]Mapping Competition 2023: "Boss Fight"[/h1]
 
@@ -57,12 +61,14 @@ Here are some highlights from updates since the previous anniversary:
 [h2]Weapons[/h2]
 [list]
 [*][b]ML30 Laser Trip Mine:[/b] Improved network prediction for throwing animation.
+[*][b]CR18 Freeze Grenades:[/b] Freezing now kills buzzers, and marines can be frozen in Deathmatch mode.
 [*][b]M868 Flamer Unit:[/b] Fixed fuel tanks only granting half a reload worth of ammo.
 [*][b]Chainsaw:[/b] Bots now use this weapon from a more reasonable range.
 [*][b]TG-05 Gas Grenades:[/b] Updated the item's appearance to help differentiate it from other types of grenades.
 [*]Fixed the scanning animation for sentries desynchronizing from the gun's idle angle.
 [*]Fixed inconsistencies in collision-checking code, most notably related to bot marines and projectiles.
 [*]Fixed a bug sometimes preventing the use of off-hand items on controller.
+[*]Auto-aim weapons such as the 22A7-Z Prototype Assault Rifle and the S23A SynTek Autogun now apply their bonuses in first and third person.
 [/list]
 
 [h2]Misc[/h2]
@@ -71,7 +77,6 @@ Here are some highlights from updates since the previous anniversary:
 [*]Fixed a crash when an alien tried to throw a physics object at a target who had died.
 [*]Fixed a crash when leaving a screen with a dropdown menu open.
 [*]Fixed the game instructor recommending marines to weld a door that is already damaged to the point where it cannot open or close.
-[*]Fixed the white rounded square door used in some custom maps visually falling in the wrong direction sometimes.
 [*]Fixed marines being unselected in the lobby when restarting a bonus mission that was started via a vote.
 [*]The chat panel can now be opened in singleplayer (for use in custom challenges).
 [*]Improved bots in Deathmatch maps. They should get stuck less, turn at more reasonable times, and will now automatically join if you start a Deathmatch map in singleplayer.
@@ -90,6 +95,11 @@ Here are some highlights from updates since the previous anniversary:
 [h2]Mapping[/h2]
 [list]
 [*]Added npc_crow, npc_pigeon, and npc_seagull.
+[*]Added npc_combine_s, npc_combine_shotgun, and npc_combine_elite. These soldiers lack the "swarm sense" of aliens, instead relying on sight, sound, and information from their squad. Mappers can optionally add info_node_hint to mark spots with cover for the Combine soldiers to use.
+[*]Added npc_zombine, with mapper-configurable grenades.
+[*]Added npc_hunter, for use with other Combine NPCs.
+[*]Added npc_strider, npc_combinegunship, and npc_combinedropship for use in cinematics.
+[*]asw_colonist is now randomized using a wider range of appearances. Set the skin number to change the color of their clothing.
 [*]asw_env_shake can now be flagged to bypass user settings (a new convar has been added for disabling [i]all[/i] shakes regardless of this flag).
 [*]Added env_headcrabcanister.
 [*]Added script_intro.

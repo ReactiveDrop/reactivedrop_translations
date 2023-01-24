@@ -7,6 +7,8 @@ Gemas verdes, brilhantes, misteriosas e aparentemente inofensivas são descobert
 
 Lançado originalmente em maio de 2020 e maio de 2022 no Steam Workshop, Accident 32 é uma campanha de seis missões que combina duas campanhas de três missões em uma. Os fuzileiros estão determinados a explorar o misterioso complexo e a sede da empresa chamada "AMBER" e enfrentar muitas ameaças. Uma missão bônus "AMBER Complex" está incluída, que são as três primeiras missões combinadas em uma.
 
+[img]{STEAM_CLAN_IMAGE}/27357479/6eec6d4976d6b0ceb9bbe4941b1fe9e2b803fbee.jpg[/img]
+
 [h1]Nova campanha: Adanaxis[/h1]
 
 TO-DO
@@ -16,6 +18,8 @@ TO-DO
 Conforme prometido quando a tela Coleções foi adicionada, a Swarmopedia retornou, melhor do que nunca! Desbloqueie estatísticas, dicas e histórias curtas sobre alienígenas matando-os no campo. Os add-ons também podem criar suas próprias entradas no Swarmopedia ou adicionar conteúdo às já existentes.
 
 Com a reformulação da Swarmopedia, terá uma nova tela para selecionar armas usando uma grade destinada a acelerar a localização de armas de alto nível e ajudar na memória muscular. Desbloquear armas ao subir de nível agora também dá acesso às fichas técnicas, com estatísticas precisas sobre alcance, dano e muito mais.
+
+[img]{STEAM_CLAN_IMAGE}/27357479/fefea2173b3b092fa85c0fe2e6a72891c6653862.jpg[/img]
 
 [h1]Competição de Mapas 2023: "Boss Fight"[/h1]
 
@@ -57,12 +61,14 @@ Aqui estão alguns destaques das atualizações desde o aniversário anterior:
 [h2]Armas[/h2]
 [list]
 [*][b]ML30 Laser Trip Mine:[/b] Previsão de rede aprimorada para a animação de arremesso.
+		[*][b]CR18 Freeze Grenades:[/b] Freezing now kills buzzers, and marines can be frozen in Deathmatch mode.
 [*][b]M868 Flamer Unit:[/b] Corrigido tanques de combustível concedendo apenas meia recarga de munição.
 [*][b]Motoserra:[/b] Bots agora usam essa arma de um alcance mais razoável.
 [*][b]Granadas de Gás TG-05:[/b] Atualizado a aparência do item para ajudar a diferenciá-lo de outros tipos de granadas.
 [*]Corrigido a animação de escaneamento para sentinelas que dessincronizava o ângulo de quando a arma estava inativa.
 [*]Corrigido inconsistências no código de verificação de colisão, principalmente relacionadas a fuzileiros e projéteis.
 		[*]Fixed a bug sometimes preventing the use of off-hand items on controller.
+		[*]Auto-aim weapons such as the 22A7-Z Prototype Assault Rifle and the S23A SynTek Autogun now apply their bonuses in first and third person.
 [/list]
 
 [h2]Diversos[/h2]
@@ -71,7 +77,6 @@ Aqui estão alguns destaques das atualizações desde o aniversário anterior:
 [*]Corrigido um erro quando um alienígena tentou jogar um objeto físico em um alvo que havia morrido.
 [*]Corrigido um erro ao sair de uma tela com um menu suspenso aberto.
 [*]Corrigido o instrutor do jogo recomendando fuzileiros para soldar uma porta que já está danificada a ponto de não poder abrir ou fechar.
-[*]Corrigido a porta quadrada arredondada branca usada em alguns mapas personalizados caindo visualmente na direção errada às vezes.
 [*]Corrigido fuzileiros sendo desmarcados na sala ao reiniciar uma missão de bônus iniciada por votação.
 [*]O painel de bate-papo agora pode ser aberto no modo singleplayer (para uso em desafios personalizados).
 [*]Bots aprimorados em mapas de morte súbita. Eles devem ficar menos presos, girar em momentos melhores e agora se juntarão automaticamente se você iniciar um mapa de morte súbita no modo singleplayer.
@@ -90,6 +95,11 @@ Aqui estão alguns destaques das atualizações desde o aniversário anterior:
 [h2]Criação de mapas[/h2]
 [list]
 [*]Adicionado npc_crow, npc_pigeon e npc_seagull.
+		[*]Added npc_combine_s, npc_combine_shotgun, and npc_combine_elite. These soldiers lack the "swarm sense" of aliens, instead relying on sight, sound, and information from their squad. Mappers can optionally add info_node_hint to mark spots with cover for the Combine soldiers to use.
+		[*]Added npc_zombine, with mapper-configurable grenades.
+		[*]Added npc_hunter, for use with other Combine NPCs.
+		[*]Added npc_strider, npc_combinegunship, and npc_combinedropship for use in cinematics.
+		[*]asw_colonist is now randomized using a wider range of appearances. Set the skin number to change the color of their clothing.
 [*]asw_env_shake agora pode ser sinalizado para ignorar as configurações do usuário (um novo convar foi adicionado para desabilitar [i]all[/i] shakes independentemente deste sinalizador).
 [*]Adicionado env_headcrabcanister.
 [*]Adicionado script_intro.

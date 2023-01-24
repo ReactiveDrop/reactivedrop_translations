@@ -7,6 +7,8 @@ Misteriose gemme verdi luminescenti, apparentemente innocue, vengono scoperte ne
 
 Pubblicata originariamente nel maggio 2020 e nel maggio 2022 sul Workshop di Steam, Accident 32 è una campagna di sei missioni che combina due campagne di tre missioni in una. I marine devono esplorare il misterioso complesso e il quartier generale della società chiamata "AMBER" e affrontare molte minacce. È inclusa una missione bonus chiamata "Complesso AMBER", che consiste nelle prime tre missioni combinate in una sola.
 
+[img]{STEAM_CLAN_IMAGE}/27357479/6eec6d4976d6b0ceb9bbe4941b1fe9e2b803fbee.jpg[/img]
+
 [h1]Nuova Campagna: Adanaxis[/h1]
 
 TODO
@@ -16,6 +18,8 @@ TODO
 Come promesso quando è stata aggiunta la schermata delle Collezioni, la Swarmopedia è tornata, più bella che mai! Sbloccate statistiche, consigli e brevi storie sugli alieni uccidendoli sul campo. Gli add-on possono anche creare le proprie voci della Swarmopedia o aggiungere contenuti a quelle esistenti.
 
 Con il rinnovamento della Swarmopedia è stata introdotta una nuova schermata per la selezione delle armi che utilizza una griglia per velocizzare la ricerca delle armi di alto livello e aiutare la memoria muscolare. Sbloccando le armi con l'aumento di livello si accede anche alle loro schede informative, con statistiche precise su gittata, danni e altro.
+
+[img]{STEAM_CLAN_IMAGE}/27357479/fefea2173b3b092fa85c0fe2e6a72891c6653862.jpg[/img]
 
 [h1]Competizione di Mapping 2023: "Combattimento contro i Boss"[/h1]
 
@@ -57,12 +61,14 @@ Ecco alcuni momenti salienti dagli aggiornamenti precedenti allo scorso annivers
 [h2]Armi[/h2]
 [list]
 [*][b]Mina Laser a Pressione ML30:[/b] Miglioramento della previsione della rete per l'animazione del lancio.
+		[*][b]CR18 Freeze Grenades:[/b] Freezing now kills buzzers, and marines can be frozen in Deathmatch mode.
 [*][b]Unità Lanciafiamme M868:[/b] Corretto il fatto che i serbatoi di carburante forniscano solo mezza ricarica di munizioni.
 [*][b]Motosega:[/b] Ora i bot usano quest'arma a una distanza più ragionevole.
 [*][b]Granate a Gas TG-05:[/b] Aggiornato l'aspetto dell'arma per differenziarla meglio dalle armi dello stesso tipo.
 [*]Corretta l'animazione di scansione per le sentinelle che si desincronizza dall'angolo di inattività dell'arma.
 [*]Corrette le incongruenze nel codice di controllo delle collisioni, soprattutto per quanto riguarda i soldati bot e i proiettili.
 [*]Corretto un bug che a volte impediva l'uso di oggetti a mano libera sul controller.
+		[*]Auto-aim weapons such as the 22A7-Z Prototype Assault Rifle and the S23A SynTek Autogun now apply their bonuses in first and third person.
 [/list]
 
 [h2]Varie[/h2]
@@ -71,7 +77,6 @@ Ecco alcuni momenti salienti dagli aggiornamenti precedenti allo scorso annivers
 [*]Corretto un crash anomalo quando un alieno cercava di lanciare un oggetto fisico contro un bersaglio morto.
 [*]Corretto un crash anomalo quando si lasciava una schermata con un menu a discesa aperto.
 [*]Corretto l'istruttore di gioco che consigliava ai soldati di saldare una porta già danneggiata al punto da non potersi aprire o chiudere.
-[*]Corretta la porta quadrata arrotondata bianca utilizzata in alcune mappe personalizzate che a volte cadeva visivamente nella direzione sbagliata.
 [*]Corretta la deselezione dei soldati nella lobby quando si riavvia una missione bonus iniziata tramite una votazione.
 [*]Il pannello della chat ora può essere aperto in giocatore singolo (per l'uso nelle sfide personalizzate).
 [*]Miglioramento dei bot nelle mappe Deathmatch. Dovrebbero bloccarsi di meno, girare con tempi più ragionevoli e ora si uniranno automaticamente se si avvia una mappa Deathmatch in giocatore singolo.
@@ -90,6 +95,11 @@ Ecco alcuni momenti salienti dagli aggiornamenti precedenti allo scorso annivers
 [h2]Mapping[/h2]
 [list]
 [*]Aggiunti npc_crow, npc_pigeon e npc_seagull.
+		[*]Added npc_combine_s, npc_combine_shotgun, and npc_combine_elite. These soldiers lack the "swarm sense" of aliens, instead relying on sight, sound, and information from their squad. Mappers can optionally add info_node_hint to mark spots with cover for the Combine soldiers to use.
+		[*]Added npc_zombine, with mapper-configurable grenades.
+		[*]Added npc_hunter, for use with other Combine NPCs.
+		[*]Added npc_strider, npc_combinegunship, and npc_combinedropship for use in cinematics.
+		[*]asw_colonist is now randomized using a wider range of appearances. Set the skin number to change the color of their clothing.
 [*]Ora asw_env_shake può essere contrassegnato per aggirare le impostazioni dell'utente (è stata aggiunta una nuova convar per disabilitare [i]tutte[/i] le scosse indipendentemente da questo flag).
 [*]Aggiunto env_headcrabcanister.
 [*]Aggiunto script_intro.
