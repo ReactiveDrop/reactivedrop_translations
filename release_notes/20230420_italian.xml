@@ -95,11 +95,11 @@ Ecco alcuni momenti salienti dagli aggiornamenti precedenti allo scorso annivers
 [h2]Mapping[/h2]
 [list]
 [*]Aggiunti npc_crow, npc_pigeon e npc_seagull.
-		[*]Added npc_combine_s, npc_combine_shotgun, and npc_combine_elite. These soldiers lack the "swarm sense" of aliens, instead relying on sight, sound, and information from their squad. Mappers can optionally add info_node_hint to mark spots with cover for the Combine soldiers to use.
-		[*]Added npc_zombine, with mapper-configurable grenades.
-		[*]Added npc_hunter, for use with other Combine NPCs.
-		[*]Added npc_strider, npc_combinegunship, and npc_combinedropship for use in cinematics.
-		[*]asw_colonist is now randomized using a wider range of appearances. Set the skin number to change the color of their clothing.
+[*]Aggiunti npc_combine_s, npc_combine_shotgun e npc_combine_elite. Questi soldati non sono alieni come lo "Sciame", ma si affidano alla vista, al suono e alle informazioni della loro squadra. I mapper possono aggiungere facoltativamente info_node_hint per contrassegnare i punti con copertura che i soldati Combine possono utilizzare.
+[*]Aggiunto npc_zombine, con granate configurabili dai mapper.
+[*]Aggiunto npc_hunter, da utilizzare con gli altri PNG Combine.
+[*]Aggiunti npc_strider, npc_combinegunship e npc_combinedropship da utilizzare nei filmati.
+[*]asw_colonist ora è randomizzato e utilizza una gamma più ampia di aspetti. Imposta il numero della skin per cambiare il colore dei vestiti.
 [*]Ora asw_env_shake può essere contrassegnato per aggirare le impostazioni dell'utente (è stata aggiunta una nuova convar per disabilitare [i]tutte[/i] le scosse indipendentemente da questo flag).
 [*]Aggiunto env_headcrabcanister.
 [*]Aggiunto script_intro.
