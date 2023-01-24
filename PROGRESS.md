@@ -1230,7 +1230,7 @@
 
 - [20230119_brazilian.xml](release_notes/20230119_english.xml) is missing.
 - [20230201_brazilian.xml](release_notes/20230201_english.xml) is missing.
-- [20230420_brazilian.xml](release_notes/20230420_brazilian.xml) has 22 indented lines.
+- [20230420_brazilian.xml](release_notes/20230420_brazilian.xml) has 23 indented lines.
 
 </details>
 
