@@ -61,14 +61,14 @@ Hier sind einige Highlights der Updates seit dem letzten Jahrestag:
 [h2]Waffen[/h2]
 [list]
 [*][b]ML30 Laser Haftminen:[/b] Verbesserte Netzvorhersage für Wurfanimation.
-		[*][b]CR18 Freeze Grenades:[/b] Freezing now kills buzzers, and marines can be frozen in Deathmatch mode.
+[*][b]CR18 Frostgranaten:[/b] Einfrieren tötet jetzt Schnarren. Und Soldaten können im Deathmatch-Modus eingefroren werden.
 [*][b]M868 Flammenwerfer:[/b] Treibstofftanks, die nur eine halbe Nachladung an Munition liefern wurden behoben.
 [*][b]Kettensäge:[/b] Bots benutzen diese Waffe jetzt aus einer angemesseneren Reichweite.
 [*][b]TG-05 Gasgranaten:[/b] Das Aussehen des Gegenstandes wurde aktualisiert, um ihn von anderen Granaten zu unterscheiden.
 [*]Die Scan-Animation für Wächter, die aus dem Ruhewinkel des Geschützes ausscheren, wurde behoben.
 [*]Unstimmigkeiten im Code der Kollisionsprüfung wurden behoben, vor allem im Zusammenhang mit Bots und Geschossen.
 [*]Ein Fehler wurde behoben, der manchmal die Verwendung Zusatzausrüstung auf dem Controller verhinderte.
-		[*]Auto-aim weapons such as the 22A7-Z Prototype Assault Rifle and the S23A SynTek Autogun now apply their bonuses in first and third person.
+[*]Waffen mit Zielhilfe wie das 22A7-Z Prototyp-Gewehr und die S23A SynTek Autogun wenden ihre Boni jetzt in der ersten und dritten Person an.
 [/list]
 
 [h2]Verschiedenes[/h2]
@@ -95,11 +95,11 @@ Hier sind einige Highlights der Updates seit dem letzten Jahrestag:
 [h2]Mapping[/h2]
 [list]
 [*]npc_crow, npc_pigeon, und npc_seagull hinzugefügt.
-		[*]Added npc_combine_s, npc_combine_shotgun, and npc_combine_elite. These soldiers lack the "swarm sense" of aliens, instead relying on sight, sound, and information from their squad. Mappers can optionally add info_node_hint to mark spots with cover for the Combine soldiers to use.
-		[*]Added npc_zombine, with mapper-configurable grenades.
-		[*]Added npc_hunter, for use with other Combine NPCs.
-		[*]Added npc_strider, npc_combinegunship, and npc_combinedropship for use in cinematics.
-		[*]asw_colonist is now randomized using a wider range of appearances. Set the skin number to change the color of their clothing.
+[*]npc_combine_s, npc_combine_shotgun, und npc_combine_elite wurden hinzugefügt. Diesen Gegnern fehlt der "Schwarmsinn" der Aliens, sie verlassen sich stattdessen auf Sicht- und Tonsignale und Informationen aus ihrem Trupp. Mapper können optional info_node_hint hinzufügen, um Stellen mit Deckung zu markieren, die die Combine-Soldaten nutzen können.
+[*]npc_zombine wurde hinzugefügt, mit vom Mapper konfigurierbaren Granaten.
+[*]npc_hunter hinzugefügt, für die Verwendung mit anderen Combine-NSCs.
+[*]npc_strider, npc_combinegunship und npc_combinedropship zur Verwendung in Filmsequenzen hinzugefügt.
+[*]asw_colonist wird jetzt mit einer breiteren Palette von Erscheinungsbildern zufallsgeneriert. Setze die Skin-Nummer, um die Farbe der Kleidung zu ändern.
 [*]asw_env_shake kann jetzt markiert werden, um Benutzereinstellungen zu umgehen (ein neuer Convar wurde hinzugefügt, um [i]alle[/i] Shakes unabhängig von dieser Markierung zu deaktivieren).
 [*]env_headcrabcanister hinzugefügt.
 [*]script_intro hinzugefügt.
