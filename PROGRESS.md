@@ -8,10 +8,10 @@
 | [Dutch](#non-curated-languages) | 49 | 1993 | 10 | 2198 | 191 | 444 | 125 | 146 |
 | [Finnish](#non-curated-languages) | 49 | 1993 | 10 | 2198 | 191 | 444 | 125 | 146 |
 | [French](#french-français) | 25 | 118 | 10 | 1550 | 191 | 378 | 125 | 125 |
-| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
+| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 1 |
 | [Hungarian](#non-curated-languages) | 49 | 118 | 10 | 2198 | 191 | 709 | 125 | 147 |
-| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
-| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | 20 | ✔️ | 35 | ✔️ | ✔️ |
+| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 1 |
+| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | 20 | ✔️ | 35 | ✔️ | 1 |
 | [Korean](#koreana-한국어) | 47 | 55 | 6 | 1060 | 43 | 272 | 125 | 51 |
 | [Norwegian Bokmål](#non-curated-languages) | 67 | 693 | 15 | 2918 | 191 | 444 | 125 | 147 |
 | [Polish](#polish-polski) | 26 | 1993 | 10 | 2198 | 191 | 444 | 125 | 147 |
@@ -48,7 +48,7 @@
 
 - [20230119_schinese.xml](release_notes/20230119_english.xml) is missing.
 - [20230201_schinese.xml](release_notes/20230201_english.xml) is missing.
-- [20230420_schinese.xml](release_notes/20230420_schinese.xml) has 15 indented lines.
+- [20230420_schinese.xml](release_notes/20230420_schinese.xml) has 22 indented lines.
 
 </details>
 
@@ -661,7 +661,9 @@
 
 </summary>
 
-✓ Up to date!
+### Upcoming Release Notes
+
+- [20230420_german.xml](release_notes/20230420_german.xml) has 7 indented lines.
 
 </details>
 
@@ -671,7 +673,9 @@
 
 </summary>
 
-✓ Up to date!
+### Upcoming Release Notes
+
+- [20230420_italian.xml](release_notes/20230420_italian.xml) has 7 indented lines.
 
 </details>
 
@@ -685,6 +689,10 @@
 
 - [vgui_japanese.txt](platform/vgui_japanese.txt) has 35 untranslated strings.
 - [reactivedrop_japanese.txt](resource/reactivedrop_japanese.txt) has 20 untranslated strings.
+
+### Upcoming Release Notes
+
+- [20230420_japanese.xml](release_notes/20230420_japanese.xml) has 7 indented lines.
 
 </details>
 
@@ -1222,7 +1230,7 @@
 
 - [20230119_brazilian.xml](release_notes/20230119_english.xml) is missing.
 - [20230201_brazilian.xml](release_notes/20230201_english.xml) is missing.
-- [20230420_brazilian.xml](release_notes/20230420_brazilian.xml) has 15 indented lines.
+- [20230420_brazilian.xml](release_notes/20230420_brazilian.xml) has 22 indented lines.
 
 </details>
 
