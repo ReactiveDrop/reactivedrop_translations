@@ -61,14 +61,14 @@ TODO
 [h2]武器[/h2]
 [list]
 [*][b]ML30 レーザー検知地雷:[/b] 投げるアニメーション用にネットワーク予測を改善した。
-		[*][b]CR18 Freeze Grenades:[/b] Freezing now kills buzzers, and marines can be frozen in Deathmatch mode.
+[*][b]CR18 冷凍グレネード:[/b] バザーは凍結すると死亡するようになった。デスマッチモードで海兵隊を凍結させられるようになった。
 [*][b]M868 フレイマーユニット:[/b] 燃料タンクを拾ってもリロード1回の半分相当しか弾薬が得られなかったのを修正。
 [*][b]チェーンソー:[/b] BOTがこの武器をより適切な射程で使うようになった。
 [*][b]TG-05 ガスグレネード:[/b] 他のグレネード類と見分け易くなるようにアイテムの見た目を更新。
 [*]セントリーガンがスキャンするアニメーションが停止時の角度と同期されていなかったのを修正。
 [*]衝突判定のコードに矛盾があったのを修正。BOTと投射物に関して特に顕著だった。
 [*]ゲームパッドでプレイ中に補助アイテムが使用できなくなることがあったのを修正。
-		[*]Auto-aim weapons such as the 22A7-Z Prototype Assault Rifle and the S23A SynTek Autogun now apply their bonuses in first and third person.
+[*]22A7-Z プロトタイプアサルトライフルやS23A SynTek オートガンなどのオートエイム武器の能力が一人称や三人称の視点モードでも適用されるようになった。
 [/list]
 
 [h2]その他[/h2]
@@ -95,11 +95,11 @@ TODO
 [h2]マップ作成[/h2]
 [list]
 [*]npc_crow、npc_pigeon、npc_seagullを追加。
-		[*]Added npc_combine_s, npc_combine_shotgun, and npc_combine_elite. These soldiers lack the "swarm sense" of aliens, instead relying on sight, sound, and information from their squad. Mappers can optionally add info_node_hint to mark spots with cover for the Combine soldiers to use.
-		[*]Added npc_zombine, with mapper-configurable grenades.
-		[*]Added npc_hunter, for use with other Combine NPCs.
-		[*]Added npc_strider, npc_combinegunship, and npc_combinedropship for use in cinematics.
-		[*]asw_colonist is now randomized using a wider range of appearances. Set the skin number to change the color of their clothing.
+[*]npc_combine_s、npc_combine_shotgun、npc_combine_eliteを追加。この兵士たちはエイリアン達と違い「群れの意思共有」を持たず、代わりに視覚、聴覚、部隊間の連絡を基に行動する。マップ作成者はinfo_node_hintを追加することでコンバイン兵士達がカバーとして隠れる位置を指定できる。
+[*]npc_zombineを追加。マップ作成者により所持グレネードを設定できる。
+[*]npc_hunterを追加。その他のコンバインNPC達と併用できる。
+[*]npc_strider、npc_combinegunship、npc_combinedropshipを演出用に追加。
+[*]asw_colonistはより幅広くランダムな外見を使用するようになった。スキン番号を指定すると服の色を変更できる。
 [*]asw_env_shakeはユーザー設定を無視するフラグを立てられるようになった。(このフラグに関係なく[i]全ての[/i]画面揺れを無効にする新しいコンソール変数も追加された)。
 [*]env_headcrabcanisterを追加。
 [*]script_introを追加。
