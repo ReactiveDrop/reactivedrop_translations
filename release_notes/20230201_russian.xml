@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<content><string id="body">Сегодня начинается 8-й сезон «Героев межзвёздных вооружённых сил», и мы добавляем новые миссии и задания из мастерской в список контента, в который вы можете играть на участвующих серверах.
+
+[h1]Кампании и бонусные миссии[/h1]
+В список контента, доступного в рейтинговой игре, были добавлены следующие кампании и миссии из мастерской:
+[list]
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2821100493]Blitz Campaign[/url] - авторы: _Vertigo_, jhheight и Dmitriy
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=914071790]Reduction[/url] - автор: XFunc_CaRteR (примечание: 5-я миссия не засчитывается, так как не содержит боевых действий)
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=1519884777]Crude Infestation[/url] - автор: jhheight
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=1313628775]Nitro Canister MR[/url] - авторы: Tien и Orange
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=1312255876]Warehouse[/url] - автор: Сергей 'STALKER4732' Лавриненко
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=1109961848]Chemical Facility[/url] - автор: Apairofkings
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=935549703]Delusion[/url] - автор: ShadowsInRain
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=930171604]Ground Zero[/url] - автор: Spectre13
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=880002363]The Beginning[/url] - автор: Kenny_WWE
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=848331447]Nest[/url] - автор: Dmitriy
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2120875626]Absolute Madness[/url] - автор: Orange
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=915370759]Ancient Ruins[/url] - автор: Cryora
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=914421802]Edge[/url] - автор: Jester_prince
+[/list]
+
+[h1]Испытания[/h1]
+В рейтинговой игре теперь доступны следующие режимы испытаний из мастерской:
+[list]
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=1584605820]«Связанные» (Bounds)[/url] - автор: Reit
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=1757080639]Тьма (Darkness)[/url] - автор: jhheight
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=937399666]Убей или умри (Kill or Die[)[/url] - автор: Orange
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2592381597]Невидимые чужие (Invisible Aliens)[/url] - автор: jhheight
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=1297056081]ASBI 3.0[/url] - автор: Revenant
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=937405470]ASBI - Убей или умри (ASBI Kill or Die)[/url] - автор: Orange
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2921394571]ASBI - «Связанные» (ASBI Bounds)[/url] - авторы: Reit и jhheight
+[/list]
+
+[h1]Изменение подсчёта очков[/h1]
+Кроме того, мы меняем то, как работает убывание отдачи от игры на одной и той же карте снова и снова.
+
+При игре в «Героях межзвёздных вооружённых сил» происходит убывание отдачи от игры, когда вы играете одну и ту же миссию несколько раз подряд. Если с момента последней миссии ГМВС прошло 2 или более часов, или вы не повторяли миссию в течение 6 последних сыгранных миссий, считается, что вы не повторили миссию.
+
+Мы изменяем множитель очков по убывающей отдачи от игры, чтобы он зависел от количества раз, которые вы повторили миссию за последнее время.
+
+[table]
+[tr][th]Повторы[/th][th]0[/th][th]1[/th][th]2[/th][th]3[/th][th]4[/th][th]5[/th][th]6+[/th][/tr]
+[tr][th]Старый множитель[/th][td]100%[/td][td]25%[/td][td]25%[/td][td]25%[/td][td]25%[/td][td]25%[/td][td]25%[/td][/tr]
+[tr][th]Новый множитель[/th][td]100%[/td][td]50%[/td][td]25%[/td][td]13%[/td][td]6%[/td][td]3%[/td][td]1,5%[/td][/tr]
+[/table]</string><string id="subtitle"></string><string id="summary"></string><string id="title">Обновление Alien Swarm: Reactive Drop - 1 февраля 2023 года</string></content>
