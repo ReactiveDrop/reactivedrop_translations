@@ -52,7 +52,7 @@ TODO
 [*][b]Tilarus-5: Arctic Infiltration:[/b] ミッションを開始してからしばらくウーバードローンが出たり消えたりしていたのを修正。
 [*][b]Tilarus-5: SynTek Hospital:[/b] 警報の音を大きくした。
 [*][b]Lana's Escape: Lana's Bridge:[/b] 照明、描画、経路探索の大幅なパフォーマンス最適化。
-		[*][b]Lana's Escape: Lana's Sewer:[/b] The radioactive barrels in the arena deal more damage to menders.
+[*][b]Lana's Escape: Lana's Sewer:[/b] アリーナにある放射性物質のドラム缶がメンダーに与えるダメージを増加。
 [*][b]Paranoia: Unexpected Encounter:[/b] グレネードランチャーのエイムに関するバグを修正。
 [*][b]Paranoia: Hostile Places:[/b] グレネードランチャーのエイムに関するバグを修正。
 [*][b]Bunker:[/b] 天井の見えない梁の衝突判定を削除。
