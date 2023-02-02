@@ -1235,10 +1235,10 @@
 		"[english]asw_mortarbug"		"Mortarbug"
 		"asw_mortarbugs"		"Mortarbugs"
 		"[english]asw_mortarbugs"		"Mortarbugs"
-		"asw_shaman"		"Shaman"
-		"[english]asw_shaman"		"Shaman"
-		"asw_shamans"		"Shamans"
-		"[english]asw_shamans"		"Shamans"
+		"asw_shaman"		"Mender"
+		"[english]asw_shaman"		"Mender"
+		"asw_shamans"		"Menders"
+		"[english]asw_shamans"		"Menders"
 		"asw_drone_uber"		"Uber Drone"
 		"[english]asw_drone_uber"		"Uber Drone"
 		"asw_drone_ubers"		"Uber Drones"
@@ -4878,8 +4878,8 @@
 "[english]rd_so_alien_harvester"		"Harvester"
 "rd_so_alien_xenomite"		"Xenomita"
 "[english]rd_so_alien_xenomite"		"Xenomite"
-"rd_so_alien_shaman"		"Shaman"
-"[english]rd_so_alien_shaman"		"Shaman"
+		"rd_so_alien_mender"		"Mender"
+		"[english]rd_so_alien_mender"		"Mender"
 "rd_so_alien_biomass"		"Biomasa"
 "[english]rd_so_alien_biomass"		"Biomass"
 "rd_so_alien_grub"		"Larva"
@@ -5041,9 +5041,9 @@
 "rd_so_tips_xenomite"		""
 // TODO
 "[english]rd_so_tips_xenomite"		""
-"rd_so_tips_shaman"		""
+"rd_so_tips_mender"		""
 // TODO
-"[english]rd_so_tips_shaman"		""
+"[english]rd_so_tips_mender"		""
 "rd_so_tips_biomass"		""
 // TODO
 "[english]rd_so_tips_biomass"		""
@@ -5208,21 +5208,21 @@
 "rd_so_paragraph_xenomite_4"		""
 // TODO
 "[english]rd_so_paragraph_xenomite_4"		""
-"rd_so_paragraph_shaman_0"		""
+"rd_so_paragraph_mender_0"		""
 // TODO
-"[english]rd_so_paragraph_shaman_0"		""
-"rd_so_paragraph_shaman_1"		""
+"[english]rd_so_paragraph_mender_0"		""
+"rd_so_paragraph_mender_1"		""
 // TODO
-"[english]rd_so_paragraph_shaman_1"		""
-"rd_so_paragraph_shaman_2"		""
+"[english]rd_so_paragraph_mender_1"		""
+"rd_so_paragraph_mender_2"		""
 // TODO
-"[english]rd_so_paragraph_shaman_2"		""
-"rd_so_paragraph_shaman_3"		""
+"[english]rd_so_paragraph_mender_2"		""
+"rd_so_paragraph_mender_3"		""
 // TODO
-"[english]rd_so_paragraph_shaman_3"		""
-"rd_so_paragraph_shaman_4"		""
+"[english]rd_so_paragraph_mender_3"		""
+"rd_so_paragraph_mender_4"		""
 // TODO
-"[english]rd_so_paragraph_shaman_4"		""
+"[english]rd_so_paragraph_mender_4"		""
 "rd_so_paragraph_biomass_0"		""
 // TODO
 "[english]rd_so_paragraph_biomass_0"		""
