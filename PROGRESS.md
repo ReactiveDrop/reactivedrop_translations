@@ -15,7 +15,7 @@
 | [Korean](#koreana-한국어) | 47 | 55 | 6 | 1074 | 43 | 272 | 125 | 49 |
 | [Norwegian Bokmål](#non-curated-languages) | 67 | 693 | 15 | 2929 | 191 | 444 | 125 | 145 |
 | [Polish](#polish-polski) | 26 | 1993 | 10 | 2209 | 191 | 444 | 125 | 145 |
-| [European Portuguese](#portuguese-português-europeu) | 1 | 160 | 1 | 1428 | 18 | 390 | 98 | 138 |
+| [European Portuguese](#portuguese-português-europeu) | 1 | 160 | 1 | 1408 | 18 | 371 | 98 | 137 |
 | [Brazilian Portuguese](#brazilian-português) | ✔️ | 1993 | ✔️ | 455 | ✔️ | ✔️ | ✔️ | 1 |
 | [Romanian](#non-curated-languages) | 49 | 1985 | 16 | 2934 | 191 | 709 | 125 | 145 |
 | [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | 3 | ✔️ | ✔️ | ✔️ | 1 |
@@ -1015,12 +1015,11 @@
 
 - [reactivedrop_portuguese.txt](addons/ExampleAddon/resource/reactivedrop_portuguese.txt) has 12 untranslated strings.
 - [statsweb_portuguese.vdf](community/stats_website/statsweb_portuguese.vdf) has 18 untranslated strings.
-- [steam_input_portuguese.vdf](community/steam_input/steam_input_portuguese.vdf) has 19 untranslated strings.
 - [vgui_portuguese.txt](platform/vgui_portuguese.txt) has 93 untranslated strings.
 - [basemodui_portuguese.txt](resource/basemodui_portuguese.txt) has 1 untranslated strings.
 - [closecaption_portuguese.txt](resource/closecaption_portuguese.txt) has 160 untranslated strings.
 - [gameui_portuguese.txt](resource/gameui_portuguese.txt) has 1 untranslated strings.
-- [reactivedrop_portuguese.txt](resource/reactivedrop_portuguese.txt) has 1428 untranslated strings.
+- [reactivedrop_portuguese.txt](resource/reactivedrop_portuguese.txt) has 1408 untranslated strings.
 - [valve_portuguese.txt](resource/valve_portuguese.txt) has 266 untranslated strings.
 
 ### Steam Store and Community
@@ -1037,7 +1036,6 @@
 
 - [biogen_corporation_credits_portuguese.txt](credits/biogen_corporation_credits_english.txt) is missing.
 - [credits_acc32_official_portuguese.txt](credits/credits_acc32_official_english.txt) is missing.
-- [credits_namhumanum_portuguese.txt](credits/credits_namhumanum_english.txt) is missing.
 - [deathmatch_credits_portuguese.txt](credits/deathmatch_credits_english.txt) is missing.
 - [rd-LanasEscapeCredits_portuguese.txt](credits/rd-LanasEscapeCredits_english.txt) is missing.
 - [rd-area9800Credits_portuguese.txt](credits/rd-area9800Credits_english.txt) is missing.
