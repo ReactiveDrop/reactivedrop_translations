@@ -1,25 +1,25 @@
 # Overview
 | Language | basemodui | closecaption | gameui | reactivedrop | statsweb | Strings | Inventory | Files |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | ✔️ | 91 | 1 | ✔️ | ✔️ | 1 |
+| [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | ✔️ | 94 | 1 | ✔️ | ✔️ | 1 |
 | [Traditional Chinese](#tchinese-繁體中文) | 7 | 120 | 1 | 2090 | 191 | 58 | 125 | 144 |
 | [Czech](#czech-čeština) | 69 | 1796 | 10 | 3233 | 191 | 714 | 125 | 144 |
 | [Danish](#non-curated-languages) | 50 | 211 | 10 | 2754 | 191 | 444 | 125 | 145 |
 | [Dutch](#non-curated-languages) | 49 | 1993 | 10 | 2209 | 191 | 444 | 125 | 144 |
 | [Finnish](#non-curated-languages) | 49 | 1993 | 10 | 2209 | 191 | 444 | 125 | 144 |
 | [French](#french-français) | 25 | 118 | 10 | 1561 | 191 | 378 | 125 | 123 |
-| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
+| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | 3 | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Hungarian](#non-curated-languages) | 49 | 118 | 10 | 2209 | 191 | 709 | 125 | 145 |
-| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
-| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | 19 | ✔️ | 35 | ✔️ | ✔️ |
-| [Korean](#koreana-한국어) | 47 | 55 | 6 | 1071 | 43 | 272 | 125 | 49 |
+| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | 3 | ✔️ | ✔️ | ✔️ | ✔️ |
+| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | 22 | ✔️ | 35 | ✔️ | ✔️ |
+| [Korean](#koreana-한국어) | 47 | 55 | 6 | 1074 | 43 | 272 | 125 | 49 |
 | [Norwegian Bokmål](#non-curated-languages) | 67 | 693 | 15 | 2929 | 191 | 444 | 125 | 145 |
 | [Polish](#polish-polski) | 26 | 1993 | 10 | 2209 | 191 | 444 | 125 | 145 |
-| [European Portuguese](#portuguese-português-europeu) | 1 | 160 | 1 | 1425 | 18 | 390 | 98 | 138 |
-| [Brazilian Portuguese](#brazilian-português) | ✔️ | 1993 | ✔️ | 452 | ✔️ | ✔️ | ✔️ | 1 |
+| [European Portuguese](#portuguese-português-europeu) | 1 | 160 | 1 | 1428 | 18 | 390 | 98 | 138 |
+| [Brazilian Portuguese](#brazilian-português) | ✔️ | 1993 | ✔️ | 455 | ✔️ | ✔️ | ✔️ | 1 |
 | [Romanian](#non-curated-languages) | 49 | 1985 | 16 | 2934 | 191 | 709 | 125 | 145 |
-| [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 1 |
-| [European Spanish](#spanish-español-de-españa) | 26 | 1993 | 8 | 1612 | 191 | 448 | 125 | 144 |
+| [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | 3 | ✔️ | ✔️ | ✔️ | 1 |
+| [European Spanish](#spanish-español-de-españa) | 26 | 1993 | 8 | 1613 | 191 | 448 | 125 | 144 |
 | [Swedish](#non-curated-languages) | 49 | 1993 | 10 | 2209 | 191 | 444 | 125 | 145 |
 | [Thai](#non-curated-languages) | 964 | 1982 | 18 | 3484 | 191 | 473 | 125 | 145 |
 | [Turkish](#non-curated-languages) | 49 | 117 | 10 | 2209 | 191 | 709 | 125 | 145 |
@@ -42,7 +42,7 @@
 ### Strings
 
 - [statsweb_schinese.vdf](community/stats_website/statsweb_schinese.vdf) has 1 untranslated strings.
-- [reactivedrop_schinese.txt](resource/reactivedrop_schinese.txt) has 91 untranslated strings.
+- [reactivedrop_schinese.txt](resource/reactivedrop_schinese.txt) has 94 untranslated strings.
 
 ### Upcoming Release Notes
 
@@ -653,7 +653,9 @@
 
 </summary>
 
-✓ Up to date!
+### Strings
+
+- [reactivedrop_german.txt](resource/reactivedrop_german.txt) has 3 untranslated strings.
 
 </details>
 
@@ -663,7 +665,9 @@
 
 </summary>
 
-✓ Up to date!
+### Strings
+
+- [reactivedrop_italian.txt](resource/reactivedrop_italian.txt) has 3 untranslated strings.
 
 </details>
 
@@ -676,7 +680,7 @@
 ### Strings
 
 - [vgui_japanese.txt](platform/vgui_japanese.txt) has 35 untranslated strings.
-- [reactivedrop_japanese.txt](resource/reactivedrop_japanese.txt) has 19 untranslated strings.
+- [reactivedrop_japanese.txt](resource/reactivedrop_japanese.txt) has 22 untranslated strings.
 
 </details>
 
@@ -697,7 +701,7 @@
 - [basemodui_koreana.txt](resource/basemodui_koreana.txt) has 47 untranslated strings.
 - [closecaption_koreana.txt](resource/closecaption_koreana.txt) has 55 untranslated strings.
 - [gameui_koreana.txt](resource/gameui_koreana.txt) has 6 untranslated strings.
-- [reactivedrop_koreana.txt](resource/reactivedrop_koreana.txt) has 1071 untranslated strings.
+- [reactivedrop_koreana.txt](resource/reactivedrop_koreana.txt) has 1074 untranslated strings.
 - [valve_koreana.txt](resource/valve_koreana.txt) has 90 untranslated strings.
 
 ### Steam Store and Community
@@ -1016,7 +1020,7 @@
 - [basemodui_portuguese.txt](resource/basemodui_portuguese.txt) has 1 untranslated strings.
 - [closecaption_portuguese.txt](resource/closecaption_portuguese.txt) has 160 untranslated strings.
 - [gameui_portuguese.txt](resource/gameui_portuguese.txt) has 1 untranslated strings.
-- [reactivedrop_portuguese.txt](resource/reactivedrop_portuguese.txt) has 1425 untranslated strings.
+- [reactivedrop_portuguese.txt](resource/reactivedrop_portuguese.txt) has 1428 untranslated strings.
 - [valve_portuguese.txt](resource/valve_portuguese.txt) has 266 untranslated strings.
 
 ### Steam Store and Community
@@ -1202,7 +1206,7 @@
 ### Strings
 
 - [closecaption_brazilian.txt](resource/closecaption_brazilian.txt) has 1993 untranslated strings.
-- [reactivedrop_brazilian.txt](resource/reactivedrop_brazilian.txt) has 452 untranslated strings.
+- [reactivedrop_brazilian.txt](resource/reactivedrop_brazilian.txt) has 455 untranslated strings.
 
 ### Upcoming Release Notes
 
@@ -1215,6 +1219,10 @@
 ## russian (русский)
 
 </summary>
+
+### Strings
+
+- [reactivedrop_russian.txt](resource/reactivedrop_russian.txt) has 3 untranslated strings.
 
 ### Upcoming Release Notes
 
@@ -1239,7 +1247,7 @@
 - [basemodui_spanish.txt](resource/basemodui_spanish.txt) has 26 untranslated strings.
 - [closecaption_spanish.txt](resource/closecaption_spanish.txt) has 1993 untranslated strings.
 - [gameui_spanish.txt](resource/gameui_spanish.txt) has 8 untranslated strings.
-- [reactivedrop_spanish.txt](resource/reactivedrop_spanish.txt) has 1612 untranslated strings.
+- [reactivedrop_spanish.txt](resource/reactivedrop_spanish.txt) has 1613 untranslated strings.
 - [valve_spanish.txt](resource/valve_spanish.txt) has 266 untranslated strings.
 
 ### Steam Store and Community
