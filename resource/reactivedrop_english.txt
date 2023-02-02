@@ -2528,7 +2528,7 @@
 "rd_so_alien_mortarbug"	"Mortarbug"
 "rd_so_alien_harvester"	"Harvester"
 "rd_so_alien_xenomite"	"Xenomite"
-"rd_so_alien_shaman"	"Mender"
+"rd_so_alien_mender"	"Mender"
 "rd_so_alien_biomass"	"Biomass"
 "rd_so_alien_grub"	"Grub"
 "rd_so_alien_antlionguard"	"Antlion Guard"
