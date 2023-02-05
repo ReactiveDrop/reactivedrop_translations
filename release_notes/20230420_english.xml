@@ -7,7 +7,7 @@ Mysterious, seemingly harmless green glowing gems are discovered under the groun
 
 Originally released in May of 2020 and May of 2022 on the Steam Workshop, Accident 32 is a six-mission campaign which combines two three-mission campaigns into one. Marines are set out to explore the mysterious complex and headquarters of the company called "AMBER" and face many threats. A bonus "AMBER Complex" mission is included which is the first three missions combined into one.
 
-[img]{STEAM_CLAN_IMAGE}/27357479/6eec6d4976d6b0ceb9bbe4941b1fe9e2b803fbee.jpg[/img]
+[img]{STEAM_CLAN_IMAGE}/27357479/b527e399d2930690d08f8aa95025dedcc0cf1b9d.jpg[/img]
 
 [h1]New Campaign: Adanaxis[/h1]
 
@@ -56,6 +56,7 @@ Here are some highlights from updates since the previous anniversary:
 [*][b]Paranoia: Unexpected Encounter:[/b] Fixed bugs related to grenade launcher aiming.
 [*][b]Paranoia: Hostile Places:[/b] Fixed bugs related to grenade launcher aiming.
 [*][b]Bunker:[/b] Removed collision from an invisible ceiling beam.
+[*]All official missions have been given custom loading screens.
 [/list]
 
 [h2]Weapons[/h2]
@@ -65,6 +66,8 @@ Here are some highlights from updates since the previous anniversary:
 [*][b]M868 Flamer Unit:[/b] Fixed fuel tanks only granting half a reload worth of ammo.
 [*][b]Chainsaw:[/b] Bots now use this weapon from a more reasonable range.
 [*][b]TG-05 Gas Grenades:[/b] Updated the item's appearance to help differentiate it from other types of grenades.
+[*][b]Flechette Gun (hidden):[/b] This gun has a new appearance and now fires timed sticky explosives (the same ones Combine Hunters fire) rather than auto-aimed rockets. Now fires directly at the aim location rather than parallel to the ground.
+[*][b]Ricochet Rifle (hidden):[/b] This gun has a new appearance and no longer requires the secondary trigger to be held to bounce shots. Instead, holding the secondary trigger switches the gun to a shotgun-like burst fire mode. Bounced bullets can now hit the marine that fired them.
 [*]Fixed the scanning animation for sentries desynchronizing from the gun's idle angle.
 [*]Fixed inconsistencies in collision-checking code, most notably related to bot marines and projectiles.
 [*]Fixed a bug sometimes preventing the use of off-hand items on controller.
@@ -83,6 +86,7 @@ Here are some highlights from updates since the previous anniversary:
 [*]Fixed the game instructor giving incorrect information about how to respawn in Deathmatch mode, and tidied up the prompts on the HUD.
 [*]Improved bots' ability to avoid danger and flank shieldbugs.
 [*]Bots are now much less likely to teleport in front of a player.
+[*]You can flush the toilets in official missions.
 [*]Marines no longer always face east when starting a mission in first or third person.
 [*]Fixed some tooltips being too small to comfortably read.
 [*]When selecting a text input with Steam Big Picture enabled, the on-screen keyboard will open.
@@ -130,6 +134,8 @@ Here are some highlights from updates since the previous anniversary:
 [*]Weather, reactor status, and stock market info can now be customized with keyvalues files. Additionally, the current temperature is no longer randomized every time the weather report is opened.
 [/list]
 [*]func_asw_fade now ignores collisions with grenades by default.
+[*]Added asw_weapon_ar2 and asw_ammo_ar2. The Pulse Rifle can only refill ammo from these specific ammo packs and cannot use generic ammo stashes.
+[*]Added asw_ammo_grenade_launcher, asw_ammo_sniper_rifle, and asw_ammo_heavy_rifle.
 [/list]
 
 [h2]VScript[/h2]

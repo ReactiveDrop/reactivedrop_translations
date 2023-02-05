@@ -7,7 +7,7 @@ Mysteriöse, scheinbar harmlose, grün leuchtende Edelsteine werden unter dem Bo
 
 Ursprünglich im Mai 2020 und Mai 2022 auf dem Steam Workshop veröffentlicht, ist Unfall 32 ein Feldzug mit sechs Einsätzen, die zwei Feldzüge mit je drei Einsätzen zu einer kombiniert. Die Soldaten machen sich auf den Weg, um den mysteriösen Komplex und das Hauptquartier der Firma "AMBER" zu erkunden und sich dabei vielen Bedrohungen zu stellen. Als Bonus ist der Einsatz "AMBER-Komplex" enthalten, in der die ersten drei Einsätze zu einem zusammengefasst sind.
 
-[img]{STEAM_CLAN_IMAGE}/27357479/6eec6d4976d6b0ceb9bbe4941b1fe9e2b803fbee.jpg[/img]
+[img]{STEAM_CLAN_IMAGE}/27357479/b527e399d2930690d08f8aa95025dedcc0cf1b9d.jpg[/img]
 
 [h1]Neuer Feldzug: Adanaxis[/h1]
 
@@ -56,6 +56,7 @@ Hier sind einige Highlights der Updates seit dem letzten Jahrestag:
 [*][b]Paranoia: Unerwartete Begegnungen:[/b] Fehler im Zusammenhang mit dem Zielen von Granatwerfern wurden behoben.
 [*][b]Paranoia: Feindliche Orte:[/b] Fehler im Zusammenhang mit dem Zielen von Granatwerfern wurden behoben.
 [*][b]Bunker:[/b] Die Kollision mit einem unsichtbaren Deckenbalken wurde entfernt.
+		[*]All official missions have been given custom loading screens.
 [/list]
 
 [h2]Waffen[/h2]
@@ -65,6 +66,8 @@ Hier sind einige Highlights der Updates seit dem letzten Jahrestag:
 [*][b]M868 Flammenwerfer:[/b] Treibstofftanks, die nur eine halbe Nachladung an Munition liefern wurden behoben.
 [*][b]Kettensäge:[/b] Bots benutzen diese Waffe jetzt aus einer angemesseneren Reichweite.
 [*][b]TG-05 Gasgranaten:[/b] Das Aussehen des Gegenstandes wurde aktualisiert, um ihn von anderen Granaten zu unterscheiden.
+		[*][b]Flechette Gun (hidden):[/b] This gun has a new appearance and now fires timed sticky explosives (the same ones Combine Hunters fire) rather than auto-aimed rockets. Now fires directly at the aim location rather than parallel to the ground.
+		[*][b]Ricochet Rifle (hidden):[/b] This gun has a new appearance and no longer requires the secondary trigger to be held to bounce shots. Instead, holding the secondary trigger switches the gun to a shotgun-like burst fire mode. Bounced bullets can now hit the marine that fired them.
 [*]Die Scan-Animation für Wächter, die aus dem Ruhewinkel des Geschützes ausscheren, wurde behoben.
 [*]Unstimmigkeiten im Code der Kollisionsprüfung wurden behoben, vor allem im Zusammenhang mit Bots und Geschossen.
 [*]Ein Fehler wurde behoben, der manchmal die Verwendung Zusatzausrüstung auf dem Controller verhinderte.
@@ -83,6 +86,7 @@ Hier sind einige Highlights der Updates seit dem letzten Jahrestag:
 [*]Der Spielanleiter hat falsche Informationen über den Respawn im Deathmatch-Modus angezeigt. Außerdem wurden die Eingabeaufforderungen auf dem HUD aufgeräumt.
 [*]Die Fähigkeit der Bots, Gefahren auszuweichen und Schildkäfer zu flankieren, wurde verbessert.
 [*]Die Wahrscheinlichkeit, dass sich Bots vor einen Spieler teleportieren, ist jetzt viel geringer.
+		[*]You can flush the toilets in official missions.
 [*]Spieler schauen nicht mehr immer nach Osten, wenn sie einen Einsatz in der ersten oder dritten Person starten.
 [*]Einige Tooltips waren zu klein, um sie gut lesen zu können.
 [*]Wenn du bei aktiviertem Steam-Big-Picture eine Texteingabe auswählst, wird die Bildschirmtastatur geöffnet.
@@ -130,6 +134,8 @@ Hier sind einige Highlights der Updates seit dem letzten Jahrestag:
 [*]Wetter, Reaktorstatus und Börseninformationen können jetzt mit Keyvalues-Dateien angepasst werden. Außerdem wird die aktuelle Temperatur nicht mehr jedes Mal zufällig angezeigt, wenn der Wetterbericht geöffnet wird.
 [/list]
 [*]func_asw_fade ignoriert jetzt standardmäßig Kollisionen mit Granaten.
+		[*]Added asw_weapon_ar2 and asw_ammo_ar2. The Pulse Rifle can only refill ammo from these specific ammo packs and cannot use generic ammo stashes.
+		[*]Added asw_ammo_grenade_launcher, asw_ammo_sniper_rifle, and asw_ammo_heavy_rifle.
 [/list]
 
 [h2]VScript[/h2]

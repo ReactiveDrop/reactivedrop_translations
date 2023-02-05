@@ -7,7 +7,7 @@
 
 元は2020年5月にリリースされ2022年5月にはSteamワークショップにも投稿されたもので、Accident 32は3ミッションキャンペーン2セットを一つにまとめた6ミッションから成るキャンペーンです。 海兵隊達は謎の施設と『AMBER』と呼ばれる企業の本部の探索に派遣され、多くの脅威と対面することになります。 最初の3ミッションを一つに繋げた『AMBER Complex』のミッションもボーナスとして含まれています。
 
-[img]{STEAM_CLAN_IMAGE}/27357479/6eec6d4976d6b0ceb9bbe4941b1fe9e2b803fbee.jpg[/img]
+[img]{STEAM_CLAN_IMAGE}/27357479/b527e399d2930690d08f8aa95025dedcc0cf1b9d.jpg[/img]
 
 [h1]新キャンペーン: Adanaxis[/h1]
 
@@ -56,6 +56,7 @@ TODO
 [*][b]Paranoia: Unexpected Encounter:[/b] グレネードランチャーのエイムに関するバグを修正。
 [*][b]Paranoia: Hostile Places:[/b] グレネードランチャーのエイムに関するバグを修正。
 [*][b]Bunker:[/b] 天井の見えない梁の衝突判定を削除。
+		[*]All official missions have been given custom loading screens.
 [/list]
 
 [h2]武器[/h2]
@@ -65,6 +66,8 @@ TODO
 [*][b]M868 フレイマーユニット:[/b] 燃料タンクを拾ってもリロード1回の半分相当しか弾薬が得られなかったのを修正。
 [*][b]チェーンソー:[/b] BOTがこの武器をより適切な射程で使うようになった。
 [*][b]TG-05 ガスグレネード:[/b] 他のグレネード類と見分け易くなるようにアイテムの見た目を更新。
+		[*][b]Flechette Gun (hidden):[/b] This gun has a new appearance and now fires timed sticky explosives (the same ones Combine Hunters fire) rather than auto-aimed rockets. Now fires directly at the aim location rather than parallel to the ground.
+		[*][b]Ricochet Rifle (hidden):[/b] This gun has a new appearance and no longer requires the secondary trigger to be held to bounce shots. Instead, holding the secondary trigger switches the gun to a shotgun-like burst fire mode. Bounced bullets can now hit the marine that fired them.
 [*]セントリーガンがスキャンするアニメーションが停止時の角度と同期されていなかったのを修正。
 [*]衝突判定のコードに矛盾があったのを修正。BOTと投射物に関して特に顕著だった。
 [*]ゲームパッドでプレイ中に補助アイテムが使用できなくなることがあったのを修正。
@@ -83,6 +86,7 @@ TODO
 [*]デスマッチモードにてゲームインストラクターがリスポーンの方法について正しくない情報を出していたのを修正し、HUD上に出される指示を整理した。
 [*]BOTが危険な状況を避けたりシールドバグ相手に回り込む行動を改善した。
 [*]BOTがプレイヤーの目の前にテレポートしにくくなった。
+		[*]You can flush the toilets in official missions.
 [*]一人称か三人称モードでのミッション開始時に隊員が必ず東向きになっている事は無くなった。
 [*]一部のヒントが小さすぎて読みにくかったのを修正。
 [*]SteamのBig Pictureモードを使用中にテキスト入力欄を選択した時、スクリーンキーボードが開くようになった。
@@ -130,6 +134,8 @@ TODO
 [*]天気、動力炉の状態、株価情報はファイルのkeyvaluesでカスタム可能になった。それと同時に、天気予報を開く度に気温がランダムには設定されなくなった。
 [/list]
 [*]func_asw_fadeはデフォルト設定ではグレネードとの衝突判定を無視するようになった。
+		[*]Added asw_weapon_ar2 and asw_ammo_ar2. The Pulse Rifle can only refill ammo from these specific ammo packs and cannot use generic ammo stashes.
+		[*]Added asw_ammo_grenade_launcher, asw_ammo_sniper_rifle, and asw_ammo_heavy_rifle.
 [/list]
 
 [h2]VScript[/h2]

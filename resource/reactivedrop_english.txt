@@ -509,6 +509,9 @@
 "asw_take_ammo_chainsaw"	"Take Chainsaw Fuel"
 "asw_take_ammo_pdw"	"Take PDW Ammo"
 "asw_take_ammo_ar2"	"Take Pulse Rifle Ammo"
+"asw_take_ammo_grenade_launcher"	"Take Grenade Launcher Ammo"
+"asw_take_ammo_sniper_rifle"	"Take Sniper Rifle Ammo"
+"asw_take_ammo_heavy_rifle"	"Take Heavy Rifle Ammo"
 
 // powerups
 "asw_take_pow_fire_bullets"	"Take Fire Booster"
@@ -529,6 +532,9 @@
 "asw_ammo_chainsaw"	"Chainsaw Fuel"
 "asw_ammo_pdw"	"PDW Ammo"
 "asw_ammo_ar2"	"Pulse Rifle Ammo"
+"asw_ammo_grenade_launcher"	"Grenade Launcher Ammo"
+"asw_ammo_sniper_rifle"	"Sniper Rifle Ammo"
+"asw_ammo_heavy_rifle"	"Heavy Rifle Ammo"
 
 "asw_ammo_rifle_full"	"Full Rifle Clips"
 "asw_ammo_autogun_full"	"Full Autogun Clips"
@@ -541,6 +547,9 @@
 "asw_ammo_chainsaw_full"	"Full Chainsaw Fuel"
 "asw_ammo_pdw_full"	"Full PDW Clips"
 "asw_ammo_ar2_full"	"Full Pulse Rifle Energy"
+"asw_ammo_grenade_launcher_full"	"Full Grenade Launcher Clips"
+"asw_ammo_sniper_rifle_full"	"Full Sniper Rifle Clips"
+"asw_ammo_heavy_rifle_full"	"Full Heavy Rifle Clips"
 
 "asw_use_icon_format"	"[%s1] %s2"
 "asw_hold_use_icon_format"	"Hold [%s1] %s2"
