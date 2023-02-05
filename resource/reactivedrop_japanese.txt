@@ -5038,7 +5038,7 @@
 "[english]rd_so_tips_mortarbug"		"IAF Fact Sheet:\n• Mortarbugs are larger, stronger rangers. Capable marines keep an eye out for mortar shots coming over walls.\n• Instead of acid, mortarbugs spit bombs that explode after a constant length of time.\n• Mortarbug bombs are capable of damaging aliens and marines alike. Swift marines can take advantage of this to help clear densely-packed swarms."
 "rd_so_tips_harvester"		"IAF概要書:\n• ハーベスターは直接の攻撃はせず、代わりにゼノマイトを産み出して攻撃させます。\n• 海兵隊はハーベスターに近づく際には注意すべきです。\n　直接攻撃はしてこないけれど、皮膚が腐食性で触れるのは危険です。\n• ハーベスターは様々なエイリアンの中で海兵隊から離れようと動く数少ない一種です。\n　ゼノマイトの群衆が押し寄せるのを止めるためにハーベスターを追いかけなければならなくなることもあります。"
 "[english]rd_so_tips_harvester"		"IAF Fact Sheet:\n• Instead of attacking directly, harvesters spawn xenomites to attack for them.\n• Marines should exercise caution when approaching a Harvester. They don't attack directly, but their skin is corrosive.\n• Harvesters are one of the few known specimens that will walk away from marines. You may have to chase them down to stem the tide of xenomites."
-"rd_so_tips_xenomite"		"IAF概要書:\n• ゼノマイト唯一の危険な点は背中の酸袋です。\n• ゼノマイトは海兵隊に飛びついて自爆しようとします。海兵隊はゼノマイトを先に殺してしまえば身を守ることができます。\n• ゼノマイトが居るのは基本的に近くにハーベスターがいる兆候ですが、単独で居る場合があることも知られています。"
+"rd_so_tips_xenomite"		"IAF概要書:\n• ゼノマイト唯一の危険な点は背中の酸袋です。\n• ゼノマイトは海兵隊に飛びついて自爆しようとします。\n　海兵隊はゼノマイトを先に殺してしまえば身を守ることができます。\n• ゼノマイトが居るのは基本的に近くにハーベスターが居る兆候ですが、単独で居る場合もあります。"
 "[english]rd_so_tips_xenomite"		"IAF Fact Sheet:\n• The only dangerous part of a xenomite is the acid sac on its behind.\n• Xenomites will attempt to jump onto marines and detonate themselves. Marines can refuse xenomites by killing them first.\n• Xenomites often indicate that a Harvester is nearby, but they're also known to exist independently."
 "rd_so_tips_mender"		""
 // TODO
