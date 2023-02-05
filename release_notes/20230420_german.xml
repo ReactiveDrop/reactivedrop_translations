@@ -56,7 +56,7 @@ Hier sind einige Highlights der Updates seit dem letzten Jahrestag:
 [*][b]Paranoia: Unerwartete Begegnungen:[/b] Fehler im Zusammenhang mit dem Zielen von Granatwerfern wurden behoben.
 [*][b]Paranoia: Feindliche Orte:[/b] Fehler im Zusammenhang mit dem Zielen von Granatwerfern wurden behoben.
 [*][b]Bunker:[/b] Die Kollision mit einem unsichtbaren Deckenbalken wurde entfernt.
-		[*]All official missions have been given custom loading screens.
+[*]Alle offiziellen Einsätze haben eigene Ladebildschirme erhalten.
 [/list]
 
 [h2]Waffen[/h2]
@@ -66,8 +66,8 @@ Hier sind einige Highlights der Updates seit dem letzten Jahrestag:
 [*][b]M868 Flammenwerfer:[/b] Treibstofftanks, die nur eine halbe Nachladung an Munition liefern wurden behoben.
 [*][b]Kettensäge:[/b] Bots benutzen diese Waffe jetzt aus einer angemesseneren Reichweite.
 [*][b]TG-05 Gasgranaten:[/b] Das Aussehen des Gegenstandes wurde aktualisiert, um ihn von anderen Granaten zu unterscheiden.
-		[*][b]Flechette Gun (hidden):[/b] This gun has a new appearance and now fires timed sticky explosives (the same ones Combine Hunters fire) rather than auto-aimed rockets. Now fires directly at the aim location rather than parallel to the ground.
-		[*][b]Ricochet Rifle (hidden):[/b] This gun has a new appearance and no longer requires the secondary trigger to be held to bounce shots. Instead, holding the secondary trigger switches the gun to a shotgun-like burst fire mode. Bounced bullets can now hit the marine that fired them.
+[*][b]Flechette-Gewehr (versteckt):[/b] Dieses Gewehr hat ein neues Aussehen und verschießt jetzt zeitgesteuerte klebrige Sprengsätze (die gleichen, die Combine Jäger abfeuern) anstelle von Raketen mit automatischer Zielvorrichtung. Schießt jetzt direkt auf den Zielpunkt und nicht mehr parallel zum Boden.
+[*][b]Querschläger-Gewehr (versteckt):[/b] Diese Waffe hat ein neues Aussehen und erfordert nicht mehr, dass der sekundäre Abzug gehalten wird, um Schüsse abprallen zu lassen. Stattdessen, wenn man den zweiten Abzug gedrückt hält, schaltet die Waffe in einen schrotflintenähnlichen Modus um. Abprallende Kugeln können jetzt den Soldaten treffen, der sie abgefeuert hat.
 [*]Die Scan-Animation für Wächter, die aus dem Ruhewinkel des Geschützes ausscheren, wurde behoben.
 [*]Unstimmigkeiten im Code der Kollisionsprüfung wurden behoben, vor allem im Zusammenhang mit Bots und Geschossen.
 [*]Ein Fehler wurde behoben, der manchmal die Verwendung Zusatzausrüstung auf dem Controller verhinderte.
@@ -86,7 +86,7 @@ Hier sind einige Highlights der Updates seit dem letzten Jahrestag:
 [*]Der Spielanleiter hat falsche Informationen über den Respawn im Deathmatch-Modus angezeigt. Außerdem wurden die Eingabeaufforderungen auf dem HUD aufgeräumt.
 [*]Die Fähigkeit der Bots, Gefahren auszuweichen und Schildkäfer zu flankieren, wurde verbessert.
 [*]Die Wahrscheinlichkeit, dass sich Bots vor einen Spieler teleportieren, ist jetzt viel geringer.
-		[*]You can flush the toilets in official missions.
+[*]Die Toiletten in offiziellen Einsätzen können gespült werden.
 [*]Spieler schauen nicht mehr immer nach Osten, wenn sie einen Einsatz in der ersten oder dritten Person starten.
 [*]Einige Tooltips waren zu klein, um sie gut lesen zu können.
 [*]Wenn du bei aktiviertem Steam-Big-Picture eine Texteingabe auswählst, wird die Bildschirmtastatur geöffnet.
@@ -134,8 +134,8 @@ Hier sind einige Highlights der Updates seit dem letzten Jahrestag:
 [*]Wetter, Reaktorstatus und Börseninformationen können jetzt mit Keyvalues-Dateien angepasst werden. Außerdem wird die aktuelle Temperatur nicht mehr jedes Mal zufällig angezeigt, wenn der Wetterbericht geöffnet wird.
 [/list]
 [*]func_asw_fade ignoriert jetzt standardmäßig Kollisionen mit Granaten.
-		[*]Added asw_weapon_ar2 and asw_ammo_ar2. The Pulse Rifle can only refill ammo from these specific ammo packs and cannot use generic ammo stashes.
-		[*]Added asw_ammo_grenade_launcher, asw_ammo_sniper_rifle, and asw_ammo_heavy_rifle.
+[*]asw_weapon_ar2 und asw_ammo_ar2 wurden hinzugefügt. Das Impulsgewehr kann nur Munition aus diesen speziellen Munitionspaketen nachfüllen und kann keine allgemeinen Munitionsvorräte verwenden.
+[*]Es wurden asw_ammo_grenade_launcher, asw_ammo_sniper_rifle und asw_ammo_heavy_rifle hinzugefügt.
 [/list]
 
 [h2]VScript[/h2]
