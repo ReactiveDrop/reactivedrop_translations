@@ -7,7 +7,7 @@
 
 《32号事故》最初于2020年5月和2022年5月在Steam 创意工坊上发布，是一次拥有6个任务的战役，它将两个3个任务的战役结合在一起。陆战队开始探索名为琥珀公司的总部和神秘的建筑群，并面临许多威胁。赏金任务“琥珀综合体”任务，其是将前三个任务合并为一个。
 
-[img]{STEAM_CLAN_IMAGE}/27357479/6eec6d4976d6b0ceb9bbe4941b1fe9e2b803fbee.jpg[/img]
+[img]{STEAM_CLAN_IMAGE}/27357479/b527e399d2930690d08f8aa95025dedcc0cf1b9d.jpg[/img]
 
 [h1]新的战役：阿达克斯[/h1]
 
@@ -56,6 +56,7 @@ TODO
 [*][b]偏执症：始料不及[/b] 修复了 榴弹发射器瞄准的错误。
 [*][b]偏执症：敌对之地[/b] 修复了 榴弹发射器瞄准的错误。
 [*][b]燃料库：[/b] 移除了 无形天花板横梁的碰撞。
+		[*]All official missions have been given custom loading screens.
 [/list]
 
 [h2]武器[/h2]
@@ -63,8 +64,10 @@ TODO
 [*][b]ML30激光地雷：[/b] 改进了 投掷动画的网络预测。
 		[*][b]CR18 Freeze Grenades:[/b] Freezing now kills buzzers, and marines can be frozen in Deathmatch mode.
 [*][b]M868火焰装置：[/b] 修复了 燃料箱只提供一半的弹药装填的问题。
-[*][b]TG-05 毒气手雷：[/b] 更新了物品的外观，以帮助区分它与其他类型的手榴弹。
 [*][b]链锯：[/b] 机器人现在在更合理的范围内使用这种武器。
+[*][b]TG-05 毒气手雷：[/b] 更新了物品的外观，以帮助区分它与其他类型的手榴弹。
+		[*][b]Flechette Gun (hidden):[/b] This gun has a new appearance and now fires timed sticky explosives (the same ones Combine Hunters fire) rather than auto-aimed rockets. Now fires directly at the aim location rather than parallel to the ground.
+		[*][b]Ricochet Rifle (hidden):[/b] This gun has a new appearance and no longer requires the secondary trigger to be held to bounce shots. Instead, holding the secondary trigger switches the gun to a shotgun-like burst fire mode. Bounced bullets can now hit the marine that fired them.
 [*]修复了 哨兵塔在空闲时，角度不同步的扫描动画问题。
 [*]修复了 碰撞检查代码中的不一致，最明显的是与机器人陆战队和投射物有关。
 		[*]Fixed a bug sometimes preventing the use of off-hand items on controller.
@@ -83,6 +86,7 @@ TODO
 [*]修复了 游戏教练给出关于如何在死亡模式中重生的错误信息，并整理了HUD上的提示。
 		[*]Improved bots' ability to avoid danger and flank shieldbugs.
 		[*]Bots are now much less likely to teleport in front of a player.
+		[*]You can flush the toilets in official missions.
 		[*]Marines no longer always face east when starting a mission in first or third person.
 		[*]Fixed some tooltips being too small to comfortably read.
 		[*]When selecting a text input with Steam Big Picture enabled, the on-screen keyboard will open.
@@ -131,6 +135,8 @@ TODO
 		[*]Weather, reactor status, and stock market info can now be customized with keyvalues files. Additionally, the current temperature is no longer randomized every time the weather report is opened.
 [/list]
 		[*]func_asw_fade now ignores collisions with grenades by default.
+		[*]Added asw_weapon_ar2 and asw_ammo_ar2. The Pulse Rifle can only refill ammo from these specific ammo packs and cannot use generic ammo stashes.
+		[*]Added asw_ammo_grenade_launcher, asw_ammo_sniper_rifle, and asw_ammo_heavy_rifle.
 [/list]
 
 [h2]VScript[/h2]
