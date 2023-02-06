@@ -4,7 +4,7 @@ GAME
 
 // Inbox
 
-"MailFrom1"	"От: Д-р. Фостер"
+"MailFrom1"	"От: Дэвид Фостер"
 "MailDate1"	"Дата: 13.03.46"
 "MailSubject1"	"Тема: Дозировка"
 "MailBody1A"	"Джозеф"
@@ -14,7 +14,7 @@ GAME
 
 // Sent
 
-"MailFrom3"	"Кому: Д-р. Фостер"
+"MailFrom3"	"Кому: Дэвид Фостер"
 "MailDate3"	"Дата: 13.03.46"
 "MailSubject3"	"Тема: На: Дозировка"
 "MailBody3A"	"Согласен."
