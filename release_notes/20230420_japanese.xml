@@ -37,7 +37,7 @@ TODO
 [list]
 [*]ワークショップのアドオンに動画が含められるようになった。またミッションにはブリーフィング中の背景に固有の動画を設定したり、実際のステージの一部を表示できるようにもなった。
 [*]Steam Deck互換性が確認済みになりました！ Steam Deck上でしっかりと動かすことができるし、Linuxのプレイヤーやゲームコントローラーの使用者も改善を感じられるでしょう。
-[*]ゲーム開発への協力、Steamコミュニティハブでの貢献、Interstellar Armed Forcesの英雄たちのシーズンに参加することで貰える勲章が追加された。。
+[*]ゲーム開発への協力、Steamコミュニティハブでの貢献、Interstellar Armed Forcesの英雄たちのシーズンに参加することで貰える勲章が追加された。
 [*]多くのミッションで使われているゆっくり開くシェルター用ドアは、より正確な衝突判定データを持つようになり、開きかけの隙間に踏み込んだりそこから射撃が可能になった。
 [*]ボーナスミッションと新しい『エンドレス』ミッションのサポートを含む、刷新されたミッション選択画面。
 [*]高度な設定のメニューと高度な音声設定のメニューを追加。
@@ -56,7 +56,7 @@ TODO
 [*][b]Paranoia: Unexpected Encounter:[/b] グレネードランチャーのエイムに関するバグを修正。
 [*][b]Paranoia: Hostile Places:[/b] グレネードランチャーのエイムに関するバグを修正。
 [*][b]Bunker:[/b] 天井の見えない梁の衝突判定を削除。
-		[*]All official missions have been given custom loading screens.
+[*]全ての公式ミッションにカスタムロード画面を追加。
 [/list]
 
 [h2]武器[/h2]
@@ -66,8 +66,8 @@ TODO
 [*][b]M868 フレイマーユニット:[/b] 燃料タンクを拾ってもリロード1回の半分相当しか弾薬が得られなかったのを修正。
 [*][b]チェーンソー:[/b] BOTがこの武器をより適切な射程で使うようになった。
 [*][b]TG-05 ガスグレネード:[/b] 他のグレネード類と見分け易くなるようにアイテムの見た目を更新。
-		[*][b]Flechette Gun (hidden):[/b] This gun has a new appearance and now fires timed sticky explosives (the same ones Combine Hunters fire) rather than auto-aimed rockets. Now fires directly at the aim location rather than parallel to the ground.
-		[*][b]Ricochet Rifle (hidden):[/b] This gun has a new appearance and no longer requires the secondary trigger to be held to bounce shots. Instead, holding the secondary trigger switches the gun to a shotgun-like burst fire mode. Bounced bullets can now hit the marine that fired them.
+[*][b]フレシェットランチャー (シークレット武器):[/b] 外見が新しくなり、自動追跡ロケット弾ではなく時限式粘着爆弾を発射するようになった。(コンバインのハンターが使用する物と同じ) それに伴い地面と平行ではなく狙った場所に向けて射撃するようになった。
+[*][b]リコシェットライフル (シークレット武器):[/b] 外見が新しくなり、跳弾を発射するのに特殊攻撃ボタンを押したままにする必要は無くなった。代わりに、特殊攻撃ボタンを長押しすることでショットガンの様なバースト射撃モードへの切り替えが可能になった。跳弾は発射した隊員自身にも当たるようになった。
 [*]セントリーガンがスキャンするアニメーションが停止時の角度と同期されていなかったのを修正。
 [*]衝突判定のコードに矛盾があったのを修正。BOTと投射物に関して特に顕著だった。
 [*]ゲームパッドでプレイ中に補助アイテムが使用できなくなることがあったのを修正。
@@ -86,7 +86,7 @@ TODO
 [*]デスマッチモードにてゲームインストラクターがリスポーンの方法について正しくない情報を出していたのを修正し、HUD上に出される指示を整理した。
 [*]BOTが危険な状況を避けたりシールドバグ相手に回り込む行動を改善した。
 [*]BOTがプレイヤーの目の前にテレポートしにくくなった。
-		[*]You can flush the toilets in official missions.
+[*]公式ミッションでトイレを流せるようになった。
 [*]一人称か三人称モードでのミッション開始時に隊員が必ず東向きになっている事は無くなった。
 [*]一部のヒントが小さすぎて読みにくかったのを修正。
 [*]SteamのBig Pictureモードを使用中にテキスト入力欄を選択した時、スクリーンキーボードが開くようになった。
@@ -134,8 +134,8 @@ TODO
 [*]天気、動力炉の状態、株価情報はファイルのkeyvaluesでカスタム可能になった。それと同時に、天気予報を開く度に気温がランダムには設定されなくなった。
 [/list]
 [*]func_asw_fadeはデフォルト設定ではグレネードとの衝突判定を無視するようになった。
-		[*]Added asw_weapon_ar2 and asw_ammo_ar2. The Pulse Rifle can only refill ammo from these specific ammo packs and cannot use generic ammo stashes.
-		[*]Added asw_ammo_grenade_launcher, asw_ammo_sniper_rifle, and asw_ammo_heavy_rifle.
+[*]asw_weapon_ar2、asw_ammo_ar2を追加。パルスライフルはこれらの専用弾薬パックでしか補給できず、通常の弾薬箱は使用できない。
+[*]asw_ammo_grenade_launcher、asw_ammo_sniper_rifle、asw_ammo_heavy_rifleを追加。
 [/list]
 
 [h2]VScript[/h2]
