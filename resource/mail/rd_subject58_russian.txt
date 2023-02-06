@@ -2,7 +2,7 @@ GAME
 {
 // PDA belongs to Dr. Tom Hinler
 
-"MailFrom1"	"От: Д-р. Том Гинлер."
+"MailFrom1"	"От: Том Гинлер."
 "MailDate1"	"Дата: 26.05.60"
 "MailSubject1"	"Тема: Объект №58"
 "MailBody1A"	"Четверг, 21 мая:"
