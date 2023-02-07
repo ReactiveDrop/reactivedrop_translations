@@ -1842,7 +1842,7 @@
 "[english]L4D360UI_Controller_Tooptip_Clear"		"Clear Bind."
 "L4D360UI_Campaign_Tooltip_Any"		"Wähle einen beliebigen Feldzug aus."
 "[english]L4D360UI_Campaign_Tooltip_Any"		"Select any campaign."
-"L4D360UI_Campaign_Tooltip_Any_Disabled"		"Due hast noch nicht die Fähigkeit, einen beliebigen Feldzug auszuwählen."
+"L4D360UI_Campaign_Tooltip_Any_Disabled"		"Du hast noch nicht die Fähigkeit, einen beliebigen Feldzug auszuwählen."
 "[english]L4D360UI_Campaign_Tooltip_Any_Disabled"		"You have not yet unlocked the ability to select any campaign."
 "L4D360UI_Campaign_Tooltip_Currently_Playing"		"Dies ist der Feldzug, den du gerade spielst."
 "[english]L4D360UI_Campaign_Tooltip_Currently_Playing"		"This is the campaign you are currently playing."
