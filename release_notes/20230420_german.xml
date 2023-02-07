@@ -44,6 +44,46 @@ Hier sind einige Highlights der Updates seit dem letzten Jahrestag:
 [*]Beim Neustart eines Einsatzes wird kein Ladebildschirm mehr angezeigt.
 [/list]
 
+		[h1]Year in Review[/h1]
+
+		In 2022, marines killed 985,092,535 aliens in official missions and an additional 56,154,088 aliens in missions from the Steam Workshop. 575,108 players tried Alien Swarm: Reactive Drop for the first time last year. Including returning players, marines spent 1,590,427 hours in 17,674,520 missions. 10,947 players took part in at least one of the first six seasons of Heroes of the Interstellar Armed Forces by playing on participating community dedicated servers. December 6th saw the highest player count of the year, with 16,080 players logging - over three times the average. Alien Swarm: Reactive Drop was played from 85 different countries in 2022.
+
+		Killing that many aliens takes a lot of ammunition - you fired 5,303,484,897 bullets last year - that's about half as many bullets as are manufactured in the entire world each year - and that doesn't even count weapons that don't fire bullets. Marines also fired 232,409,109 shotgun shells, deployed 11,307,827 mines, and used 104,722,710 grenades. You launched 274,157,391 missiles and fired flamethrowers for a total of 86 million seconds, not to mention using chainsaws for over 1.4 billion seconds. (That's over 45 years!)
+
+		It wasn't just handheld guns and explosives, either. Last year, marines deployed:
+		[list]
+		[*]905,280 doses of Adrenaline
+		[*]3,890,668 ammo stashes
+		[*]1,501,644 X33 Damage Amplifiers
+		[*]10,282,887 IAF Heal Beacons
+		[*]3,783,431 IAF Advanced Sentry Guns
+		[*]523,062 IAF Incendiary Sentry Guns
+		[*]261,255 IAF Freeze Sentry Guns
+		[*]260,971 IAF High Velocity Sentry Cannons
+		[*]3,822,448 IAF Tesla Sentry Coils
+		[/list]
+
+		Marines also brought 105,866 flashlights along on missions.
+
+		You've destroyed 2,147,368 pieces of Biomass in 2022 since we started tracking it in late August. Between when we started tracking alien deaths in mid-June and the end of 2022, marines have killed:
+		[list]
+		[*]582,811,354 Drones
+		[*]28,956,762 Parasites
+		[*]27,244,232 Xenomites
+		[*]16,772,012 Rangers
+		[*]15,897,059 Eggs
+		[*]14,968,328 Buzzers
+		[*]11,929,443 Grubs
+		[*]2,940,237 Harvesters
+		[*]2,863,582 Boomers
+		[*]2,190,344 Menders
+		[*]1,945,290 Shieldbugs
+		[*]1,851,113 Mortarbugs
+		[*]577,023 Antlions
+		[*]186,411 Headcrab Zombies
+		[*]3,489 Queens
+		[/list]
+
 [h1]Andere Änderungen in diesem Update[/h1]
 
 [h2]Feldzüge[/h2]
@@ -55,6 +95,7 @@ Hier sind einige Highlights der Updates seit dem letzten Jahrestag:
 [*][b]Lanas Flucht: Lanas Abwasserkanal:[/b] Die radioaktiven Fässer in der Arena fügen den Heilern mehr Schaden zu.
 [*][b]Paranoia: Unerwartete Begegnungen:[/b] Fehler im Zusammenhang mit dem Zielen von Granatwerfern wurden behoben.
 [*][b]Paranoia: Feindliche Orte:[/b] Fehler im Zusammenhang mit dem Zielen von Granatwerfern wurden behoben.
+		[*][b]Nam Humanum: Platform XVII:[/b] Fixed bot marines refusing to stand on the moving platform.
 [*][b]Bunker:[/b] Die Kollision mit einem unsichtbaren Deckenbalken wurde entfernt.
 [*]Alle offiziellen Einsätze haben eigene Ladebildschirme erhalten.
 [/list]
@@ -76,7 +117,7 @@ Hier sind einige Highlights der Updates seit dem letzten Jahrestag:
 
 [h2]Verschiedenes[/h2]
 [list]
-[*]Für den Befehl buildcubemaps muss jetzt sv_cheats aktiviert sein.
+		[*]Fixed an issue where server-triggered achievements such as speed runs and Outstanding Execution could be skipped due to momentary packet loss.
 [*]Ein Absturz wurde behoben, wenn ein Alien versuchte, ein physikalisches Objekt auf ein Ziel zu werfen, das gestorben war.
 [*]Ein Absturz beim Verlassen eines Bildschirms mit einem geöffneten Dropdown-Menü wurde behoben.
 [*]Es wurde behoben, das dem Spieler empfohlen wird eine Tür zu schweißen, die bereits so beschädigt ist, dass sie sich nicht mehr öffnen oder schließen lässt.
@@ -94,6 +135,10 @@ Hier sind einige Highlights der Updates seit dem letzten Jahrestag:
 [*]Das Spiel aktualisiert seinen Status jetzt häufiger in Zeitlupe.
 [*]Wenn du einen gesperrten Computer hackst, wird jetzt immer das Menü angezeigt, anstatt kritische Daten herunterzuladen oder nichts zu tun.
 [*]Wenn du eine Bonus- oder Deathmatch-Karte beendest, wählt das Spiel jetzt standardmäßig einen nächsten Einsatz aus.
+		[*]The Leadership skill can now be triggered by any officer within range, not just the officer with the most points in the skill.
+		[*]Added a visible and audible indication for when Leadership affects damage dealt or taken.
+		[*]Challenges can now set "required_on_client" "1" if they wish to include assets, which will cause the workshop addon to be automatically downloaded when the challenge is activated.
+		[*]Challenges can now be marked for use in deathmatch with "allowed_mode" "deathmatch". Challenges that are able to be used in both deathmatch and cooperative play can additionally specify "allowed_mode" "coop".
 [/list]
 
 [h2]Mapping[/h2]
@@ -133,9 +178,11 @@ Hier sind einige Highlights der Updates seit dem letzten Jahrestag:
 [*]Der Reaktorstatus kann über eine Eingabe im Computerbereich gesteuert werden, als Alternative zu der alten Methode, bei der ein Objektiv mit einem bestimmten Symbol verwendet wurde.
 [*]Wetter, Reaktorstatus und Börseninformationen können jetzt mit Keyvalues-Dateien angepasst werden. Außerdem wird die aktuelle Temperatur nicht mehr jedes Mal zufällig angezeigt, wenn der Wetterbericht geöffnet wird.
 [/list]
+[*]Für den Befehl buildcubemaps muss jetzt sv_cheats aktiviert sein.
 [*]func_asw_fade ignoriert jetzt standardmäßig Kollisionen mit Granaten.
 [*]asw_weapon_ar2 und asw_ammo_ar2 wurden hinzugefügt. Das Impulsgewehr kann nur Munition aus diesen speziellen Munitionspaketen nachfüllen und kann keine allgemeinen Munitionsvorräte verwenden.
 [*]Es wurden asw_ammo_grenade_launcher, asw_ammo_sniper_rifle und asw_ammo_heavy_rifle hinzugefügt.
+		[*]Added info_marine_hint_dynamic, which can be assigned a parent and moved.
 [/list]
 
 [h2]VScript[/h2]
