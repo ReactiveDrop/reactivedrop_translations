@@ -276,7 +276,7 @@
 "[english]asw_undo_tooltip_desc"		"Undo skill points spent this mission"
 "asw_points_tooltip"		"Unbenutzte Fertigkeitspunkte"
 "[english]asw_points_tooltip"		"Unused Skill Points"
-"asw_points_tooltip_desc"		"Verwende Fertigkeitspunkte, um die Fertigkeiten der Soldaten zu verbessern.\nDiesem Soldaten wurden bereits %s1 Fertigkeitspunke zugewiesen."
+"asw_points_tooltip_desc"		"Verwende Fertigkeitspunkte, um die Fertigkeiten der Soldaten zu verbessern.\nDiesem Soldaten wurden bereits %s1 Fertigkeitspunkte zugewiesen."
 "[english]asw_points_tooltip_desc"		"Spend skill points to improve marine abilities.\nMarine has %s1 skill points already allocated."
 "asw_leadership_desc"		"Erhöht den verursachten Schaden und die Schadensresistenz von nahen Teamkameraden."
 "[english]asw_leadership_desc"		"Boosts the damage dealt and damage\nresistance of nearby squad mates."
