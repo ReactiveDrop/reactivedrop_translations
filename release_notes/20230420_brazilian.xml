@@ -32,19 +32,6 @@ Ou, se você tiver uma ideia melhor, vá em frente e faça isso! Os temas da com
 
 As inscrições devem ser marcadas com [b]BossFight2023[/b]. A competição começa hoje e termina em 1º de agosto. Os prêmios incluem medalhas exclusivas no jogo. Se precisar de ajuda para começar, confira o fórum [url=https://steamcommunity.com/app/563560/discussions/1/]Modding/Mapping Help and Tips[/url].
 
-[h1]Caso você tenha perdido[/h1]
-
-Aqui estão alguns destaques das atualizações desde o aniversário anterior:
-[list]
-[*]Os add-ons do workshop agora podem conter vídeos, e as missões podem conter seu próprio vídeo como um resmo no plano de fundo ou até mesmo mostrar parte do mundo como plano de fundo durante o resumo.
-[*]Somos verificados pelo Steam Deck! O jogo roda muito bem no Steam Deck, e os jogadores no Linux ou que usam um controle também notaram melhorias.
-[*]Agora existem medalhas que você pode ganhar ajudando no desenvolvimento do jogo, contribuindo para o centro da comunidade Steam ou participando de uma temporada de Heróis das Forças Armadas Interestelares.
-[*]As portas de cofre que abrem lentamente usadas em muitas missões agora possuem informações de colisão mais precisos, permitindo que você pise ou atire através de uma porta parcialmente aberta.
-[*]A nova tela de seleção de missão inclui suporte para missões bônus e novas missões "sem fim".
-[*]Adicionamos um menu de configurações avançadas e um menu de configurações de áudio avançadas.
-[*]Reiniciar uma missão não requer mais uma tela de carregamento.
-[/list]
-
 		[h1]Year in Review[/h1]
 
 		In 2022, marines killed 985,092,535 aliens in official missions and an additional 56,154,088 aliens in missions from the Steam Workshop. 575,108 players tried Alien Swarm: Reactive Drop for the first time last year. Including returning players, marines spent 1,590,427 hours in 17,674,520 missions. 10,947 players took part in at least one of the first six seasons of Heroes of the Interstellar Armed Forces by playing on participating community dedicated servers. December 6th saw the highest player count of the year, with 16,080 players logging - over three times the average. Alien Swarm: Reactive Drop was played from 85 different countries in 2022.
@@ -63,7 +50,6 @@ Aqui estão alguns destaques das atualizações desde o aniversário anterior:
 		[*]260,971 IAF High Velocity Sentry Cannons
 		[*]3,822,448 IAF Tesla Sentry Coils
 		[/list]
-
 		Marines also brought 105,866 flashlights along on missions.
 
 		You've destroyed 2,147,368 pieces of Biomass in 2022 since we started tracking it in late August. Between when we started tracking alien deaths in mid-June and the end of 2022, marines have killed:
@@ -84,6 +70,19 @@ Aqui estão alguns destaques das atualizações desde o aniversário anterior:
 		[*]186,411 Headcrab Zombies
 		[*]3,489 Queens
 		[/list]
+
+[h1]Caso você tenha perdido[/h1]
+
+Aqui estão alguns destaques das atualizações desde o aniversário anterior:
+[list]
+[*]Os add-ons do workshop agora podem conter vídeos, e as missões podem conter seu próprio vídeo como um resmo no plano de fundo ou até mesmo mostrar parte do mundo como plano de fundo durante o resumo.
+[*]Somos verificados pelo Steam Deck! O jogo roda muito bem no Steam Deck, e os jogadores no Linux ou que usam um controle também notaram melhorias.
+[*]Agora existem medalhas que você pode ganhar ajudando no desenvolvimento do jogo, contribuindo para o centro da comunidade Steam ou participando de uma temporada de Heróis das Forças Armadas Interestelares.
+[*]As portas de cofre que abrem lentamente usadas em muitas missões agora possuem informações de colisão mais precisos, permitindo que você pise ou atire através de uma porta parcialmente aberta.
+[*]A nova tela de seleção de missão inclui suporte para missões bônus e novas missões "sem fim".
+[*]Adicionamos um menu de configurações avançadas e um menu de configurações de áudio avançadas.
+[*]Reiniciar uma missão não requer mais uma tela de carregamento.
+[/list]
 
 [h1]Outras mudanças nesta atualização[/h1]
 
