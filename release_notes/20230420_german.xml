@@ -31,19 +31,6 @@ Wenn du eine bessere Idee hast, kannst du sie auch selbst machen! AS:RD Mapping-
 
 Die Beiträge müssen getaggt sein mit [b]BossFight2023[/b]. Der Wettbewerb beginnt heute und endet am 1. August. Zu den Preisen gehören einzigartige Ingame-Medaillen. Wenn du Hilfe bei den ersten Schritten brauchst, schau im [url=https://steamcommunity.com/app/563560/discussions/1/]Modding / Mapping Help and Tips[/url] Forum nach.
 
-[h1]Falls du es verpasst hast[/h1]
-
-Hier sind einige Highlights der Updates seit dem letzten Jahrestag:
-[list]
-[*]Workshop-Erweiterungen können jetzt Videos enthalten und Einsätze können ihr eigenes Einweisung-Hintergrundvideo definieren oder sogar einen Teil der Welt als Hintergrund während der Einweisung zeigen.
-[*]Wir sind Steam Deck verifiziert! Das Spiel läuft großartig auf dem Steam Deck und auch Spieler auf Linux oder die einen Controller benutzen, haben Verbesserungen festgestellt.
-[*]Es gibt jetzt Medaillen, die du dir verdienen kannst, indem du bei der Entwicklung des Spiels hilfst, einen Beitrag zum Steam-Community-Hub leistest oder an einer Saison von Helden der interstellaren Streitkräfte teilnimmst.
-[*]Die sich langsam öffnenden Türen, die in vielen Einsätzen verwendet werden, haben jetzt genauere Kollisionsdaten, die es dir ermöglichen, durch eine teilweise geöffnete Tür zu treten oder zu schießen.
-[*]Der völlig neue Einsatzauswahlbildschirm unterstützt Bonus-Karten und neue Endlos Einsätze.
-[*]Wir haben ein Menü für erweiterte Einstellungen und ein Menü für erweiterte Audioeinstellungen hinzugefügt.
-[*]Beim Neustart eines Einsatzes wird kein Ladebildschirm mehr angezeigt.
-[/list]
-
 [h1]Das Jahr im Rückblick[/h1]
 
 Im Jahr 2022 haben Soldaten 985.092.535 Aliens in offiziellen Einsätzen und weitere 56.154.088 Aliens in Einsätzen aus dem Steam Workshop getötet. 575.108 Spieler/innen probierten Alien Swarm: Reactive Drop im letzten Jahr zum ersten Mal aus. Einschließlich der wiederkehrenden SpielerInnen verbrachten die Soldaten 1.590.427 Stunden in 17.674.520 Einsätzen. 10.947 SpielerInnen haben an mindestens einer der ersten sechs Saisonen von Helden der interstellaren Streitkräfte teilgenommen, indem sie auf den teilnehmenden Community-Servern spielten. Am 6. Dezember wurde die höchste Spielerzahl des Jahres erreicht: 16.080 Spieler/innen loggten sich ein - mehr als das Dreifache des Durchschnitts. Alien Swarm: Reactive Drop wurde im Jahr 2022 in 85 verschiedenen Ländern gespielt.
@@ -62,7 +49,6 @@ Es waren auch nicht nur Feuerwaffen und Sprengstoff. Letztes Jahr wurde auch vie
 [*]260,971 IAF Hochbeschleunigungs-Wächter
 [*]3,822,448 IAF Teslaspulen
 [/list]
-
 105.866 Soldaten brachten Taschenlampen mit auf ihre Einsätze.
 
 Es wurden 2.147.368 Stücke Biomasse im Jahr 2022 zerstört, seit wir Ende August angefangen haben diese zu zählen. Zwischen dem Zeitpunkt, an dem wir mit der Verfolgung der Alien-Todesfälle Mitte Juni begonnen haben, und dem Ende des Jahres 2022 haben Soldaten getötet:
@@ -82,6 +68,19 @@ Es wurden 2.147.368 Stücke Biomasse im Jahr 2022 zerstört, seit wir Ende Augus
 [*]577,023 Wächterwanzen
 [*]186,411 Kopfkrabben Zombies
 [*]3,489 Königinnen
+[/list]
+
+[h1]Falls du es verpasst hast[/h1]
+
+Hier sind einige Highlights der Updates seit dem letzten Jahrestag:
+[list]
+[*]Workshop-Erweiterungen können jetzt Videos enthalten und Einsätze können ihr eigenes Einweisung-Hintergrundvideo definieren oder sogar einen Teil der Welt als Hintergrund während der Einweisung zeigen.
+[*]Wir sind Steam Deck verifiziert! Das Spiel läuft großartig auf dem Steam Deck und auch Spieler auf Linux oder die einen Controller benutzen, haben Verbesserungen festgestellt.
+[*]Es gibt jetzt Medaillen, die du dir verdienen kannst, indem du bei der Entwicklung des Spiels hilfst, einen Beitrag zum Steam-Community-Hub leistest oder an einer Saison von Helden der interstellaren Streitkräfte teilnimmst.
+[*]Die sich langsam öffnenden Türen, die in vielen Einsätzen verwendet werden, haben jetzt genauere Kollisionsdaten, die es dir ermöglichen, durch eine teilweise geöffnete Tür zu treten oder zu schießen.
+[*]Der völlig neue Einsatzauswahlbildschirm unterstützt Bonus-Karten und neue Endlos Einsätze.
+[*]Wir haben ein Menü für erweiterte Einstellungen und ein Menü für erweiterte Audioeinstellungen hinzugefügt.
+[*]Beim Neustart eines Einsatzes wird kein Ladebildschirm mehr angezeigt.
 [/list]
 
 [h1]Andere Änderungen in diesem Update[/h1]

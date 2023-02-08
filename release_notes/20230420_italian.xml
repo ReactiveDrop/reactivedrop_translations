@@ -31,19 +31,6 @@ Oppure, se avete un'idea migliore, fate pure quella! I temi del concorso di mapp
 
 I contributi devono essere etichettati con [b]BossFight2023[/b]. Il concorso inizia oggi e termina il 1° agosto. I premi includono medaglie uniche in gioco. Se hai bisogno di aiuto per iniziare, consulta il forum di [url=https://steamcommunity.com/app/563560/discussions/1/]Aiuto e suggerimenti per il modding/mapping[/url].
 
-[h1]In caso ve lo siate persi[/h1]
-
-Ecco alcuni momenti salienti dagli aggiornamenti precedenti allo scorso anniversario:
-[list]
-[*]Gli Addon del Workshop ora possono contenere dei video e le missioni possono definire il proprio video di sfondo per il briefing, o anche mostrare una parte del mondo come sfondo durante il briefing.
-[*]Siamo verificati su Steam Deck! Il gioco gira benissimo su Steam Deck, e anche i giocatori su Linux o che utilizzano un controller hanno riscontrato miglioramenti.
-[*]Ora ci sono medaglie che si possono guadagnare aiutando lo sviluppo del gioco, contribuendo all'hub della comunità di Steam o partecipando a una stagione di Eroi delle Forze Armate Interstellari.
-[*]Le porte del caveau ad apertura lenta utilizzate in molte missioni hanno ora dati di collisione più precisi, che consentono di passare o sparare attraverso una porta parzialmente aperta.
-[*]La nuovissima schermata di selezione delle missioni include il supporto per le missioni bonus e le nuove missioni "infinite".
-[*]Abbiamo aggiunto un menu di impostazioni avanzate e un menu di impostazioni audio avanzate.
-[*]Il riavvio di una missione non richiede più una schermata di caricamento.
-[/list]
-
 [h1]Revisione di quest'Anno[/h1]
 
 Nel 2022, i soldati hanno ucciso 985.092.535 alieni nelle missioni ufficiali e altri 56.154.088 alieni nelle missioni del Workshop di Steam. 575.108 giocatori hanno provato Alien Swarm: Reactive Drop per la prima volta lo scorso anno. Compresi i giocatori di ritorno, i soldati hanno trascorso 1.590.427 ore in 17.674.520 missioni. 10.947 giocatori hanno preso parte ad almeno una delle prime sei stagioni di Eroi delle Forze Armate Interstellari giocando sui server dedicati della community. Il 6 dicembre si è registrato il più alto numero di giocatori dell'anno, con 16.080 giocatori registrati, oltre tre volte la media. Alien Swarm: Reactive Drop è stato giocato in 85 Paesi diversi nel 2022.
@@ -62,7 +49,6 @@ Non si trattava solo di armi portatili ed esplosivi. L'anno scorso, i soldati ha
 [*]260,971 Cannoni ad Alta Velocità IAF
 [*]3,822,448 Torretta a Bobine Tesla IAF
 [/list]
-
 I Soldati hanno portato in missione anche 105.866 torce elettriche.
 
 Avete distrutto 2.147.368 pezzi di Biomassa nel 2022 da quando abbiamo iniziato a tracciarla a fine agosto. Tra quando abbiamo iniziato a tracciare le morti di alieni a metà giugno e la fine del 2022, i soldati hanno ucciso:
@@ -82,6 +68,19 @@ Avete distrutto 2.147.368 pezzi di Biomassa nel 2022 da quando abbiamo iniziato 
 [*]577,023 Antlion
 [*]186,411 Zombi Headcrab
 [*]3,489 Regine
+[/list]
+
+[h1]In caso ve lo siate persi[/h1]
+
+Ecco alcuni momenti salienti dagli aggiornamenti precedenti allo scorso anniversario:
+[list]
+[*]Gli Addon del Workshop ora possono contenere dei video e le missioni possono definire il proprio video di sfondo per il briefing, o anche mostrare una parte del mondo come sfondo durante il briefing.
+[*]Siamo verificati su Steam Deck! Il gioco gira benissimo su Steam Deck, e anche i giocatori su Linux o che utilizzano un controller hanno riscontrato miglioramenti.
+[*]Ora ci sono medaglie che si possono guadagnare aiutando lo sviluppo del gioco, contribuendo all'hub della comunità di Steam o partecipando a una stagione di Eroi delle Forze Armate Interstellari.
+[*]Le porte del caveau ad apertura lenta utilizzate in molte missioni hanno ora dati di collisione più precisi, che consentono di passare o sparare attraverso una porta parzialmente aperta.
+[*]La nuovissima schermata di selezione delle missioni include il supporto per le missioni bonus e le nuove missioni "infinite".
+[*]Abbiamo aggiunto un menu di impostazioni avanzate e un menu di impostazioni audio avanzate.
+[*]Il riavvio di una missione non richiede più una schermata di caricamento.
 [/list]
 
 [h1]Altri cambiamenti in questo aggiornamento[/h1]

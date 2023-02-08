@@ -31,19 +31,6 @@ Or, if you have a better idea, go ahead and make that instead! AS:RD mapping com
 
 Entries must be tagged with [b]BossFight2023[/b]. Competition starts today and ends August 1st. Prizes include unique ingame medals. If you need help getting started, check out the [url=https://steamcommunity.com/app/563560/discussions/1/]Modding / Mapping Help and Tips[/url] forum.
 
-[h1]In Case You Missed It[/h1]
-
-Here are some highlights from updates since the previous anniversary:
-[list]
-[*]Workshop addons can now contain videos, and missions can define their own briefing background video, or even show part of the world as the background during briefing.
-[*]We're Steam Deck verified! The game runs great on the Steam Deck, and players on Linux or who use a controller have also seen improvements.
-[*]There are now medals you can earn by helping with the game's development, contributing to the Steam community hub, or participating in a season of Heroes of the Interstellar Armed Forces.
-[*]The slow-opening vault doors used in many missions now have more accurate collision data, allowing you to step or shoot through a partially-opened door.
-[*]The all-new mission selection screen includes support for bonus missions and new "endless" missions.
-[*]We've added an advanced settings menu and an advanced audio settings menu.
-[*]Restarting a mission no longer requires a loading screen.
-[/list]
-
 [h1]Year in Review[/h1]
 
 In 2022, marines killed 985,092,535 aliens in official missions and an additional 56,154,088 aliens in missions from the Steam Workshop. 575,108 players tried Alien Swarm: Reactive Drop for the first time last year. Including returning players, marines spent 1,590,427 hours in 17,674,520 missions. 10,947 players took part in at least one of the first six seasons of Heroes of the Interstellar Armed Forces by playing on participating community dedicated servers. December 6th saw the highest player count of the year, with 16,080 players logging - over three times the average. Alien Swarm: Reactive Drop was played from 85 different countries in 2022.
@@ -62,7 +49,6 @@ It wasn't just handheld guns and explosives, either. Last year, marines deployed
 [*]260,971 IAF High Velocity Sentry Cannons
 [*]3,822,448 IAF Tesla Sentry Coils
 [/list]
-
 Marines also brought 105,866 flashlights along on missions.
 
 You've destroyed 2,147,368 pieces of Biomass in 2022 since we started tracking it in late August. Between when we started tracking alien deaths in mid-June and the end of 2022, marines have killed:
@@ -82,6 +68,19 @@ You've destroyed 2,147,368 pieces of Biomass in 2022 since we started tracking i
 [*]577,023 Antlions
 [*]186,411 Headcrab Zombies
 [*]3,489 Queens
+[/list]
+
+[h1]In Case You Missed It[/h1]
+
+Here are some highlights from updates since the previous anniversary:
+[list]
+[*]Workshop addons can now contain videos, and missions can define their own briefing background video, or even show part of the world as the background during briefing.
+[*]We're Steam Deck verified! The game runs great on the Steam Deck, and players on Linux or who use a controller have also seen improvements.
+[*]There are now medals you can earn by helping with the game's development, contributing to the Steam community hub, or participating in a season of Heroes of the Interstellar Armed Forces.
+[*]The slow-opening vault doors used in many missions now have more accurate collision data, allowing you to step or shoot through a partially-opened door.
+[*]The all-new mission selection screen includes support for bonus missions and new "endless" missions.
+[*]We've added an advanced settings menu and an advanced audio settings menu.
+[*]Restarting a mission no longer requires a loading screen.
 [/list]
 
 [h1]Other changes in this update[/h1]

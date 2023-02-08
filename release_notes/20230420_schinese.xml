@@ -31,19 +31,6 @@ TODO
 
 参赛作品必须带有[b]BossFight2023[/b]。比赛今天开始，8月1日结束。奖品包括独特的游戏奖章。如果你需要帮助，点击 [url=https://steamcommunity.com/app/563560/discussions/1/]Modding / Mapping Help and Tips[/url] 论坛。
 
-[h1]以防你忘记了[/h1]
-
-以下是自上一周年以来更新的一些亮点:
-[list]
-[*]创意工坊的插件现在可以包含视频，同时任务可以定义自己的简报背景视频，甚至在简报期间将部分世界作为背景。
-[*]我们通过了Steam Deck认证！这款游戏在Steam平台上运行得很好，Linux和主机玩家也看到了改进。
-[*]现在你可以通过帮助游戏开发，为Steam社区中心做出贡献，或参与一个赛季的星际武装部队英雄来获得勋章。
-[*]在许多任务中使用的缓慢打开的拱顶门现在有更准确的碰撞数据，允许你踏过或通过部分打开的门射击。
-[*]全新的任务选择界面包括支持赏金任务和新的“无尽”任务。
-[*]我们添加了一个高级设置菜单和一个高级音频设置菜单。
-[*]重新启动任务不再需要加界面。
-[/list]
-
 		[h1]Year in Review[/h1]
 
 		In 2022, marines killed 985,092,535 aliens in official missions and an additional 56,154,088 aliens in missions from the Steam Workshop. 575,108 players tried Alien Swarm: Reactive Drop for the first time last year. Including returning players, marines spent 1,590,427 hours in 17,674,520 missions. 10,947 players took part in at least one of the first six seasons of Heroes of the Interstellar Armed Forces by playing on participating community dedicated servers. December 6th saw the highest player count of the year, with 16,080 players logging - over three times the average. Alien Swarm: Reactive Drop was played from 85 different countries in 2022.
@@ -62,7 +49,6 @@ TODO
 		[*]260,971 IAF High Velocity Sentry Cannons
 		[*]3,822,448 IAF Tesla Sentry Coils
 		[/list]
-
 		Marines also brought 105,866 flashlights along on missions.
 
 		You've destroyed 2,147,368 pieces of Biomass in 2022 since we started tracking it in late August. Between when we started tracking alien deaths in mid-June and the end of 2022, marines have killed:
@@ -83,6 +69,19 @@ TODO
 		[*]186,411 Headcrab Zombies
 		[*]3,489 Queens
 		[/list]
+
+[h1]以防你忘记了[/h1]
+
+以下是自上一周年以来更新的一些亮点:
+[list]
+[*]创意工坊的插件现在可以包含视频，同时任务可以定义自己的简报背景视频，甚至在简报期间将部分世界作为背景。
+[*]我们通过了Steam Deck认证！这款游戏在Steam平台上运行得很好，Linux和主机玩家也看到了改进。
+[*]现在你可以通过帮助游戏开发，为Steam社区中心做出贡献，或参与一个赛季的星际武装部队英雄来获得勋章。
+[*]在许多任务中使用的缓慢打开的拱顶门现在有更准确的碰撞数据，允许你踏过或通过部分打开的门射击。
+[*]全新的任务选择界面包括支持赏金任务和新的“无尽”任务。
+[*]我们添加了一个高级设置菜单和一个高级音频设置菜单。
+[*]重新启动任务不再需要加界面。
+[/list]
 
 [h1]本次更新的其他改动[/h1]
 
