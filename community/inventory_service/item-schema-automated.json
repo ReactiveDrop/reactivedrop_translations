@@ -662,6 +662,28 @@
 			"promo": "ach:RD_CAMPAIGN_NO_DEATHS_ADA",
 			"drop_start_time": "20230420T000000Z",
 			"item_slot": "medal"
+		},
+		{
+			"itemdefid": 28,
+			"type": "item",
+			"name_english": "Priority Number One",
+			"briefing_name_english": "Priority Number One",
+			"description_english": "While infested and on fire, found the time to flush a toilet.",
+			"display_type_brazilian": "Medalha…?",
+			"display_type_english": "Medal…?",
+			"display_type_german": "Medaille…?",
+			"display_type_italian": "Medaglia…?",
+			"display_type_japanese": "勲章…?",
+			"display_type_russian": "Медаль…?",
+			"display_type_schinese": "勋章…?",
+			"icon_url": "https://stats.reactivedrop.com/static/medals/danger_toilet.png",
+			"icon_url_small": "https://stats.reactivedrop.com/static/medals/danger_toilet_small.png",
+			"tradable": false,
+			"marketable": false,
+			"tags": "rarity:uncommon;slot:medal",
+			"promo": "manual",
+			"granted_manually": true,
+			"item_slot": "medal"
 		}
 	]
 }
