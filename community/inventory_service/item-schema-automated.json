@@ -108,6 +108,7 @@
 		{
 			"itemdefid": 3,
 			"type": "item",
+			"translator_note": "This medal's name is a pun on the Alien Swarm achievement 'Hat Trick', which awarded a TF2 hat for completing two missions in multiplayer.",
 			"name_brazilian": "Truque do Chapéu",
 			"name_english": "Trick Hat",
 			"name_german": "Trick Hut",
@@ -726,6 +727,7 @@
 		{
 			"itemdefid": 28,
 			"type": "item",
+			"translator_note": "This medal's name is a pun about going to the toilet.",
 			"name_english": "Priority Number One",
 			"name_italian": "Priorità Assoluta",
 			"name_japanese": "最優先事項",
