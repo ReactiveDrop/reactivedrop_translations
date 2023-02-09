@@ -417,8 +417,7 @@
 			"tradable": false,
 			"marketable": false,
 			"tags": "rarity:common;slot:medal",
-			"promo": "ach:ASW_CAMPAIGN_NO_DEATHS",
-			"drop_start_time": "20230420T000000Z",
+			"promo_": "ach:ASW_CAMPAIGN_NO_DEATHS",
 			"item_slot": "medal"
 		},
 		{
@@ -439,8 +438,7 @@
 			"tradable": false,
 			"marketable": false,
 			"tags": "rarity:common;slot:medal",
-			"promo": "ach:RD_CAMPAIGN_NO_DEATHS_AREA9800",
-			"drop_start_time": "20230420T000000Z",
+			"promo_": "ach:RD_CAMPAIGN_NO_DEATHS_AREA9800",
 			"item_slot": "medal"
 		},
 		{
@@ -461,8 +459,7 @@
 			"tradable": false,
 			"marketable": false,
 			"tags": "rarity:common;slot:medal",
-			"promo": "ach:RD_CAMPAIGN_NO_DEATHS_OCS",
-			"drop_start_time": "20230420T000000Z",
+			"promo_": "ach:RD_CAMPAIGN_NO_DEATHS_OCS",
 			"item_slot": "medal"
 		},
 		{
@@ -483,8 +480,7 @@
 			"tradable": false,
 			"marketable": false,
 			"tags": "rarity:common;slot:medal",
-			"promo": "ach:RD_CAMPAIGN_NO_DEATHS_LAN",
-			"drop_start_time": "20230420T000000Z",
+			"promo_": "ach:RD_CAMPAIGN_NO_DEATHS_LAN",
 			"item_slot": "medal"
 		},
 		{
@@ -505,8 +501,7 @@
 			"tradable": false,
 			"marketable": false,
 			"tags": "rarity:common;slot:medal",
-			"promo": "ach:RD_CAMPAIGN_NO_DEATHS_PAR",
-			"drop_start_time": "20230420T000000Z",
+			"promo_": "ach:RD_CAMPAIGN_NO_DEATHS_PAR",
 			"item_slot": "medal"
 		},
 		{
@@ -527,8 +522,7 @@
 			"tradable": false,
 			"marketable": false,
 			"tags": "rarity:common;slot:medal",
-			"promo": "ach:RD_CAMPAIGN_NO_DEATHS_RES",
-			"drop_start_time": "20230420T000000Z",
+			"promo_": "ach:RD_CAMPAIGN_NO_DEATHS_RES",
 			"item_slot": "medal"
 		},
 		{
@@ -549,8 +543,7 @@
 			"tradable": false,
 			"marketable": false,
 			"tags": "rarity:common;slot:medal",
-			"promo": "ach:RD_CAMPAIGN_NO_DEATHS_TFT",
-			"drop_start_time": "20230420T000000Z",
+			"promo_": "ach:RD_CAMPAIGN_NO_DEATHS_TFT",
 			"item_slot": "medal"
 		},
 		{
@@ -571,8 +564,7 @@
 			"tradable": false,
 			"marketable": false,
 			"tags": "rarity:common;slot:medal",
-			"promo": "ach:RD_CAMPAIGN_NO_DEATHS_TIL",
-			"drop_start_time": "20230420T000000Z",
+			"promo_": "ach:RD_CAMPAIGN_NO_DEATHS_TIL",
 			"item_slot": "medal"
 		},
 		{
@@ -593,8 +585,7 @@
 			"tradable": false,
 			"marketable": false,
 			"tags": "rarity:common;slot:medal",
-			"promo": "ach:RD_CAMPAIGN_NO_DEATHS_BIO",
-			"drop_start_time": "20230420T000000Z",
+			"promo_": "ach:RD_CAMPAIGN_NO_DEATHS_BIO",
 			"item_slot": "medal"
 		},
 		{
@@ -615,8 +606,7 @@
 			"tradable": false,
 			"marketable": false,
 			"tags": "rarity:common;slot:medal",
-			"promo": "ach:RD_CAMPAIGN_NO_DEATHS_NH",
-			"drop_start_time": "20230420T000000Z",
+			"promo_": "ach:RD_CAMPAIGN_NO_DEATHS_NH",
 			"item_slot": "medal"
 		},
 		{
@@ -637,8 +627,7 @@
 			"tradable": false,
 			"marketable": false,
 			"tags": "rarity:common;slot:medal",
-			"promo": "ach:RD_CAMPAIGN_NO_DEATHS_ACC",
-			"drop_start_time": "20230420T000000Z",
+			"promo_": "ach:RD_CAMPAIGN_NO_DEATHS_ACC",
 			"item_slot": "medal"
 		},
 		{
@@ -659,8 +648,7 @@
 			"tradable": false,
 			"marketable": false,
 			"tags": "rarity:common;slot:medal",
-			"promo": "ach:RD_CAMPAIGN_NO_DEATHS_ADA",
-			"drop_start_time": "20230420T000000Z",
+			"promo_": "ach:RD_CAMPAIGN_NO_DEATHS_ADA",
 			"item_slot": "medal"
 		},
 		{
