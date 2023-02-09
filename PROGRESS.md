@@ -1,30 +1,30 @@
 # Overview
 | Language | basemodui | closecaption | gameui | reactivedrop | statsweb | Strings | Inventory | Files |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | ✔️ | 110 | ✔️ | ✔️ | 36 | 1 |
-| [Traditional Chinese](#tchinese-繁體中文) | 7 | 120 | 1 | 2106 | 191 | 58 | 173 | 144 |
-| [Czech](#czech-čeština) | 69 | 1796 | 10 | 3249 | 191 | 714 | 173 | 144 |
-| [Danish](#non-curated-languages) | 50 | 211 | 10 | 2770 | 191 | 444 | 173 | 145 |
-| [Dutch](#non-curated-languages) | 49 | 1993 | 10 | 2225 | 191 | 444 | 173 | 144 |
-| [Finnish](#non-curated-languages) | 49 | 1993 | 10 | 2225 | 191 | 444 | 173 | 144 |
-| [French](#french-français) | 25 | 118 | 10 | 1577 | 191 | 378 | 173 | 123 |
-| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 36 | ✔️ |
-| [Hungarian](#non-curated-languages) | 49 | 118 | 10 | 2225 | 191 | 709 | 173 | 145 |
-| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 36 | ✔️ |
-| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | 19 | ✔️ | 35 | 36 | ✔️ |
-| [Korean](#koreana-한국어) | 47 | 55 | 6 | 1090 | 43 | 272 | 173 | 49 |
-| [Norwegian Bokmål](#non-curated-languages) | 67 | 693 | 15 | 2945 | 191 | 444 | 173 | 145 |
-| [Polish](#polish-polski) | 26 | 1993 | 10 | 2225 | 191 | 444 | 173 | 145 |
-| [European Portuguese](#portuguese-português-europeu) | ✔️ | 160 | ✔️ | 1414 | 18 | 371 | 146 | 137 |
-| [Brazilian Portuguese](#brazilian-português) | ✔️ | 1993 | ✔️ | 471 | ✔️ | ✔️ | 36 | 1 |
-| [Romanian](#non-curated-languages) | 49 | 1985 | 16 | 2950 | 191 | 709 | 173 | 145 |
-| [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 36 | 1 |
-| [European Spanish](#spanish-español-de-españa) | 26 | 1993 | 8 | 1629 | 191 | 448 | 173 | 144 |
-| [Swedish](#non-curated-languages) | 49 | 1993 | 10 | 2225 | 191 | 444 | 173 | 145 |
-| [Thai](#non-curated-languages) | 964 | 1982 | 18 | 3500 | 191 | 473 | 173 | 145 |
-| [Turkish](#non-curated-languages) | 49 | 117 | 10 | 2225 | 191 | 709 | 173 | 145 |
-| [Ukrainian](#ukrainian-українська) | 25 | 111 | 9 | 1757 | 191 | 709 | 171 | 145 |
-| [Vietnamese](#vietnamese-tiếng-việt) | 1279 | 1993 | 605 | 3764 | 191 | 660 | 173 | 131 |
+| [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | ✔️ | 110 | ✔️ | ✔️ | 39 | 1 |
+| [Traditional Chinese](#tchinese-繁體中文) | 7 | 120 | 1 | 2106 | 191 | 58 | 177 | 144 |
+| [Czech](#czech-čeština) | 69 | 1796 | 10 | 3249 | 191 | 714 | 177 | 144 |
+| [Danish](#non-curated-languages) | 50 | 211 | 10 | 2770 | 191 | 444 | 177 | 145 |
+| [Dutch](#non-curated-languages) | 49 | 1993 | 10 | 2225 | 191 | 444 | 177 | 144 |
+| [Finnish](#non-curated-languages) | 49 | 1993 | 10 | 2225 | 191 | 444 | 177 | 144 |
+| [French](#french-français) | 25 | 118 | 10 | 1577 | 191 | 378 | 177 | 123 |
+| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 39 | ✔️ |
+| [Hungarian](#non-curated-languages) | 49 | 118 | 10 | 2225 | 191 | 709 | 177 | 145 |
+| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 39 | ✔️ |
+| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | 19 | ✔️ | 35 | 39 | ✔️ |
+| [Korean](#koreana-한국어) | 47 | 55 | 6 | 1090 | 43 | 272 | 177 | 49 |
+| [Norwegian Bokmål](#non-curated-languages) | 67 | 693 | 15 | 2945 | 191 | 444 | 177 | 145 |
+| [Polish](#polish-polski) | 26 | 1993 | 10 | 2225 | 191 | 444 | 177 | 145 |
+| [European Portuguese](#portuguese-português-europeu) | ✔️ | 160 | ✔️ | 1414 | 18 | 371 | 150 | 137 |
+| [Brazilian Portuguese](#brazilian-português) | ✔️ | 1993 | ✔️ | 471 | ✔️ | ✔️ | 39 | 1 |
+| [Romanian](#non-curated-languages) | 49 | 1985 | 16 | 2950 | 191 | 709 | 177 | 145 |
+| [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 39 | 1 |
+| [European Spanish](#spanish-español-de-españa) | 26 | 1993 | 8 | 1629 | 191 | 448 | 177 | 144 |
+| [Swedish](#non-curated-languages) | 49 | 1993 | 10 | 2225 | 191 | 444 | 177 | 145 |
+| [Thai](#non-curated-languages) | 964 | 1982 | 18 | 3500 | 191 | 473 | 177 | 145 |
+| [Turkish](#non-curated-languages) | 49 | 117 | 10 | 2225 | 191 | 709 | 177 | 145 |
+| [Ukrainian](#ukrainian-українська) | 25 | 111 | 9 | 1757 | 191 | 709 | 175 | 145 |
+| [Vietnamese](#vietnamese-tiếng-việt) | 1279 | 1993 | 605 | 3764 | 191 | 660 | 177 | 131 |
 ### Legend
 - ***Non-capitalized column headers*** are the most important specific files and their number of missing strings. All of these txt-files are located in the resources folder. Except statsweb, which lies in community/stats_website, it's an vdf-file.
 - ***Strings*** is the number of missing strings not included in one of the files which get an individual non-capitalized column.
@@ -61,6 +61,7 @@
 - Item 25 "Nam Humanum Veteran" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_schinese`, `briefing_name_schinese`, `description_schinese`
 - Item 26 "Accident 32 Veteran" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_schinese`, `briefing_name_schinese`, `description_schinese`
 - Item 27 "Adanaxis Veteran" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_schinese`, `briefing_name_schinese`, `description_schinese`
+- Item 28 "Priority Number One" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_schinese`, `briefing_name_schinese`, `description_schinese`
 
 </details>
 
@@ -258,6 +259,7 @@
 - Item 25 "Nam Humanum Veteran" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_tchinese`, `briefing_name_tchinese`, `description_tchinese`, `display_type_tchinese`
 - Item 26 "Accident 32 Veteran" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_tchinese`, `briefing_name_tchinese`, `description_tchinese`, `display_type_tchinese`
 - Item 27 "Adanaxis Veteran" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_tchinese`, `briefing_name_tchinese`, `description_tchinese`, `display_type_tchinese`
+- Item 28 "Priority Number One" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_tchinese`, `briefing_name_tchinese`, `description_tchinese`, `display_type_tchinese`
 - Item 7 "Translator" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_tchinese`, `briefing_name_tchinese`, `description_tchinese`, `display_type_tchinese`
 - Item 8 "Programmer" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_tchinese`, `briefing_name_tchinese`, `description_tchinese`, `display_type_tchinese`
 - Item 9 "Mapper" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_tchinese`, `briefing_name_tchinese`, `description_tchinese`, `display_type_tchinese`
@@ -478,6 +480,7 @@
 - Item 25 "Nam Humanum Veteran" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_czech`, `briefing_name_czech`, `description_czech`, `display_type_czech`
 - Item 26 "Accident 32 Veteran" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_czech`, `briefing_name_czech`, `description_czech`, `display_type_czech`
 - Item 27 "Adanaxis Veteran" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_czech`, `briefing_name_czech`, `description_czech`, `display_type_czech`
+- Item 28 "Priority Number One" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_czech`, `briefing_name_czech`, `description_czech`, `display_type_czech`
 - Item 7 "Translator" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_czech`, `briefing_name_czech`, `description_czech`, `display_type_czech`
 - Item 8 "Programmer" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_czech`, `briefing_name_czech`, `description_czech`, `display_type_czech`
 - Item 9 "Mapper" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_czech`, `briefing_name_czech`, `description_czech`, `display_type_czech`
@@ -676,6 +679,7 @@
 - Item 25 "Nam Humanum Veteran" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_french`, `briefing_name_french`, `description_french`, `display_type_french`
 - Item 26 "Accident 32 Veteran" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_french`, `briefing_name_french`, `description_french`, `display_type_french`
 - Item 27 "Adanaxis Veteran" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_french`, `briefing_name_french`, `description_french`, `display_type_french`
+- Item 28 "Priority Number One" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_french`, `briefing_name_french`, `description_french`, `display_type_french`
 - Item 7 "Translator" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_french`, `briefing_name_french`, `description_french`, `display_type_french`
 - Item 8 "Programmer" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_french`, `briefing_name_french`, `description_french`, `display_type_french`
 - Item 9 "Mapper" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_french`, `briefing_name_french`, `description_french`, `display_type_french`
@@ -717,6 +721,7 @@
 - Item 25 "Nam Humanum Veteran" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_german`, `briefing_name_german`, `description_german`
 - Item 26 "Accident 32 Veteran" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_german`, `briefing_name_german`, `description_german`
 - Item 27 "Adanaxis Veteran" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_german`, `briefing_name_german`, `description_german`
+- Item 28 "Priority Number One" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_german`, `briefing_name_german`, `description_german`
 
 </details>
 
@@ -740,6 +745,7 @@
 - Item 25 "Nam Humanum Veteran" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_italian`, `briefing_name_italian`, `description_italian`
 - Item 26 "Accident 32 Veteran" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_italian`, `briefing_name_italian`, `description_italian`
 - Item 27 "Adanaxis Veteran" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_italian`, `briefing_name_italian`, `description_italian`
+- Item 28 "Priority Number One" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_italian`, `briefing_name_italian`, `description_italian`
 
 </details>
 
@@ -768,6 +774,7 @@
 - Item 25 "Nam Humanum Veteran" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_japanese`, `briefing_name_japanese`, `description_japanese`
 - Item 26 "Accident 32 Veteran" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_japanese`, `briefing_name_japanese`, `description_japanese`
 - Item 27 "Adanaxis Veteran" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_japanese`, `briefing_name_japanese`, `description_japanese`
+- Item 28 "Priority Number One" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_japanese`, `briefing_name_japanese`, `description_japanese`
 
 </details>
 
@@ -874,6 +881,7 @@
 - Item 25 "Nam Humanum Veteran" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_koreana`, `briefing_name_koreana`, `description_koreana`, `display_type_koreana`
 - Item 26 "Accident 32 Veteran" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_koreana`, `briefing_name_koreana`, `description_koreana`, `display_type_koreana`
 - Item 27 "Adanaxis Veteran" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_koreana`, `briefing_name_koreana`, `description_koreana`, `display_type_koreana`
+- Item 28 "Priority Number One" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_koreana`, `briefing_name_koreana`, `description_koreana`, `display_type_koreana`
 - Item 7 "Translator" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_koreana`, `briefing_name_koreana`, `description_koreana`, `display_type_koreana`
 - Item 8 "Programmer" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_koreana`, `briefing_name_koreana`, `description_koreana`, `display_type_koreana`
 - Item 9 "Mapper" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_koreana`, `briefing_name_koreana`, `description_koreana`, `display_type_koreana`
@@ -1095,6 +1103,7 @@
 - Item 25 "Nam Humanum Veteran" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_polish`, `briefing_name_polish`, `description_polish`, `display_type_polish`
 - Item 26 "Accident 32 Veteran" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_polish`, `briefing_name_polish`, `description_polish`, `display_type_polish`
 - Item 27 "Adanaxis Veteran" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_polish`, `briefing_name_polish`, `description_polish`, `display_type_polish`
+- Item 28 "Priority Number One" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_polish`, `briefing_name_polish`, `description_polish`, `display_type_polish`
 - Item 7 "Translator" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_polish`, `briefing_name_polish`, `description_polish`, `display_type_polish`
 - Item 8 "Programmer" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_polish`, `briefing_name_polish`, `description_polish`, `display_type_polish`
 - Item 9 "Mapper" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_polish`, `briefing_name_polish`, `description_polish`, `display_type_polish`
@@ -1302,6 +1311,7 @@
 - Item 25 "Nam Humanum Veteran" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_portuguese`, `briefing_name_portuguese`, `description_portuguese`, `display_type_portuguese`
 - Item 26 "Accident 32 Veteran" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_portuguese`, `briefing_name_portuguese`, `description_portuguese`, `display_type_portuguese`
 - Item 27 "Adanaxis Veteran" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_portuguese`, `briefing_name_portuguese`, `description_portuguese`, `display_type_portuguese`
+- Item 28 "Priority Number One" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_portuguese`, `briefing_name_portuguese`, `description_portuguese`, `display_type_portuguese`
 - Item 14 "Reporter" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_portuguese`, `briefing_name_portuguese`, `description_portuguese`
 - Item 100000000 "Donor: Tears for Tarnor" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_portuguese`, `description_portuguese`, `ingame_description_portuguese`, `after_description_portuguese`, `display_type_portuguese`
 - Item 100000001 "Donor: Paranoia" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_portuguese`, `description_portuguese`, `ingame_description_portuguese`, `after_description_portuguese`, `display_type_portuguese`
@@ -1345,6 +1355,7 @@
 - Item 25 "Nam Humanum Veteran" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_brazilian`, `briefing_name_brazilian`, `description_brazilian`
 - Item 26 "Accident 32 Veteran" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_brazilian`, `briefing_name_brazilian`, `description_brazilian`
 - Item 27 "Adanaxis Veteran" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_brazilian`, `briefing_name_brazilian`, `description_brazilian`
+- Item 28 "Priority Number One" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_brazilian`, `briefing_name_brazilian`, `description_brazilian`
 
 </details>
 
@@ -1372,6 +1383,7 @@
 - Item 25 "Nam Humanum Veteran" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_russian`, `briefing_name_russian`, `description_russian`
 - Item 26 "Accident 32 Veteran" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_russian`, `briefing_name_russian`, `description_russian`
 - Item 27 "Adanaxis Veteran" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_russian`, `briefing_name_russian`, `description_russian`
+- Item 28 "Priority Number One" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_russian`, `briefing_name_russian`, `description_russian`
 
 </details>
 
@@ -1573,6 +1585,7 @@
 - Item 25 "Nam Humanum Veteran" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_spanish`, `briefing_name_spanish`, `description_spanish`, `display_type_spanish`
 - Item 26 "Accident 32 Veteran" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_spanish`, `briefing_name_spanish`, `description_spanish`, `display_type_spanish`
 - Item 27 "Adanaxis Veteran" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_spanish`, `briefing_name_spanish`, `description_spanish`, `display_type_spanish`
+- Item 28 "Priority Number One" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_spanish`, `briefing_name_spanish`, `description_spanish`, `display_type_spanish`
 - Item 7 "Translator" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_spanish`, `briefing_name_spanish`, `description_spanish`, `display_type_spanish`
 - Item 8 "Programmer" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_spanish`, `briefing_name_spanish`, `description_spanish`, `display_type_spanish`
 - Item 9 "Mapper" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_spanish`, `briefing_name_spanish`, `description_spanish`, `display_type_spanish`
@@ -1794,6 +1807,7 @@
 - Item 25 "Nam Humanum Veteran" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_ukrainian`, `briefing_name_ukrainian`, `description_ukrainian`, `display_type_ukrainian`
 - Item 26 "Accident 32 Veteran" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_ukrainian`, `briefing_name_ukrainian`, `description_ukrainian`, `display_type_ukrainian`
 - Item 27 "Adanaxis Veteran" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_ukrainian`, `briefing_name_ukrainian`, `description_ukrainian`, `display_type_ukrainian`
+- Item 28 "Priority Number One" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_ukrainian`, `briefing_name_ukrainian`, `description_ukrainian`, `display_type_ukrainian`
 - Item 7 "Translator" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_ukrainian`, `briefing_name_ukrainian`, `description_ukrainian`, `display_type_ukrainian`
 - Item 8 "Programmer" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_ukrainian`, `briefing_name_ukrainian`, `description_ukrainian`, `display_type_ukrainian`
 - Item 9 "Mapper" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_ukrainian`, `briefing_name_ukrainian`, `description_ukrainian`, `display_type_ukrainian`
@@ -2000,6 +2014,7 @@
 - Item 25 "Nam Humanum Veteran" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_vietnamese`, `briefing_name_vietnamese`, `description_vietnamese`, `display_type_vietnamese`
 - Item 26 "Accident 32 Veteran" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_vietnamese`, `briefing_name_vietnamese`, `description_vietnamese`, `display_type_vietnamese`
 - Item 27 "Adanaxis Veteran" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_vietnamese`, `briefing_name_vietnamese`, `description_vietnamese`, `display_type_vietnamese`
+- Item 28 "Priority Number One" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_vietnamese`, `briefing_name_vietnamese`, `description_vietnamese`, `display_type_vietnamese`
 - Item 7 "Translator" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_vietnamese`, `briefing_name_vietnamese`, `description_vietnamese`, `display_type_vietnamese`
 - Item 8 "Programmer" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_vietnamese`, `briefing_name_vietnamese`, `description_vietnamese`, `display_type_vietnamese`
 - Item 9 "Mapper" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_vietnamese`, `briefing_name_vietnamese`, `description_vietnamese`, `display_type_vietnamese`
