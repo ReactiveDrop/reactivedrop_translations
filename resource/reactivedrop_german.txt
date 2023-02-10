@@ -2791,7 +2791,7 @@
 "[english]asw_galactic_map_hatal_9"		"Hatal 9"
 "asw_galactic_map_anhaven_ruins"		"Die Anhaven Ruinen"
 "[english]asw_galactic_map_anhaven_ruins"		"The Anhaven Ruins"
-"asw_galactic_map_jacobs_rest"		"Jacobsruhe"
+"asw_galactic_map_jacobs_rest"		"Jakobsruhe"
 "[english]asw_galactic_map_jacobs_rest"		"Jacob's Rest"
 "asw_campaign_initializing"		"Initialisiere..."
 "[english]asw_campaign_initializing"		"Initializing..."
