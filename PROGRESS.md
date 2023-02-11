@@ -18,7 +18,7 @@
 | [European Portuguese](#portuguese-português-europeu) | ✔️ | 160 | ✔️ | 1423 | 18 | 371 | 150 | 137 |
 | [Brazilian Portuguese](#brazilian-português) | ✔️ | 1993 | ✔️ | 480 | ✔️ | ✔️ | 39 | 1 |
 | [Romanian](#non-curated-languages) | 49 | 1985 | 16 | 2959 | 191 | 709 | 177 | 145 |
-| [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | 9 | ✔️ | ✔️ | 39 | 1 |
+| [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | 2 | ✔️ | ✔️ | ✔️ | 1 |
 | [European Spanish](#spanish-español-de-españa) | 26 | 1993 | 8 | 1638 | 191 | 448 | 177 | 144 |
 | [Swedish](#non-curated-languages) | 49 | 1993 | 10 | 2234 | 191 | 444 | 177 | 145 |
 | [Thai](#non-curated-languages) | 964 | 1982 | 18 | 3509 | 191 | 473 | 177 | 145 |
@@ -1325,27 +1325,11 @@
 
 ### Strings
 
-- [reactivedrop_russian.txt](resource/reactivedrop_russian.txt) has 9 untranslated strings.
+- [reactivedrop_russian.txt](resource/reactivedrop_russian.txt) has 2 untranslated strings.
 
 ### Upcoming Release Notes
 
 - [20230420_russian.xml](release_notes/20230420_english.xml) is missing.
-
-### Inventory Schema</summary>
-
-- Item 16 "Jacob's Rest Veteran" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_russian`, `briefing_name_russian`, `description_russian`
-- Item 17 "Area 9800 Veteran" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_russian`, `briefing_name_russian`, `description_russian`
-- Item 18 "Operation Cleansweep Veteran" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_russian`, `briefing_name_russian`, `description_russian`
-- Item 19 "Lana's Escape Veteran" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_russian`, `briefing_name_russian`, `description_russian`
-- Item 20 "Paranoia Veteran" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_russian`, `briefing_name_russian`, `description_russian`
-- Item 21 "Research 7 Veteran" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_russian`, `briefing_name_russian`, `description_russian`
-- Item 22 "Tears for Tarnor Veteran" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_russian`, `briefing_name_russian`, `description_russian`
-- Item 23 "Tilarus-5 Veteran" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_russian`, `briefing_name_russian`, `description_russian`
-- Item 24 "BioGen Corporation Veteran" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_russian`, `briefing_name_russian`, `description_russian`
-- Item 25 "Nam Humanum Veteran" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_russian`, `briefing_name_russian`, `description_russian`
-- Item 26 "Accident 32 Veteran" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_russian`, `briefing_name_russian`, `description_russian`
-- Item 27 "Adanaxis Veteran" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_russian`, `briefing_name_russian`, `description_russian`
-- Item 28 "Priority Number One" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_russian`, `briefing_name_russian`, `description_russian`
 
 </details>
 
