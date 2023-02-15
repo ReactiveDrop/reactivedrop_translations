@@ -1,6 +1,6 @@
 GAME
 {
-// PDA belongs to Mr Tanner
+// PDA belongs to Alex Tanner
 
 // Inbox
 
@@ -13,7 +13,7 @@ GAME
 
 "MailFrom2"	"From: Muriel Blanc"
 "MailDate2"	"Date: 12/21/52"
-"MailSubject2"	"Subject: Dear Mrs. Kate Edwards"
+"MailSubject2"	"Subject: Dear Mr. Alex Tanner"
 "MailBody2A"	"Our duty officers found six bottles of Isothamine 23 when they scanned order 9476-B. This delivery was addressed to you. As you are no doubt aware, it is illegal to buy, own or sell this product anywhere in the Outer Rim. (#205-P/7.7.12) Please call (+34987) and make an arrangement with one of our security officers immediately."
 "MailBody2B"	"Muriel Blanc, SynTek Customs and Taxes"
 }

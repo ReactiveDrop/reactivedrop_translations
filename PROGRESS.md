@@ -1,30 +1,30 @@
 # Overview
 | Language | basemodui | closecaption | gameui | reactivedrop | statsweb | Strings | Inventory | Files |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | ✔️ | 119 | ✔️ | ✔️ | 39 | 1 |
+| [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | ✔️ | 119 | ✔️ | ✔️ | 39 | 2 |
 | [Traditional Chinese](#tchinese-繁體中文) | 7 | 120 | 1 | 2115 | 191 | 58 | 177 | 144 |
 | [Czech](#czech-čeština) | 69 | 1796 | 10 | 3258 | 191 | 714 | 177 | 144 |
 | [Danish](#non-curated-languages) | 50 | 211 | 10 | 2779 | 191 | 444 | 177 | 145 |
 | [Dutch](#non-curated-languages) | 49 | 1993 | 10 | 2234 | 191 | 444 | 177 | 144 |
 | [Finnish](#non-curated-languages) | 49 | 1993 | 10 | 2234 | 191 | 444 | 177 | 144 |
 | [French](#french-français) | 25 | 118 | 10 | 1586 | 191 | 378 | 177 | 123 |
-| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
+| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 1 |
 | [Hungarian](#non-curated-languages) | 49 | 118 | 10 | 2234 | 191 | 709 | 177 | 145 |
-| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | 9 | ✔️ | ✔️ | ✔️ | ✔️ |
+| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 1 |
 | [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | 19 | ✔️ | 35 | ✔️ | ✔️ |
-| [Korean](#koreana-한국어) | 47 | 55 | 6 | 1099 | 43 | 272 | 177 | 49 |
+| [Korean](#koreana-한국어) | 47 | 55 | 6 | 1099 | 43 | 272 | 177 | 50 |
 | [Norwegian Bokmål](#non-curated-languages) | 67 | 693 | 15 | 2954 | 191 | 444 | 177 | 145 |
 | [Polish](#polish-polski) | 26 | 1993 | 10 | 2234 | 191 | 444 | 177 | 145 |
 | [European Portuguese](#portuguese-português-europeu) | ✔️ | 160 | ✔️ | 1423 | 18 | 371 | 150 | 137 |
-| [Brazilian Portuguese](#brazilian-português) | ✔️ | 1993 | ✔️ | 480 | ✔️ | ✔️ | 39 | 1 |
+| [Brazilian Portuguese](#brazilian-português) | ✔️ | 1993 | ✔️ | 480 | ✔️ | ✔️ | 39 | 2 |
 | [Romanian](#non-curated-languages) | 49 | 1985 | 16 | 2959 | 191 | 709 | 177 | 145 |
-| [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | 2 | ✔️ | ✔️ | ✔️ | 1 |
+| [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | 2 | ✔️ | ✔️ | ✔️ | 2 |
 | [European Spanish](#spanish-español-de-españa) | 26 | 1993 | 8 | 1638 | 191 | 448 | 177 | 144 |
 | [Swedish](#non-curated-languages) | 49 | 1993 | 10 | 2234 | 191 | 444 | 177 | 145 |
 | [Thai](#non-curated-languages) | 964 | 1982 | 18 | 3509 | 191 | 473 | 177 | 145 |
 | [Turkish](#non-curated-languages) | 49 | 117 | 10 | 2234 | 191 | 709 | 177 | 145 |
 | [Ukrainian](#ukrainian-українська) | 25 | 111 | 9 | 1766 | 191 | 709 | 175 | 145 |
-| [Vietnamese](#vietnamese-tiếng-việt) | 1279 | 1993 | 605 | 3773 | 191 | 660 | 177 | 131 |
+| [Vietnamese](#vietnamese-tiếng-việt) | 1279 | 1993 | 605 | 3773 | 191 | 660 | 177 | 132 |
 ### Legend
 - ***Non-capitalized column headers*** are the most important specific files and their number of missing strings. All of these txt-files are located in the resources folder. Except statsweb, which lies in community/stats_website, it's an vdf-file.
 - ***Strings*** is the number of missing strings not included in one of the files which get an individual non-capitalized column.
@@ -46,6 +46,10 @@
 ### Upcoming Release Notes
 
 - [20230420_schinese.xml](release_notes/20230420_schinese.xml) has 70 indented lines.
+
+### Mail and News
+
+- [officemail4_schinese.txt](resource/mail/officemail4_schinese.txt) has 1 indented lines.
 
 ### Inventory Schema</summary>
 
@@ -707,7 +711,9 @@
 
 </summary>
 
-✓ Up to date!
+### Mail and News
+
+- [officemail4_german.txt](resource/mail/officemail4_german.txt) has 1 indented lines.
 
 </details>
 
@@ -717,9 +723,9 @@
 
 </summary>
 
-### Strings
+### Mail and News
 
-- [reactivedrop_italian.txt](resource/reactivedrop_italian.txt) has 9 untranslated strings.
+- [officemail4_italian.txt](resource/mail/officemail4_italian.txt) has 1 indented lines.
 
 </details>
 
@@ -814,6 +820,7 @@
 - [acc_research2_koreana.txt](resource/mail/acc_research2_english.txt) is missing.
 - [acc_research3_koreana.txt](resource/mail/acc_research3_english.txt) is missing.
 - [nukeangermail_koreana.txt](resource/mail/nukeangermail_english.txt) is missing.
+- [officemail4_koreana.txt](resource/mail/officemail4_koreana.txt) has 1 indented lines.
 - [nh_news_announcement_koreana.txt](resource/news/nh_news_announcement_english.txt) is missing.
 - [nh_news_prospectus_koreana.txt](resource/news/nh_news_prospectus_english.txt) is missing.
 
@@ -1299,6 +1306,10 @@
 
 - [20230420_brazilian.xml](release_notes/20230420_brazilian.xml) has 71 indented lines.
 
+### Mail and News
+
+- [officemail4_brazilian.txt](resource/mail/officemail4_brazilian.txt) has 1 indented lines.
+
 ### Inventory Schema</summary>
 
 - Item 16 "Jacob's Rest Veteran" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_brazilian`, `briefing_name_brazilian`, `description_brazilian`
@@ -1330,6 +1341,10 @@
 ### Upcoming Release Notes
 
 - [20230420_russian.xml](release_notes/20230420_english.xml) is missing.
+
+### Mail and News
+
+- [officemail4_russian.txt](resource/mail/officemail4_russian.txt) has 1 indented lines.
 
 </details>
 
@@ -1873,6 +1888,7 @@
 - [nh_pda_tomasselin_vietnamese.txt](resource/mail/nh_pda_tomasselin_english.txt) is missing.
 - [nh_pda_yannmontgomery_vietnamese.txt](resource/mail/nh_pda_yannmontgomery_english.txt) is missing.
 - [nukeangermail_vietnamese.txt](resource/mail/nukeangermail_english.txt) is missing.
+- [officemail4_vietnamese.txt](resource/mail/officemail4_vietnamese.txt) has 1 indented lines.
 - [outsidemail1_vietnamese.txt](resource/mail/outsidemail1_english.txt) is missing.
 - [outsidemail2_vietnamese.txt](resource/mail/outsidemail2_english.txt) is missing.
 - [outsidemail3_vietnamese.txt](resource/mail/outsidemail3_english.txt) is missing.
