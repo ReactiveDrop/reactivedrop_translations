@@ -5080,11 +5080,14 @@
 "rd_so_author_helvetica_scenario"		"ヘルベチカ・シナリオ博士(OCM所属)による注釈"
 // Office of Consensus Maintenance
 "[english]rd_so_author_helvetica_scenario"		"Annotation from Dr. Helvetica Scenario (OCM)"
-"rd_so_author_isaac_kleiner"		"アイザック・クライナー博士(ブラックメサ所属)の記録より抜粋"
-"[english]rd_so_author_isaac_kleiner"		"From the journal of Dr. Isaac Kleiner (Black Mesa)"
+		"rd_so_author_isaac_kleiner"		"A Black Mesa informational bulletin from the desk of Isaac Kleiner"
+		"[english]rd_so_author_isaac_kleiner"		"A Black Mesa informational bulletin from the desk of Isaac Kleiner"
 "rd_so_author_julie_duval"		"ジュリー・デュバル教授(IAF所属)の記録より抜粋"
 // Interstellar Armed Forces
 "[english]rd_so_author_julie_duval"		"From the journal of Prof. Julie Duval (IAF)"
+		"rd_so_author_julie_duval_ocm"		"Annotation from Prof. Julie Duval (OCM)"
+		// Office of Consensus Maintenance
+		"[english]rd_so_author_julie_duval_ocm"		"Annotation from Prof. Julie Duval (OCM)"
 "rd_so_author_shaun_ming"		"ショーン・ミン(SynTek所属)の記録より抜粋"
 "[english]rd_so_author_shaun_ming"		"From the journal of Shaun Ming (SynTek)"
 "rd_so_paragraph_drone_0"		"43年03月28日, 15:23\nこいつらについてはまだ完全に理解できたとは思えない。形態学的にも、習性についても、どこから来たのかさえも、調べなければならないことが多すぎる。今までに得た知識は全て多大な人的犠牲の果てにあるものだ。 私の記録には一つの形態的特徴あたりに50種類近くの変種がある。直接確認した変異体も含めればその3倍にもなる。 ドローンが急速に驚異的な潜在能力を持って変異し甲皮に色がつくというかすかな手がかりをまとめようとしてきた。これらの情報の半分でも真実だとすれば、存在しうる全ての変種を分類するのは不可能になるだろうし、ましてや癌のごとき生物を完全に根絶するなんてことには程遠い。"

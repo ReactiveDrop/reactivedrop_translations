@@ -64,7 +64,7 @@ func compileSteamInputManifest() {
 }
 
 func addSteamInputManifestLanguage(loc *vdf.KeyValues, lang string) error {
-	ts, err := loadTranslatedStrings("../community/steam_input/steam_input_"+lang+".vdf", lang)
+	ts, err := loadTranslatedStrings("../community/steam_input/steam_input_"+lang+".vdf", lang, true)
 	if err != nil {
 		return err
 	}

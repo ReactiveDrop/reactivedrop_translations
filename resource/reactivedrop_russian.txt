@@ -5080,11 +5080,14 @@
 "rd_so_author_helvetica_scenario"		"Аннотация от доктора Гельветики Сценарий (УПК)"
 // Office of Consensus Maintenance
 "[english]rd_so_author_helvetica_scenario"		"Annotation from Dr. Helvetica Scenario (OCM)"
-"rd_so_author_isaac_kleiner"		"Из дневника доктора Айзека Кляйнера (Чёрная меза)"
-"[english]rd_so_author_isaac_kleiner"		"From the journal of Dr. Isaac Kleiner (Black Mesa)"
+		"rd_so_author_isaac_kleiner"		"A Black Mesa informational bulletin from the desk of Isaac Kleiner"
+		"[english]rd_so_author_isaac_kleiner"		"A Black Mesa informational bulletin from the desk of Isaac Kleiner"
 "rd_so_author_julie_duval"		"Из журнала профессора Жюли Дюваль (МВС)"
 // Interstellar Armed Forces
 "[english]rd_so_author_julie_duval"		"From the journal of Prof. Julie Duval (IAF)"
+		"rd_so_author_julie_duval_ocm"		"Annotation from Prof. Julie Duval (OCM)"
+		// Office of Consensus Maintenance
+		"[english]rd_so_author_julie_duval_ocm"		"Annotation from Prof. Julie Duval (OCM)"
 "rd_so_author_shaun_ming"		"Из дневника Шона Минга («СинТек»)"
 "[english]rd_so_author_shaun_ming"		"From the journal of Shaun Ming (SynTek)"
 "rd_so_paragraph_drone_0"		"28 марта 43 года, 15:23\nЯ не думаю, что мы когда-нибудь по-настоящему поймём их. Ещё так много предстоит узнать об их морфологии, поведении, даже о том, откуда они появились. Всё, что мы знаем, досталось нам огромной человеческой ценой. Я записала почти пятьдесят различных вариаций одного и того же строения тела. Втрое больше, если учесть мутации, которые я подтвердила из первых рук. Я пыталась собрать воедино немногочисленные слухи о быстро мутирующих трутнях, обладающих удивительными новыми способностями и окраской их панциря. Если хотя бы половина из них правдива, я боюсь, что мы никогда не сможем каталогизировать все возможные вариации, а тем более уничтожить эту заразу раз и навсегда."
