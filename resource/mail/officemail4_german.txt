@@ -13,7 +13,7 @@ GAME
 
 "MailFrom2"	"Von: Muriel Blanc"
 "MailDate2"	"Datum: 12/21/52"
-		"MailSubject2"	"Betreff: Liebe Mr. Alex Tanner"
-"MailBody2A"	"unsere Zollbeamten fanden sechs Flaschen Isothamin 23, als sie die Bestellung 9476-B überprüften. Diese Lieferung war an dich adressiert. Wie du sicher weißt, ist es illegal, dieses Produkt im gesamten Outer Rim zu kaufen, zu besitzen oder zu verkaufen. (#205-P/7.7.12) Bitte rufe (+34987) an und vereinbare sofort einen Termin mit einem unserer Sicherheitsbeamten."
+"MailSubject2"	"Betreff: Lieber Mr. Alex Tanner"
+"MailBody2A"	"unsere Zollbeamten fanden sechs Flaschen Isothamin 23, als sie die Bestellung 9476-B überprüften. Diese Lieferung war an dich adressiert. Wie du sicher weißt, ist es illegal, dieses Produkt im gesamten Outer Rim zu kaufen, zu besitzen oder zu verkaufen. (#205-P/7.7.12) Bitte ruf (+34987) an und vereinbare sofort einen Termin mit einem unserer Sicherheitsbeamten."
 "MailBody2B"	"Muriel Blanc, SynTek Zoll und Steuern"
 }
