@@ -8,7 +8,7 @@
 | [Dutch](#non-curated-languages) | 49 | 1993 | 10 | 2234 | 191 | 444 | 177 | 144 |
 | [Finnish](#non-curated-languages) | 49 | 1993 | 10 | 2234 | 191 | 444 | 177 | 144 |
 | [French](#french-français) | 25 | 118 | 10 | 1586 | 191 | 378 | 177 | 123 |
-| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 1 |
+| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Hungarian](#non-curated-languages) | 49 | 118 | 10 | 2234 | 191 | 709 | 177 | 145 |
 | [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 1 |
 | [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | 19 | ✔️ | 35 | ✔️ | ✔️ |
@@ -18,7 +18,7 @@
 | [European Portuguese](#portuguese-português-europeu) | ✔️ | 160 | ✔️ | 1423 | 18 | 371 | 150 | 137 |
 | [Brazilian Portuguese](#brazilian-português) | ✔️ | 1993 | ✔️ | 480 | ✔️ | ✔️ | 39 | 2 |
 | [Romanian](#non-curated-languages) | 49 | 1985 | 16 | 2959 | 191 | 709 | 177 | 145 |
-| [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | 2 | ✔️ | ✔️ | ✔️ | 2 |
+| [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 1 |
 | [European Spanish](#spanish-español-de-españa) | 26 | 1993 | 8 | 1638 | 191 | 448 | 177 | 144 |
 | [Swedish](#non-curated-languages) | 49 | 1993 | 10 | 2234 | 191 | 444 | 177 | 145 |
 | [Thai](#non-curated-languages) | 964 | 1982 | 18 | 3509 | 191 | 473 | 177 | 145 |
@@ -711,9 +711,7 @@
 
 </summary>
 
-### Mail and News
-
-- [officemail4_german.txt](resource/mail/officemail4_german.txt) has 1 indented lines.
+✓ Up to date!
 
 </details>
 
@@ -1334,17 +1332,9 @@
 
 </summary>
 
-### Strings
-
-- [reactivedrop_russian.txt](resource/reactivedrop_russian.txt) has 2 untranslated strings.
-
 ### Upcoming Release Notes
 
 - [20230420_russian.xml](release_notes/20230420_english.xml) is missing.
-
-### Mail and News
-
-- [officemail4_russian.txt](resource/mail/officemail4_russian.txt) has 1 indented lines.
 
 </details>
 
