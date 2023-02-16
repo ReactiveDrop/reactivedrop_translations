@@ -869,7 +869,7 @@
 "[english]GameUI_SaveAndQuit"		"Save"
 "GameUI_DontSaveAndQuit"		"セーブしない"
 "[english]GameUI_DontSaveAndQuit"		"Don't save"
-"GameUI_Captioning"		"字幕設定"
+"GameUI_Captioning"		"字幕の表示"
 "[english]GameUI_Captioning"		"Captioning"
 "GameUI_NoClosedCaptions"		"字幕無し"
 "[english]GameUI_NoClosedCaptions"		"No captions"
