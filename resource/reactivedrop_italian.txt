@@ -5080,14 +5080,14 @@
 "rd_so_author_helvetica_scenario"		"Annotazione del Dr. Helvetica Scenario (OCM)"
 // Office of Consensus Maintenance
 "[english]rd_so_author_helvetica_scenario"		"Annotation from Dr. Helvetica Scenario (OCM)"
-		"rd_so_author_isaac_kleiner"		"A Black Mesa informational bulletin from the desk of Isaac Kleiner"
-		"[english]rd_so_author_isaac_kleiner"		"A Black Mesa informational bulletin from the desk of Isaac Kleiner"
+"rd_so_author_isaac_kleiner"		"Un bollettino informativo di Black Mesa dalla scrivania di Isaac Kleiner"
+"[english]rd_so_author_isaac_kleiner"		"A Black Mesa informational bulletin from the desk of Isaac Kleiner"
 "rd_so_author_julie_duval"		"Dal diario della Prof. Julie Duval (IAF)"
 // Interstellar Armed Forces
 "[english]rd_so_author_julie_duval"		"From the journal of Prof. Julie Duval (IAF)"
-		"rd_so_author_julie_duval_ocm"		"Annotation from Prof. Julie Duval (OCM)"
-		// Office of Consensus Maintenance
-		"[english]rd_so_author_julie_duval_ocm"		"Annotation from Prof. Julie Duval (OCM)"
+"rd_so_author_julie_duval_ocm"		"Annotazione della Prof. Julie Duval (OCM)"
+// Office of Consensus Maintenance
+"[english]rd_so_author_julie_duval_ocm"		"Annotation from Prof. Julie Duval (OCM)"
 "rd_so_author_shaun_ming"		"Dal diario di Shaun Ming (SynTek)"
 "[english]rd_so_author_shaun_ming"		"From the journal of Shaun Ming (SynTek)"
 "rd_so_paragraph_drone_0"		"28/03/43, 15:23\nNon credo che li capiremo mai veramente. C'è così tanto da imparare sulla loro morfologia, sul loro comportamento, persino sulla loro provenienza. Tutto ciò che sappiamo ha avuto un grande costo umano. Ho registrato quasi cinquanta diverse variazioni dello stesso schema corporeo. Il triplo se si includono le mutazioni che ho confermato di persona. Ho cercato di mettere insieme le poche voci che parlano di droni che mutano rapidamente con nuove e sorprendenti capacità e colorazioni del carapace. Se anche solo la metà di queste sono vere, temo che non saremo mai in grado di catalogare tutte le possibili variazioni, tanto meno di debellare questo cancro una volta per tutte."
