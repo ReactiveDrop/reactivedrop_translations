@@ -3,7 +3,7 @@
 "Language"		"brazilian"
 "Tokens"
 {
-"inventory_name_format_1"		"Único %ITEMNAME%"
+"inventory_name_format_1"		"%ITEMNAME% (Único)"
 "[english]inventory_name_format_1"		"Unique %ITEMNAME%"
 "inventory_name_format_2"		""
 "[english]inventory_name_format_2"		""
@@ -39,7 +39,7 @@
 "[english]inventory_slot_medal"		"Medal"
 "item_store_category_donations"		"Doações"
 "[english]item_store_category_donations"		"Donations"
-"item_store_category_mapstamp"		"Selos de mapa"
+"item_store_category_mapstamp"		"Selos de Mapa"
 "[english]item_store_category_mapstamp"		"Map Stamps"
 }
 }

@@ -1,12 +1,12 @@
 {
 "language": "brazilian",
 "itemid": "81731",
-"app[content][short_description]": "Um jogo de tiro cooperativo disponível gratuitamente. Uma caçada épica aos insetos apresentando uma mistura única de jogo cooperativo e táticas de esquadrão.",
-"app[content][about]": "Alien Swarm: Reactive Drop é uma extensão de Alien Swarm, trazendo mais de tudo: mapas, aliens, modos de jogo, armas... E o mais importante suporte do Steam Workshop.\n\n[list]\n[*]Cooperativo tático para até 8 jogadores, com perspectiva de cima para baixo\n[*]Suporte ao Steam Workshop para mapas e desafios da comunidade\n[*]Novas campanhas cooperativas\n[*]Desafios: Modificações no jogo, similares as \"Mutações\" do Left 4 Dead 2\n[*]PvP: Morte Súbita, Gun Game, Instagib, and Morte Súbita em Equipe\n[*]Singleplayer: Jogue com bots aprimorados em todos os nossos mapas oficiais\n[*]Novos Aliens: Os Antlion Guards do Half Life 2 e mais\n[*]Novas armas: Bulldog, Devastator e o Rifle de Combate, com mais por ainda vir...\n[*]Mais de 100 conquistas do Steam\n[*]Leaderboards: dispute com seus amigos para quem conclui a missão mais rápido\n[*]Espectador aprimorado: veja o hackeamento e movimentos do mouse em tempo real\n[\/list]",
-"app[content][legal]": "© 2017 Equipe Reactive Drop",
+"app[content][short_description]": "Um jogo de tiro cooperativo gratuito com visão isométrica. Uma caça épica a alienígenas que mistura o multijogador cooperativo com táticas de coordenação.",
+"app[content][about]": "Alien Swarm: Reactive Drop é uma extensão de Alien Swarm que traz mais de tudo: mapas, alienígenas, modos de jogo, armas... Além de suporte à Oficina Steam.\n\n[list]\n[*]Cooperativo tático com visão isométrica para até oito jogadores\n[*]Integração de mapas e desafios com a Oficina Steam\n[*]Campanhas cooperativas inéditas\n[*]Desafios: modificações parecidas com as mutações de Left 4 Dead 2\n[*]JxJ: Mata-Mata, Corrida Armada, InstaGib e Mata-Mata em Equipe\n[*]Um jogador: jogue com bots aprimorados em todos os mapas oficiais\n[*]Alienígenas novos: formiga-leão guardiã de Half-Life 2 e mais!\n[*]Armas novas: Bulldog, Devastador e o Fuzil de Combate, com mais para vir!\n[*]Mais de 100 conquistas Steam\n[*]Placares: compita com os seus amigos para ver quem consegue cumprir uma missão primeiro\n[*]Espectador aprimorado: veja os minigames de invasão e o mouse dos jogadores em tempo real\n[\/list]",
+"app[content][legal]": "© 2017 Equipe do Reactive Drop",
 "app[content][sysreqs][windows][min][osversion]": "Windows® XP ou superior",
 "app[content][sysreqs][windows][min][processor]": "Pentium 4 ou mais recente",
-"app[content][sysreqs][windows][min][graphics]": "Placa gráfica com 128MB compatível com DirectX 9, Shader Model 2.0 (ATI X800, Nvidia 6600 ou melhor)",
+"app[content][sysreqs][windows][min][graphics]": "Placa de vídeo compatível com DirectX 9 com 128 MB e Shader Model 2.0 (ATI X800, NVIDIA 6600 ou superior)",
 "app[content][sysreqs][windows][min][soundcard]": "Placa de som compatível com DirectX 9.0c",
-"app[content][sysreqs][windows][min][notes]": "O espaço de armazenamento necessário dependerá dos add-ons do Steam Workshop que forem instalados."
+"app[content][sysreqs][windows][min][notes]": "O espaço de armazenamento varia conforme os add-ons da Oficina instalados."
 }
