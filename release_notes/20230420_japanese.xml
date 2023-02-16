@@ -191,4 +191,5 @@ TODO
 [*]asw_vehicle_jeepはカメラを上書きするメソッドとして、SetCameraControls, SetCameraPitch, SetCameraDist, SetCameraHeight, 及びそれぞれに対応するGet*を持つようになった。負の値を設定すると乗り物はグローバル設定を使用するようになる。
 [*]asw_vehicle_jeepが乗員についての情報を要求するメソッドとして、MaxPassengers(), GetDriver(), GetPassenger(seat)を持つようになった。
 [*]asw_vehicle_jeepが統計情報を取得するメソッドとして、GetSpeed, GetMaxSpeed (時速マイル表記), GetRPM, GetThrottle, HasBoost, BoostTimeLeftを持つようになった。
+		[*]Added SetSpawnZombineOnMarineKill to inhabitable NPCs, SetSpawnZombineOnDeath to marines, and a convar rd_marine_spawn_zombine_on_death_chance, all of which can be used to spawn a marine zombie with the Zombine AI when a marine dies.
 [/list]</string><string id="subtitle">今日はAlien Swarm: Reactive Dropの誕生日です！</string><string id="summary">今日はAlien Swarm: Reactive DropがSteamでリリースされてから6周年の記念日です！経験値2倍週間、2つの新キャンペーン、その他色々でお祝いしましょう。</string><string id="title">Alien Swarm: Reactive Dropアップデート - 2023年4月20日</string></content>

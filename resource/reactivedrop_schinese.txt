@@ -5080,11 +5080,14 @@
 		"rd_so_author_helvetica_scenario"		"Annotation from Dr. Helvetica Scenario (OCM)"
 		// Office of Consensus Maintenance
 		"[english]rd_so_author_helvetica_scenario"		"Annotation from Dr. Helvetica Scenario (OCM)"
-"rd_so_author_isaac_kleiner"		"摘自艾萨克·克莱纳博士的期刊（黑山基地）"
-"[english]rd_so_author_isaac_kleiner"		"From the journal of Dr. Isaac Kleiner (Black Mesa)"
+		"rd_so_author_isaac_kleiner"		"A Black Mesa informational bulletin from the desk of Isaac Kleiner"
+		"[english]rd_so_author_isaac_kleiner"		"A Black Mesa informational bulletin from the desk of Isaac Kleiner"
 "rd_so_author_julie_duval"		"摘自朱莉·杜瓦教授的期刊（IAF）"
 // Interstellar Armed Forces
 "[english]rd_so_author_julie_duval"		"From the journal of Prof. Julie Duval (IAF)"
+		"rd_so_author_julie_duval_ocm"		"Annotation from Prof. Julie Duval (OCM)"
+		// Office of Consensus Maintenance
+		"[english]rd_so_author_julie_duval_ocm"		"Annotation from Prof. Julie Duval (OCM)"
 "rd_so_author_shaun_ming"		"摘自肖恩·明的期刊（新特）"
 "[english]rd_so_author_shaun_ming"		"From the journal of Shaun Ming (SynTek)"
 "rd_so_paragraph_drone_0"		"03/28/43，15:23\n我认为我们永远无法真正理解这些。 关于它们的形态、它们的行为，甚至它们来自哪里，我们还有很多要研究的。 我们所知道的一切都是以巨大的人命代价换来的。 我记录了近五十种相同体型的不同变化。 如果算上我直接证实的变异，那就是三倍。 我一直在整理关于爪虫迅速变异的惊人新功能，以及外壳颜色的传闻。 即使其中有一半是真的，我担心我们可能永远无法将所有可能的变异分类，更别用说想一劳永逸地消灭这种癌症了。"

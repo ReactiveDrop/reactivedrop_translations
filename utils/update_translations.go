@@ -42,13 +42,13 @@ func main() {
 		syncTranslations(prefix, ".vdf", false)
 	}
 
-	updateAchievements(sourceLanguage)
+	updateDerivedFiles(sourceLanguage)
 	for _, lang := range derivedLanguages {
 		if emptyLanguages[lang] {
 			continue
 		}
 
-		updateAchievements(lang)
+		updateDerivedFiles(lang)
 	}
 
 	for _, prefix := range txtAddonLanguageFiles {
@@ -77,7 +77,7 @@ func syncTranslations(prefix, suffix string, quiet bool) {
 		fmt.Printf("%s\n", prefix)
 	}
 
-	base, err := loadTranslatedStrings(prefix+"_"+sourceLanguage+suffix, sourceLanguage)
+	base, err := loadTranslatedStrings(prefix+"_"+sourceLanguage+suffix, sourceLanguage, true)
 	if err != nil {
 		panic(err)
 	}
@@ -167,7 +167,7 @@ func nextRealToken(r *bufio.Reader) (s string, t vdf.Token, indent bool, comment
 	}
 }
 
-func loadTranslatedStrings(filename, lang string) (*translatedStrings, error) {
+func loadTranslatedStrings(filename, lang string, wantBOM bool) (*translatedStrings, error) {
 	ts := &translatedStrings{lookup: make(map[string]int)}
 
 	f, err := os.Open(filename)
@@ -178,9 +178,11 @@ func loadTranslatedStrings(filename, lang string) (*translatedStrings, error) {
 
 	r := bufio.NewReader(f)
 
-	err = readBOM(r)
-	if err != nil {
-		return nil, err
+	if wantBOM {
+		err = readBOM(r)
+		if err != nil {
+			return nil, err
+		}
 	}
 
 	s, t, _, _, err := nextRealToken(r)
@@ -328,7 +330,7 @@ func loadTranslatedStrings(filename, lang string) (*translatedStrings, error) {
 	return ts, nil
 }
 
-func check(n int, err error) {
+func check(_ int, err error) {
 	if err != nil {
 		panic(err)
 	}
@@ -338,7 +340,7 @@ var indentNewLine = strings.NewReplacer("\n", "\n\t\t")
 
 func updateLanguageFile(source *translatedStrings, prefix, lang, suffix string) (upToDate, total int) {
 	filename := prefix + "_" + lang + suffix
-	dest, err := loadTranslatedStrings(filename, lang)
+	dest, err := loadTranslatedStrings(filename, lang, true)
 	if errors.Is(err, os.ErrNotExist) {
 		err = nil
 	}
@@ -438,8 +440,13 @@ func updateLanguageFile(source *translatedStrings, prefix, lang, suffix string) 
 	return
 }
 
+func updateDerivedFiles(lang string) {
+	updateAchievements(lang)
+	updateRichPresence(lang)
+}
+
 func updateAchievements(lang string) {
-	kv, err := loadTranslatedStrings("../resource/reactivedrop_"+lang+".txt", lang)
+	kv, err := loadTranslatedStrings("../resource/reactivedrop_"+lang+".txt", lang, true)
 	if err != nil {
 		panic(err)
 	}
@@ -487,6 +494,72 @@ func updateAchievements(lang string) {
 			check(f.WriteString("\" //\""))
 		}
 		check(vdf.Escape.WriteString(f, aDesc))
+		check(f.WriteString("\"\r\n"))
+	}
+
+	check(f.WriteString("\t}\r\n}\r\n"))
+}
+
+func updateRichPresence(lang string) {
+	kv, err := loadTranslatedStrings("../resource/reactivedrop_"+lang+".txt", lang, true)
+	if err != nil {
+		panic(err)
+	}
+
+	oldStrings, err := loadTranslatedStrings("../rich_presence/563560_loc_"+lang+".vdf", lang, false)
+	if os.IsNotExist(err) {
+		return
+	}
+	if err != nil {
+		panic(err)
+	}
+
+	f, err := os.Create("../rich_presence/563560_loc_" + lang + ".vdf")
+	if err != nil {
+		panic(err)
+	}
+	defer f.Close()
+
+	check(f.WriteString("\"lang\"\r\n{\r\n\t\"Language\"\t\""))
+	check(vdf.Escape.WriteString(f, lang))
+	check(f.WriteString("\"\r\n\t\"Tokens\"\r\n\t{\r\n"))
+
+	for _, s := range oldStrings.strings {
+		if !strings.HasPrefix(s.key, "#official_") {
+			check(f.WriteString("\t\t\""))
+			check(vdf.Escape.WriteString(f, s.key))
+			check(f.WriteString("\"\t\""))
+			check(vdf.Escape.WriteString(f, s.translated))
+			check(f.WriteString("\"\r\n"))
+		}
+	}
+
+	findString := func(key string) string {
+		i, ok := kv.lookup[strings.ToLower(key)]
+		if !ok {
+			return ""
+		}
+
+		return kv.strings[i].translated
+	}
+
+	check(f.WriteString("\r\n"))
+
+	for _, s := range officialChallenges {
+		name := findString("rd_challenge_name_" + s)
+
+		check(fmt.Fprintf(f, "\t\t\"#official_challenge_%s\"\t\"", s))
+		check(vdf.Escape.WriteString(f, name))
+		check(f.WriteString("\"\r\n"))
+	}
+
+	check(f.WriteString("\r\n"))
+
+	for _, s := range officialMissions {
+		name := findString("rd_mission_title_" + s)
+
+		check(fmt.Fprintf(f, "\t\t\"#official_mission_%s\"\t\"", s))
+		check(vdf.Escape.WriteString(f, name))
 		check(f.WriteString("\"\r\n"))
 	}
 

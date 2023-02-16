@@ -906,7 +906,7 @@
 "[english]asw_weapon_normal_armor"		"Heavy Armor"
 "asw_weaponl_normal_armor"		"Armadura Pesada Tática l3a"
 "[english]asw_weaponl_normal_armor"		"l3a Tactical Heavy Armor"
-"asw_weapon_normal_armor_attributes"		"Até 35%% de red. de dano, passiva"
+"asw_weapon_normal_armor_attributes"		"Até 35% de red. de dano, passiva"
 "[english]asw_weapon_normal_armor_attributes"		"Up to 35% Damage Reduction, Passive"
 "asw_weapon_fist"		"Punho de Energia"
 "[english]asw_weapon_fist"		"Power Fist"
@@ -5080,11 +5080,14 @@
 		"rd_so_author_helvetica_scenario"		"Annotation from Dr. Helvetica Scenario (OCM)"
 		// Office of Consensus Maintenance
 		"[english]rd_so_author_helvetica_scenario"		"Annotation from Dr. Helvetica Scenario (OCM)"
-		"rd_so_author_isaac_kleiner"		"From the journal of Dr. Isaac Kleiner (Black Mesa)"
-		"[english]rd_so_author_isaac_kleiner"		"From the journal of Dr. Isaac Kleiner (Black Mesa)"
+		"rd_so_author_isaac_kleiner"		"A Black Mesa informational bulletin from the desk of Isaac Kleiner"
+		"[english]rd_so_author_isaac_kleiner"		"A Black Mesa informational bulletin from the desk of Isaac Kleiner"
 		"rd_so_author_julie_duval"		"From the journal of Prof. Julie Duval (IAF)"
 		// Interstellar Armed Forces
 		"[english]rd_so_author_julie_duval"		"From the journal of Prof. Julie Duval (IAF)"
+		"rd_so_author_julie_duval_ocm"		"Annotation from Prof. Julie Duval (OCM)"
+		// Office of Consensus Maintenance
+		"[english]rd_so_author_julie_duval_ocm"		"Annotation from Prof. Julie Duval (OCM)"
 		"rd_so_author_shaun_ming"		"From the journal of Shaun Ming (SynTek)"
 		"[english]rd_so_author_shaun_ming"		"From the journal of Shaun Ming (SynTek)"
 		"rd_so_paragraph_drone_0"		"03/28/43, 15:23\nI don't think we'll ever truly understand these. There's so much to learn about their morphology, their behavior, even where they came from. Everything we do know came at a great human cost. I've recorded nearly fifty different variations on the same body plan. Triple that if you include the mutations I've confirmed firsthand. I've been trying to assemble the scant rumors of drones rapidly mutating astonishing new capabilities and carapace coloration. If even half of these are true, I worry we may never be able to catalog every possible variation, much less stamp this cancer out once and for all."
