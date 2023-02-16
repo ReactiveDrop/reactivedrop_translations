@@ -10,7 +10,7 @@
 | [French](#french-français) | 25 | 118 | 10 | 1587 | 191 | 378 | 177 | 123 |
 | [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | 2 | ✔️ | ✔️ | ✔️ | 1 |
 | [Hungarian](#non-curated-languages) | 49 | 118 | 10 | 2235 | 191 | 709 | 177 | 145 |
-| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | 2 | ✔️ | ✔️ | ✔️ | 2 |
+| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | 21 | ✔️ | 35 | ✔️ | 1 |
 | [Korean](#koreana-한국어) | 47 | 55 | 6 | 1100 | 43 | 272 | 177 | 50 |
 | [Norwegian Bokmål](#non-curated-languages) | 67 | 693 | 15 | 2955 | 191 | 444 | 177 | 145 |
@@ -727,17 +727,7 @@
 
 </summary>
 
-### Strings
-
-- [reactivedrop_italian.txt](resource/reactivedrop_italian.txt) has 2 untranslated strings.
-
-### Upcoming Release Notes
-
-- [20230420_italian.xml](release_notes/20230420_italian.xml) has 1 indented lines.
-
-### Mail and News
-
-- [officemail4_italian.txt](resource/mail/officemail4_italian.txt) has 1 indented lines.
+✓ Up to date!
 
 </details>
 
