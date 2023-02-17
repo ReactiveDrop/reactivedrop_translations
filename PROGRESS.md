@@ -8,7 +8,7 @@
 | [Dutch](#non-curated-languages) | 49 | 1999 | 10 | 2235 | 191 | 444 | 177 | 144 |
 | [Finnish](#non-curated-languages) | 49 | 1999 | 10 | 2235 | 191 | 444 | 177 | 144 |
 | [French](#french-français) | 25 | 124 | 10 | 1587 | 191 | 378 | 177 | 123 |
-| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | 2 | ✔️ | ✔️ | ✔️ | 1 |
+| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Hungarian](#non-curated-languages) | 49 | 124 | 10 | 2235 | 191 | 709 | 177 | 145 |
 | [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | 19 | ✔️ | 35 | ✔️ | ✔️ |
@@ -711,13 +711,7 @@
 
 </summary>
 
-### Strings
-
-- [reactivedrop_german.txt](resource/reactivedrop_german.txt) has 2 untranslated strings.
-
-### Upcoming Release Notes
-
-- [20230420_german.xml](release_notes/20230420_german.xml) has 1 indented lines.
+✓ Up to date!
 
 </details>
 
