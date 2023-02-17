@@ -5080,14 +5080,14 @@
 "rd_so_author_helvetica_scenario"		"Anmerkung von Dr. Helvetica Scenario (OCM)"
 // Office of Consensus Maintenance
 "[english]rd_so_author_helvetica_scenario"		"Annotation from Dr. Helvetica Scenario (OCM)"
-		"rd_so_author_isaac_kleiner"		"A Black Mesa informational bulletin from the desk of Isaac Kleiner"
-		"[english]rd_so_author_isaac_kleiner"		"A Black Mesa informational bulletin from the desk of Isaac Kleiner"
+"rd_so_author_isaac_kleiner"		"Ein Black Mesa-Informationsheft vom Schreibtisch von Isaac Kleiner"
+"[english]rd_so_author_isaac_kleiner"		"A Black Mesa informational bulletin from the desk of Isaac Kleiner"
 "rd_so_author_julie_duval"		"Aus den Aufzeichnungen von Prof. Julie Duval (IAF)"
 // Interstellar Armed Forces
 "[english]rd_so_author_julie_duval"		"From the journal of Prof. Julie Duval (IAF)"
-		"rd_so_author_julie_duval_ocm"		"Annotation from Prof. Julie Duval (OCM)"
-		// Office of Consensus Maintenance
-		"[english]rd_so_author_julie_duval_ocm"		"Annotation from Prof. Julie Duval (OCM)"
+"rd_so_author_julie_duval_ocm"		"Kommentar von Prof. Julie Duval (OCM)"
+// Office of Consensus Maintenance
+"[english]rd_so_author_julie_duval_ocm"		"Annotation from Prof. Julie Duval (OCM)"
 "rd_so_author_shaun_ming"		"Aus den Aufzeichnungen von Shaun Ming (SynTek)"
 "[english]rd_so_author_shaun_ming"		"From the journal of Shaun Ming (SynTek)"
 "rd_so_paragraph_drone_0"		"03/28/43, 15:23\nIch glaube nicht, dass wir sie jemals wirklich verstehen werden. Es gibt noch so viel über ihre Morphologie, ihr Verhalten und sogar darüber zu lernen, woher sie kommen. Alles, was wir wissen, hat einen hohen menschlichen Preis. Ich habe fast fünfzig verschiedene Varianten desselben Körperbaus aufgezeichnet. Das Dreifache, wenn man die Mutationen mitzählt, die ich aus erster Hand bestätigt habe. Ich habe versucht, die spärlichen Gerüchte über Drohnen zusammenzutragen, die schnell zu erstaunlichen neuen Fähigkeiten und Panzerfärbungen mutieren. Wenn auch nur die Hälfte davon wahr ist, befürchte ich, dass wir nie in der Lage sein werden, alle möglichen Variationen zu katalogisieren, geschweige denn diesen Krebs ein für alle Mal auszurotten."
