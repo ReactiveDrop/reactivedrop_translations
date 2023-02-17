@@ -67,9 +67,9 @@
 [h1]VScript[/h1]
 [list]
 [*][b]CASW_Marine::GetMarineName()[/b] leaked nicht mehr bei jedem Aufruf Speicher und übersetzt den Namen jetzt richtig.
-[*]Methode [b]GetCommander[/b] für bewohnbare NPCs (z.B. Soldaten) hinzugefügt.
-[*]Methode [b]SetFogController[/b] für bewohnbare NPCs hinzugefügt.
-[*]Methode [b]SetPostProcessController[/b] für bewohnbare NPCs hinzugefügt.
-[*]Methode [b]SetColorCorrection[/b] für bewohnbare NPCs hinzugefügt.
-[*]Methode [b]SetTonemapController[/b] für bewohnbare NPCs hinzugefügt.
+[*]Methode [b]GetCommander[/b] für bewohnbare NSCs (z.B. Soldaten) hinzugefügt.
+[*]Methode [b]SetFogController[/b] für bewohnbare NSCs hinzugefügt.
+[*]Methode [b]SetPostProcessController[/b] für bewohnbare NSCs hinzugefügt.
+[*]Methode [b]SetColorCorrection[/b] für bewohnbare NSCs hinzugefügt.
+[*]Methode [b]SetTonemapController[/b] für bewohnbare NSCs hinzugefügt.
 [/list]</string><string id="subtitle"></string><string id="summary"></string><string id="title">Alien Swarm: Reactive Drop Update - 20. Oktober 2022</string></content>
