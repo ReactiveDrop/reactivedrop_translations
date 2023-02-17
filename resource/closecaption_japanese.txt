@@ -3821,6 +3821,11 @@
 "[english]DM.monster_kill"		"<clr:238,0,0>ANNOUNCER: M-M-M-Monster kill!"
 "DM.godlike"		"<clr:238,0,0>アナウンサー: GODLIKE!"
 "[english]DM.godlike"		"<clr:238,0,0>ANNOUNCER: GODLIKE!"
+		"tarnor.train_approaching"		"<clr:158,120,60>Station Announcement: Next train is now approaching. Please stand clear of the platform edge."
+		// Tears for Tarnor
+		"[english]tarnor.train_approaching"		"<clr:158,120,60>Station Announcement: Next train is now approaching. Please stand clear of the platform edge."
+		"tarnor.train_departing1"		"<clr:158,120,60>Station Announcement: This train is now departing."
+		"[english]tarnor.train_departing1"		"<clr:158,120,60>Station Announcement: This train is now departing."
 "Duval.01_02"		"<clr:179,203,207><B>デュバル教授:<B> チャーリー部隊、私はジュリー・デュバルです。 あなた達のシャトルの熱源レーダーは設備の屋根と通気口の内外から複数の信号を検知している。 しかしこの計測結果は奇妙なことに...人間みたいなのよ、詳細な情報が欠けているけどね。"
 //NAM HUMANUM
 "[english]Duval.01_02"		"<clr:179,203,207><B>Prof. Duval:<B> Charlie, Julie Duval here. Thermals from your shuttle's radar are tracking multiple signals in and out the installation's roofs and ducts. Though these readouts are oddly...human, for lack of details."
