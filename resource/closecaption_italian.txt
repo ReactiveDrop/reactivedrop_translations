@@ -3821,11 +3821,11 @@
 "[english]DM.monster_kill"		"<clr:238,0,0>ANNOUNCER: M-M-M-Monster kill!"
 "DM.godlike"		"<clr:238,0,0>ANNUNCIATORE: DIO IN TERRA!"
 "[english]DM.godlike"		"<clr:238,0,0>ANNOUNCER: GODLIKE!"
-		"tarnor.train_approaching"		"<clr:158,120,60>Station Announcement: Next train is now approaching. Please stand clear of the platform edge."
-		// Tears for Tarnor
-		"[english]tarnor.train_approaching"		"<clr:158,120,60>Station Announcement: Next train is now approaching. Please stand clear of the platform edge."
-		"tarnor.train_departing1"		"<clr:158,120,60>Station Announcement: This train is now departing."
-		"[english]tarnor.train_departing1"		"<clr:158,120,60>Station Announcement: This train is now departing."
+"tarnor.train_approaching"		"<clr:158,120,60>Annuncio della stazione: Il prossimo treno si sta avvicinando. Si prega di allontanarsi dal bordo del marciapiede."
+// Tears for Tarnor
+"[english]tarnor.train_approaching"		"<clr:158,120,60>Station Announcement: Next train is now approaching. Please stand clear of the platform edge."
+"tarnor.train_departing1"		"<clr:158,120,60>Annuncio della stazione: Il treno è in partenza."
+"[english]tarnor.train_departing1"		"<clr:158,120,60>Station Announcement: This train is now departing."
 "Duval.01_02"		"<clr:179,203,207><B>Prof. Duval:<B> Charlie, sono Julie Duval. Le termiche del radar della tua navetta stanno tracciando segnali multipli dentro e fuori i tetti e i condotti dell'installazione. Anche se queste letture sono stranamente... umane, per mancanza di dettagli."
 //NAM HUMANUM
 "[english]Duval.01_02"		"<clr:179,203,207><B>Prof. Duval:<B> Charlie, Julie Duval here. Thermals from your shuttle's radar are tracking multiple signals in and out the installation's roofs and ducts. Though these readouts are oddly...human, for lack of details."
