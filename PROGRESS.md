@@ -8,9 +8,9 @@
 | [Dutch](#non-curated-languages) | 49 | 2001 | 10 | 2235 | 191 | 444 | 177 | 144 |
 | [Finnish](#non-curated-languages) | 49 | 2001 | 10 | 2235 | 191 | 444 | 177 | 144 |
 | [French](#french-français) | 25 | 126 | 10 | 1587 | 191 | 378 | 177 | 123 |
-| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 1 |
+| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Hungarian](#non-curated-languages) | 49 | 126 | 10 | 2235 | 191 | 709 | 177 | 145 |
-| [Italian](#italian-italiano) | ✔️ | 2 | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 1 |
+| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | 19 | ✔️ | 35 | ✔️ | 1 |
 | [Korean](#koreana-한국어) | 47 | 63 | 6 | 1100 | 43 | 272 | 177 | 50 |
 | [Norwegian Bokmål](#non-curated-languages) | 67 | 701 | 15 | 2955 | 191 | 444 | 177 | 145 |
@@ -716,9 +716,7 @@
 
 </summary>
 
-### Credits
-
-- [credits_acc32_official_german.txt](credits/credits_acc32_official_german.txt) has 1 indented lines.
+✓ Up to date!
 
 </details>
 
@@ -728,13 +726,7 @@
 
 </summary>
 
-### Strings
-
-- [closecaption_italian.txt](resource/closecaption_italian.txt) has 2 untranslated strings.
-
-### Credits
-
-- [credits_acc32_official_italian.txt](credits/credits_acc32_official_italian.txt) has 1 indented lines.
+✓ Up to date!
 
 </details>
 
