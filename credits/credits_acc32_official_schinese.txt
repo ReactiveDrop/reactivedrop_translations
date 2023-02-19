@@ -21,4 +21,6 @@
 "asw_credits_"	"监视器 - https://steamcommunity.com/sharedfiles/filedetails/?id=1108535208"
 "asw_credits_"	"控制台 - https://steamcommunity.com/sharedfiles/filedetails/?id=2677359280"
 "asw_credits_"	"皮卡车 - https://skfb.ly/oxV9M"
+"asw_credits_"	""
+		"asw_credits_"	"Thanks to mfz and Ben Lubar for lovely Blender renders of the campaign maps"
 }
