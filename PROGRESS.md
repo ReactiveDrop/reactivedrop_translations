@@ -1,24 +1,24 @@
 # Overview
 | Language | basemodui | closecaption | gameui | reactivedrop | statsweb | Strings | Inventory | Files |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [Simplified Chinese](#schinese-简体中文) | ✔️ | 2 | ✔️ | 121 | ✔️ | ✔️ | 39 | 2 |
+| [Simplified Chinese](#schinese-简体中文) | ✔️ | 2 | ✔️ | 121 | ✔️ | ✔️ | 39 | 3 |
 | [Traditional Chinese](#tchinese-繁體中文) | 7 | 128 | 1 | 2116 | 191 | 58 | 177 | 144 |
 | [Czech](#czech-čeština) | 69 | 1804 | 10 | 3259 | 191 | 714 | 177 | 144 |
 | [Danish](#non-curated-languages) | 50 | 219 | 10 | 2780 | 191 | 444 | 177 | 145 |
 | [Dutch](#non-curated-languages) | 49 | 2001 | 10 | 2235 | 191 | 444 | 177 | 144 |
 | [Finnish](#non-curated-languages) | 49 | 2001 | 10 | 2235 | 191 | 444 | 177 | 144 |
 | [French](#french-français) | 25 | 126 | 10 | 1587 | 191 | 378 | 177 | 123 |
-| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
+| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 1 |
 | [Hungarian](#non-curated-languages) | 49 | 126 | 10 | 2235 | 191 | 709 | 177 | 145 |
-| [Italian](#italian-italiano) | ✔️ | 2 | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
-| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | 19 | ✔️ | 35 | ✔️ | ✔️ |
+| [Italian](#italian-italiano) | ✔️ | 2 | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 1 |
+| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | 19 | ✔️ | 35 | ✔️ | 1 |
 | [Korean](#koreana-한국어) | 47 | 63 | 6 | 1100 | 43 | 272 | 177 | 50 |
 | [Norwegian Bokmål](#non-curated-languages) | 67 | 701 | 15 | 2955 | 191 | 444 | 177 | 145 |
 | [Polish](#polish-polski) | 26 | 2001 | 10 | 2235 | 191 | 444 | 177 | 145 |
 | [European Portuguese](#portuguese-português-europeu) | ✔️ | 168 | ✔️ | 1425 | 18 | 371 | 150 | 137 |
-| [Brazilian Portuguese](#brazilian-português) | ✔️ | 2001 | ✔️ | 481 | ✔️ | ✔️ | 39 | 2 |
+| [Brazilian Portuguese](#brazilian-português) | ✔️ | 2001 | ✔️ | 481 | ✔️ | ✔️ | 39 | 3 |
 | [Romanian](#non-curated-languages) | 49 | 1993 | 16 | 2960 | 191 | 709 | 177 | 145 |
-| [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 1 |
+| [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 2 |
 | [European Spanish](#spanish-español-de-españa) | 26 | 2001 | 8 | 1639 | 191 | 448 | 177 | 144 |
 | [Swedish](#non-curated-languages) | 49 | 2001 | 10 | 2235 | 191 | 444 | 177 | 145 |
 | [Thai](#non-curated-languages) | 964 | 1990 | 18 | 3510 | 191 | 473 | 177 | 145 |
@@ -47,6 +47,10 @@
 ### Upcoming Release Notes
 
 - [20230420_schinese.xml](release_notes/20230420_schinese.xml) has 71 indented lines.
+
+### Credits
+
+- [credits_acc32_official_schinese.txt](credits/credits_acc32_official_schinese.txt) has 1 indented lines.
 
 ### Mail and News
 
@@ -712,7 +716,9 @@
 
 </summary>
 
-✓ Up to date!
+### Credits
+
+- [credits_acc32_official_german.txt](credits/credits_acc32_official_german.txt) has 1 indented lines.
 
 </details>
 
@@ -726,6 +732,10 @@
 
 - [closecaption_italian.txt](resource/closecaption_italian.txt) has 2 untranslated strings.
 
+### Credits
+
+- [credits_acc32_official_italian.txt](credits/credits_acc32_official_italian.txt) has 1 indented lines.
+
 </details>
 
 <details><summary>
@@ -738,6 +748,10 @@
 
 - [vgui_japanese.txt](platform/vgui_japanese.txt) has 35 untranslated strings.
 - [reactivedrop_japanese.txt](resource/reactivedrop_japanese.txt) has 19 untranslated strings.
+
+### Credits
+
+- [credits_acc32_official_japanese.txt](credits/credits_acc32_official_japanese.txt) has 1 indented lines.
 
 </details>
 
@@ -1305,6 +1319,10 @@
 
 - [20230420_brazilian.xml](release_notes/20230420_brazilian.xml) has 72 indented lines.
 
+### Credits
+
+- [credits_acc32_official_brazilian.txt](credits/credits_acc32_official_brazilian.txt) has 1 indented lines.
+
 ### Mail and News
 
 - [officemail4_brazilian.txt](resource/mail/officemail4_brazilian.txt) has 1 indented lines.
@@ -1336,6 +1354,10 @@
 ### Upcoming Release Notes
 
 - [20230420_russian.xml](release_notes/20230420_english.xml) is missing.
+
+### Credits
+
+- [credits_acc32_official_russian.txt](credits/credits_acc32_official_russian.txt) has 1 indented lines.
 
 </details>
 
