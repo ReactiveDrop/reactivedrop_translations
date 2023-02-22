@@ -140,6 +140,7 @@ Aqui estão alguns destaques das atualizações desde o aniversário anterior:
 		[*]Added a visible and audible indication for when Leadership affects damage dealt or taken.
 		[*]Challenges can now set "required_on_client" "1" if they wish to include assets, which will cause the workshop addon to be automatically downloaded when the challenge is activated.
 		[*]Challenges can now be marked for use in deathmatch with "allowed_mode" "deathmatch". Challenges that are able to be used in both deathmatch and cooperative play can additionally specify "allowed_mode" "coop".
+		[*]Updated the weapon unlock notification to include a description. This screen is now also used for medals unlocked through gameplay.
 [/list]
 
 [h2]Criação de mapas[/h2]
@@ -189,7 +190,9 @@ Aqui estão alguns destaques das atualizações desde o aniversário anterior:
 [h2]VScript[/h2]
 [list]
 [*]Adicionado um novo método para fuzileiros: SetMarineRolls, que permite que mapas e desafios alterar se os fuzileiros podem pular.
+		[*]Added a new method to marines: SetNightVision, which can be used to enable night vision mode on a marine regardless of whether they have MNV34 Nightvision Goggles.
 [*]NPCs habitáveis (como fuzileiros) têm um novo método: SetControls, que substitui o valor de asw_controls para qualquer um jogando ou assistindo aquele personagem. Números negativos fazem com que o personagem use a configuração global.
+		[*]Added a new method to Inhabitable NPCs: SetGlow, which can be used to add glowing outlines to aliens and marines. This does not affect characters that would normally glow without a call to this function.
 [*]asw_vehicle_jeep tem métodos para substituir sua câmera, SetCameraControls, SetCameraPitch, SetCameraDist e SetCameraHeight, com métodos Get* correspondentes. Definir um valor negativo faz com que o veículo use a configuração global.
 [*]asw_vehicle_jeep possui métodos para consultar os ocupantes: MaxPassengers(), GetDriver() e GetPassenger(seat).
 [*]asw_vehicle_jeep tem métodos para recuperar estatísticas: GetSpeed, GetMaxSpeed (em milhas por hora), GetRPM, GetThrottle, HasBoost e BoostTimeLeft.

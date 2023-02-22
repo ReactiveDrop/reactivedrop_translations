@@ -139,6 +139,7 @@ Ecco alcuni momenti salienti dagli aggiornamenti precedenti allo scorso annivers
 [*]Aggiunta un'indicazione visibile e udibile per quando la Leadership influisce sui danni inflitti o subiti.
 [*]Le sfide ora possono impostare "required_on_client" "1" se desiderano includere le risorse, il che farà sì che l'addon del workshop venga scaricato automaticamente quando la sfida viene attivata.
 [*]Le sfide ora possono essere contrassegnate per l'uso in deathmatch con "allowed_mode" "deathmatch". Le sfide che possono essere utilizzate sia in deathmatch che in cooperativa possono specificare anche "allowed_mode" "coop".
+		[*]Updated the weapon unlock notification to include a description. This screen is now also used for medals unlocked through gameplay.
 [/list]
 
 [h2]Mapping[/h2]
@@ -188,6 +189,9 @@ Ecco alcuni momenti salienti dagli aggiornamenti precedenti allo scorso annivers
 [h2]VScript[/h2]
 [list]
 [*]Aggiunto un nuovo metodo ai soldati: SetMarineRolls, che consente alle mappe e alle sfide di modificare la possibilità di salto dei singoli soldati.
+		[*]Added a new method to marines: SetNightVision, which can be used to enable night vision mode on a marine regardless of whether they have MNV34 Nightvision Goggles.
+		[*]Inhabitable NPCs (such as marines) have a new method: SetControls, which overrides the value of asw_controls for anyone playing or spectating that character. Negative numbers cause the character to use the global setting.
+		[*]Added a new method to Inhabitable NPCs: SetGlow, which can be used to add glowing outlines to aliens and marines. This does not affect characters that would normally glow without a call to this function.
 [*]asw_vehicle_jeep ha metodi per sovrascrivere la telecamera, SetCameraControls, SetCameraPitch, SetCameraDist e SetCameraHeight, con i corrispondenti metodi Get*. L'impostazione di un valore negativo fa sì che il veicolo usi l'impostazione globale.
 [*]asw_vehicle_jeep ha metodi per interrogare gli occupanti: MaxPassengers(), GetDriver(), and GetPassenger(seat).
 [*]asw_vehicle_jeep ha metodi per recuperare statistiche: GetSpeed, GetMaxSpeed (in miglia orarie), GetRPM, GetThrottle, HasBoost e BoostTimeLeft.

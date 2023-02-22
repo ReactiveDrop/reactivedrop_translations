@@ -139,6 +139,7 @@ TODO
 [*]指揮能力スキルにより与・被ダメージが増減した際の視覚・音声表現を追加。
 [*]アセットを使用したいチャレンジに"required_on_client" "1"を設定できるようになった。これを使用するとチャレンジが有効になっている場合にワークショップから自動的にダウンロードされる。
 [*]デスマッチ用のチャレンジに"allowed_mode" "deathmatch"を設定できるようになった。デスマッチとCOOP両方で使用できるチャレンジには追加で"allowed_mode" "coop"を明記する。
+		[*]Updated the weapon unlock notification to include a description. This screen is now also used for medals unlocked through gameplay.
 [/list]
 
 [h2]マップ作成[/h2]
@@ -188,7 +189,9 @@ TODO
 [h2]VScript[/h2]
 [list]
 [*]海兵隊に新しいメソッドを追加: SetMarineRollsで、マップやチャレンジによって各海兵がそれぞれジャンプできるかどうかを設定できます。
+		[*]Added a new method to marines: SetNightVision, which can be used to enable night vision mode on a marine regardless of whether they have MNV34 Nightvision Goggles.
 [*]操作可能なNPC(海兵隊など)が新しいメソッドとしてSetControlsを持つようになった。これによりキャラクターを操作や観戦してるプレイヤー用にasw_controlsの値を上書きできる。負の値を設定するとキャラクターはグローバル設定を使用するようになる。
+		[*]Added a new method to Inhabitable NPCs: SetGlow, which can be used to add glowing outlines to aliens and marines. This does not affect characters that would normally glow without a call to this function.
 [*]asw_vehicle_jeepはカメラを上書きするメソッドとして、SetCameraControls, SetCameraPitch, SetCameraDist, SetCameraHeight, 及びそれぞれに対応するGet*を持つようになった。負の値を設定すると乗り物はグローバル設定を使用するようになる。
 [*]asw_vehicle_jeepが乗員についての情報を要求するメソッドとして、MaxPassengers(), GetDriver(), GetPassenger(seat)を持つようになった。
 [*]asw_vehicle_jeepが統計情報を取得するメソッドとして、GetSpeed, GetMaxSpeed (時速マイル表記), GetRPM, GetThrottle, HasBoost, BoostTimeLeftを持つようになった。

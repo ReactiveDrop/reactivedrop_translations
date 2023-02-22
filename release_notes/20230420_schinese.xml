@@ -139,6 +139,7 @@ TODO
 		[*]Added a visible and audible indication for when Leadership affects damage dealt or taken.
 		[*]Challenges can now set "required_on_client" "1" if they wish to include assets, which will cause the workshop addon to be automatically downloaded when the challenge is activated.
 		[*]Challenges can now be marked for use in deathmatch with "allowed_mode" "deathmatch". Challenges that are able to be used in both deathmatch and cooperative play can additionally specify "allowed_mode" "coop".
+		[*]Updated the weapon unlock notification to include a description. This screen is now also used for medals unlocked through gameplay.
 [/list]
 
 [h2]地图[/h2]
@@ -189,6 +190,9 @@ TODO
 [h2]VScript[/h2]
 [list]
 [*]为陆战队增加了一个新的方法:SetMarineRolls，它允许地图和挑战改变单个陆战队是否可以跳跃。
+		[*]Added a new method to marines: SetNightVision, which can be used to enable night vision mode on a marine regardless of whether they have MNV34 Nightvision Goggles.
+		[*]Inhabitable NPCs (such as marines) have a new method: SetControls, which overrides the value of asw_controls for anyone playing or spectating that character. Negative numbers cause the character to use the global setting.
+		[*]Added a new method to Inhabitable NPCs: SetGlow, which can be used to add glowing outlines to aliens and marines. This does not affect characters that would normally glow without a call to this function.
 [*]asw_vehicle_jeep有方法用相应的Get*方法覆盖它的camera, setcameracontrol, SetCameraPitch, SetCameraDist和SetCameraHeight。设置负值会使车辆使用全局设置。
 [*]asw_vehicle_jeep有一些方法可以查询车内人员:maxpassenger()、GetDriver()和GetPassenger(seat)。
 [*]asw_vehicle_jeep有方法来检索统计数据:GetSpeed, GetMaxSpeed（英里每小时），GetRPM, GetThrottle, HasBoost和BoostTimeLeft。
