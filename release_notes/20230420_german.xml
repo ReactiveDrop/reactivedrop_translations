@@ -139,6 +139,7 @@ Hier sind einige Highlights der Updates seit dem letzten Jahrestag:
 [*]Es wurde eine sichtbare und hörbare Anzeige hinzugefügt, die anzeigt, wann sich die Führung auf den zugefügten oder erlittenen Schaden auswirkt.
 [*]Herausforderungen können jetzt "required_on_client" auf "1" setzen, wenn sie Assets einschließen wollen, was dazu führt, dass das Workshop-Addon automatisch heruntergeladen wird, wenn die Herausforderung aktiviert wird.
 [*]Herausforderungen können jetzt für die Verwendung im Deathmatch mit "allowed_mode" "deathmatch" markiert werden. Herausforderungen, die sowohl im Deathmatch als auch im kooperativen Spiel verwendet werden können, können zusätzlich mit "allowed_mode" "coop" gekennzeichnet werden.
+		[*]Updated the weapon unlock notification to include a description. This screen is now also used for medals unlocked through gameplay.
 [/list]
 
 [h2]Mapping[/h2]
@@ -188,6 +189,9 @@ Hier sind einige Highlights der Updates seit dem letzten Jahrestag:
 [h2]VScript[/h2]
 [list]
 [*]Den Soldaten wurde eine neue Methode hinzugefügt: SetMarineRolls, mit der Karten und Herausforderungen ändern können, ob einzelne Soldaten springen können.
+		[*]Added a new method to marines: SetNightVision, which can be used to enable night vision mode on a marine regardless of whether they have MNV34 Nightvision Goggles.
+		[*]Inhabitable NPCs (such as marines) have a new method: SetControls, which overrides the value of asw_controls for anyone playing or spectating that character. Negative numbers cause the character to use the global setting.
+		[*]Added a new method to Inhabitable NPCs: SetGlow, which can be used to add glowing outlines to aliens and marines. This does not affect characters that would normally glow without a call to this function.
 [*]asw_vehicle_jeep hat Methoden zum Überschreiben seiner Kamera, SetCameraControls, SetCameraPitch, SetCameraDist und SetCameraHeight, mit entsprechenden Get*-Methoden. Wenn man einen negativen Wert einstellt, verwendet das Fahrzeug die globale Einstellung.
 [*]asw_vehicle_jeep hat Methoden zur Abfrage der Insassen: MaxPassengers(), GetDriver(), und GetPassenger(seat).
 [*]asw_vehicle_jeep hat Methoden zum Abrufen von Statistiken: GetSpeed, GetMaxSpeed (in Meilen pro Stunde), GetRPM, GetThrottle, HasBoost, und BoostTimeLeft.
