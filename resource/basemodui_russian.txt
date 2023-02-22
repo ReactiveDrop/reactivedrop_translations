@@ -1804,7 +1804,7 @@
 "[english]L4D360UI_Controller_Tooltip_Reload"		"Reload your weapon."
 "L4D360UI_Controller_Tooltip_Drop"		"Выбросить текущий предмет."
 "[english]L4D360UI_Controller_Tooltip_Drop"		"Drop the currently equipped item."
-"L4D360UI_Controller_Tooltip_LastInv"		"Переключиться между экипированным оружием и пистолетами."
+"L4D360UI_Controller_Tooltip_LastInv"		"Переключиться между текущим оружием и пистолетами."
 "[english]L4D360UI_Controller_Tooltip_LastInv"		"Swap between your primary weapon and pistols."
 "L4D360UI_Controller_Tooltip_Grenade"		"Выбрать в инвентаре бомбу или коктейль Молотова."
 "[english]L4D360UI_Controller_Tooltip_Grenade"		"Select the pipe bomb or Molotov in your inventory."
