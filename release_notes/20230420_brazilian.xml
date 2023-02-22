@@ -89,6 +89,7 @@ Aqui estão alguns destaques das atualizações desde o aniversário anterior:
 [h2]Campanhas[/h2]
 [list]
 [*][b]Área 9800: Wastelands:[/b] Corrigido um harvester ficando preso na saída durante a cena final de introdução da manopla.
+		[*][b]Tears for Tarnor: Oasis Colony Spaceport:[/b] Fixed train station announcements being too quiet to hear in some cases.
 [*][b]Tilarus-5: Arctic Infiltration:[/b] Corrigido uber drones aparecendo e desaparecendo logo após o início da missão.
 [*][b]Tilarus-5: SynTek Hospital:[/b] Volume do alarme aumentado.
 [*][b]Lana's Escape: Lana's Bridge:[/b] Otimizações de desempenho significativas para iluminação, renderização e localização de caminhos.
