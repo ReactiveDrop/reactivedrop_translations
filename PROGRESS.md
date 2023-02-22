@@ -8,10 +8,10 @@
 | [Dutch](#non-curated-languages) | 49 | 2001 | 10 | 2238 | 191 | 444 | 177 | 144 |
 | [Finnish](#non-curated-languages) | 49 | 2001 | 10 | 2238 | 191 | 444 | 177 | 144 |
 | [French](#french-français) | 25 | 126 | 10 | 1590 | 191 | 378 | 177 | 123 |
-| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | 3 | ✔️ | ✔️ | ✔️ | 1 |
+| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Hungarian](#non-curated-languages) | 49 | 126 | 10 | 2238 | 191 | 709 | 177 | 145 |
 | [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | 3 | ✔️ | ✔️ | ✔️ | 1 |
-| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | 22 | ✔️ | 35 | ✔️ | 2 |
+| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | 19 | ✔️ | 35 | ✔️ | ✔️ |
 | [Korean](#koreana-한국어) | 47 | 63 | 6 | 1103 | 43 | 272 | 177 | 50 |
 | [Norwegian Bokmål](#non-curated-languages) | 67 | 701 | 15 | 2958 | 191 | 444 | 177 | 145 |
 | [Polish](#polish-polski) | 26 | 2001 | 10 | 2238 | 191 | 444 | 177 | 145 |
@@ -716,13 +716,7 @@
 
 </summary>
 
-### Strings
-
-- [reactivedrop_german.txt](resource/reactivedrop_german.txt) has 3 untranslated strings.
-
-### Upcoming Release Notes
-
-- [20230420_german.xml](release_notes/20230420_german.xml) has 1 indented lines.
+✓ Up to date!
 
 </details>
 
@@ -751,15 +745,7 @@
 ### Strings
 
 - [vgui_japanese.txt](platform/vgui_japanese.txt) has 35 untranslated strings.
-- [reactivedrop_japanese.txt](resource/reactivedrop_japanese.txt) has 22 untranslated strings.
-
-### Upcoming Release Notes
-
-- [20230420_japanese.xml](release_notes/20230420_japanese.xml) has 1 indented lines.
-
-### Credits
-
-- [credits_acc32_official_japanese.txt](credits/credits_acc32_official_japanese.txt) has 1 indented lines.
+- [reactivedrop_japanese.txt](resource/reactivedrop_japanese.txt) has 19 untranslated strings.
 
 </details>
 
