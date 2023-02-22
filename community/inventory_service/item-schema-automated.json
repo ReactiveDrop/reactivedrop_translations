@@ -51,6 +51,7 @@
 			"tradable": false,
 			"marketable": false,
 			"tags": "rarity:uncommon;slot:medal",
+			"compressed_dynamic_props": "season;score;rank;alien_kills;player_kills;games_won;games_lost",
 			"item_slot": "medal"
 		},
 		{
@@ -103,6 +104,7 @@
 			"tradable": false,
 			"marketable": false,
 			"tags": "rarity:rare;slot:medal",
+			"compressed_dynamic_props": "season;score;rank;alien_kills;player_kills;games_won;games_lost",
 			"item_slot": "medal"
 		},
 		{
@@ -202,6 +204,7 @@
 			"tradable": false,
 			"marketable": false,
 			"tags": "rarity:rare;slot:medal",
+			"compressed_dynamic_props": "season;score;rank;alien_kills;player_kills;games_won;games_lost",
 			"item_slot": "medal"
 		},
 		{
@@ -254,6 +257,7 @@
 			"tradable": false,
 			"marketable": false,
 			"tags": "rarity:rare;slot:medal",
+			"compressed_dynamic_props": "season;score;rank;alien_kills;player_kills;games_won;games_lost",
 			"item_slot": "medal"
 		},
 		{
@@ -306,6 +310,7 @@
 			"tradable": false,
 			"marketable": false,
 			"tags": "rarity:rare;slot:medal",
+			"compressed_dynamic_props": "season;score;rank;alien_kills;player_kills;games_won;games_lost",
 			"item_slot": "medal"
 		},
 		{
@@ -398,6 +403,7 @@
 			"tradable": false,
 			"marketable": false,
 			"tags": "rarity:rare;slot:medal",
+			"compressed_dynamic_props": "season;score;rank;alien_kills;player_kills;games_won;games_lost",
 			"item_slot": "medal"
 		},
 		{
