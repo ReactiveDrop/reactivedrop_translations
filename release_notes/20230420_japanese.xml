@@ -88,7 +88,7 @@ TODO
 [h2]キャンペーン[/h2]
 [list]
 [*][b]Area 9800: Wastelands:[/b] 最後の襲撃の導入部でハーベスターが出口に詰まることがあったのを修正。
-		[*][b]Tears for Tarnor: Oasis Colony Spaceport:[/b] Fixed train station announcements being too quiet to hear in some cases.
+[*][b]Tears for Tarnor: Oasis Colony Spaceport:[/b] 駅のアナウンス音声が場合によっては聞こえない程小さくなっていたのを修正。
 [*][b]Tilarus-5: Arctic Infiltration:[/b] ミッションを開始してからしばらくウーバードローンが出たり消えたりしていたのを修正。
 [*][b]Tilarus-5: SynTek Hospital:[/b] 警報の音を大きくした。
 [*][b]Lana's Escape: Lana's Bridge:[/b] 照明、描画、経路探索の大幅なパフォーマンス最適化。
