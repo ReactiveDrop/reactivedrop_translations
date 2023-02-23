@@ -37,7 +37,7 @@
 "inventory_rarity_genuine"		"Genuíno"
 // real-money donation receipt items from the store.
 "[english]inventory_rarity_genuine"		"Genuine"
-"inventory_rarity_strange"		"Estranho"
+"inventory_rarity_strange_rarity"		"Estranho"
 // items that count stats.
 "[english]inventory_rarity_strange"		"Strange"
 "inventory_slot"		"Espaço"
