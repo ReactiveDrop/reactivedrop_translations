@@ -139,7 +139,7 @@ TODO
 [*]指揮能力スキルにより与・被ダメージが増減した際の視覚・音声表現を追加。
 [*]アセットを使用したいチャレンジに"required_on_client" "1"を設定できるようになった。これを使用するとチャレンジが有効になっている場合にワークショップから自動的にダウンロードされる。
 [*]デスマッチ用のチャレンジに"allowed_mode" "deathmatch"を設定できるようになった。デスマッチとCOOP両方で使用できるチャレンジには追加で"allowed_mode" "coop"を明記する。
-		[*]Updated the weapon unlock notification to include a description. This screen is now also used for medals unlocked through gameplay.
+[*]武器のアンロック通知に詳細が含まれるようになった。ゲームをプレイすることでアンロックされる勲章にもこの通知画面が使われるようになった。
 [/list]
 
 [h2]マップ作成[/h2]
