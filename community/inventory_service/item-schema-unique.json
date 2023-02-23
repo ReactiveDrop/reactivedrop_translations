@@ -90,6 +90,7 @@
 			"icon_url_small": "https://stats.reactivedrop.com/static/medals/ben_lubar_small.png",
 			"tradable": false,
 			"marketable": false,
+			"name_color": "563560",
 			"tags": "rarity:legendary;slot:medal",
 			"item_slot": "medal"
 		}
