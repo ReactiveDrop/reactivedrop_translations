@@ -189,9 +189,9 @@ TODO
 [h2]VScript[/h2]
 [list]
 [*]海兵隊に新しいメソッドを追加: SetMarineRollsで、マップやチャレンジによって各海兵がそれぞれジャンプできるかどうかを設定できます。
-		[*]Added a new method to marines: SetNightVision, which can be used to enable night vision mode on a marine regardless of whether they have MNV34 Nightvision Goggles.
+[*]海兵隊に新しいメソッドを追加: SetNightVisionを使用することで、MNV34を持っているかに関わらず海兵隊の暗視モードを有効にできます。
 [*]操作可能なNPC(海兵隊など)が新しいメソッドとしてSetControlsを持つようになった。これによりキャラクターを操作や観戦してるプレイヤー用にasw_controlsの値を上書きできる。負の値を設定するとキャラクターはグローバル設定を使用するようになる。
-		[*]Added a new method to Inhabitable NPCs: SetGlow, which can be used to add glowing outlines to aliens and marines. This does not affect characters that would normally glow without a call to this function.
+[*]操作可能なNPCに新しいメソッドを追加: SetGlowによりエイリアンや海兵隊に光る輪郭線を追加できます。この関数を呼び出さずとも普段から光っているキャラクターには影響しません。
 [*]asw_vehicle_jeepはカメラを上書きするメソッドとして、SetCameraControls, SetCameraPitch, SetCameraDist, SetCameraHeight, 及びそれぞれに対応するGet*を持つようになった。負の値を設定すると乗り物はグローバル設定を使用するようになる。
 [*]asw_vehicle_jeepが乗員についての情報を要求するメソッドとして、MaxPassengers(), GetDriver(), GetPassenger(seat)を持つようになった。
 [*]asw_vehicle_jeepが統計情報を取得するメソッドとして、GetSpeed, GetMaxSpeed (時速マイル表記), GetRPM, GetThrottle, HasBoost, BoostTimeLeftを持つようになった。
