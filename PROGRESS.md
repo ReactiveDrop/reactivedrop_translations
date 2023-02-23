@@ -11,7 +11,7 @@
 | [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 17 | 120 | 1 |
 | [Hungarian](#non-curated-languages) | 49 | 126 | 10 | 2238 | 191 | 725 | 304 | 145 |
 | [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 17 | 120 | 1 |
-| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | 19 | ✔️ | 52 | 120 | 1 |
+| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | 19 | ✔️ | 35 | 106 | 1 |
 | [Korean](#koreana-한국어) | 47 | 63 | 6 | 1103 | 43 | 288 | 298 | 50 |
 | [Norwegian Bokmål](#non-curated-languages) | 67 | 701 | 15 | 2958 | 191 | 460 | 347 | 145 |
 | [Polish](#polish-polski) | 26 | 2001 | 10 | 2238 | 191 | 460 | 304 | 145 |
@@ -1118,13 +1118,12 @@
 
 ### Strings
 
-- [inventory_service_tags_japanese.vdf](community/inventory_service/inventory_service_tags_japanese.vdf) has 17 untranslated strings.
 - [vgui_japanese.txt](platform/vgui_japanese.txt) has 35 untranslated strings.
 - [reactivedrop_japanese.txt](resource/reactivedrop_japanese.txt) has 19 untranslated strings.
 
 ### Upcoming Release Notes
 
-- [20230420_japanese.xml](release_notes/20230420_japanese.xml) has 3 indented lines.
+- [20230420_japanese.xml](release_notes/20230420_japanese.xml) has 1 indented lines.
 
 ### Inventory Schema</summary>
 
@@ -1181,13 +1180,6 @@
 - Item 3015 "MNV34 Nightvision Goggles" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_japanese`, `display_type_japanese`
 - Item 3016 "MTD6 Smart Bomb" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_japanese`, `display_type_japanese`
 - Item 3017 "TG-05 Gas Grenades" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_japanese`, `display_type_japanese`
-- Item 5000 "Missions" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_japanese`, `display_type_japanese`
-- Item 5001 "Successful Missions" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_japanese`, `display_type_japanese`
-- Item 5002 "Aliens Killed" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_japanese`, `display_type_japanese`
-- Item 5003 "Healing" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_japanese`, `display_type_japanese`
-- Item 5004 "Fast Hacks" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_japanese`, `display_type_japanese`
-- Item 5005 "Enemies Frozen" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_japanese`, `display_type_japanese`
-- Item 5006 "Allies Extinguished" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_japanese`, `display_type_japanese`
 
 </details>
 
