@@ -3,7 +3,8 @@
 "Language"		"english"
 "Tokens"
 {
-"inventory_name_format_1"		"Unique %ITEMNAME%"
+// used to transform item names on the Steam Community. shows for items that have attached accessories, like a strange weapon with at least one strange device attached.
+"inventory_name_format_1"		"%ITEMNAME% (Customized)"
 "inventory_name_format_2"		""
 "inventory_name_format_3"		""
 "inventory_name_format_4"		""
@@ -12,15 +13,45 @@
 "inventory_name_format_7"		""
 "inventory_name_format_8"		""
 "inventory_rarity"		"Rarity"
+// items that can be obtained by pretty much anyone.
 "inventory_rarity_common"		"Common"
+// items that take some effort to obtain.
 "inventory_rarity_uncommon"		"Uncommon"
+// items that are in limited supply, like medals for winning a recurring automated competition.
 "inventory_rarity_rare"		"Rare"
+// items that require doing something beyond just playing the game to obtain.
 "inventory_rarity_legendary"		"Legendary"
+// real-money donation receipt items from the store.
 "inventory_rarity_genuine"		"Genuine"
+// items that count stats.
 "inventory_rarity_strange"		"Strange"
+// where an item can be equipped.
 "inventory_slot"		"Slot"
 "inventory_slot_medal"		"Medal"
+"inventory_slot_suit"		"Suit"
+"inventory_slot_weapon"		"Weapon"
+"inventory_slot_equipment"		"Equipment"
+// for equippable items that can only be used on one class.
+"inventory_class_restriction"		"Class Restriction"
+"inventory_class_restriction_officer"		"Officer"
+"inventory_class_restriction_specialweapons"		"Special Weapons"
+"inventory_class_restriction_medic"		"Medic"
+"inventory_class_restriction_tech"		"Tech"
+"inventory_crafting_item"		"Crafting Item"
+"inventory_crafting_item_single_use_tool"		"Single-Use Tool"
+// common crafting materials. (100-1000 drop at a time)
+"inventory_crafting_item_ultra_common"		"Ultra-Common"
+// common crafting materials. (1-3 drop at a time)
+"inventory_crafting_item_common"		"Common"
+// uncommon crafting materials.
+"inventory_crafting_item_alien_part"		"Alien Part"
+// rare crafting materials.
+"inventory_crafting_item_computer_part"		"Computer Part"
+// crafting items that can be found by playing some campaigns but not others.
+"inventory_crafting_item_regional"		"Regional"
+// items that are essentially receipts for donating money to someone in the community. (for the forseeable future, all items on the store will be in this category)
 "item_store_category_donations"		"Donations"
+// "postage stamps" that cost $1 (or equivalent), with the proceeds going to a mapper.
 "item_store_category_mapstamp"		"Map Stamps"
 }
 }

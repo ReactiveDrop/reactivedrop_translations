@@ -1,0 +1,89 @@
+{
+	"appid": 563560,
+	"items": [
+		{
+			"itemdefid": 5000,
+			"type": "tag_tool",
+			"name_english": "Missions",
+			"display_type_english": "Strange Device",
+			"accessory_description_english": "Missions: %strange_5000%",
+			"icon_url": "https://stats.reactivedrop.com/static/medals/error.png",
+			"tradable": false,
+			"marketable": false,
+			"exchange": "4000,strange:5000",
+			"tags": "strange:5000"
+		},
+		{
+			"itemdefid": 5001,
+			"type": "tag_tool",
+			"name_english": "Successful Missions",
+			"display_type_english": "Strange Device",
+			"accessory_description_english": "Successful Missions: %strange_5001%",
+			"icon_url": "https://stats.reactivedrop.com/static/medals/error.png",
+			"tradable": false,
+			"marketable": false,
+			"exchange": "4000,strange:5001",
+			"tags": "strange:5001"
+		},
+		{
+			"itemdefid": 5002,
+			"type": "tag_tool",
+			"name_english": "Aliens Killed",
+			"display_type_english": "Strange Device",
+			"accessory_description_english": "Aliens Killed: %strange_5002%",
+			"icon_url": "https://stats.reactivedrop.com/static/medals/error.png",
+			"tradable": false,
+			"marketable": false,
+			"exchange": "4000,strange:5002",
+			"tags": "strange:5002"
+		},
+		{
+			"itemdefid": 5003,
+			"type": "tag_tool",
+			"name_english": "Healing",
+			"display_type_english": "Strange Device",
+			"accessory_description_english": "Healing: %strange_5003%",
+			"icon_url": "https://stats.reactivedrop.com/static/medals/error.png",
+			"tradable": false,
+			"marketable": false,
+			"exchange": "4000,strange:5003",
+			"tags": "strange:5003"
+		},
+		{
+			"itemdefid": 5004,
+			"type": "tag_tool",
+			"name_english": "Fast Hacks",
+			"display_type_english": "Strange Device",
+			"accessory_description_english": "Fast Hacks: %strange_5004%",
+			"icon_url": "https://stats.reactivedrop.com/static/medals/error.png",
+			"tradable": false,
+			"marketable": false,
+			"exchange": "4000,strange:5004",
+			"tags": "strange:5004"
+		},
+		{
+			"itemdefid": 5005,
+			"type": "tag_tool",
+			"name_english": "Enemies Frozen",
+			"display_type_english": "Strange Device",
+			"accessory_description_english": "Enemies Frozen: %strange_5005%",
+			"icon_url": "https://stats.reactivedrop.com/static/medals/error.png",
+			"tradable": false,
+			"marketable": false,
+			"exchange": "4000,strange:5005",
+			"tags": "strange:5005"
+		},
+		{
+			"itemdefid": 5006,
+			"type": "tag_tool",
+			"name_english": "Allies Extinguished",
+			"display_type_english": "Strange Device",
+			"accessory_description_english": "Allies Extinguished: %strange_5006%",
+			"icon_url": "https://stats.reactivedrop.com/static/medals/error.png",
+			"tradable": false,
+			"marketable": false,
+			"exchange": "4000,strange:5006",
+			"tags": "strange:5006"
+		}
+	]
+}
