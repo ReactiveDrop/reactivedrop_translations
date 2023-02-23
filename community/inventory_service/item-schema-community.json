@@ -40,6 +40,7 @@
 			"icon_url_small": "https://stats.reactivedrop.com/static/medals/community_translator_small.png",
 			"tradable": false,
 			"marketable": false,
+			"name_color": "70B04A",
 			"tags": "rarity:legendary;slot:medal",
 			"item_slot": "medal"
 		},
@@ -82,6 +83,7 @@
 			"icon_url_small": "https://stats.reactivedrop.com/static/medals/community_programmer_small.png",
 			"tradable": false,
 			"marketable": false,
+			"name_color": "70B04A",
 			"tags": "rarity:legendary;slot:medal",
 			"item_slot": "medal"
 		},
@@ -124,6 +126,7 @@
 			"icon_url_small": "https://stats.reactivedrop.com/static/medals/community_mapper_small.png",
 			"tradable": false,
 			"marketable": false,
+			"name_color": "70B04A",
 			"tags": "rarity:legendary;slot:medal",
 			"item_slot": "medal"
 		},
@@ -166,6 +169,7 @@
 			"icon_url_small": "https://stats.reactivedrop.com/static/medals/community_challenger_small.png",
 			"tradable": false,
 			"marketable": false,
+			"name_color": "70B04A",
 			"tags": "rarity:legendary;slot:medal",
 			"item_slot": "medal"
 		},
@@ -208,6 +212,7 @@
 			"icon_url_small": "https://stats.reactivedrop.com/static/medals/community_guide_small.png",
 			"tradable": false,
 			"marketable": false,
+			"name_color": "70B04A",
 			"tags": "rarity:legendary;slot:medal",
 			"item_slot": "medal"
 		},
@@ -250,6 +255,7 @@
 			"icon_url_small": "https://stats.reactivedrop.com/static/medals/community_artist_small.png",
 			"tradable": false,
 			"marketable": false,
+			"name_color": "70B04A",
 			"tags": "rarity:legendary;slot:medal",
 			"item_slot": "medal"
 		},
@@ -289,6 +295,7 @@
 			"icon_url_small": "https://stats.reactivedrop.com/static/medals/community_reporter_small.png",
 			"tradable": false,
 			"marketable": false,
+			"name_color": "70B04A",
 			"tags": "rarity:legendary;slot:medal",
 			"item_slot": "medal"
 		}

@@ -13,6 +13,7 @@
 			"icon_url": "https://stats.reactivedrop.com/static/medals/error.png",
 			"tradable": false,
 			"marketable": false,
+			"name_color": "CF6A32",
 			"exchange": "4000,strange:5000",
 			"tags": "strange:5000"
 		},
@@ -28,6 +29,7 @@
 			"icon_url": "https://stats.reactivedrop.com/static/medals/error.png",
 			"tradable": false,
 			"marketable": false,
+			"name_color": "CF6A32",
 			"exchange": "4000,strange:5001",
 			"tags": "strange:5001"
 		},
@@ -43,6 +45,7 @@
 			"icon_url": "https://stats.reactivedrop.com/static/medals/error.png",
 			"tradable": false,
 			"marketable": false,
+			"name_color": "CF6A32",
 			"exchange": "4000,strange:5002",
 			"tags": "strange:5002"
 		},
@@ -58,6 +61,7 @@
 			"icon_url": "https://stats.reactivedrop.com/static/medals/error.png",
 			"tradable": false,
 			"marketable": false,
+			"name_color": "CF6A32",
 			"exchange": "4000,strange:5003",
 			"tags": "strange:5003"
 		},
@@ -73,6 +77,7 @@
 			"icon_url": "https://stats.reactivedrop.com/static/medals/error.png",
 			"tradable": false,
 			"marketable": false,
+			"name_color": "CF6A32",
 			"exchange": "4000,strange:5004",
 			"tags": "strange:5004"
 		},
@@ -88,6 +93,7 @@
 			"icon_url": "https://stats.reactivedrop.com/static/medals/error.png",
 			"tradable": false,
 			"marketable": false,
+			"name_color": "CF6A32",
 			"exchange": "4000,strange:5005",
 			"tags": "strange:5005"
 		},
@@ -103,6 +109,7 @@
 			"icon_url": "https://stats.reactivedrop.com/static/medals/error.png",
 			"tradable": false,
 			"marketable": false,
+			"name_color": "CF6A32",
 			"exchange": "4000,strange:5006",
 			"tags": "strange:5006"
 		}

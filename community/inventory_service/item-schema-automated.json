@@ -50,6 +50,7 @@
 			"icon_url_small": "https://stats.reactivedrop.com/static/medals/hoiaf_participant_small.png",
 			"tradable": false,
 			"marketable": false,
+			"name_color": "FFD700",
 			"tags": "rarity:uncommon;slot:medal",
 			"compressed_dynamic_props": "season;score;rank;alien_kills;player_kills;games_won;games_lost",
 			"item_slot": "medal"
@@ -103,6 +104,7 @@
 			"icon_url_small": "https://stats.reactivedrop.com/static/medals/hoiaf_elite_green_small.png",
 			"tradable": false,
 			"marketable": false,
+			"name_color": "FFD700",
 			"tags": "rarity:rare;slot:medal",
 			"compressed_dynamic_props": "season;score;rank;alien_kills;player_kills;games_won;games_lost",
 			"item_slot": "medal"
@@ -150,6 +152,7 @@
 			"icon_url_small": "https://stats.reactivedrop.com/static/medals/trick_hat_small.png",
 			"tradable": false,
 			"marketable": false,
+			"name_color": "38F3AB",
 			"tags": "rarity:common;slot:medal",
 			"promo": "ach:TF_COMPLETE_TRAINING/440",
 			"item_slot": "medal"
@@ -203,6 +206,7 @@
 			"icon_url_small": "https://stats.reactivedrop.com/static/medals/hoiaf_elite_red_small.png",
 			"tradable": false,
 			"marketable": false,
+			"name_color": "FFD700",
 			"tags": "rarity:rare;slot:medal",
 			"compressed_dynamic_props": "season;score;rank;alien_kills;player_kills;games_won;games_lost",
 			"item_slot": "medal"
@@ -256,6 +260,7 @@
 			"icon_url_small": "https://stats.reactivedrop.com/static/medals/hoiaf_elite_yellow_small.png",
 			"tradable": false,
 			"marketable": false,
+			"name_color": "FFD700",
 			"tags": "rarity:rare;slot:medal",
 			"compressed_dynamic_props": "season;score;rank;alien_kills;player_kills;games_won;games_lost",
 			"item_slot": "medal"
@@ -309,6 +314,7 @@
 			"icon_url_small": "https://stats.reactivedrop.com/static/medals/hoiaf_elite_blue_small.png",
 			"tradable": false,
 			"marketable": false,
+			"name_color": "FFD700",
 			"tags": "rarity:rare;slot:medal",
 			"compressed_dynamic_props": "season;score;rank;alien_kills;player_kills;games_won;games_lost",
 			"item_slot": "medal"
@@ -348,6 +354,7 @@
 			"icon_url_small": "https://stats.reactivedrop.com/static/medals/community_beta_small.png",
 			"tradable": false,
 			"marketable": false,
+			"name_color": "FF00FF",
 			"tags": "rarity:common;slot:medal",
 			"promo": "manual",
 			"granted_manually": true,
@@ -402,6 +409,7 @@
 			"icon_url_small": "https://stats.reactivedrop.com/static/medals/hoiaf_elite_top20_small.png",
 			"tradable": false,
 			"marketable": false,
+			"name_color": "FFD700",
 			"tags": "rarity:rare;slot:medal",
 			"compressed_dynamic_props": "season;score;rank;alien_kills;player_kills;games_won;games_lost",
 			"item_slot": "medal"
@@ -832,6 +840,7 @@
 			"icon_url_small": "https://stats.reactivedrop.com/static/medals/danger_toilet_small.png",
 			"tradable": false,
 			"marketable": false,
+			"name_color": "38F3AB",
 			"tags": "rarity:uncommon;slot:medal",
 			"promo": "manual",
 			"granted_manually": true,
