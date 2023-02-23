@@ -8,7 +8,7 @@
 | [Dutch](#non-curated-languages) | 49 | 2001 | 10 | 2238 | 191 | 460 | 304 | 144 |
 | [Finnish](#non-curated-languages) | 49 | 2001 | 10 | 2238 | 191 | 460 | 304 | 144 |
 | [French](#french-français) | 25 | 126 | 10 | 1590 | 191 | 394 | 298 | 123 |
-| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 17 | 120 | 1 |
+| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 120 | ✔️ |
 | [Hungarian](#non-curated-languages) | 49 | 126 | 10 | 2238 | 191 | 725 | 304 | 145 |
 | [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 17 | 120 | 1 |
 | [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | 19 | ✔️ | 35 | 106 | 1 |
@@ -957,14 +957,6 @@
 ## german (Deutsch)
 
 </summary>
-
-### Strings
-
-- [inventory_service_tags_german.vdf](community/inventory_service/inventory_service_tags_german.vdf) has 17 untranslated strings.
-
-### Upcoming Release Notes
-
-- [20230420_german.xml](release_notes/20230420_german.xml) has 4 indented lines.
 
 ### Inventory Schema</summary>
 
