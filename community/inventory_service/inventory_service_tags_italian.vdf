@@ -81,6 +81,9 @@
 		"inventory_crafting_item_regional"		"Regional"
 		// crafting items that can be found by playing some campaigns but not others.
 		"[english]inventory_crafting_item_regional"		"Regional"
+		"inventory_strange"		"Strange Devices"
+		// displayed before the list of Strange item accessories, eg. Strange Devices: Missions, Aliens Killed
+		"[english]inventory_strange"		"Strange Devices"
 "item_store_category_donations"		"Donazioni"
 // items that are essentially receipts for donating money to someone in the community. (for the forseeable future, all items on the store will be in this category)
 "[english]item_store_category_donations"		"Donations"
