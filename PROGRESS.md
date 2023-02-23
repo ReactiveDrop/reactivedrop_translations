@@ -11,7 +11,7 @@
 | [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 120 | ✔️ |
 | [Hungarian](#non-curated-languages) | 49 | 126 | 10 | 2238 | 191 | 725 | 304 | 145 |
 | [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 17 | 120 | 1 |
-| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | 19 | ✔️ | 35 | 106 | 1 |
+| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | 19 | ✔️ | 35 | 98 | ✔️ |
 | [Korean](#koreana-한국어) | 47 | 63 | 6 | 1103 | 43 | 288 | 298 | 50 |
 | [Norwegian Bokmål](#non-curated-languages) | 67 | 701 | 15 | 2958 | 191 | 460 | 347 | 145 |
 | [Polish](#polish-polski) | 26 | 2001 | 10 | 2238 | 191 | 460 | 304 | 145 |
@@ -1113,20 +1113,16 @@
 - [vgui_japanese.txt](platform/vgui_japanese.txt) has 35 untranslated strings.
 - [reactivedrop_japanese.txt](resource/reactivedrop_japanese.txt) has 19 untranslated strings.
 
-### Upcoming Release Notes
-
-- [20230420_japanese.xml](release_notes/20230420_japanese.xml) has 1 indented lines.
-
 ### Inventory Schema</summary>
 
-- Item 1000 "Sarge's Suit" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_japanese`, `display_type_japanese`
-- Item 1001 "Wildcat's Suit" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_japanese`, `display_type_japanese`
-- Item 1002 "Faith's Suit" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_japanese`, `display_type_japanese`
-- Item 1003 "Crash's Suit" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_japanese`, `display_type_japanese`
-- Item 1004 "Jaeger's Suit" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_japanese`, `display_type_japanese`
-- Item 1005 "Wolfe's Suit" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_japanese`, `display_type_japanese`
-- Item 1006 "Bastille's Suit" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_japanese`, `display_type_japanese`
-- Item 1007 "Vegas's Suit" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_japanese`, `display_type_japanese`
+- Item 1000 "Sarge's Suit" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_japanese`
+- Item 1001 "Wildcat's Suit" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_japanese`
+- Item 1002 "Faith's Suit" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_japanese`
+- Item 1003 "Crash's Suit" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_japanese`
+- Item 1004 "Jaeger's Suit" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_japanese`
+- Item 1005 "Wolfe's Suit" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_japanese`
+- Item 1006 "Bastille's Suit" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_japanese`
+- Item 1007 "Vegas's Suit" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_japanese`
 - Item 2000 "22A3-1 Assault Rifle" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_japanese`, `display_type_japanese`
 - Item 2001 "22A7-Z Prototype Assault Rifle" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_japanese`, `display_type_japanese`
 - Item 2002 "S23A SynTek Autogun" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_japanese`, `display_type_japanese`
