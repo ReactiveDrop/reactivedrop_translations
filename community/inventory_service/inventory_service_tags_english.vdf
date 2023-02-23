@@ -24,7 +24,7 @@
 // real-money donation receipt items from the store.
 "inventory_rarity_genuine"		"Genuine"
 // items that count stats.
-"inventory_rarity_strange"		"Strange"
+"inventory_rarity_strange_rarity"		"Strange"
 // where an item can be equipped.
 "inventory_slot"		"Slot"
 "inventory_slot_medal"		"Medal"

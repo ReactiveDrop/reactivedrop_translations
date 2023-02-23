@@ -37,9 +37,9 @@
 "inventory_rarity_genuine"		"纪实"
 // real-money donation receipt items from the store.
 "[english]inventory_rarity_genuine"		"Genuine"
-"inventory_rarity_strange"		"奇异"
+"inventory_rarity_strange_rarity"		"奇异"
 // items that count stats.
-"[english]inventory_rarity_strange"		"Strange"
+"[english]inventory_rarity_strange_rarity"		"Strange"
 "inventory_slot"		"插槽"
 // where an item can be equipped.
 "[english]inventory_slot"		"Slot"
