@@ -34,7 +34,7 @@
 			"tradable": false,
 			"marketable": false,
 			"auto_stack": true,
-			"tags": "rarity:common;crafting_item:common",
+			"tags": "rarity:common;crafting_item:common_part",
 			"compressed_dynamic_props": "m_unQuantity"
 		},
 		{
@@ -47,7 +47,7 @@
 			"tradable": false,
 			"marketable": false,
 			"auto_stack": true,
-			"tags": "rarity:common;crafting_item:common",
+			"tags": "rarity:common;crafting_item:common_part",
 			"compressed_dynamic_props": "m_unQuantity"
 		},
 		{
@@ -60,7 +60,7 @@
 			"tradable": false,
 			"marketable": false,
 			"auto_stack": true,
-			"tags": "rarity:common;crafting_item:common",
+			"tags": "rarity:common;crafting_item:common_part",
 			"compressed_dynamic_props": "m_unQuantity"
 		},
 		{
@@ -73,7 +73,7 @@
 			"tradable": false,
 			"marketable": false,
 			"auto_stack": true,
-			"tags": "rarity:common;crafting_item:common",
+			"tags": "rarity:common;crafting_item:common_part",
 			"compressed_dynamic_props": "m_unQuantity"
 		},
 		{
@@ -86,7 +86,7 @@
 			"tradable": false,
 			"marketable": false,
 			"auto_stack": true,
-			"tags": "rarity:common;crafting_item:common",
+			"tags": "rarity:common;crafting_item:common_part",
 			"compressed_dynamic_props": "m_unQuantity"
 		},
 		{
@@ -99,7 +99,7 @@
 			"tradable": false,
 			"marketable": false,
 			"auto_stack": true,
-			"tags": "rarity:common;crafting_item:common",
+			"tags": "rarity:common;crafting_item:common_part",
 			"compressed_dynamic_props": "m_unQuantity"
 		},
 		{
@@ -112,7 +112,7 @@
 			"tradable": false,
 			"marketable": false,
 			"auto_stack": true,
-			"tags": "rarity:common;crafting_item:common",
+			"tags": "rarity:common;crafting_item:common_part",
 			"compressed_dynamic_props": "m_unQuantity"
 		},
 		{

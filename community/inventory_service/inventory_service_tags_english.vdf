@@ -42,7 +42,7 @@
 // common crafting materials. (100-1000 drop at a time)
 "inventory_crafting_item_ultra_common"		"Ultra-Common"
 // common crafting materials. (1-3 drop at a time)
-"inventory_crafting_item_common"		"Common"
+"inventory_crafting_item_common_part"		"Common"
 // uncommon crafting materials.
 "inventory_crafting_item_alien_part"		"Alien Part"
 // rare crafting materials.
