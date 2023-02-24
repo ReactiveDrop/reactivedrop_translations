@@ -10,7 +10,7 @@
 | [French](#french-français) | 25 | 126 | 10 | 1590 | 191 | 394 | 298 | 123 |
 | [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 120 | ✔️ |
 | [Hungarian](#non-curated-languages) | 49 | 126 | 10 | 2238 | 191 | 725 | 304 | 145 |
-| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 17 | 120 | 1 |
+| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 67 | ✔️ |
 | [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | 19 | ✔️ | 35 | 98 | ✔️ |
 | [Korean](#koreana-한국어) | 47 | 63 | 6 | 1103 | 43 | 288 | 298 | 50 |
 | [Norwegian Bokmål](#non-curated-languages) | 67 | 701 | 15 | 2958 | 191 | 460 | 347 | 145 |
@@ -1029,69 +1029,61 @@
 
 </summary>
 
-### Strings
-
-- [inventory_service_tags_italian.vdf](community/inventory_service/inventory_service_tags_italian.vdf) has 17 untranslated strings.
-
-### Upcoming Release Notes
-
-- [20230420_italian.xml](release_notes/20230420_italian.xml) has 4 indented lines.
-
 ### Inventory Schema</summary>
 
-- Item 1000 "Sarge's Suit" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_italian`, `display_type_italian`
-- Item 1001 "Wildcat's Suit" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_italian`, `display_type_italian`
-- Item 1002 "Faith's Suit" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_italian`, `display_type_italian`
-- Item 1003 "Crash's Suit" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_italian`, `display_type_italian`
-- Item 1004 "Jaeger's Suit" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_italian`, `display_type_italian`
-- Item 1005 "Wolfe's Suit" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_italian`, `display_type_italian`
-- Item 1006 "Bastille's Suit" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_italian`, `display_type_italian`
-- Item 1007 "Vegas's Suit" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_italian`, `display_type_italian`
-- Item 2000 "22A3-1 Assault Rifle" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_italian`, `display_type_italian`
-- Item 2001 "22A7-Z Prototype Assault Rifle" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_italian`, `display_type_italian`
-- Item 2002 "S23A SynTek Autogun" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_italian`, `display_type_italian`
-- Item 2003 "M42 Vindicator" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_italian`, `display_type_italian`
-- Item 2004 "M73 Twin Pistols" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_italian`, `display_type_italian`
-- Item 2005 "IAF Advanced Sentry Gun" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_italian`, `display_type_italian`
-- Item 2006 "IAF Heal Beacon" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_italian`, `display_type_italian`
-- Item 2007 "IAF Ammo Satchel" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_italian`, `display_type_italian`
-- Item 2008 "Model 35 Pump-action Shotgun" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_italian`, `display_type_italian`
-- Item 2009 "IAF Tesla Cannon" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_italian`, `display_type_italian`
-- Item 2010 "Precision Rail Rifle" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_italian`, `display_type_italian`
-- Item 2011 "IAF Medical Gun" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_italian`, `display_type_italian`
-- Item 2012 "K80 Personal Defense Weapon" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_italian`, `display_type_italian`
-- Item 2013 "M868 Flamer Unit" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_italian`, `display_type_italian`
-- Item 2014 "IAF Freeze Sentry Gun" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_italian`, `display_type_italian`
-- Item 2015 "IAF Minigun" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_italian`, `display_type_italian`
-- Item 2016 "AVK-36 Marksman Rifle" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_italian`, `display_type_italian`
-- Item 2017 "IAF Incendiary Sentry Gun" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_italian`, `display_type_italian`
-- Item 2018 "Chainsaw" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_italian`, `display_type_italian`
-- Item 2019 "IAF High Velocity Sentry Cannon" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_italian`, `display_type_italian`
-- Item 2020 "Grenade Launcher" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_italian`, `display_type_italian`
-- Item 2021 "PS50 Bulldog" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_italian`, `display_type_italian`
-- Item 2022 "IAF HAS42 Devastator" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_italian`, `display_type_italian`
-- Item 2023 "22A4-2 Combat Rifle" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_italian`, `display_type_italian`
-- Item 2024 "IAF Medical Amplifier Gun" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_italian`, `display_type_italian`
-- Item 2025 "22A5 Heavy Assault Rifle" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_italian`, `display_type_italian`
-- Item 2026 "IAF Medical SMG" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_italian`, `display_type_italian`
-- Item 3000 "IAF Personal Healing Kit" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_italian`, `display_type_italian`
-- Item 3001 "Hand Welder" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_italian`, `display_type_italian`
-- Item 3002 "SM75 Combat Flares" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_italian`, `display_type_italian`
-- Item 3003 "ML30 Laser Trip Mine" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_italian`, `display_type_italian`
-- Item 3004 "l3a Tactical Heavy Armor" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_italian`, `display_type_italian`
-- Item 3005 "X33 Damage Amplifier" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_italian`, `display_type_italian`
-- Item 3006 "Hornet Barrage" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_italian`, `display_type_italian`
-- Item 3007 "CR18 Freeze Grenades" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_italian`, `display_type_italian`
-- Item 3008 "Adrenaline" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_italian`, `display_type_italian`
-- Item 3009 "IAF Tesla Sentry Coil" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_italian`, `display_type_italian`
-- Item 3010 "v45 Electric Charged Armor" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_italian`, `display_type_italian`
-- Item 3011 "M478 Proximity Incendiary Mines" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_italian`, `display_type_italian`
-- Item 3012 "Flashlight Attachment" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_italian`, `display_type_italian`
-- Item 3013 "IAF Power Fist Attachment" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_italian`, `display_type_italian`
-- Item 3014 "FG01 Hand Grenades" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_italian`, `display_type_italian`
-- Item 3015 "MNV34 Nightvision Goggles" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_italian`, `display_type_italian`
-- Item 3016 "MTD6 Smart Bomb" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_italian`, `display_type_italian`
-- Item 3017 "TG-05 Gas Grenades" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_italian`, `display_type_italian`
+- Item 1000 "Sarge's Suit" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_italian`
+- Item 1001 "Wildcat's Suit" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_italian`
+- Item 1002 "Faith's Suit" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_italian`
+- Item 1003 "Crash's Suit" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_italian`
+- Item 1004 "Jaeger's Suit" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_italian`
+- Item 1005 "Wolfe's Suit" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_italian`
+- Item 1006 "Bastille's Suit" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_italian`
+- Item 1007 "Vegas's Suit" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_italian`
+- Item 2000 "22A3-1 Assault Rifle" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_italian`
+- Item 2001 "22A7-Z Prototype Assault Rifle" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_italian`
+- Item 2002 "S23A SynTek Autogun" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_italian`
+- Item 2003 "M42 Vindicator" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_italian`
+- Item 2004 "M73 Twin Pistols" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_italian`
+- Item 2005 "IAF Advanced Sentry Gun" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_italian`
+- Item 2006 "IAF Heal Beacon" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_italian`
+- Item 2007 "IAF Ammo Satchel" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_italian`
+- Item 2008 "Model 35 Pump-action Shotgun" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_italian`
+- Item 2009 "IAF Tesla Cannon" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_italian`
+- Item 2010 "Precision Rail Rifle" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_italian`
+- Item 2011 "IAF Medical Gun" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_italian`
+- Item 2012 "K80 Personal Defense Weapon" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_italian`
+- Item 2013 "M868 Flamer Unit" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_italian`
+- Item 2014 "IAF Freeze Sentry Gun" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_italian`
+- Item 2015 "IAF Minigun" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_italian`
+- Item 2016 "AVK-36 Marksman Rifle" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_italian`
+- Item 2017 "IAF Incendiary Sentry Gun" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_italian`
+- Item 2018 "Chainsaw" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_italian`
+- Item 2019 "IAF High Velocity Sentry Cannon" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_italian`
+- Item 2020 "Grenade Launcher" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_italian`
+- Item 2021 "PS50 Bulldog" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_italian`
+- Item 2022 "IAF HAS42 Devastator" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_italian`
+- Item 2023 "22A4-2 Combat Rifle" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_italian`
+- Item 2024 "IAF Medical Amplifier Gun" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_italian`
+- Item 2025 "22A5 Heavy Assault Rifle" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_italian`
+- Item 2026 "IAF Medical SMG" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_italian`
+- Item 3000 "IAF Personal Healing Kit" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_italian`
+- Item 3001 "Hand Welder" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_italian`
+- Item 3002 "SM75 Combat Flares" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_italian`
+- Item 3003 "ML30 Laser Trip Mine" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_italian`
+- Item 3004 "l3a Tactical Heavy Armor" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_italian`
+- Item 3005 "X33 Damage Amplifier" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_italian`
+- Item 3006 "Hornet Barrage" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_italian`
+- Item 3007 "CR18 Freeze Grenades" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_italian`
+- Item 3008 "Adrenaline" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_italian`
+- Item 3009 "IAF Tesla Sentry Coil" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_italian`
+- Item 3010 "v45 Electric Charged Armor" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_italian`
+- Item 3011 "M478 Proximity Incendiary Mines" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_italian`
+- Item 3012 "Flashlight Attachment" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_italian`
+- Item 3013 "IAF Power Fist Attachment" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_italian`
+- Item 3014 "FG01 Hand Grenades" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_italian`
+- Item 3015 "MNV34 Nightvision Goggles" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_italian`
+- Item 3016 "MTD6 Smart Bomb" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_italian`
+- Item 3017 "TG-05 Gas Grenades" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_italian`
 - Item 5000 "Missions" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_italian`, `display_type_italian`
 - Item 5001 "Successful Missions" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_italian`, `display_type_italian`
 - Item 5002 "Aliens Killed" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_italian`, `display_type_italian`
