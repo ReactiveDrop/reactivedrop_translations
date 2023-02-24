@@ -36,7 +36,7 @@
 			"name_color": "CF6A32",
 			"tags": "rarity:strange_rarity;slot:suit;class_restriction:officer",
 			"accessory_tag": "strange",
-			"allowed_tags_from_tools": "strange:5000;strange:5001;strange:5002",
+			"allowed_tags_from_tools": "strange:5000;strange:5001;strange:5002;strange:5007",
 			"exchange": "4001",
 			"item_slot": "marine0"
 		},
@@ -73,7 +73,7 @@
 			"name_color": "CF6A32",
 			"tags": "rarity:strange_rarity;slot:suit;class_restriction:specialweapons",
 			"accessory_tag": "strange",
-			"allowed_tags_from_tools": "strange:5000;strange:5001;strange:5002",
+			"allowed_tags_from_tools": "strange:5000;strange:5001;strange:5002;strange:5007",
 			"exchange": "4001",
 			"item_slot": "marine1"
 		},
@@ -111,7 +111,7 @@
 			"name_color": "CF6A32",
 			"tags": "rarity:strange_rarity;slot:suit;class_restriction:medic",
 			"accessory_tag": "strange",
-			"allowed_tags_from_tools": "strange:5000;strange:5001;strange:5002;strange:5003",
+			"allowed_tags_from_tools": "strange:5000;strange:5001;strange:5002;strange:5003;strange:5007;strange:5008",
 			"exchange": "4001",
 			"item_slot": "marine2"
 		},
@@ -148,7 +148,7 @@
 			"name_color": "CF6A32",
 			"tags": "rarity:strange_rarity;slot:suit;class_restriction:tech",
 			"accessory_tag": "strange",
-			"allowed_tags_from_tools": "strange:5000;strange:5001;strange:5002;strange:5004",
+			"allowed_tags_from_tools": "strange:5000;strange:5001;strange:5002;strange:5004;strange:5007",
 			"exchange": "4001",
 			"item_slot": "marine3"
 		},
@@ -186,7 +186,7 @@
 			"name_color": "CF6A32",
 			"tags": "rarity:strange_rarity;slot:suit;class_restriction:officer",
 			"accessory_tag": "strange",
-			"allowed_tags_from_tools": "strange:5000;strange:5001;strange:5002",
+			"allowed_tags_from_tools": "strange:5000;strange:5001;strange:5002;strange:5007",
 			"exchange": "4001",
 			"item_slot": "marine4"
 		},
@@ -223,7 +223,7 @@
 			"name_color": "CF6A32",
 			"tags": "rarity:strange_rarity;slot:suit;class_restriction:specialweapons",
 			"accessory_tag": "strange",
-			"allowed_tags_from_tools": "strange:5000;strange:5001;strange:5002",
+			"allowed_tags_from_tools": "strange:5000;strange:5001;strange:5002;strange:5007",
 			"exchange": "4001",
 			"item_slot": "marine5"
 		},
@@ -260,7 +260,7 @@
 			"name_color": "CF6A32",
 			"tags": "rarity:strange_rarity;slot:suit;class_restriction:medic",
 			"accessory_tag": "strange",
-			"allowed_tags_from_tools": "strange:5000;strange:5001;strange:5002;strange:5003",
+			"allowed_tags_from_tools": "strange:5000;strange:5001;strange:5002;strange:5003;strange:5007;strange:5008",
 			"exchange": "4001",
 			"item_slot": "marine6"
 		},
@@ -297,7 +297,7 @@
 			"name_color": "CF6A32",
 			"tags": "rarity:strange_rarity;slot:suit;class_restriction:tech",
 			"accessory_tag": "strange",
-			"allowed_tags_from_tools": "strange:5000;strange:5001;strange:5002;strange:5004",
+			"allowed_tags_from_tools": "strange:5000;strange:5001;strange:5002;strange:5004;strange:5007",
 			"exchange": "4001",
 			"item_slot": "marine7"
 		},
@@ -354,7 +354,7 @@
 			"name_color": "CF6A32",
 			"tags": "rarity:strange_rarity;slot:weapon",
 			"accessory_tag": "strange",
-			"allowed_tags_from_tools": "strange:5000;strange:5002",
+			"allowed_tags_from_tools": "strange:5000;strange:5002;strange:5007",
 			"exchange": "4001",
 			"item_slot": "weapon0"
 		},
@@ -409,7 +409,7 @@
 			"name_color": "CF6A32",
 			"tags": "rarity:strange_rarity;slot:weapon;class_restriction:tech",
 			"accessory_tag": "strange",
-			"allowed_tags_from_tools": "strange:5000;strange:5002",
+			"allowed_tags_from_tools": "strange:5000;strange:5002;strange:5007",
 			"exchange": "4001",
 			"item_slot": "weapon1"
 		},
@@ -464,7 +464,7 @@
 			"name_color": "CF6A32",
 			"tags": "rarity:strange_rarity;slot:weapon;class_restriction:specialweapons",
 			"accessory_tag": "strange",
-			"allowed_tags_from_tools": "strange:5000;strange:5002",
+			"allowed_tags_from_tools": "strange:5000;strange:5002;strange:5007",
 			"exchange": "4001",
 			"item_slot": "weapon2"
 		},
@@ -520,7 +520,7 @@
 			"name_color": "CF6A32",
 			"tags": "rarity:strange_rarity;slot:weapon;class_restriction:officer",
 			"accessory_tag": "strange",
-			"allowed_tags_from_tools": "strange:5000;strange:5002",
+			"allowed_tags_from_tools": "strange:5000;strange:5002;strange:5007",
 			"exchange": "4001",
 			"item_slot": "weapon3"
 		},
@@ -575,7 +575,7 @@
 			"name_color": "CF6A32",
 			"tags": "rarity:strange_rarity;slot:weapon",
 			"accessory_tag": "strange",
-			"allowed_tags_from_tools": "strange:5000;strange:5002",
+			"allowed_tags_from_tools": "strange:5000;strange:5002;strange:5007",
 			"exchange": "4001",
 			"item_slot": "weapon4"
 		},
@@ -684,7 +684,7 @@
 			"name_color": "CF6A32",
 			"tags": "rarity:strange_rarity;slot:weapon;class_restriction:medic",
 			"accessory_tag": "strange",
-			"allowed_tags_from_tools": "strange:5000;strange:5003;strange:5006",
+			"allowed_tags_from_tools": "strange:5000;strange:5003;strange:5006;strange:5008",
 			"exchange": "4001",
 			"item_slot": "weapon6"
 		},
@@ -794,7 +794,7 @@
 			"name_color": "CF6A32",
 			"tags": "rarity:strange_rarity;slot:weapon",
 			"accessory_tag": "strange",
-			"allowed_tags_from_tools": "strange:5000;strange:5002",
+			"allowed_tags_from_tools": "strange:5000;strange:5002;strange:5007",
 			"exchange": "4001",
 			"item_slot": "weapon8"
 		},
@@ -849,7 +849,7 @@
 			"name_color": "CF6A32",
 			"tags": "rarity:strange_rarity;slot:weapon",
 			"accessory_tag": "strange",
-			"allowed_tags_from_tools": "strange:5000;strange:5002",
+			"allowed_tags_from_tools": "strange:5000;strange:5002;strange:5007",
 			"exchange": "4001",
 			"item_slot": "weapon9"
 		},
@@ -903,7 +903,7 @@
 			"name_color": "CF6A32",
 			"tags": "rarity:strange_rarity;slot:weapon",
 			"accessory_tag": "strange",
-			"allowed_tags_from_tools": "strange:5000;strange:5002",
+			"allowed_tags_from_tools": "strange:5000;strange:5002;strange:5007",
 			"exchange": "4001",
 			"item_slot": "weapon10"
 		},
@@ -958,7 +958,7 @@
 			"name_color": "CF6A32",
 			"tags": "rarity:strange_rarity;slot:weapon;class_restriction:medic",
 			"accessory_tag": "strange",
-			"allowed_tags_from_tools": "strange:5000;strange:5003;strange:5006",
+			"allowed_tags_from_tools": "strange:5000;strange:5003;strange:5006;strange:5008",
 			"exchange": "4001",
 			"item_slot": "weapon11"
 		},
@@ -1014,7 +1014,7 @@
 			"name_color": "CF6A32",
 			"tags": "rarity:strange_rarity;slot:weapon",
 			"accessory_tag": "strange",
-			"allowed_tags_from_tools": "strange:5000;strange:5002",
+			"allowed_tags_from_tools": "strange:5000;strange:5002;strange:5007",
 			"exchange": "4001",
 			"item_slot": "weapon12"
 		},
@@ -1069,7 +1069,7 @@
 			"name_color": "CF6A32",
 			"tags": "rarity:strange_rarity;slot:weapon",
 			"accessory_tag": "strange",
-			"allowed_tags_from_tools": "strange:5000;strange:5002;strange:5006",
+			"allowed_tags_from_tools": "strange:5000;strange:5002;strange:5006;strange:5007",
 			"exchange": "4001",
 			"item_slot": "weapon13"
 		},
@@ -1181,7 +1181,7 @@
 			"name_color": "CF6A32",
 			"tags": "rarity:strange_rarity;slot:weapon;class_restriction:specialweapons",
 			"accessory_tag": "strange",
-			"allowed_tags_from_tools": "strange:5000;strange:5002",
+			"allowed_tags_from_tools": "strange:5000;strange:5002;strange:5007",
 			"exchange": "4001",
 			"item_slot": "weapon15"
 		},
@@ -1236,7 +1236,7 @@
 			"name_color": "CF6A32",
 			"tags": "rarity:strange_rarity;slot:weapon",
 			"accessory_tag": "strange",
-			"allowed_tags_from_tools": "strange:5000;strange:5002",
+			"allowed_tags_from_tools": "strange:5000;strange:5002;strange:5007",
 			"exchange": "4001",
 			"item_slot": "weapon16"
 		},
@@ -1350,7 +1350,7 @@
 			"name_color": "CF6A32",
 			"tags": "rarity:strange_rarity;slot:weapon",
 			"accessory_tag": "strange",
-			"allowed_tags_from_tools": "strange:5000;strange:5002",
+			"allowed_tags_from_tools": "strange:5000;strange:5002;strange:5007",
 			"exchange": "4001",
 			"item_slot": "weapon18"
 		},
@@ -1462,7 +1462,7 @@
 			"name_color": "CF6A32",
 			"tags": "rarity:strange_rarity;slot:weapon",
 			"accessory_tag": "strange",
-			"allowed_tags_from_tools": "strange:5000;strange:5002",
+			"allowed_tags_from_tools": "strange:5000;strange:5002;strange:5007",
 			"exchange": "4001",
 			"item_slot": "weapon20"
 		},
@@ -1492,7 +1492,7 @@
 			"name_color": "CF6A32",
 			"tags": "rarity:strange_rarity;slot:weapon",
 			"accessory_tag": "strange",
-			"allowed_tags_from_tools": "strange:5000;strange:5002",
+			"allowed_tags_from_tools": "strange:5000;strange:5002;strange:5007",
 			"exchange": "4001",
 			"item_slot": "weapon21"
 		},
@@ -1530,7 +1530,7 @@
 			"name_color": "CF6A32",
 			"tags": "rarity:strange_rarity;slot:weapon;class_restriction:specialweapons",
 			"accessory_tag": "strange",
-			"allowed_tags_from_tools": "strange:5000;strange:5002",
+			"allowed_tags_from_tools": "strange:5000;strange:5002;strange:5007",
 			"exchange": "4001",
 			"item_slot": "weapon22"
 		},
@@ -1569,7 +1569,7 @@
 			"name_color": "CF6A32",
 			"tags": "rarity:strange_rarity;slot:weapon",
 			"accessory_tag": "strange",
-			"allowed_tags_from_tools": "strange:5000;strange:5002",
+			"allowed_tags_from_tools": "strange:5000;strange:5002;strange:5007",
 			"exchange": "4001",
 			"item_slot": "weapon23"
 		},
@@ -1608,7 +1608,7 @@
 			"name_color": "CF6A32",
 			"tags": "rarity:strange_rarity;slot:weapon;class_restriction:medic",
 			"accessory_tag": "strange",
-			"allowed_tags_from_tools": "strange:5000;strange:5003;strange:5006",
+			"allowed_tags_from_tools": "strange:5000;strange:5003;strange:5006;strange:5008",
 			"exchange": "4001",
 			"item_slot": "weapon24"
 		},
@@ -1644,7 +1644,7 @@
 			"name_color": "CF6A32",
 			"tags": "rarity:strange_rarity;slot:weapon",
 			"accessory_tag": "strange",
-			"allowed_tags_from_tools": "strange:5000;strange:5002",
+			"allowed_tags_from_tools": "strange:5000;strange:5002;strange:5007",
 			"exchange": "4001",
 			"item_slot": "weapon25"
 		},
@@ -1681,7 +1681,7 @@
 			"name_color": "CF6A32",
 			"tags": "rarity:strange_rarity;slot:weapon;class_restriction:medic",
 			"accessory_tag": "strange",
-			"allowed_tags_from_tools": "strange:5000;strange:5002;strange:5003;strange:5006",
+			"allowed_tags_from_tools": "strange:5000;strange:5002;strange:5003;strange:5006;strange:5007;strange:5008",
 			"exchange": "4001",
 			"item_slot": "weapon26"
 		},
@@ -1737,7 +1737,7 @@
 			"name_color": "CF6A32",
 			"tags": "rarity:strange_rarity;slot:equipment",
 			"accessory_tag": "strange",
-			"allowed_tags_from_tools": "strange:5000;strange:5003;strange:5006",
+			"allowed_tags_from_tools": "strange:5000;strange:5003;strange:5006;strange:5008",
 			"exchange": "4001",
 			"item_slot": "extra0"
 		},
@@ -1905,7 +1905,7 @@
 			"name_color": "CF6A32",
 			"tags": "rarity:strange_rarity;slot:equipment",
 			"accessory_tag": "strange",
-			"allowed_tags_from_tools": "strange:5000;strange:5002",
+			"allowed_tags_from_tools": "strange:5000;strange:5002;strange:5007",
 			"exchange": "4001",
 			"item_slot": "extra3"
 		},
@@ -2070,7 +2070,7 @@
 			"name_color": "CF6A32",
 			"tags": "rarity:strange_rarity;slot:equipment",
 			"accessory_tag": "strange",
-			"allowed_tags_from_tools": "strange:5000;strange:5002",
+			"allowed_tags_from_tools": "strange:5000;strange:5002;strange:5007",
 			"exchange": "4001",
 			"item_slot": "extra6"
 		},
@@ -2282,7 +2282,7 @@
 			"name_color": "CF6A32",
 			"tags": "rarity:strange_rarity;slot:equipment",
 			"accessory_tag": "strange",
-			"allowed_tags_from_tools": "strange:5000",
+			"allowed_tags_from_tools": "strange:5000;strange:5008",
 			"exchange": "4001",
 			"item_slot": "extra10"
 		},
@@ -2336,7 +2336,7 @@
 			"name_color": "CF6A32",
 			"tags": "rarity:strange_rarity;slot:equipment;class_restriction:officer",
 			"accessory_tag": "strange",
-			"allowed_tags_from_tools": "strange:5000;strange:5002",
+			"allowed_tags_from_tools": "strange:5000;strange:5002;strange:5007",
 			"exchange": "4001",
 			"item_slot": "extra11"
 		},
@@ -2444,7 +2444,7 @@
 			"name_color": "CF6A32",
 			"tags": "rarity:strange_rarity;slot:equipment",
 			"accessory_tag": "strange",
-			"allowed_tags_from_tools": "strange:5000;strange:5002",
+			"allowed_tags_from_tools": "strange:5000;strange:5002;strange:5007",
 			"exchange": "4001",
 			"item_slot": "extra13"
 		},
@@ -2488,7 +2488,7 @@
 			"name_color": "CF6A32",
 			"tags": "rarity:strange_rarity;slot:equipment",
 			"accessory_tag": "strange",
-			"allowed_tags_from_tools": "strange:5000;strange:5002",
+			"allowed_tags_from_tools": "strange:5000;strange:5002;strange:5007",
 			"exchange": "4001",
 			"item_slot": "extra14"
 		},
@@ -2599,7 +2599,7 @@
 			"name_color": "CF6A32",
 			"tags": "rarity:strange_rarity;slot:equipment",
 			"accessory_tag": "strange",
-			"allowed_tags_from_tools": "strange:5000;strange:5002",
+			"allowed_tags_from_tools": "strange:5000;strange:5002;strange:5007",
 			"exchange": "4001",
 			"item_slot": "extra16"
 		},
@@ -2636,7 +2636,7 @@
 			"name_color": "CF6A32",
 			"tags": "rarity:strange_rarity;slot:equipment;class_restriction:medic",
 			"accessory_tag": "strange",
-			"allowed_tags_from_tools": "strange:5000;strange:5002",
+			"allowed_tags_from_tools": "strange:5000;strange:5002;strange:5007",
 			"exchange": "4001",
 			"item_slot": "extra17"
 		}

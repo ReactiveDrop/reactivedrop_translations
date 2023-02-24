@@ -21,7 +21,8 @@
 			"marketable": false,
 			"name_color": "CF6A32",
 			"exchange": "4000,strange:5000",
-			"tags": "strange:5000"
+			"tags": "strange:5000",
+			"compressed_dynamic_props": "strange_5000"
 		},
 		{
 			"itemdefid": 5001,
@@ -43,7 +44,8 @@
 			"marketable": false,
 			"name_color": "CF6A32",
 			"exchange": "4000,strange:5001",
-			"tags": "strange:5001"
+			"tags": "strange:5001",
+			"compressed_dynamic_props": "strange_5001"
 		},
 		{
 			"itemdefid": 5002,
@@ -65,7 +67,8 @@
 			"marketable": false,
 			"name_color": "CF6A32",
 			"exchange": "4000,strange:5002",
-			"tags": "strange:5002"
+			"tags": "strange:5002",
+			"compressed_dynamic_props": "strange_5002"
 		},
 		{
 			"itemdefid": 5003,
@@ -87,7 +90,8 @@
 			"marketable": false,
 			"name_color": "CF6A32",
 			"exchange": "4000,strange:5003",
-			"tags": "strange:5003"
+			"tags": "strange:5003",
+			"compressed_dynamic_props": "strange_5003"
 		},
 		{
 			"itemdefid": 5004,
@@ -109,7 +113,8 @@
 			"marketable": false,
 			"name_color": "CF6A32",
 			"exchange": "4000,strange:5004",
-			"tags": "strange:5004"
+			"tags": "strange:5004",
+			"compressed_dynamic_props": "strange_5004"
 		},
 		{
 			"itemdefid": 5005,
@@ -131,7 +136,8 @@
 			"marketable": false,
 			"name_color": "CF6A32",
 			"exchange": "4000,strange:5005",
-			"tags": "strange:5005"
+			"tags": "strange:5005",
+			"compressed_dynamic_props": "strange_5005"
 		},
 		{
 			"itemdefid": 5006,
@@ -153,7 +159,42 @@
 			"marketable": false,
 			"name_color": "CF6A32",
 			"exchange": "4000,strange:5006",
-			"tags": "strange:5006"
+			"tags": "strange:5006",
+			"compressed_dynamic_props": "strange_5006"
+		},
+		{
+			"itemdefid": 5007,
+			"type": "tag_tool",
+			"name_english": "Alien Kill Streak",
+			"display_type_english": "Strange Device",
+			"display_type_german": "Seltsames Gerät",
+			"display_type_italian": "Strano dispositivo",
+			"display_type_japanese": "ストレンジ装置",
+			"accessory_description_english": "Alien Kill Streak: %strange_5007% (Best: %strange_5007_best%)",
+			"icon_url": "https://stats.reactivedrop.com/static/medals/error.png",
+			"tradable": false,
+			"marketable": false,
+			"name_color": "CF6A32",
+			"exchange": "4000,strange:5007",
+			"tags": "strange:5007",
+			"compressed_dynamic_props": "strange_5007;strange_5007_best"
+		},
+		{
+			"itemdefid": 5008,
+			"type": "tag_tool",
+			"name_english": "Infestations Cured",
+			"display_type_english": "Strange Device",
+			"display_type_german": "Seltsames Gerät",
+			"display_type_italian": "Strano dispositivo",
+			"display_type_japanese": "ストレンジ装置",
+			"accessory_description_english": "Infestations Cured: %strange_5008%",
+			"icon_url": "https://stats.reactivedrop.com/static/medals/error.png",
+			"tradable": false,
+			"marketable": false,
+			"name_color": "CF6A32",
+			"exchange": "4000,strange:5008",
+			"tags": "strange:5008",
+			"compressed_dynamic_props": "strange_5008"
 		}
 	]
 }
