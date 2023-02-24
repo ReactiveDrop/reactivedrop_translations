@@ -443,6 +443,7 @@
 			"icon_url_small": "https://stats.reactivedrop.com/static/medals/outstanding/jacob_small.png",
 			"tradable": false,
 			"marketable": false,
+			"name_color": "B0C3D9",
 			"tags": "rarity:common;slot:medal",
 			"promo_": "ach:ASW_CAMPAIGN_NO_DEATHS",
 			"item_slot": "medal"
@@ -476,6 +477,7 @@
 			"icon_url_small": "https://stats.reactivedrop.com/static/medals/outstanding/area9800_small.png",
 			"tradable": false,
 			"marketable": false,
+			"name_color": "B0C3D9",
 			"tags": "rarity:common;slot:medal",
 			"promo_": "ach:RD_CAMPAIGN_NO_DEATHS_AREA9800",
 			"item_slot": "medal"
@@ -509,6 +511,7 @@
 			"icon_url_small": "https://stats.reactivedrop.com/static/medals/outstanding/cleansweep_small.png",
 			"tradable": false,
 			"marketable": false,
+			"name_color": "B0C3D9",
 			"tags": "rarity:common;slot:medal",
 			"promo_": "ach:RD_CAMPAIGN_NO_DEATHS_OCS",
 			"item_slot": "medal"
@@ -542,6 +545,7 @@
 			"icon_url_small": "https://stats.reactivedrop.com/static/medals/outstanding/lana_small.png",
 			"tradable": false,
 			"marketable": false,
+			"name_color": "B0C3D9",
 			"tags": "rarity:common;slot:medal",
 			"promo_": "ach:RD_CAMPAIGN_NO_DEATHS_LAN",
 			"item_slot": "medal"
@@ -575,6 +579,7 @@
 			"icon_url_small": "https://stats.reactivedrop.com/static/medals/outstanding/paranoia_small.png",
 			"tradable": false,
 			"marketable": false,
+			"name_color": "B0C3D9",
 			"tags": "rarity:common;slot:medal",
 			"promo_": "ach:RD_CAMPAIGN_NO_DEATHS_PAR",
 			"item_slot": "medal"
@@ -608,6 +613,7 @@
 			"icon_url_small": "https://stats.reactivedrop.com/static/medals/outstanding/research7_small.png",
 			"tradable": false,
 			"marketable": false,
+			"name_color": "B0C3D9",
 			"tags": "rarity:common;slot:medal",
 			"promo_": "ach:RD_CAMPAIGN_NO_DEATHS_RES",
 			"item_slot": "medal"
@@ -641,6 +647,7 @@
 			"icon_url_small": "https://stats.reactivedrop.com/static/medals/outstanding/tarnor_small.png",
 			"tradable": false,
 			"marketable": false,
+			"name_color": "B0C3D9",
 			"tags": "rarity:common;slot:medal",
 			"promo_": "ach:RD_CAMPAIGN_NO_DEATHS_TFT",
 			"item_slot": "medal"
@@ -674,6 +681,7 @@
 			"icon_url_small": "https://stats.reactivedrop.com/static/medals/outstanding/tilarus_small.png",
 			"tradable": false,
 			"marketable": false,
+			"name_color": "B0C3D9",
 			"tags": "rarity:common;slot:medal",
 			"promo_": "ach:RD_CAMPAIGN_NO_DEATHS_TIL",
 			"item_slot": "medal"
@@ -707,6 +715,7 @@
 			"icon_url_small": "https://stats.reactivedrop.com/static/medals/outstanding/biogen_small.png",
 			"tradable": false,
 			"marketable": false,
+			"name_color": "B0C3D9",
 			"tags": "rarity:common;slot:medal",
 			"promo_": "ach:RD_CAMPAIGN_NO_DEATHS_BIO",
 			"item_slot": "medal"
@@ -740,6 +749,7 @@
 			"icon_url_small": "https://stats.reactivedrop.com/static/medals/outstanding/namhumanum_small.png",
 			"tradable": false,
 			"marketable": false,
+			"name_color": "B0C3D9",
 			"tags": "rarity:common;slot:medal",
 			"promo_": "ach:RD_CAMPAIGN_NO_DEATHS_NH",
 			"item_slot": "medal"
@@ -773,6 +783,7 @@
 			"icon_url_small": "https://stats.reactivedrop.com/static/medals/outstanding/accident32_small.png",
 			"tradable": false,
 			"marketable": false,
+			"name_color": "B0C3D9",
 			"tags": "rarity:common;slot:medal",
 			"promo_": "ach:RD_CAMPAIGN_NO_DEATHS_ACC",
 			"item_slot": "medal"
@@ -806,6 +817,7 @@
 			"icon_url_small": "https://stats.reactivedrop.com/static/medals/error.png",
 			"tradable": false,
 			"marketable": false,
+			"name_color": "B0C3D9",
 			"tags": "rarity:common;slot:medal",
 			"promo_": "ach:RD_CAMPAIGN_NO_DEATHS_ADA",
 			"item_slot": "medal"
