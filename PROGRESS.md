@@ -1,30 +1,30 @@
 # Overview
 | Language | basemodui | closecaption | gameui | reactivedrop | statsweb | Strings | Inventory | Files |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [Simplified Chinese](#schinese-简体中文) | ✔️ | 2 | ✔️ | 124 | ✔️ | 17 | 114 | 3 |
-| [Traditional Chinese](#tchinese-繁體中文) | 7 | 128 | 1 | 2119 | 191 | 75 | 266 | 144 |
-| [Czech](#czech-čeština) | 69 | 1804 | 10 | 3262 | 191 | 730 | 336 | 144 |
-| [Danish](#non-curated-languages) | 50 | 219 | 10 | 2783 | 191 | 460 | 331 | 145 |
-| [Dutch](#non-curated-languages) | 49 | 2001 | 10 | 2238 | 191 | 460 | 268 | 144 |
-| [Finnish](#non-curated-languages) | 49 | 2001 | 10 | 2238 | 191 | 460 | 268 | 144 |
-| [French](#french-français) | 25 | 126 | 10 | 1590 | 191 | 394 | 254 | 123 |
-| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 1 | ✔️ |
-| [Hungarian](#non-curated-languages) | 49 | 126 | 10 | 2238 | 191 | 725 | 268 | 145 |
-| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
-| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | 19 | ✔️ | 35 | 53 | ✔️ |
-| [Korean](#koreana-한국어) | 47 | 63 | 6 | 1103 | 43 | 288 | 254 | 50 |
-| [Norwegian Bokmål](#non-curated-languages) | 67 | 701 | 15 | 2958 | 191 | 460 | 337 | 145 |
-| [Polish](#polish-polski) | 26 | 2001 | 10 | 2238 | 191 | 460 | 268 | 145 |
-| [European Portuguese](#portuguese-português-europeu) | ✔️ | 168 | ✔️ | 1428 | 18 | 388 | 273 | 137 |
-| [Brazilian Portuguese](#brazilian-português) | ✔️ | 2001 | ✔️ | 484 | ✔️ | 17 | 116 | 3 |
-| [Romanian](#non-curated-languages) | 49 | 1993 | 16 | 2963 | 191 | 725 | 314 | 145 |
-| [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 17 | 75 | 2 |
-| [European Spanish](#spanish-español-de-españa) | 26 | 2001 | 8 | 1642 | 191 | 464 | 264 | 144 |
-| [Swedish](#non-curated-languages) | 49 | 2001 | 10 | 2238 | 191 | 460 | 268 | 145 |
-| [Thai](#non-curated-languages) | 964 | 1990 | 18 | 3513 | 191 | 489 | 347 | 145 |
-| [Turkish](#non-curated-languages) | 49 | 125 | 10 | 2238 | 191 | 725 | 268 | 145 |
-| [Ukrainian](#ukrainian-українська) | 25 | 119 | 9 | 1770 | 191 | 725 | 261 | 145 |
-| [Vietnamese](#vietnamese-tiếng-việt) | 1279 | 2001 | 605 | 3777 | 191 | 676 | 350 | 132 |
+| [Simplified Chinese](#schinese-简体中文) | ✔️ | 2 | ✔️ | 124 | ✔️ | 17 | 118 | 3 |
+| [Traditional Chinese](#tchinese-繁體中文) | 7 | 128 | 1 | 2119 | 191 | 75 | 270 | 144 |
+| [Czech](#czech-čeština) | 69 | 1804 | 10 | 3262 | 191 | 730 | 340 | 144 |
+| [Danish](#non-curated-languages) | 50 | 219 | 10 | 2783 | 191 | 460 | 335 | 145 |
+| [Dutch](#non-curated-languages) | 49 | 2001 | 10 | 2238 | 191 | 460 | 272 | 144 |
+| [Finnish](#non-curated-languages) | 49 | 2001 | 10 | 2238 | 191 | 460 | 272 | 144 |
+| [French](#french-français) | 25 | 126 | 10 | 1590 | 191 | 394 | 258 | 123 |
+| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 3 | ✔️ |
+| [Hungarian](#non-curated-languages) | 49 | 126 | 10 | 2238 | 191 | 725 | 272 | 145 |
+| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 2 | ✔️ |
+| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | 19 | ✔️ | 35 | 55 | ✔️ |
+| [Korean](#koreana-한국어) | 47 | 63 | 6 | 1103 | 43 | 288 | 258 | 50 |
+| [Norwegian Bokmål](#non-curated-languages) | 67 | 701 | 15 | 2958 | 191 | 460 | 341 | 145 |
+| [Polish](#polish-polski) | 26 | 2001 | 10 | 2238 | 191 | 460 | 272 | 145 |
+| [European Portuguese](#portuguese-português-europeu) | ✔️ | 168 | ✔️ | 1428 | 18 | 388 | 277 | 137 |
+| [Brazilian Portuguese](#brazilian-português) | ✔️ | 2001 | ✔️ | 484 | ✔️ | 17 | 120 | 3 |
+| [Romanian](#non-curated-languages) | 49 | 1993 | 16 | 2963 | 191 | 725 | 318 | 145 |
+| [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 17 | 79 | 2 |
+| [European Spanish](#spanish-español-de-españa) | 26 | 2001 | 8 | 1642 | 191 | 464 | 268 | 144 |
+| [Swedish](#non-curated-languages) | 49 | 2001 | 10 | 2238 | 191 | 460 | 272 | 145 |
+| [Thai](#non-curated-languages) | 964 | 1990 | 18 | 3513 | 191 | 489 | 351 | 145 |
+| [Turkish](#non-curated-languages) | 49 | 125 | 10 | 2238 | 191 | 725 | 272 | 145 |
+| [Ukrainian](#ukrainian-українська) | 25 | 119 | 9 | 1770 | 191 | 725 | 265 | 145 |
+| [Vietnamese](#vietnamese-tiếng-việt) | 1279 | 2001 | 605 | 3777 | 191 | 676 | 354 | 132 |
 ### Legend
 - ***Non-capitalized column headers*** are the most important specific files and their number of missing strings. All of these txt-files are located in the resources folder. Except statsweb, which lies in community/stats_website, it's an vdf-file.
 - ***Strings*** is the number of missing strings not included in one of the files which get an individual non-capitalized column.
@@ -132,6 +132,8 @@
 - Item 5004 "Fast Hacks" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_schinese`, `display_type_schinese`
 - Item 5005 "Enemies Frozen" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_schinese`, `display_type_schinese`
 - Item 5006 "Allies Extinguished" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_schinese`, `display_type_schinese`
+- Item 5007 "Alien Kill Streak" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_schinese`, `display_type_schinese`
+- Item 5008 "Infestations Cured" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_schinese`, `display_type_schinese`
 
 </details>
 
@@ -408,6 +410,8 @@
 - Item 5004 "Fast Hacks" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_tchinese`, `display_type_tchinese`
 - Item 5005 "Enemies Frozen" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_tchinese`, `display_type_tchinese`
 - Item 5006 "Allies Extinguished" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_tchinese`, `display_type_tchinese`
+- Item 5007 "Alien Kill Streak" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_tchinese`, `display_type_tchinese`
+- Item 5008 "Infestations Cured" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_tchinese`, `display_type_tchinese`
 - Item 900000000 "Ben Lubar" in [item-schema-unique.json](community/inventory_service/item-schema-unique.json) is missing `name_tchinese`, `briefing_name_tchinese`
 
 </details>
@@ -689,6 +693,8 @@
 - Item 5004 "Fast Hacks" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_czech`, `display_type_czech`
 - Item 5005 "Enemies Frozen" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_czech`, `display_type_czech`
 - Item 5006 "Allies Extinguished" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_czech`, `display_type_czech`
+- Item 5007 "Alien Kill Streak" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_czech`, `display_type_czech`
+- Item 5008 "Infestations Cured" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_czech`, `display_type_czech`
 - Item 900000000 "Ben Lubar" in [item-schema-unique.json](community/inventory_service/item-schema-unique.json) is missing `name_czech`, `briefing_name_czech`
 
 </details>
@@ -948,6 +954,8 @@
 - Item 5004 "Fast Hacks" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_french`, `display_type_french`
 - Item 5005 "Enemies Frozen" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_french`, `display_type_french`
 - Item 5006 "Allies Extinguished" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_french`, `display_type_french`
+- Item 5007 "Alien Kill Streak" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_french`, `display_type_french`
+- Item 5008 "Infestations Cured" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_french`, `display_type_french`
 - Item 900000000 "Ben Lubar" in [item-schema-unique.json](community/inventory_service/item-schema-unique.json) is missing `name_french`, `briefing_name_french`
 
 </details>
@@ -961,6 +969,8 @@
 ### Inventory Schema</summary>
 
 - Item 3012 "Flashlight Attachment" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_german`
+- Item 5007 "Alien Kill Streak" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_german`
+- Item 5008 "Infestations Cured" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_german`
 
 </details>
 
@@ -970,7 +980,10 @@
 
 </summary>
 
-✓ Up to date!
+### Inventory Schema</summary>
+
+- Item 5007 "Alien Kill Streak" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_italian`
+- Item 5008 "Infestations Cured" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_italian`
 
 </details>
 
@@ -1040,6 +1053,8 @@
 - Item 3015 "MNV34 Nightvision Goggles" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_japanese`
 - Item 3016 "MTD6 Smart Bomb" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_japanese`
 - Item 3017 "TG-05 Gas Grenades" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_japanese`
+- Item 5007 "Alien Kill Streak" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_japanese`
+- Item 5008 "Infestations Cured" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_japanese`
 
 </details>
 
@@ -1225,6 +1240,8 @@
 - Item 5004 "Fast Hacks" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_koreana`, `display_type_koreana`
 - Item 5005 "Enemies Frozen" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_koreana`, `display_type_koreana`
 - Item 5006 "Allies Extinguished" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_koreana`, `display_type_koreana`
+- Item 5007 "Alien Kill Streak" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_koreana`, `display_type_koreana`
+- Item 5008 "Infestations Cured" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_koreana`, `display_type_koreana`
 - Item 900000000 "Ben Lubar" in [item-schema-unique.json](community/inventory_service/item-schema-unique.json) is missing `name_koreana`, `briefing_name_koreana`
 
 </details>
@@ -1507,6 +1524,8 @@
 - Item 5004 "Fast Hacks" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_polish`, `display_type_polish`
 - Item 5005 "Enemies Frozen" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_polish`, `display_type_polish`
 - Item 5006 "Allies Extinguished" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_polish`, `display_type_polish`
+- Item 5007 "Alien Kill Streak" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_polish`, `display_type_polish`
+- Item 5008 "Infestations Cured" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_polish`, `display_type_polish`
 - Item 900000000 "Ben Lubar" in [item-schema-unique.json](community/inventory_service/item-schema-unique.json) is missing `name_polish`, `briefing_name_polish`
 
 </details>
@@ -1770,6 +1789,8 @@
 - Item 5004 "Fast Hacks" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_portuguese`, `display_type_portuguese`
 - Item 5005 "Enemies Frozen" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_portuguese`, `display_type_portuguese`
 - Item 5006 "Allies Extinguished" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_portuguese`, `display_type_portuguese`
+- Item 5007 "Alien Kill Streak" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_portuguese`, `display_type_portuguese`
+- Item 5008 "Infestations Cured" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_portuguese`, `display_type_portuguese`
 
 </details>
 
@@ -1872,6 +1893,8 @@
 - Item 5004 "Fast Hacks" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_brazilian`, `display_type_brazilian`
 - Item 5005 "Enemies Frozen" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_brazilian`, `display_type_brazilian`
 - Item 5006 "Allies Extinguished" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_brazilian`, `display_type_brazilian`
+- Item 5007 "Alien Kill Streak" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_brazilian`, `display_type_brazilian`
+- Item 5008 "Infestations Cured" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_brazilian`, `display_type_brazilian`
 
 </details>
 
@@ -1955,6 +1978,8 @@
 - Item 5004 "Fast Hacks" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_russian`, `display_type_russian`
 - Item 5005 "Enemies Frozen" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_russian`, `display_type_russian`
 - Item 5006 "Allies Extinguished" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_russian`, `display_type_russian`
+- Item 5007 "Alien Kill Streak" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_russian`, `display_type_russian`
+- Item 5008 "Infestations Cured" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_russian`, `display_type_russian`
 
 </details>
 
@@ -2234,6 +2259,8 @@
 - Item 5004 "Fast Hacks" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_spanish`, `display_type_spanish`
 - Item 5005 "Enemies Frozen" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_spanish`, `display_type_spanish`
 - Item 5006 "Allies Extinguished" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_spanish`, `display_type_spanish`
+- Item 5007 "Alien Kill Streak" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_spanish`, `display_type_spanish`
+- Item 5008 "Infestations Cured" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_spanish`, `display_type_spanish`
 - Item 900000000 "Ben Lubar" in [item-schema-unique.json](community/inventory_service/item-schema-unique.json) is missing `name_spanish`, `briefing_name_spanish`
 
 </details>
@@ -2516,6 +2543,8 @@
 - Item 5004 "Fast Hacks" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_ukrainian`, `display_type_ukrainian`
 - Item 5005 "Enemies Frozen" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_ukrainian`, `display_type_ukrainian`
 - Item 5006 "Allies Extinguished" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_ukrainian`, `display_type_ukrainian`
+- Item 5007 "Alien Kill Streak" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_ukrainian`, `display_type_ukrainian`
+- Item 5008 "Infestations Cured" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_ukrainian`, `display_type_ukrainian`
 
 </details>
 
@@ -2784,6 +2813,8 @@
 - Item 5004 "Fast Hacks" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_vietnamese`, `display_type_vietnamese`
 - Item 5005 "Enemies Frozen" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_vietnamese`, `display_type_vietnamese`
 - Item 5006 "Allies Extinguished" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_vietnamese`, `display_type_vietnamese`
+- Item 5007 "Alien Kill Streak" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_vietnamese`, `display_type_vietnamese`
+- Item 5008 "Infestations Cured" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_vietnamese`, `display_type_vietnamese`
 - Item 900000000 "Ben Lubar" in [item-schema-unique.json](community/inventory_service/item-schema-unique.json) is missing `name_vietnamese`, `briefing_name_vietnamese`
 
 </details>
