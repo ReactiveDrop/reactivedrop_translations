@@ -3,9 +3,9 @@
 "Language"		"italian"
 "Tokens"
 {
-		"inventory_name_format_1"		"%ITEMNAME% (Customized)"
-		// used to transform item names on the Steam Community. shows for items that have attached accessories, like a strange weapon with at least one strange device attached.
-		"[english]inventory_name_format_1"		"%ITEMNAME% (Customized)"
+"inventory_name_format_1"		"%ITEMNAME% (Personalizzato)"
+// used to transform item names on the Steam Community. shows for items that have attached accessories, like a strange weapon with at least one strange device attached.
+"[english]inventory_name_format_1"		"%ITEMNAME% (Customized)"
 "inventory_name_format_2"		""
 "[english]inventory_name_format_2"		""
 "inventory_name_format_3"		""
@@ -45,45 +45,45 @@
 "[english]inventory_slot"		"Slot"
 "inventory_slot_medal"		"Medaglia"
 "[english]inventory_slot_medal"		"Medal"
-		"inventory_slot_suit"		"Suit"
-		"[english]inventory_slot_suit"		"Suit"
-		"inventory_slot_weapon"		"Weapon"
-		"[english]inventory_slot_weapon"		"Weapon"
-		"inventory_slot_equipment"		"Equipment"
-		"[english]inventory_slot_equipment"		"Equipment"
-		"inventory_class_restriction"		"Class Restriction"
-		// for equippable items that can only be used on one class.
-		"[english]inventory_class_restriction"		"Class Restriction"
-		"inventory_class_restriction_officer"		"Officer"
-		"[english]inventory_class_restriction_officer"		"Officer"
-		"inventory_class_restriction_specialweapons"		"Special Weapons"
-		"[english]inventory_class_restriction_specialweapons"		"Special Weapons"
-		"inventory_class_restriction_medic"		"Medic"
-		"[english]inventory_class_restriction_medic"		"Medic"
-		"inventory_class_restriction_tech"		"Tech"
-		"[english]inventory_class_restriction_tech"		"Tech"
-		"inventory_crafting_item"		"Crafting Item"
-		"[english]inventory_crafting_item"		"Crafting Item"
-		"inventory_crafting_item_single_use_tool"		"Single-Use Tool"
-		"[english]inventory_crafting_item_single_use_tool"		"Single-Use Tool"
-		"inventory_crafting_item_ultra_common"		"Ultra-Common"
-		// common crafting materials. (100-1000 drop at a time)
-		"[english]inventory_crafting_item_ultra_common"		"Ultra-Common"
-		"inventory_crafting_item_common_part"		"Common"
-		// common crafting materials. (1-3 drop at a time)
-		"[english]inventory_crafting_item_common_part"		"Common"
-		"inventory_crafting_item_alien_part"		"Alien Part"
-		// uncommon crafting materials.
-		"[english]inventory_crafting_item_alien_part"		"Alien Part"
-		"inventory_crafting_item_computer_part"		"Computer Part"
-		// rare crafting materials.
-		"[english]inventory_crafting_item_computer_part"		"Computer Part"
-		"inventory_crafting_item_regional"		"Regional"
-		// crafting items that can be found by playing some campaigns but not others.
-		"[english]inventory_crafting_item_regional"		"Regional"
-		"inventory_strange"		"Strange Devices"
-		// displayed before the list of Strange item accessories, eg. Strange Devices: Missions, Aliens Killed
-		"[english]inventory_strange"		"Strange Devices"
+"inventory_slot_suit"		"Tuta"
+"[english]inventory_slot_suit"		"Suit"
+"inventory_slot_weapon"		"Arma"
+"[english]inventory_slot_weapon"		"Weapon"
+"inventory_slot_equipment"		"Equipaggiamento"
+"[english]inventory_slot_equipment"		"Equipment"
+"inventory_class_restriction"		"Restrizione di Classe"
+// for equippable items that can only be used on one class.
+"[english]inventory_class_restriction"		"Class Restriction"
+"inventory_class_restriction_officer"		"Ufficiale"
+"[english]inventory_class_restriction_officer"		"Officer"
+"inventory_class_restriction_specialweapons"		"Armi Speciali"
+"[english]inventory_class_restriction_specialweapons"		"Special Weapons"
+"inventory_class_restriction_medic"		"Medico"
+"[english]inventory_class_restriction_medic"		"Medic"
+"inventory_class_restriction_tech"		"Tecnico"
+"[english]inventory_class_restriction_tech"		"Tech"
+"inventory_crafting_item"		"Creando l'oggetto"
+"[english]inventory_crafting_item"		"Crafting Item"
+"inventory_crafting_item_single_use_tool"		"Strumento monouso"
+"[english]inventory_crafting_item_single_use_tool"		"Single-Use Tool"
+"inventory_crafting_item_ultra_common"		"Ultra-Comune"
+// common crafting materials. (100-1000 drop at a time)
+"[english]inventory_crafting_item_ultra_common"		"Ultra-Common"
+"inventory_crafting_item_common_part"		"Comune"
+// common crafting materials. (1-3 drop at a time)
+"[english]inventory_crafting_item_common_part"		"Common"
+"inventory_crafting_item_alien_part"		"Parte aliena"
+// uncommon crafting materials.
+"[english]inventory_crafting_item_alien_part"		"Alien Part"
+"inventory_crafting_item_computer_part"		"Parte di computer"
+// rare crafting materials.
+"[english]inventory_crafting_item_computer_part"		"Computer Part"
+"inventory_crafting_item_regional"		"Regionale"
+// crafting items that can be found by playing some campaigns but not others.
+"[english]inventory_crafting_item_regional"		"Regional"
+"inventory_strange"		"Strani dispositivi"
+// displayed before the list of Strange item accessories, eg. Strange Devices: Missions, Aliens Killed
+"[english]inventory_strange"		"Strange Devices"
 "item_store_category_donations"		"Donazioni"
 // items that are essentially receipts for donating money to someone in the community. (for the forseeable future, all items on the store will be in this category)
 "[english]item_store_category_donations"		"Donations"
