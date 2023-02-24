@@ -14,7 +14,7 @@
 			"type": "tag_generator",
 			"name": "Generate Random Tag for Strange Officer Suit",
 			"tag_generator_name": "strange",
-			"tag_generator_values": "5001;5002"
+			"tag_generator_values": "5001;5002;5007"
 		},
 		{
 			"itemdefid": 6002,
@@ -28,7 +28,7 @@
 			"type": "tag_generator",
 			"name": "Generate Random Tag for Strange Special Weapons Suit",
 			"tag_generator_name": "strange",
-			"tag_generator_values": "5001;5002"
+			"tag_generator_values": "5001;5002;5007"
 		},
 		{
 			"itemdefid": 6004,
@@ -42,7 +42,7 @@
 			"type": "tag_generator",
 			"name": "Generate Random Tag for Strange Medic Suit",
 			"tag_generator_name": "strange",
-			"tag_generator_values": "5001;5002;5003"
+			"tag_generator_values": "5001;5002;5003;5007;5008"
 		},
 		{
 			"itemdefid": 6006,
@@ -56,13 +56,13 @@
 			"type": "tag_generator",
 			"name": "Generate Random Tag for Strange Tech Suit",
 			"tag_generator_name": "strange",
-			"tag_generator_values": "5001;5002;5004"
+			"tag_generator_values": "5001;5002;5004;5007"
 		},
 		{
 			"itemdefid": 6008,
 			"type": "generator",
 			"name": "Generate Random Strange Device",
-			"bundle": "5000;5001;5002;5003;5004;5005;5006"
+			"bundle": "5000;5001;5002;5003;5004;5005;5006;5007;5008"
 		},
 		{
 			"itemdefid": 6009,
@@ -426,14 +426,14 @@
 			"type": "tag_generator",
 			"name": "Generate Random Tag for Strange Damaging Weapon",
 			"tag_generator_name": "strange",
-			"tag_generator_values": "5000;5002"
+			"tag_generator_values": "5000;5002;5007"
 		},
 		{
 			"itemdefid": 6062,
 			"type": "tag_generator",
 			"name": "Generate Random Tag for Strange Incendiary Damaging Weapon",
 			"tag_generator_name": "strange",
-			"tag_generator_values": "5000;5002"
+			"tag_generator_values": "5000;5002;5007"
 		},
 		{
 			"itemdefid": 6063,
@@ -454,7 +454,7 @@
 			"type": "tag_generator",
 			"name": "Generate Random Tag for Strange Healing Weapon",
 			"tag_generator_name": "strange",
-			"tag_generator_values": "5000;5003;5006"
+			"tag_generator_values": "5000;5003;5006;5008"
 		},
 		{
 			"itemdefid": 6066,
@@ -468,7 +468,7 @@
 			"type": "tag_generator",
 			"name": "Generate Random Tag for Strange Incendiary Damaging Weapon With Extinguisher",
 			"tag_generator_name": "strange",
-			"tag_generator_values": "5000;5002;5006"
+			"tag_generator_values": "5000;5002;5006;5007"
 		},
 		{
 			"itemdefid": 6068,
@@ -482,7 +482,7 @@
 			"type": "tag_generator",
 			"name": "Generate Random Tag for Strange Explosive Damaging Weapon",
 			"tag_generator_name": "strange",
-			"tag_generator_values": "5000;5002"
+			"tag_generator_values": "5000;5002;5007"
 		},
 		{
 			"itemdefid": 6070,
@@ -496,21 +496,21 @@
 			"type": "tag_generator",
 			"name": "Generate Random Tag for Strange Healing Amplifier Weapon",
 			"tag_generator_name": "strange",
-			"tag_generator_values": "5000;5003;5006"
+			"tag_generator_values": "5000;5003;5006;5008"
 		},
 		{
 			"itemdefid": 6072,
 			"type": "tag_generator",
 			"name": "Generate Random Tag for Strange Healing Damaging Weapon",
 			"tag_generator_name": "strange",
-			"tag_generator_values": "5000;5002;5003;5006"
+			"tag_generator_values": "5000;5002;5003;5006;5007;5008"
 		},
 		{
 			"itemdefid": 6073,
 			"type": "tag_generator",
 			"name": "Generate Random Tag for Strange Chainsaw",
 			"tag_generator_name": "strange",
-			"tag_generator_values": "5000;5002"
+			"tag_generator_values": "5000;5002;5007"
 		},
 		{
 			"itemdefid": 6074,
@@ -566,7 +566,7 @@
 			"type": "tag_generator",
 			"name": "Generate Random Tag for Strange Shocking Blocking Weapon",
 			"tag_generator_name": "strange",
-			"tag_generator_values": "5000"
+			"tag_generator_values": "5000;5008"
 		},
 		{
 			"itemdefid": 6082,
@@ -580,7 +580,7 @@
 			"type": "tag_generator",
 			"name": "Generate Random Tag for Strange IAF Power Fist Attachment",
 			"tag_generator_name": "strange",
-			"tag_generator_values": "5000;5002"
+			"tag_generator_values": "5000;5002;5007"
 		},
 		{
 			"itemdefid": 6084,
@@ -594,7 +594,7 @@
 			"type": "tag_generator",
 			"name": "Generate Random Tag for Strange TG-05 Gas Grenades",
 			"tag_generator_name": "strange",
-			"tag_generator_values": "5000;5002"
+			"tag_generator_values": "5000;5002;5007"
 		}
 	]
 }
