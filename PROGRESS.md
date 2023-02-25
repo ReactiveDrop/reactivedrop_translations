@@ -10,7 +10,7 @@
 | [French](#french-français) | 25 | 126 | 10 | 1590 | 191 | 394 | 258 | 123 |
 | [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Hungarian](#non-curated-languages) | 49 | 126 | 10 | 2238 | 191 | 725 | 272 | 145 |
-| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 2 | ✔️ |
+| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | 19 | ✔️ | 35 | ✔️ | ✔️ |
 | [Korean](#koreana-한국어) | 47 | 63 | 6 | 1103 | 43 | 288 | 258 | 50 |
 | [Norwegian Bokmål](#non-curated-languages) | 67 | 701 | 15 | 2958 | 191 | 460 | 341 | 145 |
@@ -976,10 +976,7 @@
 
 </summary>
 
-### Inventory Schema</summary>
-
-- Item 5007 "Alien Kill Streak" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_italian`
-- Item 5008 "Infestations Cured" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_italian`
+✓ Up to date!
 
 </details>
 
