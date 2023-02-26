@@ -97,6 +97,8 @@ TODO
 [*][b]偏执症：敌对之地[/b] 修复了 榴弹发射器瞄准的错误。
 		[*][b]Nam Humanum: Platform XVII:[/b] Fixed bot marines refusing to stand on the moving platform.
 [*][b]燃料库：[/b] 移除了 无形天花板横梁的碰撞。
+		[*][b]Landing Bay + Cargo Elevator:[/b] Fixed a soft lock caused by completing the objectives out of the intended order.
+		[*][b]IAF Marine Academy:[/b] Added a new official Endless mission.
 		[*]All official missions have been given custom loading screens.
 [/list]
 
@@ -140,6 +142,7 @@ TODO
 		[*]Challenges can now set "required_on_client" "1" if they wish to include assets, which will cause the workshop addon to be automatically downloaded when the challenge is activated.
 		[*]Challenges can now be marked for use in deathmatch with "allowed_mode" "deathmatch". Challenges that are able to be used in both deathmatch and cooperative play can additionally specify "allowed_mode" "coop".
 		[*]Updated the weapon unlock notification to include a description. This screen is now also used for medals unlocked through gameplay.
+		[*]Added advanced settings to highlight your character, play sounds when you hurt an enemy, and more!
 [/list]
 
 [h2]地图[/h2]

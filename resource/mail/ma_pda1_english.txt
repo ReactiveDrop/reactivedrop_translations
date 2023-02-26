@@ -1,26 +1,26 @@
 GAME
 {
-   	// pda belongs to Ed Savage
-	
-	"MailFrom1"		"From: Nicholas Gray"
-	"MailDate1"		"Date: 11/22/28"
-	"MailSubject1"	"Subject: SynTek at it again"
-	"MailBody1A"	"This time SynTek are requesting the interstellar coordinates for the volcano zone, for some reason that zone in particular has peaked their interest. Have they never seen a volcano? A lot of planets have them."
-	"MailBody1B"	"Anyway I'm sure it's nothing, though it's strange why is SynTek trying to get involved in this operation."
-	"MailBody1C"	"And one more thing, before we open the academy for public use, they are requesting to diagnose our teleporters to make sure that they are conscience-preserving. Have to give it to them, that's a valid concern. Wouldn't want to go through those teleporters myself before I know they're safe."
-	
-	"MailFrom2"		"From: Brian Howe"
-	"MailDate2"		"Date: 02/15/29"
-	"MailSubject2"	"Subject: Re: Requesting Zone 3 Closure"
-	"MailBody2A"	"Sorry for the late response Mr. Savage"
-	"MailBody2B"	"On behalf of SynTek, we are terribly sorry for the loss of your marines. Zone 3 has been closed."
-	"MailBody2C"	"Regarding your proposed alternative, we disagree - void dimension is extremely hard to access and will require expensive teleporters. Besides, marines might get distracted in that dimension, if you know what we mean."
-	"MailBody2D"	"          - Message forwarded from SynTek by Brian Howe."
-	
-	"MailFrom3"		"To: SynTek"
-	"MailDate3"		"Date: 01/10/29"
-	"MailSubject3"	"Subject: Requesting Zone 3 Closure"
-	"MailBody3A"	"Tester group 3 has reported a zone 3 collapse due to asteroid impact."
-	"MailBody3B"	"Possible cause: heavy material usage diverted the space ship trajectory."
-	"MailBody3C"	"Possible replacement: the void dimension."
+// pda belongs to Ed Savage
+
+"MailFrom1"		"From: Nicholas Gray"
+"MailDate1"		"Date: 11/22/28"
+"MailSubject1"	"Subject: SynTek at it again"
+"MailBody1A"	"This time SynTek are requesting the interstellar coordinates for the volcano zone. For some reason that zone in particular has piqued their interest. Have they never seen a volcano? A lot of planets have them."
+"MailBody1B"	"Anyway I'm sure it's nothing, though it's strange why is SynTek trying to get involved in this operation."
+"MailBody1C"	"And one more thing, before we open the academy for public use, they are requesting to diagnose our teleporters to make sure that they are consciousness-preserving. Have to give it to them, that's a valid concern. Wouldn't want to go through those teleporters myself before I know they're safe."
+
+"MailFrom2"		"From: Brian Howe"
+"MailDate2"		"Date: 02/15/29"
+"MailSubject2"	"Subject: Re: Requesting Zone 3 Closure"
+"MailBody2A"	"Sorry for the late response Mr. Savage"
+"MailBody2B"	"On behalf of SynTek, we are terribly sorry for the loss of your marines. Zone 3 has been closed."
+"MailBody2C"	"Regarding your proposed alternative, we disagree - void dimension is extremely hard to access and will require expensive teleporters. Besides, marines might get distracted in that dimension, if you know what we mean."
+"MailBody2D"	"          - Message forwarded from SynTek by Brian Howe."
+
+"MailFrom3"		"To: SynTek"
+"MailDate3"		"Date: 01/10/29"
+"MailSubject3"	"Subject: Requesting Zone 3 Closure"
+"MailBody3A"	"Tester group 3 has reported a zone 3 collapse due to asteroid impact."
+"MailBody3B"	"Possible cause: heavy material usage diverted the space ship trajectory."
+"MailBody3C"	"Possible replacement: the void dimension."
 }

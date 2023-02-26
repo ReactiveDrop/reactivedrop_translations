@@ -1,14 +1,14 @@
 GAME
 {
-   	// pda belongs to Maxwell Fierze
-	
-	"MailFrom1"		"From: Marine Corps."
-	"MailDate1"		"Date: 12/26/28"
-	"MailSubject1"	"Subject: Strange Sightings in Forest Zone"
-	"MailBody1A"	"Our recruits, test group number 3, have reported some strange sightings in forest zone, their description: huge humanoid-looking ghosts in the sky."
-	
-	"MailFrom2"		"From: Marine Corps."
-	"MailDate2"		"Date: 01/09/29"
-	"MailSubject2"	"Subject: Space Engine Zone Tragedy"
-	"MailBody2A"	"Our test group number 3 has learned the hard way that the zone number 3, the space engines, has been struck by an asteroid. This zone needs a replacement, taking the teleporter leads to being stranded in space with no way back."
+// pda belongs to Maxwell Fierze
+
+"MailFrom1"		"From: Marine Corps."
+"MailDate1"		"Date: 12/26/28"
+"MailSubject1"	"Subject: Strange Sightings in Forest Zone"
+"MailBody1A"	"Our recruits, test group number 3, have reported some strange sightings in forest zone, their description: huge humanoid-looking ghosts in the sky."
+
+"MailFrom2"		"From: Marine Corps."
+"MailDate2"		"Date: 01/09/29"
+"MailSubject2"	"Subject: Space Engine Zone Tragedy"
+"MailBody2A"	"Our test group number 3 has learned the hard way that the zone number 3, the space engines, has been struck by an asteroid. This zone needs a replacement. Taking the teleporter leads to being stranded in space with no way back."
 }
