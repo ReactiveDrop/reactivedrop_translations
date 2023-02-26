@@ -7995,6 +7995,8 @@
 		"[english]rd_demo_rename_title"		"Rename Mission Recording"
 		"rd_demo_rename_message"		"What should the new filename for this recording be?"
 		"[english]rd_demo_rename_message"		"What should the new filename for this recording be?"
+		"RD_AdvancedSettings_OnHit"		"On-Hit Feedback"
+		"[english]RD_AdvancedSettings_OnHit"		"On-Hit Feedback"
 		"TF_CombatText"		"Afficher les dégâts infligés au-dessus des cibles"
 		"[english]TF_CombatText"		"Display damage done as text over your target"
 		"TF_CombatTextBatching"		"Accumuler les évènements consécutifs de dégâts en un seul nombre"

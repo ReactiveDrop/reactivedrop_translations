@@ -4321,6 +4321,7 @@
 "rd_demo_rename_title"	"Rename Mission Recording"
 "rd_demo_rename_message"	"What should the new filename for this recording be?"
 
+"RD_AdvancedSettings_OnHit"	"On-Hit Feedback"
 "TF_CombatText"	"Display damage done as text over your target"
 "TF_CombatTextBatching"	"Accumulate combat text damage events into a single number"
 "TF_Hitbeeps"	"Play a hit sound everytime you injure an enemy"
