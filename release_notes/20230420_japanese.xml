@@ -97,6 +97,8 @@ TODO
 [*][b]Paranoia: Hostile Places:[/b] グレネードランチャーのエイムに関するバグを修正。
 [*][b]Nam Humanum: Platform XVII:[/b] BOT操作の隊員が移動プラットフォームに乗ろうとしないのを修正。
 [*][b]Bunker:[/b] 天井の見えない梁の衝突判定を削除。
+		[*][b]Landing Bay + Cargo Elevator:[/b] Fixed a soft lock caused by completing the objectives out of the intended order.
+		[*][b]IAF Marine Academy:[/b] Added a new official Endless mission.
 [*]全ての公式ミッションにカスタムロード画面を追加。
 [/list]
 
@@ -140,6 +142,7 @@ TODO
 [*]アセットを使用したいチャレンジに"required_on_client" "1"を設定できるようになった。これを使用するとチャレンジが有効になっている場合にワークショップから自動的にダウンロードされる。
 [*]デスマッチ用のチャレンジに"allowed_mode" "deathmatch"を設定できるようになった。デスマッチとCOOP両方で使用できるチャレンジには追加で"allowed_mode" "coop"を明記する。
 [*]武器のアンロック通知に詳細が含まれるようになった。ゲームをプレイすることでアンロックされる勲章にもこの通知画面が使われるようになった。
+		[*]Added advanced settings to highlight your character, play sounds when you hurt an enemy, and more!
 [/list]
 
 [h2]マップ作成[/h2]

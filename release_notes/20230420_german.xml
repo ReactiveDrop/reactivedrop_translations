@@ -97,6 +97,8 @@ Hier sind einige Highlights der Updates seit dem letzten Jahrestag:
 [*][b]Paranoia: Feindliche Orte:[/b] Fehler im Zusammenhang mit dem Zielen von Granatwerfern wurden behoben.
 [*][b]Nam Humanum: Plattform XVII:[/b] Es wurde behoben das Bots sich weigerten auf der sich bewegenden Plattform zu stehen.
 [*][b]Bunker:[/b] Die Kollision mit einem unsichtbaren Deckenbalken wurde entfernt.
+		[*][b]Landing Bay + Cargo Elevator:[/b] Fixed a soft lock caused by completing the objectives out of the intended order.
+		[*][b]IAF Marine Academy:[/b] Added a new official Endless mission.
 [*]Alle offiziellen Einsätze haben eigene Ladebildschirme erhalten.
 [/list]
 
@@ -140,6 +142,7 @@ Hier sind einige Highlights der Updates seit dem letzten Jahrestag:
 [*]Herausforderungen können jetzt "required_on_client" auf "1" setzen, wenn sie Assets einschließen wollen, was dazu führt, dass das Workshop-Addon automatisch heruntergeladen wird, wenn die Herausforderung aktiviert wird.
 [*]Herausforderungen können jetzt für die Verwendung im Deathmatch mit "allowed_mode" "deathmatch" markiert werden. Herausforderungen, die sowohl im Deathmatch als auch im kooperativen Spiel verwendet werden können, können zusätzlich mit "allowed_mode" "coop" gekennzeichnet werden.
 [*]Die Benachrichtigung zum Freischalten von Gegenständen wurde aktualisiert und enthält nun eine Beschreibung. Dieser Bildschirm wird jetzt auch für Medaillen verwendet, die durch das Spiel freigeschaltet werden.
+		[*]Added advanced settings to highlight your character, play sounds when you hurt an enemy, and more!
 [/list]
 
 [h2]Mapping[/h2]
