@@ -6469,6 +6469,8 @@
 		"ma_hud_score"		"Score"
 		// context: score gained for completing any of the 6 holdout zones, something like points would work too
 		"[english]ma_hud_score"		"Score"
+		"ma_hud_zones"		"Zones Completed"
+		"[english]ma_hud_zones"		"Zones Completed"
 		"ma_sign_provision"		"ADVANCED TRAINING PROVISION FOR COMMISSIONED PERSONNEL"
 		"[english]ma_sign_provision"		"ADVANCED TRAINING PROVISION FOR COMMISSIONED PERSONNEL"
 		"ma_sign_shop"		"SHOP"
