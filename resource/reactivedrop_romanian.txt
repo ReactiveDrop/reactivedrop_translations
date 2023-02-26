@@ -6463,6 +6463,18 @@
 		"[english]ma_chat_queen_health"		"%s1Queen Health: %s2%s3"
 		"ma_chat_local_record"		"%s1Local server record beaten!"
 		"[english]ma_chat_local_record"		"%s1Local server record beaten!"
+		"ma_hud_alienblood"		"Alien Blood"
+		// context: it's a currency for the map, gained from killing aliens and you can spend it for buying items
+		"[english]ma_hud_alienblood"		"Alien Blood"
+		"ma_hud_score"		"Score"
+		// context: score gained for completing any of the 6 holdout zones, something like points would work too
+		"[english]ma_hud_score"		"Score"
+		"ma_sign_provision"		"ADVANCED TRAINING PROVISION FOR COMMISSIONED PERSONNEL"
+		"[english]ma_sign_provision"		"ADVANCED TRAINING PROVISION FOR COMMISSIONED PERSONNEL"
+		"ma_sign_shop"		"SHOP"
+		"[english]ma_sign_shop"		"SHOP"
+		"ma_sign_hof"		"HALL OF FAME"
+		"[english]ma_sign_hof"		"HALL OF FAME"
 		"asw_teleport_to_zone"		"Teleport to Zone"
 		"[english]asw_teleport_to_zone"		"Teleport to Zone"
 		"asw_zone_unavailable"		"Zone Temporarily Unavailable"
