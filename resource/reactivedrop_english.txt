@@ -1405,6 +1405,8 @@
 "asw_pda_owner_name_research_team"	"Research Team"
 "asw_pda_owner_name_random_news_reader"	"Random News Reader"
 "asw_pda_owner_name_puzzle_solving_community"	"Puzzle Solving Community"
+"asw_pda_owner_name_ed_savage"	"Ed Savage"
+"asw_pda_owner_name_maxwell_fierze"	"Maxwell Fierze"
 
 "asw_galactic_map_core_systems"	"CORE SYSTEMS"
 "asw_galactic_map_syntek_megacorporation"	"SYNTEK MEGACORPORATION"
@@ -3418,6 +3420,29 @@
 
 "asw_boss_title_muon_gem"	"Muon Gem"
 
+// IAF Marine Academy strings
+"ma_chat_ammo"	"%s1Taking ammo with you is not allowed."
+"ma_chat_score_reached"	"%s1Score %s2%s3 %s1reached, certain item ammo regeneration has started."
+"ma_chat_note"	"%s1Note: Alien Blood is no longer gained from killing aliens after the teleporter has appeared."
+"ma_chat_difficulty"	"%s1Current Difficulty: %s2%s3"
+"ma_chat_blood_earned"	"%s1Alien Blood earned from area: %s2%s3"
+"ma_chat_cmp"	"%s1Alien Blood gain per alien: %s2%s3"
+"ma_chat_hr"	"%s1Health Regeneration per completion: %s2%s3"
+"ma_chat_htime"	"%s1Holdout Time: %s2%s3"
+"ma_chat_queen_health"	"%s1Queen Health: %s2%s3"
+"ma_chat_local_record"	"%s1Local server record beaten!"
+
+"asw_teleport_to_zone"	"Teleport to Zone"
+"asw_zone_unavailable"	"Zone Temporarily Unavailable"
+"asw_no_alienblood"	"Not Enough Alien Blood"
+"asw_buy_ammo"	"Buy Ammo"
+"asw_buy_medkit"	"Buy Medkit"
+"asw_buy_eca"	"Buy Electrified Armor"
+"asw_buy_freeze"	"Buy Freeze Nades"
+"asw_buy_firemines"	"Buy Firemines"
+"asw_buy_hr"	"Buy Health Regeneration"
+"asw_buy_cmp"	"Buy Currency Multiplier"
+
 // Operation Cleansweep strings
 "ocs_storagefacility_1_title"	"Gain access to the storage facility."
 "ocs_storagefacility_1a"	"The main entrance to the landing bay area is overrun with infestation. Use the 'back door' to gain access to the storage facility, that leads to the landing bays."
@@ -3818,6 +3843,9 @@
 "rd_mission_brief_rd-acc6_labruins"	""
 "rd_mission_title_rd-acc_complex"	"AMBER Complex"
 "rd_mission_desc_rd-acc_complex"	"Navigate through the AMBER Complex."
+
+"rd_mission_title_marine_academy"	"IAF Marine Academy"
+"rd_mission_desc_marine_academy"	"Welcome to IAF Marine Academy. An advanced marine-training tool created with the assistance of SynTek to prepare soldiers for combat against aliens."
 
 // TODO
 "rd_entrymission_title_rd_adanaxis"	""
