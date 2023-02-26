@@ -1,30 +1,30 @@
 # Overview
 | Language | basemodui | closecaption | gameui | reactivedrop | statsweb | Strings | Inventory | Files |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [Simplified Chinese](#schinese-简体中文) | ✔️ | 2 | ✔️ | 157 | ✔️ | 17 | 118 | 3 |
-| [Traditional Chinese](#tchinese-繁體中文) | 7 | 128 | 1 | 2152 | 191 | 75 | 270 | 144 |
-| [Czech](#czech-čeština) | 69 | 1804 | 10 | 3295 | 191 | 730 | 340 | 144 |
-| [Danish](#non-curated-languages) | 50 | 219 | 10 | 2816 | 191 | 460 | 335 | 145 |
-| [Dutch](#non-curated-languages) | 49 | 2001 | 10 | 2271 | 191 | 460 | 272 | 144 |
-| [Finnish](#non-curated-languages) | 49 | 2001 | 10 | 2271 | 191 | 460 | 272 | 144 |
-| [French](#french-français) | 25 | 126 | 10 | 1623 | 191 | 394 | 258 | 123 |
-| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
-| [Hungarian](#non-curated-languages) | 49 | 126 | 10 | 2271 | 191 | 725 | 272 | 145 |
-| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | 33 | ✔️ | ✔️ | ✔️ | ✔️ |
-| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | 52 | ✔️ | 35 | ✔️ | ✔️ |
-| [Korean](#koreana-한국어) | 47 | 63 | 6 | 1136 | 43 | 288 | 258 | 50 |
-| [Norwegian Bokmål](#non-curated-languages) | 67 | 701 | 15 | 2991 | 191 | 460 | 341 | 145 |
-| [Polish](#polish-polski) | 26 | 2001 | 10 | 2271 | 191 | 460 | 272 | 145 |
-| [European Portuguese](#portuguese-português-europeu) | ✔️ | 168 | ✔️ | 1461 | 18 | 388 | 277 | 137 |
-| [Brazilian Portuguese](#brazilian-português) | ✔️ | 2001 | ✔️ | 517 | ✔️ | 17 | 120 | 3 |
-| [Romanian](#non-curated-languages) | 49 | 1993 | 16 | 2996 | 191 | 725 | 318 | 145 |
-| [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | 33 | ✔️ | 17 | 79 | 2 |
-| [European Spanish](#spanish-español-de-españa) | 26 | 2001 | 8 | 1675 | 191 | 464 | 268 | 144 |
-| [Swedish](#non-curated-languages) | 49 | 2001 | 10 | 2271 | 191 | 460 | 272 | 145 |
-| [Thai](#non-curated-languages) | 964 | 1990 | 18 | 3546 | 191 | 489 | 351 | 145 |
-| [Turkish](#non-curated-languages) | 49 | 125 | 10 | 2271 | 191 | 725 | 272 | 145 |
-| [Ukrainian](#ukrainian-українська) | 25 | 119 | 9 | 1803 | 191 | 725 | 265 | 145 |
-| [Vietnamese](#vietnamese-tiếng-việt) | 1279 | 2001 | 605 | 3810 | 191 | 676 | 354 | 132 |
+| [Simplified Chinese](#schinese-简体中文) | ✔️ | 2 | ✔️ | 181 | ✔️ | 17 | 118 | 5 |
+| [Traditional Chinese](#tchinese-繁體中文) | 7 | 128 | 1 | 2176 | 191 | 75 | 270 | 147 |
+| [Czech](#czech-čeština) | 69 | 1804 | 10 | 3319 | 191 | 730 | 340 | 147 |
+| [Danish](#non-curated-languages) | 50 | 219 | 10 | 2840 | 191 | 460 | 335 | 148 |
+| [Dutch](#non-curated-languages) | 49 | 2001 | 10 | 2295 | 191 | 460 | 272 | 147 |
+| [Finnish](#non-curated-languages) | 49 | 2001 | 10 | 2295 | 191 | 460 | 272 | 147 |
+| [French](#french-français) | 25 | 126 | 10 | 1647 | 191 | 394 | 258 | 126 |
+| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | 24 | ✔️ | ✔️ | ✔️ | 3 |
+| [Hungarian](#non-curated-languages) | 49 | 126 | 10 | 2295 | 191 | 725 | 272 | 148 |
+| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | 57 | ✔️ | ✔️ | ✔️ | 3 |
+| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | 76 | ✔️ | 35 | ✔️ | 3 |
+| [Korean](#koreana-한국어) | 47 | 63 | 6 | 1160 | 43 | 288 | 258 | 53 |
+| [Norwegian Bokmål](#non-curated-languages) | 67 | 701 | 15 | 3015 | 191 | 460 | 341 | 148 |
+| [Polish](#polish-polski) | 26 | 2001 | 10 | 2295 | 191 | 460 | 272 | 148 |
+| [European Portuguese](#portuguese-português-europeu) | ✔️ | 168 | ✔️ | 1485 | 18 | 388 | 277 | 140 |
+| [Brazilian Portuguese](#brazilian-português) | ✔️ | 2001 | ✔️ | 541 | ✔️ | 17 | 120 | 5 |
+| [Romanian](#non-curated-languages) | 49 | 1993 | 16 | 3020 | 191 | 725 | 318 | 148 |
+| [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | 57 | ✔️ | 17 | 79 | 4 |
+| [European Spanish](#spanish-español-de-españa) | 26 | 2001 | 8 | 1699 | 191 | 464 | 268 | 147 |
+| [Swedish](#non-curated-languages) | 49 | 2001 | 10 | 2295 | 191 | 460 | 272 | 148 |
+| [Thai](#non-curated-languages) | 964 | 1990 | 18 | 3570 | 191 | 489 | 351 | 148 |
+| [Turkish](#non-curated-languages) | 49 | 125 | 10 | 2295 | 191 | 725 | 272 | 148 |
+| [Ukrainian](#ukrainian-українська) | 25 | 119 | 9 | 1827 | 191 | 725 | 265 | 148 |
+| [Vietnamese](#vietnamese-tiếng-việt) | 1279 | 2001 | 605 | 3834 | 191 | 676 | 354 | 135 |
 ### Legend
 - ***Non-capitalized column headers*** are the most important specific files and their number of missing strings. All of these txt-files are located in the resources folder. Except statsweb, which lies in community/stats_website, it's an vdf-file.
 - ***Strings*** is the number of missing strings not included in one of the files which get an individual non-capitalized column.
@@ -43,11 +43,11 @@
 
 - [inventory_service_tags_schinese.vdf](community/inventory_service/inventory_service_tags_schinese.vdf) has 17 untranslated strings.
 - [closecaption_schinese.txt](resource/closecaption_schinese.txt) has 2 untranslated strings.
-- [reactivedrop_schinese.txt](resource/reactivedrop_schinese.txt) has 157 untranslated strings.
+- [reactivedrop_schinese.txt](resource/reactivedrop_schinese.txt) has 181 untranslated strings.
 
 ### Upcoming Release Notes
 
-- [20230420_schinese.xml](release_notes/20230420_schinese.xml) has 76 indented lines.
+- [20230420_schinese.xml](release_notes/20230420_schinese.xml) has 79 indented lines.
 
 ### Credits
 
@@ -55,6 +55,8 @@
 
 ### Mail and News
 
+- [ma_pda1_schinese.txt](resource/mail/ma_pda1_english.txt) is missing.
+- [ma_pda2_schinese.txt](resource/mail/ma_pda2_english.txt) is missing.
 - [officemail4_schinese.txt](resource/mail/officemail4_schinese.txt) has 1 indented lines.
 
 ### Inventory Schema</summary>
@@ -152,7 +154,7 @@
 - [basemodui_tchinese.txt](resource/basemodui_tchinese.txt) has 7 untranslated strings.
 - [closecaption_tchinese.txt](resource/closecaption_tchinese.txt) has 128 untranslated strings.
 - [gameui_tchinese.txt](resource/gameui_tchinese.txt) has 1 untranslated strings.
-- [reactivedrop_tchinese.txt](resource/reactivedrop_tchinese.txt) has 2152 untranslated strings.
+- [reactivedrop_tchinese.txt](resource/reactivedrop_tchinese.txt) has 2176 untranslated strings.
 
 ### Steam Store and Community
 
@@ -174,6 +176,7 @@
 - [asw_credits_tchinese.txt](credits/asw_credits_english.txt) is missing.
 - [biogen_corporation_credits_tchinese.txt](credits/biogen_corporation_credits_english.txt) is missing.
 - [credits_acc32_official_tchinese.txt](credits/credits_acc32_official_english.txt) is missing.
+- [credits_marine_academy_tchinese.txt](credits/credits_marine_academy_english.txt) is missing.
 - [credits_namhumanum_tchinese.txt](credits/credits_namhumanum_english.txt) is missing.
 - [deathmatch_credits_tchinese.txt](credits/deathmatch_credits_english.txt) is missing.
 - [rd-LanasEscapeCredits_tchinese.txt](credits/rd-LanasEscapeCredits_english.txt) is missing.
@@ -218,6 +221,8 @@
 - [landingbaymail1_tchinese.txt](resource/mail/landingbaymail1_english.txt) is missing.
 - [landingbaymail2_tchinese.txt](resource/mail/landingbaymail2_english.txt) is missing.
 - [landingbaymail3_tchinese.txt](resource/mail/landingbaymail3_english.txt) is missing.
+- [ma_pda1_tchinese.txt](resource/mail/ma_pda1_english.txt) is missing.
+- [ma_pda2_tchinese.txt](resource/mail/ma_pda2_english.txt) is missing.
 - [minemails1_tchinese.txt](resource/mail/minemails1_english.txt) is missing.
 - [minemails2_tchinese.txt](resource/mail/minemails2_english.txt) is missing.
 - [minemails3_tchinese.txt](resource/mail/minemails3_english.txt) is missing.
@@ -434,7 +439,7 @@
 - [chat_czech.txt](resource/chat_czech.txt) has 8 untranslated strings.
 - [closecaption_czech.txt](resource/closecaption_czech.txt) has 1804 untranslated strings.
 - [gameui_czech.txt](resource/gameui_czech.txt) has 10 untranslated strings.
-- [reactivedrop_czech.txt](resource/reactivedrop_czech.txt) has 3295 untranslated strings.
+- [reactivedrop_czech.txt](resource/reactivedrop_czech.txt) has 3319 untranslated strings.
 - [valve_czech.txt](resource/valve_czech.txt) has 266 untranslated strings.
 
 ### Steam Store and Community
@@ -457,6 +462,7 @@
 - [asw_credits_czech.txt](credits/asw_credits_english.txt) is missing.
 - [biogen_corporation_credits_czech.txt](credits/biogen_corporation_credits_english.txt) is missing.
 - [credits_acc32_official_czech.txt](credits/credits_acc32_official_english.txt) is missing.
+- [credits_marine_academy_czech.txt](credits/credits_marine_academy_english.txt) is missing.
 - [credits_namhumanum_czech.txt](credits/credits_namhumanum_english.txt) is missing.
 - [deathmatch_credits_czech.txt](credits/deathmatch_credits_english.txt) is missing.
 - [rd-LanasEscapeCredits_czech.txt](credits/rd-LanasEscapeCredits_english.txt) is missing.
@@ -501,6 +507,8 @@
 - [landingbaymail1_czech.txt](resource/mail/landingbaymail1_english.txt) is missing.
 - [landingbaymail2_czech.txt](resource/mail/landingbaymail2_english.txt) is missing.
 - [landingbaymail3_czech.txt](resource/mail/landingbaymail3_english.txt) is missing.
+- [ma_pda1_czech.txt](resource/mail/ma_pda1_english.txt) is missing.
+- [ma_pda2_czech.txt](resource/mail/ma_pda2_english.txt) is missing.
 - [minemails1_czech.txt](resource/mail/minemails1_english.txt) is missing.
 - [minemails2_czech.txt](resource/mail/minemails2_english.txt) is missing.
 - [minemails3_czech.txt](resource/mail/minemails3_english.txt) is missing.
@@ -716,7 +724,7 @@
 - [basemodui_french.txt](resource/basemodui_french.txt) has 25 untranslated strings.
 - [closecaption_french.txt](resource/closecaption_french.txt) has 126 untranslated strings.
 - [gameui_french.txt](resource/gameui_french.txt) has 10 untranslated strings.
-- [reactivedrop_french.txt](resource/reactivedrop_french.txt) has 1623 untranslated strings.
+- [reactivedrop_french.txt](resource/reactivedrop_french.txt) has 1647 untranslated strings.
 - [valve_french.txt](resource/valve_french.txt) has 196 untranslated strings.
 
 ### Steam Store and Community
@@ -739,6 +747,7 @@
 - [asw_credits_french.txt](credits/asw_credits_english.txt) is missing.
 - [biogen_corporation_credits_french.txt](credits/biogen_corporation_credits_english.txt) is missing.
 - [credits_acc32_official_french.txt](credits/credits_acc32_official_english.txt) is missing.
+- [credits_marine_academy_french.txt](credits/credits_marine_academy_english.txt) is missing.
 - [credits_namhumanum_french.txt](credits/credits_namhumanum_english.txt) is missing.
 - [deathmatch_credits_french.txt](credits/deathmatch_credits_english.txt) is missing.
 - [rd-LanasEscapeCredits_french.txt](credits/rd-LanasEscapeCredits_english.txt) is missing.
@@ -783,6 +792,8 @@
 - [landingbaymail1_french.txt](resource/mail/landingbaymail1_english.txt) is missing.
 - [landingbaymail2_french.txt](resource/mail/landingbaymail2_english.txt) is missing.
 - [landingbaymail3_french.txt](resource/mail/landingbaymail3_english.txt) is missing.
+- [ma_pda1_french.txt](resource/mail/ma_pda1_english.txt) is missing.
+- [ma_pda2_french.txt](resource/mail/ma_pda2_english.txt) is missing.
 - [minemails1_french.txt](resource/mail/minemails1_english.txt) is missing.
 - [minemails2_french.txt](resource/mail/minemails2_english.txt) is missing.
 - [minemails3_french.txt](resource/mail/minemails3_english.txt) is missing.
@@ -966,7 +977,18 @@
 
 </summary>
 
-✓ Up to date!
+### Strings
+
+- [reactivedrop_german.txt](resource/reactivedrop_german.txt) has 24 untranslated strings.
+
+### Upcoming Release Notes
+
+- [20230420_german.xml](release_notes/20230420_german.xml) has 3 indented lines.
+
+### Mail and News
+
+- [ma_pda1_german.txt](resource/mail/ma_pda1_english.txt) is missing.
+- [ma_pda2_german.txt](resource/mail/ma_pda2_english.txt) is missing.
 
 </details>
 
@@ -978,7 +1000,16 @@
 
 ### Strings
 
-- [reactivedrop_italian.txt](resource/reactivedrop_italian.txt) has 33 untranslated strings.
+- [reactivedrop_italian.txt](resource/reactivedrop_italian.txt) has 57 untranslated strings.
+
+### Upcoming Release Notes
+
+- [20230420_italian.xml](release_notes/20230420_italian.xml) has 3 indented lines.
+
+### Mail and News
+
+- [ma_pda1_italian.txt](resource/mail/ma_pda1_english.txt) is missing.
+- [ma_pda2_italian.txt](resource/mail/ma_pda2_english.txt) is missing.
 
 </details>
 
@@ -991,7 +1022,16 @@
 ### Strings
 
 - [vgui_japanese.txt](platform/vgui_japanese.txt) has 35 untranslated strings.
-- [reactivedrop_japanese.txt](resource/reactivedrop_japanese.txt) has 52 untranslated strings.
+- [reactivedrop_japanese.txt](resource/reactivedrop_japanese.txt) has 76 untranslated strings.
+
+### Upcoming Release Notes
+
+- [20230420_japanese.xml](release_notes/20230420_japanese.xml) has 3 indented lines.
+
+### Mail and News
+
+- [ma_pda1_japanese.txt](resource/mail/ma_pda1_english.txt) is missing.
+- [ma_pda2_japanese.txt](resource/mail/ma_pda2_english.txt) is missing.
 
 </details>
 
@@ -1012,7 +1052,7 @@
 - [basemodui_koreana.txt](resource/basemodui_koreana.txt) has 47 untranslated strings.
 - [closecaption_koreana.txt](resource/closecaption_koreana.txt) has 63 untranslated strings.
 - [gameui_koreana.txt](resource/gameui_koreana.txt) has 6 untranslated strings.
-- [reactivedrop_koreana.txt](resource/reactivedrop_koreana.txt) has 1136 untranslated strings.
+- [reactivedrop_koreana.txt](resource/reactivedrop_koreana.txt) has 1160 untranslated strings.
 - [valve_koreana.txt](resource/valve_koreana.txt) has 90 untranslated strings.
 
 ### Steam Store and Community
@@ -1035,6 +1075,7 @@
 - [asw_credits_koreana.txt](credits/asw_credits_english.txt) is missing.
 - [biogen_corporation_credits_koreana.txt](credits/biogen_corporation_credits_english.txt) is missing.
 - [credits_acc32_official_koreana.txt](credits/credits_acc32_official_english.txt) is missing.
+- [credits_marine_academy_koreana.txt](credits/credits_marine_academy_english.txt) is missing.
 - [credits_namhumanum_koreana.txt](credits/credits_namhumanum_english.txt) is missing.
 - [deathmatch_credits_koreana.txt](credits/deathmatch_credits_english.txt) is missing.
 - [rd-LanasEscapeCredits_koreana.txt](credits/rd-LanasEscapeCredits_english.txt) is missing.
@@ -1072,6 +1113,8 @@
 - [acc_research1_koreana.txt](resource/mail/acc_research1_english.txt) is missing.
 - [acc_research2_koreana.txt](resource/mail/acc_research2_english.txt) is missing.
 - [acc_research3_koreana.txt](resource/mail/acc_research3_english.txt) is missing.
+- [ma_pda1_koreana.txt](resource/mail/ma_pda1_english.txt) is missing.
+- [ma_pda2_koreana.txt](resource/mail/ma_pda2_english.txt) is missing.
 - [nukeangermail_koreana.txt](resource/mail/nukeangermail_english.txt) is missing.
 - [officemail4_koreana.txt](resource/mail/officemail4_koreana.txt) has 1 indented lines.
 - [nh_news_announcement_koreana.txt](resource/news/nh_news_announcement_english.txt) is missing.
@@ -1201,7 +1244,7 @@
 - [chat_polish.txt](resource/chat_polish.txt) has 8 untranslated strings.
 - [closecaption_polish.txt](resource/closecaption_polish.txt) has 2001 untranslated strings.
 - [gameui_polish.txt](resource/gameui_polish.txt) has 10 untranslated strings.
-- [reactivedrop_polish.txt](resource/reactivedrop_polish.txt) has 2271 untranslated strings.
+- [reactivedrop_polish.txt](resource/reactivedrop_polish.txt) has 2295 untranslated strings.
 - [valve_polish.txt](resource/valve_polish.txt) has 266 untranslated strings.
 
 ### Steam Store and Community
@@ -1225,6 +1268,7 @@
 - [asw_credits_polish.txt](credits/asw_credits_english.txt) is missing.
 - [biogen_corporation_credits_polish.txt](credits/biogen_corporation_credits_english.txt) is missing.
 - [credits_acc32_official_polish.txt](credits/credits_acc32_official_english.txt) is missing.
+- [credits_marine_academy_polish.txt](credits/credits_marine_academy_english.txt) is missing.
 - [credits_namhumanum_polish.txt](credits/credits_namhumanum_english.txt) is missing.
 - [deathmatch_credits_polish.txt](credits/deathmatch_credits_english.txt) is missing.
 - [rd-LanasEscapeCredits_polish.txt](credits/rd-LanasEscapeCredits_english.txt) is missing.
@@ -1269,6 +1313,8 @@
 - [landingbaymail1_polish.txt](resource/mail/landingbaymail1_english.txt) is missing.
 - [landingbaymail2_polish.txt](resource/mail/landingbaymail2_english.txt) is missing.
 - [landingbaymail3_polish.txt](resource/mail/landingbaymail3_english.txt) is missing.
+- [ma_pda1_polish.txt](resource/mail/ma_pda1_english.txt) is missing.
+- [ma_pda2_polish.txt](resource/mail/ma_pda2_english.txt) is missing.
 - [minemails1_polish.txt](resource/mail/minemails1_english.txt) is missing.
 - [minemails2_polish.txt](resource/mail/minemails2_english.txt) is missing.
 - [minemails3_polish.txt](resource/mail/minemails3_english.txt) is missing.
@@ -1480,7 +1526,7 @@
 - [statsweb_portuguese.vdf](community/stats_website/statsweb_portuguese.vdf) has 18 untranslated strings.
 - [vgui_portuguese.txt](platform/vgui_portuguese.txt) has 93 untranslated strings.
 - [closecaption_portuguese.txt](resource/closecaption_portuguese.txt) has 168 untranslated strings.
-- [reactivedrop_portuguese.txt](resource/reactivedrop_portuguese.txt) has 1461 untranslated strings.
+- [reactivedrop_portuguese.txt](resource/reactivedrop_portuguese.txt) has 1485 untranslated strings.
 - [valve_portuguese.txt](resource/valve_portuguese.txt) has 266 untranslated strings.
 
 ### Steam Store and Community
@@ -1497,6 +1543,7 @@
 
 - [biogen_corporation_credits_portuguese.txt](credits/biogen_corporation_credits_english.txt) is missing.
 - [credits_acc32_official_portuguese.txt](credits/credits_acc32_official_english.txt) is missing.
+- [credits_marine_academy_portuguese.txt](credits/credits_marine_academy_english.txt) is missing.
 - [deathmatch_credits_portuguese.txt](credits/deathmatch_credits_english.txt) is missing.
 - [rd-LanasEscapeCredits_portuguese.txt](credits/rd-LanasEscapeCredits_english.txt) is missing.
 - [rd-area9800Credits_portuguese.txt](credits/rd-area9800Credits_english.txt) is missing.
@@ -1540,6 +1587,8 @@
 - [landingbaymail1_portuguese.txt](resource/mail/landingbaymail1_english.txt) is missing.
 - [landingbaymail2_portuguese.txt](resource/mail/landingbaymail2_english.txt) is missing.
 - [landingbaymail3_portuguese.txt](resource/mail/landingbaymail3_english.txt) is missing.
+- [ma_pda1_portuguese.txt](resource/mail/ma_pda1_english.txt) is missing.
+- [ma_pda2_portuguese.txt](resource/mail/ma_pda2_english.txt) is missing.
 - [minemails1_portuguese.txt](resource/mail/minemails1_english.txt) is missing.
 - [minemails2_portuguese.txt](resource/mail/minemails2_english.txt) is missing.
 - [minemails3_portuguese.txt](resource/mail/minemails3_english.txt) is missing.
@@ -1741,11 +1790,11 @@
 
 - [inventory_service_tags_brazilian.vdf](community/inventory_service/inventory_service_tags_brazilian.vdf) has 17 untranslated strings.
 - [closecaption_brazilian.txt](resource/closecaption_brazilian.txt) has 2001 untranslated strings.
-- [reactivedrop_brazilian.txt](resource/reactivedrop_brazilian.txt) has 517 untranslated strings.
+- [reactivedrop_brazilian.txt](resource/reactivedrop_brazilian.txt) has 541 untranslated strings.
 
 ### Upcoming Release Notes
 
-- [20230420_brazilian.xml](release_notes/20230420_brazilian.xml) has 76 indented lines.
+- [20230420_brazilian.xml](release_notes/20230420_brazilian.xml) has 79 indented lines.
 
 ### Credits
 
@@ -1753,6 +1802,8 @@
 
 ### Mail and News
 
+- [ma_pda1_brazilian.txt](resource/mail/ma_pda1_english.txt) is missing.
+- [ma_pda2_brazilian.txt](resource/mail/ma_pda2_english.txt) is missing.
 - [officemail4_brazilian.txt](resource/mail/officemail4_brazilian.txt) has 1 indented lines.
 
 ### Inventory Schema</summary>
@@ -1844,7 +1895,7 @@
 ### Strings
 
 - [inventory_service_tags_russian.vdf](community/inventory_service/inventory_service_tags_russian.vdf) has 17 untranslated strings.
-- [reactivedrop_russian.txt](resource/reactivedrop_russian.txt) has 33 untranslated strings.
+- [reactivedrop_russian.txt](resource/reactivedrop_russian.txt) has 57 untranslated strings.
 
 ### Upcoming Release Notes
 
@@ -1853,6 +1904,11 @@
 ### Credits
 
 - [credits_acc32_official_russian.txt](credits/credits_acc32_official_russian.txt) has 1 indented lines.
+
+### Mail and News
+
+- [ma_pda1_russian.txt](resource/mail/ma_pda1_english.txt) is missing.
+- [ma_pda2_russian.txt](resource/mail/ma_pda2_english.txt) is missing.
 
 ### Inventory Schema</summary>
 
@@ -1938,7 +1994,7 @@
 - [basemodui_spanish.txt](resource/basemodui_spanish.txt) has 26 untranslated strings.
 - [closecaption_spanish.txt](resource/closecaption_spanish.txt) has 2001 untranslated strings.
 - [gameui_spanish.txt](resource/gameui_spanish.txt) has 8 untranslated strings.
-- [reactivedrop_spanish.txt](resource/reactivedrop_spanish.txt) has 1675 untranslated strings.
+- [reactivedrop_spanish.txt](resource/reactivedrop_spanish.txt) has 1699 untranslated strings.
 - [valve_spanish.txt](resource/valve_spanish.txt) has 266 untranslated strings.
 
 ### Steam Store and Community
@@ -1961,6 +2017,7 @@
 - [asw_credits_spanish.txt](credits/asw_credits_english.txt) is missing.
 - [biogen_corporation_credits_spanish.txt](credits/biogen_corporation_credits_english.txt) is missing.
 - [credits_acc32_official_spanish.txt](credits/credits_acc32_official_english.txt) is missing.
+- [credits_marine_academy_spanish.txt](credits/credits_marine_academy_english.txt) is missing.
 - [credits_namhumanum_spanish.txt](credits/credits_namhumanum_english.txt) is missing.
 - [deathmatch_credits_spanish.txt](credits/deathmatch_credits_english.txt) is missing.
 - [rd-LanasEscapeCredits_spanish.txt](credits/rd-LanasEscapeCredits_english.txt) is missing.
@@ -2005,6 +2062,8 @@
 - [landingbaymail1_spanish.txt](resource/mail/landingbaymail1_english.txt) is missing.
 - [landingbaymail2_spanish.txt](resource/mail/landingbaymail2_english.txt) is missing.
 - [landingbaymail3_spanish.txt](resource/mail/landingbaymail3_english.txt) is missing.
+- [ma_pda1_spanish.txt](resource/mail/ma_pda1_english.txt) is missing.
+- [ma_pda2_spanish.txt](resource/mail/ma_pda2_english.txt) is missing.
 - [minemails1_spanish.txt](resource/mail/minemails1_english.txt) is missing.
 - [minemails2_spanish.txt](resource/mail/minemails2_english.txt) is missing.
 - [minemails3_spanish.txt](resource/mail/minemails3_english.txt) is missing.
@@ -2221,7 +2280,7 @@
 - [chat_ukrainian.txt](resource/chat_ukrainian.txt) has 8 untranslated strings.
 - [closecaption_ukrainian.txt](resource/closecaption_ukrainian.txt) has 119 untranslated strings.
 - [gameui_ukrainian.txt](resource/gameui_ukrainian.txt) has 9 untranslated strings.
-- [reactivedrop_ukrainian.txt](resource/reactivedrop_ukrainian.txt) has 1803 untranslated strings.
+- [reactivedrop_ukrainian.txt](resource/reactivedrop_ukrainian.txt) has 1827 untranslated strings.
 - [valve_ukrainian.txt](resource/valve_ukrainian.txt) has 266 untranslated strings.
 
 ### Steam Store and Community
@@ -2245,6 +2304,7 @@
 - [asw_credits_ukrainian.txt](credits/asw_credits_english.txt) is missing.
 - [biogen_corporation_credits_ukrainian.txt](credits/biogen_corporation_credits_english.txt) is missing.
 - [credits_acc32_official_ukrainian.txt](credits/credits_acc32_official_english.txt) is missing.
+- [credits_marine_academy_ukrainian.txt](credits/credits_marine_academy_english.txt) is missing.
 - [credits_namhumanum_ukrainian.txt](credits/credits_namhumanum_english.txt) is missing.
 - [deathmatch_credits_ukrainian.txt](credits/deathmatch_credits_english.txt) is missing.
 - [rd-LanasEscapeCredits_ukrainian.txt](credits/rd-LanasEscapeCredits_english.txt) is missing.
@@ -2289,6 +2349,8 @@
 - [landingbaymail1_ukrainian.txt](resource/mail/landingbaymail1_english.txt) is missing.
 - [landingbaymail2_ukrainian.txt](resource/mail/landingbaymail2_english.txt) is missing.
 - [landingbaymail3_ukrainian.txt](resource/mail/landingbaymail3_english.txt) is missing.
+- [ma_pda1_ukrainian.txt](resource/mail/ma_pda1_english.txt) is missing.
+- [ma_pda2_ukrainian.txt](resource/mail/ma_pda2_english.txt) is missing.
 - [minemails1_ukrainian.txt](resource/mail/minemails1_english.txt) is missing.
 - [minemails2_ukrainian.txt](resource/mail/minemails2_english.txt) is missing.
 - [minemails3_ukrainian.txt](resource/mail/minemails3_english.txt) is missing.
@@ -2504,7 +2566,7 @@
 - [chat_vietnamese.txt](resource/chat_vietnamese.txt) has 1 untranslated strings.
 - [closecaption_vietnamese.txt](resource/closecaption_vietnamese.txt) has 2001 untranslated strings.
 - [gameui_vietnamese.txt](resource/gameui_vietnamese.txt) has 605 untranslated strings.
-- [reactivedrop_vietnamese.txt](resource/reactivedrop_vietnamese.txt) has 3810 untranslated strings.
+- [reactivedrop_vietnamese.txt](resource/reactivedrop_vietnamese.txt) has 3834 untranslated strings.
 - [valve_vietnamese.txt](resource/valve_vietnamese.txt) has 224 untranslated strings.
 
 ### Steam Store and Community
@@ -2528,6 +2590,7 @@
 - [asw_credits_vietnamese.txt](credits/asw_credits_english.txt) is missing.
 - [biogen_corporation_credits_vietnamese.txt](credits/biogen_corporation_credits_english.txt) is missing.
 - [credits_acc32_official_vietnamese.txt](credits/credits_acc32_official_english.txt) is missing.
+- [credits_marine_academy_vietnamese.txt](credits/credits_marine_academy_english.txt) is missing.
 - [credits_namhumanum_vietnamese.txt](credits/credits_namhumanum_english.txt) is missing.
 - [deathmatch_credits_vietnamese.txt](credits/deathmatch_credits_english.txt) is missing.
 - [rd-LanasEscapeCredits_vietnamese.txt](credits/rd-LanasEscapeCredits_english.txt) is missing.
@@ -2565,6 +2628,8 @@
 - [acc_research1_vietnamese.txt](resource/mail/acc_research1_english.txt) is missing.
 - [acc_research2_vietnamese.txt](resource/mail/acc_research2_english.txt) is missing.
 - [acc_research3_vietnamese.txt](resource/mail/acc_research3_english.txt) is missing.
+- [ma_pda1_vietnamese.txt](resource/mail/ma_pda1_english.txt) is missing.
+- [ma_pda2_vietnamese.txt](resource/mail/ma_pda2_english.txt) is missing.
 - [nh_officemail1_jacquesmoreau_vietnamese.txt](resource/mail/nh_officemail1_jacquesmoreau_english.txt) is missing.
 - [nh_officemail2_jacquesmoreau_vietnamese.txt](resource/mail/nh_officemail2_jacquesmoreau_english.txt) is missing.
 - [nh_officemail_lindasilva_vietnamese.txt](resource/mail/nh_officemail_lindasilva_english.txt) is missing.
