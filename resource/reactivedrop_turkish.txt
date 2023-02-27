@@ -8130,10 +8130,18 @@
 		"tf_dingalingaling_Squasher"		"Ezici"
 		"[english]tf_dingalingaling_Squasher"		"Squasher"
 		"asw_hud_counter_format"		"%s1: %s2"
-		// %s1 is mapper-specified label text. %s2 is a number.
+		// %s1 is mapper-specified label text. %s2 is a number. %s3 is the amount the number will change by soon.
 		"[english]asw_hud_counter_format"		"%s1: %s2"
+		"asw_hud_counter_format_increase"		"%s1: %s2 +%s3"
+		"[english]asw_hud_counter_format_increase"		"%s1: %s2 +%s3"
+		"asw_hud_counter_format_decrease"		"%s1: %s2 -%s3"
+		"[english]asw_hud_counter_format_decrease"		"%s1: %s2 -%s3"
 		"asw_hud_counter_format_nolabel"		"%s2"
 		"[english]asw_hud_counter_format_nolabel"		"%s2"
+		"asw_hud_counter_format_increase_nolabel"		"%s2 +%s3"
+		"[english]asw_hud_counter_format_increase_nolabel"		"%s2 +%s3"
+		"asw_hud_counter_format_decrease_nolabel"		"%s2 -%s3"
+		"[english]asw_hud_counter_format_decrease_nolabel"		"%s2 -%s3"
 		"asw_money_format"		"$%s1"
 		// The value of money is abstract and there's no references to real-world conversion rates, so feel free to change the currency symbol to something relevant to people who speak your language and optionally add some zeroes at the end.
 		"[english]asw_money_format"		"$%s1"
