@@ -97,8 +97,8 @@ Ecco alcuni momenti salienti dagli aggiornamenti precedenti allo scorso annivers
 [*][b]Paranoia: Posti Ostili:[/b] Corretti i bug relativi alla mira del lanciagranate.
 [*][b]Nam Humanum: Piattaforma XVII:[/b] Corretto il fatto che i soldati bot si rifiutassero di salire sulla piattaforma mobile.
 [*][b]Bunker:[/b] Rimossa la collisione con una trave invisibile sul soffitto.
-		[*][b]Landing Bay + Cargo Elevator:[/b] Fixed a soft lock caused by completing the objectives out of the intended order.
-		[*][b]IAF Marine Academy:[/b] Added a new official Endless mission.
+[*][b]Baia d'Atterraggio + Ascensore da Carico:[/b] Corretto un soft lock causato dal completamento degli obiettivi fuori ordine.
+[*][b]Accademia Militare IAF:[/b] Aggiunta una nuova missione infinita ufficiale.
 [*]Tutte le missioni ufficiali sono state dotate di schermate di caricamento personalizzate.
 [/list]
 
@@ -142,7 +142,7 @@ Ecco alcuni momenti salienti dagli aggiornamenti precedenti allo scorso annivers
 [*]Le sfide ora possono impostare "required_on_client" "1" se desiderano includere le risorse, il che farà sì che l'addon del workshop venga scaricato automaticamente quando la sfida viene attivata.
 [*]Le sfide ora possono essere contrassegnate per l'uso in deathmatch con "allowed_mode" "deathmatch". Le sfide che possono essere utilizzate sia in deathmatch che in cooperativa possono specificare anche "allowed_mode" "coop".
 [*]Aggiornata la notifica di sblocco dell'arma per includere una descrizione. Questa schermata viene ora utilizzata anche per le medaglie sbloccate attraverso il gioco.
-		[*]Added advanced settings to highlight your character, play sounds when you hurt an enemy, and more!
+[*]Aggiunte impostazioni avanzate per evidenziare il tuo personaggio, riprodurre suoni quando ferisci un nemico e altro ancora!
 [/list]
 
 [h2]Mapping[/h2]
