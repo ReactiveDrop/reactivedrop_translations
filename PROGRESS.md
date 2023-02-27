@@ -8,7 +8,7 @@
 | [Dutch](#non-curated-languages) | 49 | 2001 | 10 | 2309 | 194 | 460 | 272 | 147 |
 | [Finnish](#non-curated-languages) | 49 | 2001 | 10 | 2309 | 194 | 460 | 272 | 147 |
 | [French](#french-français) | 25 | 126 | 10 | 1661 | 194 | 394 | 258 | 126 |
-| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | 38 | 3 | ✔️ | ✔️ | 3 |
+| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | 4 | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Hungarian](#non-curated-languages) | 49 | 126 | 10 | 2309 | 194 | 725 | 272 | 148 |
 | [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | 3 | ✔️ | ✔️ | ✔️ |
 | [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | 12 | 3 | 35 | ✔️ | ✔️ |
@@ -980,17 +980,7 @@
 
 ### Strings
 
-- [statsweb_german.vdf](community/stats_website/statsweb_german.vdf) has 3 untranslated strings.
-- [reactivedrop_german.txt](resource/reactivedrop_german.txt) has 38 untranslated strings.
-
-### Upcoming Release Notes
-
-- [20230420_german.xml](release_notes/20230420_german.xml) has 3 indented lines.
-
-### Mail and News
-
-- [ma_pda1_german.txt](resource/mail/ma_pda1_english.txt) is missing.
-- [ma_pda2_german.txt](resource/mail/ma_pda2_english.txt) is missing.
+- [reactivedrop_german.txt](resource/reactivedrop_german.txt) has 4 untranslated strings.
 
 </details>
 
