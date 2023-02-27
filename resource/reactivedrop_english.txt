@@ -3863,8 +3863,8 @@
 "rd_mission_title_rd-acc_complex"	"AMBER Complex"
 "rd_mission_desc_rd-acc_complex"	"Navigate through the AMBER Complex."
 
-"rd_mission_title_marine_academy"	"IAF Marine Academy"
-"rd_mission_desc_marine_academy"	"Welcome to IAF Marine Academy. An advanced marine-training tool created with the assistance of SynTek to prepare soldiers for combat against aliens."
+"rd_mission_title_rd-ht-marine_academy"	"IAF Marine Academy"
+"rd_mission_desc_rd-ht-marine_academy"	"Welcome to IAF Marine Academy. An advanced marine-training tool created with the assistance of SynTek to prepare soldiers for combat against aliens."
 
 // TODO
 "rd_entrymission_title_rd_adanaxis"	""
