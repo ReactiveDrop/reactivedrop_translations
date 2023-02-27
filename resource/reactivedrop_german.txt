@@ -8142,7 +8142,7 @@
 "[english]asw_hud_counter_format_increase_nolabel"		"%s2 +%s3"
 "asw_hud_counter_format_decrease_nolabel"		"%s2 -%s3"
 "[english]asw_hud_counter_format_decrease_nolabel"		"%s2 -%s3"
-"asw_money_format"		"€%s1"
+"asw_money_format"		"%s1 €"
 // The value of money is abstract and there's no references to real-world conversion rates, so feel free to change the currency symbol to something relevant to people who speak your language and optionally add some zeroes at the end.
 "[english]asw_money_format"		"$%s1"
 }
