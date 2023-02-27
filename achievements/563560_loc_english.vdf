@@ -396,12 +396,12 @@
 		"NEW_ACHIEVEMENT_2557_24_NAME"	"Battle-Tested"
 		"NEW_ACHIEVEMENT_2557_24_DESC"	"Die in 25 different ways."
 		"NEW_ACHIEVEMENT_2557_25_NAME"	"IAF Cadet"
-		"NEW_ACHIEVEMENT_2557_25_DESC"	""
+		"NEW_ACHIEVEMENT_2557_25_DESC"	"Finish Marine Academy with a score of at least 100 points."
 		"NEW_ACHIEVEMENT_2557_26_NAME"	"Hot Enough"
-		"NEW_ACHIEVEMENT_2557_26_DESC"	""
+		"NEW_ACHIEVEMENT_2557_26_DESC"	"Finish the volcano zone in Marine Academy without any marines dying."
 		"NEW_ACHIEVEMENT_2557_27_NAME"	"World Traveler"
-		"NEW_ACHIEVEMENT_2557_27_DESC"	""
-		"NEW_ACHIEVEMENT_2557_28_NAME"	"" //""
-		"NEW_ACHIEVEMENT_2557_28_DESC"	"" //""
+		"NEW_ACHIEVEMENT_2557_27_DESC"	"Visit each zone (not including the lobby) in Marine Academy exactly once."
+		"NEW_ACHIEVEMENT_2557_28_NAME"	"No Time To Waste"
+		"NEW_ACHIEVEMENT_2557_28_DESC"	"In Lab Ruins, defeat the Muon Gem boss in three hits."
 	}
 }
