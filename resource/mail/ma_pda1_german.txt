@@ -1,0 +1,30 @@
+GAME
+{
+// pda belongs to Ed Savage
+
+// Inbox
+
+"MailFrom1"		"Von: Nicholas Gray"
+"MailDate1"		"Datum: 11/22/28"
+"MailSubject1"	"Betreff: SynTek hat wieder zugeschlagen"
+"MailBody1A"	"Dieses Mal fordert SynTek die interstellaren Koordinaten für die Vulkanzone an. Aus irgendeinem Grund hat vor allem diese Zone ihr Interesse geweckt. Haben sie noch nie einen Vulkan gesehen? Es gibt sie auf vielen Planeten."
+"MailBody1B"	"Ich bin mir sicher dass es nichts ist, auch wenn es seltsam ist dass SynTek versucht sich in diese Operation einzumischen."
+"MailBody1C"	"Und noch etwas: Bevor wir die Akademie für die Öffentlichkeit öffnen, verlangen sie eine Diagnose unserer Teleporter, um sicherzustellen, dass sie das Bewusstsein einer Person erhalten. Das muss man ihnen lassen, das ist eine berechtigte Sorge. Ich möchte nicht selbst durch diese Teleporter gehen, bevor ich weiß, dass sie sicher sind."
+
+"MailFrom2"		"Von: Brian Howe"
+"MailDate2"		"Datum: 02/15/29"
+"MailSubject2"	"Betreff: Aw: Antrag auf Schließung der Zone 3"
+"MailBody2A"	"Entschuldigung für die späte Antwort Mr. Savage"
+"MailBody2B"	"Im Namen von SynTek bedauern wir den Verlust Ihrer Soldaten sehr. Zone 3 wurde geschlossen."
+"MailBody2C"	"Was die von Ihnen vorgeschlagene Alternative angeht, sind wir anderer Meinung - die Dimension der Leere ist extrem schwer zu erreichen und erfordert teure Teleporter. Außerdem könnten die Soldaten in dieser Dimension abgelenkt werden, wenn Sie wissen was wir meinen."
+"MailBody2D"	"          - Nachricht von [SynTek] weitergeleitet durch [Brian Howe]"
+
+// Sent
+
+"MailFrom3"		"An: SynTek"
+"MailDate3"		"Datum: 01/10/29"
+"MailSubject3"	"Betreff: Antrag auf Schließung der Zone 3"
+"MailBody3A"	"Die Testgruppe 3 hat einen Einsturz in Zone 3 aufgrund eines Asteroideneinschlags gemeldet."
+"MailBody3B"	"Mögliche Ursache: Starker Materialverbrauch hat die Flugbahn des Raumschiffs abgelenkt."
+"MailBody3C"	"Möglicher Ersatz: die Dimension der Leere."
+}
