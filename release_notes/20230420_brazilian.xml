@@ -96,7 +96,11 @@ Aqui estão alguns destaques das atualizações desde o aniversário anterior:
 		[*][b]Lana's Escape: Lana's Sewer:[/b] The radioactive barrels in the arena deal more damage to menders.
 [*][b]Paranoia: Unexpected Encounter:[/b] Corrigido bugs relacionados à mira do lançador de granadas.
 [*][b]Paranoia: Hostile Places:[/b] Corrigido bugs relacionados à mira do lançador de granadas.
+		[*][b]Nam Humanum: Logistics Area:[/b] Increased speed run time limit from 1:10 to 1:15.
+		[*][b]Nam Humanum: Platform XVII:[/b] Increased speed run time limit from 3:02 to 3:10.
 		[*][b]Nam Humanum: Platform XVII:[/b] Fixed bot marines refusing to stand on the moving platform.
+		[*][b]BioGen Corporation: Operation x5:[/b] Increased speed run time limit from 3:28 to 3:35.
+		[*][b]BioGen Corporation: Invisible Threat:[/b] Increased speed run time limit from 1:13 to 1:20.
 [*][b]Bunker:[/b] Removido a colisão de uma viga de teto invisível.
 		[*][b]Landing Bay + Cargo Elevator:[/b] Fixed a soft lock caused by completing the objectives out of the intended order.
 		[*][b]IAF Marine Academy:[/b] Added a new official Endless mission.
@@ -188,6 +192,7 @@ Aqui estão alguns destaques das atualizações desde o aniversário anterior:
 		[*]Added asw_weapon_ar2 and asw_ammo_ar2. The Pulse Rifle can only refill ammo from these specific ammo packs and cannot use generic ammo stashes.
 		[*]Added asw_ammo_grenade_launcher, asw_ammo_sniper_rifle, and asw_ammo_heavy_rifle.
 		[*]Added info_marine_hint_dynamic, which can be assigned a parent and moved.
+		[*]Added rd_hud_counter, which can be used to display an dynamic arbitrary number to all players or to one specific player.
 [/list]
 
 [h2]VScript[/h2]

@@ -95,7 +95,11 @@ TODO
 [*][b]Lana's Escape: Lana's Sewer:[/b] アリーナにある放射性物質のドラム缶がメンダーに与えるダメージを増加。
 [*][b]Paranoia: Unexpected Encounter:[/b] グレネードランチャーのエイムに関するバグを修正。
 [*][b]Paranoia: Hostile Places:[/b] グレネードランチャーのエイムに関するバグを修正。
+		[*][b]Nam Humanum: Logistics Area:[/b] Increased speed run time limit from 1:10 to 1:15.
+		[*][b]Nam Humanum: Platform XVII:[/b] Increased speed run time limit from 3:02 to 3:10.
 [*][b]Nam Humanum: Platform XVII:[/b] BOT操作の隊員が移動プラットフォームに乗ろうとしないのを修正。
+		[*][b]BioGen Corporation: Operation x5:[/b] Increased speed run time limit from 3:28 to 3:35.
+		[*][b]BioGen Corporation: Invisible Threat:[/b] Increased speed run time limit from 1:13 to 1:20.
 [*][b]Bunker:[/b] 天井の見えない梁の衝突判定を削除。
 [*][b]Landing BayとCargo Elevator:[/b] 想定外の順番で目標を達成することで進行不能になるのを修正。
 [*][b]IAF Marine Academy:[/b] 公式エンドレスミッションを追加。
@@ -187,6 +191,7 @@ TODO
 [*]asw_weapon_ar2、asw_ammo_ar2を追加。パルスライフルはこれらの専用弾薬パックでしか補給できず、通常の弾薬箱は使用できない。
 [*]asw_ammo_grenade_launcher、asw_ammo_sniper_rifle、asw_ammo_heavy_rifleを追加。
 [*]parentの割り振りと移動が可能なinfo_marine_hint_dynamicを追加。
+		[*]Added rd_hud_counter, which can be used to display an dynamic arbitrary number to all players or to one specific player.
 [/list]
 
 [h2]VScript[/h2]
