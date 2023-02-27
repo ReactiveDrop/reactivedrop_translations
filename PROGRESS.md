@@ -10,7 +10,7 @@
 | [French](#french-français) | 25 | 126 | 10 | 1661 | 191 | 394 | 258 | 126 |
 | [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | 38 | ✔️ | ✔️ | ✔️ | 3 |
 | [Hungarian](#non-curated-languages) | 49 | 126 | 10 | 2309 | 191 | 725 | 272 | 148 |
-| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | 71 | ✔️ | ✔️ | ✔️ | 3 |
+| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | 90 | ✔️ | 35 | ✔️ | 3 |
 | [Korean](#koreana-한국어) | 47 | 63 | 6 | 1174 | 43 | 288 | 258 | 53 |
 | [Norwegian Bokmål](#non-curated-languages) | 67 | 701 | 15 | 3029 | 191 | 460 | 341 | 148 |
@@ -998,18 +998,7 @@
 
 </summary>
 
-### Strings
-
-- [reactivedrop_italian.txt](resource/reactivedrop_italian.txt) has 71 untranslated strings.
-
-### Upcoming Release Notes
-
-- [20230420_italian.xml](release_notes/20230420_italian.xml) has 3 indented lines.
-
-### Mail and News
-
-- [ma_pda1_italian.txt](resource/mail/ma_pda1_english.txt) is missing.
-- [ma_pda2_italian.txt](resource/mail/ma_pda2_english.txt) is missing.
+✓ Up to date!
 
 </details>
 
