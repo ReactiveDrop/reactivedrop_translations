@@ -10,8 +10,8 @@
 | [French](#french-français) | 25 | 126 | 10 | 1661 | 194 | 394 | 258 | 126 |
 | [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | 4 | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Hungarian](#non-curated-languages) | 49 | 126 | 10 | 2309 | 194 | 725 | 272 | 148 |
-| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | 3 | ✔️ | ✔️ | ✔️ |
-| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | 12 | 3 | 35 | ✔️ | ✔️ |
+| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | 2 | 3 | ✔️ | ✔️ | ✔️ |
+| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | 14 | 3 | 35 | ✔️ | ✔️ |
 | [Korean](#koreana-한국어) | 47 | 63 | 6 | 1174 | 46 | 288 | 258 | 53 |
 | [Norwegian Bokmål](#non-curated-languages) | 67 | 701 | 15 | 3029 | 194 | 460 | 341 | 148 |
 | [Polish](#polish-polski) | 26 | 2001 | 10 | 2309 | 194 | 460 | 272 | 148 |
@@ -993,6 +993,7 @@
 ### Strings
 
 - [statsweb_italian.vdf](community/stats_website/statsweb_italian.vdf) has 3 untranslated strings.
+- [reactivedrop_italian.txt](resource/reactivedrop_italian.txt) has 2 untranslated strings.
 
 </details>
 
@@ -1006,7 +1007,7 @@
 
 - [statsweb_japanese.vdf](community/stats_website/statsweb_japanese.vdf) has 3 untranslated strings.
 - [vgui_japanese.txt](platform/vgui_japanese.txt) has 35 untranslated strings.
-- [reactivedrop_japanese.txt](resource/reactivedrop_japanese.txt) has 12 untranslated strings.
+- [reactivedrop_japanese.txt](resource/reactivedrop_japanese.txt) has 14 untranslated strings.
 
 </details>
 
