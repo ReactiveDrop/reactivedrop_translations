@@ -15,7 +15,7 @@ GAME
 "MailBody2A"	"Scusi per la risposta tardiva, signor Savage"
 "MailBody2B"	"A nome della SynTek, siamo terribilmente dispiaciuti per la perdita dei vostri soldati. La Zona 3 è stata chiusa."
 "MailBody2C"	"Per quanto riguarda l'alternativa proposta, non siamo d'accordo: la dimensione del vuoto è estremamente difficile da raggiungere e richiederebbe costosi teletrasporti. Inoltre, i soldati potrebbero distrarsi in quella dimensione, se capite cosa intendiamo."
-"MailBody2D"	"          - Messaggio inoltrato della SynTek da Brian Howe."
+"MailBody2D"	"          - Messaggio inoltrato della [SynTek] da [Brian Howe]"
 
 "MailFrom3"		"A: SynTek"
 "MailDate3"		"Data: 10/01/29"
