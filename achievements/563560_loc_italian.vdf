@@ -395,5 +395,13 @@
 		"NEW_ACHIEVEMENT_2557_23_DESC"	"Completa la campagna Adanaxis, a difficoltà Normale o superiore, senza che nessun soldato muoia."
 		"NEW_ACHIEVEMENT_2557_24_NAME"	"Testato in Battaglia"
 		"NEW_ACHIEVEMENT_2557_24_DESC"	"Muori in 25 modi diversi."
+		"NEW_ACHIEVEMENT_2557_25_NAME"	"Cadetto IAF"
+		"NEW_ACHIEVEMENT_2557_25_DESC"	"Concludi l'Accademia Militare con un punteggio minimo di 100 punti."
+		"NEW_ACHIEVEMENT_2557_26_NAME"	"È Abbastanza Caldo"
+		"NEW_ACHIEVEMENT_2557_26_DESC"	"Concludi la zona vulcanica nell'Accademia Militare senza che nessun soldato muoia."
+		"NEW_ACHIEVEMENT_2557_27_NAME"	"Viaggiatore del Mondo"
+		"NEW_ACHIEVEMENT_2557_27_DESC"	"Visita ogni zona (esclusa la lobby) nell'Accademia Militare esattamente una volta."
+		"NEW_ACHIEVEMENT_2557_28_NAME"	"Non c'è Tempo da Perdere"
+		"NEW_ACHIEVEMENT_2557_28_DESC"	"In Rovine del Laboratorio, sconfiggi il boss Muon Gem con tre colpi."
 	}
 }

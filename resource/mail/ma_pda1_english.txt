@@ -15,7 +15,7 @@ GAME
 "MailBody2A"	"Sorry for the late response Mr. Savage"
 "MailBody2B"	"On behalf of SynTek, we are terribly sorry for the loss of your marines. Zone 3 has been closed."
 "MailBody2C"	"Regarding your proposed alternative, we disagree - void dimension is extremely hard to access and will require expensive teleporters. Besides, marines might get distracted in that dimension, if you know what we mean."
-"MailBody2D"	"          - Message forwarded from SynTek by Brian Howe."
+"MailBody2D"	"          - Message forwarded from [SynTek] by [Brian Howe]"
 
 "MailFrom3"		"To: SynTek"
 "MailDate3"		"Date: 01/10/29"

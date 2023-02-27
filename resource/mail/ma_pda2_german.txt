@@ -1,0 +1,16 @@
+GAME
+{
+// pda belongs to Maxwell Fierze
+
+// Inbox
+
+"MailFrom1"		"Von: Marine Corps."
+"MailDate1"		"Datum: 12/26/28"
+"MailSubject1"	"Betreff: Seltsame Sichtungen im Waldgebiet"
+"MailBody1A"	"Unsere Rekruten, Testgruppe Nummer 3, haben seltsame Sichtungen im Waldgebiet gemeldet. Ihre Beschreibung: riesige humanoid aussehende Geister am Himmel."
+
+"MailFrom2"		"Von: Marine Corps."
+"MailDate2"		"Datum: 01/09/29"
+"MailSubject2"	"Betreff: Tragödie in der Raumfahrtzone"
+"MailBody2A"	"Unsere Testgruppe Nummer 3 hat auf die harte Tour erfahren, dass die Zone Nummer 3, die Raumfahrtzone, von einem Asteroiden getroffen worden ist. Diese Zone benötigt einen Ersatz. Wenn du den Teleporter nimmst, bist du im Weltraum gestrandet und kannst nicht mehr zurück."
+}

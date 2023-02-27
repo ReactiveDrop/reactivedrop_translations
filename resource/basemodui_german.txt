@@ -530,7 +530,7 @@
 "L4D360UI_MainMenu_CoOp"		"FELDZUG SPIELEN"
 //Main Menu
 "[english]L4D360UI_MainMenu_CoOp"		"PLAY ONLINE"
-"L4D360UI_MainMenu_Holdout"		"HOLDOUT-SPIEL SPIELEN"
+"L4D360UI_MainMenu_Holdout"		"DURCHHALTEN-SPIEL SPIELEN"
 "[english]L4D360UI_MainMenu_Holdout"		"PLAY HOLDOUT"
 "L4D360UI_MainMenu_Solo"		"AUSBILDUNG"
 "[english]L4D360UI_MainMenu_Solo"		"OFFLINE PRACTICE"
