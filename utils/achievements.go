@@ -203,6 +203,10 @@ var achievements = [...]achievementData{
 	{2557, 22, "RD_SPEEDRUN_ADA_ANOMALY"},
 	{2557, 23, "RD_CAMPAIGN_NO_DEATHS_ADA"},
 	{2557, 24, "RD_DIE_IN_MANY_WAYS"},
+	{2557, 25, "RD_MA_SCORE_POINTS"},
+	{2557, 26, "RD_MA_REACH_VOLCANO_ALIVE"},
+	{2557, 27, "RD_MA_VISIT_EACH_ZONE"},
+	{2557, 28, "RD_ACC_MUONGEM_KILL"},
 }
 
 var officialChallenges = [...]string{
@@ -275,6 +279,7 @@ var officialMissions = [...]string{
 	"rd-acc5_j5connector",
 	"rd-acc6_labruins",
 	"rd-acc_complex",
+	"rd-ht-marine_academy",
 	"rd-ada_sector_a9",
 	"rd-ada_nexus_subnode",
 	"rd-ada_neon_carnage",

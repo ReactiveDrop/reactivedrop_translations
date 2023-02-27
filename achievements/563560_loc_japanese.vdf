@@ -395,5 +395,13 @@
 		"NEW_ACHIEVEMENT_2557_23_DESC"	"誰も死ぬことなくAdanaxis キャンペーンの難易度ノーマル以上をクリアする。"
 		"NEW_ACHIEVEMENT_2557_24_NAME"	"叩き上げの戦士"
 		"NEW_ACHIEVEMENT_2557_24_DESC"	"25種類の死に方を経験する。"
+		"NEW_ACHIEVEMENT_2557_25_NAME"	"" //"IAF Cadet"
+		"NEW_ACHIEVEMENT_2557_25_DESC"	"" //""
+		"NEW_ACHIEVEMENT_2557_26_NAME"	"" //"Hot Enough"
+		"NEW_ACHIEVEMENT_2557_26_DESC"	"" //""
+		"NEW_ACHIEVEMENT_2557_27_NAME"	"" //"World Traveler"
+		"NEW_ACHIEVEMENT_2557_27_DESC"	"" //""
+		"NEW_ACHIEVEMENT_2557_28_NAME"	"" //""
+		"NEW_ACHIEVEMENT_2557_28_DESC"	"" //""
 	}
 }
