@@ -395,5 +395,13 @@
 		"NEW_ACHIEVEMENT_2557_23_DESC"	"誰も死ぬことなくAdanaxis キャンペーンの難易度ノーマル以上をクリアする。"
 		"NEW_ACHIEVEMENT_2557_24_NAME"	"叩き上げの戦士"
 		"NEW_ACHIEVEMENT_2557_24_DESC"	"25種類の死に方を経験する。"
+		"NEW_ACHIEVEMENT_2557_25_NAME"	"夢中な宇宙戦士"
+		"NEW_ACHIEVEMENT_2557_25_DESC"	"Marine Academyを100以上のスコアを獲得して完了する。"
+		"NEW_ACHIEVEMENT_2557_26_NAME"	"十分にアツくなってる"
+		"NEW_ACHIEVEMENT_2557_26_DESC"	"Marine Academyの火山ゾーンを誰も死なずにクリアする。"
+		"NEW_ACHIEVEMENT_2557_27_NAME"	"世界旅行者"
+		"NEW_ACHIEVEMENT_2557_27_DESC"	"Marine Academyの全てのゾーン(ロビーを除く)をちょうど1回ずつ通る。"
+		"NEW_ACHIEVEMENT_2557_28_NAME"	"時間が惜しい"
+		"NEW_ACHIEVEMENT_2557_28_DESC"	"Lab Ruinsのミッションで、ミュー粒子結晶のボスを3回の攻撃で倒す。"
 	}
 }

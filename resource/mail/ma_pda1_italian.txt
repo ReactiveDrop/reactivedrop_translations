@@ -1,0 +1,26 @@
+GAME
+{
+// pda belongs to Ed Savage
+
+"MailFrom1"		"Da: Nicholas Gray"
+"MailDate1"		"Data: 22/11/28"
+"MailSubject1"	"Oggetto: SynTek di nuovo all'attacco"
+"MailBody1A"	"Questa volta la SynTek richiede le coordinate interstellari della zona del vulcano. Per qualche motivo quella zona in particolare ha suscitato il loro interesse. Non hanno mai visto un vulcano? Molti pianeti ne hanno."
+"MailBody1B"	"In ogni caso sono sicuro che non si tratta di nulla, anche se è strano che la SynTek cerchi di essere coinvolta in questa operazione."
+"MailBody1C"	"E un'altra cosa: prima di aprire l'accademia al pubblico, chiedono di fare una diagnosi dei nostri teletrasporti per assicurarsi che conservino la coscienza. Devo dargliene atto, è una preoccupazione valida. Non vorrei passare attraverso quei teletrasporti prima di sapere che sono sicuri."
+
+"MailFrom2"		"Da: Brian Howe"
+"MailDate2"		"Data: 15/02/29"
+"MailSubject2"	"Oggetto: Re: Richiesta di chiusura della Zona 3"
+"MailBody2A"	"Scusi per la risposta tardiva, signor Savage"
+"MailBody2B"	"A nome della SynTek, siamo terribilmente dispiaciuti per la perdita dei vostri soldati. La Zona 3 è stata chiusa."
+"MailBody2C"	"Per quanto riguarda l'alternativa proposta, non siamo d'accordo: la dimensione del vuoto è estremamente difficile da raggiungere e richiederebbe costosi teletrasporti. Inoltre, i soldati potrebbero distrarsi in quella dimensione, se capite cosa intendiamo."
+"MailBody2D"	"          - Messaggio inoltrato della [SynTek] da [Brian Howe]"
+
+"MailFrom3"		"A: SynTek"
+"MailDate3"		"Data: 10/01/29"
+"MailSubject3"	"Oggetto: Richiesta di chiusura della Zona 3"
+"MailBody3A"	"Il gruppo di prova 3 ha segnalato un collasso della zona 3 dovuto all'impatto di un asteroide."
+"MailBody3B"	"Possibile causa: l'utilizzo di materiali pesanti ha deviato la traiettoria della nave spaziale."
+"MailBody3C"	"Possibile sostituzione: la dimensione del vuoto."
+}

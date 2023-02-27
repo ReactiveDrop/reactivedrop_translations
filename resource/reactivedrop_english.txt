@@ -1871,7 +1871,12 @@
 "RD_HEAVY_RIFLE_KILLS_NAME"	"Heavy Assault Specialist"
 "RD_MEDICAL_SMG_KILLS_NAME"	"Combat Medic"
 "RD_NH_BONUS_OBJECTIVE_NAME"	"The Choice of Progress"
+// this is a pun on "Space Cadet", which means someone out of touch with reality (as one would be in a training simulation).
+"RD_MA_SCORE_POINTS_NAME"	"IAF Cadet"
+"RD_MA_REACH_VOLCANO_ALIVE_NAME"	"Hot Enough"
+"RD_MA_VISIT_EACH_ZONE_NAME"	"World Traveler"
 "RD_DIE_IN_MANY_WAYS_NAME"	"Battle-Tested"
+"RD_ACC_MUONGEM_KILL_NAME"	"No Time To Waste"
 
 "ASW_KILL_WITHOUT_FRIENDLY_FIRE_DESC"	"Kill 25 drones without friendly fire. Four marines must be present in the mission."
 "ASW_NO_FRIENDLY_FIRE_DESC"	"Complete a mission with no friendly fire incidents. Four marines must be present in the mission."
@@ -2072,7 +2077,11 @@
 "RD_HEAVY_RIFLE_KILLS_DESC"	"Kill 500 Swarm with the Heavy Rifle."
 "RD_MEDICAL_SMG_KILLS_DESC"	"Kill 500 Swarm with the Medical SMG."
 "RD_NH_BONUS_OBJECTIVE_DESC"	"In Groundwork Labs, upload prohibited data to the ship."
+"RD_MA_SCORE_POINTS_DESC"	"Finish Marine Academy with a score of at least 100 points."
+"RD_MA_REACH_VOLCANO_ALIVE_DESC"	"Finish the volcano zone in Marine Academy without any marines dying."
+"RD_MA_VISIT_EACH_ZONE_DESC"	"Visit each zone (not including the lobby) in Marine Academy exactly once."
 "RD_DIE_IN_MANY_WAYS_DESC"	"Die in 25 different ways."
+"RD_ACC_MUONGEM_KILL_DESC"	"In Lab Ruins, defeat the Muon Gem boss in three hits."
 
 "ASW_Custom_Music_Col_Genre"	"Genre"
 "ASW_Custom_Music_Col_Artist"	"Artist"
@@ -3436,6 +3445,7 @@
 "ma_hud_alienblood"	"Alien Blood"
 // context: score gained for completing any of the 6 holdout zones, something like points would work too
 "ma_hud_score"	"Score"
+"ma_hud_zones"	"Zones Completed"
 
 "ma_sign_provision"	"ADVANCED TRAINING PROVISION FOR COMMISSIONED PERSONNEL"
 "ma_sign_shop"	"SHOP"
@@ -3447,8 +3457,8 @@
 "asw_buy_ammo"	"Buy Ammo"
 "asw_buy_medkit"	"Buy Medkit"
 "asw_buy_eca"	"Buy Electrified Armor"
-"asw_buy_freeze"	"Buy Freeze Nades"
-"asw_buy_firemines"	"Buy Firemines"
+"asw_buy_freeze"	"Buy Freeze Grenades"
+"asw_buy_firemines"	"Buy Incendiary Mines"
 "asw_buy_hr"	"Buy Health Regeneration"
 "asw_buy_cmp"	"Buy Currency Multiplier"
 
@@ -3853,8 +3863,8 @@
 "rd_mission_title_rd-acc_complex"	"AMBER Complex"
 "rd_mission_desc_rd-acc_complex"	"Navigate through the AMBER Complex."
 
-"rd_mission_title_marine_academy"	"IAF Marine Academy"
-"rd_mission_desc_marine_academy"	"Welcome to IAF Marine Academy. An advanced marine-training tool created with the assistance of SynTek to prepare soldiers for combat against aliens."
+"rd_mission_title_rd-ht-marine_academy"	"IAF Marine Academy"
+"rd_mission_desc_rd-ht-marine_academy"	"Welcome to IAF Marine Academy. An advanced marine-training tool created with the assistance of SynTek to prepare soldiers for combat against aliens."
 
 // TODO
 "rd_entrymission_title_rd_adanaxis"	""

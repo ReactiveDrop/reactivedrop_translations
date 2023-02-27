@@ -395,5 +395,13 @@
 		"NEW_ACHIEVEMENT_2557_23_DESC"	"Beende den Feldzug \"Adanaxis\" auf Normal, ohne Verluste."
 		"NEW_ACHIEVEMENT_2557_24_NAME"	"Kampferprobt"
 		"NEW_ACHIEVEMENT_2557_24_DESC"	"Stirb auf 25 verschiedene Arten."
+		"NEW_ACHIEVEMENT_2557_25_NAME"	"IAF Kadett"
+		"NEW_ACHIEVEMENT_2557_25_DESC"	"Schließe die Akademie mit einer Punktzahl von mindestens 100 Punkten ab."
+		"NEW_ACHIEVEMENT_2557_26_NAME"	"Heiß genug"
+		"NEW_ACHIEVEMENT_2557_26_DESC"	"Schließe die Vulkanzone in der Akademie ab ohne dass ein Soldat stirbt."
+		"NEW_ACHIEVEMENT_2557_27_NAME"	"Weltenbummler"
+		"NEW_ACHIEVEMENT_2557_27_DESC"	"Besuche jede Zone (außer der Lobby) in der Akademie genau einmal."
+		"NEW_ACHIEVEMENT_2557_28_NAME"	"Keine Zeit zu verschwenden"
+		"NEW_ACHIEVEMENT_2557_28_DESC"	"Besiege in den Labor-Ruinen den Muon-Edelstein-Boss in drei Schlägen."
 	}
 }

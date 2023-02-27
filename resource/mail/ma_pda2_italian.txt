@@ -1,0 +1,14 @@
+GAME
+{
+// pda belongs to Maxwell Fierze
+
+"MailFrom1"		"Da: Corpo Militare"
+"MailDate1"		"Data: 26/12/28"
+"MailSubject1"	"Oggetto: Strani avvistamenti nella zona della foresta"
+"MailBody1A"	"Le nostre reclute, il gruppo di prova numero 3, hanno segnalato alcuni strani avvistamenti nella zona della foresta, la loro descrizione è stata: enormi fantasmi dall'aspetto umanoide nel cielo."
+
+"MailFrom2"		"Da: Corpo Militare"
+"MailDate2"		"Data: 09/01/29"
+"MailSubject2"	"Oggetto: Tragedia nella zona motori spaziali"
+"MailBody2A"	"Il nostro gruppo di prova numero 3 ha capito a sue spese che la zona numero 3, quella dei motori spaziali, è stata colpita da un asteroide. Questa zona ha bisogno di essere sostituita. Prendendo il teletrasporto si rimane bloccati nello spazio senza possibilità di ritorno."
+}
