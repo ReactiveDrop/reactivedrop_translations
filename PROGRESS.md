@@ -11,7 +11,7 @@
 | [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | 38 | ✔️ | ✔️ | ✔️ | 3 |
 | [Hungarian](#non-curated-languages) | 49 | 126 | 10 | 2309 | 191 | 725 | 272 | 148 |
 | [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
-| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | 90 | ✔️ | 35 | ✔️ | 3 |
+| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | 12 | ✔️ | 35 | ✔️ | ✔️ |
 | [Korean](#koreana-한국어) | 47 | 63 | 6 | 1174 | 43 | 288 | 258 | 53 |
 | [Norwegian Bokmål](#non-curated-languages) | 67 | 701 | 15 | 3029 | 191 | 460 | 341 | 148 |
 | [Polish](#polish-polski) | 26 | 2001 | 10 | 2309 | 191 | 460 | 272 | 148 |
@@ -1011,16 +1011,7 @@
 ### Strings
 
 - [vgui_japanese.txt](platform/vgui_japanese.txt) has 35 untranslated strings.
-- [reactivedrop_japanese.txt](resource/reactivedrop_japanese.txt) has 90 untranslated strings.
-
-### Upcoming Release Notes
-
-- [20230420_japanese.xml](release_notes/20230420_japanese.xml) has 3 indented lines.
-
-### Mail and News
-
-- [ma_pda1_japanese.txt](resource/mail/ma_pda1_english.txt) is missing.
-- [ma_pda2_japanese.txt](resource/mail/ma_pda2_english.txt) is missing.
+- [reactivedrop_japanese.txt](resource/reactivedrop_japanese.txt) has 12 untranslated strings.
 
 </details>
 
