@@ -95,11 +95,11 @@ Hier sind einige Highlights der Updates seit dem letzten Jahrestag:
 [*][b]Lanas Flucht: Lanas Abwasserkanal:[/b] Die radioaktiven Fässer in der Arena fügen den Heilern mehr Schaden zu.
 [*][b]Paranoia: Unerwartete Begegnungen:[/b] Fehler im Zusammenhang mit dem Zielen von Granatwerfern wurden behoben.
 [*][b]Paranoia: Feindliche Orte:[/b] Fehler im Zusammenhang mit dem Zielen von Granatwerfern wurden behoben.
-		[*][b]Nam Humanum: Logistics Area:[/b] Increased speed run time limit from 1:10 to 1:15.
-		[*][b]Nam Humanum: Platform XVII:[/b] Increased speed run time limit from 3:02 to 3:10.
+[*][b]Nam Humanum: Logistikgebiet:[/b] Das Zeitlimit für den Speedrun wurde von 1:10 auf 1:15 erhöht.
+[*][b]Nam Humanum: Plattform XVII:[/b] Das Zeitlimit für den Speedrun wurde von 3:02 auf 3:10 erhöht.
 [*][b]Nam Humanum: Plattform XVII:[/b] Es wurde behoben das Bots sich weigerten auf der sich bewegenden Plattform zu stehen.
-		[*][b]BioGen Corporation: Operation x5:[/b] Increased speed run time limit from 3:28 to 3:35.
-		[*][b]BioGen Corporation: Invisible Threat:[/b] Increased speed run time limit from 1:13 to 1:20.
+[*][b]BioGen Gesellschaft: Operation x5:[/b] Das Zeitlimit für den Speedrun wurde von 3:28 auf 3:35 erhöht.
+[*][b]BioGen Gesellschaft: Unsichtbare Bedrohung:[/b] Das Zeitlimit für den Speedrun wurde von 1:13 auf 1:20 erhöht.
 [*][b]Bunker:[/b] Die Kollision mit einem unsichtbaren Deckenbalken wurde entfernt.
 [*][b]Landungsbucht + Lastenaufzug:[/b] Ein Softlock wurde behoben, der durch das Abschließen der Ziele außerhalb der vorgesehenen Reihenfolge verursacht wurde.
 [*][b]IAF Akademie:[/b] Es wurde ein neuer offizieller Endloseinsatz hinzugefügt.
@@ -191,7 +191,7 @@ Hier sind einige Highlights der Updates seit dem letzten Jahrestag:
 [*]asw_weapon_ar2 und asw_ammo_ar2 wurden hinzugefügt. Das Impulsgewehr kann nur Munition aus diesen speziellen Munitionspaketen nachfüllen und kann keine allgemeinen Munitionsvorräte verwenden.
 [*]Es wurden asw_ammo_grenade_launcher, asw_ammo_sniper_rifle und asw_ammo_heavy_rifle hinzugefügt.
 [*]info_marine_hint_dynamic wurde hinzugefügt, dem ein parent zugewiesen und der verschoben werden kann.
-		[*]Added rd_hud_counter, which can be used to display an dynamic arbitrary number to all players or to one specific player.
+[*]Es wurde der rd_hud_counter hinzugefügt, mit dem eine dynamische, beliebige Zahl für alle Spieler oder für einen bestimmten Spieler angezeigt werden kann.
 [/list]
 
 [h2]VScript[/h2]
