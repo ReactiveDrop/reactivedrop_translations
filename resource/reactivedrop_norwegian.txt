@@ -966,6 +966,9 @@
 "[english]asw_take_weapon_format"		"Take %s1"
 "asw_swap_weapon_format"		"Bytt med %s1"
 "[english]asw_swap_weapon_format"		"Swap for %s1"
+		"asw_owned_weapon_format"		"%s1's %s2"
+		// %s1 is player name, %s2 is weapon name. For example, "Robin Walker's Valve Rocket Launcher".
+		"[english]asw_owned_weapon_format"		"%s1's %s2"
 		"asw_t75_arm"		"ARM T75"
 		"[english]asw_t75_arm"		"ARM T75"
 		"asw_t75_armed"		"T75 ARMED"
