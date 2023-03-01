@@ -154,31 +154,31 @@
 			"itemdefid": 7024,
 			"type": "generator",
 			"name": "Random Drop Pool Global Common, Uncommon, or Rare",
-			"bundle": "7022x100000;7038x15000;7023x50"
+			"bundle": "7022x10000;7038x1500;7023x50"
 		},
 		{
 			"itemdefid": 7025,
 			"type": "playtimegenerator",
 			"name": "Random Drop Pool Marine Class Officer",
-			"bundle": "7022x15000;7023x4;6000x1;6010x4;6036x1"
+			"bundle": "7022x1500;7023x4;6000x1;6010x4;6036x1"
 		},
 		{
 			"itemdefid": 7026,
 			"type": "playtimegenerator",
 			"name": "Random Drop Pool Marine Class Special Weapons",
-			"bundle": "7022x15000;7023x4;6002x1;6011x4;6048x1"
+			"bundle": "7022x1500;7023x4;6002x1;6011x4;6048x1"
 		},
 		{
 			"itemdefid": 7027,
 			"type": "playtimegenerator",
 			"name": "Random Drop Pool Marine Class Medic",
-			"bundle": "7022x15000;7023x4;6004x1;6012x4;6050x1"
+			"bundle": "7022x1500;7023x4;6004x1;6012x4;6050x1"
 		},
 		{
 			"itemdefid": 7028,
 			"type": "playtimegenerator",
 			"name": "Random Drop Pool Marine Class Tech",
-			"bundle": "7022x15000;7023x4;6006x1;6013x3;6034x1;6044x1"
+			"bundle": "7022x1500;7023x4;6006x1;6013x3;6034x1;6044x1"
 		},
 		{
 			"itemdefid": 7029,
