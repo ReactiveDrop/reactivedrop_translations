@@ -95,7 +95,11 @@ Ecco alcuni momenti salienti dagli aggiornamenti precedenti allo scorso annivers
 [*][b]Fuga di Lana: Fogna di Lana:[/b] I barili radioattivi nell'arena infliggono più danni ai guaritori.
 [*][b]Paranoia: Incontro Inaspettato:[/b] Corretti i bug relativi alla mira del lanciagranate.
 [*][b]Paranoia: Posti Ostili:[/b] Corretti i bug relativi alla mira del lanciagranate.
+[*][b]Nam Humanum: Area Logistica:[/b] Aumentato il tempo limite della speed run da 1:10 a 1:15.
+[*][b]Nam Humanum: Piattaforma XVII:[/b] Aumentato il tempo limite della speed run da 3:02 a 3:10.
 [*][b]Nam Humanum: Piattaforma XVII:[/b] Corretto il fatto che i soldati bot si rifiutassero di salire sulla piattaforma mobile.
+[*][b]BioGen Corporation: Operazione x5:[/b] Aumentato il tempo limite della speed run da 3:28 a 3:35.
+[*][b]BioGen Corporation: Minaccia Invisibile:[/b] Aumentato il tempo limite della speed run da 1:13 a 1:20.
 [*][b]Bunker:[/b] Rimossa la collisione con una trave invisibile sul soffitto.
 [*][b]Baia d'Atterraggio + Ascensore da Carico:[/b] Corretto un soft lock causato dal completamento degli obiettivi fuori ordine.
 [*][b]Accademia Militare IAF:[/b] Aggiunta una nuova missione infinita ufficiale.
@@ -187,6 +191,7 @@ Ecco alcuni momenti salienti dagli aggiornamenti precedenti allo scorso annivers
 [*]Aggiunti asw_weapon_ar2 e asw_ammo_ar2. Il fucile a impulsi può ricaricare le munizioni solo da questi pacchetti specifici e non può utilizzare le scorte di munizioni generiche.
 [*]Aggiunti asw_ammo_grenade_launcher, asw_ammo_sniper_rifle e asw_ammo_heavy_rifle.
 [*]Aggiunto info_marine_hint_dynamic, che può essere assegnato a un dominio e spostato.
+[*]Aggiunto rd_hud_counter, che può essere utilizzato per far visualizzare un numero dinamico arbitrario a tutti i giocatori o a un giocatore specifico.
 [/list]
 
 [h2]VScript[/h2]

@@ -88,8 +88,6 @@
 			"display_type_vietnamese": "bánh cupcake mèo",
 			"icon_url": "https://stats.reactivedrop.com/static/medals/ben_lubar.png",
 			"icon_url_small": "https://stats.reactivedrop.com/static/medals/ben_lubar_small.png",
-			"tradable": false,
-			"marketable": false,
 			"background_color": "20102E",
 			"name_color": "563560",
 			"tags": "rarity:legendary;slot:medal",
