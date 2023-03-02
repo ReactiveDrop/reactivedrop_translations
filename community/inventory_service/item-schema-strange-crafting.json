@@ -9,8 +9,6 @@
 			"description": "Can be used to remove a Strange Device from an item, making it available to attach to another.\n\nWARNING: This destroys the item and any other Strange Device attached to it. You can only attach the device to a compatible Strange item with fewer than 4 other devices already attached. Extracting a Strange Device will clear its counter.",
 			"display_type": "Single-Use Tool",
 			"icon_url": "https://stats.reactivedrop.com/static/medals/error.png",
-			"tradable": false,
-			"marketable": false,
 			"tags": "rarity:rare;crafting_item:single_use_tool"
 		},
 		{
@@ -20,8 +18,6 @@
 			"description": "Convert any one item you are authorized to access from the IAF armory to Strange. This process does not create any Strange Devices.",
 			"display_type": "Single-Use Tool",
 			"icon_url": "https://stats.reactivedrop.com/static/medals/error.png",
-			"tradable": false,
-			"marketable": false,
 			"tags": "rarity:rare;crafting_item:single_use_tool"
 		},
 		{
@@ -31,8 +27,6 @@
 			"display_type": "Crafting Item",
 			"after_description": "Quantity: %m_unQuantity%",
 			"icon_url": "https://stats.reactivedrop.com/static/medals/error.png",
-			"tradable": false,
-			"marketable": false,
 			"auto_stack": true,
 			"tags": "rarity:common;crafting_item:common_part",
 			"compressed_dynamic_props": "m_unQuantity"
@@ -44,8 +38,6 @@
 			"display_type": "Crafting Item",
 			"after_description": "Quantity: %m_unQuantity%",
 			"icon_url": "https://stats.reactivedrop.com/static/medals/error.png",
-			"tradable": false,
-			"marketable": false,
 			"auto_stack": true,
 			"tags": "rarity:common;crafting_item:common_part",
 			"compressed_dynamic_props": "m_unQuantity"
@@ -57,8 +49,6 @@
 			"display_type": "Crafting Item",
 			"after_description": "Quantity: %m_unQuantity%",
 			"icon_url": "https://stats.reactivedrop.com/static/medals/error.png",
-			"tradable": false,
-			"marketable": false,
 			"auto_stack": true,
 			"tags": "rarity:common;crafting_item:common_part",
 			"compressed_dynamic_props": "m_unQuantity"
@@ -70,8 +60,6 @@
 			"display_type": "Crafting Item",
 			"after_description": "Quantity: %m_unQuantity%",
 			"icon_url": "https://stats.reactivedrop.com/static/medals/error.png",
-			"tradable": false,
-			"marketable": false,
 			"auto_stack": true,
 			"tags": "rarity:common;crafting_item:common_part",
 			"compressed_dynamic_props": "m_unQuantity"
@@ -83,8 +71,6 @@
 			"display_type": "Crafting Item",
 			"after_description": "Quantity: %m_unQuantity%",
 			"icon_url": "https://stats.reactivedrop.com/static/medals/error.png",
-			"tradable": false,
-			"marketable": false,
 			"auto_stack": true,
 			"tags": "rarity:common;crafting_item:common_part",
 			"compressed_dynamic_props": "m_unQuantity"
@@ -96,8 +82,6 @@
 			"display_type": "Crafting Item",
 			"after_description": "Quantity: %m_unQuantity%",
 			"icon_url": "https://stats.reactivedrop.com/static/medals/error.png",
-			"tradable": false,
-			"marketable": false,
 			"auto_stack": true,
 			"tags": "rarity:common;crafting_item:common_part",
 			"compressed_dynamic_props": "m_unQuantity"
@@ -109,8 +93,6 @@
 			"display_type": "Crafting Item",
 			"after_description": "Quantity: %m_unQuantity%",
 			"icon_url": "https://stats.reactivedrop.com/static/medals/error.png",
-			"tradable": false,
-			"marketable": false,
 			"auto_stack": true,
 			"tags": "rarity:common;crafting_item:common_part",
 			"compressed_dynamic_props": "m_unQuantity"
@@ -122,8 +104,6 @@
 			"display_type": "Crafting Item",
 			"after_description": "Quantity: %m_unQuantity%",
 			"icon_url": "https://stats.reactivedrop.com/static/medals/error.png",
-			"tradable": false,
-			"marketable": false,
 			"auto_stack": true,
 			"tags": "rarity:common;crafting_item:ultra_common",
 			"compressed_dynamic_props": "m_unQuantity"
@@ -135,8 +115,6 @@
 			"display_type": "Crafting Item",
 			"after_description": "Quantity: %m_unQuantity%",
 			"icon_url": "https://stats.reactivedrop.com/static/medals/error.png",
-			"tradable": false,
-			"marketable": false,
 			"auto_stack": true,
 			"tags": "rarity:common;crafting_item:ultra_common",
 			"compressed_dynamic_props": "m_unQuantity"
@@ -148,8 +126,6 @@
 			"display_type": "Crafting Item",
 			"after_description": "Quantity: %m_unQuantity%",
 			"icon_url": "https://stats.reactivedrop.com/static/medals/error.png",
-			"tradable": false,
-			"marketable": false,
 			"auto_stack": true,
 			"tags": "rarity:uncommon;crafting_item:alien_part",
 			"compressed_dynamic_props": "m_unQuantity"
@@ -161,8 +137,6 @@
 			"display_type": "Crafting Item",
 			"after_description": "Quantity: %m_unQuantity%",
 			"icon_url": "https://stats.reactivedrop.com/static/medals/error.png",
-			"tradable": false,
-			"marketable": false,
 			"auto_stack": true,
 			"tags": "rarity:uncommon;crafting_item:alien_part",
 			"compressed_dynamic_props": "m_unQuantity"
@@ -174,8 +148,6 @@
 			"display_type": "Crafting Item",
 			"after_description": "Quantity: %m_unQuantity%",
 			"icon_url": "https://stats.reactivedrop.com/static/medals/error.png",
-			"tradable": false,
-			"marketable": false,
 			"auto_stack": true,
 			"tags": "rarity:uncommon;crafting_item:alien_part",
 			"compressed_dynamic_props": "m_unQuantity"
@@ -187,8 +159,6 @@
 			"display_type": "Crafting Item",
 			"after_description": "Quantity: %m_unQuantity%",
 			"icon_url": "https://stats.reactivedrop.com/static/medals/error.png",
-			"tradable": false,
-			"marketable": false,
 			"auto_stack": true,
 			"tags": "rarity:uncommon;crafting_item:alien_part",
 			"compressed_dynamic_props": "m_unQuantity"
@@ -200,8 +170,6 @@
 			"display_type": "Crafting Item",
 			"after_description": "Quantity: %m_unQuantity%",
 			"icon_url": "https://stats.reactivedrop.com/static/medals/error.png",
-			"tradable": false,
-			"marketable": false,
 			"auto_stack": true,
 			"tags": "rarity:rare;crafting_item:computer_part",
 			"compressed_dynamic_props": "m_unQuantity"
@@ -213,8 +181,6 @@
 			"display_type": "Crafting Item",
 			"after_description": "Quantity: %m_unQuantity%",
 			"icon_url": "https://stats.reactivedrop.com/static/medals/error.png",
-			"tradable": false,
-			"marketable": false,
 			"auto_stack": true,
 			"tags": "rarity:rare;crafting_item:computer_part",
 			"compressed_dynamic_props": "m_unQuantity"
@@ -226,8 +192,6 @@
 			"display_type": "Crafting Item",
 			"after_description": "Quantity: %m_unQuantity%",
 			"icon_url": "https://stats.reactivedrop.com/static/medals/error.png",
-			"tradable": false,
-			"marketable": false,
 			"auto_stack": true,
 			"tags": "rarity:rare;crafting_item:computer_part",
 			"compressed_dynamic_props": "m_unQuantity"
@@ -239,8 +203,6 @@
 			"display_type": "Crafting Item",
 			"after_description": "Quantity: %m_unQuantity%",
 			"icon_url": "https://stats.reactivedrop.com/static/medals/error.png",
-			"tradable": false,
-			"marketable": false,
 			"auto_stack": true,
 			"tags": "rarity:common;crafting_item:regional",
 			"compressed_dynamic_props": "m_unQuantity"
@@ -252,8 +214,6 @@
 			"display_type": "Crafting Item",
 			"after_description": "Quantity: %m_unQuantity%",
 			"icon_url": "https://stats.reactivedrop.com/static/medals/error.png",
-			"tradable": false,
-			"marketable": false,
 			"auto_stack": true,
 			"tags": "rarity:common;crafting_item:regional",
 			"compressed_dynamic_props": "m_unQuantity"
@@ -265,8 +225,6 @@
 			"display_type": "Crafting Item",
 			"after_description": "Quantity: %m_unQuantity%",
 			"icon_url": "https://stats.reactivedrop.com/static/medals/error.png",
-			"tradable": false,
-			"marketable": false,
 			"auto_stack": true,
 			"tags": "rarity:common;crafting_item:regional",
 			"compressed_dynamic_props": "m_unQuantity"
@@ -278,8 +236,6 @@
 			"display_type": "Crafting Item",
 			"after_description": "Quantity: %m_unQuantity%",
 			"icon_url": "https://stats.reactivedrop.com/static/medals/error.png",
-			"tradable": false,
-			"marketable": false,
 			"auto_stack": true,
 			"tags": "rarity:common;crafting_item:regional",
 			"compressed_dynamic_props": "m_unQuantity"
@@ -291,8 +247,6 @@
 			"display_type": "Crafting Item",
 			"after_description": "Quantity: %m_unQuantity%",
 			"icon_url": "https://stats.reactivedrop.com/static/medals/error.png",
-			"tradable": false,
-			"marketable": false,
 			"auto_stack": true,
 			"tags": "rarity:common;crafting_item:regional",
 			"compressed_dynamic_props": "m_unQuantity"
@@ -304,8 +258,6 @@
 			"display_type": "Crafting Item",
 			"after_description": "Quantity: %m_unQuantity%",
 			"icon_url": "https://stats.reactivedrop.com/static/medals/error.png",
-			"tradable": false,
-			"marketable": false,
 			"auto_stack": true,
 			"tags": "rarity:common;crafting_item:regional",
 			"compressed_dynamic_props": "m_unQuantity"
@@ -317,8 +269,6 @@
 			"display_type": "Crafting Item",
 			"after_description": "Quantity: %m_unQuantity%",
 			"icon_url": "https://stats.reactivedrop.com/static/medals/error.png",
-			"tradable": false,
-			"marketable": false,
 			"auto_stack": true,
 			"tags": "rarity:common;crafting_item:regional",
 			"compressed_dynamic_props": "m_unQuantity"
@@ -330,8 +280,6 @@
 			"display_type": "Crafting Item",
 			"after_description": "Quantity: %m_unQuantity%",
 			"icon_url": "https://stats.reactivedrop.com/static/medals/error.png",
-			"tradable": false,
-			"marketable": false,
 			"auto_stack": true,
 			"tags": "rarity:common;crafting_item:regional",
 			"compressed_dynamic_props": "m_unQuantity"
