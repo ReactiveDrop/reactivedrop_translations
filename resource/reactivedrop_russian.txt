@@ -266,7 +266,7 @@
 "[english]asw_reloading"		"Reload Speed Bonus"
 "asw_agility"		"Скорость"
 "[english]asw_agility"		"Speed Bonus"
-"asw_points"		"Очки"
+"asw_points"		"Очков"
 "[english]asw_points"		"Points"
 "asw_unspent_points"		"Очки навыков: %s1"
 "[english]asw_unspent_points"		"Skill Points: %s1"
@@ -3091,7 +3091,7 @@
 "asw_holdout_hud_wave"		"Волна: %s1"
 // holdout
 "[english]asw_holdout_hud_wave"		"Wave: %s1"
-"asw_holdout_hud_score"		"Очки: %s1"
+"asw_holdout_hud_score"		"Очков: %s1"
 "[english]asw_holdout_hud_score"		"Score: %s1"
 "asw_holdout_wave_complete"		"%s1-я волна пройдена!"
 "[english]asw_holdout_wave_complete"		"Wave %s1 Complete!"
@@ -6509,7 +6509,7 @@
 "ma_hud_score"		"Счёт"
 // context: score gained for completing any of the 6 holdout zones, something like points would work too
 "[english]ma_hud_score"		"Score"
-"ma_hud_zones"		"Зоны пройдено"
+"ma_hud_zones"		"Зон пройдено"
 "[english]ma_hud_zones"		"Zones Completed"
 "ma_sign_provision"		"ОБЕСПЕЧЕНИЕ ПОВЫШЕНИЯ КВАЛИФИКАЦИИ УПОЛНОМОЧЕННОГО ПЕРСОНАЛА"
 "[english]ma_sign_provision"		"ADVANCED TRAINING PROVISION FOR COMMISSIONED PERSONNEL"
