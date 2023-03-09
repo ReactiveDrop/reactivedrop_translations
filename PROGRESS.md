@@ -8,10 +8,10 @@
 | [Dutch](#non-curated-languages) | 49 | 2001 | 10 | 2338 | 194 | 460 | 272 | 147 |
 | [Finnish](#non-curated-languages) | 49 | 2001 | 10 | 2338 | 194 | 460 | 272 | 147 |
 | [French](#french-français) | 25 | 126 | 10 | 1690 | 194 | 394 | 258 | 126 |
-| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
+| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 1 |
 | [Hungarian](#non-curated-languages) | 49 | 126 | 10 | 2338 | 194 | 725 | 272 | 148 |
-| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
-| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | 12 | ✔️ | 35 | ✔️ | ✔️ |
+| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 1 |
+| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | 12 | ✔️ | 35 | ✔️ | 1 |
 | [Korean](#koreana-한국어) | 47 | 63 | 6 | 1203 | 46 | 288 | 258 | 53 |
 | [Norwegian Bokmål](#non-curated-languages) | 67 | 701 | 15 | 3058 | 194 | 460 | 341 | 148 |
 | [Polish](#polish-polski) | 26 | 2001 | 10 | 2338 | 194 | 460 | 272 | 148 |
@@ -48,7 +48,7 @@
 
 ### Upcoming Release Notes
 
-- [20230420_schinese.xml](release_notes/20230420_schinese.xml) has 84 indented lines.
+- [20230420_schinese.xml](release_notes/20230420_schinese.xml) has 92 indented lines.
 
 ### Credits
 
@@ -978,7 +978,9 @@
 
 </summary>
 
-✓ Up to date!
+### Upcoming Release Notes
+
+- [20230420_german.xml](release_notes/20230420_german.xml) has 8 indented lines.
 
 </details>
 
@@ -988,7 +990,9 @@
 
 </summary>
 
-✓ Up to date!
+### Upcoming Release Notes
+
+- [20230420_italian.xml](release_notes/20230420_italian.xml) has 8 indented lines.
 
 </details>
 
@@ -1002,6 +1006,10 @@
 
 - [vgui_japanese.txt](platform/vgui_japanese.txt) has 35 untranslated strings.
 - [reactivedrop_japanese.txt](resource/reactivedrop_japanese.txt) has 12 untranslated strings.
+
+### Upcoming Release Notes
+
+- [20230420_japanese.xml](release_notes/20230420_japanese.xml) has 8 indented lines.
 
 </details>
 
@@ -1765,7 +1773,7 @@
 
 ### Upcoming Release Notes
 
-- [20230420_brazilian.xml](release_notes/20230420_brazilian.xml) has 84 indented lines.
+- [20230420_brazilian.xml](release_notes/20230420_brazilian.xml) has 92 indented lines.
 
 ### Credits
 
