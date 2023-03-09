@@ -109,9 +109,14 @@ TODO
 [h2]武器[/h2]
 [list]
 [*][b]ML30 レーザー検知地雷:[/b] 投げるアニメーション用にネットワーク予測を改善した。
+		[*][b]l3a Tactical Heavy Armor:[/b] This equipment now changes the appearance of marines wearing it.
 [*][b]CR18 冷凍グレネード:[/b] バザーは凍結すると死亡するようになった。デスマッチモードで海兵隊を凍結させられるようになった。
+		[*][b]K80 Personal Defense Weapon:[/b] This weapon now shows a different icon for magazines on the HUD instead of counting each magazine twice.
 [*][b]M868 フレイマーユニット:[/b] 燃料タンクを拾ってもリロード1回の半分相当しか弾薬が得られなかったのを修正。
+		[*][b]v45 Electric Charged Armor:[/b] This equipment now changes the appearance of marines wearing it.
+		[*][b]IAF Power Fist Attachment:[/b] This equipment now changes the appearance of marines wearing it.
 [*][b]チェーンソー:[/b] BOTがこの武器をより適切な射程で使うようになった。
+		[*][b]MNV34 Nightvision Goggles:[/b] This equipment now changes the appearance of marines wearing it.
 [*][b]TG-05 ガスグレネード:[/b] 他のグレネード類と見分け易くなるようにアイテムの見た目を更新。
 [*][b]フレシェットランチャー (シークレット武器):[/b] 外見が新しくなり、自動追跡ロケット弾ではなく時限式粘着爆弾を発射するようになった。(コンバインのハンターが使用する物と同じ) それに伴い地面と平行ではなく狙った場所に向けて射撃するようになった。
 [*][b]リコシェットライフル (シークレット武器):[/b] 外見が新しくなり、跳弾を発射するのに特殊攻撃ボタンを押したままにする必要は無くなった。代わりに、特殊攻撃ボタンを長押しすることでショットガンの様なバースト射撃モードへの切り替えが可能になった。跳弾は発射した隊員自身にも当たるようになった。
@@ -198,6 +203,9 @@ TODO
 [list]
 [*]海兵隊に新しいメソッドを追加: SetMarineRollsで、マップやチャレンジによって各海兵がそれぞれジャンプできるかどうかを設定できます。
 [*]海兵隊に新しいメソッドを追加: SetNightVisionを使用することで、MNV34を持っているかに関わらず海兵隊の暗視モードを有効にできます。
+		[*]Added methods to marines: IsInfested and IsElectrifiedArmorActive.
+		[*]Added methods to marines: OrderHackArea, OrderUseItem, OrderFollowSquadLeader, OrderHoldPosition, and OrderMoveTo.
+		[*]Fixed GetClips, GetMaxClips, and SetClips on weapons to work properly when the weapon is dropped. It will also return -1 for weapons that can't be reloaded.
 [*]操作可能なNPC(海兵隊など)が新しいメソッドとしてSetControlsを持つようになった。これによりキャラクターを操作や観戦してるプレイヤー用にasw_controlsの値を上書きできる。負の値を設定するとキャラクターはグローバル設定を使用するようになる。
 [*]操作可能なNPCに新しいメソッドを追加: SetGlowによりエイリアンや海兵隊に光る輪郭線を追加できます。この関数を呼び出さずとも普段から光っているキャラクターには影響しません。
 [*]asw_vehicle_jeepはカメラを上書きするメソッドとして、SetCameraControls, SetCameraPitch, SetCameraDist, SetCameraHeight, 及びそれぞれに対応するGet*を持つようになった。負の値を設定すると乗り物はグローバル設定を使用するようになる。
