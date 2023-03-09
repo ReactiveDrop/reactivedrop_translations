@@ -109,9 +109,14 @@ TODO
 [h2]武器[/h2]
 [list]
 [*][b]ML30激光地雷：[/b] 改进了 投掷动画的网络预测。
+		[*][b]l3a Tactical Heavy Armor:[/b] This equipment now changes the appearance of marines wearing it.
 		[*][b]CR18 Freeze Grenades:[/b] Freezing now kills buzzers, and marines can be frozen in Deathmatch mode.
+		[*][b]K80 Personal Defense Weapon:[/b] This weapon now shows a different icon for magazines on the HUD instead of counting each magazine twice.
 [*][b]M868火焰装置：[/b] 修复了 燃料箱只提供一半的弹药装填的问题。
+		[*][b]v45 Electric Charged Armor:[/b] This equipment now changes the appearance of marines wearing it.
+		[*][b]IAF Power Fist Attachment:[/b] This equipment now changes the appearance of marines wearing it.
 [*][b]链锯：[/b] 机器人现在在更合理的范围内使用这种武器。
+		[*][b]MNV34 Nightvision Goggles:[/b] This equipment now changes the appearance of marines wearing it.
 [*][b]TG-05 毒气手雷：[/b] 更新了物品的外观，以帮助区分它与其他类型的手榴弹。
 		[*][b]Flechette Gun (hidden):[/b] This gun has a new appearance and now fires timed sticky explosives (the same ones Combine Hunters fire) rather than auto-aimed rockets. Now fires directly at the aim location rather than parallel to the ground.
 		[*][b]Ricochet Rifle (hidden):[/b] This gun has a new appearance and no longer requires the secondary trigger to be held to bounce shots. Instead, holding the secondary trigger switches the gun to a shotgun-like burst fire mode. Bounced bullets can now hit the marine that fired them.
@@ -199,6 +204,9 @@ TODO
 [list]
 [*]为陆战队增加了一个新的方法:SetMarineRolls，它允许地图和挑战改变单个陆战队是否可以跳跃。
 		[*]Added a new method to marines: SetNightVision, which can be used to enable night vision mode on a marine regardless of whether they have MNV34 Nightvision Goggles.
+		[*]Added methods to marines: IsInfested and IsElectrifiedArmorActive.
+		[*]Added methods to marines: OrderHackArea, OrderUseItem, OrderFollowSquadLeader, OrderHoldPosition, and OrderMoveTo.
+		[*]Fixed GetClips, GetMaxClips, and SetClips on weapons to work properly when the weapon is dropped. It will also return -1 for weapons that can't be reloaded.
 		[*]Inhabitable NPCs (such as marines) have a new method: SetControls, which overrides the value of asw_controls for anyone playing or spectating that character. Negative numbers cause the character to use the global setting.
 		[*]Added a new method to Inhabitable NPCs: SetGlow, which can be used to add glowing outlines to aliens and marines. This does not affect characters that would normally glow without a call to this function.
 [*]asw_vehicle_jeep有方法用相应的Get*方法覆盖它的camera, setcameracontrol, SetCameraPitch, SetCameraDist和SetCameraHeight。设置负值会使车辆使用全局设置。
