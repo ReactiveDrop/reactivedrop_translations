@@ -11,7 +11,7 @@
 | [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 1 |
 | [Hungarian](#non-curated-languages) | 49 | 126 | 10 | 2338 | 194 | 725 | 272 | 148 |
 | [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 1 |
-| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | 12 | ✔️ | 35 | ✔️ | 1 |
+| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | 12 | ✔️ | 35 | ✔️ | ✔️ |
 | [Korean](#koreana-한국어) | 47 | 63 | 6 | 1203 | 46 | 288 | 258 | 53 |
 | [Norwegian Bokmål](#non-curated-languages) | 67 | 701 | 15 | 3058 | 194 | 460 | 341 | 148 |
 | [Polish](#polish-polski) | 26 | 2001 | 10 | 2338 | 194 | 460 | 272 | 148 |
@@ -1006,10 +1006,6 @@
 
 - [vgui_japanese.txt](platform/vgui_japanese.txt) has 35 untranslated strings.
 - [reactivedrop_japanese.txt](resource/reactivedrop_japanese.txt) has 12 untranslated strings.
-
-### Upcoming Release Notes
-
-- [20230420_japanese.xml](release_notes/20230420_japanese.xml) has 8 indented lines.
 
 </details>
 
