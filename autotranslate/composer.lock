@@ -1,0 +1,160 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "69a92137f6fa5857acd653c27ec6af57",
+    "packages": [
+        {
+            "name": "jefs42/libretranslate",
+            "version": "v1.1.1",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/jefs42/libretranslate.git",
+                "reference": "ca301e8914ce11eb22c545c8fed79692df618129"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/jefs42/libretranslate/zipball/ca301e8914ce11eb22c545c8fed79692df618129",
+                "reference": "ca301e8914ce11eb22c545c8fed79692df618129",
+                "shasum": ""
+            },
+            "require": {
+                "ext-curl": "*",
+                "ext-json": "*",
+                "php": "^7.2|^8.0"
+            },
+            "require-dev": {
+                "phpunit/phpunit": "^9.5"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "Jefs42\\": "src"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "GPL-3.0-or-later"
+            ],
+            "authors": [
+                {
+                    "name": "Jeffrey Shilt",
+                    "email": "dev@fortytwo-it.com",
+                    "homepage": "https://fortytwo-it.com"
+                }
+            ],
+            "description": "PHP interface for the open source LibreTranslate project",
+            "keywords": [
+                "libretranslate",
+                "php",
+                "translate"
+            ],
+            "support": {
+                "issues": "https://github.com/jefs42/libretranslate/issues",
+                "source": "https://github.com/jefs42/libretranslate/tree/v1.1.1"
+            },
+            "time": "2022-05-01T20:54:10+00:00"
+        },
+        {
+            "name": "lukezbihlyj/vdf-parser",
+            "version": "1.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/lukezbihlyj/vdf-parser.git",
+                "reference": "13a4e1411052728a7a33e3572648a9eba4bb7f2c"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/lukezbihlyj/vdf-parser/zipball/13a4e1411052728a7a33e3572648a9eba4bb7f2c",
+                "reference": "13a4e1411052728a7a33e3572648a9eba4bb7f2c",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.4.0"
+            },
+            "require-dev": {
+                "phpunit/phpunit": "4.5.*"
+            },
+            "type": "library",
+            "extra": {
+                "branch-alias": {
+                    "dev-master": "1.0.x-dev"
+                }
+            },
+            "autoload": {
+                "psr-4": {
+                    "VdfParser\\": [
+                        "src/"
+                    ]
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "description": "An open-source VDF parser for Valve's proprietary format used in Source games.",
+            "homepage": "https://github.com/lukezbihlyj/vdf-parser",
+            "keywords": [
+                "parser",
+                "valve",
+                "vdf"
+            ],
+            "support": {
+                "issues": "https://github.com/lukezbihlyj/vdf-parser/issues",
+                "source": "https://github.com/lukezbihlyj/vdf-parser/tree/1.0"
+            },
+            "time": "2015-02-13T13:18:15+00:00"
+        },
+        {
+            "name": "mintopia/vdfkeyvalue",
+            "version": "v1.0.1",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/mintopia/vdfkeyvalue.git",
+                "reference": "57e8e60ea808c50a2078b21e0f2d51b6230f3206"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/mintopia/vdfkeyvalue/zipball/57e8e60ea808c50a2078b21e0f2d51b6230f3206",
+                "reference": "57e8e60ea808c50a2078b21e0f2d51b6230f3206",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.5"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "Mintopia\\VDFKeyValue\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Jessica Smith",
+                    "email": "jess@mintopia.net"
+                }
+            ],
+            "description": "Encoder for Valve Software's KeyValue data format",
+            "support": {
+                "issues": "https://github.com/mintopia/vdfkeyvalue/issues",
+                "source": "https://github.com/mintopia/vdfkeyvalue/tree/master"
+            },
+            "time": "2017-05-05T09:21:24+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": [],
+    "plugin-api-version": "2.3.0"
+}

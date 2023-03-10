@@ -1,0 +1,7 @@
+{
+    "require": {
+        "jefs42/libretranslate": "^1.1",
+        "mintopia/vdfkeyvalue": "^1.0",
+        "lukezbihlyj/vdf-parser": "^1.0"
+    }
+}
