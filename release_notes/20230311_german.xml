@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<content><string id="body">Wir bereiten uns immer noch auf die große Geburtstagfeier von Alien Swarm: Reactive Drop am 20. April vor, aber in der Zwischenzeit gibt es einige Fehler, die eher früher als später behoben werden müssen. In ein paar Wochen wird es weitere Korrekturen geben, aber für den Moment sind hier die Änderungen:
+
+[list]
+[*]Mehrere Abstürze wurden behoben.
+[*]Es wurden Sammlerstücke für die Errungenschaften der "Herausragenden Ausführung" für jede Kampagne hinzugefügt.
+[*]Es wurde die Möglichkeit hinzugefügt, 1 $ an den Autor einer offiziellen Kampagne zu spenden. Derzeit sind 3 Kampagnen auf der Liste. Wir werden weitere Kampagnen in dieses System aufnehmen, sobald wir ihre Autoren kontaktieren können.
+[*]Unterstützung für SourceMod-Plugins, die ein Menü anzeigen, wurde hinzugefügt.
+[*]Die Funktion func_rd_no_director_aliens hat ihr Modell beim Spawnen nicht gesetzt.
+[*]Es wurde behoben, dass die linke Bumper-/L1-Taste auf einigen Controllern feststeckte oder nicht funktionierte.
+[*]Spieler, die sich nicht in einer Lobby befinden, werden jetzt als "eine andere Version spielend" angezeigt.
+[*]Die Statistiken für Workshop-Einsätze, die nicht Teil eines Feldzugs sind, wurden nicht aufgezeichnet.
+[*]Es wurde behoben, dass vom Mapper platzierte Decals bei jedem sofortigen Neustart dupliziert werden.
+[*]Die Porträts von NSC-Charakteren bleiben nach einem sofortigen Neustart aktiv.
+[*]Der Workshop-Uploader zeichnete Feldzüge-, Einsätze- und Herausforderungsnamen nicht mehr korrekt auf.
+[/list]</string><string id="subtitle"></string><string id="summary"></string><string id="title">Alien Swarm: Reactive Drop Update - 11. März 2023</string></content>
