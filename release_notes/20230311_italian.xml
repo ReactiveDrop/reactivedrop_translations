@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<content><string id="body">Ci stiamo ancora preparando per la grande celebrazione del compleanno di Alien Swarm: Reactive Drop il 20 aprile, ma nel frattempo ci sono alcuni bug che devono essere risolti al più presto. Ci saranno altre correzioni tra qualche settimana, ma per il momento ecco i cambiamenti:
+
+[list]
+[*]Risolti diversi arresti anomali.
+[*]Aggiunte medaglie per il completamento degli obiettivi Esecuzione Impeccabile per ogni campagna.
+[*]Aggiunta la possibilità di donare 1 dollaro all'autore di una campagna ufficiale. Attualmente ci sono 3 campagne nell'elenco. Aggiungeremo altre campagne a questo sistema non appena saremo in grado di contattare i loro autori.
+[*]Aggiunto il supporto per i plugin SourceMod che visualizzano un menu.
+[*]Corretto il fatto che func_rd_no_director_aliens non imposta il suo modello allo spawn.
+[*]Risolto il problema del dorsale sinistro e del pulsante L1 su alcuni controller che si bloccava o non funzionava.
+[*]Corretto il fatto che i giocatori che non sono in una lobby vengano visualizzati come "giocano in una versione diversa".
+[*]Corretta la mancata registrazione delle statistiche per le missioni del workshop che non fanno parte di una campagna.
+[*]Corretto il problema delle decalcomanie posizionate dal mappatore che si duplicano a ogni riavvio istantaneo.
+[*]Corretti i ritratti dei personaggi PNG che rimangono attivi dopo un riavvio istantaneo.
+[*]Corretto il caricamento del workshop che non registrava correttamente i titoli di campagne, missioni e sfide.
+[/list]</string><string id="subtitle"></string><string id="summary"></string><string id="title">Aggiornamento di Alien Swarm: Reactive Drop - 11 Marzo 2023</string></content>
