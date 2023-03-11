@@ -109,14 +109,14 @@ Hier sind einige Highlights der Updates seit dem letzten Jahrestag:
 [h2]Waffen[/h2]
 [list]
 [*][b]ML30 Laser Haftminen:[/b] Verbesserte Netzvorhersage für Wurfanimation.
-		[*][b]l3a Tactical Heavy Armor:[/b] This equipment now changes the appearance of marines wearing it.
+[*][b]l3a Taktische Schwere Rüstung:[/b] Diese Ausrüstung verändert jetzt das Aussehen seines Trägers.
 [*][b]CR18 Frostgranaten:[/b] Einfrieren tötet jetzt Schnarren. Und Soldaten können im Deathmatch-Modus eingefroren werden.
-		[*][b]K80 Personal Defense Weapon:[/b] This weapon now shows a different icon for magazines on the HUD instead of counting each magazine twice.
+[*][b]K80 Persönliche Defensivwaffe:[/b] Diese Waffe zeigt jetzt ein anderes Symbol für Magazine auf dem HUD an, anstatt jedes Magazin doppelt zu zählen.
 [*][b]M868 Flammenwerfer:[/b] Treibstofftanks, die nur eine halbe Nachladung an Munition liefern wurden behoben.
-		[*][b]v45 Electric Charged Armor:[/b] This equipment now changes the appearance of marines wearing it.
-		[*][b]IAF Power Fist Attachment:[/b] This equipment now changes the appearance of marines wearing it.
+[*][b]v45 Elektrisch geladene Rüstung:[/b] Diese Ausrüstung verändert jetzt das Aussehen seines Trägers.
+[*][b]IAF-Kraftfaust-Aufsatz:[/b] Diese Ausrüstung verändert jetzt das Aussehen seines Trägers.
 [*][b]Kettensäge:[/b] Bots benutzen diese Waffe jetzt aus einer angemesseneren Reichweite.
-		[*][b]MNV34 Nightvision Goggles:[/b] This equipment now changes the appearance of marines wearing it.
+[*][b]MNV34 Nachtsichtgerät:[/b] Diese Ausrüstung verändert jetzt das Aussehen seines Trägers.
 [*][b]TG-05 Gasgranaten:[/b] Das Aussehen des Gegenstandes wurde aktualisiert, um ihn von anderen Granaten zu unterscheiden.
 [*][b]Flechette-Gewehr (versteckt):[/b] Dieses Gewehr hat ein neues Aussehen und verschießt jetzt zeitgesteuerte klebrige Sprengsätze (die gleichen, die Combine Jäger abfeuern) anstelle von Raketen mit automatischer Zielvorrichtung. Schießt jetzt direkt auf den Zielpunkt und nicht mehr parallel zum Boden.
 [*][b]Querschläger-Gewehr (versteckt):[/b] Diese Waffe hat ein neues Aussehen und erfordert nicht mehr, dass der sekundäre Abzug gehalten wird, um Schüsse abprallen zu lassen. Stattdessen, wenn man den zweiten Abzug gedrückt hält, schaltet die Waffe in einen schrotflintenähnlichen Modus um. Abprallende Kugeln können jetzt den Soldaten treffen, der sie abgefeuert hat.
@@ -203,9 +203,9 @@ Hier sind einige Highlights der Updates seit dem letzten Jahrestag:
 [list]
 [*]Den Soldaten wurde eine neue Methode hinzugefügt: SetMarineRolls, mit der Karten und Herausforderungen ändern können, ob einzelne Soldaten springen können.
 [*]Den Soldaten wurde eine neue Methode hinzugefügt: SetNightVision, mit der du den Nachtsichtmodus eines Soldaten aktivieren kannst, unabhängig davon, ob er ein MNV34 Nachtsichtgerät hat.
-		[*]Added methods to marines: IsInfested and IsElectrifiedArmorActive.
-		[*]Added methods to marines: OrderHackArea, OrderUseItem, OrderFollowSquadLeader, OrderHoldPosition, and OrderMoveTo.
-		[*]Fixed GetClips, GetMaxClips, and SetClips on weapons to work properly when the weapon is dropped. It will also return -1 for weapons that can't be reloaded.
+[*]Methoden für Soldaten hinzugefügt: IsInfested und IsElectrifiedArmorActive.
+[*]Methoden für Soldaten hinzugefügt: OrderHackArea, OrderUseItem, OrderFollowSquadLeader, OrderHoldPosition, und OrderMoveTo.
+[*]Die Funktionen GetClips, GetMaxClips und SetClips für Waffen funktionieren jetzt richtig, wenn die Waffe fallen gelassen wird. Außerdem wird bei Waffen, die nicht nachgeladen werden können, -1 zurückgegeben.
 [*]Bewohnbare NSCs (wie Soldaten) haben eine neue Methode: SetControls, die den Wert von asw_controls für alle Spieler oder Zuschauer des Charakters überschreibt. Negative Zahlen bewirken, dass der Charakter die globale Einstellung verwendet.
 [*]Es wurde eine neue Methode für bewohnbare NSCs hinzugefügt: SetGlow, mit der du Aliens und Soldaten leuchtende Umrisse hinzufügen kannst. Dies betrifft keine Charaktere, die normalerweise ohne einen Aufruf dieser Funktion leuchten würden.
 [*]asw_vehicle_jeep hat Methoden zum Überschreiben seiner Kamera, SetCameraControls, SetCameraPitch, SetCameraDist und SetCameraHeight, mit entsprechenden Get*-Methoden. Wenn man einen negativen Wert einstellt, verwendet das Fahrzeug die globale Einstellung.
