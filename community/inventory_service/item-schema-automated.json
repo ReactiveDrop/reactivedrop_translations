@@ -427,7 +427,7 @@
 			"icon_url_small": "https://stats.reactivedrop.com/static/medals/outstanding/jacob_small.png",
 			"name_color": "B0C3D9",
 			"tags": "rarity:common;slot:medal",
-			"promo_": "ach:ASW_CAMPAIGN_NO_DEATHS",
+			"promo": "ach:ASW_CAMPAIGN_NO_DEATHS",
 			"item_slot": "medal"
 		},
 		{
@@ -459,7 +459,7 @@
 			"icon_url_small": "https://stats.reactivedrop.com/static/medals/outstanding/area9800_small.png",
 			"name_color": "B0C3D9",
 			"tags": "rarity:common;slot:medal",
-			"promo_": "ach:RD_CAMPAIGN_NO_DEATHS_AREA9800",
+			"promo": "ach:RD_CAMPAIGN_NO_DEATHS_AREA9800",
 			"item_slot": "medal"
 		},
 		{
@@ -491,7 +491,7 @@
 			"icon_url_small": "https://stats.reactivedrop.com/static/medals/outstanding/cleansweep_small.png",
 			"name_color": "B0C3D9",
 			"tags": "rarity:common;slot:medal",
-			"promo_": "ach:RD_CAMPAIGN_NO_DEATHS_OCS",
+			"promo": "ach:RD_CAMPAIGN_NO_DEATHS_OCS",
 			"item_slot": "medal"
 		},
 		{
@@ -523,7 +523,7 @@
 			"icon_url_small": "https://stats.reactivedrop.com/static/medals/outstanding/lana_small.png",
 			"name_color": "B0C3D9",
 			"tags": "rarity:common;slot:medal",
-			"promo_": "ach:RD_CAMPAIGN_NO_DEATHS_LAN",
+			"promo": "ach:RD_CAMPAIGN_NO_DEATHS_LAN",
 			"item_slot": "medal"
 		},
 		{
@@ -555,7 +555,7 @@
 			"icon_url_small": "https://stats.reactivedrop.com/static/medals/outstanding/paranoia_small.png",
 			"name_color": "B0C3D9",
 			"tags": "rarity:common;slot:medal",
-			"promo_": "ach:RD_CAMPAIGN_NO_DEATHS_PAR",
+			"promo": "ach:RD_CAMPAIGN_NO_DEATHS_PAR",
 			"item_slot": "medal"
 		},
 		{
@@ -587,7 +587,7 @@
 			"icon_url_small": "https://stats.reactivedrop.com/static/medals/outstanding/research7_small.png",
 			"name_color": "B0C3D9",
 			"tags": "rarity:common;slot:medal",
-			"promo_": "ach:RD_CAMPAIGN_NO_DEATHS_RES",
+			"promo": "ach:RD_CAMPAIGN_NO_DEATHS_RES",
 			"item_slot": "medal"
 		},
 		{
@@ -619,7 +619,7 @@
 			"icon_url_small": "https://stats.reactivedrop.com/static/medals/outstanding/tarnor_small.png",
 			"name_color": "B0C3D9",
 			"tags": "rarity:common;slot:medal",
-			"promo_": "ach:RD_CAMPAIGN_NO_DEATHS_TFT",
+			"promo": "ach:RD_CAMPAIGN_NO_DEATHS_TFT",
 			"item_slot": "medal"
 		},
 		{
@@ -651,7 +651,7 @@
 			"icon_url_small": "https://stats.reactivedrop.com/static/medals/outstanding/tilarus_small.png",
 			"name_color": "B0C3D9",
 			"tags": "rarity:common;slot:medal",
-			"promo_": "ach:RD_CAMPAIGN_NO_DEATHS_TIL",
+			"promo": "ach:RD_CAMPAIGN_NO_DEATHS_TIL",
 			"item_slot": "medal"
 		},
 		{
@@ -683,7 +683,7 @@
 			"icon_url_small": "https://stats.reactivedrop.com/static/medals/outstanding/biogen_small.png",
 			"name_color": "B0C3D9",
 			"tags": "rarity:common;slot:medal",
-			"promo_": "ach:RD_CAMPAIGN_NO_DEATHS_BIO",
+			"promo": "ach:RD_CAMPAIGN_NO_DEATHS_BIO",
 			"item_slot": "medal"
 		},
 		{
@@ -715,7 +715,7 @@
 			"icon_url_small": "https://stats.reactivedrop.com/static/medals/outstanding/namhumanum_small.png",
 			"name_color": "B0C3D9",
 			"tags": "rarity:common;slot:medal",
-			"promo_": "ach:RD_CAMPAIGN_NO_DEATHS_NH",
+			"promo": "ach:RD_CAMPAIGN_NO_DEATHS_NH",
 			"item_slot": "medal"
 		},
 		{
@@ -747,7 +747,7 @@
 			"icon_url_small": "https://stats.reactivedrop.com/static/medals/outstanding/accident32_small.png",
 			"name_color": "B0C3D9",
 			"tags": "rarity:common;slot:medal",
-			"promo_": "ach:RD_CAMPAIGN_NO_DEATHS_ACC",
+			"promo": "ach:RD_CAMPAIGN_NO_DEATHS_ACC",
 			"item_slot": "medal"
 		},
 		{
@@ -779,7 +779,7 @@
 			"icon_url_small": "https://stats.reactivedrop.com/static/medals/error.png",
 			"name_color": "B0C3D9",
 			"tags": "rarity:common;slot:medal",
-			"promo_": "ach:RD_CAMPAIGN_NO_DEATHS_ADA",
+			"promo": "ach:RD_CAMPAIGN_NO_DEATHS_ADA",
 			"item_slot": "medal"
 		},
 		{
