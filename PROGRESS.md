@@ -1,30 +1,30 @@
 # Overview
 | Language | basemodui | closecaption | gameui | reactivedrop | statsweb | Strings | Inventory | Files |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [Simplified Chinese](#schinese-简体中文) | ✔️ | 2 | ✔️ | 224 | 3 | 17 | 118 | 5 |
-| [Traditional Chinese](#tchinese-繁體中文) | 7 | 128 | 1 | 2219 | 194 | 75 | 270 | 147 |
-| [Czech](#czech-čeština) | 69 | 1804 | 10 | 3362 | 194 | 730 | 340 | 147 |
-| [Danish](#non-curated-languages) | 50 | 219 | 10 | 2883 | 194 | 460 | 335 | 148 |
-| [Dutch](#non-curated-languages) | 49 | 2001 | 10 | 2338 | 194 | 460 | 272 | 147 |
-| [Finnish](#non-curated-languages) | 49 | 2001 | 10 | 2338 | 194 | 460 | 272 | 147 |
-| [French](#french-français) | 25 | 126 | 10 | 1690 | 194 | 394 | 258 | 126 |
-| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | 22 | ✔️ | ✔️ | ✔️ | ✔️ |
-| [Hungarian](#non-curated-languages) | 49 | 126 | 10 | 2338 | 194 | 725 | 272 | 148 |
-| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | 4 | ✔️ | ✔️ | ✔️ | ✔️ |
-| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | 18 | ✔️ | 35 | ✔️ | ✔️ |
-| [Korean](#koreana-한국어) | 47 | 63 | 6 | 1203 | 46 | 288 | 258 | 53 |
-| [Norwegian Bokmål](#non-curated-languages) | 67 | 701 | 15 | 3058 | 194 | 460 | 341 | 148 |
-| [Polish](#polish-polski) | 26 | 2001 | 10 | 2338 | 194 | 460 | 272 | 148 |
-| [European Portuguese](#portuguese-português-europeu) | ✔️ | 168 | ✔️ | 1528 | 21 | 388 | 277 | 140 |
-| [Brazilian Portuguese](#brazilian-português) | ✔️ | 2001 | ✔️ | 584 | 3 | 17 | 120 | 5 |
-| [Romanian](#non-curated-languages) | 49 | 1993 | 16 | 3063 | 194 | 725 | 318 | 148 |
-| [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | 100 | 3 | 17 | 79 | 4 |
-| [European Spanish](#spanish-español-de-españa) | 26 | 2001 | 8 | 1742 | 194 | 464 | 268 | 147 |
-| [Swedish](#non-curated-languages) | 49 | 2001 | 10 | 2338 | 194 | 460 | 272 | 148 |
-| [Thai](#non-curated-languages) | 964 | 1990 | 18 | 3613 | 194 | 489 | 351 | 148 |
-| [Turkish](#non-curated-languages) | 49 | 125 | 10 | 2338 | 194 | 725 | 272 | 148 |
-| [Ukrainian](#ukrainian-українська) | 25 | 119 | 9 | 1870 | 194 | 725 | 265 | 148 |
-| [Vietnamese](#vietnamese-tiếng-việt) | 1279 | 2001 | 605 | 3877 | 194 | 676 | 354 | 135 |
+| [Simplified Chinese](#schinese-简体中文) | ✔️ | 2 | ✔️ | 224 | 3 | 17 | 118 | 6 |
+| [Traditional Chinese](#tchinese-繁體中文) | 7 | 128 | 1 | 2219 | 194 | 75 | 270 | 148 |
+| [Czech](#czech-čeština) | 69 | 1804 | 10 | 3362 | 194 | 730 | 340 | 148 |
+| [Danish](#non-curated-languages) | 50 | 219 | 10 | 2883 | 194 | 460 | 335 | 149 |
+| [Dutch](#non-curated-languages) | 49 | 2001 | 10 | 2338 | 194 | 460 | 272 | 148 |
+| [Finnish](#non-curated-languages) | 49 | 2001 | 10 | 2338 | 194 | 460 | 272 | 148 |
+| [French](#french-français) | 25 | 126 | 10 | 1690 | 194 | 394 | 258 | 127 |
+| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 2 |
+| [Hungarian](#non-curated-languages) | 49 | 126 | 10 | 2338 | 194 | 725 | 272 | 149 |
+| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 2 |
+| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | 12 | ✔️ | 35 | ✔️ | 1 |
+| [Korean](#koreana-한국어) | 47 | 63 | 6 | 1203 | 46 | 288 | 258 | 54 |
+| [Norwegian Bokmål](#non-curated-languages) | 67 | 701 | 15 | 3058 | 194 | 460 | 341 | 149 |
+| [Polish](#polish-polski) | 26 | 2001 | 10 | 2338 | 194 | 460 | 272 | 149 |
+| [European Portuguese](#portuguese-português-europeu) | ✔️ | 168 | ✔️ | 1528 | 21 | 388 | 277 | 141 |
+| [Brazilian Portuguese](#brazilian-português) | ✔️ | 2001 | ✔️ | 584 | 3 | 17 | 120 | 6 |
+| [Romanian](#non-curated-languages) | 49 | 1993 | 16 | 3063 | 194 | 725 | 318 | 149 |
+| [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 3 |
+| [European Spanish](#spanish-español-de-españa) | 26 | 2001 | 8 | 1742 | 194 | 464 | 268 | 148 |
+| [Swedish](#non-curated-languages) | 49 | 2001 | 10 | 2338 | 194 | 460 | 272 | 149 |
+| [Thai](#non-curated-languages) | 964 | 1990 | 18 | 3613 | 194 | 489 | 351 | 149 |
+| [Turkish](#non-curated-languages) | 49 | 125 | 10 | 2338 | 194 | 725 | 272 | 149 |
+| [Ukrainian](#ukrainian-українська) | 25 | 119 | 9 | 1870 | 194 | 725 | 265 | 149 |
+| [Vietnamese](#vietnamese-tiếng-việt) | 1279 | 2001 | 605 | 3877 | 194 | 676 | 354 | 136 |
 ### Legend
 - ***Non-capitalized column headers*** are the most important specific files and their number of missing strings. All of these txt-files are located in the resources folder. Except statsweb, which lies in community/stats_website, it's an vdf-file.
 - ***Strings*** is the number of missing strings not included in one of the files which get an individual non-capitalized column.
@@ -48,7 +48,8 @@
 
 ### Upcoming Release Notes
 
-- [20230420_schinese.xml](release_notes/20230420_schinese.xml) has 84 indented lines.
+- [20230311_schinese.xml](release_notes/20230311_english.xml) is missing.
+- [20230420_schinese.xml](release_notes/20230420_schinese.xml) has 92 indented lines.
 
 ### Credits
 
@@ -169,6 +170,7 @@
 
 ### Upcoming Release Notes
 
+- [20230311_tchinese.xml](release_notes/20230311_english.xml) is missing.
 - [20230419_tchinese.xml](release_notes/20230419_english.xml) is missing.
 - [20230420_tchinese.xml](release_notes/20230420_english.xml) is missing.
 
@@ -454,6 +456,7 @@
 
 ### Upcoming Release Notes
 
+- [20230311_czech.xml](release_notes/20230311_english.xml) is missing.
 - [20230419_czech.xml](release_notes/20230419_english.xml) is missing.
 - [20230420_czech.xml](release_notes/20230420_english.xml) is missing.
 
@@ -739,6 +742,7 @@
 
 ### Upcoming Release Notes
 
+- [20230311_french.xml](release_notes/20230311_english.xml) is missing.
 - [20230419_french.xml](release_notes/20230419_english.xml) is missing.
 - [20230420_french.xml](release_notes/20230420_english.xml) is missing.
 
@@ -978,9 +982,10 @@
 
 </summary>
 
-### Strings
+### Upcoming Release Notes
 
-- [reactivedrop_german.txt](resource/reactivedrop_german.txt) has 22 untranslated strings.
+- [20230311_german.xml](release_notes/20230311_english.xml) is missing.
+- [20230420_german.xml](release_notes/20230420_german.xml) has 8 indented lines.
 
 </details>
 
@@ -990,9 +995,10 @@
 
 </summary>
 
-### Strings
+### Upcoming Release Notes
 
-- [reactivedrop_italian.txt](resource/reactivedrop_italian.txt) has 4 untranslated strings.
+- [20230311_italian.xml](release_notes/20230311_english.xml) is missing.
+- [20230420_italian.xml](release_notes/20230420_italian.xml) has 8 indented lines.
 
 </details>
 
@@ -1005,7 +1011,11 @@
 ### Strings
 
 - [vgui_japanese.txt](platform/vgui_japanese.txt) has 35 untranslated strings.
-- [reactivedrop_japanese.txt](resource/reactivedrop_japanese.txt) has 18 untranslated strings.
+- [reactivedrop_japanese.txt](resource/reactivedrop_japanese.txt) has 12 untranslated strings.
+
+### Upcoming Release Notes
+
+- [20230311_japanese.xml](release_notes/20230311_english.xml) is missing.
 
 </details>
 
@@ -1040,6 +1050,7 @@
 
 ### Upcoming Release Notes
 
+- [20230311_koreana.xml](release_notes/20230311_english.xml) is missing.
 - [20230419_koreana.xml](release_notes/20230419_english.xml) is missing.
 - [20230420_koreana.xml](release_notes/20230420_english.xml) is missing.
 
@@ -1233,6 +1244,7 @@
 
 ### Upcoming Release Notes
 
+- [20230311_polish.xml](release_notes/20230311_english.xml) is missing.
 - [20230419_polish.xml](release_notes/20230419_english.xml) is missing.
 - [20230420_polish.xml](release_notes/20230420_english.xml) is missing.
 
@@ -1510,6 +1522,7 @@
 
 ### Upcoming Release Notes
 
+- [20230311_portuguese.xml](release_notes/20230311_english.xml) is missing.
 - [20230419_portuguese.xml](release_notes/20230419_english.xml) is missing.
 - [20230420_portuguese.xml](release_notes/20230420_english.xml) is missing.
 
@@ -1769,7 +1782,8 @@
 
 ### Upcoming Release Notes
 
-- [20230420_brazilian.xml](release_notes/20230420_brazilian.xml) has 84 indented lines.
+- [20230311_brazilian.xml](release_notes/20230311_english.xml) is missing.
+- [20230420_brazilian.xml](release_notes/20230420_brazilian.xml) has 92 indented lines.
 
 ### Credits
 
@@ -1867,89 +1881,14 @@
 
 </summary>
 
-### Strings
-
-- [inventory_service_tags_russian.vdf](community/inventory_service/inventory_service_tags_russian.vdf) has 17 untranslated strings.
-- [statsweb_russian.vdf](community/stats_website/statsweb_russian.vdf) has 3 untranslated strings.
-- [reactivedrop_russian.txt](resource/reactivedrop_russian.txt) has 100 untranslated strings.
-
 ### Upcoming Release Notes
 
+- [20230311_russian.xml](release_notes/20230311_english.xml) is missing.
 - [20230420_russian.xml](release_notes/20230420_english.xml) is missing.
 
 ### Credits
 
 - [credits_acc32_official_russian.txt](credits/credits_acc32_official_russian.txt) has 1 indented lines.
-
-### Mail and News
-
-- [ma_pda1_russian.txt](resource/mail/ma_pda1_english.txt) is missing.
-- [ma_pda2_russian.txt](resource/mail/ma_pda2_english.txt) is missing.
-
-### Inventory Schema</summary>
-
-- Item 1000 "Sarge's Suit" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_russian`, `display_type_russian`
-- Item 1001 "Wildcat's Suit" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_russian`, `display_type_russian`
-- Item 1002 "Faith's Suit" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_russian`, `display_type_russian`
-- Item 1003 "Crash's Suit" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_russian`, `display_type_russian`
-- Item 1004 "Jaeger's Suit" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_russian`, `display_type_russian`
-- Item 1005 "Wolfe's Suit" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_russian`, `display_type_russian`
-- Item 1006 "Bastille's Suit" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_russian`, `display_type_russian`
-- Item 1007 "Vegas's Suit" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_russian`, `display_type_russian`
-- Item 2000 "22A3-1 Assault Rifle" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_russian`
-- Item 2001 "22A7-Z Prototype Assault Rifle" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_russian`
-- Item 2002 "S23A SynTek Autogun" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_russian`
-- Item 2003 "M42 Vindicator" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_russian`
-- Item 2004 "M73 Twin Pistols" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_russian`
-- Item 2005 "IAF Advanced Sentry Gun" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_russian`
-- Item 2006 "IAF Heal Beacon" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_russian`
-- Item 2007 "IAF Ammo Satchel" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_russian`
-- Item 2008 "Model 35 Pump-action Shotgun" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_russian`
-- Item 2009 "IAF Tesla Cannon" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_russian`
-- Item 2010 "Precision Rail Rifle" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_russian`
-- Item 2011 "IAF Medical Gun" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_russian`
-- Item 2012 "K80 Personal Defense Weapon" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_russian`
-- Item 2013 "M868 Flamer Unit" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_russian`
-- Item 2014 "IAF Freeze Sentry Gun" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_russian`
-- Item 2015 "IAF Minigun" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_russian`
-- Item 2016 "AVK-36 Marksman Rifle" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_russian`
-- Item 2017 "IAF Incendiary Sentry Gun" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_russian`
-- Item 2018 "Chainsaw" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_russian`
-- Item 2019 "IAF High Velocity Sentry Cannon" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_russian`
-- Item 2020 "Grenade Launcher" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_russian`
-- Item 2021 "PS50 Bulldog" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_russian`
-- Item 2022 "IAF HAS42 Devastator" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_russian`
-- Item 2023 "22A4-2 Combat Rifle" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_russian`
-- Item 2024 "IAF Medical Amplifier Gun" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_russian`
-- Item 2025 "22A5 Heavy Assault Rifle" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_russian`
-- Item 2026 "IAF Medical SMG" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_russian`
-- Item 3000 "IAF Personal Healing Kit" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_russian`
-- Item 3001 "Hand Welder" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_russian`
-- Item 3002 "SM75 Combat Flares" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_russian`
-- Item 3003 "ML30 Laser Trip Mine" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_russian`
-- Item 3004 "l3a Tactical Heavy Armor" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_russian`
-- Item 3005 "X33 Damage Amplifier" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_russian`
-- Item 3006 "Hornet Barrage" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_russian`
-- Item 3007 "CR18 Freeze Grenades" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_russian`
-- Item 3008 "Adrenaline" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_russian`
-- Item 3009 "IAF Tesla Sentry Coil" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_russian`
-- Item 3010 "v45 Electric Charged Armor" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_russian`
-- Item 3011 "M478 Proximity Incendiary Mines" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_russian`
-- Item 3012 "Flashlight Attachment" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_russian`
-- Item 3013 "IAF Power Fist Attachment" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_russian`
-- Item 3014 "FG01 Hand Grenades" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_russian`
-- Item 3015 "MNV34 Nightvision Goggles" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_russian`
-- Item 3016 "MTD6 Smart Bomb" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_russian`
-- Item 3017 "TG-05 Gas Grenades" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_russian`
-- Item 5000 "Missions" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_russian`, `display_type_russian`
-- Item 5001 "Successful Missions" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_russian`, `display_type_russian`
-- Item 5002 "Aliens Killed" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_russian`, `display_type_russian`
-- Item 5003 "Healing" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_russian`, `display_type_russian`
-- Item 5004 "Fast Hacks" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_russian`, `display_type_russian`
-- Item 5005 "Enemies Frozen" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_russian`, `display_type_russian`
-- Item 5006 "Allies Extinguished" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_russian`, `display_type_russian`
-- Item 5007 "Alien Kill Streak" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_russian`, `display_type_russian`
-- Item 5008 "Infestations Cured" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_russian`, `display_type_russian`
 
 </details>
 
@@ -1984,6 +1923,7 @@
 
 ### Upcoming Release Notes
 
+- [20230311_spanish.xml](release_notes/20230311_english.xml) is missing.
 - [20230419_spanish.xml](release_notes/20230419_english.xml) is missing.
 - [20230420_spanish.xml](release_notes/20230420_english.xml) is missing.
 
@@ -2271,6 +2211,7 @@
 
 ### Upcoming Release Notes
 
+- [20230311_ukrainian.xml](release_notes/20230311_english.xml) is missing.
 - [20230419_ukrainian.xml](release_notes/20230419_english.xml) is missing.
 - [20230420_ukrainian.xml](release_notes/20230420_english.xml) is missing.
 
@@ -2557,6 +2498,7 @@
 
 ### Upcoming Release Notes
 
+- [20230311_vietnamese.xml](release_notes/20230311_english.xml) is missing.
 - [20230419_vietnamese.xml](release_notes/20230419_english.xml) is missing.
 - [20230420_vietnamese.xml](release_notes/20230420_english.xml) is missing.
 
