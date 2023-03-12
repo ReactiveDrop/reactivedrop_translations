@@ -342,6 +342,10 @@ func updateLanguageFile(source *translatedStrings, prefix, lang, suffix string) 
 	filename := prefix + "_" + lang + suffix
 	dest, err := loadTranslatedStrings(filename, lang, true)
 	if errors.Is(err, os.ErrNotExist) {
+		dest = &translatedStrings{
+			lookup:  make(map[string]int, len(source.strings)),
+			strings: make([]translatedString, 0, len(source.strings)),
+		}
 		err = nil
 	}
 	if err != nil {

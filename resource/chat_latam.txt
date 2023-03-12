@@ -1,0 +1,23 @@
+﻿"lang"
+{
+"Language"		"latam"
+"Tokens"
+{
+		"chat_filterbutton"		"Filters"
+		"[english]chat_filterbutton"		"Filters"
+		"filter_joinleave"		"Joins/Leaves"
+		"[english]filter_joinleave"		"Joins/Leaves"
+		"filter_namechange"		"Name Changes"
+		"[english]filter_namechange"		"Name Changes"
+		"filter_publicchat"		"Public Chat"
+		"[english]filter_publicchat"		"Public Chat"
+		"filter_servermsg"		"Server Messages"
+		"[english]filter_servermsg"		"Server Messages"
+		"filter_teamchange"		"Team Changes"
+		"[english]filter_teamchange"		"Team Changes"
+		"chat_say"		"Say"
+		"[english]chat_say"		"Say"
+		"chat_say_team"		"Say (TEAM)"
+		"[english]chat_say_team"		"Say (TEAM)"
+}
+}
