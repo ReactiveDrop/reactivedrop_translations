@@ -29,7 +29,7 @@ Erstelle einen Einsatz oder kurzen Feldzug, der einen Bosskampf enthält - eine 
 
 Wenn du eine bessere Idee hast, kannst du sie auch selbst machen! AS:RD Mapping-Wettbewerb-Themas sind optional.
 
-Die Beiträge müssen getaggt sein mit [b]BossFight2023[/b]. Der Wettbewerb beginnt heute und endet am 1. August. Zu den Preisen gehören einzigartige Ingame-Medaillen. Wenn du Hilfe bei den ersten Schritten brauchst, schau im [url=https://steamcommunity.com/app/563560/discussions/1/]Modding / Mapping Help and Tips[/url] Forum nach.
+Die Beiträge müssen getaggt sein mit [b]BossFight2023[/b]. Der Wettbewerb beginnt heute und endet am 1. August. Zu den Preisen gehören einzigartige Ingame-Sammlerstücke. Wenn du Hilfe bei den ersten Schritten brauchst, schau im [url=https://steamcommunity.com/app/563560/discussions/1/]Modding / Mapping Help and Tips[/url] Forum nach.
 
 [h1]Das Jahr im Rückblick[/h1]
 
@@ -76,7 +76,7 @@ Hier sind einige Highlights der Updates seit dem letzten Jahrestag:
 [list]
 [*]Workshop-Erweiterungen können jetzt Videos enthalten und Einsätze können ihr eigenes Einweisung-Hintergrundvideo definieren oder sogar einen Teil der Welt als Hintergrund während der Einweisung zeigen.
 [*]Wir sind Steam Deck verifiziert! Das Spiel läuft großartig auf dem Steam Deck und auch Spieler auf Linux oder die einen Controller benutzen, haben Verbesserungen festgestellt.
-[*]Es gibt jetzt Medaillen, die du dir verdienen kannst, indem du bei der Entwicklung des Spiels hilfst, einen Beitrag zum Steam-Community-Hub leistest oder an einer Saison von Helden der interstellaren Streitkräfte teilnimmst.
+[*]Es gibt jetzt Sammlerstücke, die du dir verdienen kannst, indem du bei der Entwicklung des Spiels hilfst, einen Beitrag zum Steam-Community-Hub leistest oder an einer Saison von Helden der interstellaren Streitkräfte teilnimmst.
 [*]Die sich langsam öffnenden Türen, die in vielen Einsätzen verwendet werden, haben jetzt genauere Kollisionsdaten, die es dir ermöglichen, durch eine teilweise geöffnete Tür zu treten oder zu schießen.
 [*]Der völlig neue Einsatzauswahlbildschirm unterstützt Bonus-Karten und neue Endlos Einsätze.
 [*]Wir haben ein Menü für erweiterte Einstellungen und ein Menü für erweiterte Audioeinstellungen hinzugefügt.
@@ -150,7 +150,7 @@ Hier sind einige Highlights der Updates seit dem letzten Jahrestag:
 [*]Es wurde eine sichtbare und hörbare Anzeige hinzugefügt, die anzeigt, wann sich die Führung auf den zugefügten oder erlittenen Schaden auswirkt.
 [*]Herausforderungen können jetzt "required_on_client" auf "1" setzen, wenn sie Assets einschließen wollen, was dazu führt, dass das Workshop-Addon automatisch heruntergeladen wird, wenn die Herausforderung aktiviert wird.
 [*]Herausforderungen können jetzt für die Verwendung im Deathmatch mit "allowed_mode" "deathmatch" markiert werden. Herausforderungen, die sowohl im Deathmatch als auch im kooperativen Spiel verwendet werden können, können zusätzlich mit "allowed_mode" "coop" gekennzeichnet werden.
-[*]Die Benachrichtigung zum Freischalten von Gegenständen wurde aktualisiert und enthält nun eine Beschreibung. Dieser Bildschirm wird jetzt auch für Medaillen verwendet, die durch das Spiel freigeschaltet werden.
+[*]Die Benachrichtigung zum Freischalten von Gegenständen wurde aktualisiert und enthält nun eine Beschreibung. Dieser Bildschirm wird jetzt auch für Sammlerstücke verwendet, die durch das Spiel freigeschaltet werden.
 [*]Erweiterte Einstellungen zum Hervorheben deines Charakters, Abspielen von Sounds bei Treffern und mehr!
 [/list]
 
