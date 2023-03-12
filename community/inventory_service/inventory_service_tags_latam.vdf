@@ -1,0 +1,94 @@
+﻿"lang"
+{
+"Language"		"latam"
+"Tokens"
+{
+		"inventory_name_format_1"		"%ITEMNAME% (Customized)"
+		// used to transform item names on the Steam Community. shows for items that have attached accessories, like a strange weapon with at least one strange device attached.
+		"[english]inventory_name_format_1"		"%ITEMNAME% (Customized)"
+"inventory_name_format_2"		""
+"[english]inventory_name_format_2"		""
+"inventory_name_format_3"		""
+"[english]inventory_name_format_3"		""
+"inventory_name_format_4"		""
+"[english]inventory_name_format_4"		""
+"inventory_name_format_5"		""
+"[english]inventory_name_format_5"		""
+"inventory_name_format_6"		""
+"[english]inventory_name_format_6"		""
+"inventory_name_format_7"		""
+"[english]inventory_name_format_7"		""
+"inventory_name_format_8"		""
+"[english]inventory_name_format_8"		""
+		"inventory_rarity"		"Rarity"
+		"[english]inventory_rarity"		"Rarity"
+		"inventory_rarity_common"		"Common"
+		// items that can be obtained by pretty much anyone.
+		"[english]inventory_rarity_common"		"Common"
+		"inventory_rarity_uncommon"		"Uncommon"
+		// items that take some effort to obtain.
+		"[english]inventory_rarity_uncommon"		"Uncommon"
+		"inventory_rarity_rare"		"Rare"
+		// items that are in limited supply, like medals for winning a recurring automated competition.
+		"[english]inventory_rarity_rare"		"Rare"
+		"inventory_rarity_legendary"		"Legendary"
+		// items that require doing something beyond just playing the game to obtain.
+		"[english]inventory_rarity_legendary"		"Legendary"
+		"inventory_rarity_genuine"		"Genuine"
+		// real-money donation receipt items from the store.
+		"[english]inventory_rarity_genuine"		"Genuine"
+		"inventory_rarity_strange_rarity"		"Strange"
+		// items that count stats.
+		"[english]inventory_rarity_strange_rarity"		"Strange"
+		"inventory_slot"		"Slot"
+		// where an item can be equipped.
+		"[english]inventory_slot"		"Slot"
+		"inventory_slot_medal"		"Medal"
+		"[english]inventory_slot_medal"		"Medal"
+		"inventory_slot_suit"		"Suit"
+		"[english]inventory_slot_suit"		"Suit"
+		"inventory_slot_weapon"		"Weapon"
+		"[english]inventory_slot_weapon"		"Weapon"
+		"inventory_slot_equipment"		"Equipment"
+		"[english]inventory_slot_equipment"		"Equipment"
+		"inventory_class_restriction"		"Class Restriction"
+		// for equippable items that can only be used on one class.
+		"[english]inventory_class_restriction"		"Class Restriction"
+		"inventory_class_restriction_officer"		"Officer"
+		"[english]inventory_class_restriction_officer"		"Officer"
+		"inventory_class_restriction_specialweapons"		"Special Weapons"
+		"[english]inventory_class_restriction_specialweapons"		"Special Weapons"
+		"inventory_class_restriction_medic"		"Medic"
+		"[english]inventory_class_restriction_medic"		"Medic"
+		"inventory_class_restriction_tech"		"Tech"
+		"[english]inventory_class_restriction_tech"		"Tech"
+		"inventory_crafting_item"		"Crafting Item"
+		"[english]inventory_crafting_item"		"Crafting Item"
+		"inventory_crafting_item_single_use_tool"		"Single-Use Tool"
+		"[english]inventory_crafting_item_single_use_tool"		"Single-Use Tool"
+		"inventory_crafting_item_ultra_common"		"Ultra-Common"
+		// common crafting materials. (100-1000 drop at a time)
+		"[english]inventory_crafting_item_ultra_common"		"Ultra-Common"
+		"inventory_crafting_item_common_part"		"Common"
+		// common crafting materials. (1-3 drop at a time)
+		"[english]inventory_crafting_item_common_part"		"Common"
+		"inventory_crafting_item_alien_part"		"Alien Part"
+		// uncommon crafting materials.
+		"[english]inventory_crafting_item_alien_part"		"Alien Part"
+		"inventory_crafting_item_computer_part"		"Computer Part"
+		// rare crafting materials.
+		"[english]inventory_crafting_item_computer_part"		"Computer Part"
+		"inventory_crafting_item_regional"		"Regional"
+		// crafting items that can be found by playing some campaigns but not others.
+		"[english]inventory_crafting_item_regional"		"Regional"
+		"inventory_strange"		"Strange Devices"
+		// displayed before the list of Strange item accessories, eg. Strange Devices: Missions, Aliens Killed
+		"[english]inventory_strange"		"Strange Devices"
+		"item_store_category_donations"		"Donations"
+		// items that are essentially receipts for donating money to someone in the community. (for the forseeable future, all items on the store will be in this category)
+		"[english]item_store_category_donations"		"Donations"
+		"item_store_category_mapstamp"		"Map Stamps"
+		// "postage stamps" that cost $1 (or equivalent), with the proceeds going to a mapper.
+		"[english]item_store_category_mapstamp"		"Map Stamps"
+}
+}
