@@ -43,7 +43,7 @@
 "inventory_slot"		"Steckplatz"
 // where an item can be equipped.
 "[english]inventory_slot"		"Slot"
-"inventory_slot_medal"		"Medaille"
+"inventory_slot_medal"		"Sammlerstück"
 "[english]inventory_slot_medal"		"Medal"
 "inventory_slot_suit"		"Anzug"
 "[english]inventory_slot_suit"		"Suit"
