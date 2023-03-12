@@ -8,17 +8,17 @@
 | [Dutch](#non-curated-languages) | 49 | 2001 | 10 | 2338 | 194 | 460 | 272 | 148 |
 | [Finnish](#non-curated-languages) | 49 | 2001 | 10 | 2338 | 194 | 460 | 272 | 148 |
 | [French](#french-français) | 25 | 126 | 10 | 1690 | 194 | 394 | 258 | 127 |
-| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 2 |
+| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Hungarian](#non-curated-languages) | 49 | 126 | 10 | 2338 | 194 | 725 | 272 | 149 |
-| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 2 |
-| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | 12 | ✔️ | 35 | ✔️ | 1 |
+| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
+| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | 12 | ✔️ | 35 | ✔️ | ✔️ |
 | [Korean](#koreana-한국어) | 47 | 63 | 6 | 1203 | 46 | 288 | 258 | 54 |
 | [Norwegian Bokmål](#non-curated-languages) | 67 | 701 | 15 | 3058 | 194 | 460 | 341 | 149 |
 | [Polish](#polish-polski) | 26 | 2001 | 10 | 2338 | 194 | 460 | 272 | 149 |
 | [European Portuguese](#portuguese-português-europeu) | ✔️ | 168 | ✔️ | 1528 | 21 | 388 | 277 | 141 |
 | [Brazilian Portuguese](#brazilian-português) | ✔️ | 2001 | ✔️ | 584 | 3 | 17 | 120 | 6 |
 | [Romanian](#non-curated-languages) | 49 | 1993 | 16 | 3063 | 194 | 725 | 318 | 149 |
-| [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 3 |
+| [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 2 |
 | [European Spanish](#spanish-español-de-españa) | 26 | 2001 | 8 | 1742 | 194 | 464 | 268 | 148 |
 | [Swedish](#non-curated-languages) | 49 | 2001 | 10 | 2338 | 194 | 460 | 272 | 149 |
 | [Thai](#non-curated-languages) | 964 | 1990 | 18 | 3613 | 194 | 489 | 351 | 149 |
@@ -982,10 +982,7 @@
 
 </summary>
 
-### Upcoming Release Notes
-
-- [20230311_german.xml](release_notes/20230311_english.xml) is missing.
-- [20230420_german.xml](release_notes/20230420_german.xml) has 8 indented lines.
+✓ Up to date!
 
 </details>
 
@@ -995,10 +992,7 @@
 
 </summary>
 
-### Upcoming Release Notes
-
-- [20230311_italian.xml](release_notes/20230311_english.xml) is missing.
-- [20230420_italian.xml](release_notes/20230420_italian.xml) has 8 indented lines.
+✓ Up to date!
 
 </details>
 
@@ -1012,10 +1006,6 @@
 
 - [vgui_japanese.txt](platform/vgui_japanese.txt) has 35 untranslated strings.
 - [reactivedrop_japanese.txt](resource/reactivedrop_japanese.txt) has 12 untranslated strings.
-
-### Upcoming Release Notes
-
-- [20230311_japanese.xml](release_notes/20230311_english.xml) is missing.
 
 </details>
 
@@ -1883,7 +1873,6 @@
 
 ### Upcoming Release Notes
 
-- [20230311_russian.xml](release_notes/20230311_english.xml) is missing.
 - [20230420_russian.xml](release_notes/20230420_english.xml) is missing.
 
 ### Credits

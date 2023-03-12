@@ -6713,7 +6713,7 @@
 "[english]par_hostileplaces_1a"		"Proceed to the administrative area to find documents relating to this outpost's activities."
 "par_hostileplaces_2_title"		"Восстановите энергоснабжение"
 "[english]par_hostileplaces_2_title"		"Restore power"
-"par_hostileplaces_2a"		"Мост, по которому нам нужно пройти, свернулся, и нет питания для его развёртывания."
+"par_hostileplaces_2a"		"Мост, по которому нам нужно пройти, свёлся, и нет питания, чтобы его развести."
 "[english]par_hostileplaces_2a"		"The bridge we need to cross is collapsed, and there is no power to extend it."
 "par_hostileplaces_2b"		"Нам нужно найти управление генератором и включить питание моста, чтобы продолжить путь."
 "[english]par_hostileplaces_2b"		"We need to locate the generator controls and activate power to the bridge to proceed."
