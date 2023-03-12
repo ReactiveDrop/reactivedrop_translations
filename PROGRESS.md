@@ -1,30 +1,31 @@
 # Overview
 | Language | basemodui | closecaption | gameui | reactivedrop | statsweb | Strings | Inventory | Files |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [Simplified Chinese](#schinese-简体中文) | ✔️ | 2 | ✔️ | 224 | 3 | 17 | 118 | 6 |
-| [Traditional Chinese](#tchinese-繁體中文) | 7 | 128 | 1 | 2219 | 194 | 75 | 270 | 148 |
-| [Czech](#czech-čeština) | 69 | 1804 | 10 | 3362 | 194 | 730 | 340 | 148 |
-| [Danish](#non-curated-languages) | 50 | 219 | 10 | 2883 | 194 | 460 | 335 | 149 |
-| [Dutch](#non-curated-languages) | 49 | 2001 | 10 | 2338 | 194 | 460 | 272 | 148 |
-| [Finnish](#non-curated-languages) | 49 | 2001 | 10 | 2338 | 194 | 460 | 272 | 148 |
-| [French](#french-français) | 25 | 126 | 10 | 1690 | 194 | 394 | 258 | 127 |
+| [Simplified Chinese](#schinese-简体中文) | ✔️ | 2 | ✔️ | 224 | 3 | 17 | 127 | 6 |
+| [Traditional Chinese](#tchinese-繁體中文) | 7 | 128 | 1 | 2219 | 194 | 75 | 279 | 148 |
+| [Czech](#czech-čeština) | 69 | 1804 | 10 | 3362 | 194 | 730 | 349 | 148 |
+| [Danish](#non-curated-languages) | 50 | 219 | 10 | 2883 | 194 | 460 | 344 | 149 |
+| [Dutch](#non-curated-languages) | 49 | 2001 | 10 | 2338 | 194 | 460 | 281 | 148 |
+| [Finnish](#non-curated-languages) | 49 | 2001 | 10 | 2338 | 194 | 460 | 281 | 148 |
+| [French](#french-français) | 25 | 126 | 10 | 1690 | 194 | 394 | 267 | 127 |
 | [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
-| [Hungarian](#non-curated-languages) | 49 | 126 | 10 | 2338 | 194 | 725 | 272 | 149 |
+| [Hungarian](#non-curated-languages) | 49 | 126 | 10 | 2338 | 194 | 725 | 281 | 149 |
 | [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | 12 | ✔️ | 35 | ✔️ | ✔️ |
-| [Korean](#koreana-한국어) | 47 | 63 | 6 | 1203 | 46 | 288 | 258 | 54 |
-| [Norwegian Bokmål](#non-curated-languages) | 67 | 701 | 15 | 3058 | 194 | 460 | 341 | 149 |
-| [Polish](#polish-polski) | 26 | 2001 | 10 | 2338 | 194 | 460 | 272 | 149 |
-| [European Portuguese](#portuguese-português-europeu) | ✔️ | 168 | ✔️ | 1528 | 21 | 388 | 277 | 141 |
-| [Brazilian Portuguese](#brazilian-português) | ✔️ | 2001 | ✔️ | 584 | 3 | 17 | 120 | 6 |
-| [Romanian](#non-curated-languages) | 49 | 1993 | 16 | 3063 | 194 | 725 | 318 | 149 |
+| [Korean](#koreana-한국어) | 47 | 63 | 6 | 1203 | 46 | 288 | 267 | 54 |
+| [Norwegian Bokmål](#non-curated-languages) | 67 | 701 | 15 | 3058 | 194 | 460 | 350 | 149 |
+| [Polish](#polish-polski) | 26 | 2001 | 10 | 2338 | 194 | 460 | 281 | 149 |
+| [European Portuguese](#portuguese-português-europeu) | ✔️ | 168 | ✔️ | 1528 | 21 | 388 | 286 | 141 |
+| [Brazilian Portuguese](#brazilian-português) | ✔️ | 2001 | ✔️ | 584 | 3 | 17 | 129 | 6 |
+| [Romanian](#non-curated-languages) | 49 | 1993 | 16 | 3063 | 194 | 725 | 327 | 149 |
 | [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 2 |
-| [European Spanish](#spanish-español-de-españa) | 26 | 2001 | 8 | 1742 | 194 | 464 | 268 | 148 |
-| [Swedish](#non-curated-languages) | 49 | 2001 | 10 | 2338 | 194 | 460 | 272 | 149 |
-| [Thai](#non-curated-languages) | 964 | 1990 | 18 | 3613 | 194 | 489 | 351 | 149 |
-| [Turkish](#non-curated-languages) | 49 | 125 | 10 | 2338 | 194 | 725 | 272 | 149 |
-| [Ukrainian](#ukrainian-українська) | 25 | 119 | 9 | 1870 | 194 | 725 | 265 | 149 |
-| [Vietnamese](#vietnamese-tiếng-việt) | 1279 | 2001 | 605 | 3877 | 194 | 676 | 354 | 136 |
+| [European Spanish](#spanish-español-de-españa) | 26 | 2001 | 8 | 1742 | 194 | 464 | 277 | 148 |
+| [Latin American Spanish](#latam-español-latinoamericano) | 1279 | 2001 | 605 | 3877 | 198 | 730 | 363 | 149 |
+| [Swedish](#non-curated-languages) | 49 | 2001 | 10 | 2338 | 194 | 460 | 281 | 149 |
+| [Thai](#non-curated-languages) | 964 | 1990 | 18 | 3613 | 194 | 489 | 360 | 149 |
+| [Turkish](#non-curated-languages) | 49 | 125 | 10 | 2338 | 194 | 725 | 281 | 149 |
+| [Ukrainian](#ukrainian-українська) | 25 | 119 | 9 | 1870 | 194 | 725 | 274 | 149 |
+| [Vietnamese](#vietnamese-tiếng-việt) | 1279 | 2001 | 605 | 3877 | 194 | 676 | 363 | 136 |
 ### Legend
 - ***Non-capitalized column headers*** are the most important specific files and their number of missing strings. All of these txt-files are located in the resources folder. Except statsweb, which lies in community/stats_website, it's an vdf-file.
 - ***Strings*** is the number of missing strings not included in one of the files which get an individual non-capitalized column.
@@ -129,15 +130,15 @@
 - Item 3015 "MNV34 Nightvision Goggles" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_schinese`
 - Item 3016 "MTD6 Smart Bomb" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_schinese`
 - Item 3017 "TG-05 Gas Grenades" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_schinese`
-- Item 5000 "Missions" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_schinese`, `display_type_schinese`
-- Item 5001 "Successful Missions" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_schinese`, `display_type_schinese`
-- Item 5002 "Aliens Killed" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_schinese`, `display_type_schinese`
-- Item 5003 "Healing" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_schinese`, `display_type_schinese`
-- Item 5004 "Fast Hacks" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_schinese`, `display_type_schinese`
-- Item 5005 "Enemies Frozen" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_schinese`, `display_type_schinese`
-- Item 5006 "Allies Extinguished" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_schinese`, `display_type_schinese`
-- Item 5007 "Alien Kill Streak" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_schinese`, `display_type_schinese`
-- Item 5008 "Infestations Cured" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_schinese`, `display_type_schinese`
+- Item 5000 "Missions" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_schinese`, `accessory_description_schinese`, `display_type_schinese`
+- Item 5001 "Successful Missions" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_schinese`, `accessory_description_schinese`, `display_type_schinese`
+- Item 5002 "Aliens Killed" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_schinese`, `accessory_description_schinese`, `display_type_schinese`
+- Item 5003 "Healing" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_schinese`, `accessory_description_schinese`, `display_type_schinese`
+- Item 5004 "Fast Hacks" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_schinese`, `accessory_description_schinese`, `display_type_schinese`
+- Item 5005 "Enemies Frozen" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_schinese`, `accessory_description_schinese`, `display_type_schinese`
+- Item 5006 "Allies Extinguished" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_schinese`, `accessory_description_schinese`, `display_type_schinese`
+- Item 5007 "Alien Kill Streak" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_schinese`, `accessory_description_schinese`, `display_type_schinese`
+- Item 5008 "Infestations Cured" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_schinese`, `accessory_description_schinese`, `display_type_schinese`
 
 </details>
 
@@ -411,15 +412,15 @@
 - Item 3015 "MNV34 Nightvision Goggles" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_tchinese`
 - Item 3016 "MTD6 Smart Bomb" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_tchinese`
 - Item 3017 "TG-05 Gas Grenades" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_tchinese`, `description_tchinese`, `display_type_tchinese`
-- Item 5000 "Missions" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_tchinese`, `display_type_tchinese`
-- Item 5001 "Successful Missions" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_tchinese`, `display_type_tchinese`
-- Item 5002 "Aliens Killed" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_tchinese`, `display_type_tchinese`
-- Item 5003 "Healing" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_tchinese`, `display_type_tchinese`
-- Item 5004 "Fast Hacks" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_tchinese`, `display_type_tchinese`
-- Item 5005 "Enemies Frozen" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_tchinese`, `display_type_tchinese`
-- Item 5006 "Allies Extinguished" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_tchinese`, `display_type_tchinese`
-- Item 5007 "Alien Kill Streak" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_tchinese`, `display_type_tchinese`
-- Item 5008 "Infestations Cured" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_tchinese`, `display_type_tchinese`
+- Item 5000 "Missions" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_tchinese`, `accessory_description_tchinese`, `display_type_tchinese`
+- Item 5001 "Successful Missions" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_tchinese`, `accessory_description_tchinese`, `display_type_tchinese`
+- Item 5002 "Aliens Killed" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_tchinese`, `accessory_description_tchinese`, `display_type_tchinese`
+- Item 5003 "Healing" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_tchinese`, `accessory_description_tchinese`, `display_type_tchinese`
+- Item 5004 "Fast Hacks" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_tchinese`, `accessory_description_tchinese`, `display_type_tchinese`
+- Item 5005 "Enemies Frozen" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_tchinese`, `accessory_description_tchinese`, `display_type_tchinese`
+- Item 5006 "Allies Extinguished" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_tchinese`, `accessory_description_tchinese`, `display_type_tchinese`
+- Item 5007 "Alien Kill Streak" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_tchinese`, `accessory_description_tchinese`, `display_type_tchinese`
+- Item 5008 "Infestations Cured" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_tchinese`, `accessory_description_tchinese`, `display_type_tchinese`
 - Item 900000000 "Ben Lubar" in [item-schema-unique.json](community/inventory_service/item-schema-unique.json) is missing `name_tchinese`, `briefing_name_tchinese`
 
 </details>
@@ -698,15 +699,15 @@
 - Item 3015 "MNV34 Nightvision Goggles" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `description_czech`, `display_type_czech`
 - Item 3016 "MTD6 Smart Bomb" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `description_czech`, `display_type_czech`
 - Item 3017 "TG-05 Gas Grenades" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_czech`, `description_czech`, `display_type_czech`
-- Item 5000 "Missions" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_czech`, `display_type_czech`
-- Item 5001 "Successful Missions" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_czech`, `display_type_czech`
-- Item 5002 "Aliens Killed" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_czech`, `display_type_czech`
-- Item 5003 "Healing" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_czech`, `display_type_czech`
-- Item 5004 "Fast Hacks" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_czech`, `display_type_czech`
-- Item 5005 "Enemies Frozen" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_czech`, `display_type_czech`
-- Item 5006 "Allies Extinguished" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_czech`, `display_type_czech`
-- Item 5007 "Alien Kill Streak" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_czech`, `display_type_czech`
-- Item 5008 "Infestations Cured" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_czech`, `display_type_czech`
+- Item 5000 "Missions" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_czech`, `accessory_description_czech`, `display_type_czech`
+- Item 5001 "Successful Missions" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_czech`, `accessory_description_czech`, `display_type_czech`
+- Item 5002 "Aliens Killed" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_czech`, `accessory_description_czech`, `display_type_czech`
+- Item 5003 "Healing" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_czech`, `accessory_description_czech`, `display_type_czech`
+- Item 5004 "Fast Hacks" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_czech`, `accessory_description_czech`, `display_type_czech`
+- Item 5005 "Enemies Frozen" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_czech`, `accessory_description_czech`, `display_type_czech`
+- Item 5006 "Allies Extinguished" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_czech`, `accessory_description_czech`, `display_type_czech`
+- Item 5007 "Alien Kill Streak" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_czech`, `accessory_description_czech`, `display_type_czech`
+- Item 5008 "Infestations Cured" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_czech`, `accessory_description_czech`, `display_type_czech`
 - Item 900000000 "Ben Lubar" in [item-schema-unique.json](community/inventory_service/item-schema-unique.json) is missing `name_czech`, `briefing_name_czech`
 
 </details>
@@ -963,15 +964,15 @@
 - Item 3015 "MNV34 Nightvision Goggles" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_french`
 - Item 3016 "MTD6 Smart Bomb" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_french`
 - Item 3017 "TG-05 Gas Grenades" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_french`
-- Item 5000 "Missions" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_french`, `display_type_french`
-- Item 5001 "Successful Missions" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_french`, `display_type_french`
-- Item 5002 "Aliens Killed" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_french`, `display_type_french`
-- Item 5003 "Healing" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_french`, `display_type_french`
-- Item 5004 "Fast Hacks" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_french`, `display_type_french`
-- Item 5005 "Enemies Frozen" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_french`, `display_type_french`
-- Item 5006 "Allies Extinguished" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_french`, `display_type_french`
-- Item 5007 "Alien Kill Streak" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_french`, `display_type_french`
-- Item 5008 "Infestations Cured" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_french`, `display_type_french`
+- Item 5000 "Missions" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_french`, `accessory_description_french`, `display_type_french`
+- Item 5001 "Successful Missions" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_french`, `accessory_description_french`, `display_type_french`
+- Item 5002 "Aliens Killed" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_french`, `accessory_description_french`, `display_type_french`
+- Item 5003 "Healing" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_french`, `accessory_description_french`, `display_type_french`
+- Item 5004 "Fast Hacks" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_french`, `accessory_description_french`, `display_type_french`
+- Item 5005 "Enemies Frozen" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_french`, `accessory_description_french`, `display_type_french`
+- Item 5006 "Allies Extinguished" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_french`, `accessory_description_french`, `display_type_french`
+- Item 5007 "Alien Kill Streak" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_french`, `accessory_description_french`, `display_type_french`
+- Item 5008 "Infestations Cured" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_french`, `accessory_description_french`, `display_type_french`
 - Item 900000000 "Ben Lubar" in [item-schema-unique.json](community/inventory_service/item-schema-unique.json) is missing `name_french`, `briefing_name_french`
 
 </details>
@@ -1188,15 +1189,15 @@
 - Item 3015 "MNV34 Nightvision Goggles" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_koreana`
 - Item 3016 "MTD6 Smart Bomb" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_koreana`
 - Item 3017 "TG-05 Gas Grenades" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_koreana`
-- Item 5000 "Missions" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_koreana`, `display_type_koreana`
-- Item 5001 "Successful Missions" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_koreana`, `display_type_koreana`
-- Item 5002 "Aliens Killed" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_koreana`, `display_type_koreana`
-- Item 5003 "Healing" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_koreana`, `display_type_koreana`
-- Item 5004 "Fast Hacks" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_koreana`, `display_type_koreana`
-- Item 5005 "Enemies Frozen" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_koreana`, `display_type_koreana`
-- Item 5006 "Allies Extinguished" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_koreana`, `display_type_koreana`
-- Item 5007 "Alien Kill Streak" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_koreana`, `display_type_koreana`
-- Item 5008 "Infestations Cured" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_koreana`, `display_type_koreana`
+- Item 5000 "Missions" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_koreana`, `accessory_description_koreana`, `display_type_koreana`
+- Item 5001 "Successful Missions" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_koreana`, `accessory_description_koreana`, `display_type_koreana`
+- Item 5002 "Aliens Killed" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_koreana`, `accessory_description_koreana`, `display_type_koreana`
+- Item 5003 "Healing" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_koreana`, `accessory_description_koreana`, `display_type_koreana`
+- Item 5004 "Fast Hacks" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_koreana`, `accessory_description_koreana`, `display_type_koreana`
+- Item 5005 "Enemies Frozen" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_koreana`, `accessory_description_koreana`, `display_type_koreana`
+- Item 5006 "Allies Extinguished" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_koreana`, `accessory_description_koreana`, `display_type_koreana`
+- Item 5007 "Alien Kill Streak" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_koreana`, `accessory_description_koreana`, `display_type_koreana`
+- Item 5008 "Infestations Cured" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_koreana`, `accessory_description_koreana`, `display_type_koreana`
 - Item 900000000 "Ben Lubar" in [item-schema-unique.json](community/inventory_service/item-schema-unique.json) is missing `name_koreana`, `briefing_name_koreana`
 
 </details>
@@ -1476,15 +1477,15 @@
 - Item 3015 "MNV34 Nightvision Goggles" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_polish`
 - Item 3016 "MTD6 Smart Bomb" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_polish`
 - Item 3017 "TG-05 Gas Grenades" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_polish`, `description_polish`, `display_type_polish`
-- Item 5000 "Missions" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_polish`, `display_type_polish`
-- Item 5001 "Successful Missions" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_polish`, `display_type_polish`
-- Item 5002 "Aliens Killed" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_polish`, `display_type_polish`
-- Item 5003 "Healing" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_polish`, `display_type_polish`
-- Item 5004 "Fast Hacks" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_polish`, `display_type_polish`
-- Item 5005 "Enemies Frozen" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_polish`, `display_type_polish`
-- Item 5006 "Allies Extinguished" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_polish`, `display_type_polish`
-- Item 5007 "Alien Kill Streak" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_polish`, `display_type_polish`
-- Item 5008 "Infestations Cured" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_polish`, `display_type_polish`
+- Item 5000 "Missions" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_polish`, `accessory_description_polish`, `display_type_polish`
+- Item 5001 "Successful Missions" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_polish`, `accessory_description_polish`, `display_type_polish`
+- Item 5002 "Aliens Killed" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_polish`, `accessory_description_polish`, `display_type_polish`
+- Item 5003 "Healing" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_polish`, `accessory_description_polish`, `display_type_polish`
+- Item 5004 "Fast Hacks" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_polish`, `accessory_description_polish`, `display_type_polish`
+- Item 5005 "Enemies Frozen" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_polish`, `accessory_description_polish`, `display_type_polish`
+- Item 5006 "Allies Extinguished" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_polish`, `accessory_description_polish`, `display_type_polish`
+- Item 5007 "Alien Kill Streak" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_polish`, `accessory_description_polish`, `display_type_polish`
+- Item 5008 "Infestations Cured" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_polish`, `accessory_description_polish`, `display_type_polish`
 - Item 900000000 "Ben Lubar" in [item-schema-unique.json](community/inventory_service/item-schema-unique.json) is missing `name_polish`, `briefing_name_polish`
 
 </details>
@@ -1745,15 +1746,15 @@
 - Item 3015 "MNV34 Nightvision Goggles" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `description_portuguese`, `display_type_portuguese`
 - Item 3016 "MTD6 Smart Bomb" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `description_portuguese`, `display_type_portuguese`
 - Item 3017 "TG-05 Gas Grenades" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `description_portuguese`, `display_type_portuguese`
-- Item 5000 "Missions" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_portuguese`, `display_type_portuguese`
-- Item 5001 "Successful Missions" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_portuguese`, `display_type_portuguese`
-- Item 5002 "Aliens Killed" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_portuguese`, `display_type_portuguese`
-- Item 5003 "Healing" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_portuguese`, `display_type_portuguese`
-- Item 5004 "Fast Hacks" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_portuguese`, `display_type_portuguese`
-- Item 5005 "Enemies Frozen" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_portuguese`, `display_type_portuguese`
-- Item 5006 "Allies Extinguished" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_portuguese`, `display_type_portuguese`
-- Item 5007 "Alien Kill Streak" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_portuguese`, `display_type_portuguese`
-- Item 5008 "Infestations Cured" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_portuguese`, `display_type_portuguese`
+- Item 5000 "Missions" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_portuguese`, `accessory_description_portuguese`, `display_type_portuguese`
+- Item 5001 "Successful Missions" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_portuguese`, `accessory_description_portuguese`, `display_type_portuguese`
+- Item 5002 "Aliens Killed" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_portuguese`, `accessory_description_portuguese`, `display_type_portuguese`
+- Item 5003 "Healing" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_portuguese`, `accessory_description_portuguese`, `display_type_portuguese`
+- Item 5004 "Fast Hacks" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_portuguese`, `accessory_description_portuguese`, `display_type_portuguese`
+- Item 5005 "Enemies Frozen" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_portuguese`, `accessory_description_portuguese`, `display_type_portuguese`
+- Item 5006 "Allies Extinguished" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_portuguese`, `accessory_description_portuguese`, `display_type_portuguese`
+- Item 5007 "Alien Kill Streak" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_portuguese`, `accessory_description_portuguese`, `display_type_portuguese`
+- Item 5008 "Infestations Cured" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_portuguese`, `accessory_description_portuguese`, `display_type_portuguese`
 
 </details>
 
@@ -1853,15 +1854,15 @@
 - Item 3015 "MNV34 Nightvision Goggles" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_brazilian`
 - Item 3016 "MTD6 Smart Bomb" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_brazilian`
 - Item 3017 "TG-05 Gas Grenades" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_brazilian`
-- Item 5000 "Missions" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_brazilian`, `display_type_brazilian`
-- Item 5001 "Successful Missions" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_brazilian`, `display_type_brazilian`
-- Item 5002 "Aliens Killed" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_brazilian`, `display_type_brazilian`
-- Item 5003 "Healing" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_brazilian`, `display_type_brazilian`
-- Item 5004 "Fast Hacks" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_brazilian`, `display_type_brazilian`
-- Item 5005 "Enemies Frozen" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_brazilian`, `display_type_brazilian`
-- Item 5006 "Allies Extinguished" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_brazilian`, `display_type_brazilian`
-- Item 5007 "Alien Kill Streak" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_brazilian`, `display_type_brazilian`
-- Item 5008 "Infestations Cured" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_brazilian`, `display_type_brazilian`
+- Item 5000 "Missions" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_brazilian`, `accessory_description_brazilian`, `display_type_brazilian`
+- Item 5001 "Successful Missions" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_brazilian`, `accessory_description_brazilian`, `display_type_brazilian`
+- Item 5002 "Aliens Killed" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_brazilian`, `accessory_description_brazilian`, `display_type_brazilian`
+- Item 5003 "Healing" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_brazilian`, `accessory_description_brazilian`, `display_type_brazilian`
+- Item 5004 "Fast Hacks" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_brazilian`, `accessory_description_brazilian`, `display_type_brazilian`
+- Item 5005 "Enemies Frozen" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_brazilian`, `accessory_description_brazilian`, `display_type_brazilian`
+- Item 5006 "Allies Extinguished" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_brazilian`, `accessory_description_brazilian`, `display_type_brazilian`
+- Item 5007 "Alien Kill Streak" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_brazilian`, `accessory_description_brazilian`, `display_type_brazilian`
+- Item 5008 "Infestations Cured" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_brazilian`, `accessory_description_brazilian`, `display_type_brazilian`
 
 </details>
 
@@ -2154,16 +2155,304 @@
 - Item 3015 "MNV34 Nightvision Goggles" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_spanish`
 - Item 3016 "MTD6 Smart Bomb" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_spanish`
 - Item 3017 "TG-05 Gas Grenades" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_spanish`
-- Item 5000 "Missions" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_spanish`, `display_type_spanish`
-- Item 5001 "Successful Missions" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_spanish`, `display_type_spanish`
-- Item 5002 "Aliens Killed" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_spanish`, `display_type_spanish`
-- Item 5003 "Healing" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_spanish`, `display_type_spanish`
-- Item 5004 "Fast Hacks" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_spanish`, `display_type_spanish`
-- Item 5005 "Enemies Frozen" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_spanish`, `display_type_spanish`
-- Item 5006 "Allies Extinguished" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_spanish`, `display_type_spanish`
-- Item 5007 "Alien Kill Streak" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_spanish`, `display_type_spanish`
-- Item 5008 "Infestations Cured" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_spanish`, `display_type_spanish`
+- Item 5000 "Missions" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_spanish`, `accessory_description_spanish`, `display_type_spanish`
+- Item 5001 "Successful Missions" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_spanish`, `accessory_description_spanish`, `display_type_spanish`
+- Item 5002 "Aliens Killed" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_spanish`, `accessory_description_spanish`, `display_type_spanish`
+- Item 5003 "Healing" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_spanish`, `accessory_description_spanish`, `display_type_spanish`
+- Item 5004 "Fast Hacks" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_spanish`, `accessory_description_spanish`, `display_type_spanish`
+- Item 5005 "Enemies Frozen" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_spanish`, `accessory_description_spanish`, `display_type_spanish`
+- Item 5006 "Allies Extinguished" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_spanish`, `accessory_description_spanish`, `display_type_spanish`
+- Item 5007 "Alien Kill Streak" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_spanish`, `accessory_description_spanish`, `display_type_spanish`
+- Item 5008 "Infestations Cured" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_spanish`, `accessory_description_spanish`, `display_type_spanish`
 - Item 900000000 "Ben Lubar" in [item-schema-unique.json](community/inventory_service/item-schema-unique.json) is missing `name_spanish`, `briefing_name_spanish`
+
+</details>
+
+<details><summary>
+
+## latam (español latinoamericano)
+
+</summary>
+
+### Strings
+
+- [reactivedrop_latam.txt](addons/ExampleAddon/resource/reactivedrop_latam.txt) has 39 untranslated strings.
+- [inventory_service_tags_latam.vdf](community/inventory_service/inventory_service_tags_latam.vdf) has 28 untranslated strings.
+- [statsweb_latam.vdf](community/stats_website/statsweb_latam.vdf) has 198 untranslated strings.
+- [steam_input_latam.vdf](community/steam_input/steam_input_latam.vdf) has 19 untranslated strings.
+- [serverbrowser_latam.txt](platform/servers/serverbrowser_latam.txt) has 186 untranslated strings.
+- [vgui_latam.txt](platform/vgui_latam.txt) has 184 untranslated strings.
+- [basemodui_latam.txt](resource/basemodui_latam.txt) has 1279 untranslated strings.
+- [chat_latam.txt](resource/chat_latam.txt) has 8 untranslated strings.
+- [closecaption_latam.txt](resource/closecaption_latam.txt) has 2001 untranslated strings.
+- [gameui_latam.txt](resource/gameui_latam.txt) has 605 untranslated strings.
+- [reactivedrop_latam.txt](resource/reactivedrop_latam.txt) has 3877 untranslated strings.
+- [valve_latam.txt](resource/valve_latam.txt) has 266 untranslated strings.
+
+### Steam Store and Community
+
+- [eula_latam.txt](community/eula/eula_english.txt) is missing.
+- [app_items_563560_latam.json](community/points_shop/app_items_563560_english.json) is missing.
+- [mappingcontest2023_latam.txt](community/workshop/mappingcontest2023_english.txt) is missing.
+- [workshop_description_latam.txt](community/workshop/workshop_description_english.txt) is missing.
+- [workshop_tags_latam.json](community/workshop/workshop_tags_english.json) is missing.
+- [content_warning_563560_latam.txt](store_page/content_warning_563560_english.txt) is missing.
+- [storepage_81731_latam.json](store_page/storepage_81731_english.json) is missing.
+
+### Upcoming Release Notes
+
+- [20230311_latam.xml](release_notes/20230311_english.xml) is missing.
+- [20230419_latam.xml](release_notes/20230419_english.xml) is missing.
+- [20230420_latam.xml](release_notes/20230420_english.xml) is missing.
+
+### Credits
+
+- [CustomCampaignCredits_latam.txt](addons/ExampleAddon/resource/CustomCampaignCredits_english.txt) is missing.
+- [asw_credits_latam.txt](credits/asw_credits_english.txt) is missing.
+- [biogen_corporation_credits_latam.txt](credits/biogen_corporation_credits_english.txt) is missing.
+- [credits_acc32_official_latam.txt](credits/credits_acc32_official_english.txt) is missing.
+- [credits_marine_academy_latam.txt](credits/credits_marine_academy_english.txt) is missing.
+- [credits_namhumanum_latam.txt](credits/credits_namhumanum_english.txt) is missing.
+- [deathmatch_credits_latam.txt](credits/deathmatch_credits_english.txt) is missing.
+- [rd-LanasEscapeCredits_latam.txt](credits/rd-LanasEscapeCredits_english.txt) is missing.
+- [rd-area9800Credits_latam.txt](credits/rd-area9800Credits_english.txt) is missing.
+- [rd-ocs-credits_latam.txt](credits/rd-ocs-credits_english.txt) is missing.
+- [rd-tarnor_credits_latam.txt](credits/rd-tarnor_credits_english.txt) is missing.
+- [rd_bonus_missions_credits_latam.txt](credits/rd_bonus_missions_credits_english.txt) is missing.
+- [rd_paranoia_credits_latam.txt](credits/rd_paranoia_credits_english.txt) is missing.
+- [rd_research7_credits_latam.txt](credits/rd_research7_credits_english.txt) is missing.
+- [tilarus5_credits_latam.txt](credits/tilarus5_credits_english.txt) is missing.
+
+### Mail and News
+
+- [3rdmappdasmugler_latam.txt](resource/mail/3rdmappdasmugler_english.txt) is missing.
+- [3rdmappdaworker_latam.txt](resource/mail/3rdmappdaworker_english.txt) is missing.
+- [acc32_mail_findings_latam.txt](resource/mail/acc32_mail_findings_english.txt) is missing.
+- [acc32_mail_investigations_latam.txt](resource/mail/acc32_mail_investigations_english.txt) is missing.
+- [acc32_mail_localhouses_latam.txt](resource/mail/acc32_mail_localhouses_english.txt) is missing.
+- [acc32_mail_miningops_latam.txt](resource/mail/acc32_mail_miningops_english.txt) is missing.
+- [acc32_mail_news1_latam.txt](resource/mail/acc32_mail_news1_english.txt) is missing.
+- [acc32_mail_news2_latam.txt](resource/mail/acc32_mail_news2_english.txt) is missing.
+- [acc32_mail_random1_latam.txt](resource/mail/acc32_mail_random1_english.txt) is missing.
+- [acc32_mail_random2_left_latam.txt](resource/mail/acc32_mail_random2_left_english.txt) is missing.
+- [acc32_mail_random2_no_latam.txt](resource/mail/acc32_mail_random2_no_english.txt) is missing.
+- [acc32_mail_random2_right_latam.txt](resource/mail/acc32_mail_random2_right_english.txt) is missing.
+- [acc32_mail_research1_latam.txt](resource/mail/acc32_mail_research1_english.txt) is missing.
+- [acc32_mail_research2_latam.txt](resource/mail/acc32_mail_research2_english.txt) is missing.
+- [acc32_mail_secret2_latam.txt](resource/mail/acc32_mail_secret2_english.txt) is missing.
+- [acc32_mail_solution_latam.txt](resource/mail/acc32_mail_solution_english.txt) is missing.
+- [acc_info1_latam.txt](resource/mail/acc_info1_english.txt) is missing.
+- [acc_info2_latam.txt](resource/mail/acc_info2_english.txt) is missing.
+- [acc_power1_latam.txt](resource/mail/acc_power1_english.txt) is missing.
+- [acc_power2_latam.txt](resource/mail/acc_power2_english.txt) is missing.
+- [acc_power3_latam.txt](resource/mail/acc_power3_english.txt) is missing.
+- [acc_research1_latam.txt](resource/mail/acc_research1_english.txt) is missing.
+- [acc_research2_latam.txt](resource/mail/acc_research2_english.txt) is missing.
+- [acc_research3_latam.txt](resource/mail/acc_research3_english.txt) is missing.
+- [labsmail1_latam.txt](resource/mail/labsmail1_english.txt) is missing.
+- [labsmail2_latam.txt](resource/mail/labsmail2_english.txt) is missing.
+- [labsmail3_latam.txt](resource/mail/labsmail3_english.txt) is missing.
+- [labsmail4_latam.txt](resource/mail/labsmail4_english.txt) is missing.
+- [landingbaymail1_latam.txt](resource/mail/landingbaymail1_english.txt) is missing.
+- [landingbaymail2_latam.txt](resource/mail/landingbaymail2_english.txt) is missing.
+- [landingbaymail3_latam.txt](resource/mail/landingbaymail3_english.txt) is missing.
+- [ma_pda1_latam.txt](resource/mail/ma_pda1_english.txt) is missing.
+- [ma_pda2_latam.txt](resource/mail/ma_pda2_english.txt) is missing.
+- [minemails1_latam.txt](resource/mail/minemails1_english.txt) is missing.
+- [minemails2_latam.txt](resource/mail/minemails2_english.txt) is missing.
+- [minemails3_latam.txt](resource/mail/minemails3_english.txt) is missing.
+- [nh_officemail1_jacquesmoreau_latam.txt](resource/mail/nh_officemail1_jacquesmoreau_english.txt) is missing.
+- [nh_officemail2_jacquesmoreau_latam.txt](resource/mail/nh_officemail2_jacquesmoreau_english.txt) is missing.
+- [nh_officemail_lindasilva_latam.txt](resource/mail/nh_officemail_lindasilva_english.txt) is missing.
+- [nh_officemail_vladislavlazarev_latam.txt](resource/mail/nh_officemail_vladislavlazarev_english.txt) is missing.
+- [nh_officemail_wistonbeaufort_latam.txt](resource/mail/nh_officemail_wistonbeaufort_english.txt) is missing.
+- [nh_pda1_gaelflorenza_latam.txt](resource/mail/nh_pda1_gaelflorenza_english.txt) is missing.
+- [nh_pda2_gaelflorenza_latam.txt](resource/mail/nh_pda2_gaelflorenza_english.txt) is missing.
+- [nh_pda3_gaelflorenza_latam.txt](resource/mail/nh_pda3_gaelflorenza_english.txt) is missing.
+- [nh_pda4_gaelflorenza_latam.txt](resource/mail/nh_pda4_gaelflorenza_english.txt) is missing.
+- [nh_pda5_gaelflorenza_latam.txt](resource/mail/nh_pda5_gaelflorenza_english.txt) is missing.
+- [nh_pda6_gaelflorenza_latam.txt](resource/mail/nh_pda6_gaelflorenza_english.txt) is missing.
+- [nh_pda_francesiriac_latam.txt](resource/mail/nh_pda_francesiriac_english.txt) is missing.
+- [nh_pda_jacquesmoreau_latam.txt](resource/mail/nh_pda_jacquesmoreau_english.txt) is missing.
+- [nh_pda_jonathandorland_latam.txt](resource/mail/nh_pda_jonathandorland_english.txt) is missing.
+- [nh_pda_lindasilva_latam.txt](resource/mail/nh_pda_lindasilva_english.txt) is missing.
+- [nh_pda_sarahweiss_latam.txt](resource/mail/nh_pda_sarahweiss_english.txt) is missing.
+- [nh_pda_thibautholbert_latam.txt](resource/mail/nh_pda_thibautholbert_english.txt) is missing.
+- [nh_pda_tomasselin_latam.txt](resource/mail/nh_pda_tomasselin_english.txt) is missing.
+- [nh_pda_yannmontgomery_latam.txt](resource/mail/nh_pda_yannmontgomery_english.txt) is missing.
+- [nukeangermail_latam.txt](resource/mail/nukeangermail_english.txt) is missing.
+- [officemail1_latam.txt](resource/mail/officemail1_english.txt) is missing.
+- [officemail2_latam.txt](resource/mail/officemail2_english.txt) is missing.
+- [officemail3_latam.txt](resource/mail/officemail3_english.txt) is missing.
+- [officemail4_latam.txt](resource/mail/officemail4_english.txt) is missing.
+- [outsidemail1_latam.txt](resource/mail/outsidemail1_english.txt) is missing.
+- [outsidemail2_latam.txt](resource/mail/outsidemail2_english.txt) is missing.
+- [outsidemail3_latam.txt](resource/mail/outsidemail3_english.txt) is missing.
+- [plantmail1_latam.txt](resource/mail/plantmail1_english.txt) is missing.
+- [plantmail2_latam.txt](resource/mail/plantmail2_english.txt) is missing.
+- [plantmail3_latam.txt](resource/mail/plantmail3_english.txt) is missing.
+- [queenlairmail1_latam.txt](resource/mail/queenlairmail1_english.txt) is missing.
+- [queenlairmail2_latam.txt](resource/mail/queenlairmail2_english.txt) is missing.
+- [rd-benson_latam.txt](resource/mail/rd-benson_english.txt) is missing.
+- [rd-cave_geologist1_latam.txt](resource/mail/rd-cave_geologist1_english.txt) is missing.
+- [rd-lan-pda1_latam.txt](resource/mail/rd-lan-pda1_english.txt) is missing.
+- [rd-lan-pda2_latam.txt](resource/mail/rd-lan-pda2_english.txt) is missing.
+- [rd-lan-pda3_latam.txt](resource/mail/rd-lan-pda3_english.txt) is missing.
+- [rd-lan-pda4_latam.txt](resource/mail/rd-lan-pda4_english.txt) is missing.
+- [rd-lan-pda5_latam.txt](resource/mail/rd-lan-pda5_english.txt) is missing.
+- [rd-lan-pda6_latam.txt](resource/mail/rd-lan-pda6_english.txt) is missing.
+- [rd-smithson_latam.txt](resource/mail/rd-smithson_english.txt) is missing.
+- [rd-spaceport_security_latam.txt](resource/mail/rd-spaceport_security_english.txt) is missing.
+- [rd_res_houghton1_latam.txt](resource/mail/rd_res_houghton1_english.txt) is missing.
+- [rd_res_houghton2_latam.txt](resource/mail/rd_res_houghton2_english.txt) is missing.
+- [rd_res_houghton3_latam.txt](resource/mail/rd_res_houghton3_english.txt) is missing.
+- [rd_res_houghton4_latam.txt](resource/mail/rd_res_houghton4_english.txt) is missing.
+- [rd_res_houghton5_latam.txt](resource/mail/rd_res_houghton5_english.txt) is missing.
+- [rd_res_houghton6_latam.txt](resource/mail/rd_res_houghton6_english.txt) is missing.
+- [rd_res_rctinbound1_latam.txt](resource/mail/rd_res_rctinbound1_english.txt) is missing.
+- [rd_res_rctinbound2_latam.txt](resource/mail/rd_res_rctinbound2_english.txt) is missing.
+- [rd_subject58_latam.txt](resource/mail/rd_subject58_english.txt) is missing.
+- [sewersmail1_latam.txt](resource/mail/sewersmail1_english.txt) is missing.
+- [sewersmail2_latam.txt](resource/mail/sewersmail2_english.txt) is missing.
+- [sewersmail3_latam.txt](resource/mail/sewersmail3_english.txt) is missing.
+- [tilarus01port_MainStory1_latam.txt](resource/mail/tilarus01port_MainStory1_english.txt) is missing.
+- [tilarus01port_MainStory2_latam.txt](resource/mail/tilarus01port_MainStory2_english.txt) is missing.
+- [tilarus01port_MainStory3_latam.txt](resource/mail/tilarus01port_MainStory3_english.txt) is missing.
+- [tilarus01port_PublicMessage1_latam.txt](resource/mail/tilarus01port_PublicMessage1_english.txt) is missing.
+- [tilarus01port_PublicMessage2_latam.txt](resource/mail/tilarus01port_PublicMessage2_english.txt) is missing.
+- [tilarus01port_SideStory1_latam.txt](resource/mail/tilarus01port_SideStory1_english.txt) is missing.
+- [tilarus01port_SideStory2_latam.txt](resource/mail/tilarus01port_SideStory2_english.txt) is missing.
+- [tilarus01port_SideStory3_latam.txt](resource/mail/tilarus01port_SideStory3_english.txt) is missing.
+- [tilarus01port_craigsthingpda_latam.txt](resource/mail/tilarus01port_craigsthingpda_english.txt) is missing.
+- [tilarus03arctic_mail1_latam.txt](resource/mail/tilarus03arctic_mail1_english.txt) is missing.
+- [tilarus03arctic_mail2_latam.txt](resource/mail/tilarus03arctic_mail2_english.txt) is missing.
+- [tilarus03arctic_mail3_latam.txt](resource/mail/tilarus03arctic_mail3_english.txt) is missing.
+- [tilarus03arctic_mail4_latam.txt](resource/mail/tilarus03arctic_mail4_english.txt) is missing.
+- [tilarus09hospital_pda1_latam.txt](resource/mail/tilarus09hospital_pda1_english.txt) is missing.
+- [tilarus09hospital_pda2_latam.txt](resource/mail/tilarus09hospital_pda2_english.txt) is missing.
+- [tilarus09hospital_pda3_latam.txt](resource/mail/tilarus09hospital_pda3_english.txt) is missing.
+- [tilarus09hospital_pda4_latam.txt](resource/mail/tilarus09hospital_pda4_english.txt) is missing.
+- [tilarus09hospital_pda5_latam.txt](resource/mail/tilarus09hospital_pda5_english.txt) is missing.
+- [tutorialmail1_latam.txt](resource/mail/tutorialmail1_english.txt) is missing.
+- [tutorialmail2_latam.txt](resource/mail/tutorialmail2_english.txt) is missing.
+- [tutorialmail3_latam.txt](resource/mail/tutorialmail3_english.txt) is missing.
+- [antheonmissingnews_latam.txt](resource/news/antheonmissingnews_english.txt) is missing.
+- [antheonmoonnews_latam.txt](resource/news/antheonmoonnews_english.txt) is missing.
+- [brainnews_latam.txt](resource/news/brainnews_english.txt) is missing.
+- [convoynews_latam.txt](resource/news/convoynews_english.txt) is missing.
+- [droidlawsnews_latam.txt](resource/news/droidlawsnews_english.txt) is missing.
+- [expansionnews_latam.txt](resource/news/expansionnews_english.txt) is missing.
+- [experiornews_latam.txt](resource/news/experiornews_english.txt) is missing.
+- [newcolonynews_latam.txt](resource/news/newcolonynews_english.txt) is missing.
+- [nh_news_announcement_latam.txt](resource/news/nh_news_announcement_english.txt) is missing.
+- [nh_news_prospectus_latam.txt](resource/news/nh_news_prospectus_english.txt) is missing.
+- [rd-newfacilities_latam.txt](resource/news/rd-newfacilities_english.txt) is missing.
+- [rd-spaceport_news1_latam.txt](resource/news/rd-spaceport_news1_english.txt) is missing.
+- [refugeenews_latam.txt](resource/news/refugeenews_english.txt) is missing.
+
+### Inventory Schema</summary>
+
+- Item 1 "Participant - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_latam`, `briefing_name_latam`, `description_latam`, `before_description_latam`, `after_description_latam`, `display_type_latam`
+- Item 2 "Elite - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_latam`, `briefing_name_latam`, `description_latam`, `before_description_latam`, `after_description_latam`, `display_type_latam`
+- Item 3 "Trick Hat" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_latam`, `briefing_name_latam`, `description_latam`, `after_description_latam`, `display_type_latam`
+- Item 4 "Elite - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_latam`, `briefing_name_latam`, `description_latam`, `before_description_latam`, `after_description_latam`, `display_type_latam`
+- Item 5 "Elite - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_latam`, `briefing_name_latam`, `description_latam`, `before_description_latam`, `after_description_latam`, `display_type_latam`
+- Item 6 "Elite - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_latam`, `briefing_name_latam`, `description_latam`, `before_description_latam`, `after_description_latam`, `display_type_latam`
+- Item 13 "Beta Tester" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_latam`, `briefing_name_latam`, `description_latam`, `display_type_latam`
+- Item 15 "Top 20 - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_latam`, `briefing_name_latam`, `description_latam`, `before_description_latam`, `after_description_latam`, `display_type_latam`
+- Item 16 "Jacob's Rest Veteran" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_latam`, `briefing_name_latam`, `description_latam`, `display_type_latam`
+- Item 17 "Area 9800 Veteran" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_latam`, `briefing_name_latam`, `description_latam`, `display_type_latam`
+- Item 18 "Operation Cleansweep Veteran" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_latam`, `briefing_name_latam`, `description_latam`, `display_type_latam`
+- Item 19 "Lana's Escape Veteran" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_latam`, `briefing_name_latam`, `description_latam`, `display_type_latam`
+- Item 20 "Paranoia Veteran" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_latam`, `briefing_name_latam`, `description_latam`, `display_type_latam`
+- Item 21 "Research 7 Veteran" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_latam`, `briefing_name_latam`, `description_latam`, `display_type_latam`
+- Item 22 "Tears for Tarnor Veteran" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_latam`, `briefing_name_latam`, `description_latam`, `display_type_latam`
+- Item 23 "Tilarus-5 Veteran" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_latam`, `briefing_name_latam`, `description_latam`, `display_type_latam`
+- Item 24 "BioGen Corporation Veteran" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_latam`, `briefing_name_latam`, `description_latam`, `display_type_latam`
+- Item 25 "Nam Humanum Veteran" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_latam`, `briefing_name_latam`, `description_latam`, `display_type_latam`
+- Item 26 "Accident 32 Veteran" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_latam`, `briefing_name_latam`, `description_latam`, `display_type_latam`
+- Item 27 "Adanaxis Veteran" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_latam`, `briefing_name_latam`, `description_latam`, `display_type_latam`
+- Item 28 "Priority Number One" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_latam`, `briefing_name_latam`, `description_latam`, `display_type_latam`
+- Item 7 "Translator" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_latam`, `briefing_name_latam`, `description_latam`, `display_type_latam`
+- Item 8 "Programmer" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_latam`, `briefing_name_latam`, `description_latam`, `display_type_latam`
+- Item 9 "Mapper" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_latam`, `briefing_name_latam`, `description_latam`, `display_type_latam`
+- Item 10 "Challenger" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_latam`, `briefing_name_latam`, `description_latam`, `display_type_latam`
+- Item 11 "Guide" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_latam`, `briefing_name_latam`, `description_latam`, `display_type_latam`
+- Item 12 "Artist" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_latam`, `briefing_name_latam`, `description_latam`, `display_type_latam`
+- Item 14 "Reporter" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_latam`, `briefing_name_latam`, `description_latam`, `display_type_latam`
+- Item 100000000 "Donor: Tears for Tarnor" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_latam`, `description_latam`, `ingame_description_latam`, `after_description_latam`, `display_type_latam`
+- Item 100000001 "Donor: Paranoia" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_latam`, `description_latam`, `ingame_description_latam`, `after_description_latam`, `display_type_latam`
+- Item 100000002 "Donor: Lana's Escape" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_latam`, `description_latam`, `ingame_description_latam`, `after_description_latam`, `display_type_latam`
+- Item 100000003 "Donor: Operation Cleansweep" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_latam`, `description_latam`, `ingame_description_latam`, `after_description_latam`, `display_type_latam`
+- Item 100000004 "Donor: Research 7" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_latam`, `description_latam`, `ingame_description_latam`, `after_description_latam`, `display_type_latam`
+- Item 100000005 "Donor: Area 9800" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_latam`, `description_latam`, `ingame_description_latam`, `after_description_latam`, `display_type_latam`
+- Item 100000006 "Donor: BioGen Corporation" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_latam`, `description_latam`, `ingame_description_latam`, `after_description_latam`, `display_type_latam`
+- Item 100000007 "Donor: Nam Humanum" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_latam`, `description_latam`, `ingame_description_latam`, `after_description_latam`, `display_type_latam`
+- Item 100000008 "Donor: Accident 32" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_latam`, `description_latam`, `ingame_description_latam`, `after_description_latam`, `display_type_latam`
+- Item 100000009 "Donor: Adanaxis" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_latam`, `description_latam`, `ingame_description_latam`, `after_description_latam`, `display_type_latam`
+- Item 1000 "Sarge's Suit" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_latam`, `description_latam`, `display_type_latam`
+- Item 1001 "Wildcat's Suit" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_latam`, `description_latam`, `display_type_latam`
+- Item 1002 "Faith's Suit" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_latam`, `description_latam`, `display_type_latam`
+- Item 1003 "Crash's Suit" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_latam`, `description_latam`, `display_type_latam`
+- Item 1004 "Jaeger's Suit" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_latam`, `description_latam`, `display_type_latam`
+- Item 1005 "Wolfe's Suit" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_latam`, `description_latam`, `display_type_latam`
+- Item 1006 "Bastille's Suit" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_latam`, `description_latam`, `display_type_latam`
+- Item 1007 "Vegas's Suit" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_latam`, `description_latam`, `display_type_latam`
+- Item 2000 "22A3-1 Assault Rifle" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_latam`, `description_latam`, `display_type_latam`
+- Item 2001 "22A7-Z Prototype Assault Rifle" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_latam`, `description_latam`, `display_type_latam`
+- Item 2002 "S23A SynTek Autogun" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_latam`, `description_latam`, `display_type_latam`
+- Item 2003 "M42 Vindicator" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_latam`, `description_latam`, `display_type_latam`
+- Item 2004 "M73 Twin Pistols" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_latam`, `description_latam`, `display_type_latam`
+- Item 2005 "IAF Advanced Sentry Gun" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_latam`, `description_latam`, `display_type_latam`
+- Item 2006 "IAF Heal Beacon" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_latam`, `description_latam`, `display_type_latam`
+- Item 2007 "IAF Ammo Satchel" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_latam`, `description_latam`, `display_type_latam`
+- Item 2008 "Model 35 Pump-action Shotgun" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_latam`, `description_latam`, `display_type_latam`
+- Item 2009 "IAF Tesla Cannon" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_latam`, `description_latam`, `display_type_latam`
+- Item 2010 "Precision Rail Rifle" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_latam`, `description_latam`, `display_type_latam`
+- Item 2011 "IAF Medical Gun" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_latam`, `description_latam`, `display_type_latam`
+- Item 2012 "K80 Personal Defense Weapon" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_latam`, `description_latam`, `display_type_latam`
+- Item 2013 "M868 Flamer Unit" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_latam`, `description_latam`, `display_type_latam`
+- Item 2014 "IAF Freeze Sentry Gun" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_latam`, `description_latam`, `display_type_latam`
+- Item 2015 "IAF Minigun" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_latam`, `description_latam`, `display_type_latam`
+- Item 2016 "AVK-36 Marksman Rifle" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_latam`, `description_latam`, `display_type_latam`
+- Item 2017 "IAF Incendiary Sentry Gun" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_latam`, `description_latam`, `display_type_latam`
+- Item 2018 "Chainsaw" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_latam`, `description_latam`, `display_type_latam`
+- Item 2019 "IAF High Velocity Sentry Cannon" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_latam`, `description_latam`, `display_type_latam`
+- Item 2020 "Grenade Launcher" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_latam`, `description_latam`, `display_type_latam`
+- Item 2021 "PS50 Bulldog" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_latam`, `description_latam`, `display_type_latam`
+- Item 2022 "IAF HAS42 Devastator" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_latam`, `description_latam`, `display_type_latam`
+- Item 2023 "22A4-2 Combat Rifle" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_latam`, `description_latam`, `display_type_latam`
+- Item 2024 "IAF Medical Amplifier Gun" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_latam`, `description_latam`, `display_type_latam`
+- Item 2025 "22A5 Heavy Assault Rifle" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_latam`, `description_latam`, `display_type_latam`
+- Item 2026 "IAF Medical SMG" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_latam`, `description_latam`, `display_type_latam`
+- Item 3000 "IAF Personal Healing Kit" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_latam`, `description_latam`, `display_type_latam`
+- Item 3001 "Hand Welder" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_latam`, `description_latam`, `display_type_latam`
+- Item 3002 "SM75 Combat Flares" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_latam`, `description_latam`, `display_type_latam`
+- Item 3003 "ML30 Laser Trip Mine" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_latam`, `description_latam`, `display_type_latam`
+- Item 3004 "l3a Tactical Heavy Armor" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_latam`, `description_latam`, `display_type_latam`
+- Item 3005 "X33 Damage Amplifier" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_latam`, `description_latam`, `display_type_latam`
+- Item 3006 "Hornet Barrage" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_latam`, `description_latam`, `display_type_latam`
+- Item 3007 "CR18 Freeze Grenades" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_latam`, `description_latam`, `display_type_latam`
+- Item 3008 "Adrenaline" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_latam`, `description_latam`, `display_type_latam`
+- Item 3009 "IAF Tesla Sentry Coil" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_latam`, `description_latam`, `display_type_latam`
+- Item 3010 "v45 Electric Charged Armor" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_latam`, `description_latam`, `display_type_latam`
+- Item 3011 "M478 Proximity Incendiary Mines" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_latam`, `description_latam`, `display_type_latam`
+- Item 3012 "Flashlight Attachment" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_latam`, `description_latam`, `display_type_latam`
+- Item 3013 "IAF Power Fist Attachment" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_latam`, `description_latam`, `display_type_latam`
+- Item 3014 "FG01 Hand Grenades" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_latam`, `description_latam`, `display_type_latam`
+- Item 3015 "MNV34 Nightvision Goggles" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_latam`, `description_latam`, `display_type_latam`
+- Item 3016 "MTD6 Smart Bomb" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_latam`, `description_latam`, `display_type_latam`
+- Item 3017 "TG-05 Gas Grenades" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_latam`, `description_latam`, `display_type_latam`
+- Item 5000 "Missions" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_latam`, `accessory_description_latam`, `display_type_latam`
+- Item 5001 "Successful Missions" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_latam`, `accessory_description_latam`, `display_type_latam`
+- Item 5002 "Aliens Killed" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_latam`, `accessory_description_latam`, `display_type_latam`
+- Item 5003 "Healing" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_latam`, `accessory_description_latam`, `display_type_latam`
+- Item 5004 "Fast Hacks" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_latam`, `accessory_description_latam`, `display_type_latam`
+- Item 5005 "Enemies Frozen" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_latam`, `accessory_description_latam`, `display_type_latam`
+- Item 5006 "Allies Extinguished" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_latam`, `accessory_description_latam`, `display_type_latam`
+- Item 5007 "Alien Kill Streak" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_latam`, `accessory_description_latam`, `display_type_latam`
+- Item 5008 "Infestations Cured" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_latam`, `accessory_description_latam`, `display_type_latam`
+- Item 900000000 "Ben Lubar" in [item-schema-unique.json](community/inventory_service/item-schema-unique.json) is missing `name_latam`, `briefing_name_latam`
 
 </details>
 
@@ -2442,15 +2731,15 @@
 - Item 3015 "MNV34 Nightvision Goggles" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_ukrainian`
 - Item 3016 "MTD6 Smart Bomb" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_ukrainian`
 - Item 3017 "TG-05 Gas Grenades" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_ukrainian`, `description_ukrainian`, `display_type_ukrainian`
-- Item 5000 "Missions" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_ukrainian`, `display_type_ukrainian`
-- Item 5001 "Successful Missions" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_ukrainian`, `display_type_ukrainian`
-- Item 5002 "Aliens Killed" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_ukrainian`, `display_type_ukrainian`
-- Item 5003 "Healing" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_ukrainian`, `display_type_ukrainian`
-- Item 5004 "Fast Hacks" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_ukrainian`, `display_type_ukrainian`
-- Item 5005 "Enemies Frozen" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_ukrainian`, `display_type_ukrainian`
-- Item 5006 "Allies Extinguished" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_ukrainian`, `display_type_ukrainian`
-- Item 5007 "Alien Kill Streak" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_ukrainian`, `display_type_ukrainian`
-- Item 5008 "Infestations Cured" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_ukrainian`, `display_type_ukrainian`
+- Item 5000 "Missions" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_ukrainian`, `accessory_description_ukrainian`, `display_type_ukrainian`
+- Item 5001 "Successful Missions" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_ukrainian`, `accessory_description_ukrainian`, `display_type_ukrainian`
+- Item 5002 "Aliens Killed" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_ukrainian`, `accessory_description_ukrainian`, `display_type_ukrainian`
+- Item 5003 "Healing" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_ukrainian`, `accessory_description_ukrainian`, `display_type_ukrainian`
+- Item 5004 "Fast Hacks" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_ukrainian`, `accessory_description_ukrainian`, `display_type_ukrainian`
+- Item 5005 "Enemies Frozen" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_ukrainian`, `accessory_description_ukrainian`, `display_type_ukrainian`
+- Item 5006 "Allies Extinguished" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_ukrainian`, `accessory_description_ukrainian`, `display_type_ukrainian`
+- Item 5007 "Alien Kill Streak" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_ukrainian`, `accessory_description_ukrainian`, `display_type_ukrainian`
+- Item 5008 "Infestations Cured" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_ukrainian`, `accessory_description_ukrainian`, `display_type_ukrainian`
 
 </details>
 
@@ -2716,15 +3005,15 @@
 - Item 3015 "MNV34 Nightvision Goggles" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_vietnamese`, `description_vietnamese`, `display_type_vietnamese`
 - Item 3016 "MTD6 Smart Bomb" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_vietnamese`, `description_vietnamese`, `display_type_vietnamese`
 - Item 3017 "TG-05 Gas Grenades" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_vietnamese`, `description_vietnamese`, `display_type_vietnamese`
-- Item 5000 "Missions" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_vietnamese`, `display_type_vietnamese`
-- Item 5001 "Successful Missions" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_vietnamese`, `display_type_vietnamese`
-- Item 5002 "Aliens Killed" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_vietnamese`, `display_type_vietnamese`
-- Item 5003 "Healing" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_vietnamese`, `display_type_vietnamese`
-- Item 5004 "Fast Hacks" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_vietnamese`, `display_type_vietnamese`
-- Item 5005 "Enemies Frozen" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_vietnamese`, `display_type_vietnamese`
-- Item 5006 "Allies Extinguished" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_vietnamese`, `display_type_vietnamese`
-- Item 5007 "Alien Kill Streak" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_vietnamese`, `display_type_vietnamese`
-- Item 5008 "Infestations Cured" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_vietnamese`, `display_type_vietnamese`
+- Item 5000 "Missions" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_vietnamese`, `accessory_description_vietnamese`, `display_type_vietnamese`
+- Item 5001 "Successful Missions" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_vietnamese`, `accessory_description_vietnamese`, `display_type_vietnamese`
+- Item 5002 "Aliens Killed" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_vietnamese`, `accessory_description_vietnamese`, `display_type_vietnamese`
+- Item 5003 "Healing" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_vietnamese`, `accessory_description_vietnamese`, `display_type_vietnamese`
+- Item 5004 "Fast Hacks" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_vietnamese`, `accessory_description_vietnamese`, `display_type_vietnamese`
+- Item 5005 "Enemies Frozen" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_vietnamese`, `accessory_description_vietnamese`, `display_type_vietnamese`
+- Item 5006 "Allies Extinguished" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_vietnamese`, `accessory_description_vietnamese`, `display_type_vietnamese`
+- Item 5007 "Alien Kill Streak" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_vietnamese`, `accessory_description_vietnamese`, `display_type_vietnamese`
+- Item 5008 "Infestations Cured" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_vietnamese`, `accessory_description_vietnamese`, `display_type_vietnamese`
 - Item 900000000 "Ben Lubar" in [item-schema-unique.json](community/inventory_service/item-schema-unique.json) is missing `name_vietnamese`, `briefing_name_vietnamese`
 
 </details>
@@ -2742,7 +3031,6 @@ These languages have not been substantially updated since the start of the React
 - hungarian (magyar)
 - norwegian (norsk bokmål)
 - romanian (română)
-- latam (español latinoamericano)
 - swedish (svenska)
 - thai (ไทย)
 - turkish (Türkçe)
