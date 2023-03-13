@@ -9,10 +9,6 @@
 
 [img]{STEAM_CLAN_IMAGE}/27357479/b527e399d2930690d08f8aa95025dedcc0cf1b9d.jpg[/img]
 
-[h1]新キャンペーン: Adanaxis[/h1]
-
-TODO
-
 [h1]コレクション: 武器、装備、エイリアン図鑑[/h1]
 
 予告通りに、コレクション画面の追加時にエイリアン図鑑も戻ってきました。しかも以前より良い物になりました！戦場でエイリアンを倒すことでエイリアンについての能力値解説、アドバイス、ストーリー短編をアンロックできます。アドオンによって独自のエイリアン図鑑の項目を作ったり、既存の項目に追加もできます。
@@ -212,4 +208,4 @@ TODO
 [*]asw_vehicle_jeepが乗員についての情報を要求するメソッドとして、MaxPassengers(), GetDriver(), GetPassenger(seat)を持つようになった。
 [*]asw_vehicle_jeepが統計情報を取得するメソッドとして、GetSpeed, GetMaxSpeed (時速マイル表記), GetRPM, GetThrottle, HasBoost, BoostTimeLeftを持つようになった。
 [*]SetSpawnZombineOnMarineKillを操作可能なNPCに、SetSpawnZombineOnDeathを海兵隊に、そしてコンソール変数rd_marine_spawn_zombine_on_death_chanceを追加。これらは海兵隊が死亡した時にゾンバインのAIで動く海兵隊ゾンビを出現させるのに使えます。
-[/list]</string><string id="subtitle">今日はAlien Swarm: Reactive Dropの誕生日です！</string><string id="summary">今日はAlien Swarm: Reactive DropがSteamでリリースされてから6周年の記念日です！経験値2倍週間、2つの新キャンペーン、その他色々でお祝いしましょう。</string><string id="title">Alien Swarm: Reactive Dropアップデート - 2023年4月20日</string></content>
+[/list]</string><string id="subtitle">今日はAlien Swarm: Reactive Dropの誕生日です！</string><string id="summary">今日はAlien Swarm: Reactive DropがSteamでリリースされてから6周年の記念日です！経験値2倍週間、1つの新キャンペーン、その他色々でお祝いしましょう。</string><string id="title">Alien Swarm: Reactive Dropアップデート - 2023年4月20日</string></content>
