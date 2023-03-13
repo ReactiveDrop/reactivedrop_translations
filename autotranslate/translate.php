@@ -156,6 +156,7 @@ foreach ($iterator as $item) {
 
 									// write back to kv, but mark translation with a *
 									$v = sprintf('%s*', $translation);
+									$v = str_replace(':*', '*:', $v);
 								}
 
 							} catch (Exception $e) {
