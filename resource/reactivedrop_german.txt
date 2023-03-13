@@ -8027,7 +8027,7 @@
 "rd_collection_title"		"Inventar"
 "[english]rd_collection_title"		"Collections"
 "rd_collection_inventory_medals"		"Sammlerstücke"
-"[english]rd_collection_inventory_medals"		"Medals"
+"[english]rd_collection_inventory_medals"		"Collectibles"
 "rd_collection_inventory_error_generic"		"Inventar derzeit nicht verfügbar"
 "[english]rd_collection_inventory_error_generic"		"Inventory currently unavailable"
 "rd_collection_inventory_error_22"		"Inventar lädt..."
