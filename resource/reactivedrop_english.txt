@@ -4346,7 +4346,7 @@
 
 "rd_mainmenu_collections"	"COLLECTIONS"
 "rd_collection_title"	"Collections"
-"rd_collection_inventory_medals"	"Medals"
+"rd_collection_inventory_medals"	"Collectibles"
 "rd_collection_inventory_error_generic"	"Inventory currently unavailable"
 // k_EResultPending
 "rd_collection_inventory_error_22"	"Loading inventory..."
