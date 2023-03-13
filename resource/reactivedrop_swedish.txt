@@ -8136,23 +8136,35 @@
 		"tf_dingalingaling_last_effect"		"Sista träff-ljud"
 		"[english]tf_dingalingaling_last_effect"		"Last Hit Sounds"
 		"tf_dingalingaling_Default"		"Standard"
+		// large bell clang
 		"[english]tf_dingalingaling_Default"		"Default"
 		"tf_dingalingaling_Electro"		"Elektro"
+		// pinball machine sound
 		"[english]tf_dingalingaling_Electro"		"Electro"
 		"tf_dingalingaling_Notes"		"Noter"
+		// rock music
 		"[english]tf_dingalingaling_Notes"		"Notes"
 		"tf_dingalingaling_Percussion"		"Slagverk"
+		// snare drum
 		"[english]tf_dingalingaling_Percussion"		"Percussion"
 		"tf_dingalingaling_Retro"		"Retro"
+		// space invaders arcade cabinet
 		"[english]tf_dingalingaling_Retro"		"Retro"
 		"tf_dingalingaling_Space"		"Rymd"
+		// sci-fi laser gun
 		"[english]tf_dingalingaling_Space"		"Space"
 		"tf_dingalingaling_Beepo"		"Beepo"
+		// synthesized beep
 		"[english]tf_dingalingaling_Beepo"		"Beepo"
 		"tf_dingalingaling_Vortex"		"Vortex"
+		// sci-fi phaser pewpew
 		"[english]tf_dingalingaling_Vortex"		"Vortex"
 		"tf_dingalingaling_Squasher"		"Squasher"
+		// goop splash
 		"[english]tf_dingalingaling_Squasher"		"Squasher"
+		"tf_dingalingaling_Swarm"		"Swarm"
+		// meaty hit
+		"[english]tf_dingalingaling_Swarm"		"Swarm"
 		"asw_hud_counter_format"		"%s1: %s2"
 		// %s1 is mapper-specified label text. %s2 is a number. %s3 is the amount the number will change by soon.
 		"[english]asw_hud_counter_format"		"%s1: %s2"
