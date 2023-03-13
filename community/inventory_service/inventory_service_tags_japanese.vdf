@@ -43,8 +43,8 @@
 "inventory_slot"		"装備スロット"
 // where an item can be equipped.
 "[english]inventory_slot"		"Slot"
-"inventory_slot_medal"		"勲章"
-"[english]inventory_slot_medal"		"Medal"
+		"inventory_slot_medal"		"勲章"
+		"[english]inventory_slot_medal"		"Collectible"
 "inventory_slot_suit"		"スーツ"
 "[english]inventory_slot_suit"		"Suit"
 "inventory_slot_weapon"		"武器"
