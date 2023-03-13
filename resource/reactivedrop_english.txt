@@ -852,7 +852,7 @@
 "asw_options_tab"	"OPTIONS"
 "asw_stats_tab"	"STATS"
 "asw_debrief_tab"	"DEBRIEF"
-"asw_medals_tab"	"MEDALS"
+"asw_medals_tab"	"ACHIEVEMENTS"
 "asw_summary"	"SUMMARY"
 "asw_experience_level"	"Level %s1"
 "asw_xp_mission"	"Objectives Complete"
