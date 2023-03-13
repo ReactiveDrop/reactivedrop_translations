@@ -4407,15 +4407,26 @@
 
 "tf_dingalingaling_effect"	"Hit Sounds"
 "tf_dingalingaling_last_effect"	"Last Hit Sounds"
+// large bell clang
 "tf_dingalingaling_Default"	"Default"
+// pinball machine sound
 "tf_dingalingaling_Electro"	"Electro"
+// rock music
 "tf_dingalingaling_Notes"	"Notes"
+// snare drum
 "tf_dingalingaling_Percussion"	"Percussion"
+// space invaders arcade cabinet
 "tf_dingalingaling_Retro"	"Retro"
+// sci-fi laser gun
 "tf_dingalingaling_Space"	"Space"
+// synthesized beep
 "tf_dingalingaling_Beepo"	"Beepo"
+// sci-fi phaser pewpew
 "tf_dingalingaling_Vortex"	"Vortex"
+// goop splash
 "tf_dingalingaling_Squasher"	"Squasher"
+// meaty hit
+"tf_dingalingaling_Swarm"	"Swarm"
 
 // %s1 is mapper-specified label text. %s2 is a number. %s3 is the amount the number will change by soon.
 "asw_hud_counter_format"	"%s1: %s2"
