@@ -9,10 +9,6 @@ Ursprünglich im Mai 2020 und Mai 2022 auf dem Steam Workshop veröffentlicht, i
 
 [img]{STEAM_CLAN_IMAGE}/27357479/b527e399d2930690d08f8aa95025dedcc0cf1b9d.jpg[/img]
 
-[h1]Neuer Feldzug: Adanaxis[/h1]
-
-TODO
-
 [h1]INVENTAR: Waffen, Ausrüstung und Swarmopedia[/h1]
 
 Wie bei der Einführung des Inventarbildschirms versprochen, ist die Swarmopedia zurückgekehrt, besser als je zuvor! Schalte Statistiken, Tipps und Kurzgeschichten über Aliens frei, indem du sie auf dem Feld tötest. Workshop-Erweiterungen können auch ihre eigenen Swarmopedia-Einträge erstellen oder Inhalte zu bestehenden Einträgen hinzufügen.
@@ -212,4 +208,4 @@ Hier sind einige Highlights der Updates seit dem letzten Jahrestag:
 [*]asw_vehicle_jeep hat Methoden zur Abfrage der Insassen: MaxPassengers(), GetDriver(), und GetPassenger(seat).
 [*]asw_vehicle_jeep hat Methoden zum Abrufen von Statistiken: GetSpeed, GetMaxSpeed (in Meilen pro Stunde), GetRPM, GetThrottle, HasBoost, und BoostTimeLeft.
 [*]SetSpawnZombineOnMarineKill für bewohnbare NSCs, SetSpawnZombineOnDeath für Soldaten und ein Convar rd_marine_spawn_zombine_on_death_chance wurden hinzugefügt, mit denen du einen Soldaten-Zombie mit der Zombine-KI spawnen lassen kannst, wenn ein Soldat stirbt.
-[/list]</string><string id="subtitle">Es ist der Alien Swarm: Reactive Drop's Geburtstag!</string><string id="summary">Heute feiert Alien Swarm: Reactive Drop sein 6-jähriges Bestehen auf Steam. Hier ist eine Woche mit doppelter Erfahrung, zwei neuen Feldzügen und ein paar anderen Leckerlis zum Feiern.</string><string id="title">Alien Swarm: Reactive Drop Update - 20. April 2023</string></content>
+[/list]</string><string id="subtitle">Es ist der Alien Swarm: Reactive Drop's Geburtstag!</string><string id="summary">Heute feiert Alien Swarm: Reactive Drop sein 6-jähriges Bestehen auf Steam. Hier ist eine Woche mit doppelter Erfahrung, eine neue Feldzüge und ein paar anderen Leckerlis zum Feiern.</string><string id="title">Alien Swarm: Reactive Drop Update - 20. April 2023</string></content>

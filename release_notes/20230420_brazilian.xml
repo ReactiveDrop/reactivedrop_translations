@@ -9,17 +9,12 @@ Lançado originalmente em maio de 2020 e maio de 2022 no Steam Workshop, Acciden
 
 [img]{STEAM_CLAN_IMAGE}/27357479/b527e399d2930690d08f8aa95025dedcc0cf1b9d.jpg[/img]
 
-[h1]Nova campanha: Adanaxis[/h1]
-
-TO-DO
-
 [h1]Coleções: Armas, Equipamentos e Swarmopedia[/h1]
 
 Conforme prometido quando a tela Coleções foi adicionada, a Swarmopedia retornou, melhor do que nunca! Desbloqueie estatísticas, dicas e histórias curtas sobre alienígenas matando-os no campo. Os add-ons também podem criar suas próprias entradas no Swarmopedia ou adicionar conteúdo às já existentes.
 
 Com a reformulação da Swarmopedia, terá uma nova tela para selecionar armas usando uma grade destinada a acelerar a localização de armas de alto nível e ajudar na memória muscular. Desbloquear armas ao subir de nível agora também dá acesso às fichas técnicas, com estatísticas precisas sobre alcance, dano e muito mais.
 
-		TODO: Translate the strings needed for the Swarmopedia screens shown and poke Ben to update the image.
 [img]{STEAM_CLAN_IMAGE}/27357479/4c7e048faa14c18b437e4a547f40a63c332ec653.jpg[/img]
 
 [h1]Competição de Mapas 2023: "Boss Fight"[/h1]
@@ -213,4 +208,4 @@ Aqui estão alguns destaques das atualizações desde o aniversário anterior:
 [*]asw_vehicle_jeep possui métodos para consultar os ocupantes: MaxPassengers(), GetDriver() e GetPassenger(seat).
 [*]asw_vehicle_jeep tem métodos para recuperar estatísticas: GetSpeed, GetMaxSpeed (em milhas por hora), GetRPM, GetThrottle, HasBoost e BoostTimeLeft.
 		[*]Added SetSpawnZombineOnMarineKill to inhabitable NPCs, SetSpawnZombineOnDeath to marines, and a convar rd_marine_spawn_zombine_on_death_chance, all of which can be used to spawn a marine zombie with the Zombine AI when a marine dies.
-[/list]</string><string id="subtitle">É aniversário do Alien Swarm: Reactive Drop!</string><string id="summary">Hoje, Alien Swarm: Reactive Drop comemora 6 anos no Steam! Aqui está uma semana de dobro de experiência, duas novas campanhas e alguns outros brindes para comemorar.</string><string id="title">Alien Swarm: Reactive Drop Atualização - 20 de abril de 2023</string></content>
+[/list]</string><string id="subtitle">É aniversário do Alien Swarm: Reactive Drop!</string><string id="summary">Hoje, Alien Swarm: Reactive Drop comemora 6 anos no Steam! Aqui está uma semana de dobro de experiência, uma nova campanha e alguns outros brindes para comemorar.</string><string id="title">Alien Swarm: Reactive Drop Atualização - 20 de abril de 2023</string></content>
