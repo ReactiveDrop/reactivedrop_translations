@@ -16,6 +16,19 @@ $progress = file_exists($progressFile) ? json_decode(file_get_contents($progress
 // argc
 if (in_array('--force', $argv)) $progress = new StdClass;
 
+// languages
+$languages = json_decode(
+	file_get_contents(__DIR__ . '/language.mapping.json')
+);
+
+if (in_array('--lang', $argv)) {
+	$pos = array_search('--lang', $argv);
+	$lang = $argv[$pos+1];
+	$languages = (object)[
+		$lang => $languages->{$lang}
+	];
+}
+
 // debug
 function dd($msg)
 {
@@ -55,9 +68,6 @@ function getPlaceHolders(&$v): array {
 	return $placeholders;
 }
 
-$languages = json_decode(
-	file_get_contents(__DIR__ . '/language.mapping.json')
-);
 
 // libs
 $parser = new Parser;
@@ -87,6 +97,9 @@ foreach ($iterator as $item) {
 		// only auto translate non-english text
 		$l = isset($languages->{$lang}) ? strlen($languages->{$lang}) : 0;
 		if ($l === 2 || $l === 5) {
+
+			// abort
+			$abort = false;
 
 			// open file
 			$data = $parser->parse(
@@ -120,7 +133,7 @@ foreach ($iterator as $item) {
 					$i++;
 
 					// if translation is set, and is the same, we probably need an update
-					if (!strstr($k, '[english]') && $originals[$k] === $v && trim($v)) {
+					if (!$abort && !strstr($k, '[english]') && $originals[$k] === $v && trim($v)) {
 
 						if ($progress->{$item->getBasename()} <= $i) {
 
@@ -143,7 +156,11 @@ foreach ($iterator as $item) {
 								}
 
 							} catch (Exception $e) {
-								echo sprintf('[%s] %s', $e->getMessage(), $v) . PHP_EOL;
+								echo PHP_EOL;
+								echo sprintf('error: %s', $e->getMessage()) . PHP_EOL;
+								echo sprintf('text: %s', $v);
+
+								if (strstr($e->getMessage(), 'is not supported')) $abort = true;
 							}
 
 							// restore placeholders
@@ -153,7 +170,7 @@ foreach ($iterator as $item) {
 							}
 						}
 
-						if ($i > $progress->{$item->getBasename()}) {
+						if (!$abort && $i > $progress->{$item->getBasename()}) {
 							$progress->{$item->getBasename()} = $i;
 							if (++$i % 1000 == 0) {
 								writeProgress();
