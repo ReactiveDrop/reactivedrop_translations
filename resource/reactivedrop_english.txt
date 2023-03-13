@@ -703,7 +703,7 @@
 "asw_door_unsealing"	"Unwelding Door"
 
 "asw_achievement_progress"	"Progress"
-"asw_medal0"	"Unknown Medal"
+"asw_medal0"	"Unknown Achievement"
 "asw_medal1"	"Blood Heart"
 "asw_medal2"	"Short Controlled Bursts"
 "asw_medal3"	"Shield Down"
