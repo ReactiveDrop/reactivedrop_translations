@@ -43,29 +43,22 @@ function writeProgress()
 	file_put_contents($progressFile, json_encode($progress));
 }
 
-function getPlaceHolders(&$v): array {
-	// XXX: test string
-	// $v = "<50 % %1s %+slot1% \n\n \t <B><I><clr:255:1:0>";
+// mark special chars
+$chars = [
+	"\n" => "<br/>",
+	"\t" => "<blockquote/>"
+];
 
-	$placeholders = [];
+function escapeString($v): string {
+	global $chars;
 
-	// try isolate single tokens
-	$matches = [];
-	preg_match_all("/\\n|\\t|\\r|<[\w:\/]+>|%\d\w|\.[A-Z]{3}/si", $v, $matches);
+	// placeholders, .extensions and hostnames
+	$v = preg_replace('/(%\d\w|\.[A-Z]{3}|< \d+|[a-z0-9:.]{12,}|%[\w+-_]+%|\s%\s)/', '<code x-data="$1"></code>', $v);
 
-	// add placeholders
-	$placeholders = $matches[0];
+	// chars
+	$v = str_replace(array_keys($chars), array_values($chars), $v);
 
-	// isolate range patterns
-	preg_match_all("/%[\w+-_]+%/s", $v, $matches);
-	foreach ($matches[0] as $m) $placeholders[] = $m;
-
-	// replace them
-	foreach ($placeholders as $n => $p) {
-		$v = str_replace($p, sprintf('%%#%d%%', $n), $v);
-	}
-
-	return $placeholders;
+	return $v;
 }
 
 
@@ -137,9 +130,19 @@ foreach ($iterator as $item) {
 
 						if ($progress->{$item->getBasename()} <= $i) {
 
-							$placeholders = getPlaceHolders($v);
+							// XXX: test strings
+							$test = null;
+							$test = "< 50 % %1s %+slot1% \n\n \t <B><I><clr:255:1:0>";
+							// $test = "< 50";
+							// $test = "Examples:\ntfc.valvesoftware.com\ncounterstrike.speakeasy.net:27016\n205.158.143.200:27015";
 
 							// try translation
+							if ($test) $v = $test;
+
+							// placeholders
+							$v = escapeString($v);
+							$vi = $v;
+
 							try {
 								$translation = $translator->translate($v, "auto", $languages->{$lang});
 
@@ -157,16 +160,43 @@ foreach ($iterator as $item) {
 
 							} catch (Exception $e) {
 								echo PHP_EOL;
-								echo sprintf('error: %s', $e->getMessage()) . PHP_EOL;
-								echo sprintf('text: %s', $v);
+								echo sprintf('error : %s', $e->getMessage()) . PHP_EOL;
+								echo sprintf('text  : %s', $v);
 
 								if (strstr($e->getMessage(), 'is not supported')) $abort = true;
 							}
 
-							// restore placeholders
-							foreach ($placeholders as $n => $p) {
-								$find = sprintf('/%% ?#%d%%/s', $p);
-								$v = preg_replace($find, $p, $v);
+							// if the response was an empty string, restore original string
+							$vt = $v;
+
+							if ($v === '_*') {
+								$v = $vi;
+							} else {
+								// strip all tags and put back chars
+								$v = str_replace(
+									array_values($chars),
+									array_keys($chars),
+									$v
+								);
+
+								// restore placeholders
+								$v = preg_replace('/<code x-data="([^"]*?)"><\/code>/s', '$1', $v);
+
+								// restore specific html tags
+								$tags = ['b', 'i', 'u'];
+								foreach ($tags as $tag) {
+									$v = str_replace(sprintf('<%s>', $tag), sprintf('<%s>', strtoupper($tag)), $v);
+									$v = str_replace(sprintf('</%s>', $tag), sprintf('</%s>', strtoupper($tag)), $v);
+								}
+							}
+
+							if ($test) {
+								echo PHP_EOL;
+								echo sprintf('original     : %s', $test) . PHP_EOL;
+								echo sprintf('input        : %s', $vi) . PHP_EOL;
+								echo sprintf('output       : %s', $vt) . PHP_EOL;
+								echo sprintf('translated   : %s', $v) . PHP_EOL;
+								exit;
 							}
 						}
 
