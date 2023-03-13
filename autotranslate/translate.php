@@ -36,7 +36,7 @@ function getPlaceHolders(&$v): array {
 
 	// try isolate single tokens
 	$matches = [];
-	preg_match_all("/\\n|\\t|\\r|<[\w:\/]+>|%\d\w/si", $v, $matches);
+	preg_match_all("/\\n|\\t|\\r|<[\w:\/]+>|%\d\w|\.[A-Z]{3}/si", $v, $matches);
 
 	// add placeholders
 	$placeholders = $matches[0];
@@ -130,16 +130,25 @@ foreach ($iterator as $item) {
 								$translation = $translator->translate($v, "auto", $languages[$lang]);
 
 								if ($translation && $translation !== $v) {
+
+									// if the original translation wasn't ending on a dot ., revert this
+									$dot = '/\.$/';
+									if (preg_match($dot, $translation) && !preg_match($dot, $v)) {
+										$translation = preg_replace($dot, '', $translation);
+									}
+
 									// write back to kv, but mark translation with a *
-									$v = $translation . '*';
+									$v = sprintf('%s*', $translation);
 								}
+
 							} catch (Exception $e) {
 								echo sprintf('[%s] %s', $e->getMessage(), $v) . PHP_EOL;
 							}
 
 							// restore placeholders
 							foreach ($placeholders as $n => $p) {
-								$v = str_replace(sprintf('%%#%d%%', $n), $p, $v);
+								$find = sprintf('/%% ?#%d%%/s', $p);
+								$v = preg_replace($find, $p, $v);
 							}
 						}
 
