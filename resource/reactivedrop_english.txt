@@ -872,7 +872,7 @@
 "asw_suggest_difficulty"	"Change Difficulty?"
 "asw_suggest_harder"	"Based on your squad's impressive performance, the IAF recommends graduating to a harder difficulty level. More XP will be awarded in each mission debriefing!\n\nIncrease the difficulty level from Normal to Hard?"
 "asw_suggest_easier"	"Your squad may be better suited to an easier difficulty level. The Swarm will be easier to kill and inflict less damage.\n\nDecrease the difficulty level from Normal to Easy?"
-"asw_medals_title"	"MEDALS"
+"asw_medals_title"	"ACHIEVEMENTS"
 "asw_briefing_no_map"	"ORBITAL SCAN NOT AVAILABLE"
 "asw_marines_left"	"Marines left: %s1"
 "asw_marines_left_one"	"Marines left: %s1\nOne marine each."
