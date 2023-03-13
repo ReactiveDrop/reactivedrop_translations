@@ -7,10 +7,50 @@ use Dariuszp\CliProgressBar;
 
 require(__DIR__ . '/vendor/autoload.php');
 
+// progress file
+$progressFile = './translation.progress.json';
+
 // debug
-function dd($msg) {
+function dd($msg)
+{
 	var_dump($msg);
 	die;
+}
+
+function writeProgress()
+{
+	global $progressFile, $progress;
+
+	foreach (get_object_vars($progress) as $k=>$v) {
+		$progress->{$k} = array_unique($v);
+	}
+
+	file_put_contents($progressFile, json_encode($progress));
+}
+
+function getPlaceHolders(&$v): array {
+	// XXX: test string
+	// $v = "<50 % %1s %+slot1% \n\n \t <B><I><clr:255:1:0>";
+
+	$placeholders = [];
+
+	// try isolate single tokens
+	$matches = [];
+	preg_match_all("/\\n|\\t|\\r|<[\w:\/]+>|%\d\w/si", $v, $matches);
+
+	// add placeholders
+	$placeholders = $matches[0];
+
+	// isolate range patterns
+	preg_match_all("/%[\w+-_]+%/s", $v, $matches);
+	foreach ($matches[0] as $m) $placeholders[] = $m;
+
+	// replace them
+	foreach ($placeholders as $n => $p) {
+		$v = str_replace($p, sprintf('%%#%d%%', $n), $v);
+	}
+
+	return $placeholders;
 }
 
 // languages
@@ -31,6 +71,9 @@ $key = getenv('LIBRETRANSLATE_API_KEY');
 if ($key) {
 	$translator->setApiKey($key);
 }
+
+// open progress file
+$progress = file_exists($progressFile) ? json_decode(file_get_contents($progressFile)) : new stdClass;
 
 // traverse the repository
 $dir = new RecursiveDirectoryIterator(__DIR__ . '/..');
@@ -54,6 +97,9 @@ foreach ($iterator as $item) {
 			// tokens
 			$originals = [];
 
+			// progress
+			if (!isset($progress->{$item->getBasename()})) $progress->{$item->getBasename()} = [];
+
 			// iterate data, find original text first
 			if (isset($data['lang']['Tokens'])) {
 
@@ -69,20 +115,37 @@ foreach ($iterator as $item) {
 				}
 
 				// iterate again, to find untranslated text
+				$i = 0;
 				foreach ($tokens as $k => &$v) {
+
 					// if translation is set, and is the same, we probably need an update
 					if (!strstr($k, '[english]') && $originals[$k] === $v && trim($v)) {
 
-						// try translation
-						try {
-							$translation = $translator->translate($v, "auto", $languages[$lang]);
+						if (!in_array($k, $progress->{$item->getBasename()})) {
 
-							if ($translation && $translation !== $v) {
-								// write back to kv, but mark translation with a *
-								$v = $translation . '*';
+							$placeholders = getPlaceHolders($v);
+
+							// try translation
+							try {
+								$translation = $translator->translate($v, "auto", $languages[$lang]);
+
+								if ($translation && $translation !== $v) {
+									// write back to kv, but mark translation with a *
+									$v = $translation . '*';
+								}
+							} catch (Exception $e) {
+								echo sprintf('[%s] %s', $e->getMessage(), $v) . PHP_EOL;
 							}
-						} catch (Exception $e) {
-							echo sprintf('[%s] %s', $e->getMessage(), $v) . PHP_EOL;
+
+							// restore placeholders
+							foreach ($placeholders as $n => $p) {
+								$v = str_replace(sprintf('%%#%d%%', $n), $p, $v);
+							}
+						}
+
+						$progress->{$item->getBasename()}[] = $k;
+						if (++$i % 1000 == 0) {
+							writeProgress();
 						}
 					}
 
@@ -94,15 +157,19 @@ foreach ($iterator as $item) {
 
 				if ($encoded) {
 					// strip indentation, RD doesn't use indents
-					$encoded = preg_replace("/^\s+/m", '', $encoded);
+					$encoded = preg_replace("/\"\t+\"/", "\"\t\t\"", $encoded);
 
 					file_put_contents($item->getPathname(), $encoded);
 				}
 
 				$bar->end();
+				writeProgress();
+
+				dd('eof');
 			}
 		}
 	}
 }
+
 
 echo "+ all finished";
