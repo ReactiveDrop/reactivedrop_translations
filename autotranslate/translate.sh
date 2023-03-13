@@ -8,4 +8,4 @@ if [[ -f .env ]]; then
 fi
 
 composer install --no-dev
-php translate.php
+php translate.php $*

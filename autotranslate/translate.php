@@ -8,7 +8,13 @@ use Dariuszp\CliProgressBar;
 require(__DIR__ . '/vendor/autoload.php');
 
 // progress file
-$progressFile = './translation.progress.json';
+$progressFile = './.translation.progress.json';
+
+// open progress file
+$progress = file_exists($progressFile) ? json_decode(file_get_contents($progressFile)) : new stdClass;
+
+// argc
+if (in_array('--force', $argv)) $progress = new StdClass;
 
 // debug
 function dd($msg)
@@ -20,10 +26,6 @@ function dd($msg)
 function writeProgress()
 {
 	global $progressFile, $progress;
-
-	foreach (get_object_vars($progress) as $k=>$v) {
-		$progress->{$k} = array_unique($v);
-	}
 
 	file_put_contents($progressFile, json_encode($progress));
 }
@@ -53,10 +55,9 @@ function getPlaceHolders(&$v): array {
 	return $placeholders;
 }
 
-// languages
-$languages = [
-	'french' => 'fr'
-];
+$languages = json_decode(
+	file_get_contents(__DIR__ . '/language.mapping.json')
+);
 
 // libs
 $parser = new Parser;
@@ -72,8 +73,6 @@ if ($key) {
 	$translator->setApiKey($key);
 }
 
-// open progress file
-$progress = file_exists($progressFile) ? json_decode(file_get_contents($progressFile)) : new stdClass;
 
 // traverse the repository
 $dir = new RecursiveDirectoryIterator(__DIR__ . '/..');
@@ -87,7 +86,7 @@ foreach ($iterator as $item) {
 		$lang = prev($p);
 
 		// only auto translate non-english text
-		if (isset($languages[$lang])) {
+		if (isset($languages->{$lang})) {
 
 			// open file
 			$data = $parser->parse(
@@ -98,7 +97,7 @@ foreach ($iterator as $item) {
 			$originals = [];
 
 			// progress
-			if (!isset($progress->{$item->getBasename()})) $progress->{$item->getBasename()} = [];
+			if (!isset($progress->{$item->getBasename()})) $progress->{$item->getBasename()} = 0;
 
 			// iterate data, find original text first
 			if (isset($data['lang']['Tokens'])) {
@@ -118,16 +117,18 @@ foreach ($iterator as $item) {
 				$i = 0;
 				foreach ($tokens as $k => &$v) {
 
+					$i++;
+
 					// if translation is set, and is the same, we probably need an update
 					if (!strstr($k, '[english]') && $originals[$k] === $v && trim($v)) {
 
-						if (!in_array($k, $progress->{$item->getBasename()})) {
+						if ($progress->{$item->getBasename()} <= $i) {
 
 							$placeholders = getPlaceHolders($v);
 
 							// try translation
 							try {
-								$translation = $translator->translate($v, "auto", $languages[$lang]);
+								$translation = $translator->translate($v, "auto", $languages->{$lang});
 
 								if ($translation && $translation !== $v) {
 
@@ -152,9 +153,11 @@ foreach ($iterator as $item) {
 							}
 						}
 
-						$progress->{$item->getBasename()}[] = $k;
-						if (++$i % 1000 == 0) {
-							writeProgress();
+						if ($i > $progress->{$item->getBasename()}) {
+							$progress->{$item->getBasename()} = $i;
+							if (++$i % 1000 == 0) {
+								writeProgress();
+							}
 						}
 					}
 
@@ -174,7 +177,7 @@ foreach ($iterator as $item) {
 				$bar->end();
 				writeProgress();
 
-				dd('eof');
+				if (in_array('--test', $argv)) die('eof');
 			}
 		}
 	}
