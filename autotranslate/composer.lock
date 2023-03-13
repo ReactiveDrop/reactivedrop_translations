@@ -4,8 +4,53 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "69a92137f6fa5857acd653c27ec6af57",
+    "content-hash": "e44d7da0f73ec4f2f8e19bb43eb7a7c9",
     "packages": [
+        {
+            "name": "dariuszp/cli-progress-bar",
+            "version": "1.0.5",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/dariuszp/cli-progress-bar.git",
+                "reference": "1be746082242092ce9e7c735be45f9d9a77be1aa"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/dariuszp/cli-progress-bar/zipball/1be746082242092ce9e7c735be45f9d9a77be1aa",
+                "reference": "1be746082242092ce9e7c735be45f9d9a77be1aa",
+                "shasum": ""
+            },
+            "require-dev": {
+                "phpunit/phpunit": "^7.4"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "Dariuszp\\": "src/Dariuszp"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Dariusz Półtorak",
+                    "email": "poltorak.dariusz@gmail.com"
+                },
+                {
+                    "name": "Mason Phillips",
+                    "email": "math.matrix@icloud.com",
+                    "role": "Contributor"
+                }
+            ],
+            "description": "Cli progress bar",
+            "support": {
+                "issues": "https://github.com/dariuszp/cli-progress-bar/issues",
+                "source": "https://github.com/dariuszp/cli-progress-bar/tree/master"
+            },
+            "time": "2018-11-24T20:35:59+00:00"
+        },
         {
             "name": "jefs42/libretranslate",
             "version": "v1.1.1",

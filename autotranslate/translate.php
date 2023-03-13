@@ -3,6 +3,7 @@
 use Jefs42\LibreTranslate;
 use Mintopia\VDFKeyValue\Encoder;
 use VdfParser\Parser;
+use Dariuszp\CliProgressBar;
 
 require(__DIR__ . '/vendor/autoload.php');
 
@@ -56,9 +57,10 @@ foreach ($iterator as $item) {
 			// iterate data, find original text first
 			if (isset($data['lang']['Tokens'])) {
 
-				echo sprintf("processing: %s", $item->getBasename()) . PHP_EOL;
-
 				$tokens =& $data['lang']['Tokens'];
+				$bar = new CliProgressBar(count($tokens), 0, sprintf("%32s", $item->getBasename()));
+				$bar->display();
+
 				foreach ($tokens as $k => $v) {
 					if (strstr($k, '[english]')) {
 						$key = str_replace('[english]', '', $k);
@@ -75,22 +77,30 @@ foreach ($iterator as $item) {
 						try {
 							$translation = $translator->translate($v, "auto", $languages[$lang]);
 
-							if ($translation) {
+							if ($translation && $translation !== $v) {
 								// write back to kv, but mark translation with a *
 								$v = $translation . '*';
 							}
-							} catch (Exception $e) {
+						} catch (Exception $e) {
 							echo sprintf('[%s] %s', $e->getMessage(), $v) . PHP_EOL;
 						}
 					}
+
+					$bar->progress();
 				}
 
-				// write back to file
+				// encode back to file
 				$encoded = $encoder->encode('lang', $data['lang']);
+
 				if ($encoded) {
+					// strip indentation, RD doesn't use indents
+					$encoded = preg_replace("/^\s+/m", '', $encoded);
+
 					file_put_contents($item->getPathname(), $encoded);
-					echo "+ done" . PHP_EOL;
 				}
+
+				$bar->end();
+			}
 		}
 	}
 }
