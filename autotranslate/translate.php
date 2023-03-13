@@ -53,7 +53,7 @@ function escapeString($v): string {
 	global $chars;
 
 	// placeholders, .extensions and hostnames
-	$v = preg_replace('/(%\d\w|\.[A-Z]{3}|< \d+|[a-z0-9:.]{12,}|%[\w+-_]+%|\s%\s)/', '<code x-data="$1"></code>', $v);
+	$v = preg_replace('/(%\d\w|\.[A-Za-z]{3}|< \d+|[a-z0-9:.]{12,}|%[\w+-_]+%|\s%\s)/', '<code x-data="$1"></code>', $v);
 
 	// chars
 	$v = str_replace(array_keys($chars), array_values($chars), $v);
@@ -132,7 +132,7 @@ foreach ($iterator as $item) {
 
 							// XXX: test strings
 							$test = null;
-							$test = "< 50 % %1s %+slot1% \n\n \t <B><I><clr:255:1:0>";
+							// $test = "< 50 % %1s %+slot1% \n\n \t <B><I><clr:255:1:0>";
 							// $test = "< 50";
 							// $test = "Examples:\ntfc.valvesoftware.com\ncounterstrike.speakeasy.net:27016\n205.158.143.200:27015";
 
