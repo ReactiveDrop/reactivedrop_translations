@@ -1,3 +1,27 @@
 {
-	"french": "fr"
+	"brazilian": "br",
+	"czech": "cz",
+	"danish": "dk",
+	"dutch": "nl",
+	"english": "ignore",
+	"finnish": "fi",
+	"french": "fr",
+	"german": "de",
+	"hungarian": "hu",
+	"italian": "it",
+	"japanese": "jp",
+	"koreana": "kr",
+	"norwegian": "no",
+	"polish": "pl",
+	"portuguese": "pt",
+	"romanian": "ro",
+	"russian": "ru",
+	"schinese": "zh-cn",
+	"spanish": "es",
+	"swedish": "sv",
+	"tchinese": "zh-tw",
+	"thai": "th",
+	"turkish": "tr",
+	"ukrainian": "uk",
+	"vietnamese": "vn"
 }

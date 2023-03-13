@@ -73,7 +73,6 @@ if ($key) {
 	$translator->setApiKey($key);
 }
 
-
 // traverse the repository
 $dir = new RecursiveDirectoryIterator(__DIR__ . '/..');
 $iterator = new RecursiveIteratorIterator($dir);
@@ -86,7 +85,8 @@ foreach ($iterator as $item) {
 		$lang = prev($p);
 
 		// only auto translate non-english text
-		if (isset($languages->{$lang})) {
+		$l = isset($languages->{$lang}) ? strlen($languages->{$lang}) : 0;
+		if ($l === 2 || $l === 5) {
 
 			// open file
 			$data = $parser->parse(
