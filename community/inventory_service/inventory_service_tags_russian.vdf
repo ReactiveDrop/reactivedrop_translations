@@ -43,8 +43,8 @@
 "inventory_slot"		"Слот"
 // where an item can be equipped.
 "[english]inventory_slot"		"Slot"
-"inventory_slot_medal"		"Медаль"
-"[english]inventory_slot_medal"		"Medal"
+		"inventory_slot_medal"		"Медаль"
+		"[english]inventory_slot_medal"		"Collectible"
 "inventory_slot_suit"		"Костюм"
 "[english]inventory_slot_suit"		"Suit"
 "inventory_slot_weapon"		"Оружие"

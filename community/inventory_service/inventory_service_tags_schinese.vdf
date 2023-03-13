@@ -43,8 +43,8 @@
 "inventory_slot"		"插槽"
 // where an item can be equipped.
 "[english]inventory_slot"		"Slot"
-"inventory_slot_medal"		"勋章"
-"[english]inventory_slot_medal"		"Medal"
+		"inventory_slot_medal"		"勋章"
+		"[english]inventory_slot_medal"		"Collectible"
 		"inventory_slot_suit"		"Suit"
 		"[english]inventory_slot_suit"		"Suit"
 		"inventory_slot_weapon"		"Weapon"
