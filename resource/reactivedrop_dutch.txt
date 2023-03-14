@@ -730,14 +730,16 @@
 		"[english]asw_weapon_flashlight_attributes"		"Tactical"
 "asw_weapon_grenades"		"Granaten"
 "[english]asw_weapon_grenades"		"Grenades"
-		"asw_weaponl_grenades"		"FG01 Hand Grenades"
-		"[english]asw_weaponl_grenades"		"FG01 Hand Grenades"
+		"asw_weaponl_grenades"		"FG-01 Hand Grenades"
+		// FG = fragmentation
+		"[english]asw_weaponl_grenades"		"FG-01 Hand Grenades"
 "asw_weapon_grenades_attributes"		"Omgevingsschade"
 "[english]asw_weapon_grenades_attributes"		"Splash Damage"
 "asw_weapon_freeze_grenades"		"Vriesgranaten"
 "[english]asw_weapon_freeze_grenades"		"Freeze Grenades"
-		"asw_weaponl_freeze_grenades"		"CR18 Freeze Grenades"
-		"[english]asw_weaponl_freeze_grenades"		"CR18 Freeze Grenades"
+		"asw_weaponl_freeze_grenades"		"CR-18 Freeze Grenades"
+		// CR = cryogenic, 18 is the atomic number of Argon, an element that can be used as a cryogenic fluid
+		"[english]asw_weaponl_freeze_grenades"		"CR-18 Freeze Grenades"
 "asw_weapon_freeze_grenades_attributes"		"Groot bereik"
 "[english]asw_weapon_freeze_grenades_attributes"		"Large Radius"
 "asw_weapon_grenade_launcher"		"Granaatwerper"
@@ -904,8 +906,8 @@
 "[english]asw_weapon_electrified_armor_attributes"		"Stops Infestation, Stuns"
 "asw_weapon_normal_armor"		"Zware Bescherming"
 "[english]asw_weapon_normal_armor"		"Heavy Armor"
-"asw_weaponl_normal_armor"		"l3a Tactische Zware Bescherming"
-"[english]asw_weaponl_normal_armor"		"l3a Tactical Heavy Armor"
+"asw_weaponl_normal_armor"		"L3A Tactische Zware Bescherming"
+"[english]asw_weaponl_normal_armor"		"L3A Tactical Heavy Armor"
 		"asw_weapon_normal_armor_attributes"		"Up to 35% Damage Reduction, Passive"
 		"[english]asw_weapon_normal_armor_attributes"		"Up to 35% Damage Reduction, Passive"
 "asw_weapon_fist"		"Kracht Vuist"
@@ -3586,8 +3588,8 @@
 		"[english]RD_SPEEDRUN_NH_PLATFORM_XVII_NAME"		"Platform XVII Speed Run"
 		"RD_SPEEDRUN_NH_GROUNDWORK_LABS_NAME"		"Groundwork Labs Speed Run"
 		"[english]RD_SPEEDRUN_NH_GROUNDWORK_LABS_NAME"		"Groundwork Labs Speed Run"
-		"RD_SPEEDRUN_BIO_OPERATION_X5_NAME"		"Operation x5 Speed Run"
-		"[english]RD_SPEEDRUN_BIO_OPERATION_X5_NAME"		"Operation x5 Speed Run"
+		"RD_SPEEDRUN_BIO_OPERATION_X5_NAME"		"Operation X5 Speed Run"
+		"[english]RD_SPEEDRUN_BIO_OPERATION_X5_NAME"		"Operation X5 Speed Run"
 		"RD_SPEEDRUN_BIO_INVISIBLE_THREAT_NAME"		"Invisible Threat Speed Run"
 		"[english]RD_SPEEDRUN_BIO_INVISIBLE_THREAT_NAME"		"Invisible Threat Speed Run"
 		"RD_SPEEDRUN_BIO_BIOGEN_LABS_NAME"		"BioGen Labs Speed Run"
@@ -3995,8 +3997,8 @@
 		"[english]RD_SPEEDRUN_NH_PLATFORM_XVII_DESC"		"Complete Platform XVII within 3:10 on Normal difficulty or harder without any marines dying."
 		"RD_SPEEDRUN_NH_GROUNDWORK_LABS_DESC"		"Complete Groundwork Labs within 2:25 on Normal difficulty or harder without any marines dying."
 		"[english]RD_SPEEDRUN_NH_GROUNDWORK_LABS_DESC"		"Complete Groundwork Labs within 2:25 on Normal difficulty or harder without any marines dying."
-		"RD_SPEEDRUN_BIO_OPERATION_X5_DESC"		"Complete Operation x5 within 3:35 on Normal difficulty or harder without any marines dying."
-		"[english]RD_SPEEDRUN_BIO_OPERATION_X5_DESC"		"Complete Operation x5 within 3:35 on Normal difficulty or harder without any marines dying."
+		"RD_SPEEDRUN_BIO_OPERATION_X5_DESC"		"Complete Operation X5 within 3:35 on Normal difficulty or harder without any marines dying."
+		"[english]RD_SPEEDRUN_BIO_OPERATION_X5_DESC"		"Complete Operation X5 within 3:35 on Normal difficulty or harder without any marines dying."
 		"RD_SPEEDRUN_BIO_INVISIBLE_THREAT_DESC"		"Complete Invisible Threat within 1:20 on Normal difficulty or harder without any marines dying."
 		"[english]RD_SPEEDRUN_BIO_INVISIBLE_THREAT_DESC"		"Complete Invisible Threat within 1:20 on Normal difficulty or harder without any marines dying."
 		"RD_SPEEDRUN_BIO_BIOGEN_LABS_DESC"		"Complete BioGen Labs within 4:14 on Normal difficulty or harder without any marines dying."
@@ -5858,6 +5860,7 @@
 		"asw_weapon_gas_grenades"		"Gas Grenades"
 		"[english]asw_weapon_gas_grenades"		"Gas Grenades"
 		"asw_weaponl_gas_grenades"		"TG-05 Gas Grenades"
+		// TG = toxic gas; there are 5 grenades in the box
 		"[english]asw_weaponl_gas_grenades"		"TG-05 Gas Grenades"
 		"asw_wdesc_gas_grenades"		"A set of highly toxic gas grenades. Releases bio-hazard toxin upon detonation covering a small area with a cloud of gas. Anything remotely touching that area will liquefy and decompose at an extreme rate. Handling this material needs the standard medical bio-hazard manipulation certification."
 		"[english]asw_wdesc_gas_grenades"		"A set of highly toxic gas grenades. Releases bio-hazard toxin upon detonation covering a small area with a cloud of gas. Anything remotely touching that area will liquefy and decompose at an extreme rate. Handling this material needs the standard medical bio-hazard manipulation certification."
@@ -5893,6 +5896,114 @@
 		"[english]rd_weapon_ar2_altfire"		"Charged Pulses"
 		"rd_weapon_ar2_attributes"		"Internal Dark Energy Reactor"
 		"[english]rd_weapon_ar2_attributes"		"Internal Dark Energy Reactor"
+		"asw_weapon_cryo_cannon"		"Cryo Cannon"
+		"[english]asw_weapon_cryo_cannon"		"Cryo Cannon"
+		"asw_weaponl_cryo_cannon"		"DRG19 Cryo Cannon"
+		// This weapon is a reference to Deep Rock Galactic's weapon by the same name. The Cryo Cannon was added to Deep Rock Galactic in update 19.
+		"[english]asw_weaponl_cryo_cannon"		"DRG19 Cryo Cannon"
+"asw_wdesc_cryo_cannon"		""
+// TODO
+"[english]asw_wdesc_cryo_cannon"		""
+"asw_weapon_cryo_cannon_altfire"		""
+// TODO
+"[english]asw_weapon_cryo_cannon_altfire"		""
+"asw_weapon_cryo_cannon_attributes"		""
+// TODO
+"[english]asw_weapon_cryo_cannon_attributes"		""
+		"asw_weapon_plasma_thrower"		"Plasma Thrower"
+		"[english]asw_weapon_plasma_thrower"		"Plasma Thrower"
+		"asw_weaponl_plasma_thrower"		"G521 Plasma Thrower"
+		// This weapon's visual design is based on the Phlogistinator from TF2. G = Grordbort, 521 = 15th December 2011, the date this weapon was added to TF2.
+		"[english]asw_weaponl_plasma_thrower"		"G521 Plasma Thrower"
+"asw_wdesc_plasma_thrower"		""
+// TODO
+"[english]asw_wdesc_plasma_thrower"		""
+"asw_weapon_plasma_thrower_altfire"		""
+// TODO
+"[english]asw_weapon_plasma_thrower_altfire"		""
+"asw_weapon_plasma_thrower_attributes"		""
+// TODO
+"[english]asw_weapon_plasma_thrower_attributes"		""
+		"asw_weapon_hack_tool"		"Hack Pad"
+		"[english]asw_weapon_hack_tool"		"Hack Pad"
+		"asw_weaponl_hack_tool"		"HC42 Automated Hacking Tool"
+		// HC = Hack-C, a character from Deep Rock Galactic. 42 = The Answer to the Ultimate Question of Life, The Universe, and Everything
+		"[english]asw_weaponl_hack_tool"		"HC42 Automated Hacking Tool"
+		"asw_wdesc_hack_tool"		"An advanced IAF tech-issue 'circuit breaker' hacking device, developed in the high security IAF labs.  Offering a variety of intelligent circuit analyzers and bypassing logic gate systems, this tool can be used by any marine to bypass security systems.  Tech marines can use this tool to hack at twice the speed."
+		"[english]asw_wdesc_hack_tool"		"An advanced IAF tech-issue 'circuit breaker' hacking device, developed in the high security IAF labs.  Offering a variety of intelligent circuit analyzers and bypassing logic gate systems, this tool can be used by any marine to bypass security systems.  Tech marines can use this tool to hack at twice the speed."
+"asw_weapon_hack_tool_attributes"		""
+// TODO
+"[english]asw_weapon_hack_tool_attributes"		""
+		"asw_weapon_sentry_railgun"		"Railgun Sentry Case"
+		"[english]asw_weapon_sentry_railgun"		"Railgun Sentry Case"
+		"asw_weaponl_sentry_railgun"		"IAF Railgun Sentry"
+		"[english]asw_weaponl_sentry_railgun"		"IAF Railgun Sentry"
+"asw_wdesc_sentry_railgun"		""
+// TODO
+"[english]asw_wdesc_sentry_railgun"		""
+		"asw_weapon_energy_shield"		"Energy Shield"
+		"[english]asw_weapon_energy_shield"		"Energy Shield"
+		"asw_weaponl_energy_shield"		"TC79 Energy Field Generator"
+		// TC = Two Cities, the update in TF2 that added this ability to that game's medic class; in this universe it stands for Telic Corporation. 79 is the atomic number of Australium.
+		"[english]asw_weaponl_energy_shield"		"TC79 Energy Field Generator"
+"asw_wdesc_energy_shield"		""
+// TODO
+"[english]asw_wdesc_energy_shield"		""
+"asw_weapon_energy_shield_attributes"		""
+// TODO
+"[english]asw_weapon_energy_shield_attributes"		""
+		"asw_weapon_revive_tool"		"Reanimator"
+		"[english]asw_weapon_revive_tool"		"Reanimator"
+		"asw_weaponl_revive_tool"		"TC1121 Reanimator"
+		// TC = Two Cities/Telic Corporation (see above); 1121 = Two Cities was released on November 21st, 2013.
+		"[english]asw_weaponl_revive_tool"		"TC1121 Reanimator"
+"asw_wdesc_revive_tool"		""
+// TODO
+"[english]asw_wdesc_revive_tool"		""
+"asw_weapon_revive_tool_attributes"		""
+// TODO
+"[english]asw_weapon_revive_tool_attributes"		""
+		"asw_weapon_stun_grenades"		"Stun Grenades"
+		"[english]asw_weapon_stun_grenades"		"Stun Grenades"
+		"asw_weaponl_stun_grenades"		"EC-02 Stun Grenades"
+		// EC = electric charge; also a reference to Amazon EC2, which stands for Elastic Compute Cloud, because these were originally part of the tech-only prototype rifle.
+		"[english]asw_weaponl_stun_grenades"		"EC-02 Stun Grenades"
+"asw_wdesc_stun_grenades"		""
+// TODO
+"[english]asw_wdesc_stun_grenades"		""
+		"asw_weapon_incendiary_grenades"		"Incendiary Grenades"
+		"[english]asw_weapon_incendiary_grenades"		"Incendiary Grenades"
+		"asw_weaponl_incendiary_grenades"		"NA-23 Incendiary Grenades"
+		// NA = napalm; -23 is a reference to gasoline's flashpoint, -23 degrees celsius.
+		"[english]asw_weaponl_incendiary_grenades"		"NA-23 Incendiary Grenades"
+"asw_wdesc_incendiary_grenades"		""
+// TODO
+"[english]asw_wdesc_incendiary_grenades"		""
+"asw_weapon_incendiary_grenades_attributes"		""
+// TODO
+"[english]asw_weapon_incendiary_grenades_attributes"		""
+		"asw_weapon_speed_burst"		"Speed Burst"
+		"[english]asw_weapon_speed_burst"		"Speed Burst"
+		"asw_weaponl_speed_burst"		"EX981 Speed Burst Module"
+		// EX = exoskeleton; 981 is backwards 1890, the year when Nicholas Yagin invented US440684, (one of) the earliest known powered exoskeletons.
+		"[english]asw_weaponl_speed_burst"		"EX981 Speed Burst Module"
+"asw_wdesc_speed_burst"		""
+// TODO
+"[english]asw_wdesc_speed_burst"		""
+"asw_weapon_speed_burst_attributes"		""
+// TODO
+"[english]asw_weapon_speed_burst_attributes"		""
+		"asw_weapon_shield_bubble"		"Force Dome"
+		"[english]asw_weapon_shield_bubble"		"Force Dome"
+		"asw_weaponl_shield_bubble"		"MA9128 Force Dome Generator"
+		// MA = mobile arena, an ability that the Trapper class in EVOLVE could use to create a giant dome; 9128 is the skill ID of "Sanctuary" in Guild Wars 2, an ability that works similarly to this item.
+		"[english]asw_weaponl_shield_bubble"		"MA9128 Force Dome Generator"
+"asw_wdesc_shield_bubble"		""
+// TODO
+"[english]asw_wdesc_shield_bubble"		""
+"asw_weapon_shield_bubble_attributes"		""
+// TODO
+"[english]asw_weapon_shield_bubble_attributes"		""
 		"rd_afk_not_allowed"		"This server or game mode doesn't allow taking a break"
 		"[english]rd_afk_not_allowed"		"This server or game mode doesn't allow taking a break"
 		"rd_flashlight_not_allowed"		"This server or game mode doesn't allow to toggle flashlight for marines."
@@ -7252,8 +7363,8 @@
 		"[english]rd_entrymission_title_rd_biogen_corporation"		"Entry Port"
 		"rd_entrymission_brief_rd_biogen_corporation"		"Dropship Bloodhound will enter atmosphere at these co-ordinates and proceed to primary objective."
 		"[english]rd_entrymission_brief_rd_biogen_corporation"		"Dropship Bloodhound will enter atmosphere at these co-ordinates and proceed to primary objective."
-		"rd_mission_title_rd-bio1operationx5"		"Operation x5"
-		"[english]rd_mission_title_rd-bio1operationx5"		"Operation x5"
+		"rd_mission_title_rd-bio1operationx5"		"Operation X5"
+		"[english]rd_mission_title_rd-bio1operationx5"		"Operation X5"
 		"rd_mission_loc_rd-bio1operationx5"		"New Earth colony exterior"
 		"[english]rd_mission_loc_rd-bio1operationx5"		"New Earth colony exterior"
 		"rd_mission_desc_rd-bio1operationx5"		"Extract the important data."
@@ -8136,23 +8247,35 @@
 		"tf_dingalingaling_last_effect"		"Geluiden bij laatste treffers"
 		"[english]tf_dingalingaling_last_effect"		"Last Hit Sounds"
 		"tf_dingalingaling_Default"		"Standaard"
+		// large bell clang
 		"[english]tf_dingalingaling_Default"		"Default"
 		"tf_dingalingaling_Electro"		"Electro"
+		// pinball machine sound
 		"[english]tf_dingalingaling_Electro"		"Electro"
 		"tf_dingalingaling_Notes"		"Noten"
+		// rock music
 		"[english]tf_dingalingaling_Notes"		"Notes"
 		"tf_dingalingaling_Percussion"		"Percussie"
+		// snare drum
 		"[english]tf_dingalingaling_Percussion"		"Percussion"
 		"tf_dingalingaling_Retro"		"Retro"
+		// space invaders arcade cabinet
 		"[english]tf_dingalingaling_Retro"		"Retro"
 		"tf_dingalingaling_Space"		"Ruimte"
+		// sci-fi laser gun
 		"[english]tf_dingalingaling_Space"		"Space"
 		"tf_dingalingaling_Beepo"		"Biepo"
+		// synthesized beep
 		"[english]tf_dingalingaling_Beepo"		"Beepo"
 		"tf_dingalingaling_Vortex"		"Draaikolk"
+		// sci-fi phaser pewpew
 		"[english]tf_dingalingaling_Vortex"		"Vortex"
 		"tf_dingalingaling_Squasher"		"Pletter"
+		// goop splash
 		"[english]tf_dingalingaling_Squasher"		"Squasher"
+		"tf_dingalingaling_Swarm"		"Swarm"
+		// meaty hit
+		"[english]tf_dingalingaling_Swarm"		"Swarm"
 		"asw_hud_counter_format"		"%s1: %s2"
 		// %s1 is mapper-specified label text. %s2 is a number. %s3 is the amount the number will change by soon.
 		"[english]asw_hud_counter_format"		"%s1: %s2"

@@ -94,7 +94,7 @@ Aqui estão alguns destaques das atualizações desde o aniversário anterior:
 		[*][b]Nam Humanum: Logistics Area:[/b] Increased speed run time limit from 1:10 to 1:15.
 		[*][b]Nam Humanum: Platform XVII:[/b] Increased speed run time limit from 3:02 to 3:10.
 		[*][b]Nam Humanum: Platform XVII:[/b] Fixed bot marines refusing to stand on the moving platform.
-		[*][b]BioGen Corporation: Operation x5:[/b] Increased speed run time limit from 3:28 to 3:35.
+		[*][b]BioGen Corporation: Operation X5:[/b] Increased speed run time limit from 3:28 to 3:35.
 		[*][b]BioGen Corporation: Invisible Threat:[/b] Increased speed run time limit from 1:13 to 1:20.
 [*][b]Bunker:[/b] Removido a colisão de uma viga de teto invisível.
 		[*][b]Landing Bay + Cargo Elevator:[/b] Fixed a soft lock caused by completing the objectives out of the intended order.
@@ -105,8 +105,8 @@ Aqui estão alguns destaques das atualizações desde o aniversário anterior:
 [h2]Armas[/h2]
 [list]
 [*][b]ML30 Laser Trip Mine:[/b] Previsão de rede aprimorada para a animação de arremesso.
-		[*][b]l3a Tactical Heavy Armor:[/b] This equipment now changes the appearance of marines wearing it.
-		[*][b]CR18 Freeze Grenades:[/b] Freezing now kills buzzers, and marines can be frozen in Deathmatch mode.
+		[*][b]L3A Tactical Heavy Armor:[/b] This equipment now changes the appearance of marines wearing it.
+		[*][b]CR-18 Freeze Grenades:[/b] Freezing now kills buzzers, and marines can be frozen in Deathmatch mode.
 		[*][b]K80 Personal Defense Weapon:[/b] This weapon now shows a different icon for magazines on the HUD instead of counting each magazine twice.
 [*][b]M868 Flamer Unit:[/b] Corrigido tanques de combustível concedendo apenas meia recarga de munição.
 		[*][b]v45 Electric Charged Armor:[/b] This equipment now changes the appearance of marines wearing it.
