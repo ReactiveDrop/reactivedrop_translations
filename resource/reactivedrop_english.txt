@@ -313,7 +313,7 @@
 "asw_objective_titlef"	"%s1"
 "asw_objective_complete"	"Objective complete!"
 "rd_objective_chat_message"	"Objective %s1 complete! \nTime: %s2 Delta with previous objective: %s3\n"
-"rd_points_awarding_message"		"Awarding %s4%s1 points to %s4%s2, total = %s4%s3\n"
+"rd_points_awarding_message"	"Awarding %s4%s1 points to %s4%s2, total = %s4%s3\n"
 
 "asw_mission_complete_CAMPAIGN"	"CAMPAIGN"
 "asw_mission_complete_MISSION"	"MISSION"
@@ -378,9 +378,11 @@
 "asw_weaponl_flashlight"	"Flashlight Attachment"
 "asw_weapon_flashlight_attributes"	"Tactical"
 "asw_weapon_grenades"	"Grenades"
+// FG = fragmentation
 "asw_weaponl_grenades"	"FG-01 Hand Grenades"
 "asw_weapon_grenades_attributes"	"Splash Damage"
 "asw_weapon_freeze_grenades"	"Freeze Grenades"
+// CR = cryogenic, 18 is the atomic number of Argon, an element that can be used as a cryogenic fluid
 "asw_weaponl_freeze_grenades"	"CR-18 Freeze Grenades"
 "asw_weapon_freeze_grenades_attributes"	"Large Radius"
 "asw_weapon_grenade_launcher"	"Grenade Launcher"
@@ -3075,6 +3077,7 @@
 "rd_chat_marine_cap_reached_challenge"	"Current challenge does not allow more than %s1 marines"
 "rd_chat_marine_cap_reached_server"	"This server does not allow more than %s1 marines"
 "asw_weapon_gas_grenades"	"Gas Grenades"
+// TG = toxic gas; there are 5 grenades in the box
 "asw_weaponl_gas_grenades"	"TG-05 Gas Grenades"
 "asw_wdesc_gas_grenades"	"A set of highly toxic gas grenades. Releases bio-hazard toxin upon detonation covering a small area with a cloud of gas. Anything remotely touching that area will liquefy and decompose at an extreme rate. Handling this material needs the standard medical bio-hazard manipulation certification."
 "asw_weapon_gas_grenades_attributes"	"Corrosive Area Denial"
@@ -3088,11 +3091,79 @@
 "asw_wdesc_medrifle"	"The IAF Medical Submachine Gun is a compromise between fire power and healing function. Developed by Interstellar Armed Forces as a combination of the ST60 Submachine Gun and the IAF Medical Gun. Offering both high rate of fire and a healing capability with the IAF regenerative attachment. Designed to treat wounded personnel on the go. Available only to trained medics with previous combat experience."
 "asw_weapon_medrifle_altfire"	"Healing Charges"
 "asw_weapon_medrifle_attributes"	"Damage and Healing"
-"rd_weapon_ar2"		"Pulse Rifle"
-"rd_weaponl_ar2"		"Overwatch Standard Issue Pulse Rifle"
-"rd_wdesc_ar2"		"The Overwatch Standard Issue Pulse Rifle is manufactured by the Combine. It is powered by an internal Dark Energy reactor and does not take traditional ammunition. The secondary trigger releases an orb of concentrated Dark Energy, which is highly deadly and can vaporize matter it comes into contact with."
-"rd_weapon_ar2_altfire"		"Charged Pulses"
-"rd_weapon_ar2_attributes"		"Internal Dark Energy Reactor"
+"rd_weapon_ar2"	"Pulse Rifle"
+"rd_weaponl_ar2"	"Overwatch Standard Issue Pulse Rifle"
+"rd_wdesc_ar2"	"The Overwatch Standard Issue Pulse Rifle is manufactured by the Combine. It is powered by an internal Dark Energy reactor and does not take traditional ammunition. The secondary trigger releases an orb of concentrated Dark Energy, which is highly deadly and can vaporize matter it comes into contact with."
+"rd_weapon_ar2_altfire"	"Charged Pulses"
+"rd_weapon_ar2_attributes"	"Internal Dark Energy Reactor"
+"asw_weapon_cryo_cannon"	"Cryo Cannon"
+// This weapon is a reference to Deep Rock Galactic's weapon by the same name. The Cryo Cannon was added to Deep Rock Galactic in update 19.
+"asw_weaponl_cryo_cannon"	"DRG19 Cryo Cannon"
+// TODO
+"asw_wdesc_cryo_cannon"	""
+// TODO
+"asw_weapon_cryo_cannon_altfire"	""
+// TODO
+"asw_weapon_cryo_cannon_attributes"	""
+"asw_weapon_plasma_thrower"	"Plasma Thrower"
+// This weapon's visual design is based on the Phlogistinator from TF2. G = Grordbort, 521 = 15th December 2011, the date this weapon was added to TF2.
+"asw_weaponl_plasma_thrower"	"G521 Plasma Thrower"
+// TODO
+"asw_wdesc_plasma_thrower"	""
+// TODO
+"asw_weapon_plasma_thrower_altfire"	""
+// TODO
+"asw_weapon_plasma_thrower_attributes"	""
+"asw_weapon_hack_tool"	"Hack Pad"
+// HC = Hack-C, a character from Deep Rock Galactic. 42 = The Answer to the Ultimate Question of Life, The Universe, and Everything
+"asw_weaponl_hack_tool"	"HC42 Automated Hacking Tool"
+"asw_wdesc_hack_tool"	"An advanced IAF tech-issue 'circuit breaker' hacking device, developed in the high security IAF labs.  Offering a variety of intelligent circuit analyzers and bypassing logic gate systems, this tool can be used by any marine to bypass security systems.  Tech marines can use this tool to hack at twice the speed."
+// TODO
+"asw_weapon_hack_tool_attributes"	""
+"asw_weapon_sentry_railgun"	"Railgun Sentry Case"
+"asw_weaponl_sentry_railgun"	"IAF Railgun Sentry"
+// TODO
+"asw_wdesc_sentry_railgun"	""
+"asw_weapon_energy_shield"	"Energy Shield"
+// TC = Two Cities, the update in TF2 that added this ability to that game's medic class; in this universe it stands for Telic Corporation. 79 is the atomic number of Australium.
+"asw_weaponl_energy_shield"	"TC79 Energy Field Generator"
+// TODO
+"asw_wdesc_energy_shield"	""
+// TODO
+"asw_weapon_energy_shield_attributes"	""
+"asw_weapon_revive_tool"	"Reanimator"
+// TC = Two Cities/Telic Corporation (see above); 1121 = Two Cities was released on November 21st, 2013.
+"asw_weaponl_revive_tool"	"TC1121 Reanimator"
+// TODO
+"asw_wdesc_revive_tool"	""
+// TODO
+"asw_weapon_revive_tool_attributes"	""
+"asw_weapon_stun_grenades"	"Stun Grenades"
+// EC = electric charge; also a reference to Amazon EC2, which stands for Elastic Compute Cloud, because these were originally part of the tech-only prototype rifle.
+"asw_weaponl_stun_grenades"	"EC-02 Stun Grenades"
+// TODO
+"asw_wdesc_stun_grenades"	""
+"asw_weapon_incendiary_grenades"	"Incendiary Grenades"
+// NA = napalm; -23 is a reference to gasoline's flashpoint, -23 degrees celsius.
+"asw_weaponl_incendiary_grenades"	"NA-23 Incendiary Grenades"
+// TODO
+"asw_wdesc_incendiary_grenades"	""
+// TODO
+"asw_weapon_incendiary_grenades_attributes"	""
+"asw_weapon_speed_burst"	"Speed Burst"
+// EX = exoskeleton; 981 is backwards 1890, the year when Nicholas Yagin invented US440684, (one of) the earliest known powered exoskeletons.
+"asw_weaponl_speed_burst"	"EX981 Speed Burst Module"
+// TODO
+"asw_wdesc_speed_burst"	""
+// TODO
+"asw_weapon_speed_burst_attributes"	""
+"asw_weapon_shield_bubble"	"Force Dome"
+// MA = mobile arena, an ability that the Trapper class in EVOLVE could use to create a giant dome; 9128 is the skill ID of "Sanctuary" in Guild Wars 2, an ability that works similarly to this item.
+"asw_weaponl_shield_bubble"	"MA9128 Force Dome Generator"
+// TODO
+"asw_wdesc_shield_bubble"	""
+// TODO
+"asw_weapon_shield_bubble_attributes"	""
 "rd_afk_not_allowed"	"This server or game mode doesn't allow taking a break"
 "rd_flashlight_not_allowed"	"This server or game mode doesn't allow to toggle flashlight for marines."
 "rd_flashlight_toggle"	"Flashlight"
