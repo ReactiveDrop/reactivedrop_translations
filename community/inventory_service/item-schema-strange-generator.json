@@ -347,7 +347,7 @@
 		{
 			"itemdefid": 6050,
 			"type": "generator",
-			"name": "Generate Random Strange CR18 Freeze Grenades",
+			"name": "Generate Random Strange CR-18 Freeze Grenades",
 			"bundle": "3007",
 			"tag_generators": "6078"
 		},
@@ -396,7 +396,7 @@
 		{
 			"itemdefid": 6057,
 			"type": "generator",
-			"name": "Generate Random Strange FG01 Hand Grenades",
+			"name": "Generate Random Strange FG-01 Hand Grenades",
 			"bundle": "3014",
 			"tag_generators": "6069"
 		},
