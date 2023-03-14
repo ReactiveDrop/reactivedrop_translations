@@ -1,31 +1,31 @@
 # Overview
 | Language | basemodui | closecaption | gameui | reactivedrop | statsweb | Strings | Inventory | Files |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [Simplified Chinese](#schinese-简体中文) | ✔️ | 2 | ✔️ | 225 | 3 | 17 | 127 | 6 |
-| [Traditional Chinese](#tchinese-繁體中文) | 7 | 128 | 1 | 2220 | 194 | 75 | 279 | 148 |
-| [Czech](#czech-čeština) | 69 | 1804 | 10 | 3363 | 194 | 730 | 349 | 148 |
-| [Danish](#non-curated-languages) | 50 | 219 | 10 | 2884 | 194 | 460 | 344 | 149 |
-| [Dutch](#non-curated-languages) | 49 | 2001 | 10 | 2339 | 194 | 460 | 281 | 148 |
-| [Finnish](#non-curated-languages) | 49 | 2001 | 10 | 2339 | 194 | 460 | 281 | 148 |
-| [French](#french-français) | 25 | 126 | 10 | 1691 | 194 | 394 | 267 | 127 |
-| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
-| [Hungarian](#non-curated-languages) | 49 | 126 | 10 | 2339 | 194 | 725 | 281 | 149 |
-| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | 1 | ✔️ | ✔️ | ✔️ | ✔️ |
-| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | 12 | ✔️ | 35 | ✔️ | ✔️ |
-| [Korean](#koreana-한국어) | 47 | 63 | 6 | 1204 | 46 | 288 | 267 | 54 |
-| [Norwegian Bokmål](#non-curated-languages) | 67 | 701 | 15 | 3059 | 194 | 460 | 350 | 149 |
-| [Polish](#polish-polski) | 26 | 2001 | 10 | 2339 | 194 | 460 | 281 | 149 |
-| [European Portuguese](#portuguese-português-europeu) | ✔️ | 168 | ✔️ | 1529 | 21 | 388 | 286 | 141 |
-| [Brazilian Portuguese](#brazilian-português) | ✔️ | 2001 | ✔️ | 585 | 3 | 17 | 129 | 6 |
-| [Romanian](#non-curated-languages) | 49 | 1993 | 16 | 3064 | 194 | 725 | 327 | 149 |
-| [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | 1 | ✔️ | ✔️ | ✔️ | 2 |
-| [European Spanish](#spanish-español-de-españa) | 26 | 2001 | 8 | 1743 | 194 | 464 | 277 | 148 |
-| [Latin American Spanish](#latam-español-latinoamericano) | 1279 | 2001 | 605 | 3878 | 198 | 730 | 363 | 149 |
-| [Swedish](#non-curated-languages) | 49 | 2001 | 10 | 2339 | 194 | 460 | 281 | 149 |
-| [Thai](#non-curated-languages) | 964 | 1990 | 18 | 3614 | 194 | 489 | 360 | 149 |
-| [Turkish](#non-curated-languages) | 49 | 125 | 10 | 2339 | 194 | 725 | 281 | 149 |
-| [Ukrainian](#ukrainian-українська) | 25 | 119 | 9 | 1871 | 194 | 725 | 274 | 149 |
-| [Vietnamese](#vietnamese-tiếng-việt) | 1279 | 2001 | 605 | 3878 | 194 | 676 | 363 | 136 |
+| [Simplified Chinese](#schinese-简体中文) | ✔️ | 2 | ✔️ | 246 | 3 | 17 | 127 | 6 |
+| [Traditional Chinese](#tchinese-繁體中文) | 7 | 128 | 1 | 2241 | 194 | 75 | 279 | 148 |
+| [Czech](#czech-čeština) | 69 | 1804 | 10 | 3384 | 194 | 730 | 349 | 148 |
+| [Danish](#non-curated-languages) | 50 | 219 | 10 | 2905 | 194 | 460 | 344 | 149 |
+| [Dutch](#non-curated-languages) | 49 | 2001 | 10 | 2360 | 194 | 460 | 281 | 148 |
+| [Finnish](#non-curated-languages) | 49 | 2001 | 10 | 2360 | 194 | 460 | 281 | 148 |
+| [French](#french-français) | 25 | 126 | 10 | 1712 | 194 | 394 | 267 | 127 |
+| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | 21 | ✔️ | ✔️ | ✔️ | ✔️ |
+| [Hungarian](#non-curated-languages) | 49 | 126 | 10 | 2360 | 194 | 725 | 281 | 149 |
+| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | 22 | ✔️ | ✔️ | ✔️ | ✔️ |
+| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | 33 | ✔️ | 35 | ✔️ | ✔️ |
+| [Korean](#koreana-한국어) | 47 | 63 | 6 | 1225 | 46 | 288 | 267 | 54 |
+| [Norwegian Bokmål](#non-curated-languages) | 67 | 701 | 15 | 3080 | 194 | 460 | 350 | 149 |
+| [Polish](#polish-polski) | 26 | 2001 | 10 | 2360 | 194 | 460 | 281 | 149 |
+| [European Portuguese](#portuguese-português-europeu) | ✔️ | 168 | ✔️ | 1550 | 21 | 388 | 286 | 141 |
+| [Brazilian Portuguese](#brazilian-português) | ✔️ | 2001 | ✔️ | 606 | 3 | 17 | 129 | 6 |
+| [Romanian](#non-curated-languages) | 49 | 1993 | 16 | 3085 | 194 | 725 | 327 | 149 |
+| [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | 22 | ✔️ | ✔️ | ✔️ | 2 |
+| [European Spanish](#spanish-español-de-españa) | 26 | 2001 | 8 | 1764 | 194 | 464 | 277 | 148 |
+| [Latin American Spanish](#latam-español-latinoamericano) | 1279 | 2001 | 605 | 3899 | 198 | 730 | 363 | 149 |
+| [Swedish](#non-curated-languages) | 49 | 2001 | 10 | 2360 | 194 | 460 | 281 | 149 |
+| [Thai](#non-curated-languages) | 964 | 1990 | 18 | 3635 | 194 | 489 | 360 | 149 |
+| [Turkish](#non-curated-languages) | 49 | 125 | 10 | 2360 | 194 | 725 | 281 | 149 |
+| [Ukrainian](#ukrainian-українська) | 25 | 119 | 9 | 1892 | 194 | 725 | 274 | 149 |
+| [Vietnamese](#vietnamese-tiếng-việt) | 1279 | 2001 | 605 | 3899 | 194 | 676 | 363 | 136 |
 ### Legend
 - ***Non-capitalized column headers*** are the most important specific files and their number of missing strings. All of these txt-files are located in the resources folder. Except statsweb, which lies in community/stats_website, it's an vdf-file.
 - ***Strings*** is the number of missing strings not included in one of the files which get an individual non-capitalized column.
@@ -45,7 +45,7 @@
 - [inventory_service_tags_schinese.vdf](community/inventory_service/inventory_service_tags_schinese.vdf) has 17 untranslated strings.
 - [statsweb_schinese.vdf](community/stats_website/statsweb_schinese.vdf) has 3 untranslated strings.
 - [closecaption_schinese.txt](resource/closecaption_schinese.txt) has 2 untranslated strings.
-- [reactivedrop_schinese.txt](resource/reactivedrop_schinese.txt) has 225 untranslated strings.
+- [reactivedrop_schinese.txt](resource/reactivedrop_schinese.txt) has 246 untranslated strings.
 
 ### Upcoming Release Notes
 
@@ -116,17 +116,17 @@
 - Item 3001 "Hand Welder" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_schinese`
 - Item 3002 "SM75 Combat Flares" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_schinese`
 - Item 3003 "ML30 Laser Trip Mine" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_schinese`
-- Item 3004 "l3a Tactical Heavy Armor" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_schinese`
+- Item 3004 "L3A Tactical Heavy Armor" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_schinese`
 - Item 3005 "X33 Damage Amplifier" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_schinese`
 - Item 3006 "Hornet Barrage" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_schinese`
-- Item 3007 "CR18 Freeze Grenades" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_schinese`
+- Item 3007 "CR-18 Freeze Grenades" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_schinese`
 - Item 3008 "Adrenaline" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_schinese`
 - Item 3009 "IAF Tesla Sentry Coil" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_schinese`
 - Item 3010 "v45 Electric Charged Armor" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_schinese`
 - Item 3011 "M478 Proximity Incendiary Mines" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_schinese`
 - Item 3012 "Flashlight Attachment" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_schinese`
 - Item 3013 "IAF Power Fist Attachment" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_schinese`
-- Item 3014 "FG01 Hand Grenades" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_schinese`
+- Item 3014 "FG-01 Hand Grenades" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_schinese`
 - Item 3015 "MNV34 Nightvision Goggles" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_schinese`
 - Item 3016 "MTD6 Smart Bomb" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_schinese`
 - Item 3017 "TG-05 Gas Grenades" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_schinese`
@@ -157,7 +157,7 @@
 - [basemodui_tchinese.txt](resource/basemodui_tchinese.txt) has 7 untranslated strings.
 - [closecaption_tchinese.txt](resource/closecaption_tchinese.txt) has 128 untranslated strings.
 - [gameui_tchinese.txt](resource/gameui_tchinese.txt) has 1 untranslated strings.
-- [reactivedrop_tchinese.txt](resource/reactivedrop_tchinese.txt) has 2220 untranslated strings.
+- [reactivedrop_tchinese.txt](resource/reactivedrop_tchinese.txt) has 2241 untranslated strings.
 
 ### Steam Store and Community
 
@@ -398,17 +398,17 @@
 - Item 3001 "Hand Welder" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_tchinese`
 - Item 3002 "SM75 Combat Flares" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_tchinese`
 - Item 3003 "ML30 Laser Trip Mine" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_tchinese`
-- Item 3004 "l3a Tactical Heavy Armor" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_tchinese`
+- Item 3004 "L3A Tactical Heavy Armor" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_tchinese`
 - Item 3005 "X33 Damage Amplifier" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_tchinese`
 - Item 3006 "Hornet Barrage" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_tchinese`
-- Item 3007 "CR18 Freeze Grenades" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_tchinese`, `display_type_tchinese`
+- Item 3007 "CR-18 Freeze Grenades" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_tchinese`, `display_type_tchinese`
 - Item 3008 "Adrenaline" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_tchinese`
 - Item 3009 "IAF Tesla Sentry Coil" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_tchinese`
 - Item 3010 "v45 Electric Charged Armor" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_tchinese`
 - Item 3011 "M478 Proximity Incendiary Mines" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_tchinese`
 - Item 3012 "Flashlight Attachment" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_tchinese`
 - Item 3013 "IAF Power Fist Attachment" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_tchinese`
-- Item 3014 "FG01 Hand Grenades" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_tchinese`, `display_type_tchinese`
+- Item 3014 "FG-01 Hand Grenades" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_tchinese`, `display_type_tchinese`
 - Item 3015 "MNV34 Nightvision Goggles" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_tchinese`
 - Item 3016 "MTD6 Smart Bomb" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_tchinese`
 - Item 3017 "TG-05 Gas Grenades" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_tchinese`, `description_tchinese`, `display_type_tchinese`
@@ -443,7 +443,7 @@
 - [chat_czech.txt](resource/chat_czech.txt) has 8 untranslated strings.
 - [closecaption_czech.txt](resource/closecaption_czech.txt) has 1804 untranslated strings.
 - [gameui_czech.txt](resource/gameui_czech.txt) has 10 untranslated strings.
-- [reactivedrop_czech.txt](resource/reactivedrop_czech.txt) has 3363 untranslated strings.
+- [reactivedrop_czech.txt](resource/reactivedrop_czech.txt) has 3384 untranslated strings.
 - [valve_czech.txt](resource/valve_czech.txt) has 266 untranslated strings.
 
 ### Steam Store and Community
@@ -685,17 +685,17 @@
 - Item 3001 "Hand Welder" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_czech`
 - Item 3002 "SM75 Combat Flares" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `description_czech`, `display_type_czech`
 - Item 3003 "ML30 Laser Trip Mine" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_czech`, `description_czech`, `display_type_czech`
-- Item 3004 "l3a Tactical Heavy Armor" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `description_czech`, `display_type_czech`
+- Item 3004 "L3A Tactical Heavy Armor" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `description_czech`, `display_type_czech`
 - Item 3005 "X33 Damage Amplifier" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_czech`, `description_czech`, `display_type_czech`
 - Item 3006 "Hornet Barrage" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_czech`, `description_czech`, `display_type_czech`
-- Item 3007 "CR18 Freeze Grenades" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_czech`, `description_czech`, `display_type_czech`
+- Item 3007 "CR-18 Freeze Grenades" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_czech`, `description_czech`, `display_type_czech`
 - Item 3008 "Adrenaline" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `description_czech`, `display_type_czech`
 - Item 3009 "IAF Tesla Sentry Coil" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_czech`, `description_czech`, `display_type_czech`
 - Item 3010 "v45 Electric Charged Armor" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_czech`, `description_czech`, `display_type_czech`
 - Item 3011 "M478 Proximity Incendiary Mines" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_czech`, `description_czech`, `display_type_czech`
 - Item 3012 "Flashlight Attachment" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_czech`, `description_czech`, `display_type_czech`
 - Item 3013 "IAF Power Fist Attachment" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_czech`, `description_czech`, `display_type_czech`
-- Item 3014 "FG01 Hand Grenades" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_czech`, `description_czech`, `display_type_czech`
+- Item 3014 "FG-01 Hand Grenades" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_czech`, `description_czech`, `display_type_czech`
 - Item 3015 "MNV34 Nightvision Goggles" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `description_czech`, `display_type_czech`
 - Item 3016 "MTD6 Smart Bomb" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `description_czech`, `display_type_czech`
 - Item 3017 "TG-05 Gas Grenades" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_czech`, `description_czech`, `display_type_czech`
@@ -729,7 +729,7 @@
 - [basemodui_french.txt](resource/basemodui_french.txt) has 25 untranslated strings.
 - [closecaption_french.txt](resource/closecaption_french.txt) has 126 untranslated strings.
 - [gameui_french.txt](resource/gameui_french.txt) has 10 untranslated strings.
-- [reactivedrop_french.txt](resource/reactivedrop_french.txt) has 1691 untranslated strings.
+- [reactivedrop_french.txt](resource/reactivedrop_french.txt) has 1712 untranslated strings.
 - [valve_french.txt](resource/valve_french.txt) has 196 untranslated strings.
 
 ### Steam Store and Community
@@ -950,17 +950,17 @@
 - Item 3001 "Hand Welder" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_french`
 - Item 3002 "SM75 Combat Flares" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_french`
 - Item 3003 "ML30 Laser Trip Mine" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_french`
-- Item 3004 "l3a Tactical Heavy Armor" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_french`
+- Item 3004 "L3A Tactical Heavy Armor" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_french`
 - Item 3005 "X33 Damage Amplifier" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_french`
 - Item 3006 "Hornet Barrage" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_french`
-- Item 3007 "CR18 Freeze Grenades" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_french`
+- Item 3007 "CR-18 Freeze Grenades" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_french`
 - Item 3008 "Adrenaline" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_french`
 - Item 3009 "IAF Tesla Sentry Coil" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_french`
 - Item 3010 "v45 Electric Charged Armor" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_french`
 - Item 3011 "M478 Proximity Incendiary Mines" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_french`
 - Item 3012 "Flashlight Attachment" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_french`
 - Item 3013 "IAF Power Fist Attachment" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_french`
-- Item 3014 "FG01 Hand Grenades" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_french`
+- Item 3014 "FG-01 Hand Grenades" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_french`
 - Item 3015 "MNV34 Nightvision Goggles" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_french`
 - Item 3016 "MTD6 Smart Bomb" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_french`
 - Item 3017 "TG-05 Gas Grenades" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_french`
@@ -983,7 +983,9 @@
 
 </summary>
 
-✓ Up to date!
+### Strings
+
+- [reactivedrop_german.txt](resource/reactivedrop_german.txt) has 21 untranslated strings.
 
 </details>
 
@@ -995,7 +997,7 @@
 
 ### Strings
 
-- [reactivedrop_italian.txt](resource/reactivedrop_italian.txt) has 1 untranslated strings.
+- [reactivedrop_italian.txt](resource/reactivedrop_italian.txt) has 22 untranslated strings.
 
 </details>
 
@@ -1008,7 +1010,7 @@
 ### Strings
 
 - [vgui_japanese.txt](platform/vgui_japanese.txt) has 35 untranslated strings.
-- [reactivedrop_japanese.txt](resource/reactivedrop_japanese.txt) has 12 untranslated strings.
+- [reactivedrop_japanese.txt](resource/reactivedrop_japanese.txt) has 33 untranslated strings.
 
 </details>
 
@@ -1029,7 +1031,7 @@
 - [basemodui_koreana.txt](resource/basemodui_koreana.txt) has 47 untranslated strings.
 - [closecaption_koreana.txt](resource/closecaption_koreana.txt) has 63 untranslated strings.
 - [gameui_koreana.txt](resource/gameui_koreana.txt) has 6 untranslated strings.
-- [reactivedrop_koreana.txt](resource/reactivedrop_koreana.txt) has 1204 untranslated strings.
+- [reactivedrop_koreana.txt](resource/reactivedrop_koreana.txt) has 1225 untranslated strings.
 - [valve_koreana.txt](resource/valve_koreana.txt) has 90 untranslated strings.
 
 ### Steam Store and Community
@@ -1177,17 +1179,17 @@
 - Item 3001 "Hand Welder" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_koreana`
 - Item 3002 "SM75 Combat Flares" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_koreana`
 - Item 3003 "ML30 Laser Trip Mine" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_koreana`
-- Item 3004 "l3a Tactical Heavy Armor" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_koreana`
+- Item 3004 "L3A Tactical Heavy Armor" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_koreana`
 - Item 3005 "X33 Damage Amplifier" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_koreana`
 - Item 3006 "Hornet Barrage" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_koreana`
-- Item 3007 "CR18 Freeze Grenades" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_koreana`
+- Item 3007 "CR-18 Freeze Grenades" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_koreana`
 - Item 3008 "Adrenaline" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_koreana`
 - Item 3009 "IAF Tesla Sentry Coil" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_koreana`
 - Item 3010 "v45 Electric Charged Armor" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_koreana`
 - Item 3011 "M478 Proximity Incendiary Mines" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_koreana`
 - Item 3012 "Flashlight Attachment" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_koreana`
 - Item 3013 "IAF Power Fist Attachment" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_koreana`
-- Item 3014 "FG01 Hand Grenades" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_koreana`
+- Item 3014 "FG-01 Hand Grenades" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_koreana`
 - Item 3015 "MNV34 Nightvision Goggles" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_koreana`
 - Item 3016 "MTD6 Smart Bomb" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_koreana`
 - Item 3017 "TG-05 Gas Grenades" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_koreana`
@@ -1222,7 +1224,7 @@
 - [chat_polish.txt](resource/chat_polish.txt) has 8 untranslated strings.
 - [closecaption_polish.txt](resource/closecaption_polish.txt) has 2001 untranslated strings.
 - [gameui_polish.txt](resource/gameui_polish.txt) has 10 untranslated strings.
-- [reactivedrop_polish.txt](resource/reactivedrop_polish.txt) has 2339 untranslated strings.
+- [reactivedrop_polish.txt](resource/reactivedrop_polish.txt) has 2360 untranslated strings.
 - [valve_polish.txt](resource/valve_polish.txt) has 266 untranslated strings.
 
 ### Steam Store and Community
@@ -1465,17 +1467,17 @@
 - Item 3001 "Hand Welder" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_polish`
 - Item 3002 "SM75 Combat Flares" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_polish`
 - Item 3003 "ML30 Laser Trip Mine" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_polish`
-- Item 3004 "l3a Tactical Heavy Armor" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_polish`
+- Item 3004 "L3A Tactical Heavy Armor" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_polish`
 - Item 3005 "X33 Damage Amplifier" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_polish`
 - Item 3006 "Hornet Barrage" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_polish`
-- Item 3007 "CR18 Freeze Grenades" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_polish`, `display_type_polish`
+- Item 3007 "CR-18 Freeze Grenades" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_polish`, `display_type_polish`
 - Item 3008 "Adrenaline" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_polish`
 - Item 3009 "IAF Tesla Sentry Coil" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_polish`
 - Item 3010 "v45 Electric Charged Armor" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_polish`
 - Item 3011 "M478 Proximity Incendiary Mines" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_polish`
 - Item 3012 "Flashlight Attachment" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_polish`
 - Item 3013 "IAF Power Fist Attachment" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_polish`
-- Item 3014 "FG01 Hand Grenades" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_polish`, `display_type_polish`
+- Item 3014 "FG-01 Hand Grenades" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_polish`, `display_type_polish`
 - Item 3015 "MNV34 Nightvision Goggles" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_polish`
 - Item 3016 "MTD6 Smart Bomb" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_polish`
 - Item 3017 "TG-05 Gas Grenades" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_polish`, `description_polish`, `display_type_polish`
@@ -1505,7 +1507,7 @@
 - [statsweb_portuguese.vdf](community/stats_website/statsweb_portuguese.vdf) has 21 untranslated strings.
 - [vgui_portuguese.txt](platform/vgui_portuguese.txt) has 93 untranslated strings.
 - [closecaption_portuguese.txt](resource/closecaption_portuguese.txt) has 168 untranslated strings.
-- [reactivedrop_portuguese.txt](resource/reactivedrop_portuguese.txt) has 1529 untranslated strings.
+- [reactivedrop_portuguese.txt](resource/reactivedrop_portuguese.txt) has 1550 untranslated strings.
 - [valve_portuguese.txt](resource/valve_portuguese.txt) has 266 untranslated strings.
 
 ### Steam Store and Community
@@ -1734,17 +1736,17 @@
 - Item 3001 "Hand Welder" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `description_portuguese`, `display_type_portuguese`
 - Item 3002 "SM75 Combat Flares" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `description_portuguese`, `display_type_portuguese`
 - Item 3003 "ML30 Laser Trip Mine" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `description_portuguese`, `display_type_portuguese`
-- Item 3004 "l3a Tactical Heavy Armor" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `description_portuguese`, `display_type_portuguese`
+- Item 3004 "L3A Tactical Heavy Armor" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `description_portuguese`, `display_type_portuguese`
 - Item 3005 "X33 Damage Amplifier" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `description_portuguese`, `display_type_portuguese`
 - Item 3006 "Hornet Barrage" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `description_portuguese`, `display_type_portuguese`
-- Item 3007 "CR18 Freeze Grenades" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `description_portuguese`, `display_type_portuguese`
+- Item 3007 "CR-18 Freeze Grenades" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `description_portuguese`, `display_type_portuguese`
 - Item 3008 "Adrenaline" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `description_portuguese`, `display_type_portuguese`
 - Item 3009 "IAF Tesla Sentry Coil" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `description_portuguese`, `display_type_portuguese`
 - Item 3010 "v45 Electric Charged Armor" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_portuguese`
 - Item 3011 "M478 Proximity Incendiary Mines" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `description_portuguese`, `display_type_portuguese`
 - Item 3012 "Flashlight Attachment" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `description_portuguese`, `display_type_portuguese`
 - Item 3013 "IAF Power Fist Attachment" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `description_portuguese`, `display_type_portuguese`
-- Item 3014 "FG01 Hand Grenades" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `description_portuguese`, `display_type_portuguese`
+- Item 3014 "FG-01 Hand Grenades" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `description_portuguese`, `display_type_portuguese`
 - Item 3015 "MNV34 Nightvision Goggles" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `description_portuguese`, `display_type_portuguese`
 - Item 3016 "MTD6 Smart Bomb" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `description_portuguese`, `display_type_portuguese`
 - Item 3017 "TG-05 Gas Grenades" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `description_portuguese`, `display_type_portuguese`
@@ -1771,7 +1773,7 @@
 - [inventory_service_tags_brazilian.vdf](community/inventory_service/inventory_service_tags_brazilian.vdf) has 17 untranslated strings.
 - [statsweb_brazilian.vdf](community/stats_website/statsweb_brazilian.vdf) has 3 untranslated strings.
 - [closecaption_brazilian.txt](resource/closecaption_brazilian.txt) has 2001 untranslated strings.
-- [reactivedrop_brazilian.txt](resource/reactivedrop_brazilian.txt) has 585 untranslated strings.
+- [reactivedrop_brazilian.txt](resource/reactivedrop_brazilian.txt) has 606 untranslated strings.
 
 ### Upcoming Release Notes
 
@@ -1842,17 +1844,17 @@
 - Item 3001 "Hand Welder" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_brazilian`
 - Item 3002 "SM75 Combat Flares" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_brazilian`
 - Item 3003 "ML30 Laser Trip Mine" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_brazilian`
-- Item 3004 "l3a Tactical Heavy Armor" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_brazilian`
+- Item 3004 "L3A Tactical Heavy Armor" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_brazilian`
 - Item 3005 "X33 Damage Amplifier" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_brazilian`
 - Item 3006 "Hornet Barrage" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_brazilian`
-- Item 3007 "CR18 Freeze Grenades" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_brazilian`
+- Item 3007 "CR-18 Freeze Grenades" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_brazilian`
 - Item 3008 "Adrenaline" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_brazilian`
 - Item 3009 "IAF Tesla Sentry Coil" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_brazilian`
 - Item 3010 "v45 Electric Charged Armor" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_brazilian`
 - Item 3011 "M478 Proximity Incendiary Mines" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_brazilian`
 - Item 3012 "Flashlight Attachment" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_brazilian`
 - Item 3013 "IAF Power Fist Attachment" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_brazilian`
-- Item 3014 "FG01 Hand Grenades" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_brazilian`
+- Item 3014 "FG-01 Hand Grenades" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_brazilian`
 - Item 3015 "MNV34 Nightvision Goggles" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_brazilian`
 - Item 3016 "MTD6 Smart Bomb" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_brazilian`
 - Item 3017 "TG-05 Gas Grenades" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_brazilian`
@@ -1876,7 +1878,7 @@
 
 ### Strings
 
-- [reactivedrop_russian.txt](resource/reactivedrop_russian.txt) has 1 untranslated strings.
+- [reactivedrop_russian.txt](resource/reactivedrop_russian.txt) has 22 untranslated strings.
 
 ### Upcoming Release Notes
 
@@ -1905,7 +1907,7 @@
 - [basemodui_spanish.txt](resource/basemodui_spanish.txt) has 26 untranslated strings.
 - [closecaption_spanish.txt](resource/closecaption_spanish.txt) has 2001 untranslated strings.
 - [gameui_spanish.txt](resource/gameui_spanish.txt) has 8 untranslated strings.
-- [reactivedrop_spanish.txt](resource/reactivedrop_spanish.txt) has 1743 untranslated strings.
+- [reactivedrop_spanish.txt](resource/reactivedrop_spanish.txt) has 1764 untranslated strings.
 - [valve_spanish.txt](resource/valve_spanish.txt) has 266 untranslated strings.
 
 ### Steam Store and Community
@@ -2147,17 +2149,17 @@
 - Item 3001 "Hand Welder" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_spanish`
 - Item 3002 "SM75 Combat Flares" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_spanish`
 - Item 3003 "ML30 Laser Trip Mine" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_spanish`
-- Item 3004 "l3a Tactical Heavy Armor" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_spanish`
+- Item 3004 "L3A Tactical Heavy Armor" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_spanish`
 - Item 3005 "X33 Damage Amplifier" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_spanish`
 - Item 3006 "Hornet Barrage" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_spanish`
-- Item 3007 "CR18 Freeze Grenades" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_spanish`, `display_type_spanish`
+- Item 3007 "CR-18 Freeze Grenades" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_spanish`, `display_type_spanish`
 - Item 3008 "Adrenaline" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_spanish`
 - Item 3009 "IAF Tesla Sentry Coil" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_spanish`
 - Item 3010 "v45 Electric Charged Armor" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_spanish`
 - Item 3011 "M478 Proximity Incendiary Mines" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_spanish`
 - Item 3012 "Flashlight Attachment" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_spanish`
 - Item 3013 "IAF Power Fist Attachment" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_spanish`
-- Item 3014 "FG01 Hand Grenades" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_spanish`, `display_type_spanish`
+- Item 3014 "FG-01 Hand Grenades" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_spanish`, `display_type_spanish`
 - Item 3015 "MNV34 Nightvision Goggles" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_spanish`
 - Item 3016 "MTD6 Smart Bomb" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_spanish`
 - Item 3017 "TG-05 Gas Grenades" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_spanish`
@@ -2192,7 +2194,7 @@
 - [chat_latam.txt](resource/chat_latam.txt) has 8 untranslated strings.
 - [closecaption_latam.txt](resource/closecaption_latam.txt) has 2001 untranslated strings.
 - [gameui_latam.txt](resource/gameui_latam.txt) has 605 untranslated strings.
-- [reactivedrop_latam.txt](resource/reactivedrop_latam.txt) has 3878 untranslated strings.
+- [reactivedrop_latam.txt](resource/reactivedrop_latam.txt) has 3899 untranslated strings.
 - [valve_latam.txt](resource/valve_latam.txt) has 266 untranslated strings.
 
 ### Steam Store and Community
@@ -2435,17 +2437,17 @@
 - Item 3001 "Hand Welder" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_latam`, `description_latam`, `display_type_latam`
 - Item 3002 "SM75 Combat Flares" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_latam`, `description_latam`, `display_type_latam`
 - Item 3003 "ML30 Laser Trip Mine" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_latam`, `description_latam`, `display_type_latam`
-- Item 3004 "l3a Tactical Heavy Armor" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_latam`, `description_latam`, `display_type_latam`
+- Item 3004 "L3A Tactical Heavy Armor" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_latam`, `description_latam`, `display_type_latam`
 - Item 3005 "X33 Damage Amplifier" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_latam`, `description_latam`, `display_type_latam`
 - Item 3006 "Hornet Barrage" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_latam`, `description_latam`, `display_type_latam`
-- Item 3007 "CR18 Freeze Grenades" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_latam`, `description_latam`, `display_type_latam`
+- Item 3007 "CR-18 Freeze Grenades" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_latam`, `description_latam`, `display_type_latam`
 - Item 3008 "Adrenaline" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_latam`, `description_latam`, `display_type_latam`
 - Item 3009 "IAF Tesla Sentry Coil" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_latam`, `description_latam`, `display_type_latam`
 - Item 3010 "v45 Electric Charged Armor" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_latam`, `description_latam`, `display_type_latam`
 - Item 3011 "M478 Proximity Incendiary Mines" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_latam`, `description_latam`, `display_type_latam`
 - Item 3012 "Flashlight Attachment" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_latam`, `description_latam`, `display_type_latam`
 - Item 3013 "IAF Power Fist Attachment" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_latam`, `description_latam`, `display_type_latam`
-- Item 3014 "FG01 Hand Grenades" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_latam`, `description_latam`, `display_type_latam`
+- Item 3014 "FG-01 Hand Grenades" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_latam`, `description_latam`, `display_type_latam`
 - Item 3015 "MNV34 Nightvision Goggles" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_latam`, `description_latam`, `display_type_latam`
 - Item 3016 "MTD6 Smart Bomb" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_latam`, `description_latam`, `display_type_latam`
 - Item 3017 "TG-05 Gas Grenades" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_latam`, `description_latam`, `display_type_latam`
@@ -2480,7 +2482,7 @@
 - [chat_ukrainian.txt](resource/chat_ukrainian.txt) has 8 untranslated strings.
 - [closecaption_ukrainian.txt](resource/closecaption_ukrainian.txt) has 119 untranslated strings.
 - [gameui_ukrainian.txt](resource/gameui_ukrainian.txt) has 9 untranslated strings.
-- [reactivedrop_ukrainian.txt](resource/reactivedrop_ukrainian.txt) has 1871 untranslated strings.
+- [reactivedrop_ukrainian.txt](resource/reactivedrop_ukrainian.txt) has 1892 untranslated strings.
 - [valve_ukrainian.txt](resource/valve_ukrainian.txt) has 266 untranslated strings.
 
 ### Steam Store and Community
@@ -2723,17 +2725,17 @@
 - Item 3001 "Hand Welder" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_ukrainian`
 - Item 3002 "SM75 Combat Flares" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_ukrainian`
 - Item 3003 "ML30 Laser Trip Mine" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_ukrainian`
-- Item 3004 "l3a Tactical Heavy Armor" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_ukrainian`
+- Item 3004 "L3A Tactical Heavy Armor" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_ukrainian`
 - Item 3005 "X33 Damage Amplifier" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_ukrainian`
 - Item 3006 "Hornet Barrage" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_ukrainian`
-- Item 3007 "CR18 Freeze Grenades" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_ukrainian`, `display_type_ukrainian`
+- Item 3007 "CR-18 Freeze Grenades" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_ukrainian`, `display_type_ukrainian`
 - Item 3008 "Adrenaline" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_ukrainian`
 - Item 3009 "IAF Tesla Sentry Coil" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_ukrainian`
 - Item 3010 "v45 Electric Charged Armor" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_ukrainian`
 - Item 3011 "M478 Proximity Incendiary Mines" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_ukrainian`
 - Item 3012 "Flashlight Attachment" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_ukrainian`
 - Item 3013 "IAF Power Fist Attachment" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_ukrainian`
-- Item 3014 "FG01 Hand Grenades" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_ukrainian`, `display_type_ukrainian`
+- Item 3014 "FG-01 Hand Grenades" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_ukrainian`, `display_type_ukrainian`
 - Item 3015 "MNV34 Nightvision Goggles" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_ukrainian`
 - Item 3016 "MTD6 Smart Bomb" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_ukrainian`
 - Item 3017 "TG-05 Gas Grenades" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_ukrainian`, `description_ukrainian`, `display_type_ukrainian`
@@ -2767,7 +2769,7 @@
 - [chat_vietnamese.txt](resource/chat_vietnamese.txt) has 1 untranslated strings.
 - [closecaption_vietnamese.txt](resource/closecaption_vietnamese.txt) has 2001 untranslated strings.
 - [gameui_vietnamese.txt](resource/gameui_vietnamese.txt) has 605 untranslated strings.
-- [reactivedrop_vietnamese.txt](resource/reactivedrop_vietnamese.txt) has 3878 untranslated strings.
+- [reactivedrop_vietnamese.txt](resource/reactivedrop_vietnamese.txt) has 3899 untranslated strings.
 - [valve_vietnamese.txt](resource/valve_vietnamese.txt) has 224 untranslated strings.
 
 ### Steam Store and Community
@@ -2997,17 +2999,17 @@
 - Item 3001 "Hand Welder" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_vietnamese`, `description_vietnamese`, `display_type_vietnamese`
 - Item 3002 "SM75 Combat Flares" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_vietnamese`, `description_vietnamese`, `display_type_vietnamese`
 - Item 3003 "ML30 Laser Trip Mine" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_vietnamese`, `description_vietnamese`, `display_type_vietnamese`
-- Item 3004 "l3a Tactical Heavy Armor" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_vietnamese`, `description_vietnamese`, `display_type_vietnamese`
+- Item 3004 "L3A Tactical Heavy Armor" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_vietnamese`, `description_vietnamese`, `display_type_vietnamese`
 - Item 3005 "X33 Damage Amplifier" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_vietnamese`, `description_vietnamese`, `display_type_vietnamese`
 - Item 3006 "Hornet Barrage" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_vietnamese`, `description_vietnamese`, `display_type_vietnamese`
-- Item 3007 "CR18 Freeze Grenades" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_vietnamese`, `description_vietnamese`, `display_type_vietnamese`
+- Item 3007 "CR-18 Freeze Grenades" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_vietnamese`, `description_vietnamese`, `display_type_vietnamese`
 - Item 3008 "Adrenaline" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_vietnamese`, `description_vietnamese`, `display_type_vietnamese`
 - Item 3009 "IAF Tesla Sentry Coil" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_vietnamese`, `description_vietnamese`, `display_type_vietnamese`
 - Item 3010 "v45 Electric Charged Armor" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_vietnamese`, `description_vietnamese`, `display_type_vietnamese`
 - Item 3011 "M478 Proximity Incendiary Mines" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_vietnamese`, `description_vietnamese`, `display_type_vietnamese`
 - Item 3012 "Flashlight Attachment" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_vietnamese`, `description_vietnamese`, `display_type_vietnamese`
 - Item 3013 "IAF Power Fist Attachment" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_vietnamese`, `description_vietnamese`, `display_type_vietnamese`
-- Item 3014 "FG01 Hand Grenades" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_vietnamese`, `description_vietnamese`, `display_type_vietnamese`
+- Item 3014 "FG-01 Hand Grenades" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_vietnamese`, `description_vietnamese`, `display_type_vietnamese`
 - Item 3015 "MNV34 Nightvision Goggles" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_vietnamese`, `description_vietnamese`, `display_type_vietnamese`
 - Item 3016 "MTD6 Smart Bomb" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_vietnamese`, `description_vietnamese`, `display_type_vietnamese`
 - Item 3017 "TG-05 Gas Grenades" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_vietnamese`, `description_vietnamese`, `display_type_vietnamese`
