@@ -940,7 +940,7 @@
 "[english]asw_weaponl_welder"		"Hand Welder"
 "asw_weapon_welder_attributes"		"Заваривает и отваривает двери"
 "[english]asw_weapon_welder_attributes"		"Seals and Unseals Doors"
-"asw_weapon_flechette"		"Бомбовые кассеты"
+"asw_weapon_flechette"		"Бомбомёт"
 "[english]asw_weapon_flechette"		"Flechette Launcher"
 "asw_weapon_flechette_attributes"		"Дистанционное управление"
 "[english]asw_weapon_flechette_attributes"		"Remote Detonation"
@@ -8162,9 +8162,9 @@
 "tf_dingalingaling_Squasher"		"Бульканье"
 // goop splash
 "[english]tf_dingalingaling_Squasher"		"Squasher"
-		"tf_dingalingaling_Swarm"		"Swarm"
-		// meaty hit
-		"[english]tf_dingalingaling_Swarm"		"Swarm"
+"tf_dingalingaling_Swarm"		"Удар по жуку"
+// meaty hit
+"[english]tf_dingalingaling_Swarm"		"Swarm"
 "asw_hud_counter_format"		"%s1: %s2"
 // %s1 is mapper-specified label text. %s2 is a number. %s3 is the amount the number will change by soon.
 "[english]asw_hud_counter_format"		"%s1: %s2"
