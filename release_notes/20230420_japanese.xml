@@ -98,7 +98,7 @@ TODO
 [*][b]Nam Humanum: Logistics Area:[/b] スピードランの時間制限を1:10から1:15に延長。
 [*][b]Nam Humanum: Platform XVII:[/b] スピードランの時間制限を3:02から3:10に延長。
 [*][b]Nam Humanum: Platform XVII:[/b] BOT操作の隊員が移動プラットフォームに乗ろうとしないのを修正。
-[*][b]BioGen Corporation: Operation x5:[/b] スピードランの時間制限を3:28から3:35に延長。
+[*][b]BioGen Corporation: Operation X5:[/b] スピードランの時間制限を3:28から3:35に延長。
 [*][b]BioGen Corporation: Invisible Threat:[/b] スピードランの時間制限を1:13から1:20に延長。
 [*][b]Bunker:[/b] 天井の見えない梁の衝突判定を削除。
 [*][b]Landing BayとCargo Elevator:[/b] 想定外の順番で目標を達成することで進行不能になるのを修正。
