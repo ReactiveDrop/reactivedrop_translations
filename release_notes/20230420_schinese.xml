@@ -94,7 +94,7 @@
 		[*][b]Nam Humanum: Logistics Area:[/b] Increased speed run time limit from 1:10 to 1:15.
 		[*][b]Nam Humanum: Platform XVII:[/b] Increased speed run time limit from 3:02 to 3:10.
 		[*][b]Nam Humanum: Platform XVII:[/b] Fixed bot marines refusing to stand on the moving platform.
-		[*][b]BioGen Corporation: Operation x5:[/b] Increased speed run time limit from 3:28 to 3:35.
+		[*][b]BioGen Corporation: Operation X5:[/b] Increased speed run time limit from 3:28 to 3:35.
 		[*][b]BioGen Corporation: Invisible Threat:[/b] Increased speed run time limit from 1:13 to 1:20.
 [*][b]燃料库：[/b] 移除了 无形天花板横梁的碰撞。
 		[*][b]Landing Bay + Cargo Elevator:[/b] Fixed a soft lock caused by completing the objectives out of the intended order.
@@ -105,8 +105,8 @@
 [h2]武器[/h2]
 [list]
 [*][b]ML30激光地雷：[/b] 改进了 投掷动画的网络预测。
-		[*][b]l3a Tactical Heavy Armor:[/b] This equipment now changes the appearance of marines wearing it.
-		[*][b]CR18 Freeze Grenades:[/b] Freezing now kills buzzers, and marines can be frozen in Deathmatch mode.
+		[*][b]L3A Tactical Heavy Armor:[/b] This equipment now changes the appearance of marines wearing it.
+		[*][b]CR-18 Freeze Grenades:[/b] Freezing now kills buzzers, and marines can be frozen in Deathmatch mode.
 		[*][b]K80 Personal Defense Weapon:[/b] This weapon now shows a different icon for magazines on the HUD instead of counting each magazine twice.
 [*][b]M868火焰装置：[/b] 修复了 燃料箱只提供一半的弹药装填的问题。
 		[*][b]v45 Electric Charged Armor:[/b] This equipment now changes the appearance of marines wearing it.
