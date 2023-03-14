@@ -109,7 +109,7 @@ TODO
 [h2]武器[/h2]
 [list]
 [*][b]ML30激光地雷：[/b] 改进了 投掷动画的网络预测。
-		[*][b]l3a Tactical Heavy Armor:[/b] This equipment now changes the appearance of marines wearing it.
+		[*][b]L3A Tactical Heavy Armor:[/b] This equipment now changes the appearance of marines wearing it.
 		[*][b]CR18 Freeze Grenades:[/b] Freezing now kills buzzers, and marines can be frozen in Deathmatch mode.
 		[*][b]K80 Personal Defense Weapon:[/b] This weapon now shows a different icon for magazines on the HUD instead of counting each magazine twice.
 [*][b]M868火焰装置：[/b] 修复了 燃料箱只提供一半的弹药装填的问题。

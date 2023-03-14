@@ -905,7 +905,7 @@
 "asw_weapon_normal_armor"		"Armură Grea"
 "[english]asw_weapon_normal_armor"		"Heavy Armor"
 "asw_weaponl_normal_armor"		"Armură Grea 13a"
-"[english]asw_weaponl_normal_armor"		"l3a Tactical Heavy Armor"
+"[english]asw_weaponl_normal_armor"		"L3A Tactical Heavy Armor"
 		"asw_weapon_normal_armor_attributes"		"Up to 35% Damage Reduction, Passive"
 		"[english]asw_weapon_normal_armor_attributes"		"Up to 35% Damage Reduction, Passive"
 "asw_weapon_fist"		"Pumnul Puternic"
