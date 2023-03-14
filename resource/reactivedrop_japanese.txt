@@ -8141,13 +8141,13 @@
 "tf_dingalingaling_Electro"		"電子音"
 // pinball machine sound
 "[english]tf_dingalingaling_Electro"		"Electro"
-"tf_dingalingaling_Notes"		"ノーツ"
+"tf_dingalingaling_Notes"		"ロック演奏"
 // rock music
 "[english]tf_dingalingaling_Notes"		"Notes"
 "tf_dingalingaling_Percussion"		"打楽器"
 // snare drum
 "[english]tf_dingalingaling_Percussion"		"Percussion"
-"tf_dingalingaling_Retro"		"レトロ"
+"tf_dingalingaling_Retro"		"レトロゲーム"
 // space invaders arcade cabinet
 "[english]tf_dingalingaling_Retro"		"Retro"
 "tf_dingalingaling_Space"		"SF光線"
@@ -8162,9 +8162,9 @@
 "tf_dingalingaling_Squasher"		"グチャグチャ"
 // goop splash
 "[english]tf_dingalingaling_Squasher"		"Squasher"
-		"tf_dingalingaling_Swarm"		"Swarm"
-		// meaty hit
-		"[english]tf_dingalingaling_Swarm"		"Swarm"
+"tf_dingalingaling_Swarm"		"虫潰し"
+// meaty hit
+"[english]tf_dingalingaling_Swarm"		"Swarm"
 "asw_hud_counter_format"		"%s1: %s2"
 // %s1 is mapper-specified label text. %s2 is a number. %s3 is the amount the number will change by soon.
 "[english]asw_hud_counter_format"		"%s1: %s2"
