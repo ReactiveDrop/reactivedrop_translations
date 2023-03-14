@@ -905,7 +905,7 @@
 "asw_weapon_normal_armor"		"Armure Renforcée"
 "[english]asw_weapon_normal_armor"		"Heavy Armor"
 "asw_weaponl_normal_armor"		"Armure Tactique Renforcée I3a"
-"[english]asw_weaponl_normal_armor"		"l3a Tactical Heavy Armor"
+"[english]asw_weaponl_normal_armor"		"L3A Tactical Heavy Armor"
 "asw_weapon_normal_armor_attributes"		"35% Moins de Dégâts, Passif"
 "[english]asw_weapon_normal_armor_attributes"		"Up to 35% Damage Reduction, Passive"
 "asw_weapon_fist"		"Poing Énergétique"
