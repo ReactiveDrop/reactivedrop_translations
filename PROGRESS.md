@@ -8,9 +8,9 @@
 | [Dutch](#non-curated-languages) | 49 | 2001 | 10 | 2360 | 194 | 460 | 281 | 147 |
 | [Finnish](#non-curated-languages) | 49 | 2001 | 10 | 2360 | 194 | 460 | 281 | 147 |
 | [French](#french-français) | 25 | 126 | 10 | 1712 | 194 | 394 | 267 | 126 |
-| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | 21 | ✔️ | ✔️ | ✔️ | ✔️ |
+| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Hungarian](#non-curated-languages) | 49 | 126 | 10 | 2360 | 194 | 725 | 281 | 148 |
-| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | 22 | ✔️ | ✔️ | ✔️ | ✔️ |
+| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | 12 | ✔️ | 35 | ✔️ | ✔️ |
 | [Korean](#koreana-한국어) | 47 | 63 | 6 | 1225 | 46 | 288 | 267 | 53 |
 | [Norwegian Bokmål](#non-curated-languages) | 67 | 701 | 15 | 3080 | 194 | 460 | 350 | 148 |
@@ -979,9 +979,7 @@
 
 </summary>
 
-### Strings
-
-- [reactivedrop_german.txt](resource/reactivedrop_german.txt) has 21 untranslated strings.
+✓ Up to date!
 
 </details>
 
@@ -991,9 +989,7 @@
 
 </summary>
 
-### Strings
-
-- [reactivedrop_italian.txt](resource/reactivedrop_italian.txt) has 22 untranslated strings.
+✓ Up to date!
 
 </details>
 
