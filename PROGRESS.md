@@ -8,7 +8,7 @@
 | [Dutch](#non-curated-languages) | 49 | 2002 | 10 | 2360 | 194 | 460 | 281 | 147 |
 | [Finnish](#non-curated-languages) | 49 | 2002 | 10 | 2360 | 194 | 460 | 281 | 147 |
 | [French](#french-français) | 25 | 127 | 10 | 1712 | 194 | 394 | 267 | 126 |
-| [German](#german-deutsch) | ✔️ | 1 | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
+| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Hungarian](#non-curated-languages) | 49 | 127 | 10 | 2360 | 194 | 725 | 281 | 148 |
 | [Italian](#italian-italiano) | ✔️ | 1 | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Japanese](#japanese-日本語) | ✔️ | 1 | ✔️ | 12 | ✔️ | 35 | ✔️ | ✔️ |
@@ -979,9 +979,7 @@
 
 </summary>
 
-### Strings
-
-- [closecaption_german.txt](resource/closecaption_german.txt) has 1 untranslated strings.
+✓ Up to date!
 
 </details>
 
