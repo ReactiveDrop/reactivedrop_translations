@@ -10,8 +10,8 @@
 | [French](#french-français) | 25 | 127 | 10 | 1712 | 194 | 394 | 267 | 126 |
 | [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Hungarian](#non-curated-languages) | 49 | 127 | 10 | 2360 | 194 | 725 | 281 | 148 |
-| [Italian](#italian-italiano) | ✔️ | 1 | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
-| [Japanese](#japanese-日本語) | ✔️ | 1 | ✔️ | 12 | ✔️ | 35 | ✔️ | ✔️ |
+| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
+| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | 12 | ✔️ | 35 | ✔️ | ✔️ |
 | [Korean](#koreana-한국어) | 47 | 64 | 6 | 1225 | 46 | 288 | 267 | 53 |
 | [Norwegian Bokmål](#non-curated-languages) | 67 | 702 | 15 | 3080 | 194 | 460 | 350 | 148 |
 | [Polish](#polish-polski) | 26 | 2002 | 10 | 2360 | 194 | 460 | 281 | 148 |
@@ -989,9 +989,7 @@
 
 </summary>
 
-### Strings
-
-- [closecaption_italian.txt](resource/closecaption_italian.txt) has 1 untranslated strings.
+✓ Up to date!
 
 </details>
 
@@ -1004,7 +1002,6 @@
 ### Strings
 
 - [vgui_japanese.txt](platform/vgui_japanese.txt) has 35 untranslated strings.
-- [closecaption_japanese.txt](resource/closecaption_japanese.txt) has 1 untranslated strings.
 - [reactivedrop_japanese.txt](resource/reactivedrop_japanese.txt) has 12 untranslated strings.
 
 </details>
