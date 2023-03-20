@@ -9,10 +9,6 @@
 
 [img]{STEAM_CLAN_IMAGE}/27357479/b527e399d2930690d08f8aa95025dedcc0cf1b9d.jpg[/img]
 
-[h1]Новая кампания: Аданаксис[/h1]
-
-TODO
-
 [h1]Коллекции: Оружие, снаряжение и жукопедия[/h1]
 
 Как и было обещано при добавлении меню коллекции, «Жукопедия» вернулась, лучше, чем когда-либо! Откройте для себя статистику, советы и короткие истории о жуках, убивая их на поле боя. Дополнения также могут создавать свои собственные записи в жукопедии или добавлять новую информацию в существующие.
@@ -213,4 +209,4 @@ TODO
 [*]asw_vehicle_jeep теперь имеет методы для получения статистики: GetSpeed, GetMaxSpeed (в милях в час), GetRPM, GetThrottle, HasBoost и BoostTimeLeft.
 [*]Добавлены SetSpawnZombineOnMarineKill для управляемых NPC, SetSpawnZombineOnDeath для бойцов и переменная rd_marine_spawn_zombine_on_death_chance, все из которых можно использовать для появления зомби-бойца с ИИ зомбайна, когда боец умирает.
 		[*]Added methods to players: SetNPC and SetSpectatingNPC.
-[/list]</string><string id="subtitle">Сегодня день рождения Alien Swarm: Reactive Drop!</string><string id="summary">Сегодня Alien Swarm: Reactive Drop празднует 6 лет в Steam! В честь этого события вас ждёт неделя двойного опыта, две новые кампании и некоторые другие приятности.</string><string id="title">Обновление Alien Swarm: Reactive Drop - 20 апреля 2023 года</string></content>
+[/list]</string><string id="subtitle">Сегодня день рождения Alien Swarm: Reactive Drop!</string><string id="summary">Сегодня Alien Swarm: Reactive Drop празднует 6 лет в Steam! В честь этого события вас ждёт неделя двойного опыта, новая кампания и некоторые другие приятности.</string><string id="title">Обновление Alien Swarm: Reactive Drop - 20 апреля 2023 года</string></content>
