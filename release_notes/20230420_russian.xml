@@ -212,4 +212,5 @@ TODO
 [*]asw_vehicle_jeep теперь имеет методы для запроса пассажиров: MaxPassengers(), GetDriver() и GetPassenger(сидение).
 [*]asw_vehicle_jeep теперь имеет методы для получения статистики: GetSpeed, GetMaxSpeed (в милях в час), GetRPM, GetThrottle, HasBoost и BoostTimeLeft.
 [*]Добавлены SetSpawnZombineOnMarineKill для управляемых NPC, SetSpawnZombineOnDeath для бойцов и переменная rd_marine_spawn_zombine_on_death_chance, все из которых можно использовать для появления зомби-бойца с ИИ зомбайна, когда боец умирает.
+		[*]Added methods to players: SetNPC and SetSpectatingNPC.
 [/list]</string><string id="subtitle">Сегодня день рождения Alien Swarm: Reactive Drop!</string><string id="summary">Сегодня Alien Swarm: Reactive Drop празднует 6 лет в Steam! В честь этого события вас ждёт неделя двойного опыта, две новые кампании и некоторые другие приятности.</string><string id="title">Обновление Alien Swarm: Reactive Drop - 20 апреля 2023 года</string></content>
