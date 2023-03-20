@@ -212,4 +212,5 @@ Here are some highlights from updates since the previous anniversary:
 [*]asw_vehicle_jeep has methods to query the occupants: MaxPassengers(), GetDriver(), and GetPassenger(seat).
 [*]asw_vehicle_jeep has methods to retrieve statistics: GetSpeed, GetMaxSpeed (in miles per hour), GetRPM, GetThrottle, HasBoost, and BoostTimeLeft.
 [*]Added SetSpawnZombineOnMarineKill to inhabitable NPCs, SetSpawnZombineOnDeath to marines, and a convar rd_marine_spawn_zombine_on_death_chance, all of which can be used to spawn a marine zombie with the Zombine AI when a marine dies.
+[*]Added methods to players: SetNPC and SetSpectatingNPC.
 [/list]</string><string id="subtitle">It's Alien Swarm: Reactive Drop's Birthday!</string><string id="summary">Today, Alien Swarm: Reactive Drop celebrates 6 years on Steam! Here's a week of double experience, two new campaigns, and some other goodies to celebrate.</string><string id="title">Alien Swarm: Reactive Drop Update - April 20, 2023</string></content>

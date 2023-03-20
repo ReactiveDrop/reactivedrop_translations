@@ -213,4 +213,5 @@ TODO
 [*]asw_vehicle_jeep有一些方法可以查询车内人员:maxpassenger()、GetDriver()和GetPassenger(seat)。
 [*]asw_vehicle_jeep有方法来检索统计数据:GetSpeed, GetMaxSpeed（英里每小时），GetRPM, GetThrottle, HasBoost和BoostTimeLeft。
 		[*]Added SetSpawnZombineOnMarineKill to inhabitable NPCs, SetSpawnZombineOnDeath to marines, and a convar rd_marine_spawn_zombine_on_death_chance, all of which can be used to spawn a marine zombie with the Zombine AI when a marine dies.
+		[*]Added methods to players: SetNPC and SetSpectatingNPC.
 [/list]</string><string id="subtitle">欢迎参加《异形丛生：虫启天降》的生日！！</string><string id="summary">今天，欢迎参加《异形丛生：虫启天降》在Steam上庆祝六周年！这里有一个星期的双倍经验，两个新的战役，和一些其他的好东西来庆祝。</string><string id="title">Alien Swarm: Reactive Drop Update - April 20, 2023</string></content>

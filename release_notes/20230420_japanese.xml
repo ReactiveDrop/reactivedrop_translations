@@ -212,4 +212,5 @@ TODO
 [*]asw_vehicle_jeepが乗員についての情報を要求するメソッドとして、MaxPassengers(), GetDriver(), GetPassenger(seat)を持つようになった。
 [*]asw_vehicle_jeepが統計情報を取得するメソッドとして、GetSpeed, GetMaxSpeed (時速マイル表記), GetRPM, GetThrottle, HasBoost, BoostTimeLeftを持つようになった。
 [*]SetSpawnZombineOnMarineKillを操作可能なNPCに、SetSpawnZombineOnDeathを海兵隊に、そしてコンソール変数rd_marine_spawn_zombine_on_death_chanceを追加。これらは海兵隊が死亡した時にゾンバインのAIで動く海兵隊ゾンビを出現させるのに使えます。
+		[*]Added methods to players: SetNPC and SetSpectatingNPC.
 [/list]</string><string id="subtitle">今日はAlien Swarm: Reactive Dropの誕生日です！</string><string id="summary">今日はAlien Swarm: Reactive DropがSteamでリリースされてから6周年の記念日です！経験値2倍週間、2つの新キャンペーン、その他色々でお祝いしましょう。</string><string id="title">Alien Swarm: Reactive Dropアップデート - 2023年4月20日</string></content>
