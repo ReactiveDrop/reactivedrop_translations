@@ -352,6 +352,14 @@ func updateLanguageFile(source *translatedStrings, prefix, lang, suffix string) 
 		panic(err)
 	}
 
+	merge, err := loadTranslatedStrings(prefix+"_"+lang+"_merge"+suffix, lang, true)
+	if errors.Is(err, os.ErrNotExist) {
+		merge, err = nil, nil
+	}
+	if err != nil {
+		panic(err)
+	}
+
 	var buf bytes.Buffer
 
 	check(buf.WriteString("\ufeff\"lang\"\r\n{\r\n\"Language\"\t\t\""))
@@ -391,6 +399,15 @@ func updateLanguageFile(source *translatedStrings, prefix, lang, suffix string) 
 			if x.source != c.translated {
 				x.translated = c.translated
 				x.source = c.translated
+				x.indent = true
+			}
+		}
+
+		if merge != nil && x.translated == c.translated {
+			i, ok = merge.lookup[lowerKey]
+			if ok && merge.strings[i].source == c.translated && merge.strings[i].translated != x.translated {
+				x.translated = merge.strings[i].translated
+				x.tcomment = merge.strings[i].tcomment
 				x.indent = true
 			}
 		}
