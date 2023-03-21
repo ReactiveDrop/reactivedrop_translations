@@ -49,7 +49,7 @@
 
 ### Upcoming Release Notes
 
-- [20230420_schinese.xml](release_notes/20230420_schinese.xml) has 93 indented lines.
+- [20230420_schinese.xml](release_notes/20230420_schinese.xml) has 94 indented lines.
 
 ### Credits
 
@@ -981,7 +981,7 @@
 
 ### Upcoming Release Notes
 
-- [20230420_german.xml](release_notes/20230420_german.xml) has 1 indented lines.
+- [20230420_german.xml](release_notes/20230420_german.xml) has 2 indented lines.
 
 </details>
 
@@ -993,7 +993,7 @@
 
 ### Upcoming Release Notes
 
-- [20230420_italian.xml](release_notes/20230420_italian.xml) has 1 indented lines.
+- [20230420_italian.xml](release_notes/20230420_italian.xml) has 2 indented lines.
 
 </details>
 
@@ -1010,7 +1010,7 @@
 
 ### Upcoming Release Notes
 
-- [20230420_japanese.xml](release_notes/20230420_japanese.xml) has 1 indented lines.
+- [20230420_japanese.xml](release_notes/20230420_japanese.xml) has 2 indented lines.
 
 </details>
 
@@ -1774,7 +1774,7 @@
 
 ### Upcoming Release Notes
 
-- [20230420_brazilian.xml](release_notes/20230420_brazilian.xml) has 92 indented lines.
+- [20230420_brazilian.xml](release_notes/20230420_brazilian.xml) has 93 indented lines.
 
 ### Credits
 
@@ -1879,7 +1879,7 @@
 
 ### Upcoming Release Notes
 
-- [20230420_russian.xml](release_notes/20230420_russian.xml) has 1 indented lines.
+- [20230420_russian.xml](release_notes/20230420_russian.xml) has 2 indented lines.
 
 ### Credits
 
