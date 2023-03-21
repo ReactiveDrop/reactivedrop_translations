@@ -402,5 +402,9 @@
 		"[english]StatsWeb_ShortNum_Quintillion0"		"%dE"
 		"StatsWeb_ShortNum_Quintillion1"		"%d.%dE"
 		"[english]StatsWeb_ShortNum_Quintillion1"		"%d.%dE"
+		"StatsWeb_Report_Medals"		"Report a problem with medals."
+		"[english]StatsWeb_Report_Medals"		"Report a problem with medals."
+		"StatsWeb_Report_Vandalism"		"Report incorrect stats."
+		"[english]StatsWeb_Report_Vandalism"		"Report incorrect stats."
 }
 }
