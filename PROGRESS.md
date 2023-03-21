@@ -18,7 +18,7 @@
 | [European Portuguese](#portuguese-português-europeu) | ✔️ | 169 | ✔️ | 1554 | 21 | 388 | 286 | 140 |
 | [Brazilian Portuguese](#brazilian-português) | ✔️ | 2002 | ✔️ | 610 | 3 | 17 | 129 | 5 |
 | [Romanian](#non-curated-languages) | 49 | 1994 | 16 | 3089 | 194 | 725 | 327 | 148 |
-| [Russian](#russian-русский) | ✔️ | 1 | ✔️ | 25 | ✔️ | ✔️ | ✔️ | 2 |
+| [Russian](#russian-русский) | ✔️ | 1 | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 1 |
 | [European Spanish](#spanish-español-de-españa) | 26 | 2002 | 8 | 1768 | 194 | 464 | 277 | 147 |
 | [Latin American Spanish](#latam-español-latinoamericano) | 1279 | 2002 | 605 | 3903 | 198 | 730 | 363 | 148 |
 | [Swedish](#non-curated-languages) | 49 | 2002 | 10 | 2364 | 194 | 460 | 281 | 148 |
@@ -1871,11 +1871,6 @@
 ### Strings
 
 - [closecaption_russian.txt](resource/closecaption_russian.txt) has 1 untranslated strings.
-- [reactivedrop_russian.txt](resource/reactivedrop_russian.txt) has 25 untranslated strings.
-
-### Upcoming Release Notes
-
-- [20230420_russian.xml](release_notes/20230420_russian.xml) has 2 indented lines.
 
 ### Credits
 
