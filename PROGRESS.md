@@ -993,7 +993,7 @@
 
 ### Upcoming Release Notes
 
-- [20230420_italian.xml](release_notes/20230420_italian.xml) has 2 indented lines.
+- [20230420_italian.xml](release_notes/20230420_italian.xml) has 1 indented lines.
 
 </details>
 
