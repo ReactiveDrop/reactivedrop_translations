@@ -23,7 +23,7 @@
 "[english]asw_SynTekScrollLine0"		"Boot ROM signed correctly."
 "asw_SynTekScrollLine1"		"Авторизация ОС успешно завершена."
 "[english]asw_SynTekScrollLine1"		"Host OS authentication successful."
-"asw_SynTekScrollLine2"		"Подключение к «СинСЕТИ»..."
+"asw_SynTekScrollLine2"		"Подключение к СинСЕТИ..."
 "[english]asw_SynTekScrollLine2"		"SynNET connection..."
 "asw_SynTekScrollLine3"		"."
 "[english]asw_SynTekScrollLine3"		"."
