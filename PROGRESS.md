@@ -8,7 +8,7 @@
 | [Dutch](#non-curated-languages) | 49 | 2002 | 10 | 2364 | 196 | 460 | 281 | 147 |
 | [Finnish](#non-curated-languages) | 49 | 2002 | 10 | 2364 | 196 | 460 | 281 | 147 |
 | [French](#french-français) | 25 | 127 | 10 | 1716 | 196 | 394 | 267 | 126 |
-| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | 2 | ✔️ | ✔️ | 1 |
+| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Hungarian](#non-curated-languages) | 49 | 127 | 10 | 2364 | 196 | 725 | 281 | 148 |
 | [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | 2 | ✔️ | ✔️ | 1 |
 | [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | 12 | 2 | 35 | ✔️ | ✔️ |
@@ -979,13 +979,7 @@
 
 </summary>
 
-### Strings
-
-- [statsweb_german.vdf](community/stats_website/statsweb_german.vdf) has 2 untranslated strings.
-
-### Upcoming Release Notes
-
-- [20230420_german.xml](release_notes/20230420_german.xml) has 2 indented lines.
+✓ Up to date!
 
 </details>
 
