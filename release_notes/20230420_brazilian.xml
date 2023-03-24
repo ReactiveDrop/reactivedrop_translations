@@ -87,8 +87,9 @@ Aqui estão alguns destaques das atualizações desde o aniversário anterior:
 [list]
 [*][b]Área 9800: Wastelands:[/b] Corrigido um harvester ficando preso na saída durante a cena final de introdução da manopla.
 		[*][b]Tears for Tarnor: Oasis Colony Spaceport:[/b] Fixed train station announcements being too quiet to hear in some cases.
+		[*][b]Tears for Tarnor: Oasis Colony Spaceport:[/b] Reduced networking overhead in areas where the path through the mission crosses.
 [*][b]Tilarus-5: Arctic Infiltration:[/b] Corrigido uber drones aparecendo e desaparecendo logo após o início da missão.
-[*][b]Tilarus-5: SynTek Hospital:[/b] Volume do alarme aumentado.
+		[*][b]Tilarus-5: SynTek Hospital:[/b] Volume do alarme aumentado. Dramatically reduced networking overhead.
 [*][b]Lana's Escape: Lana's Bridge:[/b] Otimizações de desempenho significativas para iluminação, renderização e localização de caminhos.
 		[*][b]Lana's Escape: Lana's Sewer:[/b] The radioactive barrels in the arena deal more damage to menders.
 [*][b]Paranoia: Unexpected Encounter:[/b] Corrigido bugs relacionados à mira do lançador de granadas.
@@ -109,13 +110,16 @@ Aqui estão alguns destaques das atualizações desde o aniversário anterior:
 [*][b]ML30 Laser Trip Mine:[/b] Previsão de rede aprimorada para a animação de arremesso.
 		[*][b]L3A Tactical Heavy Armor:[/b] This equipment now changes the appearance of marines wearing it.
 		[*][b]CR-18 Freeze Grenades:[/b] Freezing now kills buzzers, and marines can be frozen in Deathmatch mode.
+		[*][b]IAF Medical Gun:[/b] If you are not aiming at a valid target, the gun will now default to self-healing.
 		[*][b]K80 Personal Defense Weapon:[/b] This weapon now shows a different icon for magazines on the HUD instead of counting each magazine twice.
 [*][b]M868 Flamer Unit:[/b] Corrigido tanques de combustível concedendo apenas meia recarga de munição.
 		[*][b]v45 Electric Charged Armor:[/b] This equipment now changes the appearance of marines wearing it.
 		[*][b]IAF Power Fist Attachment:[/b] This equipment now changes the appearance of marines wearing it.
 [*][b]Motoserra:[/b] Bots agora usam essa arma de um alcance mais razoável.
 		[*][b]MNV34 Nightvision Goggles:[/b] This equipment now changes the appearance of marines wearing it.
+		[*][b]IAF Medical Amplifier Gun:[/b] If you are not aiming at a valid target, the gun will now default to self-healing.
 [*][b]Granadas de Gás TG-05:[/b] Atualizado a aparência do item para ajudar a diferenciá-lo de outros tipos de granadas.
+		[*][b]IAF Medical SMG:[/b] If you are not aiming at a valid target, the gun will now default to self-healing.
 		[*][b]Flechette Gun (hidden):[/b] This gun has a new appearance and now fires timed sticky explosives (the same ones Combine Hunters fire) rather than auto-aimed rockets. Now fires directly at the aim location rather than parallel to the ground.
 		[*][b]Ricochet Rifle (hidden):[/b] This gun has a new appearance and no longer requires the secondary trigger to be held to bounce shots. Instead, holding the secondary trigger switches the gun to a shotgun-like burst fire mode. Bounced bullets can now hit the marine that fired them.
 [*]Corrigido a animação de escaneamento para sentinelas que dessincronizava o ângulo de quando a arma estava inativa.
@@ -148,6 +152,8 @@ Aqui estão alguns destaques das atualizações desde o aniversário anterior:
 		[*]Added a visible and audible indication for when Leadership affects damage dealt or taken.
 		[*]Challenges can now set "required_on_client" "1" if they wish to include assets, which will cause the workshop addon to be automatically downloaded when the challenge is activated.
 		[*]Challenges can now be marked for use in deathmatch with "allowed_mode" "deathmatch". Challenges that are able to be used in both deathmatch and cooperative play can additionally specify "allowed_mode" "coop".
+		[*]Fixed several Nam Humanum campaign achievements re-locking unexpectedly.
+		[*]Fixed the Perfect achievement requiring no challenges in the current lobby rather than the current mission attempt.
 		[*]Updated the weapon unlock notification to include a description. This screen is now also used for medals unlocked through gameplay.
 		[*]Added advanced settings to highlight your character, play sounds when you hurt an enemy, and more!
 [/list]

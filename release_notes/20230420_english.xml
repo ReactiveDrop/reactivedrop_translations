@@ -3,7 +3,7 @@
 
 [h1]New Campaign: Accident 32[/h1]
 
-Mysterious, seemingly harmless green glowing gems are discovered under the ground of a populated area due to abnormal radioactivity levels. The company "AMBER" came to study this supernatural material. Findings are frightening and undocumented, kept away from the public. Gems are identified to be extremely dangerous, extraterrestrial materials comprised of mostly muons. Emitted radiation modifies all biological structures in a big vicinity.
+Mysterious green glowing gems are discovered under the ground of a populated area due to abnormal radioactivity levels. The company "AMBER" comes to study this supernatural material. Findings are frightening and undocumented, and kept away from the public. The gems are identified to be extremely dangerous, extraterrestrial materials comprised of mostly muons. Emitted radiation modifies all biological structures in a big vicinity.
 
 Originally released in May of 2020 and May of 2022 on the Steam Workshop, Accident 32 is a six-mission campaign which combines two three-mission campaigns into one. Marines are set out to explore the mysterious complex and headquarters of the company called "AMBER" and face many threats. A bonus "AMBER Complex" mission is included which is the first three missions combined into one.
 
@@ -87,8 +87,9 @@ Here are some highlights from updates since the previous anniversary:
 [list]
 [*][b]Area 9800: Wastelands:[/b] Fixed a harvester getting stuck in the exit during the finale gauntlet introduction scene.
 [*][b]Tears for Tarnor: Oasis Colony Spaceport:[/b] Fixed train station announcements being too quiet to hear in some cases.
+[*][b]Tears for Tarnor: Oasis Colony Spaceport:[/b] Reduced networking overhead in areas where the path through the mission crosses.
 [*][b]Tilarus-5: Arctic Infiltration:[/b] Fixed uber drones appearing and disappearing shortly after the start of the mission.
-[*][b]Tilarus-5: SynTek Hospital:[/b] Made alarm sounds louder.
+[*][b]Tilarus-5: SynTek Hospital:[/b] Made alarm sounds louder. Dramatically reduced networking overhead.
 [*][b]Lana's Escape: Lana's Bridge:[/b] Significant performance optimizations to lighting, rendering, and pathfinding.
 [*][b]Lana's Escape: Lana's Sewer:[/b] The radioactive barrels in the arena deal more damage to menders.
 [*][b]Paranoia: Unexpected Encounter:[/b] Fixed bugs related to grenade launcher aiming.
@@ -109,13 +110,16 @@ Here are some highlights from updates since the previous anniversary:
 [*][b]ML30 Laser Trip Mine:[/b] Improved network prediction for throwing animation.
 [*][b]L3A Tactical Heavy Armor:[/b] This equipment now changes the appearance of marines wearing it.
 [*][b]CR-18 Freeze Grenades:[/b] Freezing now kills buzzers, and marines can be frozen in Deathmatch mode.
+[*][b]IAF Medical Gun:[/b] If you are not aiming at a valid target, the gun will now default to self-healing.
 [*][b]K80 Personal Defense Weapon:[/b] This weapon now shows a different icon for magazines on the HUD instead of counting each magazine twice.
 [*][b]M868 Flamer Unit:[/b] Fixed fuel tanks only granting half a reload worth of ammo.
 [*][b]v45 Electric Charged Armor:[/b] This equipment now changes the appearance of marines wearing it.
 [*][b]IAF Power Fist Attachment:[/b] This equipment now changes the appearance of marines wearing it.
 [*][b]Chainsaw:[/b] Bots now use this weapon from a more reasonable range.
 [*][b]MNV34 Nightvision Goggles:[/b] This equipment now changes the appearance of marines wearing it.
+[*][b]IAF Medical Amplifier Gun:[/b] If you are not aiming at a valid target, the gun will now default to self-healing.
 [*][b]TG-05 Gas Grenades:[/b] Updated the item's appearance to help differentiate it from other types of grenades.
+[*][b]IAF Medical SMG:[/b] If you are not aiming at a valid target, the gun will now default to self-healing.
 [*][b]Flechette Gun (hidden):[/b] This gun has a new appearance and now fires timed sticky explosives (the same ones Combine Hunters fire) rather than auto-aimed rockets. Now fires directly at the aim location rather than parallel to the ground.
 [*][b]Ricochet Rifle (hidden):[/b] This gun has a new appearance and no longer requires the secondary trigger to be held to bounce shots. Instead, holding the secondary trigger switches the gun to a shotgun-like burst fire mode. Bounced bullets can now hit the marine that fired them.
 [*]Fixed the scanning animation for sentries desynchronizing from the gun's idle angle.
@@ -148,6 +152,8 @@ Here are some highlights from updates since the previous anniversary:
 [*]Added a visible and audible indication for when Leadership affects damage dealt or taken.
 [*]Challenges can now set "required_on_client" "1" if they wish to include assets, which will cause the workshop addon to be automatically downloaded when the challenge is activated.
 [*]Challenges can now be marked for use in deathmatch with "allowed_mode" "deathmatch". Challenges that are able to be used in both deathmatch and cooperative play can additionally specify "allowed_mode" "coop".
+[*]Fixed several Nam Humanum campaign achievements re-locking unexpectedly.
+[*]Fixed the Perfect achievement requiring no challenges in the current lobby rather than the current mission attempt.
 [*]Updated the weapon unlock notification to include a description. This screen is now also used for medals unlocked through gameplay.
 [*]Added advanced settings to highlight your character, play sounds when you hurt an enemy, and more!
 [/list]
