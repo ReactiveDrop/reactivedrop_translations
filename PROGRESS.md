@@ -8,17 +8,17 @@
 | [Dutch](#non-curated-languages) | 49 | 2002 | 10 | 2364 | 196 | 460 | 281 | 147 |
 | [Finnish](#non-curated-languages) | 49 | 2002 | 10 | 2364 | 196 | 460 | 281 | 147 |
 | [French](#french-français) | 25 | 127 | 10 | 1716 | 196 | 394 | 267 | 126 |
-| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
+| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 1 |
 | [Hungarian](#non-curated-languages) | 49 | 127 | 10 | 2364 | 196 | 725 | 281 | 148 |
-| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
-| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | 12 | ✔️ | 35 | ✔️ | ✔️ |
+| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 1 |
+| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | 12 | ✔️ | 35 | ✔️ | 1 |
 | [Korean](#koreana-한국어) | 47 | 64 | 6 | 1229 | 48 | 288 | 267 | 53 |
 | [Norwegian Bokmål](#non-curated-languages) | 67 | 702 | 15 | 3084 | 196 | 460 | 350 | 148 |
 | [Polish](#polish-polski) | 26 | 2002 | 10 | 2364 | 196 | 460 | 281 | 148 |
 | [European Portuguese](#portuguese-português-europeu) | ✔️ | 169 | ✔️ | 1554 | 23 | 388 | 286 | 140 |
 | [Brazilian Portuguese](#brazilian-português) | ✔️ | 2002 | ✔️ | 610 | 5 | 17 | 129 | 5 |
 | [Romanian](#non-curated-languages) | 49 | 1994 | 16 | 3089 | 196 | 725 | 327 | 148 |
-| [Russian](#russian-русский) | ✔️ | 1 | ✔️ | ✔️ | 2 | ✔️ | ✔️ | 1 |
+| [Russian](#russian-русский) | ✔️ | 1 | ✔️ | ✔️ | 2 | ✔️ | ✔️ | 2 |
 | [European Spanish](#spanish-español-de-españa) | 26 | 2002 | 8 | 1768 | 196 | 464 | 277 | 147 |
 | [Latin American Spanish](#latam-español-latinoamericano) | 1279 | 2002 | 605 | 3903 | 200 | 730 | 363 | 148 |
 | [Swedish](#non-curated-languages) | 49 | 2002 | 10 | 2364 | 196 | 460 | 281 | 148 |
@@ -49,7 +49,7 @@
 
 ### Upcoming Release Notes
 
-- [20230420_schinese.xml](release_notes/20230420_schinese.xml) has 94 indented lines.
+- [20230420_schinese.xml](release_notes/20230420_schinese.xml) has 101 indented lines.
 
 ### Credits
 
@@ -979,7 +979,9 @@
 
 </summary>
 
-✓ Up to date!
+### Upcoming Release Notes
+
+- [20230420_german.xml](release_notes/20230420_german.xml) has 7 indented lines.
 
 </details>
 
@@ -989,7 +991,9 @@
 
 </summary>
 
-✓ Up to date!
+### Upcoming Release Notes
+
+- [20230420_italian.xml](release_notes/20230420_italian.xml) has 7 indented lines.
 
 </details>
 
@@ -1003,6 +1007,10 @@
 
 - [vgui_japanese.txt](platform/vgui_japanese.txt) has 35 untranslated strings.
 - [reactivedrop_japanese.txt](resource/reactivedrop_japanese.txt) has 12 untranslated strings.
+
+### Upcoming Release Notes
+
+- [20230420_japanese.xml](release_notes/20230420_japanese.xml) has 7 indented lines.
 
 </details>
 
@@ -1766,7 +1774,7 @@
 
 ### Upcoming Release Notes
 
-- [20230420_brazilian.xml](release_notes/20230420_brazilian.xml) has 93 indented lines.
+- [20230420_brazilian.xml](release_notes/20230420_brazilian.xml) has 100 indented lines.
 
 ### Credits
 
@@ -1868,6 +1876,10 @@
 
 - [statsweb_russian.vdf](community/stats_website/statsweb_russian.vdf) has 2 untranslated strings.
 - [closecaption_russian.txt](resource/closecaption_russian.txt) has 1 untranslated strings.
+
+### Upcoming Release Notes
+
+- [20230420_russian.xml](release_notes/20230420_russian.xml) has 7 indented lines.
 
 ### Credits
 
