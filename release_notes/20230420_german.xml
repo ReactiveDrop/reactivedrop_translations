@@ -87,9 +87,9 @@ Hier sind einige Highlights der Updates seit dem letzten Jahrestag:
 [list]
 [*][b]Bereich 9800: Ödland:[/b] Ein Raffer blieb während der Einführungsszene des finalen Spießrutenlaufs im Ausgang stecken.
 [*][b]Tränen für Tarnor: Oasis-Kolonie Raumhafen:[/b] Die Bahnhofsdurchsagen waren in manchen Fällen zu leise, um gehört zu werden.
-		[*][b]Tears for Tarnor: Oasis Colony Spaceport:[/b] Reduced networking overhead in areas where the path through the mission crosses.
+[*][b]Tränen für Tarnor: Oasis Colony Spaceport:[/b] Reduced networking overhead in areas where the path through the mission crosses.
 [*][b]Tilarus-5: Arktische Infiltration:[/b] Es wurde behoben, dass Überdrohnen kurz nach dem Start des Einsatzes erscheinen und wieder verschwinden.
-		[*][b]Tilarus-5: SynTek Krankenhaus:[/b] Alarmtöne sind jetzt lauter. Dramatically reduced networking overhead.
+[*][b]Tilarus-5: SynTek Krankenhaus:[/b] Alarmtöne sind jetzt lauter. Drastisch reduzierter Netzwerkaufwand.
 [*][b]Lanas Flucht: Lanas Brücke:[/b] Erhebliche Leistungsoptimierungen bei Beleuchtung, Rendering und Pfadfindung.
 [*][b]Lanas Flucht: Lanas Abwasserkanal:[/b] Die radioaktiven Fässer in der Arena fügen den Heilern mehr Schaden zu.
 [*][b]Paranoia: Unerwartete Begegnungen:[/b] Fehler im Zusammenhang mit dem Zielen von Granatwerfern wurden behoben.
@@ -110,16 +110,16 @@ Hier sind einige Highlights der Updates seit dem letzten Jahrestag:
 [*][b]ML30 Laser Haftminen:[/b] Verbesserte Netzvorhersage für Wurfanimation.
 [*][b]L3A Taktische Schwere Rüstung:[/b] Diese Ausrüstung verändert jetzt das Aussehen seines Trägers.
 [*][b]CR-18 Frostgranaten:[/b] Einfrieren tötet jetzt Schnarren. Und Soldaten können im Deathmatch-Modus eingefroren werden.
-		[*][b]IAF Medical Gun:[/b] If you are not aiming at a valid target, the gun will now default to self-healing.
+[*][b]IAF Mobile Heileinheit:[/b] Wenn du nicht auf ein gültiges Ziel schießt, schaltet die Waffe jetzt auf Selbstheilung um.
 [*][b]K80 Persönliche Defensivwaffe:[/b] Diese Waffe zeigt jetzt ein anderes Symbol für Magazine auf dem HUD an, anstatt jedes Magazin doppelt zu zählen.
 [*][b]M868 Flammenwerfer:[/b] Treibstofftanks, die nur eine halbe Nachladung an Munition liefern wurden behoben.
 [*][b]v45 Elektrisch geladene Rüstung:[/b] Diese Ausrüstung verändert jetzt das Aussehen seines Trägers.
 [*][b]IAF-Kraftfaust-Aufsatz:[/b] Diese Ausrüstung verändert jetzt das Aussehen seines Trägers.
 [*][b]Kettensäge:[/b] Bots benutzen diese Waffe jetzt aus einer angemesseneren Reichweite.
 [*][b]MNV34 Nachtsichtgerät:[/b] Diese Ausrüstung verändert jetzt das Aussehen seines Trägers.
-		[*][b]IAF Medical Amplifier Gun:[/b] If you are not aiming at a valid target, the gun will now default to self-healing.
+[*][b]IAF Mobile Amp-Heileinheit:[/b] Wenn du nicht auf ein gültiges Ziel schießt, schaltet die Waffe jetzt auf Selbstheilung um.
 [*][b]TG-05 Gasgranaten:[/b] Das Aussehen des Gegenstandes wurde aktualisiert, um ihn von anderen Granaten zu unterscheiden.
-		[*][b]IAF Medical SMG:[/b] If you are not aiming at a valid target, the gun will now default to self-healing.
+[*][b]IAF Sanitäter SMG:[/b] Wenn du nicht auf ein gültiges Ziel schießt, schaltet die Waffe jetzt auf Selbstheilung um.
 [*][b]Flechette-Gewehr (versteckt):[/b] Dieses Gewehr hat ein neues Aussehen und verschießt jetzt zeitgesteuerte klebrige Sprengsätze (die gleichen, die Combine Jäger abfeuern) anstelle von Raketen mit automatischer Zielvorrichtung. Schießt jetzt direkt auf den Zielpunkt und nicht mehr parallel zum Boden.
 [*][b]Querschläger-Gewehr (versteckt):[/b] Diese Waffe hat ein neues Aussehen und erfordert nicht mehr, dass der sekundäre Abzug gehalten wird, um Schüsse abprallen zu lassen. Stattdessen, wenn man den zweiten Abzug gedrückt hält, schaltet die Waffe in einen schrotflintenähnlichen Modus um. Abprallende Kugeln können jetzt den Soldaten treffen, der sie abgefeuert hat.
 [*]Die Scan-Animation für Wächter, die aus dem Ruhewinkel des Geschützes ausscheren, wurde behoben.
@@ -152,8 +152,8 @@ Hier sind einige Highlights der Updates seit dem letzten Jahrestag:
 [*]Es wurde eine sichtbare und hörbare Anzeige hinzugefügt, die anzeigt, wann sich die Führung auf den zugefügten oder erlittenen Schaden auswirkt.
 [*]Herausforderungen können jetzt "required_on_client" auf "1" setzen, wenn sie Assets einschließen wollen, was dazu führt, dass das Workshop-Addon automatisch heruntergeladen wird, wenn die Herausforderung aktiviert wird.
 [*]Herausforderungen können jetzt für die Verwendung im Deathmatch mit "allowed_mode" "deathmatch" markiert werden. Herausforderungen, die sowohl im Deathmatch als auch im kooperativen Spiel verwendet werden können, können zusätzlich mit "allowed_mode" "coop" gekennzeichnet werden.
-		[*]Fixed several Nam Humanum campaign achievements re-locking unexpectedly.
-		[*]Fixed the Perfect achievement requiring no challenges in the current lobby rather than the current mission attempt.
+[*]Mehrere Errungenschaften des Nam Humanum-Feldzuges wurden unerwartet gesperrt.
+[*]Die Errungenschaft "Perfekt", die keine Herausforderungen in der aktuellen Lobby erfordert (anstatt dem aktuellen Einsatzversuch), wurde behoben.
 [*]Die Benachrichtigung zum Freischalten von Gegenständen wurde aktualisiert und enthält nun eine Beschreibung. Dieser Bildschirm wird jetzt auch für Sammlerstücke verwendet, die durch das Spiel freigeschaltet werden.
 [*]Erweiterte Einstellungen zum Hervorheben deines Charakters, Abspielen von Sounds bei Treffern und mehr!
 [/list]
