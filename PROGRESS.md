@@ -18,7 +18,7 @@
 | [European Portuguese](#portuguese-português-europeu) | ✔️ | 169 | ✔️ | 1554 | 23 | 388 | 286 | 140 |
 | [Brazilian Portuguese](#brazilian-português) | ✔️ | 2002 | ✔️ | 610 | 5 | 17 | 129 | 5 |
 | [Romanian](#non-curated-languages) | 49 | 1994 | 16 | 3089 | 196 | 725 | 327 | 148 |
-| [Russian](#russian-русский) | ✔️ | 1 | ✔️ | ✔️ | 2 | ✔️ | ✔️ | 1 |
+| [Russian](#russian-русский) | ✔️ | 1 | ✔️ | ✔️ | 2 | ✔️ | ✔️ | 2 |
 | [European Spanish](#spanish-español-de-españa) | 26 | 2002 | 8 | 1768 | 196 | 464 | 277 | 147 |
 | [Latin American Spanish](#latam-español-latinoamericano) | 1279 | 2002 | 605 | 3903 | 200 | 730 | 363 | 148 |
 | [Swedish](#non-curated-languages) | 49 | 2002 | 10 | 2364 | 196 | 460 | 281 | 148 |
@@ -49,7 +49,7 @@
 
 ### Upcoming Release Notes
 
-- [20230420_schinese.xml](release_notes/20230420_schinese.xml) has 94 indented lines.
+- [20230420_schinese.xml](release_notes/20230420_schinese.xml) has 101 indented lines.
 
 ### Credits
 
@@ -1766,7 +1766,7 @@
 
 ### Upcoming Release Notes
 
-- [20230420_brazilian.xml](release_notes/20230420_brazilian.xml) has 93 indented lines.
+- [20230420_brazilian.xml](release_notes/20230420_brazilian.xml) has 100 indented lines.
 
 ### Credits
 
@@ -1868,6 +1868,10 @@
 
 - [statsweb_russian.vdf](community/stats_website/statsweb_russian.vdf) has 2 untranslated strings.
 - [closecaption_russian.txt](resource/closecaption_russian.txt) has 1 untranslated strings.
+
+### Upcoming Release Notes
+
+- [20230420_russian.xml](release_notes/20230420_russian.xml) has 7 indented lines.
 
 ### Credits
 
