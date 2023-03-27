@@ -87,8 +87,9 @@ Ecco alcuni momenti salienti dagli aggiornamenti precedenti allo scorso annivers
 [list]
 [*][b]Area 9800: Lande Desolate:[/b] Corretto un mietitore che si bloccava nell'uscita durante la scena di introduzione della sfida finale.
 [*][b]Lacrime per Tarnor: Spazioporto della Colonia di Oasis:[/b] Corretto il volume troppo basso degli annunci della stazione in certi casi.
+[*][b]Lacrime per Tarnor: Spazioporto della Colonia di Oasis:[/b] Riduzione dell'overhead di rete nelle aree in cui il percorso della missione si incrocia.
 [*][b]Tilarus-5: Infiltrazione Artica:[/b] Corretto il problema dei droni Uber che appaiono e scompaiono poco dopo l'inizio della missione.
-[*][b]Tilarus-5: Ospedale SynTek:[/b] L'allarme è stato reso più rumoroso.
+[*][b]Tilarus-5: Ospedale SynTek:[/b] L'allarme è stato reso più rumoroso. Overhead di rete ridotto drasticamente.
 [*][b]Fuga di Lana: Ponte di Lana:[/b] Ottimizzazioni significative delle prestazioni di illuminazione, rendering e pathfinding.
 [*][b]Fuga di Lana: Fogna di Lana:[/b] I barili radioattivi nell'arena infliggono più danni ai guaritori.
 [*][b]Paranoia: Incontro Inaspettato:[/b] Corretti i bug relativi alla mira del lanciagranate.
@@ -109,13 +110,16 @@ Ecco alcuni momenti salienti dagli aggiornamenti precedenti allo scorso annivers
 [*][b]Mina Laser a Pressione ML30:[/b] Miglioramento della previsione della rete per l'animazione del lancio.
 [*][b]Armatura Tattica PesanteL3A:[/b] Questo equipaggiamento ora cambia l'aspetto dei soldati che lo indossano.
 [*][b]Granate Congelanti CR-18:[/b] Il gelo ora uccide i buzzer. Inoltre, adesso i soldati possono essere congelati in modalità deathmatch.
+[*][b]Pistola Medica IAF:[/b] Se non si sta mirando a un bersaglio valido, l'arma ora passa all'autoguarigione.
 [*][b]Arma di Difesa Personale K80:[/b] Quest'arma ora mostra un'icona diversa per i caricatori sull'HUD invece di contare ogni caricatore due volte.
 [*][b]Unità Lanciafiamme M868:[/b] Corretto il fatto che i serbatoi di carburante forniscano solo mezza ricarica di munizioni.
 [*][b]Armatura Elettrica Caricata v45:[/b] Questo equipaggiamento ora cambia l'aspetto dei soldati che lo indossano.
 [*][b]Accessorio Power Fist IAF:[/b] Questo equipaggiamento ora cambia l'aspetto dei soldati che lo indossano.
 [*][b]Motosega:[/b] Ora i bot usano quest'arma a una distanza più ragionevole.
 [*][b]Occhiali per la Visione Notturna MNV34:[/b] Questo equipaggiamento ora cambia l'aspetto dei soldati che lo indossano.
+[*][b]Pistola Medica Amplificatrice IAF:[/b] Se non si sta mirando a un bersaglio valido, l'arma ora passa all'autoguarigione.
 [*][b]Granate a Gas TG-05:[/b] Aggiornato l'aspetto dell'arma per differenziarla meglio dalle armi dello stesso tipo.
+[*][b]SMG Medica IAF:[/b] Se non si sta mirando a un bersaglio valido, l'arma ora passa all'autoguarigione.
 [*][b]Pistola Flechette (nascosta):[/b] Questa pistola ha un nuovo aspetto e ora spara esplosivi appiccicosi a tempo (gli stessi che sparano gli Hunter Combine) anziché razzi a puntamento automatico. Ora spara direttamente sul punto di mira anziché parallelamente al terreno.
 [*][b]Fucile Ricochet (nascosto):[/b] Questo fucile ha un nuovo aspetto e non richiede più di tenere premuto il grilletto secondario per far rimbalzare i colpi. Invece, tenendo premuto il grilletto secondario, l'arma passa a una modalità di fuoco a raffica simile a quella dei fucili a pompa. I proiettili rimbalzanti ora possono colpire il soldato che li ha sparati.
 [*]Corretta l'animazione di scansione per le sentinelle che si desincronizza dall'angolo di inattività dell'arma.
@@ -148,6 +152,8 @@ Ecco alcuni momenti salienti dagli aggiornamenti precedenti allo scorso annivers
 [*]Aggiunta un'indicazione visibile e udibile per quando la Leadership influisce sui danni inflitti o subiti.
 [*]Le sfide ora possono impostare "required_on_client" "1" se desiderano includere le risorse, il che farà sì che l'addon del workshop venga scaricato automaticamente quando la sfida viene attivata.
 [*]Le sfide ora possono essere contrassegnate per l'uso in deathmatch con "allowed_mode" "deathmatch". Le sfide che possono essere utilizzate sia in deathmatch che in cooperativa possono specificare anche "allowed_mode" "coop".
+[*]Sistemati diversi achievement della campagna Nam Humanum che si bloccavano inaspettatamente.
+[*]Sistemato l'achievement "Perfetto" che richiedeva l'assenza di sfide nella lobby attuale anziché nel tentativo di missione attuale.
 [*]Aggiornata la notifica di sblocco dell'arma per includere una descrizione. Questa schermata viene ora utilizzata anche per le medaglie sbloccate attraverso il gioco.
 [*]Aggiunte impostazioni avanzate per evidenziare il tuo personaggio, riprodurre suoni quando ferisci un nemico e altro ancora!
 [/list]

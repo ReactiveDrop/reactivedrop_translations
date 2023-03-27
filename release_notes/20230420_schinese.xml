@@ -87,8 +87,9 @@
 [list]
 [*][b]第9800区：荒原之地[/b] 修复了 一个收获主在最后的挑战介绍场景，被卡在出口的问题。
 		[*][b]Tears for Tarnor: Oasis Colony Spaceport:[/b] Fixed train station announcements being too quiet to hear in some cases.
+		[*][b]Tears for Tarnor: Oasis Colony Spaceport:[/b] Reduced networking overhead in areas where the path through the mission crosses.
 [*][b]蒂拉鲁斯-5：北极渗透[/b] 修复了 任务启动时，上方的爪虫出现后又迅速消失的问题。
-[*][b]蒂拉鲁斯-5：新特医院[/b] 使警报听起来更响。
+		[*][b]蒂拉鲁斯-5：新特医院[/b] 使警报听起来更响。 Dramatically reduced networking overhead.
 [*][b]拉娜的逃亡：拉娜的大桥[/b] 对照明，渲染和寻路进行了显著的性能优化。
 		[*][b]Lana's Escape: Lana's Sewer:[/b] The radioactive barrels in the arena deal more damage to menders.
 [*][b]偏执症：始料不及[/b] 修复了 榴弹发射器瞄准的错误。
@@ -109,13 +110,16 @@
 [*][b]ML30激光地雷：[/b] 改进了 投掷动画的网络预测。
 		[*][b]L3A Tactical Heavy Armor:[/b] This equipment now changes the appearance of marines wearing it.
 		[*][b]CR-18 Freeze Grenades:[/b] Freezing now kills buzzers, and marines can be frozen in Deathmatch mode.
+		[*][b]IAF Medical Gun:[/b] If you are not aiming at a valid target, the gun will now default to self-healing.
 		[*][b]K80 Personal Defense Weapon:[/b] This weapon now shows a different icon for magazines on the HUD instead of counting each magazine twice.
 [*][b]M868火焰装置：[/b] 修复了 燃料箱只提供一半的弹药装填的问题。
 		[*][b]v45 Electric Charged Armor:[/b] This equipment now changes the appearance of marines wearing it.
 		[*][b]IAF Power Fist Attachment:[/b] This equipment now changes the appearance of marines wearing it.
 [*][b]链锯：[/b] 机器人现在在更合理的范围内使用这种武器。
 		[*][b]MNV34 Nightvision Goggles:[/b] This equipment now changes the appearance of marines wearing it.
+		[*][b]IAF Medical Amplifier Gun:[/b] If you are not aiming at a valid target, the gun will now default to self-healing.
 [*][b]TG-05 毒气手雷：[/b] 更新了物品的外观，以帮助区分它与其他类型的手榴弹。
+		[*][b]IAF Medical SMG:[/b] If you are not aiming at a valid target, the gun will now default to self-healing.
 		[*][b]Flechette Gun (hidden):[/b] This gun has a new appearance and now fires timed sticky explosives (the same ones Combine Hunters fire) rather than auto-aimed rockets. Now fires directly at the aim location rather than parallel to the ground.
 		[*][b]Ricochet Rifle (hidden):[/b] This gun has a new appearance and no longer requires the secondary trigger to be held to bounce shots. Instead, holding the secondary trigger switches the gun to a shotgun-like burst fire mode. Bounced bullets can now hit the marine that fired them.
 [*]修复了 哨兵塔在空闲时，角度不同步的扫描动画问题。
@@ -148,6 +152,8 @@
 		[*]Added a visible and audible indication for when Leadership affects damage dealt or taken.
 		[*]Challenges can now set "required_on_client" "1" if they wish to include assets, which will cause the workshop addon to be automatically downloaded when the challenge is activated.
 		[*]Challenges can now be marked for use in deathmatch with "allowed_mode" "deathmatch". Challenges that are able to be used in both deathmatch and cooperative play can additionally specify "allowed_mode" "coop".
+		[*]Fixed several Nam Humanum campaign achievements re-locking unexpectedly.
+		[*]Fixed the Perfect achievement requiring no challenges in the current lobby rather than the current mission attempt.
 		[*]Updated the weapon unlock notification to include a description. This screen is now also used for medals unlocked through gameplay.
 		[*]Added advanced settings to highlight your character, play sounds when you hurt an enemy, and more!
 [/list]
