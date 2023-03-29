@@ -109,19 +109,24 @@ Aqui estão alguns destaques das atualizações desde o aniversário anterior:
 [list]
 [*][b]ML30 Laser Trip Mine:[/b] Previsão de rede aprimorada para a animação de arremesso.
 		[*][b]L3A Tactical Heavy Armor:[/b] This equipment now changes the appearance of marines wearing it.
+		[*][b]Hornet Barrage:[/b] This equipment now changes the appearance of marines wearing it.
 		[*][b]CR-18 Freeze Grenades:[/b] Freezing now kills buzzers, and marines can be frozen in Deathmatch mode.
 		[*][b]IAF Medical Gun:[/b] If you are not aiming at a valid target, the gun will now default to self-healing.
 		[*][b]K80 Personal Defense Weapon:[/b] This weapon now shows a different icon for magazines on the HUD instead of counting each magazine twice.
 [*][b]M868 Flamer Unit:[/b] Corrigido tanques de combustível concedendo apenas meia recarga de munição.
 		[*][b]v45 Electric Charged Armor:[/b] This equipment now changes the appearance of marines wearing it.
+		[*][b]Flashlight Attachment:[/b] This equipment now changes the appearance of marines wearing it.
 		[*][b]IAF Power Fist Attachment:[/b] This equipment now changes the appearance of marines wearing it.
 [*][b]Motoserra:[/b] Bots agora usam essa arma de um alcance mais razoável.
+		[*][b]MTD6 Smart Bomb:[/b] This equipment now changes the appearance of marines wearing it.
 		[*][b]MNV34 Nightvision Goggles:[/b] This equipment now changes the appearance of marines wearing it.
 		[*][b]IAF Medical Amplifier Gun:[/b] If you are not aiming at a valid target, the gun will now default to self-healing.
 [*][b]Granadas de Gás TG-05:[/b] Atualizado a aparência do item para ajudar a diferenciá-lo de outros tipos de granadas.
 		[*][b]IAF Medical SMG:[/b] If you are not aiming at a valid target, the gun will now default to self-healing.
 		[*][b]Flechette Gun (hidden):[/b] This gun has a new appearance and now fires timed sticky explosives (the same ones Combine Hunters fire) rather than auto-aimed rockets. Now fires directly at the aim location rather than parallel to the ground.
 		[*][b]Ricochet Rifle (hidden):[/b] This gun has a new appearance and no longer requires the secondary trigger to be held to bounce shots. Instead, holding the secondary trigger switches the gun to a shotgun-like burst fire mode. Bounced bullets can now hit the marine that fired them.
+		[*][b]Displacement 'Blink' Pack (hidden):[/b] This equipment now changes the appearance of marines wearing it.
+		[*][b]Short Range Assault Jets (hidden):[/b] This equipment now changes the appearance of marines wearing it.
 [*]Corrigido a animação de escaneamento para sentinelas que dessincronizava o ângulo de quando a arma estava inativa.
 [*]Corrigido inconsistências no código de verificação de colisão, principalmente relacionadas a fuzileiros e projéteis.
 		[*]Fixed a bug sometimes preventing the use of off-hand items on controller.
