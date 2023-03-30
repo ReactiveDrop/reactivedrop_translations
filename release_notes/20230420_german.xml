@@ -109,24 +109,24 @@ Hier sind einige Highlights der Updates seit dem letzten Jahrestag:
 [list]
 [*][b]ML30 Laser Haftminen:[/b] Verbesserte Netzvorhersage für Wurfanimation.
 [*][b]L3A Taktische Schwere Rüstung:[/b] Diese Ausrüstung verändert jetzt das Aussehen seines Trägers.
-		[*][b]Raketen-Sperrfeuer:[/b] Diese Ausrüstung verändert jetzt das Aussehen seines Trägers.
+[*][b]Raketen-Sperrfeuer:[/b] Diese Ausrüstung verändert jetzt das Aussehen seines Trägers.
 [*][b]CR-18 Frostgranaten:[/b] Einfrieren tötet jetzt Schnarren. Und Soldaten können im Deathmatch-Modus eingefroren werden.
 [*][b]IAF Mobile Heileinheit:[/b] Wenn du nicht auf ein gültiges Ziel schießt, schaltet die Waffe jetzt auf Selbstheilung um.
 [*][b]K80 Persönliche Defensivwaffe:[/b] Diese Waffe zeigt jetzt ein anderes Symbol für Magazine auf dem HUD an, anstatt jedes Magazin doppelt zu zählen.
 [*][b]M868 Flammenwerfer:[/b] Treibstofftanks, die nur eine halbe Nachladung an Munition liefern wurden behoben.
 [*][b]v45 Elektrisch geladene Rüstung:[/b] Diese Ausrüstung verändert jetzt das Aussehen seines Trägers.
-		[*][b]Taktisches Licht:[/b] Diese Ausrüstung verändert jetzt das Aussehen seines Trägers.
+[*][b]Taktisches Licht:[/b] Diese Ausrüstung verändert jetzt das Aussehen seines Trägers.
 [*][b]IAF-Kraftfaust-Aufsatz:[/b] Diese Ausrüstung verändert jetzt das Aussehen seines Trägers.
 [*][b]Kettensäge:[/b] Bots benutzen diese Waffe jetzt aus einer angemesseneren Reichweite.
-		[*][b]MTD6 Lenkbomben:[/b] Diese Ausrüstung verändert jetzt das Aussehen seines Trägers.
+[*][b]MTD6 Lenkbomben:[/b] Diese Ausrüstung verändert jetzt das Aussehen seines Trägers.
 [*][b]MNV34 Nachtsichtgerät:[/b] Diese Ausrüstung verändert jetzt das Aussehen seines Trägers.
 [*][b]IAF Mobile Amp-Heileinheit:[/b] Wenn du nicht auf ein gültiges Ziel schießt, schaltet die Waffe jetzt auf Selbstheilung um.
 [*][b]TG-05 Gasgranaten:[/b] Das Aussehen des Gegenstandes wurde aktualisiert, um ihn von anderen Granaten zu unterscheiden.
 [*][b]IAF Sanitäter SMG:[/b] Wenn du nicht auf ein gültiges Ziel schießt, schaltet die Waffe jetzt auf Selbstheilung um.
 [*][b]Flechette-Gewehr (versteckt):[/b] Dieses Gewehr hat ein neues Aussehen und verschießt jetzt zeitgesteuerte klebrige Sprengsätze (die gleichen, die Combine Jäger abfeuern) anstelle von Raketen mit automatischer Zielvorrichtung. Schießt jetzt direkt auf den Zielpunkt und nicht mehr parallel zum Boden.
 [*][b]Querschläger-Gewehr (versteckt):[/b] Diese Waffe hat ein neues Aussehen und erfordert nicht mehr, dass der sekundäre Abzug gehalten wird, um Schüsse abprallen zu lassen. Stattdessen, wenn man den zweiten Abzug gedrückt hält, schaltet die Waffe in einen schrotflintenähnlichen Modus um. Abprallende Kugeln können jetzt den Soldaten treffen, der sie abgefeuert hat.
-		[*][b]Versetzungs- 'Flimmer' Paket (versteckt):[/b] Diese Ausrüstung verändert jetzt das Aussehen seines Trägers.
-		[*][b]Raketenrucksack mit geringer Reichweite (versteckt):[/b] Diese Ausrüstung verändert jetzt das Aussehen seines Trägers.
+[*][b]Versetzungs- 'Flimmer' Paket (versteckt):[/b] Diese Ausrüstung verändert jetzt das Aussehen seines Trägers.
+[*][b]Raketenrucksack mit geringer Reichweite (versteckt):[/b] Diese Ausrüstung verändert jetzt das Aussehen seines Trägers.
 [*]Die Scan-Animation für Wächter, die aus dem Ruhewinkel des Geschützes ausscheren, wurde behoben.
 [*]Unstimmigkeiten im Code der Kollisionsprüfung wurden behoben, vor allem im Zusammenhang mit Bots und Geschossen.
 [*]Ein Fehler wurde behoben, der manchmal die Verwendung Zusatzausrüstung auf dem Controller verhinderte.
