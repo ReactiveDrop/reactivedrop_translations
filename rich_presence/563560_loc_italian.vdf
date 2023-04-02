@@ -112,5 +112,9 @@
 		"#official_mission_rd-bonus_mission5"	"Posti Ostili + Contatto Ravvicinato"
 		"#official_mission_rd-bonus_mission6"	"Alta Tensione + Punto Cruciale"
 		"#official_mission_rd-bonus_mission7"	"Centrale Elettrica"
+		"#official_mission_rd-bonus10_sewrev"	"Reversed Sewer Junction B5"
+		"#official_mission_rd-bonus12_rydrev"	"Reversed Rydberg Reactor"
+		"#official_mission_rd-bonus14_cargrev"	"Reversed Cargo Elevator"
+		"#official_mission_rd-bonus15_landrev"	"Reversed Landing Bay"
 	}
 }
