@@ -101,6 +101,8 @@ Ecco alcuni momenti salienti dagli aggiornamenti precedenti allo scorso annivers
 [*][b]BioGen Corporation: Minaccia Invisibile:[/b] Aumentato il tempo limite della speed run da 1:13 a 1:20.
 [*][b]Bunker:[/b] Rimossa la collisione con una trave invisibile sul soffitto.
 [*][b]Baia d'Atterraggio + Ascensore da Carico:[/b] Corretto un soft lock causato dal completamento degli obiettivi fuori ordine.
+		[*]Added an official bonus mission based on Accident 32.
+		[*]Added four new official bonus missions based on Jacob's Rest.
 [*][b]Accademia Militare IAF:[/b] Aggiunta una nuova missione infinita ufficiale.
 [*]Tutte le missioni ufficiali sono state dotate di schermate di caricamento personalizzate.
 [/list]
@@ -108,23 +110,26 @@ Ecco alcuni momenti salienti dagli aggiornamenti precedenti allo scorso annivers
 [h2]Armi[/h2]
 [list]
 [*][b]Mina Laser a Pressione ML30:[/b] Miglioramento della previsione della rete per l'animazione del lancio.
-[*][b]Armatura Tattica PesanteL3A:[/b] Questo equipaggiamento ora cambia l'aspetto dei soldati che lo indossano.
+[*][b]Armatura Tattica Pesante L3A:[/b] Questo equipaggiamento ora cambia l'aspetto dei soldati che lo indossano.
+[*][b]Raffica di Calabroni:[/b] Questo equipaggiamento ora cambia l'aspetto dei soldati che lo indossano.
 [*][b]Granate Congelanti CR-18:[/b] Il gelo ora uccide i buzzer. Inoltre, adesso i soldati possono essere congelati in modalità deathmatch.
-[*][b]Pistola Medica IAF:[/b] Se non si sta mirando a un bersaglio valido, l'arma ora passa all'autoguarigione.
 [*][b]Arma di Difesa Personale K80:[/b] Quest'arma ora mostra un'icona diversa per i caricatori sull'HUD invece di contare ogni caricatore due volte.
 [*][b]Unità Lanciafiamme M868:[/b] Corretto il fatto che i serbatoi di carburante forniscano solo mezza ricarica di munizioni.
 [*][b]Armatura Elettrica Caricata v45:[/b] Questo equipaggiamento ora cambia l'aspetto dei soldati che lo indossano.
+[*][b]Attacco per Torcia Elettrica:[/b] Questo equipaggiamento ora cambia l'aspetto dei soldati che lo indossano.
 [*][b]Accessorio Power Fist IAF:[/b] Questo equipaggiamento ora cambia l'aspetto dei soldati che lo indossano.
 [*][b]Motosega:[/b] Ora i bot usano quest'arma a una distanza più ragionevole.
+[*][b]Bomba Intelligente MTD6:[/b] Questo equipaggiamento ora cambia l'aspetto dei soldati che lo indossano.
 [*][b]Occhiali per la Visione Notturna MNV34:[/b] Questo equipaggiamento ora cambia l'aspetto dei soldati che lo indossano.
-[*][b]Pistola Medica Amplificatrice IAF:[/b] Se non si sta mirando a un bersaglio valido, l'arma ora passa all'autoguarigione.
+		[*][b]IAF Medical Amplifier Gun:[/b] Primary fire now self-targets when aiming with the right stick or holding the crouch key (shift), or when in first or third person, if the target being aimed at is not valid for healing.
 [*][b]Granate a Gas TG-05:[/b] Aggiornato l'aspetto dell'arma per differenziarla meglio dalle armi dello stesso tipo.
-[*][b]SMG Medica IAF:[/b] Se non si sta mirando a un bersaglio valido, l'arma ora passa all'autoguarigione.
+		[*][b]IAF Medical SMG:[/b] Secondary fire now self-targets when aiming with the right stick or holding the crouch key (shift), or when in first or third person, if the target being aimed at is not valid for healing.
 [*][b]Pistola Flechette (nascosta):[/b] Questa pistola ha un nuovo aspetto e ora spara esplosivi appiccicosi a tempo (gli stessi che sparano gli Hunter Combine) anziché razzi a puntamento automatico. Ora spara direttamente sul punto di mira anziché parallelamente al terreno.
 [*][b]Fucile Ricochet (nascosto):[/b] Questo fucile ha un nuovo aspetto e non richiede più di tenere premuto il grilletto secondario per far rimbalzare i colpi. Invece, tenendo premuto il grilletto secondario, l'arma passa a una modalità di fuoco a raffica simile a quella dei fucili a pompa. I proiettili rimbalzanti ora possono colpire il soldato che li ha sparati.
+[*][b]Pacchetto Teletrasporto Sostitutivo (nascosto):[/b] Questo equipaggiamento ora cambia l'aspetto dei soldati che lo indossano.
+[*][b]Jet d'Assalto a Corto Raggio (nascosto):[/b] Questo equipaggiamento ora cambia l'aspetto dei soldati che lo indossano.
 [*]Corretta l'animazione di scansione per le sentinelle che si desincronizza dall'angolo di inattività dell'arma.
 [*]Corrette le incongruenze nel codice di controllo delle collisioni, soprattutto per quanto riguarda i soldati bot e i proiettili.
-[*]Corretto un bug che a volte impediva l'uso di oggetti a mano libera sul controller.
 [*]Le armi a puntamento automatico come il fucile d'assalto prototipo 22A7-Z e l'autogun SynTek S23A ora applicano i loro bonus in prima e terza persona.
 [/list]
 

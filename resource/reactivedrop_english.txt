@@ -3788,6 +3788,15 @@
 // Bonus Mission 7 strings
 "bon7_area9800PP2_debrief"	"Well done, team!"
 
+"bon12_obj_reactor_t"	"Shutdown the reactor"
+"bon12_obj_reactor"		"Gain access to the Reactor Control Room and disable the power"
+"bon12_obj_exit_t"		"Reach the south exit"
+
+"bon14_obj_elevator_t"		"Activate the cargo elevator and ascend"
+"bon14_obj_elevator"		"Our plans of the facility show a large cargo elevator located to the east of your entry point. Use the elevator to ascend to the higher level and then proceed to the Landing Bay."
+"bon14_obj_exit_t"	"Access the Landing Bay"
+"bon14_obj_exit"	"Once your squad has completed the ascent, proceed to the facility exit and move your squad outside."
+
 // Example map strings
 "asw_panel_inactive"	"Panel Inactive"
 
@@ -3909,6 +3918,13 @@
 "rd_mission_loc_rd-bonus_mission7"	"Power Plant"
 "rd_mission_desc_rd-bonus_mission7"	"Bring power online, start the generators and cooling pump."
 "rd_mission_brief_rd-bonus_mission7"	"Get the power on"
+"rd_mission_title_rd-bonus10_sewrev"	"Reversed Sewer Junction B5"
+"rd_mission_title_rd-bonus12_rydrev"	"Reversed Rydberg Reactor"
+"rd_mission_desc_rd-bonus12_rydrev"		"Gain access to the Reactor Control Room and bring the power offline."
+"rd_mission_title_rd-bonus14_cargrev"	"Reversed Cargo Elevator"
+"rd_mission_desc_rd-bonus14_cargrev"	"Proceed up the central Cargo Elevator to the Landing Bay."
+"rd_mission_title_rd-bonus15_landrev"	"Reversed Landing Bay"
+"rd_mission_desc_rd-bonus15_landrev"	"Perform a sweep of the Landing Bay on Vereon XII. IAF Command has ordered retrieval of flight data from an escape pod in one of the bays."
 
 "rd_entrymission_title_rd-area9800"	"Drop Zone"
 "rd_entrymission_brief_rd-area9800"	"Dropship Bloodhound will enter atmosphere at these co-ordinates and proceed to primary objective."

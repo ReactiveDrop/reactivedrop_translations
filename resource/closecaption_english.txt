@@ -4921,6 +4921,8 @@
 "ASW_Boomer.Death_Explode"	"<sfx><I><norepeat:15>[Boomer pops!]"
 "ASW_MortarBug.Spit"	"<sfx><I><norepeat:15>[Mortarbug spits!]"
 "ASW_Harvester.Alert"	"<sfx><I><norepeat:15>[Harvester alerted]"
+"ASW_Mender.BeamHeal"	"<sfx><I><norepeat:15>[Mender starts healing]"
+"ASW_Mender.BeamLeech"	"<sfx><I><norepeat:15>[Mender starts leeching health]"
 "ASW_Queen.Slash"	"<sfx><I><norepeat:15>[Queen attacks!]"
 "ASW_Queen.AttackWave"	"<sfx><I>[Queen screams!]"
 "ASW_Queen.Spit"	"<sfx><I><norepeat:15>[Queen spits!]"

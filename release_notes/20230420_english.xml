@@ -101,6 +101,8 @@ Here are some highlights from updates since the previous anniversary:
 [*][b]BioGen Corporation: Invisible Threat:[/b] Increased speed run time limit from 1:13 to 1:20.
 [*][b]Bunker:[/b] Removed collision from an invisible ceiling beam.
 [*][b]Landing Bay + Cargo Elevator:[/b] Fixed a soft lock caused by completing the objectives out of the intended order.
+[*]Added an official bonus mission based on Accident 32.
+[*]Added four new official bonus missions based on Jacob's Rest.
 [*][b]IAF Marine Academy:[/b] Added a new official Endless mission.
 [*]All official missions have been given custom loading screens.
 [/list]
@@ -109,22 +111,25 @@ Here are some highlights from updates since the previous anniversary:
 [list]
 [*][b]ML30 Laser Trip Mine:[/b] Improved network prediction for throwing animation.
 [*][b]L3A Tactical Heavy Armor:[/b] This equipment now changes the appearance of marines wearing it.
+[*][b]Hornet Barrage:[/b] This equipment now changes the appearance of marines wearing it.
 [*][b]CR-18 Freeze Grenades:[/b] Freezing now kills buzzers, and marines can be frozen in Deathmatch mode.
-[*][b]IAF Medical Gun:[/b] If you are not aiming at a valid target, the gun will now default to self-healing.
 [*][b]K80 Personal Defense Weapon:[/b] This weapon now shows a different icon for magazines on the HUD instead of counting each magazine twice.
 [*][b]M868 Flamer Unit:[/b] Fixed fuel tanks only granting half a reload worth of ammo.
 [*][b]v45 Electric Charged Armor:[/b] This equipment now changes the appearance of marines wearing it.
+[*][b]Flashlight Attachment:[/b] This equipment now changes the appearance of marines wearing it.
 [*][b]IAF Power Fist Attachment:[/b] This equipment now changes the appearance of marines wearing it.
 [*][b]Chainsaw:[/b] Bots now use this weapon from a more reasonable range.
+[*][b]MTD6 Smart Bomb:[/b] This equipment now changes the appearance of marines wearing it.
 [*][b]MNV34 Nightvision Goggles:[/b] This equipment now changes the appearance of marines wearing it.
-[*][b]IAF Medical Amplifier Gun:[/b] If you are not aiming at a valid target, the gun will now default to self-healing.
+[*][b]IAF Medical Amplifier Gun:[/b] Primary fire now self-targets when aiming with the right stick or holding the crouch key (shift), or when in first or third person, if the target being aimed at is not valid for healing.
 [*][b]TG-05 Gas Grenades:[/b] Updated the item's appearance to help differentiate it from other types of grenades.
-[*][b]IAF Medical SMG:[/b] If you are not aiming at a valid target, the gun will now default to self-healing.
+[*][b]IAF Medical SMG:[/b] Secondary fire now self-targets when aiming with the right stick or holding the crouch key (shift), or when in first or third person, if the target being aimed at is not valid for healing.
 [*][b]Flechette Gun (hidden):[/b] This gun has a new appearance and now fires timed sticky explosives (the same ones Combine Hunters fire) rather than auto-aimed rockets. Now fires directly at the aim location rather than parallel to the ground.
 [*][b]Ricochet Rifle (hidden):[/b] This gun has a new appearance and no longer requires the secondary trigger to be held to bounce shots. Instead, holding the secondary trigger switches the gun to a shotgun-like burst fire mode. Bounced bullets can now hit the marine that fired them.
+[*][b]Displacement 'Blink' Pack (hidden):[/b] This equipment now changes the appearance of marines wearing it.
+[*][b]Short Range Assault Jets (hidden):[/b] This equipment now changes the appearance of marines wearing it.
 [*]Fixed the scanning animation for sentries desynchronizing from the gun's idle angle.
 [*]Fixed inconsistencies in collision-checking code, most notably related to bot marines and projectiles.
-[*]Fixed a bug sometimes preventing the use of off-hand items on controller.
 [*]Auto-aim weapons such as the 22A7-Z Prototype Assault Rifle and the S23A SynTek Autogun now apply their bonuses in first and third person.
 [/list]
 
