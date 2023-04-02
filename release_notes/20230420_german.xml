@@ -101,6 +101,8 @@ Hier sind einige Highlights der Updates seit dem letzten Jahrestag:
 [*][b]BioGen Gesellschaft: Unsichtbare Bedrohung:[/b] Das Zeitlimit für den Speedrun wurde von 1:13 auf 1:20 erhöht.
 [*][b]Bunker:[/b] Die Kollision mit einem unsichtbaren Deckenbalken wurde entfernt.
 [*][b]Landungsbucht + Lastenaufzug:[/b] Ein Softlock wurde behoben, der durch das Abschließen der Ziele außerhalb der vorgesehenen Reihenfolge verursacht wurde.
+		[*]Added an official bonus mission based on Accident 32.
+		[*]Added four new official bonus missions based on Jacob's Rest.
 [*][b]IAF Akademie:[/b] Es wurde ein neuer offizieller Endloseinsatz hinzugefügt.
 [*]Alle offiziellen Einsätze haben eigene Ladebildschirme erhalten.
 [/list]
@@ -111,7 +113,6 @@ Hier sind einige Highlights der Updates seit dem letzten Jahrestag:
 [*][b]L3A Taktische Schwere Rüstung:[/b] Diese Ausrüstung verändert jetzt das Aussehen seines Trägers.
 [*][b]Raketen-Sperrfeuer:[/b] Diese Ausrüstung verändert jetzt das Aussehen seines Trägers.
 [*][b]CR-18 Frostgranaten:[/b] Einfrieren tötet jetzt Schnarren. Und Soldaten können im Deathmatch-Modus eingefroren werden.
-[*][b]IAF Mobile Heileinheit:[/b] Wenn du nicht auf ein gültiges Ziel schießt, schaltet die Waffe jetzt auf Selbstheilung um.
 [*][b]K80 Persönliche Defensivwaffe:[/b] Diese Waffe zeigt jetzt ein anderes Symbol für Magazine auf dem HUD an, anstatt jedes Magazin doppelt zu zählen.
 [*][b]M868 Flammenwerfer:[/b] Treibstofftanks, die nur eine halbe Nachladung an Munition liefern wurden behoben.
 [*][b]v45 Elektrisch geladene Rüstung:[/b] Diese Ausrüstung verändert jetzt das Aussehen seines Trägers.
@@ -120,16 +121,15 @@ Hier sind einige Highlights der Updates seit dem letzten Jahrestag:
 [*][b]Kettensäge:[/b] Bots benutzen diese Waffe jetzt aus einer angemesseneren Reichweite.
 [*][b]MTD6 Lenkbomben:[/b] Diese Ausrüstung verändert jetzt das Aussehen seines Trägers.
 [*][b]MNV34 Nachtsichtgerät:[/b] Diese Ausrüstung verändert jetzt das Aussehen seines Trägers.
-[*][b]IAF Mobile Amp-Heileinheit:[/b] Wenn du nicht auf ein gültiges Ziel schießt, schaltet die Waffe jetzt auf Selbstheilung um.
+		[*][b]IAF Medical Amplifier Gun:[/b] Primary fire now self-targets when aiming with the right stick or holding the crouch key (shift), or when in first or third person, if the target being aimed at is not valid for healing.
 [*][b]TG-05 Gasgranaten:[/b] Das Aussehen des Gegenstandes wurde aktualisiert, um ihn von anderen Granaten zu unterscheiden.
-[*][b]IAF Sanitäter SMG:[/b] Wenn du nicht auf ein gültiges Ziel schießt, schaltet die Waffe jetzt auf Selbstheilung um.
+		[*][b]IAF Medical SMG:[/b] Secondary fire now self-targets when aiming with the right stick or holding the crouch key (shift), or when in first or third person, if the target being aimed at is not valid for healing.
 [*][b]Flechette-Gewehr (versteckt):[/b] Dieses Gewehr hat ein neues Aussehen und verschießt jetzt zeitgesteuerte klebrige Sprengsätze (die gleichen, die Combine Jäger abfeuern) anstelle von Raketen mit automatischer Zielvorrichtung. Schießt jetzt direkt auf den Zielpunkt und nicht mehr parallel zum Boden.
 [*][b]Querschläger-Gewehr (versteckt):[/b] Diese Waffe hat ein neues Aussehen und erfordert nicht mehr, dass der sekundäre Abzug gehalten wird, um Schüsse abprallen zu lassen. Stattdessen, wenn man den zweiten Abzug gedrückt hält, schaltet die Waffe in einen schrotflintenähnlichen Modus um. Abprallende Kugeln können jetzt den Soldaten treffen, der sie abgefeuert hat.
 [*][b]Versetzungs- 'Flimmer' Paket (versteckt):[/b] Diese Ausrüstung verändert jetzt das Aussehen seines Trägers.
 [*][b]Raketenrucksack mit geringer Reichweite (versteckt):[/b] Diese Ausrüstung verändert jetzt das Aussehen seines Trägers.
 [*]Die Scan-Animation für Wächter, die aus dem Ruhewinkel des Geschützes ausscheren, wurde behoben.
 [*]Unstimmigkeiten im Code der Kollisionsprüfung wurden behoben, vor allem im Zusammenhang mit Bots und Geschossen.
-[*]Ein Fehler wurde behoben, der manchmal die Verwendung Zusatzausrüstung auf dem Controller verhinderte.
 [*]Waffen mit Zielhilfe wie das 22A7-Z Prototyp-Gewehr und die S23A SynTek Autogun wenden ihre Boni jetzt in der ersten und dritten Person an.
 [/list]
 

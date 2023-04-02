@@ -101,6 +101,8 @@
 		[*][b]BioGen Corporation: Invisible Threat:[/b] Increased speed run time limit from 1:13 to 1:20.
 [*][b]燃料库：[/b] 移除了 无形天花板横梁的碰撞。
 		[*][b]Landing Bay + Cargo Elevator:[/b] Fixed a soft lock caused by completing the objectives out of the intended order.
+		[*]Added an official bonus mission based on Accident 32.
+		[*]Added four new official bonus missions based on Jacob's Rest.
 		[*][b]IAF Marine Academy:[/b] Added a new official Endless mission.
 		[*]All official missions have been given custom loading screens.
 [/list]
@@ -111,7 +113,6 @@
 		[*][b]L3A Tactical Heavy Armor:[/b] This equipment now changes the appearance of marines wearing it.
 		[*][b]Hornet Barrage:[/b] This equipment now changes the appearance of marines wearing it.
 		[*][b]CR-18 Freeze Grenades:[/b] Freezing now kills buzzers, and marines can be frozen in Deathmatch mode.
-		[*][b]IAF Medical Gun:[/b] If you are not aiming at a valid target, the gun will now default to self-healing.
 		[*][b]K80 Personal Defense Weapon:[/b] This weapon now shows a different icon for magazines on the HUD instead of counting each magazine twice.
 [*][b]M868火焰装置：[/b] 修复了 燃料箱只提供一半的弹药装填的问题。
 		[*][b]v45 Electric Charged Armor:[/b] This equipment now changes the appearance of marines wearing it.
@@ -120,16 +121,15 @@
 [*][b]链锯：[/b] 机器人现在在更合理的范围内使用这种武器。
 		[*][b]MTD6 Smart Bomb:[/b] This equipment now changes the appearance of marines wearing it.
 		[*][b]MNV34 Nightvision Goggles:[/b] This equipment now changes the appearance of marines wearing it.
-		[*][b]IAF Medical Amplifier Gun:[/b] If you are not aiming at a valid target, the gun will now default to self-healing.
+		[*][b]IAF Medical Amplifier Gun:[/b] Primary fire now self-targets when aiming with the right stick or holding the crouch key (shift), or when in first or third person, if the target being aimed at is not valid for healing.
 [*][b]TG-05 毒气手雷：[/b] 更新了物品的外观，以帮助区分它与其他类型的手榴弹。
-		[*][b]IAF Medical SMG:[/b] If you are not aiming at a valid target, the gun will now default to self-healing.
+		[*][b]IAF Medical SMG:[/b] Secondary fire now self-targets when aiming with the right stick or holding the crouch key (shift), or when in first or third person, if the target being aimed at is not valid for healing.
 		[*][b]Flechette Gun (hidden):[/b] This gun has a new appearance and now fires timed sticky explosives (the same ones Combine Hunters fire) rather than auto-aimed rockets. Now fires directly at the aim location rather than parallel to the ground.
 		[*][b]Ricochet Rifle (hidden):[/b] This gun has a new appearance and no longer requires the secondary trigger to be held to bounce shots. Instead, holding the secondary trigger switches the gun to a shotgun-like burst fire mode. Bounced bullets can now hit the marine that fired them.
 		[*][b]Displacement 'Blink' Pack (hidden):[/b] This equipment now changes the appearance of marines wearing it.
 		[*][b]Short Range Assault Jets (hidden):[/b] This equipment now changes the appearance of marines wearing it.
 [*]修复了 哨兵塔在空闲时，角度不同步的扫描动画问题。
 [*]修复了 碰撞检查代码中的不一致，最明显的是与机器人陆战队和投射物有关。
-		[*]Fixed a bug sometimes preventing the use of off-hand items on controller.
 		[*]Auto-aim weapons such as the 22A7-Z Prototype Assault Rifle and the S23A SynTek Autogun now apply their bonuses in first and third person.
 [/list]
 
