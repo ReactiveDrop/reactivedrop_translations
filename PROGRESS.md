@@ -18,7 +18,7 @@
 | [European Portuguese](#portuguese-português-europeu) | ✔️ | 171 | ✔️ | 1568 | 23 | 388 | 286 | 140 |
 | [Brazilian Portuguese](#brazilian-português) | ✔️ | 2004 | ✔️ | 624 | 5 | 17 | 129 | 5 |
 | [Romanian](#non-curated-languages) | 49 | 1996 | 16 | 3103 | 196 | 725 | 327 | 148 |
-| [Russian](#russian-русский) | ✔️ | 3 | ✔️ | 14 | 2 | ✔️ | ✔️ | 2 |
+| [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 1 |
 | [European Spanish](#spanish-español-de-españa) | 26 | 2004 | 8 | 1782 | 196 | 464 | 277 | 147 |
 | [Latin American Spanish](#latam-español-latinoamericano) | 1279 | 2004 | 605 | 3917 | 200 | 730 | 363 | 148 |
 | [Swedish](#non-curated-languages) | 49 | 2004 | 10 | 2378 | 196 | 460 | 281 | 148 |
@@ -1879,16 +1879,6 @@
 ## russian (русский)
 
 </summary>
-
-### Strings
-
-- [statsweb_russian.vdf](community/stats_website/statsweb_russian.vdf) has 2 untranslated strings.
-- [closecaption_russian.txt](resource/closecaption_russian.txt) has 3 untranslated strings.
-- [reactivedrop_russian.txt](resource/reactivedrop_russian.txt) has 14 untranslated strings.
-
-### Upcoming Release Notes
-
-- [20230420_russian.xml](release_notes/20230420_russian.xml) has 13 indented lines.
 
 ### Credits
 
