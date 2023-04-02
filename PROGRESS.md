@@ -8,10 +8,10 @@
 | [Dutch](#non-curated-languages) | 49 | 2004 | 10 | 2378 | 196 | 460 | 281 | 147 |
 | [Finnish](#non-curated-languages) | 49 | 2004 | 10 | 2378 | 196 | 460 | 281 | 147 |
 | [French](#french-français) | 25 | 129 | 10 | 1730 | 196 | 394 | 267 | 126 |
-| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | 14 | ✔️ | ✔️ | ✔️ | ✔️ |
+| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | 14 | ✔️ | ✔️ | ✔️ | 1 |
 | [Hungarian](#non-curated-languages) | 49 | 129 | 10 | 2378 | 196 | 725 | 281 | 148 |
-| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | 14 | ✔️ | ✔️ | ✔️ | ✔️ |
-| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | 12 | ✔️ | 35 | ✔️ | ✔️ |
+| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | 14 | ✔️ | ✔️ | ✔️ | 1 |
+| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | 12 | ✔️ | 35 | ✔️ | 1 |
 | [Korean](#koreana-한국어) | 47 | 66 | 6 | 1243 | 48 | 288 | 267 | 53 |
 | [Norwegian Bokmål](#non-curated-languages) | 67 | 704 | 15 | 3098 | 196 | 460 | 350 | 148 |
 | [Polish](#polish-polski) | 26 | 2004 | 10 | 2378 | 196 | 460 | 281 | 148 |
@@ -983,6 +983,10 @@
 
 - [reactivedrop_german.txt](resource/reactivedrop_german.txt) has 14 untranslated strings.
 
+### Upcoming Release Notes
+
+- [20230420_german.xml](release_notes/20230420_german.xml) has 4 indented lines.
+
 </details>
 
 <details><summary>
@@ -994,6 +998,10 @@
 ### Strings
 
 - [reactivedrop_italian.txt](resource/reactivedrop_italian.txt) has 14 untranslated strings.
+
+### Upcoming Release Notes
+
+- [20230420_italian.xml](release_notes/20230420_italian.xml) has 4 indented lines.
 
 </details>
 
@@ -1007,6 +1015,10 @@
 
 - [vgui_japanese.txt](platform/vgui_japanese.txt) has 35 untranslated strings.
 - [reactivedrop_japanese.txt](resource/reactivedrop_japanese.txt) has 12 untranslated strings.
+
+### Upcoming Release Notes
+
+- [20230420_japanese.xml](release_notes/20230420_japanese.xml) has 4 indented lines.
 
 </details>
 
@@ -1876,7 +1888,7 @@
 
 ### Upcoming Release Notes
 
-- [20230420_russian.xml](release_notes/20230420_russian.xml) has 12 indented lines.
+- [20230420_russian.xml](release_notes/20230420_russian.xml) has 13 indented lines.
 
 ### Credits
 
