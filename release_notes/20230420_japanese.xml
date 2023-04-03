@@ -101,8 +101,8 @@
 [*][b]BioGen Corporation: Invisible Threat:[/b] スピードランの時間制限を1:13から1:20に延長。
 [*][b]Bunker:[/b] 天井の見えない梁の衝突判定を削除。
 [*][b]Landing BayとCargo Elevator:[/b] 想定外の順番で目標を達成することで進行不能になるのを修正。
-		[*]Added an official bonus mission based on Accident 32.
-		[*]Added four new official bonus missions based on Jacob's Rest.
+[*]Accident 32を基にした公式ボーナスミッションを1つ追加。
+[*]Jacob's Restを基にした公式ボーナスミッションを更に4つ追加。
 [*][b]IAF Marine Academy:[/b] 公式エンドレスミッションを追加。
 [*]全ての公式ミッションにカスタムロード画面を追加。
 [/list]
@@ -121,9 +121,9 @@
 [*][b]チェーンソー:[/b] BOTがより適切な距離で使うようになった。
 [*][b]MTD6 スマートボム:[/b] 装着している海兵隊の外見に影響するようになった。
 [*][b]MNV34 暗視ゴーグル:[/b] 装着している海兵隊の外見に影響するようになった。
-		[*][b]IAF Medical Amplifier Gun:[/b] Primary fire now self-targets when aiming with the right stick or holding the crouch key (shift), or when in first or third person, if the target being aimed at is not valid for healing.
+[*][b]IAF メディカルアンプガン:[/b] コントローラー右スティックでのエイム中かShiftキー長押しでしゃがんでいる最中か一人称や三人称視点モードの場合には、治療ビームは治療可能な対象を狙っていない場合自分を回復するようになった。
 [*][b]TG-05 ガスグレネード:[/b] 他のグレネード類と見分け易くなるようにアイテムの見た目を更新。
-		[*][b]IAF Medical SMG:[/b] Secondary fire now self-targets when aiming with the right stick or holding the crouch key (shift), or when in first or third person, if the target being aimed at is not valid for healing.
+[*][b]IAF メディカルサブマシンガン:[/b] コントローラー右スティックでのエイム中かShiftキー長押しでしゃがんでいる最中か一人称や三人称視点モードの場合には、治療ビームは治療可能な対象を狙っていない場合自分を回復するようになった。
 [*][b]フレシェットランチャー (シークレット武器):[/b] 外見が新しくなり、自動追跡ロケット弾ではなく時限式粘着爆弾を発射するようになった。(コンバインのハンターが使用する物と同じ) それに伴い地面と平行ではなく狙った場所に向けて射撃するようになった。
 [*][b]リコシェットライフル (シークレット武器):[/b] 外見が新しくなり、跳弾を発射するのに特殊攻撃ボタンを押したままにする必要は無くなった。代わりに、特殊攻撃ボタンを長押しすることでショットガンの様なバースト射撃モードへの切り替えが可能になった。跳弾は発射した隊員自身にも当たるようになった。
 [*][b]短距離強襲ジェット (シークレット武器):[/b] 装着している海兵隊の外見に影響するようになった。
