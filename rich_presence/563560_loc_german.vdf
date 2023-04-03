@@ -112,9 +112,9 @@
 		"#official_mission_rd-bonus_mission5"	"Feindliche Orte + Enger Kontakt"
 		"#official_mission_rd-bonus_mission6"	"Hochspannung + Entscheidender Punkt"
 		"#official_mission_rd-bonus_mission7"	"Kraftwerk"
-		"#official_mission_rd-bonus10_sewrev"	"Reversed Sewer Junction B5"
-		"#official_mission_rd-bonus12_rydrev"	"Reversed Rydberg Reactor"
-		"#official_mission_rd-bonus14_cargrev"	"Reversed Cargo Elevator"
-		"#official_mission_rd-bonus15_landrev"	"Reversed Landing Bay"
+		"#official_mission_rd-bonus10_sewrev"	"Abwasseranlage Umgekehrt"
+		"#official_mission_rd-bonus12_rydrev"	"Rydberg Reaktor Umgekehrt"
+		"#official_mission_rd-bonus14_cargrev"	"Lastenaufzug Umgekehrt"
+		"#official_mission_rd-bonus15_landrev"	"Landungsbucht Umgekehrt"
 	}
 }
