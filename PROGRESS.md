@@ -8,17 +8,17 @@
 | [Dutch](#non-curated-languages) | 49 | 2004 | 10 | 2378 | 196 | 460 | 281 | 147 |
 | [Finnish](#non-curated-languages) | 49 | 2004 | 10 | 2378 | 196 | 460 | 281 | 147 |
 | [French](#french-français) | 25 | 129 | 10 | 1730 | 196 | 394 | 267 | 126 |
-| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | 14 | ✔️ | ✔️ | ✔️ | ✔️ |
+| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | 14 | ✔️ | ✔️ | ✔️ | 1 |
 | [Hungarian](#non-curated-languages) | 49 | 129 | 10 | 2378 | 196 | 725 | 281 | 148 |
-| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | 14 | ✔️ | ✔️ | ✔️ | ✔️ |
-| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | 12 | ✔️ | 35 | ✔️ | ✔️ |
+| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
+| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | 12 | ✔️ | 35 | ✔️ | 1 |
 | [Korean](#koreana-한국어) | 47 | 66 | 6 | 1243 | 48 | 288 | 267 | 53 |
 | [Norwegian Bokmål](#non-curated-languages) | 67 | 704 | 15 | 3098 | 196 | 460 | 350 | 148 |
 | [Polish](#polish-polski) | 26 | 2004 | 10 | 2378 | 196 | 460 | 281 | 148 |
 | [European Portuguese](#portuguese-português-europeu) | ✔️ | 171 | ✔️ | 1568 | 23 | 388 | 286 | 140 |
 | [Brazilian Portuguese](#brazilian-português) | ✔️ | 2004 | ✔️ | 624 | 5 | 17 | 129 | 5 |
 | [Romanian](#non-curated-languages) | 49 | 1996 | 16 | 3103 | 196 | 725 | 327 | 148 |
-| [Russian](#russian-русский) | ✔️ | 3 | ✔️ | 14 | 2 | ✔️ | ✔️ | 2 |
+| [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 1 |
 | [European Spanish](#spanish-español-de-españa) | 26 | 2004 | 8 | 1782 | 196 | 464 | 277 | 147 |
 | [Latin American Spanish](#latam-español-latinoamericano) | 1279 | 2004 | 605 | 3917 | 200 | 730 | 363 | 148 |
 | [Swedish](#non-curated-languages) | 49 | 2004 | 10 | 2378 | 196 | 460 | 281 | 148 |
@@ -983,6 +983,10 @@
 
 - [reactivedrop_german.txt](resource/reactivedrop_german.txt) has 14 untranslated strings.
 
+### Upcoming Release Notes
+
+- [20230420_german.xml](release_notes/20230420_german.xml) has 4 indented lines.
+
 </details>
 
 <details><summary>
@@ -991,9 +995,7 @@
 
 </summary>
 
-### Strings
-
-- [reactivedrop_italian.txt](resource/reactivedrop_italian.txt) has 14 untranslated strings.
+✓ Up to date!
 
 </details>
 
@@ -1007,6 +1009,10 @@
 
 - [vgui_japanese.txt](platform/vgui_japanese.txt) has 35 untranslated strings.
 - [reactivedrop_japanese.txt](resource/reactivedrop_japanese.txt) has 12 untranslated strings.
+
+### Upcoming Release Notes
+
+- [20230420_japanese.xml](release_notes/20230420_japanese.xml) has 4 indented lines.
 
 </details>
 
@@ -1867,16 +1873,6 @@
 ## russian (русский)
 
 </summary>
-
-### Strings
-
-- [statsweb_russian.vdf](community/stats_website/statsweb_russian.vdf) has 2 untranslated strings.
-- [closecaption_russian.txt](resource/closecaption_russian.txt) has 3 untranslated strings.
-- [reactivedrop_russian.txt](resource/reactivedrop_russian.txt) has 14 untranslated strings.
-
-### Upcoming Release Notes
-
-- [20230420_russian.xml](release_notes/20230420_russian.xml) has 12 indented lines.
 
 ### Credits
 
