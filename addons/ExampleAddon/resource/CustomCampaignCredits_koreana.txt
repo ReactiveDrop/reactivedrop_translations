@@ -1,0 +1,18 @@
+﻿"Credits"
+{
+// these keys must be in this order!
+"show_credits_logo"	"1"
+"custom_logo"	"ExampleCustomLogo/example_custom_logo"
+"asw_credits_"	"당신의 이름을 여기에 쓰세요"
+"asw_credits_"	""
+"asw_credits_"	"이 크레딧은 아래 경로에 있습니다"
+"asw_credits_"	"addons/ExampleAddon/resource/CustomCampaignCredits.txt"
+"asw_credits_"	""
+"asw_credits_"	""
+"asw_credits_"	"사용자가 직접 콘텐츠를 만들고"
+"asw_credits_"	"배포하는 방법에 대한 자세한 정보"
+"asw_credits_"	"에일리언 스웜은"
+"asw_credits_"	"벨브 개발자 위키의 에일리언 스웜에서"
+"asw_credits_"	"확인하실 수 있습니다"
+"asw_credits_"	"http://developer.valvesoftware.com/"
+}
