@@ -1227,7 +1227,7 @@
 "[english]L4D360UI_Cloud_Option"		"Keep this PC in sync with the Steam Cloud"
 "L4D360UI_Cloud_Options_access"		"옵션에서 이 설정에 다시 액세스할 수 있습니다."
 "[english]L4D360UI_Cloud_Options_access"		"You can access this setting again under Options."
-"L4D360UI_Cloud_Uses_Cloud"		"이 설정은 Steam 클라우드에 저장됩니다."추가 기능 지원 데이터 다운로드
+"L4D360UI_Cloud_Uses_Cloud"		"이 설정은 Steam 클라우드에 저장됩니다."
 "[english]L4D360UI_Cloud_Uses_Cloud"		"These settings live in the Steam Cloud"
 "L4D360UI_SteamOverlay_Title"		"게임 내 Steam 커뮤니티"
 "[english]L4D360UI_SteamOverlay_Title"		"Steam Community In-Game"
