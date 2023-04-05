@@ -12,7 +12,7 @@
 | [Hungarian](#non-curated-languages) | 49 | 129 | 10 | 2378 | 196 | 725 | 281 | 148 |
 | [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | 12 | ✔️ | 35 | ✔️ | ✔️ |
-| [Korean](#koreana-한국어) | 47 | 66 | 6 | 1243 | 48 | 288 | 267 | 53 |
+| [Korean](#koreana-한국어) | 5 | 1 | 6 | 1039 | 18 | 178 | 267 | 49 |
 | [Norwegian Bokmål](#non-curated-languages) | 67 | 704 | 15 | 3098 | 196 | 460 | 350 | 148 |
 | [Polish](#polish-polski) | 26 | 2004 | 10 | 2378 | 196 | 460 | 281 | 148 |
 | [European Portuguese](#portuguese-português-europeu) | ✔️ | 171 | ✔️ | 1568 | 23 | 388 | 286 | 140 |
@@ -1014,21 +1014,16 @@
 
 ### Strings
 
-- [reactivedrop_koreana.txt](addons/ExampleAddon/resource/reactivedrop_koreana.txt) has 39 untranslated strings.
-- [inventory_service_tags_koreana.vdf](community/inventory_service/inventory_service_tags_koreana.vdf) has 23 untranslated strings.
-- [statsweb_koreana.vdf](community/stats_website/statsweb_koreana.vdf) has 48 untranslated strings.
-- [steam_input_koreana.vdf](community/steam_input/steam_input_koreana.vdf) has 19 untranslated strings.
-- [serverbrowser_koreana.txt](platform/servers/serverbrowser_koreana.txt) has 24 untranslated strings.
-- [vgui_koreana.txt](platform/vgui_koreana.txt) has 93 untranslated strings.
-- [basemodui_koreana.txt](resource/basemodui_koreana.txt) has 47 untranslated strings.
-- [closecaption_koreana.txt](resource/closecaption_koreana.txt) has 66 untranslated strings.
+- [statsweb_koreana.vdf](community/stats_website/statsweb_koreana.vdf) has 18 untranslated strings.
+- [vgui_koreana.txt](platform/vgui_koreana.txt) has 88 untranslated strings.
+- [basemodui_koreana.txt](resource/basemodui_koreana.txt) has 5 untranslated strings.
+- [closecaption_koreana.txt](resource/closecaption_koreana.txt) has 1 untranslated strings.
 - [gameui_koreana.txt](resource/gameui_koreana.txt) has 6 untranslated strings.
-- [reactivedrop_koreana.txt](resource/reactivedrop_koreana.txt) has 1243 untranslated strings.
+- [reactivedrop_koreana.txt](resource/reactivedrop_koreana.txt) has 1039 untranslated strings.
 - [valve_koreana.txt](resource/valve_koreana.txt) has 90 untranslated strings.
 
 ### Steam Store and Community
 
-- [eula_koreana.txt](community/eula/eula_english.txt) is missing.
 - [mappingcontest2023_koreana.txt](community/workshop/mappingcontest2023_english.txt) is missing.
 - [workshop_description_koreana.txt](community/workshop/workshop_description_english.txt) is missing.
 - [workshop_tags_koreana.json](community/workshop/workshop_tags_english.json) is missing.
@@ -1042,7 +1037,6 @@
 
 ### Credits
 
-- [CustomCampaignCredits_koreana.txt](addons/ExampleAddon/resource/CustomCampaignCredits_english.txt) is missing.
 - [asw_credits_koreana.txt](credits/asw_credits_english.txt) is missing.
 - [biogen_corporation_credits_koreana.txt](credits/biogen_corporation_credits_english.txt) is missing.
 - [credits_acc32_official_koreana.txt](credits/credits_acc32_official_english.txt) is missing.
@@ -1088,8 +1082,6 @@
 - [ma_pda2_koreana.txt](resource/mail/ma_pda2_english.txt) is missing.
 - [nukeangermail_koreana.txt](resource/mail/nukeangermail_english.txt) is missing.
 - [officemail4_koreana.txt](resource/mail/officemail4_koreana.txt) has 1 indented lines.
-- [nh_news_announcement_koreana.txt](resource/news/nh_news_announcement_english.txt) is missing.
-- [nh_news_prospectus_koreana.txt](resource/news/nh_news_prospectus_english.txt) is missing.
 
 ### Inventory Schema</summary>
 
