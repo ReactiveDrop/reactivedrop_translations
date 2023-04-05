@@ -11,5 +11,5 @@
 //"Paragraph3"	"As a result, Hanger 4 will be closed for repairs for the next few days. Coupled with the refurbishment work in Terminal 5 and Hangers 7 and 8, expect to see severe delays and cancellations for the next few weeks."
 "Paragraph3"	"이에 따라, 4번 항로는 수리를 위해 며칠간 폐쇄되며, 5번 터미널과 7, 8번 항로의 정비 작업도 함께 진행될 것이라 밝혔으며 몇 주간 심각한 지연과 취소가 발생할 것이라 밝혔습니다."
 //"Paragraph4"	"[Excerpt from the news journal 'The Morning Star', sponsored by Oasis colony administration. Insert credit chip for full access to all articles]"
-"Paragraph4"	"[오아시스 식민지 행정부가 후원하는 뉴스 저널 '더 모닝 스타'에서 발췌. 모든 기사에 접근이 가능한 칩 삽입 ]"
+"Paragraph4"	"[오아시스 식민지 행정부가 후원하는 뉴스 저널 '더 모닝 스타'에서 발췌. 모든 기사에 접근이 가능한 칩 삽입]"
 }
