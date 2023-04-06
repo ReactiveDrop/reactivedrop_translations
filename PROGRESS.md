@@ -12,7 +12,7 @@
 | [Hungarian](#non-curated-languages) | 49 | 129 | 10 | 2378 | 196 | 725 | 281 | 148 |
 | [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | 12 | ✔️ | 35 | ✔️ | ✔️ |
-| [Korean](#koreana-한국어) | 5 | 1 | 6 | 1039 | 18 | 178 | 267 | 49 |
+| [Korean](#koreana-한국어) | 5 | 1 | 6 | 861 | 18 | 178 | 267 | 49 |
 | [Norwegian Bokmål](#non-curated-languages) | 67 | 704 | 15 | 3098 | 196 | 460 | 350 | 148 |
 | [Polish](#polish-polski) | 26 | 2004 | 10 | 2378 | 196 | 460 | 281 | 148 |
 | [European Portuguese](#portuguese-português-europeu) | ✔️ | 171 | ✔️ | 1568 | 23 | 388 | 286 | 140 |
@@ -1019,7 +1019,7 @@
 - [basemodui_koreana.txt](resource/basemodui_koreana.txt) has 5 untranslated strings.
 - [closecaption_koreana.txt](resource/closecaption_koreana.txt) has 1 untranslated strings.
 - [gameui_koreana.txt](resource/gameui_koreana.txt) has 6 untranslated strings.
-- [reactivedrop_koreana.txt](resource/reactivedrop_koreana.txt) has 1039 untranslated strings.
+- [reactivedrop_koreana.txt](resource/reactivedrop_koreana.txt) has 861 untranslated strings.
 - [valve_koreana.txt](resource/valve_koreana.txt) has 90 untranslated strings.
 
 ### Steam Store and Community
