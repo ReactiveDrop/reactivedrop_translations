@@ -24,7 +24,7 @@
 | [Swedish](#non-curated-languages) | 49 | 2004 | 10 | 2378 | 196 | 460 | 281 | 148 |
 | [Thai](#non-curated-languages) | 964 | 1993 | 18 | 3653 | 196 | 489 | 360 | 148 |
 | [Turkish](#non-curated-languages) | 49 | 128 | 10 | 2378 | 196 | 725 | 281 | 148 |
-| [Ukrainian](#ukrainian-українська) | 25 | 122 | 9 | 1910 | 196 | 725 | 274 | 148 |
+| [Ukrainian](#ukrainian-українська) | 25 | 122 | 8 | 1910 | 196 | 717 | 274 | 147 |
 | [Vietnamese](#vietnamese-tiếng-việt) | 1279 | 2004 | 605 | 3917 | 196 | 676 | 363 | 135 |
 ### Legend
 - ***Non-capitalized column headers*** are the most important specific files and their number of missing strings. All of these txt-files are located in the resources folder. Except statsweb, which lies in community/stats_website, it's an vdf-file.
@@ -2449,9 +2449,8 @@
 - [serverbrowser_ukrainian.txt](platform/servers/serverbrowser_ukrainian.txt) has 186 untranslated strings.
 - [vgui_ukrainian.txt](platform/vgui_ukrainian.txt) has 184 untranslated strings.
 - [basemodui_ukrainian.txt](resource/basemodui_ukrainian.txt) has 25 untranslated strings.
-- [chat_ukrainian.txt](resource/chat_ukrainian.txt) has 8 untranslated strings.
 - [closecaption_ukrainian.txt](resource/closecaption_ukrainian.txt) has 122 untranslated strings.
-- [gameui_ukrainian.txt](resource/gameui_ukrainian.txt) has 9 untranslated strings.
+- [gameui_ukrainian.txt](resource/gameui_ukrainian.txt) has 8 untranslated strings.
 - [reactivedrop_ukrainian.txt](resource/reactivedrop_ukrainian.txt) has 1910 untranslated strings.
 - [valve_ukrainian.txt](resource/valve_ukrainian.txt) has 266 untranslated strings.
 
@@ -2463,7 +2462,6 @@
 - [workshop_description_ukrainian.txt](community/workshop/workshop_description_english.txt) is missing.
 - [workshop_tags_ukrainian.json](community/workshop/workshop_tags_english.json) is missing.
 - [content_warning_563560_ukrainian.txt](store_page/content_warning_563560_english.txt) is missing.
-- [storepage_81731_ukrainian.json](store_page/storepage_81731_ukrainian.json) has 6 indented lines.
 
 ### Upcoming Release Notes
 
