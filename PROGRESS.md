@@ -1,7 +1,7 @@
 # Overview
 | Language | basemodui | closecaption | gameui | reactivedrop | statsweb | Strings | Inventory | Files |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [Simplified Chinese](#schinese-简体中文) | ✔️ | 5 | ✔️ | 264 | 5 | 17 | 127 | 5 |
+| [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | ✔️ | 57 | ✔️ | ✔️ | 127 | 5 |
 | [Traditional Chinese](#tchinese-繁體中文) | 7 | 131 | 1 | 2259 | 196 | 75 | 279 | 147 |
 | [Czech](#czech-čeština) | 69 | 1807 | 10 | 3402 | 196 | 730 | 349 | 147 |
 | [Danish](#non-curated-languages) | 50 | 222 | 10 | 2923 | 196 | 460 | 344 | 148 |
@@ -42,14 +42,11 @@
 
 ### Strings
 
-- [inventory_service_tags_schinese.vdf](community/inventory_service/inventory_service_tags_schinese.vdf) has 17 untranslated strings.
-- [statsweb_schinese.vdf](community/stats_website/statsweb_schinese.vdf) has 5 untranslated strings.
-- [closecaption_schinese.txt](resource/closecaption_schinese.txt) has 5 untranslated strings.
-- [reactivedrop_schinese.txt](resource/reactivedrop_schinese.txt) has 264 untranslated strings.
+- [reactivedrop_schinese.txt](resource/reactivedrop_schinese.txt) has 57 untranslated strings.
 
 ### Upcoming Release Notes
 
-- [20230420_schinese.xml](release_notes/20230420_schinese.xml) has 106 indented lines.
+- [20230420_schinese.xml](release_notes/20230420_schinese.xml) has 1 indented lines.
 
 ### Credits
 
