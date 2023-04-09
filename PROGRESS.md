@@ -1,31 +1,31 @@
 # Overview
 | Language | basemodui | closecaption | gameui | reactivedrop | statsweb | Strings | Inventory | Files |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | ✔️ | 55 | ✔️ | ✔️ | 127 | 5 |
-| [Traditional Chinese](#tchinese-繁體中文) | 7 | 131 | 1 | 2259 | 196 | 75 | 279 | 147 |
-| [Czech](#czech-čeština) | 69 | 1807 | 10 | 3402 | 196 | 730 | 349 | 147 |
-| [Danish](#non-curated-languages) | 50 | 222 | 10 | 2923 | 196 | 460 | 344 | 148 |
-| [Dutch](#non-curated-languages) | 49 | 2004 | 10 | 2378 | 196 | 460 | 281 | 147 |
-| [Finnish](#non-curated-languages) | 49 | 2004 | 10 | 2378 | 196 | 460 | 281 | 147 |
-| [French](#french-français) | 25 | 129 | 10 | 1730 | 196 | 394 | 267 | 126 |
+| [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | ✔️ | 55 | ✔️ | 1 | 127 | 5 |
+| [Traditional Chinese](#tchinese-繁體中文) | 7 | 131 | 1 | 2259 | 196 | 79 | 279 | 145 |
+| [Czech](#czech-čeština) | 69 | 1807 | 10 | 3402 | 196 | 734 | 349 | 145 |
+| [Danish](#non-curated-languages) | 50 | 222 | 10 | 2923 | 196 | 464 | 344 | 146 |
+| [Dutch](#non-curated-languages) | 49 | 2004 | 10 | 2378 | 196 | 464 | 281 | 145 |
+| [Finnish](#non-curated-languages) | 49 | 2004 | 10 | 2378 | 196 | 464 | 281 | 145 |
+| [French](#french-français) | 25 | 129 | 10 | 1730 | 196 | 398 | 267 | 124 |
 | [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
-| [Hungarian](#non-curated-languages) | 49 | 129 | 10 | 2378 | 196 | 725 | 281 | 148 |
-| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
+| [Hungarian](#non-curated-languages) | 49 | 129 | 10 | 2378 | 196 | 729 | 281 | 146 |
+| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 1 | ✔️ | ✔️ |
 | [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | 12 | ✔️ | 35 | ✔️ | ✔️ |
-| [Korean](#koreana-한국어) | 5 | 1 | 6 | 861 | 18 | 178 | 267 | 49 |
-| [Norwegian Bokmål](#non-curated-languages) | 67 | 704 | 15 | 3098 | 196 | 460 | 350 | 148 |
-| [Polish](#polish-polski) | 26 | 2004 | 10 | 2378 | 196 | 460 | 281 | 148 |
-| [European Portuguese](#portuguese-português-europeu) | ✔️ | 171 | ✔️ | 1568 | 23 | 388 | 286 | 140 |
+| [Korean](#koreana-한국어) | 5 | 1 | 6 | 861 | 18 | 182 | 267 | 47 |
+| [Norwegian Bokmål](#non-curated-languages) | 67 | 704 | 15 | 3098 | 196 | 464 | 350 | 146 |
+| [Polish](#polish-polski) | 26 | 2004 | 10 | 2378 | 196 | 464 | 281 | 146 |
+| [European Portuguese](#portuguese-português-europeu) | ✔️ | 171 | ✔️ | 1568 | 23 | 390 | 286 | 139 |
 | [Brazilian Portuguese](#brazilian-português) | ✔️ | 2004 | ✔️ | 624 | 5 | 17 | 129 | 5 |
-| [Romanian](#non-curated-languages) | 49 | 1996 | 16 | 3103 | 196 | 725 | 327 | 148 |
+| [Romanian](#non-curated-languages) | 49 | 1996 | 16 | 3103 | 196 | 729 | 327 | 146 |
 | [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 1 |
-| [European Spanish](#spanish-español-de-españa) | 26 | 2004 | 8 | 1782 | 196 | 464 | 277 | 147 |
-| [Latin American Spanish](#latam-español-latinoamericano) | 1279 | 2004 | 605 | 3917 | 200 | 730 | 363 | 148 |
-| [Swedish](#non-curated-languages) | 49 | 2004 | 10 | 2378 | 196 | 460 | 281 | 148 |
-| [Thai](#non-curated-languages) | 964 | 1993 | 18 | 3653 | 196 | 489 | 360 | 148 |
-| [Turkish](#non-curated-languages) | 49 | 128 | 10 | 2378 | 196 | 725 | 281 | 148 |
-| [Ukrainian](#ukrainian-українська) | 25 | 122 | 8 | 1910 | 196 | 717 | 274 | 147 |
-| [Vietnamese](#vietnamese-tiếng-việt) | 1279 | 2004 | 605 | 3917 | 196 | 676 | 363 | 135 |
+| [European Spanish](#spanish-español-de-españa) | 26 | 2004 | 8 | 1782 | 196 | 468 | 277 | 145 |
+| [Latin American Spanish](#latam-español-latinoamericano) | 1279 | 2004 | 605 | 3917 | 200 | 734 | 363 | 146 |
+| [Swedish](#non-curated-languages) | 49 | 2004 | 10 | 2378 | 196 | 464 | 281 | 146 |
+| [Thai](#non-curated-languages) | 964 | 1993 | 18 | 3653 | 196 | 493 | 360 | 146 |
+| [Turkish](#non-curated-languages) | 49 | 128 | 10 | 2378 | 196 | 729 | 281 | 146 |
+| [Ukrainian](#ukrainian-українська) | 25 | 122 | 8 | 1910 | 196 | 721 | 274 | 145 |
+| [Vietnamese](#vietnamese-tiếng-việt) | 1279 | 2004 | 605 | 3917 | 196 | 680 | 363 | 133 |
 ### Legend
 - ***Non-capitalized column headers*** are the most important specific files and their number of missing strings. All of these txt-files are located in the resources folder. Except statsweb, which lies in community/stats_website, it's an vdf-file.
 - ***Strings*** is the number of missing strings not included in one of the files which get an individual non-capitalized column.
@@ -42,6 +42,7 @@
 
 ### Strings
 
+- [workshop_description_schinese.vdf](community/workshop/workshop_description_schinese.vdf) has 1 untranslated strings.
 - [reactivedrop_schinese.txt](resource/reactivedrop_schinese.txt) has 55 untranslated strings.
 
 ### Upcoming Release Notes
@@ -150,6 +151,7 @@
 - [inventory_service_tags_tchinese.vdf](community/inventory_service/inventory_service_tags_tchinese.vdf) has 17 untranslated strings.
 - [statsweb_tchinese.vdf](community/stats_website/statsweb_tchinese.vdf) has 196 untranslated strings.
 - [steam_input_tchinese.vdf](community/steam_input/steam_input_tchinese.vdf) has 19 untranslated strings.
+- [workshop_description_tchinese.vdf](community/workshop/workshop_description_tchinese.vdf) has 4 untranslated strings.
 - [basemodui_tchinese.txt](resource/basemodui_tchinese.txt) has 7 untranslated strings.
 - [closecaption_tchinese.txt](resource/closecaption_tchinese.txt) has 131 untranslated strings.
 - [gameui_tchinese.txt](resource/gameui_tchinese.txt) has 1 untranslated strings.
@@ -159,8 +161,6 @@
 
 - [eula_tchinese.txt](community/eula/eula_english.txt) is missing.
 - [app_items_563560_tchinese.json](community/points_shop/app_items_563560_english.json) is missing.
-- [mappingcontest2023_tchinese.txt](community/workshop/mappingcontest2023_english.txt) is missing.
-- [workshop_description_tchinese.txt](community/workshop/workshop_description_english.txt) is missing.
 - [workshop_tags_tchinese.json](community/workshop/workshop_tags_english.json) is missing.
 - [content_warning_563560_tchinese.txt](store_page/content_warning_563560_english.txt) is missing.
 - [storepage_81731_tchinese.json](store_page/storepage_81731_tchinese.json) has 6 indented lines.
@@ -432,6 +432,7 @@
 - [inventory_service_tags_czech.vdf](community/inventory_service/inventory_service_tags_czech.vdf) has 28 untranslated strings.
 - [statsweb_czech.vdf](community/stats_website/statsweb_czech.vdf) has 196 untranslated strings.
 - [steam_input_czech.vdf](community/steam_input/steam_input_czech.vdf) has 19 untranslated strings.
+- [workshop_description_czech.vdf](community/workshop/workshop_description_czech.vdf) has 4 untranslated strings.
 - [serverbrowser_czech.txt](platform/servers/serverbrowser_czech.txt) has 186 untranslated strings.
 - [vgui_czech.txt](platform/vgui_czech.txt) has 184 untranslated strings.
 - [basemodui_czech.txt](resource/basemodui_czech.txt) has 69 untranslated strings.
@@ -444,8 +445,6 @@
 ### Steam Store and Community
 
 - [app_items_563560_czech.json](community/points_shop/app_items_563560_english.json) is missing.
-- [mappingcontest2023_czech.txt](community/workshop/mappingcontest2023_english.txt) is missing.
-- [workshop_description_czech.txt](community/workshop/workshop_description_english.txt) is missing.
 - [workshop_tags_czech.json](community/workshop/workshop_tags_english.json) is missing.
 - [content_warning_563560_czech.txt](store_page/content_warning_563560_english.txt) is missing.
 - [storepage_81731_czech.json](store_page/storepage_81731_english.json) is missing.
@@ -718,6 +717,7 @@
 - [inventory_service_tags_french.vdf](community/inventory_service/inventory_service_tags_french.vdf) has 23 untranslated strings.
 - [statsweb_french.vdf](community/stats_website/statsweb_french.vdf) has 196 untranslated strings.
 - [steam_input_french.vdf](community/steam_input/steam_input_french.vdf) has 19 untranslated strings.
+- [workshop_description_french.vdf](community/workshop/workshop_description_french.vdf) has 4 untranslated strings.
 - [serverbrowser_french.txt](platform/servers/serverbrowser_french.txt) has 24 untranslated strings.
 - [vgui_french.txt](platform/vgui_french.txt) has 93 untranslated strings.
 - [basemodui_french.txt](resource/basemodui_french.txt) has 25 untranslated strings.
@@ -729,8 +729,6 @@
 ### Steam Store and Community
 
 - [app_items_563560_french.json](community/points_shop/app_items_563560_english.json) is missing.
-- [mappingcontest2023_french.txt](community/workshop/mappingcontest2023_english.txt) is missing.
-- [workshop_description_french.txt](community/workshop/workshop_description_english.txt) is missing.
 - [workshop_tags_french.json](community/workshop/workshop_tags_english.json) is missing.
 - [content_warning_563560_french.txt](store_page/content_warning_563560_english.txt) is missing.
 - [storepage_81731_french.json](store_page/storepage_81731_french.json) has 6 indented lines.
@@ -986,7 +984,9 @@
 
 </summary>
 
-✓ Up to date!
+### Strings
+
+- [workshop_description_italian.vdf](community/workshop/workshop_description_italian.vdf) has 1 untranslated strings.
 
 </details>
 
@@ -1012,6 +1012,7 @@
 ### Strings
 
 - [statsweb_koreana.vdf](community/stats_website/statsweb_koreana.vdf) has 18 untranslated strings.
+- [workshop_description_koreana.vdf](community/workshop/workshop_description_koreana.vdf) has 4 untranslated strings.
 - [vgui_koreana.txt](platform/vgui_koreana.txt) has 88 untranslated strings.
 - [basemodui_koreana.txt](resource/basemodui_koreana.txt) has 5 untranslated strings.
 - [closecaption_koreana.txt](resource/closecaption_koreana.txt) has 1 untranslated strings.
@@ -1021,8 +1022,6 @@
 
 ### Steam Store and Community
 
-- [mappingcontest2023_koreana.txt](community/workshop/mappingcontest2023_english.txt) is missing.
-- [workshop_description_koreana.txt](community/workshop/workshop_description_english.txt) is missing.
 - [workshop_tags_koreana.json](community/workshop/workshop_tags_english.json) is missing.
 - [content_warning_563560_koreana.txt](store_page/content_warning_563560_english.txt) is missing.
 - [storepage_81731_koreana.json](store_page/storepage_81731_koreana.json) has 6 indented lines.
@@ -1198,6 +1197,7 @@
 - [inventory_service_tags_polish.vdf](community/inventory_service/inventory_service_tags_polish.vdf) has 23 untranslated strings.
 - [statsweb_polish.vdf](community/stats_website/statsweb_polish.vdf) has 196 untranslated strings.
 - [steam_input_polish.vdf](community/steam_input/steam_input_polish.vdf) has 19 untranslated strings.
+- [workshop_description_polish.vdf](community/workshop/workshop_description_polish.vdf) has 4 untranslated strings.
 - [serverbrowser_polish.txt](platform/servers/serverbrowser_polish.txt) has 24 untranslated strings.
 - [vgui_polish.txt](platform/vgui_polish.txt) has 81 untranslated strings.
 - [basemodui_polish.txt](resource/basemodui_polish.txt) has 26 untranslated strings.
@@ -1211,8 +1211,6 @@
 
 - [eula_polish.txt](community/eula/eula_english.txt) is missing.
 - [app_items_563560_polish.json](community/points_shop/app_items_563560_english.json) is missing.
-- [mappingcontest2023_polish.txt](community/workshop/mappingcontest2023_english.txt) is missing.
-- [workshop_description_polish.txt](community/workshop/workshop_description_english.txt) is missing.
 - [workshop_tags_polish.json](community/workshop/workshop_tags_english.json) is missing.
 - [content_warning_563560_polish.txt](store_page/content_warning_563560_english.txt) is missing.
 - [storepage_81731_polish.json](store_page/storepage_81731_polish.json) has 6 indented lines.
@@ -1484,6 +1482,7 @@
 - [reactivedrop_portuguese.txt](addons/ExampleAddon/resource/reactivedrop_portuguese.txt) has 12 untranslated strings.
 - [inventory_service_tags_portuguese.vdf](community/inventory_service/inventory_service_tags_portuguese.vdf) has 17 untranslated strings.
 - [statsweb_portuguese.vdf](community/stats_website/statsweb_portuguese.vdf) has 23 untranslated strings.
+- [workshop_description_portuguese.vdf](community/workshop/workshop_description_portuguese.vdf) has 2 untranslated strings.
 - [vgui_portuguese.txt](platform/vgui_portuguese.txt) has 93 untranslated strings.
 - [closecaption_portuguese.txt](resource/closecaption_portuguese.txt) has 171 untranslated strings.
 - [reactivedrop_portuguese.txt](resource/reactivedrop_portuguese.txt) has 1568 untranslated strings.
@@ -1492,7 +1491,6 @@
 ### Steam Store and Community
 
 - [app_items_563560_portuguese.json](community/points_shop/app_items_563560_english.json) is missing.
-- [mappingcontest2023_portuguese.txt](community/workshop/mappingcontest2023_english.txt) is missing.
 
 ### Upcoming Release Notes
 
@@ -1871,6 +1869,7 @@
 - [inventory_service_tags_spanish.vdf](community/inventory_service/inventory_service_tags_spanish.vdf) has 23 untranslated strings.
 - [statsweb_spanish.vdf](community/stats_website/statsweb_spanish.vdf) has 196 untranslated strings.
 - [steam_input_spanish.vdf](community/steam_input/steam_input_spanish.vdf) has 19 untranslated strings.
+- [workshop_description_spanish.vdf](community/workshop/workshop_description_spanish.vdf) has 4 untranslated strings.
 - [serverbrowser_spanish.txt](platform/servers/serverbrowser_spanish.txt) has 24 untranslated strings.
 - [vgui_spanish.txt](platform/vgui_spanish.txt) has 93 untranslated strings.
 - [basemodui_spanish.txt](resource/basemodui_spanish.txt) has 26 untranslated strings.
@@ -1882,8 +1881,6 @@
 ### Steam Store and Community
 
 - [app_items_563560_spanish.json](community/points_shop/app_items_563560_english.json) is missing.
-- [mappingcontest2023_spanish.txt](community/workshop/mappingcontest2023_english.txt) is missing.
-- [workshop_description_spanish.txt](community/workshop/workshop_description_english.txt) is missing.
 - [workshop_tags_spanish.json](community/workshop/workshop_tags_english.json) is missing.
 - [content_warning_563560_spanish.txt](store_page/content_warning_563560_english.txt) is missing.
 - [storepage_81731_spanish.json](store_page/storepage_81731_spanish.json) has 6 indented lines.
@@ -2156,6 +2153,7 @@
 - [inventory_service_tags_latam.vdf](community/inventory_service/inventory_service_tags_latam.vdf) has 28 untranslated strings.
 - [statsweb_latam.vdf](community/stats_website/statsweb_latam.vdf) has 200 untranslated strings.
 - [steam_input_latam.vdf](community/steam_input/steam_input_latam.vdf) has 19 untranslated strings.
+- [workshop_description_latam.vdf](community/workshop/workshop_description_latam.vdf) has 4 untranslated strings.
 - [serverbrowser_latam.txt](platform/servers/serverbrowser_latam.txt) has 186 untranslated strings.
 - [vgui_latam.txt](platform/vgui_latam.txt) has 184 untranslated strings.
 - [basemodui_latam.txt](resource/basemodui_latam.txt) has 1279 untranslated strings.
@@ -2169,8 +2167,6 @@
 
 - [eula_latam.txt](community/eula/eula_english.txt) is missing.
 - [app_items_563560_latam.json](community/points_shop/app_items_563560_english.json) is missing.
-- [mappingcontest2023_latam.txt](community/workshop/mappingcontest2023_english.txt) is missing.
-- [workshop_description_latam.txt](community/workshop/workshop_description_english.txt) is missing.
 - [workshop_tags_latam.json](community/workshop/workshop_tags_english.json) is missing.
 - [content_warning_563560_latam.txt](store_page/content_warning_563560_english.txt) is missing.
 - [storepage_81731_latam.json](store_page/storepage_81731_english.json) is missing.
@@ -2443,6 +2439,7 @@
 - [inventory_service_tags_ukrainian.vdf](community/inventory_service/inventory_service_tags_ukrainian.vdf) has 23 untranslated strings.
 - [statsweb_ukrainian.vdf](community/stats_website/statsweb_ukrainian.vdf) has 196 untranslated strings.
 - [steam_input_ukrainian.vdf](community/steam_input/steam_input_ukrainian.vdf) has 19 untranslated strings.
+- [workshop_description_ukrainian.vdf](community/workshop/workshop_description_ukrainian.vdf) has 4 untranslated strings.
 - [serverbrowser_ukrainian.txt](platform/servers/serverbrowser_ukrainian.txt) has 186 untranslated strings.
 - [vgui_ukrainian.txt](platform/vgui_ukrainian.txt) has 184 untranslated strings.
 - [basemodui_ukrainian.txt](resource/basemodui_ukrainian.txt) has 25 untranslated strings.
@@ -2455,8 +2452,6 @@
 
 - [eula_ukrainian.txt](community/eula/eula_english.txt) is missing.
 - [app_items_563560_ukrainian.json](community/points_shop/app_items_563560_english.json) is missing.
-- [mappingcontest2023_ukrainian.txt](community/workshop/mappingcontest2023_english.txt) is missing.
-- [workshop_description_ukrainian.txt](community/workshop/workshop_description_english.txt) is missing.
 - [workshop_tags_ukrainian.json](community/workshop/workshop_tags_english.json) is missing.
 - [content_warning_563560_ukrainian.txt](store_page/content_warning_563560_english.txt) is missing.
 
@@ -2727,6 +2722,7 @@
 - [inventory_service_tags_vietnamese.vdf](community/inventory_service/inventory_service_tags_vietnamese.vdf) has 23 untranslated strings.
 - [statsweb_vietnamese.vdf](community/stats_website/statsweb_vietnamese.vdf) has 196 untranslated strings.
 - [steam_input_vietnamese.vdf](community/steam_input/steam_input_vietnamese.vdf) has 19 untranslated strings.
+- [workshop_description_vietnamese.vdf](community/workshop/workshop_description_vietnamese.vdf) has 4 untranslated strings.
 - [serverbrowser_vietnamese.txt](platform/servers/serverbrowser_vietnamese.txt) has 186 untranslated strings.
 - [vgui_vietnamese.txt](platform/vgui_vietnamese.txt) has 184 untranslated strings.
 - [basemodui_vietnamese.txt](resource/basemodui_vietnamese.txt) has 1279 untranslated strings.
@@ -2740,8 +2736,6 @@
 
 - [eula_vietnamese.txt](community/eula/eula_english.txt) is missing.
 - [app_items_563560_vietnamese.json](community/points_shop/app_items_563560_english.json) is missing.
-- [mappingcontest2023_vietnamese.txt](community/workshop/mappingcontest2023_english.txt) is missing.
-- [workshop_description_vietnamese.txt](community/workshop/workshop_description_english.txt) is missing.
 - [workshop_tags_vietnamese.json](community/workshop/workshop_tags_english.json) is missing.
 - [content_warning_563560_vietnamese.txt](store_page/content_warning_563560_english.txt) is missing.
 - [storepage_81731_vietnamese.json](store_page/storepage_81731_vietnamese.json) has 6 indented lines.
