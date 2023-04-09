@@ -10,7 +10,7 @@
 | [French](#french-français) | 25 | 129 | 10 | 1730 | 196 | 398 | 267 | 124 |
 | [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Hungarian](#non-curated-languages) | 49 | 129 | 10 | 2378 | 196 | 729 | 281 | 146 |
-| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 1 | ✔️ | ✔️ |
+| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | 12 | ✔️ | 35 | ✔️ | ✔️ |
 | [Korean](#koreana-한국어) | 5 | 1 | 6 | 861 | 18 | 182 | 267 | 47 |
 | [Norwegian Bokmål](#non-curated-languages) | 67 | 704 | 15 | 3098 | 196 | 464 | 350 | 146 |
@@ -984,9 +984,7 @@
 
 </summary>
 
-### Strings
-
-- [workshop_description_italian.vdf](community/workshop/workshop_description_italian.vdf) has 1 untranslated strings.
+✓ Up to date!
 
 </details>
 
