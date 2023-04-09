@@ -10,6 +10,7 @@ import (
 	"os"
 	"path/filepath"
 	"strings"
+	"unicode/utf8"
 
 	"git.lubar.me/ben/valve/vdf"
 )
@@ -267,6 +268,19 @@ func loadTranslatedStrings(filename, lang string, wantBOM bool) (*translatedStri
 
 		value = value[1 : len(value)-1]
 		value = vdf.Unescape.Replace(value)
+
+		for _, checkLen := range stringMaxLength {
+			if !strings.HasPrefix(filename, checkLen.File) {
+				continue
+			}
+
+			if checkLen.Key.MatchString(key) {
+				if count := utf8.RuneCountInString(value); count > checkLen.MaxLength {
+					panic(fmt.Sprintf("%q cannot be longer than %d characters, but it is %d characters", key, checkLen.MaxLength, count))
+				}
+				break
+			}
+		}
 
 		origKey := key
 		key = strings.ToLower(key)
