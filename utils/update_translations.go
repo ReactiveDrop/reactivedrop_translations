@@ -3,6 +3,7 @@ package main
 import (
 	"bufio"
 	"bytes"
+	"encoding/xml"
 	"errors"
 	"flag"
 	"fmt"
@@ -61,6 +62,8 @@ func main() {
 			syncTranslations(strings.TrimSuffix(file, "_"+sourceLanguage+".txt"), ".txt", false)
 		}
 	}
+
+	checkReleaseNotes()
 }
 
 func syncTranslations(prefix, suffix string, quiet bool) {
@@ -599,4 +602,45 @@ func updateRichPresence(lang string) {
 	}
 
 	check(f.WriteString("\t}\r\n}\r\n"))
+}
+
+func checkReleaseNotes() {
+	names, err := filepath.Glob("../release_notes/*.xml")
+	if err != nil {
+		panic(err)
+	}
+
+	for _, name := range names {
+		var content struct {
+			XMLName xml.Name `xml:"content"`
+			Strings []struct {
+				ID   string `xml:"id,attr"`
+				Text string `xml:",chardata"`
+			} `xml:"string"`
+		}
+
+		b, err := os.ReadFile(name)
+		if err != nil {
+			panic(err)
+		}
+
+		err = xml.Unmarshal(b, &content)
+		if err != nil {
+			fmt.Println(name)
+			panic(err)
+		}
+
+		for _, s := range content.Strings {
+			count := utf8.RuneCountInString(s.Text)
+			max := eventMaxLength[s.ID]
+
+			if max == 0 {
+				panic(fmt.Sprintf("%s: unexpected string id %q", name, s.ID))
+			}
+
+			if count > max {
+				panic(fmt.Sprintf("%s: %q cannot be longer than %d characters, but it is %d characters", name, s.ID, max, count))
+			}
+		}
+	}
 }

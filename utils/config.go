@@ -92,6 +92,7 @@ var vdfLanguageFiles = [...]string{
 	"../community/stats_website/statsweb",
 	"../community/steam_input/steam_input",
 	"../community/workshop/workshop_description",
+	"../misc/signage/signage",
 }
 
 var txtAddonLanguageFiles = [...]string{
@@ -107,7 +108,6 @@ var importantLanguageFiles = [...][2]string{
 	{"community/stats_website/statsweb_", ".vdf"},
 }
 
-// TODO: check files for these length limits
 var eventMaxLength = map[string]int{
 	"title":    80,
 	"subtitle": 120,
