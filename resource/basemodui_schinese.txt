@@ -527,7 +527,7 @@
 "[english]L4D360UI_SignIn_PlayAsGuest"		"PLAY WITHOUT GAMER PROFILE"
 "L4D360UI_SignIn_CancelSignIn"		"取消"
 "[english]L4D360UI_SignIn_CancelSignIn"		"Cancel"
-"L4D360UI_MainMenu_CoOp"		"完成战役"
+"L4D360UI_MainMenu_CoOp"		"在线游戏"
 //Main Menu
 "[english]L4D360UI_MainMenu_CoOp"		"PLAY ONLINE"
 "L4D360UI_MainMenu_Holdout"		"开始抵抗战"
