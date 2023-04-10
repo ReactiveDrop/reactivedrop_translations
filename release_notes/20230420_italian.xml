@@ -101,8 +101,8 @@ Ecco alcuni momenti salienti dagli aggiornamenti precedenti allo scorso annivers
 [*][b]BioGen Corporation: Minaccia Invisibile:[/b] Aumentato il tempo limite della speed run da 1:13 a 1:20.
 [*][b]Bunker:[/b] Rimossa la collisione con una trave invisibile sul soffitto.
 [*][b]Baia d'Atterraggio + Ascensore da Carico:[/b] Corretto un soft lock causato dal completamento degli obiettivi fuori ordine.
-		[*]Added an official bonus mission based on Accident 32.
-		[*]Added four new official bonus missions based on Jacob's Rest.
+[*]Aggiunta una missione bonus ufficiale basata su Accident 32.
+[*]Aggiunta una missione bonus ufficiale basata su Jacob's Rest.
 [*][b]Accademia Militare IAF:[/b] Aggiunta una nuova missione infinita ufficiale.
 [*]Tutte le missioni ufficiali sono state dotate di schermate di caricamento personalizzate.
 [/list]
@@ -121,9 +121,9 @@ Ecco alcuni momenti salienti dagli aggiornamenti precedenti allo scorso annivers
 [*][b]Motosega:[/b] Ora i bot usano quest'arma a una distanza più ragionevole.
 [*][b]Bomba Intelligente MTD6:[/b] Questo equipaggiamento ora cambia l'aspetto dei soldati che lo indossano.
 [*][b]Occhiali per la Visione Notturna MNV34:[/b] Questo equipaggiamento ora cambia l'aspetto dei soldati che lo indossano.
-		[*][b]IAF Medical Amplifier Gun:[/b] Primary fire now self-targets when aiming with the right stick or holding the crouch key (shift), or when in first or third person, if the target being aimed at is not valid for healing.
+[*][b]Pistola Medica Amplificatrice IAF:[/b] Il fuoco primario ora prende di mira se stessi quando si mira con la levetta destra o si tiene premuto il tasto di accovacciamento (shift), o quando si è in prima o terza persona, se il bersaglio a cui si mira non è valido per la guarigione.
 [*][b]Granate a Gas TG-05:[/b] Aggiornato l'aspetto dell'arma per differenziarla meglio dalle armi dello stesso tipo.
-		[*][b]IAF Medical SMG:[/b] Secondary fire now self-targets when aiming with the right stick or holding the crouch key (shift), or when in first or third person, if the target being aimed at is not valid for healing.
+[*][b]SM Medica IAF:[/b] Il fuoco secondario ora prende di mira se stessi quando si mira con la levetta destra o si tiene premuto il tasto di accovacciamento (shift), o quando si è in prima o terza persona, se il bersaglio a cui si mira non è valido per la guarigione.
 [*][b]Pistola Flechette (nascosta):[/b] Questa pistola ha un nuovo aspetto e ora spara esplosivi appiccicosi a tempo (gli stessi che sparano gli Hunter Combine) anziché razzi a puntamento automatico. Ora spara direttamente sul punto di mira anziché parallelamente al terreno.
 [*][b]Fucile Ricochet (nascosto):[/b] Questo fucile ha un nuovo aspetto e non richiede più di tenere premuto il grilletto secondario per far rimbalzare i colpi. Invece, tenendo premuto il grilletto secondario, l'arma passa a una modalità di fuoco a raffica simile a quella dei fucili a pompa. I proiettili rimbalzanti ora possono colpire il soldato che li ha sparati.
 [*][b]Pacchetto Teletrasporto Sostitutivo (nascosto):[/b] Questo equipaggiamento ora cambia l'aspetto dei soldati che lo indossano.

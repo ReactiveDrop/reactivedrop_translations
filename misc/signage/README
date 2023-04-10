@@ -1,0 +1,7 @@
+These translation files contain the text that certain textures in Alien Swarm: Reactive Drop contain.
+
+These are LOW PRIORITY translation material. Translate other text in this repository before you come here.
+
+Once these are translated, someone has to manually make an alternate version of the texture containing the new text, which is then loaded by the game for players playing on that language instead of the default English texture.
+
+Look at the material named in the translation key for reference on what the layout of the text is. Feel free to add or remove line breaks in your translation if it makes the text fit better. The alternate textures will be the same resolution as the original, so adding or removing line breaks can help match the aspect ratio the texture will have better.

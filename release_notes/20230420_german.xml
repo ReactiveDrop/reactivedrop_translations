@@ -101,8 +101,8 @@ Hier sind einige Highlights der Updates seit dem letzten Jahrestag:
 [*][b]BioGen Gesellschaft: Unsichtbare Bedrohung:[/b] Das Zeitlimit für den Speedrun wurde von 1:13 auf 1:20 erhöht.
 [*][b]Bunker:[/b] Die Kollision mit einem unsichtbaren Deckenbalken wurde entfernt.
 [*][b]Landungsbucht + Lastenaufzug:[/b] Ein Softlock wurde behoben, der durch das Abschließen der Ziele außerhalb der vorgesehenen Reihenfolge verursacht wurde.
-		[*]Added an official bonus mission based on Accident 32.
-		[*]Added four new official bonus missions based on Jacob's Rest.
+[*]Ein offizieller Bonuseinsatz basierend auf Unfall 32 wurde hinzugefügt.
+[*]Vier neue offizielle Bonuseinsätze basierend auf Jakobsrube wurden hinzugefügt.
 [*][b]IAF Akademie:[/b] Es wurde ein neuer offizieller Endloseinsatz hinzugefügt.
 [*]Alle offiziellen Einsätze haben eigene Ladebildschirme erhalten.
 [/list]
@@ -121,9 +121,9 @@ Hier sind einige Highlights der Updates seit dem letzten Jahrestag:
 [*][b]Kettensäge:[/b] Bots benutzen diese Waffe jetzt aus einer angemesseneren Reichweite.
 [*][b]MTD6 Lenkbomben:[/b] Diese Ausrüstung verändert jetzt das Aussehen seines Trägers.
 [*][b]MNV34 Nachtsichtgerät:[/b] Diese Ausrüstung verändert jetzt das Aussehen seines Trägers.
-		[*][b]IAF Medical Amplifier Gun:[/b] Primary fire now self-targets when aiming with the right stick or holding the crouch key (shift), or when in first or third person, if the target being aimed at is not valid for healing.
+[*][b]IAF Mobile Amp-Heileinheit:[/b] Primärfeuer heilt dich selbst, wenn du mit dem rechten Stick zielst oder die Knien-Taste (Shift) gedrückt hältst, oder in der ersten oder dritten Person, wenn das anvisierte Ziel nicht zum Heilen geeignet ist.
 [*][b]TG-05 Gasgranaten:[/b] Das Aussehen des Gegenstandes wurde aktualisiert, um ihn von anderen Granaten zu unterscheiden.
-		[*][b]IAF Medical SMG:[/b] Secondary fire now self-targets when aiming with the right stick or holding the crouch key (shift), or when in first or third person, if the target being aimed at is not valid for healing.
+[*][b]IAF Sanitäter SMG:[/b] Sekundärfeuer fire heilt dich selbst, wenn du mit dem rechten Stick zielst oder die Knien-Taste (Shift) gedrückt hältst, oder in der ersten oder dritten Person, wenn das anvisierte Ziel nicht zum Heilen geeignet ist.
 [*][b]Flechette-Gewehr (versteckt):[/b] Dieses Gewehr hat ein neues Aussehen und verschießt jetzt zeitgesteuerte klebrige Sprengsätze (die gleichen, die Combine Jäger abfeuern) anstelle von Raketen mit automatischer Zielvorrichtung. Schießt jetzt direkt auf den Zielpunkt und nicht mehr parallel zum Boden.
 [*][b]Querschläger-Gewehr (versteckt):[/b] Diese Waffe hat ein neues Aussehen und erfordert nicht mehr, dass der sekundäre Abzug gehalten wird, um Schüsse abprallen zu lassen. Stattdessen, wenn man den zweiten Abzug gedrückt hält, schaltet die Waffe in einen schrotflintenähnlichen Modus um. Abprallende Kugeln können jetzt den Soldaten treffen, der sie abgefeuert hat.
 [*][b]Versetzungs- 'Flimmer' Paket (versteckt):[/b] Diese Ausrüstung verändert jetzt das Aussehen seines Trägers.
@@ -222,4 +222,4 @@ Hier sind einige Highlights der Updates seit dem letzten Jahrestag:
 [*]asw_vehicle_jeep hat Methoden zum Abrufen von Statistiken: GetSpeed, GetMaxSpeed (in Meilen pro Stunde), GetRPM, GetThrottle, HasBoost, und BoostTimeLeft.
 [*]SetSpawnZombineOnMarineKill für bewohnbare NSCs, SetSpawnZombineOnDeath für Soldaten und ein Convar rd_marine_spawn_zombine_on_death_chance wurden hinzugefügt, mit denen du einen Soldaten-Zombie mit der Zombine-KI spawnen lassen kannst, wenn ein Soldat stirbt.
 [*]Methoden für Spieler hinzugefügt: SetNPC und SetSpectatingNPC.
-[/list]</string><string id="subtitle">Es ist der Alien Swarm: Reactive Drop's Geburtstag!</string><string id="summary">Heute feiert Alien Swarm: Reactive Drop sein 6-jähriges Bestehen auf Steam. Hier ist eine Woche mit doppelter Erfahrung, eine neue Feldzüge und ein paar anderen Leckerlis zum Feiern.</string><string id="title">Alien Swarm: Reactive Drop Update - 20. April 2023</string></content>
+[/list]</string><string id="subtitle">Es ist der Alien Swarm: Reactive Drop's Geburtstag!</string><string id="summary">Heute feiert Alien Swarm: Reactive Drop sein 6-jähriges Bestehen auf Steam. Hier ist eine Woche doppelte Erfahrung, ein neuer Feldzug und ein paar anderen Leckerlis zum Feiern.</string><string id="title">Alien Swarm: Reactive Drop Update - 20. April 2023</string></content>
