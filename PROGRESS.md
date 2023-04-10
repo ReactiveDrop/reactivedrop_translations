@@ -10,7 +10,7 @@
 | [French](#french-français) | 25 | 129 | 10 | 1731 | 196 | 467 | 271 | 124 |
 | [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | 1 | ✔️ | 69 | 3 | ✔️ |
 | [Hungarian](#non-curated-languages) | 49 | 129 | 10 | 2379 | 196 | 798 | 285 | 146 |
-| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | 1 | ✔️ | 69 | 3 | ✔️ |
+| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | 12 | ✔️ | 102 | ✔️ | ✔️ |
 | [Korean](#koreana-한국어) | 5 | 1 | 6 | 862 | 18 | 251 | 271 | 47 |
 | [Norwegian Bokmål](#non-curated-languages) | 67 | 704 | 15 | 3099 | 196 | 533 | 354 | 146 |
@@ -999,14 +999,7 @@
 
 </summary>
 
-### Strings
-
-- [signage_italian.vdf](misc/signage/signage_italian.vdf) has 69 untranslated strings.
-- [reactivedrop_italian.txt](resource/reactivedrop_italian.txt) has 1 untranslated strings.
-
-### Inventory Schema</summary>
-
-- Item 29 "Streamer" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_italian`, `briefing_name_italian`, `description_italian`
+✓ Up to date!
 
 </details>
 
