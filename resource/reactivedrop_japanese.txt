@@ -8029,6 +8029,8 @@
 "[english]RD_AdvancedSettings_Misc_CameraRotation_Never"		"Never"
 "RD_AdvancedSettings_Misc_CameraRotation_Always"		"常に許可"
 "[english]RD_AdvancedSettings_Misc_CameraRotation_Always"		"Always"
+"RD_AdvancedSettings_Misc_CameraShift"		"カメラをマウスカーソルに寄せる"
+"[english]RD_AdvancedSettings_Misc_CameraShift"		"Camera Shift (Mouse)"
 "RD_AdvancedSettings_Misc_SwarmopediaUnits"		"図鑑で使用する単位"
 "[english]RD_AdvancedSettings_Misc_SwarmopediaUnits"		"Swarmopedia Units"
 "RD_AdvancedSettings_Misc_SwarmopediaUnits_Hammer"		"Source Engine単位(HU)"
