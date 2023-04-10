@@ -49,9 +49,9 @@
 		"[english]materials/ocs/ocs_statispods02.vmt"		"STASIS PODS\n1 2 3 4\n5 6 7 8\n9 10 11 12"
 		"materials/overlays/cautiondoor.vmt"		"CAUTION DOOR"
 		"[english]materials/overlays/cautiondoor.vmt"		"CAUTION DOOR"
-		"materials/overlays/landing_area1.vmt"		"H"
-		// this should be what you'd expect to find on a helicopter landing pad
-		"[english]materials/overlays/landing_area1.vmt"		"H"
+"materials/overlays/landing_area1.vmt"		"H"
+// this should be what you'd expect to find on a helicopter landing pad
+"[english]materials/overlays/landing_area1.vmt"		"H"
 		"materials/overlays/watchyourstep.vmt"		"WATCH YOUR STEP"
 		"[english]materials/overlays/watchyourstep.vmt"		"WATCH YOUR STEP"
 		"materials/signage/bts_sign_authorizedonly_01.vmt"		"AUTHORIZED\nPERSONNEL ONLY"
@@ -97,9 +97,9 @@
 		"[english]materials/signage/underground_caution_railing.vmt"		"CAUTION\nDO NOT LEAN ON RAILING"
 		"materials/signage/underground_danger01.vmt"		"DANGER"
 		"[english]materials/signage/underground_danger01.vmt"		"DANGER"
-		"materials/signage/underground_depth.vmt"		"2500m"
-		// 2500 meters
-		"[english]materials/signage/underground_depth.vmt"		"2500m"
+"materials/signage/underground_depth.vmt"		"2500m"
+// 2500 meters
+"[english]materials/signage/underground_depth.vmt"		"2500m"
 		"materials/signage/underground_fan_shutdown.vmt"		"FAN\nSHUTDOWN"
 		"[english]materials/signage/underground_fan_shutdown.vmt"		"FAN\nSHUTDOWN"
 		"materials/signage/underground_keepout.vmt"		"KEEP\nOUT"
