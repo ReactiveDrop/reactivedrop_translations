@@ -18,7 +18,7 @@
 | [European Portuguese](#portuguese-português-europeu) | ✔️ | 171 | ✔️ | 1569 | 23 | 459 | 289 | 139 |
 | [Brazilian Portuguese](#brazilian-português) | ✔️ | 2004 | ✔️ | 625 | 5 | 86 | 132 | 5 |
 | [Romanian](#non-curated-languages) | 49 | 1996 | 16 | 3104 | 196 | 798 | 331 | 146 |
-| [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | 1 | ✔️ | 69 | 3 | 1 |
+| [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [European Spanish](#spanish-español-de-españa) | 26 | 2004 | 8 | 1783 | 196 | 537 | 281 | 145 |
 | [Latin American Spanish](#latam-español-latinoamericano) | 1279 | 2004 | 605 | 3918 | 200 | 803 | 367 | 146 |
 | [Swedish](#non-curated-languages) | 49 | 2004 | 10 | 2379 | 196 | 533 | 285 | 146 |
@@ -1880,18 +1880,7 @@
 
 </summary>
 
-### Strings
-
-- [signage_russian.vdf](misc/signage/signage_russian.vdf) has 69 untranslated strings.
-- [reactivedrop_russian.txt](resource/reactivedrop_russian.txt) has 1 untranslated strings.
-
-### Credits
-
-- [credits_acc32_official_russian.txt](credits/credits_acc32_official_russian.txt) has 1 indented lines.
-
-### Inventory Schema</summary>
-
-- Item 29 "Streamer" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_russian`, `briefing_name_russian`, `description_russian`
+✓ Up to date!
 
 </details>
 
