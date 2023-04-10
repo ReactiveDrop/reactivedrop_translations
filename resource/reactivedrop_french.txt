@@ -8029,6 +8029,8 @@
 "[english]RD_AdvancedSettings_Misc_CameraRotation_Never"		"Never"
 "RD_AdvancedSettings_Misc_CameraRotation_Always"		"Toujours"
 "[english]RD_AdvancedSettings_Misc_CameraRotation_Always"		"Always"
+		"RD_AdvancedSettings_Misc_CameraShift"		"Camera Shift (Mouse)"
+		"[english]RD_AdvancedSettings_Misc_CameraShift"		"Camera Shift (Mouse)"
 		"RD_AdvancedSettings_Misc_SwarmopediaUnits"		"Swarmopedia Units"
 		"[english]RD_AdvancedSettings_Misc_SwarmopediaUnits"		"Swarmopedia Units"
 		"RD_AdvancedSettings_Misc_SwarmopediaUnits_Hammer"		"Hammer Units"
