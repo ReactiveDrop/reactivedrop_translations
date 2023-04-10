@@ -1,7 +1,7 @@
 # Overview
 | Language | basemodui | closecaption | gameui | reactivedrop | statsweb | Strings | Inventory | Files |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | ✔️ | 56 | ✔️ | 70 | 130 | 5 |
+| [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 69 | 130 | 4 |
 | [Traditional Chinese](#tchinese-繁體中文) | 7 | 131 | 1 | 2260 | 196 | 148 | 283 | 145 |
 | [Czech](#czech-čeština) | 69 | 1807 | 10 | 3403 | 196 | 803 | 353 | 145 |
 | [Danish](#non-curated-languages) | 50 | 222 | 10 | 2924 | 196 | 533 | 348 | 146 |
@@ -42,13 +42,7 @@
 
 ### Strings
 
-- [workshop_description_schinese.vdf](community/workshop/workshop_description_schinese.vdf) has 1 untranslated strings.
 - [signage_schinese.vdf](misc/signage/signage_schinese.vdf) has 69 untranslated strings.
-- [reactivedrop_schinese.txt](resource/reactivedrop_schinese.txt) has 56 untranslated strings.
-
-### Upcoming Release Notes
-
-- [20230420_schinese.xml](release_notes/20230420_schinese.xml) has 1 indented lines.
 
 ### Credits
 
