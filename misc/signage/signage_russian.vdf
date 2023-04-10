@@ -27,7 +27,8 @@
 "[english]materials/newcamp/sign/sign_normal.vmt"		"NORMAL"
 "materials/newcamp/sign/sign_power.vmt"		"МОЩНОСТЬ:"
 "[english]materials/newcamp/sign/sign_power.vmt"		"POWER:"
-"materials/newcamp/sign/sign_reactor_control.vmt"		"УПРАВЛЕНИЕ РЕАКТОРОМ" // please add smiley to second О
+// please add smiley to second О
+"materials/newcamp/sign/sign_reactor_control.vmt"		"УПРАВЛЕНИЕ РЕАКТОРОМ"
 // the English version of this texture has a smiley face :) in the middle of the O.
 // leave a comment on the translated version for any markings that should be added.
 "[english]materials/newcamp/sign/sign_reactor_control.vmt"		"REACTOR CONTROL"
@@ -100,7 +101,8 @@
 "materials/signage/underground_depth.vmt"		"2500 м"
 // 2500 meters
 "[english]materials/signage/underground_depth.vmt"		"2500m"
-"materials/signage/underground_fan_shutdown.vmt"		"ОТКЛЮЧЕНИЕ\nВЕНТИЛЯТОРА" // fan icon should be going before second word for this
+// fan icon should be going before second word for this
+"materials/signage/underground_fan_shutdown.vmt"		"ОТКЛЮЧЕНИЕ\nВЕНТИЛЯТОРА"
 "[english]materials/signage/underground_fan_shutdown.vmt"		"FAN\nSHUTDOWN"
 "materials/signage/underground_keepout.vmt"		"НЕ\nВХОДИТЬ"
 "[english]materials/signage/underground_keepout.vmt"		"KEEP\nOUT"
