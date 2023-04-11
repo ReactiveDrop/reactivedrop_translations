@@ -1,14 +1,14 @@
 # Overview
 | Language | basemodui | closecaption | gameui | reactivedrop | statsweb | Strings | Inventory | Files |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 69 | 130 | 4 |
+| [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 46 | 4 |
 | [Traditional Chinese](#tchinese-繁體中文) | 7 | 131 | 1 | 2260 | 196 | 148 | 283 | 145 |
 | [Czech](#czech-čeština) | 69 | 1807 | 10 | 3403 | 196 | 803 | 353 | 145 |
 | [Danish](#non-curated-languages) | 50 | 222 | 10 | 2924 | 196 | 533 | 348 | 146 |
 | [Dutch](#non-curated-languages) | 49 | 2004 | 10 | 2379 | 196 | 533 | 285 | 145 |
 | [Finnish](#non-curated-languages) | 49 | 2004 | 10 | 2379 | 196 | 533 | 285 | 145 |
 | [French](#french-français) | 25 | 129 | 10 | 1731 | 196 | 467 | 271 | 124 |
-| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 69 | ✔️ | ✔️ |
+| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 69 | 3 | ✔️ |
 | [Hungarian](#non-curated-languages) | 49 | 129 | 10 | 2379 | 196 | 798 | 285 | 146 |
 | [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | 12 | ✔️ | 102 | ✔️ | ✔️ |
@@ -40,10 +40,6 @@
 
 </summary>
 
-### Strings
-
-- [signage_schinese.vdf](misc/signage/signage_schinese.vdf) has 69 untranslated strings.
-
 ### Credits
 
 - [credits_acc32_official_schinese.txt](credits/credits_acc32_official_schinese.txt) has 1 indented lines.
@@ -56,28 +52,6 @@
 
 ### Inventory Schema</summary>
 
-- Item 16 "Jacob's Rest Veteran" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_schinese`, `briefing_name_schinese`, `description_schinese`
-- Item 17 "Area 9800 Veteran" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_schinese`, `briefing_name_schinese`, `description_schinese`
-- Item 18 "Operation Cleansweep Veteran" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_schinese`, `briefing_name_schinese`, `description_schinese`
-- Item 19 "Lana's Escape Veteran" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_schinese`, `briefing_name_schinese`, `description_schinese`
-- Item 20 "Paranoia Veteran" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_schinese`, `briefing_name_schinese`, `description_schinese`
-- Item 21 "Research 7 Veteran" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_schinese`, `briefing_name_schinese`, `description_schinese`
-- Item 22 "Tears for Tarnor Veteran" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_schinese`, `briefing_name_schinese`, `description_schinese`
-- Item 23 "Tilarus-5 Veteran" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_schinese`, `briefing_name_schinese`, `description_schinese`
-- Item 24 "BioGen Corporation Veteran" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_schinese`, `briefing_name_schinese`, `description_schinese`
-- Item 25 "Nam Humanum Veteran" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_schinese`, `briefing_name_schinese`, `description_schinese`
-- Item 26 "Accident 32 Veteran" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_schinese`, `briefing_name_schinese`, `description_schinese`
-- Item 27 "Adanaxis Veteran" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_schinese`, `briefing_name_schinese`, `description_schinese`
-- Item 28 "Priority Number One" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_schinese`, `briefing_name_schinese`, `description_schinese`
-- Item 29 "Streamer" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_schinese`, `briefing_name_schinese`, `description_schinese`
-- Item 1000 "Sarge's Suit" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_schinese`, `display_type_schinese`
-- Item 1001 "Wildcat's Suit" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_schinese`, `display_type_schinese`
-- Item 1002 "Faith's Suit" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_schinese`, `display_type_schinese`
-- Item 1003 "Crash's Suit" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_schinese`, `display_type_schinese`
-- Item 1004 "Jaeger's Suit" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_schinese`, `display_type_schinese`
-- Item 1005 "Wolfe's Suit" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_schinese`, `display_type_schinese`
-- Item 1006 "Bastille's Suit" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_schinese`, `display_type_schinese`
-- Item 1007 "Vegas's Suit" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_schinese`, `display_type_schinese`
 - Item 2000 "22A3-1 Assault Rifle" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_schinese`
 - Item 2001 "22A7-Z Prototype Assault Rifle" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_schinese`
 - Item 2002 "S23A SynTek Autogun" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_schinese`
@@ -123,15 +97,7 @@
 - Item 3015 "MNV34 Nightvision Goggles" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_schinese`
 - Item 3016 "MTD6 Smart Bomb" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_schinese`
 - Item 3017 "TG-05 Gas Grenades" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_schinese`
-- Item 5000 "Missions" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_schinese`, `accessory_description_schinese`, `display_type_schinese`
-- Item 5001 "Successful Missions" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_schinese`, `accessory_description_schinese`, `display_type_schinese`
-- Item 5002 "Aliens Killed" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_schinese`, `accessory_description_schinese`, `display_type_schinese`
-- Item 5003 "Healing" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_schinese`, `accessory_description_schinese`, `display_type_schinese`
-- Item 5004 "Fast Hacks" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_schinese`, `accessory_description_schinese`, `display_type_schinese`
-- Item 5005 "Enemies Frozen" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_schinese`, `accessory_description_schinese`, `display_type_schinese`
-- Item 5006 "Allies Extinguished" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_schinese`, `accessory_description_schinese`, `display_type_schinese`
-- Item 5007 "Alien Kill Streak" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_schinese`, `accessory_description_schinese`, `display_type_schinese`
-- Item 5008 "Infestations Cured" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_schinese`, `accessory_description_schinese`, `display_type_schinese`
+- Item 5007 "连杀异形" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_schinese`
 
 </details>
 
@@ -412,7 +378,7 @@
 - Item 5004 "Fast Hacks" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_tchinese`, `accessory_description_tchinese`, `display_type_tchinese`
 - Item 5005 "Enemies Frozen" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_tchinese`, `accessory_description_tchinese`, `display_type_tchinese`
 - Item 5006 "Allies Extinguished" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_tchinese`, `accessory_description_tchinese`, `display_type_tchinese`
-- Item 5007 "Alien Kill Streak" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_tchinese`, `accessory_description_tchinese`, `display_type_tchinese`
+- Item 5007 "连杀异形" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_tchinese`, `accessory_description_tchinese`, `display_type_tchinese`
 - Item 5008 "Infestations Cured" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_tchinese`, `accessory_description_tchinese`, `display_type_tchinese`
 - Item 900000000 "Ben Lubar" in [item-schema-unique.json](community/inventory_service/item-schema-unique.json) is missing `name_tchinese`, `briefing_name_tchinese`
 
@@ -699,7 +665,7 @@
 - Item 5004 "Fast Hacks" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_czech`, `accessory_description_czech`, `display_type_czech`
 - Item 5005 "Enemies Frozen" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_czech`, `accessory_description_czech`, `display_type_czech`
 - Item 5006 "Allies Extinguished" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_czech`, `accessory_description_czech`, `display_type_czech`
-- Item 5007 "Alien Kill Streak" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_czech`, `accessory_description_czech`, `display_type_czech`
+- Item 5007 "连杀异形" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_czech`, `accessory_description_czech`, `display_type_czech`
 - Item 5008 "Infestations Cured" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_czech`, `accessory_description_czech`, `display_type_czech`
 - Item 900000000 "Ben Lubar" in [item-schema-unique.json](community/inventory_service/item-schema-unique.json) is missing `name_czech`, `briefing_name_czech`
 
@@ -964,7 +930,7 @@
 - Item 5004 "Fast Hacks" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_french`, `accessory_description_french`, `display_type_french`
 - Item 5005 "Enemies Frozen" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_french`, `accessory_description_french`, `display_type_french`
 - Item 5006 "Allies Extinguished" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_french`, `accessory_description_french`, `display_type_french`
-- Item 5007 "Alien Kill Streak" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_french`, `accessory_description_french`, `display_type_french`
+- Item 5007 "连杀异形" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_french`, `accessory_description_french`, `display_type_french`
 - Item 5008 "Infestations Cured" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_french`, `accessory_description_french`, `display_type_french`
 - Item 900000000 "Ben Lubar" in [item-schema-unique.json](community/inventory_service/item-schema-unique.json) is missing `name_french`, `briefing_name_french`
 
@@ -979,6 +945,10 @@
 ### Strings
 
 - [signage_german.vdf](misc/signage/signage_german.vdf) has 69 untranslated strings.
+
+### Inventory Schema</summary>
+
+- Item 29 "Streamer" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_german`, `briefing_name_german`, `description_german`
 
 </details>
 
@@ -1184,7 +1154,7 @@
 - Item 5004 "Fast Hacks" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_koreana`, `accessory_description_koreana`, `display_type_koreana`
 - Item 5005 "Enemies Frozen" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_koreana`, `accessory_description_koreana`, `display_type_koreana`
 - Item 5006 "Allies Extinguished" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_koreana`, `accessory_description_koreana`, `display_type_koreana`
-- Item 5007 "Alien Kill Streak" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_koreana`, `accessory_description_koreana`, `display_type_koreana`
+- Item 5007 "连杀异形" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_koreana`, `accessory_description_koreana`, `display_type_koreana`
 - Item 5008 "Infestations Cured" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_koreana`, `accessory_description_koreana`, `display_type_koreana`
 - Item 900000000 "Ben Lubar" in [item-schema-unique.json](community/inventory_service/item-schema-unique.json) is missing `name_koreana`, `briefing_name_koreana`
 
@@ -1472,7 +1442,7 @@
 - Item 5004 "Fast Hacks" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_polish`, `accessory_description_polish`, `display_type_polish`
 - Item 5005 "Enemies Frozen" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_polish`, `accessory_description_polish`, `display_type_polish`
 - Item 5006 "Allies Extinguished" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_polish`, `accessory_description_polish`, `display_type_polish`
-- Item 5007 "Alien Kill Streak" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_polish`, `accessory_description_polish`, `display_type_polish`
+- Item 5007 "连杀异形" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_polish`, `accessory_description_polish`, `display_type_polish`
 - Item 5008 "Infestations Cured" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_polish`, `accessory_description_polish`, `display_type_polish`
 - Item 900000000 "Ben Lubar" in [item-schema-unique.json](community/inventory_service/item-schema-unique.json) is missing `name_polish`, `briefing_name_polish`
 
@@ -1742,7 +1712,7 @@
 - Item 5004 "Fast Hacks" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_portuguese`, `accessory_description_portuguese`, `display_type_portuguese`
 - Item 5005 "Enemies Frozen" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_portuguese`, `accessory_description_portuguese`, `display_type_portuguese`
 - Item 5006 "Allies Extinguished" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_portuguese`, `accessory_description_portuguese`, `display_type_portuguese`
-- Item 5007 "Alien Kill Streak" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_portuguese`, `accessory_description_portuguese`, `display_type_portuguese`
+- Item 5007 "连杀异形" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_portuguese`, `accessory_description_portuguese`, `display_type_portuguese`
 - Item 5008 "Infestations Cured" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_portuguese`, `accessory_description_portuguese`, `display_type_portuguese`
 
 </details>
@@ -1851,7 +1821,7 @@
 - Item 5004 "Fast Hacks" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_brazilian`, `accessory_description_brazilian`, `display_type_brazilian`
 - Item 5005 "Enemies Frozen" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_brazilian`, `accessory_description_brazilian`, `display_type_brazilian`
 - Item 5006 "Allies Extinguished" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_brazilian`, `accessory_description_brazilian`, `display_type_brazilian`
-- Item 5007 "Alien Kill Streak" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_brazilian`, `accessory_description_brazilian`, `display_type_brazilian`
+- Item 5007 "连杀异形" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_brazilian`, `accessory_description_brazilian`, `display_type_brazilian`
 - Item 5008 "Infestations Cured" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_brazilian`, `accessory_description_brazilian`, `display_type_brazilian`
 
 </details>
@@ -2146,7 +2116,7 @@
 - Item 5004 "Fast Hacks" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_spanish`, `accessory_description_spanish`, `display_type_spanish`
 - Item 5005 "Enemies Frozen" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_spanish`, `accessory_description_spanish`, `display_type_spanish`
 - Item 5006 "Allies Extinguished" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_spanish`, `accessory_description_spanish`, `display_type_spanish`
-- Item 5007 "Alien Kill Streak" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_spanish`, `accessory_description_spanish`, `display_type_spanish`
+- Item 5007 "连杀异形" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_spanish`, `accessory_description_spanish`, `display_type_spanish`
 - Item 5008 "Infestations Cured" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_spanish`, `accessory_description_spanish`, `display_type_spanish`
 - Item 900000000 "Ben Lubar" in [item-schema-unique.json](community/inventory_service/item-schema-unique.json) is missing `name_spanish`, `briefing_name_spanish`
 
@@ -2434,7 +2404,7 @@
 - Item 5004 "Fast Hacks" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_latam`, `accessory_description_latam`, `display_type_latam`
 - Item 5005 "Enemies Frozen" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_latam`, `accessory_description_latam`, `display_type_latam`
 - Item 5006 "Allies Extinguished" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_latam`, `accessory_description_latam`, `display_type_latam`
-- Item 5007 "Alien Kill Streak" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_latam`, `accessory_description_latam`, `display_type_latam`
+- Item 5007 "连杀异形" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_latam`, `accessory_description_latam`, `display_type_latam`
 - Item 5008 "Infestations Cured" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_latam`, `accessory_description_latam`, `display_type_latam`
 - Item 900000000 "Ben Lubar" in [item-schema-unique.json](community/inventory_service/item-schema-unique.json) is missing `name_latam`, `briefing_name_latam`
 
@@ -2720,7 +2690,7 @@
 - Item 5004 "Fast Hacks" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_ukrainian`, `accessory_description_ukrainian`, `display_type_ukrainian`
 - Item 5005 "Enemies Frozen" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_ukrainian`, `accessory_description_ukrainian`, `display_type_ukrainian`
 - Item 5006 "Allies Extinguished" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_ukrainian`, `accessory_description_ukrainian`, `display_type_ukrainian`
-- Item 5007 "Alien Kill Streak" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_ukrainian`, `accessory_description_ukrainian`, `display_type_ukrainian`
+- Item 5007 "连杀异形" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_ukrainian`, `accessory_description_ukrainian`, `display_type_ukrainian`
 - Item 5008 "Infestations Cured" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_ukrainian`, `accessory_description_ukrainian`, `display_type_ukrainian`
 
 </details>
@@ -2994,7 +2964,7 @@
 - Item 5004 "Fast Hacks" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_vietnamese`, `accessory_description_vietnamese`, `display_type_vietnamese`
 - Item 5005 "Enemies Frozen" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_vietnamese`, `accessory_description_vietnamese`, `display_type_vietnamese`
 - Item 5006 "Allies Extinguished" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_vietnamese`, `accessory_description_vietnamese`, `display_type_vietnamese`
-- Item 5007 "Alien Kill Streak" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_vietnamese`, `accessory_description_vietnamese`, `display_type_vietnamese`
+- Item 5007 "连杀异形" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_vietnamese`, `accessory_description_vietnamese`, `display_type_vietnamese`
 - Item 5008 "Infestations Cured" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_vietnamese`, `accessory_description_vietnamese`, `display_type_vietnamese`
 - Item 900000000 "Ben Lubar" in [item-schema-unique.json](community/inventory_service/item-schema-unique.json) is missing `name_vietnamese`, `briefing_name_vietnamese`
 
