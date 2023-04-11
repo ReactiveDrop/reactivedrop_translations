@@ -6690,9 +6690,9 @@
 "[english]asw_clear_all_biomass"		"Clear all biomass"
 "asw_reactor_is_offline"		"Reactor ist offline"
 "[english]asw_reactor_is_offline"		"Reactor is offline"
-"ocs_uscmedusa_4_title"		"Betretet die Stasiskapseln"
+"ocs_uscmedusa_4_title"		"Betretet die Rettungskapseln"
 "[english]ocs_uscmedusa_4_title"		"Enter the stasis pods"
-"ocs_uscmedusa_4a"		"Betretet die Stasiskapseln, um interstellares Reisen einzuleiten"
+"ocs_uscmedusa_4a"		"Betretet die Rettungskapseln, um interstellares Reisen einzuleiten"
 "[english]ocs_uscmedusa_4a"		"Enter the statis pods to inititate interstellar travel"
 "tf1_desertoutpost_1_title"		"Einweisung"
 // Tears for Tarnor strings

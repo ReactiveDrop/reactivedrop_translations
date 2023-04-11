@@ -43,9 +43,9 @@
 		// this texture is displayed rotated 90 degrees so the text is going vertically up and the part in brackets is in a box at the top laid out normally.
 		// if your language requires a different layout, be sure to leave a translator comment.
 		"[english]materials/ocs/ocs_landingbay.vmt"		"LANDING BAY [5]\nLANDING BAY [6]\nLANDING BAY [7]"
-		"materials/ocs/ocs_statispods.vmt"		"STASIS PODS\n1 2\n3 4"
+		"materials/ocs/ocs_statispods.vmt"		"RETTUNGSKAPSELN\n1 2\n3 4"
 		"[english]materials/ocs/ocs_statispods.vmt"		"STASIS PODS\n1 2\n3 4"
-		"materials/ocs/ocs_statispods02.vmt"		"STASIS PODS\n1 2 3 4\n5 6 7 8\n9 10 11 12"
+		"materials/ocs/ocs_statispods02.vmt"		"RETTUNGSKAPSELN\n1 2 3 4\n5 6 7 8\n9 10 11 12"
 		"[english]materials/ocs/ocs_statispods02.vmt"		"STASIS PODS\n1 2 3 4\n5 6 7 8\n9 10 11 12"
 		"materials/overlays/cautiondoor.vmt"		"VORSICHT TÜR"
 		"[english]materials/overlays/cautiondoor.vmt"		"CAUTION DOOR"
