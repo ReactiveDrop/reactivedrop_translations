@@ -71,7 +71,7 @@
 "[english]materials/signage/bts_sign_manufacturing_01.vmt"		"MANUFACTURING"
 "materials/signage/bts_sign_observation_01.vmt"		"КОМНАТА\nНАБЛЮДЕНИЯ"
 "[english]materials/signage/bts_sign_observation_01.vmt"		"OBSERVATION\nROOM"
-"materials/signage/bts_sign_override_01.vmt"		"ПЕРЕЗАПИСЬ"
+"materials/signage/bts_sign_override_01.vmt"		"РУЧНОЕ УПРАВЛЕНИЕ"
 "[english]materials/signage/bts_sign_override_01.vmt"		"OVERRIDE"
 "materials/signage/bts_sign_shutdown_01.vmt"		"ОТКЛЮЧЕНИЕ"
 "[english]materials/signage/bts_sign_shutdown_01.vmt"		"SHUTDOWN"
@@ -101,8 +101,7 @@
 "materials/signage/underground_depth.vmt"		"2500 м"
 // 2500 meters
 "[english]materials/signage/underground_depth.vmt"		"2500m"
-// fan icon should be going before second word for this
-"materials/signage/underground_fan_shutdown.vmt"		"ОТКЛЮЧЕНИЕ\nВЕНТИЛЯТОРА"
+"materials/signage/underground_fan_shutdown.vmt"		"ВЕНТИЛЯТОР-\nОТКЛЮЧЕНИЕ"
 "[english]materials/signage/underground_fan_shutdown.vmt"		"FAN\nSHUTDOWN"
 "materials/signage/underground_keepout.vmt"		"НЕ\nВХОДИТЬ"
 "[english]materials/signage/underground_keepout.vmt"		"KEEP\nOUT"
