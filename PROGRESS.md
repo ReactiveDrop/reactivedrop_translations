@@ -8,7 +8,7 @@
 | [Dutch](#non-curated-languages) | 49 | 2004 | 10 | 2379 | 196 | 533 | 285 | 145 |
 | [Finnish](#non-curated-languages) | 49 | 2004 | 10 | 2379 | 196 | 533 | 285 | 145 |
 | [French](#french-français) | 25 | 129 | 10 | 1731 | 196 | 467 | 271 | 124 |
-| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | 1 | ✔️ | 69 | 3 | ✔️ |
+| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 69 | ✔️ | ✔️ |
 | [Hungarian](#non-curated-languages) | 49 | 129 | 10 | 2379 | 196 | 798 | 285 | 146 |
 | [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | 12 | ✔️ | 102 | ✔️ | ✔️ |
@@ -979,11 +979,6 @@
 ### Strings
 
 - [signage_german.vdf](misc/signage/signage_german.vdf) has 69 untranslated strings.
-- [reactivedrop_german.txt](resource/reactivedrop_german.txt) has 1 untranslated strings.
-
-### Inventory Schema</summary>
-
-- Item 29 "Streamer" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_german`, `briefing_name_german`, `description_german`
 
 </details>
 
