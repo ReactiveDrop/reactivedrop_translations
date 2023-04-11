@@ -52,7 +52,7 @@
 		"materials/overlays/landing_area1.vmt"		"H"
 		// this should be what you'd expect to find on a helicopter landing pad
 		"[english]materials/overlays/landing_area1.vmt"		"H"
-		"materials/overlays/watchyourstep.vmt"		"PASS AUF, WO DU HINTRITTST"
+		"materials/overlays/watchyourstep.vmt"		"PASS AUF WO DU HINTRITTST"
 		"[english]materials/overlays/watchyourstep.vmt"		"WATCH YOUR STEP"
 		"materials/signage/bts_sign_authorizedonly_01.vmt"		"NUR AUTORISIERTES\nPERSONAL"
 		"[english]materials/signage/bts_sign_authorizedonly_01.vmt"		"AUTHORIZED\nPERSONNEL ONLY"
