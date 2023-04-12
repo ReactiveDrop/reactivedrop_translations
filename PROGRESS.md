@@ -18,7 +18,7 @@
 | [European Portuguese](#portuguese-português-europeu) | ✔️ | 171 | ✔️ | 1569 | 23 | 459 | 364 | 139 |
 | [Brazilian Portuguese](#brazilian-português) | ✔️ | 2004 | ✔️ | 625 | 5 | 86 | 152 | 5 |
 | [Romanian](#non-curated-languages) | 49 | 1996 | 16 | 3104 | 196 | 798 | 406 | 146 |
-| [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 16 | ✔️ |
+| [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [European Spanish](#spanish-español-de-españa) | 26 | 2004 | 8 | 1783 | 196 | 537 | 356 | 145 |
 | [Latin American Spanish](#latam-español-latinoamericano) | 1279 | 2004 | 605 | 3918 | 200 | 803 | 442 | 146 |
 | [Swedish](#non-curated-languages) | 49 | 2004 | 10 | 2379 | 196 | 533 | 360 | 146 |
@@ -1930,16 +1930,7 @@
 
 </summary>
 
-### Inventory Schema</summary>
-
-- Item 31 "Elite - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `style_0_name_russian`
-- Item 32 "Elite - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `style_0_name_russian`
-- Item 33 "Elite - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `style_0_name_russian`
-- Item 34 "Elite - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `style_0_name_russian`
-- Item 35 "Top 20 - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `description_russian`, `style_0_name_russian`, `style_1_name_russian`
-- Item 36 "Top 20 - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `description_russian`, `style_0_name_russian`, `style_1_name_russian`
-- Item 37 "Top 20 - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `description_russian`, `style_0_name_russian`, `style_1_name_russian`
-- Item 38 "Top 20 - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `description_russian`, `style_0_name_russian`, `style_1_name_russian`
+✓ Up to date!
 
 </details>
 
