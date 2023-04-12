@@ -10,7 +10,7 @@
 | [French](#french-français) | 25 | 129 | 10 | 1731 | 196 | 467 | 346 | 124 |
 | [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 69 | 19 | ✔️ |
 | [Hungarian](#non-curated-languages) | 49 | 129 | 10 | 2379 | 196 | 798 | 360 | 146 |
-| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 16 | ✔️ |
+| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | 12 | ✔️ | 102 | 20 | ✔️ |
 | [Korean](#koreana-한국어) | 5 | 1 | 6 | 862 | 18 | 251 | 346 | 47 |
 | [Norwegian Bokmål](#non-curated-languages) | 67 | 704 | 15 | 3099 | 196 | 533 | 429 | 146 |
@@ -1001,16 +1001,7 @@
 
 </summary>
 
-### Inventory Schema</summary>
-
-- Item 31 "Elite - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `style_0_name_italian`
-- Item 32 "Elite - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `style_0_name_italian`
-- Item 33 "Elite - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `style_0_name_italian`
-- Item 34 "Elite - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `style_0_name_italian`
-- Item 35 "Top 20 - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `description_italian`, `style_0_name_italian`, `style_1_name_italian`
-- Item 36 "Top 20 - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `description_italian`, `style_0_name_italian`, `style_1_name_italian`
-- Item 37 "Top 20 - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `description_italian`, `style_0_name_italian`, `style_1_name_italian`
-- Item 38 "Top 20 - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `description_italian`, `style_0_name_italian`, `style_1_name_italian`
+✓ Up to date!
 
 </details>
 
