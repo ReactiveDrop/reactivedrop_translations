@@ -1,31 +1,31 @@
 # Overview
 | Language | basemodui | closecaption | gameui | reactivedrop | statsweb | Strings | Inventory | Files |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 46 | 4 |
-| [Traditional Chinese](#tchinese-繁體中文) | 7 | 131 | 1 | 2260 | 196 | 148 | 283 | 145 |
-| [Czech](#czech-čeština) | 69 | 1807 | 10 | 3403 | 196 | 803 | 353 | 145 |
-| [Danish](#non-curated-languages) | 50 | 222 | 10 | 2924 | 196 | 533 | 348 | 146 |
-| [Dutch](#non-curated-languages) | 49 | 2004 | 10 | 2379 | 196 | 533 | 285 | 145 |
-| [Finnish](#non-curated-languages) | 49 | 2004 | 10 | 2379 | 196 | 533 | 285 | 145 |
-| [French](#french-français) | 25 | 129 | 10 | 1731 | 196 | 467 | 271 | 124 |
-| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 69 | 3 | ✔️ |
-| [Hungarian](#non-curated-languages) | 49 | 129 | 10 | 2379 | 196 | 798 | 285 | 146 |
-| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
-| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | 12 | ✔️ | 102 | ✔️ | ✔️ |
-| [Korean](#koreana-한국어) | 5 | 1 | 6 | 862 | 18 | 251 | 271 | 47 |
-| [Norwegian Bokmål](#non-curated-languages) | 67 | 704 | 15 | 3099 | 196 | 533 | 354 | 146 |
-| [Polish](#polish-polski) | 26 | 2004 | 10 | 2379 | 196 | 533 | 285 | 146 |
-| [European Portuguese](#portuguese-português-europeu) | ✔️ | 171 | ✔️ | 1569 | 23 | 459 | 289 | 139 |
-| [Brazilian Portuguese](#brazilian-português) | ✔️ | 2004 | ✔️ | 625 | 5 | 86 | 132 | 5 |
-| [Romanian](#non-curated-languages) | 49 | 1996 | 16 | 3104 | 196 | 798 | 331 | 146 |
-| [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
-| [European Spanish](#spanish-español-de-españa) | 26 | 2004 | 8 | 1783 | 196 | 537 | 281 | 145 |
-| [Latin American Spanish](#latam-español-latinoamericano) | 1279 | 2004 | 605 | 3918 | 200 | 803 | 367 | 146 |
-| [Swedish](#non-curated-languages) | 49 | 2004 | 10 | 2379 | 196 | 533 | 285 | 146 |
-| [Thai](#non-curated-languages) | 964 | 1993 | 18 | 3654 | 196 | 562 | 364 | 146 |
-| [Turkish](#non-curated-languages) | 49 | 128 | 10 | 2379 | 196 | 798 | 285 | 146 |
-| [Ukrainian](#ukrainian-українська) | 25 | 122 | 8 | 1911 | 196 | 790 | 278 | 145 |
-| [Vietnamese](#vietnamese-tiếng-việt) | 1279 | 2004 | 605 | 3918 | 196 | 749 | 367 | 133 |
+| [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 66 | 4 |
+| [Traditional Chinese](#tchinese-繁體中文) | 7 | 131 | 1 | 2260 | 196 | 148 | 358 | 145 |
+| [Czech](#czech-čeština) | 69 | 1807 | 10 | 3403 | 196 | 803 | 428 | 145 |
+| [Danish](#non-curated-languages) | 50 | 222 | 10 | 2924 | 196 | 533 | 423 | 146 |
+| [Dutch](#non-curated-languages) | 49 | 2004 | 10 | 2379 | 196 | 533 | 360 | 145 |
+| [Finnish](#non-curated-languages) | 49 | 2004 | 10 | 2379 | 196 | 533 | 360 | 145 |
+| [French](#french-français) | 25 | 129 | 10 | 1731 | 196 | 467 | 346 | 124 |
+| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 69 | 19 | ✔️ |
+| [Hungarian](#non-curated-languages) | 49 | 129 | 10 | 2379 | 196 | 798 | 360 | 146 |
+| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 16 | ✔️ |
+| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | 12 | ✔️ | 102 | 20 | ✔️ |
+| [Korean](#koreana-한국어) | 5 | 1 | 6 | 862 | 18 | 251 | 346 | 47 |
+| [Norwegian Bokmål](#non-curated-languages) | 67 | 704 | 15 | 3099 | 196 | 533 | 429 | 146 |
+| [Polish](#polish-polski) | 26 | 2004 | 10 | 2379 | 196 | 533 | 360 | 146 |
+| [European Portuguese](#portuguese-português-europeu) | ✔️ | 171 | ✔️ | 1569 | 23 | 459 | 364 | 139 |
+| [Brazilian Portuguese](#brazilian-português) | ✔️ | 2004 | ✔️ | 625 | 5 | 86 | 152 | 5 |
+| [Romanian](#non-curated-languages) | 49 | 1996 | 16 | 3104 | 196 | 798 | 406 | 146 |
+| [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 16 | ✔️ |
+| [European Spanish](#spanish-español-de-españa) | 26 | 2004 | 8 | 1783 | 196 | 537 | 356 | 145 |
+| [Latin American Spanish](#latam-español-latinoamericano) | 1279 | 2004 | 605 | 3918 | 200 | 803 | 442 | 146 |
+| [Swedish](#non-curated-languages) | 49 | 2004 | 10 | 2379 | 196 | 533 | 360 | 146 |
+| [Thai](#non-curated-languages) | 964 | 1993 | 18 | 3654 | 196 | 562 | 439 | 146 |
+| [Turkish](#non-curated-languages) | 49 | 128 | 10 | 2379 | 196 | 798 | 360 | 146 |
+| [Ukrainian](#ukrainian-українська) | 25 | 122 | ✔️ | 1911 | 196 | 744 | 353 | 145 |
+| [Vietnamese](#vietnamese-tiếng-việt) | 1279 | 2004 | 605 | 3918 | 196 | 749 | 442 | 133 |
 ### Legend
 - ***Non-capitalized column headers*** are the most important specific files and their number of missing strings. All of these txt-files are located in the resources folder. Except statsweb, which lies in community/stats_website, it's an vdf-file.
 - ***Strings*** is the number of missing strings not included in one of the files which get an individual non-capitalized column.
@@ -52,6 +52,14 @@
 
 ### Inventory Schema</summary>
 
+- Item 31 "Elite - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `description_schinese`, `style_0_name_schinese`
+- Item 32 "Elite - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `description_schinese`, `style_0_name_schinese`
+- Item 33 "Elite - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `description_schinese`, `style_0_name_schinese`
+- Item 34 "Elite - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `description_schinese`, `style_0_name_schinese`
+- Item 35 "Top 20 - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `description_schinese`, `style_0_name_schinese`, `style_1_name_schinese`
+- Item 36 "Top 20 - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `description_schinese`, `style_0_name_schinese`, `style_1_name_schinese`
+- Item 37 "Top 20 - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `description_schinese`, `style_0_name_schinese`, `style_1_name_schinese`
+- Item 38 "Top 20 - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `description_schinese`, `style_0_name_schinese`, `style_1_name_schinese`
 - Item 2000 "22A3-1 Assault Rifle" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_schinese`
 - Item 2001 "22A7-Z Prototype Assault Rifle" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_schinese`
 - Item 2002 "S23A SynTek Autogun" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_schinese`
@@ -300,6 +308,15 @@
 - Item 26 "Accident 32 Veteran" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_tchinese`, `briefing_name_tchinese`, `description_tchinese`, `display_type_tchinese`
 - Item 27 "Adanaxis Veteran" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_tchinese`, `briefing_name_tchinese`, `description_tchinese`, `display_type_tchinese`
 - Item 28 "Priority Number One" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_tchinese`, `briefing_name_tchinese`, `description_tchinese`, `display_type_tchinese`
+- Item 30 "Participant - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_tchinese`, `briefing_name_tchinese`, `description_tchinese`, `before_description_tchinese`, `after_description_tchinese`, `display_type_tchinese`, `style_0_name_tchinese`
+- Item 31 "Elite - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_tchinese`, `briefing_name_tchinese`, `description_tchinese`, `before_description_tchinese`, `after_description_tchinese`, `display_type_tchinese`, `style_0_name_tchinese`, `style_1_name_tchinese`
+- Item 32 "Elite - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_tchinese`, `briefing_name_tchinese`, `description_tchinese`, `before_description_tchinese`, `after_description_tchinese`, `display_type_tchinese`, `style_0_name_tchinese`, `style_1_name_tchinese`
+- Item 33 "Elite - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_tchinese`, `briefing_name_tchinese`, `description_tchinese`, `before_description_tchinese`, `after_description_tchinese`, `display_type_tchinese`, `style_0_name_tchinese`, `style_1_name_tchinese`
+- Item 34 "Elite - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_tchinese`, `briefing_name_tchinese`, `description_tchinese`, `before_description_tchinese`, `after_description_tchinese`, `display_type_tchinese`, `style_0_name_tchinese`, `style_1_name_tchinese`
+- Item 35 "Top 20 - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_tchinese`, `briefing_name_tchinese`, `description_tchinese`, `before_description_tchinese`, `after_description_tchinese`, `display_type_tchinese`, `style_0_name_tchinese`, `style_1_name_tchinese`, `style_2_name_tchinese`
+- Item 36 "Top 20 - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_tchinese`, `briefing_name_tchinese`, `description_tchinese`, `before_description_tchinese`, `after_description_tchinese`, `display_type_tchinese`, `style_0_name_tchinese`, `style_1_name_tchinese`, `style_2_name_tchinese`
+- Item 37 "Top 20 - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_tchinese`, `briefing_name_tchinese`, `description_tchinese`, `before_description_tchinese`, `after_description_tchinese`, `display_type_tchinese`, `style_0_name_tchinese`, `style_1_name_tchinese`, `style_2_name_tchinese`
+- Item 38 "Top 20 - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_tchinese`, `briefing_name_tchinese`, `description_tchinese`, `before_description_tchinese`, `after_description_tchinese`, `display_type_tchinese`, `style_0_name_tchinese`, `style_1_name_tchinese`, `style_2_name_tchinese`
 - Item 7 "Translator" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_tchinese`, `briefing_name_tchinese`, `description_tchinese`, `display_type_tchinese`
 - Item 8 "Programmer" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_tchinese`, `briefing_name_tchinese`, `description_tchinese`, `display_type_tchinese`
 - Item 9 "Mapper" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_tchinese`, `briefing_name_tchinese`, `description_tchinese`, `display_type_tchinese`
@@ -587,6 +604,15 @@
 - Item 26 "Accident 32 Veteran" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_czech`, `briefing_name_czech`, `description_czech`, `display_type_czech`
 - Item 27 "Adanaxis Veteran" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_czech`, `briefing_name_czech`, `description_czech`, `display_type_czech`
 - Item 28 "Priority Number One" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_czech`, `briefing_name_czech`, `description_czech`, `display_type_czech`
+- Item 30 "Participant - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_czech`, `briefing_name_czech`, `description_czech`, `before_description_czech`, `after_description_czech`, `display_type_czech`, `style_0_name_czech`
+- Item 31 "Elite - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_czech`, `briefing_name_czech`, `description_czech`, `before_description_czech`, `after_description_czech`, `display_type_czech`, `style_0_name_czech`, `style_1_name_czech`
+- Item 32 "Elite - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_czech`, `briefing_name_czech`, `description_czech`, `before_description_czech`, `after_description_czech`, `display_type_czech`, `style_0_name_czech`, `style_1_name_czech`
+- Item 33 "Elite - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_czech`, `briefing_name_czech`, `description_czech`, `before_description_czech`, `after_description_czech`, `display_type_czech`, `style_0_name_czech`, `style_1_name_czech`
+- Item 34 "Elite - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_czech`, `briefing_name_czech`, `description_czech`, `before_description_czech`, `after_description_czech`, `display_type_czech`, `style_0_name_czech`, `style_1_name_czech`
+- Item 35 "Top 20 - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_czech`, `briefing_name_czech`, `description_czech`, `before_description_czech`, `after_description_czech`, `display_type_czech`, `style_0_name_czech`, `style_1_name_czech`, `style_2_name_czech`
+- Item 36 "Top 20 - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_czech`, `briefing_name_czech`, `description_czech`, `before_description_czech`, `after_description_czech`, `display_type_czech`, `style_0_name_czech`, `style_1_name_czech`, `style_2_name_czech`
+- Item 37 "Top 20 - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_czech`, `briefing_name_czech`, `description_czech`, `before_description_czech`, `after_description_czech`, `display_type_czech`, `style_0_name_czech`, `style_1_name_czech`, `style_2_name_czech`
+- Item 38 "Top 20 - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_czech`, `briefing_name_czech`, `description_czech`, `before_description_czech`, `after_description_czech`, `display_type_czech`, `style_0_name_czech`, `style_1_name_czech`, `style_2_name_czech`
 - Item 7 "Translator" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_czech`, `briefing_name_czech`, `description_czech`, `display_type_czech`
 - Item 8 "Programmer" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_czech`, `briefing_name_czech`, `description_czech`, `display_type_czech`
 - Item 9 "Mapper" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_czech`, `briefing_name_czech`, `description_czech`, `display_type_czech`
@@ -852,6 +878,15 @@
 - Item 26 "Accident 32 Veteran" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_french`, `briefing_name_french`, `description_french`, `display_type_french`
 - Item 27 "Adanaxis Veteran" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_french`, `briefing_name_french`, `description_french`, `display_type_french`
 - Item 28 "Priority Number One" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_french`, `briefing_name_french`, `description_french`, `display_type_french`
+- Item 30 "Participant - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_french`, `briefing_name_french`, `description_french`, `before_description_french`, `after_description_french`, `display_type_french`, `style_0_name_french`
+- Item 31 "Elite - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_french`, `briefing_name_french`, `description_french`, `before_description_french`, `after_description_french`, `display_type_french`, `style_0_name_french`, `style_1_name_french`
+- Item 32 "Elite - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_french`, `briefing_name_french`, `description_french`, `before_description_french`, `after_description_french`, `display_type_french`, `style_0_name_french`, `style_1_name_french`
+- Item 33 "Elite - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_french`, `briefing_name_french`, `description_french`, `before_description_french`, `after_description_french`, `display_type_french`, `style_0_name_french`, `style_1_name_french`
+- Item 34 "Elite - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_french`, `briefing_name_french`, `description_french`, `before_description_french`, `after_description_french`, `display_type_french`, `style_0_name_french`, `style_1_name_french`
+- Item 35 "Top 20 - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_french`, `briefing_name_french`, `description_french`, `before_description_french`, `after_description_french`, `display_type_french`, `style_0_name_french`, `style_1_name_french`, `style_2_name_french`
+- Item 36 "Top 20 - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_french`, `briefing_name_french`, `description_french`, `before_description_french`, `after_description_french`, `display_type_french`, `style_0_name_french`, `style_1_name_french`, `style_2_name_french`
+- Item 37 "Top 20 - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_french`, `briefing_name_french`, `description_french`, `before_description_french`, `after_description_french`, `display_type_french`, `style_0_name_french`, `style_1_name_french`, `style_2_name_french`
+- Item 38 "Top 20 - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_french`, `briefing_name_french`, `description_french`, `before_description_french`, `after_description_french`, `display_type_french`, `style_0_name_french`, `style_1_name_french`, `style_2_name_french`
 - Item 7 "Translator" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_french`, `briefing_name_french`, `description_french`, `display_type_french`
 - Item 8 "Programmer" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_french`, `briefing_name_french`, `description_french`, `display_type_french`
 - Item 9 "Mapper" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_french`, `briefing_name_french`, `description_french`, `display_type_french`
@@ -948,6 +983,14 @@
 
 ### Inventory Schema</summary>
 
+- Item 31 "Elite - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `style_0_name_german`
+- Item 32 "Elite - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `style_0_name_german`
+- Item 33 "Elite - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `style_0_name_german`
+- Item 34 "Elite - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `style_0_name_german`
+- Item 35 "Top 20 - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `description_german`, `style_0_name_german`, `style_1_name_german`
+- Item 36 "Top 20 - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `description_german`, `style_0_name_german`, `style_1_name_german`
+- Item 37 "Top 20 - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `description_german`, `style_0_name_german`, `style_1_name_german`
+- Item 38 "Top 20 - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `description_german`, `style_0_name_german`, `style_1_name_german`
 - Item 29 "Streamer" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_german`, `briefing_name_german`, `description_german`
 
 </details>
@@ -958,7 +1001,16 @@
 
 </summary>
 
-✓ Up to date!
+### Inventory Schema</summary>
+
+- Item 31 "Elite - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `style_0_name_italian`
+- Item 32 "Elite - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `style_0_name_italian`
+- Item 33 "Elite - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `style_0_name_italian`
+- Item 34 "Elite - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `style_0_name_italian`
+- Item 35 "Top 20 - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `description_italian`, `style_0_name_italian`, `style_1_name_italian`
+- Item 36 "Top 20 - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `description_italian`, `style_0_name_italian`, `style_1_name_italian`
+- Item 37 "Top 20 - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `description_italian`, `style_0_name_italian`, `style_1_name_italian`
+- Item 38 "Top 20 - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `description_italian`, `style_0_name_italian`, `style_1_name_italian`
 
 </details>
 
@@ -973,6 +1025,17 @@
 - [signage_japanese.vdf](misc/signage/signage_japanese.vdf) has 67 untranslated strings.
 - [vgui_japanese.txt](platform/vgui_japanese.txt) has 35 untranslated strings.
 - [reactivedrop_japanese.txt](resource/reactivedrop_japanese.txt) has 12 untranslated strings.
+
+### Inventory Schema</summary>
+
+- Item 31 "Elite - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `description_japanese`, `style_0_name_japanese`
+- Item 32 "Elite - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `description_japanese`, `style_0_name_japanese`
+- Item 33 "Elite - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `description_japanese`, `style_0_name_japanese`
+- Item 34 "Elite - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `description_japanese`, `style_0_name_japanese`
+- Item 35 "Top 20 - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `description_japanese`, `style_0_name_japanese`, `style_1_name_japanese`
+- Item 36 "Top 20 - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `description_japanese`, `style_0_name_japanese`, `style_1_name_japanese`
+- Item 37 "Top 20 - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `description_japanese`, `style_0_name_japanese`, `style_1_name_japanese`
+- Item 38 "Top 20 - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `description_japanese`, `style_0_name_japanese`, `style_1_name_japanese`
 
 </details>
 
@@ -1076,6 +1139,15 @@
 - Item 26 "Accident 32 Veteran" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_koreana`, `briefing_name_koreana`, `description_koreana`, `display_type_koreana`
 - Item 27 "Adanaxis Veteran" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_koreana`, `briefing_name_koreana`, `description_koreana`, `display_type_koreana`
 - Item 28 "Priority Number One" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_koreana`, `briefing_name_koreana`, `description_koreana`, `display_type_koreana`
+- Item 30 "Participant - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_koreana`, `briefing_name_koreana`, `description_koreana`, `before_description_koreana`, `after_description_koreana`, `display_type_koreana`, `style_0_name_koreana`
+- Item 31 "Elite - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_koreana`, `briefing_name_koreana`, `description_koreana`, `before_description_koreana`, `after_description_koreana`, `display_type_koreana`, `style_0_name_koreana`, `style_1_name_koreana`
+- Item 32 "Elite - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_koreana`, `briefing_name_koreana`, `description_koreana`, `before_description_koreana`, `after_description_koreana`, `display_type_koreana`, `style_0_name_koreana`, `style_1_name_koreana`
+- Item 33 "Elite - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_koreana`, `briefing_name_koreana`, `description_koreana`, `before_description_koreana`, `after_description_koreana`, `display_type_koreana`, `style_0_name_koreana`, `style_1_name_koreana`
+- Item 34 "Elite - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_koreana`, `briefing_name_koreana`, `description_koreana`, `before_description_koreana`, `after_description_koreana`, `display_type_koreana`, `style_0_name_koreana`, `style_1_name_koreana`
+- Item 35 "Top 20 - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_koreana`, `briefing_name_koreana`, `description_koreana`, `before_description_koreana`, `after_description_koreana`, `display_type_koreana`, `style_0_name_koreana`, `style_1_name_koreana`, `style_2_name_koreana`
+- Item 36 "Top 20 - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_koreana`, `briefing_name_koreana`, `description_koreana`, `before_description_koreana`, `after_description_koreana`, `display_type_koreana`, `style_0_name_koreana`, `style_1_name_koreana`, `style_2_name_koreana`
+- Item 37 "Top 20 - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_koreana`, `briefing_name_koreana`, `description_koreana`, `before_description_koreana`, `after_description_koreana`, `display_type_koreana`, `style_0_name_koreana`, `style_1_name_koreana`, `style_2_name_koreana`
+- Item 38 "Top 20 - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_koreana`, `briefing_name_koreana`, `description_koreana`, `before_description_koreana`, `after_description_koreana`, `display_type_koreana`, `style_0_name_koreana`, `style_1_name_koreana`, `style_2_name_koreana`
 - Item 7 "Translator" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_koreana`, `briefing_name_koreana`, `description_koreana`, `display_type_koreana`
 - Item 8 "Programmer" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_koreana`, `briefing_name_koreana`, `description_koreana`, `display_type_koreana`
 - Item 9 "Mapper" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_koreana`, `briefing_name_koreana`, `description_koreana`, `display_type_koreana`
@@ -1364,6 +1436,15 @@
 - Item 26 "Accident 32 Veteran" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_polish`, `briefing_name_polish`, `description_polish`, `display_type_polish`
 - Item 27 "Adanaxis Veteran" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_polish`, `briefing_name_polish`, `description_polish`, `display_type_polish`
 - Item 28 "Priority Number One" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_polish`, `briefing_name_polish`, `description_polish`, `display_type_polish`
+- Item 30 "Participant - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_polish`, `briefing_name_polish`, `description_polish`, `before_description_polish`, `after_description_polish`, `display_type_polish`, `style_0_name_polish`
+- Item 31 "Elite - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_polish`, `briefing_name_polish`, `description_polish`, `before_description_polish`, `after_description_polish`, `display_type_polish`, `style_0_name_polish`, `style_1_name_polish`
+- Item 32 "Elite - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_polish`, `briefing_name_polish`, `description_polish`, `before_description_polish`, `after_description_polish`, `display_type_polish`, `style_0_name_polish`, `style_1_name_polish`
+- Item 33 "Elite - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_polish`, `briefing_name_polish`, `description_polish`, `before_description_polish`, `after_description_polish`, `display_type_polish`, `style_0_name_polish`, `style_1_name_polish`
+- Item 34 "Elite - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_polish`, `briefing_name_polish`, `description_polish`, `before_description_polish`, `after_description_polish`, `display_type_polish`, `style_0_name_polish`, `style_1_name_polish`
+- Item 35 "Top 20 - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_polish`, `briefing_name_polish`, `description_polish`, `before_description_polish`, `after_description_polish`, `display_type_polish`, `style_0_name_polish`, `style_1_name_polish`, `style_2_name_polish`
+- Item 36 "Top 20 - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_polish`, `briefing_name_polish`, `description_polish`, `before_description_polish`, `after_description_polish`, `display_type_polish`, `style_0_name_polish`, `style_1_name_polish`, `style_2_name_polish`
+- Item 37 "Top 20 - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_polish`, `briefing_name_polish`, `description_polish`, `before_description_polish`, `after_description_polish`, `display_type_polish`, `style_0_name_polish`, `style_1_name_polish`, `style_2_name_polish`
+- Item 38 "Top 20 - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_polish`, `briefing_name_polish`, `description_polish`, `before_description_polish`, `after_description_polish`, `display_type_polish`, `style_0_name_polish`, `style_1_name_polish`, `style_2_name_polish`
 - Item 7 "Translator" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_polish`, `briefing_name_polish`, `description_polish`, `display_type_polish`
 - Item 8 "Programmer" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_polish`, `briefing_name_polish`, `description_polish`, `display_type_polish`
 - Item 9 "Mapper" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_polish`, `briefing_name_polish`, `description_polish`, `display_type_polish`
@@ -1640,6 +1721,15 @@
 - Item 26 "Accident 32 Veteran" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_portuguese`, `briefing_name_portuguese`, `description_portuguese`, `display_type_portuguese`
 - Item 27 "Adanaxis Veteran" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_portuguese`, `briefing_name_portuguese`, `description_portuguese`, `display_type_portuguese`
 - Item 28 "Priority Number One" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_portuguese`, `briefing_name_portuguese`, `description_portuguese`, `display_type_portuguese`
+- Item 30 "Participant - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_portuguese`, `briefing_name_portuguese`, `description_portuguese`, `before_description_portuguese`, `after_description_portuguese`, `display_type_portuguese`, `style_0_name_portuguese`
+- Item 31 "Elite - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_portuguese`, `briefing_name_portuguese`, `description_portuguese`, `before_description_portuguese`, `after_description_portuguese`, `display_type_portuguese`, `style_0_name_portuguese`, `style_1_name_portuguese`
+- Item 32 "Elite - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_portuguese`, `briefing_name_portuguese`, `description_portuguese`, `before_description_portuguese`, `after_description_portuguese`, `display_type_portuguese`, `style_0_name_portuguese`, `style_1_name_portuguese`
+- Item 33 "Elite - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_portuguese`, `briefing_name_portuguese`, `description_portuguese`, `before_description_portuguese`, `after_description_portuguese`, `display_type_portuguese`, `style_0_name_portuguese`, `style_1_name_portuguese`
+- Item 34 "Elite - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_portuguese`, `briefing_name_portuguese`, `description_portuguese`, `before_description_portuguese`, `after_description_portuguese`, `display_type_portuguese`, `style_0_name_portuguese`, `style_1_name_portuguese`
+- Item 35 "Top 20 - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_portuguese`, `briefing_name_portuguese`, `description_portuguese`, `before_description_portuguese`, `after_description_portuguese`, `display_type_portuguese`, `style_0_name_portuguese`, `style_1_name_portuguese`, `style_2_name_portuguese`
+- Item 36 "Top 20 - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_portuguese`, `briefing_name_portuguese`, `description_portuguese`, `before_description_portuguese`, `after_description_portuguese`, `display_type_portuguese`, `style_0_name_portuguese`, `style_1_name_portuguese`, `style_2_name_portuguese`
+- Item 37 "Top 20 - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_portuguese`, `briefing_name_portuguese`, `description_portuguese`, `before_description_portuguese`, `after_description_portuguese`, `display_type_portuguese`, `style_0_name_portuguese`, `style_1_name_portuguese`, `style_2_name_portuguese`
+- Item 38 "Top 20 - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_portuguese`, `briefing_name_portuguese`, `description_portuguese`, `before_description_portuguese`, `after_description_portuguese`, `display_type_portuguese`, `style_0_name_portuguese`, `style_1_name_portuguese`, `style_2_name_portuguese`
 - Item 14 "Reporter" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_portuguese`, `briefing_name_portuguese`, `description_portuguese`
 - Item 29 "Streamer" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_portuguese`, `briefing_name_portuguese`, `description_portuguese`
 - Item 100000000 "Donor: Tears for Tarnor" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_portuguese`, `description_portuguese`, `ingame_description_portuguese`, `after_description_portuguese`, `display_type_portuguese`
@@ -1760,6 +1850,14 @@
 - Item 26 "Accident 32 Veteran" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_brazilian`, `briefing_name_brazilian`, `description_brazilian`
 - Item 27 "Adanaxis Veteran" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_brazilian`, `briefing_name_brazilian`, `description_brazilian`
 - Item 28 "Priority Number One" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_brazilian`, `briefing_name_brazilian`, `description_brazilian`
+- Item 31 "Elite - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `description_brazilian`, `style_0_name_brazilian`
+- Item 32 "Elite - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `description_brazilian`, `style_0_name_brazilian`
+- Item 33 "Elite - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `description_brazilian`, `style_0_name_brazilian`
+- Item 34 "Elite - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `description_brazilian`, `style_0_name_brazilian`
+- Item 35 "Top 20 - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `description_brazilian`, `style_0_name_brazilian`, `style_1_name_brazilian`
+- Item 36 "Top 20 - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `description_brazilian`, `style_0_name_brazilian`, `style_1_name_brazilian`
+- Item 37 "Top 20 - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `description_brazilian`, `style_0_name_brazilian`, `style_1_name_brazilian`
+- Item 38 "Top 20 - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `description_brazilian`, `style_0_name_brazilian`, `style_1_name_brazilian`
 - Item 29 "Streamer" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_brazilian`, `briefing_name_brazilian`, `description_brazilian`
 - Item 1000 "Sarge's Suit" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_brazilian`, `display_type_brazilian`
 - Item 1001 "Wildcat's Suit" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_brazilian`, `display_type_brazilian`
@@ -1832,7 +1930,16 @@
 
 </summary>
 
-✓ Up to date!
+### Inventory Schema</summary>
+
+- Item 31 "Elite - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `style_0_name_russian`
+- Item 32 "Elite - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `style_0_name_russian`
+- Item 33 "Elite - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `style_0_name_russian`
+- Item 34 "Elite - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `style_0_name_russian`
+- Item 35 "Top 20 - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `description_russian`, `style_0_name_russian`, `style_1_name_russian`
+- Item 36 "Top 20 - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `description_russian`, `style_0_name_russian`, `style_1_name_russian`
+- Item 37 "Top 20 - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `description_russian`, `style_0_name_russian`, `style_1_name_russian`
+- Item 38 "Top 20 - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `description_russian`, `style_0_name_russian`, `style_1_name_russian`
 
 </details>
 
@@ -2038,6 +2145,15 @@
 - Item 26 "Accident 32 Veteran" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_spanish`, `briefing_name_spanish`, `description_spanish`, `display_type_spanish`
 - Item 27 "Adanaxis Veteran" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_spanish`, `briefing_name_spanish`, `description_spanish`, `display_type_spanish`
 - Item 28 "Priority Number One" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_spanish`, `briefing_name_spanish`, `description_spanish`, `display_type_spanish`
+- Item 30 "Participant - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_spanish`, `briefing_name_spanish`, `description_spanish`, `before_description_spanish`, `after_description_spanish`, `display_type_spanish`, `style_0_name_spanish`
+- Item 31 "Elite - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_spanish`, `briefing_name_spanish`, `description_spanish`, `before_description_spanish`, `after_description_spanish`, `display_type_spanish`, `style_0_name_spanish`, `style_1_name_spanish`
+- Item 32 "Elite - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_spanish`, `briefing_name_spanish`, `description_spanish`, `before_description_spanish`, `after_description_spanish`, `display_type_spanish`, `style_0_name_spanish`, `style_1_name_spanish`
+- Item 33 "Elite - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_spanish`, `briefing_name_spanish`, `description_spanish`, `before_description_spanish`, `after_description_spanish`, `display_type_spanish`, `style_0_name_spanish`, `style_1_name_spanish`
+- Item 34 "Elite - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_spanish`, `briefing_name_spanish`, `description_spanish`, `before_description_spanish`, `after_description_spanish`, `display_type_spanish`, `style_0_name_spanish`, `style_1_name_spanish`
+- Item 35 "Top 20 - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_spanish`, `briefing_name_spanish`, `description_spanish`, `before_description_spanish`, `after_description_spanish`, `display_type_spanish`, `style_0_name_spanish`, `style_1_name_spanish`, `style_2_name_spanish`
+- Item 36 "Top 20 - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_spanish`, `briefing_name_spanish`, `description_spanish`, `before_description_spanish`, `after_description_spanish`, `display_type_spanish`, `style_0_name_spanish`, `style_1_name_spanish`, `style_2_name_spanish`
+- Item 37 "Top 20 - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_spanish`, `briefing_name_spanish`, `description_spanish`, `before_description_spanish`, `after_description_spanish`, `display_type_spanish`, `style_0_name_spanish`, `style_1_name_spanish`, `style_2_name_spanish`
+- Item 38 "Top 20 - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_spanish`, `briefing_name_spanish`, `description_spanish`, `before_description_spanish`, `after_description_spanish`, `display_type_spanish`, `style_0_name_spanish`, `style_1_name_spanish`, `style_2_name_spanish`
 - Item 7 "Translator" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_spanish`, `briefing_name_spanish`, `description_spanish`, `display_type_spanish`
 - Item 8 "Programmer" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_spanish`, `briefing_name_spanish`, `description_spanish`, `display_type_spanish`
 - Item 9 "Mapper" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_spanish`, `briefing_name_spanish`, `description_spanish`, `display_type_spanish`
@@ -2326,6 +2442,15 @@
 - Item 26 "Accident 32 Veteran" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_latam`, `briefing_name_latam`, `description_latam`, `display_type_latam`
 - Item 27 "Adanaxis Veteran" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_latam`, `briefing_name_latam`, `description_latam`, `display_type_latam`
 - Item 28 "Priority Number One" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_latam`, `briefing_name_latam`, `description_latam`, `display_type_latam`
+- Item 30 "Participant - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_latam`, `briefing_name_latam`, `description_latam`, `before_description_latam`, `after_description_latam`, `display_type_latam`, `style_0_name_latam`
+- Item 31 "Elite - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_latam`, `briefing_name_latam`, `description_latam`, `before_description_latam`, `after_description_latam`, `display_type_latam`, `style_0_name_latam`, `style_1_name_latam`
+- Item 32 "Elite - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_latam`, `briefing_name_latam`, `description_latam`, `before_description_latam`, `after_description_latam`, `display_type_latam`, `style_0_name_latam`, `style_1_name_latam`
+- Item 33 "Elite - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_latam`, `briefing_name_latam`, `description_latam`, `before_description_latam`, `after_description_latam`, `display_type_latam`, `style_0_name_latam`, `style_1_name_latam`
+- Item 34 "Elite - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_latam`, `briefing_name_latam`, `description_latam`, `before_description_latam`, `after_description_latam`, `display_type_latam`, `style_0_name_latam`, `style_1_name_latam`
+- Item 35 "Top 20 - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_latam`, `briefing_name_latam`, `description_latam`, `before_description_latam`, `after_description_latam`, `display_type_latam`, `style_0_name_latam`, `style_1_name_latam`, `style_2_name_latam`
+- Item 36 "Top 20 - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_latam`, `briefing_name_latam`, `description_latam`, `before_description_latam`, `after_description_latam`, `display_type_latam`, `style_0_name_latam`, `style_1_name_latam`, `style_2_name_latam`
+- Item 37 "Top 20 - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_latam`, `briefing_name_latam`, `description_latam`, `before_description_latam`, `after_description_latam`, `display_type_latam`, `style_0_name_latam`, `style_1_name_latam`, `style_2_name_latam`
+- Item 38 "Top 20 - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_latam`, `briefing_name_latam`, `description_latam`, `before_description_latam`, `after_description_latam`, `display_type_latam`, `style_0_name_latam`, `style_1_name_latam`, `style_2_name_latam`
 - Item 7 "Translator" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_latam`, `briefing_name_latam`, `description_latam`, `display_type_latam`
 - Item 8 "Programmer" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_latam`, `briefing_name_latam`, `description_latam`, `display_type_latam`
 - Item 9 "Mapper" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_latam`, `briefing_name_latam`, `description_latam`, `display_type_latam`
@@ -2419,16 +2544,12 @@
 ### Strings
 
 - [reactivedrop_ukrainian.txt](addons/ExampleAddon/resource/reactivedrop_ukrainian.txt) has 39 untranslated strings.
-- [inventory_service_tags_ukrainian.vdf](community/inventory_service/inventory_service_tags_ukrainian.vdf) has 23 untranslated strings.
 - [statsweb_ukrainian.vdf](community/stats_website/statsweb_ukrainian.vdf) has 196 untranslated strings.
-- [steam_input_ukrainian.vdf](community/steam_input/steam_input_ukrainian.vdf) has 19 untranslated strings.
-- [workshop_description_ukrainian.vdf](community/workshop/workshop_description_ukrainian.vdf) has 4 untranslated strings.
 - [signage_ukrainian.vdf](misc/signage/signage_ukrainian.vdf) has 69 untranslated strings.
 - [serverbrowser_ukrainian.txt](platform/servers/serverbrowser_ukrainian.txt) has 186 untranslated strings.
 - [vgui_ukrainian.txt](platform/vgui_ukrainian.txt) has 184 untranslated strings.
 - [basemodui_ukrainian.txt](resource/basemodui_ukrainian.txt) has 25 untranslated strings.
 - [closecaption_ukrainian.txt](resource/closecaption_ukrainian.txt) has 122 untranslated strings.
-- [gameui_ukrainian.txt](resource/gameui_ukrainian.txt) has 8 untranslated strings.
 - [reactivedrop_ukrainian.txt](resource/reactivedrop_ukrainian.txt) has 1911 untranslated strings.
 - [valve_ukrainian.txt](resource/valve_ukrainian.txt) has 266 untranslated strings.
 
@@ -2612,6 +2733,15 @@
 - Item 26 "Accident 32 Veteran" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_ukrainian`, `briefing_name_ukrainian`, `description_ukrainian`, `display_type_ukrainian`
 - Item 27 "Adanaxis Veteran" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_ukrainian`, `briefing_name_ukrainian`, `description_ukrainian`, `display_type_ukrainian`
 - Item 28 "Priority Number One" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_ukrainian`, `briefing_name_ukrainian`, `description_ukrainian`, `display_type_ukrainian`
+- Item 30 "Participant - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_ukrainian`, `briefing_name_ukrainian`, `description_ukrainian`, `before_description_ukrainian`, `after_description_ukrainian`, `display_type_ukrainian`, `style_0_name_ukrainian`
+- Item 31 "Elite - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_ukrainian`, `briefing_name_ukrainian`, `description_ukrainian`, `before_description_ukrainian`, `after_description_ukrainian`, `display_type_ukrainian`, `style_0_name_ukrainian`, `style_1_name_ukrainian`
+- Item 32 "Elite - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_ukrainian`, `briefing_name_ukrainian`, `description_ukrainian`, `before_description_ukrainian`, `after_description_ukrainian`, `display_type_ukrainian`, `style_0_name_ukrainian`, `style_1_name_ukrainian`
+- Item 33 "Elite - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_ukrainian`, `briefing_name_ukrainian`, `description_ukrainian`, `before_description_ukrainian`, `after_description_ukrainian`, `display_type_ukrainian`, `style_0_name_ukrainian`, `style_1_name_ukrainian`
+- Item 34 "Elite - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_ukrainian`, `briefing_name_ukrainian`, `description_ukrainian`, `before_description_ukrainian`, `after_description_ukrainian`, `display_type_ukrainian`, `style_0_name_ukrainian`, `style_1_name_ukrainian`
+- Item 35 "Top 20 - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_ukrainian`, `briefing_name_ukrainian`, `description_ukrainian`, `before_description_ukrainian`, `after_description_ukrainian`, `display_type_ukrainian`, `style_0_name_ukrainian`, `style_1_name_ukrainian`, `style_2_name_ukrainian`
+- Item 36 "Top 20 - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_ukrainian`, `briefing_name_ukrainian`, `description_ukrainian`, `before_description_ukrainian`, `after_description_ukrainian`, `display_type_ukrainian`, `style_0_name_ukrainian`, `style_1_name_ukrainian`, `style_2_name_ukrainian`
+- Item 37 "Top 20 - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_ukrainian`, `briefing_name_ukrainian`, `description_ukrainian`, `before_description_ukrainian`, `after_description_ukrainian`, `display_type_ukrainian`, `style_0_name_ukrainian`, `style_1_name_ukrainian`, `style_2_name_ukrainian`
+- Item 38 "Top 20 - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_ukrainian`, `briefing_name_ukrainian`, `description_ukrainian`, `before_description_ukrainian`, `after_description_ukrainian`, `display_type_ukrainian`, `style_0_name_ukrainian`, `style_1_name_ukrainian`, `style_2_name_ukrainian`
 - Item 7 "Translator" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_ukrainian`, `briefing_name_ukrainian`, `description_ukrainian`, `display_type_ukrainian`
 - Item 8 "Programmer" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_ukrainian`, `briefing_name_ukrainian`, `description_ukrainian`, `display_type_ukrainian`
 - Item 9 "Mapper" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_ukrainian`, `briefing_name_ukrainian`, `description_ukrainian`, `display_type_ukrainian`
@@ -2886,6 +3016,15 @@
 - Item 26 "Accident 32 Veteran" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_vietnamese`, `briefing_name_vietnamese`, `description_vietnamese`, `display_type_vietnamese`
 - Item 27 "Adanaxis Veteran" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_vietnamese`, `briefing_name_vietnamese`, `description_vietnamese`, `display_type_vietnamese`
 - Item 28 "Priority Number One" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_vietnamese`, `briefing_name_vietnamese`, `description_vietnamese`, `display_type_vietnamese`
+- Item 30 "Participant - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_vietnamese`, `briefing_name_vietnamese`, `description_vietnamese`, `before_description_vietnamese`, `after_description_vietnamese`, `display_type_vietnamese`, `style_0_name_vietnamese`
+- Item 31 "Elite - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_vietnamese`, `briefing_name_vietnamese`, `description_vietnamese`, `before_description_vietnamese`, `after_description_vietnamese`, `display_type_vietnamese`, `style_0_name_vietnamese`, `style_1_name_vietnamese`
+- Item 32 "Elite - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_vietnamese`, `briefing_name_vietnamese`, `description_vietnamese`, `before_description_vietnamese`, `after_description_vietnamese`, `display_type_vietnamese`, `style_0_name_vietnamese`, `style_1_name_vietnamese`
+- Item 33 "Elite - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_vietnamese`, `briefing_name_vietnamese`, `description_vietnamese`, `before_description_vietnamese`, `after_description_vietnamese`, `display_type_vietnamese`, `style_0_name_vietnamese`, `style_1_name_vietnamese`
+- Item 34 "Elite - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_vietnamese`, `briefing_name_vietnamese`, `description_vietnamese`, `before_description_vietnamese`, `after_description_vietnamese`, `display_type_vietnamese`, `style_0_name_vietnamese`, `style_1_name_vietnamese`
+- Item 35 "Top 20 - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_vietnamese`, `briefing_name_vietnamese`, `description_vietnamese`, `before_description_vietnamese`, `after_description_vietnamese`, `display_type_vietnamese`, `style_0_name_vietnamese`, `style_1_name_vietnamese`, `style_2_name_vietnamese`
+- Item 36 "Top 20 - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_vietnamese`, `briefing_name_vietnamese`, `description_vietnamese`, `before_description_vietnamese`, `after_description_vietnamese`, `display_type_vietnamese`, `style_0_name_vietnamese`, `style_1_name_vietnamese`, `style_2_name_vietnamese`
+- Item 37 "Top 20 - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_vietnamese`, `briefing_name_vietnamese`, `description_vietnamese`, `before_description_vietnamese`, `after_description_vietnamese`, `display_type_vietnamese`, `style_0_name_vietnamese`, `style_1_name_vietnamese`, `style_2_name_vietnamese`
+- Item 38 "Top 20 - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_vietnamese`, `briefing_name_vietnamese`, `description_vietnamese`, `before_description_vietnamese`, `after_description_vietnamese`, `display_type_vietnamese`, `style_0_name_vietnamese`, `style_1_name_vietnamese`, `style_2_name_vietnamese`
 - Item 7 "Translator" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_vietnamese`, `briefing_name_vietnamese`, `description_vietnamese`, `display_type_vietnamese`
 - Item 8 "Programmer" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_vietnamese`, `briefing_name_vietnamese`, `description_vietnamese`, `display_type_vietnamese`
 - Item 9 "Mapper" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_vietnamese`, `briefing_name_vietnamese`, `description_vietnamese`, `display_type_vietnamese`
