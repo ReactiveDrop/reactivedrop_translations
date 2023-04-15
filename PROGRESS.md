@@ -1,7 +1,7 @@
 # Overview
 | Language | basemodui | closecaption | gameui | reactivedrop | statsweb | Strings | Inventory | Files |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 66 | 4 |
+| [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 66 | 2 |
 | [Traditional Chinese](#tchinese-繁體中文) | 7 | 131 | 1 | 2260 | 196 | 148 | 358 | 145 |
 | [Czech](#czech-čeština) | 69 | 1807 | 10 | 3403 | 196 | 803 | 428 | 145 |
 | [Danish](#non-curated-languages) | 50 | 222 | 10 | 2924 | 196 | 533 | 423 | 146 |
@@ -46,8 +46,6 @@
 
 ### Mail and News
 
-- [ma_pda1_schinese.txt](resource/mail/ma_pda1_english.txt) is missing.
-- [ma_pda2_schinese.txt](resource/mail/ma_pda2_english.txt) is missing.
 - [officemail4_schinese.txt](resource/mail/officemail4_schinese.txt) has 1 indented lines.
 
 ### Inventory Schema</summary>
