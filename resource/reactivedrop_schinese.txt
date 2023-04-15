@@ -2774,7 +2774,7 @@
 "[english]asw_pda_owner_name_random_news_reader"		"Random News Reader"
 "asw_pda_owner_name_puzzle_solving_community"		"解谜社区"
 "[english]asw_pda_owner_name_puzzle_solving_community"		"Puzzle Solving Community"
-"asw_pda_owner_name_ed_savage"		"Ed Savage"
+"asw_pda_owner_name_ed_savage"		"爱德 . 萨维奇"
 "[english]asw_pda_owner_name_ed_savage"		"Ed Savage"
 "asw_pda_owner_name_maxwell_fierze"		"麦克斯韦 . 菲尔兹"
 "[english]asw_pda_owner_name_maxwell_fierze"		"Maxwell Fierze"
