@@ -8,7 +8,7 @@
 | [Dutch](#non-curated-languages) | 49 | 2004 | 10 | 2379 | 196 | 533 | 360 | 145 |
 | [Finnish](#non-curated-languages) | 49 | 2004 | 10 | 2379 | 196 | 533 | 360 | 145 |
 | [French](#french-français) | 25 | 129 | 10 | 1731 | 196 | 467 | 346 | 124 |
-| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 69 | 19 | ✔️ |
+| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 16 | ✔️ |
 | [Hungarian](#non-curated-languages) | 49 | 129 | 10 | 2379 | 196 | 798 | 360 | 146 |
 | [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | 12 | ✔️ | 102 | 20 | ✔️ |
@@ -912,10 +912,6 @@
 
 </summary>
 
-### Strings
-
-- [signage_german.vdf](misc/signage/signage_german.vdf) has 69 untranslated strings.
-
 ### Inventory Schema</summary>
 
 - Item 31 "Elite - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `style_0_name_german`
@@ -926,7 +922,6 @@
 - Item 36 "Top 20 - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `description_german`, `style_0_name_german`, `style_1_name_german`
 - Item 37 "Top 20 - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `description_german`, `style_0_name_german`, `style_1_name_german`
 - Item 38 "Top 20 - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `description_german`, `style_0_name_german`, `style_1_name_german`
-- Item 29 "Streamer" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_german`, `briefing_name_german`, `description_german`
 
 </details>
 
