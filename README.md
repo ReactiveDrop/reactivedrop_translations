@@ -15,6 +15,7 @@ Check out the current translation progress [here](PROGRESS.md).
 - ***addons:*** Translations for custom campaigns and challenges.
 - ***community:*** Steam Community (workshop, inventory, points shop, eula) translations.
 - ***credits:*** Credits texts for official campaigns.
+- ***misc:*** Texts on textures.
 - ***platform:*** Translations for generic source-engine UI ingame eg. the server browser.
 - ***release_notes:*** Update notes shown on Steams website.
 - ***resource:*** Game localization files.
