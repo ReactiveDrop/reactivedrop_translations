@@ -861,7 +861,7 @@
 "[english]GameUI_TestSpeakersWarning_OkButton"		"Run Speaker Test"
 "GameUI_TestSpeakersWarning_CancelButton"		"キャンセル"
 "[english]GameUI_TestSpeakersWarning_CancelButton"		"Cancel"
-"GameUI_GammaInfo"		"スライダで、下の 3 行のテキストがすべてよく見えるよう調整してください。"
+"GameUI_GammaInfo"		"スライダを動かして下の3行のテキストがすべてよく見えるよう調整してください。"
 "[english]GameUI_GammaInfo"		"Adjust the slider until all three lines of text below are visible."
 "GameUI_SaveAndQuitQuery_Info"		"終了する前に、今までのゲームをセーブしますか?"
 "[english]GameUI_SaveAndQuitQuery_Info"		"Do you wish to save the current game before exiting?"
