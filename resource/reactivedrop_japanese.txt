@@ -8260,7 +8260,7 @@
 "[english]TF_CombatTextBatching"		"Accumulate combat text damage events into a single number"
 "TF_Hitbeeps"		"敵にダメージを与えたときに効果音を鳴らす"
 "[english]TF_Hitbeeps"		"Play a hit sound everytime you injure an enemy"
-"TF_LastHitbeeps"		"自分の攻撃で敵にトドメを刺した時に効果音を鳴らします。"
+"TF_LastHitbeeps"		"敵にトドメを刺した時に効果音を鳴らす"
 "[english]TF_LastHitbeeps"		"Play a last hit sound when one of your attacks kills an enemy"
 "TF_Dingaling_Volume"		"命中時の効果音の音量"
 "[english]TF_Dingaling_Volume"		"Hit Sound Volume"
