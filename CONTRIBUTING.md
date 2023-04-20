@@ -113,7 +113,7 @@ In these files(e.g. basemodui_czech.txt) the untranslated strings are indented b
 Create a copy of the English file and rename it to your language suffix (e.g. workshop_tags_schinese.json). Translate the contents of the file. In JSON files, only translate text on the right side of the `:`.
 
 ### Item Schema
-Copy the lines with `_english` for your language. Try to keep each block of translations in alphabetical order by language name. If there are words between `%percent_signs%`, leave them as-is (they are replaced with numbers by the game client). If there is a colon in the text between `%percent_signs:like this%`, translate only the part after the colon (it is used as a replacement if the number is missing from the item data). Don't change any lines that aren't labelled with a language.
+Copy the lines with `_english` for your language. Try to keep each block of translations in alphabetical order by language name. If there are words between `%percent_signs%`, leave them as-is (they are replaced with numbers by the game client). Don't change any lines that aren't labelled with a language.
 
 ## Changing English strings
 If you change an English string in a way that does not require editing other languages (such as fixing a typo that doesn't change the meaning), you need to also change the `[english]` copy of the string in each of the other language files that have it translated. Adding new English strings or changing strings in a way that does require re-translation is handled by the sync script/executable in the utils folder.
