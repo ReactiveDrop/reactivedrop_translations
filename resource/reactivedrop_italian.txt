@@ -3685,7 +3685,7 @@
 "[english]RD_MA_SCORE_POINTS_NAME"		"IAF Cadet"
 "RD_MA_REACH_VOLCANO_ALIVE_NAME"		"È Abbastanza Caldo"
 "[english]RD_MA_REACH_VOLCANO_ALIVE_NAME"		"Hot Enough"
-"RD_MA_VISIT_EACH_ZONE_NAME"		"Viaggiatore del Mondo"
+"RD_MA_VISIT_EACH_ZONE_NAME"		"Giro del Mondo"
 "[english]RD_MA_VISIT_EACH_ZONE_NAME"		"World Traveler"
 "RD_DIE_IN_MANY_WAYS_NAME"		"Testato in Battaglia"
 "[english]RD_DIE_IN_MANY_WAYS_NAME"		"Battle-Tested"
