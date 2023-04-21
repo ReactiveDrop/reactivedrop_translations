@@ -8169,7 +8169,7 @@
 "[english]rd_radial_use_extra_Bastille"		"Bastille: Use %s1"
 "rd_radial_use_extra_Vegas"		"Vegas: %s1を使用して"
 "[english]rd_radial_use_extra_Vegas"		"Vegas: Use %s1"
-"rd_xp_bonus_anniversary"		"アニバーサリー週ボーナス"
+"rd_xp_bonus_anniversary"		"アニバーサリーウィークボーナス"
 "[english]rd_xp_bonus_anniversary"		"Anniversary Week Bonus"
 "rd_mainmenu_collections"		"コレクション"
 "[english]rd_mainmenu_collections"		"COLLECTIONS"
