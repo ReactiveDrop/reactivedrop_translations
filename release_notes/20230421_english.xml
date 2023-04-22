@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<content><string id="body">An update has been released to address the following issues. Some of these issues were addressed in hotfixes yesterday and today.
+
+[list]
+[*]Firing projectiles causes lag.
+[*]Marine bots in follow mode cause lag.
+[*]The Hot Enough achievement is unobtainable. [i]There's no special trick needed to earn the achievement; just escape the volcano zone without any marines dying.[/i]
+[*]Players who completed Accident 32 missions on the beta branch are stuck at 6/6 on the campaign difficulty achievements. [i]Players in this state can un-stick the achievements by completing any Accident 32 mission.[/i]
+[*]The capsule model in Accident 32 missions has broken rim lighting.
+[*]Rich presence shows an untranslated string for official missions and challenges.
+[*]Item descriptions for Heroes of the Interstellar Armed Forces medals render incorrectly.
+[*]Combine Striders produce an error particle effect when firing their gun.
+[*]Marine combat rolling unintentionally changed.
+[*]Medical weapon ammo count unintentionally changed.
+[/list]
+
+Addons can now include a file named cfg/autoexec_[workshop addon id].cfg, which will be run when the addon is loaded on the client. For example, an addon that replaces the marine model and uses the backpack body group to give each class a unique model could add an autoexec file with:
+
+[code]rd_marine_gear_hide_backpack 0[/code]</string><string id="subtitle"></string><string id="summary"></string><string id="title">Alien Swarm: Reactive Drop Update - April 21, 2023</string></content>
