@@ -6578,7 +6578,7 @@
 "[english]acc6_1a"		"Collect a few samples of the Muon Gem."
 "acc6_2_title"		"ミュー粒子結晶を破壊する"
 "[english]acc6_2_title"		"Destroy the Muon Gem"
-"acc6_2a"		"端末のボタンをひたすら押しまくれば大きなダメージを与えられる。"
+"acc6_2a"		"端末のボタンを押すのが早いほど大きなダメージを与えられる。"
 "[english]acc6_2a"		"Press the console buttons as fast as you can to deal the most damage."
 "acc6_3_title"		"救援を呼ぶ"
 "[english]acc6_3_title"		"A Call for Help"
