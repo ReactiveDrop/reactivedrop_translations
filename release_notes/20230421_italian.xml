@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<content><string id="body">È stato rilasciato un aggiornamento per risolvere i seguenti problemi. Alcuni di questi problemi sono stati risolti con gli hotfix di ieri e di oggi.
+
+[list]
+[*]Sparare causava lag.
+[*]I soldati bot in modalità inseguimento causavano lag.
+[*]L'achievement È Abbastanza Caldo non è ottenibile. [i]Non è necessario alcun trucco speciale per ottenere l'achievement: basta fuggire dalla zona vulcanica senza che nessun marine muoia.[/i]
+[*]I giocatori che hanno completato le missioni di Accident 32 nella beta sono bloccati a 6/6 per quanto riguarda gli achievement per la difficoltà della campagna. [i]I giocatori che si trovano in questo stato possono sbloccare gli achievement completando una qualsiasi missione di Accident 32.[/i]
+[*]Il modello di capsula nelle missioni di Accident 32 ha l'illuminazione del bordo rotta.
+[*]Rich presence mostra una stringa non tradotta per le missioni e le sfide ufficiali.
+[*]Le descrizioni per le medaglie degli Eroi delle Forze Armate Interstellari non vengono visualizzate correttamente.
+[*]I Combine Striders producono un effetto particellare di errore quando sparano con la loro pistola.
+[*]Il rotolamento dei soldati è stato modificato involontariamente.
+[*]Il conteggio delle munizioni delle armi mediche è stato modificato involontariamente.
+[/list]
+
+Gli Addon ora possono includere un file chiamato cfg/autoexec_[id addon del worshop].cfg, che verrà eseguito quando l'addon viene caricato sul client. Ad esempio, un addon che sostituisce il modello del soldato e utilizza il body group dello zaino per dare a ogni classe un modello unico potrebbe aggiungere un file autoexec con:
+
+[code]rd_marine_gear_hide_backpack 0[/code]</string><string id="subtitle"></string><string id="summary"></string><string id="title">Aggiornamento di Alien Swarm: Reactive Drop - 21 Aprile 2023</string></content>
