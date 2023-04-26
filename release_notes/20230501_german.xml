@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<content><string id="body">Es wurde ein Update mit den folgenden Änderungen veröffentlicht:
+
+[list]
+[*][b]Tilarus-5: Yanaurus Mine:[/b] Es wurde behoben, dass geskriptete Türen visuell nicht fallen.
+[*][b]AVK-36 Scharfschützengewehr:[/b] Beim Zoomen wurde das automatische Nachladen deaktiviert.
+[*][b]PS50 Bulldog:[/b] Diese Waffe verwendete visuelle Effekte, die für Doppel-Pistolen gedacht waren.
+[*]Heiler heilen keine Biomasse mehr, wenn diese in Flammen steht.
+[*]Ein Absturz wurde behoben wenn ein Einsatz gestartet wurde, ohne dass eine Tastebelegung für "Zusatzausrüstung benutzen" vorhanden war.
+[*]Es wurde behoben, dass Medaillen in Lobbys auf dedizierten Servern nicht angezeigt wurden.
+[*]Medaillen für Helden der interstellaren Streitkräfte werden ab Ende dieses Monats (Saison 11) ein aktualisiertes Design verwenden. Du erhältst nicht mehr mehrere Medaillen pro Saison, wenn du unter den Top 100 oder Top 20 bist.
+[/list]
+</string><string id="subtitle"></string><string id="summary"></string><string id="title">Alien Swarm: Reactive Drop Update - 1. Mai 2023</string></content>
