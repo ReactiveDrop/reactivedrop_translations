@@ -11,7 +11,7 @@
 | [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 1 |
 | [Hungarian](#non-curated-languages) | 49 | 129 | 10 | 2379 | 196 | 798 | 316 | 145 |
 | [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 1 |
-| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | 12 | ✔️ | 102 | ✔️ | 1 |
+| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | 12 | ✔️ | 102 | ✔️ | ✔️ |
 | [Korean](#koreana-한국어) | 5 | 1 | 6 | 862 | 18 | 251 | 302 | 46 |
 | [Norwegian Bokmål](#non-curated-languages) | 67 | 704 | 15 | 3099 | 196 | 533 | 385 | 145 |
 | [Polish](#polish-polski) | 26 | 2004 | 10 | 2379 | 196 | 533 | 316 | 145 |
@@ -940,10 +940,6 @@
 - [signage_japanese.vdf](misc/signage/signage_japanese.vdf) has 67 untranslated strings.
 - [vgui_japanese.txt](platform/vgui_japanese.txt) has 35 untranslated strings.
 - [reactivedrop_japanese.txt](resource/reactivedrop_japanese.txt) has 12 untranslated strings.
-
-### Upcoming Release Notes
-
-- [20230501_japanese.xml](release_notes/20230501_english.xml) is missing.
 
 </details>
 
