@@ -14,7 +14,7 @@
 | [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | 12 | ✔️ | 102 | ✔️ | ✔️ |
 | [Korean](#koreana-한국어) | 5 | 1 | 6 | 862 | 18 | 251 | 302 | 46 |
 | [Norwegian Bokmål](#non-curated-languages) | 67 | 704 | 15 | 3099 | 196 | 533 | 385 | 145 |
-| [Polish](#polish-polski) | 26 | 2004 | 10 | 2379 | 196 | 533 | 316 | 140 |
+| [Polish](#polish-polski) | 26 | 2004 | 10 | 2379 | 196 | 529 | 316 | 140 |
 | [European Portuguese](#portuguese-português-europeu) | ✔️ | 171 | ✔️ | 1569 | 23 | 459 | 327 | 138 |
 | [Brazilian Portuguese](#brazilian-português) | ✔️ | 2004 | ✔️ | 625 | 5 | 86 | 138 | 5 |
 | [Romanian](#non-curated-languages) | 49 | 1996 | 16 | 3104 | 196 | 798 | 362 | 145 |
@@ -1141,7 +1141,6 @@
 - [inventory_service_tags_polish.vdf](community/inventory_service/inventory_service_tags_polish.vdf) has 23 untranslated strings.
 - [statsweb_polish.vdf](community/stats_website/statsweb_polish.vdf) has 196 untranslated strings.
 - [steam_input_polish.vdf](community/steam_input/steam_input_polish.vdf) has 19 untranslated strings.
-- [workshop_description_polish.vdf](community/workshop/workshop_description_polish.vdf) has 4 untranslated strings.
 - [signage_polish.vdf](misc/signage/signage_polish.vdf) has 69 untranslated strings.
 - [serverbrowser_polish.txt](platform/servers/serverbrowser_polish.txt) has 24 untranslated strings.
 - [vgui_polish.txt](platform/vgui_polish.txt) has 81 untranslated strings.
