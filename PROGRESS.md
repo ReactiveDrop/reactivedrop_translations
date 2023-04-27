@@ -14,7 +14,7 @@
 | [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | 12 | ✔️ | 102 | ✔️ | ✔️ |
 | [Korean](#koreana-한국어) | 5 | 1 | 6 | 862 | 18 | 251 | 302 | 46 |
 | [Norwegian Bokmål](#non-curated-languages) | 67 | 704 | 15 | 3099 | 196 | 533 | 385 | 145 |
-| [Polish](#polish-polski) | 26 | 2004 | 10 | 2379 | 196 | 533 | 316 | 145 |
+| [Polish](#polish-polski) | 26 | 2004 | 10 | 2379 | 196 | 533 | 316 | 140 |
 | [European Portuguese](#portuguese-português-europeu) | ✔️ | 171 | ✔️ | 1569 | 23 | 459 | 327 | 138 |
 | [Brazilian Portuguese](#brazilian-português) | ✔️ | 2004 | ✔️ | 625 | 5 | 86 | 138 | 5 |
 | [Romanian](#non-curated-languages) | 49 | 1996 | 16 | 3104 | 196 | 798 | 362 | 145 |
@@ -1151,14 +1151,6 @@
 - [gameui_polish.txt](resource/gameui_polish.txt) has 10 untranslated strings.
 - [reactivedrop_polish.txt](resource/reactivedrop_polish.txt) has 2379 untranslated strings.
 - [valve_polish.txt](resource/valve_polish.txt) has 266 untranslated strings.
-
-### Steam Store and Community
-
-- [eula_polish.txt](community/eula/eula_english.txt) is missing.
-- [app_items_563560_polish.json](community/points_shop/app_items_563560_english.json) is missing.
-- [workshop_tags_polish.json](community/workshop/workshop_tags_english.json) is missing.
-- [content_warning_563560_polish.txt](store_page/content_warning_563560_english.txt) is missing.
-- [storepage_81731_polish.json](store_page/storepage_81731_polish.json) has 6 indented lines.
 
 ### Upcoming Release Notes
 
