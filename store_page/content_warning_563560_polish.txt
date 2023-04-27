@@ -1,0 +1,3 @@
+Gracz podczas całej gry będzie używał broni aby zabijać wrogich kosmitów. Kosmici po zabiciu eksplodują krwią i flakami. W niektórych misjach można znaleźć zakrwawione ludkie zwłoki, lecz nie posidają takiej samej interakcji jak kosmici. Przyjacielski Ogień z materiałami wybuchowymi może spowodować że towarzysze mogą rozpaść się w kreskówkowe części ciała. (gibs)
+Wulgaryzmy, takie jak "gówno" są używane w dialogach. Wulgarny język jest także używany w opcjonalnych treściach. (email, wiadomości)
+Ostrzeżenie przed nadwrażliwością na światło: Niektóre misje stworzone przez społeczność wykorzystują niektóre rodzaje migających świateł jak np. efekt światła stroboskopowego.
