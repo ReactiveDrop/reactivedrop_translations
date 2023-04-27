@@ -1,7 +1,7 @@
 # Overview
 | Language | basemodui | closecaption | gameui | reactivedrop | statsweb | Strings | Inventory | Files |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 1 |
+| [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Traditional Chinese](#tchinese-繁體中文) | 7 | 131 | 1 | 2260 | 196 | 148 | 314 | 144 |
 | [Czech](#czech-čeština) | 69 | 1807 | 10 | 3403 | 196 | 803 | 384 | 144 |
 | [Danish](#non-curated-languages) | 50 | 222 | 10 | 2924 | 196 | 533 | 379 | 145 |
@@ -40,9 +40,7 @@
 
 </summary>
 
-### Upcoming Release Notes
-
-- [20230501_schinese.xml](release_notes/20230501_english.xml) is missing.
+✓ Up to date!
 
 </details>
 
