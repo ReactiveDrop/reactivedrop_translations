@@ -3,11 +3,16 @@
 
 [list]
 [*][b]Tilarus-5: Yanaurus Mine:[/b] Fixed scripted doors not visually falling.
+[*][b]v45 Electric Charged Armor:[/b] Improved visibility of this gear. No longer disappears immediately when using last charge (similar to Assault Jets).
 [*][b]AVK-36 Marksman Rifle:[/b] Fixed zooming causing auto-reload to become disabled.
 [*][b]PS50 Bulldog:[/b] Fixed this weapon using visual effects meant for dual weapons.
 [*]Menders no longer heal biomass when it is on fire.
 [*]Fixed a crash when starting a mission without a key bound to "use offhand item".
 [*]Fixed medals not appearing in lobbies hosted on dedicated servers.
+[*]Weapons with aiming improved by crouching now work on moving platforms. Fixed stationary marines being detected as moving due to rounding errors.
+[*]Fixed lighting issues with marine gear in areas with complex shadows.
+[*]The 8th marine is no longer hidden on the HUD for certain values of asw_hud_scale.
+[*]Fixed marine bots aiming throwable items at the player's crosshair even if it had moved since the command was given.
 [*]Heroes of the Interstellar Armed Forces medals, starting at the end of this month (season 11), will use an updated design. You will no longer receive multiple medals per season if you are in the top 100 or top 20.
 [/list]
 </string><string id="subtitle"></string><string id="summary"></string><string id="title">Alien Swarm: Reactive Drop Update - May 1, 2023</string></content>
