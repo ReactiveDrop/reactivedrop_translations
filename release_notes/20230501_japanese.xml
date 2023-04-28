@@ -3,16 +3,16 @@
 
 [list]
 [*][b]Tilarus-5: Yanaurus Mine:[/b] スクリプト制御されたドアが表示上では開いてなかったのを修正。
-		[*][b]v45 Electric Charged Armor:[/b] Improved visibility of this gear. No longer disappears immediately when using last charge (similar to Assault Jets).
+[*][b]v45 帯電アーマー:[/b] 見やすさを改善した。最後の1回を使用しても即座に見た目上で消えることは無くなった。(強襲ジェットと似た挙動)
 [*][b]AVK-36 マークスマンライフル:[/b] ズームすると自動リロードが無効化されていたのを修正。
 [*][b]PS50 ブルドッグ:[/b] 二丁持ち武器用の視覚エフェクトを使用していたのを修正。
 [*]メンダーは燃えているバイオマスを治療しないようになった。
 [*]「補助アイテムを使用」のキーが割り当てられてないままミッションを開始するとクラッシュしていたのを修正。
 [*]専用サーバーにホストされたロビー内では勲章が表示されていなかったのを修正。
-		[*]Weapons with aiming improved by crouching now work on moving platforms. Fixed stationary marines being detected as moving due to rounding errors.
-		[*]Fixed lighting issues with marine gear in areas with complex shadows.
-		[*]The 8th marine is no longer hidden on the HUD for certain values of asw_hud_scale.
-		[*]Fixed marine bots aiming throwable items at the player's crosshair even if it had moved since the command was given.
+[*]しゃがむと命中率が上がる武器は動く足場の上でも正常に機能するようになった。動いていない海兵隊が数字の切り上げや切り捨ての問題で移動中と扱われていたのを修正。
+[*]影が複数落ちている場所での海兵隊の装備に関する照明効果の問題を修正。
+[*]asw_hud_scaleの数値次第で8番目の海兵隊がHUD上で見えなくなることは無くなった。
+[*]海兵隊BOTが投擲アイテムの使用を指示された位置ではなく、現在のプレイヤーの照準位置を狙っていたのを修正。
 [*]今月末から始まるIAFの英雄たちシーズン11の勲章が、新しいデザインになった。上位100名や20名の場合に別々の勲章を受け取ることは無くなった。
 [/list]
 </string><string id="subtitle"></string><string id="summary"></string><string id="title">Alien Swarm: Reactive Dropアップデート - 2023年5月1日</string></content>
