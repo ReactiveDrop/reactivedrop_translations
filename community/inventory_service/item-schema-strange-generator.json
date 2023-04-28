@@ -4,59 +4,37 @@
 	"items": [
 		{
 			"itemdefid": 6000,
-			"type": "generator",
-			"name": "Generate Random Strange Officer Suit",
-			"bundle": "1000;1004",
-			"tag_generators": "6001"
+			"type": "bundle",
+			"name": "Bundle Strange Weapon And Two Devices",
+			"bundle": "6015;6008x2"
 		},
 		{
 			"itemdefid": 6001,
-			"type": "tag_generator",
-			"name": "Generate Random Tag for Strange Officer Suit",
-			"tag_generator_name": "strange",
-			"tag_generator_values": "5001;5002;5007"
+			"name": "Unused 6001"
 		},
 		{
 			"itemdefid": 6002,
-			"type": "generator",
-			"name": "Generate Random Strange Special Weapons Suit",
-			"bundle": "1001;1005",
-			"tag_generators": "6003"
+			"name": "Unused 6002"
 		},
 		{
 			"itemdefid": 6003,
-			"type": "tag_generator",
-			"name": "Generate Random Tag for Strange Special Weapons Suit",
-			"tag_generator_name": "strange",
-			"tag_generator_values": "5001;5002;5007"
+			"name": "Unused 6003"
 		},
 		{
 			"itemdefid": 6004,
-			"type": "generator",
-			"name": "Generate Random Strange Medic Suit",
-			"bundle": "1002;1006",
-			"tag_generators": "6005"
+			"name": "Unused 6004"
 		},
 		{
 			"itemdefid": 6005,
-			"type": "tag_generator",
-			"name": "Generate Random Tag for Strange Medic Suit",
-			"tag_generator_name": "strange",
-			"tag_generator_values": "5001;5002;5003;5007;5008"
+			"name": "Unused 6005"
 		},
 		{
 			"itemdefid": 6006,
-			"type": "generator",
-			"name": "Generate Random Strange Tech Suit",
-			"bundle": "1003;1007",
-			"tag_generators": "6007"
+			"name": "Unused 6006"
 		},
 		{
 			"itemdefid": 6007,
-			"type": "tag_generator",
-			"name": "Generate Random Tag for Strange Tech Suit",
-			"tag_generator_name": "strange",
-			"tag_generator_values": "5001;5002;5004;5007"
+			"name": "Unused 6007"
 		},
 		{
 			"itemdefid": 6008,
@@ -102,9 +80,7 @@
 		},
 		{
 			"itemdefid": 6015,
-			"type": "generator",
-			"name": "Generate Random Strange Item",
-			"bundle": "6000x2;6002x2;6004x2;6006x2;6014x45"
+			"name": "Unused 6015"
 		},
 		{
 			"itemdefid": 6016,
