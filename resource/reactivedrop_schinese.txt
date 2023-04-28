@@ -900,7 +900,7 @@
 "[english]asw_weapon_stim_attributes"		"Temporary Slow Motion"
 "asw_weapon_electrified_armor"		"电力护甲"
 "[english]asw_weapon_electrified_armor"		"Electrified Armor"
-"asw_weaponl_electrified_armor"		"v45 电力护甲"
+"asw_weaponl_electrified_armor"		"v45电力护甲"
 "[english]asw_weaponl_electrified_armor"		"v45 Electric Charged Armor"
 "asw_weapon_electrified_armor_attributes"		"阻止感染，眩晕目标"
 "[english]asw_weapon_electrified_armor_attributes"		"Stops Infestation, Stuns"
