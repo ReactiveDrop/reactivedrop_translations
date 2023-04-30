@@ -14,7 +14,7 @@
 [*]Behebung von Beleuchtungsproblemen mit Soldatenausrüstung in Bereichen mit komplexen Schatten.
 [*]Der 8. Soldate wird bei bestimmten Werten von asw_hud_scale nicht mehr auf dem HUD versteckt.
 [*]Es wurde behoben, dass Bots auf das Fadenkreuz des Spielers zielen, auch wenn es sich seit der Befehlsgabe bewegt hat.
-[*]Überdrohne verwende jetzt das Modell, das in Hammer für sie eingestellt wurde.
+[*]Überdrohne verwenden jetzt das Modell, das in Hammer für sie eingestellt wurde.
 [*]Verbesserte Gib-Positionierung für Soldaten und Wächter.
 [*]Medaillen für Helden der interstellaren Streitkräfte werden ab Ende dieses Monats (Saison 11) ein aktualisiertes Design verwenden. Du erhältst nicht mehr mehrere Medaillen pro Saison, wenn du unter den Top 100 oder Top 20 bist.
 [/list]
