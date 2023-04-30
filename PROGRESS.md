@@ -42,7 +42,7 @@
 
 ### Upcoming Release Notes
 
-- [20230501_schinese.xml](release_notes/20230501_schinese.xml) has 5 indented lines.
+- [20230501_schinese.xml](release_notes/20230501_schinese.xml) has 8 indented lines.
 
 </details>
 
@@ -913,7 +913,7 @@
 
 ### Upcoming Release Notes
 
-- [20230501_german.xml](release_notes/20230501_german.xml) has 5 indented lines.
+- [20230501_german.xml](release_notes/20230501_german.xml) has 8 indented lines.
 
 </details>
 
@@ -925,7 +925,7 @@
 
 ### Upcoming Release Notes
 
-- [20230501_italian.xml](release_notes/20230501_italian.xml) has 5 indented lines.
+- [20230501_italian.xml](release_notes/20230501_italian.xml) has 8 indented lines.
 
 </details>
 
