@@ -2,6 +2,7 @@
 <content><string id="body">本次更新包含如下内容:
 
 [list]
+		[*][b]Accident 32: Confined Facility and J5 Connector:[/b] Reduced networking overhead from minecarts.
 [*]修复 [b]蒂拉鲁斯-5:亚纳鲁斯矿区:[/b] 脚本控制的大门倒地动画错误。
 [*]改进 [b]v45电力护甲:[/b] 提升视觉效果。最后一次使用后不再立即消失(与突击喷气背包类似)。
 [*]修复 [b]AVK-36“神射手”步枪:[/b] 开镜后无法自动装填的问题。
@@ -13,6 +14,8 @@
 [*]修复 士兵装备在复杂阴影区域的光照问题。
 [*]修复 第八个士兵在设置了特定asw_hud_scale值的HUD界面上无法显示的问题。
 [*]修复 投掷物瞄准当前玩家准心位置的错误。之前当玩家发出投掷指令后如果快速移动准心，投掷物瞄准点将变为移动后的准心位置而不是玩家发出指令时瞄准的位置。
+		[*]Uber drones now use the model set for them in Hammer.
+		[*]Improved gib positioning for marines and sentries.
 [*]更新 本月末（第11赛季）起，星际武装部队英雄榜勋章将使用新的外观设计。如果你位列榜单前100或前20名，将不会再收到多个勋章（而是一个可选择外观样式的勋章）。
 [/list]
 </string><string id="subtitle"></string><string id="summary"></string><string id="title">异形丛生：虫启天降 更新 - 2023年5月1日</string></content>
