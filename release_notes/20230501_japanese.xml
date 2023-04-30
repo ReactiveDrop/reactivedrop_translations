@@ -2,7 +2,7 @@
 <content><string id="body">以下の変更を含むアップデートをリリースしました:
 
 [list]
-		[*][b]Accident 32: Confined Facility and J5 Connector:[/b] Reduced networking overhead from minecarts.
+[*][b]Accident 32: Confined Facility及びJ5 Connector:[/b] トロッコが起こしていた余分なネットワーク負荷を軽減。
 [*][b]Tilarus-5: Yanaurus Mine:[/b] スクリプト制御されたドアが表示上では開いてなかったのを修正。
 [*][b]v45 帯電アーマー:[/b] 見やすさを改善した。最後の1回を使用しても即座に見た目上で消えることは無くなった。(強襲ジェットと似た挙動)
 [*][b]AVK-36 マークスマンライフル:[/b] ズームすると自動リロードが無効化されていたのを修正。
@@ -14,8 +14,8 @@
 [*]影が複数落ちている場所での海兵隊の装備に関する照明効果の問題を修正。
 [*]asw_hud_scaleの数値次第で8番目の海兵隊がHUD上で見えなくなることは無くなった。
 [*]海兵隊BOTが投擲アイテムの使用を指示された位置ではなく、現在のプレイヤーの照準位置を狙っていたのを修正。
-		[*]Uber drones now use the model set for them in Hammer.
-		[*]Improved gib positioning for marines and sentries.
+[*]ウーバードローンはHammerエディタ上で固有のモデルで表示されるようになった。
+[*]海兵隊とセントリーの肉片・破片の位置を改善。
 [*]今月末から始まるIAFの英雄たちシーズン11の勲章が、新しいデザインになった。上位100名や20名の場合に別々の勲章を受け取ることは無くなった。
 [/list]
 </string><string id="subtitle"></string><string id="summary"></string><string id="title">Alien Swarm: Reactive Dropアップデート - 2023年5月1日</string></content>
