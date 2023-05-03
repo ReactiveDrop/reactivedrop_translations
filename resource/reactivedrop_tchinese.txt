@@ -2928,6 +2928,8 @@
 "[english]asw_difficulty_chooser_hardd"		"If you’ve played Alien Swarm before, then start here. The Swarm move faster and are harder to kill. Squad tactics are critical to your survival. You’ll also earn more XP."
 "asw_difficulty_chooser_insaned"		"如果你的隊伍已經完成了困難難度的戰役，可以嘗試進行瘋狂難度的戰役以追求真正的挑戰！在此難度下，異形的移動速度和殺傷力都會得到大大地提升，而且更加難以被殺死。准備好迎接更大規模的異形入侵吧！"
 "[english]asw_difficulty_chooser_insaned"		"If your squad has finished the campaign on Hard, try Insane for a real challenge! The Swarm move at lightning speeds, do much more damage, and are harder than ever to kill. Prepare for even more swarms of aliens!"
+		"asw_difficulty_chooser_imbad"		"Brutal."
+		"[english]asw_difficulty_chooser_imbad"		"Brutal."
 "asw_terminal_access"		":: 終端接入 ::"
 "[english]asw_terminal_access"		":: Terminal Access ::"
 "asw_syntek_pda"		":: SynTek 個人終端 ::"
