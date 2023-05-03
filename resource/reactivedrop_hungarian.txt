@@ -2928,6 +2928,8 @@
 "[english]asw_difficulty_chooser_hardd"		"If you’ve played Alien Swarm before, then start here. The Swarm move faster and are harder to kill. Squad tactics are critical to your survival. You’ll also earn more XP."
 "asw_difficulty_chooser_insaned"		"Ha az osztagod befejezte a hadjáratot Nehéz szinten, az igazi kihíváshoz próbáljátok ki az Eszelős szintet! A Raj villámgyorsan mozog, többet sebez, és sokkal nehezebb megölni, mint valaha. Készüljetek még több támadó idegenre!"
 "[english]asw_difficulty_chooser_insaned"		"If your squad has finished the campaign on Hard, try Insane for a real challenge! The Swarm move at lightning speeds, do much more damage, and are harder than ever to kill. Prepare for even more swarms of aliens!"
+		"asw_difficulty_chooser_imbad"		"Brutal."
+		"[english]asw_difficulty_chooser_imbad"		"Brutal."
 "asw_terminal_access"		":: Terminál-hozzáférés ::"
 "[english]asw_terminal_access"		":: Terminal Access ::"
 "asw_syntek_pda"		":: SynTek PDA ::"

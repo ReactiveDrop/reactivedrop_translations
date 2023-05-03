@@ -2928,6 +2928,8 @@
 "[english]asw_difficulty_chooser_hardd"		"If you’ve played Alien Swarm before, then start here. The Swarm move faster and are harder to kill. Squad tactics are critical to your survival. You’ll also earn more XP."
 "asw_difficulty_chooser_insaned"		"만약 귀관의 특공대가 어려움 난이도에서 작전을 완수할 수 있었다면, 진정한 도전을 위해 '광란 ' 난이도를 시도해보세요! 외계 무리들은 번개와 같은 속력으로 움직이고, 더 많은 피해를 입히며, 죽이기가 더 어렵습니다. 더 몰려나올 외계 무리에 대비하세요!"
 "[english]asw_difficulty_chooser_insaned"		"If your squad has finished the campaign on Hard, try Insane for a real challenge! The Swarm move at lightning speeds, do much more damage, and are harder than ever to kill. Prepare for even more swarms of aliens!"
+		"asw_difficulty_chooser_imbad"		"Brutal."
+		"[english]asw_difficulty_chooser_imbad"		"Brutal."
 "asw_terminal_access"		":: 터미널 접속 ::"
 "[english]asw_terminal_access"		":: Terminal Access ::"
 "asw_syntek_pda"		":: 신텍 PDA ::"
