@@ -101,7 +101,7 @@ The new files you create need to have same encoding as their english counterpart
 These files are automatically created based on the `resource/reactivedrop_*.txt` files. You can manually trigger an update of the files through executing `utils/translation-sync-tool.exe`.
 * sync-tool: Very useful verification tool!
  1. It can help solving issues with ci-checks. After you have manually modified the content about achievements, it is highly recommended to run the tool to check for problems. Avoid Pull Request Failure.
- 2. It can automatically synchronize achievement fields from `reactivedrop_*.txt` to `563560_loc_*.vdf`! This is very useful to avoid the painful achievement of comparing and duplicating work.
+ 2. It can automatically synchronize achievement fields from `reactivedrop_*.txt` to `563560_loc_*.vdf`! This is very useful to avoid the painful task of comparing and duplicating work.
 
 ### Mail and News
 Create a copy of each mail and news file, and rename it to your language sufix(e.g. labsmail1_russian.txt). Translate the contents of each file. See labsmail1_russian.txt as an example.
