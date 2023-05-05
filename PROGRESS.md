@@ -8,10 +8,10 @@
 | [Dutch](#non-curated-languages) | 49 | 2004 | 10 | 2393 | 196 | 533 | 319 | 144 |
 | [Finnish](#non-curated-languages) | 49 | 2004 | 10 | 2393 | 196 | 533 | 319 | 144 |
 | [French](#french-français) | 25 | 129 | 10 | 1745 | 196 | 467 | 305 | 123 |
-| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 2 | ✔️ |
+| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Hungarian](#non-curated-languages) | 49 | 129 | 10 | 2393 | 196 | 798 | 319 | 145 |
-| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | 1 | ✔️ | ✔️ | 2 | ✔️ |
-| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | 11 | ✔️ | 102 | 2 | ✔️ |
+| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
+| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | 11 | ✔️ | 102 | ✔️ | ✔️ |
 | [Korean](#koreana-한국어) | 5 | 1 | 6 | 876 | 18 | 251 | 305 | 46 |
 | [Norwegian Bokmål](#non-curated-languages) | 67 | 704 | 15 | 3108 | 196 | 533 | 388 | 145 |
 | [Polish](#polish-polski) | 26 | 2004 | 10 | 2393 | 196 | 529 | 319 | 140 |
@@ -914,9 +914,7 @@
 
 </summary>
 
-### Inventory Schema</summary>
-
-- Item 39 "Mapping Competition Participant (2023)" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_german`, `description_german`
+✓ Up to date!
 
 </details>
 
@@ -926,13 +924,7 @@
 
 </summary>
 
-### Strings
-
-- [reactivedrop_italian.txt](resource/reactivedrop_italian.txt) has 1 untranslated strings.
-
-### Inventory Schema</summary>
-
-- Item 39 "Mapping Competition Participant (2023)" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_italian`, `description_italian`
+✓ Up to date!
 
 </details>
 
@@ -947,10 +939,6 @@
 - [signage_japanese.vdf](misc/signage/signage_japanese.vdf) has 67 untranslated strings.
 - [vgui_japanese.txt](platform/vgui_japanese.txt) has 35 untranslated strings.
 - [reactivedrop_japanese.txt](resource/reactivedrop_japanese.txt) has 11 untranslated strings.
-
-### Inventory Schema</summary>
-
-- Item 39 "Mapping Competition Participant (2023)" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_japanese`, `description_japanese`
 
 </details>
 
