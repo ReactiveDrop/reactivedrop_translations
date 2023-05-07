@@ -1,7 +1,7 @@
 # Overview
 | Language | basemodui | closecaption | gameui | reactivedrop | statsweb | Strings | Inventory | Files |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | 27 | 4 | ✔️ | 1 | ✔️ | ✔️ |
+| [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Traditional Chinese](#tchinese-繁體中文) | 7 | 131 | 28 | 2278 | 196 | 149 | 317 | 144 |
 | [Czech](#czech-čeština) | 69 | 1807 | 37 | 3412 | 196 | 803 | 387 | 144 |
 | [Danish](#non-curated-languages) | 50 | 222 | 37 | 2935 | 196 | 533 | 382 | 145 |
@@ -10,7 +10,7 @@
 | [French](#french-français) | 25 | 129 | 37 | 1745 | 196 | 468 | 305 | 123 |
 | [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Hungarian](#non-curated-languages) | 49 | 129 | 37 | 2393 | 196 | 798 | 319 | 145 |
-| [Italian](#italian-italiano) | ✔️ | ✔️ | 27 | ✔️ | ✔️ | 1 | ✔️ | ✔️ |
+| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Japanese](#japanese-日本語) | ✔️ | ✔️ | 27 | 15 | ✔️ | 103 | ✔️ | ✔️ |
 | [Korean](#koreana-한국어) | 5 | 1 | 33 | 880 | 18 | 252 | 305 | 46 |
 | [Norwegian Bokmål](#non-curated-languages) | 67 | 704 | 42 | 3108 | 196 | 533 | 388 | 145 |
@@ -40,11 +40,7 @@
 
 </summary>
 
-### Strings
-
-- [gameui_schinese.txt](resource/gameui_schinese.txt) has 27 untranslated strings.
-- [reactivedrop_schinese.txt](resource/reactivedrop_schinese.txt) has 4 untranslated strings.
-- [valve_schinese.txt](resource/valve_schinese.txt) has 1 untranslated strings.
+✓ Up to date!
 
 </details>
 
@@ -927,10 +923,7 @@
 
 </summary>
 
-### Strings
-
-- [gameui_italian.txt](resource/gameui_italian.txt) has 27 untranslated strings.
-- [valve_italian.txt](resource/valve_italian.txt) has 1 untranslated strings.
+✓ Up to date!
 
 </details>
 
