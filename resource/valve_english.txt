@@ -31,7 +31,7 @@
 "Valve_Primary_Attack"	"Primary attack"
 "Valve_Secondary_Attack"	"Secondary attack"
 "Valve_Reload_Weapon"	"Reload weapon"
-"Valve_Walk"	"Walk (Move Slowly)"
+"Valve_Walk"	"Crouch (Move Slowly)"
 "Valve_Flashlight"	"Flashlight"
 "Valve_Spray_Logo"	"Spray logo"
 "Valve_ServerOfferingToConnect"	"The server is offering to connect you to:"
