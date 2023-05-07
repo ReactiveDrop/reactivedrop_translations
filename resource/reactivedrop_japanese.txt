@@ -3373,7 +3373,7 @@
 "[english]ASW_MINIGUN_KILLS_NAME"		"Minigun Master"
 "ASW_SNIPER_RIFLE_KILLS_NAME"		"プロの狙撃手"
 "[english]ASW_SNIPER_RIFLE_KILLS_NAME"		"Professional Marksman"
-"ASW_GRENADE_LAUNCHER_KILLS_NAME"		"グレネードのExpert"
+"ASW_GRENADE_LAUNCHER_KILLS_NAME"		"グレネードの達人"
 "[english]ASW_GRENADE_LAUNCHER_KILLS_NAME"		"Grenadier Expert"
 "ASW_COMBAT_RIFLE_KILLS_NAME"		"コンバットライフルの専門家"
 "[english]ASW_COMBAT_RIFLE_KILLS_NAME"		"Combat Specialist"
