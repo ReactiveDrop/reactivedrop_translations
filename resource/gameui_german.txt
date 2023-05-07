@@ -257,7 +257,7 @@
 "[english]GameUI_CreateServer"		"CREATE SERVER"
 "GameUI_Start"		"Start"
 "[english]GameUI_Start"		"Start"
-"GameUI_Console"		"Konsole"
+"GameUI_Console"		"Entwicklerkonsole"
 "[english]GameUI_Console"		"Console"
 "GameUI_Submit"		"Absenden"
 "[english]GameUI_Submit"		"Submit"
