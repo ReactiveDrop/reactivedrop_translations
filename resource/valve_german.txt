@@ -155,7 +155,7 @@
 "[english]Valve_Automatic_Screenshots"		"Automatically take end-game screenshots"
 "Valve_Observer_Crosshair"		"Beobachter Fadenkreuz"
 "[english]Valve_Observer_Crosshair"		"Observer crosshair"
-"Valve_Console_Toggle"		"Entwicklerkonsole umschalten"
+"Valve_Console_Toggle"		"Entwicklerkonsole Ein/Aus"
 "[english]Valve_Console_Toggle"		"Toggle developer console"
 "Spec_Slow_Motion"		"Zeitlupe"
 "[english]Spec_Slow_Motion"		"Slow Motion"
