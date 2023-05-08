@@ -11,7 +11,7 @@
 | [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Hungarian](#non-curated-languages) | 49 | 129 | 37 | 2393 | 196 | 798 | 319 | 145 |
 | [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
-| [Japanese](#japanese-日本語) | ✔️ | ✔️ | 27 | 15 | ✔️ | 103 | ✔️ | ✔️ |
+| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | 11 | ✔️ | 102 | ✔️ | ✔️ |
 | [Korean](#koreana-한국어) | 5 | 1 | 33 | 880 | 18 | 252 | 305 | 46 |
 | [Norwegian Bokmål](#non-curated-languages) | 67 | 704 | 42 | 3108 | 196 | 533 | 388 | 145 |
 | [Polish](#polish-polski) | 26 | 2004 | 37 | 2393 | 196 | 529 | 319 | 140 |
@@ -937,9 +937,7 @@
 
 - [signage_japanese.vdf](misc/signage/signage_japanese.vdf) has 67 untranslated strings.
 - [vgui_japanese.txt](platform/vgui_japanese.txt) has 35 untranslated strings.
-- [gameui_japanese.txt](resource/gameui_japanese.txt) has 27 untranslated strings.
-- [reactivedrop_japanese.txt](resource/reactivedrop_japanese.txt) has 15 untranslated strings.
-- [valve_japanese.txt](resource/valve_japanese.txt) has 1 untranslated strings.
+- [reactivedrop_japanese.txt](resource/reactivedrop_japanese.txt) has 11 untranslated strings.
 
 </details>
 
