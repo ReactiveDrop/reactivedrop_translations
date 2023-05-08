@@ -1,7 +1,7 @@
 # Overview
 | Language | basemodui | closecaption | gameui | reactivedrop | statsweb | Strings | Inventory | Files |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
+| [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | ✔️ | 1 | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Traditional Chinese](#tchinese-繁體中文) | 7 | 131 | 28 | 2278 | 196 | 149 | 317 | 144 |
 | [Czech](#czech-čeština) | 69 | 1807 | 37 | 3412 | 196 | 803 | 387 | 144 |
 | [Danish](#non-curated-languages) | 50 | 222 | 37 | 2935 | 196 | 533 | 382 | 145 |
@@ -10,15 +10,15 @@
 | [French](#french-français) | 25 | 129 | 37 | 1745 | 196 | 468 | 305 | 123 |
 | [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Hungarian](#non-curated-languages) | 49 | 129 | 37 | 2393 | 196 | 798 | 319 | 145 |
-| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
-| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | 11 | ✔️ | 102 | ✔️ | ✔️ |
+| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | 1 | ✔️ | ✔️ | ✔️ | ✔️ |
+| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | 12 | ✔️ | 102 | ✔️ | ✔️ |
 | [Korean](#koreana-한국어) | 5 | 1 | 33 | 880 | 18 | 252 | 305 | 46 |
 | [Norwegian Bokmål](#non-curated-languages) | 67 | 704 | 42 | 3108 | 196 | 533 | 388 | 145 |
 | [Polish](#polish-polski) | 26 | 2004 | 37 | 2393 | 196 | 529 | 319 | 140 |
 | [European Portuguese](#portuguese-português-europeu) | ✔️ | 171 | 27 | 1583 | 23 | 459 | 329 | 138 |
 | [Brazilian Portuguese](#brazilian-português) | ✔️ | 2004 | 27 | 639 | 5 | 87 | 140 | 5 |
 | [Romanian](#non-curated-languages) | 49 | 1996 | 43 | 3115 | 196 | 798 | 365 | 145 |
-| [Russian](#russian-русский) | ✔️ | ✔️ | 27 | 14 | ✔️ | 1 | 2 | 1 |
+| [Russian](#russian-русский) | ✔️ | ✔️ | 27 | 15 | ✔️ | 1 | 2 | 1 |
 | [European Spanish](#spanish-español-de-españa) | 26 | 2004 | 35 | 1797 | 196 | 537 | 315 | 144 |
 | [Latin American Spanish](#latam-español-latinoamericano) | 1279 | 2004 | 632 | 3927 | 200 | 803 | 401 | 145 |
 | [Swedish](#non-curated-languages) | 49 | 2004 | 37 | 2393 | 196 | 533 | 319 | 145 |
@@ -40,7 +40,9 @@
 
 </summary>
 
-✓ Up to date!
+### Strings
+
+- [reactivedrop_schinese.txt](resource/reactivedrop_schinese.txt) has 1 untranslated strings.
 
 </details>
 
@@ -923,7 +925,9 @@
 
 </summary>
 
-✓ Up to date!
+### Strings
+
+- [reactivedrop_italian.txt](resource/reactivedrop_italian.txt) has 1 untranslated strings.
 
 </details>
 
@@ -937,7 +941,7 @@
 
 - [signage_japanese.vdf](misc/signage/signage_japanese.vdf) has 67 untranslated strings.
 - [vgui_japanese.txt](platform/vgui_japanese.txt) has 35 untranslated strings.
-- [reactivedrop_japanese.txt](resource/reactivedrop_japanese.txt) has 11 untranslated strings.
+- [reactivedrop_japanese.txt](resource/reactivedrop_japanese.txt) has 12 untranslated strings.
 
 </details>
 
@@ -1830,7 +1834,7 @@
 ### Strings
 
 - [gameui_russian.txt](resource/gameui_russian.txt) has 27 untranslated strings.
-- [reactivedrop_russian.txt](resource/reactivedrop_russian.txt) has 14 untranslated strings.
+- [reactivedrop_russian.txt](resource/reactivedrop_russian.txt) has 15 untranslated strings.
 - [valve_russian.txt](resource/valve_russian.txt) has 1 untranslated strings.
 
 ### Upcoming Release Notes
