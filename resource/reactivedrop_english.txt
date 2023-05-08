@@ -4369,7 +4369,7 @@
 "RD_AdvancedSettings_Misc_SwarmopediaUnits_Metric"	"Metric (meters)"
 "RD_AdvancedSettings_Misc_SwarmopediaUnits_Imperial"	"Imperial (feet)"
 "RD_AdvancedSettings_Misc_HighlightActiveCharacter"	"Highlight Active Character"
-"RD_AdvancedSettings_Misc_HighlightMyTracers"	"Highlight My Bullet Tracers"
+"RD_AdvancedSettings_Misc_HighlightMyTracers"	"Dim Others Bullet Tracers"
 
 "rd_audio_advanced_mixers_label"	"Advanced Volume Settings"
 "rd_audio_advanced_mixers_tooltip"	"Adjust the volume of each audio channel separately."
