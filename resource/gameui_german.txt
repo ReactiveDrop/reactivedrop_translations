@@ -689,7 +689,7 @@
 "[english]GameUI_NoSaveGamesToDisplay"		"There are currently no save games to display."
 "GameUI_SaveGame_CorruptFile"		"Gespeicherte Spiele sind möglicherweise beschädigt\nund können nicht geladen werden."
 "[english]GameUI_SaveGame_CorruptFile"		"These saved game files have been damaged or corrupted,\nand cannot be loaded."
-"GameUI_EasyDescription"		"Gegner sind einfach zu besiegen; der Computer hilft Ihnen beim Zielen."
+"GameUI_EasyDescription"		"Gegner sind einfach zu besiegen; der Computer hilft dir beim Zielen."
 "[english]GameUI_EasyDescription"		"Enemies are easy to defeat, and the computer helps you aim."
 "GameUI_NormalDescription"		"Bessere Gegner; Waffen mit normaler Durchschlagskraft"
 "[english]GameUI_NormalDescription"		"Challenging enemies; your weapons do normal damage."
