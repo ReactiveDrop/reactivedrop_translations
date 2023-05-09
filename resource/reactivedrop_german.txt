@@ -3229,7 +3229,7 @@
 "[english]nb_spare_skill_points"		"Skill points to spend:"
 "nb_promotion_title"		"IAF-Beförderung"
 "[english]nb_promotion_title"		"IAF Promotion"
-"nb_promotion_description"		"Die IAF hat dir eine Beförderung für Ihre tapfere und standhafte Entschlossenheit im Kampf gegen den Schwarm angeboten."
+"nb_promotion_description"		"Die IAF hat dir eine Beförderung für deine tapfere und standhafte Entschlossenheit im Kampf gegen den Schwarm angeboten."
 "[english]nb_promotion_description"		"The Interstellar Armed Forces has offered you a promotion for your courageous and unwavering resolve in the fight against the Swarm."
 "nb_promotion_warning"		"WARNUNG: DIESER VORGANG SETZT DICH AUF LEVEL 1 ZURÜCK UND SPERRT JEDEN BEREITS FREIGESCHALTETEN AUSRÜSTUNGSGEGENSTAND ERNEUT"
 "[english]nb_promotion_warning"		"WARNING: THIS WILL RESET YOU TO LEVEL 1 AND RE-LOCK ALL EARNED EQUIPMENT"
