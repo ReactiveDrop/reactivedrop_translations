@@ -1,17 +1,17 @@
 # Overview
 | Language | basemodui | closecaption | gameui | reactivedrop | statsweb | Strings | Inventory | Files |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | ✔️ | 29 | ✔️ | ✔️ | ✔️ | ✔️ |
+| [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Traditional Chinese](#tchinese-繁體中文) | 7 | 131 | 28 | 2306 | 196 | 149 | 317 | 144 |
 | [Czech](#czech-čeština) | 69 | 1807 | 37 | 3440 | 196 | 803 | 387 | 144 |
 | [Danish](#non-curated-languages) | 50 | 222 | 37 | 2963 | 196 | 533 | 382 | 145 |
 | [Dutch](#non-curated-languages) | 49 | 2004 | 37 | 2421 | 196 | 533 | 319 | 144 |
 | [Finnish](#non-curated-languages) | 49 | 2004 | 37 | 2421 | 196 | 533 | 319 | 144 |
 | [French](#french-français) | 25 | 129 | 37 | 1773 | 196 | 468 | 305 | 123 |
-| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | 28 | ✔️ | ✔️ | ✔️ | ✔️ |
+| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Hungarian](#non-curated-languages) | 49 | 129 | 37 | 2421 | 196 | 798 | 319 | 145 |
 | [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | 29 | ✔️ | ✔️ | ✔️ | ✔️ |
-| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | 40 | ✔️ | 102 | ✔️ | ✔️ |
+| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | 11 | ✔️ | 102 | ✔️ | ✔️ |
 | [Korean](#koreana-한국어) | 5 | 1 | 33 | 908 | 18 | 252 | 305 | 46 |
 | [Norwegian Bokmål](#non-curated-languages) | 67 | 704 | 42 | 3136 | 196 | 533 | 388 | 145 |
 | [Polish](#polish-polski) | 26 | 2004 | 37 | 2421 | 196 | 529 | 319 | 140 |
@@ -40,9 +40,7 @@
 
 </summary>
 
-### Strings
-
-- [reactivedrop_schinese.txt](resource/reactivedrop_schinese.txt) has 29 untranslated strings.
+✓ Up to date!
 
 </details>
 
@@ -915,9 +913,7 @@
 
 </summary>
 
-### Strings
-
-- [reactivedrop_german.txt](resource/reactivedrop_german.txt) has 28 untranslated strings.
+✓ Up to date!
 
 </details>
 
@@ -943,7 +939,7 @@
 
 - [signage_japanese.vdf](misc/signage/signage_japanese.vdf) has 67 untranslated strings.
 - [vgui_japanese.txt](platform/vgui_japanese.txt) has 35 untranslated strings.
-- [reactivedrop_japanese.txt](resource/reactivedrop_japanese.txt) has 40 untranslated strings.
+- [reactivedrop_japanese.txt](resource/reactivedrop_japanese.txt) has 11 untranslated strings.
 
 </details>
 
