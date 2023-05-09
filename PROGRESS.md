@@ -18,7 +18,7 @@
 | [European Portuguese](#portuguese-português-europeu) | ✔️ | 171 | 27 | 1611 | 23 | 459 | 329 | 138 |
 | [Brazilian Portuguese](#brazilian-português) | ✔️ | 2004 | 27 | 667 | 5 | 87 | 140 | 5 |
 | [Romanian](#non-curated-languages) | 49 | 1996 | 43 | 3143 | 196 | 798 | 365 | 145 |
-| [Russian](#russian-русский) | ✔️ | ✔️ | 27 | 43 | ✔️ | 1 | 2 | 1 |
+| [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [European Spanish](#spanish-español-de-españa) | 26 | 2004 | 35 | 1825 | 196 | 537 | 315 | 144 |
 | [Latin American Spanish](#latam-español-latinoamericano) | 1279 | 2004 | 632 | 3955 | 200 | 803 | 401 | 145 |
 | [Swedish](#non-curated-languages) | 49 | 2004 | 37 | 2421 | 196 | 533 | 319 | 145 |
@@ -1829,19 +1829,7 @@
 
 </summary>
 
-### Strings
-
-- [gameui_russian.txt](resource/gameui_russian.txt) has 27 untranslated strings.
-- [reactivedrop_russian.txt](resource/reactivedrop_russian.txt) has 43 untranslated strings.
-- [valve_russian.txt](resource/valve_russian.txt) has 1 untranslated strings.
-
-### Upcoming Release Notes
-
-- [20230501_russian.xml](release_notes/20230501_english.xml) is missing.
-
-### Inventory Schema</summary>
-
-- Item 39 "Mapping Competition Participant (2023)" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_russian`, `description_russian`
+✓ Up to date!
 
 </details>
 
