@@ -1,31 +1,31 @@
 # Overview
 | Language | basemodui | closecaption | gameui | reactivedrop | statsweb | Strings | Inventory | Files |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 1 |
-| [Traditional Chinese](#tchinese-繁體中文) | 7 | 131 | 1 | 2260 | 196 | 148 | 314 | 144 |
-| [Czech](#czech-čeština) | 69 | 1807 | 10 | 3403 | 196 | 803 | 384 | 144 |
-| [Danish](#non-curated-languages) | 50 | 222 | 10 | 2924 | 196 | 533 | 379 | 145 |
-| [Dutch](#non-curated-languages) | 49 | 2004 | 10 | 2379 | 196 | 533 | 316 | 144 |
-| [Finnish](#non-curated-languages) | 49 | 2004 | 10 | 2379 | 196 | 533 | 316 | 144 |
-| [French](#french-français) | 25 | 129 | 10 | 1731 | 196 | 467 | 302 | 123 |
-| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 1 |
-| [Hungarian](#non-curated-languages) | 49 | 129 | 10 | 2379 | 196 | 798 | 316 | 145 |
-| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 1 |
-| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | 12 | ✔️ | 102 | 29 | ✔️ |
-| [Korean](#koreana-한국어) | 5 | 1 | 6 | 862 | 18 | 251 | 302 | 46 |
-| [Norwegian Bokmål](#non-curated-languages) | 67 | 704 | 15 | 3099 | 196 | 533 | 385 | 145 |
-| [Polish](#polish-polski) | 26 | 2004 | 10 | 2379 | 196 | 533 | 316 | 145 |
-| [European Portuguese](#portuguese-português-europeu) | ✔️ | 171 | ✔️ | 1569 | 23 | 459 | 327 | 138 |
-| [Brazilian Portuguese](#brazilian-português) | ✔️ | 2004 | ✔️ | 625 | 5 | 86 | 138 | 5 |
-| [Romanian](#non-curated-languages) | 49 | 1996 | 16 | 3104 | 196 | 798 | 362 | 145 |
-| [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 1 |
-| [European Spanish](#spanish-español-de-españa) | 26 | 2004 | 8 | 1783 | 196 | 537 | 312 | 144 |
-| [Latin American Spanish](#latam-español-latinoamericano) | 1279 | 2004 | 605 | 3918 | 200 | 803 | 398 | 145 |
-| [Swedish](#non-curated-languages) | 49 | 2004 | 10 | 2379 | 196 | 533 | 316 | 145 |
-| [Thai](#non-curated-languages) | 964 | 1993 | 18 | 3654 | 196 | 562 | 395 | 145 |
-| [Turkish](#non-curated-languages) | 49 | 128 | 10 | 2379 | 196 | 798 | 316 | 145 |
-| [Ukrainian](#ukrainian-українська) | 25 | 122 | ✔️ | 1911 | 196 | 744 | 310 | 144 |
-| [Vietnamese](#vietnamese-tiếng-việt) | 1279 | 2004 | 605 | 3918 | 196 | 749 | 398 | 132 |
+| [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
+| [Traditional Chinese](#tchinese-繁體中文) | 7 | 131 | 28 | 2306 | 196 | 149 | 317 | 144 |
+| [Czech](#czech-čeština) | 69 | 1807 | 37 | 3440 | 196 | 803 | 387 | 144 |
+| [Danish](#non-curated-languages) | 50 | 222 | 37 | 2963 | 196 | 533 | 382 | 145 |
+| [Dutch](#non-curated-languages) | 49 | 2004 | 37 | 2421 | 196 | 533 | 319 | 144 |
+| [Finnish](#non-curated-languages) | 49 | 2004 | 37 | 2421 | 196 | 533 | 319 | 144 |
+| [French](#french-français) | 25 | 129 | 37 | 1773 | 196 | 468 | 305 | 123 |
+| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
+| [Hungarian](#non-curated-languages) | 49 | 129 | 37 | 2421 | 196 | 798 | 319 | 145 |
+| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | 29 | ✔️ | ✔️ | ✔️ | ✔️ |
+| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | 11 | ✔️ | 102 | ✔️ | ✔️ |
+| [Korean](#koreana-한국어) | 5 | 1 | 33 | 908 | 18 | 252 | 305 | 46 |
+| [Norwegian Bokmål](#non-curated-languages) | 67 | 704 | 42 | 3136 | 196 | 533 | 388 | 145 |
+| [Polish](#polish-polski) | 26 | 2004 | 37 | 2421 | 196 | 529 | 319 | 140 |
+| [European Portuguese](#portuguese-português-europeu) | ✔️ | 171 | 27 | 1611 | 23 | 459 | 329 | 138 |
+| [Brazilian Portuguese](#brazilian-português) | ✔️ | 2004 | 27 | 667 | 5 | 87 | 140 | 5 |
+| [Romanian](#non-curated-languages) | 49 | 1996 | 43 | 3143 | 196 | 798 | 365 | 145 |
+| [Russian](#russian-русский) | ✔️ | ✔️ | 27 | 43 | ✔️ | 1 | 2 | 1 |
+| [European Spanish](#spanish-español-de-españa) | 26 | 2004 | 35 | 1825 | 196 | 537 | 315 | 144 |
+| [Latin American Spanish](#latam-español-latinoamericano) | 1279 | 2004 | 632 | 3955 | 200 | 803 | 401 | 145 |
+| [Swedish](#non-curated-languages) | 49 | 2004 | 37 | 2421 | 196 | 533 | 319 | 145 |
+| [Thai](#non-curated-languages) | 964 | 1993 | 45 | 3691 | 196 | 562 | 398 | 145 |
+| [Turkish](#non-curated-languages) | 49 | 128 | 37 | 2421 | 196 | 798 | 319 | 145 |
+| [Ukrainian](#ukrainian-українська) | 25 | 122 | 27 | 1953 | 196 | 744 | 313 | 144 |
+| [Vietnamese](#vietnamese-tiếng-việt) | 1279 | 2004 | 632 | 3955 | 196 | 750 | 401 | 132 |
 ### Legend
 - ***Non-capitalized column headers*** are the most important specific files and their number of missing strings. All of these txt-files are located in the resources folder. Except statsweb, which lies in community/stats_website, it's an vdf-file.
 - ***Strings*** is the number of missing strings not included in one of the files which get an individual non-capitalized column.
@@ -40,9 +40,7 @@
 
 </summary>
 
-### Upcoming Release Notes
-
-- [20230421_schinese.xml](release_notes/20230421_english.xml) is missing.
+✓ Up to date!
 
 </details>
 
@@ -62,8 +60,9 @@
 - [signage_tchinese.vdf](misc/signage/signage_tchinese.vdf) has 69 untranslated strings.
 - [basemodui_tchinese.txt](resource/basemodui_tchinese.txt) has 7 untranslated strings.
 - [closecaption_tchinese.txt](resource/closecaption_tchinese.txt) has 131 untranslated strings.
-- [gameui_tchinese.txt](resource/gameui_tchinese.txt) has 1 untranslated strings.
-- [reactivedrop_tchinese.txt](resource/reactivedrop_tchinese.txt) has 2260 untranslated strings.
+- [gameui_tchinese.txt](resource/gameui_tchinese.txt) has 28 untranslated strings.
+- [reactivedrop_tchinese.txt](resource/reactivedrop_tchinese.txt) has 2306 untranslated strings.
+- [valve_tchinese.txt](resource/valve_tchinese.txt) has 1 untranslated strings.
 
 ### Steam Store and Community
 
@@ -75,7 +74,7 @@
 
 ### Upcoming Release Notes
 
-- [20230421_tchinese.xml](release_notes/20230421_english.xml) is missing.
+- [20230501_tchinese.xml](release_notes/20230501_english.xml) is missing.
 
 ### Credits
 
@@ -261,6 +260,7 @@
 - Item 12 "Artist" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_tchinese`, `description_tchinese`, `display_type_tchinese`
 - Item 14 "Reporter" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_tchinese`, `description_tchinese`, `display_type_tchinese`
 - Item 29 "Streamer" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_tchinese`, `description_tchinese`, `display_type_tchinese`
+- Item 39 "Mapping Competition Participant (2023)" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_tchinese`, `description_tchinese`, `display_type_tchinese`
 - Item 100000000 "Donor: Tears for Tarnor" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_tchinese`, `description_tchinese`, `ingame_description_tchinese`, `after_description_tchinese`, `display_type_tchinese`
 - Item 100000001 "Donor: Paranoia" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_tchinese`, `description_tchinese`, `ingame_description_tchinese`, `after_description_tchinese`, `display_type_tchinese`
 - Item 100000002 "Donor: Lana's Escape" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_tchinese`, `description_tchinese`, `ingame_description_tchinese`, `after_description_tchinese`, `display_type_tchinese`
@@ -356,8 +356,8 @@
 - [basemodui_czech.txt](resource/basemodui_czech.txt) has 69 untranslated strings.
 - [chat_czech.txt](resource/chat_czech.txt) has 8 untranslated strings.
 - [closecaption_czech.txt](resource/closecaption_czech.txt) has 1807 untranslated strings.
-- [gameui_czech.txt](resource/gameui_czech.txt) has 10 untranslated strings.
-- [reactivedrop_czech.txt](resource/reactivedrop_czech.txt) has 3403 untranslated strings.
+- [gameui_czech.txt](resource/gameui_czech.txt) has 37 untranslated strings.
+- [reactivedrop_czech.txt](resource/reactivedrop_czech.txt) has 3440 untranslated strings.
 - [valve_czech.txt](resource/valve_czech.txt) has 266 untranslated strings.
 
 ### Steam Store and Community
@@ -369,7 +369,7 @@
 
 ### Upcoming Release Notes
 
-- [20230421_czech.xml](release_notes/20230421_english.xml) is missing.
+- [20230501_czech.xml](release_notes/20230501_english.xml) is missing.
 
 ### Credits
 
@@ -556,6 +556,7 @@
 - Item 12 "Artist" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_czech`, `description_czech`, `display_type_czech`
 - Item 14 "Reporter" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_czech`, `description_czech`, `display_type_czech`
 - Item 29 "Streamer" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_czech`, `description_czech`, `display_type_czech`
+- Item 39 "Mapping Competition Participant (2023)" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_czech`, `description_czech`, `display_type_czech`
 - Item 100000000 "Donor: Tears for Tarnor" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_czech`, `description_czech`, `ingame_description_czech`, `after_description_czech`, `display_type_czech`
 - Item 100000001 "Donor: Paranoia" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_czech`, `description_czech`, `ingame_description_czech`, `after_description_czech`, `display_type_czech`
 - Item 100000002 "Donor: Lana's Escape" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_czech`, `description_czech`, `ingame_description_czech`, `after_description_czech`, `display_type_czech`
@@ -650,9 +651,9 @@
 - [vgui_french.txt](platform/vgui_french.txt) has 93 untranslated strings.
 - [basemodui_french.txt](resource/basemodui_french.txt) has 25 untranslated strings.
 - [closecaption_french.txt](resource/closecaption_french.txt) has 129 untranslated strings.
-- [gameui_french.txt](resource/gameui_french.txt) has 10 untranslated strings.
-- [reactivedrop_french.txt](resource/reactivedrop_french.txt) has 1731 untranslated strings.
-- [valve_french.txt](resource/valve_french.txt) has 196 untranslated strings.
+- [gameui_french.txt](resource/gameui_french.txt) has 37 untranslated strings.
+- [reactivedrop_french.txt](resource/reactivedrop_french.txt) has 1773 untranslated strings.
+- [valve_french.txt](resource/valve_french.txt) has 197 untranslated strings.
 
 ### Steam Store and Community
 
@@ -663,7 +664,7 @@
 
 ### Upcoming Release Notes
 
-- [20230421_french.xml](release_notes/20230421_english.xml) is missing.
+- [20230501_french.xml](release_notes/20230501_english.xml) is missing.
 
 ### Credits
 
@@ -829,6 +830,7 @@
 - Item 12 "Artist" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_french`, `description_french`, `display_type_french`
 - Item 14 "Reporter" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_french`, `description_french`, `display_type_french`
 - Item 29 "Streamer" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_french`, `description_french`, `display_type_french`
+- Item 39 "Mapping Competition Participant (2023)" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_french`, `description_french`, `display_type_french`
 - Item 100000000 "Donor: Tears for Tarnor" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_french`, `description_french`, `ingame_description_french`, `after_description_french`, `display_type_french`
 - Item 100000001 "Donor: Paranoia" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_french`, `description_french`, `ingame_description_french`, `after_description_french`, `display_type_french`
 - Item 100000002 "Donor: Lana's Escape" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_french`, `description_french`, `ingame_description_french`, `after_description_french`, `display_type_french`
@@ -911,9 +913,7 @@
 
 </summary>
 
-### Upcoming Release Notes
-
-- [20230421_german.xml](release_notes/20230421_english.xml) is missing.
+✓ Up to date!
 
 </details>
 
@@ -923,9 +923,9 @@
 
 </summary>
 
-### Upcoming Release Notes
+### Strings
 
-- [20230421_italian.xml](release_notes/20230421_english.xml) is missing.
+- [reactivedrop_italian.txt](resource/reactivedrop_italian.txt) has 29 untranslated strings.
 
 </details>
 
@@ -939,19 +939,7 @@
 
 - [signage_japanese.vdf](misc/signage/signage_japanese.vdf) has 67 untranslated strings.
 - [vgui_japanese.txt](platform/vgui_japanese.txt) has 35 untranslated strings.
-- [reactivedrop_japanese.txt](resource/reactivedrop_japanese.txt) has 12 untranslated strings.
-
-### Inventory Schema</summary>
-
-- Item 30 "Participant - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `before_description_japanese`
-- Item 31 "Elite - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `description_japanese`, `before_description_japanese`, `style_0_name_japanese`
-- Item 32 "Elite - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `description_japanese`, `before_description_japanese`, `style_0_name_japanese`
-- Item 33 "Elite - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `description_japanese`, `before_description_japanese`, `style_0_name_japanese`
-- Item 34 "Elite - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `description_japanese`, `before_description_japanese`, `style_0_name_japanese`
-- Item 35 "Top 20 - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `description_japanese`, `before_description_japanese`, `style_0_name_japanese`, `style_1_name_japanese`
-- Item 36 "Top 20 - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `description_japanese`, `before_description_japanese`, `style_0_name_japanese`, `style_1_name_japanese`
-- Item 37 "Top 20 - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `description_japanese`, `before_description_japanese`, `style_0_name_japanese`, `style_1_name_japanese`
-- Item 38 "Top 20 - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `description_japanese`, `before_description_japanese`, `style_0_name_japanese`, `style_1_name_japanese`
+- [reactivedrop_japanese.txt](resource/reactivedrop_japanese.txt) has 11 untranslated strings.
 
 </details>
 
@@ -969,9 +957,9 @@
 - [vgui_koreana.txt](platform/vgui_koreana.txt) has 88 untranslated strings.
 - [basemodui_koreana.txt](resource/basemodui_koreana.txt) has 5 untranslated strings.
 - [closecaption_koreana.txt](resource/closecaption_koreana.txt) has 1 untranslated strings.
-- [gameui_koreana.txt](resource/gameui_koreana.txt) has 6 untranslated strings.
-- [reactivedrop_koreana.txt](resource/reactivedrop_koreana.txt) has 862 untranslated strings.
-- [valve_koreana.txt](resource/valve_koreana.txt) has 90 untranslated strings.
+- [gameui_koreana.txt](resource/gameui_koreana.txt) has 33 untranslated strings.
+- [reactivedrop_koreana.txt](resource/reactivedrop_koreana.txt) has 908 untranslated strings.
+- [valve_koreana.txt](resource/valve_koreana.txt) has 91 untranslated strings.
 
 ### Steam Store and Community
 
@@ -981,7 +969,7 @@
 
 ### Upcoming Release Notes
 
-- [20230421_koreana.xml](release_notes/20230421_english.xml) is missing.
+- [20230501_koreana.xml](release_notes/20230501_english.xml) is missing.
 
 ### Credits
 
@@ -1071,6 +1059,7 @@
 - Item 12 "Artist" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_koreana`, `description_koreana`, `display_type_koreana`
 - Item 14 "Reporter" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_koreana`, `description_koreana`, `display_type_koreana`
 - Item 29 "Streamer" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_koreana`, `description_koreana`, `display_type_koreana`
+- Item 39 "Mapping Competition Participant (2023)" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_koreana`, `description_koreana`, `display_type_koreana`
 - Item 100000000 "Donor: Tears for Tarnor" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_koreana`, `description_koreana`, `ingame_description_koreana`, `after_description_koreana`, `display_type_koreana`
 - Item 100000001 "Donor: Paranoia" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_koreana`, `description_koreana`, `ingame_description_koreana`, `after_description_koreana`, `display_type_koreana`
 - Item 100000002 "Donor: Lana's Escape" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_koreana`, `description_koreana`, `ingame_description_koreana`, `after_description_koreana`, `display_type_koreana`
@@ -1159,28 +1148,19 @@
 - [inventory_service_tags_polish.vdf](community/inventory_service/inventory_service_tags_polish.vdf) has 23 untranslated strings.
 - [statsweb_polish.vdf](community/stats_website/statsweb_polish.vdf) has 196 untranslated strings.
 - [steam_input_polish.vdf](community/steam_input/steam_input_polish.vdf) has 19 untranslated strings.
-- [workshop_description_polish.vdf](community/workshop/workshop_description_polish.vdf) has 4 untranslated strings.
 - [signage_polish.vdf](misc/signage/signage_polish.vdf) has 69 untranslated strings.
 - [serverbrowser_polish.txt](platform/servers/serverbrowser_polish.txt) has 24 untranslated strings.
 - [vgui_polish.txt](platform/vgui_polish.txt) has 81 untranslated strings.
 - [basemodui_polish.txt](resource/basemodui_polish.txt) has 26 untranslated strings.
 - [chat_polish.txt](resource/chat_polish.txt) has 8 untranslated strings.
 - [closecaption_polish.txt](resource/closecaption_polish.txt) has 2004 untranslated strings.
-- [gameui_polish.txt](resource/gameui_polish.txt) has 10 untranslated strings.
-- [reactivedrop_polish.txt](resource/reactivedrop_polish.txt) has 2379 untranslated strings.
+- [gameui_polish.txt](resource/gameui_polish.txt) has 37 untranslated strings.
+- [reactivedrop_polish.txt](resource/reactivedrop_polish.txt) has 2421 untranslated strings.
 - [valve_polish.txt](resource/valve_polish.txt) has 266 untranslated strings.
-
-### Steam Store and Community
-
-- [eula_polish.txt](community/eula/eula_english.txt) is missing.
-- [app_items_563560_polish.json](community/points_shop/app_items_563560_english.json) is missing.
-- [workshop_tags_polish.json](community/workshop/workshop_tags_english.json) is missing.
-- [content_warning_563560_polish.txt](store_page/content_warning_563560_english.txt) is missing.
-- [storepage_81731_polish.json](store_page/storepage_81731_polish.json) has 6 indented lines.
 
 ### Upcoming Release Notes
 
-- [20230421_polish.xml](release_notes/20230421_english.xml) is missing.
+- [20230501_polish.xml](release_notes/20230501_english.xml) is missing.
 
 ### Credits
 
@@ -1367,6 +1347,7 @@
 - Item 12 "Artist" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_polish`, `description_polish`, `display_type_polish`
 - Item 14 "Reporter" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_polish`, `description_polish`, `display_type_polish`
 - Item 29 "Streamer" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_polish`, `description_polish`, `display_type_polish`
+- Item 39 "Mapping Competition Participant (2023)" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_polish`, `description_polish`, `display_type_polish`
 - Item 100000000 "Donor: Tears for Tarnor" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_polish`, `description_polish`, `ingame_description_polish`, `after_description_polish`, `display_type_polish`
 - Item 100000001 "Donor: Paranoia" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_polish`, `description_polish`, `ingame_description_polish`, `after_description_polish`, `display_type_polish`
 - Item 100000002 "Donor: Lana's Escape" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_polish`, `description_polish`, `ingame_description_polish`, `after_description_polish`, `display_type_polish`
@@ -1458,7 +1439,8 @@
 - [signage_portuguese.vdf](misc/signage/signage_portuguese.vdf) has 69 untranslated strings.
 - [vgui_portuguese.txt](platform/vgui_portuguese.txt) has 93 untranslated strings.
 - [closecaption_portuguese.txt](resource/closecaption_portuguese.txt) has 171 untranslated strings.
-- [reactivedrop_portuguese.txt](resource/reactivedrop_portuguese.txt) has 1569 untranslated strings.
+- [gameui_portuguese.txt](resource/gameui_portuguese.txt) has 27 untranslated strings.
+- [reactivedrop_portuguese.txt](resource/reactivedrop_portuguese.txt) has 1611 untranslated strings.
 - [valve_portuguese.txt](resource/valve_portuguese.txt) has 266 untranslated strings.
 
 ### Steam Store and Community
@@ -1467,7 +1449,7 @@
 
 ### Upcoming Release Notes
 
-- [20230421_portuguese.xml](release_notes/20230421_english.xml) is missing.
+- [20230501_portuguese.xml](release_notes/20230501_english.xml) is missing.
 
 ### Credits
 
@@ -1645,6 +1627,7 @@
 - Item 38 "Top 20 - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_portuguese`, `briefing_name_portuguese`, `description_portuguese`, `before_description_portuguese`, `display_type_portuguese`, `style_0_name_portuguese`, `style_1_name_portuguese`, `style_2_name_portuguese`
 - Item 14 "Reporter" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_portuguese`, `description_portuguese`
 - Item 29 "Streamer" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_portuguese`, `description_portuguese`
+- Item 39 "Mapping Competition Participant (2023)" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_portuguese`, `description_portuguese`
 - Item 100000000 "Donor: Tears for Tarnor" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_portuguese`, `description_portuguese`, `ingame_description_portuguese`, `after_description_portuguese`, `display_type_portuguese`
 - Item 100000001 "Donor: Paranoia" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_portuguese`, `description_portuguese`, `ingame_description_portuguese`, `after_description_portuguese`, `display_type_portuguese`
 - Item 100000002 "Donor: Lana's Escape" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_portuguese`, `description_portuguese`, `ingame_description_portuguese`, `after_description_portuguese`, `display_type_portuguese`
@@ -1732,11 +1715,13 @@
 - [statsweb_brazilian.vdf](community/stats_website/statsweb_brazilian.vdf) has 5 untranslated strings.
 - [signage_brazilian.vdf](misc/signage/signage_brazilian.vdf) has 69 untranslated strings.
 - [closecaption_brazilian.txt](resource/closecaption_brazilian.txt) has 2004 untranslated strings.
-- [reactivedrop_brazilian.txt](resource/reactivedrop_brazilian.txt) has 625 untranslated strings.
+- [gameui_brazilian.txt](resource/gameui_brazilian.txt) has 27 untranslated strings.
+- [reactivedrop_brazilian.txt](resource/reactivedrop_brazilian.txt) has 667 untranslated strings.
+- [valve_brazilian.txt](resource/valve_brazilian.txt) has 1 untranslated strings.
 
 ### Upcoming Release Notes
 
-- [20230421_brazilian.xml](release_notes/20230421_english.xml) is missing.
+- [20230501_brazilian.xml](release_notes/20230501_english.xml) is missing.
 
 ### Credits
 
@@ -1772,6 +1757,7 @@
 - Item 37 "Top 20 - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `description_brazilian`, `style_0_name_brazilian`, `style_1_name_brazilian`
 - Item 38 "Top 20 - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `description_brazilian`, `style_0_name_brazilian`, `style_1_name_brazilian`
 - Item 29 "Streamer" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_brazilian`, `description_brazilian`
+- Item 39 "Mapping Competition Participant (2023)" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_brazilian`, `description_brazilian`
 - Item 1000 "Sarge's Suit" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_brazilian`, `display_type_brazilian`
 - Item 1001 "Wildcat's Suit" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_brazilian`, `display_type_brazilian`
 - Item 1002 "Faith's Suit" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_brazilian`, `display_type_brazilian`
@@ -1843,9 +1829,19 @@
 
 </summary>
 
+### Strings
+
+- [gameui_russian.txt](resource/gameui_russian.txt) has 27 untranslated strings.
+- [reactivedrop_russian.txt](resource/reactivedrop_russian.txt) has 43 untranslated strings.
+- [valve_russian.txt](resource/valve_russian.txt) has 1 untranslated strings.
+
 ### Upcoming Release Notes
 
-- [20230421_russian.xml](release_notes/20230421_english.xml) is missing.
+- [20230501_russian.xml](release_notes/20230501_english.xml) is missing.
+
+### Inventory Schema</summary>
+
+- Item 39 "Mapping Competition Participant (2023)" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_russian`, `description_russian`
 
 </details>
 
@@ -1867,8 +1863,8 @@
 - [vgui_spanish.txt](platform/vgui_spanish.txt) has 93 untranslated strings.
 - [basemodui_spanish.txt](resource/basemodui_spanish.txt) has 26 untranslated strings.
 - [closecaption_spanish.txt](resource/closecaption_spanish.txt) has 2004 untranslated strings.
-- [gameui_spanish.txt](resource/gameui_spanish.txt) has 8 untranslated strings.
-- [reactivedrop_spanish.txt](resource/reactivedrop_spanish.txt) has 1783 untranslated strings.
+- [gameui_spanish.txt](resource/gameui_spanish.txt) has 35 untranslated strings.
+- [reactivedrop_spanish.txt](resource/reactivedrop_spanish.txt) has 1825 untranslated strings.
 - [valve_spanish.txt](resource/valve_spanish.txt) has 266 untranslated strings.
 
 ### Steam Store and Community
@@ -1880,7 +1876,7 @@
 
 ### Upcoming Release Notes
 
-- [20230421_spanish.xml](release_notes/20230421_english.xml) is missing.
+- [20230501_spanish.xml](release_notes/20230501_english.xml) is missing.
 
 ### Credits
 
@@ -2067,6 +2063,7 @@
 - Item 12 "Artist" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_spanish`, `description_spanish`, `display_type_spanish`
 - Item 14 "Reporter" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_spanish`, `description_spanish`, `display_type_spanish`
 - Item 29 "Streamer" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_spanish`, `description_spanish`, `display_type_spanish`
+- Item 39 "Mapping Competition Participant (2023)" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_spanish`, `description_spanish`, `display_type_spanish`
 - Item 100000000 "Donor: Tears for Tarnor" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_spanish`, `description_spanish`, `ingame_description_spanish`, `after_description_spanish`, `display_type_spanish`
 - Item 100000001 "Donor: Paranoia" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_spanish`, `description_spanish`, `ingame_description_spanish`, `after_description_spanish`, `display_type_spanish`
 - Item 100000002 "Donor: Lana's Escape" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_spanish`, `description_spanish`, `ingame_description_spanish`, `after_description_spanish`, `display_type_spanish`
@@ -2162,8 +2159,8 @@
 - [basemodui_latam.txt](resource/basemodui_latam.txt) has 1279 untranslated strings.
 - [chat_latam.txt](resource/chat_latam.txt) has 8 untranslated strings.
 - [closecaption_latam.txt](resource/closecaption_latam.txt) has 2004 untranslated strings.
-- [gameui_latam.txt](resource/gameui_latam.txt) has 605 untranslated strings.
-- [reactivedrop_latam.txt](resource/reactivedrop_latam.txt) has 3918 untranslated strings.
+- [gameui_latam.txt](resource/gameui_latam.txt) has 632 untranslated strings.
+- [reactivedrop_latam.txt](resource/reactivedrop_latam.txt) has 3955 untranslated strings.
 - [valve_latam.txt](resource/valve_latam.txt) has 266 untranslated strings.
 
 ### Steam Store and Community
@@ -2176,7 +2173,7 @@
 
 ### Upcoming Release Notes
 
-- [20230421_latam.xml](release_notes/20230421_english.xml) is missing.
+- [20230501_latam.xml](release_notes/20230501_english.xml) is missing.
 
 ### Credits
 
@@ -2363,6 +2360,7 @@
 - Item 12 "Artist" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_latam`, `description_latam`, `display_type_latam`
 - Item 14 "Reporter" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_latam`, `description_latam`, `display_type_latam`
 - Item 29 "Streamer" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_latam`, `description_latam`, `display_type_latam`
+- Item 39 "Mapping Competition Participant (2023)" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_latam`, `description_latam`, `display_type_latam`
 - Item 100000000 "Donor: Tears for Tarnor" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_latam`, `description_latam`, `ingame_description_latam`, `after_description_latam`, `display_type_latam`
 - Item 100000001 "Donor: Paranoia" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_latam`, `description_latam`, `ingame_description_latam`, `after_description_latam`, `display_type_latam`
 - Item 100000002 "Donor: Lana's Escape" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_latam`, `description_latam`, `ingame_description_latam`, `after_description_latam`, `display_type_latam`
@@ -2454,7 +2452,8 @@
 - [vgui_ukrainian.txt](platform/vgui_ukrainian.txt) has 184 untranslated strings.
 - [basemodui_ukrainian.txt](resource/basemodui_ukrainian.txt) has 25 untranslated strings.
 - [closecaption_ukrainian.txt](resource/closecaption_ukrainian.txt) has 122 untranslated strings.
-- [reactivedrop_ukrainian.txt](resource/reactivedrop_ukrainian.txt) has 1911 untranslated strings.
+- [gameui_ukrainian.txt](resource/gameui_ukrainian.txt) has 27 untranslated strings.
+- [reactivedrop_ukrainian.txt](resource/reactivedrop_ukrainian.txt) has 1953 untranslated strings.
 - [valve_ukrainian.txt](resource/valve_ukrainian.txt) has 266 untranslated strings.
 
 ### Steam Store and Community
@@ -2466,7 +2465,7 @@
 
 ### Upcoming Release Notes
 
-- [20230421_ukrainian.xml](release_notes/20230421_english.xml) is missing.
+- [20230501_ukrainian.xml](release_notes/20230501_english.xml) is missing.
 
 ### Credits
 
@@ -2653,6 +2652,7 @@
 - Item 12 "Artist" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_ukrainian`, `description_ukrainian`, `display_type_ukrainian`
 - Item 14 "Reporter" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_ukrainian`, `description_ukrainian`, `display_type_ukrainian`
 - Item 29 "Streamer" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_ukrainian`, `description_ukrainian`, `display_type_ukrainian`
+- Item 39 "Mapping Competition Participant (2023)" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_ukrainian`, `description_ukrainian`, `display_type_ukrainian`
 - Item 100000000 "Donor: Tears for Tarnor" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_ukrainian`, `description_ukrainian`, `ingame_description_ukrainian`, `after_description_ukrainian`, `display_type_ukrainian`
 - Item 100000001 "Donor: Paranoia" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_ukrainian`, `description_ukrainian`, `ingame_description_ukrainian`, `after_description_ukrainian`, `display_type_ukrainian`
 - Item 100000002 "Donor: Lana's Escape" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_ukrainian`, `description_ukrainian`, `ingame_description_ukrainian`, `after_description_ukrainian`, `display_type_ukrainian`
@@ -2747,9 +2747,9 @@
 - [basemodui_vietnamese.txt](resource/basemodui_vietnamese.txt) has 1279 untranslated strings.
 - [chat_vietnamese.txt](resource/chat_vietnamese.txt) has 1 untranslated strings.
 - [closecaption_vietnamese.txt](resource/closecaption_vietnamese.txt) has 2004 untranslated strings.
-- [gameui_vietnamese.txt](resource/gameui_vietnamese.txt) has 605 untranslated strings.
-- [reactivedrop_vietnamese.txt](resource/reactivedrop_vietnamese.txt) has 3918 untranslated strings.
-- [valve_vietnamese.txt](resource/valve_vietnamese.txt) has 224 untranslated strings.
+- [gameui_vietnamese.txt](resource/gameui_vietnamese.txt) has 632 untranslated strings.
+- [reactivedrop_vietnamese.txt](resource/reactivedrop_vietnamese.txt) has 3955 untranslated strings.
+- [valve_vietnamese.txt](resource/valve_vietnamese.txt) has 225 untranslated strings.
 
 ### Steam Store and Community
 
@@ -2761,7 +2761,7 @@
 
 ### Upcoming Release Notes
 
-- [20230421_vietnamese.xml](release_notes/20230421_english.xml) is missing.
+- [20230501_vietnamese.xml](release_notes/20230501_english.xml) is missing.
 
 ### Credits
 
@@ -2935,6 +2935,7 @@
 - Item 12 "Artist" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_vietnamese`, `description_vietnamese`, `display_type_vietnamese`
 - Item 14 "Reporter" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_vietnamese`, `description_vietnamese`, `display_type_vietnamese`
 - Item 29 "Streamer" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_vietnamese`, `description_vietnamese`, `display_type_vietnamese`
+- Item 39 "Mapping Competition Participant (2023)" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_vietnamese`, `description_vietnamese`, `display_type_vietnamese`
 - Item 100000000 "Donor: Tears for Tarnor" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_vietnamese`, `description_vietnamese`, `ingame_description_vietnamese`, `after_description_vietnamese`, `display_type_vietnamese`
 - Item 100000001 "Donor: Paranoia" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_vietnamese`, `description_vietnamese`, `ingame_description_vietnamese`, `after_description_vietnamese`, `display_type_vietnamese`
 - Item 100000002 "Donor: Lana's Escape" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_vietnamese`, `description_vietnamese`, `ingame_description_vietnamese`, `after_description_vietnamese`, `display_type_vietnamese`

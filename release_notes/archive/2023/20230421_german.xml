@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<content><string id="body">Es wurde ein Update veröffentlicht, das die folgenden Probleme behebt. Einige dieser Probleme wurden bereits gestern und heute mit Hotfixes behoben.
+
+[list]
+[*]Das Abfeuern von Geschossen verursachte Lag.
+[*]Bots im Verfolgungsmodus verursachten Lag.
+[*]Die Errungenschaft "Heiß genug" war nicht freispielbar. [i]Es ist kein besonderer Trick nötig, um die Errungenschaft zu erlangen; du musst nur aus der Vulkanzone entkommen, ohne dass ein Soldat stirbt.[/i]
+[*]Spieler, die die Einsätze des Beta-Zweigs von Unfall 32 abgeschlossen haben, standen bei den Feldzug-Erfolgen auf 6/6. [i]Spieler/innen in diesem Zustand können die Errungenschaften freischalten, indem sie einen beliebigen Unfall-32-Einsatz abschließen.[/i]
+[*]Das Kapselmodell in den Einsätzen von Unfall 32 hatte eine kaputte Randbeleuchtung.
+[*]Steam-Chat-Statustexte zeigten eine unübersetzte Zeichenfolge für offizielle Einsätze und Herausforderungen.
+[*]Die Inventar-Gegenstand-Beschreibungen für Medaillen für Helden der Interstellaren Streitkräfte wurden falsch dargestellt.
+[*]Combine Striders erzeugten einen Fehlerpartikeleffekt, wenn sie ihre Waffe abfeuerten.
+[*]Soldaten-Kampfrollen hatten sich unbeabsichtigt geändert.
+[*]Die Anzahl der Munition für medizinische Waffen wurde versehentlich geändert.
+[/list]
+
+Addons können jetzt eine Datei namens cfg/autoexec_[Workshop-Addon-Id].cfg enthalten, die ausgeführt wird, wenn das Addon auf dem Client geladen wird. Ein Addon, das das Soldaten-Modell ersetzt und die Rucksackkörpergruppe verwendet, um jeder Klasse ein eigenes Modell zu geben, könnte zum Beispiel eine Autoexec-Datei mit folgendem Inhalt hinzufügen:
+
+[code]rd_marine_gear_hide_backpack 0[/code]</string><string id="subtitle"></string><string id="summary"></string><string id="title">Alien Swarm: Reactive Drop Update - 21. April, 2023</string></content>
