@@ -679,7 +679,7 @@
 "[english]GameUI_OptionsRestart_CancelButton"		"Restart later"
 "GameUI_VideoAdvanced_Title"		"GRAFIK - ERWEITERT"
 "[english]GameUI_VideoAdvanced_Title"		"Video - Advanced"
-"GameUI_HudQuickInfo"		"Quickinfo"
+"GameUI_HudQuickInfo"		"Schnell-Info"
 "[english]GameUI_HudQuickInfo"		"Quick info"
 "GameUI_HudQuickInfo_Info"		"Info zu Munition und Gesundheit auf Fadenkreuz anzeigen"
 "[english]GameUI_HudQuickInfo_Info"		"Show health and ammo info on crosshair"
