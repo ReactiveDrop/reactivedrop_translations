@@ -3221,7 +3221,7 @@
 "[english]nb_item_crafted"		"New Item Created"
 "nb_skill_points"		"Fertigkeitspunkte"
 "[english]nb_skill_points"		"Skill Points"
-"nb_skill_points_fixed"		"Unverstellbar"
+"nb_skill_points_fixed"		"Nicht änderbar"
 "[english]nb_skill_points_fixed"		"Fixed"
 "nb_skill_points_custom"		"Benutzerdefiniert"
 "[english]nb_skill_points_custom"		"Custom"
