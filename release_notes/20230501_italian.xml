@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<content><string id="body">È stato rilasciato un aggiornamento contenente le seguenti modifiche:
+
+[list]
+[*][b]Accident 32: Struttura Limitata e Connettore J5:[/b] Ridotto l'overhead di rete dei carrelli da miniera.
+[*][b]Tilarus-5: Miniera di Yanaurus:[/b] Corrette le porte scriptate che non cadevano
+[*][b]Armatura Elettrica Caricata v45:[/b] Migliorata la visibilità di questo equipaggiamento. Non scompare più immediatamente quando si usa l'ultima carica (simile al jet d'assalto).
+[*][b]Fucile di Precisione AVK-36:[/b] Corretto lo zoom che causava la disattivazione della ricarica automatica.
+[*][b]PS50 Bulldog:[/b] Corretti gli effetti visivi di quest'arma destinati alle armi doppie.
+[*]I Guaritori non curano più la biomassa quando va a fuoco.
+[*]Corretto un crash delle missioni quando non si aveva un tasto dedicato a "utilizza oggetto rapido".
+[*]Corretto il problema delle medaglie che non appaiono nelle lobby ospitate su server dedicati.
+[*]Le armi con mira migliorata dall'accovacciamento ora funzionano sulle piattaforme in movimento. Corretto il problema dei soldati fermi che vengono rilevati come in movimento a causa di errori di arrotondamento.
+[*]Risolti i problemi di illuminazione dell'equipaggiamento dei soldati nelle aree con ombre complesse.
+[*]L'8° soldato non è più nascosto sull'HUD a causa di alcuni valori di asw_hud_scale.
+[*]Corretto il fatto che i bot soldati puntino gli oggetti lanciabili verso il mirino del giocatore anche se questo si è spostato da quando è stato impartito il comando.
+[*]I droni Uber ora utilizzano il modello impostato per loro in Hammer.
+[*]Migliorato il posizionamento dei gib per i soldati e le torrette.
+[*]Le medaglie degli Eroi delle Forze Armate Interstellari, a partire dalla fine di questo mese (stagione 11), avranno un design aggiornato. Non si riceveranno più medaglie multiple per stagione se si è nella top 100 o top 20.
+[/list]
+</string><string id="subtitle"></string><string id="summary"></string><string id="title">Aggiornamento di Alien Swarm: Reactive Drop - 1 Maggio 2023</string></content>
