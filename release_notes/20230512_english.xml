@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<content><string id="body">An update has been released for Alien Swarm: Reactive Drop.
+
+[list]
+[*]Added several community challenge modes to Heroes of the Interstellar Armed Forces.
+[*]Fixed a bug causing anti-cheat to fail to initialize on the sg-servers and Steampunk ranked dedicated servers.
+[*]Added ASRD Tennessee to the Heroes of the Interstellar Armed Forces server list.
+[*]Fixed menuselect commands not being forwarded to VScript.
+[*]Fixed menus created by VScript or SourceMod disappearing after 5 seconds even if their timeout was longer.
+[*]Updated Steam API to version 1.57.
+[*]Prevented servers from running non-whitelisted console commands on clients. Please report any case where this breaks something.
+[/list]</string><string id="subtitle"></string><string id="summary"></string><string id="title">Alien Swarm: Reactive Drop Update - May 12, 2023</string></content>
