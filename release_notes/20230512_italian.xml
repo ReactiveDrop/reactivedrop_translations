@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<content><string id="body">È stato rilasciato un aggiornamento per Alien Swarm: Reactive Drop.
+
+[list]
+[*]Aggiunte diverse modalità sfida della comunità a Eroi delle Forze Armate Interstellari.
+[*]Corretto un bug che causava la mancata inizializzazione dell'anti-cheat sui server sg e sui server dedicati classificati Steampunk.
+[*]Aggiunto ASRD Tennessee all'elenco dei server di Eroi delle Forze Armate Interstellari.
+[*]Corretto il mancato inoltro dei comandi menuselect a VScript.
+[*]Corretto il problema dei menu creati da VScript o SourceMod che scompaiono dopo 5 secondi anche se il loro timeout è più lungo.
+[*]Aggiornata l'API di Steam alla versione 1.57.
+[*]Impedito ai server di eseguire comandi della console non inseriti nella whitelist sui client. Si prega di segnalare tutti i casi in cui questa soluzione si rivela inefficace.
+[/list]</string><string id="subtitle"></string><string id="summary"></string><string id="title">Aggiornamento di Alien Swarm: Reactive Drop - 12 Maggio 2023</string></content>
