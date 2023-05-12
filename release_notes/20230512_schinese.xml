@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<content><string id="body">本次更新包含如下内容:
+
+[list]
+[*]增加 为天梯排位添加了若干社区挑战模式。
+[*]修复 sg-servers和Steampunk排位服上反作弊初始化失败的问题。
+[*]增加 将ASRD Tennessee加入赛季服务器列表。
+[*]修复 menuselect命令无法转发到VScript的错误。
+[*]修复 由VScript或SourceMod创建的菜单即便超时时间更长也会在5秒后消失的问题。
+[*]更新 将Steam API更新至1.57版。
+[*]更新 禁止服务器在客户端上运行白名单以外的控制台命令。如果遇到任何问题请及时反馈。
+[/list]</string><string id="subtitle"></string><string id="summary"></string><string id="title">异形丛生：虫启天降 更新 - 2023年5月12日</string></content>
