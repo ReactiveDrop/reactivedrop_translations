@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<content><string id="body">Es wurde ein Update für Alien Swarm: Reactive Drop veröffentlicht.
+
+[list]
+[*]Zu Helden der interstellaren Streitkräfte wurden mehrere Community-Herausforderungen hinzugefügt.
+[*]Es wurde ein Fehler behoben, der dazu führte, dass die Anti-Cheat-Funktion auf den sg-Servern und den dedizierten Servern mit Steampunk-Rang nicht initialisiert wurde.
+[*]ASRD Tennessee wurde zur Serverliste der Helden der Interstellaren Streitkräfte hinzugefügt.
+[*]Menuselect-Befehle wurden nicht an VScript weitergeleitet.
+[*]Menüs, die von VScript oder SourceMod erstellt wurden, verschwanden nach 5 Sekunden, auch wenn das Timeout länger war.
+[*]Die Steam-API wurde auf Version 1.57 aktualisiert.
+[*]Ab jetzt wird verhindert, dass Server Konsolenbefehle auf Clients ausführen, die nicht auf der Whitelist stehen. Bitte meldet jeden Fall, in dem dies Probleme macht.
+[/list]</string><string id="subtitle"></string><string id="summary"></string><string id="title">Alien Swarm: Reactive Drop Update - 12. Mai 2023</string></content>
