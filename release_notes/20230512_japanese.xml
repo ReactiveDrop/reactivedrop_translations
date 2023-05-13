@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<content><string id="body">Alien Swarm: Reactive Dropのアップデートをリリースしました。
+
+[list]
+[*]Interstellar Armed Forcesの英雄たちにコミュニティ製チャレンジモードをいくつか追加。
+[*]チート防止システムがsg-serversとSteampunkランクサーバー上で正常に起動されていなかったバグを修正。
+[*]ASRDテネシー州サーバーをInterstellar Armed Forcesの英雄たちのサーバーリストに追加。
+[*]menuselectコマンドがVScriptに転送されていなかったのを修正。
+[*]VScriptやSourceModで作られたメニューが設定された時間に関わらず5秒で消えていたのを修正。
+[*]Steam APIをバージョン1.57に更新。
+[*]禁止されたコマンドがクライアント上で実行されるのをサーバーが防止するようにした。このせいで異常が起きた場合は報告をお願いします。
+[/list]</string><string id="subtitle"></string><string id="summary"></string><string id="title">Alien Swarm: Reactive Dropアップデート - 2023年5月12日</string></content>
