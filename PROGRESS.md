@@ -8,17 +8,17 @@
 | [Dutch](#non-curated-languages) | 49 | 2004 | 37 | 2421 | 196 | 533 | 319 | 145 |
 | [Finnish](#non-curated-languages) | 49 | 2004 | 37 | 2421 | 196 | 533 | 319 | 145 |
 | [French](#french-français) | 25 | 129 | 37 | 1773 | 196 | 468 | 305 | 124 |
-| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 1 |
+| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Hungarian](#non-curated-languages) | 49 | 129 | 37 | 2421 | 196 | 798 | 319 | 146 |
 | [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
-| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | 11 | ✔️ | 102 | ✔️ | 1 |
+| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | 11 | ✔️ | 102 | ✔️ | ✔️ |
 | [Korean](#koreana-한국어) | 5 | 1 | 33 | 908 | 18 | 252 | 305 | 47 |
 | [Norwegian Bokmål](#non-curated-languages) | 67 | 704 | 42 | 3136 | 196 | 533 | 388 | 146 |
 | [Polish](#polish-polski) | 26 | 2004 | 37 | 2421 | 196 | 529 | 319 | 141 |
 | [European Portuguese](#portuguese-português-europeu) | ✔️ | 171 | 27 | 1611 | 23 | 459 | 329 | 139 |
 | [Brazilian Portuguese](#brazilian-português) | ✔️ | 2004 | 27 | 667 | 5 | 87 | 140 | 6 |
 | [Romanian](#non-curated-languages) | 49 | 1996 | 43 | 3143 | 196 | 798 | 365 | 146 |
-| [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 1 |
+| [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [European Spanish](#spanish-español-de-españa) | 26 | 2004 | 35 | 1825 | 196 | 537 | 315 | 145 |
 | [Latin American Spanish](#latam-español-latinoamericano) | 1279 | 2004 | 632 | 3955 | 200 | 803 | 401 | 146 |
 | [Swedish](#non-curated-languages) | 49 | 2004 | 37 | 2421 | 196 | 533 | 319 | 146 |
@@ -916,9 +916,7 @@
 
 </summary>
 
-### Upcoming Release Notes
-
-- [20230512_german.xml](release_notes/20230512_english.xml) is missing.
+✓ Up to date!
 
 </details>
 
@@ -943,10 +941,6 @@
 - [signage_japanese.vdf](misc/signage/signage_japanese.vdf) has 67 untranslated strings.
 - [vgui_japanese.txt](platform/vgui_japanese.txt) has 35 untranslated strings.
 - [reactivedrop_japanese.txt](resource/reactivedrop_japanese.txt) has 11 untranslated strings.
-
-### Upcoming Release Notes
-
-- [20230512_japanese.xml](release_notes/20230512_english.xml) is missing.
 
 </details>
 
@@ -1840,9 +1834,7 @@
 
 </summary>
 
-### Upcoming Release Notes
-
-- [20230512_russian.xml](release_notes/20230512_english.xml) is missing.
+✓ Up to date!
 
 </details>
 
