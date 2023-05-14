@@ -554,6 +554,8 @@
 "[english]L4D360UI_MainMenu_Quit"		"QUIT"
 "L4D360UI_MainMenu_FriendsPlaying"		"Amis en jeu : %s1"
 "[english]L4D360UI_MainMenu_FriendsPlaying"		"Friends Playing: %s1"
+		"L4D360UI_MainMenu_PublicLobbies"		"Public Lobbies: %s1"
+		"[english]L4D360UI_MainMenu_PublicLobbies"		"Public Lobbies: %s1"
 "L4D360UI_MainMenu_SteamGroupServers"		"Serveurs de groupe Steam : %s1"
 "[english]L4D360UI_MainMenu_SteamGroupServers"		"Steam Group Servers: %s1"
 "L4D360UI_MainMenu_SeeAll"		"Jouer avec des amis"

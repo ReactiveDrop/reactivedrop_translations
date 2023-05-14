@@ -297,6 +297,7 @@
 "L4D360UI_MainMenu_DisableSplitscreen"	"Disable Splitscreen"
 "L4D360UI_MainMenu_Quit"	"QUIT"
 "L4D360UI_MainMenu_FriendsPlaying"	"Friends Playing: %s1"
+"L4D360UI_MainMenu_PublicLobbies"	"Public Lobbies: %s1"
 "L4D360UI_MainMenu_SteamGroupServers"	"Steam Group Servers: %s1"
 "L4D360UI_MainMenu_SeeAll"	"Play Game With Friends"
 "L4D360UI_MainMenu_Extras"	"EXTRAS"
