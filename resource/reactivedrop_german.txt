@@ -296,7 +296,7 @@
 "[english]asw_xenowound_desc"		"Allows the medic to heal infested marines,\nreducing the duration of the infestation."
 "asw_combatdrugs_desc"		"Erhöht die Wirksamkeit von Adrenalin,\nwenn es von deinem Trupp eingesetzt wird."
 "[english]asw_combatdrugs_desc"		"Boosts effectiveness of adrenaline\nwhen used by your squad."
-"asw_hacking_desc"		"Reduziert die benötigte Zeit beim Hacken\nund beim Herunterladen von wichtigen Dateien."
+"asw_hacking_desc"		"Reduziert die benötigte Zeit beim Hacken\nund beim Herunterladen von wichtigen Daten."
 "[english]asw_hacking_desc"		"Reduces time needed to charge wire\npanel actuators and download critical data."
 "asw_scanner_desc"		"Erhöht Reichweite und Frequenz des Bewegungsmelders."
 "[english]asw_scanner_desc"		"Increases range and rate of the movement scanner."
