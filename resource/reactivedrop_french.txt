@@ -4378,7 +4378,7 @@
 "[english]rd_workshop_update_status_invalid"		"Processing update..."
 "rd_workshop_update_status_preparing_config"		"Preparation de la configuration..."
 "[english]rd_workshop_update_status_preparing_config"		"Preparing configuration..."
-"rd_workshop_update_status_preparing_content"		"Preparation du contentu..."
+"rd_workshop_update_status_preparing_content"		"Preparation du contenu..."
 "[english]rd_workshop_update_status_preparing_content"		"Preparing content..."
 "rd_workshop_update_status_uploading_content"		"Upload du content..."
 "[english]rd_workshop_update_status_uploading_content"		"Uploading content..."
