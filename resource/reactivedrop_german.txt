@@ -8423,9 +8423,9 @@
 "[english]rd_ticker_title"		"IAF News"
 "rd_ticker_stock_up"		"%s1 (%s2) +%s3 Punkte (%s4)"
 // these are imaginary stock market updates on the main menu. %s1 is the company name, %s2 is the symbol (like SYN for SynTek; symbols are not translated), %s3 is a number like 1.23 for how much the stock price changed, and %s4 is a number like 1234.56 for the final stock price.
-"[english]rd_ticker_stock_up"		"%s1 (%s2) +%s3 Punkte (%s4)"
+"[english]rd_ticker_stock_up"		"%s1 (%s2) up +%s3 points (%s4)"
 "rd_ticker_stock_down"		"%s1 (%s2) -%s3 Punkte (%s4)"
-"[english]rd_ticker_stock_down"		"%s1 (%s2) -%s3 Punkte (%s4)"
+"[english]rd_ticker_stock_down"		"%s1 (%s2) down -%s3 points (%s4)"
 "rd_ticker_headline_antheonmissingnews"		"IAF Soldaten bei Moonspire vermisst"
 "[english]rd_ticker_headline_antheonmissingnews"		"IAF marines missing at Moonspire"
 "rd_ticker_headline_antheonmoonnews"		"IAF will Antheon-Mond zurückerobern"
