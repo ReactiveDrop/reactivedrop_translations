@@ -8,7 +8,7 @@
 | [Dutch](#non-curated-languages) | 50 | 2004 | 37 | 2444 | 196 | 533 | 319 | 145 |
 | [Finnish](#non-curated-languages) | 50 | 2004 | 37 | 2444 | 196 | 533 | 319 | 145 |
 | [French](#french-français) | 26 | 129 | 37 | 1796 | 196 | 468 | 305 | 124 |
-| [German](#german-deutsch) | 1 | ✔️ | ✔️ | 23 | ✔️ | ✔️ | ✔️ | ✔️ |
+| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Hungarian](#non-curated-languages) | 50 | 129 | 37 | 2444 | 196 | 798 | 319 | 146 |
 | [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | 11 | ✔️ | 102 | ✔️ | ✔️ |
@@ -18,7 +18,7 @@
 | [European Portuguese](#portuguese-português-europeu) | 1 | 171 | 27 | 1634 | 23 | 459 | 329 | 139 |
 | [Brazilian Portuguese](#brazilian-português) | 1 | 2004 | 27 | 690 | 5 | 87 | 140 | 6 |
 | [Romanian](#non-curated-languages) | 50 | 1996 | 43 | 3166 | 196 | 798 | 365 | 146 |
-| [Russian](#russian-русский) | 1 | ✔️ | ✔️ | 23 | ✔️ | ✔️ | ✔️ | ✔️ |
+| [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [European Spanish](#spanish-español-de-españa) | 27 | 2004 | 35 | 1848 | 196 | 537 | 315 | 145 |
 | [Latin American Spanish](#latam-español-latinoamericano) | 1280 | 2004 | 632 | 3978 | 200 | 803 | 401 | 146 |
 | [Swedish](#non-curated-languages) | 50 | 2004 | 37 | 2444 | 196 | 533 | 319 | 146 |
@@ -916,10 +916,7 @@
 
 </summary>
 
-### Strings
-
-- [basemodui_german.txt](resource/basemodui_german.txt) has 1 untranslated strings.
-- [reactivedrop_german.txt](resource/reactivedrop_german.txt) has 23 untranslated strings.
+✓ Up to date!
 
 </details>
 
@@ -1839,10 +1836,7 @@
 
 </summary>
 
-### Strings
-
-- [basemodui_russian.txt](resource/basemodui_russian.txt) has 1 untranslated strings.
-- [reactivedrop_russian.txt](resource/reactivedrop_russian.txt) has 23 untranslated strings.
+✓ Up to date!
 
 </details>
 
