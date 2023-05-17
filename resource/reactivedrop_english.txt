@@ -4443,6 +4443,9 @@
 "rd_xp_bonus_anniversary"	"Anniversary Week Bonus"
 
 "rd_mainmenu_collections"	"COLLECTIONS"
+// see https://developer.reactivedrop.com/2024/contracts.html
+"rd_mainmenu_contracts"	"Contracts"
+"rd_mainmenu_inventory"	"Inventory"
 "rd_collection_title"	"Collections"
 "rd_collection_inventory_tournament_medals"	"Tournament Medals"
 "rd_collection_inventory_medals"	"Medals"
@@ -4491,6 +4494,7 @@
 "rd_enter_vehicle_passenger"	"Ride Vehicle"
 "rd_enter_vehicle_full"	"Vehicle is Full"
 
+"rd_mainmenu_recordings"	"Recordings"
 "rd_demo_list_title"	"Mission Recordings"
 // This message appears both if a filesystem error occurs or if the demo had an unrecoverable error in it (such as when the game crashes while recording a demo).
 "rd_demo_cant_play_failed_open"	"Could not read demo file."

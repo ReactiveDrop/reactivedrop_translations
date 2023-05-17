@@ -556,6 +556,9 @@
 "[english]L4D360UI_MainMenu_FriendsPlaying"		"Friends Playing: %s1"
 		"L4D360UI_MainMenu_PublicLobbies"		"Public Lobbies: %s1"
 		"[english]L4D360UI_MainMenu_PublicLobbies"		"Public Lobbies: %s1"
+		"L4D360UI_MainMenu_PublicLobbies_More"		"...and %s1 more!"
+		// %s1 is the number of public user-hosted lobbies with at least one empty slot. displays in the scrolling server list on the main menu.
+		"[english]L4D360UI_MainMenu_PublicLobbies_More"		"...and %s1 more!"
 "L4D360UI_MainMenu_SteamGroupServers"		"Servidores do Grupo Steam: %s1"
 "[english]L4D360UI_MainMenu_SteamGroupServers"		"Steam Group Servers: %s1"
 "L4D360UI_MainMenu_SeeAll"		"Jogar com amigos"
