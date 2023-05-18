@@ -10,7 +10,7 @@
 | [French](#french-français) | 27 | 129 | 37 | 1799 | 196 | 468 | 305 | 124 |
 | [German](#german-deutsch) | 1 | ✔️ | ✔️ | 3 | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Hungarian](#non-curated-languages) | 51 | 129 | 37 | 2447 | 196 | 798 | 319 | 146 |
-| [Italian](#italian-italiano) | 1 | ✔️ | ✔️ | 3 | ✔️ | ✔️ | ✔️ | ✔️ |
+| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | 11 | ✔️ | 102 | ✔️ | ✔️ |
 | [Korean](#koreana-한국어) | 7 | 1 | 33 | 934 | 18 | 252 | 305 | 47 |
 | [Norwegian Bokmål](#non-curated-languages) | 69 | 704 | 42 | 3162 | 196 | 533 | 388 | 146 |
@@ -932,10 +932,7 @@
 
 </summary>
 
-### Strings
-
-- [basemodui_italian.txt](resource/basemodui_italian.txt) has 1 untranslated strings.
-- [reactivedrop_italian.txt](resource/reactivedrop_italian.txt) has 3 untranslated strings.
+✓ Up to date!
 
 </details>
 
