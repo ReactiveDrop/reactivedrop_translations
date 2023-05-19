@@ -55,5 +55,13 @@
 "item_store_category_donations"		"Donations"
 // "postage stamps" that cost $1 (or equivalent), with the proceeds going to a mapper.
 "item_store_category_mapstamp"		"Map Stamps"
+// the same, but for artists.
+"item_store_category_artiststamp"		"Artists"
+// the same, but for programmers.
+"item_store_category_programmerstamp"		"Programmers"
+// the same, but for server hosts.
+"item_store_category_serverhoststamp"		"Server Hosts"
+// the same, but for translators.
+"item_store_category_translatorstamp"		"Translators"
 }
 }
