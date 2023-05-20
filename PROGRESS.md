@@ -11,11 +11,11 @@
 | [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 54 | ✔️ |
 | [Hungarian](#non-curated-languages) | 51 | 129 | 37 | 2447 | 196 | 802 | 421 | 146 |
 | [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 4 | 54 | ✔️ |
-| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | 11 | ✔️ | 102 | 30 | ✔️ |
+| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | 11 | ✔️ | 102 | ✔️ | ✔️ |
 | [Korean](#koreana-한국어) | 7 | 1 | 33 | 934 | 18 | 256 | 407 | 47 |
 | [Norwegian Bokmål](#non-curated-languages) | 69 | 704 | 42 | 3162 | 196 | 537 | 490 | 146 |
 | [Polish](#polish-polski) | 28 | 2004 | 37 | 2447 | 196 | 533 | 421 | 141 |
-| [European Portuguese](#portuguese-português-europeu) | 2 | 171 | 27 | 1637 | 23 | 463 | 431 | 139 |
+| [European Portuguese](#portuguese-português-europeu) | ✔️ | 171 | 14 | 1579 | 23 | 463 | 431 | 139 |
 | [Brazilian Portuguese](#brazilian-português) | 2 | 2004 | 27 | 693 | 5 | 91 | 194 | 6 |
 | [Romanian](#non-curated-languages) | 51 | 1996 | 43 | 3169 | 196 | 802 | 467 | 146 |
 | [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 4 | 54 | ✔️ |
@@ -1081,19 +1081,6 @@
 - [vgui_japanese.txt](platform/vgui_japanese.txt) has 35 untranslated strings.
 - [reactivedrop_japanese.txt](resource/reactivedrop_japanese.txt) has 11 untranslated strings.
 
-### Inventory Schema</summary>
-
-- Item 100000019 "Donor: hangumi" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_japanese`, `description_japanese`, `ingame_description_japanese`
-- Item 100000020 "Donor: YOJIMBO" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_japanese`, `description_japanese`, `ingame_description_japanese`
-- Item 100000021 "Donor: QuantumRipple" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_japanese`, `description_japanese`, `ingame_description_japanese`
-- Item 100000024 "Donor: DukeDukeEm" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_japanese`, `description_japanese`, `ingame_description_japanese`
-- Item 100000025 "Donor: Deerlord" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_japanese`, `description_japanese`, `ingame_description_japanese`
-- Item 100000026 "Donor: Blueberry" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_japanese`, `description_japanese`, `ingame_description_japanese`
-- Item 100000027 "Donor: MakinDay" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_japanese`, `description_japanese`, `ingame_description_japanese`
-- Item 100000028 "Donor: Steffo" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_japanese`, `description_japanese`, `ingame_description_japanese`
-- Item 100000029 "Donor: trick-master" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_japanese`, `description_japanese`, `ingame_description_japanese`
-- Item 100000030 "Donor: Efi" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_japanese`, `description_japanese`, `ingame_description_japanese`
-
 </details>
 
 <details><summary>
@@ -1642,10 +1629,9 @@
 - [workshop_description_portuguese.vdf](community/workshop/workshop_description_portuguese.vdf) has 2 untranslated strings.
 - [signage_portuguese.vdf](misc/signage/signage_portuguese.vdf) has 69 untranslated strings.
 - [vgui_portuguese.txt](platform/vgui_portuguese.txt) has 93 untranslated strings.
-- [basemodui_portuguese.txt](resource/basemodui_portuguese.txt) has 2 untranslated strings.
 - [closecaption_portuguese.txt](resource/closecaption_portuguese.txt) has 171 untranslated strings.
-- [gameui_portuguese.txt](resource/gameui_portuguese.txt) has 27 untranslated strings.
-- [reactivedrop_portuguese.txt](resource/reactivedrop_portuguese.txt) has 1637 untranslated strings.
+- [gameui_portuguese.txt](resource/gameui_portuguese.txt) has 14 untranslated strings.
+- [reactivedrop_portuguese.txt](resource/reactivedrop_portuguese.txt) has 1579 untranslated strings.
 - [valve_portuguese.txt](resource/valve_portuguese.txt) has 266 untranslated strings.
 
 ### Steam Store and Community
