@@ -8185,7 +8185,7 @@
 "[english]rd_xp_bonus_anniversary"		"Anniversary Week Bonus"
 "rd_mainmenu_collections"		"コレクション"
 "[english]rd_mainmenu_collections"		"COLLECTIONS"
-"rd_mainmenu_contracts"		"公約"
+"rd_mainmenu_contracts"		"開発受託状況"
 // see https://developer.reactivedrop.com/2024/contracts.html
 "[english]rd_mainmenu_contracts"		"Contracts"
 "rd_mainmenu_inventory"		"インベントリ"
@@ -8405,11 +8405,11 @@
 "asw_money_format"		"$%s1"
 // The value of money is abstract and there's no references to real-world conversion rates, so feel free to change the currency symbol to something relevant to people who speak your language and optionally add some zeroes at the end.
 "[english]asw_money_format"		"$%s1"
-"rd_hoiaf_ends_days_hours"		"Interstellar Armed Forcesの英雄たちのシーズン%s1は残り%s2日と%s3時間で終了します。"
+"rd_hoiaf_ends_days_hours"		"Interstellar Armed Forcesの英雄たちのシーズン%s1は 残り%s2日と%s3時間で終了します。"
 "[english]rd_hoiaf_ends_days_hours"		"Heroes of the Interstellar Armed Forces season %s1 ends in %s2 days %s3 hours."
-"rd_hoiaf_ends_hours"		"Interstellar Armed Forcesの英雄たちのシーズン%s1は残り%s2時間で終了します。"
+"rd_hoiaf_ends_hours"		"Interstellar Armed Forcesの英雄たちのシーズン%s1は 残り%s2時間で終了します。"
 "[english]rd_hoiaf_ends_hours"		"Heroes of the Interstellar Armed Forces season %s1 ends in %s2 hours."
-"rd_hoiaf_ends_soon"		"Interstellar Armed Forcesの英雄たちのシーズン%s1は残り1時間以内に終了します！"
+"rd_hoiaf_ends_soon"		"Interstellar Armed Forcesの英雄たちのシーズン%s1は 残り1時間以内に終了します！"
 "[english]rd_hoiaf_ends_soon"		"Heroes of the Interstellar Armed Forces season %s1 ends in less than an hour!"
 "rd_latest_update_ymd"		"最新アップデート日時 - %s1年%s2月%s3日"
 // %s1 is a 4 digit year, %s2 is a 2 digit month, %s3 is a 2 digit day. if needed, %s4 is a one- or two-digit month and %s5 is a one- or two-digit day.
