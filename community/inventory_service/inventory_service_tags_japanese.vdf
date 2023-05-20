@@ -90,17 +90,17 @@
 "item_store_category_mapstamp"		"マップスタンプ"
 // "postage stamps" that cost $1 (or equivalent), with the proceeds going to a mapper.
 "[english]item_store_category_mapstamp"		"Map Stamps"
-		"item_store_category_artiststamp"		"Artists"
-		// the same, but for artists.
-		"[english]item_store_category_artiststamp"		"Artists"
-		"item_store_category_programmerstamp"		"Programmers"
-		// the same, but for programmers.
-		"[english]item_store_category_programmerstamp"		"Programmers"
-		"item_store_category_serverhoststamp"		"Server Hosts"
-		// the same, but for server hosts.
-		"[english]item_store_category_serverhoststamp"		"Server Hosts"
-		"item_store_category_translatorstamp"		"Translators"
-		// the same, but for translators.
-		"[english]item_store_category_translatorstamp"		"Translators"
+"item_store_category_artiststamp"		"芸術家"
+// the same, but for artists.
+"[english]item_store_category_artiststamp"		"Artists"
+"item_store_category_programmerstamp"		"プログラマー"
+// the same, but for programmers.
+"[english]item_store_category_programmerstamp"		"Programmers"
+"item_store_category_serverhoststamp"		"サーバー管理者"
+// the same, but for server hosts.
+"[english]item_store_category_serverhoststamp"		"Server Hosts"
+"item_store_category_translatorstamp"		"翻訳者"
+// the same, but for translators.
+"[english]item_store_category_translatorstamp"		"Translators"
 }
 }
