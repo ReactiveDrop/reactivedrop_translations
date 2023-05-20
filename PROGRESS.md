@@ -8,17 +8,17 @@
 | [Dutch](#non-curated-languages) | 51 | 2004 | 37 | 2447 | 196 | 537 | 359 | 145 |
 | [Finnish](#non-curated-languages) | 51 | 2004 | 37 | 2447 | 196 | 537 | 359 | 145 |
 | [French](#french-français) | 27 | 129 | 37 | 1799 | 196 | 472 | 345 | 124 |
-| [German](#german-deutsch) | 1 | ✔️ | ✔️ | 3 | ✔️ | 4 | 24 | ✔️ |
+| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 4 | 24 | ✔️ |
 | [Hungarian](#non-curated-languages) | 51 | 129 | 37 | 2447 | 196 | 802 | 359 | 146 |
 | [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 4 | 24 | ✔️ |
-| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | 11 | ✔️ | 106 | 24 | ✔️ |
+| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | 11 | ✔️ | 102 | ✔️ | ✔️ |
 | [Korean](#koreana-한국어) | 7 | 1 | 33 | 934 | 18 | 256 | 345 | 47 |
 | [Norwegian Bokmål](#non-curated-languages) | 69 | 704 | 42 | 3162 | 196 | 537 | 428 | 146 |
 | [Polish](#polish-polski) | 28 | 2004 | 37 | 2447 | 196 | 533 | 359 | 141 |
 | [European Portuguese](#portuguese-português-europeu) | 2 | 171 | 27 | 1637 | 23 | 463 | 369 | 139 |
 | [Brazilian Portuguese](#brazilian-português) | 2 | 2004 | 27 | 693 | 5 | 91 | 164 | 6 |
 | [Romanian](#non-curated-languages) | 51 | 1996 | 43 | 3169 | 196 | 802 | 405 | 146 |
-| [Russian](#russian-русский) | 1 | ✔️ | ✔️ | 3 | ✔️ | 4 | 24 | ✔️ |
+| [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 4 | 24 | ✔️ |
 | [European Spanish](#spanish-español-de-españa) | 28 | 2004 | 35 | 1851 | 196 | 541 | 355 | 145 |
 | [Latin American Spanish](#latam-español-latinoamericano) | 1281 | 2004 | 632 | 3981 | 200 | 807 | 441 | 146 |
 | [Swedish](#non-curated-languages) | 51 | 2004 | 37 | 2447 | 196 | 537 | 359 | 146 |
@@ -958,8 +958,6 @@
 ### Strings
 
 - [inventory_service_tags_german.vdf](community/inventory_service/inventory_service_tags_german.vdf) has 4 untranslated strings.
-- [basemodui_german.txt](resource/basemodui_german.txt) has 1 untranslated strings.
-- [reactivedrop_german.txt](resource/reactivedrop_german.txt) has 3 untranslated strings.
 
 ### Inventory Schema</summary>
 
@@ -1005,21 +1003,9 @@
 
 ### Strings
 
-- [inventory_service_tags_japanese.vdf](community/inventory_service/inventory_service_tags_japanese.vdf) has 4 untranslated strings.
 - [signage_japanese.vdf](misc/signage/signage_japanese.vdf) has 67 untranslated strings.
 - [vgui_japanese.txt](platform/vgui_japanese.txt) has 35 untranslated strings.
 - [reactivedrop_japanese.txt](resource/reactivedrop_japanese.txt) has 11 untranslated strings.
-
-### Inventory Schema</summary>
-
-- Item 100000010 "Donor: Dmitriy" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_japanese`, `description_japanese`, `ingame_description_japanese`
-- Item 100000011 "Donor: Ben Lubar" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_japanese`, `description_japanese`, `ingame_description_japanese`
-- Item 100000012 "Donor: Rayman1103" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_japanese`, `description_japanese`, `ingame_description_japanese`
-- Item 100000013 "Donor: Mithrand" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_japanese`, `description_japanese`, `ingame_description_japanese`
-- Item 100000014 "Donor: Ax-now" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_japanese`, `description_japanese`, `ingame_description_japanese`
-- Item 100000015 "Donor: Beka" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_japanese`, `description_japanese`, `ingame_description_japanese`
-- Item 100000016 "Donor: mfz" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_japanese`, `description_japanese`, `ingame_description_japanese`
-- Item 100000017 "Donor: Grace Lovelace" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_japanese`, `description_japanese`, `ingame_description_japanese`
 
 </details>
 
@@ -1951,8 +1937,6 @@
 ### Strings
 
 - [inventory_service_tags_russian.vdf](community/inventory_service/inventory_service_tags_russian.vdf) has 4 untranslated strings.
-- [basemodui_russian.txt](resource/basemodui_russian.txt) has 1 untranslated strings.
-- [reactivedrop_russian.txt](resource/reactivedrop_russian.txt) has 3 untranslated strings.
 
 ### Inventory Schema</summary>
 
