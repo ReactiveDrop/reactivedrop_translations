@@ -8,7 +8,7 @@
 | [Dutch](#non-curated-languages) | 51 | 2004 | 37 | 2447 | 196 | 537 | 359 | 145 |
 | [Finnish](#non-curated-languages) | 51 | 2004 | 37 | 2447 | 196 | 537 | 359 | 145 |
 | [French](#french-français) | 27 | 129 | 37 | 1799 | 196 | 472 | 345 | 124 |
-| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 4 | 24 | ✔️ |
+| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 24 | ✔️ |
 | [Hungarian](#non-curated-languages) | 51 | 129 | 37 | 2447 | 196 | 802 | 359 | 146 |
 | [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 4 | 24 | ✔️ |
 | [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | 11 | ✔️ | 102 | ✔️ | ✔️ |
@@ -954,10 +954,6 @@
 ## german (Deutsch)
 
 </summary>
-
-### Strings
-
-- [inventory_service_tags_german.vdf](community/inventory_service/inventory_service_tags_german.vdf) has 4 untranslated strings.
 
 ### Inventory Schema</summary>
 
