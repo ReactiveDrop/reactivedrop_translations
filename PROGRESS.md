@@ -11,7 +11,7 @@
 | [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 59 | ✔️ |
 | [Hungarian](#non-curated-languages) | 51 | 129 | 37 | 2447 | 196 | 802 | 428 | 146 |
 | [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 2 | ✔️ |
-| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | 11 | ✔️ | 102 | 5 | ✔️ |
+| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | 11 | ✔️ | 102 | 2 | ✔️ |
 | [Korean](#koreana-한국어) | 7 | 1 | 33 | 934 | 18 | 256 | 414 | 47 |
 | [Norwegian Bokmål](#non-curated-languages) | 69 | 704 | 42 | 3162 | 196 | 537 | 497 | 146 |
 | [Polish](#polish-polski) | 28 | 2004 | 37 | 2447 | 196 | 533 | 428 | 141 |
@@ -1044,7 +1044,6 @@
 
 ### Inventory Schema</summary>
 
-- Item 100000018 "Donor: Stargate75" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_japanese`, `description_japanese`, `ingame_description_japanese`
 - Item 100000034 "Donor: TheScientist" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_japanese`, `ingame_description_japanese`
 
 </details>
