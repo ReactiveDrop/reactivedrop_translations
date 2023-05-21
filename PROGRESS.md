@@ -15,7 +15,7 @@
 | [Korean](#koreana-한국어) | 7 | 1 | 33 | 934 | 18 | 256 | 410 | 47 |
 | [Norwegian Bokmål](#non-curated-languages) | 69 | 704 | 42 | 3162 | 196 | 537 | 493 | 146 |
 | [Polish](#polish-polski) | 28 | 2004 | 37 | 2447 | 196 | 533 | 424 | 141 |
-| [European Portuguese](#portuguese-português-europeu) | ✔️ | 171 | 14 | 1579 | 23 | 463 | 434 | 139 |
+| [European Portuguese](#portuguese-português-europeu) | ✔️ | 171 | 14 | 1559 | 17 | 448 | 434 | 139 |
 | [Brazilian Portuguese](#brazilian-português) | 2 | 2004 | 27 | 693 | 5 | 91 | 197 | 6 |
 | [Romanian](#non-curated-languages) | 51 | 1996 | 43 | 3169 | 196 | 802 | 470 | 146 |
 | [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 4 | 57 | ✔️ |
@@ -1581,14 +1581,14 @@
 ### Strings
 
 - [reactivedrop_portuguese.txt](addons/ExampleAddon/resource/reactivedrop_portuguese.txt) has 12 untranslated strings.
-- [inventory_service_tags_portuguese.vdf](community/inventory_service/inventory_service_tags_portuguese.vdf) has 21 untranslated strings.
-- [statsweb_portuguese.vdf](community/stats_website/statsweb_portuguese.vdf) has 23 untranslated strings.
+- [inventory_service_tags_portuguese.vdf](community/inventory_service/inventory_service_tags_portuguese.vdf) has 6 untranslated strings.
+- [statsweb_portuguese.vdf](community/stats_website/statsweb_portuguese.vdf) has 17 untranslated strings.
 - [workshop_description_portuguese.vdf](community/workshop/workshop_description_portuguese.vdf) has 2 untranslated strings.
 - [signage_portuguese.vdf](misc/signage/signage_portuguese.vdf) has 69 untranslated strings.
 - [vgui_portuguese.txt](platform/vgui_portuguese.txt) has 93 untranslated strings.
 - [closecaption_portuguese.txt](resource/closecaption_portuguese.txt) has 171 untranslated strings.
 - [gameui_portuguese.txt](resource/gameui_portuguese.txt) has 14 untranslated strings.
-- [reactivedrop_portuguese.txt](resource/reactivedrop_portuguese.txt) has 1579 untranslated strings.
+- [reactivedrop_portuguese.txt](resource/reactivedrop_portuguese.txt) has 1559 untranslated strings.
 - [valve_portuguese.txt](resource/valve_portuguese.txt) has 266 untranslated strings.
 
 ### Steam Store and Community
