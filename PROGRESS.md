@@ -10,7 +10,7 @@
 | [French](#french-français) | 27 | 129 | 37 | 1799 | 196 | 472 | 410 | 124 |
 | [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 57 | ✔️ |
 | [Hungarian](#non-curated-languages) | 51 | 129 | 37 | 2447 | 196 | 802 | 424 | 146 |
-| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 4 | 57 | ✔️ |
+| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | 11 | ✔️ | 102 | 3 | ✔️ |
 | [Korean](#koreana-한국어) | 7 | 1 | 33 | 934 | 18 | 256 | 410 | 47 |
 | [Norwegian Bokmål](#non-curated-languages) | 69 | 704 | 42 | 3162 | 196 | 537 | 493 | 146 |
@@ -1018,31 +1018,7 @@
 
 </summary>
 
-### Strings
-
-- [inventory_service_tags_italian.vdf](community/inventory_service/inventory_service_tags_italian.vdf) has 4 untranslated strings.
-
-### Inventory Schema</summary>
-
-- Item 100000010 "Donor: Dmitriy" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_italian`, `description_italian`, `ingame_description_italian`
-- Item 100000011 "Donor: Ben Lubar" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_italian`, `description_italian`, `ingame_description_italian`
-- Item 100000012 "Donor: Rayman1103" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_italian`, `description_italian`, `ingame_description_italian`
-- Item 100000013 "Donor: Mithrand" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_italian`, `description_italian`, `ingame_description_italian`
-- Item 100000014 "Donor: Ax-now" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_italian`, `description_italian`, `ingame_description_italian`
-- Item 100000015 "Donor: Beka" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_italian`, `description_italian`, `ingame_description_italian`
-- Item 100000016 "Donor: mfz" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_italian`, `description_italian`, `ingame_description_italian`
-- Item 100000017 "Donor: Grace Lovelace" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_italian`, `description_italian`, `ingame_description_italian`
-- Item 100000018 "Donor: Stargate75" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_italian`, `description_italian`, `ingame_description_italian`
-- Item 100000019 "Donor: hangumi" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_italian`, `description_italian`, `ingame_description_italian`
-- Item 100000020 "Donor: YOJIMBO" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_italian`, `description_italian`, `ingame_description_italian`
-- Item 100000021 "Donor: QuantumRipple" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_italian`, `description_italian`, `ingame_description_italian`
-- Item 100000024 "Donor: DukeDukeEm" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_italian`, `description_italian`, `ingame_description_italian`
-- Item 100000025 "Donor: Deerlord" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_italian`, `description_italian`, `ingame_description_italian`
-- Item 100000026 "Donor: Blueberry" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_italian`, `description_italian`, `ingame_description_italian`
-- Item 100000027 "Donor: MakinDay" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_italian`, `description_italian`, `ingame_description_italian`
-- Item 100000028 "Donor: Steffo" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_italian`, `description_italian`, `ingame_description_italian`
-- Item 100000029 "Donor: trick-master" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_italian`, `description_italian`, `ingame_description_italian`
-- Item 100000030 "Donor: Efi" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_italian`, `description_italian`, `ingame_description_italian`
+✓ Up to date!
 
 </details>
 
