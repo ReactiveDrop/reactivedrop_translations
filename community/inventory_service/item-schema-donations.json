@@ -917,7 +917,7 @@
 			"display_type_japanese": "寄付者",
 			"display_type_russian": "Спонсорство",
 			"display_type_schinese": "捐赠者",
-			"icon_url": "https://stats.reactivedrop.com/static/medals/error.png",
+			"icon_url": "https://stats.reactivedrop.com/static/medals/donor/serverhost_yojimbo.png",
 			"store_hidden": true,
 			"name_color": "4D7455",
 			"store_tags": "serverhoststamp;donation",
