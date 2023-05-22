@@ -1,7 +1,7 @@
 # Overview
 | Language | basemodui | closecaption | gameui | reactivedrop | statsweb | Strings | Inventory | Files |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | ✔️ | 3 | ✔️ | ✔️ | 2 | ✔️ |
+| [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Traditional Chinese](#tchinese-繁體中文) | 9 | 131 | 28 | 2333 | 196 | 153 | 427 | 145 |
 | [Czech](#czech-čeština) | 71 | 1807 | 37 | 3467 | 196 | 807 | 497 | 145 |
 | [Danish](#non-curated-languages) | 52 | 222 | 37 | 2990 | 196 | 537 | 492 | 146 |
@@ -40,13 +40,7 @@
 
 </summary>
 
-### Strings
-
-- [reactivedrop_schinese.txt](resource/reactivedrop_schinese.txt) has 3 untranslated strings.
-
-### Inventory Schema</summary>
-
-- Item 100000034 "Donor: TheScientist" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `description_schinese`, `ingame_description_schinese`
+✓ Up to date!
 
 </details>
 
