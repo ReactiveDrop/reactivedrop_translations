@@ -8,10 +8,10 @@
 | [Dutch](#non-curated-languages) | 51 | 2004 | 37 | 2448 | 196 | 537 | 428 | 145 |
 | [Finnish](#non-curated-languages) | 51 | 2004 | 37 | 2448 | 196 | 537 | 428 | 145 |
 | [French](#french-français) | 27 | 129 | 37 | 1802 | 196 | 472 | 414 | 124 |
-| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | 3 | ✔️ | ✔️ | 59 | ✔️ |
+| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 59 | ✔️ |
 | [Hungarian](#non-curated-languages) | 51 | 129 | 37 | 2448 | 196 | 802 | 428 | 146 |
 | [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | 3 | ✔️ | ✔️ | 2 | ✔️ |
-| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | 14 | ✔️ | 102 | 2 | ✔️ |
+| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | 11 | ✔️ | 102 | ✔️ | ✔️ |
 | [Korean](#koreana-한국어) | 7 | 1 | 33 | 937 | 18 | 256 | 414 | 47 |
 | [Norwegian Bokmål](#non-curated-languages) | 69 | 704 | 42 | 3163 | 196 | 537 | 497 | 146 |
 | [Polish](#polish-polski) | 28 | 2004 | 37 | 2448 | 196 | 533 | 428 | 141 |
@@ -997,10 +997,6 @@
 
 </summary>
 
-### Strings
-
-- [reactivedrop_german.txt](resource/reactivedrop_german.txt) has 3 untranslated strings.
-
 ### Inventory Schema</summary>
 
 - Item 100000010 "Donor: Dmitriy" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_german`, `description_german`, `ingame_description_german`
@@ -1052,11 +1048,7 @@
 
 - [signage_japanese.vdf](misc/signage/signage_japanese.vdf) has 67 untranslated strings.
 - [vgui_japanese.txt](platform/vgui_japanese.txt) has 35 untranslated strings.
-- [reactivedrop_japanese.txt](resource/reactivedrop_japanese.txt) has 14 untranslated strings.
-
-### Inventory Schema</summary>
-
-- Item 100000034 "Donor: TheScientist" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_japanese`, `ingame_description_japanese`
+- [reactivedrop_japanese.txt](resource/reactivedrop_japanese.txt) has 11 untranslated strings.
 
 </details>
 
