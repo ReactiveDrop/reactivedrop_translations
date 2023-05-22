@@ -1,31 +1,31 @@
 # Overview
 | Language | basemodui | closecaption | gameui | reactivedrop | statsweb | Strings | Inventory | Files |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | ✔️ | 3 | ✔️ | ✔️ | 1 | ✔️ |
-| [Traditional Chinese](#tchinese-繁體中文) | 9 | 131 | 28 | 2333 | 196 | 153 | 426 | 145 |
-| [Czech](#czech-čeština) | 71 | 1807 | 37 | 3467 | 196 | 807 | 496 | 145 |
-| [Danish](#non-curated-languages) | 52 | 222 | 37 | 2990 | 196 | 537 | 491 | 146 |
-| [Dutch](#non-curated-languages) | 51 | 2004 | 37 | 2448 | 196 | 537 | 428 | 145 |
-| [Finnish](#non-curated-languages) | 51 | 2004 | 37 | 2448 | 196 | 537 | 428 | 145 |
-| [French](#french-français) | 27 | 129 | 37 | 1802 | 196 | 472 | 414 | 124 |
-| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 59 | ✔️ |
-| [Hungarian](#non-curated-languages) | 51 | 129 | 37 | 2448 | 196 | 802 | 428 | 146 |
-| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | 3 | ✔️ | ✔️ | 2 | ✔️ |
+| [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | ✔️ | 3 | ✔️ | ✔️ | 2 | ✔️ |
+| [Traditional Chinese](#tchinese-繁體中文) | 9 | 131 | 28 | 2333 | 196 | 153 | 427 | 145 |
+| [Czech](#czech-čeština) | 71 | 1807 | 37 | 3467 | 196 | 807 | 497 | 145 |
+| [Danish](#non-curated-languages) | 52 | 222 | 37 | 2990 | 196 | 537 | 492 | 146 |
+| [Dutch](#non-curated-languages) | 51 | 2004 | 37 | 2448 | 196 | 537 | 429 | 145 |
+| [Finnish](#non-curated-languages) | 51 | 2004 | 37 | 2448 | 196 | 537 | 429 | 145 |
+| [French](#french-français) | 27 | 129 | 37 | 1802 | 196 | 472 | 415 | 124 |
+| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 60 | ✔️ |
+| [Hungarian](#non-curated-languages) | 51 | 129 | 37 | 2448 | 196 | 802 | 429 | 146 |
+| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | 3 | ✔️ | ✔️ | 3 | ✔️ |
 | [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | 11 | ✔️ | 102 | ✔️ | ✔️ |
-| [Korean](#koreana-한국어) | 7 | 1 | 33 | 937 | 18 | 256 | 414 | 47 |
-| [Norwegian Bokmål](#non-curated-languages) | 69 | 704 | 42 | 3163 | 196 | 537 | 497 | 146 |
-| [Polish](#polish-polski) | 28 | 2004 | 37 | 2448 | 196 | 533 | 428 | 141 |
-| [European Portuguese](#portuguese-português-europeu) | ✔️ | 171 | 14 | 1562 | 17 | 448 | 438 | 139 |
-| [Brazilian Portuguese](#brazilian-português) | 2 | 2004 | 27 | 696 | 5 | 91 | 199 | 6 |
-| [Romanian](#non-curated-languages) | 51 | 1996 | 43 | 3170 | 196 | 802 | 474 | 146 |
-| [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | 3 | ✔️ | 4 | 59 | ✔️ |
-| [European Spanish](#spanish-español-de-españa) | 28 | 2004 | 35 | 1854 | 196 | 541 | 424 | 145 |
-| [Latin American Spanish](#latam-español-latinoamericano) | 1281 | 2004 | 632 | 3982 | 200 | 807 | 510 | 146 |
-| [Swedish](#non-curated-languages) | 51 | 2004 | 37 | 2448 | 196 | 537 | 428 | 146 |
-| [Thai](#non-curated-languages) | 966 | 1993 | 45 | 3718 | 196 | 566 | 507 | 146 |
-| [Turkish](#non-curated-languages) | 51 | 128 | 37 | 2448 | 196 | 802 | 428 | 146 |
-| [Ukrainian](#ukrainian-українська) | 27 | 122 | 27 | 1982 | 196 | 748 | 422 | 145 |
-| [Vietnamese](#vietnamese-tiếng-việt) | 1281 | 2004 | 632 | 3982 | 196 | 754 | 510 | 133 |
+| [Korean](#koreana-한국어) | 7 | 1 | 33 | 937 | 18 | 256 | 415 | 47 |
+| [Norwegian Bokmål](#non-curated-languages) | 69 | 704 | 42 | 3163 | 196 | 537 | 498 | 146 |
+| [Polish](#polish-polski) | 28 | 2004 | 37 | 2448 | 196 | 533 | 429 | 141 |
+| [European Portuguese](#portuguese-português-europeu) | ✔️ | 171 | 14 | 1562 | 17 | 448 | 439 | 139 |
+| [Brazilian Portuguese](#brazilian-português) | 2 | 2004 | 27 | 696 | 5 | 91 | 200 | 6 |
+| [Romanian](#non-curated-languages) | 51 | 1996 | 43 | 3170 | 196 | 802 | 475 | 146 |
+| [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | 3 | ✔️ | 4 | 60 | ✔️ |
+| [European Spanish](#spanish-español-de-españa) | 28 | 2004 | 35 | 1854 | 196 | 541 | 425 | 145 |
+| [Latin American Spanish](#latam-español-latinoamericano) | 1281 | 2004 | 632 | 3982 | 200 | 807 | 511 | 146 |
+| [Swedish](#non-curated-languages) | 51 | 2004 | 37 | 2448 | 196 | 537 | 429 | 146 |
+| [Thai](#non-curated-languages) | 966 | 1993 | 45 | 3718 | 196 | 566 | 508 | 146 |
+| [Turkish](#non-curated-languages) | 51 | 128 | 37 | 2448 | 196 | 802 | 429 | 146 |
+| [Ukrainian](#ukrainian-українська) | 27 | 122 | 27 | 1982 | 196 | 748 | 423 | 145 |
+| [Vietnamese](#vietnamese-tiếng-việt) | 1281 | 2004 | 632 | 3982 | 196 | 754 | 511 | 133 |
 ### Legend
 - ***Non-capitalized column headers*** are the most important specific files and their number of missing strings. All of these txt-files are located in the resources folder. Except statsweb, which lies in community/stats_website, it's an vdf-file.
 - ***Strings*** is the number of missing strings not included in one of the files which get an individual non-capitalized column.
@@ -46,7 +46,7 @@
 
 ### Inventory Schema</summary>
 
-- Item 100000034 "Donor: TheScientist" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `ingame_description_schinese`
+- Item 100000034 "Donor: TheScientist" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `description_schinese`, `ingame_description_schinese`
 
 </details>
 
@@ -302,7 +302,7 @@
 - Item 100000031 %!q(<nil>) in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `after_description_tchinese`, `display_type_tchinese`
 - Item 100000032 %!q(<nil>) in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `after_description_tchinese`, `display_type_tchinese`
 - Item 100000033 %!q(<nil>) in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `after_description_tchinese`, `display_type_tchinese`
-- Item 100000034 "Donor: TheScientist" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_tchinese`, `ingame_description_tchinese`, `after_description_tchinese`, `display_type_tchinese`
+- Item 100000034 "Donor: TheScientist" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_tchinese`, `description_tchinese`, `ingame_description_tchinese`, `after_description_tchinese`, `display_type_tchinese`
 - Item 1000 "Sarge's Suit" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_tchinese`, `display_type_tchinese`
 - Item 1001 "Wildcat's Suit" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_tchinese`, `display_type_tchinese`
 - Item 1002 "Faith's Suit" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_tchinese`, `display_type_tchinese`
@@ -624,7 +624,7 @@
 - Item 100000031 %!q(<nil>) in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `after_description_czech`, `display_type_czech`
 - Item 100000032 %!q(<nil>) in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `after_description_czech`, `display_type_czech`
 - Item 100000033 %!q(<nil>) in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `after_description_czech`, `display_type_czech`
-- Item 100000034 "Donor: TheScientist" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_czech`, `ingame_description_czech`, `after_description_czech`, `display_type_czech`
+- Item 100000034 "Donor: TheScientist" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_czech`, `description_czech`, `ingame_description_czech`, `after_description_czech`, `display_type_czech`
 - Item 1000 "Sarge's Suit" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_czech`, `description_czech`, `display_type_czech`
 - Item 1001 "Wildcat's Suit" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_czech`, `description_czech`, `display_type_czech`
 - Item 1002 "Faith's Suit" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_czech`, `description_czech`, `display_type_czech`
@@ -924,7 +924,7 @@
 - Item 100000031 %!q(<nil>) in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `after_description_french`, `display_type_french`
 - Item 100000032 %!q(<nil>) in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `after_description_french`, `display_type_french`
 - Item 100000033 %!q(<nil>) in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `after_description_french`, `display_type_french`
-- Item 100000034 "Donor: TheScientist" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_french`, `ingame_description_french`, `after_description_french`, `display_type_french`
+- Item 100000034 "Donor: TheScientist" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_french`, `description_french`, `ingame_description_french`, `after_description_french`, `display_type_french`
 - Item 1000 "Sarge's Suit" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_french`, `display_type_french`
 - Item 1001 "Wildcat's Suit" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_french`, `display_type_french`
 - Item 1002 "Faith's Suit" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_french`, `display_type_french`
@@ -1018,7 +1018,7 @@
 - Item 100000028 "Donor: Steffo" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_german`, `description_german`, `ingame_description_german`
 - Item 100000029 "Donor: trick-master" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_german`, `description_german`, `ingame_description_german`
 - Item 100000030 "Donor: Efi" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_german`, `description_german`, `ingame_description_german`
-- Item 100000034 "Donor: TheScientist" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_german`, `ingame_description_german`
+- Item 100000034 "Donor: TheScientist" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_german`, `description_german`, `ingame_description_german`
 
 </details>
 
@@ -1034,7 +1034,7 @@
 
 ### Inventory Schema</summary>
 
-- Item 100000034 "Donor: TheScientist" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_italian`, `ingame_description_italian`
+- Item 100000034 "Donor: TheScientist" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_italian`, `description_italian`, `ingame_description_italian`
 
 </details>
 
@@ -1205,7 +1205,7 @@
 - Item 100000031 %!q(<nil>) in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `after_description_koreana`, `display_type_koreana`
 - Item 100000032 %!q(<nil>) in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `after_description_koreana`, `display_type_koreana`
 - Item 100000033 %!q(<nil>) in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `after_description_koreana`, `display_type_koreana`
-- Item 100000034 "Donor: TheScientist" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_koreana`, `ingame_description_koreana`, `after_description_koreana`, `display_type_koreana`
+- Item 100000034 "Donor: TheScientist" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_koreana`, `description_koreana`, `ingame_description_koreana`, `after_description_koreana`, `display_type_koreana`
 - Item 1000 "Sarge's Suit" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_koreana`, `display_type_koreana`
 - Item 1001 "Wildcat's Suit" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_koreana`, `display_type_koreana`
 - Item 1002 "Faith's Suit" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_koreana`, `display_type_koreana`
@@ -1519,7 +1519,7 @@
 - Item 100000031 %!q(<nil>) in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `after_description_polish`, `display_type_polish`
 - Item 100000032 %!q(<nil>) in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `after_description_polish`, `display_type_polish`
 - Item 100000033 %!q(<nil>) in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `after_description_polish`, `display_type_polish`
-- Item 100000034 "Donor: TheScientist" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_polish`, `ingame_description_polish`, `after_description_polish`, `display_type_polish`
+- Item 100000034 "Donor: TheScientist" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_polish`, `description_polish`, `ingame_description_polish`, `after_description_polish`, `display_type_polish`
 - Item 1000 "Sarge's Suit" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_polish`, `display_type_polish`
 - Item 1001 "Wildcat's Suit" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_polish`, `display_type_polish`
 - Item 1002 "Faith's Suit" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_polish`, `display_type_polish`
@@ -1825,7 +1825,7 @@
 - Item 100000031 %!q(<nil>) in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `after_description_portuguese`, `display_type_portuguese`
 - Item 100000032 %!q(<nil>) in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `after_description_portuguese`, `display_type_portuguese`
 - Item 100000033 %!q(<nil>) in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `after_description_portuguese`, `display_type_portuguese`
-- Item 100000034 "Donor: TheScientist" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_portuguese`, `ingame_description_portuguese`, `after_description_portuguese`, `display_type_portuguese`
+- Item 100000034 "Donor: TheScientist" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_portuguese`, `description_portuguese`, `ingame_description_portuguese`, `after_description_portuguese`, `display_type_portuguese`
 - Item 1000 "Sarge's Suit" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_portuguese`, `display_type_portuguese`
 - Item 1001 "Wildcat's Suit" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_portuguese`, `description_portuguese`, `display_type_portuguese`
 - Item 1002 "Faith's Suit" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_portuguese`, `description_portuguese`, `display_type_portuguese`
@@ -1967,7 +1967,7 @@
 - Item 100000028 "Donor: Steffo" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_brazilian`, `description_brazilian`, `ingame_description_brazilian`
 - Item 100000029 "Donor: trick-master" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_brazilian`, `description_brazilian`, `ingame_description_brazilian`
 - Item 100000030 "Donor: Efi" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_brazilian`, `description_brazilian`, `ingame_description_brazilian`
-- Item 100000034 "Donor: TheScientist" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_brazilian`, `ingame_description_brazilian`
+- Item 100000034 "Donor: TheScientist" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_brazilian`, `description_brazilian`, `ingame_description_brazilian`
 - Item 1000 "Sarge's Suit" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_brazilian`, `display_type_brazilian`
 - Item 1001 "Wildcat's Suit" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_brazilian`, `display_type_brazilian`
 - Item 1002 "Faith's Suit" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_brazilian`, `display_type_brazilian`
@@ -2065,7 +2065,7 @@
 - Item 100000028 "Donor: Steffo" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_russian`, `description_russian`, `ingame_description_russian`
 - Item 100000029 "Donor: trick-master" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_russian`, `description_russian`, `ingame_description_russian`
 - Item 100000030 "Donor: Efi" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_russian`, `description_russian`, `ingame_description_russian`
-- Item 100000034 "Donor: TheScientist" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_russian`, `ingame_description_russian`
+- Item 100000034 "Donor: TheScientist" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_russian`, `description_russian`, `ingame_description_russian`
 
 </details>
 
@@ -2323,7 +2323,7 @@
 - Item 100000031 %!q(<nil>) in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `after_description_spanish`, `display_type_spanish`
 - Item 100000032 %!q(<nil>) in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `after_description_spanish`, `display_type_spanish`
 - Item 100000033 %!q(<nil>) in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `after_description_spanish`, `display_type_spanish`
-- Item 100000034 "Donor: TheScientist" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_spanish`, `ingame_description_spanish`, `after_description_spanish`, `display_type_spanish`
+- Item 100000034 "Donor: TheScientist" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_spanish`, `description_spanish`, `ingame_description_spanish`, `after_description_spanish`, `display_type_spanish`
 - Item 1000 "Sarge's Suit" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_spanish`, `description_spanish`, `display_type_spanish`
 - Item 1001 "Wildcat's Suit" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_spanish`, `description_spanish`, `display_type_spanish`
 - Item 1002 "Faith's Suit" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_spanish`, `description_spanish`, `display_type_spanish`
@@ -2646,7 +2646,7 @@
 - Item 100000031 %!q(<nil>) in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `after_description_latam`, `display_type_latam`
 - Item 100000032 %!q(<nil>) in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `after_description_latam`, `display_type_latam`
 - Item 100000033 %!q(<nil>) in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `after_description_latam`, `display_type_latam`
-- Item 100000034 "Donor: TheScientist" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_latam`, `ingame_description_latam`, `after_description_latam`, `display_type_latam`
+- Item 100000034 "Donor: TheScientist" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_latam`, `description_latam`, `ingame_description_latam`, `after_description_latam`, `display_type_latam`
 - Item 1000 "Sarge's Suit" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_latam`, `description_latam`, `display_type_latam`
 - Item 1001 "Wildcat's Suit" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_latam`, `description_latam`, `display_type_latam`
 - Item 1002 "Faith's Suit" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_latam`, `description_latam`, `display_type_latam`
@@ -2965,7 +2965,7 @@
 - Item 100000031 %!q(<nil>) in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `after_description_ukrainian`, `display_type_ukrainian`
 - Item 100000032 %!q(<nil>) in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `after_description_ukrainian`, `display_type_ukrainian`
 - Item 100000033 %!q(<nil>) in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `after_description_ukrainian`, `display_type_ukrainian`
-- Item 100000034 "Donor: TheScientist" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_ukrainian`, `ingame_description_ukrainian`, `after_description_ukrainian`, `display_type_ukrainian`
+- Item 100000034 "Donor: TheScientist" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_ukrainian`, `description_ukrainian`, `ingame_description_ukrainian`, `after_description_ukrainian`, `display_type_ukrainian`
 - Item 1000 "Sarge's Suit" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_ukrainian`, `display_type_ukrainian`
 - Item 1001 "Wildcat's Suit" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_ukrainian`, `display_type_ukrainian`
 - Item 1002 "Faith's Suit" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_ukrainian`, `display_type_ukrainian`
@@ -3274,7 +3274,7 @@
 - Item 100000031 %!q(<nil>) in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `after_description_vietnamese`, `display_type_vietnamese`
 - Item 100000032 %!q(<nil>) in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `after_description_vietnamese`, `display_type_vietnamese`
 - Item 100000033 %!q(<nil>) in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `after_description_vietnamese`, `display_type_vietnamese`
-- Item 100000034 "Donor: TheScientist" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_vietnamese`, `ingame_description_vietnamese`, `after_description_vietnamese`, `display_type_vietnamese`
+- Item 100000034 "Donor: TheScientist" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_vietnamese`, `description_vietnamese`, `ingame_description_vietnamese`, `after_description_vietnamese`, `display_type_vietnamese`
 - Item 1000 "Sarge's Suit" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_vietnamese`, `description_vietnamese`, `display_type_vietnamese`
 - Item 1001 "Wildcat's Suit" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_vietnamese`, `description_vietnamese`, `display_type_vietnamese`
 - Item 1002 "Faith's Suit" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_vietnamese`, `description_vietnamese`, `display_type_vietnamese`
