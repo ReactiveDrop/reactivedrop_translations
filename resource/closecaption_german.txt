@@ -1419,7 +1419,7 @@
 "[english]faith.Biomass2"		"<clr:178,34,34>Faith: Swarm biomass. It's living tissue."
 "faith.TimeToLeave0"		"<clr:178,34,34>Faith: Unsere Arbeit ist getan."
 "[english]faith.TimeToLeave0"		"<clr:178,34,34>Faith: Job's done."
-"faith.TimeToLeave1"		"<clr:178,34,34>Faith: Einsatzziele erfüllt, machen wir uns auf zum Abholpunkt."
+"faith.TimeToLeave1"		"<clr:178,34,34>Faith: Einsatzziele erfüllt, machen wir uns auf zum Sammelpunkt."
 "[english]faith.TimeToLeave1"		"<clr:178,34,34>Faith: Objectives complete, let's head to the exit."
 "faith.TimeToLeave2"		"<clr:178,34,34>Faith: Das war's, lasst uns von hier verschwinden."
 "[english]faith.TimeToLeave2"		"<clr:178,34,34>Faith: We're done, let's get out of here."
