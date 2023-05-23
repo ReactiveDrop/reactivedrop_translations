@@ -1,31 +1,31 @@
 # Overview
 | Language | basemodui | closecaption | gameui | reactivedrop | statsweb | Strings | Inventory | Files |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
-| [Traditional Chinese](#tchinese-繁體中文) | 9 | 131 | 28 | 2333 | 196 | 153 | 427 | 145 |
-| [Czech](#czech-čeština) | 71 | 1807 | 37 | 3467 | 196 | 807 | 497 | 145 |
-| [Danish](#non-curated-languages) | 52 | 222 | 37 | 2990 | 196 | 537 | 492 | 146 |
-| [Dutch](#non-curated-languages) | 51 | 2004 | 37 | 2448 | 196 | 537 | 429 | 145 |
-| [Finnish](#non-curated-languages) | 51 | 2004 | 37 | 2448 | 196 | 537 | 429 | 145 |
-| [French](#french-français) | 27 | 129 | 37 | 1802 | 196 | 472 | 415 | 124 |
-| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 60 | ✔️ |
-| [Hungarian](#non-curated-languages) | 51 | 129 | 37 | 2448 | 196 | 802 | 429 | 146 |
-| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | 3 | ✔️ | ✔️ | 3 | ✔️ |
-| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | 11 | ✔️ | 102 | ✔️ | ✔️ |
-| [Korean](#koreana-한국어) | 7 | 1 | 33 | 937 | 18 | 256 | 415 | 47 |
-| [Norwegian Bokmål](#non-curated-languages) | 69 | 704 | 42 | 3163 | 196 | 537 | 498 | 146 |
-| [Polish](#polish-polski) | 28 | 2004 | 37 | 2448 | 196 | 533 | 429 | 141 |
-| [European Portuguese](#portuguese-português-europeu) | ✔️ | 171 | 14 | 1562 | 17 | 448 | 439 | 139 |
-| [Brazilian Portuguese](#brazilian-português) | 2 | 2004 | 27 | 696 | 5 | 91 | 200 | 6 |
-| [Romanian](#non-curated-languages) | 51 | 1996 | 43 | 3170 | 196 | 802 | 475 | 146 |
-| [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | 3 | ✔️ | 4 | 60 | ✔️ |
-| [European Spanish](#spanish-español-de-españa) | 28 | 2004 | 35 | 1854 | 196 | 541 | 425 | 145 |
-| [Latin American Spanish](#latam-español-latinoamericano) | 1281 | 2004 | 632 | 3982 | 200 | 807 | 511 | 146 |
-| [Swedish](#non-curated-languages) | 51 | 2004 | 37 | 2448 | 196 | 537 | 429 | 146 |
-| [Thai](#non-curated-languages) | 966 | 1993 | 45 | 3718 | 196 | 566 | 508 | 146 |
-| [Turkish](#non-curated-languages) | 51 | 128 | 37 | 2448 | 196 | 802 | 429 | 146 |
-| [Ukrainian](#ukrainian-українська) | 27 | 122 | 27 | 1982 | 196 | 748 | 423 | 145 |
-| [Vietnamese](#vietnamese-tiếng-việt) | 1281 | 2004 | 632 | 3982 | 196 | 754 | 511 | 133 |
+| [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 2 | ✔️ |
+| [Traditional Chinese](#tchinese-繁體中文) | 9 | 131 | 28 | 2333 | 196 | 153 | 442 | 145 |
+| [Czech](#czech-čeština) | 71 | 1807 | 37 | 3467 | 196 | 807 | 512 | 145 |
+| [Danish](#non-curated-languages) | 52 | 222 | 37 | 2990 | 196 | 537 | 507 | 146 |
+| [Dutch](#non-curated-languages) | 51 | 2004 | 37 | 2448 | 196 | 537 | 444 | 145 |
+| [Finnish](#non-curated-languages) | 51 | 2004 | 37 | 2448 | 196 | 537 | 444 | 145 |
+| [French](#french-français) | 27 | 129 | 37 | 1802 | 196 | 472 | 430 | 124 |
+| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 2 | ✔️ |
+| [Hungarian](#non-curated-languages) | 51 | 129 | 37 | 2448 | 196 | 802 | 444 | 146 |
+| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | 3 | ✔️ | ✔️ | 18 | ✔️ |
+| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | 11 | ✔️ | 102 | 15 | ✔️ |
+| [Korean](#koreana-한국어) | 7 | 1 | 33 | 937 | 18 | 256 | 430 | 47 |
+| [Norwegian Bokmål](#non-curated-languages) | 69 | 704 | 42 | 3163 | 196 | 537 | 513 | 146 |
+| [Polish](#polish-polski) | 28 | 2004 | 37 | 2448 | 196 | 533 | 444 | 141 |
+| [European Portuguese](#portuguese-português-europeu) | ✔️ | 171 | 14 | 1562 | 17 | 448 | 454 | 139 |
+| [Brazilian Portuguese](#brazilian-português) | 2 | 2004 | 27 | 696 | 5 | 91 | 215 | 6 |
+| [Romanian](#non-curated-languages) | 51 | 1996 | 43 | 3170 | 196 | 802 | 490 | 146 |
+| [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | 3 | ✔️ | 4 | 75 | ✔️ |
+| [European Spanish](#spanish-español-de-españa) | 28 | 2004 | 35 | 1854 | 196 | 541 | 440 | 145 |
+| [Latin American Spanish](#latam-español-latinoamericano) | 1281 | 2004 | 632 | 3982 | 200 | 807 | 526 | 146 |
+| [Swedish](#non-curated-languages) | 51 | 2004 | 37 | 2448 | 196 | 537 | 444 | 146 |
+| [Thai](#non-curated-languages) | 966 | 1993 | 45 | 3718 | 196 | 566 | 523 | 146 |
+| [Turkish](#non-curated-languages) | 51 | 128 | 37 | 2448 | 196 | 802 | 444 | 146 |
+| [Ukrainian](#ukrainian-українська) | 27 | 122 | 27 | 1982 | 196 | 748 | 438 | 145 |
+| [Vietnamese](#vietnamese-tiếng-việt) | 1281 | 2004 | 632 | 3982 | 196 | 754 | 526 | 133 |
 ### Legend
 - ***Non-capitalized column headers*** are the most important specific files and their number of missing strings. All of these txt-files are located in the resources folder. Except statsweb, which lies in community/stats_website, it's an vdf-file.
 - ***Strings*** is the number of missing strings not included in one of the files which get an individual non-capitalized column.
@@ -40,7 +40,9 @@
 
 </summary>
 
-✓ Up to date!
+### Inventory Schema</summary>
+
+- Item 100000031 "Donor: AutoGavy" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `description_schinese`, `ingame_description_schinese`
 
 </details>
 
@@ -284,18 +286,18 @@
 - Item 100000019 "Donor: hangumi" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_tchinese`, `description_tchinese`, `ingame_description_tchinese`, `after_description_tchinese`, `display_type_tchinese`
 - Item 100000020 "Donor: YOJIMBO" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_tchinese`, `description_tchinese`, `ingame_description_tchinese`, `after_description_tchinese`, `display_type_tchinese`
 - Item 100000021 "Donor: QuantumRipple" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_tchinese`, `description_tchinese`, `ingame_description_tchinese`, `after_description_tchinese`, `display_type_tchinese`
-- Item 100000022 %!q(<nil>) in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `after_description_tchinese`, `display_type_tchinese`
-- Item 100000023 %!q(<nil>) in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `after_description_tchinese`, `display_type_tchinese`
-- Item 100000024 "Donor: DukeDukeEm" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_tchinese`, `description_tchinese`, `ingame_description_tchinese`, `after_description_tchinese`, `display_type_tchinese`
+- Item 100000022 "Donor: __NAME__" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_tchinese`, `description_tchinese`, `ingame_description_tchinese`, `after_description_tchinese`, `display_type_tchinese`
+- Item 100000023 "Donor: __NAME__" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_tchinese`, `description_tchinese`, `ingame_description_tchinese`, `after_description_tchinese`, `display_type_tchinese`
+- Item 100000024 "Donor: Duke M" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_tchinese`, `description_tchinese`, `ingame_description_tchinese`, `after_description_tchinese`, `display_type_tchinese`
 - Item 100000025 "Donor: Deerlord" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_tchinese`, `description_tchinese`, `ingame_description_tchinese`, `after_description_tchinese`, `display_type_tchinese`
 - Item 100000026 "Donor: Blueberry" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_tchinese`, `description_tchinese`, `ingame_description_tchinese`, `after_description_tchinese`, `display_type_tchinese`
 - Item 100000027 "Donor: MakinDay" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_tchinese`, `description_tchinese`, `ingame_description_tchinese`, `after_description_tchinese`, `display_type_tchinese`
 - Item 100000028 "Donor: Steffo" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_tchinese`, `description_tchinese`, `ingame_description_tchinese`, `after_description_tchinese`, `display_type_tchinese`
 - Item 100000029 "Donor: trick-master" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_tchinese`, `description_tchinese`, `ingame_description_tchinese`, `after_description_tchinese`, `display_type_tchinese`
 - Item 100000030 "Donor: Efi" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_tchinese`, `description_tchinese`, `ingame_description_tchinese`, `after_description_tchinese`, `display_type_tchinese`
-- Item 100000031 %!q(<nil>) in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `after_description_tchinese`, `display_type_tchinese`
-- Item 100000032 %!q(<nil>) in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `after_description_tchinese`, `display_type_tchinese`
-- Item 100000033 %!q(<nil>) in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `after_description_tchinese`, `display_type_tchinese`
+- Item 100000031 "Donor: AutoGavy" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_tchinese`, `description_tchinese`, `ingame_description_tchinese`, `after_description_tchinese`, `display_type_tchinese`
+- Item 100000032 "Donor: __NAME__" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_tchinese`, `description_tchinese`, `ingame_description_tchinese`, `after_description_tchinese`, `display_type_tchinese`
+- Item 100000033 "Donor: __NAME__" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_tchinese`, `description_tchinese`, `ingame_description_tchinese`, `after_description_tchinese`, `display_type_tchinese`
 - Item 100000034 "Donor: TheScientist" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_tchinese`, `description_tchinese`, `ingame_description_tchinese`, `after_description_tchinese`, `display_type_tchinese`
 - Item 1000 "Sarge's Suit" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_tchinese`, `display_type_tchinese`
 - Item 1001 "Wildcat's Suit" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_tchinese`, `display_type_tchinese`
@@ -606,18 +608,18 @@
 - Item 100000019 "Donor: hangumi" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_czech`, `description_czech`, `ingame_description_czech`, `after_description_czech`, `display_type_czech`
 - Item 100000020 "Donor: YOJIMBO" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_czech`, `description_czech`, `ingame_description_czech`, `after_description_czech`, `display_type_czech`
 - Item 100000021 "Donor: QuantumRipple" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_czech`, `description_czech`, `ingame_description_czech`, `after_description_czech`, `display_type_czech`
-- Item 100000022 %!q(<nil>) in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `after_description_czech`, `display_type_czech`
-- Item 100000023 %!q(<nil>) in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `after_description_czech`, `display_type_czech`
-- Item 100000024 "Donor: DukeDukeEm" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_czech`, `description_czech`, `ingame_description_czech`, `after_description_czech`, `display_type_czech`
+- Item 100000022 "Donor: __NAME__" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_czech`, `description_czech`, `ingame_description_czech`, `after_description_czech`, `display_type_czech`
+- Item 100000023 "Donor: __NAME__" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_czech`, `description_czech`, `ingame_description_czech`, `after_description_czech`, `display_type_czech`
+- Item 100000024 "Donor: Duke M" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_czech`, `description_czech`, `ingame_description_czech`, `after_description_czech`, `display_type_czech`
 - Item 100000025 "Donor: Deerlord" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_czech`, `description_czech`, `ingame_description_czech`, `after_description_czech`, `display_type_czech`
 - Item 100000026 "Donor: Blueberry" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_czech`, `description_czech`, `ingame_description_czech`, `after_description_czech`, `display_type_czech`
 - Item 100000027 "Donor: MakinDay" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_czech`, `description_czech`, `ingame_description_czech`, `after_description_czech`, `display_type_czech`
 - Item 100000028 "Donor: Steffo" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_czech`, `description_czech`, `ingame_description_czech`, `after_description_czech`, `display_type_czech`
 - Item 100000029 "Donor: trick-master" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_czech`, `description_czech`, `ingame_description_czech`, `after_description_czech`, `display_type_czech`
 - Item 100000030 "Donor: Efi" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_czech`, `description_czech`, `ingame_description_czech`, `after_description_czech`, `display_type_czech`
-- Item 100000031 %!q(<nil>) in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `after_description_czech`, `display_type_czech`
-- Item 100000032 %!q(<nil>) in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `after_description_czech`, `display_type_czech`
-- Item 100000033 %!q(<nil>) in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `after_description_czech`, `display_type_czech`
+- Item 100000031 "Donor: AutoGavy" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_czech`, `description_czech`, `ingame_description_czech`, `after_description_czech`, `display_type_czech`
+- Item 100000032 "Donor: __NAME__" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_czech`, `description_czech`, `ingame_description_czech`, `after_description_czech`, `display_type_czech`
+- Item 100000033 "Donor: __NAME__" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_czech`, `description_czech`, `ingame_description_czech`, `after_description_czech`, `display_type_czech`
 - Item 100000034 "Donor: TheScientist" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_czech`, `description_czech`, `ingame_description_czech`, `after_description_czech`, `display_type_czech`
 - Item 1000 "Sarge's Suit" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_czech`, `description_czech`, `display_type_czech`
 - Item 1001 "Wildcat's Suit" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_czech`, `description_czech`, `display_type_czech`
@@ -906,18 +908,18 @@
 - Item 100000019 "Donor: hangumi" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_french`, `description_french`, `ingame_description_french`, `after_description_french`, `display_type_french`
 - Item 100000020 "Donor: YOJIMBO" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_french`, `description_french`, `ingame_description_french`, `after_description_french`, `display_type_french`
 - Item 100000021 "Donor: QuantumRipple" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_french`, `description_french`, `ingame_description_french`, `after_description_french`, `display_type_french`
-- Item 100000022 %!q(<nil>) in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `after_description_french`, `display_type_french`
-- Item 100000023 %!q(<nil>) in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `after_description_french`, `display_type_french`
-- Item 100000024 "Donor: DukeDukeEm" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_french`, `description_french`, `ingame_description_french`, `after_description_french`, `display_type_french`
+- Item 100000022 "Donor: __NAME__" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_french`, `description_french`, `ingame_description_french`, `after_description_french`, `display_type_french`
+- Item 100000023 "Donor: __NAME__" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_french`, `description_french`, `ingame_description_french`, `after_description_french`, `display_type_french`
+- Item 100000024 "Donor: Duke M" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_french`, `description_french`, `ingame_description_french`, `after_description_french`, `display_type_french`
 - Item 100000025 "Donor: Deerlord" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_french`, `description_french`, `ingame_description_french`, `after_description_french`, `display_type_french`
 - Item 100000026 "Donor: Blueberry" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_french`, `description_french`, `ingame_description_french`, `after_description_french`, `display_type_french`
 - Item 100000027 "Donor: MakinDay" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_french`, `description_french`, `ingame_description_french`, `after_description_french`, `display_type_french`
 - Item 100000028 "Donor: Steffo" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_french`, `description_french`, `ingame_description_french`, `after_description_french`, `display_type_french`
 - Item 100000029 "Donor: trick-master" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_french`, `description_french`, `ingame_description_french`, `after_description_french`, `display_type_french`
 - Item 100000030 "Donor: Efi" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_french`, `description_french`, `ingame_description_french`, `after_description_french`, `display_type_french`
-- Item 100000031 %!q(<nil>) in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `after_description_french`, `display_type_french`
-- Item 100000032 %!q(<nil>) in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `after_description_french`, `display_type_french`
-- Item 100000033 %!q(<nil>) in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `after_description_french`, `display_type_french`
+- Item 100000031 "Donor: AutoGavy" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_french`, `description_french`, `ingame_description_french`, `after_description_french`, `display_type_french`
+- Item 100000032 "Donor: __NAME__" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_french`, `description_french`, `ingame_description_french`, `after_description_french`, `display_type_french`
+- Item 100000033 "Donor: __NAME__" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_french`, `description_french`, `ingame_description_french`, `after_description_french`, `display_type_french`
 - Item 100000034 "Donor: TheScientist" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_french`, `description_french`, `ingame_description_french`, `after_description_french`, `display_type_french`
 - Item 1000 "Sarge's Suit" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_french`, `display_type_french`
 - Item 1001 "Wildcat's Suit" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_french`, `display_type_french`
@@ -993,26 +995,7 @@
 
 ### Inventory Schema</summary>
 
-- Item 100000010 "Donor: Dmitriy" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_german`, `description_german`, `ingame_description_german`
-- Item 100000011 "Donor: Ben Lubar" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_german`, `description_german`, `ingame_description_german`
-- Item 100000012 "Donor: Rayman1103" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_german`, `description_german`, `ingame_description_german`
-- Item 100000013 "Donor: Mithrand" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_german`, `description_german`, `ingame_description_german`
-- Item 100000014 "Donor: Ax-now" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_german`, `description_german`, `ingame_description_german`
-- Item 100000015 "Donor: Beka" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_german`, `description_german`, `ingame_description_german`
-- Item 100000016 "Donor: mfz" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_german`, `description_german`, `ingame_description_german`
-- Item 100000017 "Donor: Grace Lovelace" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_german`, `description_german`, `ingame_description_german`
-- Item 100000018 "Donor: Stargate75" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_german`, `description_german`, `ingame_description_german`
-- Item 100000019 "Donor: hangumi" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_german`, `description_german`, `ingame_description_german`
-- Item 100000020 "Donor: YOJIMBO" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_german`, `description_german`, `ingame_description_german`
-- Item 100000021 "Donor: QuantumRipple" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_german`, `description_german`, `ingame_description_german`
-- Item 100000024 "Donor: DukeDukeEm" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_german`, `description_german`, `ingame_description_german`
-- Item 100000025 "Donor: Deerlord" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_german`, `description_german`, `ingame_description_german`
-- Item 100000026 "Donor: Blueberry" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_german`, `description_german`, `ingame_description_german`
-- Item 100000027 "Donor: MakinDay" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_german`, `description_german`, `ingame_description_german`
-- Item 100000028 "Donor: Steffo" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_german`, `description_german`, `ingame_description_german`
-- Item 100000029 "Donor: trick-master" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_german`, `description_german`, `ingame_description_german`
-- Item 100000030 "Donor: Efi" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_german`, `description_german`, `ingame_description_german`
-- Item 100000034 "Donor: TheScientist" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_german`, `description_german`, `ingame_description_german`
+- Item 100000031 "Donor: AutoGavy" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `description_german`, `ingame_description_german`
 
 </details>
 
@@ -1028,6 +1011,11 @@
 
 ### Inventory Schema</summary>
 
+- Item 100000022 "Donor: __NAME__" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_italian`, `description_italian`, `ingame_description_italian`
+- Item 100000023 "Donor: __NAME__" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_italian`, `description_italian`, `ingame_description_italian`
+- Item 100000031 "Donor: AutoGavy" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_italian`, `description_italian`, `ingame_description_italian`
+- Item 100000032 "Donor: __NAME__" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_italian`, `description_italian`, `ingame_description_italian`
+- Item 100000033 "Donor: __NAME__" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_italian`, `description_italian`, `ingame_description_italian`
 - Item 100000034 "Donor: TheScientist" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_italian`, `description_italian`, `ingame_description_italian`
 
 </details>
@@ -1043,6 +1031,14 @@
 - [signage_japanese.vdf](misc/signage/signage_japanese.vdf) has 67 untranslated strings.
 - [vgui_japanese.txt](platform/vgui_japanese.txt) has 35 untranslated strings.
 - [reactivedrop_japanese.txt](resource/reactivedrop_japanese.txt) has 11 untranslated strings.
+
+### Inventory Schema</summary>
+
+- Item 100000022 "Donor: __NAME__" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_japanese`, `description_japanese`, `ingame_description_japanese`
+- Item 100000023 "Donor: __NAME__" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_japanese`, `description_japanese`, `ingame_description_japanese`
+- Item 100000031 "Donor: AutoGavy" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_japanese`, `description_japanese`, `ingame_description_japanese`
+- Item 100000032 "Donor: __NAME__" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_japanese`, `description_japanese`, `ingame_description_japanese`
+- Item 100000033 "Donor: __NAME__" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_japanese`, `description_japanese`, `ingame_description_japanese`
 
 </details>
 
@@ -1187,18 +1183,18 @@
 - Item 100000019 "Donor: hangumi" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_koreana`, `description_koreana`, `ingame_description_koreana`, `after_description_koreana`, `display_type_koreana`
 - Item 100000020 "Donor: YOJIMBO" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_koreana`, `description_koreana`, `ingame_description_koreana`, `after_description_koreana`, `display_type_koreana`
 - Item 100000021 "Donor: QuantumRipple" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_koreana`, `description_koreana`, `ingame_description_koreana`, `after_description_koreana`, `display_type_koreana`
-- Item 100000022 %!q(<nil>) in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `after_description_koreana`, `display_type_koreana`
-- Item 100000023 %!q(<nil>) in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `after_description_koreana`, `display_type_koreana`
-- Item 100000024 "Donor: DukeDukeEm" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_koreana`, `description_koreana`, `ingame_description_koreana`, `after_description_koreana`, `display_type_koreana`
+- Item 100000022 "Donor: __NAME__" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_koreana`, `description_koreana`, `ingame_description_koreana`, `after_description_koreana`, `display_type_koreana`
+- Item 100000023 "Donor: __NAME__" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_koreana`, `description_koreana`, `ingame_description_koreana`, `after_description_koreana`, `display_type_koreana`
+- Item 100000024 "Donor: Duke M" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_koreana`, `description_koreana`, `ingame_description_koreana`, `after_description_koreana`, `display_type_koreana`
 - Item 100000025 "Donor: Deerlord" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_koreana`, `description_koreana`, `ingame_description_koreana`, `after_description_koreana`, `display_type_koreana`
 - Item 100000026 "Donor: Blueberry" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_koreana`, `description_koreana`, `ingame_description_koreana`, `after_description_koreana`, `display_type_koreana`
 - Item 100000027 "Donor: MakinDay" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_koreana`, `description_koreana`, `ingame_description_koreana`, `after_description_koreana`, `display_type_koreana`
 - Item 100000028 "Donor: Steffo" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_koreana`, `description_koreana`, `ingame_description_koreana`, `after_description_koreana`, `display_type_koreana`
 - Item 100000029 "Donor: trick-master" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_koreana`, `description_koreana`, `ingame_description_koreana`, `after_description_koreana`, `display_type_koreana`
 - Item 100000030 "Donor: Efi" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_koreana`, `description_koreana`, `ingame_description_koreana`, `after_description_koreana`, `display_type_koreana`
-- Item 100000031 %!q(<nil>) in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `after_description_koreana`, `display_type_koreana`
-- Item 100000032 %!q(<nil>) in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `after_description_koreana`, `display_type_koreana`
-- Item 100000033 %!q(<nil>) in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `after_description_koreana`, `display_type_koreana`
+- Item 100000031 "Donor: AutoGavy" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_koreana`, `description_koreana`, `ingame_description_koreana`, `after_description_koreana`, `display_type_koreana`
+- Item 100000032 "Donor: __NAME__" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_koreana`, `description_koreana`, `ingame_description_koreana`, `after_description_koreana`, `display_type_koreana`
+- Item 100000033 "Donor: __NAME__" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_koreana`, `description_koreana`, `ingame_description_koreana`, `after_description_koreana`, `display_type_koreana`
 - Item 100000034 "Donor: TheScientist" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_koreana`, `description_koreana`, `ingame_description_koreana`, `after_description_koreana`, `display_type_koreana`
 - Item 1000 "Sarge's Suit" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_koreana`, `display_type_koreana`
 - Item 1001 "Wildcat's Suit" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_koreana`, `display_type_koreana`
@@ -1501,18 +1497,18 @@
 - Item 100000019 "Donor: hangumi" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_polish`, `description_polish`, `ingame_description_polish`, `after_description_polish`, `display_type_polish`
 - Item 100000020 "Donor: YOJIMBO" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_polish`, `description_polish`, `ingame_description_polish`, `after_description_polish`, `display_type_polish`
 - Item 100000021 "Donor: QuantumRipple" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_polish`, `description_polish`, `ingame_description_polish`, `after_description_polish`, `display_type_polish`
-- Item 100000022 %!q(<nil>) in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `after_description_polish`, `display_type_polish`
-- Item 100000023 %!q(<nil>) in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `after_description_polish`, `display_type_polish`
-- Item 100000024 "Donor: DukeDukeEm" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_polish`, `description_polish`, `ingame_description_polish`, `after_description_polish`, `display_type_polish`
+- Item 100000022 "Donor: __NAME__" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_polish`, `description_polish`, `ingame_description_polish`, `after_description_polish`, `display_type_polish`
+- Item 100000023 "Donor: __NAME__" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_polish`, `description_polish`, `ingame_description_polish`, `after_description_polish`, `display_type_polish`
+- Item 100000024 "Donor: Duke M" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_polish`, `description_polish`, `ingame_description_polish`, `after_description_polish`, `display_type_polish`
 - Item 100000025 "Donor: Deerlord" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_polish`, `description_polish`, `ingame_description_polish`, `after_description_polish`, `display_type_polish`
 - Item 100000026 "Donor: Blueberry" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_polish`, `description_polish`, `ingame_description_polish`, `after_description_polish`, `display_type_polish`
 - Item 100000027 "Donor: MakinDay" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_polish`, `description_polish`, `ingame_description_polish`, `after_description_polish`, `display_type_polish`
 - Item 100000028 "Donor: Steffo" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_polish`, `description_polish`, `ingame_description_polish`, `after_description_polish`, `display_type_polish`
 - Item 100000029 "Donor: trick-master" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_polish`, `description_polish`, `ingame_description_polish`, `after_description_polish`, `display_type_polish`
 - Item 100000030 "Donor: Efi" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_polish`, `description_polish`, `ingame_description_polish`, `after_description_polish`, `display_type_polish`
-- Item 100000031 %!q(<nil>) in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `after_description_polish`, `display_type_polish`
-- Item 100000032 %!q(<nil>) in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `after_description_polish`, `display_type_polish`
-- Item 100000033 %!q(<nil>) in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `after_description_polish`, `display_type_polish`
+- Item 100000031 "Donor: AutoGavy" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_polish`, `description_polish`, `ingame_description_polish`, `after_description_polish`, `display_type_polish`
+- Item 100000032 "Donor: __NAME__" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_polish`, `description_polish`, `ingame_description_polish`, `after_description_polish`, `display_type_polish`
+- Item 100000033 "Donor: __NAME__" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_polish`, `description_polish`, `ingame_description_polish`, `after_description_polish`, `display_type_polish`
 - Item 100000034 "Donor: TheScientist" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_polish`, `description_polish`, `ingame_description_polish`, `after_description_polish`, `display_type_polish`
 - Item 1000 "Sarge's Suit" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_polish`, `display_type_polish`
 - Item 1001 "Wildcat's Suit" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_polish`, `display_type_polish`
@@ -1807,18 +1803,18 @@
 - Item 100000019 "Donor: hangumi" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_portuguese`, `description_portuguese`, `ingame_description_portuguese`, `after_description_portuguese`, `display_type_portuguese`
 - Item 100000020 "Donor: YOJIMBO" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_portuguese`, `description_portuguese`, `ingame_description_portuguese`, `after_description_portuguese`, `display_type_portuguese`
 - Item 100000021 "Donor: QuantumRipple" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_portuguese`, `description_portuguese`, `ingame_description_portuguese`, `after_description_portuguese`, `display_type_portuguese`
-- Item 100000022 %!q(<nil>) in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `after_description_portuguese`, `display_type_portuguese`
-- Item 100000023 %!q(<nil>) in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `after_description_portuguese`, `display_type_portuguese`
-- Item 100000024 "Donor: DukeDukeEm" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_portuguese`, `description_portuguese`, `ingame_description_portuguese`, `after_description_portuguese`, `display_type_portuguese`
+- Item 100000022 "Donor: __NAME__" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_portuguese`, `description_portuguese`, `ingame_description_portuguese`, `after_description_portuguese`, `display_type_portuguese`
+- Item 100000023 "Donor: __NAME__" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_portuguese`, `description_portuguese`, `ingame_description_portuguese`, `after_description_portuguese`, `display_type_portuguese`
+- Item 100000024 "Donor: Duke M" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_portuguese`, `description_portuguese`, `ingame_description_portuguese`, `after_description_portuguese`, `display_type_portuguese`
 - Item 100000025 "Donor: Deerlord" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_portuguese`, `description_portuguese`, `ingame_description_portuguese`, `after_description_portuguese`, `display_type_portuguese`
 - Item 100000026 "Donor: Blueberry" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_portuguese`, `description_portuguese`, `ingame_description_portuguese`, `after_description_portuguese`, `display_type_portuguese`
 - Item 100000027 "Donor: MakinDay" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_portuguese`, `description_portuguese`, `ingame_description_portuguese`, `after_description_portuguese`, `display_type_portuguese`
 - Item 100000028 "Donor: Steffo" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_portuguese`, `description_portuguese`, `ingame_description_portuguese`, `after_description_portuguese`, `display_type_portuguese`
 - Item 100000029 "Donor: trick-master" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_portuguese`, `description_portuguese`, `ingame_description_portuguese`, `after_description_portuguese`, `display_type_portuguese`
 - Item 100000030 "Donor: Efi" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_portuguese`, `description_portuguese`, `ingame_description_portuguese`, `after_description_portuguese`, `display_type_portuguese`
-- Item 100000031 %!q(<nil>) in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `after_description_portuguese`, `display_type_portuguese`
-- Item 100000032 %!q(<nil>) in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `after_description_portuguese`, `display_type_portuguese`
-- Item 100000033 %!q(<nil>) in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `after_description_portuguese`, `display_type_portuguese`
+- Item 100000031 "Donor: AutoGavy" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_portuguese`, `description_portuguese`, `ingame_description_portuguese`, `after_description_portuguese`, `display_type_portuguese`
+- Item 100000032 "Donor: __NAME__" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_portuguese`, `description_portuguese`, `ingame_description_portuguese`, `after_description_portuguese`, `display_type_portuguese`
+- Item 100000033 "Donor: __NAME__" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_portuguese`, `description_portuguese`, `ingame_description_portuguese`, `after_description_portuguese`, `display_type_portuguese`
 - Item 100000034 "Donor: TheScientist" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_portuguese`, `description_portuguese`, `ingame_description_portuguese`, `after_description_portuguese`, `display_type_portuguese`
 - Item 1000 "Sarge's Suit" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_portuguese`, `display_type_portuguese`
 - Item 1001 "Wildcat's Suit" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_portuguese`, `description_portuguese`, `display_type_portuguese`
@@ -1954,13 +1950,18 @@
 - Item 100000019 "Donor: hangumi" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_brazilian`, `description_brazilian`, `ingame_description_brazilian`
 - Item 100000020 "Donor: YOJIMBO" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_brazilian`, `description_brazilian`, `ingame_description_brazilian`
 - Item 100000021 "Donor: QuantumRipple" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_brazilian`, `description_brazilian`, `ingame_description_brazilian`
-- Item 100000024 "Donor: DukeDukeEm" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_brazilian`, `description_brazilian`, `ingame_description_brazilian`
+- Item 100000022 "Donor: __NAME__" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_brazilian`, `description_brazilian`, `ingame_description_brazilian`
+- Item 100000023 "Donor: __NAME__" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_brazilian`, `description_brazilian`, `ingame_description_brazilian`
+- Item 100000024 "Donor: Duke M" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_brazilian`, `description_brazilian`, `ingame_description_brazilian`
 - Item 100000025 "Donor: Deerlord" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_brazilian`, `description_brazilian`, `ingame_description_brazilian`
 - Item 100000026 "Donor: Blueberry" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_brazilian`, `description_brazilian`, `ingame_description_brazilian`
 - Item 100000027 "Donor: MakinDay" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_brazilian`, `description_brazilian`, `ingame_description_brazilian`
 - Item 100000028 "Donor: Steffo" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_brazilian`, `description_brazilian`, `ingame_description_brazilian`
 - Item 100000029 "Donor: trick-master" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_brazilian`, `description_brazilian`, `ingame_description_brazilian`
 - Item 100000030 "Donor: Efi" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_brazilian`, `description_brazilian`, `ingame_description_brazilian`
+- Item 100000031 "Donor: AutoGavy" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_brazilian`, `description_brazilian`, `ingame_description_brazilian`
+- Item 100000032 "Donor: __NAME__" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_brazilian`, `description_brazilian`, `ingame_description_brazilian`
+- Item 100000033 "Donor: __NAME__" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_brazilian`, `description_brazilian`, `ingame_description_brazilian`
 - Item 100000034 "Donor: TheScientist" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_brazilian`, `description_brazilian`, `ingame_description_brazilian`
 - Item 1000 "Sarge's Suit" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_brazilian`, `display_type_brazilian`
 - Item 1001 "Wildcat's Suit" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_brazilian`, `display_type_brazilian`
@@ -2052,13 +2053,18 @@
 - Item 100000019 "Donor: hangumi" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_russian`, `description_russian`, `ingame_description_russian`
 - Item 100000020 "Donor: YOJIMBO" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_russian`, `description_russian`, `ingame_description_russian`
 - Item 100000021 "Donor: QuantumRipple" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_russian`, `description_russian`, `ingame_description_russian`
-- Item 100000024 "Donor: DukeDukeEm" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_russian`, `description_russian`, `ingame_description_russian`
+- Item 100000022 "Donor: __NAME__" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_russian`, `description_russian`, `ingame_description_russian`
+- Item 100000023 "Donor: __NAME__" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_russian`, `description_russian`, `ingame_description_russian`
+- Item 100000024 "Donor: Duke M" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_russian`, `description_russian`, `ingame_description_russian`
 - Item 100000025 "Donor: Deerlord" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_russian`, `description_russian`, `ingame_description_russian`
 - Item 100000026 "Donor: Blueberry" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_russian`, `description_russian`, `ingame_description_russian`
 - Item 100000027 "Donor: MakinDay" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_russian`, `description_russian`, `ingame_description_russian`
 - Item 100000028 "Donor: Steffo" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_russian`, `description_russian`, `ingame_description_russian`
 - Item 100000029 "Donor: trick-master" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_russian`, `description_russian`, `ingame_description_russian`
 - Item 100000030 "Donor: Efi" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_russian`, `description_russian`, `ingame_description_russian`
+- Item 100000031 "Donor: AutoGavy" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_russian`, `description_russian`, `ingame_description_russian`
+- Item 100000032 "Donor: __NAME__" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_russian`, `description_russian`, `ingame_description_russian`
+- Item 100000033 "Donor: __NAME__" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_russian`, `description_russian`, `ingame_description_russian`
 - Item 100000034 "Donor: TheScientist" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_russian`, `description_russian`, `ingame_description_russian`
 
 </details>
@@ -2305,18 +2311,18 @@
 - Item 100000019 "Donor: hangumi" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_spanish`, `description_spanish`, `ingame_description_spanish`, `after_description_spanish`, `display_type_spanish`
 - Item 100000020 "Donor: YOJIMBO" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_spanish`, `description_spanish`, `ingame_description_spanish`, `after_description_spanish`, `display_type_spanish`
 - Item 100000021 "Donor: QuantumRipple" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_spanish`, `description_spanish`, `ingame_description_spanish`, `after_description_spanish`, `display_type_spanish`
-- Item 100000022 %!q(<nil>) in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `after_description_spanish`, `display_type_spanish`
-- Item 100000023 %!q(<nil>) in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `after_description_spanish`, `display_type_spanish`
-- Item 100000024 "Donor: DukeDukeEm" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_spanish`, `description_spanish`, `ingame_description_spanish`, `after_description_spanish`, `display_type_spanish`
+- Item 100000022 "Donor: __NAME__" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_spanish`, `description_spanish`, `ingame_description_spanish`, `after_description_spanish`, `display_type_spanish`
+- Item 100000023 "Donor: __NAME__" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_spanish`, `description_spanish`, `ingame_description_spanish`, `after_description_spanish`, `display_type_spanish`
+- Item 100000024 "Donor: Duke M" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_spanish`, `description_spanish`, `ingame_description_spanish`, `after_description_spanish`, `display_type_spanish`
 - Item 100000025 "Donor: Deerlord" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_spanish`, `description_spanish`, `ingame_description_spanish`, `after_description_spanish`, `display_type_spanish`
 - Item 100000026 "Donor: Blueberry" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_spanish`, `description_spanish`, `ingame_description_spanish`, `after_description_spanish`, `display_type_spanish`
 - Item 100000027 "Donor: MakinDay" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_spanish`, `description_spanish`, `ingame_description_spanish`, `after_description_spanish`, `display_type_spanish`
 - Item 100000028 "Donor: Steffo" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_spanish`, `description_spanish`, `ingame_description_spanish`, `after_description_spanish`, `display_type_spanish`
 - Item 100000029 "Donor: trick-master" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_spanish`, `description_spanish`, `ingame_description_spanish`, `after_description_spanish`, `display_type_spanish`
 - Item 100000030 "Donor: Efi" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_spanish`, `description_spanish`, `ingame_description_spanish`, `after_description_spanish`, `display_type_spanish`
-- Item 100000031 %!q(<nil>) in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `after_description_spanish`, `display_type_spanish`
-- Item 100000032 %!q(<nil>) in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `after_description_spanish`, `display_type_spanish`
-- Item 100000033 %!q(<nil>) in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `after_description_spanish`, `display_type_spanish`
+- Item 100000031 "Donor: AutoGavy" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_spanish`, `description_spanish`, `ingame_description_spanish`, `after_description_spanish`, `display_type_spanish`
+- Item 100000032 "Donor: __NAME__" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_spanish`, `description_spanish`, `ingame_description_spanish`, `after_description_spanish`, `display_type_spanish`
+- Item 100000033 "Donor: __NAME__" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_spanish`, `description_spanish`, `ingame_description_spanish`, `after_description_spanish`, `display_type_spanish`
 - Item 100000034 "Donor: TheScientist" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_spanish`, `description_spanish`, `ingame_description_spanish`, `after_description_spanish`, `display_type_spanish`
 - Item 1000 "Sarge's Suit" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_spanish`, `description_spanish`, `display_type_spanish`
 - Item 1001 "Wildcat's Suit" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_spanish`, `description_spanish`, `display_type_spanish`
@@ -2628,18 +2634,18 @@
 - Item 100000019 "Donor: hangumi" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_latam`, `description_latam`, `ingame_description_latam`, `after_description_latam`, `display_type_latam`
 - Item 100000020 "Donor: YOJIMBO" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_latam`, `description_latam`, `ingame_description_latam`, `after_description_latam`, `display_type_latam`
 - Item 100000021 "Donor: QuantumRipple" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_latam`, `description_latam`, `ingame_description_latam`, `after_description_latam`, `display_type_latam`
-- Item 100000022 %!q(<nil>) in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `after_description_latam`, `display_type_latam`
-- Item 100000023 %!q(<nil>) in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `after_description_latam`, `display_type_latam`
-- Item 100000024 "Donor: DukeDukeEm" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_latam`, `description_latam`, `ingame_description_latam`, `after_description_latam`, `display_type_latam`
+- Item 100000022 "Donor: __NAME__" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_latam`, `description_latam`, `ingame_description_latam`, `after_description_latam`, `display_type_latam`
+- Item 100000023 "Donor: __NAME__" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_latam`, `description_latam`, `ingame_description_latam`, `after_description_latam`, `display_type_latam`
+- Item 100000024 "Donor: Duke M" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_latam`, `description_latam`, `ingame_description_latam`, `after_description_latam`, `display_type_latam`
 - Item 100000025 "Donor: Deerlord" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_latam`, `description_latam`, `ingame_description_latam`, `after_description_latam`, `display_type_latam`
 - Item 100000026 "Donor: Blueberry" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_latam`, `description_latam`, `ingame_description_latam`, `after_description_latam`, `display_type_latam`
 - Item 100000027 "Donor: MakinDay" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_latam`, `description_latam`, `ingame_description_latam`, `after_description_latam`, `display_type_latam`
 - Item 100000028 "Donor: Steffo" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_latam`, `description_latam`, `ingame_description_latam`, `after_description_latam`, `display_type_latam`
 - Item 100000029 "Donor: trick-master" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_latam`, `description_latam`, `ingame_description_latam`, `after_description_latam`, `display_type_latam`
 - Item 100000030 "Donor: Efi" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_latam`, `description_latam`, `ingame_description_latam`, `after_description_latam`, `display_type_latam`
-- Item 100000031 %!q(<nil>) in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `after_description_latam`, `display_type_latam`
-- Item 100000032 %!q(<nil>) in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `after_description_latam`, `display_type_latam`
-- Item 100000033 %!q(<nil>) in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `after_description_latam`, `display_type_latam`
+- Item 100000031 "Donor: AutoGavy" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_latam`, `description_latam`, `ingame_description_latam`, `after_description_latam`, `display_type_latam`
+- Item 100000032 "Donor: __NAME__" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_latam`, `description_latam`, `ingame_description_latam`, `after_description_latam`, `display_type_latam`
+- Item 100000033 "Donor: __NAME__" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_latam`, `description_latam`, `ingame_description_latam`, `after_description_latam`, `display_type_latam`
 - Item 100000034 "Donor: TheScientist" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_latam`, `description_latam`, `ingame_description_latam`, `after_description_latam`, `display_type_latam`
 - Item 1000 "Sarge's Suit" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_latam`, `description_latam`, `display_type_latam`
 - Item 1001 "Wildcat's Suit" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_latam`, `description_latam`, `display_type_latam`
@@ -2947,18 +2953,18 @@
 - Item 100000019 "Donor: hangumi" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_ukrainian`, `description_ukrainian`, `ingame_description_ukrainian`, `after_description_ukrainian`, `display_type_ukrainian`
 - Item 100000020 "Donor: YOJIMBO" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_ukrainian`, `description_ukrainian`, `ingame_description_ukrainian`, `after_description_ukrainian`, `display_type_ukrainian`
 - Item 100000021 "Donor: QuantumRipple" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_ukrainian`, `description_ukrainian`, `ingame_description_ukrainian`, `after_description_ukrainian`, `display_type_ukrainian`
-- Item 100000022 %!q(<nil>) in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `after_description_ukrainian`, `display_type_ukrainian`
-- Item 100000023 %!q(<nil>) in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `after_description_ukrainian`, `display_type_ukrainian`
-- Item 100000024 "Donor: DukeDukeEm" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_ukrainian`, `description_ukrainian`, `ingame_description_ukrainian`, `after_description_ukrainian`, `display_type_ukrainian`
+- Item 100000022 "Donor: __NAME__" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_ukrainian`, `description_ukrainian`, `ingame_description_ukrainian`, `after_description_ukrainian`, `display_type_ukrainian`
+- Item 100000023 "Donor: __NAME__" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_ukrainian`, `description_ukrainian`, `ingame_description_ukrainian`, `after_description_ukrainian`, `display_type_ukrainian`
+- Item 100000024 "Donor: Duke M" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_ukrainian`, `description_ukrainian`, `ingame_description_ukrainian`, `after_description_ukrainian`, `display_type_ukrainian`
 - Item 100000025 "Donor: Deerlord" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_ukrainian`, `description_ukrainian`, `ingame_description_ukrainian`, `after_description_ukrainian`, `display_type_ukrainian`
 - Item 100000026 "Donor: Blueberry" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_ukrainian`, `description_ukrainian`, `ingame_description_ukrainian`, `after_description_ukrainian`, `display_type_ukrainian`
 - Item 100000027 "Donor: MakinDay" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_ukrainian`, `description_ukrainian`, `ingame_description_ukrainian`, `after_description_ukrainian`, `display_type_ukrainian`
 - Item 100000028 "Donor: Steffo" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_ukrainian`, `description_ukrainian`, `ingame_description_ukrainian`, `after_description_ukrainian`, `display_type_ukrainian`
 - Item 100000029 "Donor: trick-master" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_ukrainian`, `description_ukrainian`, `ingame_description_ukrainian`, `after_description_ukrainian`, `display_type_ukrainian`
 - Item 100000030 "Donor: Efi" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_ukrainian`, `description_ukrainian`, `ingame_description_ukrainian`, `after_description_ukrainian`, `display_type_ukrainian`
-- Item 100000031 %!q(<nil>) in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `after_description_ukrainian`, `display_type_ukrainian`
-- Item 100000032 %!q(<nil>) in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `after_description_ukrainian`, `display_type_ukrainian`
-- Item 100000033 %!q(<nil>) in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `after_description_ukrainian`, `display_type_ukrainian`
+- Item 100000031 "Donor: AutoGavy" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_ukrainian`, `description_ukrainian`, `ingame_description_ukrainian`, `after_description_ukrainian`, `display_type_ukrainian`
+- Item 100000032 "Donor: __NAME__" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_ukrainian`, `description_ukrainian`, `ingame_description_ukrainian`, `after_description_ukrainian`, `display_type_ukrainian`
+- Item 100000033 "Donor: __NAME__" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_ukrainian`, `description_ukrainian`, `ingame_description_ukrainian`, `after_description_ukrainian`, `display_type_ukrainian`
 - Item 100000034 "Donor: TheScientist" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_ukrainian`, `description_ukrainian`, `ingame_description_ukrainian`, `after_description_ukrainian`, `display_type_ukrainian`
 - Item 1000 "Sarge's Suit" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_ukrainian`, `display_type_ukrainian`
 - Item 1001 "Wildcat's Suit" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_ukrainian`, `display_type_ukrainian`
@@ -3256,18 +3262,18 @@
 - Item 100000019 "Donor: hangumi" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_vietnamese`, `description_vietnamese`, `ingame_description_vietnamese`, `after_description_vietnamese`, `display_type_vietnamese`
 - Item 100000020 "Donor: YOJIMBO" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_vietnamese`, `description_vietnamese`, `ingame_description_vietnamese`, `after_description_vietnamese`, `display_type_vietnamese`
 - Item 100000021 "Donor: QuantumRipple" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_vietnamese`, `description_vietnamese`, `ingame_description_vietnamese`, `after_description_vietnamese`, `display_type_vietnamese`
-- Item 100000022 %!q(<nil>) in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `after_description_vietnamese`, `display_type_vietnamese`
-- Item 100000023 %!q(<nil>) in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `after_description_vietnamese`, `display_type_vietnamese`
-- Item 100000024 "Donor: DukeDukeEm" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_vietnamese`, `description_vietnamese`, `ingame_description_vietnamese`, `after_description_vietnamese`, `display_type_vietnamese`
+- Item 100000022 "Donor: __NAME__" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_vietnamese`, `description_vietnamese`, `ingame_description_vietnamese`, `after_description_vietnamese`, `display_type_vietnamese`
+- Item 100000023 "Donor: __NAME__" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_vietnamese`, `description_vietnamese`, `ingame_description_vietnamese`, `after_description_vietnamese`, `display_type_vietnamese`
+- Item 100000024 "Donor: Duke M" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_vietnamese`, `description_vietnamese`, `ingame_description_vietnamese`, `after_description_vietnamese`, `display_type_vietnamese`
 - Item 100000025 "Donor: Deerlord" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_vietnamese`, `description_vietnamese`, `ingame_description_vietnamese`, `after_description_vietnamese`, `display_type_vietnamese`
 - Item 100000026 "Donor: Blueberry" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_vietnamese`, `description_vietnamese`, `ingame_description_vietnamese`, `after_description_vietnamese`, `display_type_vietnamese`
 - Item 100000027 "Donor: MakinDay" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_vietnamese`, `description_vietnamese`, `ingame_description_vietnamese`, `after_description_vietnamese`, `display_type_vietnamese`
 - Item 100000028 "Donor: Steffo" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_vietnamese`, `description_vietnamese`, `ingame_description_vietnamese`, `after_description_vietnamese`, `display_type_vietnamese`
 - Item 100000029 "Donor: trick-master" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_vietnamese`, `description_vietnamese`, `ingame_description_vietnamese`, `after_description_vietnamese`, `display_type_vietnamese`
 - Item 100000030 "Donor: Efi" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_vietnamese`, `description_vietnamese`, `ingame_description_vietnamese`, `after_description_vietnamese`, `display_type_vietnamese`
-- Item 100000031 %!q(<nil>) in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `after_description_vietnamese`, `display_type_vietnamese`
-- Item 100000032 %!q(<nil>) in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `after_description_vietnamese`, `display_type_vietnamese`
-- Item 100000033 %!q(<nil>) in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `after_description_vietnamese`, `display_type_vietnamese`
+- Item 100000031 "Donor: AutoGavy" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_vietnamese`, `description_vietnamese`, `ingame_description_vietnamese`, `after_description_vietnamese`, `display_type_vietnamese`
+- Item 100000032 "Donor: __NAME__" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_vietnamese`, `description_vietnamese`, `ingame_description_vietnamese`, `after_description_vietnamese`, `display_type_vietnamese`
+- Item 100000033 "Donor: __NAME__" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_vietnamese`, `description_vietnamese`, `ingame_description_vietnamese`, `after_description_vietnamese`, `display_type_vietnamese`
 - Item 100000034 "Donor: TheScientist" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_vietnamese`, `description_vietnamese`, `ingame_description_vietnamese`, `after_description_vietnamese`, `display_type_vietnamese`
 - Item 1000 "Sarge's Suit" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_vietnamese`, `description_vietnamese`, `display_type_vietnamese`
 - Item 1001 "Wildcat's Suit" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_vietnamese`, `description_vietnamese`, `display_type_vietnamese`
