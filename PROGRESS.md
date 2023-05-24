@@ -10,7 +10,7 @@
 | [French](#french-français) | 27 | 129 | 37 | 1802 | 196 | 472 | 430 | 124 |
 | [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 2 | ✔️ |
 | [Hungarian](#non-curated-languages) | 51 | 129 | 37 | 2448 | 196 | 802 | 444 | 146 |
-| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | 3 | ✔️ | ✔️ | 18 | ✔️ |
+| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | 11 | ✔️ | 102 | 15 | ✔️ |
 | [Korean](#koreana-한국어) | 7 | 1 | 33 | 937 | 18 | 256 | 430 | 47 |
 | [Norwegian Bokmål](#non-curated-languages) | 69 | 704 | 42 | 3163 | 196 | 537 | 513 | 146 |
@@ -1005,18 +1005,7 @@
 
 </summary>
 
-### Strings
-
-- [reactivedrop_italian.txt](resource/reactivedrop_italian.txt) has 3 untranslated strings.
-
-### Inventory Schema</summary>
-
-- Item 100000022 "Donor: __NAME__" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_italian`, `description_italian`, `ingame_description_italian`
-- Item 100000023 "Donor: __NAME__" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_italian`, `description_italian`, `ingame_description_italian`
-- Item 100000031 "Donor: AutoGavy" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_italian`, `description_italian`, `ingame_description_italian`
-- Item 100000032 "Donor: __NAME__" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_italian`, `description_italian`, `ingame_description_italian`
-- Item 100000033 "Donor: __NAME__" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_italian`, `description_italian`, `ingame_description_italian`
-- Item 100000034 "Donor: TheScientist" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_italian`, `description_italian`, `ingame_description_italian`
+✓ Up to date!
 
 </details>
 
