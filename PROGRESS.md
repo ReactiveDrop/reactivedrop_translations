@@ -8,7 +8,7 @@
 | [Dutch](#non-curated-languages) | 51 | 2004 | 37 | 2448 | 196 | 537 | 444 | 145 |
 | [Finnish](#non-curated-languages) | 51 | 2004 | 37 | 2448 | 196 | 537 | 444 | 145 |
 | [French](#french-français) | 27 | 129 | 37 | 1802 | 196 | 472 | 430 | 124 |
-| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 2 | ✔️ |
+| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Hungarian](#non-curated-languages) | 51 | 129 | 37 | 2448 | 196 | 802 | 444 | 146 |
 | [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | 11 | ✔️ | 102 | 15 | ✔️ |
@@ -993,9 +993,7 @@
 
 </summary>
 
-### Inventory Schema</summary>
-
-- Item 100000031 "Donor: AutoGavy" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `description_german`, `ingame_description_german`
+✓ Up to date!
 
 </details>
 
