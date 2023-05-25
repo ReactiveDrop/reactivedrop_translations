@@ -1,14 +1,14 @@
 # Overview
 | Language | basemodui | closecaption | gameui | reactivedrop | statsweb | Strings | Inventory | Files |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | ✔️ | 10 | ✔️ | ✔️ | 2 | ✔️ |
+| [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Traditional Chinese](#tchinese-繁體中文) | 9 | 131 | 28 | 2343 | 196 | 153 | 442 | 145 |
 | [Czech](#czech-čeština) | 71 | 1807 | 37 | 3477 | 196 | 807 | 512 | 145 |
 | [Danish](#non-curated-languages) | 52 | 222 | 37 | 3000 | 196 | 537 | 507 | 146 |
 | [Dutch](#non-curated-languages) | 51 | 2004 | 37 | 2458 | 196 | 537 | 444 | 145 |
 | [Finnish](#non-curated-languages) | 51 | 2004 | 37 | 2458 | 196 | 537 | 444 | 145 |
 | [French](#french-français) | 27 | 129 | 37 | 1812 | 196 | 472 | 430 | 124 |
-| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | 10 | ✔️ | ✔️ | ✔️ | ✔️ |
+| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Hungarian](#non-curated-languages) | 51 | 129 | 37 | 2458 | 196 | 802 | 444 | 146 |
 | [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | 10 | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | 21 | ✔️ | 102 | 15 | ✔️ |
@@ -40,13 +40,7 @@
 
 </summary>
 
-### Strings
-
-- [reactivedrop_schinese.txt](resource/reactivedrop_schinese.txt) has 10 untranslated strings.
-
-### Inventory Schema</summary>
-
-- Item 100000031 "Donor: AutoGavy" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `description_schinese`, `ingame_description_schinese`
+✓ Up to date!
 
 </details>
 
@@ -997,9 +991,7 @@
 
 </summary>
 
-### Strings
-
-- [reactivedrop_german.txt](resource/reactivedrop_german.txt) has 10 untranslated strings.
+✓ Up to date!
 
 </details>
 
