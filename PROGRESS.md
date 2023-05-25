@@ -11,7 +11,7 @@
 | [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Hungarian](#non-curated-languages) | 51 | 129 | 37 | 2458 | 196 | 802 | 444 | 146 |
 | [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | 10 | ✔️ | ✔️ | ✔️ | ✔️ |
-| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | 21 | ✔️ | 102 | 15 | ✔️ |
+| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | 11 | ✔️ | 102 | ✔️ | ✔️ |
 | [Korean](#koreana-한국어) | 7 | 1 | 33 | 947 | 18 | 256 | 430 | 47 |
 | [Norwegian Bokmål](#non-curated-languages) | 69 | 704 | 42 | 3173 | 196 | 537 | 513 | 146 |
 | [Polish](#polish-polski) | 28 | 2004 | 37 | 2458 | 196 | 533 | 444 | 141 |
@@ -1017,15 +1017,7 @@
 
 - [signage_japanese.vdf](misc/signage/signage_japanese.vdf) has 67 untranslated strings.
 - [vgui_japanese.txt](platform/vgui_japanese.txt) has 35 untranslated strings.
-- [reactivedrop_japanese.txt](resource/reactivedrop_japanese.txt) has 21 untranslated strings.
-
-### Inventory Schema</summary>
-
-- Item 100000022 "Donor: __NAME__" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_japanese`, `description_japanese`, `ingame_description_japanese`
-- Item 100000023 "Donor: __NAME__" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_japanese`, `description_japanese`, `ingame_description_japanese`
-- Item 100000031 "Donor: AutoGavy" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_japanese`, `description_japanese`, `ingame_description_japanese`
-- Item 100000032 "Donor: __NAME__" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_japanese`, `description_japanese`, `ingame_description_japanese`
-- Item 100000033 "Donor: __NAME__" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_japanese`, `description_japanese`, `ingame_description_japanese`
+- [reactivedrop_japanese.txt](resource/reactivedrop_japanese.txt) has 11 untranslated strings.
 
 </details>
 
