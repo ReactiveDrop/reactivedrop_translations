@@ -8455,29 +8455,29 @@
 "[english]rd_ticker_headline_refugeenews"		"Refugees flow into S-N5 constellation"
 "rd_ticker_headline_accident32"		"La Società AMBER starebbe studiando una nuova Fonte di Combustibile"
 "[english]rd_ticker_headline_accident32"		"AMBER Corporation Reportedly Researching New Fuel Source"
-		"rd_ticker_stat_bullets_fired_this_week"		"Marines fired %s1 bullets this week in the fight against the Alien Swarm"
-		// In the ticker stats strings, %s1 is a number.
-		// Ammo and death stats do not (currently) include deathmatch and do not include bots.
-		"[english]rd_ticker_stat_bullets_fired_this_week"		"Marines fired %s1 bullets this week in the fight against the Alien Swarm"
-		"rd_ticker_stat_rockets_fired_this_month"		"IAF marines launched %s1 short-range heat-seeking missiles this month"
-		"[english]rd_ticker_stat_rockets_fired_this_month"		"IAF marines launched %s1 short-range heat-seeking missiles this month"
-		"rd_ticker_stat_deaths_from_nukes_this_month"		"IAF reports %s1 marines lost this month to improper handling of nuclear warheads"
-		"[english]rd_ticker_stat_deaths_from_nukes_this_month"		"IAF reports %s1 marines lost this month to improper handling of nuclear warheads"
-		"rd_ticker_stat_deaths_from_doors_this_month"		"Door menace claimed %s1 lives this month"
-		// Have some fun with this one. The concept of a door going on a murderous rampage is very funny.
-		"[english]rd_ticker_stat_deaths_from_doors_this_month"		"Door menace claimed %s1 lives this month"
-		"rd_ticker_stat_deaths_from_barrels_this_week"		"%s1 reported dead in this week's battle against brightly colored barrels"
-		// This is a joke about bright red barrels in video games always being ridiculously explosive.
-		"[english]rd_ticker_stat_deaths_from_barrels_this_week"		"%s1 reported dead in this week's battle against brightly colored barrels"
-		"rd_ticker_stat_deaths_from_parasites_this_month"		"%s1 marines lost to infestation this month"
-		"[english]rd_ticker_stat_deaths_from_parasites_this_month"		"%s1 marines lost to infestation this month"
-		"rd_ticker_stat_deaths_from_touching_aliens_this_week"		"%s1 marines died this week while attempting to pet the aliens"
-		"[english]rd_ticker_stat_deaths_from_touching_aliens_this_week"		"%s1 marines died this week while attempting to pet the aliens"
-		"rd_ticker_stat_deaths_from_holes_this_week"		"%s1 marines reported dead this week after jumping into mysterious holes"
-		"[english]rd_ticker_stat_deaths_from_holes_this_week"		"%s1 marines reported dead this week after jumping into mysterious holes"
-		"rd_ticker_stat_deaths_from_drones_today"		"Drones tore %s1 marines to pieces today"
-		"[english]rd_ticker_stat_deaths_from_drones_today"		"Drones tore %s1 marines to pieces today"
-		"rd_ticker_stat_deaths_from_grenades_today"		"%s1 marines died today due to mishandling of explosive ordinance"
-		"[english]rd_ticker_stat_deaths_from_grenades_today"		"%s1 marines died today due to mishandling of explosive ordinance"
+"rd_ticker_stat_bullets_fired_this_week"		"Questa settimana, i soldati hanno sparato %s1 proiettili durante la lotta contro lo Sciame Alieno"
+// In the ticker stats strings, %s1 is a number.
+// Ammo and death stats do not (currently) include deathmatch and do not include bots.
+"[english]rd_ticker_stat_bullets_fired_this_week"		"Marines fired %s1 bullets this week in the fight against the Alien Swarm"
+"rd_ticker_stat_rockets_fired_this_month"		"Questo mese, i soldati IAF hanno lanciato %s1 missili a corto raggio e a ricerca di calore"
+"[english]rd_ticker_stat_rockets_fired_this_month"		"IAF marines launched %s1 short-range heat-seeking missiles this month"
+"rd_ticker_stat_deaths_from_nukes_this_month"		"Questo mese, l'IAF ha segnalato %s1 soldati deceduti a causa della manipolazione impropria di testate nucleari"
+"[english]rd_ticker_stat_deaths_from_nukes_this_month"		"IAF reports %s1 marines lost this month to improper handling of nuclear warheads"
+"rd_ticker_stat_deaths_from_doors_this_month"		"Questo mese, La Porta ha tolto %s1 vite"
+// Have some fun with this one. The concept of a door going on a murderous rampage is very funny.
+"[english]rd_ticker_stat_deaths_from_doors_this_month"		"Door menace claimed %s1 lives this month"
+"rd_ticker_stat_deaths_from_barrels_this_week"		"Sono state segnalate %s1 morti nella battaglia di questa settimana contro i barili rossi"
+// This is a joke about bright red barrels in video games always being ridiculously explosive.
+"[english]rd_ticker_stat_deaths_from_barrels_this_week"		"%s1 reported dead in this week's battle against brightly colored barrels"
+"rd_ticker_stat_deaths_from_parasites_this_month"		"Questo mese, abbiamo perso %s1 soldati per l'infestazione"
+"[english]rd_ticker_stat_deaths_from_parasites_this_month"		"%s1 marines lost to infestation this month"
+"rd_ticker_stat_deaths_from_touching_aliens_this_week"		"Questa settimana, sono morti %s1 soldati mentre provavano ad accarezzare gli alieni"
+"[english]rd_ticker_stat_deaths_from_touching_aliens_this_week"		"%s1 marines died this week while attempting to pet the aliens"
+"rd_ticker_stat_deaths_from_holes_this_week"		"Questa settimana, sono stati segnalati %s1 soldati morti dopo aver saltato dentro un buco misterioso"
+"[english]rd_ticker_stat_deaths_from_holes_this_week"		"%s1 marines reported dead this week after jumping into mysterious holes"
+"rd_ticker_stat_deaths_from_drones_today"		"I Droni hanno fatto a pezzi %s1 soldati oggi"
+"[english]rd_ticker_stat_deaths_from_drones_today"		"Drones tore %s1 marines to pieces today"
+"rd_ticker_stat_deaths_from_grenades_today"		"Sono morti %s1 soldati oggi a causa della manipolazione errata di ordigni esplosivi."
+"[english]rd_ticker_stat_deaths_from_grenades_today"		"%s1 marines died today due to mishandling of explosive ordinance"
 }
 }
