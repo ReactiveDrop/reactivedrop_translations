@@ -8479,5 +8479,31 @@
 "[english]rd_ticker_stat_deaths_from_drones_today"		"Drones tore %s1 marines to pieces today"
 "rd_ticker_stat_deaths_from_grenades_today"		"今日は%s1人の海兵隊員が爆発物取扱法を正しく守らなかったせいで死亡しました"
 "[english]rd_ticker_stat_deaths_from_grenades_today"		"%s1 marines died today due to mishandling of explosive ordinance"
+		"rd_reporting_error_not_connected"		"Cannot send a report while offline."
+		"[english]rd_reporting_error_not_connected"		"Cannot send a report while offline."
+		"rd_reporting_wait_requesting_ticket"		"Requesting a ticket..."
+		// shown when the game is asking Steam for a ticket that can be used to confirm the current player's identity to the reporting server.
+		// this message will be replaced very quickly while sending in a report unless something is wrong.
+		"[english]rd_reporting_wait_requesting_ticket"		"Requesting a ticket..."
+		"rd_reporting_error_sending_unknown"		"An unknown error occured while sending the report."
+		// failed to even start the report-sending request
+		"[english]rd_reporting_error_sending_unknown"		"An unknown error occured while sending the report."
+		"rd_reporting_sending_report_to_server"		"Uploading your report..."
+		"[english]rd_reporting_sending_report_to_server"		"Uploading your report..."
+		"rd_reporting_error_getting_ticket"		"Unable to get an identity ticket. Cannot report at this time. (Error code %s1 %s2)"
+		// %s1 is the error number, %s2 is the name associated with that number.
+		"[english]rd_reporting_error_getting_ticket"		"Unable to get an identity ticket. Cannot report at this time. (Error code %s1 %s2)"
+		"rd_reporting_error_sending_client"		"Lost connection to the Steam client. Failed to send the report."
+		"[english]rd_reporting_error_sending_client"		"Lost connection to the Steam client. Failed to send the report."
+		"rd_reporting_error_sending_network"		"A network error occurred while attempting to send the report."
+		"[english]rd_reporting_error_sending_network"		"A network error occurred while attempting to send the report."
+		"rd_reporting_success"		"Your report has been sent and will be reviewed by the Reactive Drop Team."
+		"[english]rd_reporting_success"		"Your report has been sent and will be reviewed by the Reactive Drop Team."
+		"rd_reporting_error_http"		"An error occurred while sending the report. (Code %s1)"
+		// %s1 is a 3-digit number (an HTTP status code)
+		"[english]rd_reporting_error_http"		"An error occurred while sending the report. (Code %s1)"
+		"rd_reporting_finished_title"		"Report Status"
+		// shown above the final message generated during the process of sending a report
+		"[english]rd_reporting_finished_title"		"Report Status"
 }
 }
