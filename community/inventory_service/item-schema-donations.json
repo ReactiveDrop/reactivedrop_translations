@@ -691,7 +691,6 @@
 			"display_type_russian": "Спонсорство",
 			"display_type_schinese": "捐赠者",
 			"icon_url": "https://stats.reactivedrop.com/static/medals/donor/artist_axnow.png",
-			"store_hidden": true,
 			"name_color": "4D7455",
 			"store_tags": "artiststamp;donation",
 			"price_category": "1;VLV100",
