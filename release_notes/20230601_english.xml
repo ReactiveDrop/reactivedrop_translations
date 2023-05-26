@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<content><string id="body">We're hard at work on next year's major update, but in the meantime there were some issues we wanted to address more urgently. This release fixes some crashes, oddities with weapons, and issues with new maps, and also contains an improvement to mapper control of objects marines can pick up.
+
+[h1]Mapping Competition 2023: "Boss Fight"[/h1]
+
+We're a little more than a third of the way to the deadline for our [url=https://store.steampowered.com/news/app/563560/view/3267945303133398273]first annual mapping competition[/url]. With two months left, there's still plenty of time to make an entry, even for someone who has never made a Source Engine map before!
+
+[h1]Missions[/h1]
+
+[list]
+[*][b]Research 7: Research 7:[/b] Fixed incorrect music playing.
+[*][b]Research 7: Illyn Forest[/b] Fixed incorrect music playing.
+[*][b]Tilarus-5: Yanaurus Mine:[/b] Fixed an instructor hint persisting through mission restarts.
+[*][b]Tilarus-5: Yanaurus Mine:[/b] Fixed terrain in the mines area that marines could get stuck in near the button.
+[*][b]Accident 32:[/b] Fixed the campaign map being blurry on some graphics configurations.
+[*][b]Reversed Rydberg Reactor:[/b] Replaced infinite buzzers with a one-time spawn near the mission start.
+[*][b]Reversed Rydberg Reactor:[/b] Spread out or removed alien spawn locations near the opened airlock door.
+[*][b]Reversed Rydberg Reactor:[/b] Prevented hordes from spawning behind closed airlocks.
+[*][b]Reversed Cargo Elevator:[/b] Added a snow wall in the area just after the elevator to avoid seeing out of bounds with a rotated camera.
+[*][b]Reversed Cargo Elevator:[/b] Reduced the size of the AI navigation graph and fixed aliens spawning in unreachable locations.
+[*][b]Reversed Cargo Elevator:[/b] Removed alien spawn location randomization.
+[*][b]Reversed Cargo Elevator:[/b] Fixed drones spawning outside the elevator car or falling under the floor.
+[*][b]Reversed Cargo Elevator:[/b] Added logic to clean up aliens left behind when entering the elevator.
+[*][b]Reversed Cargo Elevator:[/b] Reduced the number of aliens that spawn when exiting the elevator.
+[*][b]Reversed Landing Bay:[/b] Fixed alien spawn locations blocked by terrain.
+[/list]
+
+[h1]Weapons[/h1]
+
+[list]
+[*][b]v45 Electric Charged Armor:[/b] Fixed the deployment count being listed as a duplicate "Damage Blocked" stat. Added a note to the Swarmopedia entry clarifying that this armor blocks 75% of melee damage while active.
+[*][b]PS50 Bulldog:[/b] Fixed sending a weapon_fired scripting event every frame when the fire button is held.
+[*][b]IAF Medical Amplifier Gun:[/b] Fixed this weapon not having enough secondary ammo capacity for Bastille's default ammo count, causing the gun to become reloadable, which would cause primary ammo to be discarded.
+[*][b]IAF Medical SMG:[/b] Fixed this weapon highlighting potential heal targets based on whether it had primary ammo.
+[/list]
+
+[h1]Misc[/h1]
+
+[list]
+[*]Fixed a crash when starting the game with a version of Proton or the Steam Client that is too old. Added a message explaining how to change the Proton version.
+[*]Sending too many commands at once to the server will now disconnect the client rather than soft-locking. The game will write a file that can be used to help figure out what's causing this. We believe this is what has been causing the mission success/failed screen to hang for some players.
+[*]Added a workaround for the workshop campaign "Revenant - The Lost Voyage" not loading due to a syntax error in its campaign file.
+[*]Delayed demo recording by 50 frames after an instant restart to avoid creating demos that cannot be played back. Configurable with the rd_auto_record_delay_start_frames convar.
+[*]Fixed asw_custom_skill_points being classified as a setting rather than a challenge variable.
+[*]Changed the default value for rd_chatwipe to not clear chat after a delay.
+[*]rd_reduce_motion now disables briefing cameras. You can also set rd_disable_briefing_camera if you want this functionality without the other changes rd_reduce_motion makes.
+[*]We've added more options to [url=https://store.steampowered.com/itemstore/563560/]donate to Alien Swarm: Reactive Drop contributors[/url], this time adding artists, programmers, server hosts, and translators.
+[/list]
+
+[h1]Mapping[/h1]
+
+[list]
+[*]rd_weapon_generic_object can now be assigned an icon (see [url=https://steamcommunity.com/sharedfiles/filedetails/?id=914386392]Haikü's tutorial for how to make weapon icons[/url]).
+[*]rd_weapon_generic_object now has ForcePickUp and ForceDrop inputs as well as OnPrimaryAttack, OnSecondaryAttack, OnReload, OnPickedUp, and OnDropped outputs in Hammer.
+[/list]
+</string><string id="subtitle"></string><string id="summary"></string><string id="title">Alien Swarm: Reactive Drop Update - June 1, 2023</string></content>
