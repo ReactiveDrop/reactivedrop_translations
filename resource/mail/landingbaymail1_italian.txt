@@ -6,7 +6,7 @@ GAME
 
 "MailFrom1"	"Da: Helen Young"
 "MailDate1"	"Data: 12/19/52"
-"MailSubject1"	"Oggetto: eusocialità"
+"MailSubject1"	"Oggetto: Eusocialità"
 "MailBody1A"	"Risultati dello Sciame:"
 "MailBody1B"	"Abbiamo fatto dei test. Tutti i modelli per la crescita, la durata della vita e il metabolismo funzionano solo se applicati su tutta la popolazione, piuttosto che sugli individui."
 "MailBody1C"	"In un certo senso, sono come gli insetti avanzati dell'alveare, un singolo superorganismo avanzato. Il contenimento è vitale."
