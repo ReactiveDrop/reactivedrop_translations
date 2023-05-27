@@ -19,7 +19,7 @@ GAME
 "MailSubject3"	"Oggetto: Re: Il lanciafiamme è di nuovo pieno"
 "MailBody3A"	"Ehi Bill"
 "MailBody3B"	"Hehe, grazie per averlo riempito. Ho imparato per esperienza che devi avere un po' di potenza di fuoco in più intorno."
-"MailBody3C"	"Quella bambina mi ha salvato da non pochi incontri con lo sciame. Non so mai quando potrei averne bisogno di nuovo."
+"MailBody3C"	"Quella bambina mi ha salvato da non pochi incontri con lo Sciame. Non so mai quando potrei averne bisogno di nuovo."
 "MailBody3D"	"Stai al sicuro, Barney"
 
 "MailFrom4"	"A: Walter Jackson"
