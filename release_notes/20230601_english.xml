@@ -44,6 +44,8 @@ We're a little more than a third of the way to the deadline for our [url=https:/
 [*]Fixed asw_custom_skill_points being classified as a setting rather than a challenge variable.
 [*]Changed the default value for rd_chatwipe to not clear chat after a delay.
 [*]rd_reduce_motion now disables briefing cameras. You can also set rd_disable_briefing_camera if you want this functionality without the other changes rd_reduce_motion makes.
+[*]Fixed joy_pitchsensitivity and joy_yawsensitivity not being used when using a controller in first person.
+[*]Fixed the VScript/SourceMod menu persisting through mission restarts.
 [*]We've added more options to [url=https://store.steampowered.com/itemstore/563560/]donate to Alien Swarm: Reactive Drop contributors[/url], this time adding artists, programmers, server hosts, and translators.
 [/list]
 
