@@ -3,7 +3,7 @@ GAME
 // Inbox
 
 "MailFrom1"	"Da: Comandante Houghton"
-"MailDate1"	"Data: 12/30/52"
+"MailDate1"	"Data: 30/12/52"
 "MailSubject1"	"Oggetto: Operazione Eradication"
 "MailBody1A"	"Alpha, non si mette bene."
 "MailBody1B"	"RC7 è sicuramente compromessa, tutti gli scienziati o soldati ancora vivi di sotto non possono più essere aiutati."

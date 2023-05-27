@@ -5,7 +5,7 @@ GAME
 // Inbox
 
 "MailFrom1"	"Da: John Cain"
-"MailDate1"	"Data: 12/23/52"
+"MailDate1"	"Data: 23/12/52"
 "MailSubject1"	"Oggetto: Re: Permesso di ingresso nel Laboratorio per Helen Young"
 "MailBody1A"	"Ming, sei fuori di testa? Hai parlato con la Young delle tue scoperte?! Te l'ho detto chiaramente, NESSUNO al di fuori di SynTek è autorizzato a sapere cosa stai facendo lassù!"
 "MailBody1B"	"A peggiorare il tutto, le cose stanno sfuggendo di mano. Sono appena tornato dalla stazione di Timor. Si sta diffondendo. Come diavolo sono arrivati ​​dal ponte 2 alla miniera?"
@@ -15,7 +15,7 @@ GAME
 // Sent
 
 "MailFrom3"	"A: John Cain"
-"MailDate3"	"Data: 12/23/52"
+"MailDate3"	"Data: 23/12/52"
 "MailSubject3"	"Oggetto: Re:Re: Permesso di ingresso nel Laboratorio per Helen Young"
 "MailBody3A"	"Ten. Cain,"
 "MailBody3B"	"Occhio a come mi parli. Non sono uno dei tuoi soldati. Young manterrà la bocca chiusa. Ha svolto un lavoro brillante e sa che la sua carriera dipende da questo. Quindi hai visto quelli vivi nelle miniere? Interessante. C'è una spiegazione ovvia: le uova diventano attive quando si scongelano. Ci sono abbastanza prede laggiù per supportare il ciclo di crescita. Fai i conti."

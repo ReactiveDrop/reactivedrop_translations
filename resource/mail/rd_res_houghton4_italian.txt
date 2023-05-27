@@ -3,7 +3,7 @@ GAME
 // Inbox
 
 "MailFrom1"	"Da: Comandante Houghton"
-"MailDate1"	"Data: 12/30/52"
+"MailDate1"	"Data: 30/12/52"
 "MailSubject1"	"Oggetto: Operazione Eradication"
 "MailBody1A"	"Interessante, sembra che l'infestazione potrebbe andare più in profondità di quanto pensassimo."
 "MailBody1B"	"Secondo le informazioni di Vereon XII, i parassiti dello Sciame amano l'umidità."
