@@ -5,7 +5,7 @@ GAME
 // Inbox
 
 "MailFrom1"	"Da: Kate Wisher"
-"MailDate1"	"Data: 10/13/52"
+"MailDate1"	"Data: 13/10/52"
 "MailSubject1"	"Oggetto: Cosa sta succedendo lì dentro?"
 "MailBody1A"	"Ehi dolcezza!"
 "MailBody1B"	"Non sto sentendo niente da te ora, tesoro! Cosa sta succedendo lì dentro?"

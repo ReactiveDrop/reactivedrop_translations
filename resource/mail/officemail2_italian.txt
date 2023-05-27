@@ -5,7 +5,7 @@ GAME
 // Inbox
 
 "MailFrom1"	"Da: Laura Callen"
-"MailDate1"	"Data: 12/21/52"
+"MailDate1"	"Data: 21/12/52"
 "MailSubject1"	"Oggetto: Contaminazione laboratorio"
 "MailBody1A"	"Ten. Cain,"
 "MailBody1B"	"Voglio un rapporto completo sugli eventi sul ponte 2. Includere la natura della fuga, i progetti, l'elenco del personale con autorizzazione ai laboratori, ecc. Mi sto stancando di doverlo chiedere ogni volta che succede qualcosa. Dovresti tenermi aggiornato regolarmente."
@@ -13,7 +13,7 @@ GAME
 "MailBody1D"	"L. Callen"
 
 "MailFrom2"	"Da: Laura Callen"
-"MailDate2"	"Data: 12/23/52"
+"MailDate2"	"Data: 23/12/52"
 "MailSubject2"	"Oggetto: Fwd: Contaminazione laboratorio"
 "MailBody2A"	"Ten. Cain,"
 "MailBody2B"	"Ancora nessun aggiornamento. Ho perso la pazienza. Considera questa mail un avviso formale che presenterò un rapporto sul tuo comportamento all'Alleanza interstellare. Sto anche ordinando ulteriore personale IA a Vereon XII al fine di ottenere un quadro chiaro della situazione. Mi aspetto che mi incontriate alle 1100 alla reception."

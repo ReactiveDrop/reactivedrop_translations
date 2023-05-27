@@ -3,7 +3,7 @@ GAME
 // Inbox
 
 "MailFrom1"	"Da: Comandante Houghton"
-"MailDate1"	"Data: 12/30/52"
+"MailDate1"	"Data: 30/12/52"
 "MailSubject1"	"Oggetto: Operazione Eradication"
 "MailBody1A"	"Ascoltate Alpha,"
 "MailBody1B"	"La Struttura di Trasporto di Research 7 ha ricevuto una spedizione di esemplari alieni una settimana fa, poco dopo l'intero avamposto ha smesso di rispondere."

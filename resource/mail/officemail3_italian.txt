@@ -5,7 +5,7 @@ GAME
 // Inbox
 
 "MailFrom1"	"Da: Helen Young"
-"MailDate1"	"Data: 12/23/52"
+"MailDate1"	"Data: 23/12/52"
 "MailSubject1"	"Oggetto: Atrio chiuso!"
 "MailBody1A"	"Ciao,"
 "MailBody1B"	"Stamattina hanno dovuto chiudere l'Atrio! Non solo l'ala sud, ma l'intera struttura. Ci è stato detto che la contaminazione si è diffusa dal ponte 2 attraverso il sistema di ventilazione. Il personale di sicurezza sta sorvegliando l'intera sezione nord-occidentale del ponte 1. Sono abbastanza ostili."
@@ -15,7 +15,7 @@ GAME
 // Sent
 
 "MailFrom3"	"A: Helen Young"
-"MailDate3"	"Data: 12/23/52"
+"MailDate3"	"Data: 23/12/52"
 "MailSubject3"	"Oggetto: Re: Atrio chiuso!"
 "MailBody3A"	"Helen, le cose vanno male qui! Abbiamo trovato un altro corpo stanotte. Questo parzialmente divorato. Qualcosa è quaggiù. Qualcosa. Caino e una dozzina del suo equipaggio si presentarono, presero l'ascensore fino alla stazione di Timor, dicendoci di rimanere indietro. Poco dopo, abbiamo sentito degli spari."
 "MailBody3B"	"Quando Cain è tornato, era ridotto a due uomini, entrambi gravemente feriti. Cain, mi ha detto che dovevamo estrarre il nostro equipaggio dalla miniera. Ho detto che era impossibile, sono sparsi dappertutto. Se ne è lavato le mani. Ha detto che era un mio problema ora. Poi se nè andato."

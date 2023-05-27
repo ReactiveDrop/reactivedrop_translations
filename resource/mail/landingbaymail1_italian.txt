@@ -5,7 +5,7 @@ GAME
 // Inbox
 
 "MailFrom1"	"Da: Helen Young"
-"MailDate1"	"Data: 12/19/52"
+"MailDate1"	"Data: 19/12/52"
 "MailSubject1"	"Oggetto: Eusocialità"
 "MailBody1A"	"Risultati dello Sciame:"
 "MailBody1B"	"Abbiamo fatto dei test. Tutti i modelli per la crescita, la durata della vita e il metabolismo funzionano solo se applicati su tutta la popolazione, piuttosto che sugli individui."
@@ -14,7 +14,7 @@ GAME
 // Sent
 
 "MailFrom3"	"A: Helen Young"
-"MailDate3"	"Data: 12/19/52"
+"MailDate3"	"Data: 19/12/52"
 "MailSubject3"	"Oggetto: Re: ??!"
 "MailBody3A"	"Socialità strutturata?"
 "MailBody3B"	"Tra gli organismi grossi? Sono ancora scettico."

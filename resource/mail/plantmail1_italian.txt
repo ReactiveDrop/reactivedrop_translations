@@ -5,7 +5,7 @@ GAME
 // Inbox
 
 "MailFrom1"	"Da: John Cain"
-"MailDate1"	"Data: 12/20/52"
+"MailDate1"	"Data: 20/12/52"
 "MailSubject1"	"Oggetto: Consegna per la Stazione di Ricerca 7"
 "MailBody1A"	"Mr. Ming,"
 "MailBody1B"	"L'agente IA L. Callen ha scoperto la nostra spedizione. Sembra anche che alcuni dei campioni siano sciolti. Mi prenderò cura di lui, ma potrebbe venire a fare a te e al tuo staff alcune domande precise. Ti consiglio di escogitare alcune buone risposte in anticipo. Metti in chiaro la tua storia."
@@ -13,7 +13,7 @@ GAME
 
 "MailFrom2"	"Da: Friend"
 "MailSubject2"	"Oggetto: Re: Opportunità di lavoro"
-"MailDate2"	"Data: 12/18/53"
+"MailDate2"	"Data: 18/12/53"
 "MailBody2A"	"Paradiso Trovato!"
 "MailBody2B"	"Stanco della routine quotidiana? Condizioni di vita anguste, niente cibo, medicine o aria pulita da respirare? Unisciti al Colony Placement Program (CPP) per trovare una vita migliore tra le stelle! I partner membri includono SynTek Megacorporation, United Industries e Frontier Pharmaceuticals. Posizionamento garantito, indipendentemente dal profilo o dalla valutazione del credito! Trova il tuo paradiso oggi! (TM)"
 }

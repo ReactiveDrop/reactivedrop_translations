@@ -5,7 +5,7 @@ GAME
 // Sent
 
 "MailFrom3"	"A: Lin Da Silva"
-"MailDate3"	"Data: 03/31/43"
+"MailDate3"	"Data: 31/03/43"
 "MailSubject3"	"Oggetto: Cosa succede?"
 "MailBody3A"	"Lin, ti spiace spiegarmi cosa sta succedendo là fuori?"
 "MailBody3B"	"È passata più di un'ora da quando un gruppo di coloni, guidati dal tenente Florenza e da altri custodi, ha fatto irruzione negli alloggi del personale di supporto e ha insistito affinché fossimo confinati all'interno dei locali protetti del magazzino fino a nuovo ordine. Sono seguite corse e urla, poi più nulla. Se fosse così propenso, Dottore, a farci sapere cosa diavolo sta succedendo qui? Niente a che fare con il caro vecchio Moreau, sono sicuro..."
