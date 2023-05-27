@@ -6,14 +6,14 @@ GAME
 
 "MailFrom1"	"Da: Comandante"
 "MailDate1"	"Data: 09/25/63"
-"MailSubject1"	"Soggetto: Ordini"
+"MailSubject1"	"Oggetto: Ordini"
 "MailBody1A"	"Lasciate tutto e tornate nella sala conferenze."
 
 // Sent
 
 "MailFrom3"	"A: Comandante"
 "MailDate3"	"Data: 09/25/63"
-"MailSubject3"	"Soggetto: Fase 3a completata"
+"MailSubject3"	"Oggetto: Fase 3a completata"
 "MailBody3A"	"Le gabbie con gli alieni sperimentali sono al loro posto. Peccato che quelli invisibili non possano riprodursi."
 "MailBody3B"	"Dovrebbero svegliarsi presto... Quei soldati non hanno alcuna possibilità contro di loro."
 }

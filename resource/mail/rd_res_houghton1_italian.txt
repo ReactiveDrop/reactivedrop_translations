@@ -4,7 +4,7 @@ GAME
 
 "MailFrom1"	"Da: Comandante Houghton"
 "MailDate1"	"Data: 12/30/52"
-"MailSubject1"	"Soggetto: Operazione Eradication"
+"MailSubject1"	"Oggetto: Operazione Eradication"
 "MailBody1A"	"Ascoltate Alpha,"
 "MailBody1B"	"La Struttura di Trasporto di Research 7 ha ricevuto una spedizione di esemplari alieni una settimana fa, poco dopo l'intero avamposto ha smesso di rispondere."
 "MailBody1C"	"Sospettiamo di avere una situazione d'emergenza al RC7 e qualunque cosa abbia appena abbattuto il vostro Albatross lo conferma."

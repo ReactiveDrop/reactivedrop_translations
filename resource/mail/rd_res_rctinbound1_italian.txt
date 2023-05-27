@@ -5,7 +5,7 @@ GAME
 
 "MailFrom1"	"Da: Shaun Ming"
 "MailDate1"	"Data: 22/12/52"
-"MailSubject1"	"Soggetto: Spedizione medica"
+"MailSubject1"	"Oggetto: Spedizione medica"
 "MailBody1A"	"Scusami, Hullen."
 "MailBody1B"	"Il nostro primo tentativo di rubare un esemplare per te è stato un fallimento. Callen ha scoperto la spedizione congelata #4903877."
 "MailBody1C"	"Tuttavia, siamo riusciti a ottenere diversi campioni congelati in una seconda spedizione di forniture mediche esaurite."

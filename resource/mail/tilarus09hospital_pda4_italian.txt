@@ -6,7 +6,7 @@ GAME
 
 "MailFrom1"	"Da: Dr. Lily Gilmore"
 "MailDate1"	"Data: 03/17/46"
-"MailSubject1"	"Soggetto: Il coraggioso capo della sicurezza"
+"MailSubject1"	"Oggetto: Il coraggioso capo della sicurezza"
 "MailBody1A"	"Kennett!"
 "MailBody1B"	"Gli esperimenti hanno superato il team di sicurezza!"
 "MailBody1C"	"Il capo della sicurezza sta cercando di fuggire tramite il teletrasporto. Scappando dal suo stesso territorio. Patetico. Dove ha intenzione di andare??"
@@ -14,14 +14,14 @@ GAME
 
 "MailFrom2"	"Da: Dr. Lily Gilmore"
 "MailDate2"	"Data: 03/17/46"
-"MailSubject2"	"Soggetto: ???"
+"MailSubject2"	"Oggetto: ???"
 "MailBody2A"	"Perchè non mi rispondi?!"
 
 // Sent
 
 "MailFrom3"	"A: Dr. Lily Gilmore"
 "MailDate3"	"Data: 03/17/46"
-"MailSubject3"	"Soggetto: Aiuto!"
+"MailSubject3"	"Oggetto: Aiuto!"
 "MailBody3A"	"Lily!"
 "MailBody3B"	"Gli esperimenti sono ovunque!"
 "MailBody3C"	"Mi sono nascosto in uno dei magazzini prima che si spegnesse l'alimentazione; ora sono in trappola. Spero solo che quei dannati esperimenti non possano entrare qui."
