@@ -8,8 +8,8 @@ GAME
 "MailDate1"	"Data: 19/12/52"
 "MailSubject1"	"Oggetto: Eusocialità"
 "MailBody1A"	"Risultati dello Sciame:"
-"MailBody1B"	"Abbiamo fatto dei test. Tutti i modelli per la crescita, la durata della vita e il metabolismo funzionano solo se applicati su tutta la popolazione, piuttosto che sugli individui."
-"MailBody1C"	"In un certo senso, sono come gli insetti avanzati dell'alveare, un singolo superorganismo avanzato. Il contenimento è vitale."
+"MailBody1B"	"Abbiamo fatto dei test. Tutti i modelli per la crescita, la durata della vita e il metabolismo funzionano se applicati su tutta la popolazione, ma non sui singoli individui."
+"MailBody1C"	"In un certo senso, sono come api potenziate, un singolo superorganismo avanzato. Il loro contenimento è vitale."
 
 // Sent
 
@@ -17,7 +17,7 @@ GAME
 "MailDate3"	"Data: 19/12/52"
 "MailSubject3"	"Oggetto: Re: ??!"
 "MailBody3A"	"Socialità strutturata?"
-"MailBody3B"	"Tra gli organismi grossi? Sono ancora scettico."
+"MailBody3B"	"Tra organismi di grandi dimensioni? Sono ancora scettico."
 "MailBody3C"	"Non c'è dubbio, tuttavia, che le uova sono pericolose. Oggi abbiamo avuto un incidente. Uno dei lavoratori è stato trovato morto."
 "MailBody3D"	"Concordo che il contenimento è vitale, ma non prevedo difficoltà."
 }
