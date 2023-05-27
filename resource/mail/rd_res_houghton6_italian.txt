@@ -4,7 +4,7 @@ GAME
 
 "MailFrom1"	"Da: Comandante Houghton"
 "MailDate1"	"Data: 12/30/52"
-"MailSubject1"	"Soggetto: Operazione Firestorm"
+"MailSubject1"	"Oggetto: Operazione Firestorm"
 "MailBody1A"	"Le cose non sembrano buone Alpha, e non ho una bomba nucleare di riserva in giro."
 "MailBody1B"	"La maggior parte delle biofirme sembrano provenire da un vano ascensore nella parte settentrionale della miniera. Ricorda cosa diceva mio padre, "se non riesci a ucciderlo, corri più veloce"."
 "MailBody1C"	"I rapporti RC7 mostrano che c'è un potente laser da miniera laggiù, potrebbe essere possibile utilizzarlo"

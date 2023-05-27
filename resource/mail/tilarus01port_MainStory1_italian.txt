@@ -6,7 +6,7 @@ GAME
 
 "MailFrom1"	"Da: Comandante Harold"
 "MailDate1"	"Data: 02/02/54"
-"MailSubject1"	"Soggetto: Schianto "
+"MailSubject1"	"Oggetto: Schianto "
 "MailBody1A"	"Buon giorno Ross,"
 "MailBody1B"	"Ho capito che gli equipaggi di pulizia non sanno nemmeno da dove cominciare."
 "MailBody1c"	"Tuttavia, voglio che questo pasticcio venga ripulito rapidamente, non lo vogliamo sui giornali,"

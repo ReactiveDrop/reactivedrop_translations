@@ -6,7 +6,7 @@ GAME
 
 "MailFrom1"	"Da: Tom Hinler"
 "MailDate1"	"Data: 05/26/60."
-"MailSubject1"	"Soggetto: Soggetto 58."
+"MailSubject1"	"Oggetto: Soggetto 58."
 "MailBody1A"	"Giovedì 21 Maggio:"
 "MailBody1B"	"Oggi abbiamo implementato con successo un DNA ricombinante sul paziente. Questo DNA proveniva dall'Alieno catturato alcuni giorni fa da una pattuglia. Il paziente sembra essere in buona salute."
 "MailBody1C"	"Sabato 23 Maggio:"
