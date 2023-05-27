@@ -1132,7 +1132,7 @@
 "[english]asw_message_log"		"Message Log"
 "asw_hack_panel"		"Pannello Hacking"
 "[english]asw_hack_panel"		"Hack Panel"
-"asw_exit_panel"		"Pannello d'Uscita"
+"asw_exit_panel"		"Esci dal pannello"
 "[english]asw_exit_panel"		"Exit Panel"
 "asw_hack_comp"		"Penetra nel Computer"
 "[english]asw_hack_comp"		"Hack Computer"
