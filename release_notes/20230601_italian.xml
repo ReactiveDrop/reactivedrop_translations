@@ -28,7 +28,7 @@ Siamo a poco più di un terzo della scadenza per la nostra [url=https://store.st
 [h1]Armi[/h1]
 
 [list]
-[*][b]Arnamatura Elettrica Caricata v45:[/b] Corretto il conteggio degli schieramenti che viene elencato come un duplicato della statistica "Danno Bloccato". Aggiunta una nota alla voce della Swarmopedia che chiarisce che questa armatura blocca il 75% dei danni in mischia quando è attiva.
+[*][b]Armatura Elettrica Caricata v45:[/b] Corretto il conteggio degli schieramenti che viene elencato come un duplicato della statistica "Danno Bloccato". Aggiunta una nota alla voce della Swarmopedia che chiarisce che questa armatura blocca il 75% dei danni in mischia quando è attiva.
 [*][b]PS50 Bulldog:[/b] Corretto l'invio di un evento di scripting weapon_fired ogni fotogramma quando si tiene premuto il pulsante di fuoco.
 [*][b]Pistola Medica Amplificatrice IAF:[/b] Corretto il fatto che quest'arma non avesse una capacità di munizioni secondarie sufficiente per il numero di munizioni predefinito di Bastille, in quanto l'arma diventava ricaricabile e le munizioni primarie venivano scartate.
 [*][b]SMG Medica IAF:[/b] Corretto il fatto che quest'arma evidenzi i potenziali bersagli di guarigione in base alla presenza o meno di munizioni primarie.
