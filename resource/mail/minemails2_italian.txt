@@ -5,8 +5,8 @@ GAME
 // Inbox
 
 "MailFrom1"	"Da: Laura Callen"
-"MailDate1"	"Data: 12/24/52"
-"MailSubject1"	"Soggetto: Ci siamo"
+"MailDate1"	"Data: 24/12/52"
+"MailSubject1"	"Oggetto: Ci siamo"
 "MailBody1A"	"Legge marziale?"
 "MailBody1B"	"È troppo tardi."
 "MailBody1C"	"Abbiamo bisogno di un intervento serio o perderemo questa struttura."

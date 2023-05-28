@@ -5,8 +5,8 @@ GAME
 // Inbox
 
 "MailFrom1"	"Da: Bill Howze"
-"MailDate1"	"Data: 10/04/52"
-"MailSubject1"	"Soggetto: Il lanciafiamme è di nuovo pieno"
+"MailDate1"	"Data: 04/10/52"
+"MailSubject1"	"Oggetto: Il lanciafiamme è di nuovo pieno"
 "MailBody1A"	"Ehi Barney"
 "MailBody1B"	"Ho ricaricato il tuo lanciafiamme come da lei richiesto. Non so perché tieni quella cosa nel tuo ufficio..."
 "MailBody1C"	"Hai i tuoi giocattoli di sicurezza standard già forniti da SynTek."
@@ -15,16 +15,16 @@ GAME
 // Sent
 
 "MailFrom3"	"A: Bill Howze"
-"MailDate3"	"Data: 10/04/52"
-"MailSubject3"	"Soggetto: Re: Il lanciafiamme è di nuovo pieno"
+"MailDate3"	"Data: 04/10/52"
+"MailSubject3"	"Oggetto: Re: Il lanciafiamme è di nuovo pieno"
 "MailBody3A"	"Ehi Bill"
 "MailBody3B"	"Hehe, grazie per averlo riempito. Ho imparato per esperienza che devi avere un po' di potenza di fuoco in più intorno."
-"MailBody3C"	"Quella bambina mi ha salvato da non pochi incontri con lo sciame. Non so mai quando potrei averne bisogno di nuovo."
+"MailBody3C"	"Quella bambina mi ha salvato da non pochi incontri con lo Sciame. Non so mai quando potrei averne bisogno di nuovo."
 "MailBody3D"	"Stai al sicuro, Barney"
 
 "MailFrom4"	"A: Walter Jackson"
-"MailDate4"	"Data: 10/06/52"
-"MailSubject4"	"Soggetto: Strani segnali"
+"MailDate4"	"Data: 06/10/52"
+"MailSubject4"	"Oggetto: Strani segnali"
 "MailBody4A"	"RAPPORTO:"
 "MailBody4B"	"Abbiamo notato di nuovo alcune anomalie sullo scanner radar."
 "MailBody4C"	"Questa volta è durato più a lungo e c'erano più bersagli invece di uno come due giorni fa."

@@ -6,7 +6,7 @@ GAME
 
 "MailFrom1"	"Da: Kyle"
 "MailDate1"	"Data: 02/02/54"
-"MailSubject1"	"Soggetto: rapporto 709b"
+"MailSubject1"	"Oggetto: rapporto 709b"
 "MailBody1A"	"-47 Droidi persi nelle ultime 24 ore"
 "MailBody1B"	"-Capacità di smaltimento complessiva al 87%"
 "MailBody1C"	"-Gli inceneritori lavorano al 100% di capacità"
