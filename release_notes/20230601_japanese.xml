@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<content><string id="body">来年の大型アップデートを鋭意開発中ですが、その間にも至急対処したい問題が見つかりました。今回のアップデートではゲームのクラッシュ、武器のおかしい挙動、新マップの問題をいくつか修正し、マップ作成時にプレイヤーが拾えるオブジェクトの詳細を設定できるようにしました。
+
+[h1]マップ作成コンテスト 2023: 『ボス戦』[/h1]
+
+例年行う予定の[url=https://store.steampowered.com/news/app/563560/view/3267945303133398273]マップ作成コンテスト第1回[/url]は開催期間の3分の1以上が経過しました。残り2ヶ月もあるので、これから参加するのにも十分な時間が残っていますよ。Source Engineのマップを作ったことない人でも大丈夫です！
+
+[h1]ミッション[/h1]
+
+[list]
+[*][b]Research 7: Research 7:[/b] 間違った音楽が流れていたのを修正。
+[*][b]Research 7: Illyn Forest[/b] 間違った音楽が流れていたのを修正。
+[*][b]Tilarus-5: Yanaurus Mine:[/b] ミッションのやり直しをした時にヒント表示が出たままになっていたのを修正。
+[*][b]Tilarus-5: Yanaurus Mine:[/b] 鉱山エリアのボタンの近くで進行不能になる可能性があった地形を修正。
+[*][b]Accident 32:[/b] グラフィック設定次第でこのキャンペーンのマップがぼやけた表示になっていたのを修正。
+[*][b]Reversed Rydberg Reactor:[/b] ミッション開始地点周辺の無限に出現するバザーを一度限りの出現パターンに置き換えた。
+[*][b]Reversed Rydberg Reactor:[/b] 開いているエアロック周辺のエイリアンの出現位置を分散させたり一部削除した。
+[*][b]Reversed Rydberg Reactor:[/b] 閉じられたエアロックの反対側からエイリアンの群れが出現しないようにした。
+[*][b]Reversed Cargo Elevator:[/b] カメラ回転を使うとマップの外側が見えていた問題の対処にエレベーターの直後のエリアに雪の壁を配置した。
+[*][b]Reversed Cargo Elevator:[/b] AIの経路探索グラフを縮小してエイリアンが到達不能位置に出現するのを修正した。
+[*][b]Reversed Cargo Elevator:[/b] エイリアン出現位置のランダム化要素を削除。
+[*][b]Reversed Cargo Elevator:[/b] ドローンがエレベーターの外側に出現したり床を突き抜けて落下していたのを修正。
+[*][b]Reversed Cargo Elevator:[/b] エレベーターに乗る際に放置していったエイリアンの消去処理を追加。
+[*][b]Reversed Cargo Elevator:[/b] エレベーターから降りる際のエイリアン出現数を減らした。
+[*][b]Reversed Landing Bay:[/b] エイリアンの出現位置が地形で塞がれていたのを修正。
+[/list]
+
+[h1]武器[/h1]
+
+[list]
+[*][b]v45 帯電アーマー:[/b] 使用回数の統計情報がもう一つの『防いだダメージ』として表示されていたのを修正。起動中は近接攻撃の被ダメージを75%軽減することを図鑑の項目内で明記するようにした。
+[*][b]PS50 ブルドッグ:[/b] 発射ボタンを押したままにすると1フレーム毎にweapon_firedのスクリプトを送信していたのを修正。
+[*][b]IAF メディカルアンプガン:[/b] この武器の特殊弾薬最大所持量がBastilleの初期弾薬所持量を下回っており、リロードが可能になっていてそうすると治療エネルギーを廃棄してしまっていたのを修正。
+[*][b]IAF メディカルサブマシンガン:[/b] この武器の射撃用の弾丸が残っているかどうかで回復対象をハイライトするか決めていたのを修正。
+[/list]
+
+[h1]その他[/h1]
+
+[list]
+[*]特定のProtonバージョンや古すぎるSteamクライアントでゲームが起動されるとクラッシュしていたのを修正。Protonのバージョン変更方法の説明を追加。
+[*]一度に大量のコマンドをサーバーに送信するとソフトロックされるのではなくクライアントが切断されるようになった。この際に何が起こったのかを記録するファイルを作成するようにした。これがミッションの成功・失敗時の画面で一部のプレイヤーがソフトロック状態になっていた問題の正体のはずです。
+[*]ワークショップのキャンペーン『Revenant - The Lost Voyage』がファイル内の文法エラーで読み込めなかった問題の回避策を追加。
+[*]ミッションのやり直しを選択した際にデモファイルの記録開始を50フレーム遅らせることにより、再生不能のデモファイルが作成されるのを修正した。rd_auto_record_delay_start_framesのコンソール変数で調整可能。
+[*]asw_custom_skill_pointsがチャレンジ項目ではなく設定として分類されていたのを修正。
+[*]rd_chatwipeのデフォルト値を変更してチャットがすぐに消えないようにした。
+[*]rd_reduce_motionがブリーフィング中のカメラを無効にするようにした。rd_disable_briefing_cameraを使用すればrd_reduce_motionを使わずにカメラの無効化だけも可能。
+[*]joy_pitchsensitivityとjoy_yawsensitivityが一人称視点でゲームパッドを使用する際に有効になっていなかったのを修正。
+[*]VScriptとSourceModのメニューがミッションのやり直しをしても表示されたままになっていたのを修正。
+[*][url=https://store.steampowered.com/itemstore/563560/]Alien Swarm: Reactive Drop貢献者への寄付[/url]の選択肢を増やしました。今回はアーティスト、プログラマー、サーバー管理者、翻訳者の追加です。
+[/list]
+
+[h1]マップ作成[/h1]
+
+[list]
+[*]rd_weapon_generic_objectにアイコンが割り当てられるようになった。(詳細は[url=https://steamcommunity.com/sharedfiles/filedetails/?id=914386392]Haikü's tutorial for how to make weapon icons[/url]を参照)
+[*]rd_weapon_generic_objectがHammerエディタ上でForcePickUpとForceDropの入力及び、OnPrimaryAttack、OnSecondaryAttack、OnReload、OnPickedUp、OnDroppedの出力が可能になった。
+[/list]
+</string><string id="subtitle"></string><string id="summary"></string><string id="title">Alien Swarm: Reactive Dropアップデート - 2023年6月1日</string></content>

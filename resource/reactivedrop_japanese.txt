@@ -5065,7 +5065,7 @@
 "[english]rd_so_stat_healing"		"Healing"
 "rd_so_stat_healing_self"		"自己回復量"
 "[english]rd_so_stat_healing_self"		"Healing (Self)"
-"rd_so_stat_deployed"		"設置回数"
+"rd_so_stat_deployed"		"使用回数"
 "[english]rd_so_stat_deployed"		"Deployed"
 "rd_so_stat_damage_doubled"		"倍化したダメージ"
 "[english]rd_so_stat_damage_doubled"		"Damage Doubled"
