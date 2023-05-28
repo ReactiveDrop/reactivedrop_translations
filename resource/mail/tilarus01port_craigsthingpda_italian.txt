@@ -6,7 +6,7 @@ GAME
 
 "MailFrom1"	"Da: Childs"
 "MailDate1"	"Data: 02/02/54"
-"MailSubject1"	"Soggetto: Re: I Canili"
+"MailSubject1"	"Oggetto: Re: I Canili"
 "MailBody1A"	"Amico, quella si che era roba strana."
 "MailBody1B"	"Quando Bennings mi è corso incontro, pensai che lui e Mac"
 "MailBody1C"	"fossero impazziti. Forse Mac è già impazzito?"
@@ -14,7 +14,7 @@ GAME
 
 "MailFrom2"	"Da: Childs"
 "MailDate2"	"Data: 02/02/54"
-"MailSubject2"	"Soggetto: Re:Re: I Canili"
+"MailSubject2"	"Oggetto: Re:Re: I Canili"
 "MailBody2A"	"Non che mi stia lamentando, ci ha sicuramente salvato i culi, ma non sembra un po' irresponsabile lasciare"
 "MailBody2B"	"un'arma volatile e decisamente pericolosa nelle mani di un gruppo di ricercatori con poco o nessun contatto esterno"
 "MailBody2C"	"per mesi e mesi?"
@@ -24,7 +24,7 @@ GAME
 
 "MailFrom3"	"A: Windows"
 "MailDate3"	"Data: 02/02/54"
-"MailSubject3"	"Soggetto: Re: I Canili"
+"MailSubject3"	"Oggetto: Re: I Canili"
 "MailBody3A"	"Sorge la domanda: noi siamo ricercatori artici e non soldati, che diavolo stiamo facendo con un lanciafiamme?"
 "MailBody3B"	"quale possibile scopo ci serve? perché è qui?"
 "MailBody3C"	"a proposito, tieni d'occhio il Dr. Blair, è sembrato un po' strano dopo l'incidente del canile."
