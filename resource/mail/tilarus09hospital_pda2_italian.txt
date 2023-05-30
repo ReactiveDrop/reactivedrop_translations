@@ -5,8 +5,8 @@ GAME
 // Inbox
 
 "MailFrom1"	"Da: David Foster"
-"MailDate1"	"Data: 03/13/46"
-"MailSubject1"	"Soggetto: Dosaggio"
+"MailDate1"	"Data: 13/03/46"
+"MailSubject1"	"Oggetto: Dosaggio"
 "MailBody1A"	"Joseph,"
 "MailBody1B"	"Penso di aver capito perché il paziente Molligan non è sopravvissuto."
 "MailBody1C"	"La dose citostatica era insufficiente. Raccomando di dare un secondo dosaggio durante la fase di chiusura della mutazione."
@@ -15,8 +15,8 @@ GAME
 // Sent
 
 "MailFrom3"	"A: David Foster"
-"MailDate3"	"Data: 03/13/46"
-"MailSubject3"	"Soggetto: Re: Dosaggio"
+"MailDate3"	"Data: 13/03/46"
+"MailSubject3"	"Oggetto: Re: Dosaggio"
 "MailBody3A"	"Sono d'accordo."
 "MailBody3B"	"La prossima volta aumenteremo il dosaggio. Sono abbastanza sicuro di aver trovato un paziente adatto."
 }

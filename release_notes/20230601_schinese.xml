@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<content><string id="body">各位小朋友们节日好！高考前不要打游戏了哦！我们正在努力准备明年的重大更新，不过与此同时，我们也在本次更新中处理了一些新地图相关的紧要问题，也包含了一些地图作者可控的士兵拾取物品的改进。
+
+[h1]地图竞赛2023：“Boss大战”[/h1]
+
+[url=https://store.steampowered.com/news/app/563560/view/3267945303133398273]第一届年度地图竞赛[/url]的时间已经过去了大约1/3了。不过剩下的两个月时间仍然足以让你完成地图作品，哪怕是从未在起源引擎上做过地图的人！
+
+[h1]任务[/h1]
+
+[list]
+[*][b]7号研究所：7号研究所[/b] 修复 音乐播放错误。
+[*][b]7号研究所：伊琳森林[/b] 修复 音乐播放错误。
+[*][b]蒂拉鲁斯-5：亚纳鲁斯矿区[/b] 修复 一处提示信息在任务重启后仍然显示的错误。
+[*][b]蒂拉鲁斯-5：亚纳鲁斯矿区[/b] 修复 按钮附近士兵容易被卡主的地形问题。
+[*][b]32号事故[/b] 修复 某些视频设置下任务地图模糊的问题。
+[*][b]反向雷德堡反应堆[/b] 修改 将任务开始处的无限蚊蜂刷新修改为一次性刷新。
+[*][b]反向雷德堡反应堆[/b] 修改 扩展或移除打开的气闸附近的异形刷新点。
+[*][b]反向雷德堡反应堆[/b] 修复 防止猛攻刷新在关闭的气闸后面。
+[*][b]反向货运电梯[/b] 修复 在电梯后​​面的区域添加了雪墙，以避免旋转相机看到界外。
+[*][b]反向货运电梯[/b] 减小 AI导航图大小。 修复 异形刷新在无法到达的区域的问题。
+[*][b]反向货运电梯[/b] 移除 异形刷新的随机性。
+[*][b]反向货运电梯[/b] 修复 异形刷新在电梯平台外或者掉下地板的问题。
+[*][b]反向货运电梯[/b] 增加 在进入电梯后清除后面异形的逻辑。
+[*][b]反向货运电梯[/b] 减少 出电梯后的异形刷新量。
+[*][b]反向着陆湾[/b] 修复 异形刷新点被地形阻挡的问题。
+
+[h1]武器[/h1]
+
+[list]
+[*][b]v45电力护甲[/b] 修复 部署数量和“伤害减免”数据相同的错误。增加 一条异形百科条目，用来说明本物品激活时减免75%近战伤害。
+[*][b]PS50斗牛犬[/b] 修复 当按下开火按键后每一帧均发送weapon_fired脚本事件。
+[*][b]IAF医疗强化枪[/b] 修复 Bastille默认次要攻击（强化）弹药量不足，从而导致武器变为可重新装填的状态，进而使得主要攻击（治疗）弹药可能被丢弃的错误。
+[*][b]IAF医疗冲锋枪[/b] 修复 武器基于主要攻击（子弹）弹药量而非次要攻击（治疗）弹药量来高亮显示治疗对象的错误。
+[/list]
+
+[h1]杂项[/h1]
+
+[list]
+[*]修复 Protron或Steam客户端版本过低导致的崩溃。增加 如何切换Protron版本的提示信息。
+[*]修复 向服务器一次性发送过量指令将会断开客户端连接而非软锁假死。游戏将生成一个有助于查找产生此问题原因的文件。我们认为这是导致一些玩家任务成功/失败界面假死的原因。
+[*]增加 创意工坊战役地图“Revenant - The Lost Voyage”文件中一处语法错误导致无法加载的临时解决方案。
+[*]调整 将任务快速重启的自动录像延后50帧再开始，以避免生成无法播放的录像文件。可以通过rd_auto_record_delay_start_frames指令调整。
+[*]修复 asw_custom_skill_points被分类为设置而非挑战变量的错误。
+[*]调整 rd_chatwipe的默认值为一定时间后也默认不清除聊天记录。
+[*]增加 rd_reduce_motion将禁用简报镜头。如果你希望在别人不修改rd_reduce_motion的情况下使用此功能，你可以设置rd_disable_briefing_camera。
+[*]修复 第一人称中joy_pitchsensitivity和joy_yawsensitivity失效的问题。
+[*]修复 VScript/SourceMod菜单在任务重启后依然显示的问题。
+[*]增加 多个[url=https://store.steampowered.com/itemstore/563560/]向《异形丛生：虫启天降》游戏做出贡献的美工、程序员、服主和翻译捐赠[/url]的勋章。
+[/list]
+
+[h1]地图制作[/h1]
+
+[list]
+[*]rd_weapon_generic_object如今可以分配一个图标（详见 [url=https://steamcommunity.com/sharedfiles/filedetails/?id=914386392]Haikü's tutorial for how to make weapon icons[/url]）.
+[*]rd_weapon_generic_object如今在Hammer中拥有ForcePickUp, ForceDrop输入以及OnPrimaryAttack, OnSecondaryAttack, OnReload, OnPickedUp 和 OnDropped outputs属性。.
+[/list]
+</string><string id="subtitle"></string><string id="summary"></string><string id="title">《异形丛生：虫启天降》更新 - 2023年6月1日</string></content>

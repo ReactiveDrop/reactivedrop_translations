@@ -5,8 +5,8 @@ GAME
 // Inbox
 
 "MailFrom1"	"Da: SynTek Security"
-"MailDate1"	"Data: 10/07/52"
-"MailSubject1"	"Soggetto: IMPORTANTE: SIAMO SOTTO ATTACCO"
+"MailDate1"	"Data: 07/10/52"
+"MailSubject1"	"Oggetto: IMPORTANTE: SIAMO SOTTO ATTACCO"
 "MailBody1A"	"MESSAGGIO IMPORTANTE --- PER TUTTO IL PERSONALE"
 "MailBody1B"	"Siamo attualmente sotto attacco. Lo Sciame ha già violato l'ingresso e si è spinto in avanti."
 "MailBody1C"	"Tutto il personale dovrebbe seguire il protocollo sull'evacuazione della struttura in questo momento."
@@ -15,8 +15,8 @@ GAME
 // Sent
 
 "MailFrom3"	"A: Walter Jackson"
-"MailDate3"	"Data: 10/07/52"
-"MailSubject3"	"Soggetto: Generatori"
+"MailDate3"	"Data: 07/10/52"
+"MailSubject3"	"Oggetto: Generatori"
 "MailBody3A"	"Ho chiuso a chiave la porta che conduce ai generatori di corrente, quindi dovremmo stare bene con la potenza. Possiamo almeno evacuare con le luci accese e l'alimentazione in esecuzione."
 "MailBody3B"	"Lo Sciame non dovrebbe essere in grado di aprire quella porta poiché è in metallo pesantemente rinforzato. Non possono accedere ai generatori se non riescono a capire come entrare in qualche altro modo."
 "MailBody3C"	"Sì, mi è piaciuto vedere come..."
