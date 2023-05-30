@@ -8455,55 +8455,55 @@
 "[english]rd_ticker_headline_refugeenews"		"Refugees flow into S-N5 constellation"
 "rd_ticker_headline_accident32"		"Корпорация «ЭМБЕР», как сообщается, исследует новый источник топлива"
 "[english]rd_ticker_headline_accident32"		"AMBER Corporation Reportedly Researching New Fuel Source"
-		"rd_ticker_stat_bullets_fired_this_week"		"Marines fired %s1 bullets this week in the fight against the Alien Swarm"
-		// In the ticker stats strings, %s1 is a number.
-		// Ammo and death stats do not (currently) include deathmatch and do not include bots.
-		"[english]rd_ticker_stat_bullets_fired_this_week"		"Marines fired %s1 bullets this week in the fight against the Alien Swarm"
-		"rd_ticker_stat_rockets_fired_this_month"		"IAF marines launched %s1 short-range heat-seeking missiles this month"
-		"[english]rd_ticker_stat_rockets_fired_this_month"		"IAF marines launched %s1 short-range heat-seeking missiles this month"
-		"rd_ticker_stat_deaths_from_nukes_this_month"		"IAF reports %s1 marines lost this month to improper handling of nuclear warheads"
-		"[english]rd_ticker_stat_deaths_from_nukes_this_month"		"IAF reports %s1 marines lost this month to improper handling of nuclear warheads"
-		"rd_ticker_stat_deaths_from_doors_this_month"		"Door menace claimed %s1 lives this month"
-		// Have some fun with this one. The concept of a door going on a murderous rampage is very funny.
-		"[english]rd_ticker_stat_deaths_from_doors_this_month"		"Door menace claimed %s1 lives this month"
-		"rd_ticker_stat_deaths_from_barrels_this_week"		"%s1 reported dead in this week's battle against brightly colored barrels"
-		// This is a joke about bright red barrels in video games always being ridiculously explosive.
-		"[english]rd_ticker_stat_deaths_from_barrels_this_week"		"%s1 reported dead in this week's battle against brightly colored barrels"
-		"rd_ticker_stat_deaths_from_parasites_this_month"		"%s1 marines lost to infestation this month"
-		"[english]rd_ticker_stat_deaths_from_parasites_this_month"		"%s1 marines lost to infestation this month"
-		"rd_ticker_stat_deaths_from_touching_aliens_this_week"		"%s1 marines died this week while attempting to pet the aliens"
-		"[english]rd_ticker_stat_deaths_from_touching_aliens_this_week"		"%s1 marines died this week while attempting to pet the aliens"
-		"rd_ticker_stat_deaths_from_holes_this_week"		"%s1 marines reported dead this week after jumping into mysterious holes"
-		"[english]rd_ticker_stat_deaths_from_holes_this_week"		"%s1 marines reported dead this week after jumping into mysterious holes"
-		"rd_ticker_stat_deaths_from_drones_today"		"Drones tore %s1 marines to pieces today"
-		"[english]rd_ticker_stat_deaths_from_drones_today"		"Drones tore %s1 marines to pieces today"
-		"rd_ticker_stat_deaths_from_grenades_today"		"%s1 marines died today due to mishandling of explosive ordinance"
-		"[english]rd_ticker_stat_deaths_from_grenades_today"		"%s1 marines died today due to mishandling of explosive ordinance"
-		"rd_reporting_error_not_connected"		"Cannot send a report while offline."
-		"[english]rd_reporting_error_not_connected"		"Cannot send a report while offline."
-		"rd_reporting_wait_requesting_ticket"		"Requesting a ticket..."
-		// shown when the game is asking Steam for a ticket that can be used to confirm the current player's identity to the reporting server.
-		// this message will be replaced very quickly while sending in a report unless something is wrong.
-		"[english]rd_reporting_wait_requesting_ticket"		"Requesting a ticket..."
-		"rd_reporting_error_sending_unknown"		"An unknown error occured while sending the report."
-		// failed to even start the report-sending request
-		"[english]rd_reporting_error_sending_unknown"		"An unknown error occured while sending the report."
-		"rd_reporting_sending_report_to_server"		"Uploading your report..."
-		"[english]rd_reporting_sending_report_to_server"		"Uploading your report..."
-		"rd_reporting_error_getting_ticket"		"Unable to get an identity ticket. Cannot report at this time. (Error code %s1 %s2)"
-		// %s1 is the error number, %s2 is the name associated with that number.
-		"[english]rd_reporting_error_getting_ticket"		"Unable to get an identity ticket. Cannot report at this time. (Error code %s1 %s2)"
-		"rd_reporting_error_sending_client"		"Lost connection to the Steam client. Failed to send the report."
-		"[english]rd_reporting_error_sending_client"		"Lost connection to the Steam client. Failed to send the report."
-		"rd_reporting_error_sending_network"		"A network error occurred while attempting to send the report."
-		"[english]rd_reporting_error_sending_network"		"A network error occurred while attempting to send the report."
-		"rd_reporting_success"		"Your report has been sent and will be reviewed by the Reactive Drop Team."
-		"[english]rd_reporting_success"		"Your report has been sent and will be reviewed by the Reactive Drop Team."
-		"rd_reporting_error_http"		"An error occurred while sending the report. (Code %s1)"
-		// %s1 is a 3-digit number (an HTTP status code)
-		"[english]rd_reporting_error_http"		"An error occurred while sending the report. (Code %s1)"
-		"rd_reporting_finished_title"		"Report Status"
-		// shown above the final message generated during the process of sending a report
-		"[english]rd_reporting_finished_title"		"Report Status"
+"rd_ticker_stat_bullets_fired_this_week"		"На этой неделе бойцы выпустили %s1 пуль в борьбе с роем жуков"
+// In the ticker stats strings, %s1 is a number.
+// Ammo and death stats do not (currently) include deathmatch and do not include bots.
+"[english]rd_ticker_stat_bullets_fired_this_week"		"Marines fired %s1 bullets this week in the fight against the Alien Swarm"
+"rd_ticker_stat_rockets_fired_this_month"		"В этом месяце бойцы МВС запустили %s1 ракет малой дальности с тепловым наведением"
+"[english]rd_ticker_stat_rockets_fired_this_month"		"IAF marines launched %s1 short-range heat-seeking missiles this month"
+"rd_ticker_stat_deaths_from_nukes_this_month"		"МВС сообщает о %s1 бойцах, потерянных в этом месяце из-за неправильного обращения с ядерными боеголовками"
+"[english]rd_ticker_stat_deaths_from_nukes_this_month"		"IAF reports %s1 marines lost this month to improper handling of nuclear warheads"
+"rd_ticker_stat_deaths_from_doors_this_month"		"Дверная угроза унесла в этом месяце %s1 жизней"
+// Have some fun with this one. The concept of a door going on a murderous rampage is very funny.
+"[english]rd_ticker_stat_deaths_from_doors_this_month"		"Door menace claimed %s1 lives this month"
+"rd_ticker_stat_deaths_from_barrels_this_week"		"Сообщается о %s1 погибших в ходе борьбы с ярко окрашенными бочками на этой неделе"
+// This is a joke about bright red barrels in video games always being ridiculously explosive.
+"[english]rd_ticker_stat_deaths_from_barrels_this_week"		"%s1 reported dead in this week's battle against brightly colored barrels"
+"rd_ticker_stat_deaths_from_parasites_this_month"		"%s1 бойцов погибли от инвазии в этом месяце"
+"[english]rd_ticker_stat_deaths_from_parasites_this_month"		"%s1 marines lost to infestation this month"
+"rd_ticker_stat_deaths_from_touching_aliens_this_week"		"На этой неделе %s1 бойцов погибли при попытке погладить жуков"
+"[english]rd_ticker_stat_deaths_from_touching_aliens_this_week"		"%s1 marines died this week while attempting to pet the aliens"
+"rd_ticker_stat_deaths_from_holes_this_week"		"%s1 бойцов погибли на этой неделе после прыжков в таинственные ямы"
+"[english]rd_ticker_stat_deaths_from_holes_this_week"		"%s1 marines reported dead this week after jumping into mysterious holes"
+"rd_ticker_stat_deaths_from_drones_today"		"Сегодня трутни разорвали на куски %s1 бойцов"
+"[english]rd_ticker_stat_deaths_from_drones_today"		"Drones tore %s1 marines to pieces today"
+"rd_ticker_stat_deaths_from_grenades_today"		"%s1 бойцов погибло сегодня из-за неправильного обращения со взрывчаткой"
+"[english]rd_ticker_stat_deaths_from_grenades_today"		"%s1 marines died today due to mishandling of explosive ordinance"
+"rd_reporting_error_not_connected"		"Невозможно отправить жалобу, находясь вне сети."
+"[english]rd_reporting_error_not_connected"		"Cannot send a report while offline."
+"rd_reporting_wait_requesting_ticket"		"Запрос билета..."
+// shown when the game is asking Steam for a ticket that can be used to confirm the current player's identity to the reporting server.
+// this message will be replaced very quickly while sending in a report unless something is wrong.
+"[english]rd_reporting_wait_requesting_ticket"		"Requesting a ticket..."
+"rd_reporting_error_sending_unknown"		"Во время отправки жалобы произошла неизвестная ошибка."
+// failed to even start the report-sending request
+"[english]rd_reporting_error_sending_unknown"		"An unknown error occured while sending the report."
+"rd_reporting_sending_report_to_server"		"Загрузка вашей жалобы..."
+"[english]rd_reporting_sending_report_to_server"		"Uploading your report..."
+"rd_reporting_error_getting_ticket"		"Невозможно получить идентификационный билет. Невозможно отправить жалобу в данный момент. (Код ошибки %s1 %s2)"
+// %s1 is the error number, %s2 is the name associated with that number.
+"[english]rd_reporting_error_getting_ticket"		"Unable to get an identity ticket. Cannot report at this time. (Error code %s1 %s2)"
+"rd_reporting_error_sending_client"		"Потеряно соединение с клиентом Steam. Не удалось отправить жалобу."
+"[english]rd_reporting_error_sending_client"		"Lost connection to the Steam client. Failed to send the report."
+"rd_reporting_error_sending_network"		"При попытке отправить жалобу произошла сетевая ошибка."
+"[english]rd_reporting_error_sending_network"		"A network error occurred while attempting to send the report."
+"rd_reporting_success"		"Ваша жалоба была отправлена и будет рассмотрена командой Reactive Drop."
+"[english]rd_reporting_success"		"Your report has been sent and will be reviewed by the Reactive Drop Team."
+"rd_reporting_error_http"		"Во время отправки жалобы произошла ошибка. (Код %s1)"
+// %s1 is a 3-digit number (an HTTP status code)
+"[english]rd_reporting_error_http"		"An error occurred while sending the report. (Code %s1)"
+"rd_reporting_finished_title"		"Состояние жалобы"
+// shown above the final message generated during the process of sending a report
+"[english]rd_reporting_finished_title"		"Report Status"
 }
 }
