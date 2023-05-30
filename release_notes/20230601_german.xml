@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<content><string id="body">Wir arbeiten schon fleißig am großen Update für das nächste Jahr, aber in der Zwischenzeit gab es einige Probleme, die wir dringend angehen wollten. Diese Version behebt einige Abstürze, Unregelmäßigkeiten bei Waffen und Probleme mit neuen Karten und enthält außerdem eine Verbesserung der Mapperkontrolle über Objekten die Soldaten aufnehmen können.
+
+[h1]Mapping-Wettbewerb 2023: "Boss Fight"[/h1]
+
+Es ist noch etwas mehr als ein Drittel des Weges bis zur Deadline für unseren [url=https://store.steampowered.com/news/app/563560/view/3267945303133398273]ersten jährlicher Mapping-Wettbewerb[/url]. Es bleiben noch zwei Monate Zeit, um einen Beitrag zu erstellen, selbst für jemanden, der noch nie eine Source Engine Map erstellt hat!
+
+[h1]Einsätze[/h1]
+
+[list]
+[*][b]Forschung 7: Forschung 7:[/b] Falsche Musikwiedergabe behoben.
+[*][b]Forschung 7: Illyn Wald[/b] Falsche Musikwiedergabe behoben.
+[*][b]Tilarus-5: Yanaurus Mine:[/b] Es wurde ein Tutorial-Hinweis behoben, der bei Einsatzneustarts bestehen blieb.
+[*][b]Tilarus-5: Yanaurus Mine:[/b] Das Terrain im Minengebiet, in dem Soldaten in der Nähe des Schalters stecken bleiben konnten, wurde behoben.
+[*][b]Unfall 32:[/b] Die Feldzug-Karte ist bei einigen Grafikkonfigurationen nicht mehr verschwommen.
+[*][b]Rydberg Reaktor Umgekehrt:[/b] Die unendlichen spawnenden Schnarren wurden durch einen einmaligen Spawn in der Nähe des Einsatzbeginns ersetzt.
+[*][b]Rydberg Reaktor Umgekehrt:[/b] Alien-Spawns in der Nähe der geöffneten Schleusentür wurden neu angeordnet.
+[*][b]Rydberg Reaktor Umgekehrt:[/b] Es wird nun verhindert, dass Horden hinter geschlossenen Schleusen spawnen.
+[*][b]Lastenaufzug Umgekehrt:[/b] In dem Bereich direkt nach dem Aufzug wurde eine Schneewand hinzugefügt, um zu verhindern, dass man mit einer gedrehten Kamera ins Nichts sehen kann.
+[*][b]Lastenaufzug Umgekehrt:[/b] Die Größe des KI-Navigationsgraphen wurde reduziert und das Spawnen von Aliens an unerreichbaren Orten behoben.
+[*][b]Lastenaufzug Umgekehrt:[/b] Die Zufallsgenerierung von Alien-Spawns wurde entfernt.
+[*][b]Lastenaufzug Umgekehrt:[/b] Es wurde behoben, dass Drohnen außerhalb der Aufzugskabine spawnen oder unter den Boden fallen.
+[*][b]Lastenaufzug Umgekehrt:[/b] Es wurde eine Logik hinzugefügt, um zurückgelassene Aliens beim Betreten des Aufzugs zu beseitigen.
+[*][b]Lastenaufzug Umgekehrt:[/b] Die Anzahl der Aliens, die beim Verlassen des Fahrstuhls spawnen, wurde reduziert.
+[*][b]Landungsbucht Umgekehrt:[/b] Alien-Spawns die das Gelände blockierte wurden entfernt.
+[/list]
+
+[h1]Waffen[/h1]
+
+[list]
+[*][b]v45 Elektrisch geladene Rüstung:[/b] In der Beschreibung wurde der doppelter Wert für "Geblockter Schaden" angeführt. Dem Eintrag in der Swarmopedia wurde eine Anmerkung hinzugefügt, die klarstellt, dass diese Rüstung 75% des Nahkampfschadens blockiert, wenn sie aktiv ist.
+[*][b]PS50 Bulldog:[/b] Es wurde behoben das weapon_fired bei jedem Frame gesendet wenn, wenn die Feuertaste gedrückt wird.
+[*][b]IAF Mobile Amp-Heileinheit:[/b] Es wurde behoben, dass diese Waffe nicht genug sekundäre Munitionskapazität für die Standardmunitionsanzahl von Bastille hatte, wodurch die Waffe nachladbar wurde, was dazu führte, dass primäre Munition verworfen wurde.
+[*][b]IAF Sanitäter SMG:[/b] Diese Waffe markiert nun potenzielle Heilungsziele, je nachdem, ob sie über Primärmunition verfügt.
+[/list]
+
+[h1]Verschiedenes[/h1]
+
+[list]
+[*]Ein Absturz wurde behoben, wenn das Spiel mit einer zu alten Version von Proton oder dem Steam-Client gestartet wurde. Es wurde eine Meldung hinzugefügt, die erklärt, wie die Proton-Version geändert werden kann.
+[*]Wenn man zu viele Befehle auf einmal an den Server schickt, wird die Verbindung zum Client jetzt unterbrochen, anstatt dass der Client soft-locked. Das Spiel schreibt eine Datei, mit der man herausfinden kann, was die Ursache dafür ist. Wir glauben, dass dies bei einigen Spielern dazu geführt hat, dass der Bildschirm für erfolgreiche/gescheiterte Einsätze hängen geblieben ist.
+[*]Es wurde ein Workaround für den Workshop-Feldzug "Revenant - The Lost Voyage" hinzugefügt, die aufgrund eines Syntaxfehlers in dessen Datei nicht geladen wurde.
+[*]Verzögert die Demo-Aufnahme nach einem sofortigen Neustart um 50 Frames, um zu vermeiden, dass Demos erstellt werden, die nicht wiedergegeben werden können. Konfigurierbar mit dem rd_auto_record_delay_start_frames convar.
+[*]Es wurde behoben, dass asw_custom_skill_points als Einstellung und nicht als Herausforderungsvariable klassifiziert wurde.
+[*]Der Standardwert für rd_chatwipe wurde geändert, damit der Chat nicht nach einer Verzögerung gelöscht wird.
+[*]rd_reduce_motion now disables briefing cameras. You can also set rd_disable_briefing_camera if you want this functionality without the other changes rd_reduce_motion makes.
+[*]Es wurde behoben, dass joy_pitchsensitivity und joy_yawsensitivity nicht verwendet wurden, wenn ein Controller in der ersten Person verwendet wurde.
+[*]Das VScript/SourceMod-Menü bleibt nun auch bei Einsatzneustarts bestehen.
+[*]Wir haben weitere Spenden-Optionen hinzugefügt, um [url=https://store.steampowered.com/itemstore/563560/]für Alien Swarm: Reactive Drop zu spenden[/url], dieses Mal für Künstler, Programmierer, Server-Hosts und Übersetzer.
+[/list]
+
+[h1]Mapping[/h1]
+
+[list]
+[*]rd_weapon_generic_object kann nun ein Symbol zugewiesen werden ([url=https://steamcommunity.com/sharedfiles/filedetails/?id=914386392]Haikü's Tutorial für die Erstellung von Waffensymbolen[/url]).
+[*]rd_weapon_generic_object hat jetzt die Eingänge ForcePickUp und ForceDrop sowie die Ausgänge OnPrimaryAttack, OnSecondaryAttack, OnReload, OnPickedUp und OnDropped in Hammer.
+[/list]
+</string><string id="subtitle"></string><string id="summary"></string><string id="title">Alien Swarm: Reactive Drop Update - 1. Juni 2023</string></content>
