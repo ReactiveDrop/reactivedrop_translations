@@ -6,7 +6,7 @@ GAME
 
 "MailFrom1"	"Da: Comandante harold"
 "MailDate1"	"Data: 03/02/54"
-"MailSubject1"	"Soggetto: Evacuazione"
+"MailSubject1"	"Oggetto: Evacuazione"
 "MailBody1A"	"Dannazione Ross, vorrei voluto che ti sbagliassi"
 "MailBody1B"	"Bma sono contento che abbiamo deciso di dare ascolto al tuo consiglio, l'evacuazione è già in corso come sai"
 "MailBody1c"	"Porta il tuo staff fuori dalla baia 7 e fino a Dawn City"

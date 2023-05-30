@@ -3,8 +3,8 @@ GAME
 // Inbox
 
 "MailFrom1"	"Da: Comandante Houghton"
-"MailDate1"	"Data: 12/30/52"
-"MailSubject1"	"Soggetto: Operazione Eradication"
+"MailDate1"	"Data: 30/12/52"
+"MailSubject1"	"Oggetto: Operazione Eradication"
 "MailBody1A"	"Le miniere dovrebbero essere poco più avanti, ma ho altre cattive notizie."
 "MailBody1B"	"Abbiamo decifrato alcune delle informazioni trovate in RC7 e sembra che alcuni sciami siano stati avvistati in profondità nelle miniere."
 "MailBody1C"	"A peggiorare le cose, stiamo rilevando una grande concentrazione di biosignature di sciami provenienti dalle miniere."
