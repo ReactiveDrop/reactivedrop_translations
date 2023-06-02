@@ -3789,7 +3789,7 @@
 "[english]ASWComputer.SyntekPDA"		"<clr:238,0,0>BASE COMPUTER: SynTek PDA."
 "ASWComputer.SyntekPersonalDigitalAssistant"		"<clr:238,0,0>COMPUTER: SynTek Persönlicher Digitaler Assistent."
 "[english]ASWComputer.SyntekPersonalDigitalAssistant"		"<clr:238,0,0>BASE COMPUTER: SynTek Personal Digital Assistant."
-"ASWCountdown.WarningWarheadPathBlocked2"		"<clr:238,0,0>COMPUTER: Warnung: Sprengkopf-Transportschiene blockiert. Kritischer Ausfall steht bevor."
+"ASWCountdown.WarningWarheadPathBlocked2"		"<clr:238,0,0>COMPUTER: Warnung: Transportschiene des Sprengkopfs blockiert. Kritischer Ausfall steht bevor."
 "[english]ASWCountdown.WarningWarheadPathBlocked2"		"<clr:238,0,0>BASE COMPUTER: Warning: Warhead Path Blocked. Critical Failure Imminent."
 "ASWCountdown.Countdown60"		"<clr:238,0,0>COMPUTER: Nukleare Detonation in 60 Sekunden."
 "[english]ASWCountdown.Countdown60"		"<clr:238,0,0>BASE COMPUTER: Nuclear detonation in 60 seconds."
