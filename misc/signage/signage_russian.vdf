@@ -38,9 +38,9 @@
 "[english]materials/ocs/medusa_logo.vmt"		"USC MEDUSA\nIAF XR12-7"
 "materials/ocs/medusa_sign02_alpha.vmt"		"О.С.К. «МЕДУЗА»\nXR12-7"
 "[english]materials/ocs/medusa_sign02_alpha.vmt"		"USC MEDUSA\nXR12-7"
-"materials/ocs/medusa_signs.vmt"		"РЕАКТОР\nЛИФТ\nМОСТИК\nРЕКРЕАЦИЯ\nМЕДПУНКТ"
+"materials/ocs/medusa_signs.vmt"		"РЕАКТОР\nЛИФТ\nМОСТИК\nЗОНА ОТДЫХА\nМЕДПУНКТ"
 "[english]materials/ocs/medusa_signs.vmt"		"REACTOR\nELEVATOR\nBRIDGE\nRECREATION\nMEDICAL"
-"materials/ocs/ocs_landingbay.vmt"		"ПОСАДОЧНАЯ ПЛОЩАДКА [5]\nПОСАДОЧНАЯ ПЛОЩАДКА [6]\nПОСАДОЧНАЯ ПЛОЩАДКА [7]"
+"materials/ocs/ocs_landingbay.vmt"		"ПОСАД. ПЛОЩ. [5]\nПОСАД. ПЛОЩ. [6]\nПОСАД. ПЛОЩ. [7]"
 // this texture is displayed rotated 90 degrees so the text is going vertically up and the part in brackets is in a box at the top laid out normally.
 // if your language requires a different layout, be sure to leave a translator comment.
 "[english]materials/ocs/ocs_landingbay.vmt"		"LANDING BAY [5]\nLANDING BAY [6]\nLANDING BAY [7]"
