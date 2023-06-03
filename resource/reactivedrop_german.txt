@@ -5,7 +5,7 @@
 {
 "asw_SynTekMegacorp"		"SynTek Megacorporation, Inc."
 "[english]asw_SynTekMegacorp"		"SynTek Megacorporation, Inc."
-"asw_SynTekPDA"		"SynTek Persönlicher Digitaler Assistant"
+"asw_SynTekPDA"		"SynTek Persönlicher Digitaler Assistent"
 "[english]asw_SynTekPDA"		"SynTek Personal Digital Assistant"
 "asw_SynTekAccount"		"Besitzer: %s1"
 "[english]asw_SynTekAccount"		"User: %s1"
@@ -2410,9 +2410,9 @@
 "[english]asw_wdesc_tesla_gun"		"Originally designed to jumpstart heavy equipment, this tool was quickly weaponized after the discovery that the 24-30 amps and 25K voltage was the perfect blend for liquifying alien innards. The IAF Tesla Cannon is calibrated to identify human biometrics and avoid friendly-fire accidents. In proximity to alien life forms, the beam will arc to nearby hostiles."
 "asw_wdesc_ammo_satchel"		"Ein standardmäßiges IAF Munitionslager mit einsatzfähiger Munition für alle Waffentypen, die im Feld verwendet werden. Jedes Paket enthält 3 Munitionskisten."
 "[english]asw_wdesc_ammo_satchel"		"A standard issue IAF ammo pack containing deployable ammo for all weapon types used in the field. Each pack contains 3 ammo stashes."
-"asw_labs_bio1"		"ZUGRIFF VERWEIGERT:\nBIOLOGISCHE GIFTSTOFFE INNERHALB DER FORSCHUNGSSTATION ENTDECKT"
+"asw_labs_bio1"		"ZUGRIFF VERWEIGERT:\nBIOLOGISCHE GEFAHR IN DER FORSCHUNGSEINRICHTUNG FESTGESTELLT"
 "[english]asw_labs_bio1"		"ACCESS DENIED:\nBIOHAZARD DETECTED WITHIN RESEARCH FACILITY"
-"asw_labs_bio2"		"Warnung: Organismus der Klasse 4 in Sektor 1 der SynTek-Forschungseinrichtung entdeckt. Die Quarantäne-Sperre hat den Strom gemäß Protokoll Nr. 45/82763 der Interstellaren Allianz umgeleitet. Bitte entferne alle fremden Organismen der Klasse 4, um Zugang zu erhalten."
+"asw_labs_bio2"		"Warnung: Organismus der Klasse 4 in Sektor 1 der SynTek-Forschungseinrichtung festgestellt. Die Quarantäne-Sperre hat den Strom gemäß Protokoll Nr. 45/82763 der Interstellaren Allianz umgeleitet. Bitte entferne alle fremden Organismen der Klasse 4, um Zugang zu erhalten."
 "[english]asw_labs_bio2"		"Warning: Class 4 organism detected in Sector 1 of SynTek Research Facility. Quarantine lock-out has re-routed power as per Interstellar Alliance protocol #45/82763. Please remove all Class 4 foreign organisms to gain access."
 "asw_button_start"		"START"
 "[english]asw_button_start"		"START"
@@ -6368,7 +6368,7 @@
 "[english]t5_syntekhospital_debrief1"		"The complex has been destroyed, and you've stopped those abominations."
 "t5_syntekhospital_debrief2"		"Gute Arbeit, Soldaten."
 "[english]t5_syntekhospital_debrief2"		"Good work, marines."
-"t5_syntekhospital_countdown_caption"		"BIOGEFÄHRDUNG DETEKTIERT"
+"t5_syntekhospital_countdown_caption"		"BIOLOGISCHE GEFAHR FESTGESTELLT"
 "[english]t5_syntekhospital_countdown_caption"		"BIOHAZARD DETECTED"
 "bio_operationx5_1_title"		"Schaltet den Generator ein"
 // BioGen Corporation strings
@@ -8505,5 +8505,26 @@
 "rd_reporting_finished_title"		"Bericht Status"
 // shown above the final message generated during the process of sending a report
 "[english]rd_reporting_finished_title"		"Report Status"
+		"rd_about_build_id"		"Build ID: %s1"
+		// %s1 is a number; eg. 11352165
+		"[english]rd_about_build_id"		"Build ID: %s1"
+		"rd_about_network_version"		"Network Version: %s1"
+		// %s1 is a four digit number with dots between the digits; eg. 7.1.4.1
+		"[english]rd_about_network_version"		"Network Version: %s1"
+		"rd_about_current_branch"		"Current Branch: %s1"
+		// %s1 is a Steam beta branch name (untranslated); eg. releasecandidate
+		"[english]rd_about_current_branch"		"Current Branch: %s1"
+		"rd_about_wine_proton"		"Wine/Proton Version: %s1"
+		// %s1 is a version number; eg. 8.0
+		// This is only shown on Linux/Steam Deck
+		"[english]rd_about_wine_proton"		"Wine/Proton Version: %s1"
+		"rd_about_rdteam"		"Alien Swarm: Reactive Drop is a fan continuation of Valve's Alien Swarm (2010). Reactive Drop Team is a group of volunteers and is not affiliated with Valve. We're just big fans."
+		"[english]rd_about_rdteam"		"Alien Swarm: Reactive Drop is a fan continuation of Valve's Alien Swarm (2010). Reactive Drop Team is a group of volunteers and is not affiliated with Valve. We're just big fans."
+		"rd_about_valve"		"© 2010 Valve Corporation. All rights reserved. Valve, Alien Swarm, the Alien Swarm logo, Source and the Source logo are trademarks and/or registered trademarks of Valve Corporation in the United States, and other countries."
+		"[english]rd_about_valve"		"© 2010 Valve Corporation. All rights reserved. Valve, Alien Swarm, the Alien Swarm logo, Source and the Source logo are trademarks and/or registered trademarks of Valve Corporation in the United States, and other countries."
+		"rd_about_havok"		"This product uses Havok Physics. Copyright Havok.com Inc. (and its Licensors). All Rights Reserved. See www.havok.com for details."
+		"[english]rd_about_havok"		"This product uses Havok Physics. Copyright Havok.com Inc. (and its Licensors). All Rights Reserved. See www.havok.com for details."
+		"rd_about_nvidia"		"This product includes code licensed from NVIDIA."
+		"[english]rd_about_nvidia"		"This product includes code licensed from NVIDIA."
 }
 }
