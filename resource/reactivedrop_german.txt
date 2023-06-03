@@ -5832,7 +5832,7 @@
 "[english]rd_weapon_fact_welder_partial"		"A partially welded door will not open unless it is cut or destroyed."
 "rd_weapon_fact_welder_reinforce"		"Eine vollständig verstärkte Tür verhindert 40% des Schadens durch Gegner."
 "[english]rd_weapon_fact_welder_reinforce"		"A fully reinforced door negates 40% of alien damage."
-"rd_weapon_fact_medkit_infestation"		"Erfahrene Sanitäter können einen eigenen Parasitenbefall teilweise behandeln, aber eine einzige Erste-Hilfe-Spritze reicht dafür nicht aus."
+"rd_weapon_fact_medkit_infestation"		"Erfahrene Sanitäter können einen eigenen Parasitenbefall behandeln, aber eine einzige Erste-Hilfe-Spritze reicht dafür nicht aus."
 "[english]rd_weapon_fact_medkit_infestation"		"Skilled medics may be able to partially treat their own infestation, but a single medkit is insufficient for this purpose."
 "rd_weapon_fact_stim_skill"		"Die Dauer richtet sich nach dem am besten ausgebildeten aktiven Soldaten, unabhängig vom Aktivator."
 "[english]rd_weapon_fact_stim_skill"		"Duration is based on most skilled active marine regardless of activator."
