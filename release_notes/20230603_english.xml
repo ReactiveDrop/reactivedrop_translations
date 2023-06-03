@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<content><string id="body">A hotfix has been released with the following changes:
+
+[list]
+[*]Fixed a crash related to a server becoming empty mid-mission.
+[*]Made changes to addon loading to hopefully address some servers not showing challenges they should have enabled.
+[*]Marine bots now remember if they were infested or on fire before the bot took over for damage calculations. Removed the restriction on "take a break" while infested.
+[/list]</string><string id="subtitle"></string><string id="summary"></string><string id="title">Alien Swarm: Reactive Drop Update - June 3, 2023</string></content>
