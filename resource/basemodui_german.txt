@@ -2059,9 +2059,9 @@
 "[english]L4D360UI_Loading_Costarring"		"Commanders: "
 "L4D360UI_Loading_GameMode_"		""
 "[english]L4D360UI_Loading_GameMode_"		""
-"L4D360UI_Loading_GameMode_campaign"		"Feldzug beitreten."
+"L4D360UI_Loading_GameMode_campaign"		"Feldzug beitreten..."
 "[english]L4D360UI_Loading_GameMode_campaign"		"Joining a Campaign game."
-"L4D360UI_Loading_GameMode_single_mission"		"Einsatz beitreten."
+"L4D360UI_Loading_GameMode_single_mission"		"Einsatz beitreten..."
 "[english]L4D360UI_Loading_GameMode_single_mission"		"Joining a Single Mission game."
 "L4D360UI_My_Achievements"		"Errungenschaften"
 // achievements

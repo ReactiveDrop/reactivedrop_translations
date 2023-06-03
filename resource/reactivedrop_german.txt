@@ -5820,7 +5820,7 @@
 "[english]rd_weapon_fact_unlimited_ammo"		"Does not require ammunition."
 "rd_weapon_fact_minigun_sustained_fire_piercing"		"Zusätzliche 20% Chance, nach 3 Sekunden Dauerfeuer zu durchschlagen."
 "[english]rd_weapon_fact_minigun_sustained_fire_piercing"		"Additional 20% chance to pierce after 3 seconds of sustained fire."
-"rd_weapon_fact_ammo_stash"		"Mit den Munitionskisten kannst du die meisten Waffen wieder aufmagazinieren. Bei den einzelnen Waffen ist angegeben, wie viel Munition sie benötigen."
+"rd_weapon_fact_ammo_stash"		"Mit den Munitionskisten kannst du die meisten Waffen wieder aufmagazinieren. Schau dir einzelne Waffen an um zu sehen welchen Anteil sie aus einer Munitionskiste verbrauchen."
 "[english]rd_weapon_fact_ammo_stash"		"Deployed ammo stashes can be used to refill most weapons. See individual weapons for the amount of the stash they require."
 "rd_weapon_fact_ammo_bag"		"Enthält Munitionspackungen für bestimmte Waffen.\nGewehre: 5 Packungen\nAutogun: 1 Packung\nSchrotflinte: 10 Packungen\nVindicator: 5 Packungen\nFlammenwerfer: 5 Packungen\nPDW: 5 Packungen\nPistolen: 5 Packungen"
 "[english]rd_weapon_fact_ammo_bag"		"Contains ammo packs for specific weapons.\nRifle: 5 ammo packs\nAutogun: 1 ammo pack\nShotgun: 10 ammo packs\nVindicator: 5 ammo packs\nFlamer: 5 ammo packs\nPDW: 5 ammo packs\nPistol: 5 ammo packs"
