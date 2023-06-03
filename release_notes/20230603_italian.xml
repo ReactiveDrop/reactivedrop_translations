@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<content><string id="body">A hotfix has been released with the following changes:
+
+[list]
+[*]Sistemato un crash relativo a un server che si è svuotato a metà missione.
+[*]Effettuati cambiamenti al caricamento degli addon nella speranza di aver sistemato alcuni server che non mostravano le sfide che dovrebbero aver abilitato
+[*]I bot Marine adesso ricordano se sono stati infestati o incendiati prima che il bot sostituisse un giocatore ai fini del calcolo dei danni. Rimossa la restrizione su "Fai una pausa" mentre si è infestati.
+[/list]</string><string id="subtitle"></string><string id="summary"></string><string id="title">Aggiornamento di Alien Swarm: Reactive Drop - 3 Giugno 2023</string></content>
