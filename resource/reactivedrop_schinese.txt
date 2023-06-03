@@ -8505,5 +8505,26 @@
 "rd_reporting_finished_title"		"举报信息状态"
 // shown above the final message generated during the process of sending a report
 "[english]rd_reporting_finished_title"		"Report Status"
+		"rd_about_build_id"		"Build ID: %s1"
+		// %s1 is a number; eg. 11352165
+		"[english]rd_about_build_id"		"Build ID: %s1"
+		"rd_about_network_version"		"Network Version: %s1"
+		// %s1 is a four digit number with dots between the digits; eg. 7.1.4.1
+		"[english]rd_about_network_version"		"Network Version: %s1"
+		"rd_about_current_branch"		"Current Branch: %s1"
+		// %s1 is a Steam beta branch name (untranslated); eg. releasecandidate
+		"[english]rd_about_current_branch"		"Current Branch: %s1"
+		"rd_about_wine_proton"		"Wine/Proton Version: %s1"
+		// %s1 is a version number; eg. 8.0
+		// This is only shown on Linux/Steam Deck
+		"[english]rd_about_wine_proton"		"Wine/Proton Version: %s1"
+		"rd_about_rdteam"		"Alien Swarm: Reactive Drop is a fan continuation of Valve's Alien Swarm (2010). Reactive Drop Team is a group of volunteers and is not affiliated with Valve. We're just big fans."
+		"[english]rd_about_rdteam"		"Alien Swarm: Reactive Drop is a fan continuation of Valve's Alien Swarm (2010). Reactive Drop Team is a group of volunteers and is not affiliated with Valve. We're just big fans."
+		"rd_about_valve"		"© 2010 Valve Corporation. All rights reserved. Valve, Alien Swarm, the Alien Swarm logo, Source and the Source logo are trademarks and/or registered trademarks of Valve Corporation in the United States, and other countries."
+		"[english]rd_about_valve"		"© 2010 Valve Corporation. All rights reserved. Valve, Alien Swarm, the Alien Swarm logo, Source and the Source logo are trademarks and/or registered trademarks of Valve Corporation in the United States, and other countries."
+		"rd_about_havok"		"This product uses Havok Physics. Copyright Havok.com Inc. (and its Licensors). All Rights Reserved. See www.havok.com for details."
+		"[english]rd_about_havok"		"This product uses Havok Physics. Copyright Havok.com Inc. (and its Licensors). All Rights Reserved. See www.havok.com for details."
+		"rd_about_nvidia"		"This product includes code licensed from NVIDIA."
+		"[english]rd_about_nvidia"		"This product includes code licensed from NVIDIA."
 }
 }
