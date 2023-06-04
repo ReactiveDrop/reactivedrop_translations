@@ -7867,6 +7867,8 @@
 "[english]RD_AdvancedSettings_HUD_NameUnderMarine_Both"		"Marine and Player Names"
 "RD_AdvancedSettings_HUD_NameUnderMarine_BothColor"		"해병과 색상 플레이어 이름"
 "[english]RD_AdvancedSettings_HUD_NameUnderMarine_BothColor"		"Marine and Color Player Names"
+		"RD_AdvancedSettings_HUD_NameUnderMarine_PlayerColor"		"Color Player Name Only"
+		"[english]RD_AdvancedSettings_HUD_NameUnderMarine_PlayerColor"		"Color Player Name Only"
 "RD_AdvancedSettings_HUD_ChatWipe"		"채팅 로그 지우기"
 "[english]RD_AdvancedSettings_HUD_ChatWipe"		"Erase Chat Log"
 "RD_AdvancedSettings_HUD_ChatColor"		"기본 채팅 색상"
