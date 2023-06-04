@@ -26,7 +26,8 @@
 			"name_color": "CF6A32",
 			"exchange": "4000,strange:5000",
 			"tags": "strange:5000",
-			"compressed_dynamic_props": "strange_5000"
+			"compressed_dynamic_props": "strange_5000",
+			"strange_notify_every": 50
 		},
 		{
 			"itemdefid": 5001,
@@ -53,7 +54,8 @@
 			"name_color": "CF6A32",
 			"exchange": "4000,strange:5001",
 			"tags": "strange:5001",
-			"compressed_dynamic_props": "strange_5001"
+			"compressed_dynamic_props": "strange_5001",
+			"strange_notify_every": 10
 		},
 		{
 			"itemdefid": 5002,
@@ -80,7 +82,18 @@
 			"name_color": "CF6A32",
 			"exchange": "4000,strange:5002",
 			"tags": "strange:5002",
-			"compressed_dynamic_props": "strange_5002"
+			"compressed_dynamic_props": "strange_5002",
+			"strange_notify_every": 500,
+			"strange_notify_0": 10,
+			"strange_notify_1": 25,
+			"strange_notify_2": 50,
+			"strange_notify_3": 75,
+			"strange_notify_4": 100,
+			"strange_notify_5": 150,
+			"strange_notify_6": 200,
+			"strange_notify_7": 250,
+			"strange_notify_8": 300,
+			"strange_notify_9": 400
 		},
 		{
 			"itemdefid": 5003,
@@ -107,7 +120,8 @@
 			"name_color": "CF6A32",
 			"exchange": "4000,strange:5003",
 			"tags": "strange:5003",
-			"compressed_dynamic_props": "strange_5003"
+			"compressed_dynamic_props": "strange_5003",
+			"strange_notify_every": 1000
 		},
 		{
 			"itemdefid": 5004,
@@ -134,7 +148,12 @@
 			"name_color": "CF6A32",
 			"exchange": "4000,strange:5004",
 			"tags": "strange:5004",
-			"compressed_dynamic_props": "strange_5004"
+			"compressed_dynamic_props": "strange_5004",
+			"strange_notify_every": 25,
+			"strange_notify_0": 5,
+			"strange_notify_1": 10,
+			"strange_notify_2": 15,
+			"strange_notify_3": 20
 		},
 		{
 			"itemdefid": 5005,
@@ -161,7 +180,11 @@
 			"name_color": "CF6A32",
 			"exchange": "4000,strange:5005",
 			"tags": "strange:5005",
-			"compressed_dynamic_props": "strange_5005"
+			"compressed_dynamic_props": "strange_5005",
+			"strange_notify_every": 150,
+			"strange_notify_0": 25,
+			"strange_notify_1": 50,
+			"strange_notify_2": 100
 		},
 		{
 			"itemdefid": 5006,
@@ -188,7 +211,12 @@
 			"name_color": "CF6A32",
 			"exchange": "4000,strange:5006",
 			"tags": "strange:5006",
-			"compressed_dynamic_props": "strange_5006"
+			"compressed_dynamic_props": "strange_5006",
+			"strange_notify_every": 50,
+			"strange_notify_0": 10,
+			"strange_notify_1": 20,
+			"strange_notify_2": 30,
+			"strange_notify_3": 40
 		},
 		{
 			"itemdefid": 5007,
@@ -215,7 +243,8 @@
 			"name_color": "CF6A32",
 			"exchange": "4000,strange:5007",
 			"tags": "strange:5007",
-			"compressed_dynamic_props": "strange_5007;strange_5007_best"
+			"compressed_dynamic_props": "strange_5007;strange_5007_best",
+			"strange_notify_every": 50
 		},
 		{
 			"itemdefid": 5008,
@@ -242,7 +271,12 @@
 			"name_color": "CF6A32",
 			"exchange": "4000,strange:5008",
 			"tags": "strange:5008",
-			"compressed_dynamic_props": "strange_5008"
+			"compressed_dynamic_props": "strange_5008",
+			"strange_notify_every": 25,
+			"strange_notify_0": 5,
+			"strange_notify_1": 10,
+			"strange_notify_2": 15,
+			"strange_notify_3": 20
 		}
 	]
 }

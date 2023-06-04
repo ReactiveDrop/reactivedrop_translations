@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<content><string id="body">以下の変更を含むhotfixをリリースしました:
+
+[list]
+[*]サーバーがセッションの途中で無人になる状況に関するクラッシュを修正。
+[*]サーバー上で有効になっているチャレンジが表示されない問題への対処のため、アドオンのロード方法を変更。
+[*]BOTが操作を担当する前にその海兵隊が既に寄生されたり炎上していたかをダメージ計算用に記憶しておくようになった。それに伴い寄生中に課されていた『休憩』モードの使用制限を削除した。
+[/list]</string><string id="subtitle"></string><string id="summary"></string><string id="title">Alien Swarm: Reactive Dropアップデート - 2023年6月3日</string></content>

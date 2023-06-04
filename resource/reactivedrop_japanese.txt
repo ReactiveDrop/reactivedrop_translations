@@ -4644,7 +4644,7 @@
 "[english]rd_area9800PP2_ob_exit"		"Proceed to the power plant exit"
 "rd_area9800PP2_ob_exit_d"		"さあ脱出だ。地上へのドアへ向かうんだ。"
 "[english]rd_area9800PP2_ob_exit_d"		"Time to get out. Head over toward the surface door"
-"rd_area9800PP2_debrief"		"科学チームが欲しがっていた情報を全て入手できた。あとはこの地獄から脱出するだけだ。不運なことに、ブラボーチームは入り口確保できなかったので、この廃墟を突っ切るしか方法は無い。"
+"rd_area9800PP2_debrief"		"科学チームが欲しがっていた情報を全て入手できた。あとはこの地獄から脱出するだけだ。残念ながら、ブラボーチームは入り口を確保できなかったので、この廃墟を突っ切るしか方法は無い。"
 "[english]rd_area9800PP2_debrief"		"We got all the information our science teams wanted, now it's time to get the hell out. Unfortunately Team Bravo couldn't secure the entry any longer, so you'll have to go through the wastelands."
 "rd_area9800WL_ob_bridge_gate"		"橋への道を切り開く"
 "[english]rd_area9800WL_ob_bridge_gate"		"Open a path to the bridge"
@@ -8505,5 +8505,26 @@
 "rd_reporting_finished_title"		"報告状況"
 // shown above the final message generated during the process of sending a report
 "[english]rd_reporting_finished_title"		"Report Status"
+"rd_about_build_id"		"ビルドID: %s1"
+// %s1 is a number; eg. 11352165
+"[english]rd_about_build_id"		"Build ID: %s1"
+"rd_about_network_version"		"ネットワークバージョン: %s1"
+// %s1 is a four digit number with dots between the digits; eg. 7.1.4.1
+"[english]rd_about_network_version"		"Network Version: %s1"
+"rd_about_current_branch"		"起動中のブランチ: %s1"
+// %s1 is a Steam beta branch name (untranslated); eg. releasecandidate
+"[english]rd_about_current_branch"		"Current Branch: %s1"
+"rd_about_wine_proton"		"Wine/Protonバージョン: %s1"
+// %s1 is a version number; eg. 8.0
+// This is only shown on Linux/Steam Deck
+"[english]rd_about_wine_proton"		"Wine/Proton Version: %s1"
+"rd_about_rdteam"		"Alien Swarm: Reactive DropはValve社のAlien Swarm (2010)のファンによる後継作です。 Reactive Drop Teamはボランティアで活動しておりValve社との提携関係にはありません。 我々はただ熱心なファンなのです。"
+"[english]rd_about_rdteam"		"Alien Swarm: Reactive Drop is a fan continuation of Valve's Alien Swarm (2010). Reactive Drop Team is a group of volunteers and is not affiliated with Valve. We're just big fans."
+"rd_about_valve"		"© 2010 Valve Corporation. All rights reserved. Valve、Alien Swarm、Alien Swarmのロゴ、Source、Sourceのロゴは商標であり、アメリカ合衆国とその他の国でValve Corporationにより商標登録されています。"
+"[english]rd_about_valve"		"© 2010 Valve Corporation. All rights reserved. Valve, Alien Swarm, the Alien Swarm logo, Source and the Source logo are trademarks and/or registered trademarks of Valve Corporation in the United States, and other countries."
+"rd_about_havok"		"この製品はHavok物理エンジンを使用しています。 Copyright Havok.com Inc. (and its Licensors). All Rights Reserved. 詳細はwww.havok.comをご確認下さい。"
+"[english]rd_about_havok"		"This product uses Havok Physics. Copyright Havok.com Inc. (and its Licensors). All Rights Reserved. See www.havok.com for details."
+"rd_about_nvidia"		"この製品はNVIDIAからライセンス認可されたコードを含んでいます。"
+"[english]rd_about_nvidia"		"This product includes code licensed from NVIDIA."
 }
 }
