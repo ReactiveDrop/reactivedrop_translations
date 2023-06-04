@@ -7867,6 +7867,8 @@
 		"[english]RD_AdvancedSettings_HUD_NameUnderMarine_Both"		"Marine and Player Names"
 		"RD_AdvancedSettings_HUD_NameUnderMarine_BothColor"		"Marine and Color Player Names"
 		"[english]RD_AdvancedSettings_HUD_NameUnderMarine_BothColor"		"Marine and Color Player Names"
+		"RD_AdvancedSettings_HUD_NameUnderMarine_PlayerColor"	"只有彩色玩家名字"
+		"[english]RD_AdvancedSettings_HUD_NameUnderMarine_PlayerColor"	"Color Player Name Only"
 		"RD_AdvancedSettings_HUD_ChatWipe"		"Erase Chat Log"
 		"[english]RD_AdvancedSettings_HUD_ChatWipe"		"Erase Chat Log"
 		"RD_AdvancedSettings_HUD_ChatColor"		"Default Chat Color"

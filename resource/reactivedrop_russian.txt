@@ -7867,6 +7867,8 @@
 "[english]RD_AdvancedSettings_HUD_NameUnderMarine_Both"		"Marine and Player Names"
 "RD_AdvancedSettings_HUD_NameUnderMarine_BothColor"		"Цветное имя бойца и игрока"
 "[english]RD_AdvancedSettings_HUD_NameUnderMarine_BothColor"		"Marine and Color Player Names"
+"RD_AdvancedSettings_HUD_NameUnderMarine_PlayerColor"	"Только имя цветного игрока"
+"[english]RD_AdvancedSettings_HUD_NameUnderMarine_PlayerColor"	"Color Player Name Only"
 "RD_AdvancedSettings_HUD_ChatWipe"		"Стирать сообщения в чате со временем"
 "[english]RD_AdvancedSettings_HUD_ChatWipe"		"Erase Chat Log"
 "RD_AdvancedSettings_HUD_ChatColor"		"Цвет чата по умолчанию"
