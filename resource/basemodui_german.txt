@@ -702,7 +702,7 @@
 "[english]L4D360UI_InGameMainMenu_ReturnToGame"		"RETURN TO GAME"
 "L4D360UI_InGameMainMenu_ReturnToGame_Tip"		"Schließe dieses Menü, und spiele weiter."
 "[english]L4D360UI_InGameMainMenu_ReturnToGame_Tip"		"Leave this menu and continue playing."
-"L4D360UI_InGameMainMenu_GoIdle"		"PAUSE"
+"L4D360UI_InGameMainMenu_GoIdle"		"PAUSE MACHEN"
 "[english]L4D360UI_InGameMainMenu_GoIdle"		"TAKE A BREAK"
 "L4D360UI_InGameMainMenu_GoIdle_Tip"		"Mach eine Pause, während ein computergesteuerter Spieler für dich weiterspielt."
 "[english]L4D360UI_InGameMainMenu_GoIdle_Tip"		"Take a break while a computer-controlled player holds your place."
