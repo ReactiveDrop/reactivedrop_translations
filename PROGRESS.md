@@ -8,7 +8,7 @@
 | [Dutch](#non-curated-languages) | 51 | 2004 | 37 | 2476 | 196 | 537 | 444 | 145 |
 | [Finnish](#non-curated-languages) | 51 | 2004 | 37 | 2476 | 196 | 537 | 444 | 145 |
 | [French](#french-français) | 27 | 138 | 37 | 1830 | 196 | 472 | 430 | 124 |
-| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 1 |
+| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Hungarian](#non-curated-languages) | 51 | 138 | 37 | 2476 | 196 | 802 | 444 | 146 |
 | [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | 11 | ✔️ | 102 | ✔️ | ✔️ |
@@ -18,7 +18,7 @@
 | [European Portuguese](#portuguese-português-europeu) | ✔️ | 180 | 14 | 1590 | 17 | 448 | 454 | 139 |
 | [Brazilian Portuguese](#brazilian-português) | 2 | 2004 | 27 | 724 | 5 | 91 | 215 | 6 |
 | [Romanian](#non-curated-languages) | 51 | 1996 | 43 | 3198 | 196 | 802 | 490 | 146 |
-| [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | 11 | ✔️ | 4 | ✔️ | 1 |
+| [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | 3 | ✔️ | 4 | ✔️ | ✔️ |
 | [European Spanish](#spanish-español-de-españa) | 28 | 2004 | 35 | 1882 | 196 | 541 | 440 | 145 |
 | [Latin American Spanish](#latam-español-latinoamericano) | 1281 | 2004 | 632 | 4010 | 200 | 807 | 526 | 146 |
 | [Swedish](#non-curated-languages) | 51 | 2004 | 37 | 2476 | 196 | 537 | 444 | 146 |
@@ -998,9 +998,7 @@
 
 </summary>
 
-### Upcoming Release Notes
-
-- [20230603_german.xml](release_notes/20230603_english.xml) is missing.
+✓ Up to date!
 
 </details>
 
@@ -2023,11 +2021,7 @@
 ### Strings
 
 - [inventory_service_tags_russian.vdf](community/inventory_service/inventory_service_tags_russian.vdf) has 4 untranslated strings.
-- [reactivedrop_russian.txt](resource/reactivedrop_russian.txt) has 11 untranslated strings.
-
-### Upcoming Release Notes
-
-- [20230603_russian.xml](release_notes/20230603_english.xml) is missing.
+- [reactivedrop_russian.txt](resource/reactivedrop_russian.txt) has 3 untranslated strings.
 
 </details>
 
