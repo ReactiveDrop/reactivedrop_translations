@@ -90,7 +90,7 @@
 "item_store_category_mapstamp"		"マップスタンプ"
 // "postage stamps" that cost $1 (or equivalent), with the proceeds going to a mapper.
 "[english]item_store_category_mapstamp"		"Map Stamps"
-"item_store_category_artiststamp"		"芸術家"
+"item_store_category_artiststamp"		"アーティスト"
 // the same, but for artists.
 "[english]item_store_category_artiststamp"		"Artists"
 "item_store_category_programmerstamp"		"プログラマー"
