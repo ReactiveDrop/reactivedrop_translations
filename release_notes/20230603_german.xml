@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<content><string id="body">Ein Hotfix mit den folgenden Änderungen wurde veröffentlicht:
+
+[list]
+[*]Ein Absturz wurde behoben, bei dem ein Server mitten in einem keine Spieler mehr hatte.
+[*]Es wurden Änderungen am Addon-Laden vorgenommen, um zu verhindern, dass einige Server Herausforderungen anzeigen, die sie aktiviert haben sollten.
+[*]Soldaten-Bots merken sich jetzt, ob sie befallen waren oder in Flammen standen, bevor der Bot die Schadensberechnung übernommen hat. Die Einschränkung für "Pause machen" während des Befalls wurde entfernt.
+[/list]</string><string id="subtitle"></string><string id="summary"></string><string id="title">Alien Swarm: Reactive Drop Update - 3. Juni 2023</string></content>
