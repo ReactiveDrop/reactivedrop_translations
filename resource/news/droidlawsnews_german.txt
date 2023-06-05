@@ -2,8 +2,8 @@ GAME
 {
 "Headline"	"SynTek beschuldigt, das Droidengesetz verletzt zu haben"
 "HeadlineDate"	"12/19/52"
-"Paragraph1"	"Eine anonyme Quelle hat sich kürzlich mit angeblichen Beweisen an die IA gewandt, dass die SynTek Megacorporation in einigen ihrer Chemieanlagen umprogrammierte militärische Androiden einsetzt. Wenn die Anschuldigungen wahr sind, würde SynTek nicht nur gegen das Militärrecht, sondern auch gegen mehrere Arbeitsgesetze verstoßen."
+"Paragraph1"	"Eine anonyme Quelle hat sich kürzlich mit angeblichen Beweisen an die IA gewandt, dass der SynTek Megakonzern in einigen seiner Chemieanlagen umprogrammierte militärische Androiden einsetzt. Wenn die Anschuldigungen wahr sind, würde SynTek nicht nur gegen das Militärrecht, sondern auch gegen mehrere Arbeitsgesetze verstoßen."
 "Paragraph2"	"Die Quelle beschuldigt SynTek auch, einen Droiden der S-300 Scavenger Serie zu verwenden, ein äußerst unzuverlässiges Modell, das der IAF auf abgelegenen Planeten fernab von möglichen zivilen Kontakten vorbehalten ist."
-"Paragraph3"	Ein SynTek-Sprecher hat sich zu den Anschuldigungen geäußert und erklärt: "Diese Gerüchte sind völlig falsch. Niemand würde sich nach dem Massaker in Rosebloom Pleasure World '36 einer S-300 nähern wollen. Die Robotikabteilung von SynTek hält sich strikt an die IA-Standards."
+"Paragraph3"	"Ein SynTek-Sprecher hat sich zu den Anschuldigungen geäußert und erklärt: "Diese Gerüchte sind völlig falsch. Niemand würde sich nach dem Massaker in der Rosenblüten Genusswelt '36 einem S-300 nähern wollen. Die Robotikabteilung von SynTek hält sich strikt an die IA-Standards."
 "Paragraph4"	"SynTek hat kurz nach Bekanntwerden der Vorwürfe mehrere seiner Chemieanlagen geschlossen und behauptet, nichts mit den Vorwürfen zu tun zu haben, sondern nennt als Grund die normale Veralterung."
 }

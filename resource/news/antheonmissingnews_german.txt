@@ -1,8 +1,8 @@
 GAME
 {
-"Headline"	"IAF Soldaten bei Moonspire vermisst"
+"Headline"	"IAF Soldaten bei Mondspitze vermisst"
 "HeadlineDate"	"12/19/52"
-"Paragraph1"	"150 IAF-Soldaten werden nach dem jüngsten Schwarmangriff in der Nähe der Kolonie Moonspire auf Antheon Prime noch immer vermisst, wie ein hoher IAF-Offizier auf einer Pressekonferenz an Bord der USS Endurance erklärte."
+"Paragraph1"	"150 IAF-Soldaten werden nach dem jüngsten Schwarmangriff in der Nähe der Kolonie Mondspitze auf Antheon Prime noch immer vermisst, wie ein hoher IAF-Offizier auf einer Pressekonferenz an Bord der USS Endurance erklärte."
 "Paragraph2"	"Eine Infanteriedivision von 208 Soldaten wurde vor zwei Tagen vom Schwarm angegriffen, als sie die Überreste eines Außenpostens nach möglichen zivilen Überlebenden durchsuchten."
 "Paragraph3"	"Die Suche nach den vermissten Marinesoldaten dauere an, sagte General C. Morrison, 'Wir haben um ca. 2 Uhr ein Notsignal erhalten, aber der Aufenthaltsort von Kompanie 212 ist derzeit noch unbekannt.'"
 "Paragraph4"	"'Das ist ein schwarzer Tag für die IAF, aber wir müssen weiterkämpfen', sagte Morrison."
