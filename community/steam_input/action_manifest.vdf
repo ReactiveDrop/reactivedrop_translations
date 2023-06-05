@@ -19,11 +19,19 @@
 		// Xbox 360 Controller
 		"controller_xbox360"
 		{
+			"0"
+			{
+				"path"	"generic.vdf"
+			}
 		}
 
 		// Xbox One Controller
 		"controller_xboxone"
 		{
+			"0"
+			{
+				"path"	"generic.vdf"
+			}
 		}
 
 		// Xbox One Elite Controller
@@ -49,6 +57,10 @@
 		// Generic Gamepads
 		"controller_generic"
 		{
+			"0"
+			{
+				"path"	"generic.vdf"
+			}
 		}
 	}
 
@@ -82,18 +94,27 @@
 			{
 				"PrimaryAttack"		"#Button_PrimaryAttack"
 				"SecondaryAttack"		"#Button_SecondaryAttack"
+				"SecondaryAttackAlt"		"#Button_SecondaryAttackAlt"
 				"MeleeAttack"		"#Button_MeleeAttack"
 				"OffHandAttack"		"#Button_OffHandAttack"
 
 				"Reload"		"#Button_Reload"
 				"Jump"		"#Button_Jump"
 				"Use"		"#Button_Use"
+				"DropWeapon"		"#Button_DropWeapon"
+				"DropEquipment"		"#Button_DropEquipment"
 
 				"SwapWeapons"		"#Button_SwapWeapons"
 				"SelectPrimary"		"#Button_SelectPrimary"
 				"SelectSecondary"		"#Button_SelectSecondary"
 				"ActivatePrimary"		"#Button_ActivatePrimary"
 				"ActivateSecondary"		"#Button_ActivateSecondary"
+
+				"MoveForward"		"#Button_MoveForward"
+				"MoveLeft"		"#Button_MoveLeft"
+				"MoveBack"		"#Button_MoveBack"
+				"MoveRight"		"#Button_MoveRight"
+				"MoveSlow"		"#Button_MoveSlow"
 
 				"EmoteMedic"		"#Button_EmoteMedic"
 				"EmoteAmmo"		"#Button_EmoteAmmo"
@@ -104,11 +125,39 @@
 				"EmoteSmile2"		"#Button_EmoteSmile2"
 				"EmoteQuestion"		"#Button_EmoteQuestion"
 
+				"TextChat"		"#Button_TextChat"
+				"VoiceChat"		"#Button_VoiceChat"
+				"WheelDefault"		"#RadialMenu_Default"
+				"WheelMarine"		"#RadialMenu_Marine"
+				"WheelEquipment"		"#RadialMenu_Equipment"
+				"WheelEquipment1"		"#RadialMenu_Equipment1"
+				"WheelEquipment2"		"#RadialMenu_Equipment2"
+				"VoteYes"		"#Button_VoteYes"
+				"VoteNo"		"#Button_VoteNo"
+
 				"PlayerList"		"#Button_PlayerList"
 				"InGameBriefing"		"#Button_InGameBriefing"
 				"Menu"		"#Button_Menu"
-				"VoteYes"		"#Button_VoteYes"
-				"VoteNo"		"#Button_VoteNo"
+				"RotateCameraLeft"		"#Button_RotateCameraLeft"
+				"RotateCameraRight"		"#Button_RotateCameraRight"
+				"SelectMarineDeathmatch"		"#Button_SelectMarineDeathmatch"
+
+				"SquadOffhand2"		"#Button_SquadOffhand2"
+				"SquadOffhand3"		"#Button_SquadOffhand3"
+				"SquadOffhand4"		"#Button_SquadOffhand4"
+				"SquadOffhand5"		"#Button_SquadOffhand5"
+				"SquadOffhand6"		"#Button_SquadOffhand6"
+				"SquadOffhand7"		"#Button_SquadOffhand7"
+				"SquadOffhand8"		"#Button_SquadOffhand8"
+
+				"SelectMarine1"		"#Button_SelectMarine1"
+				"SelectMarine2"		"#Button_SelectMarine2"
+				"SelectMarine3"		"#Button_SelectMarine3"
+				"SelectMarine4"		"#Button_SelectMarine4"
+				"SelectMarine5"		"#Button_SelectMarine5"
+				"SelectMarine6"		"#Button_SelectMarine6"
+				"SelectMarine7"		"#Button_SelectMarine7"
+				"SelectMarine8"		"#Button_SelectMarine8"
 			}
 		}
 	}
