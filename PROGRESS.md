@@ -8,7 +8,7 @@
 | [Dutch](#non-curated-languages) | 51 | 2004 | 37 | 2477 | 196 | 584 | 444 | 145 |
 | [Finnish](#non-curated-languages) | 51 | 2004 | 37 | 2477 | 196 | 584 | 444 | 145 |
 | [French](#french-français) | 27 | 138 | 37 | 1831 | 196 | 519 | 430 | 124 |
-| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | 1 | ✔️ | 54 | ✔️ | ✔️ |
+| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 66 | ✔️ | ✔️ |
 | [Hungarian](#non-curated-languages) | 51 | 138 | 37 | 2477 | 196 | 849 | 444 | 146 |
 | [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | 1 | ✔️ | 54 | ✔️ | ✔️ |
 | [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | 11 | ✔️ | 102 | ✔️ | ✔️ |
@@ -993,8 +993,7 @@
 
 ### Strings
 
-- [steam_input_german.vdf](community/steam_input/steam_input_german.vdf) has 54 untranslated strings.
-- [reactivedrop_german.txt](resource/reactivedrop_german.txt) has 1 untranslated strings.
+- [steam_input_german.vdf](community/steam_input/steam_input_german.vdf) has 66 untranslated strings.
 
 </details>
 
