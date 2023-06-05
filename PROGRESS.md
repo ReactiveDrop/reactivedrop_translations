@@ -1,7 +1,7 @@
 # Overview
 | Language | basemodui | closecaption | gameui | reactivedrop | statsweb | Strings | Inventory | Files |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [Simplified Chinese](#schinese-简体中文) | ✔️ | 9 | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
+| [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Traditional Chinese](#tchinese-繁體中文) | 9 | 140 | 28 | 2362 | 196 | 200 | 442 | 145 |
 | [Czech](#czech-čeština) | 71 | 1810 | 37 | 3496 | 196 | 854 | 512 | 145 |
 | [Danish](#non-curated-languages) | 52 | 231 | 37 | 3019 | 196 | 584 | 507 | 146 |
@@ -40,9 +40,7 @@
 
 </summary>
 
-### Strings
-
-- [closecaption_schinese.txt](resource/closecaption_schinese.txt) has 9 untranslated strings.
+✓ Up to date!
 
 </details>
 
