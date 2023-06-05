@@ -1,17 +1,17 @@
 # Overview
 | Language | basemodui | closecaption | gameui | reactivedrop | statsweb | Strings | Inventory | Files |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [Simplified Chinese](#schinese-简体中文) | ✔️ | 9 | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
+| [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Traditional Chinese](#tchinese-繁體中文) | 9 | 140 | 28 | 2362 | 196 | 200 | 442 | 145 |
 | [Czech](#czech-čeština) | 71 | 1810 | 37 | 3496 | 196 | 854 | 512 | 145 |
 | [Danish](#non-curated-languages) | 52 | 231 | 37 | 3019 | 196 | 584 | 507 | 146 |
 | [Dutch](#non-curated-languages) | 51 | 2004 | 37 | 2477 | 196 | 584 | 444 | 145 |
 | [Finnish](#non-curated-languages) | 51 | 2004 | 37 | 2477 | 196 | 584 | 444 | 145 |
 | [French](#french-français) | 27 | 138 | 37 | 1831 | 196 | 519 | 430 | 124 |
-| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | 1 | ✔️ | 54 | ✔️ | ✔️ |
+| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 66 | ✔️ | ✔️ |
 | [Hungarian](#non-curated-languages) | 51 | 138 | 37 | 2477 | 196 | 849 | 444 | 146 |
 | [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | 1 | ✔️ | 54 | ✔️ | ✔️ |
-| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | 11 | ✔️ | 156 | ✔️ | ✔️ |
+| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | 11 | ✔️ | 102 | ✔️ | ✔️ |
 | [Korean](#koreana-한국어) | 7 | 10 | 33 | 966 | 18 | 310 | 430 | 47 |
 | [Norwegian Bokmål](#non-curated-languages) | 69 | 708 | 42 | 3192 | 196 | 584 | 513 | 146 |
 | [Polish](#polish-polski) | 28 | 2004 | 37 | 2477 | 196 | 580 | 444 | 141 |
@@ -40,9 +40,7 @@
 
 </summary>
 
-### Strings
-
-- [closecaption_schinese.txt](resource/closecaption_schinese.txt) has 9 untranslated strings.
+✓ Up to date!
 
 </details>
 
@@ -995,8 +993,7 @@
 
 ### Strings
 
-- [steam_input_german.vdf](community/steam_input/steam_input_german.vdf) has 54 untranslated strings.
-- [reactivedrop_german.txt](resource/reactivedrop_german.txt) has 1 untranslated strings.
+- [steam_input_german.vdf](community/steam_input/steam_input_german.vdf) has 66 untranslated strings.
 
 </details>
 
@@ -1021,7 +1018,6 @@
 
 ### Strings
 
-- [steam_input_japanese.vdf](community/steam_input/steam_input_japanese.vdf) has 54 untranslated strings.
 - [signage_japanese.vdf](misc/signage/signage_japanese.vdf) has 67 untranslated strings.
 - [vgui_japanese.txt](platform/vgui_japanese.txt) has 35 untranslated strings.
 - [reactivedrop_japanese.txt](resource/reactivedrop_japanese.txt) has 11 untranslated strings.
