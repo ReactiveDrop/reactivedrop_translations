@@ -2,7 +2,7 @@ GAME
 {
 "Headline"	"SynTek gründet neue Bergbaukolonie"
 "HeadlineDate"	"12/15/52"
-"Paragraph1"	"Die SynTek Megacorporation meldete heute die Gründung einer neuen Bergbaukolonie im Weltraum am äußeren Rand des Clusters SX-2833-87P. Sie kündigten außerdem die sofortige Verschiffung einer zivilen Flotte von Arbeitern zu dem Planeten an."
-"Paragraph2"	"Die Demonstrationen vor dem SynTek-Hauptquartier auf der Tokioter Insel Erde gehen weiter, weil die Arbeitsbedingungen auf den Kolonien als schlecht empfunden werden und die Löhne zu niedrig sind - Vorwürfe, die SynTek entschieden zurückweist."
-"Paragraph3"	"Die SynTek-Aktie ist mit der Nachricht von der neuen Kolonie um 5 Punkte gestiegen."
+"Paragraph1"	"Der SynTek Megakonzern meldete heute die Gründung einer neuen Weltraum-Bergbaukolonie am äußeren Rand des Sternhaufen SX-2833-87P. Er kündigte außerdem die sofortige Verschiffung einer zivilen Flotte von Arbeitern zu dem Planeten an."
+"Paragraph2"	"Die Demonstrationen vor dem SynTek-Hauptquartier auf der Tokio York Insel, Erde, gehen weiter, weil die Arbeitsbedingungen auf den Kolonien als schlecht empfunden werden und die Löhne zu niedrig sind - Vorwürfe, die SynTek entschieden zurückweist."
+"Paragraph3"	"Die SynTek-Aktie ist mit der Nachricht über der neuen Kolonie um 5 Punkte gestiegen."
 }

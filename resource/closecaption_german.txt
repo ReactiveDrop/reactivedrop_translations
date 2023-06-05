@@ -3744,7 +3744,7 @@
 "[english]wolfe.Selection1"		"<clr:154,205,50>Wolfe: Gimme a target."
 "wolfe.Selection2"		"<clr:154,205,50>Wolfe: Sir."
 "[english]wolfe.Selection2"		"<clr:154,205,50>Wolfe: Sir."
-"ASWComputer.Startup"		"<clr:238,0,0>COMPUTER: SynTek Megacorporation."
+"ASWComputer.Startup"		"<clr:238,0,0>COMPUTER: SynTek Megakonzern."
 //BASE COMPUTER
 "[english]ASWComputer.Startup"		"<clr:238,0,0>BASE COMPUTER: SynTek Megacorporation."
 "ASWComputer.AccessDenied"		"<clr:238,0,0>COMPUTER: Zugriff verweigert."
