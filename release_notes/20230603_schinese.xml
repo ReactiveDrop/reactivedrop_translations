@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<content><string id="body">本次热更新包含以下内容：
+
+[list]
+[*]修复 服务器在任务过程中玩家全部退出时引起的崩溃。
+[*]改动 插件加载行为以期解决部分服务器无法显示本应启用的挑战的问题。
+[*]改动 机器人现在接管士兵时将记住感染/着火状态以便进行伤害计算。移除 感染时无法点击“休息”菜单选项的限制。
+[/list]</string><string id="subtitle"></string><string id="summary"></string><string id="title">《异形丛生：虫启天降》更新 - 2023年6月3日</string></content>
