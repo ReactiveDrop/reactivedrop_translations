@@ -11,7 +11,7 @@
 | [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | 1 | ✔️ | 66 | ✔️ | ✔️ |
 | [Hungarian](#non-curated-languages) | 51 | 138 | 37 | 2478 | 196 | 849 | 444 | 146 |
 | [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | 2 | ✔️ | 54 | ✔️ | ✔️ |
-| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | 12 | ✔️ | 102 | ✔️ | ✔️ |
+| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | 11 | ✔️ | 102 | ✔️ | ✔️ |
 | [Korean](#koreana-한국어) | 7 | 10 | 33 | 967 | 18 | 310 | 430 | 47 |
 | [Norwegian Bokmål](#non-curated-languages) | 69 | 708 | 42 | 3193 | 196 | 584 | 513 | 146 |
 | [Polish](#polish-polski) | 28 | 2004 | 37 | 2478 | 196 | 580 | 444 | 141 |
@@ -1023,7 +1023,7 @@
 
 - [signage_japanese.vdf](misc/signage/signage_japanese.vdf) has 67 untranslated strings.
 - [vgui_japanese.txt](platform/vgui_japanese.txt) has 35 untranslated strings.
-- [reactivedrop_japanese.txt](resource/reactivedrop_japanese.txt) has 12 untranslated strings.
+- [reactivedrop_japanese.txt](resource/reactivedrop_japanese.txt) has 11 untranslated strings.
 
 </details>
 
