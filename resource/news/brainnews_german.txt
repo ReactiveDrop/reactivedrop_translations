@@ -5,5 +5,5 @@ GAME
 "Paragraph1"	"Es ist allgemein bekannt, dass das menschliche Gehirn eine ständige Versorgung mit chemischer Energie benötigt, um richtig zu funktionieren. Der SynTek-Forscher Dr. Lucas Weinburg hat vor kurzem seine Entdeckung des genetischen Programms bekannt gegeben, das diese Energiezufuhr reguliert."
 "Paragraph2"	"Nachdem Dr. Lucas den Rezeptor identifiziert hat, der diesen Prozess steuert, kann er die Zufuhr verändern und längere Bewusstseinsperioden ermöglichen. Acht von zehn Versuchspersonen haben ohne Probleme von einem 24-Stunden-Zyklus auf einen 29-Stunden-Zyklus umgestellt, ohne dass es zu Beeinträchtigungen kam, sagt Lucas."
 "Paragraph3"	"Die Probanden fühlen sich gesund, stark, erfrischt und bereit für produktive Arbeit. Nur zwei haben sich darüber beschwert, unkonzentriert zu sein. Seine Tests zeigen auch, dass sieben der zehn Probanden während der Schlafphase nicht mehr geträumt haben."
-"Paragraph4"	"Wenn diese Technik die langfristigen Sicherheitstests besteht, könnte dies ein weiterer sensationeller medizinischer Erfolg für die SynTek Megacorporation sein."
+"Paragraph4"	"Wenn diese Technik die langfristigen Sicherheitstests besteht, könnte dies ein weiterer sensationeller medizinischer Erfolg für den SynTek Megakonzern sein."
 }

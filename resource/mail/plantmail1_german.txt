@@ -15,5 +15,5 @@ GAME
 "MailSubject2"	"Betreff: Aw: Arbeitsgelegenheit"
 "MailDate2"	"Datum: 12/18/53"
 "MailBody2A"	"Das Paradies gefunden!"
-"MailBody2B"	"Hast du den Alltag satt? Beengte Lebensbedingungen, kein Essen, keine Medizin und keine saubere Luft zum Atmen? Mach mit beim Colony Placement Program (CPP) und finde ein besseres Leben zwischen den Sternen! Zu den Mitgliedspartnern gehören SynTek Megacorporation, Vereinigte Industrien und Frontier-Pharmazeutika. Garantierte Vermittlung, unabhängig von deinem Profil oder deiner Kreditwürdigkeit! Finde noch heute dein Paradies! (TM)"
+"MailBody2B"	"Hast du den Alltag satt? Beengte Lebensbedingungen, kein Essen, keine Medizin und keine saubere Luft zum Atmen? Mach mit beim Kolonie-Vermittlungsprogramm (KVP) und finde ein besseres Leben zwischen den Sternen! Zu den Mitgliedspartnern gehören SynTek Megakonzern, Vereinigte Industrien und Grenz-Pharmazeutika. Garantierte Vermittlung, unabhängig von deinem Profil oder deiner Kreditwürdigkeit! Finde noch heute dein Paradies! (TM)"
 }

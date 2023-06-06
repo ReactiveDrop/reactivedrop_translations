@@ -3,28 +3,85 @@
 "Language"		"english"
 "Tokens"
 {
+"ActionSet_InGame"		"In-Game"
+"ActionSet_Menus"		"Menus"
+
+"Stick_Move"		"Move"
+"Stick_Look"		"Aim"
+
 "Button_PrimaryAttack"		"Primary Attack"
 "Button_SecondaryAttack"		"Secondary Attack"
+// this is the same as Button_SecondaryAttack, included for consistency with keyboard binds,
+// which only allow assigning one key per action in the UI.
+"Button_SecondaryAttackAlt"		"Secondary Attack (alternate)"
 "Button_MeleeAttack"		"Melee"
 "Button_OffHandAttack"		"Use Offhand Item"
 
 "Button_Reload"		"Reload"
-"Button_Jump"		"Roll"
+"Button_Jump"		"Roll / Jump"
 "Button_Use"		"Use / Interact"
+"Button_DropWeapon"		"Drop Weapon"
+"Button_DropEquipment"		"Drop Equipment"
+
 "Button_SwapWeapons"		"Switch Weapon"
+"Button_SelectPrimary"		"Equip Primary Weapon"
+"Button_SelectSecondary"		"Equip Secondary Weapon"
+"Button_ActivatePrimary"		"Deploy Primary Weapon"
+"Button_ActivateSecondary"		"Deploy Secondary Weapon"
+
+// in case someone wants to set up some kind of wacky controller setup that doesn't use analog stick movement:
+"Button_MoveForward"		"Move Forward"
+"Button_MoveLeft"		"Move Left"
+"Button_MoveBack"		"Move Back"
+"Button_MoveRight"		"Move Right"
+// the key that is bound to shift by default on keyboard
+"Button_MoveSlow"		"Walk / Crouch"
+
+"Button_EmoteMedic"		"'Medic!'"
+"Button_EmoteAmmo"		"'Need ammo!'"
+"Button_EmoteSmile"		"(smile)"
+"Button_EmoteGo"		"'Follow me!'"
+"Button_EmoteStop"		"'Hold position!'"
+"Button_EmoteExclaim"		"'Watch out!'"
+"Button_EmoteSmile2"		"(anime smile)"
+"Button_EmoteQuestion"		"'What?'"
+
+"Button_TextChat"		"Text Chat"
+"Button_VoiceChat"		"Push to Talk"
+"RadialMenu_Default"		"Wheel: Shout"
+"RadialMenu_Marine"		"Wheel: Command Marine"
+"RadialMenu_Equipment"		"Wheel: Equipment"
+"RadialMenu_Equipment1"		"Wheel: Equipment 1"
+"RadialMenu_Equipment2"		"Wheel: Equipment 2"
+"Button_VoteYes"		"Vote Yes"
+"Button_VoteNo"		"Vote No"
 
 "Button_PlayerList"		"Player List"
 "Button_InGameBriefing"		"Mission Overview"
 "Button_Menu"		"Menu"
+"Button_RotateCameraLeft"		"Rotate Camera Left"
+"Button_RotateCameraRight"		"Rotate Camera Right"
+"Button_SelectMarineDeathmatch"		"Select Marine (Deathmatch)"
 
-"Button_EmoteGo"		"'Follow Me!'"
-"Button_EmoteStop"		"'Hold Position'"
+"Button_SquadOffhand2"		"Activate Squad Equipment 2"
+"Button_SquadOffhand3"		"Activate Squad Equipment 3"
+"Button_SquadOffhand4"		"Activate Squad Equipment 4"
+"Button_SquadOffhand5"		"Activate Squad Equipment 5"
+"Button_SquadOffhand6"		"Activate Squad Equipment 6"
+"Button_SquadOffhand7"		"Activate Squad Equipment 7"
+"Button_SquadOffhand8"		"Activate Squad Equipment 8"
 
-"RadialMenu_Marine"		"Command Marine"
-"RadialMenu_Equipment1"		"Equipment 1"
-"RadialMenu_Equipment2"		"Equipment 2"
-"RadialMenu_Default"		"Shout Menu"
+"Button_SelectMarine1"		"Select Marine 1"
+"Button_SelectMarine2"		"Select Marine 2"
+"Button_SelectMarine3"		"Select Marine 3"
+"Button_SelectMarine4"		"Select Marine 4"
+"Button_SelectMarine5"		"Select Marine 5"
+"Button_SelectMarine6"		"Select Marine 6"
+"Button_SelectMarine7"		"Select Marine 7"
+"Button_SelectMarine8"		"Select Marine 8"
 
+"InputConfigTitle_Generic"		"AS:RD Default"
+"InputConfigDescription_Generic"		"Default control scheme for Alien Swarm: Reactive Drop."
 "InputConfigTitle_SteamDeck"		"AS:RD Steam Deck Default"
 "InputConfigDescription_SteamDeck"		"Default control scheme for Alien Swarm: Reactive Drop with mouse trackpads."
 }

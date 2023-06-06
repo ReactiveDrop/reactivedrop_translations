@@ -15,7 +15,7 @@ GAME
 "MailDate2"	"Data: 21/12/52"
 "MailSubject2"	"Oggetto: Re: Re: Flusso di informazioni"
 "MailBody2A"	"Sig. Howe,"
-"MailBody2B"	Ho controllato i miei registri ma non vedo il tuo promemoria, è preoccupante. Ho parlato con l'amministratore di sistema, nella speranza di trovare una sorta di spiegazione. Prenderò il prossimo treno per la stazione di Timor. Arriverò alle 0845. Potresti venirmi a prendere?"
+"MailBody2B"	"Ho controllato i miei registri ma non vedo il tuo promemoria, è preoccupante. Ho parlato con l'amministratore di sistema, nella speranza di trovare una sorta di spiegazione. Prenderò il prossimo treno per la stazione di Timor. Arriverò alle 0845. Potresti venirmi a prendere?"
 "MailBody2C"	"L. Callen"
 
 // Sent

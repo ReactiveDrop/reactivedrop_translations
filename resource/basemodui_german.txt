@@ -1477,7 +1477,7 @@
 "[english]L4D360UI_FoundGames_DownloadNewVersion"		"(New Version)"
 "L4D360UI_FoundGroupGames_Title"		"Steam-Gruppen-Server"
 "[english]L4D360UI_FoundGroupGames_Title"		"Steam Group Servers"
-"L4D360UI_FoundGroupGames_Subtitle"		"Melde die bei einem Server an, der von einer deiner Steam-Gruppen betrieben wird."
+"L4D360UI_FoundGroupGames_Subtitle"		"Melde dich bei einem Server an, der von einer deiner Steam-Gruppen betrieben wird."
 "[english]L4D360UI_FoundGroupGames_Subtitle"		"Join a server run by one of your Steam Groups."
 "L4D360UI_FoundGroupGames_Title_campaign"		"Steam-Gruppen-Server"
 "[english]L4D360UI_FoundGroupGames_Title_campaign"		"Steam Group Servers"

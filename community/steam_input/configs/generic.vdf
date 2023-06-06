@@ -1,13 +1,13 @@
 "controller_mappings"
 {
 	"version"		"3"
-	"revision"		"32"
-	"title"		"#InputConfigTitle_SteamDeck"
-	"description"		"#InputConfigDescription_SteamDeck"
+	"revision"		"23"
+	"title"		"#InputConfigTitle_Generic"
+	"description"		"#InputConfigDescription_Generic"
 	"creator"		"76561198199288251"
 	"progenitor"		""
-	"controller_type"		"controller_neptune"
-	"controller_caps"		"23117823"
+	"controller_type"		"controller_xboxone"
+	"controller_caps"		"1590271"
 	"major_revision"		"0"
 	"minor_revision"		"0"
 	"group"
@@ -68,67 +68,15 @@
 					}
 				}
 			}
-			"button_back_left"
-			{
-				"activators"
-				{
-					"Full_Press"
-					{
-						"bindings"
-						{
-							"binding"		"game_action ingame EmoteStop, , "
-						}
-					}
-				}
-			}
-			"button_back_right"
-			{
-				"activators"
-				{
-					"Full_Press"
-					{
-						"bindings"
-						{
-							"binding"		"game_action ingame EmoteGo, , "
-						}
-					}
-				}
-			}
-			"button_back_left_upper"
-			{
-				"activators"
-				{
-					"Full_Press"
-					{
-						"bindings"
-						{
-							"binding"		"game_action ingame RotateCameraLeft, , "
-						}
-					}
-				}
-			}
-			"button_back_right_upper"
-			{
-				"activators"
-				{
-					"Full_Press"
-					{
-						"bindings"
-						{
-							"binding"		"game_action ingame RotateCameraRight, , "
-						}
-					}
-				}
-			}
 			"button_capture"
 			{
 				"activators"
 				{
-					"release"
+					"Full_Press"
 					{
 						"bindings"
 						{
-							"binding"		"controller_action system_key_1, , "
+							"binding"		"controller_action SCREENSHOT, , "
 						}
 					}
 				}
@@ -368,74 +316,6 @@
 			"haptic_intensity_override"		"0"
 		}
 	}
-	"group"
-	{
-		"id"		"7"
-		"mode"		"absolute_mouse"
-		"inputs"
-		{
-			"click"
-			{
-				"activators"
-				{
-					"Soft_Press"
-					{
-						"bindings"
-						{
-							"binding"		"mouse_button LEFT, , "
-						}
-					}
-				}
-			}
-		}
-	}
-	"group"
-	{
-		"id"		"8"
-		"mode"		"scrollwheel"
-		"inputs"
-		{
-			"scroll_clockwise"
-			{
-				"activators"
-				{
-					"Full_Press"
-					{
-						"bindings"
-						{
-							"binding"		"mouse_wheel SCROLL_DOWN, , "
-						}
-					}
-				}
-			}
-			"scroll_counterclockwise"
-			{
-				"activators"
-				{
-					"Full_Press"
-					{
-						"bindings"
-						{
-							"binding"		"mouse_wheel SCROLL_UP, , "
-						}
-					}
-				}
-			}
-			"click"
-			{
-				"activators"
-				{
-					"Soft_Press"
-					{
-						"bindings"
-						{
-							"binding"		"mouse_button RIGHT, , "
-						}
-					}
-				}
-			}
-		}
-	}
 	"preset"
 	{
 		"id"		"0"
@@ -449,8 +329,6 @@
 			"4"		"left_trigger active"
 			"5"		"right_trigger active"
 			"6"		"dpad active"
-			"7"		"right_trackpad active"
-			"8"		"left_trackpad active"
 		}
 	}
 	"settings"

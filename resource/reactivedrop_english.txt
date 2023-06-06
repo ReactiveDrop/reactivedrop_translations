@@ -310,6 +310,7 @@
 "asw_objective_complete"	"Objective complete!"
 "rd_objective_chat_message"	"Objective %s1 complete! \nTime: %s2 Delta with previous objective: %s3\n"
 "rd_points_awarding_message"	"Awarding %s4%s1 points to %s4%s2, total = %s4%s3\n"
+"rd_points_reduced_due_to_farming"	"You recently played this map. Gained points will be decreased.\n"
 
 "asw_mission_complete_CAMPAIGN"	"CAMPAIGN"
 "asw_mission_complete_MISSION"	"MISSION"
