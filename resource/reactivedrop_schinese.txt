@@ -602,6 +602,8 @@
 "[english]rd_objective_chat_message"		"Objective %s1 complete! \nTime: %s2 Delta with previous objective: %s3\n"
 "rd_points_awarding_message"		"奖励 %s4%s1 点分数给 %s4%s2，总分数 = %s4%s3\n"
 "[english]rd_points_awarding_message"		"Awarding %s4%s1 points to %s4%s2, total = %s4%s3\n"
+		"rd_points_reduced_due_to_farming"		"You recently played this map. Gained points will be decreased.\n"
+		"[english]rd_points_reduced_due_to_farming"		"You recently played this map. Gained points will be decreased.\n"
 "asw_mission_complete_CAMPAIGN"		"此场战役"
 "[english]asw_mission_complete_CAMPAIGN"		"CAMPAIGN"
 "asw_mission_complete_MISSION"		"本次任务"
