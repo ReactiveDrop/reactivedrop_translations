@@ -4649,6 +4649,8 @@
 "rd_video_display_mode_noborder_hint"	"Sometimes called \"desktop friendly full screen\". Allows you to switch applications more easily while still covering the entire monitor. Can be set to a smaller resolution than your monitor."
 "rd_video_display_mode_windowed"	"Window"
 "rd_video_display_mode_windowed_hint"	"Standard operating system window with a title bar. Can be moved and resized. Resizing may cause issues."
+"rd_video_screen_brightness"	"Screen Brightness"
+"rd_video_screen_brightness_hint"	"Only works in Exclusive Full Screen mode."
 "rd_video_rendering_pipeline"	"Rendering Pipeline"
 "rd_video_rendering_pipeline_single"	"Single-Threaded (Compatibility)"
 "rd_video_rendering_pipeline_multi"	"Multi-Threaded (Fastest)"
