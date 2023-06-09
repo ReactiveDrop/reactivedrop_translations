@@ -55,6 +55,8 @@
 "Button_MoveSlow"		"慢走/蹲下"
 // the key that is bound to shift by default on keyboard
 "[english]Button_MoveSlow"		"Walk / Crouch"
+		"Button_HoldOrder"		"Position Bot Marine"
+		"[english]Button_HoldOrder"		"Position Bot Marine"
 "Button_EmoteMedic"		"'医生!'"
 "[english]Button_EmoteMedic"		"'Medic!'"
 "Button_EmoteAmmo"		"'需要弹药!'"

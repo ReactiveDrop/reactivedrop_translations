@@ -55,6 +55,8 @@
 "Button_MoveSlow"		"Cammina / Accovacciati"
 // the key that is bound to shift by default on keyboard
 "[english]Button_MoveSlow"		"Walk / Crouch"
+		"Button_HoldOrder"		"Position Bot Marine"
+		"[english]Button_HoldOrder"		"Position Bot Marine"
 "Button_EmoteMedic"		"'Medico!'"
 "[english]Button_EmoteMedic"		"'Medic!'"
 "Button_EmoteAmmo"		"'Mi servono munizioni!'"

@@ -116,6 +116,8 @@
 				"MoveRight"		"#Button_MoveRight"
 				"MoveSlow"		"#Button_MoveSlow"
 
+				"HoldOrder"		"#Button_HoldOrder"
+
 				"EmoteMedic"		"#Button_EmoteMedic"
 				"EmoteAmmo"		"#Button_EmoteAmmo"
 				"EmoteSmile"		"#Button_EmoteSmile"
