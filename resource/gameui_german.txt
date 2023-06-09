@@ -347,7 +347,7 @@
 "[english]GameUI_ParseBaseline"		"Parsing game info..."
 "GameUI_StartingServer"		"Lokaler Spiel-Server wird gestartet ..."
 "[english]GameUI_StartingServer"		"Starting local game server..."
-"GameUI_DisplayMode"		"Anzeige Modus"
+"GameUI_DisplayMode"		"Anzeigemodus"
 "[english]GameUI_DisplayMode"		"Display Mode"
 "GameUI_Fullscreen"		"Vollbild"
 "[english]GameUI_Fullscreen"		"Full screen"
