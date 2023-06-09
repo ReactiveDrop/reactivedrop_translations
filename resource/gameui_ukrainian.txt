@@ -791,13 +791,15 @@
 "[english]GameUI_Trilinear"		"Trilinear"
 "GameUI_Anisotropic2X"		"Анізотропне 2X"
 "[english]GameUI_Anisotropic2X"		"Anisotropic 2X"
-"GameUI_Anisotropic4X"		"Анізотропне 4Х"
-"[english]GameUI_Anisotropic4X"		"Anisotropic 4X"
-"GameUI_Anisotropic8X"		"Анізотропне 8Х"
-"[english]GameUI_Anisotropic8X"		"Anisotropic 8X"
-"GameUI_Anisotropic16X"		"Анізотропне 16X"
-"[english]GameUI_Anisotropic16X"		"Anisotropic 16X"
+		"GameUI_Anisotropic4X"		"4X"
+		// Alien Swarm: Reactive Drop shows all of the filtering options in a row, so "Anisotropic" is omitted from the remaining values to save space.
+		"[english]GameUI_Anisotropic4X"		"4X"
+		"GameUI_Anisotropic8X"		"8X"
+		"[english]GameUI_Anisotropic8X"		"8X"
+		"GameUI_Anisotropic16X"		"16X"
+		"[english]GameUI_Anisotropic16X"		"16X"
 "GameUI_2X"		"2x MSАА"
+// MSAA is Multi-Sampled Anti-Aliasing. It renders the scene multiple times from very slightly different angles and combines the results.
 "[english]GameUI_2X"		"2x MSAA"
 "GameUI_4X"		"4x MSАА"
 "[english]GameUI_4X"		"4x MSAA"
@@ -806,6 +808,12 @@
 "GameUI_8X"		"8x MSАА"
 "[english]GameUI_8X"		"8x MSAA"
 "GameUI_8X_CSAA"		"8x CSАА"
+// CSAA is Coverage-Sampled Anti-Aliasing, which separates the color, depth, and stencil multi-sampling from coverage sampling.
+// Coverage samples are used to determine what object is in the foreground for each pixel, so having additional coverage samples makes edges even less jagged without spending more time computing the color of the pixel.
+// Source Engine uses NVIDIA's recommendation to name anti-aliasing modes after the number of coverage samples, so 4 samples with 2 coverage samples each is called 8x CSAA.
+// For nerdy details: https://developer.download.nvidia.com/SDK/9.5/Samples/DEMOS/Direct3D9/src/CSAATutorial/docs/CSAATutorial.pdf
+// The "Q" stands for "Quality". Use whatever makes sense for your language.
+// The anti-aliasing mode list always starts with None, but after that only the modes supported by the user's graphics card are visible.
 "[english]GameUI_8X_CSAA"		"8x CSAA"
 "GameUI_16X_CSAA"		"16x CSАА"
 "[english]GameUI_16X_CSAA"		"16x CSAA"
