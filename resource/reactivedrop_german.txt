@@ -8605,7 +8605,7 @@
 "[english]rd_video_weather_effects_hint"		"Controls some rain and snow effects."
 "rd_video_bloom_scale"		"Licht und Spiegelungen für Bloom"
 "[english]rd_video_bloom_scale"		"Light and Specular Blooms"
-"rd_video_bloom_scale_hint"		"Ein Effekt, bei dem hell leuchtende Objekte Licht in die Umgebung "verschütten"."
+"rd_video_bloom_scale_hint"		"Ein Effekt, bei dem hell leuchtende Objekte Licht in die Umgebung \"verschütten\"."
 "[english]rd_video_bloom_scale_hint"		"An effect where brightly glowing objects \"spill\" light into the surrounding area."
 "rd_video_projected_textures"		"Dynamische Schatten in hoher Qualität"
 "[english]rd_video_projected_textures"		"High Quality Dynamic Shadows"
