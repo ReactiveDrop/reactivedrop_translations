@@ -8,7 +8,7 @@
 | [Dutch](#non-curated-languages) | 51 | 2004 | 40 | 2540 | 196 | 584 | 444 | 145 |
 | [Finnish](#non-curated-languages) | 51 | 2004 | 40 | 2540 | 196 | 584 | 444 | 145 |
 | [French](#french-français) | 27 | 138 | 40 | 1894 | 196 | 519 | 430 | 124 |
-| [German](#german-deutsch) | ✔️ | ✔️ | 3 | 62 | ✔️ | ✔️ | ✔️ | ✔️ |
+| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Hungarian](#non-curated-languages) | 51 | 138 | 40 | 2540 | 196 | 849 | 444 | 146 |
 | [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Japanese](#japanese-日本語) | ✔️ | ✔️ | 3 | 11 | ✔️ | 102 | ✔️ | ✔️ |
@@ -18,7 +18,7 @@
 | [European Portuguese](#portuguese-português-europeu) | ✔️ | 180 | 17 | 1654 | 17 | 502 | 454 | 139 |
 | [Brazilian Portuguese](#brazilian-português) | 2 | 2004 | 30 | 788 | 5 | 145 | 215 | 6 |
 | [Romanian](#non-curated-languages) | 51 | 1996 | 46 | 3262 | 196 | 849 | 490 | 146 |
-| [Russian](#russian-русский) | ✔️ | ✔️ | 3 | 66 | ✔️ | 58 | ✔️ | ✔️ |
+| [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 4 | ✔️ | ✔️ |
 | [European Spanish](#spanish-español-de-españa) | 28 | 2004 | 38 | 1946 | 196 | 588 | 440 | 145 |
 | [Latin American Spanish](#latam-español-latinoamericano) | 1281 | 2004 | 632 | 4074 | 200 | 854 | 526 | 146 |
 | [Swedish](#non-curated-languages) | 51 | 2004 | 40 | 2540 | 196 | 584 | 444 | 146 |
@@ -991,10 +991,7 @@
 
 </summary>
 
-### Strings
-
-- [gameui_german.txt](resource/gameui_german.txt) has 3 untranslated strings.
-- [reactivedrop_german.txt](resource/reactivedrop_german.txt) has 62 untranslated strings.
+✓ Up to date!
 
 </details>
 
@@ -2021,9 +2018,6 @@
 ### Strings
 
 - [inventory_service_tags_russian.vdf](community/inventory_service/inventory_service_tags_russian.vdf) has 4 untranslated strings.
-- [steam_input_russian.vdf](community/steam_input/steam_input_russian.vdf) has 54 untranslated strings.
-- [gameui_russian.txt](resource/gameui_russian.txt) has 3 untranslated strings.
-- [reactivedrop_russian.txt](resource/reactivedrop_russian.txt) has 66 untranslated strings.
 
 </details>
 
