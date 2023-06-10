@@ -8,9 +8,9 @@
 | [Dutch](#non-curated-languages) | 51 | 2004 | 40 | 2540 | 196 | 585 | 444 | 145 |
 | [Finnish](#non-curated-languages) | 51 | 2004 | 40 | 2540 | 196 | 585 | 444 | 145 |
 | [French](#french-français) | 27 | 138 | 40 | 1894 | 196 | 520 | 430 | 124 |
-| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 1 | ✔️ | ✔️ |
+| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Hungarian](#non-curated-languages) | 51 | 138 | 40 | 2540 | 196 | 850 | 444 | 146 |
-| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 1 | ✔️ | ✔️ |
+| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Japanese](#japanese-日本語) | ✔️ | ✔️ | 3 | 11 | ✔️ | 102 | ✔️ | ✔️ |
 | [Korean](#koreana-한국어) | 7 | 10 | 36 | 1029 | 18 | 311 | 430 | 47 |
 | [Norwegian Bokmål](#non-curated-languages) | 69 | 708 | 45 | 3255 | 196 | 585 | 513 | 146 |
@@ -993,9 +993,7 @@
 
 </summary>
 
-### Strings
-
-- [steam_input_german.vdf](community/steam_input/steam_input_german.vdf) has 1 untranslated strings.
+✓ Up to date!
 
 </details>
 
@@ -1005,9 +1003,7 @@
 
 </summary>
 
-### Strings
-
-- [steam_input_italian.vdf](community/steam_input/steam_input_italian.vdf) has 1 untranslated strings.
+✓ Up to date!
 
 </details>
 
