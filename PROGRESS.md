@@ -11,7 +11,7 @@
 | [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 1 | ✔️ | ✔️ |
 | [Hungarian](#non-curated-languages) | 51 | 138 | 40 | 2540 | 196 | 850 | 444 | 146 |
 | [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 1 | ✔️ | ✔️ |
-| [Japanese](#japanese-日本語) | ✔️ | ✔️ | 3 | 11 | ✔️ | 103 | ✔️ | ✔️ |
+| [Japanese](#japanese-日本語) | ✔️ | ✔️ | 3 | 11 | ✔️ | 102 | ✔️ | ✔️ |
 | [Korean](#koreana-한국어) | 7 | 10 | 36 | 1029 | 18 | 311 | 430 | 47 |
 | [Norwegian Bokmål](#non-curated-languages) | 69 | 708 | 45 | 3255 | 196 | 585 | 513 | 146 |
 | [Polish](#polish-polski) | 28 | 2004 | 40 | 2540 | 196 | 581 | 444 | 141 |
@@ -1019,7 +1019,6 @@
 
 ### Strings
 
-- [steam_input_japanese.vdf](community/steam_input/steam_input_japanese.vdf) has 1 untranslated strings.
 - [signage_japanese.vdf](misc/signage/signage_japanese.vdf) has 67 untranslated strings.
 - [vgui_japanese.txt](platform/vgui_japanese.txt) has 35 untranslated strings.
 - [gameui_japanese.txt](resource/gameui_japanese.txt) has 3 untranslated strings.
