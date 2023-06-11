@@ -8202,7 +8202,7 @@
 "[english]rd_collection_inventory_tournament_medals"		"Tournament Medals"
 "rd_collection_inventory_medals"		"Medaglie"
 "[english]rd_collection_inventory_medals"		"Medals"
-"rd_collection_inventory_loadout"		"Equipaggiamento"
+"rd_collection_inventory_loadout"		"Equipag."
 "[english]rd_collection_inventory_loadout"		"Loadout"
 "rd_collection_inventory_crafting_materials"		"Materiali"
 "[english]rd_collection_inventory_crafting_materials"		"Materials"
