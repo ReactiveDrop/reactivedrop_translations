@@ -8428,7 +8428,7 @@
 "[english]rd_event_timer_hours"		"%s1 (%s2 hours remain)"
 "rd_event_timer_soon"		"%s1 (si conclude in meno di un'ora!)"
 "[english]rd_event_timer_soon"		"%s1 (ends in less than an hour!)"
-"rd_event_mapping_competition"		"Competizione di Mapping 2023 \"Combatti il Boss\""
+"rd_event_mapping_competition"		"Competizione di Mapping 2023 \"Battaglia Boss\""
 "[english]rd_event_mapping_competition"		"Mapping Competition 2023 \"Boss Fight\""
 "rd_event_double_xp_anniversary"		"Settimana di Esperienza Raddoppiata per l'Anniversario"
 "[english]rd_event_double_xp_anniversary"		"Anniversary Double Experience Week"
