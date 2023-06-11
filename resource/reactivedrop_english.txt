@@ -2192,7 +2192,7 @@
 "rdui_tdm_title"	"Team Deathmatch"
 "rdui_tdm_tooltip"	"Your team mates have names and healthbar, don't shoot at them!"
 
-"rd_mainmenu_workshop"	"WORKSHOP"
+"rd_mainmenu_workshop"	"Workshop"
 "rd_mainmenu_workshop_tip"	"Find new campaigns and challenges on the Steam Workshop"
 "rd_mainmenu_workshop_browse"	"Browse"
 "rd_mainmenu_workshop_manage"	"Manage"
