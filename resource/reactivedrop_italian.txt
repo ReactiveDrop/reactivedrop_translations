@@ -8420,7 +8420,7 @@
 "rd_latest_update_ymd"		"Ultimo aggiornamento - %s1-%s2-%s3"
 // %s1 is a 4 digit year, %s2 is a 2 digit month, %s3 is a 2 digit day. if needed, %s4 is a one- or two-digit month and %s5 is a one- or two-digit day.
 "[english]rd_latest_update_ymd"		"Latest Update - %s1-%s2-%s3"
-"rd_view_beta_update_notes"		"Visualizza le Note d'Aggiornamento della Beta"
+"rd_view_beta_update_notes"		"Vedi cambiamenti della Beta"
 "[english]rd_view_beta_update_notes"		"View Beta Update Notes"
 "rd_event_timer_days"		"%s1 (%s2 giorni rimasti)"
 "[english]rd_event_timer_days"		"%s1 (%s2 days remain)"
