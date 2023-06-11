@@ -4297,7 +4297,7 @@
 "rdui_tdm_tooltip"		"당신의 팀원들은 체력바와 이름이 있으니, 그들을 향해 총을 쏘지 마세요!"
 "[english]rdui_tdm_tooltip"		"Your team mates have names and healthbar, don't shoot at them!"
 "rd_mainmenu_workshop"		"창작마당"
-"[english]rd_mainmenu_workshop"		"WORKSHOP"
+"[english]rd_mainmenu_workshop"		"Workshop"
 "rd_mainmenu_workshop_tip"		"스팀 창작마당에서 새로운 맵과 컨텐츠 찾아보기"
 "[english]rd_mainmenu_workshop_tip"		"Find new campaigns and challenges on the Steam Workshop"
 "rd_mainmenu_workshop_browse"		"커스텀 서버 목록"
