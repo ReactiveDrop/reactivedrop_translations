@@ -37,6 +37,8 @@
 // the key that is bound to shift by default on keyboard
 "Button_MoveSlow"		"Walk / Crouch"
 
+"Button_HoldOrder"		"Position Bot Marine"
+
 "Button_EmoteMedic"		"'Medic!'"
 "Button_EmoteAmmo"		"'Need ammo!'"
 "Button_EmoteSmile"		"(smile)"
