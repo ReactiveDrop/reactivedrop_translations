@@ -141,7 +141,7 @@
 "[english]Valve_Friendly_Fire"		"Friendly Fire"
 "Valve_Weapons_Stay"		"Waffen bleiben"
 "[english]Valve_Weapons_Stay"		"Weapons Stay"
-"Valve_Force_Respawn"		"Respawn erzwingen"
+"Valve_Force_Respawn"		"Wiedereinstieg erzwingen"
 "[english]Valve_Force_Respawn"		"Force Respawn"
 "Valve_Footsteps"		"Fußstapfen"
 "[english]Valve_Footsteps"		"Footsteps"
