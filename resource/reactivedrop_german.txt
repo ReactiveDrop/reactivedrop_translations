@@ -2996,7 +2996,7 @@
 "[english]asw_so_iaffleet"		"IAF Fleet"
 "asw_so_ocm"		"Büro für Konsenspflege"
 "[english]asw_so_ocm"		"Office of Consensus Maintenance"
-"asw_so_pdf"		"Planetarische Verteidigungskräfte"
+"asw_so_pdf"		"Planetare Verteidigungskräfte"
 "[english]asw_so_pdf"		"Planetary Defense Force"
 "asw_so_humanist"		"Humanistisches Protektorat"
 "[english]asw_so_humanist"		"The Humanist Protectorate"
