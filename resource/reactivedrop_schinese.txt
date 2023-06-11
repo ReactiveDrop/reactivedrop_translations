@@ -4297,7 +4297,7 @@
 "rdui_tdm_tooltip"		"杀死除了你队友以外的玩家。你可以看到队友的名字和血量。"
 "[english]rdui_tdm_tooltip"		"Your team mates have names and healthbar, don't shoot at them!"
 "rd_mainmenu_workshop"		"创意工坊"
-"[english]rd_mainmenu_workshop"		"WORKSHOP"
+"[english]rd_mainmenu_workshop"		"Workshop"
 "rd_mainmenu_workshop_tip"		"在 Steam 创意工坊中找到各种挑战和地图"
 "[english]rd_mainmenu_workshop_tip"		"Find new campaigns and challenges on the Steam Workshop"
 "rd_mainmenu_workshop_browse"		"浏览"

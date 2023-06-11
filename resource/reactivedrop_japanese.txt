@@ -4297,7 +4297,7 @@
 "rdui_tdm_tooltip"		"チームメイトには名前とヘルスバーが表示される。撃つんじゃないぞ！"
 "[english]rdui_tdm_tooltip"		"Your team mates have names and healthbar, don't shoot at them!"
 "rd_mainmenu_workshop"		"ワークショップ"
-"[english]rd_mainmenu_workshop"		"WORKSHOP"
+"[english]rd_mainmenu_workshop"		"Workshop"
 "rd_mainmenu_workshop_tip"		"Steamワークショップからキャンペーンやチャレンジを入手する"
 "[english]rd_mainmenu_workshop_tip"		"Find new campaigns and challenges on the Steam Workshop"
 "rd_mainmenu_workshop_browse"		"閲覧"
