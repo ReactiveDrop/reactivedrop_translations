@@ -5065,7 +5065,7 @@
 "[english]rd_so_stat_friendly_fire_damage"		"Friendly Fire"
 "rd_so_stat_healing"		"Cure"
 "[english]rd_so_stat_healing"		"Healing"
-"rd_so_stat_healing_self"		"Cure (Te Stesso)"
+"rd_so_stat_healing_self"		"Cure (sè stessi)"
 "[english]rd_so_stat_healing_self"		"Healing (Self)"
 "rd_so_stat_deployed"		"Schierati"
 "[english]rd_so_stat_deployed"		"Deployed"
