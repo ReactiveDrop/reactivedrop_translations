@@ -4296,7 +4296,7 @@
 "[english]rdui_tdm_title"		"Team Deathmatch"
 "rdui_tdm_tooltip"		"I tuoi compagni di squadra hanno nomi e barre della salute, non sparare a loro!"
 "[english]rdui_tdm_tooltip"		"Your team mates have names and healthbar, don't shoot at them!"
-"rd_mainmenu_workshop"		"WORKSHOP"
+"rd_mainmenu_workshop"		"Workshop"
 "[english]rd_mainmenu_workshop"		"WORKSHOP"
 "rd_mainmenu_workshop_tip"		"Trova nuove campagne e sfide nel Workshop di Steam"
 "[english]rd_mainmenu_workshop_tip"		"Find new campaigns and challenges on the Steam Workshop"
