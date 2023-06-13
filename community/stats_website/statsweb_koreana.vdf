@@ -406,5 +406,10 @@
 "[english]StatsWeb_Report_Medals"		"Report a problem with medals."
 "StatsWeb_Report_Vandalism"		"잘못된 통계 보고합니다."
 "[english]StatsWeb_Report_Vandalism"		"Report incorrect stats."
+		"StatsWeb_IntegratedGuideTitle_Loadouts"		"%[1]s - Shared Loadout by %[2]s"
+		// %[1]s is the guide name. %[2]s is the author name.
+		"[english]StatsWeb_IntegratedGuideTitle_Loadouts"		"%[1]s - Shared Loadout by %[2]s"
+		"StatsWeb_IntegratedGuideTitle_SpeedrunGhost"		"%[1]s - Speed Run Ghost by %[2]s"
+		"[english]StatsWeb_IntegratedGuideTitle_SpeedrunGhost"		"%[1]s - Speed Run Ghost by %[2]s"
 }
 }
