@@ -18,7 +18,7 @@
 | [European Portuguese](#portuguese-português-europeu) | ✔️ | 180 | 17 | 1654 | 19 | 503 | 454 | 139 |
 | [Brazilian Portuguese](#brazilian-português) | 2 | 2004 | 30 | 788 | 7 | 146 | 215 | 6 |
 | [Romanian](#non-curated-languages) | 51 | 1996 | 46 | 3262 | 198 | 850 | 490 | 146 |
-| [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | ✔️ | 2 | 4 | ✔️ | ✔️ |
+| [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 4 | ✔️ | ✔️ |
 | [European Spanish](#spanish-español-de-españa) | 28 | 2004 | 38 | 1946 | 198 | 589 | 440 | 145 |
 | [Latin American Spanish](#latam-español-latinoamericano) | 1281 | 2004 | 632 | 4074 | 202 | 855 | 526 | 146 |
 | [Swedish](#non-curated-languages) | 51 | 2004 | 40 | 2540 | 198 | 585 | 444 | 146 |
@@ -2025,7 +2025,6 @@
 ### Strings
 
 - [inventory_service_tags_russian.vdf](community/inventory_service/inventory_service_tags_russian.vdf) has 4 untranslated strings.
-- [statsweb_russian.vdf](community/stats_website/statsweb_russian.vdf) has 2 untranslated strings.
 
 </details>
 
