@@ -1936,7 +1936,7 @@
 "[english]asw_prev_marine"		"Select previous marine"
 "asw_melee_attack"		"Nahkampfangriff"
 "[english]asw_melee_attack"		"Melee attack"
-"asw_activate_extra"		"Ausrüstung (Schweißgerät, Fackeln, etc.) benutzen"
+"asw_activate_extra"		"Zusatzausrüstung (Schweißgerät, Fackeln, etc.) benutzen"
 "[english]asw_activate_extra"		"Use offhand item (welder, flares, etc.)"
 "asw_switch_primary_secondary"		"Waffe wechseln"
 "[english]asw_switch_primary_secondary"		"Switch weapon"
