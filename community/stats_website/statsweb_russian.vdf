@@ -316,9 +316,9 @@
 "[english]StatsWeb_Column_Details"		"Details"
 "StatsWeb_Column_Server"		"Сервер"
 "[english]StatsWeb_Column_Server"		"Server"
-"StatsWeb_Column_KillsAliens"		"Жуков уничтожено"
+"StatsWeb_Column_KillsAliens"		"Жуков убито"
 "[english]StatsWeb_Column_KillsAliens"		"Aliens Eliminated"
-"StatsWeb_Column_KillsMarine"		"Союзников убито"
+"StatsWeb_Column_KillsMarine"		"Союзн. убито"
 "[english]StatsWeb_Column_KillsMarine"		"Team Kills"
 "StatsWeb_Column_MissionsSuccess"		"Миссий выполнено"
 "[english]StatsWeb_Column_MissionsSuccess"		"Missions Completed"
@@ -406,5 +406,10 @@
 "[english]StatsWeb_Report_Medals"		"Report a problem with medals."
 "StatsWeb_Report_Vandalism"		"Сообщить о неверной статистике."
 "[english]StatsWeb_Report_Vandalism"		"Report incorrect stats."
+"StatsWeb_IntegratedGuideTitle_Loadouts"		"%[1]s - Общее снаряжение от: %[2]s"
+// %[1]s is the guide name. %[2]s is the author name.
+"[english]StatsWeb_IntegratedGuideTitle_Loadouts"		"%[1]s - Shared Loadout by %[2]s"
+"StatsWeb_IntegratedGuideTitle_SpeedrunGhost"		"%[1]s - Призрак прохождения на скорость от: %[2]s"
+"[english]StatsWeb_IntegratedGuideTitle_SpeedrunGhost"		"%[1]s - Speed Run Ghost by %[2]s"
 }
 }
