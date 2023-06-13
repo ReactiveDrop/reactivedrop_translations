@@ -6500,7 +6500,7 @@
 "[english]acc2_3b"		"You can turn on turbines first, then they would turn from the power of the reactor on 1st floor."
 "acc2_4a"		"Xenomiten sind durch das Lüftungssystem gekrochen und haben Parasiten Eier gelegt."
 "[english]acc2_4a"		"XENOMITEs have been crawling through the vent system and laying eggs with PARASITEs."
-"acc2_4b"		"Beseitigt alle Eier auf dieser Etage. Unten in der Anlage sidn noch mehr davon zu erwarten."
+"acc2_4b"		"Beseitigt alle Eier auf dieser Etage. Unten in der Anlage sind noch mehr davon zu erwarten."
 "[english]acc2_4b"		"Eliminate all the eggs on this floor. Expect more eggs deeper in the facility."
 "acc2_5_title"		"Schaltet den Hauptreaktor ein"
 "[english]acc2_5_title"		"Turn on the main Reactor"
