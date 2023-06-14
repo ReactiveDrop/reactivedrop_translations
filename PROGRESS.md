@@ -8,10 +8,10 @@
 | [Dutch](#non-curated-languages) | 51 | 2004 | 40 | 2540 | 198 | 585 | 444 | 145 |
 | [Finnish](#non-curated-languages) | 51 | 2004 | 40 | 2540 | 198 | 585 | 444 | 145 |
 | [French](#french-français) | 27 | 138 | 40 | 1894 | 198 | 520 | 430 | 124 |
-| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | 2 | ✔️ | ✔️ | ✔️ |
+| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Hungarian](#non-curated-languages) | 51 | 138 | 40 | 2540 | 198 | 850 | 444 | 146 |
 | [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | 2 | ✔️ | ✔️ | ✔️ |
-| [Japanese](#japanese-日本語) | ✔️ | ✔️ | 3 | ✔️ | 2 | 102 | ✔️ | ✔️ |
+| [Japanese](#japanese-日本語) | ✔️ | ✔️ | 3 | ✔️ | ✔️ | 102 | ✔️ | ✔️ |
 | [Korean](#koreana-한국어) | 7 | 10 | 36 | 1029 | 20 | 311 | 430 | 47 |
 | [Norwegian Bokmål](#non-curated-languages) | 69 | 708 | 45 | 3255 | 198 | 585 | 513 | 146 |
 | [Polish](#polish-polski) | 28 | 2004 | 40 | 2540 | 198 | 581 | 444 | 141 |
@@ -994,9 +994,7 @@
 
 </summary>
 
-### Strings
-
-- [statsweb_german.vdf](community/stats_website/statsweb_german.vdf) has 2 untranslated strings.
+✓ Up to date!
 
 </details>
 
@@ -1020,7 +1018,6 @@
 
 ### Strings
 
-- [statsweb_japanese.vdf](community/stats_website/statsweb_japanese.vdf) has 2 untranslated strings.
 - [signage_japanese.vdf](misc/signage/signage_japanese.vdf) has 67 untranslated strings.
 - [vgui_japanese.txt](platform/vgui_japanese.txt) has 35 untranslated strings.
 - [gameui_japanese.txt](resource/gameui_japanese.txt) has 3 untranslated strings.
