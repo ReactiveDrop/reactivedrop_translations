@@ -302,7 +302,7 @@
 "[english]StatsWeb_Column_Time"		"Time"
 "StatsWeb_Column_TimeOfDay"		"Zeit"
 "[english]StatsWeb_Column_TimeOfDay"		"Time"
-"StatsWeb_Column_Loadout"		"Ausrüstung"
+"StatsWeb_Column_Loadout"		"Bewaffnung"
 "[english]StatsWeb_Column_Loadout"		"Loadout"
 "StatsWeb_Column_Mission"		"Einsatz"
 "[english]StatsWeb_Column_Mission"		"Mission"
@@ -406,10 +406,10 @@
 "[english]StatsWeb_Report_Medals"		"Report a problem with medals."
 "StatsWeb_Report_Vandalism"		"Falsche Statistiken melden."
 "[english]StatsWeb_Report_Vandalism"		"Report incorrect stats."
-		"StatsWeb_IntegratedGuideTitle_Loadouts"		"%[1]s - Shared Loadout by %[2]s"
-		// %[1]s is the guide name. %[2]s is the author name.
-		"[english]StatsWeb_IntegratedGuideTitle_Loadouts"		"%[1]s - Shared Loadout by %[2]s"
-		"StatsWeb_IntegratedGuideTitle_SpeedrunGhost"		"%[1]s - Speed Run Ghost by %[2]s"
-		"[english]StatsWeb_IntegratedGuideTitle_SpeedrunGhost"		"%[1]s - Speed Run Ghost by %[2]s"
+"StatsWeb_IntegratedGuideTitle_Loadouts"		"%[1]s - Geteilte Bewaffnung von %[2]s"
+// %[1]s is the guide name. %[2]s is the author name.
+"[english]StatsWeb_IntegratedGuideTitle_Loadouts"		"%[1]s - Shared Loadout by %[2]s"
+"StatsWeb_IntegratedGuideTitle_SpeedrunGhost"		"%[1]s - Speedrun Geist von %[2]s"
+"[english]StatsWeb_IntegratedGuideTitle_SpeedrunGhost"		"%[1]s - Speed Run Ghost by %[2]s"
 }
 }
