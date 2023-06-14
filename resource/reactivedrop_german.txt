@@ -5067,7 +5067,7 @@
 "[english]rd_so_stat_healing"		"Healing"
 "rd_so_stat_healing_self"		"Selbstheilung"
 "[english]rd_so_stat_healing_self"		"Healing (Self)"
-"rd_so_stat_deployed"		"Zusatzausrüstung aufgestellt"
+"rd_so_stat_deployed"		"Aufgestellt"
 "[english]rd_so_stat_deployed"		"Deployed"
 "rd_so_stat_damage_doubled"		"Schaden verdoppelt"
 "[english]rd_so_stat_damage_doubled"		"Damage Doubled"
