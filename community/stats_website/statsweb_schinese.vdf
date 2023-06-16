@@ -406,10 +406,10 @@
 "[english]StatsWeb_Report_Medals"		"Report a problem with medals."
 "StatsWeb_Report_Vandalism"		"报告统计数据的错误。"
 "[english]StatsWeb_Report_Vandalism"		"Report incorrect stats."
-		"StatsWeb_IntegratedGuideTitle_Loadouts"		"%[1]s - 由%[2]s分享的出装方案"
-		// %[1]s is the guide name. %[2]s is the author name.
-		"[english]StatsWeb_IntegratedGuideTitle_Loadouts"		"%[1]s - Shared Loadout by %[2]s"
-		"StatsWeb_IntegratedGuideTitle_SpeedrunGhost"		"%[1]s - 由%[2]s分享的速通幻影"
-		"[english]StatsWeb_IntegratedGuideTitle_SpeedrunGhost"		"%[1]s - Speed Run Ghost by %[2]s"
+"StatsWeb_IntegratedGuideTitle_Loadouts"		"%[1]s - 由%[2]s分享的出装方案"
+// %[1]s is the guide name. %[2]s is the author name.
+"[english]StatsWeb_IntegratedGuideTitle_Loadouts"		"%[1]s - Shared Loadout by %[2]s"
+"StatsWeb_IntegratedGuideTitle_SpeedrunGhost"		"%[1]s - 由%[2]s分享的速通影像"
+"[english]StatsWeb_IntegratedGuideTitle_SpeedrunGhost"		"%[1]s - Speed Run Ghost by %[2]s"
 }
 }
