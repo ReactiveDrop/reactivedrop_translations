@@ -1,7 +1,7 @@
 # Overview
 | Language | basemodui | closecaption | gameui | reactivedrop | statsweb | Strings | Inventory | Files |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | ✔️ | ✔️ | 2 | 1 | ✔️ | ✔️ |
+| [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Traditional Chinese](#tchinese-繁體中文) | 9 | 140 | 31 | 2425 | 198 | 201 | 442 | 145 |
 | [Czech](#czech-čeština) | 71 | 1810 | 40 | 3559 | 198 | 855 | 512 | 145 |
 | [Danish](#non-curated-languages) | 52 | 231 | 40 | 3082 | 198 | 585 | 507 | 146 |
@@ -40,10 +40,7 @@
 
 </summary>
 
-### Strings
-
-- [statsweb_schinese.vdf](community/stats_website/statsweb_schinese.vdf) has 2 untranslated strings.
-- [steam_input_schinese.vdf](community/steam_input/steam_input_schinese.vdf) has 1 untranslated strings.
+✓ Up to date!
 
 </details>
 
