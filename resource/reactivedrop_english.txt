@@ -154,7 +154,7 @@
 "asw_combatdrugs_desc"	"Boosts effectiveness of adrenaline\nwhen used by your squad."
 "asw_hacking_desc"	"Reduces time needed to charge wire\npanel actuators and download critical data."
 "asw_scanner_desc"	"Increases range and rate of the movement scanner."
-"asw_engineering_desc"	"Speeds up welding and Sentry Gun\nsetup for all nearby squad mates. Improves fire rate of prototype rifle"
+"asw_engineering_desc"	"Speeds up welding and Sentry Gun\nsetup for all nearby squad mates.\nImproves fire rate of prototype rifle."
 "asw_accuracy_skill_desc"	"Increases the damage dealt by most\nstandard weapons."
 "asw_grenades_desc"	"Increases the effectiveness of all\nexplosive weapons."
 "asw_health_desc"	"Increases the total health of the marine."

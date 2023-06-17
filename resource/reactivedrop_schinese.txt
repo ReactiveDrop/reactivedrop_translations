@@ -301,7 +301,7 @@
 "asw_scanner_desc"		"增加移动扫描仪的侦测范围和扫描频率。"
 "[english]asw_scanner_desc"		"Increases range and rate of the movement scanner."
 "asw_engineering_desc"		"加快了附近所有队友的焊接、步哨塔的放置速度。\n提高了原型步枪的射速。"
-"[english]asw_engineering_desc"		"Speeds up welding and Sentry Gun\nsetup for all nearby squad mates. Improves fire rate of prototype rifle"
+"[english]asw_engineering_desc"		"Speeds up welding and Sentry Gun\nsetup for all nearby squad mates.\nImproves fire rate of prototype rifle."
 "asw_accuracy_skill_desc"		"增加大多数标准武器的伤害。"
 "[english]asw_accuracy_skill_desc"		"Increases the damage dealt by most\nstandard weapons."
 "asw_grenades_desc"		"增加所有爆炸类武器的伤害。"

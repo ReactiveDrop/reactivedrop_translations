@@ -301,7 +301,7 @@
 "asw_scanner_desc"		"動体スキャナーの範囲と頻度を増加させる。"
 "[english]asw_scanner_desc"		"Increases range and rate of the movement scanner."
 "asw_engineering_desc"		"近くの仲間の溶接とセントリーガンの組立速度を増加させる。\nプロトタイプライフルの連射速度を増加させる。"
-"[english]asw_engineering_desc"		"Speeds up welding and Sentry Gun\nsetup for all nearby squad mates. Improves fire rate of prototype rifle"
+"[english]asw_engineering_desc"		"Speeds up welding and Sentry Gun\nsetup for all nearby squad mates.\nImproves fire rate of prototype rifle."
 "asw_accuracy_skill_desc"		"ほとんどの通常武器の攻撃力を増加させる。"
 "[english]asw_accuracy_skill_desc"		"Increases the damage dealt by most\nstandard weapons."
 "asw_grenades_desc"		"あらゆる爆発物の性能を増加させる。"
