@@ -301,7 +301,7 @@
 "asw_scanner_desc"		"Aumenta o alcance e a frequência do scanner de movimentos."
 "[english]asw_scanner_desc"		"Increases range and rate of the movement scanner."
 "asw_engineering_desc"		"Acelera o uso do Soldador de Mão e a montagem de \nArmas Sentinelas para todos os membros de esquadrão na \nproximidade. Melhora a velocidade de disparo da \nEspingarda Protótipo."
-"[english]asw_engineering_desc"		"Speeds up welding and Sentry Gun\nsetup for all nearby squad mates. Improves fire rate of prototype rifle"
+"[english]asw_engineering_desc"		"Speeds up welding and Sentry Gun\nsetup for all nearby squad mates.\nImproves fire rate of prototype rifle."
 "asw_accuracy_skill_desc"		"Aumenta o dano infligido pela maioria\ndas armas padrão."
 "[english]asw_accuracy_skill_desc"		"Increases the damage dealt by most\nstandard weapons."
 "asw_grenades_desc"		"Aumenta a eficácia de todas\nas armas explosivas."
