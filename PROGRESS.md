@@ -10,7 +10,7 @@
 | [French](#french-français) | 27 | 138 | 42 | 1942 | 198 | 525 | 430 | 124 |
 | [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Hungarian](#non-curated-languages) | 51 | 138 | 42 | 2577 | 198 | 850 | 444 | 146 |
-| [Italian](#italian-italiano) | ✔️ | ✔️ | 27 | 48 | ✔️ | 5 | ✔️ | ✔️ |
+| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | 6 | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 102 | ✔️ | ✔️ |
 | [Korean](#koreana-한국어) | 7 | 10 | 38 | 1073 | 20 | 316 | 430 | 47 |
 | [Norwegian Bokmål](#non-curated-languages) | 69 | 708 | 47 | 3283 | 198 | 585 | 513 | 146 |
@@ -1007,9 +1007,7 @@
 
 ### Strings
 
-- [gameui_italian.txt](resource/gameui_italian.txt) has 27 untranslated strings.
-- [reactivedrop_italian.txt](resource/reactivedrop_italian.txt) has 48 untranslated strings.
-- [valve_italian.txt](resource/valve_italian.txt) has 5 untranslated strings.
+- [reactivedrop_italian.txt](resource/reactivedrop_italian.txt) has 6 untranslated strings.
 
 </details>
 
