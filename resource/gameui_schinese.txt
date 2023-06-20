@@ -1274,7 +1274,7 @@
 "MOUSE2"		"鼠标右键单击"
 "[english]MOUSE2"		"Right Click"
 "MOUSE3"		"M鼠标中键单击"
-		"[english]MOUSE3"		"Middle Click"
+"[english]MOUSE3"		"Middle Click"
 "MOUSE4"		"鼠标4键"
 "[english]MOUSE4"		"MOUSE4"
 "MOUSE5"		"鼠标5键"
