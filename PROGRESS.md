@@ -8,7 +8,7 @@
 | [Dutch](#non-curated-languages) | 51 | 2004 | 42 | 2577 | 198 | 585 | 444 | 145 |
 | [Finnish](#non-curated-languages) | 51 | 2004 | 42 | 2577 | 198 | 585 | 444 | 145 |
 | [French](#french-français) | 27 | 138 | 42 | 1942 | 198 | 525 | 430 | 124 |
-| [German](#german-deutsch) | ✔️ | ✔️ | 27 | 48 | ✔️ | 5 | ✔️ | ✔️ |
+| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Hungarian](#non-curated-languages) | 51 | 138 | 42 | 2577 | 198 | 850 | 444 | 146 |
 | [Italian](#italian-italiano) | ✔️ | ✔️ | 27 | 48 | ✔️ | 5 | ✔️ | ✔️ |
 | [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 102 | ✔️ | ✔️ |
@@ -995,11 +995,7 @@
 
 </summary>
 
-### Strings
-
-- [gameui_german.txt](resource/gameui_german.txt) has 27 untranslated strings.
-- [reactivedrop_german.txt](resource/reactivedrop_german.txt) has 48 untranslated strings.
-- [valve_german.txt](resource/valve_german.txt) has 5 untranslated strings.
+✓ Up to date!
 
 </details>
 
