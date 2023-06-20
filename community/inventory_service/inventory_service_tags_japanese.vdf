@@ -49,7 +49,7 @@
 "[english]inventory_slot_suit"		"Suit"
 "inventory_slot_weapon"		"武器"
 "[english]inventory_slot_weapon"		"Weapon"
-"inventory_slot_equipment"		"補助アイテム"
+"inventory_slot_equipment"		"携行アイテム"
 "[english]inventory_slot_equipment"		"Equipment"
 "inventory_class_restriction"		"兵科制限"
 // for equippable items that can only be used on one class.

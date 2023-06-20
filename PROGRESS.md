@@ -8,10 +8,10 @@
 | [Dutch](#non-curated-languages) | 51 | 2004 | 42 | 2577 | 198 | 585 | 444 | 145 |
 | [Finnish](#non-curated-languages) | 51 | 2004 | 42 | 2577 | 198 | 585 | 444 | 145 |
 | [French](#french-français) | 27 | 138 | 42 | 1942 | 198 | 525 | 430 | 124 |
-| [German](#german-deutsch) | ✔️ | ✔️ | 27 | 48 | ✔️ | 5 | ✔️ | ✔️ |
+| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Hungarian](#non-curated-languages) | 51 | 138 | 42 | 2577 | 198 | 850 | 444 | 146 |
-| [Italian](#italian-italiano) | ✔️ | ✔️ | 27 | 48 | 2 | 5 | ✔️ | ✔️ |
-| [Japanese](#japanese-日本語) | ✔️ | ✔️ | 30 | 48 | ✔️ | 107 | ✔️ | ✔️ |
+| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | 6 | ✔️ | ✔️ | ✔️ | ✔️ |
+| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 102 | ✔️ | ✔️ |
 | [Korean](#koreana-한국어) | 7 | 10 | 38 | 1073 | 20 | 316 | 430 | 47 |
 | [Norwegian Bokmål](#non-curated-languages) | 69 | 708 | 47 | 3283 | 198 | 585 | 513 | 146 |
 | [Polish](#polish-polski) | 28 | 2004 | 42 | 2577 | 198 | 581 | 444 | 141 |
@@ -995,11 +995,7 @@
 
 </summary>
 
-### Strings
-
-- [gameui_german.txt](resource/gameui_german.txt) has 27 untranslated strings.
-- [reactivedrop_german.txt](resource/reactivedrop_german.txt) has 48 untranslated strings.
-- [valve_german.txt](resource/valve_german.txt) has 5 untranslated strings.
+✓ Up to date!
 
 </details>
 
@@ -1011,10 +1007,7 @@
 
 ### Strings
 
-- [statsweb_italian.vdf](community/stats_website/statsweb_italian.vdf) has 2 untranslated strings.
-- [gameui_italian.txt](resource/gameui_italian.txt) has 27 untranslated strings.
-- [reactivedrop_italian.txt](resource/reactivedrop_italian.txt) has 48 untranslated strings.
-- [valve_italian.txt](resource/valve_italian.txt) has 5 untranslated strings.
+- [reactivedrop_italian.txt](resource/reactivedrop_italian.txt) has 6 untranslated strings.
 
 </details>
 
@@ -1028,9 +1021,6 @@
 
 - [signage_japanese.vdf](misc/signage/signage_japanese.vdf) has 67 untranslated strings.
 - [vgui_japanese.txt](platform/vgui_japanese.txt) has 35 untranslated strings.
-- [gameui_japanese.txt](resource/gameui_japanese.txt) has 30 untranslated strings.
-- [reactivedrop_japanese.txt](resource/reactivedrop_japanese.txt) has 48 untranslated strings.
-- [valve_japanese.txt](resource/valve_japanese.txt) has 5 untranslated strings.
 
 </details>
 
