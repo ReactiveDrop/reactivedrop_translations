@@ -19,4 +19,6 @@ Additionally, we've fixed some bugs and added two new advanced configuration opt
 [*]Reduced storage and memory usage for inventory item icons like medals. They also load faster the first time they are displayed.
 [*]The ForcePickUp and ForceDrop inputs and the OnPickedUp and OnDropped outputs are now available on all weapon entities, not just rd_weapon_generic_object.
 [*]The Swarmopedia model viewer now supports bone merge, pose parameters, and animation blending.
-[/list]</string><string id="subtitle"></string><string id="summary"></string><string id="title">Alien Swarm: Reactive Drop Update - July 1, 2023</string></content>
+[/list]
+
+As a final note, there is one month left before the entry deadline for [url=https://stats.reactivedrop.com/leaderboards/by-tag/bossfight2023]the 2023 mapping competition[/url]. There's still time to get an entry in, even if it's your first time making a map.</string><string id="subtitle"></string><string id="summary"></string><string id="title">Alien Swarm: Reactive Drop Update - July 1, 2023</string></content>
