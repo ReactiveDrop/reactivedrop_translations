@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<content><string id="body">Interstellar Armed Forcesの英雄たち用のサーバーが対応ミッションリストを受信する方式を変更しました。これによりゲーム本体をアップデートせずともミッションリストを変更できるようになりました。新規追加されたコマンドrd_hoiaf_debugを使えば現在のランクサーバーの設定や使用されているアドオンについての情報が確認できます。
+
+今日から始まるIAFの英雄たち新シーズンに向けて、3つのエンドレスミッションを追加しました:
+[list]
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2809765323]Infinite Landing Bay[/url] 制作者: jhheight
+[*]IAF Marine Academy 制作者: jhheight
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2990264624]The Gauntlet: Arctic[/url] 制作者: Stral and Synmachus
+[/list]
+エンドレスミッション中に高いスコアを出せばその分貰えるランクポイントも増加します。いつも通りに、スコア設定が低すぎたり高すぎたりしてないかどうかのフィードバックもお待ちしています。
+
+更に、いくつかのバグ修正と、高度な設定内容を2つと、mod制作者用の機能をいくつか追加しました。
+[list]
+[*]遠隔操作タレットのモデルが想定より高い位置に設置されていたのを修正。
+[*]ミッション完了画面中にクイーンのヘルスバーが表示されるのを修正。
+[*]シングルプレイヤーモードでキャンペーンではないミッションが4人部屋しか使えなかったのを修正。
+[*]コンソール変数を追加: rd_represented_country。 デフォルトでは空欄になっており、Steamと接続しているIPを基準に居住国が設定されます(以前と同じ判定基準)。autoexec.cfgに2文字の国コードを手動で記述したり、XXと書けばリーダーボード上で居住国を隠すことも可能です。
+[*]コンソール変数を追加: rd_movement_relative_to_aim。 1に設定されている場合、見下ろし視点で操作中の隊員が前進する方向がカメラ基準ではなく隊員が向いている方向基準となります。bind +forwardでマウスに前進ボタンを割り振りたいプレイヤー向けです。
+[*]勲章などのインベントリアイテムに使用するストレージとメモリ容量を減少させました。初めて表示する時のロード時間も短くなります。
+[*]ForcePickUpとForceDropの入力、OnPickedUpとOnDroppedの出力がrd_weapon_generic_objectだけではなく全ての武器に実装されました。
+[*]エイリアン図鑑のモデル表示がbone merge、pose parameters、animation blendingに対応しました。
+[/list]
+
+最後に、[url=https://stats.reactivedrop.com/leaderboards/by-tag/bossfight2023]2023年度マップ作成コンテスト[/url]の参加締め切りまで残り1ヶ月となりました。マップ作りが初めてだとしても、まだ間に合う時間はありますよ。</string><string id="subtitle"></string><string id="summary"></string><string id="title">Alien Swarm: Reactive Dropアップデート - 2023年7月1日</string></content>
