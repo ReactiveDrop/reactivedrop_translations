@@ -253,4 +253,6 @@ var inventoryKeyPrefixes = [...]string{
 	"style_62_name_",
 	"style_63_name_",
 	// 64 styles is enough for anyone --Bill Gates, probably
+	"notification_name_0_",
+	"notification_name_1_",
 }
