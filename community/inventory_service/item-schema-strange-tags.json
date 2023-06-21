@@ -149,11 +149,7 @@
 			"exchange": "4000,strange:5004",
 			"tags": "strange:5004",
 			"compressed_dynamic_props": "strange_5004",
-			"strange_notify_every": 25,
-			"strange_notify_0": 5,
-			"strange_notify_1": 10,
-			"strange_notify_2": 15,
-			"strange_notify_3": 20
+			"strange_notify_every": 1
 		},
 		{
 			"itemdefid": 5005,
