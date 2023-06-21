@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<content><string id="body">Stiamo lavorando duramente all'aggiornamento principale del prossimo anno, ma nel frattempo c'erano alcuni problemi che volevamo risolvere con maggiore urgenza. Questa versione risolve alcuni crash, stranezze con le armi, problemi con le nuove mappe e contiene anche un miglioramento del controllo del mapper sugli oggetti che i soldati possono raccogliere.
+
+[h1]Competizione di Mapping 2023: "Combatti i Boss"[/h1]
+
+Siamo a poco più di un terzo della scadenza per la nostra [url=https://store.steampowered.com/news/app/563560/view/3267945303133398273]prima competizione di mapping annuale[/url]. A due mesi dalla scadenza, c'è ancora molto tempo per partecipare, anche per chi non ha mai realizzato una mappa in Source Engine!
+
+[h1]Missioni[/h1]
+
+[list]
+[*][b]Research 7: Research 7:[/b] Corretta la riproduzione di musica errata.
+[*][b]Research 7: Foresta di Illyn[/b] Corretta la riproduzione di musica errata.
+[*][b]Tilarus-5: Miniera di Yanaurus:[/b] Corretto un suggerimento dell'istruttore che persisteva al riavvio della missione.
+[*][b]Tilarus-5: Miniera di Yanaurus:[/b] Corretto il terreno nell'area delle miniere in cui i soldati potevano rimanere bloccati vicino al pulsante.
+[*][b]Accident 32:[/b] Corretta la mappa della campagna che risulta sfocata su alcune configurazioni grafiche.
+[*][b]Reattore di Rydberg Invertito:[/b] Sostituiti i buzzer infiniti con uno spawn unico vicino all'inizio della missione.
+[*][b]Reattore di Rydberg Invertito:[/b] Distribuiti o rimossi gli spawn alieni vicino alla porta della camera di compensazione aperta.
+[*][b]Reattore di Rydberg Invertito:[/b] Impedito alle orde di spawnare dietro le camere di compensazione chiuse.
+[*][b]Ascensore da Carico Invertito:[/b] Aggiunto un muro di neve nell'area subito dopo l'ascensore per evitare di vedere il limite della mappa con la telecamera ruotata.
+[*][b]Ascensore da Carico Invertito:[/b] Riduzione delle dimensioni del graph di navigazione dell'IA e correzione dello spawn di alieni in luoghi irraggiungibili.
+[*][b]Ascensore da Carico Invertito:[/b] Rimossa la casualità della posizione di spawn degli alieni.
+[*][b]Ascensore da Carico Invertito:[/b] Corretti i droni che respawnano fuori dalla cabina dell'ascensore o che cadono sotto il pavimento.
+[*][b]Ascensore da Carico Invertito:[/b] Aggiunta la logica per rimuovere gli alieni lasciati indietro quando si entra nell'ascensore.
+[*][b]Ascensore da Carico Invertito:[/b] Ridotto il numero di alieni che spawnati quando si esce dall'ascensore.
+[*][b]Baia d'Atterraggio Invertita:[/b] Corrette le posizioni di spawn degli alieni bloccate dal terreno.
+[/list]
+
+[h1]Armi[/h1]
+
+[list]
+[*][b]Armatura Elettrica Caricata v45:[/b] Corretto il conteggio degli schieramenti che viene elencato come un duplicato della statistica "Danno Bloccato". Aggiunta una nota alla voce della Swarmopedia che chiarisce che questa armatura blocca il 75% dei danni in mischia quando è attiva.
+[*][b]PS50 Bulldog:[/b] Corretto l'invio di un evento di scripting weapon_fired ogni fotogramma quando si tiene premuto il pulsante di fuoco.
+[*][b]Pistola Medica Amplificatrice IAF:[/b] Corretto il fatto che quest'arma non avesse una capacità di munizioni secondarie sufficiente per il numero di munizioni predefinito di Bastille, in quanto l'arma diventava ricaricabile e le munizioni primarie venivano scartate.
+[*][b]SMG Medica IAF:[/b] Corretto il fatto che quest'arma evidenzi i potenziali bersagli di guarigione in base alla presenza o meno di munizioni primarie.
+[/list]
+
+[h1]Varie[/h1]
+
+[list]
+[*]Corretto un crash quando si avvia il gioco con una versione di Proton o del client di Steam troppo vecchia. Aggiunto un messaggio che spiega come cambiare la versione di Proton.
+[*]L'invio di troppi comandi contemporaneamente al server ora disconnette il client anziché bloccarlo. Il gioco scriverà un file che può essere utilizzato per capire cosa lo causa. Riteniamo che sia questa la causa del blocco della schermata di successo/fallimento della missione per alcuni giocatori.
+[*]Aggiunta una soluzione per il mancato caricamento della campagna del workshop "Revenant - The Lost Voyage" a causa di un errore di sintassi nel file della campagna.
+[*]Ritarda la registrazione della demo di 50 fotogrammi dopo un riavvio istantaneo, per evitare di creare demo che non possono essere riprodotte. Configurabile con la variabile rd_auto_record_delay_start_frames.
+[*]Corretto il fatto che asw_custom_skill_points fosse classificato come impostazione piuttosto che come variabile di sfida.
+[*]Modificato il valore predefinito di rd_chatwipe per non cancellare la chat dopo un ritardo.
+[*]rd_reduce_motion ora disabilita le telecamere di briefing. Si può anche impostare rd_disable_briefing_camera se si desidera questa funzionalità senza le altre modifiche apportate da rd_reduce_motion.
+[*]Corretto l'utilizzo di joy_pitchsensitivity e joy_yawsensitivity quando si usa un controller in prima persona.
+[*]Corretto il menu del VScript/SourceMod che persiste durante il riavvio della missione.
+[*]Abbiamo aggiunto altre opzioni per [url=https://store.steampowered.com/itemstore/563560/]donare ai contributori di Alien Swarm: Reactive Drop[/url], questa volta aggiungendo artisti, programmatori, host di server e traduttori.
+[/list]
+
+[h1]Mapping[/h1]
+
+[list]
+[*]rd_weapon_generic_object può essere assegnato ad una icona (vedi [url=https://steamcommunity.com/sharedfiles/filedetails/?id=914386392]il tutorial di Haikü su come creare icone per armi[/url]).
+[*]rd_weapon_generic_object ora ha input ForcePickUp e ForceDrop ma anche output OnPrimaryAttack, OnSecondaryAttack, OnReload, OnPickedUp e OnDropped in Hammer.
+[/list]
+</string><string id="subtitle"></string><string id="summary"></string><string id="title">Aggiornamento di Alien Swarm: Reactive Drop Update - 1 Giugno 2023</string></content>
