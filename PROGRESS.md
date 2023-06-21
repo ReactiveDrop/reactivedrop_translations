@@ -18,7 +18,7 @@
 | [European Portuguese](#portuguese-português-europeu) | ✔️ | 180 | 32 | 1702 | 19 | 503 | 454 | 139 |
 | [Brazilian Portuguese](#brazilian-português) | 2 | 2004 | 32 | 836 | 7 | 151 | 215 | 6 |
 | [Romanian](#non-curated-languages) | 51 | 1996 | 48 | 3288 | 198 | 850 | 490 | 146 |
-| [Russian](#russian-русский) | ✔️ | ✔️ | 27 | 48 | ✔️ | 9 | ✔️ | ✔️ |
+| [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | 48 | ✔️ | 9 | ✔️ | ✔️ |
 | [European Spanish](#spanish-español-de-españa) | 28 | 2004 | 40 | 1992 | 198 | 589 | 440 | 145 |
 | [Latin American Spanish](#latam-español-latinoamericano) | 1281 | 2004 | 634 | 4088 | 202 | 855 | 526 | 146 |
 | [Swedish](#non-curated-languages) | 51 | 2004 | 42 | 2577 | 198 | 585 | 444 | 146 |
@@ -2018,7 +2018,6 @@
 ### Strings
 
 - [inventory_service_tags_russian.vdf](community/inventory_service/inventory_service_tags_russian.vdf) has 4 untranslated strings.
-- [gameui_russian.txt](resource/gameui_russian.txt) has 27 untranslated strings.
 - [reactivedrop_russian.txt](resource/reactivedrop_russian.txt) has 48 untranslated strings.
 - [valve_russian.txt](resource/valve_russian.txt) has 5 untranslated strings.
 
