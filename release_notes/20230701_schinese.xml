@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<content><string id="body">我们对IAF英雄榜服务器接收任务列表的方式进行了改进，现在可以在不进行完整游戏更新的情况下修改任务列表。此外还增加了一个新命令rd_hoiaf_debug来查看当前排位服务器配置及加载插件的相关信息。
+
+今日起，HoIAF排位服增加3张无尽任务地图：
+[list]
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2809765323]无尽着陆湾[/url]，地图作者：jhheight
+[*]IAF陆军学院，地图作者：jhheight
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2990264624]The Gauntlet: Arctic[/url] 地图作者：Stral和Synmachus
+[/list]
+在一个无尽任务中取得高的分数会在游戏结束后获得更高的积分。和之前一样，如果我们不小心将评分参数设置的过高或过低，请务必告诉我们。
+
+此外，我们还修复了一些漏洞、增加了一些新的高级选项以及为模组作者提供了新的功能。
+[list]
+[*]修复 远处的哨戒枪/炮模型显示的比实际位置要高的错误。
+[*]修复 女王血条在战后总结界面可见的错误。
+[*]修复 单人非战役大厅被限制为4人的错误。
+[*]增加 新指令：rd_represented_country。默认为空，此时你的国家/地区信息将根据你连接到Steam的IP来自动设置（和之前一样）。也可以通过autoexec.cfg配置文件来手动设置为制定的国家/地区代码（国际通用的双字符代码，例如CN/HK/TW等），如果你不希望在排行榜上展示国家/地区标识，可以将其设置为“XX”。
+[*]增加 新指令：rd_movement_relative_to_aim。如果设置为1，俯视角下士兵的前进方向将会基于士兵的朝向而非摄像机朝向。目的是为了方便那些希望将前进命令绑定到鼠标按键的玩家。
+[*]改进 降低诸如勋章等的物品栏图标的存储和内存占用。同时它们在第一次加载时也会更快。
+[*]改进 ForcePickUp和ForceDrop输入以及OnPickedUp和OnDropped输出现在对所有武器实体生效而非仅对rd_weapon_generic_object生效。
+[*]改进 虫群百科模型查看器现在支持骨骼合并、姿势参数和动画混合。
+[/list]
+
+最后提一句，距离[url=https://stats.reactivedrop.com/leaderboards/by-tag/bossfight2023]2023地图竞赛[/url]截止日期仅剩一月。不过依然还有时间提交作品，哪怕你是第一次尝试制作地图。</string><string id="subtitle"></string><string id="summary"></string><string id="title">《异形丛生：虫启天降》更新 - 2023年7月1日</string></content>
