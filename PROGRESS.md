@@ -1,14 +1,14 @@
 # Overview
 | Language | basemodui | closecaption | gameui | reactivedrop | statsweb | Strings | Inventory | Files |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 1 |
+| [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Traditional Chinese](#tchinese-繁體中文) | 9 | 140 | 33 | 2464 | 198 | 206 | 442 | 144 |
 | [Czech](#czech-čeština) | 71 | 1810 | 42 | 3581 | 198 | 855 | 512 | 144 |
 | [Danish](#non-curated-languages) | 52 | 231 | 42 | 3109 | 198 | 585 | 507 | 145 |
 | [Dutch](#non-curated-languages) | 51 | 2004 | 42 | 2577 | 198 | 585 | 444 | 144 |
 | [Finnish](#non-curated-languages) | 51 | 2004 | 42 | 2577 | 198 | 585 | 444 | 144 |
 | [French](#french-français) | 27 | 138 | 42 | 1942 | 198 | 525 | 430 | 123 |
-| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 1 |
+| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Hungarian](#non-curated-languages) | 51 | 138 | 42 | 2577 | 198 | 850 | 444 | 145 |
 | [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | 6 | ✔️ | ✔️ | ✔️ | 1 |
 | [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 102 | ✔️ | ✔️ |
@@ -40,9 +40,7 @@
 
 </summary>
 
-### Upcoming Release Notes
-
-- [20230701_schinese.xml](release_notes/20230701_english.xml) is missing.
+✓ Up to date!
 
 </details>
 
@@ -990,9 +988,7 @@
 
 </summary>
 
-### Upcoming Release Notes
-
-- [20230701_german.xml](release_notes/20230701_english.xml) is missing.
+✓ Up to date!
 
 </details>
 
