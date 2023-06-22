@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<content><string id="body">Wir haben Änderungen an der Art und Weise vorgenommen, wie die Server von Helden der interstellaren Streitkräfte ihre Einsatzliste erhalten, damit sie geändert werden kann, ohne dass ein komplettes Spielupdate erforderlich ist. Es wurde ein neuer Befehl rd_hoiaf_debug hinzugefügt, um Informationen über die aktuelle Ranglisten-Serverkonfiguration und geladene Addons anzuzeigen.
+
+Außerdem fügen wir heute die ersten drei Endloseinsätze von HoIAF hinzu:
+[list]
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2809765323]Landungsbucht Endlos[/url] von jhheight
+[*]IAF Marine Academy by jhheight
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2990264624]Der Spießrutenlauf: Arktis[/url] von Stral und Synmachus
+[/list]
+Eine höhere Punktzahl innerhalb einem Endloseinsatz erhöht die Anzahl der Punkte, die du für das Abschließen des Einsatzes erhältst. Wie immer freuen wir uns über Feedback zu den Punkten, falls wir versehentlich etwas zu hoch oder zu niedrig bewertet haben.
+
+Außerdem haben wir einige Fehler behoben und zwei neue erweiterte Konfigurationsoptionen sowie einige Funktionen für Modder hinzugefügt.
+[list]
+[*]Das Modell des ferngesteuerten Geschützturms erschien viel höher als beabsichtigt.
+[*]Der Gesundheitsbalken der Königin ist während der Nachbesprechung nicht mehr sichtbar.
+[*]Einzelspieler-Lobbys und Nicht-Feldzüge sind nicht mehr auf 4 Soldaten begrenzt.
+[*]Ein neuer ConVar wurde hinzugefügt: rd_represented_country. Standardmäßig (leer) ist hier dein Land eingestellt, das auf der IP-Adresse basiert, die du für die Verbindung zu Steam verwendest (wie zuvor). Kann in der autoexec.cfg auf einen anderen zweistelligen Ländercode oder auf XX gesetzt werden, wenn du kein Land in den Ranglisten darstellen willst.
+[*]Ein neuer ConVar wurde hinzugefügt: rd_movement_relative_to_aim. Wenn du diesen Wert auf 1 setzt, richtet sich die Vorwärtsrichtung deines Soldaten in der Draufsicht nach dem Winkel des Soldaten und nicht nach dem Winkel der Kamera. Für Spieler, die +forward auf eine Maustaste binden wollen.
+[*]Der Speicherbedarf für Inventar-Icons sowie Medaillen wurde reduziert. Außerdem werden sie beim ersten Mal, wenn sie angezeigt werden, schneller geladen.
+[*]Die Eingänge ForcePickUp und ForceDrop sowie die Ausgänge OnPickedUp und OnDropped sind jetzt für alle Waffenentitäten verfügbar, nicht nur für rd_weapon_generic_object.
+[*]Der Swarmopedia-Modellbetrachter unterstützt jetzt Bone Merge, Posenparameter und Animation Blending.
+[/list]
+
+Zum Schluss noch ein Hinweis: Es ist noch ein Monat bis zum Einsendeschluss für den [url=https://stats.reactivedrop.com/leaderboards/by-tag/bossfight2023?lang=en]Mapping-Wettbewerb 2023[/url]. Es ist noch Zeit, einen Beitrag einzureichen, auch wenn du zum ersten Mal eine Karte erstellst.</string><string id="subtitle"></string><string id="summary"></string><string id="title">Alien Swarm: Reactive Drop Update - 1. Juli 2023</string></content>
