@@ -10,7 +10,7 @@
 | [French](#french-français) | 27 | 138 | 42 | 1942 | 198 | 525 | 430 | 123 |
 | [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Hungarian](#non-curated-languages) | 51 | 138 | 42 | 2577 | 198 | 850 | 444 | 145 |
-| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | 6 | ✔️ | ✔️ | ✔️ | 1 |
+| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 102 | ✔️ | ✔️ |
 | [Korean](#koreana-한국어) | 7 | 10 | 38 | 1073 | 20 | 316 | 430 | 46 |
 | [Norwegian Bokmål](#non-curated-languages) | 69 | 708 | 47 | 3283 | 198 | 585 | 513 | 145 |
@@ -18,7 +18,7 @@
 | [European Portuguese](#portuguese-português-europeu) | ✔️ | 180 | 32 | 1702 | 19 | 503 | 454 | 138 |
 | [Brazilian Portuguese](#brazilian-português) | 2 | 2004 | 32 | 836 | 7 | 151 | 215 | 5 |
 | [Romanian](#non-curated-languages) | 51 | 1996 | 48 | 3288 | 198 | 850 | 490 | 145 |
-| [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | 48 | ✔️ | 9 | ✔️ | 1 |
+| [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | 48 | ✔️ | 9 | ✔️ | ✔️ |
 | [European Spanish](#spanish-español-de-españa) | 28 | 2004 | 40 | 1992 | 198 | 589 | 440 | 144 |
 | [Latin American Spanish](#latam-español-latinoamericano) | 1281 | 2004 | 634 | 4088 | 202 | 855 | 526 | 145 |
 | [Swedish](#non-curated-languages) | 51 | 2004 | 42 | 2577 | 198 | 585 | 444 | 145 |
@@ -998,13 +998,7 @@
 
 </summary>
 
-### Strings
-
-- [reactivedrop_italian.txt](resource/reactivedrop_italian.txt) has 6 untranslated strings.
-
-### Upcoming Release Notes
-
-- [20230701_italian.xml](release_notes/20230701_english.xml) is missing.
+✓ Up to date!
 
 </details>
 
@@ -2017,10 +2011,6 @@
 - [inventory_service_tags_russian.vdf](community/inventory_service/inventory_service_tags_russian.vdf) has 4 untranslated strings.
 - [reactivedrop_russian.txt](resource/reactivedrop_russian.txt) has 48 untranslated strings.
 - [valve_russian.txt](resource/valve_russian.txt) has 5 untranslated strings.
-
-### Upcoming Release Notes
-
-- [20230701_russian.xml](release_notes/20230701_english.xml) is missing.
 
 </details>
 
