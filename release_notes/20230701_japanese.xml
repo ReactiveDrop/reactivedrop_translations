@@ -21,6 +21,7 @@
 [*]コンソール変数を追加: rd_represented_country。 デフォルトでは空欄になっており、Steamと接続しているIPを基準に居住国が設定されます(以前と同じ判定基準)。autoexec.cfgに2文字の国コードを手動で記述したり、XXと書けばリーダーボード上で居住国を隠すことも可能です。
 [*]コンソール変数を追加: rd_movement_relative_to_aim。 1に設定されている場合、見下ろし視点で操作中の隊員が前進する方向がカメラ基準ではなく隊員が向いている方向基準となります。bind +forwardでマウスに前進ボタンを割り振りたいプレイヤー向けです。
 		[*]Added new challenge ConVars: asw_marine_gun_offset_x, asw_marine_gun_offset_y, and asw_marine_gun_offset_z. For example, to make marines shoot out of the center of the first person camera, a challenge can set these to 0, 0, and 70.
+		[*]Added a new challenge ConVar: rd_grenade_gravity. It affects the gravity of the assault rifle's grenade. Default value is 0.05.
 		[*]Added two new VScript methods to triggers: GetNumTouching() and GetTouching(index)
 		[*]Added a new entity: [url=https://developer.valvesoftware.com/wiki/List_of_Reactive_Drop_Script_Functions#CRD_HUD_VScript]rd_hud_vscript[/url].
 [*]勲章などのインベントリアイテムに使用するストレージとメモリ容量を減少させました。初めて表示する時のロード時間も短くなります。
