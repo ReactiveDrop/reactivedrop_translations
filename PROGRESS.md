@@ -42,7 +42,7 @@
 
 ### Upcoming Release Notes
 
-- [20230701_schinese.xml](release_notes/20230701_schinese.xml) has 7 indented lines.
+- [20230701_schinese.xml](release_notes/20230701_schinese.xml) has 1 indented lines.
 
 </details>
 
