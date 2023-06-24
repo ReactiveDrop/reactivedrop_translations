@@ -1,24 +1,24 @@
 # Overview
 | Language | basemodui | closecaption | gameui | reactivedrop | statsweb | Strings | Inventory | Files |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
+| [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 1 |
 | [Traditional Chinese](#tchinese-繁體中文) | 9 | 140 | 33 | 2464 | 198 | 206 | 442 | 144 |
 | [Czech](#czech-čeština) | 71 | 1810 | 42 | 3581 | 198 | 855 | 512 | 144 |
 | [Danish](#non-curated-languages) | 52 | 231 | 42 | 3109 | 198 | 585 | 507 | 145 |
 | [Dutch](#non-curated-languages) | 51 | 2004 | 42 | 2577 | 198 | 585 | 444 | 144 |
 | [Finnish](#non-curated-languages) | 51 | 2004 | 42 | 2577 | 198 | 585 | 444 | 144 |
 | [French](#french-français) | 27 | 138 | 42 | 1942 | 198 | 525 | 430 | 123 |
-| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
+| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 1 |
 | [Hungarian](#non-curated-languages) | 51 | 138 | 42 | 2577 | 198 | 850 | 444 | 145 |
-| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
-| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 102 | ✔️ | ✔️ |
+| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 1 |
+| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 102 | ✔️ | 1 |
 | [Korean](#koreana-한국어) | 7 | 10 | 38 | 1073 | 20 | 316 | 430 | 46 |
 | [Norwegian Bokmål](#non-curated-languages) | 69 | 708 | 47 | 3283 | 198 | 585 | 513 | 145 |
 | [Polish](#polish-polski) | 28 | 2004 | 42 | 2577 | 198 | 581 | 444 | 140 |
 | [European Portuguese](#portuguese-português-europeu) | ✔️ | 180 | 32 | 1702 | 19 | 503 | 454 | 138 |
 | [Brazilian Portuguese](#brazilian-português) | 2 | 2004 | 32 | 836 | 7 | 151 | 215 | 5 |
 | [Romanian](#non-curated-languages) | 51 | 1996 | 48 | 3288 | 198 | 850 | 490 | 145 |
-| [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | 48 | ✔️ | 9 | ✔️ | ✔️ |
+| [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | 48 | ✔️ | 9 | ✔️ | 1 |
 | [European Spanish](#spanish-español-de-españa) | 28 | 2004 | 40 | 1992 | 198 | 589 | 440 | 144 |
 | [Latin American Spanish](#latam-español-latinoamericano) | 1281 | 2004 | 634 | 4088 | 202 | 855 | 526 | 145 |
 | [Swedish](#non-curated-languages) | 51 | 2004 | 42 | 2577 | 198 | 585 | 444 | 145 |
@@ -40,7 +40,9 @@
 
 </summary>
 
-✓ Up to date!
+### Upcoming Release Notes
+
+- [20230701_schinese.xml](release_notes/20230701_schinese.xml) has 6 indented lines.
 
 </details>
 
@@ -988,7 +990,9 @@
 
 </summary>
 
-✓ Up to date!
+### Upcoming Release Notes
+
+- [20230701_german.xml](release_notes/20230701_german.xml) has 6 indented lines.
 
 </details>
 
@@ -998,7 +1002,9 @@
 
 </summary>
 
-✓ Up to date!
+### Upcoming Release Notes
+
+- [20230701_italian.xml](release_notes/20230701_italian.xml) has 6 indented lines.
 
 </details>
 
@@ -1012,6 +1018,10 @@
 
 - [signage_japanese.vdf](misc/signage/signage_japanese.vdf) has 67 untranslated strings.
 - [vgui_japanese.txt](platform/vgui_japanese.txt) has 35 untranslated strings.
+
+### Upcoming Release Notes
+
+- [20230701_japanese.xml](release_notes/20230701_japanese.xml) has 6 indented lines.
 
 </details>
 
@@ -2011,6 +2021,10 @@
 - [inventory_service_tags_russian.vdf](community/inventory_service/inventory_service_tags_russian.vdf) has 4 untranslated strings.
 - [reactivedrop_russian.txt](resource/reactivedrop_russian.txt) has 48 untranslated strings.
 - [valve_russian.txt](resource/valve_russian.txt) has 5 untranslated strings.
+
+### Upcoming Release Notes
+
+- [20230701_russian.xml](release_notes/20230701_russian.xml) has 6 indented lines.
 
 </details>
 
