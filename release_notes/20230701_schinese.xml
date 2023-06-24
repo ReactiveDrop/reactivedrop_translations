@@ -9,13 +9,20 @@
 [/list]
 在一个无尽任务中取得高的分数会在游戏结束后获得更高的积分。和之前一样，如果我们不小心将评分参数设置的过高或过低，请务必告诉我们。
 
+		[url=https://developer.reactivedrop.com/hoiaf.html#july-1-2023-season-13]View the full list of Heroes of the Interstellar Armed Forces changes on the developer website.[/url]
+
 此外，我们还修复了一些漏洞、增加了一些新的高级选项以及为模组作者提供了新的功能。
 [list]
 [*]修复 远处的哨戒枪/炮模型显示的比实际位置要高的错误。
 [*]修复 女王血条在战后总结界面可见的错误。
 [*]修复 单人非战役大厅被限制为4人的错误。
+		[*][b]Accident 32: J5 Connector:[/b] Fixed shower water causing on-damage effects like L3A Tactical Heavy Armor losing charges and aliens moving slowly.
+		[*]In game modes that allow reviving, knocked-out marines in the escape area no longer count towards finishing a mission and knocked-out marines outside of the escape area now count as dead for the purpose of finishing a mission.
 [*]增加 新指令：rd_represented_country。默认为空，此时你的国家/地区信息将根据你连接到Steam的IP来自动设置（和之前一样）。也可以通过autoexec.cfg配置文件来手动设置为制定的国家/地区代码（国际通用的双字符代码，例如CN/HK/TW等），如果你不希望在排行榜上展示国家/地区标识，可以将其设置为“XX”。
 [*]增加 新指令：rd_movement_relative_to_aim。如果设置为1，俯视角下士兵的前进方向将会基于士兵的朝向而非摄像机朝向。目的是为了方便那些希望将前进命令绑定到鼠标按键的玩家。
+		[*]Added new challenge ConVars: asw_marine_gun_offset_x, asw_marine_gun_offset_y, and asw_marine_gun_offset_z. For example, to make marines shoot out of the center of the first person camera, a challenge can set these to 0, 0, and 70.
+		[*]Added two new VScript methods to triggers: GetNumTouching() and GetTouching(index)
+		[*]Added a new entity: [url=https://developer.valvesoftware.com/wiki/List_of_Reactive_Drop_Script_Functions#CRD_HUD_VScript]rd_hud_vscript[/url].
 [*]改进 降低诸如勋章等的物品栏图标的存储和内存占用。同时它们在第一次加载时也会更快。
 [*]改进 ForcePickUp和ForceDrop输入以及OnPickedUp和OnDropped输出现在对所有武器实体生效而非仅对rd_weapon_generic_object生效。
 [*]改进 虫群百科模型查看器现在支持骨骼合并、姿势参数和动画混合。

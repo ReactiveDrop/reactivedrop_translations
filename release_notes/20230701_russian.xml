@@ -9,13 +9,20 @@
 [/list]
 Более высокий результат в бесконечной миссии увеличит количество очков, которые вы получите за её выполнение. Как всегда, мы ждём отзывов о начислении очков, если мы случайно оценили что-то слишком высоко или слишком низко.
 
+		[url=https://developer.reactivedrop.com/hoiaf.html#july-1-2023-season-13]View the full list of Heroes of the Interstellar Armed Forces changes on the developer website.[/url]
+
 Кроме того, мы исправили некоторые ошибки и добавили две новые расширенные настройки конфигурации и некоторые функции для создателей модификаций.
 [list]
 [*]Исправлена модель управляемой турели, отображающаяся намного выше, чем предполагалось.
 [*]Исправлено отображение шкалы здоровья королевы во время завершения миссии.
 [*]Исправлено ограничение лобби одиночной игры без кампании до 4 бойцов.
+		[*][b]Accident 32: J5 Connector:[/b] Fixed shower water causing on-damage effects like L3A Tactical Heavy Armor losing charges and aliens moving slowly.
+		[*]In game modes that allow reviving, knocked-out marines in the escape area no longer count towards finishing a mission and knocked-out marines outside of the escape area now count as dead for the purpose of finishing a mission.
 [*]Добавлена новая переменная: rd_represented_country. По умолчанию (пустая) она будет установлена на вашу страну, основанную на IP-адресе, который вы используете для подключения к Steam (как и раньше). Можно установить в autoexec.cfg другой двухсимвольный код страны или значение XX, если вы не хотите представлять страну в таблицах лидеров.
 [*]Добавлена новая переменная: rd_movement_relative_to_aim. Если установлено значение 1, направление движения персонажа вперёд в режиме вида сверху вниз будет основано на угле наклона персонажа, а не на угле наклона камеры. Предназначено для игроков, которые хотят привязать +forward к кнопке мыши.
+		[*]Added new challenge ConVars: asw_marine_gun_offset_x, asw_marine_gun_offset_y, and asw_marine_gun_offset_z. For example, to make marines shoot out of the center of the first person camera, a challenge can set these to 0, 0, and 70.
+		[*]Added two new VScript methods to triggers: GetNumTouching() and GetTouching(index)
+		[*]Added a new entity: [url=https://developer.valvesoftware.com/wiki/List_of_Reactive_Drop_Script_Functions#CRD_HUD_VScript]rd_hud_vscript[/url].
 [*]Уменьшено использование хранилища и памяти для значков предметов инвентаря, таких как медали. Они также загружаются быстрее при первом отображении.
 [*]Параметры ввода ForcePickUp и ForceDrop и вывода OnPickedUp и OnDropped теперь доступны для всех объектов оружия, а не только для rd_weapon_generic_object.
 [*]Средство просмотра моделей жукопедии теперь поддерживает объединение костей, параметры позы и смешивание анимации.

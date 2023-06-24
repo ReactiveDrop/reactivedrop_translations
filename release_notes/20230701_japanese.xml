@@ -9,13 +9,20 @@
 [/list]
 エンドレスミッション中に高いスコアを出せばその分貰えるランクポイントも増加します。いつも通りに、スコア設定が低すぎたり高すぎたりしてないかどうかのフィードバックもお待ちしています。
 
+		[url=https://developer.reactivedrop.com/hoiaf.html#july-1-2023-season-13]View the full list of Heroes of the Interstellar Armed Forces changes on the developer website.[/url]
+
 更に、いくつかのバグ修正と、高度な設定内容を2つと、mod制作者用の機能をいくつか追加しました。
 [list]
 [*]遠隔操作タレットのモデルが想定より高い位置に設置されていたのを修正。
 [*]ミッション完了画面中にクイーンのヘルスバーが表示されるのを修正。
 [*]シングルプレイヤーモードでキャンペーンではないミッションが4人部屋しか使えなかったのを修正。
+		[*][b]Accident 32: J5 Connector:[/b] Fixed shower water causing on-damage effects like L3A Tactical Heavy Armor losing charges and aliens moving slowly.
+		[*]In game modes that allow reviving, knocked-out marines in the escape area no longer count towards finishing a mission and knocked-out marines outside of the escape area now count as dead for the purpose of finishing a mission.
 [*]コンソール変数を追加: rd_represented_country。 デフォルトでは空欄になっており、Steamと接続しているIPを基準に居住国が設定されます(以前と同じ判定基準)。autoexec.cfgに2文字の国コードを手動で記述したり、XXと書けばリーダーボード上で居住国を隠すことも可能です。
 [*]コンソール変数を追加: rd_movement_relative_to_aim。 1に設定されている場合、見下ろし視点で操作中の隊員が前進する方向がカメラ基準ではなく隊員が向いている方向基準となります。bind +forwardでマウスに前進ボタンを割り振りたいプレイヤー向けです。
+		[*]Added new challenge ConVars: asw_marine_gun_offset_x, asw_marine_gun_offset_y, and asw_marine_gun_offset_z. For example, to make marines shoot out of the center of the first person camera, a challenge can set these to 0, 0, and 70.
+		[*]Added two new VScript methods to triggers: GetNumTouching() and GetTouching(index)
+		[*]Added a new entity: [url=https://developer.valvesoftware.com/wiki/List_of_Reactive_Drop_Script_Functions#CRD_HUD_VScript]rd_hud_vscript[/url].
 [*]勲章などのインベントリアイテムに使用するストレージとメモリ容量を減少させました。初めて表示する時のロード時間も短くなります。
 [*]ForcePickUpとForceDropの入力、OnPickedUpとOnDroppedの出力がrd_weapon_generic_objectだけではなく全ての武器に実装されました。
 [*]エイリアン図鑑のモデル表示がbone merge、pose parameters、animation blendingに対応しました。
