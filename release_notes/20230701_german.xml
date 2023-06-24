@@ -9,21 +9,21 @@ Außerdem fügen wir heute die ersten drei Endloseinsätze von HoIAF hinzu:
 [/list]
 Eine höhere Punktzahl innerhalb einem Endloseinsatz erhöht die Anzahl der Punkte, die du für das Abschließen des Einsatzes erhältst. Wie immer freuen wir uns über Feedback zu den Punkten, falls wir versehentlich etwas zu hoch oder zu niedrig bewertet haben.
 
-		[url=https://developer.reactivedrop.com/hoiaf.html#july-1-2023-season-13]View the full list of Heroes of the Interstellar Armed Forces changes on the developer website.[/url]
+[url=https://developer.reactivedrop.com/hoiaf.html#july-1-2023-season-13]Die vollständige Liste der Änderungen in Helden der interstellaren Streitkräfte findest du auf der Website der Entwickler.[/url]
 
 Außerdem haben wir einige Fehler behoben und zwei neue erweiterte Konfigurationsoptionen sowie einige Funktionen für Modder hinzugefügt.
 [list]
 [*]Das Modell des ferngesteuerten Geschützturms erschien viel höher als beabsichtigt.
 [*]Der Gesundheitsbalken der Königin ist während der Nachbesprechung nicht mehr sichtbar.
 [*]Einzelspieler-Lobbys und Nicht-Feldzüge sind nicht mehr auf 4 Soldaten begrenzt.
-		[*][b]Accident 32: J5 Connector:[/b] Fixed shower water causing on-damage effects like L3A Tactical Heavy Armor losing charges and aliens moving slowly.
-		[*]In game modes that allow reviving, knocked-out marines in the escape area no longer count towards finishing a mission and knocked-out marines outside of the escape area now count as dead for the purpose of finishing a mission.
+[*][b]Unfall 32: J5 Knoten:[/b] Es wurde behoben, dass Duschen Schadenseffekte darstellen, z.B. das die L3A Taktische Schwere Rüstung Ladungen verliert und sich Aliens langsam bewegen.
+[*]In Spielmodi, die eine Wiederbelebung erlauben, zählen ausgeknockte Soldaten im Ausgang nicht mehr für das Beenden eines Einsatzes und ausgeknockte Soldaten außerhalb des Ausgangs zählen jetzt als tot, um einen Einsatz zu beenden.
 [*]Ein neuer ConVar wurde hinzugefügt: rd_represented_country. Standardmäßig (leer) ist hier dein Land eingestellt, das auf der IP-Adresse basiert, die du für die Verbindung zu Steam verwendest (wie zuvor). Kann in der autoexec.cfg auf einen anderen zweistelligen Ländercode oder auf XX gesetzt werden, wenn du kein Land in den Ranglisten darstellen willst.
 [*]Ein neuer ConVar wurde hinzugefügt: rd_movement_relative_to_aim. Wenn du diesen Wert auf 1 setzt, richtet sich die Vorwärtsrichtung deines Soldaten in der Draufsicht nach dem Winkel des Soldaten und nicht nach dem Winkel der Kamera. Für Spieler, die +forward auf eine Maustaste binden wollen.
-		[*]Added new challenge ConVars: asw_marine_gun_offset_x, asw_marine_gun_offset_y, and asw_marine_gun_offset_z. For example, to make marines shoot out of the center of the first person camera, a challenge can set these to 0, 0, and 70.
-		[*]Added a new challenge ConVar: rd_grenade_gravity. It affects the gravity of the assault rifle's grenade. Default value is 0.05.
-		[*]Added two new VScript methods to triggers: GetNumTouching() and GetTouching(index)
-		[*]Added a new entity: [url=https://developer.valvesoftware.com/wiki/List_of_Reactive_Drop_Script_Functions#CRD_HUD_VScript]rd_hud_vscript[/url].
+[*]Neue Herausforderung ConVars hinzugefügt: asw_marine_gun_offset_x, asw_marine_gun_offset_y, und asw_marine_gun_offset_z. Um zum Beispiel Soldaten aus der Mitte der Ego-Kamera schießen zu lassen, kannst du diese Werte auf 0, 0 und 70 setzen.
+[*]Neue Herausforderung ConVar hinzugefügt: rd_grenade_gravity. Sie beeinflusst die Schwerkraft der Granate des Sturmgewehrs. Der Standardwert ist 0,05.
+[*]Zwei neue VScript-Methoden zu Triggern hinzugefügt: GetNumTouching() und GetTouching(index)
+[*]Neue Entität hinzugefügt: [url=https://developer.valvesoftware.com/wiki/List_of_Reactive_Drop_Script_Functions#CRD_HUD_VScript]rd_hud_vscript[/url].
 [*]Der Speicherbedarf für Inventar-Icons sowie Medaillen wurde reduziert. Außerdem werden sie beim ersten Mal, wenn sie angezeigt werden, schneller geladen.
 [*]Die Eingänge ForcePickUp und ForceDrop sowie die Ausgänge OnPickedUp und OnDropped sind jetzt für alle Waffenentitäten verfügbar, nicht nur für rd_weapon_generic_object.
 [*]Der Swarmopedia-Modellbetrachter unterstützt jetzt Bone Merge, Posenparameter und Animation Blending.
