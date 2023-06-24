@@ -21,6 +21,7 @@
 [*]增加 新指令：rd_represented_country。默认为空，此时你的国家/地区信息将根据你连接到Steam的IP来自动设置（和之前一样）。也可以通过autoexec.cfg配置文件来手动设置为制定的国家/地区代码（国际通用的双字符代码，例如CN/HK/TW等），如果你不希望在排行榜上展示国家/地区标识，可以将其设置为“XX”。
 [*]增加 新指令：rd_movement_relative_to_aim。如果设置为1，俯视角下士兵的前进方向将会基于士兵的朝向而非摄像机朝向。目的是为了方便那些希望将前进命令绑定到鼠标按键的玩家。
 [*]增加 新的挑战ConVar：asw_marine_gun_offset_x、asw_marine_gun_offset_y以及asw_marine_gun_offset_z。例如，如果挑战想让士兵在第一人称视角下偏离摄像机中心位置发射子弹，可以将三者分别设置为0, 0, 70。
+		[*]Added a new challenge ConVar: rd_grenade_gravity. It affects the gravity of the assault rifle's grenade. Default value is 0.05.
 [*]增加 两个新的触发器VScript方法：GetNumTouching()和GetTouching(index)
 [*]增加 新的实体：[url=https://developer.valvesoftware.com/wiki/List_of_Reactive_Drop_Script_Functions#CRD_HUD_VScript]rd_hud_vscript[/url]。
 [*]改进 降低诸如勋章等的物品栏图标的存储和内存占用。同时它们在第一次加载时也会更快。

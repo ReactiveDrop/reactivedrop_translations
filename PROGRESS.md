@@ -42,7 +42,7 @@
 
 ### Upcoming Release Notes
 
-- [20230701_schinese.xml](release_notes/20230701_schinese.xml) has 6 indented lines.
+- [20230701_schinese.xml](release_notes/20230701_schinese.xml) has 7 indented lines.
 
 </details>
 
@@ -992,7 +992,7 @@
 
 ### Upcoming Release Notes
 
-- [20230701_german.xml](release_notes/20230701_german.xml) has 6 indented lines.
+- [20230701_german.xml](release_notes/20230701_german.xml) has 7 indented lines.
 
 </details>
 
@@ -1004,7 +1004,7 @@
 
 ### Upcoming Release Notes
 
-- [20230701_italian.xml](release_notes/20230701_italian.xml) has 6 indented lines.
+- [20230701_italian.xml](release_notes/20230701_italian.xml) has 7 indented lines.
 
 </details>
 
@@ -1021,7 +1021,7 @@
 
 ### Upcoming Release Notes
 
-- [20230701_japanese.xml](release_notes/20230701_japanese.xml) has 6 indented lines.
+- [20230701_japanese.xml](release_notes/20230701_japanese.xml) has 7 indented lines.
 
 </details>
 
@@ -2024,7 +2024,7 @@
 
 ### Upcoming Release Notes
 
-- [20230701_russian.xml](release_notes/20230701_russian.xml) has 6 indented lines.
+- [20230701_russian.xml](release_notes/20230701_russian.xml) has 7 indented lines.
 
 </details>
 
