@@ -21,6 +21,7 @@ Additionally, we've fixed some bugs and added two new advanced configuration opt
 [*]Added a new ConVar: rd_represented_country. By default (empty), this will be set to your country based on the IP address you use to connect to Steam (the same as before). Can be set in autoexec.cfg to a different 2-character country code, or to XX if you do not wish to represent a country on leaderboards.
 [*]Added a new ConVar: rd_movement_relative_to_aim. If set to 1, your marine's forward direction in top-down view will be based on the marine's angle rather than the camera's angle. Intended for players who want to bind +forward to a mouse button.
 [*]Added new challenge ConVars: asw_marine_gun_offset_x, asw_marine_gun_offset_y, and asw_marine_gun_offset_z. For example, to make marines shoot out of the center of the first person camera, a challenge can set these to 0, 0, and 70.
+[*]Added a new ConVar: rd_grenade_gravity. It affects the gravity of the assault rifle's grenade. Default value is 0.05.
 [*]Added two new VScript methods to triggers: GetNumTouching() and GetTouching(index)
 [*]Added a new entity: [url=https://developer.valvesoftware.com/wiki/List_of_Reactive_Drop_Script_Functions#CRD_HUD_VScript]rd_hud_vscript[/url].
 [*]Reduced storage and memory usage for inventory item icons like medals. They also load faster the first time they are displayed.
