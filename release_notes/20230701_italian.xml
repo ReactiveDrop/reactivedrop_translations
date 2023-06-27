@@ -1,4 +1,4 @@
-.<?xml version="1.0" encoding="UTF-8" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <content><string id="body">Abbiamo apportato modifiche al modo in cui i server di Eroi delle Forze Armate Interstellari ricevono l'elenco delle missioni, in modo che possano essere modificate senza richiedere un aggiornamento completo del gioco. È stato aggiunto un nuovo comando rd_hoiaf_debug per visualizzare informazioni sulla configurazione corrente del server classificato e sugli addon caricati.
 
 Stiamo anche aggiungendo le prime tre missioni infinite di HoIAF a partire da oggi:
