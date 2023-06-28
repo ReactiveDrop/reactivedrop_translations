@@ -9,21 +9,21 @@ Stiamo anche aggiungendo le prime tre missioni infinite di HoIAF a partire da og
 [/list]
 Un punteggio più alto in una missione infinita aumenterà il numero di punti ricevuti per averla completata. Come sempre, siamo alla ricerca di feedback sul punteggio se per sbaglio abbiamo assegnato un punteggio troppo alto o troppo basso.
 
-		[url=https://developer.reactivedrop.com/hoiaf.html#july-1-2023-season-13]View the full list of Heroes of the Interstellar Armed Forces changes on the developer website.[/url]
+[url=https://developer.reactivedrop.com/hoiaf.html#july-1-2023-season-13]Guarda la lista completa di cambiamenti a Eroi delle Forze Armate Interstellari nel sito web dello sviluppatore.[/url]
 
 Inoltre, abbiamo risolto alcuni bug e aggiunto due nuove opzioni di configurazione avanzate e alcune funzioni per i modder.
 [list]
 [*]Corretto il modello di torretta remota che appare molto più alto del previsto.
 [*]Corretto il fatto che la barra della salute della regina sia visibile durante il debriefing.
 [*]Corretto il limite di 4 soldati per le lobby giocatore singolo non in campagna.
-		[*][b]Accident 32: J5 Connector:[/b] Fixed shower water causing on-damage effects like L3A Tactical Heavy Armor losing charges and aliens moving slowly.
-		[*]In game modes that allow reviving, knocked-out marines in the escape area no longer count towards finishing a mission and knocked-out marines outside of the escape area now count as dead for the purpose of finishing a mission.
+[*][b]Accident 32: Connettore J5:[/b] Risolto il problema con l'acqua della doccia che causava effetti di danno come l'armatura pesante tattica L3A che perdeva cariche o gli alieni che si muovevano lentamente.
+[*]Nelle modalità di gioco che consentono la rianimazione, i soldati eliminati nell'area di fuga non contano più per il completamento di una missione e i soldati eliminati al di fuori dell'area di fuga ora contano come morti ai fini del completamento di una missione.
 [*]Aggiunta una nuova ConVar: rd_represented_country. Per impostazione predefinita (vuota), sarà impostata sul paese in base all'indirizzo IP utilizzato per connettersi a Steam (come in precedenza). Può essere impostata in autoexec.cfg su un codice paese diverso di due caratteri o su XX se non si desidera rappresentare un paese nelle classifiche.
 [*]Aggiunta una nuova ConVar: rd_movement_relative_to_aim. Se impostata a 1, la direzione del soldato in avanti nella visuale dall'alto si baserà sull'angolo del soldato anziché su quello della telecamera. Destinato ai giocatori che vogliono associare +avanti a un pulsante del mouse.
-		[*]Added new challenge ConVars: asw_marine_gun_offset_x, asw_marine_gun_offset_y, and asw_marine_gun_offset_z. For example, to make marines shoot out of the center of the first person camera, a challenge can set these to 0, 0, and 70.
-		[*]Added a new challenge ConVar: rd_grenade_gravity. It affects the gravity of the assault rifle's grenade. Default value is 0.05.
-		[*]Added two new VScript methods to triggers: GetNumTouching() and GetTouching(index)
-		[*]Added a new entity: [url=https://developer.valvesoftware.com/wiki/List_of_Reactive_Drop_Script_Functions#CRD_HUD_VScript]rd_hud_vscript[/url].
+[*]Aggiunte una nuove ConVar di Sfida: asw_marine_gun_offset_x, asw_marine_gun_offset_y e asw_marine_gun_offset_z. Per esempio, per far sparare i soldati dal centro della telecamera in prima persona, una sfida può impostarli su 0, 0 e 70.
+[*]Aggiunta una nuova ConVar di Sfida: rd_grenade_gravity. Influisce sulla gravità della granata del fucile d'assalto. Il valore predefinito è 0,05.
+[*]Aggiunti due nuovi metodi VScript da attivare: GetNumTouching() e GetTouching(index)
+[*]Aggiunta una nuova Entità: [url=https://developer.valvesoftware.com/wiki/List_of_Reactive_Drop_Script_Functions#CRD_HUD_VScript]rd_hud_vscript[/url].
 [*]Riduzione dell'utilizzo della memoria per le icone degli oggetti dell'inventario, come le medaglie. Inoltre, si caricano più velocemente la prima volta che vengono visualizzate.
 [*]Gli input ForcePickUp e ForceDrop e gli output OnPickedUp e OnDropped sono ora disponibili su tutte le entità arma, non solo su rd_weapon_generic_object.
 [*]Il visualizzatore di modelli di Swarmopedia ora supporta la fusione delle ossa, i parametri di posa e la fusione delle animazioni.
