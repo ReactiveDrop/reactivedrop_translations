@@ -1026,7 +1026,7 @@
 "[english]L4D360UI_Access_NumOnline"		"Friends Online: "
 "L4D360UI_Access_Tooltip_Public"		"Spiele mit jedem beliebigen Spieler."
 "[english]L4D360UI_Access_Tooltip_Public"		"Play with anyone available."
-"L4D360UI_Access_Tooltip_Friends"		"Spiele nur Freunden."
+"L4D360UI_Access_Tooltip_Friends"		"Spiele nur mit Freunden."
 "[english]L4D360UI_Access_Tooltip_Friends"		"Only play with people on your friends list."
 "L4D360UI_Access_Tooltip_LAN"		"Spiele mit über LAN verbundenen Spielern."
 "[english]L4D360UI_Access_Tooltip_LAN"		"Play with people connected via LAN."
