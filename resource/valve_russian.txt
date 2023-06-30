@@ -45,7 +45,7 @@
 "[english]Valve_Pickup_Use_Objects"		"Pickup/Use objects"
 "Valve_Communication_Title"		"ОБЩЕНИЕ"
 "[english]Valve_Communication_Title"		"COMMUNICATION"
-"Valve_Use_Voice_Communication"		"Голосовой чат: режим рации"
+"Valve_Use_Voice_Communication"		"Режим рации"
 "[english]Valve_Use_Voice_Communication"		"Push to Talk"
 "Valve_Chat_Message"		"Текстовый чат"
 "[english]Valve_Chat_Message"		"Text Chat"
