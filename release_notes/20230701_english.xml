@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<content><string id="body">We made changes to how Heroes of the Interstellar Armed Forces servers receive their mission list so it can be modified without requiring a full game update. Added a new command rd_hoiaf_debug to view information about the current ranked server configuration and loaded addons.
+
+We are also adding HoIAF's first three endless missions starting today:
+[list]
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2809765323]Infinite Landing Bay[/url] by jhheight
+[*]IAF Marine Academy by jhheight
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2990264624]The Gauntlet: Arctic[/url] by Stral and Synmachus
+[/list]
+A higher score inside an endless mission will increase the number of points you receive for completing it. As always, we are looking for feedback on scoring if we accidentally rated anything too high or too low.
+
+[url=https://developer.reactivedrop.com/hoiaf.html#july-1-2023-season-13]View the full list of Heroes of the Interstellar Armed Forces changes on the developer website.[/url]
+
+Additionally, we've fixed some bugs and added two new advanced configuration options and some features for modders.
+[list]
+[*]Fixed remote turret model appearing much higher than intended.
+[*]Fixed Queen health bar being visible during debriefing.
+[*]Fixed singleplayer non-campaign lobbies being limited to 4 marines.
+[*][b]Accident 32: J5 Connector:[/b] Fixed shower water causing on-damage effects like L3A Tactical Heavy Armor losing charges and aliens moving slowly.
+[*]In game modes that allow reviving, knocked-out marines in the escape area no longer count towards finishing a mission and knocked-out marines outside of the escape area now count as dead for the purpose of finishing a mission.
+[*]Added a new ConVar: rd_represented_country. By default (empty), this will be set to your country based on the IP address you use to connect to Steam (the same as before). Can be set in autoexec.cfg to a different 2-character country code, or to XX if you do not wish to represent a country on leaderboards.
+[*]Added a new ConVar: rd_movement_relative_to_aim. If set to 1, your marine's forward direction in top-down view will be based on the marine's angle rather than the camera's angle. Intended for players who want to bind +forward to a mouse button.
+[*]Added new challenge ConVars: asw_marine_gun_offset_x, asw_marine_gun_offset_y, and asw_marine_gun_offset_z. For example, to make marines shoot out of the center of the first person camera, a challenge can set these to 0, 0, and 70.
+[*]Added a new challenge ConVar: rd_grenade_gravity. It affects the gravity of the assault rifle's grenade. Default value is 0.05.
+[*]Added two new VScript methods to triggers: GetNumTouching() and GetTouching(index)
+[*]Added a new entity: [url=https://developer.valvesoftware.com/wiki/List_of_Reactive_Drop_Script_Functions#CRD_HUD_VScript]rd_hud_vscript[/url].
+[*]Reduced storage and memory usage for inventory item icons like medals. They also load faster the first time they are displayed.
+[*]The ForcePickUp and ForceDrop inputs and the OnPickedUp and OnDropped outputs are now available on all weapon entities, not just rd_weapon_generic_object.
+[*]The Swarmopedia model viewer now supports bone merge, pose parameters, and animation blending.
+[/list]
+
+As a final note, there is one month left before the entry deadline for [url=https://stats.reactivedrop.com/leaderboards/by-tag/bossfight2023?lang=en]the 2023 mapping competition[/url]. There's still time to get an entry in, even if it's your first time making a map!</string><string id="subtitle"></string><string id="summary"></string><string id="title">Alien Swarm: Reactive Drop Update - July 1, 2023</string></content>
