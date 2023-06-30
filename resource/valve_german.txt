@@ -514,7 +514,7 @@
 "[english]Achievement_Earned"		"%s1 has earned the achievement %s2"
 "game_nextmap"		"Nächste Karte: %s1"
 "[english]game_nextmap"		"Next map: %s1"
-"game_takesshots"		"Speichere automatisch einen Screenshot der Bestenliste am Ende einer Karte."
+"game_takesshots"		"Speichere automatisch einen Screenshot der Rangliste am Ende einer Karte."
 "[english]game_takesshots"		"Auto-save a scoreboard screenshot at the end of a map."
 "Cannot_Be_Spectator"		"Auf diesem Server ist das Zuschauen nicht erlaubt"
 "[english]Cannot_Be_Spectator"		"This server does not allow spectating"
