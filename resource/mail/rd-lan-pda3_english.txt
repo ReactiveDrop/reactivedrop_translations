@@ -5,7 +5,7 @@ GAME
 // Inbox
 
 "MailFrom1"	"From: Windom King"
-"MailDate1"	"Date: 02/28/53"
+"MailDate1"	"Date: 02/29/53"
 "MailSubject1"	"Subject: Major threat"
 "MailBody1A"	"Head Administrator Anath, I've got a bad feeling about all this."
 "MailBody1B"	"I am certain we are facing a major threat."
@@ -15,7 +15,7 @@ GAME
 // Sent
 
 "MailFrom3"	"To: Windom King"
-"MailDate3"	"Date: 02/28/53"
+"MailDate3"	"Date: 02/29/53"
 "MailSubject3"	"Subject: Re: Major threat"
 "MailBody3A"	"A swarm attack? Last time you said this, the only bug i saw was a fly i squashed under a file."
 "MailBody3B"	"Forget about your past, King. We are not on the battlefield here. We build nuclear devices threatened by a terrorist who could be in this very base."

@@ -5,7 +5,7 @@ GAME
 // Inbox
 
 "MailFrom1"	"发件人：温顿.金"
-"MailDate1"	"日期：02/28/53"
+"MailDate1"	"日期：02/29/53"
 "MailSubject1"	"主题：安全"
 "MailBody1A"	"简，我们在传感器上发现了一些东西，我不太确定它是否重要，但它很不寻常。"
 "MailBody1B"	"可能是小行星，也可能是降落舱。"
@@ -15,7 +15,7 @@ GAME
 // Sent
 
 "MailFrom3"	"收件人：温顿.金"
-"MailDate3"	"日期：02/28/53"
+"MailDate3"	"日期：02/29/53"
 "MailSubject3"	"主题：回复：安全"
 "MailBody3A"	"我开始怀疑可能会有安全威胁。我们可能要面对工厂里有工业间谍的可能性。"
 "MailBody3B"	"睁大眼睛，让你的员工向我汇报任何情况。"

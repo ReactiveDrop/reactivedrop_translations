@@ -5,7 +5,7 @@ GAME
 // Inbox
 
 "MailFrom1"	"From: Windom King"
-"MailDate1"	"Date: 02/28/53"
+"MailDate1"	"Date: 02/29/53"
 "MailSubject1"	"Subject: Security"
 "MailBody1A"	"I have something on my screens. Not sure what it could be. Report every single thing you see to me."
 "MailBody1B"	"Anath thinks it's a spy again... A commando spy dropped in from orbit maybe?"
@@ -13,7 +13,7 @@ GAME
 "MailBody1D"	"Chief of Security W. King"
 
 "MailFrom2"	"From: Lana King"
-"MailDate2"	"Date: 02/28/53"
+"MailDate2"	"Date: 02/29/53"
 "MailSubject2"	"Subject: Coffee machine???"
 "MailBody2A"	"I'm coming by to investigate your coffee machine issue."
 "MailBody2B"	"Is it truly out of order or do you just want to hide somewhere together?"
@@ -23,7 +23,7 @@ GAME
 // Sent
 
 "MailFrom3"	"To: Windom King"
-"MailDate3"	"Date: 02/28/53"
+"MailDate3"	"Date: 02/29/53"
 "MailSubject3"	"Subject: Re: Security"
 "MailBody3A"	"Yes sir, I will report everything."
 "MailBody3B"	"Until now, the only thing on the blink is our coffee maker. Think Anath's spy sabotaged it? :)"

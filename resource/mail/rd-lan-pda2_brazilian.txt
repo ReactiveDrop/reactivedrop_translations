@@ -5,7 +5,7 @@ GAME
 // Inbox
 
 "MailFrom1"	"De: Windom King"
-"MailDate1"	"Data: 28/02/53"
+"MailDate1"	"Data: 29/02/53"
 "MailSubject1"	"Assunto: Segurança"
 "MailBody1A"	"To vendo algo piscando nas minhas telas. Não tenho certeza do que poderia ser. Relate cada coisa que você vê para mim."
 "MailBody1B"	"Anath pensa que é um espião novamente... Um espião do comando caiu de órbita talvez?"
@@ -13,7 +13,7 @@ GAME
 "MailBody1D"	"Chefe de Segurança W. King"
 
 "MailFrom2"	"De: Lana King"
-"MailDate2"	"Data: 28/02/53"
+"MailDate2"	"Data: 29/02/53"
 "MailSubject2"	"Assunto: Maquina de Café???"
 "MailBody2A"	"Estou passando para investigar o problema da sua máquina de café."
 "MailBody2B"	"Está realmente quebrada, ou você só quer ficar escondidinho comigo?"
@@ -23,7 +23,7 @@ GAME
 // Sent
 
 "MailFrom3"	"Para: Windom King"
-"MailDate3"	"Data: 28/02/53"
+"MailDate3"	"Data: 29/02/53"
 "MailSubject3"	"Assunto: Re: Segurança"
 "MailBody3A"	"Sim senhor, vou relatar tudo."
 "MailBody3B"	"Até agora, a única coisa que piscava era nossa cafeteira. Acho que o espião do Anath o sabotou? :)"

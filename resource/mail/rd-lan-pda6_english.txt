@@ -5,7 +5,7 @@ GAME
 // Sent
 
 "MailFrom3"	"To: Lana King"
-"MailDate3"	"Date: 02/28/53"
+"MailDate3"	"Date: 02/29/53"
 "MailSubject3"	"Subject: Idea"
 "MailBody3A"	"Go to the landing bay and get a ship ready, I just had a great idea involving the warhead."
 "MailBody3B"	"I initialized the timer. If I'm not with you in three minutes, then please... just go. The whole base will be destroyed in the explosion."

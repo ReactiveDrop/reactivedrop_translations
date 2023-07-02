@@ -5,7 +5,7 @@ GAME
 // Inbox
 
 "MailFrom1"	"De: Windom King"
-"MailDate1"	"Data: 28/02/53"
+"MailDate1"	"Data: 29/02/53"
 "MailSubject1"	"Assunto: Alerta!"
 "MailBody1A"	"Lana, o Enxame está aqui! Eu vi essas mesmas assinaturas nos sensores de massa no passado."
 "MailBody1B"	"Você e Lucius devem fazer o possível para desacelerá-los e correr para as instalações da ogiva. Quando chegar lá, ative as defesas de segurança e saia do planeta."

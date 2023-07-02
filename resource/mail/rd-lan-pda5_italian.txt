@@ -5,7 +5,7 @@ GAME
 // Inbox
 
 "MailFrom1"	"Da: Jan Anath"
-"MailDate1"	"Data: 28/02/53"
+"MailDate1"	"Data: 29/02/53"
 "MailSubject1"	"Oggetto: Spia Trovata"
 "MailBody1A"	"Windom King era il nostro traditore, sono stato costretto a ucciderlo."
 "MailBody1B"	"La sua storia dell'attacco Swarm era un diversivo. Ha mandato sua figlia e un agente di sicurezza nel complesso della testata per rubare i nostri progetti."
