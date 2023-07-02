@@ -165,6 +165,8 @@
 "StatsWeb_Column_MissionsSuccess"		"Missions Completed"
 "StatsWeb_Column_MissionsFailed"		"Missions Failed"
 "StatsWeb_Column_SuccessRate"		"Success Rate"
+// a mapper-defined score; for example, in endless missions
+"StatsWeb_Column_MapperScore"		"Mission Score"
 "StatsWeb_PreviousPage"		"Previous"
 "StatsWeb_NextPage"		"Next"
 "StatsWeb_Page"		"Page"
