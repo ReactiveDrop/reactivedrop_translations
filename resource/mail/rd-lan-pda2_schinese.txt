@@ -5,7 +5,7 @@ GAME
 // Inbox
 
 "MailFrom1"	"发件人：温顿.金"
-"MailDate1"	"日期：02/29/53"
+"MailDate1"	"日期：02/28/53"
 "MailSubject1"	"主题：安全"
 "MailBody1A"	"我的屏幕上有东西。不确定它可能是什么。把你看到的每件事都告诉我。"
 "MailBody1B"	"阿纳特又认为那是间谍……也许是从太空轨道来的特种兵？"
@@ -13,7 +13,7 @@ GAME
 "MailBody1D"	"安全主管 W.金"
 
 "MailFrom2"	"发件人：拉娜.金"
-"MailDate2"	"日期：02/29/53"
+"MailDate2"	"日期：02/28/53"
 "MailSubject2"	"主题：咖啡机？？？"
 "MailBody2A"	"我是来调查你的咖啡机问题的。"
 "MailBody2B"	"是真的有问题，还是你们只是想一起躲起来？"
@@ -23,7 +23,7 @@ GAME
 // Sent
 
 "MailFrom3"	"收件人：温顿.金"
-"MailDate3"	"日期：02/29/53"
+"MailDate3"	"日期：02/28/53"
 "MailSubject3"	"主题：回复：安全"
 "MailBody3A"	"是的，长官，我会报告一切的。"
 "MailBody3B"	"到目前为止，唯一出问题的是我们的咖啡机。你觉得是阿纳特的间谍搞的鬼？ :)"

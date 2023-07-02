@@ -5,7 +5,7 @@ GAME
 // Inbox
 
 "MailFrom1"	"Von: Windom King"
-"MailDate1"	"Datum: 02/29/53"
+"MailDate1"	"Datum: 02/28/53"
 "MailSubject1"	"Betreff: Große Bedrohung"
 "MailBody1A"	"Hauptverwaltungsrat Anath, ich habe ein schlechtes Gefühl bei der ganzen Sache."
 "MailBody1B"	"Ich bin mir sicher, dass wir einer großen Bedrohung gegenüberstehen."
@@ -15,7 +15,7 @@ GAME
 // Sent
 
 "MailFrom3"	"An: Windom King"
-"MailDate3"	"Datum: 02/29/53"
+"MailDate3"	"Datum: 02/28/53"
 "MailSubject3"	"Betreff: Aw: Große Bedrohung"
 "MailBody3A"	"Ein Schwarmangriff? Das letzte Mal, als du das gesagt hast, war der einzige Käfer, den ich gesehen habe, eine Fliege, die ich unter einer Akte zerquetscht habe."
 "MailBody3B"	"Vergiss deine Vergangenheit, König. Wir befinden uns hier nicht auf dem Schlachtfeld. Wir bauen Atomwaffen, die von einem Terroristen bedroht werden, der sich genau in dieser Basis befinden könnte."
