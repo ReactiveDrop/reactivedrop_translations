@@ -326,6 +326,9 @@
 "[english]StatsWeb_Column_MissionsFailed"		"Missions Failed"
 "StatsWeb_Column_SuccessRate"		"Коэффициент успеха"
 "[english]StatsWeb_Column_SuccessRate"		"Success Rate"
+		"StatsWeb_Column_MapperScore"		"Mission Score"
+		// a mapper-defined score; for example, in endless missions
+		"[english]StatsWeb_Column_MapperScore"		"Mission Score"
 "StatsWeb_PreviousPage"		"Пред."
 "[english]StatsWeb_PreviousPage"		"Previous"
 "StatsWeb_NextPage"		"След."
