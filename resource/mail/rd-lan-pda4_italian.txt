@@ -5,7 +5,7 @@ GAME
 // Inbox
 
 "MailFrom1"	"Da: Windom King"
-"MailDate1"	"Data: 29/02/53"
+"MailDate1"	"Data: 28/02/53"
 "MailSubject1"	"Oggetto: Attenzione!"
 "MailBody1A"	"Lana, lo Sciame è qui! Ho visto queste stessi segnali sui sensori di massa in passato."
 "MailBody1B"	"Tu e Lucius dovete fare del vostro meglio per rallentarli e correre alla struttura della testata. Quando arrivi lì, attiva le difese di sicurezza e lascia il pianeta."
