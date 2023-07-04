@@ -5,7 +5,7 @@ GAME
 // Inbox
 
 "MailFrom1"	"发件人：比尔.豪兹"
-"MailDate1"	"日期：10/04/52"
+"MailDate1"	"日期：2252年10月04日"
 "MailSubject1"	"主题：火焰喷射器重新填满"
 "MailBody1A"	"嘿，巴尼"
 "MailBody1B"	"我按你的要求，给你的喷火器加满了油。我不知道你为什么把那东西放在办公室里…"
@@ -15,7 +15,7 @@ GAME
 // Sent
 
 "MailFrom3"	"收件人：比尔.豪兹"
-"MailDate3"	"日期：10/04/52"
+"MailDate3"	"日期：2252年10月04日"
 "MailSubject3"	"主题：回复：火焰喷射器重新填满"
 "MailBody3A"	"你好呀，比尔"
 "MailBody3B"	"呵呵，谢谢你给我装满。我的经验告诉我，你得有额外的火力。"
@@ -23,7 +23,7 @@ GAME
 "MailBody3D"	"注意安全，巴尼"
 
 "MailFrom4"	"收件人：沃尔特.杰克逊"
-"MailDate4"	"日期：10/06/52"
+"MailDate4"	"日期：2252年10月06日"
 "MailSubject4"	"主题：奇怪的读数"
 "MailBody4A"	"报告："
 "MailBody4B"	"我们在雷达扫描仪上再次发现了一些异常。"

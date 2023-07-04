@@ -5,7 +5,7 @@ GAME
 // Inbox
 
 "MailFrom1"	"发件人：L.吉尔摩博士"
-"MailDate1"	"日期：03/17/46"
+"MailDate1"	"日期：2246年03月17日"
 "MailSubject1"	"主题：勇敢的安全主管"
 "MailBody1A"	"肯尼特！"
 "MailBody1B"	"实验体已经突破了安全小组的封锁！"
@@ -13,14 +13,14 @@ GAME
 "MailBody1D"	"我们得做点什么，而且要快。"
 
 "MailFrom2"	"发件人：L.吉尔摩博士"
-"MailDate2"	"日期：03/17/46"
+"MailDate2"	"日期：2246年03月17日"
 "MailSubject2"	"主题：？？？"
 "MailBody2A"	"你为什么不回答我？！"
 
 // Sent
 
 "MailFrom3"	"收件人：L.吉尔摩博士"
-"MailDate3"	"日期：03/17/46"
+"MailDate3"	"日期：2246年03月17日"
 "MailSubject3"	"主题：救命！"
 "MailBody3A"	"莉莉！"
 "MailBody3B"	"实验体无处不在！"

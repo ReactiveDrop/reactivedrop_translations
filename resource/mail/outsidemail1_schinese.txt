@@ -5,7 +5,7 @@ GAME
 // Inbox
 
 "MailFrom1"	"发件人：肖恩.明"
-"MailDate1"	"日期：12/21/52"
+"MailDate1"	"日期：2252年12月21日"
 "MailSubject1"	"主题：重大进展"
 "MailBody1A"	"凯恩中尉，"
 "MailBody1B"	"今天是重大突破。我成功分离并解码了外星生命的大量基因蓝图。这种生物令人震惊，我从未见过这样的生物。我也学到了很多关于异形生命周期的知识。现在是不愉快的部分："
@@ -15,7 +15,7 @@ GAME
 // Sent
 
 "MailFrom3"	"收件人：肖恩.明"
-"MailDate3"	"日期：12/21/52"
+"MailDate3"	"日期：2252年12月21日"
 "MailSubject3"	"主题：回复：重大进展"
 "MailBody3A"	"明先生，"
 "MailBody3B"	"1) 做得好。"

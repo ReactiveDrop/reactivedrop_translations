@@ -4,7 +4,7 @@ GAME
 
 // Sent
 "MailFrom3"	"收件人：安德鲁.沃德"
-"MailDate3"	"日期：03/16/46"
+"MailDate3"	"日期：2246年03月16日"
 "MailSubject3"	"主题：需要帮助"
 "MailBody3A"	"安德鲁，"
 "MailBody3B"	"作为这家医院的安全主管，你的工作就是控制这种事情。"
@@ -12,7 +12,7 @@ GAME
 "MailBody3D"	"找到解决方案！"
 
 "MailFrom4"	"收件人：安德鲁.沃德"
-"MailDate4"	"日期：03/16/46"
+"MailDate4"	"日期：2246年03月16日"
 "MailSubject4"	"主题：我将是下一个"
 "MailBody4A"	"安德鲁，"
 "MailBody4B"	"阿奇博尔德博士，梅森和米尔恩都死了。"

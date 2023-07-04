@@ -5,7 +5,7 @@ GAME
 // Sent
 
 "MailFrom3"	"收件人：亚瑟.卡拉丁上尉"
-"MailDate3"	"日期：03/31/43"
+"MailDate3"	"日期：2243年03月31日"
 "MailSubject3"	"主题：需要殿后"
 "MailBody3A"	"上尉"
 "MailBody3B"	"怪物爬行在每一个角落。第五小队覆灭了"

@@ -5,7 +5,7 @@ GAME
 // Sent
 
 "MailFrom3"	"收件人：肯尼特博士"
-"MailDate3"	"日期：03/12/46"
+"MailDate3"	"日期：2246年03月12日"
 "MailSubject3"	"主题：调查"
 "MailBody3A"	"肯尼特博士，"
 "MailBody3B"	"看来我们已经引起了这个地区大部分警察的注意。"

@@ -3,14 +3,14 @@ GAME
 // Inbox
 
 "MailFrom1"	"发件人：汉克.瑞特勒"
-"MailDate1"	"日期：03/23/31"
+"MailDate1"	"日期：2231年3月23日"
 "MailSubject1"	"主题：倾听别人第1点 &HIDDEN"
 "MailBody1A"	"我、首席博士、布拉德和奥瑞恩进行了一项实验，来检查样本对高温的免疫力。我们收获了一个令人震惊的结果。HARVESTER（收获主）受到高温的刺激，使他们的身体产生大量的XENOMITE（小爆虫）。"
 "MailBody1B"	"当研究区在去年7月建成时，我看到过一个HARVESTER逃到通风口，我认为这没什么好害怕的，我也没有告诉任何人。"
 "MailBody1C"	"我错了！我应该告诉所有人，都是我的错。由HARVESTER孵化的XENOMITE产卵后，稍后就会孵化出更可怕、突变版的XENOMITE（寄生虫）。"
 
 "MailFrom2"	"发件人：汉克.瑞特勒"
-"MailDate2"	"日期：03/23/31"
+"MailDate2"	"日期：2231年3月23日"
 "MailSubject2"	"主题：倾听别人第2点 &HIDDEN"
 "MailBody2A"	"你TMD知道这意味着什么吗？逃到通风口的HARVESTER（收获主）有足够的时间在地下区域建立一个巨大的殖民地。"
 "MailBody2B"	"我把这件事告诉了万曼中尉，他派了一个23人的小组去调查地下区域。他们所有人都死了。"

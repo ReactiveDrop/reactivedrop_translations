@@ -5,7 +5,7 @@ GAME
 // Sent
 
 "MailFrom3"	"收件人：雅克.莫罗博士"
-"MailDate3"	"日期：05/18/42"
+"MailDate3"	"日期：2242年05月18日"
 "MailSubject3"	"主题：亚瑟.卡拉丁的脑部手术"
 "MailBody3A"	"亲爱的先生，"
 "MailBody3B"	"卡拉丁上尉的扁桃体海马切除术，进行得很顺利。"
