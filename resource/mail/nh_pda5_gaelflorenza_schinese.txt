@@ -5,7 +5,7 @@ GAME
 // Sent
 
 "MailFrom3"	"收件人：艾瑞斯·弗洛伦萨"
-"MailDate3"	"日期：2242年06月25日"
+"MailDate3"	"日期：2242年6月25日"
 "MailSubject3"	"主题：奇怪的事件"
 "MailBody3A"	"亲爱的，"
 "MailBody3B"	"卢迪南发生了一些奇怪的事情。我不是想让你担心，但把我的心情写在信里，感觉有点治愈。"

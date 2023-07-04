@@ -5,7 +5,7 @@ GAME
 // Inbox
 
 "MailFrom1"	"发件人：福斯特博士"
-"MailDate1"	"日期：2246年03月13日"
+"MailDate1"	"日期：2246年3月13日"
 "MailSubject1"	"主题：剂量"
 "MailBody1A"	"约瑟夫，"
 "MailBody1B"	"我想我知道，为什么病人莫利根没能活下来了。"
@@ -15,7 +15,7 @@ GAME
 // Sent
 
 "MailFrom3"	"收件人：福斯特博士"
-"MailDate3"	"日期：2246年03月13日"
+"MailDate3"	"日期：2246年3月13日"
 "MailSubject3"	"主题：回复：剂量"
 "MailBody3A"	"我同意。"
 "MailBody3B"	"下次我们要加大剂量。我很确定我找到了一个合适的病人。"
