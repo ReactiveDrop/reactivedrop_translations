@@ -5,7 +5,7 @@ GAME
 // Inbox
 
 "MailFrom1"	"De: Windom King"
-"MailDate1"	"Data: 29/02/53"
+"MailDate1"	"Data: 28/02/53"
 "MailSubject1"	"Assunto: Segurança"
 "MailBody1A"	"Jan, estamos recebendo algo nos sensores, não tenho certeza se é importante ou não, mas é incomum."
 "MailBody1B"	"Pode ser um asteroide ou uma cápsula caída."
@@ -15,7 +15,7 @@ GAME
 // Sent
 
 "MailFrom3"	"Para: Windom King"
-"MailDate3"	"Data: 29/02/53"
+"MailDate3"	"Data: 28/02/53"
 "MailSubject3"	"Assunto: Re: Segurança"
 "MailBody3A"	"Estou suspeitando de uma possível ameaça à segurança. Podemos ter que enfrentar a possibilidade de um espião industrial nas instalações."
 "MailBody3B"	"Mantenha os olhos abertos e peça à sua equipe que relate qualquer coisa para mim."

@@ -5,7 +5,7 @@ GAME
 // Inbox
 
 "MailFrom1"	"Da: Windom King"
-"MailDate1"	"Data: 29/02/53"
+"MailDate1"	"Data: 28/02/53"
 "MailSubject1"	"Oggetto: Grave minaccia"
 "MailBody1A"	"Amministratore capo Anath, ho una brutta sensazione per tutto questo."
 "MailBody1B"	"Sono certo che stiamo affrontando una grave minaccia."
@@ -15,7 +15,7 @@ GAME
 // Sent
 
 "MailFrom3"	"A: Windom King"
-"MailDate3"	"Data: 29/02/53"
+"MailDate3"	"Data: 28/02/53"
 "MailSubject3"	"Oggetto: Re: Grave minaccia"
 "MailBody3A"	"Un attacco dello Sciame? L'ultima volta che l'hai detto, l'unico insetto che ho visto era una mosca che ho schiacciato sotto un file."
 "MailBody3B"	"Dimentica il tuo passato, King. Non siamo sul campo di battaglia qui. Costruiamo dispositivi nucleari minacciati da un terrorista che potrebbe trovarsi proprio in questa base."
