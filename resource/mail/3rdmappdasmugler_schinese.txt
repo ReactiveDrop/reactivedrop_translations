@@ -5,20 +5,20 @@ GAME
 // Inbox
 
 "MailFrom1"	"发件人：未知"
-"MailDate1"	"日期：09/25/63"
+"MailDate1"	"日期：2263年9月25日"
 "MailSubject1"	"主题：？？？"
 "MailBody1A"	"你在说什么？我希望那些武器的事你没撒谎。如果你没有撒谎，我要杀了你。"
 
 // Sent
 
 "MailFrom3"	"收件人：未知"
-"MailDate3"	"日期：09/25/63"
+"MailDate3"	"日期：2263年9月25日"
 "MailSubject3"	"主题：快完事了"
 "MailBody3A"	"好的，我差不多完成了。所有武器均已破解，可以通过安网，在没有授权的情况下操作。"
 "MailBody3B"	"在运输上遇到了一些问题……火焰喷射器被拦住了，但我想我能把它弄出来。"
 
 "MailFrom4"	"收件人：未知"
-"MailDate4"	"日期：09/25/63"
+"MailDate4"	"日期：2263年9月25日"
 "MailSubject4"	"主题：全部取消！"
 "MailBody4A"	"这里有某种怪物，我没有看到它们，但我感觉它们藏在阴影里，不要进去！！！"
 "MailBody4B"	"我要跑路了"

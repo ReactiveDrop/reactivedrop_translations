@@ -2086,7 +2086,7 @@
 "[english]asw_speech_zing"		"Zing!"
 "asw_cain_mail_0"		"來自：SynTek 7號研究站"
 "[english]asw_cain_mail_0"		"Transmission From: SynTek Research Station 7"
-"asw_cain_mail_1"		"日期：52年12月20號"
+"asw_cain_mail_1"		"日期：2252年12月20號"
 "[english]asw_cain_mail_1"		"Date: 12/20/52"
 "asw_cain_mail_2"		" "
 "[english]asw_cain_mail_2"		" "

@@ -5,15 +5,15 @@ GAME
 // Inbox
 
 "MailFrom1"	"发件人：指挥官"
-"MailDate1"	"日期：09/25/63"
+"MailDate1"	"日期：2263年9月25日"
 "MailSubject1"	"主题：命令"
 "MailBody1A"	"放下手头的一切，回会议室去。"
 
 // Sent
 
 "MailFrom3"	"收件人：指挥官"
-"MailDate3"	"日期：09/25/63"
+"MailDate3"	"日期：2263年9月25日"
 "MailSubject3"	"主题：3a阶段完成"
 "MailBody3A"	"装有实验异形的笼子已经到位。可惜隐形的不能复制"
-"MailBody3B"	"它们应该很快就会醒来……那些陆战队员根本对付不了它们。"
+"MailBody3B"	"它们应该很快就会醒来……那些士兵根本对付不了它们。"
 }

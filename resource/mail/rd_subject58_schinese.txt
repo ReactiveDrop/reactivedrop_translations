@@ -3,7 +3,7 @@ GAME
 // PDA belongs to Dr. Tom Hinler
 
 "MailFrom1"	"发件人：汤姆.亨勒博士"
-"MailDate1"	"日期：05/26/60"
+"MailDate1"	"日期：2260年5月26日"
 "MailSubject1"	"主题：58号实验对象"
 "MailBody1A"	"5月21日，星期四："
 "MailBody1B"	"今天，我们已经成功地在病人身上植入了重组DNA。这是几天前巡逻队捕获的异形的DNA。病人似乎健康状况良好。"

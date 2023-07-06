@@ -3,12 +3,12 @@ GAME
 // pda belongs to Maxwell Fierze
 
 "MailFrom1"		"发件人：陆军"
-"MailDate1"		"日期：12/26/28"
+"MailDate1"		"日期：2228年12月26日"
 "MailSubject1"	"主题：来自森林区域的奇怪目击报告"
 "MailBody1A"	"我们第3测试组的新兵报告说在森林区域看到一些奇怪的景象。他们的描述是：天空中有巨大的人形鬼魂。"
 
 "MailFrom2"		"发件人：陆军"
-"MailDate2"		"日期：01/09/29"
+"MailDate2"		"日期：2229年1月9日"
 "MailSubject2"	"主题：太空引擎区悲剧"
 "MailBody2A"	"我们的第3测试组历经艰险了解到第3区——即太空引擎区——被小行星撞击了。这个区域需要维修更换。使用传送器会导致被困在太空中而进退不得。"
 }

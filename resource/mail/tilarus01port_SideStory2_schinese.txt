@@ -5,7 +5,7 @@ GAME
 // Inbox
 
 "MailFrom1"	"发件人：吉米.卡特"
-"MailDate1"	"日期：02/02/54"
+"MailDate1"	"日期：2254年2月2日"
 "MailSubject1"	"主题：反应堆压力下降"
 "MailBody1A"	"嗨，罗斯，"
 "MailBody1B"	"我只是在报告第六区有奇怪的声音，"
@@ -13,21 +13,21 @@ GAME
 "MailBody1D"	"需要帮忙的话，回头再聊。"
 
 "MailFrom2"	"发件人：吉米.卡特"
-"MailDate2"	"日期：02/02/54"
+"MailDate2"	"日期：2254年2月2日"
 "MailSubject2"	"主题：约翰？"
 "MailBody2A"	"罗斯，已经快8个小时了，你打算把约翰送下去？"
 
 // Sent
 
 "MailFrom3"	"收件人：监督者 罗斯"
-"MailDate3"	"日期：02/02/54"
+"MailDate3"	"日期：2254年2月2日"
 "MailSubject3"	"主题：回复：反应堆压力下降"
 "MailBody3A"	"吉米，"
 "MailBody3B"	"抱歉，吉米，我无能为力，大部分人都在忙着清理6号舱的事故。"
 "MailBody3C"	"但是我会让约翰一起去，继续检查反应堆，如果低于25%，殖民地的能量就会随之而去了"
 
 "MailFrom4"	"收件人：监督者 罗斯"
-"MailDate4"	"日期：02/02/54"
+"MailDate4"	"日期：2254年2月2日"
 "MailSubject4"	"主题：回复：约翰？"
 "MailBody4A"	"吉米，"
 "MailBody4B"	"我一给你发完邮件就叫约翰去了，最多20分钟就能到你那里"

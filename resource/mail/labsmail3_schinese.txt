@@ -5,14 +5,14 @@ GAME
 // Inbox
 
 "MailFrom1"	"发件人：劳拉.考伦"
-"MailDate1"	"日期：12/23/52"
+"MailDate1"	"日期：2252年12月23日"
 "MailSubject1"	"主题：邮件转发"
 "MailBody1A"	"里韦拉先生，"
 "MailBody1B"	"两天前我问过你我遇到的问题。你说你会调查的。我还没有收到最新消息。为什么要花这么长时间？"
 "MailBody1C"	"L.考伦"
 
 "MailFrom2"	"发件人：约翰.凯恩"
-"MailDate2"	"日期：12/24/52"
+"MailDate2"	"日期：2252年12月24日"
 "MailSubject2"	"主题：回复：考伦越来越怀疑"
 "MailBody2A"	"里韦拉：别理考伦，别挡她的路。把她发给IA的所有邮件都转发给我。"
 "MailBody2B"	"凯恩中尉，新特安全部"

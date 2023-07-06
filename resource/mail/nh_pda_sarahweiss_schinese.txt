@@ -5,7 +5,7 @@ GAME
 // Sent
 
 "MailFrom3"	"收件人：盖尔.弗洛伦萨"
-"MailDate3"	"日期：06/16/42"
+"MailDate3"	"日期：2242年6月16日"
 "MailSubject3"	"主题：关于卡拉丁"
 "MailBody3A"	"[发送失败：您的PDA已与网络断开]"
 "MailBody3B"	"弗洛伦萨，我选你接受这个是因为…靠，我不愿承认，但你确实没我们那么坏。"
