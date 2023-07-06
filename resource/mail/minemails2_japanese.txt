@@ -5,7 +5,7 @@
 // Inbox
 
 "MailFrom1"	"差出人: ローラ・カレン"
-"MailDate1"	"送信日時: 52年12月25日"
+"MailDate1"	"送信日時: 52年12月24日"
 "MailSubject1"	"件名: 最後の警告"
 "MailBody1A"	"戒厳令ですって？"
 "MailBody1B"	"もうそんなの出すのには遅すぎるわ。"
