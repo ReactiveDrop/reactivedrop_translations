@@ -3,7 +3,7 @@ GAME
 // Inbox
 
 "MailFrom1"	"发件人：指挥官霍顿"
-"MailDate1"	"日期：12/30/52"
+"MailDate1"	"日期：2252年12月30日"
 "MailSubject1"	"主题：根除行动"
 "MailBody1A"	"有趣的是，看起来感染的程度，可能比最初想象的还要深。"
 "MailBody1B"	"根据维隆十二的情报，虫群的寄生虫喜欢潮湿。"

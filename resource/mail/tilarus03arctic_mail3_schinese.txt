@@ -5,7 +5,7 @@ GAME
 // Inbox
 
 "MailFrom1"	"发件人：新特数据分析师"
-"MailDate1"	"日期：10/05/52"
+"MailDate1"	"日期：2252年10月05日"
 "MailSubject1"	"主题：设施布局数据"
 "MailBody1A"	"嗨，马丁"
 "MailBody1B"	"我已经按照您的要求，上传了更新后的设施布局文件到您的终端。"
@@ -15,7 +15,7 @@ GAME
 // Sent
 
 "MailFrom3"	"收件人：新特数据分析师"
-"MailDate3"	"日期：10/05/52"
+"MailDate3"	"日期：2252年10月05日"
 "MailSubject3"	"主题：回复：设施布局数据"
 "MailBody3A"	"嗨，迈克"
 "MailBody3B"	"偶偶偶... 你太有趣了... :P"

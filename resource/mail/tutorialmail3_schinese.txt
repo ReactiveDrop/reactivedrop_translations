@@ -5,12 +5,12 @@ GAME
 // Inbox
 
 "MailFrom1"	"发件人：文森特.贝克"
-"MailDate1"	"日期：12/18/52"
+"MailDate1"	"日期：2252年12月18日"
 "MailSubject1"	"主题：只工作，不好玩。"
 "MailBody1A"	"朱尼托，看来坎贝尔想让我们加时。他让你也搜索12-18区了吗？"
 
 "MailFrom2"	"发件人：文森特.贝克"
-"MailDate2"	"日期：12/18/52"
+"MailDate2"	"日期：2252年12月18日"
 "MailSubject2"	"主题：回复：回复：只工作，不好玩。"
 "MailBody2A"	"胡安，"
 "MailBody2B"	"啊哈！你和史蒂夫？这肯定比被扔石头好。那好吧。无论如何，该死的暴风雪正在向我们袭来。"
@@ -18,7 +18,7 @@ GAME
 // Sent
 
 "MailFrom3"	"收件人：文森特.贝克"
-"MailDate3"	"日期：12/18/52"
+"MailDate3"	"日期：2252年12月18日"
 "MailSubject3"	"主题：回复：只工作，不好玩。"
 "MailBody3A"	"文克，"
 "MailBody3B"	"不，他要我和史蒂夫搜索30-35。要不要交易？"
