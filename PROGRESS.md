@@ -8,7 +8,7 @@
 | [Dutch](#non-curated-languages) | 51 | 2004 | 42 | 2628 | 199 | 585 | 444 | 144 |
 | [Finnish](#non-curated-languages) | 51 | 2004 | 42 | 2628 | 199 | 585 | 444 | 144 |
 | [French](#french-français) | 27 | 138 | 42 | 1993 | 199 | 525 | 430 | 123 |
-| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | 1 | ✔️ | ✔️ | ✔️ |
+| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Hungarian](#non-curated-languages) | 51 | 138 | 42 | 2628 | 199 | 850 | 444 | 145 |
 | [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | 11 | 1 | ✔️ | ✔️ | ✔️ |
 | [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | ✔️ | 1 | 102 | ✔️ | ✔️ |
@@ -990,9 +990,7 @@
 
 </summary>
 
-### Strings
-
-- [statsweb_german.vdf](community/stats_website/statsweb_german.vdf) has 1 untranslated strings.
+✓ Up to date!
 
 </details>
 
