@@ -5,7 +5,7 @@ GAME
 // Inbox
 
 "MailFrom1"	"De: Ogiva Nuclear"
-"MailDate1"	"Data: 24/12/52"
+"MailDate1"	"Data: 25/12/52"
 "MailSubject1"	"Assunto: Que rude."
 "MailBody1A"	"Poucas pessoas têm o privilégio de lidar com explosivos potentes como eu."
 "MailBody1B"	"Imaginei que aqueles que o fizessem dariam a essas munições o respeito que elas merecem, e certamente não as deixariam sem vigilância. Isso é, pelo menos, até eu encontrar muitos de vocês."

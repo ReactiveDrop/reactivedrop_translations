@@ -5,7 +5,7 @@ GAME
 // Inbox
 
 "MailFrom1"	"Da: Testata Nucleare"
-"MailDate1"	"Data: 24/12/52"
+"MailDate1"	"Data: 25/12/52"
 "MailSubject1"	"Oggetto: Che maleducati."
 "MailBody1A"	"Poche persone hanno il privilegio di maneggiare potenti esplosivi come me."
 "MailBody1B"	"Ho pensato che coloro che lo fanno avrebbero dato a queste munizioni il rispetto che meritano, e di certo non le avrebbero lasciate incustodite. Questo almeno fino a quando non ho incontrato voi."
