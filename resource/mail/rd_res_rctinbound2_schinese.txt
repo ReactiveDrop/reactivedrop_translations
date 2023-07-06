@@ -5,7 +5,7 @@ GAME
 // Inbox
 
 "MailFrom1"	"发件人：明"
-"MailDate1"	"日期：12/27/52"
+"MailDate1"	"日期：2252年12月27日"
 "MailSubject1"	"主题：烧死他们！"
 "MailBody1A"	"把那些东西寄给你是个错误！我很抱歉！"
 "MailBody1B"	"你必须杀死你所有的标本，马上！"
@@ -13,7 +13,7 @@ GAME
 "MailBody1D"	"要么杀了他们，要么趁还有机会逃出去"
 
 "MailFrom2"	"发件人：马丁.耶利哥"
-"MailDate2"	"日期：12/27/52"
+"MailDate2"	"日期：2252年12月27日"
 "MailSubject2"	"回复：解冻肉坨"
 "MailBody2A"	"胡伦，你个混蛋！"
 "MailBody2B"	"你送我们的那个东西还没死！我们把它带到熔岩附近，它就活了。"
@@ -23,7 +23,7 @@ GAME
 // Sent
 
 "MailFrom3"	"收件人：马丁.耶利哥"
-"MailDate3"	"日期：12/26/52"
+"MailDate3"	"日期：2252年12月26日"
 "MailSubject3"	"主题：解冻肉坨"
 "MailBody3A"	"你好，马丁，"
 "MailBody3B"	"我从维隆十二收到了几个标本，别问我怎么收到的。其中一个标本似乎在运输过程中死亡了。"

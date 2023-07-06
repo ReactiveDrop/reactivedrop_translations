@@ -5,14 +5,14 @@ GAME
 // Inbox
 
 "MailFrom1"	"发件人：肖恩.明"
-"MailDate1"	"日期：12/21/52"
+"MailDate1"	"日期：2252年12月21日"
 "MailSubject1"	"主题：测试"
 "MailBody1A"	"凯恩中尉，"
 "MailBody1B"	"一只猫？不行。太小了。"
 "MailBody1C"	"S.明"
 
 "MailFrom2"	"发件人：肖恩.明"
-"MailDate2"	"日期：12/22/52"
+"MailDate2"	"日期：2252年12月22日"
 "MailSubject2"	"主题：测试2"
 "MailBody2A"	"凯恩中尉，"
 "MailBody2B"	"这应该能行。我可能需要更多。会有问题吗？我希望我不必强调我的审核的重要性。"

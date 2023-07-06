@@ -5,7 +5,7 @@ GAME
 // Inbox
 
 "MailFrom1"	"发件人：大卫.安德斯"
-"MailDate1"	"日期：12/12/52"
+"MailDate1"	"日期：2252年12月12日"
 "MailSubject1"	"主题：激活码"
 "MailBody1A"	"布莱德，"
 "MailBody1B"	"科瓦奇和我在桥上装了炸药。引爆密码是0951。告诉你的人要小心。"

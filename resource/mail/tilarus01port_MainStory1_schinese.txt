@@ -5,7 +5,7 @@ GAME
 // Inbox
 
 "MailFrom1"	"发件人：指挥官哈罗德"
-"MailDate1"	"日期：02/02/54"
+"MailDate1"	"日期：2254年2月2日"
 "MailSubject1"	"主题：应急"
 "MailBody1A"	"罗斯，早上好，"
 "MailBody1B"	"看来清理人员都不知道从何下手了。"

@@ -3,7 +3,7 @@ GAME
 // Inbox
 
 "MailFrom1"	"发件人：指挥官霍顿"
-"MailDate1"	"日期：12/30/52"
+"MailDate1"	"日期：2252年12月30日"
 "MailSubject1"	"主题：根除行动"
 "MailBody1A"	"干得好，阿尔法。"
 "MailBody1B"	"7号研究所似乎没有问题，但我们收到了来自你们位置以北，杰里科矿区的生物信号。"

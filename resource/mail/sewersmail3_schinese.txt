@@ -5,7 +5,7 @@ GAME
 // Inbox
 
 "MailFrom1"	"发件人：约翰.凯恩"
-"MailDate1"	"日期：12/24/52"
+"MailDate1"	"日期：2252年12月24日"
 "MailSubject1"	"主题：回复：杨咋样？"
 "MailBody1A"	"我们到处都找不到她。"
 "MailBody1B"	"事情已经失控了。我会联系新特总部。我需要IAF马上过来。"

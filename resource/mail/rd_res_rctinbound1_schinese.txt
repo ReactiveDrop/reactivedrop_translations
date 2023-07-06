@@ -5,7 +5,7 @@ GAME
 // Inbox
 
 "MailFrom1"	"发件人：肖恩.明"
-"MailDate1"	"日期：12/22/52"
+"MailDate1"	"日期：2252年12月22日"
 "MailSubject1"	"主题：医疗运输"
 "MailBody1A"	"抱歉，胡伦。"
 "MailBody1B"	"我们第一次试图偷偷把标本给你，结果就失败了。考伦发现了4903877号冷冻货物。"
@@ -13,7 +13,7 @@ GAME
 "MailBody1D"	"除非这个被发现，否则几天之内它就会在7号研究所和你在一起。明"
 
 "MailFrom2"	"发件人：珍妮.科尔森"
-"MailDate2"	"日期：12/24/52"
+"MailDate2"	"日期：2252年12月24日"
 "MailSubject2"	"回复：晚餐"
 "MailBody2A"	"嗨，胡伦，"
 "MailBody2B"	"我很乐意。我要在杰里科矿区待到周四，但28号周五怎样？"
@@ -23,7 +23,7 @@ GAME
 // Sent
 
 "MailFrom3"	"收件人：肖恩.明"
-"MailDate3"	"日期：12/26/52"
+"MailDate3"	"日期：2252年12月26日"
 "MailSubject3"	"回复：医疗运输"
 "MailBody3A"	"明，货物已经收到。"
 "MailBody3B"	"我打字的时候，标本正在7号研究所内解冻。"
@@ -31,7 +31,7 @@ GAME
 "MailBody3D"	"胡伦"
 
 "MailFrom4"	"收件人：珍妮.科尔森"
-"MailDate4"	"日期：12/24/52"
+"MailDate4"	"日期：2252年12月24日"
 "MailSubject4"	"晚餐？"
 "MailBody4A"	"嗨，珍妮"
 "MailBody4B"	"我知道我们彼此不太了解，但我想知道，你是否愿意和我一起出去吃晚饭？"
