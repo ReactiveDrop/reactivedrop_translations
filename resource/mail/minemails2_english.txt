@@ -5,7 +5,7 @@ GAME
 // Inbox
 
 "MailFrom1"	"From: Laura Callen"
-"MailDate1"	"Date: 12/24/52"
+"MailDate1"	"Date: 12/25/52"
 "MailSubject1"	"Subject: This is it"
 "MailBody1A"	"Martial law?"
 "MailBody1B"	"It's too late for that."

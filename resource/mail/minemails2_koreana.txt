@@ -5,7 +5,7 @@
 // Inbox
 
 "MailFrom1"	"송신자: 로라 캘런"
-"MailDate1"	"날짜: 52년 12월 24일"
+"MailDate1"	"날짜: 52년 12월 25일"
 "MailSubject1"	"주제: 그게 이거야"
 "MailBody1A"	"계엄령?"
 "MailBody1B"	"그러기엔 너무 늦었어요."

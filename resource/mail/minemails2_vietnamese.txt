@@ -5,7 +5,7 @@ GAME
 // Inbox
 
 "MailFrom1"	"Từ: Laura Callen"
-"MailDate1"	"Ngày: 12/24/52"
+"MailDate1"	"Ngày: 12/25/52"
 "MailSubject1"	"Tiêu đề: Điều gì đến cũng sẽ phải đến"
 "MailBody1A"	"Giờ này còn lệnh giới nghiêm?"
 "MailBody1B"	"Quá muộn rồi."
