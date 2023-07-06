@@ -4,7 +4,7 @@ GAME
 
 "MailFrom1"	"Da: John Doe"
 "MailSubject1"	"SVEGLIA!!!"
-"MailDate1"	"Data: 24/12/52"
+"MailDate1"	"Data: 25/12/52"
 "MailBody1A"	"Salve gente libera,"
 "MailBody1B"	"Prima che venissi alla Legge del Popolo, ho lavorato come schiavo nel sottosuolo per SynTek su qualche sterrato nell'Orlo Esterno. Non abbiamo mai messo in discussione le ore o verificato le leggi sul lavoro; diavolo, non sapevamo nemmeno che esistessero tali leggi. Eravamo troppo stanchi per porre le domande giuste e troppo preoccupati di perdere il lavoro. Sai se lasci, non hanno l'obbligo di tirarti giù dalla roccia... o di ospitarti e nutrirti. È ancora peggio se sei licenziato."
 "MailBody1C"	"Ma sei mesi fa mi sono imbattuto nella legge popolare. Mi hanno informato dei miei diritti e mi hanno aiutato a uscire dal mio contratto con SynTek. Mi hanno riportato un trasferimento ai sistemi principali, a cui apparteniamo tutti. Ehi: anche quando sai stai facendo la cosa giusta, è ancora dannatamente spaventoso farlo. Ma è molto meno spaventoso con la Legge popolare che lavora al tuo fianco. Non hai nulla da perdere se non la paura di fare una mossa. Contatta il (+2369992634980)"
