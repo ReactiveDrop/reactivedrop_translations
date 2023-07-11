@@ -422,6 +422,8 @@
 "[english]asw_equip"		"EQUIP"
 "asw_options"		"OPȚIUNI"
 "[english]asw_options"		"OPTIONS"
+		"asw_campaigns"		"Campaigns"
+		"[english]asw_campaigns"		"Campaigns"
 "asw_start_campaign"		"Pornește o campanie nouă"
 "[english]asw_start_campaign"		"Start New Campaign"
 "asw_load_campaign"		"Încarcă o Campanie Salvată"

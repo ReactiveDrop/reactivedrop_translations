@@ -220,6 +220,7 @@
 "asw_roster"	"ROSTER"
 "asw_equip"	"EQUIP"
 "asw_options"	"OPTIONS"
+"asw_campaigns"		"Campaigns"
 "asw_start_campaign"	"Start New Campaign"
 "asw_load_campaign"	"Load Saved Campaign"
 "asw_single_mission"	"Single Mission"

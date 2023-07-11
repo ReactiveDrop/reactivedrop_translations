@@ -422,6 +422,8 @@
 "[english]asw_equip"		"EQUIP"
 "asw_options"		"설정"
 "[english]asw_options"		"OPTIONS"
+		"asw_campaigns"		"Campaigns"
+		"[english]asw_campaigns"		"Campaigns"
 "asw_start_campaign"		"새 작전 시작"
 "[english]asw_start_campaign"		"Start New Campaign"
 "asw_load_campaign"		"저장된 작전 불러오기"

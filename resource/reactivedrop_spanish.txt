@@ -422,6 +422,8 @@
 "[english]asw_equip"		"EQUIP"
 "asw_options"		"OPCIONES"
 "[english]asw_options"		"OPTIONS"
+		"asw_campaigns"		"Campaigns"
+		"[english]asw_campaigns"		"Campaigns"
 "asw_start_campaign"		"Iniciar Nueva Campaña"
 "[english]asw_start_campaign"		"Start New Campaign"
 "asw_load_campaign"		"Cargar Campaña Guardada"

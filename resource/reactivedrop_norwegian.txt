@@ -422,6 +422,8 @@
 "[english]asw_equip"		"EQUIP"
 "asw_options"		"VALG"
 "[english]asw_options"		"OPTIONS"
+		"asw_campaigns"		"Campaigns"
+		"[english]asw_campaigns"		"Campaigns"
 "asw_start_campaign"		"Start ny kampanje"
 "[english]asw_start_campaign"		"Start New Campaign"
 "asw_load_campaign"		"Last lagret kampanje"
