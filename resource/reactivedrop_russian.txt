@@ -422,6 +422,8 @@
 "[english]asw_equip"		"EQUIP"
 "asw_options"		"НАСТРОЙКИ"
 "[english]asw_options"		"OPTIONS"
+		"asw_campaigns"		"Campaigns"
+		"[english]asw_campaigns"		"Campaigns"
 "asw_start_campaign"		"Начать новую кампанию"
 "[english]asw_start_campaign"		"Start New Campaign"
 "asw_load_campaign"		"Загрузить кампанию"

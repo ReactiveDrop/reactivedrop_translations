@@ -422,6 +422,8 @@
 "[english]asw_equip"		"EQUIP"
 "asw_options"		"選項"
 "[english]asw_options"		"OPTIONS"
+		"asw_campaigns"		"Campaigns"
+		"[english]asw_campaigns"		"Campaigns"
 "asw_start_campaign"		"開始新戰役"
 "[english]asw_start_campaign"		"Start New Campaign"
 "asw_load_campaign"		"載入保存的戰役"

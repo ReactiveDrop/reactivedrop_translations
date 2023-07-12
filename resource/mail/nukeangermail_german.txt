@@ -5,7 +5,7 @@ GAME
 // Inbox
 
 "MailFrom1"	"Von: Nuklearer Sprengkopf"
-"MailDate1"	"Datum: 12/24/52"
+"MailDate1"	"Datum: 12/25/52"
 "MailSubject1"	"Betreff: Wie unhöflich."
 "MailBody1A"	"Nur wenige Menschen haben das Privileg, mit so starken Sprengstoffen umzugehen wie mir."
 "MailBody1B"	"Ich dachte mir, dass diejenigen, die das tun, solche Waffen mit dem nötigen Respekt behandeln und sie nicht einfach unbeaufsichtigt zurück lassen. Zumindest, bis ich euch begegnet bin."
