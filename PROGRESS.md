@@ -8,17 +8,17 @@
 | [Dutch](#non-curated-languages) | 51 | 2004 | 42 | 2629 | 199 | 585 | 444 | 144 |
 | [Finnish](#non-curated-languages) | 51 | 2004 | 42 | 2629 | 199 | 585 | 444 | 144 |
 | [French](#french-français) | 27 | 138 | 42 | 1994 | 199 | 525 | 430 | 123 |
-| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | 1 | ✔️ | ✔️ | ✔️ | ✔️ |
+| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Hungarian](#non-curated-languages) | 51 | 138 | 42 | 2629 | 199 | 850 | 444 | 145 |
-| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | 12 | 1 | ✔️ | ✔️ | ✔️ |
-| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | 1 | ✔️ | 102 | ✔️ | ✔️ |
+| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
+| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 102 | ✔️ | ✔️ |
 | [Korean](#koreana-한국어) | 7 | 10 | 38 | 1125 | 21 | 316 | 430 | 46 |
 | [Norwegian Bokmål](#non-curated-languages) | 69 | 708 | 47 | 3335 | 199 | 585 | 513 | 145 |
 | [Polish](#polish-polski) | 28 | 2004 | 42 | 2629 | 199 | 581 | 444 | 140 |
 | [European Portuguese](#portuguese-português-europeu) | ✔️ | 180 | 32 | 1754 | 20 | 503 | 454 | 138 |
 | [Brazilian Portuguese](#brazilian-português) | 2 | 2004 | 32 | 888 | 8 | 151 | 215 | 5 |
 | [Romanian](#non-curated-languages) | 51 | 1996 | 48 | 3340 | 199 | 850 | 490 | 145 |
-| [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | 1 | 1 | 4 | ✔️ | ✔️ |
+| [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 4 | ✔️ | ✔️ |
 | [European Spanish](#spanish-español-de-españa) | 28 | 2004 | 40 | 2044 | 199 | 589 | 440 | 144 |
 | [Latin American Spanish](#latam-español-latinoamericano) | 1281 | 2004 | 634 | 4140 | 203 | 855 | 526 | 145 |
 | [Swedish](#non-curated-languages) | 51 | 2004 | 42 | 2629 | 199 | 585 | 444 | 145 |
@@ -990,9 +990,7 @@
 
 </summary>
 
-### Strings
-
-- [reactivedrop_german.txt](resource/reactivedrop_german.txt) has 1 untranslated strings.
+✓ Up to date!
 
 </details>
 
@@ -1002,10 +1000,7 @@
 
 </summary>
 
-### Strings
-
-- [statsweb_italian.vdf](community/stats_website/statsweb_italian.vdf) has 1 untranslated strings.
-- [reactivedrop_italian.txt](resource/reactivedrop_italian.txt) has 12 untranslated strings.
+✓ Up to date!
 
 </details>
 
@@ -1019,7 +1014,6 @@
 
 - [signage_japanese.vdf](misc/signage/signage_japanese.vdf) has 67 untranslated strings.
 - [vgui_japanese.txt](platform/vgui_japanese.txt) has 35 untranslated strings.
-- [reactivedrop_japanese.txt](resource/reactivedrop_japanese.txt) has 1 untranslated strings.
 
 </details>
 
@@ -2017,8 +2011,6 @@
 ### Strings
 
 - [inventory_service_tags_russian.vdf](community/inventory_service/inventory_service_tags_russian.vdf) has 4 untranslated strings.
-- [statsweb_russian.vdf](community/stats_website/statsweb_russian.vdf) has 1 untranslated strings.
-- [reactivedrop_russian.txt](resource/reactivedrop_russian.txt) has 1 untranslated strings.
 
 </details>
 
