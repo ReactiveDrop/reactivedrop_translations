@@ -4601,6 +4601,8 @@
 "rd_main_menu_tip_quit"	"Press this button when you are finished\nplaying Alien Swarm: Reactive Drop."
 "rd_main_menu_tip_commander_profile_title"	"IAF Commander Profile"
 "rd_main_menu_tip_commander_profile"	"Your Commander Profile tracks your progress and accolades\nin Alien Swarm: Reactive Drop. Level up or complete contracts to\nunlock new weapons. This mini-profile also shows your\ncurrent promotion medal, up to three cosmetic medals, and\nthe medal you are expected to earn at the end of the\ncurrent season of Heroes of the Interstellar Armed Forces."
+// removed mention of contracts
+"rd_main_menu_tip_commander_profile_2024"	"Your Commander Profile tracks your progress and accolades\nin Alien Swarm: Reactive Drop. Level up to unlock new weapons.\nThis mini-profile also shows your current promotion medal,\nup to three cosmetic medals, and the medal you are expected\nto earn at the end of the current season of Heroes of\nthe Interstellar Armed Forces."
 "rd_main_menu_tip_single_player_title"	"Single-Player Lobby"
 "rd_main_menu_tip_single_player"	"If you want to play alone, this mode will make it easier\nfor you to add computer-controlled marines to your squad.\nNote that you can also add bots to multiplayer lobbies\nby clicking the plus sign button (+) in briefing."
 "rd_main_menu_tip_quick_join_public_title"	"Public Lobby List"
