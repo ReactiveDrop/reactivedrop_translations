@@ -89,7 +89,7 @@
 [*]修复 [b]塔诺尔的眼泪：绿洲殖民地太空港[/b] 火车站播音在某些时候音量过小的问题。
 [*]改进 [b]塔诺尔的眼泪：绿洲殖民地太空港[/b] 减少任务路径交叉区域的网络开销。
 [*]修复 [b]蒂拉鲁斯-5：北极渗透[/b] 任务启动时，上方的爪虫出现后又迅速消失的问题。
-[*]高进 [b]蒂拉鲁斯-5：新特医院[/b] 使警报听起来更响。显着减少网络开销。
+[*]改进 [b]蒂拉鲁斯-5：新特医院[/b] 使警报听起来更响。显着减少网络开销。
 [*]改进 [b]拉娜的逃亡：拉娜的大桥[/b] 对照明，渲染和寻路进行了显著的性能优化。
 [*]调整 [b]拉娜的逃亡：拉哪的下水道[/b] Boss房的放射性桶对治疗虫的伤害增高。
 [*]修复 [b]偏执症：始料不及[/b] 榴弹发射器瞄准的错误。
@@ -222,4 +222,4 @@
 [*]增加 asw_vehicle_jeep可以使用GetSpeed、GetMaxSpeed（单位：英里每小时）、GetRPM、GetThrottle、HasBoost和BoostTimeLeft方法来获取状态数据。
 [*]增加 用于可继承NPC的SetSpawnZombineOnMarineKill方法、用于士兵的SetSpawnZombineOnDeath方法以及一个控制台指令rd_marine_spawn_zombine_on_death_chance。这些都可用于在士兵死亡时生成具有丧尸AI的丧尸士兵。
 [*]增加 用于玩家的方法：SetNPC和SetSpectatingNPC。
-[/list]</string><string id="subtitle">欢迎参加《异形丛生：虫启天降》的生日！！</string><string id="summary">今天，欢迎参加《异形丛生：虫启天降》在Steam上庆祝六周年！这里有一个星期的双倍经验，一个新的战役，和一些其他的好东西来庆祝。</string><string id="title">Alien Swarm: Reactive Drop Update - April 20, 2023</string></content>
+[/list]</string><string id="subtitle">欢迎参加《异形丛生：虫启天降》的生日！！</string><string id="summary">今天，欢迎参加《异形丛生：虫启天降》在Steam上庆祝六周年！这里有一个星期的双倍经验，一个新的战役，和一些其他的好东西来庆祝。</string><string id="title">《异形丛生: 虫启天降》更新 - 2023年4月20日</string></content>
