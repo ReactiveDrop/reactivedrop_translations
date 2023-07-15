@@ -16,4 +16,4 @@
 
 模组插件现在可以包含一个名为 cfg/autoexec_[workshop addon id].cfg 的文件，该文件将在客户端加载插件时运行。例如，插件可以添加一个自动执行文件，实现替换士兵模型以及用背包身体组为每个职业加载独特模型：
 
-[code]rd_marine_gear_hide_backpack 0[/code]</string><string id="subtitle"></string><string id="summary"></string><string id="title">异形丛生：虫启天降 更新 - 2023年4约21日</string></content>
+[code]rd_marine_gear_hide_backpack 0[/code]</string><string id="subtitle"></string><string id="summary"></string><string id="title">《异形丛生: 虫启天降》更新 - 2023年4月21日</string></content>
