@@ -90,17 +90,17 @@
 "item_store_category_mapstamp"		"Коллекционные марки"
 // "postage stamps" that cost $1 (or equivalent), with the proceeds going to a mapper.
 "[english]item_store_category_mapstamp"		"Map Stamps"
-		"item_store_category_artiststamp"		"Artists"
-		// the same, but for artists.
-		"[english]item_store_category_artiststamp"		"Artists"
-		"item_store_category_programmerstamp"		"Programmers"
-		// the same, but for programmers.
-		"[english]item_store_category_programmerstamp"		"Programmers"
-		"item_store_category_serverhoststamp"		"Server Hosts"
-		// the same, but for server hosts.
-		"[english]item_store_category_serverhoststamp"		"Server Hosts"
-		"item_store_category_translatorstamp"		"Translators"
-		// the same, but for translators.
-		"[english]item_store_category_translatorstamp"		"Translators"
+"item_store_category_artiststamp"		"Иллюстраторы"
+// the same, but for artists.
+"[english]item_store_category_artiststamp"		"Artists"
+"item_store_category_programmerstamp"		"Программисты"
+// the same, but for programmers.
+"[english]item_store_category_programmerstamp"		"Programmers"
+"item_store_category_serverhoststamp"		"Организаторы серверов"
+// the same, but for server hosts.
+"[english]item_store_category_serverhoststamp"		"Server Hosts"
+"item_store_category_translatorstamp"		"Переводчики"
+// the same, but for translators.
+"[english]item_store_category_translatorstamp"		"Translators"
 }
 }
