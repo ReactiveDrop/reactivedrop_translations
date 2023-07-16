@@ -8462,7 +8462,7 @@
 "[english]rd_main_menu_tip_commander_profile_title"		"IAF Commander Profile"
 "rd_main_menu_tip_commander_profile"		"军官档案记录了你的服役生涯及晋升历程。从军衔晋升到\n荣誉勋章、从履约记录到军械库权限。军官档案同时显示\n最高军衔，外加最多三个荣誉勋章，以及你在当前《星际\n武装部队英雄榜》赛季结束后预期得到的勋章。"
 "[english]rd_main_menu_tip_commander_profile"		"Your Commander Profile tracks your progress and accolades\nin Alien Swarm: Reactive Drop. Level up or complete contracts to\nunlock new weapons. This mini-profile also shows your\ncurrent promotion medal, up to three cosmetic medals, and\nthe medal you are expected to earn at the end of the\ncurrent season of Heroes of the Interstellar Armed Forces."
-"rd_main_menu_tip_commander_profile_2024"		"军官档案记录了你的服役生涯及晋升历程。通过升级解锁\n军械库权限。军官档案同时显示最高军衔，以及最多三个\的荣誉勋章，外加你在当前《星际武装部队英雄榜》赛季\n结束后预期得到的勋章。"
+"rd_main_menu_tip_commander_profile_2024"		"军官档案记录了你的服役生涯及晋升历程。通过升级解锁\n军械库权限。军官档案同时显示最高军衔，以及最多三个\n的荣誉勋章，外加你在当前《星际武装部队英雄榜》赛季\n结束后预期得到的勋章。"
 // removed mention of contracts
 "[english]rd_main_menu_tip_commander_profile_2024"		"Your Commander Profile tracks your progress and accolades\nin Alien Swarm: Reactive Drop. Level up to unlock new weapons.\nThis mini-profile also shows your current promotion medal,\nup to three cosmetic medals, and the medal you are expected\nto earn at the end of the current season of Heroes of\nthe Interstellar Armed Forces."
 "rd_main_menu_tip_single_player_title"		"单人大厅"
