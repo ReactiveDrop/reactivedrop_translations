@@ -6,7 +6,7 @@
 "app[content][legal]": "© 2017 Reactive Drop Team",
 "app[content][sysreqs][windows][min][osversion]": "Windows® XP以降",
 "app[content][sysreqs][windows][min][processor]": "Pentium 4以上",
-"app[content][sysreqs][windows][min][graphics]": "DirectX 9対応、VRAM 128MB、シェーダーモデル2.0。 ATI X800、NVidia 6600以上のビデオカード",
+"app[content][sysreqs][windows][min][graphics]": "DirectX 9対応、VRAM 128MB、シェーダーモデル2.0b。 ATI X800、NVidia 6600以上のビデオカード",
 "app[content][sysreqs][windows][min][soundcard]": "DirectX 9.0c対応のサウンドカード",
 "app[content][sysreqs][windows][min][notes]": "必要ディスク容量はインストールするワークショップアドオン次第で大きく変わります。"
 }
