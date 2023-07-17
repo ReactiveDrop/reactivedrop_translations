@@ -10,7 +10,7 @@
 | [French](#french-français) | 27 | 138 | 42 | 2060 | 199 | 525 | 430 | 124 |
 | [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | 65 | ✔️ | ✔️ | ✔️ | 1 |
 | [Hungarian](#non-curated-languages) | 51 | 138 | 42 | 2695 | 199 | 850 | 444 | 146 |
-| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | 65 | ✔️ | ✔️ | ✔️ | 1 |
+| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | 65 | ✔️ | 102 | ✔️ | 1 |
 | [Korean](#koreana-한국어) | 7 | 10 | 38 | 1191 | 21 | 316 | 430 | 47 |
 | [Norwegian Bokmål](#non-curated-languages) | 69 | 708 | 47 | 3401 | 199 | 585 | 513 | 146 |
@@ -1013,13 +1013,7 @@
 
 </summary>
 
-### Strings
-
-- [reactivedrop_italian.txt](resource/reactivedrop_italian.txt) has 65 untranslated strings.
-
-### Credits
-
-- [rd-reduction_campaigncredits_italian.txt](credits/rd-reduction_campaigncredits_italian.txt) has 12 indented lines.
+✓ Up to date!
 
 </details>
 

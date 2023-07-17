@@ -6,7 +6,7 @@
 "app[content][legal]": "© 2017 Reactive Drop Team",
 "app[content][sysreqs][windows][min][osversion]": "Windows® XP oder höher",
 "app[content][sysreqs][windows][min][processor]": "Pentium 4 oder neuer",
-"app[content][sysreqs][windows][min][graphics]": "DirectX 9 kompatible Grafikkarte mit 128 MB, Shader model 2.0. ATI X800, NVidia 6600 oder besser",
+"app[content][sysreqs][windows][min][graphics]": "DirectX 9 kompatible Grafikkarte mit 128 MB, Shader model 2.0b. ATI X800, NVidia 6600 oder besser",
 "app[content][sysreqs][windows][min][soundcard]": "DirectX 9.0c kompatible Soundkarte",
 "app[content][sysreqs][windows][min][notes]": "Der benötigte Speicherplatz hängt von den installierten Workshop-Addons ab."
 }

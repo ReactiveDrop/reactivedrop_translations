@@ -5,7 +5,7 @@
 "app[content][about]": "Alien Swarm: Reactive Drop poszerza Alien Swarm, przynosząc więcej wszystkiego: map, obcych, trybów rozgrywki, broni... I przede wszystkim wsparcia dla Steam Workshop.\n\n[list]\n[*]Taktyczna, 4 lub 8 osobowa, kooperacyjna gra akcji z widokiem izometrycznym\n[*]Wsparcie Steam Workshop dla map i wyzwań\n[*]Nowe kampanie kooperacyjne\n[*]Wyzwania: Modyfikacje gry, tak jak mutacje w Left 4 Dead 2\n[*]PvP: Deathmach, Gun Game, Instagib i Team Deathmatch\n[*]Single-player: Graj z ulepszonymi botami na wszystkich oficjalnych mapach\n[*]Nowe gatunki obcych: strażnicy antlionów z Half Life 2 oraz więcej\n[*]Nowe bronie: Bulldog, Devastator, karabin bojowy oraz więcej\n[*]Ponad 100 osiągnięć steam\n[\/list]",
 "app[content][sysreqs][windows][min][osversion]": "Windows® XP lub lepszy",
 "app[content][sysreqs][windows][min][processor]": "Pentium 4 lub nowszy",
-"app[content][sysreqs][windows][min][graphics]": "Karta graficzna kompatybilna z DirectX 9, 128 MB, Shader model 2.0. ATI X800, NVidia 6600 lub lepsza",
+"app[content][sysreqs][windows][min][graphics]": "Karta graficzna kompatybilna z DirectX 9, 128 MB, Shader model 2.0b. ATI X800, NVidia 6600 lub lepsza",
 "app[content][sysreqs][windows][min][soundcard]": "Karta dźwiękowa kompatybilna z DirectX 9.0c",
 "app[content][sysreqs][windows][min][notes]": "Miejsce na dysku zależy od ilości zainstalowanych dodatków z warsztatu."
 }

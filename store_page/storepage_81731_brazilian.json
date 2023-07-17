@@ -6,7 +6,7 @@
 "app[content][legal]": "© 2017 Equipe do Reactive Drop",
 "app[content][sysreqs][windows][min][osversion]": "Windows® XP ou superior",
 "app[content][sysreqs][windows][min][processor]": "Pentium 4 ou mais recente",
-"app[content][sysreqs][windows][min][graphics]": "Placa de vídeo compatível com DirectX 9 com 128 MB e Shader Model 2.0 (ATI X800, NVIDIA 6600 ou superior)",
+"app[content][sysreqs][windows][min][graphics]": "Placa de vídeo compatível com DirectX 9 com 128 MB e Shader Model 2.0b (ATI X800, NVIDIA 6600 ou superior)",
 "app[content][sysreqs][windows][min][soundcard]": "Placa de som compatível com DirectX 9.0c",
 "app[content][sysreqs][windows][min][notes]": "O espaço de armazenamento varia conforme os add-ons da Oficina instalados."
 }

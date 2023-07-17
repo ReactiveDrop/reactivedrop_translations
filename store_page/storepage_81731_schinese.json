@@ -6,7 +6,7 @@
 "app[content][legal]": "© 2017 ReactiveDrop制作组",
 "app[content][sysreqs][windows][min][osversion]": "Windows® XP 或以上",
 "app[content][sysreqs][windows][min][processor]": "奔腾4或更高",
-"app[content][sysreqs][windows][min][graphics]": "兼容DirectX 9的128 MB显卡，Shader模型2.0，ATI X800，NVidia 6600或更高",
+"app[content][sysreqs][windows][min][graphics]": "兼容DirectX 9的128 MB显卡，Shader模型2.0b，ATI X800，NVidia 6600或更高",
 "app[content][sysreqs][windows][min][soundcard]": "兼容DirectX 9.0c的声卡",
 "app[content][sysreqs][windows][min][notes]": "实际的磁盘空间取决于您安装的创意工坊MOD数量。"
 }

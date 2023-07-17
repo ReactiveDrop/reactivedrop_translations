@@ -6,7 +6,7 @@
 "app[content][legal]": "© 2017 Команда Reactive Drop",
 "app[content][sysreqs][windows][min][osversion]": "Windows® XP или выше",
 "app[content][sysreqs][windows][min][processor]": "Pentium 4 или новее",
-"app[content][sysreqs][windows][min][graphics]": "Совместимая с DirectX 9, 128 Мбайт, модель шейдера 2.0. ATI X800, NVidia 6600 или выше",
+"app[content][sysreqs][windows][min][graphics]": "Совместимая с DirectX 9, 128 Мбайт, модель шейдера 2.0b. ATI X800, NVidia 6600 или выше",
 "app[content][sysreqs][windows][min][soundcard]": "Совместимая с DirectX 9.0c",
 "app[content][sysreqs][windows][min][notes]": "Требования к дисковому пространству зависят от установленных дополнений мастерской."
 }
