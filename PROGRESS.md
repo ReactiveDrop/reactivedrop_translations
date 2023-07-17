@@ -1,31 +1,31 @@
 # Overview
 | Language | basemodui | closecaption | gameui | reactivedrop | statsweb | Strings | Inventory | Files |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | ✔️ | 65 | ✔️ | ✔️ | ✔️ | ✔️ |
-| [Traditional Chinese](#tchinese-繁體中文) | 9 | 140 | 33 | 2582 | 199 | 206 | 442 | 144 |
-| [Czech](#czech-čeština) | 71 | 1810 | 42 | 3699 | 199 | 855 | 512 | 144 |
-| [Danish](#non-curated-languages) | 52 | 231 | 42 | 3227 | 199 | 585 | 507 | 145 |
-| [Dutch](#non-curated-languages) | 51 | 2004 | 42 | 2695 | 199 | 585 | 444 | 144 |
-| [Finnish](#non-curated-languages) | 51 | 2004 | 42 | 2695 | 199 | 585 | 444 | 144 |
-| [French](#french-français) | 27 | 138 | 42 | 2060 | 199 | 525 | 430 | 123 |
-| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | 65 | ✔️ | ✔️ | ✔️ | ✔️ |
-| [Hungarian](#non-curated-languages) | 51 | 138 | 42 | 2695 | 199 | 850 | 444 | 145 |
-| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | 65 | ✔️ | ✔️ | ✔️ | ✔️ |
-| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | 65 | ✔️ | 102 | ✔️ | ✔️ |
-| [Korean](#koreana-한국어) | 7 | 10 | 38 | 1191 | 21 | 316 | 430 | 46 |
-| [Norwegian Bokmål](#non-curated-languages) | 69 | 708 | 47 | 3401 | 199 | 585 | 513 | 145 |
-| [Polish](#polish-polski) | 28 | 2004 | 42 | 2695 | 199 | 581 | 444 | 140 |
-| [European Portuguese](#portuguese-português-europeu) | ✔️ | 180 | 32 | 1820 | 20 | 503 | 454 | 138 |
-| [Brazilian Portuguese](#brazilian-português) | 2 | 2004 | 32 | 954 | 8 | 151 | 215 | 5 |
-| [Romanian](#non-curated-languages) | 51 | 1996 | 48 | 3406 | 199 | 850 | 490 | 145 |
-| [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | 65 | ✔️ | ✔️ | ✔️ | ✔️ |
-| [European Spanish](#spanish-español-de-españa) | 28 | 2004 | 40 | 2110 | 199 | 589 | 440 | 144 |
-| [Latin American Spanish](#latam-español-latinoamericano) | 1281 | 2004 | 634 | 4206 | 203 | 855 | 526 | 145 |
-| [Swedish](#non-curated-languages) | 51 | 2004 | 42 | 2695 | 199 | 585 | 444 | 145 |
-| [Thai](#non-curated-languages) | 966 | 1993 | 50 | 3942 | 199 | 614 | 523 | 145 |
-| [Turkish](#non-curated-languages) | 51 | 137 | 42 | 2695 | 199 | 850 | 444 | 145 |
-| [Ukrainian](#ukrainian-українська) | 27 | 131 | 32 | 2238 | 199 | 803 | 438 | 144 |
-| [Vietnamese](#vietnamese-tiếng-việt) | 1281 | 2004 | 634 | 4206 | 199 | 807 | 526 | 132 |
+| [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | ✔️ | 65 | ✔️ | ✔️ | ✔️ | 1 |
+| [Traditional Chinese](#tchinese-繁體中文) | 9 | 140 | 33 | 2582 | 199 | 206 | 442 | 145 |
+| [Czech](#czech-čeština) | 71 | 1810 | 42 | 3699 | 199 | 855 | 512 | 145 |
+| [Danish](#non-curated-languages) | 52 | 231 | 42 | 3227 | 199 | 585 | 507 | 146 |
+| [Dutch](#non-curated-languages) | 51 | 2004 | 42 | 2695 | 199 | 585 | 444 | 145 |
+| [Finnish](#non-curated-languages) | 51 | 2004 | 42 | 2695 | 199 | 585 | 444 | 145 |
+| [French](#french-français) | 27 | 138 | 42 | 2060 | 199 | 525 | 430 | 124 |
+| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | 65 | ✔️ | ✔️ | ✔️ | 1 |
+| [Hungarian](#non-curated-languages) | 51 | 138 | 42 | 2695 | 199 | 850 | 444 | 146 |
+| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | 65 | ✔️ | ✔️ | ✔️ | 1 |
+| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | 65 | ✔️ | 102 | ✔️ | 1 |
+| [Korean](#koreana-한국어) | 7 | 10 | 38 | 1191 | 21 | 316 | 430 | 47 |
+| [Norwegian Bokmål](#non-curated-languages) | 69 | 708 | 47 | 3401 | 199 | 585 | 513 | 146 |
+| [Polish](#polish-polski) | 28 | 2004 | 42 | 2695 | 199 | 581 | 444 | 141 |
+| [European Portuguese](#portuguese-português-europeu) | ✔️ | 180 | 32 | 1820 | 20 | 503 | 454 | 139 |
+| [Brazilian Portuguese](#brazilian-português) | 2 | 2004 | 32 | 954 | 8 | 151 | 215 | 6 |
+| [Romanian](#non-curated-languages) | 51 | 1996 | 48 | 3406 | 199 | 850 | 490 | 146 |
+| [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | 65 | ✔️ | ✔️ | ✔️ | 1 |
+| [European Spanish](#spanish-español-de-españa) | 28 | 2004 | 40 | 2110 | 199 | 589 | 440 | 145 |
+| [Latin American Spanish](#latam-español-latinoamericano) | 1281 | 2004 | 634 | 4206 | 203 | 855 | 526 | 146 |
+| [Swedish](#non-curated-languages) | 51 | 2004 | 42 | 2695 | 199 | 585 | 444 | 146 |
+| [Thai](#non-curated-languages) | 966 | 1993 | 50 | 3942 | 199 | 614 | 523 | 146 |
+| [Turkish](#non-curated-languages) | 51 | 137 | 42 | 2695 | 199 | 850 | 444 | 146 |
+| [Ukrainian](#ukrainian-українська) | 27 | 131 | 32 | 2238 | 199 | 803 | 438 | 145 |
+| [Vietnamese](#vietnamese-tiếng-việt) | 1281 | 2004 | 634 | 4206 | 199 | 807 | 526 | 133 |
 ### Legend
 - ***Non-capitalized column headers*** are the most important specific files and their number of missing strings. All of these txt-files are located in the resources folder. Except statsweb, which lies in community/stats_website, it's an vdf-file.
 - ***Strings*** is the number of missing strings not included in one of the files which get an individual non-capitalized column.
@@ -43,6 +43,10 @@
 ### Strings
 
 - [reactivedrop_schinese.txt](resource/reactivedrop_schinese.txt) has 65 untranslated strings.
+
+### Credits
+
+- [rd-reduction_campaigncredits_schinese.txt](credits/rd-reduction_campaigncredits_schinese.txt) has 12 indented lines.
 
 </details>
 
@@ -89,6 +93,7 @@
 - [rd-LanasEscapeCredits_tchinese.txt](credits/rd-LanasEscapeCredits_english.txt) is missing.
 - [rd-area9800Credits_tchinese.txt](credits/rd-area9800Credits_english.txt) is missing.
 - [rd-ocs-credits_tchinese.txt](credits/rd-ocs-credits_english.txt) is missing.
+- [rd-reduction_campaigncredits_tchinese.txt](credits/rd-reduction_campaigncredits_english.txt) is missing.
 - [rd-tarnor_credits_tchinese.txt](credits/rd-tarnor_credits_english.txt) is missing.
 - [rd_bonus_missions_credits_tchinese.txt](credits/rd_bonus_missions_credits_english.txt) is missing.
 - [rd_paranoia_credits_tchinese.txt](credits/rd_paranoia_credits_english.txt) is missing.
@@ -410,6 +415,7 @@
 - [rd-LanasEscapeCredits_czech.txt](credits/rd-LanasEscapeCredits_english.txt) is missing.
 - [rd-area9800Credits_czech.txt](credits/rd-area9800Credits_english.txt) is missing.
 - [rd-ocs-credits_czech.txt](credits/rd-ocs-credits_english.txt) is missing.
+- [rd-reduction_campaigncredits_czech.txt](credits/rd-reduction_campaigncredits_english.txt) is missing.
 - [rd-tarnor_credits_czech.txt](credits/rd-tarnor_credits_english.txt) is missing.
 - [rd_bonus_missions_credits_czech.txt](credits/rd_bonus_missions_credits_english.txt) is missing.
 - [rd_paranoia_credits_czech.txt](credits/rd_paranoia_credits_english.txt) is missing.
@@ -730,6 +736,7 @@
 - [rd-LanasEscapeCredits_french.txt](credits/rd-LanasEscapeCredits_english.txt) is missing.
 - [rd-area9800Credits_french.txt](credits/rd-area9800Credits_english.txt) is missing.
 - [rd-ocs-credits_french.txt](credits/rd-ocs-credits_english.txt) is missing.
+- [rd-reduction_campaigncredits_french.txt](credits/rd-reduction_campaigncredits_english.txt) is missing.
 - [rd-tarnor_credits_french.txt](credits/rd-tarnor_credits_english.txt) is missing.
 - [rd_bonus_missions_credits_french.txt](credits/rd_bonus_missions_credits_english.txt) is missing.
 - [rd_paranoia_credits_french.txt](credits/rd_paranoia_credits_english.txt) is missing.
@@ -994,6 +1001,10 @@
 
 - [reactivedrop_german.txt](resource/reactivedrop_german.txt) has 65 untranslated strings.
 
+### Credits
+
+- [rd-reduction_campaigncredits_german.txt](credits/rd-reduction_campaigncredits_german.txt) has 12 indented lines.
+
 </details>
 
 <details><summary>
@@ -1005,6 +1016,10 @@
 ### Strings
 
 - [reactivedrop_italian.txt](resource/reactivedrop_italian.txt) has 65 untranslated strings.
+
+### Credits
+
+- [rd-reduction_campaigncredits_italian.txt](credits/rd-reduction_campaigncredits_italian.txt) has 12 indented lines.
 
 </details>
 
@@ -1019,6 +1034,10 @@
 - [signage_japanese.vdf](misc/signage/signage_japanese.vdf) has 67 untranslated strings.
 - [vgui_japanese.txt](platform/vgui_japanese.txt) has 35 untranslated strings.
 - [reactivedrop_japanese.txt](resource/reactivedrop_japanese.txt) has 65 untranslated strings.
+
+### Credits
+
+- [rd-reduction_campaigncredits_japanese.txt](credits/rd-reduction_campaigncredits_japanese.txt) has 12 indented lines.
 
 </details>
 
@@ -1063,6 +1082,7 @@
 - [rd-LanasEscapeCredits_koreana.txt](credits/rd-LanasEscapeCredits_english.txt) is missing.
 - [rd-area9800Credits_koreana.txt](credits/rd-area9800Credits_english.txt) is missing.
 - [rd-ocs-credits_koreana.txt](credits/rd-ocs-credits_english.txt) is missing.
+- [rd-reduction_campaigncredits_koreana.txt](credits/rd-reduction_campaigncredits_english.txt) is missing.
 - [rd-tarnor_credits_koreana.txt](credits/rd-tarnor_credits_english.txt) is missing.
 - [rd_bonus_missions_credits_koreana.txt](credits/rd_bonus_missions_credits_english.txt) is missing.
 - [rd_paranoia_credits_koreana.txt](credits/rd_paranoia_credits_english.txt) is missing.
@@ -1280,6 +1300,7 @@
 - [rd-LanasEscapeCredits_polish.txt](credits/rd-LanasEscapeCredits_english.txt) is missing.
 - [rd-area9800Credits_polish.txt](credits/rd-area9800Credits_english.txt) is missing.
 - [rd-ocs-credits_polish.txt](credits/rd-ocs-credits_english.txt) is missing.
+- [rd-reduction_campaigncredits_polish.txt](credits/rd-reduction_campaigncredits_english.txt) is missing.
 - [rd-tarnor_credits_polish.txt](credits/rd-tarnor_credits_english.txt) is missing.
 - [rd_bonus_missions_credits_polish.txt](credits/rd_bonus_missions_credits_english.txt) is missing.
 - [rd_paranoia_credits_polish.txt](credits/rd_paranoia_credits_english.txt) is missing.
@@ -1592,6 +1613,7 @@
 - [rd-LanasEscapeCredits_portuguese.txt](credits/rd-LanasEscapeCredits_english.txt) is missing.
 - [rd-area9800Credits_portuguese.txt](credits/rd-area9800Credits_english.txt) is missing.
 - [rd-ocs-credits_portuguese.txt](credits/rd-ocs-credits_english.txt) is missing.
+- [rd-reduction_campaigncredits_portuguese.txt](credits/rd-reduction_campaigncredits_english.txt) is missing.
 - [rd-tarnor_credits_portuguese.txt](credits/rd-tarnor_credits_english.txt) is missing.
 - [rd_bonus_missions_credits_portuguese.txt](credits/rd_bonus_missions_credits_english.txt) is missing.
 - [rd_paranoia_credits_portuguese.txt](credits/rd_paranoia_credits_english.txt) is missing.
@@ -1885,6 +1907,7 @@
 ### Credits
 
 - [credits_acc32_official_brazilian.txt](credits/credits_acc32_official_brazilian.txt) has 1 indented lines.
+- [rd-reduction_campaigncredits_brazilian.txt](credits/rd-reduction_campaigncredits_brazilian.txt) has 12 indented lines.
 
 ### Mail and News
 
@@ -2017,6 +2040,10 @@
 
 - [reactivedrop_russian.txt](resource/reactivedrop_russian.txt) has 65 untranslated strings.
 
+### Credits
+
+- [rd-reduction_campaigncredits_russian.txt](credits/rd-reduction_campaigncredits_russian.txt) has 12 indented lines.
+
 </details>
 
 <details><summary>
@@ -2064,6 +2091,7 @@
 - [rd-LanasEscapeCredits_spanish.txt](credits/rd-LanasEscapeCredits_english.txt) is missing.
 - [rd-area9800Credits_spanish.txt](credits/rd-area9800Credits_english.txt) is missing.
 - [rd-ocs-credits_spanish.txt](credits/rd-ocs-credits_english.txt) is missing.
+- [rd-reduction_campaigncredits_spanish.txt](credits/rd-reduction_campaigncredits_english.txt) is missing.
 - [rd-tarnor_credits_spanish.txt](credits/rd-tarnor_credits_english.txt) is missing.
 - [rd_bonus_missions_credits_spanish.txt](credits/rd_bonus_missions_credits_english.txt) is missing.
 - [rd_paranoia_credits_spanish.txt](credits/rd_paranoia_credits_english.txt) is missing.
@@ -2386,6 +2414,7 @@
 - [rd-LanasEscapeCredits_latam.txt](credits/rd-LanasEscapeCredits_english.txt) is missing.
 - [rd-area9800Credits_latam.txt](credits/rd-area9800Credits_english.txt) is missing.
 - [rd-ocs-credits_latam.txt](credits/rd-ocs-credits_english.txt) is missing.
+- [rd-reduction_campaigncredits_latam.txt](credits/rd-reduction_campaigncredits_english.txt) is missing.
 - [rd-tarnor_credits_latam.txt](credits/rd-tarnor_credits_english.txt) is missing.
 - [rd_bonus_missions_credits_latam.txt](credits/rd_bonus_missions_credits_english.txt) is missing.
 - [rd_paranoia_credits_latam.txt](credits/rd_paranoia_credits_english.txt) is missing.
@@ -2705,6 +2734,7 @@
 - [rd-LanasEscapeCredits_ukrainian.txt](credits/rd-LanasEscapeCredits_english.txt) is missing.
 - [rd-area9800Credits_ukrainian.txt](credits/rd-area9800Credits_english.txt) is missing.
 - [rd-ocs-credits_ukrainian.txt](credits/rd-ocs-credits_english.txt) is missing.
+- [rd-reduction_campaigncredits_ukrainian.txt](credits/rd-reduction_campaigncredits_english.txt) is missing.
 - [rd-tarnor_credits_ukrainian.txt](credits/rd-tarnor_credits_english.txt) is missing.
 - [rd_bonus_missions_credits_ukrainian.txt](credits/rd_bonus_missions_credits_english.txt) is missing.
 - [rd_paranoia_credits_ukrainian.txt](credits/rd_paranoia_credits_english.txt) is missing.
@@ -3026,6 +3056,7 @@
 - [rd-LanasEscapeCredits_vietnamese.txt](credits/rd-LanasEscapeCredits_english.txt) is missing.
 - [rd-area9800Credits_vietnamese.txt](credits/rd-area9800Credits_english.txt) is missing.
 - [rd-ocs-credits_vietnamese.txt](credits/rd-ocs-credits_english.txt) is missing.
+- [rd-reduction_campaigncredits_vietnamese.txt](credits/rd-reduction_campaigncredits_english.txt) is missing.
 - [rd-tarnor_credits_vietnamese.txt](credits/rd-tarnor_credits_english.txt) is missing.
 - [rd_bonus_missions_credits_vietnamese.txt](credits/rd_bonus_missions_credits_english.txt) is missing.
 - [rd_paranoia_credits_vietnamese.txt](credits/rd_paranoia_credits_english.txt) is missing.
