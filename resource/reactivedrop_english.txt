@@ -4810,6 +4810,9 @@
 // Used for the Alien Shadows setting.
 "rd_video_effect_flashlight_only"	"Flashlight Only"
 "rd_video_effect_enabled"	"Enabled"
+// Faster <-> Higher Quality spectrum markers for graphics settings
+"rd_video_faster"	"Faster"
+"rd_video_higher_quality"	"Higher Quality"
 // This is used for the game's pixel size on the monitor, regardless of whether it's full-screen.
 "rd_video_screen_resolution"	"Screen Resolution"
 "rd_video_display_mode"	"Display Mode"

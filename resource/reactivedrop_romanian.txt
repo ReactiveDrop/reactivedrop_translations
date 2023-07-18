@@ -8792,6 +8792,11 @@
 		"[english]rd_video_effect_flashlight_only"		"Flashlight Only"
 		"rd_video_effect_enabled"		"Enabled"
 		"[english]rd_video_effect_enabled"		"Enabled"
+		"rd_video_faster"		"Faster"
+		// Faster <-> Higher Quality spectrum markers for graphics settings
+		"[english]rd_video_faster"		"Faster"
+		"rd_video_higher_quality"		"Higher Quality"
+		"[english]rd_video_higher_quality"		"Higher Quality"
 		"rd_video_screen_resolution"		"Screen Resolution"
 		// This is used for the game's pixel size on the monitor, regardless of whether it's full-screen.
 		"[english]rd_video_screen_resolution"		"Screen Resolution"
