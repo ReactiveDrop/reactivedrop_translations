@@ -8,17 +8,17 @@
 | [Dutch](#non-curated-languages) | 51 | 2004 | 42 | 2697 | 199 | 585 | 444 | 145 |
 | [Finnish](#non-curated-languages) | 51 | 2004 | 42 | 2697 | 199 | 585 | 444 | 145 |
 | [French](#french-français) | 27 | 138 | 42 | 2062 | 199 | 525 | 430 | 124 |
-| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | 2 | ✔️ | ✔️ | ✔️ | ✔️ |
+| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Hungarian](#non-curated-languages) | 51 | 138 | 42 | 2697 | 199 | 850 | 444 | 146 |
 | [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | 2 | ✔️ | ✔️ | ✔️ | ✔️ |
-| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | 67 | ✔️ | 102 | ✔️ | 1 |
+| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 102 | ✔️ | ✔️ |
 | [Korean](#koreana-한국어) | 7 | 10 | 38 | 1193 | 21 | 316 | 430 | 47 |
 | [Norwegian Bokmål](#non-curated-languages) | 69 | 708 | 47 | 3403 | 199 | 585 | 513 | 146 |
 | [Polish](#polish-polski) | 28 | 2004 | 42 | 2697 | 199 | 581 | 444 | 141 |
 | [European Portuguese](#portuguese-português-europeu) | ✔️ | 180 | 32 | 1822 | 20 | 503 | 454 | 139 |
 | [Brazilian Portuguese](#brazilian-português) | 2 | 2004 | 32 | 956 | 8 | 151 | 215 | 6 |
 | [Romanian](#non-curated-languages) | 51 | 1996 | 48 | 3408 | 199 | 850 | 490 | 146 |
-| [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | 67 | ✔️ | ✔️ | ✔️ | 1 |
+| [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [European Spanish](#spanish-español-de-españa) | 28 | 2004 | 40 | 2112 | 199 | 589 | 440 | 145 |
 | [Latin American Spanish](#latam-español-latinoamericano) | 1281 | 2004 | 634 | 4208 | 203 | 855 | 526 | 146 |
 | [Swedish](#non-curated-languages) | 51 | 2004 | 42 | 2697 | 199 | 585 | 444 | 146 |
@@ -997,9 +997,7 @@
 
 </summary>
 
-### Strings
-
-- [reactivedrop_german.txt](resource/reactivedrop_german.txt) has 2 untranslated strings.
+✓ Up to date!
 
 </details>
 
@@ -1025,11 +1023,6 @@
 
 - [signage_japanese.vdf](misc/signage/signage_japanese.vdf) has 67 untranslated strings.
 - [vgui_japanese.txt](platform/vgui_japanese.txt) has 35 untranslated strings.
-- [reactivedrop_japanese.txt](resource/reactivedrop_japanese.txt) has 67 untranslated strings.
-
-### Credits
-
-- [rd-reduction_campaigncredits_japanese.txt](credits/rd-reduction_campaigncredits_japanese.txt) has 12 indented lines.
 
 </details>
 
@@ -2028,13 +2021,7 @@
 
 </summary>
 
-### Strings
-
-- [reactivedrop_russian.txt](resource/reactivedrop_russian.txt) has 67 untranslated strings.
-
-### Credits
-
-- [rd-reduction_campaigncredits_russian.txt](credits/rd-reduction_campaigncredits_russian.txt) has 12 indented lines.
+✓ Up to date!
 
 </details>
 
