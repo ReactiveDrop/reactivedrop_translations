@@ -8785,18 +8785,18 @@
 "[english]rd_video_level_high"		"High"
 "rd_video_level_ultra"		"Ultra"
 "[english]rd_video_level_ultra"		"Ultra"
-"rd_video_effect_disabled"		"Disabilitate"
+"rd_video_effect_disabled"		"Disabilitati"
 "[english]rd_video_effect_disabled"		"Disabled"
 "rd_video_effect_flashlight_only"		"Solo la Torcia"
 // Used for the Alien Shadows setting.
 "[english]rd_video_effect_flashlight_only"		"Flashlight Only"
-"rd_video_effect_enabled"		"Abilitate"
+"rd_video_effect_enabled"		"Abilitati"
 "[english]rd_video_effect_enabled"		"Enabled"
-		"rd_video_faster"		"Faster"
-		// Faster <-> Higher Quality spectrum markers for graphics settings
-		"[english]rd_video_faster"		"Faster"
-		"rd_video_higher_quality"		"Higher Quality"
-		"[english]rd_video_higher_quality"		"Higher Quality"
+"rd_video_faster"		"Velocità Maggiore"
+// Faster <-> Higher Quality spectrum markers for graphics settings
+"[english]rd_video_faster"		"Faster"
+"rd_video_higher_quality"		"Qualità Maggiore"
+"[english]rd_video_higher_quality"		"Higher Quality"
 "rd_video_screen_resolution"		"Risoluzione Schermo"
 // This is used for the game's pixel size on the monitor, regardless of whether it's full-screen.
 "[english]rd_video_screen_resolution"		"Screen Resolution"
