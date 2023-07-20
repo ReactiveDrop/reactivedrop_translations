@@ -6740,7 +6740,7 @@
 "[english]red5_6_title"		"Meet at the Bridge"
 "red5_6a_title"		"在出发点集合，为下一个任务做准备。"
 "[english]red5_6a_title"		"Meet at the jump-off point to prepare for the next mission."
-	"red5_6b_title"		"下一个任务的出发点在大桥上。"
+"red5_6b_title"		"下一个任务的出发点在大桥上。"
 "[english]red5_6b_title"		"Jump-off for next mission will be at the bridge."
 "red5_gametext_1"		"R E D U C T I O N"
 "[english]red5_gametext_1"		"R E D U C T I O N"
