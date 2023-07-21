@@ -1,7 +1,7 @@
 # Overview
 | Language | basemodui | closecaption | gameui | reactivedrop | statsweb | Strings | Inventory | Files |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | ✔️ | 67 | ✔️ | ✔️ | ✔️ | 1 |
+| [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Traditional Chinese](#tchinese-繁體中文) | 9 | 140 | 33 | 2584 | 199 | 206 | 442 | 145 |
 | [Czech](#czech-čeština) | 71 | 1810 | 42 | 3701 | 199 | 855 | 512 | 145 |
 | [Danish](#non-curated-languages) | 52 | 231 | 42 | 3229 | 199 | 585 | 507 | 146 |
@@ -40,13 +40,7 @@
 
 </summary>
 
-### Strings
-
-- [reactivedrop_schinese.txt](resource/reactivedrop_schinese.txt) has 67 untranslated strings.
-
-### Credits
-
-- [rd-reduction_campaigncredits_schinese.txt](credits/rd-reduction_campaigncredits_schinese.txt) has 12 indented lines.
+✓ Up to date!
 
 </details>
 
