@@ -1,31 +1,31 @@
 # Overview
 | Language | basemodui | closecaption | gameui | reactivedrop | statsweb | Strings | Inventory | Files |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
-| [Traditional Chinese](#tchinese-繁體中文) | 9 | 140 | 33 | 2584 | 199 | 206 | 442 | 145 |
-| [Czech](#czech-čeština) | 71 | 1810 | 42 | 3701 | 199 | 855 | 512 | 145 |
-| [Danish](#non-curated-languages) | 52 | 231 | 42 | 3229 | 199 | 585 | 507 | 146 |
-| [Dutch](#non-curated-languages) | 51 | 2004 | 42 | 2697 | 199 | 585 | 444 | 145 |
-| [Finnish](#non-curated-languages) | 51 | 2004 | 42 | 2697 | 199 | 585 | 444 | 145 |
-| [French](#french-français) | 27 | 138 | 42 | 2062 | 199 | 525 | 430 | 124 |
-| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
-| [Hungarian](#non-curated-languages) | 51 | 138 | 42 | 2697 | 199 | 850 | 444 | 146 |
-| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
-| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 102 | ✔️ | ✔️ |
-| [Korean](#koreana-한국어) | 7 | 10 | 38 | 1193 | 21 | 316 | 430 | 47 |
-| [Norwegian Bokmål](#non-curated-languages) | 69 | 708 | 47 | 3403 | 199 | 585 | 513 | 146 |
-| [Polish](#polish-polski) | 28 | 2004 | 42 | 2697 | 199 | 581 | 444 | 141 |
-| [European Portuguese](#portuguese-português-europeu) | ✔️ | 180 | 32 | 1822 | 20 | 503 | 454 | 139 |
-| [Brazilian Portuguese](#brazilian-português) | 2 | 2004 | 32 | 956 | 8 | 151 | 215 | 6 |
-| [Romanian](#non-curated-languages) | 51 | 1996 | 48 | 3408 | 199 | 850 | 490 | 146 |
-| [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
-| [European Spanish](#spanish-español-de-españa) | 28 | 2004 | 40 | 2112 | 199 | 589 | 440 | 145 |
-| [Latin American Spanish](#latam-español-latinoamericano) | 1281 | 2004 | 634 | 4208 | 203 | 855 | 526 | 146 |
-| [Swedish](#non-curated-languages) | 51 | 2004 | 42 | 2697 | 199 | 585 | 444 | 146 |
-| [Thai](#non-curated-languages) | 966 | 1993 | 50 | 3944 | 199 | 614 | 523 | 146 |
-| [Turkish](#non-curated-languages) | 51 | 137 | 42 | 2697 | 199 | 850 | 444 | 146 |
-| [Ukrainian](#ukrainian-українська) | 27 | 131 | 32 | 2240 | 199 | 803 | 438 | 145 |
-| [Vietnamese](#vietnamese-tiếng-việt) | 1281 | 2004 | 634 | 4208 | 199 | 807 | 526 | 133 |
+| [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 2 | ✔️ |
+| [Traditional Chinese](#tchinese-繁體中文) | 9 | 140 | 33 | 2584 | 199 | 206 | 445 | 145 |
+| [Czech](#czech-čeština) | 71 | 1810 | 42 | 3701 | 199 | 855 | 515 | 145 |
+| [Danish](#non-curated-languages) | 52 | 231 | 42 | 3229 | 199 | 585 | 510 | 146 |
+| [Dutch](#non-curated-languages) | 51 | 2004 | 42 | 2697 | 199 | 585 | 447 | 145 |
+| [Finnish](#non-curated-languages) | 51 | 2004 | 42 | 2697 | 199 | 585 | 447 | 145 |
+| [French](#french-français) | 27 | 138 | 42 | 2062 | 199 | 525 | 433 | 124 |
+| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 2 | ✔️ |
+| [Hungarian](#non-curated-languages) | 51 | 138 | 42 | 2697 | 199 | 850 | 447 | 146 |
+| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 2 | ✔️ |
+| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 102 | 2 | ✔️ |
+| [Korean](#koreana-한국어) | 7 | 10 | 38 | 1193 | 21 | 316 | 433 | 47 |
+| [Norwegian Bokmål](#non-curated-languages) | 69 | 708 | 47 | 3403 | 199 | 585 | 516 | 146 |
+| [Polish](#polish-polski) | 28 | 2004 | 42 | 2697 | 199 | 581 | 447 | 141 |
+| [European Portuguese](#portuguese-português-europeu) | ✔️ | 180 | 32 | 1822 | 20 | 503 | 456 | 139 |
+| [Brazilian Portuguese](#brazilian-português) | 2 | 2004 | 32 | 956 | 8 | 151 | 217 | 6 |
+| [Romanian](#non-curated-languages) | 51 | 1996 | 48 | 3408 | 199 | 850 | 493 | 146 |
+| [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 2 | ✔️ |
+| [European Spanish](#spanish-español-de-españa) | 28 | 2004 | 40 | 2112 | 199 | 589 | 443 | 145 |
+| [Latin American Spanish](#latam-español-latinoamericano) | 1281 | 2004 | 634 | 4208 | 203 | 855 | 529 | 146 |
+| [Swedish](#non-curated-languages) | 51 | 2004 | 42 | 2697 | 199 | 585 | 447 | 146 |
+| [Thai](#non-curated-languages) | 966 | 1993 | 50 | 3944 | 199 | 614 | 526 | 146 |
+| [Turkish](#non-curated-languages) | 51 | 137 | 42 | 2697 | 199 | 850 | 447 | 146 |
+| [Ukrainian](#ukrainian-українська) | 27 | 131 | 32 | 2240 | 199 | 803 | 441 | 145 |
+| [Vietnamese](#vietnamese-tiếng-việt) | 1281 | 2004 | 634 | 4208 | 199 | 807 | 529 | 133 |
 ### Legend
 - ***Non-capitalized column headers*** are the most important specific files and their number of missing strings. All of these txt-files are located in the resources folder. Except statsweb, which lies in community/stats_website, it's an vdf-file.
 - ***Strings*** is the number of missing strings not included in one of the files which get an individual non-capitalized column.
@@ -40,7 +40,9 @@
 
 </summary>
 
-✓ Up to date!
+### Inventory Schema</summary>
+
+- Item 900000001 "The Gauntlet: Arctic (#BossFight2023 Winner)" in [item-schema-unique.json](community/inventory_service/item-schema-unique.json) is missing `name_schinese`, `description_schinese`
 
 </details>
 
@@ -360,6 +362,7 @@
 - Item 5007 "Alien Kill Streak" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_tchinese`, `accessory_description_tchinese`, `display_type_tchinese`
 - Item 5008 "Infestations Cured" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_tchinese`, `accessory_description_tchinese`, `display_type_tchinese`
 - Item 900000000 "Ben Lubar" in [item-schema-unique.json](community/inventory_service/item-schema-unique.json) is missing `name_tchinese`
+- Item 900000001 "The Gauntlet: Arctic (#BossFight2023 Winner)" in [item-schema-unique.json](community/inventory_service/item-schema-unique.json) is missing `name_tchinese`, `description_tchinese`, `display_type_tchinese`
 
 </details>
 
@@ -682,6 +685,7 @@
 - Item 5007 "Alien Kill Streak" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_czech`, `accessory_description_czech`, `display_type_czech`
 - Item 5008 "Infestations Cured" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_czech`, `accessory_description_czech`, `display_type_czech`
 - Item 900000000 "Ben Lubar" in [item-schema-unique.json](community/inventory_service/item-schema-unique.json) is missing `name_czech`
+- Item 900000001 "The Gauntlet: Arctic (#BossFight2023 Winner)" in [item-schema-unique.json](community/inventory_service/item-schema-unique.json) is missing `name_czech`, `description_czech`, `display_type_czech`
 
 </details>
 
@@ -982,6 +986,7 @@
 - Item 5007 "Alien Kill Streak" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_french`, `accessory_description_french`, `display_type_french`
 - Item 5008 "Infestations Cured" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_french`, `accessory_description_french`, `display_type_french`
 - Item 900000000 "Ben Lubar" in [item-schema-unique.json](community/inventory_service/item-schema-unique.json) is missing `name_french`
+- Item 900000001 "The Gauntlet: Arctic (#BossFight2023 Winner)" in [item-schema-unique.json](community/inventory_service/item-schema-unique.json) is missing `name_french`, `description_french`, `display_type_french`
 
 </details>
 
@@ -991,7 +996,9 @@
 
 </summary>
 
-✓ Up to date!
+### Inventory Schema</summary>
+
+- Item 900000001 "The Gauntlet: Arctic (#BossFight2023 Winner)" in [item-schema-unique.json](community/inventory_service/item-schema-unique.json) is missing `name_german`, `description_german`
 
 </details>
 
@@ -1001,7 +1008,9 @@
 
 </summary>
 
-✓ Up to date!
+### Inventory Schema</summary>
+
+- Item 900000001 "The Gauntlet: Arctic (#BossFight2023 Winner)" in [item-schema-unique.json](community/inventory_service/item-schema-unique.json) is missing `name_italian`, `description_italian`
 
 </details>
 
@@ -1015,6 +1024,10 @@
 
 - [signage_japanese.vdf](misc/signage/signage_japanese.vdf) has 67 untranslated strings.
 - [vgui_japanese.txt](platform/vgui_japanese.txt) has 35 untranslated strings.
+
+### Inventory Schema</summary>
+
+- Item 900000001 "The Gauntlet: Arctic (#BossFight2023 Winner)" in [item-schema-unique.json](community/inventory_service/item-schema-unique.json) is missing `name_japanese`, `description_japanese`
 
 </details>
 
@@ -1236,6 +1249,7 @@
 - Item 5007 "Alien Kill Streak" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_koreana`, `accessory_description_koreana`, `display_type_koreana`
 - Item 5008 "Infestations Cured" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_koreana`, `accessory_description_koreana`, `display_type_koreana`
 - Item 900000000 "Ben Lubar" in [item-schema-unique.json](community/inventory_service/item-schema-unique.json) is missing `name_koreana`
+- Item 900000001 "The Gauntlet: Arctic (#BossFight2023 Winner)" in [item-schema-unique.json](community/inventory_service/item-schema-unique.json) is missing `name_koreana`, `description_koreana`, `display_type_koreana`
 
 </details>
 
@@ -1550,6 +1564,7 @@
 - Item 5007 "Alien Kill Streak" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_polish`, `accessory_description_polish`, `display_type_polish`
 - Item 5008 "Infestations Cured" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_polish`, `accessory_description_polish`, `display_type_polish`
 - Item 900000000 "Ben Lubar" in [item-schema-unique.json](community/inventory_service/item-schema-unique.json) is missing `name_polish`
+- Item 900000001 "The Gauntlet: Arctic (#BossFight2023 Winner)" in [item-schema-unique.json](community/inventory_service/item-schema-unique.json) is missing `name_polish`, `description_polish`, `display_type_polish`
 
 </details>
 
@@ -1856,6 +1871,7 @@
 - Item 5006 "Allies Extinguished" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_portuguese`, `accessory_description_portuguese`, `display_type_portuguese`
 - Item 5007 "Alien Kill Streak" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_portuguese`, `accessory_description_portuguese`, `display_type_portuguese`
 - Item 5008 "Infestations Cured" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_portuguese`, `accessory_description_portuguese`, `display_type_portuguese`
+- Item 900000001 "The Gauntlet: Arctic (#BossFight2023 Winner)" in [item-schema-unique.json](community/inventory_service/item-schema-unique.json) is missing `name_portuguese`, `description_portuguese`
 
 </details>
 
@@ -2004,6 +2020,7 @@
 - Item 5006 "Allies Extinguished" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_brazilian`, `accessory_description_brazilian`, `display_type_brazilian`
 - Item 5007 "Alien Kill Streak" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_brazilian`, `accessory_description_brazilian`, `display_type_brazilian`
 - Item 5008 "Infestations Cured" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_brazilian`, `accessory_description_brazilian`, `display_type_brazilian`
+- Item 900000001 "The Gauntlet: Arctic (#BossFight2023 Winner)" in [item-schema-unique.json](community/inventory_service/item-schema-unique.json) is missing `name_brazilian`, `description_brazilian`
 
 </details>
 
@@ -2013,7 +2030,9 @@
 
 </summary>
 
-✓ Up to date!
+### Inventory Schema</summary>
+
+- Item 900000001 "The Gauntlet: Arctic (#BossFight2023 Winner)" in [item-schema-unique.json](community/inventory_service/item-schema-unique.json) is missing `name_russian`, `description_russian`
 
 </details>
 
@@ -2335,6 +2354,7 @@
 - Item 5007 "Alien Kill Streak" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_spanish`, `accessory_description_spanish`, `display_type_spanish`
 - Item 5008 "Infestations Cured" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_spanish`, `accessory_description_spanish`, `display_type_spanish`
 - Item 900000000 "Ben Lubar" in [item-schema-unique.json](community/inventory_service/item-schema-unique.json) is missing `name_spanish`
+- Item 900000001 "The Gauntlet: Arctic (#BossFight2023 Winner)" in [item-schema-unique.json](community/inventory_service/item-schema-unique.json) is missing `name_spanish`, `description_spanish`, `display_type_spanish`
 
 </details>
 
@@ -2658,6 +2678,7 @@
 - Item 5007 "Alien Kill Streak" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_latam`, `accessory_description_latam`, `display_type_latam`
 - Item 5008 "Infestations Cured" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_latam`, `accessory_description_latam`, `display_type_latam`
 - Item 900000000 "Ben Lubar" in [item-schema-unique.json](community/inventory_service/item-schema-unique.json) is missing `name_latam`
+- Item 900000001 "The Gauntlet: Arctic (#BossFight2023 Winner)" in [item-schema-unique.json](community/inventory_service/item-schema-unique.json) is missing `name_latam`, `description_latam`, `display_type_latam`
 
 </details>
 
@@ -2977,6 +2998,7 @@
 - Item 5006 "Allies Extinguished" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_ukrainian`, `accessory_description_ukrainian`, `display_type_ukrainian`
 - Item 5007 "Alien Kill Streak" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_ukrainian`, `accessory_description_ukrainian`, `display_type_ukrainian`
 - Item 5008 "Infestations Cured" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_ukrainian`, `accessory_description_ukrainian`, `display_type_ukrainian`
+- Item 900000001 "The Gauntlet: Arctic (#BossFight2023 Winner)" in [item-schema-unique.json](community/inventory_service/item-schema-unique.json) is missing `name_ukrainian`, `description_ukrainian`, `display_type_ukrainian`
 
 </details>
 
@@ -3287,6 +3309,7 @@
 - Item 5007 "Alien Kill Streak" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_vietnamese`, `accessory_description_vietnamese`, `display_type_vietnamese`
 - Item 5008 "Infestations Cured" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_vietnamese`, `accessory_description_vietnamese`, `display_type_vietnamese`
 - Item 900000000 "Ben Lubar" in [item-schema-unique.json](community/inventory_service/item-schema-unique.json) is missing `name_vietnamese`
+- Item 900000001 "The Gauntlet: Arctic (#BossFight2023 Winner)" in [item-schema-unique.json](community/inventory_service/item-schema-unique.json) is missing `name_vietnamese`, `description_vietnamese`, `display_type_vietnamese`
 
 </details>
 
