@@ -18,7 +18,7 @@
 | [European Portuguese](#portuguese-português-europeu) | ✔️ | 180 | 32 | 1822 | 20 | 503 | 456 | 139 |
 | [Brazilian Portuguese](#brazilian-português) | 2 | 2004 | 32 | 956 | 8 | 151 | 217 | 6 |
 | [Romanian](#non-curated-languages) | 51 | 1996 | 48 | 3408 | 199 | 850 | 493 | 146 |
-| [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 2 | 1 |
+| [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [European Spanish](#spanish-español-de-españa) | 28 | 2004 | 40 | 2112 | 199 | 589 | 443 | 145 |
 | [Latin American Spanish](#latam-español-latinoamericano) | 1281 | 2004 | 634 | 4208 | 203 | 855 | 529 | 146 |
 | [Swedish](#non-curated-languages) | 51 | 2004 | 42 | 2697 | 199 | 585 | 447 | 146 |
@@ -2030,13 +2030,7 @@
 
 </summary>
 
-### Upcoming Release Notes
-
-- [20230801_russian.xml](release_notes/20230801_english.xml) is missing.
-
-### Inventory Schema</summary>
-
-- Item 900000001 "The Gauntlet: Arctic (#BossFight2023 Winner)" in [item-schema-unique.json](community/inventory_service/item-schema-unique.json) is missing `name_russian`, `description_russian`
+✓ Up to date!
 
 </details>
 
