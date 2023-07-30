@@ -10,7 +10,7 @@
 | [French](#french-français) | 27 | 138 | 42 | 2062 | 199 | 525 | 433 | 124 |
 | [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 1 |
 | [Hungarian](#non-curated-languages) | 51 | 138 | 42 | 2697 | 199 | 850 | 447 | 146 |
-| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 1 |
+| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 102 | ✔️ | ✔️ |
 | [Korean](#koreana-한국어) | 7 | 10 | 38 | 1193 | 21 | 316 | 433 | 47 |
 | [Norwegian Bokmål](#non-curated-languages) | 69 | 708 | 47 | 3403 | 199 | 585 | 516 | 146 |
@@ -1008,9 +1008,7 @@
 
 </summary>
 
-### Upcoming Release Notes
-
-- [20230801_italian.xml](release_notes/20230801_english.xml) is missing.
+✓ Up to date!
 
 </details>
 
