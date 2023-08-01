@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<content><string id="body">[h2]マップ作成コンテスト2023[/h2]
+
+2023年度マップ作成コンテストの受賞作品は『The Gauntlet: Arctic』です！おめでとうございます！
+
+[img]{STEAM_CLAN_IMAGE}/27357479/e686fb7ba8743375c03bec9e970bb62347b1f35f.png[/img]
+
+全ての参加者には2023年度マップ作成コンテスト参加賞として勲章が送られます。
+
+[img]{STEAM_CLAN_IMAGE}/27357479/a27f367a656f185e4c2344d2df3df9458a356031.png[/img]
+
+[h2]テクスチャのアンチエイリアス[/h2]
+
+アンチエイリアスが鉄格子や木の葉などの透過マテリアルにも適用されるようになりました。以下に8x MSAA設定での例を載せます。左が以前のもので、右がアップデート後のものです。
+
+[img]{STEAM_CLAN_IMAGE}/27357479/7f252c363893ba3578b8ce51570e0d63ff13e42e.png[/img]
+[img]{STEAM_CLAN_IMAGE}/27357479/630dd2b5f1420a3ba33620c383a617bb954b9ab1.png[/img]
+
+[img]{STEAM_CLAN_IMAGE}/27357479/36586ac8d81286b392be54ac0afe4f5a3fd617ff.png[/img]
+[img]{STEAM_CLAN_IMAGE}/27357479/e3e0310767f2fb3ee70109bcf07cb2849693963e.png[/img]
+
+[img]{STEAM_CLAN_IMAGE}/27357479/788de3c66d6e2eeea8bf5105ea0afac51074900e.png[/img]
+[img]{STEAM_CLAN_IMAGE}/27357479/e275320fb5c6bbbb906bde7c0c8e587ca69acb7f.png[/img]
+
+[h2]新たなマテリアルシェーダー[/h2]
+
+マップ作成者向け情報: LightmappedGenericが[url=https://developer.valvesoftware.com/wiki/Parallax_Corrected_Cubemaps]parallax-corrected cubemaps[/url]に対応するようになり、[url=https://developer.valvesoftware.com/wiki/PBR_(Strata_shader)]PBR shader[/url]も追加しました。
+
+https://steamcommunity.com/sharedfiles/filedetails/?id=3012996135
+
+[h2]マテリアルとモデルを更に追加[/h2]
+
+マップ作成者向けに更にマテリアルとモデルを追加しました。現在作成中のリマスターキャンペーンに使われているものですが、オリジナルマップにも使用可能です。
+
+[h2]専用サーバーとチャレンジワークショップの修正[/h2]
+
+専用サーバーがワークショップアドオンを読み込む方式を再度調整し、アドオンが専用サーバー上で長期間旧バージョンのまま稼働している問題の修正を試みました。クライアント側にインストールが必要なチャレンジ(独自のマテリアル、モデル、パーティクル、サウンド、翻訳など)はミッション開始までに正常に読み込まれるようになったはずです。
+
+チャレンジリスト上でローカル保存されていないチャレンジの画像と制作者名が読み込まれない問題と、チャレンジが無効化された際に空欄にされるべきコンソール変数がリセットされない問題も修正しました。
+
+[h2]武器[/h2]
+[list]
+[*]天井(func_asw_fade)がそこより上から落ちてきたグレネードには接触し、下から飛んできたグレネードには接触しないように変更。
+[*]グレネードの接触判定システムを地雷、ビーコン、ロケット、発煙筒などにも適用。
+[*]発煙筒が地雷の感知範囲などの物理的な存在ではないオブジェクトにぶつかっていたのを修正。
+[*]v45帯電アーマーが最後の1回を使った瞬間に見た目では消滅していたのを修正。
+[/list]
+
+[h2]その他[/h2]
+[list]
+[*]ミッション選択画面がスクロール可能な一つのウィンドウに統合された。
+[*]rd_draw_minimapに0から1の間の値を設定可能になり、ミニマップを半透明表示できるようになった。
+[*]VScript関数EmitSoundTableをentityに追加。
+[*]Hammerエディタ上でバイオマスのinputに"Ignite"が無かったのを修正。
+[*]ランダムモデルを使用する設定の女性一般人が"ERROR"の文字列として出現することがあったのを修正。
+[*]指揮能力スキルの効果音が違う場所から聞こえていたのを修正。
+[*]ネットワーク関係の特定の変数が異常な値に変更された時に出る警告メッセージを追加。
+[*]大量のワークショップアドオンが一度にサブスクライブ・サブスクライブ解除される際に数秒間ゲームがフリーズしていたのを修正。
+[/list]</string><string id="subtitle"></string><string id="summary"></string><string id="title">Alien Swarm: Reactive Dropアップデート - 2023年8月1日</string></content>

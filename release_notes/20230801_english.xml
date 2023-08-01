@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<content><string id="body">[h2]2023 Mapping Competition[/h2]
+
+Congratulations to the winner of the 2023 mapping competition: The Gauntlet: Arctic!
+
+[img]{STEAM_CLAN_IMAGE}/27357479/e686fb7ba8743375c03bec9e970bb62347b1f35f.png[/img]
+
+All participants have also received the 2023 Mapping Competition Participant medal.
+
+[img]{STEAM_CLAN_IMAGE}/27357479/a27f367a656f185e4c2344d2df3df9458a356031.png[/img]
+
+[h2]Texture Anti-Aliasing[/h2]
+
+Anti-aliasing now affects alpha-tested materials like grates and foliage. Examples shown below are all at 8x MSAA, with how it was previously on the left and how it will be after this update on the right.
+
+[img]{STEAM_CLAN_IMAGE}/27357479/7f252c363893ba3578b8ce51570e0d63ff13e42e.png[/img]
+[img]{STEAM_CLAN_IMAGE}/27357479/630dd2b5f1420a3ba33620c383a617bb954b9ab1.png[/img]
+
+[img]{STEAM_CLAN_IMAGE}/27357479/36586ac8d81286b392be54ac0afe4f5a3fd617ff.png[/img]
+[img]{STEAM_CLAN_IMAGE}/27357479/e3e0310767f2fb3ee70109bcf07cb2849693963e.png[/img]
+
+[img]{STEAM_CLAN_IMAGE}/27357479/788de3c66d6e2eeea8bf5105ea0afac51074900e.png[/img]
+[img]{STEAM_CLAN_IMAGE}/27357479/e275320fb5c6bbbb906bde7c0c8e587ca69acb7f.png[/img]
+
+[h2]New Material Shaders[/h2]
+
+For mappers: LightmappedGeneric now supports [url=https://developer.valvesoftware.com/wiki/Parallax_Corrected_Cubemaps]parallax-corrected cubemaps[/url] and we've also added the [url=https://developer.valvesoftware.com/wiki/PBR_(Strata_shader)]PBR shader[/url].
+
+https://steamcommunity.com/sharedfiles/filedetails/?id=3012996135
+
+[h2]More Materials and Models[/h2]
+
+We've added more materials and models for mappers to use. These are used by an upcoming campaign remaster we're working on, but can also be used for your own maps.
+
+[h2]Dedicated Server and Challenge Workshop Fixes[/h2]
+
+We've once again tweaked how dedicated servers load Workshop addons to try to fix an issue where addons are sometimes outdated for extended periods on dedicated servers. Challenges that are required on clients (for custom materials, models, particles, sounds, translations, etc.) should now more reliably load in time for the mission to start.
+
+We've also fixed the challenge list not loading images or author names for challenges you didn't have installed locally and fixed console variables not being reset when a challenge is deactivated if they would have been set to an empty string.
+
+[h2]Weapons[/h2]
+[list]
+[*]Ceilings (func_asw_fade) now collide with grenades that were thrown from above them and do not collide with grenades that were thrown from below.
+[*]Expanded grenade custom collision logic to also apply to mines, beacons, rockets, and flares.
+[*]Fixed flares bouncing off of non-solid objects like fire mine trigger areas.
+[*]Fixed v45 Electric Charged Armor disappearing immediately when its last charge was activated.
+[/list]
+
+[h2]Misc[/h2]
+[list]
+[*]The mission chooser is now all shown on one scrollable screen.
+[*]rd_draw_minimap can now be set to a value between 0 and 1 in order to draw the minimap image semi-transparently.
+[*]Added EmitSoundTable VScript function to entities.
+[*]Fixed missing "Ignite" input on Biomass in Hammer.
+[*]Fixed female colonists with randomized models occasionally appearing as the word "ERROR".
+[*]Fixed leadership sound coming from the wrong location.
+[*]Added a warning message if certain networking-related variables are changed to dangerous values.
+[*]Fixed a several second game freeze when subscribing or unsubscribing a large quantity of Workshop addons at the same time.
+[/list]</string><string id="subtitle"></string><string id="summary"></string><string id="title">Alien Swarm: Reactive Drop Update - August 1, 2023</string></content>

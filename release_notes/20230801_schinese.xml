@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<content><string id="body">[h2]2023地图大赛[/h2]
+
+恭喜《北极挑战》获得2023地图大赛冠军！
+
+[img]{STEAM_CLAN_IMAGE}/27357479/e686fb7ba8743375c03bec9e970bb62347b1f35f.png[/img]
+
+其他参赛作者也将获得2023地图大赛参与者勋章。
+
+[img]{STEAM_CLAN_IMAGE}/27357479/a27f367a656f185e4c2344d2df3df9458a356031.png[/img]
+
+[h2]纹理抗锯齿[/h2]
+
+抗锯齿也会影响经过alpha测试的材质，例如栅栏和树叶。下面的示例均采用8x MSAA，左侧为启用前，右侧为启用后。
+
+[img]{STEAM_CLAN_IMAGE}/27357479/7f252c363893ba3578b8ce51570e0d63ff13e42e.png[/img]
+[img]{STEAM_CLAN_IMAGE}/27357479/630dd2b5f1420a3ba33620c383a617bb954b9ab1.png[/img]
+
+[img]{STEAM_CLAN_IMAGE}/27357479/36586ac8d81286b392be54ac0afe4f5a3fd617ff.png[/img]
+[img]{STEAM_CLAN_IMAGE}/27357479/e3e0310767f2fb3ee70109bcf07cb2849693963e.png[/img]
+
+[img]{STEAM_CLAN_IMAGE}/27357479/788de3c66d6e2eeea8bf5105ea0afac51074900e.png[/img]
+[img]{STEAM_CLAN_IMAGE}/27357479/e275320fb5c6bbbb906bde7c0c8e587ca69acb7f.png[/img]
+
+[h2]新增材质着色器[/h2]
+
+对于地图作者而言：LightmappedGeneric 可以支持[url=https://developer.valvesoftware.com/wiki/Parallax_Corrected_Cubemaps]视差校正立方体贴图[/url]了。此外，还增加了对[url=https://developer.valvesoftware.com/wiki/PBR_(Strata_shader)]PBR着色器（基于物理渲染的着色器）[/url]的支持.
+
+https://steamcommunity.com/sharedfiles/filedetails/?id=3012996135
+
+[h2]更多材质和模型[/h2]
+
+我们添加了更多材质和模型供地图作者使用。它们主要用于正在制作尚未推出的一个重制版战役，但您完全可用于自己的地图作品。
+
+[h2]专用服务器和创意工坊挑战修复[/h2]
+
+我们再次调整了专用服务器加载创意工坊插件的方式，试图解决专用服务器的插件有时会长时间无法更新的问题。客户端所需的挑战（如自定义材质、模型、粒子效果、声音、翻译等）现在应该能在任务开始时更可靠及时的加载。
+
+我们还修复了挑战列表无法加载您未订阅的挑战图像或作者姓名的问题，并修复了挑战停用时控制台变量的问题（之前如果变量设置为空字符串则不会被重置）。
+
+[h2]武器[/h2]
+[list]
+[*]调整 天花板 (func_asw_fade) 现在会与从上方投掷的榴弹发生碰撞，但不会与从下方投掷的榴弹发生碰撞。
+[*]调整 自定义榴弹碰撞逻辑同样适用于地雷、信标、飞弹和照明弹。
+[*]修复 照明弹在非固体物体（例如火雷触发区域）反弹的问题。
+[*]修复 v45电力护甲在激活最后一次充电时立即消失的问题。
+[/list]
+
+[h2]杂项[/h2]
+[list]
+[*]增加 任务选择器在一个滚动屏幕上显示所有可用任务。
+[*]增加 rd_draw_minimap 现在可以设置为 0 到 1 之间的值，以便实现半透明绘制小地图。
+[*]增加 为实体添加了 EmitSoundTable VScript 函数。
+[*]修复 Hammer中生物质体缺失“点燃”输入的问题。
+[*]修复 女性殖民者随机模型偶尔会出现“ERROR”一词的问题。
+[*]修复 领导声效在错误位置播放的问题。
+[*]增加 在某些网络相关的变量被设置为危险数值时会发出警告消息。
+[*]修复 同一时间订阅/取消订阅大量创意工坊插件时出现的几秒钟的游戏假死问题。
+[/list]</string><string id="subtitle"></string><string id="summary"></string><string id="title">《异形丛生：虫启天降》更新 - 2023年8月1日</string></content>

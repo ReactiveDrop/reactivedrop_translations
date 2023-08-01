@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<content><string id="body">[h2]Competizione di Mapping 2023[/h2]
+
+Congratulazioni al vincitore della competizione di mapping 2023: The Gauntlet: Arctic!
+
+[img]{STEAM_CLAN_IMAGE}/27357479/e686fb7ba8743375c03bec9e970bb62347b1f35f.png[/img]
+
+Tutti i partecipanti hanno ricevuto la medaglia di Partecipante alla Competizione di Mapping 2023.
+
+[img]{STEAM_CLAN_IMAGE}/27357479/a27f367a656f185e4c2344d2df3df9458a356031.png[/img]
+
+[h2]Anti-Aliasing delle Texture[/h2]
+
+L'anti-aliasing ora influisce sui materiali alfa-testati come le griglie e il fogliame. Gli esempi riportati di seguito sono tutti a 8x MSAA, con la situazione precedente a sinistra e quella che si verificherà dopo l'aggiornamento a destra.
+
+[img]{STEAM_CLAN_IMAGE}/27357479/7f252c363893ba3578b8ce51570e0d63ff13e42e.png[/img]
+[img]{STEAM_CLAN_IMAGE}/27357479/630dd2b5f1420a3ba33620c383a617bb954b9ab1.png[/img]
+
+[img]{STEAM_CLAN_IMAGE}/27357479/36586ac8d81286b392be54ac0afe4f5a3fd617ff.png[/img]
+[img]{STEAM_CLAN_IMAGE}/27357479/e3e0310767f2fb3ee70109bcf07cb2849693963e.png[/img]
+
+[img]{STEAM_CLAN_IMAGE}/27357479/788de3c66d6e2eeea8bf5105ea0afac51074900e.png[/img]
+[img]{STEAM_CLAN_IMAGE}/27357479/e275320fb5c6bbbb906bde7c0c8e587ca69acb7f.png[/img]
+
+[h2]Nuovi Shader per Materiali[/h2]
+
+Per i creatori di mappe: LightmappedGeneric ora supporta le [url=https://developer.valvesoftware.com/wiki/Parallax_Corrected_Cubemaps]parallax-corrected cubemaps[/url] e abbiamo anche aggiunto lo [url=https://developer.valvesoftware.com/wiki/PBR_(Strata_shader)]shader PBR[/url].
+
+https://steamcommunity.com/sharedfiles/filedetails/?id=3012996135
+
+[h2]Più Materiali e Modelli[/h2]
+
+Abbiamo aggiunto altri materiali e modelli da utilizzare per i creatori. Questi materiali sono utilizzati per una prossima rimasterizzazione della campagna a cui stiamo lavorando, ma possono essere utilizzati anche per le vostre mappe.
+
+[h2]Correzioni per i Server Dedicati e le sfide del Workshop[/h2]
+
+Abbiamo ancora una volta modificato il modo in cui i server dedicati caricano gli addon del Workshop per cercare di risolvere un problema per cui gli addon a volte sono obsoleti per lunghi periodi sui server dedicati. Le sfide richieste dai client (per i materiali personalizzati, i modelli, le particelle, i suoni, le traduzioni e così via) dovrebbero ora caricarsi in modo più affidabile in tempo per l'inizio della missione.
+
+Abbiamo anche risolto il problema del mancato caricamento delle immagini o dei nomi degli autori per le sfide non installate localmente e abbiamo risolto il problema delle variabili della console che non vengono ripristinate quando una sfida viene disattivata, se sono state impostate su una stringa vuota.
+
+[h2]Armi[/h2]
+[list]
+[*]I soffitti (func_asw_fade) ora collidono con le granate lanciate dall'alto e non collidono con le granate lanciate dal basso.
+[*]Espansione della logica di collisione personalizzata delle granate per applicarla anche a mine, segnaltori, razzi e bengala.
+[*]Corretto il rimbalzo dei bengala su oggetti non solidi come le aree di innesco delle mine.
+[*]Corretta l'armatura a carica elettrica v45 che scompare immediatamente dopo l'attivazione dell'ultima carica.
+[/list]
+
+[h2]Varie[/h2]
+[list]
+[*]Il selezionatore di missioni è ora visualizzato in un'unica schermata scorrevole.
+[*]rd_draw_minimap può ora essere impostato su un valore compreso tra 0 e 1 per disegnare l'immagine della minimappa in modo semitrasparente.
+[*]Aggiunta la funzione VScript EmitSoundTable alle entità.
+[*]Corretto l'input "Ignite" mancante sulla Biomassa in Hammer.
+[*]Corretto il problema dei coloni femminili con modelli randomizzati che a volte appaiono come la scritta "ERROR".
+[*]Corretto il suono della leadership proveniente dalla posizione sbagliata.
+[*]È stato aggiunto un messaggio di avviso se alcune variabili relative alla rete vengono modificate in valori pericolosi.
+[*]Corretto un blocco del gioco di alcuni secondi quando ci si sottoscriveva o si annullava la sottoscrizione ad una grande quantità di addon del Workshop allo stesso tempo.
+[/list]</string><string id="subtitle"></string><string id="summary"></string><string id="title">Aggiornamento di Alien Swarm: Reactive Drop - 1 Agosto 2023</string></content>
