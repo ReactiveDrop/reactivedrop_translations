@@ -26,6 +26,8 @@
 
 对于地图作者而言：LightmappedGeneric 可以支持[url=https://developer.valvesoftware.com/wiki/Parallax_Corrected_Cubemaps]视差校正立方体贴图[/url]了。此外，还增加了对[url=https://developer.valvesoftware.com/wiki/PBR_(Strata_shader)]PBR着色器（基于物理渲染的着色器）[/url]的支持.
 
+https://steamcommunity.com/sharedfiles/filedetails/?id=3012996135
+
 [h2]更多材质和模型[/h2]
 
 我们添加了更多材质和模型供地图作者使用。它们主要用于正在制作尚未推出的一个重制版战役，但您完全可用于自己的地图作品。
