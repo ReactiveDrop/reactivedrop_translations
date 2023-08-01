@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<content><string id="body">[h2]Mapping-Wettbewerb 2023[/h2]
+
+Herzlichen Glückwunsch an den Gewinner des Mapping-Wettbewerbs 2023: Der Spießrutenlauf: Arktis!
+
+[img]{STEAM_CLAN_IMAGE}/27357479/e686fb7ba8743375c03bec9e970bb62347b1f35f.png[/img]
+
+Alle Teilnehmerinnen und Teilnehmer haben außerdem die Teilnehmermedaille erhalten.
+
+[img]{STEAM_CLAN_IMAGE}/27357479/a27f367a656f185e4c2344d2df3df9458a356031.png[/img]
+
+[h2]Textur Anti-Aliasing[/h2]
+
+Anti-Aliasing wirkt sich jetzt auf Materialien mit Ausschnitten wie Gitter und Laub aus. Die untenstehenden Beispiele sind alle mit 8x MSAA, wobei links steht, wie es vorher war, und rechts, wie es nach diesem Update ist.
+
+[img]{STEAM_CLAN_IMAGE}/27357479/7f252c363893ba3578b8ce51570e0d63ff13e42e.png[/img]
+[img]{STEAM_CLAN_IMAGE}/27357479/630dd2b5f1420a3ba33620c383a617bb954b9ab1.png[/img]
+
+[img]{STEAM_CLAN_IMAGE}/27357479/36586ac8d81286b392be54ac0afe4f5a3fd617ff.png[/img]
+[img]{STEAM_CLAN_IMAGE}/27357479/e3e0310767f2fb3ee70109bcf07cb2849693963e.png[/img]
+
+[img]{STEAM_CLAN_IMAGE}/27357479/788de3c66d6e2eeea8bf5105ea0afac51074900e.png[/img]
+[img]{STEAM_CLAN_IMAGE}/27357479/e275320fb5c6bbbb906bde7c0c8e587ca69acb7f.png[/img]
+
+[h2]Neue Material Shader[/h2]
+
+Für Mapper: LightmappedGeneric unterstützt jetzt [url=https://developer.valvesoftware.com/wiki/Parallax_Corrected_Cubemaps]Parallaxen-korrigierte Cubemaps[/url] außerdem haben wir den [url=https://developer.valvesoftware.com/wiki/PBR_(Strata_shader)]PBR Shader[/url] implementiert.
+
+https://steamcommunity.com/sharedfiles/filedetails/?id=3012996135
+
+[h2]Weitere Materialien und Modelle[/h2]
+
+Wir haben weitere Materialien und Modelle hinzugefügt, die Mapper nutzen können. Diese werden in einem kommenden Feldzug-Remaster verwendet, können aber auch für deine eigenen Maps verwendet werden.
+
+[h2]Korrekturen für Dedizierte Server und Workshop-Herausforderungen[/h2]
+
+Wir haben die Art und Weise, wie dedizierte Server Workshop-Addons laden, noch einmal optimiert, um ein Problem zu beheben, bei dem Addons auf dedizierten Servern manchmal für längere Zeit veraltet sind. Herausforderungen, die auf den Clients benötigt werden (für benutzerdefinierte Materialien, Modelle, Partikel, Töne, Übersetzungen usw.), sollten nun zuverlässiger rechtzeitig vor dem Start des Einsatzes geladen werden.
+
+Außerdem wurde behoben, dass die Liste der Herausforderungen keine Bilder oder Namen für Herausforderungen lädt, die du nicht lokal installiert hast, und dass Konsolenvariablen beim Deaktivieren einer Herausforderung nicht zurückgesetzt werden, wenn sie zuvor auf einen leeren String gesetzt wurden.
+
+[h2]Waffen[/h2]
+[list]
+[*]Decken (func_asw_fade) kollidieren jetzt mit Granaten, die von oben geworfen wurden, und nicht mehr mit Granaten, die von unten geworfen wurden.
+[*]Die benutzerdefinierte Kollisionslogik für Granaten wurde erweitert und gilt nun auch für Minen, Kreise, Raketen und Fackeln.
+[*]Es wurde behoben, dass Fackeln von nicht-festen Objekten wie z.B. Minenauslösebereichen abprallen.
+[*]Die v45 Elektrisch geladene Rüstung verschwand sofort, wenn ihre letzte Aufladung aktiviert wurde.
+[/list]
+
+[h2]Verschiedenes[/h2]
+[list]
+[*]Die Einsatzauswahl wird jetzt auf einem einzigen scrollbaren Bildschirm angezeigt.
+[*]rd_draw_minimap kann jetzt auf einen Wert zwischen 0 und 1 gesetzt werden, um das Minimap-Bild halbtransparent zu zeichnen.
+[*]EmitSoundTable VScript-Funktion zu Entitäten hinzugefügt.
+[*]Fehlende Eingabe für "Zünden" bei Biomasse in Hammer behoben.
+[*]Es wurde behoben, dass weibliche Kolonisten mit zufälligen Modellen gelegentlich mit dem Wort "ERROR" dargestellt wurden.
+[*]Der Führung-Ton kam von einer falschen Position.
+[*]Es wurde eine Warnmeldung hinzugefügt, wenn bestimmte netzwerkbezogene Variablen auf gefährliche Werte geändert werden.
+[*]Ein Einfrieren des Spiels für mehrere Sekunden wurde behoben, wenn eine große Anzahl von Workshop-Addons gleichzeitig abonniert oder abbestellt wurde.
+[/list]</string><string id="subtitle"></string><string id="summary"></string><string id="title">Alien Swarm: Reactive Drop Update - 1. August 2023</string></content>
