@@ -26,6 +26,8 @@ Anti-aliasing now affects alpha-tested materials like grates and foliage. Exampl
 
 For mappers: LightmappedGeneric now supports [url=https://developer.valvesoftware.com/wiki/Parallax_Corrected_Cubemaps]parallax-corrected cubemaps[/url] and we've also added the [url=https://developer.valvesoftware.com/wiki/PBR_(Strata_shader)]PBR shader[/url].
 
+https://steamcommunity.com/sharedfiles/filedetails/?id=3012996135
+
 [h2]More Materials and Models[/h2]
 
 We've added more materials and models for mappers to use. These are used by an upcoming campaign remaster we're working on, but can also be used for your own maps.
