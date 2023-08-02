@@ -8,7 +8,7 @@
 | [Dutch](#non-curated-languages) | 51 | 2004 | 42 | 2697 | 199 | 585 | 447 | 145 |
 | [Finnish](#non-curated-languages) | 51 | 2004 | 42 | 2697 | 199 | 585 | 447 | 145 |
 | [French](#french-français) | 27 | 138 | 42 | 2062 | 199 | 525 | 433 | 124 |
-| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 1 |
+| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Hungarian](#non-curated-languages) | 51 | 138 | 42 | 2697 | 199 | 850 | 447 | 146 |
 | [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 102 | ✔️ | ✔️ |
@@ -994,9 +994,7 @@
 
 </summary>
 
-### Upcoming Release Notes
-
-- [20230801_german.xml](release_notes/20230801_english.xml) is missing.
+✓ Up to date!
 
 </details>
 
