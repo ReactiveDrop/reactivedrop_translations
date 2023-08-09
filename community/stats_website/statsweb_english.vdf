@@ -47,6 +47,8 @@
 "StatsWeb_ProfileNoStatsDesc"		"No stats available for %s."
 "StatsWeb_ProfileNoStatsBefore"		"Unfortunately, "
 "StatsWeb_ProfileNoStatsAfter"		" has not played Alien Swarm: Reactive Drop, so no stats are available."
+"StatsWeb_ProfileNoStatsOptOutBefore"		""
+"StatsWeb_ProfileNoStatsOptOutAfter"		" has requested that their personal stats not be shown on this page."
 "StatsWeb_ProfileNavStats"		"Stats"
 "StatsWeb_ProfileNavWeapons"		"Weapons"
 "StatsWeb_ProfileNavAchievements"		"Achievements"
