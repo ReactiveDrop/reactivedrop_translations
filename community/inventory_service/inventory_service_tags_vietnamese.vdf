@@ -62,7 +62,7 @@
 "[english]inventory_class_restriction_medic"		"Medic"
 "inventory_class_restriction_tech"		"Kỹ thuật viên"
 "[english]inventory_class_restriction_tech"		"Tech"
-"inventory_crafting_item"		"Vật phẩm để chế tạo" // I will assume this mean items that is used for crafting, not about creating items from crafting -DucDuyGaming
+"inventory_crafting_item"		"Vật phẩm chế tạo"
 "[english]inventory_crafting_item"		"Crafting Item"
 "inventory_crafting_item_single_use_tool"		"Dụng cụ dùng một lần"
 "[english]inventory_crafting_item_single_use_tool"		"Single-Use Tool"
@@ -98,7 +98,7 @@
 "[english]item_store_category_programmerstamp"		"Programmers"
 "item_store_category_serverhoststamp"		"Người lưu trữ máy chủ"
 // the same, but for server hosts.
-"[english]item_store_category_serverhoststamp"		"Server Hosts" // I hope that this mean the person who host the server. If it is wrong and you're reading this, let me know -DucDuyGaming
+"[english]item_store_category_serverhoststamp"		"Server Hosts"
 "item_store_category_translatorstamp"		"Phiên dịch viên"
 // the same, but for translators.
 "[english]item_store_category_translatorstamp"		"Translators"
