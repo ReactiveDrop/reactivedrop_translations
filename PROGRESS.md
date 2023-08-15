@@ -1,31 +1,31 @@
 # Overview
 | Language | basemodui | closecaption | gameui | reactivedrop | statsweb | Strings | Inventory | Files |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | ✔️ | ✔️ | 1 | ✔️ | ✔️ | ✔️ |
+| [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Traditional Chinese](#tchinese-繁體中文) | 9 | 140 | 33 | 2586 | 200 | 206 | 445 | 145 |
 | [Czech](#czech-čeština) | 71 | 1810 | 42 | 3703 | 200 | 855 | 515 | 145 |
 | [Danish](#non-curated-languages) | 52 | 231 | 42 | 3231 | 200 | 585 | 510 | 146 |
 | [Dutch](#non-curated-languages) | 51 | 2004 | 42 | 2699 | 200 | 585 | 447 | 145 |
 | [Finnish](#non-curated-languages) | 51 | 2004 | 42 | 2699 | 200 | 585 | 447 | 145 |
 | [French](#french-français) | 27 | 138 | 42 | 2064 | 200 | 525 | 433 | 124 |
-| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | 1 | ✔️ | ✔️ | ✔️ |
+| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 1 |
 | [Hungarian](#non-curated-languages) | 51 | 138 | 42 | 2699 | 200 | 850 | 447 | 146 |
-| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | 1 | ✔️ | ✔️ | ✔️ |
-| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | ✔️ | 1 | 102 | ✔️ | ✔️ |
+| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 1 |
+| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 102 | ✔️ | 1 |
 | [Korean](#koreana-한국어) | 7 | 10 | 38 | 1195 | 22 | 316 | 433 | 47 |
 | [Norwegian Bokmål](#non-curated-languages) | 69 | 708 | 47 | 3405 | 200 | 585 | 516 | 146 |
 | [Polish](#polish-polski) | 28 | 2004 | 42 | 2699 | 200 | 581 | 447 | 141 |
 | [European Portuguese](#portuguese-português-europeu) | ✔️ | 180 | 32 | 1824 | 21 | 503 | 456 | 139 |
 | [Brazilian Portuguese](#brazilian-português) | 2 | 2004 | 32 | 958 | 9 | 151 | 217 | 6 |
 | [Romanian](#non-curated-languages) | 51 | 1996 | 48 | 3410 | 200 | 850 | 493 | 146 |
-| [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | ✔️ | 1 | ✔️ | ✔️ | ✔️ |
+| [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | ✔️ | 1 | ✔️ | ✔️ | 1 |
 | [European Spanish](#spanish-español-de-españa) | 28 | 2004 | 40 | 2114 | 200 | 589 | 443 | 145 |
 | [Latin American Spanish](#latam-español-latinoamericano) | 1281 | 2004 | 634 | 4210 | 204 | 855 | 529 | 146 |
 | [Swedish](#non-curated-languages) | 51 | 2004 | 42 | 2699 | 200 | 585 | 447 | 146 |
 | [Thai](#non-curated-languages) | 966 | 1993 | 50 | 3946 | 200 | 614 | 526 | 146 |
 | [Turkish](#non-curated-languages) | 51 | 137 | 42 | 2699 | 200 | 850 | 447 | 146 |
 | [Ukrainian](#ukrainian-українська) | 27 | 131 | 32 | 2242 | 200 | 803 | 441 | 145 |
-| [Vietnamese](#vietnamese-tiếng-việt) | 1281 | 2004 | 634 | 4210 | 200 | 807 | 529 | 133 |
+| [Vietnamese](#vietnamese-tiếng-việt) | 1281 | 2004 | 634 | 4210 | 200 | 775 | 529 | 131 |
 ### Legend
 - ***Non-capitalized column headers*** are the most important specific files and their number of missing strings. All of these txt-files are located in the resources folder. Except statsweb, which lies in community/stats_website, it's an vdf-file.
 - ***Strings*** is the number of missing strings not included in one of the files which get an individual non-capitalized column.
@@ -40,9 +40,7 @@
 
 </summary>
 
-### Strings
-
-- [statsweb_schinese.vdf](community/stats_website/statsweb_schinese.vdf) has 1 untranslated strings.
+✓ Up to date!
 
 </details>
 
@@ -76,7 +74,7 @@
 
 ### Upcoming Release Notes
 
-- [20230801_tchinese.xml](release_notes/20230801_english.xml) is missing.
+- [20230816_tchinese.xml](release_notes/20230816_english.xml) is missing.
 
 ### Credits
 
@@ -398,7 +396,7 @@
 
 ### Upcoming Release Notes
 
-- [20230801_czech.xml](release_notes/20230801_english.xml) is missing.
+- [20230816_czech.xml](release_notes/20230816_english.xml) is missing.
 
 ### Credits
 
@@ -720,7 +718,7 @@
 
 ### Upcoming Release Notes
 
-- [20230801_french.xml](release_notes/20230801_english.xml) is missing.
+- [20230816_french.xml](release_notes/20230816_english.xml) is missing.
 
 ### Credits
 
@@ -996,9 +994,9 @@
 
 </summary>
 
-### Strings
+### Upcoming Release Notes
 
-- [statsweb_german.vdf](community/stats_website/statsweb_german.vdf) has 1 untranslated strings.
+- [20230816_german.xml](release_notes/20230816_english.xml) is missing.
 
 </details>
 
@@ -1008,9 +1006,9 @@
 
 </summary>
 
-### Strings
+### Upcoming Release Notes
 
-- [statsweb_italian.vdf](community/stats_website/statsweb_italian.vdf) has 1 untranslated strings.
+- [20230816_italian.xml](release_notes/20230816_english.xml) is missing.
 
 </details>
 
@@ -1022,9 +1020,12 @@
 
 ### Strings
 
-- [statsweb_japanese.vdf](community/stats_website/statsweb_japanese.vdf) has 1 untranslated strings.
 - [signage_japanese.vdf](misc/signage/signage_japanese.vdf) has 67 untranslated strings.
 - [vgui_japanese.txt](platform/vgui_japanese.txt) has 35 untranslated strings.
+
+### Upcoming Release Notes
+
+- [20230816_japanese.xml](release_notes/20230816_english.xml) is missing.
 
 </details>
 
@@ -1056,7 +1057,7 @@
 
 ### Upcoming Release Notes
 
-- [20230801_koreana.xml](release_notes/20230801_english.xml) is missing.
+- [20230816_koreana.xml](release_notes/20230816_english.xml) is missing.
 
 ### Credits
 
@@ -1274,7 +1275,7 @@
 
 ### Upcoming Release Notes
 
-- [20230801_polish.xml](release_notes/20230801_english.xml) is missing.
+- [20230816_polish.xml](release_notes/20230816_english.xml) is missing.
 
 ### Credits
 
@@ -1591,7 +1592,7 @@
 
 ### Upcoming Release Notes
 
-- [20230801_portuguese.xml](release_notes/20230801_english.xml) is missing.
+- [20230816_portuguese.xml](release_notes/20230816_english.xml) is missing.
 
 ### Credits
 
@@ -1892,7 +1893,7 @@
 
 ### Upcoming Release Notes
 
-- [20230801_brazilian.xml](release_notes/20230801_english.xml) is missing.
+- [20230816_brazilian.xml](release_notes/20230816_english.xml) is missing.
 
 ### Credits
 
@@ -2031,6 +2032,10 @@
 
 - [statsweb_russian.vdf](community/stats_website/statsweb_russian.vdf) has 1 untranslated strings.
 
+### Upcoming Release Notes
+
+- [20230816_russian.xml](release_notes/20230816_english.xml) is missing.
+
 </details>
 
 <details><summary>
@@ -2064,7 +2069,7 @@
 
 ### Upcoming Release Notes
 
-- [20230801_spanish.xml](release_notes/20230801_english.xml) is missing.
+- [20230816_spanish.xml](release_notes/20230816_english.xml) is missing.
 
 ### Credits
 
@@ -2388,7 +2393,7 @@
 
 ### Upcoming Release Notes
 
-- [20230801_latam.xml](release_notes/20230801_english.xml) is missing.
+- [20230816_latam.xml](release_notes/20230816_english.xml) is missing.
 
 ### Credits
 
@@ -2709,7 +2714,7 @@
 
 ### Upcoming Release Notes
 
-- [20230801_ukrainian.xml](release_notes/20230801_english.xml) is missing.
+- [20230816_ukrainian.xml](release_notes/20230816_english.xml) is missing.
 
 ### Credits
 
@@ -3008,15 +3013,12 @@
 ### Strings
 
 - [reactivedrop_vietnamese.txt](addons/ExampleAddon/resource/reactivedrop_vietnamese.txt) has 39 untranslated strings.
-- [inventory_service_tags_vietnamese.vdf](community/inventory_service/inventory_service_tags_vietnamese.vdf) has 27 untranslated strings.
 - [statsweb_vietnamese.vdf](community/stats_website/statsweb_vietnamese.vdf) has 200 untranslated strings.
 - [steam_input_vietnamese.vdf](community/steam_input/steam_input_vietnamese.vdf) has 67 untranslated strings.
-- [workshop_description_vietnamese.vdf](community/workshop/workshop_description_vietnamese.vdf) has 4 untranslated strings.
 - [signage_vietnamese.vdf](misc/signage/signage_vietnamese.vdf) has 69 untranslated strings.
 - [serverbrowser_vietnamese.txt](platform/servers/serverbrowser_vietnamese.txt) has 186 untranslated strings.
 - [vgui_vietnamese.txt](platform/vgui_vietnamese.txt) has 184 untranslated strings.
 - [basemodui_vietnamese.txt](resource/basemodui_vietnamese.txt) has 1281 untranslated strings.
-- [chat_vietnamese.txt](resource/chat_vietnamese.txt) has 1 untranslated strings.
 - [closecaption_vietnamese.txt](resource/closecaption_vietnamese.txt) has 2004 untranslated strings.
 - [gameui_vietnamese.txt](resource/gameui_vietnamese.txt) has 634 untranslated strings.
 - [reactivedrop_vietnamese.txt](resource/reactivedrop_vietnamese.txt) has 4210 untranslated strings.
@@ -3024,15 +3026,13 @@
 
 ### Steam Store and Community
 
-- [eula_vietnamese.txt](community/eula/eula_english.txt) is missing.
 - [app_items_563560_vietnamese.json](community/points_shop/app_items_563560_english.json) is missing.
-- [workshop_tags_vietnamese.json](community/workshop/workshop_tags_english.json) is missing.
 - [content_warning_563560_vietnamese.txt](store_page/content_warning_563560_english.txt) is missing.
 - [storepage_81731_vietnamese.json](store_page/storepage_81731_vietnamese.json) has 6 indented lines.
 
 ### Upcoming Release Notes
 
-- [20230801_vietnamese.xml](release_notes/20230801_english.xml) is missing.
+- [20230816_vietnamese.xml](release_notes/20230816_english.xml) is missing.
 
 ### Credits
 
