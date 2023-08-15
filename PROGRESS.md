@@ -10,8 +10,8 @@
 | [French](#french-français) | 27 | 138 | 42 | 2064 | 200 | 525 | 433 | 124 |
 | [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 1 |
 | [Hungarian](#non-curated-languages) | 51 | 138 | 42 | 2699 | 200 | 850 | 447 | 146 |
-| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 1 |
-| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 102 | ✔️ | 1 |
+| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
+| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 102 | ✔️ | ✔️ |
 | [Korean](#koreana-한국어) | 7 | 10 | 38 | 1195 | 22 | 316 | 433 | 47 |
 | [Norwegian Bokmål](#non-curated-languages) | 69 | 708 | 47 | 3405 | 200 | 585 | 516 | 146 |
 | [Polish](#polish-polski) | 28 | 2004 | 42 | 2699 | 200 | 581 | 447 | 141 |
@@ -1006,9 +1006,7 @@
 
 </summary>
 
-### Upcoming Release Notes
-
-- [20230816_italian.xml](release_notes/20230816_english.xml) is missing.
+✓ Up to date!
 
 </details>
 
@@ -1022,10 +1020,6 @@
 
 - [signage_japanese.vdf](misc/signage/signage_japanese.vdf) has 67 untranslated strings.
 - [vgui_japanese.txt](platform/vgui_japanese.txt) has 35 untranslated strings.
-
-### Upcoming Release Notes
-
-- [20230816_japanese.xml](release_notes/20230816_english.xml) is missing.
 
 </details>
 
