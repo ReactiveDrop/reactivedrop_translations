@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<content><string id="body">[h2]Einsätze[/h2]
+[list]
+[*][b]Operation Säuberung: Lagereinrichtung:[/b] Die Techniker-Anforderung wurde entfernt. Es wurden eine Kettensäge in der Nähe der ersten Tür und zwei Pistolen in der Nähe der letzten Tür hinzugefügt.
+[*][b]Forschung 7: Illyn Wald:[/b] Der Nahkampf-Hinweis an der Blockade wurde entfernt. (Danke Dmitriy!)
+[*][b]Forschung 7: Illyn Wald:[/b] Der Generator nimmt keinen Schaden mehr durch Soldaten oder Explosionen.
+[*][b]Forschung 7: Illyn Wald:[/b] Die Grafik der Boss-Healthbar wurde angepasst.
+[*][b]Tilarus-5: Kalte Laufstege:[/b] Ein falsch ausgerichtetes Geländer wurde repariert. (Danke WTF-8!)
+[*][b]Paranoia: Entscheidender Punkt:[/b] Die Satellitenschüssel nimmt keinen Schaden mehr durch Soldaten. (Zuvor konnte sie mit der Tesla-Kanone beschädigt werden.)
+[*][b]BioGen Gesellschaft: Operation X5:[/b] Es wurde eine Stelle behoben, an der Soldaten aus der Karte fallen konnten. (Danke Blueberry!)
+[*][b]Unfall 32: Abteilung für Information:[/b] Der Reaktor-Hackbereich war manchmal deaktiviert.
+[*][b]Unfall 32: Abteilung für Information:[/b] Aliens bewegen sich langsamer im Wasser.
+[*][b]Unfall 32: Stromanschluss:[/b] Für Herausforderungen, die zusätzliche Eier spawnen, wurde das Ziel geändert, alle Eier zu beseitigen und nicht nur die Eier in bestimmten Räumen auf der Karte.
+[*][b]Unfall 32: Stromanschluss:[/b] Changed eggs objective to clearing out any eggs rather than eggs in specific rooms in the map, for challenges that spawn additional eggs.
+[*][b]Unfall 32: Stromanschluss:[/b] Die Tür zum Vorratsraum wurde aufgeschweißt und weitere Munitionstypen hinzugefügt.
+[*][b]Unfall 32: Forschungszentrum:[/b] Eine Schaltfläche zum Wegblasen des Nebels wurde hinzugefügt.
+[*][b]Unfall 32: Forschungszentrum:[/b] Angepasste Spawnpunkte.
+[*][b]Unfall 32: J5 Knoten:[/b] Die Aliens bewegen sich langsamer in der Dusche.
+[*][b]Unfall 32 (all Einsätze):[/b] Verbesserte reflektierende Oberflächen.
+[/list]
+
+[h2]Fehlerbehebungen[/h2]
+[list]
+[*]Das Fadenkreuz wurde bei einigen Benutzern nicht korrekt dargestellt. Dies war vor allem beim Hacken zu beobachten.
+[*]Es wurde behoben, dass die Einsatzauswahl keine Bonus-, Endlos- oder Deathmatch-Einsätze mehr anzeigt, nachdem die Einsätze in einem Feldzug angesehen und dann abgebrochen wurde.
+[*]Ein Absturz im neuen PBR-Shader wurde behoben.
+[*]Es wurde behoben, dass die L1/LB-Taste nicht mehr funktioniert, wenn das Radialmenü zum Aktivieren von Ausrüstung benutzt wurde. Dies behebt auch das Problem, dass das Radialmenü für Ausrüstung manchmal Befehle vergaß.
+[*]Die Änderungen am Workshop für dedizierte Server wurden rückgängig gemacht, da sie eine unangemessen hohe Serverlast verursachten.
+[*]Techniker-Waffen erfordern nun spezifisch die Fähigkeit Techniker-Waffen zu benutzen (zuvor: die Fähikeit zu hacken), wie es bei den Waffen anderer Klassen der Fall ist.
+[*]Bots können nach dem Ende eines Einsatzes nicht mehr die Mobile Heileinheit, den Bergbaulaser oder die Tesla-Kanone abfeuern.
+[/list]
+
+[h2]Verschiedenens[/h2]
+[list]
+[*]Die Abstimmung über die Änderung des Einsatzes während der Einsatzbesprechung oder der Nachbesprechung erfordert jetzt nur noch eine Mehrheit der Abstimmenden, nicht mehr die Mehrheit der Spieler in der Lobby. Das wiederholte Aufrufen erfolgloser Abstimmungen führt zu einer vorübergehenden Sperre. Abstimmung während des Spiels bleiben unverändert.
+[*]Wenn du einen Spieler in der Lobby stumm schaltest, für den Rauswurf eines Spielers stimmst oder einen Spieler zum Anführer der Lobby machst, wird jetzt ein Mini-Report an unser Ticket-System gesendet, wenn du diese Aktion bei diesem Spieler in letzter Zeit nicht durchgeführt hast. Wir nutzen dies, um unseren Meldeserver zu testen, während wir an einem vielseitigeren Meldesystem im Spiel arbeiten.
+[*]Die convars r_flashlightdepthres (1024), rd_max_depth_texture_shadows (1), r_flashlightdepthreshigh (2048) und rd_max_depth_texture_highres_shadows (0) können jetzt während des Spiels geändert werden (oder in der autoexec.cfg hinzugefügt werden). Diese Änderungen sollten nur vorgenommen werden, wenn du dich nicht in einem Einsatz befindest, da sie dazu führen, dass dein Spiel für ein paar Sekunden einfriert, während die Renderziele neu zugewiesen werden. Wir überlegen, ob wir in Zukunft Einstellungen hinzufügen, um diese zu ändern, aber im Moment sind sie für Power-User gedacht (Leute, die die autoexec.cfg bearbeiten können).
+[/list]</string><string id="subtitle"></string><string id="summary"></string><string id="title">Alien Swarm: Reactive Drop Update - 16. August 2023</string></content>
