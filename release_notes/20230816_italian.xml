@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<content><string id="body">[h2]Missioni[/h2]
+[list]
+[*][b]Operazione Cleansweep: Magazzino:[/b] Rimosso equipaggiamento del Tecnico. Aggiunta una motosega vicino alla prima porta e pistole doppie vicino all'ultima.
+[*][b]Research 7: Foresta di Illyn:[/b] Rimosso indicatore di aiuto "Mischia" dalla barricata. (grazie Dmitriy!)
+[*][b]Research 7: Foresta di Illyn:[/b] Il generatore non può più subire danni dai marine o dalle esplosioni.
+[*][b]Research 7: Foresta di Illyn:[/b] Corrette grafiche della barra di salute del boss.
+[*][b]Tilarus-5: Passerelle Fredde:[/b] Corretto una ringhiera misallineata. (grazie WTF-8!)
+[*][b]Paranoia: Punto Cruciale:[/b] La parabola del satellite non prende più danni dai marine. (In precedenza poteva essere danneggiata dal Cannone Tesla.)
+[*][b]BioGen Corporation: Operazione X-5:[/b] Corretto un punto in cui i marine potevano cadere fuori dalla mappa. (grazie Blueberry!)
+[*][b]Accident 32: Dipartimento Informazioni:[/b] Corretta l'area per l'hacking del reattore che a volte era disabilitata.
+[*][b]Accident 32: Dipartimento Informazioni:[/b] Resi gli alieni più lenti in acqua.
+[*][b]Accident 32: Settore Energetico:[/b] Cambiato l'obiettivo delle uova a "eliminare tutte le uova" da "eliminare ruova in stanze specifiche della mappa" ai fini delle sfide che aggiungono uova extra.
+[*][b]Accident 32: Settore Energetico:[/b] Dissaldata la porta della stanza dei rifornimenti e aggiunti più tipi di munizioni.
+[*][b]Accident 32: Centro di Ricerca:[/b] Aggiunto un bottone per soffiare via la nebbia.
+[*][b]Accident 32: Centro di Ricerca:[/b] Corrette le comparse dei nemici.
+[*][b]Accident 32: Connettore J5:[/b] Resi gli alieni più lenti nella doccia.
+[*][b]Accident 32 (tutte le missioni):[/b] Migliorate le superfici riflettenti.
+[/list]
+
+[h2]Bugfix[/h2]
+[list]
+[*]Corretto il mirino che non veniva visualizzato correttamente per alcuni utenti. Si notava soprattutto durante l'hacking.
+[*]Corretto il selettore missioni che non mostrava più le missioni bonus, infinite, o deathmatch dopo aver aperto una campagna ed essere usciti dal relativo menù.
+[*]Corretto un crash nel nuovo shader PBR.
+[*]Corretto il bottone L1/LB che smetteva di funzionare dopo aver usato il menù radiale per attivare dell'equipaggiamento. Questo corregge anche il menu radiale del cambio di marine che ogni tanto ignorava i comandi.
+[*]Annullate modifiche del workshop dei server dedicati perchè causavano aumenti irragionevoli del carico dei server.
+[*]Corrette le armi del Tecnico che richiedevano l'abilità di hackerare invece che specificamente l'abilità di usare le armi da Tecnico come le altre classi.
+[*]I bot non possono più sparare la Pistola Medica, il Laser Scavatore, o il Cannone Tesla dopo che una missione è terminata.
+[/list]
+
+[h2]Altro[/h2]
+[list]
+[*]Votare per cambiare missione durante il briefing o dopo che la missione è terminata ora richiede che la maggioranza dei votanti sia d'accordo, anzichè la maggioranza dei giocatori nella lobby. Votazioni fallite ripetutamente imporranno un cooldown. Non sono state modificate le meccaniche di cambio missione durante il gioco.
+[*]Silenziare un giocatore nella lobby, votare per espellere un giocatore, o votare per rendere un giocatore leader della lobby ora invierà una mini-segnalazione al nostro sistema di supporto se non hai già effettuato quell'azione di recente su quel giocatore. Stiamo usando questa funzionalità per testare il nostro server di segnalazioni mentre lavoriamo a un sistema di segnalazioni all'interno del gioco più versatile.
+[*]Le convar r_flashlightdepthres (1024), rd_max_depth_texture_shadows (1), r_flashlightdepthreshigh (2048), e rd_max_depth_texture_highres_shadows (0) possono ora essere cambiate mentre il gioco è in esecuzione (o aggiunte ad autoexec.cfg). Si suggerisce di cambiarle solo al di fuori delle missioni in quanto farlo bloccherà il gioco per alcuni secondi mentre i render target vengono riallocati. Stiamo considerando di aggiungere impostazioni per cambiarle in futuro, ma per ora le abbiamo rese disponibili solo per i power-users (chi si sente a suo agio a modificare autoexec.cfg).
+[/list]</string><string id="subtitle"></string><string id="summary"></string><string id="title">Aggiornamento di Alien Swarm: Reactive Drop - 16 Agosto 2023</string></content>

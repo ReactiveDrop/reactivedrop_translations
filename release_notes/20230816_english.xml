@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<content><string id="body">[h2]Missions[/h2]
+[list]
+[*][b]Operation Cleansweep: Storage Facility:[/b] Removed tech marine requirement. Added a chainsaw near the first door and twin pistols near the last door.
+[*][b]Research 7: Illyn Forest:[/b] Removed "Melee" game instructor hint from blockade. (thanks Dmitriy!)
+[*][b]Research 7: Illyn Forest:[/b] Generator no longer takes damage from marines or explosions.
+[*][b]Research 7: Illyn Forest:[/b] Adjusted boss bar graphics.
+[*][b]Tilarus-5: Cold Catwalks:[/b] Fixed a misaligned railing. (thanks WTF-8!)
+[*][b]Paranoia: Crucial Point:[/b] The satellite dish no longer takes damage from marines. (It could previously be damaged with the Tesla Cannon.)
+[*][b]BioGen Corporation: Operation X-5:[/b] Fixed a spot where marines could fall out of the map. (thanks Blueberry!)
+[*][b]Accident 32: Information Department:[/b] Fixed reactor hack area sometimes being disabled.
+[*][b]Accident 32: Information Department:[/b] Made aliens move slower in water.
+[*][b]Accident 32: Powerhood:[/b] Changed eggs objective to clearing out any eggs rather than eggs in specific rooms in the map, for challenges that spawn additional eggs.
+[*][b]Accident 32: Powerhood:[/b] Unwelded supply room door and added more ammo types.
+[*][b]Accident 32: Research Center:[/b] Added a button to blow away the fog.
+[*][b]Accident 32: Research Center:[/b] Adjusted spawns.
+[*][b]Accident 32: J5 Connector:[/b] Made aliens move slower in the shower.
+[*][b]Accident 32 (all missions):[/b] Improved reflective surfaces.
+[/list]
+
+[h2]Bugfixes[/h2]
+[list]
+[*]Fixed the crosshair not rendering correctly for some users. This was most noticeable while hacking.
+[*]Fixed the mission chooser no longer showing bonus, endless, or deathmatch missions after viewing the missions in a campaign and then backing out.
+[*]Fixed a crash in the new PBR shader.
+[*]Fixed the L1/LB button ceasing to function after using the radial menu to activate equipment. This also fixes the marine swap radial menu sometimes dropping commands.
+[*]Reverted dedicated server workshop changes as they were causing unreasonably increased server load.
+[*]Fixed tech weapons requiring the ability to hack rather than specifically the ability to use tech weapons like weapons for other classes did.
+[*]Bots can no longer fire medic guns, the mining laser, or the tesla cannon after a mission has ended.
+[/list]
+
+[h2]Misc[/h2]
+[list]
+[*]Voting to change the mission during briefing or after the mission has ended now only requires a majority of the voters to agree, not a majority of the players in the lobby. Repeatedly calling unsuccessful votes will result in a temporary cooldown. Voting to change the mission during gameplay is unchanged.
+[*]Muting a player in a lobby, voting to kick a player, or voting to make a player the lobby leader will now send a mini-report to our ticketing system if you have not performed that action on that player recently. We're using this to test our reporting server while we work on a more versatile in-game reporting system.
+[*]The convars r_flashlightdepthres (1024), rd_max_depth_texture_shadows (1), r_flashlightdepthreshigh (2048), and rd_max_depth_texture_highres_shadows (0) can now be changed while the game is running (or added to autoexec.cfg). Changing them should only be done while not in a mission as they will cause your game to freeze for a few seconds while the render targets are reallocated. We might consider adding settings to change these in the future, but for now they're being made available for power-users (people who are comfortable editing autoexec.cfg).
+[/list]</string><string id="subtitle"></string><string id="summary"></string><string id="title">Alien Swarm: Reactive Drop Update - August 16, 2023</string></content>
