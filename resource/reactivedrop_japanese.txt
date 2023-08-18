@@ -8622,6 +8622,9 @@
 "[english]rd_main_menu_tip_hoiaf_leaderboard_friends"		"These are your highest-ranked friends in the current season."
 "rd_main_menu_tip_hoiaf_leaderboard_top10"		"今シーズンのランクトップ10プレイヤーを表示します。"
 "[english]rd_main_menu_tip_hoiaf_leaderboard_top10"		"These are the 10 highest-ranked players in the current season."
+		"rd_main_menu_hoiaf_place_number"		"#%s1"
+		// %s1 is a number (usually from 1-10, but it can be higher if the leaderboard is set to friends only mode)
+		"[english]rd_main_menu_hoiaf_place_number"		"#%s1"
 "rd_main_menu_tip_hoiaf_timer"		"各シーズンは1ヶ月続きます。\nこれは今シーズンの残り時間です。"
 "[english]rd_main_menu_tip_hoiaf_timer"		"Each season lasts one month. This shows you how\nmuch time is left until this season ends and the next\nseason begins."
 "rd_main_menu_tip_event_timer_title"		"スペシャルイベント期間"
