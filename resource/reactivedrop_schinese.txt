@@ -8622,6 +8622,9 @@
 "[english]rd_main_menu_tip_hoiaf_leaderboard_friends"		"These are your highest-ranked friends in the current season."
 "rd_main_menu_tip_hoiaf_leaderboard_top10"		"这是当前赛季全球排名前十的玩家。"
 "[english]rd_main_menu_tip_hoiaf_leaderboard_top10"		"These are the 10 highest-ranked players in the current season."
+		"rd_main_menu_hoiaf_place_number"		"#%s1"
+		// %s1 is a number (usually from 1-10, but it can be higher if the leaderboard is set to friends only mode)
+		"[english]rd_main_menu_hoiaf_place_number"		"#%s1"
 "rd_main_menu_tip_hoiaf_timer"		"每赛季为期一月。\n这里显示了当前赛季剩余时间。"
 "[english]rd_main_menu_tip_hoiaf_timer"		"Each season lasts one month. This shows you how\nmuch time is left until this season ends and the next\nseason begins."
 "rd_main_menu_tip_event_timer_title"		"活动计时"
