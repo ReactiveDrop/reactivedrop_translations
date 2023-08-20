@@ -11,14 +11,14 @@
 | [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | 1 | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Hungarian](#non-curated-languages) | 51 | 138 | 42 | 2700 | 200 | 850 | 447 | 146 |
 | [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | 1 | ✔️ | ✔️ | ✔️ | ✔️ |
-| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | 1 | ✔️ | 102 | ✔️ | ✔️ |
+| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 102 | ✔️ | ✔️ |
 | [Korean](#koreana-한국어) | 7 | 10 | 38 | 1196 | 22 | 316 | 433 | 47 |
 | [Norwegian Bokmål](#non-curated-languages) | 69 | 708 | 47 | 3406 | 200 | 585 | 516 | 146 |
 | [Polish](#polish-polski) | 28 | 2004 | 42 | 2700 | 200 | 581 | 447 | 141 |
 | [European Portuguese](#portuguese-português-europeu) | ✔️ | 180 | 32 | 1825 | 21 | 503 | 456 | 139 |
 | [Brazilian Portuguese](#brazilian-português) | 2 | 2004 | 32 | 959 | 9 | 151 | 217 | 6 |
 | [Romanian](#non-curated-languages) | 51 | 1996 | 48 | 3411 | 200 | 850 | 493 | 146 |
-| [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | 1 | ✔️ | ✔️ | ✔️ | ✔️ |
+| [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [European Spanish](#spanish-español-de-españa) | 28 | 2004 | 40 | 2115 | 200 | 589 | 443 | 145 |
 | [Latin American Spanish](#latam-español-latinoamericano) | 1281 | 2004 | 634 | 4211 | 204 | 855 | 529 | 146 |
 | [Swedish](#non-curated-languages) | 51 | 2004 | 42 | 2700 | 200 | 585 | 447 | 146 |
@@ -1024,7 +1024,6 @@
 
 - [signage_japanese.vdf](misc/signage/signage_japanese.vdf) has 67 untranslated strings.
 - [vgui_japanese.txt](platform/vgui_japanese.txt) has 35 untranslated strings.
-- [reactivedrop_japanese.txt](resource/reactivedrop_japanese.txt) has 1 untranslated strings.
 
 </details>
 
@@ -2027,9 +2026,7 @@
 
 </summary>
 
-### Strings
-
-- [reactivedrop_russian.txt](resource/reactivedrop_russian.txt) has 1 untranslated strings.
+✓ Up to date!
 
 </details>
 

@@ -383,7 +383,7 @@
 "[english]StatsWeb_NextCampaigns"		"More Campaigns"
 "StatsWeb_ByAuthor"		"Автор: %s"
 "[english]StatsWeb_ByAuthor"		"by %s"
-"StatsWeb_RankNumber"		"№%s"
+"StatsWeb_RankNumber"		"№ %s"
 "[english]StatsWeb_RankNumber"		"#%s"
 "StatsWeb_ShortNum_Thousand0"		"%d тыс."
 "[english]StatsWeb_ShortNum_Thousand0"		"%dk"
