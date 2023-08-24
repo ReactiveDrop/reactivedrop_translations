@@ -4596,6 +4596,9 @@
 "rd_loadout_delete_desc"	"Really delete this loadout? You will keep the items it uses, but the name and list of selected items will be permanently deleted."
 "rd_loadout_name_initial"	"What will you name the loadout?"
 "rd_loadout_name_in_use"	"You have already used this name. Pick a different name."
+"rd_loadout_equipped_marines"	"Marines"
+"rd_loadout_equipped_medals"	"Medals"
+"rd_loadout_default"	"Default Loadout"
 
 "rd_exit_vehicle"	"Exit Vehicle"
 "rd_enter_vehicle_driver"	"Drive Vehicle"
