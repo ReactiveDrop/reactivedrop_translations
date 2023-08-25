@@ -8,17 +8,17 @@
 | [Dutch](#non-curated-languages) | 51 | 2004 | 42 | 2703 | 200 | 585 | 447 | 145 |
 | [Finnish](#non-curated-languages) | 51 | 2004 | 42 | 2703 | 200 | 585 | 447 | 145 |
 | [French](#french-français) | 27 | 138 | 42 | 2068 | 200 | 525 | 433 | 124 |
-| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | 3 | ✔️ | ✔️ | ✔️ | ✔️ |
+| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Hungarian](#non-curated-languages) | 51 | 138 | 42 | 2703 | 200 | 850 | 447 | 146 |
 | [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | 3 | ✔️ | ✔️ | ✔️ | ✔️ |
-| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | 3 | ✔️ | 102 | ✔️ | ✔️ |
+| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 102 | ✔️ | ✔️ |
 | [Korean](#koreana-한국어) | 7 | 10 | 38 | 1199 | 22 | 316 | 433 | 47 |
 | [Norwegian Bokmål](#non-curated-languages) | 69 | 708 | 47 | 3409 | 200 | 585 | 516 | 146 |
 | [Polish](#polish-polski) | 28 | 2004 | 42 | 2703 | 200 | 581 | 447 | 141 |
 | [European Portuguese](#portuguese-português-europeu) | ✔️ | 180 | 32 | 1828 | 21 | 503 | 456 | 139 |
 | [Brazilian Portuguese](#brazilian-português) | 2 | 2004 | 32 | 962 | 9 | 151 | 217 | 6 |
 | [Romanian](#non-curated-languages) | 51 | 1996 | 48 | 3414 | 200 | 850 | 493 | 146 |
-| [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | 3 | ✔️ | ✔️ | ✔️ | ✔️ |
+| [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [European Spanish](#spanish-español-de-españa) | 28 | 2004 | 40 | 2118 | 200 | 589 | 443 | 145 |
 | [Latin American Spanish](#latam-español-latinoamericano) | 1281 | 2004 | 634 | 4214 | 204 | 855 | 529 | 146 |
 | [Swedish](#non-curated-languages) | 51 | 2004 | 42 | 2703 | 200 | 585 | 447 | 146 |
@@ -996,9 +996,7 @@
 
 </summary>
 
-### Strings
-
-- [reactivedrop_german.txt](resource/reactivedrop_german.txt) has 3 untranslated strings.
+✓ Up to date!
 
 </details>
 
@@ -1024,7 +1022,6 @@
 
 - [signage_japanese.vdf](misc/signage/signage_japanese.vdf) has 67 untranslated strings.
 - [vgui_japanese.txt](platform/vgui_japanese.txt) has 35 untranslated strings.
-- [reactivedrop_japanese.txt](resource/reactivedrop_japanese.txt) has 3 untranslated strings.
 
 </details>
 
@@ -2027,9 +2024,7 @@
 
 </summary>
 
-### Strings
-
-- [reactivedrop_russian.txt](resource/reactivedrop_russian.txt) has 3 untranslated strings.
+✓ Up to date!
 
 </details>
 
