@@ -5,4 +5,9 @@
 [*]頻繁に使用される効果音の音量を下げた。
 [*]一部の専用サーバーでInterstellar Armed Forcesの英雄たちの設定データが正しく更新されないことがあったのを修正。
 [*]発電機のモデルが90度回転していたのを修正。(今度こそ確実！)
+		[*]Fixed F9 menu showing incorrect text for how many players have voted yes during a map vote.
+		[*]Made railgun do 30 more damage (75->105). Now it kills a drone in one shot on brutal difficulty on any marine.
+		[*][b]Paranoia: Crucial Point:[/b] Fixed drones refusing to climb upwards in the last holdout.
+		[*][b]Accident 32: J5 Connector:[/b] Fixed drone pathing in the last holdout.
+		[*][b]Accident 32: J5 Connector:[/b] Added a ladder to the sewer area and removed the kill trigger.
 [/list]</string><string id="subtitle"></string><string id="summary"></string><string id="title">Alien Swarm: Reactive Dropアップデート - 2023年9月1日</string></content>
