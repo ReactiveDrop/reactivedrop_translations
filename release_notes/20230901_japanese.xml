@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<content><string id="body">[list]
+[*]Steamアカウントを切り替えてから最初にゲームを起動した際に、無効化したワークショップアドオンのリストが切り替え前のユーザーのものを使っていたのを修正。
+[*]XInput以外のコントローラーでは操作ヒントのアイコンが正しく表示されていなかったのを修正。
+[*]頻繁に使用される効果音の音量を下げた。
+[*]一部の専用サーバーでInterstellar Armed Forcesの英雄たちの設定データが正しく更新されないことがあったのを修正。
+[*]発電機のモデルが90度回転していたのを修正。(今度こそ確実！)
+[/list]</string><string id="subtitle"></string><string id="summary"></string><string id="title">Alien Swarm: Reactive Dropアップデート - 2023年9月1日</string></content>
