@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<content><string id="body">[list]
+[*]Fixed the wrong user's disabled workshop addon list being used on the first game launch after switching Steam accounts.
+[*]Fixed controller icons in hints rendering incorrectly for non-XInput controllers.
+[*]Reduced volume of some frequently played sound effects.
+[*]Fixed an issue that caused some dedicated servers to not update their Heroes of the Interstellar Armed Forces configuration data.
+[*]Fixed a generator model being rotated 90 degrees. (For real this time!)
+[/list]</string><string id="subtitle"></string><string id="summary"></string><string id="title">Alien Swarm: Reactive Drop Update - September 1, 2023</string></content>

@@ -1,24 +1,24 @@
 # Overview
 | Language | basemodui | closecaption | gameui | reactivedrop | statsweb | Strings | Inventory | Files |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | ✔️ | 4 | ✔️ | ✔️ | ✔️ | ✔️ |
+| [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | ✔️ | 4 | ✔️ | ✔️ | ✔️ | 1 |
 | [Traditional Chinese](#tchinese-繁體中文) | 9 | 140 | 33 | 2590 | 200 | 206 | 445 | 145 |
 | [Czech](#czech-čeština) | 71 | 1810 | 42 | 3707 | 200 | 855 | 515 | 145 |
 | [Danish](#non-curated-languages) | 52 | 231 | 42 | 3235 | 200 | 585 | 510 | 146 |
 | [Dutch](#non-curated-languages) | 51 | 2004 | 42 | 2703 | 200 | 585 | 447 | 145 |
 | [Finnish](#non-curated-languages) | 51 | 2004 | 42 | 2703 | 200 | 585 | 447 | 145 |
 | [French](#french-français) | 27 | 138 | 42 | 2068 | 200 | 525 | 433 | 124 |
-| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | 3 | ✔️ | ✔️ | ✔️ | ✔️ |
+| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 1 |
 | [Hungarian](#non-curated-languages) | 51 | 138 | 42 | 2703 | 200 | 850 | 447 | 146 |
-| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | 3 | ✔️ | ✔️ | ✔️ | ✔️ |
-| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | 3 | ✔️ | 102 | ✔️ | ✔️ |
+| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 1 |
+| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 102 | ✔️ | 1 |
 | [Korean](#koreana-한국어) | 7 | 10 | 38 | 1199 | 22 | 316 | 433 | 47 |
 | [Norwegian Bokmål](#non-curated-languages) | 69 | 708 | 47 | 3409 | 200 | 585 | 516 | 146 |
 | [Polish](#polish-polski) | 28 | 2004 | 42 | 2703 | 200 | 581 | 447 | 141 |
 | [European Portuguese](#portuguese-português-europeu) | ✔️ | 180 | 32 | 1828 | 21 | 503 | 456 | 139 |
 | [Brazilian Portuguese](#brazilian-português) | 2 | 2004 | 32 | 962 | 9 | 151 | 217 | 6 |
 | [Romanian](#non-curated-languages) | 51 | 1996 | 48 | 3414 | 200 | 850 | 493 | 146 |
-| [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | 3 | ✔️ | ✔️ | ✔️ | ✔️ |
+| [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 1 |
 | [European Spanish](#spanish-español-de-españa) | 28 | 2004 | 40 | 2118 | 200 | 589 | 443 | 145 |
 | [Latin American Spanish](#latam-español-latinoamericano) | 1281 | 2004 | 634 | 4214 | 204 | 855 | 529 | 146 |
 | [Swedish](#non-curated-languages) | 51 | 2004 | 42 | 2703 | 200 | 585 | 447 | 146 |
@@ -43,6 +43,10 @@
 ### Strings
 
 - [reactivedrop_schinese.txt](resource/reactivedrop_schinese.txt) has 4 untranslated strings.
+
+### Upcoming Release Notes
+
+- [20230901_schinese.xml](release_notes/20230901_english.xml) is missing.
 
 </details>
 
@@ -76,7 +80,7 @@
 
 ### Upcoming Release Notes
 
-- [20230816_tchinese.xml](release_notes/20230816_english.xml) is missing.
+- [20230901_tchinese.xml](release_notes/20230901_english.xml) is missing.
 
 ### Credits
 
@@ -398,7 +402,7 @@
 
 ### Upcoming Release Notes
 
-- [20230816_czech.xml](release_notes/20230816_english.xml) is missing.
+- [20230901_czech.xml](release_notes/20230901_english.xml) is missing.
 
 ### Credits
 
@@ -720,7 +724,7 @@
 
 ### Upcoming Release Notes
 
-- [20230816_french.xml](release_notes/20230816_english.xml) is missing.
+- [20230901_french.xml](release_notes/20230901_english.xml) is missing.
 
 ### Credits
 
@@ -996,9 +1000,9 @@
 
 </summary>
 
-### Strings
+### Upcoming Release Notes
 
-- [reactivedrop_german.txt](resource/reactivedrop_german.txt) has 3 untranslated strings.
+- [20230901_german.xml](release_notes/20230901_english.xml) is missing.
 
 </details>
 
@@ -1008,9 +1012,9 @@
 
 </summary>
 
-### Strings
+### Upcoming Release Notes
 
-- [reactivedrop_italian.txt](resource/reactivedrop_italian.txt) has 3 untranslated strings.
+- [20230901_italian.xml](release_notes/20230901_english.xml) is missing.
 
 </details>
 
@@ -1024,7 +1028,10 @@
 
 - [signage_japanese.vdf](misc/signage/signage_japanese.vdf) has 67 untranslated strings.
 - [vgui_japanese.txt](platform/vgui_japanese.txt) has 35 untranslated strings.
-- [reactivedrop_japanese.txt](resource/reactivedrop_japanese.txt) has 3 untranslated strings.
+
+### Upcoming Release Notes
+
+- [20230901_japanese.xml](release_notes/20230901_english.xml) is missing.
 
 </details>
 
@@ -1056,7 +1063,7 @@
 
 ### Upcoming Release Notes
 
-- [20230816_koreana.xml](release_notes/20230816_english.xml) is missing.
+- [20230901_koreana.xml](release_notes/20230901_english.xml) is missing.
 
 ### Credits
 
@@ -1274,7 +1281,7 @@
 
 ### Upcoming Release Notes
 
-- [20230816_polish.xml](release_notes/20230816_english.xml) is missing.
+- [20230901_polish.xml](release_notes/20230901_english.xml) is missing.
 
 ### Credits
 
@@ -1591,7 +1598,7 @@
 
 ### Upcoming Release Notes
 
-- [20230816_portuguese.xml](release_notes/20230816_english.xml) is missing.
+- [20230901_portuguese.xml](release_notes/20230901_english.xml) is missing.
 
 ### Credits
 
@@ -1892,7 +1899,7 @@
 
 ### Upcoming Release Notes
 
-- [20230816_brazilian.xml](release_notes/20230816_english.xml) is missing.
+- [20230901_brazilian.xml](release_notes/20230901_english.xml) is missing.
 
 ### Credits
 
@@ -2027,9 +2034,9 @@
 
 </summary>
 
-### Strings
+### Upcoming Release Notes
 
-- [reactivedrop_russian.txt](resource/reactivedrop_russian.txt) has 3 untranslated strings.
+- [20230901_russian.xml](release_notes/20230901_english.xml) is missing.
 
 </details>
 
@@ -2064,7 +2071,7 @@
 
 ### Upcoming Release Notes
 
-- [20230816_spanish.xml](release_notes/20230816_english.xml) is missing.
+- [20230901_spanish.xml](release_notes/20230901_english.xml) is missing.
 
 ### Credits
 
@@ -2388,7 +2395,7 @@
 
 ### Upcoming Release Notes
 
-- [20230816_latam.xml](release_notes/20230816_english.xml) is missing.
+- [20230901_latam.xml](release_notes/20230901_english.xml) is missing.
 
 ### Credits
 
@@ -2709,7 +2716,7 @@
 
 ### Upcoming Release Notes
 
-- [20230816_ukrainian.xml](release_notes/20230816_english.xml) is missing.
+- [20230901_ukrainian.xml](release_notes/20230901_english.xml) is missing.
 
 ### Credits
 
@@ -3027,7 +3034,7 @@
 
 ### Upcoming Release Notes
 
-- [20230816_vietnamese.xml](release_notes/20230816_english.xml) is missing.
+- [20230901_vietnamese.xml](release_notes/20230901_english.xml) is missing.
 
 ### Credits
 
