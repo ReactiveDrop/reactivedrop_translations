@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <content><string id="body">[list]
-[*]Steamアカウントを切り替えてから最初にゲームを起動した際に、無効化したワークショップアドオンのリストが切り替え前のユーザーのものを使っていたのを修正。
+		[*]Steamアカウントを切り替えてから最初にゲームを起動した際に、無効化したワークショップアドオンのリストが切り替え前のユーザーのものを使っていたのを修正。 (delete this line once the next is translated)
+		[*]Fixed the previous user's Workshop addon enabled state being used on the first game launch after switching Steam accounts.
 [*]XInput以外のコントローラーでは操作ヒントのアイコンが正しく表示されていなかったのを修正。
-[*]頻繁に使用される効果音の音量を下げた。
+[*]頻繁に使用される効果音の音量を下げた:[list]
+		[*]Officer Leadership skill activation sounds
+		[*]Xenomite (Harvester spawn) sounds
+		[*]IAF Tesla Sentry Coil zap sound
+		[*]IAF HAS42 Devastator firing sounds
+[/list]
 [*]一部の専用サーバーでInterstellar Armed Forcesの英雄たちの設定データが正しく更新されないことがあったのを修正。
 [*]発電機のモデルが90度回転していたのを修正。(今度こそ確実！)
 [*]F9を押すと出るメニュー上において、マップ変更投票中に何人が賛成に投票したか正常に表示されていなかったのを修正。
-[*]レールガンのダメージを30増加(75->105)。これによりどの隊員でもブルータル難易度のドローンを一撃で倒せるようになった。
+		[*]レールガンのダメージを30増加(75->105)。これによりどの隊員でもブルータル難易度のドローンを一撃で倒せるようになった。 (delete this line once the next is translated)
+		[*][b]Precision Rail Rifle:[/b] Base damage increased from 75 to 105. Now kills drones in a single shot on brutal difficulty on any marine.
 [*][b]Paranoia: Crucial Point:[/b] 最終防衛地点でドローンが下から登ってこようとしなくなっていたのを修正。
 [*][b]Accident 32: J5 Connector:[/b] 最終防衛地点でのドローンの移動経路を修正。
 [*][b]Accident 32: J5 Connector:[/b] 下水道エリアにハシゴが追加され、落ちても即死しなくなった。
