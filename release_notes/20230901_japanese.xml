@@ -1,19 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <content><string id="body">[list]
-		[*]Steamアカウントを切り替えてから最初にゲームを起動した際に、無効化したワークショップアドオンのリストが切り替え前のユーザーのものを使っていたのを修正。 (delete this line once the next is translated)
-		[*]Fixed the previous user's Workshop addon enabled state being used on the first game launch after switching Steam accounts.
+[*]Steamアカウントを切り替えてから最初にゲームを起動した際に、ワークショップアドオンの有効化状況が切り替え前のユーザーのままだったのを修正。
 [*]XInput以外のコントローラーでは操作ヒントのアイコンが正しく表示されていなかったのを修正。
-[*]頻繁に使用される効果音の音量を下げた:[list]
-		[*]Officer Leadership skill activation sounds
-		[*]Xenomite (Harvester spawn) sounds
-		[*]IAF Tesla Sentry Coil zap sound
-		[*]IAF HAS42 Devastator firing sounds
+[*]連続で鳴る事が多い効果音の音量を下げた:[list]
+[*]オフィサーの指揮スキル発動音
+[*]ゼノマイト(ハーベスターから産まれる敵)の音
+[*]IAF テスラセントリーコイルの電撃音
+[*]IAF HAS42 デヴァステイターの発射音
 [/list]
 [*]一部の専用サーバーでInterstellar Armed Forcesの英雄たちの設定データが正しく更新されないことがあったのを修正。
 [*]発電機のモデルが90度回転していたのを修正。(今度こそ確実！)
 [*]F9を押すと出るメニュー上において、マップ変更投票中に何人が賛成に投票したか正常に表示されていなかったのを修正。
-		[*]レールガンのダメージを30増加(75->105)。これによりどの隊員でもブルータル難易度のドローンを一撃で倒せるようになった。 (delete this line once the next is translated)
-		[*][b]Precision Rail Rifle:[/b] Base damage increased from 75 to 105. Now kills drones in a single shot on brutal difficulty on any marine.
+[*][b]高精度レールライフル:[/b] 基礎ダメージを30増加(75->105)。これによりどの隊員でもブルータル難易度のドローンを一撃で倒せるようになった。Base damage increased from 75 to 105. Now kills drones in a single shot on brutal difficulty on any marine.
 [*][b]Paranoia: Crucial Point:[/b] 最終防衛地点でドローンが下から登ってこようとしなくなっていたのを修正。
 [*][b]Accident 32: J5 Connector:[/b] 最終防衛地点でのドローンの移動経路を修正。
 [*][b]Accident 32: J5 Connector:[/b] 下水道エリアにハシゴが追加され、落ちても即死しなくなった。
