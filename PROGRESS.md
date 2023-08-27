@@ -1031,7 +1031,7 @@
 
 ### Upcoming Release Notes
 
-- [20230901_japanese.xml](release_notes/20230901_english.xml) is missing.
+- [20230901_japanese.xml](release_notes/20230901_japanese.xml) has 8 indented lines.
 
 </details>
 
