@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<content><string id="body">[list]
+[*]Corretto lo stato di attivazione degli addon del Workshop dell'utente precedente al primo avvio del gioco dopo il cambio di account Steam.
+[*]Corrette le icone dei controller nei suggerimenti visualizzate in modo errato per i controller non XInput.
+[*]Ridotto il volume di alcuni effetti sonori riprodotti di frequente:[list]
+[*]I suoni di attivazione dell'abilità Leadership dell'ufficiale
+[*]I suoni degli Xenomiti (prole dei Mietitori)
+[*]I suoni di zapping della torretta Tesla IAF
+[*]I suoni di sparo del Devastator HAS42 IAF
+[/list]
+[*]È stato risolto un problema che causava il mancato aggiornamento dei dati di configurazione di Eroi delle Forze Armate Interstellari da parte di alcuni server dedicati.
+[*]Corretto un modello di generatore ruotato di 90 gradi. (Per davvero questa volta!)
+[*]Corretto il menu F9 che mostrava un testo errato sul numero di giocatori che avevano votato sì durante la votazione di una mappa.
+[*][b]Fucile a Rotaia di Precisione:[/b] Danno base aumentato da 75 a 105. Ora uccide i droni in un solo colpo a difficoltà brutale con qualsiasi soldato.
+[*][b]Paranoia: Punto Cruciale:[/b] Corretto il rifiuto dei droni di salire verso l'alto nell'ultimo punto d'assalto.
+[*][b]Accident 32: Connettore J5:[/b] Corretto il percorso dei droni nell'ultimo punto d'assalto.
+[*][b]Accident 32: Connettore J5:[/b] Aggiunta una scala nell'area delle fogne e rimosso il trigger dell'uccisione.
+[/list]</string><string id="subtitle"></string><string id="summary"></string><string id="title">Aggiornamento di Alien Swarm: Reactive Drop - 1 Settembre 2023</string></content>
