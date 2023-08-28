@@ -15,4 +15,6 @@
 [*][b]Paranoia: Punto Cruciale:[/b] Corretto il rifiuto dei droni di salire verso l'alto nell'ultimo punto d'assalto.
 [*][b]Accident 32: Connettore J5:[/b] Corretto il percorso dei droni nell'ultimo punto d'assalto.
 [*][b]Accident 32: Connettore J5:[/b] Aggiunta una scala nell'area delle fogne e rimosso il trigger dell'uccisione.
+		[*]Added support for $parallaxmap and $height_scale in the LightmappedGeneric shader. This allows the alpha channel of a $bumpmap to "push" a material into a surface. See nature/snowwall006a.vmt for an example.
+		[*]Disabled texture lighting interaction with the Flesh shader for now as it was causing crashes.
 [/list]</string><string id="subtitle"></string><string id="summary"></string><string id="title">Aggiornamento di Alien Swarm: Reactive Drop - 1 Settembre 2023</string></content>
