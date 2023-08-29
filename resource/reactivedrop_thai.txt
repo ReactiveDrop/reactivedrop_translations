@@ -8521,9 +8521,9 @@
 		"[english]tf_dingalingaling_effect"		"Hit Sounds"
 		"tf_dingalingaling_last_effect"		"เสียงโจมตีสังหาร"
 		"[english]tf_dingalingaling_last_effect"		"Last Hit Sounds"
-		"tf_dingalingaling_Default"		"เสียงเริ่มต้น"
+		"tf_dingalingaling_DefaultDing"		"เสียงเริ่มต้น"
 		// large bell clang
-		"[english]tf_dingalingaling_Default"		"Default"
+		"[english]tf_dingalingaling_DefaultDing"		"Default"
 		"tf_dingalingaling_Electro"		"อิเล็กโทร"
 		// pinball machine sound
 		"[english]tf_dingalingaling_Electro"		"Electro"

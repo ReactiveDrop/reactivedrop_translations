@@ -8521,9 +8521,9 @@
 		"[english]tf_dingalingaling_effect"		"Hit Sounds"
 		"tf_dingalingaling_last_effect"		"Son İsabet Sesleri"
 		"[english]tf_dingalingaling_last_effect"		"Last Hit Sounds"
-		"tf_dingalingaling_Default"		"Varsayılan"
+		"tf_dingalingaling_DefaultDing"		"Varsayılan"
 		// large bell clang
-		"[english]tf_dingalingaling_Default"		"Default"
+		"[english]tf_dingalingaling_DefaultDing"		"Default"
 		"tf_dingalingaling_Electro"		"Elektro"
 		// pinball machine sound
 		"[english]tf_dingalingaling_Electro"		"Electro"

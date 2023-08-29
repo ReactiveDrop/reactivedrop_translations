@@ -4652,7 +4652,7 @@
 "tf_dingalingaling_effect"	"Hit Sounds"
 "tf_dingalingaling_last_effect"	"Last Hit Sounds"
 // large bell clang
-"tf_dingalingaling_Default"	"Default"
+"tf_dingalingaling_DefaultDing"	"Default"
 // pinball machine sound
 "tf_dingalingaling_Electro"	"Electro"
 // rock music

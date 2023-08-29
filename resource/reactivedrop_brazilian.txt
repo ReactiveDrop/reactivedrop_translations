@@ -8521,9 +8521,9 @@
 		"[english]tf_dingalingaling_effect"		"Hit Sounds"
 		"tf_dingalingaling_last_effect"		"Sons de acerto fatal"
 		"[english]tf_dingalingaling_last_effect"		"Last Hit Sounds"
-		"tf_dingalingaling_Default"		"Padrão"
+		"tf_dingalingaling_DefaultDing"		"Padrão"
 		// large bell clang
-		"[english]tf_dingalingaling_Default"		"Default"
+		"[english]tf_dingalingaling_DefaultDing"		"Default"
 		"tf_dingalingaling_Electro"		"Eletrônico"
 		// pinball machine sound
 		"[english]tf_dingalingaling_Electro"		"Electro"
