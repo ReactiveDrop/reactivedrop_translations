@@ -15,6 +15,6 @@
 [*][b]Paranoia: Entscheidender Punkt:[/b] Fixed drones refusing to climb upwards in the last holdout.
 [*][b]Unfall 32: J5 Knoten:[/b] Drohnen-Pfadfindung bei der letzten Abwehrstellung korrigiert.
 [*][b]Unfall 32: J5 Knoten:[/b] In der Kanalisation wurde eine Leiter hinzugefügt und ein Kill Trigger entfernt.
-		[*]Added support for $parallaxmap and $height_scale in the LightmappedGeneric shader. This allows the alpha channel of a $bumpmap to "push" a material into a surface. See nature/snowwall006a.vmt for an example.
-		[*]Disabled texture lighting interaction with the Flesh shader for now as it was causing crashes.
+[*]Unterstützung für $parallaxmap und $height_scale im LightmappedGeneric-Shader hinzugefügt. Damit kann der Alphakanal einer $bumpmap ein Material in eine Oberfläche "schieben". Siehe nature/snowwall006a.vmt für ein Beispiel.
+[*]Die Interaktion der Texturbeleuchtung mit dem Flesh-Shader wurde vorerst deaktiviert, da sie zu Abstürzen führte.
 [/list]</string><string id="subtitle"></string><string id="summary"></string><string id="title">Alien Swarm: Reactive Drop Update - 1. September 2023</string></content>
