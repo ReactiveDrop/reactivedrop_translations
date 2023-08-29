@@ -1,14 +1,14 @@
 # Overview
 | Language | basemodui | closecaption | gameui | reactivedrop | statsweb | Strings | Inventory | Files |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | ✔️ | 4 | ✔️ | ✔️ | ✔️ | 1 |
+| [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Traditional Chinese](#tchinese-繁體中文) | 9 | 140 | 33 | 2590 | 200 | 206 | 445 | 145 |
 | [Czech](#czech-čeština) | 71 | 1810 | 42 | 3707 | 200 | 855 | 515 | 145 |
 | [Danish](#non-curated-languages) | 52 | 231 | 42 | 3235 | 200 | 585 | 510 | 146 |
 | [Dutch](#non-curated-languages) | 51 | 2004 | 42 | 2703 | 200 | 585 | 447 | 145 |
 | [Finnish](#non-curated-languages) | 51 | 2004 | 42 | 2703 | 200 | 585 | 447 | 145 |
 | [French](#french-français) | 27 | 138 | 42 | 2068 | 200 | 525 | 433 | 124 |
-| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 1 |
+| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Hungarian](#non-curated-languages) | 51 | 138 | 42 | 2703 | 200 | 850 | 447 | 146 |
 | [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 1 |
 | [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 102 | ✔️ | ✔️ |
@@ -40,13 +40,7 @@
 
 </summary>
 
-### Strings
-
-- [reactivedrop_schinese.txt](resource/reactivedrop_schinese.txt) has 4 untranslated strings.
-
-### Upcoming Release Notes
-
-- [20230901_schinese.xml](release_notes/20230901_english.xml) is missing.
+✓ Up to date!
 
 </details>
 
@@ -1000,9 +994,7 @@
 
 </summary>
 
-### Upcoming Release Notes
-
-- [20230901_german.xml](release_notes/20230901_german.xml) has 2 indented lines.
+✓ Up to date!
 
 </details>
 
