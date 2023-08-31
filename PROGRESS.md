@@ -10,7 +10,7 @@
 | [French](#french-français) | 27 | 138 | 42 | 2086 | 200 | 553 | 433 | 124 |
 | [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 28 | ✔️ | ✔️ |
 | [Hungarian](#non-curated-languages) | 51 | 138 | 42 | 2721 | 200 | 878 | 447 | 146 |
-| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | 19 | ✔️ | 28 | ✔️ | ✔️ |
+| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | 1 | ✔️ | 130 | ✔️ | ✔️ |
 | [Korean](#koreana-한국어) | 7 | 10 | 38 | 1217 | 22 | 344 | 433 | 47 |
 | [Norwegian Bokmål](#non-curated-languages) | 69 | 708 | 47 | 3427 | 200 | 613 | 516 | 146 |
@@ -1009,10 +1009,7 @@
 
 </summary>
 
-### Strings
-
-- [steam_input_italian.vdf](community/steam_input/steam_input_italian.vdf) has 28 untranslated strings.
-- [reactivedrop_italian.txt](resource/reactivedrop_italian.txt) has 19 untranslated strings.
+✓ Up to date!
 
 </details>
 
