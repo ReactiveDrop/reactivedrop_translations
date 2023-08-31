@@ -768,7 +768,7 @@
 "[english]L4D360UI_InviteUI_community_Tip"		"Show your Xbox LIVE party community sessions."
 "L4D360UI_InviteUI_community_Tip_Disabled"		""
 "[english]L4D360UI_InviteUI_community_Tip_Disabled"		""
-"L4D360UI_InviteUI_voiceui"		"Voice Chat Kanal auswählen"
+"L4D360UI_InviteUI_voiceui"		"Sprach-Chat Kanal auswählen"
 "[english]L4D360UI_InviteUI_voiceui"		"Select Voice Chat Channel"
 "L4D360UI_InviteUI_voiceui_Tip"		"Xbox LIVE Party Kanal oder Spiel Kanal auswählen."
 "[english]L4D360UI_InviteUI_voiceui_Tip"		"Select Xbox LIVE Party channel or game channel."
