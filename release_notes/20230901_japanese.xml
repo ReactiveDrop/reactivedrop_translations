@@ -15,6 +15,6 @@
 [*][b]Paranoia: Crucial Point:[/b] 最終防衛地点でドローンが下から登ってこようとしなくなっていたのを修正。
 [*][b]Accident 32: J5 Connector:[/b] 最終防衛地点でのドローンの移動経路を修正。
 [*][b]Accident 32: J5 Connector:[/b] 下水道エリアにハシゴが追加され、落ちても即死しなくなった。
-[*]LightmappedGenericシェーダーを$parallaxmapと$height_scaleに対応させた。これにより$bumpmapのアルファチャンネルが表面にマテリアルを"push"させることが可能になった。使用例としてはnature/snowwall006a.vmtを確認してください。
+[*]LightmappedGenericシェーダーを$parallaxmapと$height_scaleに対応させた。これにより$bumpmapのアルファチャンネルが表面にマテリアルを「浮き出させる」ことが可能になった。使用例としてはnature/snowwall006a.vmtを確認してください。
 [*]クラッシュを発生させていたので、テクスチャのライティングが肉体シェーダーに作用するのを一時的に無効にした。
 [/list]</string><string id="subtitle"></string><string id="summary"></string><string id="title">Alien Swarm: Reactive Dropアップデート - 2023年9月1日</string></content>

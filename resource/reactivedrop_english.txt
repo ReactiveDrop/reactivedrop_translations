@@ -4503,6 +4503,24 @@
 "rd_audio_mixer_explosions_tooltip"	"Explosions from grenades, alien attacks, and nuclear warheads."
 "rd_audio_mixer_other_label"	"Other Sounds"
 "rd_audio_mixer_other_tooltip"	"Any sound not matched by one of the above categories."
+"rd_audio_speaker_configuration"	"Speaker Configuration"
+"rd_audio_speaker_configuration_2_hint"	"Left and right speakers."
+"rd_audio_speaker_configuration_headphones_hint"	"Optimized for stereo headphones."
+"rd_audio_speaker_configuration_4_hint"	"Four corner speakers."
+"rd_audio_speaker_configuration_5_hint"	"Four corner speakers and a center speaker."
+"rd_audio_speaker_configuration_7_hint"	"Four corner speakers, two side speakers, and a center speaker."
+"rd_audio_sound_quality"	"Sound Quality"
+"rd_audio_sound_quality_low"	"Low"
+"rd_audio_sound_quality_low_hint"	"Disables some spatial audio processing. Uses lower-quality pitch shifting."
+"rd_audio_sound_quality_medium"	"Medium"
+"rd_audio_sound_quality_medium_hint"	"Uses lower-quality pitch shifting."
+"rd_audio_sound_quality_high"	"High"
+"rd_audio_sound_quality_high_hint"	"Uses full spatial audio processing and higher-quality pitch shifting. Enables additional spatial audio processing for headphones."
+"rd_audio_skip_all_story_dialogue"	"Skip Voiceover Dialogue"
+"rd_audio_skip_all_story_dialogue_hint"	"Mutes all voiceover dialogue. Removes audio ducking and captions, unlike setting the mixer to 0%."
+"rd_audio_low_health_sound"	"Low Health Heartbeat"
+"rd_audio_low_health_sound_hint"	"Play a heartbeat sound when at low health."
+"rd_audio_disable_voice_chat"	"Disable Voice Chat"
 
 "rd_workshop_find_new_campaign"	"More Campaigns"
 "rd_workshop_find_new_bonus_mission"	"More Bonus Missions"
@@ -4652,7 +4670,7 @@
 "tf_dingalingaling_effect"	"Hit Sounds"
 "tf_dingalingaling_last_effect"	"Last Hit Sounds"
 // large bell clang
-"tf_dingalingaling_Default"	"Default"
+"tf_dingalingaling_DefaultDing"	"Default"
 // pinball machine sound
 "tf_dingalingaling_Electro"	"Electro"
 // rock music
@@ -4735,7 +4753,7 @@
 "rd_event_mapping_competition"	"Mapping Competition 2023 \"Boss Fight\""
 "rd_event_double_xp_anniversary"	"Anniversary Double Experience Week"
 "rd_event_news_anniversary_6th"	"6th Anniversary! New campaign, side stories, and more!"
-"rd_event_news_anniversary_7th"	"7th Anniversary! New look, new objectives, new weapons!"
+"rd_event_news_anniversary_7th"	"7th Anniversary! New UI redesign!"
 "rd_event_news_ranked_missions_added"	"New and old favorite missions added to HoIAF!"
 "rd_event_news_ranked_missions_endless"	"HoIAF adds Endless Missions!"
 
