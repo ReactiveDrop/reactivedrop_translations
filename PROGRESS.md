@@ -8,7 +8,7 @@
 | [Dutch](#non-curated-languages) | 51 | 2004 | 42 | 2721 | 200 | 613 | 447 | 145 |
 | [Finnish](#non-curated-languages) | 51 | 2004 | 42 | 2721 | 200 | 613 | 447 | 145 |
 | [French](#french-français) | 27 | 138 | 42 | 2086 | 200 | 553 | 433 | 124 |
-| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 28 | ✔️ | ✔️ |
+| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Hungarian](#non-curated-languages) | 51 | 138 | 42 | 2721 | 200 | 878 | 447 | 146 |
 | [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 102 | ✔️ | ✔️ |
@@ -997,9 +997,7 @@
 
 </summary>
 
-### Strings
-
-- [steam_input_german.vdf](community/steam_input/steam_input_german.vdf) has 28 untranslated strings.
+✓ Up to date!
 
 </details>
 
