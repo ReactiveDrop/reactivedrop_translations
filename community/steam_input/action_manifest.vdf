@@ -162,10 +162,68 @@
 				"SelectMarine8"		"#Button_SelectMarine8"
 			}
 		}
+
+		"Menus"
+		{
+			"title"		"#ActionSet_Menus"
+
+			"Button"
+			{
+				"MenuConfirm"		"#Button_MenuConfirm"
+				"MenuBack"		"#Button_MenuBack"
+				"MenuSpecial1"		"#Button_MenuSpecial1"
+				"MenuSpecial2"		"#Button_MenuSpecial2"
+
+				"MenuL1"		"#Button_MenuL1"
+				"MenuR1"		"#Button_MenuR1"
+				"MenuL2"		"#Button_MenuL2"
+				"MenuR2"		"#Button_MenuR2"
+				"MenuL3"		"#Button_MenuL3"
+				"MenuR3"		"#Button_MenuR3"
+				"MenuSelect"		"#Button_MenuSelect"
+				"MenuStart"		"#Button_MenuStart"
+
+				"MenuLeft"		"#Button_MenuLeft"
+				"MenuRight"		"#Button_MenuRight"
+				"MenuUp"		"#Button_MenuUp"
+				"MenuDown"		"#Button_MenuDown"
+
+				"MenuLeftStickLeft"		"#Button_MenuLeftStickLeft"
+				"MenuLeftStickRight"		"#Button_MenuLeftStickRight"
+				"MenuLeftStickUp"		"#Button_MenuLeftStickUp"
+				"MenuLeftStickDown"		"#Button_MenuLeftStickDown"
+
+				"MenuRightStickLeft"		"#Button_MenuRightStickLeft"
+				"MenuRightStickRight"		"#Button_MenuRightStickRight"
+				"MenuRightStickUp"		"#Button_MenuRightStickUp"
+				"MenuRightStickDown"		"#Button_MenuRightStickDown"
+			}
+		}
 	}
 
 	"action_layers"
 	{
+		"InGameMenus"
+		{
+			"title"		"#Layer_InGameMenus"
+			"set_layer"		"1"
+			"parent_set_name"		"InGame"
+
+			"StickPadGyro"
+			{
+				"MenuNavigate"
+				{
+					"title"		"#Stick_MenuNavigate"
+					"input_mode"		"joystick_move"
+				}
+			}
+
+			"Button"
+			{
+				"MenuConfirm"		"#Button_MenuConfirm"
+				"MenuBack"		"#Button_MenuBack"
+			}
+		}
 	}
 
 	"localization"
