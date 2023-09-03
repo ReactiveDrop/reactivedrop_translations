@@ -6,8 +6,12 @@
 "ActionSet_InGame"		"In-Game"
 "ActionSet_Menus"		"Menus"
 
+// In-game menus that activate the red and yellow box around the button, like hacking and briefing.
+"Layer_InGameMenus"		"Menus"
+
 "Stick_Move"		"Move"
 "Stick_Look"		"Aim"
+"Stick_MenuNavigate"		"Menu Navigation"
 
 "Button_PrimaryAttack"		"Primary Attack"
 "Button_SecondaryAttack"		"Secondary Attack"

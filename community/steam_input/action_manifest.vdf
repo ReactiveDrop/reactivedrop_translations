@@ -203,6 +203,27 @@
 
 	"action_layers"
 	{
+		"InGameMenus"
+		{
+			"title"		"#Layer_InGameMenus"
+			"set_layer"		"1"
+			"parent_set_name"		"InGame"
+
+			"StickPadGyro"
+			{
+				"MenuNavigate"
+				{
+					"title"		"#Stick_MenuNavigate"
+					"input_mode"		"joystick_move"
+				}
+			}
+
+			"Button"
+			{
+				"MenuConfirm"		"#Button_MenuConfirm"
+				"MenuBack"		"#Button_MenuBack"
+			}
+		}
 	}
 
 	"localization"

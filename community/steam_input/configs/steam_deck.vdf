@@ -927,6 +927,110 @@
 			"haptic_intensity_override"		"0"
 		}
 	}
+	"group"
+	{
+		"id"		"16"
+		"mode"		"four_buttons"
+		"name"		""
+		"description"		""
+		"inputs"
+		{
+			"button_a"
+			{
+				"activators"
+				{
+					"Full_Press"
+					{
+						"bindings"
+						{
+							"binding"		"game_action InGameMenus MenuConfirm, , "
+						}
+					}
+				}
+				"disabled_activators"
+				{
+				}
+			}
+			"button_b"
+			{
+				"activators"
+				{
+					"Full_Press"
+					{
+						"bindings"
+						{
+							"binding"		"game_action InGameMenus MenuBack, , "
+						}
+					}
+				}
+				"disabled_activators"
+				{
+				}
+			}
+		}
+		"settings"
+		{
+			"layer"		"1"
+		}
+	}
+	"group"
+	{
+		"id"		"17"
+		"mode"		"joystick_move"
+		"inputs"
+		{
+			"click"
+			{
+				"activators"
+				{
+					"Full_Press"
+					{
+						"bindings"
+						{
+							"binding"		"game_action ingame EmoteStop, , "
+						}
+					}
+				}
+			}
+		}
+		"settings"
+		{
+			"virtual_mode"		"1"
+		}
+		"gameactions"
+		{
+			"InGame"		"InGameActions MenuNavigate"
+		}
+	}
+	"group"
+	{
+		"id"		"18"
+		"mode"		"joystick_move"
+		"inputs"
+		{
+			"click"
+			{
+				"activators"
+				{
+					"Full_Press"
+					{
+						"bindings"
+						{
+							"binding"		"game_action ingame EmoteGo, , "
+						}
+					}
+				}
+			}
+		}
+		"settings"
+		{
+			"virtual_mode"		"1"
+		}
+		"gameactions"
+		{
+			"InGame"		"InGameActions MenuNavigate"
+		}
+	}
 	"preset"
 	{
 		"id"		"0"
@@ -959,6 +1063,17 @@
 			"15"		"dpad active"
 			"7"		"right_trackpad active"
 			"8"		"left_trackpad active"
+		}
+	}
+	"preset"
+	{
+		"id"		"2"
+		"name"		"InGameMenus"
+		"group_source_bindings"
+		{
+			"16"		"button_diamond active"
+			"17"		"joystick active"
+			"18"		"right_joystick active"
 		}
 	}
 	"settings"
