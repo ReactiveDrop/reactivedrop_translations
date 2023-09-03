@@ -101,8 +101,9 @@
 "materials/signage/underground_depth.vmt"		"2500 м"
 // 2500 meters
 "[english]materials/signage/underground_depth.vmt"		"2500m"
-"materials/signage/underground_fan_shutdown.vmt"		"ОТКЛЮЧЕНИЕ\nВЕНТ-РА" // MOVE FAN ICON THAT SHOULD BE AT FIRST LANE TO SECOND LANE!
+"materials/signage/underground_fan_shutdown.vmt"		"ОТКЛЮЧЕНИЕ\nВЕНТ-РА"
 "[english]materials/signage/underground_fan_shutdown.vmt"		"FAN\nSHUTDOWN"
+// MOVE FAN ICON THAT SHOULD BE AT FIRST LANE TO SECOND LANE!
 "materials/signage/underground_keepout.vmt"		"ВХОДА\nНЕТ"
 "[english]materials/signage/underground_keepout.vmt"		"KEEP\nOUT"
 "materials/signage/underground_keepout01.vmt"		"ВХОДА НЕТ"
