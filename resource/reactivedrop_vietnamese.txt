@@ -4076,7 +4076,7 @@
 "[english]RD_SPEEDRUN_UNSPLIT_PARANOIA_2_3_DESC"		"Complete Hostile Places + Close Contact within 2:30 on Normal difficulty or harder without any marines dying."
 "RD_SPEEDRUN_UNSPLIT_PARANOIA_4_5_DESC"		"Hoàn thành nhiệm vụ \"Sự căng thẳng cao + Điểm cốt yếu\" trong vòng 7:30 trên độ khó Thường hoặc khó hơn với không có bất kỳ quân lính nào chết."
 "[english]RD_SPEEDRUN_UNSPLIT_PARANOIA_4_5_DESC"		"Complete High Tension + Crucial Point within 7:30 on Normal difficulty or harder without any marines dying."
-"RD_SPEEDRUN_UNSPLIT_AREA9800_2_3_DESC"		"Hoàn thành nhiệm vụ \"Nhà máy điện\" trong vòng 5:00 trên độ khó Thường hoặc khó hơn với không có bất kỳ quân lính nào chết.
+"RD_SPEEDRUN_UNSPLIT_AREA9800_2_3_DESC"		"Hoàn thành nhiệm vụ \"Nhà máy điện\" trong vòng 5:00 trên độ khó Thường hoặc khó hơn với không có bất kỳ quân lính nào chết."
 "[english]RD_SPEEDRUN_UNSPLIT_AREA9800_2_3_DESC"		"Complete Power Plant within 5:00 on Normal difficulty or harder without any marines dying."
 	"ASW_CAMPAIGN_NO_DEATHS_DESC"		"Hoàn thành chiến dịch Jacob's Rest trên độ khó Thường hoặc khó hơn với không có bất kỳ quân lính nào chết."
 	"[english]ASW_CAMPAIGN_NO_DEATHS_DESC"		"Complete the Jacob's Rest campaign on Normal difficulty or harder without any marines dying."
