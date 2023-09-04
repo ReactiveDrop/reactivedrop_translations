@@ -1,31 +1,31 @@
 # Overview
 | Language | basemodui | closecaption | gameui | reactivedrop | statsweb | Strings | Inventory | Files |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | ✔️ | 1 | ✔️ | ✔️ | ✔️ | ✔️ |
-| [Traditional Chinese](#tchinese-繁體中文) | 9 | 140 | 33 | 2587 | 200 | 206 | 445 | 145 |
-| [Czech](#czech-čeština) | 71 | 1810 | 42 | 3704 | 200 | 855 | 515 | 145 |
-| [Danish](#non-curated-languages) | 52 | 231 | 42 | 3232 | 200 | 585 | 510 | 146 |
-| [Dutch](#non-curated-languages) | 51 | 2004 | 42 | 2700 | 200 | 585 | 447 | 145 |
-| [Finnish](#non-curated-languages) | 51 | 2004 | 42 | 2700 | 200 | 585 | 447 | 145 |
-| [French](#french-français) | 27 | 138 | 42 | 2065 | 200 | 525 | 433 | 124 |
-| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | 1 | ✔️ | ✔️ | ✔️ | ✔️ |
-| [Hungarian](#non-curated-languages) | 51 | 138 | 42 | 2700 | 200 | 850 | 447 | 146 |
-| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | 1 | ✔️ | ✔️ | ✔️ | ✔️ |
-| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | 1 | ✔️ | 102 | ✔️ | ✔️ |
-| [Korean](#koreana-한국어) | 7 | 10 | 38 | 1196 | 22 | 316 | 433 | 47 |
-| [Norwegian Bokmål](#non-curated-languages) | 69 | 708 | 47 | 3406 | 200 | 585 | 516 | 146 |
-| [Polish](#polish-polski) | 28 | 2004 | 42 | 2700 | 200 | 581 | 447 | 141 |
-| [European Portuguese](#portuguese-português-europeu) | ✔️ | 180 | 32 | 1825 | 21 | 503 | 456 | 139 |
-| [Brazilian Portuguese](#brazilian-português) | 2 | 2004 | 32 | 959 | 9 | 151 | 217 | 6 |
-| [Romanian](#non-curated-languages) | 51 | 1996 | 48 | 3411 | 200 | 850 | 493 | 146 |
-| [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | 1 | ✔️ | ✔️ | ✔️ | ✔️ |
-| [European Spanish](#spanish-español-de-españa) | 28 | 2004 | 40 | 2115 | 200 | 589 | 443 | 145 |
-| [Latin American Spanish](#latam-español-latinoamericano) | 1281 | 2004 | 634 | 4211 | 204 | 855 | 529 | 146 |
-| [Swedish](#non-curated-languages) | 51 | 2004 | 42 | 2700 | 200 | 585 | 447 | 146 |
-| [Thai](#non-curated-languages) | 966 | 1993 | 50 | 3947 | 200 | 614 | 526 | 146 |
-| [Turkish](#non-curated-languages) | 51 | 137 | 42 | 2700 | 200 | 850 | 447 | 146 |
-| [Ukrainian](#ukrainian-українська) | 27 | 131 | 32 | 2243 | 200 | 803 | 441 | 145 |
-| [Vietnamese](#vietnamese-tiếng-việt) | 1281 | 2004 | 634 | 4211 | 200 | 775 | 529 | 131 |
+| [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | ✔️ | 19 | ✔️ | 30 | ✔️ | ✔️ |
+| [Traditional Chinese](#tchinese-繁體中文) | 9 | 140 | 33 | 2608 | 200 | 236 | 445 | 145 |
+| [Czech](#czech-čeština) | 71 | 1810 | 42 | 3725 | 200 | 885 | 515 | 145 |
+| [Danish](#non-curated-languages) | 52 | 231 | 42 | 3253 | 200 | 615 | 510 | 146 |
+| [Dutch](#non-curated-languages) | 51 | 2004 | 42 | 2721 | 200 | 615 | 447 | 145 |
+| [Finnish](#non-curated-languages) | 51 | 2004 | 42 | 2721 | 200 | 615 | 447 | 145 |
+| [French](#french-français) | 27 | 138 | 42 | 2086 | 200 | 555 | 433 | 124 |
+| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
+| [Hungarian](#non-curated-languages) | 51 | 138 | 42 | 2721 | 200 | 880 | 447 | 146 |
+| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 2 | ✔️ | ✔️ |
+| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 102 | ✔️ | ✔️ |
+| [Korean](#koreana-한국어) | 7 | 10 | 38 | 1217 | 22 | 346 | 433 | 47 |
+| [Norwegian Bokmål](#non-curated-languages) | 69 | 708 | 47 | 3427 | 200 | 615 | 516 | 146 |
+| [Polish](#polish-polski) | 28 | 2004 | 42 | 2721 | 200 | 611 | 447 | 141 |
+| [European Portuguese](#portuguese-português-europeu) | ✔️ | 180 | 32 | 1846 | 21 | 533 | 456 | 139 |
+| [Brazilian Portuguese](#brazilian-português) | 2 | 2004 | 32 | 980 | 9 | 181 | 217 | 6 |
+| [Romanian](#non-curated-languages) | 51 | 1996 | 48 | 3432 | 200 | 880 | 493 | 146 |
+| [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
+| [European Spanish](#spanish-español-de-españa) | 28 | 2004 | 40 | 2136 | 200 | 619 | 443 | 145 |
+| [Latin American Spanish](#latam-español-latinoamericano) | 1281 | 2004 | 634 | 4232 | 204 | 885 | 529 | 146 |
+| [Swedish](#non-curated-languages) | 51 | 2004 | 42 | 2721 | 200 | 615 | 447 | 146 |
+| [Thai](#non-curated-languages) | 966 | 1993 | 50 | 3968 | 200 | 644 | 526 | 146 |
+| [Turkish](#non-curated-languages) | 51 | 137 | 42 | 2721 | 200 | 880 | 447 | 146 |
+| [Ukrainian](#ukrainian-українська) | 27 | 131 | 32 | 2264 | 200 | 833 | 441 | 145 |
+| [Vietnamese](#vietnamese-tiếng-việt) | 1281 | 2004 | 634 | 4232 | 200 | 805 | 529 | 131 |
 ### Legend
 - ***Non-capitalized column headers*** are the most important specific files and their number of missing strings. All of these txt-files are located in the resources folder. Except statsweb, which lies in community/stats_website, it's an vdf-file.
 - ***Strings*** is the number of missing strings not included in one of the files which get an individual non-capitalized column.
@@ -42,7 +42,8 @@
 
 ### Strings
 
-- [reactivedrop_schinese.txt](resource/reactivedrop_schinese.txt) has 1 untranslated strings.
+- [steam_input_schinese.vdf](community/steam_input/steam_input_schinese.vdf) has 30 untranslated strings.
+- [reactivedrop_schinese.txt](resource/reactivedrop_schinese.txt) has 19 untranslated strings.
 
 </details>
 
@@ -57,13 +58,13 @@
 - [reactivedrop_tchinese.txt](addons/ExampleAddon/resource/reactivedrop_tchinese.txt) has 39 untranslated strings.
 - [inventory_service_tags_tchinese.vdf](community/inventory_service/inventory_service_tags_tchinese.vdf) has 21 untranslated strings.
 - [statsweb_tchinese.vdf](community/stats_website/statsweb_tchinese.vdf) has 200 untranslated strings.
-- [steam_input_tchinese.vdf](community/steam_input/steam_input_tchinese.vdf) has 67 untranslated strings.
+- [steam_input_tchinese.vdf](community/steam_input/steam_input_tchinese.vdf) has 97 untranslated strings.
 - [workshop_description_tchinese.vdf](community/workshop/workshop_description_tchinese.vdf) has 4 untranslated strings.
 - [signage_tchinese.vdf](misc/signage/signage_tchinese.vdf) has 69 untranslated strings.
 - [basemodui_tchinese.txt](resource/basemodui_tchinese.txt) has 9 untranslated strings.
 - [closecaption_tchinese.txt](resource/closecaption_tchinese.txt) has 140 untranslated strings.
 - [gameui_tchinese.txt](resource/gameui_tchinese.txt) has 33 untranslated strings.
-- [reactivedrop_tchinese.txt](resource/reactivedrop_tchinese.txt) has 2587 untranslated strings.
+- [reactivedrop_tchinese.txt](resource/reactivedrop_tchinese.txt) has 2608 untranslated strings.
 - [valve_tchinese.txt](resource/valve_tchinese.txt) has 6 untranslated strings.
 
 ### Steam Store and Community
@@ -76,7 +77,7 @@
 
 ### Upcoming Release Notes
 
-- [20230816_tchinese.xml](release_notes/20230816_english.xml) is missing.
+- [20230901_tchinese.xml](release_notes/20230901_english.xml) is missing.
 
 ### Credits
 
@@ -377,7 +378,7 @@
 - [reactivedrop_czech.txt](addons/ExampleAddon/resource/reactivedrop_czech.txt) has 39 untranslated strings.
 - [inventory_service_tags_czech.vdf](community/inventory_service/inventory_service_tags_czech.vdf) has 32 untranslated strings.
 - [statsweb_czech.vdf](community/stats_website/statsweb_czech.vdf) has 200 untranslated strings.
-- [steam_input_czech.vdf](community/steam_input/steam_input_czech.vdf) has 67 untranslated strings.
+- [steam_input_czech.vdf](community/steam_input/steam_input_czech.vdf) has 97 untranslated strings.
 - [workshop_description_czech.vdf](community/workshop/workshop_description_czech.vdf) has 4 untranslated strings.
 - [signage_czech.vdf](misc/signage/signage_czech.vdf) has 69 untranslated strings.
 - [serverbrowser_czech.txt](platform/servers/serverbrowser_czech.txt) has 186 untranslated strings.
@@ -386,7 +387,7 @@
 - [chat_czech.txt](resource/chat_czech.txt) has 8 untranslated strings.
 - [closecaption_czech.txt](resource/closecaption_czech.txt) has 1810 untranslated strings.
 - [gameui_czech.txt](resource/gameui_czech.txt) has 42 untranslated strings.
-- [reactivedrop_czech.txt](resource/reactivedrop_czech.txt) has 3704 untranslated strings.
+- [reactivedrop_czech.txt](resource/reactivedrop_czech.txt) has 3725 untranslated strings.
 - [valve_czech.txt](resource/valve_czech.txt) has 266 untranslated strings.
 
 ### Steam Store and Community
@@ -398,7 +399,7 @@
 
 ### Upcoming Release Notes
 
-- [20230816_czech.xml](release_notes/20230816_english.xml) is missing.
+- [20230901_czech.xml](release_notes/20230901_english.xml) is missing.
 
 ### Credits
 
@@ -700,7 +701,7 @@
 - [reactivedrop_french.txt](addons/ExampleAddon/resource/reactivedrop_french.txt) has 39 untranslated strings.
 - [inventory_service_tags_french.vdf](community/inventory_service/inventory_service_tags_french.vdf) has 27 untranslated strings.
 - [statsweb_french.vdf](community/stats_website/statsweb_french.vdf) has 200 untranslated strings.
-- [steam_input_french.vdf](community/steam_input/steam_input_french.vdf) has 67 untranslated strings.
+- [steam_input_french.vdf](community/steam_input/steam_input_french.vdf) has 97 untranslated strings.
 - [workshop_description_french.vdf](community/workshop/workshop_description_french.vdf) has 4 untranslated strings.
 - [signage_french.vdf](misc/signage/signage_french.vdf) has 69 untranslated strings.
 - [serverbrowser_french.txt](platform/servers/serverbrowser_french.txt) has 24 untranslated strings.
@@ -708,7 +709,7 @@
 - [basemodui_french.txt](resource/basemodui_french.txt) has 27 untranslated strings.
 - [closecaption_french.txt](resource/closecaption_french.txt) has 138 untranslated strings.
 - [gameui_french.txt](resource/gameui_french.txt) has 42 untranslated strings.
-- [reactivedrop_french.txt](resource/reactivedrop_french.txt) has 2065 untranslated strings.
+- [reactivedrop_french.txt](resource/reactivedrop_french.txt) has 2086 untranslated strings.
 - [valve_french.txt](resource/valve_french.txt) has 202 untranslated strings.
 
 ### Steam Store and Community
@@ -720,7 +721,7 @@
 
 ### Upcoming Release Notes
 
-- [20230816_french.xml](release_notes/20230816_english.xml) is missing.
+- [20230901_french.xml](release_notes/20230901_english.xml) is missing.
 
 ### Credits
 
@@ -996,9 +997,7 @@
 
 </summary>
 
-### Strings
-
-- [reactivedrop_german.txt](resource/reactivedrop_german.txt) has 1 untranslated strings.
+✓ Up to date!
 
 </details>
 
@@ -1010,7 +1009,7 @@
 
 ### Strings
 
-- [reactivedrop_italian.txt](resource/reactivedrop_italian.txt) has 1 untranslated strings.
+- [steam_input_italian.vdf](community/steam_input/steam_input_italian.vdf) has 2 untranslated strings.
 
 </details>
 
@@ -1024,7 +1023,6 @@
 
 - [signage_japanese.vdf](misc/signage/signage_japanese.vdf) has 67 untranslated strings.
 - [vgui_japanese.txt](platform/vgui_japanese.txt) has 35 untranslated strings.
-- [reactivedrop_japanese.txt](resource/reactivedrop_japanese.txt) has 1 untranslated strings.
 
 </details>
 
@@ -1038,14 +1036,14 @@
 
 - [inventory_service_tags_koreana.vdf](community/inventory_service/inventory_service_tags_koreana.vdf) has 4 untranslated strings.
 - [statsweb_koreana.vdf](community/stats_website/statsweb_koreana.vdf) has 22 untranslated strings.
-- [steam_input_koreana.vdf](community/steam_input/steam_input_koreana.vdf) has 55 untranslated strings.
+- [steam_input_koreana.vdf](community/steam_input/steam_input_koreana.vdf) has 85 untranslated strings.
 - [workshop_description_koreana.vdf](community/workshop/workshop_description_koreana.vdf) has 4 untranslated strings.
 - [signage_koreana.vdf](misc/signage/signage_koreana.vdf) has 69 untranslated strings.
 - [vgui_koreana.txt](platform/vgui_koreana.txt) has 88 untranslated strings.
 - [basemodui_koreana.txt](resource/basemodui_koreana.txt) has 7 untranslated strings.
 - [closecaption_koreana.txt](resource/closecaption_koreana.txt) has 10 untranslated strings.
 - [gameui_koreana.txt](resource/gameui_koreana.txt) has 38 untranslated strings.
-- [reactivedrop_koreana.txt](resource/reactivedrop_koreana.txt) has 1196 untranslated strings.
+- [reactivedrop_koreana.txt](resource/reactivedrop_koreana.txt) has 1217 untranslated strings.
 - [valve_koreana.txt](resource/valve_koreana.txt) has 96 untranslated strings.
 
 ### Steam Store and Community
@@ -1056,7 +1054,7 @@
 
 ### Upcoming Release Notes
 
-- [20230816_koreana.xml](release_notes/20230816_english.xml) is missing.
+- [20230901_koreana.xml](release_notes/20230901_english.xml) is missing.
 
 ### Credits
 
@@ -1261,7 +1259,7 @@
 - [reactivedrop_polish.txt](addons/ExampleAddon/resource/reactivedrop_polish.txt) has 39 untranslated strings.
 - [inventory_service_tags_polish.vdf](community/inventory_service/inventory_service_tags_polish.vdf) has 27 untranslated strings.
 - [statsweb_polish.vdf](community/stats_website/statsweb_polish.vdf) has 200 untranslated strings.
-- [steam_input_polish.vdf](community/steam_input/steam_input_polish.vdf) has 67 untranslated strings.
+- [steam_input_polish.vdf](community/steam_input/steam_input_polish.vdf) has 97 untranslated strings.
 - [signage_polish.vdf](misc/signage/signage_polish.vdf) has 69 untranslated strings.
 - [serverbrowser_polish.txt](platform/servers/serverbrowser_polish.txt) has 24 untranslated strings.
 - [vgui_polish.txt](platform/vgui_polish.txt) has 81 untranslated strings.
@@ -1269,12 +1267,12 @@
 - [chat_polish.txt](resource/chat_polish.txt) has 8 untranslated strings.
 - [closecaption_polish.txt](resource/closecaption_polish.txt) has 2004 untranslated strings.
 - [gameui_polish.txt](resource/gameui_polish.txt) has 42 untranslated strings.
-- [reactivedrop_polish.txt](resource/reactivedrop_polish.txt) has 2700 untranslated strings.
+- [reactivedrop_polish.txt](resource/reactivedrop_polish.txt) has 2721 untranslated strings.
 - [valve_polish.txt](resource/valve_polish.txt) has 266 untranslated strings.
 
 ### Upcoming Release Notes
 
-- [20230816_polish.xml](release_notes/20230816_english.xml) is missing.
+- [20230901_polish.xml](release_notes/20230901_english.xml) is missing.
 
 ### Credits
 
@@ -1576,13 +1574,13 @@
 - [reactivedrop_portuguese.txt](addons/ExampleAddon/resource/reactivedrop_portuguese.txt) has 12 untranslated strings.
 - [inventory_service_tags_portuguese.vdf](community/inventory_service/inventory_service_tags_portuguese.vdf) has 6 untranslated strings.
 - [statsweb_portuguese.vdf](community/stats_website/statsweb_portuguese.vdf) has 21 untranslated strings.
-- [steam_input_portuguese.vdf](community/steam_input/steam_input_portuguese.vdf) has 55 untranslated strings.
+- [steam_input_portuguese.vdf](community/steam_input/steam_input_portuguese.vdf) has 85 untranslated strings.
 - [workshop_description_portuguese.vdf](community/workshop/workshop_description_portuguese.vdf) has 2 untranslated strings.
 - [signage_portuguese.vdf](misc/signage/signage_portuguese.vdf) has 69 untranslated strings.
 - [vgui_portuguese.txt](platform/vgui_portuguese.txt) has 93 untranslated strings.
 - [closecaption_portuguese.txt](resource/closecaption_portuguese.txt) has 180 untranslated strings.
 - [gameui_portuguese.txt](resource/gameui_portuguese.txt) has 32 untranslated strings.
-- [reactivedrop_portuguese.txt](resource/reactivedrop_portuguese.txt) has 1825 untranslated strings.
+- [reactivedrop_portuguese.txt](resource/reactivedrop_portuguese.txt) has 1846 untranslated strings.
 - [valve_portuguese.txt](resource/valve_portuguese.txt) has 266 untranslated strings.
 
 ### Steam Store and Community
@@ -1591,7 +1589,7 @@
 
 ### Upcoming Release Notes
 
-- [20230816_portuguese.xml](release_notes/20230816_english.xml) is missing.
+- [20230901_portuguese.xml](release_notes/20230901_english.xml) is missing.
 
 ### Credits
 
@@ -1882,17 +1880,17 @@
 
 - [inventory_service_tags_brazilian.vdf](community/inventory_service/inventory_service_tags_brazilian.vdf) has 21 untranslated strings.
 - [statsweb_brazilian.vdf](community/stats_website/statsweb_brazilian.vdf) has 9 untranslated strings.
-- [steam_input_brazilian.vdf](community/steam_input/steam_input_brazilian.vdf) has 55 untranslated strings.
+- [steam_input_brazilian.vdf](community/steam_input/steam_input_brazilian.vdf) has 85 untranslated strings.
 - [signage_brazilian.vdf](misc/signage/signage_brazilian.vdf) has 69 untranslated strings.
 - [basemodui_brazilian.txt](resource/basemodui_brazilian.txt) has 2 untranslated strings.
 - [closecaption_brazilian.txt](resource/closecaption_brazilian.txt) has 2004 untranslated strings.
 - [gameui_brazilian.txt](resource/gameui_brazilian.txt) has 32 untranslated strings.
-- [reactivedrop_brazilian.txt](resource/reactivedrop_brazilian.txt) has 959 untranslated strings.
+- [reactivedrop_brazilian.txt](resource/reactivedrop_brazilian.txt) has 980 untranslated strings.
 - [valve_brazilian.txt](resource/valve_brazilian.txt) has 6 untranslated strings.
 
 ### Upcoming Release Notes
 
-- [20230816_brazilian.xml](release_notes/20230816_english.xml) is missing.
+- [20230901_brazilian.xml](release_notes/20230901_english.xml) is missing.
 
 ### Credits
 
@@ -2027,9 +2025,7 @@
 
 </summary>
 
-### Strings
-
-- [reactivedrop_russian.txt](resource/reactivedrop_russian.txt) has 1 untranslated strings.
+✓ Up to date!
 
 </details>
 
@@ -2044,7 +2040,7 @@
 - [reactivedrop_spanish.txt](addons/ExampleAddon/resource/reactivedrop_spanish.txt) has 39 untranslated strings.
 - [inventory_service_tags_spanish.vdf](community/inventory_service/inventory_service_tags_spanish.vdf) has 27 untranslated strings.
 - [statsweb_spanish.vdf](community/stats_website/statsweb_spanish.vdf) has 200 untranslated strings.
-- [steam_input_spanish.vdf](community/steam_input/steam_input_spanish.vdf) has 67 untranslated strings.
+- [steam_input_spanish.vdf](community/steam_input/steam_input_spanish.vdf) has 97 untranslated strings.
 - [workshop_description_spanish.vdf](community/workshop/workshop_description_spanish.vdf) has 4 untranslated strings.
 - [signage_spanish.vdf](misc/signage/signage_spanish.vdf) has 69 untranslated strings.
 - [serverbrowser_spanish.txt](platform/servers/serverbrowser_spanish.txt) has 24 untranslated strings.
@@ -2052,7 +2048,7 @@
 - [basemodui_spanish.txt](resource/basemodui_spanish.txt) has 28 untranslated strings.
 - [closecaption_spanish.txt](resource/closecaption_spanish.txt) has 2004 untranslated strings.
 - [gameui_spanish.txt](resource/gameui_spanish.txt) has 40 untranslated strings.
-- [reactivedrop_spanish.txt](resource/reactivedrop_spanish.txt) has 2115 untranslated strings.
+- [reactivedrop_spanish.txt](resource/reactivedrop_spanish.txt) has 2136 untranslated strings.
 - [valve_spanish.txt](resource/valve_spanish.txt) has 266 untranslated strings.
 
 ### Steam Store and Community
@@ -2064,7 +2060,7 @@
 
 ### Upcoming Release Notes
 
-- [20230816_spanish.xml](release_notes/20230816_english.xml) is missing.
+- [20230901_spanish.xml](release_notes/20230901_english.xml) is missing.
 
 ### Credits
 
@@ -2366,7 +2362,7 @@
 - [reactivedrop_latam.txt](addons/ExampleAddon/resource/reactivedrop_latam.txt) has 39 untranslated strings.
 - [inventory_service_tags_latam.vdf](community/inventory_service/inventory_service_tags_latam.vdf) has 32 untranslated strings.
 - [statsweb_latam.vdf](community/stats_website/statsweb_latam.vdf) has 204 untranslated strings.
-- [steam_input_latam.vdf](community/steam_input/steam_input_latam.vdf) has 67 untranslated strings.
+- [steam_input_latam.vdf](community/steam_input/steam_input_latam.vdf) has 97 untranslated strings.
 - [workshop_description_latam.vdf](community/workshop/workshop_description_latam.vdf) has 4 untranslated strings.
 - [signage_latam.vdf](misc/signage/signage_latam.vdf) has 69 untranslated strings.
 - [serverbrowser_latam.txt](platform/servers/serverbrowser_latam.txt) has 186 untranslated strings.
@@ -2375,7 +2371,7 @@
 - [chat_latam.txt](resource/chat_latam.txt) has 8 untranslated strings.
 - [closecaption_latam.txt](resource/closecaption_latam.txt) has 2004 untranslated strings.
 - [gameui_latam.txt](resource/gameui_latam.txt) has 634 untranslated strings.
-- [reactivedrop_latam.txt](resource/reactivedrop_latam.txt) has 4211 untranslated strings.
+- [reactivedrop_latam.txt](resource/reactivedrop_latam.txt) has 4232 untranslated strings.
 - [valve_latam.txt](resource/valve_latam.txt) has 266 untranslated strings.
 
 ### Steam Store and Community
@@ -2388,7 +2384,7 @@
 
 ### Upcoming Release Notes
 
-- [20230816_latam.xml](release_notes/20230816_english.xml) is missing.
+- [20230901_latam.xml](release_notes/20230901_english.xml) is missing.
 
 ### Credits
 
@@ -2690,14 +2686,14 @@
 - [reactivedrop_ukrainian.txt](addons/ExampleAddon/resource/reactivedrop_ukrainian.txt) has 39 untranslated strings.
 - [inventory_service_tags_ukrainian.vdf](community/inventory_service/inventory_service_tags_ukrainian.vdf) has 4 untranslated strings.
 - [statsweb_ukrainian.vdf](community/stats_website/statsweb_ukrainian.vdf) has 200 untranslated strings.
-- [steam_input_ukrainian.vdf](community/steam_input/steam_input_ukrainian.vdf) has 55 untranslated strings.
+- [steam_input_ukrainian.vdf](community/steam_input/steam_input_ukrainian.vdf) has 85 untranslated strings.
 - [signage_ukrainian.vdf](misc/signage/signage_ukrainian.vdf) has 69 untranslated strings.
 - [serverbrowser_ukrainian.txt](platform/servers/serverbrowser_ukrainian.txt) has 186 untranslated strings.
 - [vgui_ukrainian.txt](platform/vgui_ukrainian.txt) has 184 untranslated strings.
 - [basemodui_ukrainian.txt](resource/basemodui_ukrainian.txt) has 27 untranslated strings.
 - [closecaption_ukrainian.txt](resource/closecaption_ukrainian.txt) has 131 untranslated strings.
 - [gameui_ukrainian.txt](resource/gameui_ukrainian.txt) has 32 untranslated strings.
-- [reactivedrop_ukrainian.txt](resource/reactivedrop_ukrainian.txt) has 2243 untranslated strings.
+- [reactivedrop_ukrainian.txt](resource/reactivedrop_ukrainian.txt) has 2264 untranslated strings.
 - [valve_ukrainian.txt](resource/valve_ukrainian.txt) has 266 untranslated strings.
 
 ### Steam Store and Community
@@ -2709,7 +2705,7 @@
 
 ### Upcoming Release Notes
 
-- [20230816_ukrainian.xml](release_notes/20230816_english.xml) is missing.
+- [20230901_ukrainian.xml](release_notes/20230901_english.xml) is missing.
 
 ### Credits
 
@@ -3009,14 +3005,14 @@
 
 - [reactivedrop_vietnamese.txt](addons/ExampleAddon/resource/reactivedrop_vietnamese.txt) has 39 untranslated strings.
 - [statsweb_vietnamese.vdf](community/stats_website/statsweb_vietnamese.vdf) has 200 untranslated strings.
-- [steam_input_vietnamese.vdf](community/steam_input/steam_input_vietnamese.vdf) has 67 untranslated strings.
+- [steam_input_vietnamese.vdf](community/steam_input/steam_input_vietnamese.vdf) has 97 untranslated strings.
 - [signage_vietnamese.vdf](misc/signage/signage_vietnamese.vdf) has 69 untranslated strings.
 - [serverbrowser_vietnamese.txt](platform/servers/serverbrowser_vietnamese.txt) has 186 untranslated strings.
 - [vgui_vietnamese.txt](platform/vgui_vietnamese.txt) has 184 untranslated strings.
 - [basemodui_vietnamese.txt](resource/basemodui_vietnamese.txt) has 1281 untranslated strings.
 - [closecaption_vietnamese.txt](resource/closecaption_vietnamese.txt) has 2004 untranslated strings.
 - [gameui_vietnamese.txt](resource/gameui_vietnamese.txt) has 634 untranslated strings.
-- [reactivedrop_vietnamese.txt](resource/reactivedrop_vietnamese.txt) has 4211 untranslated strings.
+- [reactivedrop_vietnamese.txt](resource/reactivedrop_vietnamese.txt) has 4232 untranslated strings.
 - [valve_vietnamese.txt](resource/valve_vietnamese.txt) has 230 untranslated strings.
 
 ### Steam Store and Community
@@ -3027,7 +3023,7 @@
 
 ### Upcoming Release Notes
 
-- [20230816_vietnamese.xml](release_notes/20230816_english.xml) is missing.
+- [20230901_vietnamese.xml](release_notes/20230901_english.xml) is missing.
 
 ### Credits
 

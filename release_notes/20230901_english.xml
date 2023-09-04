@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<content><string id="body">[list]
+[*]Fixed the previous user's Workshop addon enabled state being used on the first game launch after switching Steam accounts.
+[*]Fixed controller icons in hints rendering incorrectly for non-XInput controllers.
+[*]Reduced volume of some frequently played sound effects:[list]
+[*]Officer Leadership skill activation sounds
+[*]Xenomite (Harvester spawn) sounds
+[*]IAF Tesla Sentry Coil zap sound
+[*]IAF HAS42 Devastator firing sounds
+[/list]
+[*]Fixed an issue that caused some dedicated servers to not update their Heroes of the Interstellar Armed Forces configuration data.
+[*]Fixed a generator model being rotated 90 degrees. (For real this time!)
+[*]Fixed F9 menu showing incorrect text for how many players have voted yes during a map vote.
+[*][b]Precision Rail Rifle:[/b] Base damage increased from 75 to 105. Now kills drones in a single shot on brutal difficulty on any marine.
+[*][b]Paranoia: Crucial Point:[/b] Fixed drones refusing to climb upwards in the last holdout.
+[*][b]Accident 32: J5 Connector:[/b] Fixed drone pathing in the last holdout.
+[*][b]Accident 32: J5 Connector:[/b] Added a ladder to the sewer area and removed the kill trigger.
+[*]Added support for $parallaxmap and $height_scale in the LightmappedGeneric shader. This allows the alpha channel of a $bumpmap to "push" a material into a surface. See nature/snowwall006a.vmt for an example.
+[*]Disabled texture lighting interaction with the Flesh shader for now as it was causing crashes.
+[/list]</string><string id="subtitle"></string><string id="summary"></string><string id="title">Alien Swarm: Reactive Drop Update - September 1, 2023</string></content>

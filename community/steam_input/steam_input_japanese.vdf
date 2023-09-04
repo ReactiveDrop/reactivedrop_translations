@@ -7,10 +7,15 @@
 "[english]ActionSet_InGame"		"In-Game"
 "ActionSet_Menus"		"メニュー"
 "[english]ActionSet_Menus"		"Menus"
+"Layer_InGameMenus"		"ゲーム内メニュー"
+// In-game menus that activate the red and yellow box around the button, like hacking and briefing.
+"[english]Layer_InGameMenus"		"Menus"
 "Stick_Move"		"移動"
 "[english]Stick_Move"		"Move"
 "Stick_Look"		"狙う"
 "[english]Stick_Look"		"Aim"
+"Stick_MenuNavigate"		"メニュー選択"
+"[english]Stick_MenuNavigate"		"Menu Navigation"
 "Button_PrimaryAttack"		"メイン攻撃"
 "[english]Button_PrimaryAttack"		"Primary Attack"
 "Button_SecondaryAttack"		"特殊攻撃"
@@ -133,6 +138,78 @@
 "[english]Button_SelectMarine7"		"Select Marine 7"
 "Button_SelectMarine8"		"隊員8を選択"
 "[english]Button_SelectMarine8"		"Select Marine 8"
+"Button_Ability1"		"アビリティ 1"
+// In the (far) future we might use these for Versus mode. Not used for anything right now.
+"[english]Button_Ability1"		"Ability 1"
+"Button_Ability2"		"アビリティ 2"
+"[english]Button_Ability2"		"Ability 2"
+"Button_Ability3"		"アビリティ 3"
+"[english]Button_Ability3"		"Ability 3"
+"Button_Ability4"		"アビリティ 4"
+"[english]Button_Ability4"		"Ability 4"
+"Button_MenuConfirm"		"メニュー: 決定"
+// Note: currently (to my knowledge) only MenuConfirm, MenuBack, MenuSpecial1, MenuSpecial2, MenuL1, MenuL2,
+// and the directional buttons (which act identically in all three sets on most screens) are used in-game.
+//
+// A or Cross button
+"[english]Button_MenuConfirm"		"Menu Confirm"
+"Button_MenuBack"		"メニュー： キャンセル"
+// B or Circle button
+"[english]Button_MenuBack"		"Menu Back"
+"Button_MenuSpecial1"		"メニュー: 特殊1"
+// X or Square button
+"[english]Button_MenuSpecial1"		"Menu Special 1"
+"Button_MenuSpecial2"		"メニュー: 特殊2"
+// Y or Triangle button
+"[english]Button_MenuSpecial2"		"Menu Special 2"
+"Button_MenuL1"		"メニュー: L1"
+// Left shoulder button
+"[english]Button_MenuL1"		"Menu L1"
+"Button_MenuR1"		"メニュー: R1"
+// Right shoulder button
+"[english]Button_MenuR1"		"Menu R1"
+"Button_MenuL2"		"メニュー: L2"
+// Left trigger
+"[english]Button_MenuL2"		"Menu L2"
+"Button_MenuR2"		"メニュー: R2"
+// Right trigger
+"[english]Button_MenuR2"		"Menu R2"
+"Button_MenuL3"		"メニュー: 左スティックボタン"
+// Left stick click
+"[english]Button_MenuL3"		"Menu L3"
+"Button_MenuR3"		"メニュー: 右スティックボタン"
+// Right stick click
+"[english]Button_MenuR3"		"Menu R3"
+"Button_MenuSelect"		"メニュー: セレクトボタン"
+// Select, View, Back, or Share button
+"[english]Button_MenuSelect"		"Menu Select"
+"Button_MenuStart"		"メニュー: スタートボタン"
+// Start, Menu, or Options button
+"[english]Button_MenuStart"		"Menu Start"
+"Button_MenuLeft"		"メニュー: 方向パッド - 左"
+"[english]Button_MenuLeft"		"Menu D-Pad Left"
+"Button_MenuRight"		"メニュー: 方向パッド - 右"
+"[english]Button_MenuRight"		"Menu D-Pad Right"
+"Button_MenuUp"		"メニュー: 方向パッド - 上"
+"[english]Button_MenuUp"		"Menu D-Pad Up"
+"Button_MenuDown"		"メニュー: 方向パッド - 下"
+"[english]Button_MenuDown"		"Menu D-Pad Down"
+"Button_MenuLeftStickLeft"		"メニュー: 左スティック - 左"
+"[english]Button_MenuLeftStickLeft"		"Menu L Stick Left"
+"Button_MenuLeftStickRight"		"メニュー: 左スティック - 右"
+"[english]Button_MenuLeftStickRight"		"Menu L Stick Right"
+"Button_MenuLeftStickUp"		"メニュー: 左スティック - 上"
+"[english]Button_MenuLeftStickUp"		"Menu L Stick Up"
+"Button_MenuLeftStickDown"		"メニュー: 左スティック - 下"
+"[english]Button_MenuLeftStickDown"		"Menu L Stick Down"
+"Button_MenuRightStickLeft"		"メニュー: 右スティック - 左"
+"[english]Button_MenuRightStickLeft"		"Menu R Stick Left"
+"Button_MenuRightStickRight"		"メニュー: 右スティック - 右"
+"[english]Button_MenuRightStickRight"		"Menu R Stick Right"
+"Button_MenuRightStickUp"		"メニュー: 右スティック - 上"
+"[english]Button_MenuRightStickUp"		"Menu R Stick Up"
+"Button_MenuRightStickDown"		"メニュー: 右スティック - 下"
+"[english]Button_MenuRightStickDown"		"Menu R Stick Down"
 "InputConfigTitle_Generic"		"AS:RD デフォルト設定"
 "[english]InputConfigTitle_Generic"		"AS:RD Default"
 "InputConfigDescription_Generic"		"Alien Swarm: Reactive Drop用のデフォルト操作設定です。"

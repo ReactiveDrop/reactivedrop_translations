@@ -1112,7 +1112,7 @@
 "[english]L4D360UI_VideoOptions_VSync_TripleBuffered"		"Enabled (Triple Buffered)"
 "L4D360UI_VideoOptions_Windowed_NoBorder"		"Оконный (без рамки)"
 "[english]L4D360UI_VideoOptions_Windowed_NoBorder"		"Windowed (No Border)"
-"L4D360UI_VideoOptions_Queued_Mode"		"Многоядерный рендеринг"
+"L4D360UI_VideoOptions_Queued_Mode"		"Многоядерная обработка"
 "[english]L4D360UI_VideoOptions_Queued_Mode"		"Multicore Rendering"
 "L4D360UI_VideoOptions_Queued_Mode_Tooltip"		"Включите эту опцию для оптимизации быстродействия на многоядерных процессорах. Отключение этой опции может помочь решить проблему с дёргающимся изображением."
 "[english]L4D360UI_VideoOptions_Queued_Mode_Tooltip"		"Enable to optimise performance on multicore processors. Disabling may solve problems with uneven framerate."

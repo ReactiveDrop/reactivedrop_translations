@@ -7,10 +7,15 @@
 		"[english]ActionSet_InGame"		"In-Game"
 		"ActionSet_Menus"		"Menus"
 		"[english]ActionSet_Menus"		"Menus"
+		"Layer_InGameMenus"		"Menus"
+		// In-game menus that activate the red and yellow box around the button, like hacking and briefing.
+		"[english]Layer_InGameMenus"		"Menus"
 		"Stick_Move"		"Move"
 		"[english]Stick_Move"		"Move"
 		"Stick_Look"		"Aim"
 		"[english]Stick_Look"		"Aim"
+		"Stick_MenuNavigate"		"Menu Navigation"
+		"[english]Stick_MenuNavigate"		"Menu Navigation"
 "Button_PrimaryAttack"		"Основна атака"
 "[english]Button_PrimaryAttack"		"Primary Attack"
 "Button_SecondaryAttack"		"Вторинна атака"
@@ -133,6 +138,78 @@
 		"[english]Button_SelectMarine7"		"Select Marine 7"
 		"Button_SelectMarine8"		"Select Marine 8"
 		"[english]Button_SelectMarine8"		"Select Marine 8"
+		"Button_Ability1"		"Ability 1"
+		// In the (far) future we might use these for Versus mode. Not used for anything right now.
+		"[english]Button_Ability1"		"Ability 1"
+		"Button_Ability2"		"Ability 2"
+		"[english]Button_Ability2"		"Ability 2"
+		"Button_Ability3"		"Ability 3"
+		"[english]Button_Ability3"		"Ability 3"
+		"Button_Ability4"		"Ability 4"
+		"[english]Button_Ability4"		"Ability 4"
+		"Button_MenuConfirm"		"Menu Confirm"
+		// Note: currently (to my knowledge) only MenuConfirm, MenuBack, MenuSpecial1, MenuSpecial2, MenuL1, MenuL2,
+		// and the directional buttons (which act identically in all three sets on most screens) are used in-game.
+		//
+		// A or Cross button
+		"[english]Button_MenuConfirm"		"Menu Confirm"
+		"Button_MenuBack"		"Menu Back"
+		// B or Circle button
+		"[english]Button_MenuBack"		"Menu Back"
+		"Button_MenuSpecial1"		"Menu Special 1"
+		// X or Square button
+		"[english]Button_MenuSpecial1"		"Menu Special 1"
+		"Button_MenuSpecial2"		"Menu Special 2"
+		// Y or Triangle button
+		"[english]Button_MenuSpecial2"		"Menu Special 2"
+		"Button_MenuL1"		"Menu L1"
+		// Left shoulder button
+		"[english]Button_MenuL1"		"Menu L1"
+		"Button_MenuR1"		"Menu R1"
+		// Right shoulder button
+		"[english]Button_MenuR1"		"Menu R1"
+		"Button_MenuL2"		"Menu L2"
+		// Left trigger
+		"[english]Button_MenuL2"		"Menu L2"
+		"Button_MenuR2"		"Menu R2"
+		// Right trigger
+		"[english]Button_MenuR2"		"Menu R2"
+		"Button_MenuL3"		"Menu L3"
+		// Left stick click
+		"[english]Button_MenuL3"		"Menu L3"
+		"Button_MenuR3"		"Menu R3"
+		// Right stick click
+		"[english]Button_MenuR3"		"Menu R3"
+		"Button_MenuSelect"		"Menu Select"
+		// Select, View, Back, or Share button
+		"[english]Button_MenuSelect"		"Menu Select"
+		"Button_MenuStart"		"Menu Start"
+		// Start, Menu, or Options button
+		"[english]Button_MenuStart"		"Menu Start"
+		"Button_MenuLeft"		"Menu D-Pad Left"
+		"[english]Button_MenuLeft"		"Menu D-Pad Left"
+		"Button_MenuRight"		"Menu D-Pad Right"
+		"[english]Button_MenuRight"		"Menu D-Pad Right"
+		"Button_MenuUp"		"Menu D-Pad Up"
+		"[english]Button_MenuUp"		"Menu D-Pad Up"
+		"Button_MenuDown"		"Menu D-Pad Down"
+		"[english]Button_MenuDown"		"Menu D-Pad Down"
+		"Button_MenuLeftStickLeft"		"Menu L Stick Left"
+		"[english]Button_MenuLeftStickLeft"		"Menu L Stick Left"
+		"Button_MenuLeftStickRight"		"Menu L Stick Right"
+		"[english]Button_MenuLeftStickRight"		"Menu L Stick Right"
+		"Button_MenuLeftStickUp"		"Menu L Stick Up"
+		"[english]Button_MenuLeftStickUp"		"Menu L Stick Up"
+		"Button_MenuLeftStickDown"		"Menu L Stick Down"
+		"[english]Button_MenuLeftStickDown"		"Menu L Stick Down"
+		"Button_MenuRightStickLeft"		"Menu R Stick Left"
+		"[english]Button_MenuRightStickLeft"		"Menu R Stick Left"
+		"Button_MenuRightStickRight"		"Menu R Stick Right"
+		"[english]Button_MenuRightStickRight"		"Menu R Stick Right"
+		"Button_MenuRightStickUp"		"Menu R Stick Up"
+		"[english]Button_MenuRightStickUp"		"Menu R Stick Up"
+		"Button_MenuRightStickDown"		"Menu R Stick Down"
+		"[english]Button_MenuRightStickDown"		"Menu R Stick Down"
 		"InputConfigTitle_Generic"		"AS:RD Default"
 		"[english]InputConfigTitle_Generic"		"AS:RD Default"
 		"InputConfigDescription_Generic"		"Default control scheme for Alien Swarm: Reactive Drop."

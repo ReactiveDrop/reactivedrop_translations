@@ -3,14 +3,19 @@
 "Language"		"german"
 "Tokens"
 {
-"ActionSet_InGame"		"In-Game"
+"ActionSet_InGame"		"Im Spiel"
 "[english]ActionSet_InGame"		"In-Game"
-"ActionSet_Menus"		"Menus"
+"ActionSet_Menus"		"Menüs"
 "[english]ActionSet_Menus"		"Menus"
+"Layer_InGameMenus"		"Menüs"
+// In-game menus that activate the red and yellow box around the button, like hacking and briefing.
+"[english]Layer_InGameMenus"		"Menus"
 "Stick_Move"		"Move"
 "[english]Stick_Move"		"Move"
 "Stick_Look"		"Aim"
 "[english]Stick_Look"		"Aim"
+"Stick_MenuNavigate"		"Menü Navigation"
+"[english]Stick_MenuNavigate"		"Menu Navigation"
 "Button_PrimaryAttack"		"Primärer Angriff"
 "[english]Button_PrimaryAttack"		"Primary Attack"
 "Button_SecondaryAttack"		"Sekundärer Angriff"
@@ -133,6 +138,78 @@
 "[english]Button_SelectMarine7"		"Select Marine 7"
 "Button_SelectMarine8"		"Soldat 8 auswählen"
 "[english]Button_SelectMarine8"		"Select Marine 8"
+"Button_Ability1"		"Fähigkeit 1"
+// In the (far) future we might use these for Versus mode. Not used for anything right now.
+"[english]Button_Ability1"		"Ability 1"
+"Button_Ability2"		"Fähigkeit 2"
+"[english]Button_Ability2"		"Ability 2"
+"Button_Ability3"		"Fähigkeit 3"
+"[english]Button_Ability3"		"Ability 3"
+"Button_Ability4"		"Fähigkeit 4"
+"[english]Button_Ability4"		"Ability 4"
+"Button_MenuConfirm"		"Menü Bestätigen"
+// Note: currently (to my knowledge) only MenuConfirm, MenuBack, MenuSpecial1, MenuSpecial2, MenuL1, MenuL2,
+// and the directional buttons (which act identically in all three sets on most screens) are used in-game.
+//
+// A or Cross button
+"[english]Button_MenuConfirm"		"Menu Confirm"
+"Button_MenuBack"		"Menü Zurück"
+// B or Circle button
+"[english]Button_MenuBack"		"Menu Back"
+"Button_MenuSpecial1"		"Menü Spezial 1"
+// X or Square button
+"[english]Button_MenuSpecial1"		"Menu Special 1"
+"Button_MenuSpecial2"		"Menü Spezial 2"
+// Y or Triangle button
+"[english]Button_MenuSpecial2"		"Menu Special 2"
+"Button_MenuL1"		"Linke Schultertaste"
+// Left shoulder button
+"[english]Button_MenuL1"		"Menu L1"
+"Button_MenuR1"		"Menü R1"
+// Right shoulder button
+"[english]Button_MenuR1"		"Menu R1"
+"Button_MenuL2"		"Menü L2"
+// Left trigger
+"[english]Button_MenuL2"		"Menu L2"
+"Button_MenuR2"		"Menü R2"
+// Right trigger
+"[english]Button_MenuR2"		"Menu R2"
+"Button_MenuL3"		"Menü L3"
+// Left stick click
+"[english]Button_MenuL3"		"Menu L3"
+"Button_MenuR3"		"Menü R3"
+// Right stick click
+"[english]Button_MenuR3"		"Menu R3"
+"Button_MenuSelect"		"Menü Auwählen"
+// Select, View, Back, or Share button
+"[english]Button_MenuSelect"		"Menu Select"
+"Button_MenuStart"		"Menü Start"
+// Start, Menu, or Options button
+"[english]Button_MenuStart"		"Menu Start"
+"Button_MenuLeft"		"D-Pad links"
+"[english]Button_MenuLeft"		"Menu D-Pad Left"
+"Button_MenuRight"		"D-Pad rechts"
+"[english]Button_MenuRight"		"Menu D-Pad Right"
+"Button_MenuUp"		"Menü D-Pad oben"
+"[english]Button_MenuUp"		"Menu D-Pad Up"
+"Button_MenuDown"		"Menü D-Pad unten"
+"[english]Button_MenuDown"		"Menu D-Pad Down"
+"Button_MenuLeftStickLeft"		"Menü L Stick Links"
+"[english]Button_MenuLeftStickLeft"		"Menu L Stick Left"
+"Button_MenuLeftStickRight"		"Menü L Stick Rechts"
+"[english]Button_MenuLeftStickRight"		"Menu L Stick Right"
+"Button_MenuLeftStickUp"		"Menü L Stick Oben"
+"[english]Button_MenuLeftStickUp"		"Menu L Stick Up"
+"Button_MenuLeftStickDown"		"Menü L Stick Unten"
+"[english]Button_MenuLeftStickDown"		"Menu L Stick Down"
+"Button_MenuRightStickLeft"		"Menü R Stick Links"
+"[english]Button_MenuRightStickLeft"		"Menu R Stick Left"
+"Button_MenuRightStickRight"		"Menü R Stick Rechts"
+"[english]Button_MenuRightStickRight"		"Menu R Stick Right"
+"Button_MenuRightStickUp"		"Menü R Stick Oben"
+"[english]Button_MenuRightStickUp"		"Menu R Stick Up"
+"Button_MenuRightStickDown"		"Menü R Stick Unten"
+"[english]Button_MenuRightStickDown"		"Menu R Stick Down"
 "InputConfigTitle_Generic"		"AS:RD Standard"
 "[english]InputConfigTitle_Generic"		"AS:RD Default"
 "InputConfigDescription_Generic"		"Standard-Kontrollschema für Alien Swarm: Reactive Drop."
