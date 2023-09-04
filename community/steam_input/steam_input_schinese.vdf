@@ -7,15 +7,15 @@
 "[english]ActionSet_InGame"		"In-Game"
 "ActionSet_Menus"		"菜单"
 "[english]ActionSet_Menus"		"Menus"
-		"Layer_InGameMenus"		"Menus"
-		// In-game menus that activate the red and yellow box around the button, like hacking and briefing.
-		"[english]Layer_InGameMenus"		"Menus"
+"Layer_InGameMenus"		"菜单"
+// In-game menus that activate the red and yellow box around the button, like hacking and briefing.
+"[english]Layer_InGameMenus"		"Menus"
 "Stick_Move"		"移动"
 "[english]Stick_Move"		"Move"
 "Stick_Look"		"瞄准"
 "[english]Stick_Look"		"Aim"
-		"Stick_MenuNavigate"		"Menu Navigation"
-		"[english]Stick_MenuNavigate"		"Menu Navigation"
+"Stick_MenuNavigate"		"菜单导航键"
+"[english]Stick_MenuNavigate"		"Menu Navigation"
 "Button_PrimaryAttack"		"主要攻击"
 "[english]Button_PrimaryAttack"		"Primary Attack"
 "Button_SecondaryAttack"		"次要攻击"
@@ -138,78 +138,78 @@
 "[english]Button_SelectMarine7"		"Select Marine 7"
 "Button_SelectMarine8"		"选择8号士兵"
 "[english]Button_SelectMarine8"		"Select Marine 8"
-		"Button_Ability1"		"Ability 1"
-		// In the (far) future we might use these for Versus mode. Not used for anything right now.
-		"[english]Button_Ability1"		"Ability 1"
-		"Button_Ability2"		"Ability 2"
-		"[english]Button_Ability2"		"Ability 2"
-		"Button_Ability3"		"Ability 3"
-		"[english]Button_Ability3"		"Ability 3"
-		"Button_Ability4"		"Ability 4"
-		"[english]Button_Ability4"		"Ability 4"
-		"Button_MenuConfirm"		"Menu Confirm"
-		// Note: currently (to my knowledge) only MenuConfirm, MenuBack, MenuSpecial1, MenuSpecial2, MenuL1, MenuL2,
-		// and the directional buttons (which act identically in all three sets on most screens) are used in-game.
-		//
-		// A or Cross button
-		"[english]Button_MenuConfirm"		"Menu Confirm"
-		"Button_MenuBack"		"Menu Back"
-		// B or Circle button
-		"[english]Button_MenuBack"		"Menu Back"
-		"Button_MenuSpecial1"		"Menu Special 1"
-		// X or Square button
-		"[english]Button_MenuSpecial1"		"Menu Special 1"
-		"Button_MenuSpecial2"		"Menu Special 2"
-		// Y or Triangle button
-		"[english]Button_MenuSpecial2"		"Menu Special 2"
-		"Button_MenuL1"		"Menu L1"
-		// Left shoulder button
-		"[english]Button_MenuL1"		"Menu L1"
-		"Button_MenuR1"		"Menu R1"
-		// Right shoulder button
-		"[english]Button_MenuR1"		"Menu R1"
-		"Button_MenuL2"		"Menu L2"
-		// Left trigger
-		"[english]Button_MenuL2"		"Menu L2"
-		"Button_MenuR2"		"Menu R2"
-		// Right trigger
-		"[english]Button_MenuR2"		"Menu R2"
-		"Button_MenuL3"		"Menu L3"
-		// Left stick click
-		"[english]Button_MenuL3"		"Menu L3"
-		"Button_MenuR3"		"Menu R3"
-		// Right stick click
-		"[english]Button_MenuR3"		"Menu R3"
-		"Button_MenuSelect"		"Menu Select"
-		// Select, View, Back, or Share button
-		"[english]Button_MenuSelect"		"Menu Select"
-		"Button_MenuStart"		"Menu Start"
-		// Start, Menu, or Options button
-		"[english]Button_MenuStart"		"Menu Start"
-		"Button_MenuLeft"		"Menu D-Pad Left"
-		"[english]Button_MenuLeft"		"Menu D-Pad Left"
-		"Button_MenuRight"		"Menu D-Pad Right"
-		"[english]Button_MenuRight"		"Menu D-Pad Right"
-		"Button_MenuUp"		"Menu D-Pad Up"
-		"[english]Button_MenuUp"		"Menu D-Pad Up"
-		"Button_MenuDown"		"Menu D-Pad Down"
-		"[english]Button_MenuDown"		"Menu D-Pad Down"
-		"Button_MenuLeftStickLeft"		"Menu L Stick Left"
-		"[english]Button_MenuLeftStickLeft"		"Menu L Stick Left"
-		"Button_MenuLeftStickRight"		"Menu L Stick Right"
-		"[english]Button_MenuLeftStickRight"		"Menu L Stick Right"
-		"Button_MenuLeftStickUp"		"Menu L Stick Up"
-		"[english]Button_MenuLeftStickUp"		"Menu L Stick Up"
-		"Button_MenuLeftStickDown"		"Menu L Stick Down"
-		"[english]Button_MenuLeftStickDown"		"Menu L Stick Down"
-		"Button_MenuRightStickLeft"		"Menu R Stick Left"
-		"[english]Button_MenuRightStickLeft"		"Menu R Stick Left"
-		"Button_MenuRightStickRight"		"Menu R Stick Right"
-		"[english]Button_MenuRightStickRight"		"Menu R Stick Right"
-		"Button_MenuRightStickUp"		"Menu R Stick Up"
-		"[english]Button_MenuRightStickUp"		"Menu R Stick Up"
-		"Button_MenuRightStickDown"		"Menu R Stick Down"
-		"[english]Button_MenuRightStickDown"		"Menu R Stick Down"
+"Button_Ability1"		"技能 1"
+// In the (far) future we might use these for Versus mode. Not used for anything right now.
+"[english]Button_Ability1"		"Ability 1"
+"Button_Ability2"		"技能 2"
+"[english]Button_Ability2"		"Ability 2"
+"Button_Ability3"		"技能 3"
+"[english]Button_Ability3"		"Ability 3"
+"Button_Ability4"		"技能 4"
+"[english]Button_Ability4"		"Ability 4"
+"Button_MenuConfirm"		"确认(A/×)"
+// Note: currently (to my knowledge) only MenuConfirm, MenuBack, MenuSpecial1, MenuSpecial2, MenuL1, MenuL2,
+// and the directional buttons (which act identically in all three sets on most screens) are used in-game.
+//
+// A or Cross button
+"[english]Button_MenuConfirm"		"Menu Confirm"
+"Button_MenuBack"		"返回(B/〇)"
+// B or Circle button
+"[english]Button_MenuBack"		"Menu Back"
+"Button_MenuSpecial1"		"特殊1(X/□)"
+// X or Square button
+"[english]Button_MenuSpecial1"		"Menu Special 1"
+"Button_MenuSpecial2"		"特殊2(Y/△)"
+// Y or Triangle button
+"[english]Button_MenuSpecial2"		"Menu Special 2"
+"Button_MenuL1"		"左扳机键1(L1/LB)"
+// Left shoulder button
+"[english]Button_MenuL1"		"Menu L1"
+"Button_MenuR1"		"右扳机键1(R1/RB)"
+// Right shoulder button
+"[english]Button_MenuR1"		"Menu R1"
+"Button_MenuL2"		"左扳机键2(L2/LT)"
+// Left trigger
+"[english]Button_MenuL2"		"Menu L2"
+"Button_MenuR2"		"右扳机键2(R2/RT)"
+// Right trigger
+"[english]Button_MenuR2"		"Menu R2"
+"Button_MenuL3"		"左摇杆单击(L3)"
+// Left stick click
+"[english]Button_MenuL3"		"Menu L3"
+"Button_MenuR3"		"右摇杆单击(R3)"
+// Right stick click
+"[english]Button_MenuR3"		"Menu R3"
+"Button_MenuSelect"		"选择(查看/返回/分享)"
+// Select, View, Back, or Share button
+"[english]Button_MenuSelect"		"Menu Select"
+"Button_MenuStart"		"开始(菜单/选项)"
+// Start, Menu, or Options button
+"[english]Button_MenuStart"		"Menu Start"
+"Button_MenuLeft"		"左(十字键/D-Pad)"
+"[english]Button_MenuLeft"		"Menu D-Pad Left"
+"Button_MenuRight"		"右(十字键/D-Pad)"
+"[english]Button_MenuRight"		"Menu D-Pad Right"
+"Button_MenuUp"		"上(十字键/D-Pad)"
+"[english]Button_MenuUp"		"Menu D-Pad Up"
+"Button_MenuDown"		"下(十字键/D-Pad)"
+"[english]Button_MenuDown"		"Menu D-Pad Down"
+"Button_MenuLeftStickLeft"		"左(左摇杆/LS)"
+"[english]Button_MenuLeftStickLeft"		"Menu L Stick Left"
+"Button_MenuLeftStickRight"		"右(左摇杆/LS)"
+"[english]Button_MenuLeftStickRight"		"Menu L Stick Right"
+"Button_MenuLeftStickUp"		"上(左摇杆/LS)"
+"[english]Button_MenuLeftStickUp"		"Menu L Stick Up"
+"Button_MenuLeftStickDown"		"下(左摇杆/LS)"
+"[english]Button_MenuLeftStickDown"		"Menu L Stick Down"
+"Button_MenuRightStickLeft"		"左(右摇杆/RS)"
+"[english]Button_MenuRightStickLeft"		"Menu R Stick Left"
+"Button_MenuRightStickRight"		"右(右摇杆/RS)"
+"[english]Button_MenuRightStickRight"		"Menu R Stick Right"
+"Button_MenuRightStickUp"		"上(右摇杆/RS)"
+"[english]Button_MenuRightStickUp"		"Menu R Stick Up"
+"Button_MenuRightStickDown"		"下(右摇杆/RS)"
+"[english]Button_MenuRightStickDown"		"Menu R Stick Down"
 "InputConfigTitle_Generic"		"游戏默认"
 "[english]InputConfigTitle_Generic"		"AS:RD Default"
 "InputConfigDescription_Generic"		"游戏默认的按键设置。"
