@@ -11,14 +11,14 @@
 | [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Hungarian](#non-curated-languages) | 51 | 138 | 42 | 2721 | 200 | 880 | 447 | 146 |
 | [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 2 | ✔️ | ✔️ |
-| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 104 | ✔️ | ✔️ |
+| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 102 | ✔️ | ✔️ |
 | [Korean](#koreana-한국어) | 7 | 10 | 38 | 1217 | 22 | 346 | 433 | 47 |
 | [Norwegian Bokmål](#non-curated-languages) | 69 | 708 | 47 | 3427 | 200 | 615 | 516 | 146 |
 | [Polish](#polish-polski) | 28 | 2004 | 42 | 2721 | 200 | 611 | 447 | 141 |
 | [European Portuguese](#portuguese-português-europeu) | ✔️ | 180 | 32 | 1846 | 21 | 533 | 456 | 139 |
 | [Brazilian Portuguese](#brazilian-português) | 2 | 2004 | 32 | 980 | 9 | 181 | 217 | 6 |
 | [Romanian](#non-curated-languages) | 51 | 1996 | 48 | 3432 | 200 | 880 | 493 | 146 |
-| [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 30 | ✔️ | ✔️ |
+| [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [European Spanish](#spanish-español-de-españa) | 28 | 2004 | 40 | 2136 | 200 | 619 | 443 | 145 |
 | [Latin American Spanish](#latam-español-latinoamericano) | 1281 | 2004 | 634 | 4232 | 204 | 885 | 529 | 146 |
 | [Swedish](#non-curated-languages) | 51 | 2004 | 42 | 2721 | 200 | 615 | 447 | 146 |
@@ -1021,7 +1021,6 @@
 
 ### Strings
 
-- [steam_input_japanese.vdf](community/steam_input/steam_input_japanese.vdf) has 2 untranslated strings.
 - [signage_japanese.vdf](misc/signage/signage_japanese.vdf) has 67 untranslated strings.
 - [vgui_japanese.txt](platform/vgui_japanese.txt) has 35 untranslated strings.
 
@@ -2026,9 +2025,7 @@
 
 </summary>
 
-### Strings
-
-- [steam_input_russian.vdf](community/steam_input/steam_input_russian.vdf) has 30 untranslated strings.
+✓ Up to date!
 
 </details>
 
