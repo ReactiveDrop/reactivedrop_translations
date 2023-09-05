@@ -8,7 +8,7 @@
 | [Dutch](#non-curated-languages) | 51 | 2004 | 42 | 2721 | 200 | 615 | 447 | 145 |
 | [Finnish](#non-curated-languages) | 51 | 2004 | 42 | 2721 | 200 | 615 | 447 | 145 |
 | [French](#french-français) | 27 | 138 | 42 | 2086 | 200 | 555 | 433 | 124 |
-| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 1 |
+| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Hungarian](#non-curated-languages) | 51 | 138 | 42 | 2721 | 200 | 880 | 447 | 146 |
 | [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 2 | ✔️ | 1 |
 | [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 102 | ✔️ | ✔️ |
@@ -996,9 +996,7 @@
 
 </summary>
 
-### Steam Store and Community
-
-- [workshop_tags_german.json](community/workshop/workshop_tags_german.json) has 1 indented lines.
+✓ Up to date!
 
 </details>
 
