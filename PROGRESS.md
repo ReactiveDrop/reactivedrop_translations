@@ -1,31 +1,31 @@
 # Overview
 | Language | basemodui | closecaption | gameui | reactivedrop | statsweb | Strings | Inventory | Files |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | ✔️ | 19 | ✔️ | 30 | ✔️ | ✔️ |
+| [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 1 |
 | [Traditional Chinese](#tchinese-繁體中文) | 9 | 140 | 33 | 2608 | 200 | 236 | 445 | 145 |
 | [Czech](#czech-čeština) | 71 | 1810 | 42 | 3725 | 200 | 885 | 515 | 145 |
 | [Danish](#non-curated-languages) | 52 | 231 | 42 | 3253 | 200 | 615 | 510 | 146 |
 | [Dutch](#non-curated-languages) | 51 | 2004 | 42 | 2721 | 200 | 615 | 447 | 145 |
 | [Finnish](#non-curated-languages) | 51 | 2004 | 42 | 2721 | 200 | 615 | 447 | 145 |
 | [French](#french-français) | 27 | 138 | 42 | 2086 | 200 | 555 | 433 | 124 |
-| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 2 | ✔️ | ✔️ |
+| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 1 |
 | [Hungarian](#non-curated-languages) | 51 | 138 | 42 | 2721 | 200 | 880 | 447 | 146 |
-| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 2 | ✔️ | ✔️ |
-| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 104 | ✔️ | ✔️ |
+| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 2 | ✔️ | 1 |
+| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 102 | ✔️ | 1 |
 | [Korean](#koreana-한국어) | 7 | 10 | 38 | 1217 | 22 | 346 | 433 | 47 |
 | [Norwegian Bokmål](#non-curated-languages) | 69 | 708 | 47 | 3427 | 200 | 615 | 516 | 146 |
-| [Polish](#polish-polski) | 28 | 2004 | 42 | 2721 | 200 | 611 | 447 | 141 |
-| [European Portuguese](#portuguese-português-europeu) | ✔️ | 180 | 32 | 1846 | 21 | 533 | 456 | 139 |
-| [Brazilian Portuguese](#brazilian-português) | 2 | 2004 | 32 | 980 | 9 | 181 | 217 | 6 |
+| [Polish](#polish-polski) | 28 | 2004 | 42 | 2721 | 200 | 611 | 447 | 142 |
+| [European Portuguese](#portuguese-português-europeu) | ✔️ | 180 | 32 | 1846 | 21 | 533 | 456 | 140 |
+| [Brazilian Portuguese](#brazilian-português) | 2 | 2004 | 32 | 980 | 9 | 181 | 217 | 7 |
 | [Romanian](#non-curated-languages) | 51 | 1996 | 48 | 3432 | 200 | 880 | 493 | 146 |
-| [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 30 | ✔️ | ✔️ |
+| [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 1 |
 | [European Spanish](#spanish-español-de-españa) | 28 | 2004 | 40 | 2136 | 200 | 619 | 443 | 145 |
 | [Latin American Spanish](#latam-español-latinoamericano) | 1281 | 2004 | 634 | 4232 | 204 | 885 | 529 | 146 |
 | [Swedish](#non-curated-languages) | 51 | 2004 | 42 | 2721 | 200 | 615 | 447 | 146 |
 | [Thai](#non-curated-languages) | 966 | 1993 | 50 | 3968 | 200 | 644 | 526 | 146 |
 | [Turkish](#non-curated-languages) | 51 | 137 | 42 | 2721 | 200 | 880 | 447 | 146 |
 | [Ukrainian](#ukrainian-українська) | 27 | 131 | 32 | 2264 | 200 | 833 | 441 | 145 |
-| [Vietnamese](#vietnamese-tiếng-việt) | 1281 | 2004 | 634 | 4232 | 200 | 805 | 529 | 131 |
+| [Vietnamese](#vietnamese-tiếng-việt) | 1281 | 2004 | 628 | 3258 | 200 | 805 | 529 | 131 |
 ### Legend
 - ***Non-capitalized column headers*** are the most important specific files and their number of missing strings. All of these txt-files are located in the resources folder. Except statsweb, which lies in community/stats_website, it's an vdf-file.
 - ***Strings*** is the number of missing strings not included in one of the files which get an individual non-capitalized column.
@@ -40,10 +40,9 @@
 
 </summary>
 
-### Strings
+### Steam Store and Community
 
-- [steam_input_schinese.vdf](community/steam_input/steam_input_schinese.vdf) has 30 untranslated strings.
-- [reactivedrop_schinese.txt](resource/reactivedrop_schinese.txt) has 19 untranslated strings.
+- [workshop_tags_schinese.json](community/workshop/workshop_tags_schinese.json) has 1 indented lines.
 
 </details>
 
@@ -997,9 +996,9 @@
 
 </summary>
 
-### Strings
+### Steam Store and Community
 
-- [steam_input_german.vdf](community/steam_input/steam_input_german.vdf) has 2 untranslated strings.
+- [workshop_tags_german.json](community/workshop/workshop_tags_german.json) has 1 indented lines.
 
 </details>
 
@@ -1013,6 +1012,10 @@
 
 - [steam_input_italian.vdf](community/steam_input/steam_input_italian.vdf) has 2 untranslated strings.
 
+### Steam Store and Community
+
+- [workshop_tags_italian.json](community/workshop/workshop_tags_italian.json) has 1 indented lines.
+
 </details>
 
 <details><summary>
@@ -1023,9 +1026,12 @@
 
 ### Strings
 
-- [steam_input_japanese.vdf](community/steam_input/steam_input_japanese.vdf) has 2 untranslated strings.
 - [signage_japanese.vdf](misc/signage/signage_japanese.vdf) has 67 untranslated strings.
 - [vgui_japanese.txt](platform/vgui_japanese.txt) has 35 untranslated strings.
+
+### Steam Store and Community
+
+- [workshop_tags_japanese.json](community/workshop/workshop_tags_japanese.json) has 1 indented lines.
 
 </details>
 
@@ -1272,6 +1278,10 @@
 - [gameui_polish.txt](resource/gameui_polish.txt) has 42 untranslated strings.
 - [reactivedrop_polish.txt](resource/reactivedrop_polish.txt) has 2721 untranslated strings.
 - [valve_polish.txt](resource/valve_polish.txt) has 266 untranslated strings.
+
+### Steam Store and Community
+
+- [workshop_tags_polish.json](community/workshop/workshop_tags_polish.json) has 1 indented lines.
 
 ### Upcoming Release Notes
 
@@ -1589,6 +1599,7 @@
 ### Steam Store and Community
 
 - [app_items_563560_portuguese.json](community/points_shop/app_items_563560_english.json) is missing.
+- [workshop_tags_portuguese.json](community/workshop/workshop_tags_portuguese.json) has 1 indented lines.
 
 ### Upcoming Release Notes
 
@@ -1891,6 +1902,10 @@
 - [reactivedrop_brazilian.txt](resource/reactivedrop_brazilian.txt) has 980 untranslated strings.
 - [valve_brazilian.txt](resource/valve_brazilian.txt) has 6 untranslated strings.
 
+### Steam Store and Community
+
+- [workshop_tags_brazilian.json](community/workshop/workshop_tags_brazilian.json) has 1 indented lines.
+
 ### Upcoming Release Notes
 
 - [20230901_brazilian.xml](release_notes/20230901_english.xml) is missing.
@@ -2028,9 +2043,9 @@
 
 </summary>
 
-### Strings
+### Steam Store and Community
 
-- [steam_input_russian.vdf](community/steam_input/steam_input_russian.vdf) has 30 untranslated strings.
+- [workshop_tags_russian.json](community/workshop/workshop_tags_russian.json) has 1 indented lines.
 
 </details>
 
@@ -3016,14 +3031,14 @@
 - [vgui_vietnamese.txt](platform/vgui_vietnamese.txt) has 184 untranslated strings.
 - [basemodui_vietnamese.txt](resource/basemodui_vietnamese.txt) has 1281 untranslated strings.
 - [closecaption_vietnamese.txt](resource/closecaption_vietnamese.txt) has 2004 untranslated strings.
-- [gameui_vietnamese.txt](resource/gameui_vietnamese.txt) has 634 untranslated strings.
-- [reactivedrop_vietnamese.txt](resource/reactivedrop_vietnamese.txt) has 4232 untranslated strings.
+- [gameui_vietnamese.txt](resource/gameui_vietnamese.txt) has 628 untranslated strings.
+- [reactivedrop_vietnamese.txt](resource/reactivedrop_vietnamese.txt) has 3258 untranslated strings.
 - [valve_vietnamese.txt](resource/valve_vietnamese.txt) has 230 untranslated strings.
 
 ### Steam Store and Community
 
 - [app_items_563560_vietnamese.json](community/points_shop/app_items_563560_english.json) is missing.
-- [content_warning_563560_vietnamese.txt](store_page/content_warning_563560_english.txt) is missing.
+- [workshop_tags_vietnamese.json](community/workshop/workshop_tags_vietnamese.json) has 1 indented lines.
 - [storepage_81731_vietnamese.json](store_page/storepage_81731_vietnamese.json) has 6 indented lines.
 
 ### Upcoming Release Notes
