@@ -152,7 +152,7 @@
 "GameUI_Medium"		"Thường"
 "[english]GameUI_Medium"		"Medium"
 "GameUI_Hard"		"Khó"
-		"[english]GameUI_Hard"		"Hard"
+"[english]GameUI_Hard"		"Hard"
 		"GameUI_SelectSkill"		"SELECT COMBAT DIFFICULTY"
 		"[english]GameUI_SelectSkill"		"SELECT COMBAT DIFFICULTY"
 		"GameUI_StartNewGame"		"Start new game"
