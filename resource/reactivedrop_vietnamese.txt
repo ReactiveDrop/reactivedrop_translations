@@ -3531,7 +3531,7 @@
 "[english]ASW_KILL_GRIND_2_NAME"		"Another Bughunt"
 "ASW_KILL_GRIND_3_NAME"		"Giết tất cả chúng"
 "[english]ASW_KILL_GRIND_3_NAME"		"Kill Them All"
-"ASW_KILL_GRIND_4_NAME"		"Nổ bom hạt nhân tử quỹ đạo"
+"ASW_KILL_GRIND_4_NAME"		"Nổ bom hạt nhân từ quỹ đạo"
 "[english]ASW_KILL_GRIND_4_NAME"		"Nuke From Orbit"
 "ASW_SPEEDRUN_LANDING_BAY_NAME"		"Bến hạ cánh Speedrun"
 "[english]ASW_SPEEDRUN_LANDING_BAY_NAME"		"Landing Bay Speedrun"
