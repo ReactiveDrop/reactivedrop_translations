@@ -25,7 +25,7 @@
 | [Thai](#non-curated-languages) | 966 | 1993 | 50 | 3968 | 200 | 644 | 526 | 146 |
 | [Turkish](#non-curated-languages) | 51 | 137 | 42 | 2721 | 200 | 880 | 447 | 146 |
 | [Ukrainian](#ukrainian-українська) | 27 | 131 | 32 | 2264 | 200 | 833 | 441 | 145 |
-| [Vietnamese](#vietnamese-tiếng-việt) | 1281 | 2004 | 634 | 4232 | 200 | 805 | 529 | 131 |
+| [Vietnamese](#vietnamese-tiếng-việt) | 1281 | 2004 | 628 | 3258 | 200 | 805 | 529 | 130 |
 ### Legend
 - ***Non-capitalized column headers*** are the most important specific files and their number of missing strings. All of these txt-files are located in the resources folder. Except statsweb, which lies in community/stats_website, it's an vdf-file.
 - ***Strings*** is the number of missing strings not included in one of the files which get an individual non-capitalized column.
@@ -3008,14 +3008,13 @@
 - [vgui_vietnamese.txt](platform/vgui_vietnamese.txt) has 184 untranslated strings.
 - [basemodui_vietnamese.txt](resource/basemodui_vietnamese.txt) has 1281 untranslated strings.
 - [closecaption_vietnamese.txt](resource/closecaption_vietnamese.txt) has 2004 untranslated strings.
-- [gameui_vietnamese.txt](resource/gameui_vietnamese.txt) has 634 untranslated strings.
-- [reactivedrop_vietnamese.txt](resource/reactivedrop_vietnamese.txt) has 4232 untranslated strings.
+- [gameui_vietnamese.txt](resource/gameui_vietnamese.txt) has 628 untranslated strings.
+- [reactivedrop_vietnamese.txt](resource/reactivedrop_vietnamese.txt) has 3258 untranslated strings.
 - [valve_vietnamese.txt](resource/valve_vietnamese.txt) has 230 untranslated strings.
 
 ### Steam Store and Community
 
 - [app_items_563560_vietnamese.json](community/points_shop/app_items_563560_english.json) is missing.
-- [content_warning_563560_vietnamese.txt](store_page/content_warning_563560_english.txt) is missing.
 - [storepage_81731_vietnamese.json](store_page/storepage_81731_vietnamese.json) has 6 indented lines.
 
 ### Upcoming Release Notes
