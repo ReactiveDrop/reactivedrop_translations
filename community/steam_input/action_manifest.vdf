@@ -222,6 +222,11 @@
 			{
 				"MenuConfirm"		"#Button_MenuConfirm"
 				"MenuBack"		"#Button_MenuBack"
+
+				"MenuLeftStickLeft"		"#Button_MenuLeftStickLeft"
+				"MenuLeftStickRight"		"#Button_MenuLeftStickRight"
+				"MenuLeftStickUp"		"#Button_MenuLeftStickUp"
+				"MenuLeftStickDown"		"#Button_MenuLeftStickDown"
 			}
 		}
 	}
