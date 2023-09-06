@@ -18,7 +18,7 @@
 | [European Portuguese](#portuguese-português-europeu) | ✔️ | 180 | 32 | 1846 | 21 | 533 | 456 | 140 |
 | [Brazilian Portuguese](#brazilian-português) | 2 | 2004 | 32 | 980 | 9 | 181 | 217 | 7 |
 | [Romanian](#non-curated-languages) | 51 | 1996 | 48 | 3432 | 200 | 880 | 493 | 146 |
-| [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 1 |
+| [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [European Spanish](#spanish-español-de-españa) | 28 | 2004 | 40 | 2136 | 200 | 619 | 443 | 145 |
 | [Latin American Spanish](#latam-español-latinoamericano) | 1281 | 2004 | 634 | 4232 | 204 | 885 | 529 | 146 |
 | [Swedish](#non-curated-languages) | 51 | 2004 | 42 | 2721 | 200 | 615 | 447 | 146 |
@@ -2037,9 +2037,7 @@
 
 </summary>
 
-### Steam Store and Community
-
-- [workshop_tags_russian.json](community/workshop/workshop_tags_russian.json) has 1 indented lines.
+✓ Up to date!
 
 </details>
 
