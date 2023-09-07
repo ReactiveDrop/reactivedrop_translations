@@ -10,7 +10,7 @@
 | [French](#french-français) | 27 | 138 | 42 | 2086 | 200 | 555 | 433 | 124 |
 | [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Hungarian](#non-curated-languages) | 51 | 138 | 42 | 2721 | 200 | 880 | 447 | 146 |
-| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 2 | ✔️ | 1 |
+| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 102 | ✔️ | ✔️ |
 | [Korean](#koreana-한국어) | 7 | 10 | 38 | 1217 | 22 | 346 | 433 | 47 |
 | [Norwegian Bokmål](#non-curated-languages) | 69 | 708 | 47 | 3427 | 200 | 615 | 516 | 146 |
@@ -1004,13 +1004,7 @@
 
 </summary>
 
-### Strings
-
-- [steam_input_italian.vdf](community/steam_input/steam_input_italian.vdf) has 2 untranslated strings.
-
-### Steam Store and Community
-
-- [workshop_tags_italian.json](community/workshop/workshop_tags_italian.json) has 1 indented lines.
+✓ Up to date!
 
 </details>
 
