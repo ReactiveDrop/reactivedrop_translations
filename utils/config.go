@@ -6,7 +6,7 @@ const sourceLanguage = "english"
 const languagePrefix = "[" + sourceLanguage + "]"
 
 // order of this array matches the Steam documentation table order:
-// https://partner.steamgames.com/doc/store/localization
+// https://partner.steamgames.com/doc/store/localization/languages
 var derivedLanguages = [...]string{
 	"arabic",
 	"bulgarian",
@@ -20,6 +20,7 @@ var derivedLanguages = [...]string{
 	"german",
 	"greek",
 	"hungarian",
+	"indonesian",
 	"italian",
 	"japanese",
 	"koreana",
@@ -40,9 +41,10 @@ var derivedLanguages = [...]string{
 
 // languages that have no translated strings and no translators
 var emptyLanguages = map[string]bool{
-	"arabic":    true,
-	"bulgarian": true,
-	"greek":     true,
+	"arabic":     true,
+	"bulgarian":  true,
+	"greek":      true,
+	"indonesian": true,
 }
 
 var reportedLanguages = map[string]bool{
@@ -58,6 +60,7 @@ var reportedLanguages = map[string]bool{
 	"german":     true,
 	"greek":      false,
 	"hungarian":  false,
+	"indonesian": false,
 	"italian":    true,
 	"japanese":   true,
 	"koreana":    true,
