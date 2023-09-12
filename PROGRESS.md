@@ -3316,6 +3316,7 @@ These languages have not been substantially updated since the start of the React
 - finnish (suomi)
 - greek (Ελληνικά)
 - hungarian (magyar)
+- indonesian (Indonesia)
 - norwegian (norsk bokmål)
 - romanian (română)
 - swedish (svenska)
