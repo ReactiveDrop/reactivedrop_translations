@@ -25,7 +25,7 @@
 | [Thai](#non-curated-languages) | 966 | 1993 | 50 | 3968 | 200 | 644 | 526 | 146 |
 | [Turkish](#non-curated-languages) | 51 | 137 | 42 | 2721 | 200 | 880 | 447 | 146 |
 | [Ukrainian](#ukrainian-українська) | 27 | 131 | 32 | 2264 | 200 | 833 | 441 | 145 |
-| [Vietnamese](#vietnamese-tiếng-việt) | 1281 | 2004 | 628 | 3258 | 200 | 805 | 529 | 131 |
+| [Vietnamese](#vietnamese-tiếng-việt) | 1281 | 2004 | 628 | 3258 | 200 | 805 | 529 | 129 |
 ### Legend
 - ***Non-capitalized column headers*** are the most important specific files and their number of missing strings. All of these txt-files are located in the resources folder. Except statsweb, which lies in community/stats_website, it's an vdf-file.
 - ***Strings*** is the number of missing strings not included in one of the files which get an individual non-capitalized column.
@@ -3022,8 +3022,6 @@
 ### Steam Store and Community
 
 - [app_items_563560_vietnamese.json](community/points_shop/app_items_563560_english.json) is missing.
-- [workshop_tags_vietnamese.json](community/workshop/workshop_tags_vietnamese.json) has 1 indented lines.
-- [storepage_81731_vietnamese.json](store_page/storepage_81731_vietnamese.json) has 6 indented lines.
 
 ### Upcoming Release Notes
 
