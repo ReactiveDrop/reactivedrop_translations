@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<content><string id="body">Here are some fixes for recently-reported bugs and a few map and workshop improvements.
+
+[list]
+[*][b]IAF HAS42 Devastator:[/b] Increased firing sound volume for the player firing the weapon.
+[*]Fixed end-of-mission stat graph lines being unexpectedly far apart in some cases. (Thanks SJAS)
+[*]Updated how the Mission Complete screen is rendered to allow supporting more languages.
+[*]Addons with an autoexec file are now listed on the workshop under the "Config" tag.
+[*]Going forward, uploading addons with config files in them to the workshop will be limited to autoexec_[addon ID].cfg to avoid collisions between different addons and between addons and user files.
+[*]Fixed an issue that caused the "help" command to limit descriptions to 80 characters. (Thanks ustcywg and Zero)
+[*]Fixed Bastille only playing one of his two death sounds. (Thanks Beka and krtek2k)
+[*]Fixed a bug where sv_memlimit would sometimes fail to exit. (Thanks Mithrand)
+[*]Fixed the asw_jeep entity being unintentionally disabled. (Thanks jhheight)
+[/list]
+
+[h2]Tears for Tarnor: Insertion Point[/h2]
+[list]
+[*]Changed how some invisible walls are defined to allow drones to jump over certain rocks but not through cave walls.
+[*]Increased the height of some invisible walls intended to keep players from being thrown out of the playable space by shieldbugs. (Thanks kubaaa015)
+[*]Reduced lighting complexity for areas far from the playable space.
+[/list]
+
+[h2]Accident 32: Lab Ruins[/h2]
+[list]
+[*]Changed some materials in the starting area.
+[*]Fixed being able to hear the boss doors closing when the mission starts.
+[*]The sewer now deals damage over time instead of killing instantly.
+[*]Added ladders to allow climbing out of the sewer.
+[*]Added stairs to the area where the harvester spawns in the beginning.
+[*]Added an area to the west of the big bridge with additional supplies.
+[*]An ammo stash on the main path has been reduced from 100% full to 60% full to encourage seeking optional supply areas.
+[/list]</string><string id="subtitle"></string><string id="summary"></string><string id="title">Alien Swarm: Reactive Drop Update - September 18, 2023</string></content>
