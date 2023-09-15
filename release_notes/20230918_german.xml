@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<content><string id="body">Hier kommen einige Korrekturen für kürzlich gemeldete Bugs und einige Verbesserungen an Karten und Werkstätten.
+
+[list]
+[*][b]IAF HAS42 Devastator:[/b] Die Lautstärke des Schussgeräuschs für den Spieler, der die Waffe abfeuert, wurde erhöht.
+[*]Die Linien in der Statistik am Ende des E lagen in manchen Fällen unerwartet weit auseinander. (Danke SJAS)
+[*]Die Darstellung des Bildschirms "Einsatz abgeschlossen" wurde aktualisiert, um mehr Sprachen zu unterstützen.
+[*]Addons mit einer Autoexec-Datei werden jetzt im Workshop unter dem Tag "Config" aufgelistet.
+[*]In Zukunft wird das Hochladen von Addons mit Konfigurationsdateien in den Workshop auf autoexec_[Addon-ID].cfg beschränkt, um Kollisionen zwischen verschiedenen Addons und zwischen Addons und Benutzerdateien zu vermeiden.
+[*]Ein Problem wurde behoben, das dazu führte, dass der "help"-Konsolenbefehl Beschreibungen auf 80 Zeichen beschränkte. (Danke an ustcywg und Zero)
+[*]Bastille spielt nicht nur mehr einen seiner beiden Todessounds. (Danke Beka und krtek2k)
+[*]Ein Fehler wurde behoben, bei dem sv_memlimit manchmal nicht beendet wurde. (Danke Mithrand)
+[*]Es wurde behoben, dass die Entität asw_jeep versehentlich deaktiviert wurde. (Danke jhheight)
+[/list]
+
+[h2]Tränen für Tarnor: Eintrittsstelle[/h2]
+[list]
+[*]Die Definition einiger unsichtbarer Wände wurde geändert, damit Drohnen über bestimmte Felsen springen können, aber nicht durch Höhlenwände.
+[*]Die Höhe einiger unsichtbarer Wände wurde erhöht, um zu verhindern, dass Spieler von Schildkäfern aus dem spielbaren Bereich geschleudert werden. (Danke kubaaa015)
+[*]Geringere Komplexität der Beleuchtung für Bereiche, die weit vom spielbaren Bereich entfernt sind.
+[/list]
+
+[h2]Unfall 32: Labor-Ruinen[/h2]
+[list]
+[*]Einige Materialien im Startbereich wurden geändert.
+[*]Es wurde behoben, dass du hörst, wie sich die Türen des Bosses schließen, wenn der Einsatz beginnt.
+[*]Die Kanalisation verursacht nun Schaden über Zeit, anstatt sofort zu töten.
+[*]Leitern wurden hinzufügt, um aus der Kanalisation zu klettern.
+[*]In dem Bereich, in dem der Raffer am Anfang spawnen wird, wurde eine Treppe hinzugefügt.
+[*]Westlich der großen Brücke wurde ein Gebiet mit zusätzlichen Vorräten eingerichtet.
+[*]Ein Munitionslager auf dem Hauptweg wurde von 100 % auf 60 % reduziert, um das Aufsuchen optionaler Vorratslager zu fördern.
+[/list]</string><string id="subtitle"></string><string id="summary"></string><string id="title">Alien Swarm: Reactive Drop Update - 18. September 2023</string></content>
