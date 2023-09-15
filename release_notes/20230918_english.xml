@@ -7,7 +7,7 @@
 [*]Updated how the Mission Complete screen is rendered to allow supporting more languages.
 [*]Addons with an autoexec file are now listed on the workshop under the "Config" tag.
 [*]Going forward, uploading addons with config files in them to the workshop will be limited to autoexec_[addon ID].cfg to avoid collisions between different addons and between addons and user files.
-[*]Fixed an issue that caused the "help" command to limit descriptions to 80 characters. (Thanks ustcywg and Zero)
+[*]Fixed an issue that caused the "help" command to limit descriptions to 80 characters. (Thanks 法克*尤尔*马泽尔 and Zero)
 [*]Fixed Bastille only playing one of his two death sounds. (Thanks Beka and krtek2k)
 [*]Fixed a bug where sv_memlimit would sometimes fail to exit. (Thanks Mithrand)
 [*]Fixed the asw_jeep entity being unintentionally disabled. (Thanks jhheight)

@@ -7,7 +7,7 @@
 [*]Die Darstellung des Bildschirms "Einsatz abgeschlossen" wurde aktualisiert, um mehr Sprachen zu unterstützen.
 [*]Addons mit einer Autoexec-Datei werden jetzt im Workshop unter dem Tag "Config" aufgelistet.
 [*]In Zukunft wird das Hochladen von Addons mit Konfigurationsdateien in den Workshop auf autoexec_[Addon-ID].cfg beschränkt, um Kollisionen zwischen verschiedenen Addons und zwischen Addons und Benutzerdateien zu vermeiden.
-[*]Ein Problem wurde behoben, das dazu führte, dass der "help"-Konsolenbefehl Beschreibungen auf 80 Zeichen beschränkte. (Danke an ustcywg und Zero)
+[*]Ein Problem wurde behoben, das dazu führte, dass der "help"-Konsolenbefehl Beschreibungen auf 80 Zeichen beschränkte. (Danke an 法克*尤尔*马泽尔 und Zero)
 [*]Bastille spielt nicht nur mehr einen seiner beiden Todessounds. (Danke Beka und krtek2k)
 [*]Ein Fehler wurde behoben, bei dem sv_memlimit manchmal nicht beendet wurde. (Danke Mithrand)
 [*]Es wurde behoben, dass die Entität asw_jeep versehentlich deaktiviert wurde. (Danke jhheight)
