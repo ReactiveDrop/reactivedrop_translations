@@ -3,7 +3,7 @@
 
 [list]
 [*][b]IAF HAS42 Devastator:[/b] Die Lautstärke des Schussgeräuschs für den Spieler, der die Waffe abfeuert, wurde erhöht.
-[*]Die Linien in der Statistik am Ende des E lagen in manchen Fällen unerwartet weit auseinander. (Danke SJAS)
+[*]Die Linien in der Statistik am Ende des Einsatzes lagen in manchen Fällen unerwartet weit auseinander. (Danke SJAS)
 [*]Die Darstellung des Bildschirms "Einsatz abgeschlossen" wurde aktualisiert, um mehr Sprachen zu unterstützen.
 [*]Addons mit einer Autoexec-Datei werden jetzt im Workshop unter dem Tag "Config" aufgelistet.
 [*]In Zukunft wird das Hochladen von Addons mit Konfigurationsdateien in den Workshop auf autoexec_[Addon-ID].cfg beschränkt, um Kollisionen zwischen verschiedenen Addons und zwischen Addons und Benutzerdateien zu vermeiden.
