@@ -10,7 +10,7 @@
 [*]Ein Problem wurde behoben, das dazu führte, dass der "help"-Konsolenbefehl Beschreibungen auf 80 Zeichen beschränkte. (Danke an 法克*尤尔*马泽尔 und Zero)
 [*]Bastille spielt nicht nur mehr einen seiner beiden Todessounds. (Danke Beka und krtek2k)
 [*]Ein Fehler wurde behoben, bei dem sv_memlimit manchmal nicht beendet wurde. (Danke Mithrand)
-[*]Es wurde behoben, dass die Entität asw_jeep versehentlich deaktiviert wurde. (Danke jhheight)
+[*]Es wurde behoben, dass die Entität asw_vehicle_jeep versehentlich deaktiviert wurde. (Danke jhheight)
 [/list]
 
 [h2]Tränen für Tarnor: Eintrittsstelle[/h2]
