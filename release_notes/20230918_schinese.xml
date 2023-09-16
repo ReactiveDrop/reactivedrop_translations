@@ -10,7 +10,7 @@
 [*]修复 "help"命令的描述文本只能显示80个字符 的错误。(感谢法克*尤尔*马泽尔和Zero)
 [*]修复 巴斯迪只播放两个死亡音效中的一个的问题。(感谢Beka和krtek2k)
 [*]修复 sv_memlimit有时无法正常退出的问题。 (感谢Mithrand)
-[*]修复 asw_jeep实体被意外禁用的问题。(感谢jhheight)
+[*]修复 asw_vehicle_jeep实体被意外禁用的问题。(感谢jhheight)
 [/list]
 
 [h2]塔诺尔之泪：介入点[/h2]

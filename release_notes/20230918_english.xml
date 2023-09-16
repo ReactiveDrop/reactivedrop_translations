@@ -10,7 +10,7 @@
 [*]Fixed an issue that caused the "help" command to limit descriptions to 80 characters. (Thanks 法克*尤尔*马泽尔 and Zero)
 [*]Fixed Bastille only playing one of his two death sounds. (Thanks Beka and krtek2k)
 [*]Fixed a bug where sv_memlimit would sometimes fail to exit. (Thanks Mithrand)
-[*]Fixed the asw_jeep entity being unintentionally disabled. (Thanks jhheight)
+[*]Fixed the asw_vehicle_jeep entity being unintentionally disabled. (Thanks jhheight)
 [/list]
 
 [h2]Tears for Tarnor: Insertion Point[/h2]

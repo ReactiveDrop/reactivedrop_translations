@@ -10,7 +10,7 @@
 [*]"help"コマンドが説明を80文字までしか表示できなかった問題を修正。(法克*尤尔*马泽尔さんとZeroさんの情報提供に感謝)
 [*]Bastilleの死亡時の悲鳴が2種類あったのに1種類しか使われていなかったのを修正。(Bekaさんとkrtek2kさんの情報提供に感謝)
 [*]sv_memlimitがexitできないことがあるバグを修正。(Mithrandさんの情報提供に感謝)
-[*]asw_jeepのエンティティが意図せず無効になっていたのを修正。(jhheightさんの情報提供に感謝)
+[*]asw_vehicle_jeepのエンティティが意図せず無効になっていたのを修正。(jhheightさんの情報提供に感謝)
 [/list]
 
 [h2]Tears for Tarnor: Insertion Point[/h2]
