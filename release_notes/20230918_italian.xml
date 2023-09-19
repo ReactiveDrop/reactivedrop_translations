@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<content><string id="body">Ecco alcune correzioni di bug segnalati di recente e alcuni miglioramenti per le mappe e il Workshop.
+
+[list]
+[*][b]IAF HAS42 Devastator:[/b] Aumentato il volume del suono del fuoco per il giocatore che spara.
+[*]Corrette le linee del grafico delle statistiche di fine missione che in alcuni casi erano inaspettatamente distanti. (Grazie SJAS)
+[*]Aggiornato il rendering della schermata di completamento della missione per consentire il supporto di più lingue.
+[*]Gli addon con un file autoexec sono ora elencati nel Workshop sotto il tag "Configurazioni".
+[*]In futuro, il caricamento di addon con file di configurazione nel Workshop sarà limitato a autoexec_[ID addon].cfg per evitare conflitti tra addon diversi e tra addon e file utente.
+[*]È stato risolto un problema per cui il comando "help" limitava le descrizioni a 80 caratteri. (Grazie 法克*尤尔*马泽尔 e Zero).
+[*]Corretto Bastille che utilizzava solo uno dei suoi due suoni di morte. (Grazie Beka e krtek2k)
+[*]Corretto un bug per cui sv_memlimit a volte non usciva. (Grazie Mithrand)
+[*]Corretta l'entità asw_vehicle_jeep che veniva involontariamente disabilitata. (Grazie jhheight)
+[/list]
+
+[h2]Lacrime per Tarnor: Punto d'Inserimento[/h2]
+[list]
+[*]Modificato il modo in cui sono definiti alcuni muri invisibili per consentire ai droni di saltare su alcune rocce ma non attraverso le pareti delle caverne.
+[*]Aumentata l'altezza di alcuni muri invisibili per evitare che i giocatori vengano scaraventati fuori dallo spazio giocabile dagli shieldbug. (Grazie a kubaaa015)
+[*]Ridotta la complessità dell'illuminazione per le aree lontane dallo spazio giocabile.
+[/list]
+
+[h2]Accident 32: Rovine del Laboratorio[/h2]
+[list]
+[*]Cambiati alcuni materiali nell'area di partenza.
+[*]Risolto il problema di poter sentire le porte del boss chiudersi quando inizia la missione.
+[*]Ora, il sistema fognario infligge danni nel tempo anziché uccidere istantaneamente.
+[*]Aggiunte scale per consentire di uscire dalla fognatura.
+[*]Aggiunte scale nell'area in cui l'harvester appare all'inizio.
+[*]Aggiunta un'area a ovest del grande ponte con forniture aggiuntive.
+[*]Una riserva di munizioni sul percorso principale è stata ridotta dal 100% al 60% per incentivare la ricerca di aree di rifornimento opzionali.
+[/list]</string><string id="subtitle"></string><string id="summary"></string><string id="title">Aggiornamento di Alien Swarm: Reactive Drop - 18 Settembre 2023</string></content>
