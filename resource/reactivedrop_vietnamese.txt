@@ -4268,7 +4268,7 @@
 "[english]asw_weaponl_combat_rifle"		"22A4-2 Combat Rifle"
 		"asw_wdesc_combat_rifle"		"The 22A4-2 Combat Rifle is similar to the 22A3-1 Assault Rifle but instead of the underslung grenade launcher it is equipped by an underslung shotgun attachment for situations when enemy is way too close to you to use the grenade launcher. When multiple foes are close to you use the high powered shotgun blast to take them down. High damage and wide spread does the trick."
 		"[english]asw_wdesc_combat_rifle"		"The 22A4-2 Combat Rifle is similar to the 22A3-1 Assault Rifle but instead of the underslung grenade launcher it is equipped by an underslung shotgun attachment for situations when enemy is way too close to you to use the grenade launcher. When multiple foes are close to you use the high powered shotgun blast to take them down. High damage and wide spread does the trick."
-"asw_weapon_combat_rifle_altfire"		"Súng Shotgun"
+"asw_weapon_combat_rifle_altfire"		"Đạn Shotgun"
 "[english]asw_weapon_combat_rifle_altfire"		"Shotshells"
 "asw_weapon_combat_rifle_attributes"		"Shotgun đính kèm dưới đáy"
 "[english]asw_weapon_combat_rifle_attributes"		"Underslung Shotgun Attachment"
