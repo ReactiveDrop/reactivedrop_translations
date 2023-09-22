@@ -9058,10 +9058,10 @@
 "rd_option_accessibility_reduce_motion_hint"		"Entfernt die meisten Animationen aus den Menüs."
 // RD_AdvancedSettings_VisualEffects_ReduceMotion
 "[english]rd_option_accessibility_reduce_motion_hint"		"Removes most animations from menus."
-"rd_option_accessibility_camera_shake_disabled_hint"		"Removes screen shake effects."
+"rd_option_accessibility_camera_shake_disabled_hint"		"Entfernt Bildschirmwackeln."
 // RD_AdvancedSettings_VisualEffects_ScreenShake
 // rd_video_effect_disabled
-"[english]rd_option_accessibility_camera_shake_disabled_hint"		"Entfernt Bildschirmwackeln."
+"[english]rd_option_accessibility_camera_shake_disabled_hint"		"Removes screen shake effects."
 "rd_option_accessibility_camera_shake_reduced_hint"		"Entfernt nicht storyrelevante Verwackelungseffekte."
 // RD_AdvancedSettings_VisualEffects_ScreenShake_Reduced
 "[english]rd_option_accessibility_camera_shake_reduced_hint"		"Removes most screen shake effects, but leaves certain story-relevant screen shakes alone."
