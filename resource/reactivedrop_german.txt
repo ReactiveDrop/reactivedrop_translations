@@ -8882,7 +8882,7 @@
 "[english]rd_option_player_deathmatch_draw_top_scoreboard_hint"		"Shows player avatars and current scores at the top of the screen in Deathmatch mode."
 "rd_option_hints_fail_advice"		"Einsatz gescheitert Ratschläge"
 "[english]rd_option_hints_fail_advice"		"Mission Fail Advice"
-"rd_option_hints_fail_advice_hint"		"Zeige Tipps auf dem Bildschirm "Einsatz gescheitert" an."
+"rd_option_hints_fail_advice_hint"		"Zeige Tipps auf dem Bildschirm \"Einsatz gescheitert\" an."
 "[english]rd_option_hints_fail_advice_hint"		"Show tips on the mission failed screen."
 "rd_option_hints_game_instructor"		"Spielanleitung"
 "[english]rd_option_hints_game_instructor"		"Game Instructor"
