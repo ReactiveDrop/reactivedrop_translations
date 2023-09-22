@@ -9065,7 +9065,7 @@
 "rd_option_accessibility_camera_shake_reduced_hint"		"Rimuove la maggior parte degli effetti di tremolio dello schermo, ma lascia inalterati alcuni tremolii rilevanti per la storia."
 // RD_AdvancedSettings_VisualEffects_ScreenShake_Reduced
 "[english]rd_option_accessibility_camera_shake_reduced_hint"		"Removes most screen shake effects, but leaves certain story-relevant screen shakes alone."
-"rd_option_accessibility_camera_shake_enabled_hint"		"Lascia tutti i tremolii come sono state progettati."
+"rd_option_accessibility_camera_shake_enabled_hint"		"Lascia tutti i tremolii come sono stati progettati."
 // rd_video_effect_enabled
 "[english]rd_option_accessibility_camera_shake_enabled_hint"		"Leaves all screen shakes as they were designed."
 "rd_option_accessibility_camera_shift"		"Shift Telecamera"
