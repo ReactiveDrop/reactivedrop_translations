@@ -663,7 +663,7 @@
 "[english]GameUI_GroundGrenadesCheck"		"Aim grenades at ground"
 "GameUI_AutoReloadCheck"		"Automatisch nachladen wenn leer"
 "[english]GameUI_AutoReloadCheck"		"Auto reload when empty"
-"GameUI_MinimapClicksCheck"		"Minimap-Zeichnung erlauben"
+"GameUI_MinimapClicksCheck"		"Minikarte-Zeichnung erlauben"
 "[english]GameUI_MinimapClicksCheck"		"Allow minimap drawing"
 "GameUI_FullSquadCheck"		"Auf volles Team überprüfen"
 "[english]GameUI_FullSquadCheck"		"Check for full squad"
