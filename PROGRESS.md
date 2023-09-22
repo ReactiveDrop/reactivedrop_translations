@@ -1,7 +1,7 @@
 # Overview
 | Language | basemodui | closecaption | gameui | reactivedrop | statsweb | Strings | Inventory | Files |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | ✔️ | 124 | ✔️ | ✔️ | ✔️ | ✔️ |
+| [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Traditional Chinese](#tchinese-繁體中文) | 9 | 140 | 33 | 2730 | 200 | 236 | 445 | 145 |
 | [Czech](#czech-čeština) | 71 | 1810 | 42 | 3847 | 200 | 885 | 515 | 145 |
 | [Danish](#non-curated-languages) | 52 | 231 | 42 | 3375 | 200 | 615 | 510 | 146 |
@@ -11,21 +11,21 @@
 | [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | 124 | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Hungarian](#non-curated-languages) | 51 | 138 | 42 | 2843 | 200 | 880 | 447 | 146 |
 | [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | 124 | ✔️ | ✔️ | ✔️ | ✔️ |
-| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | 124 | ✔️ | 102 | ✔️ | ✔️ |
+| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 102 | ✔️ | ✔️ |
 | [Korean](#koreana-한국어) | 7 | 10 | 38 | 1339 | 22 | 346 | 433 | 47 |
 | [Norwegian Bokmål](#non-curated-languages) | 69 | 708 | 47 | 3549 | 200 | 615 | 516 | 146 |
 | [Polish](#polish-polski) | 28 | 2004 | 42 | 2843 | 200 | 611 | 447 | 142 |
 | [European Portuguese](#portuguese-português-europeu) | ✔️ | 180 | 32 | 1968 | 21 | 533 | 456 | 140 |
 | [Brazilian Portuguese](#brazilian-português) | 2 | 2004 | 32 | 1102 | 9 | 181 | 217 | 7 |
 | [Romanian](#non-curated-languages) | 51 | 1996 | 48 | 3554 | 200 | 880 | 493 | 146 |
-| [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | 124 | ✔️ | ✔️ | ✔️ | ✔️ |
+| [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [European Spanish](#spanish-español-de-españa) | 28 | 2004 | 40 | 2258 | 200 | 619 | 443 | 145 |
 | [Latin American Spanish](#latam-español-latinoamericano) | 1281 | 2004 | 634 | 4354 | 204 | 885 | 529 | 146 |
 | [Swedish](#non-curated-languages) | 51 | 2004 | 42 | 2843 | 200 | 615 | 447 | 146 |
 | [Thai](#non-curated-languages) | 966 | 1993 | 50 | 4090 | 200 | 644 | 526 | 146 |
 | [Turkish](#non-curated-languages) | 51 | 137 | 42 | 2843 | 200 | 880 | 447 | 146 |
 | [Ukrainian](#ukrainian-українська) | 27 | 131 | 32 | 2386 | 200 | 833 | 441 | 145 |
-| [Vietnamese](#vietnamese-tiếng-việt) | 1281 | 2004 | 628 | 3380 | 200 | 805 | 529 | 129 |
+| [Vietnamese](#vietnamese-tiếng-việt) | 1281 | 2004 | 628 | 3332 | 200 | 805 | 529 | 129 |
 ### Legend
 - ***Non-capitalized column headers*** are the most important specific files and their number of missing strings. All of these txt-files are located in the resources folder. Except statsweb, which lies in community/stats_website, it's an vdf-file.
 - ***Strings*** is the number of missing strings not included in one of the files which get an individual non-capitalized column.
@@ -40,9 +40,7 @@
 
 </summary>
 
-### Strings
-
-- [reactivedrop_schinese.txt](resource/reactivedrop_schinese.txt) has 124 untranslated strings.
+✓ Up to date!
 
 </details>
 
@@ -1024,7 +1022,6 @@
 
 - [signage_japanese.vdf](misc/signage/signage_japanese.vdf) has 67 untranslated strings.
 - [vgui_japanese.txt](platform/vgui_japanese.txt) has 35 untranslated strings.
-- [reactivedrop_japanese.txt](resource/reactivedrop_japanese.txt) has 124 untranslated strings.
 
 </details>
 
@@ -2036,9 +2033,7 @@
 
 </summary>
 
-### Strings
-
-- [reactivedrop_russian.txt](resource/reactivedrop_russian.txt) has 124 untranslated strings.
+✓ Up to date!
 
 </details>
 
@@ -3025,7 +3020,7 @@
 - [basemodui_vietnamese.txt](resource/basemodui_vietnamese.txt) has 1281 untranslated strings.
 - [closecaption_vietnamese.txt](resource/closecaption_vietnamese.txt) has 2004 untranslated strings.
 - [gameui_vietnamese.txt](resource/gameui_vietnamese.txt) has 628 untranslated strings.
-- [reactivedrop_vietnamese.txt](resource/reactivedrop_vietnamese.txt) has 3380 untranslated strings.
+- [reactivedrop_vietnamese.txt](resource/reactivedrop_vietnamese.txt) has 3332 untranslated strings.
 - [valve_vietnamese.txt](resource/valve_vietnamese.txt) has 230 untranslated strings.
 
 ### Steam Store and Community
