@@ -1,31 +1,31 @@
 # Overview
 | Language | basemodui | closecaption | gameui | reactivedrop | statsweb | Strings | Inventory | Files |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | ✔️ | 2 | ✔️ | ✔️ | ✔️ | ✔️ |
-| [Traditional Chinese](#tchinese-繁體中文) | 9 | 140 | 33 | 2732 | 200 | 236 | 445 | 145 |
-| [Czech](#czech-čeština) | 71 | 1810 | 42 | 3849 | 200 | 885 | 515 | 145 |
-| [Danish](#non-curated-languages) | 52 | 231 | 42 | 3377 | 200 | 615 | 510 | 146 |
-| [Dutch](#non-curated-languages) | 51 | 2004 | 42 | 2845 | 200 | 615 | 447 | 145 |
-| [Finnish](#non-curated-languages) | 51 | 2004 | 42 | 2845 | 200 | 615 | 447 | 145 |
-| [French](#french-français) | 27 | 138 | 42 | 2210 | 200 | 555 | 433 | 124 |
-| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | 2 | ✔️ | ✔️ | ✔️ | ✔️ |
-| [Hungarian](#non-curated-languages) | 51 | 138 | 42 | 2845 | 200 | 880 | 447 | 146 |
-| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | 2 | ✔️ | ✔️ | ✔️ | ✔️ |
-| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | 2 | ✔️ | 102 | ✔️ | ✔️ |
-| [Korean](#koreana-한국어) | 7 | 10 | 38 | 1341 | 22 | 346 | 433 | 47 |
-| [Norwegian Bokmål](#non-curated-languages) | 69 | 708 | 47 | 3551 | 200 | 615 | 516 | 146 |
-| [Polish](#polish-polski) | 28 | 2004 | 42 | 2845 | 200 | 611 | 447 | 142 |
-| [European Portuguese](#portuguese-português-europeu) | ✔️ | 180 | 32 | 1970 | 21 | 533 | 456 | 140 |
-| [Brazilian Portuguese](#brazilian-português) | 2 | 2004 | 32 | 1104 | 9 | 181 | 217 | 7 |
-| [Romanian](#non-curated-languages) | 51 | 1996 | 48 | 3556 | 200 | 880 | 493 | 146 |
-| [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | 2 | ✔️ | ✔️ | ✔️ | ✔️ |
-| [European Spanish](#spanish-español-de-españa) | 28 | 2004 | 40 | 2260 | 200 | 619 | 443 | 145 |
-| [Latin American Spanish](#latam-español-latinoamericano) | 1281 | 2004 | 634 | 4356 | 204 | 885 | 529 | 146 |
-| [Swedish](#non-curated-languages) | 51 | 2004 | 42 | 2845 | 200 | 615 | 447 | 146 |
-| [Thai](#non-curated-languages) | 966 | 1993 | 50 | 4092 | 200 | 644 | 526 | 146 |
-| [Turkish](#non-curated-languages) | 51 | 137 | 42 | 2845 | 200 | 880 | 447 | 146 |
-| [Ukrainian](#ukrainian-українська) | 27 | 131 | 32 | 2388 | 200 | 833 | 441 | 145 |
-| [Vietnamese](#vietnamese-tiếng-việt) | 1281 | 2004 | 628 | 3334 | 200 | 805 | 529 | 129 |
+| [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | ✔️ | 2 | ✔️ | ✔️ | 2 | ✔️ |
+| [Traditional Chinese](#tchinese-繁體中文) | 9 | 140 | 33 | 2732 | 200 | 236 | 448 | 145 |
+| [Czech](#czech-čeština) | 71 | 1810 | 42 | 3849 | 200 | 885 | 518 | 145 |
+| [Danish](#non-curated-languages) | 52 | 231 | 42 | 3377 | 200 | 615 | 513 | 146 |
+| [Dutch](#non-curated-languages) | 51 | 2004 | 42 | 2845 | 200 | 615 | 450 | 145 |
+| [Finnish](#non-curated-languages) | 51 | 2004 | 42 | 2845 | 200 | 615 | 450 | 145 |
+| [French](#french-français) | 27 | 138 | 42 | 2210 | 200 | 555 | 436 | 124 |
+| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | 2 | ✔️ | ✔️ | 2 | ✔️ |
+| [Hungarian](#non-curated-languages) | 51 | 138 | 42 | 2845 | 200 | 880 | 450 | 146 |
+| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | 2 | ✔️ | ✔️ | 2 | ✔️ |
+| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | 2 | ✔️ | 102 | 2 | ✔️ |
+| [Korean](#koreana-한국어) | 7 | 10 | 38 | 1341 | 22 | 346 | 436 | 47 |
+| [Norwegian Bokmål](#non-curated-languages) | 69 | 708 | 47 | 3551 | 200 | 615 | 519 | 146 |
+| [Polish](#polish-polski) | 28 | 2004 | 42 | 2845 | 200 | 611 | 450 | 142 |
+| [European Portuguese](#portuguese-português-europeu) | ✔️ | 180 | 32 | 1970 | 21 | 533 | 459 | 140 |
+| [Brazilian Portuguese](#brazilian-português) | 2 | 2004 | 32 | 1104 | 9 | 181 | 219 | 7 |
+| [Romanian](#non-curated-languages) | 51 | 1996 | 48 | 3556 | 200 | 880 | 496 | 146 |
+| [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | 2 | ✔️ | ✔️ | 2 | ✔️ |
+| [European Spanish](#spanish-español-de-españa) | 28 | 2004 | 40 | 2260 | 200 | 619 | 446 | 145 |
+| [Latin American Spanish](#latam-español-latinoamericano) | 1281 | 2004 | 634 | 4356 | 204 | 885 | 532 | 146 |
+| [Swedish](#non-curated-languages) | 51 | 2004 | 42 | 2845 | 200 | 615 | 450 | 146 |
+| [Thai](#non-curated-languages) | 966 | 1993 | 50 | 4092 | 200 | 644 | 529 | 146 |
+| [Turkish](#non-curated-languages) | 51 | 137 | 42 | 2845 | 200 | 880 | 450 | 146 |
+| [Ukrainian](#ukrainian-українська) | 27 | 131 | 32 | 2388 | 200 | 833 | 444 | 145 |
+| [Vietnamese](#vietnamese-tiếng-việt) | 1281 | 2004 | 628 | 3334 | 200 | 805 | 532 | 129 |
 ### Legend
 - ***Non-capitalized column headers*** are the most important specific files and their number of missing strings. All of these txt-files are located in the resources folder. Except statsweb, which lies in community/stats_website, it's an vdf-file.
 - ***Strings*** is the number of missing strings not included in one of the files which get an individual non-capitalized column.
@@ -43,6 +43,10 @@
 ### Strings
 
 - [reactivedrop_schinese.txt](resource/reactivedrop_schinese.txt) has 2 untranslated strings.
+
+### Inventory Schema</summary>
+
+- Item 40 "Steam SHMUP Fest 2023" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_schinese`, `description_schinese`
 
 </details>
 
@@ -255,6 +259,7 @@
 - Item 36 "Top 20 - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_tchinese`, `briefing_name_tchinese`, `description_tchinese`, `before_description_tchinese`, `display_type_tchinese`, `style_0_name_tchinese`, `style_1_name_tchinese`, `style_2_name_tchinese`
 - Item 37 "Top 20 - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_tchinese`, `briefing_name_tchinese`, `description_tchinese`, `before_description_tchinese`, `display_type_tchinese`, `style_0_name_tchinese`, `style_1_name_tchinese`, `style_2_name_tchinese`
 - Item 38 "Top 20 - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_tchinese`, `briefing_name_tchinese`, `description_tchinese`, `before_description_tchinese`, `display_type_tchinese`, `style_0_name_tchinese`, `style_1_name_tchinese`, `style_2_name_tchinese`
+- Item 40 "Steam SHMUP Fest 2023" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_tchinese`, `description_tchinese`, `display_type_tchinese`
 - Item 7 "Translator" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_tchinese`, `description_tchinese`, `display_type_tchinese`
 - Item 8 "Programmer" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_tchinese`, `description_tchinese`, `display_type_tchinese`
 - Item 9 "Mapper" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_tchinese`, `description_tchinese`, `display_type_tchinese`
@@ -578,6 +583,7 @@
 - Item 36 "Top 20 - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_czech`, `briefing_name_czech`, `description_czech`, `before_description_czech`, `display_type_czech`, `style_0_name_czech`, `style_1_name_czech`, `style_2_name_czech`
 - Item 37 "Top 20 - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_czech`, `briefing_name_czech`, `description_czech`, `before_description_czech`, `display_type_czech`, `style_0_name_czech`, `style_1_name_czech`, `style_2_name_czech`
 - Item 38 "Top 20 - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_czech`, `briefing_name_czech`, `description_czech`, `before_description_czech`, `display_type_czech`, `style_0_name_czech`, `style_1_name_czech`, `style_2_name_czech`
+- Item 40 "Steam SHMUP Fest 2023" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_czech`, `description_czech`, `display_type_czech`
 - Item 7 "Translator" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_czech`, `description_czech`, `display_type_czech`
 - Item 8 "Programmer" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_czech`, `description_czech`, `display_type_czech`
 - Item 9 "Mapper" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_czech`, `description_czech`, `display_type_czech`
@@ -879,6 +885,7 @@
 - Item 36 "Top 20 - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_french`, `briefing_name_french`, `description_french`, `before_description_french`, `display_type_french`, `style_0_name_french`, `style_1_name_french`, `style_2_name_french`
 - Item 37 "Top 20 - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_french`, `briefing_name_french`, `description_french`, `before_description_french`, `display_type_french`, `style_0_name_french`, `style_1_name_french`, `style_2_name_french`
 - Item 38 "Top 20 - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_french`, `briefing_name_french`, `description_french`, `before_description_french`, `display_type_french`, `style_0_name_french`, `style_1_name_french`, `style_2_name_french`
+- Item 40 "Steam SHMUP Fest 2023" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_french`, `description_french`, `display_type_french`
 - Item 7 "Translator" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_french`, `description_french`, `display_type_french`
 - Item 8 "Programmer" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_french`, `description_french`, `display_type_french`
 - Item 9 "Mapper" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_french`, `description_french`, `display_type_french`
@@ -1000,6 +1007,10 @@
 
 - [reactivedrop_german.txt](resource/reactivedrop_german.txt) has 2 untranslated strings.
 
+### Inventory Schema</summary>
+
+- Item 40 "Steam SHMUP Fest 2023" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_german`, `description_german`
+
 </details>
 
 <details><summary>
@@ -1011,6 +1022,10 @@
 ### Strings
 
 - [reactivedrop_italian.txt](resource/reactivedrop_italian.txt) has 2 untranslated strings.
+
+### Inventory Schema</summary>
+
+- Item 40 "Steam SHMUP Fest 2023" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_italian`, `description_italian`
 
 </details>
 
@@ -1025,6 +1040,10 @@
 - [signage_japanese.vdf](misc/signage/signage_japanese.vdf) has 67 untranslated strings.
 - [vgui_japanese.txt](platform/vgui_japanese.txt) has 35 untranslated strings.
 - [reactivedrop_japanese.txt](resource/reactivedrop_japanese.txt) has 2 untranslated strings.
+
+### Inventory Schema</summary>
+
+- Item 40 "Steam SHMUP Fest 2023" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_japanese`, `description_japanese`
 
 </details>
 
@@ -1139,6 +1158,7 @@
 - Item 36 "Top 20 - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_koreana`, `briefing_name_koreana`, `description_koreana`, `before_description_koreana`, `display_type_koreana`, `style_0_name_koreana`, `style_1_name_koreana`, `style_2_name_koreana`
 - Item 37 "Top 20 - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_koreana`, `briefing_name_koreana`, `description_koreana`, `before_description_koreana`, `display_type_koreana`, `style_0_name_koreana`, `style_1_name_koreana`, `style_2_name_koreana`
 - Item 38 "Top 20 - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_koreana`, `briefing_name_koreana`, `description_koreana`, `before_description_koreana`, `display_type_koreana`, `style_0_name_koreana`, `style_1_name_koreana`, `style_2_name_koreana`
+- Item 40 "Steam SHMUP Fest 2023" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_koreana`, `description_koreana`, `display_type_koreana`
 - Item 7 "Translator" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_koreana`, `description_koreana`, `display_type_koreana`
 - Item 8 "Programmer" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_koreana`, `description_koreana`, `display_type_koreana`
 - Item 9 "Mapper" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_koreana`, `description_koreana`, `display_type_koreana`
@@ -1458,6 +1478,7 @@
 - Item 36 "Top 20 - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_polish`, `briefing_name_polish`, `description_polish`, `before_description_polish`, `display_type_polish`, `style_0_name_polish`, `style_1_name_polish`, `style_2_name_polish`
 - Item 37 "Top 20 - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_polish`, `briefing_name_polish`, `description_polish`, `before_description_polish`, `display_type_polish`, `style_0_name_polish`, `style_1_name_polish`, `style_2_name_polish`
 - Item 38 "Top 20 - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_polish`, `briefing_name_polish`, `description_polish`, `before_description_polish`, `display_type_polish`, `style_0_name_polish`, `style_1_name_polish`, `style_2_name_polish`
+- Item 40 "Steam SHMUP Fest 2023" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_polish`, `description_polish`, `display_type_polish`
 - Item 7 "Translator" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_polish`, `description_polish`, `display_type_polish`
 - Item 8 "Programmer" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_polish`, `description_polish`, `display_type_polish`
 - Item 9 "Mapper" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_polish`, `description_polish`, `display_type_polish`
@@ -1773,6 +1794,7 @@
 - Item 36 "Top 20 - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_portuguese`, `briefing_name_portuguese`, `description_portuguese`, `before_description_portuguese`, `display_type_portuguese`, `style_0_name_portuguese`, `style_1_name_portuguese`, `style_2_name_portuguese`
 - Item 37 "Top 20 - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_portuguese`, `briefing_name_portuguese`, `description_portuguese`, `before_description_portuguese`, `display_type_portuguese`, `style_0_name_portuguese`, `style_1_name_portuguese`, `style_2_name_portuguese`
 - Item 38 "Top 20 - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_portuguese`, `briefing_name_portuguese`, `description_portuguese`, `before_description_portuguese`, `display_type_portuguese`, `style_0_name_portuguese`, `style_1_name_portuguese`, `style_2_name_portuguese`
+- Item 40 "Steam SHMUP Fest 2023" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_portuguese`, `description_portuguese`, `display_type_portuguese`
 - Item 14 "Reporter" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_portuguese`, `description_portuguese`
 - Item 29 "Streamer" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_portuguese`, `description_portuguese`
 - Item 39 "Mapping Competition Participant (2023)" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_portuguese`, `description_portuguese`
@@ -1937,6 +1959,7 @@
 - Item 36 "Top 20 - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `description_brazilian`, `style_0_name_brazilian`, `style_1_name_brazilian`
 - Item 37 "Top 20 - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `description_brazilian`, `style_0_name_brazilian`, `style_1_name_brazilian`
 - Item 38 "Top 20 - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `description_brazilian`, `style_0_name_brazilian`, `style_1_name_brazilian`
+- Item 40 "Steam SHMUP Fest 2023" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_brazilian`, `description_brazilian`
 - Item 29 "Streamer" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_brazilian`, `description_brazilian`
 - Item 39 "Mapping Competition Participant (2023)" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_brazilian`, `description_brazilian`
 - Item 100000010 "Donor: Dmitriy" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_brazilian`, `description_brazilian`, `ingame_description_brazilian`
@@ -2039,6 +2062,10 @@
 ### Strings
 
 - [reactivedrop_russian.txt](resource/reactivedrop_russian.txt) has 2 untranslated strings.
+
+### Inventory Schema</summary>
+
+- Item 40 "Steam SHMUP Fest 2023" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_russian`, `description_russian`
 
 </details>
 
@@ -2253,6 +2280,7 @@
 - Item 36 "Top 20 - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_spanish`, `briefing_name_spanish`, `description_spanish`, `before_description_spanish`, `display_type_spanish`, `style_0_name_spanish`, `style_1_name_spanish`, `style_2_name_spanish`
 - Item 37 "Top 20 - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_spanish`, `briefing_name_spanish`, `description_spanish`, `before_description_spanish`, `display_type_spanish`, `style_0_name_spanish`, `style_1_name_spanish`, `style_2_name_spanish`
 - Item 38 "Top 20 - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_spanish`, `briefing_name_spanish`, `description_spanish`, `before_description_spanish`, `display_type_spanish`, `style_0_name_spanish`, `style_1_name_spanish`, `style_2_name_spanish`
+- Item 40 "Steam SHMUP Fest 2023" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_spanish`, `description_spanish`, `display_type_spanish`
 - Item 7 "Translator" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_spanish`, `description_spanish`, `display_type_spanish`
 - Item 8 "Programmer" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_spanish`, `description_spanish`, `display_type_spanish`
 - Item 9 "Mapper" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_spanish`, `description_spanish`, `display_type_spanish`
@@ -2577,6 +2605,7 @@
 - Item 36 "Top 20 - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_latam`, `briefing_name_latam`, `description_latam`, `before_description_latam`, `display_type_latam`, `style_0_name_latam`, `style_1_name_latam`, `style_2_name_latam`
 - Item 37 "Top 20 - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_latam`, `briefing_name_latam`, `description_latam`, `before_description_latam`, `display_type_latam`, `style_0_name_latam`, `style_1_name_latam`, `style_2_name_latam`
 - Item 38 "Top 20 - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_latam`, `briefing_name_latam`, `description_latam`, `before_description_latam`, `display_type_latam`, `style_0_name_latam`, `style_1_name_latam`, `style_2_name_latam`
+- Item 40 "Steam SHMUP Fest 2023" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_latam`, `description_latam`, `display_type_latam`
 - Item 7 "Translator" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_latam`, `description_latam`, `display_type_latam`
 - Item 8 "Programmer" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_latam`, `description_latam`, `display_type_latam`
 - Item 9 "Mapper" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_latam`, `description_latam`, `display_type_latam`
@@ -2898,6 +2927,7 @@
 - Item 36 "Top 20 - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_ukrainian`, `briefing_name_ukrainian`, `description_ukrainian`, `before_description_ukrainian`, `display_type_ukrainian`, `style_0_name_ukrainian`, `style_1_name_ukrainian`, `style_2_name_ukrainian`
 - Item 37 "Top 20 - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_ukrainian`, `briefing_name_ukrainian`, `description_ukrainian`, `before_description_ukrainian`, `display_type_ukrainian`, `style_0_name_ukrainian`, `style_1_name_ukrainian`, `style_2_name_ukrainian`
 - Item 38 "Top 20 - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_ukrainian`, `briefing_name_ukrainian`, `description_ukrainian`, `before_description_ukrainian`, `display_type_ukrainian`, `style_0_name_ukrainian`, `style_1_name_ukrainian`, `style_2_name_ukrainian`
+- Item 40 "Steam SHMUP Fest 2023" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_ukrainian`, `description_ukrainian`, `display_type_ukrainian`
 - Item 7 "Translator" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_ukrainian`, `description_ukrainian`, `display_type_ukrainian`
 - Item 8 "Programmer" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_ukrainian`, `description_ukrainian`, `display_type_ukrainian`
 - Item 9 "Mapper" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_ukrainian`, `description_ukrainian`, `display_type_ukrainian`
@@ -3201,6 +3231,7 @@
 - Item 36 "Top 20 - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_vietnamese`, `briefing_name_vietnamese`, `description_vietnamese`, `before_description_vietnamese`, `display_type_vietnamese`, `style_0_name_vietnamese`, `style_1_name_vietnamese`, `style_2_name_vietnamese`
 - Item 37 "Top 20 - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_vietnamese`, `briefing_name_vietnamese`, `description_vietnamese`, `before_description_vietnamese`, `display_type_vietnamese`, `style_0_name_vietnamese`, `style_1_name_vietnamese`, `style_2_name_vietnamese`
 - Item 38 "Top 20 - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_vietnamese`, `briefing_name_vietnamese`, `description_vietnamese`, `before_description_vietnamese`, `display_type_vietnamese`, `style_0_name_vietnamese`, `style_1_name_vietnamese`, `style_2_name_vietnamese`
+- Item 40 "Steam SHMUP Fest 2023" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_vietnamese`, `description_vietnamese`, `display_type_vietnamese`
 - Item 7 "Translator" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_vietnamese`, `description_vietnamese`, `display_type_vietnamese`
 - Item 8 "Programmer" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_vietnamese`, `description_vietnamese`, `display_type_vietnamese`
 - Item 9 "Mapper" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_vietnamese`, `description_vietnamese`, `display_type_vietnamese`
