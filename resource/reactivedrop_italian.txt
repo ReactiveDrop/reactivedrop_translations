@@ -8801,7 +8801,7 @@
 "[english]rd_reporting_finished_title"		"Report Status"
 "rd_settings_controls"		"Comandi"
 // these are tab names
-"[english]rd_settings_controls"		"Comandi"
+"[english]rd_settings_controls"		"Controls"
 "rd_settings_options_1"		"Opzioni 1"
 "[english]rd_settings_options_1"		"Options 1"
 "rd_settings_options_2"		"Opzioni 2"
