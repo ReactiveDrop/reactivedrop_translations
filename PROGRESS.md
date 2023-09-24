@@ -11,7 +11,7 @@
 | [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | 2 | ✔️ | ✔️ | 2 | ✔️ |
 | [Hungarian](#non-curated-languages) | 51 | 138 | 42 | 2845 | 200 | 880 | 450 | 146 |
 | [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | 2 | ✔️ | ✔️ | 2 | ✔️ |
-| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | 2 | ✔️ | 102 | 2 | ✔️ |
+| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 102 | ✔️ | ✔️ |
 | [Korean](#koreana-한국어) | 7 | 10 | 38 | 1341 | 22 | 346 | 436 | 47 |
 | [Norwegian Bokmål](#non-curated-languages) | 69 | 708 | 47 | 3551 | 200 | 615 | 519 | 146 |
 | [Polish](#polish-polski) | 28 | 2004 | 42 | 2845 | 200 | 611 | 450 | 142 |
@@ -1033,11 +1033,6 @@
 
 - [signage_japanese.vdf](misc/signage/signage_japanese.vdf) has 67 untranslated strings.
 - [vgui_japanese.txt](platform/vgui_japanese.txt) has 35 untranslated strings.
-- [reactivedrop_japanese.txt](resource/reactivedrop_japanese.txt) has 2 untranslated strings.
-
-### Inventory Schema</summary>
-
-- Item 40 "Steam SHMUP Fest 2023" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_japanese`, `description_japanese`
 
 </details>
 
