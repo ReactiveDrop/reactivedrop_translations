@@ -1,7 +1,7 @@
 # Overview
 | Language | basemodui | closecaption | gameui | reactivedrop | statsweb | Strings | Inventory | Files |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 2 | ✔️ |
+| [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Traditional Chinese](#tchinese-繁體中文) | 9 | 140 | 33 | 2732 | 200 | 236 | 448 | 145 |
 | [Czech](#czech-čeština) | 71 | 1810 | 42 | 3849 | 200 | 885 | 518 | 145 |
 | [Danish](#non-curated-languages) | 52 | 231 | 42 | 3377 | 200 | 615 | 513 | 146 |
@@ -40,9 +40,7 @@
 
 </summary>
 
-### Inventory Schema</summary>
-
-- Item 40 "Steam SHMUP Fest 2023" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_schinese`, `description_schinese`
+✓ Up to date!
 
 </details>
 
