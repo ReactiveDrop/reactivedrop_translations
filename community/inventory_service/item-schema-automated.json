@@ -1244,8 +1244,7 @@
 			"icon_url": "https://stats.reactivedrop.com/static/medals/steam_shmup_fest_2023.png",
 			"name_color": "5E98D9",
 			"tags": "rarity:uncommon;slot:medal",
-			"item_slot": "medal",
-			"promo": "manual"
+			"item_slot": "medal"
 		}
 	]
 }
