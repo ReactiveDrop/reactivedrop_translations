@@ -1,0 +1,18 @@
+"Credits"
+{
+// these keys must be in this order!
+"show_credits_logo"	"1"
+"custom_logo"	"ExampleCustomLogo/example_custom_logo"
+"asw_credits_"	"TÊN BẠN Ở ĐÂY"
+"asw_credits_"	""
+"asw_credits_"	"Các danh đề này nằm ở"
+"asw_credits_"	"addons/ExampleAddon/resource/CustomCampaignCredits.txt"
+"asw_credits_"	""
+"asw_credits_"	""
+"asw_credits_"	"Thông tin thêm về tạo ra và"
+"asw_credits_"	"phân phát nội dung của chính bạn cho"
+"asw_credits_"	"Alien Swarm có thể được tìm thấy trên"
+"asw_credits_"	"phần Alien Swarm của"
+"asw_credits_"	"Valve Developer Wiki"
+"asw_credits_"	"http://developer.valvesoftware.com/"
+}
