@@ -9,7 +9,7 @@
 "asw_credits_"	"addons/ExampleAddon/resource/CustomCampaignCredits.txt"
 "asw_credits_"	""
 "asw_credits_"	""
-"asw_credits_"	"Thông tin thêm về tạo ra và"
+"asw_credits_"	"Thông tin thêm về việc tạo ra và"
 "asw_credits_"	"phân phát nội dung của chính bạn cho"
 "asw_credits_"	"Alien Swarm có thể được tìm thấy trên"
 "asw_credits_"	"phần Alien Swarm của"
