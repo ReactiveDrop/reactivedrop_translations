@@ -63,7 +63,7 @@
 "[english]examplecampaign_slow_door_message"		"Locked, slow opening door"
 "examplecampaign_tech_message"		"Nếu như bạn cần người chơi để hack các bảng điều khiển và máy tính..."
 "[english]examplecampaign_tech_message"		"If you want the player to hack panels and computers..."
-"examplecampaign_tech_message_02"		"...đặt một asw_tech_marine_req ở đâu đó trong tầng của bạn"
+"examplecampaign_tech_message_02"		"...đặt một asw_tech_marine_req ở đâu đó trong màn chơi của bạn"
 "[english]examplecampaign_tech_message_02"		"...place an asw_tech_marine_req somewhere in your level"
 "examplecampaign_spawning1_message"		"Triệu hồi bọ ngoài hành tinh ở trong thị giác của người chơi"
 "[english]examplecampaign_spawning1_message"		"Spawning aliens within player's sight"
