@@ -13,7 +13,7 @@
 "[english]examplecampaign_entry_desc"		"Dropship Bloodhound will enter atmosphere at these co-ordinates and proceed to primary objective."
 "examplecampaign_mission1_title"		"Nhiệm vụ ví dụ 1"
 "[english]examplecampaign_mission1_title"		"Example Mission 1"
-"examplecampaign_mission1_loc"		"Nhiệm vụ ví dụ 1
+"examplecampaign_mission1_loc"		"Nhiệm vụ ví dụ 1"
 "[english]examplecampaign_mission1_loc"		"Example Mission 1"
 "examplecampaign_mission1_desc"		"Văn bản ví dụ 1."
 "[english]examplecampaign_mission1_desc"		"Example text 1."
