@@ -1,0 +1,22 @@
+"Credits"
+{
+// these keys must be in this order!
+"show_credits_logo"	"0"
+//"custom_logo"	"ExampleCustomLogo/example_custom_logo"
+"asw_credits_"	""
+"asw_credits_"	""
+"asw_credits_"	"Nhiệm vụ 1, Thảm họa sân bay vũ trụ, bởi jhheight"
+"asw_credits_"	""
+"asw_credits_"	"Nhiệm vụ 2, Rapture, bởi Sergei \"STALKER4732\" Lavrinenco"
+"asw_credits_"	""
+"asw_credits_"	"Nhiệm vụ 3, Boong ke, bởi uradzimiru"
+"asw_credits_"	""
+"asw_credits_"	"Nhiệm vụ 4, Tập luyện ngoại tuyến, bởi Valve"
+"asw_credits_"	""
+"asw_credits_"	"Nhiệm vụ 5, Các nơi thù địch, bởi Eclipse"
+"asw_credits_"	""
+"asw_credits_"	"Nhiệm vụ 6, Sự căng thẳng cao, bởi Eclipse"
+"asw_credits_"	""
+"asw_credits_"	"Nhiệm vụ 7, Nhà máy điện, bởi Arjen de Graaf"
+"asw_credits_"	""
+}
