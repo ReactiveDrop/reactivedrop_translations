@@ -2465,7 +2465,7 @@
 "[english]asw_button_missionfull"		"Mission Full"
 "asw_button_retcamp"		"Feldzug-Auswahl"
 "[english]asw_button_retcamp"		"Campaign Map"
-"asw_ingame_restart_title"		"EINSATZ WIRD NEUGESTARTET"
+"asw_ingame_restart_title"		"NEUSTART"
 "[english]asw_ingame_restart_title"		"RESTARTING MISSION"
 "asw_ingame_restart_5"		"Einsatz wird neugestartet in 5..."
 "[english]asw_ingame_restart_5"		"Restarting mission in 5..."
