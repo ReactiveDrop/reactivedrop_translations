@@ -15,7 +15,7 @@ GAME
 "MailBody1F"	"Wir haben ein echtes Problem. Der Patient verhält sich sehr seltsam. Er hat immer öfter Anfälle von Wahnsinn und wird zunehmend gewalttätig gegenüber den Ärzten, die sich um ihn kümmern. Wir müssen eine Entscheidung treffen."
 "MailBody1G"	"Wenn er so weitermacht, wird er am Ende noch jemanden verletzen oder Schlimmeres ..."
 "MailBody1H"	"Dienstag, 26. Mai:"
-"MailBody1I"	"Der Patient ist geflohen. Er hat zwei Ärzte verwundet. Viele Soldaten haben sich auf die Suche nach ihm gemacht. Sie fanden ihn am Nachmittag, mit idle cut und Körper mit Blut verschmiert. Wir haben ihn in den medizinischen Raum gebracht und getötet, um weitere Untersuchungen vorzunehmen. Das mussten wir, sonst wäre es ausgeartet."
+"MailBody1I"	"Der Patient ist geflohen. Er hat zwei Ärzte verwundet. Viele Soldaten haben sich auf die Suche nach ihm gemacht. Sie fanden ihn am Nachmittag, mit leerem Blick und blutverschmiertem Körper. Wir haben ihn in die Krankenstation gebracht und getötet, um weitere Untersuchungen vorzunehmen. Das mussten wir, sonst wäre es ausgeartet."
 "MailBody1J"	""
 "MailBody1K"	"= Versuch 58: Gescheitert. ="
 "MailBody1L"	""
