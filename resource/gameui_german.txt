@@ -623,7 +623,7 @@
 "[english]LoadingProgress_SendClientInfo"		"Sending client info..."
 "LoadingProgress_SignonData"		"Lade Spieldaten ..."
 "[english]LoadingProgress_SignonData"		"Retrieving game data..."
-"LoadingProgress_Changelevel"		"Server Level Änderung..."
+"LoadingProgress_Changelevel"		"Einsatzwechsel ..."
 "[english]LoadingProgress_Changelevel"		"Server is changing level..."
 "GameUI_Difficulty"		"Schwierigkeitsgrad"
 "[english]GameUI_Difficulty"		"Difficulty"
