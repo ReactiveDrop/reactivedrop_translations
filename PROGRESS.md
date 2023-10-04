@@ -10,7 +10,7 @@
 | [French](#french-français) | 27 | 138 | 42 | 2210 | 200 | 555 | 436 | 124 |
 | [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Hungarian](#non-curated-languages) | 51 | 138 | 42 | 2845 | 200 | 880 | 450 | 146 |
-| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | 2 | ✔️ | ✔️ | 2 | ✔️ |
+| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 102 | ✔️ | ✔️ |
 | [Korean](#koreana-한국어) | 7 | 10 | 38 | 1341 | 22 | 346 | 436 | 47 |
 | [Norwegian Bokmål](#non-curated-languages) | 69 | 708 | 47 | 3551 | 200 | 615 | 519 | 146 |
@@ -18,14 +18,14 @@
 | [European Portuguese](#portuguese-português-europeu) | ✔️ | 180 | 32 | 1970 | 21 | 533 | 459 | 140 |
 | [Brazilian Portuguese](#brazilian-português) | 2 | 2004 | 32 | 1104 | 9 | 181 | 219 | 7 |
 | [Romanian](#non-curated-languages) | 51 | 1996 | 48 | 3556 | 200 | 880 | 496 | 146 |
-| [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | 2 | ✔️ | ✔️ | 2 | ✔️ |
+| [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [European Spanish](#spanish-español-de-españa) | 28 | 2004 | 40 | 2260 | 200 | 619 | 446 | 145 |
 | [Latin American Spanish](#latam-español-latinoamericano) | 1281 | 2004 | 634 | 4356 | 204 | 885 | 532 | 146 |
 | [Swedish](#non-curated-languages) | 51 | 2004 | 42 | 2845 | 200 | 615 | 450 | 146 |
 | [Thai](#non-curated-languages) | 966 | 1993 | 50 | 4092 | 200 | 644 | 529 | 146 |
 | [Turkish](#non-curated-languages) | 51 | 137 | 42 | 2845 | 200 | 880 | 450 | 146 |
 | [Ukrainian](#ukrainian-українська) | 27 | 131 | 32 | 2388 | 200 | 833 | 444 | 145 |
-| [Vietnamese](#vietnamese-tiếng-việt) | 1281 | 2004 | 628 | 3334 | 200 | 805 | 532 | 129 |
+| [Vietnamese](#vietnamese-tiếng-việt) | 1281 | 2004 | 628 | 3313 | 200 | 766 | 532 | 113 |
 ### Legend
 - ***Non-capitalized column headers*** are the most important specific files and their number of missing strings. All of these txt-files are located in the resources folder. Except statsweb, which lies in community/stats_website, it's an vdf-file.
 - ***Strings*** is the number of missing strings not included in one of the files which get an individual non-capitalized column.
@@ -1007,13 +1007,7 @@
 
 </summary>
 
-### Strings
-
-- [reactivedrop_italian.txt](resource/reactivedrop_italian.txt) has 2 untranslated strings.
-
-### Inventory Schema</summary>
-
-- Item 40 "Steam SHMUP Fest 2023" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_italian`, `description_italian`
+✓ Up to date!
 
 </details>
 
@@ -2042,13 +2036,7 @@
 
 </summary>
 
-### Strings
-
-- [reactivedrop_russian.txt](resource/reactivedrop_russian.txt) has 2 untranslated strings.
-
-### Inventory Schema</summary>
-
-- Item 40 "Steam SHMUP Fest 2023" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_russian`, `description_russian`
+✓ Up to date!
 
 </details>
 
@@ -3029,7 +3017,6 @@
 
 ### Strings
 
-- [reactivedrop_vietnamese.txt](addons/ExampleAddon/resource/reactivedrop_vietnamese.txt) has 39 untranslated strings.
 - [statsweb_vietnamese.vdf](community/stats_website/statsweb_vietnamese.vdf) has 200 untranslated strings.
 - [steam_input_vietnamese.vdf](community/steam_input/steam_input_vietnamese.vdf) has 97 untranslated strings.
 - [signage_vietnamese.vdf](misc/signage/signage_vietnamese.vdf) has 69 untranslated strings.
@@ -3038,7 +3025,7 @@
 - [basemodui_vietnamese.txt](resource/basemodui_vietnamese.txt) has 1281 untranslated strings.
 - [closecaption_vietnamese.txt](resource/closecaption_vietnamese.txt) has 2004 untranslated strings.
 - [gameui_vietnamese.txt](resource/gameui_vietnamese.txt) has 628 untranslated strings.
-- [reactivedrop_vietnamese.txt](resource/reactivedrop_vietnamese.txt) has 3334 untranslated strings.
+- [reactivedrop_vietnamese.txt](resource/reactivedrop_vietnamese.txt) has 3313 untranslated strings.
 - [valve_vietnamese.txt](resource/valve_vietnamese.txt) has 230 untranslated strings.
 
 ### Steam Store and Community
@@ -3048,25 +3035,6 @@
 ### Upcoming Release Notes
 
 - [20230918_vietnamese.xml](release_notes/20230918_english.xml) is missing.
-
-### Credits
-
-- [CustomCampaignCredits_vietnamese.txt](addons/ExampleAddon/resource/CustomCampaignCredits_english.txt) is missing.
-- [asw_credits_vietnamese.txt](credits/asw_credits_english.txt) is missing.
-- [biogen_corporation_credits_vietnamese.txt](credits/biogen_corporation_credits_english.txt) is missing.
-- [credits_acc32_official_vietnamese.txt](credits/credits_acc32_official_english.txt) is missing.
-- [credits_marine_academy_vietnamese.txt](credits/credits_marine_academy_english.txt) is missing.
-- [credits_namhumanum_vietnamese.txt](credits/credits_namhumanum_english.txt) is missing.
-- [deathmatch_credits_vietnamese.txt](credits/deathmatch_credits_english.txt) is missing.
-- [rd-LanasEscapeCredits_vietnamese.txt](credits/rd-LanasEscapeCredits_english.txt) is missing.
-- [rd-area9800Credits_vietnamese.txt](credits/rd-area9800Credits_english.txt) is missing.
-- [rd-ocs-credits_vietnamese.txt](credits/rd-ocs-credits_english.txt) is missing.
-- [rd-reduction_campaigncredits_vietnamese.txt](credits/rd-reduction_campaigncredits_english.txt) is missing.
-- [rd-tarnor_credits_vietnamese.txt](credits/rd-tarnor_credits_english.txt) is missing.
-- [rd_bonus_missions_credits_vietnamese.txt](credits/rd_bonus_missions_credits_english.txt) is missing.
-- [rd_paranoia_credits_vietnamese.txt](credits/rd_paranoia_credits_english.txt) is missing.
-- [rd_research7_credits_vietnamese.txt](credits/rd_research7_credits_english.txt) is missing.
-- [tilarus5_credits_vietnamese.txt](credits/tilarus5_credits_english.txt) is missing.
 
 ### Mail and News
 
