@@ -668,7 +668,7 @@
 "[english]asw_weapon_rifle_attributes"		""
 "asw_weapon_sniper_rifle"		"Súng trường thiện xạ"
 "[english]asw_weapon_sniper_rifle"		"Marksman Rifle"
-"asw_weapon_sniper_rifle_altfire"		"Ống ngắm hiển thị mục tiêu"
+"asw_weapon_sniper_rifle_altfire"		"Ống ngắm hiển thị mục tiêu nâng cao"
 "[english]asw_weapon_sniper_rifle_altfire"		"Enhanced Target Imaging"
 "asw_weaponl_sniper_rifle"		"Súng trường thiện xạ AVK-36"
 "[english]asw_weaponl_sniper_rifle"		"AVK-36 Marksman Rifle"
