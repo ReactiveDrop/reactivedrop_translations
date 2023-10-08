@@ -5,7 +5,7 @@
 {
 "ror_translationCredit"		"Перевод на русский выполнен berry."
 "[english]ror_translationCredit"		"English translations by ModdedMarionette."
-"ror_translationVersion"		"Translation Version: v1.2"
+"ror_translationVersion"		"Версия перевода: 1.2"
 "[english]ror_translationVersion"		"Translation Version: v1.2"
 "rd_challenge_desc_ror"		"Испытание-рогалик, в котором вы отправляетесь в путешествие, чтобы победить босса без перезапуска, собирая при этом предметы, которые можно переносить по картам и помогающие вам."
 "[english]rd_challenge_desc_ror"		"A roguelike challenge where you take on a journey to defeat the Boss without restarting while collecting items that you can bring across maps to assist you."

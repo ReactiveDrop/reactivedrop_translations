@@ -41,7 +41,8 @@
 			"accessory_tag": "strange",
 			"allowed_tags_from_tools": "strange:5000;strange:5001;strange:5002;strange:5007",
 			"exchange": "4001",
-			"item_slot": "marine0"
+			"item_slot": "marine0",
+			"equip_index": 0
 		},
 		{
 			"itemdefid": 1001,
@@ -81,7 +82,8 @@
 			"accessory_tag": "strange",
 			"allowed_tags_from_tools": "strange:5000;strange:5001;strange:5002;strange:5007",
 			"exchange": "4001",
-			"item_slot": "marine1"
+			"item_slot": "marine1",
+			"equip_index": 1
 		},
 		{
 			"itemdefid": 1002,
@@ -122,7 +124,8 @@
 			"accessory_tag": "strange",
 			"allowed_tags_from_tools": "strange:5000;strange:5001;strange:5002;strange:5003;strange:5007;strange:5008",
 			"exchange": "4001",
-			"item_slot": "marine2"
+			"item_slot": "marine2",
+			"equip_index": 2
 		},
 		{
 			"itemdefid": 1003,
@@ -162,7 +165,8 @@
 			"accessory_tag": "strange",
 			"allowed_tags_from_tools": "strange:5000;strange:5001;strange:5002;strange:5004;strange:5007",
 			"exchange": "4001",
-			"item_slot": "marine3"
+			"item_slot": "marine3",
+			"equip_index": 3
 		},
 		{
 			"itemdefid": 1004,
@@ -203,7 +207,8 @@
 			"accessory_tag": "strange",
 			"allowed_tags_from_tools": "strange:5000;strange:5001;strange:5002;strange:5007",
 			"exchange": "4001",
-			"item_slot": "marine4"
+			"item_slot": "marine4",
+			"equip_index": 4
 		},
 		{
 			"itemdefid": 1005,
@@ -243,7 +248,8 @@
 			"accessory_tag": "strange",
 			"allowed_tags_from_tools": "strange:5000;strange:5001;strange:5002;strange:5007",
 			"exchange": "4001",
-			"item_slot": "marine5"
+			"item_slot": "marine5",
+			"equip_index": 5
 		},
 		{
 			"itemdefid": 1006,
@@ -283,7 +289,8 @@
 			"accessory_tag": "strange",
 			"allowed_tags_from_tools": "strange:5000;strange:5001;strange:5002;strange:5003;strange:5007;strange:5008",
 			"exchange": "4001",
-			"item_slot": "marine6"
+			"item_slot": "marine6",
+			"equip_index": 6
 		},
 		{
 			"itemdefid": 1007,
@@ -323,7 +330,8 @@
 			"accessory_tag": "strange",
 			"allowed_tags_from_tools": "strange:5000;strange:5001;strange:5002;strange:5004;strange:5007",
 			"exchange": "4001",
-			"item_slot": "marine7"
+			"item_slot": "marine7",
+			"equip_index": 7
 		},
 		{
 			"itemdefid": 2000,
