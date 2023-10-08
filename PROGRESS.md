@@ -10,7 +10,7 @@
 | [French](#french-français) | 27 | 138 | 42 | 2210 | 200 | 650 | 436 | 124 |
 | [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Hungarian](#non-curated-languages) | 51 | 138 | 42 | 2845 | 200 | 975 | 450 | 146 |
-| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 95 | ✔️ | ✔️ |
+| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 103 | ✔️ | ✔️ |
 | [Korean](#koreana-한국어) | 7 | 10 | 38 | 1341 | 22 | 441 | 436 | 47 |
 | [Norwegian Bokmål](#non-curated-languages) | 69 | 708 | 47 | 3551 | 200 | 710 | 519 | 146 |
@@ -1009,9 +1009,7 @@
 
 </summary>
 
-### Strings
-
-- [addons/RiskOfRain/reactivedrop_italian.txt](addons/RiskOfRain/resource/reactivedrop_italian.txt) has 95 untranslated strings.
+✓ Up to date!
 
 </details>
 
