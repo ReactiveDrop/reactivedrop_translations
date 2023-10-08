@@ -6,12 +6,15 @@ import (
 	"io"
 	"os"
 	"path/filepath"
+	"regexp"
 	"sort"
 	"strings"
 
 	"git.lubar.me/ben/valve/translation"
 	"golang.org/x/text/language/display"
 )
+
+var commonDirectoryRemover = regexp.MustCompile(`resource/|\Acommunity/[a-z_]+/|\Astore_page/|\Arelease_notes/|\Acredits/`)
 
 func eachFile(patterns []string, addSuffix string, cb func(string, io.Reader)) {
 	for _, pattern := range patterns {
@@ -289,9 +292,9 @@ func generateReport() {
 			sourceName := file.prefix + sourceLanguage + file.suffix
 
 			if !ok {
-				fmt.Printf("- [%s](%s) is missing.\n", filepath.Base(name), sourceName)
+				fmt.Printf("- [%s](%s) is missing.\n", commonDirectoryRemover.ReplaceAllLiteralString(name, ""), sourceName)
 			} else {
-				fmt.Printf("- [%s](%s) has %d untranslated strings.\n", filepath.Base(name), name, indented)
+				fmt.Printf("- [%s](%s) has %d untranslated strings.\n", commonDirectoryRemover.ReplaceAllLiteralString(name, ""), name, indented)
 			}
 		}
 
@@ -315,9 +318,9 @@ func generateReport() {
 				sourceName := file.prefix + sourceLanguage + file.suffix
 
 				if !ok {
-					fmt.Printf("- [%s](%s) is missing.\n", filepath.Base(name), sourceName)
+					fmt.Printf("- [%s](%s) is missing.\n", commonDirectoryRemover.ReplaceAllLiteralString(name, ""), sourceName)
 				} else {
-					fmt.Printf("- [%s](%s) has %d indented lines.\n", filepath.Base(name), name, indented)
+					fmt.Printf("- [%s](%s) has %d indented lines.\n", commonDirectoryRemover.ReplaceAllLiteralString(name, ""), name, indented)
 				}
 			}
 		}
@@ -333,7 +336,7 @@ func generateReport() {
 					if !anyItems {
 						any = true
 						anyItems = true
-						fmt.Print("\n### Inventory Schema</summary>\n\n")
+						fmt.Print("\n### Inventory Schema\n\n")
 					}
 
 					if !anyThisItem {

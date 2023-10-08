@@ -218,8 +218,8 @@ var officialChallenges = [...]string{
 	"one_hit",
 	"energy_weapons",
 	"riflemod_classic",
-	"first_person",
-	"third_person",
+	"rd_first_person",
+	"rd_third_person",
 }
 
 var officialMissions = [...]string{
