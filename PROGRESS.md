@@ -8,10 +8,10 @@
 | [Dutch](#non-curated-languages) | 51 | 2004 | 42 | 2853 | 200 | 710 | 450 | 145 |
 | [Finnish](#non-curated-languages) | 51 | 2004 | 42 | 2853 | 200 | 710 | 450 | 145 |
 | [French](#french-français) | 27 | 138 | 42 | 2218 | 200 | 650 | 436 | 124 |
-| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | 10 | ✔️ | ✔️ | ✔️ | ✔️ |
+| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | 5 | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Hungarian](#non-curated-languages) | 51 | 138 | 42 | 2853 | 200 | 975 | 450 | 146 |
-| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | 10 | ✔️ | ✔️ | ✔️ | ✔️ |
-| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | 10 | ✔️ | 103 | ✔️ | ✔️ |
+| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
+| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 103 | ✔️ | ✔️ |
 | [Korean](#koreana-한국어) | 7 | 10 | 38 | 1349 | 22 | 441 | 436 | 47 |
 | [Norwegian Bokmål](#non-curated-languages) | 69 | 708 | 47 | 3559 | 200 | 710 | 519 | 146 |
 | [Polish](#polish-polski) | 28 | 2004 | 42 | 2853 | 200 | 706 | 450 | 142 |
@@ -1003,7 +1003,7 @@
 
 ### Strings
 
-- [reactivedrop_german.txt](resource/reactivedrop_german.txt) has 10 untranslated strings.
+- [reactivedrop_german.txt](resource/reactivedrop_german.txt) has 5 untranslated strings.
 
 </details>
 
@@ -1013,9 +1013,7 @@
 
 </summary>
 
-### Strings
-
-- [reactivedrop_italian.txt](resource/reactivedrop_italian.txt) has 10 untranslated strings.
+✓ Up to date!
 
 </details>
 
@@ -1030,7 +1028,6 @@
 - [addons/RiskOfRain/reactivedrop_japanese.txt](addons/RiskOfRain/resource/reactivedrop_japanese.txt) has 1 untranslated strings.
 - [misc/signage/signage_japanese.vdf](misc/signage/signage_japanese.vdf) has 67 untranslated strings.
 - [platform/vgui_japanese.txt](platform/vgui_japanese.txt) has 35 untranslated strings.
-- [reactivedrop_japanese.txt](resource/reactivedrop_japanese.txt) has 10 untranslated strings.
 
 </details>
 
