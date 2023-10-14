@@ -700,7 +700,7 @@
 "L4D360UI_InGameMainMenu_ReturnToGame"		"ZURÜCK ZUM SPIEL"
 //In Game Main Menu
 "[english]L4D360UI_InGameMainMenu_ReturnToGame"		"RETURN TO GAME"
-"L4D360UI_InGameMainMenu_ReturnToGame_Tip"		"Schließe dieses Menü, und spiele weiter."
+"L4D360UI_InGameMainMenu_ReturnToGame_Tip"		""
 "[english]L4D360UI_InGameMainMenu_ReturnToGame_Tip"		"Leave this menu and continue playing."
 "L4D360UI_InGameMainMenu_GoIdle"		"PAUSE MACHEN"
 "[english]L4D360UI_InGameMainMenu_GoIdle"		"TAKE A BREAK"
@@ -1667,7 +1667,7 @@
 "[english]L4D360UI_Controller_Sticks_Desc"		"Select your preferred stick configuration."
 "L4D360UI_Controller_Gamertag"		"Controller-Konfiguration für %s1 einrichten"
 "[english]L4D360UI_Controller_Gamertag"		"Set Controller Configuration for %s1"
-"L4D360UI_Controller_Default"		"AUF STANDARD ZURÜCKSETZEN"
+"L4D360UI_Controller_Default"		"ALLES ZURÜCKSETZEN"
 "[english]L4D360UI_Controller_Default"		"RESET TO DEFAULTS"
 "L4D360UI_Controller_Default_Details"		"Alle Einstellungen auf Standardwerte zurücksetzen?"
 "[english]L4D360UI_Controller_Default_Details"		"Reset all settings to their default values?"

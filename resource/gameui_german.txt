@@ -263,7 +263,7 @@
 "[english]GameUI_Submit"		"Submit"
 "GameUI_Options"		"OPTIONEN"
 "[english]GameUI_Options"		"OPTIONS"
-"GameUI_Keyboard"		"Tastatur"
+"GameUI_Keyboard"		"Tastatur/Maus"
 "[english]GameUI_Keyboard"		"Keyboard"
 "GameUI_Mouse"		"Maus"
 "[english]GameUI_Mouse"		"Mouse"
