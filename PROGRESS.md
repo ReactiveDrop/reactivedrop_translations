@@ -18,7 +18,7 @@
 | [European Portuguese](#portuguese-português-europeu) | ✔️ | 180 | 32 | 1983 | 21 | 628 | 459 | 140 |
 | [Brazilian Portuguese](#brazilian-português) | 2 | 2004 | 32 | 1117 | 9 | 276 | 219 | 7 |
 | [Romanian](#non-curated-languages) | 51 | 1996 | 48 | 3569 | 200 | 975 | 496 | 146 |
-| [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | 15 | ✔️ | ✔️ | ✔️ | ✔️ |
+| [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [European Spanish](#spanish-español-de-españa) | 28 | 2004 | 40 | 2273 | 200 | 714 | 446 | 145 |
 | [Latin American Spanish](#latam-español-latinoamericano) | 1281 | 2004 | 634 | 4369 | 204 | 980 | 532 | 146 |
 | [Swedish](#non-curated-languages) | 51 | 2004 | 42 | 2858 | 200 | 710 | 450 | 146 |
@@ -2050,9 +2050,7 @@
 
 </summary>
 
-### Strings
-
-- [reactivedrop_russian.txt](resource/reactivedrop_russian.txt) has 15 untranslated strings.
+✓ Up to date!
 
 </details>
 
