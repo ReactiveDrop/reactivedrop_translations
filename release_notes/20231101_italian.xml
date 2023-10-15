@@ -1,55 +1,55 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<content><string id="body">This month's update contains many features requested by the community.
+<content><string id="body">L'aggiornamento di questo mese contiene molte funzioni richieste dalla comunità.
 
-[h2]Weapons[/h2]
+[h2]Armi[/h2]
 [list]
-[*][b]ML30 Laser Trip Mine:[/b] Mines are no longer triggered by invulnerable NPCs, such as scanners.
-[*][b]Grenade Launcher:[/b] Shots aimed far below the marine will now arc differently to avoid hitting the edge of the platform the marine is standing on.
-[*]Aim-assisted weapons no longer target scanners.
-[*]Marines can now safely roll through all bullets, even those fired by non-marines.
+[*][b]Mina Laser ML30:[/b] Le mine non vengono più attivate dai PNG invulnerabili, come gli scanner.
+[*][b]Lanciagranate:[/b] I colpi indirizzati molto al di sotto del soldato ora si inarcano in modo diverso per evitare di colpire il bordo della piattaforma su cui si trova il soldato.
+[*]Le armi a puntamento assistito non mirano più agli scanner.
+[*]I soldati possono ora evitare con sicurezza tutti i proiettili, anche quelli non sparati da soldati.
 [/list]
 
-[h2]Menus[/h2]
+[h2]Menu[/h2]
 [list]
-[*]Many graphical advanced settings, including precipitation, dynamic lighting, and alien shadows, are now stored only on your machine and are no longer synchronized to the Steam Cloud, matching the behavior of the main shader quality, texture quality, and antialiasing options.
-[*]Commanders can now equip up to three medals at once.
-[*]Updated the main menu public lobby preview to show all servers regardless of Steam group. Added icons for Heroes of the Interstellar Armed Forces servers.
-[*]Items with multiple styles, such as medals from recent seasons of Heroes of the Interstellar Armed Forces, can now have their appearance changed in the Collections screen.
-[*]Lobby hosts can now lock various settings via the convars rd_lock_difficulty, rd_lock_onslaught, rd_lock_hardcoreff, and rd_lock_challenge.
-[*]Improved interaction targeting for computers and panels so it is easier to hack while a dropped weapon is nearby.
+[*]Molte impostazioni grafiche avanzate, tra cui le precipitazioni, l'illuminazione dinamica e le ombre aliene, sono ora memorizzate solo sulla vostra macchina e non sono più sincronizzate con il Cloud di Steam, e corrispondono al comportamento delle opzioni principali di qualità degli shader, qualità delle texture e antialiasing.
+[*]I comandanti possono ora equipaggiare fino a tre medaglie contemporaneamente.
+[*]Aggiornata l'anteprima della lobby pubblica del menu principale per mostrare tutti i server indipendentemente dal gruppo Steam. Aggiunte le icone per i server di Eroi delle Forze Armate Interstellari.
+[*]Gli oggetti con stili multipli, come le medaglie delle ultime stagioni di Eroi delle Forze Armate Interstellari, possono ora essere modificate nella schermata delle Collezioni.
+[*]Gli host delle lobby possono ora bloccare varie impostazioni tramite i convar rd_lock_difficulty, rd_lock_onslaught, rd_lock_hardcoreff e rd_lock_challenge.
+[*]Migliorato il puntamento dell'interazione per computer e pannelli, in modo da rendere più facile l'hacking quando un'arma caduta è nelle vicinanze.
 [/list]
 
 [h2]Mapping / Modding[/h2]
 [list]
-[*]Added six new convars that allow co-op challenges to control the maximum number of marines in a squad: asw_marines_max (default 8), asw_marines_max_per_profile (default 1), asw_marines_max_officer (default 2), asw_marines_max_special_weapons (default 2), asw_marines_max_medic (default 2), and asw_marines_max_tech (default 2).
-[*]Fixed the SecondaryBullets Hammer keyvalue affecting primary ammo on asw_weapon entities.
-[*]Added support for $tintmasktexture to VertexLitGeneric and UnlitGeneric.
-[*]Added support for $blendtintbybasealpha to UnlitGeneric.
-[*]Added rd_drone_flinch_resets_attack for use in challenges. It returns drone flinching behavior to how it was in Alien Swarm, where it would cancel attack animation timers.
-[*]Added asw_filter_incapacitated for use in Hammer.
-[*]Marines can now display health up to 8191 (previously, the limit was 511).
-[*]Added an option to asw_jukebox to make it not interrupt player-supplied combat music, for use in multi-part combat music.
-[*]Marine skill points can now be reassigned via convars (eg. asw_marine_skill_sarge_0).
-[*]Added rd_chainsaw_idle_sound for challenges that want to disable the chainsaw idle sound.
+[*]Aggiunti sei nuovi convars che consentono di controllare il numero massimo di soldati in una squadra nelle sfide co-op.: asw_marines_max (default 8), asw_marines_max_per_profile (default 1), asw_marines_max_officer (default 2), asw_marines_max_special_weapons (default 2), asw_marines_max_medic (default 2) e asw_marines_max_tech (default 2).
+[*]Corretto il valore chiave di SecondaryBullets Hammer che influisce sulle munizioni primarie delle entità asw_weapon.
+[*]Aggiunto il supporto per $tintmasktexture a VertexLitGeneric e UnlitGeneric.
+[*]Aggiunto il supporto per $blendtintbybasealpha a UnlitGeneric.
+[*]Aggiunto rd_drone_flinch_resets_attack per utilizzo nelle sfide. Riporta il comportamento del drone che indietreggia a come era in Alien Swarm, dove annullava i timer delle animazioni di attacco.
+[*]Aggiunto asw_filter_incapacitated per utilizzo in Hammer.
+[*]Ora i soldati possono mostrare la salute fino a 8191 (precedentemente, il limite era 511).
+[*]Aggiunta un'opzione ad asw_jukebox per non interrompere la musica di combattimento fornita dal giocatore, per l'uso di musica di combattimento in più parti.
+[*]I punti abilità dei soldati possono ora essere riassegnati tramite convars (es. asw_marine_skill_sarge_0).
+[*]Aggiunto rd_chainsaw_idle_sound per le sfide che vogliono disabilitare il suono idle della motosega.
 [/list]
 
 [h2]Controller[/h2]
 [list]
-[*]Fixed a case where controller button prompts would still be shown in -nojoy mode.
-[*]Fixed the controller options screen being accessible from the pause menu when no controller was connected.
+[*]Corretto un caso in cui le richieste dei pulsanti del controller venivano visualizzate anche in modalità -nojoy.
+[*]È stato risolto il problema della schermata delle opzioni del controller accessibile dal menu di pausa quando non era collegato alcun controller.
 [/list]
 
-[h2]Dedicated Servers[/h2]
+[h2]Server Dedicati[/h2]
 [list]
-[*]Added a message to the srcds server log when marines deal friendly fire to each other.
-[*]Dedicated servers will now exit at the end of the level if the server list coordinator indicates that an update is available. (rd_server_restart_on_update)
-[*]Improved reliability of sv_memlimit for dedicated servers.
+[*]Aggiunto un messaggio al registro del server srcds quando i soldati si infliggono fuoco amico a vicenda.
+[*]I server dedicati ora escono alla fine del livello se il coordinatore dell'elenco dei server indica che è disponibile un aggiornamento. (rd_server_restart_on_update)
+[*]Migliorata l'affidabilità di sv_memlimit per i server dedicati.
 [/list]
 
 [h2]Deathmatch[/h2]
 [list]
-[*]Changing a marine or marine resource's team using VScript or entity inputs will now also change the team of the other entity.
-[*]Team deathmatch loadouts no longer update when picking up a weapon from the ground.
-[*]Equipment items that are visible when equipped now inherit the marine's team deathmatch team color.
+[*]La modifica della squadra di un soldato o di una risorsa dei soldati tramite VScript o input di entità ora modifica anche la squadra dell'altra entità.
+[*]Gli equipaggiamenti dei deathmatch a squadre non si aggiornano più quando si raccoglie un'arma da terra.
+[*]Gli oggetti dell'equipaggiamento visibili quando sono equipaggiati ora ereditano il colore della squadra del soldato in deathmatch.
 [/list]
-</string><string id="subtitle"></string><string id="summary"></string><string id="title">Alien Swarm: Reactive Drop Update - November 1, 2023</string></content>
+</string><string id="subtitle"></string><string id="summary"></string><string id="title">Aggiornamento di Alien Swarm: Reactive Drop - 1 Novembre 2023</string></content>
