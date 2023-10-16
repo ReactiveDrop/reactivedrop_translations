@@ -3504,7 +3504,7 @@
 "acc4_2_title"	"Get into the Main Sewer Tunnel"
 "acc4_2a"	"Find the sewer tunnel into which the bodies of employees were dumped."
 
-"acc4_3_title"	"KIll the Uber Electrifier"
+"acc4_3_title"	"Kill the Uber Electrifier"
 "acc4_3a"	"Make sure the electrifier is dead so that it can not break the elevator while marines are ascending."
 
 "acc4_4_title"	"Power the Elevator"
