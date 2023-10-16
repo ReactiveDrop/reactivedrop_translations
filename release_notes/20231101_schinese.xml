@@ -25,7 +25,7 @@
 [*]修复 Hammer 编辑器中 SecondaryBullets 键值对影响asw_weapon实体的主武器弹药的问题。
 [*]增加 VertexLitGeneric 和 UnlitGeneric 现在支持  $tintmasktexture。
 [*]增加 UnlitGeneric 现在支持 $blendtintbybasealpha。
-[*]增加 rd_drone_flinch_resets_attack 命令供挑战使用。它将爪虫的退缩行为恢复到《异形丛生》（2011）中的样子（即它将取消攻击动画计时器）。
+[*]增加 rd_drone_flinch_resets_attack 命令供挑战使用。它将爪虫的退缩行为恢复到《异形丛生》中的样子（即它将取消攻击动画计时器）。
 [*]增加 asw_filter_incapacitated 命令供作者在 Hammer 编辑器中使用.
 [*]改进 士兵现在最多拥有8191点血量（以前是511点）。
 [*]增加 一个 asw_jukebox 的子选项，使其不会中断玩家提供的战斗音乐，用于设置分阶段战斗音乐。
