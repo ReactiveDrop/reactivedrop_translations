@@ -8,9 +8,9 @@
 | [Dutch](#non-curated-languages) | 51 | 2004 | 42 | 2858 | 200 | 710 | 450 | 145 |
 | [Finnish](#non-curated-languages) | 51 | 2004 | 42 | 2858 | 200 | 710 | 450 | 145 |
 | [French](#french-français) | 27 | 138 | 42 | 2223 | 200 | 650 | 436 | 124 |
-| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 1 |
+| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Hungarian](#non-curated-languages) | 51 | 138 | 42 | 2858 | 200 | 975 | 450 | 146 |
-| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 1 |
+| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 103 | ✔️ | ✔️ |
 | [Korean](#koreana-한국어) | 7 | 10 | 38 | 1354 | 22 | 441 | 436 | 47 |
 | [Norwegian Bokmål](#non-curated-languages) | 69 | 708 | 47 | 3564 | 200 | 710 | 519 | 146 |
@@ -1001,9 +1001,7 @@
 
 </summary>
 
-### Upcoming Release Notes
-
-- [20231101_german.xml](release_notes/20231101_german.xml) has 3 indented lines.
+✓ Up to date!
 
 </details>
 
@@ -1013,9 +1011,7 @@
 
 </summary>
 
-### Upcoming Release Notes
-
-- [20231101_italian.xml](release_notes/20231101_italian.xml) has 2 indented lines.
+✓ Up to date!
 
 </details>
 
