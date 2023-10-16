@@ -9195,7 +9195,7 @@
 "[english]rd_video_vsync_triple_hint"		"Smooth out frame rate by rendering two frames ahead. Slightly increases input latency."
 "rd_video_effect_detail"		"エフェクトの精細度"
 "[english]rd_video_effect_detail"		"Effect Detail"
-"rd_video_effect_detail_hint"		"CPU性能に依存します。衝突するエフェクト、物理制御されたがれきの描写、落下物などに影響します。"
+"rd_video_effect_detail_hint"		"CPU性能に依存します。衝突するエフェクト、物理制御されたがれきの描写、雨や雪などに影響します。"
 "[english]rd_video_effect_detail_hint"		"Affected by CPU (processor) performance. Affects impact effects, physics-controlled debris animations, and precipitation."
 "rd_video_shader_detail"		"シェーダーの精細度"
 "[english]rd_video_shader_detail"		"Shader Detail"
