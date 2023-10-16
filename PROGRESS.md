@@ -1,17 +1,17 @@
 # Overview
 | Language | basemodui | closecaption | gameui | reactivedrop | statsweb | Strings | Inventory | Files |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | ✔️ | 15 | ✔️ | ✔️ | ✔️ | 1 |
+| [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Traditional Chinese](#tchinese-繁體中文) | 9 | 140 | 33 | 2745 | 200 | 236 | 448 | 145 |
 | [Czech](#czech-čeština) | 71 | 1810 | 42 | 3862 | 200 | 980 | 518 | 145 |
 | [Danish](#non-curated-languages) | 52 | 231 | 42 | 3390 | 200 | 710 | 513 | 146 |
 | [Dutch](#non-curated-languages) | 51 | 2004 | 42 | 2858 | 200 | 710 | 450 | 145 |
 | [Finnish](#non-curated-languages) | 51 | 2004 | 42 | 2858 | 200 | 710 | 450 | 145 |
 | [French](#french-français) | 27 | 138 | 42 | 2223 | 200 | 650 | 436 | 124 |
-| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | 10 | ✔️ | ✔️ | ✔️ | 1 |
+| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Hungarian](#non-curated-languages) | 51 | 138 | 42 | 2858 | 200 | 975 | 450 | 146 |
-| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | 5 | ✔️ | ✔️ | ✔️ | 1 |
-| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | 5 | ✔️ | 103 | ✔️ | 1 |
+| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
+| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 103 | ✔️ | 1 |
 | [Korean](#koreana-한국어) | 7 | 10 | 38 | 1354 | 22 | 441 | 436 | 47 |
 | [Norwegian Bokmål](#non-curated-languages) | 69 | 708 | 47 | 3564 | 200 | 710 | 519 | 146 |
 | [Polish](#polish-polski) | 28 | 2004 | 42 | 2858 | 200 | 706 | 450 | 142 |
@@ -40,13 +40,7 @@
 
 </summary>
 
-### Strings
-
-- [reactivedrop_schinese.txt](resource/reactivedrop_schinese.txt) has 15 untranslated strings.
-
-### Upcoming Release Notes
-
-- [20231101_schinese.xml](release_notes/20231101_english.xml) is missing.
+✓ Up to date!
 
 </details>
 
@@ -1005,13 +999,7 @@
 
 </summary>
 
-### Strings
-
-- [reactivedrop_german.txt](resource/reactivedrop_german.txt) has 10 untranslated strings.
-
-### Upcoming Release Notes
-
-- [20231101_german.xml](release_notes/20231101_english.xml) is missing.
+✓ Up to date!
 
 </details>
 
@@ -1021,13 +1009,7 @@
 
 </summary>
 
-### Strings
-
-- [reactivedrop_italian.txt](resource/reactivedrop_italian.txt) has 5 untranslated strings.
-
-### Upcoming Release Notes
-
-- [20231101_italian.xml](release_notes/20231101_english.xml) is missing.
+✓ Up to date!
 
 </details>
 
@@ -1042,7 +1024,6 @@
 - [addons/RiskOfRain/reactivedrop_japanese.txt](addons/RiskOfRain/resource/reactivedrop_japanese.txt) has 1 untranslated strings.
 - [misc/signage/signage_japanese.vdf](misc/signage/signage_japanese.vdf) has 67 untranslated strings.
 - [platform/vgui_japanese.txt](platform/vgui_japanese.txt) has 35 untranslated strings.
-- [reactivedrop_japanese.txt](resource/reactivedrop_japanese.txt) has 5 untranslated strings.
 
 ### Upcoming Release Notes
 
