@@ -1,16 +1,16 @@
 # Overview
 | Language | basemodui | closecaption | gameui | reactivedrop | statsweb | Strings | Inventory | Files |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
+| [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 1 |
 | [Traditional Chinese](#tchinese-繁體中文) | 9 | 140 | 33 | 2745 | 200 | 236 | 448 | 145 |
 | [Czech](#czech-čeština) | 71 | 1810 | 42 | 3862 | 200 | 980 | 518 | 145 |
 | [Danish](#non-curated-languages) | 52 | 231 | 42 | 3390 | 200 | 710 | 513 | 146 |
 | [Dutch](#non-curated-languages) | 51 | 2004 | 42 | 2858 | 200 | 710 | 450 | 145 |
 | [Finnish](#non-curated-languages) | 51 | 2004 | 42 | 2858 | 200 | 710 | 450 | 145 |
 | [French](#french-français) | 27 | 138 | 42 | 2223 | 200 | 650 | 436 | 124 |
-| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
+| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 1 |
 | [Hungarian](#non-curated-languages) | 51 | 138 | 42 | 2858 | 200 | 975 | 450 | 146 |
-| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
+| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 1 |
 | [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 103 | ✔️ | 1 |
 | [Korean](#koreana-한국어) | 7 | 10 | 38 | 1354 | 22 | 441 | 436 | 47 |
 | [Norwegian Bokmål](#non-curated-languages) | 69 | 708 | 47 | 3564 | 200 | 710 | 519 | 146 |
@@ -40,7 +40,9 @@
 
 </summary>
 
-✓ Up to date!
+### Upcoming Release Notes
+
+- [20231101_schinese.xml](release_notes/20231101_schinese.xml) has 2 indented lines.
 
 </details>
 
@@ -999,7 +1001,9 @@
 
 </summary>
 
-✓ Up to date!
+### Upcoming Release Notes
+
+- [20231101_german.xml](release_notes/20231101_german.xml) has 3 indented lines.
 
 </details>
 
@@ -1009,7 +1013,9 @@
 
 </summary>
 
-✓ Up to date!
+### Upcoming Release Notes
+
+- [20231101_italian.xml](release_notes/20231101_italian.xml) has 2 indented lines.
 
 </details>
 
