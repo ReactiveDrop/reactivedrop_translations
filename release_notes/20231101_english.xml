@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <content><string id="body">This month's update contains many features requested by the community.
 
+[h2]New Campaign: Reduction[/h2]
+A remastered version of the Reduction campaign is now available in the game.
+
 [h2]Weapons[/h2]
 [list]
 [*][b]ML30 Laser Trip Mine:[/b] Mines are no longer triggered by invulnerable NPCs, such as scanners.
