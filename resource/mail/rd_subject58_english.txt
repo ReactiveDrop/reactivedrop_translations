@@ -15,7 +15,7 @@ GAME
 "MailBody1F"	"We have a real problem. The patient is behaving very oddly. He has fits of madness more often, and became increasingly violent toward doctors who are on his case. We must take a decision."
 "MailBody1G"	"If it continues like this, it will end up hurting someone, or worse ..."
 "MailBody1H"	"Tuesday, May 26:"
-"MailBody1I"	"The patient has escaped. He wounded two doctors. Many soldiers have started looking for him. They found him in the afternoon, with idle cut and body smeared with blood. We have brought in the medical room, and killed, to undertake further studies. We had to, otherwise it would have degenerated."
+"MailBody1I"	"The patient has escaped. He wounded two doctors. Many soldiers have started looking for him. They found him in the afternoon, with a blank stare and blood smeared over his body. We have brought in the medical room, and killed, to undertake further studies. We had to, otherwise it would have degenerated."
 "MailBody1J"	""
 "MailBody1K"	"= Subject 58: Failed. ="
 "MailBody1L"	""
