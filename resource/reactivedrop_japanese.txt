@@ -6126,7 +6126,7 @@
 "nh_platformXVII_4_title"		"研究施設の入口に到達する"
 "[english]nh_platformXVII_4_title"		"Reach the research facility's entrance"
 "nh_platformXVII_4"		"次の目標があるレールウェイの停留所に進め。"
-"[english]nh_platformXVII_4"		"Proceed to the railway's term where your next objective awaits."
+"[english]nh_platformXVII_4"		"Proceed to the railway's terminal where your next objective awaits."
 "nh_platformXVII_5_title"		"防壁を降ろす"
 "[english]nh_platformXVII_5_title"		"Bring down the barriers"
 "nh_platformXVII_5"		"この先は防壁に阻まれているが、飛び越えようとするのは我慢してくれ。 防壁を降ろして安全に渡るんだ。"
