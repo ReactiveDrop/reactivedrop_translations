@@ -6234,7 +6234,7 @@
 "[english]t5_arcticinfiltration_debrief1"		"Great work, team. We have the generators online so the facility is now fully powered."
 "t5_arcticinfiltration_debrief2"		"Die technische Abteilung der IAF hat einen Blick auf die Daten geworfen, die ihr aus den Computern geholt habt. Es ist ihnen gelungen, Informationen über die Anlage zu extrahieren, darunter auch einen Grundriss der Anlage."
 "[english]t5_arcticinfiltration_debrief2"		"IAF Tech Division had a look at the data you retrieved from the computers. They managed to extract information about the facility inlcuding a layout of it."
-"t5_arcticinfiltration_debrief3"		"Jetzt haben wir eine ziemlich gute Vorstellung davon, wie ihr vorgehen solltet. Mehr Details gibt es im Briefing für den nächsten Einsatz."
+"t5_arcticinfiltration_debrief3"		"Jetzt haben wir eine ziemlich gute Vorstellung davon, wie ihr vorgehen solltet. Mehr Details gibt es in der nächsten Einsatzbesprechung."
 "[english]t5_arcticinfiltration_debrief3"		"Now we have a pretty good idea where you should proceed. More details will be available in the briefing of the next mission."
 "t5_arcticinfiltration_hint"		"Hackt dieses Panel, um die Tür zu öffnen."
 "[english]t5_arcticinfiltration_hint"		"Hack this panel to open the door."
