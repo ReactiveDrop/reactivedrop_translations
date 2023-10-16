@@ -9205,7 +9205,7 @@
 "[english]rd_video_texture_detail"		"Texture Detail"
 "rd_video_texture_detail_hint"		"Beeinflusst die Speicherkapazität und Geschwindigkeit der GPU (Grafikkarte). Beeinflusst die Schärfe der Texturen."
 "[english]rd_video_texture_detail_hint"		"Affected by GPU (graphics card) memory capacity and speed. Affects sharpness of textures."
-"rd_video_anti_aliasing"		"Antialiasing"
+"rd_video_anti_aliasing"		"Kantenglättung"
 "[english]rd_video_anti_aliasing"		"Anti-Aliasing"
 "rd_video_anti_aliasing_hint"		"Glättet gezackte Kanten an Objekten. Die verfügbaren Optionen hängen von deiner Grafikkarte ab."
 "[english]rd_video_anti_aliasing_hint"		"Smooths out jagged edges on objects. Available options depend on your graphics card."

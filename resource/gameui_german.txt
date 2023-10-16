@@ -767,7 +767,7 @@
 "[english]GameUI_Model_Detail"		"Model detail"
 "GameUI_Texture_Detail"		"Texturdetails"
 "[english]GameUI_Texture_Detail"		"Texture detail"
-"GameUI_Antialiasing_Mode"		"Anti-Aliasing-Modus"
+"GameUI_Antialiasing_Mode"		"Kantenglättung"
 "[english]GameUI_Antialiasing_Mode"		"Antialiasing mode"
 "GameUI_Filtering_Mode"		"Filtermodus"
 "[english]GameUI_Filtering_Mode"		"Filtering mode"
