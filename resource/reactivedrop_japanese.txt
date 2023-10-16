@@ -5365,7 +5365,7 @@
 "[english]rd_so_paragraph_grub_4"		"Space suit works. Good news: plenty of oxygen. Bad news: plenty of bugs. The grubs are crawling on my face. I dare not open my mouth for too long, lest my dictation be interrupted by God's worst mouthful. I can feel them writhe and wriggle against my skin. This is my hairshirt, I suppose. I dared to try to save the galaxy with my research into the fascinating world of alien biology, and what do I get for it? Twelve-inch larvae squirming in my underwear while the air turns toxic. I can't wait to reach the escape shuttle and get the hell out of here. The fires are only going to make this place more hostile as time marches relentlessly on. I just have to make my way to Timor Station with grubs in my hermetically sealed pants."
 "rd_so_paragraph_grub_5"		"53年06月20日、17:53\n記録は大体これで終わりね。グラブが生理的に嫌な部分に段々と這い進んでくる事について非生産的な愚痴も沢山あるけど。現時点で言えるのは、彼はこの苦難を生き延びることはできなかった。誰もかもがね。私達は2番デッキでやつの記録を発見したわ。推測するに、彼は最後を迎える前に記録装置を落としてしまったんじゃないかしら。ドローンの爪の形と一致する引っかき傷もあるから、ドローンに襲われた可能性もあるわ。彼の死体は見つからなかったから、食べられてしまったかゴミ処理装置に身投げしたとかそんな所でしょうね。ヤコブの休息地を破滅に追いやった男は自ら引き起こしたエイリアン大発生の比較的早い段階で死んでいて、何も知らない人々が助かる可能性は無かったのね。もし彼が少しでも消火システムを直そうとしたり酸素再利用装置の電源を復旧させようとしていたら、それについての記録が残っていたはずだけど一切それは無かった。グラブが身体の回りで動く事についてのはっきり言って無駄な程詳しい記録が複数あるだけで、一瞬たりとも彼が危険に追いやった人々の事を考えることは無かったみたい。もうこれ以上意見を書く気にはなれないけど、結論ははっきりしてると思うわね。"
 // annotation from Julie Duval
-"[english]rd_so_paragraph_grub_5"		"06/20/53, 17:53\nThe journal more or less ends there. There's a lot of unproductive complaining about grubs squirming into increasingly anatomically unlikely areas. As far as we can tell, he didn't survive the ordeal. No one did. We found his journal abandoned on Deck 2. If I had to guess, I'd say he dropped it shortly before his demise. It's scratched in a way that's consistent with what we know about drone claws, so it's possible he was attacked. We never found a body, so he either got himself devoured or managed to throw himself into the waste disposal or something. The man who doomed Jacob's Rest died relatively quickly to the swarm he unleashed and the innocent people he doomed never had a chance. If he made any effort to repair the fire supression system or restore power to the oxygen scrubbers, there's no record of it anywhere. There are multiple entries outlining the movement of grubs on his body in frankly unnecessary detail, but not a moment's consideration for the people he imperiled. I will resist the temptation to editorialize further, but I hope the conclusion is clear."
+"[english]rd_so_paragraph_grub_5"		"06/20/53, 17:53\nThe journal more or less ends there. There's a lot of unproductive complaining about grubs squirming into increasingly anatomically unlikely areas. As far as we can tell, he didn't survive the ordeal. No one did. We found his journal abandoned on Deck 2. If I had to guess, I'd say he dropped it shortly before his demise. It's scratched in a way that's consistent with what we know about drone claws, so it's possible he was attacked. We never found a body, so he either got himself devoured or managed to throw himself into the waste disposal or something. The man who doomed Jacob's Rest died relatively quickly to the swarm he unleashed and the innocent people he doomed never had a chance. If he made any effort to repair the fire suppression system or restore power to the oxygen scrubbers, there's no record of it anywhere. There are multiple entries outlining the movement of grubs on his body in frankly unnecessary detail, but not a moment's consideration for the people he imperiled. I will resist the temptation to editorialize further, but I hope the conclusion is clear."
 "rd_so_paragraph_grub_6"		"53年06月20日、23:01\n身投げするなら燃えるゴミは月・水・金よ、ショーン。クソ喰らえ。"
 // annotation from Helvetica Scenario, who is (justifiably) very angry and is being dragged away from the keyboard by Julie Duval.
 // "rest in pieces" is a play on "rest in peace". "Rest In Peace" (often shortened to RIP, originally the Latin "requiescat in pace") is the stereotypical thing to say when someone dies, often seen written on gravestones and the like. "Rest in pieces" is a pun, here used to disrespect the dead (who may or may not have literally been torn to pieces)
@@ -6075,11 +6075,11 @@
 "[english]rd_branch_disclaimer_bugtest"		"The \"bugtest\" version is for reproducing bugs that have already been mitigated.\nIf you are here to play the game or to test new features, please change versions.\nThis version does not receive regular updates."
 "rd_branch_disclaimer_releasecandidate"		"これはAlien Swarm: Reactive Dropのリリース候補版です。\nリリースの目処が立っている場合、このバージョンはベータ版と基本的に同じ物になりますが、\n一部の開発中の機能は無効化された状態になっています。"
 "[english]rd_branch_disclaimer_releasecandidate"		"This is the release candidate version of Alien Swarm: Reactive Drop.\nWhen a release is scheduled, this version is equivalent to the beta version,\nbut with some features that are currently in development turned off."
-		"rd_beta_coming_soon"		"Coming Soon!"
-		// displayed when accessing a menu that is not yet ready for testing in beta
-		"[english]rd_beta_coming_soon"		"Coming Soon!"
-		"rd_beta_coming_soon_desc"		"This feature will be added in a future update."
-		"[english]rd_beta_coming_soon_desc"		"This feature will be added in a future update."
+"rd_beta_coming_soon"		"近日実装予定！"
+// displayed when accessing a menu that is not yet ready for testing in beta
+"[english]rd_beta_coming_soon"		"Coming Soon!"
+"rd_beta_coming_soon_desc"		"この機能は将来のアップデートで追加される予定です。"
+"[english]rd_beta_coming_soon_desc"		"This feature will be added in a future update."
 "rd_commander_profile"		"プレイヤーのプロフィール"
 "[english]rd_commander_profile"		"COMMANDER PROFILE"
 "nh_logisticsarea_1_title"		"搬入口をハッキングして通る"
@@ -8480,13 +8480,13 @@
 "[english]rd_loadout_load"		"Copy To Current"
 "rd_loadout_delete"		"装備セットを削除"
 "[english]rd_loadout_delete"		"Delete Loadout"
-		"rd_loadout_view_on_workshop"		"View on Workshop"
-		// button that opens the workshop page for a downloaded loadout
-		"[english]rd_loadout_view_on_workshop"		"View on Workshop"
-		"rd_loadout_browse_workshop"		"Find loadouts on the Steam Workshop"
-		"[english]rd_loadout_browse_workshop"		"Find loadouts on the Steam Workshop"
-		"rd_loadout_share_start"		"Share Loadouts"
-		"[english]rd_loadout_share_start"		"Share Loadouts"
+"rd_loadout_view_on_workshop"		"ワークショップのページを開く"
+// button that opens the workshop page for a downloaded loadout
+"[english]rd_loadout_view_on_workshop"		"View on Workshop"
+"rd_loadout_browse_workshop"		"Steamワークショップで装備セットを探す"
+"[english]rd_loadout_browse_workshop"		"Find loadouts on the Steam Workshop"
+"rd_loadout_share_start"		"装備セットを共有する"
+"[english]rd_loadout_share_start"		"Share Loadouts"
 "rd_loadout_delete_title"		"装備セット『%s1』を削除しますか？"
 "[english]rd_loadout_delete_title"		"Delete loadout '%s1'?"
 "rd_loadout_delete_desc"		"本当にこの装備セットを削除しますか？ これに含まれるアイテムは残りますが、装備セットの名称とどのアイテムを選択したかのリストは完全に削除されます。"
