@@ -8,7 +8,7 @@
 | [Dutch](#non-curated-languages) | 51 | 2004 | 42 | 2911 | 200 | 710 | 456 | 145 |
 | [Finnish](#non-curated-languages) | 51 | 2004 | 42 | 2911 | 200 | 710 | 456 | 145 |
 | [French](#french-français) | 27 | 138 | 42 | 2276 | 200 | 650 | 442 | 124 |
-| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 2 | ✔️ |
+| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Hungarian](#non-curated-languages) | 51 | 138 | 42 | 2911 | 200 | 975 | 456 | 146 |
 | [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | 53 | ✔️ | ✔️ | 4 | ✔️ |
 | [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 103 | 2 | ✔️ |
@@ -25,7 +25,7 @@
 | [Thai](#non-curated-languages) | 966 | 1993 | 50 | 4158 | 200 | 739 | 535 | 146 |
 | [Turkish](#non-curated-languages) | 51 | 137 | 42 | 2911 | 200 | 975 | 456 | 146 |
 | [Ukrainian](#ukrainian-українська) | 27 | 131 | 32 | 2454 | 200 | 928 | 450 | 145 |
-| [Vietnamese](#vietnamese-tiếng-việt) | 1281 | 2004 | 628 | 3379 | 200 | 861 | 538 | 113 |
+| [Vietnamese](#vietnamese-tiếng-việt) | 1281 | 2004 | 628 | 3340 | 200 | 540 | 538 | 112 |
 ### Legend
 - ***Non-capitalized column headers*** are the most important specific files and their number of missing strings. All of these txt-files are located in the resources folder. Except statsweb, which lies in community/stats_website, it's an vdf-file.
 - ***Strings*** is the number of missing strings not included in one of the files which get an individual non-capitalized column.
@@ -1005,9 +1005,7 @@
 
 </summary>
 
-### Inventory Schema
-
-- Item 42 "Air Time" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_german`, `description_german`
+✓ Up to date!
 
 </details>
 
@@ -3073,19 +3071,13 @@
 
 - [addons/RiskOfRain/reactivedrop_vietnamese.txt](addons/RiskOfRain/resource/reactivedrop_vietnamese.txt) has 95 untranslated strings.
 - [statsweb_vietnamese.vdf](community/stats_website/statsweb_vietnamese.vdf) has 200 untranslated strings.
-- [steam_input_vietnamese.vdf](community/steam_input/steam_input_vietnamese.vdf) has 97 untranslated strings.
-- [misc/signage/signage_vietnamese.vdf](misc/signage/signage_vietnamese.vdf) has 69 untranslated strings.
+- [misc/signage/signage_vietnamese.vdf](misc/signage/signage_vietnamese.vdf) has 29 untranslated strings.
 - [platform/servers/serverbrowser_vietnamese.txt](platform/servers/serverbrowser_vietnamese.txt) has 186 untranslated strings.
-- [platform/vgui_vietnamese.txt](platform/vgui_vietnamese.txt) has 184 untranslated strings.
 - [basemodui_vietnamese.txt](resource/basemodui_vietnamese.txt) has 1281 untranslated strings.
 - [closecaption_vietnamese.txt](resource/closecaption_vietnamese.txt) has 2004 untranslated strings.
 - [gameui_vietnamese.txt](resource/gameui_vietnamese.txt) has 628 untranslated strings.
-- [reactivedrop_vietnamese.txt](resource/reactivedrop_vietnamese.txt) has 3379 untranslated strings.
+- [reactivedrop_vietnamese.txt](resource/reactivedrop_vietnamese.txt) has 3340 untranslated strings.
 - [valve_vietnamese.txt](resource/valve_vietnamese.txt) has 230 untranslated strings.
-
-### Steam Store and Community
-
-- [app_items_563560_vietnamese.json](community/points_shop/app_items_563560_english.json) is missing.
 
 ### Upcoming Release Notes
 
