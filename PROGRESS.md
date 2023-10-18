@@ -1,7 +1,7 @@
 # Overview
 | Language | basemodui | closecaption | gameui | reactivedrop | statsweb | Strings | Inventory | Files |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | ✔️ | 53 | ✔️ | ✔️ | 5 | 1 |
+| [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 3 | 1 |
 | [Traditional Chinese](#tchinese-繁體中文) | 9 | 140 | 33 | 2798 | 200 | 236 | 454 | 145 |
 | [Czech](#czech-čeština) | 71 | 1810 | 42 | 3915 | 200 | 980 | 524 | 145 |
 | [Danish](#non-curated-languages) | 52 | 231 | 42 | 3443 | 200 | 710 | 519 | 146 |
@@ -40,17 +40,12 @@
 
 </summary>
 
-### Strings
-
-- [reactivedrop_schinese.txt](resource/reactivedrop_schinese.txt) has 53 untranslated strings.
-
 ### Upcoming Release Notes
 
 - [20231101_schinese.xml](release_notes/20231101_schinese.xml) has 2 indented lines.
 
 ### Inventory Schema
 
-- Item 41 "Reduction Veteran" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_schinese`, `description_schinese`
 - Item 42 "Air Time" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_schinese`, `description_schinese`, `display_type_schinese`
 
 </details>
