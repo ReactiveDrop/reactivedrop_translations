@@ -37,7 +37,7 @@
 "[english]materials/ocs/medusa_logo.vmt"		"USC MEDUSA\nIAF XR12-7"
 "materials/ocs/medusa_sign02_alpha.vmt"		"USC MEDUSA\nXR12-7"
 "[english]materials/ocs/medusa_sign02_alpha.vmt"		"USC MEDUSA\nXR12-7"
-"materials/ocs/medusa_signs.vmt"		"MÁY PHẢN ỨNG\nTHANG MÁY\nCÂY CẦU\nTIÊU KHIỂN\Y TẾ"
+"materials/ocs/medusa_signs.vmt"		"MÁY PHẢN ỨNG\nTHANG MÁY\nCÂY CẦU\nTIÊU KHIỂN\nY TẾ"
 "[english]materials/ocs/medusa_signs.vmt"		"REACTOR\nELEVATOR\nBRIDGE\nRECREATION\nMEDICAL"
 "materials/ocs/ocs_landingbay.vmt"		"BẾN HẠ CÁNH [5]\nBẾN HẠ CÁNH [6]\nBẾN HẠ CÁNH [7]"
 // this texture is displayed rotated 90 degrees so the text is going vertically up and the part in brackets is in a box at the top laid out normally.
@@ -54,7 +54,7 @@
 "[english]materials/overlays/landing_area1.vmt"		"H"
 		"materials/overlays/watchyourstep.vmt"		"WATCH YOUR STEP"
 		"[english]materials/overlays/watchyourstep.vmt"		"WATCH YOUR STEP"
-"materials/signage/bts_sign_authorizedonly_01.vmt"		"CHỈ CHO NHÂN VIÊN\ĐƯỢC ỦY QUYỀN"
+"materials/signage/bts_sign_authorizedonly_01.vmt"		"CHỈ CHO NHÂN VIÊN\nĐƯỢC ỦY QUYỀN"
 "[english]materials/signage/bts_sign_authorizedonly_01.vmt"		"AUTHORIZED\nPERSONNEL ONLY"
 "materials/signage/bts_sign_caution_01.vmt"		"CẢNH CÁO"
 "[english]materials/signage/bts_sign_caution_01.vmt"		"CAUTION"
