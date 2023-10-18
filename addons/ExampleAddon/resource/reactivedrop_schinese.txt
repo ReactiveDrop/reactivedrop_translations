@@ -9,7 +9,7 @@
 "[english]examplecampaign_desc"		"IAF command would like to welcome you to the Example Campaign. Please use this example to make us proud."
 "examplecampaign_entry_title"		"入口点"
 "[english]examplecampaign_entry_title"		"Entry Port"
-"examplecampaign_entry_desc"		"猎血犬号飞船将在这些坐标进入大气层并前往主要目标。"
+"examplecampaign_entry_desc"		"猎血犬号运输舰将在这些坐标进入大气层并前往主要目标。"
 "[english]examplecampaign_entry_desc"		"Dropship Bloodhound will enter atmosphere at these co-ordinates and proceed to primary objective."
 "examplecampaign_mission1_title"		"示例任务1"
 "[english]examplecampaign_mission1_title"		"Example Mission 1"
