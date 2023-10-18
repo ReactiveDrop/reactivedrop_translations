@@ -8,7 +8,7 @@
 | [Dutch](#non-curated-languages) | 51 | 2004 | 42 | 2911 | 200 | 710 | 453 | 145 |
 | [Finnish](#non-curated-languages) | 51 | 2004 | 42 | 2911 | 200 | 710 | 453 | 145 |
 | [French](#french-français) | 27 | 138 | 42 | 2276 | 200 | 650 | 439 | 124 |
-| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | 53 | ✔️ | ✔️ | 2 | ✔️ |
+| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Hungarian](#non-curated-languages) | 51 | 138 | 42 | 2911 | 200 | 975 | 453 | 146 |
 | [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | 53 | ✔️ | ✔️ | 2 | ✔️ |
 | [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | 53 | ✔️ | 103 | 2 | ✔️ |
@@ -1012,13 +1012,7 @@
 
 </summary>
 
-### Strings
-
-- [reactivedrop_german.txt](resource/reactivedrop_german.txt) has 53 untranslated strings.
-
-### Inventory Schema
-
-- Item 41 "Reduction Veteran" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_german`, `description_german`
+✓ Up to date!
 
 </details>
 
