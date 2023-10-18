@@ -15,7 +15,7 @@
 | [Korean](#koreana-한국어) | 7 | 10 | 38 | 1407 | 22 | 441 | 442 | 47 |
 | [Norwegian Bokmål](#non-curated-languages) | 69 | 708 | 47 | 3617 | 200 | 710 | 525 | 146 |
 | [Polish](#polish-polski) | 28 | 2004 | 42 | 2911 | 200 | 706 | 456 | 142 |
-| [European Portuguese](#portuguese-português-europeu) | ✔️ | 180 | 32 | 2036 | 21 | 628 | 465 | 140 |
+| [European Portuguese](#portuguese-português-europeu) | ✔️ | 180 | 32 | 1999 | 21 | 628 | 465 | 140 |
 | [Brazilian Portuguese](#brazilian-português) | 2 | 2004 | 32 | 1170 | 9 | 276 | 223 | 7 |
 | [Romanian](#non-curated-languages) | 51 | 1996 | 48 | 3622 | 200 | 975 | 502 | 146 |
 | [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | 53 | ✔️ | ✔️ | 4 | 1 |
@@ -1607,7 +1607,7 @@
 - [platform/vgui_portuguese.txt](platform/vgui_portuguese.txt) has 93 untranslated strings.
 - [closecaption_portuguese.txt](resource/closecaption_portuguese.txt) has 180 untranslated strings.
 - [gameui_portuguese.txt](resource/gameui_portuguese.txt) has 32 untranslated strings.
-- [reactivedrop_portuguese.txt](resource/reactivedrop_portuguese.txt) has 2036 untranslated strings.
+- [reactivedrop_portuguese.txt](resource/reactivedrop_portuguese.txt) has 1999 untranslated strings.
 - [valve_portuguese.txt](resource/valve_portuguese.txt) has 266 untranslated strings.
 
 ### Steam Store and Community
