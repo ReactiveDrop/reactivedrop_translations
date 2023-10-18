@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<content><string id="body">This month's update contains many features requested by the community.
+
+[h2]New Campaign: Reduction[/h2]
+A remastered version of the Reduction campaign is now available in the game.
+
+[h2]Weapons[/h2]
+[list]
+[*][b]ML30 Laser Trip Mine:[/b] Mines are no longer triggered by invulnerable NPCs, such as scanners.
+[*][b]Grenade Launcher:[/b] Shots aimed far below the marine will now arc differently to avoid hitting the edge of the platform the marine is standing on.
+[*]Aim-assisted weapons no longer target scanners.
+[*]Marines can now safely roll through all bullets, even those fired by non-marines.
+[/list]
+
+[h2]Menus[/h2]
+[list]
+[*]Many graphical advanced settings, including precipitation, dynamic lighting, and alien shadows, are now stored only on your machine and are no longer synchronized to the Steam Cloud, matching the behavior of the main shader quality, texture quality, and antialiasing options.
+[*]Commanders can now equip up to three medals at once.
+[*]Updated the main menu public lobby preview to show all servers regardless of Steam group. Added icons for Heroes of the Interstellar Armed Forces servers.
+[*]Items with multiple styles, such as medals from recent seasons of Heroes of the Interstellar Armed Forces, can now have their appearance changed in the Collections screen.
+[*]Lobby hosts can now lock various settings via the convars rd_lock_difficulty, rd_lock_onslaught, rd_lock_hardcoreff, and rd_lock_challenge.
+[*]Improved interaction targeting for computers and panels so it is easier to hack while a dropped weapon is nearby.
+[/list]
+
+[h2]Mapping / Modding[/h2]
+[list]
+[*]Added six new convars that allow co-op challenges to control the maximum number of marines in a squad: asw_marines_max (default 8), asw_marines_max_per_profile (default 1), asw_marines_max_officer (default 2), asw_marines_max_special_weapons (default 2), asw_marines_max_medic (default 2), and asw_marines_max_tech (default 2).
+[*]Fixed the SecondaryBullets Hammer keyvalue affecting primary ammo on asw_weapon entities.
+[*]Added support for $tintmasktexture to VertexLitGeneric and UnlitGeneric.
+[*]Added support for $blendtintbybasealpha to UnlitGeneric.
+[*]Added rd_drone_flinch_resets_attack for use in challenges. It returns drone flinching behavior to how it was in Alien Swarm, where it would cancel attack animation timers.
+[*]Added asw_filter_incapacitated for use in Hammer.
+[*]Marines can now display health up to 8191 (previously, the limit was 511).
+[*]Added an option to asw_jukebox to make it not interrupt player-supplied combat music, for use in multi-part combat music.
+[*]Marine skill points can now be reassigned via convars (eg. asw_marine_skill_sarge_0).
+[*]Added rd_chainsaw_idle_sound for challenges that want to disable the chainsaw idle sound.
+[/list]
+
+[h2]Controller[/h2]
+[list]
+[*]Fixed a case where controller button prompts would still be shown in -nojoy mode.
+[*]Fixed the controller options screen being accessible from the pause menu when no controller was connected.
+[/list]
+
+[h2]Dedicated Servers[/h2]
+[list]
+[*]Added a message to the srcds server log when marines deal friendly fire to each other.
+[*]Dedicated servers will now exit at the end of the level if the server list coordinator indicates that an update is available. (rd_server_restart_on_update)
+[*]Improved reliability of sv_memlimit for dedicated servers.
+[/list]
+
+[h2]Deathmatch[/h2]
+[list]
+[*]Changing a marine or marine resource's team using VScript or entity inputs will now also change the team of the other entity.
+[*]Team deathmatch loadouts no longer update when picking up a weapon from the ground.
+[*]Equipment items that are visible when equipped now inherit the marine's team deathmatch team color.
+[/list]
+</string><string id="subtitle"></string><string id="summary"></string><string id="title">Alien Swarm: Reactive Drop Update - November 1, 2023</string></content>
