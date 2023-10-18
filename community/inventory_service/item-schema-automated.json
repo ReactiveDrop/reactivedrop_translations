@@ -1267,6 +1267,19 @@
 			"tags": "rarity:common;slot:medal",
 			"promo": "ach:RD_CAMPAIGN_NO_DEATHS_REDUCTION",
 			"item_slot": "medal"
+		},
+		{
+			"itemdefid": 42,
+			"type": "item",
+			"name_english": "Air Time",
+			"description_english": "Thrown in the air by the giant worm in Operation Sandstorm.\n\n[color=#bfbfbf]Worms Touched: %strange_42%\n[i]Stats are only updated while this item is equipped.[/i][/color]",
+			"display_type_english": "Medal",
+			"icon_url": "https://stats.reactivedrop.com/static/items/42.png",
+			"name_color": "CF6A32",
+			"tags": "rarity:strange_rarity;slot:medal;strange:42",
+			"promo": "manual",
+			"granted_manually": true,
+			"item_slot": "medal"
 		}
 	]
 }
