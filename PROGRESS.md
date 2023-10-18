@@ -1,24 +1,24 @@
 # Overview
 | Language | basemodui | closecaption | gameui | reactivedrop | statsweb | Strings | Inventory | Files |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 3 | 1 |
+| [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Traditional Chinese](#tchinese-繁體中文) | 9 | 140 | 33 | 2798 | 200 | 236 | 454 | 145 |
 | [Czech](#czech-čeština) | 71 | 1810 | 42 | 3915 | 200 | 980 | 524 | 145 |
 | [Danish](#non-curated-languages) | 52 | 231 | 42 | 3443 | 200 | 710 | 519 | 146 |
 | [Dutch](#non-curated-languages) | 51 | 2004 | 42 | 2911 | 200 | 710 | 456 | 145 |
 | [Finnish](#non-curated-languages) | 51 | 2004 | 42 | 2911 | 200 | 710 | 456 | 145 |
 | [French](#french-français) | 27 | 138 | 42 | 2276 | 200 | 650 | 442 | 124 |
-| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 3 | ✔️ |
+| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 2 | ✔️ |
 | [Hungarian](#non-curated-languages) | 51 | 138 | 42 | 2911 | 200 | 975 | 456 | 146 |
-| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | 53 | ✔️ | ✔️ | 5 | ✔️ |
-| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 103 | 3 | ✔️ |
+| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | 53 | ✔️ | ✔️ | 4 | ✔️ |
+| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 103 | 2 | ✔️ |
 | [Korean](#koreana-한국어) | 7 | 10 | 38 | 1407 | 22 | 441 | 442 | 47 |
 | [Norwegian Bokmål](#non-curated-languages) | 69 | 708 | 47 | 3617 | 200 | 710 | 525 | 146 |
 | [Polish](#polish-polski) | 28 | 2004 | 42 | 2911 | 200 | 706 | 456 | 142 |
 | [European Portuguese](#portuguese-português-europeu) | ✔️ | 180 | 32 | 2036 | 21 | 628 | 465 | 140 |
-| [Brazilian Portuguese](#brazilian-português) | 2 | 2004 | 32 | 1170 | 9 | 276 | 224 | 7 |
+| [Brazilian Portuguese](#brazilian-português) | 2 | 2004 | 32 | 1170 | 9 | 276 | 223 | 7 |
 | [Romanian](#non-curated-languages) | 51 | 1996 | 48 | 3622 | 200 | 975 | 502 | 146 |
-| [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | 53 | ✔️ | ✔️ | 5 | 1 |
+| [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | 53 | ✔️ | ✔️ | 4 | 1 |
 | [European Spanish](#spanish-español-de-españa) | 28 | 2004 | 40 | 2326 | 200 | 714 | 452 | 145 |
 | [Latin American Spanish](#latam-español-latinoamericano) | 1281 | 2004 | 634 | 4422 | 204 | 980 | 538 | 146 |
 | [Swedish](#non-curated-languages) | 51 | 2004 | 42 | 2911 | 200 | 710 | 456 | 146 |
@@ -40,13 +40,7 @@
 
 </summary>
 
-### Upcoming Release Notes
-
-- [20231101_schinese.xml](release_notes/20231101_schinese.xml) has 2 indented lines.
-
-### Inventory Schema
-
-- Item 42 "Air Time" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_schinese`, `description_schinese`, `display_type_schinese`
+✓ Up to date!
 
 </details>
 
@@ -1013,7 +1007,7 @@
 
 ### Inventory Schema
 
-- Item 42 "Air Time" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_german`, `description_german`, `display_type_german`
+- Item 42 "Air Time" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_german`, `description_german`
 
 </details>
 
@@ -1030,7 +1024,7 @@
 ### Inventory Schema
 
 - Item 41 "Reduction Veteran" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_italian`, `description_italian`
-- Item 42 "Air Time" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_italian`, `description_italian`, `display_type_italian`
+- Item 42 "Air Time" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_italian`, `description_italian`
 
 </details>
 
@@ -1048,7 +1042,7 @@
 
 ### Inventory Schema
 
-- Item 42 "Air Time" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_japanese`, `description_japanese`, `display_type_japanese`
+- Item 42 "Air Time" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_japanese`, `description_japanese`
 
 </details>
 
@@ -1976,7 +1970,7 @@
 - Item 38 "Top 20 - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `description_brazilian`, `style_0_name_brazilian`, `style_1_name_brazilian`
 - Item 40 "Steam SHMUP Fest 2023" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_brazilian`, `description_brazilian`
 - Item 41 "Reduction Veteran" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_brazilian`, `description_brazilian`
-- Item 42 "Air Time" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_brazilian`, `description_brazilian`, `display_type_brazilian`
+- Item 42 "Air Time" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_brazilian`, `description_brazilian`
 - Item 29 "Streamer" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_brazilian`, `description_brazilian`
 - Item 39 "Mapping Competition Participant (2023)" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_brazilian`, `description_brazilian`
 - Item 100000010 "Donor: Dmitriy" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_brazilian`, `description_brazilian`, `ingame_description_brazilian`
@@ -2087,7 +2081,7 @@
 ### Inventory Schema
 
 - Item 41 "Reduction Veteran" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_russian`, `description_russian`
-- Item 42 "Air Time" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_russian`, `description_russian`, `display_type_russian`
+- Item 42 "Air Time" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_russian`, `description_russian`
 
 </details>
 
