@@ -10,7 +10,7 @@
 | [French](#french-français) | 27 | 138 | 42 | 2276 | 200 | 650 | 442 | 124 |
 | [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Hungarian](#non-curated-languages) | 51 | 138 | 42 | 2911 | 200 | 975 | 456 | 146 |
-| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | 53 | ✔️ | ✔️ | 4 | ✔️ |
+| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 103 | ✔️ | ✔️ |
 | [Korean](#koreana-한국어) | 7 | 10 | 38 | 1407 | 22 | 441 | 442 | 47 |
 | [Norwegian Bokmål](#non-curated-languages) | 69 | 708 | 47 | 3617 | 200 | 710 | 525 | 146 |
@@ -1015,14 +1015,7 @@
 
 </summary>
 
-### Strings
-
-- [reactivedrop_italian.txt](resource/reactivedrop_italian.txt) has 53 untranslated strings.
-
-### Inventory Schema
-
-- Item 41 "Reduction Veteran" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_italian`, `description_italian`
-- Item 42 "Air Time" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_italian`, `description_italian`
+✓ Up to date!
 
 </details>
 
