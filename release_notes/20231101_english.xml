@@ -4,9 +4,17 @@
 [h2]New Campaign: Reduction[/h2]
 A remastered version of the Reduction campaign is now available in the game.
 
+[h2]Official Missions[/h2]
+[list]
+[*][b]Tears for Tarnor: Oasis Colony Spaceport:[/b] Fixed specific walls becoming invisible after aliens spawned from certain locations.
+[*][b]Tears for Tarnor: Oasis Colony Spaceport:[/b] Improved graphics when playing in first or third person.
+[*][b]BioGen Corporation: BioGen Labs:[/b] Updated the graphical style of the mission.
+[/list]
+
 [h2]Weapons[/h2]
 [list]
 [*][b]ML30 Laser Trip Mine:[/b] Mines are no longer triggered by invulnerable NPCs, such as scanners.
+[*][b]Chainsaw:[/b] Fixed firing sound persisting after marine death.
 [*][b]Grenade Launcher:[/b] Shots aimed far below the marine will now arc differently to avoid hitting the edge of the platform the marine is standing on.
 [*]Aim-assisted weapons no longer target scanners.
 [*]Marines can now safely roll through all bullets, even those fired by non-marines.
@@ -34,6 +42,8 @@ A remastered version of the Reduction campaign is now available in the game.
 [*]Added an option to asw_jukebox to make it not interrupt player-supplied combat music, for use in multi-part combat music.
 [*]Marine skill points can now be reassigned via convars (eg. asw_marine_skill_sarge_0).
 [*]Added rd_chainsaw_idle_sound for challenges that want to disable the chainsaw idle sound.
+[*]Fixed certain mapper-placed Antlion Guards and Antlion Guardians not unlocking the Swarmopedia entry when killed.
+[*]Fixed a pathfinding crash caused by incorrect initialization of info_node_link.
 [/list]
 
 [h2]Controller[/h2]

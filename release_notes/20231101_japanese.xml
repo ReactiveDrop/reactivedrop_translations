@@ -4,6 +4,13 @@
 [h2]新キャンペーン: Reduction[/h2]
 あのReductionキャンペーンのリマスター版が新登場です。
 
+		[h2]Official Missions[/h2]
+		[list]
+		[*][b]Tears for Tarnor: Oasis Colony Spaceport:[/b] Fixed specific walls becoming invisible after aliens spawned from certain locations.
+		[*][b]Tears for Tarnor: Oasis Colony Spaceport:[/b] Improved graphics when playing in first or third person.
+		[*][b]BioGen Corporation: BioGen Labs:[/b] Updated the graphical style of the mission.
+		[/list]
+
 [h2]武器[/h2]
 [list]
 [*][b]ML30 レーザー検知地雷:[/b] 地雷はスキャナーのような無敵NPC相手に起動しなくなった。
@@ -34,6 +41,8 @@
 [*]プレイヤーが追加した戦闘用BGMが中断されないようになるオプションをasw_jukeboxに追加した。複数パートに分かれた戦闘用BGMに使える。
 [*]隊員のスキルポイントはコンソール変数を使用して変更できるようになった(例：asw_marine_skill_sarge_0)。
 [*]チェーンソーの待機時の音を消したいチャレンジ用にrd_chainsaw_idle_soundを追加。
+		[*]Fixed certain mapper-placed Antlion Guards and Antlion Guardians not unlocking the Swarmopedia entry when killed.
+		[*]Fixed a pathfinding crash caused by incorrect initialization of info_node_link.
 [/list]
 
 [h2]コントローラー[/h2]

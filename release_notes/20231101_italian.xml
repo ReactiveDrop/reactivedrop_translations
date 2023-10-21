@@ -4,6 +4,13 @@
 [h2]Nuova Campagna: Reduction[/h2]
 Una versione rimasterizzata della campagna Reduction è ora disponibile nel gioco.
 
+		[h2]Official Missions[/h2]
+		[list]
+		[*][b]Tears for Tarnor: Oasis Colony Spaceport:[/b] Fixed specific walls becoming invisible after aliens spawned from certain locations.
+		[*][b]Tears for Tarnor: Oasis Colony Spaceport:[/b] Improved graphics when playing in first or third person.
+		[*][b]BioGen Corporation: BioGen Labs:[/b] Updated the graphical style of the mission.
+		[/list]
+
 [h2]Armi[/h2]
 [list]
 [*][b]Mina Laser ML30:[/b] Le mine non vengono più attivate dai PNG invulnerabili, come gli scanner.
@@ -34,6 +41,8 @@ Una versione rimasterizzata della campagna Reduction è ora disponibile nel gioc
 [*]Aggiunta un'opzione ad asw_jukebox per non interrompere la musica di combattimento fornita dal giocatore, per l'uso di musica di combattimento in più parti.
 [*]I punti abilità dei soldati possono ora essere riassegnati tramite convars (es. asw_marine_skill_sarge_0).
 [*]Aggiunto rd_chainsaw_idle_sound per le sfide che vogliono disabilitare il suono idle della motosega.
+		[*]Fixed certain mapper-placed Antlion Guards and Antlion Guardians not unlocking the Swarmopedia entry when killed.
+		[*]Fixed a pathfinding crash caused by incorrect initialization of info_node_link.
 [/list]
 
 [h2]Controller[/h2]

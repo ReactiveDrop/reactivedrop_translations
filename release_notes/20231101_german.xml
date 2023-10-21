@@ -4,6 +4,13 @@
 [h2]Neuer Feldzug: Reduktion[/h2]
 Eine überarbeitete Version des Feldzugs Reduktion ist jetzt im Spiel verfügbar.
 
+		[h2]Official Missions[/h2]
+		[list]
+		[*][b]Tears for Tarnor: Oasis Colony Spaceport:[/b] Fixed specific walls becoming invisible after aliens spawned from certain locations.
+		[*][b]Tears for Tarnor: Oasis Colony Spaceport:[/b] Improved graphics when playing in first or third person.
+		[*][b]BioGen Corporation: BioGen Labs:[/b] Updated the graphical style of the mission.
+		[/list]
+
 [h2]Waffen[/h2]
 [list]
 [*][b]ML30 Laser Haftminen:[/b] Minen werden nicht mehr von unverwundbaren NSCs wie Scannern ausgelöst.
@@ -34,6 +41,8 @@ Eine überarbeitete Version des Feldzugs Reduktion ist jetzt im Spiel verfügbar
 [*]Es wurde eine Option zu asw_jukebox hinzugefügt, die dafür sorgt, dass die vom Spieler bereitgestellte Kampfmusik nicht unterbrochen wird, um Multi-Part Kampfmusik zu verwenden.
 [*]Skillpunkte können jetzt über Convars neu zugewiesen werden (z.B. asw_marine_skill_sarge_0).
 [*]rd_chainsaw_idle_sound wurde für Herausforderungen hinzugefügt, bei denen der Kettensägenleerlaufsound deaktiviert werden soll.
+		[*]Fixed certain mapper-placed Antlion Guards and Antlion Guardians not unlocking the Swarmopedia entry when killed.
+		[*]Fixed a pathfinding crash caused by incorrect initialization of info_node_link.
 [/list]
 
 [h2]Controller[/h2]

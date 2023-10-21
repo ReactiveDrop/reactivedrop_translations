@@ -4,6 +4,13 @@
 [h2]新战役：无家可归[/h2]
 重制版战役：无家可归，现已可玩！
 
+		[h2]Official Missions[/h2]
+		[list]
+		[*][b]Tears for Tarnor: Oasis Colony Spaceport:[/b] Fixed specific walls becoming invisible after aliens spawned from certain locations.
+		[*][b]Tears for Tarnor: Oasis Colony Spaceport:[/b] Improved graphics when playing in first or third person.
+		[*][b]BioGen Corporation: BioGen Labs:[/b] Updated the graphical style of the mission.
+		[/list]
+
 [h2]武器[/h2]
 [list]
 [*]改进 [b]ML30激光式跳雷:[/b] 无敌单位（如扫描装置）将不再触发地雷。
@@ -34,6 +41,8 @@
 [*]增加 一个 asw_jukebox 的子选项，使其不会中断玩家提供的战斗音乐，用于设置分阶段战斗音乐。
 [*]增加 现在可以通过控制台命令重新分配士兵技能点（例如 asw_marine_skill_sarge_0）。
 [*]增加 rd_chainsaw_idle_sound 命令供希望禁用电锯空闲音效的挑战使用。
+		[*]Fixed certain mapper-placed Antlion Guards and Antlion Guardians not unlocking the Swarmopedia entry when killed.
+		[*]Fixed a pathfinding crash caused by incorrect initialization of info_node_link.
 [/list]
 
 [h2]控制器[/h2]
