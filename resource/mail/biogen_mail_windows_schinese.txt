@@ -1,0 +1,9 @@
+// PDA belongs to Isaac Lezeas (pun = Isaac Lazyass)
+GAME
+{
+"MailFrom1"	"发件人：任 卢布"
+"MailDate1"	"日期：不详"
+"MailSubject1"	"主题：维修间"
+"MailBody1A"	"我很认真的通知您，每天的玻璃更换成本过高，长此以往我们就要被迫挪用新项目预算填这个窟窿了。你要么做一扇合格的门，要么你和你的团队集体降薪，拿薪水自己填窟窿！"
+"MailBody1B"	"- 顺颂事祺， 生物基因公司管理层"
+}
