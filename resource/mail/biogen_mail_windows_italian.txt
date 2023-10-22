@@ -1,0 +1,9 @@
+// PDA belongs to Isaac Lezeas (pun = Isaac Lazyass)
+GAME
+{
+"MailFrom1"	"Da: Ren Ruble"
+"MailDate1"	"Data: Sconosciuto"
+"MailSubject1"	"Oggetto: Sale Manutenzione"
+"MailBody1A"	"Non è più divertente. Il costo giornaliero della sostituzione dei vetri sta affossando il nostro budget per i nuovi progetti. Crea una porta adeguata o il tuo team subirà un taglio di stipendio!"
+"MailBody1B"	"- Con molto amore, la Direzione della BioGen"
+}
