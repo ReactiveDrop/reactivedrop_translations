@@ -1,7 +1,7 @@
 # Overview
 | Language | basemodui | closecaption | gameui | reactivedrop | statsweb | Strings | Inventory | Files |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | ✔️ | 1 | ✔️ | ✔️ | ✔️ | 1 |
+| [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Traditional Chinese](#tchinese-繁體中文) | 9 | 140 | 33 | 2799 | 200 | 236 | 454 | 146 |
 | [Czech](#czech-čeština) | 71 | 1810 | 42 | 3916 | 200 | 980 | 524 | 146 |
 | [Danish](#non-curated-languages) | 52 | 231 | 42 | 3444 | 200 | 710 | 519 | 147 |
@@ -10,7 +10,7 @@
 | [French](#french-français) | 27 | 138 | 42 | 2277 | 200 | 650 | 442 | 125 |
 | [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | 1 | ✔️ | ✔️ | ✔️ | 2 |
 | [Hungarian](#non-curated-languages) | 51 | 138 | 42 | 2912 | 200 | 975 | 456 | 147 |
-| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | 1 | ✔️ | ✔️ | ✔️ | 2 |
+| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 103 | ✔️ | ✔️ |
 | [Korean](#koreana-한국어) | 7 | 10 | 38 | 1408 | 22 | 441 | 442 | 48 |
 | [Norwegian Bokmål](#non-curated-languages) | 69 | 708 | 47 | 3618 | 200 | 710 | 525 | 147 |
@@ -40,13 +40,7 @@
 
 </summary>
 
-### Strings
-
-- [reactivedrop_schinese.txt](resource/reactivedrop_schinese.txt) has 1 untranslated strings.
-
-### Mail and News
-
-- [mail/biogen_mail_windows_schinese.txt](resource/mail/biogen_mail_windows_english.txt) is missing.
+✓ Up to date!
 
 </details>
 
@@ -1034,17 +1028,7 @@
 
 </summary>
 
-### Strings
-
-- [reactivedrop_italian.txt](resource/reactivedrop_italian.txt) has 1 untranslated strings.
-
-### Upcoming Release Notes
-
-- [20231101_italian.xml](release_notes/20231101_italian.xml) has 8 indented lines.
-
-### Mail and News
-
-- [mail/biogen_mail_windows_italian.txt](resource/mail/biogen_mail_windows_english.txt) is missing.
+✓ Up to date!
 
 </details>
 
