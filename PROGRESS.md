@@ -1,31 +1,31 @@
 # Overview
 | Language | basemodui | closecaption | gameui | reactivedrop | statsweb | Strings | Inventory | Files |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 1 |
-| [Traditional Chinese](#tchinese-繁體中文) | 9 | 140 | 33 | 2798 | 200 | 236 | 454 | 145 |
-| [Czech](#czech-čeština) | 71 | 1810 | 42 | 3915 | 200 | 980 | 524 | 145 |
-| [Danish](#non-curated-languages) | 52 | 231 | 42 | 3443 | 200 | 710 | 519 | 146 |
-| [Dutch](#non-curated-languages) | 51 | 2004 | 42 | 2911 | 200 | 710 | 456 | 145 |
-| [Finnish](#non-curated-languages) | 51 | 2004 | 42 | 2911 | 200 | 710 | 456 | 145 |
-| [French](#french-français) | 27 | 138 | 42 | 2276 | 200 | 650 | 442 | 124 |
-| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 1 |
-| [Hungarian](#non-curated-languages) | 51 | 138 | 42 | 2911 | 200 | 975 | 456 | 146 |
-| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 1 |
-| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 103 | ✔️ | 1 |
-| [Korean](#koreana-한국어) | 7 | 10 | 38 | 1407 | 22 | 441 | 442 | 47 |
-| [Norwegian Bokmål](#non-curated-languages) | 69 | 708 | 47 | 3617 | 200 | 710 | 525 | 146 |
-| [Polish](#polish-polski) | 28 | 2004 | 42 | 2911 | 200 | 706 | 456 | 142 |
-| [European Portuguese](#portuguese-português-europeu) | ✔️ | 180 | 32 | 1999 | 21 | 628 | 465 | 140 |
-| [Brazilian Portuguese](#brazilian-português) | 2 | 2004 | 32 | 1170 | 9 | 276 | 223 | 7 |
-| [Romanian](#non-curated-languages) | 51 | 1996 | 48 | 3622 | 200 | 975 | 502 | 146 |
-| [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | 53 | ✔️ | ✔️ | 4 | 1 |
-| [European Spanish](#spanish-español-de-españa) | 28 | 2004 | 40 | 2326 | 200 | 714 | 452 | 145 |
-| [Latin American Spanish](#latam-español-latinoamericano) | 1281 | 2004 | 634 | 4422 | 204 | 980 | 538 | 146 |
-| [Swedish](#non-curated-languages) | 51 | 2004 | 42 | 2911 | 200 | 710 | 456 | 146 |
-| [Thai](#non-curated-languages) | 966 | 1993 | 50 | 4158 | 200 | 739 | 535 | 146 |
-| [Turkish](#non-curated-languages) | 51 | 137 | 42 | 2911 | 200 | 975 | 456 | 146 |
-| [Ukrainian](#ukrainian-українська) | 27 | 131 | 32 | 2454 | 200 | 928 | 450 | 145 |
-| [Vietnamese](#vietnamese-tiếng-việt) | 1281 | 2004 | 628 | 3340 | 200 | 540 | 538 | 112 |
+| [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | ✔️ | 1 | ✔️ | ✔️ | ✔️ | 1 |
+| [Traditional Chinese](#tchinese-繁體中文) | 9 | 140 | 33 | 2799 | 200 | 236 | 454 | 146 |
+| [Czech](#czech-čeština) | 71 | 1810 | 42 | 3916 | 200 | 980 | 524 | 146 |
+| [Danish](#non-curated-languages) | 52 | 231 | 42 | 3444 | 200 | 710 | 519 | 147 |
+| [Dutch](#non-curated-languages) | 51 | 2004 | 42 | 2912 | 200 | 710 | 456 | 146 |
+| [Finnish](#non-curated-languages) | 51 | 2004 | 42 | 2912 | 200 | 710 | 456 | 146 |
+| [French](#french-français) | 27 | 138 | 42 | 2277 | 200 | 650 | 442 | 125 |
+| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | 1 | ✔️ | ✔️ | ✔️ | 2 |
+| [Hungarian](#non-curated-languages) | 51 | 138 | 42 | 2912 | 200 | 975 | 456 | 147 |
+| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | 1 | ✔️ | ✔️ | ✔️ | 2 |
+| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | 1 | ✔️ | 103 | ✔️ | 1 |
+| [Korean](#koreana-한국어) | 7 | 10 | 38 | 1408 | 22 | 441 | 442 | 48 |
+| [Norwegian Bokmål](#non-curated-languages) | 69 | 708 | 47 | 3618 | 200 | 710 | 525 | 147 |
+| [Polish](#polish-polski) | 28 | 2004 | 42 | 2912 | 200 | 706 | 456 | 143 |
+| [European Portuguese](#portuguese-português-europeu) | ✔️ | 180 | 32 | 2000 | 21 | 628 | 465 | 141 |
+| [Brazilian Portuguese](#brazilian-português) | 2 | 2004 | 32 | 1171 | 9 | 276 | 223 | 8 |
+| [Romanian](#non-curated-languages) | 51 | 1996 | 48 | 3623 | 200 | 975 | 502 | 147 |
+| [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | 54 | ✔️ | ✔️ | 4 | 2 |
+| [European Spanish](#spanish-español-de-españa) | 28 | 2004 | 40 | 2327 | 200 | 714 | 452 | 146 |
+| [Latin American Spanish](#latam-español-latinoamericano) | 1281 | 2004 | 634 | 4423 | 204 | 980 | 538 | 147 |
+| [Swedish](#non-curated-languages) | 51 | 2004 | 42 | 2912 | 200 | 710 | 456 | 147 |
+| [Thai](#non-curated-languages) | 966 | 1993 | 50 | 4159 | 200 | 739 | 535 | 147 |
+| [Turkish](#non-curated-languages) | 51 | 137 | 42 | 2912 | 200 | 975 | 456 | 147 |
+| [Ukrainian](#ukrainian-українська) | 27 | 131 | 32 | 2455 | 200 | 928 | 450 | 146 |
+| [Vietnamese](#vietnamese-tiếng-việt) | 1281 | 2004 | 628 | 3341 | 200 | 540 | 538 | 113 |
 ### Legend
 - ***Non-capitalized column headers*** are the most important specific files and their number of missing strings. All of these txt-files are located in the resources folder. Except statsweb, which lies in community/stats_website, it's an vdf-file.
 - ***Strings*** is the number of missing strings not included in one of the files which get an individual non-capitalized column.
@@ -40,9 +40,13 @@
 
 </summary>
 
-### Upcoming Release Notes
+### Strings
 
-- [20231101_schinese.xml](release_notes/20231101_schinese.xml) has 8 indented lines.
+- [reactivedrop_schinese.txt](resource/reactivedrop_schinese.txt) has 1 untranslated strings.
+
+### Mail and News
+
+- [mail/biogen_mail_windows_schinese.txt](resource/mail/biogen_mail_windows_english.txt) is missing.
 
 </details>
 
@@ -63,7 +67,7 @@
 - [basemodui_tchinese.txt](resource/basemodui_tchinese.txt) has 9 untranslated strings.
 - [closecaption_tchinese.txt](resource/closecaption_tchinese.txt) has 140 untranslated strings.
 - [gameui_tchinese.txt](resource/gameui_tchinese.txt) has 33 untranslated strings.
-- [reactivedrop_tchinese.txt](resource/reactivedrop_tchinese.txt) has 2798 untranslated strings.
+- [reactivedrop_tchinese.txt](resource/reactivedrop_tchinese.txt) has 2799 untranslated strings.
 - [valve_tchinese.txt](resource/valve_tchinese.txt) has 6 untranslated strings.
 
 ### Steam Store and Community
@@ -122,6 +126,7 @@
 - [mail/acc_research1_tchinese.txt](resource/mail/acc_research1_english.txt) is missing.
 - [mail/acc_research2_tchinese.txt](resource/mail/acc_research2_english.txt) is missing.
 - [mail/acc_research3_tchinese.txt](resource/mail/acc_research3_english.txt) is missing.
+- [mail/biogen_mail_windows_tchinese.txt](resource/mail/biogen_mail_windows_english.txt) is missing.
 - [mail/labsmail1_tchinese.txt](resource/mail/labsmail1_english.txt) is missing.
 - [mail/labsmail2_tchinese.txt](resource/mail/labsmail2_english.txt) is missing.
 - [mail/labsmail3_tchinese.txt](resource/mail/labsmail3_english.txt) is missing.
@@ -390,7 +395,7 @@
 - [chat_czech.txt](resource/chat_czech.txt) has 8 untranslated strings.
 - [closecaption_czech.txt](resource/closecaption_czech.txt) has 1810 untranslated strings.
 - [gameui_czech.txt](resource/gameui_czech.txt) has 42 untranslated strings.
-- [reactivedrop_czech.txt](resource/reactivedrop_czech.txt) has 3915 untranslated strings.
+- [reactivedrop_czech.txt](resource/reactivedrop_czech.txt) has 3916 untranslated strings.
 - [valve_czech.txt](resource/valve_czech.txt) has 266 untranslated strings.
 
 ### Steam Store and Community
@@ -449,6 +454,7 @@
 - [mail/acc_research1_czech.txt](resource/mail/acc_research1_english.txt) is missing.
 - [mail/acc_research2_czech.txt](resource/mail/acc_research2_english.txt) is missing.
 - [mail/acc_research3_czech.txt](resource/mail/acc_research3_english.txt) is missing.
+- [mail/biogen_mail_windows_czech.txt](resource/mail/biogen_mail_windows_english.txt) is missing.
 - [mail/labsmail1_czech.txt](resource/mail/labsmail1_english.txt) is missing.
 - [mail/labsmail2_czech.txt](resource/mail/labsmail2_english.txt) is missing.
 - [mail/labsmail3_czech.txt](resource/mail/labsmail3_english.txt) is missing.
@@ -716,7 +722,7 @@
 - [basemodui_french.txt](resource/basemodui_french.txt) has 27 untranslated strings.
 - [closecaption_french.txt](resource/closecaption_french.txt) has 138 untranslated strings.
 - [gameui_french.txt](resource/gameui_french.txt) has 42 untranslated strings.
-- [reactivedrop_french.txt](resource/reactivedrop_french.txt) has 2276 untranslated strings.
+- [reactivedrop_french.txt](resource/reactivedrop_french.txt) has 2277 untranslated strings.
 - [valve_french.txt](resource/valve_french.txt) has 202 untranslated strings.
 
 ### Steam Store and Community
@@ -775,6 +781,7 @@
 - [mail/acc_research1_french.txt](resource/mail/acc_research1_english.txt) is missing.
 - [mail/acc_research2_french.txt](resource/mail/acc_research2_english.txt) is missing.
 - [mail/acc_research3_french.txt](resource/mail/acc_research3_english.txt) is missing.
+- [mail/biogen_mail_windows_french.txt](resource/mail/biogen_mail_windows_english.txt) is missing.
 - [mail/labsmail1_french.txt](resource/mail/labsmail1_english.txt) is missing.
 - [mail/labsmail2_french.txt](resource/mail/labsmail2_english.txt) is missing.
 - [mail/labsmail3_french.txt](resource/mail/labsmail3_english.txt) is missing.
@@ -1007,9 +1014,17 @@
 
 </summary>
 
+### Strings
+
+- [reactivedrop_german.txt](resource/reactivedrop_german.txt) has 1 untranslated strings.
+
 ### Upcoming Release Notes
 
 - [20231101_german.xml](release_notes/20231101_german.xml) has 8 indented lines.
+
+### Mail and News
+
+- [mail/biogen_mail_windows_german.txt](resource/mail/biogen_mail_windows_english.txt) is missing.
 
 </details>
 
@@ -1019,9 +1034,17 @@
 
 </summary>
 
+### Strings
+
+- [reactivedrop_italian.txt](resource/reactivedrop_italian.txt) has 1 untranslated strings.
+
 ### Upcoming Release Notes
 
 - [20231101_italian.xml](release_notes/20231101_italian.xml) has 8 indented lines.
+
+### Mail and News
+
+- [mail/biogen_mail_windows_italian.txt](resource/mail/biogen_mail_windows_english.txt) is missing.
 
 </details>
 
@@ -1036,10 +1059,11 @@
 - [addons/RiskOfRain/reactivedrop_japanese.txt](addons/RiskOfRain/resource/reactivedrop_japanese.txt) has 1 untranslated strings.
 - [misc/signage/signage_japanese.vdf](misc/signage/signage_japanese.vdf) has 67 untranslated strings.
 - [platform/vgui_japanese.txt](platform/vgui_japanese.txt) has 35 untranslated strings.
+- [reactivedrop_japanese.txt](resource/reactivedrop_japanese.txt) has 1 untranslated strings.
 
-### Upcoming Release Notes
+### Mail and News
 
-- [20231101_japanese.xml](release_notes/20231101_japanese.xml) has 8 indented lines.
+- [mail/biogen_mail_windows_japanese.txt](resource/mail/biogen_mail_windows_english.txt) is missing.
 
 </details>
 
@@ -1061,7 +1085,7 @@
 - [basemodui_koreana.txt](resource/basemodui_koreana.txt) has 7 untranslated strings.
 - [closecaption_koreana.txt](resource/closecaption_koreana.txt) has 10 untranslated strings.
 - [gameui_koreana.txt](resource/gameui_koreana.txt) has 38 untranslated strings.
-- [reactivedrop_koreana.txt](resource/reactivedrop_koreana.txt) has 1407 untranslated strings.
+- [reactivedrop_koreana.txt](resource/reactivedrop_koreana.txt) has 1408 untranslated strings.
 - [valve_koreana.txt](resource/valve_koreana.txt) has 96 untranslated strings.
 
 ### Steam Store and Community
@@ -1118,6 +1142,7 @@
 - [mail/acc_research1_koreana.txt](resource/mail/acc_research1_english.txt) is missing.
 - [mail/acc_research2_koreana.txt](resource/mail/acc_research2_english.txt) is missing.
 - [mail/acc_research3_koreana.txt](resource/mail/acc_research3_english.txt) is missing.
+- [mail/biogen_mail_windows_koreana.txt](resource/mail/biogen_mail_windows_english.txt) is missing.
 - [mail/ma_pda1_koreana.txt](resource/mail/ma_pda1_english.txt) is missing.
 - [mail/ma_pda2_koreana.txt](resource/mail/ma_pda2_english.txt) is missing.
 - [mail/nukeangermail_koreana.txt](resource/mail/nukeangermail_english.txt) is missing.
@@ -1289,7 +1314,7 @@
 - [chat_polish.txt](resource/chat_polish.txt) has 8 untranslated strings.
 - [closecaption_polish.txt](resource/closecaption_polish.txt) has 2004 untranslated strings.
 - [gameui_polish.txt](resource/gameui_polish.txt) has 42 untranslated strings.
-- [reactivedrop_polish.txt](resource/reactivedrop_polish.txt) has 2911 untranslated strings.
+- [reactivedrop_polish.txt](resource/reactivedrop_polish.txt) has 2912 untranslated strings.
 - [valve_polish.txt](resource/valve_polish.txt) has 266 untranslated strings.
 
 ### Steam Store and Community
@@ -1345,6 +1370,7 @@
 - [mail/acc_research1_polish.txt](resource/mail/acc_research1_english.txt) is missing.
 - [mail/acc_research2_polish.txt](resource/mail/acc_research2_english.txt) is missing.
 - [mail/acc_research3_polish.txt](resource/mail/acc_research3_english.txt) is missing.
+- [mail/biogen_mail_windows_polish.txt](resource/mail/biogen_mail_windows_english.txt) is missing.
 - [mail/labsmail1_polish.txt](resource/mail/labsmail1_english.txt) is missing.
 - [mail/labsmail2_polish.txt](resource/mail/labsmail2_english.txt) is missing.
 - [mail/labsmail3_polish.txt](resource/mail/labsmail3_english.txt) is missing.
@@ -1610,7 +1636,7 @@
 - [platform/vgui_portuguese.txt](platform/vgui_portuguese.txt) has 93 untranslated strings.
 - [closecaption_portuguese.txt](resource/closecaption_portuguese.txt) has 180 untranslated strings.
 - [gameui_portuguese.txt](resource/gameui_portuguese.txt) has 32 untranslated strings.
-- [reactivedrop_portuguese.txt](resource/reactivedrop_portuguese.txt) has 1999 untranslated strings.
+- [reactivedrop_portuguese.txt](resource/reactivedrop_portuguese.txt) has 2000 untranslated strings.
 - [valve_portuguese.txt](resource/valve_portuguese.txt) has 266 untranslated strings.
 
 ### Steam Store and Community
@@ -1664,6 +1690,7 @@
 - [mail/acc_research1_portuguese.txt](resource/mail/acc_research1_english.txt) is missing.
 - [mail/acc_research2_portuguese.txt](resource/mail/acc_research2_english.txt) is missing.
 - [mail/acc_research3_portuguese.txt](resource/mail/acc_research3_english.txt) is missing.
+- [mail/biogen_mail_windows_portuguese.txt](resource/mail/biogen_mail_windows_english.txt) is missing.
 - [mail/labsmail1_portuguese.txt](resource/mail/labsmail1_english.txt) is missing.
 - [mail/labsmail2_portuguese.txt](resource/mail/labsmail2_english.txt) is missing.
 - [mail/labsmail3_portuguese.txt](resource/mail/labsmail3_english.txt) is missing.
@@ -1920,7 +1947,7 @@
 - [basemodui_brazilian.txt](resource/basemodui_brazilian.txt) has 2 untranslated strings.
 - [closecaption_brazilian.txt](resource/closecaption_brazilian.txt) has 2004 untranslated strings.
 - [gameui_brazilian.txt](resource/gameui_brazilian.txt) has 32 untranslated strings.
-- [reactivedrop_brazilian.txt](resource/reactivedrop_brazilian.txt) has 1170 untranslated strings.
+- [reactivedrop_brazilian.txt](resource/reactivedrop_brazilian.txt) has 1171 untranslated strings.
 - [valve_brazilian.txt](resource/valve_brazilian.txt) has 6 untranslated strings.
 
 ### Steam Store and Community
@@ -1938,6 +1965,7 @@
 
 ### Mail and News
 
+- [mail/biogen_mail_windows_brazilian.txt](resource/mail/biogen_mail_windows_english.txt) is missing.
 - [mail/ma_pda1_brazilian.txt](resource/mail/ma_pda1_english.txt) is missing.
 - [mail/ma_pda2_brazilian.txt](resource/mail/ma_pda2_english.txt) is missing.
 - [mail/officemail4_brazilian.txt](resource/mail/officemail4_brazilian.txt) has 1 indented lines.
@@ -2069,11 +2097,15 @@
 
 ### Strings
 
-- [reactivedrop_russian.txt](resource/reactivedrop_russian.txt) has 53 untranslated strings.
+- [reactivedrop_russian.txt](resource/reactivedrop_russian.txt) has 54 untranslated strings.
 
 ### Upcoming Release Notes
 
 - [20231101_russian.xml](release_notes/20231101_english.xml) is missing.
+
+### Mail and News
+
+- [mail/biogen_mail_windows_russian.txt](resource/mail/biogen_mail_windows_english.txt) is missing.
 
 ### Inventory Schema
 
@@ -2102,7 +2134,7 @@
 - [basemodui_spanish.txt](resource/basemodui_spanish.txt) has 28 untranslated strings.
 - [closecaption_spanish.txt](resource/closecaption_spanish.txt) has 2004 untranslated strings.
 - [gameui_spanish.txt](resource/gameui_spanish.txt) has 40 untranslated strings.
-- [reactivedrop_spanish.txt](resource/reactivedrop_spanish.txt) has 2326 untranslated strings.
+- [reactivedrop_spanish.txt](resource/reactivedrop_spanish.txt) has 2327 untranslated strings.
 - [valve_spanish.txt](resource/valve_spanish.txt) has 266 untranslated strings.
 
 ### Steam Store and Community
@@ -2161,6 +2193,7 @@
 - [mail/acc_research1_spanish.txt](resource/mail/acc_research1_english.txt) is missing.
 - [mail/acc_research2_spanish.txt](resource/mail/acc_research2_english.txt) is missing.
 - [mail/acc_research3_spanish.txt](resource/mail/acc_research3_english.txt) is missing.
+- [mail/biogen_mail_windows_spanish.txt](resource/mail/biogen_mail_windows_english.txt) is missing.
 - [mail/labsmail1_spanish.txt](resource/mail/labsmail1_english.txt) is missing.
 - [mail/labsmail2_spanish.txt](resource/mail/labsmail2_english.txt) is missing.
 - [mail/labsmail3_spanish.txt](resource/mail/labsmail3_english.txt) is missing.
@@ -2429,7 +2462,7 @@
 - [chat_latam.txt](resource/chat_latam.txt) has 8 untranslated strings.
 - [closecaption_latam.txt](resource/closecaption_latam.txt) has 2004 untranslated strings.
 - [gameui_latam.txt](resource/gameui_latam.txt) has 634 untranslated strings.
-- [reactivedrop_latam.txt](resource/reactivedrop_latam.txt) has 4422 untranslated strings.
+- [reactivedrop_latam.txt](resource/reactivedrop_latam.txt) has 4423 untranslated strings.
 - [valve_latam.txt](resource/valve_latam.txt) has 266 untranslated strings.
 
 ### Steam Store and Community
@@ -2489,6 +2522,7 @@
 - [mail/acc_research1_latam.txt](resource/mail/acc_research1_english.txt) is missing.
 - [mail/acc_research2_latam.txt](resource/mail/acc_research2_english.txt) is missing.
 - [mail/acc_research3_latam.txt](resource/mail/acc_research3_english.txt) is missing.
+- [mail/biogen_mail_windows_latam.txt](resource/mail/biogen_mail_windows_english.txt) is missing.
 - [mail/labsmail1_latam.txt](resource/mail/labsmail1_english.txt) is missing.
 - [mail/labsmail2_latam.txt](resource/mail/labsmail2_english.txt) is missing.
 - [mail/labsmail3_latam.txt](resource/mail/labsmail3_english.txt) is missing.
@@ -2755,7 +2789,7 @@
 - [basemodui_ukrainian.txt](resource/basemodui_ukrainian.txt) has 27 untranslated strings.
 - [closecaption_ukrainian.txt](resource/closecaption_ukrainian.txt) has 131 untranslated strings.
 - [gameui_ukrainian.txt](resource/gameui_ukrainian.txt) has 32 untranslated strings.
-- [reactivedrop_ukrainian.txt](resource/reactivedrop_ukrainian.txt) has 2454 untranslated strings.
+- [reactivedrop_ukrainian.txt](resource/reactivedrop_ukrainian.txt) has 2455 untranslated strings.
 - [valve_ukrainian.txt](resource/valve_ukrainian.txt) has 266 untranslated strings.
 
 ### Steam Store and Community
@@ -2814,6 +2848,7 @@
 - [mail/acc_research1_ukrainian.txt](resource/mail/acc_research1_english.txt) is missing.
 - [mail/acc_research2_ukrainian.txt](resource/mail/acc_research2_english.txt) is missing.
 - [mail/acc_research3_ukrainian.txt](resource/mail/acc_research3_english.txt) is missing.
+- [mail/biogen_mail_windows_ukrainian.txt](resource/mail/biogen_mail_windows_english.txt) is missing.
 - [mail/labsmail1_ukrainian.txt](resource/mail/labsmail1_english.txt) is missing.
 - [mail/labsmail2_ukrainian.txt](resource/mail/labsmail2_english.txt) is missing.
 - [mail/labsmail3_ukrainian.txt](resource/mail/labsmail3_english.txt) is missing.
@@ -3075,7 +3110,7 @@
 - [basemodui_vietnamese.txt](resource/basemodui_vietnamese.txt) has 1281 untranslated strings.
 - [closecaption_vietnamese.txt](resource/closecaption_vietnamese.txt) has 2004 untranslated strings.
 - [gameui_vietnamese.txt](resource/gameui_vietnamese.txt) has 628 untranslated strings.
-- [reactivedrop_vietnamese.txt](resource/reactivedrop_vietnamese.txt) has 3340 untranslated strings.
+- [reactivedrop_vietnamese.txt](resource/reactivedrop_vietnamese.txt) has 3341 untranslated strings.
 - [valve_vietnamese.txt](resource/valve_vietnamese.txt) has 230 untranslated strings.
 
 ### Upcoming Release Notes
@@ -3108,6 +3143,7 @@
 - [mail/acc_research1_vietnamese.txt](resource/mail/acc_research1_english.txt) is missing.
 - [mail/acc_research2_vietnamese.txt](resource/mail/acc_research2_english.txt) is missing.
 - [mail/acc_research3_vietnamese.txt](resource/mail/acc_research3_english.txt) is missing.
+- [mail/biogen_mail_windows_vietnamese.txt](resource/mail/biogen_mail_windows_english.txt) is missing.
 - [mail/ma_pda1_vietnamese.txt](resource/mail/ma_pda1_english.txt) is missing.
 - [mail/ma_pda2_vietnamese.txt](resource/mail/ma_pda2_english.txt) is missing.
 - [mail/nh_officemail1_jacquesmoreau_vietnamese.txt](resource/mail/nh_officemail1_jacquesmoreau_english.txt) is missing.
