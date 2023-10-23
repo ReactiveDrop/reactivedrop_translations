@@ -48,7 +48,7 @@ jobs:
           go run .
 
       # check for unwanted differences from commit
-      - name: Check for unwanted changes
+      - name: Check for unintended changes
         run: |
           changes=$(git diff | wc -l)
           if [[ $changes -gt 0 ]]; then

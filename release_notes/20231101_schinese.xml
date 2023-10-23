@@ -4,12 +4,12 @@
 [h2]新战役：无家可归[/h2]
 重制版战役：无家可归，现已可玩！
 
-		[h2]Official Missions[/h2]
-		[list]
-		[*][b]Tears for Tarnor: Oasis Colony Spaceport:[/b] Fixed specific walls becoming invisible after aliens spawned from certain locations.
-		[*][b]Tears for Tarnor: Oasis Colony Spaceport:[/b] Improved graphics when playing in first or third person.
-		[*][b]BioGen Corporation: BioGen Labs:[/b] Updated the graphical style of the mission.
-		[/list]
+[h2]官方战役[/h2]
+[list]
+[*]修复 [b]塔诺尔之泪：绿洲殖民地太空港[/b] 特定刷怪点刷怪时导致墙壁消失的问题。
+[*]改进 [b]塔诺尔之泪：绿洲殖民地太空港[/b] 第一/第三人称下的画面表现。
+[*]改进 [b]生物基因公司：生物基因实验室[/b] 视觉表现风格。
+[/list]
 
 [h2]武器[/h2]
 [list]
@@ -41,8 +41,8 @@
 [*]增加 一个 asw_jukebox 的子选项，使其不会中断玩家提供的战斗音乐，用于设置分阶段战斗音乐。
 [*]增加 现在可以通过控制台命令重新分配士兵技能点（例如 asw_marine_skill_sarge_0）。
 [*]增加 rd_chainsaw_idle_sound 命令供希望禁用电锯空闲音效的挑战使用。
-		[*]Fixed certain mapper-placed Antlion Guards and Antlion Guardians not unlocking the Swarmopedia entry when killed.
-		[*]Fixed a pathfinding crash caused by incorrect initialization of info_node_link.
+[*]修复 杀死某些由地图作者放置的蚁狮守卫/远古蚁狮守卫后无法解锁虫群百科的问题。
+[*]修复 info_node_link错误初始化引发导路问题进而导致游戏崩溃的错误。
 [/list]
 
 [h2]控制器[/h2]
