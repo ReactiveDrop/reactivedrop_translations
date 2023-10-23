@@ -1,0 +1,10 @@
+GAME
+{
+// PDA belongs to Isaac Lezeas (pun = Isaac Lazyass)
+
+	"MailFrom1"	"Von: Ren Ruble"
+	"MailDate1"	"Datum: Unbekannt"
+	"MailSubject1"	"Betreff: Wartungsräume"
+	"MailBody1A"	"Ich möchte dich wissen lassen, dass das nicht mehr lustig ist. Die täglichen Kosten für den Austausch von Glas versinken in unserem Budget für neue Projekte. Mach eine richtige Tür, oder dein Team bekommt eine Gehaltskürzung!"
+	"MailBody1B"	"- Mit viel Liebe, BioGen Management"
+}
