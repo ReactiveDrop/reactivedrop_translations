@@ -17,6 +17,7 @@ Una versione rimasterizzata della campagna Reduction è ora disponibile nel gioc
 [*][b]Lanciagranate:[/b] I colpi indirizzati molto al di sotto del soldato ora si inarcano in modo diverso per evitare di colpire il bordo della piattaforma su cui si trova il soldato.
 [*]Le armi a puntamento assistito non mirano più agli scanner.
 [*]I soldati possono ora evitare con sicurezza tutti i proiettili, anche quelli non sparati da soldati.
+		[*]Added a [b]cl_loadout_random[/b] console command. It randomises primary, secondary and extra weapons for you and your bot marines.
 [/list]
 
 [h2]Menu[/h2]
@@ -43,6 +44,18 @@ Una versione rimasterizzata della campagna Reduction è ora disponibile nel gioc
 [*]Aggiunto rd_chainsaw_idle_sound per le sfide che vogliono disabilitare il suono idle della motosega.
 [*]Corretto il problema di alcune Guardie Formicaleone e Guardiani Formicaleone posizionati dal mapper che non sbloccavano la voce nella Swarmopedia quando venivano uccisi.
 [*]Corretto un arresto anomalo del pathfinding causato da un'inizializzazione errata di info_node_link.
+		[*]Added a CollideWithMarines keyvalue to func_asw_fade. Main purpose is to preserve any out-of-bounds exploits used in speedruns.
+		[*]Added 3 new material proxies - LocalTime_Month, LocalTime_Day, LocalTime_Hour. Can be used to change the frame on an animated texture based on the viewer's local system time. Month values are from 0 to 11, days are from 0 to 30, hours are from 0 to 23. For example:
+[code]UnlitGeneric {
+    $basetexture "example/animated_monthly_texture"
+	$frame 0
+
+    Proxies {
+        LocalTime_Month {
+            resultvar "$frame"
+        }
+    }
+}[/code]
 [/list]
 
 [h2]Controller[/h2]
