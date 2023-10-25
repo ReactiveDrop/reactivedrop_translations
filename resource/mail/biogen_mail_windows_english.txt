@@ -1,6 +1,7 @@
-// PDA belongs to Isaac Lezeas (pun = Isaac Lazyass)
 GAME
 {
+// PDA belongs to Isaac Lezeas (pun = Isaac Lazyass)
+
 "MailFrom1"	"From: Ren Ruble"
 "MailDate1"	"Date: Unknown"
 "MailSubject1"	"Subject: Maintenance Rooms"
