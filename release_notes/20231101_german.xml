@@ -17,6 +17,7 @@ Eine überarbeitete Version des Feldzugs Reduktion ist jetzt im Spiel verfügbar
 [*][b]Granatwerfer:[/b] Schüsse, die weit unter den Soldaten zielen, werden jetzt anders gebogen, damit sie nicht die Kante der Plattform treffen, auf der der Soldat steht.
 [*]Zielgestützte Waffen zielen nicht mehr auf Scanner.
 [*]Soldaten können jetzt sicher durch alle Kugeln rollen, auch durch die von Nicht-Soldaten abgefeuerten.
+		[*]Added a [b]cl_loadout_random[/b] console command. It randomises primary, secondary and extra weapons for you and your bot marines.
 [/list]
 
 [h2]Menüs[/h2]
@@ -43,6 +44,18 @@ Eine überarbeitete Version des Feldzugs Reduktion ist jetzt im Spiel verfügbar
 [*]rd_chainsaw_idle_sound wurde für Herausforderungen hinzugefügt, bei denen der Kettensägenleerlaufsound deaktiviert werden soll.
 [*]Bestimmte, vom Author platzierte Wächterwanzen und Hüterwanzen haben den Eintrag in der Swarmopedia nicht freigeschaltet, wenn sie getötet wurden.
 [*]Ein Absturz bei der Pfadfindung, der durch eine falsche Initialisierung von info_node_link verursacht wurde, wurde behoben.
+		[*]Added a CollideWithMarines keyvalue to func_asw_fade. Main purpose is to preserve any out-of-bounds exploits used in speedruns.
+		[*]Added 3 new material proxies - LocalTime_Month, LocalTime_Day, LocalTime_Hour. Can be used to change the frame on an animated texture based on the viewer's local system time. Month values are from 0 to 11, days are from 0 to 30, hours are from 0 to 23. For example:
+[code]UnlitGeneric {
+    $basetexture "example/animated_monthly_texture"
+	$frame 0
+
+    Proxies {
+        LocalTime_Month {
+            resultvar "$frame"
+        }
+    }
+}[/code]
 [/list]
 
 [h2]Controller[/h2]
