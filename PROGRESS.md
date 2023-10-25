@@ -1,7 +1,7 @@
 # Overview
 | Language | basemodui | closecaption | gameui | reactivedrop | statsweb | Strings | Inventory | Files |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
+| [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 1 |
 | [Traditional Chinese](#tchinese-繁體中文) | 9 | 140 | 33 | 2799 | 200 | 236 | 454 | 146 |
 | [Czech](#czech-čeština) | 71 | 1810 | 42 | 3916 | 200 | 980 | 524 | 146 |
 | [Danish](#non-curated-languages) | 52 | 231 | 42 | 3444 | 200 | 710 | 519 | 147 |
@@ -10,8 +10,8 @@
 | [French](#french-français) | 27 | 138 | 42 | 2277 | 200 | 650 | 442 | 125 |
 | [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 1 |
 | [Hungarian](#non-curated-languages) | 51 | 138 | 42 | 2912 | 200 | 975 | 456 | 147 |
-| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
-| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 103 | ✔️ | ✔️ |
+| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 1 |
+| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 103 | ✔️ | 1 |
 | [Korean](#koreana-한국어) | 7 | 10 | 38 | 1408 | 22 | 441 | 442 | 48 |
 | [Norwegian Bokmål](#non-curated-languages) | 69 | 708 | 47 | 3618 | 200 | 710 | 525 | 147 |
 | [Polish](#polish-polski) | 28 | 2004 | 42 | 2912 | 200 | 706 | 456 | 143 |
@@ -40,7 +40,9 @@
 
 </summary>
 
-✓ Up to date!
+### Upcoming Release Notes
+
+- [20231101_schinese.xml](release_notes/20231101_schinese.xml) has 3 indented lines.
 
 </details>
 
@@ -1008,9 +1010,9 @@
 
 </summary>
 
-### Mail and News
+### Upcoming Release Notes
 
-- [mail/biogen_mail_windows_german.txt](resource/mail/biogen_mail_windows_german.txt) has 5 indented lines.
+- [20231101_german.xml](release_notes/20231101_german.xml) has 1 indented lines.
 
 </details>
 
@@ -1020,7 +1022,9 @@
 
 </summary>
 
-✓ Up to date!
+### Upcoming Release Notes
+
+- [20231101_italian.xml](release_notes/20231101_italian.xml) has 3 indented lines.
 
 </details>
 
@@ -1035,6 +1039,10 @@
 - [addons/RiskOfRain/reactivedrop_japanese.txt](addons/RiskOfRain/resource/reactivedrop_japanese.txt) has 1 untranslated strings.
 - [misc/signage/signage_japanese.vdf](misc/signage/signage_japanese.vdf) has 67 untranslated strings.
 - [platform/vgui_japanese.txt](platform/vgui_japanese.txt) has 35 untranslated strings.
+
+### Upcoming Release Notes
+
+- [20231101_japanese.xml](release_notes/20231101_japanese.xml) has 3 indented lines.
 
 </details>
 
