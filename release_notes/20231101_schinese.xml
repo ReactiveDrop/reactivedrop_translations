@@ -17,6 +17,7 @@
 [*]改进 [b]榴弹发射器:[/b] 向远低于士兵高度的位置发射榴弹时，引擎将调整其弹道以避免命中士兵所在平台的边缘。
 [*]改进 自动瞄准武器不在瞄准扫描装置.
 [*]改进 士兵现在可以通过翻滚来躲避包括非玩家单位发射的子弹在内的所有子弹。
+		[*]Added a [b]cl_loadout_random[/b] console command. It randomises primary, secondary and extra weapons for you and your bot marines.
 [/list]
 
 [h2]菜单[/h2]
@@ -43,6 +44,18 @@
 [*]增加 rd_chainsaw_idle_sound 命令供希望禁用电锯空闲音效的挑战使用。
 [*]修复 杀死某些由地图作者放置的蚁狮守卫/远古蚁狮守卫后无法解锁虫群百科的问题。
 [*]修复 info_node_link错误初始化引发导路问题进而导致游戏崩溃的错误。
+		[*]Added a CollideWithMarines keyvalue to func_asw_fade. Main purpose is to preserve any out-of-bounds exploits used in speedruns.
+		[*]Added 3 new material proxies - LocalTime_Month, LocalTime_Day, LocalTime_Hour. Can be used to change the frame on an animated texture based on the viewer's local system time. Month values are from 0 to 11, days are from 0 to 30, hours are from 0 to 23. For example:
+[code]UnlitGeneric {
+    $basetexture "example/animated_monthly_texture"
+	$frame 0
+
+    Proxies {
+        LocalTime_Month {
+            resultvar "$frame"
+        }
+    }
+}[/code]
 [/list]
 
 [h2]控制器[/h2]
