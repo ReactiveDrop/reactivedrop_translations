@@ -48,7 +48,7 @@ Eine überarbeitete Version des Feldzugs Reduktion ist jetzt im Spiel verfügbar
 		[*]Es wurden 3 neue Material-Proxys hinzugefügt - LocalTime_Month, LocalTime_Day, LocalTime_Hour. Sie können verwendet werden, um den Rahmen einer animierten Textur auf der Grundlage der lokalen Systemzeit des Betrachters zu ändern. Die Werte für den Monat reichen von 0 bis 11, für die Tage von 0 bis 30 und für die Stunden von 0 bis 23. Zum Beispiel:
 [code]UnlitGeneric {
     $basetexture "example/animated_monthly_texture"
-	$frame 0
+    $frame 0
 
     Proxies {
         LocalTime_Month {

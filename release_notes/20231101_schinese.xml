@@ -48,7 +48,7 @@
 		[*]Added 3 new material proxies - LocalTime_Month, LocalTime_Day, LocalTime_Hour. Can be used to change the frame on an animated texture based on the viewer's local system time. Month values are from 0 to 11, days are from 0 to 30, hours are from 0 to 23. For example:
 [code]UnlitGeneric {
     $basetexture "example/animated_monthly_texture"
-	$frame 0
+    $frame 0
 
     Proxies {
         LocalTime_Month {
