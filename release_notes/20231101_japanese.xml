@@ -17,7 +17,7 @@
 [*][b]グレネードランチャー:[/b] 隊員よりとても低い場所を狙った際の軌道を変更し、今いる足場の端に当たらないようにした。
 [*]エイム補助機能付きの武器がスキャナーを狙わないようになった。
 [*]海兵隊以外が発射した武器の弾丸もローリングでくぐり抜けられるようになった。
-		[*]Added a [b]cl_loadout_random[/b] console command. It randomises primary, secondary and extra weapons for you and your bot marines.
+[*]コンソールコマンドとして[b]cl_loadout_random[/b]を追加。自分の武器と携行アイテムとbot隊員をランダムに変更する。
 [/list]
 
 [h2]メニュー[/h2]
@@ -44,8 +44,8 @@
 [*]チェーンソーの待機時の音を消したいチャレンジ用にrd_chainsaw_idle_soundを追加。
 [*]特定のユーザー作成マップで配置されたアントライオンガードとアントライオンガーディアンを倒してもエイリアン図鑑でアンロックされなかったのを修正。
 [*]info_node_linkが正しく初期化されないことにより経路探索がクラッシュを起こしていたのを修正。
-		[*]Added a CollideWithMarines keyvalue to func_asw_fade. Main purpose is to preserve any out-of-bounds exploits used in speedruns.
-		[*]Added 3 new material proxies - LocalTime_Month, LocalTime_Day, LocalTime_Hour. Can be used to change the frame on an animated texture based on the viewer's local system time. Month values are from 0 to 11, days are from 0 to 30, hours are from 0 to 23. For example:
+[*]func_asw_fadeにキー値としてCollideWithMarinesを追加。スピードランで使われるようなマップ外移動バグ技を禁止するのに使う。
+[*]マテリアルプロキシを3種追加 - LocalTime_Month, LocalTime_Day, LocalTime_Hour。アニメーションテクスチャのフレームをプレイヤーのPC内時計に応じて変えることができる。月は0から11、日は0から30、時間は0から23で指定する。以下は使用例:
 [code]UnlitGeneric {
     $basetexture "example/animated_monthly_texture"
     $frame 0

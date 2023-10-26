@@ -1008,9 +1008,9 @@
 
 </summary>
 
-### Mail and News
+### Upcoming Release Notes
 
-- [mail/biogen_mail_windows_german.txt](resource/mail/biogen_mail_windows_german.txt) has 5 indented lines.
+- [20231101_german.xml](release_notes/20231101_german.xml) has 1 indented lines.
 
 </details>
 
