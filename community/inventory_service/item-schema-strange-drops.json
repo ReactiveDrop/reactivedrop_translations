@@ -73,7 +73,7 @@
 		{
 			"itemdefid": 7009,
 			"type": "item",
-			"name": "Material Token Common Crate",
+			"name": "Material Token Common Mini-Crate",
 			"game_only": true,
 			"item_slot": "material_drop_token"
 		},
@@ -246,8 +246,8 @@
 		{
 			"itemdefid": 7033,
 			"type": "bundle",
-			"name": "Material Redeem Common Crate",
-			"description": "Grants crafting material Crate x1-3",
+			"name": "Material Redeem Common Mini-Crate",
+			"description": "Grants crafting material Mini-Crate x1-3",
 			"exchange": "7009",
 			"bundle": "4007x1;7069x2"
 		},
@@ -500,7 +500,7 @@
 		{
 			"itemdefid": 7069,
 			"type": "generator",
-			"name": "Material Common Crate x0 or x1",
+			"name": "Material Common Mini-Crate x0 or x1",
 			"bundle": "4007;7056"
 		},
 		{
