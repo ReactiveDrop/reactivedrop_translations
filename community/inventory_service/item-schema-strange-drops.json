@@ -40,192 +40,168 @@
 			"type": "item",
 			"name": "Material Token Common Scrap Metal",
 			"game_only": true,
-			"item_slot": "material_drop_token",
-			"equip_index": 7028
+			"item_slot": "material_drop_token"
 		},
 		{
 			"itemdefid": 7005,
 			"type": "item",
 			"name": "Material Token Common Electrical Components",
 			"game_only": true,
-			"item_slot": "material_drop_token",
-			"equip_index": 7029
+			"item_slot": "material_drop_token"
 		},
 		{
 			"itemdefid": 7006,
 			"type": "item",
 			"name": "Material Token Common Spare Pipe",
 			"game_only": true,
-			"item_slot": "material_drop_token",
-			"equip_index": 7030
+			"item_slot": "material_drop_token"
 		},
 		{
 			"itemdefid": 7007,
 			"type": "item",
 			"name": "Material Token Common Plastics",
 			"game_only": true,
-			"item_slot": "material_drop_token",
-			"equip_index": 7031
+			"item_slot": "material_drop_token"
 		},
 		{
 			"itemdefid": 7008,
 			"type": "item",
 			"name": "Material Token Common Coolant",
 			"game_only": true,
-			"item_slot": "material_drop_token",
-			"equip_index": 7032
+			"item_slot": "material_drop_token"
 		},
 		{
 			"itemdefid": 7009,
 			"type": "item",
 			"name": "Material Token Common Crate",
 			"game_only": true,
-			"item_slot": "material_drop_token",
-			"equip_index": 7033
+			"item_slot": "material_drop_token"
 		},
 		{
 			"itemdefid": 7010,
 			"type": "item",
 			"name": "Material Token Common Battery Pack",
 			"game_only": true,
-			"item_slot": "material_drop_token",
-			"equip_index": 7034
+			"item_slot": "material_drop_token"
 		},
 		{
 			"itemdefid": 7011,
 			"type": "item",
 			"name": "Material Token Ultra-Common Loose Wires",
 			"game_only": true,
-			"item_slot": "material_drop_token",
-			"equip_index": 7035
+			"item_slot": "material_drop_token"
 		},
 		{
 			"itemdefid": 7012,
 			"type": "item",
 			"name": "Material Token Ultra-Common Carbon",
 			"game_only": true,
-			"item_slot": "material_drop_token",
-			"equip_index": 7036
+			"item_slot": "material_drop_token"
 		},
 		{
 			"itemdefid": 7013,
 			"type": "item",
 			"name": "Material Token Uncommon Alien Chitin",
 			"game_only": true,
-			"item_slot": "material_drop_token",
-			"equip_index": 7037
+			"item_slot": "material_drop_token"
 		},
 		{
 			"itemdefid": 7014,
 			"type": "item",
 			"name": "Material Token Uncommon Biomass Sample",
 			"game_only": true,
-			"item_slot": "material_drop_token",
-			"equip_index": 7038
+			"item_slot": "material_drop_token"
 		},
 		{
 			"itemdefid": 7015,
 			"type": "item",
 			"name": "Material Token Uncommon Glowing Green Acid",
 			"game_only": true,
-			"item_slot": "material_drop_token",
-			"equip_index": 7039
+			"item_slot": "material_drop_token"
 		},
 		{
 			"itemdefid": 7016,
 			"type": "item",
 			"name": "Material Token Uncommon Claw Fragment",
 			"game_only": true,
-			"item_slot": "material_drop_token",
-			"equip_index": 7040
+			"item_slot": "material_drop_token"
 		},
 		{
 			"itemdefid": 7017,
 			"type": "item",
 			"name": "Material Token Rare Memory Management Unit",
 			"game_only": true,
-			"item_slot": "material_drop_token",
-			"equip_index": 7041
+			"item_slot": "material_drop_token"
 		},
 		{
 			"itemdefid": 7018,
 			"type": "item",
 			"name": "Material Token Rare Arithmetic Logic Unit",
 			"game_only": true,
-			"item_slot": "material_drop_token",
-			"equip_index": 7042
+			"item_slot": "material_drop_token"
 		},
 		{
 			"itemdefid": 7019,
 			"type": "item",
 			"name": "Material Token Rare Data Storage Medium",
 			"game_only": true,
-			"item_slot": "material_drop_token",
-			"equip_index": 7043
+			"item_slot": "material_drop_token"
 		},
 		{
 			"itemdefid": 7020,
 			"type": "item",
 			"name": "Material Token Regional Pile of Red Sand",
 			"game_only": true,
-			"item_slot": "material_drop_token",
-			"equip_index": 7044
+			"item_slot": "material_drop_token"
 		},
 		{
 			"itemdefid": 7021,
 			"type": "item",
 			"name": "Material Token Regional Antlion Carapace",
 			"game_only": true,
-			"item_slot": "material_drop_token",
-			"equip_index": 7045
+			"item_slot": "material_drop_token"
 		},
 		{
 			"itemdefid": 7022,
 			"type": "item",
 			"name": "Material Token Regional Corrosive Fluid Sample",
 			"game_only": true,
-			"item_slot": "material_drop_token",
-			"equip_index": 7046
+			"item_slot": "material_drop_token"
 		},
 		{
 			"itemdefid": 7023,
 			"type": "item",
 			"name": "Material Token Regional Cooled Volcanic Rock",
 			"game_only": true,
-			"item_slot": "material_drop_token",
-			"equip_index": 7047
+			"item_slot": "material_drop_token"
 		},
 		{
 			"itemdefid": 7024,
 			"type": "item",
 			"name": "Material Token Regional Retrieved Documents",
 			"game_only": true,
-			"item_slot": "material_drop_token",
-			"equip_index": 7048
+			"item_slot": "material_drop_token"
 		},
 		{
 			"itemdefid": 7025,
 			"type": "item",
 			"name": "Material Token Regional Unopened SynUp Cola",
 			"game_only": true,
-			"item_slot": "material_drop_token",
-			"equip_index": 7049
+			"item_slot": "material_drop_token"
 		},
 		{
 			"itemdefid": 7026,
 			"type": "item",
 			"name": "Material Token Regional Roll of Vent Tape",
 			"game_only": true,
-			"item_slot": "material_drop_token",
-			"equip_index": 7050
+			"item_slot": "material_drop_token"
 		},
 		{
 			"itemdefid": 7027,
 			"type": "item",
 			"name": "Material Token Regional Isotopes",
 			"game_only": true,
-			"item_slot": "material_drop_token",
-			"equip_index": 7051
+			"item_slot": "material_drop_token"
 		},
 		{
 			"itemdefid": 7028,
