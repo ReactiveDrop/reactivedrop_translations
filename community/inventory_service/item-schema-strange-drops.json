@@ -16,8 +16,8 @@
 			"itemdefid": 7001,
 			"type": "bundle",
 			"name": "Playtime Random Material Tokens Weekly Bundle",
-			"description": "Grants tokens: 40-100 common or ultra-common, 5-10 uncommon, 1-5 rare, 10-30 regional",
-			"bundle": "7052x40;7057x60;7053x5;7058x5;7054x1;7059x4;7055x10;7060x20"
+			"description": "Grants tokens: 20-50 common or ultra-common, 5-10 uncommon, 1-5 rare, 10-30 regional",
+			"bundle": "7052x20;7057x30;7053x5;7058x5;7054x1;7059x4;7055x10;7060x20"
 		},
 		{
 			"itemdefid": 7002,
