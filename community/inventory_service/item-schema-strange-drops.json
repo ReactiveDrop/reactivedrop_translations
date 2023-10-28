@@ -417,7 +417,7 @@
 			"itemdefid": 7055,
 			"type": "generator",
 			"name": "Random Material Token Regional",
-			"bundle": "7020;7021;7022;7023;7024;7025;7026;7027"
+			"bundle": "7020;7021;7022;7023;7024;7025;7026;7027;7071"
 		},
 		{
 			"itemdefid": 7056,
@@ -508,6 +508,21 @@
 			"type": "generator",
 			"name": "Material Common Battery Pack x0 or x1",
 			"bundle": "4008;7056"
+		},
+		{
+			"itemdefid": 7071,
+			"type": "item",
+			"name": "Material Token Regional Cryotic",
+			"game_only": true,
+			"item_slot": "material_drop_token"
+		},
+		{
+			"itemdefid": 7072,
+			"type": "bundle",
+			"name": "Material Redeem Regional Cryotic",
+			"description": "Grants crafting material Cryotic x1",
+			"exchange": "7071",
+			"bundle": "4026"
 		}
 	]
 }

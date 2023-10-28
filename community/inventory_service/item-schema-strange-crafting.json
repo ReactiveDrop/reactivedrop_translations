@@ -296,6 +296,19 @@
 			"auto_stack": true,
 			"tags": "rarity:common;crafting_item:regional",
 			"compressed_dynamic_props": "m_unQuantity"
+		},
+		{
+			"itemdefid": 4026,
+			"type": "item",
+			"translator_note": "This material is a reference to the identically-named material in Warframe.",
+			"name_english": "Cryotic",
+			"display_type_english": "Salvaged Material",
+			"description_english": "A hazardous material that freezes on contact, found while on a mission.",
+			"after_description_english": "Quantity: %m_unQuantity%",
+			"icon_url": "https://stats.reactivedrop.com/static/medals/error.png",
+			"auto_stack": true,
+			"tags": "rarity:common;crafting_item:regional",
+			"compressed_dynamic_props": "m_unQuantity"
 		}
 	]
 }
