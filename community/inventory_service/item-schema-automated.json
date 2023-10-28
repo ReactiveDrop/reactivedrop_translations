@@ -1297,6 +1297,7 @@
 			"tags": "rarity:strange_rarity;slot:medal;strange:42",
 			"promo": "manual",
 			"granted_manually": true,
+			"compressed_dynamic_props": "strange_42",
 			"item_slot": "medal"
 		}
 	]
