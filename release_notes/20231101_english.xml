@@ -4,12 +4,21 @@
 [h2]New Campaign: Reduction[/h2]
 A remastered version of the Reduction campaign is now available in the game.
 
+[h2]Official Missions[/h2]
+[list]
+[*][b]Tears for Tarnor: Oasis Colony Spaceport:[/b] Fixed specific walls becoming invisible after aliens spawned from certain locations.
+[*][b]Tears for Tarnor: Oasis Colony Spaceport:[/b] Improved graphics when playing in first or third person.
+[*][b]BioGen Corporation: BioGen Labs:[/b] Updated the graphical style of the mission.
+[/list]
+
 [h2]Weapons[/h2]
 [list]
 [*][b]ML30 Laser Trip Mine:[/b] Mines are no longer triggered by invulnerable NPCs, such as scanners.
+[*][b]Chainsaw:[/b] Fixed firing sound persisting after marine death.
 [*][b]Grenade Launcher:[/b] Shots aimed far below the marine will now arc differently to avoid hitting the edge of the platform the marine is standing on.
 [*]Aim-assisted weapons no longer target scanners.
 [*]Marines can now safely roll through all bullets, even those fired by non-marines.
+[*]Added a [b]cl_loadout_random[/b] console command. It randomises primary, secondary and extra weapons for you and your bot marines.
 [/list]
 
 [h2]Menus[/h2]
@@ -34,6 +43,20 @@ A remastered version of the Reduction campaign is now available in the game.
 [*]Added an option to asw_jukebox to make it not interrupt player-supplied combat music, for use in multi-part combat music.
 [*]Marine skill points can now be reassigned via convars (eg. asw_marine_skill_sarge_0).
 [*]Added rd_chainsaw_idle_sound for challenges that want to disable the chainsaw idle sound.
+[*]Fixed certain mapper-placed Antlion Guards and Antlion Guardians not unlocking the Swarmopedia entry when killed.
+[*]Fixed a pathfinding crash caused by incorrect initialization of info_node_link.
+[*]Added a CollideWithMarines keyvalue to func_asw_fade. Main purpose is to preserve any out-of-bounds exploits used in speedruns.
+[*]Added 3 new material proxies - LocalTime_Month, LocalTime_Day, LocalTime_Hour. Can be used to change the frame on an animated texture based on the viewer's local system time. Month values are from 0 to 11, days are from 0 to 30, hours are from 0 to 23. For example:
+[code]UnlitGeneric {
+    $basetexture "example/animated_monthly_texture"
+    $frame 0
+
+    Proxies {
+        LocalTime_Month {
+            resultvar "$frame"
+        }
+    }
+}[/code]
 [/list]
 
 [h2]Controller[/h2]

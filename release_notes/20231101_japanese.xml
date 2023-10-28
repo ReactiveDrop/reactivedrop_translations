@@ -4,12 +4,20 @@
 [h2]新キャンペーン: Reduction[/h2]
 あのReductionキャンペーンのリマスター版が新登場です。
 
+[h2]公式ミッション[/h2]
+[list]
+[*][b]Tears for Tarnor: Oasis Colony Spaceport:[/b] 特定の場所からエイリアンが発生すると特定の壁が透明になっていたのを修正。
+[*][b]Tears for Tarnor: Oasis Colony Spaceport:[/b] 一人称や三人称視点モードでのグラフィックを改善。
+[*][b]BioGen Corporation: BioGen Labs:[/b] このミッションの描画スタイルを改定。
+[/list]
+
 [h2]武器[/h2]
 [list]
 [*][b]ML30 レーザー検知地雷:[/b] 地雷はスキャナーのような無敵NPC相手に起動しなくなった。
 [*][b]グレネードランチャー:[/b] 隊員よりとても低い場所を狙った際の軌道を変更し、今いる足場の端に当たらないようにした。
 [*]エイム補助機能付きの武器がスキャナーを狙わないようになった。
 [*]海兵隊以外が発射した武器の弾丸もローリングでくぐり抜けられるようになった。
+[*]コンソールコマンドとして[b]cl_loadout_random[/b]を追加。自分の武器と携行アイテムとbot隊員をランダムに変更する。
 [/list]
 
 [h2]メニュー[/h2]
@@ -34,6 +42,20 @@
 [*]プレイヤーが追加した戦闘用BGMが中断されないようになるオプションをasw_jukeboxに追加した。複数パートに分かれた戦闘用BGMに使える。
 [*]隊員のスキルポイントはコンソール変数を使用して変更できるようになった(例：asw_marine_skill_sarge_0)。
 [*]チェーンソーの待機時の音を消したいチャレンジ用にrd_chainsaw_idle_soundを追加。
+[*]特定のユーザー作成マップで配置されたアントライオンガードとアントライオンガーディアンを倒してもエイリアン図鑑でアンロックされなかったのを修正。
+[*]info_node_linkが正しく初期化されないことにより経路探索がクラッシュを起こしていたのを修正。
+[*]func_asw_fadeにキー値としてCollideWithMarinesを追加。スピードランで使われるようなマップ外移動バグ技を禁止するのに使う。
+[*]マテリアルプロキシを3種追加 - LocalTime_Month, LocalTime_Day, LocalTime_Hour。アニメーションテクスチャのフレームをプレイヤーのPC内時計に応じて変えることができる。月は0から11、日は0から30、時間は0から23で指定する。以下は使用例:
+[code]UnlitGeneric {
+    $basetexture "example/animated_monthly_texture"
+    $frame 0
+
+    Proxies {
+        LocalTime_Month {
+            resultvar "$frame"
+        }
+    }
+}[/code]
 [/list]
 
 [h2]コントローラー[/h2]

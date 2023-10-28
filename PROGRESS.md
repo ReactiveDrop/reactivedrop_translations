@@ -1,31 +1,31 @@
 # Overview
 | Language | basemodui | closecaption | gameui | reactivedrop | statsweb | Strings | Inventory | Files |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
-| [Traditional Chinese](#tchinese-繁體中文) | 9 | 140 | 33 | 2798 | 200 | 236 | 454 | 145 |
-| [Czech](#czech-čeština) | 71 | 1810 | 42 | 3915 | 200 | 980 | 524 | 145 |
-| [Danish](#non-curated-languages) | 52 | 231 | 42 | 3443 | 200 | 710 | 519 | 146 |
-| [Dutch](#non-curated-languages) | 51 | 2004 | 42 | 2911 | 200 | 710 | 456 | 145 |
-| [Finnish](#non-curated-languages) | 51 | 2004 | 42 | 2911 | 200 | 710 | 456 | 145 |
-| [French](#french-français) | 27 | 138 | 42 | 2276 | 200 | 650 | 442 | 124 |
-| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
-| [Hungarian](#non-curated-languages) | 51 | 138 | 42 | 2911 | 200 | 975 | 456 | 146 |
-| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | 53 | ✔️ | ✔️ | 4 | ✔️ |
-| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 103 | ✔️ | ✔️ |
-| [Korean](#koreana-한국어) | 7 | 10 | 38 | 1407 | 22 | 441 | 442 | 47 |
-| [Norwegian Bokmål](#non-curated-languages) | 69 | 708 | 47 | 3617 | 200 | 710 | 525 | 146 |
-| [Polish](#polish-polski) | 28 | 2004 | 42 | 2911 | 200 | 706 | 456 | 142 |
-| [European Portuguese](#portuguese-português-europeu) | ✔️ | 180 | 32 | 1999 | 21 | 628 | 465 | 140 |
-| [Brazilian Portuguese](#brazilian-português) | 2 | 2004 | 32 | 1170 | 9 | 276 | 223 | 7 |
-| [Romanian](#non-curated-languages) | 51 | 1996 | 48 | 3622 | 200 | 975 | 502 | 146 |
-| [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | 53 | ✔️ | ✔️ | 4 | 1 |
-| [European Spanish](#spanish-español-de-españa) | 28 | 2004 | 40 | 2326 | 200 | 714 | 452 | 145 |
-| [Latin American Spanish](#latam-español-latinoamericano) | 1281 | 2004 | 634 | 4422 | 204 | 980 | 538 | 146 |
-| [Swedish](#non-curated-languages) | 51 | 2004 | 42 | 2911 | 200 | 710 | 456 | 146 |
-| [Thai](#non-curated-languages) | 966 | 1993 | 50 | 4158 | 200 | 739 | 535 | 146 |
-| [Turkish](#non-curated-languages) | 51 | 137 | 42 | 2911 | 200 | 975 | 456 | 146 |
-| [Ukrainian](#ukrainian-українська) | 27 | 131 | 32 | 2454 | 200 | 928 | 450 | 145 |
-| [Vietnamese](#vietnamese-tiếng-việt) | 1281 | 2004 | 628 | 3340 | 200 | 540 | 538 | 112 |
+| [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 100 | ✔️ |
+| [Traditional Chinese](#tchinese-繁體中文) | 9 | 140 | 33 | 2799 | 200 | 236 | 554 | 146 |
+| [Czech](#czech-čeština) | 71 | 1810 | 42 | 3916 | 200 | 980 | 624 | 146 |
+| [Danish](#non-curated-languages) | 52 | 231 | 42 | 3444 | 200 | 710 | 619 | 147 |
+| [Dutch](#non-curated-languages) | 51 | 2004 | 42 | 2912 | 200 | 710 | 556 | 146 |
+| [Finnish](#non-curated-languages) | 51 | 2004 | 42 | 2912 | 200 | 710 | 556 | 146 |
+| [French](#french-français) | 27 | 138 | 42 | 2277 | 200 | 650 | 542 | 125 |
+| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 100 | ✔️ |
+| [Hungarian](#non-curated-languages) | 51 | 138 | 42 | 2912 | 200 | 975 | 556 | 147 |
+| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 100 | ✔️ |
+| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 103 | 100 | ✔️ |
+| [Korean](#koreana-한국어) | 7 | 10 | 38 | 1408 | 22 | 441 | 542 | 48 |
+| [Norwegian Bokmål](#non-curated-languages) | 69 | 708 | 47 | 3618 | 200 | 710 | 625 | 147 |
+| [Polish](#polish-polski) | 28 | 2004 | 42 | 2912 | 200 | 706 | 556 | 143 |
+| [European Portuguese](#portuguese-português-europeu) | ✔️ | 180 | 32 | 2000 | 21 | 628 | 565 | 141 |
+| [Brazilian Portuguese](#brazilian-português) | 2 | 2004 | 32 | 1171 | 9 | 276 | 323 | 8 |
+| [Romanian](#non-curated-languages) | 51 | 1996 | 48 | 3623 | 200 | 975 | 602 | 147 |
+| [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | 54 | ✔️ | ✔️ | 104 | 2 |
+| [European Spanish](#spanish-español-de-españa) | 28 | 2004 | 40 | 2327 | 200 | 714 | 552 | 146 |
+| [Latin American Spanish](#latam-español-latinoamericano) | 1281 | 2004 | 634 | 4423 | 204 | 980 | 638 | 147 |
+| [Swedish](#non-curated-languages) | 51 | 2004 | 42 | 2912 | 200 | 710 | 556 | 147 |
+| [Thai](#non-curated-languages) | 966 | 1993 | 50 | 4159 | 200 | 739 | 635 | 147 |
+| [Turkish](#non-curated-languages) | 51 | 137 | 42 | 2912 | 200 | 975 | 556 | 147 |
+| [Ukrainian](#ukrainian-українська) | 27 | 131 | 32 | 2455 | 200 | 928 | 550 | 146 |
+| [Vietnamese](#vietnamese-tiếng-việt) | 1281 | 2004 | 628 | 3341 | 200 | 540 | 638 | 113 |
 ### Legend
 - ***Non-capitalized column headers*** are the most important specific files and their number of missing strings. All of these txt-files are located in the resources folder. Except statsweb, which lies in community/stats_website, it's an vdf-file.
 - ***Strings*** is the number of missing strings not included in one of the files which get an individual non-capitalized column.
@@ -40,7 +40,33 @@
 
 </summary>
 
-✓ Up to date!
+### Inventory Schema
+
+- Item 4002 "Scrap Metal" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_schinese`, `description_schinese`, `after_description_schinese`, `display_type_schinese`
+- Item 4003 "Electrical Components" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_schinese`, `description_schinese`, `after_description_schinese`, `display_type_schinese`
+- Item 4004 "Spare Pipe" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_schinese`, `description_schinese`, `after_description_schinese`, `display_type_schinese`
+- Item 4005 "Plastics" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_schinese`, `description_schinese`, `after_description_schinese`, `display_type_schinese`
+- Item 4006 "Coolant" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_schinese`, `description_schinese`, `after_description_schinese`, `display_type_schinese`
+- Item 4007 "Mini-Crate" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_schinese`, `description_schinese`, `after_description_schinese`, `display_type_schinese`
+- Item 4008 "Battery Pack" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_schinese`, `description_schinese`, `after_description_schinese`, `display_type_schinese`
+- Item 4009 "Loose Wires" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_schinese`, `description_schinese`, `after_description_schinese`, `display_type_schinese`
+- Item 4010 "Carbon" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_schinese`, `description_schinese`, `after_description_schinese`, `display_type_schinese`
+- Item 4011 "Alien Chitin" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_schinese`, `description_schinese`, `after_description_schinese`, `display_type_schinese`
+- Item 4012 "Biomass Sample" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_schinese`, `description_schinese`, `after_description_schinese`, `display_type_schinese`
+- Item 4013 "Glowing Green Acid" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_schinese`, `description_schinese`, `after_description_schinese`, `display_type_schinese`
+- Item 4014 "Claw Fragment" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_schinese`, `description_schinese`, `after_description_schinese`, `display_type_schinese`
+- Item 4015 "Memory Management Unit" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_schinese`, `description_schinese`, `after_description_schinese`, `display_type_schinese`
+- Item 4016 "Arithmetic Logic Unit" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_schinese`, `description_schinese`, `after_description_schinese`, `display_type_schinese`
+- Item 4017 "Data Storage Medium" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_schinese`, `description_schinese`, `after_description_schinese`, `display_type_schinese`
+- Item 4018 "Pile of Red Sand" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_schinese`, `description_schinese`, `after_description_schinese`, `display_type_schinese`
+- Item 4019 "Antlion Carapace" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_schinese`, `description_schinese`, `after_description_schinese`, `display_type_schinese`
+- Item 4020 "Corrosive Fluid Sample" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_schinese`, `description_schinese`, `after_description_schinese`, `display_type_schinese`
+- Item 4021 "Cooled Volcanic Rock" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_schinese`, `description_schinese`, `after_description_schinese`, `display_type_schinese`
+- Item 4022 "Retrieved Documents" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_schinese`, `description_schinese`, `after_description_schinese`, `display_type_schinese`
+- Item 4023 "Unopened SynUp Cola" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_schinese`, `description_schinese`, `after_description_schinese`, `display_type_schinese`
+- Item 4024 "Roll of Vent Tape" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_schinese`, `description_schinese`, `after_description_schinese`, `display_type_schinese`
+- Item 4025 "Isotopes" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_schinese`, `description_schinese`, `after_description_schinese`, `display_type_schinese`
+- Item 4026 "Cryotic" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_schinese`, `description_schinese`, `after_description_schinese`, `display_type_schinese`
 
 </details>
 
@@ -61,7 +87,7 @@
 - [basemodui_tchinese.txt](resource/basemodui_tchinese.txt) has 9 untranslated strings.
 - [closecaption_tchinese.txt](resource/closecaption_tchinese.txt) has 140 untranslated strings.
 - [gameui_tchinese.txt](resource/gameui_tchinese.txt) has 33 untranslated strings.
-- [reactivedrop_tchinese.txt](resource/reactivedrop_tchinese.txt) has 2798 untranslated strings.
+- [reactivedrop_tchinese.txt](resource/reactivedrop_tchinese.txt) has 2799 untranslated strings.
 - [valve_tchinese.txt](resource/valve_tchinese.txt) has 6 untranslated strings.
 
 ### Steam Store and Community
@@ -120,6 +146,7 @@
 - [mail/acc_research1_tchinese.txt](resource/mail/acc_research1_english.txt) is missing.
 - [mail/acc_research2_tchinese.txt](resource/mail/acc_research2_english.txt) is missing.
 - [mail/acc_research3_tchinese.txt](resource/mail/acc_research3_english.txt) is missing.
+- [mail/biogen_mail_windows_tchinese.txt](resource/mail/biogen_mail_windows_english.txt) is missing.
 - [mail/labsmail1_tchinese.txt](resource/mail/labsmail1_english.txt) is missing.
 - [mail/labsmail2_tchinese.txt](resource/mail/labsmail2_english.txt) is missing.
 - [mail/labsmail3_tchinese.txt](resource/mail/labsmail3_english.txt) is missing.
@@ -300,6 +327,31 @@
 - Item 100000032 "Donor: __NAME__" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_tchinese`, `description_tchinese`, `ingame_description_tchinese`, `after_description_tchinese`, `display_type_tchinese`
 - Item 100000033 "Donor: __NAME__" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_tchinese`, `description_tchinese`, `ingame_description_tchinese`, `after_description_tchinese`, `display_type_tchinese`
 - Item 100000034 "Donor: TheScientist" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_tchinese`, `description_tchinese`, `ingame_description_tchinese`, `after_description_tchinese`, `display_type_tchinese`
+- Item 4002 "Scrap Metal" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_tchinese`, `description_tchinese`, `after_description_tchinese`, `display_type_tchinese`
+- Item 4003 "Electrical Components" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_tchinese`, `description_tchinese`, `after_description_tchinese`, `display_type_tchinese`
+- Item 4004 "Spare Pipe" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_tchinese`, `description_tchinese`, `after_description_tchinese`, `display_type_tchinese`
+- Item 4005 "Plastics" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_tchinese`, `description_tchinese`, `after_description_tchinese`, `display_type_tchinese`
+- Item 4006 "Coolant" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_tchinese`, `description_tchinese`, `after_description_tchinese`, `display_type_tchinese`
+- Item 4007 "Mini-Crate" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_tchinese`, `description_tchinese`, `after_description_tchinese`, `display_type_tchinese`
+- Item 4008 "Battery Pack" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_tchinese`, `description_tchinese`, `after_description_tchinese`, `display_type_tchinese`
+- Item 4009 "Loose Wires" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_tchinese`, `description_tchinese`, `after_description_tchinese`, `display_type_tchinese`
+- Item 4010 "Carbon" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_tchinese`, `description_tchinese`, `after_description_tchinese`, `display_type_tchinese`
+- Item 4011 "Alien Chitin" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_tchinese`, `description_tchinese`, `after_description_tchinese`, `display_type_tchinese`
+- Item 4012 "Biomass Sample" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_tchinese`, `description_tchinese`, `after_description_tchinese`, `display_type_tchinese`
+- Item 4013 "Glowing Green Acid" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_tchinese`, `description_tchinese`, `after_description_tchinese`, `display_type_tchinese`
+- Item 4014 "Claw Fragment" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_tchinese`, `description_tchinese`, `after_description_tchinese`, `display_type_tchinese`
+- Item 4015 "Memory Management Unit" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_tchinese`, `description_tchinese`, `after_description_tchinese`, `display_type_tchinese`
+- Item 4016 "Arithmetic Logic Unit" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_tchinese`, `description_tchinese`, `after_description_tchinese`, `display_type_tchinese`
+- Item 4017 "Data Storage Medium" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_tchinese`, `description_tchinese`, `after_description_tchinese`, `display_type_tchinese`
+- Item 4018 "Pile of Red Sand" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_tchinese`, `description_tchinese`, `after_description_tchinese`, `display_type_tchinese`
+- Item 4019 "Antlion Carapace" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_tchinese`, `description_tchinese`, `after_description_tchinese`, `display_type_tchinese`
+- Item 4020 "Corrosive Fluid Sample" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_tchinese`, `description_tchinese`, `after_description_tchinese`, `display_type_tchinese`
+- Item 4021 "Cooled Volcanic Rock" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_tchinese`, `description_tchinese`, `after_description_tchinese`, `display_type_tchinese`
+- Item 4022 "Retrieved Documents" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_tchinese`, `description_tchinese`, `after_description_tchinese`, `display_type_tchinese`
+- Item 4023 "Unopened SynUp Cola" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_tchinese`, `description_tchinese`, `after_description_tchinese`, `display_type_tchinese`
+- Item 4024 "Roll of Vent Tape" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_tchinese`, `description_tchinese`, `after_description_tchinese`, `display_type_tchinese`
+- Item 4025 "Isotopes" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_tchinese`, `description_tchinese`, `after_description_tchinese`, `display_type_tchinese`
+- Item 4026 "Cryotic" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_tchinese`, `description_tchinese`, `after_description_tchinese`, `display_type_tchinese`
 - Item 1000 "Sarge's Suit" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_tchinese`, `display_type_tchinese`
 - Item 1001 "Wildcat's Suit" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_tchinese`, `display_type_tchinese`
 - Item 1002 "Faith's Suit" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_tchinese`, `display_type_tchinese`
@@ -388,7 +440,7 @@
 - [chat_czech.txt](resource/chat_czech.txt) has 8 untranslated strings.
 - [closecaption_czech.txt](resource/closecaption_czech.txt) has 1810 untranslated strings.
 - [gameui_czech.txt](resource/gameui_czech.txt) has 42 untranslated strings.
-- [reactivedrop_czech.txt](resource/reactivedrop_czech.txt) has 3915 untranslated strings.
+- [reactivedrop_czech.txt](resource/reactivedrop_czech.txt) has 3916 untranslated strings.
 - [valve_czech.txt](resource/valve_czech.txt) has 266 untranslated strings.
 
 ### Steam Store and Community
@@ -447,6 +499,7 @@
 - [mail/acc_research1_czech.txt](resource/mail/acc_research1_english.txt) is missing.
 - [mail/acc_research2_czech.txt](resource/mail/acc_research2_english.txt) is missing.
 - [mail/acc_research3_czech.txt](resource/mail/acc_research3_english.txt) is missing.
+- [mail/biogen_mail_windows_czech.txt](resource/mail/biogen_mail_windows_english.txt) is missing.
 - [mail/labsmail1_czech.txt](resource/mail/labsmail1_english.txt) is missing.
 - [mail/labsmail2_czech.txt](resource/mail/labsmail2_english.txt) is missing.
 - [mail/labsmail3_czech.txt](resource/mail/labsmail3_english.txt) is missing.
@@ -627,6 +680,31 @@
 - Item 100000032 "Donor: __NAME__" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_czech`, `description_czech`, `ingame_description_czech`, `after_description_czech`, `display_type_czech`
 - Item 100000033 "Donor: __NAME__" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_czech`, `description_czech`, `ingame_description_czech`, `after_description_czech`, `display_type_czech`
 - Item 100000034 "Donor: TheScientist" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_czech`, `description_czech`, `ingame_description_czech`, `after_description_czech`, `display_type_czech`
+- Item 4002 "Scrap Metal" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_czech`, `description_czech`, `after_description_czech`, `display_type_czech`
+- Item 4003 "Electrical Components" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_czech`, `description_czech`, `after_description_czech`, `display_type_czech`
+- Item 4004 "Spare Pipe" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_czech`, `description_czech`, `after_description_czech`, `display_type_czech`
+- Item 4005 "Plastics" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_czech`, `description_czech`, `after_description_czech`, `display_type_czech`
+- Item 4006 "Coolant" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_czech`, `description_czech`, `after_description_czech`, `display_type_czech`
+- Item 4007 "Mini-Crate" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_czech`, `description_czech`, `after_description_czech`, `display_type_czech`
+- Item 4008 "Battery Pack" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_czech`, `description_czech`, `after_description_czech`, `display_type_czech`
+- Item 4009 "Loose Wires" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_czech`, `description_czech`, `after_description_czech`, `display_type_czech`
+- Item 4010 "Carbon" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_czech`, `description_czech`, `after_description_czech`, `display_type_czech`
+- Item 4011 "Alien Chitin" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_czech`, `description_czech`, `after_description_czech`, `display_type_czech`
+- Item 4012 "Biomass Sample" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_czech`, `description_czech`, `after_description_czech`, `display_type_czech`
+- Item 4013 "Glowing Green Acid" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_czech`, `description_czech`, `after_description_czech`, `display_type_czech`
+- Item 4014 "Claw Fragment" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_czech`, `description_czech`, `after_description_czech`, `display_type_czech`
+- Item 4015 "Memory Management Unit" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_czech`, `description_czech`, `after_description_czech`, `display_type_czech`
+- Item 4016 "Arithmetic Logic Unit" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_czech`, `description_czech`, `after_description_czech`, `display_type_czech`
+- Item 4017 "Data Storage Medium" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_czech`, `description_czech`, `after_description_czech`, `display_type_czech`
+- Item 4018 "Pile of Red Sand" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_czech`, `description_czech`, `after_description_czech`, `display_type_czech`
+- Item 4019 "Antlion Carapace" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_czech`, `description_czech`, `after_description_czech`, `display_type_czech`
+- Item 4020 "Corrosive Fluid Sample" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_czech`, `description_czech`, `after_description_czech`, `display_type_czech`
+- Item 4021 "Cooled Volcanic Rock" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_czech`, `description_czech`, `after_description_czech`, `display_type_czech`
+- Item 4022 "Retrieved Documents" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_czech`, `description_czech`, `after_description_czech`, `display_type_czech`
+- Item 4023 "Unopened SynUp Cola" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_czech`, `description_czech`, `after_description_czech`, `display_type_czech`
+- Item 4024 "Roll of Vent Tape" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_czech`, `description_czech`, `after_description_czech`, `display_type_czech`
+- Item 4025 "Isotopes" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_czech`, `description_czech`, `after_description_czech`, `display_type_czech`
+- Item 4026 "Cryotic" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_czech`, `description_czech`, `after_description_czech`, `display_type_czech`
 - Item 1000 "Sarge's Suit" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_czech`, `description_czech`, `display_type_czech`
 - Item 1001 "Wildcat's Suit" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_czech`, `description_czech`, `display_type_czech`
 - Item 1002 "Faith's Suit" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_czech`, `description_czech`, `display_type_czech`
@@ -714,7 +792,7 @@
 - [basemodui_french.txt](resource/basemodui_french.txt) has 27 untranslated strings.
 - [closecaption_french.txt](resource/closecaption_french.txt) has 138 untranslated strings.
 - [gameui_french.txt](resource/gameui_french.txt) has 42 untranslated strings.
-- [reactivedrop_french.txt](resource/reactivedrop_french.txt) has 2276 untranslated strings.
+- [reactivedrop_french.txt](resource/reactivedrop_french.txt) has 2277 untranslated strings.
 - [valve_french.txt](resource/valve_french.txt) has 202 untranslated strings.
 
 ### Steam Store and Community
@@ -773,6 +851,7 @@
 - [mail/acc_research1_french.txt](resource/mail/acc_research1_english.txt) is missing.
 - [mail/acc_research2_french.txt](resource/mail/acc_research2_english.txt) is missing.
 - [mail/acc_research3_french.txt](resource/mail/acc_research3_english.txt) is missing.
+- [mail/biogen_mail_windows_french.txt](resource/mail/biogen_mail_windows_english.txt) is missing.
 - [mail/labsmail1_french.txt](resource/mail/labsmail1_english.txt) is missing.
 - [mail/labsmail2_french.txt](resource/mail/labsmail2_english.txt) is missing.
 - [mail/labsmail3_french.txt](resource/mail/labsmail3_english.txt) is missing.
@@ -932,6 +1011,31 @@
 - Item 100000032 "Donor: __NAME__" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_french`, `description_french`, `ingame_description_french`, `after_description_french`, `display_type_french`
 - Item 100000033 "Donor: __NAME__" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_french`, `description_french`, `ingame_description_french`, `after_description_french`, `display_type_french`
 - Item 100000034 "Donor: TheScientist" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_french`, `description_french`, `ingame_description_french`, `after_description_french`, `display_type_french`
+- Item 4002 "Scrap Metal" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_french`, `description_french`, `after_description_french`, `display_type_french`
+- Item 4003 "Electrical Components" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_french`, `description_french`, `after_description_french`, `display_type_french`
+- Item 4004 "Spare Pipe" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_french`, `description_french`, `after_description_french`, `display_type_french`
+- Item 4005 "Plastics" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_french`, `description_french`, `after_description_french`, `display_type_french`
+- Item 4006 "Coolant" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_french`, `description_french`, `after_description_french`, `display_type_french`
+- Item 4007 "Mini-Crate" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_french`, `description_french`, `after_description_french`, `display_type_french`
+- Item 4008 "Battery Pack" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_french`, `description_french`, `after_description_french`, `display_type_french`
+- Item 4009 "Loose Wires" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_french`, `description_french`, `after_description_french`, `display_type_french`
+- Item 4010 "Carbon" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_french`, `description_french`, `after_description_french`, `display_type_french`
+- Item 4011 "Alien Chitin" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_french`, `description_french`, `after_description_french`, `display_type_french`
+- Item 4012 "Biomass Sample" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_french`, `description_french`, `after_description_french`, `display_type_french`
+- Item 4013 "Glowing Green Acid" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_french`, `description_french`, `after_description_french`, `display_type_french`
+- Item 4014 "Claw Fragment" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_french`, `description_french`, `after_description_french`, `display_type_french`
+- Item 4015 "Memory Management Unit" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_french`, `description_french`, `after_description_french`, `display_type_french`
+- Item 4016 "Arithmetic Logic Unit" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_french`, `description_french`, `after_description_french`, `display_type_french`
+- Item 4017 "Data Storage Medium" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_french`, `description_french`, `after_description_french`, `display_type_french`
+- Item 4018 "Pile of Red Sand" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_french`, `description_french`, `after_description_french`, `display_type_french`
+- Item 4019 "Antlion Carapace" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_french`, `description_french`, `after_description_french`, `display_type_french`
+- Item 4020 "Corrosive Fluid Sample" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_french`, `description_french`, `after_description_french`, `display_type_french`
+- Item 4021 "Cooled Volcanic Rock" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_french`, `description_french`, `after_description_french`, `display_type_french`
+- Item 4022 "Retrieved Documents" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_french`, `description_french`, `after_description_french`, `display_type_french`
+- Item 4023 "Unopened SynUp Cola" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_french`, `description_french`, `after_description_french`, `display_type_french`
+- Item 4024 "Roll of Vent Tape" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_french`, `description_french`, `after_description_french`, `display_type_french`
+- Item 4025 "Isotopes" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_french`, `description_french`, `after_description_french`, `display_type_french`
+- Item 4026 "Cryotic" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_french`, `description_french`, `after_description_french`, `display_type_french`
 - Item 1000 "Sarge's Suit" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_french`, `display_type_french`
 - Item 1001 "Wildcat's Suit" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_french`, `display_type_french`
 - Item 1002 "Faith's Suit" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_french`, `display_type_french`
@@ -1005,7 +1109,33 @@
 
 </summary>
 
-✓ Up to date!
+### Inventory Schema
+
+- Item 4002 "Scrap Metal" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_german`, `description_german`, `after_description_german`, `display_type_german`
+- Item 4003 "Electrical Components" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_german`, `description_german`, `after_description_german`, `display_type_german`
+- Item 4004 "Spare Pipe" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_german`, `description_german`, `after_description_german`, `display_type_german`
+- Item 4005 "Plastics" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_german`, `description_german`, `after_description_german`, `display_type_german`
+- Item 4006 "Coolant" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_german`, `description_german`, `after_description_german`, `display_type_german`
+- Item 4007 "Mini-Crate" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_german`, `description_german`, `after_description_german`, `display_type_german`
+- Item 4008 "Battery Pack" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_german`, `description_german`, `after_description_german`, `display_type_german`
+- Item 4009 "Loose Wires" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_german`, `description_german`, `after_description_german`, `display_type_german`
+- Item 4010 "Carbon" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_german`, `description_german`, `after_description_german`, `display_type_german`
+- Item 4011 "Alien Chitin" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_german`, `description_german`, `after_description_german`, `display_type_german`
+- Item 4012 "Biomass Sample" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_german`, `description_german`, `after_description_german`, `display_type_german`
+- Item 4013 "Glowing Green Acid" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_german`, `description_german`, `after_description_german`, `display_type_german`
+- Item 4014 "Claw Fragment" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_german`, `description_german`, `after_description_german`, `display_type_german`
+- Item 4015 "Memory Management Unit" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_german`, `description_german`, `after_description_german`, `display_type_german`
+- Item 4016 "Arithmetic Logic Unit" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_german`, `description_german`, `after_description_german`, `display_type_german`
+- Item 4017 "Data Storage Medium" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_german`, `description_german`, `after_description_german`, `display_type_german`
+- Item 4018 "Pile of Red Sand" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_german`, `description_german`, `after_description_german`, `display_type_german`
+- Item 4019 "Antlion Carapace" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_german`, `description_german`, `after_description_german`, `display_type_german`
+- Item 4020 "Corrosive Fluid Sample" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_german`, `description_german`, `after_description_german`, `display_type_german`
+- Item 4021 "Cooled Volcanic Rock" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_german`, `description_german`, `after_description_german`, `display_type_german`
+- Item 4022 "Retrieved Documents" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_german`, `description_german`, `after_description_german`, `display_type_german`
+- Item 4023 "Unopened SynUp Cola" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_german`, `description_german`, `after_description_german`, `display_type_german`
+- Item 4024 "Roll of Vent Tape" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_german`, `description_german`, `after_description_german`, `display_type_german`
+- Item 4025 "Isotopes" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_german`, `description_german`, `after_description_german`, `display_type_german`
+- Item 4026 "Cryotic" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_german`, `description_german`, `after_description_german`, `display_type_german`
 
 </details>
 
@@ -1015,14 +1145,33 @@
 
 </summary>
 
-### Strings
-
-- [reactivedrop_italian.txt](resource/reactivedrop_italian.txt) has 53 untranslated strings.
-
 ### Inventory Schema
 
-- Item 41 "Reduction Veteran" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_italian`, `description_italian`
-- Item 42 "Air Time" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_italian`, `description_italian`
+- Item 4002 "Scrap Metal" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_italian`, `description_italian`, `after_description_italian`, `display_type_italian`
+- Item 4003 "Electrical Components" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_italian`, `description_italian`, `after_description_italian`, `display_type_italian`
+- Item 4004 "Spare Pipe" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_italian`, `description_italian`, `after_description_italian`, `display_type_italian`
+- Item 4005 "Plastics" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_italian`, `description_italian`, `after_description_italian`, `display_type_italian`
+- Item 4006 "Coolant" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_italian`, `description_italian`, `after_description_italian`, `display_type_italian`
+- Item 4007 "Mini-Crate" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_italian`, `description_italian`, `after_description_italian`, `display_type_italian`
+- Item 4008 "Battery Pack" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_italian`, `description_italian`, `after_description_italian`, `display_type_italian`
+- Item 4009 "Loose Wires" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_italian`, `description_italian`, `after_description_italian`, `display_type_italian`
+- Item 4010 "Carbon" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_italian`, `description_italian`, `after_description_italian`, `display_type_italian`
+- Item 4011 "Alien Chitin" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_italian`, `description_italian`, `after_description_italian`, `display_type_italian`
+- Item 4012 "Biomass Sample" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_italian`, `description_italian`, `after_description_italian`, `display_type_italian`
+- Item 4013 "Glowing Green Acid" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_italian`, `description_italian`, `after_description_italian`, `display_type_italian`
+- Item 4014 "Claw Fragment" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_italian`, `description_italian`, `after_description_italian`, `display_type_italian`
+- Item 4015 "Memory Management Unit" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_italian`, `description_italian`, `after_description_italian`, `display_type_italian`
+- Item 4016 "Arithmetic Logic Unit" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_italian`, `description_italian`, `after_description_italian`, `display_type_italian`
+- Item 4017 "Data Storage Medium" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_italian`, `description_italian`, `after_description_italian`, `display_type_italian`
+- Item 4018 "Pile of Red Sand" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_italian`, `description_italian`, `after_description_italian`, `display_type_italian`
+- Item 4019 "Antlion Carapace" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_italian`, `description_italian`, `after_description_italian`, `display_type_italian`
+- Item 4020 "Corrosive Fluid Sample" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_italian`, `description_italian`, `after_description_italian`, `display_type_italian`
+- Item 4021 "Cooled Volcanic Rock" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_italian`, `description_italian`, `after_description_italian`, `display_type_italian`
+- Item 4022 "Retrieved Documents" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_italian`, `description_italian`, `after_description_italian`, `display_type_italian`
+- Item 4023 "Unopened SynUp Cola" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_italian`, `description_italian`, `after_description_italian`, `display_type_italian`
+- Item 4024 "Roll of Vent Tape" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_italian`, `description_italian`, `after_description_italian`, `display_type_italian`
+- Item 4025 "Isotopes" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_italian`, `description_italian`, `after_description_italian`, `display_type_italian`
+- Item 4026 "Cryotic" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_italian`, `description_italian`, `after_description_italian`, `display_type_italian`
 
 </details>
 
@@ -1037,6 +1186,34 @@
 - [addons/RiskOfRain/reactivedrop_japanese.txt](addons/RiskOfRain/resource/reactivedrop_japanese.txt) has 1 untranslated strings.
 - [misc/signage/signage_japanese.vdf](misc/signage/signage_japanese.vdf) has 67 untranslated strings.
 - [platform/vgui_japanese.txt](platform/vgui_japanese.txt) has 35 untranslated strings.
+
+### Inventory Schema
+
+- Item 4002 "Scrap Metal" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_japanese`, `description_japanese`, `after_description_japanese`, `display_type_japanese`
+- Item 4003 "Electrical Components" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_japanese`, `description_japanese`, `after_description_japanese`, `display_type_japanese`
+- Item 4004 "Spare Pipe" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_japanese`, `description_japanese`, `after_description_japanese`, `display_type_japanese`
+- Item 4005 "Plastics" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_japanese`, `description_japanese`, `after_description_japanese`, `display_type_japanese`
+- Item 4006 "Coolant" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_japanese`, `description_japanese`, `after_description_japanese`, `display_type_japanese`
+- Item 4007 "Mini-Crate" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_japanese`, `description_japanese`, `after_description_japanese`, `display_type_japanese`
+- Item 4008 "Battery Pack" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_japanese`, `description_japanese`, `after_description_japanese`, `display_type_japanese`
+- Item 4009 "Loose Wires" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_japanese`, `description_japanese`, `after_description_japanese`, `display_type_japanese`
+- Item 4010 "Carbon" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_japanese`, `description_japanese`, `after_description_japanese`, `display_type_japanese`
+- Item 4011 "Alien Chitin" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_japanese`, `description_japanese`, `after_description_japanese`, `display_type_japanese`
+- Item 4012 "Biomass Sample" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_japanese`, `description_japanese`, `after_description_japanese`, `display_type_japanese`
+- Item 4013 "Glowing Green Acid" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_japanese`, `description_japanese`, `after_description_japanese`, `display_type_japanese`
+- Item 4014 "Claw Fragment" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_japanese`, `description_japanese`, `after_description_japanese`, `display_type_japanese`
+- Item 4015 "Memory Management Unit" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_japanese`, `description_japanese`, `after_description_japanese`, `display_type_japanese`
+- Item 4016 "Arithmetic Logic Unit" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_japanese`, `description_japanese`, `after_description_japanese`, `display_type_japanese`
+- Item 4017 "Data Storage Medium" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_japanese`, `description_japanese`, `after_description_japanese`, `display_type_japanese`
+- Item 4018 "Pile of Red Sand" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_japanese`, `description_japanese`, `after_description_japanese`, `display_type_japanese`
+- Item 4019 "Antlion Carapace" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_japanese`, `description_japanese`, `after_description_japanese`, `display_type_japanese`
+- Item 4020 "Corrosive Fluid Sample" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_japanese`, `description_japanese`, `after_description_japanese`, `display_type_japanese`
+- Item 4021 "Cooled Volcanic Rock" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_japanese`, `description_japanese`, `after_description_japanese`, `display_type_japanese`
+- Item 4022 "Retrieved Documents" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_japanese`, `description_japanese`, `after_description_japanese`, `display_type_japanese`
+- Item 4023 "Unopened SynUp Cola" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_japanese`, `description_japanese`, `after_description_japanese`, `display_type_japanese`
+- Item 4024 "Roll of Vent Tape" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_japanese`, `description_japanese`, `after_description_japanese`, `display_type_japanese`
+- Item 4025 "Isotopes" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_japanese`, `description_japanese`, `after_description_japanese`, `display_type_japanese`
+- Item 4026 "Cryotic" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_japanese`, `description_japanese`, `after_description_japanese`, `display_type_japanese`
 
 </details>
 
@@ -1058,7 +1235,7 @@
 - [basemodui_koreana.txt](resource/basemodui_koreana.txt) has 7 untranslated strings.
 - [closecaption_koreana.txt](resource/closecaption_koreana.txt) has 10 untranslated strings.
 - [gameui_koreana.txt](resource/gameui_koreana.txt) has 38 untranslated strings.
-- [reactivedrop_koreana.txt](resource/reactivedrop_koreana.txt) has 1407 untranslated strings.
+- [reactivedrop_koreana.txt](resource/reactivedrop_koreana.txt) has 1408 untranslated strings.
 - [valve_koreana.txt](resource/valve_koreana.txt) has 96 untranslated strings.
 
 ### Steam Store and Community
@@ -1115,6 +1292,7 @@
 - [mail/acc_research1_koreana.txt](resource/mail/acc_research1_english.txt) is missing.
 - [mail/acc_research2_koreana.txt](resource/mail/acc_research2_english.txt) is missing.
 - [mail/acc_research3_koreana.txt](resource/mail/acc_research3_english.txt) is missing.
+- [mail/biogen_mail_windows_koreana.txt](resource/mail/biogen_mail_windows_english.txt) is missing.
 - [mail/ma_pda1_koreana.txt](resource/mail/ma_pda1_english.txt) is missing.
 - [mail/ma_pda2_koreana.txt](resource/mail/ma_pda2_english.txt) is missing.
 - [mail/nukeangermail_koreana.txt](resource/mail/nukeangermail_english.txt) is missing.
@@ -1199,6 +1377,31 @@
 - Item 100000032 "Donor: __NAME__" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_koreana`, `description_koreana`, `ingame_description_koreana`, `after_description_koreana`, `display_type_koreana`
 - Item 100000033 "Donor: __NAME__" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_koreana`, `description_koreana`, `ingame_description_koreana`, `after_description_koreana`, `display_type_koreana`
 - Item 100000034 "Donor: TheScientist" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_koreana`, `description_koreana`, `ingame_description_koreana`, `after_description_koreana`, `display_type_koreana`
+- Item 4002 "Scrap Metal" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_koreana`, `description_koreana`, `after_description_koreana`, `display_type_koreana`
+- Item 4003 "Electrical Components" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_koreana`, `description_koreana`, `after_description_koreana`, `display_type_koreana`
+- Item 4004 "Spare Pipe" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_koreana`, `description_koreana`, `after_description_koreana`, `display_type_koreana`
+- Item 4005 "Plastics" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_koreana`, `description_koreana`, `after_description_koreana`, `display_type_koreana`
+- Item 4006 "Coolant" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_koreana`, `description_koreana`, `after_description_koreana`, `display_type_koreana`
+- Item 4007 "Mini-Crate" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_koreana`, `description_koreana`, `after_description_koreana`, `display_type_koreana`
+- Item 4008 "Battery Pack" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_koreana`, `description_koreana`, `after_description_koreana`, `display_type_koreana`
+- Item 4009 "Loose Wires" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_koreana`, `description_koreana`, `after_description_koreana`, `display_type_koreana`
+- Item 4010 "Carbon" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_koreana`, `description_koreana`, `after_description_koreana`, `display_type_koreana`
+- Item 4011 "Alien Chitin" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_koreana`, `description_koreana`, `after_description_koreana`, `display_type_koreana`
+- Item 4012 "Biomass Sample" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_koreana`, `description_koreana`, `after_description_koreana`, `display_type_koreana`
+- Item 4013 "Glowing Green Acid" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_koreana`, `description_koreana`, `after_description_koreana`, `display_type_koreana`
+- Item 4014 "Claw Fragment" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_koreana`, `description_koreana`, `after_description_koreana`, `display_type_koreana`
+- Item 4015 "Memory Management Unit" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_koreana`, `description_koreana`, `after_description_koreana`, `display_type_koreana`
+- Item 4016 "Arithmetic Logic Unit" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_koreana`, `description_koreana`, `after_description_koreana`, `display_type_koreana`
+- Item 4017 "Data Storage Medium" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_koreana`, `description_koreana`, `after_description_koreana`, `display_type_koreana`
+- Item 4018 "Pile of Red Sand" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_koreana`, `description_koreana`, `after_description_koreana`, `display_type_koreana`
+- Item 4019 "Antlion Carapace" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_koreana`, `description_koreana`, `after_description_koreana`, `display_type_koreana`
+- Item 4020 "Corrosive Fluid Sample" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_koreana`, `description_koreana`, `after_description_koreana`, `display_type_koreana`
+- Item 4021 "Cooled Volcanic Rock" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_koreana`, `description_koreana`, `after_description_koreana`, `display_type_koreana`
+- Item 4022 "Retrieved Documents" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_koreana`, `description_koreana`, `after_description_koreana`, `display_type_koreana`
+- Item 4023 "Unopened SynUp Cola" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_koreana`, `description_koreana`, `after_description_koreana`, `display_type_koreana`
+- Item 4024 "Roll of Vent Tape" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_koreana`, `description_koreana`, `after_description_koreana`, `display_type_koreana`
+- Item 4025 "Isotopes" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_koreana`, `description_koreana`, `after_description_koreana`, `display_type_koreana`
+- Item 4026 "Cryotic" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_koreana`, `description_koreana`, `after_description_koreana`, `display_type_koreana`
 - Item 1000 "Sarge's Suit" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_koreana`, `display_type_koreana`
 - Item 1001 "Wildcat's Suit" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_koreana`, `display_type_koreana`
 - Item 1002 "Faith's Suit" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_koreana`, `display_type_koreana`
@@ -1286,7 +1489,7 @@
 - [chat_polish.txt](resource/chat_polish.txt) has 8 untranslated strings.
 - [closecaption_polish.txt](resource/closecaption_polish.txt) has 2004 untranslated strings.
 - [gameui_polish.txt](resource/gameui_polish.txt) has 42 untranslated strings.
-- [reactivedrop_polish.txt](resource/reactivedrop_polish.txt) has 2911 untranslated strings.
+- [reactivedrop_polish.txt](resource/reactivedrop_polish.txt) has 2912 untranslated strings.
 - [valve_polish.txt](resource/valve_polish.txt) has 266 untranslated strings.
 
 ### Steam Store and Community
@@ -1342,6 +1545,7 @@
 - [mail/acc_research1_polish.txt](resource/mail/acc_research1_english.txt) is missing.
 - [mail/acc_research2_polish.txt](resource/mail/acc_research2_english.txt) is missing.
 - [mail/acc_research3_polish.txt](resource/mail/acc_research3_english.txt) is missing.
+- [mail/biogen_mail_windows_polish.txt](resource/mail/biogen_mail_windows_english.txt) is missing.
 - [mail/labsmail1_polish.txt](resource/mail/labsmail1_english.txt) is missing.
 - [mail/labsmail2_polish.txt](resource/mail/labsmail2_english.txt) is missing.
 - [mail/labsmail3_polish.txt](resource/mail/labsmail3_english.txt) is missing.
@@ -1522,6 +1726,31 @@
 - Item 100000032 "Donor: __NAME__" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_polish`, `description_polish`, `ingame_description_polish`, `after_description_polish`, `display_type_polish`
 - Item 100000033 "Donor: __NAME__" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_polish`, `description_polish`, `ingame_description_polish`, `after_description_polish`, `display_type_polish`
 - Item 100000034 "Donor: TheScientist" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_polish`, `description_polish`, `ingame_description_polish`, `after_description_polish`, `display_type_polish`
+- Item 4002 "Scrap Metal" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_polish`, `description_polish`, `after_description_polish`, `display_type_polish`
+- Item 4003 "Electrical Components" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_polish`, `description_polish`, `after_description_polish`, `display_type_polish`
+- Item 4004 "Spare Pipe" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_polish`, `description_polish`, `after_description_polish`, `display_type_polish`
+- Item 4005 "Plastics" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_polish`, `description_polish`, `after_description_polish`, `display_type_polish`
+- Item 4006 "Coolant" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_polish`, `description_polish`, `after_description_polish`, `display_type_polish`
+- Item 4007 "Mini-Crate" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_polish`, `description_polish`, `after_description_polish`, `display_type_polish`
+- Item 4008 "Battery Pack" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_polish`, `description_polish`, `after_description_polish`, `display_type_polish`
+- Item 4009 "Loose Wires" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_polish`, `description_polish`, `after_description_polish`, `display_type_polish`
+- Item 4010 "Carbon" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_polish`, `description_polish`, `after_description_polish`, `display_type_polish`
+- Item 4011 "Alien Chitin" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_polish`, `description_polish`, `after_description_polish`, `display_type_polish`
+- Item 4012 "Biomass Sample" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_polish`, `description_polish`, `after_description_polish`, `display_type_polish`
+- Item 4013 "Glowing Green Acid" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_polish`, `description_polish`, `after_description_polish`, `display_type_polish`
+- Item 4014 "Claw Fragment" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_polish`, `description_polish`, `after_description_polish`, `display_type_polish`
+- Item 4015 "Memory Management Unit" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_polish`, `description_polish`, `after_description_polish`, `display_type_polish`
+- Item 4016 "Arithmetic Logic Unit" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_polish`, `description_polish`, `after_description_polish`, `display_type_polish`
+- Item 4017 "Data Storage Medium" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_polish`, `description_polish`, `after_description_polish`, `display_type_polish`
+- Item 4018 "Pile of Red Sand" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_polish`, `description_polish`, `after_description_polish`, `display_type_polish`
+- Item 4019 "Antlion Carapace" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_polish`, `description_polish`, `after_description_polish`, `display_type_polish`
+- Item 4020 "Corrosive Fluid Sample" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_polish`, `description_polish`, `after_description_polish`, `display_type_polish`
+- Item 4021 "Cooled Volcanic Rock" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_polish`, `description_polish`, `after_description_polish`, `display_type_polish`
+- Item 4022 "Retrieved Documents" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_polish`, `description_polish`, `after_description_polish`, `display_type_polish`
+- Item 4023 "Unopened SynUp Cola" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_polish`, `description_polish`, `after_description_polish`, `display_type_polish`
+- Item 4024 "Roll of Vent Tape" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_polish`, `description_polish`, `after_description_polish`, `display_type_polish`
+- Item 4025 "Isotopes" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_polish`, `description_polish`, `after_description_polish`, `display_type_polish`
+- Item 4026 "Cryotic" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_polish`, `description_polish`, `after_description_polish`, `display_type_polish`
 - Item 1000 "Sarge's Suit" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_polish`, `display_type_polish`
 - Item 1001 "Wildcat's Suit" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_polish`, `display_type_polish`
 - Item 1002 "Faith's Suit" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_polish`, `display_type_polish`
@@ -1607,7 +1836,7 @@
 - [platform/vgui_portuguese.txt](platform/vgui_portuguese.txt) has 93 untranslated strings.
 - [closecaption_portuguese.txt](resource/closecaption_portuguese.txt) has 180 untranslated strings.
 - [gameui_portuguese.txt](resource/gameui_portuguese.txt) has 32 untranslated strings.
-- [reactivedrop_portuguese.txt](resource/reactivedrop_portuguese.txt) has 1999 untranslated strings.
+- [reactivedrop_portuguese.txt](resource/reactivedrop_portuguese.txt) has 2000 untranslated strings.
 - [valve_portuguese.txt](resource/valve_portuguese.txt) has 266 untranslated strings.
 
 ### Steam Store and Community
@@ -1661,6 +1890,7 @@
 - [mail/acc_research1_portuguese.txt](resource/mail/acc_research1_english.txt) is missing.
 - [mail/acc_research2_portuguese.txt](resource/mail/acc_research2_english.txt) is missing.
 - [mail/acc_research3_portuguese.txt](resource/mail/acc_research3_english.txt) is missing.
+- [mail/biogen_mail_windows_portuguese.txt](resource/mail/biogen_mail_windows_english.txt) is missing.
 - [mail/labsmail1_portuguese.txt](resource/mail/labsmail1_english.txt) is missing.
 - [mail/labsmail2_portuguese.txt](resource/mail/labsmail2_english.txt) is missing.
 - [mail/labsmail3_portuguese.txt](resource/mail/labsmail3_english.txt) is missing.
@@ -1835,6 +2065,31 @@
 - Item 100000032 "Donor: __NAME__" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_portuguese`, `description_portuguese`, `ingame_description_portuguese`, `after_description_portuguese`, `display_type_portuguese`
 - Item 100000033 "Donor: __NAME__" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_portuguese`, `description_portuguese`, `ingame_description_portuguese`, `after_description_portuguese`, `display_type_portuguese`
 - Item 100000034 "Donor: TheScientist" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_portuguese`, `description_portuguese`, `ingame_description_portuguese`, `after_description_portuguese`, `display_type_portuguese`
+- Item 4002 "Scrap Metal" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_portuguese`, `description_portuguese`, `after_description_portuguese`, `display_type_portuguese`
+- Item 4003 "Electrical Components" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_portuguese`, `description_portuguese`, `after_description_portuguese`, `display_type_portuguese`
+- Item 4004 "Spare Pipe" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_portuguese`, `description_portuguese`, `after_description_portuguese`, `display_type_portuguese`
+- Item 4005 "Plastics" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_portuguese`, `description_portuguese`, `after_description_portuguese`, `display_type_portuguese`
+- Item 4006 "Coolant" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_portuguese`, `description_portuguese`, `after_description_portuguese`, `display_type_portuguese`
+- Item 4007 "Mini-Crate" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_portuguese`, `description_portuguese`, `after_description_portuguese`, `display_type_portuguese`
+- Item 4008 "Battery Pack" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_portuguese`, `description_portuguese`, `after_description_portuguese`, `display_type_portuguese`
+- Item 4009 "Loose Wires" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_portuguese`, `description_portuguese`, `after_description_portuguese`, `display_type_portuguese`
+- Item 4010 "Carbon" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_portuguese`, `description_portuguese`, `after_description_portuguese`, `display_type_portuguese`
+- Item 4011 "Alien Chitin" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_portuguese`, `description_portuguese`, `after_description_portuguese`, `display_type_portuguese`
+- Item 4012 "Biomass Sample" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_portuguese`, `description_portuguese`, `after_description_portuguese`, `display_type_portuguese`
+- Item 4013 "Glowing Green Acid" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_portuguese`, `description_portuguese`, `after_description_portuguese`, `display_type_portuguese`
+- Item 4014 "Claw Fragment" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_portuguese`, `description_portuguese`, `after_description_portuguese`, `display_type_portuguese`
+- Item 4015 "Memory Management Unit" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_portuguese`, `description_portuguese`, `after_description_portuguese`, `display_type_portuguese`
+- Item 4016 "Arithmetic Logic Unit" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_portuguese`, `description_portuguese`, `after_description_portuguese`, `display_type_portuguese`
+- Item 4017 "Data Storage Medium" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_portuguese`, `description_portuguese`, `after_description_portuguese`, `display_type_portuguese`
+- Item 4018 "Pile of Red Sand" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_portuguese`, `description_portuguese`, `after_description_portuguese`, `display_type_portuguese`
+- Item 4019 "Antlion Carapace" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_portuguese`, `description_portuguese`, `after_description_portuguese`, `display_type_portuguese`
+- Item 4020 "Corrosive Fluid Sample" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_portuguese`, `description_portuguese`, `after_description_portuguese`, `display_type_portuguese`
+- Item 4021 "Cooled Volcanic Rock" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_portuguese`, `description_portuguese`, `after_description_portuguese`, `display_type_portuguese`
+- Item 4022 "Retrieved Documents" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_portuguese`, `description_portuguese`, `after_description_portuguese`, `display_type_portuguese`
+- Item 4023 "Unopened SynUp Cola" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_portuguese`, `description_portuguese`, `after_description_portuguese`, `display_type_portuguese`
+- Item 4024 "Roll of Vent Tape" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_portuguese`, `description_portuguese`, `after_description_portuguese`, `display_type_portuguese`
+- Item 4025 "Isotopes" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_portuguese`, `description_portuguese`, `after_description_portuguese`, `display_type_portuguese`
+- Item 4026 "Cryotic" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_portuguese`, `description_portuguese`, `after_description_portuguese`, `display_type_portuguese`
 - Item 1000 "Sarge's Suit" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_portuguese`, `display_type_portuguese`
 - Item 1001 "Wildcat's Suit" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_portuguese`, `description_portuguese`, `display_type_portuguese`
 - Item 1002 "Faith's Suit" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_portuguese`, `description_portuguese`, `display_type_portuguese`
@@ -1917,7 +2172,7 @@
 - [basemodui_brazilian.txt](resource/basemodui_brazilian.txt) has 2 untranslated strings.
 - [closecaption_brazilian.txt](resource/closecaption_brazilian.txt) has 2004 untranslated strings.
 - [gameui_brazilian.txt](resource/gameui_brazilian.txt) has 32 untranslated strings.
-- [reactivedrop_brazilian.txt](resource/reactivedrop_brazilian.txt) has 1170 untranslated strings.
+- [reactivedrop_brazilian.txt](resource/reactivedrop_brazilian.txt) has 1171 untranslated strings.
 - [valve_brazilian.txt](resource/valve_brazilian.txt) has 6 untranslated strings.
 
 ### Steam Store and Community
@@ -1935,6 +2190,7 @@
 
 ### Mail and News
 
+- [mail/biogen_mail_windows_brazilian.txt](resource/mail/biogen_mail_windows_english.txt) is missing.
 - [mail/ma_pda1_brazilian.txt](resource/mail/ma_pda1_english.txt) is missing.
 - [mail/ma_pda2_brazilian.txt](resource/mail/ma_pda2_english.txt) is missing.
 - [mail/officemail4_brazilian.txt](resource/mail/officemail4_brazilian.txt) has 1 indented lines.
@@ -1992,6 +2248,31 @@
 - Item 100000032 "Donor: __NAME__" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_brazilian`, `description_brazilian`, `ingame_description_brazilian`
 - Item 100000033 "Donor: __NAME__" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_brazilian`, `description_brazilian`, `ingame_description_brazilian`
 - Item 100000034 "Donor: TheScientist" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_brazilian`, `description_brazilian`, `ingame_description_brazilian`
+- Item 4002 "Scrap Metal" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_brazilian`, `description_brazilian`, `after_description_brazilian`, `display_type_brazilian`
+- Item 4003 "Electrical Components" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_brazilian`, `description_brazilian`, `after_description_brazilian`, `display_type_brazilian`
+- Item 4004 "Spare Pipe" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_brazilian`, `description_brazilian`, `after_description_brazilian`, `display_type_brazilian`
+- Item 4005 "Plastics" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_brazilian`, `description_brazilian`, `after_description_brazilian`, `display_type_brazilian`
+- Item 4006 "Coolant" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_brazilian`, `description_brazilian`, `after_description_brazilian`, `display_type_brazilian`
+- Item 4007 "Mini-Crate" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_brazilian`, `description_brazilian`, `after_description_brazilian`, `display_type_brazilian`
+- Item 4008 "Battery Pack" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_brazilian`, `description_brazilian`, `after_description_brazilian`, `display_type_brazilian`
+- Item 4009 "Loose Wires" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_brazilian`, `description_brazilian`, `after_description_brazilian`, `display_type_brazilian`
+- Item 4010 "Carbon" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_brazilian`, `description_brazilian`, `after_description_brazilian`, `display_type_brazilian`
+- Item 4011 "Alien Chitin" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_brazilian`, `description_brazilian`, `after_description_brazilian`, `display_type_brazilian`
+- Item 4012 "Biomass Sample" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_brazilian`, `description_brazilian`, `after_description_brazilian`, `display_type_brazilian`
+- Item 4013 "Glowing Green Acid" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_brazilian`, `description_brazilian`, `after_description_brazilian`, `display_type_brazilian`
+- Item 4014 "Claw Fragment" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_brazilian`, `description_brazilian`, `after_description_brazilian`, `display_type_brazilian`
+- Item 4015 "Memory Management Unit" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_brazilian`, `description_brazilian`, `after_description_brazilian`, `display_type_brazilian`
+- Item 4016 "Arithmetic Logic Unit" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_brazilian`, `description_brazilian`, `after_description_brazilian`, `display_type_brazilian`
+- Item 4017 "Data Storage Medium" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_brazilian`, `description_brazilian`, `after_description_brazilian`, `display_type_brazilian`
+- Item 4018 "Pile of Red Sand" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_brazilian`, `description_brazilian`, `after_description_brazilian`, `display_type_brazilian`
+- Item 4019 "Antlion Carapace" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_brazilian`, `description_brazilian`, `after_description_brazilian`, `display_type_brazilian`
+- Item 4020 "Corrosive Fluid Sample" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_brazilian`, `description_brazilian`, `after_description_brazilian`, `display_type_brazilian`
+- Item 4021 "Cooled Volcanic Rock" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_brazilian`, `description_brazilian`, `after_description_brazilian`, `display_type_brazilian`
+- Item 4022 "Retrieved Documents" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_brazilian`, `description_brazilian`, `after_description_brazilian`, `display_type_brazilian`
+- Item 4023 "Unopened SynUp Cola" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_brazilian`, `description_brazilian`, `after_description_brazilian`, `display_type_brazilian`
+- Item 4024 "Roll of Vent Tape" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_brazilian`, `description_brazilian`, `after_description_brazilian`, `display_type_brazilian`
+- Item 4025 "Isotopes" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_brazilian`, `description_brazilian`, `after_description_brazilian`, `display_type_brazilian`
+- Item 4026 "Cryotic" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_brazilian`, `description_brazilian`, `after_description_brazilian`, `display_type_brazilian`
 - Item 1000 "Sarge's Suit" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_brazilian`, `display_type_brazilian`
 - Item 1001 "Wildcat's Suit" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_brazilian`, `display_type_brazilian`
 - Item 1002 "Faith's Suit" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_brazilian`, `display_type_brazilian`
@@ -2066,16 +2347,45 @@
 
 ### Strings
 
-- [reactivedrop_russian.txt](resource/reactivedrop_russian.txt) has 53 untranslated strings.
+- [reactivedrop_russian.txt](resource/reactivedrop_russian.txt) has 54 untranslated strings.
 
 ### Upcoming Release Notes
 
 - [20231101_russian.xml](release_notes/20231101_english.xml) is missing.
 
+### Mail and News
+
+- [mail/biogen_mail_windows_russian.txt](resource/mail/biogen_mail_windows_english.txt) is missing.
+
 ### Inventory Schema
 
 - Item 41 "Reduction Veteran" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_russian`, `description_russian`
 - Item 42 "Air Time" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_russian`, `description_russian`
+- Item 4002 "Scrap Metal" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_russian`, `description_russian`, `after_description_russian`, `display_type_russian`
+- Item 4003 "Electrical Components" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_russian`, `description_russian`, `after_description_russian`, `display_type_russian`
+- Item 4004 "Spare Pipe" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_russian`, `description_russian`, `after_description_russian`, `display_type_russian`
+- Item 4005 "Plastics" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_russian`, `description_russian`, `after_description_russian`, `display_type_russian`
+- Item 4006 "Coolant" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_russian`, `description_russian`, `after_description_russian`, `display_type_russian`
+- Item 4007 "Mini-Crate" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_russian`, `description_russian`, `after_description_russian`, `display_type_russian`
+- Item 4008 "Battery Pack" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_russian`, `description_russian`, `after_description_russian`, `display_type_russian`
+- Item 4009 "Loose Wires" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_russian`, `description_russian`, `after_description_russian`, `display_type_russian`
+- Item 4010 "Carbon" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_russian`, `description_russian`, `after_description_russian`, `display_type_russian`
+- Item 4011 "Alien Chitin" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_russian`, `description_russian`, `after_description_russian`, `display_type_russian`
+- Item 4012 "Biomass Sample" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_russian`, `description_russian`, `after_description_russian`, `display_type_russian`
+- Item 4013 "Glowing Green Acid" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_russian`, `description_russian`, `after_description_russian`, `display_type_russian`
+- Item 4014 "Claw Fragment" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_russian`, `description_russian`, `after_description_russian`, `display_type_russian`
+- Item 4015 "Memory Management Unit" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_russian`, `description_russian`, `after_description_russian`, `display_type_russian`
+- Item 4016 "Arithmetic Logic Unit" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_russian`, `description_russian`, `after_description_russian`, `display_type_russian`
+- Item 4017 "Data Storage Medium" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_russian`, `description_russian`, `after_description_russian`, `display_type_russian`
+- Item 4018 "Pile of Red Sand" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_russian`, `description_russian`, `after_description_russian`, `display_type_russian`
+- Item 4019 "Antlion Carapace" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_russian`, `description_russian`, `after_description_russian`, `display_type_russian`
+- Item 4020 "Corrosive Fluid Sample" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_russian`, `description_russian`, `after_description_russian`, `display_type_russian`
+- Item 4021 "Cooled Volcanic Rock" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_russian`, `description_russian`, `after_description_russian`, `display_type_russian`
+- Item 4022 "Retrieved Documents" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_russian`, `description_russian`, `after_description_russian`, `display_type_russian`
+- Item 4023 "Unopened SynUp Cola" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_russian`, `description_russian`, `after_description_russian`, `display_type_russian`
+- Item 4024 "Roll of Vent Tape" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_russian`, `description_russian`, `after_description_russian`, `display_type_russian`
+- Item 4025 "Isotopes" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_russian`, `description_russian`, `after_description_russian`, `display_type_russian`
+- Item 4026 "Cryotic" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_russian`, `description_russian`, `after_description_russian`, `display_type_russian`
 
 </details>
 
@@ -2099,7 +2409,7 @@
 - [basemodui_spanish.txt](resource/basemodui_spanish.txt) has 28 untranslated strings.
 - [closecaption_spanish.txt](resource/closecaption_spanish.txt) has 2004 untranslated strings.
 - [gameui_spanish.txt](resource/gameui_spanish.txt) has 40 untranslated strings.
-- [reactivedrop_spanish.txt](resource/reactivedrop_spanish.txt) has 2326 untranslated strings.
+- [reactivedrop_spanish.txt](resource/reactivedrop_spanish.txt) has 2327 untranslated strings.
 - [valve_spanish.txt](resource/valve_spanish.txt) has 266 untranslated strings.
 
 ### Steam Store and Community
@@ -2158,6 +2468,7 @@
 - [mail/acc_research1_spanish.txt](resource/mail/acc_research1_english.txt) is missing.
 - [mail/acc_research2_spanish.txt](resource/mail/acc_research2_english.txt) is missing.
 - [mail/acc_research3_spanish.txt](resource/mail/acc_research3_english.txt) is missing.
+- [mail/biogen_mail_windows_spanish.txt](resource/mail/biogen_mail_windows_english.txt) is missing.
 - [mail/labsmail1_spanish.txt](resource/mail/labsmail1_english.txt) is missing.
 - [mail/labsmail2_spanish.txt](resource/mail/labsmail2_english.txt) is missing.
 - [mail/labsmail3_spanish.txt](resource/mail/labsmail3_english.txt) is missing.
@@ -2338,6 +2649,31 @@
 - Item 100000032 "Donor: __NAME__" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_spanish`, `description_spanish`, `ingame_description_spanish`, `after_description_spanish`, `display_type_spanish`
 - Item 100000033 "Donor: __NAME__" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_spanish`, `description_spanish`, `ingame_description_spanish`, `after_description_spanish`, `display_type_spanish`
 - Item 100000034 "Donor: TheScientist" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_spanish`, `description_spanish`, `ingame_description_spanish`, `after_description_spanish`, `display_type_spanish`
+- Item 4002 "Scrap Metal" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_spanish`, `description_spanish`, `after_description_spanish`, `display_type_spanish`
+- Item 4003 "Electrical Components" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_spanish`, `description_spanish`, `after_description_spanish`, `display_type_spanish`
+- Item 4004 "Spare Pipe" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_spanish`, `description_spanish`, `after_description_spanish`, `display_type_spanish`
+- Item 4005 "Plastics" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_spanish`, `description_spanish`, `after_description_spanish`, `display_type_spanish`
+- Item 4006 "Coolant" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_spanish`, `description_spanish`, `after_description_spanish`, `display_type_spanish`
+- Item 4007 "Mini-Crate" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_spanish`, `description_spanish`, `after_description_spanish`, `display_type_spanish`
+- Item 4008 "Battery Pack" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_spanish`, `description_spanish`, `after_description_spanish`, `display_type_spanish`
+- Item 4009 "Loose Wires" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_spanish`, `description_spanish`, `after_description_spanish`, `display_type_spanish`
+- Item 4010 "Carbon" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_spanish`, `description_spanish`, `after_description_spanish`, `display_type_spanish`
+- Item 4011 "Alien Chitin" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_spanish`, `description_spanish`, `after_description_spanish`, `display_type_spanish`
+- Item 4012 "Biomass Sample" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_spanish`, `description_spanish`, `after_description_spanish`, `display_type_spanish`
+- Item 4013 "Glowing Green Acid" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_spanish`, `description_spanish`, `after_description_spanish`, `display_type_spanish`
+- Item 4014 "Claw Fragment" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_spanish`, `description_spanish`, `after_description_spanish`, `display_type_spanish`
+- Item 4015 "Memory Management Unit" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_spanish`, `description_spanish`, `after_description_spanish`, `display_type_spanish`
+- Item 4016 "Arithmetic Logic Unit" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_spanish`, `description_spanish`, `after_description_spanish`, `display_type_spanish`
+- Item 4017 "Data Storage Medium" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_spanish`, `description_spanish`, `after_description_spanish`, `display_type_spanish`
+- Item 4018 "Pile of Red Sand" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_spanish`, `description_spanish`, `after_description_spanish`, `display_type_spanish`
+- Item 4019 "Antlion Carapace" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_spanish`, `description_spanish`, `after_description_spanish`, `display_type_spanish`
+- Item 4020 "Corrosive Fluid Sample" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_spanish`, `description_spanish`, `after_description_spanish`, `display_type_spanish`
+- Item 4021 "Cooled Volcanic Rock" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_spanish`, `description_spanish`, `after_description_spanish`, `display_type_spanish`
+- Item 4022 "Retrieved Documents" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_spanish`, `description_spanish`, `after_description_spanish`, `display_type_spanish`
+- Item 4023 "Unopened SynUp Cola" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_spanish`, `description_spanish`, `after_description_spanish`, `display_type_spanish`
+- Item 4024 "Roll of Vent Tape" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_spanish`, `description_spanish`, `after_description_spanish`, `display_type_spanish`
+- Item 4025 "Isotopes" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_spanish`, `description_spanish`, `after_description_spanish`, `display_type_spanish`
+- Item 4026 "Cryotic" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_spanish`, `description_spanish`, `after_description_spanish`, `display_type_spanish`
 - Item 1000 "Sarge's Suit" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_spanish`, `description_spanish`, `display_type_spanish`
 - Item 1001 "Wildcat's Suit" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_spanish`, `description_spanish`, `display_type_spanish`
 - Item 1002 "Faith's Suit" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_spanish`, `description_spanish`, `display_type_spanish`
@@ -2426,7 +2762,7 @@
 - [chat_latam.txt](resource/chat_latam.txt) has 8 untranslated strings.
 - [closecaption_latam.txt](resource/closecaption_latam.txt) has 2004 untranslated strings.
 - [gameui_latam.txt](resource/gameui_latam.txt) has 634 untranslated strings.
-- [reactivedrop_latam.txt](resource/reactivedrop_latam.txt) has 4422 untranslated strings.
+- [reactivedrop_latam.txt](resource/reactivedrop_latam.txt) has 4423 untranslated strings.
 - [valve_latam.txt](resource/valve_latam.txt) has 266 untranslated strings.
 
 ### Steam Store and Community
@@ -2486,6 +2822,7 @@
 - [mail/acc_research1_latam.txt](resource/mail/acc_research1_english.txt) is missing.
 - [mail/acc_research2_latam.txt](resource/mail/acc_research2_english.txt) is missing.
 - [mail/acc_research3_latam.txt](resource/mail/acc_research3_english.txt) is missing.
+- [mail/biogen_mail_windows_latam.txt](resource/mail/biogen_mail_windows_english.txt) is missing.
 - [mail/labsmail1_latam.txt](resource/mail/labsmail1_english.txt) is missing.
 - [mail/labsmail2_latam.txt](resource/mail/labsmail2_english.txt) is missing.
 - [mail/labsmail3_latam.txt](resource/mail/labsmail3_english.txt) is missing.
@@ -2666,6 +3003,31 @@
 - Item 100000032 "Donor: __NAME__" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_latam`, `description_latam`, `ingame_description_latam`, `after_description_latam`, `display_type_latam`
 - Item 100000033 "Donor: __NAME__" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_latam`, `description_latam`, `ingame_description_latam`, `after_description_latam`, `display_type_latam`
 - Item 100000034 "Donor: TheScientist" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_latam`, `description_latam`, `ingame_description_latam`, `after_description_latam`, `display_type_latam`
+- Item 4002 "Scrap Metal" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_latam`, `description_latam`, `after_description_latam`, `display_type_latam`
+- Item 4003 "Electrical Components" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_latam`, `description_latam`, `after_description_latam`, `display_type_latam`
+- Item 4004 "Spare Pipe" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_latam`, `description_latam`, `after_description_latam`, `display_type_latam`
+- Item 4005 "Plastics" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_latam`, `description_latam`, `after_description_latam`, `display_type_latam`
+- Item 4006 "Coolant" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_latam`, `description_latam`, `after_description_latam`, `display_type_latam`
+- Item 4007 "Mini-Crate" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_latam`, `description_latam`, `after_description_latam`, `display_type_latam`
+- Item 4008 "Battery Pack" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_latam`, `description_latam`, `after_description_latam`, `display_type_latam`
+- Item 4009 "Loose Wires" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_latam`, `description_latam`, `after_description_latam`, `display_type_latam`
+- Item 4010 "Carbon" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_latam`, `description_latam`, `after_description_latam`, `display_type_latam`
+- Item 4011 "Alien Chitin" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_latam`, `description_latam`, `after_description_latam`, `display_type_latam`
+- Item 4012 "Biomass Sample" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_latam`, `description_latam`, `after_description_latam`, `display_type_latam`
+- Item 4013 "Glowing Green Acid" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_latam`, `description_latam`, `after_description_latam`, `display_type_latam`
+- Item 4014 "Claw Fragment" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_latam`, `description_latam`, `after_description_latam`, `display_type_latam`
+- Item 4015 "Memory Management Unit" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_latam`, `description_latam`, `after_description_latam`, `display_type_latam`
+- Item 4016 "Arithmetic Logic Unit" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_latam`, `description_latam`, `after_description_latam`, `display_type_latam`
+- Item 4017 "Data Storage Medium" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_latam`, `description_latam`, `after_description_latam`, `display_type_latam`
+- Item 4018 "Pile of Red Sand" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_latam`, `description_latam`, `after_description_latam`, `display_type_latam`
+- Item 4019 "Antlion Carapace" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_latam`, `description_latam`, `after_description_latam`, `display_type_latam`
+- Item 4020 "Corrosive Fluid Sample" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_latam`, `description_latam`, `after_description_latam`, `display_type_latam`
+- Item 4021 "Cooled Volcanic Rock" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_latam`, `description_latam`, `after_description_latam`, `display_type_latam`
+- Item 4022 "Retrieved Documents" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_latam`, `description_latam`, `after_description_latam`, `display_type_latam`
+- Item 4023 "Unopened SynUp Cola" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_latam`, `description_latam`, `after_description_latam`, `display_type_latam`
+- Item 4024 "Roll of Vent Tape" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_latam`, `description_latam`, `after_description_latam`, `display_type_latam`
+- Item 4025 "Isotopes" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_latam`, `description_latam`, `after_description_latam`, `display_type_latam`
+- Item 4026 "Cryotic" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_latam`, `description_latam`, `after_description_latam`, `display_type_latam`
 - Item 1000 "Sarge's Suit" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_latam`, `description_latam`, `display_type_latam`
 - Item 1001 "Wildcat's Suit" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_latam`, `description_latam`, `display_type_latam`
 - Item 1002 "Faith's Suit" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_latam`, `description_latam`, `display_type_latam`
@@ -2752,7 +3114,7 @@
 - [basemodui_ukrainian.txt](resource/basemodui_ukrainian.txt) has 27 untranslated strings.
 - [closecaption_ukrainian.txt](resource/closecaption_ukrainian.txt) has 131 untranslated strings.
 - [gameui_ukrainian.txt](resource/gameui_ukrainian.txt) has 32 untranslated strings.
-- [reactivedrop_ukrainian.txt](resource/reactivedrop_ukrainian.txt) has 2454 untranslated strings.
+- [reactivedrop_ukrainian.txt](resource/reactivedrop_ukrainian.txt) has 2455 untranslated strings.
 - [valve_ukrainian.txt](resource/valve_ukrainian.txt) has 266 untranslated strings.
 
 ### Steam Store and Community
@@ -2811,6 +3173,7 @@
 - [mail/acc_research1_ukrainian.txt](resource/mail/acc_research1_english.txt) is missing.
 - [mail/acc_research2_ukrainian.txt](resource/mail/acc_research2_english.txt) is missing.
 - [mail/acc_research3_ukrainian.txt](resource/mail/acc_research3_english.txt) is missing.
+- [mail/biogen_mail_windows_ukrainian.txt](resource/mail/biogen_mail_windows_english.txt) is missing.
 - [mail/labsmail1_ukrainian.txt](resource/mail/labsmail1_english.txt) is missing.
 - [mail/labsmail2_ukrainian.txt](resource/mail/labsmail2_english.txt) is missing.
 - [mail/labsmail3_ukrainian.txt](resource/mail/labsmail3_english.txt) is missing.
@@ -2991,6 +3354,31 @@
 - Item 100000032 "Donor: __NAME__" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_ukrainian`, `description_ukrainian`, `ingame_description_ukrainian`, `after_description_ukrainian`, `display_type_ukrainian`
 - Item 100000033 "Donor: __NAME__" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_ukrainian`, `description_ukrainian`, `ingame_description_ukrainian`, `after_description_ukrainian`, `display_type_ukrainian`
 - Item 100000034 "Donor: TheScientist" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_ukrainian`, `description_ukrainian`, `ingame_description_ukrainian`, `after_description_ukrainian`, `display_type_ukrainian`
+- Item 4002 "Scrap Metal" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_ukrainian`, `description_ukrainian`, `after_description_ukrainian`, `display_type_ukrainian`
+- Item 4003 "Electrical Components" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_ukrainian`, `description_ukrainian`, `after_description_ukrainian`, `display_type_ukrainian`
+- Item 4004 "Spare Pipe" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_ukrainian`, `description_ukrainian`, `after_description_ukrainian`, `display_type_ukrainian`
+- Item 4005 "Plastics" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_ukrainian`, `description_ukrainian`, `after_description_ukrainian`, `display_type_ukrainian`
+- Item 4006 "Coolant" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_ukrainian`, `description_ukrainian`, `after_description_ukrainian`, `display_type_ukrainian`
+- Item 4007 "Mini-Crate" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_ukrainian`, `description_ukrainian`, `after_description_ukrainian`, `display_type_ukrainian`
+- Item 4008 "Battery Pack" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_ukrainian`, `description_ukrainian`, `after_description_ukrainian`, `display_type_ukrainian`
+- Item 4009 "Loose Wires" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_ukrainian`, `description_ukrainian`, `after_description_ukrainian`, `display_type_ukrainian`
+- Item 4010 "Carbon" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_ukrainian`, `description_ukrainian`, `after_description_ukrainian`, `display_type_ukrainian`
+- Item 4011 "Alien Chitin" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_ukrainian`, `description_ukrainian`, `after_description_ukrainian`, `display_type_ukrainian`
+- Item 4012 "Biomass Sample" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_ukrainian`, `description_ukrainian`, `after_description_ukrainian`, `display_type_ukrainian`
+- Item 4013 "Glowing Green Acid" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_ukrainian`, `description_ukrainian`, `after_description_ukrainian`, `display_type_ukrainian`
+- Item 4014 "Claw Fragment" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_ukrainian`, `description_ukrainian`, `after_description_ukrainian`, `display_type_ukrainian`
+- Item 4015 "Memory Management Unit" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_ukrainian`, `description_ukrainian`, `after_description_ukrainian`, `display_type_ukrainian`
+- Item 4016 "Arithmetic Logic Unit" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_ukrainian`, `description_ukrainian`, `after_description_ukrainian`, `display_type_ukrainian`
+- Item 4017 "Data Storage Medium" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_ukrainian`, `description_ukrainian`, `after_description_ukrainian`, `display_type_ukrainian`
+- Item 4018 "Pile of Red Sand" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_ukrainian`, `description_ukrainian`, `after_description_ukrainian`, `display_type_ukrainian`
+- Item 4019 "Antlion Carapace" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_ukrainian`, `description_ukrainian`, `after_description_ukrainian`, `display_type_ukrainian`
+- Item 4020 "Corrosive Fluid Sample" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_ukrainian`, `description_ukrainian`, `after_description_ukrainian`, `display_type_ukrainian`
+- Item 4021 "Cooled Volcanic Rock" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_ukrainian`, `description_ukrainian`, `after_description_ukrainian`, `display_type_ukrainian`
+- Item 4022 "Retrieved Documents" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_ukrainian`, `description_ukrainian`, `after_description_ukrainian`, `display_type_ukrainian`
+- Item 4023 "Unopened SynUp Cola" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_ukrainian`, `description_ukrainian`, `after_description_ukrainian`, `display_type_ukrainian`
+- Item 4024 "Roll of Vent Tape" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_ukrainian`, `description_ukrainian`, `after_description_ukrainian`, `display_type_ukrainian`
+- Item 4025 "Isotopes" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_ukrainian`, `description_ukrainian`, `after_description_ukrainian`, `display_type_ukrainian`
+- Item 4026 "Cryotic" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_ukrainian`, `description_ukrainian`, `after_description_ukrainian`, `display_type_ukrainian`
 - Item 1000 "Sarge's Suit" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_ukrainian`, `display_type_ukrainian`
 - Item 1001 "Wildcat's Suit" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_ukrainian`, `display_type_ukrainian`
 - Item 1002 "Faith's Suit" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_ukrainian`, `display_type_ukrainian`
@@ -3072,7 +3460,7 @@
 - [basemodui_vietnamese.txt](resource/basemodui_vietnamese.txt) has 1281 untranslated strings.
 - [closecaption_vietnamese.txt](resource/closecaption_vietnamese.txt) has 2004 untranslated strings.
 - [gameui_vietnamese.txt](resource/gameui_vietnamese.txt) has 628 untranslated strings.
-- [reactivedrop_vietnamese.txt](resource/reactivedrop_vietnamese.txt) has 3340 untranslated strings.
+- [reactivedrop_vietnamese.txt](resource/reactivedrop_vietnamese.txt) has 3341 untranslated strings.
 - [valve_vietnamese.txt](resource/valve_vietnamese.txt) has 230 untranslated strings.
 
 ### Upcoming Release Notes
@@ -3105,6 +3493,7 @@
 - [mail/acc_research1_vietnamese.txt](resource/mail/acc_research1_english.txt) is missing.
 - [mail/acc_research2_vietnamese.txt](resource/mail/acc_research2_english.txt) is missing.
 - [mail/acc_research3_vietnamese.txt](resource/mail/acc_research3_english.txt) is missing.
+- [mail/biogen_mail_windows_vietnamese.txt](resource/mail/biogen_mail_windows_english.txt) is missing.
 - [mail/ma_pda1_vietnamese.txt](resource/mail/ma_pda1_english.txt) is missing.
 - [mail/ma_pda2_vietnamese.txt](resource/mail/ma_pda2_english.txt) is missing.
 - [mail/nh_officemail1_jacquesmoreau_vietnamese.txt](resource/mail/nh_officemail1_jacquesmoreau_english.txt) is missing.
@@ -3272,6 +3661,31 @@
 - Item 100000032 "Donor: __NAME__" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_vietnamese`, `description_vietnamese`, `ingame_description_vietnamese`, `after_description_vietnamese`, `display_type_vietnamese`
 - Item 100000033 "Donor: __NAME__" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_vietnamese`, `description_vietnamese`, `ingame_description_vietnamese`, `after_description_vietnamese`, `display_type_vietnamese`
 - Item 100000034 "Donor: TheScientist" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_vietnamese`, `description_vietnamese`, `ingame_description_vietnamese`, `after_description_vietnamese`, `display_type_vietnamese`
+- Item 4002 "Scrap Metal" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_vietnamese`, `description_vietnamese`, `after_description_vietnamese`, `display_type_vietnamese`
+- Item 4003 "Electrical Components" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_vietnamese`, `description_vietnamese`, `after_description_vietnamese`, `display_type_vietnamese`
+- Item 4004 "Spare Pipe" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_vietnamese`, `description_vietnamese`, `after_description_vietnamese`, `display_type_vietnamese`
+- Item 4005 "Plastics" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_vietnamese`, `description_vietnamese`, `after_description_vietnamese`, `display_type_vietnamese`
+- Item 4006 "Coolant" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_vietnamese`, `description_vietnamese`, `after_description_vietnamese`, `display_type_vietnamese`
+- Item 4007 "Mini-Crate" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_vietnamese`, `description_vietnamese`, `after_description_vietnamese`, `display_type_vietnamese`
+- Item 4008 "Battery Pack" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_vietnamese`, `description_vietnamese`, `after_description_vietnamese`, `display_type_vietnamese`
+- Item 4009 "Loose Wires" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_vietnamese`, `description_vietnamese`, `after_description_vietnamese`, `display_type_vietnamese`
+- Item 4010 "Carbon" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_vietnamese`, `description_vietnamese`, `after_description_vietnamese`, `display_type_vietnamese`
+- Item 4011 "Alien Chitin" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_vietnamese`, `description_vietnamese`, `after_description_vietnamese`, `display_type_vietnamese`
+- Item 4012 "Biomass Sample" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_vietnamese`, `description_vietnamese`, `after_description_vietnamese`, `display_type_vietnamese`
+- Item 4013 "Glowing Green Acid" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_vietnamese`, `description_vietnamese`, `after_description_vietnamese`, `display_type_vietnamese`
+- Item 4014 "Claw Fragment" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_vietnamese`, `description_vietnamese`, `after_description_vietnamese`, `display_type_vietnamese`
+- Item 4015 "Memory Management Unit" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_vietnamese`, `description_vietnamese`, `after_description_vietnamese`, `display_type_vietnamese`
+- Item 4016 "Arithmetic Logic Unit" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_vietnamese`, `description_vietnamese`, `after_description_vietnamese`, `display_type_vietnamese`
+- Item 4017 "Data Storage Medium" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_vietnamese`, `description_vietnamese`, `after_description_vietnamese`, `display_type_vietnamese`
+- Item 4018 "Pile of Red Sand" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_vietnamese`, `description_vietnamese`, `after_description_vietnamese`, `display_type_vietnamese`
+- Item 4019 "Antlion Carapace" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_vietnamese`, `description_vietnamese`, `after_description_vietnamese`, `display_type_vietnamese`
+- Item 4020 "Corrosive Fluid Sample" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_vietnamese`, `description_vietnamese`, `after_description_vietnamese`, `display_type_vietnamese`
+- Item 4021 "Cooled Volcanic Rock" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_vietnamese`, `description_vietnamese`, `after_description_vietnamese`, `display_type_vietnamese`
+- Item 4022 "Retrieved Documents" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_vietnamese`, `description_vietnamese`, `after_description_vietnamese`, `display_type_vietnamese`
+- Item 4023 "Unopened SynUp Cola" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_vietnamese`, `description_vietnamese`, `after_description_vietnamese`, `display_type_vietnamese`
+- Item 4024 "Roll of Vent Tape" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_vietnamese`, `description_vietnamese`, `after_description_vietnamese`, `display_type_vietnamese`
+- Item 4025 "Isotopes" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_vietnamese`, `description_vietnamese`, `after_description_vietnamese`, `display_type_vietnamese`
+- Item 4026 "Cryotic" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_vietnamese`, `description_vietnamese`, `after_description_vietnamese`, `display_type_vietnamese`
 - Item 1000 "Sarge's Suit" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_vietnamese`, `description_vietnamese`, `display_type_vietnamese`
 - Item 1001 "Wildcat's Suit" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_vietnamese`, `description_vietnamese`, `display_type_vietnamese`
 - Item 1002 "Faith's Suit" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_vietnamese`, `description_vietnamese`, `display_type_vietnamese`

@@ -1,0 +1,9 @@
+﻿// PDA belongs to Isaac Lezeas (pun = Isaac Lazyass)
+GAME
+{
+"MailFrom1"	"差出人: レン・ラブル"
+"MailDate1"	"送信日時: 不明"
+"MailSubject1"	"件名: 部屋のメンテナンス"
+"MailBody1A"	"笑い事じゃないっていい加減分かっていただけますかね。毎日ガラスを取り替えているせいで新プロジェクトの予算が圧迫されてるんです。ちゃんとしたドアを作らないなら、あなたの部署の給与を下げますよ！"
+"MailBody1B"	"- BioGen管理部より、愛を込めて"
+}

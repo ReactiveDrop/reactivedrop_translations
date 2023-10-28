@@ -4,12 +4,20 @@
 [h2]Nuova Campagna: Reduction[/h2]
 Una versione rimasterizzata della campagna Reduction è ora disponibile nel gioco.
 
+[h2]Missioni Ufficiali[/h2]
+[list]
+[*][b]Lacrime per Tarnor: Spazioporto della Colonia Oasis:[/b] Corretti alcuni muri che diventavano invisibili dopo lo spawn di alieni da determinate posizioni.
+[*][b]Lacrime per Tarnor: Spazioporto della Colonia Oasis:[/b] Migliorata la grafica quando si gioca in prima o terza persona.
+[*][b]BioGen Corporation: Laboratori BioGen:[/b] Aggiornato lo stile grafico della missione.
+[/list]
+
 [h2]Armi[/h2]
 [list]
 [*][b]Mina Laser ML30:[/b] Le mine non vengono più attivate dai PNG invulnerabili, come gli scanner.
 [*][b]Lanciagranate:[/b] I colpi indirizzati molto al di sotto del soldato ora si inarcano in modo diverso per evitare di colpire il bordo della piattaforma su cui si trova il soldato.
 [*]Le armi a puntamento assistito non mirano più agli scanner.
 [*]I soldati possono ora evitare con sicurezza tutti i proiettili, anche quelli non sparati da soldati.
+[*]Aggiunto il comando console [b]cl_loadout_random[/b]. Rende casuale l'arma primaria, secondaria e le armi extra per te e i soldati bot.
 [/list]
 
 [h2]Menu[/h2]
@@ -34,6 +42,20 @@ Una versione rimasterizzata della campagna Reduction è ora disponibile nel gioc
 [*]Aggiunta un'opzione ad asw_jukebox per non interrompere la musica di combattimento fornita dal giocatore, per l'uso di musica di combattimento in più parti.
 [*]I punti abilità dei soldati possono ora essere riassegnati tramite convars (es. asw_marine_skill_sarge_0).
 [*]Aggiunto rd_chainsaw_idle_sound per le sfide che vogliono disabilitare il suono idle della motosega.
+[*]Corretto il problema di alcune Guardie Formicaleone e Guardiani Formicaleone posizionati dal mapper che non sbloccavano la voce nella Swarmopedia quando venivano uccisi.
+[*]Corretto un arresto anomalo del pathfinding causato da un'inizializzazione errata di info_node_link.
+[*]Aggiunto il valore chiave CollideWithMarines a func_asw_fade. La sua funzione principale è di preservare gli exploit "fuori mappa" utilizzati nelle speedrun.
+[*]Aggiunti 3 nuovi proxy di materiali - LocalTime_Month, LocalTime_Day, LocalTime_Hour. Può essere usato per cambiare la cornice di una texture animata in base all'ora del sistema locale dell'osservatore. I valori del mese vanno da 0 a 11, i giorni da 0 a 30, le ore da 0 a 23. Ad esempio:
+[code]UnlitGeneric {
+    $basetexture "example/animated_monthly_texture"
+    $frame 0
+
+    Proxies {
+        LocalTime_Month {
+            resultvar "$frame"
+        }
+    }
+}[/code]
 [/list]
 
 [h2]Controller[/h2]

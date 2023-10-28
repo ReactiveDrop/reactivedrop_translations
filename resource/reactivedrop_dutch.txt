@@ -2791,6 +2791,8 @@
 		"[english]asw_pda_owner_name_ed_savage"		"Ed Savage"
 		"asw_pda_owner_name_maxwell_fierze"		"Maxwell Fierze"
 		"[english]asw_pda_owner_name_maxwell_fierze"		"Maxwell Fierze"
+		"asw_pda_owner_name_isaac_lezeas"		"Isaac Lezeas"
+		"[english]asw_pda_owner_name_isaac_lezeas"		"Isaac Lezeas"
 "asw_galactic_map_core_systems"		"KERNSYSTEMEN"
 "[english]asw_galactic_map_core_systems"		"CORE SYSTEMS"
 "asw_galactic_map_syntek_megacorporation"		"SYNTEK MEGACORPORATIE"

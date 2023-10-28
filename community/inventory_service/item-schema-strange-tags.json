@@ -24,7 +24,6 @@
 			"accessory_description_schinese": "[color=#bfbfbf]任务: %strange_5000%[/color]",
 			"icon_url": "https://stats.reactivedrop.com/static/strange/strange_5000.png",
 			"name_color": "CF6A32",
-			"exchange": "4000,strange:5000",
 			"tags": "strange:5000",
 			"compressed_dynamic_props": "strange_5000",
 			"strange_notify_every": 50
@@ -52,7 +51,6 @@
 			"accessory_description_schinese": "[color=#bfbfbf]任务成功次数: %strange_5001%[/color]",
 			"icon_url": "https://stats.reactivedrop.com/static/strange/strange_5001.png",
 			"name_color": "CF6A32",
-			"exchange": "4000,strange:5001",
 			"tags": "strange:5001",
 			"compressed_dynamic_props": "strange_5001",
 			"strange_notify_every": 10
@@ -80,7 +78,6 @@
 			"accessory_description_schinese": "[color=#bfbfbf]异形击杀个数: %strange_5002%[/color]",
 			"icon_url": "https://stats.reactivedrop.com/static/strange/strange_5002.png",
 			"name_color": "CF6A32",
-			"exchange": "4000,strange:5002",
 			"tags": "strange:5002",
 			"compressed_dynamic_props": "strange_5002",
 			"strange_notify_every": 500,
@@ -118,7 +115,6 @@
 			"accessory_description_schinese": "[color=#bfbfbf]治疗血量总数: %strange_5003%[/color]",
 			"icon_url": "https://stats.reactivedrop.com/static/strange/strange_5003.png",
 			"name_color": "CF6A32",
-			"exchange": "4000,strange:5003",
 			"tags": "strange:5003",
 			"compressed_dynamic_props": "strange_5003",
 			"strange_notify_every": 1000
@@ -146,7 +142,6 @@
 			"accessory_description_schinese": "[color=#bfbfbf]快速入侵次数: %strange_5004%[/color]",
 			"icon_url": "https://stats.reactivedrop.com/static/strange/strange_5004.png",
 			"name_color": "CF6A32",
-			"exchange": "4000,strange:5004",
 			"tags": "strange:5004",
 			"compressed_dynamic_props": "strange_5004",
 			"strange_notify_every": 1
@@ -174,7 +169,6 @@
 			"accessory_description_schinese": "[color=#bfbfbf]冰冻敌人总数: %strange_5005%[/color]",
 			"icon_url": "https://stats.reactivedrop.com/static/strange/strange_5005.png",
 			"name_color": "CF6A32",
-			"exchange": "4000,strange:5005",
 			"tags": "strange:5005",
 			"compressed_dynamic_props": "strange_5005",
 			"strange_notify_every": 150,
@@ -205,7 +199,6 @@
 			"accessory_description_schinese": "[color=#bfbfbf]为友军灭火数: %strange_5006%[/color]",
 			"icon_url": "https://stats.reactivedrop.com/static/strange/strange_5006.png",
 			"name_color": "CF6A32",
-			"exchange": "4000,strange:5006",
 			"tags": "strange:5006",
 			"compressed_dynamic_props": "strange_5006",
 			"strange_notify_every": 50,
@@ -237,7 +230,6 @@
 			"accessory_description_schinese": "[color=#bfbfbf]连杀异形个数: %strange_5007% (最佳记录: %strange_5007_best%)[/color]",
 			"icon_url": "https://stats.reactivedrop.com/static/strange/strange_5007.png",
 			"name_color": "CF6A32",
-			"exchange": "4000,strange:5007",
 			"tags": "strange:5007",
 			"compressed_dynamic_props": "strange_5007;strange_5007_best",
 			"strange_notify_every": 50
@@ -265,7 +257,6 @@
 			"accessory_description_schinese": "[color=#bfbfbf]治愈感染总数: %strange_5008%[/color]",
 			"icon_url": "https://stats.reactivedrop.com/static/strange/strange_5008.png",
 			"name_color": "CF6A32",
-			"exchange": "4000,strange:5008",
 			"tags": "strange:5008",
 			"compressed_dynamic_props": "strange_5008",
 			"strange_notify_every": 25,
