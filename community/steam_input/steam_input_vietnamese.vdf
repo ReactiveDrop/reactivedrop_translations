@@ -57,7 +57,7 @@
 "[english]Button_MoveBack"		"Move Back"
 "Button_MoveRight"		"Bước sang phải"
 "[english]Button_MoveRight"		"Move Right"
-"Button_MoveSlow"		"Đi bộ/Ngồi"
+"Button_MoveSlow"		"Đi bộ/Cúi"
 // the key that is bound to shift by default on keyboard
 "[english]Button_MoveSlow"		"Walk / Crouch"
 "Button_HoldOrder"		"Định vị Quân lính bot"
