@@ -11,7 +11,7 @@
 | [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 100 | ✔️ |
 | [Hungarian](#non-curated-languages) | 51 | 138 | 42 | 2912 | 200 | 975 | 556 | 147 |
 | [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 100 | ✔️ |
-| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 103 | 100 | ✔️ |
+| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 103 | ✔️ | ✔️ |
 | [Korean](#koreana-한국어) | 7 | 10 | 38 | 1408 | 22 | 441 | 542 | 48 |
 | [Norwegian Bokmål](#non-curated-languages) | 69 | 708 | 47 | 3618 | 200 | 710 | 625 | 147 |
 | [Polish](#polish-polski) | 28 | 2004 | 42 | 2912 | 200 | 706 | 556 | 143 |
@@ -1186,34 +1186,6 @@
 - [addons/RiskOfRain/reactivedrop_japanese.txt](addons/RiskOfRain/resource/reactivedrop_japanese.txt) has 1 untranslated strings.
 - [misc/signage/signage_japanese.vdf](misc/signage/signage_japanese.vdf) has 67 untranslated strings.
 - [platform/vgui_japanese.txt](platform/vgui_japanese.txt) has 35 untranslated strings.
-
-### Inventory Schema
-
-- Item 4002 "Scrap Metal" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_japanese`, `description_japanese`, `after_description_japanese`, `display_type_japanese`
-- Item 4003 "Electrical Components" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_japanese`, `description_japanese`, `after_description_japanese`, `display_type_japanese`
-- Item 4004 "Spare Pipe" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_japanese`, `description_japanese`, `after_description_japanese`, `display_type_japanese`
-- Item 4005 "Plastics" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_japanese`, `description_japanese`, `after_description_japanese`, `display_type_japanese`
-- Item 4006 "Coolant" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_japanese`, `description_japanese`, `after_description_japanese`, `display_type_japanese`
-- Item 4007 "Mini-Crate" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_japanese`, `description_japanese`, `after_description_japanese`, `display_type_japanese`
-- Item 4008 "Battery Pack" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_japanese`, `description_japanese`, `after_description_japanese`, `display_type_japanese`
-- Item 4009 "Loose Wires" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_japanese`, `description_japanese`, `after_description_japanese`, `display_type_japanese`
-- Item 4010 "Carbon" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_japanese`, `description_japanese`, `after_description_japanese`, `display_type_japanese`
-- Item 4011 "Alien Chitin" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_japanese`, `description_japanese`, `after_description_japanese`, `display_type_japanese`
-- Item 4012 "Biomass Sample" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_japanese`, `description_japanese`, `after_description_japanese`, `display_type_japanese`
-- Item 4013 "Glowing Green Acid" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_japanese`, `description_japanese`, `after_description_japanese`, `display_type_japanese`
-- Item 4014 "Claw Fragment" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_japanese`, `description_japanese`, `after_description_japanese`, `display_type_japanese`
-- Item 4015 "Memory Management Unit" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_japanese`, `description_japanese`, `after_description_japanese`, `display_type_japanese`
-- Item 4016 "Arithmetic Logic Unit" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_japanese`, `description_japanese`, `after_description_japanese`, `display_type_japanese`
-- Item 4017 "Data Storage Medium" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_japanese`, `description_japanese`, `after_description_japanese`, `display_type_japanese`
-- Item 4018 "Pile of Red Sand" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_japanese`, `description_japanese`, `after_description_japanese`, `display_type_japanese`
-- Item 4019 "Antlion Carapace" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_japanese`, `description_japanese`, `after_description_japanese`, `display_type_japanese`
-- Item 4020 "Corrosive Fluid Sample" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_japanese`, `description_japanese`, `after_description_japanese`, `display_type_japanese`
-- Item 4021 "Cooled Volcanic Rock" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_japanese`, `description_japanese`, `after_description_japanese`, `display_type_japanese`
-- Item 4022 "Retrieved Documents" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_japanese`, `description_japanese`, `after_description_japanese`, `display_type_japanese`
-- Item 4023 "Unopened SynUp Cola" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_japanese`, `description_japanese`, `after_description_japanese`, `display_type_japanese`
-- Item 4024 "Roll of Vent Tape" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_japanese`, `description_japanese`, `after_description_japanese`, `display_type_japanese`
-- Item 4025 "Isotopes" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_japanese`, `description_japanese`, `after_description_japanese`, `display_type_japanese`
-- Item 4026 "Cryotic" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_japanese`, `description_japanese`, `after_description_japanese`, `display_type_japanese`
 
 </details>
 
