@@ -6318,7 +6318,7 @@
 "[english]t5_coldcatwalks_2_title"		"Secure the antidote receipt"
 "t5_coldcatwalks_2a"		"一位名叫安迪.雷顿的科学家声称，他有一张病毒解药的配方——但他急于离开该设施，所以他把配方编码到了一个容器里。你们的任务是找到容器并保护其中的数据。"
 "[english]t5_coldcatwalks_2a"		"The scientist named Andy Layton claims to have a receipt for the virus antidote - but he was in a great hurry to leave the facility, so he left the receipt coded into a container. Your mission is to locate the container and secure the data inside it."
-"t5_coldcatwalks_3_title"		"离开T台"
+"t5_coldcatwalks_3_title"		"撤离"
 "[english]t5_coldcatwalks_3_title"		"Leave the catwalks"
 "t5_coldcatwalks_3a"		"在确保解药配方的安全后，前往下一个区域。"
 "[english]t5_coldcatwalks_3a"		"After securing the antidote receipt head for the next zone."
