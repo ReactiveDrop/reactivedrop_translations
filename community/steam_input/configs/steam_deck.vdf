@@ -105,7 +105,7 @@
 						}
 						"settings"
 						{
-							"haptic_intensity"		"2"
+							"haptic_intensity"		"1"
 						}
 					}
 				}
@@ -135,7 +135,7 @@
 						}
 						"settings"
 						{
-							"haptic_intensity"		"2"
+							"haptic_intensity"		"1"
 						}
 					}
 				}
@@ -239,7 +239,7 @@
 						}
 						"settings"
 						{
-							"haptic_intensity"		"2"
+							"haptic_intensity"		"1"
 						}
 					}
 				}
@@ -269,7 +269,7 @@
 						}
 						"settings"
 						{
-							"haptic_intensity"		"2"
+							"haptic_intensity"		"1"
 						}
 					}
 				}
