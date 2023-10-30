@@ -40,7 +40,6 @@
 			"tags": "rarity:strange_rarity;slot:suit;class_restriction:officer",
 			"accessory_tag": "strange",
 			"allowed_tags_from_tools": "strange:5000;strange:5001;strange:5002;strange:5007",
-			"exchange": "4001",
 			"item_slot": "marine0",
 			"equip_index": 0
 		},
@@ -81,7 +80,6 @@
 			"tags": "rarity:strange_rarity;slot:suit;class_restriction:specialweapons",
 			"accessory_tag": "strange",
 			"allowed_tags_from_tools": "strange:5000;strange:5001;strange:5002;strange:5007",
-			"exchange": "4001",
 			"item_slot": "marine1",
 			"equip_index": 1
 		},
@@ -123,7 +121,6 @@
 			"tags": "rarity:strange_rarity;slot:suit;class_restriction:medic",
 			"accessory_tag": "strange",
 			"allowed_tags_from_tools": "strange:5000;strange:5001;strange:5002;strange:5003;strange:5007;strange:5008",
-			"exchange": "4001",
 			"item_slot": "marine2",
 			"equip_index": 2
 		},
@@ -164,7 +161,6 @@
 			"tags": "rarity:strange_rarity;slot:suit;class_restriction:tech",
 			"accessory_tag": "strange",
 			"allowed_tags_from_tools": "strange:5000;strange:5001;strange:5002;strange:5004;strange:5007",
-			"exchange": "4001",
 			"item_slot": "marine3",
 			"equip_index": 3
 		},
@@ -206,7 +202,6 @@
 			"tags": "rarity:strange_rarity;slot:suit;class_restriction:officer",
 			"accessory_tag": "strange",
 			"allowed_tags_from_tools": "strange:5000;strange:5001;strange:5002;strange:5007",
-			"exchange": "4001",
 			"item_slot": "marine4",
 			"equip_index": 4
 		},
@@ -247,7 +242,6 @@
 			"tags": "rarity:strange_rarity;slot:suit;class_restriction:specialweapons",
 			"accessory_tag": "strange",
 			"allowed_tags_from_tools": "strange:5000;strange:5001;strange:5002;strange:5007",
-			"exchange": "4001",
 			"item_slot": "marine5",
 			"equip_index": 5
 		},
@@ -288,7 +282,6 @@
 			"tags": "rarity:strange_rarity;slot:suit;class_restriction:medic",
 			"accessory_tag": "strange",
 			"allowed_tags_from_tools": "strange:5000;strange:5001;strange:5002;strange:5003;strange:5007;strange:5008",
-			"exchange": "4001",
 			"item_slot": "marine6",
 			"equip_index": 6
 		},
@@ -329,7 +322,6 @@
 			"tags": "rarity:strange_rarity;slot:suit;class_restriction:tech",
 			"accessory_tag": "strange",
 			"allowed_tags_from_tools": "strange:5000;strange:5001;strange:5002;strange:5004;strange:5007",
-			"exchange": "4001",
 			"item_slot": "marine7",
 			"equip_index": 7
 		},
@@ -388,7 +380,6 @@
 			"tags": "rarity:strange_rarity;slot:weapon",
 			"accessory_tag": "strange",
 			"allowed_tags_from_tools": "strange:5000;strange:5002;strange:5007",
-			"exchange": "4001",
 			"item_slot": "weapon",
 			"equip_index": 0
 		},
@@ -445,7 +436,6 @@
 			"tags": "rarity:strange_rarity;slot:weapon;class_restriction:tech",
 			"accessory_tag": "strange",
 			"allowed_tags_from_tools": "strange:5000;strange:5002;strange:5007",
-			"exchange": "4001",
 			"item_slot": "weapon",
 			"equip_index": 1
 		},
@@ -502,7 +492,6 @@
 			"tags": "rarity:strange_rarity;slot:weapon;class_restriction:specialweapons",
 			"accessory_tag": "strange",
 			"allowed_tags_from_tools": "strange:5000;strange:5002;strange:5007",
-			"exchange": "4001",
 			"item_slot": "weapon",
 			"equip_index": 2
 		},
@@ -560,7 +549,6 @@
 			"tags": "rarity:strange_rarity;slot:weapon;class_restriction:officer",
 			"accessory_tag": "strange",
 			"allowed_tags_from_tools": "strange:5000;strange:5002;strange:5007",
-			"exchange": "4001",
 			"item_slot": "weapon",
 			"equip_index":  3
 		},
@@ -617,7 +605,6 @@
 			"tags": "rarity:strange_rarity;slot:weapon",
 			"accessory_tag": "strange",
 			"allowed_tags_from_tools": "strange:5000;strange:5002;strange:5007",
-			"exchange": "4001",
 			"item_slot": "weapon",
 			"equip_index":  4
 		},
@@ -674,7 +661,6 @@
 			"tags": "rarity:strange_rarity;slot:weapon",
 			"accessory_tag": "strange",
 			"allowed_tags_from_tools": "strange:5000;strange:5002",
-			"exchange": "4001",
 			"item_slot": "weapon",
 			"equip_index":  5
 		},
@@ -730,7 +716,6 @@
 			"tags": "rarity:strange_rarity;slot:weapon;class_restriction:medic",
 			"accessory_tag": "strange",
 			"allowed_tags_from_tools": "strange:5000;strange:5003;strange:5006;strange:5008",
-			"exchange": "4001",
 			"item_slot": "weapon",
 			"equip_index":  6
 		},
@@ -787,7 +772,6 @@
 			"tags": "rarity:strange_rarity;slot:weapon",
 			"accessory_tag": "strange",
 			"allowed_tags_from_tools": "strange:5000",
-			"exchange": "4001",
 			"item_slot": "weapon",
 			"equip_index":  7
 		},
@@ -844,7 +828,6 @@
 			"tags": "rarity:strange_rarity;slot:weapon",
 			"accessory_tag": "strange",
 			"allowed_tags_from_tools": "strange:5000;strange:5002;strange:5007",
-			"exchange": "4001",
 			"item_slot": "weapon",
 			"equip_index":  8
 		},
@@ -901,7 +884,6 @@
 			"tags": "rarity:strange_rarity;slot:weapon",
 			"accessory_tag": "strange",
 			"allowed_tags_from_tools": "strange:5000;strange:5002;strange:5007",
-			"exchange": "4001",
 			"item_slot": "weapon",
 			"equip_index":  9
 		},
@@ -957,7 +939,6 @@
 			"tags": "rarity:strange_rarity;slot:weapon",
 			"accessory_tag": "strange",
 			"allowed_tags_from_tools": "strange:5000;strange:5002;strange:5007",
-			"exchange": "4001",
 			"item_slot": "weapon",
 			"equip_index":  10
 		},
@@ -1014,7 +995,6 @@
 			"tags": "rarity:strange_rarity;slot:weapon;class_restriction:medic",
 			"accessory_tag": "strange",
 			"allowed_tags_from_tools": "strange:5000;strange:5003;strange:5006;strange:5008",
-			"exchange": "4001",
 			"item_slot": "weapon",
 			"equip_index":  11
 		},
@@ -1072,7 +1052,6 @@
 			"tags": "rarity:strange_rarity;slot:weapon",
 			"accessory_tag": "strange",
 			"allowed_tags_from_tools": "strange:5000;strange:5002;strange:5007",
-			"exchange": "4001",
 			"item_slot": "weapon",
 			"equip_index":  12
 		},
@@ -1129,7 +1108,6 @@
 			"tags": "rarity:strange_rarity;slot:weapon",
 			"accessory_tag": "strange",
 			"allowed_tags_from_tools": "strange:5000;strange:5002;strange:5006;strange:5007",
-			"exchange": "4001",
 			"item_slot": "weapon",
 			"equip_index":  13
 		},
@@ -1186,7 +1164,6 @@
 			"tags": "rarity:strange_rarity;slot:weapon",
 			"accessory_tag": "strange",
 			"allowed_tags_from_tools": "strange:5000;strange:5005",
-			"exchange": "4001",
 			"item_slot": "weapon",
 			"equip_index":  14
 		},
@@ -1245,7 +1222,6 @@
 			"tags": "rarity:strange_rarity;slot:weapon;class_restriction:specialweapons",
 			"accessory_tag": "strange",
 			"allowed_tags_from_tools": "strange:5000;strange:5002;strange:5007",
-			"exchange": "4001",
 			"item_slot": "weapon",
 			"equip_index":  15
 		},
@@ -1302,7 +1278,6 @@
 			"tags": "rarity:strange_rarity;slot:weapon",
 			"accessory_tag": "strange",
 			"allowed_tags_from_tools": "strange:5000;strange:5002;strange:5007",
-			"exchange": "4001",
 			"item_slot": "weapon",
 			"equip_index":  16
 		},
@@ -1358,7 +1333,6 @@
 			"tags": "rarity:strange_rarity;slot:weapon",
 			"accessory_tag": "strange",
 			"allowed_tags_from_tools": "strange:5000;strange:5002",
-			"exchange": "4001",
 			"item_slot": "weapon",
 			"equip_index":  17
 		},
@@ -1420,7 +1394,6 @@
 			"tags": "rarity:strange_rarity;slot:weapon",
 			"accessory_tag": "strange",
 			"allowed_tags_from_tools": "strange:5000;strange:5002;strange:5007",
-			"exchange": "4001",
 			"item_slot": "weapon",
 			"equip_index":  18
 		},
@@ -1477,7 +1450,6 @@
 			"tags": "rarity:strange_rarity;slot:weapon",
 			"accessory_tag": "strange",
 			"allowed_tags_from_tools": "strange:5000;strange:5002",
-			"exchange": "4001",
 			"item_slot": "weapon",
 			"equip_index":  19
 		},
@@ -1536,7 +1508,6 @@
 			"tags": "rarity:strange_rarity;slot:weapon",
 			"accessory_tag": "strange",
 			"allowed_tags_from_tools": "strange:5000;strange:5002;strange:5007",
-			"exchange": "4001",
 			"item_slot": "weapon",
 			"equip_index":  20
 		},
@@ -1568,7 +1539,6 @@
 			"tags": "rarity:strange_rarity;slot:weapon",
 			"accessory_tag": "strange",
 			"allowed_tags_from_tools": "strange:5000;strange:5002;strange:5007",
-			"exchange": "4001",
 			"item_slot": "weapon",
 			"equip_index":  21
 		},
@@ -1608,7 +1578,6 @@
 			"tags": "rarity:strange_rarity;slot:weapon;class_restriction:specialweapons",
 			"accessory_tag": "strange",
 			"allowed_tags_from_tools": "strange:5000;strange:5002;strange:5007",
-			"exchange": "4001",
 			"item_slot": "weapon",
 			"equip_index":  22
 		},
@@ -1649,7 +1618,6 @@
 			"tags": "rarity:strange_rarity;slot:weapon",
 			"accessory_tag": "strange",
 			"allowed_tags_from_tools": "strange:5000;strange:5002;strange:5007",
-			"exchange": "4001",
 			"item_slot": "weapon",
 			"equip_index":  23
 		},
@@ -1690,7 +1658,6 @@
 			"tags": "rarity:strange_rarity;slot:weapon;class_restriction:medic",
 			"accessory_tag": "strange",
 			"allowed_tags_from_tools": "strange:5000;strange:5003;strange:5006;strange:5008",
-			"exchange": "4001",
 			"item_slot": "weapon",
 			"equip_index":  24
 		},
@@ -1728,7 +1695,6 @@
 			"tags": "rarity:strange_rarity;slot:weapon",
 			"accessory_tag": "strange",
 			"allowed_tags_from_tools": "strange:5000;strange:5002;strange:5007",
-			"exchange": "4001",
 			"item_slot": "weapon",
 			"equip_index":  25
 		},
@@ -1767,7 +1733,6 @@
 			"tags": "rarity:strange_rarity;slot:weapon;class_restriction:medic",
 			"accessory_tag": "strange",
 			"allowed_tags_from_tools": "strange:5000;strange:5002;strange:5003;strange:5006;strange:5007;strange:5008",
-			"exchange": "4001",
 			"item_slot": "weapon",
 			"equip_index":  26
 		},
@@ -1825,7 +1790,6 @@
 			"tags": "rarity:strange_rarity;slot:equipment",
 			"accessory_tag": "strange",
 			"allowed_tags_from_tools": "strange:5000;strange:5003;strange:5006;strange:5008",
-			"exchange": "4001",
 			"item_slot": "extra",
 			"equip_index":  0
 		},
@@ -1884,7 +1848,6 @@
 			"tags": "rarity:strange_rarity;slot:equipment",
 			"accessory_tag": "strange",
 			"allowed_tags_from_tools": "strange:5000",
-			"exchange": "4001",
 			"item_slot": "extra",
 			"equip_index":  1
 		},
@@ -1942,7 +1905,6 @@
 			"tags": "rarity:strange_rarity;slot:equipment",
 			"accessory_tag": "strange",
 			"allowed_tags_from_tools": "strange:5000",
-			"exchange": "4001",
 			"item_slot": "extra",
 			"equip_index":  2
 		},
@@ -1999,7 +1961,6 @@
 			"tags": "rarity:strange_rarity;slot:equipment",
 			"accessory_tag": "strange",
 			"allowed_tags_from_tools": "strange:5000;strange:5002;strange:5007",
-			"exchange": "4001",
 			"item_slot": "extra",
 			"equip_index":  3
 		},
@@ -2057,7 +2018,6 @@
 			"tags": "rarity:strange_rarity;slot:equipment",
 			"accessory_tag": "strange",
 			"allowed_tags_from_tools": "strange:5000",
-			"exchange": "4001",
 			"item_slot": "extra",
 			"equip_index":  4
 		},
@@ -2114,7 +2074,6 @@
 			"tags": "rarity:strange_rarity;slot:equipment",
 			"accessory_tag": "strange",
 			"allowed_tags_from_tools": "strange:5000",
-			"exchange": "4001",
 			"item_slot": "extra",
 			"equip_index":  5
 		},
@@ -2170,7 +2129,6 @@
 			"tags": "rarity:strange_rarity;slot:equipment",
 			"accessory_tag": "strange",
 			"allowed_tags_from_tools": "strange:5000;strange:5002;strange:5007",
-			"exchange": "4001",
 			"item_slot": "extra",
 			"equip_index":  6
 		},
@@ -2216,7 +2174,6 @@
 			"tags": "rarity:strange_rarity;slot:equipment",
 			"accessory_tag": "strange",
 			"allowed_tags_from_tools": "strange:5000;strange:5005;strange:5006",
-			"exchange": "4001",
 			"item_slot": "extra",
 			"equip_index":  7
 		},
@@ -2276,7 +2233,6 @@
 			"tags": "rarity:strange_rarity;slot:equipment",
 			"accessory_tag": "strange",
 			"allowed_tags_from_tools": "strange:5000",
-			"exchange": "4001",
 			"item_slot": "extra",
 			"equip_index":  8
 		},
@@ -2332,7 +2288,6 @@
 			"tags": "rarity:strange_rarity;slot:equipment",
 			"accessory_tag": "strange",
 			"allowed_tags_from_tools": "strange:5000;strange:5002",
-			"exchange": "4001",
 			"item_slot": "extra",
 			"equip_index":  9
 		},
@@ -2390,7 +2345,6 @@
 			"tags": "rarity:strange_rarity;slot:equipment",
 			"accessory_tag": "strange",
 			"allowed_tags_from_tools": "strange:5000;strange:5008",
-			"exchange": "4001",
 			"item_slot": "extra",
 			"equip_index":  10
 		},
@@ -2446,7 +2400,6 @@
 			"tags": "rarity:strange_rarity;slot:equipment;class_restriction:officer",
 			"accessory_tag": "strange",
 			"allowed_tags_from_tools": "strange:5000;strange:5002;strange:5007",
-			"exchange": "4001",
 			"item_slot": "extra",
 			"equip_index":  11
 		},
@@ -2503,7 +2456,6 @@
 			"tags": "rarity:strange_rarity;slot:equipment",
 			"accessory_tag": "strange",
 			"allowed_tags_from_tools": "strange:5000",
-			"exchange": "4001",
 			"item_slot": "extra",
 			"equip_index":  12
 		},
@@ -2559,7 +2511,6 @@
 			"tags": "rarity:strange_rarity;slot:equipment",
 			"accessory_tag": "strange",
 			"allowed_tags_from_tools": "strange:5000;strange:5002;strange:5007",
-			"exchange": "4001",
 			"item_slot": "extra",
 			"equip_index":  13
 		},
@@ -2605,7 +2556,6 @@
 			"tags": "rarity:strange_rarity;slot:equipment",
 			"accessory_tag": "strange",
 			"allowed_tags_from_tools": "strange:5000;strange:5002;strange:5007",
-			"exchange": "4001",
 			"item_slot": "extra",
 			"equip_index":  14
 		},
@@ -2663,7 +2613,6 @@
 			"tags": "rarity:strange_rarity;slot:equipment",
 			"accessory_tag": "strange",
 			"allowed_tags_from_tools": "strange:5000",
-			"exchange": "4001",
 			"item_slot": "extra",
 			"equip_index":  15
 		},
@@ -2720,7 +2669,6 @@
 			"tags": "rarity:strange_rarity;slot:equipment",
 			"accessory_tag": "strange",
 			"allowed_tags_from_tools": "strange:5000;strange:5002;strange:5007",
-			"exchange": "4001",
 			"item_slot": "extra",
 			"equip_index":  16
 		},
@@ -2759,7 +2707,6 @@
 			"tags": "rarity:strange_rarity;slot:equipment;class_restriction:medic",
 			"accessory_tag": "strange",
 			"allowed_tags_from_tools": "strange:5000;strange:5002;strange:5007",
-			"exchange": "4001",
 			"item_slot": "extra",
 			"equip_index":  17
 		}

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<content><string id="body">Das diesmonatige Update enthält viele von der Community gewünschte Funktionen.
+
+[h2]Neuer Feldzug: Reduktion[/h2]
+Eine überarbeitete Version des Feldzugs Reduktion ist jetzt im Spiel verfügbar.
+
+[h2]Einsätze[/h2]
+[list]
+[*][b]Tränen für Tarnor: Oasis-Kolonie Raumhafen:[/b] Es wurde behoben, dass bestimmte Wände unsichtbar wurden, nachdem Aliens an bestimmten Orten gespawnt waren.
+[*][b]Tränen für Tarnor: Oasis-Kolonie Raumhafen:[/b] Verbesserte Grafik beim Spielen in der ersten oder dritten Person.
+[*][b]BioGen Gesellschaft: BioGen Labore:[/b] Der grafische Stil des Einsatzes wurde aktualisiert.
+[/list]
+
+[h2]Waffen[/h2]
+[list]
+[*][b]ML30 Laser Haftminen:[/b] Minen werden nicht mehr von unverwundbaren NSCs wie Scannern ausgelöst.
+[*][b]Granatwerfer:[/b] Schüsse, die weit unter den Soldaten zielen, werden jetzt anders gebogen, damit sie nicht die Kante der Plattform treffen, auf der der Soldat steht.
+[*]Zielgestützte Waffen zielen nicht mehr auf Scanner.
+[*]Soldaten können jetzt sicher durch alle Kugeln rollen, auch durch die von Nicht-Soldaten abgefeuerten.
+[*]Ein [b]cl_loadout_random[/b] Konsolenbefehl wurde hinzugefügt. Er wählt nach dem Zufallsprinzip Primär-, Sekundär- und Extras für dich und deine Bots aus.
+[/list]
+
+[h2]Menüs[/h2]
+[list]
+[*]Viele erweiterte Grafikeinstellungen, darunter Niederschlag, dynamische Beleuchtung und Gegnerschatten, werden jetzt nur noch auf deinem Computer gespeichert und nicht mehr mit der Steam Cloud synchronisiert, was dem Verhalten der Shaderqualität, Texturqualität und Kantenglättung entspricht.
+[*]Spieler können jetzt bis zu drei Medaillen auf einmal ausrüsten.
+[*]Die Vorschau der öffentlichen Lobby im Hauptmenü wurde aktualisiert, um alle Server unabhängig von der Steam-Gruppe anzuzeigen. Icons für die Server von Helden der interstellaren Streitkräfte hinzugefügt.
+[*]Gegenstände mit mehreren Stilen, wie z.B. Medaillen aus den letzten Staffeln von Helden der interstellaren Streitkräfte, können jetzt im Inventar in ihrem Aussehen verändert werden.
+[*]Lobby-Leiter können jetzt verschiedene Einstellungen über die Convars rd_lock_difficulty, rd_lock_onslaught, rd_lock_hardcoreff und rd_lock_challenge sperren.
+[*]Verbessertes Interaktionsziel für Computer und Schalttafeln, damit es einfacher ist, sie zu hacken, wenn eine abgeworfene Waffe in der Nähe ist.
+[/list]
+
+[h2]Mapping / Modding[/h2]
+[list]
+[*]Es wurden sechs neue Convars hinzugefügt, mit denen du bei Koop-Herausforderungen die maximale Anzahl von Soldaten in einem Squad bestimmen kannst: asw_marines_max (Standard 8), asw_marines_max_per_profile (Standard 1), asw_marines_max_officer (Standard 2), asw_marines_max_special_weapons (Standard 2), asw_marines_max_medic (Standard 2) und asw_marines_max_tech (Standard 2).
+[*]Die Hammer-KeyValue SecondaryBullets hat die primäre Munition bei asw_weapon Entitäten beeinflusst, dies wurde behoben.
+[*]Unterstützung für $tintmasktexture zu VertexLitGeneric und UnlitGeneric hinzugefügt.
+[*]Unterstützung für $blendtintbybasealpha zu UnlitGeneric hinzugefügt.
+[*]rd_drone_flinch_resets_attack für die Verwendung in Herausforderungen hinzugefügt. Damit wird das Zurückzucken der Drohne wieder so wie in Alien Swarm, wo es die Angriffsanimationstimer abbricht.
+[*]asw_filter_incapacitated für die Verwendung in Hammer hinzugefügt.
+[*]Soldaten können jetzt einen Gesundheitszustand von bis zu 8191 anzeigen (vorher lag die Grenze bei 511).
+[*]Es wurde eine Option zu asw_jukebox hinzugefügt, die dafür sorgt, dass die vom Spieler bereitgestellte Kampfmusik nicht unterbrochen wird, um Multi-Part Kampfmusik zu verwenden.
+[*]Skillpunkte können jetzt über Convars neu zugewiesen werden (z.B. asw_marine_skill_sarge_0).
+[*]rd_chainsaw_idle_sound wurde für Herausforderungen hinzugefügt, bei denen der Kettensägenleerlaufsound deaktiviert werden soll.
+[*]Bestimmte, vom Author platzierte Wächterwanzen und Hüterwanzen haben den Eintrag in der Swarmopedia nicht freigeschaltet, wenn sie getötet wurden.
+[*]Ein Absturz bei der Pfadfindung, der durch eine falsche Initialisierung von info_node_link verursacht wurde, wurde behoben.
+[*]Ein CollideWithMarines-Schlüsselwert wurde zu func_asw_fade hinzugefügt. Der Hauptzweck ist es, alle Out-of-Bounds-Exploits für Speedruns zu erhalten.
+[*]Es wurden 3 neue Material-Proxys hinzugefügt - LocalTime_Month, LocalTime_Day, LocalTime_Hour. Sie können verwendet werden, um den Rahmen einer animierten Textur auf der Grundlage der lokalen Systemzeit des Betrachters zu ändern. Die Werte für den Monat reichen von 0 bis 11, für die Tage von 0 bis 30 und für die Stunden von 0 bis 23. Zum Beispiel:
+[code]UnlitGeneric {
+    $basetexture "example/animated_monthly_texture"
+    $frame 0
+
+    Proxies {
+        LocalTime_Month {
+            resultvar "$frame"
+        }
+    }
+}[/code]
+[/list]
+
+[h2]Controller[/h2]
+[list]
+[*]Es wurde ein Fall behoben, in dem die Aufforderungen zum Drücken der Controllertaste auch im Modus -nojoy angezeigt wurden.
+[*]Es wurde behoben, dass der Bildschirm mit den Controller-Optionen vom Pausenmenü aus zugänglich war, wenn kein Controller angeschlossen war.
+[/list]
+
+[h2]Dedizierte Server[/h2]
+[list]
+[*]Dem srcds-Serverprotokoll wurde eine Meldung hinzugefügt, wenn sich Soldaten gegenseitig unter Beschuss nehmen.
+[*]Dedizierte Server werden jetzt am Ende des beendet, wenn der Koordinator der Serverliste anzeigt, dass ein Update verfügbar ist. (rd_server_restart_on_update)
+[*]Verbesserte Zuverlässigkeit von sv_memlimit für dedizierte Server.
+[/list]
+
+[h2]Deathmatch[/h2]
+[list]
+[*]Wenn du das Team eines Soldaten oder seiner Ressourcen mit VScript oder Entity-Eingaben änderst, werden diese jetzt beide das Team wechseln.
+[*]Die Bewaffnungen für Team-Deathmatch werden nicht mehr aktualisiert, wenn du eine Waffe vom Boden aufnimmst.
+[*]Ausrüstungsgegenstände, die sichtbar sind, wenn sie ausgerüstet sind, übernehmen jetzt die Team-Deathmatch-Teamfarbe des Soldaten.
+[/list]
+</string><string id="subtitle"></string><string id="summary"></string><string id="title">Alien Swarm: Reactive Drop Update - 1. November 2023</string></content>
