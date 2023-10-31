@@ -8,7 +8,7 @@
 | [Dutch](#non-curated-languages) | 51 | 2004 | 42 | 2912 | 200 | 710 | 556 | 146 |
 | [Finnish](#non-curated-languages) | 51 | 2004 | 42 | 2912 | 200 | 710 | 556 | 146 |
 | [French](#french-français) | 27 | 138 | 42 | 2277 | 200 | 650 | 542 | 125 |
-| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 100 | ✔️ |
+| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Hungarian](#non-curated-languages) | 51 | 138 | 42 | 2912 | 200 | 975 | 556 | 147 |
 | [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 100 | ✔️ |
 | [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 103 | ✔️ | ✔️ |
@@ -1083,33 +1083,7 @@
 
 </summary>
 
-### Inventory Schema
-
-- Item 4002 "Scrap Metal" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_german`, `description_german`, `after_description_german`, `display_type_german`
-- Item 4003 "Electrical Components" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_german`, `description_german`, `after_description_german`, `display_type_german`
-- Item 4004 "Spare Pipe" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_german`, `description_german`, `after_description_german`, `display_type_german`
-- Item 4005 "Plastics" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_german`, `description_german`, `after_description_german`, `display_type_german`
-- Item 4006 "Coolant" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_german`, `description_german`, `after_description_german`, `display_type_german`
-- Item 4007 "Mini-Crate" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_german`, `description_german`, `after_description_german`, `display_type_german`
-- Item 4008 "Battery Pack" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_german`, `description_german`, `after_description_german`, `display_type_german`
-- Item 4009 "Loose Wires" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_german`, `description_german`, `after_description_german`, `display_type_german`
-- Item 4010 "Carbon" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_german`, `description_german`, `after_description_german`, `display_type_german`
-- Item 4011 "Alien Chitin" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_german`, `description_german`, `after_description_german`, `display_type_german`
-- Item 4012 "Biomass Sample" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_german`, `description_german`, `after_description_german`, `display_type_german`
-- Item 4013 "Glowing Green Acid" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_german`, `description_german`, `after_description_german`, `display_type_german`
-- Item 4014 "Claw Fragment" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_german`, `description_german`, `after_description_german`, `display_type_german`
-- Item 4015 "Memory Management Unit" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_german`, `description_german`, `after_description_german`, `display_type_german`
-- Item 4016 "Arithmetic Logic Unit" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_german`, `description_german`, `after_description_german`, `display_type_german`
-- Item 4017 "Data Storage Medium" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_german`, `description_german`, `after_description_german`, `display_type_german`
-- Item 4018 "Pile of Red Sand" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_german`, `description_german`, `after_description_german`, `display_type_german`
-- Item 4019 "Antlion Carapace" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_german`, `description_german`, `after_description_german`, `display_type_german`
-- Item 4020 "Corrosive Fluid Sample" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_german`, `description_german`, `after_description_german`, `display_type_german`
-- Item 4021 "Cooled Volcanic Rock" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_german`, `description_german`, `after_description_german`, `display_type_german`
-- Item 4022 "Retrieved Documents" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_german`, `description_german`, `after_description_german`, `display_type_german`
-- Item 4023 "Unopened SynUp Cola" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_german`, `description_german`, `after_description_german`, `display_type_german`
-- Item 4024 "Roll of Vent Tape" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_german`, `description_german`, `after_description_german`, `display_type_german`
-- Item 4025 "Isotopes" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_german`, `description_german`, `after_description_german`, `display_type_german`
-- Item 4026 "Cryotic" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_german`, `description_german`, `after_description_german`, `display_type_german`
+✓ Up to date!
 
 </details>
 
