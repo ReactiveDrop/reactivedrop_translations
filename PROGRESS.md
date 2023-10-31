@@ -18,7 +18,7 @@
 | [European Portuguese](#portuguese-português-europeu) | ✔️ | 180 | 32 | 2000 | 21 | 628 | 565 | 141 |
 | [Brazilian Portuguese](#brazilian-português) | 2 | 2004 | 32 | 1171 | 9 | 276 | 323 | 8 |
 | [Romanian](#non-curated-languages) | 51 | 1996 | 48 | 3623 | 200 | 975 | 602 | 147 |
-| [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | 54 | ✔️ | ✔️ | 104 | 2 |
+| [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [European Spanish](#spanish-español-de-españa) | 28 | 2004 | 40 | 2327 | 200 | 714 | 552 | 146 |
 | [Latin American Spanish](#latam-español-latinoamericano) | 1281 | 2004 | 634 | 4423 | 204 | 980 | 638 | 147 |
 | [Swedish](#non-curated-languages) | 51 | 2004 | 42 | 2912 | 200 | 710 | 556 | 147 |
@@ -2291,47 +2291,7 @@
 
 </summary>
 
-### Strings
-
-- [reactivedrop_russian.txt](resource/reactivedrop_russian.txt) has 54 untranslated strings.
-
-### Upcoming Release Notes
-
-- [20231101_russian.xml](release_notes/20231101_english.xml) is missing.
-
-### Mail and News
-
-- [mail/biogen_mail_windows_russian.txt](resource/mail/biogen_mail_windows_english.txt) is missing.
-
-### Inventory Schema
-
-- Item 41 "Reduction Veteran" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_russian`, `description_russian`
-- Item 42 "Air Time" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_russian`, `description_russian`
-- Item 4002 "Scrap Metal" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_russian`, `description_russian`, `after_description_russian`, `display_type_russian`
-- Item 4003 "Electrical Components" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_russian`, `description_russian`, `after_description_russian`, `display_type_russian`
-- Item 4004 "Spare Pipe" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_russian`, `description_russian`, `after_description_russian`, `display_type_russian`
-- Item 4005 "Plastics" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_russian`, `description_russian`, `after_description_russian`, `display_type_russian`
-- Item 4006 "Coolant" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_russian`, `description_russian`, `after_description_russian`, `display_type_russian`
-- Item 4007 "Mini-Crate" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_russian`, `description_russian`, `after_description_russian`, `display_type_russian`
-- Item 4008 "Battery Pack" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_russian`, `description_russian`, `after_description_russian`, `display_type_russian`
-- Item 4009 "Loose Wires" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_russian`, `description_russian`, `after_description_russian`, `display_type_russian`
-- Item 4010 "Carbon" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_russian`, `description_russian`, `after_description_russian`, `display_type_russian`
-- Item 4011 "Alien Chitin" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_russian`, `description_russian`, `after_description_russian`, `display_type_russian`
-- Item 4012 "Biomass Sample" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_russian`, `description_russian`, `after_description_russian`, `display_type_russian`
-- Item 4013 "Glowing Green Acid" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_russian`, `description_russian`, `after_description_russian`, `display_type_russian`
-- Item 4014 "Claw Fragment" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_russian`, `description_russian`, `after_description_russian`, `display_type_russian`
-- Item 4015 "Memory Management Unit" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_russian`, `description_russian`, `after_description_russian`, `display_type_russian`
-- Item 4016 "Arithmetic Logic Unit" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_russian`, `description_russian`, `after_description_russian`, `display_type_russian`
-- Item 4017 "Data Storage Medium" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_russian`, `description_russian`, `after_description_russian`, `display_type_russian`
-- Item 4018 "Pile of Red Sand" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_russian`, `description_russian`, `after_description_russian`, `display_type_russian`
-- Item 4019 "Antlion Carapace" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_russian`, `description_russian`, `after_description_russian`, `display_type_russian`
-- Item 4020 "Corrosive Fluid Sample" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_russian`, `description_russian`, `after_description_russian`, `display_type_russian`
-- Item 4021 "Cooled Volcanic Rock" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_russian`, `description_russian`, `after_description_russian`, `display_type_russian`
-- Item 4022 "Retrieved Documents" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_russian`, `description_russian`, `after_description_russian`, `display_type_russian`
-- Item 4023 "Unopened SynUp Cola" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_russian`, `description_russian`, `after_description_russian`, `display_type_russian`
-- Item 4024 "Roll of Vent Tape" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_russian`, `description_russian`, `after_description_russian`, `display_type_russian`
-- Item 4025 "Isotopes" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_russian`, `description_russian`, `after_description_russian`, `display_type_russian`
-- Item 4026 "Cryotic" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_russian`, `description_russian`, `after_description_russian`, `display_type_russian`
+✓ Up to date!
 
 </details>
 
