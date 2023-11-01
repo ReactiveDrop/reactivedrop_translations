@@ -1,614 +1,25 @@
 "controller_mappings"
 {
 	"version"		"3"
-	"revision"		"32"
+	"revision"		"78"
 	"title"		"#InputConfigTitle_SteamDeck"
 	"description"		"#InputConfigDescription_SteamDeck"
 	"creator"		"76561198199288251"
-	"progenitor"		""
+	"progenitor"		"template://empty.vdf"
 	"controller_type"		"controller_neptune"
 	"controller_caps"		"23117823"
 	"major_revision"		"0"
 	"minor_revision"		"0"
-	"group"
-	{
-		"id"		"0"
-		"mode"		"switches"
-		"inputs"
-		{
-			"button_escape"
-			{
-				"activators"
-				{
-					"Full_Press"
-					{
-						"bindings"
-						{
-							"binding"		"game_action ingame Menu, , "
-						}
-					}
-				}
-			}
-			"button_menu"
-			{
-				"activators"
-				{
-					"Full_Press"
-					{
-						"bindings"
-						{
-							"binding"		"game_action ingame InGameBriefing, , "
-						}
-					}
-				}
-			}
-			"left_bumper"
-			{
-				"activators"
-				{
-					"Full_Press"
-					{
-						"bindings"
-						{
-							"binding"		"game_action ingame OffHandAttack, , "
-						}
-					}
-				}
-			}
-			"right_bumper"
-			{
-				"activators"
-				{
-					"Full_Press"
-					{
-						"bindings"
-						{
-							"binding"		"game_action ingame Reload, , "
-						}
-					}
-				}
-			}
-			"button_back_left"
-			{
-				"activators"
-				{
-					"Full_Press"
-					{
-						"bindings"
-						{
-							"binding"		"game_action ingame EmoteStop, , "
-						}
-					}
-				}
-			}
-			"button_back_right"
-			{
-				"activators"
-				{
-					"Full_Press"
-					{
-						"bindings"
-						{
-							"binding"		"game_action ingame EmoteGo, , "
-						}
-					}
-				}
-			}
-			"button_back_left_upper"
-			{
-				"activators"
-				{
-					"Full_Press"
-					{
-						"bindings"
-						{
-							"binding"		"game_action ingame RotateCameraLeft, , "
-						}
-					}
-				}
-			}
-			"button_back_right_upper"
-			{
-				"activators"
-				{
-					"Full_Press"
-					{
-						"bindings"
-						{
-							"binding"		"game_action ingame RotateCameraRight, , "
-						}
-					}
-				}
-			}
-			"button_capture"
-			{
-				"activators"
-				{
-					"release"
-					{
-						"bindings"
-						{
-							"binding"		"controller_action system_key_1, , "
-						}
-					}
-				}
-			}
-		}
-	}
-	"group"
-	{
-		"id"		"1"
-		"mode"		"four_buttons"
-		"inputs"
-		{
-			"button_a"
-			{
-				"activators"
-				{
-					"Full_Press"
-					{
-						"bindings"
-						{
-							"binding"		"game_action ingame Jump, , "
-						}
-					}
-				}
-			}
-			"button_b"
-			{
-				"activators"
-				{
-					"Full_Press"
-					{
-						"bindings"
-						{
-							"binding"		"game_action ingame MeleeAttack, , "
-						}
-					}
-				}
-			}
-			"button_x"
-			{
-				"activators"
-				{
-					"Full_Press"
-					{
-						"bindings"
-						{
-							"binding"		"game_action ingame Use, , "
-						}
-					}
-				}
-			}
-			"button_y"
-			{
-				"activators"
-				{
-					"Full_Press"
-					{
-						"bindings"
-						{
-							"binding"		"game_action ingame SwapWeapons, , "
-						}
-					}
-				}
-			}
-		}
-	}
-	"group"
-	{
-		"id"		"2"
-		"mode"		"joystick_move"
-		"inputs"
-		{
-			"click"
-			{
-				"activators"
-				{
-					"Full_Press"
-					{
-						"bindings"
-						{
-							"binding"		"game_action ingame EmoteStop, , "
-						}
-					}
-				}
-			}
-		}
-		"settings"
-		{
-			"virtual_mode"		"1"
-		}
-		"gameactions"
-		{
-			"ingame"		"Move"
-		}
-	}
-	"group"
-	{
-		"id"		"3"
-		"mode"		"joystick_move"
-		"inputs"
-		{
-			"click"
-			{
-				"activators"
-				{
-					"Full_Press"
-					{
-						"bindings"
-						{
-							"binding"		"game_action ingame EmoteGo, , "
-						}
-					}
-				}
-			}
-		}
-		"settings"
-		{
-			"virtual_mode"		"1"
-		}
-		"gameactions"
-		{
-			"ingame"		"Look"
-		}
-	}
-	"group"
-	{
-		"id"		"4"
-		"mode"		"trigger"
-		"inputs"
-		{
-			"edge"
-			{
-				"activators"
-				{
-					"Full_Press"
-					{
-						"bindings"
-						{
-							"binding"		"game_action ingame SecondaryAttack, , "
-						}
-						"settings"
-						{
-							"haptic_intensity"		"2"
-						}
-					}
-				}
-			}
-		}
-	}
-	"group"
-	{
-		"id"		"5"
-		"mode"		"trigger"
-		"inputs"
-		{
-			"edge"
-			{
-				"activators"
-				{
-					"Full_Press"
-					{
-						"bindings"
-						{
-							"binding"		"game_action ingame PrimaryAttack, , "
-						}
-						"settings"
-						{
-							"haptic_intensity"		"2"
-						}
-					}
-				}
-			}
-		}
-	}
-	"group"
-	{
-		"id"		"6"
-		"mode"		"dpad"
-		"inputs"
-		{
-			"dpad_north"
-			{
-				"activators"
-				{
-					"Full_Press"
-					{
-						"bindings"
-						{
-							"binding"		"game_action ingame WheelMarine, , "
-						}
-					}
-				}
-			}
-			"dpad_south"
-			{
-				"activators"
-				{
-					"Full_Press"
-					{
-						"bindings"
-						{
-							"binding"		"game_action ingame WheelDefault, , "
-						}
-					}
-				}
-			}
-			"dpad_east"
-			{
-				"activators"
-				{
-					"Full_Press"
-					{
-						"bindings"
-						{
-							"binding"		"game_action ingame WheelEquipment2, , "
-						}
-					}
-				}
-			}
-			"dpad_west"
-			{
-				"activators"
-				{
-					"Full_Press"
-					{
-						"bindings"
-						{
-							"binding"		"game_action ingame WheelEquipment1, , "
-						}
-					}
-				}
-			}
-		}
-		"settings"
-		{
-			"requires_click"		"0"
-			"haptic_intensity_override"		"0"
-		}
-	}
-	"group"
-	{
-		"id"		"7"
-		"mode"		"absolute_mouse"
-		"inputs"
-		{
-			"click"
-			{
-				"activators"
-				{
-					"Soft_Press"
-					{
-						"bindings"
-						{
-							"binding"		"mouse_button LEFT, , "
-						}
-					}
-				}
-			}
-		}
-	}
-	"group"
-	{
-		"id"		"8"
-		"mode"		"scrollwheel"
-		"inputs"
-		{
-			"scroll_clockwise"
-			{
-				"activators"
-				{
-					"Full_Press"
-					{
-						"bindings"
-						{
-							"binding"		"mouse_wheel SCROLL_DOWN, , "
-						}
-					}
-				}
-			}
-			"scroll_counterclockwise"
-			{
-				"activators"
-				{
-					"Full_Press"
-					{
-						"bindings"
-						{
-							"binding"		"mouse_wheel SCROLL_UP, , "
-						}
-					}
-				}
-			}
-			"click"
-			{
-				"activators"
-				{
-					"Soft_Press"
-					{
-						"bindings"
-						{
-							"binding"		"mouse_button RIGHT, , "
-						}
-					}
-				}
-			}
-		}
-	}
-	"group"
-	{
-		"id"		"9"
-		"mode"		"switches"
-		"name"		""
-		"description"		""
-		"inputs"
-		{
-			"button_escape"
-			{
-				"activators"
-				{
-					"Full_Press"
-					{
-						"bindings"
-						{
-							"binding"		"game_action Menus MenuStart, , "
-						}
-					}
-				}
-				"disabled_activators"
-				{
-				}
-			}
-			"button_menu"
-			{
-				"activators"
-				{
-					"Full_Press"
-					{
-						"bindings"
-						{
-							"binding"		"game_action Menus MenuSelect, , "
-						}
-					}
-				}
-				"disabled_activators"
-				{
-				}
-			}
-			"left_bumper"
-			{
-				"activators"
-				{
-					"Full_Press"
-					{
-						"bindings"
-						{
-							"binding"		"game_action Menus MenuL1, , "
-						}
-					}
-				}
-				"disabled_activators"
-				{
-				}
-			}
-			"right_bumper"
-			{
-				"activators"
-				{
-					"Full_Press"
-					{
-						"bindings"
-						{
-							"binding"		"game_action Menus MenuR1, , "
-						}
-					}
-				}
-				"disabled_activators"
-				{
-				}
-			}
-			"button_capture"
-			{
-				"activators"
-				{
-					"release"
-					{
-						"bindings"
-						{
-							"binding"		"controller_action system_key_1, , "
-						}
-					}
-				}
-				"disabled_activators"
-				{
-				}
-			}
-		}
-	}
-	"group"
-	{
-		"id"		"10"
-		"mode"		"four_buttons"
-		"name"		""
-		"description"		""
-		"inputs"
-		{
-			"button_a"
-			{
-				"activators"
-				{
-					"Full_Press"
-					{
-						"bindings"
-						{
-							"binding"		"game_action Menus MenuConfirm, , "
-						}
-					}
-				}
-				"disabled_activators"
-				{
-				}
-			}
-			"button_b"
-			{
-				"activators"
-				{
-					"Full_Press"
-					{
-						"bindings"
-						{
-							"binding"		"game_action Menus MenuBack, , "
-						}
-					}
-				}
-				"disabled_activators"
-				{
-				}
-			}
-			"button_x"
-			{
-				"activators"
-				{
-					"Full_Press"
-					{
-						"bindings"
-						{
-							"binding"		"game_action Menus MenuSpecial1, , "
-						}
-					}
-				}
-				"disabled_activators"
-				{
-				}
-			}
-			"button_y"
-			{
-				"activators"
-				{
-					"Full_Press"
-					{
-						"bindings"
-						{
-							"binding"		"game_action Menus MenuSpecial2, , "
-						}
-					}
-				}
-				"disabled_activators"
-				{
-				}
-			}
-		}
-	}
+	"Timestamp"		"1698603100"
 	"group"
 	{
 		"id"		"11"
-		"mode"		"dpad"
+		"mode"		"four_buttons"
 		"name"		""
 		"description"		""
 		"inputs"
 		{
-			"dpad_north"
+			"button_a"
 			{
 				"activators"
 				{
@@ -616,7 +27,7 @@
 					{
 						"bindings"
 						{
-							"binding"		"game_action Menus MenuLeftStickUp, , "
+							"binding"		"game_action InGame jump, , "
 						}
 					}
 				}
@@ -624,7 +35,7 @@
 				{
 				}
 			}
-			"dpad_south"
+			"button_b"
 			{
 				"activators"
 				{
@@ -632,7 +43,7 @@
 					{
 						"bindings"
 						{
-							"binding"		"game_action Menus MenuLeftStickDown, , "
+							"binding"		"game_action InGame MeleeAttack, , "
 						}
 					}
 				}
@@ -640,7 +51,7 @@
 				{
 				}
 			}
-			"dpad_east"
+			"button_x"
 			{
 				"activators"
 				{
@@ -648,7 +59,7 @@
 					{
 						"bindings"
 						{
-							"binding"		"game_action Menus MenuLeftStickRight, , "
+							"binding"		"game_action InGame use, , "
 						}
 					}
 				}
@@ -656,7 +67,7 @@
 				{
 				}
 			}
-			"dpad_west"
+			"button_y"
 			{
 				"activators"
 				{
@@ -664,7 +75,7 @@
 					{
 						"bindings"
 						{
-							"binding"		"game_action Menus MenuLeftStickLeft, , "
+							"binding"		"game_action InGame SwapWeapons, , "
 						}
 					}
 				}
@@ -672,37 +83,17 @@
 				{
 				}
 			}
-			"click"
-			{
-				"activators"
-				{
-					"Full_Press"
-					{
-						"bindings"
-						{
-							"binding"		"game_action Menus MenuL3, , "
-						}
-					}
-				}
-				"disabled_activators"
-				{
-				}
-			}
-		}
-		"settings"
-		{
-			"requires_click"		"0"
 		}
 	}
 	"group"
 	{
 		"id"		"12"
-		"mode"		"dpad"
+		"mode"		"trigger"
 		"name"		""
 		"description"		""
 		"inputs"
 		{
-			"dpad_north"
+			"edge"
 			{
 				"activators"
 				{
@@ -710,23 +101,11 @@
 					{
 						"bindings"
 						{
-							"binding"		"game_action Menus MenuRightStickUp, , "
+							"binding"		"game_action InGame SecondaryAttack, , "
 						}
-					}
-				}
-				"disabled_activators"
-				{
-				}
-			}
-			"dpad_south"
-			{
-				"activators"
-				{
-					"Full_Press"
-					{
-						"bindings"
+						"settings"
 						{
-							"binding"		"game_action Menus MenuRightStickDown, , "
+							"haptic_intensity"		"1"
 						}
 					}
 				}
@@ -734,58 +113,6 @@
 				{
 				}
 			}
-			"dpad_east"
-			{
-				"activators"
-				{
-					"Full_Press"
-					{
-						"bindings"
-						{
-							"binding"		"game_action Menus MenuRightStickRight, , "
-						}
-					}
-				}
-				"disabled_activators"
-				{
-				}
-			}
-			"dpad_west"
-			{
-				"activators"
-				{
-					"Full_Press"
-					{
-						"bindings"
-						{
-							"binding"		"game_action Menus MenuRightStickLeft, , "
-						}
-					}
-				}
-				"disabled_activators"
-				{
-				}
-			}
-			"click"
-			{
-				"activators"
-				{
-					"Full_Press"
-					{
-						"bindings"
-						{
-							"binding"		"game_action Menus MenuR3, , "
-						}
-					}
-				}
-				"disabled_activators"
-				{
-				}
-			}
-		}
-		"settings"
-		{
-			"requires_click"		"0"
 		}
 	}
 	"group"
@@ -804,11 +131,11 @@
 					{
 						"bindings"
 						{
-							"binding"		"game_action Menus MenuL2, , "
+							"binding"		"game_action InGame PrimaryAttack, , "
 						}
 						"settings"
 						{
-							"haptic_intensity"		"2"
+							"haptic_intensity"		"1"
 						}
 					}
 				}
@@ -820,7 +147,81 @@
 	}
 	"group"
 	{
-		"id"		"14"
+		"id"		"15"
+		"mode"		"four_buttons"
+		"name"		""
+		"description"		""
+		"inputs"
+		{
+			"button_a"
+			{
+				"activators"
+				{
+					"Full_Press"
+					{
+						"bindings"
+						{
+							"binding"		"game_action Menus MenuConfirm, #Button_MenuConfirm, , "
+						}
+					}
+				}
+				"disabled_activators"
+				{
+				}
+			}
+			"button_b"
+			{
+				"activators"
+				{
+					"Full_Press"
+					{
+						"bindings"
+						{
+							"binding"		"game_action Menus MenuBack, #Button_MenuBack, , "
+						}
+					}
+				}
+				"disabled_activators"
+				{
+				}
+			}
+			"button_x"
+			{
+				"activators"
+				{
+					"Full_Press"
+					{
+						"bindings"
+						{
+							"binding"		"game_action Menus MenuSpecial1, #Button_MenuSpecial1, , "
+						}
+					}
+				}
+				"disabled_activators"
+				{
+				}
+			}
+			"button_y"
+			{
+				"activators"
+				{
+					"Full_Press"
+					{
+						"bindings"
+						{
+							"binding"		"game_action Menus MenuSpecial2, #Button_MenuSpecial2, , "
+						}
+					}
+				}
+				"disabled_activators"
+				{
+				}
+			}
+		}
+	}
+	"group"
+	{
+		"id"		"16"
 		"mode"		"trigger"
 		"name"		""
 		"description"		""
@@ -834,11 +235,11 @@
 					{
 						"bindings"
 						{
-							"binding"		"game_action Menus MenuR2, , "
+							"binding"		"game_action Menus MenuL2, #Button_MenuL2, , "
 						}
 						"settings"
 						{
-							"haptic_intensity"		"2"
+							"haptic_intensity"		"1"
 						}
 					}
 				}
@@ -850,13 +251,13 @@
 	}
 	"group"
 	{
-		"id"		"15"
-		"mode"		"dpad"
+		"id"		"17"
+		"mode"		"trigger"
 		"name"		""
 		"description"		""
 		"inputs"
 		{
-			"dpad_north"
+			"edge"
 			{
 				"activators"
 				{
@@ -864,23 +265,11 @@
 					{
 						"bindings"
 						{
-							"binding"		"game_action Menus MenuUp, , "
+							"binding"		"game_action Menus MenuR2, #Button_MenuR2, , "
 						}
-					}
-				}
-				"disabled_activators"
-				{
-				}
-			}
-			"dpad_south"
-			{
-				"activators"
-				{
-					"Full_Press"
-					{
-						"bindings"
+						"settings"
 						{
-							"binding"		"game_action Menus MenuDown, , "
+							"haptic_intensity"		"1"
 						}
 					}
 				}
@@ -888,48 +277,11 @@
 				{
 				}
 			}
-			"dpad_east"
-			{
-				"activators"
-				{
-					"Full_Press"
-					{
-						"bindings"
-						{
-							"binding"		"game_action Menus MenuRight, , "
-						}
-					}
-				}
-				"disabled_activators"
-				{
-				}
-			}
-			"dpad_west"
-			{
-				"activators"
-				{
-					"Full_Press"
-					{
-						"bindings"
-						{
-							"binding"		"game_action Menus MenuLeft, , "
-						}
-					}
-				}
-				"disabled_activators"
-				{
-				}
-			}
-		}
-		"settings"
-		{
-			"requires_click"		"0"
-			"haptic_intensity_override"		"0"
 		}
 	}
 	"group"
 	{
-		"id"		"16"
+		"id"		"19"
 		"mode"		"four_buttons"
 		"name"		""
 		"description"		""
@@ -975,8 +327,117 @@
 	}
 	"group"
 	{
-		"id"		"17"
+		"id"		"20"
+		"mode"		"trigger"
+		"name"		""
+		"description"		""
+		"inputs"
+		{
+		}
+		"settings"
+		{
+			"layer"		"1"
+		}
+	}
+	"group"
+	{
+		"id"		"21"
+		"mode"		"trigger"
+		"name"		""
+		"description"		""
+		"inputs"
+		{
+		}
+		"settings"
+		{
+			"layer"		"1"
+		}
+	}
+	"group"
+	{
+		"id"		"28"
+		"mode"		"dpad"
+		"name"		""
+		"description"		""
+		"inputs"
+		{
+			"dpad_north"
+			{
+				"activators"
+				{
+					"Full_Press"
+					{
+						"bindings"
+						{
+							"binding"		"game_action InGame WheelMarine, , "
+						}
+					}
+				}
+				"disabled_activators"
+				{
+				}
+			}
+			"dpad_south"
+			{
+				"activators"
+				{
+					"Full_Press"
+					{
+						"bindings"
+						{
+							"binding"		"game_action InGame WheelDefault, , "
+						}
+					}
+				}
+				"disabled_activators"
+				{
+				}
+			}
+			"dpad_east"
+			{
+				"activators"
+				{
+					"Full_Press"
+					{
+						"bindings"
+						{
+							"binding"		"game_action InGame WheelEquipment2, , "
+						}
+					}
+				}
+				"disabled_activators"
+				{
+				}
+			}
+			"dpad_west"
+			{
+				"activators"
+				{
+					"Full_Press"
+					{
+						"bindings"
+						{
+							"binding"		"game_action InGame WheelEquipment1, , "
+						}
+					}
+				}
+				"disabled_activators"
+				{
+				}
+			}
+		}
+		"settings"
+		{
+			"requires_click"		"0"
+			"haptic_intensity_override"		"0"
+		}
+	}
+	"group"
+	{
+		"id"		"29"
 		"mode"		"joystick_move"
+		"name"		""
+		"description"		""
 		"inputs"
 		{
 			"click"
@@ -987,9 +448,12 @@
 					{
 						"bindings"
 						{
-							"binding"		"game_action ingame EmoteStop, , "
+							"binding"		"game_action InGame EmoteStop, , "
 						}
 					}
+				}
+				"disabled_activators"
+				{
 				}
 			}
 		}
@@ -999,15 +463,919 @@
 		}
 		"gameactions"
 		{
-			"InGame"		"InGameActions MenuNavigate"
+			"InGame"		"Move"
+		}
+	}
+	"group"
+	{
+		"id"		"30"
+		"mode"		"joystick_move"
+		"name"		""
+		"description"		""
+		"inputs"
+		{
+			"click"
+			{
+				"activators"
+				{
+					"Full_Press"
+					{
+						"bindings"
+						{
+							"binding"		"game_action InGame EmoteGo, , "
+						}
+					}
+				}
+				"disabled_activators"
+				{
+				}
+			}
+		}
+		"settings"
+		{
+			"virtual_mode"		"1"
+		}
+		"gameactions"
+		{
+			"InGame"		"Look"
+		}
+	}
+	"group"
+	{
+		"id"		"31"
+		"mode"		"absolute_mouse"
+		"name"		""
+		"description"		""
+		"inputs"
+		{
+		}
+	}
+	"group"
+	{
+		"id"		"32"
+		"mode"		"dpad"
+		"name"		""
+		"description"		""
+		"inputs"
+		{
+			"dpad_north"
+			{
+				"activators"
+				{
+					"Full_Press"
+					{
+						"bindings"
+						{
+							"binding"		"mouse_wheel SCROLL_UP, , "
+						}
+						"settings"
+						{
+							"hold_repeats"		"1"
+							"haptic_intensity"		"0"
+						}
+					}
+				}
+				"disabled_activators"
+				{
+				}
+			}
+			"dpad_south"
+			{
+				"activators"
+				{
+					"Full_Press"
+					{
+						"bindings"
+						{
+							"binding"		"mouse_wheel SCROLL_DOWN, , "
+						}
+						"settings"
+						{
+							"hold_repeats"		"1"
+							"haptic_intensity"		"0"
+						}
+					}
+				}
+				"disabled_activators"
+				{
+				}
+			}
+			"click"
+			{
+				"activators"
+				{
+					"Soft_Press"
+					{
+						"bindings"
+						{
+							"binding"		"mouse_button RIGHT, , "
+						}
+					}
+				}
+				"disabled_activators"
+				{
+				}
+			}
+		}
+	}
+	"group"
+	{
+		"id"		"33"
+		"mode"		"absolute_mouse"
+		"name"		""
+		"description"		""
+		"inputs"
+		{
+			"click"
+			{
+				"activators"
+				{
+					"Soft_Press"
+					{
+						"bindings"
+						{
+							"binding"		"mouse_button LEFT, , "
+						}
+					}
+				}
+				"disabled_activators"
+				{
+				}
+			}
+		}
+	}
+	"group"
+	{
+		"id"		"35"
+		"mode"		"dpad"
+		"name"		""
+		"description"		""
+		"inputs"
+		{
+			"dpad_north"
+			{
+				"activators"
+				{
+					"Full_Press"
+					{
+						"bindings"
+						{
+							"binding"		"game_action InGameMenus MenuLeftStickUp, , "
+						}
+					}
+				}
+				"disabled_activators"
+				{
+				}
+			}
+			"dpad_south"
+			{
+				"activators"
+				{
+					"Full_Press"
+					{
+						"bindings"
+						{
+							"binding"		"game_action InGameMenus MenuLeftStickDown, , "
+						}
+					}
+				}
+				"disabled_activators"
+				{
+				}
+			}
+			"dpad_east"
+			{
+				"activators"
+				{
+					"Full_Press"
+					{
+						"bindings"
+						{
+							"binding"		"game_action InGameMenus MenuLeftStickRight, , "
+						}
+					}
+				}
+				"disabled_activators"
+				{
+				}
+			}
+			"dpad_west"
+			{
+				"activators"
+				{
+					"Full_Press"
+					{
+						"bindings"
+						{
+							"binding"		"game_action InGameMenus MenuLeftStickLeft, , "
+						}
+					}
+				}
+				"disabled_activators"
+				{
+				}
+			}
+		}
+		"settings"
+		{
+			"layer"		"1"
+		}
+	}
+	"group"
+	{
+		"id"		"36"
+		"mode"		"joystick_move"
+		"name"		""
+		"description"		""
+		"inputs"
+		{
+		}
+		"settings"
+		{
+			"layer"		"1"
+		}
+		"gameactions"
+		{
+			"InGame"		"InGameMenus MenuNavigate"
+		}
+	}
+	"group"
+	{
+		"id"		"37"
+		"mode"		"dpad"
+		"name"		""
+		"description"		""
+		"inputs"
+		{
+			"dpad_north"
+			{
+				"activators"
+				{
+					"Full_Press"
+					{
+						"bindings"
+						{
+							"binding"		"game_action InGameMenus MenuLeftStickUp, , "
+						}
+					}
+				}
+				"disabled_activators"
+				{
+				}
+			}
+			"dpad_south"
+			{
+				"activators"
+				{
+					"Full_Press"
+					{
+						"bindings"
+						{
+							"binding"		"game_action InGameMenus MenuLeftStickDown, , "
+						}
+					}
+				}
+				"disabled_activators"
+				{
+				}
+			}
+			"dpad_east"
+			{
+				"activators"
+				{
+					"Full_Press"
+					{
+						"bindings"
+						{
+							"binding"		"game_action InGameMenus MenuLeftStickRight, , "
+						}
+					}
+				}
+				"disabled_activators"
+				{
+				}
+			}
+			"dpad_west"
+			{
+				"activators"
+				{
+					"Full_Press"
+					{
+						"bindings"
+						{
+							"binding"		"game_action InGameMenus MenuLeftStickLeft, , "
+						}
+					}
+				}
+				"disabled_activators"
+				{
+				}
+			}
+			"click"
+			{
+				"activators"
+				{
+					"Full_Press"
+					{
+						"bindings"
+						{
+							"binding"		"game_action InGame EmoteStop, , "
+						}
+					}
+				}
+				"disabled_activators"
+				{
+				}
+			}
+		}
+		"settings"
+		{
+			"layer"		"1"
+			"requires_click"		"0"
+		}
+	}
+	"group"
+	{
+		"id"		"38"
+		"mode"		"dpad"
+		"name"		""
+		"description"		""
+		"inputs"
+		{
+			"dpad_north"
+			{
+				"activators"
+				{
+					"Full_Press"
+					{
+						"bindings"
+						{
+							"binding"		"game_action InGameMenus MenuLeftStickUp, , "
+						}
+					}
+				}
+				"disabled_activators"
+				{
+				}
+			}
+			"dpad_south"
+			{
+				"activators"
+				{
+					"Full_Press"
+					{
+						"bindings"
+						{
+							"binding"		"game_action InGameMenus MenuLeftStickDown, , "
+						}
+					}
+				}
+				"disabled_activators"
+				{
+				}
+			}
+			"dpad_east"
+			{
+				"activators"
+				{
+					"Full_Press"
+					{
+						"bindings"
+						{
+							"binding"		"game_action InGameMenus MenuLeftStickRight, , "
+						}
+					}
+				}
+				"disabled_activators"
+				{
+				}
+			}
+			"dpad_west"
+			{
+				"activators"
+				{
+					"Full_Press"
+					{
+						"bindings"
+						{
+							"binding"		"game_action InGameMenus MenuLeftStickLeft, , "
+						}
+					}
+				}
+				"disabled_activators"
+				{
+				}
+			}
+			"click"
+			{
+				"activators"
+				{
+					"Full_Press"
+					{
+						"bindings"
+						{
+							"binding"		"game_action InGame EmoteGo, , "
+						}
+					}
+				}
+				"disabled_activators"
+				{
+				}
+			}
+		}
+		"settings"
+		{
+			"layer"		"1"
+			"requires_click"		"0"
+		}
+	}
+	"group"
+	{
+		"id"		"0"
+		"mode"		"switches"
+		"name"		""
+		"description"		""
+		"inputs"
+		{
+			"button_capture"
+			{
+				"activators"
+				{
+					"release"
+					{
+						"bindings"
+						{
+							"binding"		"controller_action system_key_1, , "
+						}
+					}
+				}
+				"disabled_activators"
+				{
+				}
+			}
+		}
+	}
+	"group"
+	{
+		"id"		"10"
+		"mode"		"switches"
+		"name"		""
+		"description"		""
+		"inputs"
+		{
+			"button_escape"
+			{
+				"activators"
+				{
+					"Full_Press"
+					{
+						"bindings"
+						{
+							"binding"		"game_action InGame Menu, , "
+						}
+					}
+				}
+				"disabled_activators"
+				{
+				}
+			}
+			"button_menu"
+			{
+				"activators"
+				{
+					"Full_Press"
+					{
+						"bindings"
+						{
+							"binding"		"game_action InGame InGameBriefing, , "
+						}
+					}
+				}
+				"disabled_activators"
+				{
+				}
+			}
+			"left_bumper"
+			{
+				"activators"
+				{
+					"Full_Press"
+					{
+						"bindings"
+						{
+							"binding"		"game_action InGame OffHandAttack, , "
+						}
+					}
+				}
+				"disabled_activators"
+				{
+				}
+			}
+			"right_bumper"
+			{
+				"activators"
+				{
+					"Full_Press"
+					{
+						"bindings"
+						{
+							"binding"		"game_action InGame reload, , "
+						}
+					}
+				}
+				"disabled_activators"
+				{
+				}
+			}
+			"button_back_left"
+			{
+				"activators"
+				{
+					"Full_Press"
+					{
+						"bindings"
+						{
+							"binding"		"game_action InGame RotateCameraLeft, , "
+						}
+					}
+				}
+				"disabled_activators"
+				{
+				}
+			}
+			"button_back_right"
+			{
+				"activators"
+				{
+					"Full_Press"
+					{
+						"bindings"
+						{
+							"binding"		"game_action InGame RotateCameraRight, , "
+						}
+					}
+				}
+				"disabled_activators"
+				{
+				}
+			}
+			"button_back_left_upper"
+			{
+				"activators"
+				{
+					"Full_Press"
+					{
+						"bindings"
+						{
+							"binding"		"game_action InGame EmoteStop, , "
+						}
+					}
+				}
+				"disabled_activators"
+				{
+				}
+			}
+			"button_back_right_upper"
+			{
+				"activators"
+				{
+					"Full_Press"
+					{
+						"bindings"
+						{
+							"binding"		"game_action InGame EmoteGo, , "
+						}
+					}
+				}
+				"disabled_activators"
+				{
+				}
+			}
+			"button_capture"
+			{
+				"activators"
+				{
+					"release"
+					{
+						"bindings"
+						{
+							"binding"		"controller_action system_key_1, , "
+						}
+					}
+				}
+				"disabled_activators"
+				{
+				}
+			}
+		}
+	}
+	"group"
+	{
+		"id"		"14"
+		"mode"		"switches"
+		"name"		""
+		"description"		""
+		"inputs"
+		{
+			"button_escape"
+			{
+				"activators"
+				{
+					"Full_Press"
+					{
+						"bindings"
+						{
+							"binding"		"game_action Menus MenuStart, #Button_MenuStart, , "
+						}
+					}
+				}
+				"disabled_activators"
+				{
+				}
+			}
+			"button_menu"
+			{
+				"activators"
+				{
+					"Full_Press"
+					{
+						"bindings"
+						{
+							"binding"		"game_action Menus MenuSelect, #Button_MenuSelect, , "
+						}
+					}
+				}
+				"disabled_activators"
+				{
+				}
+			}
+			"left_bumper"
+			{
+				"activators"
+				{
+					"Full_Press"
+					{
+						"bindings"
+						{
+							"binding"		"game_action Menus MenuL1, #Button_MenuL1, , "
+						}
+					}
+				}
+				"disabled_activators"
+				{
+				}
+			}
+			"right_bumper"
+			{
+				"activators"
+				{
+					"Full_Press"
+					{
+						"bindings"
+						{
+							"binding"		"game_action Menus MenuR1, #Button_MenuR1, , "
+						}
+					}
+				}
+				"disabled_activators"
+				{
+				}
+			}
+			"button_back_left_upper"
+			{
+				"activators"
+				{
+					"Full_Press"
+					{
+						"bindings"
+						{
+							"binding"		"game_action Menus MenuL3, #Button_MenuL3, , "
+						}
+					}
+				}
+				"disabled_activators"
+				{
+				}
+			}
+			"button_back_right_upper"
+			{
+				"activators"
+				{
+					"Full_Press"
+					{
+						"bindings"
+						{
+							"binding"		"game_action Menus MenuR3, #Button_MenuR3, , "
+						}
+					}
+				}
+				"disabled_activators"
+				{
+				}
+			}
+			"button_capture"
+			{
+				"activators"
+				{
+					"release"
+					{
+						"bindings"
+						{
+							"binding"		"controller_action system_key_1, , "
+						}
+					}
+				}
+				"disabled_activators"
+				{
+				}
+			}
 		}
 	}
 	"group"
 	{
 		"id"		"18"
-		"mode"		"joystick_move"
+		"mode"		"switches"
+		"name"		""
+		"description"		""
 		"inputs"
 		{
+			"button_capture"
+			{
+				"activators"
+				{
+					"release"
+					{
+						"bindings"
+						{
+							"binding"		"controller_action system_key_1, , "
+						}
+					}
+				}
+				"disabled_activators"
+				{
+				}
+			}
+		}
+		"settings"
+		{
+			"layer"		"1"
+		}
+	}
+	"group"
+	{
+		"id"		"40"
+		"mode"		"dpad"
+		"name"		""
+		"description"		""
+		"inputs"
+		{
+			"dpad_north"
+			{
+				"activators"
+				{
+					"Full_Press"
+					{
+						"bindings"
+						{
+							"binding"		"game_action Menus MenuUp, #Button_MenuUp, , "
+						}
+					}
+				}
+				"disabled_activators"
+				{
+				}
+			}
+			"dpad_south"
+			{
+				"activators"
+				{
+					"Full_Press"
+					{
+						"bindings"
+						{
+							"binding"		"game_action Menus MenuDown, #Button_MenuDown, , "
+						}
+					}
+				}
+				"disabled_activators"
+				{
+				}
+			}
+			"dpad_east"
+			{
+				"activators"
+				{
+					"Full_Press"
+					{
+						"bindings"
+						{
+							"binding"		"game_action Menus MenuRight, #Button_MenuRight, , "
+						}
+					}
+				}
+				"disabled_activators"
+				{
+				}
+			}
+			"dpad_west"
+			{
+				"activators"
+				{
+					"Full_Press"
+					{
+						"bindings"
+						{
+							"binding"		"game_action Menus MenuLeft, #Button_MenuLeft, , "
+						}
+					}
+				}
+				"disabled_activators"
+				{
+				}
+			}
+		}
+		"settings"
+		{
+			"requires_click"		"0"
+			"haptic_intensity_override"		"0"
+		}
+		"gameactions"
+		{
+		}
+	}
+	"group"
+	{
+		"id"		"41"
+		"mode"		"dpad"
+		"name"		""
+		"description"		""
+		"inputs"
+		{
+			"dpad_north"
+			{
+				"activators"
+				{
+					"Full_Press"
+					{
+						"bindings"
+						{
+							"binding"		"game_action Menus MenuLeftStickUp, #Button_MenuLeftStickUp, , "
+						}
+					}
+				}
+				"disabled_activators"
+				{
+				}
+			}
+			"dpad_south"
+			{
+				"activators"
+				{
+					"Full_Press"
+					{
+						"bindings"
+						{
+							"binding"		"game_action Menus MenuLeftStickDown, #Button_MenuLeftStickDown, , "
+						}
+					}
+				}
+				"disabled_activators"
+				{
+				}
+			}
+			"dpad_east"
+			{
+				"activators"
+				{
+					"Full_Press"
+					{
+						"bindings"
+						{
+							"binding"		"game_action Menus MenuLeftStickRight, #Button_MenuLeftStickRight, , "
+						}
+					}
+				}
+				"disabled_activators"
+				{
+				}
+			}
+			"dpad_west"
+			{
+				"activators"
+				{
+					"Full_Press"
+					{
+						"bindings"
+						{
+							"binding"		"game_action Menus MenuLeftStickLeft, #Button_MenuLeftStickLeft, , "
+						}
+					}
+				}
+				"disabled_activators"
+				{
+				}
+			}
 			"click"
 			{
 				"activators"
@@ -1016,19 +1384,218 @@
 					{
 						"bindings"
 						{
-							"binding"		"game_action ingame EmoteGo, , "
+							"binding"		"game_action Menus MenuL3, #Button_MenuL3, , "
 						}
 					}
+				}
+				"disabled_activators"
+				{
 				}
 			}
 		}
 		"settings"
 		{
-			"virtual_mode"		"1"
+			"requires_click"		"0"
 		}
 		"gameactions"
 		{
-			"InGame"		"InGameActions MenuNavigate"
+		}
+	}
+	"group"
+	{
+		"id"		"42"
+		"mode"		"dpad"
+		"name"		""
+		"description"		""
+		"inputs"
+		{
+			"dpad_north"
+			{
+				"activators"
+				{
+					"Full_Press"
+					{
+						"bindings"
+						{
+							"binding"		"game_action Menus MenuRightStickUp, #Button_MenuRightStickUp, , "
+						}
+					}
+				}
+				"disabled_activators"
+				{
+				}
+			}
+			"dpad_south"
+			{
+				"activators"
+				{
+					"Full_Press"
+					{
+						"bindings"
+						{
+							"binding"		"game_action Menus MenuRightStickDown, #Button_MenuRightStickDown, , "
+						}
+					}
+				}
+				"disabled_activators"
+				{
+				}
+			}
+			"dpad_east"
+			{
+				"activators"
+				{
+					"Full_Press"
+					{
+						"bindings"
+						{
+							"binding"		"game_action Menus MenuRightStickRight, #Button_MenuRightStickRight, , "
+						}
+					}
+				}
+				"disabled_activators"
+				{
+				}
+			}
+			"dpad_west"
+			{
+				"activators"
+				{
+					"Full_Press"
+					{
+						"bindings"
+						{
+							"binding"		"game_action Menus MenuRightStickLeft, #Button_MenuRightStickLeft, , "
+						}
+					}
+				}
+				"disabled_activators"
+				{
+				}
+			}
+			"click"
+			{
+				"activators"
+				{
+					"Full_Press"
+					{
+						"bindings"
+						{
+							"binding"		"game_action Menus MenuR3, #Button_MenuR3, , "
+						}
+					}
+				}
+				"disabled_activators"
+				{
+				}
+			}
+		}
+		"settings"
+		{
+			"requires_click"		"0"
+		}
+		"gameactions"
+		{
+		}
+	}
+	"group"
+	{
+		"id"		"43"
+		"mode"		"dpad"
+		"name"		""
+		"description"		""
+		"inputs"
+		{
+			"dpad_north"
+			{
+				"activators"
+				{
+					"Full_Press"
+					{
+						"bindings"
+						{
+							"binding"		"mouse_wheel SCROLL_UP, , "
+						}
+						"settings"
+						{
+							"hold_repeats"		"1"
+							"haptic_intensity"		"0"
+						}
+					}
+				}
+				"disabled_activators"
+				{
+				}
+			}
+			"dpad_south"
+			{
+				"activators"
+				{
+					"Full_Press"
+					{
+						"bindings"
+						{
+							"binding"		"mouse_wheel SCROLL_DOWN, , "
+						}
+						"settings"
+						{
+							"hold_repeats"		"1"
+							"haptic_intensity"		"0"
+						}
+					}
+				}
+				"disabled_activators"
+				{
+				}
+			}
+			"click"
+			{
+				"activators"
+				{
+					"Soft_Press"
+					{
+						"bindings"
+						{
+							"binding"		"mouse_button RIGHT, , "
+						}
+					}
+				}
+				"disabled_activators"
+				{
+				}
+			}
+		}
+		"gameactions"
+		{
+		}
+	}
+	"group"
+	{
+		"id"		"44"
+		"mode"		"absolute_mouse"
+		"name"		""
+		"description"		""
+		"inputs"
+		{
+			"click"
+			{
+				"activators"
+				{
+					"Soft_Press"
+					{
+						"bindings"
+						{
+							"binding"		"mouse_button LEFT, , "
+						}
+					}
+				}
+				"disabled_activators"
+				{
+				}
+			}
+		}
+		"gameactions"
+		{
 		}
 	}
 	"preset"
@@ -1037,15 +1604,16 @@
 		"name"		"InGame"
 		"group_source_bindings"
 		{
-			"0"		"switch active"
-			"1"		"button_diamond active"
-			"2"		"joystick active"
-			"3"		"right_joystick active"
-			"4"		"left_trigger active"
-			"5"		"right_trigger active"
-			"6"		"dpad active"
-			"7"		"right_trackpad active"
-			"8"		"left_trackpad active"
+			"10"		"switch active"
+			"12"		"left_trigger active"
+			"13"		"right_trigger active"
+			"11"		"button_diamond active"
+			"31"		"left_trackpad inactive"
+			"32"		"left_trackpad active"
+			"33"		"right_trackpad active"
+			"29"		"joystick active"
+			"30"		"right_joystick active"
+			"28"		"dpad active"
 		}
 	}
 	"preset"
@@ -1054,15 +1622,15 @@
 		"name"		"Menus"
 		"group_source_bindings"
 		{
-			"9"		"switch active"
-			"10"		"button_diamond active"
-			"11"		"joystick active"
-			"12"		"right_joystick active"
-			"13"		"left_trigger active"
-			"14"		"right_trigger active"
-			"15"		"dpad active"
-			"7"		"right_trackpad active"
-			"8"		"left_trackpad active"
+			"14"		"switch active"
+			"16"		"left_trigger active"
+			"17"		"right_trigger active"
+			"15"		"button_diamond active"
+			"43"		"left_trackpad active"
+			"44"		"right_trackpad active"
+			"41"		"joystick active"
+			"42"		"right_joystick active"
+			"40"		"dpad active"
 		}
 	}
 	"preset"
@@ -1071,14 +1639,17 @@
 		"name"		"InGameMenus"
 		"group_source_bindings"
 		{
-			"16"		"button_diamond active"
-			"17"		"joystick active"
-			"18"		"right_joystick active"
+			"18"		"switch active"
+			"20"		"left_trigger active"
+			"21"		"right_trigger active"
+			"19"		"button_diamond active"
+			"36"		"joystick inactive"
+			"37"		"joystick active"
+			"38"		"right_joystick active"
+			"35"		"dpad active"
 		}
 	}
 	"settings"
 	{
-		"left_trackpad_mode"		"0"
-		"right_trackpad_mode"		"0"
 	}
 }

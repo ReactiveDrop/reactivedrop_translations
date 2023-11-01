@@ -1,7 +1,7 @@
 {
 	"appid": 563560,
 	"translator_note": "Nothing in this file needs to be translated; these are all internal item definitions that will not show up in an inventory.",
-	"items_not_ready_for_upload_yet": [
+	"items": [
 		{
 			"itemdefid": 7000,
 			"type": "playtimegenerator",
