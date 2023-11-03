@@ -6735,7 +6735,7 @@
 "[english]red2_4a_title"		"Reset or repair each node of the listening network in this area."
 "red2_4b_title"		"Антенные узлы замаскированы - следите за ними внимательно."
 "[english]red2_4b_title"		"Antennae nodes are cloaked - keep a sharp eye out for them."
-"red2_5_title"		"Следовать проводником"
+"red2_5_title"		"Следовать за проводником"
 "[english]red2_5_title"		"Follow the Guide"
 "red2_5a_title"		"Следовать за роботом-проводником."
 "[english]red2_5a_title"		"Follow the GuideBot."
