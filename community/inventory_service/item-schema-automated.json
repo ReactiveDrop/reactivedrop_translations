@@ -1288,7 +1288,7 @@
 			"description_italian": "Sei stato lanciato in aria dal verme gigante in Operazione Sandstorm.\n\n[color=#bfbfbf]Vermi Toccati: %strange_42%\n[i]Le statistiche vengono aggiornate solo mentre l'oggetto è equipaggiato.[/i][/color]",
 			"description_japanese": "Operation Sandstormのミッションで巨大ワームに吹き飛ばされた。\n\n[color=#bfbfbf]ワームに触った回数: %strange_42%\n[i]統計情報の表示はこのアイテムを装備している時だけ更新される。[/i][/color]",
 			"description_russian": "Подброситься в воздух гигантским червём в миссии «Операция \"Песчаная буря\"».\n\n[color=#bfbfbf]Затронуто червей: %strange_42%\n[i]Статистика обновляется только при наличии этого предмета.[/i][/color]",
-			"description_schinese": "在沙暴行动中被巨型蠕虫扔到空中。\n\n[color=#bfbfbf]击飞次数：%strange_42%\n[i]仅在装备此物品时更新统计数据。[/i][/color]",
+			"description_schinese": "在沙暴行动中被巨型沙虫扔到空中。\n\n[color=#bfbfbf]击飞次数：%strange_42%\n[i]仅在装备此物品时更新统计数据。[/i][/color]",
 			"display_type_brazilian": "Medalha",
 			"display_type_english": "Medal",
 			"display_type_german": "Sammlerstück (Gewöhnlich)",
