@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<content><string id="body">This patch addresses some issues in the November 1st update.
+[list]
+[*][b]Reduction: Silent Station:[/b] Increased speedrun time limit from 4:40 to 4:50.
+[*][b]Reduction: Silent Station:[/b] Removed a dialogue trigger with no associated dialogue.
+[*][b]Reduction: Operation Sandstorm:[/b] Increased speedrun time limit from 3:00 to 3:15.
+[*][b]Reduction: Operation Sandstorm:[/b] Fixed a missing objective description.
+[*][b]Reduction: Operation Sandstorm:[/b] Fixed the guide bot getting stuck when the last node is activated within 3 seconds of the previous node.
+[*][b]Reduction: Operation Sandstorm:[/b] Moved some spawners to avoid aliens falling through the ground.
+[*][b]Reduction: Fallen City:[/b] Increased speedrun time limit from 1:38 to 1:40.
+[*][b]Reduction: Inevitable Escalation:[/b] Increased speedrun time limit from 6:00 to 6:30.
+[*][b]Reduction: Inevitable Escalation:[/b] This mission is no longer eligible for the Hardcore achievement.
+[*]Fixed a medal being awarded to all players in the lobby rather than just the player who performed the required action.
+[*]Fixed screen-space motion blur being enabled.
+[*]Fixed a crash when viewing materials using certain proxies in -tools mode.
+[/list]
+
+Additionally, since the release on Wednesday, we have released hotfixes for the following issues:
+[list]
+[*]Fixed favorited game servers appearing on the lobby list even if they aren't Alien Swarm: Reactive Drop servers.
+[*]Fixed certain graphics settings not being saved after being changed in the Advanced Settings screen.
+[*]Fixed Heroes of the Interstellar Armed Forces scores not being updated on the leaderboard.
+[*]Fixed an advanced setting for marine names using the wrong labels for each option.
+[*]Fixed gas grenade particle effects disappearing for players far away from the grenade.
+[/list]
+</string><string id="subtitle"></string><string id="summary"></string><string id="title">Alien Swarm: Reactive Drop Update - November 7, 2023</string></content>
