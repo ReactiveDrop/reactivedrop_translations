@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<content><string id="body">11月1日のアップデート内にあったいくつかの問題に対処するパッチです。
+[list]
+[*][b]Reduction: Silent Station:[/b] スピードランのタイムリミットを4:40から4:50に延長。
+[*][b]Reduction: Silent Station:[/b] 何も会話が割り当てられてない会話発生イベントを削除。
+[*][b]Reduction: Operation Sandstorm:[/b] スピードランのタイムリミットを3:00から3:15に延長。
+[*][b]Reduction: Operation Sandstorm:[/b] ミッション目標の説明が抜けていたのを修正。
+[*][b]Reduction: Operation Sandstorm:[/b] 最後のノードがその前のノードから3秒以内に起動された場合、ガイドロボが動けなくなってしまう問題を修正。
+[*][b]Reduction: Operation Sandstorm:[/b] エイリアンが地面の下に落ちてしまうエイリアン出現場所をいくつか移動した。
+[*][b]Reduction: Fallen City:[/b] スピードランのタイムリミットを1:38から1:40に延長。
+[*][b]Reduction: Inevitable Escalation:[/b] スピードランのタイムリミットを6:00から6:30に延長。
+[*][b]Reduction: Inevitable Escalation:[/b] このミッションではハードコア実績をアンロックできなくした。
+[*]勲章が条件を達成したプレイヤーだけでなくロビー内の全員に授与されていたのを修正。
+[*]スクリーンスペースモーションブラーが有効になっていたのを修正。
+[*]-toolsモードで特定のプロキシを使っているマテリアルを見た時にクラッシュしていたのを修正。
+[/list]
+
+更に、水曜日のリリースの前に、以下の問題に対する緊急修正を先にリリースしました:
+[list]
+[*]Alien Swarm: Reactive Dropのサーバーでなくとも、お気に入りに登録したサーバーがロビーリストに表示されてしまうのを修正。
+[*]高度な設定の画面で変更した一部のグラフィック設定が保存されていなかったのを修正。
+[*]ランクマッチのスコアがリーダーボード上で更新されていなかったのを修正。
+[*]隊員の名前表示に関する高度な設定の項目名が入れ違っていたのを修正。
+[*]ガスグレネードのパーティクルエフェクトがグレネードから遠く離れたプレイヤーからは見えなくなっていたのを修正。
+[/list]
+</string><string id="subtitle"></string><string id="summary"></string><string id="title">Alien Swarm: Reactive Dropアップデート - 2023年11月7日</string></content>
