@@ -4250,7 +4250,7 @@
 "[english]rd_str_switch_to_primary_weapon"		"Switch to Primary"
 "rd_str_switch_to_secondary_weapon"		"(Смена) втор. оружие"
 "[english]rd_str_switch_to_secondary_weapon"		"Switch to Secondary"
-"asw_weapon_deagle"		"Бульдог"
+"asw_weapon_deagle"		"«Бульдог»"
 "[english]asw_weapon_deagle"		"Bulldog"
 "asw_weaponl_deagle"		"PS50 «Бульдог»"
 "[english]asw_weaponl_deagle"		"PS50 Bulldog"
