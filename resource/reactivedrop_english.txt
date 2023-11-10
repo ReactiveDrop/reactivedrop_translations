@@ -5135,5 +5135,14 @@
 
 "rd_achievement_challenges_disallowed"	"This achievement cannot be earned if a challenge was active during the mission."
 "rd_achievement_challenges_outstanding"	"This achievement cannot be earned if a challenge was active or a marine died during any mission attempt since the last successful map vote."
+
+"rd_compass_north"	"North"
+"rd_compass_south"	"South"
+"rd_compass_east"	"East"
+"rd_compass_west"	"West"
+"rd_compass_north_short"	"N"
+"rd_compass_south_short"	"S"
+"rd_compass_east_short"	"E"
+"rd_compass_west_short"	"W"
 }
 }
