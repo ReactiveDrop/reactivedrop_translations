@@ -2091,7 +2091,7 @@
 "RD_SPEEDRUN_REDUCTION_OPSANDSTORM_DESC"	"Complete Operation Sandstorm within 3:15 on Normal difficulty or harder without any marines dying."
 "RD_SPEEDRUN_REDUCTION_FALLENCITY_DESC"	"Complete Fallen City within 1:40 on Normal difficulty or harder without any marines dying."
 "RD_SPEEDRUN_REDUCTION_STOWAWAY_DESC"	"Complete Stowaway within 1:15 on Normal difficulty or harder without any marines dying."
-"RD_SPEEDRUN_REDUCTION_INEVITABLEESCALATION_DESC"	"Complete Inevitable Escalation within 6:30 on Normal difficulty or harder without any marines dying."
+"RD_SPEEDRUN_REDUCTION_INEVITABLEESCALATION_DESC"	"Complete Inevitable Escalation within 4:30 on Normal difficulty or harder without any marines dying."
 "RD_SPEEDRUN_REDUCTION_NUCLEARESCORT_DESC"	"Complete Nuclear Escort within 4:44 on Normal difficulty or harder without any marines dying."
 "RD_SPEEDRUN_ADA_SECTOR_A9_DESC"	"Complete Sector A9 within ?:?? on Normal difficulty or harder without any marines dying."
 "RD_SPEEDRUN_ADA_NEXUS_SUBNODE_DESC"	"Complete Nexus SubNode within ?:?? on Normal difficulty or harder without any marines dying."
