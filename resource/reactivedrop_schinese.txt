@@ -6827,9 +6827,9 @@
 "[english]red5_gametext_2"		"Campaign Design by Tim Carter"
 "red5_panel_skip_cutscene"		"跳过过场动画"
 "[english]red5_panel_skip_cutscene"		"Skip Cutscene"
-"red5_voted_skip_yes"		"你同意跳过过场动画。"
+"red5_voted_skip_yes"		"已投票跳过过场动画。"
 "[english]red5_voted_skip_yes"		"You have voted to skip the cutscene"
-"red5_voted_skip_no"		"你反对跳过过场动画。"
+"red5_voted_skip_no"		"尚未投票跳过过场动画。"
 "[english]red5_voted_skip_no"		"You have not voted to skip the cutscene"
 "red5_voted_skip_count"		"同意跳过过场动画:"
 // context - Voted to Skip: 0/5 
