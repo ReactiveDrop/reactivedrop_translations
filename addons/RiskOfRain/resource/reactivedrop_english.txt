@@ -3,6 +3,7 @@
 "Language"	"english"
 "Tokens"
 {
+// replace English with translation language native name and your nickname at the end.
 "ror_translationCredit"	"English translations by ModdedMarionette."
 "ror_translationVersion"	"Translation Version: v1.2"
 
