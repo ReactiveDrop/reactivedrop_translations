@@ -2091,7 +2091,7 @@
 "RD_SPEEDRUN_REDUCTION_OPSANDSTORM_DESC"	"Complete Operation Sandstorm within 3:15 on Normal difficulty or harder without any marines dying."
 "RD_SPEEDRUN_REDUCTION_FALLENCITY_DESC"	"Complete Fallen City within 1:40 on Normal difficulty or harder without any marines dying."
 "RD_SPEEDRUN_REDUCTION_STOWAWAY_DESC"	"Complete Stowaway within 1:15 on Normal difficulty or harder without any marines dying."
-"RD_SPEEDRUN_REDUCTION_INEVITABLEESCALATION_DESC"	"Complete Inevitable Escalation within 6:30 on Normal difficulty or harder without any marines dying."
+"RD_SPEEDRUN_REDUCTION_INEVITABLEESCALATION_DESC"	"Complete Inevitable Escalation within 4:30 on Normal difficulty or harder without any marines dying."
 "RD_SPEEDRUN_REDUCTION_NUCLEARESCORT_DESC"	"Complete Nuclear Escort within 4:44 on Normal difficulty or harder without any marines dying."
 "RD_SPEEDRUN_ADA_SECTOR_A9_DESC"	"Complete Sector A9 within ?:?? on Normal difficulty or harder without any marines dying."
 "RD_SPEEDRUN_ADA_NEXUS_SUBNODE_DESC"	"Complete Nexus SubNode within ?:?? on Normal difficulty or harder without any marines dying."
@@ -3663,6 +3663,11 @@
 
 "red5_gametext_1"	"R E D U C T I O N"
 "red5_gametext_2"	"Campaign Design by Tim Carter"
+"red5_panel_skip_cutscene"	"Skip Cutscene"
+"red5_voted_skip_yes"	"You have voted to skip the cutscene"
+"red5_voted_skip_no"	"You have not voted to skip the cutscene"
+// context - Voted to Skip: 0/5 
+"red5_voted_skip_count"	"Voted to Skip:"
 
 "red6_1_title"	"Escort the Carriage to Outpost Charlie. NOTE: All Sentryguns will be Confiscated"
 "red6_1a_title"	"Do NOT bring sentry-guns... Sentries are in high demand and will be commandeered for use on the frontlines."
@@ -5135,5 +5140,14 @@
 
 "rd_achievement_challenges_disallowed"	"This achievement cannot be earned if a challenge was active during the mission."
 "rd_achievement_challenges_outstanding"	"This achievement cannot be earned if a challenge was active or a marine died during any mission attempt since the last successful map vote."
+
+"rd_compass_north"	"North"
+"rd_compass_south"	"South"
+"rd_compass_east"	"East"
+"rd_compass_west"	"West"
+"rd_compass_north_short"	"N"
+"rd_compass_south_short"	"S"
+"rd_compass_east_short"	"E"
+"rd_compass_west_short"	"W"
 }
 }

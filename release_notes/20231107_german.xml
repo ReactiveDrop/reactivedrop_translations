@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<content><string id="body">Dieser Patch behebt einige Probleme aus dem Update vom 1. November.
+[list]
+[*][b]Reduktion: Stille Station:[/b] Das Zeitlimit für den Speedrun wurde von 4:40 auf 4:50 erhöht.
+[*][b]Reduktion: Stille Station:[/b] Ein Dialogauslöser ohne zugehörigen Dialog wurde entfernt.
+[*][b]Reduktion: Operation Sandsturm:[/b] Das Zeitlimit für den Speedrun wurde von 3:00 auf 3:15 erhöht.
+[*][b]Reduktion: Operation Sandsturm:[/b] Eine fehlende Zielbeschreibung wurde behoben.
+[*][b]Reduktion: Operation Sandsturm:[/b] Der Führungs-Roboter bleibt jetzt nicht mehr stecken, wenn der letzte Knotenpunkt innerhalb von 3 Sekunden nach dem vorherigen Knotenpunkt aktiviert wird.
+[*][b]Reduktion: Operation Sandsturm:[/b] Einige Spawner wurden verschoben, damit die Aliens nicht durch den Boden fallen.
+[*][b]Reduktion: Gefallene Stadt:[/b] Das Zeitlimit für den Speedrun wurde von 1:38 auf 1:40 erhöht.
+[*][b]Reduktion: Unvermeidbare Eskalation:[/b] Das Zeitlimit für Speedrun wurde von 6:00 auf 6:30 erhöht.
+[*][b]Reduktion: Unvermeidbare Eskalation:[/b] Dieser Einsatz ist nicht mehr für die Hardcore-Errungenschaft geeignet.
+[*]Es wurde behoben, dass eine Medaille an alle Spieler in der Lobby vergeben wurde und nicht nur an den Spieler, der die erforderliche Aktion durchgeführt hat.
+[*]Eine Bildschirmweite Bewegungsunschärfe wurde repariert.
+[*]Ein Absturz wurde behoben, wenn Materialien mit bestimmten Proxys im -tools Modus angezeigt wurden.
+[/list]
+
+Außerdem haben wir seit der Veröffentlichung am Mittwoch Hotfixes für die folgenden Probleme veröffentlicht:
+[list]
+[*]Es wurde behoben, dass favorisierte Spieleserver in der Lobbyliste angezeigt werden, auch wenn sie nicht Alien Swarm: Reactive Drop Server sind.
+[*]Bestimmte Grafikeinstellungen wurden nicht gespeichert, nachdem sie im Bildschirm "Erweiterte Einstellungen" geändert wurden.
+[*]Es wurde behoben, dass die Spielstände von Helden der interstellaren Streitkräfte nicht in der Bestenliste aktualisiert wurden.
+[*]Bei den erweiterten Einstellungen für Soldatennamen wurden die falschen Bezeichnungen für die einzelnen Optionen verwendet.
+[*]Die Partikeleffekte von Gasgranaten verschwinden nicht mehr für Spieler, die weit von der Granate entfernt sind.
+[/list]
+</string><string id="subtitle"></string><string id="summary"></string><string id="title">Alien Swarm: Reactive Drop Update - 7. November 2023</string></content>

@@ -769,7 +769,7 @@
 "[english]GameUI_Texture_Detail"		"Texture detail"
 "GameUI_Antialiasing_Mode"		"Kantenglättung"
 "[english]GameUI_Antialiasing_Mode"		"Antialiasing mode"
-"GameUI_Filtering_Mode"		"Filtermodus"
+"GameUI_Filtering_Mode"		"Texturfilter"
 "[english]GameUI_Filtering_Mode"		"Filtering mode"
 "GameUI_Water_Detail"		"Wasserdetails"
 "[english]GameUI_Water_Detail"		"Water detail"
