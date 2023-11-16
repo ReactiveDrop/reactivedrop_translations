@@ -1258,10 +1258,10 @@
 		"[english]asw_parasite_defanged"		"Xenomite"
 		"asw_parasite_defangeds"		"Xenomites"
 		"[english]asw_parasite_defangeds"		"Xenomites"
-		"asw_queen"		"Alien Drottning"
+"asw_queen"		"Alien Drottning"
 "[english]asw_queen"		"Alien Queen"
 "asw_queens"		"Alien Drottningar"
-		"[english]asw_queens"		"Alien Queens"
+"[english]asw_queens"		"Alien Queens"
 		"asw_ranger"		"Ranger"
 		"[english]asw_ranger"		"Ranger"
 		"asw_rangers"		"Rangers"
@@ -3735,7 +3735,7 @@
 		"RD_NH_BONUS_OBJECTIVE_NAME"		"The Choice of Progress"
 		"[english]RD_NH_BONUS_OBJECTIVE_NAME"		"The Choice of Progress"
 "RD_MA_SCORE_POINTS_NAME"		"IAF Kadett"
-		// this is a pun on "Space Cadet", which means someone out of touch with reality (as one would be in a training simulation).
+// this is a pun on "Space Cadet", which means someone out of touch with reality (as one would be in a training simulation).
 "[english]RD_MA_SCORE_POINTS_NAME"		"IAF Cadet"
 "RD_MA_REACH_VOLCANO_ALIVE_NAME"		"Tillräckligt Varmt"
 "[english]RD_MA_REACH_VOLCANO_ALIVE_NAME"		"Hot Enough"
