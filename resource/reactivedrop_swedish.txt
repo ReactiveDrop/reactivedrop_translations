@@ -3961,7 +3961,7 @@
 "[english]RD_HARD_CAMPAIGN_REDUCTION_DESC"		"Complete the Reduction campaign on Hard difficulty or harder."
 "RD_INSANE_CAMPAIGN_REDUCTION_DESC"		"Slutför Reducering kampanjen på Sinnessjuk svårighetsgrad eller svårare."
 "[english]RD_INSANE_CAMPAIGN_REDUCTION_DESC"		"Complete the Reduction campaign on Insane difficulty or harder."
-"RD_IMBA_CAMPAIGN_REDUCTION_DESC"		"Slutför Reducering kampanjen på Brutal svårighetsgrad.."
+"RD_IMBA_CAMPAIGN_REDUCTION_DESC"		"Slutför Reducering kampanjen på Brutal svårighetsgrad."
 "[english]RD_IMBA_CAMPAIGN_REDUCTION_DESC"		"Complete the Reduction campaign on Brutal difficulty."
 		"RD_EASY_CAMPAIGN_ADA_DESC"		"Complete the Adanaxis campaign on Easy difficulty or harder."
 		"[english]RD_EASY_CAMPAIGN_ADA_DESC"		"Complete the Adanaxis campaign on Easy difficulty or harder."
