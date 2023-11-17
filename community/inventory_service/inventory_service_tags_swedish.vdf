@@ -3,9 +3,9 @@
 "Language"		"swedish"
 "Tokens"
 {
-		"inventory_name_format_1"		"%ITEMNAME% (Customized)"
-		// used to transform item names on the Steam Community. shows for items that have attached accessories, like a strange weapon with at least one strange device attached.
-		"[english]inventory_name_format_1"		"%ITEMNAME% (Customized)"
+"inventory_name_format_1"		"%ITEMNAME% (Anpassat)"
+// used to transform item names on the Steam Community. shows for items that have attached accessories, like a strange weapon with at least one strange device attached.
+"[english]inventory_name_format_1"		"%ITEMNAME% (Customized)"
 "inventory_name_format_2"		""
 "[english]inventory_name_format_2"		""
 "inventory_name_format_3"		""
@@ -34,73 +34,73 @@
 "inventory_rarity_legendary"		"Legendarisk"
 // items that require doing something beyond just playing the game to obtain.
 "[english]inventory_rarity_legendary"		"Legendary"
-		"inventory_rarity_genuine"		"Genuine"
-		// real-money donation receipt items from the store.
-		"[english]inventory_rarity_genuine"		"Genuine"
-		"inventory_rarity_strange_rarity"		"Strange"
-		// items that count stats.
-		"[english]inventory_rarity_strange_rarity"		"Strange"
-		"inventory_slot"		"Slot"
-		// where an item can be equipped.
-		"[english]inventory_slot"		"Slot"
-		"inventory_slot_medal"		"Medal"
-		"[english]inventory_slot_medal"		"Medal"
-		"inventory_slot_suit"		"Suit"
-		"[english]inventory_slot_suit"		"Suit"
-		"inventory_slot_weapon"		"Weapon"
-		"[english]inventory_slot_weapon"		"Weapon"
-		"inventory_slot_equipment"		"Equipment"
-		"[english]inventory_slot_equipment"		"Equipment"
-		"inventory_class_restriction"		"Class Restriction"
-		// for equippable items that can only be used on one class.
-		"[english]inventory_class_restriction"		"Class Restriction"
-		"inventory_class_restriction_officer"		"Officer"
-		"[english]inventory_class_restriction_officer"		"Officer"
-		"inventory_class_restriction_specialweapons"		"Special Weapons"
-		"[english]inventory_class_restriction_specialweapons"		"Special Weapons"
-		"inventory_class_restriction_medic"		"Medic"
-		"[english]inventory_class_restriction_medic"		"Medic"
-		"inventory_class_restriction_tech"		"Tech"
-		"[english]inventory_class_restriction_tech"		"Tech"
-		"inventory_crafting_item"		"Crafting Item"
-		"[english]inventory_crafting_item"		"Crafting Item"
-		"inventory_crafting_item_single_use_tool"		"Single-Use Tool"
-		"[english]inventory_crafting_item_single_use_tool"		"Single-Use Tool"
-		"inventory_crafting_item_ultra_common"		"Ultra-Common"
-		// common crafting materials. (100-1000 drop at a time)
-		"[english]inventory_crafting_item_ultra_common"		"Ultra-Common"
-		"inventory_crafting_item_common_part"		"Common"
-		// common crafting materials. (1-3 drop at a time)
-		"[english]inventory_crafting_item_common_part"		"Common"
-		"inventory_crafting_item_alien_part"		"Alien Part"
-		// uncommon crafting materials.
-		"[english]inventory_crafting_item_alien_part"		"Alien Part"
-		"inventory_crafting_item_computer_part"		"Computer Part"
-		// rare crafting materials.
-		"[english]inventory_crafting_item_computer_part"		"Computer Part"
-		"inventory_crafting_item_regional"		"Regional"
-		// crafting items that can be found by playing some campaigns but not others.
-		"[english]inventory_crafting_item_regional"		"Regional"
-		"inventory_strange"		"Strange Devices"
-		// displayed before the list of Strange item accessories, eg. Strange Devices: Missions, Aliens Killed
-		"[english]inventory_strange"		"Strange Devices"
-		"item_store_category_donations"		"Donations"
-		// items that are essentially receipts for donating money to someone in the community. (for the forseeable future, all items on the store will be in this category)
-		"[english]item_store_category_donations"		"Donations"
-		"item_store_category_mapstamp"		"Map Stamps"
-		// "postage stamps" that cost $1 (or equivalent), with the proceeds going to a mapper.
-		"[english]item_store_category_mapstamp"		"Map Stamps"
-		"item_store_category_artiststamp"		"Artists"
-		// the same, but for artists.
-		"[english]item_store_category_artiststamp"		"Artists"
-		"item_store_category_programmerstamp"		"Programmers"
-		// the same, but for programmers.
-		"[english]item_store_category_programmerstamp"		"Programmers"
-		"item_store_category_serverhoststamp"		"Server Hosts"
-		// the same, but for server hosts.
-		"[english]item_store_category_serverhoststamp"		"Server Hosts"
-		"item_store_category_translatorstamp"		"Translators"
-		// the same, but for translators.
-		"[english]item_store_category_translatorstamp"		"Translators"
+"inventory_rarity_genuine"		"Äkta"
+// real-money donation receipt items from the store.
+"[english]inventory_rarity_genuine"		"Genuine"
+"inventory_rarity_strange_rarity"		"Avvikande"
+// items that count stats.
+"[english]inventory_rarity_strange_rarity"		"Strange"
+"inventory_slot"		"Plats"
+// where an item can be equipped.
+"[english]inventory_slot"		"Slot"
+"inventory_slot_medal"		"Medalj"
+"[english]inventory_slot_medal"		"Medal"
+"inventory_slot_suit"		"Dräkt"
+"[english]inventory_slot_suit"		"Suit"
+"inventory_slot_weapon"		"Vapen"
+"[english]inventory_slot_weapon"		"Weapon"
+"inventory_slot_equipment"		"Utrustning"
+"[english]inventory_slot_equipment"		"Equipment"
+"inventory_class_restriction"		"Klass Restriktion"
+// for equippable items that can only be used on one class.
+"[english]inventory_class_restriction"		"Class Restriction"
+"inventory_class_restriction_officer"		"Officer"
+"[english]inventory_class_restriction_officer"		"Officer"
+"inventory_class_restriction_specialweapons"		"Special Vapen"
+"[english]inventory_class_restriction_specialweapons"		"Special Weapons"
+"inventory_class_restriction_medic"		"Läkare"
+"[english]inventory_class_restriction_medic"		"Medic"
+"inventory_class_restriction_tech"		"Tech"
+"[english]inventory_class_restriction_tech"		"Tech"
+"inventory_crafting_item"		"Tillverknings Föremål"
+"[english]inventory_crafting_item"		"Crafting Item"
+"inventory_crafting_item_single_use_tool"		"Engångs Verktyg"
+"[english]inventory_crafting_item_single_use_tool"		"Single-Use Tool"
+"inventory_crafting_item_ultra_common"		"Ultra-Vanlig"
+// common crafting materials. (100-1000 drop at a time)
+"[english]inventory_crafting_item_ultra_common"		"Ultra-Common"
+"inventory_crafting_item_common_part"		"Vanlig"
+// common crafting materials. (1-3 drop at a time)
+"[english]inventory_crafting_item_common_part"		"Common"
+"inventory_crafting_item_alien_part"		"Alien Del"
+// uncommon crafting materials.
+"[english]inventory_crafting_item_alien_part"		"Alien Part"
+"inventory_crafting_item_computer_part"		"Dator Del"
+// rare crafting materials.
+"[english]inventory_crafting_item_computer_part"		"Computer Part"
+"inventory_crafting_item_regional"		"Regional"
+// crafting items that can be found by playing some campaigns but not others.
+"[english]inventory_crafting_item_regional"		"Regional"
+"inventory_strange"		"Avvikande Enhet"
+// displayed before the list of Strange item accessories, eg. Strange Devices: Missions, Aliens Killed
+"[english]inventory_strange"		"Strange Devices"
+"item_store_category_donations"		"Donation"
+// items that are essentially receipts for donating money to someone in the community. (for the forseeable future, all items on the store will be in this category)
+"[english]item_store_category_donations"		"Donations"
+"item_store_category_mapstamp"		"Kart Stämpel"
+// "postage stamps" that cost $1 (or equivalent), with the proceeds going to a mapper.
+"[english]item_store_category_mapstamp"		"Map Stamps"
+"item_store_category_artiststamp"		"Konstnärer"
+// the same, but for artists.
+"[english]item_store_category_artiststamp"		"Artists"
+"item_store_category_programmerstamp"		"Programmerare"
+// the same, but for programmers.
+"[english]item_store_category_programmerstamp"		"Programmers"
+"item_store_category_serverhoststamp"		"Server Värdar"
+// the same, but for server hosts.
+"[english]item_store_category_serverhoststamp"		"Server Hosts"
+"item_store_category_translatorstamp"		"Översättare"
+// the same, but for translators.
+"[english]item_store_category_translatorstamp"		"Translators"
 }
 }
