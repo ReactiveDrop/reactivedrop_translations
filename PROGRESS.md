@@ -21,7 +21,7 @@
 | [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [European Spanish](#spanish-español-de-españa) | 28 | 2004 | 40 | 2339 | 200 | 714 | 552 | 147 |
 | [Latin American Spanish](#latam-español-latinoamericano) | 1281 | 2004 | 634 | 4435 | 204 | 980 | 638 | 148 |
-| [Swedish](#non-curated-languages) | 51 | 2004 | 42 | 2924 | 200 | 710 | 556 | 148 |
+| [Swedish](#non-curated-languages) | 51 | 2004 | 42 | 2546 | 200 | 669 | 556 | 148 |
 | [Thai](#non-curated-languages) | 966 | 1993 | 50 | 4171 | 200 | 739 | 635 | 148 |
 | [Turkish](#non-curated-languages) | 51 | 137 | 42 | 2924 | 200 | 975 | 556 | 148 |
 | [Ukrainian](#ukrainian-українська) | 27 | 131 | 32 | 2467 | 200 | 928 | 550 | 147 |
