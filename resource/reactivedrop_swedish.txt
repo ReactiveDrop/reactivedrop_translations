@@ -300,7 +300,7 @@
 "[english]asw_hacking_desc"		"Reduces time needed to charge wire\npanel actuators and download critical data."
 "asw_scanner_desc"		"Ökar räckvidd och hastighet hos rörelsescannern."
 "[english]asw_scanner_desc"		"Increases range and rate of the movement scanner."
-"asw_engineering_desc"		"Snabbar upp svetsning och Vaktgevärs uppsättning för alla lagkamrater i närheten. Förbättrar skjut mängden av prototyp gevär."
+"asw_engineering_desc"		"Snabbar upp svetsning och Vaktgevärs /nuppsättning för alla lagkamrater i närheten. /nFörbättrar skjut mängden av prototyp gevär."
 "[english]asw_engineering_desc"		"Speeds up welding and Sentry Gun\nsetup for all nearby squad mates.\nImproves fire rate of prototype rifle."
 "asw_accuracy_skill_desc"		"Ökar skadan hos de flesta\nstandardvapen."
 "[english]asw_accuracy_skill_desc"		"Increases the damage dealt by most\nstandard weapons."
