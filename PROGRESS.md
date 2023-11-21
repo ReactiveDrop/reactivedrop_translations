@@ -2,30 +2,30 @@
 | Language | basemodui | closecaption | gameui | reactivedrop | statsweb | Strings | Inventory | Files |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
-| [Traditional Chinese](#tchinese-繁體中文) | 9 | 140 | 33 | 2811 | 200 | 236 | 554 | 147 |
-| [Czech](#czech-čeština) | 71 | 1810 | 42 | 3928 | 200 | 980 | 624 | 147 |
-| [Danish](#non-curated-languages) | 52 | 231 | 42 | 3456 | 200 | 710 | 619 | 148 |
-| [Dutch](#non-curated-languages) | 51 | 2004 | 42 | 2924 | 200 | 710 | 556 | 147 |
-| [Finnish](#non-curated-languages) | 51 | 2004 | 42 | 2924 | 200 | 710 | 556 | 147 |
-| [French](#french-français) | 27 | 138 | 42 | 2289 | 200 | 650 | 542 | 126 |
+| [Traditional Chinese](#tchinese-繁體中文) | 9 | 140 | 33 | 2811 | 200 | 236 | 554 | 145 |
+| [Czech](#czech-čeština) | 71 | 1810 | 42 | 3928 | 200 | 980 | 624 | 145 |
+| [Danish](#non-curated-languages) | 52 | 231 | 42 | 3456 | 200 | 710 | 619 | 146 |
+| [Dutch](#non-curated-languages) | 51 | 2004 | 42 | 2924 | 200 | 710 | 556 | 145 |
+| [Finnish](#non-curated-languages) | 51 | 2004 | 42 | 2924 | 200 | 710 | 556 | 145 |
+| [French](#french-français) | 27 | 138 | 42 | 2289 | 200 | 650 | 542 | 124 |
 | [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
-| [Hungarian](#non-curated-languages) | 51 | 138 | 42 | 2924 | 200 | 975 | 556 | 148 |
+| [Hungarian](#non-curated-languages) | 51 | 138 | 42 | 2924 | 200 | 975 | 556 | 146 |
 | [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 103 | ✔️ | ✔️ |
-| [Korean](#koreana-한국어) | 7 | 10 | 38 | 1420 | 22 | 441 | 542 | 49 |
-| [Norwegian Bokmål](#non-curated-languages) | 69 | 708 | 47 | 3630 | 200 | 710 | 625 | 148 |
-| [Polish](#polish-polski) | 28 | 2004 | 42 | 2924 | 200 | 706 | 556 | 144 |
-| [European Portuguese](#portuguese-português-europeu) | ✔️ | 180 | 32 | 2012 | 21 | 628 | 565 | 142 |
-| [Brazilian Portuguese](#brazilian-português) | 2 | 2004 | 32 | 1183 | 9 | 276 | 323 | 9 |
-| [Romanian](#non-curated-languages) | 51 | 1996 | 48 | 3635 | 200 | 975 | 602 | 148 |
+| [Korean](#koreana-한국어) | 7 | 10 | 38 | 1420 | 22 | 441 | 542 | 47 |
+| [Norwegian Bokmål](#non-curated-languages) | 69 | 708 | 47 | 3630 | 200 | 710 | 625 | 146 |
+| [Polish](#polish-polski) | 28 | 2004 | 42 | 2924 | 200 | 706 | 556 | 142 |
+| [European Portuguese](#portuguese-português-europeu) | ✔️ | 180 | 32 | 2012 | 21 | 628 | 565 | 140 |
+| [Brazilian Portuguese](#brazilian-português) | 2 | 2004 | 32 | 1183 | 9 | 276 | 323 | 7 |
+| [Romanian](#non-curated-languages) | 51 | 1996 | 48 | 3635 | 200 | 975 | 602 | 146 |
 | [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
-| [European Spanish](#spanish-español-de-españa) | 28 | 2004 | 40 | 2339 | 200 | 714 | 552 | 147 |
-| [Latin American Spanish](#latam-español-latinoamericano) | 1281 | 2004 | 634 | 4435 | 204 | 980 | 638 | 148 |
-| [Swedish](#swedish-svenska) | 51 | 2004 | 42 | 2546 | ✔️ | 642 | 556 | 148 |
-| [Thai](#non-curated-languages) | 966 | 1993 | 50 | 4171 | 200 | 739 | 635 | 148 |
-| [Turkish](#non-curated-languages) | 51 | 137 | 42 | 2924 | 200 | 975 | 556 | 148 |
-| [Ukrainian](#ukrainian-українська) | 27 | 131 | 32 | 2467 | 200 | 928 | 550 | 147 |
-| [Vietnamese](#vietnamese-tiếng-việt) | 1255 | 2004 | 628 | 3260 | 200 | 324 | 634 | 114 |
+| [European Spanish](#spanish-español-de-españa) | 28 | 2004 | 40 | 2339 | 200 | 714 | 552 | 145 |
+| [Latin American Spanish](#latam-español-latinoamericano) | 1281 | 2004 | 634 | 4435 | 204 | 980 | 638 | 146 |
+| [Swedish](#swedish-svenska) | 51 | 2004 | 42 | 2546 | ✔️ | 642 | 556 | 146 |
+| [Thai](#non-curated-languages) | 966 | 1993 | 50 | 4171 | 200 | 739 | 635 | 146 |
+| [Turkish](#non-curated-languages) | 51 | 137 | 42 | 2924 | 200 | 975 | 556 | 146 |
+| [Ukrainian](#ukrainian-українська) | 27 | 131 | 32 | 2467 | 200 | 928 | 550 | 145 |
+| [Vietnamese](#vietnamese-tiếng-việt) | 1255 | 2004 | 628 | 3260 | 200 | 324 | 634 | 112 |
 ### Legend
 - ***Non-capitalized column headers*** are the most important specific files and their number of missing strings. All of these txt-files are located in the resources folder. Except statsweb, which lies in community/stats_website, it's an vdf-file.
 - ***Strings*** is the number of missing strings not included in one of the files which get an individual non-capitalized column.
@@ -71,11 +71,6 @@
 - [workshop_tags_tchinese.json](community/workshop/workshop_tags_english.json) is missing.
 - [content_warning_563560_tchinese.txt](store_page/content_warning_563560_english.txt) is missing.
 - [storepage_81731_tchinese.json](store_page/storepage_81731_tchinese.json) has 6 indented lines.
-
-### Upcoming Release Notes
-
-- [20231101_tchinese.xml](release_notes/20231101_english.xml) is missing.
-- [20231107_tchinese.xml](release_notes/20231107_english.xml) is missing.
 
 ### Credits
 
@@ -425,11 +420,6 @@
 - [content_warning_563560_czech.txt](store_page/content_warning_563560_english.txt) is missing.
 - [storepage_81731_czech.json](store_page/storepage_81731_english.json) is missing.
 
-### Upcoming Release Notes
-
-- [20231101_czech.xml](release_notes/20231101_english.xml) is missing.
-- [20231107_czech.xml](release_notes/20231107_english.xml) is missing.
-
 ### Credits
 
 - [addons/ExampleAddon/CustomCampaignCredits_czech.txt](addons/ExampleAddon/resource/CustomCampaignCredits_english.txt) is missing.
@@ -777,11 +767,6 @@
 - [workshop_tags_french.json](community/workshop/workshop_tags_english.json) is missing.
 - [content_warning_563560_french.txt](store_page/content_warning_563560_english.txt) is missing.
 - [storepage_81731_french.json](store_page/storepage_81731_french.json) has 6 indented lines.
-
-### Upcoming Release Notes
-
-- [20231101_french.xml](release_notes/20231101_english.xml) is missing.
-- [20231107_french.xml](release_notes/20231107_english.xml) is missing.
 
 ### Credits
 
@@ -1141,11 +1126,6 @@
 - [content_warning_563560_koreana.txt](store_page/content_warning_563560_english.txt) is missing.
 - [storepage_81731_koreana.json](store_page/storepage_81731_koreana.json) has 6 indented lines.
 
-### Upcoming Release Notes
-
-- [20231101_koreana.xml](release_notes/20231101_english.xml) is missing.
-- [20231107_koreana.xml](release_notes/20231107_english.xml) is missing.
-
 ### Credits
 
 - [asw_credits_koreana.txt](credits/asw_credits_english.txt) is missing.
@@ -1393,11 +1373,6 @@
 ### Steam Store and Community
 
 - [workshop_tags_polish.json](community/workshop/workshop_tags_polish.json) has 1 indented lines.
-
-### Upcoming Release Notes
-
-- [20231101_polish.xml](release_notes/20231101_english.xml) is missing.
-- [20231107_polish.xml](release_notes/20231107_english.xml) is missing.
 
 ### Credits
 
@@ -1743,11 +1718,6 @@
 - [app_items_563560_portuguese.json](community/points_shop/app_items_563560_english.json) is missing.
 - [workshop_tags_portuguese.json](community/workshop/workshop_tags_portuguese.json) has 1 indented lines.
 
-### Upcoming Release Notes
-
-- [20231101_portuguese.xml](release_notes/20231101_english.xml) is missing.
-- [20231107_portuguese.xml](release_notes/20231107_english.xml) is missing.
-
 ### Credits
 
 - [biogen_corporation_credits_portuguese.txt](credits/biogen_corporation_credits_english.txt) is missing.
@@ -2079,11 +2049,6 @@
 
 - [workshop_tags_brazilian.json](community/workshop/workshop_tags_brazilian.json) has 1 indented lines.
 
-### Upcoming Release Notes
-
-- [20231101_brazilian.xml](release_notes/20231101_english.xml) is missing.
-- [20231107_brazilian.xml](release_notes/20231107_english.xml) is missing.
-
 ### Credits
 
 - [credits_acc32_official_brazilian.txt](credits/credits_acc32_official_brazilian.txt) has 1 indented lines.
@@ -2279,11 +2244,6 @@
 - [workshop_tags_spanish.json](community/workshop/workshop_tags_english.json) is missing.
 - [content_warning_563560_spanish.txt](store_page/content_warning_563560_english.txt) is missing.
 - [storepage_81731_spanish.json](store_page/storepage_81731_spanish.json) has 6 indented lines.
-
-### Upcoming Release Notes
-
-- [20231101_spanish.xml](release_notes/20231101_english.xml) is missing.
-- [20231107_spanish.xml](release_notes/20231107_english.xml) is missing.
 
 ### Credits
 
@@ -2635,11 +2595,6 @@
 - [content_warning_563560_latam.txt](store_page/content_warning_563560_english.txt) is missing.
 - [storepage_81731_latam.json](store_page/storepage_81731_english.json) is missing.
 
-### Upcoming Release Notes
-
-- [20231101_latam.xml](release_notes/20231101_english.xml) is missing.
-- [20231107_latam.xml](release_notes/20231107_english.xml) is missing.
-
 ### Credits
 
 - [addons/ExampleAddon/CustomCampaignCredits_latam.txt](addons/ExampleAddon/resource/CustomCampaignCredits_english.txt) is missing.
@@ -2988,11 +2943,6 @@
 - [content_warning_563560_swedish.txt](store_page/content_warning_563560_english.txt) is missing.
 - [storepage_81731_swedish.json](store_page/storepage_81731_english.json) is missing.
 
-### Upcoming Release Notes
-
-- [20231101_swedish.xml](release_notes/20231101_english.xml) is missing.
-- [20231107_swedish.xml](release_notes/20231107_english.xml) is missing.
-
 ### Credits
 
 - [addons/ExampleAddon/CustomCampaignCredits_swedish.txt](addons/ExampleAddon/resource/CustomCampaignCredits_english.txt) is missing.
@@ -3340,11 +3290,6 @@
 - [workshop_tags_ukrainian.json](community/workshop/workshop_tags_english.json) is missing.
 - [content_warning_563560_ukrainian.txt](store_page/content_warning_563560_english.txt) is missing.
 
-### Upcoming Release Notes
-
-- [20231101_ukrainian.xml](release_notes/20231101_english.xml) is missing.
-- [20231107_ukrainian.xml](release_notes/20231107_english.xml) is missing.
-
 ### Credits
 
 - [addons/ExampleAddon/CustomCampaignCredits_ukrainian.txt](addons/ExampleAddon/resource/CustomCampaignCredits_english.txt) is missing.
@@ -3677,11 +3622,6 @@
 - [gameui_vietnamese.txt](resource/gameui_vietnamese.txt) has 628 untranslated strings.
 - [reactivedrop_vietnamese.txt](resource/reactivedrop_vietnamese.txt) has 3260 untranslated strings.
 - [valve_vietnamese.txt](resource/valve_vietnamese.txt) has 138 untranslated strings.
-
-### Upcoming Release Notes
-
-- [20231101_vietnamese.xml](release_notes/20231101_english.xml) is missing.
-- [20231107_vietnamese.xml](release_notes/20231107_english.xml) is missing.
 
 ### Mail and News
 
