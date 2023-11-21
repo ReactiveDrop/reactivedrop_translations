@@ -21,7 +21,7 @@
 | [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [European Spanish](#spanish-español-de-españa) | 28 | 2004 | 40 | 2339 | 200 | 714 | 552 | 145 |
 | [Latin American Spanish](#latam-español-latinoamericano) | 1281 | 2004 | 634 | 4435 | 204 | 980 | 638 | 146 |
-| [Swedish](#swedish-svenska) | ✔️ | 2004 | 42 | 2546 | ✔️ | 599 | 556 | 146 |
+| [Swedish](#swedish-svenska) | ✔️ | 2004 | 42 | 2546 | ✔️ | 591 | 556 | 146 |
 | [Thai](#non-curated-languages) | 966 | 1993 | 50 | 4171 | 200 | 739 | 635 | 146 |
 | [Turkish](#non-curated-languages) | 51 | 137 | 42 | 2924 | 200 | 975 | 556 | 146 |
 | [Ukrainian](#ukrainian-українська) | 27 | 131 | 32 | 2467 | 200 | 928 | 550 | 145 |
@@ -2926,7 +2926,6 @@
 - [misc/signage/signage_swedish.vdf](misc/signage/signage_swedish.vdf) has 69 untranslated strings.
 - [platform/servers/serverbrowser_swedish.txt](platform/servers/serverbrowser_swedish.txt) has 24 untranslated strings.
 - [platform/vgui_swedish.txt](platform/vgui_swedish.txt) has 40 untranslated strings.
-- [chat_swedish.txt](resource/chat_swedish.txt) has 8 untranslated strings.
 - [closecaption_swedish.txt](resource/closecaption_swedish.txt) has 2004 untranslated strings.
 - [gameui_swedish.txt](resource/gameui_swedish.txt) has 42 untranslated strings.
 - [reactivedrop_swedish.txt](resource/reactivedrop_swedish.txt) has 2546 untranslated strings.
