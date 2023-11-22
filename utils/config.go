@@ -72,7 +72,7 @@ var reportedLanguages = map[string]bool{
 	"russian":    true,
 	"spanish":    true,
 	"latam":      true,
-	"swedish":    false,
+	"swedish":    true,
 	"thai":       false,
 	"turkish":    false,
 	"ukrainian":  true,

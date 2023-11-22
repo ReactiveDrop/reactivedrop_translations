@@ -1,31 +1,31 @@
 # Overview
 | Language | basemodui | closecaption | gameui | reactivedrop | statsweb | Strings | Inventory | Files |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | ✔️ | 12 | ✔️ | ✔️ | ✔️ | ✔️ |
-| [Traditional Chinese](#tchinese-繁體中文) | 9 | 140 | 33 | 2811 | 200 | 236 | 554 | 147 |
-| [Czech](#czech-čeština) | 71 | 1810 | 42 | 3928 | 200 | 980 | 624 | 147 |
-| [Danish](#non-curated-languages) | 52 | 231 | 42 | 3456 | 200 | 710 | 619 | 148 |
-| [Dutch](#non-curated-languages) | 51 | 2004 | 42 | 2924 | 200 | 710 | 556 | 147 |
-| [Finnish](#non-curated-languages) | 51 | 2004 | 42 | 2924 | 200 | 710 | 556 | 147 |
-| [French](#french-français) | 27 | 138 | 42 | 2289 | 200 | 650 | 542 | 126 |
-| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | 12 | ✔️ | ✔️ | ✔️ | ✔️ |
-| [Hungarian](#non-curated-languages) | 51 | 138 | 42 | 2924 | 200 | 975 | 556 | 148 |
-| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | 12 | ✔️ | ✔️ | ✔️ | ✔️ |
+| [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
+| [Traditional Chinese](#tchinese-繁體中文) | 9 | 140 | 33 | 2811 | 200 | 236 | 554 | 145 |
+| [Czech](#czech-čeština) | 71 | 1810 | 42 | 3928 | 200 | 980 | 624 | 145 |
+| [Danish](#non-curated-languages) | 52 | 231 | 42 | 3456 | 200 | 710 | 619 | 146 |
+| [Dutch](#non-curated-languages) | 51 | 2004 | 42 | 2924 | 200 | 710 | 556 | 145 |
+| [Finnish](#non-curated-languages) | 51 | 2004 | 42 | 2924 | 200 | 710 | 556 | 145 |
+| [French](#french-français) | 27 | 138 | 42 | 2289 | 200 | 650 | 542 | 124 |
+| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
+| [Hungarian](#non-curated-languages) | 51 | 138 | 42 | 2924 | 200 | 975 | 556 | 146 |
+| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 103 | ✔️ | ✔️ |
-| [Korean](#koreana-한국어) | 7 | 10 | 38 | 1420 | 22 | 441 | 542 | 49 |
-| [Norwegian Bokmål](#non-curated-languages) | 69 | 708 | 47 | 3630 | 200 | 710 | 625 | 148 |
-| [Polish](#polish-polski) | 28 | 2004 | 42 | 2924 | 200 | 706 | 556 | 144 |
-| [European Portuguese](#portuguese-português-europeu) | ✔️ | 180 | 32 | 2012 | 21 | 628 | 565 | 142 |
-| [Brazilian Portuguese](#brazilian-português) | 2 | 2004 | 32 | 1183 | 9 | 276 | 323 | 9 |
-| [Romanian](#non-curated-languages) | 51 | 1996 | 48 | 3635 | 200 | 975 | 602 | 148 |
-| [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | 12 | ✔️ | ✔️ | ✔️ | ✔️ |
-| [European Spanish](#spanish-español-de-españa) | 28 | 2004 | 40 | 2339 | 200 | 714 | 552 | 147 |
-| [Latin American Spanish](#latam-español-latinoamericano) | 1281 | 2004 | 634 | 4435 | 204 | 980 | 638 | 148 |
-| [Swedish](#non-curated-languages) | 51 | 2004 | 42 | 2924 | 200 | 710 | 556 | 148 |
-| [Thai](#non-curated-languages) | 966 | 1993 | 50 | 4171 | 200 | 739 | 635 | 148 |
-| [Turkish](#non-curated-languages) | 51 | 137 | 42 | 2924 | 200 | 975 | 556 | 148 |
-| [Ukrainian](#ukrainian-українська) | 27 | 131 | 32 | 2467 | 200 | 928 | 550 | 147 |
-| [Vietnamese](#vietnamese-tiếng-việt) | 1255 | 2004 | 628 | 3260 | 200 | 324 | 634 | 114 |
+| [Korean](#koreana-한국어) | 7 | 10 | 38 | 1420 | 22 | 441 | 542 | 47 |
+| [Norwegian Bokmål](#non-curated-languages) | 69 | 708 | 47 | 3630 | 200 | 710 | 625 | 146 |
+| [Polish](#polish-polski) | 28 | 2004 | 42 | 2924 | 200 | 706 | 556 | 142 |
+| [European Portuguese](#portuguese-português-europeu) | ✔️ | 180 | 32 | 2012 | 21 | 628 | 565 | 140 |
+| [Brazilian Portuguese](#brazilian-português) | 2 | 2004 | 32 | 1183 | 9 | 276 | 323 | 7 |
+| [Romanian](#non-curated-languages) | 51 | 1996 | 48 | 3635 | 200 | 975 | 602 | 146 |
+| [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
+| [European Spanish](#spanish-español-de-españa) | 28 | 2004 | 40 | 2339 | 200 | 714 | 552 | 145 |
+| [Latin American Spanish](#latam-español-latinoamericano) | 1281 | 2004 | 634 | 4435 | 204 | 980 | 638 | 146 |
+| [Swedish](#swedish-svenska) | ✔️ | 2004 | 42 | 2546 | ✔️ | 591 | 556 | 146 |
+| [Thai](#non-curated-languages) | 966 | 1993 | 50 | 4171 | 200 | 739 | 635 | 146 |
+| [Turkish](#non-curated-languages) | 51 | 137 | 42 | 2924 | 200 | 975 | 556 | 146 |
+| [Ukrainian](#ukrainian-українська) | 27 | 131 | 32 | 2467 | 200 | 928 | 550 | 145 |
+| [Vietnamese](#vietnamese-tiếng-việt) | 1255 | 2004 | 628 | 3260 | ✔️ | ✔️ | 259 | 112 |
 ### Legend
 - ***Non-capitalized column headers*** are the most important specific files and their number of missing strings. All of these txt-files are located in the resources folder. Except statsweb, which lies in community/stats_website, it's an vdf-file.
 - ***Strings*** is the number of missing strings not included in one of the files which get an individual non-capitalized column.
@@ -40,9 +40,7 @@
 
 </summary>
 
-### Strings
-
-- [reactivedrop_schinese.txt](resource/reactivedrop_schinese.txt) has 12 untranslated strings.
+✓ Up to date!
 
 </details>
 
@@ -73,11 +71,6 @@
 - [workshop_tags_tchinese.json](community/workshop/workshop_tags_english.json) is missing.
 - [content_warning_563560_tchinese.txt](store_page/content_warning_563560_english.txt) is missing.
 - [storepage_81731_tchinese.json](store_page/storepage_81731_tchinese.json) has 6 indented lines.
-
-### Upcoming Release Notes
-
-- [20231101_tchinese.xml](release_notes/20231101_english.xml) is missing.
-- [20231107_tchinese.xml](release_notes/20231107_english.xml) is missing.
 
 ### Credits
 
@@ -427,11 +420,6 @@
 - [content_warning_563560_czech.txt](store_page/content_warning_563560_english.txt) is missing.
 - [storepage_81731_czech.json](store_page/storepage_81731_english.json) is missing.
 
-### Upcoming Release Notes
-
-- [20231101_czech.xml](release_notes/20231101_english.xml) is missing.
-- [20231107_czech.xml](release_notes/20231107_english.xml) is missing.
-
 ### Credits
 
 - [addons/ExampleAddon/CustomCampaignCredits_czech.txt](addons/ExampleAddon/resource/CustomCampaignCredits_english.txt) is missing.
@@ -780,11 +768,6 @@
 - [content_warning_563560_french.txt](store_page/content_warning_563560_english.txt) is missing.
 - [storepage_81731_french.json](store_page/storepage_81731_french.json) has 6 indented lines.
 
-### Upcoming Release Notes
-
-- [20231101_french.xml](release_notes/20231101_english.xml) is missing.
-- [20231107_french.xml](release_notes/20231107_english.xml) is missing.
-
 ### Credits
 
 - [addons/ExampleAddon/CustomCampaignCredits_french.txt](addons/ExampleAddon/resource/CustomCampaignCredits_english.txt) is missing.
@@ -1088,9 +1071,7 @@
 
 </summary>
 
-### Strings
-
-- [reactivedrop_german.txt](resource/reactivedrop_german.txt) has 12 untranslated strings.
+✓ Up to date!
 
 </details>
 
@@ -1100,9 +1081,7 @@
 
 </summary>
 
-### Strings
-
-- [reactivedrop_italian.txt](resource/reactivedrop_italian.txt) has 12 untranslated strings.
+✓ Up to date!
 
 </details>
 
@@ -1146,11 +1125,6 @@
 - [workshop_tags_koreana.json](community/workshop/workshop_tags_english.json) is missing.
 - [content_warning_563560_koreana.txt](store_page/content_warning_563560_english.txt) is missing.
 - [storepage_81731_koreana.json](store_page/storepage_81731_koreana.json) has 6 indented lines.
-
-### Upcoming Release Notes
-
-- [20231101_koreana.xml](release_notes/20231101_english.xml) is missing.
-- [20231107_koreana.xml](release_notes/20231107_english.xml) is missing.
 
 ### Credits
 
@@ -1399,11 +1373,6 @@
 ### Steam Store and Community
 
 - [workshop_tags_polish.json](community/workshop/workshop_tags_polish.json) has 1 indented lines.
-
-### Upcoming Release Notes
-
-- [20231101_polish.xml](release_notes/20231101_english.xml) is missing.
-- [20231107_polish.xml](release_notes/20231107_english.xml) is missing.
 
 ### Credits
 
@@ -1749,11 +1718,6 @@
 - [app_items_563560_portuguese.json](community/points_shop/app_items_563560_english.json) is missing.
 - [workshop_tags_portuguese.json](community/workshop/workshop_tags_portuguese.json) has 1 indented lines.
 
-### Upcoming Release Notes
-
-- [20231101_portuguese.xml](release_notes/20231101_english.xml) is missing.
-- [20231107_portuguese.xml](release_notes/20231107_english.xml) is missing.
-
 ### Credits
 
 - [biogen_corporation_credits_portuguese.txt](credits/biogen_corporation_credits_english.txt) is missing.
@@ -2085,11 +2049,6 @@
 
 - [workshop_tags_brazilian.json](community/workshop/workshop_tags_brazilian.json) has 1 indented lines.
 
-### Upcoming Release Notes
-
-- [20231101_brazilian.xml](release_notes/20231101_english.xml) is missing.
-- [20231107_brazilian.xml](release_notes/20231107_english.xml) is missing.
-
 ### Credits
 
 - [credits_acc32_official_brazilian.txt](credits/credits_acc32_official_brazilian.txt) has 1 indented lines.
@@ -2252,9 +2211,7 @@
 
 </summary>
 
-### Strings
-
-- [reactivedrop_russian.txt](resource/reactivedrop_russian.txt) has 12 untranslated strings.
+✓ Up to date!
 
 </details>
 
@@ -2287,11 +2244,6 @@
 - [workshop_tags_spanish.json](community/workshop/workshop_tags_english.json) is missing.
 - [content_warning_563560_spanish.txt](store_page/content_warning_563560_english.txt) is missing.
 - [storepage_81731_spanish.json](store_page/storepage_81731_spanish.json) has 6 indented lines.
-
-### Upcoming Release Notes
-
-- [20231101_spanish.xml](release_notes/20231101_english.xml) is missing.
-- [20231107_spanish.xml](release_notes/20231107_english.xml) is missing.
 
 ### Credits
 
@@ -2643,11 +2595,6 @@
 - [content_warning_563560_latam.txt](store_page/content_warning_563560_english.txt) is missing.
 - [storepage_81731_latam.json](store_page/storepage_81731_english.json) is missing.
 
-### Upcoming Release Notes
-
-- [20231101_latam.xml](release_notes/20231101_english.xml) is missing.
-- [20231107_latam.xml](release_notes/20231107_english.xml) is missing.
-
 ### Credits
 
 - [addons/ExampleAddon/CustomCampaignCredits_latam.txt](addons/ExampleAddon/resource/CustomCampaignCredits_english.txt) is missing.
@@ -2968,6 +2915,350 @@
 
 <details><summary>
 
+## swedish (svenska)
+
+</summary>
+
+### Strings
+
+- [addons/RiskOfRain/reactivedrop_swedish.txt](addons/RiskOfRain/resource/reactivedrop_swedish.txt) has 95 untranslated strings.
+- [steam_input_swedish.vdf](community/steam_input/steam_input_swedish.vdf) has 97 untranslated strings.
+- [misc/signage/signage_swedish.vdf](misc/signage/signage_swedish.vdf) has 69 untranslated strings.
+- [platform/servers/serverbrowser_swedish.txt](platform/servers/serverbrowser_swedish.txt) has 24 untranslated strings.
+- [platform/vgui_swedish.txt](platform/vgui_swedish.txt) has 40 untranslated strings.
+- [closecaption_swedish.txt](resource/closecaption_swedish.txt) has 2004 untranslated strings.
+- [gameui_swedish.txt](resource/gameui_swedish.txt) has 42 untranslated strings.
+- [reactivedrop_swedish.txt](resource/reactivedrop_swedish.txt) has 2546 untranslated strings.
+- [valve_swedish.txt](resource/valve_swedish.txt) has 266 untranslated strings.
+
+### Steam Store and Community
+
+- [eula_swedish.txt](community/eula/eula_english.txt) is missing.
+- [app_items_563560_swedish.json](community/points_shop/app_items_563560_english.json) is missing.
+- [workshop_tags_swedish.json](community/workshop/workshop_tags_english.json) is missing.
+- [content_warning_563560_swedish.txt](store_page/content_warning_563560_english.txt) is missing.
+- [storepage_81731_swedish.json](store_page/storepage_81731_english.json) is missing.
+
+### Credits
+
+- [addons/ExampleAddon/CustomCampaignCredits_swedish.txt](addons/ExampleAddon/resource/CustomCampaignCredits_english.txt) is missing.
+- [asw_credits_swedish.txt](credits/asw_credits_english.txt) is missing.
+- [biogen_corporation_credits_swedish.txt](credits/biogen_corporation_credits_english.txt) is missing.
+- [credits_acc32_official_swedish.txt](credits/credits_acc32_official_english.txt) is missing.
+- [credits_marine_academy_swedish.txt](credits/credits_marine_academy_english.txt) is missing.
+- [credits_namhumanum_swedish.txt](credits/credits_namhumanum_english.txt) is missing.
+- [deathmatch_credits_swedish.txt](credits/deathmatch_credits_english.txt) is missing.
+- [rd-LanasEscapeCredits_swedish.txt](credits/rd-LanasEscapeCredits_english.txt) is missing.
+- [rd-area9800Credits_swedish.txt](credits/rd-area9800Credits_english.txt) is missing.
+- [rd-ocs-credits_swedish.txt](credits/rd-ocs-credits_english.txt) is missing.
+- [rd-reduction_campaigncredits_swedish.txt](credits/rd-reduction_campaigncredits_english.txt) is missing.
+- [rd-tarnor_credits_swedish.txt](credits/rd-tarnor_credits_english.txt) is missing.
+- [rd_bonus_missions_credits_swedish.txt](credits/rd_bonus_missions_credits_english.txt) is missing.
+- [rd_paranoia_credits_swedish.txt](credits/rd_paranoia_credits_english.txt) is missing.
+- [rd_research7_credits_swedish.txt](credits/rd_research7_credits_english.txt) is missing.
+- [tilarus5_credits_swedish.txt](credits/tilarus5_credits_english.txt) is missing.
+
+### Mail and News
+
+- [mail/3rdmappdasmugler_swedish.txt](resource/mail/3rdmappdasmugler_english.txt) is missing.
+- [mail/3rdmappdaworker_swedish.txt](resource/mail/3rdmappdaworker_english.txt) is missing.
+- [mail/acc32_mail_findings_swedish.txt](resource/mail/acc32_mail_findings_english.txt) is missing.
+- [mail/acc32_mail_investigations_swedish.txt](resource/mail/acc32_mail_investigations_english.txt) is missing.
+- [mail/acc32_mail_localhouses_swedish.txt](resource/mail/acc32_mail_localhouses_english.txt) is missing.
+- [mail/acc32_mail_miningops_swedish.txt](resource/mail/acc32_mail_miningops_english.txt) is missing.
+- [mail/acc32_mail_news1_swedish.txt](resource/mail/acc32_mail_news1_english.txt) is missing.
+- [mail/acc32_mail_news2_swedish.txt](resource/mail/acc32_mail_news2_english.txt) is missing.
+- [mail/acc32_mail_random1_swedish.txt](resource/mail/acc32_mail_random1_english.txt) is missing.
+- [mail/acc32_mail_random2_left_swedish.txt](resource/mail/acc32_mail_random2_left_english.txt) is missing.
+- [mail/acc32_mail_random2_no_swedish.txt](resource/mail/acc32_mail_random2_no_english.txt) is missing.
+- [mail/acc32_mail_random2_right_swedish.txt](resource/mail/acc32_mail_random2_right_english.txt) is missing.
+- [mail/acc32_mail_research1_swedish.txt](resource/mail/acc32_mail_research1_english.txt) is missing.
+- [mail/acc32_mail_research2_swedish.txt](resource/mail/acc32_mail_research2_english.txt) is missing.
+- [mail/acc32_mail_secret2_swedish.txt](resource/mail/acc32_mail_secret2_english.txt) is missing.
+- [mail/acc32_mail_solution_swedish.txt](resource/mail/acc32_mail_solution_english.txt) is missing.
+- [mail/acc_info1_swedish.txt](resource/mail/acc_info1_english.txt) is missing.
+- [mail/acc_info2_swedish.txt](resource/mail/acc_info2_english.txt) is missing.
+- [mail/acc_power1_swedish.txt](resource/mail/acc_power1_english.txt) is missing.
+- [mail/acc_power2_swedish.txt](resource/mail/acc_power2_english.txt) is missing.
+- [mail/acc_power3_swedish.txt](resource/mail/acc_power3_english.txt) is missing.
+- [mail/acc_research1_swedish.txt](resource/mail/acc_research1_english.txt) is missing.
+- [mail/acc_research2_swedish.txt](resource/mail/acc_research2_english.txt) is missing.
+- [mail/acc_research3_swedish.txt](resource/mail/acc_research3_english.txt) is missing.
+- [mail/biogen_mail_windows_swedish.txt](resource/mail/biogen_mail_windows_english.txt) is missing.
+- [mail/labsmail1_swedish.txt](resource/mail/labsmail1_english.txt) is missing.
+- [mail/labsmail2_swedish.txt](resource/mail/labsmail2_english.txt) is missing.
+- [mail/labsmail3_swedish.txt](resource/mail/labsmail3_english.txt) is missing.
+- [mail/labsmail4_swedish.txt](resource/mail/labsmail4_english.txt) is missing.
+- [mail/landingbaymail1_swedish.txt](resource/mail/landingbaymail1_english.txt) is missing.
+- [mail/landingbaymail2_swedish.txt](resource/mail/landingbaymail2_english.txt) is missing.
+- [mail/landingbaymail3_swedish.txt](resource/mail/landingbaymail3_english.txt) is missing.
+- [mail/ma_pda1_swedish.txt](resource/mail/ma_pda1_english.txt) is missing.
+- [mail/ma_pda2_swedish.txt](resource/mail/ma_pda2_english.txt) is missing.
+- [mail/minemails1_swedish.txt](resource/mail/minemails1_english.txt) is missing.
+- [mail/minemails2_swedish.txt](resource/mail/minemails2_english.txt) is missing.
+- [mail/minemails3_swedish.txt](resource/mail/minemails3_english.txt) is missing.
+- [mail/nh_officemail1_jacquesmoreau_swedish.txt](resource/mail/nh_officemail1_jacquesmoreau_english.txt) is missing.
+- [mail/nh_officemail2_jacquesmoreau_swedish.txt](resource/mail/nh_officemail2_jacquesmoreau_english.txt) is missing.
+- [mail/nh_officemail_lindasilva_swedish.txt](resource/mail/nh_officemail_lindasilva_english.txt) is missing.
+- [mail/nh_officemail_vladislavlazarev_swedish.txt](resource/mail/nh_officemail_vladislavlazarev_english.txt) is missing.
+- [mail/nh_officemail_wistonbeaufort_swedish.txt](resource/mail/nh_officemail_wistonbeaufort_english.txt) is missing.
+- [mail/nh_pda1_gaelflorenza_swedish.txt](resource/mail/nh_pda1_gaelflorenza_english.txt) is missing.
+- [mail/nh_pda2_gaelflorenza_swedish.txt](resource/mail/nh_pda2_gaelflorenza_english.txt) is missing.
+- [mail/nh_pda3_gaelflorenza_swedish.txt](resource/mail/nh_pda3_gaelflorenza_english.txt) is missing.
+- [mail/nh_pda4_gaelflorenza_swedish.txt](resource/mail/nh_pda4_gaelflorenza_english.txt) is missing.
+- [mail/nh_pda5_gaelflorenza_swedish.txt](resource/mail/nh_pda5_gaelflorenza_english.txt) is missing.
+- [mail/nh_pda6_gaelflorenza_swedish.txt](resource/mail/nh_pda6_gaelflorenza_english.txt) is missing.
+- [mail/nh_pda_francesiriac_swedish.txt](resource/mail/nh_pda_francesiriac_english.txt) is missing.
+- [mail/nh_pda_jacquesmoreau_swedish.txt](resource/mail/nh_pda_jacquesmoreau_english.txt) is missing.
+- [mail/nh_pda_jonathandorland_swedish.txt](resource/mail/nh_pda_jonathandorland_english.txt) is missing.
+- [mail/nh_pda_lindasilva_swedish.txt](resource/mail/nh_pda_lindasilva_english.txt) is missing.
+- [mail/nh_pda_sarahweiss_swedish.txt](resource/mail/nh_pda_sarahweiss_english.txt) is missing.
+- [mail/nh_pda_thibautholbert_swedish.txt](resource/mail/nh_pda_thibautholbert_english.txt) is missing.
+- [mail/nh_pda_tomasselin_swedish.txt](resource/mail/nh_pda_tomasselin_english.txt) is missing.
+- [mail/nh_pda_yannmontgomery_swedish.txt](resource/mail/nh_pda_yannmontgomery_english.txt) is missing.
+- [mail/nukeangermail_swedish.txt](resource/mail/nukeangermail_english.txt) is missing.
+- [mail/officemail1_swedish.txt](resource/mail/officemail1_english.txt) is missing.
+- [mail/officemail2_swedish.txt](resource/mail/officemail2_english.txt) is missing.
+- [mail/officemail3_swedish.txt](resource/mail/officemail3_english.txt) is missing.
+- [mail/officemail4_swedish.txt](resource/mail/officemail4_english.txt) is missing.
+- [mail/outsidemail1_swedish.txt](resource/mail/outsidemail1_english.txt) is missing.
+- [mail/outsidemail2_swedish.txt](resource/mail/outsidemail2_english.txt) is missing.
+- [mail/outsidemail3_swedish.txt](resource/mail/outsidemail3_english.txt) is missing.
+- [mail/plantmail1_swedish.txt](resource/mail/plantmail1_english.txt) is missing.
+- [mail/plantmail2_swedish.txt](resource/mail/plantmail2_english.txt) is missing.
+- [mail/plantmail3_swedish.txt](resource/mail/plantmail3_english.txt) is missing.
+- [mail/queenlairmail1_swedish.txt](resource/mail/queenlairmail1_english.txt) is missing.
+- [mail/queenlairmail2_swedish.txt](resource/mail/queenlairmail2_english.txt) is missing.
+- [mail/rd-benson_swedish.txt](resource/mail/rd-benson_english.txt) is missing.
+- [mail/rd-cave_geologist1_swedish.txt](resource/mail/rd-cave_geologist1_english.txt) is missing.
+- [mail/rd-lan-pda1_swedish.txt](resource/mail/rd-lan-pda1_english.txt) is missing.
+- [mail/rd-lan-pda2_swedish.txt](resource/mail/rd-lan-pda2_english.txt) is missing.
+- [mail/rd-lan-pda3_swedish.txt](resource/mail/rd-lan-pda3_english.txt) is missing.
+- [mail/rd-lan-pda4_swedish.txt](resource/mail/rd-lan-pda4_english.txt) is missing.
+- [mail/rd-lan-pda5_swedish.txt](resource/mail/rd-lan-pda5_english.txt) is missing.
+- [mail/rd-lan-pda6_swedish.txt](resource/mail/rd-lan-pda6_english.txt) is missing.
+- [mail/rd-smithson_swedish.txt](resource/mail/rd-smithson_english.txt) is missing.
+- [mail/rd-spaceport_security_swedish.txt](resource/mail/rd-spaceport_security_english.txt) is missing.
+- [mail/rd_res_houghton1_swedish.txt](resource/mail/rd_res_houghton1_english.txt) is missing.
+- [mail/rd_res_houghton2_swedish.txt](resource/mail/rd_res_houghton2_english.txt) is missing.
+- [mail/rd_res_houghton3_swedish.txt](resource/mail/rd_res_houghton3_english.txt) is missing.
+- [mail/rd_res_houghton4_swedish.txt](resource/mail/rd_res_houghton4_english.txt) is missing.
+- [mail/rd_res_houghton5_swedish.txt](resource/mail/rd_res_houghton5_english.txt) is missing.
+- [mail/rd_res_houghton6_swedish.txt](resource/mail/rd_res_houghton6_english.txt) is missing.
+- [mail/rd_res_rctinbound1_swedish.txt](resource/mail/rd_res_rctinbound1_english.txt) is missing.
+- [mail/rd_res_rctinbound2_swedish.txt](resource/mail/rd_res_rctinbound2_english.txt) is missing.
+- [mail/rd_subject58_swedish.txt](resource/mail/rd_subject58_english.txt) is missing.
+- [mail/sewersmail1_swedish.txt](resource/mail/sewersmail1_english.txt) is missing.
+- [mail/sewersmail2_swedish.txt](resource/mail/sewersmail2_english.txt) is missing.
+- [mail/sewersmail3_swedish.txt](resource/mail/sewersmail3_english.txt) is missing.
+- [mail/tilarus01port_MainStory1_swedish.txt](resource/mail/tilarus01port_MainStory1_english.txt) is missing.
+- [mail/tilarus01port_MainStory2_swedish.txt](resource/mail/tilarus01port_MainStory2_english.txt) is missing.
+- [mail/tilarus01port_MainStory3_swedish.txt](resource/mail/tilarus01port_MainStory3_english.txt) is missing.
+- [mail/tilarus01port_PublicMessage1_swedish.txt](resource/mail/tilarus01port_PublicMessage1_english.txt) is missing.
+- [mail/tilarus01port_PublicMessage2_swedish.txt](resource/mail/tilarus01port_PublicMessage2_english.txt) is missing.
+- [mail/tilarus01port_SideStory1_swedish.txt](resource/mail/tilarus01port_SideStory1_english.txt) is missing.
+- [mail/tilarus01port_SideStory2_swedish.txt](resource/mail/tilarus01port_SideStory2_english.txt) is missing.
+- [mail/tilarus01port_SideStory3_swedish.txt](resource/mail/tilarus01port_SideStory3_english.txt) is missing.
+- [mail/tilarus01port_craigsthingpda_swedish.txt](resource/mail/tilarus01port_craigsthingpda_english.txt) is missing.
+- [mail/tilarus03arctic_mail1_swedish.txt](resource/mail/tilarus03arctic_mail1_english.txt) is missing.
+- [mail/tilarus03arctic_mail2_swedish.txt](resource/mail/tilarus03arctic_mail2_english.txt) is missing.
+- [mail/tilarus03arctic_mail3_swedish.txt](resource/mail/tilarus03arctic_mail3_english.txt) is missing.
+- [mail/tilarus03arctic_mail4_swedish.txt](resource/mail/tilarus03arctic_mail4_english.txt) is missing.
+- [mail/tilarus09hospital_pda1_swedish.txt](resource/mail/tilarus09hospital_pda1_english.txt) is missing.
+- [mail/tilarus09hospital_pda2_swedish.txt](resource/mail/tilarus09hospital_pda2_english.txt) is missing.
+- [mail/tilarus09hospital_pda3_swedish.txt](resource/mail/tilarus09hospital_pda3_english.txt) is missing.
+- [mail/tilarus09hospital_pda4_swedish.txt](resource/mail/tilarus09hospital_pda4_english.txt) is missing.
+- [mail/tilarus09hospital_pda5_swedish.txt](resource/mail/tilarus09hospital_pda5_english.txt) is missing.
+- [mail/tutorialmail1_swedish.txt](resource/mail/tutorialmail1_english.txt) is missing.
+- [mail/tutorialmail2_swedish.txt](resource/mail/tutorialmail2_english.txt) is missing.
+- [mail/tutorialmail3_swedish.txt](resource/mail/tutorialmail3_english.txt) is missing.
+- [news/antheonmissingnews_swedish.txt](resource/news/antheonmissingnews_english.txt) is missing.
+- [news/antheonmoonnews_swedish.txt](resource/news/antheonmoonnews_english.txt) is missing.
+- [news/brainnews_swedish.txt](resource/news/brainnews_english.txt) is missing.
+- [news/convoynews_swedish.txt](resource/news/convoynews_english.txt) is missing.
+- [news/droidlawsnews_swedish.txt](resource/news/droidlawsnews_english.txt) is missing.
+- [news/expansionnews_swedish.txt](resource/news/expansionnews_english.txt) is missing.
+- [news/experiornews_swedish.txt](resource/news/experiornews_english.txt) is missing.
+- [news/newcolonynews_swedish.txt](resource/news/newcolonynews_english.txt) is missing.
+- [news/nh_news_announcement_swedish.txt](resource/news/nh_news_announcement_english.txt) is missing.
+- [news/nh_news_prospectus_swedish.txt](resource/news/nh_news_prospectus_english.txt) is missing.
+- [news/rd-newfacilities_swedish.txt](resource/news/rd-newfacilities_english.txt) is missing.
+- [news/rd-spaceport_news1_swedish.txt](resource/news/rd-spaceport_news1_english.txt) is missing.
+- [news/refugeenews_swedish.txt](resource/news/refugeenews_english.txt) is missing.
+
+### Inventory Schema
+
+- Item 1 "Participant - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_swedish`, `briefing_name_swedish`, `description_swedish`, `display_type_swedish`
+- Item 2 "Elite - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_swedish`, `briefing_name_swedish`, `description_swedish`, `display_type_swedish`
+- Item 3 "Trick Hat" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_swedish`, `briefing_name_swedish`, `description_swedish`, `display_type_swedish`
+- Item 4 "Elite - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_swedish`, `briefing_name_swedish`, `description_swedish`, `display_type_swedish`
+- Item 5 "Elite - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_swedish`, `briefing_name_swedish`, `description_swedish`, `display_type_swedish`
+- Item 6 "Elite - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_swedish`, `briefing_name_swedish`, `description_swedish`, `display_type_swedish`
+- Item 13 "Beta Tester" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_swedish`, `briefing_name_swedish`, `description_swedish`, `display_type_swedish`
+- Item 15 "Top 20 - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_swedish`, `briefing_name_swedish`, `description_swedish`, `display_type_swedish`
+- Item 16 "Jacob's Rest Veteran" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_swedish`, `description_swedish`, `display_type_swedish`
+- Item 17 "Area 9800 Veteran" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_swedish`, `description_swedish`, `display_type_swedish`
+- Item 18 "Operation Cleansweep Veteran" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_swedish`, `description_swedish`, `display_type_swedish`
+- Item 19 "Lana's Escape Veteran" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_swedish`, `description_swedish`, `display_type_swedish`
+- Item 20 "Paranoia Veteran" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_swedish`, `description_swedish`, `display_type_swedish`
+- Item 21 "Research 7 Veteran" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_swedish`, `description_swedish`, `display_type_swedish`
+- Item 22 "Tears for Tarnor Veteran" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_swedish`, `description_swedish`, `display_type_swedish`
+- Item 23 "Tilarus-5 Veteran" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_swedish`, `description_swedish`, `display_type_swedish`
+- Item 24 "BioGen Corporation Veteran" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_swedish`, `description_swedish`, `display_type_swedish`
+- Item 25 "Nam Humanum Veteran" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_swedish`, `description_swedish`, `display_type_swedish`
+- Item 26 "Accident 32 Veteran" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_swedish`, `description_swedish`, `display_type_swedish`
+- Item 27 "Adanaxis Veteran" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_swedish`, `description_swedish`, `display_type_swedish`
+- Item 28 "Priority Number One" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_swedish`, `description_swedish`, `display_type_swedish`
+- Item 30 "Participant - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_swedish`, `briefing_name_swedish`, `description_swedish`, `before_description_swedish`, `display_type_swedish`, `style_0_name_swedish`
+- Item 31 "Elite - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_swedish`, `briefing_name_swedish`, `description_swedish`, `before_description_swedish`, `display_type_swedish`, `style_0_name_swedish`, `style_1_name_swedish`
+- Item 32 "Elite - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_swedish`, `briefing_name_swedish`, `description_swedish`, `before_description_swedish`, `display_type_swedish`, `style_0_name_swedish`, `style_1_name_swedish`
+- Item 33 "Elite - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_swedish`, `briefing_name_swedish`, `description_swedish`, `before_description_swedish`, `display_type_swedish`, `style_0_name_swedish`, `style_1_name_swedish`
+- Item 34 "Elite - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_swedish`, `briefing_name_swedish`, `description_swedish`, `before_description_swedish`, `display_type_swedish`, `style_0_name_swedish`, `style_1_name_swedish`
+- Item 35 "Top 20 - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_swedish`, `briefing_name_swedish`, `description_swedish`, `before_description_swedish`, `display_type_swedish`, `style_0_name_swedish`, `style_1_name_swedish`, `style_2_name_swedish`
+- Item 36 "Top 20 - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_swedish`, `briefing_name_swedish`, `description_swedish`, `before_description_swedish`, `display_type_swedish`, `style_0_name_swedish`, `style_1_name_swedish`, `style_2_name_swedish`
+- Item 37 "Top 20 - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_swedish`, `briefing_name_swedish`, `description_swedish`, `before_description_swedish`, `display_type_swedish`, `style_0_name_swedish`, `style_1_name_swedish`, `style_2_name_swedish`
+- Item 38 "Top 20 - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_swedish`, `briefing_name_swedish`, `description_swedish`, `before_description_swedish`, `display_type_swedish`, `style_0_name_swedish`, `style_1_name_swedish`, `style_2_name_swedish`
+- Item 40 "Steam SHMUP Fest 2023" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_swedish`, `description_swedish`, `display_type_swedish`
+- Item 41 "Reduction Veteran" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_swedish`, `description_swedish`, `display_type_swedish`
+- Item 42 "Air Time" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_swedish`, `description_swedish`, `display_type_swedish`
+- Item 7 "Translator" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_swedish`, `description_swedish`, `display_type_swedish`
+- Item 8 "Programmer" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_swedish`, `description_swedish`, `display_type_swedish`
+- Item 9 "Mapper" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_swedish`, `description_swedish`, `display_type_swedish`
+- Item 10 "Challenger" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_swedish`, `description_swedish`, `display_type_swedish`
+- Item 11 "Guide" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_swedish`, `description_swedish`, `display_type_swedish`
+- Item 12 "Artist" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_swedish`, `description_swedish`, `display_type_swedish`
+- Item 14 "Reporter" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_swedish`, `description_swedish`, `display_type_swedish`
+- Item 29 "Streamer" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_swedish`, `description_swedish`, `display_type_swedish`
+- Item 39 "Mapping Competition Participant (2023)" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_swedish`, `description_swedish`, `display_type_swedish`
+- Item 100000000 "Donor: Tears for Tarnor" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_swedish`, `description_swedish`, `ingame_description_swedish`, `after_description_swedish`, `display_type_swedish`
+- Item 100000001 "Donor: Paranoia" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_swedish`, `description_swedish`, `ingame_description_swedish`, `after_description_swedish`, `display_type_swedish`
+- Item 100000002 "Donor: Lana's Escape" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_swedish`, `description_swedish`, `ingame_description_swedish`, `after_description_swedish`, `display_type_swedish`
+- Item 100000003 "Donor: Operation Cleansweep" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_swedish`, `description_swedish`, `ingame_description_swedish`, `after_description_swedish`, `display_type_swedish`
+- Item 100000004 "Donor: Research 7" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_swedish`, `description_swedish`, `ingame_description_swedish`, `after_description_swedish`, `display_type_swedish`
+- Item 100000005 "Donor: Area 9800" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_swedish`, `description_swedish`, `ingame_description_swedish`, `after_description_swedish`, `display_type_swedish`
+- Item 100000006 "Donor: BioGen Corporation" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_swedish`, `description_swedish`, `ingame_description_swedish`, `after_description_swedish`, `display_type_swedish`
+- Item 100000007 "Donor: Nam Humanum" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_swedish`, `description_swedish`, `ingame_description_swedish`, `after_description_swedish`, `display_type_swedish`
+- Item 100000008 "Donor: Accident 32" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_swedish`, `description_swedish`, `ingame_description_swedish`, `after_description_swedish`, `display_type_swedish`
+- Item 100000009 "Donor: Adanaxis" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_swedish`, `description_swedish`, `ingame_description_swedish`, `after_description_swedish`, `display_type_swedish`
+- Item 100000010 "Donor: Dmitriy" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_swedish`, `description_swedish`, `ingame_description_swedish`, `after_description_swedish`, `display_type_swedish`
+- Item 100000011 "Donor: Ben Lubar" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_swedish`, `description_swedish`, `ingame_description_swedish`, `after_description_swedish`, `display_type_swedish`
+- Item 100000012 "Donor: Rayman1103" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_swedish`, `description_swedish`, `ingame_description_swedish`, `after_description_swedish`, `display_type_swedish`
+- Item 100000013 "Donor: Mithrand" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_swedish`, `description_swedish`, `ingame_description_swedish`, `after_description_swedish`, `display_type_swedish`
+- Item 100000014 "Donor: Ax-now" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_swedish`, `description_swedish`, `ingame_description_swedish`, `after_description_swedish`, `display_type_swedish`
+- Item 100000015 "Donor: Beka" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_swedish`, `description_swedish`, `ingame_description_swedish`, `after_description_swedish`, `display_type_swedish`
+- Item 100000016 "Donor: mfz" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_swedish`, `description_swedish`, `ingame_description_swedish`, `after_description_swedish`, `display_type_swedish`
+- Item 100000017 "Donor: Grace Lovelace" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_swedish`, `description_swedish`, `ingame_description_swedish`, `after_description_swedish`, `display_type_swedish`
+- Item 100000018 "Donor: Stargate75" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_swedish`, `description_swedish`, `ingame_description_swedish`, `after_description_swedish`, `display_type_swedish`
+- Item 100000019 "Donor: hangumi" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_swedish`, `description_swedish`, `ingame_description_swedish`, `after_description_swedish`, `display_type_swedish`
+- Item 100000020 "Donor: YOJIMBO" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_swedish`, `description_swedish`, `ingame_description_swedish`, `after_description_swedish`, `display_type_swedish`
+- Item 100000021 "Donor: QuantumRipple" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_swedish`, `description_swedish`, `ingame_description_swedish`, `after_description_swedish`, `display_type_swedish`
+- Item 100000022 "Donor: __NAME__" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_swedish`, `description_swedish`, `ingame_description_swedish`, `after_description_swedish`, `display_type_swedish`
+- Item 100000023 "Donor: __NAME__" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_swedish`, `description_swedish`, `ingame_description_swedish`, `after_description_swedish`, `display_type_swedish`
+- Item 100000024 "Donor: Duke M" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_swedish`, `description_swedish`, `ingame_description_swedish`, `after_description_swedish`, `display_type_swedish`
+- Item 100000025 "Donor: Deerlord" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_swedish`, `description_swedish`, `ingame_description_swedish`, `after_description_swedish`, `display_type_swedish`
+- Item 100000026 "Donor: Blueberry" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_swedish`, `description_swedish`, `ingame_description_swedish`, `after_description_swedish`, `display_type_swedish`
+- Item 100000027 "Donor: MakinDay" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_swedish`, `description_swedish`, `ingame_description_swedish`, `after_description_swedish`, `display_type_swedish`
+- Item 100000028 "Donor: Steffo" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_swedish`, `description_swedish`, `ingame_description_swedish`, `after_description_swedish`, `display_type_swedish`
+- Item 100000029 "Donor: trick-master" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_swedish`, `description_swedish`, `ingame_description_swedish`, `after_description_swedish`, `display_type_swedish`
+- Item 100000030 "Donor: Efi" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_swedish`, `description_swedish`, `ingame_description_swedish`, `after_description_swedish`, `display_type_swedish`
+- Item 100000031 "Donor: AutoGavy" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_swedish`, `description_swedish`, `ingame_description_swedish`, `after_description_swedish`, `display_type_swedish`
+- Item 100000032 "Donor: __NAME__" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_swedish`, `description_swedish`, `ingame_description_swedish`, `after_description_swedish`, `display_type_swedish`
+- Item 100000033 "Donor: __NAME__" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_swedish`, `description_swedish`, `ingame_description_swedish`, `after_description_swedish`, `display_type_swedish`
+- Item 100000034 "Donor: TheScientist" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_swedish`, `description_swedish`, `ingame_description_swedish`, `after_description_swedish`, `display_type_swedish`
+- Item 4002 "Scrap Metal" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_swedish`, `description_swedish`, `after_description_swedish`, `display_type_swedish`
+- Item 4003 "Electrical Components" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_swedish`, `description_swedish`, `after_description_swedish`, `display_type_swedish`
+- Item 4004 "Spare Pipe" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_swedish`, `description_swedish`, `after_description_swedish`, `display_type_swedish`
+- Item 4005 "Plastics" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_swedish`, `description_swedish`, `after_description_swedish`, `display_type_swedish`
+- Item 4006 "Coolant" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_swedish`, `description_swedish`, `after_description_swedish`, `display_type_swedish`
+- Item 4007 "Mini-Crate" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_swedish`, `description_swedish`, `after_description_swedish`, `display_type_swedish`
+- Item 4008 "Battery Pack" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_swedish`, `description_swedish`, `after_description_swedish`, `display_type_swedish`
+- Item 4009 "Loose Wires" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_swedish`, `description_swedish`, `after_description_swedish`, `display_type_swedish`
+- Item 4010 "Carbon" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_swedish`, `description_swedish`, `after_description_swedish`, `display_type_swedish`
+- Item 4011 "Alien Chitin" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_swedish`, `description_swedish`, `after_description_swedish`, `display_type_swedish`
+- Item 4012 "Biomass Sample" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_swedish`, `description_swedish`, `after_description_swedish`, `display_type_swedish`
+- Item 4013 "Glowing Green Acid" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_swedish`, `description_swedish`, `after_description_swedish`, `display_type_swedish`
+- Item 4014 "Claw Fragment" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_swedish`, `description_swedish`, `after_description_swedish`, `display_type_swedish`
+- Item 4015 "Memory Management Unit" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_swedish`, `description_swedish`, `after_description_swedish`, `display_type_swedish`
+- Item 4016 "Arithmetic Logic Unit" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_swedish`, `description_swedish`, `after_description_swedish`, `display_type_swedish`
+- Item 4017 "Data Storage Medium" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_swedish`, `description_swedish`, `after_description_swedish`, `display_type_swedish`
+- Item 4018 "Pile of Red Sand" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_swedish`, `description_swedish`, `after_description_swedish`, `display_type_swedish`
+- Item 4019 "Antlion Carapace" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_swedish`, `description_swedish`, `after_description_swedish`, `display_type_swedish`
+- Item 4020 "Corrosive Fluid Sample" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_swedish`, `description_swedish`, `after_description_swedish`, `display_type_swedish`
+- Item 4021 "Cooled Volcanic Rock" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_swedish`, `description_swedish`, `after_description_swedish`, `display_type_swedish`
+- Item 4022 "Retrieved Documents" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_swedish`, `description_swedish`, `after_description_swedish`, `display_type_swedish`
+- Item 4023 "Unopened SynUp Cola" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_swedish`, `description_swedish`, `after_description_swedish`, `display_type_swedish`
+- Item 4024 "Roll of Vent Tape" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_swedish`, `description_swedish`, `after_description_swedish`, `display_type_swedish`
+- Item 4025 "Isotopes" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_swedish`, `description_swedish`, `after_description_swedish`, `display_type_swedish`
+- Item 4026 "Cryotic" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_swedish`, `description_swedish`, `after_description_swedish`, `display_type_swedish`
+- Item 1000 "Sarge's Suit" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_swedish`, `display_type_swedish`
+- Item 1001 "Wildcat's Suit" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_swedish`, `display_type_swedish`
+- Item 1002 "Faith's Suit" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_swedish`, `display_type_swedish`
+- Item 1003 "Crash's Suit" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_swedish`, `display_type_swedish`
+- Item 1004 "Jaeger's Suit" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_swedish`, `display_type_swedish`
+- Item 1005 "Wolfe's Suit" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_swedish`, `display_type_swedish`
+- Item 1006 "Bastille's Suit" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_swedish`, `display_type_swedish`
+- Item 1007 "Vegas's Suit" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_swedish`, `display_type_swedish`
+- Item 2000 "22A3-1 Assault Rifle" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_swedish`
+- Item 2001 "22A7-Z Prototype Assault Rifle" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_swedish`
+- Item 2002 "S23A SynTek Autogun" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_swedish`
+- Item 2003 "M42 Vindicator" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_swedish`
+- Item 2004 "M73 Twin Pistols" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_swedish`
+- Item 2005 "IAF Advanced Sentry Gun" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_swedish`
+- Item 2006 "IAF Heal Beacon" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_swedish`
+- Item 2007 "IAF Ammo Satchel" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_swedish`
+- Item 2008 "Model 35 Pump-action Shotgun" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_swedish`
+- Item 2009 "IAF Tesla Cannon" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_swedish`
+- Item 2010 "Precision Rail Rifle" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_swedish`
+- Item 2011 "IAF Medical Gun" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_swedish`
+- Item 2012 "K80 Personal Defense Weapon" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_swedish`
+- Item 2013 "M868 Flamer Unit" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_swedish`
+- Item 2014 "IAF Freeze Sentry Gun" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_swedish`
+- Item 2015 "IAF Minigun" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_swedish`
+- Item 2016 "AVK-36 Marksman Rifle" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_swedish`
+- Item 2017 "IAF Incendiary Sentry Gun" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_swedish`
+- Item 2018 "Chainsaw" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_swedish`
+- Item 2019 "IAF High Velocity Sentry Cannon" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_swedish`
+- Item 2020 "Grenade Launcher" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_swedish`
+- Item 2021 "PS50 Bulldog" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_swedish`, `description_swedish`, `display_type_swedish`
+- Item 2022 "IAF HAS42 Devastator" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_swedish`, `description_swedish`, `display_type_swedish`
+- Item 2023 "22A4-2 Combat Rifle" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_swedish`, `description_swedish`, `display_type_swedish`
+- Item 2024 "IAF Medical Amplifier Gun" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_swedish`, `description_swedish`, `display_type_swedish`
+- Item 2025 "22A5 Heavy Assault Rifle" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_swedish`, `description_swedish`, `display_type_swedish`
+- Item 2026 "IAF Medical SMG" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_swedish`, `description_swedish`, `display_type_swedish`
+- Item 3000 "IAF Personal Healing Kit" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_swedish`
+- Item 3001 "Hand Welder" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_swedish`
+- Item 3002 "SM75 Combat Flares" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_swedish`
+- Item 3003 "ML30 Laser Trip Mine" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_swedish`
+- Item 3004 "L3A Tactical Heavy Armor" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_swedish`
+- Item 3005 "X-33 Damage Amplifier" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_swedish`
+- Item 3006 "Hornet Barrage" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_swedish`
+- Item 3007 "CR-18 Freeze Grenades" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_swedish`, `display_type_swedish`
+- Item 3008 "Adrenaline" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_swedish`
+- Item 3009 "IAF Tesla Sentry Coil" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_swedish`
+- Item 3010 "v45 Electric Charged Armor" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_swedish`
+- Item 3011 "M478 Proximity Incendiary Mines" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_swedish`
+- Item 3012 "Flashlight Attachment" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_swedish`
+- Item 3013 "IAF Power Fist Attachment" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_swedish`
+- Item 3014 "FG-01 Hand Grenades" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_swedish`, `display_type_swedish`
+- Item 3015 "MNV34 Nightvision Goggles" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_swedish`
+- Item 3016 "MTD6 Smart Bomb" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `display_type_swedish`
+- Item 3017 "TG-05 Gas Grenades" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_swedish`, `description_swedish`, `display_type_swedish`
+- Item 5000 "Missions" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_swedish`, `accessory_description_swedish`, `display_type_swedish`
+- Item 5001 "Successful Missions" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_swedish`, `accessory_description_swedish`, `display_type_swedish`
+- Item 5002 "Aliens Killed" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_swedish`, `accessory_description_swedish`, `display_type_swedish`
+- Item 5003 "Healing" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_swedish`, `accessory_description_swedish`, `display_type_swedish`
+- Item 5004 "Fast Hacks" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_swedish`, `accessory_description_swedish`, `display_type_swedish`
+- Item 5005 "Enemies Frozen" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_swedish`, `accessory_description_swedish`, `display_type_swedish`
+- Item 5006 "Allies Extinguished" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_swedish`, `accessory_description_swedish`, `display_type_swedish`
+- Item 5007 "Alien Kill Streak" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_swedish`, `accessory_description_swedish`, `display_type_swedish`
+- Item 5008 "Infestations Cured" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_swedish`, `accessory_description_swedish`, `display_type_swedish`
+- Item 900000000 "Ben Lubar" in [item-schema-unique.json](community/inventory_service/item-schema-unique.json) is missing `name_swedish`
+- Item 900000001 "The Gauntlet: Arctic (#BossFight2023 Winner)" in [item-schema-unique.json](community/inventory_service/item-schema-unique.json) is missing `name_swedish`, `description_swedish`, `display_type_swedish`
+
+</details>
+
+<details><summary>
+
 ## ukrainian (українська)
 
 </summary>
@@ -2994,11 +3285,6 @@
 - [app_items_563560_ukrainian.json](community/points_shop/app_items_563560_english.json) is missing.
 - [workshop_tags_ukrainian.json](community/workshop/workshop_tags_english.json) is missing.
 - [content_warning_563560_ukrainian.txt](store_page/content_warning_563560_english.txt) is missing.
-
-### Upcoming Release Notes
-
-- [20231101_ukrainian.xml](release_notes/20231101_english.xml) is missing.
-- [20231107_ukrainian.xml](release_notes/20231107_english.xml) is missing.
 
 ### Credits
 
@@ -3325,18 +3611,10 @@
 
 ### Strings
 
-- [statsweb_vietnamese.vdf](community/stats_website/statsweb_vietnamese.vdf) has 200 untranslated strings.
-- [platform/servers/serverbrowser_vietnamese.txt](platform/servers/serverbrowser_vietnamese.txt) has 186 untranslated strings.
 - [basemodui_vietnamese.txt](resource/basemodui_vietnamese.txt) has 1255 untranslated strings.
 - [closecaption_vietnamese.txt](resource/closecaption_vietnamese.txt) has 2004 untranslated strings.
 - [gameui_vietnamese.txt](resource/gameui_vietnamese.txt) has 628 untranslated strings.
 - [reactivedrop_vietnamese.txt](resource/reactivedrop_vietnamese.txt) has 3260 untranslated strings.
-- [valve_vietnamese.txt](resource/valve_vietnamese.txt) has 138 untranslated strings.
-
-### Upcoming Release Notes
-
-- [20231101_vietnamese.xml](release_notes/20231101_english.xml) is missing.
-- [20231107_vietnamese.xml](release_notes/20231107_english.xml) is missing.
 
 ### Mail and News
 
@@ -3455,83 +3733,6 @@
 
 ### Inventory Schema
 
-- Item 1 "Participant - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_vietnamese`, `briefing_name_vietnamese`, `description_vietnamese`, `display_type_vietnamese`
-- Item 2 "Elite - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_vietnamese`, `briefing_name_vietnamese`, `description_vietnamese`, `display_type_vietnamese`
-- Item 3 "Trick Hat" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_vietnamese`, `briefing_name_vietnamese`, `description_vietnamese`, `display_type_vietnamese`
-- Item 4 "Elite - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_vietnamese`, `briefing_name_vietnamese`, `description_vietnamese`, `display_type_vietnamese`
-- Item 5 "Elite - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_vietnamese`, `briefing_name_vietnamese`, `description_vietnamese`, `display_type_vietnamese`
-- Item 6 "Elite - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_vietnamese`, `briefing_name_vietnamese`, `description_vietnamese`, `display_type_vietnamese`
-- Item 13 "Beta Tester" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_vietnamese`, `briefing_name_vietnamese`, `description_vietnamese`, `display_type_vietnamese`
-- Item 15 "Top 20 - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_vietnamese`, `briefing_name_vietnamese`, `description_vietnamese`, `display_type_vietnamese`
-- Item 16 "Jacob's Rest Veteran" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_vietnamese`, `description_vietnamese`, `display_type_vietnamese`
-- Item 17 "Area 9800 Veteran" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_vietnamese`, `description_vietnamese`, `display_type_vietnamese`
-- Item 18 "Operation Cleansweep Veteran" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_vietnamese`, `description_vietnamese`, `display_type_vietnamese`
-- Item 19 "Lana's Escape Veteran" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_vietnamese`, `description_vietnamese`, `display_type_vietnamese`
-- Item 20 "Paranoia Veteran" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_vietnamese`, `description_vietnamese`, `display_type_vietnamese`
-- Item 21 "Research 7 Veteran" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_vietnamese`, `description_vietnamese`, `display_type_vietnamese`
-- Item 22 "Tears for Tarnor Veteran" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_vietnamese`, `description_vietnamese`, `display_type_vietnamese`
-- Item 23 "Tilarus-5 Veteran" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_vietnamese`, `description_vietnamese`, `display_type_vietnamese`
-- Item 24 "BioGen Corporation Veteran" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_vietnamese`, `description_vietnamese`, `display_type_vietnamese`
-- Item 25 "Nam Humanum Veteran" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_vietnamese`, `description_vietnamese`, `display_type_vietnamese`
-- Item 26 "Accident 32 Veteran" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_vietnamese`, `description_vietnamese`, `display_type_vietnamese`
-- Item 27 "Adanaxis Veteran" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_vietnamese`, `description_vietnamese`, `display_type_vietnamese`
-- Item 28 "Priority Number One" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_vietnamese`, `description_vietnamese`, `display_type_vietnamese`
-- Item 30 "Participant - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_vietnamese`, `briefing_name_vietnamese`, `description_vietnamese`, `before_description_vietnamese`, `display_type_vietnamese`, `style_0_name_vietnamese`
-- Item 31 "Elite - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_vietnamese`, `briefing_name_vietnamese`, `description_vietnamese`, `before_description_vietnamese`, `display_type_vietnamese`, `style_0_name_vietnamese`, `style_1_name_vietnamese`
-- Item 32 "Elite - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_vietnamese`, `briefing_name_vietnamese`, `description_vietnamese`, `before_description_vietnamese`, `display_type_vietnamese`, `style_0_name_vietnamese`, `style_1_name_vietnamese`
-- Item 33 "Elite - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_vietnamese`, `briefing_name_vietnamese`, `description_vietnamese`, `before_description_vietnamese`, `display_type_vietnamese`, `style_0_name_vietnamese`, `style_1_name_vietnamese`
-- Item 34 "Elite - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_vietnamese`, `briefing_name_vietnamese`, `description_vietnamese`, `before_description_vietnamese`, `display_type_vietnamese`, `style_0_name_vietnamese`, `style_1_name_vietnamese`
-- Item 35 "Top 20 - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_vietnamese`, `briefing_name_vietnamese`, `description_vietnamese`, `before_description_vietnamese`, `display_type_vietnamese`, `style_0_name_vietnamese`, `style_1_name_vietnamese`, `style_2_name_vietnamese`
-- Item 36 "Top 20 - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_vietnamese`, `briefing_name_vietnamese`, `description_vietnamese`, `before_description_vietnamese`, `display_type_vietnamese`, `style_0_name_vietnamese`, `style_1_name_vietnamese`, `style_2_name_vietnamese`
-- Item 37 "Top 20 - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_vietnamese`, `briefing_name_vietnamese`, `description_vietnamese`, `before_description_vietnamese`, `display_type_vietnamese`, `style_0_name_vietnamese`, `style_1_name_vietnamese`, `style_2_name_vietnamese`
-- Item 38 "Top 20 - Heroes of the Interstellar Armed Forces" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_vietnamese`, `briefing_name_vietnamese`, `description_vietnamese`, `before_description_vietnamese`, `display_type_vietnamese`, `style_0_name_vietnamese`, `style_1_name_vietnamese`, `style_2_name_vietnamese`
-- Item 40 "Steam SHMUP Fest 2023" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_vietnamese`, `description_vietnamese`, `display_type_vietnamese`
-- Item 41 "Reduction Veteran" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_vietnamese`, `description_vietnamese`, `display_type_vietnamese`
-- Item 42 "Air Time" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_vietnamese`, `description_vietnamese`, `display_type_vietnamese`
-- Item 7 "Translator" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_vietnamese`, `description_vietnamese`, `display_type_vietnamese`
-- Item 8 "Programmer" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_vietnamese`, `description_vietnamese`, `display_type_vietnamese`
-- Item 9 "Mapper" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_vietnamese`, `description_vietnamese`, `display_type_vietnamese`
-- Item 10 "Challenger" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_vietnamese`, `description_vietnamese`, `display_type_vietnamese`
-- Item 11 "Guide" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_vietnamese`, `description_vietnamese`, `display_type_vietnamese`
-- Item 12 "Artist" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_vietnamese`, `description_vietnamese`, `display_type_vietnamese`
-- Item 14 "Reporter" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_vietnamese`, `description_vietnamese`, `display_type_vietnamese`
-- Item 29 "Streamer" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_vietnamese`, `description_vietnamese`, `display_type_vietnamese`
-- Item 39 "Mapping Competition Participant (2023)" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_vietnamese`, `description_vietnamese`, `display_type_vietnamese`
-- Item 100000000 "Donor: Tears for Tarnor" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_vietnamese`, `description_vietnamese`, `ingame_description_vietnamese`, `after_description_vietnamese`, `display_type_vietnamese`
-- Item 100000001 "Donor: Paranoia" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_vietnamese`, `description_vietnamese`, `ingame_description_vietnamese`, `after_description_vietnamese`, `display_type_vietnamese`
-- Item 100000002 "Donor: Lana's Escape" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_vietnamese`, `description_vietnamese`, `ingame_description_vietnamese`, `after_description_vietnamese`, `display_type_vietnamese`
-- Item 100000003 "Donor: Operation Cleansweep" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_vietnamese`, `description_vietnamese`, `ingame_description_vietnamese`, `after_description_vietnamese`, `display_type_vietnamese`
-- Item 100000004 "Donor: Research 7" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_vietnamese`, `description_vietnamese`, `ingame_description_vietnamese`, `after_description_vietnamese`, `display_type_vietnamese`
-- Item 100000005 "Donor: Area 9800" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_vietnamese`, `description_vietnamese`, `ingame_description_vietnamese`, `after_description_vietnamese`, `display_type_vietnamese`
-- Item 100000006 "Donor: BioGen Corporation" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_vietnamese`, `description_vietnamese`, `ingame_description_vietnamese`, `after_description_vietnamese`, `display_type_vietnamese`
-- Item 100000007 "Donor: Nam Humanum" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_vietnamese`, `description_vietnamese`, `ingame_description_vietnamese`, `after_description_vietnamese`, `display_type_vietnamese`
-- Item 100000008 "Donor: Accident 32" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_vietnamese`, `description_vietnamese`, `ingame_description_vietnamese`, `after_description_vietnamese`, `display_type_vietnamese`
-- Item 100000009 "Donor: Adanaxis" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_vietnamese`, `description_vietnamese`, `ingame_description_vietnamese`, `after_description_vietnamese`, `display_type_vietnamese`
-- Item 100000010 "Donor: Dmitriy" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_vietnamese`, `description_vietnamese`, `ingame_description_vietnamese`, `after_description_vietnamese`, `display_type_vietnamese`
-- Item 100000011 "Donor: Ben Lubar" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_vietnamese`, `description_vietnamese`, `ingame_description_vietnamese`, `after_description_vietnamese`, `display_type_vietnamese`
-- Item 100000012 "Donor: Rayman1103" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_vietnamese`, `description_vietnamese`, `ingame_description_vietnamese`, `after_description_vietnamese`, `display_type_vietnamese`
-- Item 100000013 "Donor: Mithrand" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_vietnamese`, `description_vietnamese`, `ingame_description_vietnamese`, `after_description_vietnamese`, `display_type_vietnamese`
-- Item 100000014 "Donor: Ax-now" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_vietnamese`, `description_vietnamese`, `ingame_description_vietnamese`, `after_description_vietnamese`, `display_type_vietnamese`
-- Item 100000015 "Donor: Beka" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_vietnamese`, `description_vietnamese`, `ingame_description_vietnamese`, `after_description_vietnamese`, `display_type_vietnamese`
-- Item 100000016 "Donor: mfz" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_vietnamese`, `description_vietnamese`, `ingame_description_vietnamese`, `after_description_vietnamese`, `display_type_vietnamese`
-- Item 100000017 "Donor: Grace Lovelace" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_vietnamese`, `description_vietnamese`, `ingame_description_vietnamese`, `after_description_vietnamese`, `display_type_vietnamese`
-- Item 100000018 "Donor: Stargate75" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_vietnamese`, `description_vietnamese`, `ingame_description_vietnamese`, `after_description_vietnamese`, `display_type_vietnamese`
-- Item 100000019 "Donor: hangumi" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_vietnamese`, `description_vietnamese`, `ingame_description_vietnamese`, `after_description_vietnamese`, `display_type_vietnamese`
-- Item 100000020 "Donor: YOJIMBO" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_vietnamese`, `description_vietnamese`, `ingame_description_vietnamese`, `after_description_vietnamese`, `display_type_vietnamese`
-- Item 100000021 "Donor: QuantumRipple" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_vietnamese`, `description_vietnamese`, `ingame_description_vietnamese`, `after_description_vietnamese`, `display_type_vietnamese`
-- Item 100000022 "Donor: __NAME__" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_vietnamese`, `description_vietnamese`, `ingame_description_vietnamese`, `after_description_vietnamese`, `display_type_vietnamese`
-- Item 100000023 "Donor: __NAME__" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_vietnamese`, `description_vietnamese`, `ingame_description_vietnamese`, `after_description_vietnamese`, `display_type_vietnamese`
-- Item 100000024 "Donor: Duke M" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_vietnamese`, `description_vietnamese`, `ingame_description_vietnamese`, `after_description_vietnamese`, `display_type_vietnamese`
-- Item 100000025 "Donor: Deerlord" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_vietnamese`, `description_vietnamese`, `ingame_description_vietnamese`, `after_description_vietnamese`, `display_type_vietnamese`
-- Item 100000026 "Donor: Blueberry" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_vietnamese`, `description_vietnamese`, `ingame_description_vietnamese`, `after_description_vietnamese`, `display_type_vietnamese`
-- Item 100000027 "Donor: MakinDay" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_vietnamese`, `description_vietnamese`, `ingame_description_vietnamese`, `after_description_vietnamese`, `display_type_vietnamese`
-- Item 100000028 "Donor: Steffo" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_vietnamese`, `description_vietnamese`, `ingame_description_vietnamese`, `after_description_vietnamese`, `display_type_vietnamese`
-- Item 100000029 "Donor: trick-master" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_vietnamese`, `description_vietnamese`, `ingame_description_vietnamese`, `after_description_vietnamese`, `display_type_vietnamese`
-- Item 100000030 "Donor: Efi" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_vietnamese`, `description_vietnamese`, `ingame_description_vietnamese`, `after_description_vietnamese`, `display_type_vietnamese`
-- Item 100000031 "Donor: AutoGavy" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_vietnamese`, `description_vietnamese`, `ingame_description_vietnamese`, `after_description_vietnamese`, `display_type_vietnamese`
-- Item 100000032 "Donor: __NAME__" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_vietnamese`, `description_vietnamese`, `ingame_description_vietnamese`, `after_description_vietnamese`, `display_type_vietnamese`
-- Item 100000033 "Donor: __NAME__" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_vietnamese`, `description_vietnamese`, `ingame_description_vietnamese`, `after_description_vietnamese`, `display_type_vietnamese`
-- Item 100000034 "Donor: TheScientist" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_vietnamese`, `description_vietnamese`, `ingame_description_vietnamese`, `after_description_vietnamese`, `display_type_vietnamese`
 - Item 4002 "Scrap Metal" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_vietnamese`, `description_vietnamese`, `after_description_vietnamese`, `display_type_vietnamese`
 - Item 4003 "Electrical Components" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_vietnamese`, `description_vietnamese`, `after_description_vietnamese`, `display_type_vietnamese`
 - Item 4004 "Spare Pipe" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_vietnamese`, `description_vietnamese`, `after_description_vietnamese`, `display_type_vietnamese`
@@ -3610,15 +3811,6 @@
 - Item 3015 "MNV34 Nightvision Goggles" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_vietnamese`, `description_vietnamese`, `display_type_vietnamese`
 - Item 3016 "MTD6 Smart Bomb" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_vietnamese`, `description_vietnamese`, `display_type_vietnamese`
 - Item 3017 "TG-05 Gas Grenades" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_vietnamese`, `description_vietnamese`, `display_type_vietnamese`
-- Item 5000 "Missions" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_vietnamese`, `accessory_description_vietnamese`, `display_type_vietnamese`
-- Item 5001 "Successful Missions" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_vietnamese`, `accessory_description_vietnamese`, `display_type_vietnamese`
-- Item 5002 "Aliens Killed" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_vietnamese`, `accessory_description_vietnamese`, `display_type_vietnamese`
-- Item 5003 "Healing" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_vietnamese`, `accessory_description_vietnamese`, `display_type_vietnamese`
-- Item 5004 "Fast Hacks" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_vietnamese`, `accessory_description_vietnamese`, `display_type_vietnamese`
-- Item 5005 "Enemies Frozen" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_vietnamese`, `accessory_description_vietnamese`, `display_type_vietnamese`
-- Item 5006 "Allies Extinguished" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_vietnamese`, `accessory_description_vietnamese`, `display_type_vietnamese`
-- Item 5007 "Alien Kill Streak" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_vietnamese`, `accessory_description_vietnamese`, `display_type_vietnamese`
-- Item 5008 "Infestations Cured" in [item-schema-strange-tags.json](community/inventory_service/item-schema-strange-tags.json) is missing `name_vietnamese`, `accessory_description_vietnamese`, `display_type_vietnamese`
 
 </details>
 
@@ -3636,6 +3828,5 @@ These languages have not been substantially updated since the start of the React
 - indonesian (Indonesia)
 - norwegian (norsk bokmål)
 - romanian (română)
-- swedish (svenska)
 - thai (ไทย)
 - turkish (Türkçe)
