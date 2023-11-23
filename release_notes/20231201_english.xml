@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<content><string id="body">[h2]Menus[/h2]
+We're testing the new main menu layout that will be officially launching on April 20, 2024.
+[list]
+[*]The main menu has been redesigned, with information about the current Heroes of the Interstellar Armed Forces season, recent major updates, and trending Steam Workshop addons.
+[*]To revert to the previous layout, enter the console command [b]rd_legacy_ui 2017; host_writeconfig[/b]. This console command will continue to work after the new UI officially launches.
+[*]Fixed the 2024 main menu partially showing up when rd_legacy_ui 2017 is set and the resolution is changed without closing the game.
+[*]Lobby filters have returned in the form of convars (UI coming soon): See [b]cvarlist rd_lobby_filter_[/b] for a list.[expand type=details][code]
+cvar list
+--------------
+rd_lobby_filter_always_friends           : 1        : , "a", "cl"      : always show lobbies with Steam friends in them
+rd_lobby_filter_challenge                : -1       : , "a", "cl"      : challenge preference for searched lobbies. -1=don't care, 0=only off, 1=only on
+rd_lobby_filter_dedicated                : -1       : , "a", "cl"      : dedicated server preference for searched lobbies. -1=don't care, 0=only listen, 1=only dedicated
+rd_lobby_filter_difficulty_max           : 5        : , "a", "cl"      : maximum difficulty for searched lobbies. 1=easy,2=normal,3=hard,4=insane,5=brutal
+rd_lobby_filter_difficulty_min           : 1        : , "a", "cl"      : minimum difficulty for searched lobbies. 1=easy,2=normal,3=hard,4=insane,5=brutal
+rd_lobby_filter_distance                 : 3        : , "a", "cl"      : maximum distance for player-hosted lobbies. does not affect lobbies on dedicated servers. 0=only own region, 1=nearby regions, 
+rd_lobby_filter_hardcoreff               : -1       : , "a", "cl"      : hardcore friendly fire preference for searched lobbies. -1=don't care, 0=only off, 1=only on
+rd_lobby_filter_installed                : -1       : , "a", "cl"      : installed mission preference for searched lobbies. -1=don't care, 0=only non-installed or version mismatch, 1=only installed
+rd_lobby_filter_onslaught                : -1       : , "a", "cl"      : onslaught preference for searched lobbies. -1=don't care, 0=only off, 1=only on
+--------------
+  9 convars/concommands for [rd_lobby_filter_][/code][/expand]
+[*]The public lobby count on the main menu no longer includes lobbies on dedicated servers.
+[*]Fixed the server list in the lobby browser being empty on the first refresh.
+[*]Fixed dedicated servers showing as separate entries in the lobby browser from the lobby made on the dedicated server.
+[*]Fixed wire hacks being interrupted if another tech started hacking.
+[/list]
+
+[h2]Controller[/h2]
+[list]
+[*]Controllers should be recognized by the game even if it was started with no controllers plugged in.
+[*]Aiming with the mouse no longer changes button prompts to keyboard mode.
+[*]Pressing buttons on the keyboard or controller now changes button prompts. Mouse buttons do not affect button prompts (pressing a keyboard key will cause mouse button prompts to be displayed).
+[*]You can also controller aim while doing everything else with keyboard keys and mouse buttons if you want.
+[/list]
+
+[h2]Missions[/h2]
+[list]
+[*][b]Tears for Tarnor: Oasis Colony Spaceport:[/b] Fixed a ceiling remaining opaque between the hangar and the baggage claim when it was not intended to.
+[*][b]Reduction (all missions):[/b] Added music.
+[*][b]Reduction: Inevitable Escalation:[/b] Improved rendering quality of final cutscene. Fixed cutscene getting stuck when restarting the mission.
+[*][b]Reduction: Inevitable Escalation:[/b] Final cutscene no longer counts towards speedrun time and can be skipped.
+[*][b]Reduction: Inevitable Escalation:[/b] Fixed a soft lock if the marine operating the crane managed to die or teleport.
+[*][b]Reduction: Nuclear Escort:[/b] Fixed a client crash at the end of the mission related to models fading based on distance.
+[/list]
+
+[h2]Weapons[/h2]
+[list]
+[*][b]X-33 Damage Amplifier:[/b] Weapons that are not affected by the damage amplification now show a much more subtle beam effect.
+[*][b]X-33 Damage Amplifier:[/b] Fixed beam effect becoming attached to the marine instead of the weapon when swapping weapons while standing inside the beacon.
+[*][b]IAF Medical Gun:[/b] Added a subtle gun animation for healing.
+[*][b]IAF Medical Gun:[/b] Fixed screen staying retracted when equipped.
+[*][b]IAF Medical Gun:[/b] Fixed healing beam effect attaching to the marine's feet.
+[*][b]IAF Medical Gun:[/b] Added a visual effect for when the gun is searching for a target.
+[*][b]IAF Medical Gun:[/b] Fixed heal target glow not updating in first or third person.
+[*][b]IAF Medical Amplifier Gun:[/b] Applied changes from IAF Medical Gun and X-33 Damage Amplifier.
+[*][b]IAF Medical Amplifier Gun:[/b] Can no longer spend ammo amplifying weapons that do not benefit from the damage doubling effect.
+[*][b]IAF Medical SMG:[/b] Applied changes from IAF Medical Gun.
+[*][b]IAF Medical SMG:[/b] When self-healing in first or third person, aiming at another marine switches to healing them instead, to more closely match the behavior of other medic weapons when aiming at a marine after holding down the trigger.
+[*][b]Ricochet Rifle (unreleased):[/b] [expand type=details][list][*]Fixed dry fire sound playing repeatedly in shotgun fire mode.
+[*]Increased shotgun mode fire rate.
+[*]Improved accuracy of laser sight.
+[*]Increased maximum range.
+[*]Bullets now also bounce off of non-static objects.
+[*]Fixed bullets not bouncing off of ceilings and floors.[/list][/expand]
+[/list]
+
+[h3]Sentries[/h3]
+[list]
+[*]Added assembly, disassembly, and firing animations to all sentries.
+[*]Sentries now rotate up and down and the camera mounted on the sentry will aim where the sentry intends to turn to.
+[*]Cannon sentry now consumes grenades from its drum when firing.
+[*]Modded sentries without support for the new animations will look as they did before.
+[*]For modders: [expand type=details][list]
+[*]For reference, you can find the [url=https://github.com/ReactiveDrop/reactivedrop_public_src/tree/reactivedrop_beta/contentsrc/modelsrc/sentry_gun]model source files on GitHub[/url].
+[*]The default (idle) animation MUST be the first defined sequence on the model.
+[*]All pose parameters and animations listed below are optional; if it does not exist on the sentry top model, the animation will simply not play.
+[*]Added pose parameter aim_pitch, which ranges from 45 (up) to -45 (down) (or -90; see below). When the sentry is being assembled, this starts at -30.
+[*]Added pose parameter aim_yaw, which ranges from 120 (camera aiming far left) to -120 (camera aiming far right).
+[*]Added pose parameter ammo_remaining, which ranges from 0 to 999999 (although your model should probably limit this range more). Mapper-placed sentries that have infinite ammo receive 999999 for this pose parameter. This pose parameter changes at the [i]end[/i] of the firing animation if the firing animation does not loop. For player-placed sentries, the maximum ammo_remaining value is 450 for Advanced, 1200 for Incendiary, 800 for Freeze, and 40 for Cannon.
+[*]Assembling the sentry uses the ACT_OBJ_ASSEMBLING activity; if this activity does not exist on the model, the sentry top will not render during assembly. The duration of this sequence does not matter; the animation will be played starting at 0% assembly and ending at 100% assembly.
+[*]When the sentry fires, it uses the ACT_OBJ_RUNNING activity. For the Incendiary and Freeze sentries, this sequence should be looped. For other sentries, this animation runs once per shot. When the sentry is not firing, it returns to its first sequence, which should be the idle state.
+[*]Disassembling a sentry changes its aim_pitch from 0 to -90 based on the disassembly progress. If the sentry is firing while being disassembled, it aims at the enemy as normal.
+[/list][/expand]
+[*]Advanced and Incendiary sentries no longer rotate towards the center of their range 
+[*]Incendiary sentry now has a visible pilot light.
+[*]Incendiary and Freeze sentries now turn 3x faster when rotating towards an enemy as originally intended.
+[*]Cannon sentry now attempts to lead targets that are running in a straight line.
+[/list]
+
+[h2]Aliens[/h2]
+[list]
+[*]Boomer blobs are now affected by melee attacks. Added the related convars rd_vindicator_grenade_pushed_by_explosions, rd_boomer_blob_pushed_by_everything, rd_boomer_blob_punch_force_multiplier, and rd_boomer_blob_push_force_multiplier.
+[*]Updated the Queen model to more closely match the art style of other aliens.
+[/list]
+
+[h2]Deathmatch[/h2]
+[list]
+[*]Added the "Infection" team deathmatch challenge to the official challenge list, including first- and third-person variants.
+[/list]
+
+[h2]Modding[/h2]
+[list]
+[*]Added rd_map_texture entity, which can draw an arbitrary material over the minimap. Can be rotated, enabled, and disabled.
+[*]Fixed env_screenoverlay getting stuck on instant restart or when the entity is killed.
+[*]Fixed marines being able to roll, melee, or shoot while fully frozen.
+[*]Added a Thaw script function to inhabitable NPCs.
+[*]Added a global Deathmatch object for VScript. [expand type=details][list]
+[*]int [b]TEAM_UNASSIGNED[/b]
+[*]int [b]TEAM_SPECTATOR[/b]
+[*]int [b]TEAM_ALPHA[/b]
+[*]int [b]TEAM_BETA[/b]
+[*]void [b]Deathmatch.ResetScores[/b]()
+[*]int [b]Deathmatch.GetKills[/b](handle MarineOrResource)
+[*]void [b]Deathmatch.SetKills[/b](handle MarineOrResource, int Kills)
+[*]int [b]Deathmatch.GetDeaths[/b](handle MarineOrResource)
+[*]void [b]Deathmatch.SetDeaths[/b](handle MarineOrResource, int Deaths)
+[*]int [b]Deathmatch.GetTeamScore[/b](int TeamNumber)
+[*]void [b]Deathmatch.SetTeamScore[/b](int TeamNumber, int Score)
+[*]bool [b]Deathmatch.CheckFragLimit[/b](handle MarineOrResource) - returns true if the round is over.
+[*]void [b]Deathmatch.ResetKillingSpree[/b](handle MarineOrResource)
+[*]void [b]Deathmatch.IncreaseKillingSpree[/b](handle MarineOrResource)
+[*]int [b]Deathmatch.GetKillingSpree[/b](handle MarineOrResource)
+[/list][/expand]
+[*]Fixed the weapon_reload game event not being sent for weapons with 1 shot per reload (Precision Rail Rifle).
+[*]Improved the MarineFinishedMission input on asw_gamerules:[list]
+[*]Can now handle both marines and marine resources (if you want to mark all marines, dead or alive, as having finished the mission early, you can use [b]asw_marine_resource[/b] as the input parameter.
+[*]Now properly handles keywords like !activator and !caller.
+[*]Now affects speedrun times for achievements and experience.
+[/list]
+[/list]</string><string id="subtitle"></string><string id="summary"></string><string id="title">Alien Swarm: Reactive Drop Update - December 1, 2023</string></content>
