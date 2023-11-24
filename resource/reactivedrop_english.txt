@@ -5149,5 +5149,22 @@
 "rd_compass_south_short"	"S"
 "rd_compass_east_short"	"E"
 "rd_compass_west_short"	"W"
+
+"asw_infection"	"Infection"
+"asw_infection_fp"	"Infection First Person"
+"asw_infection_tp"	"Infection Third Person"
+"asw_infection_desc"	"Human team wins by surviving. Zombie team wins by infecting all human players."
+"asw_infection_credit_script"	"Challenge Script by ModdedMarionette"
+"asw_infection_credit_model"	"Custom Zombie Models by Beka"
+"asw_infection_waiting"	"Waiting for Players..."
+"asw_infection_newRound"	"New round begins..."
+"asw_infection_infected"	"%s1 was infected by %s2."
+"asw_infection_lastStand_on"	"Last Stand mode is now available to the Humans."
+"asw_infection_lastStand_key"	"Hold Melee key to activate Last Stand mode"
+"asw_infection_lastStand_used"	"%s1 activated Last Stand mode."
+"asw_infection_lastStand_timeAdd"	"+60 seconds to the match timer."
+"asw_infection_win_human"	"Humans win!"
+"asw_infection_win_zombie"	"Zombies win!"
+"asw_infection_survivors"	"Survivors: %s1."
 }
 }
