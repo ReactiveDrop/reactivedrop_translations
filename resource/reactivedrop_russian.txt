@@ -9443,7 +9443,7 @@
 "[english]asw_infection_lastStand_key"		"Hold Melee key to activate Last Stand mode"
 "asw_infection_lastStand_used"		"%s1 включает режим последнего рубежа."
 "[english]asw_infection_lastStand_used"		"%s1 activated Last Stand mode."
-"asw_infection_lastStand_timeAdd"		"+60 секунд ко времени матча."
+"asw_infection_lastStand_timeAdd"		"+60 секунд ко времени игры."
 "[english]asw_infection_lastStand_timeAdd"		"+60 seconds to the match timer."
 "asw_infection_win_human"		"Люди победили!"
 "[english]asw_infection_win_human"		"Humans win!"
