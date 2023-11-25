@@ -121,10 +121,12 @@ rd_lobby_filter_onslaught                : -1       : , "a", "cl"      : 按猛�
 [*]void [b]Deathmatch.IncreaseKillingSpree[/b](handle MarineOrResource)
 [*]int [b]Deathmatch.GetKillingSpree[/b](handle MarineOrResource)
 [/list][/expand]
+		[*]Added a method named GetMarineProfile to marines, which returns the marine's profile number. Use this if your script needs to do different things for different marines instead of relying on the entity name (GetName()) or the translated marine name (GetMarineName()). Returned values are currently between 0 and 7, or between ASW_MARINE_PROFILE_SARGE and ASW_MARINE_PROFILE_VEGAS if you are using the named constants (recommended).
 [*]修复 弹匣容量只有一发弹药的武器(精密型导轨步枪)无法发送 weapon_reload 游戏事件的问题。
 [*]改进 asw_gamerules 中的 MarineFinishedMission 输入：[list]
 [*]可以处理士兵和士兵资源(例如将所有士兵无论死活都标记为提前完成任务，则可以使用 [b]asw_marine_resource[/b] 作为输入参数。)
 [*]可以正确处理诸如 !activator 或 !caller 这样的关键词了。
 [*]影响速通成就时间和经验值。
 [/list]
+		[*]Added convar rd_debrief_timelines, which can be used to disable the timelines sent at the end of a mission. This can be used by challenges that support a high player count to reduce lag at the end of a mission.
 [/list]</string><string id="subtitle"></string><string id="summary"></string><string id="title">《异形丛生: 虫启天降》更新 - 2023年12月1日</string></content>

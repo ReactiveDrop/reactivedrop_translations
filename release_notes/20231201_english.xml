@@ -121,10 +121,12 @@ rd_lobby_filter_onslaught                : -1       : , "a", "cl"      : onslaug
 [*]void [b]Deathmatch.IncreaseKillingSpree[/b](handle MarineOrResource)
 [*]int [b]Deathmatch.GetKillingSpree[/b](handle MarineOrResource)
 [/list][/expand]
+[*]Added a method named GetMarineProfile to marines, which returns the marine's profile number. Use this if your script needs to do different things for different marines instead of relying on the entity name (GetName()) or the translated marine name (GetMarineName()). Returned values are currently between 0 and 7, or between ASW_MARINE_PROFILE_SARGE and ASW_MARINE_PROFILE_VEGAS if you are using the named constants (recommended).
 [*]Fixed the weapon_reload game event not being sent for weapons with 1 shot per reload (Precision Rail Rifle).
 [*]Improved the MarineFinishedMission input on asw_gamerules:[list]
-[*]Can now handle both marines and marine resources (if you want to mark all marines, dead or alive, as having finished the mission early, you can use [b]asw_marine_resource[/b] as the input parameter.
+[*]Can now handle both marines and marine resources (if you want to mark all marines, dead or alive, as having finished the mission early, you can use [b]asw_marine_resource[/b] as the input parameter.)
 [*]Now properly handles keywords like !activator and !caller.
 [*]Now affects speedrun times for achievements and experience.
 [/list]
+[*]Added convar rd_debrief_timelines, which can be used to disable the timelines sent at the end of a mission. This can be used by challenges that support a high player count to reduce lag at the end of a mission.
 [/list]</string><string id="subtitle"></string><string id="summary"></string><string id="title">Alien Swarm: Reactive Drop Update - December 1, 2023</string></content>
