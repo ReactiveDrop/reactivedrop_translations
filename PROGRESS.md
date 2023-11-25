@@ -1,7 +1,7 @@
 # Overview
 | Language | basemodui | closecaption | gameui | reactivedrop | statsweb | Strings | Inventory | Files |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
+| [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 1 |
 | [Traditional Chinese](#tchinese-繁體中文) | 9 | 140 | 33 | 2811 | 200 | 236 | 554 | 146 |
 | [Czech](#czech-čeština) | 71 | 1810 | 42 | 3944 | 200 | 980 | 624 | 146 |
 | [Danish](#non-curated-languages) | 52 | 231 | 42 | 3472 | 200 | 710 | 619 | 147 |
@@ -11,7 +11,7 @@
 | [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | 16 | ✔️ | ✔️ | ✔️ | 1 |
 | [Hungarian](#non-curated-languages) | 51 | 138 | 42 | 2940 | 200 | 975 | 556 | 147 |
 | [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | 16 | ✔️ | ✔️ | ✔️ | 1 |
-| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 103 | ✔️ | ✔️ |
+| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 103 | ✔️ | 1 |
 | [Korean](#koreana-한국어) | 7 | 10 | 38 | 1436 | 22 | 441 | 542 | 48 |
 | [Norwegian Bokmål](#non-curated-languages) | 69 | 708 | 47 | 3646 | 200 | 710 | 625 | 147 |
 | [Polish](#polish-polski) | 28 | 2004 | 42 | 2940 | 200 | 706 | 556 | 143 |
@@ -40,7 +40,9 @@
 
 </summary>
 
-✓ Up to date!
+### Upcoming Release Notes
+
+- [20231201_schinese.xml](release_notes/20231201_schinese.xml) has 2 indented lines.
 
 </details>
 
@@ -1120,6 +1122,10 @@
 - [addons/RiskOfRain/reactivedrop_japanese.txt](addons/RiskOfRain/resource/reactivedrop_japanese.txt) has 1 untranslated strings.
 - [misc/signage/signage_japanese.vdf](misc/signage/signage_japanese.vdf) has 67 untranslated strings.
 - [platform/vgui_japanese.txt](platform/vgui_japanese.txt) has 35 untranslated strings.
+
+### Upcoming Release Notes
+
+- [20231201_japanese.xml](release_notes/20231201_japanese.xml) has 2 indented lines.
 
 </details>
 
