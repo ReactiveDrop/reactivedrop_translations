@@ -4500,7 +4500,7 @@
 "[english]asw_weapon_healamp_gun_altfire"		"Damage Amplification"
 "asw_weapon_healamp_gun_attributes"		"移动时可治疗或强化"
 "[english]asw_weapon_healamp_gun_attributes"		"Mobile Healing and Amplification"
-"asw_wdesc_healamp_gun"		"这种实验版的IAF再生型治疗枪，可以将治疗电荷转化为电磁场，从而增强单个士兵的武器，增加子弹威力。 普通射击执行治疗，而辅助开火执行增强。"
+"asw_wdesc_healamp_gun"		"这种实验版的IAF再生型治疗枪，可以将治疗电荷转化为电磁场，从而增强单个士兵的武器，增加子弹威力。 普通射击执行治疗，而辅助开火执行增强。（看清楚！这把武器不是增强了治疗效果的医疗枪，也不是能一边治疗一边增强队友伤害的枪。它在同一时刻只能进行治疗或者提供伤害加成，二选一，而且它弹药量堪忧。总结起来就是，既要又要是行不通的，某国都做不到，你觉得你能？）"
 "[english]asw_wdesc_healamp_gun"		"This experimental version of the IAF regenerative healing gun can convert the healing charge into electromagnetic field which optimizes weapon of a single marine to fire rounds with increased impact force. Primary fire performs healing while alternate fire does amplification."
 "asw_weapon_50calmg"		"50CMG4-1"
 "[english]asw_weapon_50calmg"		"50CMG4-1"
