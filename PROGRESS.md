@@ -10,8 +10,8 @@
 | [French](#french-français) | 29 | 138 | 42 | 2305 | 200 | 650 | 542 | 125 |
 | [German](#german-deutsch) | 2 | ✔️ | ✔️ | 16 | ✔️ | ✔️ | ✔️ | 1 |
 | [Hungarian](#non-curated-languages) | 53 | 138 | 42 | 2940 | 200 | 975 | 556 | 147 |
-| [Italian](#italian-italiano) | 2 | ✔️ | ✔️ | 16 | ✔️ | ✔️ | ✔️ | 1 |
-| [Japanese](#japanese-日本語) | 2 | ✔️ | ✔️ | ✔️ | ✔️ | 103 | ✔️ | 1 |
+| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
+| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 103 | ✔️ | ✔️ |
 | [Korean](#koreana-한국어) | 9 | 10 | 38 | 1436 | 22 | 441 | 542 | 48 |
 | [Norwegian Bokmål](#non-curated-languages) | 71 | 708 | 47 | 3646 | 200 | 710 | 625 | 147 |
 | [Polish](#polish-polski) | 30 | 2004 | 42 | 2940 | 200 | 706 | 556 | 143 |
@@ -1102,14 +1102,7 @@
 
 </summary>
 
-### Strings
-
-- [basemodui_italian.txt](resource/basemodui_italian.txt) has 2 untranslated strings.
-- [reactivedrop_italian.txt](resource/reactivedrop_italian.txt) has 16 untranslated strings.
-
-### Upcoming Release Notes
-
-- [20231201_italian.xml](release_notes/20231201_english.xml) is missing.
+✓ Up to date!
 
 </details>
 
@@ -1124,11 +1117,6 @@
 - [addons/RiskOfRain/reactivedrop_japanese.txt](addons/RiskOfRain/resource/reactivedrop_japanese.txt) has 1 untranslated strings.
 - [misc/signage/signage_japanese.vdf](misc/signage/signage_japanese.vdf) has 67 untranslated strings.
 - [platform/vgui_japanese.txt](platform/vgui_japanese.txt) has 35 untranslated strings.
-- [basemodui_japanese.txt](resource/basemodui_japanese.txt) has 2 untranslated strings.
-
-### Upcoming Release Notes
-
-- [20231201_japanese.xml](release_notes/20231201_japanese.xml) has 2 indented lines.
 
 </details>
 
