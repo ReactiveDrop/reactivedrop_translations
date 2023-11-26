@@ -121,12 +121,12 @@ rd_lobby_filter_onslaught                : -1       : , "a", "cl"      : オン�
 [*]void [b]Deathmatch.IncreaseKillingSpree[/b](handle MarineOrResource)
 [*]int [b]Deathmatch.GetKillingSpree[/b](handle MarineOrResource)
 [/list][/expand]
-		[*]Added a method named GetMarineProfile to marines, which returns the marine's profile number. Use this if your script needs to do different things for different marines instead of relying on the entity name (GetName()) or the translated marine name (GetMarineName()). Returned values are currently between 0 and 7, or between ASW_MARINE_PROFILE_SARGE and ASW_MARINE_PROFILE_VEGAS if you are using the named constants (recommended).
+[*]海兵隊にGetMarineProfileというメソッドを追加。これは隊員のプロフィール番号を返す。エンティティ名(GetName())やローカライズ後の隊員名(GetMarineName())ではなく、どの隊員か次第で別の挙動になるスクリプトの判定に使える。返り値は現在0から7、もしくは名前付き定数を使用する場合(こちらを推奨)はASW_MARINE_PROFILE_SARGEからASW_MARINE_PROFILE_VEGASになる。
 [*]weapon_reloadゲームイベントが一発ごとにリロードする武器(高精度レールライフル)では送信されていなかったのをを修正。
 [*]asw_gamerulesのMarineFinishedMissionインプットを改善:[list]
 [*]隊員と隊員が持つもの両方を扱えるようになった(生死に関わらず全隊員をミッション完了したものとマークしたい場合、[b]asw_marine_resource[/b]をインプットパラメーターとして使用する)。
 [*]!activatorや!callerのようなキーワードを正常に扱えるようになった。
 [*]スピードラン実績の時間判定や経験値に影響するようになった。
 [/list]
-		[*]Added convar rd_debrief_timelines, which can be used to disable the timelines sent at the end of a mission. This can be used by challenges that support a high player count to reduce lag at the end of a mission.
+[*]コンソール変数rd_debrief_timelinesを追加。ミッション終了時に表示されるタイムラインを無効にできる。これにより多数のプレイヤーが参加できるになるチャレンジを使用したミッションの終了時に発生するラグを軽減できる。
 [/list]</string><string id="subtitle"></string><string id="summary"></string><string id="title">Alien Swarm: Reactive Dropアップデート - 2023年12月1日</string></content>
