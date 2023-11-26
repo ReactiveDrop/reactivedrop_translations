@@ -9429,7 +9429,7 @@
 "[english]asw_infection_desc"		"Human team wins by surviving. Zombie team wins by infecting all human players."
 "asw_infection_credit_script"		"Script della Sfida di ModdedMarionette"
 "[english]asw_infection_credit_script"		"Challenge Script by ModdedMarionette"
-"asw_infection_credit_model"		"Modelli di Zombi Personalizzati di Beka"
+"asw_infection_credit_model"		"Modelli degli Zombi Personalizzati di Beka"
 "[english]asw_infection_credit_model"		"Custom Zombie Models by Beka"
 "asw_infection_waiting"		"In attesa di giocatori..."
 "[english]asw_infection_waiting"		"Waiting for Players..."
