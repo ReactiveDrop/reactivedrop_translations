@@ -5,7 +5,7 @@
 [*]更新 重新设计了主界面样式。新界面将展示当季《星际武装部队英雄榜》信息、近期重大更新以及热门Steam创意工坊物品等内容。
 [*]欲回滚到旧的游戏界面，请在控制台输入 [b]rd_legacy_ui 2017; host_writeconfig[/b]。该命令在新界面正式退出后仍可用。
 [*]修复 当rd_legacy_ui 2017启用时2024版主界面在切换屏幕分辨率后短暂显示的错误。
-[*]更新 游戏大厅过滤器以控制台命令的形式回归(用户界面随后上线)，详见 [b]cvarlist rd_lobby_filter_[/b] 系列命令列表说明：[expand type=details][code]
+		[*]Lobby filters have returned, along with new convars: See [b]cvarlist rd_lobby_filter_[/b] for a list.[expand type=details][code]
 控制台命令列表
 --------------
 rd_lobby_filter_always_friends           : 1        : , "a", "cl"      : 始终显示Steam好友所在的游戏大厅

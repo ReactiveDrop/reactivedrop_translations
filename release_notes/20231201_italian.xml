@@ -5,7 +5,7 @@ Stiamo testando il nuovo layout del menu principale che sarà lanciato ufficialm
 [*]Il menu principale è stato rifatto, con informazioni sull'attuale stagione di Eroi delle Forze Armate Intergalattiche, sui recenti aggiornamenti principali e sugli addon di tendenza del Workshop di Steam.
 [*]Per tornare al layout precedente, inserire il comando [b]rd_legacy_ui 2017; host_writeconfig[/b] nella console. Questo comando per console continuerà a funzionare anche dopo il lancio ufficiale della nuova interfaccia utente.
 [*]Corretto il menu principale 2024 che appare parzialmente quando è impostato rd_legacy_ui 2017 e la risoluzione viene modificata senza chiudere il gioco.
-[*]I filtri delle lobby sono tornati sotto forma di convars (UI in arrivo): Vedere [b]cvarlist rd_lobby_filter_[/b] per un elenco.[expand type=details][code]
+		[*]Lobby filters have returned, along with new convars: See [b]cvarlist rd_lobby_filter_[/b] for a list.[expand type=details][code]
 cvar list
 --------------
 rd_lobby_filter_always_friends           : 1        : , "a", "cl"      : mostra sempre le lobby con gli amici di Steam al loro interno
