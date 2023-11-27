@@ -1,31 +1,31 @@
 # Overview
 | Language | basemodui | closecaption | gameui | reactivedrop | statsweb | Strings | Inventory | Files |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 1 |
-| [Traditional Chinese](#tchinese-繁體中文) | 9 | 140 | 33 | 2811 | 200 | 236 | 554 | 146 |
-| [Czech](#czech-čeština) | 71 | 1810 | 42 | 3944 | 200 | 980 | 624 | 146 |
-| [Danish](#non-curated-languages) | 52 | 231 | 42 | 3472 | 200 | 710 | 619 | 147 |
-| [Dutch](#non-curated-languages) | 51 | 2004 | 42 | 2940 | 200 | 710 | 556 | 146 |
-| [Finnish](#non-curated-languages) | 51 | 2004 | 42 | 2940 | 200 | 710 | 556 | 146 |
-| [French](#french-français) | 27 | 138 | 42 | 2305 | 200 | 650 | 542 | 125 |
-| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | 16 | ✔️ | ✔️ | ✔️ | 1 |
-| [Hungarian](#non-curated-languages) | 51 | 138 | 42 | 2940 | 200 | 975 | 556 | 147 |
-| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | 16 | ✔️ | ✔️ | ✔️ | 1 |
-| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 103 | ✔️ | ✔️ |
-| [Korean](#koreana-한국어) | 7 | 10 | 38 | 1436 | 22 | 441 | 542 | 48 |
-| [Norwegian Bokmål](#non-curated-languages) | 69 | 708 | 47 | 3646 | 200 | 710 | 625 | 147 |
-| [Polish](#polish-polski) | 28 | 2004 | 42 | 2940 | 200 | 706 | 556 | 143 |
-| [European Portuguese](#portuguese-português-europeu) | ✔️ | 180 | 32 | 2028 | 21 | 628 | 565 | 141 |
-| [Brazilian Portuguese](#brazilian-português) | 2 | 2004 | 32 | 1199 | 9 | 276 | 323 | 8 |
-| [Romanian](#non-curated-languages) | 51 | 1996 | 48 | 3651 | 200 | 975 | 602 | 147 |
-| [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | 16 | ✔️ | ✔️ | ✔️ | 1 |
-| [European Spanish](#spanish-español-de-españa) | 28 | 2004 | 40 | 2355 | 200 | 714 | 552 | 146 |
-| [Latin American Spanish](#latam-español-latinoamericano) | 1281 | 2004 | 634 | 4451 | 204 | 980 | 638 | 147 |
-| [Swedish](#swedish-svenska) | ✔️ | 2004 | 42 | 2562 | ✔️ | 466 | 556 | 147 |
-| [Thai](#non-curated-languages) | 966 | 1993 | 50 | 4187 | 200 | 739 | 635 | 147 |
-| [Turkish](#non-curated-languages) | 51 | 137 | 42 | 2940 | 200 | 975 | 556 | 147 |
-| [Ukrainian](#ukrainian-українська) | 27 | 131 | 32 | 2483 | 200 | 928 | 550 | 146 |
-| [Vietnamese](#vietnamese-tiếng-việt) | 1255 | 2004 | 628 | 3276 | ✔️ | ✔️ | 259 | 113 |
+| [Simplified Chinese](#schinese-简体中文) | 2 | ✔️ | ✔️ | 96 | ✔️ | ✔️ | ✔️ | 1 |
+| [Traditional Chinese](#tchinese-繁體中文) | 11 | 140 | 33 | 2907 | 200 | 236 | 554 | 146 |
+| [Czech](#czech-čeština) | 73 | 1810 | 42 | 4040 | 200 | 980 | 624 | 146 |
+| [Danish](#non-curated-languages) | 54 | 231 | 42 | 3568 | 200 | 710 | 619 | 147 |
+| [Dutch](#non-curated-languages) | 53 | 2004 | 42 | 3036 | 200 | 710 | 556 | 146 |
+| [Finnish](#non-curated-languages) | 53 | 2004 | 42 | 3036 | 200 | 710 | 556 | 146 |
+| [French](#french-français) | 29 | 138 | 42 | 2401 | 200 | 650 | 542 | 125 |
+| [German](#german-deutsch) | 2 | ✔️ | ✔️ | 112 | ✔️ | ✔️ | ✔️ | 1 |
+| [Hungarian](#non-curated-languages) | 53 | 138 | 42 | 3036 | 200 | 975 | 556 | 147 |
+| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | 96 | ✔️ | ✔️ | ✔️ | 1 |
+| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | 96 | ✔️ | 103 | ✔️ | 1 |
+| [Korean](#koreana-한국어) | 9 | 10 | 38 | 1532 | 22 | 441 | 542 | 48 |
+| [Norwegian Bokmål](#non-curated-languages) | 71 | 708 | 47 | 3742 | 200 | 710 | 625 | 147 |
+| [Polish](#polish-polski) | 30 | 2004 | 42 | 3036 | 200 | 706 | 556 | 143 |
+| [European Portuguese](#portuguese-português-europeu) | 2 | 180 | 32 | 2124 | 21 | 628 | 565 | 141 |
+| [Brazilian Portuguese](#brazilian-português) | 4 | 2004 | 32 | 1295 | 9 | 276 | 323 | 8 |
+| [Romanian](#non-curated-languages) | 53 | 1996 | 48 | 3747 | 200 | 975 | 602 | 147 |
+| [Russian](#russian-русский) | 2 | ✔️ | ✔️ | 112 | ✔️ | ✔️ | ✔️ | 1 |
+| [European Spanish](#spanish-español-de-españa) | 30 | 2004 | 40 | 2451 | 200 | 714 | 552 | 146 |
+| [Latin American Spanish](#latam-español-latinoamericano) | 1283 | 2004 | 634 | 4547 | 204 | 980 | 638 | 147 |
+| [Swedish](#swedish-svenska) | 2 | 2004 | ✔️ | 2658 | ✔️ | 397 | 556 | 147 |
+| [Thai](#non-curated-languages) | 968 | 1993 | 50 | 4283 | 200 | 739 | 635 | 147 |
+| [Turkish](#non-curated-languages) | 53 | 137 | 42 | 3036 | 200 | 975 | 556 | 147 |
+| [Ukrainian](#ukrainian-українська) | 29 | 131 | 32 | 2579 | 200 | 928 | 550 | 146 |
+| [Vietnamese](#vietnamese-tiếng-việt) | 1257 | 2004 | 628 | 3325 | ✔️ | ✔️ | ✔️ | 113 |
 ### Legend
 - ***Non-capitalized column headers*** are the most important specific files and their number of missing strings. All of these txt-files are located in the resources folder. Except statsweb, which lies in community/stats_website, it's an vdf-file.
 - ***Strings*** is the number of missing strings not included in one of the files which get an individual non-capitalized column.
@@ -40,9 +40,14 @@
 
 </summary>
 
+### Strings
+
+- [basemodui_schinese.txt](resource/basemodui_schinese.txt) has 2 untranslated strings.
+- [reactivedrop_schinese.txt](resource/reactivedrop_schinese.txt) has 96 untranslated strings.
+
 ### Upcoming Release Notes
 
-- [20231201_schinese.xml](release_notes/20231201_english.xml) is missing.
+- [20231201_schinese.xml](release_notes/20231201_schinese.xml) has 1 indented lines.
 
 </details>
 
@@ -60,10 +65,10 @@
 - [steam_input_tchinese.vdf](community/steam_input/steam_input_tchinese.vdf) has 97 untranslated strings.
 - [workshop_description_tchinese.vdf](community/workshop/workshop_description_tchinese.vdf) has 4 untranslated strings.
 - [misc/signage/signage_tchinese.vdf](misc/signage/signage_tchinese.vdf) has 69 untranslated strings.
-- [basemodui_tchinese.txt](resource/basemodui_tchinese.txt) has 9 untranslated strings.
+- [basemodui_tchinese.txt](resource/basemodui_tchinese.txt) has 11 untranslated strings.
 - [closecaption_tchinese.txt](resource/closecaption_tchinese.txt) has 140 untranslated strings.
 - [gameui_tchinese.txt](resource/gameui_tchinese.txt) has 33 untranslated strings.
-- [reactivedrop_tchinese.txt](resource/reactivedrop_tchinese.txt) has 2811 untranslated strings.
+- [reactivedrop_tchinese.txt](resource/reactivedrop_tchinese.txt) has 2907 untranslated strings.
 - [valve_tchinese.txt](resource/valve_tchinese.txt) has 6 untranslated strings.
 
 ### Steam Store and Community
@@ -412,11 +417,11 @@
 - [misc/signage/signage_czech.vdf](misc/signage/signage_czech.vdf) has 69 untranslated strings.
 - [platform/servers/serverbrowser_czech.txt](platform/servers/serverbrowser_czech.txt) has 186 untranslated strings.
 - [platform/vgui_czech.txt](platform/vgui_czech.txt) has 184 untranslated strings.
-- [basemodui_czech.txt](resource/basemodui_czech.txt) has 71 untranslated strings.
+- [basemodui_czech.txt](resource/basemodui_czech.txt) has 73 untranslated strings.
 - [chat_czech.txt](resource/chat_czech.txt) has 8 untranslated strings.
 - [closecaption_czech.txt](resource/closecaption_czech.txt) has 1810 untranslated strings.
 - [gameui_czech.txt](resource/gameui_czech.txt) has 42 untranslated strings.
-- [reactivedrop_czech.txt](resource/reactivedrop_czech.txt) has 3944 untranslated strings.
+- [reactivedrop_czech.txt](resource/reactivedrop_czech.txt) has 4040 untranslated strings.
 - [valve_czech.txt](resource/valve_czech.txt) has 266 untranslated strings.
 
 ### Steam Store and Community
@@ -765,10 +770,10 @@
 - [misc/signage/signage_french.vdf](misc/signage/signage_french.vdf) has 69 untranslated strings.
 - [platform/servers/serverbrowser_french.txt](platform/servers/serverbrowser_french.txt) has 24 untranslated strings.
 - [platform/vgui_french.txt](platform/vgui_french.txt) has 93 untranslated strings.
-- [basemodui_french.txt](resource/basemodui_french.txt) has 27 untranslated strings.
+- [basemodui_french.txt](resource/basemodui_french.txt) has 29 untranslated strings.
 - [closecaption_french.txt](resource/closecaption_french.txt) has 138 untranslated strings.
 - [gameui_french.txt](resource/gameui_french.txt) has 42 untranslated strings.
-- [reactivedrop_french.txt](resource/reactivedrop_french.txt) has 2305 untranslated strings.
+- [reactivedrop_french.txt](resource/reactivedrop_french.txt) has 2401 untranslated strings.
 - [valve_french.txt](resource/valve_french.txt) has 202 untranslated strings.
 
 ### Steam Store and Community
@@ -1087,7 +1092,8 @@
 
 ### Strings
 
-- [reactivedrop_german.txt](resource/reactivedrop_german.txt) has 16 untranslated strings.
+- [basemodui_german.txt](resource/basemodui_german.txt) has 2 untranslated strings.
+- [reactivedrop_german.txt](resource/reactivedrop_german.txt) has 112 untranslated strings.
 
 ### Upcoming Release Notes
 
@@ -1103,11 +1109,11 @@
 
 ### Strings
 
-- [reactivedrop_italian.txt](resource/reactivedrop_italian.txt) has 16 untranslated strings.
+- [reactivedrop_italian.txt](resource/reactivedrop_italian.txt) has 96 untranslated strings.
 
 ### Upcoming Release Notes
 
-- [20231201_italian.xml](release_notes/20231201_english.xml) is missing.
+- [20231201_italian.xml](release_notes/20231201_italian.xml) has 1 indented lines.
 
 </details>
 
@@ -1122,6 +1128,11 @@
 - [addons/RiskOfRain/reactivedrop_japanese.txt](addons/RiskOfRain/resource/reactivedrop_japanese.txt) has 1 untranslated strings.
 - [misc/signage/signage_japanese.vdf](misc/signage/signage_japanese.vdf) has 67 untranslated strings.
 - [platform/vgui_japanese.txt](platform/vgui_japanese.txt) has 35 untranslated strings.
+- [reactivedrop_japanese.txt](resource/reactivedrop_japanese.txt) has 96 untranslated strings.
+
+### Upcoming Release Notes
+
+- [20231201_japanese.xml](release_notes/20231201_japanese.xml) has 1 indented lines.
 
 </details>
 
@@ -1140,10 +1151,10 @@
 - [workshop_description_koreana.vdf](community/workshop/workshop_description_koreana.vdf) has 4 untranslated strings.
 - [misc/signage/signage_koreana.vdf](misc/signage/signage_koreana.vdf) has 69 untranslated strings.
 - [platform/vgui_koreana.txt](platform/vgui_koreana.txt) has 88 untranslated strings.
-- [basemodui_koreana.txt](resource/basemodui_koreana.txt) has 7 untranslated strings.
+- [basemodui_koreana.txt](resource/basemodui_koreana.txt) has 9 untranslated strings.
 - [closecaption_koreana.txt](resource/closecaption_koreana.txt) has 10 untranslated strings.
 - [gameui_koreana.txt](resource/gameui_koreana.txt) has 38 untranslated strings.
-- [reactivedrop_koreana.txt](resource/reactivedrop_koreana.txt) has 1436 untranslated strings.
+- [reactivedrop_koreana.txt](resource/reactivedrop_koreana.txt) has 1532 untranslated strings.
 - [valve_koreana.txt](resource/valve_koreana.txt) has 96 untranslated strings.
 
 ### Steam Store and Community
@@ -1393,11 +1404,11 @@
 - [misc/signage/signage_polish.vdf](misc/signage/signage_polish.vdf) has 69 untranslated strings.
 - [platform/servers/serverbrowser_polish.txt](platform/servers/serverbrowser_polish.txt) has 24 untranslated strings.
 - [platform/vgui_polish.txt](platform/vgui_polish.txt) has 81 untranslated strings.
-- [basemodui_polish.txt](resource/basemodui_polish.txt) has 28 untranslated strings.
+- [basemodui_polish.txt](resource/basemodui_polish.txt) has 30 untranslated strings.
 - [chat_polish.txt](resource/chat_polish.txt) has 8 untranslated strings.
 - [closecaption_polish.txt](resource/closecaption_polish.txt) has 2004 untranslated strings.
 - [gameui_polish.txt](resource/gameui_polish.txt) has 42 untranslated strings.
-- [reactivedrop_polish.txt](resource/reactivedrop_polish.txt) has 2940 untranslated strings.
+- [reactivedrop_polish.txt](resource/reactivedrop_polish.txt) has 3036 untranslated strings.
 - [valve_polish.txt](resource/valve_polish.txt) has 266 untranslated strings.
 
 ### Steam Store and Community
@@ -1742,9 +1753,10 @@
 - [workshop_description_portuguese.vdf](community/workshop/workshop_description_portuguese.vdf) has 2 untranslated strings.
 - [misc/signage/signage_portuguese.vdf](misc/signage/signage_portuguese.vdf) has 69 untranslated strings.
 - [platform/vgui_portuguese.txt](platform/vgui_portuguese.txt) has 93 untranslated strings.
+- [basemodui_portuguese.txt](resource/basemodui_portuguese.txt) has 2 untranslated strings.
 - [closecaption_portuguese.txt](resource/closecaption_portuguese.txt) has 180 untranslated strings.
 - [gameui_portuguese.txt](resource/gameui_portuguese.txt) has 32 untranslated strings.
-- [reactivedrop_portuguese.txt](resource/reactivedrop_portuguese.txt) has 2028 untranslated strings.
+- [reactivedrop_portuguese.txt](resource/reactivedrop_portuguese.txt) has 2124 untranslated strings.
 - [valve_portuguese.txt](resource/valve_portuguese.txt) has 266 untranslated strings.
 
 ### Steam Store and Community
@@ -2077,10 +2089,10 @@
 - [statsweb_brazilian.vdf](community/stats_website/statsweb_brazilian.vdf) has 9 untranslated strings.
 - [steam_input_brazilian.vdf](community/steam_input/steam_input_brazilian.vdf) has 85 untranslated strings.
 - [misc/signage/signage_brazilian.vdf](misc/signage/signage_brazilian.vdf) has 69 untranslated strings.
-- [basemodui_brazilian.txt](resource/basemodui_brazilian.txt) has 2 untranslated strings.
+- [basemodui_brazilian.txt](resource/basemodui_brazilian.txt) has 4 untranslated strings.
 - [closecaption_brazilian.txt](resource/closecaption_brazilian.txt) has 2004 untranslated strings.
 - [gameui_brazilian.txt](resource/gameui_brazilian.txt) has 32 untranslated strings.
-- [reactivedrop_brazilian.txt](resource/reactivedrop_brazilian.txt) has 1199 untranslated strings.
+- [reactivedrop_brazilian.txt](resource/reactivedrop_brazilian.txt) has 1295 untranslated strings.
 - [valve_brazilian.txt](resource/valve_brazilian.txt) has 6 untranslated strings.
 
 ### Steam Store and Community
@@ -2255,7 +2267,8 @@
 
 ### Strings
 
-- [reactivedrop_russian.txt](resource/reactivedrop_russian.txt) has 16 untranslated strings.
+- [basemodui_russian.txt](resource/basemodui_russian.txt) has 2 untranslated strings.
+- [reactivedrop_russian.txt](resource/reactivedrop_russian.txt) has 112 untranslated strings.
 
 ### Upcoming Release Notes
 
@@ -2280,10 +2293,10 @@
 - [misc/signage/signage_spanish.vdf](misc/signage/signage_spanish.vdf) has 69 untranslated strings.
 - [platform/servers/serverbrowser_spanish.txt](platform/servers/serverbrowser_spanish.txt) has 24 untranslated strings.
 - [platform/vgui_spanish.txt](platform/vgui_spanish.txt) has 93 untranslated strings.
-- [basemodui_spanish.txt](resource/basemodui_spanish.txt) has 28 untranslated strings.
+- [basemodui_spanish.txt](resource/basemodui_spanish.txt) has 30 untranslated strings.
 - [closecaption_spanish.txt](resource/closecaption_spanish.txt) has 2004 untranslated strings.
 - [gameui_spanish.txt](resource/gameui_spanish.txt) has 40 untranslated strings.
-- [reactivedrop_spanish.txt](resource/reactivedrop_spanish.txt) has 2355 untranslated strings.
+- [reactivedrop_spanish.txt](resource/reactivedrop_spanish.txt) has 2451 untranslated strings.
 - [valve_spanish.txt](resource/valve_spanish.txt) has 266 untranslated strings.
 
 ### Steam Store and Community
@@ -2632,11 +2645,11 @@
 - [misc/signage/signage_latam.vdf](misc/signage/signage_latam.vdf) has 69 untranslated strings.
 - [platform/servers/serverbrowser_latam.txt](platform/servers/serverbrowser_latam.txt) has 186 untranslated strings.
 - [platform/vgui_latam.txt](platform/vgui_latam.txt) has 184 untranslated strings.
-- [basemodui_latam.txt](resource/basemodui_latam.txt) has 1281 untranslated strings.
+- [basemodui_latam.txt](resource/basemodui_latam.txt) has 1283 untranslated strings.
 - [chat_latam.txt](resource/chat_latam.txt) has 8 untranslated strings.
 - [closecaption_latam.txt](resource/closecaption_latam.txt) has 2004 untranslated strings.
 - [gameui_latam.txt](resource/gameui_latam.txt) has 634 untranslated strings.
-- [reactivedrop_latam.txt](resource/reactivedrop_latam.txt) has 4451 untranslated strings.
+- [reactivedrop_latam.txt](resource/reactivedrop_latam.txt) has 4547 untranslated strings.
 - [valve_latam.txt](resource/valve_latam.txt) has 266 untranslated strings.
 
 ### Steam Store and Community
@@ -2979,12 +2992,11 @@
 
 - [addons/RiskOfRain/reactivedrop_swedish.txt](addons/RiskOfRain/resource/reactivedrop_swedish.txt) has 95 untranslated strings.
 - [steam_input_swedish.vdf](community/steam_input/steam_input_swedish.vdf) has 97 untranslated strings.
-- [misc/signage/signage_swedish.vdf](misc/signage/signage_swedish.vdf) has 69 untranslated strings.
 - [platform/servers/serverbrowser_swedish.txt](platform/servers/serverbrowser_swedish.txt) has 24 untranslated strings.
 - [platform/vgui_swedish.txt](platform/vgui_swedish.txt) has 40 untranslated strings.
+- [basemodui_swedish.txt](resource/basemodui_swedish.txt) has 2 untranslated strings.
 - [closecaption_swedish.txt](resource/closecaption_swedish.txt) has 2004 untranslated strings.
-- [gameui_swedish.txt](resource/gameui_swedish.txt) has 42 untranslated strings.
-- [reactivedrop_swedish.txt](resource/reactivedrop_swedish.txt) has 2562 untranslated strings.
+- [reactivedrop_swedish.txt](resource/reactivedrop_swedish.txt) has 2658 untranslated strings.
 - [valve_swedish.txt](resource/valve_swedish.txt) has 141 untranslated strings.
 
 ### Steam Store and Community
@@ -3333,10 +3345,10 @@
 - [misc/signage/signage_ukrainian.vdf](misc/signage/signage_ukrainian.vdf) has 69 untranslated strings.
 - [platform/servers/serverbrowser_ukrainian.txt](platform/servers/serverbrowser_ukrainian.txt) has 186 untranslated strings.
 - [platform/vgui_ukrainian.txt](platform/vgui_ukrainian.txt) has 184 untranslated strings.
-- [basemodui_ukrainian.txt](resource/basemodui_ukrainian.txt) has 27 untranslated strings.
+- [basemodui_ukrainian.txt](resource/basemodui_ukrainian.txt) has 29 untranslated strings.
 - [closecaption_ukrainian.txt](resource/closecaption_ukrainian.txt) has 131 untranslated strings.
 - [gameui_ukrainian.txt](resource/gameui_ukrainian.txt) has 32 untranslated strings.
-- [reactivedrop_ukrainian.txt](resource/reactivedrop_ukrainian.txt) has 2483 untranslated strings.
+- [reactivedrop_ukrainian.txt](resource/reactivedrop_ukrainian.txt) has 2579 untranslated strings.
 - [valve_ukrainian.txt](resource/valve_ukrainian.txt) has 266 untranslated strings.
 
 ### Steam Store and Community
@@ -3675,10 +3687,10 @@
 
 ### Strings
 
-- [basemodui_vietnamese.txt](resource/basemodui_vietnamese.txt) has 1255 untranslated strings.
+- [basemodui_vietnamese.txt](resource/basemodui_vietnamese.txt) has 1257 untranslated strings.
 - [closecaption_vietnamese.txt](resource/closecaption_vietnamese.txt) has 2004 untranslated strings.
 - [gameui_vietnamese.txt](resource/gameui_vietnamese.txt) has 628 untranslated strings.
-- [reactivedrop_vietnamese.txt](resource/reactivedrop_vietnamese.txt) has 3276 untranslated strings.
+- [reactivedrop_vietnamese.txt](resource/reactivedrop_vietnamese.txt) has 3325 untranslated strings.
 
 ### Upcoming Release Notes
 
@@ -3798,87 +3810,6 @@
 - [news/rd-newfacilities_vietnamese.txt](resource/news/rd-newfacilities_english.txt) is missing.
 - [news/rd-spaceport_news1_vietnamese.txt](resource/news/rd-spaceport_news1_english.txt) is missing.
 - [news/refugeenews_vietnamese.txt](resource/news/refugeenews_english.txt) is missing.
-
-### Inventory Schema
-
-- Item 4002 "Scrap Metal" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_vietnamese`, `description_vietnamese`, `after_description_vietnamese`, `display_type_vietnamese`
-- Item 4003 "Electrical Components" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_vietnamese`, `description_vietnamese`, `after_description_vietnamese`, `display_type_vietnamese`
-- Item 4004 "Spare Pipe" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_vietnamese`, `description_vietnamese`, `after_description_vietnamese`, `display_type_vietnamese`
-- Item 4005 "Plastics" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_vietnamese`, `description_vietnamese`, `after_description_vietnamese`, `display_type_vietnamese`
-- Item 4006 "Coolant" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_vietnamese`, `description_vietnamese`, `after_description_vietnamese`, `display_type_vietnamese`
-- Item 4007 "Mini-Crate" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_vietnamese`, `description_vietnamese`, `after_description_vietnamese`, `display_type_vietnamese`
-- Item 4008 "Battery Pack" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_vietnamese`, `description_vietnamese`, `after_description_vietnamese`, `display_type_vietnamese`
-- Item 4009 "Loose Wires" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_vietnamese`, `description_vietnamese`, `after_description_vietnamese`, `display_type_vietnamese`
-- Item 4010 "Carbon" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_vietnamese`, `description_vietnamese`, `after_description_vietnamese`, `display_type_vietnamese`
-- Item 4011 "Alien Chitin" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_vietnamese`, `description_vietnamese`, `after_description_vietnamese`, `display_type_vietnamese`
-- Item 4012 "Biomass Sample" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_vietnamese`, `description_vietnamese`, `after_description_vietnamese`, `display_type_vietnamese`
-- Item 4013 "Glowing Green Acid" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_vietnamese`, `description_vietnamese`, `after_description_vietnamese`, `display_type_vietnamese`
-- Item 4014 "Claw Fragment" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_vietnamese`, `description_vietnamese`, `after_description_vietnamese`, `display_type_vietnamese`
-- Item 4015 "Memory Management Unit" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_vietnamese`, `description_vietnamese`, `after_description_vietnamese`, `display_type_vietnamese`
-- Item 4016 "Arithmetic Logic Unit" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_vietnamese`, `description_vietnamese`, `after_description_vietnamese`, `display_type_vietnamese`
-- Item 4017 "Data Storage Medium" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_vietnamese`, `description_vietnamese`, `after_description_vietnamese`, `display_type_vietnamese`
-- Item 4018 "Pile of Red Sand" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_vietnamese`, `description_vietnamese`, `after_description_vietnamese`, `display_type_vietnamese`
-- Item 4019 "Antlion Carapace" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_vietnamese`, `description_vietnamese`, `after_description_vietnamese`, `display_type_vietnamese`
-- Item 4020 "Corrosive Fluid Sample" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_vietnamese`, `description_vietnamese`, `after_description_vietnamese`, `display_type_vietnamese`
-- Item 4021 "Cooled Volcanic Rock" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_vietnamese`, `description_vietnamese`, `after_description_vietnamese`, `display_type_vietnamese`
-- Item 4022 "Retrieved Documents" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_vietnamese`, `description_vietnamese`, `after_description_vietnamese`, `display_type_vietnamese`
-- Item 4023 "Unopened SynUp Cola" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_vietnamese`, `description_vietnamese`, `after_description_vietnamese`, `display_type_vietnamese`
-- Item 4024 "Roll of Vent Tape" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_vietnamese`, `description_vietnamese`, `after_description_vietnamese`, `display_type_vietnamese`
-- Item 4025 "Isotopes" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_vietnamese`, `description_vietnamese`, `after_description_vietnamese`, `display_type_vietnamese`
-- Item 4026 "Cryotic" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_vietnamese`, `description_vietnamese`, `after_description_vietnamese`, `display_type_vietnamese`
-- Item 1000 "Sarge's Suit" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_vietnamese`, `description_vietnamese`, `display_type_vietnamese`
-- Item 1001 "Wildcat's Suit" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_vietnamese`, `description_vietnamese`, `display_type_vietnamese`
-- Item 1002 "Faith's Suit" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_vietnamese`, `description_vietnamese`, `display_type_vietnamese`
-- Item 1003 "Crash's Suit" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_vietnamese`, `description_vietnamese`, `display_type_vietnamese`
-- Item 1004 "Jaeger's Suit" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_vietnamese`, `description_vietnamese`, `display_type_vietnamese`
-- Item 1005 "Wolfe's Suit" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_vietnamese`, `description_vietnamese`, `display_type_vietnamese`
-- Item 1006 "Bastille's Suit" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_vietnamese`, `description_vietnamese`, `display_type_vietnamese`
-- Item 1007 "Vegas's Suit" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_vietnamese`, `description_vietnamese`, `display_type_vietnamese`
-- Item 2000 "22A3-1 Assault Rifle" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_vietnamese`, `description_vietnamese`, `display_type_vietnamese`
-- Item 2001 "22A7-Z Prototype Assault Rifle" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_vietnamese`, `description_vietnamese`, `display_type_vietnamese`
-- Item 2002 "S23A SynTek Autogun" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_vietnamese`, `description_vietnamese`, `display_type_vietnamese`
-- Item 2003 "M42 Vindicator" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_vietnamese`, `description_vietnamese`, `display_type_vietnamese`
-- Item 2004 "M73 Twin Pistols" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_vietnamese`, `description_vietnamese`, `display_type_vietnamese`
-- Item 2005 "IAF Advanced Sentry Gun" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_vietnamese`, `description_vietnamese`, `display_type_vietnamese`
-- Item 2006 "IAF Heal Beacon" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_vietnamese`, `description_vietnamese`, `display_type_vietnamese`
-- Item 2007 "IAF Ammo Satchel" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_vietnamese`, `description_vietnamese`, `display_type_vietnamese`
-- Item 2008 "Model 35 Pump-action Shotgun" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_vietnamese`, `description_vietnamese`, `display_type_vietnamese`
-- Item 2009 "IAF Tesla Cannon" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_vietnamese`, `description_vietnamese`, `display_type_vietnamese`
-- Item 2010 "Precision Rail Rifle" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_vietnamese`, `description_vietnamese`, `display_type_vietnamese`
-- Item 2011 "IAF Medical Gun" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_vietnamese`, `description_vietnamese`, `display_type_vietnamese`
-- Item 2012 "K80 Personal Defense Weapon" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_vietnamese`, `description_vietnamese`, `display_type_vietnamese`
-- Item 2013 "M868 Flamer Unit" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_vietnamese`, `description_vietnamese`, `display_type_vietnamese`
-- Item 2014 "IAF Freeze Sentry Gun" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_vietnamese`, `description_vietnamese`, `display_type_vietnamese`
-- Item 2015 "IAF Minigun" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_vietnamese`, `description_vietnamese`, `display_type_vietnamese`
-- Item 2016 "AVK-36 Marksman Rifle" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_vietnamese`, `description_vietnamese`, `display_type_vietnamese`
-- Item 2017 "IAF Incendiary Sentry Gun" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_vietnamese`, `description_vietnamese`, `display_type_vietnamese`
-- Item 2018 "Chainsaw" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_vietnamese`, `description_vietnamese`, `display_type_vietnamese`
-- Item 2019 "IAF High Velocity Sentry Cannon" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_vietnamese`, `description_vietnamese`, `display_type_vietnamese`
-- Item 2020 "Grenade Launcher" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_vietnamese`, `description_vietnamese`, `display_type_vietnamese`
-- Item 2021 "PS50 Bulldog" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_vietnamese`, `description_vietnamese`, `display_type_vietnamese`
-- Item 2022 "IAF HAS42 Devastator" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_vietnamese`, `description_vietnamese`, `display_type_vietnamese`
-- Item 2023 "22A4-2 Combat Rifle" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_vietnamese`, `description_vietnamese`, `display_type_vietnamese`
-- Item 2024 "IAF Medical Amplifier Gun" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_vietnamese`, `description_vietnamese`, `display_type_vietnamese`
-- Item 2025 "22A5 Heavy Assault Rifle" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_vietnamese`, `description_vietnamese`, `display_type_vietnamese`
-- Item 2026 "IAF Medical SMG" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_vietnamese`, `description_vietnamese`, `display_type_vietnamese`
-- Item 3000 "IAF Personal Healing Kit" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_vietnamese`, `description_vietnamese`, `display_type_vietnamese`
-- Item 3001 "Hand Welder" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_vietnamese`, `description_vietnamese`, `display_type_vietnamese`
-- Item 3002 "SM75 Combat Flares" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_vietnamese`, `description_vietnamese`, `display_type_vietnamese`
-- Item 3003 "ML30 Laser Trip Mine" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_vietnamese`, `description_vietnamese`, `display_type_vietnamese`
-- Item 3004 "L3A Tactical Heavy Armor" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_vietnamese`, `description_vietnamese`, `display_type_vietnamese`
-- Item 3005 "X-33 Damage Amplifier" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_vietnamese`, `description_vietnamese`, `display_type_vietnamese`
-- Item 3006 "Hornet Barrage" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_vietnamese`, `description_vietnamese`, `display_type_vietnamese`
-- Item 3007 "CR-18 Freeze Grenades" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_vietnamese`, `description_vietnamese`, `display_type_vietnamese`
-- Item 3008 "Adrenaline" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_vietnamese`, `description_vietnamese`, `display_type_vietnamese`
-- Item 3009 "IAF Tesla Sentry Coil" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_vietnamese`, `description_vietnamese`, `display_type_vietnamese`
-- Item 3010 "v45 Electric Charged Armor" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_vietnamese`, `description_vietnamese`, `display_type_vietnamese`
-- Item 3011 "M478 Proximity Incendiary Mines" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_vietnamese`, `description_vietnamese`, `display_type_vietnamese`
-- Item 3012 "Flashlight Attachment" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_vietnamese`, `description_vietnamese`, `display_type_vietnamese`
-- Item 3013 "IAF Power Fist Attachment" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_vietnamese`, `description_vietnamese`, `display_type_vietnamese`
-- Item 3014 "FG-01 Hand Grenades" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_vietnamese`, `description_vietnamese`, `display_type_vietnamese`
-- Item 3015 "MNV34 Nightvision Goggles" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_vietnamese`, `description_vietnamese`, `display_type_vietnamese`
-- Item 3016 "MTD6 Smart Bomb" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_vietnamese`, `description_vietnamese`, `display_type_vietnamese`
-- Item 3017 "TG-05 Gas Grenades" in [item-schema-strange-equipment.json](community/inventory_service/item-schema-strange-equipment.json) is missing `name_vietnamese`, `description_vietnamese`, `display_type_vietnamese`
 
 </details>
 
