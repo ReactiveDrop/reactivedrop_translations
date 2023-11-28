@@ -1,7 +1,7 @@
 # Overview
 | Language | basemodui | closecaption | gameui | reactivedrop | statsweb | Strings | Inventory | Files |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [Simplified Chinese](#schinese-简体中文) | 2 | ✔️ | ✔️ | 96 | ✔️ | ✔️ | ✔️ | 1 |
+| [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Traditional Chinese](#tchinese-繁體中文) | 11 | 140 | 33 | 2907 | 200 | 236 | 554 | 146 |
 | [Czech](#czech-čeština) | 73 | 1810 | 42 | 4040 | 200 | 980 | 624 | 146 |
 | [Danish](#non-curated-languages) | 54 | 231 | 42 | 3568 | 200 | 710 | 619 | 147 |
@@ -10,8 +10,8 @@
 | [French](#french-français) | 29 | 138 | 42 | 2401 | 200 | 650 | 542 | 125 |
 | [German](#german-deutsch) | 2 | ✔️ | ✔️ | 112 | ✔️ | ✔️ | ✔️ | 1 |
 | [Hungarian](#non-curated-languages) | 53 | 138 | 42 | 3036 | 200 | 975 | 556 | 147 |
-| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | 96 | ✔️ | ✔️ | ✔️ | 1 |
-| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | 96 | ✔️ | 103 | ✔️ | 1 |
+| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
+| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 103 | ✔️ | ✔️ |
 | [Korean](#koreana-한국어) | 9 | 10 | 38 | 1532 | 22 | 441 | 542 | 48 |
 | [Norwegian Bokmål](#non-curated-languages) | 71 | 708 | 47 | 3742 | 200 | 710 | 625 | 147 |
 | [Polish](#polish-polski) | 30 | 2004 | 42 | 3036 | 200 | 706 | 556 | 143 |
@@ -40,14 +40,7 @@
 
 </summary>
 
-### Strings
-
-- [basemodui_schinese.txt](resource/basemodui_schinese.txt) has 2 untranslated strings.
-- [reactivedrop_schinese.txt](resource/reactivedrop_schinese.txt) has 96 untranslated strings.
-
-### Upcoming Release Notes
-
-- [20231201_schinese.xml](release_notes/20231201_schinese.xml) has 1 indented lines.
+✓ Up to date!
 
 </details>
 
@@ -1107,13 +1100,7 @@
 
 </summary>
 
-### Strings
-
-- [reactivedrop_italian.txt](resource/reactivedrop_italian.txt) has 96 untranslated strings.
-
-### Upcoming Release Notes
-
-- [20231201_italian.xml](release_notes/20231201_italian.xml) has 1 indented lines.
+✓ Up to date!
 
 </details>
 
@@ -1128,11 +1115,6 @@
 - [addons/RiskOfRain/reactivedrop_japanese.txt](addons/RiskOfRain/resource/reactivedrop_japanese.txt) has 1 untranslated strings.
 - [misc/signage/signage_japanese.vdf](misc/signage/signage_japanese.vdf) has 67 untranslated strings.
 - [platform/vgui_japanese.txt](platform/vgui_japanese.txt) has 35 untranslated strings.
-- [reactivedrop_japanese.txt](resource/reactivedrop_japanese.txt) has 96 untranslated strings.
-
-### Upcoming Release Notes
-
-- [20231201_japanese.xml](release_notes/20231201_japanese.xml) has 1 indented lines.
 
 </details>
 
