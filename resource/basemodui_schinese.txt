@@ -2625,7 +2625,7 @@
 "[english]L4D360UI_FoundPublicGames_Filter_Deathmatch_NoPreference"		"Any"
 "L4D360UI_FoundPublicGames_Filter_Deathmatch_None"		"仅限合作"
 "[english]L4D360UI_FoundPublicGames_Filter_Deathmatch_None"		"Co-op Only"
-"L4D360UI_FoundPublicGames_Filter_Deathmatch_Any"		"任意PvP"
+"L4D360UI_FoundPublicGames_Filter_Deathmatch_Any"		"任意对抗模式"
 "[english]L4D360UI_FoundPublicGames_Filter_Deathmatch_Any"		"Any PvP"
 "L4D360UI_FoundPublicGames_Filter_Deathmatch_DM"		"死亡竞赛"
 "[english]L4D360UI_FoundPublicGames_Filter_Deathmatch_DM"		"Deathmatch"
