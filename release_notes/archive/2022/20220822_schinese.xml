@@ -33,7 +33,7 @@
 [*]添加了 rd_dump_workshop_conflicts_client 命令。
 [*]添加了 在插件界面，添加了关于插件文件名冲突的信息。
 [*]添加了 控制变量 rd_reduce_motion，禁用一些UI动画。
-[*]添加了 一些诊断数据到Steam大厅。
+[*]添加了 一些诊断数据到Steam房间。
 [/list]
 
 [h1]映射[/h1]

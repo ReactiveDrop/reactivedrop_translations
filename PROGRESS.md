@@ -1,7 +1,7 @@
 # Overview
 | Language | basemodui | closecaption | gameui | reactivedrop | statsweb | Strings | Inventory | Files |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [Simplified Chinese](#schinese-简体中文) | 2 | ✔️ | ✔️ | 96 | ✔️ | ✔️ | ✔️ | 1 |
+| [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Traditional Chinese](#tchinese-繁體中文) | 11 | 140 | 33 | 2907 | 200 | 236 | 554 | 146 |
 | [Czech](#czech-čeština) | 73 | 1810 | 42 | 4040 | 200 | 980 | 624 | 146 |
 | [Danish](#non-curated-languages) | 54 | 231 | 42 | 3568 | 200 | 710 | 619 | 147 |
@@ -10,8 +10,8 @@
 | [French](#french-français) | 29 | 138 | 42 | 2401 | 200 | 650 | 542 | 125 |
 | [German](#german-deutsch) | 2 | ✔️ | ✔️ | 112 | ✔️ | ✔️ | ✔️ | 1 |
 | [Hungarian](#non-curated-languages) | 53 | 138 | 42 | 3036 | 200 | 975 | 556 | 147 |
-| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | 96 | ✔️ | ✔️ | ✔️ | 1 |
-| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | 96 | ✔️ | 103 | ✔️ | 1 |
+| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
+| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 103 | ✔️ | ✔️ |
 | [Korean](#koreana-한국어) | 9 | 10 | 38 | 1532 | 22 | 441 | 542 | 48 |
 | [Norwegian Bokmål](#non-curated-languages) | 71 | 708 | 47 | 3742 | 200 | 710 | 625 | 147 |
 | [Polish](#polish-polski) | 30 | 2004 | 42 | 3036 | 200 | 706 | 556 | 143 |
@@ -21,7 +21,7 @@
 | [Russian](#russian-русский) | 2 | ✔️ | ✔️ | 112 | ✔️ | ✔️ | ✔️ | 1 |
 | [European Spanish](#spanish-español-de-españa) | 30 | 2004 | 40 | 2451 | 200 | 714 | 552 | 146 |
 | [Latin American Spanish](#latam-español-latinoamericano) | 1283 | 2004 | 634 | 4547 | 204 | 980 | 638 | 147 |
-| [Swedish](#swedish-svenska) | 2 | 2004 | ✔️ | 2658 | ✔️ | 397 | 556 | 147 |
+| [Swedish](#swedish-svenska) | ✔️ | 2004 | ✔️ | 2658 | ✔️ | 387 | 556 | 147 |
 | [Thai](#non-curated-languages) | 968 | 1993 | 50 | 4283 | 200 | 739 | 635 | 147 |
 | [Turkish](#non-curated-languages) | 53 | 137 | 42 | 3036 | 200 | 975 | 556 | 147 |
 | [Ukrainian](#ukrainian-українська) | 29 | 131 | 32 | 2579 | 200 | 928 | 550 | 146 |
@@ -40,14 +40,7 @@
 
 </summary>
 
-### Strings
-
-- [basemodui_schinese.txt](resource/basemodui_schinese.txt) has 2 untranslated strings.
-- [reactivedrop_schinese.txt](resource/reactivedrop_schinese.txt) has 96 untranslated strings.
-
-### Upcoming Release Notes
-
-- [20231201_schinese.xml](release_notes/20231201_schinese.xml) has 1 indented lines.
+✓ Up to date!
 
 </details>
 
@@ -1107,13 +1100,7 @@
 
 </summary>
 
-### Strings
-
-- [reactivedrop_italian.txt](resource/reactivedrop_italian.txt) has 96 untranslated strings.
-
-### Upcoming Release Notes
-
-- [20231201_italian.xml](release_notes/20231201_italian.xml) has 1 indented lines.
+✓ Up to date!
 
 </details>
 
@@ -1128,11 +1115,6 @@
 - [addons/RiskOfRain/reactivedrop_japanese.txt](addons/RiskOfRain/resource/reactivedrop_japanese.txt) has 1 untranslated strings.
 - [misc/signage/signage_japanese.vdf](misc/signage/signage_japanese.vdf) has 67 untranslated strings.
 - [platform/vgui_japanese.txt](platform/vgui_japanese.txt) has 35 untranslated strings.
-- [reactivedrop_japanese.txt](resource/reactivedrop_japanese.txt) has 96 untranslated strings.
-
-### Upcoming Release Notes
-
-- [20231201_japanese.xml](release_notes/20231201_japanese.xml) has 1 indented lines.
 
 </details>
 
@@ -2994,10 +2976,9 @@
 - [steam_input_swedish.vdf](community/steam_input/steam_input_swedish.vdf) has 97 untranslated strings.
 - [platform/servers/serverbrowser_swedish.txt](platform/servers/serverbrowser_swedish.txt) has 24 untranslated strings.
 - [platform/vgui_swedish.txt](platform/vgui_swedish.txt) has 40 untranslated strings.
-- [basemodui_swedish.txt](resource/basemodui_swedish.txt) has 2 untranslated strings.
 - [closecaption_swedish.txt](resource/closecaption_swedish.txt) has 2004 untranslated strings.
 - [reactivedrop_swedish.txt](resource/reactivedrop_swedish.txt) has 2658 untranslated strings.
-- [valve_swedish.txt](resource/valve_swedish.txt) has 141 untranslated strings.
+- [valve_swedish.txt](resource/valve_swedish.txt) has 131 untranslated strings.
 
 ### Steam Store and Community
 
