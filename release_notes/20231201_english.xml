@@ -13,7 +13,7 @@ rd_lobby_filter_challenge                : -1       : , "a", "cl"      : challen
 rd_lobby_filter_dedicated                : -1       : , "a", "cl"      : dedicated server preference for searched lobbies. -1=don't care, 0=only listen, 1=only dedicated
 rd_lobby_filter_difficulty_max           : 5        : , "a", "cl"      : maximum difficulty for searched lobbies. 1=easy,2=normal,3=hard,4=insane,5=brutal
 rd_lobby_filter_difficulty_min           : 1        : , "a", "cl"      : minimum difficulty for searched lobbies. 1=easy,2=normal,3=hard,4=insane,5=brutal
-rd_lobby_filter_distance                 : 3        : , "a", "cl"      : maximum distance for player-hosted lobbies. does not affect lobbies on dedicated servers. 0=only own region, 1=nearby regions, 
+rd_lobby_filter_distance                 : 3        : , "a", "cl"      : maximum distance for player-hosted lobbies. does not affect lobbies on dedicated servers. 0=only own region, 1=nearby regions
 rd_lobby_filter_hardcoreff               : -1       : , "a", "cl"      : hardcore friendly fire preference for searched lobbies. -1=don't care, 0=only off, 1=only on
 rd_lobby_filter_installed                : -1       : , "a", "cl"      : installed mission preference for searched lobbies. -1=don't care, 0=only non-installed or version mismatch, 1=only installed
 rd_lobby_filter_onslaught                : -1       : , "a", "cl"      : onslaught preference for searched lobbies. -1=don't care, 0=only off, 1=only on
@@ -81,7 +81,7 @@ rd_lobby_filter_onslaught                : -1       : , "a", "cl"      : onslaug
 [*]When the sentry fires, it uses the ACT_OBJ_RUNNING activity. For the Incendiary and Freeze sentries, this sequence should be looped. For other sentries, this animation runs once per shot. When the sentry is not firing, it returns to its first sequence, which should be the idle state.
 [*]Disassembling a sentry changes its aim_pitch from 0 to -90 based on the disassembly progress. If the sentry is firing while being disassembled, it aims at the enemy as normal.
 [/list][/expand]
-[*]Advanced and Incendiary sentries no longer rotate towards the center of their range 
+[*]Advanced and Incendiary sentries no longer rotate towards the center of their range.
 [*]Incendiary sentry now has a visible pilot light.
 [*]Incendiary and Freeze sentries now turn 3x faster when rotating towards an enemy as originally intended.
 [*]Cannon sentry now attempts to lead targets that are running in a straight line.
