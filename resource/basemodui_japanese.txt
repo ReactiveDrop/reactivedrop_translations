@@ -552,9 +552,9 @@
 "[english]L4D360UI_MainMenu_DisableSplitscreen"		"Disable Splitscreen"
 "L4D360UI_MainMenu_Quit"		"終了"
 "[english]L4D360UI_MainMenu_Quit"		"QUIT"
-"L4D360UI_MainMenu_FriendsPlaying"		"プレイ中のフレンド:%s1"
+"L4D360UI_MainMenu_FriendsPlaying"		"プレイ中のフレンド: %s1"
 "[english]L4D360UI_MainMenu_FriendsPlaying"		"Friends Playing: %s1"
-"L4D360UI_MainMenu_PublicLobbies"		"公開ロビー数: %s1"
+"L4D360UI_MainMenu_PublicLobbies"		"公開ロビー: %s1"
 "[english]L4D360UI_MainMenu_PublicLobbies"		"Public Lobbies: %s1"
 "L4D360UI_MainMenu_PublicLobbies_More"		"+ %s1"
 // %s1 is the number of public user-hosted lobbies with at least one empty slot. displays in the scrolling server list on the main menu.
