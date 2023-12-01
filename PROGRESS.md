@@ -18,10 +18,10 @@
 | [European Portuguese](#portuguese-português-europeu) | 2 | 180 | 32 | 2124 | 21 | 628 | 565 | 141 |
 | [Brazilian Portuguese](#brazilian-português) | 4 | 2004 | 32 | 1295 | 9 | 276 | 323 | 8 |
 | [Romanian](#non-curated-languages) | 53 | 1996 | 48 | 3747 | 200 | 975 | 602 | 147 |
-| [Russian](#russian-русский) | 2 | ✔️ | ✔️ | 112 | ✔️ | ✔️ | ✔️ | 1 |
+| [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [European Spanish](#spanish-español-de-españa) | 30 | 2004 | 40 | 2451 | 200 | 714 | 552 | 146 |
 | [Latin American Spanish](#latam-español-latinoamericano) | 1283 | 2004 | 634 | 4547 | 204 | 980 | 638 | 147 |
-| [Swedish](#swedish-svenska) | ✔️ | 2004 | ✔️ | 2658 | ✔️ | 387 | 556 | 147 |
+| [Swedish](#swedish-svenska) | ✔️ | 2004 | ✔️ | 2658 | ✔️ | 362 | 556 | 147 |
 | [Thai](#non-curated-languages) | 968 | 1993 | 50 | 4283 | 200 | 739 | 635 | 147 |
 | [Turkish](#non-curated-languages) | 53 | 137 | 42 | 3036 | 200 | 975 | 556 | 147 |
 | [Ukrainian](#ukrainian-українська) | 29 | 131 | 32 | 2579 | 200 | 928 | 550 | 146 |
@@ -2247,14 +2247,7 @@
 
 </summary>
 
-### Strings
-
-- [basemodui_russian.txt](resource/basemodui_russian.txt) has 2 untranslated strings.
-- [reactivedrop_russian.txt](resource/reactivedrop_russian.txt) has 112 untranslated strings.
-
-### Upcoming Release Notes
-
-- [20231201_russian.xml](release_notes/20231201_english.xml) is missing.
+✓ Up to date!
 
 </details>
 
@@ -2972,7 +2965,7 @@
 
 ### Strings
 
-- [addons/RiskOfRain/reactivedrop_swedish.txt](addons/RiskOfRain/resource/reactivedrop_swedish.txt) has 95 untranslated strings.
+- [addons/RiskOfRain/reactivedrop_swedish.txt](addons/RiskOfRain/resource/reactivedrop_swedish.txt) has 70 untranslated strings.
 - [steam_input_swedish.vdf](community/steam_input/steam_input_swedish.vdf) has 97 untranslated strings.
 - [platform/servers/serverbrowser_swedish.txt](platform/servers/serverbrowser_swedish.txt) has 24 untranslated strings.
 - [platform/vgui_swedish.txt](platform/vgui_swedish.txt) has 40 untranslated strings.
