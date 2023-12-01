@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<content><string id="body">[h2]Menus[/h2]
+<content><string id="body">[h2]用户界面[/h2]
 我们正在对计划于2024年4月20日推出的全新用户界面进行测试。
 [list]
 [*]更新 重新设计了主界面样式。新界面将展示当季《星际武装部队英雄榜》信息、近期重大更新以及热门Steam创意工坊物品等内容。
@@ -121,7 +121,7 @@ rd_lobby_filter_onslaught                : -1       : , "a", "cl"      : 按猛�
 [*]void [b]Deathmatch.IncreaseKillingSpree[/b](handle MarineOrResource)
 [*]int [b]Deathmatch.GetKillingSpree[/b](handle MarineOrResource)
 [/list][/expand]
-[*]增加 为士兵添加了一个名为 GetMarineProfile 的方法，该方法返回士兵的个人资料编号。如果您的脚本需要为不同的士兵执行不同的操作，而非依赖实体名称 (GetName()) 或翻译的海军陆战队名称 (GetMarineName())，请使用此方法。目前该方法返回值介于 0 到 7 之间，或者如果您使用的是名字常量(推荐)，则介于 ASW_MARINE_PROFILE_SARGE 和 ASW_MARINE_PROFILE_VEGAS 之间。
+[*]增加 为士兵添加了一个名为 GetMarineProfile 的方法，该方法返回士兵的编号。如果您的脚本需要为不同的士兵执行不同的操作，而非依赖实体名称 (GetName()) 或翻译后的士兵名字 (GetMarineName())，请使用此方法。目前该方法返回值介于 0 到 7 之间，或者如果您使用的是名字常量(推荐)，则介于 ASW_MARINE_PROFILE_SARGE 和 ASW_MARINE_PROFILE_VEGAS 之间。
 [*]修复 弹匣容量只有一发弹药的武器(精密型导轨步枪)无法发送 weapon_reload 游戏事件的问题。
 [*]改进 asw_gamerules 中的 MarineFinishedMission 输入：[list]
 [*]可以处理士兵和士兵资源(例如将所有士兵无论死活都标记为提前完成任务，则可以使用 [b]asw_marine_resource[/b] 作为输入参数。)
