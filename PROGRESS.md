@@ -8,7 +8,7 @@
 | [Dutch](#non-curated-languages) | 53 | 2004 | 42 | 3036 | 200 | 710 | 556 | 146 |
 | [Finnish](#non-curated-languages) | 53 | 2004 | 42 | 3036 | 200 | 710 | 556 | 146 |
 | [French](#french-français) | 29 | 138 | 42 | 2401 | 200 | 650 | 542 | 125 |
-| [German](#german-deutsch) | 2 | ✔️ | ✔️ | 112 | ✔️ | ✔️ | ✔️ | 1 |
+| [German](#german-deutsch) | 2 | ✔️ | ✔️ | 112 | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Hungarian](#non-curated-languages) | 53 | 138 | 42 | 3036 | 200 | 975 | 556 | 147 |
 | [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 103 | ✔️ | ✔️ |
@@ -21,7 +21,7 @@
 | [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [European Spanish](#spanish-español-de-españa) | 30 | 2004 | 40 | 2451 | 200 | 714 | 552 | 146 |
 | [Latin American Spanish](#latam-español-latinoamericano) | 1283 | 2004 | 634 | 4547 | 204 | 980 | 638 | 147 |
-| [Swedish](#swedish-svenska) | ✔️ | 2004 | ✔️ | 2658 | ✔️ | 362 | 556 | 147 |
+| [Swedish](#swedish-svenska) | ✔️ | 2004 | ✔️ | 2658 | ✔️ | 349 | 556 | 147 |
 | [Thai](#non-curated-languages) | 968 | 1993 | 50 | 4283 | 200 | 739 | 635 | 147 |
 | [Turkish](#non-curated-languages) | 53 | 137 | 42 | 3036 | 200 | 975 | 556 | 147 |
 | [Ukrainian](#ukrainian-українська) | 29 | 131 | 32 | 2579 | 200 | 928 | 550 | 146 |
@@ -1087,10 +1087,6 @@
 
 - [basemodui_german.txt](resource/basemodui_german.txt) has 2 untranslated strings.
 - [reactivedrop_german.txt](resource/reactivedrop_german.txt) has 112 untranslated strings.
-
-### Upcoming Release Notes
-
-- [20231201_german.xml](release_notes/20231201_english.xml) is missing.
 
 </details>
 
@@ -2968,7 +2964,7 @@
 - [addons/RiskOfRain/reactivedrop_swedish.txt](addons/RiskOfRain/resource/reactivedrop_swedish.txt) has 70 untranslated strings.
 - [steam_input_swedish.vdf](community/steam_input/steam_input_swedish.vdf) has 97 untranslated strings.
 - [platform/servers/serverbrowser_swedish.txt](platform/servers/serverbrowser_swedish.txt) has 24 untranslated strings.
-- [platform/vgui_swedish.txt](platform/vgui_swedish.txt) has 40 untranslated strings.
+- [platform/vgui_swedish.txt](platform/vgui_swedish.txt) has 27 untranslated strings.
 - [closecaption_swedish.txt](resource/closecaption_swedish.txt) has 2004 untranslated strings.
 - [reactivedrop_swedish.txt](resource/reactivedrop_swedish.txt) has 2658 untranslated strings.
 - [valve_swedish.txt](resource/valve_swedish.txt) has 131 untranslated strings.
