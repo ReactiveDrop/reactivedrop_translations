@@ -40,15 +40,15 @@
 "inventory_crafting_item"		"Crafting Item"
 "inventory_crafting_item_single_use_tool"		"Single-Use Tool"
 // common crafting materials. (100-1000 drop at a time)
-"inventory_crafting_item_ultra_common"		"Ultra-Common"
+"inventory_crafting_item_ultra_common"		"Bulk Material"
 // common crafting materials. (1-3 drop at a time)
-"inventory_crafting_item_common_part"		"Common"
+"inventory_crafting_item_common_part"		"Industrial Material"
 // uncommon crafting materials.
-"inventory_crafting_item_alien_part"		"Alien Part"
+"inventory_crafting_item_alien_part"		"Alien Material"
 // rare crafting materials.
-"inventory_crafting_item_computer_part"		"Computer Part"
+"inventory_crafting_item_computer_part"		"Tech Material"
 // crafting items that can be found by playing some campaigns but not others.
-"inventory_crafting_item_regional"		"Regional"
+"inventory_crafting_item_regional"		"Salvaged Material"
 // displayed before the list of Strange item accessories, eg. Strange Devices: Missions, Aliens Killed
 "inventory_strange"		"Strange Devices"
 // items that are essentially receipts for donating money to someone in the community. (for the forseeable future, all items on the store will be in this category)
