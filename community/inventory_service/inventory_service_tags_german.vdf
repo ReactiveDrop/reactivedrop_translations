@@ -66,7 +66,7 @@
 "[english]inventory_crafting_item"		"Crafting Item"
 "inventory_crafting_item_single_use_tool"		"Einwegwerkzeug"
 "[english]inventory_crafting_item_single_use_tool"		"Single-Use Tool"
-"inventory_crafting_item_ultra_common"		"Schüttgut"
+"inventory_crafting_item_ultra_common"		"Massengut"
 // common crafting materials. (100-1000 drop at a time)
 "[english]inventory_crafting_item_ultra_common"		"Bulk Material"
 "inventory_crafting_item_common_part"		"Industrielles Material"
@@ -75,7 +75,7 @@
 "inventory_crafting_item_alien_part"		"Alien-Material"
 // uncommon crafting materials.
 "[english]inventory_crafting_item_alien_part"		"Alien Material"
-"inventory_crafting_item_computer_part"		"Technisches Material"
+"inventory_crafting_item_computer_part"		"Technik-Material"
 // rare crafting materials.
 "[english]inventory_crafting_item_computer_part"		"Tech Material"
 "inventory_crafting_item_regional"		"Geborgenes Material"
