@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<content><string id="body">[list]
+[*]Spectators will now see the full length laser pointer for the marine they are spectating.
+[*]Using the healing ability on a medic weapon now dims the laser pointer in the same way that firing any other gun does.
+[*]Lobbies with no ping information now sort to the bottom of the list by ping instead of the top.
+[*]Fixed the Create Lobby screen not loading the saved lobby name from the previous lobby you created.
+[*]Fixed reservations not being properly cleaned up when a player who played a marine in the previous mission fully connects and automatically selects their marines.
+[*]Fixed sg-servers #2 not appearing as a ranked server (this fix went out as a hotfix yesterday).
+[*]Custom main menu layouts can now use the commands for the top bar.
+[*][b]Fixed a crash related to Steam avatar image handling in some custom layouts.[/b]
+[*]Updated the Infection deathmatch challenge:[list][*]Attempt to fix a bug that sometimes instantly regenerates all players' health to maximum when another dies.
+[*]Last Stand users now gain bonus maximum health that scales with the number of zombies left.
+[*]Fixed a bug that sometimes resets zombie grenades to zero charges when a player dies.[/list]
+[/list]
+</string><string id="subtitle"></string><string id="summary"></string><string id="title">Alien Swarm: Reactive Drop Update - December 2, 2023</string></content>

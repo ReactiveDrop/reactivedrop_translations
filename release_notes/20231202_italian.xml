@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<content><string id="body">[list]
+[*]Gli spettatori ora vedranno il puntatore laser completo del soldato di cui sono spettatori.
+[*]L'utilizzo dell'abilità di guarigione su un'arma medica ora oscura il puntatore laser come avviene con qualsiasi altra arma.
+[*]Le lobby senza informazioni sul ping vengono ora ordinate in fondo all'elenco in base al ping anziché in cima.
+[*]Corretta la schermata Crea lobby che non caricava il nome della lobby salvato dalla lobby precedentemente creata.
+[*]Sistemate le riserve che non venivano pulite correttamente quando un giocatore che ha giocato un soldato nella missione precedente si connette completamente e seleziona automaticamente i suoi soldati.
+[*]Corretto sg-servers #2 che non appare come server classificato (questa correzione è stata rilasciata ieri come hotfix).
+[*]I layout personalizzati del menu principale possono ora utilizzare i comandi per la barra superiore.
+[*][b]Corretto un arresto anomalo relativo alla gestione dell'immagine dell'avatar di Steam in alcuni layout personalizzati.[/b]
+[*]Aggiornata la sfida Deathmatch Infezione:[list][*]Tentativo di risolvere un bug che a volte rigenera istantaneamente la salute di tutti i giocatori al massimo quando un altro muore.
+[*]Gli utenti con Ultima Resistenza ora ottengono salute massima bonus che scala con il numero di zombi rimasti.
+[*]Risolto un bug che a volte azzerava le cariche delle granate zombi quando un giocatore moriva.[/list]
+[/list]
+</string><string id="subtitle"></string><string id="summary"></string><string id="title">Aggiornamento di Alien Swarm: Reactive Drop - 2 Dicembre 2023</string></content>
