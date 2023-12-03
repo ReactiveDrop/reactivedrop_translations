@@ -3,7 +3,7 @@
 "Language"		"swedish"
 "Tokens"
 {
-"examplecampaign_title"		"Exempel Kampanj"
+"examplecampaign_title"		"Exempel på Kampanj"
 "[english]examplecampaign_title"		"Example Campaign"
 "examplecampaign_desc"		"IAF befälhavare skulle vela bjuda in dig till Exempel Kampanj. Använd detta exempel för att göra oss stolta."
 "[english]examplecampaign_desc"		"IAF command would like to welcome you to the Example Campaign. Please use this example to make us proud."
