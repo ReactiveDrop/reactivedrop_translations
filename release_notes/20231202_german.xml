@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<content><string id="body">[list]
+[*]Zuschauer sehen jetzt den vollen Laserpointer des Soldaten, den sie beobachten.
+[*]Wenn du die Heilungsfähigkeit einer Sanitäterwaffe einsetzt, wird der Laserpointer jetzt genauso gedimmt wie beim Abfeuern jeder anderen Waffe.
+[*]Lobbys ohne Ping-Informationen werden jetzt am Ende der Liste nach Ping sortiert, statt am Anfang.
+[*]Der Bildschirm "Lobby erstellen" lädt jetzt den gespeicherten Namen einer zuvor erstellten Lobby.
+[*]Reservierungen wurden nicht richtig bereinigt, wenn ein Spieler, der beim vorherigen Einsatz einen Soldaten gespielt hat, sich vollständig verbindet und automatisch seinen Charakter auswählt.
+[*]Es wurde behoben, dass sg-servers #2 nicht als Ranked Server erscheint (dieser Fix wurde gestern als Hotfix veröffentlicht).
+[*]Benutzerdefinierte Hauptmenü-Layouts können jetzt Befehle für die obere Leiste verwenden.
+[*][b]Ein Absturz im Zusammenhang mit der Handhabung von Steam-Avatarbildern in einigen benutzerdefinierten Layouts wurde behoben.[/b]
+[*]Die Deathmatch-Herausforderung "Infektion" wurde aktualisiert:[list][*]Es wurde versucht, einen Fehler zu beheben, der manchmal die Gesundheit aller Spieler sofort auf das Maximum regeneriert, wenn ein anderer Spieler stirbt.
+[*]Nutzer des Letzter Widerstand-Modus erhalten jetzt einen Bonus auf die maximale Gesundheit, der mit der Anzahl der verbleibenden Zombies skaliert.
+[*]Ein Fehler wurde behoben, durch den Granaten der Zombies manchmal auf null Ladungen zurückgesetzt wurden, wenn ein Spieler starb.[/list]
+[/list]
+</string><string id="subtitle"></string><string id="summary"></string><string id="title">Alien Swarm: Reactive Drop Update - 2. Dezember 2023</string></content>
