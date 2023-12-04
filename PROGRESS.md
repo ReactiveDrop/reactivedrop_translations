@@ -6,7 +6,7 @@
 | [Czech](#czech-čeština) | 73 | 1810 | 42 | 4040 | 200 | 980 | 624 | 147 |
 | [Danish](#non-curated-languages) | 54 | 231 | 42 | 3568 | 200 | 710 | 619 | 148 |
 | [Dutch](#non-curated-languages) | 53 | 2004 | 42 | 3036 | 200 | 710 | 556 | 147 |
-| [Finnish](#non-curated-languages) | 44 | 2004 | 42 | 3036 | 200 | 709 | 556 | 147 |
+| [Finnish](#non-curated-languages) | 44 | 2004 | 42 | 2960 | 200 | 709 | 556 | 147 |
 | [French](#french-français) | 29 | 138 | 42 | 2401 | 200 | 650 | 542 | 126 |
 | [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Hungarian](#non-curated-languages) | 53 | 138 | 42 | 3036 | 200 | 975 | 556 | 148 |
@@ -21,7 +21,7 @@
 | [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [European Spanish](#spanish-español-de-españa) | 30 | 2004 | 40 | 2451 | 200 | 714 | 552 | 147 |
 | [Latin American Spanish](#latam-español-latinoamericano) | 1283 | 2004 | 634 | 4547 | 204 | 980 | 638 | 148 |
-| [Swedish](#swedish-svenska) | ✔️ | 2004 | ✔️ | 2658 | ✔️ | 319 | 556 | 148 |
+| [Swedish](#swedish-svenska) | ✔️ | 2004 | ✔️ | 2631 | ✔️ | 319 | 556 | 148 |
 | [Thai](#non-curated-languages) | 968 | 1993 | 50 | 4283 | 200 | 739 | 635 | 148 |
 | [Turkish](#non-curated-languages) | 53 | 137 | 42 | 3036 | 200 | 975 | 556 | 148 |
 | [Ukrainian](#ukrainian-українська) | 29 | 131 | 32 | 2579 | 200 | 933 | 550 | 147 |
@@ -2972,7 +2972,7 @@
 - [platform/servers/serverbrowser_swedish.txt](platform/servers/serverbrowser_swedish.txt) has 2 untranslated strings.
 - [platform/vgui_swedish.txt](platform/vgui_swedish.txt) has 27 untranslated strings.
 - [closecaption_swedish.txt](resource/closecaption_swedish.txt) has 2004 untranslated strings.
-- [reactivedrop_swedish.txt](resource/reactivedrop_swedish.txt) has 2658 untranslated strings.
+- [reactivedrop_swedish.txt](resource/reactivedrop_swedish.txt) has 2631 untranslated strings.
 - [valve_swedish.txt](resource/valve_swedish.txt) has 131 untranslated strings.
 
 ### Steam Store and Community
