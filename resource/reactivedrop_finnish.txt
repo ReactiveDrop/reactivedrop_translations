@@ -322,7 +322,7 @@
 "[english]asw_rank_wildcat"		"Private First Class"
 "asw_rank_wolfe"		"Sotamies"
 "[english]asw_rank_wolfe"		"Private"
-"asw_rank_faith"		"Korpraali"
+"asw_rank_faith"		"Alikersantti"
 "[english]asw_rank_faith"		"Corporal"
 "asw_rank_bastille"		"Sotamies"
 "[english]asw_rank_bastille"		"Private"
