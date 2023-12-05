@@ -309,7 +309,7 @@
 "[english]DmeCombinationSystemEditor_MoveDown"		"Move Down"
 "DmeCombinationSystemEditor_ToggleWrinkleType"		"Växla Vrinkel Typ"
 "[english]DmeCombinationSystemEditor_ToggleWrinkleType"		"Toggle Wrinkle Type"
-"DmeCombinationSystemEditor_Import"		"Importera kombinationsregler..."
+"DmeCombinationSystemEditor_Import"		"Importera kombinations regler..."
 "[english]DmeCombinationSystemEditor_Import"		"Import combination rules..."
 "DmeCombinationSystemEditor_ImportDomination"		"Importera domineringsregler..."
 "[english]DmeCombinationSystemEditor_ImportDomination"		"Import Domination Rules..."
