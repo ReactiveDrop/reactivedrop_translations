@@ -423,7 +423,7 @@
 "[english]Valve_Hud_SQUAD_STATIONED"		"SQUAD STATIONED"
 "Valve_HDRDEMO_LeftTitle"		"Khẩu độ cố định"
 "[english]Valve_HDRDEMO_LeftTitle"		"Fixed Aperture"
-"Valve_HDRDEMO_RightTitle"		"High-Dynamic Range (HDR)"
+"Valve_HDRDEMO_RightTitle"		"Dải động rộng (HDR)"
 "[english]Valve_HDRDEMO_RightTitle"		"High-Dynamic Range"
 "Valve_Hud_CamFOV"		"FOV"
 "[english]Valve_Hud_CamFOV"		"FOV"
