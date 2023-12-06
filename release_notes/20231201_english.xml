@@ -5,7 +5,7 @@ We're testing the new main menu layout that will be officially launching on Apri
 [*]The main menu has been redesigned, with information about the current Heroes of the Interstellar Armed Forces season, recent major updates, and trending Steam Workshop addons.
 [*]To revert to the previous layout, enter the console command [b]rd_legacy_ui 2017; host_writeconfig[/b]. This console command will continue to work after the new UI officially launches.
 [*]Fixed the 2024 main menu partially showing up when rd_legacy_ui 2017 is set and the resolution is changed without closing the game.
-[*]Lobby filters have returned in the form of convars (UI coming soon): See [b]cvarlist rd_lobby_filter_[/b] for a list.[expand type=details][code]
+[*]Lobby filters have returned, along with new convars: See [b]cvarlist rd_lobby_filter_[/b] for a list.[expand type=details][code]
 cvar list
 --------------
 rd_lobby_filter_always_friends           : 1        : , "a", "cl"      : always show lobbies with Steam friends in them
@@ -13,7 +13,7 @@ rd_lobby_filter_challenge                : -1       : , "a", "cl"      : challen
 rd_lobby_filter_dedicated                : -1       : , "a", "cl"      : dedicated server preference for searched lobbies. -1=don't care, 0=only listen, 1=only dedicated
 rd_lobby_filter_difficulty_max           : 5        : , "a", "cl"      : maximum difficulty for searched lobbies. 1=easy,2=normal,3=hard,4=insane,5=brutal
 rd_lobby_filter_difficulty_min           : 1        : , "a", "cl"      : minimum difficulty for searched lobbies. 1=easy,2=normal,3=hard,4=insane,5=brutal
-rd_lobby_filter_distance                 : 3        : , "a", "cl"      : maximum distance for player-hosted lobbies. does not affect lobbies on dedicated servers. 0=only own region, 1=nearby regions, 
+rd_lobby_filter_distance                 : 3        : , "a", "cl"      : maximum distance for player-hosted lobbies. does not affect lobbies on dedicated servers. 0=only own region, 1=nearby regions
 rd_lobby_filter_hardcoreff               : -1       : , "a", "cl"      : hardcore friendly fire preference for searched lobbies. -1=don't care, 0=only off, 1=only on
 rd_lobby_filter_installed                : -1       : , "a", "cl"      : installed mission preference for searched lobbies. -1=don't care, 0=only non-installed or version mismatch, 1=only installed
 rd_lobby_filter_onslaught                : -1       : , "a", "cl"      : onslaught preference for searched lobbies. -1=don't care, 0=only off, 1=only on
@@ -81,7 +81,7 @@ rd_lobby_filter_onslaught                : -1       : , "a", "cl"      : onslaug
 [*]When the sentry fires, it uses the ACT_OBJ_RUNNING activity. For the Incendiary and Freeze sentries, this sequence should be looped. For other sentries, this animation runs once per shot. When the sentry is not firing, it returns to its first sequence, which should be the idle state.
 [*]Disassembling a sentry changes its aim_pitch from 0 to -90 based on the disassembly progress. If the sentry is firing while being disassembled, it aims at the enemy as normal.
 [/list][/expand]
-[*]Advanced and Incendiary sentries no longer rotate towards the center of their range 
+[*]Advanced and Incendiary sentries no longer rotate towards the center of their range.
 [*]Incendiary sentry now has a visible pilot light.
 [*]Incendiary and Freeze sentries now turn 3x faster when rotating towards an enemy as originally intended.
 [*]Cannon sentry now attempts to lead targets that are running in a straight line.
@@ -121,10 +121,12 @@ rd_lobby_filter_onslaught                : -1       : , "a", "cl"      : onslaug
 [*]void [b]Deathmatch.IncreaseKillingSpree[/b](handle MarineOrResource)
 [*]int [b]Deathmatch.GetKillingSpree[/b](handle MarineOrResource)
 [/list][/expand]
+[*]Added a method named GetMarineProfile to marines, which returns the marine's profile number. Use this if your script needs to do different things for different marines instead of relying on the entity name (GetName()) or the translated marine name (GetMarineName()). Returned values are currently between 0 and 7, or between ASW_MARINE_PROFILE_SARGE and ASW_MARINE_PROFILE_VEGAS if you are using the named constants (recommended).
 [*]Fixed the weapon_reload game event not being sent for weapons with 1 shot per reload (Precision Rail Rifle).
 [*]Improved the MarineFinishedMission input on asw_gamerules:[list]
-[*]Can now handle both marines and marine resources (if you want to mark all marines, dead or alive, as having finished the mission early, you can use [b]asw_marine_resource[/b] as the input parameter.
+[*]Can now handle both marines and marine resources (if you want to mark all marines, dead or alive, as having finished the mission early, you can use [b]asw_marine_resource[/b] as the input parameter.)
 [*]Now properly handles keywords like !activator and !caller.
 [*]Now affects speedrun times for achievements and experience.
 [/list]
+[*]Added convar rd_debrief_timelines, which can be used to disable the timelines sent at the end of a mission. This can be used by challenges that support a high player count to reduce lag at the end of a mission.
 [/list]</string><string id="subtitle"></string><string id="summary"></string><string id="title">Alien Swarm: Reactive Drop Update - December 1, 2023</string></content>

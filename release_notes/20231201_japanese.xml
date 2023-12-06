@@ -5,8 +5,7 @@
 [*]メインメニューのデザインを刷新しました。今シーズンのランクマッチ、最近の大型アップデート、Steamワークショップで人気のアドオンなどについての情報が表示されます。
 [*]従来のデザインのままにしたい場合は、コンソールコマンドで[b]rd_legacy_ui 2017; host_writeconfig[/b]と入力して下さい。あらかじめ入力しておけば新UIのリリース時にもそのままになります。
 [*]rd_legacy_ui 2017が設定されている状態で画面解像度を変更してゲームを再起動していない場合、2024年版メインメニューの一部が表示されていたのを修正しました。
-[*]以前のロビーフィルターはコンソール変数で再使用可能になりました。(専用UIも実装予定です): コンソールに[b]cvarlist rd_lobby_filter_[/b]と入力すると以下のようにリストを見られます。[expand type=details][code]
-cvar list
+[*]以前のロビーフィルターは再使用可能になり、コンソール変数も追加されました。: コンソールに[b]cvarlist rd_lobby_filter_[/b]と入力すると以下のようにリストを見られます。[expand type=details][code]
 --------------
 rd_lobby_filter_always_friends           : 1        : , "a", "cl"      : Steamフレンドが参加しているロビーを常に表示
 rd_lobby_filter_challenge                : -1       : , "a", "cl"      : チャレンジに関するフィルター。-1=どちらでも、0=無効のみ、1=有効のみ
@@ -121,10 +120,12 @@ rd_lobby_filter_onslaught                : -1       : , "a", "cl"      : オン�
 [*]void [b]Deathmatch.IncreaseKillingSpree[/b](handle MarineOrResource)
 [*]int [b]Deathmatch.GetKillingSpree[/b](handle MarineOrResource)
 [/list][/expand]
+[*]海兵隊にGetMarineProfileというメソッドを追加。これは隊員のプロフィール番号を返す。エンティティ名(GetName())やローカライズ後の隊員名(GetMarineName())ではなく、どの隊員か次第で別の挙動になるスクリプトの判定に使える。返り値は現在0から7、もしくは名前付き定数を使用する場合(こちらを推奨)はASW_MARINE_PROFILE_SARGEからASW_MARINE_PROFILE_VEGASになる。
 [*]weapon_reloadゲームイベントが一発ごとにリロードする武器(高精度レールライフル)では送信されていなかったのをを修正。
 [*]asw_gamerulesのMarineFinishedMissionインプットを改善:[list]
 [*]隊員と隊員が持つもの両方を扱えるようになった(生死に関わらず全隊員をミッション完了したものとマークしたい場合、[b]asw_marine_resource[/b]をインプットパラメーターとして使用する)。
 [*]!activatorや!callerのようなキーワードを正常に扱えるようになった。
 [*]スピードラン実績の時間判定や経験値に影響するようになった。
 [/list]
+[*]コンソール変数rd_debrief_timelinesを追加。ミッション終了時に表示されるタイムラインを無効にできる。これにより多数のプレイヤーが参加できるになるチャレンジを使用したミッションの終了時に発生するラグを軽減できる。
 [/list]</string><string id="subtitle"></string><string id="summary"></string><string id="title">Alien Swarm: Reactive Dropアップデート - 2023年12月1日</string></content>

@@ -66,21 +66,21 @@
 "[english]inventory_crafting_item"		"Crafting Item"
 "inventory_crafting_item_single_use_tool"		"Dụng cụ dùng một lần"
 "[english]inventory_crafting_item_single_use_tool"		"Single-Use Tool"
-"inventory_crafting_item_ultra_common"		"Siêu phổ biến"
+"inventory_crafting_item_ultra_common"		"Vật liệu số lớn"
 // common crafting materials. (100-1000 drop at a time)
-"[english]inventory_crafting_item_ultra_common"		"Ultra-Common"
-"inventory_crafting_item_common_part"		"Phổ biến"
+"[english]inventory_crafting_item_ultra_common"		"Bulk Material"
+"inventory_crafting_item_common_part"		"Vật liệu công nghiệp"
 // common crafting materials. (1-3 drop at a time)
-"[english]inventory_crafting_item_common_part"		"Common"
-"inventory_crafting_item_alien_part"		"Bộ phận ngoài hành tinh"
+"[english]inventory_crafting_item_common_part"		"Industrial Material"
+"inventory_crafting_item_alien_part"		"Vật liệu ngoài hành tinh"
 // uncommon crafting materials.
-"[english]inventory_crafting_item_alien_part"		"Alien Part"
-"inventory_crafting_item_computer_part"		"Bộ phận máy tính"
+"[english]inventory_crafting_item_alien_part"		"Alien Material"
+"inventory_crafting_item_computer_part"		"Vật liệu công nghệ"
 // rare crafting materials.
-"[english]inventory_crafting_item_computer_part"		"Computer Part"
-"inventory_crafting_item_regional"		"Chỉ từ một vài vùng"
+"[english]inventory_crafting_item_computer_part"		"Tech Material"
+"inventory_crafting_item_regional"		"Vật liệu được trục vớt"
 // crafting items that can be found by playing some campaigns but not others.
-"[english]inventory_crafting_item_regional"		"Regional"
+"[english]inventory_crafting_item_regional"		"Salvaged Material"
 "inventory_strange"		"Thiết bị lạ kỳ"
 // displayed before the list of Strange item accessories, eg. Strange Devices: Missions, Aliens Killed
 "[english]inventory_strange"		"Strange Devices"

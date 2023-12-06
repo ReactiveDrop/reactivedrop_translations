@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<content><string id="body">[h2]Menüs[/h2]
+Wir testen das neue Layout des Hauptmenüs, das am 20. April 2024 offiziell eingeführt wird.
+[list]
+[*]Das Hauptmenü wurde neu gestaltet und enthält Informationen über die aktuelle Saison von Helden der interstellaren Streitkräfte, die letzten großen Updates und die aktuellen Steam Workshop-Addons.
+[*]Um zum vorherigen Layout zurückzukehren, gib den Konsolenbefehl [b]rd_legacy_ui 2017; host_writeconfig[/b] ein. Dieser Konsolenbefehl funktioniert auch noch nach dem offiziellen Start der neuen Benutzeroberfläche.
+[*]Das 2024-Hauptmenü wurde manchmal angezeigt wenn rd_legacy_ui 2017 eingestellt und die Auflösung geändert wurde, dies wurde behoben.
+[*]Die Lobby-Filter sind wieder da, zusammen mit neuen Convars: Siehe [b]cvarlist rd_lobby_filter_[/b] für eine Liste.[expand type=details][code]
+cvar list
+--------------
+rd_lobby_filter_always_friends           : 1        : , "a", "cl"      : zeige immer Lobbys mit Steam-Freunden
+rd_lobby_filter_challenge                : -1       : , "a", "cl"      : zeige Lobbys mit Herausforderungen 1=egal, 0=keine, 1=nur mit
+rd_lobby_filter_dedicated                : -1       : , "a", "cl"      : zeige dezidierte Lobbys 1=egal, 0=nur von Spielern, 1=nur dezidierte
+rd_lobby_filter_difficulty_max           : 5        : , "a", "cl"      : zeige Lobbys mit maximalem Schwierigkeitsgrad 1=Einfach,2=Normal,3=Schwer,4=Wahnsinnig,5=Brutal
+rd_lobby_filter_difficulty_min           : 1        : , "a", "cl"      : zeige Lobbys mit minimalem Schwierigkeitsgrad 1=Einfach,2=Normal,3=Schwer,4=Wahnsinnig,5=Brutal
+rd_lobby_filter_distance                 : 3        : , "a", "cl"      : maximale Entfernung für von Spielern gehostete Lobbys. wirkt sich nicht auf dedizierte Server aus. 0=nur eigene Region, 1=nahe Regionen, 
+rd_lobby_filter_hardcoreff               : -1       : , "a", "cl"      : zeige Lobbys mit Hardcore-Freundbeschuss 1=egal, 0=nur Ansteigend, 1=nur Maximal
+rd_lobby_filter_installed                : -1       : , "a", "cl"      : zeige Lobbys mit installierten Einsätzen 1=egal, 0=nur nicht installierte oder falsche Versionen 1=nur installierte
+rd_lobby_filter_onslaught                : -1       : , "a", "cl"      : zeige Lobbys mit Ansturm 1=egal, 0=nur Aus, 1=nur Ein
+--------------
+  9 convars/concommands für [rd_lobby_filter_][/code][/expand]
+[*]Die Anzahl der öffentlichen Lobbys im Hauptmenü umfasst nicht mehr die Lobbys auf dedizierten Servern.
+[*]Die Serverliste im Lobby-Browser ist beim ersten Aktualisieren nicht mehr leer.
+[*]Dedizierte Server werden im Lobby-Browser nun als separate Einträge für die Lobby auf dem dedizierten Server angezeigt.
+[*]Draht-Hacks wurden unterbrochen, wenn ein anderer Techniker mit dem Hacking begann.
+[/list]
+
+[h2]Controller[/h2]
+[list]
+[*]Controller sollten vom Spiel erkannt werden, auch wenn es ohne eingesteckte Controller gestartet wurde.
+[*]Wenn du mit der Maus zielst, werden die Tastenaufforderungen nicht mehr in den Tastaturmodus gewechselt.
+[*]Wenn du Tasten auf der Tastatur oder dem Controller drückst, ändert sich die Eingabeaufforderung entsprechend. Die Maustasten haben keinen Einfluss auf die Eingabeaufforderung (wenn du eine Taste auf der Tastatur drückst, werden die Maustastenaufforderungen angezeigt).
+[*]Du kannst auch mit der Controller-Steuerung zielen, während du alles andere mit den Tastatur- und Maustasten machst, wenn du willst.
+[/list]
+
+[h2]Einsätze[/h2]
+[list]
+[*][b]Tränen für Tarnor: Oasis-Kolonie Raumhafen:[/b] Eine undurchsichtige Decke zwischen dem Hangar und der Gepäckausgabe wurde behoben.
+[*][b]Reduktion (alle Einsätze):[/b] Musik hinzugefügt.
+[*][b]Reduktion: Unvermeidbare Eskalation:[/b] Die Rendering-Qualität der letzten Szene wurde verbessert. Die Szene blieb beim Neustart des Einsatzes stecken.
+[*][b]Reduktion: Unvermeidbare Eskalation:[/b] Die letzte Filmsequenz zählt nicht mehr für die Speedrun-Zeit und kann übersprungen werden.
+[*][b]Reduktion: Unvermeidbare Eskalation:[/b] Ein Softlock wurde behoben, wenn der Soldat, der den Kran bedient, starb oder sich teleportierte.
+[*][b]Reduktion: Nuklearer Begleitschutz:[/b] Ein Client-Absturz am Ende des Einsatzes wurde behoben, der damit zusammenhing, dass manche Objekte je nach Entfernung verschwanden.
+[/list]
+
+[h2]Waffen[/h2]
+[list]
+[*][b]X-33 Schadensverstärker:[/b] Waffen, die nicht von der Schadensverstärkung betroffen sind, zeigen jetzt einen viel subtileren Strahleneffekt.
+[*][b]X-33 Schadensverstärker:[/b] Der Strahleneffekt wird an den Soldaten statt an die Waffe angehängt, wenn die Waffe gewechselt wird während dem Zustand.
+[*][b]IAF Mobile Heileinheit:[/b] Es wurde eine subtile Waffenanimation für die Heilung hinzugefügt.
+[*][b]IAF Mobile Heileinheit:[/b] Der Bildschirm auf der Waffe ist ausgefahren, wenn sie ausgerüstet ist.
+[*][b]IAF Mobile Heileinheit:[/b] Es wurde behoben das der Heilstrahleffekt an den Füßen des Soldaten befestigt wurde.
+[*][b]IAF Mobile Heileinheit:[/b] Es wurde ein visueller Effekt hinzugefügt, wenn die Waffe nach einem Ziel sucht.
+[*][b]IAF Mobile Heileinheit:[/b] Das Glühen des Heilungsziels wurde in der ersten oder dritten Person manchmal nicht aktualisiert.
+[*][b]IAF Mobile Amp-Heileinheit:[/b] Änderungen von IAF Mobile Heileinheit und X-33 Schadensverstärker wurden übertragen.
+[*][b]IAF Mobile Amp-Heileinheit:[/b] Du kannst keine Munition mehr ausgeben, um Waffen zu verstärken, die nicht von der Schadensverdopplung profitieren.
+[*][b]IAF Medical SMG:[/b] Änderungen der IAF Mobile Heileinheit wurden übertragen.
+[*][b]IAF Medical SMG:[/b] Wenn du dich in der ersten oder dritten Person selbst heilst, wird beim Zielen auf einen anderen Soldaten, dieser geheilt, um dem Verhalten anderer Sanitäterwaffen besser zu entsprechen, wenn du auf einen Soldaten zielst, nachdem du den Abzug gedrückt hast.
+[*][b]Querschläger-Gewehr (unveröffentlicht):[/b] [expand type=details][list][*]Das Geräusch des Trockenfeuers wurde im Schrotflintenmodus wiederholt abgespielt.
+[*]Die Feuerrate im Schrotflintenmodus wurde erhöht.
+[*]Verbesserte Genauigkeit des Laservisiers.
+[*]Erhöhte maximale Reichweite.
+[*]Kugeln prallen jetzt auch von nicht-statischen Objekten ab.
+[*]Die Kugeln prallen jetzt auch von Decken und Böden ab.[/list][/expand]
+[/list]
+
+[h3]Wächter[/h3]
+[list]
+[*]Für alle Wächter wurden Animationen zum Auf- und Abbau sowie zum Abfeuern hinzugefügt.
+[*]Die Wächter drehen sich jetzt nach oben und unten und deren Kamera zielt dorthin, wohin sich der Wächter drehen will.
+[*]Der Granaten-Wächter verbraucht jetzt beim feuern Granaten aus seiner Trommel.
+[*]Modifizierte Wächter ohne Unterstützung für die neuen Animationen sehen weiter so aus wie bisher.
+[*]Für Modder: [expand type=details][list]
+[*]Als Referenz findest du die [url=https://github.com/ReactiveDrop/reactivedrop_public_src/tree/reactivedrop_beta/contentsrc/modelsrc/sentry_gun]Modell-Quelldateien auf GitHub[/url].
+[*]Die Standardanimation (Leerlauf) MUSS die erste definierte Sequenz des Modells sein.
+[*]Alle Pose-Parameter und Animationen, die unten aufgeführt sind, sind optional; wenn sie im Modell nicht vorhanden sind, wird die Animation einfach nicht abgespielt.
+[*]Es wurde der Pose-Parameter aim_pitch hinzugefügt, der von 45 (nach oben) bis -45 (nach unten) reicht (oder -90; siehe unten). Wenn der Wächter zusammengebaut wird, beginnt er bei -30.
+[*]Der Pose-Parameter aim_yaw wurde hinzugefügt. Er reicht von 120 (Kamera zielt weit links) bis -120 (Kamera zielt weit rechts).
+[*]Es wurde der Pose-Parameter ammo_remaining hinzugefügt, der von 0 bis 999999 reicht (obwohl dein Modell diesen Bereich wahrscheinlich stärker begrenzen sollte). Auf der Karte, vom Mapper platzierte Wachposten, die unendlich viel Munition haben, erhalten 999999 für diesen Pose-Parameter. Dieser Pose-Parameter ändert sich am [i]Ende[/i] der Schussanimation, wenn die Schussanimation nicht in einer Schleife läuft. Für von Spielern platzierte Wächter beträgt der maximale ammo_remaining-Wert 450 für Minigun, 1200 für Brandgeschoss, 800 für Frost und 40 für Granaten.
+[*]Für den Zusammenbau des Wächters wird die Aktivität ACT_OBJ_ASSEMBLING verwendet; wenn diese Aktivität im Modell nicht vorhanden ist, wird der Wächter während des Zusammenbaus nicht gerendert. Die Dauer dieser Sequenz spielt keine Rolle; die Animation beginnt bei 0% Montage und endet bei 100% Montage.
+[*]Wenn der Wächter feuert, verwendet er die Aktivität ACT_OBJ_RUNNING. Beim Brandgeschoss-Wächter und dem Frost-Wächter sollte diese Sequenz in einer Schleife laufen. Bei anderen Wächtern läuft diese Animation einmal pro Schuss. Wenn der Wächter nicht schießt, kehrt er zu ihrer ersten Sequenz zurück, die der Ruhezustand sein sollte.
+[*]Wenn ein Wächter abgebaut wird, ändert sich sein aim_pitch von 0 bis -90, je nachdem, wie weit der Abbau fortgeschritten ist. Wenn der Wächter schießt, während er abgebaut wird, zielt er ganz normal auf den Feind.
+[/list][/expand]
+[*]Minigun- und Brandgeschoss-Wächter drehen sich nicht mehr zur Mitte ihrer Reichweite
+[*]Der Brandgeschoss-Wächter hat jetzt eine sichtbare Zündflamme.
+[*]Brandgeschoss- und Frost-Wächter drehen sich jetzt 3x schneller, wenn sie sich auf einen Feind zubewegen, wie ursprünglich vorgesehen.
+[*]Der Granaten-Wächter versucht jetzt, vor Ziele zu schießen, die in einer geraden Linie laufen.
+[/list]
+
+[h2]Aliens[/h2]
+[list]
+[*]Boomer-Blobs werden jetzt von Nahkampfangriffen beeinflusst. Die zugehörigen Convars rd_vindicator_grenade_pushed_by_explosions, rd_boomer_blob_pushed_by_everything, rd_boomer_blob_punch_force_multiplier und rd_boomer_blob_push_force_multiplier wurden hinzugefügt.
+[*]Das Modell der Königin wurde aktualisiert, um dem Stil der anderen Aliens besser zu entsprechen.
+[/list]
+
+[h2]Deathmatch[/h2]
+[list]
+[*]Die Team-Deathmatch-Herausforderung "Infektion" wurde zur offiziellen Herausforderungsliste hinzugefügt, einschließlich der First- und Third-Person-Varianten.
+[/list]
+
+[h2]Modding[/h2]
+[list]
+[*]Entität rd_map_texture hinzugefügt, die ein beliebiges Material über die Minimap zeichnen kann. Es kann gedreht, aktiviert und deaktiviert werden.
+[*]Das env_screenoverlay blieb beim sofortigen Neustart oder beim Töten der Entität stecken.
+[*]Es wurde behoben, dass Soldaten rollen, in den Nahkampf gehen oder schießen können, wenn sie vollständig eingefroren sind.
+[*]Eine Auftau-Skriptfunktion für bewohnbare NSCs wurde hinzugefügt.
+[*]Ein globales Deathmatch-Objekt für VScript wurde hinzugefügt. [expand type=details][list]
+[*]int [b]TEAM_UNASSIGNED[/b]
+[*]int [b]TEAM_SPECTATOR[/b]
+[*]int [b]TEAM_ALPHA[/b]
+[*]int [b]TEAM_BETA[/b]
+[*]void [b]Deathmatch.ResetScores[/b]()
+[*]int [b]Deathmatch.GetKills[/b](handle MarineOrResource)
+[*]void [b]Deathmatch.SetKills[/b](handle MarineOrResource, int Kills)
+[*]int [b]Deathmatch.GetDeaths[/b](handle MarineOrResource)
+[*]void [b]Deathmatch.SetDeaths[/b](handle MarineOrResource, int Deaths)
+[*]int [b]Deathmatch.GetTeamScore[/b](int TeamNumber)
+[*]void [b]Deathmatch.SetTeamScore[/b](int TeamNumber, int Score)
+[*]bool [b]Deathmatch.CheckFragLimit[/b](handle MarineOrResource) - gibt true zurück, wenn die Runde vorbei ist.
+[*]void [b]Deathmatch.ResetKillingSpree[/b](handle MarineOrResource)
+[*]void [b]Deathmatch.IncreaseKillingSpree[/b](handle MarineOrResource)
+[*]int [b]Deathmatch.GetKillingSpree[/b](handle MarineOrResource)
+[/list][/expand]
+[*]Den Soldaten wurde eine Methode namens GetMarineProfile hinzugefügt, die die Profilnummer des Soldaten zurückgibt. Verwende diese Methode, wenn dein Skript für verschiedene Soldaten unterschiedliche Dinge tun muss, anstatt sich auf den Entitätsnamen (GetName()) oder den übersetzten Soldatennamen (GetMarineName()) zu verlassen. Die zurückgegebenen Werte liegen derzeit zwischen 0 und 7, oder zwischen ASW_MARINE_PROFILE_SARGE und ASW_MARINE_PROFILE_VEGAS, wenn du die benannten Konstanten verwendest (empfohlen).
+[*]Das Spielereignis weapon_reload wurde für Waffen mit 1 Schuss pro Nachladung (Präzisions-Lasergewehr) nicht mehr gesendet.
+[*]Die Eingabe von MarineFinishedMission in asw_gamerules wurde verbessert:[list]
+[*]Kann jetzt sowohl Soldaten als auch dessen Resourcen verarbeiten (wenn du alle Soldaten, ob tot oder lebendig, als vorzeitig beendet markieren willst, kannst du [b]asw_marine_resource[/b] als Eingabeparameter verwenden).
+[*]Behandelt jetzt Schlüsselwörter wie !activator und !caller richtig.
+[*]Beeinflusst jetzt die Speedrun-Zeiten für Erfolge und Erfahrung.
+[/list]
+[*]Convar rd_debrief_timelines wurde hinzugefügt, mit dem die am Ende eines Einsatzes gesendeten Timelines deaktiviert werden können. Dies kann von Herausforderungen genutzt werden, die eine hohe Spielerzahl unterstützen, um den Lag am Ende des Einsatzes zu reduzieren.
+[/list]</string><string id="subtitle"></string><string id="summary"></string><string id="title">Alien Swarm: Reactive Drop Update - 1. Dezember 2023</string></content>

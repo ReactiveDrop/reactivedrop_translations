@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<content><string id="body">[h2]用户界面[/h2]
+我们正在对计划于2024年4月20日推出的全新用户界面进行测试。
+[list]
+[*]更新 重新设计了主界面样式。新界面将展示当季《星际武装部队英雄榜》信息、近期重大更新以及热门Steam创意工坊物品等内容。
+[*]欲回滚到旧的游戏界面，请在控制台输入 [b]rd_legacy_ui 2017; host_writeconfig[/b]。该命令在新界面正式退出后仍可用。
+[*]修复 当rd_legacy_ui 2017启用时2024版主界面在切换屏幕分辨率后短暂显示的错误。
+[*]更新 游戏房间过滤器以控制台命令的形式回归(用户界面随后上线)，详见 [b]cvarlist rd_lobby_filter_[/b] 系列命令列表说明：[expand type=details][code]
+控制台命令列表
+--------------
+rd_lobby_filter_always_friends           : 1        : , "a", "cl"      : 始终显示Steam好友所在的游戏房间
+rd_lobby_filter_challenge                : -1       : , "a", "cl"      : 按挑战过滤游戏房间。-1=任意，0=仅显示未启用挑战的房间，1=仅显示启用挑战的房间
+rd_lobby_filter_dedicated                : -1       : , "a", "cl"      : 按房间类型过滤游戏房间。 -1=任意，0=仅显示玩家创建的房间，1=仅显示专用服务器房间
+rd_lobby_filter_difficulty_max           : 5        : , "a", "cl"      : 按最高难度过滤游戏房间。 1=简单，2=普通，3=困难，4=疯狂，5=残酷
+rd_lobby_filter_difficulty_min           : 1        : , "a", "cl"      : 按最低难度过滤游戏房间。 1=简单，2=普通，3=困难，4=疯狂，5=残酷
+rd_lobby_filter_distance                 : 3        : , "a", "cl"      : 按房间所在区域过滤游戏房间。仅过滤玩家创建的房间，不过滤专用服务器房间。0=显示自己所在区域的房间。1=显示附近区域的房间， 
+rd_lobby_filter_hardcoreff               : -1       : , "a", "cl"      : 按友伤模式过滤游戏房间。 -1=任意，0=仅显示开启正常友伤模式的房间, 1=仅显示开启写实友伤模式的房间
+rd_lobby_filter_installed                : -1       : , "a", "cl"      : 按地图类型过滤游戏房间。-1=任意，0=仅显示未安装地图或地图版本不匹配的房间，1=仅显示已安装且地图版本匹配的房间
+rd_lobby_filter_onslaught                : -1       : , "a", "cl"      : 按猛攻类型过滤游戏房间。-1=任意，0=仅显示关闭猛攻的房间，1=仅显示启用猛攻的房间
+--------------
+[rd_lobby_filter_]控制台命令列表共有9个相关命令[/code][/expand]
+[*]调整 主界面显示的公共房间数目不再包括专用服务器上的房间数目。
+[*]修复 游戏房间浏览器中的服务器列表在第一次刷新时显示为空的错误。
+[*]修复 专用服务器上建立的房间在游戏房间浏览器中显示为两个条目的错误。
+[*]修复 第二个技术员开始破解会打断第一个技术员正在进行的线路破解的错误(注意某些地图仍然可能禁止两个技术员同时进行破解)。
+[/list]
+
+[h2]游戏手柄[/h2]
+[list]
+[*]修复 在未插入手柄情况下启动游戏，之后再插入手柄，导致手柄无法识别的问题。
+[*]调整 使用鼠标进行瞄准不再将按键提示切换为键鼠模式。
+[*]调整 按下键盘按键或手柄按钮将会切换到对应的按键提示模式。鼠标按键不会导致按键提示模式的切换(按下键盘按键将出现鼠标按键提示)。
+[*]调整 如果你手够多，你完全可以一只手控制手柄瞄准，一只手操作键盘，另外一只手操作鼠标。(译注：用脚也行，或者让你家的狗一起操作？)
+[/list]
+
+[h2]任务[/h2]
+[list]
+[*]修复 [b]尔之泪：绿洲殖民地太空港[/b] 机库和行李提取处之间的一处不透明天花板错误。
+[*]增加 为 [b]无家可归[/b] 的所有任务添加音乐。
+[*]改进和修复 [b]无家可归：绝地反击[/b] 改进 结尾动画的质量。修复 在结尾动画播放途中重启任务会导致动画卡柱无法去除的问题。
+[*]调整 [b]无家可归：绝地反击[/b] 结尾动画不再计入速通时长，同时可以按键跳过动画。
+[*]调整 [b]无家可归：绝地反击[/b] 士兵在操作天车中尝试自杀或传送引起的卡关问题。
+[*]修复 [b]无家可归：核平之盾[/b] 任务结尾因模型在不同距离渐隐引起的客户端崩溃。
+[/list]
+
+[h2]武器[/h2]
+[list]
+[*]增加 [b]X-33威力增强器[/b] 不能享受威力增强加成的武器将显示更加细微的光束效果。
+[*]修复 [b]X-33威力增强器[/b] 修复了站在信标内交换武器时光束效果会附着在士兵身上而不是武器上的问题。
+[*]增加 [b]IAF医疗枪[/b] 为治疗动作增加了一个细微的瞄准动画。
+[*]修复 [b]IAF医疗枪[/b] 装备后屏幕保持缩回状态的错误。
+[*]修复 [b]IAF医疗枪[/b] 治疗光束附着在士兵脚上的问题。
+[*]增加 [b]IAF医疗枪[/b] 添加了医疗枪搜索目标时的视觉效果。
+[*]修复 [b]IAF医疗枪[/b] 修复了第一/第三人称下治疗目标高亮效果不更新的问题。
+[*]增加 [b]IAF医疗强化枪[/b] 应用了 IAF医疗枪 和 X-33威力增强器 的改动。
+[*]修复 [b]IAF医疗强化枪[/b] 对无法享受威力增强加成的武器不再消耗弹药。
+[*]增加 [b]IAF医疗冲锋枪:[/b] 应用了 IAF医疗枪 的改动。
+[*]改进 [b]IAF医疗冲锋枪:[/b] 在第一/第三人称下自我治疗时，将枪口指向另一名士兵将自动切换到治疗他人的模式。以使此武器的机制更贴近医疗枪按住开火键后再指向某士兵的行为(译注：即近距离时治疗优于射击，减少误杀，但你最好不要依赖此机制)。
+[*][b]跳弹步枪(未发布)[/b] [expand type=details][list][*]修复 在霰弹枪射击模式下重复播放(未加音效处理的)射击干声的错误。
+[*]调整 提升霰弹枪模式下的射击速度。
+[*]调整 改善激光瞄准精度。
+[*]调整 增加最大射击范围。
+[*]调整 子弹可以在运动物体上产生弹跳。
+[*]修复 子弹在天花板和地板上不弹跳的错误。[/list][/expand]
+[/list]
+
+[h3]哨戒枪/炮[/h3]
+[list]
+[*]增加 为所有哨戒枪/炮添加组装、拆卸和开火的动画。
+[*]增加 哨戒枪/炮可以俯仰运动，同时其上安装的摄像头将会指向它的攻击目标。
+[*]增加 哨戒炮开火后其(模型动画的)弹鼓内炮弹也会随之减少。
+[*]提示 模组提供的哨戒枪/炮模型需要自行提供相关模型动画，否则将和以前的一样。
+[*]提示 模组作者请参阅：[expand type=details][list]
+[*]提示 [url=https://github.com/ReactiveDrop/reactivedrop_public_src/tree/reactivedrop_beta/contentsrc/modelsrc/sentry_gun]GitHub上的模型源文件[/url].
+[*]提示 默认(空闲状态)动画 [b]必须[/b] 是模型上定义的第一个动画序列。
+[*]提示 以下姿态参数和动画均为可选项；如果哨戒枪/炮上半部分不存在动画则不会播放。
+[*]增加 姿态参数 aim_pitch，范围是 45(仰) 到 -45(俯) (或 -90；详见下文)。组装哨戒枪/炮过程中俯仰角从 -30 开始变化。
+[*]增加 姿态参数 aim_yaw，范围是 120(摄像头左瞄准极限) 到 -120(摄像头右瞄准极限)。
+[*]增加 姿态参数 ammo_remaining，范围是 0 到 999999(实际的模型应该用不到这么大的值)。地图作者放置的无限弹药哨戒枪/炮播放动画时会向此参数传入 999999。如果开火动画不是循环播放，则此参数在动画[i]结束[/i]后会发生改变。至于玩家部署的IAF加强型哨戒枪、IAF喷火型哨戒枪、IAF冷冻型哨戒枪 以及 IAF高速型哨戒炮，它们对应的最大 ammo_remaining 值分别是450、1200、800和40。
+[*]增加 动画序列 ACT_OBJ_ASSEMBLING，对应哨戒枪/炮的组装动作。如果模型上没有定义此动画，则哨戒枪/炮上半部分在组装中不会渲染。动画序列的持续时间不重要，引擎会自动将动画序列第一帧和最后一帧分别映射到组装进度0%和100%。
+[*]增加 动画序列 ACT_OBJ_RUNNING，对应哨戒枪/炮的开火动作。对于 IAF喷火型哨戒枪 和 IAF冷冻型哨戒枪，该序列应该是循环序列。对于其它类型的哨戒枪/炮，该序列每次开火都播放一次。当哨戒枪/炮停止射击后，则返回它的第一个序列，即之前提到的空闲状态的动画序列。
+[*]提示 拆卸哨戒枪/炮过程中 aim_pitch 参数随拆卸进度从 0 逐渐变为 -90。如果哨戒枪/炮在拆卸过程中开火，它将和平时一样瞄准敌人。
+[/list][/expand]
+[*]调整 IAF加强型哨戒枪 和 IAF喷火型哨戒枪 不再向它们瞄准区域的中心转动。
+[*]增加 IAF喷火型哨戒枪 模型现在多了一个点火器。
+[*]调整 按照最初的设计思路，将 IAF喷火型哨戒枪 和 IAF冷冻型哨戒枪 转向敌人的速度调整为老版本的3倍。
+[*]调整 IAF高速型哨戒炮 现在尝试对运动目标进行直线预瞄。
+[/list]
+
+[h2]异形[/h2]
+[list]
+[*]调整 爆胀虫抛洒的爆炸物可以被近战攻击影响。相应新增的控制台指令分别为 rd_vindicator_grenade_pushed_by_explosions、 rd_boomer_blob_pushed_by_everything、rd_boomer_blob_punch_force_multiplier 以及 rd_boomer_blob_push_force_multiplier。
+[*]改进 更新了女王的模型，新模型更贴近其它异形的艺术风格。
+[/list]
+
+[h2]死亡竞赛[/h2]
+[list]
+[*]增加 “感染”团队死亡竞赛挑战现已加入官方挑战列表，第一/第三人称也可启用。
+[/list]
+
+[h2]模组制作[/h2]
+[list]
+[*]增加 rd_map_texture 实体，用途是在小地图上绘制任意材质。可以旋转、启用和禁用。
+[*]修复 env_screenoverlay 在快速重启或实体销毁后卡住的问题。
+[*]修复 士兵被完全冰冻后可以翻滚、近战以及设计的问题。
+[*]增加 一个用于可继承的NPC的 Thaw 脚本函数。
+[*]增加 一个用于 VScript 的全局死亡竞赛对象。 [expand type=details][list]
+[*]int [b]TEAM_UNASSIGNED[/b]
+[*]int [b]TEAM_SPECTATOR[/b]
+[*]int [b]TEAM_ALPHA[/b]
+[*]int [b]TEAM_BETA[/b]
+[*]void [b]Deathmatch.ResetScores[/b]()
+[*]int [b]Deathmatch.GetKills[/b](handle MarineOrResource)
+[*]void [b]Deathmatch.SetKills[/b](handle MarineOrResource, int Kills)
+[*]int [b]Deathmatch.GetDeaths[/b](handle MarineOrResource)
+[*]void [b]Deathmatch.SetDeaths[/b](handle MarineOrResource, int Deaths)
+[*]int [b]Deathmatch.GetTeamScore[/b](int TeamNumber)
+[*]void [b]Deathmatch.SetTeamScore[/b](int TeamNumber, int Score)
+[*]bool [b]Deathmatch.CheckFragLimit[/b](handle MarineOrResource) - 如果本轮结束则返回true。
+[*]void [b]Deathmatch.ResetKillingSpree[/b](handle MarineOrResource)
+[*]void [b]Deathmatch.IncreaseKillingSpree[/b](handle MarineOrResource)
+[*]int [b]Deathmatch.GetKillingSpree[/b](handle MarineOrResource)
+[/list][/expand]
+[*]增加 为士兵添加了一个名为 GetMarineProfile 的方法，该方法返回士兵的编号。如果您的脚本需要为不同的士兵执行不同的操作，而非依赖实体名称 (GetName()) 或翻译后的士兵名字 (GetMarineName())，请使用此方法。目前该方法返回值介于 0 到 7 之间，或者如果您使用的是名字常量(推荐)，则介于 ASW_MARINE_PROFILE_SARGE 和 ASW_MARINE_PROFILE_VEGAS 之间。
+[*]修复 弹匣容量只有一发弹药的武器(精密型导轨步枪)无法发送 weapon_reload 游戏事件的问题。
+[*]改进 asw_gamerules 中的 MarineFinishedMission 输入：[list]
+[*]可以处理士兵和士兵资源(例如将所有士兵无论死活都标记为提前完成任务，则可以使用 [b]asw_marine_resource[/b] 作为输入参数。)
+[*]可以正确处理诸如 !activator 或 !caller 这样的关键词了。
+[*]影响速通成就时间和经验值。
+[/list]
+[*]增加 控制台变量 rd_debrief_timelines， 它可用于禁用任务结束时发送的时间线数据。支持较多玩家数目的挑战可以使用此功能来减少任务结束时的延迟。
+[/list]</string><string id="subtitle"></string><string id="summary"></string><string id="title">《异形丛生: 虫启天降》更新 - 2023年12月1日</string></content>

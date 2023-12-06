@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<content><string id="body">[h2]Menu[/h2]
+Stiamo testando il nuovo layout del menu principale che sarà lanciato ufficialmente il 20 aprile 2024.
+[list]
+[*]Il menu principale è stato rifatto, con informazioni sull'attuale stagione di Eroi delle Forze Armate Intergalattiche, sui recenti aggiornamenti principali e sugli addon di tendenza del Workshop di Steam.
+[*]Per tornare al layout precedente, inserire il comando [b]rd_legacy_ui 2017; host_writeconfig[/b] nella console. Questo comando per console continuerà a funzionare anche dopo il lancio ufficiale della nuova interfaccia utente.
+[*]Corretto il menu principale 2024 che appare parzialmente quando è impostato rd_legacy_ui 2017 e la risoluzione viene modificata senza chiudere il gioco.
+[*]I filtri della lobby sono tornati, insieme a nuovi convars: Vedi [b]cvarlist rd_lobby_filter_[/b] per un elenco.[expand type=details][code]
+cvar list
+--------------
+rd_lobby_filter_always_friends           : 1        : , "a", "cl"      : mostra sempre le lobby con gli amici di Steam al loro interno
+rd_lobby_filter_challenge                : -1       : , "a", "cl"      : preferenza di sfida per le lobby ricercate. -1=non mi interessa, 0=solo senza, 1=solo con
+rd_lobby_filter_dedicated                : -1       : , "a", "cl"      : preferenza del server dedicato per le lobby ricercate. -1=non mi interessa, 0=solo ospitate, 1=solo dedicati
+rd_lobby_filter_difficulty_max           : 5        : , "a", "cl"      : difficoltà massima per le lobby ricercate. 1=facile,2=normale,3=difficile,4=folle,5=brutale
+rd_lobby_filter_difficulty_min           : 1        : , "a", "cl"      : difficoltà minima per le lobby ricercate. 1=facile,2=normale,3=difficile,4=folle,5=brutale
+rd_lobby_filter_distance                 : 3        : , "a", "cl"      : distanza massima per le lobby ospitate dai giocatori. non influisce sulle lobby sui server dedicati. 0=solo la propria regione, 1=regioni vicine, 
+rd_lobby_filter_hardcoreff               : -1       : , "a", "cl"      : preferenza per il fuoco amico hardcore per le lobby ricercate. -1=non mi interessa, 0=solo senza, 1=solo con
+rd_lobby_filter_installed                : -1       : , "a", "cl"      : preferenza per le missioni installate per le lobby ricercate. -1=non mi interessa, 0=solo non installate o versione errata, 1=solo installate
+rd_lobby_filter_onslaught                : -1       : , "a", "cl"      : preferenza di assalto per le lobby ricercate. -1=non mi interessa, 0=solo senza, 1=solo con
+--------------
+  9 convars/concommands per [rd_lobby_filter_][/code][/expand]
+[*]Il conteggio delle lobby pubbliche nel menu principale non include più le lobby sui server dedicati.
+[*]Corretto l'elenco dei server nel browser della lobby che risulta vuoto al primo aggiornamento.
+[*]Corretto il fatto che i server dedicati vengano visualizzati come voci separate nel browser della lobby rispetto alla lobby creata sul server dedicato.
+[*]Corretto l'hacking che si interrompeva se un altro tecnico iniziava l'hacking.
+[/list]
+
+[h2]Controller[/h2]
+[list]
+[*]I controller dovrebbero essere riconosciuti dal gioco anche se è stato avviato senza che i controller fossero collegati.
+[*]Il puntamento con il mouse non cambia più le indicazioni dei pulsanti in modalità tastiera.
+[*]Premendo i tasti della tastiera o del controller, ora le richieste dei tasti cambiano. I pulsanti del mouse non influiscono sulle richieste dei pulsanti (la pressione di un tasto della tastiera provoca la visualizzazione delle richieste dei pulsanti del mouse).
+[*]Se volete, potete anche controllare la mira mentre fate tutto il resto con i tasti della tastiera e i pulsanti del mouse.
+[/list]
+
+[h2]Missioni[/h2]
+[list]
+[*][b]Lacrime per Tarnor: Spazioporto della Colonia di Oasis:[/b] È stato corretto un soffitto che rimaneva opaco tra l'hangar e il ritiro bagagli quando non era previsto.
+[*][b]Reduction (tutte le missioni):[/b] Aggiunta musica.
+[*][b]Reduction: Escalation Inevitabile:[/b] Migliorata la qualità del rendering della scena finale. Corretto il filmato che si blocca al riavvio della missione.
+[*][b]Reduction: Escalation Inevitabile:[/b] Il filmato finale non conta più per il tempo di speedrun e può essere saltato.
+[*][b]Reduction: Escalation Inevitabile:[/b] Corretto un soft lock se il soldato che manovra la gru riesce a morire o a teletrasportarsi.
+[*][b]Reduction: Scorta Nucleare:[/b] Corretto un arresto anomalo del client alla fine della missione legato alla dissolvenza dei modelli in base alla distanza.
+[/list]
+
+[h2]Armi[/h2]
+[list]
+[*][b]Amplificatore di Danni X-33:[/b] Le armi che non sono interessate dall'amplificazione dei danni ora mostrano un effetto raggio molto più sottile.
+[*][b]Amplificatore di Danni X-33:[/b] Corretto l'effetto del raggio che si attacca al soldato invece che all'arma quando si scambiano le armi mentre si è all'interno del faro.
+[*][b]Pistola Medica IAF:[/b] Aggiunta una sottile animazione della pistola per la guarigione.
+[*][b]Pistola Medica IAF:[/b] Corretto lo schermo che rimaneva retratto quando era equipaggiato.
+[*][b]Pistola Medica IAF:[/b] Corretto l'effetto del raggio curativo che si attacca ai piedi del soldato.
+[*][b]Pistola Medica IAF:[/b] Aggiunto un effetto visivo per quando la pistola cerca un bersaglio.
+[*][b]Pistola Medica IAF:[/b] Corretto il bagliore del bersaglio della guarigione che non si aggiornava in prima o terza persona.
+[*][b]Pistola Medica Amplificatrice IAF:[/b] Applicate le modidiche della pistola medica IAF e dell'amplificatore di danni X-33.
+[*][b]Pistola Medica Amplificatrice IAF:[/b] Non è più possibile spendere munizioni per amplificare armi che non beneficiano dell'effetto di raddoppio dei danni.
+[*][b]SMG Medica IAF:[/b] Applicate le modifiche della pistola medica IAF.
+[*][b]SMG Medica IAF:[/b] Quando l'autoguarigione avviene in prima o terza persona, mirando a un altro soldato si passa alla sua guarigione, in modo che il comportamento delle altre armi mediche sia più simile a quello che si ha quando si mira a un soldato dopo aver tenuto premuto il grilletto.
+[*][b]Fucile Ricochet (non rilasciato):[/b] [expand type=details][list][*]Corretto il suono del fuoco a secco che suona ripetutamente nella modalità di fuoco fucile a pompa.
+[*]Aumento della velocità di fuoco in modalità fucile a pompa.
+[*]Miglioramento della precisione del mirino laser.
+[*]Aumento della portata massima.
+[*]I proiettili ora rimbalzano anche sugli oggetti non statici.
+[*]Corretto il problema dei proiettili che non rimbalzano su soffitti e pavimenti.[/list][/expand]
+[/list]
+
+[h3]Torrette[/h3]
+[list]
+[*]Aggiunte animazioni di montaggio, smontaggio e sparo a tutte le torrette.
+[*]Le torrette ora ruotano verso l'alto e verso il basso e la telecamera montata sulla torretta punterà dove la torretta intende girare.
+[*]La torretta cannone ora consuma le granate dal suo tamburo quando spara.
+[*]Le torrette modificate senza supporto per le nuove animazioni avranno lo stesso aspetto di prima.
+[*]Per i modder: [expand type=details][list]
+[*]Come riferimento, puoi trovare i [url=https://github.com/ReactiveDrop/reactivedrop_public_src/tree/reactivedrop_beta/contentsrc/modelsrc/sentry_gun]file sorgente dei modelli su GitHub[/url].
+[*]L'animazione predefinita (inattiva) DEVE essere la prima sequenza definita nel modello.
+[*]Tutti i parametri di posa e le animazioni elencati di seguito sono opzionali; se non esistono nel modello della torretta, l'animazione non verrà riprodotta.
+[*]Aggiunto il parametro aim_pitch, che va da 45 (in alto) a -45 (in basso) (o -90; vedi sotto). Quando la torretta è in fase di assemblaggio, inizia a -30.
+[*]Aggiunto il parametro di posa aim_yaw, che va da 120 (telecamera che punta a sinistra) a -120 (telecamera che punta a destra).
+[*]Aggiunto il parametro di posa ammo_remaining, che va da 0 a 999999 (anche se il modello dovrebbe probabilmente limitare maggiormente questo intervallo). Le torrette posizionate dal mappatore che hanno munizioni infinite ricevono 999999 per questo parametro di posa. Questo parametro di posa cambia alla [i]fine[/i] dell'animazione di sparo se l'animazione di sparo non va in loop. Per le torrette posizionate dai giocatori, il valore massimo delle munizioni residue è 450 per l'Avanzata, 1200 per l'Incendiaria, 800 per quella Congelante 40 per il Cannone.
+[*]L'assemblaggio della torretta utilizza l'attività ACT_OBJ_ASSEMBLING; se questa attività non esiste nel modello, la parte superiore della torretta non verrà renderizzata durante l'assemblaggio. La durata di questa sequenza non ha importanza; l'animazione verrà riprodotta a partire dallo 0% di assemblaggio e terminerà al 100% di assemblaggio.
+[*]Quando la torretta spara, utilizza l'attività ACT_OBJ_RUNNING. Per le torrette Incendiarie e Congelanti, questa sequenza deve essere ripetuta. Per le altre torrette, questa animazione viene eseguita una volta per colpo. Quando la torretta non spara, torna alla sua prima sequenza, che dovrebbe essere lo stato di inattività.
+[*]Lo smontaggio di una torretta cambia il suo aim_pitch da 0 a -90 in base all'avanzamento dello smontaggio. Se la torretta sta sparando mentre viene smontata, mira normalmente al nemico.
+[/list][/expand]
+[*]Le torrette avanzate e incendiarie non ruotano più verso il centro del loro raggio d'azione. 
+[*]Le torrette incendiarie hanno ora una fiamma pilota visibile.
+[*]Le torrette Incendiarie e Congelanti ora girano 3 volte più velocemente quando ruotano verso un nemico, come previsto in origine.
+[*]La torretta cannone ora tenta di guidare i bersagli che corrono in linea retta.
+[/list]
+
+[h2]Alieni[/h2]
+[list]
+[*]I blob di Boomer ora vengono colpiti dagli attacchi in mischia. Aggiunte le relative convars rd_vindicator_grenade_spinta_da_esplosioni, rd_boomer_blob_spinta_da_tutto, rd_boomer_blob_punch_force_multiplier e rd_boomer_blob_push_force_multiplier.
+[*]Aggiornato il modello della Regina per adattarlo maggiormente allo stile artistico degli altri alieni.
+[/list]
+
+[h2]Deathmatch[/h2]
+[list]
+[*]Aggiunta la sfida deathmatch a squadre "Infezione" all'elenco ufficiale delle sfide, incluse le varianti in prima e terza persona.
+[/list]
+
+[h2]Modding[/h2]
+[list]
+[*]Aggiunta l'entità rd_map_texture, che può disegnare un materiale arbitrario sulla minimappa. Può essere ruotata, abilitata e disabilitata.
+[*]Corretto env_screenoverlay che si blocca al riavvio istantaneo o quando l'entità viene uccisa.
+[*]Corretta la possibilità per i soldati di rotolare, usare attacchi corpo a corpo o sparare mentre sono completamente congelati.
+[*]Aggiunta una funzione di script Scongelamento ai PNG abitabili.
+[*]Aggiunto un oggetto Deathmatch globale per VScript. [expand type=details][list]
+[*]int [b]TEAM_UNASSIGNED[/b]
+[*]int [b]TEAM_SPECTATOR[/b]
+[*]int [b]TEAM_ALPHA[/b]
+[*]int [b]TEAM_BETA[/b]
+[*]void [b]Deathmatch.ResetScores[/b]()
+[*]int [b]Deathmatch.GetKills[/b](gestisce MarineOrResource)
+[*]void [b]Deathmatch.SetKills[/b](gestisce MarineOrResource, int Kills)
+[*]int [b]Deathmatch.GetDeaths[/b](gestisce MarineOrResource)
+[*]void [b]Deathmatch.SetDeaths[/b](gestisce MarineOrResource, int Deaths)
+[*]int [b]Deathmatch.GetTeamScore[/b](int TeamNumber)
+[*]void [b]Deathmatch.SetTeamScore[/b](int TeamNumber, int Score)
+[*]bool [b]Deathmatch.CheckFragLimit[/b](gestisce MarineOrResource) - restituisce true se il round è terminato.
+[*]void [b]Deathmatch.ResetKillingSpree[/b](gestisce MarineOrResource)
+[*]void [b]Deathmatch.IncreaseKillingSpree[/b](gestisce MarineOrResource)
+[*]int [b]Deathmatch.GetKillingSpree[/b](gestisce MarineOrResource)
+[/list][/expand]
+[*]È stato aggiunto ai soldati un metodo chiamato GetMarineProfile, che restituisce il numero di profilo del soldato. Utilizzatelo se il vostro script deve fare cose diverse per soldati diversi, invece di affidarsi al nome dell'entità (GetName()) o al nome tradotto del soldato (GetMarineName()). I valori restituiti sono attualmente compresi tra 0 e 7, o tra ASW_MARINE_PROFILE_SARGE e ASW_MARINE_PROFILE_VEGAS se si utilizzano le costanti nominali (consigliato).
+[*]Corretto l'evento di gioco weapon_reload che non viene inviato per le armi con 1 colpo per ricarica (Fucile di Precisione a Rotaia).
+[*]Migliorato l'input MarineFinishedMission su asw_gamerules:[list]
+[*]Ora può gestire sia i soldati che le risorse dei soldati (se si desidera contrassegnare tutti i soldati, vivi o morti, come se avessero terminato la missione in anticipo, si può usare [b]asw_marine_resource[/b] come parametro di input).
+[*]Ora gestisce correttamente parole chiave come !activator e !caller.
+[*]Ora influisce sui tempi delle speed run per gli achievement e l'esperienza.
+[/list]
+[*]Aggiunta la convar rd_debrief_timelines, che può essere usata per disabilitare le timeline inviate alla fine di una missione. Questo può essere usato dalle sfide che supportano un numero elevato di giocatori per ridurre il lag alla fine di una missione.
+[/list]</string><string id="subtitle"></string><string id="summary"></string><string id="title">Aggiornamento di Alien Swarm: Reactive Drop - 1 Dicembre 2023</string></content>
