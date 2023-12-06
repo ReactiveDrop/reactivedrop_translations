@@ -371,9 +371,9 @@
 "[english]ServerBrowser_CustomServerURLOpen"		"The link you just clicked will open your default web browser.\nAre you sure you want to leave the game to view this web page?"
 "ServerBrowser_CustomServerURLButton"		"OK, öppna webbläsare"
 "[english]ServerBrowser_CustomServerURLButton"		"Ok, open web browser"
-		"ServerBrowser_QuickListRefreshing"		"Refreshing..."
-		"[english]ServerBrowser_QuickListRefreshing"		"Refreshing..."
-		"ServerBrowser_QuickListCheck"		"Show Map List"
-		"[english]ServerBrowser_QuickListCheck"		"Show Map List"
+"ServerBrowser_QuickListRefreshing"		"Laddar om..."
+"[english]ServerBrowser_QuickListRefreshing"		"Refreshing..."
+"ServerBrowser_QuickListCheck"		"Visa kartlista"
+"[english]ServerBrowser_QuickListCheck"		"Show Map List"
 }
 }
