@@ -18,7 +18,7 @@
 | [European Portuguese](#portuguese-português-europeu) | 2 | 180 | 32 | 2127 | 21 | 630 | 571 | 142 |
 | [Brazilian Portuguese](#brazilian-português) | 4 | 2004 | 32 | 1298 | 9 | 276 | 329 | 9 |
 | [Romanian](#non-curated-languages) | 53 | 1996 | 48 | 3750 | 200 | 975 | 608 | 148 |
-| [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | 3 | ✔️ | ✔️ | 6 | ✔️ |
+| [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [European Spanish](#spanish-español-de-españa) | 30 | 2004 | 40 | 2454 | 200 | 714 | 558 | 147 |
 | [Latin American Spanish](#latam-español-latinoamericano) | 1283 | 2004 | 634 | 4550 | 204 | 980 | 644 | 148 |
 | [Swedish](#swedish-svenska) | ✔️ | 2004 | ✔️ | 2609 | ✔️ | 282 | 562 | 148 |
@@ -2271,14 +2271,7 @@
 
 </summary>
 
-### Strings
-
-- [reactivedrop_russian.txt](resource/reactivedrop_russian.txt) has 3 untranslated strings.
-
-### Inventory Schema
-
-- Item 4000 "Beta Tester's Strange Weapon" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_russian`, `description_russian`, `display_type_russian`
-- Item 4001 "Beta Tester's Strange Device" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_russian`, `description_russian`, `display_type_russian`
+✓ Up to date!
 
 </details>
 
