@@ -11,14 +11,14 @@
 | [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Hungarian](#non-curated-languages) | 53 | 138 | 42 | 3039 | 200 | 975 | 562 | 148 |
 | [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | 3 | ✔️ | ✔️ | 6 | ✔️ |
-| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | 3 | ✔️ | 103 | 6 | ✔️ |
+| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 103 | ✔️ | ✔️ |
 | [Korean](#koreana-한국어) | 9 | 10 | 38 | 1535 | 22 | 446 | 548 | 49 |
 | [Norwegian Bokmål](#non-curated-languages) | 71 | 708 | 47 | 3745 | 200 | 710 | 631 | 148 |
 | [Polish](#polish-polski) | 30 | 2004 | 42 | 3039 | 200 | 706 | 562 | 144 |
 | [European Portuguese](#portuguese-português-europeu) | 2 | 180 | 32 | 2127 | 21 | 630 | 571 | 142 |
 | [Brazilian Portuguese](#brazilian-português) | 4 | 2004 | 32 | 1298 | 9 | 276 | 329 | 9 |
 | [Romanian](#non-curated-languages) | 53 | 1996 | 48 | 3750 | 200 | 975 | 608 | 148 |
-| [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | 3 | ✔️ | ✔️ | 6 | ✔️ |
+| [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [European Spanish](#spanish-español-de-españa) | 30 | 2004 | 40 | 2454 | 200 | 714 | 558 | 147 |
 | [Latin American Spanish](#latam-español-latinoamericano) | 1283 | 2004 | 634 | 4550 | 204 | 980 | 644 | 148 |
 | [Swedish](#swedish-svenska) | ✔️ | 2004 | ✔️ | 2609 | ✔️ | 282 | 562 | 148 |
@@ -1127,12 +1127,6 @@
 - [addons/RiskOfRain/reactivedrop_japanese.txt](addons/RiskOfRain/resource/reactivedrop_japanese.txt) has 1 untranslated strings.
 - [misc/signage/signage_japanese.vdf](misc/signage/signage_japanese.vdf) has 67 untranslated strings.
 - [platform/vgui_japanese.txt](platform/vgui_japanese.txt) has 35 untranslated strings.
-- [reactivedrop_japanese.txt](resource/reactivedrop_japanese.txt) has 3 untranslated strings.
-
-### Inventory Schema
-
-- Item 4000 "Beta Tester's Strange Weapon" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_japanese`, `description_japanese`, `display_type_japanese`
-- Item 4001 "Beta Tester's Strange Device" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_japanese`, `description_japanese`, `display_type_japanese`
 
 </details>
 
@@ -2277,14 +2271,7 @@
 
 </summary>
 
-### Strings
-
-- [reactivedrop_russian.txt](resource/reactivedrop_russian.txt) has 3 untranslated strings.
-
-### Inventory Schema
-
-- Item 4000 "Beta Tester's Strange Weapon" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_russian`, `description_russian`, `display_type_russian`
-- Item 4001 "Beta Tester's Strange Device" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_russian`, `description_russian`, `display_type_russian`
+✓ Up to date!
 
 </details>
 
