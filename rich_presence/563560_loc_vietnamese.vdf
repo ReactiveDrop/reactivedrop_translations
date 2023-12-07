@@ -12,7 +12,7 @@
 		"#Campaign_Difficulty"	"{#%rd_mission_key%}, {#Difficulty_%rd_difficulty%}, %num_players%/%max_players%"
 		"#Campaign_Difficulty_Challenge"	"{#%rd_mission_key%}, {#Difficulty_%rd_difficulty%}, %num_players%/%max_players%, {#%rd_challenge_key%}"
 		"#Deathmatch_DM_Generic"	"Tử chiến"
-		"#Deathmatch_TDM_Generic"	"Tử chiến theo nhóm"
+		"#Deathmatch_TDM_Generic"	"Tử chiến theo đội"
 		"#Deathmatch_GG_Generic"	"Gun Game"
 		"#Deathmatch_IG_Generic"	"InstaGib"
 		"#Generic"	"Trong nhiệm vụ"
