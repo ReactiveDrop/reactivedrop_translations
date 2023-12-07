@@ -5,8 +5,11 @@
 			"itemdefid": 4000,
 			"type": "item",
 			"name_english": "Beta Tester's Strange Weapon",
+			"name_german": "Beta Tester's Seltsame Waffe",
 			"display_type_english": "Single-Use Tool",
+			"display_type_german": "Einwegwerkzeug",
 			"description_english": "A strange box that contains a weapon. What weapon is it? The weight in this box appears to shift as you consider the possibilities.",
+			"description_german": "Eine seltsame Kiste, die eine Waffe enthält. Um welche Waffe handelt es sich? Das Gewicht in der Kiste scheint sich zu verändern, während du über die Möglichkeiten nachdenkst.",
 			"icon_url": "https://stats.reactivedrop.com/static/medals/error.png",
 			"name_color": "CF6A32",
 			"tags": "crafting_item:single_use_tool;contains_any:set_1_weapon;contains_any:set_1_equipment"
@@ -15,8 +18,11 @@
 			"itemdefid": 4001,
 			"type": "item",
 			"name_english": "Beta Tester's Strange Device",
+			"name_german": "Beta Tester's Seltsames Gerät",
 			"display_type_english": "Single-Use Tool",
+			"display_type_german": "Einwegwerkzeug",
 			"description_english": "A strange assortment of circuit boards that don't seem like they should be compatible. The device does not appear to ever have been powered on.",
+			"description_german": "Eine seltsame Zusammenstellung von Platinen, die nicht kompatibel zu sein scheinen. Das Gerät scheint nie eingeschaltet worden zu sein.",
 			"icon_url": "https://stats.reactivedrop.com/static/medals/error.png",
 			"name_color": "CF6A32",
 			"tags": "crafting_item:single_use_tool;contains_any:set_1_strange_device"
