@@ -3,11 +3,23 @@
 	"items": [
 		{
 			"itemdefid": 4000,
-			"name": "Unused 4000"
+			"type": "item",
+			"name_english": "Beta Tester's Strange Weapon",
+			"display_type_english": "Single-Use Tool",
+			"description_english": "A strange box that contains a weapon. What weapon is it? The weight in this box appears to shift as you consider the possibilities.",
+			"icon_url": "https://stats.reactivedrop.com/static/medals/error.png",
+			"name_color": "CF6A32",
+			"tags": "crafting_item:single_use_tool;contains_any:set_1_weapon;contains_any:set_1_equipment"
 		},
 		{
 			"itemdefid": 4001,
-			"name": "Unused 4001"
+			"type": "item",
+			"name_english": "Beta Tester's Strange Device",
+			"display_type_english": "Single-Use Tool",
+			"description_english": "A strange assortment of circuit boards that don't seem like they should be compatible. The device does not appear to ever have been powered on.",
+			"icon_url": "https://stats.reactivedrop.com/static/medals/error.png",
+			"name_color": "CF6A32",
+			"tags": "crafting_item:single_use_tool;contains_any:set_1_strange_device"
 		},
 		{
 			"itemdefid": 4002,

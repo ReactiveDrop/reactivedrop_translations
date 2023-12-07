@@ -405,6 +405,7 @@
 			"icon_url": "https://stats.reactivedrop.com/static/items/2000.png",
 			"name_color": "CF6A32",
 			"tags": "rarity:strange_rarity;slot:weapon",
+			"exchange": "contains_any:set_1_strange_weapon",
 			"accessory_tag": "strange",
 			"allowed_tags_from_tools": "strange:5000;strange:5002;strange:5007",
 			"item_slot": "weapon",
@@ -464,6 +465,7 @@
 			"icon_url": "https://stats.reactivedrop.com/static/items/2001.png",
 			"name_color": "CF6A32",
 			"tags": "rarity:strange_rarity;slot:weapon;class_restriction:tech",
+			"exchange": "contains_any:set_1_strange_weapon",
 			"accessory_tag": "strange",
 			"allowed_tags_from_tools": "strange:5000;strange:5002;strange:5007",
 			"item_slot": "weapon",
@@ -523,6 +525,7 @@
 			"icon_url": "https://stats.reactivedrop.com/static/items/2002.png",
 			"name_color": "CF6A32",
 			"tags": "rarity:strange_rarity;slot:weapon;class_restriction:specialweapons",
+			"exchange": "contains_any:set_1_strange_weapon",
 			"accessory_tag": "strange",
 			"allowed_tags_from_tools": "strange:5000;strange:5002;strange:5007",
 			"item_slot": "weapon",
@@ -583,10 +586,11 @@
 			"icon_url": "https://stats.reactivedrop.com/static/items/2003.png",
 			"name_color": "CF6A32",
 			"tags": "rarity:strange_rarity;slot:weapon;class_restriction:officer",
+			"exchange": "contains_any:set_1_strange_weapon",
 			"accessory_tag": "strange",
 			"allowed_tags_from_tools": "strange:5000;strange:5002;strange:5007",
 			"item_slot": "weapon",
-			"equip_index":  3
+			"equip_index": 3
 		},
 		{
 			"itemdefid": 2004,
@@ -642,10 +646,11 @@
 			"icon_url": "https://stats.reactivedrop.com/static/items/2004.png",
 			"name_color": "CF6A32",
 			"tags": "rarity:strange_rarity;slot:weapon",
+			"exchange": "contains_any:set_1_strange_weapon",
 			"accessory_tag": "strange",
 			"allowed_tags_from_tools": "strange:5000;strange:5002;strange:5007",
 			"item_slot": "weapon",
-			"equip_index":  4
+			"equip_index": 4
 		},
 		{
 			"itemdefid": 2005,
@@ -701,10 +706,11 @@
 			"icon_url": "https://stats.reactivedrop.com/static/items/2005.png",
 			"name_color": "CF6A32",
 			"tags": "rarity:strange_rarity;slot:weapon",
+			"exchange": "contains_any:set_1_strange_weapon",
 			"accessory_tag": "strange",
 			"allowed_tags_from_tools": "strange:5000;strange:5002",
 			"item_slot": "weapon",
-			"equip_index":  5
+			"equip_index": 5
 		},
 		{
 			"itemdefid": 2006,
@@ -759,10 +765,11 @@
 			"icon_url": "https://stats.reactivedrop.com/static/items/2006.png",
 			"name_color": "CF6A32",
 			"tags": "rarity:strange_rarity;slot:weapon;class_restriction:medic",
+			"exchange": "contains_any:set_1_strange_weapon",
 			"accessory_tag": "strange",
 			"allowed_tags_from_tools": "strange:5000;strange:5003;strange:5006;strange:5008",
 			"item_slot": "weapon",
-			"equip_index":  6
+			"equip_index": 6
 		},
 		{
 			"itemdefid": 2007,
@@ -818,10 +825,11 @@
 			"icon_url": "https://stats.reactivedrop.com/static/items/2007.png",
 			"name_color": "CF6A32",
 			"tags": "rarity:strange_rarity;slot:weapon",
+			"exchange": "contains_any:set_1_strange_weapon",
 			"accessory_tag": "strange",
 			"allowed_tags_from_tools": "strange:5000",
 			"item_slot": "weapon",
-			"equip_index":  7
+			"equip_index": 7
 		},
 		{
 			"itemdefid": 2008,
@@ -877,10 +885,11 @@
 			"icon_url": "https://stats.reactivedrop.com/static/items/2008.png",
 			"name_color": "CF6A32",
 			"tags": "rarity:strange_rarity;slot:weapon",
+			"exchange": "contains_any:set_1_strange_weapon",
 			"accessory_tag": "strange",
 			"allowed_tags_from_tools": "strange:5000;strange:5002;strange:5007",
 			"item_slot": "weapon",
-			"equip_index":  8
+			"equip_index": 8
 		},
 		{
 			"itemdefid": 2009,
@@ -936,10 +945,11 @@
 			"icon_url": "https://stats.reactivedrop.com/static/items/2009.png",
 			"name_color": "CF6A32",
 			"tags": "rarity:strange_rarity;slot:weapon",
+			"exchange": "contains_any:set_1_strange_weapon",
 			"accessory_tag": "strange",
 			"allowed_tags_from_tools": "strange:5000;strange:5002;strange:5007",
 			"item_slot": "weapon",
-			"equip_index":  9
+			"equip_index": 9
 		},
 		{
 			"itemdefid": 2010,
@@ -994,10 +1004,11 @@
 			"icon_url": "https://stats.reactivedrop.com/static/items/2010.png",
 			"name_color": "CF6A32",
 			"tags": "rarity:strange_rarity;slot:weapon",
+			"exchange": "contains_any:set_1_strange_weapon",
 			"accessory_tag": "strange",
 			"allowed_tags_from_tools": "strange:5000;strange:5002;strange:5007",
 			"item_slot": "weapon",
-			"equip_index":  10
+			"equip_index": 10
 		},
 		{
 			"itemdefid": 2011,
@@ -1053,10 +1064,11 @@
 			"icon_url": "https://stats.reactivedrop.com/static/items/2011.png",
 			"name_color": "CF6A32",
 			"tags": "rarity:strange_rarity;slot:weapon;class_restriction:medic",
+			"exchange": "contains_any:set_1_strange_weapon",
 			"accessory_tag": "strange",
 			"allowed_tags_from_tools": "strange:5000;strange:5003;strange:5006;strange:5008",
 			"item_slot": "weapon",
-			"equip_index":  11
+			"equip_index": 11
 		},
 		{
 			"itemdefid": 2012,
@@ -1113,10 +1125,11 @@
 			"icon_url": "https://stats.reactivedrop.com/static/items/2012.png",
 			"name_color": "CF6A32",
 			"tags": "rarity:strange_rarity;slot:weapon",
+			"exchange": "contains_any:set_1_strange_weapon",
 			"accessory_tag": "strange",
 			"allowed_tags_from_tools": "strange:5000;strange:5002;strange:5007",
 			"item_slot": "weapon",
-			"equip_index":  12
+			"equip_index": 12
 		},
 		{
 			"itemdefid": 2013,
@@ -1172,10 +1185,11 @@
 			"icon_url": "https://stats.reactivedrop.com/static/items/2013.png",
 			"name_color": "CF6A32",
 			"tags": "rarity:strange_rarity;slot:weapon",
+			"exchange": "contains_any:set_1_strange_weapon",
 			"accessory_tag": "strange",
 			"allowed_tags_from_tools": "strange:5000;strange:5002;strange:5006;strange:5007",
 			"item_slot": "weapon",
-			"equip_index":  13
+			"equip_index": 13
 		},
 		{
 			"itemdefid": 2014,
@@ -1231,10 +1245,11 @@
 			"icon_url": "https://stats.reactivedrop.com/static/items/2014.png",
 			"name_color": "CF6A32",
 			"tags": "rarity:strange_rarity;slot:weapon",
+			"exchange": "contains_any:set_1_strange_weapon",
 			"accessory_tag": "strange",
 			"allowed_tags_from_tools": "strange:5000;strange:5005",
 			"item_slot": "weapon",
-			"equip_index":  14
+			"equip_index": 14
 		},
 		{
 			"itemdefid": 2015,
@@ -1292,10 +1307,11 @@
 			"icon_url": "https://stats.reactivedrop.com/static/items/2015.png",
 			"name_color": "CF6A32",
 			"tags": "rarity:strange_rarity;slot:weapon;class_restriction:specialweapons",
+			"exchange": "contains_any:set_1_strange_weapon",
 			"accessory_tag": "strange",
 			"allowed_tags_from_tools": "strange:5000;strange:5002;strange:5007",
 			"item_slot": "weapon",
-			"equip_index":  15
+			"equip_index": 15
 		},
 		{
 			"itemdefid": 2016,
@@ -1351,10 +1367,11 @@
 			"icon_url": "https://stats.reactivedrop.com/static/items/2016.png",
 			"name_color": "CF6A32",
 			"tags": "rarity:strange_rarity;slot:weapon",
+			"exchange": "contains_any:set_1_strange_weapon",
 			"accessory_tag": "strange",
 			"allowed_tags_from_tools": "strange:5000;strange:5002;strange:5007",
 			"item_slot": "weapon",
-			"equip_index":  16
+			"equip_index": 16
 		},
 		{
 			"itemdefid": 2017,
@@ -1409,10 +1426,11 @@
 			"icon_url": "https://stats.reactivedrop.com/static/items/2017.png",
 			"name_color": "CF6A32",
 			"tags": "rarity:strange_rarity;slot:weapon",
+			"exchange": "contains_any:set_1_strange_weapon",
 			"accessory_tag": "strange",
 			"allowed_tags_from_tools": "strange:5000;strange:5002",
 			"item_slot": "weapon",
-			"equip_index":  17
+			"equip_index": 17
 		},
 		{
 			"itemdefid": 2018,
@@ -1473,10 +1491,11 @@
 			"icon_url": "https://stats.reactivedrop.com/static/items/2018.png",
 			"name_color": "CF6A32",
 			"tags": "rarity:strange_rarity;slot:weapon",
+			"exchange": "contains_any:set_1_strange_weapon",
 			"accessory_tag": "strange",
 			"allowed_tags_from_tools": "strange:5000;strange:5002;strange:5007",
 			"item_slot": "weapon",
-			"equip_index":  18
+			"equip_index": 18
 		},
 		{
 			"itemdefid": 2019,
@@ -1532,10 +1551,11 @@
 			"icon_url": "https://stats.reactivedrop.com/static/items/2019.png",
 			"name_color": "CF6A32",
 			"tags": "rarity:strange_rarity;slot:weapon",
+			"exchange": "contains_any:set_1_strange_weapon",
 			"accessory_tag": "strange",
 			"allowed_tags_from_tools": "strange:5000;strange:5002",
 			"item_slot": "weapon",
-			"equip_index":  19
+			"equip_index": 19
 		},
 		{
 			"itemdefid": 2020,
@@ -1593,10 +1613,11 @@
 			"icon_url": "https://stats.reactivedrop.com/static/items/2020.png",
 			"name_color": "CF6A32",
 			"tags": "rarity:strange_rarity;slot:weapon",
+			"exchange": "contains_any:set_1_strange_weapon",
 			"accessory_tag": "strange",
 			"allowed_tags_from_tools": "strange:5000;strange:5002;strange:5007",
 			"item_slot": "weapon",
-			"equip_index":  20
+			"equip_index": 20
 		},
 		{
 			"itemdefid": 2021,
@@ -1627,10 +1648,11 @@
 			"icon_url": "https://stats.reactivedrop.com/static/items/2021.png",
 			"name_color": "CF6A32",
 			"tags": "rarity:strange_rarity;slot:weapon",
+			"exchange": "contains_any:set_1_strange_weapon",
 			"accessory_tag": "strange",
 			"allowed_tags_from_tools": "strange:5000;strange:5002;strange:5007",
 			"item_slot": "weapon",
-			"equip_index":  21
+			"equip_index": 21
 		},
 		{
 			"itemdefid": 2022,
@@ -1669,10 +1691,11 @@
 			"icon_url": "https://stats.reactivedrop.com/static/items/2022.png",
 			"name_color": "CF6A32",
 			"tags": "rarity:strange_rarity;slot:weapon;class_restriction:specialweapons",
+			"exchange": "contains_any:set_1_strange_weapon",
 			"accessory_tag": "strange",
 			"allowed_tags_from_tools": "strange:5000;strange:5002;strange:5007",
 			"item_slot": "weapon",
-			"equip_index":  22
+			"equip_index": 22
 		},
 		{
 			"itemdefid": 2023,
@@ -1712,10 +1735,11 @@
 			"icon_url": "https://stats.reactivedrop.com/static/items/2023.png",
 			"name_color": "CF6A32",
 			"tags": "rarity:strange_rarity;slot:weapon",
+			"exchange": "contains_any:set_1_strange_weapon",
 			"accessory_tag": "strange",
 			"allowed_tags_from_tools": "strange:5000;strange:5002;strange:5007",
 			"item_slot": "weapon",
-			"equip_index":  23
+			"equip_index": 23
 		},
 		{
 			"itemdefid": 2024,
@@ -1755,10 +1779,11 @@
 			"icon_url": "https://stats.reactivedrop.com/static/items/2024.png",
 			"name_color": "CF6A32",
 			"tags": "rarity:strange_rarity;slot:weapon;class_restriction:medic",
+			"exchange": "contains_any:set_1_strange_weapon",
 			"accessory_tag": "strange",
 			"allowed_tags_from_tools": "strange:5000;strange:5003;strange:5006;strange:5008",
 			"item_slot": "weapon",
-			"equip_index":  24
+			"equip_index": 24
 		},
 		{
 			"itemdefid": 2025,
@@ -1793,12 +1818,13 @@
 			"display_type_schinese": "武器",
 			"display_type_vietnamese": "Vũ khí",
 			"icon_url": "https://stats.reactivedrop.com/static/items/2025.png",
+			"exchange": "contains_any:set_1_strange_weapon",
 			"name_color": "CF6A32",
 			"tags": "rarity:strange_rarity;slot:weapon",
 			"accessory_tag": "strange",
 			"allowed_tags_from_tools": "strange:5000;strange:5002;strange:5007",
 			"item_slot": "weapon",
-			"equip_index":  25
+			"equip_index": 25
 		},
 		{
 			"itemdefid": 2026,
@@ -1836,10 +1862,11 @@
 			"icon_url": "https://stats.reactivedrop.com/static/items/2026.png",
 			"name_color": "CF6A32",
 			"tags": "rarity:strange_rarity;slot:weapon;class_restriction:medic",
+			"exchange": "contains_any:set_1_strange_weapon",
 			"accessory_tag": "strange",
 			"allowed_tags_from_tools": "strange:5000;strange:5002;strange:5003;strange:5006;strange:5007;strange:5008",
 			"item_slot": "weapon",
-			"equip_index":  26
+			"equip_index": 26
 		},
 		{
 			"itemdefid": 3000,
@@ -1896,10 +1923,11 @@
 			"icon_url": "https://stats.reactivedrop.com/static/items/3000.png",
 			"name_color": "CF6A32",
 			"tags": "rarity:strange_rarity;slot:equipment",
+			"exchange": "contains_any:set_1_strange_equipment",
 			"accessory_tag": "strange",
 			"allowed_tags_from_tools": "strange:5000;strange:5003;strange:5006;strange:5008",
 			"item_slot": "extra",
-			"equip_index":  0
+			"equip_index": 0
 		},
 		{
 			"itemdefid": 3001,
@@ -1957,10 +1985,11 @@
 			"icon_url": "https://stats.reactivedrop.com/static/items/3001.png",
 			"name_color": "CF6A32",
 			"tags": "rarity:strange_rarity;slot:equipment",
+			"exchange": "contains_any:set_1_strange_equipment",
 			"accessory_tag": "strange",
 			"allowed_tags_from_tools": "strange:5000",
 			"item_slot": "extra",
-			"equip_index":  1
+			"equip_index": 1
 		},
 		{
 			"itemdefid": 3002,
@@ -2017,10 +2046,11 @@
 			"icon_url": "https://stats.reactivedrop.com/static/items/3002.png",
 			"name_color": "CF6A32",
 			"tags": "rarity:strange_rarity;slot:equipment",
+			"exchange": "contains_any:set_1_strange_equipment",
 			"accessory_tag": "strange",
 			"allowed_tags_from_tools": "strange:5000",
 			"item_slot": "extra",
-			"equip_index":  2
+			"equip_index": 2
 		},
 		{
 			"itemdefid": 3003,
@@ -2076,10 +2106,11 @@
 			"icon_url": "https://stats.reactivedrop.com/static/items/3003.png",
 			"name_color": "CF6A32",
 			"tags": "rarity:strange_rarity;slot:equipment",
+			"exchange": "contains_any:set_1_strange_equipment",
 			"accessory_tag": "strange",
 			"allowed_tags_from_tools": "strange:5000;strange:5002;strange:5007",
 			"item_slot": "extra",
-			"equip_index":  3
+			"equip_index": 3
 		},
 		{
 			"itemdefid": 3004,
@@ -2136,10 +2167,11 @@
 			"icon_url": "https://stats.reactivedrop.com/static/items/3004.png",
 			"name_color": "CF6A32",
 			"tags": "rarity:strange_rarity;slot:equipment",
+			"exchange": "contains_any:set_1_strange_equipment",
 			"accessory_tag": "strange",
 			"allowed_tags_from_tools": "strange:5000",
 			"item_slot": "extra",
-			"equip_index":  4
+			"equip_index": 4
 		},
 		{
 			"itemdefid": 3005,
@@ -2195,10 +2227,11 @@
 			"icon_url": "https://stats.reactivedrop.com/static/items/3005.png",
 			"name_color": "CF6A32",
 			"tags": "rarity:strange_rarity;slot:equipment",
+			"exchange": "contains_any:set_1_strange_equipment",
 			"accessory_tag": "strange",
 			"allowed_tags_from_tools": "strange:5000",
 			"item_slot": "extra",
-			"equip_index":  5
+			"equip_index": 5
 		},
 		{
 			"itemdefid": 3006,
@@ -2253,10 +2286,11 @@
 			"icon_url": "https://stats.reactivedrop.com/static/items/3006.png",
 			"name_color": "CF6A32",
 			"tags": "rarity:strange_rarity;slot:equipment",
+			"exchange": "contains_any:set_1_strange_equipment",
 			"accessory_tag": "strange",
 			"allowed_tags_from_tools": "strange:5000;strange:5002;strange:5007",
 			"item_slot": "extra",
-			"equip_index":  6
+			"equip_index": 6
 		},
 		{
 			"itemdefid": 3007,
@@ -2301,10 +2335,11 @@
 			"icon_url": "https://stats.reactivedrop.com/static/items/3007.png",
 			"name_color": "CF6A32",
 			"tags": "rarity:strange_rarity;slot:equipment",
+			"exchange": "contains_any:set_1_strange_equipment",
 			"accessory_tag": "strange",
 			"allowed_tags_from_tools": "strange:5000;strange:5005;strange:5006",
 			"item_slot": "extra",
-			"equip_index":  7
+			"equip_index": 7
 		},
 		{
 			"itemdefid": 3008,
@@ -2363,10 +2398,11 @@
 			"icon_url": "https://stats.reactivedrop.com/static/items/3008.png",
 			"name_color": "CF6A32",
 			"tags": "rarity:strange_rarity;slot:equipment",
+			"exchange": "contains_any:set_1_strange_equipment",
 			"accessory_tag": "strange",
 			"allowed_tags_from_tools": "strange:5000",
 			"item_slot": "extra",
-			"equip_index":  8
+			"equip_index": 8
 		},
 		{
 			"itemdefid": 3009,
@@ -2421,10 +2457,11 @@
 			"icon_url": "https://stats.reactivedrop.com/static/items/3009.png",
 			"name_color": "CF6A32",
 			"tags": "rarity:strange_rarity;slot:equipment",
+			"exchange": "contains_any:set_1_strange_equipment",
 			"accessory_tag": "strange",
 			"allowed_tags_from_tools": "strange:5000;strange:5002",
 			"item_slot": "extra",
-			"equip_index":  9
+			"equip_index": 9
 		},
 		{
 			"itemdefid": 3010,
@@ -2481,10 +2518,11 @@
 			"icon_url": "https://stats.reactivedrop.com/static/items/3010.png",
 			"name_color": "CF6A32",
 			"tags": "rarity:strange_rarity;slot:equipment",
+			"exchange": "contains_any:set_1_strange_equipment",
 			"accessory_tag": "strange",
 			"allowed_tags_from_tools": "strange:5000;strange:5008",
 			"item_slot": "extra",
-			"equip_index":  10
+			"equip_index": 10
 		},
 		{
 			"itemdefid": 3011,
@@ -2539,10 +2577,11 @@
 			"icon_url": "https://stats.reactivedrop.com/static/items/3011.png",
 			"name_color": "CF6A32",
 			"tags": "rarity:strange_rarity;slot:equipment;class_restriction:officer",
+			"exchange": "contains_any:set_1_strange_equipment",
 			"accessory_tag": "strange",
 			"allowed_tags_from_tools": "strange:5000;strange:5002;strange:5007",
 			"item_slot": "extra",
-			"equip_index":  11
+			"equip_index": 11
 		},
 		{
 			"itemdefid": 3012,
@@ -2598,10 +2637,11 @@
 			"icon_url": "https://stats.reactivedrop.com/static/items/3012.png",
 			"name_color": "CF6A32",
 			"tags": "rarity:strange_rarity;slot:equipment",
+			"exchange": "contains_any:set_1_strange_equipment",
 			"accessory_tag": "strange",
 			"allowed_tags_from_tools": "strange:5000",
 			"item_slot": "extra",
-			"equip_index":  12
+			"equip_index": 12
 		},
 		{
 			"itemdefid": 3013,
@@ -2656,10 +2696,11 @@
 			"icon_url": "https://stats.reactivedrop.com/static/items/3013.png",
 			"name_color": "CF6A32",
 			"tags": "rarity:strange_rarity;slot:equipment",
+			"exchange": "contains_any:set_1_strange_equipment",
 			"accessory_tag": "strange",
 			"allowed_tags_from_tools": "strange:5000;strange:5002;strange:5007",
 			"item_slot": "extra",
-			"equip_index":  13
+			"equip_index": 13
 		},
 		{
 			"itemdefid": 3014,
@@ -2704,10 +2745,11 @@
 			"icon_url": "https://stats.reactivedrop.com/static/items/3014.png",
 			"name_color": "CF6A32",
 			"tags": "rarity:strange_rarity;slot:equipment",
+			"exchange": "contains_any:set_1_strange_equipment",
 			"accessory_tag": "strange",
 			"allowed_tags_from_tools": "strange:5000;strange:5002;strange:5007",
 			"item_slot": "extra",
-			"equip_index":  14
+			"equip_index": 14
 		},
 		{
 			"itemdefid": 3015,
@@ -2764,10 +2806,11 @@
 			"icon_url": "https://stats.reactivedrop.com/static/items/3015.png",
 			"name_color": "CF6A32",
 			"tags": "rarity:strange_rarity;slot:equipment",
+			"exchange": "contains_any:set_1_strange_equipment",
 			"accessory_tag": "strange",
 			"allowed_tags_from_tools": "strange:5000",
 			"item_slot": "extra",
-			"equip_index":  15
+			"equip_index": 15
 		},
 		{
 			"itemdefid": 3016,
@@ -2823,10 +2866,11 @@
 			"icon_url": "https://stats.reactivedrop.com/static/items/3016.png",
 			"name_color": "CF6A32",
 			"tags": "rarity:strange_rarity;slot:equipment",
+			"exchange": "contains_any:set_1_strange_equipment",
 			"accessory_tag": "strange",
 			"allowed_tags_from_tools": "strange:5000;strange:5002;strange:5007",
 			"item_slot": "extra",
-			"equip_index":  16
+			"equip_index": 16
 		},
 		{
 			"itemdefid": 3017,
@@ -2864,10 +2908,11 @@
 			"icon_url": "https://stats.reactivedrop.com/static/items/3017.png",
 			"name_color": "CF6A32",
 			"tags": "rarity:strange_rarity;slot:equipment;class_restriction:medic",
+			"exchange": "contains_any:set_1_strange_equipment",
 			"accessory_tag": "strange",
 			"allowed_tags_from_tools": "strange:5000;strange:5002;strange:5007",
 			"item_slot": "extra",
-			"equip_index":  17
+			"equip_index": 17
 		}
 	]
 }

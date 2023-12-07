@@ -28,6 +28,7 @@
 			"icon_url": "https://stats.reactivedrop.com/static/strange/strange_5000.png",
 			"name_color": "CF6A32",
 			"tags": "strange:5000",
+			"exchange": "contains_any:set_1_strange_device",
 			"compressed_dynamic_props": "strange_5000",
 			"strange_notify_every": 50
 		},
@@ -58,6 +59,7 @@
 			"icon_url": "https://stats.reactivedrop.com/static/strange/strange_5001.png",
 			"name_color": "CF6A32",
 			"tags": "strange:5001",
+			"exchange": "contains_any:set_1_strange_device",
 			"compressed_dynamic_props": "strange_5001",
 			"strange_notify_every": 10
 		},
@@ -88,6 +90,7 @@
 			"icon_url": "https://stats.reactivedrop.com/static/strange/strange_5002.png",
 			"name_color": "CF6A32",
 			"tags": "strange:5002",
+			"exchange": "contains_any:set_1_strange_device",
 			"compressed_dynamic_props": "strange_5002",
 			"strange_notify_every": 500,
 			"strange_notify_0": 10,
@@ -128,6 +131,7 @@
 			"icon_url": "https://stats.reactivedrop.com/static/strange/strange_5003.png",
 			"name_color": "CF6A32",
 			"tags": "strange:5003",
+			"exchange": "contains_any:set_1_strange_device",
 			"compressed_dynamic_props": "strange_5003",
 			"strange_notify_every": 1000
 		},
@@ -158,6 +162,7 @@
 			"icon_url": "https://stats.reactivedrop.com/static/strange/strange_5004.png",
 			"name_color": "CF6A32",
 			"tags": "strange:5004",
+			"exchange": "contains_any:set_1_strange_device",
 			"compressed_dynamic_props": "strange_5004",
 			"strange_notify_every": 1
 		},
@@ -188,6 +193,7 @@
 			"icon_url": "https://stats.reactivedrop.com/static/strange/strange_5005.png",
 			"name_color": "CF6A32",
 			"tags": "strange:5005",
+			"exchange": "contains_any:set_1_strange_device",
 			"compressed_dynamic_props": "strange_5005",
 			"strange_notify_every": 150,
 			"strange_notify_0": 25,
@@ -221,6 +227,7 @@
 			"icon_url": "https://stats.reactivedrop.com/static/strange/strange_5006.png",
 			"name_color": "CF6A32",
 			"tags": "strange:5006",
+			"exchange": "contains_any:set_1_strange_device",
 			"compressed_dynamic_props": "strange_5006",
 			"strange_notify_every": 50,
 			"strange_notify_0": 10,
@@ -255,6 +262,7 @@
 			"icon_url": "https://stats.reactivedrop.com/static/strange/strange_5007.png",
 			"name_color": "CF6A32",
 			"tags": "strange:5007",
+			"exchange": "contains_any:set_1_strange_device",
 			"compressed_dynamic_props": "strange_5007;strange_5007_best",
 			"strange_notify_every": 50
 		},
@@ -285,6 +293,7 @@
 			"icon_url": "https://stats.reactivedrop.com/static/strange/strange_5008.png",
 			"name_color": "CF6A32",
 			"tags": "strange:5008",
+			"exchange": "contains_any:set_1_strange_device",
 			"compressed_dynamic_props": "strange_5008",
 			"strange_notify_every": 25,
 			"strange_notify_0": 5,
