@@ -10,7 +10,7 @@
 | [French](#french-français) | 29 | 138 | 42 | 2404 | 200 | 650 | 548 | 126 |
 | [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Hungarian](#non-curated-languages) | 53 | 138 | 42 | 3039 | 200 | 975 | 562 | 148 |
-| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | 3 | ✔️ | ✔️ | 6 | ✔️ |
+| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 103 | ✔️ | ✔️ |
 | [Korean](#koreana-한국어) | 9 | 10 | 38 | 1535 | 22 | 446 | 548 | 49 |
 | [Norwegian Bokmål](#non-curated-languages) | 71 | 708 | 47 | 3745 | 200 | 710 | 631 | 148 |
@@ -1105,14 +1105,7 @@
 
 </summary>
 
-### Strings
-
-- [reactivedrop_italian.txt](resource/reactivedrop_italian.txt) has 3 untranslated strings.
-
-### Inventory Schema
-
-- Item 4000 "Beta Tester's Strange Weapon" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_italian`, `description_italian`, `display_type_italian`
-- Item 4001 "Beta Tester's Strange Device" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_italian`, `description_italian`, `display_type_italian`
+✓ Up to date!
 
 </details>
 
