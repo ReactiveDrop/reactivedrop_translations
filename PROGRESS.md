@@ -1,7 +1,7 @@
 # Overview
 | Language | basemodui | closecaption | gameui | reactivedrop | statsweb | Strings | Inventory | Files |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | ✔️ | 2 | ✔️ | ✔️ | 6 | 1 |
+| [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | ✔️ | 2 | ✔️ | ✔️ | 1 | 1 |
 | [Traditional Chinese](#tchinese-繁體中文) | 11 | 140 | 33 | 2909 | 200 | 236 | 560 | 146 |
 | [Czech](#czech-čeština) | 73 | 1810 | 42 | 4045 | 200 | 980 | 630 | 146 |
 | [Danish](#non-curated-languages) | 54 | 231 | 42 | 3573 | 200 | 710 | 625 | 147 |
@@ -11,7 +11,7 @@
 | [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | 2 | ✔️ | ✔️ | ✔️ | 1 |
 | [Hungarian](#non-curated-languages) | 53 | 138 | 42 | 3041 | 200 | 975 | 562 | 147 |
 | [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | 2 | ✔️ | ✔️ | ✔️ | 1 |
-| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | 2 | ✔️ | 103 | ✔️ | 1 |
+| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 103 | ✔️ | ✔️ |
 | [Korean](#koreana-한국어) | 9 | 10 | 38 | 1537 | 22 | 446 | 548 | 48 |
 | [Norwegian Bokmål](#non-curated-languages) | 71 | 708 | 47 | 3747 | 200 | 710 | 631 | 147 |
 | [Polish](#polish-polski) | 30 | 2004 | 42 | 3041 | 200 | 706 | 562 | 143 |
@@ -50,8 +50,7 @@
 
 ### Inventory Schema
 
-- Item 4000 "Beta Tester's Strange Weapon" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_schinese`, `description_schinese`, `display_type_schinese`
-- Item 4001 "Beta Tester's Strange Device" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_schinese`, `description_schinese`, `display_type_schinese`
+- Item 4001 "Beta Tester's Strange Device" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `description_schinese`
 
 </details>
 
@@ -1137,11 +1136,6 @@
 - [addons/RiskOfRain/reactivedrop_japanese.txt](addons/RiskOfRain/resource/reactivedrop_japanese.txt) has 1 untranslated strings.
 - [misc/signage/signage_japanese.vdf](misc/signage/signage_japanese.vdf) has 67 untranslated strings.
 - [platform/vgui_japanese.txt](platform/vgui_japanese.txt) has 35 untranslated strings.
-- [reactivedrop_japanese.txt](resource/reactivedrop_japanese.txt) has 2 untranslated strings.
-
-### Upcoming Release Notes
-
-- [20240101_japanese.xml](release_notes/20240101_english.xml) is missing.
 
 </details>
 
