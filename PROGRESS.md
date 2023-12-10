@@ -1,7 +1,7 @@
 # Overview
 | Language | basemodui | closecaption | gameui | reactivedrop | statsweb | Strings | Inventory | Files |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | ✔️ | 2 | ✔️ | ✔️ | 1 | 1 |
+| [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | ✔️ | 2 | ✔️ | ✔️ | 1 | ✔️ |
 | [Traditional Chinese](#tchinese-繁體中文) | 11 | 140 | 33 | 2909 | 200 | 236 | 560 | 146 |
 | [Czech](#czech-čeština) | 73 | 1810 | 42 | 4045 | 200 | 980 | 630 | 146 |
 | [Danish](#non-curated-languages) | 54 | 231 | 42 | 3573 | 200 | 710 | 625 | 147 |
@@ -43,10 +43,6 @@
 ### Strings
 
 - [reactivedrop_schinese.txt](resource/reactivedrop_schinese.txt) has 2 untranslated strings.
-
-### Upcoming Release Notes
-
-- [20240101_schinese.xml](release_notes/20240101_english.xml) is missing.
 
 ### Inventory Schema
 
