@@ -1,7 +1,7 @@
 # Overview
 | Language | basemodui | closecaption | gameui | reactivedrop | statsweb | Strings | Inventory | Files |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | ✔️ | 2 | ✔️ | ✔️ | 1 | ✔️ |
+| [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Traditional Chinese](#tchinese-繁體中文) | 11 | 140 | 33 | 2909 | 200 | 236 | 560 | 146 |
 | [Czech](#czech-čeština) | 73 | 1810 | 42 | 4045 | 200 | 980 | 630 | 146 |
 | [Danish](#non-curated-languages) | 54 | 231 | 42 | 3573 | 200 | 710 | 625 | 147 |
@@ -40,13 +40,7 @@
 
 </summary>
 
-### Strings
-
-- [reactivedrop_schinese.txt](resource/reactivedrop_schinese.txt) has 2 untranslated strings.
-
-### Inventory Schema
-
-- Item 4001 "Beta Tester's Strange Device" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `description_schinese`
+✓ Up to date!
 
 </details>
 
