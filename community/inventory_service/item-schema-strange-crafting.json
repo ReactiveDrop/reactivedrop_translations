@@ -46,7 +46,7 @@
 			"description_italian": "Uno strano assortimento di circuiti stampati che non sembrano essere compatibili. Il dispositivo non sembra essere mai stato acceso.",
 			"description_japanese": "規格製品には見えない不思議な回路基板の山。この装置は一度も電源を入れた形跡が無いようだ。",
 			"description_russian": "Странный набор электросхем, которые, кажется, не совместимы. Похоже, что прибор никогда не включался.",
-			"description_english": "一堆看起来不能相互兼容的电路板。这玩意似乎从未上过电。",
+			"description_schinese": "一堆看起来不能相互兼容的电路板。这玩意似乎从未上过电。",
 			"icon_url": "https://stats.reactivedrop.com/static/medals/error.png",
 			"name_color": "CF6A32",
 			"tags": "crafting_item:single_use_tool;contains_any:set_1_strange_device"
