@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<content><string id="body">Happy new year! This month's update contains fixes for controller issues, updates to the Infection deathmatch challenge, and a few miscellaneous fixes and new features.
+
+[h2]Official Missions[/h2]
+[list]
+[*][b]BioGen Corporation: Invisible Threat:[/b] Fixed speedrun time being incorrectly calculated.
+[/list]
+
+[h2]Controller[/h2]
+[list]
+[*]Fixed doubled cursor movement inputs on in-game menus such as computer hacks and the briefing lobby.
+[*]Fixed extra inputs being generated when switching action set. This was causing the Override command to close and re-open the hack.
+[*]Fixed an issue where after starting the game with Steam in Big Picture mode or using the controller, selecting a marine with the mouse would always select Sarge.
+[*]Added convars rd_input_controller_mode_mouse and rd_input_controller_mode_keyboard to lock the input mode to not-controller (0) or controller (1).
+[/list]
+
+[h2]Menus[/h2]
+[list]
+[*]Fixed non-English letters not being enterable into the lobby name field.
+[*]Fixed 7.1 surround sound missing from 2010 audio settings menu.
+[*]Fixed incorrect name for Order Specific Marine in the 2010 keyboard settings menu.
+[*]Fixed download campaign button being obscured by the filters button.
+[*]Fixed memory leak related to player avatars. This could sometimes lead to a "CUtlRBTree overflow" crash.
+[/list]
+
+[h2]Infection Deathmatch Challenge[/h2]
+[list]
+[*]Reduced the amount of bonus maximum health that comes with Last Stand.
+[*]Reduced the DPS of the chainsaw when using Last Stand.
+[*]Slightly increased the DPS of the chainsaw when not using Last Stand.
+[*]Freeze Grenades can no longer be used. (They were already unselectable.)
+[*]Significantly increased Trip Mine damage against zombies.
+[*]Fixed players falling through terrain when turning into a zombie.
+[*]Updated custom edits for dm_deima.
+[*]Added Classic variant:[list]
+[*]Last Stand mode is disabled.
+[*]Prime Zombies no longer have shields.[/list]
+[*]Improved bot marine pathfinding across all deathmatch game modes.
+[/list]
+
+[h2]Scripting[/h2]
+[list]
+[*]Added a new method to rd_hud_vscript: PaintPolygon(vertices, red, green, blue, alpha, texture). vertices is an array of tables, each containing x, y, s, and t coordinates. There must be at least three vertices and they should form a convex shape in clockwise order. x and y are screen coordinates. s and t are texture coordinates, from 0 to 1.
+[/list]
+</string><string id="subtitle"></string><string id="summary"></string><string id="title">Alien Swarm: Reactive Drop Update - January 1, 2024</string></content>
