@@ -2253,6 +2253,10 @@
 
 "rd_workshop_dummy_item"	"New Workshop Add-on"
 "rd_workshop_published_addons"	"Published Workshop Add-ons"
+// button to switch to installed addons list
+"rd_workshop_installed_short"	"Installed"
+// button to switch to publish addons page
+"rd_workshop_publish_short"	"Publish"
 "rd_workshop_waiting_for_addon_list"	"Waiting for add-on list..."
 "rd_workshop_create_addon"	"CREATE NEW ADD-ON"
 "rd_workshop_choose_vpk"	"Select VPK"
