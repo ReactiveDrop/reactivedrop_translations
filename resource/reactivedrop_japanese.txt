@@ -4412,12 +4412,12 @@
 "[english]rd_workshop_dummy_item"		"New Workshop Add-on"
 "rd_workshop_published_addons"		"公開されたワークショップアドオン"
 "[english]rd_workshop_published_addons"		"Published Workshop Add-ons"
-		"rd_workshop_installed_short"		"Installed"
-		// button to switch to installed addons list
-		"[english]rd_workshop_installed_short"		"Installed"
-		"rd_workshop_publish_short"		"Publish"
-		// button to switch to publish addons page
-		"[english]rd_workshop_publish_short"		"Publish"
+"rd_workshop_installed_short"		"インストール済み"
+// button to switch to installed addons list
+"[english]rd_workshop_installed_short"		"Installed"
+"rd_workshop_publish_short"		"公開アドオン"
+// button to switch to publish addons page
+"[english]rd_workshop_publish_short"		"Publish"
 "rd_workshop_waiting_for_addon_list"		"アドオンリストを待機中..."
 "[english]rd_workshop_waiting_for_addon_list"		"Waiting for add-on list..."
 "rd_workshop_create_addon"		"新規アドオンを作成"
