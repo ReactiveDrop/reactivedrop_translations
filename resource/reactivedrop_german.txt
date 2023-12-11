@@ -4412,12 +4412,12 @@
 "[english]rd_workshop_dummy_item"		"New Workshop Add-on"
 "rd_workshop_published_addons"		"Veröffentlichte Workshop Erweiterungen"
 "[english]rd_workshop_published_addons"		"Published Workshop Add-ons"
-		"rd_workshop_installed_short"		"Installed"
-		// button to switch to installed addons list
-		"[english]rd_workshop_installed_short"		"Installed"
-		"rd_workshop_publish_short"		"Publish"
-		// button to switch to publish addons page
-		"[english]rd_workshop_publish_short"		"Publish"
+"rd_workshop_installed_short"		"Installiert"
+// button to switch to installed addons list
+"[english]rd_workshop_installed_short"		"Installed"
+"rd_workshop_publish_short"		"Veröffentlicht"
+// button to switch to publish addons page
+"[english]rd_workshop_publish_short"		"Publish"
 "rd_workshop_waiting_for_addon_list"		"Warte auf Liste der Erweiterungen..."
 "[english]rd_workshop_waiting_for_addon_list"		"Waiting for add-on list..."
 "rd_workshop_create_addon"		"NEUE ERWEITERUNG"
