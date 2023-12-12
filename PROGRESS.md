@@ -1,31 +1,31 @@
 # Overview
 | Language | basemodui | closecaption | gameui | reactivedrop | statsweb | Strings | Inventory | Files |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | ✔️ | 2 | ✔️ | ✔️ | ✔️ | ✔️ |
-| [Traditional Chinese](#tchinese-繁體中文) | 11 | 140 | 33 | 2911 | 200 | 236 | 560 | 146 |
-| [Czech](#czech-čeština) | 73 | 1810 | 42 | 4047 | 200 | 980 | 630 | 146 |
-| [Danish](#non-curated-languages) | 54 | 231 | 42 | 3575 | 200 | 710 | 625 | 147 |
-| [Dutch](#non-curated-languages) | 53 | 2004 | 42 | 3043 | 200 | 710 | 562 | 146 |
-| [Finnish](#non-curated-languages) | 44 | 2004 | 42 | 2967 | 200 | 709 | 562 | 146 |
-| [French](#french-français) | 29 | 138 | 42 | 2408 | 200 | 650 | 548 | 125 |
-| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | 2 | ✔️ | ✔️ | ✔️ | 1 |
-| [Hungarian](#non-curated-languages) | 53 | 138 | 42 | 3043 | 200 | 975 | 562 | 147 |
-| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | 4 | ✔️ | ✔️ | ✔️ | 1 |
-| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 103 | ✔️ | ✔️ |
-| [Korean](#koreana-한국어) | 9 | 10 | 38 | 1539 | 22 | 446 | 548 | 48 |
-| [Norwegian Bokmål](#non-curated-languages) | 71 | 708 | 47 | 3749 | 200 | 710 | 631 | 147 |
-| [Polish](#polish-polski) | 30 | 2004 | 42 | 3043 | 200 | 706 | 562 | 143 |
-| [European Portuguese](#portuguese-português-europeu) | 2 | 180 | 32 | 2131 | 21 | 630 | 571 | 141 |
-| [Brazilian Portuguese](#brazilian-português) | 4 | 2004 | 32 | 1302 | 9 | 276 | 329 | 8 |
-| [Romanian](#non-curated-languages) | 53 | 1996 | 48 | 3754 | 200 | 975 | 608 | 147 |
-| [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | 4 | ✔️ | ✔️ | ✔️ | 1 |
-| [European Spanish](#spanish-español-de-españa) | 30 | 2004 | 40 | 2458 | 200 | 714 | 558 | 146 |
-| [Latin American Spanish](#latam-español-latinoamericano) | 1283 | 2004 | 634 | 4554 | 204 | 980 | 644 | 147 |
-| [Swedish](#swedish-svenska) | ✔️ | 2004 | ✔️ | 2613 | ✔️ | 282 | 562 | 147 |
-| [Thai](#non-curated-languages) | 968 | 1993 | 50 | 4290 | 200 | 739 | 641 | 147 |
-| [Turkish](#non-curated-languages) | 53 | 137 | 42 | 3043 | 200 | 975 | 562 | 147 |
-| [Ukrainian](#ukrainian-українська) | 29 | 131 | 32 | 2586 | 200 | 933 | 556 | 146 |
-| [Vietnamese](#vietnamese-tiếng-việt) | ✔️ | 2004 | ✔️ | 3332 | ✔️ | ✔️ | 6 | 113 |
+| [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | ✔️ | 2 | ✔️ | ✔️ | 3 | ✔️ |
+| [Traditional Chinese](#tchinese-繁體中文) | 11 | 140 | 33 | 2911 | 200 | 236 | 566 | 146 |
+| [Czech](#czech-čeština) | 73 | 1810 | 42 | 4047 | 200 | 980 | 636 | 146 |
+| [Danish](#non-curated-languages) | 54 | 231 | 42 | 3575 | 200 | 710 | 631 | 147 |
+| [Dutch](#non-curated-languages) | 53 | 2004 | 42 | 3043 | 200 | 710 | 568 | 146 |
+| [Finnish](#non-curated-languages) | 44 | 2004 | 42 | 2967 | 200 | 709 | 568 | 146 |
+| [French](#french-français) | 29 | 138 | 42 | 2408 | 200 | 650 | 553 | 125 |
+| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | 2 | ✔️ | ✔️ | 3 | 1 |
+| [Hungarian](#non-curated-languages) | 53 | 138 | 42 | 3043 | 200 | 975 | 568 | 147 |
+| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | 4 | ✔️ | ✔️ | 3 | 1 |
+| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 103 | 3 | ✔️ |
+| [Korean](#koreana-한국어) | 9 | 10 | 38 | 1539 | 22 | 446 | 554 | 48 |
+| [Norwegian Bokmål](#non-curated-languages) | 71 | 708 | 47 | 3749 | 200 | 710 | 637 | 147 |
+| [Polish](#polish-polski) | 30 | 2004 | 42 | 3043 | 200 | 706 | 568 | 143 |
+| [European Portuguese](#portuguese-português-europeu) | 2 | 180 | 32 | 2131 | 21 | 630 | 577 | 141 |
+| [Brazilian Portuguese](#brazilian-português) | 4 | 2004 | 32 | 1302 | 9 | 276 | 332 | 8 |
+| [Romanian](#non-curated-languages) | 53 | 1996 | 48 | 3754 | 200 | 975 | 614 | 147 |
+| [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | 4 | ✔️ | ✔️ | 3 | 1 |
+| [European Spanish](#spanish-español-de-españa) | 30 | 2004 | 40 | 2458 | 200 | 714 | 564 | 146 |
+| [Latin American Spanish](#latam-español-latinoamericano) | 1283 | 2004 | 634 | 4554 | 204 | 980 | 650 | 147 |
+| [Swedish](#swedish-svenska) | ✔️ | 2004 | ✔️ | 2613 | ✔️ | 282 | 568 | 147 |
+| [Thai](#non-curated-languages) | 968 | 1993 | 50 | 4290 | 200 | 739 | 647 | 147 |
+| [Turkish](#non-curated-languages) | 53 | 137 | 42 | 3043 | 200 | 975 | 568 | 147 |
+| [Ukrainian](#ukrainian-українська) | 29 | 131 | 32 | 2586 | 200 | 933 | 562 | 146 |
+| [Vietnamese](#vietnamese-tiếng-việt) | ✔️ | 2004 | ✔️ | 3332 | ✔️ | ✔️ | 9 | 113 |
 ### Legend
 - ***Non-capitalized column headers*** are the most important specific files and their number of missing strings. All of these txt-files are located in the resources folder. Except statsweb, which lies in community/stats_website, it's an vdf-file.
 - ***Strings*** is the number of missing strings not included in one of the files which get an individual non-capitalized column.
@@ -43,6 +43,11 @@
 ### Strings
 
 - [reactivedrop_schinese.txt](resource/reactivedrop_schinese.txt) has 2 untranslated strings.
+
+### Inventory Schema
+
+- Item 43 "Containment Officer" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_schinese`, `description_schinese`
+- Item 44 "Steam Endless Replayability Fest 2024" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `description_schinese`
 
 </details>
 
@@ -259,6 +264,8 @@
 - Item 40 "Steam SHMUP Fest 2023" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_tchinese`, `description_tchinese`, `display_type_tchinese`
 - Item 41 "Reduction Veteran" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_tchinese`, `description_tchinese`, `display_type_tchinese`
 - Item 42 "Air Time" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_tchinese`, `description_tchinese`, `display_type_tchinese`
+- Item 43 "Containment Officer" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_tchinese`, `description_tchinese`, `display_type_tchinese`
+- Item 44 "Steam Endless Replayability Fest 2024" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_tchinese`, `description_tchinese`, `display_type_tchinese`
 - Item 7 "Translator" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_tchinese`, `description_tchinese`, `display_type_tchinese`
 - Item 8 "Programmer" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_tchinese`, `description_tchinese`, `display_type_tchinese`
 - Item 9 "Mapper" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_tchinese`, `description_tchinese`, `display_type_tchinese`
@@ -614,6 +621,8 @@
 - Item 40 "Steam SHMUP Fest 2023" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_czech`, `description_czech`, `display_type_czech`
 - Item 41 "Reduction Veteran" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_czech`, `description_czech`, `display_type_czech`
 - Item 42 "Air Time" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_czech`, `description_czech`, `display_type_czech`
+- Item 43 "Containment Officer" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_czech`, `description_czech`, `display_type_czech`
+- Item 44 "Steam Endless Replayability Fest 2024" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_czech`, `description_czech`, `display_type_czech`
 - Item 7 "Translator" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_czech`, `description_czech`, `display_type_czech`
 - Item 8 "Programmer" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_czech`, `description_czech`, `display_type_czech`
 - Item 9 "Mapper" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_czech`, `description_czech`, `display_type_czech`
@@ -947,6 +956,8 @@
 - Item 40 "Steam SHMUP Fest 2023" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_french`, `description_french`, `display_type_french`
 - Item 41 "Reduction Veteran" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_french`, `description_french`, `display_type_french`
 - Item 42 "Air Time" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_french`, `description_french`, `display_type_french`
+- Item 43 "Containment Officer" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_french`, `description_french`, `display_type_french`
+- Item 44 "Steam Endless Replayability Fest 2024" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `description_french`, `display_type_french`
 - Item 7 "Translator" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_french`, `description_french`, `display_type_french`
 - Item 8 "Programmer" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_french`, `description_french`, `display_type_french`
 - Item 9 "Mapper" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_french`, `description_french`, `display_type_french`
@@ -1099,6 +1110,11 @@
 
 - [20240101_german.xml](release_notes/20240101_english.xml) is missing.
 
+### Inventory Schema
+
+- Item 43 "Containment Officer" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_german`, `description_german`
+- Item 44 "Steam Endless Replayability Fest 2024" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `description_german`
+
 </details>
 
 <details><summary>
@@ -1115,6 +1131,11 @@
 
 - [20240101_italian.xml](release_notes/20240101_english.xml) is missing.
 
+### Inventory Schema
+
+- Item 43 "Containment Officer" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_italian`, `description_italian`
+- Item 44 "Steam Endless Replayability Fest 2024" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `description_italian`
+
 </details>
 
 <details><summary>
@@ -1128,6 +1149,11 @@
 - [addons/RiskOfRain/reactivedrop_japanese.txt](addons/RiskOfRain/resource/reactivedrop_japanese.txt) has 1 untranslated strings.
 - [misc/signage/signage_japanese.vdf](misc/signage/signage_japanese.vdf) has 67 untranslated strings.
 - [platform/vgui_japanese.txt](platform/vgui_japanese.txt) has 35 untranslated strings.
+
+### Inventory Schema
+
+- Item 43 "Containment Officer" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_japanese`, `description_japanese`
+- Item 44 "Steam Endless Replayability Fest 2024" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `description_japanese`
 
 </details>
 
@@ -1247,6 +1273,8 @@
 - Item 40 "Steam SHMUP Fest 2023" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_koreana`, `description_koreana`, `display_type_koreana`
 - Item 41 "Reduction Veteran" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_koreana`, `description_koreana`, `display_type_koreana`
 - Item 42 "Air Time" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_koreana`, `description_koreana`, `display_type_koreana`
+- Item 43 "Containment Officer" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_koreana`, `description_koreana`, `display_type_koreana`
+- Item 44 "Steam Endless Replayability Fest 2024" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_koreana`, `description_koreana`, `display_type_koreana`
 - Item 7 "Translator" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_koreana`, `description_koreana`, `display_type_koreana`
 - Item 8 "Programmer" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_koreana`, `description_koreana`, `display_type_koreana`
 - Item 9 "Mapper" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_koreana`, `description_koreana`, `display_type_koreana`
@@ -1598,6 +1626,8 @@
 - Item 40 "Steam SHMUP Fest 2023" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_polish`, `description_polish`, `display_type_polish`
 - Item 41 "Reduction Veteran" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_polish`, `description_polish`, `display_type_polish`
 - Item 42 "Air Time" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_polish`, `description_polish`, `display_type_polish`
+- Item 43 "Containment Officer" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_polish`, `description_polish`, `display_type_polish`
+- Item 44 "Steam Endless Replayability Fest 2024" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_polish`, `description_polish`, `display_type_polish`
 - Item 7 "Translator" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_polish`, `description_polish`, `display_type_polish`
 - Item 8 "Programmer" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_polish`, `description_polish`, `display_type_polish`
 - Item 9 "Mapper" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_polish`, `description_polish`, `display_type_polish`
@@ -1946,6 +1976,8 @@
 - Item 40 "Steam SHMUP Fest 2023" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_portuguese`, `description_portuguese`, `display_type_portuguese`
 - Item 41 "Reduction Veteran" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_portuguese`, `description_portuguese`, `display_type_portuguese`
 - Item 42 "Air Time" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_portuguese`, `description_portuguese`, `display_type_portuguese`
+- Item 43 "Containment Officer" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_portuguese`, `description_portuguese`, `display_type_portuguese`
+- Item 44 "Steam Endless Replayability Fest 2024" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_portuguese`, `description_portuguese`, `display_type_portuguese`
 - Item 14 "Reporter" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_portuguese`, `description_portuguese`
 - Item 29 "Streamer" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_portuguese`, `description_portuguese`
 - Item 39 "Mapping Competition Participant (2023)" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_portuguese`, `description_portuguese`
@@ -2142,6 +2174,8 @@
 - Item 40 "Steam SHMUP Fest 2023" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_brazilian`, `description_brazilian`
 - Item 41 "Reduction Veteran" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_brazilian`, `description_brazilian`
 - Item 42 "Air Time" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_brazilian`, `description_brazilian`
+- Item 43 "Containment Officer" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_brazilian`, `description_brazilian`
+- Item 44 "Steam Endless Replayability Fest 2024" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `description_brazilian`
 - Item 29 "Streamer" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_brazilian`, `description_brazilian`
 - Item 39 "Mapping Competition Participant (2023)" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_brazilian`, `description_brazilian`
 - Item 100000010 "Donor: Dmitriy" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_brazilian`, `description_brazilian`, `ingame_description_brazilian`
@@ -2275,6 +2309,11 @@
 ### Upcoming Release Notes
 
 - [20240101_russian.xml](release_notes/20240101_english.xml) is missing.
+
+### Inventory Schema
+
+- Item 43 "Containment Officer" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_russian`, `description_russian`
+- Item 44 "Steam Endless Replayability Fest 2024" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `description_russian`
 
 </details>
 
@@ -2494,6 +2533,8 @@
 - Item 40 "Steam SHMUP Fest 2023" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_spanish`, `description_spanish`, `display_type_spanish`
 - Item 41 "Reduction Veteran" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_spanish`, `description_spanish`, `display_type_spanish`
 - Item 42 "Air Time" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_spanish`, `description_spanish`, `display_type_spanish`
+- Item 43 "Containment Officer" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_spanish`, `description_spanish`, `display_type_spanish`
+- Item 44 "Steam Endless Replayability Fest 2024" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_spanish`, `description_spanish`, `display_type_spanish`
 - Item 7 "Translator" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_spanish`, `description_spanish`, `display_type_spanish`
 - Item 8 "Programmer" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_spanish`, `description_spanish`, `display_type_spanish`
 - Item 9 "Mapper" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_spanish`, `description_spanish`, `display_type_spanish`
@@ -2850,6 +2891,8 @@
 - Item 40 "Steam SHMUP Fest 2023" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_latam`, `description_latam`, `display_type_latam`
 - Item 41 "Reduction Veteran" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_latam`, `description_latam`, `display_type_latam`
 - Item 42 "Air Time" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_latam`, `description_latam`, `display_type_latam`
+- Item 43 "Containment Officer" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_latam`, `description_latam`, `display_type_latam`
+- Item 44 "Steam Endless Replayability Fest 2024" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_latam`, `description_latam`, `display_type_latam`
 - Item 7 "Translator" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_latam`, `description_latam`, `display_type_latam`
 - Item 8 "Programmer" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_latam`, `description_latam`, `display_type_latam`
 - Item 9 "Mapper" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_latam`, `description_latam`, `display_type_latam`
@@ -3196,6 +3239,8 @@
 - Item 40 "Steam SHMUP Fest 2023" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_swedish`, `description_swedish`, `display_type_swedish`
 - Item 41 "Reduction Veteran" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_swedish`, `description_swedish`, `display_type_swedish`
 - Item 42 "Air Time" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_swedish`, `description_swedish`, `display_type_swedish`
+- Item 43 "Containment Officer" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_swedish`, `description_swedish`, `display_type_swedish`
+- Item 44 "Steam Endless Replayability Fest 2024" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_swedish`, `description_swedish`, `display_type_swedish`
 - Item 7 "Translator" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_swedish`, `description_swedish`, `display_type_swedish`
 - Item 8 "Programmer" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_swedish`, `description_swedish`, `display_type_swedish`
 - Item 9 "Mapper" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_swedish`, `description_swedish`, `display_type_swedish`
@@ -3549,6 +3594,8 @@
 - Item 40 "Steam SHMUP Fest 2023" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_ukrainian`, `description_ukrainian`, `display_type_ukrainian`
 - Item 41 "Reduction Veteran" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_ukrainian`, `description_ukrainian`, `display_type_ukrainian`
 - Item 42 "Air Time" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_ukrainian`, `description_ukrainian`, `display_type_ukrainian`
+- Item 43 "Containment Officer" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_ukrainian`, `description_ukrainian`, `display_type_ukrainian`
+- Item 44 "Steam Endless Replayability Fest 2024" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_ukrainian`, `description_ukrainian`, `display_type_ukrainian`
 - Item 7 "Translator" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_ukrainian`, `description_ukrainian`, `display_type_ukrainian`
 - Item 8 "Programmer" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_ukrainian`, `description_ukrainian`, `display_type_ukrainian`
 - Item 9 "Mapper" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_ukrainian`, `description_ukrainian`, `display_type_ukrainian`
@@ -3818,6 +3865,8 @@
 
 ### Inventory Schema
 
+- Item 43 "Containment Officer" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_vietnamese`, `description_vietnamese`
+- Item 44 "Steam Endless Replayability Fest 2024" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `description_vietnamese`
 - Item 4000 "Beta Tester's Strange Weapon" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_vietnamese`, `description_vietnamese`, `display_type_vietnamese`
 - Item 4001 "Beta Tester's Strange Device" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_vietnamese`, `description_vietnamese`, `display_type_vietnamese`
 
