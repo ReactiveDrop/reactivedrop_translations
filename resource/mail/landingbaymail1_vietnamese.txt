@@ -5,19 +5,19 @@ GAME
 // Inbox
 
 "MailFrom1"	"Từ: Helen Young"
-"MailDate1"	"Ngày: 12/19/52"
-"MailSubject1"	"Tiêu đề: Các cá thể tập trung nuôi con (Eusociality)"
-"MailBody1A"	"Các phát hiện mới về Swarm:"
-"MailBody1B"	"Chúng ta đang bị áp đảo về mặt con số. Mọi biểu đồ về tăng trưởng, tuổi thọ và trao đổi chất đều chỉ hoạt động với toàn bộ quần thể, thay vì các cá thể riêng lẻ. "
-"MailBody1C"	"Nhìn theo 1 khía cạnh nào đó, chúng là loài côn trùng tiên tiến, 1 dạng tiến hóa siêu cấp. Việc ngăn chặn đà phát triển của chúng là cực kỳ quan trọng."
+"MailDate1"	"Ngày: 19/12/52"
+"MailSubject1"	"Chủ đề: Eusociality"
+"MailBody1A"	"Các phát hiện mới về lũ Swarm:"
+"MailBody1B"	"Chúng tôi đã đếm số và tính toán. Tất cả các mô hình về tăng trưởng, tuổi thọ và trao đổi chất đều chỉ hoạt động khi được áp dụng với toàn bộ quần thể, thay vì tới cá thể."
+"MailBody1C"	"Theo khía cạnh nào đó, chúng giống như là các loài côn trùng trong tổ tiên tiến, một siêu sinh vật tiên tiến duy nhất. Việc ngăn chặn chúng là cực kỳ quan trọng."
 
 // Sent
 
 "MailFrom3"	"Tới: Helen Young"
-"MailDate3"	"Ngày: 12/19/52"
-"MailSubject3"	"Tiêu đề: Re: ??!"
-"MailBody3A"	"Cấu trúc quần thể xã hội?"
-"MailBody3B"	"Nằm giữa các loài có vú to lớn khác? Tôi thấy khá nghi ngờ."
-"MailBody3C"	"Những cái kén đang là mỗi hiểm nguy, điều này là ko thể chối cãi. Chúng ta đang có vấn đề mới trong hôm nay. 1 nhân viên đã được tìm thấy trong trạng thái tử vong."
-"MailBody3D"	"Tôi đồng ý rằng việc ngăn chặn là cấp thiết, nhưng chúng ta chưa nhìn trước được các khó khăn sẽ gặp phải."
+"MailDate3"	"Ngày: 19/12/52"
+"MailSubject3"	"Chủ đề: Re: ??!"
+"MailBody3A"	"Tính xã hội được cấu trúc?"
+"MailBody3B"	"Giữa các sinh vật có thân hình to lớn? Tôi vẫn còn nghi ngờ."
+"MailBody3C"	"Nhưng không có nghi ngờ gì về trứng là nguy hiểm. Chúng tôi gặp một tại nạn ngày hôm nay. Một trong các công nhân được phát hiện đã chết."
+"MailBody3D"	"Đồng ý là việc ngăn chặn chúng là cực kỳ quan trọng, nhưng không lường trước được độ khó khăn."
 }
