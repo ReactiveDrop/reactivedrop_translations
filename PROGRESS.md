@@ -1,7 +1,7 @@
 # Overview
 | Language | basemodui | closecaption | gameui | reactivedrop | statsweb | Strings | Inventory | Files |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | ✔️ | 2 | ✔️ | ✔️ | 3 | ✔️ |
+| [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Traditional Chinese](#tchinese-繁體中文) | 11 | 140 | 33 | 2911 | 200 | 236 | 566 | 146 |
 | [Czech](#czech-čeština) | 73 | 1810 | 42 | 4047 | 200 | 980 | 636 | 146 |
 | [Danish](#non-curated-languages) | 54 | 231 | 42 | 3575 | 200 | 710 | 631 | 147 |
@@ -40,14 +40,7 @@
 
 </summary>
 
-### Strings
-
-- [reactivedrop_schinese.txt](resource/reactivedrop_schinese.txt) has 2 untranslated strings.
-
-### Inventory Schema
-
-- Item 43 "Containment Officer" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_schinese`, `description_schinese`
-- Item 44 "Steam Endless Replayability Fest 2024" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `description_schinese`
+✓ Up to date!
 
 </details>
 
