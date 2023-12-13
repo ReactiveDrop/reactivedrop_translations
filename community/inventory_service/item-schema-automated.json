@@ -1454,7 +1454,7 @@
 			"itemdefid": 43,
 			"type": "item",
 			"name_english": "Containment Officer",
-			"name_german": "Containment Offizier",
+			"name_german": "Eindämmungsoffizier",
 			"name_japanese": "感染隔離管理官",
 			"name_schinese": "收容官",
 			"description_english": "Fought the zombie virus in Infection Deathmatch.\n\n[color=#bfbfbf]Rounds survived: %strange_43_survive%\nZombie infections spread: %strange_43_tags%\nLast Stand kills: %strange_43_laststand%\n[i]Stats are only updated while this item is equipped in a match with at least five players.[/i][/color]",
