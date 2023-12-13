@@ -11,7 +11,7 @@
 | [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | 2 | ✔️ | ✔️ | 3 | 1 |
 | [Hungarian](#non-curated-languages) | 53 | 138 | 42 | 3043 | 200 | 975 | 568 | 147 |
 | [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | 4 | ✔️ | ✔️ | 3 | 1 |
-| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 103 | 3 | ✔️ |
+| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 103 | 1 | ✔️ |
 | [Korean](#koreana-한국어) | 9 | 10 | 38 | 1539 | 22 | 446 | 554 | 48 |
 | [Norwegian Bokmål](#non-curated-languages) | 71 | 708 | 47 | 3749 | 200 | 710 | 637 | 147 |
 | [Polish](#polish-polski) | 30 | 2004 | 42 | 3043 | 200 | 706 | 568 | 143 |
@@ -1145,7 +1145,6 @@
 
 ### Inventory Schema
 
-- Item 43 "Containment Officer" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_japanese`, `description_japanese`
 - Item 44 "Steam Endless Replayability Fest 2024" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `description_japanese`
 
 </details>
