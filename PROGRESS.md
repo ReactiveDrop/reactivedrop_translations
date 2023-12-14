@@ -8,7 +8,7 @@
 | [Dutch](#non-curated-languages) | 53 | 2004 | 42 | 3043 | 200 | 710 | 568 | 146 |
 | [Finnish](#non-curated-languages) | 44 | 2004 | 42 | 2967 | 200 | 709 | 568 | 146 |
 | [French](#french-français) | 29 | 138 | 42 | 2408 | 200 | 650 | 553 | 125 |
-| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | 2 | ✔️ | ✔️ | 3 | 1 |
+| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Hungarian](#non-curated-languages) | 53 | 138 | 42 | 3043 | 200 | 975 | 568 | 147 |
 | [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | 4 | ✔️ | ✔️ | 3 | 1 |
 | [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 103 | 1 | ✔️ |
@@ -1095,18 +1095,7 @@
 
 </summary>
 
-### Strings
-
-- [reactivedrop_german.txt](resource/reactivedrop_german.txt) has 2 untranslated strings.
-
-### Upcoming Release Notes
-
-- [20240101_german.xml](release_notes/20240101_english.xml) is missing.
-
-### Inventory Schema
-
-- Item 43 "Containment Officer" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_german`, `description_german`
-- Item 44 "Steam Endless Replayability Fest 2024" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `description_german`
+✓ Up to date!
 
 </details>
 
