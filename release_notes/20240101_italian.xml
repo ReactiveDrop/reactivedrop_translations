@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<content><string id="body">Buon anno nuovo! L'aggiornamento di questo mese contiene correzioni per dei problemi con i controller, aggiornamenti per la sfida Deathmatch Infezione, altre correzioni varie e nuove funzionalità.
+
+[h2]Missioni Ufficiali[/h2]
+[list]
+[*][b]BioGen Corporation: Minaccia Invisibile:[/b] Corretto il tempo della speedrun che veniva calcolato in maniera errata.
+[/list]
+
+[h2]Controller[/h2]
+[list]
+[*]Corretti gli input di movimento del cursore raddoppiati nei menu in gioco, come gli hack del computer e la lobby del briefing.
+[*]Corretta la generazione di input extra quando si cambia set di azioni. Ciò causava la chiusura e la riapertura dell'hack da parte del comando Override.
+[*]È stato risolto un problema per cui, dopo aver avviato il gioco con Steam in modalità Big Picture o utilizzando il controller, selezionando un soldato con il mouse si selezionava sempre Sarge.
+[*]Aggiunte convar rd_input_controller_mode_mouse e rd_input_controller_mode_keyboard per bloccare la modalità di input su not-controller (0) o controller (1).
+[/list]
+
+[h2]Menu[/h2]
+[list]
+[*]Corretto il problema delle lettere non inglesi che non possono essere inserite nel campo del nome della lobby.
+[*]Corretto l'audio surround 7.1 mancante dal menu delle impostazioni audio 2010.
+[*]Corretto il nome errato di un Soldato specifico in ordine nel menu delle impostazioni della tastiera 2010.
+[*]Corretto il pulsante di download delle campagne che viene oscurato dal pulsante dei filtri.
+[*]Corretta la perdita di memoria relativa agli avatar dei giocatori. Ciò poteva talvolta causare un arresto anomalo di "CUtlRBTree overflow".
+[/list]
+
+[h2]Sfida Deathmatch Infezione[/h2]
+[list]
+[*]Ridotta la quantità di salute massima bonus che viene fornita con Ultima Resistenza.
+[*]Ridotti i DPS della motosega quando si usa Ultima Resistenza.
+[*]Aumentati leggermente i DPS della motosega quando non si usa Ultima Resistenza.
+[*]Le granate congelanti non possono più essere utilizzate. (Non erano già più selezionabili.)
+[*]Aumento significativo dei danni delle mine contro gli zombi.
+[*]Corretta la caduta dei giocatori attraverso il terreno quando si trasformano in zombi.
+[*]Aggiornate le modifiche personalizzate per dm_deima.
+[*]Aggiunta variante Classica:[list]
+[*]La modalità Ultima Resistenza è disattivata.
+[*]Gli zombi Prime non hanno più gli scudi.[/list]
+[*]Migliorato il pathfinding dei bot soldati in tutte le modalità di gioco deathmatch.
+[/list]
+
+[h2]Script[/h2]
+[list]
+[*]Aggiunto un nuovo metodo a rd_hud_vscript: PaintPolygon(vertices, red, green, blue, alpha, texture). vertices è un array di tabelle, ciascuna contenente le coordinate x, y, s e t. Devono esserci almeno tre vertici e devono formare una forma convessa in ordine orario. x e y sono coordinate dello schermo. s e t sono coordinate della texture, da 0 a 1.
+[/list]
+</string><string id="subtitle"></string><string id="summary"></string><string id="title">Aggiornamento di Alien Swarm: Reactive Drop - 1 Gennaio 2024</string></content>

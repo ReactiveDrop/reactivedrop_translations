@@ -4412,12 +4412,12 @@
 "[english]rd_workshop_dummy_item"		"New Workshop Add-on"
 "rd_workshop_published_addons"		"Addon del Workshop Pubblicati"
 "[english]rd_workshop_published_addons"		"Published Workshop Add-ons"
-		"rd_workshop_installed_short"		"Installed"
-		// button to switch to installed addons list
-		"[english]rd_workshop_installed_short"		"Installed"
-		"rd_workshop_publish_short"		"Publish"
-		// button to switch to publish addons page
-		"[english]rd_workshop_publish_short"		"Publish"
+"rd_workshop_installed_short"		"Installate"
+// button to switch to installed addons list
+"[english]rd_workshop_installed_short"		"Installed"
+"rd_workshop_publish_short"		"Pubblica"
+// button to switch to publish addons page
+"[english]rd_workshop_publish_short"		"Publish"
 "rd_workshop_waiting_for_addon_list"		"In attesa della lista degli addon..."
 "[english]rd_workshop_waiting_for_addon_list"		"Waiting for add-on list..."
 "rd_workshop_create_addon"		"CREA NUOVO ADDON"
@@ -9463,11 +9463,11 @@
 "[english]asw_infection_win_zombie"		"Zombies win!"
 "asw_infection_survivors"		"Sopravvissuti: %s1."
 "[english]asw_infection_survivors"		"Survivors: %s1."
-		"asw_infection_starts_in"		"First zombie appears in: %s1"
-		"[english]asw_infection_starts_in"		"First zombie appears in: %s1"
-		"asw_infection_rage_meter"		"Rage: %s1 %s2%"
-		// %s1 is a meter made up of █ and spaces; %s2 is a percentage.
-		"[english]asw_infection_rage_meter"		"Rage: %s1 %s2%"
+"asw_infection_starts_in"		"Il primo zombi comparirà tra: %s1"
+"[english]asw_infection_starts_in"		"First zombie appears in: %s1"
+"asw_infection_rage_meter"		"Rabbia: %s1 %s2%"
+// %s1 is a meter made up of █ and spaces; %s2 is a percentage.
+"[english]asw_infection_rage_meter"		"Rage: %s1 %s2%"
 "rd_lobby_options_button_inactive"		"Filtri Attivi: %s1"
 // %s1 is a number; shown when the filters are hidden and the mission details are visible
 "[english]rd_lobby_options_button_inactive"		"Filters Active: %s1"
