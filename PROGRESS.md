@@ -10,7 +10,7 @@
 | [French](#french-français) | 29 | 138 | 42 | 2408 | 200 | 650 | 553 | 125 |
 | [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Hungarian](#non-curated-languages) | 53 | 138 | 42 | 3043 | 200 | 975 | 568 | 147 |
-| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | 4 | ✔️ | ✔️ | 3 | 1 |
+| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 103 | 1 | ✔️ |
 | [Korean](#koreana-한국어) | 9 | 10 | 38 | 1539 | 22 | 446 | 554 | 48 |
 | [Norwegian Bokmål](#non-curated-languages) | 71 | 708 | 47 | 3749 | 200 | 710 | 637 | 147 |
@@ -1105,18 +1105,7 @@
 
 </summary>
 
-### Strings
-
-- [reactivedrop_italian.txt](resource/reactivedrop_italian.txt) has 4 untranslated strings.
-
-### Upcoming Release Notes
-
-- [20240101_italian.xml](release_notes/20240101_english.xml) is missing.
-
-### Inventory Schema
-
-- Item 43 "Containment Officer" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_italian`, `description_italian`
-- Item 44 "Steam Endless Replayability Fest 2024" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `description_italian`
+✓ Up to date!
 
 </details>
 
