@@ -2136,6 +2136,8 @@
 "ASW_Custom_Music_Col_Artist"	"Artist"
 "ASW_Custom_Music_Col_Album"	"Album"
 "nb_onslaught_title"	"Onslaught"
+// context: Hardcore Brutal Onslaught
+"nb_hardcore_title"	"Hardcore"
 "nb_friendly_fire_title"	"Friendly Fire"
 "asw_difficulty_imba"	"Brutal"
 "asw_hardcore_ff"	"Hardcore Friendly Fire"
