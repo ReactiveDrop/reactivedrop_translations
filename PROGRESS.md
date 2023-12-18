@@ -2,7 +2,7 @@
 | Language | basemodui | closecaption | gameui | reactivedrop | statsweb | Strings | Inventory | Files |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
-| [Traditional Chinese](#tchinese-繁體中文) | 11 | 140 | 33 | 2911 | 200 | 236 | 566 | 146 |
+| [Traditional Chinese](#tchinese-繁體中文) | 11 | 140 | 33 | 2909 | 200 | 236 | 566 | 146 |
 | [Czech](#czech-čeština) | 73 | 1810 | 42 | 4047 | 200 | 980 | 636 | 146 |
 | [Danish](#non-curated-languages) | 54 | 231 | 42 | 3575 | 200 | 710 | 631 | 147 |
 | [Dutch](#non-curated-languages) | 53 | 2004 | 42 | 3043 | 200 | 710 | 568 | 146 |
@@ -61,7 +61,7 @@
 - [basemodui_tchinese.txt](resource/basemodui_tchinese.txt) has 11 untranslated strings.
 - [closecaption_tchinese.txt](resource/closecaption_tchinese.txt) has 140 untranslated strings.
 - [gameui_tchinese.txt](resource/gameui_tchinese.txt) has 33 untranslated strings.
-- [reactivedrop_tchinese.txt](resource/reactivedrop_tchinese.txt) has 2911 untranslated strings.
+- [reactivedrop_tchinese.txt](resource/reactivedrop_tchinese.txt) has 2909 untranslated strings.
 - [valve_tchinese.txt](resource/valve_tchinese.txt) has 6 untranslated strings.
 
 ### Steam Store and Community
