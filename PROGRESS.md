@@ -21,7 +21,7 @@
 | [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | 4 | ✔️ | ✔️ | 3 | 1 |
 | [European Spanish](#spanish-español-de-españa) | 30 | 2004 | 40 | 2458 | 200 | 714 | 564 | 146 |
 | [Latin American Spanish](#latam-español-latinoamericano) | 1283 | 2004 | 634 | 4554 | 204 | 980 | 650 | 147 |
-| [Swedish](#swedish-svenska) | ✔️ | 2004 | ✔️ | 2301 | ✔️ | 276 | 568 | 147 |
+| [Swedish](#swedish-svenska) | ✔️ | 2004 | ✔️ | 2299 | ✔️ | 276 | 568 | 147 |
 | [Thai](#non-curated-languages) | 968 | 1993 | 50 | 4290 | 200 | 739 | 647 | 147 |
 | [Turkish](#non-curated-languages) | 53 | 137 | 42 | 3043 | 200 | 975 | 568 | 147 |
 | [Ukrainian](#ukrainian-українська) | 29 | 131 | 32 | 2586 | 200 | 933 | 562 | 146 |
@@ -3012,7 +3012,7 @@
 - [addons/RiskOfRain/reactivedrop_swedish.txt](addons/RiskOfRain/resource/reactivedrop_swedish.txt) has 54 untranslated strings.
 - [steam_input_swedish.vdf](community/steam_input/steam_input_swedish.vdf) has 97 untranslated strings.
 - [closecaption_swedish.txt](resource/closecaption_swedish.txt) has 2004 untranslated strings.
-- [reactivedrop_swedish.txt](resource/reactivedrop_swedish.txt) has 2301 untranslated strings.
+- [reactivedrop_swedish.txt](resource/reactivedrop_swedish.txt) has 2299 untranslated strings.
 - [valve_swedish.txt](resource/valve_swedish.txt) has 125 untranslated strings.
 
 ### Steam Store and Community
