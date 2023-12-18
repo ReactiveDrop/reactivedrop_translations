@@ -4185,9 +4185,9 @@
 "[english]ASW_Custom_Music_Col_Album"		"Album"
 "nb_onslaught_title"		"猛攻"
 "[english]nb_onslaught_title"		"Onslaught"
-		"nb_hardcore_title"		"Hardcore"
-		// context: Hardcore Brutal Onslaught
-		"[english]nb_hardcore_title"		"Hardcore"
+"nb_hardcore_title"		"写实"
+// context: Hardcore Brutal Onslaught
+"[english]nb_hardcore_title"		"Hardcore"
 "nb_friendly_fire_title"		"友军伤害"
 "[english]nb_friendly_fire_title"		"Friendly Fire"
 "asw_difficulty_imba"		"残酷"
