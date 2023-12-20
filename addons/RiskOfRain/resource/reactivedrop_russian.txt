@@ -176,7 +176,7 @@
 "[english]ror_itemDesc_red_stim"		"Chance to drop a healing beacon on kill. Stacks beacon range."
 "ror_itemDesc_red_tesla_trap"		"Каждую секунду оглушает ближайших врагов. Больше предметов = больше поражённых врагов."
 "[english]ror_itemDesc_red_tesla_trap"		"Stun nearby enemies every second. Stacks number of enemies that can be affected."
-"ror_itemDesc_red_electrified_armor"		"Получение урона активирует электрическую броню на 5 сек. Больше предметов = ниже время восстановления."
+"ror_itemDesc_red_electrified_armor"		"Получение урона задействует электрическую броню на 5 сек. Больше предметов = ниже время восстановления."
 "[english]ror_itemDesc_red_electrified_armor"		"Taking damage activates Electric Armor for 5 seconds. Stacks cooldown reduction."
 "ror_itemDesc_red_mines"		"+5% к шансу КРИТА. Поджигает врагов при критическом попадании. Горящие враги взрываются при смерти. Больше предметов = выше урон."
 "[english]ror_itemDesc_red_mines"		"+5% CRIT chance. Burn enemies on critical hit. Burning enemies explode on death. Stacks damage."
