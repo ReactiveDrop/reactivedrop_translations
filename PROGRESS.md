@@ -1,31 +1,31 @@
 # Overview
 | Language | basemodui | closecaption | gameui | reactivedrop | statsweb | Strings | Inventory | Files |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 6 | ✔️ |
-| [Traditional Chinese](#tchinese-繁體中文) | 11 | 140 | 33 | 2907 | 200 | 236 | 560 | 147 |
-| [Czech](#czech-čeština) | 73 | 1810 | 42 | 4043 | 200 | 980 | 630 | 147 |
-| [Danish](#non-curated-languages) | 54 | 231 | 42 | 3571 | 200 | 710 | 625 | 148 |
-| [Dutch](#non-curated-languages) | 53 | 2004 | 42 | 3039 | 200 | 710 | 562 | 147 |
-| [Finnish](#non-curated-languages) | 44 | 2004 | 42 | 2963 | 200 | 709 | 562 | 147 |
-| [French](#french-français) | 29 | 138 | 42 | 2404 | 200 | 650 | 548 | 126 |
-| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
-| [Hungarian](#non-curated-languages) | 53 | 138 | 42 | 3039 | 200 | 975 | 562 | 148 |
-| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | 3 | ✔️ | ✔️ | 6 | ✔️ |
-| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | 3 | ✔️ | 103 | 6 | ✔️ |
-| [Korean](#koreana-한국어) | 9 | 10 | 38 | 1535 | 22 | 446 | 548 | 49 |
-| [Norwegian Bokmål](#non-curated-languages) | 71 | 708 | 47 | 3745 | 200 | 710 | 631 | 148 |
-| [Polish](#polish-polski) | 30 | 2004 | 42 | 3039 | 200 | 706 | 562 | 144 |
-| [European Portuguese](#portuguese-português-europeu) | 2 | 180 | 32 | 2127 | 21 | 630 | 571 | 142 |
-| [Brazilian Portuguese](#brazilian-português) | 4 | 2004 | 32 | 1298 | 9 | 276 | 329 | 9 |
-| [Romanian](#non-curated-languages) | 53 | 1996 | 48 | 3750 | 200 | 975 | 608 | 148 |
-| [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | 3 | ✔️ | ✔️ | 6 | ✔️ |
-| [European Spanish](#spanish-español-de-españa) | 30 | 2004 | 40 | 2454 | 200 | 714 | 558 | 147 |
-| [Latin American Spanish](#latam-español-latinoamericano) | 1283 | 2004 | 634 | 4550 | 204 | 980 | 644 | 148 |
-| [Swedish](#swedish-svenska) | ✔️ | 2004 | ✔️ | 2609 | ✔️ | 282 | 562 | 148 |
-| [Thai](#non-curated-languages) | 968 | 1993 | 50 | 4286 | 200 | 739 | 641 | 148 |
-| [Turkish](#non-curated-languages) | 53 | 137 | 42 | 3039 | 200 | 975 | 562 | 148 |
-| [Ukrainian](#ukrainian-українська) | 29 | 131 | 32 | 2582 | 200 | 933 | 556 | 147 |
-| [Vietnamese](#vietnamese-tiếng-việt) | ✔️ | 2004 | ✔️ | 3328 | ✔️ | ✔️ | 6 | 114 |
+| [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | ✔️ | 1 | ✔️ | ✔️ | ✔️ | ✔️ |
+| [Traditional Chinese](#tchinese-繁體中文) | 11 | 140 | 33 | 2910 | 200 | 236 | 566 | 146 |
+| [Czech](#czech-čeština) | 73 | 1810 | 42 | 4048 | 200 | 980 | 636 | 146 |
+| [Danish](#non-curated-languages) | 54 | 231 | 42 | 3576 | 200 | 710 | 631 | 147 |
+| [Dutch](#non-curated-languages) | 53 | 2004 | 42 | 3044 | 200 | 710 | 568 | 146 |
+| [Finnish](#non-curated-languages) | 44 | 2004 | 42 | 2968 | 200 | 709 | 568 | 146 |
+| [French](#french-français) | 29 | 138 | 42 | 2409 | 200 | 650 | 553 | 125 |
+| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | 1 | ✔️ | ✔️ | ✔️ | ✔️ |
+| [Hungarian](#non-curated-languages) | 53 | 138 | 42 | 3044 | 200 | 975 | 568 | 147 |
+| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | 1 | ✔️ | ✔️ | ✔️ | ✔️ |
+| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | 1 | ✔️ | 103 | 1 | ✔️ |
+| [Korean](#koreana-한국어) | 9 | 10 | 38 | 1540 | 22 | 446 | 554 | 48 |
+| [Norwegian Bokmål](#non-curated-languages) | 71 | 708 | 47 | 3750 | 200 | 710 | 637 | 147 |
+| [Polish](#polish-polski) | 30 | 2004 | 42 | 3044 | 200 | 706 | 568 | 143 |
+| [European Portuguese](#portuguese-português-europeu) | 2 | 180 | 32 | 2132 | 21 | 630 | 577 | 141 |
+| [Brazilian Portuguese](#brazilian-português) | 4 | 2004 | 32 | 1303 | 9 | 276 | 332 | 8 |
+| [Romanian](#non-curated-languages) | 53 | 1996 | 48 | 3755 | 200 | 975 | 614 | 147 |
+| [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | 5 | ✔️ | ✔️ | 3 | 1 |
+| [European Spanish](#spanish-español-de-españa) | 30 | 2004 | 40 | 2459 | 200 | 714 | 564 | 146 |
+| [Latin American Spanish](#latam-español-latinoamericano) | 1283 | 2004 | 634 | 4555 | 204 | 980 | 650 | 147 |
+| [Swedish](#swedish-svenska) | ✔️ | 2004 | ✔️ | 2300 | ✔️ | 276 | 568 | 147 |
+| [Thai](#non-curated-languages) | 968 | 1993 | 50 | 4291 | 200 | 739 | 647 | 147 |
+| [Turkish](#non-curated-languages) | 53 | 137 | 42 | 3044 | 200 | 975 | 568 | 147 |
+| [Ukrainian](#ukrainian-українська) | 29 | 131 | 32 | 2587 | 200 | 933 | 562 | 146 |
+| [Vietnamese](#vietnamese-tiếng-việt) | ✔️ | 2004 | ✔️ | 3333 | ✔️ | ✔️ | 9 | 113 |
 ### Legend
 - ***Non-capitalized column headers*** are the most important specific files and their number of missing strings. All of these txt-files are located in the resources folder. Except statsweb, which lies in community/stats_website, it's an vdf-file.
 - ***Strings*** is the number of missing strings not included in one of the files which get an individual non-capitalized column.
@@ -40,10 +40,9 @@
 
 </summary>
 
-### Inventory Schema
+### Strings
 
-- Item 4000 "Beta Tester's Strange Weapon" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_schinese`, `description_schinese`, `display_type_schinese`
-- Item 4001 "Beta Tester's Strange Device" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_schinese`, `description_schinese`, `display_type_schinese`
+- [reactivedrop_schinese.txt](resource/reactivedrop_schinese.txt) has 1 untranslated strings.
 
 </details>
 
@@ -64,7 +63,7 @@
 - [basemodui_tchinese.txt](resource/basemodui_tchinese.txt) has 11 untranslated strings.
 - [closecaption_tchinese.txt](resource/closecaption_tchinese.txt) has 140 untranslated strings.
 - [gameui_tchinese.txt](resource/gameui_tchinese.txt) has 33 untranslated strings.
-- [reactivedrop_tchinese.txt](resource/reactivedrop_tchinese.txt) has 2907 untranslated strings.
+- [reactivedrop_tchinese.txt](resource/reactivedrop_tchinese.txt) has 2910 untranslated strings.
 - [valve_tchinese.txt](resource/valve_tchinese.txt) has 6 untranslated strings.
 
 ### Steam Store and Community
@@ -77,8 +76,7 @@
 
 ### Upcoming Release Notes
 
-- [20231201_tchinese.xml](release_notes/20231201_english.xml) is missing.
-- [20231202_tchinese.xml](release_notes/20231202_english.xml) is missing.
+- [20240101_tchinese.xml](release_notes/20240101_english.xml) is missing.
 
 ### Credits
 
@@ -261,6 +259,8 @@
 - Item 40 "Steam SHMUP Fest 2023" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_tchinese`, `description_tchinese`, `display_type_tchinese`
 - Item 41 "Reduction Veteran" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_tchinese`, `description_tchinese`, `display_type_tchinese`
 - Item 42 "Air Time" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_tchinese`, `description_tchinese`, `display_type_tchinese`
+- Item 43 "Containment Officer" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_tchinese`, `description_tchinese`, `display_type_tchinese`
+- Item 44 "Steam Endless Replayability Fest 2024" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_tchinese`, `description_tchinese`, `display_type_tchinese`
 - Item 7 "Translator" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_tchinese`, `description_tchinese`, `display_type_tchinese`
 - Item 8 "Programmer" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_tchinese`, `description_tchinese`, `display_type_tchinese`
 - Item 9 "Mapper" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_tchinese`, `description_tchinese`, `display_type_tchinese`
@@ -420,7 +420,7 @@
 - [chat_czech.txt](resource/chat_czech.txt) has 8 untranslated strings.
 - [closecaption_czech.txt](resource/closecaption_czech.txt) has 1810 untranslated strings.
 - [gameui_czech.txt](resource/gameui_czech.txt) has 42 untranslated strings.
-- [reactivedrop_czech.txt](resource/reactivedrop_czech.txt) has 4043 untranslated strings.
+- [reactivedrop_czech.txt](resource/reactivedrop_czech.txt) has 4048 untranslated strings.
 - [valve_czech.txt](resource/valve_czech.txt) has 266 untranslated strings.
 
 ### Steam Store and Community
@@ -432,8 +432,7 @@
 
 ### Upcoming Release Notes
 
-- [20231201_czech.xml](release_notes/20231201_english.xml) is missing.
-- [20231202_czech.xml](release_notes/20231202_english.xml) is missing.
+- [20240101_czech.xml](release_notes/20240101_english.xml) is missing.
 
 ### Credits
 
@@ -617,6 +616,8 @@
 - Item 40 "Steam SHMUP Fest 2023" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_czech`, `description_czech`, `display_type_czech`
 - Item 41 "Reduction Veteran" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_czech`, `description_czech`, `display_type_czech`
 - Item 42 "Air Time" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_czech`, `description_czech`, `display_type_czech`
+- Item 43 "Containment Officer" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_czech`, `description_czech`, `display_type_czech`
+- Item 44 "Steam Endless Replayability Fest 2024" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_czech`, `description_czech`, `display_type_czech`
 - Item 7 "Translator" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_czech`, `description_czech`, `display_type_czech`
 - Item 8 "Programmer" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_czech`, `description_czech`, `display_type_czech`
 - Item 9 "Mapper" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_czech`, `description_czech`, `display_type_czech`
@@ -775,7 +776,7 @@
 - [basemodui_french.txt](resource/basemodui_french.txt) has 29 untranslated strings.
 - [closecaption_french.txt](resource/closecaption_french.txt) has 138 untranslated strings.
 - [gameui_french.txt](resource/gameui_french.txt) has 42 untranslated strings.
-- [reactivedrop_french.txt](resource/reactivedrop_french.txt) has 2404 untranslated strings.
+- [reactivedrop_french.txt](resource/reactivedrop_french.txt) has 2409 untranslated strings.
 - [valve_french.txt](resource/valve_french.txt) has 202 untranslated strings.
 
 ### Steam Store and Community
@@ -787,8 +788,7 @@
 
 ### Upcoming Release Notes
 
-- [20231201_french.xml](release_notes/20231201_english.xml) is missing.
-- [20231202_french.xml](release_notes/20231202_english.xml) is missing.
+- [20240101_french.xml](release_notes/20240101_english.xml) is missing.
 
 ### Credits
 
@@ -951,6 +951,8 @@
 - Item 40 "Steam SHMUP Fest 2023" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_french`, `description_french`, `display_type_french`
 - Item 41 "Reduction Veteran" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_french`, `description_french`, `display_type_french`
 - Item 42 "Air Time" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_french`, `description_french`, `display_type_french`
+- Item 43 "Containment Officer" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_french`, `description_french`, `display_type_french`
+- Item 44 "Steam Endless Replayability Fest 2024" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `description_french`, `display_type_french`
 - Item 7 "Translator" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_french`, `description_french`, `display_type_french`
 - Item 8 "Programmer" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_french`, `description_french`, `display_type_french`
 - Item 9 "Mapper" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_french`, `description_french`, `display_type_french`
@@ -1095,7 +1097,9 @@
 
 </summary>
 
-✓ Up to date!
+### Strings
+
+- [reactivedrop_german.txt](resource/reactivedrop_german.txt) has 1 untranslated strings.
 
 </details>
 
@@ -1107,12 +1111,7 @@
 
 ### Strings
 
-- [reactivedrop_italian.txt](resource/reactivedrop_italian.txt) has 3 untranslated strings.
-
-### Inventory Schema
-
-- Item 4000 "Beta Tester's Strange Weapon" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_italian`, `description_italian`, `display_type_italian`
-- Item 4001 "Beta Tester's Strange Device" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_italian`, `description_italian`, `display_type_italian`
+- [reactivedrop_italian.txt](resource/reactivedrop_italian.txt) has 1 untranslated strings.
 
 </details>
 
@@ -1127,12 +1126,11 @@
 - [addons/RiskOfRain/reactivedrop_japanese.txt](addons/RiskOfRain/resource/reactivedrop_japanese.txt) has 1 untranslated strings.
 - [misc/signage/signage_japanese.vdf](misc/signage/signage_japanese.vdf) has 67 untranslated strings.
 - [platform/vgui_japanese.txt](platform/vgui_japanese.txt) has 35 untranslated strings.
-- [reactivedrop_japanese.txt](resource/reactivedrop_japanese.txt) has 3 untranslated strings.
+- [reactivedrop_japanese.txt](resource/reactivedrop_japanese.txt) has 1 untranslated strings.
 
 ### Inventory Schema
 
-- Item 4000 "Beta Tester's Strange Weapon" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_japanese`, `description_japanese`, `display_type_japanese`
-- Item 4001 "Beta Tester's Strange Device" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_japanese`, `description_japanese`, `display_type_japanese`
+- Item 44 "Steam Endless Replayability Fest 2024" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `description_japanese`
 
 </details>
 
@@ -1154,7 +1152,7 @@
 - [basemodui_koreana.txt](resource/basemodui_koreana.txt) has 9 untranslated strings.
 - [closecaption_koreana.txt](resource/closecaption_koreana.txt) has 10 untranslated strings.
 - [gameui_koreana.txt](resource/gameui_koreana.txt) has 38 untranslated strings.
-- [reactivedrop_koreana.txt](resource/reactivedrop_koreana.txt) has 1535 untranslated strings.
+- [reactivedrop_koreana.txt](resource/reactivedrop_koreana.txt) has 1540 untranslated strings.
 - [valve_koreana.txt](resource/valve_koreana.txt) has 96 untranslated strings.
 
 ### Steam Store and Community
@@ -1165,8 +1163,7 @@
 
 ### Upcoming Release Notes
 
-- [20231201_koreana.xml](release_notes/20231201_english.xml) is missing.
-- [20231202_koreana.xml](release_notes/20231202_english.xml) is missing.
+- [20240101_koreana.xml](release_notes/20240101_english.xml) is missing.
 
 ### Credits
 
@@ -1253,6 +1250,8 @@
 - Item 40 "Steam SHMUP Fest 2023" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_koreana`, `description_koreana`, `display_type_koreana`
 - Item 41 "Reduction Veteran" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_koreana`, `description_koreana`, `display_type_koreana`
 - Item 42 "Air Time" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_koreana`, `description_koreana`, `display_type_koreana`
+- Item 43 "Containment Officer" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_koreana`, `description_koreana`, `display_type_koreana`
+- Item 44 "Steam Endless Replayability Fest 2024" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_koreana`, `description_koreana`, `display_type_koreana`
 - Item 7 "Translator" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_koreana`, `description_koreana`, `display_type_koreana`
 - Item 8 "Programmer" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_koreana`, `description_koreana`, `display_type_koreana`
 - Item 9 "Mapper" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_koreana`, `description_koreana`, `display_type_koreana`
@@ -1411,7 +1410,7 @@
 - [chat_polish.txt](resource/chat_polish.txt) has 8 untranslated strings.
 - [closecaption_polish.txt](resource/closecaption_polish.txt) has 2004 untranslated strings.
 - [gameui_polish.txt](resource/gameui_polish.txt) has 42 untranslated strings.
-- [reactivedrop_polish.txt](resource/reactivedrop_polish.txt) has 3039 untranslated strings.
+- [reactivedrop_polish.txt](resource/reactivedrop_polish.txt) has 3044 untranslated strings.
 - [valve_polish.txt](resource/valve_polish.txt) has 266 untranslated strings.
 
 ### Steam Store and Community
@@ -1420,8 +1419,7 @@
 
 ### Upcoming Release Notes
 
-- [20231201_polish.xml](release_notes/20231201_english.xml) is missing.
-- [20231202_polish.xml](release_notes/20231202_english.xml) is missing.
+- [20240101_polish.xml](release_notes/20240101_english.xml) is missing.
 
 ### Credits
 
@@ -1605,6 +1603,8 @@
 - Item 40 "Steam SHMUP Fest 2023" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_polish`, `description_polish`, `display_type_polish`
 - Item 41 "Reduction Veteran" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_polish`, `description_polish`, `display_type_polish`
 - Item 42 "Air Time" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_polish`, `description_polish`, `display_type_polish`
+- Item 43 "Containment Officer" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_polish`, `description_polish`, `display_type_polish`
+- Item 44 "Steam Endless Replayability Fest 2024" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_polish`, `description_polish`, `display_type_polish`
 - Item 7 "Translator" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_polish`, `description_polish`, `display_type_polish`
 - Item 8 "Programmer" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_polish`, `description_polish`, `display_type_polish`
 - Item 9 "Mapper" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_polish`, `description_polish`, `display_type_polish`
@@ -1762,7 +1762,7 @@
 - [basemodui_portuguese.txt](resource/basemodui_portuguese.txt) has 2 untranslated strings.
 - [closecaption_portuguese.txt](resource/closecaption_portuguese.txt) has 180 untranslated strings.
 - [gameui_portuguese.txt](resource/gameui_portuguese.txt) has 32 untranslated strings.
-- [reactivedrop_portuguese.txt](resource/reactivedrop_portuguese.txt) has 2127 untranslated strings.
+- [reactivedrop_portuguese.txt](resource/reactivedrop_portuguese.txt) has 2132 untranslated strings.
 - [valve_portuguese.txt](resource/valve_portuguese.txt) has 266 untranslated strings.
 
 ### Steam Store and Community
@@ -1772,8 +1772,7 @@
 
 ### Upcoming Release Notes
 
-- [20231201_portuguese.xml](release_notes/20231201_english.xml) is missing.
-- [20231202_portuguese.xml](release_notes/20231202_english.xml) is missing.
+- [20240101_portuguese.xml](release_notes/20240101_english.xml) is missing.
 
 ### Credits
 
@@ -1954,6 +1953,8 @@
 - Item 40 "Steam SHMUP Fest 2023" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_portuguese`, `description_portuguese`, `display_type_portuguese`
 - Item 41 "Reduction Veteran" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_portuguese`, `description_portuguese`, `display_type_portuguese`
 - Item 42 "Air Time" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_portuguese`, `description_portuguese`, `display_type_portuguese`
+- Item 43 "Containment Officer" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_portuguese`, `description_portuguese`, `display_type_portuguese`
+- Item 44 "Steam Endless Replayability Fest 2024" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_portuguese`, `description_portuguese`, `display_type_portuguese`
 - Item 14 "Reporter" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_portuguese`, `description_portuguese`
 - Item 29 "Streamer" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_portuguese`, `description_portuguese`
 - Item 39 "Mapping Competition Participant (2023)" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_portuguese`, `description_portuguese`
@@ -2101,7 +2102,7 @@
 - [basemodui_brazilian.txt](resource/basemodui_brazilian.txt) has 4 untranslated strings.
 - [closecaption_brazilian.txt](resource/closecaption_brazilian.txt) has 2004 untranslated strings.
 - [gameui_brazilian.txt](resource/gameui_brazilian.txt) has 32 untranslated strings.
-- [reactivedrop_brazilian.txt](resource/reactivedrop_brazilian.txt) has 1298 untranslated strings.
+- [reactivedrop_brazilian.txt](resource/reactivedrop_brazilian.txt) has 1303 untranslated strings.
 - [valve_brazilian.txt](resource/valve_brazilian.txt) has 6 untranslated strings.
 
 ### Steam Store and Community
@@ -2110,8 +2111,7 @@
 
 ### Upcoming Release Notes
 
-- [20231201_brazilian.xml](release_notes/20231201_english.xml) is missing.
-- [20231202_brazilian.xml](release_notes/20231202_english.xml) is missing.
+- [20240101_brazilian.xml](release_notes/20240101_english.xml) is missing.
 
 ### Credits
 
@@ -2151,6 +2151,8 @@
 - Item 40 "Steam SHMUP Fest 2023" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_brazilian`, `description_brazilian`
 - Item 41 "Reduction Veteran" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_brazilian`, `description_brazilian`
 - Item 42 "Air Time" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_brazilian`, `description_brazilian`
+- Item 43 "Containment Officer" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_brazilian`, `description_brazilian`
+- Item 44 "Steam Endless Replayability Fest 2024" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `description_brazilian`
 - Item 29 "Streamer" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_brazilian`, `description_brazilian`
 - Item 39 "Mapping Competition Participant (2023)" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_brazilian`, `description_brazilian`
 - Item 100000010 "Donor: Dmitriy" in [item-schema-donations.json](community/inventory_service/item-schema-donations.json) is missing `name_brazilian`, `description_brazilian`, `ingame_description_brazilian`
@@ -2279,12 +2281,16 @@
 
 ### Strings
 
-- [reactivedrop_russian.txt](resource/reactivedrop_russian.txt) has 3 untranslated strings.
+- [reactivedrop_russian.txt](resource/reactivedrop_russian.txt) has 5 untranslated strings.
+
+### Upcoming Release Notes
+
+- [20240101_russian.xml](release_notes/20240101_english.xml) is missing.
 
 ### Inventory Schema
 
-- Item 4000 "Beta Tester's Strange Weapon" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_russian`, `description_russian`, `display_type_russian`
-- Item 4001 "Beta Tester's Strange Device" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_russian`, `description_russian`, `display_type_russian`
+- Item 43 "Containment Officer" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_russian`, `description_russian`
+- Item 44 "Steam Endless Replayability Fest 2024" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `description_russian`
 
 </details>
 
@@ -2308,7 +2314,7 @@
 - [basemodui_spanish.txt](resource/basemodui_spanish.txt) has 30 untranslated strings.
 - [closecaption_spanish.txt](resource/closecaption_spanish.txt) has 2004 untranslated strings.
 - [gameui_spanish.txt](resource/gameui_spanish.txt) has 40 untranslated strings.
-- [reactivedrop_spanish.txt](resource/reactivedrop_spanish.txt) has 2454 untranslated strings.
+- [reactivedrop_spanish.txt](resource/reactivedrop_spanish.txt) has 2459 untranslated strings.
 - [valve_spanish.txt](resource/valve_spanish.txt) has 266 untranslated strings.
 
 ### Steam Store and Community
@@ -2320,8 +2326,7 @@
 
 ### Upcoming Release Notes
 
-- [20231201_spanish.xml](release_notes/20231201_english.xml) is missing.
-- [20231202_spanish.xml](release_notes/20231202_english.xml) is missing.
+- [20240101_spanish.xml](release_notes/20240101_english.xml) is missing.
 
 ### Credits
 
@@ -2505,6 +2510,8 @@
 - Item 40 "Steam SHMUP Fest 2023" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_spanish`, `description_spanish`, `display_type_spanish`
 - Item 41 "Reduction Veteran" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_spanish`, `description_spanish`, `display_type_spanish`
 - Item 42 "Air Time" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_spanish`, `description_spanish`, `display_type_spanish`
+- Item 43 "Containment Officer" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_spanish`, `description_spanish`, `display_type_spanish`
+- Item 44 "Steam Endless Replayability Fest 2024" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_spanish`, `description_spanish`, `display_type_spanish`
 - Item 7 "Translator" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_spanish`, `description_spanish`, `display_type_spanish`
 - Item 8 "Programmer" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_spanish`, `description_spanish`, `display_type_spanish`
 - Item 9 "Mapper" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_spanish`, `description_spanish`, `display_type_spanish`
@@ -2664,7 +2671,7 @@
 - [chat_latam.txt](resource/chat_latam.txt) has 8 untranslated strings.
 - [closecaption_latam.txt](resource/closecaption_latam.txt) has 2004 untranslated strings.
 - [gameui_latam.txt](resource/gameui_latam.txt) has 634 untranslated strings.
-- [reactivedrop_latam.txt](resource/reactivedrop_latam.txt) has 4550 untranslated strings.
+- [reactivedrop_latam.txt](resource/reactivedrop_latam.txt) has 4555 untranslated strings.
 - [valve_latam.txt](resource/valve_latam.txt) has 266 untranslated strings.
 
 ### Steam Store and Community
@@ -2677,8 +2684,7 @@
 
 ### Upcoming Release Notes
 
-- [20231201_latam.xml](release_notes/20231201_english.xml) is missing.
-- [20231202_latam.xml](release_notes/20231202_english.xml) is missing.
+- [20240101_latam.xml](release_notes/20240101_english.xml) is missing.
 
 ### Credits
 
@@ -2862,6 +2868,8 @@
 - Item 40 "Steam SHMUP Fest 2023" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_latam`, `description_latam`, `display_type_latam`
 - Item 41 "Reduction Veteran" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_latam`, `description_latam`, `display_type_latam`
 - Item 42 "Air Time" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_latam`, `description_latam`, `display_type_latam`
+- Item 43 "Containment Officer" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_latam`, `description_latam`, `display_type_latam`
+- Item 44 "Steam Endless Replayability Fest 2024" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_latam`, `description_latam`, `display_type_latam`
 - Item 7 "Translator" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_latam`, `description_latam`, `display_type_latam`
 - Item 8 "Programmer" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_latam`, `description_latam`, `display_type_latam`
 - Item 9 "Mapper" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_latam`, `description_latam`, `display_type_latam`
@@ -3011,8 +3019,8 @@
 - [addons/RiskOfRain/reactivedrop_swedish.txt](addons/RiskOfRain/resource/reactivedrop_swedish.txt) has 54 untranslated strings.
 - [steam_input_swedish.vdf](community/steam_input/steam_input_swedish.vdf) has 97 untranslated strings.
 - [closecaption_swedish.txt](resource/closecaption_swedish.txt) has 2004 untranslated strings.
-- [reactivedrop_swedish.txt](resource/reactivedrop_swedish.txt) has 2609 untranslated strings.
-- [valve_swedish.txt](resource/valve_swedish.txt) has 131 untranslated strings.
+- [reactivedrop_swedish.txt](resource/reactivedrop_swedish.txt) has 2300 untranslated strings.
+- [valve_swedish.txt](resource/valve_swedish.txt) has 125 untranslated strings.
 
 ### Steam Store and Community
 
@@ -3024,8 +3032,7 @@
 
 ### Upcoming Release Notes
 
-- [20231201_swedish.xml](release_notes/20231201_english.xml) is missing.
-- [20231202_swedish.xml](release_notes/20231202_english.xml) is missing.
+- [20240101_swedish.xml](release_notes/20240101_english.xml) is missing.
 
 ### Credits
 
@@ -3209,6 +3216,8 @@
 - Item 40 "Steam SHMUP Fest 2023" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_swedish`, `description_swedish`, `display_type_swedish`
 - Item 41 "Reduction Veteran" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_swedish`, `description_swedish`, `display_type_swedish`
 - Item 42 "Air Time" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_swedish`, `description_swedish`, `display_type_swedish`
+- Item 43 "Containment Officer" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_swedish`, `description_swedish`, `display_type_swedish`
+- Item 44 "Steam Endless Replayability Fest 2024" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_swedish`, `description_swedish`, `display_type_swedish`
 - Item 7 "Translator" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_swedish`, `description_swedish`, `display_type_swedish`
 - Item 8 "Programmer" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_swedish`, `description_swedish`, `display_type_swedish`
 - Item 9 "Mapper" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_swedish`, `description_swedish`, `display_type_swedish`
@@ -3366,7 +3375,7 @@
 - [basemodui_ukrainian.txt](resource/basemodui_ukrainian.txt) has 29 untranslated strings.
 - [closecaption_ukrainian.txt](resource/closecaption_ukrainian.txt) has 131 untranslated strings.
 - [gameui_ukrainian.txt](resource/gameui_ukrainian.txt) has 32 untranslated strings.
-- [reactivedrop_ukrainian.txt](resource/reactivedrop_ukrainian.txt) has 2582 untranslated strings.
+- [reactivedrop_ukrainian.txt](resource/reactivedrop_ukrainian.txt) has 2587 untranslated strings.
 - [valve_ukrainian.txt](resource/valve_ukrainian.txt) has 266 untranslated strings.
 
 ### Steam Store and Community
@@ -3378,8 +3387,7 @@
 
 ### Upcoming Release Notes
 
-- [20231201_ukrainian.xml](release_notes/20231201_english.xml) is missing.
-- [20231202_ukrainian.xml](release_notes/20231202_english.xml) is missing.
+- [20240101_ukrainian.xml](release_notes/20240101_english.xml) is missing.
 
 ### Credits
 
@@ -3563,6 +3571,8 @@
 - Item 40 "Steam SHMUP Fest 2023" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_ukrainian`, `description_ukrainian`, `display_type_ukrainian`
 - Item 41 "Reduction Veteran" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_ukrainian`, `description_ukrainian`, `display_type_ukrainian`
 - Item 42 "Air Time" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_ukrainian`, `description_ukrainian`, `display_type_ukrainian`
+- Item 43 "Containment Officer" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_ukrainian`, `description_ukrainian`, `display_type_ukrainian`
+- Item 44 "Steam Endless Replayability Fest 2024" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_ukrainian`, `description_ukrainian`, `display_type_ukrainian`
 - Item 7 "Translator" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_ukrainian`, `description_ukrainian`, `display_type_ukrainian`
 - Item 8 "Programmer" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_ukrainian`, `description_ukrainian`, `display_type_ukrainian`
 - Item 9 "Mapper" in [item-schema-community.json](community/inventory_service/item-schema-community.json) is missing `name_ukrainian`, `description_ukrainian`, `display_type_ukrainian`
@@ -3709,12 +3719,11 @@
 ### Strings
 
 - [closecaption_vietnamese.txt](resource/closecaption_vietnamese.txt) has 2004 untranslated strings.
-- [reactivedrop_vietnamese.txt](resource/reactivedrop_vietnamese.txt) has 3328 untranslated strings.
+- [reactivedrop_vietnamese.txt](resource/reactivedrop_vietnamese.txt) has 3333 untranslated strings.
 
 ### Upcoming Release Notes
 
-- [20231201_vietnamese.xml](release_notes/20231201_english.xml) is missing.
-- [20231202_vietnamese.xml](release_notes/20231202_english.xml) is missing.
+- [20240101_vietnamese.xml](release_notes/20240101_english.xml) is missing.
 
 ### Mail and News
 
@@ -3833,6 +3842,8 @@
 
 ### Inventory Schema
 
+- Item 43 "Containment Officer" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_vietnamese`, `description_vietnamese`
+- Item 44 "Steam Endless Replayability Fest 2024" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `description_vietnamese`
 - Item 4000 "Beta Tester's Strange Weapon" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_vietnamese`, `description_vietnamese`, `display_type_vietnamese`
 - Item 4001 "Beta Tester's Strange Device" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_vietnamese`, `description_vietnamese`, `display_type_vietnamese`
 

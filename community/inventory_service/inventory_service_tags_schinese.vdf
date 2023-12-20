@@ -81,7 +81,7 @@
 "inventory_crafting_item_regional"		"回收材料"
 // crafting items that can be found by playing some campaigns but not others.
 "[english]inventory_crafting_item_regional"		"Salvaged Material"
-"inventory_strange"		"奇怪的装置"
+"inventory_strange"		"奇异装置"
 // displayed before the list of Strange item accessories, eg. Strange Devices: Missions, Aliens Killed
 "[english]inventory_strange"		"Strange Devices"
 "item_store_category_donations"		"捐赠"

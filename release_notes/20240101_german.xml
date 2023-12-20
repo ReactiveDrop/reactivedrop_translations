@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<content><string id="body">Happy new year! This month's update contains fixes for controller issues, updates to the Infection deathmatch challenge, and a few miscellaneous fixes and new features.
+
+[h2]Einsätze[/h2]
+[list]
+[*][b]BioGen Gesellschaft: Unsichtbare Bedrohung:[/b] Die Speedrun-Zeit wird nun nicht mehr inkorrekt berechnet.
+[/list]
+
+[h2]Controller[/h2]
+[list]
+[*]Doppelte Cursor-Bewegungseingaben in Spielmenüs wie Computer-Hacks und der Einweisung-Lobby wurden behoben.
+[*]Es wurde behoben das zusätzliche Eingaben erzeugt wurden, wenn das Aktionsset gewechselt wurde. Dies führte dazu, dass die Aktion Überbrückung das Fenster schloss und wieder öffnete.
+[*]Ein Problem wurde behoben, bei dem nach dem Starten des Spiels mit Steam im Big Picture-Modus oder mit dem Controller bei der Auswahl eines Soldaten mit der Maus immer Sarge ausgewählt wurde.
+[*]Die Convars rd_input_controller_mode_mouse und rd_input_controller_mode_keyboard wurden hinzugefügt, um den Eingabemodus auf Nicht-Controller (0) oder Controller (1) zu setzen.
+[/list]
+
+[h2]Menüs[/h2]
+[list]
+[*]Nicht-englische Buchstaben konnten nicht in das Feld für den Lobbynamen eingegeben werden, dies wurde behoben.
+[*]Menü 2010: Das Fehlen von 7.1-Surround-Sound in den Audioeinstellunge wurde behoben.
+[*]Menü 2010: Der falsche Name für "Soldat positionieren" im Einstellungsmenü der Tastatur wurde korrigiert.
+[*]Die Schaltfläche "Feldzug herunterladen" wurde von der Schaltfläche "Filter" verdeckt.
+[*]Ein Speicherleck im Zusammenhang mit Spieler-Avataren wurde behoben. Dies konnte manchmal zu einem "CUtlRBTree-Überlauf"-Absturz führen.
+[/list]
+
+[h2]Infektion Deathmatch Herausforderung[/h2]
+[list]
+[*]Die Menge der maximalen Bonusgesundheit, die mit dem Letzter Widerstand-Modus einhergeht, wurde reduziert.
+[*]Die DPS der Kettensäge wurde beim Einsatz von Letzter Widerstand reduziert.
+[*]Die DPS der Kettensäge wurde leicht erhöht, wenn du den Letzter Widerstand-Modus nicht benutzt.
+[*]Frostgranaten können nicht mehr verwendet werden. (Sie waren schon vorher nicht auswählbar.)
+[*]Erheblich erhöhter Schaden durch Haftminen gegen Zombies.
+[*]Es wurde behoben, dass Spieler durch das Gelände fallen, wenn sie sich in einen Zombie verwandeln.
+[*]Benutzerdefinierte Bearbeitungen für dm_deima aktualisiert.
+[*]Classic Variante hinzugefügt:[list]
+[*]Letzter Widerstand-Modus ist deaktiviert.
+[*]Primär-Zombies haben keine Schilde mehr.[/list]
+[*]Verbesserte Pfadfindung für Bot-Soldaten in allen Deathmatch-Spielmodi.
+[/list]
+
+[h2]Scripting[/h2]
+[list]
+[*]Added a new method to rd_hud_vscript: PaintPolygon(vertices, red, green, blue, alpha, texture). vertices is an array of tables, each containing x, y, s, and t coordinates. There must be at least three vertices and they should form a convex shape in clockwise order. x and y are screen coordinates. s and t are texture coordinates, from 0 to 1.
+[*]Es wurde eine neue Methode zu rd_hud_vscript hinzugefügt: PaintPolygon(vertices, red, green, blue, alpha, texture). vertices ist ein Array von Tabellen, die jeweils die Koordinaten x, y, s und t enthalten. Es muss mindestens drei Eckpunkte geben, die im Uhrzeigersinn eine konvexe Form bilden. x und y sind Bildschirmkoordinaten. s und t sind Texturkoordinaten, von 0 bis 1.
+[/list]
+</string><string id="subtitle"></string><string id="summary"></string><string id="title">Alien Swarm: Reactive Drop Update - 1. Januar 2024</string></content>

@@ -4185,6 +4185,9 @@
 "[english]ASW_Custom_Music_Col_Album"		"Album"
 "nb_onslaught_title"		"猛攻"
 "[english]nb_onslaught_title"		"Onslaught"
+		"nb_hardcore_title"		"Hardcore"
+		// context: Hardcore Brutal Onslaught
+		"[english]nb_hardcore_title"		"Hardcore"
 "nb_friendly_fire_title"		"友軍傷害"
 "[english]nb_friendly_fire_title"		"Friendly Fire"
 "asw_difficulty_imba"		"殘酷"
@@ -4412,6 +4415,12 @@
 "[english]rd_workshop_dummy_item"		"New Workshop Add-on"
 "rd_workshop_published_addons"		"已發布的創意工坊附件"
 "[english]rd_workshop_published_addons"		"Published Workshop Add-ons"
+		"rd_workshop_installed_short"		"Installed"
+		// button to switch to installed addons list
+		"[english]rd_workshop_installed_short"		"Installed"
+		"rd_workshop_publish_short"		"Publish"
+		// button to switch to publish addons page
+		"[english]rd_workshop_publish_short"		"Publish"
 "rd_workshop_waiting_for_addon_list"		"正在下載附件列表……"
 "[english]rd_workshop_waiting_for_addon_list"		"Waiting for add-on list..."
 "rd_workshop_create_addon"		"創建新附件"
@@ -9457,6 +9466,11 @@
 "[english]asw_infection_win_zombie"		"Zombies win!"
 "asw_infection_survivors"		"倖存者：%s1。"
 "[english]asw_infection_survivors"		"Survivors: %s1."
+"asw_infection_starts_in"		"母體即將出現：%s1"
+"[english]asw_infection_starts_in"		"First zombie appears in: %s1"
+"asw_infection_rage_meter"		"怒氣：%s1 %s2%"
+// %s1 is a meter made up of █ and spaces; %s2 is a percentage.
+"[english]asw_infection_rage_meter"		"Rage: %s1 %s2%"
 		"rd_lobby_options_button_inactive"		"Filters Active: %s1"
 		// %s1 is a number; shown when the filters are hidden and the mission details are visible
 		"[english]rd_lobby_options_button_inactive"		"Filters Active: %s1"
