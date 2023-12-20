@@ -10,7 +10,7 @@
 | [French](#french-français) | 29 | 138 | 42 | 2409 | 200 | 650 | 553 | 125 |
 | [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Hungarian](#non-curated-languages) | 53 | 138 | 42 | 3044 | 200 | 975 | 568 | 147 |
-| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | 1 | ✔️ | ✔️ | ✔️ | ✔️ |
+| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 103 | 1 | ✔️ |
 | [Korean](#koreana-한국어) | 9 | 10 | 38 | 1540 | 22 | 446 | 554 | 48 |
 | [Norwegian Bokmål](#non-curated-languages) | 71 | 708 | 47 | 3750 | 200 | 710 | 637 | 147 |
@@ -25,7 +25,7 @@
 | [Thai](#non-curated-languages) | 968 | 1993 | 50 | 4291 | 200 | 739 | 647 | 147 |
 | [Turkish](#non-curated-languages) | 53 | 137 | 42 | 3044 | 200 | 975 | 568 | 147 |
 | [Ukrainian](#ukrainian-українська) | 29 | 131 | 32 | 2587 | 200 | 933 | 562 | 146 |
-| [Vietnamese](#vietnamese-tiếng-việt) | ✔️ | 2004 | ✔️ | 3333 | ✔️ | ✔️ | 9 | 113 |
+| [Vietnamese](#vietnamese-tiếng-việt) | ✔️ | 2004 | ✔️ | 3333 | ✔️ | ✔️ | ✔️ | 112 |
 ### Legend
 - ***Non-capitalized column headers*** are the most important specific files and their number of missing strings. All of these txt-files are located in the resources folder. Except statsweb, which lies in community/stats_website, it's an vdf-file.
 - ***Strings*** is the number of missing strings not included in one of the files which get an individual non-capitalized column.
@@ -1105,9 +1105,7 @@
 
 </summary>
 
-### Strings
-
-- [reactivedrop_italian.txt](resource/reactivedrop_italian.txt) has 1 untranslated strings.
+✓ Up to date!
 
 </details>
 
@@ -3769,7 +3767,6 @@
 - [mail/nh_pda_tomasselin_vietnamese.txt](resource/mail/nh_pda_tomasselin_english.txt) is missing.
 - [mail/nh_pda_yannmontgomery_vietnamese.txt](resource/mail/nh_pda_yannmontgomery_english.txt) is missing.
 - [mail/nukeangermail_vietnamese.txt](resource/mail/nukeangermail_english.txt) is missing.
-- [mail/officemail4_vietnamese.txt](resource/mail/officemail4_vietnamese.txt) has 1 indented lines.
 - [mail/outsidemail1_vietnamese.txt](resource/mail/outsidemail1_english.txt) is missing.
 - [mail/outsidemail2_vietnamese.txt](resource/mail/outsidemail2_english.txt) is missing.
 - [mail/outsidemail3_vietnamese.txt](resource/mail/outsidemail3_english.txt) is missing.
@@ -3834,13 +3831,6 @@
 - [news/rd-newfacilities_vietnamese.txt](resource/news/rd-newfacilities_english.txt) is missing.
 - [news/rd-spaceport_news1_vietnamese.txt](resource/news/rd-spaceport_news1_english.txt) is missing.
 - [news/refugeenews_vietnamese.txt](resource/news/refugeenews_english.txt) is missing.
-
-### Inventory Schema
-
-- Item 43 "Containment Officer" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `name_vietnamese`, `description_vietnamese`
-- Item 44 "Steam Endless Replayability Fest 2024" in [item-schema-automated.json](community/inventory_service/item-schema-automated.json) is missing `description_vietnamese`
-- Item 4000 "Beta Tester's Strange Weapon" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_vietnamese`, `description_vietnamese`, `display_type_vietnamese`
-- Item 4001 "Beta Tester's Strange Device" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_vietnamese`, `description_vietnamese`, `display_type_vietnamese`
 
 </details>
 
