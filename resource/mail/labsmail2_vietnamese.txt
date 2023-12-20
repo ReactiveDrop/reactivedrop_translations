@@ -9,7 +9,7 @@ GAME
 "MailSubject1"	"Chủ đề: Re: Lời phép vô phòng thí nghiệm cho Helen Young"
 "MailBody1A"	"Ming, mày bị mất trí rồi hả? Mày đã đi kể cho Young về những khám phá của mày?! Tao đã nói rất rõ với mày, KHÔNG AI ở bên ngoài SynTek được phép để biết về những gì mày đang làm ở trên đó!"
 "MailBody1B"	"Để làm cho nó tồi tệ hơn, những thứ đang vượt ra ngoài tầm kiểm soát. Tao vừa mới quay về từ Trạm Timor. Nó đang lan rộng. Thế méo nào mà bọn nó chui được từ Boong 2 xuống được khu hầm mỏ vậy?"
-"MailBody1C"	"Và thêm nữa, có chuyện gì trên phòng atrium vậy?"
+"MailBody1C"	"Và nhân tiện, có chuyện gì trên phòng atrium vậy?"
 "MailBody1D"	"Trung úy Cain, An ninh SynTek"
 
 // Sent
