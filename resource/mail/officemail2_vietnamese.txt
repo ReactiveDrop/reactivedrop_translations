@@ -5,17 +5,17 @@ GAME
 // Inbox
 
 "MailFrom1"	"Từ: Laura Callen"
-"MailDate1"	"Ngày: 12/21/52"
-"MailSubject1"	"Tiêu đề: Lây nhiễm trong phòng thí nghiệm"
-"MailBody1A"	"Lt. Cain,"
-"MailBody1B"	"Tôi muốn 1 bản báo cáo đầy đủ về sự việc ở tầng 2. Bao gồm nguyên nhân rò rĩ, bản thiết kế, danh sách nhân sự làm việc trong phòng thí nghiệm, vân vân. Tôi khá mệt mỏi với việc yêu cầu điều này mỗi khi có việc xảy ra. Ông đáng nhẽ phải cập nhật tình hình cho tôi thường xuyên. "
-"MailBody1C"	"Tôi mới từ ga Timor về. Có 1 báo cáo về 2 người công nhân mỏ mất tích. Nghe có vẻ như là 1 vấn đề liên quan tới bảo vệ. Vậy tại sao tôi ko hề thấy bất kỳ nhân viên nào của ông dưới đó vậy?"
+"MailDate1"	"Ngày: 21/12/52"
+"MailSubject1"	"Chủ đề: Sự nhiễm bẩn phòng thí nghiệm"
+"MailBody1A"	"Trung úy Cain,"
+"MailBody1B"	"Tôi muốn một bản báo cáo đầy đủ về sự việc ở Boong 2. Bao gồm bản chất của rò rĩ, bản vẽ thiết kế, danh sách nhân sự được phép vào phòng thí nghiệm, v.v. Tôi đang khá là mệt mỏi với việc hỏi điều này mỗi khi có điều gì đó xuất hiện lên. Ông nên phải cập nhật thông tin cho tôi thường xuyên."
+"MailBody1C"	"Tôi vừa mới trở về từ Trạm Timor. Có một báo cáo khác về hai thợ mỏ bị mất tích. Nghe có vẻ mơ hồ như là một vấn đề an ninh. Vậy tại sao tôi chưa thấy bất kỳ nhân viên nào của ông dưới đó vậy?"
 "MailBody1D"	"L. Callen"
 
 "MailFrom2"	"Từ: Laura Callen"
-"MailDate2"	"Ngày: 12/23/52"
-"MailSubject2"	"Tiêu đề: Fwd: Lây nhiễm trong phòng thí nghiệm"
-"MailBody2A"	"Lt. Cain,"
-"MailBody2B"	"Tôi vẫn không nhận bất kỳ cập nhật nào và đang cảm thấy mất kiên nhẫn rồi đấy. Ông hãy coi đây là thông báo chính thức rằng tôi sẽ báo cáo cách làm việc của ông với Interstellar Alliance. Tôi cũng đã yêu cầu thêm người của IA tới để có 1 cái nhìn rõ ràng hơn về tình hình hiện tại. Gặp tôi lúc 11.00 tại quầy lễ tân."
+"MailDate2"	"Ngày: 23/12/52"
+"MailSubject2"	"Chủ đề: Fwd: Sự nhiễm bẩn phòng thí nghiệm"
+"MailBody2A"	"Trung úy Cain,"
+"MailBody2B"	"Vẫn không có cập nhật nào. Tôi hết kiên nhẫn rồi đấy. Cân nhắc thông báo chính thức này rằng tôi sẽ nộp một báo cáo về hành vi của ông với Interstellar Alliance. Tôi cũng đang ra lệnh bổ sung thêm nhân viên IA tới Vereon XII để có được một tấm nhìn rõ ràng hơn về tình hình. Tôi sẽ mong đợi ông để gặp tôi vào lúc 1100 tại quầy lễ tân."
 "MailBody2C"	"L. Callen"
 }

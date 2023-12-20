@@ -5,17 +5,17 @@ GAME
 // Inbox
 
 "MailFrom1"	"Từ: John Cain"
-"MailDate1"	"Ngày: 12/24/52"
-"MailSubject1"	"Tiêu đề: Luật giới nghiêm"
-"MailBody1A"	"Tới toàn thể quốc dân của Vereon XII:"
-"MailBody1B"	"Tôi tuyên bố lệnh giới nghiêm, có hiệu lực ngay lập tức. Tất cả mọi người sẽ trở về khu của mình và ở yên cho tới khi có thông báo. Bất cứ kẻ nào làm trái sẽ bị bắn tại chỗ. I am declaring a state of martial law, effective immediately. Everyone is ordered to go to their quarters and remain there until further notice. Anyone found in violation of this order will be shot on sight."
-"MailBody1C"	"Thông báo được cấp thẩm quyền từ bộ luật Syntek số #545/76B theo thỏa thuận trên hợp đồng lao động tiêu chuẩn số 45(vii)."
-"MailBody1D"	"Lt. Cain, SynTek Security"
+"MailDate1"	"Ngày: 24/12/52"
+"MailSubject1"	"Chủ đề: Thiết quân luật"
+"MailBody1A"	"Tới toàn bộ công dân của Vereon XII:"
+"MailBody1B"	"Tôi đang tuyên bố một tình trạng thiết quân luật, có hiệu lực ngay lập tức. Tất cả mọi người được ra lệnh để về khu của mình và ở yên tại đó cho tới khi có thông báo thêm. Bất cứ ai bị phát hiện vi phạm mệnh lệnh này sẽ bị bắn tại chỗ."
+"MailBody1C"	"Sự tuyên bố theo thẩm quyền của pháp luật thuộc địa Syntek số #545/76B theo điều khoảng thỏa thuận lao động hợp đồng tiêu chuẩn số 45(vii)."
+"MailBody1D"	"Trung úy Cain, An ninh SynTek"
 
 "MailFrom2"	"Từ: Dr. PharmA MedTech."
-"MailSubject2"	"Tiêu đề: Re: Good 2239"
-"MailDate2"	"Ngày: 10/08/52"
-"MailBody2A"	"Hi,"
-"MailBody2B"	"(Thư rác, ko dịch) cHeAp BiOtEcH eNhAnCmEnTs"
-"MailBody2C"	"Not strong enough? Not smart enough? Not pretty enough? At PharmA MedTech we can solve all your problems, with a full range of artificial implant, growth meds and attachments. Reply now for 50% off replacement optics!"
+"MailSubject2"	"Chủ đề: Re: Hàng 2239"
+"MailDate2"	"Ngày: 08/10/52"
+"MailBody2A"	"Chào,"
+"MailBody2B"	"đỒ tĂnG cƯờNg CôNg NgHệ SiNh HọC gIá Rẻ"
+"MailBody2C"	"Chưa đủ mạnh? Chưa đủ thông minh? Chưa đủ đẹp? Tại PharmA MedTech chúng tôi có thể giải quyết tất cả các vấn đề của bạn, với đầy đủ các loại cấy dưới da nhân tạo, thuốc tăng trưởng và đồ đính kèm. Hồi đáp ngay để được giảm giá 50% cho quang học thay thế!"
 }

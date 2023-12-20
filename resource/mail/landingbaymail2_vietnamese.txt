@@ -5,16 +5,16 @@ GAME
 // Inbox
 
 "MailFrom1"	"Từ: Brad Campbell"
-"MailDate1"	"Ngày: 12/18/52"
-"MailSubject1"	"Tiêu đề: Re:Re: Kén"
+"MailDate1"	"Ngày: 18/12/52"
+"MailSubject1"	"Chủ đề: Re:Re: Trứng"
 "MailBody1A"	"Laura,"
-"MailBody1B"	"2 người của ta đang mất tích. 1 số khác báo cáo nghe thấy tiếng động lạ khi đang tìm kiếm ở khu 24, ko biết là cái gì. Chỗ này sắp tanh bành tới nơi rồi."
-"MailBody1C"	"Những người mới thế nào rồi?"
+"MailBody1B"	"Hai trong các người của tôi không thể liên lạc được. Một nhóm đã báo cáo nghe thấy tiếng động lạ khi đang tìm kiếm ở Khu vực 24. Có thể là bất cứ điều gì. Chỗ này đang sụp thành từng mảnh."
+"MailBody1C"	"Còn các người thêm đó thì sao?"
 
 "MailFrom2"	"Từ: Brad Campbell"
-"MailDate2"	"Ngày: 12/20/52"
-"MailSubject2"	"Tiêu đề: Cần lắm 1 sự giúp đỡ"
-"MailBody2A"	"Cortez, Jones and Stefani chết cả rồi. Tay chân bị mất. Chân của Jones nhìn như thể bị kẹp vào cái máy nghiền thịt vậy. Cain và 1 vài người của hắn đã tới sáng nay, một cách thực dụng và thô lỗ, hắn hỏi về đơn hàng số 4903877."
-"MailBody2B"	"Họ bảo chúng tôi ở yên trong khi họ đi xunh quanh để tìm kiếm những người mất tích. Nhìn qua camera an ninh, tôi thấy họ xếp các container lên tàu. Chắc chắn là họ sẽ ko quay lại đâu. "
-"MailBody2C"	"Chúng tôi không thể đi tới được khu phức hợp chính mà ko có xe. Dưới đấy phải 50 độ là ít. Cái méo gì đang xảy ra ở đây thế này?!?"
+"MailDate2"	"Ngày: 20/12/52"
+"MailSubject2"	"Chủ đề: Cần sự giúp đỡ"
+"MailBody2A"	"Cortez, Jones and Stefani chết cả rồi. Chân tay bị mất. Jones trông như thể chân của hắn bị kẹp vào cái máy nghiền thịt vậy. Cain và một vài người của hắn đã tới sáng nay, một cách thực dụng và thô lỗ, hỏi về giao hàng số 4903877."
+"MailBody2B"	"Họ bảo chúng tôi ở yên phía sau cho tới khi họ đã tìm kiếm ở khu vực cho các nhân viên bị mất tích khác. Tôi đã bật lên một thiết bị đầu cuối an ninh, xem họ chất lên tàu chở hàng với các container đó. Không cần phải nói, họ đã không quay trở lại."
+"MailBody2C"	"Chúng tôi sẽ không bao giờ có thể quay lại khu phức hợp chính mà không có một chuyến xe. Chắc phải là âm 50 độ ở ngoài đó. Cái méo gì đang xảy ra thế vậy?!?"
 }

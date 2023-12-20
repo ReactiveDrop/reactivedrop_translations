@@ -5,20 +5,20 @@ GAME
 // Inbox
 
 "MailFrom1"	"Từ: John Cain"
-"MailDate1"	"Ngày: 12/23/52"
-"MailSubject1"	"Tiêu đề: Re: Chuẩn bị phòng thí nghiệm cho Helen Young"
-"MailBody1A"	"Ming, mày có điên không? Sao mày lại kể lể cho Young về những gì mày phát hiện được? Tao đã nói rất rõ với mày rằng, KHÔNG MỘT AI bên ngoài SynTek được biết về những gì mày đang làm!"
-"MailBody1B"	"Mọi thứ thậm chí còn tồi tệ hơn, vượt ra ngoài tầm kiểm soát. Tao mới quay về từ ga Timor và thấy chúng nó lan ra khắp nơi. Thế méo nào mà bọn nó chui được từ tầng 2 xuống được khu hầm vậy? "
-"MailBody1C"	"Thêm nữa, mày đang làm gì trên phòng atrium thế? "
-"MailBody1D"	"Lt. Cain, SynTek Security"
+"MailDate1"	"Ngày: 23/12/52"
+"MailSubject1"	"Chủ đề: Re: Lời phép vô phòng thí nghiệm cho Helen Young"
+"MailBody1A"	"Ming, mày bị mất trí rồi hả? Mày đã đi kể cho Young về những khám phá của mày?! Tao đã nói rất rõ với mày, KHÔNG AI ở bên ngoài SynTek được phép để biết về những gì mày đang làm ở trên đó!"
+"MailBody1B"	"Để làm cho nó tồi tệ hơn, những thứ đang vượt ra ngoài tầm kiểm soát. Tao vừa mới quay về từ Trạm Timor. Nó đang lan rộng. Thế méo nào mà bọn nó chui được từ Boong 2 xuống được khu hầm mỏ vậy?"
+"MailBody1C"	"Và nhân tiện, có chuyện gì trên phòng atrium vậy?"
+"MailBody1D"	"Trung úy Cain, An ninh SynTek"
 
 // Sent
 
 "MailFrom3"	"Tới: John Cain"
-"MailDate3"	"Ngày: 12/23/52"
-"MailSubject3"	"Tiêu đề: Re:Re: Chuẩn bị phòng thí nghiệm cho Helen Young"
-"MailBody3A"	"Lt. Cain,"
-"MailBody3B"	"Ăn nói cho cẩn thận. Tao ko phải cấp dưới của mày nhé. Young sẽ biết giữ mồm giữ miệng. Cô ấy đã rất xuất sắc và sự nghiệp của cô ta sẽ phụ thuộc vào việc này. Mày đã thấy mấy con bọ bò lổm ngổm dưới mỏ đúng không? Kỳ lạ ko? 1 lời giải thích rõ ràng cho việc này đó là: Những cái trứng đó đã hồi sinh lại sau khi chúng được rã đông. Và có đủ mồi ở đây để hoàn thiện vòng đời phát triển của chúng. Mày tự ngẫm đi."
-"MailBody3C"	"Đừng có làm vấn đề thêm rắc rối nữa. Chúng ta vẫn đang kiểm soát nó. Một trong những cái kén đã biến mất hôm qua. Tao nghĩ nó đã chui qua các lỗ thông hơi xuống tầng dưới. Toàn bộ khu vục NW của tầng 1 đã bị khóa và niêm phong nên không có thứ gì có thể lọt ra ngoài đâu."
+"MailDate3"	"Ngày: 23/12/52"
+"MailSubject3"	"Chủ đề: Re:Re: Lời phép vô phòng thí nghiệm cho Helen Young"
+"MailBody3A"	"Trung úy Cain,"
+"MailBody3B"	"Mày ăn nói cẩn thận nào. Tao không phải là một trong các bộ binh của mày nhé. Young sẽ giữ mồm giữ miệng cổ. Cô ấy đã làm việc rất xuất sắc và cố ấy biết sự nghiệp của cô ta phụ thuộc vào nó. Vậy mày đã thấy mấy con bọ còn sống ở trong mỏ? Thú vị thât. Có một lời giải thích rõ ràng: Những quả trứng trở nên hoạt động khi chúng rã đông. Có đủ con mồi ở dưới đó để hỗ trợ vòng đời phát triển. Mày tính toán đi."
+"MailBody3C"	"Đừng có lo về tình huống phòng atrium. Chúng tao đã kiểm soát được nó rồi. Một trong các ký sinh trùng đã mất tích ngày hôm qua. Chúng tao nghĩ nó đã chui qua các lỗ thông hơi xuống boong dưới. Toàn bộ khu vục Tây Bắc của boong 1 đã được niêm phong chặc chẽ, cho nên không có thứ gì có thể lọt ra hoặc vô được đâu."
 "MailBody3D"	"S. Ming"
 }
