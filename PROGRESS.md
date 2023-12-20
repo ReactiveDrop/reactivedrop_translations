@@ -1,17 +1,17 @@
 # Overview
 | Language | basemodui | closecaption | gameui | reactivedrop | statsweb | Strings | Inventory | Files |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | ✔️ | 1 | ✔️ | ✔️ | ✔️ | ✔️ |
+| [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Traditional Chinese](#tchinese-繁體中文) | 11 | 140 | 33 | 2910 | 200 | 236 | 566 | 146 |
 | [Czech](#czech-čeština) | 73 | 1810 | 42 | 4048 | 200 | 980 | 636 | 146 |
 | [Danish](#non-curated-languages) | 54 | 231 | 42 | 3576 | 200 | 710 | 631 | 147 |
 | [Dutch](#non-curated-languages) | 53 | 2004 | 42 | 3044 | 200 | 710 | 568 | 146 |
 | [Finnish](#non-curated-languages) | 44 | 2004 | 42 | 2968 | 200 | 709 | 568 | 146 |
 | [French](#french-français) | 29 | 138 | 42 | 2409 | 200 | 650 | 553 | 125 |
-| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | 1 | ✔️ | ✔️ | ✔️ | ✔️ |
+| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Hungarian](#non-curated-languages) | 53 | 138 | 42 | 3044 | 200 | 975 | 568 | 147 |
 | [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | 1 | ✔️ | ✔️ | ✔️ | ✔️ |
-| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | 1 | ✔️ | 103 | 1 | ✔️ |
+| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 103 | 1 | ✔️ |
 | [Korean](#koreana-한국어) | 9 | 10 | 38 | 1540 | 22 | 446 | 554 | 48 |
 | [Norwegian Bokmål](#non-curated-languages) | 71 | 708 | 47 | 3750 | 200 | 710 | 637 | 147 |
 | [Polish](#polish-polski) | 30 | 2004 | 42 | 3044 | 200 | 706 | 568 | 143 |
@@ -40,9 +40,7 @@
 
 </summary>
 
-### Strings
-
-- [reactivedrop_schinese.txt](resource/reactivedrop_schinese.txt) has 1 untranslated strings.
+✓ Up to date!
 
 </details>
 
@@ -1097,9 +1095,7 @@
 
 </summary>
 
-### Strings
-
-- [reactivedrop_german.txt](resource/reactivedrop_german.txt) has 1 untranslated strings.
+✓ Up to date!
 
 </details>
 
@@ -1126,7 +1122,6 @@
 - [addons/RiskOfRain/reactivedrop_japanese.txt](addons/RiskOfRain/resource/reactivedrop_japanese.txt) has 1 untranslated strings.
 - [misc/signage/signage_japanese.vdf](misc/signage/signage_japanese.vdf) has 67 untranslated strings.
 - [platform/vgui_japanese.txt](platform/vgui_japanese.txt) has 35 untranslated strings.
-- [reactivedrop_japanese.txt](resource/reactivedrop_japanese.txt) has 1 untranslated strings.
 
 ### Inventory Schema
 
