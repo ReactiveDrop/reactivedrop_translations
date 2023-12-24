@@ -4837,12 +4837,6 @@
 "rd_event_timer_days"	"%s1 (%s2 days remain)"
 "rd_event_timer_hours"	"%s1 (%s2 hours remain)"
 "rd_event_timer_soon"	"%s1 (ends in less than an hour!)"
-"rd_event_mapping_competition"	"Mapping Competition 2023 \"Boss Fight\""
-"rd_event_double_xp_anniversary"	"Anniversary Double Experience Week"
-"rd_event_news_anniversary_6th"	"6th Anniversary! New campaign, side stories, and more!"
-"rd_event_news_anniversary_7th"	"7th Anniversary! New UI redesign!"
-"rd_event_news_ranked_missions_added"	"New and old favorite missions added to HoIAF!"
-"rd_event_news_ranked_missions_endless"	"HoIAF adds Endless Missions!"
 
 "rd_ticker_title"	"IAF News"
 // these are imaginary stock market updates on the main menu. %s1 is the company name, %s2 is the symbol (like SYN for SynTek; symbols are not translated), %s3 is a number like 1.23 for how much the stock price changed, and %s4 is a number like 1234.56 for the final stock price.

@@ -418,5 +418,17 @@
 "[english]StatsWeb_IntegratedGuideTitle_Loadouts"		"%[1]s - Shared Loadout by %[2]s"
 "StatsWeb_IntegratedGuideTitle_SpeedrunGhost"		"%[1]s - 来自 %[2]s 分享的速通影像"
 "[english]StatsWeb_IntegratedGuideTitle_SpeedrunGhost"		"%[1]s - Speedrun Ghost by %[2]s"
+		"rd_event_mapping_competition"		"Mapping Competition 2024 \"Space Station\""
+		"[english]rd_event_mapping_competition"		"Mapping Competition 2024 \"Space Station\""
+"rd_event_double_xp_anniversary"		"周年庆典双倍经验周"
+"[english]rd_event_double_xp_anniversary"		"Anniversary Double Experience Week"
+"rd_event_news_anniversary_6th"		"六周年庆典！新战役、新故事以及更多！"
+"[english]rd_event_news_anniversary_6th"		"6th Anniversary! New campaign, side stories, and more!"
+"rd_event_news_anniversary_7th"		"七周年庆典！焕然一新！"
+"[english]rd_event_news_anniversary_7th"		"7th Anniversary! New UI redesign!"
+"rd_event_news_ranked_missions_added"		"多个广受好评的新老战役加入HoIAF！"
+"[english]rd_event_news_ranked_missions_added"		"New and old favorite missions added to HoIAF!"
+"rd_event_news_ranked_missions_endless"		"HoIAF增加无尽任务！"
+"[english]rd_event_news_ranked_missions_endless"		"HoIAF adds Endless Missions!"
 }
 }
