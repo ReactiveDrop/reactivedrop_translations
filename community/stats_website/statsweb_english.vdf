@@ -212,5 +212,12 @@
 // %[1]s is the guide name. %[2]s is the author name.
 "StatsWeb_IntegratedGuideTitle_Loadouts"		"%[1]s - Shared Loadout by %[2]s"
 "StatsWeb_IntegratedGuideTitle_SpeedrunGhost"		"%[1]s - Speedrun Ghost by %[2]s"
+
+"rd_event_mapping_competition"	"Mapping Competition 2024 \"Space Station\""
+"rd_event_double_xp_anniversary"	"Anniversary Double Experience Week"
+"rd_event_news_anniversary_6th"	"6th Anniversary! New campaign, side stories, and more!"
+"rd_event_news_anniversary_7th"	"7th Anniversary! New UI redesign!"
+"rd_event_news_ranked_missions_added"	"New and old favorite missions added to HoIAF!"
+"rd_event_news_ranked_missions_endless"	"HoIAF adds Endless Missions!"
 }
 }
