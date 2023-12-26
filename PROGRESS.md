@@ -25,7 +25,7 @@
 | [Thai](#non-curated-languages) | 968 | 1993 | 50 | 4285 | 206 | 739 | 647 | 147 |
 | [Turkish](#non-curated-languages) | 53 | 137 | 42 | 3038 | 206 | 975 | 568 | 147 |
 | [Ukrainian](#ukrainian-українська) | 29 | 131 | 32 | 2581 | 206 | 933 | 562 | 146 |
-| [Vietnamese](#vietnamese-tiếng-việt) | ✔️ | 2004 | ✔️ | 3327 | 6 | ✔️ | ✔️ | 112 |
+| [Vietnamese](#vietnamese-tiếng-việt) | ✔️ | 2004 | ✔️ | 3327 | ✔️ | ✔️ | ✔️ | 112 |
 ### Legend
 - ***Non-capitalized column headers*** are the most important specific files and their number of missing strings. All of these txt-files are located in the resources folder. Except statsweb, which lies in community/stats_website, it's an vdf-file.
 - ***Strings*** is the number of missing strings not included in one of the files which get an individual non-capitalized column.
@@ -3714,7 +3714,6 @@
 
 ### Strings
 
-- [statsweb_vietnamese.vdf](community/stats_website/statsweb_vietnamese.vdf) has 6 untranslated strings.
 - [closecaption_vietnamese.txt](resource/closecaption_vietnamese.txt) has 2004 untranslated strings.
 - [reactivedrop_vietnamese.txt](resource/reactivedrop_vietnamese.txt) has 3327 untranslated strings.
 
