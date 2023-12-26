@@ -417,7 +417,7 @@
 			"itemdefid": 7055,
 			"type": "generator",
 			"name": "Random Material Token Regional",
-			"bundle": "7020;7021;7022;7023;7024;7025;7026;7027;7071"
+			"bundle": "7020;7021;7022;7023;7024;7025;7026;7027;7071;7073"
 		},
 		{
 			"itemdefid": 7056,
@@ -523,6 +523,21 @@
 			"description": "Grants crafting material Cryotic x1",
 			"exchange": "7071",
 			"bundle": "4026"
+		},
+		{
+			"itemdefid": 7073,
+			"type": "item",
+			"name": "Material Token Regional Cubic Foot of Argon",
+			"game_only": true,
+			"item_slot": "material_drop_token"
+		},
+		{
+			"itemdefid": 7074,
+			"type": "bundle",
+			"name": "Material Redeem Regional Cubic Foot of Argon",
+			"description": "Grants crafting material Cubic Foot of Argon x1",
+			"exchange": "7073",
+			"bundle": "4027"
 		}
 	]
 }

@@ -957,6 +957,31 @@
 			"auto_stack": true,
 			"tags": "rarity:common;crafting_item:regional",
 			"compressed_dynamic_props": "m_unQuantity"
+		},
+		{
+			"itemdefid": 4027,
+			"type": "item",
+			"translator_note": "The item is a canister of the noble gas argon. When translating, the exact amount of argon is not important (the container is not a cube and is larger than a cubic foot in volume). Using cubic feet to refer to a gas stored in a round container is intentionally awkward.",
+			"name_english": "Cubic Foot of Argon",
+			"display_type_english": "Salvaged Material",
+			"display_type_german": "Geborgenes Material",
+			"display_type_italian": "Materiale Recuperato",
+			"display_type_japanese": "回収素材",
+			"display_type_russian": "Добытый материал",
+			"display_type_schinese": "回收材料",
+			"display_type_vietnamese": "Vật liệu được trục vớt",
+			"description_english": "An inert gas with many industrial applications, found while on a mission.",
+			"after_description_english": "Quantity: %m_unQuantity%",
+			"after_description_german": "Menge: %m_unQuantity%",
+			"after_description_italian": "Quantità: %m_unQuantity%",
+			"after_description_japanese": "所持数: %m_unQuantity%",
+			"after_description_russian": "Количество: %m_unQuantity%",
+			"after_description_schinese": "拥有数量: %m_unQuantity%",
+			"after_description_vietnamese": "Số lượng: %m_unQuantity%",
+			"icon_url": "https://stats.reactivedrop.com/static/medals/error.png",
+			"auto_stack": true,
+			"tags": "rarity:common;crafting_item:regional",
+			"compressed_dynamic_props": "m_unQuantity"
 		}
 	]
 }
