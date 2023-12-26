@@ -418,5 +418,17 @@
 "[english]StatsWeb_IntegratedGuideTitle_Loadouts"		"%[1]s - Shared Loadout by %[2]s"
 "StatsWeb_IntegratedGuideTitle_SpeedrunGhost"		"%[1]s - Speedrun Geist von %[2]s"
 "[english]StatsWeb_IntegratedGuideTitle_SpeedrunGhost"		"%[1]s - Speedrun Ghost by %[2]s"
+		"rd_event_mapping_competition"		"Mapping Competition 2024 \"Space Station\""
+		"[english]rd_event_mapping_competition"		"Mapping Competition 2024 \"Space Station\""
+"rd_event_double_xp_anniversary"		"Jahrestag Doppelerfahrungswoche"
+"[english]rd_event_double_xp_anniversary"		"Anniversary Double Experience Week"
+"rd_event_news_anniversary_6th"		"6. Jahrestag! Neuer Feldzug, Nebengeschichten und mehr!"
+"[english]rd_event_news_anniversary_6th"		"6th Anniversary! New campaign, side stories, and more!"
+"rd_event_news_anniversary_7th"		"7. Jahrestag! Neues UI-Design!"
+"[english]rd_event_news_anniversary_7th"		"7th Anniversary! New UI redesign!"
+"rd_event_news_ranked_missions_added"		"Neue und alte Lieblingseinsätze der HoIAF hinzugefügt!"
+"[english]rd_event_news_ranked_missions_added"		"New and old favorite missions added to HoIAF!"
+"rd_event_news_ranked_missions_endless"		"HoIAF fügt Endloseinsätze hinzu!"
+"[english]rd_event_news_ranked_missions_endless"		"HoIAF adds Endless Missions!"
 }
 }
