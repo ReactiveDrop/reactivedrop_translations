@@ -6,8 +6,8 @@
 "ror_translationCredit"		"日本語翻訳担当者：Deerlord"
 // replace English with translation language native name and your nickname at the end.
 "[english]ror_translationCredit"		"English translations by ModdedMarionette."
-		"ror_translationVersion"		"翻訳バージョン: v1.2"
-		"[english]ror_translationVersion"		"Translation Version: v1.2"
+"ror_translationVersion"		"翻訳バージョン: v1.2"
+"[english]ror_translationVersion"		"Translation Version: v1.2"
 "rd_challenge_desc_ror"		"マップを跨いで持ち越せる強化アイテムを集めてボスを倒すことを目指す、やり直しはできないローグライク形式のチャレンジ。"
 "[english]rd_challenge_desc_ror"		"A roguelike challenge where you take on a journey to defeat the Boss without restarting while collecting items that you can bring across maps to assist you."
 "ror_mapOnCooldown"		"このマップはクールダウン中です。他のマップを選択して下さい！"
