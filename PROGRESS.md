@@ -1,16 +1,16 @@
 # Overview
 | Language | basemodui | closecaption | gameui | reactivedrop | statsweb | Strings | Inventory | Files |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | ✔️ | ✔️ | 1 | ✔️ | ✔️ | ✔️ |
+| [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Traditional Chinese](#tchinese-繁體中文) | 11 | 140 | 33 | 2904 | 206 | 236 | 566 | 146 |
 | [Czech](#czech-čeština) | 73 | 1810 | 42 | 4042 | 206 | 980 | 636 | 146 |
 | [Danish](#non-curated-languages) | 54 | 231 | 42 | 3570 | 206 | 710 | 631 | 147 |
 | [Dutch](#non-curated-languages) | 53 | 2004 | 42 | 3038 | 206 | 710 | 568 | 146 |
 | [Finnish](#non-curated-languages) | 44 | 2004 | 42 | 2962 | 206 | 709 | 568 | 146 |
 | [French](#french-français) | 29 | 138 | 42 | 2403 | 206 | 650 | 553 | 125 |
-| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | 1 | ✔️ | ✔️ | ✔️ |
+| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Hungarian](#non-curated-languages) | 53 | 138 | 42 | 3038 | 206 | 975 | 568 | 147 |
-| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | 1 | ✔️ | ✔️ | ✔️ |
+| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 102 | ✔️ | ✔️ |
 | [Korean](#koreana-한국어) | 9 | 10 | 38 | 1534 | 28 | 446 | 554 | 48 |
 | [Norwegian Bokmål](#non-curated-languages) | 71 | 708 | 47 | 3744 | 206 | 710 | 637 | 147 |
@@ -40,9 +40,7 @@
 
 </summary>
 
-### Strings
-
-- [statsweb_schinese.vdf](community/stats_website/statsweb_schinese.vdf) has 1 untranslated strings.
+✓ Up to date!
 
 </details>
 
@@ -1097,9 +1095,7 @@
 
 </summary>
 
-### Strings
-
-- [statsweb_german.vdf](community/stats_website/statsweb_german.vdf) has 1 untranslated strings.
+✓ Up to date!
 
 </details>
 
@@ -1109,9 +1105,7 @@
 
 </summary>
 
-### Strings
-
-- [statsweb_italian.vdf](community/stats_website/statsweb_italian.vdf) has 1 untranslated strings.
+✓ Up to date!
 
 </details>
 
