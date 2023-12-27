@@ -3,6 +3,7 @@
 
 [h2]公式ミッション[/h2]
 [list]
+		[*][b]BioGen Corporation: Operation X5:[/b] Fixed a door that was inadvertently classified as a ladder.
 [*][b]BioGen Corporation: Invisible Threat:[/b] スピードランの時間が正常に算出されていなかったのを修正。
 [/list]
 
