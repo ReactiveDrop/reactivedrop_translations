@@ -30,12 +30,17 @@
 [*]Die DPS der Kettensäge wurde leicht erhöht, wenn du den Letzter Widerstand-Modus nicht benutzt.
 [*]Frostgranaten können nicht mehr verwendet werden. (Sie waren schon vorher nicht auswählbar.)
 [*]Erheblich erhöhter Schaden durch Haftminen gegen Zombies.
+		[*]Significantly increased Gas Grenade damage against zombies.
+		[*]Significantly increased Incendiary Mine damage against zombies.
+		[*]Electro-stunned zombies now take double damage.
+		[*]Medic zombies now begin regenerating health sooner after taking damage.
 [*]Es wurde behoben, dass Spieler durch das Gelände fallen, wenn sie sich in einen Zombie verwandeln.
 [*]Benutzerdefinierte Bearbeitungen für dm_deima aktualisiert.
 [*]Classic Variante hinzugefügt:[list]
 [*]Letzter Widerstand-Modus ist deaktiviert.
 [*]Primär-Zombies haben keine Schilde mehr.[/list]
 [*]Verbesserte Pfadfindung für Bot-Soldaten in allen Deathmatch-Spielmodi.
+		[*]Fixed sometimes seeing glows for weapons or ammo that have despawned.
 [/list]
 
 [h2]Scripting[/h2]

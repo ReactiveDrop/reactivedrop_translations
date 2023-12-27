@@ -30,12 +30,17 @@
 [*]调整 非血战模式下略微提升电锯伤害。
 [*]调整 禁用冰冻手雷。(之前已经无法选择)
 [*]调整 大幅增加激光跳雷对丧尸的伤害。
+		[*]Significantly increased Gas Grenade damage against zombies.
+		[*]Significantly increased Incendiary Mine damage against zombies.
+		[*]Electro-stunned zombies now take double damage.
+		[*]Medic zombies now begin regenerating health sooner after taking damage.
 [*]修复 玩家在变为丧尸时会穿模并掉出地图的问题。
 [*]更新 dm_deima 相关的自定义字典。
 [*]增加 经典模式：[list]
 [*]禁用血战模式。
 [*]尸王不再有护盾。[/list]
 [*]改进 所有死亡竞赛模式下的机器人的寻路。
+		[*]Fixed sometimes seeing glows for weapons or ammo that have despawned.
 [/list]
 
 [h2]脚本[/h2]

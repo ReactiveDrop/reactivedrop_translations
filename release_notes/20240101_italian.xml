@@ -30,12 +30,17 @@
 [*]Aumentati leggermente i DPS della motosega quando non si usa Ultima Resistenza.
 [*]Le granate congelanti non possono più essere utilizzate. (Non erano già più selezionabili.)
 [*]Aumento significativo dei danni delle mine contro gli zombi.
+		[*]Significantly increased Gas Grenade damage against zombies.
+		[*]Significantly increased Incendiary Mine damage against zombies.
+		[*]Electro-stunned zombies now take double damage.
+		[*]Medic zombies now begin regenerating health sooner after taking damage.
 [*]Corretta la caduta dei giocatori attraverso il terreno quando si trasformano in zombi.
 [*]Aggiornate le modifiche personalizzate per dm_deima.
 [*]Aggiunta variante Classica:[list]
 [*]La modalità Ultima Resistenza è disattivata.
 [*]Gli zombi Prime non hanno più gli scudi.[/list]
 [*]Migliorato il pathfinding dei bot soldati in tutte le modalità di gioco deathmatch.
+		[*]Fixed sometimes seeing glows for weapons or ammo that have despawned.
 [/list]
 
 [h2]Script[/h2]
