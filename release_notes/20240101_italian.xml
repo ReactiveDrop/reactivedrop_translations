@@ -31,10 +31,10 @@
 [*]Aumentati leggermente i DPS della motosega quando non si usa Ultima Resistenza.
 [*]Le granate congelanti non possono più essere utilizzate. (Non erano già più selezionabili.)
 [*]Aumento significativo dei danni delle mine contro gli zombi.
-		[*]Significantly increased Gas Grenade damage against zombies.
-		[*]Significantly increased Incendiary Mine damage against zombies.
-		[*]Electro-stunned zombies now take double damage.
-		[*]Medic zombies now begin regenerating health sooner after taking damage.
+[*]Aumento significativo dei danni delle granate a gas contro gli zombi.
+[*]Aumento significativo dei danni delle mine incendiarie contro gli zombi.
+[*]Gli zombi storditi dall'elettricità ora subiscono danni doppi.
+[*]Gli zombi medici ora iniziano a rigenerare la salute prima, dopo aver subito danni.
 [*]Corretta la caduta dei giocatori attraverso il terreno quando si trasformano in zombi.
 [*]Aggiornate le modifiche personalizzate per dm_deima.
 [*]Aggiunta variante Classica:[list]
