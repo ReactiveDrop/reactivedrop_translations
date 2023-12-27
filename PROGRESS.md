@@ -8,10 +8,10 @@
 | [Dutch](#non-curated-languages) | 53 | 2004 | 42 | 3038 | 206 | 710 | 572 | 146 |
 | [Finnish](#non-curated-languages) | 44 | 2004 | 42 | 2962 | 206 | 709 | 572 | 146 |
 | [French](#french-français) | 29 | 138 | 42 | 2403 | 206 | 650 | 557 | 125 |
-| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 2 | 1 |
+| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Hungarian](#non-curated-languages) | 53 | 138 | 42 | 3038 | 206 | 975 | 572 | 147 |
 | [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 1 |
-| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 102 | ✔️ | ✔️ |
+| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 102 | ✔️ | 1 |
 | [Korean](#koreana-한국어) | 9 | 10 | 38 | 1534 | 28 | 446 | 558 | 48 |
 | [Norwegian Bokmål](#non-curated-languages) | 71 | 708 | 47 | 3744 | 206 | 710 | 641 | 147 |
 | [Polish](#polish-polski) | 30 | 2004 | 42 | 3038 | 206 | 706 | 572 | 143 |
@@ -42,7 +42,7 @@
 
 ### Upcoming Release Notes
 
-- [20240101_schinese.xml](release_notes/20240101_schinese.xml) has 5 indented lines.
+- [20240101_schinese.xml](release_notes/20240101_schinese.xml) has 6 indented lines.
 
 ### Inventory Schema
 
@@ -1104,13 +1104,7 @@
 
 </summary>
 
-### Upcoming Release Notes
-
-- [20240101_german.xml](release_notes/20240101_german.xml) has 5 indented lines.
-
-### Inventory Schema
-
-- Item 4027 "Cubic Foot of Argon" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_german`, `description_german`
+✓ Up to date!
 
 </details>
 
@@ -1122,7 +1116,7 @@
 
 ### Upcoming Release Notes
 
-- [20240101_italian.xml](release_notes/20240101_italian.xml) has 1 indented lines.
+- [20240101_italian.xml](release_notes/20240101_italian.xml) has 2 indented lines.
 
 </details>
 
@@ -1136,6 +1130,10 @@
 
 - [misc/signage/signage_japanese.vdf](misc/signage/signage_japanese.vdf) has 67 untranslated strings.
 - [platform/vgui_japanese.txt](platform/vgui_japanese.txt) has 35 untranslated strings.
+
+### Upcoming Release Notes
+
+- [20240101_japanese.xml](release_notes/20240101_japanese.xml) has 1 indented lines.
 
 </details>
 
