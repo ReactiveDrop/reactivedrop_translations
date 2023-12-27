@@ -1,17 +1,17 @@
 # Overview
 | Language | basemodui | closecaption | gameui | reactivedrop | statsweb | Strings | Inventory | Files |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 2 | ✔️ |
+| [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 2 | 1 |
 | [Traditional Chinese](#tchinese-繁體中文) | 11 | 140 | 33 | 2904 | 206 | 236 | 570 | 146 |
 | [Czech](#czech-čeština) | 73 | 1810 | 42 | 4042 | 206 | 980 | 640 | 146 |
 | [Danish](#non-curated-languages) | 54 | 231 | 42 | 3570 | 206 | 710 | 635 | 147 |
 | [Dutch](#non-curated-languages) | 53 | 2004 | 42 | 3038 | 206 | 710 | 572 | 146 |
 | [Finnish](#non-curated-languages) | 44 | 2004 | 42 | 2962 | 206 | 709 | 572 | 146 |
 | [French](#french-français) | 29 | 138 | 42 | 2403 | 206 | 650 | 557 | 125 |
-| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 2 | ✔️ |
+| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 2 | 1 |
 | [Hungarian](#non-curated-languages) | 53 | 138 | 42 | 3038 | 206 | 975 | 572 | 147 |
-| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 2 | ✔️ |
-| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 102 | 2 | ✔️ |
+| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 2 | 1 |
+| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 102 | 2 | 1 |
 | [Korean](#koreana-한국어) | 9 | 10 | 38 | 1534 | 28 | 446 | 558 | 48 |
 | [Norwegian Bokmål](#non-curated-languages) | 71 | 708 | 47 | 3744 | 206 | 710 | 641 | 147 |
 | [Polish](#polish-polski) | 30 | 2004 | 42 | 3038 | 206 | 706 | 572 | 143 |
@@ -39,6 +39,10 @@
 ## schinese (简体中文)
 
 </summary>
+
+### Upcoming Release Notes
+
+- [20240101_schinese.xml](release_notes/20240101_schinese.xml) has 5 indented lines.
 
 ### Inventory Schema
 
@@ -1100,6 +1104,10 @@
 
 </summary>
 
+### Upcoming Release Notes
+
+- [20240101_german.xml](release_notes/20240101_german.xml) has 5 indented lines.
+
 ### Inventory Schema
 
 - Item 4027 "Cubic Foot of Argon" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_german`, `description_german`
@@ -1111,6 +1119,10 @@
 ## italian (italiano)
 
 </summary>
+
+### Upcoming Release Notes
+
+- [20240101_italian.xml](release_notes/20240101_italian.xml) has 5 indented lines.
 
 ### Inventory Schema
 
@@ -1128,6 +1140,10 @@
 
 - [misc/signage/signage_japanese.vdf](misc/signage/signage_japanese.vdf) has 67 untranslated strings.
 - [platform/vgui_japanese.txt](platform/vgui_japanese.txt) has 35 untranslated strings.
+
+### Upcoming Release Notes
+
+- [20240101_japanese.xml](release_notes/20240101_japanese.xml) has 5 indented lines.
 
 ### Inventory Schema
 
