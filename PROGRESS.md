@@ -1,7 +1,7 @@
 # Overview
 | Language | basemodui | closecaption | gameui | reactivedrop | statsweb | Strings | Inventory | Files |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 2 | 1 |
+| [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Traditional Chinese](#tchinese-繁體中文) | 11 | 140 | 33 | 2904 | 206 | 236 | 570 | 146 |
 | [Czech](#czech-čeština) | 73 | 1810 | 42 | 4042 | 206 | 980 | 640 | 146 |
 | [Danish](#non-curated-languages) | 54 | 231 | 42 | 3570 | 206 | 710 | 635 | 147 |
@@ -40,13 +40,7 @@
 
 </summary>
 
-### Upcoming Release Notes
-
-- [20240101_schinese.xml](release_notes/20240101_schinese.xml) has 6 indented lines.
-
-### Inventory Schema
-
-- Item 4027 "Cubic Foot of Argon" in [item-schema-strange-crafting.json](community/inventory_service/item-schema-strange-crafting.json) is missing `name_schinese`, `description_schinese`
+✓ Up to date!
 
 </details>
 
