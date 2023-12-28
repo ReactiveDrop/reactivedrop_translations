@@ -3,7 +3,7 @@
 
 [h2]Missioni Ufficiali[/h2]
 [list]
-		[*][b]BioGen Corporation: Operation X5:[/b] Fixed a door that was inadvertently classified as a ladder.
+[*][b]BioGen Corporation: Operazione X5:[/b] Corretta una porta che era stata inavvertitamente classificata come scala.
 [*][b]BioGen Corporation: Minaccia Invisibile:[/b] Corretto il tempo della speedrun che veniva calcolato in maniera errata.
 [/list]
 
@@ -41,7 +41,7 @@
 [*]La modalità Ultima Resistenza è disattivata.
 [*]Gli zombi Prime non hanno più gli scudi.[/list]
 [*]Migliorato il pathfinding dei bot soldati in tutte le modalità di gioco deathmatch.
-		[*]Fixed sometimes seeing glows for weapons or ammo that have despawned.
+[*]Corretto il fatto che a volte si vedano dei bagliori per le armi o le munizioni che sono despawnate.
 [/list]
 
 [h2]Script[/h2]
