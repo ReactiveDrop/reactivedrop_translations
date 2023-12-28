@@ -372,6 +372,7 @@ func check(_ int, err error) {
 }
 
 var indentNewLine = strings.NewReplacer("\n", "\n\t\t")
+var unindentBlankLine = strings.NewReplacer("\t\t\r\n", "\r\n")
 
 func updateLanguageFile(source *translatedStrings, prefix, lang, suffix string) (upToDate, total int) {
 	filename := prefix + "_" + lang + suffix
@@ -453,11 +454,8 @@ func updateLanguageFile(source *translatedStrings, prefix, lang, suffix string) 
 		}
 
 		if x.indent {
-			check(buf.WriteString("\t\t"))
-		}
-
-		if x.indent {
-			check(indentNewLine.WriteString(&buf, x.scomment))
+			c := indentNewLine.Replace("\t\t" + x.scomment)
+			check(unindentBlankLine.WriteString(&buf, c))
 		} else {
 			check(buf.WriteString(x.scomment))
 		}
@@ -470,11 +468,8 @@ func updateLanguageFile(source *translatedStrings, prefix, lang, suffix string) 
 		check(buf.WriteString("\"\r\n"))
 
 		if x.indent {
-			check(buf.WriteString("\t\t"))
-		}
-
-		if x.indent {
-			check(indentNewLine.WriteString(&buf, x.tcomment))
+			c := indentNewLine.Replace("\t\t" + x.tcomment)
+			check(unindentBlankLine.WriteString(&buf, c))
 		} else {
 			check(buf.WriteString(x.tcomment))
 		}

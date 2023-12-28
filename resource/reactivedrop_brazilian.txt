@@ -4894,7 +4894,7 @@
 
 "[english]rd_res1_hint_evacuate_quick"		"Evacuate ASAP"
 "rd_res1_hint_evacuate_quick"		"Evacue o mais rápido possível"
-		
+
 		"[english]rd_res1_healthbar_generator"		"Generator Damage"
 		"rd_res1_healthbar_generator"		"Generator Damage"
 
@@ -5122,7 +5122,7 @@
 "rd_so_alien_grub"		"Grub"
 "[english]rd_so_alien_antlionguard"		"Antlion Guard"
 "rd_so_alien_antlionguard"		"Guardião Antlion"
-		
+
 		"[english]rd_so_display_no_model"		"No Specimen Available"
 		"rd_so_display_no_model"		"No Specimen Available"
 "[english]rd_so_display_caption_first_specimen"		"Specimen A"
@@ -5186,7 +5186,7 @@
 "rd_so_ability_resistant_to_damage"		"Resistente a Danos"
 "[english]rd_so_ability_suicide_bomber"		"Suicide Bomber"
 "rd_so_ability_suicide_bomber"		"Bombardeiro suicida"
-		
+
 		"[english]rd_so_global_stat_loading"		"Requesting statistics from IAF Command..."
 		"rd_so_global_stat_loading"		"Requesting statistics from IAF Command..."
 		"[english]rd_so_global_stat_failed"		"Connection to IAF Command failed. Statistics are unavailable."
@@ -5199,7 +5199,7 @@
 		"rd_so_requirements_not_met"		"Data Missing"
 		"[english]rd_so_requirement_kill_this_alien"		"Not enough alien biometric data. Find and eliminate members of this species to reveal more information. (%s1%)"
 		"rd_so_requirement_kill_this_alien"		"Not enough alien biometric data. Find and eliminate members of this species to reveal more information. (%s1%)"
-		
+
 		"[english]rd_so_stat_killed"		"Killed"
 		"rd_so_stat_killed"		"Killed"
 		"[english]rd_so_stat_killed_jumper"		"Jumpers Killed"
@@ -5236,7 +5236,7 @@
 		"rd_so_stat_damage_blocked"		"Damage Blocked"
 		"[english]rd_so_stat_extinguish_marines"		"Marines Extinguished"
 		"rd_so_stat_extinguish_marines"		"Marines Extinguished"
-		
+
 		"[english]rd_so_damage_resistance_drone"		"Drones are the damage resistance baseline used in these articles.\nDamage Resistance (Uber): 12.5×"
 		"rd_so_damage_resistance_drone"		"Drones are the damage resistance baseline used in these articles.\nDamage Resistance (Uber): 12.5×"
 		"[english]rd_so_damage_resistance_biomass"		"Damage Resistance: N/A"
@@ -5263,7 +5263,7 @@
 		"rd_so_damage_resistance_800hp"		"Damage Resistance: 20×"
 		"[english]rd_so_damage_resistance_1000hp"		"Damage Resistance: 25×"
 		"rd_so_damage_resistance_1000hp"		"Damage Resistance: 25×"
-		
+
 		"[english]rd_so_tips_drone"		"IAF Fact Sheet:\n• Drones only attack with their claws. Taking them out before they reach the squad will render them harmless.\n• Certain drones have been known to leap large distances. Take extra precautions when using explosive weaponry, as targets may rapidly advance into unsafe range.\n• Drones can crawl through ducts and under scaffolding. It is sometimes possible to block the drones' points of egress, trapping them in a location where they are not a threat to marines."
 		"rd_so_tips_drone"		"IAF Fact Sheet:\n• Drones only attack with their claws. Taking them out before they reach the squad will render them harmless.\n• Certain drones have been known to leap large distances. Take extra precautions when using explosive weaponry, as targets may rapidly advance into unsafe range.\n• Drones can crawl through ducts and under scaffolding. It is sometimes possible to block the drones' points of egress, trapping them in a location where they are not a threat to marines."
 		"[english]rd_so_tips_ranger"		"IAF Fact Sheet:\n• The ranger's acidic weapon travels at a constant height. Dodge roll out of the way for a clean escape.\n• Rangers lack a melee attack. The only risk in getting close to a ranger is a point-blank acid orb.\n• Rangers cannot turn while firing. Use this opportunity to flank or get into melee range."
@@ -5291,7 +5291,7 @@
 		// Antlion guards are referred to as "horses" by players. "why the long face?" is a lighthearted way to ask someone why they look sad, but it's also the punchline of a common joke (horse walks into a bar, bartender asks "why the long face?", the joke is that horse faces are just kind of long because of their snouts)
 		"[english]rd_so_tips_antlionguard"		"IAF Fact Sheet:\n• Marines who have fought uber drones will find the antlion guard familiar, albeit faster and larger.\n• The antlion guard's primary weapon is the chitinous battering ram on their snout, giving them a distinctively long face.\n• Antlion guards come in two flavors: brown guards and glowing yellow guardians. They have otherwise identical bodies but behave differently."
 		"rd_so_tips_antlionguard"		"IAF Fact Sheet:\n• Marines who have fought uber drones will find the antlion guard familiar, albeit faster and larger.\n• The antlion guard's primary weapon is the chitinous battering ram on their snout, giving them a distinctively long face.\n• Antlion guards come in two flavors: brown guards and glowing yellow guardians. They have otherwise identical bodies but behave differently."
-		
+
 		"[english]rd_so_author_brad_irwing"		"From the journal of Dr. Brad Irwing (AMBER)"
 		"rd_so_author_brad_irwing"		"From the journal of Dr. Brad Irwing (AMBER)"
 		"[english]rd_so_author_bur_nable"		"From the journal of Bur Nable (Nanotrasen)"
@@ -5309,7 +5309,7 @@
 		"rd_so_author_julie_duval_ocm"		"Annotation from Prof. Julie Duval (OCM)"
 		"[english]rd_so_author_shaun_ming"		"From the journal of Shaun Ming (SynTek)"
 		"rd_so_author_shaun_ming"		"From the journal of Shaun Ming (SynTek)"
-		
+
 		"[english]rd_so_paragraph_drone_0"		"03/28/43, 15:23\nI don't think we'll ever truly understand these. There's so much to learn about their morphology, their behavior, even where they came from. Everything we do know came at a great human cost. I've recorded nearly fifty different variations on the same body plan. Triple that if you include the mutations I've confirmed firsthand. I've been trying to assemble the scant rumors of drones rapidly mutating astonishing new capabilities and carapace coloration. If even half of these are true, I worry we may never be able to catalog every possible variation, much less stamp this cancer out once and for all."
 		"rd_so_paragraph_drone_0"		"03/28/43, 15:23\nI don't think we'll ever truly understand these. There's so much to learn about their morphology, their behavior, even where they came from. Everything we do know came at a great human cost. I've recorded nearly fifty different variations on the same body plan. Triple that if you include the mutations I've confirmed firsthand. I've been trying to assemble the scant rumors of drones rapidly mutating astonishing new capabilities and carapace coloration. If even half of these are true, I worry we may never be able to catalog every possible variation, much less stamp this cancer out once and for all."
 		"[english]rd_so_paragraph_drone_1"		"04/03/43, 08:14\nThey aren't natural. Even if they were an evolved species at some point, there's evidence of experiments turning some existing being into these colony-destroying parasites. This goes a long way to explaining their remarkable genetic diversity. If the only common ancestor is some experimental parasite, it means whatever monsters created these things wanted to find the best possible hosts for their sick experiments. If the anthropogenic hypothesis offers one ray of hope, it's that we can find some kind of cure. Both for our sake and theirs. I have to believe there's still a chance to cure the galaxy of this alien swarm. There's got to be a better way than risking IAF lives and detonating stations after every last human's been dead for weeks."
@@ -5541,7 +5541,7 @@
 		// the Elements of Harmony are the magic jewelry (and the associated personality traits) that allow the main characters of My Little Pony: Friendship is Magic to laser blast their enemies. Discord is one villain they defeated this way.
 		"[english]rd_so_paragraph_antlionguard_5"		"To end on a lighter note, our research into proper antlion care and feeding has been going brilliantly. We've made good strides manipulating other antlion castes with pheropods, but that doesn't work with the guards. To that end, we've had quite some success with fruit and vegetables. They're quite fond of apples, jackfruit, and the occasional gourd. We've begun giving our captive antlions hollowed-out watermelons filled with other food, and they seem to enjoy the challenge! Remember, an enriched bug is a happy bug and a happy bug is far less likely to hurt someone on purpose. They do show affection through headbutts, so, once again, due caution and preparation are advised. Thank you for your time and attention, and I have faith that, in due time, we will find a way to keep these creatures docile in captivity. The elements of harmony, or at least the lack of discord, are within our grasp!"
 		"rd_so_paragraph_antlionguard_5"		"To end on a lighter note, our research into proper antlion care and feeding has been going brilliantly. We've made good strides manipulating other antlion castes with pheropods, but that doesn't work with the guards. To that end, we've had quite some success with fruit and vegetables. They're quite fond of apples, jackfruit, and the occasional gourd. We've begun giving our captive antlions hollowed-out watermelons filled with other food, and they seem to enjoy the challenge! Remember, an enriched bug is a happy bug and a happy bug is far less likely to hurt someone on purpose. They do show affection through headbutts, so, once again, due caution and preparation are advised. Thank you for your time and attention, and I have faith that, in due time, we will find a way to keep these creatures docile in captivity. The elements of harmony, or at least the lack of discord, are within our grasp!"
-		
+
 		"[english]rd_cant_equip_generic"		"Cannot use this weapon"
 		"rd_cant_equip_generic"		"Cannot use this weapon"
 		"[english]rd_cant_equip_class"		"Current marine cannot use"
@@ -6019,7 +6019,7 @@
 "rd_weapon_fact_generic_ammo_refill_clips_before"		""
 		"[english]rd_weapon_fact_generic_ammo_refill_clips_after"		" reloads"
 		"rd_weapon_fact_generic_ammo_refill_clips_after"		" reloads"
-		
+
 		"[english]rd_no_steam_service"		"Game cannot connect to the Steam client service"
 		"rd_no_steam_service"		"Game cannot connect to the Steam client service"
 		"[english]rd_no_steam_solutions"		"This can happen if your version of the Steam client is outdated or an antivirus program is interfering with the game's attempt to communicate. Check for updates in Steam, and try restarting Steam or your computer."
@@ -6573,7 +6573,7 @@
 "t5_syntekhospital_debrief1"		"O complexo foi destruído, e você impediu essas abominações."
 "[english]t5_syntekhospital_debrief2"		"Good work, marines."
 "t5_syntekhospital_debrief2"		"Bom trabalho fuzileiros."
-		
+
 		"[english]t5_syntekhospital_countdown_caption"		"BIOHAZARD DETECTED"
 		"t5_syntekhospital_countdown_caption"		"BIOHAZARD DETECTED"
 
@@ -6852,23 +6852,23 @@
 		"acc_need_all_marines"		"Need All Marines"
 		"[english]acc_error_readcolor"		"#Error.ReadColor(255 0 0)"
 		"acc_error_readcolor"		"#Error.ReadColor(255 0 0)"
-		
+
 		"[english]asw_boss_title_muon_gem"		"Muon Gem"
 		"asw_boss_title_muon_gem"		"Muon Gem"
-		
+
 		// Reduction strings
 		"[english]red1_1_title"		"Go to the Docking Office"
 		"red1_1_title"		"Go to the Docking Office"
-		
+
 		"[english]red1_2_title"		"Go to Station Control"
 		"red1_2_title"		"Go to Station Control"
-		
+
 		"[english]red1_3_title"		"Get to the Escape Pod Room and Evacuate"
 		"red1_3_title"		"Get to the Escape Pod Room and Evacuate"
-		
+
 		"[english]red1_gametext_1"		"(Enable multiplayer game instructor to see dialogue and hints)"
 		"red1_gametext_1"		"(Enable multiplayer game instructor to see dialogue and hints)"
-		
+
 		"[english]red2_1_title"		"Wait for Arrival"
 		"red2_1_title"		"Wait for Arrival"
 		"[english]red2_1a_title"		"You are now enroute to your new posting."
@@ -6879,24 +6879,24 @@
 		"red2_1c_title"		"You should arrive at your new base in an hour or so. So hang tight."
 		"[english]red2_1d_title"		"(If the trip seems long, try ''knocking'' on the pilot's door...)"
 		"red2_1d_title"		"(If the trip seems long, try ''knocking'' on the pilot's door...)"
-		
+
 		"[english]red2_2_title"		"Prepare then Deploy from Dropship"
 		"red2_2_title"		"Prepare then Deploy from Dropship"
 		"[english]red2_2a_title"		"Prepare then deploy from Dropship Chaos 3."
 		"red2_2a_title"		"Prepare then deploy from Dropship Chaos 3."
 		"[english]red2_2b_title"		"You will need to dump explosive cargo first!"
 		"red2_2b_title"		"You will need to dump explosive cargo first!"
-		
+
 		"[english]red2_3_title"		"Search for the Objective"
 		"red2_3_title"		"Search for the Objective"
-		
+
 		"[english]red2_4_title"		"Repair the Listening Network"
 		"red2_4_title"		"Repair the Listening Network"
 		"[english]red2_4a_title"		"Reset or repair each node of the listening network in this area."
 		"red2_4a_title"		"Reset or repair each node of the listening network in this area."
 		"[english]red2_4b_title"		"Antennae nodes are cloaked - keep a sharp eye out for them."
 		"red2_4b_title"		"Antennae nodes are cloaked - keep a sharp eye out for them."
-		
+
 		"[english]red2_5_title"		"Follow the Guide"
 		"red2_5_title"		"Follow the Guide"
 		"[english]red2_5a_title"		"Follow the GuideBot."
@@ -6907,19 +6907,19 @@
 		"red2_5c_title"		"Your destination is a door that will decloak."
 		"[english]red2_5d_title"		"Watch for Crawlers!"
 		"red2_5d_title"		"Watch for Crawlers!"
-		
+
 		"[english]red2_6_title"		"Find your Way Through the Labyrinth"
 		"red2_6_title"		"Find your Way Through the Labyrinth"
 		"[english]red2_6a_title"		"Enter the labyrinth and find your way through it."
 		"red2_6a_title"		"Enter the labyrinth and find your way through it."
 		"[english]red2_6b_title"		"Watch closely for hidden doors that uncloak."
 		"red2_6b_title"		"Watch closely for hidden doors that uncloak."
-		
+
 		"[english]red2_7_title"		"Reveal Yourself"
 		"red2_7_title"		"Reveal Yourself"
 		"[english]red2_7a_title"		"Go to the edge of the cliff."
 		"red2_7a_title"		"Go to the edge of the cliff."
-		
+
 		"[english]red2_gametext_1"		"OP PARIAH: AFTER-ACTION REPORT"
 		"red2_gametext_1"		"OP PARIAH: AFTER-ACTION REPORT"
 		"[english]red2_gametext_2"		"Dropship ''Chaos 3'' missing. Presumed destroyed."
@@ -6934,56 +6934,56 @@
 		"red2_gametext_6"		"One solar year earlier..."
 		"[english]red2_gametext_7"		"Somewhere in the Outer Systems..."
 		"red2_gametext_7"		"Somewhere in the Outer Systems..."
-		
+
 		"[english]red3_1_title"		"Establish Comms with BigDog"
 		"red3_1_title"		"Establish Comms with BigDog"
-		
+
 		"[english]red3_2_title"		"Get to the Train"
 		"red3_2_title"		"Get to the Train"
-		
+
 		"[english]red3_3_title"		"Fix the Train Engine"
 		"red3_3_title"		"Fix the Train Engine"
-		
+
 		"[english]red3_4_title"		"Get on the Train"
 		"red3_4_title"		"Get on the Train"
-		
+
 		"[english]red4_1_title"		"Contact BigDog"
 		"red4_1_title"		"Contact BigDog"
 		"[english]red4_1a_title"		"Assess your situation. Establish comms with BigDog."
 		"red4_1a_title"		"Assess your situation. Establish comms with BigDog."
-		
+
 		"[english]red4_2_title"		"Find the Package"
 		"red4_2_title"		"Find the Package"
 		"[english]red4_2a_title"		"Search the train and find the Package."
 		"red4_2a_title"		"Search the train and find the Package."
-		
+
 		"[english]red4_3_title"		"Sweep the Train"
 		"red4_3_title"		"Sweep the Train"
 		"[english]red4_3a_title"		"Sweep the train clean of hostile presence."
 		"red4_3a_title"		"Sweep the train clean of hostile presence."
-		
+
 		"[english]red5_1_title"		"Report in"
 		"red5_1_title"		"Report in"
 		"[english]red5_1a_title"		"Good morning, Squad. And welcome to the Safe Zone. Report in to local command."
 		"red5_1a_title"		"Good morning, Squad. And welcome to the Safe Zone. Report in to local command."
-		
+
 		"[english]red5_2_title"		"Open the Boxcar with Chainsaw"
 		"red5_2_title"		"Open the Boxcar with Chainsaw"
-		
+
 		"[english]red5_3_title"		"Find the Overhead Crane"
 		"red5_3_title"		"Find the Overhead Crane"
 		"[english]red5_3a_title"		"It is parked somewhere in the rafters."
 		"red5_3a_title"		"It is parked somewhere in the rafters."
 		"[english]red5_3b_title"		"Look for it."
 		"red5_3b_title"		"Look for it."
-		
+
 		"[english]red5_4_title"		"Move the Weapon to the Carriage"
 		"red5_4_title"		"Move the Weapon to the Carriage"
 		"[english]red5_4a_title"		"Use the crane to remove the boxcar wreckage."
 		"red5_4a_title"		"Use the crane to remove the boxcar wreckage."
 		"[english]red5_4b_title"		"Then pick up the Weapon and move it to the Carriage."
 		"red5_4b_title"		"Then pick up the Weapon and move it to the Carriage."
-		
+
 		"[english]red5_5_title"		"Prep the Carriage and an Exit"
 		"red5_5_title"		"Prep the Carriage and an Exit"
 		"[english]red5_5a_title"		"Ready the Carriage to take the Weapon."
@@ -6992,14 +6992,14 @@
 		"red5_5b_title"		"You'll need to create an opening for the Carriage to exit."
 		"[english]red5_5c_title"		"Make sure the opening is free of debris."
 		"red5_5c_title"		"Make sure the opening is free of debris."
-		
+
 		"[english]red5_6_title"		"Meet at the Bridge"
 		"red5_6_title"		"Meet at the Bridge"
 		"[english]red5_6a_title"		"Meet at the jump-off point to prepare for the next mission."
 		"red5_6a_title"		"Meet at the jump-off point to prepare for the next mission."
 		"[english]red5_6b_title"		"Jump-off for next mission will be at the bridge."
 		"red5_6b_title"		"Jump-off for next mission will be at the bridge."
-		
+
 		"[english]red5_gametext_1"		"R E D U C T I O N"
 		"red5_gametext_1"		"R E D U C T I O N"
 		"[english]red5_gametext_2"		"Campaign Design by Tim Carter"
@@ -7013,17 +7013,17 @@
 		// context - Voted to Skip: 0/5 
 		"[english]red5_voted_skip_count"		"Voted to Skip:"
 		"red5_voted_skip_count"		"Voted to Skip:"
-		
+
 		"[english]red6_1_title"		"Escort the Carriage to Outpost Charlie. NOTE: All Sentryguns will be Confiscated"
 		"red6_1_title"		"Escort the Carriage to Outpost Charlie. NOTE: All Sentryguns will be Confiscated"
 		"[english]red6_1a_title"		"Do NOT bring sentry-guns... Sentries are in high demand and will be commandeered for use on the frontlines."
 		"red6_1a_title"		"Do NOT bring sentry-guns... Sentries are in high demand and will be commandeered for use on the frontlines."
-		
+
 		"[english]red6_2_title"		"Report in to Outpost Charlie CO"
 		"red6_2_title"		"Report in to Outpost Charlie CO"
 		"[english]red6_2a_title"		"When you are ready to end the mission, report in to Outpost Charlie Command."
 		"red6_2a_title"		"When you are ready to end the mission, report in to Outpost Charlie Command."
-		
+
 		// IAF Marine Academy strings
 		"[english]ma_chat_ammo"		"%s1Taking ammo with you is not allowed."
 		"ma_chat_ammo"		"%s1Taking ammo with you is not allowed."
@@ -7045,7 +7045,7 @@
 		"ma_chat_queen_health"		"%s1Queen Health: %s2%s3"
 		"[english]ma_chat_local_record"		"%s1Local server record beaten!"
 		"ma_chat_local_record"		"%s1Local server record beaten!"
-		
+
 		// context: it's a currency for the map, gained from killing aliens and you can spend it for buying items
 		"[english]ma_hud_alienblood"		"Alien Blood"
 		"ma_hud_alienblood"		"Alien Blood"
@@ -7054,14 +7054,14 @@
 		"ma_hud_score"		"Score"
 		"[english]ma_hud_zones"		"Zones Completed"
 		"ma_hud_zones"		"Zones Completed"
-		
+
 		"[english]ma_sign_provision"		"ADVANCED TRAINING PROVISION FOR COMMISSIONED PERSONNEL"
 		"ma_sign_provision"		"ADVANCED TRAINING PROVISION FOR COMMISSIONED PERSONNEL"
 		"[english]ma_sign_shop"		"SHOP"
 		"ma_sign_shop"		"SHOP"
 		"[english]ma_sign_hof"		"HALL OF FAME"
 		"ma_sign_hof"		"HALL OF FAME"
-		
+
 		"[english]asw_teleport_to_zone"		"Teleport to Zone"
 		"asw_teleport_to_zone"		"Teleport to Zone"
 		"[english]asw_zone_unavailable"		"Zone Temporarily Unavailable"
@@ -7366,7 +7366,7 @@
 
 "[english]par_crucialpoint_debrief"		"Bloodhound... come in... Bloodhound... come in..."
 "par_crucialpoint_debrief"		"Bloodhound... na escuta... Bloodhound... na escuta..."
-		
+
 		"[english]par_crucialpoint_bossbar_timeleft"		"Time Left"
 		"par_crucialpoint_bossbar_timeleft"		"Time Left"
 		"[english]par_crucialpoint_bossbar_health"		"Satellite Dish Health"
@@ -7463,14 +7463,14 @@
 // Bonus Mission 7 strings
 "[english]bon7_area9800PP2_debrief"		"Well done, team!"
 "bon7_area9800PP2_debrief"		"Belo trabalho equipe!"
-		
+
 		"[english]bon12_obj_reactor_t"		"Shutdown the reactor"
 		"bon12_obj_reactor_t"		"Shutdown the reactor"
 		"[english]bon12_obj_reactor"		"Gain access to the Reactor Control Room and disable the power"
 		"bon12_obj_reactor"		"Gain access to the Reactor Control Room and disable the power"
 		"[english]bon12_obj_exit_t"		"Reach the south exit"
 		"bon12_obj_exit_t"		"Reach the south exit"
-		
+
 		"[english]bon14_obj_elevator_t"		"Activate the cargo elevator and ascend"
 		"bon14_obj_elevator_t"		"Activate the cargo elevator and ascend"
 		"[english]bon14_obj_elevator"		"Our plans of the facility show a large cargo elevator located to the east of your entry point. Use the elevator to ascend to the higher level and then proceed to the Landing Bay."
@@ -7486,7 +7486,7 @@
 
 "[english]asw_need_dynamite"		"Need TNT"
 "asw_need_dynamite"		"Dinamite Necessária"
-		
+
 		"[english]asw_boss_title_ommoran_heartstone"		"Ommoran Heartstone"
 		"asw_boss_title_ommoran_heartstone"		"Ommoran Heartstone"
 		"[english]asw_boss_title_the_caretaker"		"The Caretaker"
@@ -7825,7 +7825,7 @@
 "rd_mission_title_rd-acc_complex"		"Complexo AMBER"
 "[english]rd_mission_desc_rd-acc_complex"		"Navigate through the AMBER Complex."
 "rd_mission_desc_rd-acc_complex"		"Navegue pelo Complexo AMBER."
-		
+
 		"[english]rd_mission_title_rd-ht-marine_academy"		"IAF Marine Academy"
 		"rd_mission_title_rd-ht-marine_academy"		"IAF Marine Academy"
 		"[english]rd_mission_desc_rd-ht-marine_academy"		"Welcome to IAF Marine Academy. An advanced marine-training tool created with the assistance of SynTek to prepare soldiers for combat against aliens."
@@ -7939,7 +7939,7 @@
 "rd_mission_desc_rd-bio3biogenlabs"		"Impeça reprodução do enxame."
 "[english]rd_mission_brief_rd-bio3biogenlabs"		"Stop the swarm reproduction."
 "rd_mission_brief_rd-bio3biogenlabs"		"Impeça reprodução do enxame."
-		
+
 		"[english]rd_entrymission_title_rd_reduction_campaign"		"Entry Port"
 		"rd_entrymission_title_rd_reduction_campaign"		"Entry Port"
 		"[english]rd_entrymission_loc_rd_reduction_campaign"		"Home Base"
@@ -8631,7 +8631,7 @@
 		"RD_AdvancedSettings_Misc_HighlightActiveCharacter"		"Highlight Active Character"
 		"[english]RD_AdvancedSettings_Misc_HighlightMyTracers"		"Dim Others Bullet Tracers"
 		"RD_AdvancedSettings_Misc_HighlightMyTracers"		"Dim Others Bullet Tracers"
-		
+
 		"[english]rd_audio_advanced_mixers_label"		"Advanced Volume Settings"
 		"rd_audio_advanced_mixers_label"		"Advanced Volume Settings"
 		"[english]rd_audio_advanced_mixers_tooltip"		"Adjust the volume of each audio channel separately."
@@ -8796,7 +8796,7 @@
 "rd_radial_use_extra_Bastille"		"Bastille: Usou %s1"
 "[english]rd_radial_use_extra_Vegas"		"Vegas: Use %s1"
 "rd_radial_use_extra_Vegas"		"Vegas: Usou %s1"
-		
+
 		"[english]rd_wheel_default"		"Wheel: Shout"
 		"rd_wheel_default"		"Wheel: Shout"
 		"[english]rd_wheel_marine"		"Wheel: Command Marine"
@@ -8914,7 +8914,7 @@
 		"rd_loadout_current"		"Current Loadout"
 		"[english]rd_loadout_default"		"Default Loadout"
 		"rd_loadout_default"		"Default Loadout"
-		
+
 		"[english]rd_exit_vehicle"		"Exit Vehicle"
 		"rd_exit_vehicle"		"Exit Vehicle"
 		"[english]rd_enter_vehicle_driver"		"Drive Vehicle"
@@ -8923,7 +8923,7 @@
 		"rd_enter_vehicle_passenger"		"Ride Vehicle"
 		"[english]rd_enter_vehicle_full"		"Vehicle is Full"
 		"rd_enter_vehicle_full"		"Vehicle is Full"
-		
+
 		"[english]rd_mainmenu_recordings"		"Recordings"
 		"rd_mainmenu_recordings"		"Recordings"
 		"[english]rd_demo_list_title"		"Mission Recordings"
@@ -8976,7 +8976,7 @@
 		"rd_demo_rename_title"		"Rename Mission Recording"
 		"[english]rd_demo_rename_message"		"What should the new filename for this recording be?"
 		"rd_demo_rename_message"		"What should the new filename for this recording be?"
-		
+
 		"[english]RD_AdvancedSettings_OnHit"		"On-Hit Feedback"
 		"RD_AdvancedSettings_OnHit"		"On-Hit Feedback"
 		"[english]TF_CombatText"		"Display damage done as text over your target"
@@ -9005,7 +9005,7 @@
 		"TF_Dingaling_LastHit_PitchLowDmg"		"Tom de dano baixo do som de acerto fatal"
 		"[english]TF_Dingaling_LastHit_PitchHighDmg"		"Last Hit sound high damage pitch"
 		"TF_Dingaling_LastHit_PitchHighDmg"		"Tom de dano alto do som de acerto fatal"
-		
+
 		"[english]tf_dingalingaling_effect"		"Hit Sounds"
 		"tf_dingalingaling_effect"		"Sons de acerto"
 		"[english]tf_dingalingaling_last_effect"		"Last Hit Sounds"
@@ -9040,7 +9040,7 @@
 		// meaty hit
 		"[english]tf_dingalingaling_Swarm"		"Swarm"
 		"tf_dingalingaling_Swarm"		"Swarm"
-		
+
 		// %s1 is mapper-specified label text. %s2 is a number. %s3 is the amount the number will change by soon.
 		"[english]asw_hud_counter_format"		"%s1: %s2"
 		"asw_hud_counter_format"		"%s1: %s2"
@@ -9057,7 +9057,7 @@
 		// The value of money is abstract and there's no references to real-world conversion rates, so feel free to change the currency symbol to something relevant to people who speak your language and optionally add some zeroes at the end.
 		"[english]asw_money_format"		"$%s1"
 		"asw_money_format"		"$%s1"
-		
+
 		"[english]rd_main_menu_tip_settings_title"		"Settings"
 		"rd_main_menu_tip_settings_title"		"Settings"
 		"[english]rd_main_menu_tip_settings"		"Press this button to change keyboard controls,\npreferences, and audio and video settings."
@@ -9136,7 +9136,7 @@
 		"rd_main_menu_tip_update_notes_title"		"Latest Patch Notes"
 		"[english]rd_main_menu_tip_update_notes"		"Press this button to read a list of changes made in the latest update."
 		"rd_main_menu_tip_update_notes"		"Press this button to read a list of changes made in the latest update."
-		
+
 		"[english]rd_hoiaf_ends_days_hours"		"Heroes of the Interstellar Armed Forces season %s1 ends in %s2 days %s3 hours."
 		"rd_hoiaf_ends_days_hours"		"Heroes of the Interstellar Armed Forces season %s1 ends in %s2 days %s3 hours."
 		"[english]rd_hoiaf_ends_hours"		"Heroes of the Interstellar Armed Forces season %s1 ends in %s2 hours."
@@ -9154,7 +9154,7 @@
 		"rd_event_timer_hours"		"%s1 (%s2 hours remain)"
 		"[english]rd_event_timer_soon"		"%s1 (ends in less than an hour!)"
 		"rd_event_timer_soon"		"%s1 (ends in less than an hour!)"
-		
+
 		"[english]rd_ticker_title"		"IAF News"
 		"rd_ticker_title"		"IAF News"
 		// these are imaginary stock market updates on the main menu. %s1 is the company name, %s2 is the symbol (like SYN for SynTek; symbols are not translated), %s3 is a number like 1.23 for how much the stock price changed, and %s4 is a number like 1234.56 for the final stock price.
@@ -9206,7 +9206,7 @@
 		"rd_ticker_stat_deaths_from_drones_today"		"Drones tore %s1 marines to pieces today"
 		"[english]rd_ticker_stat_deaths_from_grenades_today"		"%s1 marines died today due to mishandling of explosive ordinance"
 		"rd_ticker_stat_deaths_from_grenades_today"		"%s1 marines died today due to mishandling of explosive ordinance"
-		
+
 		"[english]rd_reporting_auto_preference"		"Automatically report players I mute or vote for"
 		"rd_reporting_auto_preference"		"Automatically report players I mute or vote for"
 		"[english]rd_reporting_error_not_connected"		"Cannot send a report while offline."
@@ -9235,7 +9235,7 @@
 		// shown above the final message generated during the process of sending a report
 		"[english]rd_reporting_finished_title"		"Report Status"
 		"rd_reporting_finished_title"		"Report Status"
-		
+
 		// these are tab names
 		"[english]rd_settings_controls"		"Controls"
 		"rd_settings_controls"		"Controls"
@@ -9249,7 +9249,7 @@
 		"rd_settings_video"		"Video"
 		"[english]rd_settings_about"		"About"
 		"rd_settings_about"		"About"
-		
+
 		// These are category headings on the Controls tab of the settings screen
 		"[english]rd_controls_category_movement"		"Movement"
 		"rd_controls_category_movement"		"Movement"
@@ -9278,7 +9278,7 @@
 		// radial menus
 		"[english]rd_manage_custom_chat_wheels"		"Manage Custom\nChat Wheels"
 		"rd_manage_custom_chat_wheels"		"Manage Custom\nChat Wheels"
-		
+
 		"[english]rd_option_player_name_mode"		"Squad Member Names"
 		"rd_option_player_name_mode"		"Squad Member Names"
 		"[english]rd_option_player_name_mode_none"		"None"
@@ -9537,12 +9537,12 @@
 		"rd_option_network_allow_relay_enabled"		"Enabled"
 		"[english]rd_option_network_allow_relay_enabled_hint"		"Connect to lobbies using the Steam Networking API, which can avoid the need to forward ports. Dedicated servers may still use direct UDP connections."
 		"rd_option_network_allow_relay_enabled_hint"		"Connect to lobbies using the Steam Networking API, which can avoid the need to forward ports. Dedicated servers may still use direct UDP connections."
-		
+
 		"[english]rd_option_suffix_percent"		"%"
 		"rd_option_suffix_percent"		"%"
 		"[english]rd_option_suffix_milliseconds"		" ms"
 		"rd_option_suffix_milliseconds"		" ms"
-		
+
 		"[english]rd_video_level_low"		"Low"
 		"rd_video_level_low"		"Low"
 		"[english]rd_video_level_medium"		"Medium"
@@ -9674,7 +9674,7 @@
 		"rd_video_low_health_effect"		"Low Health Vignetting"
 		"[english]rd_video_low_health_effect_hint"		"Controls whether the edges of the screen glow red when the marine is at low health."
 		"rd_video_low_health_effect_hint"		"Controls whether the edges of the screen glow red when the marine is at low health."
-		
+
 		// %s1 is a number; eg. 11352165
 		"[english]rd_about_build_id"		"Build ID: %s1"
 		"rd_about_build_id"		"Build ID: %s1"
@@ -9696,12 +9696,12 @@
 		"rd_about_havok"		"This product uses Havok Physics. Copyright Havok.com Inc. (and its Licensors). All Rights Reserved. See www.havok.com for details."
 		"[english]rd_about_nvidia"		"This product includes code licensed from NVIDIA."
 		"rd_about_nvidia"		"This product includes code licensed from NVIDIA."
-		
+
 		"[english]rd_achievement_challenges_disallowed"		"This achievement cannot be earned if a challenge was active during the mission."
 		"rd_achievement_challenges_disallowed"		"This achievement cannot be earned if a challenge was active during the mission."
 		"[english]rd_achievement_challenges_outstanding"		"This achievement cannot be earned if a challenge was active or a marine died during any mission attempt since the last successful map vote."
 		"rd_achievement_challenges_outstanding"		"This achievement cannot be earned if a challenge was active or a marine died during any mission attempt since the last successful map vote."
-		
+
 		"[english]rd_compass_north"		"North"
 		"rd_compass_north"		"North"
 		"[english]rd_compass_south"		"South"
@@ -9718,7 +9718,7 @@
 		"rd_compass_east_short"		"E"
 		"[english]rd_compass_west_short"		"W"
 		"rd_compass_west_short"		"W"
-		
+
 		"[english]asw_infection"		"Infection"
 		"asw_infection"		"Infection"
 		"[english]asw_infection_fp"		"Infection First Person"
@@ -9762,14 +9762,14 @@
 		// %s1 is a meter made up of █ and spaces; %s2 is a percentage.
 		"[english]asw_infection_rage_meter"		"Rage: %s1 %s2%"
 		"asw_infection_rage_meter"		"Rage: %s1 %s2%"
-		
+
 		// %s1 is a number; shown when the filters are hidden and the mission details are visible
 		"[english]rd_lobby_options_button_inactive"		"Filters Active: %s1"
 		"rd_lobby_options_button_inactive"		"Filters Active: %s1"
 		// shown when the filter list is active, replacing above
 		"[english]rd_lobby_options_button_active"		"Show Mission Details"
 		"rd_lobby_options_button_active"		"Show Mission Details"
-		
+
 		"[english]rd_lobby_option_name_mode_title"		"Name Mode"
 		"rd_lobby_option_name_mode_title"		"Name Mode"
 		"[english]rd_lobby_option_name_mode_mission"		"Mission"
@@ -9880,7 +9880,7 @@
 		"rd_lobby_option_always_friends_title"		"Always Show Friends"
 		"[english]rd_lobby_option_always_friends_hint"		"Show lobbies with friends in them regardless of other settings on this screen."
 		"rd_lobby_option_always_friends_hint"		"Show lobbies with friends in them regardless of other settings on this screen."
-		
+
 		"[english]rd_lobby_tooltip_type_lobby_title"		"Player-Hosted Lobby"
 		"rd_lobby_tooltip_type_lobby_title"		"Player-Hosted Lobby"
 		"[english]rd_lobby_tooltip_type_lobby_desc"		"This lobby is being run by a player."
@@ -9905,7 +9905,7 @@
 		"rd_lobby_tooltip_type_ranked_server_title"		"Ranked Server"
 		"[english]rd_lobby_tooltip_type_ranked_server_desc"		"This community server is participating in Heroes of the Interstellar Armed Forces."
 		"rd_lobby_tooltip_type_ranked_server_desc"		"This community server is participating in Heroes of the Interstellar Armed Forces."
-		
+
 		"[english]rd_lobby_tooltip_difficulty_deathmatch_title"		"PvP: Deathmatch"
 		"rd_lobby_tooltip_difficulty_deathmatch_title"		"PvP: Deathmatch"
 		"[english]rd_lobby_tooltip_difficulty_deathmatch_desc"		"Kill enemy marines to score points."
@@ -9942,7 +9942,7 @@
 		"rd_lobby_tooltip_difficulty_brutal_title"		"Difficulty: Brutal"
 		"[english]rd_lobby_tooltip_difficulty_brutal_desc"		"Brutal."
 		"rd_lobby_tooltip_difficulty_brutal_desc"		"Brutal."
-		
+
 		"[english]rd_lobby_tooltip_onslaught_title"		"Onslaught"
 		"rd_lobby_tooltip_onslaught_title"		"Onslaught"
 		"[english]rd_lobby_tooltip_onslaught_desc"		"The AI Director will add additional aliens to the mission based on the performance of the marines."
@@ -9955,7 +9955,7 @@
 		"rd_lobby_tooltip_challenge_title"		"Challenge Active"
 		"[english]rd_lobby_tooltip_challenge_desc"		"A custom game mode is active in this lobby."
 		"rd_lobby_tooltip_challenge_desc"		"A custom game mode is active in this lobby."
-		
+
 		"[english]rd_lobby_tooltip_ping_title"		"Estimated Ping (Connection Latency)"
 		"rd_lobby_tooltip_ping_title"		"Estimated Ping (Connection Latency)"
 		"[english]rd_lobby_tooltip_ping_low_desc"		"Your connection to this lobby is likely to have a very low round trip time, resulting in the best possible experience."

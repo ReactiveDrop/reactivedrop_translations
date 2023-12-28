@@ -1247,10 +1247,10 @@
 
 "[english]crash.Thanks1"		"<clr:238,180,34>Crash: Thank you."
 "crash.Thanks1"		"<clr:238,180,34>크래시: 고마워요."
-		
+
 		"[english]crash.Question0"		"<clr:238,180,34>Crash: Huh?"
 		"crash.Question0"		"<clr:238,180,34>Crash: Huh?"
-		
+
 		"[english]crash.Question1"		"<clr:238,180,34>Crash: What?"
 		"crash.Question1"		"<clr:238,180,34>Crash: What?"
 
@@ -2338,7 +2338,7 @@
 
 "[english]jaeger.InjuredSelection0"		"<clr:198,226,255>Jaeger: Never thought it would end like this."
 "jaeger.InjuredSelection0"		"<clr:198,226,255>예거: 이렇게 끝날 거라고 생각해본 적 없어."
-		
+
 		"[english]jaeger.InjuredSelection1"		"<clr:198,226,255>Jaeger: Not like this... not here."
 		"jaeger.InjuredSelection1"		"<clr:198,226,255>Jaeger: Not like this... not here."
 
@@ -2512,7 +2512,7 @@
 
 "[english]jaeger.Thanks1"		"<clr:198,226,255>Jaeger: Thank you."
 "jaeger.Thanks1"		"<clr:198,226,255>예거: 고마워."
-		
+
 		"[english]jaeger.Question0"		"<clr:198,226,255>Jaeger: Huh?"
 		"jaeger.Question0"		"<clr:198,226,255>Jaeger: Huh?"
 
@@ -3381,8 +3381,8 @@
 
 "[english]sarge.GotRear1"		"<clr:238,207,161>Sarge: Conrad taking rear guard."
 "sarge.GotRear1"		"<clr:238,207,161>사지: 콘라드가 후방을 확보하겠다."
-		
-		
+
+
 		"[english]sarge.GotRear2"		"<clr:238,207,161>Sarge: I've got your back."
 		"sarge.GotRear2"		"<clr:238,207,161>Sarge: I've got your back."
 
@@ -3729,8 +3729,8 @@
 
 "[english]sarge.Impatience0"		"<clr:238,207,161>Sarge: Come on marine, they don't pay us by the hour!"
 "sarge.Impatience0"		"<clr:238,207,161>사지: 해병대, 우린 시간당 월급을 받는 게 아니라고!"
-		
-		
+
+
 		"[english]sarge.Impatience1"		"<clr:238,207,161>Sarge: Goddamn, hurry up! I'm getting tired."
 		"sarge.Impatience1"		"<clr:238,207,161>Sarge: Goddamn, hurry up! I'm getting tired."
 
@@ -4649,8 +4649,8 @@
 
 "[english]vegas.Selection0"		"<clr:84,255,159>Vegas: Ready."
 "vegas.Selection0"		"<clr:84,255,159>베가스: 준비 됐어."
-		
-		
+
+
 		"[english]vegas.Selection1"		"<clr:84,255,159>Vegas: Wanna play a little game?"
 		"vegas.Selection1"		"<clr:84,255,159>Vegas: Wanna play a little game?"
 
@@ -5440,7 +5440,7 @@
 
 "[english]wolfe.InjuredSelection3"		"<clr:154,205,50>Wolfe: It's time we hit em where it hurts most. All over."
 "wolfe.InjuredSelection3"		"<clr:154,205,50>울프: 놈들의 급소를 때려줄 때로군. 그거면 다 해결이야."
-		
+
 		"[english]wolfe.SeriousInjuryReply0"		"<clr:154,205,50>Wolfe: No way, you gotta be kidding."
 		"wolfe.SeriousInjuryReply0"		"<clr:154,205,50>Wolfe: No way, you gotta be kidding."
 
@@ -6311,8 +6311,8 @@
 
 "[english]wolfe.MadFiring1"		"<clr:154,205,50>Wolfe: Hah! You want some of this."
 "wolfe.MadFiring1"		"<clr:154,205,50>울프: 흥! 이거나 쳐먹어라."
-		
-		
+
+
 		"[english]wolfe.MadFiring2"		"<clr:154,205,50>Wolfe: You want some? Yeah, you want some of this!"
 		"wolfe.MadFiring2"		"<clr:154,205,50>Wolfe: You want some? Yeah, you want some of this!"
 

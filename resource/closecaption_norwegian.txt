@@ -5,216 +5,216 @@
 {
 		"[english]testcommands"		"<clr:255,0,0>This is red<I> and italics<B> and<cr>bold<B><I><clr:255,255,255> white again."
 		"testcommands"		"<clr:255,0,0>This is red<I> and italics<B> and<cr>bold<B><I><clr:255,255,255> white again."
-		
+
 		//Commander Audio
-		
+
 		"[english]Command.co_m1_ob1"		"<clr:240,255,255>Commander: Okay, squad. We need to check the shipping manifests to see if any survivors made it off this rock. Make your way down to the landing bay and find a terminal where we can download the transport records. I'll check in with you there."
 		"Command.co_m1_ob1"		"<clr:240,255,255>Commander: Okay, squad. We need to check the shipping manifests to see if any survivors made it off this rock. Make your way down to the landing bay and find a terminal where we can download the transport records. I'll check in with you there."
-		
+
 		"[english]Command.co_m1_ob2"		"<clr:240,255,255>Commander: Well, these manifests are useless. Guess record keeping wasn't exactly high on the priority list when the swarm hit. We are now search and rescue until otherwise informed, so keep an eye out for survivors. Head for the far exit and then we'll regroup."
 		"Command.co_m1_ob2"		"<clr:240,255,255>Commander: Well, these manifests are useless. Guess record keeping wasn't exactly high on the priority list when the swarm hit. We are now search and rescue until otherwise informed, so keep an eye out for survivors. Head for the far exit and then we'll regroup."
-		
+
 		"[english]Command.co_m1_ob3"		"<clr:240,255,255>Commander: All right, keep going! Main colony's dead ahead!"
 		"Command.co_m1_ob3"		"<clr:240,255,255>Commander: All right, keep going! Main colony's dead ahead!"
-		
+
 		"[english]Command.co_m1_ob4"		"<clr:240,255,255>Commander: Keep the elevator down to the main mining complex and forward formation to the entrance."
 		"Command.co_m1_ob4"		"<clr:240,255,255>Commander: Keep the elevator down to the main mining complex and forward formation to the entrance."
-		
+
 		"[english]Command.co_m1_ob5"		"<clr:240,255,255>Commander: I'm picking up multiple inbound motion signatures. Something tells me these ain't friendlies. Try to hold out until the elevator arrives."
 		"Command.co_m1_ob5"		"<clr:240,255,255>Commander: I'm picking up multiple inbound motion signatures. Something tells me these ain't friendlies. Try to hold out until the elevator arrives."
-		
+
 		"[english]Command.co_m1_ob6"		"<clr:240,255,255>Commander: We better get to the colony to see what we can find."
 		"Command.co_m1_ob6"		"<clr:240,255,255>Commander: We better get to the colony to see what we can find."
-		
+
 		"[english]Command.co_m1_ob7"		"<clr:240,255,255>Commander: We can't get to the colony from up here, we need to get down to the lower level."
 		"Command.co_m1_ob7"		"<clr:240,255,255>Commander: We can't get to the colony from up here, we need to get down to the lower level."
-		
+
 		"[english]Command.co_m1_ob8"		"<clr:240,255,255>Commander: Get to the exit!"
 		"Command.co_m1_ob8"		"<clr:240,255,255>Commander: Get to the exit!"
-		
+
 		"[english]Command.co_m2_ob1"		"<clr:240,255,255>Commander: The situation isn't pretty. This next sector is completely overrun. There's a pipeline that the Swarm's using as a superhighway to spread through the colony. You go ahead and find the pipeline, and I'll see if we can figure out a way to destroy it. We need to stop these bugs from getting out."
 		"Command.co_m2_ob1"		"<clr:240,255,255>Commander: The situation isn't pretty. This next sector is completely overrun. There's a pipeline that the Swarm's using as a superhighway to spread through the colony. You go ahead and find the pipeline, and I'll see if we can figure out a way to destroy it. We need to stop these bugs from getting out."
-		
+
 		"[english]Command.co_m2_ob2"		"<clr:240,255,255>Commander: Looks like we weren't the only ones who knew the Swarm were using the pipeline. That's a lot of boom packed around that pipe. Miners must have rigged the explosives but never got the chance to set em off. How about you finish what they started?"
 		"Command.co_m2_ob2"		"<clr:240,255,255>Commander: Looks like we weren't the only ones who knew the Swarm were using the pipeline. That's a lot of boom packed around that pipe. Miners must have rigged the explosives but never got the chance to set em off. How about you finish what they started?"
-		
+
 		"[english]Command.co_m2_ob3"		"<clr:240,255,255>Commander: That's the pipeline right above you. Go ahead and blow it now!"
 		"Command.co_m2_ob3"		"<clr:240,255,255>Commander: That's the pipeline right above you. Go ahead and blow it now!"
-		
+
 		"[english]Command.co_m2_ob4"		"<clr:240,255,255>Commander: Looks like power's out in the next area. I got an idea though for lighting up your way."
 		"Command.co_m2_ob4"		"<clr:240,255,255>Commander: Looks like power's out in the next area. I got an idea though for lighting up your way."
-		
+
 		"[english]Command.co_m2_ob5"		"<clr:240,255,255>Commander: Okay, I'm sending in Bloodhound to see if I can't shed a little light on this problem. You try and stay in her lamps while you're crossing the bridge, you should be all right."
 		"Command.co_m2_ob5"		"<clr:240,255,255>Commander: Okay, I'm sending in Bloodhound to see if I can't shed a little light on this problem. You try and stay in her lamps while you're crossing the bridge, you should be all right."
-		
+
 		"[english]Command.co_m2_ob6"		"<clr:240,255,255>Commander: Good job. Now get across."
 		"Command.co_m2_ob6"		"<clr:240,255,255>Commander: Good job. Now get across."
-		
+
 		"[english]Command.co_m2_ob7"		"<clr:240,255,255>Commander: Okay, I'm gonna bring Bloodhound in low and hover. You climb across her back while she's waiting. Step lightly now. She's gotta bring you home at the end of this."
 		"Command.co_m2_ob7"		"<clr:240,255,255>Commander: Okay, I'm gonna bring Bloodhound in low and hover. You climb across her back while she's waiting. Step lightly now. She's gotta bring you home at the end of this."
-		
+
 		"[english]Command.co_m2_ob8"		"<clr:240,255,255>Commander: Colony reactor is dead ahead."
 		"Command.co_m2_ob8"		"<clr:240,255,255>Commander: Colony reactor is dead ahead."
-		
+
 		"[english]Command.co_m3_ob1"		"<clr:240,255,255>Commander: Okay Squad, command wants the computers up and running. The colony's reactor was knocked offline by the Swarm attack, so you need to find your way to the reactor core and get that juice back on in there."
 		"Command.co_m3_ob1"		"<clr:240,255,255>Commander: Okay Squad, command wants the computers up and running. The colony's reactor was knocked offline by the Swarm attack, so you need to find your way to the reactor core and get that juice back on in there."
-		
+
 		"[english]Command.co_m3_ob2"		"<clr:240,255,255>Commander: Great job, team! Power is on. Command is accessing the colony's computer systems right now. Keep moving, and we'll regroup up ahead."
 		"Command.co_m3_ob2"		"<clr:240,255,255>Commander: Great job, team! Power is on. Command is accessing the colony's computer systems right now. Keep moving, and we'll regroup up ahead."
-		
+
 		"[english]Command.co_m3_ob3"		"<clr:240,255,255>Commander: Okay, Squad. Word just came down from on high. I'm gonna be straight with you, it's all bad. Command didn't like what the colony's computer system had to say. Looks like the colonists are dead. Means the infestation is out of control, and they've decided to introduce the Swarm to the wonders of the nuclear age. They've uploaded detonation codes into the mine's nuclear excavation device—basically a nuclear warhead—and they need you to deliver it into the heart of the Swarm's nest. Head toward residential, and I'll find you a path to the bomb."
 		"Command.co_m3_ob3"		"<clr:240,255,255>Commander: Okay, Squad. Word just came down from on high. I'm gonna be straight with you, it's all bad. Command didn't like what the colony's computer system had to say. Looks like the colonists are dead. Means the infestation is out of control, and they've decided to introduce the Swarm to the wonders of the nuclear age. They've uploaded detonation codes into the mine's nuclear excavation device—basically a nuclear warhead—and they need you to deliver it into the heart of the Swarm's nest. Head toward residential, and I'll find you a path to the bomb."
-		
+
 		"[english]Command.co_m4_ob1"		"<clr:240,255,255>Commander: All right, sensors show a massive build-up of eggs and biomass in this sector. Make yourselves a little room to work. Clear out the infestation. Burn them if you have to, but be advised, destroying biomass calls the Swarm."
 		"Command.co_m4_ob1"		"<clr:240,255,255>Commander: All right, sensors show a massive build-up of eggs and biomass in this sector. Make yourselves a little room to work. Clear out the infestation. Burn them if you have to, but be advised, destroying biomass calls the Swarm."
-		
+
 		"[english]Command.co_m4_ob2"		"<clr:240,255,255>Commander: Looks like more biomass ahead; get a firing solution on that problem."
 		"Command.co_m4_ob2"		"<clr:240,255,255>Commander: Looks like more biomass ahead; get a firing solution on that problem."
-		
+
 		"[english]Command.co_m4_ob3"		"<clr:240,255,255>Commander: All right, you've almost cleared out the last of it. Keep pushing forward."
 		"Command.co_m4_ob3"		"<clr:240,255,255>Commander: All right, you've almost cleared out the last of it. Keep pushing forward."
-		
+
 		"[english]Command.co_m4_ob4"		"<clr:240,255,255>Commander: Just a few more eggs to go."
 		"Command.co_m4_ob4"		"<clr:240,255,255>Commander: Just a few more eggs to go."
-		
+
 		"[english]Command.co_m4_ob5"		"<clr:240,255,255>Commander: You cleared out the area, time to get to the Swarm nest. Take the elevator down."
 		"Command.co_m4_ob5"		"<clr:240,255,255>Commander: You cleared out the area, time to get to the Swarm nest. Take the elevator down."
-		
+
 		"[english]Command.co_m5_ob1"		"<clr:240,255,255>Commander: Okay Squad. I'm picking up major swarm at sewer junction 16."
 		"Command.co_m5_ob1"		"<clr:240,255,255>Commander: Okay Squad. I'm picking up major swarm at sewer junction 16."
-		
+
 		"[english]Command.co_m5_ob2"		"<clr:240,255,255>Commander: I'm picking up massive kinetic signatures in one of the old maintenance tunnels. Remember, these eggs are full of parasites. Take 'em out on sight."
 		"Command.co_m5_ob2"		"<clr:240,255,255>Commander: I'm picking up massive kinetic signatures in one of the old maintenance tunnels. Remember, these eggs are full of parasites. Take 'em out on sight."
-		
+
 		"[english]Command.co_m5_ob3"		"<clr:240,255,255>Commander: Okay Squad. Moisture's dripping off those walls. Looks like an ideal breeding ground for swarm parasites. Keep a sharp eye out. If you get infested, call a medic. Your best chance is to destroy the eggs before they pop."
 		"Command.co_m5_ob3"		"<clr:240,255,255>Commander: Okay Squad. Moisture's dripping off those walls. Looks like an ideal breeding ground for swarm parasites. Keep a sharp eye out. If you get infested, call a medic. Your best chance is to destroy the eggs before they pop."
-		
+
 		"[english]Command.co_m5_ob4"		"<clr:240,255,255>Commander: Okay, team, we need to seal the tunnel entrance. This will help keep the swarm off your backs as you move deeper into the colony."
 		"Command.co_m5_ob4"		"<clr:240,255,255>Commander: Okay, team, we need to seal the tunnel entrance. This will help keep the swarm off your backs as you move deeper into the colony."
-		
+
 		"[english]Command.co_m5_ob5"		"<clr:240,255,255>Commander: Okay, Squad. I think I've found a shortcut for you. I'm detecting a breach in the facility's northwest wall. Move the squad through that breach and regain access to the surface."
 		"Command.co_m5_ob5"		"<clr:240,255,255>Commander: Okay, Squad. I think I've found a shortcut for you. I'm detecting a breach in the facility's northwest wall. Move the squad through that breach and regain access to the surface."
-		
+
 		"[english]Command.co_m6_ob1"		"<clr:240,255,255>Commander: Alright, the bomb is just up ahead!"
 		"Command.co_m6_ob1"		"<clr:240,255,255>Commander: Alright, the bomb is just up ahead!"
-		
+
 		"[english]Command.co_m6_ob2"		"<clr:240,255,255>Commander: We've got new kinetic signatures breaking out all across the map. This doesn't look good."
 		"Command.co_m6_ob2"		"<clr:240,255,255>Commander: We've got new kinetic signatures breaking out all across the map. This doesn't look good."
-		
+
 		"[english]Command.co_m6_ob3"		"<clr:240,255,255>Commander: Alright, there's the bomb! You'll need to use the mine's rail system to get that thing into the nest. Remember, losing this fight is not an option. We're gonna sterilize this rock right down to its bare molecules."
 		"Command.co_m6_ob3"		"<clr:240,255,255>Commander: Alright, there's the bomb! You'll need to use the mine's rail system to get that thing into the nest. Remember, losing this fight is not an option. We're gonna sterilize this rock right down to its bare molecules."
-		
+
 		"[english]Command.co_m6_ob4"		"<clr:240,255,255>Commander: Okay, first thing's first. You need to reactivate the power substation for the cable railway. This'll start the warhead on its path toward the breeding chamber."
 		"Command.co_m6_ob4"		"<clr:240,255,255>Commander: Okay, first thing's first. You need to reactivate the power substation for the cable railway. This'll start the warhead on its path toward the breeding chamber."
-		
+
 		"[english]Command.co_m6_ob5"		"<clr:240,255,255>Commander: Alright, there are two doors that you're going to need to hack to move the warhead into position. Get 'em open."
 		"Command.co_m6_ob5"		"<clr:240,255,255>Commander: Alright, there are two doors that you're going to need to hack to move the warhead into position. Get 'em open."
-		
+
 		"[english]Command.co_m6_ob6"		"<clr:240,255,255>Commander: Once the warhead is in position, activate the detonation sequence. After that, you're gonna need to back-track your way up to the surface to reach your extraction zone."
 		"Command.co_m6_ob6"		"<clr:240,255,255>Commander: Once the warhead is in position, activate the detonation sequence. After that, you're gonna need to back-track your way up to the surface to reach your extraction zone."
-		
+
 		"[english]Command.co_m6_ob7"		"<clr:240,255,255>Commander: Alright squad, the clock is ticking. You do NOT want to be there when that device goes off. Trust me, it would ruin your whole day."
 		"Command.co_m6_ob7"		"<clr:240,255,255>Commander: Alright squad, the clock is ticking. You do NOT want to be there when that device goes off. Trust me, it would ruin your whole day."
-		
+
 		"[english]Command.co_m6_ob8"		"<clr:240,255,255>Commander: Head out the same way you came! We'll pick you up on the surface!"
 		"Command.co_m6_ob8"		"<clr:240,255,255>Commander: Head out the same way you came! We'll pick you up on the surface!"
-		
+
 		"[english]Command.co_m6_ob9"		"<clr:240,255,255>Commander: Gang, you need to be high speed, low drag on this operation."
 		"Command.co_m6_ob9"		"<clr:240,255,255>Commander: Gang, you need to be high speed, low drag on this operation."
-		
+
 		"[english]Command.co_m6_ob10"		"<clr:240,255,255>Commander: Time is running out! You've got to pick up the pace."
 		"Command.co_m6_ob10"		"<clr:240,255,255>Commander: Time is running out! You've got to pick up the pace."
-		
+
 		"[english]Command.co_m6_ob11"		"<clr:240,255,255>Commander: You need to hustle. You're almost out of time."
 		"Command.co_m6_ob11"		"<clr:240,255,255>Commander: You need to hustle. You're almost out of time."
-		
+
 		"[english]Command.co_m6_ob12"		"<clr:240,255,255>Commander: Squad, you need to run like your lives depend on it. 'Cuz they do!"
 		"Command.co_m6_ob12"		"<clr:240,255,255>Commander: Squad, you need to run like your lives depend on it. 'Cuz they do!"
-		
+
 		"[english]Command.co_m6_ob13"		"<clr:240,255,255>Commander: There's not much time left."
 		"Command.co_m6_ob13"		"<clr:240,255,255>Commander: There's not much time left."
-		
+
 		"[english]Command.co_m6_ob14"		"<clr:240,255,255>Commander: You're running out of time!"
 		"Command.co_m6_ob14"		"<clr:240,255,255>Commander: You're running out of time!"
-		
+
 		"[english]Command.co_m6_ob15"		"<clr:240,255,255>Commander: Pick up the pace, or you're not going to make it!"
 		"Command.co_m6_ob15"		"<clr:240,255,255>Commander: Pick up the pace, or you're not going to make it!"
-		
+
 		"[english]Command.co_m6_ob16"		"<clr:240,255,255>Commander: Squad, you need to get out of there, NOW!"
 		"Command.co_m6_ob16"		"<clr:240,255,255>Commander: Squad, you need to get out of there, NOW!"
-		
+
 		"[english]Command.co_m6_ob17"		"<clr:240,255,255>Commander: Ten seconds left!"
 		"Command.co_m6_ob17"		"<clr:240,255,255>Commander: Ten seconds left!"
-		
+
 		"[english]Command.co_m6_ob18"		"<clr:240,255,255>Commander: You almost made it."
 		"Command.co_m6_ob18"		"<clr:240,255,255>Commander: You almost made it."
-		
+
 		"[english]Command.co_m6_ob19"		"<clr:240,255,255>Commander: I'm sorry. I'll notify your next of kin."
 		"Command.co_m6_ob19"		"<clr:240,255,255>Commander: I'm sorry. I'll notify your next of kin."
-		
+
 		"[english]Command.co_m6_ob20"		"<clr:240,255,255>Commander: It was an honor serving with you. You will be remembered."
 		"Command.co_m6_ob20"		"<clr:240,255,255>Commander: It was an honor serving with you. You will be remembered."
-		
+
 		"[english]Command.co_m6_ob21"		"<clr:240,255,255>Commander: It was an honor to serve with each and every one of you. You made the ultimate sacrifice."
 		"Command.co_m6_ob21"		"<clr:240,255,255>Commander: It was an honor to serve with each and every one of you. You made the ultimate sacrifice."
 
 "[english]Command.co_m6_ob22"		"<clr:240,255,255>Commander: Good work, mission accomplished!"
 "Command.co_m6_ob22"		"<clr:240,255,255>Kommandør: Bra arbeid, oppdrag utført!"
-		
+
 		"[english]Command.co_m6_ob23"		"<clr:240,255,255>Commander: Mission accomplished!"
 		"Command.co_m6_ob23"		"<clr:240,255,255>Commander: Mission accomplished!"
-		
+
 		"[english]Command.co_m6_ob24"		"<clr:240,255,255>Commander: You did it! The bomb's gone off! The Swarm threat has been exterminated."
 		"Command.co_m6_ob24"		"<clr:240,255,255>Commander: You did it! The bomb's gone off! The Swarm threat has been exterminated."
-		
+
 		"[english]Command.co_m6_ob25"		"<clr:240,255,255>Commander: The nuke is blocked! Clear up the biomass to free it up!"
 		"Command.co_m6_ob25"		"<clr:240,255,255>Commander: The nuke is blocked! Clear up the biomass to free it up!"
-		
+
 		"[english]Command.co_m6_ob26"		"<clr:240,255,255>Commander: Landing pads overun! Bloodhound's coming in! Jump on our back and we'll get you out of there!"
 		"Command.co_m6_ob26"		"<clr:240,255,255>Commander: Landing pads overun! Bloodhound's coming in! Jump on our back and we'll get you out of there!"
-		
+
 		"[english]Command.co_m6_ob27"		"<clr:240,255,255>Commander: Yeah! We made it!"
 		"Command.co_m6_ob27"		"<clr:240,255,255>Commander: Yeah! We made it!"
-		
+
 		"[english]Command.co_hold_ob1"		"<clr:240,255,255>Commander: Alright, squad, you made it to the extraction zone. Command ship is inbound. You just need to hold out until I get there."
 		"Command.co_hold_ob1"		"<clr:240,255,255>Commander: Alright, squad, you made it to the extraction zone. Command ship is inbound. You just need to hold out until I get there."
-		
+
 		"[english]Command.co_hold_ob2"		"<clr:240,255,255>Commander: Almost there, squad."
 		"Command.co_hold_ob2"		"<clr:240,255,255>Commander: Almost there, squad."
-		
+
 		"[english]Command.co_hold_ob3"		"<clr:240,255,255>Commander: Hang in there, squad. I'm on my way!"
 		"Command.co_hold_ob3"		"<clr:240,255,255>Commander: Hang in there, squad. I'm on my way!"
-		
+
 		"[english]Command.co_hold_ob4"		"<clr:240,255,255>Commander: Coming in hot!"
 		"Command.co_hold_ob4"		"<clr:240,255,255>Commander: Coming in hot!"
-		
+
 		"[english]Command.co_debriefing_ob1"		"<clr:240,255,255>Commander: Objective completed! Good work, marines."
 		"Command.co_debriefing_ob1"		"<clr:240,255,255>Commander: Objective completed! Good work, marines."
-		
+
 		"[english]Command.co_debriefing_ob2"		"<clr:240,255,255>Commander: Analysis of the flight recorder from the escape pod shows a number of vessels did successfully break orbit and leave Vereon XII. Looks like a handful of SynTek officers and colonists."
 		"Command.co_debriefing_ob2"		"<clr:240,255,255>Commander: Analysis of the flight recorder from the escape pod shows a number of vessels did successfully break orbit and leave Vereon XII. Looks like a handful of SynTek officers and colonists."
-		
+
 		"[english]Command.co_debriefing_ob3"		"<clr:240,255,255>Commander: We also show a small container left the atmosphere without broadcasting ID codes. All launch data for this vessel has been scrambled by persons unknown. We've dispatched scout vessels to search the immediate vicinity, but given its size and the unknown trajectory, the chances of finding it are slim."
 		"Command.co_debriefing_ob3"		"<clr:240,255,255>Commander: We also show a small container left the atmosphere without broadcasting ID codes. All launch data for this vessel has been scrambled by persons unknown. We've dispatched scout vessels to search the immediate vicinity, but given its size and the unknown trajectory, the chances of finding it are slim."
-		
+
 		"[english]Command.co_debriefing_ob4"		"<clr:240,255,255>Commander: Everybody has to be on that lift before it'll activate."
 		"Command.co_debriefing_ob4"		"<clr:240,255,255>Commander: Everybody has to be on that lift before it'll activate."
-		
+
 		"[english]Command.co_debriefing_ob5"		"<clr:240,255,255>Commander: Good work destroying the pipeline, Squad. This should hinder Swarm movement within the colony."
 		"Command.co_debriefing_ob5"		"<clr:240,255,255>Commander: Good work destroying the pipeline, Squad. This should hinder Swarm movement within the colony."
-		
+
 		"[english]Command.co_debriefing_ob6"		"<clr:240,255,255>Commander: We are showing the reactor back up and running at full efficiency. Great job!"
 		"Command.co_debriefing_ob6"		"<clr:240,255,255>Commander: We are showing the reactor back up and running at full efficiency. Great job!"
-		
+
 		"[english]Command.co_debriefing_ob7"		"<clr:240,255,255>Commander: The data you recovered shows a number of SynTek Security personnel attempted to fight back the infestation. We can assume at this point that they were unsuccessful."
 		"Command.co_debriefing_ob7"		"<clr:240,255,255>Commander: The data you recovered shows a number of SynTek Security personnel attempted to fight back the infestation. We can assume at this point that they were unsuccessful."
-		
+
 		"[english]Command.co_debriefing_ob8"		"<clr:240,255,255>Commander: With the sewer access tunnel sealed, the Swarm have only one way to the surface."
 		"Command.co_debriefing_ob8"		"<clr:240,255,255>Commander: With the sewer access tunnel sealed, the Swarm have only one way to the surface."
-		
+
 		"[english]Command.co_debriefing_ob9"		"<clr:240,255,255>Commander: Excellent work, Commander. The thermonuclear device detonated by your squad has destroyed the bulk of the Swarm forces beneath the surface. We estimate in excess of 200 eggs and countless Swarm drones have been wiped out by the detonation."
 		"Command.co_debriefing_ob9"		"<clr:240,255,255>Commander: Excellent work, Commander. The thermonuclear device detonated by your squad has destroyed the bulk of the Swarm forces beneath the surface. We estimate in excess of 200 eggs and countless Swarm drones have been wiped out by the detonation."
-		
+
 		"[english]Command.co_debriefing_ob10"		"<clr:240,255,255>Commander: We are still detecting a single large heat source in a deep, well protected chamber. IAF Command is making investigation of this a priority."
 		"Command.co_debriefing_ob10"		"<clr:240,255,255>Commander: We are still detecting a single large heat source in a deep, well protected chamber. IAF Command is making investigation of this a priority."
 
@@ -244,10 +244,10 @@
 
 "[english]bastille.TequilaReply0"		"<clr:205,127,50>Bastille: I gave up that stuff a long time ago."
 "bastille.TequilaReply0"		"<clr:205,127,50>Bastille: Jeg ga opp det der for lenge siden."
-		
+
 		"[english]bastille.CrashIdleReply0"		"<clr:205,127,50>Bastille: Trying to keep your sorry ass alive."
 		"bastille.CrashIdleReply0"		"<clr:205,127,50>Bastille: Trying to keep your sorry ass alive."
-		
+
 		"[english]bastille.InjuredSelection0"		"<clr:205,127,50>Bastille: Are we leaving?"
 		"bastille.InjuredSelection0"		"<clr:205,127,50>Bastille: Are we leaving?"
 
@@ -256,7 +256,7 @@
 
 "[english]bastille.InjuredSelection2"		"<clr:205,127,50>Bastille: This whole place is getting to hell!"
 "bastille.InjuredSelection2"		"<clr:205,127,50>Bastille: Hele dette stedet går til helvete!"
-		
+
 		"[english]bastille.InjuredSelection3"		"<clr:205,127,50>Bastille: This whole place is getting to hell!"
 		"bastille.InjuredSelection3"		"<clr:205,127,50>Bastille: This whole place is getting to hell!"
 
@@ -271,10 +271,10 @@
 
 "[english]bastille.SeriousInjuryFollowUp1"		"<clr:205,127,50>Bastille: Just take it easy, doctor's orders."
 "bastille.SeriousInjuryFollowUp1"		"<clr:205,127,50>Bastille: Bare ta det med ro, legens ordre."
-		
+
 		"[english]bastille.SeriousInjury0"		"<clr:205,127,50>Bastille: Be careful, the wound might still open."
 		"bastille.SeriousInjury0"		"<clr:205,127,50>Bastille: Be careful, the wound might still open."
-		
+
 		"[english]bastille.SeriousInjury1"		"<clr:205,127,50>Bastille: Good news, you're off the next mission."
 		"bastille.SeriousInjury1"		"<clr:205,127,50>Bastille: Good news, you're off the next mission."
 
@@ -322,7 +322,7 @@
 
 "[english]bastille.Idle2"		"<clr:205,127,50>Bastille: If I knew, I would've stayed home."
 "bastille.Idle2"		"<clr:205,127,50>Bastille: Hvis jeg visste, ville jeg ha blitt hjemme."
-		
+
 		"[english]bastille.Idle3"		"<clr:205,127,50>Bastille: Keep quiet."
 		"bastille.Idle3"		"<clr:205,127,50>Bastille: Keep quiet."
 
@@ -331,7 +331,7 @@
 
 "[english]bastille.Idle5"		"<clr:205,127,50>Bastille: Great, now I'm hearing things."
 "bastille.Idle5"		"<clr:205,127,50>Bastille: Flott, nå hører jeg ting."
-		
+
 		"[english]bastille.Idle6"		"<clr:205,127,50>Bastille: I don't like it down here."
 		"bastille.Idle6"		"<clr:205,127,50>Bastille: I don't like it down here."
 
@@ -352,7 +352,7 @@
 
 "[english]bastille.Idle12"		"<clr:205,127,50>Bastille: Looks like nobody's home."
 "bastille.Idle12"		"<clr:205,127,50>Bastille: Ser ikke ut som om noen er hjemme."
-		
+
 		"[english]bastille.Idle13"		"<clr:205,127,50>Bastille: Stay sharp, mes amis."
 		"bastille.Idle13"		"<clr:205,127,50>Bastille: Stay sharp, mes amis."
 
@@ -415,7 +415,7 @@
 
 "[english]bastille.FollowMe3"		"<clr:205,127,50>Bastille: Hurry!"
 "bastille.FollowMe3"		"<clr:205,127,50>Bastille: Skynd dere!"
-		
+
 		"[english]bastille.FollowMe4"		"<clr:205,127,50>Bastille: Hurry, hurry!"
 		"bastille.FollowMe4"		"<clr:205,127,50>Bastille: Hurry, hurry!"
 
@@ -505,7 +505,7 @@
 
 "[english]bastille.Misc9"		"<clr:205,127,50>Bastille: This door's been sealed shut."
 "bastille.Misc9"		"<clr:205,127,50>Bastille: Denne døren er blitt forseglet stengt."
-		
+
 		"[english]bastille.Misc10"		"<clr:205,127,50>Bastille: Well this place is alike a castle now."
 		"bastille.Misc10"		"<clr:205,127,50>Bastille: Well this place is alike a castle now."
 
@@ -691,7 +691,7 @@
 
 "[english]bastille.HoldingNorth1"		"<clr:205,127,50>Bastille: Covering northside."
 "bastille.HoldingNorth1"		"<clr:205,127,50>Bastille: Dekker nordsiden."
-		
+
 		"[english]bastille.HoldingNorth2"		"<clr:205,127,50>Bastille: I've got the north."
 		"bastille.HoldingNorth2"		"<clr:205,127,50>Bastille: I've got the north."
 
@@ -703,7 +703,7 @@
 
 "[english]bastille.HoldingSouth1"		"<clr:205,127,50>Bastille: Covering southside."
 "bastille.HoldingSouth1"		"<clr:205,127,50>Bastille: Dekker sørsiden."
-		
+
 		"[english]bastille.HoldingSouth2"		"<clr:205,127,50>Bastille: I've got the south."
 		"bastille.HoldingSouth2"		"<clr:205,127,50>Bastille: I've got the south."
 
@@ -715,7 +715,7 @@
 
 "[english]bastille.HoldingEast1"		"<clr:205,127,50>Bastille: Covering eastside."
 "bastille.HoldingEast1"		"<clr:205,127,50>Bastille: Dekker østsiden."
-		
+
 		"[english]bastille.HoldingEast2"		"<clr:205,127,50>Bastille: I've got the east."
 		"bastille.HoldingEast2"		"<clr:205,127,50>Bastille: I've got the east."
 
@@ -727,7 +727,7 @@
 
 "[english]bastille.HoldingWest1"		"<clr:205,127,50>Bastille: Covering westside."
 "bastille.HoldingWest1"		"<clr:205,127,50>Bastille: Dekker vestsiden."
-		
+
 		"[english]bastille.HoldingWest2"		"<clr:205,127,50>Bastille: I've got the west."
 		"bastille.HoldingWest2"		"<clr:205,127,50>Bastille: I've got the west."
 
@@ -760,7 +760,7 @@
 
 "[english]bastille.RequestSealDoor3"		"<clr:205,127,50>Bastille: Someone secure the door."
 "bastille.RequestSealDoor3"		"<clr:205,127,50>Bastille: Noen sikre døren."
-		
+
 		"[english]bastille.RequestCutDoor0"		"<clr:205,127,50>Bastille: Cut the door open."
 		"bastille.RequestCutDoor0"		"<clr:205,127,50>Bastille: Cut the door open."
 
@@ -796,19 +796,19 @@
 
 "[english]bastille.SealingDoor1"		"<clr:205,127,50>Bastille: Sealing door."
 "bastille.SealingDoor1"		"<clr:205,127,50>Bastille: Forsegler døren."
-		
+
 		"[english]bastille.Biomass0"		"<clr:205,127,50>Bastille: Biomass! I hope you like the smell of burning alien flesh."
 		"bastille.Biomass0"		"<clr:205,127,50>Bastille: Biomass! I hope you like the smell of burning alien flesh."
-		
+
 		"[english]bastille.Biomass1"		"<clr:205,127,50>Bastille: Swarm biomass, burn it out!"
 		"bastille.Biomass1"		"<clr:205,127,50>Bastille: Swarm biomass, burn it out!"
-		
+
 		"[english]bastille.Biomass2"		"<clr:205,127,50>Bastille: Swarm biomass. Fascinating."
 		"bastille.Biomass2"		"<clr:205,127,50>Bastille: Swarm biomass. Fascinating."
 
 "[english]bastille.TimeToLeave0"		"<clr:205,127,50>Bastille: Objectives complete, let's get out of here!"
 "bastille.TimeToLeave0"		"<clr:205,127,50>Bastille: Mål fullført, la oss komme oss vekk herfra!"
-		
+
 		"[english]bastille.TimeToLeave1"		"<clr:205,127,50>Bastille: Time to leave and not a moment too soon."
 		"bastille.TimeToLeave1"		"<clr:205,127,50>Bastille: Time to leave and not a moment too soon."
 
@@ -829,10 +829,10 @@
 
 "[english]bastille.Shieldbug0"		"<clr:205,127,50>Bastille: A shield bug!"
 "bastille.Shieldbug0"		"<clr:205,127,50>Bastille: Et beskyttelses-insekt!"
-		
+
 		"[english]bastille.Shieldbug1"		"<clr:205,127,50>Bastille: Putain! A shield bug!"
 		"bastille.Shieldbug1"		"<clr:205,127,50>Bastille: Putain! A shield bug!"
-		
+
 		"[english]bastille.Shieldbug2"		"<clr:205,127,50>Bastille: We've got a big one!"
 		"bastille.Shieldbug2"		"<clr:205,127,50>Bastille: We've got a big one!"
 
@@ -844,7 +844,7 @@
 
 "[english]bastille.ShieldbugHint2"		"<clr:205,127,50>Bastille: Shoot it in the back."
 "bastille.ShieldbugHint2"		"<clr:205,127,50>Bastille: Skyt den i ryggen."
-		
+
 		"[english]bastille.Parasite0"		"<clr:205,127,50>Bastille: Careful, a parasite!"
 		"bastille.Parasite0"		"<clr:205,127,50>Bastille: Careful, a parasite!"
 
@@ -859,7 +859,7 @@
 
 "[english]bastille.BeenInfested1"		"<clr:205,127,50>Bastille: Get it off!"
 "bastille.BeenInfested1"		"<clr:205,127,50>Bastille: Få den vekk!"
-		
+
 		"[english]bastille.BeenInfested2"		"<clr:205,127,50>Bastille: Parasite on me!"
 		"bastille.BeenInfested2"		"<clr:205,127,50>Bastille: Parasite on me!"
 
@@ -880,7 +880,7 @@
 
 "[english]bastille.Grenade2"		"<clr:205,127,50>Bastille: Grenade!"
 "bastille.Grenade2"		"<clr:205,127,50>Bastille: Granat!"
-		
+
 		"[english]bastille.AlienTooClose0"		"<clr:205,127,50>Bastille: Bastard piece of shit!"
 		"bastille.AlienTooClose0"		"<clr:205,127,50>Bastille: Bastard piece of shit!"
 
@@ -898,13 +898,13 @@
 
 "[english]bastille.AlienTooClose5"		"<clr:205,127,50>Bastille: On me!"
 "bastille.AlienTooClose5"		"<clr:205,127,50>Bastille: På meg!"
-		
+
 		"[english]bastille.MadFiring0"		"<clr:205,127,50>Bastille: Putain de merde, saloperie de merde, encule."
 		"bastille.MadFiring0"		"<clr:205,127,50>Bastille: Putain de merde, saloperie de merde, encule."
 
 "[english]bastille.MadFiring1"		"<clr:205,127,50>Bastille: Eat this, alien scum!"
 "bastille.MadFiring1"		"<clr:205,127,50>Bastille: Kjenn på dette, din utenomjordiske dritt!"
-		
+
 		"[english]bastille.MadFiring2"		"<clr:205,127,50>Bastille: How'd you like a taste of this?"
 		"bastille.MadFiring2"		"<clr:205,127,50>Bastille: How'd you like a taste of this?"
 
@@ -913,10 +913,10 @@
 
 "[english]bastille.BreachedDoor1"		"<clr:205,127,50>Bastille: They're through the door!"
 "bastille.BreachedDoor1"		"<clr:205,127,50>Bastille: De har kommet seg gjennom døren!"
-		
+
 		"[english]bastille.BreachedDoor2"		"<clr:205,127,50>Bastille: They've breached the door!"
 		"bastille.BreachedDoor2"		"<clr:205,127,50>Bastille: They've breached the door!"
-		
+
 		"[english]bastille.BreachedDoor3"		"<clr:205,127,50>Bastille: They've breached the door!"
 		"bastille.BreachedDoor3"		"<clr:205,127,50>Bastille: They've breached the door!"
 
@@ -965,10 +965,10 @@
 
 "[english]bastille.Healing3"		"<clr:205,127,50>Bastille: Get up, you're not dead."
 "bastille.Healing3"		"<clr:205,127,50>Bastille: Kom deg opp, du er ikke død."
-		
+
 		"[english]bastille.Healing4"		"<clr:205,127,50>Bastille: That should do till next time."
 		"bastille.Healing4"		"<clr:205,127,50>Bastille: That should do till next time."
-		
+
 		"[english]bastille.Healing5"		"<clr:205,127,50>Bastille: Get going, keep it up for another week."
 		"bastille.Healing5"		"<clr:205,127,50>Bastille: Get going, keep it up for another week."
 
@@ -989,7 +989,7 @@
 
 "[english]bastille.Healing11"		"<clr:205,127,50>Bastille: There."
 "bastille.Healing11"		"<clr:205,127,50>Bastille: Der."
-		
+
 		"[english]bastille.Healing12"		"<clr:205,127,50>Bastille: There you go, Marine."
 		"bastille.Healing12"		"<clr:205,127,50>Bastille: There you go, Marine."
 
@@ -1004,13 +1004,13 @@
 
 "[english]bastille.Healing16"		"<clr:205,127,50>Bastille: You're not dead."
 "bastille.Healing16"		"<clr:205,127,50>Bastille:Du er ikke død."
-		
+
 		"[english]bastille.Healing17"		"<clr:205,127,50>Bastille: You're not dead, bastard."
 		"bastille.Healing17"		"<clr:205,127,50>Bastille: You're not dead, bastard."
 
 "[english]bastille.Healing18"		"<clr:205,127,50>Bastille: You're still alive, well, I think."
 "bastille.Healing18"		"<clr:205,127,50>Bastille: Du er fremdeles i live, vel, tror jeg."
-		
+
 		"[english]bastille.LowOnMeds0"		"<clr:205,127,50>Bastille: I'm low on medical supplies."
 		"bastille.LowOnMeds0"		"<clr:205,127,50>Bastille: I'm low on medical supplies."
 
@@ -1019,7 +1019,7 @@
 
 "[english]bastille.NoMeds1"		"<clr:205,127,50>Bastille: No more meds."
 "bastille.NoMeds1"		"<clr:205,127,50>Bastille: Ikke mer legemidler igjen."
-		
+
 		"[english]bastille.NoMeds2"		"<clr:205,127,50>Bastille: No more meds, stay sharp, mes amis."
 		"bastille.NoMeds2"		"<clr:205,127,50>Bastille: No more meds, stay sharp, mes amis."
 
@@ -1034,13 +1034,13 @@
 
 "[english]bastille.NoMeds6"		"<clr:205,127,50>Bastille: That's it, no more meds."
 "bastille.NoMeds6"		"<clr:205,127,50>Bastille: Det var det, ikke mer legemidler igjen."
-		
+
 		"[english]bastille.ActivateStims0"		"<clr:205,127,50>Bastille: Activate stims."
 		"bastille.ActivateStims0"		"<clr:205,127,50>Bastille: Activate stims."
-		
+
 		"[english]bastille.ActivateStims1"		"<clr:205,127,50>Bastille: Stim now!"
 		"bastille.ActivateStims1"		"<clr:205,127,50>Bastille: Stim now!"
-		
+
 		"[english]bastille.Compliments0"		"<clr:205,127,50>Bastille: Good kill, mon ami!"
 		"bastille.Compliments0"		"<clr:205,127,50>Bastille: Good kill, mon ami!"
 
@@ -1058,10 +1058,10 @@
 
 "[english]bastille.Selection2"		"<clr:205,127,50>Bastille: Commander!"
 "bastille.Selection2"		"<clr:205,127,50>Bastille: Kommandør!"
-		
+
 		"[english]bastille.Selection3"		"<clr:205,127,50>Bastille: Medic reporting."
 		"bastille.Selection3"		"<clr:205,127,50>Bastille: Medic reporting."
-		
+
 		"[english]bastille.Selection4"		"<clr:205,127,50>Bastille: Reporting."
 		"bastille.Selection4"		"<clr:205,127,50>Bastille: Reporting."
 
@@ -1070,8 +1070,8 @@
 
 "[english]crash.SargeIdleReply0"		"<clr:238,180,34>Crash: You really know how to make a squad feel safe, Sarge."
 "crash.SargeIdleReply0"		"<clr:238,180,34>Crash: Du vet virkelig hvordan å få en tropp til å føle seg trygg, Sarge."
-		
-		
+
+
 		"[english]crash.SargeIdleReply1"		"<clr:238,180,34>Crash: That mean you wanna go home now, Sarge?"
 		"crash.SargeIdleReply1"		"<clr:238,180,34>Crash: That mean you wanna go home now, Sarge?"
 
@@ -1087,7 +1087,7 @@
 
 "[english]crash.CrashComplainReply0"		"<clr:238,180,34>Crash: You're not helping!"
 "crash.CrashComplainReply0"		"<clr:238,180,34>Crash: Du hjelper ikke!"
-		
+
 		"[english]crash.CrashComplain0"		"<clr:238,180,34>Crash: I can't stand this place much longer."
 		"crash.CrashComplain0"		"<clr:238,180,34>Crash: I can't stand this place much longer."
 
@@ -1109,10 +1109,10 @@
 
 "[english]crash.InjuredSelection1"		"<clr:238,180,34>Crash: I didn't sign up for this!"
 "crash.InjuredSelection1"		"<clr:238,180,34>Crash: Dette var ikke det jeg meldte meg til!"
-		
+
 		"[english]crash.InjuredSelection4"		"<clr:238,180,34>Crash: Sigma campaign wasn't this tough."
 		"crash.InjuredSelection4"		"<clr:238,180,34>Crash: Sigma campaign wasn't this tough."
-		
+
 		"[english]crash.SeriousInjuryReply0"		"<clr:238,180,34>Crash: Whoo-dee-friggin--OW! God damn!"
 		"crash.SeriousInjuryReply0"		"<clr:238,180,34>Crash: Whoo-dee-friggin--OW! God damn!"
 
@@ -1133,13 +1133,13 @@
 
 "[english]crash.Idle0"		"<clr:238,180,34>Crash: This place is a mess."
 "crash.Idle0"		"<clr:238,180,34>Crash: Dette stedet er et rot."
-		
+
 		"[english]crash.Idle1"		"<clr:238,180,34>Crash: Can we go now? I'm due some more cryosleep."
 		"crash.Idle1"		"<clr:238,180,34>Crash: Can we go now? I'm due some more cryosleep."
-		
+
 		"[english]crash.Idle2"		"<clr:238,180,34>Crash: I'll bet the Command knew this place was crawling."
 		"crash.Idle2"		"<clr:238,180,34>Crash: I'll bet the Command knew this place was crawling."
-		
+
 		"[english]crash.Idle3"		"<clr:238,180,34>Crash: I shoulda stolen more money to put up with this shit."
 		"crash.Idle3"		"<clr:238,180,34>Crash: I shoulda stolen more money to put up with this shit."
 
@@ -1247,10 +1247,10 @@
 
 "[english]crash.Thanks1"		"<clr:238,180,34>Crash: Thank you."
 "crash.Thanks1"		"<clr:238,180,34>Crash: Takk."
-		
+
 		"[english]crash.Question0"		"<clr:238,180,34>Crash: Huh?"
 		"crash.Question0"		"<clr:238,180,34>Crash: Huh?"
-		
+
 		"[english]crash.Question1"		"<clr:238,180,34>Crash: What?"
 		"crash.Question1"		"<clr:238,180,34>Crash: What?"
 
@@ -1310,7 +1310,7 @@
 
 "[english]crash.CallVegas1"		"<clr:238,180,34>Crash: Vegas."
 "crash.CallVegas1"		"<clr:238,180,34>Crash: Vegas."
-		
+
 		"[english]crash.SuppliesAmmo0"		"<clr:238,180,34>Crash: All right, a supply stash."
 		"crash.SuppliesAmmo0"		"<clr:238,180,34>Crash: All right, a supply stash."
 
@@ -1319,7 +1319,7 @@
 
 "[english]crash.SuppliesAmmo2"		"<clr:238,180,34>Crash: Oh yeah, that's what I like to see."
 "crash.SuppliesAmmo2"		"<clr:238,180,34>Crash: Jadda, det er det jeg liker å se."
-		
+
 		"[english]crash.Supplies0"		"<clr:238,180,34>Crash: All right, a supply stash!"
 		"crash.Supplies0"		"<clr:238,180,34>Crash: All right, a supply stash!"
 
@@ -1349,7 +1349,7 @@
 
 "[english]crash.HoldingNorth2"		"<clr:238,180,34>Crash: Northside, in position."
 "crash.HoldingNorth2"		"<clr:238,180,34>Crash: Nordsiden i posisjon."
-		
+
 		"[english]crash.HoldingNorth3"		"<clr:238,180,34>Crash: Northside, standing to."
 		"crash.HoldingNorth3"		"<clr:238,180,34>Crash: Northside, standing to."
 
@@ -1370,7 +1370,7 @@
 
 "[english]crash.HoldingEast2"		"<clr:238,180,34>Crash: Eastside in position."
 "crash.HoldingEast2"		"<clr:238,180,34>Crash: Østsiden i posisjon."
-		
+
 		"[english]crash.HoldingEast3"		"<clr:238,180,34>Crash: Eastside, standing to."
 		"crash.HoldingEast3"		"<clr:238,180,34>Crash: Eastside, standing to."
 
@@ -1382,13 +1382,13 @@
 
 "[english]crash.HoldingWest2"		"<clr:238,180,34>Crash: Westside in position."
 "crash.HoldingWest2"		"<clr:238,180,34>Crash: Vestsiden i posisjon."
-		
+
 		"[english]crash.HoldingWest3"		"<clr:238,180,34>Crash: Westside, standing to."
 		"crash.HoldingWest3"		"<clr:238,180,34>Crash: Westside, standing to."
 
 "[english]crash.GotPoint0"		"<clr:238,180,34>Crash: Crash, taking point."
 "crash.GotPoint0"		"<clr:238,180,34>Crash: Crash, tar ledelse."
-		
+
 		"[english]crash.GotRear0"		"<clr:238,180,34>Crash: Crash taking rearguard."
 		"crash.GotRear0"		"<clr:238,180,34>Crash: Crash taking rearguard."
 
@@ -1430,16 +1430,16 @@
 
 "[english]crash.SealingDoor1"		"<clr:238,180,34>Crash: Sealing door nice and tight."
 "crash.SealingDoor1"		"<clr:238,180,34>Crash: Forsegler døren fint og tett."
-		
+
 		"[english]crash.Biomass0"		"<clr:238,180,34>Crash: Swarm biomass--burn it all!"
 		"crash.Biomass0"		"<clr:238,180,34>Crash: Swarm biomass--burn it all!"
-		
+
 		"[english]crash.Biomass1"		"<clr:238,180,34>Crash: Biomass? Man, I hate this shit."
 		"crash.Biomass1"		"<clr:238,180,34>Crash: Biomass? Man, I hate this shit."
-		
+
 		"[english]crash.Biomass2"		"<clr:238,180,34>Crash: Biocrap. What the hell is this stuff anyway?"
 		"crash.Biomass2"		"<clr:238,180,34>Crash: Biocrap. What the hell is this stuff anyway?"
-		
+
 		"[english]crash.Biomass3"		"<clr:238,180,34>Crash: Urgh, swarm biomass. Burn it!"
 		"crash.Biomass3"		"<clr:238,180,34>Crash: Urgh, swarm biomass. Burn it!"
 
@@ -1460,7 +1460,7 @@
 
 "[english]crash.WatchOut2"		"<clr:238,180,34>Crash: Watch out!"
 "crash.WatchOut2"		"<clr:238,180,34>Crash: Se opp!"
-		
+
 		"[english]crash.Shieldbug0"		"<clr:238,180,34>Crash: Holy Shit!"
 		"crash.Shieldbug0"		"<clr:238,180,34>Crash: Holy Shit!"
 
@@ -1474,7 +1474,7 @@
 
 "[english]crash.ShieldbugHint1"		"<clr:238,180,34>Crash: Shoot it in the back!"
 "crash.ShieldbugHint1"		"<clr:238,180,34>Crash: Skyt den i ryggen!"
-		
+
 		"[english]crash.ShieldbugHint2"		"<clr:238,180,34>Crash: Someone grenade it!"
 		"crash.ShieldbugHint2"		"<clr:238,180,34>Crash: Someone grenade it!"
 
@@ -1531,7 +1531,7 @@
 
 "[english]crash.MadFiring0"		"<clr:238,180,34>Crash: Come on."
 "crash.MadFiring0"		"<clr:238,180,34>Crash: Kom igjen."
-		
+
 		"[english]crash.MadFiring1"		"<clr:238,180,34>Crash: Die, you son of a bitch!"
 		"crash.MadFiring1"		"<clr:238,180,34>Crash: Die, you son of a bitch!"
 
@@ -1603,13 +1603,13 @@
 
 "[english]crash.StartedHack3"		"<clr:238,180,34>Crash: I'll have it open in no time."
 "crash.StartedHack3"		"<clr:238,180,34>Crash: Jeg vil få det åpent på kort tid."
-		
+
 		"[english]crash.StartedHack4"		"<clr:238,180,34>Crash: Time for me to work my magic."
 		"crash.StartedHack4"		"<clr:238,180,34>Crash: Time for me to work my magic."
 
 "[english]crash.StartedLongHack0"		"<clr:238,180,34>Crash: Cover me, this is gonna take a while."
 "crash.StartedLongHack0"		"<clr:238,180,34>Crash: Dekk meg, dette vil ta en stund."
-		
+
 		"[english]crash.StartedLongHack1"		"<clr:238,180,34>Crash: Got my back, right?"
 		"crash.StartedLongHack1"		"<clr:238,180,34>Crash: Got my back, right?"
 
@@ -1621,16 +1621,16 @@
 
 "[english]crash.StartedLongHack4"		"<clr:238,180,34>Crash: I'm on it. Looks easy."
 "crash.StartedLongHack4"		"<clr:238,180,34>Crash: Jeg er på saken. Ser lett ut."
-		
+
 		"[english]crash.StartedLongHack5"		"<clr:238,180,34>Crash: Time for me to work my magic."
 		"crash.StartedLongHack5"		"<clr:238,180,34>Crash: Time for me to work my magic."
-		
+
 		"[english]crash.HalfwayHack0"		"<clr:238,180,34>Crash: Come on, baby."
 		"crash.HalfwayHack0"		"<clr:238,180,34>Crash: Come on, baby."
 
 "[english]crash.HalfwayHack1"		"<clr:238,180,34>Crash: Hack at 50 percent."
 "crash.HalfwayHack1"		"<clr:238,180,34>Crash: Hack er på 50 prosent."
-		
+
 		"[english]crash.HalfwayHack2"		"<clr:238,180,34>Crash: Halfway there."
 		"crash.HalfwayHack2"		"<clr:238,180,34>Crash: Halfway there."
 
@@ -1642,13 +1642,13 @@
 
 "[english]crash.FinishedHack1"		"<clr:238,180,34>Crash: Hack complete!"
 "crash.FinishedHack1"		"<clr:238,180,34>Crash: Hack fullført!"
-		
+
 		"[english]crash.FinishedHack2"		"<clr:238,180,34>Crash: Hack it, crack it, and send it home!"
 		"crash.FinishedHack2"		"<clr:238,180,34>Crash: Hack it, crack it, and send it home!"
-		
+
 		"[english]crash.FinishedHack3"		"<clr:238,180,34>Crash: System violated."
 		"crash.FinishedHack3"		"<clr:238,180,34>Crash: System violated."
-		
+
 		"[english]crash.FinishedHack4"		"<clr:238,180,34>Crash: Oh yeah, who's the man?"
 		"crash.FinishedHack4"		"<clr:238,180,34>Crash: Oh yeah, who's the man?"
 
@@ -1657,91 +1657,91 @@
 
 "[english]crash.FinishedHackButton1"		"<clr:238,180,34>Crash: Hack complete."
 "crash.FinishedHackButton1"		"<clr:238,180,34>Crash: Hack fullført."
-		
+
 		"[english]crash.FinishedHackButton2"		"<clr:238,180,34>Crash: Hack it, crack it, and send it home!"
 		"crash.FinishedHackButton2"		"<clr:238,180,34>Crash: Hack it, crack it, and send it home!"
-		
+
 		"[english]crash.FinishedHackButton3"		"<clr:238,180,34>Crash: System violated."
 		"crash.FinishedHackButton3"		"<clr:238,180,34>Crash: System violated."
-		
+
 		"[english]crash.FinishedHackButton4"		"<clr:238,180,34>Crash: Oh yeah, who's the man!"
 		"crash.FinishedHackButton4"		"<clr:238,180,34>Crash: Oh yeah, who's the man!"
-		
+
 		"[english]crash.Scanner0"		"<clr:238,180,34>Crash: I got movement."
 		"crash.Scanner0"		"<clr:238,180,34>Crash: I got movement."
-		
+
 		"[english]crash.Scanner1"		"<clr:238,180,34>Crash: I got movement."
 		"crash.Scanner1"		"<clr:238,180,34>Crash: I got movement."
-		
+
 		"[english]crash.Scanner2"		"<clr:238,180,34>Crash: Scan's reading something."
 		"crash.Scanner2"		"<clr:238,180,34>Crash: Scan's reading something."
-		
+
 		"[english]crash.Scanner3"		"<clr:238,180,34>Crash: Something's moving."
 		"crash.Scanner3"		"<clr:238,180,34>Crash: Something's moving."
-		
+
 		"[english]crash.ScannerMultiple0"		"<clr:238,180,34>Crash: Lots of signals, all around!"
 		"crash.ScannerMultiple0"		"<clr:238,180,34>Crash: Lots of signals, all around!"
-		
+
 		"[english]crash.ScannerMultiple1"		"<clr:238,180,34>Crash: Multiple signals!"
 		"crash.ScannerMultiple1"		"<clr:238,180,34>Crash: Multiple signals!"
-		
+
 		"[english]crash.ScannerMultiple2"		"<clr:238,180,34>Crash: They're coming from all around!"
 		"crash.ScannerMultiple2"		"<clr:238,180,34>Crash: They're coming from all around!"
-		
+
 		"[english]crash.ScannerMultiple3"		"<clr:238,180,34>Crash: They're all around us!"
 		"crash.ScannerMultiple3"		"<clr:238,180,34>Crash: They're all around us!"
-		
+
 		"[english]crash.ActivateStims0"		"<clr:238,180,34>Crash: Hit the stims!"
 		"crash.ActivateStims0"		"<clr:238,180,34>Crash: Hit the stims!"
-		
+
 		"[english]crash.ActivateStims1"		"<clr:238,180,34>Crash: Stim now!"
 		"crash.ActivateStims1"		"<clr:238,180,34>Crash: Stim now!"
 
 "[english]crash.ActivateStims2"		"<clr:238,180,34>Crash: Stimpack!"
 "crash.ActivateStims2"		"<clr:238,180,34>Crash: Stimpakke!"
-		
+
 		"[english]crash.ActivateStims3"		"<clr:238,180,34>Crash: Stims!"
 		"crash.ActivateStims3"		"<clr:238,180,34>Crash: Stims!"
 
 "[english]crash.Compliments0"		"<clr:238,180,34>Crash: Not bad."
 "crash.Compliments0"		"<clr:238,180,34>Crash: Ikke dårlig."
-		
+
 		"[english]crash.Compliments1"		"<clr:238,180,34>Crash: Heh, that's nothing."
 		"crash.Compliments1"		"<clr:238,180,34>Crash: Heh, that's nothing."
-		
+
 		"[english]crash.Compliments2"		"<clr:238,180,34>Crash: Smooth."
 		"crash.Compliments2"		"<clr:238,180,34>Crash: Smooth."
 
 "[english]crash.Selection0"		"<clr:238,180,34>Crash: I'm ready."
 "crash.Selection0"		"<clr:238,180,34>Crash: Jeg er klar."
-		
+
 		"[english]crash.Selection1"		"<clr:238,180,34>Crash: Ready to get it on!"
 		"crash.Selection1"		"<clr:238,180,34>Crash: Ready to get it on!"
 
 "[english]crash.Selection2"		"<clr:238,180,34>Crash: What's up?"
 "crash.Selection2"		"<clr:238,180,34>Crash: Hva skjer?"
-		
+
 		//Faith
-		
-		
+
+
 		"[english]faith.SynUpReply0"		"<clr:178,34,34>Faith: Half the core world is addicted to that stuff."
 		"faith.SynUpReply0"		"<clr:178,34,34>Faith: Half the core world is addicted to that stuff."
-		
+
 		"[english]faith.SynUpReply1"		"<clr:178,34,34>Faith: You don't want to drink that shit, believe me."
 		"faith.SynUpReply1"		"<clr:178,34,34>Faith: You don't want to drink that shit, believe me."
-		
+
 		"[english]faith.MedicComplainReply0"		"<clr:178,34,34>Faith: Sorry, Bastille, that's why I've got you here."
 		"faith.MedicComplainReply0"		"<clr:178,34,34>Faith: Sorry, Bastille, that's why I've got you here."
-		
+
 		"[english]faith.MedicComplain0"		"<clr:178,34,34>Faith: Can't you avoid getting hurt?"
 		"faith.MedicComplain0"		"<clr:178,34,34>Faith: Can't you avoid getting hurt?"
-		
+
 		"[english]faith.MedicComplain1"		"<clr:178,34,34>Faith: You just love getting in harm's way, don't you?"
 		"faith.MedicComplain1"		"<clr:178,34,34>Faith: You just love getting in harm's way, don't you?"
-		
+
 		"[english]faith.TequilaReply0"		"<clr:178,34,34>Faith: You know that stuff kills your liver."
 		"faith.TequilaReply0"		"<clr:178,34,34>Faith: You know that stuff kills your liver."
-		
+
 		"[english]faith.InjuredSelection0"		"<clr:178,34,34>Faith: I can make it."
 		"faith.InjuredSelection0"		"<clr:178,34,34>Faith: I can make it."
 
@@ -1750,25 +1750,25 @@
 
 "[english]faith.InjuredSelection2"		"<clr:178,34,34>Faith: I'm okay."
 "faith.InjuredSelection2"		"<clr:178,34,34>Faith: Jeg klarer meg."
-		
+
 		"[english]faith.InjuredSelection3"		"<clr:178,34,34>Faith: Let's be careful, okay?"
 		"faith.InjuredSelection3"		"<clr:178,34,34>Faith: Let's be careful, okay?"
-		
+
 		"[english]faith.SeriousInjuryReply0"		"<clr:178,34,34>Faith: Is it that bad?"
 		"faith.SeriousInjuryReply0"		"<clr:178,34,34>Faith: Is it that bad?"
-		
+
 		"[english]faith.SeriousInjuryFollowUp0"		"<clr:178,34,34>Faith: Just stay safe."
 		"faith.SeriousInjuryFollowUp0"		"<clr:178,34,34>Faith: Just stay safe."
-		
+
 		"[english]faith.SeriousInjuryFollowUp1"		"<clr:178,34,34>Faith: Just take it easy from now on."
 		"faith.SeriousInjuryFollowUp1"		"<clr:178,34,34>Faith: Just take it easy from now on."
-		
+
 		"[english]faith.SeriousInjury0"		"<clr:178,34,34>Faith: Don't put any strain on it for a while, okay?"
 		"faith.SeriousInjury0"		"<clr:178,34,34>Faith: Don't put any strain on it for a while, okay?"
-		
+
 		"[english]faith.SeriousInjury1"		"<clr:178,34,34>Faith: You're up for field surgery after this."
 		"faith.SeriousInjury1"		"<clr:178,34,34>Faith: You're up for field surgery after this."
-		
+
 		"[english]faith.StillBreathingReply0"		"<clr:178,34,34>Faith: I got enough stitching without your encouragement."
 		"faith.StillBreathingReply0"		"<clr:178,34,34>Faith: I got enough stitching without your encouragement."
 
@@ -1795,7 +1795,7 @@
 
 "[english]faith.Use7"		"<clr:178,34,34>Faith: Yes, sir."
 "faith.Use7"		"<clr:178,34,34>Faith: Ja, sir."
-		
+
 		"[english]faith.Idle0"		"<clr:178,34,34>Faith: I don't like it down here."
 		"faith.Idle0"		"<clr:178,34,34>Faith: I don't like it down here."
 
@@ -1819,13 +1819,13 @@
 
 "[english]faith.Idle7"		"<clr:178,34,34>Faith: This all seems like a horrible nightmare."
 "faith.Idle7"		"<clr:178,34,34>Faith: Alt dette virker som et fryktelig mareritt."
-		
+
 		"[english]faith.Idle8"		"<clr:178,34,34>Faith: This place isn't secure."
 		"faith.Idle8"		"<clr:178,34,34>Faith: This place isn't secure."
 
 "[english]faith.Idle9"		"<clr:178,34,34>Faith: Wait, I hear something."
 "faith.Idle9"		"<clr:178,34,34>Faith: Vent, jeg hører noe."
-		
+
 		"[english]faith.Idle10"		"<clr:178,34,34>Faith: Watch your backs down here."
 		"faith.Idle10"		"<clr:178,34,34>Faith: Watch your backs down here."
 
@@ -1921,7 +1921,7 @@
 
 "[english]faith.Medkit0"		"<clr:178,34,34>Faith: Medkit!"
 "faith.Medkit0"		"<clr:178,34,34>Faith: Førstehjelp!"
-		
+
 		"[english]faith.Thanks0"		"<clr:178,34,34>Faith: Appreciated."
 		"faith.Thanks0"		"<clr:178,34,34>Faith: Appreciated."
 
@@ -2014,7 +2014,7 @@
 
 "[english]faith.LockedTerminal0"		"<clr:178,34,34>Faith: Damn it, access denied."
 "faith.LockedTerminal0"		"<clr:178,34,34>Faith: Pokker, ingen tilgang."
-		
+
 		"[english]faith.LockedTerminal1"		"<clr:178,34,34>Faith: Damn it the terminal is secure."
 		"faith.LockedTerminal1"		"<clr:178,34,34>Faith: Damn it the terminal is secure."
 
@@ -2071,28 +2071,28 @@
 
 "[english]faith.HoldingWest2"		"<clr:178,34,34>Faith: Westside in position."
 "faith.HoldingWest2"		"<clr:178,34,34>Faith: Vestsiden i posisjon."
-		
+
 		"[english]faith.GotPoint0"		"<clr:178,34,34>Faith: Faith, taking the lead."
 		"faith.GotPoint0"		"<clr:178,34,34>Faith: Faith, taking the lead."
-		
+
 		"[english]faith.GotRear0"		"<clr:178,34,34>Faith: Faith, taking rear guard."
 		"faith.GotRear0"		"<clr:178,34,34>Faith: Faith, taking rear guard."
-		
+
 		"[english]faith.GotRear1"		"<clr:178,34,34>Faith: I'll watch the back."
 		"faith.GotRear1"		"<clr:178,34,34>Faith: I'll watch the back."
-		
+
 		"[english]faith.GotRear2"		"<clr:178,34,34>Faith: I've got your back."
 		"faith.GotRear2"		"<clr:178,34,34>Faith: I've got your back."
-		
+
 		"[english]faith.RequestSealDoor0"		"<clr:178,34,34>Faith: Quick, seal it!"
 		"faith.RequestSealDoor0"		"<clr:178,34,34>Faith: Quick, seal it!"
-		
+
 		"[english]faith.RequestSealDoor1"		"<clr:178,34,34>Faith: Seal it up, keep us safe."
 		"faith.RequestSealDoor1"		"<clr:178,34,34>Faith: Seal it up, keep us safe."
 
 "[english]faith.RequestSealDoor2"		"<clr:178,34,34>Faith: Seal the door."
 "faith.RequestSealDoor2"		"<clr:178,34,34>Faith: Forsegle døren."
-		
+
 		"[english]faith.RequestCutDoor0"		"<clr:178,34,34>Faith: Cut open the door."
 		"faith.RequestCutDoor0"		"<clr:178,34,34>Faith: Cut open the door."
 
@@ -2101,7 +2101,7 @@
 
 "[english]faith.RequestCutDoor2"		"<clr:178,34,34>Faith: Get this door open."
 "faith.RequestCutDoor2"		"<clr:178,34,34>Faith: Få denne døren åpen."
-		
+
 		"[english]faith.RequestShootDoor0"		"<clr:178,34,34>Faith: Blast it down!"
 		"faith.RequestShootDoor0"		"<clr:178,34,34>Faith: Blast it down!"
 
@@ -2116,7 +2116,7 @@
 
 "[english]faith.CuttingDoor2"		"<clr:178,34,34>Faith: Stand back, I'm cutting through."
 "faith.CuttingDoor2"		"<clr:178,34,34>Faith: Hold avstand, jeg kutter igjennom."
-		
+
 		"[english]faith.SealingDoor0"		"<clr:178,34,34>Faith: I'll seal it up."
 		"faith.SealingDoor0"		"<clr:178,34,34>Faith: I'll seal it up."
 
@@ -2128,16 +2128,16 @@
 
 "[english]faith.Biomass0"		"<clr:178,34,34>Faith: Biomass. We have to burn it."
 "faith.Biomass0"		"<clr:178,34,34>Faith: Biomasse. Vi må brenne det."
-		
+
 		"[english]faith.Biomass1"		"<clr:178,34,34>Faith: Swarm biomass. It's highly flammable."
 		"faith.Biomass1"		"<clr:178,34,34>Faith: Swarm biomass. It's highly flammable."
-		
+
 		"[english]faith.Biomass2"		"<clr:178,34,34>Faith: Swarm biomass. It's living tissue."
 		"faith.Biomass2"		"<clr:178,34,34>Faith: Swarm biomass. It's living tissue."
 
 "[english]faith.TimeToLeave0"		"<clr:178,34,34>Faith: Job's done."
 "faith.TimeToLeave0"		"<clr:178,34,34>Faith: Jobben er gjort."
-		
+
 		"[english]faith.TimeToLeave1"		"<clr:178,34,34>Faith: Objectives complete, let's head to the exit."
 		"faith.TimeToLeave1"		"<clr:178,34,34>Faith: Objectives complete, let's head to the exit."
 
@@ -2155,19 +2155,19 @@
 
 "[english]faith.WatchOut3"		"<clr:178,34,34>Faith: Watch yourself!"
 "faith.WatchOut3"		"<clr:178,34,34>Faith: Pass på!"
-		
+
 		"[english]faith.Shieldbug0"		"<clr:178,34,34>Faith: A shield bug! We have to kill it!"
 		"faith.Shieldbug0"		"<clr:178,34,34>Faith: A shield bug! We have to kill it!"
-		
+
 		"[english]faith.Shieldbug1"		"<clr:178,34,34>Faith: Oh no, a shield bug!"
 		"faith.Shieldbug1"		"<clr:178,34,34>Faith: Oh no, a shield bug!"
-		
+
 		"[english]faith.Shieldbug2"		"<clr:178,34,34>Faith: Watch out, a shield bug!"
 		"faith.Shieldbug2"		"<clr:178,34,34>Faith: Watch out, a shield bug!"
-		
+
 		"[english]faith.ShieldbugHint0"		"<clr:178,34,34>Faith: Get it from behind!"
 		"faith.ShieldbugHint0"		"<clr:178,34,34>Faith: Get it from behind!"
-		
+
 		"[english]faith.ShieldbugHint1"		"<clr:178,34,34>Faith: It's weak from behind!"
 		"faith.ShieldbugHint1"		"<clr:178,34,34>Faith: It's weak from behind!"
 
@@ -2191,7 +2191,7 @@
 
 "[english]faith.BeenInfested3"		"<clr:178,34,34>Faith: Get it off!"
 "faith.BeenInfested3"		"<clr:178,34,34>Faith: Få den av!"
-		
+
 		"[english]faith.BeenInfested4"		"<clr:178,34,34>Faith: No, I don't want this."
 		"faith.BeenInfested4"		"<clr:178,34,34>Faith: No, I don't want this."
 
@@ -2227,13 +2227,13 @@
 
 "[english]faith.MadFiring2"		"<clr:178,34,34>Faith: I'll kill you all!"
 "faith.MadFiring2"		"<clr:178,34,34>Faith: Jeg skal drepe dere alle!"
-		
+
 		"[english]faith.MadFiring3"		"<clr:178,34,34>Faith: Payback's a bitch, ain't it?"
 		"faith.MadFiring3"		"<clr:178,34,34>Faith: Payback's a bitch, ain't it?"
 
 "[english]faith.BreachedDoor0"		"<clr:178,34,34>Faith: Here they come!"
 "faith.BreachedDoor0"		"<clr:178,34,34>Faith: Her kommer de!"
-		
+
 		"[english]faith.BreachedDoor1"		"<clr:178,34,34>Faith: They've breached the door!"
 		"faith.BreachedDoor1"		"<clr:178,34,34>Faith: They've breached the door!"
 
@@ -2272,16 +2272,16 @@
 
 "[english]faith.Healing1"		"<clr:178,34,34>Faith: I don't think there's any permanent damage."
 "faith.Healing1"		"<clr:178,34,34>Faith: Jeg tror ikke det er noen permanente skader."
-		
+
 		"[english]faith.Healing2"		"<clr:178,34,34>Faith: I'll fix you up."
 		"faith.Healing2"		"<clr:178,34,34>Faith: I'll fix you up."
 
 "[english]faith.Healing3"		"<clr:178,34,34>Faith: Where does it hurt?"
 "faith.Healing3"		"<clr:178,34,34>Faith: Hvor gjør det vondt?"
-		
+
 		"[english]faith.Healing4"		"<clr:178,34,34>Faith: You'll be all right."
 		"faith.Healing4"		"<clr:178,34,34>Faith: You'll be all right."
-		
+
 		"[english]faith.NoMeds0"		"<clr:178,34,34>Faith: Ok, med-satchel's empty."
 		"faith.NoMeds0"		"<clr:178,34,34>Faith: Ok, med-satchel's empty."
 
@@ -2293,13 +2293,13 @@
 
 "[english]faith.NoMeds3"		"<clr:178,34,34>Faith: That's it, no more meds."
 "faith.NoMeds3"		"<clr:178,34,34>Faith: Det var det, ikke mer legemidler."
-		
+
 		"[english]faith.ActivateStims0"		"<clr:178,34,34>Faith: Activate the stims."
 		"faith.ActivateStims0"		"<clr:178,34,34>Faith: Activate the stims."
-		
+
 		"[english]faith.ActivateStims1"		"<clr:178,34,34>Faith: Stim now!"
 		"faith.ActivateStims1"		"<clr:178,34,34>Faith: Stim now!"
-		
+
 		"[english]faith.ActivateStims2"		"<clr:178,34,34>Faith: Stimpack now!"
 		"faith.ActivateStims2"		"<clr:178,34,34>Faith: Stimpack now!"
 
@@ -2326,7 +2326,7 @@
 
 "[english]jaeger.WeatherReply0"		"<clr:198,226,255>Jaeger: Yeah, reminds me of my last vacation."
 "jaeger.WeatherReply0"		"<clr:198,226,255>Jaeger: Ja, det minner meg på den siste ferien min."
-		
+
 		"[english]jaeger.MedicComplainReply0"		"<clr:198,226,255>Jaeger: It's not like I do it on purpose."
 		"jaeger.MedicComplainReply0"		"<clr:198,226,255>Jaeger: It's not like I do it on purpose."
 
@@ -2338,7 +2338,7 @@
 
 "[english]jaeger.InjuredSelection0"		"<clr:198,226,255>Jaeger: Never thought it would end like this."
 "jaeger.InjuredSelection0"		"<clr:198,226,255>Jaeger: Trodde aldri det skulle ende slik som dette."
-		
+
 		"[english]jaeger.InjuredSelection1"		"<clr:198,226,255>Jaeger: Not like this... not here."
 		"jaeger.InjuredSelection1"		"<clr:198,226,255>Jaeger: Not like this... not here."
 
@@ -2353,7 +2353,7 @@
 
 "[english]jaeger.StillBreathingReply0"		"<clr:198,226,255>Jaeger: [Laughter]"
 "jaeger.StillBreathingReply0"		"<clr:198,226,255>Jaeger: [Latter]"
-		
+
 		"[english]jaeger.AutogunReply0"		"<clr:198,226,255>Jaeger: That's the spirit."
 		"jaeger.AutogunReply0"		"<clr:198,226,255>Jaeger: That's the spirit."
 
@@ -2365,7 +2365,7 @@
 
 "[english]jaeger.Use2"		"<clr:198,226,255>Jaeger: Yes, sir."
 "jaeger.Use2"		"<clr:198,226,255>Jaeger: Ja, sir."
-		
+
 		"[english]jaeger.Idle0"		"<clr:198,226,255>Jaeger: Man, I hate the weather on this godforsaken rock."
 		"jaeger.Idle0"		"<clr:198,226,255>Jaeger: Man, I hate the weather on this godforsaken rock."
 
@@ -2377,13 +2377,13 @@
 
 "[english]jaeger.Idle3"		"<clr:198,226,255>Jaeger: Ich liebe diese Waffe."
 "jaeger.Idle3"		"<clr:198,226,255>Jaeger: Ich liebe diese Waffe."
-		
+
 		"[english]jaeger.Idle4"		"<clr:198,226,255>Jaeger: I wonder when Command will give us some new toys to play with."
 		"jaeger.Idle4"		"<clr:198,226,255>Jaeger: I wonder when Command will give us some new toys to play with."
-		
+
 		"[english]jaeger.Idle5"		"<clr:198,226,255>Jaeger: I've got a bad feeling about this place."
 		"jaeger.Idle5"		"<clr:198,226,255>Jaeger: I've got a bad feeling about this place."
-		
+
 		"[english]jaeger.Idle6"		"<clr:198,226,255>Jaeger: Jesus, I need a vacation."
 		"jaeger.Idle6"		"<clr:198,226,255>Jaeger: Jesus, I need a vacation."
 
@@ -2392,19 +2392,19 @@
 
 "[english]jaeger.Idle8"		"<clr:198,226,255>Jaeger: Did you hear that?"
 "jaeger.Idle8"		"<clr:198,226,255>Jaeger: Hørte du det?"
-		
+
 		"[english]jaeger.Idle9"		"<clr:198,226,255>Jaeger: Stay sharp, people, these guys don't take prisoners."
 		"jaeger.Idle9"		"<clr:198,226,255>Jaeger: Stay sharp, people, these guys don't take prisoners."
-		
+
 		"[english]jaeger.Idle10"		"<clr:198,226,255>Jaeger: There's no bug trouble that can't be cured by a large case of explosives."
 		"jaeger.Idle10"		"<clr:198,226,255>Jaeger: There's no bug trouble that can't be cured by a large case of explosives."
-		
+
 		"[english]jaeger.Idle11"		"<clr:198,226,255>Jaeger: I wonder when Command will give us some new toys to play with."
 		"jaeger.Idle11"		"<clr:198,226,255>Jaeger: I wonder when Command will give us some new toys to play with."
-		
+
 		"[english]jaeger.Idle12"		"<clr:198,226,255>Jaeger: This isn't a good day to run out of smokes."
 		"jaeger.Idle12"		"<clr:198,226,255>Jaeger: This isn't a good day to run out of smokes."
-		
+
 		"[english]jaeger.Idle13"		"<clr:198,226,255>Jaeger: Why can't we set fire to this whole damn colony?"
 		"jaeger.Idle13"		"<clr:198,226,255>Jaeger: Why can't we set fire to this whole damn colony?"
 
@@ -2461,10 +2461,10 @@
 
 "[english]jaeger.SargeJaegerConv1Reply1"		"<clr:198,226,255>Jaeger: Yeah, just like old times."
 "jaeger.SargeJaegerConv1Reply1"		"<clr:198,226,255>Jaeger: Ja, akkurat som i gamle dager."
-		
+
 		"[english]jaeger.SargeJaegerConv20"		"<clr:198,226,255>Jaeger: Remember Ceti Epsilon."
 		"jaeger.SargeJaegerConv20"		"<clr:198,226,255>Jaeger: Remember Ceti Epsilon."
-		
+
 		"[english]jaeger.SargeJaegerConv21"		"<clr:198,226,255>Jaeger: Remember the Frontier Riots."
 		"jaeger.SargeJaegerConv21"		"<clr:198,226,255>Jaeger: Remember the Frontier Riots."
 
@@ -2512,7 +2512,7 @@
 
 "[english]jaeger.Thanks1"		"<clr:198,226,255>Jaeger: Thank you."
 "jaeger.Thanks1"		"<clr:198,226,255>Jaeger: Takk."
-		
+
 		"[english]jaeger.Question0"		"<clr:198,226,255>Jaeger: Huh?"
 		"jaeger.Question0"		"<clr:198,226,255>Jaeger: Huh?"
 
@@ -2650,13 +2650,13 @@
 
 "[english]jaeger.GotPoint1"		"<clr:198,226,255>Jaeger: Jaeger, taking point."
 "jaeger.GotPoint1"		"<clr:198,226,255>Jaeger: Jaeger, tar ledelse."
-		
+
 		"[english]jaeger.GotRear0"		"<clr:198,226,255>Jaeger: Jaeger, covering back."
 		"jaeger.GotRear0"		"<clr:198,226,255>Jaeger: Jaeger, covering back."
-		
+
 		"[english]jaeger.GotRear1"		"<clr:198,226,255>Jaeger: Jaeger, covering the rear."
 		"jaeger.GotRear1"		"<clr:198,226,255>Jaeger: Jaeger, covering the rear."
-		
+
 		"[english]jaeger.GotRear2"		"<clr:198,226,255>Jaeger: Jaeger, taking rearguard."
 		"jaeger.GotRear2"		"<clr:198,226,255>Jaeger: Jaeger, taking rearguard."
 
@@ -2689,10 +2689,10 @@
 
 "[english]jaeger.SealingDoor1"		"<clr:198,226,255>Jaeger: Jaeger, securing door."
 "jaeger.SealingDoor1"		"<clr:198,226,255>Jaeger: Jaeger, sikrer døren."
-		
+
 		"[english]jaeger.TimeToLeave0"		"<clr:198,226,255>Jaeger: Primary objective's complete, let's move out."
 		"jaeger.TimeToLeave0"		"<clr:198,226,255>Jaeger: Primary objective's complete, let's move out."
-		
+
 		"[english]jaeger.TimeToLeave1"		"<clr:198,226,255>Jaeger: Time to leave, moving out."
 		"jaeger.TimeToLeave1"		"<clr:198,226,255>Jaeger: Time to leave, moving out."
 
@@ -2704,13 +2704,13 @@
 
 "[english]jaeger.WatchOut2"		"<clr:198,226,255>Jaeger: Watch out!"
 "jaeger.WatchOut2"		"<clr:198,226,255>Jaeger: Se opp!"
-		
+
 		"[english]jaeger.Shieldbug0"		"<clr:198,226,255>Jaeger: Herrgott! Shieldbug!"
 		"jaeger.Shieldbug0"		"<clr:198,226,255>Jaeger: Herrgott! Shieldbug!"
-		
+
 		"[english]jaeger.Shieldbug1"		"<clr:198,226,255>Jaeger: Shield bug, take it down!"
 		"jaeger.Shieldbug1"		"<clr:198,226,255>Jaeger: Shield bug, take it down!"
-		
+
 		"[english]jaeger.Shieldbug2"		"<clr:198,226,255>Jaeger: Watch it, shield bug!"
 		"jaeger.Shieldbug2"		"<clr:198,226,255>Jaeger: Watch it, shield bug!"
 
@@ -2774,7 +2774,7 @@
 
 "[english]jaeger.MadFiring0"		"<clr:198,226,255>Jaeger: Come and get some!"
 "jaeger.MadFiring0"		"<clr:198,226,255>Jaeger: Kom og få litt!"
-		
+
 		"[english]jaeger.MadFiring1"		"<clr:198,226,255>Jaeger: Stirb, bastard!"
 		"jaeger.MadFiring1"		"<clr:198,226,255>Jaeger: Stirb, bastard!"
 
@@ -2792,7 +2792,7 @@
 
 "[english]jaeger.BreachedDoor1"		"<clr:198,226,255>Jaeger: They're through!"
 "jaeger.BreachedDoor1"		"<clr:198,226,255>Jaeger: De er igjennom!"
-		
+
 		"[english]jaeger.BreachedDoor2"		"<clr:198,226,255>Jaeger: They've breached!"
 		"jaeger.BreachedDoor2"		"<clr:198,226,255>Jaeger: They've breached!"
 
@@ -2825,7 +2825,7 @@
 
 "[english]jaeger.OnFire1"		"<clr:198,226,255>Jaeger: [Pain]"
 "jaeger.OnFire1"		"<clr:198,226,255>Jaeger: [Smerte]"
-		
+
 		"[english]jaeger.MineDeployed0"		"<clr:198,226,255>Jaeger: Incendiary mine deployed!"
 		"jaeger.MineDeployed0"		"<clr:198,226,255>Jaeger: Incendiary mine deployed!"
 
@@ -2837,13 +2837,13 @@
 
 "[english]jaeger.MineDeployed3"		"<clr:198,226,255>Jaeger: Watch it! Mine!"
 "jaeger.MineDeployed3"		"<clr:198,226,255>Jaeger: Se opp! Mine!"
-		
+
 		"[english]jaeger.ActivateStims0"		"<clr:198,226,255>Jaeger: Hit the stims!"
 		"jaeger.ActivateStims0"		"<clr:198,226,255>Jaeger: Hit the stims!"
-		
+
 		"[english]jaeger.ActivateStims1"		"<clr:198,226,255>Jaeger: Stim now!"
 		"jaeger.ActivateStims1"		"<clr:198,226,255>Jaeger: Stim now!"
-		
+
 		"[english]jaeger.ComplimentsSarge0"		"<clr:198,226,255>Jaeger: Ha! Good kill, Conrad!"
 		"jaeger.ComplimentsSarge0"		"<clr:198,226,255>Jaeger: Ha! Good kill, Conrad!"
 
@@ -2857,72 +2857,72 @@
 
 "[english]sarge.SargeIdle0"		"<clr:238,207,161>Sarge: You know the claws on a swarm drone can rip right through our armor."
 "sarge.SargeIdle0"		"<clr:238,207,161>Sarge: Du vet klørne på en sverm-drone kan kutte rett gjennom rustningen vår."
-		
-		
+
+
 		"[english]sarge.SargeIdle1"		"<clr:238,207,161>Sarge: I once saw a marine have his hand bitten clean off by one of these things."
 		"sarge.SargeIdle1"		"<clr:238,207,161>Sarge: I once saw a marine have his hand bitten clean off by one of these things."
 
 
 "[english]sarge.SargeIdleReply0"		"<clr:238,207,161>Sarge: Watch your mouth, Marine."
 "sarge.SargeIdleReply0"		"<clr:238,207,161>Sarge: Pass munnen din, marinesoldat."
-		
-		
+
+
 		"[english]sarge.SargeIdleReply1"		"<clr:238,207,161>Sarge: You secure that shit."
 		"sarge.SargeIdleReply1"		"<clr:238,207,161>Sarge: You secure that shit."
-		
-		
+
+
 		"[english]sarge.BigAlienDeadReply0"		"<clr:238,207,161>Sarge: Yeah, getting ugly."
 		"sarge.BigAlienDeadReply0"		"<clr:238,207,161>Sarge: Yeah, getting ugly."
-		
-		
+
+
 		"[english]sarge.MedicComplainReply0"		"<clr:238,207,161>Sarge: That's part of the job."
 		"sarge.MedicComplainReply0"		"<clr:238,207,161>Sarge: That's part of the job."
-		
-		
+
+
 		"[english]sarge.TequilaReply0"		"<clr:238,207,161>Sarge: Hey, no drinking on the job."
 		"sarge.TequilaReply0"		"<clr:238,207,161>Sarge: Hey, no drinking on the job."
-		
-		
+
+
 		"[english]sarge.TequilaReply1"		"<clr:238,207,161>Sarge: You know what they got in the supply closet? That stuff kicks you in the head."
 		"sarge.TequilaReply1"		"<clr:238,207,161>Sarge: You know what they got in the supply closet? That stuff kicks you in the head."
-		
-		
+
+
 		"[english]sarge.CrashIdleReply0"		"<clr:238,207,161>Sarge: Did you sleep through the briefing again?"
 		"sarge.CrashIdleReply0"		"<clr:238,207,161>Sarge: Did you sleep through the briefing again?"
-		
-		
+
+
 		"[english]sarge.InjuredSelection0"		"<clr:238,207,161>Sarge: My first campaign wasn't this tough."
 		"sarge.InjuredSelection0"		"<clr:238,207,161>Sarge: My first campaign wasn't this tough."
-		
-		
+
+
 		"[english]sarge.InjuredSelection1"		"<clr:238,207,161>Sarge: We should pull back and reassess this."
 		"sarge.InjuredSelection1"		"<clr:238,207,161>Sarge: We should pull back and reassess this."
-		
-		
+
+
 		"[english]sarge.InjuredSelection2"		"<clr:238,207,161>Sarge: Make it quick."
 		"sarge.InjuredSelection2"		"<clr:238,207,161>Sarge: Make it quick."
-		
-		
+
+
 		"[english]sarge.InjuredSelection3"		"<clr:238,207,161>Sarge: This is tough."
 		"sarge.InjuredSelection3"		"<clr:238,207,161>Sarge: This is tough."
-		
-		
+
+
 		"[english]sarge.SeriousInjuryReply0"		"<clr:238,207,161>Sarge: Shit, it's not that bad."
 		"sarge.SeriousInjuryReply0"		"<clr:238,207,161>Sarge: Shit, it's not that bad."
-		
-		
+
+
 		"[english]sarge.SeriousInjuryReply1"		"<clr:238,207,161>Sarge: Shit, it ain't that bad."
 		"sarge.SeriousInjuryReply1"		"<clr:238,207,161>Sarge: Shit, it ain't that bad."
-		
-		
+
+
 		"[english]sarge.AutogunReply0"		"<clr:238,207,161>Sarge: Shoot em up, cut em down."
 		"sarge.AutogunReply0"		"<clr:238,207,161>Sarge: Shoot em up, cut em down."
-		
-		
+
+
 		"[english]sarge.AutogunReply1"		"<clr:238,207,161>Sarge: Yeah, show em what you got!"
 		"sarge.AutogunReply1"		"<clr:238,207,161>Sarge: Yeah, show em what you got!"
-		
-		
+
+
 		"[english]sarge.AutogunReply2"		"<clr:238,207,161>Sarge: Shoot em up, cut em down!"
 		"sarge.AutogunReply2"		"<clr:238,207,161>Sarge: Shoot em up, cut em down!"
 
@@ -2941,96 +2941,96 @@
 
 "[english]sarge.Use3"		"<clr:238,207,161>Sarge: Okay."
 "sarge.Use3"		"<clr:238,207,161>Sarge: Greit."
-		
-		
+
+
 		"[english]sarge.Idle0"		"<clr:238,207,161>Sarge: Stay alert people, there's still plenty of ass waiting to be kicked."
 		"sarge.Idle0"		"<clr:238,207,161>Sarge: Stay alert people, there's still plenty of ass waiting to be kicked."
-		
-		
+
+
 		"[english]sarge.Idle1"		"<clr:238,207,161>Sarge: Why can't Syntek ever do anything by the books."
 		"sarge.Idle1"		"<clr:238,207,161>Sarge: Why can't Syntek ever do anything by the books."
-		
-		
+
+
 		"[english]sarge.Idle2"		"<clr:238,207,161>Sarge: Watch your spacing, team."
 		"sarge.Idle2"		"<clr:238,207,161>Sarge: Watch your spacing, team."
-		
-		
+
+
 		"[english]sarge.Idle3"		"<clr:238,207,161>Sarge: Remember your training, marines."
 		"sarge.Idle3"		"<clr:238,207,161>Sarge: Remember your training, marines."
-		
-		
+
+
 		"[english]sarge.Idle4"		"<clr:238,207,161>Sarge: Stay sharp, marines."
 		"sarge.Idle4"		"<clr:238,207,161>Sarge: Stay sharp, marines."
 
 
 "[english]sarge.Idle5"		"<clr:238,207,161>Sarge: Stay sharp, look alive."
 "sarge.Idle5"		"<clr:238,207,161>Sarge: Vær årvåkne, se ut som dere er i live!"
-		
-		
+
+
 		"[english]sarge.Idle6"		"<clr:238,207,161>Sarge: There's a lot more swarm to kill yet."
 		"sarge.Idle6"		"<clr:238,207,161>Sarge: There's a lot more swarm to kill yet."
-		
-		
+
+
 		"[english]sarge.Idle7"		"<clr:238,207,161>Sarge: I love this job."
 		"sarge.Idle7"		"<clr:238,207,161>Sarge: I love this job."
-		
-		
+
+
 		"[english]sarge.Idle8"		"<clr:238,207,161>Sarge: Ah, another fine day in the Interstellar Armed Forces."
 		"sarge.Idle8"		"<clr:238,207,161>Sarge: Ah, another fine day in the Interstellar Armed Forces."
-		
-		
+
+
 		"[english]sarge.Idle9"		"<clr:238,207,161>Sarge: So far, so good."
 		"sarge.Idle9"		"<clr:238,207,161>Sarge: So far, so good."
-		
-		
+
+
 		"[english]sarge.Idle10"		"<clr:238,207,161>Sarge: So far, so good."
 		"sarge.Idle10"		"<clr:238,207,161>Sarge: So far, so good."
-		
-		
+
+
 		"[english]sarge.Idle11"		"<clr:238,207,161>Sarge: After this, I'm retiring."
 		"sarge.Idle11"		"<clr:238,207,161>Sarge: After this, I'm retiring."
-		
-		
+
+
 		"[english]sarge.Idle12"		"<clr:238,207,161>Sarge: This is the Interstellar Armed Forces, not a Gaddamned picnic."
 		"sarge.Idle12"		"<clr:238,207,161>Sarge: This is the Interstellar Armed Forces, not a Gaddamned picnic."
-		
-		
+
+
 		"[english]sarge.Idle13"		"<clr:238,207,161>Sarge: Well, time to earn those paychecks."
 		"sarge.Idle13"		"<clr:238,207,161>Sarge: Well, time to earn those paychecks."
-		
-		
+
+
 		"[english]sarge.Idle14"		"<clr:238,207,161>Sarge: Check your corners."
 		"sarge.Idle14"		"<clr:238,207,161>Sarge: Check your corners."
-		
-		
+
+
 		"[english]sarge.Idle15"		"<clr:238,207,161>Sarge: Secure the perimeter."
 		"sarge.Idle15"		"<clr:238,207,161>Sarge: Secure the perimeter."
-		
-		
+
+
 		"[english]sarge.Idle16"		"<clr:238,207,161>Sarge: Proceed by squads, we got a job to do."
 		"sarge.Idle16"		"<clr:238,207,161>Sarge: Proceed by squads, we got a job to do."
-		
-		
+
+
 		"[english]sarge.Idle17"		"<clr:238,207,161>Sarge: Let's do this by the book."
 		"sarge.Idle17"		"<clr:238,207,161>Sarge: Let's do this by the book."
 
 
 "[english]sarge.FF0"		"<clr:238,207,161>Sarge: Check your targets!"
 "sarge.FF0"		"<clr:238,207,161>Sarge: Sjekk dine mål!"
-		
-		
+
+
 		"[english]sarge.FF1"		"<clr:238,207,161>Sarge: Watch it, you hear?"
 		"sarge.FF1"		"<clr:238,207,161>Sarge: Watch it, you hear?"
 
 
 "[english]sarge.FiringAtAlien0"		"<clr:238,207,161>Sarge: Contact!"
 "sarge.FiringAtAlien0"		"<clr:238,207,161>Sarge: Kontakt!"
-		
-		
+
+
 		"[english]sarge.FiringAtAlien1"		"<clr:238,207,161>Sarge: Let em have it!"
 		"sarge.FiringAtAlien1"		"<clr:238,207,161>Sarge: Let em have it!"
-		
-		
+
+
 		"[english]sarge.FiringAtAlien2"		"<clr:238,207,161>Sarge: Arrrgh!"
 		"sarge.FiringAtAlien2"		"<clr:238,207,161>Sarge: Arrrgh!"
 
@@ -3041,12 +3041,12 @@
 
 "[english]sarge.FollowMe0"		"<clr:238,207,161>Sarge: Follow me!"
 "sarge.FollowMe0"		"<clr:238,207,161>Sarge: Følg meg!"
-		
-		
+
+
 		"[english]sarge.FollowMe1"		"<clr:238,207,161>Sarge: Let's move on out, soldiers!"
 		"sarge.FollowMe1"		"<clr:238,207,161>Sarge: Let's move on out, soldiers!"
-		
-		
+
+
 		"[english]sarge.FollowMe2"		"<clr:238,207,161>Sarge: Saddle up."
 		"sarge.FollowMe2"		"<clr:238,207,161>Sarge: Saddle up."
 
@@ -3061,60 +3061,60 @@
 
 "[english]sarge.NeedAmmo0"		"<clr:238,207,161>Sarge: Need ammo!"
 "sarge.NeedAmmo0"		"<clr:238,207,161>Sarge: Trenger ammo!"
-		
-		
+
+
 		"[english]sarge.NoAmmo0"		"<clr:238,207,161>Sarge: Shit, out of ammo."
 		"sarge.NoAmmo0"		"<clr:238,207,161>Sarge: Shit, out of ammo."
 
 
 "[english]sarge.NoAmmo1"		"<clr:238,207,161>Sarge: No ammo."
 "sarge.NoAmmo1"		"<clr:238,207,161>Sarge: Ingen ammo."
-		
-		
+
+
 		"[english]sarge.NoAmmo2"		"<clr:238,207,161>Sarge: Damn, out of ammo."
 		"sarge.NoAmmo2"		"<clr:238,207,161>Sarge: Damn, out of ammo."
-		
-		
+
+
 		"[english]sarge.NoAmmo3"		"<clr:238,207,161>Sarge: I'm out of ammo."
 		"sarge.NoAmmo3"		"<clr:238,207,161>Sarge: I'm out of ammo."
-		
-		
+
+
 		"[english]sarge.SargeJaegerConv10"		"<clr:238,207,161>Sarge: Just like back in 38, eh Jaeger?"
 		"sarge.SargeJaegerConv10"		"<clr:238,207,161>Sarge: Just like back in 38, eh Jaeger?"
-		
-		
+
+
 		"[english]sarge.SargeJaegerConv11"		"<clr:238,207,161>Sarge: This place reminds me of Tilarus-9."
 		"sarge.SargeJaegerConv11"		"<clr:238,207,161>Sarge: This place reminds me of Tilarus-9."
-		
-		
+
+
 		"[english]sarge.SargeJaegerConv1Reply0"		"<clr:238,207,161>Sarge: Well, we made it through last time."
 		"sarge.SargeJaegerConv1Reply0"		"<clr:238,207,161>Sarge: Well, we made it through last time."
-		
-		
+
+
 		"[english]sarge.SargeJaegerConv1Reply1"		"<clr:238,207,161>Sarge: I need a drink."
 		"sarge.SargeJaegerConv1Reply1"		"<clr:238,207,161>Sarge: I need a drink."
-		
-		
+
+
 		"[english]sarge.SargeJaegerConv2Reply0"		"<clr:238,207,161>Sarge: Yeah, and I though I'd served my time in hell."
 		"sarge.SargeJaegerConv2Reply0"		"<clr:238,207,161>Sarge: Yeah, and I though I'd served my time in hell."
-		
-		
+
+
 		"[english]sarge.SargeJaegerConv2Reply1"		"<clr:238,207,161>Sarge: I remember it. I just hope it doesn't have to come to that."
 		"sarge.SargeJaegerConv2Reply1"		"<clr:238,207,161>Sarge: I remember it. I just hope it doesn't have to come to that."
 
 
 "[english]sarge.Medic0"		"<clr:238,207,161>Sarge: Medic!"
 "sarge.Medic0"		"<clr:238,207,161>Sarge: Medic!"
-		
-		
+
+
 		"[english]sarge.Misc0"		"<clr:238,207,161>Sarge: Squad, form up."
 		"sarge.Misc0"		"<clr:238,207,161>Sarge: Squad, form up."
-		
-		
+
+
 		"[english]sarge.Misc1"		"<clr:238,207,161>Sarge: Secure the Perimeter, I want this place locked down nice and tight."
 		"sarge.Misc1"		"<clr:238,207,161>Sarge: Secure the Perimeter, I want this place locked down nice and tight."
-		
-		
+
+
 		"[english]sarge.Misc2"		"<clr:238,207,161>Sarge: Marines, into positions."
 		"sarge.Misc2"		"<clr:238,207,161>Sarge: Marines, into positions."
 
@@ -3249,48 +3249,48 @@
 
 "[english]sarge.SuppliesAmmo0"		"<clr:238,207,161>Sarge: Good, supplies. Take what you need."
 "sarge.SuppliesAmmo0"		"<clr:238,207,161>Sarge: Bra, forsyninger. Ta det du trenger."
-		
-		
+
+
 		"[english]sarge.SuppliesAmmo1"		"<clr:238,207,161>Sarge: Good, supplies. Lock and load, marines."
 		"sarge.SuppliesAmmo1"		"<clr:238,207,161>Sarge: Good, supplies. Lock and load, marines."
-		
-		
+
+
 		"[english]sarge.SuppliesAmmo2"		"<clr:238,207,161>Sarge: Take what you need, and stand to."
 		"sarge.SuppliesAmmo2"		"<clr:238,207,161>Sarge: Take what you need, and stand to."
-		
-		
+
+
 		"[english]sarge.LockedTerminalCrash0"		"<clr:238,207,161>Sarge: Terminal secure. Crash, you're up."
 		"sarge.LockedTerminalCrash0"		"<clr:238,207,161>Sarge: Terminal secure. Crash, you're up."
-		
-		
+
+
 		"[english]sarge.LockedTerminalCrash1"		"<clr:238,207,161>Sarge: Terminal secure. Get your ass over here, Crash."
 		"sarge.LockedTerminalCrash1"		"<clr:238,207,161>Sarge: Terminal secure. Get your ass over here, Crash."
-		
-		
+
+
 		"[english]sarge.LockedTerminalFlynn0"		"<clr:238,207,161>Sarge: Terminal secure. Flynn, you're up."
 		"sarge.LockedTerminalFlynn0"		"<clr:238,207,161>Sarge: Terminal secure. Flynn, you're up."
-		
-		
+
+
 		"[english]sarge.LockedTerminalVegas0"		"<clr:238,207,161>Sarge: Terminal secure. Vegas, you're up."
 		"sarge.LockedTerminalVegas0"		"<clr:238,207,161>Sarge: Terminal secure. Vegas, you're up."
-		
-		
+
+
 		"[english]sarge.LockedTerminalVegas1"		"<clr:238,207,161>Sarge: Terminal secure. Vegas, get your ass up here."
 		"sarge.LockedTerminalVegas1"		"<clr:238,207,161>Sarge: Terminal secure. Vegas, get your ass up here."
-		
-		
+
+
 		"[english]sarge.LockedTerminal0"		"<clr:238,207,161>Sarge: Terminal's secure."
 		"sarge.LockedTerminal0"		"<clr:238,207,161>Sarge: Terminal's secure."
-		
-		
+
+
 		"[english]sarge.LockedTerminal1"		"<clr:238,207,161>Sarge: It's locked."
 		"sarge.LockedTerminal1"		"<clr:238,207,161>Sarge: It's locked."
-		
-		
+
+
 		"[english]sarge.LockedTerminal2"		"<clr:238,207,161>Sarge: I need a tech here, on the double."
 		"sarge.LockedTerminal2"		"<clr:238,207,161>Sarge: I need a tech here, on the double."
-		
-		
+
+
 		"[english]sarge.HoldingPosition0"		"<clr:238,207,161>Sarge: Cover an area."
 		"sarge.HoldingPosition0"		"<clr:238,207,161>Sarge: Cover an area."
 
@@ -3313,8 +3313,8 @@
 
 "[english]sarge.HoldingNorth2"		"<clr:238,207,161>Sarge: North side in position."
 "sarge.HoldingNorth2"		"<clr:238,207,161>Sarge: Nordsiden i posisjon."
-		
-		
+
+
 		"[english]sarge.HoldingNorth3"		"<clr:238,207,161>Sarge: North side standing to."
 		"sarge.HoldingNorth3"		"<clr:238,207,161>Sarge: North side standing to."
 
@@ -3329,8 +3329,8 @@
 
 "[english]sarge.HoldingSouth2"		"<clr:238,207,161>Sarge: South side in position."
 "sarge.HoldingSouth2"		"<clr:238,207,161>Sarge: Sørsiden i posisjon."
-		
-		
+
+
 		"[english]sarge.HoldingSouth3"		"<clr:238,207,161>Sarge: South side standing to."
 		"sarge.HoldingSouth3"		"<clr:238,207,161>Sarge: South side standing to."
 
@@ -3345,8 +3345,8 @@
 
 "[english]sarge.HoldingEast2"		"<clr:238,207,161>Sarge: East side in position."
 "sarge.HoldingEast2"		"<clr:238,207,161>Sarge: Østsiden i posisjon."
-		
-		
+
+
 		"[english]sarge.HoldingEast3"		"<clr:238,207,161>Sarge: East side standing to."
 		"sarge.HoldingEast3"		"<clr:238,207,161>Sarge: East side standing to."
 
@@ -3361,8 +3361,8 @@
 
 "[english]sarge.HoldingWest2"		"<clr:238,207,161>Sarge: West side in position."
 "sarge.HoldingWest2"		"<clr:238,207,161>Sarge: Vestsiden i posisjon."
-		
-		
+
+
 		"[english]sarge.HoldingWest3"		"<clr:238,207,161>Sarge: West side standing to."
 		"sarge.HoldingWest3"		"<clr:238,207,161>Sarge: West side standing to."
 
@@ -3373,32 +3373,32 @@
 
 "[english]sarge.GotPoint1"		"<clr:238,207,161>Sarge: Taking point."
 "sarge.GotPoint1"		"<clr:238,207,161>Sarge: Tar ledelsen."
-		
-		
+
+
 		"[english]sarge.GotRear0"		"<clr:238,207,161>Sarge: Covering the rear."
 		"sarge.GotRear0"		"<clr:238,207,161>Sarge: Covering the rear."
-		
-		
+
+
 		"[english]sarge.GotRear1"		"<clr:238,207,161>Sarge: Conrad taking rear guard."
 		"sarge.GotRear1"		"<clr:238,207,161>Sarge: Conrad taking rear guard."
-		
-		
+
+
 		"[english]sarge.GotRear2"		"<clr:238,207,161>Sarge: I've got your back."
 		"sarge.GotRear2"		"<clr:238,207,161>Sarge: I've got your back."
-		
-		
+
+
 		"[english]sarge.RequestSealDoor0"		"<clr:238,207,161>Sarge: Get this door sealed, on the double."
 		"sarge.RequestSealDoor0"		"<clr:238,207,161>Sarge: Get this door sealed, on the double."
-		
-		
+
+
 		"[english]sarge.RequestSealDoor1"		"<clr:238,207,161>Sarge: I need this door sealed now."
 		"sarge.RequestSealDoor1"		"<clr:238,207,161>Sarge: I need this door sealed now."
-		
-		
+
+
 		"[english]sarge.RequestSealDoor2"		"<clr:238,207,161>Sarge: Seal it up, marines."
 		"sarge.RequestSealDoor2"		"<clr:238,207,161>Sarge: Seal it up, marines."
-		
-		
+
+
 		"[english]sarge.RequestSealDoor3"		"<clr:238,207,161>Sarge: I want this door secured."
 		"sarge.RequestSealDoor3"		"<clr:238,207,161>Sarge: I want this door secured."
 
@@ -3409,32 +3409,32 @@
 
 "[english]sarge.RequestCutDoor1"		"<clr:238,207,161>Sarge: Cut it open."
 "sarge.RequestCutDoor1"		"<clr:238,207,161>Sarge: Kutt den åpen."
-		
-		
+
+
 		"[english]sarge.RequestCutDoor2"		"<clr:238,207,161>Sarge: I want this door cut open."
 		"sarge.RequestCutDoor2"		"<clr:238,207,161>Sarge: I want this door cut open."
 
 
 "[english]sarge.RequestCutDoor3"		"<clr:238,207,161>Sarge: What are you waiting for? Cut it open!"
 "sarge.RequestCutDoor3"		"<clr:238,207,161>Sarge: Hva venter du på? Kutt den åpen!"
-		
-		
+
+
 		"[english]sarge.RequestCutDoor4"		"<clr:238,207,161>Sarge: I want this door in two, you understand me?"
 		"sarge.RequestCutDoor4"		"<clr:238,207,161>Sarge: I want this door in two, you understand me?"
-		
-		
+
+
 		"[english]sarge.RequestShootDoor0"		"<clr:238,207,161>Sarge: All right, marines, blow it down!"
 		"sarge.RequestShootDoor0"		"<clr:238,207,161>Sarge: All right, marines, blow it down!"
-		
-		
+
+
 		"[english]sarge.RequestShootDoor1"		"<clr:238,207,161>Sarge: Okay, marines, shoot your way through."
 		"sarge.RequestShootDoor1"		"<clr:238,207,161>Sarge: Okay, marines, shoot your way through."
 
 
 "[english]sarge.RequestShootDoor2"		"<clr:238,207,161>Sarge: Blast it open."
 "sarge.RequestShootDoor2"		"<clr:238,207,161>Sarge: Spreng den åpen."
-		
-		
+
+
 		"[english]sarge.RequestShootDoor3"		"<clr:238,207,161>Sarge: Okay, marines, knock its teeth out."
 		"sarge.RequestShootDoor3"		"<clr:238,207,161>Sarge: Okay, marines, knock its teeth out."
 
@@ -3457,24 +3457,24 @@
 
 "[english]sarge.SealingDoor2"		"<clr:238,207,161>Sarge: Securing door."
 "sarge.SealingDoor2"		"<clr:238,207,161>Sarge: Sikrer døren."
-		
-		
+
+
 		"[english]sarge.Biomass0"		"<clr:238,207,161>Sarge: Swarm biomass, burn it out."
 		"sarge.Biomass0"		"<clr:238,207,161>Sarge: Swarm biomass, burn it out."
-		
-		
+
+
 		"[english]sarge.Biomass1"		"<clr:238,207,161>Sarge: Signs of infestation."
 		"sarge.Biomass1"		"<clr:238,207,161>Sarge: Signs of infestation."
-		
-		
+
+
 		"[english]sarge.TimeToLeave0"		"<clr:238,207,161>Sarge: All right, marines, we're leaving."
 		"sarge.TimeToLeave0"		"<clr:238,207,161>Sarge: All right, marines, we're leaving."
-		
-		
+
+
 		"[english]sarge.TimeToLeave1"		"<clr:238,207,161>Sarge: Mission objectives complete. Squad, we're moving out."
 		"sarge.TimeToLeave1"		"<clr:238,207,161>Sarge: Mission objectives complete. Squad, we're moving out."
-		
-		
+
+
 		"[english]sarge.TimeToLeave2"		"<clr:238,207,161>Sarge: Squad, proceeding to extraction point."
 		"sarge.TimeToLeave2"		"<clr:238,207,161>Sarge: Squad, proceeding to extraction point."
 
@@ -3485,24 +3485,24 @@
 
 "[english]sarge.WatchOut1"		"<clr:238,207,161>Sarge: Watch it!"
 "sarge.WatchOut1"		"<clr:238,207,161>Sarge: Se opp!"
-		
-		
+
+
 		"[english]sarge.WatchOut2"		"<clr:238,207,161>Sarge: Watch out, guys!"
 		"sarge.WatchOut2"		"<clr:238,207,161>Sarge: Watch out, guys!"
-		
-		
+
+
 		"[english]sarge.WatchOut3"		"<clr:238,207,161>Sarge: Careful, marines!"
 		"sarge.WatchOut3"		"<clr:238,207,161>Sarge: Careful, marines!"
-		
-		
+
+
 		"[english]sarge.Shieldbug0"		"<clr:238,207,161>Sarge: Shit, a shieldbug."
 		"sarge.Shieldbug0"		"<clr:238,207,161>Sarge: Shit, a shieldbug."
 
 
 "[english]sarge.Shieldbug1"		"<clr:238,207,161>Sarge: Holy shit!"
 "sarge.Shieldbug1"		"<clr:238,207,161>Sarge: Fy faen!"
-		
-		
+
+
 		"[english]sarge.Shieldbug2"		"<clr:238,207,161>Sarge: A shieldbug, take it down, marines."
 		"sarge.Shieldbug2"		"<clr:238,207,161>Sarge: A shieldbug, take it down, marines."
 
@@ -3513,8 +3513,8 @@
 
 "[english]sarge.ShieldbugHint1"		"<clr:238,207,161>Sarge: Shoot it in the back."
 "sarge.ShieldbugHint1"		"<clr:238,207,161>Sarge: Skyt den i ryggen."
-		
-		
+
+
 		"[english]sarge.ShieldbugHint2"		"<clr:238,207,161>Sarge: Get behind."
 		"sarge.ShieldbugHint2"		"<clr:238,207,161>Sarge: Get behind."
 
@@ -3525,8 +3525,8 @@
 
 "[english]sarge.Parasite1"		"<clr:238,207,161>Sarge: Look out, marines! Parasite!"
 "sarge.Parasite1"		"<clr:238,207,161>Sarge: Se opp, marinesoldater! Parasitt!"
-		
-		
+
+
 		"[english]sarge.Parasite2"		"<clr:238,207,161>Sarge: Parasite! Kill it dead!"
 		"sarge.Parasite2"		"<clr:238,207,161>Sarge: Parasite! Kill it dead!"
 
@@ -3541,24 +3541,24 @@
 
 "[english]sarge.BeenInfested2"		"<clr:238,207,161>Sarge: Arrrgghhh! It's on me!"
 "sarge.BeenInfested2"		"<clr:238,207,161>Sarge: Arrrgghhh! Den er på meg!"
-		
-		
+
+
 		"[english]sarge.BeenInfested3"		"<clr:238,207,161>Sarge: Shit! Shit, parasite on!"
 		"sarge.BeenInfested3"		"<clr:238,207,161>Sarge: Shit! Shit, parasite on!"
 
 
 "[english]sarge.SwarmEggs0"		"<clr:238,207,161>Sarge: Swarm eggs, watch out."
 "sarge.SwarmEggs0"		"<clr:238,207,161>Sarge: Sverm-egg, se opp."
-		
-		
+
+
 		"[english]sarge.SwarmEggs1"		"<clr:238,207,161>Sarge: Swarm eggs, take em out."
 		"sarge.SwarmEggs1"		"<clr:238,207,161>Sarge: Swarm eggs, take em out."
-		
-		
+
+
 		"[english]sarge.SwarmEggs2"		"<clr:238,207,161>Sarge: Careful boys, we got swarm eggs."
 		"sarge.SwarmEggs2"		"<clr:238,207,161>Sarge: Careful boys, we got swarm eggs."
-		
-		
+
+
 		"[english]sarge.SwarmEggs3"		"<clr:238,207,161>Sarge: Scramble them eggs, boys."
 		"sarge.SwarmEggs3"		"<clr:238,207,161>Sarge: Scramble them eggs, boys."
 
@@ -3649,20 +3649,20 @@
 
 "[english]sarge.Dead1"		"<clr:238,207,161>Sarge: [Death]"
 "sarge.Dead1"		"<clr:238,207,161>Sarge: [Død]"
-		
-		
+
+
 		"[english]sarge.OnFire0"		"<clr:238,207,161>Sarge: Arghhhhh, aaah!"
 		"sarge.OnFire0"		"<clr:238,207,161>Sarge: Arghhhhh, aaah!"
-		
-		
+
+
 		"[english]sarge.OnFire1"		"<clr:238,207,161>Sarge: [Screaming pain]"
 		"sarge.OnFire1"		"<clr:238,207,161>Sarge: [Screaming pain]"
-		
-		
+
+
 		"[english]sarge.OnFire2"		"<clr:238,207,161>Sarge: Oh God! [Screaming pain]"
 		"sarge.OnFire2"		"<clr:238,207,161>Sarge: Oh God! [Screaming pain]"
-		
-		
+
+
 		"[english]sarge.MineDeployed0"		"<clr:238,207,161>Sarge: Mine in place, boys."
 		"sarge.MineDeployed0"		"<clr:238,207,161>Sarge: Mine in place, boys."
 
@@ -3673,36 +3673,36 @@
 
 "[english]sarge.MineDeployed2"		"<clr:238,207,161>Sarge: Watch it, mine deployed."
 "sarge.MineDeployed2"		"<clr:238,207,161>Sarge: Vær forsiktig, mine utplassert."
-		
-		
+
+
 		"[english]sarge.MineDeployed3"		"<clr:238,207,161>Sarge: Incendiary mine deployed."
 		"sarge.MineDeployed3"		"<clr:238,207,161>Sarge: Incendiary mine deployed."
-		
-		
+
+
 		"[english]sarge.ActivateStims0"		"<clr:238,207,161>Sarge: Stim now!"
 		"sarge.ActivateStims0"		"<clr:238,207,161>Sarge: Stim now!"
-		
-		
+
+
 		"[english]sarge.ActivateStims1"		"<clr:238,207,161>Sarge: Hit the stims."
 		"sarge.ActivateStims1"		"<clr:238,207,161>Sarge: Hit the stims."
-		
-		
+
+
 		"[english]sarge.ActivateStims2"		"<clr:238,207,161>Sarge: Activate stim pack!"
 		"sarge.ActivateStims2"		"<clr:238,207,161>Sarge: Activate stim pack!"
-		
-		
+
+
 		"[english]sarge.ActivateStims3"		"<clr:238,207,161>Sarge: Activate stim pack now."
 		"sarge.ActivateStims3"		"<clr:238,207,161>Sarge: Activate stim pack now."
-		
-		
+
+
 		"[english]sarge.ActivateStims4"		"<clr:238,207,161>Sarge: I need that stim pack."
 		"sarge.ActivateStims4"		"<clr:238,207,161>Sarge: I need that stim pack."
 
 
 "[english]sarge.ComplimentsJaeger0"		"<clr:238,207,161>Sarge: Nice work, Jaeger"
 "sarge.ComplimentsJaeger0"		"<clr:238,207,161>Sarge: Godt gjort, Jaeger"
-		
-		
+
+
 		"[english]sarge.ComplimentsJaeger1"		"<clr:238,207,161>Sarge: Good kill, Jaeger."
 		"sarge.ComplimentsJaeger1"		"<clr:238,207,161>Sarge: Good kill, Jaeger."
 
@@ -3725,12 +3725,12 @@
 
 "[english]sarge.Compliments3"		"<clr:238,207,161>Sarge: Good job!"
 "sarge.Compliments3"		"<clr:238,207,161>Sarge: Godt gjort!"
-		
-		
+
+
 		"[english]sarge.Impatience0"		"<clr:238,207,161>Sarge: Come on marine, they don't pay us by the hour!"
 		"sarge.Impatience0"		"<clr:238,207,161>Sarge: Come on marine, they don't pay us by the hour!"
-		
-		
+
+
 		"[english]sarge.Impatience1"		"<clr:238,207,161>Sarge: Goddamn, hurry up! I'm getting tired."
 		"sarge.Impatience1"		"<clr:238,207,161>Sarge: Goddamn, hurry up! I'm getting tired."
 
@@ -3753,40 +3753,40 @@
 
 "[english]sarge.Selection3"		"<clr:238,207,161>Sarge: Proceed."
 "sarge.Selection3"		"<clr:238,207,161>Sarge: Fortsett."
-		
-		
-		
-		
+
+
+
+
 		//Vegas
-		
+
 		"[english]vegas.FirstBloodStart0"		"<clr:84,255,159>Vegas: Taking bets on first blood."
 		"vegas.FirstBloodStart0"		"<clr:84,255,159>Vegas: Taking bets on first blood."
-		
-		
+
+
 		"[english]vegas.FirstBloodWin0"		"<clr:84,255,159>Vegas: Haha, fortune favours Vegas today."
 		"vegas.FirstBloodWin0"		"<clr:84,255,159>Vegas: Haha, fortune favours Vegas today."
-		
-		
+
+
 		"[english]vegas.FirstBloodWin1"		"<clr:84,255,159>Vegas: Lady luck is on my side."
 		"vegas.FirstBloodWin1"		"<clr:84,255,159>Vegas: Lady luck is on my side."
-		
-		
+
+
 		"[english]vegas.SynUpSpotted0"		"<clr:84,255,159>Vegas: Synup Cola, anyone have any creds?"
 		"vegas.SynUpSpotted0"		"<clr:84,255,159>Vegas: Synup Cola, anyone have any creds?"
-		
-		
+
+
 		"[english]vegas.MedicComplainReply0"		"<clr:84,255,159>Vegas: I wasn't exactly planning on it."
 		"vegas.MedicComplainReply0"		"<clr:84,255,159>Vegas: I wasn't exactly planning on it."
-		
-		
+
+
 		"[english]vegas.TequilaReplySarge0"		"<clr:84,255,159>Vegas: Aahh, man."
 		"vegas.TequilaReplySarge0"		"<clr:84,255,159>Vegas: Aahh, man."
 
 
 "[english]vegas.TequilaReplyJaeger0"		"<clr:84,255,159>Vegas: Screw that, I'm sticking with tequila."
 "vegas.TequilaReplyJaeger0"		"<clr:84,255,159>Vegas: Drit i det, jeg holder med tequila."
-		
-		
+
+
 		"[english]vegas.TequilaReplyWildcat0"		"<clr:84,255,159>Vegas: Hell, yeah!"
 		"vegas.TequilaReplyWildcat0"		"<clr:84,255,159>Vegas: Hell, yeah!"
 
@@ -3797,28 +3797,28 @@
 
 "[english]vegas.TequilaReplyFaith0"		"<clr:84,255,159>Vegas: Who cares? No one lives forever."
 "vegas.TequilaReplyFaith0"		"<clr:84,255,159>Vegas: Hvem bryr seg? Ingen lever for alltid."
-		
-		
+
+
 		"[english]vegas.TequilaReplyBastille0"		"<clr:84,255,159>Vegas: Ok, but you're missing out, Amigo."
 		"vegas.TequilaReplyBastille0"		"<clr:84,255,159>Vegas: Ok, but you're missing out, Amigo."
-		
-		
+
+
 		"[english]vegas.TequilaStart0"		"<clr:84,255,159>Vegas: I could do with some tequila right about now."
 		"vegas.TequilaStart0"		"<clr:84,255,159>Vegas: I could do with some tequila right about now."
-		
-		
+
+
 		"[english]vegas.TequilaStart1"		"<clr:84,255,159>Vegas: Who's up for some tequila?"
 		"vegas.TequilaStart1"		"<clr:84,255,159>Vegas: Who's up for some tequila?"
-		
-		
+
+
 		"[english]vegas.InjuredSelection0"		"<clr:84,255,159>Vegas: All bets are off."
 		"vegas.InjuredSelection0"		"<clr:84,255,159>Vegas: All bets are off."
 
 
 "[english]vegas.InjuredSelection1"		"<clr:84,255,159>Vegas: Don't worry."
 "vegas.InjuredSelection1"		"<clr:84,255,159>Vegas: Ikke vær redd."
-		
-		
+
+
 		"[english]vegas.InjuredSelection2"		"<clr:84,255,159>Vegas: I still got an ace up my sleeve."
 		"vegas.InjuredSelection2"		"<clr:84,255,159>Vegas: I still got an ace up my sleeve."
 
@@ -3829,8 +3829,8 @@
 
 "[english]vegas.InjuredSelection4"		"<clr:84,255,159>Vegas: What?"
 "vegas.InjuredSelection4"		"<clr:84,255,159>Vegas: Hva?"
-		
-		
+
+
 		"[english]vegas.SeriousInjuryReply0"		"<clr:84,255,159>Vegas: Ah man, I should have stayed in Culiacan Sinaloa."
 		"vegas.SeriousInjuryReply0"		"<clr:84,255,159>Vegas: Ah man, I should have stayed in Culiacan Sinaloa."
 
@@ -3845,8 +3845,8 @@
 
 "[english]vegas.Use1"		"<clr:84,255,159>Vegas: I'm on it."
 "vegas.Use1"		"<clr:84,255,159>Vegas: Jeg er på saken."
-		
-		
+
+
 		"[english]vegas.Use2"		"<clr:84,255,159>Vegas: On it."
 		"vegas.Use2"		"<clr:84,255,159>Vegas: On it."
 
@@ -3873,16 +3873,16 @@
 
 "[english]vegas.Idle2"		"<clr:84,255,159>Vegas: Anyone got a deck of cards?"
 "vegas.Idle2"		"<clr:84,255,159>Vegas: Noen som har en kortstokk?"
-		
-		
+
+
 		"[english]vegas.Idle3"		"<clr:84,255,159>Vegas: Can't wait to get off this rock and back to the tables."
 		"vegas.Idle3"		"<clr:84,255,159>Vegas: Can't wait to get off this rock and back to the tables."
 
 
 "[english]vegas.Idle4"		"<clr:84,255,159>Vegas: I could be watching the races right now."
 "vegas.Idle4"		"<clr:84,255,159>Vegas: Jeg kunne sett på løpene akkurat nå."
-		
-		
+
+
 		"[english]vegas.Idle5"		"<clr:84,255,159>Vegas: If I were a betting man, I'd say the worst is yet to come."
 		"vegas.Idle5"		"<clr:84,255,159>Vegas: If I were a betting man, I'd say the worst is yet to come."
 
@@ -3893,20 +3893,20 @@
 
 "[english]vegas.Idle7"		"<clr:84,255,159>Vegas: [Whistle]"
 "vegas.Idle7"		"<clr:84,255,159>Vegas: [Plystre]"
-		
-		
+
+
 		"[english]vegas.Idle8"		"<clr:84,255,159>Vegas: Who's up for some tequila?"
 		"vegas.Idle8"		"<clr:84,255,159>Vegas: Who's up for some tequila?"
-		
-		
+
+
 		"[english]vegas.Idle9"		"<clr:84,255,159>Vegas: You guys like to gamble, we should play sometime."
 		"vegas.Idle9"		"<clr:84,255,159>Vegas: You guys like to gamble, we should play sometime."
 
 
 "[english]vegas.FF0"		"<clr:84,255,159>Vegas: Check your target!"
 "vegas.FF0"		"<clr:84,255,159>Vegas: Sjekk dine mål!"
-		
-		
+
+
 		"[english]vegas.FF1"		"<clr:84,255,159>Vegas: Ten cuidado Bastard!"
 		"vegas.FF1"		"<clr:84,255,159>Vegas: Ten cuidado Bastard!"
 
@@ -3941,8 +3941,8 @@
 
 "[english]vegas.FollowMe2"		"<clr:84,255,159>Vegas: Let's move!"
 "vegas.FollowMe2"		"<clr:84,255,159>Vegas: Videre!"
-		
-		
+
+
 		"[english]vegas.FollowMe3"		"<clr:84,255,159>Vegas: Time to roll the dice, Compadre."
 		"vegas.FollowMe3"		"<clr:84,255,159>Vegas: Time to roll the dice, Compadre."
 
@@ -3989,8 +3989,8 @@
 
 "[english]vegas.Reloading1"		"<clr:84,255,159>Vegas: Estoy Cargando!"
 "vegas.Reloading1"		"<clr:84,255,159>Vegas: Estoy Cargando!"
-		
-		
+
+
 		"[english]vegas.Reloading2"		"<clr:84,255,159>Vegas: Reload."
 		"vegas.Reloading2"		"<clr:84,255,159>Vegas: Lader på nytt."
 
@@ -4033,12 +4033,12 @@
 
 "[english]vegas.Medkit0"		"<clr:84,255,159>Vegas: Medkit!"
 "vegas.Medkit0"		"<clr:84,255,159>Vegas: Førstehjelp!"
-		
-		
+
+
 		"[english]vegas.Thanks0"		"<clr:84,255,159>Vegas: Gracias."
 		"vegas.Thanks0"		"<clr:84,255,159>Vegas: Gracias."
-		
-		
+
+
 		"[english]vegas.Thanks1"		"<clr:84,255,159>Vegas: Muchos gracias."
 		"vegas.Thanks1"		"<clr:84,255,159>Vegas: Muchos gracias."
 
@@ -4049,8 +4049,8 @@
 
 "[english]vegas.Question0"		"<clr:84,255,159>Vegas: Huh?"
 "vegas.Question0"		"<clr:84,255,159>Vegas: Høh?"
-		
-		
+
+
 		"[english]vegas.Question1"		"<clr:84,255,159>Vegas: Que?"
 		"vegas.Question1"		"<clr:84,255,159>Vegas: Que?"
 
@@ -4069,16 +4069,16 @@
 
 "[english]vegas.CallSarge1"		"<clr:84,255,159>Vegas: Sarge."
 "vegas.CallSarge1"		"<clr:84,255,159>Vegas: Sarge."
-		
-		
+
+
 		"[english]vegas.CallJaeger0"		"<clr:84,255,159>Vegas: Hey, Jaeger."
 		"vegas.CallJaeger0"		"<clr:84,255,159>Vegas: Hey, Jaeger."
 
 
 "[english]vegas.CallJaeger1"		"<clr:84,255,159>Vegas: Jaeger."
 "vegas.CallJaeger1"		"<clr:84,255,159>Vegas: Jaeger."
-		
-		
+
+
 		"[english]vegas.CallWildcat0"		"<clr:84,255,159>Vegas: Hey, Wildcat."
 		"vegas.CallWildcat0"		"<clr:84,255,159>Vegas: Hey, Wildcat."
 
@@ -4149,8 +4149,8 @@
 
 "[english]vegas.HoldingPosition3"		"<clr:84,255,159>Vegas: Securing area."
 "vegas.HoldingPosition3"		"<clr:84,255,159>Vegas: Sikrer området."
-		
-		
+
+
 		"[english]vegas.HoldingPosition4"		"<clr:84,255,159>Vegas: They'll need an army to get past me."
 		"vegas.HoldingPosition4"		"<clr:84,255,159>Vegas: They'll need an army to get past me."
 
@@ -4161,8 +4161,8 @@
 
 "[english]vegas.HoldingNorth1"		"<clr:84,255,159>Vegas: Covering north side."
 "vegas.HoldingNorth1"		"<clr:84,255,159>Vegas: Dekker nordsiden."
-		
-		
+
+
 		"[english]vegas.HoldingNorth2"		"<clr:84,255,159>Vegas: North side covered."
 		"vegas.HoldingNorth2"		"<clr:84,255,159>Vegas: North side covered."
 
@@ -4205,36 +4205,36 @@
 
 "[english]vegas.HoldingWest2"		"<clr:84,255,159>Vegas: West side in position."
 "vegas.HoldingWest2"		"<clr:84,255,159>Vegas: Vestsiden i posisjon."
-		
-		
+
+
 		"[english]vegas.GotPoint0"		"<clr:84,255,159>Vegas: I'll take point."
 		"vegas.GotPoint0"		"<clr:84,255,159>Vegas: I'll take point."
 
 
 "[english]vegas.GotPoint1"		"<clr:84,255,159>Vegas: Vegas taking point."
 "vegas.GotPoint1"		"<clr:84,255,159>Vegas: Vegas tar ledelsen."
-		
-		
+
+
 		"[english]vegas.GotRear0"		"<clr:84,255,159>Vegas: I'll cover the back."
 		"vegas.GotRear0"		"<clr:84,255,159>Vegas: I'll cover the back."
-		
-		
+
+
 		"[english]vegas.GotRear1"		"<clr:84,255,159>Vegas: I've got your back."
 		"vegas.GotRear1"		"<clr:84,255,159>Vegas: I've got your back."
 
 
 "[english]vegas.RequestSealDoor0"		"<clr:84,255,159>Vegas: Quick, seal the door!"
 "vegas.RequestSealDoor0"		"<clr:84,255,159>Vegas: Fort, forsegle døren!"
-		
-		
+
+
 		"[english]vegas.RequestSealDoor1"		"<clr:84,255,159>Vegas: Seal it up! I wanna get off this rock alive."
 		"vegas.RequestSealDoor1"		"<clr:84,255,159>Vegas: Seal it up! I wanna get off this rock alive."
-		
-		
+
+
 		"[english]vegas.RequestSealDoor2"		"<clr:84,255,159>Vegas: Seal it up. We don't want those things getting in here."
 		"vegas.RequestSealDoor2"		"<clr:84,255,159>Vegas: Seal it up. We don't want those things getting in here."
-		
-		
+
+
 		"[english]vegas.RequestCutDoor0"		"<clr:84,255,159>Vegas: Come on, open it."
 		"vegas.RequestCutDoor0"		"<clr:84,255,159>Vegas: Come on, open it."
 
@@ -4249,8 +4249,8 @@
 
 "[english]vegas.RequestShootDoor0"		"<clr:84,255,159>Vegas: Blast it open."
 "vegas.RequestShootDoor0"		"<clr:84,255,159>Vegas: Spreng den åpen."
-		
-		
+
+
 		"[english]vegas.RequestShootDoor1"		"<clr:84,255,159>Vegas: Shoot it down."
 		"vegas.RequestShootDoor1"		"<clr:84,255,159>Vegas: Shoot it down."
 
@@ -4281,44 +4281,44 @@
 
 "[english]vegas.SealingDoor2"		"<clr:84,255,159>Vegas: Vegas sealing door."
 "vegas.SealingDoor2"		"<clr:84,255,159>Vegas: Vegas forsegler døren."
-		
-		
+
+
 		"[english]vegas.Biomass0"		"<clr:84,255,159>Vegas: Alien goo, the highlight of any infested colony. Burn it."
 		"vegas.Biomass0"		"<clr:84,255,159>Vegas: Alien goo, the highlight of any infested colony. Burn it."
-		
-		
+
+
 		"[english]vegas.Biomass1"		"<clr:84,255,159>Vegas: Biomass. Man, I hate this stuff. Burn it."
 		"vegas.Biomass1"		"<clr:84,255,159>Vegas: Biomass. Man, I hate this stuff. Burn it."
-		
-		
+
+
 		"[english]vegas.Biomass2"		"<clr:84,255,159>Vegas: Biomass! Man, I hate this stuff. Where is the damn flamer?"
 		"vegas.Biomass2"		"<clr:84,255,159>Vegas: Biomass! Man, I hate this stuff. Where is the damn flamer?"
-		
-		
+
+
 		"[english]vegas.Biomass3"		"<clr:84,255,159>Vegas: Bleagh! Swarm biomass. Anyone got a flamer?"
 		"vegas.Biomass3"		"<clr:84,255,159>Vegas: Bleagh! Swarm biomass. Anyone got a flamer?"
-		
-		
+
+
 		"[english]vegas.Biomass4"		"<clr:84,255,159>Vegas: Hmmmm, large swarm biomass. Anyone got a flamer?"
 		"vegas.Biomass4"		"<clr:84,255,159>Vegas: Hmmmm, large swarm biomass. Anyone got a flamer?"
-		
-		
+
+
 		"[english]vegas.Biomass5"		"<clr:84,255,159>Vegas: Swarm biomass! Anyone got a flamer?"
 		"vegas.Biomass5"		"<clr:84,255,159>Vegas: Swarm biomass! Anyone got a flamer?"
-		
-		
+
+
 		"[english]vegas.Biomass6"		"<clr:84,255,159>Vegas: Urgh! More goo! Let's set it on fire!"
 		"vegas.Biomass6"		"<clr:84,255,159>Vegas: Urgh! More goo! Let's set it on fire!"
-		
-		
+
+
 		"[english]vegas.Biomass7"		"<clr:84,255,159>Vegas: Urgh! Swarm biomass. Where's the flamer?"
 		"vegas.Biomass7"		"<clr:84,255,159>Vegas: Urgh! Swarm biomass. Where's the flamer?"
-		
-		
+
+
 		"[english]vegas.TimeToLeave0"		"<clr:84,255,159>Vegas: Objective completed. Let's hit the slots."
 		"vegas.TimeToLeave0"		"<clr:84,255,159>Vegas: Objective completed. Let's hit the slots."
-		
-		
+
+
 		"[english]vegas.TimeToLeave1"		"<clr:84,255,159>Vegas: Sweet! Tequila, here I come."
 		"vegas.TimeToLeave1"		"<clr:84,255,159>Vegas: Sweet! Tequila, here I come."
 
@@ -4341,20 +4341,20 @@
 
 "[english]vegas.Shieldbug2"		"<clr:84,255,159>Vegas: Madre de dios!"
 "vegas.Shieldbug2"		"<clr:84,255,159>Vegas: Madre de dios!"
-		
-		
+
+
 		"[english]vegas.Shieldbug3"		"<clr:84,255,159>Vegas: Shit, a shieldbug!"
 		"vegas.Shieldbug3"		"<clr:84,255,159>Vegas: Shit, a shieldbug!"
-		
-		
+
+
 		"[english]vegas.ShieldbugHint0"		"<clr:84,255,159>Vegas: They're vulnerable from behind."
 		"vegas.ShieldbugHint0"		"<clr:84,255,159>Vegas: They're vulnerable from behind."
 
 
 "[english]vegas.ShieldbugHint1"		"<clr:84,255,159>Vegas: Use grenades."
 "vegas.ShieldbugHint1"		"<clr:84,255,159>Vegas: Bruk granater."
-		
-		
+
+
 		"[english]vegas.ShieldbugHint2"		"<clr:84,255,159>Vegas: Who's gonna get behind it?"
 		"vegas.ShieldbugHint2"		"<clr:84,255,159>Vegas: Who's gonna get behind it?"
 
@@ -4381,12 +4381,12 @@
 
 "[english]vegas.BeenInfested2"		"<clr:84,255,159>Vegas: Get it off, get it off, get it off!"
 "vegas.BeenInfested2"		"<clr:84,255,159>Vegas: Få den vekk, få den vekk, få den vekk!"
-		
-		
+
+
 		"[english]vegas.BeenInfested4"		"<clr:84,255,159>Vegas: Help me get this thing off!"
 		"vegas.BeenInfested4"		"<clr:84,255,159>Vegas: Help me get this thing off!"
-		
-		
+
+
 		"[english]vegas.SwarmEggs0"		"<clr:84,255,159>Vegas: Careful, eggs."
 		"vegas.SwarmEggs0"		"<clr:84,255,159>Vegas: Careful, eggs."
 
@@ -4425,28 +4425,28 @@
 
 "[english]vegas.AlienTooClose2"		"<clr:84,255,159>Vegas: Kill it!"
 "vegas.AlienTooClose2"		"<clr:84,255,159>Vegas: Drep den!"
-		
-		
+
+
 		"[english]vegas.AlienTooClose3"		"<clr:84,255,159>Vegas: On me."
 		"vegas.AlienTooClose3"		"<clr:84,255,159>Vegas: On me."
 
 
 "[english]vegas.MadFiring0"		"<clr:84,255,159>Vegas: Adios, muchachos."
 "vegas.MadFiring0"		"<clr:84,255,159>Vegas: Adios, muchachos."
-		
-		
+
+
 		"[english]vegas.MadFiring2"		"<clr:84,255,159>Vegas: Oh, you wanna play rough."
 		"vegas.MadFiring2"		"<clr:84,255,159>Vegas: Oh, you wanna play rough."
-		
-		
+
+
 		"[english]vegas.MadFiring3"		"<clr:84,255,159>Vegas: You think you can take me?"
 		"vegas.MadFiring3"		"<clr:84,255,159>Vegas: You think you can take me?"
-		
-		
+
+
 		"[english]vegas.BreachedDoor0"		"<clr:84,255,159>Vegas: Hostiles breached the door!"
 		"vegas.BreachedDoor0"		"<clr:84,255,159>Vegas: Hostiles breached the door!"
-		
-		
+
+
 		"[english]vegas.BreachedDoor1"		"<clr:84,255,159>Vegas: They broke it down!"
 		"vegas.BreachedDoor1"		"<clr:84,255,159>Vegas: They broke it down!"
 
@@ -4489,76 +4489,76 @@
 
 "[english]vegas.Dead1"		"<clr:84,255,159>Vegas: [Death]"
 "vegas.Dead1"		"<clr:84,255,159>Vegas: [Død]"
-		
-		
+
+
 		"[english]vegas.OnFire0"		"<clr:84,255,159>Vegas: Aaah, put me out, put me out! Aaaaarhh!"
 		"vegas.OnFire0"		"<clr:84,255,159>Vegas: Aaah, put me out, put me out! Aaaaarhh!"
 
 
 "[english]vegas.OnFire1"		"<clr:84,255,159>Vegas: Aaaaarghhhh"
 "vegas.OnFire1"		"<clr:84,255,159>Vegas: Aaaaarghhhh"
-		
-		
+
+
 		"[english]vegas.StartedHack0"		"<clr:84,255,159>Vegas: Ahh, finally something worthy of my time."
 		"vegas.StartedHack0"		"<clr:84,255,159>Vegas: Ahh, finally something worthy of my time."
-		
-		
+
+
 		"[english]vegas.StartedHack1"		"<clr:84,255,159>Vegas: I'll be in in no time."
 		"vegas.StartedHack1"		"<clr:84,255,159>Vegas: I'll be in in no time."
-		
-		
+
+
 		"[english]vegas.StartedHack2"		"<clr:84,255,159>Vegas: I'll be in in no time, haha!"
 		"vegas.StartedHack2"		"<clr:84,255,159>Vegas: I'll be in in no time, haha!"
-		
-		
+
+
 		"[english]vegas.StartedHack3"		"<clr:84,255,159>Vegas: Ok, lets make this baby play my game."
 		"vegas.StartedHack3"		"<clr:84,255,159>Vegas: Ok, lets make this baby play my game."
-		
-		
+
+
 		"[english]vegas.StartedHack4"		"<clr:84,255,159>Vegas: Starting hack."
 		"vegas.StartedHack4"		"<clr:84,255,159>Vegas: Starting hack."
-		
-		
+
+
 		"[english]vegas.StartedHack5"		"<clr:84,255,159>Vegas: Starting hack. Cover me."
 		"vegas.StartedHack5"		"<clr:84,255,159>Vegas: Starting hack. Cover me."
-		
-		
+
+
 		"[english]vegas.StartedLongHack0"		"<clr:84,255,159>Vegas: Ahh, finally something worthy of my time."
 		"vegas.StartedLongHack0"		"<clr:84,255,159>Vegas: Ahh, finally something worthy of my time."
-		
-		
+
+
 		"[english]vegas.StartedLongHack1"		"<clr:84,255,159>Vegas: Cover me, this'll take awhile."
 		"vegas.StartedLongHack1"		"<clr:84,255,159>Vegas: Cover me, this'll take awhile."
-		
-		
+
+
 		"[english]vegas.StartedLongHack2"		"<clr:84,255,159>Vegas: Cover me. This'll take awhile."
 		"vegas.StartedLongHack2"		"<clr:84,255,159>Vegas: Cover me. This'll take awhile."
-		
-		
+
+
 		"[english]vegas.StartedLongHack3"		"<clr:84,255,159>Vegas: Hmm, complicated. You got my back, right?"
 		"vegas.StartedLongHack3"		"<clr:84,255,159>Vegas: Hmm, complicated. You got my back, right?"
-		
-		
+
+
 		"[english]vegas.StartedLongHack4"		"<clr:84,255,159>Vegas: Ok, let's make this baby play my game."
 		"vegas.StartedLongHack4"		"<clr:84,255,159>Vegas: Ok, let's make this baby play my game."
-		
-		
+
+
 		"[english]vegas.StartedLongHack5"		"<clr:84,255,159>Vegas: Starting hack."
 		"vegas.StartedLongHack5"		"<clr:84,255,159>Vegas: Starting hack."
-		
-		
+
+
 		"[english]vegas.StartedLongHack6"		"<clr:84,255,159>Vegas: Starting hack, cover me."
 		"vegas.StartedLongHack6"		"<clr:84,255,159>Vegas: Starting hack, cover me."
-		
-		
+
+
 		"[english]vegas.StartedLongHack7"		"<clr:84,255,159>Vegas: Watch my back, ok?"
 		"vegas.StartedLongHack7"		"<clr:84,255,159>Vegas: Watch my back, ok?"
-		
-		
+
+
 		"[english]vegas.HalfwayHack0"		"<clr:84,255,159>Vegas: Hack at 50%"
 		"vegas.HalfwayHack0"		"<clr:84,255,159>Vegas: Hack at 50%"
-		
-		
+
+
 		"[english]vegas.HalfwayHack1"		"<clr:84,255,159>Vegas: Halfway there."
 		"vegas.HalfwayHack1"		"<clr:84,255,159>Vegas: Halfway there."
 
@@ -4569,156 +4569,156 @@
 
 "[english]vegas.FinishedHack0"		"<clr:84,255,159>Vegas: Hack completed. What did I win?"
 "vegas.FinishedHack0"		"<clr:84,255,159>Vegas: Hack fullført. Hva vinner jeg?"
-		
-		
+
+
 		"[english]vegas.FinishedHack1"		"<clr:84,255,159>Vegas: Haha, I'm in!"
 		"vegas.FinishedHack1"		"<clr:84,255,159>Vegas: Haha, I'm in!"
-		
-		
+
+
 		"[english]vegas.FinishedHack2"		"<clr:84,255,159>Vegas: Ok, who wants to read some corporate mail?"
 		"vegas.FinishedHack2"		"<clr:84,255,159>Vegas: Ok, who wants to read some corporate mail?"
-		
-		
+
+
 		"[english]vegas.FinishedHack3"		"<clr:84,255,159>Vegas: Success!"
 		"vegas.FinishedHack3"		"<clr:84,255,159>Vegas: Success!"
-		
-		
+
+
 		"[english]vegas.FinishedHack4"		"<clr:84,255,159>Vegas: Too easy!"
 		"vegas.FinishedHack4"		"<clr:84,255,159>Vegas: Too easy!"
 
 
 "[english]vegas.FinishedHackButton0"		"<clr:84,255,159>Vegas: Hack complete! What did I win?"
 "vegas.FinishedHackButton0"		"<clr:84,255,159>Vegas: Hack fullført! Hva vinner jeg?"
-		
-		
+
+
 		"[english]vegas.FinishedHackButton1"		"<clr:84,255,159>Vegas: Success!"
 		"vegas.FinishedHackButton1"		"<clr:84,255,159>Vegas: Success!"
-		
-		
+
+
 		"[english]vegas.FinishedHackButton2"		"<clr:84,255,159>Vegas: Too easy!"
 		"vegas.FinishedHackButton2"		"<clr:84,255,159>Vegas: Too easy!"
-		
-		
+
+
 		"[english]vegas.ScannerMultiple0"		"<clr:84,255,159>Vegas: Lots of signals all around."
 		"vegas.ScannerMultiple0"		"<clr:84,255,159>Vegas: Lots of signals all around."
-		
-		
+
+
 		"[english]vegas.ScannerMultiple1"		"<clr:84,255,159>Vegas: Lots of signals all around."
 		"vegas.ScannerMultiple1"		"<clr:84,255,159>Vegas: Lots of signals all around."
-		
-		
+
+
 		"[english]vegas.ScannerMultiple2"		"<clr:84,255,159>Vegas: Multiple signals all around."
 		"vegas.ScannerMultiple2"		"<clr:84,255,159>Vegas: Multiple signals all around."
-		
-		
+
+
 		"[english]vegas.ScannerMultiple3"		"<clr:84,255,159>Vegas: They're all around us."
 		"vegas.ScannerMultiple3"		"<clr:84,255,159>Vegas: They're all around us."
-		
-		
+
+
 		"[english]vegas.ScannerMultiple4"		"<clr:84,255,159>Vegas: They're coming from all around!"
 		"vegas.ScannerMultiple4"		"<clr:84,255,159>Vegas: They're coming from all around!"
-		
-		
+
+
 		"[english]vegas.ActivateStims0"		"<clr:84,255,159>Vegas: Activate stims."
 		"vegas.ActivateStims0"		"<clr:84,255,159>Vegas: Activate stims."
-		
-		
+
+
 		"[english]vegas.ActivateStims1"		"<clr:84,255,159>Vegas: Hit the stims."
 		"vegas.ActivateStims1"		"<clr:84,255,159>Vegas: Hit the stims."
-		
-		
+
+
 		"[english]vegas.ActivateStims2"		"<clr:84,255,159>Vegas: Stim now!"
 		"vegas.ActivateStims2"		"<clr:84,255,159>Vegas: Stim now!"
-		
-		
+
+
 		"[english]vegas.Compliments0"		"<clr:84,255,159>Vegas: Good job, amigo."
 		"vegas.Compliments0"		"<clr:84,255,159>Vegas: Good job, amigo."
-		
-		
+
+
 		"[english]vegas.Compliments1"		"<clr:84,255,159>Vegas: Impressive."
 		"vegas.Compliments1"		"<clr:84,255,159>Vegas: Impressive."
-		
-		
+
+
 		"[english]vegas.Compliments2"		"<clr:84,255,159>Vegas: Nice one, amigo."
 		"vegas.Compliments2"		"<clr:84,255,159>Vegas: Nice one, amigo."
-		
-		
+
+
 		"[english]vegas.Impatience0"		"<clr:84,255,159>Vegas: Clock is ticking, amigo."
 		"vegas.Impatience0"		"<clr:84,255,159>Vegas: Clock is ticking, amigo."
 
 
 "[english]vegas.Selection0"		"<clr:84,255,159>Vegas: Ready."
 "vegas.Selection0"		"<clr:84,255,159>Vegas: Klar."
-		
-		
+
+
 		"[english]vegas.Selection1"		"<clr:84,255,159>Vegas: Wanna play a little game?"
 		"vegas.Selection1"		"<clr:84,255,159>Vegas: Wanna play a little game?"
-		
-		
+
+
 		"[english]vegas.Selection2"		"<clr:84,255,159>Vegas: What do you want?"
 		"vegas.Selection2"		"<clr:84,255,159>Vegas: What do you want?"
-		
-		
-		
-		
+
+
+
+
 		//Wildcat
-		
+
 		"[english]wildcat.WolfeBestReply0"		"<clr:238,106,80>Wildcat: Heha! Yeah, well, We'll see who's the best now!"
 		"wildcat.WolfeBestReply0"		"<clr:238,106,80>Wildcat: Heha! Yeah, well, We'll see who's the best now!"
-		
-		
+
+
 		"[english]wildcat.WolfeBestReply1"		"<clr:238,106,80>Wildcat: Yeah, but I've got some tricks of my own."
 		"wildcat.WolfeBestReply1"		"<clr:238,106,80>Wildcat: Yeah, but I've got some tricks of my own."
-		
-		
+
+
 		"[english]wildcat.MedicComplainReply0"		"<clr:238,106,80>Wildcat: Hey, I give as much as I take."
 		"wildcat.MedicComplainReply0"		"<clr:238,106,80>Wildcat: Hey, I give as much as I take."
-		
-		
+
+
 		"[english]wildcat.TequilaReply0"		"<clr:238,106,80>Wildcat: Got enough for two?"
 		"wildcat.TequilaReply0"		"<clr:238,106,80>Wildcat: Got enough for two?"
-		
-		
+
+
 		"[english]wildcat.InjuredSelection0"		"<clr:238,106,80>Wildcat: I can make it."
 		"wildcat.InjuredSelection0"		"<clr:238,106,80>Wildcat: I can make it."
-		
-		
+
+
 		"[english]wildcat.InjuredSelection1"		"<clr:238,106,80>Wildcat: Make it quick."
 		"wildcat.InjuredSelection1"		"<clr:238,106,80>Wildcat: Make it quick."
-		
-		
+
+
 		"[english]wildcat.InjuredSelection2"		"<clr:238,106,80>Wildcat: They'll pay for this."
 		"wildcat.InjuredSelection2"		"<clr:238,106,80>Wildcat: They'll pay for this."
-		
-		
+
+
 		"[english]wildcat.SeriousInjuryReply0"		"<clr:238,106,80>Wildcat: Christ, can you just fix it up."
 		"wildcat.SeriousInjuryReply0"		"<clr:238,106,80>Wildcat: Christ, can you just fix it up."
-		
-		
+
+
 		"[english]wildcat.StillBreathingReply0"		"<clr:238,106,80>Wildcat: Hey, it's the same corp that made you sergeant."
 		"wildcat.StillBreathingReply0"		"<clr:238,106,80>Wildcat: Hey, it's the same corp that made you sergeant."
-		
-		
+
+
 		"[english]wildcat.Autogun0"		"<clr:238,106,80>Wildcat: Come on, there's plenty to go around."
 		"wildcat.Autogun0"		"<clr:238,106,80>Wildcat: Come on, there's plenty to go around."
-		
-		
+
+
 		"[english]wildcat.Autogun1"		"<clr:238,106,80>Wildcat: Die you son of a bitch, die!"
 		"wildcat.Autogun1"		"<clr:238,106,80>Wildcat: Die you son of a bitch, die!"
-		
-		
+
+
 		"[english]wildcat.Autogun2"		"<clr:238,106,80>Wildcat: Wiee! Those little crawlers are toast!"
 		"wildcat.Autogun2"		"<clr:238,106,80>Wildcat: Wiee! Those little crawlers are toast!"
-		
-		
+
+
 		"[english]wildcat.AutogunReply0"		"<clr:238,106,80>Wildcat: Hahaha, man!"
 		"wildcat.AutogunReply0"		"<clr:238,106,80>Wildcat: Hahaha, man!"
-		
-		
+
+
 		"[english]wildcat.AutogunReply1"		"<clr:238,106,80>Wildcat: Hell, yeah!"
 		"wildcat.AutogunReply1"		"<clr:238,106,80>Wildcat: Hell, yeah!"
-		
-		
+
+
 		"[english]wildcat.Use0"		"<clr:238,106,80>Wildcat: No problem."
 		"wildcat.Use0"		"<clr:238,106,80>Wildcat: No problem."
 
@@ -4737,8 +4737,8 @@
 
 "[english]wildcat.Idle0"		"<clr:238,106,80>Wildcat: Did you hear that noise."
 "wildcat.Idle0"		"<clr:238,106,80>Wildcat: Hørte du den lyden."
-		
-		
+
+
 		"[english]wildcat.Idle1"		"<clr:238,106,80>Wildcat: I say we set some T-75 explosives and get the hell out!"
 		"wildcat.Idle1"		"<clr:238,106,80>Wildcat: I say we set some T-75 explosives and get the hell out!"
 
@@ -4761,12 +4761,12 @@
 
 "[english]wildcat.Idle6"		"<clr:238,106,80>Wildcat: Shouldn't we be wasting bugs instead of cooling our heels?"
 "wildcat.Idle6"		"<clr:238,106,80>Wildcat: Burde ikke vi drepe insekter i stedet for å avkjøle hælene våre?"
-		
-		
+
+
 		"[english]wildcat.FF0"		"<clr:238,106,80>Wildcat: Christ, man."
 		"wildcat.FF0"		"<clr:238,106,80>Wildcat: Christ, man."
-		
-		
+
+
 		"[english]wildcat.FF1"		"<clr:238,106,80>Wildcat: Watch it, man!"
 		"wildcat.FF1"		"<clr:238,106,80>Wildcat: Watch it, man!"
 
@@ -4825,12 +4825,12 @@
 
 "[english]wildcat.Medic0"		"<clr:238,106,80>Wildcat: Medic!"
 "wildcat.Medic0"		"<clr:238,106,80>Wildcat: Medic!"
-		
-		
+
+
 		"[english]wildcat.WildcatKillStart0"		"<clr:238,106,80>Wildcat: Hah, you see that one, Wolfe?"
 		"wildcat.WildcatKillStart0"		"<clr:238,106,80>Wildcat: Hah, you see that one, Wolfe?"
-		
-		
+
+
 		"[english]wildcat.WildcatKillStart1"		"<clr:238,106,80>Wildcat: That's another for me, Wolfe. You slowing down old man."
 		"wildcat.WildcatKillStart1"		"<clr:238,106,80>Wildcat: That's another for me, Wolfe. You slowing down old man."
 
@@ -4845,8 +4845,8 @@
 
 "[english]wildcat.WildcatKillReplyBehind1"		"<clr:238,106,80>Wildcat: Damn it!"
 "wildcat.WildcatKillReplyBehind1"		"<clr:238,106,80>Wildcat: Pokker!"
-		
-		
+
+
 		"[english]wildcat.WolfeKillReplyAhead0"		"<clr:238,106,80>Wildcat: I'm still ahead, Wolfe."
 		"wildcat.WolfeKillReplyAhead0"		"<clr:238,106,80>Wildcat: I'm still ahead, Wolfe."
 
@@ -5013,8 +5013,8 @@
 
 "[english]wildcat.LockedTerminalVegas0"		"<clr:238,106,80>Wildcat: Vegas, this is all yours."
 "wildcat.LockedTerminalVegas0"		"<clr:238,106,80>Wildcat: Vegas, alt dette er ditt."
-		
-		
+
+
 		"[english]wildcat.LockedTerminal0"		"<clr:238,106,80>Wildcat: Damn it. All locked down."
 		"wildcat.LockedTerminal0"		"<clr:238,106,80>Wildcat: Damn it. All locked down."
 
@@ -5061,8 +5061,8 @@
 
 "[english]wildcat.HoldingSouth1"		"<clr:238,106,80>Wildcat: Covering south."
 "wildcat.HoldingSouth1"		"<clr:238,106,80>Wildcat: Dekker sør."
-		
-		
+
+
 		"[english]wildcat.HoldingSouth2"		"<clr:238,106,80>Wildcat: South side covered."
 		"wildcat.HoldingSouth2"		"<clr:238,106,80>Wildcat: South side covered."
 
@@ -5093,24 +5093,24 @@
 
 "[english]wildcat.HoldingWest2"		"<clr:238,106,80>Wildcat: West side in position."
 "wildcat.HoldingWest2"		"<clr:238,106,80>Wildcat: Vestsiden i posisjon."
-		
-		
+
+
 		"[english]wildcat.GotPoint0"		"<clr:238,106,80>Wildcat: I've got point."
 		"wildcat.GotPoint0"		"<clr:238,106,80>Wildcat: I've got point."
 
 
 "[english]wildcat.GotPoint1"		"<clr:238,106,80>Wildcat: Wildcat taking point."
 "wildcat.GotPoint1"		"<clr:238,106,80>Wildcat: Wildcat tar ledelsen."
-		
-		
+
+
 		"[english]wildcat.GotRear0"		"<clr:238,106,80>Wildcat: Dont worry guys, I've got your back."
 		"wildcat.GotRear0"		"<clr:238,106,80>Wildcat: Dont worry guys, I've got your back."
-		
-		
+
+
 		"[english]wildcat.GotRear1"		"<clr:238,106,80>Wildcat: Wildcat's on six."
 		"wildcat.GotRear1"		"<clr:238,106,80>Wildcat: Wildcat's on six."
-		
-		
+
+
 		"[english]wildcat.GotRear2"		"<clr:238,106,80>Wildcat: Wildcat taking rear guard."
 		"wildcat.GotRear2"		"<clr:238,106,80>Wildcat: Wildcat taking rear guard."
 
@@ -5153,20 +5153,20 @@
 
 "[english]wildcat.SealingDoor1"		"<clr:238,106,80>Wildcat: Wildcat sealing door."
 "wildcat.SealingDoor1"		"<clr:238,106,80>Wildcat: Wildcat forsegler døren."
-		
-		
+
+
 		"[english]wildcat.Biomass0"		"<clr:238,106,80>Wildcat: Swarm biomass! Burn it all."
 		"wildcat.Biomass0"		"<clr:238,106,80>Wildcat: Swarm biomass! Burn it all."
-		
-		
+
+
 		"[english]wildcat.Biomass1"		"<clr:238,106,80>Wildcat: Swarm biomass. I hate this stuff."
 		"wildcat.Biomass1"		"<clr:238,106,80>Wildcat: Swarm biomass. I hate this stuff."
-		
-		
+
+
 		"[english]wildcat.TimeToLeave0"		"<clr:238,106,80>Wildcat: That's it, we're out of here."
 		"wildcat.TimeToLeave0"		"<clr:238,106,80>Wildcat: That's it, we're out of here."
-		
-		
+
+
 		"[english]wildcat.TimeToLeave1"		"<clr:238,106,80>Wildcat: Time to get the hell out."
 		"wildcat.TimeToLeave1"		"<clr:238,106,80>Wildcat: Time to get the hell out."
 
@@ -5177,12 +5177,12 @@
 
 "[english]wildcat.WatchOut1"		"<clr:238,106,80>Wildcat: Watch it!"
 "wildcat.WatchOut1"		"<clr:238,106,80>Wildcat: Se opp!"
-		
-		
+
+
 		"[english]wildcat.WatchOut2"		"<clr:238,106,80>Wildcat: Watch out."
 		"wildcat.WatchOut2"		"<clr:238,106,80>Wildcat: Watch out."
-		
-		
+
+
 		"[english]wildcat.Shieldbug0"		"<clr:238,106,80>Wildcat: A shieldbug, kill it!"
 		"wildcat.Shieldbug0"		"<clr:238,106,80>Wildcat: A shieldbug, kill it!"
 
@@ -5221,44 +5221,44 @@
 
 "[english]wildcat.SwarmEggs1"		"<clr:238,106,80>Wildcat: Swarm eggs."
 "wildcat.SwarmEggs1"		"<clr:238,106,80>Wildcat: Sverm-egg."
-		
-		
+
+
 		"[english]wildcat.SwarmEggs2"		"<clr:238,106,80>Wildcat: Swarm eggs, take em out."
 		"wildcat.SwarmEggs2"		"<clr:238,106,80>Wildcat: Swarm eggs, take em out."
 
 
 "[english]wildcat.AlienTooClose0"		"<clr:238,106,80>Wildcat: Kill it!"
 "wildcat.AlienTooClose0"		"<clr:238,106,80>Wildcat: Drep den!"
-		
-		
+
+
 		"[english]wildcat.AlienTooClose1"		"<clr:238,106,80>Wildcat: Get it off!"
 		"wildcat.AlienTooClose1"		"<clr:238,106,80>Wildcat: Get it off!"
 
 
 "[english]wildcat.AlienTooClose2"		"<clr:238,106,80>Wildcat: Kill it!"
 "wildcat.AlienTooClose2"		"<clr:238,106,80>Wildcat: Drep den!"
-		
-		
+
+
 		"[english]wildcat.AlienTooClose3"		"<clr:238,106,80>Wildcat: On me!"
 		"wildcat.AlienTooClose3"		"<clr:238,106,80>Wildcat: On me!"
-		
-		
+
+
 		"[english]wildcat.MadFiring0"		"<clr:238,106,80>Wildcat: I'll kill you all!"
 		"wildcat.MadFiring0"		"<clr:238,106,80>Wildcat: I'll kill you all!"
-		
-		
+
+
 		"[english]wildcat.MadFiring1"		"<clr:238,106,80>Wildcat: Payback's a bitch, ain't it."
 		"wildcat.MadFiring1"		"<clr:238,106,80>Wildcat: Payback's a bitch, ain't it."
-		
-		
+
+
 		"[english]wildcat.MadFiring2"		"<clr:238,106,80>Wildcat: You like this?"
 		"wildcat.MadFiring2"		"<clr:238,106,80>Wildcat: You like this?"
 
 
 "[english]wildcat.BreachedDoor0"		"<clr:238,106,80>Wildcat: Look out, they're through!"
 "wildcat.BreachedDoor0"		"<clr:238,106,80>Wildcat: Se opp, de er igjennom!"
-		
-		
+
+
 		"[english]wildcat.BreachedDoor1"		"<clr:238,106,80>Wildcat: They're through."
 		"wildcat.BreachedDoor1"		"<clr:238,106,80>Wildcat: They're through."
 
@@ -5297,32 +5297,32 @@
 
 "[english]wildcat.OnFire0"		"<clr:238,106,80>Wildcat: [Screaming]"
 "wildcat.OnFire0"		"<clr:238,106,80>Wildcat: [Skrikende]"
-		
-		
+
+
 		"[english]wildcat.ActivateStims0"		"<clr:238,106,80>Wildcat: Activate the stim pack."
 		"wildcat.ActivateStims0"		"<clr:238,106,80>Wildcat: Activate the stim pack."
-		
-		
+
+
 		"[english]wildcat.ActivateStims1"		"<clr:238,106,80>Wildcat: Hit the stims."
 		"wildcat.ActivateStims1"		"<clr:238,106,80>Wildcat: Hit the stims."
-		
-		
+
+
 		"[english]wildcat.ActivateStims2"		"<clr:238,106,80>Wildcat: Stim now."
 		"wildcat.ActivateStims2"		"<clr:238,106,80>Wildcat: Stim now."
-		
-		
+
+
 		"[english]wildcat.ActivateStims3"		"<clr:238,106,80>Wildcat: Stimpack now."
 		"wildcat.ActivateStims3"		"<clr:238,106,80>Wildcat: Stimpack now."
 
 
 "[english]wildcat.ComplimentsWolfe0"		"<clr:238,106,80>Wildcat: Nice shot, Wolfe."
 "wildcat.ComplimentsWolfe0"		"<clr:238,106,80>Wildcat: Bra skutt, Wolfe."
-		
-		
+
+
 		"[english]wildcat.ComplimentsWolfe1"		"<clr:238,106,80>Wildcat: Not bad, Wolfe. For an old timer."
 		"wildcat.ComplimentsWolfe1"		"<clr:238,106,80>Wildcat: Not bad, Wolfe. For an old timer."
-		
-		
+
+
 		"[english]wildcat.ComplimentsCrash0"		"<clr:238,106,80>Wildcat: Hey Crash, you're my hero."
 		"wildcat.ComplimentsCrash0"		"<clr:238,106,80>Wildcat: Hey Crash, you're my hero."
 
@@ -5337,8 +5337,8 @@
 
 "[english]wildcat.Selection0"		"<clr:238,106,80>Wildcat: Anytime, anywhere."
 "wildcat.Selection0"		"<clr:238,106,80>Wildcat: Når som helst, hvor som helst."
-		
-		
+
+
 		"[english]wildcat.Selection1"		"<clr:238,106,80>Wildcat: Let's do this."
 		"wildcat.Selection1"		"<clr:238,106,80>Wildcat: Let's do this."
 
@@ -5376,24 +5376,24 @@
 
 "[english]wolfe.WolfeBestReply0"		"<clr:154,205,50>Wolfe: Bring it on!"
 "wolfe.WolfeBestReply0"		"<clr:154,205,50>Wolfe: Bare prøv dere!"
-		
-		
+
+
 		"[english]wolfe.WolfeBestReply1"		"<clr:154,205,50>Wolfe: Bring it on, Kitty Cat."
 		"wolfe.WolfeBestReply1"		"<clr:154,205,50>Wolfe: Bring it on, Kitty Cat."
 
 
 "[english]wolfe.WolfeBestReply2"		"<clr:154,205,50>Wolfe: Now that sounds like a challenge."
 "wolfe.WolfeBestReply2"		"<clr:154,205,50>Wolfe: Nå dette høres ut som en utfordring."
-		
-		
+
+
 		"[english]wolfe.WolfeBestReply3"		"<clr:154,205,50>Wolfe: Oh, now it's on!"
 		"wolfe.WolfeBestReply3"		"<clr:154,205,50>Wolfe: Oh, now it's on!"
-		
-		
+
+
 		"[english]wolfe.WolfeBestReply4"		"<clr:154,205,50>Wolfe: Oh, now it's on."
 		"wolfe.WolfeBestReply4"		"<clr:154,205,50>Wolfe: Oh, now it's on."
-		
-		
+
+
 		"[english]wolfe.WolfeBestReply5"		"<clr:154,205,50>Wolfe: Oh, yeah, bring it on!"
 		"wolfe.WolfeBestReply5"		"<clr:154,205,50>Wolfe: Oh, yeah, bring it on!"
 
@@ -5440,13 +5440,13 @@
 
 "[english]wolfe.InjuredSelection3"		"<clr:154,205,50>Wolfe: It's time we hit em where it hurts most. All over."
 "wolfe.InjuredSelection3"		"<clr:154,205,50>Wolfe: Det er på tide vi traff dem der det gjør vondt mest. Overalt."
-		
+
 		"[english]wolfe.SeriousInjuryReply0"		"<clr:154,205,50>Wolfe: No way, you gotta be kidding."
 		"wolfe.SeriousInjuryReply0"		"<clr:154,205,50>Wolfe: No way, you gotta be kidding."
 
 "[english]wolfe.Autogun0"		"<clr:154,205,50>Wolfe: Dance, bugs, dance. While you can."
 "wolfe.Autogun0"		"<clr:154,205,50>Wolfe: Dans, insekter, dans. Mens du kan."
-		
+
 		"[english]wolfe.Autogun1"		"<clr:154,205,50>Wolfe: Eat it up, suckers."
 		"wolfe.Autogun1"		"<clr:154,205,50>Wolfe: Eat it up, suckers."
 
@@ -5499,16 +5499,16 @@
 
 "[english]wolfe.Use7"		"<clr:154,205,50>Wolfe: Yeah."
 "wolfe.Use7"		"<clr:154,205,50>Wolfe: Jepp."
-		
-		
+
+
 		"[english]wolfe.Idle0"		"<clr:154,205,50>Wolfe: Don't get too close. I got a thing for collateral damage."
 		"wolfe.Idle0"		"<clr:154,205,50>Wolfe: Don't get too close. I got a thing for collateral damage."
 
 
 "[english]wolfe.Idle1"		"<clr:154,205,50>Wolfe: I smell bugs. They're nasty and almost as ugly as me."
 "wolfe.Idle1"		"<clr:154,205,50>Wolfe: Jeg lukter insekter. De er ekle og nesten like stygg som meg."
-		
-		
+
+
 		"[english]wolfe.Idle2"		"<clr:154,205,50>Wolfe: I got some scores to settle."
 		"wolfe.Idle2"		"<clr:154,205,50>Wolfe: I got some scores to settle."
 
@@ -5579,8 +5579,8 @@
 
 "[english]wolfe.NoAmmo0"		"<clr:154,205,50>Wolfe: I need some ammo here."
 "wolfe.NoAmmo0"		"<clr:154,205,50>Wolfe: Jeg trenger litt ammo her."
-		
-		
+
+
 		"[english]wolfe.NoAmmo1"		"<clr:154,205,50>Wolfe: Anyone got spare?"
 		"wolfe.NoAmmo1"		"<clr:154,205,50>Wolfe: Anyone got spare?"
 
@@ -5591,20 +5591,20 @@
 
 "[english]wolfe.WildcatKillReplyAhead0"		"<clr:154,205,50>Wolfe: Good one. But I've killed more."
 "wolfe.WildcatKillReplyAhead0"		"<clr:154,205,50>Wolfe: Nydelig. Men jeg har drept flere."
-		
-		
+
+
 		"[english]wolfe.WildcatKillReplyAhead1"		"<clr:154,205,50>Wolfe: You've got a while to catch up with me, girl."
 		"wolfe.WildcatKillReplyAhead1"		"<clr:154,205,50>Wolfe: You've got a while to catch up with me, girl."
-		
-		
+
+
 		"[english]wolfe.WildcatKillReplyBehind0"		"<clr:154,205,50>Wolfe: Ah, you're ahead. For now."
 		"wolfe.WildcatKillReplyBehind0"		"<clr:154,205,50>Wolfe: Ah, you're ahead. For now."
-		
-		
+
+
 		"[english]wolfe.WildcatKillReplyBehind1"		"<clr:154,205,50>Wolfe: Just warming up. Better get all the kills you can."
 		"wolfe.WildcatKillReplyBehind1"		"<clr:154,205,50>Wolfe: Just warming up. Better get all the kills you can."
-		
-		
+
+
 		"[english]wolfe.WildcatKillReplyBehind2"		"<clr:154,205,50>Wolfe: That one back there, that didn't count."
 		"wolfe.WildcatKillReplyBehind2"		"<clr:154,205,50>Wolfe: That one back there, that didn't count."
 
@@ -5623,8 +5623,8 @@
 
 "[english]wolfe.WolfeKillReplyBehind0"		"<clr:154,205,50>Wolfe: There's still plenty of time."
 "wolfe.WolfeKillReplyBehind0"		"<clr:154,205,50>Wolfe: Det er fortsatt god tid."
-		
-		
+
+
 		"[english]wolfe.WolfeKillReplyBehind1"		"<clr:154,205,50>Wolfe: It's not the count, it's the style."
 		"wolfe.WolfeKillReplyBehind1"		"<clr:154,205,50>Wolfe: It's not the count, it's the style."
 
@@ -5667,16 +5667,16 @@
 
 "[english]wolfe.Ammo0"		"<clr:154,205,50>Wolfe: I need some ammo here."
 "wolfe.Ammo0"		"<clr:154,205,50>Wolfe: Jeg trenger litt ammo her."
-		
-		
+
+
 		"[english]wolfe.Medkit0"		"<clr:154,205,50>Wolfe: Get that med kit."
 		"wolfe.Medkit0"		"<clr:154,205,50>Wolfe: Get that med kit."
 
 
 "[english]wolfe.Medkit1"		"<clr:154,205,50>Wolfe: Med kit."
 "wolfe.Medkit1"		"<clr:154,205,50>Wolfe: Førstehjelp."
-		
-		
+
+
 		"[english]wolfe.Medkit2"		"<clr:154,205,50>Wolfe: There's a med kit."
 		"wolfe.Medkit2"		"<clr:154,205,50>Wolfe: There's a med kit."
 
@@ -5695,8 +5695,8 @@
 
 "[english]wolfe.Thanks3"		"<clr:154,205,50>Wolfe: Thanks to you."
 "wolfe.Thanks3"		"<clr:154,205,50>Wolfe: Takket være deg."
-		
-		
+
+
 		"[english]wolfe.Thanks4"		"<clr:154,205,50>Wolfe: Thank you."
 		"wolfe.Thanks4"		"<clr:154,205,50>Wolfe: Thank you."
 
@@ -5867,8 +5867,8 @@
 
 "[english]wolfe.Supplies1"		"<clr:154,205,50>Wolfe: Ah, supplies."
 "wolfe.Supplies1"		"<clr:154,205,50>Wolfe: Ah, forsyninger."
-		
-		
+
+
 		"[english]wolfe.Supplies2"		"<clr:154,205,50>Wolfe: Hey guys, supplies! Just what we need."
 		"wolfe.Supplies2"		"<clr:154,205,50>Wolfe: Hey guys, supplies! Just what we need."
 
@@ -5891,12 +5891,12 @@
 
 "[english]wolfe.HoldingPosition3"		"<clr:154,205,50>Wolfe: In position."
 "wolfe.HoldingPosition3"		"<clr:154,205,50>Wolfe: I posisjon."
-		
-		
+
+
 		"[english]wolfe.HoldingPosition4"		"<clr:154,205,50>Wolfe: Nothing's getting past me."
 		"wolfe.HoldingPosition4"		"<clr:154,205,50>Wolfe: Nothing's getting past me."
-		
-		
+
+
 		"[english]wolfe.HoldingPosition5"		"<clr:154,205,50>Wolfe: Secure area."
 		"wolfe.HoldingPosition5"		"<clr:154,205,50>Wolfe: Secure area."
 
@@ -5907,20 +5907,20 @@
 
 "[english]wolfe.HoldingNorth1"		"<clr:154,205,50>Wolfe: Covering north side."
 "wolfe.HoldingNorth1"		"<clr:154,205,50>Wolfe: Dekker nordsiden."
-		
-		
+
+
 		"[english]wolfe.HoldingNorth2"		"<clr:154,205,50>Wolfe: I got north side."
 		"wolfe.HoldingNorth2"		"<clr:154,205,50>Wolfe: I got north side."
-		
-		
+
+
 		"[english]wolfe.HoldingNorth3"		"<clr:154,205,50>Wolfe: North side in place."
 		"wolfe.HoldingNorth3"		"<clr:154,205,50>Wolfe: North side in place."
-		
-		
+
+
 		"[english]wolfe.HoldingNorth4"		"<clr:154,205,50>Wolfe: North side is mine."
 		"wolfe.HoldingNorth4"		"<clr:154,205,50>Wolfe: North side is mine."
-		
-		
+
+
 		"[english]wolfe.HoldingNorth5"		"<clr:154,205,50>Wolfe: North side standing to."
 		"wolfe.HoldingNorth5"		"<clr:154,205,50>Wolfe: North side standing to."
 
@@ -5931,20 +5931,20 @@
 
 "[english]wolfe.HoldingSouth1"		"<clr:154,205,50>Wolfe: Covering south side."
 "wolfe.HoldingSouth1"		"<clr:154,205,50>Wolfe: Dekker sørsiden."
-		
-		
+
+
 		"[english]wolfe.HoldingSouth2"		"<clr:154,205,50>Wolfe: I got south side."
 		"wolfe.HoldingSouth2"		"<clr:154,205,50>Wolfe: I got south side."
-		
-		
+
+
 		"[english]wolfe.HoldingSouth3"		"<clr:154,205,50>Wolfe: South side in place."
 		"wolfe.HoldingSouth3"		"<clr:154,205,50>Wolfe: South side in place."
-		
-		
+
+
 		"[english]wolfe.HoldingSouth4"		"<clr:154,205,50>Wolfe: South side is mine."
 		"wolfe.HoldingSouth4"		"<clr:154,205,50>Wolfe: South side is mine."
-		
-		
+
+
 		"[english]wolfe.HoldingSouth5"		"<clr:154,205,50>Wolfe: South side standing to."
 		"wolfe.HoldingSouth5"		"<clr:154,205,50>Wolfe: South side standing to."
 
@@ -5955,20 +5955,20 @@
 
 "[english]wolfe.HoldingEast1"		"<clr:154,205,50>Wolfe: Covering east side."
 "wolfe.HoldingEast1"		"<clr:154,205,50>Wolfe: Dekker østsiden."
-		
-		
+
+
 		"[english]wolfe.HoldingEast2"		"<clr:154,205,50>Wolfe: East side in place."
 		"wolfe.HoldingEast2"		"<clr:154,205,50>Wolfe: East side in place."
-		
-		
+
+
 		"[english]wolfe.HoldingEast3"		"<clr:154,205,50>Wolfe: East side is mine."
 		"wolfe.HoldingEast3"		"<clr:154,205,50>Wolfe: East side is mine."
-		
-		
+
+
 		"[english]wolfe.HoldingEast4"		"<clr:154,205,50>Wolfe: East side standing to."
 		"wolfe.HoldingEast4"		"<clr:154,205,50>Wolfe: East side standing to."
-		
-		
+
+
 		"[english]wolfe.HoldingEast5"		"<clr:154,205,50>Wolfe: Got east side."
 		"wolfe.HoldingEast5"		"<clr:154,205,50>Wolfe: Got east side."
 
@@ -5979,44 +5979,44 @@
 
 "[english]wolfe.HoldingWest1"		"<clr:154,205,50>Wolfe: Covering west side."
 "wolfe.HoldingWest1"		"<clr:154,205,50>Wolfe: Dekker vestsiden."
-		
-		
+
+
 		"[english]wolfe.HoldingWest2"		"<clr:154,205,50>Wolfe: I got west side."
 		"wolfe.HoldingWest2"		"<clr:154,205,50>Wolfe: I got west side."
-		
-		
+
+
 		"[english]wolfe.HoldingWest3"		"<clr:154,205,50>Wolfe: West side in place."
 		"wolfe.HoldingWest3"		"<clr:154,205,50>Wolfe: West side in place."
-		
-		
+
+
 		"[english]wolfe.HoldingWest4"		"<clr:154,205,50>Wolfe: West side is mine."
 		"wolfe.HoldingWest4"		"<clr:154,205,50>Wolfe: West side is mine."
-		
-		
+
+
 		"[english]wolfe.HoldingWest5"		"<clr:154,205,50>Wolfe: West side standing to."
 		"wolfe.HoldingWest5"		"<clr:154,205,50>Wolfe: West side standing to."
-		
-		
+
+
 		"[english]wolfe.GotPoint0"		"<clr:154,205,50>Wolfe: I got point."
 		"wolfe.GotPoint0"		"<clr:154,205,50>Wolfe: I got point."
-		
-		
+
+
 		"[english]wolfe.GotPoint1"		"<clr:154,205,50>Wolfe: I'll take point."
 		"wolfe.GotPoint1"		"<clr:154,205,50>Wolfe: I'll take point."
 
 
 "[english]wolfe.GotPoint2"		"<clr:154,205,50>Wolfe: Taking point."
 "wolfe.GotPoint2"		"<clr:154,205,50>Wolfe: Tar poeng."
-		
-		
+
+
 		"[english]wolfe.GotRear0"		"<clr:154,205,50>Wolfe: I got the back."
 		"wolfe.GotRear0"		"<clr:154,205,50>Wolfe: I got the back."
-		
-		
+
+
 		"[english]wolfe.GotRear1"		"<clr:154,205,50>Wolfe: I'll cover the back."
 		"wolfe.GotRear1"		"<clr:154,205,50>Wolfe: I'll cover the back."
-		
-		
+
+
 		"[english]wolfe.GotRear2"		"<clr:154,205,50>Wolfe: Taking rear guard."
 		"wolfe.GotRear2"		"<clr:154,205,50>Wolfe: Taking rear guard."
 
@@ -6027,8 +6027,8 @@
 
 "[english]wolfe.RequestSealDoor1"		"<clr:154,205,50>Wolfe: Seal it up."
 "wolfe.RequestSealDoor1"		"<clr:154,205,50>Wolfe: Forsegle den."
-		
-		
+
+
 		"[english]wolfe.RequestSealDoor2"		"<clr:154,205,50>Wolfe: Seal it up. We don't want those things getting in here."
 		"wolfe.RequestSealDoor2"		"<clr:154,205,50>Wolfe: Seal it up. We don't want those things getting in here."
 
@@ -6055,8 +6055,8 @@
 
 "[english]wolfe.RequestShootDoor1"		"<clr:154,205,50>Wolfe: Oh yeah, let's blast this door to hell!"
 "wolfe.RequestShootDoor1"		"<clr:154,205,50>Wolfe: Jadda, la oss sprenge denne døren til helvete!"
-		
-		
+
+
 		"[english]wolfe.RequestShootDoor2"		"<clr:154,205,50>Wolfe: Okay, let's blast this door to hell."
 		"wolfe.RequestShootDoor2"		"<clr:154,205,50>Wolfe: Okay, let's blast this door to hell."
 
@@ -6083,8 +6083,8 @@
 
 "[english]wolfe.SealingDoor0"		"<clr:154,205,50>Wolfe: Okay, sealing door."
 "wolfe.SealingDoor0"		"<clr:154,205,50>Wolfe: Okay, forsegler døren."
-		
-		
+
+
 		"[english]wolfe.SealingDoor1"		"<clr:154,205,50>Wolfe: Sealing door nice and tight."
 		"wolfe.SealingDoor1"		"<clr:154,205,50>Wolfe: Sealing door nice and tight."
 
@@ -6095,100 +6095,100 @@
 
 "[english]wolfe.SealingDoor3"		"<clr:154,205,50>Wolfe: Wolfe sealing door."
 "wolfe.SealingDoor3"		"<clr:154,205,50>Wolfe: Wolfe forsegler døren."
-		
-		
+
+
 		"[english]wolfe.Biomass0"		"<clr:154,205,50>Wolfe: Biomass. Man, I hate this shit."
 		"wolfe.Biomass0"		"<clr:154,205,50>Wolfe: Biomass. Man, I hate this shit."
-		
-		
+
+
 		"[english]wolfe.Biomass1"		"<clr:154,205,50>Wolfe: Hey, there's some of that gooey stuff here."
 		"wolfe.Biomass1"		"<clr:154,205,50>Wolfe: Hey, there's some of that gooey stuff here."
-		
-		
+
+
 		"[english]wolfe.Biomass2"		"<clr:154,205,50>Wolfe: Swarm biomass! Burn it all."
 		"wolfe.Biomass2"		"<clr:154,205,50>Wolfe: Swarm biomass! Burn it all."
-		
-		
+
+
 		"[english]wolfe.Biomass3"		"<clr:154,205,50>Wolfe: Ugh. Swarm biomass. Burn it."
 		"wolfe.Biomass3"		"<clr:154,205,50>Wolfe: Ugh. Swarm biomass. Burn it."
-		
-		
+
+
 		"[english]wolfe.Biomass4"		"<clr:154,205,50>Wolfe: We got some alien goo here."
 		"wolfe.Biomass4"		"<clr:154,205,50>Wolfe: We got some alien goo here."
-		
-		
+
+
 		"[english]wolfe.TimeToLeave0"		"<clr:154,205,50>Wolfe: Job's done. Time to skedaddle."
 		"wolfe.TimeToLeave0"		"<clr:154,205,50>Wolfe: Job's done. Time to skedaddle."
 
 
 "[english]wolfe.TimeToLeave1"		"<clr:154,205,50>Wolfe: Okay, let's get out of here."
 "wolfe.TimeToLeave1"		"<clr:154,205,50>Wolfe: Greit, nå må vi komme oss ut herfra."
-		
-		
+
+
 		"[english]wolfe.TimeToLeave2"		"<clr:154,205,50>Wolfe: Our job here is done."
 		"wolfe.TimeToLeave2"		"<clr:154,205,50>Wolfe: Our job here is done."
-		
-		
+
+
 		"[english]wolfe.TimeToLeave3"		"<clr:154,205,50>Wolfe: Time to move out."
 		"wolfe.TimeToLeave3"		"<clr:154,205,50>Wolfe: Time to move out."
-		
-		
+
+
 		"[english]wolfe.TimeToLeave4"		"<clr:154,205,50>Wolfe: Whoa. Time to wave this place goodbye."
 		"wolfe.TimeToLeave4"		"<clr:154,205,50>Wolfe: Whoa. Time to wave this place goodbye."
-		
-		
+
+
 		"[english]wolfe.TimeToLeave5"		"<clr:154,205,50>Wolfe: Woohoo. Time to wave this place goodbye."
 		"wolfe.TimeToLeave5"		"<clr:154,205,50>Wolfe: Woohoo. Time to wave this place goodbye."
-		
-		
+
+
 		"[english]wolfe.TimeToLeave6"		"<clr:154,205,50>Wolfe: Yeah, let's get outta here."
 		"wolfe.TimeToLeave6"		"<clr:154,205,50>Wolfe: Yeah, let's get outta here."
-		
-		
+
+
 		"[english]wolfe.TimeToLeave7"		"<clr:154,205,50>Wolfe: Yeah, time to wave this place goodbye."
 		"wolfe.TimeToLeave7"		"<clr:154,205,50>Wolfe: Yeah, time to wave this place goodbye."
 
 
 "[english]wolfe.WatchOut0"		"<clr:154,205,50>Wolfe: Lookout!"
 "wolfe.WatchOut0"		"<clr:154,205,50>Wolfe: Se opp!"
-		
-		
+
+
 		"[english]wolfe.WatchOut1"		"<clr:154,205,50>Wolfe: There!"
 		"wolfe.WatchOut1"		"<clr:154,205,50>Wolfe: There!"
-		
-		
+
+
 		"[english]wolfe.WatchOut2"		"<clr:154,205,50>Wolfe: Watchout!"
 		"wolfe.WatchOut2"		"<clr:154,205,50>Wolfe: Watchout!"
-		
-		
+
+
 		"[english]wolfe.Shieldbug0"		"<clr:154,205,50>Wolfe: A shieldbug!"
 		"wolfe.Shieldbug0"		"<clr:154,205,50>Wolfe: A shieldbug!"
 
 
 "[english]wolfe.Shieldbug1"		"<clr:154,205,50>Wolfe: Holy shit."
 "wolfe.Shieldbug1"		"<clr:154,205,50>Wolfe: Fy faen."
-		
-		
+
+
 		"[english]wolfe.Shieldbug2"		"<clr:154,205,50>Wolfe: It's a shieldbug."
 		"wolfe.Shieldbug2"		"<clr:154,205,50>Wolfe: It's a shieldbug."
-		
-		
+
+
 		"[english]wolfe.Shieldbug3"		"<clr:154,205,50>Wolfe: Shit, a shieldbug!"
 		"wolfe.Shieldbug3"		"<clr:154,205,50>Wolfe: Shit, a shieldbug!"
 
 
 "[english]wolfe.ShieldbugHint0"		"<clr:154,205,50>Wolfe: Get behind it."
 "wolfe.ShieldbugHint0"		"<clr:154,205,50>Wolfe: Kom dere bak den."
-		
-		
+
+
 		"[english]wolfe.ShieldbugHint1"		"<clr:154,205,50>Wolfe: Get behind it quick."
 		"wolfe.ShieldbugHint1"		"<clr:154,205,50>Wolfe: Get behind it quick."
 
 
 "[english]wolfe.ShieldbugHint2"		"<clr:154,205,50>Wolfe: Shoot it in the back!"
 "wolfe.ShieldbugHint2"		"<clr:154,205,50>Wolfe: Skyt den i ryggen!"
-		
-		
+
+
 		"[english]wolfe.ShieldbugHint3"		"<clr:154,205,50>Wolfe: Someone grenade it!"
 		"wolfe.ShieldbugHint3"		"<clr:154,205,50>Wolfe: Someone grenade it!"
 
@@ -6295,76 +6295,76 @@
 
 "[english]wolfe.AlienTooClose2"		"<clr:154,205,50>Wolfe: Kill it!"
 "wolfe.AlienTooClose2"		"<clr:154,205,50>Wolfe: Drep den!"
-		
-		
+
+
 		"[english]wolfe.AlienTooClose3"		"<clr:154,205,50>Wolfe: On me."
 		"wolfe.AlienTooClose3"		"<clr:154,205,50>Wolfe: On me."
-		
-		
+
+
 		"[english]wolfe.AlienTooClose4"		"<clr:154,205,50>Wolfe: On me, on me!"
 		"wolfe.AlienTooClose4"		"<clr:154,205,50>Wolfe: On me, on me!"
-		
-		
+
+
 		"[english]wolfe.MadFiring0"		"<clr:154,205,50>Wolfe: Come on, get a piece of me!"
 		"wolfe.MadFiring0"		"<clr:154,205,50>Wolfe: Come on, get a piece of me!"
-		
-		
+
+
 		"[english]wolfe.MadFiring1"		"<clr:154,205,50>Wolfe: Hah! You want some of this."
 		"wolfe.MadFiring1"		"<clr:154,205,50>Wolfe: Hah! You want some of this."
-		
-		
+
+
 		"[english]wolfe.MadFiring2"		"<clr:154,205,50>Wolfe: You want some? Yeah, you want some of this!"
 		"wolfe.MadFiring2"		"<clr:154,205,50>Wolfe: You want some? Yeah, you want some of this!"
-		
-		
+
+
 		"[english]wolfe.MadFiring3"		"<clr:154,205,50>Wolfe: Oh, right. Say hello to my friend."
 		"wolfe.MadFiring3"		"<clr:154,205,50>Wolfe: Oh, right. Say hello to my friend."
-		
-		
+
+
 		"[english]wolfe.MadFiring4"		"<clr:154,205,50>Wolfe: Say hello to my friend."
 		"wolfe.MadFiring4"		"<clr:154,205,50>Wolfe: Say hello to my friend."
-		
-		
+
+
 		"[english]wolfe.MadFiring5"		"<clr:154,205,50>Wolfe: Who wants some more? Ehahha!"
 		"wolfe.MadFiring5"		"<clr:154,205,50>Wolfe: Who wants some more? Ehahha!"
-		
-		
+
+
 		"[english]wolfe.MadFiring6"		"<clr:154,205,50>Wolfe: Yeah, hahaha. You want some of this, you want some?"
 		"wolfe.MadFiring6"		"<clr:154,205,50>Wolfe: Yeah, hahaha. You want some of this, you want some?"
-		
-		
+
+
 		"[english]wolfe.MadFiring7"		"<clr:154,205,50>Wolfe: Yeah, you want some of this."
 		"wolfe.MadFiring7"		"<clr:154,205,50>Wolfe: Yeah, you want some of this."
-		
-		
+
+
 		"[english]wolfe.MadFiring8"		"<clr:154,205,50>Wolfe: Yeah, haaagh! You want some of that."
 		"wolfe.MadFiring8"		"<clr:154,205,50>Wolfe: Yeah, haaagh! You want some of that."
-		
-		
+
+
 		"[english]wolfe.MadFiring9"		"<clr:154,205,50>Wolfe: Yeah, hahhh! You want some of this."
 		"wolfe.MadFiring9"		"<clr:154,205,50>Wolfe: Yeah, hahhh! You want some of this."
-		
-		
+
+
 		"[english]wolfe.MadFiring10"		"<clr:154,205,50>Wolfe: Yeah, say hello to my friend."
 		"wolfe.MadFiring10"		"<clr:154,205,50>Wolfe: Yeah, say hello to my friend."
 
 
 "[english]wolfe.MadFiring11"		"<clr:154,205,50>Wolfe: Yehahaha. You want some?"
 "wolfe.MadFiring11"		"<clr:154,205,50>Wolfe: Yehahaha. Vil du ha litt?"
-		
-		
+
+
 		"[english]wolfe.BreachedDoor0"		"<clr:154,205,50>Wolfe: Hostiles through the door."
 		"wolfe.BreachedDoor0"		"<clr:154,205,50>Wolfe: Hostiles through the door."
-		
-		
+
+
 		"[english]wolfe.BreachedDoor1"		"<clr:154,205,50>Wolfe: They broke it down."
 		"wolfe.BreachedDoor1"		"<clr:154,205,50>Wolfe: They broke it down."
-		
-		
+
+
 		"[english]wolfe.BreachedDoor2"		"<clr:154,205,50>Wolfe: They broke through the door."
 		"wolfe.BreachedDoor2"		"<clr:154,205,50>Wolfe: They broke through the door."
-		
-		
+
+
 		"[english]wolfe.BreachedDoor3"		"<clr:154,205,50>Wolfe: They've breached the door."
 		"wolfe.BreachedDoor3"		"<clr:154,205,50>Wolfe: They've breached the door."
 
@@ -6483,156 +6483,156 @@
 
 "[english]wolfe.OnFire1"		"<clr:154,205,50>Wolfe: [Screaming]"
 "wolfe.OnFire1"		"<clr:154,205,50>Wolfe: [Skrikende]"
-		
-		
+
+
 		"[english]wolfe.ActivateStims0"		"<clr:154,205,50>Wolfe: Activate stims!"
 		"wolfe.ActivateStims0"		"<clr:154,205,50>Wolfe: Activate stims!"
-		
-		
+
+
 		"[english]wolfe.ActivateStims1"		"<clr:154,205,50>Wolfe: Activate the stims."
 		"wolfe.ActivateStims1"		"<clr:154,205,50>Wolfe: Activate the stims."
-		
-		
+
+
 		"[english]wolfe.ActivateStims2"		"<clr:154,205,50>Wolfe: Gimme some stim action."
 		"wolfe.ActivateStims2"		"<clr:154,205,50>Wolfe: Gimme some stim action."
-		
-		
+
+
 		"[english]wolfe.ActivateStims3"		"<clr:154,205,50>Wolfe: Hit the stim packs!"
 		"wolfe.ActivateStims3"		"<clr:154,205,50>Wolfe: Hit the stim packs!"
-		
-		
+
+
 		"[english]wolfe.ActivateStims4"		"<clr:154,205,50>Wolfe: Hit the stims!"
 		"wolfe.ActivateStims4"		"<clr:154,205,50>Wolfe: Hit the stims!"
-		
-		
+
+
 		"[english]wolfe.ActivateStims5"		"<clr:154,205,50>Wolfe: Stims."
 		"wolfe.ActivateStims5"		"<clr:154,205,50>Wolfe: Stims."
-		
-		
+
+
 		"[english]wolfe.ActivateStims6"		"<clr:154,205,50>Wolfe: Stim now."
 		"wolfe.ActivateStims6"		"<clr:154,205,50>Wolfe: Stim now."
-		
-		
+
+
 		"[english]wolfe.ComplimentsWildcat0"		"<clr:154,205,50>Wolfe: Make em bleed, Cat."
 		"wolfe.ComplimentsWildcat0"		"<clr:154,205,50>Wolfe: Make em bleed, Cat."
-		
-		
+
+
 		"[english]wolfe.ComplimentsWildcat1"		"<clr:154,205,50>Wolfe: Good shot, Cat. Bring em down."
 		"wolfe.ComplimentsWildcat1"		"<clr:154,205,50>Wolfe: Good shot, Cat. Bring em down."
-		
-		
+
+
 		"[english]wolfe.ComplimentsWildcat2"		"<clr:154,205,50>Wolfe: Nice shooting, Kid."
 		"wolfe.ComplimentsWildcat2"		"<clr:154,205,50>Wolfe: Nice shooting, Kid."
-		
-		
+
+
 		"[english]wolfe.ComplimentsWildcat3"		"<clr:154,205,50>Wolfe: Good shot, Wildcat."
 		"wolfe.ComplimentsWildcat3"		"<clr:154,205,50>Wolfe: Good shot, Wildcat."
-		
-		
+
+
 		"[english]wolfe.Impatience0"		"<clr:154,205,50>Wolfe: Don't mind me, just dying of old age here."
 		"wolfe.Impatience0"		"<clr:154,205,50>Wolfe: Don't mind me, just dying of old age here."
-		
-		
+
+
 		"[english]wolfe.Impatience1"		"<clr:154,205,50>Wolfe: Hey, don't mind me. Just dying of old age here."
 		"wolfe.Impatience1"		"<clr:154,205,50>Wolfe: Hey, don't mind me. Just dying of old age here."
-		
-		
+
+
 		"[english]wolfe.Impatience2"		"<clr:154,205,50>Wolfe: Man, don't make me wait all day."
 		"wolfe.Impatience2"		"<clr:154,205,50>Wolfe: Man, don't make me wait all day."
-		
-		
+
+
 		"[english]wolfe.Selection0"		"<clr:154,205,50>Wolfe: Locked and loaded."
 		"wolfe.Selection0"		"<clr:154,205,50>Wolfe: Locked and loaded."
-		
-		
+
+
 		"[english]wolfe.Selection1"		"<clr:154,205,50>Wolfe: Gimme a target."
 		"wolfe.Selection1"		"<clr:154,205,50>Wolfe: Gimme a target."
 
 
 "[english]wolfe.Selection2"		"<clr:154,205,50>Wolfe: Sir."
 "wolfe.Selection2"		"<clr:154,205,50>Wolfe: Sir."
-		
+
 		//BASE COMPUTER
-		
-		
+
+
 		"[english]ASWComputer.Startup"		"<clr:238,0,0>BASE COMPUTER: SynTek Megacorporation."
 		"ASWComputer.Startup"		"<clr:238,0,0>BASE COMPUTER: SynTek Megacorporation."
-		
+
 		"[english]ASWComputer.AccessDenied"		"<clr:238,0,0>BASE COMPUTER: Access Denied."
 		"ASWComputer.AccessDenied"		"<clr:238,0,0>BASE COMPUTER: Access Denied."
-		
+
 		"[english]ASWComputer.HackComplete"		"<clr:238,0,0>BASE COMPUTER: Access Granted."
 		"ASWComputer.HackComplete"		"<clr:238,0,0>BASE COMPUTER: Access Granted."
-		
+
 		"[english]ASWComputer.AccessDeniedBiohazard1"		"<clr:238,0,0>BASE COMPUTER: Access Denied. Biohazard detected within research facility."
 		"ASWComputer.AccessDeniedBiohazard1"		"<clr:238,0,0>BASE COMPUTER: Access Denied. Biohazard detected within research facility."
-		
+
 		"[english]ASWComputer.alarm"		"<clr:238,0,0>BASE COMPUTER: [Alarm!]"
 		"ASWComputer.alarm"		"<clr:238,0,0>BASE COMPUTER: [Alarm!]"
-		
+
 		"[english]ASWComputer.AtmosphericReport"		"<clr:238,0,0>BASE COMPUTER: Atmospheric report."
 		"ASWComputer.AtmosphericReport"		"<clr:238,0,0>BASE COMPUTER: Atmospheric report."
-		
+
 		"[english]ASWComputer.AwaitingSubsystemAlignment"		"<clr:238,0,0>BASE COMPUTER: Awaiting subsystem alignment."
 		"ASWComputer.AwaitingSubsystemAlignment"		"<clr:238,0,0>BASE COMPUTER: Awaiting subsystem alignment."
-		
+
 		"[english]ASWComputer.BiohazardDetected2"		"<clr:238,0,0>BASE COMPUTER: Biohazard detected within research facility."
 		"ASWComputer.BiohazardDetected2"		"<clr:238,0,0>BASE COMPUTER: Biohazard detected within research facility."
-		
+
 		"[english]ASWComputer.DownloadComplete"		"<clr:238,0,0>BASE COMPUTER: Download Complete."
 		"ASWComputer.DownloadComplete"		"<clr:238,0,0>BASE COMPUTER: Download Complete."
-		
+
 		"[english]ASWComputer.Mail"		"<clr:238,0,0>BASE COMPUTER: Mail."
 		"ASWComputer.Mail"		"<clr:238,0,0>BASE COMPUTER: Mail."
-		
+
 		"[english]ASWComputer.News"		"<clr:238,0,0>BASE COMPUTER: News."
 		"ASWComputer.News"		"<clr:238,0,0>BASE COMPUTER: News."
-		
+
 		"[english]ASWComputer.Override"		"<clr:238,0,0>BASE COMPUTER: Override."
 		"ASWComputer.Override"		"<clr:238,0,0>BASE COMPUTER: Override."
-		
+
 		"[english]ASWComputer.PlantStatus"		"<clr:238,0,0>BASE COMPUTER: Plant Status."
 		"ASWComputer.PlantStatus"		"<clr:238,0,0>BASE COMPUTER: Plant Status."
-		
+
 		"[english]ASWComputer.QuarantineInEffect2"		"<clr:238,0,0>BASE COMPUTER: Quarantine in Effect."
 		"ASWComputer.QuarantineInEffect2"		"<clr:238,0,0>BASE COMPUTER: Quarantine in Effect."
-		
+
 		"[english]ASWComputer.ReactorOnline"		"<clr:238,0,0>BASE COMPUTER: Reactor Online."
 		"ASWComputer.ReactorOnline"		"<clr:238,0,0>BASE COMPUTER: Reactor Online."
-		
+
 		"[english]ASWComputer.RemoteTurret"		"<clr:238,0,0>BASE COMPUTER: Remote Turret."
 		"ASWComputer.RemoteTurret"		"<clr:238,0,0>BASE COMPUTER: Remote Turret."
-		
+
 		"[english]ASWComputer.SecurityCamera"		"<clr:238,0,0>BASE COMPUTER: Security Camera."
 		"ASWComputer.SecurityCamera"		"<clr:238,0,0>BASE COMPUTER: Security Camera."
-		
+
 		"[english]ASWComputer.Stocks"		"<clr:238,0,0>BASE COMPUTER: Stocks."
 		"ASWComputer.Stocks"		"<clr:238,0,0>BASE COMPUTER: Stocks."
-		
+
 		"[english]ASWComputer.CriticalData"		"<clr:238,0,0>BASE COMPUTER: Critical Data."
 		"ASWComputer.CriticalData"		"<clr:238,0,0>BASE COMPUTER: Critical Data."
-		
+
 		"[english]ASWComputer.TimeOut"		"<clr:238,0,0>BASE COMPUTER: [Time-Out]"
 		"ASWComputer.TimeOut"		"<clr:238,0,0>BASE COMPUTER: [Time-Out]"
-		
+
 		"[english]ASWComputer.SyntekPDA"		"<clr:238,0,0>BASE COMPUTER: SynTek PDA."
 		"ASWComputer.SyntekPDA"		"<clr:238,0,0>BASE COMPUTER: SynTek PDA."
-		
+
 		"[english]ASWComputer.SyntekPersonalDigitalAssistant"		"<clr:238,0,0>BASE COMPUTER: SynTek Personal Digital Assistant."
 		"ASWComputer.SyntekPersonalDigitalAssistant"		"<clr:238,0,0>BASE COMPUTER: SynTek Personal Digital Assistant."
-		
+
 		"[english]ASWCountdown.WarningWarheadPathBlocked2"		"<clr:238,0,0>BASE COMPUTER: Warning: Warhead Path Blocked. Critical Failure Imminent."
 		"ASWCountdown.WarningWarheadPathBlocked2"		"<clr:238,0,0>BASE COMPUTER: Warning: Warhead Path Blocked. Critical Failure Imminent."
-		
+
 		"[english]ASWCountdown.Countdown60"		"<clr:238,0,0>BASE COMPUTER: Nuclear detonation in 60 seconds."
 		"ASWCountdown.Countdown60"		"<clr:238,0,0>BASE COMPUTER: Nuclear detonation in 60 seconds."
-		
+
 		"[english]ASWCountdown.Countdown30"		"<clr:238,0,0>BASE COMPUTER: Nuclear detonation in 30 seconds."
 		"ASWCountdown.Countdown30"		"<clr:238,0,0>BASE COMPUTER: Nuclear detonation in 30 seconds."
-		
+
 		"[english]ASWCountdown.Countdown10"		"<clr:238,0,0>BASE COMPUTER: Nuclear detonation in 10 seconds."
 		"ASWCountdown.Countdown10"		"<clr:238,0,0>BASE COMPUTER: Nuclear detonation in 10 seconds."
-		
+
 		// Deathmatch
 		"[english]DM.one_frag_left"		"<clr:238,0,0>ANNOUNCER: One frag left."
 		"DM.one_frag_left"		"<clr:238,0,0>ANNOUNCER: One frag left."
@@ -6657,190 +6657,190 @@
 		"DM.monster_kill"		"<clr:238,0,0>ANNOUNCER: M-M-M-Monster kill!"
 		"[english]DM.godlike"		"<clr:238,0,0>ANNOUNCER: GODLIKE!"
 		"DM.godlike"		"<clr:238,0,0>ANNOUNCER: GODLIKE!"
-		
+
 		// Tears for Tarnor
-		
+
 		"[english]tarnor.train_approaching"		"<clr:158,120,60>Station Announcement: Next train is now approaching. Please stand clear of the platform edge."
 		"tarnor.train_approaching"		"<clr:158,120,60>Station Announcement: Next train is now approaching. Please stand clear of the platform edge."
-		
+
 		"[english]tarnor.train_departing1"		"<clr:158,120,60>Station Announcement: This train is now departing."
 		"tarnor.train_departing1"		"<clr:158,120,60>Station Announcement: This train is now departing."
-		
+
 		//NAM HUMANUM
-		
+
 		"[english]Duval.01_02"		"<clr:179,203,207><B>Prof. Duval:<B> Charlie, Julie Duval here. Thermals from your shuttle's radar are tracking multiple signals in and out the installation's roofs and ducts. Though these readouts are oddly...human, for lack of details."
 		"Duval.01_02"		"<clr:179,203,207><B>Prof. Duval:<B> Charlie, Julie Duval here. Thermals from your shuttle's radar are tracking multiple signals in and out the installation's roofs and ducts. Though these readouts are oddly...human, for lack of details."
-		
+
 		"[english]Duval.01_03"		"<clr:179,203,207><B>Prof. Duval:<B> Their morphologies are just...not right. This specimen…"
 		"Duval.01_03"		"<clr:179,203,207><B>Prof. Duval:<B> Their morphologies are just...not right. This specimen…"
-		
+
 		"[english]Duval.01_03_01"		"<clr:179,203,207><B>Prof. Duval:<B> Understood."
 		"Duval.01_03_01"		"<clr:179,203,207><B>Prof. Duval:<B> Understood."
-		
+
 		"[english]Duval.01_04"		"<clr:179,203,207><B>Prof. Duval:<B> Charlie, it appears the warehouse's booth control is out of power. You'll have to get it back on before progressing any further inside the installation. Keep an eye out for what should be a maintenance panel in the vicinity."
 		"Duval.01_04"		"<clr:179,203,207><B>Prof. Duval:<B> Charlie, it appears the warehouse's booth control is out of power. You'll have to get it back on before progressing any further inside the installation. Keep an eye out for what should be a maintenance panel in the vicinity."
-		
+
 		"[english]Duval.01_05"		"<clr:179,203,207><B>Prof. Duval:<B> Power's back on. Good job..."
 		"Duval.01_05"		"<clr:179,203,207><B>Prof. Duval:<B> Power's back on. Good job..."
-		
+
 		"[english]Duval.01_06"		"<clr:179,203,207><B>Prof. Duval:<B> Charlie, we're picking up a lot of activities converging on your position, you'll have to hold them until the opening sequence is through!"
 		"Duval.01_06"		"<clr:179,203,207><B>Prof. Duval:<B> Charlie, we're picking up a lot of activities converging on your position, you'll have to hold them until the opening sequence is through!"
-		
+
 		"[english]Duval.02_02"		"<clr:179,203,207><B>Prof. Duval:<B> Commander, if I may... I believe this excursion could turn into an opportunity to learn more about this alien 'parasite' that so many settlements seem to have encountered over the last few months. Maybe extending the field of investigation, given the uniqueness of Lugdunum's status, could lead to some sort of answer about this phenomenon as a whole."
 		"Duval.02_02"		"<clr:179,203,207><B>Prof. Duval:<B> Commander, if I may... I believe this excursion could turn into an opportunity to learn more about this alien 'parasite' that so many settlements seem to have encountered over the last few months. Maybe extending the field of investigation, given the uniqueness of Lugdunum's status, could lead to some sort of answer about this phenomenon as a whole."
-		
+
 		"[english]Duval.02_02_1"		"<clr:179,203,207><B>Prof. Duval:<B> Sir, with all due respect, what I'm asking is merely that we-"
 		"Duval.02_02_1"		"<clr:179,203,207><B>Prof. Duval:<B> Sir, with all due respect, what I'm asking is merely that we-"
-		
+
 		"[english]Duval.02_04"		"<clr:179,203,207><B>Prof. Duval:<B> Sir, I have to insist on the singularity of the circumstances we are drawing ourselves into. From the few records I could salvage, it reads like something happened, unlike past attacks, with the people of this colony as a direct cause... References to experiments and the creatures you've...we've been, so far, blissfully shooting down! Whatever we might find, would we not benefit from it, if nothing else?"
 		"Duval.02_04"		"<clr:179,203,207><B>Prof. Duval:<B> Sir, I have to insist on the singularity of the circumstances we are drawing ourselves into. From the few records I could salvage, it reads like something happened, unlike past attacks, with the people of this colony as a direct cause... References to experiments and the creatures you've...we've been, so far, blissfully shooting down! Whatever we might find, would we not benefit from it, if nothing else?"
-		
+
 		"[english]Duval.02_04_1"		"<clr:179,203,207><B>Prof. Duval:<B> Quite clear...sir."
 		"Duval.02_04_1"		"<clr:179,203,207><B>Prof. Duval:<B> Quite clear...sir."
-		
+
 		"[english]Duval.02_05"		"<clr:179,203,207><B>Prof. Duval:<B> ...all of its body heat is concentrated around its rear, that's the weak point!"
 		"Duval.02_05"		"<clr:179,203,207><B>Prof. Duval:<B> ...all of its body heat is concentrated around its rear, that's the weak point!"
-		
+
 		"[english]Duval.03_01"		"<clr:179,203,207><B>Prof. Duval:<B> This place is a maze... Our best chance, if we're to condemn the facility, would be to overheat its power source. A nuclear chain-reaction should be enough to cave the entire thing on itself. Looking at the design plans, we know that one of Lugdunum's cores is located within this floor's eastern section, alongside the...chief scientist's office? Huh."
 		"Duval.03_01"		"<clr:179,203,207><B>Prof. Duval:<B> This place is a maze... Our best chance, if we're to condemn the facility, would be to overheat its power source. A nuclear chain-reaction should be enough to cave the entire thing on itself. Looking at the design plans, we know that one of Lugdunum's cores is located within this floor's eastern section, alongside the...chief scientist's office? Huh."
-		
+
 		"[english]Duval.03_01_1"		"<clr:179,203,207><B>Prof. Duval:<B> Of course. The only access to the east has been shut but, luckily, the corridor to the west appears to be leading to a remotely controlled defense station. If you find a way to make it work, that may be your ticket to the power core."
 		"Duval.03_01_1"		"<clr:179,203,207><B>Prof. Duval:<B> Of course. The only access to the east has been shut but, luckily, the corridor to the west appears to be leading to a remotely controlled defense station. If you find a way to make it work, that may be your ticket to the power core."
-		
+
 		"[english]Duval.03_02"		"<clr:179,203,207><B>Prof. Duval:<B> It grows and spreads without restraint, like...a cancer."
 		"Duval.03_02"		"<clr:179,203,207><B>Prof. Duval:<B> It grows and spreads without restraint, like...a cancer."
-		
+
 		"[english]Duval.03_03"		"<clr:179,203,207><B>Prof. Duval:<B> Commander... Some of these bodies are showing gunshot wounds."
 		"Duval.03_03"		"<clr:179,203,207><B>Prof. Duval:<B> Commander... Some of these bodies are showing gunshot wounds."
-		
+
 		"[english]Duval.03_03_1"		"<clr:179,203,207><B>Prof. Duval:<B> Or maybe we can prevent it from happening again, if only we knew..."
 		"Duval.03_03_1"		"<clr:179,203,207><B>Prof. Duval:<B> Or maybe we can prevent it from happening again, if only we knew..."
-		
+
 		"[english]Duval.03_04"		"<clr:179,203,207><B>Prof. Duval:<B> There, that's the defense station."
 		"Duval.03_04"		"<clr:179,203,207><B>Prof. Duval:<B> There, that's the defense station."
-		
+
 		"[english]Duval.03_06"		"<clr:179,203,207><B>Prof. Duval:<B> This...is Dr. Moreau's office. He seemed to have control on all communications coming in and out the colony... For whatever reason, he must have been the one to send the distress signal."
 		"Duval.03_06"		"<clr:179,203,207><B>Prof. Duval:<B> This...is Dr. Moreau's office. He seemed to have control on all communications coming in and out the colony... For whatever reason, he must have been the one to send the distress signal."
-		
+
 		"[english]Duval.03_08"		"<clr:179,203,207><B>Prof. Duval:<B> One last thing Charlie, I've marked a database mainframe on your map, all you have to do is-"
 		"Duval.03_08"		"<clr:179,203,207><B>Prof. Duval:<B> One last thing Charlie, I've marked a database mainframe on your map, all you have to do is-"
-		
+
 		"[english]Duval.03_08_1"		"<clr:179,203,207><B>Prof. Duval:<B> I know the mission. I'm sorry for putting you through this Charlie, but these datas could do more good now than they ever did harm! The terminal is located inside the chief scientist's office just south of your position. If you hurry, there's still a chance you can use his installation to upload the content into our ship's server!"
 		"Duval.03_08_1"		"<clr:179,203,207><B>Prof. Duval:<B> I know the mission. I'm sorry for putting you through this Charlie, but these datas could do more good now than they ever did harm! The terminal is located inside the chief scientist's office just south of your position. If you hurry, there's still a chance you can use his installation to upload the content into our ship's server!"
-		
+
 		"[english]Duval.03_09"		"<clr:179,203,207><B>Prof. Duval:<B> I got it! To hell with ethics or chain of command. Now get out of there!"
 		"Duval.03_09"		"<clr:179,203,207><B>Prof. Duval:<B> I got it! To hell with ethics or chain of command. Now get out of there!"
-		
+
 		"[english]Duval.03_10"		"<clr:179,203,207><B>Prof. Duval:<B> Through the emergency exit, quickly!"
 		"Duval.03_10"		"<clr:179,203,207><B>Prof. Duval:<B> Through the emergency exit, quickly!"
-		
-		
+
+
 		"[english]Richard.01_01"		"<clr:191,195,167><B>Cmdr. Richard:<B> Charlie Squad, this is your commander. Professor Duval and I will be monitoring your progress throughout the searches. Communications are cut off from your end so be alert, we're still unsure of what to expect down there."
 		"Richard.01_01"		"<clr:191,195,167><B>Cmdr. Richard:<B> Charlie Squad, this is your commander. Professor Duval and I will be monitoring your progress throughout the searches. Communications are cut off from your end so be alert, we're still unsure of what to expect down there."
-		
+
 		"[english]Richard.01_03"		"<clr:191,195,167><B>Cmdr. Richard:<B> ...looks like any of the other bugs to me, Professor. We're not here on a natural science endeavor, let this be clear already."
 		"Richard.01_03"		"<clr:191,195,167><B>Cmdr. Richard:<B> ...looks like any of the other bugs to me, Professor. We're not here on a natural science endeavor, let this be clear already."
-		
+
 		"[english]Richard.01_06"		"<clr:191,195,167><B>Cmdr. Richard:<B> Just stay alive, marines."
 		"Richard.01_06"		"<clr:191,195,167><B>Cmdr. Richard:<B> Just stay alive, marines."
-		
+
 		"[english]Richard.02_01"		"<clr:191,195,167><B>Cmdr. Richard:<B> We know this installation employed some kind of rail system to move personnel around the facility. Hopefully you can still use one of their platforms but tread lightly squad, you're still in unknown territory."
 		"Richard.02_01"		"<clr:191,195,167><B>Cmdr. Richard:<B> We know this installation employed some kind of rail system to move personnel around the facility. Hopefully you can still use one of their platforms but tread lightly squad, you're still in unknown territory."
-		
+
 		"[english]Richard.02_02"		"<clr:191,195,167><B>Cmdr. Richard:<B> That's a negative. We've discussed this already, Professor."
 		"Richard.02_02"		"<clr:191,195,167><B>Cmdr. Richard:<B> That's a negative. We've discussed this already, Professor."
-		
+
 		"[english]Richard.02_02_1"		"<clr:191,195,167><B>Cmdr. Richard:<B> Unless you're bearing knowledge to the attention of my men on the subject of bugs-killing, Ms. Duval, I'd appreciate radio silence on your part. You should know the mission as well as I do, and that it does not involve jeopardizing my squad's chance of survival in favor of some red herring."
 		"Richard.02_02_1"		"<clr:191,195,167><B>Cmdr. Richard:<B> Unless you're bearing knowledge to the attention of my men on the subject of bugs-killing, Ms. Duval, I'd appreciate radio silence on your part. You should know the mission as well as I do, and that it does not involve jeopardizing my squad's chance of survival in favor of some red herring."
-		
+
 		"[english]Richard.02_03"		"<clr:191,195,167><B>Cmdr. Richard:<B> Hit the switch marines, no harm in trying."
 		"Richard.02_03"		"<clr:191,195,167><B>Cmdr. Richard:<B> Hit the switch marines, no harm in trying."
-		
+
 		"[english]Richard.02_04"		"<clr:191,195,167><B>Cmdr. Richard:<B> You seem to have misunderstood our purpose here, Ms. Duval. As unprecedented as this may be to you, all that I'm willing to see down there is the most basic result of one sick game, an experimental playground for mad men who couldn't be bothered to look beyond their own personal amusement. It's a real mess, and we're the clean up crew. In more practical terms, it is by protocol that we now derive to a search and destroy objective. So if you were still confused, I reckon this is a clear enough choice of words?"
 		"Richard.02_04"		"<clr:191,195,167><B>Cmdr. Richard:<B> You seem to have misunderstood our purpose here, Ms. Duval. As unprecedented as this may be to you, all that I'm willing to see down there is the most basic result of one sick game, an experimental playground for mad men who couldn't be bothered to look beyond their own personal amusement. It's a real mess, and we're the clean up crew. In more practical terms, it is by protocol that we now derive to a search and destroy objective. So if you were still confused, I reckon this is a clear enough choice of words?"
-		
+
 		"[english]Richard.02_04_1"		"<clr:191,195,167><B>Cmdr. Richard:<B> Good. Now, let's find a way to reach the bottom of this place and blow it sky-high."
 		"Richard.02_04_1"		"<clr:191,195,167><B>Cmdr. Richard:<B> Good. Now, let's find a way to reach the bottom of this place and blow it sky-high."
-		
+
 		"[english]Richard.02_05"		"<clr:191,195,167><B>Cmdr. Richard:<B> What in heaven's..."
 		"Richard.02_05"		"<clr:191,195,167><B>Cmdr. Richard:<B> What in heaven's..."
-		
+
 		"[english]Richard.02_06"		"<clr:191,195,167><B>Cmdr. Richard:<B> Nice shooting, marines, you're nearing groundwork level. It's looking like you'll have to take the elevator shaft down into where they performed their “research”."
 		"Richard.02_06"		"<clr:191,195,167><B>Cmdr. Richard:<B> Nice shooting, marines, you're nearing groundwork level. It's looking like you'll have to take the elevator shaft down into where they performed their “research”."
-		
+
 		"[english]Richard.03_01"		"<clr:191,195,167><B>Cmdr. Richard:<B> Don't get any big ideas, Professor. Just point my men in the right direction."
 		"Richard.03_01"		"<clr:191,195,167><B>Cmdr. Richard:<B> Don't get any big ideas, Professor. Just point my men in the right direction."
-		
+
 		"[english]Richard.03_02"		"<clr:191,195,167><B>Cmdr. Richard:<B> It's even worse than I thought. This place is a ruin already, we're doing it a favor."
 		"Richard.03_02"		"<clr:191,195,167><B>Cmdr. Richard:<B> It's even worse than I thought. This place is a ruin already, we're doing it a favor."
-		
+
 		"[english]Richard.03_03"		"<clr:191,195,167><B>Cmdr. Richard:<B> So I see. Now you should all understand why we cannot let this be."
 		"Richard.03_03"		"<clr:191,195,167><B>Cmdr. Richard:<B> So I see. Now you should all understand why we cannot let this be."
-		
+
 		"[english]Richard.03_03_1"		"<clr:191,195,167><B>Cmdr. Richard:<B> I know enough."
 		"Richard.03_03_1"		"<clr:191,195,167><B>Cmdr. Richard:<B> I know enough."
-		
+
 		"[english]Richard.03_05"		"<clr:191,195,167><B>Cmdr. Richard:<B> Alright, that's the eastern door dealt with. Look alive soldiers, it's not over yet."
 		"Richard.03_05"		"<clr:191,195,167><B>Cmdr. Richard:<B> Alright, that's the eastern door dealt with. Look alive soldiers, it's not over yet."
-		
+
 		"[english]Richard.03_07"		"<clr:191,195,167><B>Cmdr. Richard:<B> That's fine work, marines. Be advised that once you set it all off, your only way out will be an emergency exit back at the junction. Now find me the controls to the power core and let us all be done with this place."
 		"Richard.03_07"		"<clr:191,195,167><B>Cmdr. Richard:<B> That's fine work, marines. Be advised that once you set it all off, your only way out will be an emergency exit back at the junction. Now find me the controls to the power core and let us all be done with this place."
-		
+
 		"[english]Richard.03_08"		"<clr:191,195,167><B>Cmdr. Richard:<B> Leave it Duval, this is NOT the mission! Orders are to-"
 		"Richard.03_08"		"<clr:191,195,167><B>Cmdr. Richard:<B> Leave it Duval, this is NOT the mission! Orders are to-"
-		
-		
+
+
 		"[english]Pilot.01_01"		"<clr:236,236,236><B>Dropship Snakebite:<B> Good luck out there, we'll be in touch."
 		"Pilot.01_01"		"<clr:236,236,236><B>Dropship Snakebite:<B> Good luck out there, we'll be in touch."
-		
+
 		"[english]Pilot.02_01"		"<clr:236,236,236><B>Dropship Snakebite:<B> Charlie, we've had reports of blizzard activity coming from HQ, we'll do a short rotation then get back to you."
 		"Pilot.02_01"		"<clr:236,236,236><B>Dropship Snakebite:<B> Charlie, we've had reports of blizzard activity coming from HQ, we'll do a short rotation then get back to you."
-		
+
 		"[english]Pilot.03_11"		"<clr:236,236,236><B>Dropship Snakebite:<B> ...arlie, Charlie? Better move your asses before lift off."
 		"Pilot.03_11"		"<clr:236,236,236><B>Dropship Snakebite:<B> ...arlie, Charlie? Better move your asses before lift off."
-		
+
 		"[english]Pilot.03_12"		"<clr:236,236,236><B>Dropship Snakebite:<B> Glad you're in one piece, looks like you got it easy."
 		"Pilot.03_12"		"<clr:236,236,236><B>Dropship Snakebite:<B> Glad you're in one piece, looks like you got it easy."
-		
-		
+
+
 		"[english]Vesta.01_03"		"<clr:234,217,245><B>???:<B> Leave."
 		"Vesta.01_03"		"<clr:234,217,245><B>???:<B> Leave."
-		
+
 		"[english]Vesta.01_05"		"<clr:234,217,245><B>???:<B> Leave. Or join."
 		"Vesta.01_05"		"<clr:234,217,245><B>???:<B> Leave. Or join."
-		
+
 		"[english]Vesta.02_05"		"<clr:234,217,245><B>???:<B> Leave our home."
 		"Vesta.02_05"		"<clr:234,217,245><B>???:<B> Leave our home."
-		
+
 		"[english]Vesta.03_11"		"<clr:234,217,245><B>???:<B> Vesta...lives."
 		"Vesta.03_11"		"<clr:234,217,245><B>???:<B> Vesta...lives."
-		
+
 		// ACCIDENT 32
-		
+
 		"[english]Amber.01_01"		"<clr:255,0,0><B>AMBER Warning:<B><clr:158,143,39> Antenna Communication Failure."
 		"Amber.01_01"		"<clr:255,0,0><B>AMBER Warning:<B><clr:158,143,39> Antenna Communication Failure."
-		
+
 		"[english]Amber.01_02"		"<clr:255,0,0><B>AMBER Warning:<B><clr:158,143,39> Secondary Reactor Coolant Activated."
 		"Amber.01_02"		"<clr:255,0,0><B>AMBER Warning:<B><clr:158,143,39> Secondary Reactor Coolant Activated."
-		
+
 		"[english]Amber.02_01"		"<clr:255,0,0><B>AMBER Warning:<B><clr:158,143,39> Water Level Overload."
 		"Amber.02_01"		"<clr:255,0,0><B>AMBER Warning:<B><clr:158,143,39> Water Level Overload."
-		
+
 		"[english]Amber.02_02"		"<clr:255,0,0><B>AMBER Warning:<B><clr:158,143,39> Main Reactor Power Nominal."
 		"Amber.02_02"		"<clr:255,0,0><B>AMBER Warning:<B><clr:158,143,39> Main Reactor Power Nominal."
-		
+
 		"[english]Amber.03_01"		"<clr:255,0,0><B>AMBER Warning:<B><clr:158,143,39> Research Personnel Evacuate Immediately."
 		"Amber.03_01"		"<clr:255,0,0><B>AMBER Warning:<B><clr:158,143,39> Research Personnel Evacuate Immediately."
-		
+
 		"[english]Amber.04_01"		"<clr:255,0,0><B>AMBER Warning:<B><clr:158,143,39> Unauthorized Computer Access Detected."
 		"Amber.04_01"		"<clr:255,0,0><B>AMBER Warning:<B><clr:158,143,39> Unauthorized Computer Access Detected."
-		
+
 		"[english]Amber.05_01"		"<clr:255,0,0><B>AMBER Warning:<B><clr:158,143,39> Sector C Pipe Leak."
 		"Amber.05_01"		"<clr:255,0,0><B>AMBER Warning:<B><clr:158,143,39> Sector C Pipe Leak."
-		
+
 		"[english]Amber.06_01"		"<clr:255,0,0><B>AMBER Warning:<B><clr:158,143,39> Detected Radioactive Material Presence."
 		"Amber.06_01"		"<clr:255,0,0><B>AMBER Warning:<B><clr:158,143,39> Detected Radioactive Material Presence."
-		
+
 		// Sound effects (not shown in Subtitles mode; mostly for sounds without a corresponding visual cue or for very important sounds)
 		"[english]asw_song.Stinger"		"<sfx><I>[Horde incoming!]"
 		"asw_song.Stinger"		"<sfx><I>[Horde incoming!]"
@@ -6886,7 +6886,7 @@
 		"ambient.alarms.klaxon1_nopitch"		"<sfx><I><norepeat:15>[Alarm!]"
 		"[english]ambient.alarms.door_alarm"		"<sfx><I><norepeat:15>[Alarm!]"
 		"ambient.alarms.door_alarm"		"<sfx><I><norepeat:15>[Alarm!]"
-		
+
 		// Alien vocalizations (SFX)
 		"[english]ASWGoo.GooScream"		"<sfx><I><norepeat:15>[Biomass screams!]"
 		"ASWGoo.GooScream"		"<sfx><I><norepeat:15>[Biomass screams!]"

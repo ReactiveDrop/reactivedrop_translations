@@ -2718,7 +2718,7 @@
 "L4D360UI_Not_Joinable_Mod"		"A jogar na versão: %s1"
 "[english]L4D2360_JoinError_OtherTitle_Modded"		"Player is running a different version of Alien Swarm: Reactive Drop.\n"
 "L4D2360_JoinError_OtherTitle_Modded"		"O/A jogador(a) está a jogar uma versão diferente do Alien Swarm: Reactive Drop.\n"
-		
+
 		"[english]ASUI_LobbyName"		"LOBBY NAME"
 		"ASUI_LobbyName"		"LOBBY NAME"
 		"[english]ASUI_LobbyName_tt"		"Enter a name for your lobby."

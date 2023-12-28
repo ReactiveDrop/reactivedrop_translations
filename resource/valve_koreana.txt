@@ -325,10 +325,10 @@
 "Valve_x_2"		"x2"
 "[english]Valve_x_4"		"x4"
 "Valve_x_4"		"x4"
-		
+
 		"[english]Valve_ViewDemoStatus"		"%s1 %s2 %s3"
 		"Valve_ViewDemoStatus"		"%s1 %s2 %s3"
-		
+
 		"[english]Valve_Hint_Zoom"		"%+zoom% ZOOM VIEW"
 		"Valve_Hint_Zoom"		"%+zoom% 확대 보기"
 		"[english]Valve_Hint_machinegun"		"%+USE% TO USE MOUNTED GUN"
@@ -389,14 +389,14 @@
 		"Valve_Hint_Reload"		"%+reload% RELOAD"
 		"[english]Valve_Hint_SwimUp"		"%+jump% SWIM UP"
 		"Valve_Hint_SwimUp"		"%+jump% SWIM UP"
-		
-		
-		
+
+
+
 		"[english]Valve_Miscellaneous_Keyboard_Keys_Title"		"MISCELLANEOUS MOVEMENT"
 		"Valve_Miscellaneous_Keyboard_Keys_Title"		"MISCELLANEOUS MOVEMENT"
 		"[english]Valve_Chapter"		"Chapter"
 		"Valve_Chapter"		"Chapter"
-		
+
 		"[english]Valve_HudPoisonDamage"		"NEUROTOXIN DETECTED\nADMINISTERING ANTIDOTE"
 		"Valve_HudPoisonDamage"		"NEUROTOXIN DETECTED\nADMINISTERING ANTIDOTE"
 
@@ -418,7 +418,7 @@
 		"Valve_Gravity_Gun"		"Gravity Gun"
 		"[english]Valve_CC_Toggle"		"Toggle close caption sound effects"
 		"Valve_CC_Toggle"		"Toggle close caption sound effects"
-		
+
 		"[english]Valve_Hud_HEALTH"		"HEALTH"
 		"Valve_Hud_HEALTH"		"HEALTH"
 		"[english]Valve_Hud_AMMO"		"AMMO"
@@ -437,34 +437,34 @@
 		"Valve_Hud_SPRINT"		"SPRINT"
 		"[english]Valve_Hud_BONUS_PROGRESS"		"BONUS"
 		"Valve_Hud_BONUS_PROGRESS"		"BONUS"
-		
+
 		"[english]Valve_Hud_SQUAD_FOLLOWING"		"SQUAD FOLLOWING"
 		"Valve_Hud_SQUAD_FOLLOWING"		"SQUAD FOLLOWING"
 		"[english]Valve_Hud_SQUAD_STATIONED"		"SQUAD STATIONED"
 		"Valve_Hud_SQUAD_STATIONED"		"SQUAD STATIONED"
-		
+
 		"[english]Valve_HDRDEMO_LeftTitle"		"Fixed Aperture"
 		"Valve_HDRDEMO_LeftTitle"		"Fixed Aperture"
 		"[english]Valve_HDRDEMO_RightTitle"		"High-Dynamic Range"
 		"Valve_HDRDEMO_RightTitle"		"High-Dynamic Range"
-		
+
 		"[english]Valve_Hud_CamFOV"		"FOV"
 		"Valve_Hud_CamFOV"		"FOV"
 		"[english]Valve_Hud_CamHeight"		"Cam Height"
 		"Valve_Hud_CamHeight"		"Cam Height"
 		"[english]Valve_CamArmLength"		"Arm Length"
 		"Valve_CamArmLength"		"Arm Length"
-		
+
 		"[english]Valve_FilmDemo_FilmGrain_LeftTitle"		"No Film Grain"
 		"Valve_FilmDemo_FilmGrain_LeftTitle"		"No Film Grain"
 		"[english]Valve_FilmDemo_FilmGrain_RightTitle"		"Film Grain"
 		"Valve_FilmDemo_FilmGrain_RightTitle"		"Film Grain"
-		
+
 		"[english]Valve_FilmDemo_ColorCorrection_LeftTitle"		"No Color Correction"
 		"Valve_FilmDemo_ColorCorrection_LeftTitle"		"No Color Correction"
 		"[english]Valve_FilmDemo_ColorCorrection_RightTitle"		"Color Correction"
 		"Valve_FilmDemo_ColorCorrection_RightTitle"		"Color Correction"
-		
+
 		"[english]Valve_Hint_Select_Weapon_357"		"%slot1% SELECT .357 MAGNUM"
 		"Valve_Hint_Select_Weapon_357"		"%slot1% SELECT .357 MAGNUM"
 		"[english]Valve_Hint_Select_Weapon_AR2"		"%slot2% SELECT PULSE-RIFLE"
@@ -495,7 +495,7 @@
 		"Valve_Hint_Select_WEAPONDOWN"		"%slot3% SELECT WEAPON"
 		"[english]Valve_Hint_Select_WEAPONLEFT"		"%slot4% SELECT WEAPON"
 		"Valve_Hint_Select_WEAPONLEFT"		"%slot4% SELECT WEAPON"
-		
+
 		"[english]Valve_Hint_Alt_Weapon_SMG1"		"%+attack2% FIRE SMG GRENADE"
 		"Valve_Hint_Alt_Weapon_SMG1"		"%+attack2% FIRE SMG GRENADE"
 		"[english]Valve_Hint_Alt_Weapon_Crossbow"		"%+attack2% CROSSBOW SCOPE"
@@ -510,10 +510,10 @@
 		"Valve_Hint_Alt_Weapon_Bugbait"		"%+attack% THROW PHEROPOD %+attack2% SQUEEZE PHEROPOD"
 		"[english]Valve_Hint_Alt_Weapon_Physcannon"		"%+attack% LAUNCH OBJECT %+attack2% GRAB OBJECT"
 		"Valve_Hint_Alt_Weapon_Physcannon"		"%+attack% LAUNCH OBJECT %+attack2% GRAB OBJECT"
-		
+
 		"[english]Valve_Hint_EnterVehicle"		"%+use% ENTER VEHICLE"
 		"Valve_Hint_EnterVehicle"		"%+use% ENTER VEHICLE"
-		
+
 		"[english]Commentary_PrimaryAttack"		"%+attack%: Start/Stop node"
 		"Commentary_PrimaryAttack"		"%+attack%: Start/Stop node"
 		"[english]Commentary_SecondaryAttack"		"%+attack2%: Next node"

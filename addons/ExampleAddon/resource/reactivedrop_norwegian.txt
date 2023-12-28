@@ -35,7 +35,7 @@
 		"examplecampaign_mission3_desc"		"Example text 3."
 		"[english]examplecampaign_mission3_brief"		"Creating objectives in Alien Swarm. Proceed to the exit to complete the campaign."
 		"examplecampaign_mission3_brief"		"Creating objectives in Alien Swarm. Proceed to the exit to complete the campaign."
-		
+
 		"[english]examplecampaign_ob1_escape_title"		"Exit"
 		"examplecampaign_ob1_escape_title"		"Exit"
 		"[english]examplecampaign_ob1_escape_desc"		"Get to the exit"
@@ -52,7 +52,7 @@
 		"examplecampaign_debrief1"		"Place an asw_debrief_info to show a message to players who complete the mission."
 		"[english]examplecampaign_debrief2"		"Debriefing text is shown between missions."
 		"examplecampaign_debrief2"		"Debriefing text is shown between missions."
-		
+
 		"[english]examplecampaign_interactive_objects_message1"		"Interactive objects in Alien Swarm"
 		"examplecampaign_interactive_objects_message1"		"Interactive objects in Alien Swarm"
 		"[english]examplecampaign_autoopen_message"		"asw_door: auto open"
@@ -67,7 +67,7 @@
 		"examplecampaign_tech_message"		"If you want the player to hack panels and computers..."
 		"[english]examplecampaign_tech_message_02"		"...place an asw_tech_marine_req somewhere in your level"
 		"examplecampaign_tech_message_02"		"...place an asw_tech_marine_req somewhere in your level"
-		
+
 		"[english]examplecampaign_spawning1_message"		"Spawning aliens within player's sight"
 		"examplecampaign_spawning1_message"		"Spawning aliens within player's sight"
 		"[english]examplecampaign_drone_message"		"asw_drone climing out of hole"
@@ -82,7 +82,7 @@
 		"examplecampaign_boomer_roll_message"		"asw_boomer rolling into view"
 		"[english]examplecampaign_spawning2_message"		"Spawning aliens outside player's view"
 		"examplecampaign_spawning2_message"		"Spawning aliens outside player's view"
-		
+
 		"[english]examplecampaign_objectives_message"		"Objectives in Alien Swarm"
 		"examplecampaign_objectives_message"		"Objectives in Alien Swarm"
 }

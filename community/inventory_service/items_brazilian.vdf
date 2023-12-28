@@ -20,7 +20,7 @@
 		// accessory that can be permanently attached to a weapon, equipment, or suit to track specific stats
 		"[english]item_display_type_strange_device"		"Strange Device"
 		"item_display_type_strange_device"		"Strange Device"
-		
+
 		"[english]item_strange_medal_disclaimer"		"Stats are only updated while this item is equipped."
 		"item_strange_medal_disclaimer"		"Stats are only updated while this item is equipped."
 
@@ -104,7 +104,7 @@
 // It's a sticker, but the item is tagged as "Medal" and it goes in the medal slot.
 "[english]item_novelty_medal_reverse_hat_trick_display_type"		"Medal…?"
 "item_novelty_medal_reverse_hat_trick_display_type"		"Medalha…?"
-		
+
 		// This medal's name is a pun about needing to go to the toilet very badly.
 		"[english]item_novelty_medal_flush_toilet_name"		"Priority Number One"
 		"item_novelty_medal_flush_toilet_name"		"Priority Number One"
@@ -112,7 +112,7 @@
 		"item_novelty_medal_flush_toilet_description"		"While infested and on fire, found the time to flush a toilet."
 "[english]item_novelty_medal_flush_toilet_display_type"		"Medal…?"
 "item_novelty_medal_flush_toilet_display_type"		"Medalha…?"
-		
+
 		"[english]item_achievement_medal_oe_jacob_name"		"Jacob's Rest Veteran"
 		"item_achievement_medal_oe_jacob_name"		"Jacob's Rest Veteran"
 		"[english]item_achievement_medal_oe_area9800_name"		"Area 9800 Veteran"
@@ -166,7 +166,7 @@
 		"item_achievement_medal_oe_adanaxis_description"		"Awarded to commanders who demonstrated Outstanding Execution in the Adanaxis campaign."
 		"[english]item_achievement_medal_oe_reduction_description"		"Awarded to commanders who demonstrated Outstanding Execution in the Reduction campaign."
 		"item_achievement_medal_oe_reduction_description"		"Awarded to commanders who demonstrated Outstanding Execution in the Reduction campaign."
-		
+
 		"[english]item_achievement_medal_air_time_name"		"Air Time"
 		"item_achievement_medal_air_time_name"		"Air Time"
 		"[english]item_achievement_medal_air_time_description"		"Thrown in the air by the giant worm in Operation Sandstorm."
@@ -186,7 +186,7 @@
 		// Kills by human players while in "last stand" mode, which can be activated when there are few human players remaining.
 		"[english]item_achievement_medal_infection_deathmatch_stat_laststand"		"Last Stand Kills"
 		"item_achievement_medal_infection_deathmatch_stat_laststand"		"Last Stand Kills"
-		
+
 		"[english]item_event_medal_shmupfest2023_name"		"Steam SHMUP Fest 2023"
 		"item_event_medal_shmupfest2023_name"		"Steam SHMUP Fest 2023"
 		"[english]item_event_medal_shmupfest2023_description"		"Fought the Swarm during Steam SHMUP Fest 2023."
@@ -207,7 +207,7 @@
 		"item_unique_medal_mapping_2023_name"		"The Gauntlet: Arctic (#BossFight2023 Winner)"
 		"[english]item_unique_medal_mapping_2023_description"		"This medal commemorates The Gauntlet: Arctic, the winner of the 2023 mapping competition."
 		"item_unique_medal_mapping_2023_description"		"This medal commemorates The Gauntlet: Arctic, the winner of the 2023 mapping competition."
-		
+
 		"[english]item_strange_device_missions_name"		"Missions"
 		"item_strange_device_missions_name"		"Missions"
 		"[english]item_strange_device_successful_missions_name"		"Successful Missions"
@@ -230,7 +230,7 @@
 		"item_strange_device_alien_kill_streak_best"		"Best"
 		"[english]item_strange_device_infestations_cured_name"		"Infestations Cured"
 		"item_strange_device_infestations_cured_name"		"Infestations Cured"
-		
+
 		"[english]item_suit_sarge_name"		"Sarge's Suit"
 		"item_suit_sarge_name"		"Sarge's Suit"
 		"[english]item_suit_wildcat_name"		"Wildcat's Suit"

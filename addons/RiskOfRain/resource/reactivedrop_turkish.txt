@@ -8,7 +8,7 @@
 		"ror_translationCredit"		"English translations by ModdedMarionette."
 		"[english]ror_translationVersion"		"Translation Version: v1.2"
 		"ror_translationVersion"		"Translation Version: v1.2"
-		
+
 		"[english]rd_challenge_desc_ror"		"A roguelike challenge where you take on a journey to defeat the Boss without restarting while collecting items that you can bring across maps to assist you."
 		"rd_challenge_desc_ror"		"A roguelike challenge where you take on a journey to defeat the Boss without restarting while collecting items that you can bring across maps to assist you."
 		"[english]ror_mapOnCooldown"		"This map is currently on cooldown. Please select another map!"
@@ -81,7 +81,7 @@
 		"ror_bossObj"		"Defeat the Boss"
 		"[english]ror_bossObjDesc"		"[Optional] Defeat the Boss to conclude the run with a victory."
 		"ror_bossObjDesc"		"[Optional] Defeat the Boss to conclude the run with a victory."
-		
+
 		"[english]ror_itemDesc_white_medkit"		"Chance to drop Healing Kit on kill. Stacks chance."
 		"ror_itemDesc_white_medkit"		"Chance to drop Healing Kit on kill. Stacks chance."
 		"[english]ror_itemDesc_white_welder"		"All nearby teammates gain +50% damage and +50% resistance during hack. Stacks range."
