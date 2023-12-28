@@ -157,13 +157,13 @@
 		"Valve_Observer_Crosshair"		"Observer crosshair"
 		"[english]Valve_Console_Toggle"		"Toggle developer console"
 		"Valve_Console_Toggle"		"Toggle developer console"
-		
-		
+
+
 		"[english]Spec_Slow_Motion"		"Slow Motion"
 		"Spec_Slow_Motion"		"Slow Motion"
 		"[english]Spec_No_PIP"		"\nPicture-In-Picture is not available\nin First-Person mode while playing.\n"
 		"Spec_No_PIP"		"\nPicture-In-Picture is not available\nin First-Person mode while playing.\n"
-		
+
 		"[english]Spec_Replay"		"Instant Replay"
 		"Spec_Replay"		"Instant Replay"
 "[english]Spec_Auto"		"Auto"
@@ -186,7 +186,7 @@
 		"Spec_Help_Title"		"Spectator Mode"
 		"[english]Spec_Help_Text"		"\nUse the following keys to change view styles:\n\n FIRE1 - Chase next player\n FIRE2 - Chase previous player\n JUMP - Change view modes\n USE - Change inset window mode\n \n DUCK - Enable spectator menu\n \nIn Overview Map Mode move around with:\n\n MOVELEFT - move left\n MOVERIGHT - move right\n FORWARD - zoom in\n BACK - zoom out\n MOUSE - rotate around map/target\n"
 		"Spec_Help_Text"		"\nUse the following keys to change view styles:\n\n FIRE1 - Chase next player\n FIRE2 - Chase previous player\n JUMP - Change view modes\n USE - Change inset window mode\n \n DUCK - Enable spectator menu\n \nIn Overview Map Mode move around with:\n\n MOVELEFT - move left\n MOVERIGHT - move right\n FORWARD - zoom in\n BACK - zoom out\n MOUSE - rotate around map/target\n"
-		
+
 		"[english]Spec_Modes"		"Camera Options"
 		"Spec_Modes"		"Camera Options"
 		"[english]Spec_Mode0"		"Camera Disabled"
@@ -389,25 +389,25 @@
 		"Valve_Hint_Reload"		"%+reload% RELOAD"
 		"[english]Valve_Hint_SwimUp"		"%+jump% SWIM UP"
 		"Valve_Hint_SwimUp"		"%+jump% SWIM UP"
-		
-		
-		
+
+
+
 		"[english]Valve_Miscellaneous_Keyboard_Keys_Title"		"MISCELLANEOUS MOVEMENT"
 		"Valve_Miscellaneous_Keyboard_Keys_Title"		"MISCELLANEOUS MOVEMENT"
 		"[english]Valve_Chapter"		"Chapter"
 		"Valve_Chapter"		"Chapter"
-		
+
 		"[english]Valve_HudPoisonDamage"		"NEUROTOXIN DETECTED\nADMINISTERING ANTIDOTE"
 		"Valve_HudPoisonDamage"		"NEUROTOXIN DETECTED\nADMINISTERING ANTIDOTE"
-		
+
 		"[english]Valve_CreatingCache"		"Creating sound caches..."
 		"Valve_CreatingCache"		"Creating sound caches..."
 		"[english]Valve_CreatingSpecificSoundCache"		"Processing: %s1"
 		"Valve_CreatingSpecificSoundCache"		"Processing: %s1"
-		
+
 		"[english]Valve_UpdatingSteamResources"		"Updating Steam resources..."
 		"Valve_UpdatingSteamResources"		"Updating Steam resources..."
-		
+
 		"[english]Valve_Sprint"		"Sprint (Move Quickly)"
 		"Valve_Sprint"		"Sprint (Move Quickly)"
 		"[english]Valve_Suit_Zoom"		"Suit Zoom"
@@ -437,34 +437,34 @@
 "Valve_Hud_SPRINT"		"SPRING"
 "[english]Valve_Hud_BONUS_PROGRESS"		"BONUS"
 "Valve_Hud_BONUS_PROGRESS"		"BONUS"
-		
+
 		"[english]Valve_Hud_SQUAD_FOLLOWING"		"SQUAD FOLLOWING"
 		"Valve_Hud_SQUAD_FOLLOWING"		"SQUAD FOLLOWING"
 		"[english]Valve_Hud_SQUAD_STATIONED"		"SQUAD STATIONED"
 		"Valve_Hud_SQUAD_STATIONED"		"SQUAD STATIONED"
-		
+
 		"[english]Valve_HDRDEMO_LeftTitle"		"Fixed Aperture"
 		"Valve_HDRDEMO_LeftTitle"		"Fixed Aperture"
 		"[english]Valve_HDRDEMO_RightTitle"		"High-Dynamic Range"
 		"Valve_HDRDEMO_RightTitle"		"High-Dynamic Range"
-		
+
 		"[english]Valve_Hud_CamFOV"		"FOV"
 		"Valve_Hud_CamFOV"		"FOV"
 		"[english]Valve_Hud_CamHeight"		"Cam Height"
 		"Valve_Hud_CamHeight"		"Cam Height"
 		"[english]Valve_CamArmLength"		"Arm Length"
 		"Valve_CamArmLength"		"Arm Length"
-		
+
 		"[english]Valve_FilmDemo_FilmGrain_LeftTitle"		"No Film Grain"
 		"Valve_FilmDemo_FilmGrain_LeftTitle"		"No Film Grain"
 		"[english]Valve_FilmDemo_FilmGrain_RightTitle"		"Film Grain"
 		"Valve_FilmDemo_FilmGrain_RightTitle"		"Film Grain"
-		
+
 		"[english]Valve_FilmDemo_ColorCorrection_LeftTitle"		"No Color Correction"
 		"Valve_FilmDemo_ColorCorrection_LeftTitle"		"No Color Correction"
 		"[english]Valve_FilmDemo_ColorCorrection_RightTitle"		"Color Correction"
 		"Valve_FilmDemo_ColorCorrection_RightTitle"		"Color Correction"
-		
+
 		"[english]Valve_Hint_Select_Weapon_357"		"%slot1% SELECT .357 MAGNUM"
 		"Valve_Hint_Select_Weapon_357"		"%slot1% SELECT .357 MAGNUM"
 		"[english]Valve_Hint_Select_Weapon_AR2"		"%slot2% SELECT PULSE-RIFLE"
@@ -495,7 +495,7 @@
 		"Valve_Hint_Select_WEAPONDOWN"		"%slot3% SELECT WEAPON"
 		"[english]Valve_Hint_Select_WEAPONLEFT"		"%slot4% SELECT WEAPON"
 		"Valve_Hint_Select_WEAPONLEFT"		"%slot4% SELECT WEAPON"
-		
+
 		"[english]Valve_Hint_Alt_Weapon_SMG1"		"%+attack2% FIRE SMG GRENADE"
 		"Valve_Hint_Alt_Weapon_SMG1"		"%+attack2% FIRE SMG GRENADE"
 		"[english]Valve_Hint_Alt_Weapon_Crossbow"		"%+attack2% CROSSBOW SCOPE"
@@ -510,15 +510,15 @@
 		"Valve_Hint_Alt_Weapon_Bugbait"		"%+attack% THROW PHEROPOD %+attack2% SQUEEZE PHEROPOD"
 		"[english]Valve_Hint_Alt_Weapon_Physcannon"		"%+attack% LAUNCH OBJECT %+attack2% GRAB OBJECT"
 		"Valve_Hint_Alt_Weapon_Physcannon"		"%+attack% LAUNCH OBJECT %+attack2% GRAB OBJECT"
-		
+
 		"[english]Valve_Hint_EnterVehicle"		"%+use% ENTER VEHICLE"
 		"Valve_Hint_EnterVehicle"		"%+use% ENTER VEHICLE"
-		
+
 		"[english]Commentary_PrimaryAttack"		"%+attack%: Start/Stop node"
 		"Commentary_PrimaryAttack"		"%+attack%: Start/Stop node"
 		"[english]Commentary_SecondaryAttack"		"%+attack2%: Next node"
 		"Commentary_SecondaryAttack"		"%+attack2%: Next node"
-		
+
 		"[english]game_player_connecting"		"Player %s1 is connecting"
 		"game_player_connecting"		"Player %s1 is connecting"
 		"[english]game_player_joined_game"		"Player %s1 has joined the game"
@@ -533,7 +533,7 @@
 		"game_player_changed_name"		"Player %s1 changed name to %s2"
 		"[english]game_server_cvar_changed"		"Server cvar '%s1' changed to %s2"
 		"game_server_cvar_changed"		"Server cvar '%s1' changed to %s2"
-		
+
 		// Radio and chat strings can have control characters embedded to set colors. For the control characters to be used, one must be at the start of the string.
 		// The control characters can be copied and pasted in notepad.
 		//  = 0x02 (STX) - Use team color up to the end of the player name. This only works at the start of the string, and precludes using the other control characters.
@@ -548,10 +548,10 @@
 "game_nextmap"		"Nästa karta: %s1"
 		"[english]game_takesshots"		"Auto-save a scoreboard screenshot at the end of a map."
 		"game_takesshots"		"Auto-save a scoreboard screenshot at the end of a map."
-		
+
 		"[english]Cannot_Be_Spectator"		"This server does not allow spectating"
 		"Cannot_Be_Spectator"		"This server does not allow spectating"
-		
+
 		// Strings used by RejectConnection() in the engine
 		"[english]Valve_Reject_Background_Map"		"Can't join multiplayer game on background map listen server."
 		"Valve_Reject_Background_Map"		"Can't join multiplayer game on background map listen server."

@@ -229,7 +229,7 @@
 		"asw_MailAccount"		"Mail Account:"
 		"[english]asw_MailBodyLabel"		"Message:"
 		"asw_MailBodyLabel"		"Message:"
-		
+
 		// skills
 		"[english]asw_leadership"		"Leadership"
 		"asw_leadership"		"Leadership"
@@ -279,7 +279,7 @@
 		"asw_points_tooltip"		"Unused Skill Points"
 		"[english]asw_points_tooltip_desc"		"Spend skill points to improve marine abilities.\nMarine has %s1 skill points already allocated."
 		"asw_points_tooltip_desc"		"Spend skill points to improve marine abilities.\nMarine has %s1 skill points already allocated."
-		
+
 		"[english]asw_leadership_desc"		"Boosts the damage dealt and damage\nresistance of nearby squad mates."
 		"asw_leadership_desc"		"Boosts the damage dealt and damage\nresistance of nearby squad mates."
 		"[english]asw_vindicator_desc"		"Increases damage dealt by the Vindicator."
@@ -316,7 +316,7 @@
 		"asw_reloading_desc"		"Decreases the reload time of all weapons."
 		"[english]asw_agility_desc"		"Increases the marine's movement speed."
 		"asw_agility_desc"		"Increases the marine's movement speed."
-		
+
 		"[english]asw_rank_sarge"		"Master Sergeant"
 		"asw_rank_sarge"		"Master Sergeant"
 		"[english]asw_rank_jaeger"		"Corporal"
@@ -335,7 +335,7 @@
 		"asw_rank_flynn"		"Private"
 		"[english]asw_rank_vegas"		"Private"
 		"asw_rank_vegas"		"Private"
-		
+
 		"[english]asw_firstname_sarge"		"Joseph"
 		"asw_firstname_sarge"		"Joseph"
 		"[english]asw_firstname_jaeger"		"Karl"
@@ -354,7 +354,7 @@
 		"asw_firstname_flynn"		"Gareth"
 		"[english]asw_firstname_vegas"		"Alejandro"
 		"asw_firstname_vegas"		"Alejandro"
-		
+
 		"[english]asw_lastname_sarge"		"Conrad"
 		"asw_lastname_sarge"		"Conrad"
 		"[english]asw_lastname_jaeger"		"Jaeger"
@@ -373,7 +373,7 @@
 		"asw_lastname_flynn"		"Flynn"
 		"[english]asw_lastname_vegas"		"Guerra"
 		"asw_lastname_vegas"		"Guerra"
-		
+
 		"[english]asw_name_sarge"		"Sarge"
 		"asw_name_sarge"		"Sarge"
 		"[english]asw_name_jaeger"		"Jaeger"
@@ -392,7 +392,7 @@
 		"asw_name_flynn"		"Flynn"
 		"[english]asw_name_vegas"		"Vegas"
 		"asw_name_vegas"		"Vegas"
-		
+
 		"[english]asw_bio_sarge"		"Joseph Conrad is a tough, experienced soldier. He's one of the few people to have survived a large-scale Swarm invasion, an experience which forged him into the driven man he is today. A strong commander, he leads both by example, and through the not-so-gentle application of verbal foot to ass. He knows his team well and pushes hard to keep them at their best."
 		"asw_bio_sarge"		"Joseph Conrad is a tough, experienced soldier. He's one of the few people to have survived a large-scale Swarm invasion, an experience which forged him into the driven man he is today. A strong commander, he leads both by example, and through the not-so-gentle application of verbal foot to ass. He knows his team well and pushes hard to keep them at their best."
 		"[english]asw_bio_jaeger"		"Karl Jaeger is the son of the son of a corpsman, military to his war-hardened bones. He’s a hard-charging killing machine with a true warrior’s spirit. He believes in the soul-freeing joy of combat and has always suspected he'll die in the line of duty. And if that happens, well, he can’t imagine a better way to go."
@@ -613,7 +613,7 @@
 		"rd_points_awarding_message"		"Awarding %s4%s1 points to %s4%s2, total = %s4%s3\n"
 		"[english]rd_points_reduced_due_to_farming"		"You recently played this map. Gained points will be decreased.\n"
 		"rd_points_reduced_due_to_farming"		"You recently played this map. Gained points will be decreased.\n"
-		
+
 		"[english]asw_mission_complete_CAMPAIGN"		"CAMPAIGN"
 		"asw_mission_complete_CAMPAIGN"		"CAMPAIGN"
 		"[english]asw_mission_complete_MISSION"		"MISSION"
@@ -622,7 +622,7 @@
 		"asw_mission_complete_COMPLETE"		"COMPLETE"
 		"[english]asw_mission_complete_FAILED"		"FAILED"
 		"asw_mission_complete_FAILED"		"FAILED"
-		
+
 		"[english]asw_weapon_tooltip_activate"		"Left click to activate"
 		"asw_weapon_tooltip_activate"		"Left click to activate"
 		"[english]asw_weapon_tooltip_change"		"Left click to change"
@@ -647,7 +647,7 @@
 		"asw_weapon_details_required_level"		"Unlocks at level"
 		"[english]asw_weapon_details_seconds"		"Sec."
 		"asw_weapon_details_seconds"		"Sec."
-		
+
 		"[english]asw_no_ammo"		"- NO AMMO -"
 		"asw_no_ammo"		"- NO AMMO -"
 		"[english]asw_low_ammo"		"- LOW AMMO -"
@@ -1018,7 +1018,7 @@
 		"asw_take_ammo_sniper_rifle"		"Take Sniper Rifle Ammo"
 		"[english]asw_take_ammo_heavy_rifle"		"Take Heavy Rifle Ammo"
 		"asw_take_ammo_heavy_rifle"		"Take Heavy Rifle Ammo"
-		
+
 		// powerups
 		"[english]asw_take_pow_fire_bullets"		"Take Fire Booster"
 		"asw_take_pow_fire_bullets"		"Take Fire Booster"
@@ -1032,7 +1032,7 @@
 		"asw_take_pow_explo_bullets"		"Take Explosive Booster"
 		"[english]asw_take_pow_inc_speed"		"Take Speed Booster"
 		"asw_take_pow_inc_speed"		"Take Speed Booster"
-		
+
 		"[english]asw_ammo_rifle"		"Rifle Ammo"
 		"asw_ammo_rifle"		"Rifle Ammo"
 		"[english]asw_ammo_autogun"		"Autogun Ammo"
@@ -1061,7 +1061,7 @@
 		"asw_ammo_sniper_rifle"		"Sniper Rifle Ammo"
 		"[english]asw_ammo_heavy_rifle"		"Heavy Rifle Ammo"
 		"asw_ammo_heavy_rifle"		"Heavy Rifle Ammo"
-		
+
 		"[english]asw_ammo_rifle_full"		"Full Rifle Clips"
 		"asw_ammo_rifle_full"		"Full Rifle Clips"
 		"[english]asw_ammo_autogun_full"		"Full Autogun Clips"
@@ -1090,7 +1090,7 @@
 		"asw_ammo_sniper_rifle_full"		"Full Sniper Rifle Clips"
 		"[english]asw_ammo_heavy_rifle_full"		"Full Heavy Rifle Clips"
 		"asw_ammo_heavy_rifle_full"		"Full Heavy Rifle Clips"
-		
+
 		"[english]asw_use_icon_format"		"[%s1] %s2"
 		"asw_use_icon_format"		"[%s1] %s2"
 		"[english]asw_hold_use_icon_format"		"Hold [%s1] %s2"
@@ -1394,7 +1394,7 @@
 		"asw_door_reinforcing"		"Reinforcing Door"
 		"[english]asw_door_unsealing"		"Unwelding Door"
 		"asw_door_unsealing"		"Unwelding Door"
-		
+
 		"[english]asw_achievement_progress"		"Progress"
 		"asw_achievement_progress"		"Progress"
 		"[english]asw_medal0"		"Unknown Medal"
@@ -2110,7 +2110,7 @@
 		"asw_speech_smile"		"*smile*"
 		"[english]asw_speech_zing"		"Zing!"
 		"asw_speech_zing"		"Zing!"
-		
+
 		"[english]asw_cain_mail_0"		"Transmission From: SynTek Research Station 7"
 		"asw_cain_mail_0"		"Transmission From: SynTek Research Station 7"
 		"[english]asw_cain_mail_1"		"Date: 12/20/52"
@@ -2127,7 +2127,7 @@
 		"asw_cain_mail_6"		"ETA 14 days."
 		"[english]asw_cain_mail_7"		"Expect a promotion before the end of the year."
 		"asw_cain_mail_7"		"Expect a promotion before the end of the year."
-		
+
 		"[english]asw_instructor_infestation_death"		"Healing is the Only Infestation Cure"
 		"asw_instructor_infestation_death"		"Healing is the Only Infestation Cure"
 		"[english]asw_instructor_switch_marine"		"Control Marine"
@@ -2238,7 +2238,7 @@
 		"asw_instructor_movement"		"Move Marine"
 		"[english]asw_instructor_rotate_camera"		"Rotate camera"
 		"asw_instructor_rotate_camera"		"Rotate camera"
-		
+
 		"[english]asw_fail_advice_teamwork"		"Coordinate your squad's movement and firing zones."
 		"asw_fail_advice_teamwork"		"Coordinate your squad's movement and firing zones."
 		"[english]asw_fail_advice_loadout"		"Tactically coordinate your squad's loadout equipment."
@@ -2277,7 +2277,7 @@
 		"asw_fail_advice_died_alone"		"Keep your squad formation tight to prevent becoming overwhelmed."
 		"[english]asw_fail_advice_no_medics"		"Bring a medic along to keep the squad in good health."
 		"asw_fail_advice_no_medics"		"Bring a medic along to keep the squad in good health."
-		
+
 		"[english]asw_stats_player_name"		"%s1 %s2 XP: %s3"
 		"asw_stats_player_name"		"%s1 %s2 XP: %s3"
 		"[english]asw_stats_player_status_leader"		"(leader)"
@@ -2442,7 +2442,7 @@
 		"asw_wdesc_tesla_gun"		"Originally designed to jumpstart heavy equipment, this tool was quickly weaponized after the discovery that the 24-30 amps and 25K voltage was the perfect blend for liquifying alien innards. The IAF Tesla Cannon is calibrated to identify human biometrics and avoid friendly-fire accidents. In proximity to alien life forms, the beam will arc to nearby hostiles."
 		"[english]asw_wdesc_ammo_satchel"		"A standard issue IAF ammo pack containing deployable ammo for all weapon types used in the field. Each pack contains 3 ammo stashes."
 		"asw_wdesc_ammo_satchel"		"A standard issue IAF ammo pack containing deployable ammo for all weapon types used in the field. Each pack contains 3 ammo stashes."
-		
+
 		"[english]asw_labs_bio1"		"ACCESS DENIED:\nBIOHAZARD DETECTED WITHIN RESEARCH FACILITY"
 		"asw_labs_bio1"		"ACCESS DENIED:\nBIOHAZARD DETECTED WITHIN RESEARCH FACILITY"
 		"[english]asw_labs_bio2"		"Warning: Class 4 organism detected in Sector 1 of SynTek Research Facility. Quarantine lock-out has re-routed power as per Interstellar Alliance protocol #45/82763. Please remove all Class 4 foreign organisms to gain access."
@@ -2687,7 +2687,7 @@
 		"asw_ob_mine_6t"		"Wait for ship"
 		"[english]asw_ob_mine_6"		"Wait for ship"
 		"asw_ob_mine_6"		"Wait for ship"
-		
+
 		"[english]asw_pda_owner_name_brian_howe"		"Brian Howe"
 		"asw_pda_owner_name_brian_howe"		"Brian Howe"
 		"[english]asw_pda_owner_name_john_cain"		"John Cain"
@@ -2814,7 +2814,7 @@
 		"asw_pda_owner_name_maxwell_fierze"		"Maxwell Fierze"
 		"[english]asw_pda_owner_name_isaac_lezeas"		"Isaac Lezeas"
 		"asw_pda_owner_name_isaac_lezeas"		"Isaac Lezeas"
-		
+
 		"[english]asw_galactic_map_core_systems"		"CORE SYSTEMS"
 		"asw_galactic_map_core_systems"		"CORE SYSTEMS"
 		"[english]asw_galactic_map_syntek_megacorporation"		"SYNTEK MEGACORPORATION"
@@ -2847,14 +2847,14 @@
 		"asw_galactic_map_anhaven_ruins"		"The Anhaven Ruins"
 		"[english]asw_galactic_map_jacobs_rest"		"Jacob's Rest"
 		"asw_galactic_map_jacobs_rest"		"Jacob's Rest"
-		
+
 		"[english]asw_campaign_initializing"		"Initializing..."
 		"asw_campaign_initializing"		"Initializing..."
 		"[english]asw_campaign_generating_map"		"Generating map..."
 		"asw_campaign_generating_map"		"Generating map..."
 		"[english]asw_campaign_retries_label"		"Retries: %s1"
 		"asw_campaign_retries_label"		"Retries: %s1"
-		
+
 		"[english]ASW_Ammo_Bag_Title"		"Ammo Bag"
 		"ASW_Ammo_Bag_Title"		"Ammo Bag"
 		"[english]asw_drop_r_ammo"		"Drop Rifle Ammo"
@@ -3136,7 +3136,7 @@
 		"asw_so_biomass"		"Biomass"
 		"[english]asw_bouncing_kills"		"%s1 killed %s2 aliens with bounced shots."
 		"asw_bouncing_kills"		"%s1 killed %s2 aliens with bounced shots."
-		
+
 		"[english]asw_pick_stim_music"		"Select Adrenaline Music"
 		"asw_pick_stim_music"		"Select Adrenaline Music"
 		"[english]asw_stim_music_types"		"Audio Files (*.mp3|*.wav)"
@@ -3147,7 +3147,7 @@
 		"asw_music_types"		"Audio Files (*.mp3)"
 		"[english]asw_ingame_map"		"In-Game Map"
 		"asw_ingame_map"		"In-Game Map"
-		
+
 		// holdout
 		"[english]asw_holdout_hud_wave"		"Wave: %s1"
 		"asw_holdout_hud_wave"		"Wave: %s1"
@@ -3167,7 +3167,7 @@
 		"asw_holdout_resupply_ok"		"OK"
 		"[english]asw_holdout_complete"		"A WINNER IS YOU!"
 		"asw_holdout_complete"		"A WINNER IS YOU!"
-		
+
 		// new briefing
 		"[english]nb_mission_prep"		"MISSION PREP"
 		"nb_mission_prep"		"MISSION PREP"
@@ -3331,7 +3331,7 @@
 		"marine_class_medic"		"Medic"
 		"[english]marine_class_tech"		"Tech"
 		"marine_class_tech"		"Tech"
-		
+
 		"[english]marine_class_officer_label"		"Officers:"
 		"marine_class_officer_label"		"Officers:"
 		"[english]marine_class_sw_label"		"Weapon Specialists:"
@@ -3340,7 +3340,7 @@
 		"marine_class_medic_label"		"Medics:"
 		"[english]marine_class_tech_label"		"Technical Engineers:"
 		"marine_class_tech_label"		"Technical Engineers:"
-		
+
 		"[english]ASW_KILL_WITHOUT_FRIENDLY_FIRE_NAME"		"Clear Firing"
 		"ASW_KILL_WITHOUT_FRIENDLY_FIRE_NAME"		"Clear Firing"
 		"[english]ASW_NO_FRIENDLY_FIRE_NAME"		"Short Controlled Bursts"
@@ -3774,7 +3774,7 @@
 		"RD_DIE_IN_MANY_WAYS_NAME"		"Battle-Tested"
 		"[english]RD_ACC_MUONGEM_KILL_NAME"		"No Time To Waste"
 		"RD_ACC_MUONGEM_KILL_NAME"		"No Time To Waste"
-		
+
 		"[english]ASW_KILL_WITHOUT_FRIENDLY_FIRE_DESC"		"Kill 25 drones without friendly fire. Four marines must be present in the mission."
 		"ASW_KILL_WITHOUT_FRIENDLY_FIRE_DESC"		"Kill 25 drones without friendly fire. Four marines must be present in the mission."
 		"[english]ASW_NO_FRIENDLY_FIRE_DESC"		"Complete a mission with no friendly fire incidents. Four marines must be present in the mission."
@@ -4207,7 +4207,7 @@
 		"RD_DIE_IN_MANY_WAYS_DESC"		"Die in 25 different ways."
 		"[english]RD_ACC_MUONGEM_KILL_DESC"		"In Lab Ruins, defeat the Muon Gem boss in three hits."
 		"RD_ACC_MUONGEM_KILL_DESC"		"In Lab Ruins, defeat the Muon Gem boss in three hits."
-		
+
 		"[english]ASW_Custom_Music_Col_Genre"		"Genre"
 		"ASW_Custom_Music_Col_Genre"		"Genre"
 		"[english]ASW_Custom_Music_Col_Artist"		"Artist"
@@ -4396,7 +4396,7 @@
 		"rdui_tdm_title"		"Team Deathmatch"
 		"[english]rdui_tdm_tooltip"		"Your team mates have names and healthbar, don't shoot at them!"
 		"rdui_tdm_tooltip"		"Your team mates have names and healthbar, don't shoot at them!"
-		
+
 		"[english]rd_mainmenu_workshop"		"Workshop"
 		"rd_mainmenu_workshop"		"Workshop"
 		"[english]rd_mainmenu_workshop_tip"		"Find new campaigns and challenges on the Steam Workshop"
@@ -4405,7 +4405,7 @@
 		"rd_mainmenu_workshop_browse"		"Browse"
 		"[english]rd_mainmenu_workshop_manage"		"Manage"
 		"rd_mainmenu_workshop_manage"		"Manage"
-		
+
 		"[english]workshop_restart_for_update"		"Restart Reactive Drop to update"
 		"workshop_restart_for_update"		"Restart Reactive Drop to update"
 		"[english]workshop_stat_tags"		"Tags: %s1"
@@ -4444,7 +4444,7 @@
 		"workshop_download_from_workshop"		"Available on the Steam Workshop"
 		"[english]workshop_number_in_queue"		"In queue: %s1"
 		"workshop_number_in_queue"		"In queue: %s1"
-		
+
 		"[english]rd_workshop_dummy_item"		"New Workshop Add-on"
 		"rd_workshop_dummy_item"		"New Workshop Add-on"
 		"[english]rd_workshop_published_addons"		"Published Workshop Add-ons"
@@ -4535,7 +4535,7 @@
 		"rd_workshop_conflict_won"		"\n- File \"%s1\" overrides addon \"%s2\""
 		"[english]rd_workshop_conflict_lost"		"\n- File \"%s1\" is overridden by addon \"%s2\""
 		"rd_workshop_conflict_lost"		"\n- File \"%s1\" is overridden by addon \"%s2\""
-		
+
 		"[english]asw_weapon_healamp_gun"		"Medical Amplifier Gun"
 		"asw_weapon_healamp_gun"		"Medical Amplifier Gun"
 		"[english]asw_weaponl_healamp_gun"		"IAF Medical Amplifier Gun"
@@ -4546,7 +4546,7 @@
 		"asw_weapon_healamp_gun_attributes"		"Mobile Healing and Amplification"
 		"[english]asw_wdesc_healamp_gun"		"This experimental version of the IAF regenerative healing gun can convert the healing charge into electromagnetic field which optimizes weapon of a single marine to fire rounds with increased impact force. Primary fire performs healing while alternate fire does amplification."
 		"asw_wdesc_healamp_gun"		"This experimental version of the IAF regenerative healing gun can convert the healing charge into electromagnetic field which optimizes weapon of a single marine to fire rounds with increased impact force. Primary fire performs healing while alternate fire does amplification."
-		
+
 		"[english]asw_weapon_50calmg"		"50CMG4-1"
 		"asw_weapon_50calmg"		"50CMG4-1"
 		"[english]asw_weaponl_50calmg"		"50CMG4-1"
@@ -4555,7 +4555,7 @@
 		"asw_wdesc_50calmg"		"This .50 caliber heavy machine gun is based on a design used as early as 1933. With the use of an IAF marine exosuit, this weapon can be used as a powerful, if inaccurate, mobile turret."
 		"[english]asw_weapon_50calmg_attributes"		"Heavy Machine Gun"
 		"asw_weapon_50calmg_attributes"		"Heavy Machine Gun"
-		
+
 		// as_sci1_bridge CHAPTER TEXT
 		"[english]asw_gametext_lan_lanasbridge_title"		"Lana's Escape"
 		"asw_gametext_lan_lanasbridge_title"		"Lana's Escape"
@@ -4685,7 +4685,7 @@
 		"asw_hint_lanascomplex_1"		"Nuclear warhead stopped!"
 		"[english]asw_hint_lanascomplex_2"		"Sentry activated"
 		"asw_hint_lanascomplex_2"		"Sentry activated"
-		
+
 		"[english]rd_ui_4_slots"		"4 Slots"
 		"rd_ui_4_slots"		"4 Slots"
 		"[english]rd_ui_4_slots_tt"		"4 players can play on this server"
@@ -4706,7 +4706,7 @@
 		"rd_ui_max_players"		"MAX PLAYERS"
 		"[english]asw_chat_died"		"%s1 was killed in action!"
 		"asw_chat_died"		"%s1 was killed in action!"
-		
+
 		// Area9800 strings
 		"[english]rd_area9800LZ_ob_destroy"		"Secure the hangar"
 		"rd_area9800LZ_ob_destroy"		"Secure the hangar"
@@ -4726,7 +4726,7 @@
 		"rd_area9800LZ_ob_exit_d"		"Another security door here before you can access the power plant to continue"
 		"[english]rd_area9800LZ_debrief"		"Turns out, this is another alien infestation. Team Bravo will secure the site, while your team will move further along. Stay Alert for any possible survivors."
 		"rd_area9800LZ_debrief"		"Turns out, this is another alien infestation. Team Bravo will secure the site, while your team will move further along. Stay Alert for any possible survivors."
-		
+
 		"[english]rd_area9800PP1_ob_generator"		"Start up Backup Generator"
 		"rd_area9800PP1_ob_generator"		"Start up Backup Generator"
 		"[english]rd_area9800PP1_ob_generator_d"		"Seems like the power was cut out, this is not part of standard isolation procedure. Whatever the cause you'll need to start the backup generator which will power up doors."
@@ -4745,7 +4745,7 @@
 		"rd_area9800PP1_ob_exit_d"		"Next is the fuel pump for the generator."
 		"[english]rd_area9800PP1_debrief"		"There's a hell of an infestation out there, your orders are to proceed with the rest of the missions."
 		"rd_area9800PP1_debrief"		"There's a hell of an infestation out there, your orders are to proceed with the rest of the missions."
-		
+
 		"[english]rd_area9800PP2_ob_fuel_pump"		"Start up Fuel Pump"
 		"rd_area9800PP2_ob_fuel_pump"		"Start up Fuel Pump"
 		"[english]rd_area9800PP2_ob_fuel_pump_d"		"Now, that's the fuel pump we were talking about, start it up!"
@@ -4764,7 +4764,7 @@
 		"rd_area9800PP2_ob_exit_d"		"Time to get out. Head over toward the surface door"
 		"[english]rd_area9800PP2_debrief"		"We got all the information our science teams wanted, now it's time to get the hell out. Unfortunately Team Bravo couldn't secure the entry any longer, so you'll have to go through the wastelands."
 		"rd_area9800PP2_debrief"		"We got all the information our science teams wanted, now it's time to get the hell out. Unfortunately Team Bravo couldn't secure the entry any longer, so you'll have to go through the wastelands."
-		
+
 		"[english]rd_area9800WL_ob_bridge_gate"		"Open a path to the bridge"
 		"rd_area9800WL_ob_bridge_gate"		"Open a path to the bridge"
 		"[english]rd_area9800WL_ob_bridge_gate_d"		"It should get simpler now that you left the heavily infested facility behind you."
@@ -4783,95 +4783,95 @@
 		"rd_area9800WL_ob_exit"		"Leave the Wastelands"
 		"[english]rd_area9800WL_debrief"		"Mission complete, head over to headquarters for a complete debriefing and rest, don't forget to hand over the optical storage to our science teams. Despite this success, we lost all contact with team Bravo."
 		"rd_area9800WL_debrief"		"Mission complete, head over to headquarters for a complete debriefing and rest, don't forget to hand over the optical storage to our science teams. Despite this success, we lost all contact with team Bravo."
-		
+
 		// Research 7 strings
 		"[english]rd_res1_ob_poweron1"		"Restore the power"
 		"rd_res1_ob_poweron1"		"Restore the power"
 		"[english]rd_res1_ob_poweron1_d"		"Turn on the backup generator to restore power to the airlock."
 		"rd_res1_ob_poweron1_d"		"Turn on the backup generator to restore power to the airlock."
-		
+
 		"[english]rd_res1_ob_airlock1"		"Open the airlock"
 		"rd_res1_ob_airlock1"		"Open the airlock"
 		"[english]rd_res1_ob_airlock1_d"		"The airlock is back online, use the panel to open it."
 		"rd_res1_ob_airlock1_d"		"The airlock is back online, use the panel to open it."
-		
+
 		"[english]rd_res1_ob_escape2"		"Access the facility"
 		"rd_res1_ob_escape2"		"Access the facility"
 		"[english]rd_res1_ob_escape2_d"		"Open the airlock door to proceed through the facility."
 		"rd_res1_ob_escape2_d"		"Open the airlock door to proceed through the facility."
-		
+
 		"[english]rd_res1_ob_escape"		"Proceed into facility"
 		"rd_res1_ob_escape"		"Proceed into facility"
 		"[english]rd_res1_ob_escape_d"		"Get inside the Research 7 facility."
 		"rd_res1_ob_escape_d"		"Get inside the Research 7 facility."
-		
+
 		"[english]asw_find_the_generator_switch"		"Find the generator switch"
 		"asw_find_the_generator_switch"		"Find the generator switch"
-		
+
 		"[english]rd_res1_ob_activatepurge1"		"Activate the Purge System"
 		"rd_res1_ob_activatepurge1"		"Activate the Purge System"
 		"[english]rd_res1_ob_activatepurge1_d"		"Find and activate the RC7 Purge Systems to kill the swarm in the labs."
 		"rd_res1_ob_activatepurge1_d"		"Find and activate the RC7 Purge Systems to kill the swarm in the labs."
 		"[english]rd_res1_ob_activatepurge1_d2"		"Some of the swarm may be driven upwards through vents."
 		"rd_res1_ob_activatepurge1_d2"		"Some of the swarm may be driven upwards through vents."
-		
+
 		"[english]rd_res1_ob_exit_though_forest"		"Exit RC7 and head through the forest"
 		"rd_res1_ob_exit_though_forest"		"Exit RC7 and head through the forest"
 		"[english]rd_res1_ob_exit_though_forest_d"		"The forest ahead blocks your path. Find a way through, be inventive."
 		"rd_res1_ob_exit_though_forest_d"		"The forest ahead blocks your path. Find a way through, be inventive."
-		
+
 		"[english]rd_res1_ob_stop_spread"		"Stop the aliens spreading!"
 		"rd_res1_ob_stop_spread"		"Stop the aliens spreading!"
 		"[english]rd_res1_ob_stop_spread_d"		"The swarm are coming from underground."
 		"rd_res1_ob_stop_spread_d"		"The swarm are coming from underground."
 		"[english]rd_res1_ob_stop_spread_d2"		"Find a way to plug the hole to stop the alien menace spreading."
 		"rd_res1_ob_stop_spread_d2"		"Find a way to plug the hole to stop the alien menace spreading."
-		
+
 		"[english]rd_res1_ob_find_the_hut"		"Find a way into the hut"
 		"rd_res1_ob_find_the_hut"		"Find a way into the hut"
 		"[english]rd_res1_ob_find_the_hut_d"		"Maps show a cavern behind this hut."
 		"rd_res1_ob_find_the_hut_d"		"Maps show a cavern behind this hut."
 		"[english]rd_res1_ob_find_the_hut_d2"		"Check it out."
 		"rd_res1_ob_find_the_hut_d2"		"Check it out."
-		
+
 		"[english]rd_res1_ob_infested_hut_and_damp_d"		"The damp and dark hut is full of the swarm, eradicate the eggs."
 		"rd_res1_ob_infested_hut_and_damp_d"		"The damp and dark hut is full of the swarm, eradicate the eggs."
-		
+
 		"[english]rd_res1_ob_biomass_inside_cabin_d"		"Burn the biomass from inside the cabin."
 		"rd_res1_ob_biomass_inside_cabin_d"		"Burn the biomass from inside the cabin."
-		
+
 		"[english]rd_res1_ob_go_into_cave"		"Go deeper into the cave system."
 		"rd_res1_ob_go_into_cave"		"Go deeper into the cave system."
 		"[english]rd_res1_ob_go_into_cave_d"		"The swarm broke through the cabin wall from a cave."
 		"rd_res1_ob_go_into_cave_d"		"The swarm broke through the cabin wall from a cave."
 		"[english]rd_res1_ob_go_into_cave_d2"		"Follow the cave system."
 		"rd_res1_ob_go_into_cave_d2"		"Follow the cave system."
-		
+
 		"[english]rd_res1_ob_find_bypass_blockage"		"Find a way past the blockage"
 		"rd_res1_ob_find_bypass_blockage"		"Find a way past the blockage"
 		"[english]rd_res1_ob_find_bypass_blockage_d"		"There must be something to use in the caves nearby"
 		"rd_res1_ob_find_bypass_blockage_d"		"There must be something to use in the caves nearby"
-		
+
 		"[english]rd_res1_ob_find_bypass_gate"		"Find a way to bypass the gate"
 		"rd_res1_ob_find_bypass_gate"		"Find a way to bypass the gate"
 		"[english]rd_res1_ob_find_bypass_gate_d"		"Burn the biomass away"
 		"rd_res1_ob_find_bypass_gate_d"		"Burn the biomass away"
-		
+
 		"[english]rd_res1_ob_rise_lift"		"Rise the lift"
 		"rd_res1_ob_rise_lift"		"Rise the lift"
 		"[english]rd_res1_ob_rise_lift_d"		"You'll need to bring that lift up, hit the switch to activate it"
 		"rd_res1_ob_rise_lift_d"		"You'll need to bring that lift up, hit the switch to activate it"
-		
+
 		"[english]rd_res1_ob_defend_generator"		"Defend the generator"
 		"rd_res1_ob_defend_generator"		"Defend the generator"
 		"[english]rd_res1_ob_defend_generator_d"		"The swarm seem to be attracted to something, defend the generator!"
 		"rd_res1_ob_defend_generator_d"		"The swarm seem to be attracted to something, defend the generator!"
 		"[english]rd_res1_ob_defend_generator_d2"		"If they damage it too much the lift won't reach you."
 		"rd_res1_ob_defend_generator_d2"		"If they damage it too much the lift won't reach you."
-		
+
 		"[english]rd_res1_ob_on_lift"		"Get on the lift"
 		"rd_res1_ob_on_lift"		"Get on the lift"
-		
+
 		"[english]rd_res1_ob_find_way_raise_lift"		"Find a way to raise the lift"
 		"rd_res1_ob_find_way_raise_lift"		"Find a way to raise the lift"
 		"[english]rd_res1_ob_rotate_laser"		"Rotate the laser"
@@ -4882,27 +4882,27 @@
 		"rd_res1_ob_shoot_laser"		"Fire the laser"
 		"[english]rd_res1_ob_exit_mines"		"Escape the mines"
 		"rd_res1_ob_exit_mines"		"Escape the mines"
-		
+
 		"[english]rd_res1_hint_raise_lift"		"Raise the lift"
 		"rd_res1_hint_raise_lift"		"Raise the lift"
-		
+
 		"[english]rd_res1_hint_open_doors"		"Open lift doors"
 		"rd_res1_hint_open_doors"		"Open lift doors"
-		
+
 		"[english]rd_res1_hint_run_to_laser_room"		"Run to the south, into laser room! Alien queen is close!"
 		"rd_res1_hint_run_to_laser_room"		"Run to the south, into laser room! Alien queen is close!"
-		
+
 		"[english]rd_res1_hint_evacuate_quick"		"Evacuate ASAP"
 		"rd_res1_hint_evacuate_quick"		"Evacuate ASAP"
-		
+
 		"[english]rd_res1_healthbar_generator"		"Generator Damage"
 		"rd_res1_healthbar_generator"		"Generator Damage"
-		
+
 		"[english]nb_commander_connecting"		"Connecting..."
 		"nb_commander_connecting"		"Connecting..."
 		"[english]rd_out_of_meds"		"%s1 is out of meds."
 		"rd_out_of_meds"		"%s1 is out of meds."
-		
+
 		"[english]nb_leaderboard"		"LEADERBOARD"
 		"nb_leaderboard"		"LEADERBOARD"
 		"[english]nb_leaderboard_error"		"An error occurred while downloading the leaderboard."
@@ -4933,7 +4933,7 @@
 		"rd_challenge_selection_author_official"		"By the Reactive Drop Team"
 		"[english]rd_official_content"		"Official Content"
 		"rd_official_content"		"Official Content"
-		
+
 		"[english]rd_ada2_ob_eggs1"		"Clear the area"
 		"rd_ada2_ob_eggs1"		"Clear the area"
 		"[english]rd_ada2_ob_dead_end1a"		"Scanner shows that the path ahead is most likely blocked"
@@ -4966,7 +4966,7 @@
 		"rd_ada2_ob_escape_t"		"Emmideately evacuation"
 		"[english]rd_ada2_debrief"		"Well done team!"
 		"rd_ada2_debrief"		"Well done team!"
-		
+
 		"[english]rd_ada3_ob_antenn1"		"Try to send a signal for evacuation"
 		"rd_ada3_ob_antenn1"		"Try to send a signal for evacuation"
 		"[english]rd_ada3_ob_antenn1_t"		"Investigate nearest satellite"
@@ -4995,7 +4995,7 @@
 		"rd_ada3_ob_escape_t"		"Escape"
 		"[english]rd_ada3_debrief"		"Well done team!"
 		"rd_ada3_debrief"		"Well done team!"
-		
+
 		"[english]rd_ada4_ob_eggs"		"Destroy mutagenic swarm eggs"
 		"rd_ada4_ob_eggs"		"Destroy mutagenic swarm eggs"
 		"[english]rd_ada3_ob_lost_marineA"		"Locate the lost marine with special electro device"
@@ -5012,12 +5012,12 @@
 		"rd_ada4_ob_escape_t"		"Reach the Outpost"
 		"[english]rd_ada4_debrief"		"Well done team!"
 		"rd_ada4_debrief"		"Well done team!"
-		
+
 		"[english]RD_MainMenu_Training"		"TRAINING"
 		"RD_MainMenu_Training"		"TRAINING"
 		"[english]RD_MainMenu_Training_Tip"		"Learn how to play the game by completing this training map"
 		"RD_MainMenu_Training_Tip"		"Learn how to play the game by completing this training map"
-		
+
 		"[english]rdui_gamesettings_network_bandwidth"		"Max Acceptable Game Traffic Bandwidth"
 		"rdui_gamesettings_network_bandwidth"		"Max Acceptable Game Traffic Bandwidth"
 		"[english]rdui_bandwidth_extremely_restricted"		"Extremely Restricted"
@@ -5074,7 +5074,7 @@
 		"GameUI_Language_Turkish"		"Turkish"
 		"[english]GameUI_Language_Ukrainian"		"Ukrainian"
 		"GameUI_Language_Ukrainian"		"Ukrainian"
-		
+
 		"[english]rd_so_appears_title"		"Appears in"
 		"rd_so_appears_title"		"Appears in"
 		"[english]rd_so_appears_no_challenge"		"No challenge"
@@ -5095,7 +5095,7 @@
 		"rd_so_appears_difficulty_range"		"%s1 (%s2 to %s3)"
 		"[english]rd_so_appears_onslaught_only"		"%s1 (Onslaught only)"
 		"rd_so_appears_onslaught_only"		"%s1 (Onslaught only)"
-		
+
 		"[english]rd_so_alien_drone"		"Drone"
 		"rd_so_alien_drone"		"Drone"
 		"[english]rd_so_alien_ranger"		"Ranger"
@@ -5122,7 +5122,7 @@
 		"rd_so_alien_grub"		"Grub"
 		"[english]rd_so_alien_antlionguard"		"Antlion Guard"
 		"rd_so_alien_antlionguard"		"Antlion Guard"
-		
+
 		"[english]rd_so_display_no_model"		"No Specimen Available"
 		"rd_so_display_no_model"		"No Specimen Available"
 		"[english]rd_so_display_caption_first_specimen"		"Specimen A"
@@ -5135,7 +5135,7 @@
 		"rd_so_display_caption_fourth_specimen"		"Specimen D"
 		"[english]rd_so_sources"		"Data Sources:"
 		"rd_so_sources"		"Data Sources:"
-		
+
 		"[english]rd_so_ability_alerts_swarm"		"Alerts Swarm"
 		"rd_so_ability_alerts_swarm"		"Alerts Swarm"
 		"[english]rd_so_ability_attacks_doors"		"Attacks Doors"
@@ -5186,7 +5186,7 @@
 		"rd_so_ability_resistant_to_damage"		"Resistant to Damage"
 		"[english]rd_so_ability_suicide_bomber"		"Suicide Bomber"
 		"rd_so_ability_suicide_bomber"		"Suicide Bomber"
-		
+
 		"[english]rd_so_global_stat_loading"		"Requesting statistics from IAF Command..."
 		"rd_so_global_stat_loading"		"Requesting statistics from IAF Command..."
 		"[english]rd_so_global_stat_failed"		"Connection to IAF Command failed. Statistics are unavailable."
@@ -5199,7 +5199,7 @@
 		"rd_so_requirements_not_met"		"Data Missing"
 		"[english]rd_so_requirement_kill_this_alien"		"Not enough alien biometric data. Find and eliminate members of this species to reveal more information. (%s1%)"
 		"rd_so_requirement_kill_this_alien"		"Not enough alien biometric data. Find and eliminate members of this species to reveal more information. (%s1%)"
-		
+
 		"[english]rd_so_stat_killed"		"Killed"
 		"rd_so_stat_killed"		"Killed"
 		"[english]rd_so_stat_killed_jumper"		"Jumpers Killed"
@@ -5236,7 +5236,7 @@
 		"rd_so_stat_damage_blocked"		"Damage Blocked"
 		"[english]rd_so_stat_extinguish_marines"		"Marines Extinguished"
 		"rd_so_stat_extinguish_marines"		"Marines Extinguished"
-		
+
 		"[english]rd_so_damage_resistance_drone"		"Drones are the damage resistance baseline used in these articles.\nDamage Resistance (Uber): 12.5×"
 		"rd_so_damage_resistance_drone"		"Drones are the damage resistance baseline used in these articles.\nDamage Resistance (Uber): 12.5×"
 		"[english]rd_so_damage_resistance_biomass"		"Damage Resistance: N/A"
@@ -5263,7 +5263,7 @@
 		"rd_so_damage_resistance_800hp"		"Damage Resistance: 20×"
 		"[english]rd_so_damage_resistance_1000hp"		"Damage Resistance: 25×"
 		"rd_so_damage_resistance_1000hp"		"Damage Resistance: 25×"
-		
+
 		"[english]rd_so_tips_drone"		"IAF Fact Sheet:\n• Drones only attack with their claws. Taking them out before they reach the squad will render them harmless.\n• Certain drones have been known to leap large distances. Take extra precautions when using explosive weaponry, as targets may rapidly advance into unsafe range.\n• Drones can crawl through ducts and under scaffolding. It is sometimes possible to block the drones' points of egress, trapping them in a location where they are not a threat to marines."
 		"rd_so_tips_drone"		"IAF Fact Sheet:\n• Drones only attack with their claws. Taking them out before they reach the squad will render them harmless.\n• Certain drones have been known to leap large distances. Take extra precautions when using explosive weaponry, as targets may rapidly advance into unsafe range.\n• Drones can crawl through ducts and under scaffolding. It is sometimes possible to block the drones' points of egress, trapping them in a location where they are not a threat to marines."
 		"[english]rd_so_tips_ranger"		"IAF Fact Sheet:\n• The ranger's acidic weapon travels at a constant height. Dodge roll out of the way for a clean escape.\n• Rangers lack a melee attack. The only risk in getting close to a ranger is a point-blank acid orb.\n• Rangers cannot turn while firing. Use this opportunity to flank or get into melee range."
@@ -5291,7 +5291,7 @@
 		// Antlion guards are referred to as "horses" by players. "why the long face?" is a lighthearted way to ask someone why they look sad, but it's also the punchline of a common joke (horse walks into a bar, bartender asks "why the long face?", the joke is that horse faces are just kind of long because of their snouts)
 		"[english]rd_so_tips_antlionguard"		"IAF Fact Sheet:\n• Marines who have fought uber drones will find the antlion guard familiar, albeit faster and larger.\n• The antlion guard's primary weapon is the chitinous battering ram on their snout, giving them a distinctively long face.\n• Antlion guards come in two flavors: brown guards and glowing yellow guardians. They have otherwise identical bodies but behave differently."
 		"rd_so_tips_antlionguard"		"IAF Fact Sheet:\n• Marines who have fought uber drones will find the antlion guard familiar, albeit faster and larger.\n• The antlion guard's primary weapon is the chitinous battering ram on their snout, giving them a distinctively long face.\n• Antlion guards come in two flavors: brown guards and glowing yellow guardians. They have otherwise identical bodies but behave differently."
-		
+
 		"[english]rd_so_author_brad_irwing"		"From the journal of Dr. Brad Irwing (AMBER)"
 		"rd_so_author_brad_irwing"		"From the journal of Dr. Brad Irwing (AMBER)"
 		"[english]rd_so_author_bur_nable"		"From the journal of Bur Nable (Nanotrasen)"
@@ -5309,7 +5309,7 @@
 		"rd_so_author_julie_duval_ocm"		"Annotation from Prof. Julie Duval (OCM)"
 		"[english]rd_so_author_shaun_ming"		"From the journal of Shaun Ming (SynTek)"
 		"rd_so_author_shaun_ming"		"From the journal of Shaun Ming (SynTek)"
-		
+
 		"[english]rd_so_paragraph_drone_0"		"03/28/43, 15:23\nI don't think we'll ever truly understand these. There's so much to learn about their morphology, their behavior, even where they came from. Everything we do know came at a great human cost. I've recorded nearly fifty different variations on the same body plan. Triple that if you include the mutations I've confirmed firsthand. I've been trying to assemble the scant rumors of drones rapidly mutating astonishing new capabilities and carapace coloration. If even half of these are true, I worry we may never be able to catalog every possible variation, much less stamp this cancer out once and for all."
 		"rd_so_paragraph_drone_0"		"03/28/43, 15:23\nI don't think we'll ever truly understand these. There's so much to learn about their morphology, their behavior, even where they came from. Everything we do know came at a great human cost. I've recorded nearly fifty different variations on the same body plan. Triple that if you include the mutations I've confirmed firsthand. I've been trying to assemble the scant rumors of drones rapidly mutating astonishing new capabilities and carapace coloration. If even half of these are true, I worry we may never be able to catalog every possible variation, much less stamp this cancer out once and for all."
 		"[english]rd_so_paragraph_drone_1"		"04/03/43, 08:14\nThey aren't natural. Even if they were an evolved species at some point, there's evidence of experiments turning some existing being into these colony-destroying parasites. This goes a long way to explaining their remarkable genetic diversity. If the only common ancestor is some experimental parasite, it means whatever monsters created these things wanted to find the best possible hosts for their sick experiments. If the anthropogenic hypothesis offers one ray of hope, it's that we can find some kind of cure. Both for our sake and theirs. I have to believe there's still a chance to cure the galaxy of this alien swarm. There's got to be a better way than risking IAF lives and detonating stations after every last human's been dead for weeks."
@@ -5541,7 +5541,7 @@
 		// the Elements of Harmony are the magic jewelry (and the associated personality traits) that allow the main characters of My Little Pony: Friendship is Magic to laser blast their enemies. Discord is one villain they defeated this way.
 		"[english]rd_so_paragraph_antlionguard_5"		"To end on a lighter note, our research into proper antlion care and feeding has been going brilliantly. We've made good strides manipulating other antlion castes with pheropods, but that doesn't work with the guards. To that end, we've had quite some success with fruit and vegetables. They're quite fond of apples, jackfruit, and the occasional gourd. We've begun giving our captive antlions hollowed-out watermelons filled with other food, and they seem to enjoy the challenge! Remember, an enriched bug is a happy bug and a happy bug is far less likely to hurt someone on purpose. They do show affection through headbutts, so, once again, due caution and preparation are advised. Thank you for your time and attention, and I have faith that, in due time, we will find a way to keep these creatures docile in captivity. The elements of harmony, or at least the lack of discord, are within our grasp!"
 		"rd_so_paragraph_antlionguard_5"		"To end on a lighter note, our research into proper antlion care and feeding has been going brilliantly. We've made good strides manipulating other antlion castes with pheropods, but that doesn't work with the guards. To that end, we've had quite some success with fruit and vegetables. They're quite fond of apples, jackfruit, and the occasional gourd. We've begun giving our captive antlions hollowed-out watermelons filled with other food, and they seem to enjoy the challenge! Remember, an enriched bug is a happy bug and a happy bug is far less likely to hurt someone on purpose. They do show affection through headbutts, so, once again, due caution and preparation are advised. Thank you for your time and attention, and I have faith that, in due time, we will find a way to keep these creatures docile in captivity. The elements of harmony, or at least the lack of discord, are within our grasp!"
-		
+
 		"[english]rd_cant_equip_generic"		"Cannot use this weapon"
 		"rd_cant_equip_generic"		"Cannot use this weapon"
 		"[english]rd_cant_equip_class"		"Current marine cannot use"
@@ -6019,7 +6019,7 @@
 "rd_weapon_fact_generic_ammo_refill_clips_before"		""
 		"[english]rd_weapon_fact_generic_ammo_refill_clips_after"		" reloads"
 		"rd_weapon_fact_generic_ammo_refill_clips_after"		" reloads"
-		
+
 		"[english]rd_no_steam_service"		"Game cannot connect to the Steam client service"
 		"rd_no_steam_service"		"Game cannot connect to the Steam client service"
 		"[english]rd_no_steam_solutions"		"This can happen if your version of the Steam client is outdated or an antivirus program is interfering with the game's attempt to communicate. Check for updates in Steam, and try restarting Steam or your computer."
@@ -6032,7 +6032,7 @@
 		"rd_no_steam_solutions_path"		"Could not determine the location of the Steam Client through the registry. Try restarting Steam."
 		"[english]rd_no_steam_solutions_wine"		"You are running the game in Wine or Proton version %s1. A recent update may have caused the game to require a newer version. Try setting the game to run in Proton Experimental in the Compatibility tab of the game's properties in Steam."
 		"rd_no_steam_solutions_wine"		"You are running the game in Wine or Proton version %s1. A recent update may have caused the game to require a newer version. Try setting the game to run in Proton Experimental in the Compatibility tab of the game's properties in Steam."
-		
+
 		"[english]rd_no_bots_allowed"		"Current game mode does not allow adding bot marines"
 		"rd_no_bots_allowed"		"Current game mode does not allow adding bot marines"
 		"[english]rd_revive_marine"		"Hold to Revive Marine"
@@ -6227,7 +6227,7 @@
 		"rd_beta_coming_soon_desc"		"This feature will be added in a future update."
 		"[english]rd_commander_profile"		"COMMANDER PROFILE"
 		"rd_commander_profile"		"COMMANDER PROFILE"
-		
+
 		// Nam Humanum objectives
 		"[english]nh_logisticsarea_1_title"		"Hack through the service entrance"
 		"nh_logisticsarea_1_title"		"Hack through the service entrance"
@@ -6247,14 +6247,14 @@
 		"nh_logisticsarea_4_title"		"Leave the sector"
 		"[english]nh_logisticsarea_4"		"This reinforced door mechanism will lead you out, assuming you've kept your tech mostly in one piece."
 		"nh_logisticsarea_4"		"This reinforced door mechanism will lead you out, assuming you've kept your tech mostly in one piece."
-		
+
 		"[english]asw_gametext_nh_logisticsarea_title"		"Alien Swarm: Nam Humanum"
 		"asw_gametext_nh_logisticsarea_title"		"Alien Swarm: Nam Humanum"
 		"[english]asw_gametext_nh_logisticsarea_title2"		"Thomas 'Synmachus' Lesteven"
 		"asw_gametext_nh_logisticsarea_title2"		"Thomas 'Synmachus' Lesteven"
 		"[english]asw_gametext_nh_logisticsarea_title3"		"Guillaume 'Stral' Houard"
 		"asw_gametext_nh_logisticsarea_title3"		"Guillaume 'Stral' Houard"
-		
+
 		"[english]nh_platformXVII_1_title"		"Look for the elevator"
 		"nh_platformXVII_1_title"		"Look for the elevator"
 		"[english]nh_platformXVII_1a"		"Things seem to be getting worse by the minute. While unclear as to a definite course of action, we still have ways to go before we reach our end. What's left of Lugdunum's railway could be a worthwhile alternative to get you around the facility."
@@ -6283,12 +6283,12 @@
 		"nh_platformXVII_6_title"		"Take the elevator shaft down"
 		"[english]nh_platformXVII_6"		"The elevator at the end of the sector will lead you to the research complex."
 		"nh_platformXVII_6"		"The elevator at the end of the sector will lead you to the research complex."
-		
+
 		"[english]nh_platformXVII_hint"		"All marines must be on the platform."
 		"nh_platformXVII_hint"		"All marines must be on the platform."
 		"[english]nh_platformXVII_hint2"		"Press to launch the platform."
 		"nh_platformXVII_hint2"		"Press to launch the platform."
-		
+
 		"[english]nh_groundworklabs_1_title"		"Reach the labs' junction"
 		"nh_groundworklabs_1_title"		"Reach the labs' junction"
 		"[english]nh_groundworklabs_1a"		"Change of plans: we're tearing down this place for good. Gaining access to one of the colony's power cores is our best lead at burying it whole. Thermal readings are all over the place, so be advised as to alien presence."
@@ -6319,12 +6319,12 @@
 		"nh_groundworklabs_6_title"		"(Optional) Upload data to the ship"
 		"[english]nh_groundworklabs_6"		"-unauthorized entry, Ship Command notified-"
 		"nh_groundworklabs_6"		"-unauthorized entry, Ship Command notified-"
-		
+
 		"[english]nh_groundworklabs_6_hint"		"Destroy the gate generator"
 		"nh_groundworklabs_6_hint"		"Destroy the gate generator"
 		"[english]nh_groundworklabs_6_hint2"		"Trigger the nuclear meltdown"
 		"nh_groundworklabs_6_hint2"		"Trigger the nuclear meltdown"
-		
+
 		// Tilarus-5 strings
 		"[english]t5_midnight_1_title"		"Gain access to GeoTerra Facility"
 		"t5_midnight_1_title"		"Gain access to GeoTerra Facility"
@@ -6338,7 +6338,7 @@
 		"t5_midnight_3_title"		"Procede Towards Long Dawn"
 		"[english]t5_midnight_3a"		"Procede towards the Colony of Long Dawn, To help the Remaining colonists escape."
 		"t5_midnight_3a"		"Procede towards the Colony of Long Dawn, To help the Remaining colonists escape."
-		
+
 		"[english]t5_roadtodawn_1_title"		"Take Dock Overseer's ID"
 		"t5_roadtodawn_1_title"		"Take Dock Overseer's ID"
 		"[english]t5_roadtodawn_1a"		"Download the Dock Overseer's ID & Profile of the Nearest Interface, to gain access to the Main Road leading to the colony."
@@ -6355,7 +6355,7 @@
 		"t5_roadtodawn_4_title"		"Go to next area"
 		"[english]t5_roadtodawn_4a"		"Unless you want to stay here, with a load of angry trapped bugs, you should go to next area."
 		"t5_roadtodawn_4a"		"Unless you want to stay here, with a load of angry trapped bugs, you should go to next area."
-		
+
 		"[english]t5_arcticinfiltration_1_title"		"Gain access into the facility"
 		"t5_arcticinfiltration_1_title"		"Gain access into the facility"
 		"[english]t5_arcticinfiltration_1a"		"We received a distress call from a SynTek facility saying that they are under swarm attack."
@@ -6384,19 +6384,19 @@
 		"t5_arcticinfiltration_4a"		"At this point, you should be good to go further into the facility."
 		"[english]t5_arcticinfiltration_4b"		"We will continue from there according to the data you recovered from the computers."
 		"t5_arcticinfiltration_4b"		"We will continue from there according to the data you recovered from the computers."
-		
+
 		"[english]t5_arcticinfiltration_debrief1"		"Great work, team. We have the generators online so the facility is now fully powered."
 		"t5_arcticinfiltration_debrief1"		"Great work, team. We have the generators online so the facility is now fully powered."
 		"[english]t5_arcticinfiltration_debrief2"		"IAF Tech Division had a look at the data you retrieved from the computers. They managed to extract information about the facility inlcuding a layout of it."
 		"t5_arcticinfiltration_debrief2"		"IAF Tech Division had a look at the data you retrieved from the computers. They managed to extract information about the facility inlcuding a layout of it."
 		"[english]t5_arcticinfiltration_debrief3"		"Now we have a pretty good idea where you should proceed. More details will be available in the briefing of the next mission."
 		"t5_arcticinfiltration_debrief3"		"Now we have a pretty good idea where you should proceed. More details will be available in the briefing of the next mission."
-		
+
 		"[english]t5_arcticinfiltration_hint"		"Hack this panel to open the door."
 		"t5_arcticinfiltration_hint"		"Hack this panel to open the door."
 		"[english]t5_arcticinfiltration_hint2"		"Map made by Specur"
 		"t5_arcticinfiltration_hint2"		"Map made by Specur"
-		
+
 		"[english]asw_burn_all_biomass_on_generators"		"Burn all of the biomass attached to the generators."
 		"asw_burn_all_biomass_on_generators"		"Burn all of the biomass attached to the generators."
 		"[english]asw_complete_objective_first"		"Complete other objectives first before proceeding here."
@@ -6405,7 +6405,7 @@
 		"asw_activate_generators_first"		"No power. Activate the generators first."
 		"[english]asw_out_of_order"		"Out of soda. You happy now?"
 		"asw_out_of_order"		"Out of soda. You happy now?"
-		
+
 		"[english]t5_area9800_1_title"		"Clear the Hangar"
 		"t5_area9800_1_title"		"Clear the Hangar"
 		"[english]t5_area9800_1a"		"Kill everything that ain't human"
@@ -6416,10 +6416,10 @@
 		"t5_area9800_2a"		"Find the bridge and activate it."
 		"[english]t5_area9800_3_title"		"Go to the Extraction Point"
 		"t5_area9800_3_title"		"Go to the Extraction Point"
-		
+
 		"[english]t5_area9800_debrief"		"Well done team!"
 		"t5_area9800_debrief"		"Well done team!"
-		
+
 		"[english]t5_coldcatwalks_1_title"		"Disable the alarm"
 		"t5_coldcatwalks_1_title"		"Disable the alarm"
 		"[english]t5_coldcatwalks_1a"		"The emergency systems have closed the bridge between the rooftops. You need to disable the alarm and reopen the bridge."
@@ -6432,7 +6432,7 @@
 		"t5_coldcatwalks_3_title"		"Leave the catwalks"
 		"[english]t5_coldcatwalks_3a"		"After securing the antidote receipt head for the next zone."
 		"t5_coldcatwalks_3a"		"After securing the antidote receipt head for the next zone."
-		
+
 		"[english]t5_yanaurusmine_1_title"		"Gain entrance to the facility"
 		"t5_yanaurusmine_1_title"		"Gain entrance to the facility"
 		"[english]t5_yanaurusmine_1a"		"Gain entrance to the facility"
@@ -6457,13 +6457,13 @@
 		"t5_yanaurusmine_6_title"		"Escape"
 		"[english]t5_yanaurusmine_6a"		"Get back on the ship"
 		"t5_yanaurusmine_6a"		"Get back on the ship"
-		
+
 		"[english]t5_yanaurusmine_hint"		"Turn on the power to gain access to the elevator."
 		"t5_yanaurusmine_hint"		"Turn on the power to gain access to the elevator."
-		
+
 		"[english]asw_turn_on_power_for_elevator"		"Turn on the power to gain access to the elevator."
 		"asw_turn_on_power_for_elevator"		"Turn on the power to gain access to the elevator."
-		
+
 		"[english]t5_factory_1a"		"Our report says that there are at least 15 alien eggs in the inside of the building."
 		"t5_factory_1a"		"Our report says that there are at least 15 alien eggs in the inside of the building."
 		"[english]t5_factory_1b"		"Your mission is to detect and destroy them all."
@@ -6498,12 +6498,12 @@
 		"t5_factory_6a"		"Alien goo is blocking the way out of the building."
 		"[english]t5_factory_6b"		"Make sure to destroy all of it. (3 pieces)"
 		"t5_factory_6b"		"Make sure to destroy all of it. (3 pieces)"
-		
+
 		"[english]asw_get_in_the_elevator"		"Get in the elevator!"
 		"asw_get_in_the_elevator"		"Get in the elevator!"
 		"[english]asw_clear_the_biomass_first"		"Clear the biomass first"
 		"asw_clear_the_biomass_first"		"Clear the biomass first"
-		
+
 		"[english]t5_comcenter_1_title"		"Restore power to the complex for entry"
 		"t5_comcenter_1_title"		"Restore power to the complex for entry"
 		"[english]t5_comcenter_1a"		"Restore power to the complex for entry"
@@ -6518,7 +6518,7 @@
 		"t5_comcenter_4_title"		"Escape"
 		"[english]t5_comcenter_4a"		"Find the launch pad at the rear of the complex"
 		"t5_comcenter_4a"		"Find the launch pad at the rear of the complex"
-		
+
 		"[english]t5_syntekhospital_1_title"		"The mission description"
 		"t5_syntekhospital_1_title"		"The mission description"
 		"[english]t5_syntekhospital_1a"		"A series of deaths in SynTek hospital have finally forced the local government to investigate."
@@ -6563,20 +6563,20 @@
 		"t5_syntekhospital_6a"		"Get to the teleportation platform behind the facility."
 		"[english]t5_syntekhospital_6b"		"SynTek's experiments are coming from everywhere. Bloodhound will cover your exit."
 		"t5_syntekhospital_6b"		"SynTek's experiments are coming from everywhere. Bloodhound will cover your exit."
-		
+
 		"[english]t5_syntekhospital_hint"		"You only have 60 seconds to reach the evacuation zone! Try to keep up!"
 		"t5_syntekhospital_hint"		"You only have 60 seconds to reach the evacuation zone! Try to keep up!"
 		"[english]t5_syntekhospital_hint2"		"Don't abandon the helipad, or you might miss the teleport!"
 		"t5_syntekhospital_hint2"		"Don't abandon the helipad, or you might miss the teleport!"
-		
+
 		"[english]t5_syntekhospital_debrief1"		"The complex has been destroyed, and you've stopped those abominations."
 		"t5_syntekhospital_debrief1"		"The complex has been destroyed, and you've stopped those abominations."
 		"[english]t5_syntekhospital_debrief2"		"Good work, marines."
 		"t5_syntekhospital_debrief2"		"Good work, marines."
-		
+
 		"[english]t5_syntekhospital_countdown_caption"		"BIOHAZARD DETECTED"
 		"t5_syntekhospital_countdown_caption"		"BIOHAZARD DETECTED"
-		
+
 		// BioGen Corporation strings
 		"[english]bio_operationx5_1_title"		"Power up the generator"
 		"bio_operationx5_1_title"		"Power up the generator"
@@ -6592,7 +6592,7 @@
 		"bio_operationx5_3_title"		"Escape"
 		"[english]bio_operationx5_3a"		"Escape from the facility."
 		"bio_operationx5_3a"		"Escape from the facility."
-		
+
 		"[english]bio_operationx5_hint"		"WARNING! Unauthorized user detected. Sealing doors."
 		"bio_operationx5_hint"		"WARNING! Unauthorized user detected. Sealing doors."
 		"[english]bio_operationx5_hint2"		"We won't be able to hold them off when the door breaks. We have to do something!"
@@ -6603,7 +6603,7 @@
 		"bio_operationx5_hint4"		"Wait for the elevator."
 		"[english]bio_operationx5_hint5"		"Wait for others."
 		"bio_operationx5_hint5"		"Wait for others."
-		
+
 		"[english]bio_invisiblethreat_1_title"		"Find the Armoury"
 		"bio_invisiblethreat_1_title"		"Find the Armoury"
 		"[english]bio_invisiblethreat_hint"		"Gather in the armoury"
@@ -6622,7 +6622,7 @@
 		"bio_invisiblethreat_hint7"		"Fan speed: 120 percent"
 		"[english]bio_invisiblethreat_hint8"		"This door is welded, but doesn't seem to be locked."
 		"bio_invisiblethreat_hint8"		"This door is welded, but doesn't seem to be locked."
-		
+
 		"[english]bio_biogenlabs_1_title"		"Take the antidote."
 		"bio_biogenlabs_1_title"		"Take the antidote."
 		"[english]bio_biogenlabs_2_title"		"Find DNA sample."
@@ -6635,7 +6635,7 @@
 		"bio_biogenlabs_5_title"		"Infect the heart of the biomass."
 		"[english]bio_biogenlabs_6_title"		"Upload information to the net."
 		"bio_biogenlabs_6_title"		"Upload information to the net."
-		
+
 		"[english]bio_biogenlabs_hint"		"Gather in the armoury"
 		"bio_biogenlabs_hint"		"Gather in the armoury"
 		"[english]bio_biogenlabs_hint2"		"Found it! Now hack it."
@@ -6664,7 +6664,7 @@
 		"bio_biogenlabs_hint12"		"You don't have the formula"
 		"[english]bio_biogenlabs_hint13"		"Flammable liquid is constantly leaking. You cannot extinguish this fire."
 		"bio_biogenlabs_hint13"		"Flammable liquid is constantly leaking. You cannot extinguish this fire."
-		
+
 		// Accident 32 strings
 		"[english]acc1_1_title"		"Enter the Facility"
 		"acc1_1_title"		"Enter the Facility"
@@ -6674,53 +6674,53 @@
 		"acc1_1b"		"Yesterday we have received a lot of information from one of the workers at AMBER about what has the organisation been doing for the past two and a half years."
 		"[english]acc1_1c"		"You marines have big responsibility in your hands. I will guide you through the facility."
 		"acc1_1c"		"You marines have big responsibility in your hands. I will guide you through the facility."
-		
+
 		"[english]acc1_2_title"		"Communication"
 		"acc1_2_title"		"Communication"
 		"[english]acc1_2a"		"Reenable the radiowave transmitter."
 		"acc1_2a"		"Reenable the radiowave transmitter."
-		
+
 		"[english]acc1_3_title"		"Cool the Reactor down"
 		"acc1_3_title"		"Cool the Reactor down"
 		"[english]acc1_3a"		"The 1st floor secondary reactor has gone crazy since the shut down of the main reactor on 2nd floor."
 		"acc1_3a"		"The 1st floor secondary reactor has gone crazy since the shut down of the main reactor on 2nd floor."
 		"[english]acc1_3b"		"You should cool it down before it causes a lot of damage."
 		"acc1_3b"		"You should cool it down before it causes a lot of damage."
-		
+
 		"[english]acc1_4_title"		"Enable Temperature Regulation"
 		"acc1_4_title"		"Enable Temperature Regulation"
 		"[english]acc1_4a"		"Enable the Thermoregulator to prevent the reactor from overheating again."
 		"acc1_4a"		"Enable the Thermoregulator to prevent the reactor from overheating again."
-		
+
 		"[english]acc1_5_title"		"Advance Deeper to Second Floor"
 		"acc1_5_title"		"Advance Deeper to Second Floor"
 		"[english]acc1_5a"		"Get deeper into the facility."
 		"acc1_5a"		"Get deeper into the facility."
 		"[english]acc1_5b"		"Your next task is to start up the main reactor in the power sector on floor 2."
 		"acc1_5b"		"Your next task is to start up the main reactor in the power sector on floor 2."
-		
+
 		"[english]acc2_1_title"		"Raise Water"
 		"acc2_1_title"		"Raise Water"
 		"[english]acc2_1a"		"Raise the water for turbines."
 		"acc2_1a"		"Raise the water for turbines."
-		
+
 		"[english]acc2_2_title"		"Turn on Turbines"
 		"acc2_2_title"		"Turn on Turbines"
 		"[english]acc2_2a"		"Start the turbines to produce electricity on 3rd floor."
 		"acc2_2a"		"Start the turbines to produce electricity on 3rd floor."
-		
+
 		"[english]acc2_3_title"		"Turn on Generator"
 		"acc2_3_title"		"Turn on Generator"
 		"[english]acc2_3a"		"Provide power for turbines."
 		"acc2_3a"		"Provide power for turbines."
 		"[english]acc2_3b"		"You can turn on turbines first, then they would turn from the power of the reactor on 1st floor."
 		"acc2_3b"		"You can turn on turbines first, then they would turn from the power of the reactor on 1st floor."
-		
+
 		"[english]acc2_4a"		"XENOMITEs have been crawling through the vent system and laying eggs with PARASITEs."
 		"acc2_4a"		"XENOMITEs have been crawling through the vent system and laying eggs with PARASITEs."
 		"[english]acc2_4b"		"Eliminate all the eggs on this floor. Expect more eggs deeper in the facility."
 		"acc2_4b"		"Eliminate all the eggs on this floor. Expect more eggs deeper in the facility."
-		
+
 		"[english]acc2_5_title"		"Turn on the main Reactor"
 		"acc2_5_title"		"Turn on the main Reactor"
 		"[english]acc2_5a"		"This Reactor is crucial to keep on, because it prevents infestation from growing on floor 4 by providing a lot of hot air."
@@ -6731,12 +6731,12 @@
 		"acc2_5c"		"These instabilities alerted the Power Sector engineers and they were forced to shut it down."
 		"[english]acc2_5d"		"The infestation has been growing since then. Turn on the reactor to help yourself fight off the infestation on next levels."
 		"acc2_5d"		"The infestation has been growing since then. Turn on the reactor to help yourself fight off the infestation on next levels."
-		
+
 		"[english]acc2_6_title"		"Advance Deeper to Third Floor"
 		"acc2_6_title"		"Advance Deeper to Third Floor"
 		"[english]acc2_6a"		"Advance to 3rd floor, also known as Research Sector. That is where all the experiments were conducted."
 		"acc2_6a"		"Advance to 3rd floor, also known as Research Sector. That is where all the experiments were conducted."
-		
+
 		"[english]acc3_1_title"		"Collect Alien Data"
 		"acc3_1_title"		"Collect Alien Data"
 		"[english]acc3_1a_title"		"Collect Alien Data 0/4"
@@ -6753,42 +6753,42 @@
 		"acc3_1a"		"AMBER workers have been collecting data about their experiments with different specimen."
 		"[english]acc3_1b"		"Collect their data so we can understand more about these aliens."
 		"acc3_1b"		"Collect their data so we can understand more about these aliens."
-		
+
 		"[english]acc3_2_title"		"Upload Data"
 		"acc3_2_title"		"Upload Data"
 		"[english]acc3_2a"		"Send all the alien data you have collected to the government."
 		"acc3_2a"		"Send all the alien data you have collected to the government."
-		
+
 		"[english]acc3_3_title"		"Escape"
 		"acc3_3_title"		"Escape"
 		"[english]acc3_3a"		"Advance to the neighbouring facility."
 		"acc3_3a"		"Advance to the neighbouring facility."
-		
+
 		"[english]acc4_1_title"		"Report Reactor Status"
 		"acc4_1_title"		"Report Reactor Status"
 		"[english]acc4_1a"		"Send the information about reactor's status to experts."
 		"acc4_1a"		"Send the information about reactor's status to experts."
-		
+
 		"[english]acc4_2_title"		"Get into the Main Sewer Tunnel"
 		"acc4_2_title"		"Get into the Main Sewer Tunnel"
 		"[english]acc4_2a"		"Find the sewer tunnel into which the bodies of employees were dumped."
 		"acc4_2a"		"Find the sewer tunnel into which the bodies of employees were dumped."
-		
+
 		"[english]acc4_3_title"		"Kill the Uber Electrifier"
 		"acc4_3_title"		"Kill the Uber Electrifier"
 		"[english]acc4_3a"		"Make sure the electrifier is dead so that it can not break the elevator while marines are ascending."
 		"acc4_3a"		"Make sure the electrifier is dead so that it can not break the elevator while marines are ascending."
-		
+
 		"[english]acc4_4_title"		"Power the Elevator"
 		"acc4_4_title"		"Power the Elevator"
 		"[english]acc4_4a"		"Find a way to power the elevator which will take you to the surface."
 		"acc4_4a"		"Find a way to power the elevator which will take you to the surface."
-		
+
 		"[english]acc4_5_title"		"Advance Further"
 		"acc4_5_title"		"Advance Further"
 		"[english]acc4_5a"		"Ascend to the surface via the elevator."
 		"acc4_5a"		"Ascend to the surface via the elevator."
-		
+
 		"[english]acc5_1_title"		"Fix Wiring"
 		"acc5_1_title"		"Fix Wiring"
 		"[english]acc5_1a_title"		"Fix Wiring 0/3"
@@ -6801,18 +6801,18 @@
 		"acc5_1d_title"		"Fix Wiring 3/3"
 		"[english]acc5_1a"		"Fix the Wiring."
 		"acc5_1a"		"Fix the Wiring."
-		
+
 		"[english]acc5_2a"		"Eliminate the egg infestation."
 		"acc5_2a"		"Eliminate the egg infestation."
-		
+
 		"[english]acc5_3a"		"Eliminate the biomass infestation."
 		"acc5_3a"		"Eliminate the biomass infestation."
-		
+
 		"[english]acc5_4_title"		"Escape"
 		"acc5_4_title"		"Escape"
 		"[english]acc5_4a"		"Continue on your path through the facility."
 		"acc5_4a"		"Continue on your path through the facility."
-		
+
 		"[english]acc6_1_title"		"Collect Samples"
 		"acc6_1_title"		"Collect Samples"
 		"[english]acc6_1a_title"		"Collect Samples 0/3"
@@ -6825,17 +6825,17 @@
 		"acc6_1d_title"		"Collect Samples 3/3"
 		"[english]acc6_1a"		"Collect a few samples of the Muon Gem."
 		"acc6_1a"		"Collect a few samples of the Muon Gem."
-		
+
 		"[english]acc6_2_title"		"Destroy the Muon Gem"
 		"acc6_2_title"		"Destroy the Muon Gem"
 		"[english]acc6_2a"		"Press the console buttons as fast as you can to deal the most damage."
 		"acc6_2a"		"Press the console buttons as fast as you can to deal the most damage."
-		
+
 		"[english]acc6_3_title"		"A Call for Help"
 		"acc6_3_title"		"A Call for Help"
 		"[english]acc6_3a"		"Contact the railway."
 		"acc6_3a"		"Contact the railway."
-		
+
 		"[english]acc_no_power"		"No Power"
 		"acc_no_power"		"No Power"
 		"[english]acc_exception_00a"		"Exception 0x00A"
@@ -6852,23 +6852,23 @@
 		"acc_need_all_marines"		"Need All Marines"
 		"[english]acc_error_readcolor"		"#Error.ReadColor(255 0 0)"
 		"acc_error_readcolor"		"#Error.ReadColor(255 0 0)"
-		
+
 		"[english]asw_boss_title_muon_gem"		"Muon Gem"
 		"asw_boss_title_muon_gem"		"Muon Gem"
-		
+
 		// Reduction strings
 		"[english]red1_1_title"		"Go to the Docking Office"
 		"red1_1_title"		"Go to the Docking Office"
-		
+
 		"[english]red1_2_title"		"Go to Station Control"
 		"red1_2_title"		"Go to Station Control"
-		
+
 		"[english]red1_3_title"		"Get to the Escape Pod Room and Evacuate"
 		"red1_3_title"		"Get to the Escape Pod Room and Evacuate"
-		
+
 		"[english]red1_gametext_1"		"(Enable multiplayer game instructor to see dialogue and hints)"
 		"red1_gametext_1"		"(Enable multiplayer game instructor to see dialogue and hints)"
-		
+
 		"[english]red2_1_title"		"Wait for Arrival"
 		"red2_1_title"		"Wait for Arrival"
 		"[english]red2_1a_title"		"You are now enroute to your new posting."
@@ -6879,24 +6879,24 @@
 		"red2_1c_title"		"You should arrive at your new base in an hour or so. So hang tight."
 		"[english]red2_1d_title"		"(If the trip seems long, try ''knocking'' on the pilot's door...)"
 		"red2_1d_title"		"(If the trip seems long, try ''knocking'' on the pilot's door...)"
-		
+
 		"[english]red2_2_title"		"Prepare then Deploy from Dropship"
 		"red2_2_title"		"Prepare then Deploy from Dropship"
 		"[english]red2_2a_title"		"Prepare then deploy from Dropship Chaos 3."
 		"red2_2a_title"		"Prepare then deploy from Dropship Chaos 3."
 		"[english]red2_2b_title"		"You will need to dump explosive cargo first!"
 		"red2_2b_title"		"You will need to dump explosive cargo first!"
-		
+
 		"[english]red2_3_title"		"Search for the Objective"
 		"red2_3_title"		"Search for the Objective"
-		
+
 		"[english]red2_4_title"		"Repair the Listening Network"
 		"red2_4_title"		"Repair the Listening Network"
 		"[english]red2_4a_title"		"Reset or repair each node of the listening network in this area."
 		"red2_4a_title"		"Reset or repair each node of the listening network in this area."
 		"[english]red2_4b_title"		"Antennae nodes are cloaked - keep a sharp eye out for them."
 		"red2_4b_title"		"Antennae nodes are cloaked - keep a sharp eye out for them."
-		
+
 		"[english]red2_5_title"		"Follow the Guide"
 		"red2_5_title"		"Follow the Guide"
 		"[english]red2_5a_title"		"Follow the GuideBot."
@@ -6907,19 +6907,19 @@
 		"red2_5c_title"		"Your destination is a door that will decloak."
 		"[english]red2_5d_title"		"Watch for Crawlers!"
 		"red2_5d_title"		"Watch for Crawlers!"
-		
+
 		"[english]red2_6_title"		"Find your Way Through the Labyrinth"
 		"red2_6_title"		"Find your Way Through the Labyrinth"
 		"[english]red2_6a_title"		"Enter the labyrinth and find your way through it."
 		"red2_6a_title"		"Enter the labyrinth and find your way through it."
 		"[english]red2_6b_title"		"Watch closely for hidden doors that uncloak."
 		"red2_6b_title"		"Watch closely for hidden doors that uncloak."
-		
+
 		"[english]red2_7_title"		"Reveal Yourself"
 		"red2_7_title"		"Reveal Yourself"
 		"[english]red2_7a_title"		"Go to the edge of the cliff."
 		"red2_7a_title"		"Go to the edge of the cliff."
-		
+
 		"[english]red2_gametext_1"		"OP PARIAH: AFTER-ACTION REPORT"
 		"red2_gametext_1"		"OP PARIAH: AFTER-ACTION REPORT"
 		"[english]red2_gametext_2"		"Dropship ''Chaos 3'' missing. Presumed destroyed."
@@ -6934,56 +6934,56 @@
 		"red2_gametext_6"		"One solar year earlier..."
 		"[english]red2_gametext_7"		"Somewhere in the Outer Systems..."
 		"red2_gametext_7"		"Somewhere in the Outer Systems..."
-		
+
 		"[english]red3_1_title"		"Establish Comms with BigDog"
 		"red3_1_title"		"Establish Comms with BigDog"
-		
+
 		"[english]red3_2_title"		"Get to the Train"
 		"red3_2_title"		"Get to the Train"
-		
+
 		"[english]red3_3_title"		"Fix the Train Engine"
 		"red3_3_title"		"Fix the Train Engine"
-		
+
 		"[english]red3_4_title"		"Get on the Train"
 		"red3_4_title"		"Get on the Train"
-		
+
 		"[english]red4_1_title"		"Contact BigDog"
 		"red4_1_title"		"Contact BigDog"
 		"[english]red4_1a_title"		"Assess your situation. Establish comms with BigDog."
 		"red4_1a_title"		"Assess your situation. Establish comms with BigDog."
-		
+
 		"[english]red4_2_title"		"Find the Package"
 		"red4_2_title"		"Find the Package"
 		"[english]red4_2a_title"		"Search the train and find the Package."
 		"red4_2a_title"		"Search the train and find the Package."
-		
+
 		"[english]red4_3_title"		"Sweep the Train"
 		"red4_3_title"		"Sweep the Train"
 		"[english]red4_3a_title"		"Sweep the train clean of hostile presence."
 		"red4_3a_title"		"Sweep the train clean of hostile presence."
-		
+
 		"[english]red5_1_title"		"Report in"
 		"red5_1_title"		"Report in"
 		"[english]red5_1a_title"		"Good morning, Squad. And welcome to the Safe Zone. Report in to local command."
 		"red5_1a_title"		"Good morning, Squad. And welcome to the Safe Zone. Report in to local command."
-		
+
 		"[english]red5_2_title"		"Open the Boxcar with Chainsaw"
 		"red5_2_title"		"Open the Boxcar with Chainsaw"
-		
+
 		"[english]red5_3_title"		"Find the Overhead Crane"
 		"red5_3_title"		"Find the Overhead Crane"
 		"[english]red5_3a_title"		"It is parked somewhere in the rafters."
 		"red5_3a_title"		"It is parked somewhere in the rafters."
 		"[english]red5_3b_title"		"Look for it."
 		"red5_3b_title"		"Look for it."
-		
+
 		"[english]red5_4_title"		"Move the Weapon to the Carriage"
 		"red5_4_title"		"Move the Weapon to the Carriage"
 		"[english]red5_4a_title"		"Use the crane to remove the boxcar wreckage."
 		"red5_4a_title"		"Use the crane to remove the boxcar wreckage."
 		"[english]red5_4b_title"		"Then pick up the Weapon and move it to the Carriage."
 		"red5_4b_title"		"Then pick up the Weapon and move it to the Carriage."
-		
+
 		"[english]red5_5_title"		"Prep the Carriage and an Exit"
 		"red5_5_title"		"Prep the Carriage and an Exit"
 		"[english]red5_5a_title"		"Ready the Carriage to take the Weapon."
@@ -6992,14 +6992,14 @@
 		"red5_5b_title"		"You'll need to create an opening for the Carriage to exit."
 		"[english]red5_5c_title"		"Make sure the opening is free of debris."
 		"red5_5c_title"		"Make sure the opening is free of debris."
-		
+
 		"[english]red5_6_title"		"Meet at the Bridge"
 		"red5_6_title"		"Meet at the Bridge"
 		"[english]red5_6a_title"		"Meet at the jump-off point to prepare for the next mission."
 		"red5_6a_title"		"Meet at the jump-off point to prepare for the next mission."
 		"[english]red5_6b_title"		"Jump-off for next mission will be at the bridge."
 		"red5_6b_title"		"Jump-off for next mission will be at the bridge."
-		
+
 		"[english]red5_gametext_1"		"R E D U C T I O N"
 		"red5_gametext_1"		"R E D U C T I O N"
 		"[english]red5_gametext_2"		"Campaign Design by Tim Carter"
@@ -7013,17 +7013,17 @@
 		// context - Voted to Skip: 0/5 
 		"[english]red5_voted_skip_count"		"Voted to Skip:"
 		"red5_voted_skip_count"		"Voted to Skip:"
-		
+
 		"[english]red6_1_title"		"Escort the Carriage to Outpost Charlie. NOTE: All Sentryguns will be Confiscated"
 		"red6_1_title"		"Escort the Carriage to Outpost Charlie. NOTE: All Sentryguns will be Confiscated"
 		"[english]red6_1a_title"		"Do NOT bring sentry-guns... Sentries are in high demand and will be commandeered for use on the frontlines."
 		"red6_1a_title"		"Do NOT bring sentry-guns... Sentries are in high demand and will be commandeered for use on the frontlines."
-		
+
 		"[english]red6_2_title"		"Report in to Outpost Charlie CO"
 		"red6_2_title"		"Report in to Outpost Charlie CO"
 		"[english]red6_2a_title"		"When you are ready to end the mission, report in to Outpost Charlie Command."
 		"red6_2a_title"		"When you are ready to end the mission, report in to Outpost Charlie Command."
-		
+
 		// IAF Marine Academy strings
 		"[english]ma_chat_ammo"		"%s1Taking ammo with you is not allowed."
 		"ma_chat_ammo"		"%s1Taking ammo with you is not allowed."
@@ -7045,7 +7045,7 @@
 		"ma_chat_queen_health"		"%s1Queen Health: %s2%s3"
 		"[english]ma_chat_local_record"		"%s1Local server record beaten!"
 		"ma_chat_local_record"		"%s1Local server record beaten!"
-		
+
 		// context: it's a currency for the map, gained from killing aliens and you can spend it for buying items
 		"[english]ma_hud_alienblood"		"Alien Blood"
 		"ma_hud_alienblood"		"Alien Blood"
@@ -7054,14 +7054,14 @@
 		"ma_hud_score"		"Score"
 		"[english]ma_hud_zones"		"Zones Completed"
 		"ma_hud_zones"		"Zones Completed"
-		
+
 		"[english]ma_sign_provision"		"ADVANCED TRAINING PROVISION FOR COMMISSIONED PERSONNEL"
 		"ma_sign_provision"		"ADVANCED TRAINING PROVISION FOR COMMISSIONED PERSONNEL"
 		"[english]ma_sign_shop"		"SHOP"
 		"ma_sign_shop"		"SHOP"
 		"[english]ma_sign_hof"		"HALL OF FAME"
 		"ma_sign_hof"		"HALL OF FAME"
-		
+
 		"[english]asw_teleport_to_zone"		"Teleport to Zone"
 		"asw_teleport_to_zone"		"Teleport to Zone"
 		"[english]asw_zone_unavailable"		"Zone Temporarily Unavailable"
@@ -7082,7 +7082,7 @@
 		"asw_buy_hr"		"Buy Health Regeneration"
 		"[english]asw_buy_cmp"		"Buy Currency Multiplier"
 		"asw_buy_cmp"		"Buy Currency Multiplier"
-		
+
 		// Operation Cleansweep strings
 		"[english]ocs_storagefacility_1_title"		"Gain access to the storage facility."
 		"ocs_storagefacility_1_title"		"Gain access to the storage facility."
@@ -7092,43 +7092,43 @@
 		"ocs_storagefacility_2_title"		"Enter the landing bay area"
 		"[english]ocs_storagefacility_2a"		"Locate the landing bay area and escape."
 		"ocs_storagefacility_2a"		"Locate the landing bay area and escape."
-		
+
 		"[english]ocs_landingbay7_1_title"		"Infiltrate landing bay 7"
 		"ocs_landingbay7_1_title"		"Infiltrate landing bay 7"
 		"[english]ocs_landingbay7_1a"		"Gain entrance to landing bay 7"
 		"ocs_landingbay7_1a"		"Gain entrance to landing bay 7"
-		
+
 		"[english]ocs_landingbay7_2a"		"Destroy 10 swarm eggs"
 		"ocs_landingbay7_2a"		"Destroy 10 swarm eggs"
-		
+
 		"[english]ocs_landingbay7_3_title"		"Use the shuttle to escape"
 		"ocs_landingbay7_3_title"		"Use the shuttle to escape"
 		"[english]ocs_landingbay7_3a"		"Hack the shuttle and get in!"
 		"ocs_landingbay7_3a"		"Hack the shuttle and get in!"
-		
+
 		"[english]ocs_uscmedusa_1a"		"Destroy all alien biomass onboard the ship"
 		"ocs_uscmedusa_1a"		"Destroy all alien biomass onboard the ship"
-		
+
 		"[english]ocs_uscmedusa_2_title"		"Bring the ship's reactor online"
 		"ocs_uscmedusa_2_title"		"Bring the ship's reactor online"
 		"[english]ocs_uscmedusa_2a"		"Locate the engine room and bring the reactor online."
 		"ocs_uscmedusa_2a"		"Locate the engine room and bring the reactor online."
-		
+
 		"[english]ocs_uscmedusa_3_title"		"Download the flight data"
 		"ocs_uscmedusa_3_title"		"Download the flight data"
 		"[english]ocs_uscmedusa_3a"		"Use the terminal on the bridge to download the recorded flight data, in order to set course to the alien homeplanet"
 		"ocs_uscmedusa_3a"		"Use the terminal on the bridge to download the recorded flight data, in order to set course to the alien homeplanet"
-		
+
 		"[english]asw_clear_all_biomass"		"Clear all biomass"
 		"asw_clear_all_biomass"		"Clear all biomass"
 		"[english]asw_reactor_is_offline"		"Reactor is offline"
 		"asw_reactor_is_offline"		"Reactor is offline"
-		
+
 		"[english]ocs_uscmedusa_4_title"		"Enter the stasis pods"
 		"ocs_uscmedusa_4_title"		"Enter the stasis pods"
 		"[english]ocs_uscmedusa_4a"		"Enter the statis pods to inititate interstellar travel"
 		"ocs_uscmedusa_4a"		"Enter the statis pods to inititate interstellar travel"
-		
+
 		// Tears for Tarnor strings
 		"[english]tf1_desertoutpost_1_title"		"Briefing"
 		"tf1_desertoutpost_1_title"		"Briefing"
@@ -7138,37 +7138,37 @@
 		"tf1_desertoutpost_1b"		"Whilst looking for an alternative drop-off spot, a weak distress signal was detected. The captain has decided to drop the marines off a short distance away, so they can investigate the signal."
 		"[english]tf1_desertoutpost_1c"		"Afterwards, the marines will need to make their way to the spaceport and bring the guidance and tracking systems back online. The nearby abandoned communication outpost may hold useful information, or perhaps a functioning datalink to the main base."
 		"tf1_desertoutpost_1c"		"Afterwards, the marines will need to make their way to the spaceport and bring the guidance and tracking systems back online. The nearby abandoned communication outpost may hold useful information, or perhaps a functioning datalink to the main base."
-		
+
 		"[english]tf1_desertoutpost_2_title"		"Investigate Source of Distress Signal"
 		"tf1_desertoutpost_2_title"		"Investigate Source of Distress Signal"
 		"[english]tf1_desertoutpost_2a"		"A weak distress signal was detected in the vicinity. Investigate the source of the signal."
 		"tf1_desertoutpost_2a"		"A weak distress signal was detected in the vicinity. Investigate the source of the signal."
-		
+
 		"[english]tf1_desertoutpost_3_title"		"Reach the outpost"
 		"tf1_desertoutpost_3_title"		"Reach the outpost"
 		"[english]tf1_desertoutpost_3a"		"Find your way to the nearby abandoned communication outpost."
 		"tf1_desertoutpost_3a"		"Find your way to the nearby abandoned communication outpost."
-		
+
 		"[english]tf1_desertoutpost_4_title"		"Investigate Second Distress Signal"
 		"tf1_desertoutpost_4_title"		"Investigate Second Distress Signal"
 		"[english]tf1_desertoutpost_4a"		"A second distress beacon has been picked up from your current location. Investigate this beacon."
 		"tf1_desertoutpost_4a"		"A second distress beacon has been picked up from your current location. Investigate this beacon."
 		"[english]tf1_desertoutpost_4b"		"Be wary, the beacon appears to be located within an unstable cave system."
 		"tf1_desertoutpost_4b"		"Be wary, the beacon appears to be located within an unstable cave system."
-		
+
 		"[english]tf1_desertoutpost_5_title"		"Access outpost database"
 		"tf1_desertoutpost_5_title"		"Access outpost database"
 		"[english]tf1_desertoutpost_5a"		"Access the outpost database to see if it has any useful information."
 		"tf1_desertoutpost_5a"		"Access the outpost database to see if it has any useful information."
-		
+
 		"[english]tf1_desertoutpost_6_title"		"Enter airlock"
 		"tf1_desertoutpost_6_title"		"Enter airlock"
 		"[english]tf1_desertoutpost_6a"		"The abandoned outpost had information regarding a disused airlock access into the base. Access the base via the disused airlock."
 		"tf1_desertoutpost_6a"		"The abandoned outpost had information regarding a disused airlock access into the base. Access the base via the disused airlock."
-		
+
 		"[english]asw_gametext_tf1_desertoutpost_title"		"Chapter 1: Insertion"
 		"asw_gametext_tf1_desertoutpost_title"		"Chapter 1: Insertion"
-		
+
 		"[english]tf1_abandonedmaintenance_1_title"		"Briefing"
 		"tf1_abandonedmaintenance_1_title"		"Briefing"
 		"[english]tf1_abandonedmaintenance_1a"		"Having gained access to the base, it's time to move deeper. The swarm are on Tarnor and in high concentrations."
@@ -7179,46 +7179,46 @@
 		"tf1_abandonedmaintenance_1c"		"Be advised that when newer facilities were constructed, these areas were left abandoned. Systems may not function properly here. Be prepared for malfunctions."
 		"[english]tf1_abandonedmaintenance_1d"		"It's imperative that the squad makes it to the spaceport to find out why the guidance systems are offline and to search for anyone in need of assistance."
 		"tf1_abandonedmaintenance_1d"		"It's imperative that the squad makes it to the spaceport to find out why the guidance systems are offline and to search for anyone in need of assistance."
-		
+
 		"[english]tf1_abandonedmaintenance_2_title"		"Find Access To The Spaceport"
 		"tf1_abandonedmaintenance_2_title"		"Find Access To The Spaceport"
 		"[english]tf1_abandonedmaintenance_2a"		"Explore the abandoned maintenance sector to find access to the spaceport."
 		"tf1_abandonedmaintenance_2a"		"Explore the abandoned maintenance sector to find access to the spaceport."
-		
+
 		"[english]tf1_abandonedmaintenance_3_title"		"Activate Backup Power Systems"
 		"tf1_abandonedmaintenance_3_title"		"Activate Backup Power Systems"
 		"[english]tf1_abandonedmaintenance_3a"		"Systems in this sector aren't receiving enough power to function properly."
 		"tf1_abandonedmaintenance_3a"		"Systems in this sector aren't receiving enough power to function properly."
 		"[english]tf1_abandonedmaintenance_3b"		"Activating the backup power systems may restore power to some systems."
 		"tf1_abandonedmaintenance_3b"		"Activating the backup power systems may restore power to some systems."
-		
+
 		"[english]tf1_abandonedmaintenance_4_title"		"Activate The Crane"
 		"tf1_abandonedmaintenance_4_title"		"Activate The Crane"
 		"[english]tf1_abandonedmaintenance_4a"		"The backup power systems brought the crane online."
 		"tf1_abandonedmaintenance_4a"		"The backup power systems brought the crane online."
 		"[english]tf1_abandonedmaintenance_4b"		"Use the crane control so that you may use the crane as a bridge."
 		"tf1_abandonedmaintenance_4b"		"Use the crane control so that you may use the crane as a bridge."
-		
+
 		"[english]tf1_abandonedmaintenance_5_title"		"Use The Crane As A Bridge"
 		"tf1_abandonedmaintenance_5_title"		"Use The Crane As A Bridge"
 		"[english]tf1_abandonedmaintenance_5a"		"Now that you've moved the crane, you can walk across it and search deeper for a power system"
 		"tf1_abandonedmaintenance_5a"		"Now that you've moved the crane, you can walk across it and search deeper for a power system"
-		
+
 		"[english]tf1_abandonedmaintenance_6_title"		"Activate Power Systems"
 		"tf1_abandonedmaintenance_6_title"		"Activate Power Systems"
 		"[english]tf1_abandonedmaintenance_6a"		"Find your way to the local generator system and bring it online."
 		"tf1_abandonedmaintenance_6a"		"Find your way to the local generator system and bring it online."
-		
+
 		"[english]tf1_abandonedmaintenance_7_title"		"Access The Spaceport"
 		"tf1_abandonedmaintenance_7_title"		"Access The Spaceport"
 		"[english]tf1_abandonedmaintenance_7a"		"Leave the old maintenance sector and make your way to the spaceport."
 		"tf1_abandonedmaintenance_7a"		"Leave the old maintenance sector and make your way to the spaceport."
-		
+
 		"[english]tf1_abandonedmaintenance_lift1"		"Human presence detected within critical area."
 		"tf1_abandonedmaintenance_lift1"		"Human presence detected within critical area."
 		"[english]tf1_abandonedmaintenance_lift2"		"Evacuate critical area before activating generator power injector."
 		"tf1_abandonedmaintenance_lift2"		"Evacuate critical area before activating generator power injector."
-		
+
 		"[english]tf1_spaceport_1_title"		"Briefing"
 		"tf1_spaceport_1_title"		"Briefing"
 		"[english]tf1_spaceport_1a"		"After navigating through the maze of maintenance systems, the squad has finally reached the spaceport."
@@ -7227,43 +7227,43 @@
 		"tf1_spaceport_1b"		"Your mission is to bring the guidance and tracking systems online and obtain landing permission for Cerberus. This will be most easily facilitated by interfacing with the spaceport control computer."
 		"[english]tf1_spaceport_1c"		"Finally, please remember that whilst getting Cerberus into the spaceport is your current objective, your overall mission is still to investigate what has happened to Oasis colony."
 		"tf1_spaceport_1c"		"Finally, please remember that whilst getting Cerberus into the spaceport is your current objective, your overall mission is still to investigate what has happened to Oasis colony."
-		
+
 		"[english]tf1_spaceport_2_title"		"Interface with Control Centre Computer"
 		"tf1_spaceport_2_title"		"Interface with Control Centre Computer"
 		"[english]tf1_spaceport_2a"		"Interfacing with the spaceport's control computer is the only way to bring the guidance and tracking systems online."
 		"tf1_spaceport_2a"		"Interfacing with the spaceport's control computer is the only way to bring the guidance and tracking systems online."
 		"[english]tf1_spaceport_2b"		"Use the computer systems to then gain landing clearance for Cerberus and remotely open one of the hangars."
 		"tf1_spaceport_2b"		"Use the computer systems to then gain landing clearance for Cerberus and remotely open one of the hangars."
-		
+
 		"[english]tf1_spaceport_3_title"		"Open the Hangar Doors"
 		"tf1_spaceport_3_title"		"Open the Hangar Doors"
 		"[english]tf1_spaceport_3a"		"If you are unable to open any of the hangars remotely, move onto the nearest hangar and activate the door systems locally"
 		"tf1_spaceport_3a"		"If you are unable to open any of the hangars remotely, move onto the nearest hangar and activate the door systems locally"
 		"[english]tf1_spaceport_3b"		"The hangar's forcefields should protect you from catastrophic pressure variances when the doors are open."
 		"tf1_spaceport_3b"		"The hangar's forcefields should protect you from catastrophic pressure variances when the doors are open."
-		
+
 		"[english]tf1_spaceport_4_title"		"Get to the Transit System"
 		"tf1_spaceport_4_title"		"Get to the Transit System"
 		"[english]tf1_spaceport_4a"		"Make your way to the transit system station and board a train to Oasis colony's other sectors."
 		"tf1_spaceport_4a"		"Make your way to the transit system station and board a train to Oasis colony's other sectors."
-		
+
 		"[english]tf1_spaceport_5_title"		"Get Around the Bridge"
 		"tf1_spaceport_5_title"		"Get Around the Bridge"
 		"[english]tf1_spaceport_5a"		"With the bridge down, another path to the control room must be found."
 		"tf1_spaceport_5a"		"With the bridge down, another path to the control room must be found."
 		"[english]tf1_spaceport_5b"		"Use the emergency airlocks to circumvent the destroyed bridge."
 		"tf1_spaceport_5b"		"Use the emergency airlocks to circumvent the destroyed bridge."
-		
+
 		"[english]tf1_spaceport_6_title"		"Board a Train"
 		"tf1_spaceport_6_title"		"Board a Train"
 		"[english]tf1_spaceport_6a"		"Wait for the next train to arrive and board it."
 		"tf1_spaceport_6a"		"Wait for the next train to arrive and board it."
-		
+
 		"[english]asw_system_not_aligned"		"System Not Aligned"
 		"asw_system_not_aligned"		"System Not Aligned"
 		"[english]asw_all_marines_beyond_elevator"		"All marines must be beyond the elevator to proceed"
 		"asw_all_marines_beyond_elevator"		"All marines must be beyond the elevator to proceed"
-		
+
 		// Paranoia strings
 		"[english]par_unexpectedencounter_1_title"		"Enter the outpost"
 		"par_unexpectedencounter_1_title"		"Enter the outpost"
@@ -7281,115 +7281,115 @@
 		"par_unexpectedencounter_4_title"		"Descend in the elevator"
 		"[english]par_unexpectedencounter_4a"		"Use the elevator to descend to a lower level."
 		"par_unexpectedencounter_4a"		"Use the elevator to descend to a lower level."
-		
+
 		"[english]par_unexpectedencounter_debrief"		"We found no survivors. The administrative area is in the lower levels of the outpost. We should search that location for documents about recent activities."
 		"par_unexpectedencounter_debrief"		"We found no survivors. The administrative area is in the lower levels of the outpost. We should search that location for documents about recent activities."
-		
+
 		"[english]par_hostileplaces_1_title"		"Reach administrative area"
 		"par_hostileplaces_1_title"		"Reach administrative area"
 		"[english]par_hostileplaces_1a"		"Proceed to the administrative area to find documents relating to this outpost's activities."
 		"par_hostileplaces_1a"		"Proceed to the administrative area to find documents relating to this outpost's activities."
-		
+
 		"[english]par_hostileplaces_2_title"		"Restore power"
 		"par_hostileplaces_2_title"		"Restore power"
 		"[english]par_hostileplaces_2a"		"The bridge we need to cross is collapsed, and there is no power to extend it."
 		"par_hostileplaces_2a"		"The bridge we need to cross is collapsed, and there is no power to extend it."
 		"[english]par_hostileplaces_2b"		"We need to locate the generator controls and activate power to the bridge to proceed."
 		"par_hostileplaces_2b"		"We need to locate the generator controls and activate power to the bridge to proceed."
-		
+
 		"[english]par_hostileplaces_debrief"		"We have arrived at the entrance to the administrative area. Our objective is to search this area for information relating to the outpost's most recent activities."
 		"par_hostileplaces_debrief"		"We have arrived at the entrance to the administrative area. Our objective is to search this area for information relating to the outpost's most recent activities."
-		
+
 		"[english]par_closecontact_1_title"		"Find documents"
 		"par_closecontact_1_title"		"Find documents"
 		"[english]par_closecontact_1a"		"Collect important documents from this area."
 		"par_closecontact_1a"		"Collect important documents from this area."
-		
+
 		"[english]asw_power_should_be_restored"		"Power should be restored."
 		"asw_power_should_be_restored"		"Power should be restored."
-		
+
 		"[english]par_closecontact_2_title"		"Find exit"
 		"par_closecontact_2_title"		"Find exit"
 		"[english]par_closecontact_2a"		"We have collected all relevant documents. Find an exit from this building."
 		"par_closecontact_2a"		"We have collected all relevant documents. Find an exit from this building."
 		"[english]par_closecontact_2b"		"There appears to be an exit near the medical room to the north."
 		"par_closecontact_2b"		"There appears to be an exit near the medical room to the north."
-		
+
 		"[english]par_closecontact_3_title"		"Exit the base"
 		"par_closecontact_3_title"		"Exit the base"
 		"[english]par_closecontact_3a"		"Proceed to the surface to find the outpost's communication center."
 		"par_closecontact_3a"		"Proceed to the surface to find the outpost's communication center."
-		
+
 		"[english]par_closecontact_debrief1"		"Our next objective is to reach the outpost's communication center."
 		"par_closecontact_debrief1"		"Our next objective is to reach the outpost's communication center."
 		"[english]par_closecontact_debrief2"		"As we will be exiting the structure, be prepared for sub-zero temperatures and maintain situational awareness, as threats could come from any direction."
 		"par_closecontact_debrief2"		"As we will be exiting the structure, be prepared for sub-zero temperatures and maintain situational awareness, as threats could come from any direction."
-		
+
 		"[english]par_hightension_1_title"		"Find communication center"
 		"par_hightension_1_title"		"Find communication center"
 		"[english]par_hightension_1a"		"Proceed to the outpost's communication center."
 		"par_hightension_1a"		"Proceed to the outpost's communication center."
 		"[english]par_hightension_1b"		"We have documentation of the strange studies done by this outpost. This information should be reported to the IAF before we can request evac."
 		"par_hightension_1b"		"We have documentation of the strange studies done by this outpost. This information should be reported to the IAF before we can request evac."
-		
+
 		"[english]par_hightension_2_title"		"Find beacon"
 		"par_hightension_2_title"		"Find beacon"
 		"[english]par_hightension_2a"		"Find and activate the beacon to request evacuation."
 		"par_hightension_2a"		"Find and activate the beacon to request evacuation."
-		
+
 		"[english]par_hightension_3_title"		"Clear the bridge"
 		"par_hightension_3_title"		"Clear the bridge"
 		"[english]par_hightension_3a"		"The bridge is obstructed by a pile of rocks. We must find a way to clear the path."
 		"par_hightension_3a"		"The bridge is obstructed by a pile of rocks. We must find a way to clear the path."
 		"[english]par_hightension_3b"		"The mine area to the north might contain tools or explosives which can help us."
 		"par_hightension_3b"		"The mine area to the north might contain tools or explosives which can help us."
-		
+
 		"[english]par_hightension_debrief"		"We've cleared the path to the evac zone. Our only task now is to leave this outpost."
 		"par_hightension_debrief"		"We've cleared the path to the evac zone. Our only task now is to leave this outpost."
-		
+
 		"[english]par_crucialpoint_1_title"		"Activate beacon"
 		"par_crucialpoint_1_title"		"Activate beacon"
 		"[english]par_crucialpoint_1a"		"Activate the beacon to request evacuation."
 		"par_crucialpoint_1a"		"Activate the beacon to request evacuation."
-		
+
 		"[english]par_crucialpoint_2_title"		"Turn off area lighting"
 		"par_crucialpoint_2_title"		"Turn off area lighting"
 		"[english]par_crucialpoint_2a"		"[Optional] Turn off the exterior lighting system."
 		"par_crucialpoint_2a"		"[Optional] Turn off the exterior lighting system."
 		"[english]par_crucialpoint_2b"		"Turning the lighting system off should attract fewer aliens. Unfortunately, it will also negatively impact our own visibility."
 		"par_crucialpoint_2b"		"Turning the lighting system off should attract fewer aliens. Unfortunately, it will also negatively impact our own visibility."
-		
+
 		"[english]par_crucialpoint_3_title"		"Await evac"
 		"par_crucialpoint_3_title"		"Await evac"
 		"[english]par_crucialpoint_3a"		"Wait for the evac dropship to arrive. Be prepared to defend this position."
 		"par_crucialpoint_3a"		"Wait for the evac dropship to arrive. Be prepared to defend this position."
-		
+
 		"[english]par_crucialpoint_debrief"		"Bloodhound... come in... Bloodhound... come in..."
 		"par_crucialpoint_debrief"		"Bloodhound... come in... Bloodhound... come in..."
-		
+
 		"[english]par_crucialpoint_bossbar_timeleft"		"Time Left"
 		"par_crucialpoint_bossbar_timeleft"		"Time Left"
 		"[english]par_crucialpoint_bossbar_health"		"Satellite Dish Health"
 		"par_crucialpoint_bossbar_health"		"Satellite Dish Health"
-		
+
 		// Bonus Mission 1 strings
 		"[english]bon1_spaceport_1_title"		"Get inside the Spaceport"
 		"bon1_spaceport_1_title"		"Get inside the Spaceport"
-		
+
 		"[english]asw_gametext_bon1_spaceport_title"		"Action Begins"
 		"asw_gametext_bon1_spaceport_title"		"Action Begins"
-		
+
 		"[english]bon1_spaceport_2_title"		"Turn on the Reactor"
 		"bon1_spaceport_2_title"		"Turn on the Reactor"
-		
+
 		"[english]bon1_spaceport_3_title"		"Escape"
 		"bon1_spaceport_3_title"		"Escape"
-		
+
 		"[english]asw_bon1_error"		"Err 0000087x048B"
 		"asw_bon1_error"		"Err 0000087x048B"
 		"[english]asw_bon1_error2"		"Exception 00x1C No Power."
 		"asw_bon1_error2"		"Exception 00x1C No Power."
-		
+
 		// Bonus Mission 2 strings
 		"[english]bon2_survivors_1_title"		"Get Access to Inner Perimeter"
 		"bon2_survivors_1_title"		"Get Access to Inner Perimeter"
@@ -7397,80 +7397,80 @@
 		"bon2_survivors_1a"		"Allow your tech marine to hack the door panel"
 		"[english]bon2_survivors_1b"		"and obtain access to inner perimeter"
 		"bon2_survivors_1b"		"and obtain access to inner perimeter"
-		
+
 		"[english]bon2_survivors_2_title"		"Search for Survivors"
 		"bon2_survivors_2_title"		"Search for Survivors"
-		
+
 		"[english]bon2_survivors_3_title"		"Move to the Next Sector"
 		"bon2_survivors_3_title"		"Move to the Next Sector"
-		
+
 		// Bonus Mission 3 strings
 		"[english]bon3_blueprint_1_title"		"Find the blueprints"
 		"bon3_blueprint_1_title"		"Find the blueprints"
-		
+
 		"[english]bon3_blueprint_2_title"		"Plant explosives on the door"
 		"bon3_blueprint_2_title"		"Plant explosives on the door"
-		
+
 		"[english]bon3_blueprint_3_title"		"Plant explosives in the classroom"
 		"bon3_blueprint_3_title"		"Plant explosives in the classroom"
-		
+
 		"[english]bon3_blueprint_4_title"		"Plant explosives on the main entrance"
 		"bon3_blueprint_4_title"		"Plant explosives on the main entrance"
-		
+
 		"[english]bon3_blueprint_5_title"		"Plant explosives in the sleeping quarters"
 		"bon3_blueprint_5_title"		"Plant explosives in the sleeping quarters"
-		
+
 		"[english]bon3_blueprint_6_title"		"Plant explosives near the tanks"
 		"bon3_blueprint_6_title"		"Plant explosives near the tanks"
-		
+
 		"[english]bon3_blueprint_7_title"		"Escape"
 		"bon3_blueprint_7_title"		"Escape"
-		
+
 		// Bonus Mission 5 strings
 		"[english]bon5_documents_1_title"		"Restore the power of the metal bridge."
 		"bon5_documents_1_title"		"Restore the power of the metal bridge."
 		"[english]bon5_documents_1a"		"This level is no longer powered. The power should be restored to pass the metal bridge. then we will continue in this level, to find documents about recent activities of this base."
 		"bon5_documents_1a"		"This level is no longer powered. The power should be restored to pass the metal bridge. then we will continue in this level, to find documents about recent activities of this base."
-		
+
 		"[english]bon5_documents_2_title"		"Find documents that describe the recent activities of the base."
 		"bon5_documents_2_title"		"Find documents that describe the recent activities of the base."
 		"[english]bon5_documents_2a"		"We should know if the problem is there since a moment, so now we have to find documents that detail the problems, activities, and transactions in recent days."
 		"bon5_documents_2a"		"We should know if the problem is there since a moment, so now we have to find documents that detail the problems, activities, and transactions in recent days."
 		"[english]bon5_documents_2b"		"(Note: Get close to them to pick them up.)"
 		"bon5_documents_2b"		"(Note: Get close to them to pick them up.)"
-		
+
 		"[english]bon5_documents_3_title"		"Find a passage to leave the sector."
 		"bon5_documents_3_title"		"Find a passage to leave the sector."
 		"[english]bon5_documents_3a"		"We have enough information from documents retrieved, so now we must get out of here! There seems to be a northwest passage to the medical room."
 		"bon5_documents_3a"		"We have enough information from documents retrieved, so now we must get out of here! There seems to be a northwest passage to the medical room."
-		
+
 		"[english]bon5_documents_4_title"		"Exit the base."
 		"bon5_documents_4_title"		"Exit the base."
 		"[english]bon5_documents_4a"		"Well, we just have to continue, and certainly we will go back to the surface soon."
 		"bon5_documents_4a"		"Well, we just have to continue, and certainly we will go back to the surface soon."
-		
+
 		"[english]bon5_documents_debrief1"		"We found all the documents on the activities and recent transactions. We must now return to the surface and try to communicate with the IAF command center. We will certainly be able to find a communications center outside."
 		"bon5_documents_debrief1"		"We found all the documents on the activities and recent transactions. We must now return to the surface and try to communicate with the IAF command center. We will certainly be able to find a communications center outside."
 		"[english]bon5_documents_debrief2"		"We will go outside, and we will walk in the snow, so be prepared for temperatures below zero!"
 		"bon5_documents_debrief2"		"We will go outside, and we will walk in the snow, so be prepared for temperatures below zero!"
 		"[english]bon5_documents_debrief3"		"And especially pay attention to these creatures, they can go out anywhere in an environment like this."
 		"bon5_documents_debrief3"		"And especially pay attention to these creatures, they can go out anywhere in an environment like this."
-		
+
 		// Bonus Mission 6 strings
 		"[english]bon6_crucidalpoint_debrief"		"What happened... ? What was that... ? Comrads, where... where are you ? *vertiges* uh... *tombe dans les pommes*"
 		"bon6_crucidalpoint_debrief"		"What happened... ? What was that... ? Comrads, where... where are you ? *vertiges* uh... *tombe dans les pommes*"
-		
+
 		// Bonus Mission 7 strings
 		"[english]bon7_area9800PP2_debrief"		"Well done, team!"
 		"bon7_area9800PP2_debrief"		"Well done, team!"
-		
+
 		"[english]bon12_obj_reactor_t"		"Shutdown the reactor"
 		"bon12_obj_reactor_t"		"Shutdown the reactor"
 		"[english]bon12_obj_reactor"		"Gain access to the Reactor Control Room and disable the power"
 		"bon12_obj_reactor"		"Gain access to the Reactor Control Room and disable the power"
 		"[english]bon12_obj_exit_t"		"Reach the south exit"
 		"bon12_obj_exit_t"		"Reach the south exit"
-		
+
 		"[english]bon14_obj_elevator_t"		"Activate the cargo elevator and ascend"
 		"bon14_obj_elevator_t"		"Activate the cargo elevator and ascend"
 		"[english]bon14_obj_elevator"		"Our plans of the facility show a large cargo elevator located to the east of your entry point. Use the elevator to ascend to the higher level and then proceed to the Landing Bay."
@@ -7479,22 +7479,22 @@
 		"bon14_obj_exit_t"		"Access the Landing Bay"
 		"[english]bon14_obj_exit"		"Once your squad has completed the ascent, proceed to the facility exit and move your squad outside."
 		"bon14_obj_exit"		"Once your squad has completed the ascent, proceed to the facility exit and move your squad outside."
-		
+
 		// Example map strings
 		"[english]asw_panel_inactive"		"Panel Inactive"
 		"asw_panel_inactive"		"Panel Inactive"
-		
+
 		"[english]asw_need_dynamite"		"Need TNT"
 		"asw_need_dynamite"		"Need TNT"
-		
+
 		"[english]asw_boss_title_ommoran_heartstone"		"Ommoran Heartstone"
 		"asw_boss_title_ommoran_heartstone"		"Ommoran Heartstone"
 		"[english]asw_boss_title_the_caretaker"		"The Caretaker"
 		"asw_boss_title_the_caretaker"		"The Caretaker"
-		
+
 		"[english]asw_unnamed_mission_title"		"Unnamed Mission"
 		"asw_unnamed_mission_title"		"Unnamed Mission"
-		
+
 		"[english]rd_campaign_name_deathmatch_campaign"		"Deathmatch"
 		"rd_campaign_name_deathmatch_campaign"		"Deathmatch"
 		"[english]rd_campaign_desc_deathmatch_campaign"		"Kill everything that moves."
@@ -7556,7 +7556,7 @@
 		"rd_campaign_name_rd-tarnorcampaign1"		"Tears for Tarnor"
 		"[english]rd_campaign_desc_rd-tarnorcampaign1"		"The colony on Tarnor has mysteriously gone silent. A group of IAF marines has been ordered to the planet to investigate."
 		"rd_campaign_desc_rd-tarnorcampaign1"		"The colony on Tarnor has mysteriously gone silent. A group of IAF marines has been ordered to the planet to investigate."
-		
+
 		"[english]rd_entrymission_title_deathmatch_campaign"		"IAF HQ"
 		"rd_entrymission_title_deathmatch_campaign"		"IAF HQ"
 "[english]rd_entrymission_brief_deathmatch_campaign"		""
@@ -7593,7 +7593,7 @@
 "rd_mission_desc_dm_testlab"		""
 		"[english]rd_mission_brief_dm_testlab"		"Destroy everything."
 		"rd_mission_brief_dm_testlab"		"Destroy everything."
-		
+
 		"[english]rd_entrymission_title_jacob"		"Atmospheric Entry"
 		"rd_entrymission_title_jacob"		"Atmospheric Entry"
 		"[english]rd_entrymission_brief_jacob"		"Atmospheric reports show nominal weather patterns at this location. Dropship Bloodhound will enter atmosphere at these co-ordinates and proceed to primary objective."
@@ -7656,7 +7656,7 @@
 		"rd_mission_desc_asi-jac7-timorstation"		"Locate nuclear warhead and get it to the alien hive entrance."
 		"[english]rd_mission_brief_asi-jac7-timorstation"		"The economic heart of the colony, this mining operation was fueled by cheap labour from back home. Geological reports show instability in the rock structure and signs of Swarm infestation."
 		"rd_mission_brief_asi-jac7-timorstation"		"The economic heart of the colony, this mining operation was fueled by cheap labour from back home. Geological reports show instability in the rock structure and signs of Swarm infestation."
-		
+
 		"[english]rd_entrymission_title_rd_bonus_missions"		"IAF HQ"
 		"rd_entrymission_title_rd_bonus_missions"		"IAF HQ"
 "[english]rd_entrymission_brief_rd_bonus_missions"		""
@@ -7731,7 +7731,7 @@
 		"rd_mission_title_rd-bonus15_landrev"		"Reversed Landing Bay"
 		"[english]rd_mission_desc_rd-bonus15_landrev"		"Perform a sweep of the Landing Bay on Vereon XII. IAF Command has ordered retrieval of flight data from an escape pod in one of the bays."
 		"rd_mission_desc_rd-bonus15_landrev"		"Perform a sweep of the Landing Bay on Vereon XII. IAF Command has ordered retrieval of flight data from an escape pod in one of the bays."
-		
+
 		"[english]rd_entrymission_title_rd-area9800"		"Drop Zone"
 		"rd_entrymission_title_rd-area9800"		"Drop Zone"
 		"[english]rd_entrymission_brief_rd-area9800"		"Dropship Bloodhound will enter atmosphere at these co-ordinates and proceed to primary objective."
@@ -7768,7 +7768,7 @@
 		"rd_mission_desc_rd-area9800wl"		"Cross the Wastelands."
 		"[english]rd_mission_brief_rd-area9800wl"		"Cross the Wastelands."
 		"rd_mission_brief_rd-area9800wl"		"Cross the Wastelands."
-		
+
 		"[english]rd_entrymission_title_rd-accident32"		"Bogo Desert"
 		"rd_entrymission_title_rd-accident32"		"Bogo Desert"
 		"[english]rd_entrymission_brief_rd-accident32"		"The desert where the journey started."
@@ -7825,7 +7825,7 @@
 		"rd_mission_title_rd-acc_complex"		"AMBER Complex"
 		"[english]rd_mission_desc_rd-acc_complex"		"Navigate through the AMBER Complex."
 		"rd_mission_desc_rd-acc_complex"		"Navigate through the AMBER Complex."
-		
+
 		"[english]rd_mission_title_rd-ht-marine_academy"		"IAF Marine Academy"
 		"rd_mission_title_rd-ht-marine_academy"		"IAF Marine Academy"
 		"[english]rd_mission_desc_rd-ht-marine_academy"		"Welcome to IAF Marine Academy. An advanced marine-training tool created with the assistance of SynTek to prepare soldiers for combat against aliens."
@@ -7910,7 +7910,7 @@
 // TODO
 "[english]rd_mission_desc_rd-ada_anomaly"		""
 "rd_mission_desc_rd-ada_anomaly"		""
-		
+
 		"[english]rd_entrymission_title_rd_biogen_corporation"		"Entry Port"
 		"rd_entrymission_title_rd_biogen_corporation"		"Entry Port"
 		"[english]rd_entrymission_brief_rd_biogen_corporation"		"Dropship Bloodhound will enter atmosphere at these co-ordinates and proceed to primary objective."
@@ -7939,7 +7939,7 @@
 		"rd_mission_desc_rd-bio3biogenlabs"		"Stop the swarm reproduction."
 		"[english]rd_mission_brief_rd-bio3biogenlabs"		"Stop the swarm reproduction."
 		"rd_mission_brief_rd-bio3biogenlabs"		"Stop the swarm reproduction."
-		
+
 		"[english]rd_entrymission_title_rd_reduction_campaign"		"Entry Port"
 		"rd_entrymission_title_rd_reduction_campaign"		"Entry Port"
 		"[english]rd_entrymission_loc_rd_reduction_campaign"		"Home Base"
@@ -7994,7 +7994,7 @@
 		"rd_mission_desc_rd-reduction6"		"Escort the Carriage to Outpost Charlie. Do NOT bring sentry-guns... They are in short supply and will be commandeered for use elsewhere."
 		"[english]rd_mission_brief_rd-reduction6"		"Marines to the Ready Line. Lock and load. You will escort the Payload to Outpost Charlie."
 		"rd_mission_brief_rd-reduction6"		"Marines to the Ready Line. Lock and load. You will escort the Payload to Outpost Charlie."
-		
+
 		"[english]rd_entrymission_title_tilarus5"		"Atmospheric Entry"
 		"rd_entrymission_title_tilarus5"		"Atmospheric Entry"
 		"[english]rd_entrymission_brief_tilarus5"		"Dropship Bloodhound will enter atmosphere at these co-ordinates and proceed to primary objective."
@@ -8071,7 +8071,7 @@
 		"rd_mission_desc_rd-til9syntekhospital"		"A private hospital belonging to SynTek has mysteriously gone silent. IAF Command is sending your squad to investigate the situation."
 		"[english]rd_mission_brief_rd-til9syntekhospital"		"A private hospital belonging to SynTek has mysteriously gone silent. IAF Command is sending your squad to investigate the situation."
 		"rd_mission_brief_rd-til9syntekhospital"		"A private hospital belonging to SynTek has mysteriously gone silent. IAF Command is sending your squad to investigate the situation."
-		
+
 		"[english]rd_entrymission_title_rd_lanasescape_campaign"		"Landing area"
 		"rd_entrymission_title_rd_lanasescape_campaign"		"Landing area"
 		"[english]rd_entrymission_brief_rd_lanasescape_campaign"		"Dropship Bloodhound will enter atmosphere at these co-ordinates and proceed to primary objective."
@@ -8116,7 +8116,7 @@
 		"rd_mission_desc_rd-lan5_complex"		"Destroy Planet 137."
 		"[english]rd_mission_brief_rd-lan5_complex"		"Bring the nuclear warhead to the main silo in order to destroy Planet 137."
 		"rd_mission_brief_rd-lan5_complex"		"Bring the nuclear warhead to the main silo in order to destroy Planet 137."
-		
+
 		"[english]rd_entrymission_title_rd_nh_campaigns"		"U.S.C. Odyssey"
 		"rd_entrymission_title_rd_nh_campaigns"		"U.S.C. Odyssey"
 		"[english]rd_entrymission_brief_rd_nh_campaigns"		"Dropship Snakebite will enter atmosphere at these co-ordinates and proceed to primary objective."
@@ -8145,7 +8145,7 @@
 		"rd_mission_desc_rd-nh03_groundworklabs"		"Research laboratories"
 		"[english]rd_mission_brief_rd-nh03_groundworklabs"		"New plan is to reach the colony's power core. Satellite imaging is no good underground, so you'll have to do the scouting for us."
 		"rd_mission_brief_rd-nh03_groundworklabs"		"New plan is to reach the colony's power core. Satellite imaging is no good underground, so you'll have to do the scouting for us."
-		
+
 		"[english]rd_entrymission_title_rd-operationcleansweep"		"Atmospheric Entry"
 		"rd_entrymission_title_rd-operationcleansweep"		"Atmospheric Entry"
 		"[english]rd_entrymission_brief_rd-operationcleansweep"		"Atmospheric reports show nominal weather patterns at this location. Dropship Bloodhound will enter atmosphere at these co-ordinates and proceed to primary objective."
@@ -8174,7 +8174,7 @@
 		"rd_mission_desc_rd-ocs3uscmedusa"		"Board the U.S.C. Medusa and clear out all infestation. Once the ship is clean, set course to the alien home planet."
 		"[english]rd_mission_brief_rd-ocs3uscmedusa"		"Clear all infestation onboard the U.S.C. Medusa and set course to the alien homeplanet."
 		"rd_mission_brief_rd-ocs3uscmedusa"		"Clear all infestation onboard the U.S.C. Medusa and set course to the alien homeplanet."
-		
+
 		"[english]rd_entrymission_title_rd_paranoia"		"Atmospheric Entry"
 		"rd_entrymission_title_rd_paranoia"		"Atmospheric Entry"
 		"[english]rd_entrymission_brief_rd_paranoia"		"Atmospheric reports show nominal weather patterns at this location. Dropship Bloodhound will enter atmosphere at these co-ordinates and proceed to primary objective."
@@ -8219,7 +8219,7 @@
 		"rd_mission_desc_rd-par5crucial_point"		"The communication center pointed us to a suitable location for pickup. Proceed to that location and activate the beacon."
 		"[english]rd_mission_brief_rd-par5crucial_point"		"The communication center pointed us to a suitable location for pickup. Proceed to that location and activate the beacon."
 		"rd_mission_brief_rd-par5crucial_point"		"The communication center pointed us to a suitable location for pickup. Proceed to that location and activate the beacon."
-		
+
 		"[english]rd_entrymission_title_rd_research7"		"Crash Site"
 		"rd_entrymission_title_rd_research7"		"Crash Site"
 		"[english]rd_entrymission_brief_rd_research7"		"Something's taken down the Albatross, you'll have to continue towards RC7 on foot."
@@ -8256,7 +8256,7 @@
 		"rd_mission_desc_rd-res4mines"		"Investigate and eradicate the infection within the Jericho Mines."
 		"[english]rd_mission_brief_rd-res4mines"		"Investigate and eradicate the infection within the Jericho Mines."
 		"rd_mission_brief_rd-res4mines"		"Investigate and eradicate the infection within the Jericho Mines."
-		
+
 		"[english]rd_entrymission_title_rd-tarnorcampaign1"		"Planetfall"
 		"rd_entrymission_title_rd-tarnorcampaign1"		"Planetfall"
 		"[english]rd_entrymission_brief_rd-tarnorcampaign1"		"Dropship Cerberus will enter the atmosphere at these co-ordinates and proceed to primary objective."
@@ -8285,7 +8285,7 @@
 		"rd_mission_desc_rd-tft3spaceport"		"The squad has reached the spaceport and must now ensure that Cerberus is able to land."
 		"[english]rd_mission_brief_rd-tft3spaceport"		"The squad has reached the spaceport and must now ensure that Cerberus is able to land."
 		"rd_mission_brief_rd-tft3spaceport"		"The squad has reached the spaceport and must now ensure that Cerberus is able to land."
-		
+
 		"[english]rd_iaf_rank_score"		"Score"
 		"rd_iaf_rank_score"		"Score"
 		"[english]rd_iaf_rank_kills"		"Eliminations"
@@ -8298,7 +8298,7 @@
 		"rd_iaf_rank_missionfails"		"Mis. Fail"
 		"[english]rd_iaf_rank_missiontotal"		"Mis. Total"
 		"rd_iaf_rank_missiontotal"		"Mis. Total"
-		
+
 		"[english]RD_AdvancedSettings"		"Advanced Settings"
 		"RD_AdvancedSettings"		"Advanced Settings"
 		"[english]RD_AdvancedSettings_Toggle_Off"		"Disabled"
@@ -8407,7 +8407,7 @@
 		"RD_AdvancedSettings_Size_Huge"		"Huge"
 		"[english]RD_AdvancedSettings_Size_Ludicrous"		"Ludicrous"
 		"RD_AdvancedSettings_Size_Ludicrous"		"Ludicrous"
-		
+
 		"[english]RD_AdvancedSettings_HUD"		"HUD"
 		"RD_AdvancedSettings_HUD"		"HUD"
 		"[english]RD_AdvancedSettings_HUD_CrosshairStyle"		"Crosshair Style"
@@ -8482,7 +8482,7 @@
 		"RD_AdvancedSettings_HUD_ControllerIcons_PS5"		"Sony"
 		"[english]RD_AdvancedSettings_HUD_ControllerIcons_SteamDeck"		"Valve"
 		"RD_AdvancedSettings_HUD_ControllerIcons_SteamDeck"		"Valve"
-		
+
 		"[english]RD_AdvancedSettings_SpeedRunning"		"Speedrunning"
 		"RD_AdvancedSettings_SpeedRunning"		"Speedrunning"
 		"[english]RD_AdvancedSettings_SpeedRunning_ObjectiveTimeChat"		"Write Objective Timing in Chat"
@@ -8501,7 +8501,7 @@
 		"RD_AdvancedSettings_SpeedRunning_Timer"		"Mission Timer"
 		"[english]RD_AdvancedSettings_SpeedRunning_TimerColor"		"Mission Timer Color"
 		"RD_AdvancedSettings_SpeedRunning_TimerColor"		"Mission Timer Color"
-		
+
 		"[english]RD_AdvancedSettings_Health"		"Health"
 		"RD_AdvancedSettings_Health"		"Health"
 		"[english]RD_AdvancedSettings_Health_MedicUnderMarine"		"Indicate Low Health Marines"
@@ -8524,7 +8524,7 @@
 		"RD_AdvancedSettings_Health_LowHealthVisual"		"Low Health Heartbeat (Visual)"
 		"[english]RD_AdvancedSettings_Health_LowHealthAudio"		"Low Health Heartbeat (Audio)"
 		"RD_AdvancedSettings_Health_LowHealthAudio"		"Low Health Heartbeat (Audio)"
-		
+
 		"[english]RD_AdvancedSettings_Ammo"		"Ammo"
 		"RD_AdvancedSettings_Ammo"		"Ammo"
 		"[english]RD_AdvancedSettings_Ammo_FastReloadUnderMarine"		"Fast Reload Bar Under Marine"
@@ -8553,7 +8553,7 @@
 		"RD_AdvancedSettings_Ammo_AmmoCounterAlignment"		"Ammo Counter Alignment"
 		"[english]RD_AdvancedSettings_Ammo_AmmoCounterShowMax"		"Show Max Ammo"
 		"RD_AdvancedSettings_Ammo_AmmoCounterShowMax"		"Show Max Ammo"
-		
+
 		"[english]RD_AdvancedSettings_VisualEffects"		"Visual Effects"
 		"RD_AdvancedSettings_VisualEffects"		"Visual Effects"
 		"[english]RD_AdvancedSettings_VisualEffects_WeatherEffects"		"Weather Effects"
@@ -8574,7 +8574,7 @@
 		"RD_AdvancedSettings_VisualEffects_ScreenShake_Reduced"		"Reduced"
 		"[english]RD_AdvancedSettings_VisualEffects_ReduceMotion"		"Reduce Motion on Menus"
 		"RD_AdvancedSettings_VisualEffects_ReduceMotion"		"Reduce Motion on Menus"
-		
+
 		"[english]RD_AdvancedSettings_Misc"		"Miscellaneous"
 		"RD_AdvancedSettings_Misc"		"Miscellaneous"
 		"[english]RD_AdvancedSettings_Misc_MissionIconLoading"		"Show Mission Icon When Loading"
@@ -8631,7 +8631,7 @@
 		"RD_AdvancedSettings_Misc_HighlightActiveCharacter"		"Highlight Active Character"
 		"[english]RD_AdvancedSettings_Misc_HighlightMyTracers"		"Dim Others Bullet Tracers"
 		"RD_AdvancedSettings_Misc_HighlightMyTracers"		"Dim Others Bullet Tracers"
-		
+
 		"[english]rd_audio_advanced_mixers_label"		"Advanced Volume Settings"
 		"rd_audio_advanced_mixers_label"		"Advanced Volume Settings"
 		"[english]rd_audio_advanced_mixers_tooltip"		"Adjust the volume of each audio channel separately."
@@ -8722,7 +8722,7 @@
 		"rd_audio_low_health_sound_hint"		"Play a heartbeat sound when at low health."
 		"[english]rd_audio_disable_voice_chat"		"Disable Voice Chat"
 		"rd_audio_disable_voice_chat"		"Disable Voice Chat"
-		
+
 		"[english]rd_workshop_find_new_campaign"		"More Campaigns"
 		"rd_workshop_find_new_campaign"		"More Campaigns"
 		"[english]rd_workshop_find_new_bonus_mission"		"More Bonus Missions"
@@ -8731,7 +8731,7 @@
 		"rd_workshop_find_new_deathmatch"		"More Deathmatch Maps"
 		"[english]rd_workshop_find_new_endless"		"More Endless Missions"
 		"rd_workshop_find_new_endless"		"More Endless Missions"
-		
+
 		"[english]rd_radial_spectate_Sarge"		"Spectate Sarge"
 		"rd_radial_spectate_Sarge"		"Spectate Sarge"
 		"[english]rd_radial_spectate_Wildcat"		"Spectate Wildcat"
@@ -8796,7 +8796,7 @@
 		"rd_radial_use_extra_Bastille"		"Bastille: Use %s1"
 		"[english]rd_radial_use_extra_Vegas"		"Vegas: Use %s1"
 		"rd_radial_use_extra_Vegas"		"Vegas: Use %s1"
-		
+
 		"[english]rd_wheel_default"		"Wheel: Shout"
 		"rd_wheel_default"		"Wheel: Shout"
 		"[english]rd_wheel_marine"		"Wheel: Command Marine"
@@ -8807,10 +8807,10 @@
 		"rd_wheel_equipment1"		"Wheel: Equipment 1"
 		"[english]rd_wheel_equipment2"		"Wheel: Equipment 2"
 		"rd_wheel_equipment2"		"Wheel: Equipment 2"
-		
+
 		"[english]rd_xp_bonus_anniversary"		"Anniversary Week Bonus"
 		"rd_xp_bonus_anniversary"		"Anniversary Week Bonus"
-		
+
 		"[english]rd_mainmenu_collections"		"COLLECTIONS"
 		"rd_mainmenu_collections"		"COLLECTIONS"
 		// see https://developer.reactivedrop.com/2024/contracts.html
@@ -8914,7 +8914,7 @@
 		"rd_loadout_current"		"Current Loadout"
 		"[english]rd_loadout_default"		"Default Loadout"
 		"rd_loadout_default"		"Default Loadout"
-		
+
 		"[english]rd_exit_vehicle"		"Exit Vehicle"
 		"rd_exit_vehicle"		"Exit Vehicle"
 		"[english]rd_enter_vehicle_driver"		"Drive Vehicle"
@@ -8923,7 +8923,7 @@
 		"rd_enter_vehicle_passenger"		"Ride Vehicle"
 		"[english]rd_enter_vehicle_full"		"Vehicle is Full"
 		"rd_enter_vehicle_full"		"Vehicle is Full"
-		
+
 		"[english]rd_mainmenu_recordings"		"Recordings"
 		"rd_mainmenu_recordings"		"Recordings"
 		"[english]rd_demo_list_title"		"Mission Recordings"
@@ -8976,7 +8976,7 @@
 		"rd_demo_rename_title"		"Rename Mission Recording"
 		"[english]rd_demo_rename_message"		"What should the new filename for this recording be?"
 		"rd_demo_rename_message"		"What should the new filename for this recording be?"
-		
+
 		"[english]RD_AdvancedSettings_OnHit"		"On-Hit Feedback"
 		"RD_AdvancedSettings_OnHit"		"On-Hit Feedback"
 		"[english]TF_CombatText"		"Display damage done as text over your target"
@@ -9005,7 +9005,7 @@
 		"TF_Dingaling_LastHit_PitchLowDmg"		"Last Hit sound low damage pitch"
 		"[english]TF_Dingaling_LastHit_PitchHighDmg"		"Last Hit sound high damage pitch"
 		"TF_Dingaling_LastHit_PitchHighDmg"		"Last Hit sound high damage pitch"
-		
+
 		"[english]tf_dingalingaling_effect"		"Hit Sounds"
 		"tf_dingalingaling_effect"		"Hit Sounds"
 		"[english]tf_dingalingaling_last_effect"		"Last Hit Sounds"
@@ -9040,7 +9040,7 @@
 		// meaty hit
 		"[english]tf_dingalingaling_Swarm"		"Swarm"
 		"tf_dingalingaling_Swarm"		"Swarm"
-		
+
 		// %s1 is mapper-specified label text. %s2 is a number. %s3 is the amount the number will change by soon.
 		"[english]asw_hud_counter_format"		"%s1: %s2"
 		"asw_hud_counter_format"		"%s1: %s2"
@@ -9057,7 +9057,7 @@
 		// The value of money is abstract and there's no references to real-world conversion rates, so feel free to change the currency symbol to something relevant to people who speak your language and optionally add some zeroes at the end.
 		"[english]asw_money_format"		"$%s1"
 		"asw_money_format"		"$%s1"
-		
+
 		"[english]rd_main_menu_tip_settings_title"		"Settings"
 		"rd_main_menu_tip_settings_title"		"Settings"
 		"[english]rd_main_menu_tip_settings"		"Press this button to change keyboard controls,\npreferences, and audio and video settings."
@@ -9136,7 +9136,7 @@
 		"rd_main_menu_tip_update_notes_title"		"Latest Patch Notes"
 		"[english]rd_main_menu_tip_update_notes"		"Press this button to read a list of changes made in the latest update."
 		"rd_main_menu_tip_update_notes"		"Press this button to read a list of changes made in the latest update."
-		
+
 		"[english]rd_hoiaf_ends_days_hours"		"Heroes of the Interstellar Armed Forces season %s1 ends in %s2 days %s3 hours."
 		"rd_hoiaf_ends_days_hours"		"Heroes of the Interstellar Armed Forces season %s1 ends in %s2 days %s3 hours."
 		"[english]rd_hoiaf_ends_hours"		"Heroes of the Interstellar Armed Forces season %s1 ends in %s2 hours."
@@ -9154,7 +9154,7 @@
 		"rd_event_timer_hours"		"%s1 (%s2 hours remain)"
 		"[english]rd_event_timer_soon"		"%s1 (ends in less than an hour!)"
 		"rd_event_timer_soon"		"%s1 (ends in less than an hour!)"
-		
+
 		"[english]rd_ticker_title"		"IAF News"
 		"rd_ticker_title"		"IAF News"
 		// these are imaginary stock market updates on the main menu. %s1 is the company name, %s2 is the symbol (like SYN for SynTek; symbols are not translated), %s3 is a number like 1.23 for how much the stock price changed, and %s4 is a number like 1234.56 for the final stock price.
@@ -9206,7 +9206,7 @@
 		"rd_ticker_stat_deaths_from_drones_today"		"Drones tore %s1 marines to pieces today"
 		"[english]rd_ticker_stat_deaths_from_grenades_today"		"%s1 marines died today due to mishandling of explosive ordinance"
 		"rd_ticker_stat_deaths_from_grenades_today"		"%s1 marines died today due to mishandling of explosive ordinance"
-		
+
 		"[english]rd_reporting_auto_preference"		"Automatically report players I mute or vote for"
 		"rd_reporting_auto_preference"		"Automatically report players I mute or vote for"
 		"[english]rd_reporting_error_not_connected"		"Cannot send a report while offline."
@@ -9235,7 +9235,7 @@
 		// shown above the final message generated during the process of sending a report
 		"[english]rd_reporting_finished_title"		"Report Status"
 		"rd_reporting_finished_title"		"Report Status"
-		
+
 		// these are tab names
 		"[english]rd_settings_controls"		"Controls"
 		"rd_settings_controls"		"Controls"
@@ -9249,7 +9249,7 @@
 		"rd_settings_video"		"Video"
 		"[english]rd_settings_about"		"About"
 		"rd_settings_about"		"About"
-		
+
 		// These are category headings on the Controls tab of the settings screen
 		"[english]rd_controls_category_movement"		"Movement"
 		"rd_controls_category_movement"		"Movement"
@@ -9278,7 +9278,7 @@
 		// radial menus
 		"[english]rd_manage_custom_chat_wheels"		"Manage Custom\nChat Wheels"
 		"rd_manage_custom_chat_wheels"		"Manage Custom\nChat Wheels"
-		
+
 		"[english]rd_option_player_name_mode"		"Squad Member Names"
 		"rd_option_player_name_mode"		"Squad Member Names"
 		"[english]rd_option_player_name_mode_none"		"None"
@@ -9537,12 +9537,12 @@
 		"rd_option_network_allow_relay_enabled"		"Enabled"
 		"[english]rd_option_network_allow_relay_enabled_hint"		"Connect to lobbies using the Steam Networking API, which can avoid the need to forward ports. Dedicated servers may still use direct UDP connections."
 		"rd_option_network_allow_relay_enabled_hint"		"Connect to lobbies using the Steam Networking API, which can avoid the need to forward ports. Dedicated servers may still use direct UDP connections."
-		
+
 		"[english]rd_option_suffix_percent"		"%"
 		"rd_option_suffix_percent"		"%"
 		"[english]rd_option_suffix_milliseconds"		" ms"
 		"rd_option_suffix_milliseconds"		" ms"
-		
+
 		"[english]rd_video_level_low"		"Low"
 		"rd_video_level_low"		"Low"
 		"[english]rd_video_level_medium"		"Medium"
@@ -9674,7 +9674,7 @@
 		"rd_video_low_health_effect"		"Low Health Vignetting"
 		"[english]rd_video_low_health_effect_hint"		"Controls whether the edges of the screen glow red when the marine is at low health."
 		"rd_video_low_health_effect_hint"		"Controls whether the edges of the screen glow red when the marine is at low health."
-		
+
 		// %s1 is a number; eg. 11352165
 		"[english]rd_about_build_id"		"Build ID: %s1"
 		"rd_about_build_id"		"Build ID: %s1"
@@ -9696,12 +9696,12 @@
 		"rd_about_havok"		"This product uses Havok Physics. Copyright Havok.com Inc. (and its Licensors). All Rights Reserved. See www.havok.com for details."
 		"[english]rd_about_nvidia"		"This product includes code licensed from NVIDIA."
 		"rd_about_nvidia"		"This product includes code licensed from NVIDIA."
-		
+
 		"[english]rd_achievement_challenges_disallowed"		"This achievement cannot be earned if a challenge was active during the mission."
 		"rd_achievement_challenges_disallowed"		"This achievement cannot be earned if a challenge was active during the mission."
 		"[english]rd_achievement_challenges_outstanding"		"This achievement cannot be earned if a challenge was active or a marine died during any mission attempt since the last successful map vote."
 		"rd_achievement_challenges_outstanding"		"This achievement cannot be earned if a challenge was active or a marine died during any mission attempt since the last successful map vote."
-		
+
 		"[english]rd_compass_north"		"North"
 		"rd_compass_north"		"North"
 		"[english]rd_compass_south"		"South"
@@ -9718,7 +9718,7 @@
 		"rd_compass_east_short"		"E"
 		"[english]rd_compass_west_short"		"W"
 		"rd_compass_west_short"		"W"
-		
+
 		"[english]asw_infection"		"Infection"
 		"asw_infection"		"Infection"
 		"[english]asw_infection_fp"		"Infection First Person"
@@ -9762,14 +9762,14 @@
 		// %s1 is a meter made up of █ and spaces; %s2 is a percentage.
 		"[english]asw_infection_rage_meter"		"Rage: %s1 %s2%"
 		"asw_infection_rage_meter"		"Rage: %s1 %s2%"
-		
+
 		// %s1 is a number; shown when the filters are hidden and the mission details are visible
 		"[english]rd_lobby_options_button_inactive"		"Filters Active: %s1"
 		"rd_lobby_options_button_inactive"		"Filters Active: %s1"
 		// shown when the filter list is active, replacing above
 		"[english]rd_lobby_options_button_active"		"Show Mission Details"
 		"rd_lobby_options_button_active"		"Show Mission Details"
-		
+
 		"[english]rd_lobby_option_name_mode_title"		"Name Mode"
 		"rd_lobby_option_name_mode_title"		"Name Mode"
 		"[english]rd_lobby_option_name_mode_mission"		"Mission"
@@ -9880,7 +9880,7 @@
 		"rd_lobby_option_always_friends_title"		"Always Show Friends"
 		"[english]rd_lobby_option_always_friends_hint"		"Show lobbies with friends in them regardless of other settings on this screen."
 		"rd_lobby_option_always_friends_hint"		"Show lobbies with friends in them regardless of other settings on this screen."
-		
+
 		"[english]rd_lobby_tooltip_type_lobby_title"		"Player-Hosted Lobby"
 		"rd_lobby_tooltip_type_lobby_title"		"Player-Hosted Lobby"
 		"[english]rd_lobby_tooltip_type_lobby_desc"		"This lobby is being run by a player."
@@ -9905,7 +9905,7 @@
 		"rd_lobby_tooltip_type_ranked_server_title"		"Ranked Server"
 		"[english]rd_lobby_tooltip_type_ranked_server_desc"		"This community server is participating in Heroes of the Interstellar Armed Forces."
 		"rd_lobby_tooltip_type_ranked_server_desc"		"This community server is participating in Heroes of the Interstellar Armed Forces."
-		
+
 		"[english]rd_lobby_tooltip_difficulty_deathmatch_title"		"PvP: Deathmatch"
 		"rd_lobby_tooltip_difficulty_deathmatch_title"		"PvP: Deathmatch"
 		"[english]rd_lobby_tooltip_difficulty_deathmatch_desc"		"Kill enemy marines to score points."
@@ -9942,7 +9942,7 @@
 		"rd_lobby_tooltip_difficulty_brutal_title"		"Difficulty: Brutal"
 		"[english]rd_lobby_tooltip_difficulty_brutal_desc"		"Brutal."
 		"rd_lobby_tooltip_difficulty_brutal_desc"		"Brutal."
-		
+
 		"[english]rd_lobby_tooltip_onslaught_title"		"Onslaught"
 		"rd_lobby_tooltip_onslaught_title"		"Onslaught"
 		"[english]rd_lobby_tooltip_onslaught_desc"		"The AI Director will add additional aliens to the mission based on the performance of the marines."
@@ -9955,7 +9955,7 @@
 		"rd_lobby_tooltip_challenge_title"		"Challenge Active"
 		"[english]rd_lobby_tooltip_challenge_desc"		"A custom game mode is active in this lobby."
 		"rd_lobby_tooltip_challenge_desc"		"A custom game mode is active in this lobby."
-		
+
 		"[english]rd_lobby_tooltip_ping_title"		"Estimated Ping (Connection Latency)"
 		"rd_lobby_tooltip_ping_title"		"Estimated Ping (Connection Latency)"
 		"[english]rd_lobby_tooltip_ping_low_desc"		"Your connection to this lobby is likely to have a very low round trip time, resulting in the best possible experience."

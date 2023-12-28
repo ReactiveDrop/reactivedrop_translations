@@ -7,18 +7,18 @@
 		"ActionSet_InGame"		"In-Game"
 		"[english]ActionSet_Menus"		"Menus"
 		"ActionSet_Menus"		"Menus"
-		
+
 		// In-game menus that activate the red and yellow box around the button, like hacking and briefing.
 		"[english]Layer_InGameMenus"		"Menus"
 		"Layer_InGameMenus"		"Menus"
-		
+
 		"[english]Stick_Move"		"Move"
 		"Stick_Move"		"Move"
 		"[english]Stick_Look"		"Aim"
 		"Stick_Look"		"Aim"
 		"[english]Stick_MenuNavigate"		"Menu Navigation"
 		"Stick_MenuNavigate"		"Menu Navigation"
-		
+
 		"[english]Button_PrimaryAttack"		"Primary Attack"
 		"Button_PrimaryAttack"		"Primary Attack"
 		"[english]Button_SecondaryAttack"		"Secondary Attack"
@@ -31,7 +31,7 @@
 		"Button_MeleeAttack"		"Melee"
 		"[english]Button_OffHandAttack"		"Use Offhand Item"
 		"Button_OffHandAttack"		"Use Offhand Item"
-		
+
 		"[english]Button_Reload"		"Reload"
 		"Button_Reload"		"Reload"
 		"[english]Button_Jump"		"Roll / Jump"
@@ -42,7 +42,7 @@
 		"Button_DropWeapon"		"Drop Weapon"
 		"[english]Button_DropEquipment"		"Drop Equipment"
 		"Button_DropEquipment"		"Drop Equipment"
-		
+
 		"[english]Button_SwapWeapons"		"Switch Weapon"
 		"Button_SwapWeapons"		"Switch Weapon"
 		"[english]Button_SelectPrimary"		"Equip Primary Weapon"
@@ -53,7 +53,7 @@
 		"Button_ActivatePrimary"		"Deploy Primary Weapon"
 		"[english]Button_ActivateSecondary"		"Deploy Secondary Weapon"
 		"Button_ActivateSecondary"		"Deploy Secondary Weapon"
-		
+
 		// in case someone wants to set up some kind of wacky controller setup that doesn't use analog stick movement:
 		"[english]Button_MoveForward"		"Move Forward"
 		"Button_MoveForward"		"Move Forward"
@@ -66,10 +66,10 @@
 		// the key that is bound to shift by default on keyboard
 		"[english]Button_MoveSlow"		"Walk / Crouch"
 		"Button_MoveSlow"		"Walk / Crouch"
-		
+
 		"[english]Button_HoldOrder"		"Position Bot Marine"
 		"Button_HoldOrder"		"Position Bot Marine"
-		
+
 		"[english]Button_EmoteMedic"		"'Medic!'"
 		"Button_EmoteMedic"		"'Medic!'"
 		"[english]Button_EmoteAmmo"		"'Need ammo!'"
@@ -86,7 +86,7 @@
 		"Button_EmoteSmile2"		"(anime smile)"
 		"[english]Button_EmoteQuestion"		"'What?'"
 		"Button_EmoteQuestion"		"'What?'"
-		
+
 		"[english]Button_TextChat"		"Text Chat"
 		"Button_TextChat"		"Text Chat"
 		"[english]Button_VoiceChat"		"Push to Talk"
@@ -105,7 +105,7 @@
 		"Button_VoteYes"		"Vote Yes"
 		"[english]Button_VoteNo"		"Vote No"
 		"Button_VoteNo"		"Vote No"
-		
+
 		"[english]Button_PlayerList"		"Player List"
 		"Button_PlayerList"		"Player List"
 		"[english]Button_InGameBriefing"		"Mission Overview"
@@ -118,7 +118,7 @@
 		"Button_RotateCameraRight"		"Rotate Camera Right"
 		"[english]Button_SelectMarineDeathmatch"		"Select Marine (Deathmatch)"
 		"Button_SelectMarineDeathmatch"		"Select Marine (Deathmatch)"
-		
+
 		"[english]Button_SquadOffhand2"		"Activate Squad Equipment 2"
 		"Button_SquadOffhand2"		"Activate Squad Equipment 2"
 		"[english]Button_SquadOffhand3"		"Activate Squad Equipment 3"
@@ -133,7 +133,7 @@
 		"Button_SquadOffhand7"		"Activate Squad Equipment 7"
 		"[english]Button_SquadOffhand8"		"Activate Squad Equipment 8"
 		"Button_SquadOffhand8"		"Activate Squad Equipment 8"
-		
+
 		"[english]Button_SelectMarine1"		"Select Marine 1"
 		"Button_SelectMarine1"		"Select Marine 1"
 		"[english]Button_SelectMarine2"		"Select Marine 2"
@@ -150,7 +150,7 @@
 		"Button_SelectMarine7"		"Select Marine 7"
 		"[english]Button_SelectMarine8"		"Select Marine 8"
 		"Button_SelectMarine8"		"Select Marine 8"
-		
+
 		// In the (far) future we might use these for Versus mode. Not used for anything right now.
 		"[english]Button_Ability1"		"Ability 1"
 		"Button_Ability1"		"Ability 1"
@@ -160,7 +160,7 @@
 		"Button_Ability3"		"Ability 3"
 		"[english]Button_Ability4"		"Ability 4"
 		"Button_Ability4"		"Ability 4"
-		
+
 		// Note: currently (to my knowledge) only MenuConfirm, MenuBack, MenuSpecial1, MenuSpecial2, MenuL1, MenuL2,
 		// and the directional buttons (which act identically in all three sets on most screens) are used in-game.
 		//
@@ -176,7 +176,7 @@
 		// Y or Triangle button
 		"[english]Button_MenuSpecial2"		"Menu Special 2"
 		"Button_MenuSpecial2"		"Menu Special 2"
-		
+
 		// Left shoulder button
 		"[english]Button_MenuL1"		"Menu L1"
 		"Button_MenuL1"		"Menu L1"
@@ -201,7 +201,7 @@
 		// Start, Menu, or Options button
 		"[english]Button_MenuStart"		"Menu Start"
 		"Button_MenuStart"		"Menu Start"
-		
+
 		"[english]Button_MenuLeft"		"Menu D-Pad Left"
 		"Button_MenuLeft"		"Menu D-Pad Left"
 		"[english]Button_MenuRight"		"Menu D-Pad Right"
@@ -210,7 +210,7 @@
 		"Button_MenuUp"		"Menu D-Pad Up"
 		"[english]Button_MenuDown"		"Menu D-Pad Down"
 		"Button_MenuDown"		"Menu D-Pad Down"
-		
+
 		"[english]Button_MenuLeftStickLeft"		"Menu L Stick Left"
 		"Button_MenuLeftStickLeft"		"Menu L Stick Left"
 		"[english]Button_MenuLeftStickRight"		"Menu L Stick Right"
@@ -219,7 +219,7 @@
 		"Button_MenuLeftStickUp"		"Menu L Stick Up"
 		"[english]Button_MenuLeftStickDown"		"Menu L Stick Down"
 		"Button_MenuLeftStickDown"		"Menu L Stick Down"
-		
+
 		"[english]Button_MenuRightStickLeft"		"Menu R Stick Left"
 		"Button_MenuRightStickLeft"		"Menu R Stick Left"
 		"[english]Button_MenuRightStickRight"		"Menu R Stick Right"
@@ -228,7 +228,7 @@
 		"Button_MenuRightStickUp"		"Menu R Stick Up"
 		"[english]Button_MenuRightStickDown"		"Menu R Stick Down"
 		"Button_MenuRightStickDown"		"Menu R Stick Down"
-		
+
 		"[english]InputConfigTitle_Generic"		"AS:RD Default"
 		"InputConfigTitle_Generic"		"AS:RD Default"
 		"[english]InputConfigDescription_Generic"		"Default control scheme for Alien Swarm: Reactive Drop."

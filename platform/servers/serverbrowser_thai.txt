@@ -249,7 +249,7 @@
 "ServerBrowser_LastPlayed"		"เล่นครั้งล่าสุด"
 		"[english]ServerBrowser_BlacklistedDate"		"Blacklisted date"
 		"ServerBrowser_BlacklistedDate"		"Blacklisted date"
-		
+
 		"[english]ServerBrowser_OfflineMode"		"Steam is currently in Offline Mode. Internet games will not be available until you restart\nsteam while connected to the Internet."
 		"ServerBrowser_OfflineMode"		"Steam is currently in Offline Mode. Internet games will not be available until you restart\nsteam while connected to the Internet."
 
@@ -349,10 +349,10 @@
 		"ServerBrowser_AddAddressToBlacklist"		"Add this address to blacklist"
 "[english]ServerBrowser_FindGames"		"Find games at this address..."
 "ServerBrowser_FindGames"		"ค้นหาเกมที่แอดเดรสนี้..."
-		
+
 		"[english]ServerBrowser_SteamRunning"		"Steam Beta must be running to make use of Find Servers"
 		"ServerBrowser_SteamRunning"		"Steam Beta must be running to make use of Find Servers"
-		
+
 		"[english]ServerBrowser_CustomTab"		"Custom"
 		"ServerBrowser_CustomTab"		"Custom"
 		"[english]ServerBrowser_Tags"		"Tags"

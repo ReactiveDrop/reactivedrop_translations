@@ -31,7 +31,7 @@
 		"FileOpenDialog_Name"		"Name"
 		"[english]FileOpenDialog_Type"		"Type"
 		"FileOpenDialog_Type"		"Type"
-		
+
 		"[english]SysMenu_Minimize"		" Minimize "
 		"SysMenu_Minimize"		" Minimize "
 		"[english]SysMenu_Maximize"		" Maximize "
@@ -108,14 +108,14 @@
 		"vgui_CreateDirectoryFail_Info"		"Failed to create directory, drive is read-only."
 		"[english]vgui_CreateDirectoryFail_AlreadyExists"		"That folder already exists."
 		"vgui_CreateDirectoryFail_AlreadyExists"		"That folder already exists."
-		
+
 		"[english]TextEntry_Language"		"Language"
 		"TextEntry_Language"		"Language"
 		"[english]TextEntry_ConversionMode"		"Conversion Mode"
 		"TextEntry_ConversionMode"		"Conversion Mode"
 		"[english]TextEntry_SentenceMode"		"Sentence Mode"
 		"TextEntry_SentenceMode"		"Sentence Mode"
-		
+
 		"[english]IME_English"		"English"
 		"IME_English"		"English"
 		"[english]IME_Chinese"		"Chinese"
@@ -132,7 +132,7 @@
 		"IME_HalfWidthKatakana"		"Half-width Katakana"
 		"[english]IME_HalfWidthAlphanumeric"		"Half-width Alphanumeric"
 		"IME_HalfWidthAlphanumeric"		"Half-width Alphanumeric"
-		
+
 		"[english]IME_General"		"General"
 		"IME_General"		"General"
 		"[english]IME_BiasNames"		"Bias for Names"
@@ -141,7 +141,7 @@
 		"IME_BiasSpeech"		"Bias for Speech"
 		"[english]IME_NoConversion"		"No Conversion"
 		"IME_NoConversion"		"No Conversion"
-		
+
 		"[english]IME_0404"		"Chinese (Taiwan)"
 		"IME_0404"		"Chinese (Taiwan)"
 		"[english]IME_0804"		"Chinese (PRC)"
@@ -156,7 +156,7 @@
 		"IME_0419"		"Russian"
 		"[english]IME_041e"		"Thai"
 		"IME_041e"		"Thai"
-		
+
 		"[english]IME_040c"		"French (Standard)"
 		"IME_040c"		"French (Standard)"
 		"[english]IME_0407"		"German (Standard)"
@@ -165,7 +165,7 @@
 		"IME_0410"		"Italian (Standard)"
 		"[english]IME_040a"		"Spanish (Spain, Traditional Sort)"
 		"IME_040a"		"Spanish (Spain, Traditional Sort)"
-		
+
 		"[english]KBEditorTitle"		"Key Bindings Editor"
 		"KBEditorTitle"		"Key Bindings Editor"
 		"[english]KBEditorSave"		"OK"
@@ -192,19 +192,19 @@
 		"KBEditor_CONTROL"		"Ctrl"
 		"[english]KBEditor_ALT"		"Alt"
 		"KBEditor_ALT"		"Alt"
-		
+
 		"[english]KBHelpDialogTitle"		"Key Bindings Help"
 		"KBHelpDialogTitle"		"Key Bindings Help"
 		"[english]KBHelpEditBindings"		"Edit..."
 		"KBHelpEditBindings"		"Edit..."
-		
+
 		"[english]KBCustomBindingEdit"		"Custom Binding Properties"
 		"KBCustomBindingEdit"		"Custom Binding Properties"
 		"[english]KBCustomBindingName"		"Binding Name"
 		"KBCustomBindingName"		"Binding Name"
 		"[english]KBCustomBindingCommand"		"Command"
 		"KBCustomBindingCommand"		"Command"
-		
+
 		"[english]FileOpenDialog_Col_Name"		"Name"
 		"FileOpenDialog_Col_Name"		"Name"
 		"[english]FileOpenDialog_Col_Size"		"Size"
@@ -231,7 +231,7 @@
 		"FileOpenDialog_NewFolder_DefaultName"		"New Folder"
 		"[english]FileOpenDialog_ToolTip_OpenInExplorerButton"		"Open In Explorer"
 		"FileOpenDialog_ToolTip_OpenInExplorerButton"		"Open In Explorer"
-		
+
 		"[english]PerforceFileList_Col_Name"		"Name"
 		"PerforceFileList_Col_Name"		"Name"
 		"[english]PerforceFileList_Col_Size"		"Size"
@@ -250,7 +250,7 @@
 		"PerforceFileList_Col_Synched"		"Synched"
 		"[english]PerforceFileList_Col_Checked_Out"		"Checked Out"
 		"PerforceFileList_Col_Checked_Out"		"Checked Out"
-		
+
 		"[english]AssetBuilder_FileNew"		"New..."
 		"AssetBuilder_FileNew"		"New..."
 		"[english]AssetBuilder_FileOpen"		"Open..."
@@ -279,20 +279,20 @@
 		"AssetBuilder_Publish"		"Publish"
 		"[english]AssetBuilder_AbortCompile"		"Abort"
 		"AssetBuilder_AbortCompile"		"Abort"
-		
+
 		"[english]AssetPicker_Rescan"		"Rescan"
 		"AssetPicker_Rescan"		"Rescan"
-		
+
 		"[english]SequencePicker_Defaults"		"Defaults"
 		"SequencePicker_Defaults"		"Defaults"
 		"[english]SequencePicker_RootMotion"		"Generate root motion"
 		"SequencePicker_RootMotion"		"Generate root motion"
-		
+
 		"[english]DmeSourceDCCFile_DuplicateSourceTitle"		"Duplicate DCC object name!"
 		"DmeSourceDCCFile_DuplicateSourceTitle"		"Duplicate DCC object name!"
 		"[english]DmeSourceDCCFile_DuplicateSourceText"		"This DCC object already exists in the list of DCC objects!"
 		"DmeSourceDCCFile_DuplicateSourceText"		"This DCC object already exists in the list of DCC objects!"
-		
+
 		"[english]DmeCombinationSystemEditor_GroupControls"		"Group Controls"
 		"DmeCombinationSystemEditor_GroupControls"		"Group Controls"
 		"[english]DmeCombinationSystemEditor_UngroupControls"		"Ungroup Controls"
@@ -329,7 +329,7 @@
 		"DmeCombinationSystemEditor_Import"		"Import Combination Rules..."
 		"[english]DmeCombinationSystemEditor_ImportDomination"		"Import Domination Rules..."
 		"DmeCombinationSystemEditor_ImportDomination"		"Import Domination Rules..."
-		
+
 		"[english]DmePresetGroupEditor_AddGroup"		"Add Preset Group..."
 		"DmePresetGroupEditor_AddGroup"		"Add Preset Group..."
 		"[english]DmePresetGroupEditor_AddPhonemeGroup"		"Add Phoneme Preset Group"
@@ -342,7 +342,7 @@
 		"DmePresetGroupEditor_ToggleVisibility"		"Toggle Group Visibility"
 		"[english]DmePresetGroupEditor_ToggleSharing"		"Toggle Group Sharing"
 		"DmePresetGroupEditor_ToggleSharing"		"Toggle Group Sharing"
-		
+
 		"[english]DmePresetGroupEditor_AddPreset"		"Add Preset..."
 		"DmePresetGroupEditor_AddPreset"		"Add Preset..."
 		"[english]DmePresetGroupEditor_RenamePreset"		"Rename Preset..."
@@ -381,12 +381,12 @@
 		"DmePresetGroupEditor_RemoveDefaultControls"		"Remove Default Controls"
 		"[english]DmePresetGroupEditor_RemapPresets"		"Remap Presets"
 		"DmePresetGroupEditor_RemapPresets"		"Remap Presets"
-		
+
 		"[english]DmePresetRemapPanel_SelectPreset"		"Select Source Preset..."
 		"DmePresetRemapPanel_SelectPreset"		"Select Source Preset..."
 		"[english]DmePresetRemapPanel_RemovePreset"		"Clear Source Preset"
 		"DmePresetRemapPanel_RemovePreset"		"Clear Source Preset"
-		
+
 		"[english]Console_Title"		"Console"
 		"Console_Title"		"Console"
 		"[english]Console_Submit"		"Submit"

@@ -143,7 +143,7 @@
 "L4D360UI_PushToTalk"		"Trykk for å snakke"
 "[english]L4D360UI_OpenMic"		"Open Microphone"
 "L4D360UI_OpenMic"		"Aktiv mikrofon"
-		
+
 		"[english]L4D360UI_RestartChapter"		"Restart Chapter"
 		"L4D360UI_RestartChapter"		"Restart Chapter"
 		"[english]L4D360UI_RestartChapter_Tip"		"Call a vote to restart the chapter."
@@ -1526,7 +1526,7 @@
 "L4D360UI_ModeCaps_offline_SP"		"ENKELTSPILLER"
 "[english]L4D360UI_ModeCaps_offline_SS"		"OFFLINE CO-OP"
 "L4D360UI_ModeCaps_offline_SS"		"FRAKOBLET SAMARBEID"
-		
+
 		"[english]L4D360UI_FoudGames_CreateNew_campaign"		"CREATE LOBBY"
 		"L4D360UI_FoudGames_CreateNew_campaign"		"CREATE LOBBY"
 		"[english]L4D360UI_FoudGames_CreateNew_single_mission"		"CREATE LOBBY"
@@ -1670,7 +1670,7 @@
 
 "[english]L4D360UI_FoundGroupGames_Header_Searching"		"Searching Steam Group '%s1'"
 "L4D360UI_FoundGroupGames_Header_Searching"		"Søker i Steam-gruppen %s1"
-		
+
 		"[english]L4D360UI_FoundFriendGames_Title_"		"FRIEND GAMES"
 		"L4D360UI_FoundFriendGames_Title_"		"FRIEND GAMES"
 		"[english]L4D360UI_FoundFriendGames_Title_campaign"		"FRIEND GAMES"
@@ -1753,7 +1753,7 @@
 "L4D360UI_FoundPublicGames_Filter_GameStatus_InLobby_Tip"		"Filtrer bare etter lobbyer."
 "[english]L4D360UI_FoundPublicGames_Filter_GameStatus_InGame_Tip"		"Filter for only games."
 "L4D360UI_FoundPublicGames_Filter_GameStatus_InGame_Tip"		"Filtrer bare etter spill."
-		
+
 		"[english]L4D360UI_FoundPublicGames_Filter_Campaign"		"Mission"
 		"L4D360UI_FoundPublicGames_Filter_Campaign"		"Mission"
 "[english]L4D360UI_FoundPublicGames_Filter_Campaign_Tip"		"Filter for games using official or add-on campaigns."
@@ -2209,7 +2209,7 @@
 "L4D360UI_GameOptions_LookSensitivity"		"Endre følsomheten for BLIKK-styrespaken."
 "[english]L4D360UI_Controller_SwapJoysticks"		"Swap the controller sticks so that LOOK is on the left and MOVE on the right."
 "L4D360UI_Controller_SwapJoysticks"		"Bytt styrespakene slik at BLIKK er til venstre og BEVEGELSE til høyre."
-		
+
 		// Loading posters
 		"[english]L4D360UI_Loading_Starring"		"Commanders: "
 		"L4D360UI_Loading_Starring"		"Commanders: "
@@ -2713,12 +2713,12 @@
 "L4D_Credits_AdditionalMusic"		"Ekstra musikk av:"
 "[english]L4D_Credits_FacesThanks"		"Thanks to the following for the use of their faces:"
 "L4D_Credits_FacesThanks"		"Takk til følgende for at vi fikk låne ansiktene deres:"
-		
+
 		"[english]L4D360UI_Not_Joinable_Mod"		"Playing Version: %s1"
 		"L4D360UI_Not_Joinable_Mod"		"Playing Version: %s1"
 		"[english]L4D2360_JoinError_OtherTitle_Modded"		"Player is running a different version of Alien Swarm: Reactive Drop.\n"
 		"L4D2360_JoinError_OtherTitle_Modded"		"Player is running a different version of Alien Swarm: Reactive Drop.\n"
-		
+
 		"[english]ASUI_LobbyName"		"LOBBY NAME"
 		"ASUI_LobbyName"		"LOBBY NAME"
 		"[english]ASUI_LobbyName_tt"		"Enter a name for your lobby."
@@ -2753,7 +2753,7 @@
 "ASUI_GameSettings_MP_saved_campaign_game"		"Spillinnstillinger"
 "[english]ASUI_GameSettings_Solo"		"Game Settings"
 "ASUI_GameSettings_Solo"		"Spillinnstillinger"
-		
+
 		"[english]GameUI_Jukebox"		"CUSTOMIZE COMBAT MUSIC"
 		"GameUI_Jukebox"		"CUSTOMIZE COMBAT MUSIC"
 		"[english]GameUI_Jukebox_Title"		"Customize Combat Music"
@@ -2764,7 +2764,7 @@
 "jb_add_track"		"LEGG TIL MUSIKK"
 "[english]jb_REMOVE_track"		"REMOVE MUSIC"
 "jb_REMOVE_track"		"FJERN MUSIKK"
-		
+
 		"[english]L4D360UI_ingame"		"In-game"
 		"L4D360UI_ingame"		"In-game"
 		"[english]L4D360UI_briefing"		"Briefing"
@@ -2853,9 +2853,9 @@
 		"L4D360UI_FoundPublicGames_Filter_Distance_Far"		"Far"
 		"[english]L4D360UI_FoundPublicGames_Filter_Distance_Worldwide"		"Galaxy"
 		"L4D360UI_FoundPublicGames_Filter_Distance_Worldwide"		"Galaxy"
-		
+
 		// Reactive Drop strings
-		
+
 		"[english]RDUI_SteamOverlay_Title"		"Steam Overlay In-Game"
 		"RDUI_SteamOverlay_Title"		"Steam Overlay In-Game"
 		"[english]RDUI_SteamOverlay_Text"		"This feature requires Steam Overlay In-Game to be enabled.\nYou might need to restart the game after you enable this feature in Steam:\nSteam -> Library -> Right-click on Alien Swarm: Reactive Drop -> Properties... -> Enable the Steam Overlay while in-game\n"

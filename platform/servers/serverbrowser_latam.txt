@@ -207,7 +207,7 @@
 		"ServerBrowser_PasswordColumn_Tooltip"		"Password required to join server"
 		"[english]ServerBrowser_BotColumn_Tooltip"		"CPU players are present on this server"
 		"ServerBrowser_BotColumn_Tooltip"		"CPU players are present on this server"
-		
+
 		"[english]ServerBrowser_ServersCount"		"Servers (%s1)"
 		"ServerBrowser_ServersCount"		"Servers (%s1)"
 		"[english]ServerBrowser_ServersCountWithBlacklist"		"Servers (%s1) (%s2 blacklisted)"
@@ -218,7 +218,7 @@
 		"ServerBrowser_BlacklistedServersCount"		"Blacklisted Servers (%s1)"
 		"[english]ServerBrowser_UnableToQueryMasters"		"Unable to determine Master Server addresses. Server Browser will not function correctly."
 		"ServerBrowser_UnableToQueryMasters"		"Unable to determine Master Server addresses. Server Browser will not function correctly."
-		
+
 		"[english]ServerBrowser_ESRBNotice"		"ESRB Notice: Game Experience May Change During Online Play"
 		"ServerBrowser_ESRBNotice"		"ESRB Notice: Game Experience May Change During Online Play"
 		"[english]ServerBrowser_Password"		"Password"
@@ -249,10 +249,10 @@
 		"ServerBrowser_LastPlayed"		"Last played"
 		"[english]ServerBrowser_BlacklistedDate"		"Blacklisted date"
 		"ServerBrowser_BlacklistedDate"		"Blacklisted date"
-		
+
 		"[english]ServerBrowser_OfflineMode"		"Steam is currently in Offline Mode. Internet games will not be available until you restart\nsteam while connected to the Internet."
 		"ServerBrowser_OfflineMode"		"Steam is currently in Offline Mode. Internet games will not be available until you restart\nsteam while connected to the Internet."
-		
+
 		"[english]ServerBrowser_ConnectToServer"		"Connect to server"
 		"ServerBrowser_ConnectToServer"		"Connect to server"
 		"[english]ServerBrowser_ViewServerInfo"		"View server info"
@@ -277,7 +277,7 @@
 		"ServerBrowser_Score"		"Score"
 		"[english]ServerBrowser_Time"		"Time"
 		"ServerBrowser_Time"		"Time"
-		
+
 		"[english]ServerBrowser_ServerName"		"Name:"
 		"ServerBrowser_ServerName"		"Name:"
 		"[english]ServerBrowser_ValveAntiCheat"		"Valve Anti-Cheat:"
@@ -286,7 +286,7 @@
 		"ServerBrowser_NotSecure"		"Not secure"
 		"[english]ServerBrowser_ServerHasNoPlayers"		"No users currently playing on this server."
 		"ServerBrowser_ServerHasNoPlayers"		"No users currently playing on this server."
-		
+
 		"[english]VAC_BanNotification"		"Valve Anti-Cheat Notification"
 		"VAC_BanNotification"		"Valve Anti-Cheat Notification"
 		"[english]VAC_AccountBanned"		"Steam account banned"
@@ -315,14 +315,14 @@
 		"VAC_ConnectingToSecureServer"		"Note: This server is VAC-secured.\n\nCheating will result in a permanent ban."
 		"[english]VAC_BannedFromServers"		"Banned from some secure servers because of a cheating infraction."
 		"VAC_BannedFromServers"		"Banned from some secure servers because of a cheating infraction."
-		
+
 		"[english]VAC_NoBans"		"In good standing"
 		"VAC_NoBans"		"In good standing"
 		"[english]VAC_Status"		"VAC Status:"
 		"VAC_Status"		"VAC Status:"
 		"[english]Steam_ValidLoginRequiredTitle"		"Valid Steam Login Required"
 		"Steam_ValidLoginRequiredTitle"		"Valid Steam Login Required"
-		
+
 		"[english]Steam_ValidLoginRequired"		"A connection to the Steam VAC servers could not be made. For troubleshooting network issues, please click the link below."
 		"Steam_ValidLoginRequired"		"A connection to the Steam VAC servers could not be made. For troubleshooting network issues, please click the link below."
 		"[english]VAC_ConnectionIssuesSupport_Title"		"Secure Connection Failed"
@@ -331,14 +331,14 @@
 		"VAC_ConnectionIssuesSupportSite"		"Click here to visit Steam support"
 		"[english]VAC_ConnectionIssuesSupportURL"		"http://support.steampowered.com/cgi-bin/steampowered.cfg/php/enduser/std_adp.php?p_faqid=374"
 		"VAC_ConnectionIssuesSupportURL"		"http://support.steampowered.com/cgi-bin/steampowered.cfg/php/enduser/std_adp.php?p_faqid=374"
-		
+
 		"[english]ServerBrowser_FriendNotInGameServer"		"%friend% is not currently playing on any game server."
 		"ServerBrowser_FriendNotInGameServer"		"%friend% is not currently playing on any game server."
 		"[english]ServerBrowser_NotInGame"		"[ none ]"
 		"ServerBrowser_NotInGame"		"[ none ]"
 		"[english]ServerBrowser_PendingPing"		"<pending>"
 		"ServerBrowser_PendingPing"		"<pending>"
-		
+
 		"[english]ServerBrowser_AddSelectedToFavorites"		"Add selected game server to favorites"
 		"ServerBrowser_AddSelectedToFavorites"		"Add selected game server to favorites"
 		"[english]ServerBrowser_AddSelectedToBlacklist"		"Add selected game server to blacklist"
@@ -349,10 +349,10 @@
 		"ServerBrowser_AddAddressToBlacklist"		"Add this address to blacklist"
 		"[english]ServerBrowser_FindGames"		"Find games at this address..."
 		"ServerBrowser_FindGames"		"Find games at this address..."
-		
+
 		"[english]ServerBrowser_SteamRunning"		"Steam Beta must be running to make use of Find Servers"
 		"ServerBrowser_SteamRunning"		"Steam Beta must be running to make use of Find Servers"
-		
+
 		"[english]ServerBrowser_CustomTab"		"Custom"
 		"ServerBrowser_CustomTab"		"Custom"
 		"[english]ServerBrowser_Tags"		"Tags"

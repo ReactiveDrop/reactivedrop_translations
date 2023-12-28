@@ -249,7 +249,7 @@
 "ServerBrowser_LastPlayed"		"Ostatnia gra"
 		"[english]ServerBrowser_BlacklistedDate"		"Blacklisted date"
 		"ServerBrowser_BlacklistedDate"		"Blacklisted date"
-		
+
 		"[english]ServerBrowser_OfflineMode"		"Steam is currently in Offline Mode. Internet games will not be available until you restart\nsteam while connected to the Internet."
 		"ServerBrowser_OfflineMode"		"Steam is currently in Offline Mode. Internet games will not be available until you restart\nsteam while connected to the Internet."
 

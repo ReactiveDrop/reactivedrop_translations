@@ -329,7 +329,7 @@
 		"DmeCombinationSystemEditor_Import"		"Combination Rulesをインポート..."
 		"[english]DmeCombinationSystemEditor_ImportDomination"		"Import Domination Rules..."
 		"DmeCombinationSystemEditor_ImportDomination"		"Domination Rulesをインポート..."
-		
+
 		"[english]DmePresetGroupEditor_AddGroup"		"Add Preset Group..."
 		"DmePresetGroupEditor_AddGroup"		"Preset Groupを追加..."
 		"[english]DmePresetGroupEditor_AddPhonemeGroup"		"Add Phoneme Preset Group"
@@ -342,7 +342,7 @@
 "DmePresetGroupEditor_ToggleVisibility"		"グループの可視性を切り替え"
 "[english]DmePresetGroupEditor_ToggleSharing"		"Toggle Group Sharing"
 "DmePresetGroupEditor_ToggleSharing"		"グループの共有を切り替え"
-		
+
 		"[english]DmePresetGroupEditor_AddPreset"		"Add Preset..."
 		"DmePresetGroupEditor_AddPreset"		"Presetを追加..."
 		"[english]DmePresetGroupEditor_RenamePreset"		"Rename Preset..."
@@ -381,7 +381,7 @@
 "DmePresetGroupEditor_RemoveDefaultControls"		"デフォルトのコントロールを削除"
 		"[english]DmePresetGroupEditor_RemapPresets"		"Remap Presets"
 		"DmePresetGroupEditor_RemapPresets"		"Remap Presets"
-		
+
 		"[english]DmePresetRemapPanel_SelectPreset"		"Select Source Preset..."
 		"DmePresetRemapPanel_SelectPreset"		"Source Presetを選択..."
 		"[english]DmePresetRemapPanel_RemovePreset"		"Clear Source Preset"
