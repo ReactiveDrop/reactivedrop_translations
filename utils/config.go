@@ -92,6 +92,7 @@ var txtLanguageFiles = [...]string{
 
 var vdfLanguageFiles = [...]string{
 	"../community/inventory_service/inventory_service_tags",
+	"../community/inventory_service/items",
 	"../community/stats_website/statsweb",
 	"../community/steam_input/steam_input",
 	"../community/workshop/workshop_description",
@@ -108,6 +109,7 @@ var importantLanguageFiles = [...][2]string{
 	{"resource/closecaption_", ".txt"},
 	{"resource/gameui_", ".txt"},
 	{"resource/reactivedrop_", ".txt"},
+	{"community/inventory_service/items_", ".vdf"},
 	{"community/stats_website/statsweb_", ".vdf"},
 }
 
@@ -176,10 +178,6 @@ var checkButNoSync = [...]struct {
 			"../addons/*/resource/news/*.txt",
 		},
 	},
-}
-
-var checkInventorySchema = [...]string{
-	"../community/inventory_service/item-schema-*.json",
 }
 
 var inventoryKeyPrefixes = [...]string{

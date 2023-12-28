@@ -1,0 +1,28 @@
+{
+	"appid": 563560,
+	"items": [
+		{
+			"itemdefid": 900000000,
+			"type": "item",
+			"name_%LANG%": "{#item_unique_medal_ben_lubar_name}",
+			"description_%LANG%": "{#item_unique_medal_ben_lubar_description}",
+			"display_type_%LANG%": "{#item_unique_medal_ben_lubar_display_type}",
+			"icon_url": "https://stats.reactivedrop.com/static/medals/ben_lubar.png",
+			"background_color": "{#item_color_team_background}",
+			"name_color": "{#item_color_rdteam}",
+			"tags": "rarity:legendary;slot:medal",
+			"item_slot": "medal"
+		},
+		{
+			"itemdefid": 900000001,
+			"type": "item",
+			"name_%LANG%": "{#item_unique_medal_mapping_2023_name}",
+			"description_%LANG%": "{#item_unique_medal_mapping_2023_description}",
+			"display_type_%LANG%": "{#item_display_type_community_medal_legendary}",
+			"icon_url": "https://stats.reactivedrop.com/static/medals/contest/bossfight2023_gauntlet.png",
+			"name_color": "{#item_color_community}",
+			"tags": "rarity:legendary;slot:medal",
+			"item_slot": "medal"
+		}
+	]
+}

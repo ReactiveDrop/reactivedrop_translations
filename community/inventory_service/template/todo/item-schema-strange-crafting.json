@@ -26,7 +26,7 @@
 			"description_schinese": "一个装有武器的盒子。里面是什么武器呢？当你考虑可能是什么时，盒子的重量似乎会随之发生变化。",
 			"description_vietnamese": "Một chiếc hộp lạ kỳ chứa một vũ khí. Là vũ khí nào vậy? Cái sức nặng ở trong hộp này dường như thay đổi trong khi bạn đi xem xét các khả năng.",
 			"icon_url": "https://stats.reactivedrop.com/static/medals/error.png",
-			"name_color": "CF6A32",
+			"name_color": "{#item_color_strange}",
 			"tags": "crafting_item:single_use_tool;contains_any:set_1_weapon;contains_any:set_1_equipment"
 		},
 		{
@@ -54,7 +54,7 @@
 			"description_schinese": "一堆看起来不能相互兼容的电路板。这玩意似乎从未上过电。",
 			"description_vietnamese": "Một sự phân hạng lạ kỳ của các bảng mạch mà có vẻ như chúng không tương thích. Thiết bị dường như chưa bao giờ được bật nguồn.",
 			"icon_url": "https://stats.reactivedrop.com/static/medals/error.png",
-			"name_color": "CF6A32",
+			"name_color": "{#item_color_strange}",
 			"tags": "crafting_item:single_use_tool;contains_any:set_1_strange_device"
 		},
 		{

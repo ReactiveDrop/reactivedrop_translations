@@ -1,0 +1,142 @@
+﻿"lang"
+{
+"Language"		"english"
+"Tokens"
+{
+"item_display_type_achievement_medal_common"		"Medal"
+"item_display_type_achievement_medal_strange"		"Medal"
+"item_display_type_event_medal_uncommon"		"Medal"
+"item_display_type_tournament_medal_uncommon"		"Medal"
+"item_display_type_tournament_medal_rare"		"Medal"
+"item_display_type_community_medal_common"		"Community Medal"
+"item_display_type_community_medal_legendary"		"Community Medal"
+// accessory that can be permanently attached to a weapon, equipment, or suit to track specific stats
+"item_display_type_strange_device"		"Strange Device"
+
+"item_strange_medal_disclaimer"		"Stats are only updated while this item is equipped."
+
+// as in "Style: Orange" for items that have selectable styles
+"item_style_prefix"		"Style"
+"item_style_tournament_participant"		"Participant"
+"item_style_tournament_elite_green"		"Elite (Green)"
+"item_style_tournament_elite_red"		"Elite (Red)"
+"item_style_tournament_elite_yellow"		"Elite (Yellow)"
+"item_style_tournament_elite_blue"		"Elite (Blue)"
+"item_style_tournament_top20_green"		"Top 20 (Emerald)"
+"item_style_tournament_top20_red"		"Top 20 (Ruby)"
+"item_style_tournament_top20_yellow"		"Top 20 (Topaz)"
+"item_style_tournament_top20_blue"		"Top 20 (Sapphire)"
+
+"item_tournament_medal_hoiaf_participant_name"		"Participant - Heroes of the Interstellar Armed Forces"
+"item_tournament_medal_hoiaf_elite_name"		"Elite - Heroes of the Interstellar Armed Forces"
+"item_tournament_medal_hoiaf_top20_name"		"Top 20 - Heroes of the Interstellar Armed Forces"
+"item_tournament_medal_hoiaf_participant_name_short"		"HoIAF Participant"
+"item_tournament_medal_hoiaf_elite_name_short"		"HoIAF Elite"
+"item_tournament_medal_hoiaf_top20_name_short"		"HoIAF Top 20"
+"item_tournament_medal_hoiaf_participant_description"		"Medal awarded to those who participated in any season of Heroes of the Interstellar Armed Forces."
+"item_tournament_medal_hoiaf_elite_green_description"		"Medal awarded to those who finished a March, April, or May season of Heroes of the Interstellar Armed Forces in the top 100."
+"item_tournament_medal_hoiaf_elite_red_description"		"Medal awarded to those who finished a June, July, or August season of Heroes of the Interstellar Armed Forces in the top 100."
+"item_tournament_medal_hoiaf_elite_yellow_description"		"Medal awarded to those who finished an September, October, or November season of Heroes of the Interstellar Armed Forces in the top 100."
+"item_tournament_medal_hoiaf_elite_blue_description"		"Medal awarded to those who finished a December, January, or February season of Heroes of the Interstellar Armed Forces in the top 100."
+"item_tournament_medal_hoiaf_top20_legacy_description"		"Medal awarded to those who finished a season of Heroes of the Interstellar Armed Forces in the top 20."
+"item_tournament_medal_hoiaf_top20_green_description"		"Medal awarded to those who finished a March, April, or May season of Heroes of the Interstellar Armed Forces in the top 20."
+"item_tournament_medal_hoiaf_top20_red_description"		"Medal awarded to those who finished a June, July, or August season of Heroes of the Interstellar Armed Forces in the top 20."
+"item_tournament_medal_hoiaf_top20_yellow_description"		"Medal awarded to those who finished an September, October, or November season of Heroes of the Interstellar Armed Forces in the top 20."
+"item_tournament_medal_hoiaf_top20_blue_description"		"Medal awarded to those who finished a December, January, or February season of Heroes of the Interstellar Armed Forces in the top 20."
+"item_tournament_medal_hoiaf_summary"		"Finished Season %season% in rank #%rank% with a score of %score%."
+"item_tournament_medal_hoiaf_stat_alien_kills"		"Aliens Killed"
+"item_tournament_medal_hoiaf_stat_player_kills"		"Team Kills"
+"item_tournament_medal_hoiaf_stat_games_won"		"Successful Missions"
+"item_tournament_medal_hoiaf_stat_games_lost"		"Failed Missions"
+
+"item_community_medal_beta_tester_name"		"Beta Tester"
+"item_community_medal_beta_tester_description"		"Awarded for participating in the Alien Swarm: Reactive Drop beta branch."
+
+// This medal's name is a pun on the Alien Swarm achievement 'Hat Trick', which awarded a TF2 hat for completing two missions in multiplayer.
+"item_novelty_medal_reverse_hat_trick_name"		"Trick Hat"
+"item_novelty_medal_reverse_hat_trick_description"		"The trick is, this isn't a hat or a medal. It's a commemorative sticker."
+"item_novelty_medal_reverse_hat_trick_acquisition"		"Complete the Ready For Duty achievement in Team Fortress 2 to unlock."
+// It's a sticker, but the item is tagged as "Medal" and it goes in the medal slot.
+"item_novelty_medal_reverse_hat_trick_display_type"		"Medal…?"
+
+// This medal's name is a pun about needing to go to the toilet very badly.
+"item_novelty_medal_flush_toilet_name"		"Priority Number One"
+"item_novelty_medal_flush_toilet_description"		"While infested and on fire, found the time to flush a toilet."
+"item_novelty_medal_flush_toilet_display_type"		"Medal…?"
+
+"item_achievement_medal_oe_jacob_name"		"Jacob's Rest Veteran"
+"item_achievement_medal_oe_area9800_name"		"Area 9800 Veteran"
+"item_achievement_medal_oe_ocs_name"		"Operation Cleansweep Veteran"
+"item_achievement_medal_oe_lana_name"		"Lana's Escape Veteran"
+"item_achievement_medal_oe_paranoia_name"		"Paranoia Veteran"
+"item_achievement_medal_oe_research7_name"		"Research 7 Veteran"
+"item_achievement_medal_oe_tft_name"		"Tears for Tarnor Veteran"
+"item_achievement_medal_oe_til5_name"		"Tilarus-5 Veteran"
+"item_achievement_medal_oe_bio_name"		"BioGen Corporation Veteran"
+"item_achievement_medal_oe_nh_name"		"Nam Humanum Veteran"
+"item_achievement_medal_oe_acc32_name"		"Accident 32 Veteran"
+"item_achievement_medal_oe_adanaxis_name"		"Adanaxis Veteran"
+"item_achievement_medal_oe_reduction_name"		"Reduction Veteran"
+// Outstanding Execution is an achievement name.
+"item_achievement_medal_oe_jacob_description"		"Awarded to commanders who demonstrated Outstanding Execution in the Jacob's Rest campaign."
+"item_achievement_medal_oe_area9800_description"		"Awarded to commanders who demonstrated Outstanding Execution in the Area 9800 campaign."
+"item_achievement_medal_oe_ocs_description"		"Awarded to commanders who demonstrated Outstanding Execution in the Operation Cleansweep campaign."
+"item_achievement_medal_oe_lana_description"		"Awarded to commanders who demonstrated Outstanding Execution in the Lana's Escape campaign."
+"item_achievement_medal_oe_paranoia_description"		"Awarded to commanders who demonstrated Outstanding Execution in the Paranoia campaign."
+"item_achievement_medal_oe_research7_description"		"Awarded to commanders who demonstrated Outstanding Execution in the Research 7 campaign."
+"item_achievement_medal_oe_tft_description"		"Awarded to commanders who demonstrated Outstanding Execution in the Tears for Tarnor campaign."
+"item_achievement_medal_oe_til5_description"		"Awarded to commanders who demonstrated Outstanding Execution in the Tilarus-5 campaign."
+"item_achievement_medal_oe_bio_description"		"Awarded to commanders who demonstrated Outstanding Execution in the BioGen Corporation campaign."
+"item_achievement_medal_oe_nh_description"		"Awarded to commanders who demonstrated Outstanding Execution in the Nam Humanum campaign."
+"item_achievement_medal_oe_acc32_description"		"Awarded to commanders who demonstrated Outstanding Execution in the Accident 32 campaign."
+"item_achievement_medal_oe_adanaxis_description"		"Awarded to commanders who demonstrated Outstanding Execution in the Adanaxis campaign."
+"item_achievement_medal_oe_reduction_description"		"Awarded to commanders who demonstrated Outstanding Execution in the Reduction campaign."
+
+"item_achievement_medal_air_time_name"		"Air Time"
+"item_achievement_medal_air_time_description"		"Thrown in the air by the giant worm in Operation Sandstorm."
+"item_achievement_medal_air_time_stat_worms_touched"		"Worms Touched"
+"item_achievement_medal_infection_deathmatch_name"		"Containment Officer"
+"item_achievement_medal_infection_deathmatch_description"		"Fought the zombie virus in Infection Deathmatch."
+"item_achievement_medal_infection_deathmatch_disclaimer"		"Stats are only updated while this item is equipped in a match with at least five players."
+"item_achievement_medal_infection_deathmatch_stat_survive"		"Rounds Survived"
+"item_achievement_medal_infection_deathmatch_stat_tags"		"Zombie Infections Spread"
+// Kills by human players while in "last stand" mode, which can be activated when there are few human players remaining.
+"item_achievement_medal_infection_deathmatch_stat_laststand"		"Last Stand Kills"
+
+"item_event_medal_shmupfest2023_name"		"Steam SHMUP Fest 2023"
+"item_event_medal_shmupfest2023_description"		"Fought the Swarm during Steam SHMUP Fest 2023."
+"item_event_medal_replayabilityfest2024_name"		"Steam Endless Replayability Fest 2024"
+"item_event_medal_replayabilityfest2024_description"		"Fought the Swarm during Steam Endless Replayability Fest 2024."
+
+"item_unique_medal_ben_lubar_name"		"Ben Lubar"
+"item_unique_medal_ben_lubar_description"		"Ben Lubar is very sorry about all of this."
+// it's a cupcake that's shaped like a cat
+"item_unique_medal_ben_lubar_display_type"		"catcake"
+"item_unique_medal_mapping_2023_name"		"The Gauntlet: Arctic (#BossFight2023 Winner)"
+"item_unique_medal_mapping_2023_description"		"This medal commemorates The Gauntlet: Arctic, the winner of the 2023 mapping competition."
+
+"item_strange_device_missions_name"		"Missions"
+"item_strange_device_successful_missions_name"		"Successful Missions"
+"item_strange_device_aliens_killed_name"		"Aliens Killed"
+"item_strange_device_healing_name"		"Healing"
+"item_strange_device_fast_hacks_name"		"Fast Hacks"
+"item_strange_device_enemies_frozen_name"		"Enemies Frozen"
+// extinguished as in putting out a fire
+"item_strange_device_allies_extinguished_name"		"Allies Extinguished"
+"item_strange_device_alien_kill_streak_name"		"Alien Kill Streak"
+// Alien Kill Streak: 1234 (Best: 5678)
+"item_strange_device_alien_kill_streak_best"		"Best"
+"item_strange_device_infestations_cured_name"		"Infestations Cured"
+
+"item_suit_sarge_name"		"Sarge's Suit"
+"item_suit_wildcat_name"		"Wildcat's Suit"
+"item_suit_faith_name"		"Faith's Suit"
+"item_suit_crash_name"		"Crash's Suit"
+"item_suit_jaeger_name"		"Jaeger's Suit"
+"item_suit_wolfe_name"		"Wolfe's Suit"
+"item_suit_bastille_name"		"Bastille's Suit"
+"item_suit_vegas_name"		"Vegas's Suit"
+// one can hope
+"item_suit_flynn_name"		"Flynn's Suit"
+}
+}

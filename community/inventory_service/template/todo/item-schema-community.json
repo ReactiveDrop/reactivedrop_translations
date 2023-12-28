@@ -33,7 +33,7 @@
 			"display_type_vietnamese": "Huy chương cộng đồng",
 			"icon_url": "https://stats.reactivedrop.com/static/medals/community_translator2.png",
 			"icon_url_large": "https://stats.reactivedrop.com/static/medals/community_translator2_large.png",
-			"name_color": "70B04A",
+			"name_color": "{#item_color_community}",
 			"tags": "rarity:legendary;slot:medal",
 			"item_slot": "medal"
 		},
@@ -69,7 +69,7 @@
 			"display_type_vietnamese": "Huy chương cộng đồng",
 			"icon_url": "https://stats.reactivedrop.com/static/medals/community_programmer2.png",
 			"icon_url_large": "https://stats.reactivedrop.com/static/medals/community_programmer2_large.png",
-			"name_color": "70B04A",
+			"name_color": "{#item_color_community}",
 			"tags": "rarity:legendary;slot:medal",
 			"item_slot": "medal"
 		},
@@ -105,7 +105,7 @@
 			"display_type_vietnamese": "Huy chương cộng đồng",
 			"icon_url": "https://stats.reactivedrop.com/static/medals/community_mapper2.png",
 			"icon_url_large": "https://stats.reactivedrop.com/static/medals/community_mapper2_large.png",
-			"name_color": "70B04A",
+			"name_color": "{#item_color_community}",
 			"tags": "rarity:legendary;slot:medal",
 			"item_slot": "medal"
 		},
@@ -141,7 +141,7 @@
 			"display_type_vietnamese": "Huy chương cộng đồng",
 			"icon_url": "https://stats.reactivedrop.com/static/medals/community_challenger2.png",
 			"icon_url_large": "https://stats.reactivedrop.com/static/medals/community_challenger2_large.png",
-			"name_color": "70B04A",
+			"name_color": "{#item_color_community}",
 			"tags": "rarity:legendary;slot:medal",
 			"item_slot": "medal"
 		},
@@ -177,7 +177,7 @@
 			"display_type_vietnamese": "Huy chương cộng đồng",
 			"icon_url": "https://stats.reactivedrop.com/static/medals/community_guide2.png",
 			"icon_url_large": "https://stats.reactivedrop.com/static/medals/community_guide2_large.png",
-			"name_color": "70B04A",
+			"name_color": "{#item_color_community}",
 			"tags": "rarity:legendary;slot:medal",
 			"item_slot": "medal"
 		},
@@ -213,7 +213,7 @@
 			"display_type_vietnamese": "Huy chương cộng đồng",
 			"icon_url": "https://stats.reactivedrop.com/static/medals/community_artist2.png",
 			"icon_url_large": "https://stats.reactivedrop.com/static/medals/community_artist2_large.png",
-			"name_color": "70B04A",
+			"name_color": "{#item_color_community}",
 			"tags": "rarity:legendary;slot:medal",
 			"item_slot": "medal"
 		},
@@ -247,7 +247,7 @@
 			"display_type_vietnamese": "Huy chương cộng đồng",
 			"icon_url": "https://stats.reactivedrop.com/static/medals/community_reporter2.png",
 			"icon_url_large": "https://stats.reactivedrop.com/static/medals/community_reporter2_large.png",
-			"name_color": "70B04A",
+			"name_color": "{#item_color_community}",
 			"tags": "rarity:legendary;slot:medal",
 			"item_slot": "medal"
 		},
@@ -279,7 +279,7 @@
 			"display_type_vietnamese": "Huy chương cộng đồng",
 			"icon_url": "https://stats.reactivedrop.com/static/medals/community_streamer2.png",
 			"icon_url_large": "https://stats.reactivedrop.com/static/medals/community_streamer2_large.png",
-			"name_color": "70B04A",
+			"name_color": "{#item_color_community}",
 			"tags": "rarity:legendary;slot:medal",
 			"item_slot": "medal"
 		},
@@ -312,7 +312,7 @@
 			"icon_url": "https://stats.reactivedrop.com/static/medals/contest/mapping_participant_2023.png",
 			"icon_url_large": "https://stats.reactivedrop.com/static/medals/contest/mapping_participant_2023_large.png",
 			"love": "wins",
-			"name_color": "70B04A",
+			"name_color": "{#item_color_community}",
 			"tags": "rarity:legendary;slot:medal",
 			"item_slot": "medal"
 		}

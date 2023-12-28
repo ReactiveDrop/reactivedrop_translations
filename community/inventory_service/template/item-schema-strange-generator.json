@@ -1,0 +1,576 @@
+{
+	"appid": 563560,
+	"translator_note": "Nothing in this file needs to be translated; these are all internal item definitions that will not show up in an inventory.",
+	"items": [
+		{
+			"itemdefid": 6000,
+			"type": "bundle",
+			"name": "Bundle Strange Weapon And Two Devices",
+			"bundle": "6015;6008x2"
+		},
+		{
+			"itemdefid": 6001,
+			"name": "Unused 6001"
+		},
+		{
+			"itemdefid": 6002,
+			"name": "Unused 6002"
+		},
+		{
+			"itemdefid": 6003,
+			"name": "Unused 6003"
+		},
+		{
+			"itemdefid": 6004,
+			"name": "Unused 6004"
+		},
+		{
+			"itemdefid": 6005,
+			"name": "Unused 6005"
+		},
+		{
+			"itemdefid": 6006,
+			"name": "Unused 6006"
+		},
+		{
+			"itemdefid": 6007,
+			"name": "Unused 6007"
+		},
+		{
+			"itemdefid": 6008,
+			"type": "generator",
+			"name": "Generate Random Strange Device",
+			"bundle": "5000;5001;5002;5003;5004;5005;5006;5007;5008"
+		},
+		{
+			"itemdefid": 6009,
+			"type": "generator",
+			"name": "Generate Random Strange All Class Weapon",
+			"bundle": "6016;6020;6021;6023;6024;6025;6026;6028;6029;6030;6032;6033;6034;6035;6036;6037;6039;6041;6043;6044;6045;6046;6047;6048;6049;6050;6051;6052;6053;6055;6056;6057;6058;6059"
+		},
+		{
+			"itemdefid": 6010,
+			"type": "generator",
+			"name": "Generate Random Strange Officer Weapon",
+			"bundle": "6019;6054"
+		},
+		{
+			"itemdefid": 6011,
+			"type": "generator",
+			"name": "Generate Random Strange Special Weapons Weapon",
+			"bundle": "6018;6031;6038"
+		},
+		{
+			"itemdefid": 6012,
+			"type": "generator",
+			"name": "Generate Random Strange Medic Weapon",
+			"bundle": "6022;6027;6040;6042;6060"
+		},
+		{
+			"itemdefid": 6013,
+			"type": "generator",
+			"name": "Generate Random Strange Tech Weapon",
+			"bundle": "6017"
+		},
+		{
+			"itemdefid": 6014,
+			"type": "generator",
+			"name": "Generate Random Strange Weapon",
+			"bundle": "6009x34;6010x2;6011x3;6012x5;6013x1"
+		},
+		{
+			"itemdefid": 6015,
+			"name": "Unused 6015"
+		},
+		{
+			"itemdefid": 6016,
+			"type": "generator",
+			"name": "Generate Random Strange 22A3-1 Assault Rifle",
+			"bundle": "2000",
+			"tag_generators": "6061"
+		},
+		{
+			"itemdefid": 6017,
+			"type": "generator",
+			"name": "Generate Random Strange 22A7-Z Prototype Assault Rifle",
+			"bundle": "2001",
+			"tag_generators": "6061"
+		},
+		{
+			"itemdefid": 6018,
+			"type": "generator",
+			"name": "Generate Random Strange S23A SynTek Autogun",
+			"bundle": "2002",
+			"tag_generators": "6061"
+		},
+		{
+			"itemdefid": 6019,
+			"type": "generator",
+			"name": "Generate Random Strange M42 Vindicator",
+			"bundle": "2003",
+			"tag_generators": "6062"
+		},
+		{
+			"itemdefid": 6020,
+			"type": "generator",
+			"name": "Generate Random Strange M73 Twin Pistols",
+			"bundle": "2004",
+			"tag_generators": "6061"
+		},
+		{
+			"itemdefid": 6021,
+			"type": "generator",
+			"name": "Generate Random Strange IAF Advanced Sentry Gun",
+			"bundle": "2005",
+			"tag_generators": "6063"
+		},
+		{
+			"itemdefid": 6022,
+			"type": "generator",
+			"name": "Generate Random Strange IAF Heal Beacon",
+			"bundle": "2006",
+			"tag_generators": "6065"
+		},
+		{
+			"itemdefid": 6023,
+			"type": "generator",
+			"name": "Generate Random Strange IAF Ammo Satchel",
+			"bundle": "2007",
+			"tag_generators": "6066"
+		},
+		{
+			"itemdefid": 6024,
+			"type": "generator",
+			"name": "Generate Random Strange Model 35 Pump-action Shotgun",
+			"bundle": "2008",
+			"tag_generators": "6061"
+		},
+		{
+			"itemdefid": 6025,
+			"type": "generator",
+			"name": "Generate Random Strange IAF Tesla Cannon",
+			"bundle": "2009",
+			"tag_generators": "6061"
+		},
+		{
+			"itemdefid": 6026,
+			"type": "generator",
+			"name": "Generate Random Strange Precision Rail Rifle",
+			"bundle": "2010",
+			"tag_generators": "6061"
+		},
+		{
+			"itemdefid": 6027,
+			"type": "generator",
+			"name": "Generate Random Strange IAF Medical Gun",
+			"bundle": "2011",
+			"tag_generators": "6065"
+		},
+		{
+			"itemdefid": 6028,
+			"type": "generator",
+			"name": "Generate Random Strange K80 Personal Defense Weapon",
+			"bundle": "2012",
+			"tag_generators": "6061"
+		},
+		{
+			"itemdefid": 6029,
+			"type": "generator",
+			"name": "Generate Random Strange M868 Flamer Unit",
+			"bundle": "2013",
+			"tag_generators": "6067"
+		},
+		{
+			"itemdefid": 6030,
+			"type": "generator",
+			"name": "Generate Random Strange IAF Freeze Sentry Gun",
+			"bundle": "2014",
+			"tag_generators": "6068"
+		},
+		{
+			"itemdefid": 6031,
+			"type": "generator",
+			"name": "Generate Random Strange IAF Minigun",
+			"bundle": "2015",
+			"tag_generators": "6061"
+		},
+		{
+			"itemdefid": 6032,
+			"type": "generator",
+			"name": "Generate Random Strange AVK-36 Marksman Rifle",
+			"bundle": "2016",
+			"tag_generators": "6061"
+		},
+		{
+			"itemdefid": 6033,
+			"type": "generator",
+			"name": "Generate Random Strange IAF Incendiary Sentry Gun",
+			"bundle": "2017",
+			"tag_generators": "6064"
+		},
+		{
+			"itemdefid": 6034,
+			"type": "generator",
+			"name": "Generate Random Strange Chainsaw",
+			"bundle": "2018",
+			"tag_generators": "6073"
+		},
+		{
+			"itemdefid": 6035,
+			"type": "generator",
+			"name": "Generate Random Strange IAF High Velocity Sentry Cannon",
+			"bundle": "2019",
+			"tag_generators": "6070"
+		},
+		{
+			"itemdefid": 6036,
+			"type": "generator",
+			"name": "Generate Random Strange Grenade Launcher",
+			"bundle": "2020",
+			"tag_generators": "6069"
+		},
+		{
+			"itemdefid": 6037,
+			"type": "generator",
+			"name": "Generate Random Strange PS50 Bulldog",
+			"bundle": "2021",
+			"tag_generators": "6061"
+		},
+		{
+			"itemdefid": 6038,
+			"type": "generator",
+			"name": "Generate Random Strange IAF HAS42 Devastator",
+			"bundle": "2022",
+			"tag_generators": "6061"
+		},
+		{
+			"itemdefid": 6039,
+			"type": "generator",
+			"name": "Generate Random Strange 22A4-2 Combat Rifle",
+			"bundle": "2023",
+			"tag_generators": "6061"
+		},
+		{
+			"itemdefid": 6040,
+			"type": "generator",
+			"name": "Generate Random Strange IAF Medical Amplifier Gun",
+			"bundle": "2024",
+			"tag_generators": "6071"
+		},
+		{
+			"itemdefid": 6041,
+			"type": "generator",
+			"name": "Generate Random Strange 22A5 Heavy Assault Rifle",
+			"bundle": "2025",
+			"tag_generators": "6061"
+		},
+		{
+			"itemdefid": 6042,
+			"type": "generator",
+			"name": "Generate Random Strange IAF Medical SMG",
+			"bundle": "2026",
+			"tag_generators": "6072"
+		},
+		{
+			"itemdefid": 6043,
+			"type": "generator",
+			"name": "Generate Random Strange IAF Personal Healing Kit",
+			"bundle": "3000",
+			"tag_generators": "6065"
+		},
+		{
+			"itemdefid": 6044,
+			"type": "generator",
+			"name": "Generate Random Strange Hand Welder",
+			"bundle": "3001",
+			"tag_generators": "6074"
+		},
+		{
+			"itemdefid": 6045,
+			"type": "generator",
+			"name": "Generate Random Strange SM75 Combat Flares",
+			"bundle": "3002",
+			"tag_generators": "6075"
+		},
+		{
+			"itemdefid": 6046,
+			"type": "generator",
+			"name": "Generate Random Strange ML30 Laser Trip Mine",
+			"bundle": "3003",
+			"tag_generators": "6069"
+		},
+		{
+			"itemdefid": 6047,
+			"type": "generator",
+			"name": "Generate Random Strange L3A Tactical Heavy Armor",
+			"bundle": "3004",
+			"tag_generators": "6076"
+		},
+		{
+			"itemdefid": 6048,
+			"type": "generator",
+			"name": "Generate Random Strange X-33 Damage Amplifier",
+			"bundle": "3005",
+			"tag_generators": "6077"
+		},
+		{
+			"itemdefid": 6049,
+			"type": "generator",
+			"name": "Generate Random Strange Hornet Barrage",
+			"bundle": "3006",
+			"tag_generators": "6069"
+		},
+		{
+			"itemdefid": 6050,
+			"type": "generator",
+			"name": "Generate Random Strange CR-18 Freeze Grenades",
+			"bundle": "3007",
+			"tag_generators": "6078"
+		},
+		{
+			"itemdefid": 6051,
+			"type": "generator",
+			"name": "Generate Random Strange Adrenaline",
+			"bundle": "3008",
+			"tag_generators": "6079"
+		},
+		{
+			"itemdefid": 6052,
+			"type": "generator",
+			"name": "Generate Random Strange IAF Tesla Sentry Coil",
+			"bundle": "3009",
+			"tag_generators": "6080"
+		},
+		{
+			"itemdefid": 6053,
+			"type": "generator",
+			"name": "Generate Random Strange v45 Electric Charged Armor",
+			"bundle": "3010",
+			"tag_generators": "6081"
+		},
+		{
+			"itemdefid": 6054,
+			"type": "generator",
+			"name": "Generate Random Strange M478 Proximity Incendiary Mines",
+			"bundle": "3011",
+			"tag_generators": "6062"
+		},
+		{
+			"itemdefid": 6055,
+			"type": "generator",
+			"name": "Generate Random Strange Flashlight Attachment",
+			"bundle": "3012",
+			"tag_generators": "6082"
+		},
+		{
+			"itemdefid": 6056,
+			"type": "generator",
+			"name": "Generate Random Strange IAF Power Fist Attachment",
+			"bundle": "3013",
+			"tag_generators": "6083"
+		},
+		{
+			"itemdefid": 6057,
+			"type": "generator",
+			"name": "Generate Random Strange FG-01 Hand Grenades",
+			"bundle": "3014",
+			"tag_generators": "6069"
+		},
+		{
+			"itemdefid": 6058,
+			"type": "generator",
+			"name": "Generate Random Strange MNV34 Nightvision Goggles",
+			"bundle": "3015",
+			"tag_generators": "6084"
+		},
+		{
+			"itemdefid": 6059,
+			"type": "generator",
+			"name": "Generate Random Strange MTD6 Smart Bomb",
+			"bundle": "3016",
+			"tag_generators": "6069"
+		},
+		{
+			"itemdefid": 6060,
+			"type": "generator",
+			"name": "Generate Random Strange TG-05 Gas Grenades",
+			"bundle": "3017",
+			"tag_generators": "6085"
+		},
+		{
+			"itemdefid": 6061,
+			"type": "tag_generator",
+			"name": "Generate Random Tag for Strange Damaging Weapon",
+			"tag_generator_name": "strange",
+			"tag_generator_values": "5000;5002;5007"
+		},
+		{
+			"itemdefid": 6062,
+			"type": "tag_generator",
+			"name": "Generate Random Tag for Strange Incendiary Damaging Weapon",
+			"tag_generator_name": "strange",
+			"tag_generator_values": "5000;5002;5007"
+		},
+		{
+			"itemdefid": 6063,
+			"type": "tag_generator",
+			"name": "Generate Random Tag for Strange Damaging Sentry",
+			"tag_generator_name": "strange",
+			"tag_generator_values": "5000;5002"
+		},
+		{
+			"itemdefid": 6064,
+			"type": "tag_generator",
+			"name": "Generate Random Tag for Strange Incendiary Damaging Sentry",
+			"tag_generator_name": "strange",
+			"tag_generator_values": "5000;5002"
+		},
+		{
+			"itemdefid": 6065,
+			"type": "tag_generator",
+			"name": "Generate Random Tag for Strange Healing Weapon",
+			"tag_generator_name": "strange",
+			"tag_generator_values": "5000;5003;5006;5008"
+		},
+		{
+			"itemdefid": 6066,
+			"type": "tag_generator",
+			"name": "Generate Random Tag for Strange IAF Ammo Satchel",
+			"tag_generator_name": "strange",
+			"tag_generator_values": "5000"
+		},
+		{
+			"itemdefid": 6067,
+			"type": "tag_generator",
+			"name": "Generate Random Tag for Strange Incendiary Damaging Weapon With Extinguisher",
+			"tag_generator_name": "strange",
+			"tag_generator_values": "5000;5002;5006;5007"
+		},
+		{
+			"itemdefid": 6068,
+			"type": "tag_generator",
+			"name": "Generate Random Tag for Strange Freezing Sentry",
+			"tag_generator_name": "strange",
+			"tag_generator_values": "5000;5005"
+		},
+		{
+			"itemdefid": 6069,
+			"type": "tag_generator",
+			"name": "Generate Random Tag for Strange Explosive Damaging Weapon",
+			"tag_generator_name": "strange",
+			"tag_generator_values": "5000;5002;5007"
+		},
+		{
+			"itemdefid": 6070,
+			"type": "tag_generator",
+			"name": "Generate Random Tag for Strange Explosive Damaging Sentry",
+			"tag_generator_name": "strange",
+			"tag_generator_values": "5000;5002"
+		},
+		{
+			"itemdefid": 6071,
+			"type": "tag_generator",
+			"name": "Generate Random Tag for Strange Healing Amplifier Weapon",
+			"tag_generator_name": "strange",
+			"tag_generator_values": "5000;5003;5006;5008"
+		},
+		{
+			"itemdefid": 6072,
+			"type": "tag_generator",
+			"name": "Generate Random Tag for Strange Healing Damaging Weapon",
+			"tag_generator_name": "strange",
+			"tag_generator_values": "5000;5002;5003;5006;5007;5008"
+		},
+		{
+			"itemdefid": 6073,
+			"type": "tag_generator",
+			"name": "Generate Random Tag for Strange Chainsaw",
+			"tag_generator_name": "strange",
+			"tag_generator_values": "5000;5002;5007"
+		},
+		{
+			"itemdefid": 6074,
+			"type": "tag_generator",
+			"name": "Generate Random Tag for Strange Hand Welder",
+			"tag_generator_name": "strange",
+			"tag_generator_values": "5000"
+		},
+		{
+			"itemdefid": 6075,
+			"type": "tag_generator",
+			"name": "Generate Random Tag for Strange SM75 Combat Flares",
+			"tag_generator_name": "strange",
+			"tag_generator_values": "5000"
+		},
+		{
+			"itemdefid": 6076,
+			"type": "tag_generator",
+			"name": "Generate Random Tag for Strange Blocking Weapon",
+			"tag_generator_name": "strange",
+			"tag_generator_values": "5000"
+		},
+		{
+			"itemdefid": 6077,
+			"type": "tag_generator",
+			"name": "Generate Random Tag for Strange Amplifier Weapon",
+			"tag_generator_name": "strange",
+			"tag_generator_values": "5000"
+		},
+		{
+			"itemdefid": 6078,
+			"type": "tag_generator",
+			"name": "Generate Random Tag for Strange Freezing Weapon",
+			"tag_generator_name": "strange",
+			"tag_generator_values": "5000;5005;5006"
+		},
+		{
+			"itemdefid": 6079,
+			"type": "tag_generator",
+			"name": "Generate Random Tag for Strange Adrenaline",
+			"tag_generator_name": "strange",
+			"tag_generator_values": "5000"
+		},
+		{
+			"itemdefid": 6080,
+			"type": "tag_generator",
+			"name": "Generate Random Tag for Strange Shocking Damaging Sentry",
+			"tag_generator_name": "strange",
+			"tag_generator_values": "5000;5002"
+		},
+		{
+			"itemdefid": 6081,
+			"type": "tag_generator",
+			"name": "Generate Random Tag for Strange Shocking Blocking Weapon",
+			"tag_generator_name": "strange",
+			"tag_generator_values": "5000;5008"
+		},
+		{
+			"itemdefid": 6082,
+			"type": "tag_generator",
+			"name": "Generate Random Tag for Strange Flashlight Attachment",
+			"tag_generator_name": "strange",
+			"tag_generator_values": "5000"
+		},
+		{
+			"itemdefid": 6083,
+			"type": "tag_generator",
+			"name": "Generate Random Tag for Strange IAF Power Fist Attachment",
+			"tag_generator_name": "strange",
+			"tag_generator_values": "5000;5002;5007"
+		},
+		{
+			"itemdefid": 6084,
+			"type": "tag_generator",
+			"name": "Generate Random Tag for Strange MNV34 Nightvision Goggles",
+			"tag_generator_name": "strange",
+			"tag_generator_values": "5000"
+		},
+		{
+			"itemdefid": 6085,
+			"type": "tag_generator",
+			"name": "Generate Random Tag for Strange TG-05 Gas Grenades",
+			"tag_generator_name": "strange",
+			"tag_generator_values": "5000;5002;5007"
+		}
+	]
+}
