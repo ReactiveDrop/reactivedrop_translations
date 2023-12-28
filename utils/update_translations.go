@@ -172,9 +172,18 @@ func nextRealToken(r *bufio.Reader) (s string, t vdf.Token, indent bool, comment
 		switch t {
 		case vdf.TokenSpace:
 			indent = indent || strings.ContainsRune(s, '\t')
+			comments += s
 		case vdf.TokenComment:
 			comments += s
 		default:
+			// remove anything before the newline after the previous string
+			if i := strings.IndexByte(comments, '\n'); i != -1 {
+				comments = comments[i+1:]
+			}
+
+			// remove any indentation in the comment string (it will be re-added after newlines if needed; use spaces in comments)
+			comments = strings.ReplaceAll(comments, "\t", "")
+
 			return
 		}
 	}
@@ -448,22 +457,6 @@ func updateLanguageFile(source *translatedStrings, prefix, lang, suffix string) 
 		}
 
 		if x.indent {
-			check(indentNewLine.WriteString(&buf, x.tcomment))
-		} else {
-			check(buf.WriteString(x.tcomment))
-		}
-
-		check(1, buf.WriteByte('"'))
-		check(vdf.Escape.WriteString(&buf, c.key))
-		check(buf.WriteString("\"\t\t\""))
-		check(vdf.Escape.WriteString(&buf, x.translated))
-		check(buf.WriteString("\"\r\n"))
-
-		if x.indent {
-			check(buf.WriteString("\t\t"))
-		}
-
-		if x.indent {
 			check(indentNewLine.WriteString(&buf, x.scomment))
 		} else {
 			check(buf.WriteString(x.scomment))
@@ -474,6 +467,22 @@ func updateLanguageFile(source *translatedStrings, prefix, lang, suffix string) 
 		check(vdf.Escape.WriteString(&buf, c.key))
 		check(buf.WriteString("\"\t\t\""))
 		check(vdf.Escape.WriteString(&buf, x.source))
+		check(buf.WriteString("\"\r\n"))
+
+		if x.indent {
+			check(buf.WriteString("\t\t"))
+		}
+
+		if x.indent {
+			check(indentNewLine.WriteString(&buf, x.tcomment))
+		} else {
+			check(buf.WriteString(x.tcomment))
+		}
+
+		check(1, buf.WriteByte('"'))
+		check(vdf.Escape.WriteString(&buf, c.key))
+		check(buf.WriteString("\"\t\t\""))
+		check(vdf.Escape.WriteString(&buf, x.translated))
 		check(buf.WriteString("\"\r\n"))
 	}
 
