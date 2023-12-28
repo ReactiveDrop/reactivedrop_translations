@@ -58,6 +58,8 @@ func countIndentedLines(r io.Reader) int {
 			if state == 1 {
 				state = 2
 			}
+		case '\r':
+			// ignore
 		case '\n':
 			state = 0
 		default:
