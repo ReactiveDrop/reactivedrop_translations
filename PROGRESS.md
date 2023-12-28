@@ -11,7 +11,7 @@
 | [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Hungarian](#non-curated-languages) | 53 | 138 | 42 | 3038 | 109 | 206 | 975 | 147 |
 | [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 1 |
-| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 102 | 1 |
+| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 102 | ✔️ |
 | [Korean](#koreana-한국어) | 9 | 10 | 38 | 1534 | 109 | 28 | 446 | 48 |
 | [Norwegian Bokmål](#non-curated-languages) | 71 | 708 | 47 | 3744 | 109 | 206 | 710 | 147 |
 | [Polish](#polish-polski) | 30 | 2004 | 42 | 3038 | 109 | 206 | 706 | 143 |
@@ -605,10 +605,6 @@
 
 - [misc/signage/signage_japanese.vdf](misc/signage/signage_japanese.vdf) has 67 untranslated strings.
 - [platform/vgui_japanese.txt](platform/vgui_japanese.txt) has 35 untranslated strings.
-
-### Upcoming Release Notes
-
-- [20240101_japanese.xml](release_notes/20240101_japanese.xml) has 1 indented lines.
 
 </details>
 
