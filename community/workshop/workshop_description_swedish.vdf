@@ -3,13 +3,13 @@
 "Language"		"swedish"
 "Tokens"
 {
-"Workshop_title"		"Reactive Drop är byggt av gemenskapen"
 "[english]Workshop_title"		"Reactive Drop is community-created"
-"Workshop_desc"		"På Workshoppen kan du hitta nya kampanjer, uppdrag, utmaningar, skins, och anpassningar gjord av spelare som du. Installera nya redo-att-spela med endast ett tryck!"
+"Workshop_title"		"Reactive Drop är byggt av gemenskapen"
 "[english]Workshop_desc"		"On the Workshop you can find new campaigns, missions, challenges, skins, and customizations made by players like you. Install new ready-to-play content in a single click!"
-"BossFight2023_title"		"Kart Utmaning 2023: \"Bosskamp\""
+"Workshop_desc"		"På Workshoppen kan du hitta nya kampanjer, uppdrag, utmaningar, skins, och anpassningar gjord av spelare som du. Installera nya redo-att-spela med endast ett tryck!"
 "[english]BossFight2023_title"		"Mapping Competition 2023: \"Boss Fight\""
-"BossFight2023_desc"		"Det är [url=https://store.steampowered.com/news/app/563560/view/3267945303133398273]Alien Swarm: Reactive Drop's sjätte födelsedag[/url], och vi kör en kart utmaning som alla kan gå med i!\n\nDetta års tema är \"Boss Fight\". Inlägg måste vara taggade med [b]BossFight2023[/b]. Tävlingen slutar augusti den första. Om du behöver hjälp att starta, kolla ut [url=https://steamcommunity.com/app/563560/discussions/1/]Modding / Mapping Help and Tips[/url] forumet."
+"BossFight2023_title"		"Kart Utmaning 2023: \"Bosskamp\""
 "[english]BossFight2023_desc"		"It's [url=https://store.steampowered.com/news/app/563560/view/3267945303133398273]Alien Swarm: Reactive Drop's 6th birthday[/url], and we're running a mapping competition that anyone can enter!\n\nThis year's theme is \"Boss Fight\". Entries must be tagged with [b]BossFight2023[/b]. Competition ends August 1st. If you need help getting started, check out the [url=https://steamcommunity.com/app/563560/discussions/1/]Modding / Mapping Help and Tips[/url] forum."
+"BossFight2023_desc"		"Det är [url=https://store.steampowered.com/news/app/563560/view/3267945303133398273]Alien Swarm: Reactive Drop's sjätte födelsedag[/url], och vi kör en kart utmaning som alla kan gå med i!\n\nDetta års tema är \"Boss Fight\". Inlägg måste vara taggade med [b]BossFight2023[/b]. Tävlingen slutar augusti den första. Om du behöver hjälp att starta, kolla ut [url=https://steamcommunity.com/app/563560/discussions/1/]Modding / Mapping Help and Tips[/url] forumet."
 }
 }
