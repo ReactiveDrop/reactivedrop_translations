@@ -10,7 +10,7 @@
 | [French](#french-français) | 29 | 138 | 42 | 2403 | 108 | 206 | 650 | 125 |
 | [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Hungarian](#non-curated-languages) | 53 | 138 | 42 | 3038 | 109 | 206 | 975 | 147 |
-| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 1 |
+| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 102 | ✔️ |
 | [Korean](#koreana-한국어) | 9 | 10 | 38 | 1534 | 109 | 28 | 446 | 48 |
 | [Norwegian Bokmål](#non-curated-languages) | 71 | 708 | 47 | 3744 | 109 | 206 | 710 | 147 |
@@ -589,9 +589,7 @@
 
 </summary>
 
-### Upcoming Release Notes
-
-- [20240101_italian.xml](release_notes/20240101_italian.xml) has 2 indented lines.
+✓ Up to date!
 
 </details>
 
