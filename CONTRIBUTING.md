@@ -96,6 +96,10 @@ Use an editor to make your changes and integrate them through github. Read more 
 Make sure your text editor preserves file encodings.  
 New files need to have the same encoding as their english counterparts (eg. labsmail1_czech.txt needs to be UTF-8 encoded just like labsmail1_english.txt). If you use Notepad++ you can see the file's encoding in the menu Encoding. vscode shows the files encoding in its status bar.
 
+## Special characters and placeholders
+Quotation marks need to be escaped like this `\"space station\"`.
+If there are words between `%percent_signs%`, leave them as-is (these are dynamically replaced with numbers in the game later).
+
 ## File type
 ### Achievements
 These files are automatically created based on the `resource/reactivedrop_*.txt` files, after you've made an commit. You can manually trigger an update of the files locally through executing `utils/translation-sync-tool.exe` before your commit.
@@ -107,7 +111,7 @@ These files are automatically created based on the `resource/reactivedrop_*.txt`
 Create a copy of each mail and news file, and replace the language suffix, eg. `labsmail1_russian.txt`. Translate the contents of each file. See labsmail1_russian.txt as an example.
 
 ### BaseModUi, CloseCaption, GameUi, ReactiveDrop, and Community VDF files
-In these files(eg. basemodui_czech.txt) the untranslated strings are indented by two tabs to be easily visible. Translate each indented line and remove the two tabs in front of it. If there are words between `%percent_signs%`, leave them as-is (they are replaced with numbers in the game later).
+In these files(eg. basemodui_czech.txt) the untranslated strings are indented by two tabs to be easily visible. Translate each indented line and remove the two tabs in front of it. 
 
 ### Workshop
 Create a copy of the English file and rename it to your language suffix (eg. workshop_tags_schinese.json). Translate the contents of the file. In JSON files, only translate text on the right side of the colon `:`.
