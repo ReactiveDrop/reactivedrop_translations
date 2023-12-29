@@ -98,7 +98,7 @@ New files need to have the same encoding as their english counterparts (eg. labs
 
 ## File type
 ### Achievements
-These files are automatically created based on the `resource/reactivedrop_*.txt` files. You can manually trigger an update of the files through executing `utils/translation-sync-tool.exe`.
+These files are automatically created based on the `resource/reactivedrop_*.txt` files, after you've an commit. You can manually trigger an update of the files locally through executing `utils/translation-sync-tool.exe` before your commit.
 * sync-tool: Very useful verification tool!
  1. It can help solving issues with ci-checks. After having manually modified the content of achievements, it is highly recommended to let the tool check for problems.
  2. It can automatically synchronize achievement fields from `reactivedrop_*.txt` to `563560_loc_*.vdf`. This can be very useful to avoid the time-consuming task of comparing duplicated work.
