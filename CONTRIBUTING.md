@@ -107,7 +107,7 @@ These files are automatically created based on the `resource/reactivedrop_*.txt`
 Create a copy of each mail and news file, and replace the language suffix, eg. `labsmail1_russian.txt`. Translate the contents of each file. See labsmail1_russian.txt as an example.
 
 ### BaseModUi, CloseCaption, GameUi, ReactiveDrop, and Community VDF files
-In these files(eg. basemodui_czech.txt) the untranslated strings are indented by two tabs to be easily visible. Translate each indented line and remove the two tabs in front of it. If there are words between `%percent_signs%`, leave them as-is (they are replaced with numbers in the game later). Don't change any lines that aren't suffixed with a language name.
+In these files(eg. basemodui_czech.txt) the untranslated strings are indented by two tabs to be easily visible. Translate each indented line and remove the two tabs in front of it. If there are words between `%percent_signs%`, leave them as-is (they are replaced with numbers in the game later).
 
 ### Workshop
 Create a copy of the English file and rename it to your language suffix (eg. workshop_tags_schinese.json). Translate the contents of the file. In JSON files, only translate text on the right side of the colon `:`.
