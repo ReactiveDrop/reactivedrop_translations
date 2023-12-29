@@ -92,7 +92,7 @@ Use an editor to make your changes and integrate them through github. Read more 
 
 # Files
 
-## File Encoding
+## File encoding
 Make sure your text editor preserves file encodings.  
 New files need to have the same encoding as their english counterparts (eg. labsmail1_czech.txt needs to be UTF-8 encoded just like labsmail1_english.txt). If you use Notepad++ you can see the file's encoding in the menu Encoding. vscode shows the files encoding in its status bar.
 
