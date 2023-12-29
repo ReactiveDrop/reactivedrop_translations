@@ -33,7 +33,7 @@
 			"display_type_vietnamese": "Huy chương cộng đồng",
 			"icon_url": "https://stats.reactivedrop.com/static/medals/community_translator2.png",
 			"icon_url_large": "https://stats.reactivedrop.com/static/medals/community_translator2_large.png",
-			"name_color": "{#item_color_community}",
+			"name_color": "70B04A",
 			"tags": "rarity:legendary;slot:medal",
 			"item_slot": "medal"
 		},
@@ -69,7 +69,7 @@
 			"display_type_vietnamese": "Huy chương cộng đồng",
 			"icon_url": "https://stats.reactivedrop.com/static/medals/community_programmer2.png",
 			"icon_url_large": "https://stats.reactivedrop.com/static/medals/community_programmer2_large.png",
-			"name_color": "{#item_color_community}",
+			"name_color": "70B04A",
 			"tags": "rarity:legendary;slot:medal",
 			"item_slot": "medal"
 		},
@@ -105,7 +105,7 @@
 			"display_type_vietnamese": "Huy chương cộng đồng",
 			"icon_url": "https://stats.reactivedrop.com/static/medals/community_mapper2.png",
 			"icon_url_large": "https://stats.reactivedrop.com/static/medals/community_mapper2_large.png",
-			"name_color": "{#item_color_community}",
+			"name_color": "70B04A",
 			"tags": "rarity:legendary;slot:medal",
 			"item_slot": "medal"
 		},
@@ -141,7 +141,7 @@
 			"display_type_vietnamese": "Huy chương cộng đồng",
 			"icon_url": "https://stats.reactivedrop.com/static/medals/community_challenger2.png",
 			"icon_url_large": "https://stats.reactivedrop.com/static/medals/community_challenger2_large.png",
-			"name_color": "{#item_color_community}",
+			"name_color": "70B04A",
 			"tags": "rarity:legendary;slot:medal",
 			"item_slot": "medal"
 		},
@@ -177,7 +177,7 @@
 			"display_type_vietnamese": "Huy chương cộng đồng",
 			"icon_url": "https://stats.reactivedrop.com/static/medals/community_guide2.png",
 			"icon_url_large": "https://stats.reactivedrop.com/static/medals/community_guide2_large.png",
-			"name_color": "{#item_color_community}",
+			"name_color": "70B04A",
 			"tags": "rarity:legendary;slot:medal",
 			"item_slot": "medal"
 		},
@@ -213,7 +213,7 @@
 			"display_type_vietnamese": "Huy chương cộng đồng",
 			"icon_url": "https://stats.reactivedrop.com/static/medals/community_artist2.png",
 			"icon_url_large": "https://stats.reactivedrop.com/static/medals/community_artist2_large.png",
-			"name_color": "{#item_color_community}",
+			"name_color": "70B04A",
 			"tags": "rarity:legendary;slot:medal",
 			"item_slot": "medal"
 		},
@@ -247,7 +247,7 @@
 			"display_type_vietnamese": "Huy chương cộng đồng",
 			"icon_url": "https://stats.reactivedrop.com/static/medals/community_reporter2.png",
 			"icon_url_large": "https://stats.reactivedrop.com/static/medals/community_reporter2_large.png",
-			"name_color": "{#item_color_community}",
+			"name_color": "70B04A",
 			"tags": "rarity:legendary;slot:medal",
 			"item_slot": "medal"
 		},
@@ -255,8 +255,6 @@
 			"itemdefid": 29,
 			"type": "item",
 			"name_english": "Streamer",
-			"name_german": "Streamer",
-			"name_italian": "Streamer",
 			"name_japanese": "配信者",
 			"name_russian": "Стример",
 			"name_schinese": "视频作者",
@@ -279,7 +277,7 @@
 			"display_type_vietnamese": "Huy chương cộng đồng",
 			"icon_url": "https://stats.reactivedrop.com/static/medals/community_streamer2.png",
 			"icon_url_large": "https://stats.reactivedrop.com/static/medals/community_streamer2_large.png",
-			"name_color": "{#item_color_community}",
+			"name_color": "70B04A",
 			"tags": "rarity:legendary;slot:medal",
 			"item_slot": "medal"
 		},
@@ -308,11 +306,11 @@
 			"display_type_portuguese": "Medalha Comunitária",
 			"display_type_russian": "Медаль сообщества",
 			"display_type_schinese": "社区勋章",
-			"display_type_vietnamese":"Huy chương cộng đồng",
+			"display_type_vietnamese": "Huy chương cộng đồng",
 			"icon_url": "https://stats.reactivedrop.com/static/medals/contest/mapping_participant_2023.png",
 			"icon_url_large": "https://stats.reactivedrop.com/static/medals/contest/mapping_participant_2023_large.png",
 			"love": "wins",
-			"name_color": "{#item_color_community}",
+			"name_color": "70B04A",
 			"tags": "rarity:legendary;slot:medal",
 			"item_slot": "medal"
 		}
