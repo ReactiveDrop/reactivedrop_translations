@@ -8,10 +8,10 @@
 | [Dutch](#non-curated-languages) | 53 | 2004 | 42 | 3038 | 189 | 206 | 710 | 146 |
 | [Finnish](#non-curated-languages) | 44 | 2004 | 42 | 2962 | 190 | 206 | 709 | 146 |
 | [French](#french-français) | 29 | 138 | 42 | 2403 | 188 | 206 | 650 | 125 |
-| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | 1 | ✔️ | ✔️ | ✔️ |
+| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Hungarian](#non-curated-languages) | 53 | 138 | 42 | 3038 | 189 | 206 | 975 | 147 |
 | [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | 2 | ✔️ | ✔️ | ✔️ |
-| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | ✔️ | 1 | ✔️ | 102 | ✔️ |
+| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 102 | ✔️ |
 | [Korean](#koreana-한국어) | 9 | 10 | 38 | 1534 | 189 | 28 | 446 | 48 |
 | [Norwegian Bokmål](#non-curated-languages) | 71 | 708 | 47 | 3744 | 189 | 206 | 710 | 147 |
 | [Polish](#polish-polski) | 30 | 2004 | 42 | 3038 | 189 | 206 | 706 | 143 |
@@ -581,9 +581,7 @@
 
 </summary>
 
-### Strings
-
-- [items_german.vdf](community/inventory_service/items_german.vdf) has 1 untranslated strings.
+✓ Up to date!
 
 </details>
 
@@ -607,7 +605,6 @@
 
 ### Strings
 
-- [items_japanese.vdf](community/inventory_service/items_japanese.vdf) has 1 untranslated strings.
 - [misc/signage/signage_japanese.vdf](misc/signage/signage_japanese.vdf) has 67 untranslated strings.
 - [platform/vgui_japanese.txt](platform/vgui_japanese.txt) has 35 untranslated strings.
 
