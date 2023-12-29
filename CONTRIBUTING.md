@@ -107,13 +107,10 @@ These files are automatically created based on the `resource/reactivedrop_*.txt`
 Create a copy of each mail and news file, and replace the language suffix, eg. `labsmail1_russian.txt`. Translate the contents of each file. See labsmail1_russian.txt as an example.
 
 ### BaseModUi, CloseCaption, GameUi, ReactiveDrop, and Community VDF files
-In these files(eg. basemodui_czech.txt) the untranslated strings are indented by two tabs to be easily visible. Translate each indented line and remove the two tabs in front of it.
+In these files(eg. basemodui_czech.txt) the untranslated strings are indented by two tabs to be easily visible. Translate each indented line and remove the two tabs in front of it. If there are words between `%percent_signs%`, leave them as-is (they are replaced with numbers in the game later). Don't change any lines that aren't suffixed with a language name.
 
 ### Workshop
 Create a copy of the English file and rename it to your language suffix (eg. workshop_tags_schinese.json). Translate the contents of the file. In JSON files, only translate text on the right side of the colon `:`.
-
-### Item Schema
-Duplicate lines with an `_english` suffix and rename them according to your language. Keep each block of translations in alphabetical order by language name. If there are words between `%percent_signs%`, leave them as-is (they are replaced with numbers in the game later). Don't change any lines that aren't suffixed with a language name.
 
 ## Changing English strings
 If you change an english string in a way that does not require editing other languages (such as fixing a typo that doesn't change the meaning), you'll need to also change the `[english]` copy of the string in each of the other language files too (for positive ci-checks later on). The sync-tool will do the hard work for you. Start it after you've made your change in the english file. 
@@ -121,7 +118,7 @@ If you change an english string in a way that does not require editing other lan
 ## How to test your translation before submitting it
 First of all, Go to Steam > Library > Alien Swarm: Reactive Drop, right click and choose 'Properties'.
 1. At 'General': Select the language you are translating into.
-2. At 'Betas': Opt into the beta. This is recommended especially if you're translation recently added content.
+2. At 'Betas': Opt into the beta. This is recommended especially if you're working on recently added content.
 3. At 'Installed Files': Click 'Browse...' to open your game folder.
 4. Enter the subfolders '.\reactivedrop\resource', like: `Steam\steamapps\common\Alien Swarm Reactive Drop\reactivedrop\resource`
 5. Copy your translated files into their respective folders (.\resource).
