@@ -116,7 +116,7 @@ Create a copy of the English file and rename it to your language suffix (eg. wor
 Duplicate lines with an `_english` suffix and rename them according to your language. Keep each block of translations in alphabetical order by language name. If there are words between `%percent_signs%`, leave them as-is (they are replaced with numbers in the game later). Don't change any lines that aren't suffixed with a language name.
 
 ## Changing English strings
-If you change an English string in a way that does not require editing other languages (such as fixing a typo that doesn't change the meaning), you'll need to also change the `[english]` copy of the string in each of the other language files too (for positive ci-checks later on). The sync-tool will do the hard work for you. Start it after you've made your change in the english file. 
+If you change an english string in a way that does not require editing other languages (such as fixing a typo that doesn't change the meaning), you'll need to also change the `[english]` copy of the string in each of the other language files too (for positive ci-checks later on). The sync-tool will do the hard work for you. Start it after you've made your change in the english file. 
 
 ## How to test your translation before submitting it
 First of all, Go to Steam > Library > Alien Swarm: Reactive Drop, right click and choose 'Properties'.
