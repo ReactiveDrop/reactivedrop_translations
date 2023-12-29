@@ -94,10 +94,10 @@ Use an editor to make your changes and integrate them through github. Read more 
 
 ## File encoding
 Make sure your text editor preserves file encodings.  
-New files need to have the same encoding as their english counterparts (eg. labsmail1_czech.txt needs to be UTF-8 encoded just like labsmail1_english.txt). If you use Notepad++ you can see the file's encoding in the menu Encoding. vscode shows the files encoding in its status bar.
+New files need to have the same encoding as their english counterparts (eg. labsmail1_czech.txt needs to be UTF-8 encoded just like labsmail1_english.txt). If you use Notepad++ you can see the file's encoding in the menu Encoding. Visual Studio Code shows the files encoding in its status bar.
 
 ## Special characters and placeholders
-Quotation marks need to be escaped like this `\"space station\"`.
+Quotation marks inside your translations need to be escaped like this `\"Space Station\"`.
 If there are words between `%percent_signs%`, leave them as-is (these are dynamically replaced with numbers in the game later).
 
 ## File type
