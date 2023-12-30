@@ -104,7 +104,7 @@ If there are words between `%percent_signs%`, leave them as-is (these are dynami
 ### Achievements
 Find and edit achievement related strings in `resource/reactivedrop_*.txt`.  
 This repo includes a folder named *achievements*. **Do not edit files in this folder**.  
-The files in this folder are automatically updated based on the forementioned textfiles.
+The files in this folder are automatically updated based on the forementioned text files.
 
 ### Mail and News
 Create a copy of each mail and news file, and replace the language suffix, eg. `labsmail1_russian.txt`. Translate the contents of each file. See labsmail1_russian.txt as an example.
@@ -117,18 +117,18 @@ Create a copy of the English file and rename it to your language suffix (eg. wor
 
 ## The sync tool
 In the folder `utils` you'll find the *translation-sync-tool*.
-Most of its work is done automatically (after you've made a commit), but you may find it useful to work with manually, in some edgecases.
+Most of its work is done automatically (after you've made a commit), but you may find it useful to work with manually, in some edge cases.
 
 It has several functions:
 * finds syntax errors
-* compares textfiles of different languages for consistency
+* compares text files of different languages for consistency
 * generates vdf files and progress-reports
 
 It's useful for:
 * manual continuous integration checks
 * batch edits (like changing english reference strings)
 
-Executing `utils/translation-sync-tool.exe` will synchronize achievement fields from `reactivedrop_*.txt` to `563560_loc_*.vdf` as also throw an error if there is somethign wrong with the files.  
+Executing `utils/translation-sync-tool.exe` will synchronize achievement fields from `reactivedrop_*.txt` to `563560_loc_*.vdf` as also throw an error if there is something wrong with the files.  
 If you decide to launch it with `translation-sync-tool.exe --help` you'll get a list of possible command line parameters.
 * **-input-manifest** *compile the steam input manifest*
 * **-markdown** *generate a markdown translation progress report*
