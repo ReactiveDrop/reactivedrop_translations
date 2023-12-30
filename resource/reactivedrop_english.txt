@@ -5167,7 +5167,9 @@
 "asw_infection_lastStand_used"	"%s1 activated Last Stand mode."
 "asw_infection_lastStand_timeAdd"	"+60 seconds to the match timer."
 "asw_infection_win_human"	"Humans win!"
+"asw_infection_win_human_hud"	"Humans win"
 "asw_infection_win_zombie"	"Zombies win!"
+"asw_infection_win_zombie_hud"	"Zombies win"
 "asw_infection_survivors"	"Survivors: %s1."
 "asw_infection_starts_in"	"First zombie appears in: %s1"
 // %s1 is a meter made up of █ and spaces; %s2 is a percentage.
