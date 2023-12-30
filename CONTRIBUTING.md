@@ -102,10 +102,9 @@ If there are words between `%percent_signs%`, leave them as-is (these are dynami
 
 ## File type
 ### Achievements
-These files are automatically created based on the `resource/reactivedrop_*.txt` files, after you've made an commit. You can manually trigger an update of the files locally through executing `utils/translation-sync-tool.exe` before your commit.
-* sync-tool: Very useful verification tool!
- 1. It can help solving issues with ci-checks. After having manually modified the content of achievements, it is highly recommended to let the tool check for problems.
- 2. It can automatically synchronize achievement fields from `reactivedrop_*.txt` to `563560_loc_*.vdf`. This can be very useful to avoid the time-consuming task of comparing duplicated work.
+Find and edit achievement related strings in `resource/reactivedrop_*.txt`.  
+This repo includes a folder named *achievements*. **Do not edit files in this folder**.  
+The files in this folder are automatically updated based on the forementioned textfiles.
 
 ### Mail and News
 Create a copy of each mail and news file, and replace the language suffix, eg. `labsmail1_russian.txt`. Translate the contents of each file. See labsmail1_russian.txt as an example.
@@ -116,8 +115,25 @@ In these files(eg. basemodui_czech.txt) the untranslated strings are indented by
 ### Workshop
 Create a copy of the English file and rename it to your language suffix (eg. workshop_tags_schinese.json). Translate the contents of the file. In JSON files, only translate text on the right side of the colon `:`.
 
-## Changing English strings
-If you change an english string in a way that does not require editing other languages (such as fixing a typo that doesn't change the meaning), you'll need to also change the `[english]` copy of the string in each of the other language files too (for positive ci-checks later on). The sync-tool will do the hard work for you. Start it after you've made your change in the english file. 
+## The sync tool
+In the folder `utils` you'll find the *translation-sync-tool*.
+Most of its work is done automatically (after you've made a commit), but you may find it useful to work with manually, in some edgecases.
+
+It has several functions:
+* finds syntax errors
+* compares textfiles of different languages for consistency
+* generates vdf files and progress-reports
+
+It's useful for:
+* manual continuous integration checks
+* batch edits (like changing english reference strings)
+
+Executing `utils/translation-sync-tool.exe` will synchronize achievement fields from `reactivedrop_*.txt` to `563560_loc_*.vdf` as also throw an error if there is somethign wrong with the files.  
+If you decide to launch it with `translation-sync-tool.exe --help` you'll get a list of possible command line parameters.
+* **-input-manifest** *compile the steam input manifest*
+* **-markdown** *generate a markdown translation progress report*
+* **-only-update** *only update source strings; do not reset differing translations*
+* **-render** *render derived files (except the steam input manifest)*
 
 ## How to test your translation before submitting it
 First of all, Go to Steam > Library > Alien Swarm: Reactive Drop, right click and choose 'Properties'.
