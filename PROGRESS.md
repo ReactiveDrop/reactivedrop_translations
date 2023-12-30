@@ -8,7 +8,7 @@
 | [Dutch](#non-curated-languages) | 53 | 2004 | 42 | 3040 | 252 | 206 | 710 | 146 |
 | [Finnish](#non-curated-languages) | 44 | 2004 | 42 | 2964 | 253 | 206 | 709 | 146 |
 | [French](#french-français) | 29 | 138 | 42 | 2405 | 251 | 206 | 650 | 125 |
-| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | 2 | ✔️ | ✔️ | ✔️ | ✔️ |
+| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Hungarian](#non-curated-languages) | 53 | 138 | 42 | 3040 | 252 | 206 | 975 | 147 |
 | [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | 2 | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | 2 | ✔️ | ✔️ | 102 | ✔️ |
@@ -579,9 +579,7 @@
 
 </summary>
 
-### Strings
-
-- [reactivedrop_german.txt](resource/reactivedrop_german.txt) has 2 untranslated strings.
+✓ Up to date!
 
 </details>
 
