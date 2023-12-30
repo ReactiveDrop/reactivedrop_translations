@@ -224,7 +224,7 @@
 "[english]item_achievement_medal_infection_deathmatch_stat_survive"		"Rounds Survived"
 "item_achievement_medal_infection_deathmatch_stat_survive"		"存活回合数"
 "[english]item_achievement_medal_infection_deathmatch_stat_tags"		"Zombie Infections Spread"
-"item_achievement_medal_infection_deathmatch_stat_tags"		"病毒散播数"
+"item_achievement_medal_infection_deathmatch_stat_tags"		"病毒传染数"
 // Kills by human players while in "last stand" mode, which can be activated when there are few human players remaining.
 "[english]item_achievement_medal_infection_deathmatch_stat_laststand"		"Last Stand Kills"
 "item_achievement_medal_infection_deathmatch_stat_laststand"		"血战模式击杀数"
