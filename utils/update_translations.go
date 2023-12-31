@@ -3,6 +3,7 @@ package main
 import (
 	"bufio"
 	"bytes"
+	"encoding/json"
 	"encoding/xml"
 	"errors"
 	"flag"
@@ -10,6 +11,9 @@ import (
 	"io"
 	"os"
 	"path/filepath"
+	"regexp"
+	"sort"
+	"strconv"
 	"strings"
 	"unicode/utf8"
 
@@ -19,6 +23,7 @@ import (
 var (
 	flagMarkdown      = flag.Bool("markdown", false, "generate a markdown translation progress report")
 	flagInputManifest = flag.Bool("input-manifest", false, "compile the steam input manifest")
+	flagRender        = flag.Bool("render", false, "render derived files (except the steam input manifest)")
 	flagOnlyUpdate    = flag.Bool("only-update", false, "only update source strings; do not reset differing translations")
 )
 
@@ -44,13 +49,17 @@ func main() {
 		syncTranslations(prefix, ".vdf", false)
 	}
 
-	updateDerivedFiles(sourceLanguage)
-	for _, lang := range derivedLanguages {
-		if emptyLanguages[lang] {
-			continue
+	if *flagRender {
+		updateDerivedFiles(sourceLanguage)
+		for _, lang := range derivedLanguages {
+			if emptyLanguages[lang] {
+				continue
+			}
+
+			updateDerivedFiles(lang)
 		}
 
-		updateDerivedFiles(lang)
+		renderInventorySchema()
 	}
 
 	for _, prefix := range txtAddonLanguageFiles {
@@ -163,9 +172,18 @@ func nextRealToken(r *bufio.Reader) (s string, t vdf.Token, indent bool, comment
 		switch t {
 		case vdf.TokenSpace:
 			indent = indent || strings.ContainsRune(s, '\t')
+			comments += s
 		case vdf.TokenComment:
 			comments += s
 		default:
+			// remove anything before the newline after the previous string
+			if i := strings.IndexByte(comments, '\n'); i != -1 {
+				comments = comments[i+1:]
+			}
+
+			// remove any indentation in the comment string (it will be re-added after newlines if needed; use spaces in comments)
+			comments = strings.ReplaceAll(comments, "\t", "")
+
 			return
 		}
 	}
@@ -354,6 +372,7 @@ func check(_ int, err error) {
 }
 
 var indentNewLine = strings.NewReplacer("\n", "\n\t\t")
+var unindentBlankLine = strings.NewReplacer("\t\t\r\n", "\r\n")
 
 func updateLanguageFile(source *translatedStrings, prefix, lang, suffix string) (upToDate, total int) {
 	filename := prefix + "_" + lang + suffix
@@ -435,27 +454,8 @@ func updateLanguageFile(source *translatedStrings, prefix, lang, suffix string) 
 		}
 
 		if x.indent {
-			check(buf.WriteString("\t\t"))
-		}
-
-		if x.indent {
-			check(indentNewLine.WriteString(&buf, x.tcomment))
-		} else {
-			check(buf.WriteString(x.tcomment))
-		}
-
-		check(1, buf.WriteByte('"'))
-		check(vdf.Escape.WriteString(&buf, c.key))
-		check(buf.WriteString("\"\t\t\""))
-		check(vdf.Escape.WriteString(&buf, x.translated))
-		check(buf.WriteString("\"\r\n"))
-
-		if x.indent {
-			check(buf.WriteString("\t\t"))
-		}
-
-		if x.indent {
-			check(indentNewLine.WriteString(&buf, x.scomment))
+			c := indentNewLine.Replace("\t\t" + x.scomment)
+			check(unindentBlankLine.WriteString(&buf, c))
 		} else {
 			check(buf.WriteString(x.scomment))
 		}
@@ -465,6 +465,19 @@ func updateLanguageFile(source *translatedStrings, prefix, lang, suffix string) 
 		check(vdf.Escape.WriteString(&buf, c.key))
 		check(buf.WriteString("\"\t\t\""))
 		check(vdf.Escape.WriteString(&buf, x.source))
+		check(buf.WriteString("\"\r\n"))
+
+		if x.indent {
+			c := indentNewLine.Replace("\t\t" + x.tcomment)
+			check(unindentBlankLine.WriteString(&buf, c))
+		} else {
+			check(buf.WriteString(x.tcomment))
+		}
+
+		check(1, buf.WriteByte('"'))
+		check(vdf.Escape.WriteString(&buf, c.key))
+		check(buf.WriteString("\"\t\t\""))
+		check(vdf.Escape.WriteString(&buf, x.translated))
 		check(buf.WriteString("\"\r\n"))
 	}
 
@@ -604,20 +617,335 @@ func updateRichPresence(lang string) {
 	check(f.WriteString("\t}\r\n}\r\n"))
 }
 
+func renderInventorySchema() {
+	shared, err := loadTranslatedStrings("../community/inventory_service/items_shared.vdf", "none", true)
+	if err != nil {
+		panic(err)
+	}
+
+	languages := make([]*inventoryStrings, len(derivedLanguages)+1)
+	source, err := loadInventoryStrings(sourceLanguage)
+	if err != nil {
+		panic(err)
+	}
+
+	languages[len(derivedLanguages)] = source
+
+	for i, lang := range derivedLanguages {
+		languages[i], err = loadInventoryStrings(lang)
+		if err != nil {
+			panic(err)
+		}
+	}
+
+	sort.Slice(languages, func(i, j int) bool {
+		return languages[i].lang < languages[j].lang
+	})
+
+	names, err := filepath.Glob("../community/inventory_service/template/item-schema-*.json")
+	if err != nil {
+		panic(err)
+	}
+
+	for _, name := range names {
+		renderInventorySchemaFile(name, filepath.Join("../community/inventory_service/rendered", filepath.Base(name)), shared, source, languages)
+	}
+}
+
+func renderInventorySchemaFile(srcName, dstName string, shared *translatedStrings, source *inventoryStrings, languages []*inventoryStrings) {
+	src, err := os.Open(srcName)
+	if err != nil {
+		panic(err)
+	}
+	defer src.Close()
+
+	var buf bytes.Buffer
+
+	in := json.NewDecoder(src)
+	in.UseNumber()
+
+	delims := make([]json.Delim, 0, 8)
+	lastDelim := json.Delim(0)
+	expectingValue := false
+	eachLangPrefix := ""
+
+	for {
+		tok, err := in.Token()
+		if err == io.EOF {
+			var buf2 bytes.Buffer
+
+			err := json.Indent(&buf2, buf.Bytes(), "", "\t")
+			if err != nil {
+				panic(err)
+			}
+
+			buf2.WriteByte('\n') // trailing newline
+
+			err = os.WriteFile(dstName, buf2.Bytes(), 0644)
+			if err != nil {
+				panic(err)
+			}
+
+			break
+		}
+
+		if err != nil {
+			panic(err)
+		}
+
+		switch t := tok.(type) {
+		case json.Delim:
+			buf.WriteString(t.String())
+
+			if t == '{' || t == '[' {
+				delims = append(delims, t)
+			} else if t == '}' {
+				if delims[len(delims)-1] != '{' {
+					panic("unexpected } after " + delims[len(delims)-1].String())
+				}
+
+				delims = delims[:len(delims)-1]
+
+				if in.More() {
+					buf.WriteByte(',')
+				}
+			} else if t == ']' {
+				if delims[len(delims)-1] != '[' {
+					panic("unexpected ] after " + delims[len(delims)-1].String())
+				}
+
+				delims = delims[:len(delims)-1]
+
+				if in.More() {
+					buf.WriteByte(',')
+				}
+			} else {
+				panic("unexpected json.Delim " + t.String())
+			}
+
+			if len(delims) != 0 {
+				lastDelim = delims[len(delims)-1]
+			}
+
+			if eachLangPrefix != "" {
+				panic("unexpected language prefix")
+			}
+
+			expectingValue = false
+		case json.Number:
+			if lastDelim != '[' && !expectingValue {
+				panic("unexpected number")
+			}
+
+			if eachLangPrefix != "" {
+				panic("unexpected language prefix")
+			}
+
+			buf.WriteString(t.String())
+			if in.More() {
+				buf.WriteByte(',')
+			}
+
+			expectingValue = false
+		case string:
+			if lastDelim == '[' || expectingValue {
+				langs := languages
+				if eachLangPrefix == "" {
+					langs = []*inventoryStrings{source}
+				}
+
+				sourceString := performInventorySchemaReplacements(t, shared, source, source)
+				if eachLangPrefix != "" && sourceString == t {
+					panic("no tokens in " + srcName + " field " + eachLangPrefix + "%LANG% (value " + strconv.Quote(t) + ")")
+				}
+
+				for _, lang := range langs {
+					str := performInventorySchemaReplacements(t, shared, source, lang)
+
+					if eachLangPrefix != "" {
+						if lang != source && sourceString == str {
+							continue
+						}
+
+						b, err := json.Marshal(eachLangPrefix + lang.lang)
+						if err != nil {
+							panic(err)
+						}
+
+						buf.Write(b)
+						buf.WriteByte(':')
+					}
+
+					b, err := json.Marshal(str)
+					if err != nil {
+						panic(err)
+					}
+
+					buf.Write(b)
+
+					if in.More() {
+						buf.WriteByte(',')
+					}
+				}
+
+				expectingValue = false
+				eachLangPrefix = ""
+			} else {
+				if strings.HasSuffix(t, "_"+sourceLanguage) {
+					panic("unexpected language suffix in template " + srcName + " (" + t + ")")
+				}
+				for _, lang := range derivedLanguages {
+					if strings.HasSuffix(t, "_"+lang) {
+						panic("unexpected language suffix in template " + srcName + " (" + t + ")")
+					}
+				}
+
+				if strings.HasSuffix(t, "_%LANG%") {
+					eachLangPrefix = t[:len(t)-len("%LANG%")]
+				} else {
+					b, err := json.Marshal(t)
+					if err != nil {
+						panic(err)
+					}
+
+					buf.Write(b)
+
+					buf.WriteByte(':')
+				}
+				expectingValue = true
+			}
+		case bool:
+			if lastDelim != '[' && !expectingValue {
+				panic("unexpected number")
+			}
+
+			if eachLangPrefix != "" {
+				panic("unexpected language prefix")
+			}
+
+			if t {
+				buf.WriteString("true")
+			} else {
+				buf.WriteString("false")
+			}
+
+			if in.More() {
+				buf.WriteByte(',')
+			}
+
+			expectingValue = false
+		default:
+			panic(fmt.Sprintf("unexpected %T %v", t, t))
+		}
+	}
+}
+
+var inventorySchemaPlaceholder = regexp.MustCompile(`\{#[a-z0-9_]+\}`)
+
+func performInventorySchemaReplacements(str string, shared *translatedStrings, source, derived *inventoryStrings) string {
+	return inventorySchemaPlaceholder.ReplaceAllStringFunc(str, func(placeholder string) string {
+		token := placeholder[2 : len(placeholder)-1]
+
+		i, ok := shared.lookup[token]
+		if ok {
+			return shared.strings[i].translated
+		}
+
+		for _, f := range derived.files {
+			if f != nil {
+				i, ok := f.lookup[token]
+				if ok {
+					return f.strings[i].translated
+				}
+			}
+		}
+
+		for _, f := range source.files {
+			if f != nil {
+				i, ok := f.lookup[token]
+				if ok {
+					return f.strings[i].translated
+				}
+			}
+		}
+
+		panic("missing string in inventory schema: " + placeholder)
+	})
+}
+
+type inventoryStrings struct {
+	lang  string
+	files [3]*translatedStrings
+}
+
+func loadInventoryStrings(lang string) (*inventoryStrings, error) {
+	reactivedrop, err := loadTranslatedStrings("../resource/reactivedrop_"+lang+".txt", lang, true)
+	if err != nil && !os.IsNotExist(err) {
+		return nil, err
+	}
+
+	tags, err := loadTranslatedStrings("../community/inventory_service/inventory_service_tags_"+lang+".vdf", lang, true)
+	if err != nil && !os.IsNotExist(err) {
+		return nil, err
+	}
+
+	items, err := loadTranslatedStrings("../community/inventory_service/items_"+lang+".vdf", lang, true)
+	if err != nil && !os.IsNotExist(err) {
+		return nil, err
+	}
+
+	return &inventoryStrings{
+		lang: lang,
+		files: [...]*translatedStrings{
+			reactivedrop,
+			tags,
+			items,
+		},
+	}, nil
+}
+
+type ReleaseNotes struct {
+	XMLName xml.Name `xml:"content"`
+	Strings []struct {
+		ID   string `xml:"id,attr"`
+		Text string `xml:",chardata"`
+	} `xml:"string"`
+}
+
 func checkReleaseNotes() {
 	names, err := filepath.Glob("../release_notes/*.xml")
 	if err != nil {
 		panic(err)
 	}
 
+	englishLines := make(map[string]int)
 	for _, name := range names {
-		var content struct {
-			XMLName xml.Name `xml:"content"`
-			Strings []struct {
-				ID   string `xml:"id,attr"`
-				Text string `xml:",chardata"`
-			} `xml:"string"`
+		if strings.HasSuffix(name, "_english.xml") {
+			var content ReleaseNotes
+
+			b, err := os.ReadFile(name)
+			if err != nil {
+				panic(err)
+			}
+
+			err = xml.Unmarshal(b, &content)
+			if err != nil {
+				fmt.Println(name)
+				panic(err)
+			}
+
+			for _, s := range content.Strings {
+				if s.ID == "body" {
+					lines := strings.FieldsFunc(s.Text, func(ch rune) bool { return ch == '\n' || ch == '\r' })
+					englishLines[name[:len(name)-len("_english.xml")]] = len(lines)
+					break
+				}
+			}
 		}
+	}
+
+	for _, name := range names {
+		var content ReleaseNotes
 
 		b, err := os.ReadFile(name)
 		if err != nil {
@@ -640,6 +968,19 @@ func checkReleaseNotes() {
 
 			if count > max {
 				panic(fmt.Sprintf("%s: %q cannot be longer than %d characters, but it is %d characters", name, s.ID, max, count))
+			}
+
+			if s.ID == "body" {
+				lines := strings.FieldsFunc(s.Text, func(ch rune) bool { return ch == '\n' || ch == '\r' })
+				expected := englishLines[name[:strings.LastIndexByte(name, '_')]]
+
+				if expected == 0 {
+					panic(fmt.Sprintf("%s: cannot find English file for this release notes document", name))
+				}
+
+				if len(lines) != expected {
+					panic(fmt.Sprintf("%s: body of release notes has %d lines but English version has %d lines (this is usually Ben's fault)", name, len(lines), expected))
+				}
 			}
 		}
 	}

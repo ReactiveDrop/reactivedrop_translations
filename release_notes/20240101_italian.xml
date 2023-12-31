@@ -3,6 +3,7 @@
 
 [h2]Missioni Ufficiali[/h2]
 [list]
+[*][b]BioGen Corporation: Operazione X5:[/b] Corretta una porta che era stata inavvertitamente classificata come scala.
 [*][b]BioGen Corporation: Minaccia Invisibile:[/b] Corretto il tempo della speedrun che veniva calcolato in maniera errata.
 [/list]
 
@@ -30,12 +31,17 @@
 [*]Aumentati leggermente i DPS della motosega quando non si usa Ultima Resistenza.
 [*]Le granate congelanti non possono più essere utilizzate. (Non erano già più selezionabili.)
 [*]Aumento significativo dei danni delle mine contro gli zombi.
+[*]Aumento significativo dei danni delle granate a gas contro gli zombi.
+[*]Aumento significativo dei danni delle mine incendiarie contro gli zombi.
+[*]Gli zombi storditi dall'elettricità ora subiscono danni doppi.
+[*]Gli zombi medici ora iniziano a rigenerare la salute prima, dopo aver subito danni.
 [*]Corretta la caduta dei giocatori attraverso il terreno quando si trasformano in zombi.
 [*]Aggiornate le modifiche personalizzate per dm_deima.
 [*]Aggiunta variante Classica:[list]
 [*]La modalità Ultima Resistenza è disattivata.
 [*]Gli zombi Prime non hanno più gli scudi.[/list]
 [*]Migliorato il pathfinding dei bot soldati in tutte le modalità di gioco deathmatch.
+[*]Corretto il fatto che a volte si vedano dei bagliori per le armi o le munizioni che sono despawnate.
 [/list]
 
 [h2]Script[/h2]

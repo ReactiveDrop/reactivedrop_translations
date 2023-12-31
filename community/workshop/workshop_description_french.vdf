@@ -3,13 +3,13 @@
 "Language"		"french"
 "Tokens"
 {
-		"Workshop_title"		"Reactive Drop is community-created"
 		"[english]Workshop_title"		"Reactive Drop is community-created"
-		"Workshop_desc"		"On the Workshop you can find new campaigns, missions, challenges, skins, and customizations made by players like you. Install new ready-to-play content in a single click!"
+		"Workshop_title"		"Reactive Drop is community-created"
 		"[english]Workshop_desc"		"On the Workshop you can find new campaigns, missions, challenges, skins, and customizations made by players like you. Install new ready-to-play content in a single click!"
-		"BossFight2023_title"		"Mapping Competition 2023: \"Boss Fight\""
+		"Workshop_desc"		"On the Workshop you can find new campaigns, missions, challenges, skins, and customizations made by players like you. Install new ready-to-play content in a single click!"
 		"[english]BossFight2023_title"		"Mapping Competition 2023: \"Boss Fight\""
-		"BossFight2023_desc"		"It's [url=https://store.steampowered.com/news/app/563560/view/3267945303133398273]Alien Swarm: Reactive Drop's 6th birthday[/url], and we're running a mapping competition that anyone can enter!\n\nThis year's theme is \"Boss Fight\". Entries must be tagged with [b]BossFight2023[/b]. Competition ends August 1st. If you need help getting started, check out the [url=https://steamcommunity.com/app/563560/discussions/1/]Modding / Mapping Help and Tips[/url] forum."
+		"BossFight2023_title"		"Mapping Competition 2023: \"Boss Fight\""
 		"[english]BossFight2023_desc"		"It's [url=https://store.steampowered.com/news/app/563560/view/3267945303133398273]Alien Swarm: Reactive Drop's 6th birthday[/url], and we're running a mapping competition that anyone can enter!\n\nThis year's theme is \"Boss Fight\". Entries must be tagged with [b]BossFight2023[/b]. Competition ends August 1st. If you need help getting started, check out the [url=https://steamcommunity.com/app/563560/discussions/1/]Modding / Mapping Help and Tips[/url] forum."
+		"BossFight2023_desc"		"It's [url=https://store.steampowered.com/news/app/563560/view/3267945303133398273]Alien Swarm: Reactive Drop's 6th birthday[/url], and we're running a mapping competition that anyone can enter!\n\nThis year's theme is \"Boss Fight\". Entries must be tagged with [b]BossFight2023[/b]. Competition ends August 1st. If you need help getting started, check out the [url=https://steamcommunity.com/app/563560/discussions/1/]Modding / Mapping Help and Tips[/url] forum."
 }
 }

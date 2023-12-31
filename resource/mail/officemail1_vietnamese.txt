@@ -5,16 +5,16 @@ GAME
 // Inbox
 
 "MailFrom1"	"Từ: Shaun Ming"
-"MailDate1"	"Ngày: 12/21/52"
-"MailSubject1"	"Tiêu đề: Tests"
-"MailBody1A"	"Lt. Cain,"
-"MailBody1B"	"Mèo? Không ăn thua, quá nhỏ."
+"MailDate1"	"Ngày: 21/12/52"
+"MailSubject1"	"Chủ đề: Thử nghiệm"
+"MailBody1A"	"Trung úy Cain,"
+"MailBody1B"	"Một con mèo? Không được. Quá nhỏ."
 "MailBody1C"	"S. Ming"
 
 "MailFrom2"	"Từ: Shaun Ming"
-"MailDate2"	"Ngày: 12/22/52"
-"MailSubject2"	"Tiêu đề: Tests 2"
-"MailBody2A"	"Lt. Cain,"
-"MailBody2B"	"Sẽ được mà. Tôi có thể cần thêm nữa. Có vấn đề gì không? Hy vọng là tôi sẽ ko cần phải nhấn mạnh thêm về tầm quan trọng của cuộc thí nghiệm nhỉ."
+"MailDate2"	"Ngày: 22/12/52"
+"MailSubject2"	"Chủ đề: Thử nghiệm 2"
+"MailBody2A"	"Trung úy Cain,"
+"MailBody2B"	"Cái này sẽ được. Tôi có thể cần nhiều thêm. Cái đó có phải là một vấn đề không? Tôi hy vọng là tôi không cần phải nhấn mạnh tầm quan trọng của cuộc thí nghiệm của tôi."
 "MailBody2C"	"S. Ming"
 }

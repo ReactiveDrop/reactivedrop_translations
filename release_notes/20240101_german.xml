@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<content><string id="body">Happy new year! This month's update contains fixes for controller issues, updates to the Infection deathmatch challenge, and a few miscellaneous fixes and new features.
+<content><string id="body">Frohes neues Jahr! Das diesmonatige Update enthält Fehlerbehebungen für Controller-Probleme, Updates für die Deathmatch-Herausforderung "Infektion" und ein paar andere Korrekturen und neue Funktionen.
 
 [h2]Einsätze[/h2]
 [list]
+[*][b]BioGen Corporation: Operation X5:[/b] Eine Tür, die versehentlich als Leiter eingestuft wurde, wurde korrigiert.
 [*][b]BioGen Gesellschaft: Unsichtbare Bedrohung:[/b] Die Speedrun-Zeit wird nun nicht mehr inkorrekt berechnet.
 [/list]
 
@@ -30,17 +31,21 @@
 [*]Die DPS der Kettensäge wurde leicht erhöht, wenn du den Letzter Widerstand-Modus nicht benutzt.
 [*]Frostgranaten können nicht mehr verwendet werden. (Sie waren schon vorher nicht auswählbar.)
 [*]Erheblich erhöhter Schaden durch Haftminen gegen Zombies.
+[*]Erheblich erhöhter Gasgranatenschaden gegen Zombies.
+[*]Erheblich erhöhter Schaden durch Brandminen gegen Zombies.
+[*]Elektrogeschockte Zombies erleiden jetzt doppelten Schaden.
+[*]Sanitäter-Zombies regenerieren Gesundheit jetzt früher, nachdem sie Schaden genommen haben.
 [*]Es wurde behoben, dass Spieler durch das Gelände fallen, wenn sie sich in einen Zombie verwandeln.
 [*]Benutzerdefinierte Bearbeitungen für dm_deima aktualisiert.
 [*]Classic Variante hinzugefügt:[list]
 [*]Letzter Widerstand-Modus ist deaktiviert.
 [*]Primär-Zombies haben keine Schilde mehr.[/list]
 [*]Verbesserte Pfadfindung für Bot-Soldaten in allen Deathmatch-Spielmodi.
+[*]Es wurde behoben, dass Waffen oder Munition, die nicht mehr vorhanden waren, manchmal Leuchteffekte hinterließen.
 [/list]
 
 [h2]Scripting[/h2]
 [list]
-[*]Added a new method to rd_hud_vscript: PaintPolygon(vertices, red, green, blue, alpha, texture). vertices is an array of tables, each containing x, y, s, and t coordinates. There must be at least three vertices and they should form a convex shape in clockwise order. x and y are screen coordinates. s and t are texture coordinates, from 0 to 1.
 [*]Es wurde eine neue Methode zu rd_hud_vscript hinzugefügt: PaintPolygon(vertices, red, green, blue, alpha, texture). vertices ist ein Array von Tabellen, die jeweils die Koordinaten x, y, s und t enthalten. Es muss mindestens drei Eckpunkte geben, die im Uhrzeigersinn eine konvexe Form bilden. x und y sind Bildschirmkoordinaten. s und t sind Texturkoordinaten, von 0 bis 1.
 [/list]
 </string><string id="subtitle"></string><string id="summary"></string><string id="title">Alien Swarm: Reactive Drop Update - 1. Januar 2024</string></content>

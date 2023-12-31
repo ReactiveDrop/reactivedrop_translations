@@ -3,13 +3,13 @@
 "Language"		"japanese"
 "Tokens"
 {
-"Workshop_title"		"Reactive Dropはコミュニティによって創られています"
 "[english]Workshop_title"		"Reactive Drop is community-created"
-"Workshop_desc"		"ワークショップではプレイヤー達が作成した新しいキャンペーン、ミッション、チャレンジ、スキン、カスタム設定を見つけることが出来ます。1クリックですぐに新しいコンテンツをインストールしてプレイ可能です！"
+"Workshop_title"		"Reactive Dropはコミュニティによって創られています"
 "[english]Workshop_desc"		"On the Workshop you can find new campaigns, missions, challenges, skins, and customizations made by players like you. Install new ready-to-play content in a single click!"
-"BossFight2023_title"		"マップ作成コンテスト 2023: 『ボス戦』"
+"Workshop_desc"		"ワークショップではプレイヤー達が作成した新しいキャンペーン、ミッション、チャレンジ、スキン、カスタム設定を見つけることが出来ます。1クリックですぐに新しいコンテンツをインストールしてプレイ可能です！"
 "[english]BossFight2023_title"		"Mapping Competition 2023: \"Boss Fight\""
-"BossFight2023_desc"		"[url=https://store.steampowered.com/news/app/563560/view/3267945303133398273]Alien Swarm: Reactive Dropが生まれてから6周年[/url]となりました。そこで誰でも参加可能なマップ作成コンテストを開催します！\n\n今年のテーマは『ボス戦』です。参加するには必ず[b]BossFight2023[/b]のタグを付けてください。コンテストは8月1日に終了します。 始め方がわからない場合、[url=https://steamcommunity.com/app/563560/discussions/1/]Modding / Mapping Help and Tips[/url]のフォーラムをご確認ください。"
+"BossFight2023_title"		"マップ作成コンテスト 2023: 『ボス戦』"
 "[english]BossFight2023_desc"		"It's [url=https://store.steampowered.com/news/app/563560/view/3267945303133398273]Alien Swarm: Reactive Drop's 6th birthday[/url], and we're running a mapping competition that anyone can enter!\n\nThis year's theme is \"Boss Fight\". Entries must be tagged with [b]BossFight2023[/b]. Competition ends August 1st. If you need help getting started, check out the [url=https://steamcommunity.com/app/563560/discussions/1/]Modding / Mapping Help and Tips[/url] forum."
+"BossFight2023_desc"		"[url=https://store.steampowered.com/news/app/563560/view/3267945303133398273]Alien Swarm: Reactive Dropが生まれてから6周年[/url]となりました。そこで誰でも参加可能なマップ作成コンテストを開催します！\n\n今年のテーマは『ボス戦』です。参加するには必ず[b]BossFight2023[/b]のタグを付けてください。コンテストは8月1日に終了します。 始め方がわからない場合、[url=https://steamcommunity.com/app/563560/discussions/1/]Modding / Mapping Help and Tips[/url]のフォーラムをご確認ください。"
 }
 }

@@ -1,5 +1,5 @@
-Thanks for your interest in the Alien Swarm: Reactive Drop project. When you make a
-contribution to the project (e.g. create an Issue or submit a Pull Request)
+Thank you for your interest in the Alien Swarm: Reactive Drop project. When you make a
+contribution to the project (eg. create an Issue or submit a Pull Request)
 (a "Contribution"), the Reactive Drop Team wants to be able to use your Contribution to improve
 the game.
 
@@ -82,49 +82,66 @@ There are multiple ways to add or edit your translation of the game:
 
 ## Using a GitHub fork
 
-[Fork the repository](https://github.com/ReactiveDrop/reactivedrop_translations/fork), edit & commit it and then push your changes back to the origin.
+[Fork the repository](https://github.com/ReactiveDrop/reactivedrop_translations/fork), edit & commit it, then push your changes back to the origin.
 
 Use an editor to make your changes and integrate them through github. Read more about it [on our wiki](https://github.com/ReactiveDrop/reactivedrop_translations/wiki).
 
 ### Pre-requisites
-- Any unicode plain text editor. E.g. [Notepad++](https://notepad-plus-plus.org/) or [Visual Studio Code](https://code.visualstudio.com/).
+- Any unicode plain text editor. Eg. [Notepad++](https://notepad-plus-plus.org/) or [Visual Studio Code](https://code.visualstudio.com/).
 - An [GIT installation](https://git-scm.com/downloads)
 
 # Files
 
-## File Encoding
-Please make sure that your text editor preserves file's encoding.  
-The new files you create need to have same encoding as their english counterpart (e.g. labsmail1_czech.txt needs to be UTF-8 encoded just like labsmail1_english.txt). If you use Notepad++ you can see the file's encoding in the menu Encoding.
+## File encoding
+Make sure your text editor preserves file encodings.  
+New files need to have the same encoding as their english counterparts (eg. labsmail1_czech.txt needs to be UTF-8 encoded just like labsmail1_english.txt). If you use Notepad++ you can see the file's encoding in the menu Encoding. Visual Studio Code shows the files encoding in its status bar.
+
+## Special characters and placeholders
+Quotation marks inside your translations need to be escaped like this `\"Space Station\"`.
+If there are words between `%percent_signs%`, leave them as-is (these are dynamically replaced with numbers in the game later).
 
 ## File type
 ### Achievements
-These files are automatically created based on the `resource/reactivedrop_*.txt` files. You can manually trigger an update of the files through executing `utils/translation-sync-tool.exe`.
-* sync-tool: Very useful verification tool!
- 1. It can help solving issues with ci-checks. After you have manually modified the content about achievements, it is highly recommended to run the tool to check for problems. Avoid Pull Request Failure.
- 2. It can automatically synchronize achievement fields from `reactivedrop_*.txt` to `563560_loc_*.vdf`! This is very useful to avoid the painful task of comparing and duplicating work.
+Find and edit achievement related strings in `resource/reactivedrop_*.txt`.  
+This repo includes a folder named *achievements*. **Do not edit files in this folder**.  
+The files in this folder are automatically updated based on the forementioned textfiles.
 
 ### Mail and News
-Create a copy of each mail and news file, and rename it to your language sufix(e.g. labsmail1_russian.txt). Translate the contents of each file. See labsmail1_russian.txt as an example.
+Create a copy of each mail and news file, and replace the language suffix, eg. `labsmail1_russian.txt`. Translate the contents of each file. See labsmail1_russian.txt as an example.
 
 ### BaseModUi, CloseCaption, GameUi, ReactiveDrop, and Community VDF files
-In these files(e.g. basemodui_czech.txt) the untranslated strings are indented by two tabs to be easily visible. Translate each indented line and remove the two tabs in front of it.
+In these files(eg. basemodui_czech.txt) the untranslated strings are indented by two tabs to be easily visible. Translate each indented line and remove the two tabs in front of it.
 
 ### Workshop
-Create a copy of the English file and rename it to your language suffix (e.g. workshop_tags_schinese.json). Translate the contents of the file. In JSON files, only translate text on the right side of the `:`.
+Create a copy of the English file and rename it to your language suffix (eg. workshop_tags_schinese.json). Translate the contents of the file. In JSON files, only translate text on the right side of the colon `:`.
 
-### Item Schema
-Copy the lines with `_english` for your language. Try to keep each block of translations in alphabetical order by language name. If there are words between `%percent_signs%`, leave them as-is (they are replaced with numbers by the game client). Don't change any lines that aren't labelled with a language.
+## The sync tool
+In the folder `utils` you'll find the *translation-sync-tool*.
+Most of its work is done automatically (after you've made a commit), but you may find it useful to work with manually, in some edgecases.
 
-## Changing English strings
-If you change an English string in a way that does not require editing other languages (such as fixing a typo that doesn't change the meaning), you need to also change the `[english]` copy of the string in each of the other language files that have it translated. Adding new English strings or changing strings in a way that does require re-translation is handled by the sync script/executable in the utils folder.
+It has several functions:
+* finds syntax errors
+* compares textfiles of different languages for consistency
+* generates vdf files and progress-reports
+
+It's useful for:
+* manual continuous integration checks
+* batch edits (like changing english reference strings)
+
+Executing `utils/translation-sync-tool.exe` will synchronize achievement fields from `reactivedrop_*.txt` to `563560_loc_*.vdf` as also throw an error if there is somethign wrong with the files.  
+If you decide to launch it with `translation-sync-tool.exe --help` you'll get a list of possible command line parameters.
+* **-input-manifest** *compile the steam input manifest*
+* **-markdown** *generate a markdown translation progress report*
+* **-only-update** *only update source strings; do not reset differing translations*
+* **-render** *render derived files (except the steam input manifest)*
 
 ## How to test your translation before submitting it
-First of all, Go into Steam - Library - Alien Swarm: Reactive Drop, right click and choose 'Properties'.
-1. Select 'Language' tab: Select the language you are translating into.
-2. Select 'Betas' (Recommended): Join the beta version, this way you can see the real effect of the translated text in the game. Otherwise, the game text may not match the translated text.
-3. Select 'Local files': Click 'Browse...' to open your game folder.
+First of all, Go to Steam > Library > Alien Swarm: Reactive Drop, right click and choose 'Properties'.
+1. At 'General': Select the language you are translating into.
+2. At 'Betas': Opt into the beta. This is recommended especially if you're working on recently added content.
+3. At 'Installed Files': Click 'Browse...' to open your game folder.
 4. Enter the subfolders '.\reactivedrop\resource', like: `Steam\steamapps\common\Alien Swarm Reactive Drop\reactivedrop\resource`
-5. Copy your translate files into the respective folders (.\resource).
-6. Start game, and test your translation :D
+5. Copy your translated files into their respective folders (.\resource).
+6. Now you can start the game and test your translation :D
 
 - ATTENTION: Every file in the resource folder is UTF-16LE encoded, whereas all files in this repo are UTF-8 encoded. You may need to change the encoding of the files before you copy them over.

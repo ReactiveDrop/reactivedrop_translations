@@ -1,7 +1,6 @@
 package main
 
 import (
-	"encoding/json"
 	"fmt"
 	"io"
 	"os"
@@ -59,6 +58,8 @@ func countIndentedLines(r io.Reader) int {
 			if state == 1 {
 				state = 2
 			}
+		case '\r':
+			// ignore
 		case '\n':
 			state = 0
 		default:
@@ -153,35 +154,12 @@ func generateReport() {
 		checked = append(checked, sortFilesForReport(checkCategory))
 	}
 
-	var inventoryItems []map[string]interface{}
-	eachFile(checkInventorySchema[:], "", func(s string, r io.Reader) {
-		dec := json.NewDecoder(r)
-		dec.UseNumber()
-
-		var data struct {
-			AppID int                      `json:"appid"`
-			Items []map[string]interface{} `json:"items"`
-		}
-
-		err := dec.Decode(&data)
-		if err != nil {
-			panic(err)
-		}
-
-		name := s
-		for _, item := range data.Items {
-			item["_file"] = name
-		}
-
-		inventoryItems = append(inventoryItems, data.Items...)
-	})
-
 	fmt.Print("# Overview\n")
 	fmt.Print("| Language |")
 	for _, file := range importantLanguageFiles {
 		fmt.Printf(" %s |", filepath.Base(file[0][:len(file[0])-1]))
 	}
-	fmt.Print(" Strings | Inventory | Files |\n| --- | --- | --- | --- |")
+	fmt.Print(" Strings | Files |\n| --- | --- | --- |")
 	for range importantLanguageFiles {
 		fmt.Print(" --- |")
 	}
@@ -214,24 +192,6 @@ func generateReport() {
 		for _, file := range sortedLanguageFiles {
 			if !isImportantFile[[2]string{file.prefix, file.suffix}] {
 				incomplete += file.indented[lang]
-			}
-		}
-
-		if incomplete == 0 {
-			fmt.Print(" ✔️ |")
-		} else {
-			fmt.Printf(" %d |", incomplete)
-		}
-
-		// count each missing key in the inventory schema
-		incomplete = 0
-		for _, item := range inventoryItems {
-			for _, prefix := range inventoryKeyPrefixes {
-				_, ok1 := item[prefix+sourceLanguage]
-				_, ok2 := item[prefix+lang]
-				if ok1 && !ok2 {
-					incomplete++
-				}
 			}
 		}
 
@@ -322,35 +282,6 @@ func generateReport() {
 				} else {
 					fmt.Printf("- [%s](%s) has %d indented lines.\n", commonDirectoryRemover.ReplaceAllLiteralString(name, ""), name, indented)
 				}
-			}
-		}
-
-		anyItems := false
-		for _, item := range inventoryItems {
-			anyThisItem := false
-
-			for _, prefix := range inventoryKeyPrefixes {
-				_, ok1 := item[prefix+sourceLanguage]
-				_, ok2 := item[prefix+lang]
-				if ok1 && !ok2 {
-					if !anyItems {
-						any = true
-						anyItems = true
-						fmt.Print("\n### Inventory Schema\n\n")
-					}
-
-					if !anyThisItem {
-						anyThisItem = true
-						file := item["_file"].(string)
-						fmt.Printf("- Item %s %q in [%s](%s) is missing `%s`", item["itemdefid"], item["name_"+sourceLanguage], filepath.Base(file), file, prefix+lang)
-					} else {
-						fmt.Printf(", `%s`", prefix+lang)
-					}
-				}
-			}
-
-			if anyThisItem {
-				fmt.Println()
 			}
 		}
 

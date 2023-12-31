@@ -1,0 +1,114 @@
+{
+	"appid": 563560,
+	"items": [
+		{
+			"itemdefid": 7,
+			"type": "item",
+			"name_%LANG%": "{#item_community_medal_translator_name}",
+			"description_%LANG%": "{#item_community_medal_translator_description}",
+			"display_type_%LANG%": "{#item_display_type_community_medal_legendary}",
+			"icon_url": "https://stats.reactivedrop.com/static/medals/community_translator2.png",
+			"icon_url_large": "https://stats.reactivedrop.com/static/medals/community_translator2_large.png",
+			"name_color": "{#item_color_community}",
+			"tags": "rarity:legendary;slot:medal",
+			"item_slot": "medal"
+		},
+		{
+			"itemdefid": 8,
+			"type": "item",
+			"name_%LANG%": "{#item_community_medal_programmer_name}",
+			"description_%LANG%": "{#item_community_medal_programmer_description}",
+			"display_type_%LANG%": "{#item_display_type_community_medal_legendary}",
+			"icon_url": "https://stats.reactivedrop.com/static/medals/community_programmer2.png",
+			"icon_url_large": "https://stats.reactivedrop.com/static/medals/community_programmer2_large.png",
+			"name_color": "{#item_color_community}",
+			"tags": "rarity:legendary;slot:medal",
+			"item_slot": "medal"
+		},
+		{
+			"itemdefid": 9,
+			"type": "item",
+			"name_%LANG%": "{#item_community_medal_mapper_name}",
+			"description_%LANG%": "{#item_community_medal_mapper_description}",
+			"display_type_%LANG%": "{#item_display_type_community_medal_legendary}",
+			"icon_url": "https://stats.reactivedrop.com/static/medals/community_mapper2.png",
+			"icon_url_large": "https://stats.reactivedrop.com/static/medals/community_mapper2_large.png",
+			"name_color": "{#item_color_community}",
+			"tags": "rarity:legendary;slot:medal",
+			"item_slot": "medal"
+		},
+		{
+			"itemdefid": 10,
+			"type": "item",
+			"name_%LANG%": "{#item_community_medal_challenger_name}",
+			"description_%LANG%": "{#item_community_medal_challenger_description}",
+			"display_type_%LANG%": "{#item_display_type_community_medal_legendary}",
+			"icon_url": "https://stats.reactivedrop.com/static/medals/community_challenger2.png",
+			"icon_url_large": "https://stats.reactivedrop.com/static/medals/community_challenger2_large.png",
+			"name_color": "{#item_color_community}",
+			"tags": "rarity:legendary;slot:medal",
+			"item_slot": "medal"
+		},
+		{
+			"itemdefid": 11,
+			"type": "item",
+			"name_%LANG%": "{#item_community_medal_guide_name}",
+			"description_%LANG%": "{#item_community_medal_guide_description}",
+			"display_type_%LANG%": "{#item_display_type_community_medal_legendary}",
+			"icon_url": "https://stats.reactivedrop.com/static/medals/community_guide2.png",
+			"icon_url_large": "https://stats.reactivedrop.com/static/medals/community_guide2_large.png",
+			"name_color": "{#item_color_community}",
+			"tags": "rarity:legendary;slot:medal",
+			"item_slot": "medal"
+		},
+		{
+			"itemdefid": 12,
+			"type": "item",
+			"name_%LANG%": "{#item_community_medal_artist_name}",
+			"description_%LANG%": "{#item_community_medal_artist_description}",
+			"display_type_%LANG%": "{#item_display_type_community_medal_legendary}",
+			"icon_url": "https://stats.reactivedrop.com/static/medals/community_artist2.png",
+			"icon_url_large": "https://stats.reactivedrop.com/static/medals/community_artist2_large.png",
+			"name_color": "{#item_color_community}",
+			"tags": "rarity:legendary;slot:medal",
+			"item_slot": "medal"
+		},
+		{
+			"itemdefid": 14,
+			"type": "item",
+			"name_%LANG%": "{#item_community_medal_reporter_name}",
+			"description_%LANG%": "{#item_community_medal_reporter_description}",
+			"display_type_%LANG%": "{#item_display_type_community_medal_legendary}",
+			"icon_url": "https://stats.reactivedrop.com/static/medals/community_reporter2.png",
+			"icon_url_large": "https://stats.reactivedrop.com/static/medals/community_reporter2_large.png",
+			"name_color": "{#item_color_community}",
+			"tags": "rarity:legendary;slot:medal",
+			"item_slot": "medal"
+		},
+		{
+			"itemdefid": 29,
+			"type": "item",
+			"name_%LANG%": "{#item_community_medal_streamer_name}",
+			"description_%LANG%": "{#item_community_medal_streamer_description}",
+			"display_type_%LANG%": "{#item_display_type_community_medal_legendary}",
+			"icon_url": "https://stats.reactivedrop.com/static/medals/community_streamer2.png",
+			"icon_url_large": "https://stats.reactivedrop.com/static/medals/community_streamer2_large.png",
+			"name_color": "{#item_color_community}",
+			"tags": "rarity:legendary;slot:medal",
+			"item_slot": "medal"
+		},
+		{
+			"itemdefid": 39,
+			"type": "item",
+			"name_%LANG%": "{#item_event_medal_mapping_2023_name}",
+			"description_%LANG%": "{#item_event_medal_mapping_2023_description}",
+			"display_type_%LANG%": "{#item_display_type_event_medal_legendary}",
+			"icon_url": "https://stats.reactivedrop.com/static/medals/contest/mapping_participant_2023.png",
+			"icon_url_large": "https://stats.reactivedrop.com/static/medals/contest/mapping_participant_2023_large.png",
+			"love": "wins",
+			"name_color": "{#item_color_community}",
+			"tags": "rarity:legendary;slot:medal",
+			"item_slot": "medal"
+		}
+	]
+}

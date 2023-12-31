@@ -1,0 +1,568 @@
+{
+	"appid": 563560,
+	"items": [
+		{
+			"itemdefid": 7000,
+			"type": "playtimegenerator",
+			"name": "Playtime Random Material Tokens Weekly",
+			"description": "After 30 minutes of playtime, once per week, grants material tokens",
+			"drop_interval": 30,
+			"use_drop_window": true,
+			"drop_window": 10080,
+			"bundle": "7001"
+		},
+		{
+			"itemdefid": 7001,
+			"type": "bundle",
+			"name": "Playtime Random Material Tokens Weekly Bundle",
+			"description": "Grants tokens: 20-50 common or ultra-common, 5-10 uncommon, 1-5 rare, 10-30 regional",
+			"bundle": "7052x20;7057x30;7053x5;7058x5;7054x1;7059x4;7055x10;7060x20"
+		},
+		{
+			"itemdefid": 7002,
+			"type": "playtimegenerator",
+			"name": "Playtime Random Material Tokens Extended",
+			"description": "Every 6 hours of gameplay (no window), grants bonus tokens",
+			"drop_interval": 360,
+			"use_drop_window": false,
+			"bundle": "7003"
+		},
+		{
+			"itemdefid": 7003,
+			"type": "bundle",
+			"name": "Playtime Random Material Tokens Extended Bundle",
+			"description": "Grants tokens: 5-10 common or ultra-common, 1-3 uncommon, 1 rare (10% chance), 2-5 regional",
+			"bundle": "7052x5;7057x5;7053x1;7058x2;7061x1;7055x2;7060x3"
+		},
+		{
+			"itemdefid": 7004,
+			"type": "item",
+			"name": "Location of Scrap Metal",
+			"game_only": true,
+			"auto_stack": true,
+			"item_slot": "material_drop_token"
+		},
+		{
+			"itemdefid": 7005,
+			"type": "item",
+			"name": "Location of Electrical Components",
+			"game_only": true,
+			"auto_stack": true,
+			"item_slot": "material_drop_token"
+		},
+		{
+			"itemdefid": 7006,
+			"type": "item",
+			"name": "Location of Spare Pipe",
+			"game_only": true,
+			"auto_stack": true,
+			"item_slot": "material_drop_token"
+		},
+		{
+			"itemdefid": 7007,
+			"type": "item",
+			"name": "Location of Plastics",
+			"game_only": true,
+			"auto_stack": true,
+			"item_slot": "material_drop_token"
+		},
+		{
+			"itemdefid": 7008,
+			"type": "item",
+			"name": "Location of Coolant",
+			"game_only": true,
+			"auto_stack": true,
+			"item_slot": "material_drop_token"
+		},
+		{
+			"itemdefid": 7009,
+			"type": "item",
+			"name": "Location of Mini-Crate",
+			"game_only": true,
+			"auto_stack": true,
+			"item_slot": "material_drop_token"
+		},
+		{
+			"itemdefid": 7010,
+			"type": "item",
+			"name": "Location of Battery Pack",
+			"game_only": true,
+			"auto_stack": true,
+			"item_slot": "material_drop_token"
+		},
+		{
+			"itemdefid": 7011,
+			"type": "item",
+			"name": "Location of Loose Wires",
+			"game_only": true,
+			"auto_stack": true,
+			"item_slot": "material_drop_token"
+		},
+		{
+			"itemdefid": 7012,
+			"type": "item",
+			"name": "Location of Carbon",
+			"game_only": true,
+			"auto_stack": true,
+			"item_slot": "material_drop_token"
+		},
+		{
+			"itemdefid": 7013,
+			"type": "item",
+			"name": "Location of Alien Chitin",
+			"game_only": true,
+			"auto_stack": true,
+			"item_slot": "material_drop_token"
+		},
+		{
+			"itemdefid": 7014,
+			"type": "item",
+			"name": "Location of Biomass Sample",
+			"game_only": true,
+			"auto_stack": true,
+			"item_slot": "material_drop_token"
+		},
+		{
+			"itemdefid": 7015,
+			"type": "item",
+			"name": "Location of Glowing Green Acid",
+			"game_only": true,
+			"auto_stack": true,
+			"item_slot": "material_drop_token"
+		},
+		{
+			"itemdefid": 7016,
+			"type": "item",
+			"name": "Location of Claw Fragment",
+			"game_only": true,
+			"auto_stack": true,
+			"item_slot": "material_drop_token"
+		},
+		{
+			"itemdefid": 7017,
+			"type": "item",
+			"name": "Location of Memory Management Unit",
+			"game_only": true,
+			"auto_stack": true,
+			"item_slot": "material_drop_token"
+		},
+		{
+			"itemdefid": 7018,
+			"type": "item",
+			"name": "Location of Arithmetic Logic Unit",
+			"game_only": true,
+			"auto_stack": true,
+			"item_slot": "material_drop_token"
+		},
+		{
+			"itemdefid": 7019,
+			"type": "item",
+			"name": "Location of Data Storage Medium",
+			"game_only": true,
+			"auto_stack": true,
+			"item_slot": "material_drop_token"
+		},
+		{
+			"itemdefid": 7020,
+			"type": "item",
+			"name": "Location of Pile of Red Sand",
+			"game_only": true,
+			"auto_stack": true,
+			"item_slot": "material_drop_token"
+		},
+		{
+			"itemdefid": 7021,
+			"type": "item",
+			"name": "Location of Antlion Carapace",
+			"game_only": true,
+			"auto_stack": true,
+			"item_slot": "material_drop_token"
+		},
+		{
+			"itemdefid": 7022,
+			"type": "item",
+			"name": "Location of Corrosive Fluid Sample",
+			"game_only": true,
+			"auto_stack": true,
+			"item_slot": "material_drop_token"
+		},
+		{
+			"itemdefid": 7023,
+			"type": "item",
+			"name": "Location of Cooled Volcanic Rock",
+			"game_only": true,
+			"auto_stack": true,
+			"item_slot": "material_drop_token"
+		},
+		{
+			"itemdefid": 7024,
+			"type": "item",
+			"name": "Location of Retrieved Documents",
+			"game_only": true,
+			"auto_stack": true,
+			"item_slot": "material_drop_token"
+		},
+		{
+			"itemdefid": 7025,
+			"type": "item",
+			"name": "Location of Unopened SynUp Cola",
+			"game_only": true,
+			"auto_stack": true,
+			"item_slot": "material_drop_token"
+		},
+		{
+			"itemdefid": 7026,
+			"type": "item",
+			"name": "Location of Roll of Vent Tape",
+			"game_only": true,
+			"auto_stack": true,
+			"item_slot": "material_drop_token"
+		},
+		{
+			"itemdefid": 7027,
+			"type": "item",
+			"name": "Location of Isotopes",
+			"game_only": true,
+			"auto_stack": true,
+			"item_slot": "material_drop_token"
+		},
+		{
+			"itemdefid": 7028,
+			"type": "bundle",
+			"name": "Material Redeem Common Scrap Metal",
+			"description": "Grants crafting material Scrap Metal x1-3",
+			"exchange": "7004",
+			"bundle": "4002x1;7064x2"
+		},
+		{
+			"itemdefid": 7029,
+			"type": "bundle",
+			"name": "Material Redeem Common Electrical Components",
+			"description": "Grants crafting material Electrical Components x1-3",
+			"exchange": "7005",
+			"bundle": "4003x1;7065x2"
+		},
+		{
+			"itemdefid": 7030,
+			"type": "bundle",
+			"name": "Material Redeem Common Spare Pipe",
+			"description": "Grants crafting material Spare Pipe x1-3",
+			"exchange": "7006",
+			"bundle": "4004x1;7066x2"
+		},
+		{
+			"itemdefid": 7031,
+			"type": "bundle",
+			"name": "Material Redeem Common Plastics",
+			"description": "Grants crafting material Plastics x1-3",
+			"exchange": "7007",
+			"bundle": "4005x1;7067x2"
+		},
+		{
+			"itemdefid": 7032,
+			"type": "bundle",
+			"name": "Material Redeem Common Coolant",
+			"description": "Grants crafting material Coolant x1-3",
+			"exchange": "7008",
+			"bundle": "4006x1;7068x2"
+		},
+		{
+			"itemdefid": 7033,
+			"type": "bundle",
+			"name": "Material Redeem Common Mini-Crate",
+			"description": "Grants crafting material Mini-Crate x1-3",
+			"exchange": "7009",
+			"bundle": "4007x1;7069x2"
+		},
+		{
+			"itemdefid": 7034,
+			"type": "bundle",
+			"name": "Material Redeem Common Battery Pack",
+			"description": "Grants crafting material Battery Pack x1-3",
+			"exchange": "7010",
+			"bundle": "4008x1;7070x2"
+		},
+		{
+			"itemdefid": 7035,
+			"type": "bundle",
+			"name": "Material Redeem Ultra-Common Loose Wires",
+			"description": "Grants crafting material Loose Wires x100-300",
+			"exchange": "7011",
+			"bundle": "4009x100;7062x200"
+		},
+		{
+			"itemdefid": 7036,
+			"type": "bundle",
+			"name": "Material Redeem Ultra-Common Carbon",
+			"description": "Grants crafting material Carbon x250-1500",
+			"exchange": "7012",
+			"bundle": "4010x250;7063x1250"
+		},
+		{
+			"itemdefid": 7037,
+			"type": "bundle",
+			"name": "Material Redeem Uncommon Alien Chitin",
+			"description": "Grants crafting material Alien Chitin x1",
+			"exchange": "7013",
+			"bundle": "4011"
+		},
+		{
+			"itemdefid": 7038,
+			"type": "bundle",
+			"name": "Material Redeem Uncommon Biomass Sample",
+			"description": "Grants crafting material Biomass Sample x1",
+			"exchange": "7014",
+			"bundle": "4012"
+		},
+		{
+			"itemdefid": 7039,
+			"type": "bundle",
+			"name": "Material Redeem Uncommon Glowing Green Acid",
+			"description": "Grants crafting material Glowing Green Acid x1",
+			"exchange": "7015",
+			"bundle": "4013"
+		},
+		{
+			"itemdefid": 7040,
+			"type": "bundle",
+			"name": "Material Redeem Uncommon Claw Fragment",
+			"description": "Grants crafting material Claw Fragment x1",
+			"exchange": "7016",
+			"bundle": "4014"
+		},
+		{
+			"itemdefid": 7041,
+			"type": "bundle",
+			"name": "Material Redeem Rare Memory Management Unit",
+			"description": "Grants crafting material Memory Management Unit x1",
+			"exchange": "7017",
+			"bundle": "4015"
+		},
+		{
+			"itemdefid": 7042,
+			"type": "bundle",
+			"name": "Material Redeem Rare Arithmetic Logic Unit",
+			"description": "Grants crafting material Arithmetic Logic Unit x1",
+			"exchange": "7018",
+			"bundle": "4016"
+		},
+		{
+			"itemdefid": 7043,
+			"type": "bundle",
+			"name": "Material Redeem Rare Data Storage Medium",
+			"description": "Grants crafting material Data Storage Medium x1",
+			"exchange": "7019",
+			"bundle": "4017"
+		},
+		{
+			"itemdefid": 7044,
+			"type": "bundle",
+			"name": "Material Redeem Regional Pile of Red Sand",
+			"description": "Grants crafting material Pile of Red Sand x1",
+			"exchange": "7020",
+			"bundle": "4018"
+		},
+		{
+			"itemdefid": 7045,
+			"type": "bundle",
+			"name": "Material Redeem Regional Antlion Carapace",
+			"description": "Grants crafting material Antlion Carapace x1",
+			"exchange": "7021",
+			"bundle": "4019"
+		},
+		{
+			"itemdefid": 7046,
+			"type": "bundle",
+			"name": "Material Redeem Regional Corrosive Fluid Sample",
+			"description": "Grants crafting material Corrosive Fluid Sample x1",
+			"exchange": "7022",
+			"bundle": "4020"
+		},
+		{
+			"itemdefid": 7047,
+			"type": "bundle",
+			"name": "Material Redeem Regional Cooled Volcanic Rock",
+			"description": "Grants crafting material Cooled Volcanic Rock x1",
+			"exchange": "7023",
+			"bundle": "4021"
+		},
+		{
+			"itemdefid": 7048,
+			"type": "bundle",
+			"name": "Material Redeem Regional Retrieved Documents",
+			"description": "Grants crafting material Retrieved Documents x1",
+			"exchange": "7024",
+			"bundle": "4022"
+		},
+		{
+			"itemdefid": 7049,
+			"type": "bundle",
+			"name": "Material Redeem Regional Unopened SynUp Cola",
+			"description": "Grants crafting material Unopened SynUp Cola x1",
+			"exchange": "7025",
+			"bundle": "4023"
+		},
+		{
+			"itemdefid": 7050,
+			"type": "bundle",
+			"name": "Material Redeem Regional Roll of Vent Tape",
+			"description": "Grants crafting material Roll of Vent Tape x1",
+			"exchange": "7026",
+			"bundle": "4024"
+		},
+		{
+			"itemdefid": 7051,
+			"type": "bundle",
+			"name": "Material Redeem Regional Isotopes",
+			"description": "Grants crafting material Isotopes x1",
+			"exchange": "7027",
+			"bundle": "4025"
+		},
+		{
+			"itemdefid": 7052,
+			"type": "generator",
+			"name": "Random Material Token Common or Ultra-Common",
+			"bundle": "7004;7005;7006;7007;7008;7009;7010;7011;7012"
+		},
+		{
+			"itemdefid": 7053,
+			"type": "generator",
+			"name": "Random Material Token Uncommon",
+			"bundle": "7013;7014;7015;7016"
+		},
+		{
+			"itemdefid": 7054,
+			"type": "generator",
+			"name": "Random Material Token Rare",
+			"bundle": "7017;7018;7019"
+		},
+		{
+			"itemdefid": 7055,
+			"type": "generator",
+			"name": "Random Material Token Regional",
+			"bundle": "7020;7021;7022;7023;7024;7025;7026;7027;7071;7073"
+		},
+		{
+			"itemdefid": 7056,
+			"type": "bundle",
+			"name": "Bundle Empty",
+			"bundle": ""
+		},
+		{
+			"itemdefid": 7057,
+			"type": "generator",
+			"name": "Random Material Token Common or Ultra-Common x0 or x1",
+			"bundle": "7052;7056"
+		},
+		{
+			"itemdefid": 7058,
+			"type": "generator",
+			"name": "Random Material Token Uncommon x0 or x1",
+			"bundle": "7053;7056"
+		},
+		{
+			"itemdefid": 7059,
+			"type": "generator",
+			"name": "Random Material Token Rare x0 or x1",
+			"bundle": "7054;7056"
+		},
+		{
+			"itemdefid": 7060,
+			"type": "generator",
+			"name": "Random Material Token Regional x0 or x1",
+			"bundle": "7055;7056"
+		},
+		{
+			"itemdefid": 7061,
+			"type": "generator",
+			"name": "Random Material Token Rare x0 (90% chance) or x1 (10% chance)",
+			"bundle": "7054x1;7056x9"
+		},
+		{
+			"itemdefid": 7062,
+			"type": "generator",
+			"name": "Material Ultra-Common Loose Wires x0 or x1",
+			"bundle": "4009;7056"
+		},
+		{
+			"itemdefid": 7063,
+			"type": "generator",
+			"name": "Material Ultra-Common Carbon x0 or x1",
+			"bundle": "4010;7056"
+		},
+		{
+			"itemdefid": 7064,
+			"type": "generator",
+			"name": "Material Common Scrap Metal x0 or x1",
+			"bundle": "4002;7056"
+		},
+		{
+			"itemdefid": 7065,
+			"type": "generator",
+			"name": "Material Common Electrical Components x0 or x1",
+			"bundle": "4003;7056"
+		},
+		{
+			"itemdefid": 7066,
+			"type": "generator",
+			"name": "Material Common Spare Pipe x0 or x1",
+			"bundle": "4004;7056"
+		},
+		{
+			"itemdefid": 7067,
+			"type": "generator",
+			"name": "Material Common Plastics x0 or x1",
+			"bundle": "4005;7056"
+		},
+		{
+			"itemdefid": 7068,
+			"type": "generator",
+			"name": "Material Common Coolant x0 or x1",
+			"bundle": "4006;7056"
+		},
+		{
+			"itemdefid": 7069,
+			"type": "generator",
+			"name": "Material Common Mini-Crate x0 or x1",
+			"bundle": "4007;7056"
+		},
+		{
+			"itemdefid": 7070,
+			"type": "generator",
+			"name": "Material Common Battery Pack x0 or x1",
+			"bundle": "4008;7056"
+		},
+		{
+			"itemdefid": 7071,
+			"type": "item",
+			"name": "Location of Cryotic",
+			"game_only": true,
+			"auto_stack": true,
+			"item_slot": "material_drop_token"
+		},
+		{
+			"itemdefid": 7072,
+			"type": "bundle",
+			"name": "Material Redeem Regional Cryotic",
+			"description": "Grants crafting material Cryotic x1",
+			"exchange": "7071",
+			"bundle": "4026"
+		},
+		{
+			"itemdefid": 7073,
+			"type": "item",
+			"name": "Location of Cubic Foot of Argon",
+			"game_only": true,
+			"auto_stack": true,
+			"item_slot": "material_drop_token"
+		},
+		{
+			"itemdefid": 7074,
+			"type": "bundle",
+			"name": "Material Redeem Regional Cubic Foot of Argon",
+			"description": "Grants crafting material Cubic Foot of Argon x1",
+			"exchange": "7073",
+			"bundle": "4027"
+		}
+	]
+}

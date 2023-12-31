@@ -3,6 +3,7 @@
 
 [h2]Official Missions[/h2]
 [list]
+[*][b]BioGen Corporation: Operation X5:[/b] Fixed a door that was inadvertently classified as a ladder.
 [*][b]BioGen Corporation: Invisible Threat:[/b] Fixed speedrun time being incorrectly calculated.
 [/list]
 
@@ -30,12 +31,17 @@
 [*]Slightly increased the DPS of the chainsaw when not using Last Stand.
 [*]Freeze Grenades can no longer be used. (They were already unselectable.)
 [*]Significantly increased Trip Mine damage against zombies.
+[*]Significantly increased Gas Grenade damage against zombies.
+[*]Significantly increased Incendiary Mine damage against zombies.
+[*]Electro-stunned zombies now take double damage.
+[*]Medic zombies now begin regenerating health sooner after taking damage.
 [*]Fixed players falling through terrain when turning into a zombie.
 [*]Updated custom edits for dm_deima.
 [*]Added Classic variant:[list]
 [*]Last Stand mode is disabled.
 [*]Prime Zombies no longer have shields.[/list]
 [*]Improved bot marine pathfinding across all deathmatch game modes.
+[*]Fixed sometimes seeing glows for weapons or ammo that have despawned.
 [/list]
 
 [h2]Scripting[/h2]

@@ -62,6 +62,7 @@ jobs:
         if: github.repository == 'ReactiveDrop/reactivedrop_translations' && github.ref == 'refs/heads/master' && github.event_name == 'push'
         working-directory: utils
         run: |
+          go run . -render
           go run . -markdown > ../PROGRESS.md
 
       - name: Commit translation progress document
@@ -71,4 +72,3 @@ jobs:
         with:
           message: '[CI] update translation progress'
           default_author: github_actions
-          add: 'PROGRESS.md'

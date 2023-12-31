@@ -1,0 +1,25 @@
+﻿"lang"
+{
+"Language"		"none"
+"Tokens"
+{
+"item_color_tournament"		"FFD700"
+"item_color_donation"		"4D7455"
+"item_color_strange"		"CF6A32"
+"item_color_haunted"		"38F3AB"
+"item_color_community"		"70B04A"
+"item_color_valve"		"A50F79"
+"item_color_rdteam"		"563560"
+"item_color_team_background"		"20102E"
+"item_color_common"		"B0C3D9"
+"item_color_uncommon"		"5E98D9"
+"item_color_rare"		"4B69FF"
+"item_color_mythical"		"8847FF"
+"item_color_legendary"		"D32CE6"
+"item_color_error"		"FF00FF"
+
+"item_desc_color_flavor"		"AACCEE"
+"item_desc_color_stats"		"BFBFBF"
+"item_desc_color_style"		"767676"
+}
+}
