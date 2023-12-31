@@ -18,7 +18,7 @@
 | [European Portuguese](#portuguese-português-europeu) | 2 | 180 | 32 | 2129 | 232 | 27 | 630 | 141 |
 | [Brazilian Portuguese](#brazilian-português) | 4 | 2004 | 32 | 1299 | 182 | 15 | 276 | 8 |
 | [Romanian](#non-curated-languages) | 53 | 1996 | 48 | 3751 | 252 | 206 | 975 | 147 |
-| [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | 7 | 10 | 1 | ✔️ | 1 |
+| [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [European Spanish](#spanish-español-de-españa) | 30 | 2004 | 40 | 2455 | 252 | 206 | 714 | 146 |
 | [Latin American Spanish](#latam-español-latinoamericano) | 1283 | 2004 | 634 | 4551 | 252 | 210 | 980 | 147 |
 | [Swedish](#swedish-svenska) | ✔️ | 2004 | ✔️ | 2296 | 252 | 6 | 276 | 147 |
@@ -1099,15 +1099,7 @@
 
 </summary>
 
-### Strings
-
-- [items_russian.vdf](community/inventory_service/items_russian.vdf) has 10 untranslated strings.
-- [statsweb_russian.vdf](community/stats_website/statsweb_russian.vdf) has 1 untranslated strings.
-- [reactivedrop_russian.txt](resource/reactivedrop_russian.txt) has 7 untranslated strings.
-
-### Upcoming Release Notes
-
-- [20240101_russian.xml](release_notes/20240101_english.xml) is missing.
+✓ Up to date!
 
 </details>
 
