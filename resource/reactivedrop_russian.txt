@@ -4215,10 +4215,10 @@
 "[english]ASW_Custom_Music_Col_Album"		"Album"
 "ASW_Custom_Music_Col_Album"		"Альбом"
 "[english]nb_onslaught_title"		"Onslaught"
-"nb_onslaught_title"		"Облавы"
-		// context: Hardcore Brutal Onslaught
-		"[english]nb_hardcore_title"		"Hardcore"
-		"nb_hardcore_title"		"Hardcore"
+"nb_onslaught_title"		"- Облавы"
+// context: Hardcore Brutal Onslaught
+"[english]nb_hardcore_title"		"Hardcore"
+"nb_hardcore_title"		"Увеличенный -"
 "[english]nb_friendly_fire_title"		"Friendly Fire"
 "nb_friendly_fire_title"		"Огонь по своим"
 "[english]asw_difficulty_imba"		"Brutal"
@@ -4449,12 +4449,12 @@
 "rd_workshop_dummy_item"		"Новое дополнение"
 "[english]rd_workshop_published_addons"		"Published Workshop Add-ons"
 "rd_workshop_published_addons"		"Опубликованные дополнения"
-		// button to switch to installed addons list
-		"[english]rd_workshop_installed_short"		"Installed"
-		"rd_workshop_installed_short"		"Installed"
-		// button to switch to publish addons page
-		"[english]rd_workshop_publish_short"		"Publish"
-		"rd_workshop_publish_short"		"Publish"
+// button to switch to installed addons list
+"[english]rd_workshop_installed_short"		"Installed"
+"rd_workshop_installed_short"		"Установленные"
+// button to switch to publish addons page
+"[english]rd_workshop_publish_short"		"Publish"
+"rd_workshop_publish_short"		"Публикация"
 "[english]rd_workshop_waiting_for_addon_list"		"Waiting for add-on list..."
 "rd_workshop_waiting_for_addon_list"		"Ожидание списка дополнений..."
 "[english]rd_workshop_create_addon"		"CREATE NEW ADD-ON"
@@ -9753,19 +9753,19 @@
 "asw_infection_lastStand_timeAdd"		"+60 секунд ко времени игры."
 "[english]asw_infection_win_human"		"Humans win!"
 "asw_infection_win_human"		"Люди победили!"
-		"[english]asw_infection_win_human_hud"		"Humans win"
-		"asw_infection_win_human_hud"		"Humans win"
+"[english]asw_infection_win_human_hud"		"Humans win"
+"asw_infection_win_human_hud"		"Люди победили"
 "[english]asw_infection_win_zombie"		"Zombies win!"
 "asw_infection_win_zombie"		"Зомби победили!"
-		"[english]asw_infection_win_zombie_hud"		"Zombies win"
-		"asw_infection_win_zombie_hud"		"Zombies win"
+"[english]asw_infection_win_zombie_hud"		"Zombies win"
+"asw_infection_win_zombie_hud"		"Зомби победили"
 "[english]asw_infection_survivors"		"Survivors: %s1."
 "asw_infection_survivors"		"Выживших: %s1."
-		"[english]asw_infection_starts_in"		"First zombie appears in: %s1"
-		"asw_infection_starts_in"		"First zombie appears in: %s1"
-		// %s1 is a meter made up of █ and spaces; %s2 is a percentage.
-		"[english]asw_infection_rage_meter"		"Rage: %s1 %s2%"
-		"asw_infection_rage_meter"		"Rage: %s1 %s2%"
+"[english]asw_infection_starts_in"		"First zombie appears in: %s1"
+"asw_infection_starts_in"		"Первый зомби появится через: %s1"
+// %s1 is a meter made up of █ and spaces; %s2 is a percentage.
+"[english]asw_infection_rage_meter"		"Rage: %s1 %s2%"
+"asw_infection_rage_meter"		"Ярость: %s1 %s2%"
 
 // %s1 is a number; shown when the filters are hidden and the mission details are visible
 "[english]rd_lobby_options_button_inactive"		"Filters Active: %s1"
