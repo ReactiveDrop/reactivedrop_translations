@@ -2225,7 +2225,7 @@
 "[english]asw_instructor_toggle_orders"		"Hold to Toggle Equipment Orders"
 "asw_instructor_toggle_orders"		"Halten um Ausrüstungsordnung umzuschalten"
 "[english]asw_instructor_radial_emote"		"Hold for Emote Menu"
-"asw_instructor_radial_emote"		"Halten für Ausdrucksmenü"
+"asw_instructor_radial_emote"		"Halten für Emote-Menü"
 "[english]asw_instructor_mic_chat"		"Hold for Microphone Chat"
 "asw_instructor_mic_chat"		"Zum Mikrofon-Chat gedrückt halten"
 "[english]asw_instructor_draw"		"Draw on Map to Plan"
