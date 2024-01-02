@@ -10,17 +10,17 @@
 [h2]Controller[/h2]
 [list]
 [*]Doppelte Cursor-Bewegungseingaben in Spielmenüs wie Computer-Hacks und der Einweisung-Lobby wurden behoben.
-[*]Es wurde behoben das zusätzliche Eingaben erzeugt wurden, wenn das Aktionsset gewechselt wurde. Dies führte dazu, dass die Aktion Überbrückung das Fenster schloss und wieder öffnete.
+[*]Es wurde behoben das zusätzliche Eingaben erzeugt wurden, wenn das Aktionsset gewechselt wurde. Dies führte dazu, dass die Aktion Überbrückung das Hacking-Fenster schloss und wieder öffnete.
 [*]Ein Problem wurde behoben, bei dem nach dem Starten des Spiels mit Steam im Big Picture-Modus oder mit dem Controller bei der Auswahl eines Soldaten mit der Maus immer Sarge ausgewählt wurde.
 [*]Die Convars rd_input_controller_mode_mouse und rd_input_controller_mode_keyboard wurden hinzugefügt, um den Eingabemodus auf Nicht-Controller (0) oder Controller (1) zu setzen.
 [/list]
 
 [h2]Menüs[/h2]
 [list]
-[*]Nicht-englische Buchstaben konnten nicht in das Feld für den Lobbynamen eingegeben werden, dies wurde behoben.
-[*]Menü 2010: Das Fehlen von 7.1-Surround-Sound in den Audioeinstellunge wurde behoben.
-[*]Menü 2010: Der falsche Name für "Soldat positionieren" im Einstellungsmenü der Tastatur wurde korrigiert.
-[*]Die Schaltfläche "Feldzug herunterladen" wurde von der Schaltfläche "Filter" verdeckt.
+[*]Nicht-englische Buchstaben konnten nicht in das Feld für den Lobbynamen eingegeben werden, dies wurde korrigiert.
+[*]Menü 2010: Das Fehlen von 7.1-Surround-Sound in den Audioeinstellungen wurde behoben.
+[*]Menü 2010: Der falsche Name für "Soldat positionieren" im Einstellungsmenü der Tastatur wurde behoben.
+[*]Die Schaltfläche "Feldzug herunterladen" wurde von der Schaltfläche "Filter" verdeckt, korrigiert.
 [*]Ein Speicherleck im Zusammenhang mit Spieler-Avataren wurde behoben. Dies konnte manchmal zu einem "CUtlRBTree-Überlauf"-Absturz führen.
 [/list]
 
