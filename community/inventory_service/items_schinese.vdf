@@ -222,7 +222,7 @@
 "[english]item_achievement_medal_infection_deathmatch_description"		"Fought the zombie virus in Infection Deathmatch."
 "item_achievement_medal_infection_deathmatch_description"		"在死斗生化模式中抗争过生化病毒。"
 "[english]item_achievement_medal_infection_deathmatch_disclaimer"		"Stats are only updated while this item is equipped in a match with at least five players."
-"item_achievement_medal_infection_deathmatch_disclaimer"		"在拥有至少五名玩家的游戏内佩戴此勋章时才会记录并更新数据。"
+"item_achievement_medal_infection_deathmatch_disclaimer"		"在拥有至少五名玩家的游戏内佩戴此勋章时才会记录并更新统计数据。"
 "[english]item_achievement_medal_infection_deathmatch_stat_survive"		"Rounds Survived"
 "item_achievement_medal_infection_deathmatch_stat_survive"		"存活回合数"
 "[english]item_achievement_medal_infection_deathmatch_stat_tags"		"Zombie Infections Spread"
