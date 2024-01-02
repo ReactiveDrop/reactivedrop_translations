@@ -36,7 +36,7 @@
 "Command.co_m2_ob1"		"<clr:240,255,255>Командующий: Дела обстоят совсем плохо. Этот следующий сектор полностью захвачен. Там есть трубопровод, который рой использует в качестве супермагистрали, чтобы распространяться по колонии. Продвигайтесь вперёд и найдите трубопровод, а я постараюсь найти способ уничтожить его. Мы должны обязательно остановить распространение этих тварей."
 
 "[english]Command.co_m2_ob2"		"<clr:240,255,255>Commander: Looks like we weren't the only ones who knew the Swarm were using the pipeline. That's a lot of boom packed around that pipe. Miners must have rigged the explosives but never got the chance to set em off. How about you finish what they started?"
-"Command.co_m2_ob2"		"<clr:240,255,255>Командующий: Похоже, мы не единственные, кто знал, что рой использует трубопровод. Тут немало взрывчатки упаковано вокруг этой трубы. Вероятно шахтёры заложили взрывчатку, но не успели активировать. Как насчёт того, чтобы вы закончили то, что они начали?"
+"Command.co_m2_ob2"		"<clr:240,255,255>Командующий: Похоже, мы не единственные, кто знал, что рой использует трубопровод. Тут немало взрывчатки упаковано вокруг этой трубы. Вероятно шахтёры заложили взрывчатку, но не успели подорвать. Как насчёт того, чтобы вы закончили то, что они начали?"
 
 "[english]Command.co_m2_ob3"		"<clr:240,255,255>Commander: That's the pipeline right above you. Go ahead and blow it now!"
 "Command.co_m2_ob3"		"<clr:240,255,255>Командующий: Вот этот трубопровод, прямо над вами. Идите и взорвите его прямо сейчас!"
@@ -105,13 +105,13 @@
 "Command.co_m6_ob3"		"<clr:240,255,255>Командующий: Отлично, бомба тут! Вам нужно будет использовать железнодорожную подсистему шахты, чтобы доставить её в гнездо. Помните, фиаско недопустимо. Мы собираемся стерилизовать эту планету вплоть до простых молекул."
 
 "[english]Command.co_m6_ob4"		"<clr:240,255,255>Commander: Okay, first thing's first. You need to reactivate the power substation for the cable railway. This'll start the warhead on its path toward the breeding chamber."
-"Command.co_m6_ob4"		"<clr:240,255,255>Командующий: Значит так, давайте по порядку. Вам необходимо активировать подстанцию для активации монорельса. Это запустит боеголовку по пути к размножающемуся улью роя."
+"Command.co_m6_ob4"		"<clr:240,255,255>Командующий: Значит так, давайте по порядку. Вам необходимо запитать подстанцию для запуска монорельса. Это запустит боеголовку по пути к размножающемуся улью роя."
 
 "[english]Command.co_m6_ob5"		"<clr:240,255,255>Commander: Alright, there are two doors that you're going to need to hack to move the warhead into position. Get 'em open."
 "Command.co_m6_ob5"		"<clr:240,255,255>Командующий: Отлично, там две двери, которые вам нужно будет взломать, чтобы переместить боеголовку. Вскройте их."
 
 "[english]Command.co_m6_ob6"		"<clr:240,255,255>Commander: Once the warhead is in position, activate the detonation sequence. After that, you're gonna need to back-track your way up to the surface to reach your extraction zone."
-"Command.co_m6_ob6"		"<clr:240,255,255>Командующий: Как только боеголовка будет на месте, активируйте детонацию. После этого вам нужно будет очень быстро двигаться обратно, чтобы успеть добраться до зоны эвакуации."
+"Command.co_m6_ob6"		"<clr:240,255,255>Командующий: Как только боеголовка будет на месте, запускайте процесс детонации. После этого вам нужно будет очень быстро двигаться обратно, чтобы успеть добраться до зоны эвакуации."
 
 "[english]Command.co_m6_ob7"		"<clr:240,255,255>Commander: Alright squad, the clock is ticking. You do NOT want to be there when that device goes off. Trust me, it would ruin your whole day."
 "Command.co_m6_ob7"		"<clr:240,255,255>Командующий: Так, отряд, часы тикают. Вы ведь НЕ хотите остаться там, когда это устройство сработает. Поверьте мне, разрушение будет фатальным."
@@ -198,7 +198,7 @@
 "Command.co_debriefing_ob3"		"<clr:240,255,255>Командующий: Мы также выявили небольшой контейнер, покинувший атмосферу, не подав сигнал с идентифицирующим кодом. Вся информация о запуске была кем-то зашифрована. Мы отправили разведывательные аппараты на поиск в ближних районах, но учитывая размеры и неизвестную траекторию, шансы весьма невелики."
 
 "[english]Command.co_debriefing_ob4"		"<clr:240,255,255>Commander: Everybody has to be on that lift before it'll activate."
-"Command.co_debriefing_ob4"		"<clr:240,255,255>Командующий: Все должны быть на этом лифте, прежде чем он активируется."
+"Command.co_debriefing_ob4"		"<clr:240,255,255>Командующий: Все должны быть на этом лифте, прежде чем он двинется."
 
 "[english]Command.co_debriefing_ob5"		"<clr:240,255,255>Commander: Good work destroying the pipeline, Squad. This should hinder Swarm movement within the colony."
 "Command.co_debriefing_ob5"		"<clr:240,255,255>Командующий: Отличная работа, отряд, вы разрушили трубопровод. Это должно теперь препятствовать продвижению роя по колонии."
@@ -549,7 +549,7 @@
 "bastille.SentryInPlace1"		"<clr:205,127,50>Бастиль: Турель на месте!"
 
 "[english]bastille.SentryInPlace2"		"<clr:205,127,50>Bastille: Sentry online!"
-"bastille.SentryInPlace2"		"<clr:205,127,50>Бастиль: Турель активирована!"
+"bastille.SentryInPlace2"		"<clr:205,127,50>Бастиль: Турель готова!"
 
 "[english]bastille.Ammo0"		"<clr:205,127,50>Bastille: Ammo!"
 "bastille.Ammo0"		"<clr:205,127,50>Бастиль: Патроны!"
@@ -1036,7 +1036,7 @@
 "bastille.NoMeds6"		"<clr:205,127,50>Бастиль: Вот и всё, больше нет медикаментов."
 
 "[english]bastille.ActivateStims0"		"<clr:205,127,50>Bastille: Activate stims."
-"bastille.ActivateStims0"		"<clr:205,127,50>Бастиль: Активируй адреналин!"
+"bastille.ActivateStims0"		"<clr:205,127,50>Бастиль: Давай адреналин!"
 
 "[english]bastille.ActivateStims1"		"<clr:205,127,50>Bastille: Stim now!"
 "bastille.ActivateStims1"		"<clr:205,127,50>Бастиль: Адреналин сейчас!"
@@ -1219,10 +1219,10 @@
 "crash.Reloading3"		"<clr:238,180,34>Крэш: Заряжаю!"
 
 "[english]crash.SentryInPlace0"		"<clr:238,180,34>Crash: Sentry gun active!"
-"crash.SentryInPlace0"		"<clr:238,180,34>Крэш: Турель активна!"
+"crash.SentryInPlace0"		"<clr:238,180,34>Крэш: Турель в действии!"
 
 "[english]crash.SentryInPlace1"		"<clr:238,180,34>Crash: Sentry gun active!"
-"crash.SentryInPlace1"		"<clr:238,180,34>Крэш: Турель активна!"
+"crash.SentryInPlace1"		"<clr:238,180,34>Крэш: Турель в действии!"
 
 "[english]crash.SentryInPlace2"		"<clr:238,180,34>Crash: Sentry's in place."
 "crash.SentryInPlace2"		"<clr:238,180,34>Крэш: Турель на месте."
@@ -1231,7 +1231,7 @@
 "crash.SentryInPlace3"		"<clr:238,180,34>Крэш: Турель установлена."
 
 "[english]crash.SentryInPlace4"		"<clr:238,180,34>Crash: Sentry online."
-"crash.SentryInPlace4"		"<clr:238,180,34>Крэш: Турель активирована."
+"crash.SentryInPlace4"		"<clr:238,180,34>Крэш: Турель готова."
 
 "[english]crash.SentryInPlace5"		"<clr:238,180,34>Crash: Sentry's ready to waste some bugs."
 "crash.SentryInPlace5"		"<clr:238,180,34>Крэш: Турель готова подавить натиск."
@@ -1911,7 +1911,7 @@
 "faith.SentryInPlace1"		"<clr:178,34,34>Вера: Турель на месте."
 
 "[english]faith.SentryInPlace2"		"<clr:178,34,34>Faith: Sentry online."
-"faith.SentryInPlace2"		"<clr:178,34,34>Вера: Турель активирована."
+"faith.SentryInPlace2"		"<clr:178,34,34>Вера: Турель готова."
 
 "[english]faith.Ammo0"		"<clr:178,34,34>Faith: Ammo!"
 "faith.Ammo0"		"<clr:178,34,34>Вера: Патроны!"
@@ -2295,7 +2295,7 @@
 "faith.NoMeds3"		"<clr:178,34,34>Вера: Вот и все, больше нет медикаментов."
 
 "[english]faith.ActivateStims0"		"<clr:178,34,34>Faith: Activate the stims."
-"faith.ActivateStims0"		"<clr:178,34,34>Вера: Активировать адреналин."
+"faith.ActivateStims0"		"<clr:178,34,34>Вера: Давай адреналин."
 
 "[english]faith.ActivateStims1"		"<clr:178,34,34>Faith: Stim now!"
 "faith.ActivateStims1"		"<clr:178,34,34>Вера: Адреналин сейчас!"
@@ -2499,7 +2499,7 @@
 "jaeger.SentryInPlace1"		"<clr:198,226,255>Егерь: Турель на месте."
 
 "[english]jaeger.SentryInPlace2"		"<clr:198,226,255>Jaeger: Sentry online."
-"jaeger.SentryInPlace2"		"<clr:198,226,255>Егерь: Турель активирована."
+"jaeger.SentryInPlace2"		"<clr:198,226,255>Егерь: Турель готова."
 
 "[english]jaeger.Ammo0"		"<clr:198,226,255>Jaeger: Ammo!"
 "jaeger.Ammo0"		"<clr:198,226,255>Егерь: Патроны!"
@@ -3140,7 +3140,7 @@
 
 
 "[english]sarge.SentryInPlace1"		"<clr:238,207,161>Sarge: Sentry online."
-"sarge.SentryInPlace1"		"<clr:238,207,161>Сержант: Турель активирована."
+"sarge.SentryInPlace1"		"<clr:238,207,161>Сержант: Турель готова."
 
 
 "[english]sarge.SentryInPlace2"		"<clr:238,207,161>Sarge: Sentry assembled."
@@ -3688,11 +3688,11 @@
 
 
 "[english]sarge.ActivateStims2"		"<clr:238,207,161>Sarge: Activate stim pack!"
-"sarge.ActivateStims2"		"<clr:238,207,161>Сержант: Активируй адреналин!"
+"sarge.ActivateStims2"		"<clr:238,207,161>Сержант: Коли адреналин!"
 
 
 "[english]sarge.ActivateStims3"		"<clr:238,207,161>Sarge: Activate stim pack now."
-"sarge.ActivateStims3"		"<clr:238,207,161>Сержант: Активируй адреналин сейчас."
+"sarge.ActivateStims3"		"<clr:238,207,161>Сержант: Давай адреналин, сейчас."
 
 
 "[english]sarge.ActivateStims4"		"<clr:238,207,161>Sarge: I need that stim pack."
@@ -4020,11 +4020,11 @@
 
 
 "[english]vegas.SentryInPlace4"		"<clr:84,255,159>Vegas: Sentry online."
-"vegas.SentryInPlace4"		"<clr:84,255,159>Вегас: Турель активирована."
+"vegas.SentryInPlace4"		"<clr:84,255,159>Вегас: Турель готова."
 
 
 "[english]vegas.SentryInPlace5"		"<clr:84,255,159>Vegas: Sentry online."
-"vegas.SentryInPlace5"		"<clr:84,255,159>Вегас: Турель активирована."
+"vegas.SentryInPlace5"		"<clr:84,255,159>Вегас: Турель готова."
 
 
 "[english]vegas.Ammo0"		"<clr:84,255,159>Vegas: Ammo!"
@@ -4620,7 +4620,7 @@
 
 
 "[english]vegas.ActivateStims0"		"<clr:84,255,159>Vegas: Activate stims."
-"vegas.ActivateStims0"		"<clr:84,255,159>Вегас: Активируй адреналин!"
+"vegas.ActivateStims0"		"<clr:84,255,159>Вегас: Давай адреналин!"
 
 
 "[english]vegas.ActivateStims1"		"<clr:84,255,159>Vegas: Hit the stims."
@@ -4888,7 +4888,7 @@
 
 
 "[english]wildcat.SentryInPlace2"		"<clr:238,106,80>Wildcat: Sentry's online."
-"wildcat.SentryInPlace2"		"<clr:238,106,80>Рысь: Турель активирована."
+"wildcat.SentryInPlace2"		"<clr:238,106,80>Рысь: Турель готова."
 
 
 "[english]wildcat.Ammo0"		"<clr:238,106,80>Wildcat: Ammo!"
@@ -5300,7 +5300,7 @@
 
 
 "[english]wildcat.ActivateStims0"		"<clr:238,106,80>Wildcat: Activate the stim pack."
-"wildcat.ActivateStims0"		"<clr:238,106,80>Рысь: Активировать адреналин."
+"wildcat.ActivateStims0"		"<clr:238,106,80>Рысь: Давай адреналин."
 
 
 "[english]wildcat.ActivateStims1"		"<clr:238,106,80>Wildcat: Hit the stims."
@@ -5658,7 +5658,7 @@
 
 
 "[english]wolfe.SentryInPlace0"		"<clr:154,205,50>Wolfe: Sentry on-line."
-"wolfe.SentryInPlace0"		"<clr:154,205,50>Вульф: Турель активирована."
+"wolfe.SentryInPlace0"		"<clr:154,205,50>Вульф: Турель готова."
 
 
 "[english]wolfe.SentryInPlace1"		"<clr:154,205,50>Wolfe: Show em what you got, old Betty."
@@ -6486,11 +6486,11 @@
 
 
 "[english]wolfe.ActivateStims0"		"<clr:154,205,50>Wolfe: Activate stims!"
-"wolfe.ActivateStims0"		"<clr:154,205,50>Вульф: Активируй адреналин!"
+"wolfe.ActivateStims0"		"<clr:154,205,50>Вульф: Давай адреналин!"
 
 
 "[english]wolfe.ActivateStims1"		"<clr:154,205,50>Wolfe: Activate the stims."
-"wolfe.ActivateStims1"		"<clr:154,205,50>Вульф: Активируйте адреналин."
+"wolfe.ActivateStims1"		"<clr:154,205,50>Вульф: Давайте уже адреналин."
 
 
 "[english]wolfe.ActivateStims2"		"<clr:154,205,50>Wolfe: Gimme some stim action."
@@ -6598,7 +6598,7 @@
 "ASWComputer.QuarantineInEffect2"		"<clr:238,0,0>ГЛАВНЫЙ КОМПЬЮТЕР: Карантин в действии."
 
 "[english]ASWComputer.ReactorOnline"		"<clr:238,0,0>BASE COMPUTER: Reactor Online."
-"ASWComputer.ReactorOnline"		"<clr:238,0,0>ГЛАВНЫЙ КОМПЬЮТЕР: Реактор активирован."
+"ASWComputer.ReactorOnline"		"<clr:238,0,0>ГЛАВНЫЙ КОМПЬЮТЕР: Реактор запущен."
 
 "[english]ASWComputer.RemoteTurret"		"<clr:238,0,0>BASE COMPUTER: Remote Turret."
 "ASWComputer.RemoteTurret"		"<clr:238,0,0>ГЛАВНЫЙ КОМПЬЮТЕР: Дистанционная турель."
@@ -6821,7 +6821,7 @@
 "Amber.01_01"		"<clr:255,0,0><B>Система оповещения «ЭМБЕР»:<B><clr:158,143,39> Сбой связи с антенной."
 
 "[english]Amber.01_02"		"<clr:255,0,0><B>AMBER Warning:<B><clr:158,143,39> Secondary Reactor Coolant Activated."
-"Amber.01_02"		"<clr:255,0,0><B>Система оповещения «ЭМБЕР»:<B><clr:158,143,39> Активирована охлаждающая жидкость второго реактора."
+"Amber.01_02"		"<clr:255,0,0><B>Система оповещения «ЭМБЕР»:<B><clr:158,143,39> Задействована охлаждающая жидкость второго реактора."
 
 "[english]Amber.02_01"		"<clr:255,0,0><B>AMBER Warning:<B><clr:158,143,39> Water Level Overload."
 "Amber.02_01"		"<clr:255,0,0><B>Система оповещения «ЭМБЕР»:<B><clr:158,143,39> Превышение уровня воды."
