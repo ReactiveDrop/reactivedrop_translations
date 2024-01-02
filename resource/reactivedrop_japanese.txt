@@ -9145,7 +9145,7 @@
 "rd_hoiaf_ends_soon"		"Interstellar Armed Forcesの英雄たちのシーズン%s1は 残り1時間以内に終了します！"
 // %s1 is a 4 digit year, %s2 is a 2 digit month, %s3 is a 2 digit day. if needed, %s4 is a one- or two-digit month and %s5 is a one- or two-digit day.
 "[english]rd_latest_update_ymd"		"Latest Update - %s1-%s2-%s3"
-"rd_latest_update_ymd"		"最新アップデート日時 - %s1年%s2月%s3日"
+"rd_latest_update_ymd"		"最新アップデート - %s1年%s2月%s3日"
 "[english]rd_view_beta_update_notes"		"View Beta Update Notes"
 "rd_view_beta_update_notes"		"ベータ版のパッチノートを見る"
 "[english]rd_event_timer_days"		"%s1 (%s2 days remain)"
@@ -9765,7 +9765,7 @@
 "asw_infection_starts_in"		"最初のゾンビ出現まで: %s1"
 // %s1 is a meter made up of █ and spaces; %s2 is a percentage.
 "[english]asw_infection_rage_meter"		"Rage: %s1 %s2%"
-"asw_infection_rage_meter"		"血気: %s1 %s2%"
+"asw_infection_rage_meter"		"レイジ: %s1 %s2%"
 
 // %s1 is a number; shown when the filters are hidden and the mission details are visible
 "[english]rd_lobby_options_button_inactive"		"Filters Active: %s1"
