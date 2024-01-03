@@ -5167,7 +5167,7 @@
 "[english]rd_so_ability_infests_marines"		"Infests Marines"
 "rd_so_ability_infests_marines"		"Befällt Soldaten"
 "[english]rd_so_ability_inflates"		"Inflates"
-"rd_so_ability_inflates"		"Bläst sich auf"
+"rd_so_ability_inflates"		"Bläht sich auf"
 "[english]rd_so_ability_jumping_attack"		"Jumping Attack"
 "rd_so_ability_jumping_attack"		"Sprungangriff"
 "[english]rd_so_ability_knocks_down_marines"		"Knocks Down Marines"
