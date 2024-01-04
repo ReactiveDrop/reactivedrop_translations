@@ -613,6 +613,12 @@
 "rd_points_awarding_message"		"Assegnazione di %s4%s1 punti per %s4%s2, totale = %s4%s3\n"
 "[english]rd_points_reduced_due_to_farming"		"You recently played this map. Gained points will be decreased.\n"
 "rd_points_reduced_due_to_farming"		"Hai giocato questa mappa di recente. Guadagnerai meno punti.\n"
+		// %s1 is a player name; %s2, %s3, and %s4 are numbers.
+		"[english]rd_hoiaf_new_personal_best_score_on_this_mission"		"%s1 has improved their seasonal personal best score on this mission from %s2 to %s3, increasing their bonus points this season by +%s4!\n"
+		"rd_hoiaf_new_personal_best_score_on_this_mission"		"%s1 has improved their seasonal personal best score on this mission from %s2 to %s3, increasing their bonus points this season by +%s4!\n"
+		// %s1 is a player name; %s2 and %s3 are numbers.
+		"[english]rd_hoiaf_bounty_mission_bonus_claimed"		"By completing this mission, %s1 has claimed a bounty of %s2 points! %s1 has claimed %s3 points from mission bounties so far this season.\n"
+		"rd_hoiaf_bounty_mission_bonus_claimed"		"By completing this mission, %s1 has claimed a bounty of %s2 points! %s1 has claimed %s3 points from mission bounties so far this season.\n"
 
 "[english]asw_mission_complete_CAMPAIGN"		"CAMPAIGN"
 "asw_mission_complete_CAMPAIGN"		"CAMPAGNA"

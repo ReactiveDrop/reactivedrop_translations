@@ -312,6 +312,10 @@
 "rd_objective_chat_message"	"Objective %s1 complete! \nTime: %s2 Delta with previous objective: %s3\n"
 "rd_points_awarding_message"	"Awarding %s4%s1 points to %s4%s2, total = %s4%s3\n"
 "rd_points_reduced_due_to_farming"	"You recently played this map. Gained points will be decreased.\n"
+// %s1 is a player name; %s2, %s3, and %s4 are numbers.
+"rd_hoiaf_new_personal_best_score_on_this_mission"	"%s1 has improved their seasonal personal best score on this mission from %s2 to %s3, increasing their bonus points this season by +%s4!\n"
+// %s1 is a player name; %s2 and %s3 are numbers.
+"rd_hoiaf_bounty_mission_bonus_claimed"	"By completing this mission, %s1 has claimed a bounty of %s2 points! %s1 has claimed %s3 points from mission bounties so far this season.\n"
 
 "asw_mission_complete_CAMPAIGN"	"CAMPAIGN"
 "asw_mission_complete_MISSION"	"MISSION"
