@@ -613,12 +613,12 @@
 "rd_points_awarding_message"		"奖励 %s4%s1 点分数给 %s4%s2，总分数 = %s4%s3\n"
 "[english]rd_points_reduced_due_to_farming"		"You recently played this map. Gained points will be decreased.\n"
 "rd_points_reduced_due_to_farming"		"由于近期玩过此地图，因此本次得分收益降低。\n"
-		// %s1 is a player name; %s2, %s3, and %s4 are numbers.
-		"[english]rd_hoiaf_new_personal_best_score_on_this_mission"		"%s1 has improved their seasonal personal best score on this mission from %s2 to %s3, increasing their bonus points this season by +%s4!\n"
-		"rd_hoiaf_new_personal_best_score_on_this_mission"		"%s1 has improved their seasonal personal best score on this mission from %s2 to %s3, increasing their bonus points this season by +%s4!\n"
-		// %s1 is a player name; %s2 and %s3 are numbers.
-		"[english]rd_hoiaf_bounty_mission_bonus_claimed"		"By completing this mission, %s1 has claimed a bounty of %s2 points! %s1 has claimed %s3 points from mission bounties so far this season.\n"
-		"rd_hoiaf_bounty_mission_bonus_claimed"		"By completing this mission, %s1 has claimed a bounty of %s2 points! %s1 has claimed %s3 points from mission bounties so far this season.\n"
+// %s1 is a player name; %s2, %s3, and %s4 are numbers.
+"[english]rd_hoiaf_new_personal_best_score_on_this_mission"		"%s1 has improved their seasonal personal best score on this mission from %s2 to %s3, increasing their bonus points this season by +%s4!\n"
+"rd_hoiaf_new_personal_best_score_on_this_mission"		"玩家 %s1 打破了此任务的赛季记录，最佳成绩由 %s2 提升至 %s3，特此奖励赛季积分 +%s4！\n"
+// %s1 is a player name; %s2 and %s3 are numbers.
+"[english]rd_hoiaf_bounty_mission_bonus_claimed"		"By completing this mission, %s1 has claimed a bounty of %s2 points! %s1 has claimed %s3 points from mission bounties so far this season.\n"
+"rd_hoiaf_bounty_mission_bonus_claimed"		"玩家 %s1 完成了此次任务并获得了 %s2 点奖励积分！目前为止，玩家 %s1 在本赛季内已获得共计 %s3 点任务奖励积分。\n"
 
 "[english]asw_mission_complete_CAMPAIGN"		"CAMPAIGN"
 "asw_mission_complete_CAMPAIGN"		"此场战役"
