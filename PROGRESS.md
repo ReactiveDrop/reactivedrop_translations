@@ -6,12 +6,12 @@
 | [Czech](#czech-čeština) | 73 | 1810 | 42 | 4046 | 252 | 206 | 980 | 146 |
 | [Danish](#non-curated-languages) | 54 | 231 | 42 | 3574 | 252 | 206 | 710 | 147 |
 | [Dutch](#non-curated-languages) | 53 | 2004 | 42 | 3042 | 252 | 206 | 710 | 146 |
-| [Finnish](#non-curated-languages) | 44 | 2004 | 42 | 2966 | 253 | 206 | 709 | 146 |
+| [Finnish](#non-curated-languages) | 44 | 2004 | 41 | 2966 | 253 | 206 | 709 | 146 |
 | [French](#french-français) | 29 | 138 | 42 | 2407 | 251 | 206 | 650 | 125 |
 | [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Hungarian](#non-curated-languages) | 53 | 138 | 42 | 3042 | 252 | 206 | 975 | 147 |
 | [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
-| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | 2 | ✔️ | ✔️ | 102 | ✔️ |
+| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 102 | ✔️ |
 | [Korean](#koreana-한국어) | 9 | 10 | 38 | 1538 | 252 | 28 | 446 | 48 |
 | [Norwegian Bokmål](#non-curated-languages) | 71 | 708 | 47 | 3748 | 252 | 206 | 710 | 147 |
 | [Polish](#polish-polski) | 30 | 2004 | 42 | 3042 | 252 | 206 | 706 | 143 |
@@ -21,11 +21,11 @@
 | [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | 2 | ✔️ | ✔️ | ✔️ | ✔️ |
 | [European Spanish](#spanish-español-de-españa) | 30 | 2004 | 40 | 2457 | 252 | 206 | 714 | 146 |
 | [Latin American Spanish](#latam-español-latinoamericano) | 1283 | 2004 | 634 | 4553 | 252 | 210 | 980 | 147 |
-| [Swedish](#swedish-svenska) | ✔️ | 2004 | ✔️ | 2298 | 252 | 6 | 276 | 147 |
+| [Swedish](#swedish-svenska) | ✔️ | 2003 | ✔️ | 2264 | 252 | 6 | 276 | 147 |
 | [Thai](#non-curated-languages) | 968 | 1993 | 50 | 4289 | 252 | 206 | 739 | 147 |
 | [Turkish](#non-curated-languages) | 53 | 137 | 42 | 3042 | 252 | 206 | 975 | 147 |
 | [Ukrainian](#ukrainian-українська) | 29 | 131 | 32 | 2585 | 252 | 206 | 933 | 146 |
-| [Vietnamese](#vietnamese-tiếng-việt) | ✔️ | 2004 | ✔️ | 3331 | 3 | ✔️ | ✔️ | 112 |
+| [Vietnamese](#vietnamese-tiếng-việt) | ✔️ | 2004 | ✔️ | 3331 | ✔️ | ✔️ | ✔️ | 112 |
 ### Legend
 - ***Non-capitalized column headers*** are the most important specific files and their number of missing strings. All of these txt-files are located in the resources folder. Except statsweb, which lies in community/stats_website, it's an vdf-file.
 - ***Strings*** is the number of missing strings not included in one of the files which get an individual non-capitalized column.
@@ -603,7 +603,6 @@
 
 - [misc/signage/signage_japanese.vdf](misc/signage/signage_japanese.vdf) has 67 untranslated strings.
 - [platform/vgui_japanese.txt](platform/vgui_japanese.txt) has 35 untranslated strings.
-- [reactivedrop_japanese.txt](resource/reactivedrop_japanese.txt) has 2 untranslated strings.
 
 </details>
 
@@ -1486,8 +1485,8 @@
 - [items_swedish.vdf](community/inventory_service/items_swedish.vdf) has 252 untranslated strings.
 - [statsweb_swedish.vdf](community/stats_website/statsweb_swedish.vdf) has 6 untranslated strings.
 - [steam_input_swedish.vdf](community/steam_input/steam_input_swedish.vdf) has 97 untranslated strings.
-- [closecaption_swedish.txt](resource/closecaption_swedish.txt) has 2004 untranslated strings.
-- [reactivedrop_swedish.txt](resource/reactivedrop_swedish.txt) has 2298 untranslated strings.
+- [closecaption_swedish.txt](resource/closecaption_swedish.txt) has 2003 untranslated strings.
+- [reactivedrop_swedish.txt](resource/reactivedrop_swedish.txt) has 2264 untranslated strings.
 - [valve_swedish.txt](resource/valve_swedish.txt) has 125 untranslated strings.
 
 ### Steam Store and Community
@@ -1842,7 +1841,6 @@
 
 ### Strings
 
-- [items_vietnamese.vdf](community/inventory_service/items_vietnamese.vdf) has 3 untranslated strings.
 - [closecaption_vietnamese.txt](resource/closecaption_vietnamese.txt) has 2004 untranslated strings.
 - [reactivedrop_vietnamese.txt](resource/reactivedrop_vietnamese.txt) has 3331 untranslated strings.
 
