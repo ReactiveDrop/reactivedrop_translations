@@ -613,10 +613,10 @@
 "rd_points_awarding_message"		"Belönar %s4%s1 poäng till %s4%s2, total = %s4%s3\n"
 "[english]rd_points_reduced_due_to_farming"		"You recently played this map. Gained points will be decreased.\n"
 "rd_points_reduced_due_to_farming"		"YDu spelade nyligen den här kartan. Intjänade poäng kommer att minska.\n"
-		// %s1 is a player name; %s2, %s3, and %s4 are numbers.
+// %s1 is a player name; %s2, %s3, and %s4 are numbers.
 "[english]rd_hoiaf_new_personal_best_score_on_this_mission"		"%s1 has improved their seasonal personal best score on this mission from %s2 to %s3, increasing their bonus points this season by +%s4!\n"
 "rd_hoiaf_new_personal_best_score_on_this_mission"		"%s1 har förbättrat sin säsongs bästa poäng på detta uppdrag från %s2 till %s3, som ökar dess bonus poäng med +%s4!\n"
-		// %s1 is a player name; %s2 and %s3 are numbers.
+// %s1 is a player name; %s2 and %s3 are numbers.
 "[english]rd_hoiaf_bounty_mission_bonus_claimed"		"By completing this mission, %s1 has claimed a bounty of %s2 points! %s1 has claimed %s3 points from mission bounties so far this season.\n"
 "rd_hoiaf_bounty_mission_bonus_claimed"		"Genom att klara av detta uppdrag, %s1 har samlat in en belöning på %s2 poäng! %s1 har samlat in %s3 poäng från uppdrag denna säsong.\n"
 
@@ -4222,7 +4222,7 @@
 "ASW_Custom_Music_Col_Album"		"Album"
 "[english]nb_onslaught_title"		"Onslaught"
 "nb_onslaught_title"		"Anstormning"
-		// context: Hardcore Brutal Onslaught
+// context: Hardcore Brutal Onslaught
 "[english]nb_hardcore_title"		"Hardcore"
 "nb_hardcore_title"		"Hardcore"
 "[english]nb_friendly_fire_title"		"Friendly Fire"
@@ -4438,8 +4438,8 @@
 "workshop_stat_current_subscribers"		"%s1 nuvarande prenumeranter"
 "[english]workshop_stat_current_subscribers_1"		"%s1 current subscriber"
 "workshop_stat_current_subscribers_1"		"%s1 nuvarande prenumerant"
-"[english]workshop_stat_unique_viewers"		"%s1 unika besökare"
-"workshop_stat_unique_viewers"		"%s1 unique visitors"
+"[english]workshop_stat_unique_viewers"		"%s1 unique visitors"
+"workshop_stat_unique_viewers"		"%s1 unika besökare"
 "[english]workshop_stat_unique_viewers_1"		"%s1 unique visitor"
 "workshop_stat_unique_viewers_1"		"%s1 unika besökare"
 "[english]workshop_stat_updated_date"		"Last updated on %s1"
@@ -4455,7 +4455,7 @@
 "rd_workshop_dummy_item"		"Ny Workshop Tillägg"
 "[english]rd_workshop_published_addons"		"Published Workshop Add-ons"
 "rd_workshop_published_addons"		"Publicerade Workshop Tillägg"
-		// button to switch to installed addons list
+// button to switch to installed addons list
 "[english]rd_workshop_installed_short"		"Installed"
 "rd_workshop_installed_short"		"Installerad"
 // button to switch to publish addons page
