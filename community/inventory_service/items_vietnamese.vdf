@@ -243,11 +243,11 @@
 "[english]item_event_medal_mapping_2023_name"		"Mapping Competition Participant (2023)"
 "item_event_medal_mapping_2023_name"		"Người tham dự cạnh tranh làm bản đồ (2023)"
 "[english]item_event_medal_mapping_2023_description"		"Submitted an entry to the first annual mapping competition: \"Boss Fight\", running from April 20th to August 1st 2023."
-"item_event_medal_mapping_2023_description"		"Đã nộp một tác phẩm tới cạnh tranh làm bản đồ hàng năm thứ nhất: \"Đấu trùm\", diễn từ 20/4 cho tới 1/8 năm 2023."
+"item_event_medal_mapping_2023_description"		"Đã nộp một tác phẩm dự thi tới cạnh tranh làm bản đồ hàng năm thứ nhất: \"Đấu trùm\", diễn từ 20/4 cho tới 1/8 năm 2023."
 "[english]item_event_medal_mapping_2024_name"		"Mapping Competition Participant (2024)"
 "item_event_medal_mapping_2024_name"		"Người tham dự cạnh tranh làm bản đồ (2024)"
-		"[english]item_event_medal_mapping_2024_description"		"Submitted an entry to the second annual mapping competition: \"Space Station\", running from April 20th to August 1st 2024."
-		"item_event_medal_mapping_2024_description"		"Submitted an entry to the second annual mapping competition: \"Space Station\", running from April 20th to August 1st 2024."
+"[english]item_event_medal_mapping_2024_description"		"Submitted an entry to the second annual mapping competition: \"Space Station\", running from April 20th to August 1st 2024."
+"item_event_medal_mapping_2024_description"		"Đã nộp một tác phẩm dự thi tới cạnh tranh làm bản đồ hàng năm thứ hai: \"Trạm vũ trụ\", diễn từ 20/4 cho tới 1/8 năm 2024."
 
 "[english]item_unique_medal_ben_lubar_name"		"Ben Lubar"
 "item_unique_medal_ben_lubar_name"		"Ben Lubar"
@@ -378,11 +378,11 @@
 "item_crafting_material_cryotic_name"		"Cryotic"
 "[english]item_crafting_material_cryotic_description"		"A hazardous material that freezes on contact, found while on a mission."
 "item_crafting_material_cryotic_description"		"Một vật liệu nguy hiểm mà làm đông khi tiếp xúc, được tìm thấy trong khi đang làm một nhiệm vụ."
-		// The item is a canister of the noble gas argon. When translating, the exact amount of argon is not important (the container is not a cube and is larger than a cubic foot in volume). Using cubic feet to refer to a gas stored in a round container is intentionally awkward.
-		"[english]item_crafting_material_argon_canister_name"		"Cubic Foot of Argon"
-		"item_crafting_material_argon_canister_name"		"Cubic Foot of Argon"
-		"[english]item_crafting_material_argon_canister_description"		"An inert gas with many industrial applications, found while on a mission."
-		"item_crafting_material_argon_canister_description"		"An inert gas with many industrial applications, found while on a mission."
+// The item is a canister of the noble gas argon. When translating, the exact amount of argon is not important (the container is not a cube and is larger than a cubic foot in volume). Using cubic feet to refer to a gas stored in a round container is intentionally awkward.
+"[english]item_crafting_material_argon_canister_name"		"Cubic Foot of Argon"
+"item_crafting_material_argon_canister_name"		"Thùng chứa khí Argon"
+"[english]item_crafting_material_argon_canister_description"		"An inert gas with many industrial applications, found while on a mission."
+"item_crafting_material_argon_canister_description"		"Một khí trơ với rất nhiều ứng dụng công nghiệp, được tìm thấy trong khi đang làm một nhiệm vụ."
 
 "[english]item_strange_device_missions_name"		"Missions"
 "item_strange_device_missions_name"		"Nhiệm vụ"
