@@ -4,12 +4,12 @@
 "Tokens"
 {
 "[english]testcommands"		"<clr:255,0,0>This is red<I> and italics<B> and<cr>bold<B><I><clr:255,255,255> white again."
-"testcommands"		"<clr:255,0,0>Det här är röd<I> och kursiv stil<B> and<cr>bold<B><I><clr:255,255,255> vit igen."
+"testcommands"		"<clr:255,0,0>Det är rött<I> och kursivt<B> och<cr>djärvt<B><I><clr:255,255,255> vitt igen."
 
 		//Commander Audio
 
 		"[english]Command.co_m1_ob1"		"<clr:240,255,255>Commander: Okay, squad. We need to check the shipping manifests to see if any survivors made it off this rock. Make your way down to the landing bay and find a terminal where we can download the transport records. I'll check in with you there."
-		"Command.co_m1_ob1"		"<clr:240,255,255>Befälhavare: Okay, squad. We need to check the shipping manifests to see if any survivors made it off this rock. Make your way down to the landing bay and find a terminal where we can download the transport records. I'll check in with you there."
+		"Command.co_m1_ob1"		"<clr:240,255,255>Commander: Okay, squad. We need to check the shipping manifests to see if any survivors made it off this rock. Make your way down to the landing bay and find a terminal where we can download the transport records. I'll check in with you there."
 
 		"[english]Command.co_m1_ob2"		"<clr:240,255,255>Commander: Well, these manifests are useless. Guess record keeping wasn't exactly high on the priority list when the swarm hit. We are now search and rescue until otherwise informed, so keep an eye out for survivors. Head for the far exit and then we'll regroup."
 		"Command.co_m1_ob2"		"<clr:240,255,255>Commander: Well, these manifests are useless. Guess record keeping wasn't exactly high on the priority list when the swarm hit. We are now search and rescue until otherwise informed, so keep an eye out for survivors. Head for the far exit and then we'll regroup."
