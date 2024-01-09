@@ -8,215 +8,215 @@
 
 //Commander Audio
 
-"[english]Command.co_m1_ob1"		"<clr:240,255,255>Commander: Okay, squad. We need to check the shipping manifests to see if any survivors made it off this rock. Make your way down to the landing bay and find a terminal where we can download the transport records. I'll check in with you there."
-"Command.co_m1_ob1"		"<clr:240,255,255>사령관: 좋아. 우리는 혹여나 있을 지 모르는 생존자가 여기를 떠났는지 선박 기록을 확인해야 한다. 상륙 지점으로 가서, 우리가 운송 기록을 다운로드할 수 있는 터미널을 찾아보도록. 거기서 합류하도록 하지."
+"[english]Command.co_m1_ob1"		"<clr:240,255,255>Lt. Williams: Okay, squad. We need to check the shipping manifests to see if any survivors made it off this rock. Make your way down to the landing bay and find a terminal where we can download the transport records. I'll check in with you there."
+"Command.co_m1_ob1"		"<clr:240,255,255>윌리엄스 중위: 좋아. 우리는 혹여나 있을 지 모르는 생존자가 여기를 떠났는지 선박 기록을 확인해야 한다. 상륙 지점으로 가서, 우리가 운송 기록을 다운로드할 수 있는 터미널을 찾아보도록. 거기서 합류하도록 하지."
 
-"[english]Command.co_m1_ob2"		"<clr:240,255,255>Commander: Well, these manifests are useless. Guess record keeping wasn't exactly high on the priority list when the swarm hit. We are now search and rescue until otherwise informed, so keep an eye out for survivors. Head for the far exit and then we'll regroup."
-"Command.co_m1_ob2"		"<clr:240,255,255>사령관: 글쎄, 이 기록들은 전혀 쓸모가 없군 그래. 외계 무리 침공 당시에는 기록 보존의 우선 순위가 그렇게 높지 않았나 보군. 이제 다른 지시가 있을 때까지 수색 및 구조 활동을 해야 한다. 그러니, 생존자를 찾는 데 온 힘을 다 하도록. 출구로 향하게. 거기서 다시 합류하도록 하지."
+"[english]Command.co_m1_ob2"		"<clr:240,255,255>Lt. Williams: Well, these manifests are useless. Guess record keeping wasn't exactly high on the priority list when the swarm hit. We are now search and rescue until otherwise informed, so keep an eye out for survivors. Head for the far exit and then we'll regroup."
+"Command.co_m1_ob2"		"<clr:240,255,255>윌리엄스 중위: 글쎄, 이 기록들은 전혀 쓸모가 없군 그래. 외계 무리 침공 당시에는 기록 보존의 우선 순위가 그렇게 높지 않았나 보군. 이제 다른 지시가 있을 때까지 수색 및 구조 활동을 해야 한다. 그러니, 생존자를 찾는 데 온 힘을 다 하도록. 출구로 향하게. 거기서 다시 합류하도록 하지."
 
-"[english]Command.co_m1_ob3"		"<clr:240,255,255>Commander: All right, keep going! Main colony's dead ahead!"
-"Command.co_m1_ob3"		"<clr:240,255,255>사령관: 좋아, 계속 진행하게. 주 식민지가 바로 앞에 있어."
+"[english]Command.co_m1_ob3"		"<clr:240,255,255>Lt. Williams: All right, keep going! Main colony's dead ahead!"
+"Command.co_m1_ob3"		"<clr:240,255,255>윌리엄스 중위: 좋아, 계속 진행하게. 주 식민지가 바로 앞에 있어."
 
-"[english]Command.co_m1_ob4"		"<clr:240,255,255>Commander: Keep the elevator down to the main mining complex and forward formation to the entrance."
-"Command.co_m1_ob4"		"<clr:240,255,255>사령관: 승강기로 주 광산 단지까지 내려간 다음 입구까지 대형을 전진시키게."
+"[english]Command.co_m1_ob4"		"<clr:240,255,255>Lt. Williams: Keep the elevator down to the main mining complex and forward formation to the entrance."
+"Command.co_m1_ob4"		"<clr:240,255,255>윌리엄스 중위: 승강기로 주 광산 단지까지 내려간 다음 입구까지 대형을 전진시키게."
 
-"[english]Command.co_m1_ob5"		"<clr:240,255,255>Commander: I'm picking up multiple inbound motion signatures. Something tells me these ain't friendlies. Try to hold out until the elevator arrives."
-"Command.co_m1_ob5"		"<clr:240,255,255>사령관: 그곳에서 다수의 움직임 신호가 잡히고 있네. 그런데 아군 같지는 않아 보이는군. 승강기가 도착할 때까지 잘 버텨 보도록 하게."
+"[english]Command.co_m1_ob5"		"<clr:240,255,255>Lt. Williams: I'm picking up multiple inbound motion signatures. Something tells me these ain't friendlies. Try to hold out until the elevator arrives."
+"Command.co_m1_ob5"		"<clr:240,255,255>윌리엄스 중위: 그곳에서 다수의 움직임 신호가 잡히고 있네. 그런데 아군 같지는 않아 보이는군. 승강기가 도착할 때까지 잘 버텨 보도록 하게."
 
-"[english]Command.co_m1_ob6"		"<clr:240,255,255>Commander: We better get to the colony to see what we can find."
-"Command.co_m1_ob6"		"<clr:240,255,255>사령관: 우리가 찾는 걸 위해서는 식민지에 도달해야만 하네."
+"[english]Command.co_m1_ob6"		"<clr:240,255,255>Lt. Williams: We better get to the colony to see what we can find."
+"Command.co_m1_ob6"		"<clr:240,255,255>윌리엄스 중위: 우리가 찾는 걸 위해서는 식민지에 도달해야만 하네."
 
-"[english]Command.co_m1_ob7"		"<clr:240,255,255>Commander: We can't get to the colony from up here, we need to get down to the lower level."
-"Command.co_m1_ob7"		"<clr:240,255,255>사령관: 위로는 식민지로 갈 수가 없어. 더 낮은 층으로 내려가야만 하네."
+"[english]Command.co_m1_ob7"		"<clr:240,255,255>Lt. Williams: We can't get to the colony from up here, we need to get down to the lower level."
+"Command.co_m1_ob7"		"<clr:240,255,255>윌리엄스 중위: 위로는 식민지로 갈 수가 없어. 더 낮은 층으로 내려가야만 하네."
 
-"[english]Command.co_m1_ob8"		"<clr:240,255,255>Commander: Get to the exit!"
-"Command.co_m1_ob8"		"<clr:240,255,255>사령관: 탈출구로 이동하게!"
+"[english]Command.co_m1_ob8"		"<clr:240,255,255>Lt. Williams: Get to the exit!"
+"Command.co_m1_ob8"		"<clr:240,255,255>윌리엄스 중위: 탈출구로 이동하게!"
 
-"[english]Command.co_m2_ob1"		"<clr:240,255,255>Commander: The situation isn't pretty. This next sector is completely overrun. There's a pipeline that the Swarm's using as a superhighway to spread through the colony. You go ahead and find the pipeline, and I'll see if we can figure out a way to destroy it. We need to stop these bugs from getting out."
-"Command.co_m2_ob1"		"<clr:240,255,255>사령관: 상황이 그닥 좋지 않네. 이 다음 섹터는 완전히 침식당했어. 그곳에는 외계 무리들이 식민지 곳곳으로 퍼질 때 일종의 고속도로로 사용한 파이프라인이 있다네. 그곳으로 가서 파이프라인을 찾아내도록. 나는 그것을 파괴할 방법을 찾아보도록 하지. 이 벌레자식들이 더 이상 기어나오지 못 하도록 반드시 막아야 해."
+"[english]Command.co_m2_ob1"		"<clr:240,255,255>Lt. Williams: The situation isn't pretty. This next sector is completely overrun. There's a pipeline that the Swarm's using as a superhighway to spread through the colony. You go ahead and find the pipeline, and I'll see if we can figure out a way to destroy it. We need to stop these bugs from getting out."
+"Command.co_m2_ob1"		"<clr:240,255,255>윌리엄스 중위: 상황이 그닥 좋지 않네. 이 다음 섹터는 완전히 침식당했어. 그곳에는 외계 무리들이 식민지 곳곳으로 퍼질 때 일종의 고속도로로 사용한 파이프라인이 있다네. 그곳으로 가서 파이프라인을 찾아내도록. 나는 그것을 파괴할 방법을 찾아보도록 하지. 이 벌레자식들이 더 이상 기어나오지 못 하도록 반드시 막아야 해."
 
-"[english]Command.co_m2_ob2"		"<clr:240,255,255>Commander: Looks like we weren't the only ones who knew the Swarm were using the pipeline. That's a lot of boom packed around that pipe. Miners must have rigged the explosives but never got the chance to set em off. How about you finish what they started?"
-"Command.co_m2_ob2"		"<clr:240,255,255>사령관: 음, 이 파이프라인이 외계 무리의 통로로 사용된다는 것을 알아낸 것이 우리뿐만이 아닌 것 같군. 저 파이프 주변에 엄청난 양의 폭발물이 설치되어 있어. 광부들이 저기에 폭발물을 설치는 했지만 격발시키는 데 실패한 것 같네. 자네가 그들이 시작한 것을 마무리짓는 것이 어떤가?"
+"[english]Command.co_m2_ob2"		"<clr:240,255,255>Lt. Williams: Looks like we weren't the only ones who knew the Swarm were using the pipeline. That's a lot of boom packed around that pipe. Miners must have rigged the explosives but never got the chance to set em off. How about you finish what they started?"
+"Command.co_m2_ob2"		"<clr:240,255,255>윌리엄스 중위: 음, 이 파이프라인이 외계 무리의 통로로 사용된다는 것을 알아낸 것이 우리뿐만이 아닌 것 같군. 저 파이프 주변에 엄청난 양의 폭발물이 설치되어 있어. 광부들이 저기에 폭발물을 설치는 했지만 격발시키는 데 실패한 것 같네. 자네가 그들이 시작한 것을 마무리짓는 것이 어떤가?"
 
-"[english]Command.co_m2_ob3"		"<clr:240,255,255>Commander: That's the pipeline right above you. Go ahead and blow it now!"
-"Command.co_m2_ob3"		"<clr:240,255,255>사령관: 자네 바로 위에 있는 바로 그 파이프라인일세. 어서 날려버리게!"
+"[english]Command.co_m2_ob3"		"<clr:240,255,255>Lt. Williams: That's the pipeline right above you. Go ahead and blow it now!"
+"Command.co_m2_ob3"		"<clr:240,255,255>윌리엄스 중위: 자네 바로 위에 있는 바로 그 파이프라인일세. 어서 날려버리게!"
 
-"[english]Command.co_m2_ob4"		"<clr:240,255,255>Commander: Looks like power's out in the next area. I got an idea though for lighting up your way."
-"Command.co_m2_ob4"		"<clr:240,255,255>사령관: 다음 지역의 전원 공급이 끊어진 것 같군. 그렇지만, 자네들의 길을 밝혀줄 대안이 내게 있다네."
+"[english]Command.co_m2_ob4"		"<clr:240,255,255>Lt. Williams: Looks like power's out in the next area. I got an idea though for lighting up your way."
+"Command.co_m2_ob4"		"<clr:240,255,255>윌리엄스 중위: 다음 지역의 전원 공급이 끊어진 것 같군. 그렇지만, 자네들의 길을 밝혀줄 대안이 내게 있다네."
 
-"[english]Command.co_m2_ob5"		"<clr:240,255,255>Commander: Okay, I'm sending in Bloodhound to see if I can't shed a little light on this problem. You try and stay in her lamps while you're crossing the bridge, you should be all right."
-"Command.co_m2_ob5"		"<clr:240,255,255>사령관: 좋아, 지금 함선 블러드하운드를 보내 이 문제에 작은 빛을 밝힐 수 있을지 알아보도록 하지. 다리를 건널 동안 함선의 탐조등 아래에 있으면 문제 없을걸세."
+"[english]Command.co_m2_ob5"		"<clr:240,255,255>Lt. Williams: Okay, I'm sending in Bloodhound to see if I can't shed a little light on this problem. You try and stay in her lamps while you're crossing the bridge, you should be all right."
+"Command.co_m2_ob5"		"<clr:240,255,255>윌리엄스 중위: 좋아, 지금 함선 블러드하운드를 보내 이 문제에 작은 빛을 밝힐 수 있을지 알아보도록 하지. 다리를 건널 동안 함선의 탐조등 아래에 있으면 문제 없을걸세."
 
-"[english]Command.co_m2_ob6"		"<clr:240,255,255>Commander: Good job. Now get across."
-"Command.co_m2_ob6"		"<clr:240,255,255>사령관: 잘 했군. 이제 건너가게."
+"[english]Command.co_m2_ob6"		"<clr:240,255,255>Lt. Williams: Good job. Now get across."
+"Command.co_m2_ob6"		"<clr:240,255,255>윌리엄스 중위: 잘 했군. 이제 건너가게."
 
-"[english]Command.co_m2_ob7"		"<clr:240,255,255>Commander: Okay, I'm gonna bring Bloodhound in low and hover. You climb across her back while she's waiting. Step lightly now. She's gotta bring you home at the end of this."
-"Command.co_m2_ob7"		"<clr:240,255,255>사령관: 좋아, 내가 블러드하운드의 고도를 약간 낮추도록 하지. 함선 위를 지나가게. 그리고 발걸음을 조금 가볍게 하도록. 모든 임무가 끝나면 자네들을 태우고 귀환해야 하니까."
+"[english]Command.co_m2_ob7"		"<clr:240,255,255>Lt. Williams: Okay, I'm gonna bring Bloodhound in low and hover. You climb across her back while she's waiting. Step lightly now. She's gotta bring you home at the end of this."
+"Command.co_m2_ob7"		"<clr:240,255,255>윌리엄스 중위: 좋아, 내가 블러드하운드의 고도를 약간 낮추도록 하지. 함선 위를 지나가게. 그리고 발걸음을 조금 가볍게 하도록. 모든 임무가 끝나면 자네들을 태우고 귀환해야 하니까."
 
-"[english]Command.co_m2_ob8"		"<clr:240,255,255>Commander: Colony reactor is dead ahead."
-"Command.co_m2_ob8"		"<clr:240,255,255>사령관: 식민지 반응로가 바로 앞에 있네."
+"[english]Command.co_m2_ob8"		"<clr:240,255,255>Lt. Williams: Colony reactor is dead ahead."
+"Command.co_m2_ob8"		"<clr:240,255,255>윌리엄스 중위: 식민지 반응로가 바로 앞에 있네."
 
-"[english]Command.co_m3_ob1"		"<clr:240,255,255>Commander: Okay Squad, command wants the computers up and running. The colony's reactor was knocked offline by the Swarm attack, so you need to find your way to the reactor core and get that juice back on in there."
-"Command.co_m3_ob1"		"<clr:240,255,255>사령관: 좋아, 제군들. 사령부는 식민지의 컴퓨터 시스템이 작동하기를 바라고 있네. 그렇지만 전원 공급원인 반응로가 외계 무리 침공 당시의 충격 때문에 꺼져버리고 말았지. 그러니, 반응로의 핵심부에 접근하여 전원을 되살려놓게."
+"[english]Command.co_m3_ob1"		"<clr:240,255,255>Lt. Williams: Okay Squad, command wants the computers up and running. The colony's reactor was knocked offline by the Swarm attack, so you need to find your way to the reactor core and get that juice back on in there."
+"Command.co_m3_ob1"		"<clr:240,255,255>윌리엄스 중위: 좋아, 제군들. 사령부는 식민지의 컴퓨터 시스템이 작동하기를 바라고 있네. 그렇지만 전원 공급원인 반응로가 외계 무리 침공 당시의 충격 때문에 꺼져버리고 말았지. 그러니, 반응로의 핵심부에 접근하여 전원을 되살려놓게."
 
-"[english]Command.co_m3_ob2"		"<clr:240,255,255>Commander: Great job, team! Power is on. Command is accessing the colony's computer systems right now. Keep moving, and we'll regroup up ahead."
-"Command.co_m3_ob2"		"<clr:240,255,255>사령관: 매우 잘 했군! 전원이 살아났어. 사령부에서는 지금 식민지의 컴퓨터 시스템에 접속 중이네. 계속 이동하도록. 잠시 후에 합류하도록 하겠네."
+"[english]Command.co_m3_ob2"		"<clr:240,255,255>Lt. Williams: Great job, team! Power is on. Command is accessing the colony's computer systems right now. Keep moving, and we'll regroup up ahead."
+"Command.co_m3_ob2"		"<clr:240,255,255>윌리엄스 중위: 매우 잘 했군! 전원이 살아났어. 사령부에서는 지금 식민지의 컴퓨터 시스템에 접속 중이네. 계속 이동하도록. 잠시 후에 합류하도록 하겠네."
 
-"[english]Command.co_m3_ob3"		"<clr:240,255,255>Commander: Okay, Squad. Word just came down from on high. I'm gonna be straight with you, it's all bad. Command didn't like what the colony's computer system had to say. Looks like the colonists are dead. Means the infestation is out of control, and they've decided to introduce the Swarm to the wonders of the nuclear age. They've uploaded detonation codes into the mine's nuclear excavation device—basically a nuclear warhead—and they need you to deliver it into the heart of the Swarm's nest. Head toward residential, and I'll find you a path to the bomb."
-"Command.co_m3_ob3"		"<clr:240,255,255>사령관: 좋아, 제군들. 좋지 않은 소식이 있네. 내가 자네들 옆에 바짝 붙어있도록 하지; 그만큼 상황이 좋지 않아. 사령부는 식민지의 컴퓨터 시스템이 전해준 소식을 별로 좋아하지 않네; 식민지 거주자들이 모두 죽은 모양이야. 이것은 또한 침식이 제어 불가능한 수준이라는 것을 의미하지. 사령부에서는 외계 무리들에게 원자력 문명의 경이로움을 소개하기로 했네. 이미 광산에 설치된 원자력 굴착 기기, 쉽게 말해 원자탄두에 발사 암호를 입력해 두었지. 사령부는 자네들이 그 탄두를 외계 무리 둥지의 핵심부로 이동시키길 원하네. 그럼 거주 구역으로 향하도록. 폭탄으로 향하는 길을 알려주겠네."
+"[english]Command.co_m3_ob3"		"<clr:240,255,255>Lt. Williams: Okay, Squad. Word just came down from on high. I'm gonna be straight with you, it's all bad. Command didn't like what the colony's computer system had to say. Looks like the colonists are dead. Means the infestation is out of control, and they've decided to introduce the Swarm to the wonders of the nuclear age. They've uploaded detonation codes into the mine's nuclear excavation device—basically a nuclear warhead—and they need you to deliver it into the heart of the Swarm's nest. Head toward residential, and I'll find you a path to the bomb."
+"Command.co_m3_ob3"		"<clr:240,255,255>윌리엄스 중위: 좋아, 제군들. 좋지 않은 소식이 있네. 내가 자네들 옆에 바짝 붙어있도록 하지; 그만큼 상황이 좋지 않아. 사령부는 식민지의 컴퓨터 시스템이 전해준 소식을 별로 좋아하지 않네; 식민지 거주자들이 모두 죽은 모양이야. 이것은 또한 침식이 제어 불가능한 수준이라는 것을 의미하지. 사령부에서는 외계 무리들에게 원자력 문명의 경이로움을 소개하기로 했네. 이미 광산에 설치된 원자력 굴착 기기, 쉽게 말해 원자탄두에 발사 암호를 입력해 두었지. 사령부는 자네들이 그 탄두를 외계 무리 둥지의 핵심부로 이동시키길 원하네. 그럼 거주 구역으로 향하도록. 폭탄으로 향하는 길을 알려주겠네."
 
-"[english]Command.co_m4_ob1"		"<clr:240,255,255>Commander: All right, sensors show a massive build-up of eggs and biomass in this sector. Make yourselves a little room to work. Clear out the infestation. Burn them if you have to, but be advised, destroying biomass calls the Swarm."
-"Command.co_m4_ob1"		"<clr:240,255,255>사령관: 좋아. 센서에 의하면, 이 섹터에 거대한 유기구조체와 알이 퍼질 대로 퍼져 있다고 하는군. 제거하기 전에 공간을 조금 터 놓도록 하게. 침식을 제거해야 하네. 필요하다면 불태워도 무방하네만, 유기구조체를 파괴하면 외계 무리들이 몰려올 것이니 유념하게."
+"[english]Command.co_m4_ob1"		"<clr:240,255,255>Lt. Williams: All right, sensors show a massive build-up of eggs and biomass in this sector. Make yourselves a little room to work. Clear out the infestation. Burn them if you have to, but be advised, destroying biomass calls the Swarm."
+"Command.co_m4_ob1"		"<clr:240,255,255>윌리엄스 중위: 좋아. 센서에 의하면, 이 섹터에 거대한 유기구조체와 알이 퍼질 대로 퍼져 있다고 하는군. 제거하기 전에 공간을 조금 터 놓도록 하게. 침식을 제거해야 하네. 필요하다면 불태워도 무방하네만, 유기구조체를 파괴하면 외계 무리들이 몰려올 것이니 유념하게."
 
-"[english]Command.co_m4_ob2"		"<clr:240,255,255>Commander: Looks like more biomass ahead; get a firing solution on that problem."
-"Command.co_m4_ob2"		"<clr:240,255,255>사령관: 앞에 유기구조체가 더 있는 것 같군. 그냥 불태워 버리게."
+"[english]Command.co_m4_ob2"		"<clr:240,255,255>Lt. Williams: Looks like more biomass ahead; get a firing solution on that problem."
+"Command.co_m4_ob2"		"<clr:240,255,255>윌리엄스 중위: 앞에 유기구조체가 더 있는 것 같군. 그냥 불태워 버리게."
 
-"[english]Command.co_m4_ob3"		"<clr:240,255,255>Commander: All right, you've almost cleared out the last of it. Keep pushing forward."
-"Command.co_m4_ob3"		"<clr:240,255,255>사령관: 좋아, 거의 다 제거했군 그래. 계속 밀고 나가게나."
+"[english]Command.co_m4_ob3"		"<clr:240,255,255>Lt. Williams: All right, you've almost cleared out the last of it. Keep pushing forward."
+"Command.co_m4_ob3"		"<clr:240,255,255>윌리엄스 중위: 좋아, 거의 다 제거했군 그래. 계속 밀고 나가게나."
 
-"[english]Command.co_m4_ob4"		"<clr:240,255,255>Commander: Just a few more eggs to go."
-"Command.co_m4_ob4"		"<clr:240,255,255>사령관: 조금만 더 알을 제거하면 되네."
+"[english]Command.co_m4_ob4"		"<clr:240,255,255>Lt. Williams: Just a few more eggs to go."
+"Command.co_m4_ob4"		"<clr:240,255,255>윌리엄스 중위: 조금만 더 알을 제거하면 되네."
 
-"[english]Command.co_m4_ob5"		"<clr:240,255,255>Commander: You cleared out the area, time to get to the Swarm nest. Take the elevator down."
-"Command.co_m4_ob5"		"<clr:240,255,255>사령관: 그 지역을 모두 정리했군, 이제 외계 무리 둥지로 향할 시간일세. 앨리베이터를 타게."
+"[english]Command.co_m4_ob5"		"<clr:240,255,255>Lt. Williams: You cleared out the area, time to get to the Swarm nest. Take the elevator down."
+"Command.co_m4_ob5"		"<clr:240,255,255>윌리엄스 중위: 그 지역을 모두 정리했군, 이제 외계 무리 둥지로 향할 시간일세. 앨리베이터를 타게."
 
-"[english]Command.co_m5_ob1"		"<clr:240,255,255>Commander: Okay Squad. I'm picking up major swarm at sewer junction 16."
-"Command.co_m5_ob1"		"<clr:240,255,255>사령관: 좋아, 제군들. 내가 16번 하수 집합 시설에서 대규모의 외계 무리를 발견했다네."
+"[english]Command.co_m5_ob1"		"<clr:240,255,255>Lt. Williams: Okay Squad. I'm picking up major swarm at sewer junction 16."
+"Command.co_m5_ob1"		"<clr:240,255,255>윌리엄스 중위: 좋아, 제군들. 내가 16번 하수 집합 시설에서 대규모의 외계 무리를 발견했다네."
 
-"[english]Command.co_m5_ob2"		"<clr:240,255,255>Commander: I'm picking up massive kinetic signatures in one of the old maintenance tunnels. Remember, these eggs are full of parasites. Take 'em out on sight."
-"Command.co_m5_ob2"		"<clr:240,255,255>사령관: 오래된 관리용 터널에서 대규모의 움직임 신호가 잡히는군. 그리고, 저 알들은 기생충으로 가득 차 있다는 것을 유념하게. 발견 즉시 파괴하도록."
+"[english]Command.co_m5_ob2"		"<clr:240,255,255>Lt. Williams: I'm picking up massive kinetic signatures in one of the old maintenance tunnels. Remember, these eggs are full of parasites. Take 'em out on sight."
+"Command.co_m5_ob2"		"<clr:240,255,255>윌리엄스 중위: 오래된 관리용 터널에서 대규모의 움직임 신호가 잡히는군. 그리고, 저 알들은 기생충으로 가득 차 있다는 것을 유념하게. 발견 즉시 파괴하도록."
 
-"[english]Command.co_m5_ob3"		"<clr:240,255,255>Commander: Okay Squad. Moisture's dripping off those walls. Looks like an ideal breeding ground for swarm parasites. Keep a sharp eye out. If you get infested, call a medic. Your best chance is to destroy the eggs before they pop."
-"Command.co_m5_ob3"		"<clr:240,255,255>사령관: 좋아, 제군들. 저 벽을 타고 습기가 내려오고 있는 걸 보니, 기생충들이 자라기에 아주 좋은 환경을 갖추고 있는 것 같네. 계속 주변을 경계하게. 만약 감염되었다면, 즉시 의무병을 부르도록. 물론, 알이 부화하기 전에 파괴하는 것이 가장 좋은 방법이라는 사실은 변함없네."
+"[english]Command.co_m5_ob3"		"<clr:240,255,255>Lt. Williams: Okay Squad. Moisture's dripping off those walls. Looks like an ideal breeding ground for swarm parasites. Keep a sharp eye out. If you get infested, call a medic. Your best chance is to destroy the eggs before they pop."
+"Command.co_m5_ob3"		"<clr:240,255,255>윌리엄스 중위: 좋아, 제군들. 저 벽을 타고 습기가 내려오고 있는 걸 보니, 기생충들이 자라기에 아주 좋은 환경을 갖추고 있는 것 같네. 계속 주변을 경계하게. 만약 감염되었다면, 즉시 의무병을 부르도록. 물론, 알이 부화하기 전에 파괴하는 것이 가장 좋은 방법이라는 사실은 변함없네."
 
-"[english]Command.co_m5_ob4"		"<clr:240,255,255>Commander: Okay, team, we need to seal the tunnel entrance. This will help keep the swarm off your backs as you move deeper into the colony."
-"Command.co_m5_ob4"		"<clr:240,255,255>사령관: 좋아. 저 터널 입구를 봉해야 할 것 같군. 그래야 자네들이 식민지 더 깊숙히 들어가더라도 외계 무리들의 후방 공격으로부터 자유로울 걸세."
+"[english]Command.co_m5_ob4"		"<clr:240,255,255>Lt. Williams: Okay, team, we need to seal the tunnel entrance. This will help keep the swarm off your backs as you move deeper into the colony."
+"Command.co_m5_ob4"		"<clr:240,255,255>윌리엄스 중위: 좋아. 저 터널 입구를 봉해야 할 것 같군. 그래야 자네들이 식민지 더 깊숙히 들어가더라도 외계 무리들의 후방 공격으로부터 자유로울 걸세."
 
-"[english]Command.co_m5_ob5"		"<clr:240,255,255>Commander: Okay, Squad. I think I've found a shortcut for you. I'm detecting a breach in the facility's northwest wall. Move the squad through that breach and regain access to the surface."
-"Command.co_m5_ob5"		"<clr:240,255,255>사령관: 좋아, 제군들. 내가 지름길을 하나 찾았다네. 하수 시설의 북서쪽 벽에 큰 구멍이 하나 나 있는 것을 발견했지. 그 구멍을 통해 지상으로 다시 나가도록."
+"[english]Command.co_m5_ob5"		"<clr:240,255,255>Lt. Williams: Okay, Squad. I think I've found a shortcut for you. I'm detecting a breach in the facility's northwest wall. Move the squad through that breach and regain access to the surface."
+"Command.co_m5_ob5"		"<clr:240,255,255>윌리엄스 중위: 좋아, 제군들. 내가 지름길을 하나 찾았다네. 하수 시설의 북서쪽 벽에 큰 구멍이 하나 나 있는 것을 발견했지. 그 구멍을 통해 지상으로 다시 나가도록."
 
-"[english]Command.co_m6_ob1"		"<clr:240,255,255>Commander: Alright, the bomb is just up ahead!"
-"Command.co_m6_ob1"		"<clr:240,255,255>사령관: 좋아, 폭탄에 거의 도착했다."
+"[english]Command.co_m6_ob1"		"<clr:240,255,255>Lt. Williams: Alright, the bomb is just up ahead!"
+"Command.co_m6_ob1"		"<clr:240,255,255>윌리엄스 중위: 좋아, 폭탄에 거의 도착했다."
 
-"[english]Command.co_m6_ob2"		"<clr:240,255,255>Commander: We've got new kinetic signatures breaking out all across the map. This doesn't look good."
-"Command.co_m6_ob2"		"<clr:240,255,255>사령관: 이런, 맵 전체에서 움직임 신호가 감지되는군. 이건 좋지 않아."
+"[english]Command.co_m6_ob2"		"<clr:240,255,255>Lt. Williams: We've got new kinetic signatures breaking out all across the map. This doesn't look good."
+"Command.co_m6_ob2"		"<clr:240,255,255>윌리엄스 중위: 이런, 맵 전체에서 움직임 신호가 감지되는군. 이건 좋지 않아."
 
-"[english]Command.co_m6_ob3"		"<clr:240,255,255>Commander: Alright, there's the bomb! You'll need to use the mine's rail system to get that thing into the nest. Remember, losing this fight is not an option. We're gonna sterilize this rock right down to its bare molecules."
-"Command.co_m6_ob3"		"<clr:240,255,255>사령관: 좋아, 폭탄이 바로 거기 있군! 그걸 광산의 레일 시스템을 이용해서 둥지로 옮기도록. 이 결전에서 결코 지면 안 된다는 것을 명심하게. 이 바위동산을 분자 단위로 부숴 버리자고."
+"[english]Command.co_m6_ob3"		"<clr:240,255,255>Lt. Williams: Alright, there's the bomb! You'll need to use the mine's rail system to get that thing into the nest. Remember, losing this fight is not an option. We're gonna sterilize this rock right down to its bare molecules."
+"Command.co_m6_ob3"		"<clr:240,255,255>윌리엄스 중위: 좋아, 폭탄이 바로 거기 있군! 그걸 광산의 레일 시스템을 이용해서 둥지로 옮기도록. 이 결전에서 결코 지면 안 된다는 것을 명심하게. 이 바위동산을 분자 단위로 부숴 버리자고."
 
-"[english]Command.co_m6_ob4"		"<clr:240,255,255>Commander: Okay, first thing's first. You need to reactivate the power substation for the cable railway. This'll start the warhead on its path toward the breeding chamber."
-"Command.co_m6_ob4"		"<clr:240,255,255>사령관: 좋아, 우선 처리할 것은 케이블 선로의 전원 관리기를 활성화시키는 것이네. 그러면 탄두가 외계 무리 부화 장소로 이동할 게야."
+"[english]Command.co_m6_ob4"		"<clr:240,255,255>Lt. Williams: Okay, first thing's first. You need to reactivate the power substation for the cable railway. This'll start the warhead on its path toward the breeding chamber."
+"Command.co_m6_ob4"		"<clr:240,255,255>윌리엄스 중위: 좋아, 우선 처리할 것은 케이블 선로의 전원 관리기를 활성화시키는 것이네. 그러면 탄두가 외계 무리 부화 장소로 이동할 게야."
 
-"[english]Command.co_m6_ob5"		"<clr:240,255,255>Commander: Alright, there are two doors that you're going to need to hack to move the warhead into position. Get 'em open."
-"Command.co_m6_ob5"		"<clr:240,255,255>사령관: 좋아, 탄두를 제 위치로 이동시키려면 잠긴 문 두 개를 해킹으로 열어야 하네."
+"[english]Command.co_m6_ob5"		"<clr:240,255,255>Lt. Williams: Alright, there are two doors that you're going to need to hack to move the warhead into position. Get 'em open."
+"Command.co_m6_ob5"		"<clr:240,255,255>윌리엄스 중위: 좋아, 탄두를 제 위치로 이동시키려면 잠긴 문 두 개를 해킹으로 열어야 하네."
 
-"[english]Command.co_m6_ob6"		"<clr:240,255,255>Commander: Once the warhead is in position, activate the detonation sequence. After that, you're gonna need to back-track your way up to the surface to reach your extraction zone."
-"Command.co_m6_ob6"		"<clr:240,255,255>사령관: 탄두가 제 위치로 가면, 기폭 절차를 시작하게. 그런 다음, 그 곳에서 다시 나와 대피 장소로 이동하도록."
+"[english]Command.co_m6_ob6"		"<clr:240,255,255>Lt. Williams: Once the warhead is in position, activate the detonation sequence. After that, you're gonna need to back-track your way up to the surface to reach your extraction zone."
+"Command.co_m6_ob6"		"<clr:240,255,255>윌리엄스 중위: 탄두가 제 위치로 가면, 기폭 절차를 시작하게. 그런 다음, 그 곳에서 다시 나와 대피 장소로 이동하도록."
 
-"[english]Command.co_m6_ob7"		"<clr:240,255,255>Commander: Alright squad, the clock is ticking. You do NOT want to be there when that device goes off. Trust me, it would ruin your whole day."
-"Command.co_m6_ob7"		"<clr:240,255,255>사령관: 좋아, 제군들. 타이머는 멋으로 있는 것이 아니라네. 폭탄이 터질 때 거기에 휘말리고 싶진 않겠지? 인생을 여기서 끝장낼 것이 아니잖는가."
+"[english]Command.co_m6_ob7"		"<clr:240,255,255>Lt. Williams: Alright squad, the clock is ticking. You do NOT want to be there when that device goes off. Trust me, it would ruin your whole day."
+"Command.co_m6_ob7"		"<clr:240,255,255>윌리엄스 중위: 좋아, 제군들. 타이머는 멋으로 있는 것이 아니라네. 폭탄이 터질 때 거기에 휘말리고 싶진 않겠지? 인생을 여기서 끝장낼 것이 아니잖는가."
 
-"[english]Command.co_m6_ob8"		"<clr:240,255,255>Commander: Head out the same way you came! We'll pick you up on the surface!"
-"Command.co_m6_ob8"		"<clr:240,255,255>사령관: 아까 지나온 길을 그대로 따라가면 될 게야! 우리가 자네들을 데리러 지표로 갈 걸세!"
+"[english]Command.co_m6_ob8"		"<clr:240,255,255>Lt. Williams: Head out the same way you came! We'll pick you up on the surface!"
+"Command.co_m6_ob8"		"<clr:240,255,255>윌리엄스 중위: 아까 지나온 길을 그대로 따라가면 될 게야! 우리가 자네들을 데리러 지표로 갈 걸세!"
 
-"[english]Command.co_m6_ob9"		"<clr:240,255,255>Commander: Gang, you need to be high speed, low drag on this operation."
-"Command.co_m6_ob9"		"<clr:240,255,255>사령관: 이봐들, 이 작전에서는 더 민첩하게 움직여야 한다고."
+"[english]Command.co_m6_ob9"		"<clr:240,255,255>Lt. Williams: Gang, you need to be high speed, low drag on this operation."
+"Command.co_m6_ob9"		"<clr:240,255,255>윌리엄스 중위: 이봐들, 이 작전에서는 더 민첩하게 움직여야 한다고."
 
-"[english]Command.co_m6_ob10"		"<clr:240,255,255>Commander: Time is running out! You've got to pick up the pace."
-"Command.co_m6_ob10"		"<clr:240,255,255>사령관: 시간이 얼마 없어! 속력을 조금 더 내라고."
+"[english]Command.co_m6_ob10"		"<clr:240,255,255>Lt. Williams: Time is running out! You've got to pick up the pace."
+"Command.co_m6_ob10"		"<clr:240,255,255>윌리엄스 중위: 시간이 얼마 없어! 속력을 조금 더 내라고."
 
-"[english]Command.co_m6_ob11"		"<clr:240,255,255>Commander: You need to hustle. You're almost out of time."
-"Command.co_m6_ob11"		"<clr:240,255,255>사령관: 서두르게. 남은 시간이 거의 없어."
+"[english]Command.co_m6_ob11"		"<clr:240,255,255>Lt. Williams: You need to hustle. You're almost out of time."
+"Command.co_m6_ob11"		"<clr:240,255,255>윌리엄스 중위: 서두르게. 남은 시간이 거의 없어."
 
-"[english]Command.co_m6_ob12"		"<clr:240,255,255>Commander: Squad, you need to run like your lives depend on it. 'Cuz they do!"
-"Command.co_m6_ob12"		"<clr:240,255,255>사령관: 제군들. 자네들 목숨이 이 달리기에 달려있다고 생각하고 뛰어야 하네. 왜냐면 실제로 그러니까!"
+"[english]Command.co_m6_ob12"		"<clr:240,255,255>Lt. Williams: Squad, you need to run like your lives depend on it. 'Cuz they do!"
+"Command.co_m6_ob12"		"<clr:240,255,255>윌리엄스 중위: 제군들. 자네들 목숨이 이 달리기에 달려있다고 생각하고 뛰어야 하네. 왜냐면 실제로 그러니까!"
 
-"[english]Command.co_m6_ob13"		"<clr:240,255,255>Commander: There's not much time left."
-"Command.co_m6_ob13"		"<clr:240,255,255>사령관: 시간이 얼마 남지 않았어."
+"[english]Command.co_m6_ob13"		"<clr:240,255,255>Lt. Williams: There's not much time left."
+"Command.co_m6_ob13"		"<clr:240,255,255>윌리엄스 중위: 시간이 얼마 남지 않았어."
 
-"[english]Command.co_m6_ob14"		"<clr:240,255,255>Commander: You're running out of time!"
-"Command.co_m6_ob14"		"<clr:240,255,255>사령관: 시간이 없어!"
+"[english]Command.co_m6_ob14"		"<clr:240,255,255>Lt. Williams: You're running out of time!"
+"Command.co_m6_ob14"		"<clr:240,255,255>윌리엄스 중위: 시간이 없어!"
 
-"[english]Command.co_m6_ob15"		"<clr:240,255,255>Commander: Pick up the pace, or you're not going to make it!"
-"Command.co_m6_ob15"		"<clr:240,255,255>사령관: 서두르지 않으면 여기서 탈출할 수 없어!"
+"[english]Command.co_m6_ob15"		"<clr:240,255,255>Lt. Williams: Pick up the pace, or you're not going to make it!"
+"Command.co_m6_ob15"		"<clr:240,255,255>윌리엄스 중위: 서두르지 않으면 여기서 탈출할 수 없어!"
 
-"[english]Command.co_m6_ob16"		"<clr:240,255,255>Commander: Squad, you need to get out of there, NOW!"
-"Command.co_m6_ob16"		"<clr:240,255,255>사령관: 제군들. 거기서 당장 나오도록 하게!"
+"[english]Command.co_m6_ob16"		"<clr:240,255,255>Lt. Williams: Squad, you need to get out of there, NOW!"
+"Command.co_m6_ob16"		"<clr:240,255,255>윌리엄스 중위: 제군들. 거기서 당장 나오도록 하게!"
 
-"[english]Command.co_m6_ob17"		"<clr:240,255,255>Commander: Ten seconds left!"
-"Command.co_m6_ob17"		"<clr:240,255,255>사령관: 10초밖에 남지 않았어!"
+"[english]Command.co_m6_ob17"		"<clr:240,255,255>Lt. Williams: Ten seconds left!"
+"Command.co_m6_ob17"		"<clr:240,255,255>윌리엄스 중위: 10초밖에 남지 않았어!"
 
-"[english]Command.co_m6_ob18"		"<clr:240,255,255>Commander: You almost made it."
-"Command.co_m6_ob18"		"<clr:240,255,255>사령관: 아, 거의 탈출할 수 있었는데......."
+"[english]Command.co_m6_ob18"		"<clr:240,255,255>Lt. Williams: You almost made it."
+"Command.co_m6_ob18"		"<clr:240,255,255>윌리엄스 중위: 아, 거의 탈출할 수 있었는데......."
 
-"[english]Command.co_m6_ob19"		"<clr:240,255,255>Commander: I'm sorry. I'll notify your next of kin."
-"Command.co_m6_ob19"		"<clr:240,255,255>사령관: 미안하네. 내가 자네들의 가족에게 연락해야겠군."
+"[english]Command.co_m6_ob19"		"<clr:240,255,255>Lt. Williams: I'm sorry. I'll notify your next of kin."
+"Command.co_m6_ob19"		"<clr:240,255,255>윌리엄스 중위: 미안하네. 내가 자네들의 가족에게 연락해야겠군."
 
-"[english]Command.co_m6_ob20"		"<clr:240,255,255>Commander: It was an honor serving with you. You will be remembered."
-"Command.co_m6_ob20"		"<clr:240,255,255>사령관: 자네들과 함께 작전을 수행할 수 있어 영광이었네. 자네들은 오랫동안 기려질게야."
+"[english]Command.co_m6_ob20"		"<clr:240,255,255>Lt. Williams: It was an honor serving with you. You will be remembered."
+"Command.co_m6_ob20"		"<clr:240,255,255>윌리엄스 중위: 자네들과 함께 작전을 수행할 수 있어 영광이었네. 자네들은 오랫동안 기려질게야."
 
-"[english]Command.co_m6_ob21"		"<clr:240,255,255>Commander: It was an honor to serve with each and every one of you. You made the ultimate sacrifice."
-"Command.co_m6_ob21"		"<clr:240,255,255>사령관: 제군들 한명 한명과 함께 작전을 수행할 수 있어 영광이었네. 대업을 위한 자네들의 희생을 잊지 않겠네."
+"[english]Command.co_m6_ob21"		"<clr:240,255,255>Lt. Williams: It was an honor to serve with each and every one of you. You made the ultimate sacrifice."
+"Command.co_m6_ob21"		"<clr:240,255,255>윌리엄스 중위: 제군들 한명 한명과 함께 작전을 수행할 수 있어 영광이었네. 대업을 위한 자네들의 희생을 잊지 않겠네."
 
-"[english]Command.co_m6_ob22"		"<clr:240,255,255>Commander: Good work, mission accomplished!"
-"Command.co_m6_ob22"		"<clr:240,255,255>사령관: 잘 했네! 임무를 완수했어!"
+"[english]Command.co_m6_ob22"		"<clr:240,255,255>Lt. Williams: Good work, mission accomplished!"
+"Command.co_m6_ob22"		"<clr:240,255,255>윌리엄스 중위: 잘 했네! 임무를 완수했어!"
 
-"[english]Command.co_m6_ob23"		"<clr:240,255,255>Commander: Mission accomplished!"
-"Command.co_m6_ob23"		"<clr:240,255,255>사령관: 임무를 완수했어!"
+"[english]Command.co_m6_ob23"		"<clr:240,255,255>Lt. Williams: Mission accomplished!"
+"Command.co_m6_ob23"		"<clr:240,255,255>윌리엄스 중위: 임무를 완수했어!"
 
-"[english]Command.co_m6_ob24"		"<clr:240,255,255>Commander: You did it! The bomb's gone off! The Swarm threat has been exterminated."
-"Command.co_m6_ob24"		"<clr:240,255,255>사령관: 자네들이 해 냈어! 폭탄이 터졌고, 외계 무리의 위협이 드디어 사라졌다네."
+"[english]Command.co_m6_ob24"		"<clr:240,255,255>Lt. Williams: You did it! The bomb's gone off! The Swarm threat has been exterminated."
+"Command.co_m6_ob24"		"<clr:240,255,255>윌리엄스 중위: 자네들이 해 냈어! 폭탄이 터졌고, 외계 무리의 위협이 드디어 사라졌다네."
 
-"[english]Command.co_m6_ob25"		"<clr:240,255,255>Commander: The nuke is blocked! Clear up the biomass to free it up!"
-"Command.co_m6_ob25"		"<clr:240,255,255>사령관: 핵 미사일이 막혀있군! 유기구조체를 제거해서 길을 열게!"
+"[english]Command.co_m6_ob25"		"<clr:240,255,255>Lt. Williams: The nuke is blocked! Clear up the biomass to free it up!"
+"Command.co_m6_ob25"		"<clr:240,255,255>윌리엄스 중위: 핵 미사일이 막혀있군! 유기구조체를 제거해서 길을 열게!"
 
-"[english]Command.co_m6_ob26"		"<clr:240,255,255>Commander: Landing pads overun! Bloodhound's coming in! Jump on our back and we'll get you out of there!"
-"Command.co_m6_ob26"		"<clr:240,255,255>사령관: 착륙장이 점령당했어! 블러드하운드가 가고 있네! 우리 등 위로 올라타서 탈출하게!"
+"[english]Command.co_m6_ob26"		"<clr:240,255,255>Lt. Williams: Landing pads overun! Bloodhound's coming in! Jump on our back and we'll get you out of there!"
+"Command.co_m6_ob26"		"<clr:240,255,255>윌리엄스 중위: 착륙장이 점령당했어! 블러드하운드가 가고 있네! 우리 등 위로 올라타서 탈출하게!"
 
-"[english]Command.co_m6_ob27"		"<clr:240,255,255>Commander: Yeah! We made it!"
-"Command.co_m6_ob27"		"<clr:240,255,255>사령관: 좋아! 해냈군!"
+"[english]Command.co_m6_ob27"		"<clr:240,255,255>Lt. Williams: Yeah! We made it!"
+"Command.co_m6_ob27"		"<clr:240,255,255>윌리엄스 중위: 좋아! 해냈군!"
 
-"[english]Command.co_hold_ob1"		"<clr:240,255,255>Commander: Alright, squad, you made it to the extraction zone. Command ship is inbound. You just need to hold out until I get there."
-"Command.co_hold_ob1"		"<clr:240,255,255>사령관: 좋아, 제군들. 대피 장소에 도착했군. 사령선이 지금 가고 있네. 내가 거기 도착할 때 까지 조금만 버티게나."
+"[english]Command.co_hold_ob1"		"<clr:240,255,255>Lt. Williams: Alright, squad, you made it to the extraction zone. Command ship is inbound. You just need to hold out until I get there."
+"Command.co_hold_ob1"		"<clr:240,255,255>윌리엄스 중위: 좋아, 제군들. 대피 장소에 도착했군. 사령선이 지금 가고 있네. 내가 거기 도착할 때 까지 조금만 버티게나."
 
-"[english]Command.co_hold_ob2"		"<clr:240,255,255>Commander: Almost there, squad."
-"Command.co_hold_ob2"		"<clr:240,255,255>사령관: 거의 도착했네."
+"[english]Command.co_hold_ob2"		"<clr:240,255,255>Lt. Williams: Almost there, squad."
+"Command.co_hold_ob2"		"<clr:240,255,255>윌리엄스 중위: 거의 도착했네."
 
-"[english]Command.co_hold_ob3"		"<clr:240,255,255>Commander: Hang in there, squad. I'm on my way!"
-"Command.co_hold_ob3"		"<clr:240,255,255>사령관: 거기서 기다리고 있게. 지금 가는 중일세!"
+"[english]Command.co_hold_ob3"		"<clr:240,255,255>Lt. Williams: Hang in there, squad. I'm on my way!"
+"Command.co_hold_ob3"		"<clr:240,255,255>윌리엄스 중위: 거기서 기다리고 있게. 지금 가는 중일세!"
 
-"[english]Command.co_hold_ob4"		"<clr:240,255,255>Commander: Coming in hot!"
-"Command.co_hold_ob4"		"<clr:240,255,255>사령관: 전속력으로 가고 있네!"
+"[english]Command.co_hold_ob4"		"<clr:240,255,255>Lt. Williams: Coming in hot!"
+"Command.co_hold_ob4"		"<clr:240,255,255>윌리엄스 중위: 전속력으로 가고 있네!"
 
-"[english]Command.co_debriefing_ob1"		"<clr:240,255,255>Commander: Objective completed! Good work, marines."
-"Command.co_debriefing_ob1"		"<clr:240,255,255>사령관: 목표를 완수했어! 정말 잘 했네, 제군들."
+"[english]Command.co_debriefing_ob1"		"<clr:240,255,255>Lt. Williams: Objective completed! Good work, marines."
+"Command.co_debriefing_ob1"		"<clr:240,255,255>윌리엄스 중위: 목표를 완수했어! 정말 잘 했네, 제군들."
 
-"[english]Command.co_debriefing_ob2"		"<clr:240,255,255>Commander: Analysis of the flight recorder from the escape pod shows a number of vessels did successfully break orbit and leave Vereon XII. Looks like a handful of SynTek officers and colonists."
-"Command.co_debriefing_ob2"		"<clr:240,255,255>사령관: 탈출 캡슐의 비행 내역 기록기를 분석한 결과, 몇몇 탈출선이 성공적으로 궤도를 벗어나 베레온 XII를 떠났다는군. 아마 신텍 간부들과 식민지 거주자들이겠지."
+"[english]Command.co_debriefing_ob2"		"<clr:240,255,255>Lt. Williams: Analysis of the flight recorder from the escape pod shows a number of vessels did successfully break orbit and leave Vereon XII. Looks like a handful of SynTek officers and colonists."
+"Command.co_debriefing_ob2"		"<clr:240,255,255>윌리엄스 중위: 탈출 캡슐의 비행 내역 기록기를 분석한 결과, 몇몇 탈출선이 성공적으로 궤도를 벗어나 베레온 XII를 떠났다는군. 아마 신텍 간부들과 식민지 거주자들이겠지."
 
-"[english]Command.co_debriefing_ob3"		"<clr:240,255,255>Commander: We also show a small container left the atmosphere without broadcasting ID codes. All launch data for this vessel has been scrambled by persons unknown. We've dispatched scout vessels to search the immediate vicinity, but given its size and the unknown trajectory, the chances of finding it are slim."
-"Command.co_debriefing_ob3"		"<clr:240,255,255>사령관: 그리고 대기중에 신원 파악이 안 된 작은 컨테이너 하나가 떠돌고 있음이 확인됐네. 이 선체를 가리키는 모든 운송 내역이 신원 미상의 사람에 의해 뒤섞여서, 뭔가를 찾아내는 데 매우 힘들어. 정찰선을 내보내서 바로 근처를 수색하고는 있지만, 선체의 크기나 그 탄도를 볼 때 해당 선체를 찾을 확률이 매우 낮다는군."
+"[english]Command.co_debriefing_ob3"		"<clr:240,255,255>Lt. Williams: We also show a small container left the atmosphere without broadcasting ID codes. All launch data for this vessel has been scrambled by persons unknown. We've dispatched scout vessels to search the immediate vicinity, but given its size and the unknown trajectory, the chances of finding it are slim."
+"Command.co_debriefing_ob3"		"<clr:240,255,255>윌리엄스 중위: 그리고 대기중에 신원 파악이 안 된 작은 컨테이너 하나가 떠돌고 있음이 확인됐네. 이 선체를 가리키는 모든 운송 내역이 신원 미상의 사람에 의해 뒤섞여서, 뭔가를 찾아내는 데 매우 힘들어. 정찰선을 내보내서 바로 근처를 수색하고는 있지만, 선체의 크기나 그 탄도를 볼 때 해당 선체를 찾을 확률이 매우 낮다는군."
 
-"[english]Command.co_debriefing_ob4"		"<clr:240,255,255>Commander: Everybody has to be on that lift before it'll activate."
-"Command.co_debriefing_ob4"		"<clr:240,255,255>사령관: 승강기를 작동시키려면 모두가 그 위에 있어야 한다네."
+"[english]Command.co_debriefing_ob4"		"<clr:240,255,255>Lt. Williams: Everybody has to be on that lift before it'll activate."
+"Command.co_debriefing_ob4"		"<clr:240,255,255>윌리엄스 중위: 승강기를 작동시키려면 모두가 그 위에 있어야 한다네."
 
-"[english]Command.co_debriefing_ob5"		"<clr:240,255,255>Commander: Good work destroying the pipeline, Squad. This should hinder Swarm movement within the colony."
-"Command.co_debriefing_ob5"		"<clr:240,255,255>사령관: 수고했네. 파이프라인을 파괴했으니 이것으로 식민지 내의 외계 무리들의 움직임을 방해할 수 있겠군."
+"[english]Command.co_debriefing_ob5"		"<clr:240,255,255>Lt. Williams: Good work destroying the pipeline, Squad. This should hinder Swarm movement within the colony."
+"Command.co_debriefing_ob5"		"<clr:240,255,255>윌리엄스 중위: 수고했네. 파이프라인을 파괴했으니 이것으로 식민지 내의 외계 무리들의 움직임을 방해할 수 있겠군."
 
-"[english]Command.co_debriefing_ob6"		"<clr:240,255,255>Commander: We are showing the reactor back up and running at full efficiency. Great job!"
-"Command.co_debriefing_ob6"		"<clr:240,255,255>사령관: 반응로가 최대 출력으로 다시 돌기 시작했군. 잘 했네!"
+"[english]Command.co_debriefing_ob6"		"<clr:240,255,255>Lt. Williams: We are showing the reactor back up and running at full efficiency. Great job!"
+"Command.co_debriefing_ob6"		"<clr:240,255,255>윌리엄스 중위: 반응로가 최대 출력으로 다시 돌기 시작했군. 잘 했네!"
 
-"[english]Command.co_debriefing_ob7"		"<clr:240,255,255>Commander: The data you recovered shows a number of SynTek Security personnel attempted to fight back the infestation. We can assume at this point that they were unsuccessful."
-"Command.co_debriefing_ob7"		"<clr:240,255,255>사령관: 자네들이 복구한 자료에 따르면 상당수의 신텍 시큐리티 병력이 침식에 맞써 싸웠다고 하는군. 지금 시점에서는 그들이 실패했다고 볼 수 밖에 없네."
+"[english]Command.co_debriefing_ob7"		"<clr:240,255,255>Lt. Williams: The data you recovered shows a number of SynTek Security personnel attempted to fight back the infestation. We can assume at this point that they were unsuccessful."
+"Command.co_debriefing_ob7"		"<clr:240,255,255>윌리엄스 중위: 자네들이 복구한 자료에 따르면 상당수의 신텍 시큐리티 병력이 침식에 맞써 싸웠다고 하는군. 지금 시점에서는 그들이 실패했다고 볼 수 밖에 없네."
 
-"[english]Command.co_debriefing_ob8"		"<clr:240,255,255>Commander: With the sewer access tunnel sealed, the Swarm have only one way to the surface."
-"Command.co_debriefing_ob8"		"<clr:240,255,255>사령관: 하수 시설의 진입 터널이 봉해진 이상, 외계 무리가 지표로 나올 수 있는 곳은 단 한 군데 뿐이지."
+"[english]Command.co_debriefing_ob8"		"<clr:240,255,255>Lt. Williams: With the sewer access tunnel sealed, the Swarm have only one way to the surface."
+"Command.co_debriefing_ob8"		"<clr:240,255,255>윌리엄스 중위: 하수 시설의 진입 터널이 봉해진 이상, 외계 무리가 지표로 나올 수 있는 곳은 단 한 군데 뿐이지."
 
-"[english]Command.co_debriefing_ob9"		"<clr:240,255,255>Commander: Excellent work, Commander. The thermonuclear device detonated by your squad has destroyed the bulk of the Swarm forces beneath the surface. We estimate in excess of 200 eggs and countless Swarm drones have been wiped out by the detonation."
-"Command.co_debriefing_ob9"		"<clr:240,255,255>사령관: 지휘관이 정말 잘 해냈네. 제군들이 기폭시킨 고온 원자탄이 지표 아래에 있던 외계 무리를 무더기로 제거했지. 우리는 이 폭발로 인해 200개가 넘는 알과 셀 수 없이 많은 드론들이 쓸려나갔다고 예상하고 있네."
+"[english]Command.co_debriefing_ob9"		"<clr:240,255,255>Lt. Williams: Excellent work, Commander. The thermonuclear device detonated by your squad has destroyed the bulk of the Swarm forces beneath the surface. We estimate in excess of 200 eggs and countless Swarm drones have been wiped out by the detonation."
+"Command.co_debriefing_ob9"		"<clr:240,255,255>윌리엄스 중위: 지휘관이 정말 잘 해냈네. 제군들이 기폭시킨 고온 원자탄이 지표 아래에 있던 외계 무리를 무더기로 제거했지. 우리는 이 폭발로 인해 200개가 넘는 알과 셀 수 없이 많은 드론들이 쓸려나갔다고 예상하고 있네."
 
-"[english]Command.co_debriefing_ob10"		"<clr:240,255,255>Commander: We are still detecting a single large heat source in a deep, well protected chamber. IAF Command is making investigation of this a priority."
-"Command.co_debriefing_ob10"		"<clr:240,255,255>사령관: 아직도 거대한 열원 하나가 깊은 곳에 있는 방에 있는 것을 감지했지. IAF 사령부가 지금 그 곳에 대한 조사를 시작하려 하고 있다네."
+"[english]Command.co_debriefing_ob10"		"<clr:240,255,255>Lt. Williams: We are still detecting a single large heat source in a deep, well protected chamber. IAF Command is making investigation of this a priority."
+"Command.co_debriefing_ob10"		"<clr:240,255,255>윌리엄스 중위: 아직도 거대한 열원 하나가 깊은 곳에 있는 방에 있는 것을 감지했지. IAF 사령부가 지금 그 곳에 대한 조사를 시작하려 하고 있다네."
 
 //Bastille
 
