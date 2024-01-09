@@ -332,6 +332,18 @@
 			"auto_stack": true,
 			"tags": "rarity:common;crafting_item:regional",
 			"compressed_dynamic_props": "m_unQuantity"
+		},
+		{
+			"itemdefid": 4028,
+			"type": "item",
+			"name_%LANG%": "{#item_crafting_material_probability_drive_name}",
+			"description_%LANG%": "{#item_crafting_material_probability_drive_description}",
+			"after_description_%LANG%": "{#item_crafting_material_multiple}",
+			"display_type_%LANG%": "{#inventory_crafting_item_regional}",
+			"icon_url": "https://stats.reactivedrop.com/static/medals/error.png",
+			"auto_stack": true,
+			"tags": "rarity:common;crafting_item:regional",
+			"compressed_dynamic_props": "m_unQuantity"
 		}
 	]
 }
