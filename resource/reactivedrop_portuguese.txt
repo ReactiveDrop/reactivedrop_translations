@@ -9993,6 +9993,11 @@
 		"rd_notification_filter_hoiaf_title"		"HoIAF"
 		"[english]rd_notification_filter_hoiaf_desc"		"Notifications about Heroes of the Interstellar Armed Forces."
 		"rd_notification_filter_hoiaf_desc"		"Notifications about Heroes of the Interstellar Armed Forces."
+		// both bug reports and abuse reports are included in this filter, but notifications about actions taken against the current player are not filterable.
+		"[english]rd_notification_filter_reports_title"		"Reports"
+		"rd_notification_filter_reports_title"		"Reports"
+		"[english]rd_notification_filter_reports_desc"		"Non-critical notifications about reports."
+		"rd_notification_filter_reports_desc"		"Non-critical notifications about reports."
 
 		"[english]rd_hoiaf_bounty_title"		"Mission Bounties Available"
 		"rd_hoiaf_bounty_title"		"Mission Bounties Available"

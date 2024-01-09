@@ -5295,6 +5295,9 @@
 "rd_notification_filter_crafting_desc"	"Notifications about crafting and materials."
 "rd_notification_filter_hoiaf_title"	"HoIAF"
 "rd_notification_filter_hoiaf_desc"	"Notifications about Heroes of the Interstellar Armed Forces."
+// both bug reports and abuse reports are included in this filter, but notifications about actions taken against the current player are not filterable.
+"rd_notification_filter_reports_title"	"Reports"
+"rd_notification_filter_reports_desc"	"Non-critical notifications about reports."
 
 "rd_hoiaf_bounty_title"	"Mission Bounties Available"
 "rd_hoiaf_bounty_desc"	"Complete each of these missions on a participating Heroes of the Interstellar Armed Forces server within the time limit to receive bonus points."
