@@ -16,7 +16,7 @@
 			"type": "bundle",
 			"name": "Playtime Random Material Tokens Weekly Bundle",
 			"description": "Grants tokens: 20-50 common or ultra-common, 5-10 uncommon, 1-5 rare, 10-30 regional",
-			"bundle": "7052x20;7057x30;7053x5;7058x5;7054x1;7059x4;7055x10;7060x20"
+			"bundle": "7052x20;7057x30;7053x5;7058x5;7054x1;7059x4;7055x10;7060x20;7077"
 		},
 		{
 			"itemdefid": 7002,
@@ -32,7 +32,7 @@
 			"type": "bundle",
 			"name": "Playtime Random Material Tokens Extended Bundle",
 			"description": "Grants tokens: 5-10 common or ultra-common, 1-3 uncommon, 1 rare (10% chance), 2-5 regional",
-			"bundle": "7052x5;7057x5;7053x1;7058x2;7061x1;7055x2;7060x3"
+			"bundle": "7052x5;7057x5;7053x1;7058x2;7061x1;7055x2;7060x3;7078"
 		},
 		{
 			"itemdefid": 7004,
@@ -440,7 +440,7 @@
 			"itemdefid": 7055,
 			"type": "generator",
 			"name": "Random Material Token Regional",
-			"bundle": "7020;7021;7022;7023;7024;7025;7026;7027;7071;7073"
+			"bundle": "7020;7021;7022;7023;7024;7025;7026;7027;7071;7073;7075"
 		},
 		{
 			"itemdefid": 7056,
@@ -563,6 +563,42 @@
 			"description": "Grants crafting material Cubic Foot of Argon x1",
 			"exchange": "7073",
 			"bundle": "4027"
+		},
+		{
+			"itemdefid": 7075,
+			"type": "item",
+			"name": "Improbable Location",
+			"game_only": true,
+			"auto_stack": true,
+			"item_slot": "material_drop_token"
+		},
+		{
+			"itemdefid": 7076,
+			"type": "bundle",
+			"name": "Material Redeem Regional Finite Probability Drive",
+			"description": "Grants crafting material Finite Probability Drive x1",
+			"exchange": "7075",
+			"bundle": "4028"
+		},
+		{
+			"itemdefid": 7077,
+			"type": "item",
+			"name_english": "Large quantity of resources located.",
+			"description_english": "Check the mission list for possible locations of crafting materials.",
+			"game_only": true,
+			"auto_delete_except_newest": true,
+			"tags": "slot:notification;notification:crafting",
+			"item_slot": "notification"
+		},
+		{
+			"itemdefid": 7078,
+			"type": "item",
+			"name_english": "Additional resources located.",
+			"description_english": "Check the mission list for possible locations of crafting materials.",
+			"game_only": true,
+			"auto_delete_except_newest": true,
+			"tags": "slot:notification;notification:crafting",
+			"item_slot": "notification"
 		}
 	]
 }
