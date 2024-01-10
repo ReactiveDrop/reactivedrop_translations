@@ -398,12 +398,12 @@
 "[english]notification_crafting_items_appeared_weekly_name"		"Large quantity of resources located."
 "notification_crafting_items_appeared_weekly_name"		"Große Menge an Ressourcen gefunden."
 "[english]notification_crafting_items_appeared_weekly_description"		"Check the mission list for possible locations of crafting materials."
-"notification_crafting_items_appeared_weekly_description"		"Sieh dir die Einsatzliste an, um herauszufinden, wo du Handwerksmaterialien finden kannst."
+"notification_crafting_items_appeared_weekly_description"		"Schau dir die Einsatzliste an, um herauszufinden, wo du Handwerksmaterialien finden kannst."
 // An additional small variety of crafting materials have appeared (based on playtime).
 "[english]notification_crafting_items_appeared_playtime_name"		"Additional resources located."
 "notification_crafting_items_appeared_playtime_name"		"Zusätzliche Ressourcen gefunden."
 "[english]notification_crafting_items_appeared_playtime_description"		"Check the mission list for possible locations of crafting materials."
-"notification_crafting_items_appeared_playtime_description"		"Sieh dir die Einsatzliste an, um herauszufinden, wo du Handwerksmaterialien finden kannst."
+"notification_crafting_items_appeared_playtime_description"		"Schau dir die Einsatzliste an, um herauszufinden, wo du Handwerksmaterialien finden kannst."
 
 "[english]item_strange_device_missions_name"		"Missions"
 "item_strange_device_missions_name"		"Einsätze"
