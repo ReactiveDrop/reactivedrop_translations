@@ -383,27 +383,27 @@
 "item_crafting_material_argon_canister_name"		"Ein Kubikfuß Argon"
 "[english]item_crafting_material_argon_canister_description"		"An inert gas with many industrial applications, found while on a mission."
 "item_crafting_material_argon_canister_description"		"Ein inertes Gas mit vielen industriellen Anwendungen, gefunden bei einem Einsatz."
-		// This is a riff on "Infinite Improbability Drive" from A Hitchhiker's Guide to the Galaxy.
-		// Except instead of a spaceship engine that allows teleportation around the universe, this is simply a data disk containing some pre-generated random numbers.
-		// This item can only be obtained via TileGen maps, which (as of 2024) are not yet officially playable.
-		"[english]item_crafting_material_probability_drive_name"		"Finite Probability Drive"
-		"item_crafting_material_probability_drive_name"		"Finite Probability Drive"
-		// This is the name of a real book, published in 1955. It contains 400 pages, each with 50 lines of 50 digits.
-		"[english]item_crafting_material_probability_drive_description"		"A disk containing an excerpt from [i]A Million Random Digits with 100,000 Normal Deviates[/i], found while on a mission."
-		"item_crafting_material_probability_drive_description"		"A disk containing an excerpt from [i]A Million Random Digits with 100,000 Normal Deviates[/i], found while on a mission."
+// This is a riff on "Infinite Improbability Drive" from A Hitchhiker's Guide to the Galaxy.
+// Except instead of a spaceship engine that allows teleportation around the universe, this is simply a data disk containing some pre-generated random numbers.
+// This item can only be obtained via TileGen maps, which (as of 2024) are not yet officially playable.
+"[english]item_crafting_material_probability_drive_name"		"Finite Probability Drive"
+"item_crafting_material_probability_drive_name"		"Endlicher Wahrscheinlichkeitsantrieb"
+// This is the name of a real book, published in 1955. It contains 400 pages, each with 50 lines of 50 digits.
+"[english]item_crafting_material_probability_drive_description"		"A disk containing an excerpt from [i]A Million Random Digits with 100,000 Normal Deviates[/i], found while on a mission."
+"item_crafting_material_probability_drive_description"		"Eine Diskette mit einem Auszug aus [i]A Million Random Digits with 100,000 Normal Deviates[/i], gefunden während eines Einsatzes."
 
-		// Notifications are hidden items that cause a notification to appear in the game's main menu. The item records whether it has been seen by the player, and dismissing the notification deletes the item. Notifications will not appear for players who have opted out of seeing them.
-		//
-		// A large variety of crafting materials have appeared (once per week).
-		"[english]notification_crafting_items_appeared_weekly_name"		"Large quantity of resources located."
-		"notification_crafting_items_appeared_weekly_name"		"Large quantity of resources located."
-		"[english]notification_crafting_items_appeared_weekly_description"		"Check the mission list for possible locations of crafting materials."
-		"notification_crafting_items_appeared_weekly_description"		"Check the mission list for possible locations of crafting materials."
-		// An additional small variety of crafting materials have appeared (based on playtime).
-		"[english]notification_crafting_items_appeared_playtime_name"		"Additional resources located."
-		"notification_crafting_items_appeared_playtime_name"		"Additional resources located."
-		"[english]notification_crafting_items_appeared_playtime_description"		"Check the mission list for possible locations of crafting materials."
-		"notification_crafting_items_appeared_playtime_description"		"Check the mission list for possible locations of crafting materials."
+// Notifications are hidden items that cause a notification to appear in the game's main menu. The item records whether it has been seen by the player, and dismissing the notification deletes the item. Notifications will not appear for players who have opted out of seeing them.
+//
+// A large variety of crafting materials have appeared (once per week).
+"[english]notification_crafting_items_appeared_weekly_name"		"Large quantity of resources located."
+"notification_crafting_items_appeared_weekly_name"		"Große Menge an Ressourcen gefunden."
+"[english]notification_crafting_items_appeared_weekly_description"		"Check the mission list for possible locations of crafting materials."
+"notification_crafting_items_appeared_weekly_description"		"Schau dir die Einsatzliste an, um herauszufinden, wo du Handwerksmaterialien finden kannst."
+// An additional small variety of crafting materials have appeared (based on playtime).
+"[english]notification_crafting_items_appeared_playtime_name"		"Additional resources located."
+"notification_crafting_items_appeared_playtime_name"		"Zusätzliche Ressourcen gefunden."
+"[english]notification_crafting_items_appeared_playtime_description"		"Check the mission list for possible locations of crafting materials."
+"notification_crafting_items_appeared_playtime_description"		"Schau dir die Einsatzliste an, um herauszufinden, wo du Handwerksmaterialien finden kannst."
 
 "[english]item_strange_device_missions_name"		"Missions"
 "item_strange_device_missions_name"		"Einsätze"
