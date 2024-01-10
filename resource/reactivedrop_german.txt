@@ -9980,7 +9980,7 @@
 "[english]rd_notification_dismiss_title"		"Dismiss Notification"
 "rd_notification_dismiss_title"		"Benachrichtigung entfernen"
 "[english]rd_notification_dismiss_desc"		"Permanently remove this notification from your list."
-"rd_notification_dismiss_desc"		"Entferne diese Mitteilungen dauerhaft aus deiner Liste."
+"rd_notification_dismiss_desc"		"Entferne diese Benachrichtigung dauerhaft aus deiner Liste."
 "[english]rd_notification_filter_title"		"Notification Filters"
 "rd_notification_filter_title"		"Benachrichtigungsfilter"
 "[english]rd_notification_filter_desc"		"Deselect notification types to hide them from your notification list."
