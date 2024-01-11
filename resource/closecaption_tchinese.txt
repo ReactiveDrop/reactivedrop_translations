@@ -8,215 +8,215 @@
 
 //Commander Audio
 
-"[english]Command.co_m1_ob1"		"<clr:240,255,255>Commander: Okay, squad. We need to check the shipping manifests to see if any survivors made it off this rock. Make your way down to the landing bay and find a terminal where we can download the transport records. I'll check in with you there."
-"Command.co_m1_ob1"		"<clr:240,255,255>指揮官：好的，小隊。我們需要查看船運清單，看看有沒有幸存者成功逃出來。妳們得前往登陸港灣，然後找到一個可以下載運輸記錄的端口。我在那裏與妳們聯絡。"
+"[english]Command.co_m1_ob1"		"<clr:240,255,255>Lt. Williams: Okay, squad. We need to check the shipping manifests to see if any survivors made it off this rock. Make your way down to the landing bay and find a terminal where we can download the transport records. I'll check in with you there."
+"Command.co_m1_ob1"		"<clr:240,255,255>威廉斯中尉：好的，小隊。我們需要查看船運清單，看看有沒有幸存者成功逃出來。妳們得前往登陸港灣，然後找到一個可以下載運輸記錄的端口。我在那裏與妳們聯絡。"
 
-"[english]Command.co_m1_ob2"		"<clr:240,255,255>Commander: Well, these manifests are useless. Guess record keeping wasn't exactly high on the priority list when the swarm hit. We are now search and rescue until otherwise informed, so keep an eye out for survivors. Head for the far exit and then we'll regroup."
-"Command.co_m1_ob2"		"<clr:240,255,255>指揮官：好吧，看來這些名單已經失效了。我猜異形來襲時，保存記錄這件事被忽略了。我們得繼續搜救，直至收到其他指令，所以繼續去尋找幸存者。朝遠方的出口前進，我們在那裏會合。"
+"[english]Command.co_m1_ob2"		"<clr:240,255,255>Lt. Williams: Well, these manifests are useless. Guess record keeping wasn't exactly high on the priority list when the swarm hit. We are now search and rescue until otherwise informed, so keep an eye out for survivors. Head for the far exit and then we'll regroup."
+"Command.co_m1_ob2"		"<clr:240,255,255>威廉斯中尉：好吧，看來這些名單已經失效了。我猜異形來襲時，保存記錄這件事被忽略了。我們得繼續搜救，直至收到其他指令，所以繼續去尋找幸存者。朝遠方的出口前進，我們在那裏會合。"
 
-"[english]Command.co_m1_ob3"		"<clr:240,255,255>Commander: All right, keep going! Main colony's dead ahead!"
-"Command.co_m1_ob3"		"<clr:240,255,255>指揮官：好的，繼續前進！主殖民區就在前面！"
+"[english]Command.co_m1_ob3"		"<clr:240,255,255>Lt. Williams: All right, keep going! Main colony's dead ahead!"
+"Command.co_m1_ob3"		"<clr:240,255,255>威廉斯中尉：好的，繼續前進！主殖民區就在前面！"
 
-		"[english]Command.co_m1_ob4"		"<clr:240,255,255>Commander: Keep the elevator down to the main mining complex and forward formation to the entrance."
-		"Command.co_m1_ob4"		"<clr:240,255,255>Commander: Keep the elevator down to the main mining complex and forward formation to the entrance."
+		"[english]Command.co_m1_ob4"		"<clr:240,255,255>Lt. Williams: Keep the elevator down to the main mining complex and forward formation to the entrance."
+		"Command.co_m1_ob4"		"<clr:240,255,255>Lt. Williams: Keep the elevator down to the main mining complex and forward formation to the entrance."
 
-"[english]Command.co_m1_ob5"		"<clr:240,255,255>Commander: I'm picking up multiple inbound motion signatures. Something tells me these ain't friendlies. Try to hold out until the elevator arrives."
-"Command.co_m1_ob5"		"<clr:240,255,255>指揮官：我檢測到許多生物信號正朝妳們的位置移動。直覺告訴我它們並不友好。盡可能堅持到電梯到達。"
+"[english]Command.co_m1_ob5"		"<clr:240,255,255>Lt. Williams: I'm picking up multiple inbound motion signatures. Something tells me these ain't friendlies. Try to hold out until the elevator arrives."
+"Command.co_m1_ob5"		"<clr:240,255,255>威廉斯中尉：我檢測到許多生物信號正朝妳們的位置移動。直覺告訴我它們並不友好。盡可能堅持到電梯到達。"
 
-"[english]Command.co_m1_ob6"		"<clr:240,255,255>Commander: We better get to the colony to see what we can find."
-"Command.co_m1_ob6"		"<clr:240,255,255>指揮官：我們最好去Collony看看能找到什麽。"
+"[english]Command.co_m1_ob6"		"<clr:240,255,255>Lt. Williams: We better get to the colony to see what we can find."
+"Command.co_m1_ob6"		"<clr:240,255,255>威廉斯中尉：我們最好去Collony看看能找到什麽。"
 
-"[english]Command.co_m1_ob7"		"<clr:240,255,255>Commander: We can't get to the colony from up here, we need to get down to the lower level."
-"Command.co_m1_ob7"		"<clr:240,255,255>指揮官：我們不能從這裏去Collony，我們要到下面去。"
+"[english]Command.co_m1_ob7"		"<clr:240,255,255>Lt. Williams: We can't get to the colony from up here, we need to get down to the lower level."
+"Command.co_m1_ob7"		"<clr:240,255,255>威廉斯中尉：我們不能從這裏去Collony，我們要到下面去。"
 
-"[english]Command.co_m1_ob8"		"<clr:240,255,255>Commander: Get to the exit!"
-"Command.co_m1_ob8"		"<clr:240,255,255>指揮官：到出口去！"
+"[english]Command.co_m1_ob8"		"<clr:240,255,255>Lt. Williams: Get to the exit!"
+"Command.co_m1_ob8"		"<clr:240,255,255>威廉斯中尉：到出口去！"
 
-"[english]Command.co_m2_ob1"		"<clr:240,255,255>Commander: The situation isn't pretty. This next sector is completely overrun. There's a pipeline that the Swarm's using as a superhighway to spread through the colony. You go ahead and find the pipeline, and I'll see if we can figure out a way to destroy it. We need to stop these bugs from getting out."
-"Command.co_m2_ob1"		"<clr:240,255,255>指揮官：情況不太妙，下一個區域已經完全被占領了。那些異形使用該區域的通風管道向殖民區四處擴散。妳們需要繼續前進並找到通風管道，到那時看看有沒有辦法可以把它摧毀。我們得阻止那些蟲子繼續擴散。"
+"[english]Command.co_m2_ob1"		"<clr:240,255,255>Lt. Williams: The situation isn't pretty. This next sector is completely overrun. There's a pipeline that the Swarm's using as a superhighway to spread through the colony. You go ahead and find the pipeline, and I'll see if we can figure out a way to destroy it. We need to stop these bugs from getting out."
+"Command.co_m2_ob1"		"<clr:240,255,255>威廉斯中尉：情況不太妙，下一個區域已經完全被占領了。那些異形使用該區域的通風管道向殖民區四處擴散。妳們需要繼續前進並找到通風管道，到那時看看有沒有辦法可以把它摧毀。我們得阻止那些蟲子繼續擴散。"
 
-"[english]Command.co_m2_ob2"		"<clr:240,255,255>Commander: Looks like we weren't the only ones who knew the Swarm were using the pipeline. That's a lot of boom packed around that pipe. Miners must have rigged the explosives but never got the chance to set em off. How about you finish what they started?"
-"Command.co_m2_ob2"		"<clr:240,255,255>指揮官：看來不只是我們知道那些異形的企圖。管道周圍有很多炸彈。估計那些礦工曾試圖引爆它們但是沒有成功。要不妳們去幫他們完成剩下的工作？"
+"[english]Command.co_m2_ob2"		"<clr:240,255,255>Lt. Williams: Looks like we weren't the only ones who knew the Swarm were using the pipeline. That's a lot of boom packed around that pipe. Miners must have rigged the explosives but never got the chance to set em off. How about you finish what they started?"
+"Command.co_m2_ob2"		"<clr:240,255,255>威廉斯中尉：看來不只是我們知道那些異形的企圖。管道周圍有很多炸彈。估計那些礦工曾試圖引爆它們但是沒有成功。要不妳們去幫他們完成剩下的工作？"
 
-"[english]Command.co_m2_ob3"		"<clr:240,255,255>Commander: That's the pipeline right above you. Go ahead and blow it now!"
-"Command.co_m2_ob3"		"<clr:240,255,255>指揮官：妳的右上方有條管道。快過去把它炸掉！"
+"[english]Command.co_m2_ob3"		"<clr:240,255,255>Lt. Williams: That's the pipeline right above you. Go ahead and blow it now!"
+"Command.co_m2_ob3"		"<clr:240,255,255>威廉斯中尉：妳的右上方有條管道。快過去把它炸掉！"
 
-"[english]Command.co_m2_ob4"		"<clr:240,255,255>Commander: Looks like power's out in the next area. I got an idea though for lighting up your way."
-"Command.co_m2_ob4"		"<clr:240,255,255>指揮官：看來下一片區域的電力供應中斷了。我有個主意，可以幫妳們把路照亮。"
+"[english]Command.co_m2_ob4"		"<clr:240,255,255>Lt. Williams: Looks like power's out in the next area. I got an idea though for lighting up your way."
+"Command.co_m2_ob4"		"<clr:240,255,255>威廉斯中尉：看來下一片區域的電力供應中斷了。我有個主意，可以幫妳們把路照亮。"
 
-"[english]Command.co_m2_ob5"		"<clr:240,255,255>Commander: Okay, I'm sending in Bloodhound to see if I can't shed a little light on this problem. You try and stay in her lamps while you're crossing the bridge, you should be all right."
-"Command.co_m2_ob5"		"<clr:240,255,255>指揮官：好的，我讓獵血犬號過去，看看能不能幫妳們解決這個問題。當妳們過橋時盡可能地呆在它的探照燈下，這樣妳們應該不會遇到什麽大問題。"
+"[english]Command.co_m2_ob5"		"<clr:240,255,255>Lt. Williams: Okay, I'm sending in Bloodhound to see if I can't shed a little light on this problem. You try and stay in her lamps while you're crossing the bridge, you should be all right."
+"Command.co_m2_ob5"		"<clr:240,255,255>威廉斯中尉：好的，我讓獵血犬號過去，看看能不能幫妳們解決這個問題。當妳們過橋時盡可能地呆在它的探照燈下，這樣妳們應該不會遇到什麽大問題。"
 
-"[english]Command.co_m2_ob6"		"<clr:240,255,255>Commander: Good job. Now get across."
-"Command.co_m2_ob6"		"<clr:240,255,255>指揮官：幹的漂亮。現在，到對面去。"
+"[english]Command.co_m2_ob6"		"<clr:240,255,255>Lt. Williams: Good job. Now get across."
+"Command.co_m2_ob6"		"<clr:240,255,255>威廉斯中尉：幹的漂亮。現在，到對面去。"
 
-"[english]Command.co_m2_ob7"		"<clr:240,255,255>Commander: Okay, I'm gonna bring Bloodhound in low and hover. You climb across her back while she's waiting. Step lightly now. She's gotta bring you home at the end of this."
-"Command.co_m2_ob7"		"<clr:240,255,255>指揮官：好的，我讓獵血犬號下降並停在空中。妳們就在它靜止不動的時候從它上面過去。別踩得太用力了。等一切結束後還得靠她帶妳們回家。"
+"[english]Command.co_m2_ob7"		"<clr:240,255,255>Lt. Williams: Okay, I'm gonna bring Bloodhound in low and hover. You climb across her back while she's waiting. Step lightly now. She's gotta bring you home at the end of this."
+"Command.co_m2_ob7"		"<clr:240,255,255>威廉斯中尉：好的，我讓獵血犬號下降並停在空中。妳們就在它靜止不動的時候從它上面過去。別踩得太用力了。等一切結束後還得靠她帶妳們回家。"
 
-"[english]Command.co_m2_ob8"		"<clr:240,255,255>Commander: Colony reactor is dead ahead."
-"Command.co_m2_ob8"		"<clr:240,255,255>指揮官：Collony反應堆就在前面。"
+"[english]Command.co_m2_ob8"		"<clr:240,255,255>Lt. Williams: Colony reactor is dead ahead."
+"Command.co_m2_ob8"		"<clr:240,255,255>威廉斯中尉：Collony反應堆就在前面。"
 
-"[english]Command.co_m3_ob1"		"<clr:240,255,255>Commander: Okay Squad, command wants the computers up and running. The colony's reactor was knocked offline by the Swarm attack, so you need to find your way to the reactor core and get that juice back on in there."
-"Command.co_m3_ob1"		"<clr:240,255,255>指揮官：好了，隊員們，指揮部希望這裏的電腦重新恢復工作。由於異形的攻擊，殖民區的反應堆已經離線了，所以妳們要想辦法到達反應堆並讓它重新啟動。"
+"[english]Command.co_m3_ob1"		"<clr:240,255,255>Lt. Williams: Okay Squad, command wants the computers up and running. The colony's reactor was knocked offline by the Swarm attack, so you need to find your way to the reactor core and get that juice back on in there."
+"Command.co_m3_ob1"		"<clr:240,255,255>威廉斯中尉：好了，隊員們，指揮部希望這裏的電腦重新恢復工作。由於異形的攻擊，殖民區的反應堆已經離線了，所以妳們要想辦法到達反應堆並讓它重新啟動。"
 
-		"[english]Command.co_m3_ob2"		"<clr:240,255,255>Commander: Great job, team! Power is on. Command is accessing the colony's computer systems right now. Keep moving, and we'll regroup up ahead."
-		"Command.co_m3_ob2"		"<clr:240,255,255>Commander: Great job, team! Power is on. Command is accessing the colony's computer systems right now. Keep moving, and we'll regroup up ahead."
+		"[english]Command.co_m3_ob2"		"<clr:240,255,255>Lt. Williams: Great job, team! Power is on. Command is accessing the colony's computer systems right now. Keep moving, and we'll regroup up ahead."
+		"Command.co_m3_ob2"		"<clr:240,255,255>Lt. Williams: Great job, team! Power is on. Command is accessing the colony's computer systems right now. Keep moving, and we'll regroup up ahead."
 
-"[english]Command.co_m3_ob3"		"<clr:240,255,255>Commander: Okay, Squad. Word just came down from on high. I'm gonna be straight with you, it's all bad. Command didn't like what the colony's computer system had to say. Looks like the colonists are dead. Means the infestation is out of control, and they've decided to introduce the Swarm to the wonders of the nuclear age. They've uploaded detonation codes into the mine's nuclear excavation device—basically a nuclear warhead—and they need you to deliver it into the heart of the Swarm's nest. Head toward residential, and I'll find you a path to the bomb."
-"Command.co_m3_ob3"		"<clr:240,255,255>指揮官：好的，隊員們，命令下來了。我就跟妳們直說了吧，情況糟透了。看來指揮部的家夥們並不希望看到殖民區電腦系統的記錄。似乎所有居民都死了。這意味著局勢已經失去控制，而指揮部決定讓異形們見識一下核子時代的奇跡。他們為礦場的核能開采裝置設置了密碼 — 應該說是枚戰略核彈頭 — 他們需要妳們把這個護送到異形巢穴的核心地帶。朝居民區前進，而我會幫妳們找條通向炸彈的路。"
+"[english]Command.co_m3_ob3"		"<clr:240,255,255>Lt. Williams: Okay, Squad. Word just came down from on high. I'm gonna be straight with you, it's all bad. Command didn't like what the colony's computer system had to say. Looks like the colonists are dead. Means the infestation is out of control, and they've decided to introduce the Swarm to the wonders of the nuclear age. They've uploaded detonation codes into the mine's nuclear excavation device—basically a nuclear warhead—and they need you to deliver it into the heart of the Swarm's nest. Head toward residential, and I'll find you a path to the bomb."
+"Command.co_m3_ob3"		"<clr:240,255,255>威廉斯中尉：好的，隊員們，命令下來了。我就跟妳們直說了吧，情況糟透了。看來指揮部的家夥們並不希望看到殖民區電腦系統的記錄。似乎所有居民都死了。這意味著局勢已經失去控制，而指揮部決定讓異形們見識一下核子時代的奇跡。他們為礦場的核能開采裝置設置了密碼 — 應該說是枚戰略核彈頭 — 他們需要妳們把這個護送到異形巢穴的核心地帶。朝居民區前進，而我會幫妳們找條通向炸彈的路。"
 
-"[english]Command.co_m4_ob1"		"<clr:240,255,255>Commander: All right, sensors show a massive build-up of eggs and biomass in this sector. Make yourselves a little room to work. Clear out the infestation. Burn them if you have to, but be advised, destroying biomass calls the Swarm."
-"Command.co_m4_ob1"		"<clr:240,255,255>指揮官：好吧，傳感器顯示在這片區域中有很多的蟲卵和生物質體。為了騰出空間來讓妳們工作以及消滅異形，在必要的時候妳們把它們燒掉。但是，妳們要小心，摧毀生物質體會把異形給引過來。"
+"[english]Command.co_m4_ob1"		"<clr:240,255,255>Lt. Williams: All right, sensors show a massive build-up of eggs and biomass in this sector. Make yourselves a little room to work. Clear out the infestation. Burn them if you have to, but be advised, destroying biomass calls the Swarm."
+"Command.co_m4_ob1"		"<clr:240,255,255>威廉斯中尉：好吧，傳感器顯示在這片區域中有很多的蟲卵和生物質體。為了騰出空間來讓妳們工作以及消滅異形，在必要的時候妳們把它們燒掉。但是，妳們要小心，摧毀生物質體會把異形給引過來。"
 
-"[english]Command.co_m4_ob2"		"<clr:240,255,255>Commander: Looks like more biomass ahead; get a firing solution on that problem."
-"Command.co_m4_ob2"		"<clr:240,255,255>指揮官：看來前方有很多生物質體；用火來解決它們。"
+"[english]Command.co_m4_ob2"		"<clr:240,255,255>Lt. Williams: Looks like more biomass ahead; get a firing solution on that problem."
+"Command.co_m4_ob2"		"<clr:240,255,255>威廉斯中尉：看來前方有很多生物質體；用火來解決它們。"
 
-"[english]Command.co_m4_ob3"		"<clr:240,255,255>Commander: All right, you've almost cleared out the last of it. Keep pushing forward."
-"Command.co_m4_ob3"		"<clr:240,255,255>指揮官：很好，妳們幾乎清除了所有剩餘的生物質體。繼續推進。"
+"[english]Command.co_m4_ob3"		"<clr:240,255,255>Lt. Williams: All right, you've almost cleared out the last of it. Keep pushing forward."
+"Command.co_m4_ob3"		"<clr:240,255,255>威廉斯中尉：很好，妳們幾乎清除了所有剩餘的生物質體。繼續推進。"
 
-"[english]Command.co_m4_ob4"		"<clr:240,255,255>Commander: Just a few more eggs to go."
-"Command.co_m4_ob4"		"<clr:240,255,255>指揮官：再打掉一些蟲卵就能走了。"
+"[english]Command.co_m4_ob4"		"<clr:240,255,255>Lt. Williams: Just a few more eggs to go."
+"Command.co_m4_ob4"		"<clr:240,255,255>威廉斯中尉：再打掉一些蟲卵就能走了。"
 
-"[english]Command.co_m4_ob5"		"<clr:240,255,255>Commander: You cleared out the area, time to get to the Swarm nest. Take the elevator down."
-"Command.co_m4_ob5"		"<clr:240,255,255>指揮官：妳已經清空了這片區域，該去外星蟲巢了。乘電梯下去。"
+"[english]Command.co_m4_ob5"		"<clr:240,255,255>Lt. Williams: You cleared out the area, time to get to the Swarm nest. Take the elevator down."
+"Command.co_m4_ob5"		"<clr:240,255,255>威廉斯中尉：妳已經清空了這片區域，該去外星蟲巢了。乘電梯下去。"
 
-"[english]Command.co_m5_ob1"		"<clr:240,255,255>Commander: Okay Squad. I'm picking up major swarm at sewer junction 16."
-"Command.co_m5_ob1"		"<clr:240,255,255>指揮官：好的，隊員們。我偵測到在16號下水道交匯點處有大量異形活動。"
+"[english]Command.co_m5_ob1"		"<clr:240,255,255>Lt. Williams: Okay Squad. I'm picking up major swarm at sewer junction 16."
+"Command.co_m5_ob1"		"<clr:240,255,255>威廉斯中尉：好的，隊員們。我偵測到在16號下水道交匯點處有大量異形活動。"
 
-"[english]Command.co_m5_ob2"		"<clr:240,255,255>Commander: I'm picking up massive kinetic signatures in one of the old maintenance tunnels. Remember, these eggs are full of parasites. Take 'em out on sight."
-"Command.co_m5_ob2"		"<clr:240,255,255>指揮官：我偵測到在一個舊維修通道中有大量生物活動信號。記住，這些蟲蛋裏都是寄生蟲。一旦看到就立刻把它們幹掉。"
+"[english]Command.co_m5_ob2"		"<clr:240,255,255>Lt. Williams: I'm picking up massive kinetic signatures in one of the old maintenance tunnels. Remember, these eggs are full of parasites. Take 'em out on sight."
+"Command.co_m5_ob2"		"<clr:240,255,255>威廉斯中尉：我偵測到在一個舊維修通道中有大量生物活動信號。記住，這些蟲蛋裏都是寄生蟲。一旦看到就立刻把它們幹掉。"
 
-"[english]Command.co_m5_ob3"		"<clr:240,255,255>Commander: Okay Squad. Moisture's dripping off those walls. Looks like an ideal breeding ground for swarm parasites. Keep a sharp eye out. If you get infested, call a medic. Your best chance is to destroy the eggs before they pop."
-"Command.co_m5_ob3"		"<clr:240,255,255>指揮官：好的，小隊。這裏的墻壁上都是水滴。看上去這是個寄生蟲繁殖的理想地點。保持警惕。如果妳被寄生蟲感染了，馬上向醫生求助。妳們最好就是在那些蟲卵孵化前清除它們。"
+"[english]Command.co_m5_ob3"		"<clr:240,255,255>Lt. Williams: Okay Squad. Moisture's dripping off those walls. Looks like an ideal breeding ground for swarm parasites. Keep a sharp eye out. If you get infested, call a medic. Your best chance is to destroy the eggs before they pop."
+"Command.co_m5_ob3"		"<clr:240,255,255>威廉斯中尉：好的，小隊。這裏的墻壁上都是水滴。看上去這是個寄生蟲繁殖的理想地點。保持警惕。如果妳被寄生蟲感染了，馬上向醫生求助。妳們最好就是在那些蟲卵孵化前清除它們。"
 
-"[english]Command.co_m5_ob4"		"<clr:240,255,255>Commander: Okay, team, we need to seal the tunnel entrance. This will help keep the swarm off your backs as you move deeper into the colony."
-"Command.co_m5_ob4"		"<clr:240,255,255>指揮官：好，隊員們，我們必須封住通道入口。這樣當妳們朝殖民區深入時，通道外的異形就無法來騷擾妳們。"
+"[english]Command.co_m5_ob4"		"<clr:240,255,255>Lt. Williams: Okay, team, we need to seal the tunnel entrance. This will help keep the swarm off your backs as you move deeper into the colony."
+"Command.co_m5_ob4"		"<clr:240,255,255>威廉斯中尉：好，隊員們，我們必須封住通道入口。這樣當妳們朝殖民區深入時，通道外的異形就無法來騷擾妳們。"
 
-"[english]Command.co_m5_ob5"		"<clr:240,255,255>Commander: Okay, Squad. I think I've found a shortcut for you. I'm detecting a breach in the facility's northwest wall. Move the squad through that breach and regain access to the surface."
-"Command.co_m5_ob5"		"<clr:240,255,255>指揮官：好的，隊員們。我想我找到一條捷徑。在工廠西北邊的墻上有一條裂縫，妳們可以從那裏回到地面。"
+"[english]Command.co_m5_ob5"		"<clr:240,255,255>Lt. Williams: Okay, Squad. I think I've found a shortcut for you. I'm detecting a breach in the facility's northwest wall. Move the squad through that breach and regain access to the surface."
+"Command.co_m5_ob5"		"<clr:240,255,255>威廉斯中尉：好的，隊員們。我想我找到一條捷徑。在工廠西北邊的墻上有一條裂縫，妳們可以從那裏回到地面。"
 
-"[english]Command.co_m6_ob1"		"<clr:240,255,255>Commander: Alright, the bomb is just up ahead!"
-"Command.co_m6_ob1"		"<clr:240,255,255>指揮官：好的，炸彈就在前方！"
+"[english]Command.co_m6_ob1"		"<clr:240,255,255>Lt. Williams: Alright, the bomb is just up ahead!"
+"Command.co_m6_ob1"		"<clr:240,255,255>威廉斯中尉：好的，炸彈就在前方！"
 
-"[english]Command.co_m6_ob2"		"<clr:240,255,255>Commander: We've got new kinetic signatures breaking out all across the map. This doesn't look good."
-"Command.co_m6_ob2"		"<clr:240,255,255>指揮官：我偵測到整幅地圖都有生命活動信號，情況看來不妙。"
+"[english]Command.co_m6_ob2"		"<clr:240,255,255>Lt. Williams: We've got new kinetic signatures breaking out all across the map. This doesn't look good."
+"Command.co_m6_ob2"		"<clr:240,255,255>威廉斯中尉：我偵測到整幅地圖都有生命活動信號，情況看來不妙。"
 
-"[english]Command.co_m6_ob3"		"<clr:240,255,255>Commander: Alright, there's the bomb! You'll need to use the mine's rail system to get that thing into the nest. Remember, losing this fight is not an option. We're gonna sterilize this rock right down to its bare molecules."
-"Command.co_m6_ob3"		"<clr:240,255,255>指揮官：好的，炸彈就在那！妳們得使用礦區的鐵道系統把炸彈送到巢穴中去。記住，這只許成功不許失敗。我們要把這裏所有的蟲子清理幹凈，任何角落都不能放過。"
+"[english]Command.co_m6_ob3"		"<clr:240,255,255>Lt. Williams: Alright, there's the bomb! You'll need to use the mine's rail system to get that thing into the nest. Remember, losing this fight is not an option. We're gonna sterilize this rock right down to its bare molecules."
+"Command.co_m6_ob3"		"<clr:240,255,255>威廉斯中尉：好的，炸彈就在那！妳們得使用礦區的鐵道系統把炸彈送到巢穴中去。記住，這只許成功不許失敗。我們要把這裏所有的蟲子清理幹凈，任何角落都不能放過。"
 
-"[english]Command.co_m6_ob4"		"<clr:240,255,255>Commander: Okay, first thing's first. You need to reactivate the power substation for the cable railway. This'll start the warhead on its path toward the breeding chamber."
-"Command.co_m6_ob4"		"<clr:240,255,255>指揮官：好的，最先要做的一件事情：妳們要重啟為鐵路軌道供電的變電站。這會使核彈頭重新上路，朝異形的孵化室前進。"
+"[english]Command.co_m6_ob4"		"<clr:240,255,255>Lt. Williams: Okay, first thing's first. You need to reactivate the power substation for the cable railway. This'll start the warhead on its path toward the breeding chamber."
+"Command.co_m6_ob4"		"<clr:240,255,255>威廉斯中尉：好的，最先要做的一件事情：妳們要重啟為鐵路軌道供電的變電站。這會使核彈頭重新上路，朝異形的孵化室前進。"
 
-"[english]Command.co_m6_ob5"		"<clr:240,255,255>Commander: Alright, there are two doors that you're going to need to hack to move the warhead into position. Get 'em open."
-"Command.co_m6_ob5"		"<clr:240,255,255>指揮官：好的，妳們需要破解前面兩道門的密碼才能移動核彈頭到指定位置。快去開門吧。"
+"[english]Command.co_m6_ob5"		"<clr:240,255,255>Lt. Williams: Alright, there are two doors that you're going to need to hack to move the warhead into position. Get 'em open."
+"Command.co_m6_ob5"		"<clr:240,255,255>威廉斯中尉：好的，妳們需要破解前面兩道門的密碼才能移動核彈頭到指定位置。快去開門吧。"
 
-"[english]Command.co_m6_ob6"		"<clr:240,255,255>Commander: Once the warhead is in position, activate the detonation sequence. After that, you're gonna need to back-track your way up to the surface to reach your extraction zone."
-"Command.co_m6_ob6"		"<clr:240,255,255>指揮官：一旦核彈頭到達指定位置，妳們就去啟動引爆程序。然後趕在倒數結束之前沿原路返回，並到達撤離地點。"
+"[english]Command.co_m6_ob6"		"<clr:240,255,255>Lt. Williams: Once the warhead is in position, activate the detonation sequence. After that, you're gonna need to back-track your way up to the surface to reach your extraction zone."
+"Command.co_m6_ob6"		"<clr:240,255,255>威廉斯中尉：一旦核彈頭到達指定位置，妳們就去啟動引爆程序。然後趕在倒數結束之前沿原路返回，並到達撤離地點。"
 
-"[english]Command.co_m6_ob7"		"<clr:240,255,255>Commander: Alright squad, the clock is ticking. You do NOT want to be there when that device goes off. Trust me, it would ruin your whole day."
-"Command.co_m6_ob7"		"<clr:240,255,255>指揮官：好了，隊員們，計時器已經在倒數了。相信我，妳一定不會想呆在那裏直到倒數結束，不然妳一整天的努力都將白費了。"
+"[english]Command.co_m6_ob7"		"<clr:240,255,255>Lt. Williams: Alright squad, the clock is ticking. You do NOT want to be there when that device goes off. Trust me, it would ruin your whole day."
+"Command.co_m6_ob7"		"<clr:240,255,255>威廉斯中尉：好了，隊員們，計時器已經在倒數了。相信我，妳一定不會想呆在那裏直到倒數結束，不然妳一整天的努力都將白費了。"
 
-"[english]Command.co_m6_ob8"		"<clr:240,255,255>Commander: Head out the same way you came! We'll pick you up on the surface!"
-"Command.co_m6_ob8"		"<clr:240,255,255>指揮官：盡量沿著原路返回！我會在撤離點與妳們匯合！"
+"[english]Command.co_m6_ob8"		"<clr:240,255,255>Lt. Williams: Head out the same way you came! We'll pick you up on the surface!"
+"Command.co_m6_ob8"		"<clr:240,255,255>威廉斯中尉：盡量沿著原路返回！我會在撤離點與妳們匯合！"
 
-"[english]Command.co_m6_ob9"		"<clr:240,255,255>Commander: Gang, you need to be high speed, low drag on this operation."
-"Command.co_m6_ob9"		"<clr:240,255,255>指揮官：夥計們，妳們得快點，計時器上所剩的時間不多了。"
+"[english]Command.co_m6_ob9"		"<clr:240,255,255>Lt. Williams: Gang, you need to be high speed, low drag on this operation."
+"Command.co_m6_ob9"		"<clr:240,255,255>威廉斯中尉：夥計們，妳們得快點，計時器上所剩的時間不多了。"
 
-"[english]Command.co_m6_ob10"		"<clr:240,255,255>Commander: Time is running out! You've got to pick up the pace."
-"Command.co_m6_ob10"		"<clr:240,255,255>指揮官：快沒有時間了！妳們得加快步伐。"
+"[english]Command.co_m6_ob10"		"<clr:240,255,255>Lt. Williams: Time is running out! You've got to pick up the pace."
+"Command.co_m6_ob10"		"<clr:240,255,255>威廉斯中尉：快沒有時間了！妳們得加快步伐。"
 
-"[english]Command.co_m6_ob11"		"<clr:240,255,255>Commander: You need to hustle. You're almost out of time."
-"Command.co_m6_ob11"		"<clr:240,255,255>指揮官：妳們得緊張起來了。妳們就要沒有時間了。"
+"[english]Command.co_m6_ob11"		"<clr:240,255,255>Lt. Williams: You need to hustle. You're almost out of time."
+"Command.co_m6_ob11"		"<clr:240,255,255>威廉斯中尉：妳們得緊張起來了。妳們就要沒有時間了。"
 
-"[english]Command.co_m6_ob12"		"<clr:240,255,255>Commander: Squad, you need to run like your lives depend on it. 'Cuz they do!"
-"Command.co_m6_ob12"		"<clr:240,255,255>指揮官：隊員們，妳們得拚命地跑，不然妳們就沒命了。妳們能做到的！"
+"[english]Command.co_m6_ob12"		"<clr:240,255,255>Lt. Williams: Squad, you need to run like your lives depend on it. 'Cuz they do!"
+"Command.co_m6_ob12"		"<clr:240,255,255>威廉斯中尉：隊員們，妳們得拚命地跑，不然妳們就沒命了。妳們能做到的！"
 
-"[english]Command.co_m6_ob13"		"<clr:240,255,255>Commander: There's not much time left."
-"Command.co_m6_ob13"		"<clr:240,255,255>指揮官：已經沒有多少時間了。"
+"[english]Command.co_m6_ob13"		"<clr:240,255,255>Lt. Williams: There's not much time left."
+"Command.co_m6_ob13"		"<clr:240,255,255>威廉斯中尉：已經沒有多少時間了。"
 
-"[english]Command.co_m6_ob14"		"<clr:240,255,255>Commander: You're running out of time!"
-"Command.co_m6_ob14"		"<clr:240,255,255>指揮官：妳們快沒有時間了！"
+"[english]Command.co_m6_ob14"		"<clr:240,255,255>Lt. Williams: You're running out of time!"
+"Command.co_m6_ob14"		"<clr:240,255,255>威廉斯中尉：妳們快沒有時間了！"
 
-"[english]Command.co_m6_ob15"		"<clr:240,255,255>Commander: Pick up the pace, or you're not going to make it!"
-"Command.co_m6_ob15"		"<clr:240,255,255>指揮官：跟上步伐，不然妳就走不掉了！"
+"[english]Command.co_m6_ob15"		"<clr:240,255,255>Lt. Williams: Pick up the pace, or you're not going to make it!"
+"Command.co_m6_ob15"		"<clr:240,255,255>威廉斯中尉：跟上步伐，不然妳就走不掉了！"
 
-"[english]Command.co_m6_ob16"		"<clr:240,255,255>Commander: Squad, you need to get out of there, NOW!"
-"Command.co_m6_ob16"		"<clr:240,255,255>指揮官：隊員們，妳得馬上從那裏出來，馬上！"
+"[english]Command.co_m6_ob16"		"<clr:240,255,255>Lt. Williams: Squad, you need to get out of there, NOW!"
+"Command.co_m6_ob16"		"<clr:240,255,255>威廉斯中尉：隊員們，妳得馬上從那裏出來，馬上！"
 
-"[english]Command.co_m6_ob17"		"<clr:240,255,255>Commander: Ten seconds left!"
-"Command.co_m6_ob17"		"<clr:240,255,255>指揮官：還剩10秒鐘！"
+"[english]Command.co_m6_ob17"		"<clr:240,255,255>Lt. Williams: Ten seconds left!"
+"Command.co_m6_ob17"		"<clr:240,255,255>威廉斯中尉：還剩10秒鐘！"
 
-		"[english]Command.co_m6_ob18"		"<clr:240,255,255>Commander: You almost made it."
-		"Command.co_m6_ob18"		"<clr:240,255,255>Commander: You almost made it."
+		"[english]Command.co_m6_ob18"		"<clr:240,255,255>Lt. Williams: You almost made it."
+		"Command.co_m6_ob18"		"<clr:240,255,255>Lt. Williams: You almost made it."
 
-"[english]Command.co_m6_ob19"		"<clr:240,255,255>Commander: I'm sorry. I'll notify your next of kin."
-"Command.co_m6_ob19"		"<clr:240,255,255>指揮官：我很抱歉。我會通知妳的家人的。"
+"[english]Command.co_m6_ob19"		"<clr:240,255,255>Lt. Williams: I'm sorry. I'll notify your next of kin."
+"Command.co_m6_ob19"		"<clr:240,255,255>威廉斯中尉：我很抱歉。我會通知妳的家人的。"
 
-"[english]Command.co_m6_ob20"		"<clr:240,255,255>Commander: It was an honor serving with you. You will be remembered."
-"Command.co_m6_ob20"		"<clr:240,255,255>指揮官：能和妳一起共事是一種榮幸。我們不會忘記妳的。"
+"[english]Command.co_m6_ob20"		"<clr:240,255,255>Lt. Williams: It was an honor serving with you. You will be remembered."
+"Command.co_m6_ob20"		"<clr:240,255,255>威廉斯中尉：能和妳一起共事是一種榮幸。我們不會忘記妳的。"
 
-"[english]Command.co_m6_ob21"		"<clr:240,255,255>Commander: It was an honor to serve with each and every one of you. You made the ultimate sacrifice."
-"Command.co_m6_ob21"		"<clr:240,255,255>指揮官：能和妳以及妳們每一個人一起共事是一種榮幸。妳的犧牲不會被忘記的。"
+"[english]Command.co_m6_ob21"		"<clr:240,255,255>Lt. Williams: It was an honor to serve with each and every one of you. You made the ultimate sacrifice."
+"Command.co_m6_ob21"		"<clr:240,255,255>威廉斯中尉：能和妳以及妳們每一個人一起共事是一種榮幸。妳的犧牲不會被忘記的。"
 
-"[english]Command.co_m6_ob22"		"<clr:240,255,255>Commander: Good work, mission accomplished!"
-"Command.co_m6_ob22"		"<clr:240,255,255>指揮官：幹得好，任務完成！"
+"[english]Command.co_m6_ob22"		"<clr:240,255,255>Lt. Williams: Good work, mission accomplished!"
+"Command.co_m6_ob22"		"<clr:240,255,255>威廉斯中尉：幹得好，任務完成！"
 
-"[english]Command.co_m6_ob23"		"<clr:240,255,255>Commander: Mission accomplished!"
-"Command.co_m6_ob23"		"<clr:240,255,255>指揮官：任務完成!"
+"[english]Command.co_m6_ob23"		"<clr:240,255,255>Lt. Williams: Mission accomplished!"
+"Command.co_m6_ob23"		"<clr:240,255,255>威廉斯中尉：任務完成!"
 
-"[english]Command.co_m6_ob24"		"<clr:240,255,255>Commander: You did it! The bomb's gone off! The Swarm threat has been exterminated."
-"Command.co_m6_ob24"		"<clr:240,255,255>指揮官：妳們成功了! 炸彈爆炸了！所有的異形都被消滅了。"
+"[english]Command.co_m6_ob24"		"<clr:240,255,255>Lt. Williams: You did it! The bomb's gone off! The Swarm threat has been exterminated."
+"Command.co_m6_ob24"		"<clr:240,255,255>威廉斯中尉：妳們成功了! 炸彈爆炸了！所有的異形都被消滅了。"
 
-"[english]Command.co_m6_ob25"		"<clr:240,255,255>Commander: The nuke is blocked! Clear up the biomass to free it up!"
-"Command.co_m6_ob25"		"<clr:240,255,255>指揮官：核彈被攔住了！把這些外星藤蔓清幹凈！"
+"[english]Command.co_m6_ob25"		"<clr:240,255,255>Lt. Williams: The nuke is blocked! Clear up the biomass to free it up!"
+"Command.co_m6_ob25"		"<clr:240,255,255>威廉斯中尉：核彈被攔住了！把這些外星藤蔓清幹凈！"
 
-"[english]Command.co_m6_ob26"		"<clr:240,255,255>Commander: Landing pads overun! Bloodhound's coming in! Jump on our back and we'll get you out of there!"
-"Command.co_m6_ob26"		"<clr:240,255,255>指揮官：登陸艙過載！飛船來了！跳上去我們來救妳出去！"
+"[english]Command.co_m6_ob26"		"<clr:240,255,255>Lt. Williams: Landing pads overun! Bloodhound's coming in! Jump on our back and we'll get you out of there!"
+"Command.co_m6_ob26"		"<clr:240,255,255>威廉斯中尉：登陸艙過載！飛船來了！跳上去我們來救妳出去！"
 
-"[english]Command.co_m6_ob27"		"<clr:240,255,255>Commander: Yeah! We made it!"
-"Command.co_m6_ob27"		"<clr:240,255,255>指揮官：好！我們成功了！"
+"[english]Command.co_m6_ob27"		"<clr:240,255,255>Lt. Williams: Yeah! We made it!"
+"Command.co_m6_ob27"		"<clr:240,255,255>威廉斯中尉：好！我們成功了！"
 
-"[english]Command.co_hold_ob1"		"<clr:240,255,255>Commander: Alright, squad, you made it to the extraction zone. Command ship is inbound. You just need to hold out until I get there."
-"Command.co_hold_ob1"		"<clr:240,255,255>指揮官：好的，隊員們，妳們已經成功到達撤離點了。指揮船正在路上了。妳們得守住撤離點直到我達到那裏。"
+"[english]Command.co_hold_ob1"		"<clr:240,255,255>Lt. Williams: Alright, squad, you made it to the extraction zone. Command ship is inbound. You just need to hold out until I get there."
+"Command.co_hold_ob1"		"<clr:240,255,255>威廉斯中尉：好的，隊員們，妳們已經成功到達撤離點了。指揮船正在路上了。妳們得守住撤離點直到我達到那裏。"
 
-"[english]Command.co_hold_ob2"		"<clr:240,255,255>Commander: Almost there, squad."
-"Command.co_hold_ob2"		"<clr:240,255,255>指揮官：我就快到了，隊員們。"
+"[english]Command.co_hold_ob2"		"<clr:240,255,255>Lt. Williams: Almost there, squad."
+"Command.co_hold_ob2"		"<clr:240,255,255>威廉斯中尉：我就快到了，隊員們。"
 
-"[english]Command.co_hold_ob3"		"<clr:240,255,255>Commander: Hang in there, squad. I'm on my way!"
-"Command.co_hold_ob3"		"<clr:240,255,255>指揮官：堅持住，隊員們。我在路上了！"
+"[english]Command.co_hold_ob3"		"<clr:240,255,255>Lt. Williams: Hang in there, squad. I'm on my way!"
+"Command.co_hold_ob3"		"<clr:240,255,255>威廉斯中尉：堅持住，隊員們。我在路上了！"
 
-"[english]Command.co_hold_ob4"		"<clr:240,255,255>Commander: Coming in hot!"
-"Command.co_hold_ob4"		"<clr:240,255,255>指揮官：我正火速趕往妳們那裏！"
+"[english]Command.co_hold_ob4"		"<clr:240,255,255>Lt. Williams: Coming in hot!"
+"Command.co_hold_ob4"		"<clr:240,255,255>威廉斯中尉：我正火速趕往妳們那裏！"
 
-"[english]Command.co_debriefing_ob1"		"<clr:240,255,255>Commander: Objective completed! Good work, marines."
-"Command.co_debriefing_ob1"		"<clr:240,255,255>指揮官：任務完成！幹得好，士兵們。"
+"[english]Command.co_debriefing_ob1"		"<clr:240,255,255>Lt. Williams: Objective completed! Good work, marines."
+"Command.co_debriefing_ob1"		"<clr:240,255,255>威廉斯中尉：任務完成！幹得好，士兵們。"
 
-"[english]Command.co_debriefing_ob2"		"<clr:240,255,255>Commander: Analysis of the flight recorder from the escape pod shows a number of vessels did successfully break orbit and leave Vereon XII. Looks like a handful of SynTek officers and colonists."
-"Command.co_debriefing_ob2"		"<clr:240,255,255>指揮官：從逃生艙的飛行記錄分析來看，有一部分逃生船隻成功地離開了 Vereon XII 的軌道並撤離了出來。看來有好一部分 SynTek 工作人員與殖民區居民還活著。"
+"[english]Command.co_debriefing_ob2"		"<clr:240,255,255>Lt. Williams: Analysis of the flight recorder from the escape pod shows a number of vessels did successfully break orbit and leave Vereon XII. Looks like a handful of SynTek officers and colonists."
+"Command.co_debriefing_ob2"		"<clr:240,255,255>威廉斯中尉：從逃生艙的飛行記錄分析來看，有一部分逃生船隻成功地離開了 Vereon XII 的軌道並撤離了出來。看來有好一部分 SynTek 工作人員與殖民區居民還活著。"
 
-"[english]Command.co_debriefing_ob3"		"<clr:240,255,255>Commander: We also show a small container left the atmosphere without broadcasting ID codes. All launch data for this vessel has been scrambled by persons unknown. We've dispatched scout vessels to search the immediate vicinity, but given its size and the unknown trajectory, the chances of finding it are slim."
-"Command.co_debriefing_ob3"		"<clr:240,255,255>指揮官：從記錄中我們還得知一艘沒有身份識別代碼的小型逃生艙留在了行星的大氣層中。這艘逃生艙的所有發射數據都被身份不明的人破壞了。 我們已經派出了搜索船隻在附近搜索，但由於不知道其具體大小以及飛行軌道，因此找到它的可能性很小。"
+"[english]Command.co_debriefing_ob3"		"<clr:240,255,255>Lt. Williams: We also show a small container left the atmosphere without broadcasting ID codes. All launch data for this vessel has been scrambled by persons unknown. We've dispatched scout vessels to search the immediate vicinity, but given its size and the unknown trajectory, the chances of finding it are slim."
+"Command.co_debriefing_ob3"		"<clr:240,255,255>威廉斯中尉：從記錄中我們還得知一艘沒有身份識別代碼的小型逃生艙留在了行星的大氣層中。這艘逃生艙的所有發射數據都被身份不明的人破壞了。 我們已經派出了搜索船隻在附近搜索，但由於不知道其具體大小以及飛行軌道，因此找到它的可能性很小。"
 
-"[english]Command.co_debriefing_ob4"		"<clr:240,255,255>Commander: Everybody has to be on that lift before it'll activate."
-"Command.co_debriefing_ob4"		"<clr:240,255,255>指揮官：在電梯發動前，所有人都必須站到電梯上去。"
+"[english]Command.co_debriefing_ob4"		"<clr:240,255,255>Lt. Williams: Everybody has to be on that lift before it'll activate."
+"Command.co_debriefing_ob4"		"<clr:240,255,255>威廉斯中尉：在電梯發動前，所有人都必須站到電梯上去。"
 
-"[english]Command.co_debriefing_ob5"		"<clr:240,255,255>Commander: Good work destroying the pipeline, Squad. This should hinder Swarm movement within the colony."
-"Command.co_debriefing_ob5"		"<clr:240,255,255>指揮官：隊員們，妳們漂亮地摧毀了管道。這應該能阻止異形繼續進入殖民區。"
+"[english]Command.co_debriefing_ob5"		"<clr:240,255,255>Lt. Williams: Good work destroying the pipeline, Squad. This should hinder Swarm movement within the colony."
+"Command.co_debriefing_ob5"		"<clr:240,255,255>威廉斯中尉：隊員們，妳們漂亮地摧毀了管道。這應該能阻止異形繼續進入殖民區。"
 
-"[english]Command.co_debriefing_ob6"		"<clr:240,255,255>Commander: We are showing the reactor back up and running at full efficiency. Great job!"
-"Command.co_debriefing_ob6"		"<clr:240,255,255>指揮官：系統顯示反應堆已經重新啟動並且正以全功率運行中。 幹得漂亮！"
+"[english]Command.co_debriefing_ob6"		"<clr:240,255,255>Lt. Williams: We are showing the reactor back up and running at full efficiency. Great job!"
+"Command.co_debriefing_ob6"		"<clr:240,255,255>威廉斯中尉：系統顯示反應堆已經重新啟動並且正以全功率運行中。 幹得漂亮！"
 
-"[english]Command.co_debriefing_ob7"		"<clr:240,255,255>Commander: The data you recovered shows a number of SynTek Security personnel attempted to fight back the infestation. We can assume at this point that they were unsuccessful."
-"Command.co_debriefing_ob7"		"<clr:240,255,255>指揮官：妳們所找到的數據顯示出之前有一些 SynTek 保安人員試圖對異形進行反擊。而現在我們所能確定的是：他們都失敗了。"
+"[english]Command.co_debriefing_ob7"		"<clr:240,255,255>Lt. Williams: The data you recovered shows a number of SynTek Security personnel attempted to fight back the infestation. We can assume at this point that they were unsuccessful."
+"Command.co_debriefing_ob7"		"<clr:240,255,255>威廉斯中尉：妳們所找到的數據顯示出之前有一些 SynTek 保安人員試圖對異形進行反擊。而現在我們所能確定的是：他們都失敗了。"
 
-"[english]Command.co_debriefing_ob8"		"<clr:240,255,255>Commander: With the sewer access tunnel sealed, the Swarm have only one way to the surface."
-"Command.co_debriefing_ob8"		"<clr:240,255,255>指揮官：當下水道入口被封住後，如果那些異形想要到地面去，那麽只有一條路可走。"
+"[english]Command.co_debriefing_ob8"		"<clr:240,255,255>Lt. Williams: With the sewer access tunnel sealed, the Swarm have only one way to the surface."
+"Command.co_debriefing_ob8"		"<clr:240,255,255>威廉斯中尉：當下水道入口被封住後，如果那些異形想要到地面去，那麽只有一條路可走。"
 
-"[english]Command.co_debriefing_ob9"		"<clr:240,255,255>Commander: Excellent work, Commander. The thermonuclear device detonated by your squad has destroyed the bulk of the Swarm forces beneath the surface. We estimate in excess of 200 eggs and countless Swarm drones have been wiped out by the detonation."
-"Command.co_debriefing_ob9"		"<clr:240,255,255>指揮官：幹得真漂亮，指揮官。由妳的小隊所引爆的核彈摧毀了大量處於地表下的異形部隊。我們估計超過200枚蟲卵以及不計其數的異形成蟲在這次爆炸中被消滅。"
+"[english]Command.co_debriefing_ob9"		"<clr:240,255,255>Lt. Williams: Excellent work, Commander. The thermonuclear device detonated by your squad has destroyed the bulk of the Swarm forces beneath the surface. We estimate in excess of 200 eggs and countless Swarm drones have been wiped out by the detonation."
+"Command.co_debriefing_ob9"		"<clr:240,255,255>威廉斯中尉：幹得真漂亮，指揮官。由妳的小隊所引爆的核彈摧毀了大量處於地表下的異形部隊。我們估計超過200枚蟲卵以及不計其數的異形成蟲在這次爆炸中被消滅。"
 
-"[english]Command.co_debriefing_ob10"		"<clr:240,255,255>Commander: We are still detecting a single large heat source in a deep, well protected chamber. IAF Command is making investigation of this a priority."
-"Command.co_debriefing_ob10"		"<clr:240,255,255>指揮官：但我們偵測到在地下深處有一個孵化室依然處於很好的保護狀態下，並從其中傳出一個巨大的熱源活動信號。IAF 指揮部正對此展開調查。"
+"[english]Command.co_debriefing_ob10"		"<clr:240,255,255>Lt. Williams: We are still detecting a single large heat source in a deep, well protected chamber. IAF Command is making investigation of this a priority."
+"Command.co_debriefing_ob10"		"<clr:240,255,255>威廉斯中尉：但我們偵測到在地下深處有一個孵化室依然處於很好的保護狀態下，並從其中傳出一個巨大的熱源活動信號。IAF 指揮部正對此展開調查。"
 
 //Bastille
 
