@@ -1,0 +1,11 @@
+GAME
+{
+// Inbox
+
+"MailFrom1"	"Từ: Căn nhà địa phương"
+"MailDate1"	"Ngày: 14/11/32"
+"MailSubject1"	"Chủ đề: Sự an toàn của chúng tôi"
+"MailBody1A"	"Chỉ một tiếng trước một trong các người của bạn đã thông báo cho chúng tôi về mức độ bức xạ đang tăng nhanh ở trong khu vực của chúng tôi. Bạn đang có dự định để xử lý nó không? Nếu sự tăng nhanh này tiếp tục, chúng tôi sẽ bắt buộc phải rời nhà của chúng tôi còn không chúng tôi sẽ chết."
+"MailBody1B"	"Tại sao bây giờ chúng tôi mới được thông báo một cách không chính thức về điều này, một ngày trước khi thảm họa ập đến? Liệu các quan chức cung cấp chúng tôi với các căn nhà có thể ở được hoặc liệu chúng tôi phải tự sơ tán mình, bằng tiền của chính chúng tôi?"
+"MailBody1C"	"Căn nhà địa phương"
+}

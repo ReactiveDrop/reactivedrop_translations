@@ -1,0 +1,25 @@
+GAME
+{
+// PDA belongs to Naka
+
+// Inbox
+
+"MailFrom1"	"Từ: Không xác định"
+"MailDate1"	"Ngày: 25/09/63"
+"MailSubject1"	"Chủ đề: ???"
+"MailBody1A"	"Cô đang nói cái gì vậy? Tôi hy vọng cô không có nói dối về các vũ khí đó. Tôi sẽ giết cô mà không có chúng nếu như cô không có chúng."
+
+// Sent
+
+"MailFrom3"	"Tới: Không xác định"
+"MailDate3"	"Ngày: 25/09/63"
+"MailSubject3"	"Chủ đề: Gần như sẵn sàng rồi"
+"MailBody3A"	"Ok, tôi đã gần xong rồi. Tất cả vũ khí đã được crack và có thể vận hành mà không có sự cho phép thông qua SecNet"
+"MailBody3B"	"Gặp một số vấn đề với việc vận chuyển chúng... Súng phun lửa bị mắc kẹt, nhưng tôi nghĩ tôi sẽ có thể lấy nó ra."
+
+"MailFrom4"	"Tới: Không xác định"
+"MailDate4"	"Ngày: 25/09/63"
+"MailSubject4"	"Chủ đề: MỌI THỨ ĐÃ BỊ HỦY!"
+"MailBody4A"	"Có một số loại quái vật gì đó ở đây, tôi không nhìn thấy chúng, nhưng tôi cảm thấy chúng đang ẩn trốn ở trong các bóng tối, ĐỪNG CÓ ĐI VÔ ĐÂY!!!"
+"MailBody4B"	"Tôi ra khỏi đây đây"
+}
