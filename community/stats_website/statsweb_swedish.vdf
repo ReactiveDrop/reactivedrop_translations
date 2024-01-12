@@ -420,7 +420,7 @@
 "StatsWeb_IntegratedGuideTitle_SpeedrunGhost"		"%[1]s - Speedrun Spöke av %[2]s"
 
 "[english]rd_event_mapping_competition"		"Mapping Competition 2024 \"Space Station\""
-"rd_event_mapping_competition"		"Kart Tävling 2024 \"Rymd Station\""
+"rd_event_mapping_competition"		"Karttävling 2024 \"Rymd Station\""
 "[english]rd_event_double_xp_anniversary"		"Anniversary Double Experience Week"
 "rd_event_double_xp_anniversary"		"Årsdag Dubbel XP Vecka"
 "[english]rd_event_news_anniversary_6th"		"6th Anniversary! New campaign, side stories, and more!"
@@ -430,6 +430,6 @@
 "[english]rd_event_news_ranked_missions_added"		"New and old favorite missions added to HoIAF!"
 "rd_event_news_ranked_missions_added"		"Nya och gamla favorit uppdrag tillagd till HoIAF!"
 "[english]rd_event_news_ranked_missions_endless"		"HoIAF adds Endless Missions!"
-"rd_event_news_ranked_missions_endless"		"HoIAF tillägger Oändliga Uppdrag!"
+"rd_event_news_ranked_missions_endless"		"HaIVS tillägger Oändliga Uppdrag!"
 }
 }
