@@ -21,7 +21,7 @@
 | [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | 6 | ✔️ | ✔️ | ✔️ | ✔️ |
 | [European Spanish](#spanish-español-de-españa) | 30 | 2004 | 40 | 2481 | 258 | 206 | 714 | 146 |
 | [Latin American Spanish](#latam-español-latinoamericano) | 1283 | 2004 | 634 | 4577 | 258 | 210 | 980 | 147 |
-| [Swedish](#swedish-svenska) | ✔️ | 2003 | ✔️ | 2288 | ✔️ | ✔️ | 276 | 144 |
+| [Swedish](#swedish-svenska) | ✔️ | 2003 | ✔️ | 2288 | ✔️ | ✔️ | 179 | 127 |
 | [Thai](#non-curated-languages) | 968 | 1993 | 50 | 4313 | 258 | 206 | 739 | 147 |
 | [Turkish](#non-curated-languages) | 53 | 137 | 42 | 3066 | 258 | 206 | 975 | 147 |
 | [Ukrainian](#ukrainian-українська) | 29 | 131 | 32 | 2609 | 258 | 206 | 933 | 146 |
@@ -1489,7 +1489,6 @@
 ### Strings
 
 - [addons/RiskOfRain/reactivedrop_swedish.txt](addons/RiskOfRain/resource/reactivedrop_swedish.txt) has 54 untranslated strings.
-- [steam_input_swedish.vdf](community/steam_input/steam_input_swedish.vdf) has 97 untranslated strings.
 - [closecaption_swedish.txt](resource/closecaption_swedish.txt) has 2003 untranslated strings.
 - [reactivedrop_swedish.txt](resource/reactivedrop_swedish.txt) has 2288 untranslated strings.
 - [valve_swedish.txt](resource/valve_swedish.txt) has 125 untranslated strings.
@@ -1497,27 +1496,10 @@
 ### Steam Store and Community
 
 - [app_items_563560_swedish.json](community/points_shop/app_items_563560_english.json) is missing.
-- [content_warning_563560_swedish.txt](store_page/content_warning_563560_english.txt) is missing.
-- [storepage_81731_swedish.json](store_page/storepage_81731_english.json) is missing.
 
 ### Credits
 
 - [addons/ExampleAddon/CustomCampaignCredits_swedish.txt](addons/ExampleAddon/resource/CustomCampaignCredits_english.txt) is missing.
-- [asw_credits_swedish.txt](credits/asw_credits_english.txt) is missing.
-- [biogen_corporation_credits_swedish.txt](credits/biogen_corporation_credits_english.txt) is missing.
-- [credits_acc32_official_swedish.txt](credits/credits_acc32_official_english.txt) is missing.
-- [credits_marine_academy_swedish.txt](credits/credits_marine_academy_english.txt) is missing.
-- [credits_namhumanum_swedish.txt](credits/credits_namhumanum_english.txt) is missing.
-- [deathmatch_credits_swedish.txt](credits/deathmatch_credits_english.txt) is missing.
-- [rd-LanasEscapeCredits_swedish.txt](credits/rd-LanasEscapeCredits_english.txt) is missing.
-- [rd-area9800Credits_swedish.txt](credits/rd-area9800Credits_english.txt) is missing.
-- [rd-ocs-credits_swedish.txt](credits/rd-ocs-credits_english.txt) is missing.
-- [rd-reduction_campaigncredits_swedish.txt](credits/rd-reduction_campaigncredits_english.txt) is missing.
-- [rd-tarnor_credits_swedish.txt](credits/rd-tarnor_credits_english.txt) is missing.
-- [rd_bonus_missions_credits_swedish.txt](credits/rd_bonus_missions_credits_english.txt) is missing.
-- [rd_paranoia_credits_swedish.txt](credits/rd_paranoia_credits_english.txt) is missing.
-- [rd_research7_credits_swedish.txt](credits/rd_research7_credits_english.txt) is missing.
-- [tilarus5_credits_swedish.txt](credits/tilarus5_credits_english.txt) is missing.
 
 ### Mail and News
 
