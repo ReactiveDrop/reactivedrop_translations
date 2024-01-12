@@ -11,7 +11,7 @@
 "asw_credits_"	""
 "asw_credits_"	"Weitere Informationen zum Erstellen und"
 "asw_credits_"	"die Verbreitung deiner eigenen Inhalte für"
-"asw_credits_"	"Alien Swarm findenst du in der"
+"asw_credits_"	"Alien Swarm findest du in der"
 "asw_credits_"	"Alien Swarm Sektion des"
 "asw_credits_"	"Valve Developer Wiki"
 "asw_credits_"	"http://developer.valvesoftware.com/"
