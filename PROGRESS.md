@@ -21,7 +21,7 @@
 | [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | 6 | ✔️ | ✔️ | ✔️ | ✔️ |
 | [European Spanish](#spanish-español-de-españa) | 30 | 2004 | 40 | 2481 | 258 | 206 | 714 | 146 |
 | [Latin American Spanish](#latam-español-latinoamericano) | 1283 | 2004 | 634 | 4577 | 258 | 210 | 980 | 147 |
-| [Swedish](#swedish-svenska) | ✔️ | 2003 | ✔️ | 2288 | ✔️ | ✔️ | 179 | 126 |
+| [Swedish](#swedish-svenska) | ✔️ | 2003 | ✔️ | 2288 | ✔️ | ✔️ | 179 | 125 |
 | [Thai](#non-curated-languages) | 968 | 1993 | 50 | 4313 | 258 | 206 | 739 | 147 |
 | [Turkish](#non-curated-languages) | 53 | 137 | 42 | 3066 | 258 | 206 | 975 | 147 |
 | [Ukrainian](#ukrainian-українська) | 29 | 131 | 32 | 2609 | 258 | 206 | 933 | 146 |
@@ -1492,10 +1492,6 @@
 - [closecaption_swedish.txt](resource/closecaption_swedish.txt) has 2003 untranslated strings.
 - [reactivedrop_swedish.txt](resource/reactivedrop_swedish.txt) has 2288 untranslated strings.
 - [valve_swedish.txt](resource/valve_swedish.txt) has 125 untranslated strings.
-
-### Credits
-
-- [addons/ExampleAddon/CustomCampaignCredits_swedish.txt](addons/ExampleAddon/resource/CustomCampaignCredits_english.txt) is missing.
 
 ### Mail and News
 
