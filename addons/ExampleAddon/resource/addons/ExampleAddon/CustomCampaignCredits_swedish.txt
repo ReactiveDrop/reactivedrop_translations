@@ -1,0 +1,18 @@
+"Credits"
+{
+// these keys must be in this order!
+"show_credits_logo"	"1"
+"custom_logo"	"ExampleCustomLogo/example_custom_logo"
+"asw_credits_"	"DITT NAMN HÄR"
+"asw_credits_"	""
+"asw_credits_"	"Dessa krediter finns i"
+"asw_credits_"	"addons/ExampleAddon/resource/CustomCampaignCredits.txt"
+"asw_credits_"	""
+"asw_credits_"	""
+"asw_credits_"	"Mer information om att skapa och"
+"asw_credits_"	"distribuera ditt eget innehåll för"
+"asw_credits_"	"Alien Swarm finns på "
+"asw_credits_"	"Alien Swarm sektion av"
+"asw_credits_"	"Valve Skapar Wiki"
+"asw_credits_"	"http://developer.valvesoftware.com/"
+}
