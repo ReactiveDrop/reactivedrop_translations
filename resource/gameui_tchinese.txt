@@ -904,7 +904,7 @@
 "[english]GameUI_Spray_Import_Error_Writing_Temp_Output"		"Error creating temporary file."
 "GameUI_Spray_Import_Error_Writing_Temp_Output"		"建立暫存檔時發生錯誤。"
 "[english]GameUI_Spray_Import_Error_Cant_Load_VTEX_DLL"		"Unable to load vtex.dll. Try restarting steam to get the latest updates."
-"GameUI_Spray_Import_Error_Cant_Load_VTEX_DLL"		"無法載入 vtex_dll.dll。 請重新啟動 steam 取得最新的遊戲版本。"
+"GameUI_Spray_Import_Error_Cant_Load_VTEX_DLL"		"無法載入 vtex_dll.dll。請重新啟動 steam 取得最新的遊戲版本。"
 "[english]GameUI_Spray_Import_Error_Writing_Output"		"Unable to write output spray file. It's possible the current user doesn't have permission."
 "GameUI_Spray_Import_Error_Writing_Output"		"無法寫入輸出的 spray 檔案。 可能是目前的使用者沒有權限。"
 "[english]GameUI_ImportSprayEllipsis"		"Import Spray..."
