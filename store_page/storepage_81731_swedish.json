@@ -1,0 +1,12 @@
+{
+"language": "swedish",
+"itemid": "81731",
+"app[content][short_description]": "Kooperativ uppifrån skjutar spel tillgängligt gratis. En episk krypjakt med en unik blandning av co-op-spel och taktik på lagnivå.",
+"app[content][about]": "Alien Swarm: Reactive Drop expanderar Alien Swarm, ta med mer av allt: kartor, aliens, spellägen, vapen... Och viktigaste, Steam Workshop stöd.\n\n[list]\n[*]Taktisk kooperativ för upp till 8 spelare med ett uppifrån-perspektiv\n[*]Steam Workshop stöd för gemenskaps kartor och utmaningar\n[*]Nya kooperativ kampanjer\n[*]Utmaningar: Modifieringar av spelet, just som Muteringar i Left 4 Dead 2\n[*]PvP: Deathmatch, Vapenspel, Instagib, och Lag Deathmatch\n[*]Enspelarläge: Spela med förbättrade bottar på alla våra officiella kartor\n[*]Nya Aliens: HL2 antlion vakter och mera\n[*]Nya Vapen: Bulldoggen, Förkrossaren, och Stridsgeväret, med mer att komma\n[*]Över 100 Steam prestationer\n[*]Ledartavlor: tävla med dina vänner om det snabbaste slutförandet av uppdraget\n[*]Förbättrad åskådning: se hackandet mini-spel och musrörelser i realtid\n[\/list]",
+"app[content][legal]": "© 2017 Reactive Drop Team",
+"app[content][sysreqs][windows][min][osversion]": "Windows® XP eller högre",
+"app[content][sysreqs][windows][min][processor]": "Pentium 4 eller nyare",
+"app[content][sysreqs][windows][min][graphics]": "DirectX 9 kompatibelt grafikkort med 128 MB, Shader modell 2.0b. ATI X800, NVidia 6600 eller bättre",
+"app[content][sysreqs][windows][min][soundcard]": "DirectX 9.0c kompatibelt ljudkort",
+"app[content][sysreqs][windows][min][notes]": "Kravet på diskutrymme beror på installerade Workshop-tillägg."
+}
