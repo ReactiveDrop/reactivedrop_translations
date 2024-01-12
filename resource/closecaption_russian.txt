@@ -8,215 +8,215 @@
 
 //Commander Audio
 
-"[english]Command.co_m1_ob1"		"<clr:240,255,255>Commander: Okay, squad. We need to check the shipping manifests to see if any survivors made it off this rock. Make your way down to the landing bay and find a terminal where we can download the transport records. I'll check in with you there."
-"Command.co_m1_ob1"		"<clr:240,255,255>Командующий: Значит так, отряд. Нам нужно проверить полётные данные, чтобы убедиться, что все уцелевшие смогли покинуть эту планету. Пройдите к посадочной площадке и найдите терминал, с которого мы сможем загрузить транспортные записи. Я свяжусь с вами на месте."
+"[english]Command.co_m1_ob1"		"<clr:240,255,255>Lt. Williams: Okay, squad. We need to check the shipping manifests to see if any survivors made it off this rock. Make your way down to the landing bay and find a terminal where we can download the transport records. I'll check in with you there."
+"Command.co_m1_ob1"		"<clr:240,255,255>Лейтенант Уильямс: Значит так, отряд. Нам нужно проверить полётные данные, чтобы убедиться, что все уцелевшие смогли покинуть эту планету. Пройдите к посадочной площадке и найдите терминал, с которого мы сможем загрузить транспортные записи. Я свяжусь с вами на месте."
 
-"[english]Command.co_m1_ob2"		"<clr:240,255,255>Commander: Well, these manifests are useless. Guess record keeping wasn't exactly high on the priority list when the swarm hit. We are now search and rescue until otherwise informed, so keep an eye out for survivors. Head for the far exit and then we'll regroup."
-"Command.co_m1_ob2"		"<clr:240,255,255>Командующий: Ну, эти манифесты совсем бесполезны. Полагаю что учёт записей не был в списке приоритетов, когда ударил рой. Теперь это спасательная миссия, пока не поступят другие указания, поэтому ищите выживших. Направляйтесь к дальнему выходу, там и перегруппируемся."
+"[english]Command.co_m1_ob2"		"<clr:240,255,255>Lt. Williams: Well, these manifests are useless. Guess record keeping wasn't exactly high on the priority list when the swarm hit. We are now search and rescue until otherwise informed, so keep an eye out for survivors. Head for the far exit and then we'll regroup."
+"Command.co_m1_ob2"		"<clr:240,255,255>Лейтенант Уильямс: Ну, эти манифесты совсем бесполезны. Полагаю что учёт записей не был в списке приоритетов, когда ударил рой. Теперь это спасательная миссия, пока не поступят другие указания, поэтому ищите выживших. Направляйтесь к дальнему выходу, там и перегруппируемся."
 
-"[english]Command.co_m1_ob3"		"<clr:240,255,255>Commander: All right, keep going! Main colony's dead ahead!"
-"Command.co_m1_ob3"		"<clr:240,255,255>Командующий: Хорошо, продолжайте! Основная колония прямо перед вами!"
+"[english]Command.co_m1_ob3"		"<clr:240,255,255>Lt. Williams: All right, keep going! Main colony's dead ahead!"
+"Command.co_m1_ob3"		"<clr:240,255,255>Лейтенант Уильямс: Хорошо, продолжайте! Основная колония прямо перед вами!"
 
-"[english]Command.co_m1_ob4"		"<clr:240,255,255>Commander: Keep the elevator down to the main mining complex and forward formation to the entrance."
-"Command.co_m1_ob4"		"<clr:240,255,255>Командующий: Спустите лифт до главного горнопромышленного комплекса и направляйтесь к входу."
+"[english]Command.co_m1_ob4"		"<clr:240,255,255>Lt. Williams: Keep the elevator down to the main mining complex and forward formation to the entrance."
+"Command.co_m1_ob4"		"<clr:240,255,255>Лейтенант Уильямс: Спустите лифт до главного горнопромышленного комплекса и направляйтесь к входу."
 
-"[english]Command.co_m1_ob5"		"<clr:240,255,255>Commander: I'm picking up multiple inbound motion signatures. Something tells me these ain't friendlies. Try to hold out until the elevator arrives."
-"Command.co_m1_ob5"		"<clr:240,255,255>Командующий: Я фиксирую множество приближающихся сигналов. Что-то подсказывает мне, что это не дружественные объекты. Попытайтесь продержаться до прибытия лифта."
+"[english]Command.co_m1_ob5"		"<clr:240,255,255>Lt. Williams: I'm picking up multiple inbound motion signatures. Something tells me these ain't friendlies. Try to hold out until the elevator arrives."
+"Command.co_m1_ob5"		"<clr:240,255,255>Лейтенант Уильямс: Я фиксирую множество приближающихся сигналов. Что-то подсказывает мне, что это не дружественные объекты. Попытайтесь продержаться до прибытия лифта."
 
-"[english]Command.co_m1_ob6"		"<clr:240,255,255>Commander: We better get to the colony to see what we can find."
-"Command.co_m1_ob6"		"<clr:240,255,255>Командующий: Нам лучше побыстрее добраться до колонии, чтобы узнать что мы сможем там найти."
+"[english]Command.co_m1_ob6"		"<clr:240,255,255>Lt. Williams: We better get to the colony to see what we can find."
+"Command.co_m1_ob6"		"<clr:240,255,255>Лейтенант Уильямс: Нам лучше побыстрее добраться до колонии, чтобы узнать что мы сможем там найти."
 
-"[english]Command.co_m1_ob7"		"<clr:240,255,255>Commander: We can't get to the colony from up here, we need to get down to the lower level."
-"Command.co_m1_ob7"		"<clr:240,255,255>Командующий: Мы не сможем добраться до колонии отсюда, нам нужно спуститься на нижний уровень."
+"[english]Command.co_m1_ob7"		"<clr:240,255,255>Lt. Williams: We can't get to the colony from up here, we need to get down to the lower level."
+"Command.co_m1_ob7"		"<clr:240,255,255>Лейтенант Уильямс: Мы не сможем добраться до колонии отсюда, нам нужно спуститься на нижний уровень."
 
-"[english]Command.co_m1_ob8"		"<clr:240,255,255>Commander: Get to the exit!"
-"Command.co_m1_ob8"		"<clr:240,255,255>Командующий: Направляйтесь к выходу!"
+"[english]Command.co_m1_ob8"		"<clr:240,255,255>Lt. Williams: Get to the exit!"
+"Command.co_m1_ob8"		"<clr:240,255,255>Лейтенант Уильямс: Направляйтесь к выходу!"
 
-"[english]Command.co_m2_ob1"		"<clr:240,255,255>Commander: The situation isn't pretty. This next sector is completely overrun. There's a pipeline that the Swarm's using as a superhighway to spread through the colony. You go ahead and find the pipeline, and I'll see if we can figure out a way to destroy it. We need to stop these bugs from getting out."
-"Command.co_m2_ob1"		"<clr:240,255,255>Командующий: Дела обстоят совсем плохо. Этот следующий сектор полностью захвачен. Там есть трубопровод, который рой использует в качестве супермагистрали, чтобы распространяться по колонии. Продвигайтесь вперёд и найдите трубопровод, а я постараюсь найти способ уничтожить его. Мы должны обязательно остановить распространение этих тварей."
+"[english]Command.co_m2_ob1"		"<clr:240,255,255>Lt. Williams: The situation isn't pretty. This next sector is completely overrun. There's a pipeline that the Swarm's using as a superhighway to spread through the colony. You go ahead and find the pipeline, and I'll see if we can figure out a way to destroy it. We need to stop these bugs from getting out."
+"Command.co_m2_ob1"		"<clr:240,255,255>Лейтенант Уильямс: Дела обстоят совсем плохо. Этот следующий сектор полностью захвачен. Там есть трубопровод, который рой использует в качестве супермагистрали, чтобы распространяться по колонии. Продвигайтесь вперёд и найдите трубопровод, а я постараюсь найти способ уничтожить его. Мы должны обязательно остановить распространение этих тварей."
 
-"[english]Command.co_m2_ob2"		"<clr:240,255,255>Commander: Looks like we weren't the only ones who knew the Swarm were using the pipeline. That's a lot of boom packed around that pipe. Miners must have rigged the explosives but never got the chance to set em off. How about you finish what they started?"
-"Command.co_m2_ob2"		"<clr:240,255,255>Командующий: Похоже, мы не единственные, кто знал, что рой использует трубопровод. Тут немало взрывчатки упаковано вокруг этой трубы. Вероятно шахтёры заложили взрывчатку, но не успели подорвать. Как насчёт того, чтобы вы закончили то, что они начали?"
+"[english]Command.co_m2_ob2"		"<clr:240,255,255>Lt. Williams: Looks like we weren't the only ones who knew the Swarm were using the pipeline. That's a lot of boom packed around that pipe. Miners must have rigged the explosives but never got the chance to set em off. How about you finish what they started?"
+"Command.co_m2_ob2"		"<clr:240,255,255>Лейтенант Уильямс: Похоже, мы не единственные, кто знал, что рой использует трубопровод. Тут немало взрывчатки упаковано вокруг этой трубы. Вероятно шахтёры заложили взрывчатку, но не успели подорвать. Как насчёт того, чтобы вы закончили то, что они начали?"
 
-"[english]Command.co_m2_ob3"		"<clr:240,255,255>Commander: That's the pipeline right above you. Go ahead and blow it now!"
-"Command.co_m2_ob3"		"<clr:240,255,255>Командующий: Вот этот трубопровод, прямо над вами. Идите и взорвите его прямо сейчас!"
+"[english]Command.co_m2_ob3"		"<clr:240,255,255>Lt. Williams: That's the pipeline right above you. Go ahead and blow it now!"
+"Command.co_m2_ob3"		"<clr:240,255,255>Лейтенант Уильямс: Вот этот трубопровод, прямо над вами. Идите и взорвите его прямо сейчас!"
 
-"[english]Command.co_m2_ob4"		"<clr:240,255,255>Commander: Looks like power's out in the next area. I got an idea though for lighting up your way."
-"Command.co_m2_ob4"		"<clr:240,255,255>Командующий: Похоже, что электричество полностью отключено в следующем секторе. Но у меня есть идея как вам осветить путь."
+"[english]Command.co_m2_ob4"		"<clr:240,255,255>Lt. Williams: Looks like power's out in the next area. I got an idea though for lighting up your way."
+"Command.co_m2_ob4"		"<clr:240,255,255>Лейтенант Уильямс: Похоже, что электричество полностью отключено в следующем секторе. Но у меня есть идея как вам осветить путь."
 
-"[english]Command.co_m2_ob5"		"<clr:240,255,255>Commander: Okay, I'm sending in Bloodhound to see if I can't shed a little light on this problem. You try and stay in her lamps while you're crossing the bridge, you should be all right."
-"Command.co_m2_ob5"		"<clr:240,255,255>Командующий: Значит так, я отправляю «Ищейку», чтобы попытаться пролить немного света на вашу проблему. Продвигайтесь оставаясь в лучах его прожекторов, пока не пересечете мост. Я думаю, у вас всё получится."
+"[english]Command.co_m2_ob5"		"<clr:240,255,255>Lt. Williams: Okay, I'm sending in Bloodhound to see if I can't shed a little light on this problem. You try and stay in her lamps while you're crossing the bridge, you should be all right."
+"Command.co_m2_ob5"		"<clr:240,255,255>Лейтенант Уильямс: Значит так, я отправляю «Ищейку», чтобы попытаться пролить немного света на вашу проблему. Продвигайтесь оставаясь в лучах его прожекторов, пока не пересечете мост. Я думаю, у вас всё получится."
 
-"[english]Command.co_m2_ob6"		"<clr:240,255,255>Commander: Good job. Now get across."
-"Command.co_m2_ob6"		"<clr:240,255,255>Командующий: Отличная работа. Теперь переходите."
+"[english]Command.co_m2_ob6"		"<clr:240,255,255>Lt. Williams: Good job. Now get across."
+"Command.co_m2_ob6"		"<clr:240,255,255>Лейтенант Уильямс: Отличная работа. Теперь переходите."
 
-"[english]Command.co_m2_ob7"		"<clr:240,255,255>Commander: Okay, I'm gonna bring Bloodhound in low and hover. You climb across her back while she's waiting. Step lightly now. She's gotta bring you home at the end of this."
-"Command.co_m2_ob7"		"<clr:240,255,255>Командующий: Значит так, я спущу «Ищейку» на уровень моста, что бы вы смогли перебраться по ней на другую сторону. Ступайте аккуратно. Она ещё должна довести вас домой."
+"[english]Command.co_m2_ob7"		"<clr:240,255,255>Lt. Williams: Okay, I'm gonna bring Bloodhound in low and hover. You climb across her back while she's waiting. Step lightly now. She's gotta bring you home at the end of this."
+"Command.co_m2_ob7"		"<clr:240,255,255>Лейтенант Уильямс: Значит так, я спущу «Ищейку» на уровень моста, что бы вы смогли перебраться по ней на другую сторону. Ступайте аккуратно. Она ещё должна довести вас домой."
 
-"[english]Command.co_m2_ob8"		"<clr:240,255,255>Commander: Colony reactor is dead ahead."
-"Command.co_m2_ob8"		"<clr:240,255,255>Командующий: Реактор колонии прямо по курсу."
+"[english]Command.co_m2_ob8"		"<clr:240,255,255>Lt. Williams: Colony reactor is dead ahead."
+"Command.co_m2_ob8"		"<clr:240,255,255>Лейтенант Уильямс: Реактор колонии прямо по курсу."
 
-"[english]Command.co_m3_ob1"		"<clr:240,255,255>Commander: Okay Squad, command wants the computers up and running. The colony's reactor was knocked offline by the Swarm attack, so you need to find your way to the reactor core and get that juice back on in there."
-"Command.co_m3_ob1"		"<clr:240,255,255>Командующий: Значит так, отряд, командование требует, чтобы компьютеры снова заработали. Реактор колонии был отключён из за нападения роя, поэтому вам нужно найти путь к ядру реактора и снова включить его."
+"[english]Command.co_m3_ob1"		"<clr:240,255,255>Lt. Williams: Okay Squad, command wants the computers up and running. The colony's reactor was knocked offline by the Swarm attack, so you need to find your way to the reactor core and get that juice back on in there."
+"Command.co_m3_ob1"		"<clr:240,255,255>Лейтенант Уильямс: Значит так, отряд, командование требует, чтобы компьютеры снова заработали. Реактор колонии был отключён из за нападения роя, поэтому вам нужно найти путь к ядру реактора и снова включить его."
 
-"[english]Command.co_m3_ob2"		"<clr:240,255,255>Commander: Great job, team! Power is on. Command is accessing the colony's computer systems right now. Keep moving, and we'll regroup up ahead."
-"Command.co_m3_ob2"		"<clr:240,255,255>Командующий: Отличная работа, отряд! Питание включено. Командование сейчас подключилось к компьютерным системам колонии. Продолжайте двигаться, потом снова перегруппируемся."
+"[english]Command.co_m3_ob2"		"<clr:240,255,255>Lt. Williams: Great job, team! Power is on. Command is accessing the colony's computer systems right now. Keep moving, and we'll regroup up ahead."
+"Command.co_m3_ob2"		"<clr:240,255,255>Лейтенант Уильямс: Отличная работа, отряд! Питание включено. Командование сейчас подключилось к компьютерным системам колонии. Продолжайте двигаться, потом снова перегруппируемся."
 
-"[english]Command.co_m3_ob3"		"<clr:240,255,255>Commander: Okay, Squad. Word just came down from on high. I'm gonna be straight with you, it's all bad. Command didn't like what the colony's computer system had to say. Looks like the colonists are dead. Means the infestation is out of control, and they've decided to introduce the Swarm to the wonders of the nuclear age. They've uploaded detonation codes into the mine's nuclear excavation device—basically a nuclear warhead—and they need you to deliver it into the heart of the Swarm's nest. Head toward residential, and I'll find you a path to the bomb."
-"Command.co_m3_ob3"		"<clr:240,255,255>Командующий: Значит так, отряд. Пришла весть от высшего руководства. Скажу вам прямо, всё плохо. Командованию не понравилось то что сообщила компьютерная система колонии. Похоже, все колонисты мертвы. Значит, заражение вышло из-под контроля, и мы решили познакомить рой с чудесами ядерной эры. Они загрузили коды детонации в ядерную боеголовку, вам необходимо доставить её в сердце гнезда роя. Направляйтесь к жилому сектору, а я найду вам путь к боеголовке."
+"[english]Command.co_m3_ob3"		"<clr:240,255,255>Lt. Williams: Okay, Squad. Word just came down from on high. I'm gonna be straight with you, it's all bad. Command didn't like what the colony's computer system had to say. Looks like the colonists are dead. Means the infestation is out of control, and they've decided to introduce the Swarm to the wonders of the nuclear age. They've uploaded detonation codes into the mine's nuclear excavation device—basically a nuclear warhead—and they need you to deliver it into the heart of the Swarm's nest. Head toward residential, and I'll find you a path to the bomb."
+"Command.co_m3_ob3"		"<clr:240,255,255>Лейтенант Уильямс: Значит так, отряд. Пришла весть от высшего руководства. Скажу вам прямо, всё плохо. Командованию не понравилось то что сообщила компьютерная система колонии. Похоже, все колонисты мертвы. Значит, заражение вышло из-под контроля, и мы решили познакомить рой с чудесами ядерной эры. Они загрузили коды детонации в ядерную боеголовку, вам необходимо доставить её в сердце гнезда роя. Направляйтесь к жилому сектору, а я найду вам путь к боеголовке."
 
-"[english]Command.co_m4_ob1"		"<clr:240,255,255>Commander: All right, sensors show a massive build-up of eggs and biomass in this sector. Make yourselves a little room to work. Clear out the infestation. Burn them if you have to, but be advised, destroying biomass calls the Swarm."
-"Command.co_m4_ob1"		"<clr:240,255,255>Командующий: Отлично, датчик показывает массивные наросты биомассы и большое количество яиц в этом секторе. Очистите заражение. Сжигайте их, если нужно, но имейте в виду, что уничтожение биомассы вызывает натиск роя."
+"[english]Command.co_m4_ob1"		"<clr:240,255,255>Lt. Williams: All right, sensors show a massive build-up of eggs and biomass in this sector. Make yourselves a little room to work. Clear out the infestation. Burn them if you have to, but be advised, destroying biomass calls the Swarm."
+"Command.co_m4_ob1"		"<clr:240,255,255>Лейтенант Уильямс: Отлично, датчик показывает массивные наросты биомассы и большое количество яиц в этом секторе. Очистите заражение. Сжигайте их, если нужно, но имейте в виду, что уничтожение биомассы вызывает натиск роя."
 
-"[english]Command.co_m4_ob2"		"<clr:240,255,255>Commander: Looks like more biomass ahead; get a firing solution on that problem."
-"Command.co_m4_ob2"		"<clr:240,255,255>Командующий: Похоже, впереди ещё больше биомассы, примените огонь к решению этой проблемы."
+"[english]Command.co_m4_ob2"		"<clr:240,255,255>Lt. Williams: Looks like more biomass ahead; get a firing solution on that problem."
+"Command.co_m4_ob2"		"<clr:240,255,255>Лейтенант Уильямс: Похоже, впереди ещё больше биомассы, примените огонь к решению этой проблемы."
 
-"[english]Command.co_m4_ob3"		"<clr:240,255,255>Commander: All right, you've almost cleared out the last of it. Keep pushing forward."
-"Command.co_m4_ob3"		"<clr:240,255,255>Командующий: Отлично, вы почти всё зачистили. Продолжайте двигаться вперёд."
+"[english]Command.co_m4_ob3"		"<clr:240,255,255>Lt. Williams: All right, you've almost cleared out the last of it. Keep pushing forward."
+"Command.co_m4_ob3"		"<clr:240,255,255>Лейтенант Уильямс: Отлично, вы почти всё зачистили. Продолжайте двигаться вперёд."
 
-"[english]Command.co_m4_ob4"		"<clr:240,255,255>Commander: Just a few more eggs to go."
-"Command.co_m4_ob4"		"<clr:240,255,255>Командующий: Всего несколько яиц осталось."
+"[english]Command.co_m4_ob4"		"<clr:240,255,255>Lt. Williams: Just a few more eggs to go."
+"Command.co_m4_ob4"		"<clr:240,255,255>Лейтенант Уильямс: Всего несколько яиц осталось."
 
-"[english]Command.co_m4_ob5"		"<clr:240,255,255>Commander: You cleared out the area, time to get to the Swarm nest. Take the elevator down."
-"Command.co_m4_ob5"		"<clr:240,255,255>Командующий: Вы зачистили сектор, пора добраться и до гнезда роя. Спуститесь на лифте вниз."
+"[english]Command.co_m4_ob5"		"<clr:240,255,255>Lt. Williams: You cleared out the area, time to get to the Swarm nest. Take the elevator down."
+"Command.co_m4_ob5"		"<clr:240,255,255>Лейтенант Уильямс: Вы зачистили сектор, пора добраться и до гнезда роя. Спуститесь на лифте вниз."
 
-"[english]Command.co_m5_ob1"		"<clr:240,255,255>Commander: Okay Squad. I'm picking up major swarm at sewer junction 16."
-"Command.co_m5_ob1"		"<clr:240,255,255>Командующий: Значит так, отряд. Я фиксирую крупное скопление роя в коллекторе №16."
+"[english]Command.co_m5_ob1"		"<clr:240,255,255>Lt. Williams: Okay Squad. I'm picking up major swarm at sewer junction 16."
+"Command.co_m5_ob1"		"<clr:240,255,255>Лейтенант Уильямс: Значит так, отряд. Я фиксирую крупное скопление роя в коллекторе №16."
 
-"[english]Command.co_m5_ob2"		"<clr:240,255,255>Commander: I'm picking up massive kinetic signatures in one of the old maintenance tunnels. Remember, these eggs are full of parasites. Take 'em out on sight."
-"Command.co_m5_ob2"		"<clr:240,255,255>Командующий: Я наблюдаю огромные кинетические сигналы в одном из старых туннелей. Помните, что эти яйца полны паразитов. Уничтожьте их, при первой же возможности."
+"[english]Command.co_m5_ob2"		"<clr:240,255,255>Lt. Williams: I'm picking up massive kinetic signatures in one of the old maintenance tunnels. Remember, these eggs are full of parasites. Take 'em out on sight."
+"Command.co_m5_ob2"		"<clr:240,255,255>Лейтенант Уильямс: Я наблюдаю огромные кинетические сигналы в одном из старых туннелей. Помните, что эти яйца полны паразитов. Уничтожьте их, при первой же возможности."
 
-"[english]Command.co_m5_ob3"		"<clr:240,255,255>Commander: Okay Squad. Moisture's dripping off those walls. Looks like an ideal breeding ground for swarm parasites. Keep a sharp eye out. If you get infested, call a medic. Your best chance is to destroy the eggs before they pop."
-"Command.co_m5_ob3"		"<clr:240,255,255>Командующий: Значит так, отряд. В тоннелях вентиляции очень влажно, похоже это идеальная среда для паразитов. Смотрите в оба. Если вы заразитесь, зовите медика. Но лучше уничтожить яйца, прежде чем они созреют."
+"[english]Command.co_m5_ob3"		"<clr:240,255,255>Lt. Williams: Okay Squad. Moisture's dripping off those walls. Looks like an ideal breeding ground for swarm parasites. Keep a sharp eye out. If you get infested, call a medic. Your best chance is to destroy the eggs before they pop."
+"Command.co_m5_ob3"		"<clr:240,255,255>Лейтенант Уильямс: Значит так, отряд. В тоннелях вентиляции очень влажно, похоже это идеальная среда для паразитов. Смотрите в оба. Если вы заразитесь, зовите медика. Но лучше уничтожить яйца, прежде чем они созреют."
 
-"[english]Command.co_m5_ob4"		"<clr:240,255,255>Commander: Okay, team, we need to seal the tunnel entrance. This will help keep the swarm off your backs as you move deeper into the colony."
-"Command.co_m5_ob4"		"<clr:240,255,255>Командующий: Значит так, отряд, нам нужно завалить вход в туннель. Это поможет прикрыть ваши спины от роя, пока вы продвигаетесь в глубь колонии."
+"[english]Command.co_m5_ob4"		"<clr:240,255,255>Lt. Williams: Okay, team, we need to seal the tunnel entrance. This will help keep the swarm off your backs as you move deeper into the colony."
+"Command.co_m5_ob4"		"<clr:240,255,255>Лейтенант Уильямс: Значит так, отряд, нам нужно завалить вход в туннель. Это поможет прикрыть ваши спины от роя, пока вы продвигаетесь в глубь колонии."
 
-"[english]Command.co_m5_ob5"		"<clr:240,255,255>Commander: Okay, Squad. I think I've found a shortcut for you. I'm detecting a breach in the facility's northwest wall. Move the squad through that breach and regain access to the surface."
-"Command.co_m5_ob5"		"<clr:240,255,255>Командующий: Значит так, отряд. Кажется, я нашел для вас более короткий путь. Я обнаружил обрушение в северо-западной стене. Пройдите через этот завал, это выведет вас на поверхность."
+"[english]Command.co_m5_ob5"		"<clr:240,255,255>Lt. Williams: Okay, Squad. I think I've found a shortcut for you. I'm detecting a breach in the facility's northwest wall. Move the squad through that breach and regain access to the surface."
+"Command.co_m5_ob5"		"<clr:240,255,255>Лейтенант Уильямс: Значит так, отряд. Кажется, я нашел для вас более короткий путь. Я обнаружил обрушение в северо-западной стене. Пройдите через этот завал, это выведет вас на поверхность."
 
-"[english]Command.co_m6_ob1"		"<clr:240,255,255>Commander: Alright, the bomb is just up ahead!"
-"Command.co_m6_ob1"		"<clr:240,255,255>Командующий: Отлично, бомба прямо по курсу!"
+"[english]Command.co_m6_ob1"		"<clr:240,255,255>Lt. Williams: Alright, the bomb is just up ahead!"
+"Command.co_m6_ob1"		"<clr:240,255,255>Лейтенант Уильямс: Отлично, бомба прямо по курсу!"
 
-"[english]Command.co_m6_ob2"		"<clr:240,255,255>Commander: We've got new kinetic signatures breaking out all across the map. This doesn't look good."
-"Command.co_m6_ob2"		"<clr:240,255,255>Командующий: У нас есть новые кинетические сигналы, разрастающиеся по всей карте. Это выглядит ужасно."
+"[english]Command.co_m6_ob2"		"<clr:240,255,255>Lt. Williams: We've got new kinetic signatures breaking out all across the map. This doesn't look good."
+"Command.co_m6_ob2"		"<clr:240,255,255>Лейтенант Уильямс: У нас есть новые кинетические сигналы, разрастающиеся по всей карте. Это выглядит ужасно."
 
-"[english]Command.co_m6_ob3"		"<clr:240,255,255>Commander: Alright, there's the bomb! You'll need to use the mine's rail system to get that thing into the nest. Remember, losing this fight is not an option. We're gonna sterilize this rock right down to its bare molecules."
-"Command.co_m6_ob3"		"<clr:240,255,255>Командующий: Отлично, бомба тут! Вам нужно будет использовать железнодорожную подсистему шахты, чтобы доставить её в гнездо. Помните, фиаско недопустимо. Мы собираемся стерилизовать эту планету вплоть до простых молекул."
+"[english]Command.co_m6_ob3"		"<clr:240,255,255>Lt. Williams: Alright, there's the bomb! You'll need to use the mine's rail system to get that thing into the nest. Remember, losing this fight is not an option. We're gonna sterilize this rock right down to its bare molecules."
+"Command.co_m6_ob3"		"<clr:240,255,255>Лейтенант Уильямс: Отлично, бомба тут! Вам нужно будет использовать железнодорожную подсистему шахты, чтобы доставить её в гнездо. Помните, фиаско недопустимо. Мы собираемся стерилизовать эту планету вплоть до простых молекул."
 
-"[english]Command.co_m6_ob4"		"<clr:240,255,255>Commander: Okay, first thing's first. You need to reactivate the power substation for the cable railway. This'll start the warhead on its path toward the breeding chamber."
-"Command.co_m6_ob4"		"<clr:240,255,255>Командующий: Значит так, давайте по порядку. Вам необходимо запитать подстанцию для запуска монорельса. Это запустит боеголовку по пути к размножающемуся улью роя."
+"[english]Command.co_m6_ob4"		"<clr:240,255,255>Lt. Williams: Okay, first thing's first. You need to reactivate the power substation for the cable railway. This'll start the warhead on its path toward the breeding chamber."
+"Command.co_m6_ob4"		"<clr:240,255,255>Лейтенант Уильямс: Значит так, давайте по порядку. Вам необходимо запитать подстанцию для запуска монорельса. Это запустит боеголовку по пути к размножающемуся улью роя."
 
-"[english]Command.co_m6_ob5"		"<clr:240,255,255>Commander: Alright, there are two doors that you're going to need to hack to move the warhead into position. Get 'em open."
-"Command.co_m6_ob5"		"<clr:240,255,255>Командующий: Отлично, там две двери, которые вам нужно будет взломать, чтобы переместить боеголовку. Вскройте их."
+"[english]Command.co_m6_ob5"		"<clr:240,255,255>Lt. Williams: Alright, there are two doors that you're going to need to hack to move the warhead into position. Get 'em open."
+"Command.co_m6_ob5"		"<clr:240,255,255>Лейтенант Уильямс: Отлично, там две двери, которые вам нужно будет взломать, чтобы переместить боеголовку. Вскройте их."
 
-"[english]Command.co_m6_ob6"		"<clr:240,255,255>Commander: Once the warhead is in position, activate the detonation sequence. After that, you're gonna need to back-track your way up to the surface to reach your extraction zone."
-"Command.co_m6_ob6"		"<clr:240,255,255>Командующий: Как только боеголовка будет на месте, запускайте процесс детонации. После этого вам нужно будет очень быстро двигаться обратно, чтобы успеть добраться до зоны эвакуации."
+"[english]Command.co_m6_ob6"		"<clr:240,255,255>Lt. Williams: Once the warhead is in position, activate the detonation sequence. After that, you're gonna need to back-track your way up to the surface to reach your extraction zone."
+"Command.co_m6_ob6"		"<clr:240,255,255>Лейтенант Уильямс: Как только боеголовка будет на месте, запускайте процесс детонации. После этого вам нужно будет очень быстро двигаться обратно, чтобы успеть добраться до зоны эвакуации."
 
-"[english]Command.co_m6_ob7"		"<clr:240,255,255>Commander: Alright squad, the clock is ticking. You do NOT want to be there when that device goes off. Trust me, it would ruin your whole day."
-"Command.co_m6_ob7"		"<clr:240,255,255>Командующий: Так, отряд, часы тикают. Вы ведь НЕ хотите остаться там, когда это устройство сработает. Поверьте мне, разрушение будет фатальным."
+"[english]Command.co_m6_ob7"		"<clr:240,255,255>Lt. Williams: Alright squad, the clock is ticking. You do NOT want to be there when that device goes off. Trust me, it would ruin your whole day."
+"Command.co_m6_ob7"		"<clr:240,255,255>Лейтенант Уильямс: Так, отряд, часы тикают. Вы ведь НЕ хотите остаться там, когда это устройство сработает. Поверьте мне, разрушение будет фатальным."
 
-"[english]Command.co_m6_ob8"		"<clr:240,255,255>Commander: Head out the same way you came! We'll pick you up on the surface!"
-"Command.co_m6_ob8"		"<clr:240,255,255>Командующий: Выходите тем же путём что пришли! Мы заберем вас с поверхности!"
+"[english]Command.co_m6_ob8"		"<clr:240,255,255>Lt. Williams: Head out the same way you came! We'll pick you up on the surface!"
+"Command.co_m6_ob8"		"<clr:240,255,255>Лейтенант Уильямс: Выходите тем же путём что пришли! Мы заберем вас с поверхности!"
 
-"[english]Command.co_m6_ob9"		"<clr:240,255,255>Commander: Gang, you need to be high speed, low drag on this operation."
-"Command.co_m6_ob9"		"<clr:240,255,255>Командующий: Отряд, вам нужно двигаться как можно быстрей, чтобы завершить эту миссию."
+"[english]Command.co_m6_ob9"		"<clr:240,255,255>Lt. Williams: Gang, you need to be high speed, low drag on this operation."
+"Command.co_m6_ob9"		"<clr:240,255,255>Лейтенант Уильямс: Отряд, вам нужно двигаться как можно быстрей, чтобы завершить эту миссию."
 
-"[english]Command.co_m6_ob10"		"<clr:240,255,255>Commander: Time is running out! You've got to pick up the pace."
-"Command.co_m6_ob10"		"<clr:240,255,255>Командующий: Время истекает! Вы должны набрать темп."
+"[english]Command.co_m6_ob10"		"<clr:240,255,255>Lt. Williams: Time is running out! You've got to pick up the pace."
+"Command.co_m6_ob10"		"<clr:240,255,255>Лейтенант Уильямс: Время истекает! Вы должны набрать темп."
 
-"[english]Command.co_m6_ob11"		"<clr:240,255,255>Commander: You need to hustle. You're almost out of time."
-"Command.co_m6_ob11"		"<clr:240,255,255>Командующий: Вы должны шевелиться. Время почти истекло."
+"[english]Command.co_m6_ob11"		"<clr:240,255,255>Lt. Williams: You need to hustle. You're almost out of time."
+"Command.co_m6_ob11"		"<clr:240,255,255>Лейтенант Уильямс: Вы должны шевелиться. Время почти истекло."
 
-"[english]Command.co_m6_ob12"		"<clr:240,255,255>Commander: Squad, you need to run like your lives depend on it. 'Cuz they do!"
-"Command.co_m6_ob12"		"<clr:240,255,255>Командующий: Отряд, вам нужно бежать, от этого зависят ваши жизни. Время на исходе!"
+"[english]Command.co_m6_ob12"		"<clr:240,255,255>Lt. Williams: Squad, you need to run like your lives depend on it. 'Cuz they do!"
+"Command.co_m6_ob12"		"<clr:240,255,255>Лейтенант Уильямс: Отряд, вам нужно бежать, от этого зависят ваши жизни. Время на исходе!"
 
-"[english]Command.co_m6_ob13"		"<clr:240,255,255>Commander: There's not much time left."
-"Command.co_m6_ob13"		"<clr:240,255,255>Командующий: Осталось совсем мало времени."
+"[english]Command.co_m6_ob13"		"<clr:240,255,255>Lt. Williams: There's not much time left."
+"Command.co_m6_ob13"		"<clr:240,255,255>Лейтенант Уильямс: Осталось совсем мало времени."
 
-"[english]Command.co_m6_ob14"		"<clr:240,255,255>Commander: You're running out of time!"
-"Command.co_m6_ob14"		"<clr:240,255,255>Командующий: Вам не хватит времени!"
+"[english]Command.co_m6_ob14"		"<clr:240,255,255>Lt. Williams: You're running out of time!"
+"Command.co_m6_ob14"		"<clr:240,255,255>Лейтенант Уильямс: Вам не хватит времени!"
 
-"[english]Command.co_m6_ob15"		"<clr:240,255,255>Commander: Pick up the pace, or you're not going to make it!"
-"Command.co_m6_ob15"		"<clr:240,255,255>Командующий: Наберите темп, иначе вы не успеете!"
+"[english]Command.co_m6_ob15"		"<clr:240,255,255>Lt. Williams: Pick up the pace, or you're not going to make it!"
+"Command.co_m6_ob15"		"<clr:240,255,255>Лейтенант Уильямс: Наберите темп, иначе вы не успеете!"
 
-"[english]Command.co_m6_ob16"		"<clr:240,255,255>Commander: Squad, you need to get out of there, NOW!"
-"Command.co_m6_ob16"		"<clr:240,255,255>Командующий: Отряд, вам нужно выбраться оттуда, НЕМЕДЛЕННО!"
+"[english]Command.co_m6_ob16"		"<clr:240,255,255>Lt. Williams: Squad, you need to get out of there, NOW!"
+"Command.co_m6_ob16"		"<clr:240,255,255>Лейтенант Уильямс: Отряд, вам нужно выбраться оттуда, НЕМЕДЛЕННО!"
 
-"[english]Command.co_m6_ob17"		"<clr:240,255,255>Commander: Ten seconds left!"
-"Command.co_m6_ob17"		"<clr:240,255,255>Командующий: Осталось десять секунд!"
+"[english]Command.co_m6_ob17"		"<clr:240,255,255>Lt. Williams: Ten seconds left!"
+"Command.co_m6_ob17"		"<clr:240,255,255>Лейтенант Уильямс: Осталось десять секунд!"
 
-"[english]Command.co_m6_ob18"		"<clr:240,255,255>Commander: You almost made it."
-"Command.co_m6_ob18"		"<clr:240,255,255>Командующий: Вы почти добрались."
+"[english]Command.co_m6_ob18"		"<clr:240,255,255>Lt. Williams: You almost made it."
+"Command.co_m6_ob18"		"<clr:240,255,255>Лейтенант Уильямс: Вы почти добрались."
 
-"[english]Command.co_m6_ob19"		"<clr:240,255,255>Commander: I'm sorry. I'll notify your next of kin."
-"Command.co_m6_ob19"		"<clr:240,255,255>Командующий: Мне очень жаль. Я оповещу ваших ближайших родственников."
+"[english]Command.co_m6_ob19"		"<clr:240,255,255>Lt. Williams: I'm sorry. I'll notify your next of kin."
+"Command.co_m6_ob19"		"<clr:240,255,255>Лейтенант Уильямс: Мне очень жаль. Я оповещу ваших ближайших родственников."
 
-"[english]Command.co_m6_ob20"		"<clr:240,255,255>Commander: It was an honor serving with you. You will be remembered."
-"Command.co_m6_ob20"		"<clr:240,255,255>Командующий: Было честью служить с вами. Вы останетесь в нашей памяти."
+"[english]Command.co_m6_ob20"		"<clr:240,255,255>Lt. Williams: It was an honor serving with you. You will be remembered."
+"Command.co_m6_ob20"		"<clr:240,255,255>Лейтенант Уильямс: Было честью служить с вами. Вы останетесь в нашей памяти."
 
-"[english]Command.co_m6_ob21"		"<clr:240,255,255>Commander: It was an honor to serve with each and every one of you. You made the ultimate sacrifice."
-"Command.co_m6_ob21"		"<clr:240,255,255>Командующий: Было честью служить с каждым из вас. Вы заплатили наивысшую цену."
+"[english]Command.co_m6_ob21"		"<clr:240,255,255>Lt. Williams: It was an honor to serve with each and every one of you. You made the ultimate sacrifice."
+"Command.co_m6_ob21"		"<clr:240,255,255>Лейтенант Уильямс: Было честью служить с каждым из вас. Вы заплатили наивысшую цену."
 
-"[english]Command.co_m6_ob22"		"<clr:240,255,255>Commander: Good work, mission accomplished!"
-"Command.co_m6_ob22"		"<clr:240,255,255>Командующий: Отличная работа, миссия выполнена!"
+"[english]Command.co_m6_ob22"		"<clr:240,255,255>Lt. Williams: Good work, mission accomplished!"
+"Command.co_m6_ob22"		"<clr:240,255,255>Лейтенант Уильямс: Отличная работа, миссия выполнена!"
 
-"[english]Command.co_m6_ob23"		"<clr:240,255,255>Commander: Mission accomplished!"
-"Command.co_m6_ob23"		"<clr:240,255,255>Командующий: Миссия выполнена!"
+"[english]Command.co_m6_ob23"		"<clr:240,255,255>Lt. Williams: Mission accomplished!"
+"Command.co_m6_ob23"		"<clr:240,255,255>Лейтенант Уильямс: Миссия выполнена!"
 
-"[english]Command.co_m6_ob24"		"<clr:240,255,255>Commander: You did it! The bomb's gone off! The Swarm threat has been exterminated."
-"Command.co_m6_ob24"		"<clr:240,255,255>Командующий: Вы сделали это! Боеголовка сработала! Угроза распространения роя была уничтожена."
+"[english]Command.co_m6_ob24"		"<clr:240,255,255>Lt. Williams: You did it! The bomb's gone off! The Swarm threat has been exterminated."
+"Command.co_m6_ob24"		"<clr:240,255,255>Лейтенант Уильямс: Вы сделали это! Боеголовка сработала! Угроза распространения роя была уничтожена."
 
-"[english]Command.co_m6_ob25"		"<clr:240,255,255>Commander: The nuke is blocked! Clear up the biomass to free it up!"
-"Command.co_m6_ob25"		"<clr:240,255,255>Командующий: Бомба заблокирована! Уничтожьте биомассу, чтоб освободить путь!"
+"[english]Command.co_m6_ob25"		"<clr:240,255,255>Lt. Williams: The nuke is blocked! Clear up the biomass to free it up!"
+"Command.co_m6_ob25"		"<clr:240,255,255>Лейтенант Уильямс: Бомба заблокирована! Уничтожьте биомассу, чтоб освободить путь!"
 
-"[english]Command.co_m6_ob26"		"<clr:240,255,255>Commander: Landing pads overun! Bloodhound's coming in! Jump on our back and we'll get you out of there!"
-"Command.co_m6_ob26"		"<clr:240,255,255>Командующий: Посадочные площадки перекрыты! «Ищейка» уже на месте! Забирайтесь ей на спину и мы вывезем вас оттуда!"
+"[english]Command.co_m6_ob26"		"<clr:240,255,255>Lt. Williams: Landing pads overun! Bloodhound's coming in! Jump on our back and we'll get you out of there!"
+"Command.co_m6_ob26"		"<clr:240,255,255>Лейтенант Уильямс: Посадочные площадки перекрыты! «Ищейка» уже на месте! Забирайтесь ей на спину и мы вывезем вас оттуда!"
 
-"[english]Command.co_m6_ob27"		"<clr:240,255,255>Commander: Yeah! We made it!"
-"Command.co_m6_ob27"		"<clr:240,255,255>Командующий: Да уж! Мы сделали это!"
+"[english]Command.co_m6_ob27"		"<clr:240,255,255>Lt. Williams: Yeah! We made it!"
+"Command.co_m6_ob27"		"<clr:240,255,255>Лейтенант Уильямс: Да уж! Мы сделали это!"
 
-"[english]Command.co_hold_ob1"		"<clr:240,255,255>Commander: Alright, squad, you made it to the extraction zone. Command ship is inbound. You just need to hold out until I get there."
-"Command.co_hold_ob1"		"<clr:240,255,255>Командующий: Отлично, отряд вы добрались до зоны эвакуации. Командный крейсер уже в пути. Вам просто нужно продержаться, пока я не доберусь туда."
+"[english]Command.co_hold_ob1"		"<clr:240,255,255>Lt. Williams: Alright, squad, you made it to the extraction zone. Command ship is inbound. You just need to hold out until I get there."
+"Command.co_hold_ob1"		"<clr:240,255,255>Лейтенант Уильямс: Отлично, отряд вы добрались до зоны эвакуации. Командный крейсер уже в пути. Вам просто нужно продержаться, пока я не доберусь туда."
 
-"[english]Command.co_hold_ob2"		"<clr:240,255,255>Commander: Almost there, squad."
-"Command.co_hold_ob2"		"<clr:240,255,255>Командующий: Почти у цели, отряд."
+"[english]Command.co_hold_ob2"		"<clr:240,255,255>Lt. Williams: Almost there, squad."
+"Command.co_hold_ob2"		"<clr:240,255,255>Лейтенант Уильямс: Почти у цели, отряд."
 
-"[english]Command.co_hold_ob3"		"<clr:240,255,255>Commander: Hang in there, squad. I'm on my way!"
-"Command.co_hold_ob3"		"<clr:240,255,255>Командующий: Держитесь там, отряд. Я уже в пути!"
+"[english]Command.co_hold_ob3"		"<clr:240,255,255>Lt. Williams: Hang in there, squad. I'm on my way!"
+"Command.co_hold_ob3"		"<clr:240,255,255>Лейтенант Уильямс: Держитесь там, отряд. Я уже в пути!"
 
-"[english]Command.co_hold_ob4"		"<clr:240,255,255>Commander: Coming in hot!"
-"Command.co_hold_ob4"		"<clr:240,255,255>Командующий: Уже на месте!"
+"[english]Command.co_hold_ob4"		"<clr:240,255,255>Lt. Williams: Coming in hot!"
+"Command.co_hold_ob4"		"<clr:240,255,255>Лейтенант Уильямс: Уже на месте!"
 
-"[english]Command.co_debriefing_ob1"		"<clr:240,255,255>Commander: Objective completed! Good work, marines."
-"Command.co_debriefing_ob1"		"<clr:240,255,255>Командующий: Цель достигнута! Отличная работа, бойцы."
+"[english]Command.co_debriefing_ob1"		"<clr:240,255,255>Lt. Williams: Objective completed! Good work, marines."
+"Command.co_debriefing_ob1"		"<clr:240,255,255>Лейтенант Уильямс: Цель достигнута! Отличная работа, бойцы."
 
-"[english]Command.co_debriefing_ob2"		"<clr:240,255,255>Commander: Analysis of the flight recorder from the escape pod shows a number of vessels did successfully break orbit and leave Vereon XII. Looks like a handful of SynTek officers and colonists."
-"Command.co_debriefing_ob2"		"<clr:240,255,255>Командующий: Анализ регистратора полёта из спасательной капсулы показывает, что ряд судов успешно преодолели орбиту и покинули Вереон XII. Похоже, что это несколько сотрудников и колонистов из СинТек."
+"[english]Command.co_debriefing_ob2"		"<clr:240,255,255>Lt. Williams: Analysis of the flight recorder from the escape pod shows a number of vessels did successfully break orbit and leave Vereon XII. Looks like a handful of SynTek officers and colonists."
+"Command.co_debriefing_ob2"		"<clr:240,255,255>Лейтенант Уильямс: Анализ регистратора полёта из спасательной капсулы показывает, что ряд судов успешно преодолели орбиту и покинули Вереон XII. Похоже, что это несколько сотрудников и колонистов из СинТек."
 
-"[english]Command.co_debriefing_ob3"		"<clr:240,255,255>Commander: We also show a small container left the atmosphere without broadcasting ID codes. All launch data for this vessel has been scrambled by persons unknown. We've dispatched scout vessels to search the immediate vicinity, but given its size and the unknown trajectory, the chances of finding it are slim."
-"Command.co_debriefing_ob3"		"<clr:240,255,255>Командующий: Мы также выявили небольшой контейнер, покинувший атмосферу, не подав сигнал с идентифицирующим кодом. Вся информация о запуске была кем-то зашифрована. Мы отправили разведывательные аппараты на поиск в ближних районах, но учитывая размеры и неизвестную траекторию, шансы весьма невелики."
+"[english]Command.co_debriefing_ob3"		"<clr:240,255,255>Lt. Williams: We also show a small container left the atmosphere without broadcasting ID codes. All launch data for this vessel has been scrambled by persons unknown. We've dispatched scout vessels to search the immediate vicinity, but given its size and the unknown trajectory, the chances of finding it are slim."
+"Command.co_debriefing_ob3"		"<clr:240,255,255>Лейтенант Уильямс: Мы также выявили небольшой контейнер, покинувший атмосферу, не подав сигнал с идентифицирующим кодом. Вся информация о запуске была кем-то зашифрована. Мы отправили разведывательные аппараты на поиск в ближних районах, но учитывая размеры и неизвестную траекторию, шансы весьма невелики."
 
-"[english]Command.co_debriefing_ob4"		"<clr:240,255,255>Commander: Everybody has to be on that lift before it'll activate."
-"Command.co_debriefing_ob4"		"<clr:240,255,255>Командующий: Все должны быть на этом лифте, прежде чем он двинется."
+"[english]Command.co_debriefing_ob4"		"<clr:240,255,255>Lt. Williams: Everybody has to be on that lift before it'll activate."
+"Command.co_debriefing_ob4"		"<clr:240,255,255>Лейтенант Уильямс: Все должны быть на этом лифте, прежде чем он двинется."
 
-"[english]Command.co_debriefing_ob5"		"<clr:240,255,255>Commander: Good work destroying the pipeline, Squad. This should hinder Swarm movement within the colony."
-"Command.co_debriefing_ob5"		"<clr:240,255,255>Командующий: Отличная работа, отряд, вы разрушили трубопровод. Это должно теперь препятствовать продвижению роя по колонии."
+"[english]Command.co_debriefing_ob5"		"<clr:240,255,255>Lt. Williams: Good work destroying the pipeline, Squad. This should hinder Swarm movement within the colony."
+"Command.co_debriefing_ob5"		"<clr:240,255,255>Лейтенант Уильямс: Отличная работа, отряд, вы разрушили трубопровод. Это должно теперь препятствовать продвижению роя по колонии."
 
-"[english]Command.co_debriefing_ob6"		"<clr:240,255,255>Commander: We are showing the reactor back up and running at full efficiency. Great job!"
-"Command.co_debriefing_ob6"		"<clr:240,255,255>Командующий: Приборы показывают, что реактор заработал на полной мощности. Отличная работа!"
+"[english]Command.co_debriefing_ob6"		"<clr:240,255,255>Lt. Williams: We are showing the reactor back up and running at full efficiency. Great job!"
+"Command.co_debriefing_ob6"		"<clr:240,255,255>Лейтенант Уильямс: Приборы показывают, что реактор заработал на полной мощности. Отличная работа!"
 
-"[english]Command.co_debriefing_ob7"		"<clr:240,255,255>Commander: The data you recovered shows a number of SynTek Security personnel attempted to fight back the infestation. We can assume at this point that they were unsuccessful."
-"Command.co_debriefing_ob7"		"<clr:240,255,255>Командующий: Восстановленные данные показывают, что ряд сотрудников службы безопасности СинТек пытались бороться с заразой. На этот момент мы можем предположить, что они не увенчались успехом."
+"[english]Command.co_debriefing_ob7"		"<clr:240,255,255>Lt. Williams: The data you recovered shows a number of SynTek Security personnel attempted to fight back the infestation. We can assume at this point that they were unsuccessful."
+"Command.co_debriefing_ob7"		"<clr:240,255,255>Лейтенант Уильямс: Восстановленные данные показывают, что ряд сотрудников службы безопасности СинТек пытались бороться с заразой. На этот момент мы можем предположить, что они не увенчались успехом."
 
-"[english]Command.co_debriefing_ob8"		"<clr:240,255,255>Commander: With the sewer access tunnel sealed, the Swarm have only one way to the surface."
-"Command.co_debriefing_ob8"		"<clr:240,255,255>Командующий: Теперь, когда туннель доступа к канализации закрыт, рой имеет только один путь на поверхность."
+"[english]Command.co_debriefing_ob8"		"<clr:240,255,255>Lt. Williams: With the sewer access tunnel sealed, the Swarm have only one way to the surface."
+"Command.co_debriefing_ob8"		"<clr:240,255,255>Лейтенант Уильямс: Теперь, когда туннель доступа к канализации закрыт, рой имеет только один путь на поверхность."
 
-"[english]Command.co_debriefing_ob9"		"<clr:240,255,255>Commander: Excellent work, Commander. The thermonuclear device detonated by your squad has destroyed the bulk of the Swarm forces beneath the surface. We estimate in excess of 200 eggs and countless Swarm drones have been wiped out by the detonation."
-"Command.co_debriefing_ob9"		"<clr:240,255,255>Командующий: Отличная работа, командир. Термоядерное устройство, приведённое в действие вашим отрядом, уничтожило большую часть роя. По нашим оценкам, взрыв уничтожил более 200 яиц и бесчисленное количество трутней."
+"[english]Command.co_debriefing_ob9"		"<clr:240,255,255>Lt. Williams: Excellent work, Commander. The thermonuclear device detonated by your squad has destroyed the bulk of the Swarm forces beneath the surface. We estimate in excess of 200 eggs and countless Swarm drones have been wiped out by the detonation."
+"Command.co_debriefing_ob9"		"<clr:240,255,255>Лейтенант Уильямс: Отличная работа, командир. Термоядерное устройство, приведённое в действие вашим отрядом, уничтожило большую часть роя. По нашим оценкам, взрыв уничтожил более 200 яиц и бесчисленное количество трутней."
 
-"[english]Command.co_debriefing_ob10"		"<clr:240,255,255>Commander: We are still detecting a single large heat source in a deep, well protected chamber. IAF Command is making investigation of this a priority."
-"Command.co_debriefing_ob10"		"<clr:240,255,255>Командующий: Мы всё ещё наблюдаем один большой источник тепла в глубокой, хорошо защищённой шахте. Командование МВС поставит это расследование в приоритет."
+"[english]Command.co_debriefing_ob10"		"<clr:240,255,255>Lt. Williams: We are still detecting a single large heat source in a deep, well protected chamber. IAF Command is making investigation of this a priority."
+"Command.co_debriefing_ob10"		"<clr:240,255,255>Лейтенант Уильямс: Мы всё ещё наблюдаем один большой источник тепла в глубокой, хорошо защищённой шахте. Командование МВС поставит это расследование в приоритет."
 
 //Bastille
 

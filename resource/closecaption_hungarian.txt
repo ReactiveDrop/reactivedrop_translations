@@ -8,215 +8,215 @@
 
 //Commander Audio
 
-"[english]Command.co_m1_ob1"		"<clr:240,255,255>Commander: Okay, squad. We need to check the shipping manifests to see if any survivors made it off this rock. Make your way down to the landing bay and find a terminal where we can download the transport records. I'll check in with you there."
-"Command.co_m1_ob1"		"<clr:240,255,255>Parancsnok: Jól van, osztag. Ellenőriznünk kell a rakományjegyzékeket, hogy megtudjuk, jutottak-e ki túlélők erről a kődarabról. Jussanak le leszállóhangárhoz és keressenek egy terminált, ahol letölthetjük a szállítási feljegyzéseket. Ott majd újra jelentkezem."
+"[english]Command.co_m1_ob1"		"<clr:240,255,255>Lt. Williams: Okay, squad. We need to check the shipping manifests to see if any survivors made it off this rock. Make your way down to the landing bay and find a terminal where we can download the transport records. I'll check in with you there."
+"Command.co_m1_ob1"		"<clr:240,255,255>Williams hadnagy: Jól van, osztag. Ellenőriznünk kell a rakományjegyzékeket, hogy megtudjuk, jutottak-e ki túlélők erről a kődarabról. Jussanak le leszállóhangárhoz és keressenek egy terminált, ahol letölthetjük a szállítási feljegyzéseket. Ott majd újra jelentkezem."
 
-"[english]Command.co_m1_ob2"		"<clr:240,255,255>Commander: Well, these manifests are useless. Guess record keeping wasn't exactly high on the priority list when the swarm hit. We are now search and rescue until otherwise informed, so keep an eye out for survivors. Head for the far exit and then we'll regroup."
-"Command.co_m1_ob2"		"<clr:240,255,255>Parancsnok: Hát, ezek a jegyzékek használhatatlanok. Gondolom, nem a nyilvántartás vezetése volt a legfontosabb dolguk, mikor a Raj rajtuk ütött. Mostantól további utasításig kutató-mentő feladatot látunk el, úgyhogy keressenek túlélőket. Irány a távolabbi kijárat, aztán majd alakzatba fejlődünk."
+"[english]Command.co_m1_ob2"		"<clr:240,255,255>Lt. Williams: Well, these manifests are useless. Guess record keeping wasn't exactly high on the priority list when the swarm hit. We are now search and rescue until otherwise informed, so keep an eye out for survivors. Head for the far exit and then we'll regroup."
+"Command.co_m1_ob2"		"<clr:240,255,255>Williams hadnagy: Hát, ezek a jegyzékek használhatatlanok. Gondolom, nem a nyilvántartás vezetése volt a legfontosabb dolguk, mikor a Raj rajtuk ütött. Mostantól további utasításig kutató-mentő feladatot látunk el, úgyhogy keressenek túlélőket. Irány a távolabbi kijárat, aztán majd alakzatba fejlődünk."
 
-"[english]Command.co_m1_ob3"		"<clr:240,255,255>Commander: All right, keep going! Main colony's dead ahead!"
-"Command.co_m1_ob3"		"<clr:240,255,255>Parancsnok: Rendben, csak tovább! A fő kolónia egyenesen előre van!"
+"[english]Command.co_m1_ob3"		"<clr:240,255,255>Lt. Williams: All right, keep going! Main colony's dead ahead!"
+"Command.co_m1_ob3"		"<clr:240,255,255>Williams hadnagy: Rendben, csak tovább! A fő kolónia egyenesen előre van!"
 
-		"[english]Command.co_m1_ob4"		"<clr:240,255,255>Commander: Keep the elevator down to the main mining complex and forward formation to the entrance."
-		"Command.co_m1_ob4"		"<clr:240,255,255>Commander: Keep the elevator down to the main mining complex and forward formation to the entrance."
+		"[english]Command.co_m1_ob4"		"<clr:240,255,255>Lt. Williams: Keep the elevator down to the main mining complex and forward formation to the entrance."
+		"Command.co_m1_ob4"		"<clr:240,255,255>Lt. Williams: Keep the elevator down to the main mining complex and forward formation to the entrance."
 
-"[english]Command.co_m1_ob5"		"<clr:240,255,255>Commander: I'm picking up multiple inbound motion signatures. Something tells me these ain't friendlies. Try to hold out until the elevator arrives."
-"Command.co_m1_ob5"		"<clr:240,255,255>Parancsnok: Több közeledő mozgásmintát észlelek. Valami azt súgja, ezek nem baráti egységek. Próbáljanak kitartani, míg megérkezik a lift."
+"[english]Command.co_m1_ob5"		"<clr:240,255,255>Lt. Williams: I'm picking up multiple inbound motion signatures. Something tells me these ain't friendlies. Try to hold out until the elevator arrives."
+"Command.co_m1_ob5"		"<clr:240,255,255>Williams hadnagy: Több közeledő mozgásmintát észlelek. Valami azt súgja, ezek nem baráti egységek. Próbáljanak kitartani, míg megérkezik a lift."
 
-		"[english]Command.co_m1_ob6"		"<clr:240,255,255>Commander: We better get to the colony to see what we can find."
-		"Command.co_m1_ob6"		"<clr:240,255,255>Commander: We better get to the colony to see what we can find."
+		"[english]Command.co_m1_ob6"		"<clr:240,255,255>Lt. Williams: We better get to the colony to see what we can find."
+		"Command.co_m1_ob6"		"<clr:240,255,255>Lt. Williams: We better get to the colony to see what we can find."
 
-		"[english]Command.co_m1_ob7"		"<clr:240,255,255>Commander: We can't get to the colony from up here, we need to get down to the lower level."
-		"Command.co_m1_ob7"		"<clr:240,255,255>Commander: We can't get to the colony from up here, we need to get down to the lower level."
+		"[english]Command.co_m1_ob7"		"<clr:240,255,255>Lt. Williams: We can't get to the colony from up here, we need to get down to the lower level."
+		"Command.co_m1_ob7"		"<clr:240,255,255>Lt. Williams: We can't get to the colony from up here, we need to get down to the lower level."
 
-		"[english]Command.co_m1_ob8"		"<clr:240,255,255>Commander: Get to the exit!"
-		"Command.co_m1_ob8"		"<clr:240,255,255>Commander: Get to the exit!"
+		"[english]Command.co_m1_ob8"		"<clr:240,255,255>Lt. Williams: Get to the exit!"
+		"Command.co_m1_ob8"		"<clr:240,255,255>Lt. Williams: Get to the exit!"
 
-"[english]Command.co_m2_ob1"		"<clr:240,255,255>Commander: The situation isn't pretty. This next sector is completely overrun. There's a pipeline that the Swarm's using as a superhighway to spread through the colony. You go ahead and find the pipeline, and I'll see if we can figure out a way to destroy it. We need to stop these bugs from getting out."
-"Command.co_m2_ob1"		"<clr:240,255,255>Parancsnok: Elég csúnya a helyzet. A következő szektort teljesen lerohanták. Van egy csővezeték, amit a Raj főútvonalként használ, hogy szétterjedjen a kolónián. Maguk előre mennek és megkeresik a csővezetéket, én meg utánanézek, találhatunk-e valami módot a megsemmisítésére. Meg kell akadályoznunk a dögök kijutását. "
+"[english]Command.co_m2_ob1"		"<clr:240,255,255>Lt. Williams: The situation isn't pretty. This next sector is completely overrun. There's a pipeline that the Swarm's using as a superhighway to spread through the colony. You go ahead and find the pipeline, and I'll see if we can figure out a way to destroy it. We need to stop these bugs from getting out."
+"Command.co_m2_ob1"		"<clr:240,255,255>Williams hadnagy: Elég csúnya a helyzet. A következő szektort teljesen lerohanták. Van egy csővezeték, amit a Raj főútvonalként használ, hogy szétterjedjen a kolónián. Maguk előre mennek és megkeresik a csővezetéket, én meg utánanézek, találhatunk-e valami módot a megsemmisítésére. Meg kell akadályoznunk a dögök kijutását. "
 
-"[english]Command.co_m2_ob2"		"<clr:240,255,255>Commander: Looks like we weren't the only ones who knew the Swarm were using the pipeline. That's a lot of boom packed around that pipe. Miners must have rigged the explosives but never got the chance to set em off. How about you finish what they started?"
-"Command.co_m2_ob2"		"<clr:240,255,255>Parancsnok: Úgy látszik, nem csak mi tudtuk, hogy a Raj a csővezetéket használja. Az a sok cucc a cső körül szép nagyot durranna. Biztos a bányászok készítették elő a robbanóanyagot, de felrobbantani már nem tudták. Mi lenne, ha befejeznék, amit ők elkezdtek?"
+"[english]Command.co_m2_ob2"		"<clr:240,255,255>Lt. Williams: Looks like we weren't the only ones who knew the Swarm were using the pipeline. That's a lot of boom packed around that pipe. Miners must have rigged the explosives but never got the chance to set em off. How about you finish what they started?"
+"Command.co_m2_ob2"		"<clr:240,255,255>Williams hadnagy: Úgy látszik, nem csak mi tudtuk, hogy a Raj a csővezetéket használja. Az a sok cucc a cső körül szép nagyot durranna. Biztos a bányászok készítették elő a robbanóanyagot, de felrobbantani már nem tudták. Mi lenne, ha befejeznék, amit ők elkezdtek?"
 
-"[english]Command.co_m2_ob3"		"<clr:240,255,255>Commander: That's the pipeline right above you. Go ahead and blow it now!"
-"Command.co_m2_ob3"		"<clr:240,255,255>Parancsnok: Az a csővezeték, pont maguk fölött. Gyerünk, robbantsák fel, azonnal!"
+"[english]Command.co_m2_ob3"		"<clr:240,255,255>Lt. Williams: That's the pipeline right above you. Go ahead and blow it now!"
+"Command.co_m2_ob3"		"<clr:240,255,255>Williams hadnagy: Az a csővezeték, pont maguk fölött. Gyerünk, robbantsák fel, azonnal!"
 
-"[english]Command.co_m2_ob4"		"<clr:240,255,255>Commander: Looks like power's out in the next area. I got an idea though for lighting up your way."
-"Command.co_m2_ob4"		"<clr:240,255,255>Parancsnok: Úgy tűnik, a következő területen nincs áram. De van egy ötletem, hogyan világíthatnánk meg az útvonalat."
+"[english]Command.co_m2_ob4"		"<clr:240,255,255>Lt. Williams: Looks like power's out in the next area. I got an idea though for lighting up your way."
+"Command.co_m2_ob4"		"<clr:240,255,255>Williams hadnagy: Úgy tűnik, a következő területen nincs áram. De van egy ötletem, hogyan világíthatnánk meg az útvonalat."
 
-"[english]Command.co_m2_ob5"		"<clr:240,255,255>Commander: Okay, I'm sending in Bloodhound to see if I can't shed a little light on this problem. You try and stay in her lamps while you're crossing the bridge, you should be all right."
-"Command.co_m2_ob5"		"<clr:240,255,255>Parancsnok: Rendben, beküldöm Vérebet, hátha sikerül vele jobb megvilágításba helyezni a problémát. Miközben átkelnek a hídon, próbáljanak a fénysugaraiban maradni, és akkor nem lesz gond."
+"[english]Command.co_m2_ob5"		"<clr:240,255,255>Lt. Williams: Okay, I'm sending in Bloodhound to see if I can't shed a little light on this problem. You try and stay in her lamps while you're crossing the bridge, you should be all right."
+"Command.co_m2_ob5"		"<clr:240,255,255>Williams hadnagy: Rendben, beküldöm Vérebet, hátha sikerül vele jobb megvilágításba helyezni a problémát. Miközben átkelnek a hídon, próbáljanak a fénysugaraiban maradni, és akkor nem lesz gond."
 
-"[english]Command.co_m2_ob6"		"<clr:240,255,255>Commander: Good job. Now get across."
-"Command.co_m2_ob6"		"<clr:240,255,255>Parancsnok: Szép munka. És most menjenek át!"
+"[english]Command.co_m2_ob6"		"<clr:240,255,255>Lt. Williams: Good job. Now get across."
+"Command.co_m2_ob6"		"<clr:240,255,255>Williams hadnagy: Szép munka. És most menjenek át!"
 
-"[english]Command.co_m2_ob7"		"<clr:240,255,255>Commander: Okay, I'm gonna bring Bloodhound in low and hover. You climb across her back while she's waiting. Step lightly now. She's gotta bring you home at the end of this."
-"Command.co_m2_ob7"		"<clr:240,255,255>Parancsnok: Oké, alacsonyan beküldöm, és lebegésre utasítom Vérebet, maguk meg átmásznak a hátán keresztül. Figyeljenek, hová lépnek, mert neki kell majd kihoznia magukat, miután mindennek vége."
+"[english]Command.co_m2_ob7"		"<clr:240,255,255>Lt. Williams: Okay, I'm gonna bring Bloodhound in low and hover. You climb across her back while she's waiting. Step lightly now. She's gotta bring you home at the end of this."
+"Command.co_m2_ob7"		"<clr:240,255,255>Williams hadnagy: Oké, alacsonyan beküldöm, és lebegésre utasítom Vérebet, maguk meg átmásznak a hátán keresztül. Figyeljenek, hová lépnek, mert neki kell majd kihoznia magukat, miután mindennek vége."
 
-		"[english]Command.co_m2_ob8"		"<clr:240,255,255>Commander: Colony reactor is dead ahead."
-		"Command.co_m2_ob8"		"<clr:240,255,255>Commander: Colony reactor is dead ahead."
+		"[english]Command.co_m2_ob8"		"<clr:240,255,255>Lt. Williams: Colony reactor is dead ahead."
+		"Command.co_m2_ob8"		"<clr:240,255,255>Lt. Williams: Colony reactor is dead ahead."
 
-"[english]Command.co_m3_ob1"		"<clr:240,255,255>Commander: Okay Squad, command wants the computers up and running. The colony's reactor was knocked offline by the Swarm attack, so you need to find your way to the reactor core and get that juice back on in there."
-"Command.co_m3_ob1"		"<clr:240,255,255>Parancsnok: Jól van, osztag, a parancsnokság működő számítógépeket akar látni. A Raj támadása kiütötte a kolónia reaktorát, úgyhogy utat kell találniuk a reaktormaghoz, és visszakapcsolni a kakaót idefent."
+"[english]Command.co_m3_ob1"		"<clr:240,255,255>Lt. Williams: Okay Squad, command wants the computers up and running. The colony's reactor was knocked offline by the Swarm attack, so you need to find your way to the reactor core and get that juice back on in there."
+"Command.co_m3_ob1"		"<clr:240,255,255>Williams hadnagy: Jól van, osztag, a parancsnokság működő számítógépeket akar látni. A Raj támadása kiütötte a kolónia reaktorát, úgyhogy utat kell találniuk a reaktormaghoz, és visszakapcsolni a kakaót idefent."
 
-"[english]Command.co_m3_ob2"		"<clr:240,255,255>Commander: Great job, team! Power is on. Command is accessing the colony's computer systems right now. Keep moving, and we'll regroup up ahead."
-"Command.co_m3_ob2"		"<clr:240,255,255>Parancsnok: Remek munka, emberek! Van áram. A parancsnokság most lép kapcsolatba a kolónia számítógép-rendszerével. Menjenek tovább, és majd újra alakzatba fejlődünk."
+"[english]Command.co_m3_ob2"		"<clr:240,255,255>Lt. Williams: Great job, team! Power is on. Command is accessing the colony's computer systems right now. Keep moving, and we'll regroup up ahead."
+"Command.co_m3_ob2"		"<clr:240,255,255>Williams hadnagy: Remek munka, emberek! Van áram. A parancsnokság most lép kapcsolatba a kolónia számítógép-rendszerével. Menjenek tovább, és majd újra alakzatba fejlődünk."
 
-"[english]Command.co_m3_ob3"		"<clr:240,255,255>Commander: Okay, Squad. Word just came down from on high. I'm gonna be straight with you, it's all bad. Command didn't like what the colony's computer system had to say. Looks like the colonists are dead. Means the infestation is out of control, and they've decided to introduce the Swarm to the wonders of the nuclear age. They've uploaded detonation codes into the mine's nuclear excavation device—basically a nuclear warhead—and they need you to deliver it into the heart of the Swarm's nest. Head toward residential, and I'll find you a path to the bomb."
-"Command.co_m3_ob3"		"<clr:240,255,255>Parancsnok: Na jó, osztag, épp most szóltak le odafentről. Nem fogok köntörfalazni: rosszul hangzik. A parancsnokságnak nem tetszett a kolónia számítógép-rendszerének mondandója. Úgy látszik, a telepesek halottak. Ez azt jelenti, hogy a fertőzés elszabadult, ezért úgy döntöttek, ideje megismertetni a Rajt az atomkor csodáival. Robbantási kódokat töltöttek fel a bánya nukleáris fejtőgépébe, ami gyakorlatilag egy nukleáris robbanófej, és azt akarják, hogy maguk szállítsák le azt a Raj fészkébe. Induljanak a lakókörlet felé, én meg keresek maguknak egy útvonalat a bombához."
+"[english]Command.co_m3_ob3"		"<clr:240,255,255>Lt. Williams: Okay, Squad. Word just came down from on high. I'm gonna be straight with you, it's all bad. Command didn't like what the colony's computer system had to say. Looks like the colonists are dead. Means the infestation is out of control, and they've decided to introduce the Swarm to the wonders of the nuclear age. They've uploaded detonation codes into the mine's nuclear excavation device—basically a nuclear warhead—and they need you to deliver it into the heart of the Swarm's nest. Head toward residential, and I'll find you a path to the bomb."
+"Command.co_m3_ob3"		"<clr:240,255,255>Williams hadnagy: Na jó, osztag, épp most szóltak le odafentről. Nem fogok köntörfalazni: rosszul hangzik. A parancsnokságnak nem tetszett a kolónia számítógép-rendszerének mondandója. Úgy látszik, a telepesek halottak. Ez azt jelenti, hogy a fertőzés elszabadult, ezért úgy döntöttek, ideje megismertetni a Rajt az atomkor csodáival. Robbantási kódokat töltöttek fel a bánya nukleáris fejtőgépébe, ami gyakorlatilag egy nukleáris robbanófej, és azt akarják, hogy maguk szállítsák le azt a Raj fészkébe. Induljanak a lakókörlet felé, én meg keresek maguknak egy útvonalat a bombához."
 
-"[english]Command.co_m4_ob1"		"<clr:240,255,255>Commander: All right, sensors show a massive build-up of eggs and biomass in this sector. Make yourselves a little room to work. Clear out the infestation. Burn them if you have to, but be advised, destroying biomass calls the Swarm."
-"Command.co_m4_ob1"		"<clr:240,255,255>Parancsnok: Szóval, a szenzorok hatalmas mennyiségű tojást és biomasszát jeleznek ebben a szektorban. Csináljanak maguknak egy kis helyet a mozgáshoz. Takarítsák el a fertőzést. Használjanak hamvasztót, ha muszáj, de vigyázzanak, mert a biomassza elpusztítása odavonzza a Rajt."
+"[english]Command.co_m4_ob1"		"<clr:240,255,255>Lt. Williams: All right, sensors show a massive build-up of eggs and biomass in this sector. Make yourselves a little room to work. Clear out the infestation. Burn them if you have to, but be advised, destroying biomass calls the Swarm."
+"Command.co_m4_ob1"		"<clr:240,255,255>Williams hadnagy: Szóval, a szenzorok hatalmas mennyiségű tojást és biomasszát jeleznek ebben a szektorban. Csináljanak maguknak egy kis helyet a mozgáshoz. Takarítsák el a fertőzést. Használjanak hamvasztót, ha muszáj, de vigyázzanak, mert a biomassza elpusztítása odavonzza a Rajt."
 
-"[english]Command.co_m4_ob2"		"<clr:240,255,255>Commander: Looks like more biomass ahead; get a firing solution on that problem."
-"Command.co_m4_ob2"		"<clr:240,255,255>Parancsnok: Úgy tűnik, elöl még több biomassza van; égjen a kezük alatt a munka."
+"[english]Command.co_m4_ob2"		"<clr:240,255,255>Lt. Williams: Looks like more biomass ahead; get a firing solution on that problem."
+"Command.co_m4_ob2"		"<clr:240,255,255>Williams hadnagy: Úgy tűnik, elöl még több biomassza van; égjen a kezük alatt a munka."
 
-"[english]Command.co_m4_ob3"		"<clr:240,255,255>Commander: All right, you've almost cleared out the last of it. Keep pushing forward."
-"Command.co_m4_ob3"		"<clr:240,255,255>Parancsnok: Jól van, már majdnem mindet elintézték. Csak nyomuljanak előre."
+"[english]Command.co_m4_ob3"		"<clr:240,255,255>Lt. Williams: All right, you've almost cleared out the last of it. Keep pushing forward."
+"Command.co_m4_ob3"		"<clr:240,255,255>Williams hadnagy: Jól van, már majdnem mindet elintézték. Csak nyomuljanak előre."
 
-		"[english]Command.co_m4_ob4"		"<clr:240,255,255>Commander: Just a few more eggs to go."
-		"Command.co_m4_ob4"		"<clr:240,255,255>Commander: Just a few more eggs to go."
+		"[english]Command.co_m4_ob4"		"<clr:240,255,255>Lt. Williams: Just a few more eggs to go."
+		"Command.co_m4_ob4"		"<clr:240,255,255>Lt. Williams: Just a few more eggs to go."
 
-		"[english]Command.co_m4_ob5"		"<clr:240,255,255>Commander: You cleared out the area, time to get to the Swarm nest. Take the elevator down."
-		"Command.co_m4_ob5"		"<clr:240,255,255>Commander: You cleared out the area, time to get to the Swarm nest. Take the elevator down."
+		"[english]Command.co_m4_ob5"		"<clr:240,255,255>Lt. Williams: You cleared out the area, time to get to the Swarm nest. Take the elevator down."
+		"Command.co_m4_ob5"		"<clr:240,255,255>Lt. Williams: You cleared out the area, time to get to the Swarm nest. Take the elevator down."
 
-"[english]Command.co_m5_ob1"		"<clr:240,255,255>Commander: Okay Squad. I'm picking up major swarm at sewer junction 16."
-"Command.co_m5_ob1"		"<clr:240,255,255>Parancsnok: Jól van, osztag, jelentős méretű rajt észlelek a 16-os csatorna-elágazásnál. "
+"[english]Command.co_m5_ob1"		"<clr:240,255,255>Lt. Williams: Okay Squad. I'm picking up major swarm at sewer junction 16."
+"Command.co_m5_ob1"		"<clr:240,255,255>Williams hadnagy: Jól van, osztag, jelentős méretű rajt észlelek a 16-os csatorna-elágazásnál. "
 
-"[english]Command.co_m5_ob2"		"<clr:240,255,255>Commander: I'm picking up massive kinetic signatures in one of the old maintenance tunnels. Remember, these eggs are full of parasites. Take 'em out on sight."
-"Command.co_m5_ob2"		"<clr:240,255,255>Parancsnok: Hatalmas kinetikus mintákat észlelek az egyik régi szervizalagútban. Ne feledjék, ezek a tojások tele vannak parazitákkal. Azonnal intézzék el őket."
+"[english]Command.co_m5_ob2"		"<clr:240,255,255>Lt. Williams: I'm picking up massive kinetic signatures in one of the old maintenance tunnels. Remember, these eggs are full of parasites. Take 'em out on sight."
+"Command.co_m5_ob2"		"<clr:240,255,255>Williams hadnagy: Hatalmas kinetikus mintákat észlelek az egyik régi szervizalagútban. Ne feledjék, ezek a tojások tele vannak parazitákkal. Azonnal intézzék el őket."
 
-"[english]Command.co_m5_ob3"		"<clr:240,255,255>Commander: Okay Squad. Moisture's dripping off those walls. Looks like an ideal breeding ground for swarm parasites. Keep a sharp eye out. If you get infested, call a medic. Your best chance is to destroy the eggs before they pop."
-"Command.co_m5_ob3"		"<clr:240,255,255>Parancsnok: Jól van, osztag. A falakról csöpög a pára. Ez ideális keltetőnek tűnik a raj parazitái számára. Nagyon figyeljenek oda. Ha megfertőződnek, hívjanak szanitécet. A legjobb megoldás, ha még a felhasadásuk előtt elpusztítják a tojásokat. "
+"[english]Command.co_m5_ob3"		"<clr:240,255,255>Lt. Williams: Okay Squad. Moisture's dripping off those walls. Looks like an ideal breeding ground for swarm parasites. Keep a sharp eye out. If you get infested, call a medic. Your best chance is to destroy the eggs before they pop."
+"Command.co_m5_ob3"		"<clr:240,255,255>Williams hadnagy: Jól van, osztag. A falakról csöpög a pára. Ez ideális keltetőnek tűnik a raj parazitái számára. Nagyon figyeljenek oda. Ha megfertőződnek, hívjanak szanitécet. A legjobb megoldás, ha még a felhasadásuk előtt elpusztítják a tojásokat. "
 
-"[english]Command.co_m5_ob4"		"<clr:240,255,255>Commander: Okay, team, we need to seal the tunnel entrance. This will help keep the swarm off your backs as you move deeper into the colony."
-"Command.co_m5_ob4"		"<clr:240,255,255>Parancsnok: Jól van, osztag, le kell zárnunk az alagút bejáratát. Ez majd segít távol tartani a hátukból a Rajt, miközben mélyebbre hatolnak a kolónián. "
+"[english]Command.co_m5_ob4"		"<clr:240,255,255>Lt. Williams: Okay, team, we need to seal the tunnel entrance. This will help keep the swarm off your backs as you move deeper into the colony."
+"Command.co_m5_ob4"		"<clr:240,255,255>Williams hadnagy: Jól van, osztag, le kell zárnunk az alagút bejáratát. Ez majd segít távol tartani a hátukból a Rajt, miközben mélyebbre hatolnak a kolónián. "
 
-"[english]Command.co_m5_ob5"		"<clr:240,255,255>Commander: Okay, Squad. I think I've found a shortcut for you. I'm detecting a breach in the facility's northwest wall. Move the squad through that breach and regain access to the surface."
-"Command.co_m5_ob5"		"<clr:240,255,255>Parancsnok: Oké, osztag, azt hiszem, találtam maguknak egy rövidebb utat. Hasadékot észlelek az épület északnyugati falában. Menjenek át azon a nyíláson, és újra kijutnak a felszínre."
+"[english]Command.co_m5_ob5"		"<clr:240,255,255>Lt. Williams: Okay, Squad. I think I've found a shortcut for you. I'm detecting a breach in the facility's northwest wall. Move the squad through that breach and regain access to the surface."
+"Command.co_m5_ob5"		"<clr:240,255,255>Williams hadnagy: Oké, osztag, azt hiszem, találtam maguknak egy rövidebb utat. Hasadékot észlelek az épület északnyugati falában. Menjenek át azon a nyíláson, és újra kijutnak a felszínre."
 
-"[english]Command.co_m6_ob1"		"<clr:240,255,255>Commander: Alright, the bomb is just up ahead!"
-"Command.co_m6_ob1"		"<clr:240,255,255>Parancsnok: Rendben, a bomba egyenesen előre van!"
+"[english]Command.co_m6_ob1"		"<clr:240,255,255>Lt. Williams: Alright, the bomb is just up ahead!"
+"Command.co_m6_ob1"		"<clr:240,255,255>Williams hadnagy: Rendben, a bomba egyenesen előre van!"
 
-"[english]Command.co_m6_ob2"		"<clr:240,255,255>Commander: We've got new kinetic signatures breaking out all across the map. This doesn't look good."
-"Command.co_m6_ob2"		"<clr:240,255,255>Parancsnok: Új kinetikus mintázatok jelentek meg szerte a térképen. Ez rosszul néz ki."
+"[english]Command.co_m6_ob2"		"<clr:240,255,255>Lt. Williams: We've got new kinetic signatures breaking out all across the map. This doesn't look good."
+"Command.co_m6_ob2"		"<clr:240,255,255>Williams hadnagy: Új kinetikus mintázatok jelentek meg szerte a térképen. Ez rosszul néz ki."
 
-"[english]Command.co_m6_ob3"		"<clr:240,255,255>Commander: Alright, there's the bomb! You'll need to use the mine's rail system to get that thing into the nest. Remember, losing this fight is not an option. We're gonna sterilize this rock right down to its bare molecules."
-"Command.co_m6_ob3"		"<clr:240,255,255>Parancsnok: Rendben, ott a bomba! A bánya vasútját kell használniuk, hogy eljuttassák a fészekbe. Ne feledjék, ezt a csatát nem veszíthetjük el. Sterilizálni fogjuk ezt a kődarabot, egészen molekuláris szintig."
+"[english]Command.co_m6_ob3"		"<clr:240,255,255>Lt. Williams: Alright, there's the bomb! You'll need to use the mine's rail system to get that thing into the nest. Remember, losing this fight is not an option. We're gonna sterilize this rock right down to its bare molecules."
+"Command.co_m6_ob3"		"<clr:240,255,255>Williams hadnagy: Rendben, ott a bomba! A bánya vasútját kell használniuk, hogy eljuttassák a fészekbe. Ne feledjék, ezt a csatát nem veszíthetjük el. Sterilizálni fogjuk ezt a kődarabot, egészen molekuláris szintig."
 
-"[english]Command.co_m6_ob4"		"<clr:240,255,255>Commander: Okay, first thing's first. You need to reactivate the power substation for the cable railway. This'll start the warhead on its path toward the breeding chamber."
-"Command.co_m6_ob4"		"<clr:240,255,255>Parancsnok: Jól van, szép sorjában. Vissza kell kapcsolniuk a kábelvasút áramelosztóját. Attól a bomba majd szépen útnak indul a keltetőkamra felé."
+"[english]Command.co_m6_ob4"		"<clr:240,255,255>Lt. Williams: Okay, first thing's first. You need to reactivate the power substation for the cable railway. This'll start the warhead on its path toward the breeding chamber."
+"Command.co_m6_ob4"		"<clr:240,255,255>Williams hadnagy: Jól van, szép sorjában. Vissza kell kapcsolniuk a kábelvasút áramelosztóját. Attól a bomba majd szépen útnak indul a keltetőkamra felé."
 
-"[english]Command.co_m6_ob5"		"<clr:240,255,255>Commander: Alright, there are two doors that you're going to need to hack to move the warhead into position. Get 'em open."
-"Command.co_m6_ob5"		"<clr:240,255,255>Parancsnok: Rendben, van két ajtó, amit fel kell törniük, hogy eljuttassák a bombát a helyére. Nyissák ki őket!"
+"[english]Command.co_m6_ob5"		"<clr:240,255,255>Lt. Williams: Alright, there are two doors that you're going to need to hack to move the warhead into position. Get 'em open."
+"Command.co_m6_ob5"		"<clr:240,255,255>Williams hadnagy: Rendben, van két ajtó, amit fel kell törniük, hogy eljuttassák a bombát a helyére. Nyissák ki őket!"
 
-"[english]Command.co_m6_ob6"		"<clr:240,255,255>Commander: Once the warhead is in position, activate the detonation sequence. After that, you're gonna need to back-track your way up to the surface to reach your extraction zone."
+"[english]Command.co_m6_ob6"		"<clr:240,255,255>Lt. Williams: Once the warhead is in position, activate the detonation sequence. After that, you're gonna need to back-track your way up to the surface to reach your extraction zone."
 "Command.co_m6_ob6"		"<clr:240,255,255>Parancsnok. Miután a bomba a helyére került, indítsák el a robbantási folyamatot. Utána vissza kell követniük az útvonalukat a felszínre, hogy elérjék a kivonási zónát."
 
-"[english]Command.co_m6_ob7"		"<clr:240,255,255>Commander: Alright squad, the clock is ticking. You do NOT want to be there when that device goes off. Trust me, it would ruin your whole day."
-"Command.co_m6_ob7"		"<clr:240,255,255>Parancsnok: Na jó, osztag, ketyeg az óra. Ne akarjanak ott lenni, mikor az eszköz felrobban. Nekem elhihetik, az egész napjukat tönkretenné."
+"[english]Command.co_m6_ob7"		"<clr:240,255,255>Lt. Williams: Alright squad, the clock is ticking. You do NOT want to be there when that device goes off. Trust me, it would ruin your whole day."
+"Command.co_m6_ob7"		"<clr:240,255,255>Williams hadnagy: Na jó, osztag, ketyeg az óra. Ne akarjanak ott lenni, mikor az eszköz felrobban. Nekem elhihetik, az egész napjukat tönkretenné."
 
-"[english]Command.co_m6_ob8"		"<clr:240,255,255>Commander: Head out the same way you came! We'll pick you up on the surface!"
-"Command.co_m6_ob8"		"<clr:240,255,255>Parancsnok: Induljanak kifelé ugyanazon az úton, amin bejöttek! A felszínen felszedjük magukat!"
+"[english]Command.co_m6_ob8"		"<clr:240,255,255>Lt. Williams: Head out the same way you came! We'll pick you up on the surface!"
+"Command.co_m6_ob8"		"<clr:240,255,255>Williams hadnagy: Induljanak kifelé ugyanazon az úton, amin bejöttek! A felszínen felszedjük magukat!"
 
-"[english]Command.co_m6_ob9"		"<clr:240,255,255>Commander: Gang, you need to be high speed, low drag on this operation."
-"Command.co_m6_ob9"		"<clr:240,255,255>Parancsnok: Na, emberek, most aztán lazsálás nincs, tempó van."
+"[english]Command.co_m6_ob9"		"<clr:240,255,255>Lt. Williams: Gang, you need to be high speed, low drag on this operation."
+"Command.co_m6_ob9"		"<clr:240,255,255>Williams hadnagy: Na, emberek, most aztán lazsálás nincs, tempó van."
 
-"[english]Command.co_m6_ob10"		"<clr:240,255,255>Commander: Time is running out! You've got to pick up the pace."
-"Command.co_m6_ob10"		"<clr:240,255,255>Parancsnok: Fogytán az idő! Bele kell húzniuk!"
+"[english]Command.co_m6_ob10"		"<clr:240,255,255>Lt. Williams: Time is running out! You've got to pick up the pace."
+"Command.co_m6_ob10"		"<clr:240,255,255>Williams hadnagy: Fogytán az idő! Bele kell húzniuk!"
 
-"[english]Command.co_m6_ob11"		"<clr:240,255,255>Commander: You need to hustle. You're almost out of time."
-"Command.co_m6_ob11"		"<clr:240,255,255>Parancsnok: Szedjék a lábukat. Már alig maradt idejük."
+"[english]Command.co_m6_ob11"		"<clr:240,255,255>Lt. Williams: You need to hustle. You're almost out of time."
+"Command.co_m6_ob11"		"<clr:240,255,255>Williams hadnagy: Szedjék a lábukat. Már alig maradt idejük."
 
-"[english]Command.co_m6_ob12"		"<clr:240,255,255>Commander: Squad, you need to run like your lives depend on it. 'Cuz they do!"
-"Command.co_m6_ob12"		"<clr:240,255,255>Parancsnok: Osztag, fussanak, mintha az életük múlna rajta. Mer'hogy az múlik!"
+"[english]Command.co_m6_ob12"		"<clr:240,255,255>Lt. Williams: Squad, you need to run like your lives depend on it. 'Cuz they do!"
+"Command.co_m6_ob12"		"<clr:240,255,255>Williams hadnagy: Osztag, fussanak, mintha az életük múlna rajta. Mer'hogy az múlik!"
 
-"[english]Command.co_m6_ob13"		"<clr:240,255,255>Commander: There's not much time left."
-"Command.co_m6_ob13"		"<clr:240,255,255>Parancsnok: Már nem sok idő maradt."
+"[english]Command.co_m6_ob13"		"<clr:240,255,255>Lt. Williams: There's not much time left."
+"Command.co_m6_ob13"		"<clr:240,255,255>Williams hadnagy: Már nem sok idő maradt."
 
-"[english]Command.co_m6_ob14"		"<clr:240,255,255>Commander: You're running out of time!"
-"Command.co_m6_ob14"		"<clr:240,255,255>Parancsnok: Kifogynak az időből!"
+"[english]Command.co_m6_ob14"		"<clr:240,255,255>Lt. Williams: You're running out of time!"
+"Command.co_m6_ob14"		"<clr:240,255,255>Williams hadnagy: Kifogynak az időből!"
 
-"[english]Command.co_m6_ob15"		"<clr:240,255,255>Commander: Pick up the pace, or you're not going to make it!"
-"Command.co_m6_ob15"		"<clr:240,255,255>Parancsnok: Húzzanak bele, vagy nem fog sikerülni!"
+"[english]Command.co_m6_ob15"		"<clr:240,255,255>Lt. Williams: Pick up the pace, or you're not going to make it!"
+"Command.co_m6_ob15"		"<clr:240,255,255>Williams hadnagy: Húzzanak bele, vagy nem fog sikerülni!"
 
-"[english]Command.co_m6_ob16"		"<clr:240,255,255>Commander: Squad, you need to get out of there, NOW!"
-"Command.co_m6_ob16"		"<clr:240,255,255>Parancsnok: Osztag, el kell húzniuk onnan, AZONNAL!"
+"[english]Command.co_m6_ob16"		"<clr:240,255,255>Lt. Williams: Squad, you need to get out of there, NOW!"
+"Command.co_m6_ob16"		"<clr:240,255,255>Williams hadnagy: Osztag, el kell húzniuk onnan, AZONNAL!"
 
-"[english]Command.co_m6_ob17"		"<clr:240,255,255>Commander: Ten seconds left!"
-"Command.co_m6_ob17"		"<clr:240,255,255>Parancsnok: Tíz másodperc maradt!"
+"[english]Command.co_m6_ob17"		"<clr:240,255,255>Lt. Williams: Ten seconds left!"
+"Command.co_m6_ob17"		"<clr:240,255,255>Williams hadnagy: Tíz másodperc maradt!"
 
-"[english]Command.co_m6_ob18"		"<clr:240,255,255>Commander: You almost made it."
-"Command.co_m6_ob18"		"<clr:240,255,255>Parancsnok: Majdnem sikerült. "
+"[english]Command.co_m6_ob18"		"<clr:240,255,255>Lt. Williams: You almost made it."
+"Command.co_m6_ob18"		"<clr:240,255,255>Williams hadnagy: Majdnem sikerült. "
 
-"[english]Command.co_m6_ob19"		"<clr:240,255,255>Commander: I'm sorry. I'll notify your next of kin."
-"Command.co_m6_ob19"		"<clr:240,255,255>Parancsnok: Sajnálom. Értesíteni fogom a hozzátartozóikat."
+"[english]Command.co_m6_ob19"		"<clr:240,255,255>Lt. Williams: I'm sorry. I'll notify your next of kin."
+"Command.co_m6_ob19"		"<clr:240,255,255>Williams hadnagy: Sajnálom. Értesíteni fogom a hozzátartozóikat."
 
-"[english]Command.co_m6_ob20"		"<clr:240,255,255>Commander: It was an honor serving with you. You will be remembered."
-"Command.co_m6_ob20"		"<clr:240,255,255>Parancsnok: Megtiszteltetés volt magukkal szolgálni. Megőrizzük az emléküket."
+"[english]Command.co_m6_ob20"		"<clr:240,255,255>Lt. Williams: It was an honor serving with you. You will be remembered."
+"Command.co_m6_ob20"		"<clr:240,255,255>Williams hadnagy: Megtiszteltetés volt magukkal szolgálni. Megőrizzük az emléküket."
 
-"[english]Command.co_m6_ob21"		"<clr:240,255,255>Commander: It was an honor to serve with each and every one of you. You made the ultimate sacrifice."
-"Command.co_m6_ob21"		"<clr:240,255,255>Parancsnok: Megtiszteltetés volt, hogy önökkel szolgálhattam. A legértékesebb áldozatot hozták meg."
+"[english]Command.co_m6_ob21"		"<clr:240,255,255>Lt. Williams: It was an honor to serve with each and every one of you. You made the ultimate sacrifice."
+"Command.co_m6_ob21"		"<clr:240,255,255>Williams hadnagy: Megtiszteltetés volt, hogy önökkel szolgálhattam. A legértékesebb áldozatot hozták meg."
 
-"[english]Command.co_m6_ob22"		"<clr:240,255,255>Commander: Good work, mission accomplished!"
-"Command.co_m6_ob22"		"<clr:240,255,255>Parancsnok: Szép munka, küldetés teljesítve!"
+"[english]Command.co_m6_ob22"		"<clr:240,255,255>Lt. Williams: Good work, mission accomplished!"
+"Command.co_m6_ob22"		"<clr:240,255,255>Williams hadnagy: Szép munka, küldetés teljesítve!"
 
-"[english]Command.co_m6_ob23"		"<clr:240,255,255>Commander: Mission accomplished!"
-"Command.co_m6_ob23"		"<clr:240,255,255>Parancsnok: Küldetés teljesítve!"
+"[english]Command.co_m6_ob23"		"<clr:240,255,255>Lt. Williams: Mission accomplished!"
+"Command.co_m6_ob23"		"<clr:240,255,255>Williams hadnagy: Küldetés teljesítve!"
 
-"[english]Command.co_m6_ob24"		"<clr:240,255,255>Commander: You did it! The bomb's gone off! The Swarm threat has been exterminated."
-"Command.co_m6_ob24"		"<clr:240,255,255>Parancsnok: Megcsinálták! A bomba felrobbant! A Raj jelentette fenyegetést felszámoltuk."
+"[english]Command.co_m6_ob24"		"<clr:240,255,255>Lt. Williams: You did it! The bomb's gone off! The Swarm threat has been exterminated."
+"Command.co_m6_ob24"		"<clr:240,255,255>Williams hadnagy: Megcsinálták! A bomba felrobbant! A Raj jelentette fenyegetést felszámoltuk."
 
-		"[english]Command.co_m6_ob25"		"<clr:240,255,255>Commander: The nuke is blocked! Clear up the biomass to free it up!"
-		"Command.co_m6_ob25"		"<clr:240,255,255>Commander: The nuke is blocked! Clear up the biomass to free it up!"
+		"[english]Command.co_m6_ob25"		"<clr:240,255,255>Lt. Williams: The nuke is blocked! Clear up the biomass to free it up!"
+		"Command.co_m6_ob25"		"<clr:240,255,255>Lt. Williams: The nuke is blocked! Clear up the biomass to free it up!"
 
-		"[english]Command.co_m6_ob26"		"<clr:240,255,255>Commander: Landing pads overun! Bloodhound's coming in! Jump on our back and we'll get you out of there!"
-		"Command.co_m6_ob26"		"<clr:240,255,255>Commander: Landing pads overun! Bloodhound's coming in! Jump on our back and we'll get you out of there!"
+		"[english]Command.co_m6_ob26"		"<clr:240,255,255>Lt. Williams: Landing pads overun! Bloodhound's coming in! Jump on our back and we'll get you out of there!"
+		"Command.co_m6_ob26"		"<clr:240,255,255>Lt. Williams: Landing pads overun! Bloodhound's coming in! Jump on our back and we'll get you out of there!"
 
-		"[english]Command.co_m6_ob27"		"<clr:240,255,255>Commander: Yeah! We made it!"
-		"Command.co_m6_ob27"		"<clr:240,255,255>Commander: Yeah! We made it!"
+		"[english]Command.co_m6_ob27"		"<clr:240,255,255>Lt. Williams: Yeah! We made it!"
+		"Command.co_m6_ob27"		"<clr:240,255,255>Lt. Williams: Yeah! We made it!"
 
-"[english]Command.co_hold_ob1"		"<clr:240,255,255>Commander: Alright, squad, you made it to the extraction zone. Command ship is inbound. You just need to hold out until I get there."
-"Command.co_hold_ob1"		"<clr:240,255,255>Parancsnok: Rendben, osztag, eljutottak a kivonási zónába. A parancsnoki hajó úton van. Csak tartsanak ki, míg odaérek. "
+"[english]Command.co_hold_ob1"		"<clr:240,255,255>Lt. Williams: Alright, squad, you made it to the extraction zone. Command ship is inbound. You just need to hold out until I get there."
+"Command.co_hold_ob1"		"<clr:240,255,255>Williams hadnagy: Rendben, osztag, eljutottak a kivonási zónába. A parancsnoki hajó úton van. Csak tartsanak ki, míg odaérek. "
 
-"[english]Command.co_hold_ob2"		"<clr:240,255,255>Commander: Almost there, squad."
-"Command.co_hold_ob2"		"<clr:240,255,255>Parancsnok: Osztag, majdnem ott vagyok."
+"[english]Command.co_hold_ob2"		"<clr:240,255,255>Lt. Williams: Almost there, squad."
+"Command.co_hold_ob2"		"<clr:240,255,255>Williams hadnagy: Osztag, majdnem ott vagyok."
 
-"[english]Command.co_hold_ob3"		"<clr:240,255,255>Commander: Hang in there, squad. I'm on my way!"
-"Command.co_hold_ob3"		"<clr:240,255,255>Parancsnok: Osztag, tartsanak ki. Úton vagyok!"
+"[english]Command.co_hold_ob3"		"<clr:240,255,255>Lt. Williams: Hang in there, squad. I'm on my way!"
+"Command.co_hold_ob3"		"<clr:240,255,255>Williams hadnagy: Osztag, tartsanak ki. Úton vagyok!"
 
-"[english]Command.co_hold_ob4"		"<clr:240,255,255>Commander: Coming in hot!"
-"Command.co_hold_ob4"		"<clr:240,255,255>Parancsnok: Harctéri landolás!"
+"[english]Command.co_hold_ob4"		"<clr:240,255,255>Lt. Williams: Coming in hot!"
+"Command.co_hold_ob4"		"<clr:240,255,255>Williams hadnagy: Harctéri landolás!"
 
-"[english]Command.co_debriefing_ob1"		"<clr:240,255,255>Commander: Objective completed! Good work, marines."
-"Command.co_debriefing_ob1"		"<clr:240,255,255>Parancsnok: Feladat teljesítve. Szép munka, katonák."
+"[english]Command.co_debriefing_ob1"		"<clr:240,255,255>Lt. Williams: Objective completed! Good work, marines."
+"Command.co_debriefing_ob1"		"<clr:240,255,255>Williams hadnagy: Feladat teljesítve. Szép munka, katonák."
 
-"[english]Command.co_debriefing_ob2"		"<clr:240,255,255>Commander: Analysis of the flight recorder from the escape pod shows a number of vessels did successfully break orbit and leave Vereon XII. Looks like a handful of SynTek officers and colonists."
-"Command.co_debriefing_ob2"		"<clr:240,255,255>Parancsnok: A mentőkapszulákból származó repülési adatrögzítők elemzése azt mutatja, számos járműnek sikerült elhagynia az orbitális pályát és a Vereon XII-t. Úgy tűnik, egy maroknyi SynTek tiszt és telepes."
+"[english]Command.co_debriefing_ob2"		"<clr:240,255,255>Lt. Williams: Analysis of the flight recorder from the escape pod shows a number of vessels did successfully break orbit and leave Vereon XII. Looks like a handful of SynTek officers and colonists."
+"Command.co_debriefing_ob2"		"<clr:240,255,255>Williams hadnagy: A mentőkapszulákból származó repülési adatrögzítők elemzése azt mutatja, számos járműnek sikerült elhagynia az orbitális pályát és a Vereon XII-t. Úgy tűnik, egy maroknyi SynTek tiszt és telepes."
 
-"[english]Command.co_debriefing_ob3"		"<clr:240,255,255>Commander: We also show a small container left the atmosphere without broadcasting ID codes. All launch data for this vessel has been scrambled by persons unknown. We've dispatched scout vessels to search the immediate vicinity, but given its size and the unknown trajectory, the chances of finding it are slim."
-"Command.co_debriefing_ob3"		"<clr:240,255,255>Parancsnok: Egy kis tárolóegységet is láttunk, amint elhagyja a légkört, de nem sugárzott azonosító kódokat. Ismeretlen személyek a jármű indítására vonatkozó összes adatot összezagyválták. Felderítő járműveket küldtünk ki, hogy kutassák át a környező területet, de kis mérete és ismeretlen röppályája miatt kicsi az esélye, hogy megtaláljuk."
+"[english]Command.co_debriefing_ob3"		"<clr:240,255,255>Lt. Williams: We also show a small container left the atmosphere without broadcasting ID codes. All launch data for this vessel has been scrambled by persons unknown. We've dispatched scout vessels to search the immediate vicinity, but given its size and the unknown trajectory, the chances of finding it are slim."
+"Command.co_debriefing_ob3"		"<clr:240,255,255>Williams hadnagy: Egy kis tárolóegységet is láttunk, amint elhagyja a légkört, de nem sugárzott azonosító kódokat. Ismeretlen személyek a jármű indítására vonatkozó összes adatot összezagyválták. Felderítő járműveket küldtünk ki, hogy kutassák át a környező területet, de kis mérete és ismeretlen röppályája miatt kicsi az esélye, hogy megtaláljuk."
 
-"[english]Command.co_debriefing_ob4"		"<clr:240,255,255>Commander: Everybody has to be on that lift before it'll activate."
-"Command.co_debriefing_ob4"		"<clr:240,255,255>Parancsnok: Mindenkinek a liften kell lennie, különben nem fog elindulni."
+"[english]Command.co_debriefing_ob4"		"<clr:240,255,255>Lt. Williams: Everybody has to be on that lift before it'll activate."
+"Command.co_debriefing_ob4"		"<clr:240,255,255>Williams hadnagy: Mindenkinek a liften kell lennie, különben nem fog elindulni."
 
-"[english]Command.co_debriefing_ob5"		"<clr:240,255,255>Commander: Good work destroying the pipeline, Squad. This should hinder Swarm movement within the colony."
-"Command.co_debriefing_ob5"		"<clr:240,255,255>Parancsnok: Osztag, a csővezeték elpusztítása szép munka volt. Ez akadályozni fogja a Raj kolónián belüli mozgását."
+"[english]Command.co_debriefing_ob5"		"<clr:240,255,255>Lt. Williams: Good work destroying the pipeline, Squad. This should hinder Swarm movement within the colony."
+"Command.co_debriefing_ob5"		"<clr:240,255,255>Williams hadnagy: Osztag, a csővezeték elpusztítása szép munka volt. Ez akadályozni fogja a Raj kolónián belüli mozgását."
 
-"[english]Command.co_debriefing_ob6"		"<clr:240,255,255>Commander: We are showing the reactor back up and running at full efficiency. Great job!"
-"Command.co_debriefing_ob6"		"<clr:240,255,255>Parancsnok: Látjuk, hogy a reaktor visszakapcsolt, és teljes hatékonysággal üzemel. Remek munka!"
+"[english]Command.co_debriefing_ob6"		"<clr:240,255,255>Lt. Williams: We are showing the reactor back up and running at full efficiency. Great job!"
+"Command.co_debriefing_ob6"		"<clr:240,255,255>Williams hadnagy: Látjuk, hogy a reaktor visszakapcsolt, és teljes hatékonysággal üzemel. Remek munka!"
 
-"[english]Command.co_debriefing_ob7"		"<clr:240,255,255>Commander: The data you recovered shows a number of SynTek Security personnel attempted to fight back the infestation. We can assume at this point that they were unsuccessful."
-"Command.co_debriefing_ob7"		"<clr:240,255,255>Parancsnok: Az adatok, melyeket megszereztek, azt mutatják, hogy a SynTek biztonsági erőinek egy része megpróbálta visszaverni a fertőzést. Az eddigiek alapján feltételezhetjük, sikertelenül."
+"[english]Command.co_debriefing_ob7"		"<clr:240,255,255>Lt. Williams: The data you recovered shows a number of SynTek Security personnel attempted to fight back the infestation. We can assume at this point that they were unsuccessful."
+"Command.co_debriefing_ob7"		"<clr:240,255,255>Williams hadnagy: Az adatok, melyeket megszereztek, azt mutatják, hogy a SynTek biztonsági erőinek egy része megpróbálta visszaverni a fertőzést. Az eddigiek alapján feltételezhetjük, sikertelenül."
 
-"[english]Command.co_debriefing_ob8"		"<clr:240,255,255>Commander: With the sewer access tunnel sealed, the Swarm have only one way to the surface."
-"Command.co_debriefing_ob8"		"<clr:240,255,255>Parancsnok: A csatorna hozzáférési alagútjának lezárása után a Raj csak egy úton juthat a felszínre."
+"[english]Command.co_debriefing_ob8"		"<clr:240,255,255>Lt. Williams: With the sewer access tunnel sealed, the Swarm have only one way to the surface."
+"Command.co_debriefing_ob8"		"<clr:240,255,255>Williams hadnagy: A csatorna hozzáférési alagútjának lezárása után a Raj csak egy úton juthat a felszínre."
 
-"[english]Command.co_debriefing_ob9"		"<clr:240,255,255>Commander: Excellent work, Commander. The thermonuclear device detonated by your squad has destroyed the bulk of the Swarm forces beneath the surface. We estimate in excess of 200 eggs and countless Swarm drones have been wiped out by the detonation."
-"Command.co_debriefing_ob9"		"<clr:240,255,255>Parancsnok: Kiváló munka, parancsnok. Az osztaguk által felrobbantott termonukleáris eszköz a Raj felszín alatti erőinek nagy részét elpusztította. Becslésünk szerint a robbanás több mint 200 tojással és a Raj számtalan dolgozójával végzett."
+"[english]Command.co_debriefing_ob9"		"<clr:240,255,255>Lt. Williams: Excellent work, Commander. The thermonuclear device detonated by your squad has destroyed the bulk of the Swarm forces beneath the surface. We estimate in excess of 200 eggs and countless Swarm drones have been wiped out by the detonation."
+"Command.co_debriefing_ob9"		"<clr:240,255,255>Williams hadnagy: Kiváló munka, parancsnok. Az osztaguk által felrobbantott termonukleáris eszköz a Raj felszín alatti erőinek nagy részét elpusztította. Becslésünk szerint a robbanás több mint 200 tojással és a Raj számtalan dolgozójával végzett."
 
-"[english]Command.co_debriefing_ob10"		"<clr:240,255,255>Commander: We are still detecting a single large heat source in a deep, well protected chamber. IAF Command is making investigation of this a priority."
-"Command.co_debriefing_ob10"		"<clr:240,255,255>Parancsnok: Még mindig észlelünk egy nagy, egybefüggő hőforrást egy mély, erősen védett kamrában. A CSFE Parancsnokság elsődleges fontosságúnak tekinti ennek kivizsgálását."
+"[english]Command.co_debriefing_ob10"		"<clr:240,255,255>Lt. Williams: We are still detecting a single large heat source in a deep, well protected chamber. IAF Command is making investigation of this a priority."
+"Command.co_debriefing_ob10"		"<clr:240,255,255>Williams hadnagy: Még mindig észlelünk egy nagy, egybefüggő hőforrást egy mély, erősen védett kamrában. A CSFE Parancsnokság elsődleges fontosságúnak tekinti ennek kivizsgálását."
 
 //Bastille
 
