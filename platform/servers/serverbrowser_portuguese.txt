@@ -267,7 +267,7 @@
 "ServerBrowser_NotResponding"		"< não responde >"
 "[english]ServerBrowser_FiltersActive"		"Filters active"
 "ServerBrowser_FiltersActive"		"Filtros activos"
-"[english]ServerBrowser_ServerOutOfDate"		"Server is out of date.."
+"[english]ServerBrowser_ServerOutOfDate"		"Server is out of date."
 "ServerBrowser_ServerOutOfDate"		"O servidor está desactualizado."
 "[english]ServerBrowser_ClientOutOfDate"		"Your version does not match the servers.\nPlease restart the game."
 "ServerBrowser_ClientOutOfDate"		"A tua versão do jogo não coincide com a versão dos servidores.\nPor favor reinicia o jogo."
