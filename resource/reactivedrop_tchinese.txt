@@ -3160,7 +3160,7 @@
 "[english]asw_holdout_hud_score"		"Score: %s1"
 "asw_holdout_hud_score"		"分數: %s1"
 "[english]asw_holdout_wave_complete"		"Wave %s1 Complete!"
-"asw_holdout_wave_complete"		"已完成 %s1 波進攻!"
+"asw_holdout_wave_complete"		"已完成 %s1 波進攻！"
 "[english]asw_holdout_wave_announce"		"- WAVE %s1 -"
 "asw_holdout_wave_announce"		"- 第 %s1 波 -"
 "[english]asw_holdout_get_ready"		"GET READY"
@@ -3172,7 +3172,7 @@
 "[english]asw_holdout_resupply_ok"		"OK"
 "asw_holdout_resupply_ok"		"確定"
 "[english]asw_holdout_complete"		"A WINNER IS YOU!"
-"asw_holdout_complete"		"你是勝利者!"
+"asw_holdout_complete"		"你是勝利者！"
 
 // new briefing
 "[english]nb_mission_prep"		"MISSION PREP"
