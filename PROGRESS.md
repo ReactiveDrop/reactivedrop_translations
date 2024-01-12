@@ -21,7 +21,7 @@
 | [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | 6 | ✔️ | ✔️ | ✔️ | ✔️ |
 | [European Spanish](#spanish-español-de-españa) | 30 | 2004 | 40 | 2481 | 258 | 206 | 714 | 146 |
 | [Latin American Spanish](#latam-español-latinoamericano) | 1283 | 2004 | 634 | 4577 | 258 | 210 | 980 | 147 |
-| [Swedish](#swedish-svenska) | ✔️ | 2003 | ✔️ | 2288 | 106 | ✔️ | 276 | 145 |
+| [Swedish](#swedish-svenska) | ✔️ | 2003 | ✔️ | 2288 | ✔️ | ✔️ | 276 | 144 |
 | [Thai](#non-curated-languages) | 968 | 1993 | 50 | 4313 | 258 | 206 | 739 | 147 |
 | [Turkish](#non-curated-languages) | 53 | 137 | 42 | 3066 | 258 | 206 | 975 | 147 |
 | [Ukrainian](#ukrainian-українська) | 29 | 131 | 32 | 2609 | 258 | 206 | 933 | 146 |
@@ -1489,7 +1489,6 @@
 ### Strings
 
 - [addons/RiskOfRain/reactivedrop_swedish.txt](addons/RiskOfRain/resource/reactivedrop_swedish.txt) has 54 untranslated strings.
-- [items_swedish.vdf](community/inventory_service/items_swedish.vdf) has 106 untranslated strings.
 - [steam_input_swedish.vdf](community/steam_input/steam_input_swedish.vdf) has 97 untranslated strings.
 - [closecaption_swedish.txt](resource/closecaption_swedish.txt) has 2003 untranslated strings.
 - [reactivedrop_swedish.txt](resource/reactivedrop_swedish.txt) has 2288 untranslated strings.
@@ -1500,10 +1499,6 @@
 - [app_items_563560_swedish.json](community/points_shop/app_items_563560_english.json) is missing.
 - [content_warning_563560_swedish.txt](store_page/content_warning_563560_english.txt) is missing.
 - [storepage_81731_swedish.json](store_page/storepage_81731_english.json) is missing.
-
-### Upcoming Release Notes
-
-- [20240101_swedish.xml](release_notes/20240101_english.xml) is missing.
 
 ### Credits
 
