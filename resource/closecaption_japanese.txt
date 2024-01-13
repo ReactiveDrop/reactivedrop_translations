@@ -291,16 +291,16 @@
 "bastille.Use2"		"<clr:205,127,50><B>Bastille:<B> いい考えだ。"
 
 "[english]bastille.Use3"		"<clr:205,127,50><B>Bastille:<B> Immediatement."
-"bastille.Use3"		"<clr:205,127,50><B>Bastille:<B> 今すぐやる(フランス語)。"
+"bastille.Use3"		"<clr:205,127,50><B>Bastille:<B> <I>イメディヤトマン<I>(今すぐやる)。"
 
 "[english]bastille.Use4"		"<clr:205,127,50><B>Bastille:<B> <I>Oui."
-"bastille.Use4"		"<clr:205,127,50><B>Bastille:<B> ウイ(わかった)。"
+"bastille.Use4"		"<clr:205,127,50><B>Bastille:<B> <I>ウイ<I>(わかった)。"
 
 "[english]bastille.Use5"		"<clr:205,127,50><B>Bastille:<B> <I>Oui."
-"bastille.Use5"		"<clr:205,127,50><B>Bastille:<B> ウイ(わかった)。"
+"bastille.Use5"		"<clr:205,127,50><B>Bastille:<B> <I>ウイ<I>(わかった)。"
 
 "[english]bastille.Use6"		"<clr:205,127,50><B>Bastille:<B> <I>Oui."
-"bastille.Use6"		"<clr:205,127,50><B>Bastille:<B> ウイ(わかった)。"
+"bastille.Use6"		"<clr:205,127,50><B>Bastille:<B> <I>ウイ<I>(わかった)。"
 
 "[english]bastille.Use7"		"<clr:205,127,50><B>Bastille:<B> Understood."
 "bastille.Use7"		"<clr:205,127,50><B>Bastille:<B> 了解。"
@@ -354,7 +354,7 @@
 "bastille.Idle12"		"<clr:205,127,50><B>Bastille:<B> こんな所誰も住めそうにないな。"
 
 "[english]bastille.Idle13"		"<clr:205,127,50><B>Bastille:<B> Stay sharp, <I>mes amis<I>."
-"bastille.Idle13"		"<clr:205,127,50><B>Bastille:<B> 気を抜くなよ、メザミ(みんな)。"
+"bastille.Idle13"		"<clr:205,127,50><B>Bastille:<B> 気を抜くなよ、<I>メザミ<I>(みんな)。"
 
 "[english]bastille.Idle14"		"<clr:205,127,50><B>Bastille:<B> There's something here, I can feel it."
 "bastille.Idle14"		"<clr:205,127,50><B>Bastille:<B> 近くに何かいる、感じるんだ。"
@@ -831,7 +831,7 @@
 "bastille.Shieldbug0"		"<clr:205,127,50><B>Bastille:<B> シールドバグだ！"
 
 "[english]bastille.Shieldbug1"		"<clr:205,127,50><B>Bastille:<B> <I>Putain!<I> A shield bug!"
-"bastille.Shieldbug1"		"<clr:205,127,50><B>Bastille:<B> ピュタン(クソッ)！シールドバグだ！"
+"bastille.Shieldbug1"		"<clr:205,127,50><B>Bastille:<B> <I>ピュタン<I>(クソッ)！シールドバグだ！"
 
 "[english]bastille.Shieldbug2"		"<clr:205,127,50><B>Bastille:<B> We've got a big one!"
 "bastille.Shieldbug2"		"<clr:205,127,50><B>Bastille:<B> デカいやつが来たぞ！"
@@ -900,7 +900,7 @@
 "bastille.AlienTooClose5"		"<clr:205,127,50><B>Bastille:<B> 狙われている！"
 
 "[english]bastille.MadFiring0"		"<clr:205,127,50><B>Bastille:<B> <I>Putain de merde, saloperie de merde, encule."
-"bastille.MadFiring0"		"<clr:205,127,50><B>Bastille:<B> ピュタン・ド・メードゥ、サルプリ・ド・メードゥ、オンキュレー(フランス語での酷すぎる罵倒)。"
+"bastille.MadFiring0"		"<clr:205,127,50><B>Bastille:<B> <I>ピュタンドメードゥ、サルプリドメードゥ、アンキュレー<I>(消え失せろ、くたばりやがれ、ゴミカス虫が)。"
 
 "[english]bastille.MadFiring1"		"<clr:205,127,50><B>Bastille:<B> Eat this, alien scum!"
 "bastille.MadFiring1"		"<clr:205,127,50><B>Bastille:<B> これでも食らえ、ウジ虫エイリアンめ！"
@@ -1021,7 +1021,7 @@
 "bastille.NoMeds1"		"<clr:205,127,50><B>Bastille:<B> 医療品がもう無い。"
 
 "[english]bastille.NoMeds2"		"<clr:205,127,50><B>Bastille:<B> No more meds, stay sharp, <I>mes amis<I>."
-"bastille.NoMeds2"		"<clr:205,127,50><B>Bastille:<B> 医療品がもう無い、気を抜くなよ、メザミ(みんな)。"
+"bastille.NoMeds2"		"<clr:205,127,50><B>Bastille:<B> 医療品がもう無い、気を抜くなよ、<I>メザミ<I>(みんな)。"
 
 "[english]bastille.NoMeds3"		"<clr:205,127,50><B>Bastille:<B> Out of meds."
 "bastille.NoMeds3"		"<clr:205,127,50><B>Bastille:<B> 医療品が切れた。"
@@ -2376,7 +2376,7 @@
 "jaeger.Idle2"		"<clr:198,226,255><B>Jaeger:<B> こんなに戦ってるとハラが減るな。"
 
 "[english]jaeger.Idle3"		"<clr:198,226,255><B>Jaeger:<B> <I>Ich liebe diese Waffe."
-"jaeger.Idle3"		"<clr:198,226,255><B>Jaeger:<B> この武器はお気に入りだぜ(ドイツ語)。"
+"jaeger.Idle3"		"<clr:198,226,255><B>Jaeger:<B> <I>イッヒ リーベ ディーザ ヴァッフ<I>(この武器はお気に入りだぜ)。"
 
 "[english]jaeger.Idle4"		"<clr:198,226,255><B>Jaeger:<B> I wonder when Command will give us some new toys to play with."
 "jaeger.Idle4"		"<clr:198,226,255><B>Jaeger:<B> 司令部はいつになったら新しいオモチャと会わせてくれるのかね。"
@@ -2706,7 +2706,7 @@
 "jaeger.WatchOut2"		"<clr:198,226,255><B>Jaeger:<B> 気をつけろ！"
 
 "[english]jaeger.Shieldbug0"		"<clr:198,226,255><B>Jaeger:<B> <I>Herrgott!<I> Shieldbug!"
-"jaeger.Shieldbug0"		"<clr:198,226,255><B>Jaeger:<B> ヘルゴット！(なんてこった！) シールドバグだ！"
+"jaeger.Shieldbug0"		"<clr:198,226,255><B>Jaeger:<B> <I>ヘルゴット<I>(なんてこった)！ シールドバグだ！"
 
 "[english]jaeger.Shieldbug1"		"<clr:198,226,255><B>Jaeger:<B> Shield bug, take it down!"
 "jaeger.Shieldbug1"		"<clr:198,226,255><B>Jaeger:<B> シールドバグだ、倒すぞ！"
@@ -2734,7 +2734,7 @@
 "jaeger.Parasite2"		"<clr:198,226,255><B>Jaeger:<B> 気をつけろ、パラサイトだ！"
 
 "[english]jaeger.BeenInfested0"		"<clr:198,226,255><B>Jaeger:<B> <I>Verdammte Scheiße!<I> Get it off!"
-"jaeger.BeenInfested0"		"<clr:198,226,255><B>Jaeger:<B> クソッタレめ！(ドイツ語) 取ってくれ！"
+"jaeger.BeenInfested0"		"<clr:198,226,255><B>Jaeger:<B> <I>フェダムテ シャイセ<I>(クソッタレめ)！ 取ってくれ！"
 
 "[english]jaeger.BeenInfested1"		"<clr:198,226,255><B>Jaeger:<B> Get it off!"
 "jaeger.BeenInfested1"		"<clr:198,226,255><B>Jaeger:<B> 取ってくれ！"
@@ -2776,10 +2776,10 @@
 "jaeger.MadFiring0"		"<clr:198,226,255><B>Jaeger:<B> 来い！そして食らえ！"
 
 "[english]jaeger.MadFiring1"		"<clr:198,226,255><B>Jaeger:<B> <I>Stirb, Bastard!"
-"jaeger.MadFiring1"		"<clr:198,226,255><B>Jaeger:<B> スターヴ(死ね)、クソ野郎！"
+"jaeger.MadFiring1"		"<clr:198,226,255><B>Jaeger:<B> <I>スターヴ<I>(死ね)、クソ野郎！"
 
 "[english]jaeger.MadFiring2"		"<clr:198,226,255><B>Jaeger:<B> <I>Euch mach ich kalt!"
-"jaeger.MadFiring2"		"<clr:198,226,255><B>Jaeger:<B> ゾッとするやつらめ！(ドイツ語)"
+"jaeger.MadFiring2"		"<clr:198,226,255><B>Jaeger:<B> <I>オイヒ マッハ イッヒ カルト<I>(ゾッとするやつらめ)！"
 
 "[english]jaeger.MadFiring3"		"<clr:198,226,255><B>Jaeger:<B> Rock and roll!"
 "jaeger.MadFiring3"		"<clr:198,226,255><B>Jaeger:<B> ロックンロール！"
@@ -3852,11 +3852,11 @@
 
 
 "[english]vegas.Use3"		"<clr:84,255,159><B>Vegas:<B> <I>Si."
-"vegas.Use3"		"<clr:84,255,159><B>Vegas:<B> シ(はいよ)。"
+"vegas.Use3"		"<clr:84,255,159><B>Vegas:<B> <I>シ<I>(はいよ)。"
 
 
 "[english]vegas.Use4"		"<clr:84,255,159><B>Vegas:<B> <I>Si."
-"vegas.Use4"		"<clr:84,255,159><B>Vegas:<B> シ(はいよ)。"
+"vegas.Use4"		"<clr:84,255,159><B>Vegas:<B> <I>シ<I>(はいよ)。"
 
 
 "[english]vegas.Use5"		"<clr:84,255,159><B>Vegas:<B> Yessir."
@@ -3908,7 +3908,7 @@
 
 
 "[english]vegas.FF1"		"<clr:84,255,159><B>Vegas:<B> <I>Ten cuidado bastardo!"
-"vegas.FF1"		"<clr:84,255,159><B>Vegas:<B> テンクィダド(気をつけやがれ)この野郎！"
+"vegas.FF1"		"<clr:84,255,159><B>Vegas:<B> <I>テンクィダド<I>(気をつけやがれ)この野郎！"
 
 
 "[english]vegas.FF2"		"<clr:84,255,159><B>Vegas:<B> Watch it!"
@@ -3944,7 +3944,7 @@
 
 
 "[english]vegas.FollowMe3"		"<clr:84,255,159><B>Vegas:<B> Time to roll the dice, <I>Compadre<I>."
-"vegas.FollowMe3"		"<clr:84,255,159><B>Vegas:<B> ダイスを振る番だぜ、コンパードレ(相棒)。"
+"vegas.FollowMe3"		"<clr:84,255,159><B>Vegas:<B> ダイスを振る番だぜ、<I>コンパードレ<I>(相棒)。"
 
 
 "[english]vegas.HoldPosition0"		"<clr:84,255,159><B>Vegas:<B> Hold position."
@@ -3988,7 +3988,7 @@
 
 
 "[english]vegas.Reloading1"		"<clr:84,255,159><B>Vegas:<B> <I>Estoy Cargando!"
-"vegas.Reloading1"		"<clr:84,255,159><B>Vegas:<B> エストイカルガンド！(リロード中！)"
+"vegas.Reloading1"		"<clr:84,255,159><B>Vegas:<B> <I>エストイカルガンド<I>(リロード中)！"
 
 
 "[english]vegas.Reloading2"		"<clr:84,255,159><B>Vegas:<B> Reload."
@@ -4036,11 +4036,11 @@
 
 
 "[english]vegas.Thanks0"		"<clr:84,255,159><B>Vegas:<B> <I>Gracias."
-"vegas.Thanks0"		"<clr:84,255,159><B>Vegas:<B> グラシアス(ありがとう)。"
+"vegas.Thanks0"		"<clr:84,255,159><B>Vegas:<B> <I>グラシアス<I>(ありがとう)。"
 
 
 "[english]vegas.Thanks1"		"<clr:84,255,159><B>Vegas:<B> <I>Muchos gracias."
-"vegas.Thanks1"		"<clr:84,255,159><B>Vegas:<B> ムーチョスグラシアス(どうもありがとう)。"
+"vegas.Thanks1"		"<clr:84,255,159><B>Vegas:<B> <I>ムーチョスグラシアス<I>(どうもありがとう)。"
 
 
 "[english]vegas.Thanks2"		"<clr:84,255,159><B>Vegas:<B> Thanks!"
@@ -4052,7 +4052,7 @@
 
 
 "[english]vegas.Question1"		"<clr:84,255,159><B>Vegas:<B> <I>Que?"
-"vegas.Question1"		"<clr:84,255,159><B>Vegas:<B> クェ？(何？)"
+"vegas.Question1"		"<clr:84,255,159><B>Vegas:<B> <I>クェ<I>(何)？"
 
 
 "[english]vegas.Question2"		"<clr:84,255,159><B>Vegas:<B> What?"
@@ -4340,7 +4340,7 @@
 
 
 "[english]vegas.Shieldbug2"		"<clr:84,255,159><B>Vegas:<B> <I>Madre de dios!"
-"vegas.Shieldbug2"		"<clr:84,255,159><B>Vegas:<B> マドレデディオス！(神よお許しを！)"
+"vegas.Shieldbug2"		"<clr:84,255,159><B>Vegas:<B> <I>マドレデディオス<I>(神よお許しを)！"
 
 
 "[english]vegas.Shieldbug3"		"<clr:84,255,159><B>Vegas:<B> Shit, a shieldbug!"
@@ -4432,7 +4432,7 @@
 
 
 "[english]vegas.MadFiring0"		"<clr:84,255,159><B>Vegas:<B> <I>Adios, muchachos."
-"vegas.MadFiring0"		"<clr:84,255,159><B>Vegas:<B> アディオス、ムチャーチョス(さよならだ)。"
+"vegas.MadFiring0"		"<clr:84,255,159><B>Vegas:<B> <I>アディオス、ムチャーチョス<I>(さよならだ)。"
 
 
 "[english]vegas.MadFiring2"		"<clr:84,255,159><B>Vegas:<B> Oh, you wanna play rough."
