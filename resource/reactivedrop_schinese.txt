@@ -1768,6 +1768,8 @@
 "[english]asw_vote_spam_cooldown_left"		"Your map vote cooldown expires in %s1 seconds."
 "asw_vote_spam_cooldown_start"		"鉴于你频繁发起地图投票，你将因此受到%s1秒的投票冷却惩罚。冷却惩罚结束前无法发起投票。"
 "[english]asw_vote_spam_cooldown_start"		"You have started too many map votes recently. You have been put on a %s1 second cooldown."
+		"asw_instant_restart_cooldown_left"		"You can perform an instant restart in %s1 seconds."
+		"[english]asw_instant_restart_cooldown_left"		"You can perform an instant restart in %s1 seconds."
 "asw_press_vote_key"		"按下 %s1 进行投票。"
 "[english]asw_press_vote_key"		"Press %s1 to vote."
 "asw_mission_doesnt_exist"		"任务不存在。"

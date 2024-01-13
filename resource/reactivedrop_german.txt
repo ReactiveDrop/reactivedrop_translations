@@ -1768,6 +1768,8 @@
 "[english]asw_vote_spam_cooldown_left"		"Your map vote cooldown expires in %s1 seconds."
 "asw_vote_spam_cooldown_start"		"Du hast in letzter Zeit zu viele Kartenabstimmungen gestartet. Du wurdest auf eine Abklingzeit von %s1 Sekunden gesetzt."
 "[english]asw_vote_spam_cooldown_start"		"You have started too many map votes recently. You have been put on a %s1 second cooldown."
+		"asw_instant_restart_cooldown_left"		"You can perform an instant restart in %s1 seconds."
+		"[english]asw_instant_restart_cooldown_left"		"You can perform an instant restart in %s1 seconds."
 "asw_press_vote_key"		"Drücke %s1 um abzustimmen."
 "[english]asw_press_vote_key"		"Press %s1 to vote."
 "asw_mission_doesnt_exist"		"Dieser Einsatz existiert nicht."
