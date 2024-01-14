@@ -1789,6 +1789,8 @@
 "asw_vote_spam_cooldown_left"		"Din kart röst nedkylning försvinner om %s1 sekunder."
 "[english]asw_vote_spam_cooldown_start"		"You have started too many map votes recently. You have been put on a %s1 second cooldown."
 "asw_vote_spam_cooldown_start"		"Du har startat för många kart röstningar nyligen. Du har blivit satt på en %s1 sekunder nedkylning."
+		"[english]asw_instant_restart_cooldown_left"		"You can perform an instant restart in %s1 seconds."
+		"asw_instant_restart_cooldown_left"		"You can perform an instant restart in %s1 seconds."
 "[english]asw_press_vote_key"		"Press %s1 to vote."
 "asw_press_vote_key"		"Tryck %s1 för att rösta."
 "[english]asw_mission_doesnt_exist"		"That mission doesn't exist."
