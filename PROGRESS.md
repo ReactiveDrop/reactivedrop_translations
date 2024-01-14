@@ -21,7 +21,7 @@
 | [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | 7 | ✔️ | ✔️ | ✔️ | ✔️ |
 | [European Spanish](#spanish-español-de-españa) | 30 | 2004 | 40 | 2482 | 258 | 206 | 714 | 146 |
 | [Latin American Spanish](#latam-español-latinoamericano) | 1283 | 2004 | 634 | 4578 | 258 | 210 | 980 | 147 |
-| [Swedish](#swedish-svenska) | ✔️ | 2003 | ✔️ | 2289 | ✔️ | ✔️ | 179 | 125 |
+| [Swedish](#swedish-svenska) | ✔️ | 2003 | ✔️ | 2142 | ✔️ | ✔️ | 106 | 125 |
 | [Thai](#non-curated-languages) | 968 | 1993 | 50 | 4314 | 258 | 206 | 739 | 147 |
 | [Turkish](#non-curated-languages) | 53 | 137 | 42 | 3067 | 258 | 206 | 975 | 147 |
 | [Ukrainian](#ukrainian-українська) | 29 | 131 | 32 | 2610 | 258 | 206 | 933 | 146 |
@@ -1486,10 +1486,10 @@
 
 ### Strings
 
-- [addons/RiskOfRain/reactivedrop_swedish.txt](addons/RiskOfRain/resource/reactivedrop_swedish.txt) has 54 untranslated strings.
+- [addons/RiskOfRain/reactivedrop_swedish.txt](addons/RiskOfRain/resource/reactivedrop_swedish.txt) has 30 untranslated strings.
 - [closecaption_swedish.txt](resource/closecaption_swedish.txt) has 2003 untranslated strings.
-- [reactivedrop_swedish.txt](resource/reactivedrop_swedish.txt) has 2289 untranslated strings.
-- [valve_swedish.txt](resource/valve_swedish.txt) has 125 untranslated strings.
+- [reactivedrop_swedish.txt](resource/reactivedrop_swedish.txt) has 2142 untranslated strings.
+- [valve_swedish.txt](resource/valve_swedish.txt) has 76 untranslated strings.
 
 ### Mail and News
 
