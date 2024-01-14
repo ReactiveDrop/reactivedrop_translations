@@ -1789,6 +1789,8 @@
 "asw_vote_spam_cooldown_left"		"投票クールダウンの解除まで残り%s1秒。"
 "[english]asw_vote_spam_cooldown_start"		"You have started too many map votes recently. You have been put on a %s1 second cooldown."
 "asw_vote_spam_cooldown_start"		"連続で投票を要求し過ぎです。あと%s1秒経つまで次の投票は開始できません。"
+		"[english]asw_instant_restart_cooldown_left"		"You can perform an instant restart in %s1 seconds."
+		"asw_instant_restart_cooldown_left"		"You can perform an instant restart in %s1 seconds."
 "[english]asw_press_vote_key"		"Press %s1 to vote."
 "asw_press_vote_key"		"%s1を押して投票"
 "[english]asw_mission_doesnt_exist"		"That mission doesn't exist."

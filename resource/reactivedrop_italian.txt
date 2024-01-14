@@ -1789,6 +1789,8 @@
 "asw_vote_spam_cooldown_left"		"Il tuo tempo d'attesa per votare una mappa si concluderà fra %s1 secondi."
 "[english]asw_vote_spam_cooldown_start"		"You have started too many map votes recently. You have been put on a %s1 second cooldown."
 "asw_vote_spam_cooldown_start"		"Hai provato ad avviare troppe votazioni di recente. Ti è stato imposto un tempo d'attesa di %s1 secondi."
+		"[english]asw_instant_restart_cooldown_left"		"You can perform an instant restart in %s1 seconds."
+		"asw_instant_restart_cooldown_left"		"You can perform an instant restart in %s1 seconds."
 "[english]asw_press_vote_key"		"Press %s1 to vote."
 "asw_press_vote_key"		"Premi %s1 per votare."
 "[english]asw_mission_doesnt_exist"		"That mission doesn't exist."
