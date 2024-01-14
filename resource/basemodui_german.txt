@@ -2852,7 +2852,7 @@
 "[english]L4D360UI_FoundPublicGames_Filter_Distance_Far"		"Far"
 "L4D360UI_FoundPublicGames_Filter_Distance_Far"		"Fern"
 "[english]L4D360UI_FoundPublicGames_Filter_Distance_Worldwide"		"Galaxy"
-"L4D360UI_FoundPublicGames_Filter_Distance_Worldwide"		"Galaxis"
+"L4D360UI_FoundPublicGames_Filter_Distance_Worldwide"		"Galaxie"
 
 // Reactive Drop strings
 
