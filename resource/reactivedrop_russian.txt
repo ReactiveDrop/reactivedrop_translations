@@ -10020,8 +10020,8 @@
 "[english]rd_notification_filter_reports_desc"		"Non-critical notifications about reports."
 "rd_notification_filter_reports_desc"		"Некритичные уведомления об отчётах об ошибках/жалобах на игроков."
 
-"[english]rd_hoiaf_bounty_title"		"Mission Bounties Available"
-"rd_hoiaf_bounty_title"		"Доступные награды за миссии"
+		"[english]rd_hoiaf_bounty_title"		"Mission bounties available."
+		"rd_hoiaf_bounty_title"		"Доступные награды за миссии."
 "[english]rd_hoiaf_bounty_desc"		"Complete each of these missions on a participating Heroes of the Interstellar Armed Forces server within the time limit to receive bonus points."
 "rd_hoiaf_bounty_desc"		"Выполните каждую из этих миссий на участвующем сервере «Героев межзвёздных вооружённых сил» в течение установленного времени, чтобы получить бонусные очки."
 "[english]rd_hoiaf_bounty_fully_claimed"		"All bonuses claimed!"
