@@ -3,7 +3,7 @@ GAME
 // Inbox
 
 "MailFrom1"	"Từ: Joseph Conrad"
-"MailDate1"	"Date: 20/11/32"
+"MailDate1"	"Ngày: 20/11/32"
 "MailSubject1"	"Chủ đề: cuộc điều tra"
 "MailBody1A"	"chúng ta đã vào thông qua cống nước, đầy máu me từ tất cả các xác mà các lũ giòi mày đã đổ vô trong chúng. nhiệt độ là 50 độ, mức độ phóng xạ giờ cao gấp 3 lần"
 "MailBody1B"	"sarge"
