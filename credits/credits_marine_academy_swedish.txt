@@ -1,0 +1,10 @@
+"Credits"
+{
+// these keys must be in this order!
+"show_credits_logo"	"0"
+"custom_logo"	""
+"asw_credits_"	"Karta/skript av:"
+"asw_credits_"	"jhheight"
+"asw_credits_"	""
+"asw_credits_"	""
+}

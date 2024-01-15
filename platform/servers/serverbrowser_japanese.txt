@@ -267,7 +267,7 @@
 "ServerBrowser_NotResponding"		"<応答がありません>"
 "[english]ServerBrowser_FiltersActive"		"Filters active"
 "ServerBrowser_FiltersActive"		"フィルタを有効にする"
-"[english]ServerBrowser_ServerOutOfDate"		"Server is out of date.."
+"[english]ServerBrowser_ServerOutOfDate"		"Server is out of date."
 "ServerBrowser_ServerOutOfDate"		"最新でないサーバーです。"
 "[english]ServerBrowser_ClientOutOfDate"		"Your version does not match the servers.\nPlease restart the game."
 "ServerBrowser_ClientOutOfDate"		"サーバーとバージョンが違います。\nゲームを再起動して下さい。"

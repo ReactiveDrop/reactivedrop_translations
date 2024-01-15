@@ -137,7 +137,7 @@
 "ServerBrowser_AddServerToBlacklist"	"Add server to blacklist"
 "ServerBrowser_NotResponding"	"< not responding >"
 "ServerBrowser_FiltersActive"	"Filters active"
-"ServerBrowser_ServerOutOfDate"	"Server is out of date.."
+"ServerBrowser_ServerOutOfDate"	"Server is out of date."
 "ServerBrowser_ClientOutOfDate"	"Your version does not match the servers.\nPlease restart the game."
 "ServerBrowser_PlayerName"	"Player Name"
 "ServerBrowser_Score"	"Score"

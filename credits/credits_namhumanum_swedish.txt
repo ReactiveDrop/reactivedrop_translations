@@ -1,0 +1,30 @@
+"Credits"
+{
+// These lines must be in this order!
+"show_credits_logo"	"1"
+// The logo shown at the top of the end-of-campaign credits. This example refers to materials/vgui/swarm/credits/my_first_campaign_logo.vmt.
+"custom_logo"	"swarm/credits/namhumanum_campaign"
+// Each line of your credits should be written like this, including blank lines:
+"asw_credits_"	"Alien Swarm: Nam Humanum"
+"asw_credits_"	""
+"asw_credits_"	"- Karta -"
+"asw_credits_"	"Guillaume (Stral) Houard"
+"asw_credits_"	""
+"asw_credits_"	"- Skrift -"
+"asw_credits_"	"Thomas (Synmachus) Lesteven"
+"asw_credits_"	""
+"asw_credits_"	"- Röstskådespeleri -"
+"asw_credits_"	"Prof. Julie Duval - Emily Sheeran"
+"asw_credits_"	"Cmdr. Alexander Richard - Christian Wadley"
+"asw_credits_"	"Snakebites pilot - Daniel Doan"
+"asw_credits_"	"Vesta - Tiffany Perdue"
+"asw_credits_"	""
+"asw_credits_"	"- Karaktärs Porträtt -"
+"asw_credits_"	"Larry Lebon"
+"asw_credits_"	""
+"asw_credits_"	"- Speciellt tack -"
+"asw_credits_"	"Valve Software"
+"asw_credits_"	"Reactive Drop team"
+"asw_credits_"	"Source Engine modding gemenskapen"
+"asw_credits_"	"SkS familjen <3"
+}

@@ -267,7 +267,7 @@
 "ServerBrowser_NotResponding"		"< svarar inte >"
 "[english]ServerBrowser_FiltersActive"		"Filters active"
 "ServerBrowser_FiltersActive"		"Filter aktiva"
-"[english]ServerBrowser_ServerOutOfDate"		"Server is out of date.."
+"[english]ServerBrowser_ServerOutOfDate"		"Server is out of date."
 "ServerBrowser_ServerOutOfDate"		"Servern behöver uppdateras."
 "[english]ServerBrowser_ClientOutOfDate"		"Your version does not match the servers.\nPlease restart the game."
 "ServerBrowser_ClientOutOfDate"		"Din version matchar inte serverns.\nStarta om spelet."

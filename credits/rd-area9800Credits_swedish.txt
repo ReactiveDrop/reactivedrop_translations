@@ -1,0 +1,14 @@
+"Credits"
+{
+// these keys must be in this order!
+"show_credits_logo"	"1"
+"custom_logo"	"rd-Area9800Logo/area_9800_logo"
+"asw_credits_"	"Kartdesign"
+"asw_credits_"	""
+"asw_credits_"	"Arjen de Graaf"
+"asw_credits_"	""
+"asw_credits_"	""
+"asw_credits_"	""
+"asw_credits_"	""
+"asw_credits_"	"" 
+}

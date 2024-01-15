@@ -1,0 +1,22 @@
+"Credits"
+{
+// these keys must be in this order!
+"show_credits_logo"	"0"
+//"custom_logo"	"ExampleCustomLogo/example_custom_logo"
+"asw_credits_"	""
+"asw_credits_"	""
+"asw_credits_"	"Uppdrag 1, Tågstation Catastrophe, av jhheight"
+"asw_credits_"	""
+"asw_credits_"	"Uppdrag 2, Hänryckning, av Sergei 'STALKER4732' Lavrinenco"
+"asw_credits_"	""
+"asw_credits_"	"Uppdrag 3, Bunker, av uradzimiru"
+"asw_credits_"	""
+"asw_credits_"	"Uppdrag 4, Offlineträning, av Valve"
+"asw_credits_"	""
+"asw_credits_"	"Uppdrag 5, Fientliga Platser, av Eclipse"
+"asw_credits_"	""
+"asw_credits_"	"Uppdrag 6, Hög Spänning, av Eclipse"
+"asw_credits_"	""
+"asw_credits_"	"Uppdrag 7, Kraftverk, av Arjen de Graaf"
+"asw_credits_"	""
+}

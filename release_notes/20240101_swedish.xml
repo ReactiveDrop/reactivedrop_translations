@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<content><string id="body">Gott nytt år! Den här månadens uppdatering innehåller korrigeringar för kontrollerproblem, uppdateringar till Infection deathmatch utmaningen, och några olika korrigeringar och nya funktioner.
+
+[h2]Officiella Uppdrag[/h2]
+[list]
+[*][b]BioGen Corporation: Operation X5:[/b] Fixade en dörr som oavsiktligt klassades som en stege.
+[*][b]BioGen Corporation: Osynligt Hot:[/b] Fixade speedrun tiden för att vara inkorrekt beräknat.
+[/list]
+
+[h2]Kontroll[/h2]
+[list]
+[*]Fixade kontroller för dubbla markörrörelser på menyer i spelet som datorhack och informationslobbyn.
+[*]Fixade extra kontroller som genererades vid byte av actionset. Detta gjorde att kommandot Override stängde och öppnade hacket igen.
+[*]Fixade ett problem där efter att ha startat spelet med Steam i Big Picture-läge eller med handkontrollen, val av en marinsoldat med musen alltid skulle välja Sarge.
+[*]Lade till convars rd_input_controller_mode_mouse och rd_input_controller_mode_keyboard för att låsa ingångsläget till icke-kontroller (0) eller kontroller (1).
+[/list]
+
+[h2]Menyer[/h2]
+[list]
+[*]Fixade icke-engelska bokstäver från att inte kunnas sättas in i lobby namn området.
+[*]Fixade 7.1 sorround ljud saknad från 2010 ljud inställnings menyn.
+[*]Fixade inkorrekta namn för Order Specific Marine i 2010 tangentbords inställnings menyn.
+[*]Fixade nedladdningskampanjknappen som döljdes av filterknappenen.
+[*]Fixade en minnes läcka relaterad till spelar avatarer. Detta kunde ibland leda till en "CUtlRBTree overflow" krasch.
+[/list]
+
+[h2]Infektions Deathmatch Utmaning[/h2]
+[list]
+[*]Reducerade mängden bonus maximal hälsa som kommer med Sist Stående.
+[*]DPS av motorsågen när man använder Sist Stående.
+[*]Ökade en aningen DPS av motorsågen när man inte använder Sist Stående.
+[*]Frys Granater kan inte användas nålängre. (De var redan oväljbara.)
+[*]Betydligt ökad skada av Trip Minor mot zombies.
+[*]Betydligt ökad skada av Gas Granaters skada mot zombies.
+[*]Betydligt ökad skada av Eld Minor mot zombies.
+[*]Elektriskt bedövade zombies tar nu dubbel skada.
+[*]Läkar zombies börjar nu generare hälsa tidigare efter att ha tagit skada.
+[*]Fixade att spelare föll genom marken när de blev zombies.
+[*]Uppdaterade anpassade redigeringar för dm_deima.
+[*]Tillagde Klassisk variant:[list]
+[*]Sist Stående läge är avaktiverat.
+[*]Prime Zombies har inte sköldar nålängre.[/list]
+[*]Förbättrade bot marinsoldaternas väghittande genom alla deathmatch spellägen.
+[*]Fixade att man ibland såg skenet av vapen eller ammunition som despawnat.
+[/list]
+
+[h2]Skript[/h2]
+[list]
+[*]Tillagde en ny metod till rd_hud_vscript: PaintPolygon(hörn, röd, grön, blå, alfa, textur). hörn är en uppsättning tabeller som var och en innehåller x-, y-, s- och t-koordinater. Det måste finnas minst tre hörn och de ska bilda en konvex form i medurs ordning. x och y är skärmkoordinater. s och t är texturkoordinater, från 0 till 1.
+[/list]
+</string><string id="subtitle"></string><string id="summary"></string><string id="title">Alien Swarm: Reactive Drop Update - January 1, 2024</string></content>
