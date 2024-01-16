@@ -1,0 +1,11 @@
+GAME
+{
+// Inbox
+
+"MailFrom1"	"Från: Operation Nyheter [Kyle]"
+"MailDate1"	"Datum: 11/22/32"
+"MailSubject1"	"Ämne: Några Insikter"
+"MailBody1A"	"Hej, idag Tio Rinto, ett gruvföretag, har skickat oss några av deras loggar över vad som verkar vara en liknande planet. De har stött på en liknande planet för 43 år sedan i sina gruvexpeditioner."
+"MailBody1B"	"De har inte mycket information om det, men det de har är chockerande - planeten blir mycket mer radioaktivt med högre temperatur. Labben som innehåller ett stort prov har varit isolerade i en månad nu utan exponering för utomhusluft. Eftersom taket till största delen är tillverkat av metall, värmdes det upp och insidan av labbet blir nu sakta varmare och varmare. Vi måste vidta åtgärder och förhindra detta."
+"MailBody1C"	"Kyle"
+}
