@@ -5325,6 +5325,14 @@
 "rd_hoiaf_bounty_available_notinstalled"	"Download %s2 from the Steam Workshop and complete it on a participating server before this bounty expires to earn %s1 bonus points toward your season score."
 "rd_hoiaf_bounty_claimed_notinstalled"	"You have claimed a %s1 point bounty for completing %s2."
 
+"rd_notification_action_new_lobby"	"Create a lobby"
+"rd_notification_action_server_browser"	"Find a lobby"
+"rd_notification_action_singleplayer"	"Singleplayer"
+"rd_notification_action_installed_addon_placeholder"	"\"%s1\" is installed"
+"rd_notification_action_install_addon"	"Install \"%s1\" from the Steam Workshop"
+"rd_notification_action_dismiss"	"Delete this notification"
+"rd_notification_action_back"	"Cancel"
+
 "rd_player_found_crafting_material"	"%s1 has found %s2."
 "rd_player_found_crafting_materials"	"%s1 has found %s3× %s2."
 }
