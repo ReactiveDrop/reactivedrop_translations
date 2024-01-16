@@ -1,0 +1,16 @@
+GAME
+{
+// Inbox
+
+"MailFrom1"	"Från: Joseph Conrad"
+"MailDate1"	"Datum: 11/20/32"
+"MailSubject1"	"Ämne: undersökning"
+"MailBody1A"	"vi kom in genom avloppet, var blodig av alla kroppar ni larver dumpade i dem. temp är 50 grader, strålningsnivåer är 3 gånger så högre nu"
+"MailBody1B"	"sarge"
+
+"MailFrom1"	"Från: Joseph Conrad"
+"MailDate1"	"Datum: 11/20/32"
+"MailSubject1"	"Ämne: Re: Medans Du Är Där"
+"MailBody1A"	"nej. vi har skickats för att undersöka och inte göra några dumma experiment. vi är soldater. jag bryr mig inte vad fan du säger, vi håller på att komma därifrån"
+"MailBody1B"	"sarge"
+}

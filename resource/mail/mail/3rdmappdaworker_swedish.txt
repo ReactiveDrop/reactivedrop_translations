@@ -1,0 +1,19 @@
+GAME
+{
+// PDA belongs to Naka
+
+// Inbox
+
+"MailFrom1"	"Från: Befälhavare"
+"MailDate1"	"Datum: 09/25/63"
+"MailSubject1"	"Ämne: Beordran"
+"MailBody1A"	"Lämna allt och gå tillbaka till konferensrummet."
+
+// Sent
+
+"MailFrom3"	"Till: Befälhavare"
+"MailDate3"	"Datum: 09/25/63"
+"MailSubject3"	"Ämne: Fas 3a slutförd"
+"MailBody3A"	"Burar med experimentella utomjordingar är på plats. Synd att de osynliga inte kan reproducera sig"
+"MailBody3B"	"De borde vakna ganska snart... De Marinsoldaterna har inte en chans mot dem."
+}
