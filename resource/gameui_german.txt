@@ -1234,7 +1234,7 @@
 "[english]ALT"		"Alt"
 "ALT"		"Alt"
 "[english]SPACE"		"Space"
-"SPACE"		"Leertaste"
+"SPACE"		"Leer"
 "[english]RCTRL"		"Right Ctrl"
 "RCTRL"		"Strg Rechts"
 "[english]RALT"		"Right Alt"
