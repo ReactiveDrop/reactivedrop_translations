@@ -1,12 +1,12 @@
 # Overview
 | Language | basemodui | closecaption | gameui | reactivedrop | items | statsweb | Strings | Files |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | ✔️ | 8 | ✔️ | ✔️ | ✔️ | ✔️ |
+| [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | ✔️ | 1 | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Traditional Chinese](#tchinese-繁體中文) | 11 | 141 | 33 | 2931 | 252 | 206 | 236 | 146 |
 | [Czech](#czech-čeština) | 73 | 1810 | 42 | 4071 | 258 | 206 | 980 | 146 |
 | [Danish](#non-curated-languages) | 54 | 231 | 42 | 3599 | 258 | 206 | 710 | 147 |
 | [Dutch](#non-curated-languages) | 53 | 2004 | 42 | 3067 | 258 | 206 | 710 | 146 |
-| [Finnish](#non-curated-languages) | ✔️ | 2004 | 41 | 2991 | 259 | 206 | 709 | 146 |
+| [Finnish](#non-curated-languages) | ✔️ | 2004 | 41 | 2981 | 259 | 206 | 701 | 146 |
 | [French](#french-français) | 29 | 138 | 42 | 2432 | 257 | 206 | 650 | 125 |
 | [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | 1 | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Hungarian](#non-curated-languages) | 53 | 138 | 42 | 3067 | 258 | 206 | 975 | 147 |
@@ -21,11 +21,11 @@
 | [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | 8 | ✔️ | ✔️ | ✔️ | ✔️ |
 | [European Spanish](#spanish-español-de-españa) | 30 | 2004 | 40 | 2482 | 258 | 206 | 714 | 146 |
 | [Latin American Spanish](#latam-español-latinoamericano) | 1283 | 2004 | 634 | 4578 | 258 | 210 | 980 | 147 |
-| [Swedish](#swedish-svenska) | ✔️ | 2003 | ✔️ | 2142 | ✔️ | ✔️ | 106 | 125 |
+| [Swedish](#swedish-svenska) | ✔️ | 2003 | ✔️ | 2016 | ✔️ | ✔️ | 76 | 125 |
 | [Thai](#non-curated-languages) | 968 | 1993 | 50 | 4314 | 258 | 206 | 739 | 147 |
 | [Turkish](#non-curated-languages) | 53 | 137 | 42 | 3067 | 258 | 206 | 975 | 147 |
 | [Ukrainian](#ukrainian-українська) | 29 | 131 | 32 | 2610 | 258 | 206 | 933 | 146 |
-| [Vietnamese](#vietnamese-tiếng-việt) | ✔️ | 2004 | ✔️ | 3356 | 6 | ✔️ | ✔️ | 112 |
+| [Vietnamese](#vietnamese-tiếng-việt) | ✔️ | 2004 | ✔️ | 3356 | ✔️ | ✔️ | ✔️ | 99 |
 ### Legend
 - ***Non-capitalized column headers*** are the most important specific files and their number of missing strings. All of these txt-files are located in the resources folder. Except statsweb, which lies in community/stats_website, it's an vdf-file.
 - ***Strings*** is the number of missing strings not included in one of the files which get an individual non-capitalized column.
@@ -42,7 +42,7 @@
 
 ### Strings
 
-- [reactivedrop_schinese.txt](resource/reactivedrop_schinese.txt) has 8 untranslated strings.
+- [reactivedrop_schinese.txt](resource/reactivedrop_schinese.txt) has 1 untranslated strings.
 
 </details>
 
@@ -1488,9 +1488,8 @@
 
 ### Strings
 
-- [addons/RiskOfRain/reactivedrop_swedish.txt](addons/RiskOfRain/resource/reactivedrop_swedish.txt) has 30 untranslated strings.
 - [closecaption_swedish.txt](resource/closecaption_swedish.txt) has 2003 untranslated strings.
-- [reactivedrop_swedish.txt](resource/reactivedrop_swedish.txt) has 2142 untranslated strings.
+- [reactivedrop_swedish.txt](resource/reactivedrop_swedish.txt) has 2016 untranslated strings.
 - [valve_swedish.txt](resource/valve_swedish.txt) has 76 untranslated strings.
 
 ### Mail and News
@@ -1814,7 +1813,6 @@
 
 ### Strings
 
-- [items_vietnamese.vdf](community/inventory_service/items_vietnamese.vdf) has 6 untranslated strings.
 - [closecaption_vietnamese.txt](resource/closecaption_vietnamese.txt) has 2004 untranslated strings.
 - [reactivedrop_vietnamese.txt](resource/reactivedrop_vietnamese.txt) has 3356 untranslated strings.
 
@@ -1824,19 +1822,6 @@
 
 ### Mail and News
 
-- [mail/3rdmappdasmugler_vietnamese.txt](resource/mail/3rdmappdasmugler_english.txt) is missing.
-- [mail/3rdmappdaworker_vietnamese.txt](resource/mail/3rdmappdaworker_english.txt) is missing.
-- [mail/acc32_mail_findings_vietnamese.txt](resource/mail/acc32_mail_findings_english.txt) is missing.
-- [mail/acc32_mail_investigations_vietnamese.txt](resource/mail/acc32_mail_investigations_english.txt) is missing.
-- [mail/acc32_mail_localhouses_vietnamese.txt](resource/mail/acc32_mail_localhouses_english.txt) is missing.
-- [mail/acc32_mail_miningops_vietnamese.txt](resource/mail/acc32_mail_miningops_english.txt) is missing.
-- [mail/acc32_mail_news1_vietnamese.txt](resource/mail/acc32_mail_news1_english.txt) is missing.
-- [mail/acc32_mail_news2_vietnamese.txt](resource/mail/acc32_mail_news2_english.txt) is missing.
-- [mail/acc32_mail_random1_vietnamese.txt](resource/mail/acc32_mail_random1_english.txt) is missing.
-- [mail/acc32_mail_random2_left_vietnamese.txt](resource/mail/acc32_mail_random2_left_english.txt) is missing.
-- [mail/acc32_mail_random2_no_vietnamese.txt](resource/mail/acc32_mail_random2_no_english.txt) is missing.
-- [mail/acc32_mail_random2_right_vietnamese.txt](resource/mail/acc32_mail_random2_right_english.txt) is missing.
-- [mail/acc32_mail_research1_vietnamese.txt](resource/mail/acc32_mail_research1_english.txt) is missing.
 - [mail/acc32_mail_research2_vietnamese.txt](resource/mail/acc32_mail_research2_english.txt) is missing.
 - [mail/acc32_mail_secret2_vietnamese.txt](resource/mail/acc32_mail_secret2_english.txt) is missing.
 - [mail/acc32_mail_solution_vietnamese.txt](resource/mail/acc32_mail_solution_english.txt) is missing.
