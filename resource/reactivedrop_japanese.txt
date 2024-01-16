@@ -10020,8 +10020,8 @@
 "[english]rd_notification_filter_reports_desc"		"Non-critical notifications about reports."
 "rd_notification_filter_reports_desc"		"通報内容に関する重大ではない通知です。"
 
-		"[english]rd_hoiaf_bounty_title"		"Mission bounties available."
-		"rd_hoiaf_bounty_title"		"ミッションバウンティが入手可能。"
+"[english]rd_hoiaf_bounty_title"		"Mission bounties available."
+"rd_hoiaf_bounty_title"		"ミッションバウンティが入手可能。"
 "[english]rd_hoiaf_bounty_desc"		"Complete each of these missions on a participating Heroes of the Interstellar Armed Forces server within the time limit to receive bonus points."
 "rd_hoiaf_bounty_desc"		"期限内にランクマッチサーバーでこれらのミッションを完了するとボーナスポイントを得られます。"
 "[english]rd_hoiaf_bounty_fully_claimed"		"All bonuses claimed!"
