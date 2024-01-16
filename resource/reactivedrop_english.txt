@@ -4820,6 +4820,8 @@
 "rd_main_menu_tip_quick_join_friends"	"These players are your friends on Steam and\nare currently playing Alien Swarm: Reactive Drop."
 "rd_main_menu_tip_workshop_showcase_title"	"Trending Workshop Items"
 "rd_main_menu_tip_workshop_showcase"	"These are currently some of the most popular addons\non the Steam Workshop. Find new missions, challenges,\nand more on the Steam Workshop!"
+"rd_main_menu_tip_notifications_title"	"Notifications"
+"rd_main_menu_tip_notifications"	"Press this button to see a list of recent messages about your account."
 "rd_main_menu_tip_hoiaf_title"	"Heroes of the Interstellar Armed Forces"
 "rd_main_menu_tip_hoiaf_leaderboard_friends"	"These are your highest-ranked friends in the current season."
 "rd_main_menu_tip_hoiaf_leaderboard_top10"	"These are the 10 highest-ranked players in the current season."
@@ -5313,6 +5315,15 @@
 "rd_hoiaf_bounty_title"	"Mission bounties available."
 "rd_hoiaf_bounty_desc"	"Complete each of these missions on a participating Heroes of the Interstellar Armed Forces server within the time limit to receive bonus points."
 "rd_hoiaf_bounty_fully_claimed"	"All bonuses claimed!"
+// %s1 is the number of points. %s2 is the mission title. %s3 is the campaign title.
+"rd_hoiaf_bounty_claimed_campaign"	"You have claimed a %s1 point bounty for completing %s3: %s2."
+"rd_hoiaf_bounty_available_campaign"	"Complete %s3: %s2 on a participating server before this bounty expires to earn %s1 bonus points toward your season score."
+// %s1 is the number of points. %s2 is the mission title.
+"rd_hoiaf_bounty_claimed_standalone"	"You have claimed a %s1 point bounty for completing %s2."
+"rd_hoiaf_bounty_available_standalone"	"Complete %s2 on a participating server before this bounty expires to earn %s1 bonus points toward your season score."
+// %s1 is the number of points. %s2 is part of the mission filename.
+"rd_hoiaf_bounty_available_notinstalled"	"Download %s2 from the Steam Workshop and complete it on a participating server before this bounty expires to earn %s1 bonus points toward your season score."
+"rd_hoiaf_bounty_claimed_notinstalled"	"You have claimed a %s1 point bounty for completing %s2."
 
 "rd_player_found_crafting_material"	"%s1 has found %s2."
 "rd_player_found_crafting_materials"	"%s1 has found %s3× %s2."
