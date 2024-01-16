@@ -1,0 +1,10 @@
+GAME
+{
+// Inbox
+
+"MailFrom1"	"Từ: Helen Baker"
+"MailDate1"	"Ngày: 07/01/31"
+"MailSubject1"	"Chủ đề: Cập nhật về đường ống"
+"MailBody1A"	"Chỉ đang giúp bạn cập nhật về việc kiểm tra đường ống - Tôi chưa có tìm thấy bất kỳ tờ giấy quản trị nào trên đường ống phía đông 5B, điều mà hơi lại một chút. Chưa có chắc chức năng nào nó phục vụ hoặc nơi mà nó dẫn đến đâu. Dù thế nào đi nữa, tôi đã thông báo các kỹ sư về nó, họ sẽ nhìn xem nó vào tuần tới."
+"MailBody1B"	"Ít nhất là không có vấn đề gì khác như các âm thanh lạ kỳ phát ra từ các bức tường hay gì đó."
+}

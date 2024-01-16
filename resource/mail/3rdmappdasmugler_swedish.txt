@@ -1,0 +1,25 @@
+GAME
+{
+// PDA belongs to Naka
+
+// Inbox
+
+"MailFrom1"	"Från: Okänd"
+"MailDate1"	"Datum: 09/25/63"
+"MailSubject1"	"Ämne: ???"
+"MailBody1A"	"Vad pratar du om? Jag hoppas du inte ljög om de där vapnen. Jag dödar dig utan dem om du inte har dem."
+
+// Sent
+
+"MailFrom3"	"Till: Okänd"
+"MailDate3"	"Datum: 09/25/63"
+"MailSubject3"	"Ämne: Nästan färdigt"
+"MailBody3A"	"Okej, jag är nästan färdig. Alla vapen är spruckna och kan användas utan tillstånd via SecNet"
+"MailBody3B"	"Hade lite problem med att transportera dem... Flamkastaren fastnade, men jag tror att jag kommer att kunna få ut den."
+
+"MailFrom4"	"Till: Okänd"
+"MailDate4"	"Datum: 09/25/63"
+"MailSubject4"	"Ämne: ALLT INSTÄLLT!"
+"MailBody4A"	"Det är nån sorts monster härinne, jag såg inte de, men jag känner att de gömmer sig i skuggorna, KOM INTE IN HIT!!!"
+"MailBody4B"	"Jag drar härifrån"
+}
