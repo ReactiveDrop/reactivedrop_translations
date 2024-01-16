@@ -1,0 +1,19 @@
+GAME
+{
+// Inbox
+
+"MailFrom1"	"Từ: Tin tức IAF"
+"MailDate1"	"Ngày: 31 tháng 11, 2232"
+"MailSubject1"	"Chủ đề: Các bản ghi tin tức cho 4 tháng vừa qua."
+"MailBody1A"	"Ngày 1 tháng 8, 2232 - Công ty khai thác mỏ \"Glenkor\" đã phát hiện chỉ số bức xạ cao trong Syberia tới phía đông của Đầu nối J7 mà dường như nó đến từ dưới lòng đất. Vận hành khai thác mỏ bắt đầu."
+"MailBody1B"	"Ngày 15 tháng 10, 2232 - Nguồn bức xạ mênh mông cuối cùng đã được tìm thấy - một hang đá chứa hàng tấn tảng đá xanh lục, trong suốt. Nghiên cứu phải được thực hiện để tìm hiểu biết các tảng đá đó thực sự là gì."
+"MailBody1C"	"Ngày 18 tháng 10, 2232 - Thí nghiệm bắt đầu vào thứ Hai. Cấu trục nguyên tử của tảng đá không giống như bắt cứ thứ gì từng thấy trước đây."
+"MailBody1D"	"Ngày 19 tháng 10, 2232 - Lúc đầu người ta cho rằng tảng đã được làm hoàn toàn từ các electron mà bằng cách nào đó đã được liên kết với nhau và không được tự do. Tuy nhiên, các \"electron\" này dường như là các muon kỳ lạ. Các máy đo hạt nhân mới đang được phát triển để đo tính phóng xạ thực sự của tảng đá. Tất cả mọi người mà đã làm việc ở trong hang đá và làm thí nghiệm bây giờ đã bị cô lập."
+"MailBody1E"	"Ngày 23 tháng 10, 2232 - Các máy đo hạt nhân mới đã được phát triển. Đúng như dự đoán, các tảng đá có độ phóng xạ cao gấp hai trăm lần so với lần suy nghĩ trước đây. Nó vẫn chưa được biết tại sao các muon được liên kết với nhau và không thoát ra một cách nhanh tróng. Phòng thí nghiệm đã bị bỏ hoang và được tuyên bố một cấp độ đe dọa INES là 5."
+"MailBody1F"	"Ngày 29 tháng 10, 2232 - Hai tuần sau khi các công nhân tiếp xúc với các tảng đá - hơi thở của họ rất là nặng nề và một người đã chết. Mọi người vẫn bị cô lập, họ có một trạng thái \"bị nhiễm\"."
+"MailBody1G"	"Ngày 11 tháng 11, 2232 - Người cuối cùng mà đã ở gần tảng đá đã chết. Tuy nhiên, các xác chết chưa được phân hủy. Chúng trông vẻ còn tươi sống ngay cả sau gần một tháng."
+"MailBody1H"	"Ngày 14 tháng 11, 2232 - Chỉ số bức xạ 15 kilômét cách khỏi phòng thí nghiệm đang tăng một cách nhanh chóng. Lý do cho điều đó là không rõ. Có phải là tảng đá bắt đầu phân rã nhanh hơn không? Tại sao?"
+"MailBody1I"	"Ngày 20 tháng 11, 2232 - Cơ quan chức năng đã cử đi một nhóm quân lính dũng cảm trong các bộ đồ bảo vệ khỏi muon mới để thực hiện cuộc điều tra. Bên trong phòng thí nghiệm, mức độ phóng xạ như vậy đã chưa từng được thấy trước đây. Nhiệt độ bên trong tòa nhà đã tăng kể từ khi nó bị cô lập. Nó có vẻ như là nhiệt độ cao hơn gia tốc lên sự phân rã của tảng đá. Các quân lính đang thắc mắc về độ tin cậy của bộ đồ họ và sự an toàn của họ."
+"MailBody1J"	"Ngày 22 tháng 11, 2232 - Một công ty khai thác mỏ \"Tio Rinto\" đã cung cấp thông tin sâu sắc về vật liệu mà tạo nên tảng đá. 43 năm trước họ đã gặp phải một vật liệu mà bắt đầu phân rã một cách nhanh chóng sau khi được tiếp xúc với nhiệt độ cao. Dựa theo các bản ghi của họ, vật liệu này được đến từ không gian trong một sự va chạm thiên thạch. Nếu tảng đá được làm từ cùng vật liệu, nó được dự kiện là sẽ đạt đến trạng thái tới hạn vào ngày 17 tháng 12, 2232. Đồng hồ đang tích tắc."
+"MailBody1K"	"Thuê bao tin tức IAF của bạn đã hết hạn. Bạn có thể gia hạn thuê bao của bạn tại iafnews.space/subscription"
+}
