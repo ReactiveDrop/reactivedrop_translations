@@ -11,7 +11,7 @@
 | [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | 1 | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Hungarian](#non-curated-languages) | 53 | 138 | 42 | 3067 | 258 | 206 | 975 | 147 |
 | [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | 2 | ✔️ | ✔️ | ✔️ | ✔️ |
-| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | 1 | ✔️ | ✔️ | 102 | ✔️ |
+| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 102 | ✔️ |
 | [Korean](#koreana-한국어) | 9 | 10 | 38 | 1563 | 258 | 28 | 446 | 48 |
 | [Norwegian Bokmål](#non-curated-languages) | 71 | 708 | 47 | 3773 | 258 | 206 | 710 | 147 |
 | [Polish](#polish-polski) | 30 | 2004 | 42 | 3067 | 258 | 206 | 706 | 143 |
@@ -21,7 +21,7 @@
 | [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | 8 | ✔️ | ✔️ | ✔️ | ✔️ |
 | [European Spanish](#spanish-español-de-españa) | 30 | 2004 | 40 | 2482 | 258 | 206 | 714 | 146 |
 | [Latin American Spanish](#latam-español-latinoamericano) | 1283 | 2004 | 634 | 4578 | 258 | 210 | 980 | 147 |
-| [Swedish](#swedish-svenska) | ✔️ | 2003 | ✔️ | 2016 | ✔️ | ✔️ | 76 | 125 |
+| [Swedish](#swedish-svenska) | ✔️ | 2003 | ✔️ | 2016 | ✔️ | ✔️ | ✔️ | 121 |
 | [Thai](#non-curated-languages) | 968 | 1993 | 50 | 4314 | 258 | 206 | 739 | 147 |
 | [Turkish](#non-curated-languages) | 53 | 137 | 42 | 3067 | 258 | 206 | 975 | 147 |
 | [Ukrainian](#ukrainian-українська) | 29 | 131 | 32 | 2610 | 258 | 206 | 933 | 146 |
@@ -609,7 +609,6 @@
 
 - [misc/signage/signage_japanese.vdf](misc/signage/signage_japanese.vdf) has 67 untranslated strings.
 - [platform/vgui_japanese.txt](platform/vgui_japanese.txt) has 35 untranslated strings.
-- [reactivedrop_japanese.txt](resource/reactivedrop_japanese.txt) has 1 untranslated strings.
 
 </details>
 
@@ -1490,14 +1489,9 @@
 
 - [closecaption_swedish.txt](resource/closecaption_swedish.txt) has 2003 untranslated strings.
 - [reactivedrop_swedish.txt](resource/reactivedrop_swedish.txt) has 2016 untranslated strings.
-- [valve_swedish.txt](resource/valve_swedish.txt) has 76 untranslated strings.
 
 ### Mail and News
 
-- [mail/3rdmappdasmugler_swedish.txt](resource/mail/3rdmappdasmugler_english.txt) is missing.
-- [mail/3rdmappdaworker_swedish.txt](resource/mail/3rdmappdaworker_english.txt) is missing.
-- [mail/acc32_mail_findings_swedish.txt](resource/mail/acc32_mail_findings_english.txt) is missing.
-- [mail/acc32_mail_investigations_swedish.txt](resource/mail/acc32_mail_investigations_english.txt) is missing.
 - [mail/acc32_mail_localhouses_swedish.txt](resource/mail/acc32_mail_localhouses_english.txt) is missing.
 - [mail/acc32_mail_miningops_swedish.txt](resource/mail/acc32_mail_miningops_english.txt) is missing.
 - [mail/acc32_mail_news1_swedish.txt](resource/mail/acc32_mail_news1_english.txt) is missing.
