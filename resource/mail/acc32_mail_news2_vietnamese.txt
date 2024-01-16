@@ -1,0 +1,17 @@
+GAME
+{
+// Inbox
+
+"MailFrom1"	"Từ: Tin tức IAF"
+"MailDate1"	"Ngày: 3 tháng 1, 2233"
+"MailSubject1"	"Chủ đề: Các bản ghi tin tức cho 1 tháng vừa qua."
+"MailBody1A"	"Ngày 3 tháng 12, 2232 - Kế hoạch để làm mát tảng đá đang được triển khai. Hệ thống làm mát dự kiến sẽ được xây dựng trong 3 đến 4 ngày."
+"MailBody1B"	"Ngày 5 tháng 12, 2232 - Thảm họa! Các xác chết của các thợ mỏ và nhà nghiên cứu đã trở nên có trị giác và đã biến đổi thành một số loài ngoài hành tinh nào đó. Khoảng 40 con trong số đó đã tấn công Đầu nối J7 và được cho là đã giết hơn 300 người. Các kỹ sư và quân lính đang thực hiện kế hoạch làm mát đã bỏ trốn."
+"MailBody1C"	"Ngày 6 tháng 12, 2232 - Các bọ ngoài hành tinh đã tấn công phòng thí nghiệm và khiến nó bị lộ ra thế giới bên ngoài. Bức xạ từ tảng đá đang thoát ra. Thảm họa đã được tuyên bố là mối đe dọa cấp INES là 8. Các quân lính đang tiêu diệt các bọ ngoài hành tinh trên các biên giới của cơ sở."
+"MailBody1D"	"Ngày 7 tháng 12, 2232 - Bức xạ từ tảng đá đang đi tới các khu vực có bán kính với hơn một trăm kilômét từ lõi. Hầu hết mọi người đã được sơ tán, tuy nhiên, bức xạ vẫn đang tăng và có thể có hệ quả toàn cầu."
+"MailBody1E"	"Ngày 8 tháng 12, 2232 - Kế hoạch là đổ mười ngàn tấn nước từ các máy bay xuống cơ sở vào ngày 9 tháng 12 để làm mát tảng đá."
+"MailBody1F"	"Ngày 9 tháng 12, 2232 - Một tiếng nổ lớn vào buổi sáng đã được nghe thấy từ cách xa một ngàn kilômét. Các phòng thí nghiệm đã được tuyên bố chính thức là NHƯ ĐỊA NGỤC. Sự bức xạ đang biến bất kỳ con người nào cách xa năm trăm kilômét khỏi các phòng thí nghiệm thành một bọ ngoài hành tinh với móng vuốt chết người. Các bọ ngoài hành tinh đã chặn kế hoạch để đổ nước xuống cơ sở. Cơn hoảng loạn toàn cầu đang nổi lên và tất cả các chính phủ của thế giới đã chuẩn bị quân sự của họ."
+"MailBody1G"	"Ngày 20 tháng 12, 2232 - Mức độ bức xạ đã giảm hoàn toàn triệt để, vì tảng đá gần như đã bị phân rã. Một vùng bán kính 1600 kilômét từ các phòng thí nghiệm vẫn được coi là nguy hiểm, vì có rất nhiều bọ ngoài hành tinh."
+"MailBody1H"	"Ngày 3 tháng 1, 2233 - 8 trong các quân lính giàu kinh nghiệm nhất thế giới đã được chọn để thực hiện một cuộc tấn công lên phòng thí nghiệm và chiếm lấy lại Đầu nối J7. Cuộc hành trình của họ sẽ bắt đầu bằng tàu lửa từ Mongolia, biên giới chống bọ ngoài hành tinh tích cực nhất."
+"MailBody1I"	"Tin tức IAF - Ngày 3 tháng 1, 2233"
+}

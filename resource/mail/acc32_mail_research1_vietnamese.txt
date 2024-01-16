@@ -1,0 +1,12 @@
+GAME
+{
+// Inbox
+
+"MailFrom1"	"Từ: Tin tức vận hành [Laura]"
+"MailDate1"	"Ngày: 18/10/32"
+"MailSubject1"	"Chủ đề: Nghiên cứu tập 1"
+"MailBody1A"	"Này, đây là những gì mà chúng tôi đã tìm thấy cho đến nay:"
+"MailBody1B"	"Mức độ phóng xạ là không gây chết người ngay cả khi không có bộ đồ bảo hộ của chúng tôi, nhưng nó vẫn được khuyến khích là chúng tôi phải mặc chúng, để cho nó hoàn toàn an toàn."
+"MailBody1C"	"Cấu trúc nguyên tử là huyền bí, thậm chí phi thường. Nó được làm hoàn toàn từ các electron... Làm sao điều đó có thể được? Nó cũng không có ý nghĩa gì là nó có một tông màu xanh lục và là trong suốt... Thứ này làm tôi sợ thiệt."
+"MailBody1D"	"Laura"
+}

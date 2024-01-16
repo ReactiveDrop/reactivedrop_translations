@@ -1,0 +1,11 @@
+GAME
+{
+// Inbox
+
+"MailFrom1"	"Từ: Tin tức vận hành [Kyle]"
+"MailDate1"	"Ngày: 22/11/32"
+"MailSubject1"	"Chủ đề: Một số hiểu biết sâu sắc"
+"MailBody1A"	"Xin chào, hôm nay Tio Rinto, một công ty khai thác mỏ, đã gửi chúng tôi một số bản ghi của họ về thứ có vẻ giống một tảng đá tương tự. Họ đã gặp phải một tảng đá tương tự 43 năm trước ở trong cuộc thám hiểm khai thác của họ."
+"MailBody1B"	"Họ không có nhiều dữ liệu về nó, nhưng cái mà họ có là thật sốc - tảng đã trở nên phóng xạ hơn nhiều với nhiệt độ cao hơn. Các phòng thí nghiệm đang chứa một mẫu lớn đã bị cô lập cho một tháng nay mà không tiếp xúc với không khí bên ngoài. Vì mái nhà được làm chủ yếu từ kim loại, nó đã bị làm nóng lên và bên trong của phòng thí nghiệm đang dần trở nên nóng hơn và nóng hơn. Chúng ta phải có biện pháp và ngăn chặn điều này."
+"MailBody1C"	"Kyle"
+}

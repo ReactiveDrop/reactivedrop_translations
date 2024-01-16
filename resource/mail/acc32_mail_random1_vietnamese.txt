@@ -1,0 +1,9 @@
+GAME
+{
+// Inbox
+
+"MailFrom1"	"Từ: Edward Zoff"
+"MailDate1"	"Ngày: 07/07/31"
+"MailSubject1"	"Chủ đề: Vận hành khai thác mỏ"
+"MailBody1A"	"Chắc chắn tôi không phải là người duy nhất thắc mắc mấy tinh thể màu xanh lục, trông vẻ ngon đó mà chúng tôi đang thu hoạch là gì. Sự tò mò đã khơi gợi sự quan tâm của tôi và tôi đã hỏi quản trị về nó, tuy nhiên họ có vẻ như không hài lòng và đã lờ tôi. Mấy tảng đá đó không có trông giống như bất cứ thứ gì mà tôi đã từng thấy, và chúng có nhiệt độ rất cao và kể cả khi ở trong khí hậu lạnh chúng dường như không nguội đi chút nào."
+}

@@ -1,0 +1,18 @@
+GAME
+{
+// Inbox
+
+"MailFrom1"	"Từ: Tin tức vận hành [Jose Dunclub]"
+"MailDate1"	"Ngày: 15/12/32"
+"MailSubject1"	"Chủ đề: Vận hành khai thác mỏ"
+"MailBody1A"	"Máy đọc bức xạ của Glenkor đã đọc chính xác. Chúng tôi đã tìm thấy một số lượng bức xạ bất thường ở trong một hang đá ở dưới một kênh đào tới phía đông của Đầu nối J7."
+"MailBody1B"	"Nguồn bức xạ - các tảng đã trong suốt kỳ quặc. Chúng giống như là kính mờ mạc nhưng rất là cứng. Nó gây đau khi cầm nó trong tay tôi."
+"MailBody1C"	"Kích thước lớn nhất mà chúng tôi đã tìm thấy cho đến nay là khoảng chừng 7,5 centimet khối, khó để lấy nó ra khỏi trần hang đá, phải đập bể nó ra thành hai mảnh."
+"MailBody1D"	"Jose Dunclub"
+
+"MailFrom2"	"Từ: Tin tức vận hành [Jose Dunclub]"
+"MailDate2"	"Ngày: 17/10/32"
+"MailSubject2"	"Chủ đề: Tảng đá to lớn"
+"MailBody2A"	"Ai chà, sự phát hiện vĩ đại! Bạn sẽ không có tin đâu - cao hơn 2 mét và rộng, 100 mét dưới lối vào hang đá. Tuy nhiên, chẳng biết làm sao mà chúng tôi có thể lấy nó ra. Chúng tôi thậm chí có nên không?"
+"MailBody2B"	"Jose Dunclub"
+}

@@ -1,0 +1,19 @@
+GAME
+{
+// PDA belongs to Naka
+
+// Inbox
+
+"MailFrom1"	"Từ: Chỉ huy trưởng"
+"MailDate1"	"Ngày: 25/09/63"
+"MailSubject1"	"Chủ đề: Mệnh lệnh"
+"MailBody1A"	"Bỏ lại mọi thứ và quay lại phòng hội nghị."
+
+// Sent
+
+"MailFrom3"	"Tới: Chỉ huy trưởng"
+"MailDate3"	"Ngày: 25/09/63"
+"MailSubject3"	"Chủ đề: Pha 3a hoàn thành"
+"MailBody3A"	"Các lồng với các bọ ngoài hành tinh thực nghiệm đã được đặt sẵn. Thật tiếc là các loài vô hình không thể tái sản xuất được"
+"MailBody3B"	"Chúng sẽ thức dậy khá sớm thôi... Các quân lính đó không có một cơ hội nào chống lại chúng."
+}
