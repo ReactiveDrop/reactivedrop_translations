@@ -586,7 +586,7 @@
 			"name_%LANG%": "{#notification_crafting_items_appeared_weekly_name}",
 			"description_%LANG%": "{#notification_crafting_items_appeared_weekly_description}",
 			"game_only": true,
-			"auto_delete_except_newest": true,
+			"notification_tags": "auto_delete_except_newest;action_create_lobby;action_find_lobby;action_singleplayer",
 			"tags": "slot:notification;notification:crafting",
 			"item_slot": "notification"
 		},
@@ -596,7 +596,7 @@
 			"name_%LANG%": "{#notification_crafting_items_appeared_playtime_name}",
 			"description_%LANG%": "{#notification_crafting_items_appeared_playtime_description}",
 			"game_only": true,
-			"auto_delete_except_newest": true,
+			"notification_tags": "auto_delete_except_newest;action_create_lobby;action_find_lobby;action_singleplayer",
 			"tags": "slot:notification;notification:crafting",
 			"item_slot": "notification"
 		}
