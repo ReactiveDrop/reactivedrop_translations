@@ -1,0 +1,15 @@
+GAME
+{
+// Inbox
+
+"MailBody1ImageTall" "128"
+"MailBody1ImageWide" "128"
+"MailBody1Image"	"mailpics/mailpic_acc_muongem"
+
+"MailFrom1"	"Từ: Tin tức vận hành [Laura]"
+"MailDate1"	"Ngày: 19/10/32"
+"MailSubject1"	"Chủ đề: Nghiên cứu tập 2"
+"MailBody1A"	"Mẹ kiếp, các máy dò mạnh hơn của chúng tôi đã nhận dạng là tảng đá được làm từ muon, không phải là electron."
+"MailBody1B"	"Đây là tin khủng khiếp, nó có thể có tính phóng xạ rất nhiều hơn chúng tôi nghĩ... Các máy đo tốt hơn giờ đang được phát triển và tất cả chúng tôi đều bị cô lập cho tới khi chúng tôi tìm ra nếu chúng tôi là an toàn hay không."
+"MailBody1C"	"Laura"
+}

@@ -1,0 +1,11 @@
+GAME
+{
+// Sent
+
+"MailFrom1"	"Tới: #mọi người"
+"MailDate1"	"Ngày: 19/10/30"
+"MailSubject1"	"Chủ đề: AMBER MÀY TỆ LẮM"
+"MailBody1A"	"Thư này đã được gửi tới toàn thể công nhân tại AMBER. Cái hệ thống gửi thư ngu ngốc này mà được phát triển bởi các lập trình viên vô học của AMBER có quáááá trời cái sai sót. Nếu như các bạn muốn gửi tin nhắn một cách bí mật tới các công nhân khác mà không được AMBER biết, chỉ cần thêm \"&ẨN\" vào cuối chủ đề trong thư của bạn."
+"MailBody1B"	"Nếu AMBER đang đọc thư này, xin vĩnh biệt, đồ ngu! Tao đã thoát khỏi nhà tù này mà mày gọi là \"một dự án\" từ lâu lắm rồi. Nếu như mày không muốn chính phủ biết về sự khám phá cuộc sống ngoài trái đất, mày biết tao muốn gì."
+"MailBody1c"	"Trân trọng, СRĄ$H"
+}
