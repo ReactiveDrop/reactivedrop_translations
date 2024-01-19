@@ -1,0 +1,18 @@
+GAME
+{
+// Inbox
+
+"MailFrom1"	"Från: Operationsnyheter [Jose Dunclub]"
+"MailDate1"	"Datum: 10/15/32"
+"MailSubject1"	"Ämne: Gruv Operationer"
+"MailBody1A"	"Glenkors strålningsavläsningarna var korrekta. Vi har hittat en onormal mängd strålning i en grotta nedanför en kanal öster om J7 Connector."
+"MailBody1B"	"Källan av strålning - konstiga genomskinliga stenar. De är som dimmigt glas men väldigt tuffa. Det gör ont att hålla det i min hand."
+"MailBody1C"	"Den största storleken vi hittat hittills är en kub på 7,5 centimeter, det var svårt att få ut den ur grotttaket, behövde ha sönder den i två delar."
+"MailBody1D"	"Jose Dunclub"
+
+"MailFrom2"	"Från: Operationsnyheter [Jose Dunclub]"
+"MailDate2"	"Datum: 10/17/32"
+"MailSubject2"	"Ämne: Stor Sten"
+"MailBody2A"	"Wow, stor upptäkt! Du kommer inte tro det - över 2 meter hög och bred, 100 meter nedanför ingången till grottan. Ingen aning om hur vi ska få ut det, dock. Ska vi ens?"
+"MailBody2B"	"Jose Dunclub"
+}
