@@ -21,7 +21,7 @@
 | [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | 23 | ✔️ | ✔️ | ✔️ | ✔️ |
 | [European Spanish](#spanish-español-de-españa) | 30 | 2004 | 40 | 2497 | 258 | 206 | 714 | 146 |
 | [Latin American Spanish](#latam-español-latinoamericano) | 1283 | 2004 | 634 | 4593 | 258 | 210 | 980 | 147 |
-| [Swedish](#swedish-svenska) | ✔️ | 2003 | ✔️ | 2020 | ✔️ | ✔️ | ✔️ | 120 |
+| [Swedish](#swedish-svenska) | ✔️ | 2003 | ✔️ | 2020 | ✔️ | ✔️ | ✔️ | 117 |
 | [Thai](#non-curated-languages) | 968 | 1993 | 50 | 4329 | 258 | 206 | 739 | 147 |
 | [Turkish](#non-curated-languages) | 53 | 137 | 42 | 3082 | 258 | 206 | 975 | 147 |
 | [Ukrainian](#ukrainian-українська) | 29 | 131 | 32 | 2625 | 258 | 206 | 933 | 146 |
@@ -1490,8 +1490,6 @@
 
 ### Mail and News
 
-- [mail/acc32_mail_miningops_swedish.txt](resource/mail/acc32_mail_miningops_english.txt) is missing.
-- [mail/acc32_mail_news1_swedish.txt](resource/mail/acc32_mail_news1_english.txt) is missing.
 - [mail/acc32_mail_news2_swedish.txt](resource/mail/acc32_mail_news2_english.txt) is missing.
 - [mail/acc32_mail_random1_swedish.txt](resource/mail/acc32_mail_random1_english.txt) is missing.
 - [mail/acc32_mail_random2_left_swedish.txt](resource/mail/acc32_mail_random2_left_english.txt) is missing.
@@ -1501,7 +1499,6 @@
 - [mail/acc32_mail_research2_swedish.txt](resource/mail/acc32_mail_research2_english.txt) is missing.
 - [mail/acc32_mail_secret2_swedish.txt](resource/mail/acc32_mail_secret2_english.txt) is missing.
 - [mail/acc32_mail_solution_swedish.txt](resource/mail/acc32_mail_solution_english.txt) is missing.
-- [mail/acc_info1_swedish.txt](resource/mail/acc_info1_english.txt) is missing.
 - [mail/acc_info2_swedish.txt](resource/mail/acc_info2_english.txt) is missing.
 - [mail/acc_power1_swedish.txt](resource/mail/acc_power1_english.txt) is missing.
 - [mail/acc_power2_swedish.txt](resource/mail/acc_power2_english.txt) is missing.
