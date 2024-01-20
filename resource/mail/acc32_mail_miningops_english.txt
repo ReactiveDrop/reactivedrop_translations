@@ -7,7 +7,7 @@ GAME
 "MailSubject1"	"Subject: Mining Operations"
 "MailBody1A"	"Glenkor's radiation readings were correct. We have found an abnormal amount of radiation in a cave below a canal to the east of J7 Connector."
 "MailBody1B"	"Source of radiation - weird transparent rocks. They are like foggy glass but very tough. It hurts to hold it in my hand."
-"MailBody1C"	"Biggest size we found so far is roughly a 7.5 centimeter cube, was hard to get it out of the cave ceiling, had to break it down in two pieces."
+"MailBody1C"	"Biggest size we found so far is roughly a 7.5 centimeter cubical, was hard to get it out of the cave ceiling, had to break it down in two pieces."
 "MailBody1D"	"Jose Dunclub"
 
 "MailFrom2"	"From: Operation News [Jose Dunclub]"
