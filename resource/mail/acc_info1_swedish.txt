@@ -1,0 +1,10 @@
+GAME
+{
+// Inbox
+
+"MailFrom1"	"Från: Leeroy Jackins"
+"MailDate1"	"Datum: 06/20/32"
+"MailSubject1"	"Ämne: - &DOLD"
+"MailBody1A"	"Jag har precis kommit på det smarta säkerhetssystemet bakom AMBERs e-postsystem och jag lyckades hacka det. Inom kort kommer jag att skicka all information jag har om AMBER till regeringen. Förhoppningsvis kan jag överleva tills hjälpen kommer."
+"MailBody1B"	"Jag har arbetat för AMBER sedan det grundades i november 2230. Jag är en av de få som har överlevt, eftersom Schmitz litar på mig."
+}

@@ -7020,7 +7020,7 @@
 "red5_voted_skip_no"		"无操作则继续观看过场动画"
 // context - Voted to Skip: 0/5 
 "[english]red5_voted_skip_count"		"Voted to Skip:"
-"red5_voted_skip_count"		"投票过半则跳过过场动画:"
+"red5_voted_skip_count"		"投票跳过过场动画:"
 
 "[english]red6_1_title"		"Escort the Carriage to Outpost Charlie. NOTE: All Sentryguns will be Confiscated"
 "red6_1_title"		"护送气垫船前往查理前哨站。注意：所有哨戒枪都将被没收"
