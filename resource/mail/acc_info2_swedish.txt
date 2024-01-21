@@ -1,0 +1,11 @@
+GAME
+{
+// Sent
+
+"MailFrom1"	"Till: #allihopa"
+"MailDate1"	"Datum: 10/19/30"
+"MailSubject1"	"Ämne: AMBER NI SUGER"
+"MailBody1A"	"Detta brev har skickats till alla arbetare i AMBER. Detta dumma postsystem utvecklat av AMBERs oerfarna programmerare har sååå många brister.Om du vill skicka meddelanden i hemlighet till andra arbetare utan att AMBER vet, lägg helt enkelt till "&DOLD" i slutet av ämnet i ditt mail."
+"MailBody1B"	"Om AMBER läser det här, hejdå förlorare! Jag har rymt detta fängelse som du kallar "ett projekt" för länge sedan. Om du inte vill att regeringen ska veta om din upptäckt av utomjordiskt liv, vet du vad jag vill."
+"MailBody1c"	"Från, СRĄ$H"
+}

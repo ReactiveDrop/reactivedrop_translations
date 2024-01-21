@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<content><string id="body">This month's update includes [url=https://store.steampowered.com/news/app/563560/view/3994197038602903068]some large changes to Heroes of the Interstellar Armed Forces[/url], as well as some balance changes for the Infection Deathmatch mode and several other fixes.
+
+[h2]Missions[/h2]
+[list]
+[*][b]Tears for Tarnor: Oasis Colony Spaceport:[/b] Fixed a piece of the ceiling being solid to grenades near the security office and metal detectors.
+[*][b]Tears for Tarnor: Oasis Colony Spaceport:[/b] Made a ceiling between the hangar and the baggage claim fade out sooner to be less distracting.
+[*]Added a workaround for missing sounds in the workshop mission The Gauntlet: Arctic.
+[/list]
+
+[h2]Weapons[/h2]
+[list]
+[*]Fixed an animation issue causing aim to shift to the right shortly after the reload animation started, causing missed shots after successful fast reloads on weapons like the Precision Rail Rifle.
+[*]Fixed newly unlocked weapons having their "new" marker removed by unlocking another weapon and then closing and reopening the game rather than only removing it when the weapon is selected in briefing as intended.
+[/list]
+
+[h2]Lobby[/h2]
+[list]
+[*]Leader and kick votes are no longer reset on instant restart.
+[*]Prevented instant restart from being used more than once every 3 seconds (asw_instant_restart_cooldown). Does not apply to instant restarts performed after the mission complete/failed screen starts fading in.
+[*]Fixed a visual bug causing the challenge to appear to be changed to "cmd_change_challenge" when exiting the challenge selection submenu immediately after opening it in the create lobby screen.
+[/list
+
+[h2]Misc[/h2]
+[list]
+[*]Added a notifications list and filtering settings to the main menu.
+[*]Added support for bold and italic text in inventory item descriptions in-game.
+[*]Added rd_vindicator_fire_rate. If 0, it will use the previous behavior of inheriting its fire rate from the shotgun.
+[*]Fixed medics having a 1-in-25 chance of shouting that they were out of meds when using the "Zing!" chat wheel command.
+[*]Fixed a rare crash that could happen after stats were recorded at the end of a mission related to the upcoming crafting materials beta.
+[/list]]
+
+[h2]Infection Deathmatch Challenge[/h2]
+[list]
+[*]Rifle grenade damage bonus is now calculated after the knockback force is calculated.
+[*]Decreased rifle grenade damage.
+[*]Massively increased rockets' knockback force.
+[*]Increased rocket damage.
+[*]Damage taken during the preparation phase is now immediately healed.
+[*]Humans' burning damage against zombies now receives damage bonus regardless of whether the source of the burn is an incendiary mine.
+[*]Constructed sentries are now deleted immediately.
+[*]Allowed the server console (and challenge scripts) to use the deathmatch game mode console commands (in addition to the lobby leader).
+[/list]</string><string id="subtitle"></string><string id="summary"></string><string id="title">Alien Swarm: Reactive Drop Update - February 1, 2024</string></content>

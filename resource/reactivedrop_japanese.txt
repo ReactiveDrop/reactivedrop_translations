@@ -10065,5 +10065,18 @@
 "rd_player_found_crafting_material"		"%s1は%s2を見つけた。"
 "[english]rd_player_found_crafting_materials"		"%s1 has found %s3× %s2."
 "rd_player_found_crafting_materials"		"%s1は%s2を%s3個見つけた。"
+
+		"[english]rd_mission_modifier_workshop"		"This mission was downloaded from the Steam Workshop."
+		"rd_mission_modifier_workshop"		"This mission was downloaded from the Steam Workshop."
+		"[english]rd_mission_modifier_workshop_campaign"		"This campaign was downloaded from the Steam Workshop."
+		"rd_mission_modifier_workshop_campaign"		"This campaign was downloaded from the Steam Workshop."
+		"[english]rd_mission_modifier_bounty"		"You can currently earn additional points by completing this mission due to a bounty."
+		"rd_mission_modifier_bounty"		"You can currently earn additional points by completing this mission due to a bounty."
+		"[english]rd_mission_modifier_bounty_campaign"		"This campaign includes at least one mission with an unclaimed bounty."
+		"rd_mission_modifier_bounty_campaign"		"This campaign includes at least one mission with an unclaimed bounty."
+		"[english]rd_mission_modifier_crafting"		"Crafting materials can currently be found in this mission."
+		"rd_mission_modifier_crafting"		"Crafting materials can currently be found in this mission."
+		"[english]rd_mission_modifier_crafting_campaign"		"Crafting materials can currently be found in at least one mission in this campaign."
+		"rd_mission_modifier_crafting_campaign"		"Crafting materials can currently be found in at least one mission in this campaign."
 }
 }

@@ -1,0 +1,20 @@
+GAME
+{
+// PDA belongs to Lt. Cain
+
+// Inbox
+
+"MailFrom1"	"Från: Shaun Ming"
+"MailDate1"	"Datum: 12/21/52"
+"MailSubject1"	"Ämne: Tester"
+"MailBody1A"	"Lt. Cain,"
+"MailBody1B"	"En katt? Kommer inte gå. För liten."
+"MailBody1C"	"S. Ming"
+
+"MailFrom2"	"Från: Shaun Ming"
+"MailDate2"	"Datum: 12/22/52"
+"MailSubject2"	"Ämne: Test 2"
+"MailBody2A"	"Lt. Cain,"
+"MailBody2B"	"Det här borde funka. Men jag kanske behöver mera. Skulle det vara ett problem?? Jag hoppas att jag inte behöver betona vikten av mina undersökningar."
+"MailBody2C"	"S. Ming"
+}

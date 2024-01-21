@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<content><string id="body">Starting in Season 20 (February 2024), Heroes of the Interstellar Armed Forces is gaining two new sources of points. Additionally, we are updating the score multipliers of nearly every mission and many challenges.
+
+[h2]What's Heroes of the Interstellar Armed Forces?[/h2]
+Heroes of the Interstellar Armed Forces (HoIAF) is a monthly competition to complete as many difficult missions as possible on participating servers (marked with an 🏅 icon in the lobby list).
+
+You earn more points for harder missions, difficulty settings, and challenges, and for marines in your squad surviving to the end if hardcore friendly fire is enabled. At the end of the month, everyone who participated receives a medal, with special medals going to the players in the top 20 and top 100.
+
+You can display medals on your Steam profile the same way you would display any other item in your inventory, as well as equip up to 3 medals on your Commander Profile in-game. Medals are also available from many other sources. Check out the [url=https://steamcommunity.com/app/563560/guides/]guides on the Steam Community Hub[/url] to find out more!
+
+[h2]Scoring Multiplier Updates[/h2]
+109 of the 133 rated missions and 28 of the 76 rated challenges have received scoring changes.
+
+In most cases, the difference between challenge score multipliers has been reduced and the difference between mission score multipliers has increased.
+
+[url=https://developer.reactivedrop.com/hoiaf.html#february-1-2024-season-20]The full list of modifier changes is available on the Reactive Drop developer website.[/url]
+
+[h2]Personal Best Scores[/h2]
+Starting in Season 20 (February 2024), your personal best score for each mission will earn you bonus points towards your season score. Your 5 best scores contribute the most, with each group of 5 scores afterwards contributing half as much.
+
+The point bonuses are generous. For example, if your best single mission score is 500 points, you'll gain nearly one hundred thousand points towards your season score. If you manage to beat your score by 100 points (600 total), you'll gain an additional nearly forty thousand points.
+
+[img]{STEAM_CLAN_IMAGE}/27357479/83fc55da8a9fbd1a27944ded1eace01072c5379f.jpg[/img]
+
+If you want to stay ahead in future seasons, you'll need to hone your skills at a multitude of missions, and super-high scores in endless missions are now worth far more than the points they give directly.
+
+[h2]Mission Bounties[/h2]
+It's not just the high-scorers who are getting a bonus this season! A few times per day, the Interstellar Armed Forces will provide bounties for completing specific missions. You can find these in the notifications area on the main menu, and the missions with bounties you haven't claimed are also marked in the mission chooser while you're connected to a participating server.
+
+[img]{STEAM_CLAN_IMAGE}/27357479/ad9e1daae38ecf329438a2cfc09cded461cdd6e4.png[/img]
+
+Bounties grant points for the successful completion of a mission regardless of difficulty settings or challenges. That means that if you were previously getting a measly 1 point per mission on Easy, you can now earn hundreds or thousands of points a few times per day.
+
+Bounties are created every 8 hours and last for 24 hours. Each set of bounties is either a campaign of 3 to 9 missions or 5 to 6 assorted missions. Bounties do not span multiple seasons, so there is a period at the start of a season with fewer than 3 active sets of bounties and bounties at the end of a season are shorter than 24 hours. Each bounty mission can be completed independently. If you don't want to see information about bounties on the main menu, you can disable the notifications using the button at the bottom of the notifications list.</string><string id="subtitle"></string><string id="summary"></string><string id="title">Upcoming changes to Heroes of the Interstellar Armed Forces</string></content>

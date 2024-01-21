@@ -13,6 +13,8 @@
 		"StatsWeb_InvalidEntry"		"[輸入無效]"
 		"[english]StatsWeb_UnknownPlayer"		"[unknown player]"
 		"StatsWeb_UnknownPlayer"		"[未知玩家]"
+		"[english]StatsWeb_PrivateProfile"		"[private profile]"
+		"StatsWeb_PrivateProfile"		"[private profile]"
 		"[english]StatsWeb_DayTabsAllTime"		"All Time"
 		"StatsWeb_DayTabsAllTime"		"所有時刻"
 		"[english]StatsWeb_DayTabsPrevious"		"Previous"
