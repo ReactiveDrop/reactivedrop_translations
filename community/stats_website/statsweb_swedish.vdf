@@ -13,6 +13,8 @@
 "StatsWeb_InvalidEntry"		"[ogiltig inträde]"
 "[english]StatsWeb_UnknownPlayer"		"[unknown player]"
 "StatsWeb_UnknownPlayer"		"[okänd spelare]"
+		"[english]StatsWeb_PrivateProfile"		"[private profile]"
+		"StatsWeb_PrivateProfile"		"[private profile]"
 "[english]StatsWeb_DayTabsAllTime"		"All Time"
 "StatsWeb_DayTabsAllTime"		"Sedan Början"
 "[english]StatsWeb_DayTabsPrevious"		"Previous"

@@ -8,6 +8,7 @@
 "StatsWeb_MissingMission"		"[missing mission]"
 "StatsWeb_InvalidEntry"		"[invalid entry]"
 "StatsWeb_UnknownPlayer"		"[unknown player]"
+"StatsWeb_PrivateProfile"		"[private profile]"
 "StatsWeb_DayTabsAllTime"		"All Time"
 "StatsWeb_DayTabsPrevious"		"Previous"
 "StatsWeb_DayTabsNext"		"Next"
