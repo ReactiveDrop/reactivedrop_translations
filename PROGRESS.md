@@ -11,7 +11,7 @@
 | [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | 7 | ✔️ | 1 | ✔️ | 2 |
 | [Hungarian](#non-curated-languages) | 53 | 138 | 42 | 3088 | 258 | 207 | 975 | 148 |
 | [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | 9 | ✔️ | 1 | ✔️ | 2 |
-| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | 6 | ✔️ | 1 | 102 | 2 |
+| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 102 | ✔️ |
 | [Korean](#koreana-한국어) | 9 | 10 | 38 | 1584 | 258 | 29 | 446 | 49 |
 | [Norwegian Bokmål](#non-curated-languages) | 71 | 708 | 47 | 3794 | 258 | 207 | 710 | 148 |
 | [Polish](#polish-polski) | 30 | 2004 | 42 | 3088 | 258 | 207 | 706 | 144 |
@@ -620,15 +620,8 @@
 
 ### Strings
 
-- [statsweb_japanese.vdf](community/stats_website/statsweb_japanese.vdf) has 1 untranslated strings.
 - [misc/signage/signage_japanese.vdf](misc/signage/signage_japanese.vdf) has 67 untranslated strings.
 - [platform/vgui_japanese.txt](platform/vgui_japanese.txt) has 35 untranslated strings.
-- [reactivedrop_japanese.txt](resource/reactivedrop_japanese.txt) has 6 untranslated strings.
-
-### Upcoming Release Notes
-
-- [20240125_japanese.xml](release_notes/20240125_english.xml) is missing.
-- [20240201_japanese.xml](release_notes/20240201_english.xml) is missing.
 
 </details>
 
