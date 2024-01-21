@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<content><string id="body">Denna månads uppdatering inkluderar [url=https://store.steampowered.com/news/app/563560/view/3994197038602903068]några stora förändringar till Hjältar av Interstellär Väpnade Styrkor[/url], samt vissa balansändringar för Infection Deathmatch-läget och flera andra fixar.
+
+[h2]Uppdrag[/h2]
+[list]
+[*][b]Tårar för Tarnor: Oasis Koloni Rymdhamn:[/b] Fixade en bit av taket som var fast till granater nära säkerhetskontoret och metalldetektorer.
+[*][b]Tårar för Tarnor: Oasis Koloni Rymdhamn:[/b] Fick ett tak mellan hangaren och bagageutlämningen att tona ut tidigare för att vara mindre distraherande.
+[*]Lade till en lösning för saknade ljud i verkstadsuppdraget The Gauntlet: Arktis.
+[/list]
+
+[h2]Vapen[/h2]
+[list]
+[*]Fixade ett animationsproblem som fick målet att flyttas åt höger strax efter att omladdningsanimeringen startade, vilket orsakade missade skott efter framgångsrika snabba omladdningar på vapen som Precision Rail Rifle.
+[*]Fixade nyupplåsta vapen som fick sin "nya" markör borttagen genom att låsa upp ett annat vapen och sedan stänga och öppna spelet igen istället för att bara ta bort det när vapnet väljs i briefing som avsett.
+[/list]
+
+[h2]Menu[/h2]
+[list]
+[*]Ledar- och kickröster återställs inte längre vid omedelbar omstart.
+[*]Förhindrade att omedelbar omstart användes mer än en gång var tredje sekund (asw_instant_restart_cooldown). Gäller inte omstarter omedelbart efter att uppdraget slutfört/misslyckats skärmen börjar tona in.
+[*]Fixade en visuell bugg som gjorde att utmaningen såg ut att ändras till "cmd_change_challenge" när du lämnade undermenyn för val av utmaning direkt efter att ha öppnat den i skapa lobbyskärmen.
+[/list
+
+[h2]Annat[/h2]
+[list]
+[*]Lade till en aviseringslista och filtreringsinställningar i huvudmenyn.
+[*]Lade till stöd för fet och kursiv text i inventeringsobjektbeskrivningar i spelet.
+[*]Lade till rd_vindicator_fire_rate. Om 0, kommer den att använda det tidigare beteendet att ärva sin eldhastighet från hagelgeväret.
+[*]Fixade läkare som hade en 1-i-25 chans att skrika att de hade slut på medicin när de använde "Zing!" kommandot chatthjul.
+[*]Fixade en sällsynt krasch som kunde hända efter att statistik spelades in i slutet av ett uppdrag relaterat till den kommande betaversionen av hantverksmaterial.
+[/list]]
+
+[h2]Infection Deathmatch Utmaning[/h2]
+[list]
+[*]Gevärsgranatskadebonus beräknas nu efter att tillbakaslagningskraften har beräknats.
+[*]Sänkte gevärsgranat skada.
+[*]Massivt ökad raketers tillbakaslagskraft.
+[*]Ökad raket skada.
+[*]Skador som tagits under förberedelsefasen är nu omedelbart läkt.
+[*]Människans brännskador mot zombies får nu skadebonus oavsett om källan till bränningen är en brandmina.
+[*]Konstruerade vaktgevär raderas nu omedelbart.
+[*]Tillåtit serverkonsolen (och utmaningsskript) att använda deathmatch-spellägets konsolkommandon (utöver lobbyledaren).
+[/list]</string><string id="subtitle"></string><string id="summary"></string><string id="title">Alien Swarm: Reactive Drop Uppdatering - Februari 1, 2024</string></content>
