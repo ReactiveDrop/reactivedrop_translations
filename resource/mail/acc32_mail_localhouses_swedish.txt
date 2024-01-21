@@ -1,0 +1,11 @@
+GAME
+{
+// Inbox
+
+"MailFrom1"	"Från: Lokala Hus"
+"MailDate1"	"Datum: 11/14/32"
+"MailSubject1"	"Ämne: Våran Säkerhet"
+"MailBody1A"	"För bara en timme sedan hade en av era män informerat oss om snabbt växande strålningsnivåer i vårt område. Planerar du att reda ut det? Om denna snabba tillväxt fortsätter kommer vi att tvingas lämna våra hus i morgon, annars kommer vi att dö."
+"MailBody1B"	"Varför har vi blivit inofficiellt informerade om detta först nu, en dag innan katastrofen inträffar? Kommer tjänstemännen att förse oss med beboeliga hus eller måste vi evakuera själva, med våra egna pengar?"
+"MailBody1C"	"Lokala Hus"
+}
