@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<content><string id="body">Das diesmonatige Update enthält [url=https://store.steampowered.com/news/app/563560/view/3994197038602903068]einige große Änderungen an Helden der interstellaren Streitkräfte[/url], sowie einige Balanceänderungen für den Modus Infektion Deathmatch und verschiedene andere Korrekturen.
+
+[h2]Einsätze[/h2]
+[list]
+[*][b]Tränen für Tarnor: Oasis-Kolonie Raumhafen:[/b] In der Nähe des Sicherheitsbüros und der Metalldetektoren wurde ein Stück der Decke repariert das Granaten blockierte.
+[*][b]Tränen für Tarnor: Oasis-Kolonie Raumhafen:[/b] Die Decke zwischen dem Hangar und der Gepäckausgabe wird jetzt früher ausgeblendet, damit sie weniger ablenkt.
+[*]Es wurde ein Workaround für fehlende Sounds in dem Workshop-Einsatz "The Gauntlet: Arctic" hinzugefügt.
+[/list]
+
+[h2]Waffen[/h2]
+[list]
+[*]Ein Animationsproblem wurde behoben, das dazu führte, dass sich das Ziel kurz nach Beginn der Nachladeanimation nach rechts verschob, was bei Waffen wie dem Schienengewehr zu Fehlschüssen nach erfolgreichem Nachladen führte.
+[*]Es wurde behoben, dass bei neu freigeschalteten Waffen die "neu" Markierung entfernt wurde, wenn eine andere Waffe freigeschaltet und das Spiel geschlossen und wieder geöffnet wurde, anstatt sie nur zu entfernen, wenn die Waffe - wie vorgesehen - in der Einsatzbesprechung ausgewählt wurde.
+[/list]
+
+[h2]Lobby[/h2]
+[list]
+[*]Anführer- und Rauswerfen-Abstimmungen werden beim sofortigen Neustart nicht mehr zurückgesetzt.
+[*]Verhindert, dass der sofortige Neustart mehr als einmal alle 3 Sekunden verwendet wird (asw_instant_restart_cooldown). Dies gilt nicht für sofortige Neustarts, die durchgeführt werden, nachdem der Bildschirm "Einsatz abgeschlossen/gescheitert" eingeblendet wurde.
+[*]Es wurde ein visueller Fehler behoben, der dazu führte, dass die Herausforderung scheinbar in "cmd_change_challenge" geändert wurde, wenn das Untermenü für die Auswahl der Herausforderung direkt nach dem Öffnen im Bildschirm "Spiel erstellen" verlassen wurde.
+[/list
+
+[h2]Verschiedenes[/h2]
+[list]
+[*]Dem Hauptmenü wurden eine Benachrichtigungsliste und Filtereinstellungen hinzugefügt.
+[*]Unterstützung für fetten und kursiven Text in den Beschreibungen von Inventargegenständen im Spiel hinzugefügt.
+[*]rd_vindicator_fire_rate wurde hinzugefügt. Wenn der Wert 0 ist, wird die Feuerrate wie bisher von der Schrotflinte geerbt.
+[*]Die Chance, dass Sanitäter bei Verwendung des Chatrad-Befehls "Zing!" schreien, dass sie keine Medikamente mehr haben, liegt nun bei 1:25.
+[*]Behebung eines seltenen Absturzes, der nach der Aufzeichnung der Werte am Ende eines Einsatzes im Zusammenhang mit der kommenden Beta für Handwerksmaterialien auftreten konnte.
+[/list]]
+
+[h2]Infektion Deathmatch Herausforderung[/h2]
+[list]
+[*]Der Schadensbonus von Gewehrgranaten wird jetzt nach der Berechnung der Rückstoßkraft berechnet.
+[*]Der Schaden von Gewehrgranaten wurde verringert.
+[*]Die Rückstoßkraft von Raketen wurde massiv erhöht.
+[*]Erhöhter Raketenschaden.
+[*]Schaden, der während der Vorbereitungsphase erlitten wird, wird jetzt sofort geheilt.
+[*]Der Brandschaden von Menschen gegen Zombies erhält jetzt einen Schadensbonus, unabhängig davon, ob die Quelle des Brandes eine Brandmine ist.
+[*]Aufgestellte Wächter werden jetzt sofort gelöscht.
+[*]Die Serverkonsole (und Herausforderungsskripte) können nun die Konsolenbefehle für den Deathmatch-Spielmodus verwenden (zusätzlich zum Lobbyleiter).
+[/list]</string><string id="subtitle"></string><string id="summary"></string><string id="title">Alien Swarm: Reactive Drop Update - 1. Februar 2024</string></content>
