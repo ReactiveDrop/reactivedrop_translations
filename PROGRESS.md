@@ -21,7 +21,7 @@
 | [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | 29 | ✔️ | 1 | ✔️ | 2 |
 | [European Spanish](#spanish-español-de-españa) | 30 | 2004 | 40 | 2503 | 258 | 207 | 714 | 147 |
 | [Latin American Spanish](#latam-español-latinoamericano) | 1283 | 2004 | 634 | 4599 | 258 | 211 | 980 | 148 |
-| [Swedish](#swedish-svenska) | ✔️ | 2003 | ✔️ | 2026 | ✔️ | 1 | ✔️ | 117 |
+| [Swedish](#swedish-svenska) | ✔️ | 2003 | ✔️ | 2026 | ✔️ | ✔️ | ✔️ | 115 |
 | [Thai](#non-curated-languages) | 968 | 1993 | 50 | 4335 | 258 | 207 | 739 | 148 |
 | [Turkish](#non-curated-languages) | 53 | 137 | 42 | 3088 | 258 | 207 | 975 | 148 |
 | [Ukrainian](#ukrainian-українська) | 29 | 131 | 32 | 2631 | 258 | 207 | 933 | 147 |
@@ -1519,14 +1519,8 @@
 
 ### Strings
 
-- [statsweb_swedish.vdf](community/stats_website/statsweb_swedish.vdf) has 1 untranslated strings.
 - [closecaption_swedish.txt](resource/closecaption_swedish.txt) has 2003 untranslated strings.
 - [reactivedrop_swedish.txt](resource/reactivedrop_swedish.txt) has 2026 untranslated strings.
-
-### Upcoming Release Notes
-
-- [20240125_swedish.xml](release_notes/20240125_english.xml) is missing.
-- [20240201_swedish.xml](release_notes/20240201_english.xml) is missing.
 
 ### Mail and News
 
