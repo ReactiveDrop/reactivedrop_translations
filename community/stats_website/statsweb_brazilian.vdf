@@ -13,6 +13,8 @@
 "StatsWeb_InvalidEntry"		"[entrada inválida]"
 "[english]StatsWeb_UnknownPlayer"		"[unknown player]"
 "StatsWeb_UnknownPlayer"		"[jogador desconhecido]"
+		"[english]StatsWeb_PrivateProfile"		"[private profile]"
+		"StatsWeb_PrivateProfile"		"[private profile]"
 "[english]StatsWeb_DayTabsAllTime"		"All Time"
 "StatsWeb_DayTabsAllTime"		"Todo o tempo"
 "[english]StatsWeb_DayTabsPrevious"		"Previous"

@@ -13,6 +13,8 @@
 "StatsWeb_InvalidEntry"		"[無効な項目]"
 "[english]StatsWeb_UnknownPlayer"		"[unknown player]"
 "StatsWeb_UnknownPlayer"		"[不明なプレイヤー]"
+		"[english]StatsWeb_PrivateProfile"		"[private profile]"
+		"StatsWeb_PrivateProfile"		"[private profile]"
 "[english]StatsWeb_DayTabsAllTime"		"All Time"
 "StatsWeb_DayTabsAllTime"		"今までの総計"
 "[english]StatsWeb_DayTabsPrevious"		"Previous"
