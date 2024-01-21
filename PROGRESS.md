@@ -21,7 +21,7 @@
 | [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | 29 | ✔️ | 1 | ✔️ | 2 |
 | [European Spanish](#spanish-español-de-españa) | 30 | 2004 | 40 | 2503 | 258 | 207 | 714 | 147 |
 | [Latin American Spanish](#latam-español-latinoamericano) | 1283 | 2004 | 634 | 4599 | 258 | 211 | 980 | 148 |
-| [Swedish](#swedish-svenska) | ✔️ | 2003 | ✔️ | 2026 | ✔️ | 1 | ✔️ | 119 |
+| [Swedish](#swedish-svenska) | ✔️ | 2003 | ✔️ | 2026 | ✔️ | 1 | ✔️ | 117 |
 | [Thai](#non-curated-languages) | 968 | 1993 | 50 | 4335 | 258 | 207 | 739 | 148 |
 | [Turkish](#non-curated-languages) | 53 | 137 | 42 | 3088 | 258 | 207 | 975 | 148 |
 | [Ukrainian](#ukrainian-українська) | 29 | 131 | 32 | 2631 | 258 | 207 | 933 | 147 |
@@ -1547,7 +1547,6 @@
 - [mail/acc32_mail_research2_swedish.txt](resource/mail/acc32_mail_research2_english.txt) is missing.
 - [mail/acc32_mail_secret2_swedish.txt](resource/mail/acc32_mail_secret2_english.txt) is missing.
 - [mail/acc32_mail_solution_swedish.txt](resource/mail/acc32_mail_solution_english.txt) is missing.
-- [mail/acc_info2_swedish.txt](resource/mail/acc_info2_english.txt) is missing.
 - [mail/acc_power1_swedish.txt](resource/mail/acc_power1_english.txt) is missing.
 - [mail/acc_power2_swedish.txt](resource/mail/acc_power2_english.txt) is missing.
 - [mail/acc_power3_swedish.txt](resource/mail/acc_power3_english.txt) is missing.
@@ -1587,7 +1586,6 @@
 - [mail/nh_pda_tomasselin_swedish.txt](resource/mail/nh_pda_tomasselin_english.txt) is missing.
 - [mail/nh_pda_yannmontgomery_swedish.txt](resource/mail/nh_pda_yannmontgomery_english.txt) is missing.
 - [mail/nukeangermail_swedish.txt](resource/mail/nukeangermail_english.txt) is missing.
-- [mail/officemail1_swedish.txt](resource/mail/officemail1_english.txt) is missing.
 - [mail/officemail2_swedish.txt](resource/mail/officemail2_english.txt) is missing.
 - [mail/officemail3_swedish.txt](resource/mail/officemail3_english.txt) is missing.
 - [mail/officemail4_swedish.txt](resource/mail/officemail4_english.txt) is missing.
