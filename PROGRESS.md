@@ -1,14 +1,14 @@
 # Overview
 | Language | basemodui | closecaption | gameui | reactivedrop | items | statsweb | Strings | Files |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | ✔️ | 1 | ✔️ | ✔️ | ✔️ | ✔️ |
+| [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Traditional Chinese](#tchinese-繁體中文) | 11 | 141 | 33 | 2953 | 252 | 207 | 236 | 147 |
 | [Czech](#czech-čeština) | 73 | 1810 | 42 | 4093 | 258 | 207 | 980 | 147 |
 | [Danish](#non-curated-languages) | 54 | 231 | 42 | 3621 | 258 | 207 | 710 | 148 |
 | [Dutch](#non-curated-languages) | 53 | 2004 | 42 | 3089 | 258 | 207 | 710 | 147 |
 | [Finnish](#non-curated-languages) | ✔️ | 2004 | 41 | 3003 | 259 | 207 | 701 | 147 |
 | [French](#french-français) | 29 | 138 | 42 | 2454 | 257 | 207 | 650 | 126 |
-| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | 8 | ✔️ | 1 | ✔️ | 2 |
+| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | 1 | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Hungarian](#non-curated-languages) | 53 | 138 | 42 | 3089 | 258 | 207 | 975 | 148 |
 | [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | 10 | ✔️ | 1 | ✔️ | 2 |
 | [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | 1 | ✔️ | ✔️ | 102 | ✔️ |
@@ -18,14 +18,14 @@
 | [European Portuguese](#portuguese-português-europeu) | 2 | 180 | 32 | 2178 | 238 | 28 | 630 | 142 |
 | [Brazilian Portuguese](#brazilian-português) | 4 | 2004 | 32 | 1348 | 188 | 16 | 276 | 9 |
 | [Romanian](#non-curated-languages) | 53 | 1996 | 48 | 3800 | 258 | 207 | 975 | 148 |
-| [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | 30 | ✔️ | 1 | ✔️ | 2 |
+| [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 1 |
 | [European Spanish](#spanish-español-de-españa) | 30 | 2004 | 40 | 2504 | 258 | 207 | 714 | 147 |
 | [Latin American Spanish](#latam-español-latinoamericano) | 1283 | 2004 | 634 | 4600 | 258 | 211 | 980 | 148 |
 | [Swedish](#swedish-svenska) | ✔️ | 2003 | ✔️ | 2027 | ✔️ | ✔️ | ✔️ | 115 |
 | [Thai](#non-curated-languages) | 968 | 1993 | 50 | 4336 | 258 | 207 | 739 | 148 |
 | [Turkish](#non-curated-languages) | 53 | 137 | 42 | 3089 | 258 | 207 | 975 | 148 |
 | [Ukrainian](#ukrainian-українська) | 29 | 131 | 32 | 2632 | 258 | 207 | 933 | 147 |
-| [Vietnamese](#vietnamese-tiếng-việt) | ✔️ | 2004 | ✔️ | 3378 | ✔️ | 1 | ✔️ | 100 |
+| [Vietnamese](#vietnamese-tiếng-việt) | ✔️ | 2004 | ✔️ | 3378 | ✔️ | 1 | ✔️ | 86 |
 ### Legend
 - ***Non-capitalized column headers*** are the most important specific files and their number of missing strings. All of these txt-files are located in the resources folder. Except statsweb, which lies in community/stats_website, it's an vdf-file.
 - ***Strings*** is the number of missing strings not included in one of the files which get an individual non-capitalized column.
@@ -40,9 +40,7 @@
 
 </summary>
 
-### Strings
-
-- [reactivedrop_schinese.txt](resource/reactivedrop_schinese.txt) has 1 untranslated strings.
+✓ Up to date!
 
 </details>
 
@@ -586,13 +584,7 @@
 
 ### Strings
 
-- [statsweb_german.vdf](community/stats_website/statsweb_german.vdf) has 1 untranslated strings.
-- [reactivedrop_german.txt](resource/reactivedrop_german.txt) has 8 untranslated strings.
-
-### Upcoming Release Notes
-
-- [20240125_german.xml](release_notes/20240125_english.xml) is missing.
-- [20240201_german.xml](release_notes/20240201_english.xml) is missing.
+- [reactivedrop_german.txt](resource/reactivedrop_german.txt) has 1 untranslated strings.
 
 </details>
 
@@ -1123,14 +1115,8 @@
 
 </summary>
 
-### Strings
-
-- [statsweb_russian.vdf](community/stats_website/statsweb_russian.vdf) has 1 untranslated strings.
-- [reactivedrop_russian.txt](resource/reactivedrop_russian.txt) has 30 untranslated strings.
-
 ### Upcoming Release Notes
 
-- [20240125_russian.xml](release_notes/20240125_english.xml) is missing.
 - [20240201_russian.xml](release_notes/20240201_english.xml) is missing.
 
 </details>
@@ -1841,20 +1827,6 @@
 
 ### Mail and News
 
-- [mail/acc32_mail_research2_vietnamese.txt](resource/mail/acc32_mail_research2_english.txt) is missing.
-- [mail/acc32_mail_secret2_vietnamese.txt](resource/mail/acc32_mail_secret2_english.txt) is missing.
-- [mail/acc32_mail_solution_vietnamese.txt](resource/mail/acc32_mail_solution_english.txt) is missing.
-- [mail/acc_info1_vietnamese.txt](resource/mail/acc_info1_english.txt) is missing.
-- [mail/acc_info2_vietnamese.txt](resource/mail/acc_info2_english.txt) is missing.
-- [mail/acc_power1_vietnamese.txt](resource/mail/acc_power1_english.txt) is missing.
-- [mail/acc_power2_vietnamese.txt](resource/mail/acc_power2_english.txt) is missing.
-- [mail/acc_power3_vietnamese.txt](resource/mail/acc_power3_english.txt) is missing.
-- [mail/acc_research1_vietnamese.txt](resource/mail/acc_research1_english.txt) is missing.
-- [mail/acc_research2_vietnamese.txt](resource/mail/acc_research2_english.txt) is missing.
-- [mail/acc_research3_vietnamese.txt](resource/mail/acc_research3_english.txt) is missing.
-- [mail/biogen_mail_windows_vietnamese.txt](resource/mail/biogen_mail_windows_english.txt) is missing.
-- [mail/ma_pda1_vietnamese.txt](resource/mail/ma_pda1_english.txt) is missing.
-- [mail/ma_pda2_vietnamese.txt](resource/mail/ma_pda2_english.txt) is missing.
 - [mail/nh_officemail1_jacquesmoreau_vietnamese.txt](resource/mail/nh_officemail1_jacquesmoreau_english.txt) is missing.
 - [mail/nh_officemail2_jacquesmoreau_vietnamese.txt](resource/mail/nh_officemail2_jacquesmoreau_english.txt) is missing.
 - [mail/nh_officemail_lindasilva_vietnamese.txt](resource/mail/nh_officemail_lindasilva_english.txt) is missing.
