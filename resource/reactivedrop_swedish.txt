@@ -8855,6 +8855,8 @@
 "rd_reach_level_to_unlock_public_difficulty"		"Nå nivå 15 för att låsa upp offentliga lobbyer med denna svårighet."
 "[english]rd_collection_swarmopedia"		"Swarmopedia"
 "rd_collection_swarmopedia"		"Swarmopedia"
+		"[english]rd_swarmopedia_article_unlocked"		"New Swarmopedia article unlocked: \"%s1\""
+		"rd_swarmopedia_article_unlocked"		"New Swarmopedia article unlocked: \"%s1\""
 "[english]rd_inventory_verb_equip"		"Equip"
 "rd_inventory_verb_equip"		"Utrusta"
 "[english]rd_inventory_verb_equip_0"		"Equip in Slot 1"
