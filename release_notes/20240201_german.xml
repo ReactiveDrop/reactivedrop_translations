@@ -26,7 +26,7 @@
 [*]Dem Hauptmenü wurden eine Benachrichtigungsliste und Filtereinstellungen hinzugefügt.
 [*]Unterstützung für fetten und kursiven Text in den Beschreibungen von Inventargegenständen im Spiel hinzugefügt.
 [*]rd_vindicator_fire_rate wurde hinzugefügt. Wenn der Wert 0 ist, wird die Feuerrate wie bisher von der Schrotflinte geerbt.
-[*]Die Chance, dass Sanitäter bei Verwendung von "Zing!" im Emote-Menü schreien, dass sie keine Medikamente mehr haben, lag zuvor bei 1:25.
+[*]Die Chance, dass Sanitäter bei Verwendung von "Zing!" im Emote-Menü schreien, dass sie keine Medikamente mehr haben, lag zuvor bei 1:25, dies tritt jetzt gar nicht mehr auf.
 [*]Behebung eines seltenen Absturzes, der nach der Aufzeichnung der Werte am Ende eines Einsatzes im Zusammenhang mit der kommenden Beta für Handwerksmaterialien auftreten konnte.
 [/list]]
 
