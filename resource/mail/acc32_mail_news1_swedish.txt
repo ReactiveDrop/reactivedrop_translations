@@ -1,0 +1,19 @@
+GAME
+{
+// Inbox
+
+"MailFrom1"	"From: IAF News"
+"MailDate1"	"Date: Nov 31st, 2232"
+"MailSubject1"	"Subject: News log for the past 4 months."
+"MailBody1A"	"August 1st, 2232 - Mining company 'Glenkor' detected high radiation readings in Syberia to the east of J7 Connector that seem to be coming from under the ground. Mining operations begin."
+"MailBody1B"	"October 15th, 2232 - The source of immense radiation is finally found - a cave containing tons of green, transparent rocks. Research has to be done to find what the rocks actually are."
+"MailBody1C"	"October 18th, 2232 - Experiments begin on Monday. The atomic structure of the rock is like nothing that has ever been seen before."
+"MailBody1D"	"October 19th, 2232 - At first it was thought the rock is made solely out of electrons which were somehow tied together and not free. However, these 'electrons' appeared to be strange muons. New nuclear gauges are being developed to measure the real radioactivity of the rock. Every person that worked in the mine and on experiments is now isolated."
+"MailBody1E"	"October 23rd, 2232 - New nuclear gauges have been developed. As guessed, the rocks are two hundred times more radioactive than previously thought. It is still unknown why the muons are tied together and not escaping rapidly. The laboratory has been abandoned and declared an INES threat level of 5."
+"MailBody1F"	"October 29th, 2232 - Two weeks after the exposure of miners to the rocks - their breathing is very heavy and one person has died. People are still isolated, they have an 'infected' status."
+"MailBody1G"	"November 11th, 2232 - Last person who has been near the rock has died. However, dead bodies have not been decomposing. They seem to be fresh even after nearly a month."
+"MailBody1H"	"November 14th, 2232 - Radiation readings 15 kilometers away from the laboratory are growing rapidly. The reason for that is unknown. Did the rock start decaying faster? Why?"
+"MailBody1I"	"November 20th, 2232 - Authorities have sent a brave group of soldiers in new muon-protective suits to carry out investigations. Inside of the lab, such radioactivity levels have not been seen before. The temperature inside of the building has been growing since the isolation of it. It appears that higher temperatures accelerate the decay of the rock. Soldiers are questioning the reliability of their suits and their safety."
+"MailBody1J"	"November 22nd, 2232 - A mining company 'Tio Rinto' has provided some insight on the material that the rock is made of. 43 years ago they have encountered a material that starts decaying rapidly after being exposed to high temperatures. According to their logs, this material came from space in a meteor impact. If the rock made from the same material, it is expected to reach it's critical state on December 17th, 2232. The clock is running."
+"MailBody1K"	"Your IAF News subscription has expired. You can prolong your subscriptions at iafnews.space/subscription"
+}

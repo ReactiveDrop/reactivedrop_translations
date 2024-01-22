@@ -136,7 +136,7 @@
 "[english]item_community_medal_streamer_name"		"Streamer"
 "item_community_medal_streamer_name"		"Streamer"
 "[english]item_community_medal_streamer_description"		"Awarded by Reactive Drop Team for creating video content about Alien Swarm: Reactive Drop."
-"item_community_medal_streamer_description"		"Tilldelad av Reactive Drop Team för skapandet av video innehåll om Alien Swarm: Reactive Drop."
+"item_community_medal_streamer_description"		"Tilldelad av Reactive Drop Team för skapandet av videoinnehåll om Alien Swarm: Reactive Drop."
 
 // This medal's name is a pun on the Alien Swarm achievement 'Hat Trick', which awarded a TF2 hat for completing two missions in multiplayer.
 "[english]item_novelty_medal_reverse_hat_trick_name"		"Trick Hat"
@@ -144,7 +144,7 @@
 "[english]item_novelty_medal_reverse_hat_trick_description"		"The trick is, this isn't a hat or a medal. It's a commemorative sticker."
 "item_novelty_medal_reverse_hat_trick_description"		"Tricket är, det här är inte en hatt eller en medalj. Det är ett minnesmärke."
 "[english]item_novelty_medal_reverse_hat_trick_acquisition"		"Complete the Ready For Duty achievement in Team Fortress 2 to unlock."
-"item_novelty_medal_reverse_hat_trick_acquisition"		"Slutför Redo för tjänstgöring prestationen i Team Fortress 2 för att låsa upp."
+"item_novelty_medal_reverse_hat_trick_acquisition"		"Slutför Redo För Tjänstgöring prestationen i Team Fortress 2 för att låsa upp."
 // It's a sticker, but the item is tagged as "Medal" and it goes in the medal slot.
 "[english]item_novelty_medal_reverse_hat_trick_display_type"		"Medal…?"
 "item_novelty_medal_reverse_hat_trick_display_type"		"Medalj…?"
@@ -214,13 +214,13 @@
 "[english]item_achievement_medal_air_time_name"		"Air Time"
 "item_achievement_medal_air_time_name"		"Luft Tid"
 "[english]item_achievement_medal_air_time_description"		"Thrown in the air by the giant worm in Operation Sandstorm."
-"item_achievement_medal_air_time_description"		"Kastad upp i luften av en stor mask i Operation Sandstorm."
+"item_achievement_medal_air_time_description"		"Kastad upp i luften av den stora masken i Operation Sandstorm."
 "[english]item_achievement_medal_air_time_stat_worms_touched"		"Worms Touched"
 "item_achievement_medal_air_time_stat_worms_touched"		"Maskar Rörda"
 "[english]item_achievement_medal_infection_deathmatch_name"		"Containment Officer"
 "item_achievement_medal_infection_deathmatch_name"		"Inneslutningsofficer"
 "[english]item_achievement_medal_infection_deathmatch_description"		"Fought the zombie virus in Infection Deathmatch."
-"item_achievement_medal_infection_deathmatch_description"		"Slogs mot zombie viruset i Infection Deathmatch."
+"item_achievement_medal_infection_deathmatch_description"		"Slogs mot zombieviruset i Infection Deathmatch."
 "[english]item_achievement_medal_infection_deathmatch_disclaimer"		"Stats are only updated while this item is equipped in a match with at least five players."
 "item_achievement_medal_infection_deathmatch_disclaimer"		"Statistik uppdateras endast när detta föremål är utrustat i en match med åtminstone fem spelare."
 "[english]item_achievement_medal_infection_deathmatch_stat_survive"		"Rounds Survived"
