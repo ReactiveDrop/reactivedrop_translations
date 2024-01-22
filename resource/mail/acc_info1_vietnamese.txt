@@ -1,0 +1,10 @@
+GAME
+{
+// Inbox
+
+"MailFrom1"	"Từ: Leeroy Jackins"
+"MailDate1"	"Ngày: 20/06/32"
+"MailSubject1"	"Chủ đề: - &ẨN"
+"MailBody1A"	"Tôi vừa mới tìm ra hệ thống an ninh thông minh đằng sau hệ thống thư của AMBER và tôi đã hack được nó. Không lâu sau tôi sẽ gửi chính phủ tất cả các thông tin tôi sở hữu về AMBER. Hy vọng là tôi có thể sống sót cho tới khi có sự trợ cứu."
+"MailBody1B"	"Tôi đã làm việc cho AMBER kể từ khi nó được thành lập vào tháng 11 của năm 2230. Tôi là một trong số ít người mà đã sống sót, bởi vì Schmitz tin cậy tôi."
+}
