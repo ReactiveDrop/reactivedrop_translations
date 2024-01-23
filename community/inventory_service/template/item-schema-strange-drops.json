@@ -691,127 +691,127 @@
 			"bundle": "4009x5"
 		},
 		{
-			"itemdef": 7094,
+			"itemdefid": 7094,
 			"type": "generator",
 			"name": "Material Ultra-Common Carbon x0, x250, x500, x750, or x1000",
 			"bundle": "7056;7099;7100;7101;7102"
 		},
 		{
-			"itemdef": 7095,
+			"itemdefid": 7095,
 			"type": "generator",
 			"name": "Material Ultra-Common Carbon x0 or x125",
 			"bundle": "7056;7103"
 		},
 		{
-			"itemdef": 7096,
+			"itemdefid": 7096,
 			"type": "generator",
 			"name": "Material Ultra-Common Carbon x0, x25, x50, x75, or x100",
 			"bundle": "7056;7104;7105;7106;7107"
 		},
 		{
-			"itemdef": 7097,
+			"itemdefid": 7097,
 			"type": "generator",
 			"name": "Material Ultra-Common Carbon x0, x5, x10, x15, or x20",
 			"bundle": "7056;7108;7109;7110;7111"
 		},
 		{
-			"itemdef": 7098,
+			"itemdefid": 7098,
 			"type": "generator",
 			"name": "Material Ultra-Common Carbon x0-4; uniformly random",
 			"bundle": "7056;4010;7112;7113;7114"
 		},
 		{
-			"itemdef": 7099,
+			"itemdefid": 7099,
 			"type": "bundle",
 			"name": "Material Ultra-Common Carbon x250",
 			"bundle": "4010x250"
 		},
 		{
-			"itemdef": 7100,
+			"itemdefid": 7100,
 			"type": "bundle",
 			"name": "Material Ultra-Common Carbon x500",
 			"bundle": "4010x500"
 		},
 		{
-			"itemdef": 7101,
+			"itemdefid": 7101,
 			"type": "bundle",
 			"name": "Material Ultra-Common Carbon x750",
 			"bundle": "4010x750"
 		},
 		{
-			"itemdef": 7102,
+			"itemdefid": 7102,
 			"type": "bundle",
 			"name": "Material Ultra-Common Carbon x1000",
 			"bundle": "4010x1000"
 		},
 		{
-			"itemdef": 7103,
+			"itemdefid": 7103,
 			"type": "bundle",
 			"name": "Material Ultra-Common Carbon x125",
 			"bundle": "4010x125"
 		},
 		{
-			"itemdef": 7104,
+			"itemdefid": 7104,
 			"type": "bundle",
 			"name": "Material Ultra-Common Carbon x25",
 			"bundle": "4010x25"
 		},
 		{
-			"itemdef": 7105,
+			"itemdefid": 7105,
 			"type": "bundle",
 			"name": "Material Ultra-Common Carbon x50",
 			"bundle": "4010x50"
 		},
 		{
-			"itemdef": 7106,
+			"itemdefid": 7106,
 			"type": "bundle",
 			"name": "Material Ultra-Common Carbon x75",
 			"bundle": "4010x75"
 		},
 		{
-			"itemdef": 7107,
+			"itemdefid": 7107,
 			"type": "bundle",
 			"name": "Material Ultra-Common Carbon x100",
 			"bundle": "4010x100"
 		},
 		{
-			"itemdef": 7108,
+			"itemdefid": 7108,
 			"type": "bundle",
 			"name": "Material Ultra-Common Carbon x5",
 			"bundle": "4010x5"
 		},
 		{
-			"itemdef": 7109,
+			"itemdefid": 7109,
 			"type": "bundle",
 			"name": "Material Ultra-Common Carbon x10",
 			"bundle": "4010x10"
 		},
 		{
-			"itemdef": 7110,
+			"itemdefid": 7110,
 			"type": "bundle",
 			"name": "Material Ultra-Common Carbon x15",
 			"bundle": "4010x15"
 		},
 		{
-			"itemdef": 7111,
+			"itemdefid": 7111,
 			"type": "bundle",
 			"name": "Material Ultra-Common Carbon x20",
 			"bundle": "4010x20"
 		},
 		{
-			"itemdef": 7112,
+			"itemdefid": 7112,
 			"type": "bundle",
 			"name": "Material Ultra-Common Carbon x2",
 			"bundle": "4010x2"
 		},
 		{
-			"itemdef": 7113,
+			"itemdefid": 7113,
 			"type": "bundle",
 			"name": "Material Ultra-Common Carbon x3",
 			"bundle": "4010x3"
 		},
 		{
-			"itemdef": 7114,
+			"itemdefid": 7114,
 			"type": "bundle",
 			"name": "Material Ultra-Common Carbon x4",
 			"bundle": "4010x4"
