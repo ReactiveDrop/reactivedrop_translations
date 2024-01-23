@@ -15,7 +15,7 @@
 			"itemdefid": 7001,
 			"type": "bundle",
 			"name": "Playtime Random Material Tokens Weekly Bundle",
-			"description": "Grants tokens: 20-50 common or ultra-common, 5-10 uncommon, 1-5 rare, 10-30 regional",
+			"description": "Grants tokens: 20-50 common or ultra-common, 5-10 uncommon, 1-5 rare, 10-30 regional; ranges are biased towards middle",
 			"bundle": "7052x20;7057x30;7053x5;7058x5;7054x1;7059x4;7055x10;7060x20;7077"
 		},
 		{
@@ -31,7 +31,7 @@
 			"itemdefid": 7003,
 			"type": "bundle",
 			"name": "Playtime Random Material Tokens Extended Bundle",
-			"description": "Grants tokens: 5-10 common or ultra-common, 1-3 uncommon, 1 rare (10% chance), 2-5 regional",
+			"description": "Grants tokens: 5-10 common or ultra-common, 1-3 uncommon, 1 rare (10% chance), 2-5 regional; ranges are biased towards middle",
 			"bundle": "7052x5;7057x5;7053x1;7058x2;7061x1;7055x2;7060x3;7078"
 		},
 		{
@@ -230,7 +230,7 @@
 			"itemdefid": 7028,
 			"type": "bundle",
 			"name": "Material Redeem Common Scrap Metal",
-			"description": "Grants crafting material Scrap Metal x1-3",
+			"description": "Grants crafting material Scrap Metal x1-3; biased towards 2",
 			"exchange": "7004",
 			"bundle": "4002x1;7064x2"
 		},
@@ -238,7 +238,7 @@
 			"itemdefid": 7029,
 			"type": "bundle",
 			"name": "Material Redeem Common Electrical Components",
-			"description": "Grants crafting material Electrical Components x1-3",
+			"description": "Grants crafting material Electrical Components x1-3; biased towards 2",
 			"exchange": "7005",
 			"bundle": "4003x1;7065x2"
 		},
@@ -246,7 +246,7 @@
 			"itemdefid": 7030,
 			"type": "bundle",
 			"name": "Material Redeem Common Spare Pipe",
-			"description": "Grants crafting material Spare Pipe x1-3",
+			"description": "Grants crafting material Spare Pipe x1-3; biased towards 2",
 			"exchange": "7006",
 			"bundle": "4004x1;7066x2"
 		},
@@ -254,7 +254,7 @@
 			"itemdefid": 7031,
 			"type": "bundle",
 			"name": "Material Redeem Common Plastics",
-			"description": "Grants crafting material Plastics x1-3",
+			"description": "Grants crafting material Plastics x1-3; biased towards 2",
 			"exchange": "7007",
 			"bundle": "4005x1;7067x2"
 		},
@@ -262,7 +262,7 @@
 			"itemdefid": 7032,
 			"type": "bundle",
 			"name": "Material Redeem Common Coolant",
-			"description": "Grants crafting material Coolant x1-3",
+			"description": "Grants crafting material Coolant x1-3; biased towards 2",
 			"exchange": "7008",
 			"bundle": "4006x1;7068x2"
 		},
@@ -270,7 +270,7 @@
 			"itemdefid": 7033,
 			"type": "bundle",
 			"name": "Material Redeem Common Mini-Crate",
-			"description": "Grants crafting material Mini-Crate x1-3",
+			"description": "Grants crafting material Mini-Crate x1-3; biased towards 2",
 			"exchange": "7009",
 			"bundle": "4007x1;7069x2"
 		},
@@ -278,7 +278,7 @@
 			"itemdefid": 7034,
 			"type": "bundle",
 			"name": "Material Redeem Common Battery Pack",
-			"description": "Grants crafting material Battery Pack x1-3",
+			"description": "Grants crafting material Battery Pack x1-3; biased towards 2",
 			"exchange": "7010",
 			"bundle": "4008x1;7070x2"
 		},
@@ -286,17 +286,17 @@
 			"itemdefid": 7035,
 			"type": "bundle",
 			"name": "Material Redeem Ultra-Common Loose Wires",
-			"description": "Grants crafting material Loose Wires x100-300",
+			"description": "Grants crafting material Loose Wires x101-300; uniformly random",
 			"exchange": "7011",
-			"bundle": "4009x100;7062x200"
+			"bundle": "4009x101;7062"
 		},
 		{
 			"itemdefid": 7036,
 			"type": "bundle",
 			"name": "Material Redeem Ultra-Common Carbon",
-			"description": "Grants crafting material Carbon x250-1500",
+			"description": "Grants crafting material Carbon x251-1500; uniformly random",
 			"exchange": "7012",
-			"bundle": "4010x250;7063x1250"
+			"bundle": "4010x251;7063"
 		},
 		{
 			"itemdefid": 7037,
@@ -480,15 +480,15 @@
 		},
 		{
 			"itemdefid": 7062,
-			"type": "generator",
-			"name": "Material Ultra-Common Loose Wires x0 or x1",
-			"bundle": "4009;7056"
+			"type": "bundle",
+			"name": "Material Ultra-Common Loose Wires x0-199; uniformly random",
+			"bundle": "7079;7083;7084;7085"
 		},
 		{
 			"itemdefid": 7063,
-			"type": "generator",
-			"name": "Material Ultra-Common Carbon x0 or x1",
-			"bundle": "4010;7056"
+			"type": "bundle",
+			"name": "Material Ultra-Common Carbon x0-1249; uniformly random",
+			"bundle": "7094;7095;7096;7097;7098"
 		},
 		{
 			"itemdefid": 7064,
@@ -627,6 +627,222 @@
 			"notification_tags": "auto_delete_except_newest;action_create_lobby;action_find_lobby;action_singleplayer",
 			"tags": "slot:notification;notification:crafting",
 			"item_slot": "notification"
+		},
+		{
+			"itemdefid": 7079,
+			"type": "generator",
+			"name": "Material Ultra-Common Loose Wires x0, x50, x100, or x150",
+			"bundle": "7056;7080;7081;7082"
+		},
+		{
+			"itemdefid": 7080,
+			"type": "bundle",
+			"name": "Material Ultra-Common Loose Wires x50",
+			"bundle": "4009x50"
+		},
+		{
+			"itemdefid": 7081,
+			"type": "bundle",
+			"name": "Material Ultra-Common Loose Wires x100",
+			"bundle": "4009x100"
+		},
+		{
+			"itemdefid": 7082,
+			"type": "bundle",
+			"name": "Material Ultra-Common Loose Wires x150",
+			"bundle": "4009x150"
+		},
+		{
+			"itemdefid": 7083,
+			"type": "generator",
+			"name": "Material Ultra-Common Loose Wires x0, x10, x20, x30, or x40",
+			"bundle": "7056;7086;7087;7088;7089"
+		},
+		{
+			"itemdefid": 7084,
+			"type": "generator",
+			"name": "Material Ultra-Common Loose Wires x0-4; uniformly random",
+			"bundle": "7056;4009;7090;7091;7092"
+		},
+		{
+			"itemdefid": 7085,
+			"type": "generator",
+			"name": "Material Ultra-Common Loose Wires x0 or x5",
+			"bundle": "7056;7093"
+		},
+		{
+			"itemdefid": 7086,
+			"type": "bundle",
+			"name": "Material Ultra-Common Loose Wires x10",
+			"bundle": "4009x10"
+		},
+		{
+			"itemdefid": 7087,
+			"type": "bundle",
+			"name": "Material Ultra-Common Loose Wires x20",
+			"bundle": "4009x20"
+		},
+		{
+			"itemdefid": 7088,
+			"type": "bundle",
+			"name": "Material Ultra-Common Loose Wires x30",
+			"bundle": "4009x30"
+		},
+		{
+			"itemdefid": 7089,
+			"type": "bundle",
+			"name": "Material Ultra-Common Loose Wires x40",
+			"bundle": "4009x40"
+		},
+		{
+			"itemdefid": 7090,
+			"type": "bundle",
+			"name": "Material Ultra-Common Loose Wires x2",
+			"bundle": "4009x2"
+		},
+		{
+			"itemdefid": 7091,
+			"type": "bundle",
+			"name": "Material Ultra-Common Loose Wires x3",
+			"bundle": "4009x3"
+		},
+		{
+			"itemdefid": 7092,
+			"type": "bundle",
+			"name": "Material Ultra-Common Loose Wires x4",
+			"bundle": "4009x4"
+		},
+		{
+			"itemdefid": 7093,
+			"type": "bundle",
+			"name": "Material Ultra-Common Loose Wires x5",
+			"bundle": "4009x5"
+		},
+		{
+			"itemdef": 7094,
+			"type": "generator",
+			"name": "Material Ultra-Common Carbon x0, x250, x500, x750, or x1000",
+			"bundle": "7056;7099;7100;7101;7102"
+		},
+		{
+			"itemdef": 7095,
+			"type": "generator",
+			"name": "Material Ultra-Common Carbon x0 or x125",
+			"bundle": "7056;7103"
+		},
+		{
+			"itemdef": 7096,
+			"type": "generator",
+			"name": "Material Ultra-Common Carbon x0, x25, x50, x75, or x100",
+			"bundle": "7056;7104;7105;7106;7107"
+		},
+		{
+			"itemdef": 7097,
+			"type": "generator",
+			"name": "Material Ultra-Common Carbon x0, x5, x10, x15, or x20",
+			"bundle": "7056;7108;7109;7110;7111"
+		},
+		{
+			"itemdef": 7098,
+			"type": "generator",
+			"name": "Material Ultra-Common Carbon x0-4; uniformly random",
+			"bundle": "7056;4010;7112;7113;7114"
+		},
+		{
+			"itemdef": 7099,
+			"type": "bundle",
+			"name": "Material Ultra-Common Carbon x250",
+			"bundle": "4010x250"
+		},
+		{
+			"itemdef": 7100,
+			"type": "bundle",
+			"name": "Material Ultra-Common Carbon x500",
+			"bundle": "4010x500"
+		},
+		{
+			"itemdef": 7101,
+			"type": "bundle",
+			"name": "Material Ultra-Common Carbon x750",
+			"bundle": "4010x750"
+		},
+		{
+			"itemdef": 7102,
+			"type": "bundle",
+			"name": "Material Ultra-Common Carbon x1000",
+			"bundle": "4010x1000"
+		},
+		{
+			"itemdef": 7103,
+			"type": "bundle",
+			"name": "Material Ultra-Common Carbon x125",
+			"bundle": "4010x125"
+		},
+		{
+			"itemdef": 7104,
+			"type": "bundle",
+			"name": "Material Ultra-Common Carbon x25",
+			"bundle": "4010x25"
+		},
+		{
+			"itemdef": 7105,
+			"type": "bundle",
+			"name": "Material Ultra-Common Carbon x50",
+			"bundle": "4010x50"
+		},
+		{
+			"itemdef": 7106,
+			"type": "bundle",
+			"name": "Material Ultra-Common Carbon x75",
+			"bundle": "4010x75"
+		},
+		{
+			"itemdef": 7107,
+			"type": "bundle",
+			"name": "Material Ultra-Common Carbon x100",
+			"bundle": "4010x100"
+		},
+		{
+			"itemdef": 7108,
+			"type": "bundle",
+			"name": "Material Ultra-Common Carbon x5",
+			"bundle": "4010x5"
+		},
+		{
+			"itemdef": 7109,
+			"type": "bundle",
+			"name": "Material Ultra-Common Carbon x10",
+			"bundle": "4010x10"
+		},
+		{
+			"itemdef": 7110,
+			"type": "bundle",
+			"name": "Material Ultra-Common Carbon x15",
+			"bundle": "4010x15"
+		},
+		{
+			"itemdef": 7111,
+			"type": "bundle",
+			"name": "Material Ultra-Common Carbon x20",
+			"bundle": "4010x20"
+		},
+		{
+			"itemdef": 7112,
+			"type": "bundle",
+			"name": "Material Ultra-Common Carbon x2",
+			"bundle": "4010x2"
+		},
+		{
+			"itemdef": 7113,
+			"type": "bundle",
+			"name": "Material Ultra-Common Carbon x3",
+			"bundle": "4010x3"
+		},
+		{
+			"itemdef": 7114,
+			"type": "bundle",
+			"name": "Material Ultra-Common Carbon x4",
+			"bundle": "4010x4"
 		}
 	]
 }
