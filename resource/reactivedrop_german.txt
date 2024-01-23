@@ -10026,8 +10026,8 @@
 "[english]rd_notification_filter_reports_desc"		"Non-critical notifications about reports."
 "rd_notification_filter_reports_desc"		"Benachrichtigungen über Berichte."
 
-		"[english]rd_hoiaf_bounty_title"		"Mission bounties available."
-		"rd_hoiaf_bounty_title"		"Einsatzprämien verfügbar."
+"[english]rd_hoiaf_bounty_title"		"Mission bounties available."
+"rd_hoiaf_bounty_title"		"Einsatzprämien verfügbar."
 "[english]rd_hoiaf_bounty_desc"		"Complete each of these missions on a participating Heroes of the Interstellar Armed Forces server within the time limit to receive bonus points."
 "rd_hoiaf_bounty_desc"		"Schließe jeden dieser Einsätze auf einem teilnehmenden HoIAF-Server innerhalb des Zeitlimits ab, um Bonuspunkte zu erhalten."
 "[english]rd_hoiaf_bounty_fully_claimed"		"All bonuses claimed!"
