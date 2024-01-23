@@ -8,10 +8,10 @@
 | [Dutch](#non-curated-languages) | 53 | 2004 | 42 | 3089 | 258 | 207 | 710 | 147 |
 | [Finnish](#non-curated-languages) | ✔️ | 2004 | 41 | 3003 | 259 | 207 | 701 | 147 |
 | [French](#french-français) | 29 | 138 | 42 | 2454 | 257 | 207 | 650 | 126 |
-| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | 1 | ✔️ | ✔️ | ✔️ | ✔️ |
+| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Hungarian](#non-curated-languages) | 53 | 138 | 42 | 3089 | 258 | 207 | 975 | 148 |
 | [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | 10 | ✔️ | 1 | ✔️ | 2 |
-| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | 1 | ✔️ | ✔️ | 102 | ✔️ |
+| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 102 | ✔️ |
 | [Korean](#koreana-한국어) | 9 | 10 | 38 | 1585 | 258 | 29 | 446 | 49 |
 | [Norwegian Bokmål](#non-curated-languages) | 71 | 708 | 47 | 3795 | 258 | 207 | 710 | 148 |
 | [Polish](#polish-polski) | 30 | 2004 | 42 | 3089 | 258 | 207 | 706 | 144 |
@@ -582,9 +582,7 @@
 
 </summary>
 
-### Strings
-
-- [reactivedrop_german.txt](resource/reactivedrop_german.txt) has 1 untranslated strings.
+✓ Up to date!
 
 </details>
 
@@ -616,7 +614,6 @@
 
 - [misc/signage/signage_japanese.vdf](misc/signage/signage_japanese.vdf) has 67 untranslated strings.
 - [platform/vgui_japanese.txt](platform/vgui_japanese.txt) has 35 untranslated strings.
-- [reactivedrop_japanese.txt](resource/reactivedrop_japanese.txt) has 1 untranslated strings.
 
 </details>
 
