@@ -1,0 +1,26 @@
+GAME
+{
+// pda belongs to Ed Savage
+
+"MailFrom1"		"Từ: Nicholas Gray"
+"MailDate1"		"Ngày: 22/11/28"
+"MailSubject1"	"Chủ đề: SynTek lại làm thế nữa rồi"
+"MailBody1A"	"Lần này SynTek đang yêu cầu tọa độ liên sao cho vùng núi lửa. Vì lý do nào đó mà khu vực đó nói riêng đã khơi gợi sự quan tâm của họ. Họ chưa bao giờ thấy một núi lửa à? Rất nhiều hành tinh có chúng."
+"MailBody1B"	"Dù sao đi nữa tôi chắc chắn nó là không có gì đâu, nhưng nó lạ về tại sao SynTek đang cố dính dáng ở trong chiến dịch này."
+"MailBody1C"	"Và một điều nữa, trước khi chúng tôi mở học viện cho công chúng sử dụng, họ đang yêu cầu để chẩn đoán các cổng dịch chuyển của chúng tôi để đảm bảo rằng chúng \"bảo tồn ý thức"\. Tôi phải công nhận họ, đó là một lo ngại hợp lệ. Không có muốn đi qua các cổng dịch chuyển đó bởi chính mình trước khi tôi biết chúng là an toàn."
+
+"MailFrom2"		"Từ: Brian Howe"
+"MailDate2"		"Ngày: 15/02/29"
+"MailSubject2"	"Chủ đề: Re: Yêu cầu đóng kín Vùng 3"
+"MailBody2A"	"Xin lỗi vì đã phản hồi muộn ông Savage"
+"MailBody2B"	"Thay mặt cho SynTek, chúng tôi thực sự rất tiếc cho sự mất mát quân lính của ông. Zone 3 đã được đóng kín."
+"MailBody2C"	"Về phương án thay thế được đề xuất của ông, chúng tôi không đồng ý - chiều không gian hư không cực kỳ khó để truy cập và sẽ yêu cầu các cổng dịch chuyển đắt tiền. Bên cạnh đó, các quân lính có thể bị phân tâm trong chiều không gian đó, nếu ông hiểu ý chúng tôi."
+"MailBody2D"	"          - Tin nhắn đã được chuyển tiếp từ [SynTek] bởi [Brian Howe]"
+
+"MailFrom3"		"Tới: SynTek"
+"MailDate3"		"Ngày: 10/01/29"
+"MailSubject3"	"Chủ đề: Yêu cầu đóng kín Vùng 3"
+"MailBody3A"	"Nhóm thử nghiệm 3 đã báo cáo một sự sụp đổ vùng 3 vì sự va chạm tiểu hành tinh."
+"MailBody3B"	"Nguyên nhân khả thi: sự sử dụng vật liệu nặng đã làm chệch hướng quỹ đạo phi thuyền."
+"MailBody3C"	"Thay thế khả thi: chiều không gian hư không."
+}

@@ -1,0 +1,21 @@
+GAME
+{
+// PDA belongs to Kate Larson
+
+// Inbox
+
+"MailFrom1"	"Từ: Brad Irwing"
+"MailDate1"	"Ngày: 19/03/31"
+"MailSubject1"	"Chủ đề: ĐỌC TÔI phần 1 &ẨN"
+"MailBody1A"	"Kate, tôi đang viết thư này tới chị. Tôi mong là chị nhìn thấy nó. Sau cuộc thí nghiệm vào ngày 14 tháng 3 Bác sĩ trưởng đã chặn tài khoản mail của tôi và đã liên tục giám sát tôi, bởi vì ông ấy sợ rằng tôi sẽ lan truyền các kết quả của thí nghiệm. Tôi đang gửi thư này tới chính tài khoản tôi với hy vọng là chị sẽ đọc nó."
+"MailBody1B"	"Hank đã bị giết bởi Tướng quân Schmitz vì hắn đã hành động một cách hoảng hốt. Hắn có một lý do để hành động một cách hoảng hốt. Cuộc thí nghiệm đã cho thấy các kết quả rất là đáng sợ, điều mà Hank đã cố chia sẻ."
+"MailBody1C"	"Chúng tôi đã phát hiện ra 2 thông tin sau khi tiến hành cuộc thí nghiệm này."
+"MailBody1D"	"Trước hết, chúng tôi đã phát hiện ra rằng tiêu bản màu đỏ 2'15'15'13'5'18, tên mã BOOMER, có khả năng miễn dịch với nhiệt độ cực kỳ cao."
+
+"MailFrom2"	"Từ: Brad Irwing"
+"MailDate2"	"Ngày: 19/03/31"
+"MailSubject2"	"Chủ đề: ĐỌC TÔI phần 2 &ẨN"
+"MailBody2A"	"Nhưng có một điều còn đáng sợ hơn nhiều mà chúng tôi đã phát hiện ra. Chúng tôi nhận thấy rằng tiêu bản 8'1'18'22, tên mã HARVESTER, có thể sinh ra tiêu bản 24'5'14'15, tên mã XENOMITE, chỉ trong vài giây. Điều mà thật đáng sợ, bởi vì vào tháng 1 chúng tôi đã phát hiện ra rằng các XENONITE có thể đẻ trứng, mà sau đó đột biến thành tiêu bản 16'1'18'1, tên mã KÝ SINH TRÙNG."
+"MailBody2B"	"Kate, tôi đang có dự định để trốn thoát khỏi cơ sở này, những gì mà chúng tôi đang làm là không đúng. Chúng tôi nên chia sẻ thông tin này với chính phủ. Và nếu không có ai đồng ý với tôi, TÔI SẼ TỰ LÀM ĐIỀU ĐÓ."
+"MailBody2C"	"Kính trọng, Brad"
+}

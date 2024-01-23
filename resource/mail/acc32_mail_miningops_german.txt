@@ -5,11 +5,11 @@ GAME
 "MailSubject1"	"Betreff: Bergbauarbeiten"
 "MailBody1A"	"Die Strahlungswerte von Glenkor waren korrekt. Wir haben eine ungewöhnliche Menge an Strahlung in einer Höhle unter einem Kanal östlich von J7 Knoten gefunden."
 "MailBody1B"	"Quelle der Strahlung - seltsame transparente Felsen. Sie sind wie beschlagenes Glas, aber sehr zäh. Es tut weh, wenn ich sie in der Hand halte."
-"MailBody1C"	"Der größte Würfel, den wir bisher gefunden haben, ist etwa 7,5 Zentimeter groß. Es war schwierig, ihn aus der Höhlendecke zu bekommen, wir mussten ihn in zwei Teile zerlegen."
+"MailBody1C"	"Das größte Exemplar, das wir bisher gefunden haben ist würfelförmig und in etwa 7,5 Zentimeter weit. Es war schwierig, ihn aus der Höhlendecke zu bekommen, wir mussten ihn in zwei Teile zerlegen."
 "MailBody1D"	"Jose Dunclub"
 "MailFrom2"	"Von: Betriebsnachrichten [Jose Dunclub]"
 "MailDate2"	"Datum: 17. Okt 2232"
 "MailSubject2"	"Betreff: Großer Junge"
-"MailBody2A"	"Wow, ein Riesenfund! Du wirst es nicht glauben - über 2 Meter hoch und breit, 100 Meter unter dem Eingang der Höhle. Aber keine Ahnung, wie wir ihn wieder herausbekommen sollen. Sollen wir überhaupt?"
+"MailBody2A"	"Wow, ein Riesenfund! Du wirst es nicht glauben - über 2 Meter hoch und breit, 100 Meter unter dem Eingang der Höhle. Aber keine Ahnung, wie wir ihn herausbekommen sollen. Sollen wir überhaupt?"
 "MailBody2B"	"Jose Dunclub"
 }

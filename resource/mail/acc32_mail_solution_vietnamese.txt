@@ -1,0 +1,19 @@
+GAME
+{
+// Inbox
+
+"MailFrom1"	"Từ: Tin tức vận hành [Richard]"
+"MailDate1"	"Ngày: 24/11/32"
+"MailSubject1"	"Chủ đề: Giải pháp"
+"MailBody1A"	"Tôi đề nghị là chúng ta từ từ giải giam hãm nguyên toàn bộ cơ sở, bắt đầu từ phía Nam. Không khí lạnh trong lành sẽ ùa vào và thực hiện mục đích của nó trong một vài ngày. Tôi trinh sát rằng mức độ bức xạ được thả ra sẽ không có quá cao trong môi trường. Chúng ta vẫn có thể sơ tán các ngôi nhà ở gần cho sự an toàn của họ."
+"MailBody1B"	"Richard"
+
+// Sent
+
+"MailFrom1"	"Tới: Richard"
+"MailDate1"	"Ngày: 24/11/32"
+"MailSubject1"	"Chủ đề: Re: Giải pháp"
+"MailBody1A"	"Ông \"trinh sát\" cái quái gì vậy?! Ông bị mất trí rồi hả? Ai đã thuê ông? Lần trước cơ sở này không được giam hãm, mức độ bức xạ đã là mức gây chết người trong khu vực với bán kính là 15 kilômét, tính từ phòng thí nghiệm. Bây giờ mức độ là gấp ba hoặc có thể thậm chí gấp bốn lần."
+"MailBody1B"	"Cảm ơn vì lời khuyên Chuyên nghiệp của ông nhưng không, chúng tôi sẽ không cân nhắc đi giết bất kỳ người nào. Chúng tôi sẽ lắp đặt các biện pháp làm mát bên trong."
+"MailBody1C"	"Quản trị"
+}
