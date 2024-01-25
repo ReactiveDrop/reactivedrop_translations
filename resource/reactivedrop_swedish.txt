@@ -4667,7 +4667,7 @@
 "asw_hint_lanasvent_4"		"Tätningsdörrar avaktiverade"
 // as_sci5_complex OBJECTIVES
 "[english]asw_ob_lanascomplex_1t"		"Obtain security codes"
-"asw_ob_lanascomplex_1t"		Få tag på säkerhetskoder"
+"asw_ob_lanascomplex_1t"		"Få tag på säkerhetskoder"
 		"[english]asw_ob_lanascomplex_1"		"Download landing security codes in order to allow the Bloodhound to get past automated air defenses and come for extraction."
 		"asw_ob_lanascomplex_1"		"Download landing security codes in order to allow the Bloodhound to get past automated air defenses and come for extraction."
 "[english]asw_ob_lanascomplex_2t"		"Nuclear warhead"
