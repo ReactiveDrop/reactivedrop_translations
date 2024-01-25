@@ -13,6 +13,6 @@
 "asw_credits_"	"distribuera ditt eget innehåll för"
 "asw_credits_"	"Alien Swarm finns på "
 "asw_credits_"	"Alien Swarm sektion av"
-"asw_credits_"	"Valve Skapar Wiki"
+"asw_credits_"	"Valve Utvecklare Wiki"
 "asw_credits_"	"http://developer.valvesoftware.com/"
 }
