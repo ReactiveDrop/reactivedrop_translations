@@ -21,7 +21,7 @@
 | [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 1 |
 | [European Spanish](#spanish-español-de-españa) | 30 | 2004 | 40 | 2504 | 258 | 207 | 714 | 147 |
 | [Latin American Spanish](#latam-español-latinoamericano) | 1283 | 2004 | 634 | 4600 | 258 | 211 | 980 | 148 |
-| [Swedish](#swedish-svenska) | ✔️ | 2003 | ✔️ | 2027 | ✔️ | ✔️ | ✔️ | 115 |
+| [Swedish](#swedish-svenska) | ✔️ | 2003 | ✔️ | 1892 | ✔️ | ✔️ | ✔️ | 115 |
 | [Thai](#non-curated-languages) | 968 | 1993 | 50 | 4336 | 258 | 207 | 739 | 148 |
 | [Turkish](#non-curated-languages) | 53 | 137 | 42 | 3089 | 258 | 207 | 975 | 148 |
 | [Ukrainian](#ukrainian-українська) | 29 | 131 | 32 | 2632 | 258 | 207 | 933 | 147 |
@@ -1499,7 +1499,7 @@
 ### Strings
 
 - [closecaption_swedish.txt](resource/closecaption_swedish.txt) has 2003 untranslated strings.
-- [reactivedrop_swedish.txt](resource/reactivedrop_swedish.txt) has 2027 untranslated strings.
+- [reactivedrop_swedish.txt](resource/reactivedrop_swedish.txt) has 1892 untranslated strings.
 
 ### Mail and News
 
