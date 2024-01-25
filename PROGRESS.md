@@ -10,7 +10,7 @@
 | [French](#french-français) | 29 | 138 | 42 | 2454 | 257 | 207 | 650 | 126 |
 | [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Hungarian](#non-curated-languages) | 53 | 138 | 42 | 3089 | 258 | 207 | 975 | 148 |
-| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | 10 | ✔️ | 1 | ✔️ | 2 |
+| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 102 | ✔️ |
 | [Korean](#koreana-한국어) | 9 | 10 | 38 | 1585 | 258 | 29 | 446 | 49 |
 | [Norwegian Bokmål](#non-curated-languages) | 71 | 708 | 47 | 3795 | 258 | 207 | 710 | 148 |
@@ -592,15 +592,7 @@
 
 </summary>
 
-### Strings
-
-- [statsweb_italian.vdf](community/stats_website/statsweb_italian.vdf) has 1 untranslated strings.
-- [reactivedrop_italian.txt](resource/reactivedrop_italian.txt) has 10 untranslated strings.
-
-### Upcoming Release Notes
-
-- [20240125_italian.xml](release_notes/20240125_english.xml) is missing.
-- [20240201_italian.xml](release_notes/20240201_english.xml) is missing.
+✓ Up to date!
 
 </details>
 
