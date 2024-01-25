@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<content><string id="body">L'aggiornamento di questo mese include [url=https://store.steampowered.com/news/app/563560/view/3994197038602903068]cambiamenti importanti per Eroi delle Forze Armate Interstellari[/url], oltre ad alcune modifiche al bilanciamento della modalità Deathmatch Infezione e a diverse altre correzioni.
+
+[h2]Missioni[/h2]
+[list]
+[*][b]Lacrime per Tarnor: Spazioporto della Colonia di Oasis:[/b] Corretto un pezzo di soffitto solido alle granate vicino all'ufficio di sicurezza e ai metal detector.
+[*][b]Lacrime per Tarnor: Spazioporto della Colonia di Oasis:[/b] Il soffitto tra l'hangar e il ritiro dei bagagli è stato fatto svanire prima per non distrarre l'attenzione.
+[*]Aggiunta una soluzione per i suoni mancanti nella missione del Workshop The Gauntlet: Artic.
+[/list]
+
+[h2]Armi[/h2]
+[list]
+[*]È stato risolto un problema di animazione che causava lo spostamento della mira verso destra poco dopo l'inizio dell'animazione di ricarica, causando colpi mancati dopo una ricarica rapida riuscita su armi come il Fucile a Rotaia di Precisione.
+[*]È stato risolto il problema delle armi appena sbloccate, il cui indicatore "nuovo" veniva rimosso quando si sbloccava un'altra arma e poi si chiudeva e riapriva il gioco, invece di essere rimosso solo quando l'arma veniva selezionata nel briefing, come previsto.
+[/list]
+
+[h2]Lobby[/h2]
+[list]
+[*]I voti del leader e di espulsione non vengono più azzerati al riavvio istantaneo.
+[*]Impedito che il riavvio istantaneo venga utilizzato più di una volta ogni 3 secondi (asw_instant_restart_cooldown). Non si applica ai riavvii istantanei eseguiti dopo che la schermata di missione completata/fallita inizia a svanire.
+[*]Corretto un bug visivo che faceva apparire la sfida cambiata in "cmd_change_challenge" quando si usciva dal sottomenu di selezione delle sfide subito dopo averlo aperto nella schermata di creazione della lobby.
+[/list
+
+[h2]Varie[/h2]
+[list]
+[*]Aggiunto un elenco di notifiche e impostazioni di filtraggio al menu principale.
+[*]Aggiunto il supporto per il grassetto e il corsivo nelle descrizioni degli oggetti dell'inventario in gioco.
+[*]Aggiunto rd_vindicator_fire_rate. Se 0, utilizzerà il comportamento precedente che prevede l'ereditarietà della cadenza di fuoco dal fucile a pompa.
+[*]Corretta la possibilità che i medici gridino di aver finito le medicine quando usano il comando "Zing!".
+[*]È stato risolto un raro arresto anomalo che poteva verificarsi dopo la registrazione delle statistiche al termine di una missione legata all'imminente beta dei materiali di crafting.
+[/list]]
+
+[h2]Sfida Deathmatch Infezione[/h2]
+[list]
+[*]Il bonus ai danni delle granate per fucile viene ora calcolato dopo il calcolo della forza di abbattimento.
+[*]Diminuito il danno delle granate per fucile.
+[*]Aumento massiccio della forza d'urto dei razzi.
+[*]Aumento del danno dei razzi.
+[*]I danni subiti durante la fase di preparazione sono ora immediatamente guariti.
+[*]I danni da combustione degli umani contro gli zombi ora ricevono un bonus ai danni, indipendentemente dal fatto che la fonte della combustione sia una mina incendiaria.
+[*]Le sentinelle costruite ora vengono eliminate immediatamente.
+[*]Consentito alla console del server (e agli script di sfida) di utilizzare i comandi della console della modalità di gioco deathmatch (oltre al leader della lobby).
+[/list]</string><string id="subtitle"></string><string id="summary"></string><string id="title">Aggiornamento di Alien Swarm: Reactive Drop - 1 Febbraio 2024</string></content>
