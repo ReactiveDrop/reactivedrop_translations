@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <content><string id="body">本次更新包括 [url=https://store.steampowered.com/news/app/563560/view/3994197038602903068]《星际武装部队英雄榜》的重大规则更新[/url]，以及一些生化模式的平衡性改动和其它几个修复。
 
-		[h2]A note on Lag Compensation[/h2]
-		The internet doesn't transmit information instantly. Information can only travel at the speed of light, and sometimes the speed of light is just too slow. For example, if a player from Frankfurt joins a lobby hosted in Beijing, even if their computers were directly connected by a very long wire, information would take 50 milliseconds to get from Frankfurt to Beijing and back. In reality, the information needs to travel much further than the 15500 km round trip because the information doesn't move in a straight line.
+[h2]关于延迟补偿的说明[/h2]
+互联网无法瞬间完成数据传输。物理定律决定了信息最大也只能以光速传播，而现实是光速在长距离通信中往往还不够快。假如一名在美国法兰克福的玩家连接到位于中国北京的服务器，哪怕他们之间直接用光纤连接，数据包从法兰克福到北京再返回法兰克福也需要在路上跑至少50ms。实际上数据包来回的距离远不止两地的直线距离15500km。
 
-		When you fire a bullet, the information travels a long distance through complicated circuits before it even leaves your computer, and then it spends time traveling through a series of other computers before it finally reaches the one hosting the lobby. But that's not the end of the journey. Once the lobby host has figured out what your bullet did, that information needs to travel back to you and every other player in your lobby. By the time your bullet reaches the lobby host, the alien you were shooting might have moved! But game engines have a few tricks up their sleeves to hide this from you, and because they can't shorten the physical distance the information needs to travel, they do something easier: time travel!
+当你在游戏中开了一枪后，相关的数据需要先在你电脑庞大的电路中跑很长一段距离才能离开你的电脑。之后它还要途径互联网上多个路由节点才能到达主机电脑。这还没完，主机在计算出子弹是否命中等结果后，相应的数据包还需要经历类似的过程，发送到你和其他玩家的电脑。这也就意味着，当你开枪的数据包到达主机时，异形的位置很可能已经发生了变化！对此，游戏引擎使用了一些技术手段来让你尽可能察觉不到这个滞后。游戏引擎不是万能的，它无法缩短你和主机的地理距离，它的选择是：让子弹飞一会儿！
 
-		The information about the bullet you fired doesn't wait until it gets to the host and back before it shows something on your screen. First, the game running on your computer pretends the information about the bullet made a round trip to the host instantly. This is called "prediction" because the game "predicts" what the host will say happened. Prediction is shown in red in the images below.
+你射出去的那发子弹不会原地等待主机的回复确认后才显示在你的屏幕上。首先，游戏客户端会模拟计算子弹是否能击中。这一步被叫做“预测”，即预测主机的计算/判定结果。下图红色部分代表客户端的预测结果。
 
-		Second, when the information about the bullet reaches the host, the characters in the game [b]move back in time[/b] to check where your bullet would have hit. This is called "lag compensation", and is shown in blue in the images below.
+其次，当数据包抵达主机后，游戏内角色会[b]回退[/b]至子弹射出的时刻，从而判断子弹能否击中目标。这一步被叫做“延迟补偿”，如下图蓝色部分所示。
 
 [img]{STEAM_CLAN_IMAGE}/27357479/425a4e8d4330cc9628e3e924dfab3cab575580ae.png[/img]
-		[i]Alien Swarm and Alien Swarm: Reactive Drop (prior to this update) lag compensation algorithm, shown with 300ms simulated round trip ping and default settings.[/i]
+[i]《异形丛生》及《异形丛生: 虫启天降》(在本次更新前)的延迟补偿算法示意，以300ms往返延迟及默认游戏设置为例。[/i]
 
-		That's not good! If the drone hadn't been moving toward Vegas, he would have completely missed the shot! The lobby host rewound time, but it didn't do a very good job.
+这种算法效果差强人意。比如说，如果爪虫不是冲着赌徒而来，他就极有可能打空！哪怕主机将时间回退再做计算判定也还不能完美解决问题。
 
-		Here's what that shot will look like after this update:
+下图展示了本次更新引入的新算法：
 
 [img]{STEAM_CLAN_IMAGE}/27357479/c7440efa1232f45764d0970537c88ac1f7cf9e63.png[/img]
-		[i]Alien Swarm: Reactive Drop (as of this update) lag compensation algorithm, shown with 300ms simulated round trip ping and default settings.[/i]
+[i]《异形丛生: 虫启天降》(在本次更新后)的延迟补偿算法，以300ms往返延迟及默认游戏设置为例。[/i]
 
-		Much better! If you have a configuration that sets cl_lagcompensation 0, we recommend removing that command as it means the lobby host won't time travel at all when you fire a bullet. [i]The hotfix a week ago inadvertently marked cl_lagcompensation as a cheat; it can now be changed freely when not connected to a lobby.[/i]
+新算法相较旧算法有了长足进步！如果您设置了 cl_lagcompensation 0，我们建议您删除它，它会告诉主机在处理您的数据包时禁用延迟补偿算法(不回退)。[i]一周前的热更新不小心把 cl_lagcompensation 标记为了作弊，如今当不在房间内时可以随意修改了。[/i]
 
-		Want to try it out for yourself? Use the newly-added [b]sv_showimpacts 1[/b] command.
+如果您想自行对比测试新旧算法，可以使用新添加的 [b]sv_showimpacts 1[/b] 命令。
 
 [h2]任务[/h2]
 [list]
