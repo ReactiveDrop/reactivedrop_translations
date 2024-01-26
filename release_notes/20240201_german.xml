@@ -1,6 +1,29 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <content><string id="body">Das diesmonatige Update enthält [url=https://store.steampowered.com/news/app/563560/view/3994197038602903068]einige große Änderungen an Helden der interstellaren Streitkräfte[/url], sowie einige Balanceänderungen für den Modus Infektion Deathmatch und verschiedene andere Korrekturen.
 
+		[h2]A note on Lag Compensation[/h2]
+		The internet doesn't transmit information instantly. Information can only travel at the speed of light, and sometimes the speed of light is just too slow. For example, if a player from Frankfurt joins a lobby hosted in Beijing, even if their computers were directly connected by a very long wire, information would take 50 milliseconds to get from Frankfurt to Beijing and back. In reality, the information needs to travel much further than the 15500 km round trip because the information doesn't move in a straight line.
+
+		When you fire a bullet, the information travels a long distance through complicated circuits before it even leaves your computer, and then it spends time traveling through a series of other computers before it finally reaches the one hosting the lobby. But that's not the end of the journey. Once the lobby host has figured out what your bullet did, that information needs to travel back to you and every other player in your lobby. By the time your bullet reaches the lobby host, the alien you were shooting might have moved! But game engines have a few tricks up their sleeves to hide this from you, and because they can't shorten the physical distance the information needs to travel, they do something easier: time travel!
+
+		The information about the bullet you fired doesn't wait until it gets to the host and back before it shows something on your screen. First, the game running on your computer pretends the information about the bullet made a round trip to the host instantly. This is called "prediction" because the game "predicts" what the host will say happened. Prediction is shown in red in the images below.
+
+		Second, when the information about the bullet reaches the host, the characters in the game [b]move back in time[/b] to check where your bullet would have hit. This is called "lag compensation", and is shown in blue in the images below.
+
+[img]{STEAM_CLAN_IMAGE}/27357479/425a4e8d4330cc9628e3e924dfab3cab575580ae.png[/img]
+		[i]Alien Swarm and Alien Swarm: Reactive Drop (prior to this update) lag compensation algorithm, shown with 300ms simulated round trip ping and default settings.[/i]
+
+		That's not good! If the drone hadn't been moving toward Vegas, he would have completely missed the shot! The lobby host rewound time, but it didn't do a very good job.
+
+		Here's what that shot will look like after this update:
+
+[img]{STEAM_CLAN_IMAGE}/27357479/c7440efa1232f45764d0970537c88ac1f7cf9e63.png[/img]
+		[i]Alien Swarm: Reactive Drop (as of this update) lag compensation algorithm, shown with 300ms simulated round trip ping and default settings.[/i]
+
+		Much better! If you have a configuration that sets cl_lagcompensation 0, we recommend removing that command as it means the lobby host won't time travel at all when you fire a bullet. [i]The hotfix a week ago inadvertently marked cl_lagcompensation as a cheat; it can now be changed freely when not connected to a lobby.[/i]
+
+		Want to try it out for yourself? Use the newly-added [b]sv_showimpacts 1[/b] command.
+
 [h2]Einsätze[/h2]
 [list]
 [*][b]Tränen für Tarnor: Oasis-Kolonie Raumhafen:[/b] In der Nähe des Sicherheitsbüros und der Metalldetektoren wurde ein Stück der Decke repariert das Granaten blockierte.
