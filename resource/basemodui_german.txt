@@ -569,7 +569,7 @@
 "[english]L4D360UI_MainMenu_FriendsPlaying"		"Friends Playing: %s1"
 "L4D360UI_MainMenu_FriendsPlaying"		"Freunde im Spiel: %s1"
 "[english]L4D360UI_MainMenu_PublicLobbies"		"Public Lobbies: %s1"
-"L4D360UI_MainMenu_PublicLobbies"		"Öffentliche Lobbies: %s1"
+"L4D360UI_MainMenu_PublicLobbies"		"Öffentliche Lobbys: %s1"
 // %s1 is the number of public user-hosted lobbies with at least one empty slot. displays in the scrolling server list on the main menu.
 "[english]L4D360UI_MainMenu_PublicLobbies_More"		"...and %s1 more!"
 "L4D360UI_MainMenu_PublicLobbies_More"		"...und %s1 mehr!"
@@ -1779,7 +1779,7 @@
 "[english]L4D360UI_FoundPublicGames_Filter_Campaign_InstalledAddOn_Tip"		"Filter for games that are only using installed add-on campaigns."
 "L4D360UI_FoundPublicGames_Filter_Campaign_InstalledAddOn_Tip"		"Filtern nach Spielen oder Lobbys mit installierten Erweiterungen."
 "[english]L4D360UI_FoundPublicGames_Filter_Campaign_NotInstalledAddOn_Tip"		"Filter for games that are only using not installed add-on campaigns."
-"L4D360UI_FoundPublicGames_Filter_Campaign_NotInstalledAddOn_Tip"		"Nach Spielen oder Lobbies filtern, die nur nicht installierte Workshop-Feldzüge bieten."
+"L4D360UI_FoundPublicGames_Filter_Campaign_NotInstalledAddOn_Tip"		"Nach Spielen oder Lobbys filtern, die nur nicht installierte Workshop-Feldzüge bieten."
 
 //Controller Screen
 "[english]L4D360UI_Controller_Title"		"CONTROLLER OPTIONS (%s1)"
