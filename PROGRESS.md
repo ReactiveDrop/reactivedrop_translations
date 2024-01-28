@@ -8,10 +8,10 @@
 | [Dutch](#non-curated-languages) | 53 | 2004 | 42 | 3089 | 258 | 207 | 710 | 146 |
 | [Finnish](#non-curated-languages) | ✔️ | 2004 | 41 | 3003 | 259 | 207 | 701 | 146 |
 | [French](#french-français) | 29 | 138 | 42 | 2454 | 257 | 207 | 650 | 125 |
-| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 1 |
+| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Hungarian](#non-curated-languages) | 53 | 138 | 42 | 3089 | 258 | 207 | 975 | 147 |
-| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 1 |
-| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 102 | 1 |
+| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
+| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 102 | ✔️ |
 | [Korean](#koreana-한국어) | 9 | 10 | 38 | 1585 | 258 | 29 | 446 | 48 |
 | [Norwegian Bokmål](#non-curated-languages) | 71 | 708 | 47 | 3795 | 258 | 207 | 710 | 147 |
 | [Polish](#polish-polski) | 30 | 2004 | 42 | 3089 | 258 | 207 | 706 | 143 |
@@ -579,9 +579,7 @@
 
 </summary>
 
-### Upcoming Release Notes
-
-- [20240201_german.xml](release_notes/20240201_german.xml) has 11 indented lines.
+✓ Up to date!
 
 </details>
 
@@ -591,9 +589,7 @@
 
 </summary>
 
-### Upcoming Release Notes
-
-- [20240201_italian.xml](release_notes/20240201_italian.xml) has 11 indented lines.
+✓ Up to date!
 
 </details>
 
@@ -607,10 +603,6 @@
 
 - [misc/signage/signage_japanese.vdf](misc/signage/signage_japanese.vdf) has 67 untranslated strings.
 - [platform/vgui_japanese.txt](platform/vgui_japanese.txt) has 35 untranslated strings.
-
-### Upcoming Release Notes
-
-- [20240201_japanese.xml](release_notes/20240201_japanese.xml) has 11 indented lines.
 
 </details>
 
