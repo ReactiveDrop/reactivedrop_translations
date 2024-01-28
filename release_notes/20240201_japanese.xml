@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <content><string id="body">今月のアップデートには[url=https://store.steampowered.com/news/app/563560/view/3994197038602903068]Interstellar Armed Forcesの英雄たちに関する大きな変更[/url]が含まれている他、感染デスマッチモードのバランス変更やその他様々な修正がされています。
 
-		[h2]A note on Lag Compensation[/h2]
-		The internet doesn't transmit information instantly. Information can only travel at the speed of light, and sometimes the speed of light is just too slow. For example, if a player from Frankfurt joins a lobby hosted in Beijing, even if their computers were directly connected by a very long wire, information would take 50 milliseconds to get from Frankfurt to Beijing and back. In reality, the information needs to travel much further than the 15500 km round trip because the information doesn't move in a straight line.
+[h2]ラグ補正に関する解説[/h2]
+インターネットは情報を瞬時に伝えているわけではありません。最大でも光の速度であり、それでも遅いと感じる場合もあります。例としては、ドイツのフランクフルトから中国の北京にあるコンピューターがホストするロビーに参加する場合、ホストとクライアントが1本のとてつもない長さの回線だけで直接接続されたとしても、往復で50ms(0.05秒)はかかってしまいます。更に実際には、情報は直線では伝えられず、往復で15500キロ以上の距離を移動することになります。
 
-		When you fire a bullet, the information travels a long distance through complicated circuits before it even leaves your computer, and then it spends time traveling through a series of other computers before it finally reaches the one hosting the lobby. But that's not the end of the journey. Once the lobby host has figured out what your bullet did, that information needs to travel back to you and every other player in your lobby. By the time your bullet reaches the lobby host, the alien you were shooting might have moved! But game engines have a few tricks up their sleeves to hide this from you, and because they can't shorten the physical distance the information needs to travel, they do something easier: time travel!
+ゲーム内で弾丸を発射した時、その情報はクライアントのパソコン内から出る前にすら複雑な回路を長距離動き回り、ロビーをホストするコンピューターに届くまでにもいくつものコンピューターを時間をかけて通っていくことになります。しかもそれで終わりではありません。ホストコンピューターが弾丸が発射された情報を受け取ったら、その情報をロビーにいる他の人も含む全プレイヤーに返す事になります。弾丸の情報がホストコンピューターに届くまでに、狙っていたエイリアンは移動しているかも！でもゲームエンジンにはそのラグを見えなくするための秘策が仕込まれています。情報を伝達する距離を短くするのは無理なので、もっと簡単な解決方法を使いました。すなわち『タイムトラベル』です！
 
-		The information about the bullet you fired doesn't wait until it gets to the host and back before it shows something on your screen. First, the game running on your computer pretends the information about the bullet made a round trip to the host instantly. This is called "prediction" because the game "predicts" what the host will say happened. Prediction is shown in red in the images below.
+まずクライアントの画面では発射された弾丸に関する情報はホスト間との往復を待たずに処理が行われます。最初に、ゲームクライアントはホストとの情報交換が瞬時に行われたものと仮定して、弾丸が発射されそれによって起こる事を処理します。ホストがどう返すかをクライアントが『予測』しているのです。下の画像の赤の部分が『予測』の動きを表示したものです。
 
-		Second, when the information about the bullet reaches the host, the characters in the game [b]move back in time[/b] to check where your bullet would have hit. This is called "lag compensation", and is shown in blue in the images below.
+次に、実際にホストに弾丸の情報が届いた時、ゲーム内のキャラクター達の[b]時間を巻き戻して[/b]弾丸が当たったかどうかを判定します。これを『ラグ補正』と呼び、下の画像の青の部分がその判定を表示したものです。
 
 [img]{STEAM_CLAN_IMAGE}/27357479/425a4e8d4330cc9628e3e924dfab3cab575580ae.png[/img]
-		[i]Alien Swarm and Alien Swarm: Reactive Drop (prior to this update) lag compensation algorithm, shown with 300ms simulated round trip ping and default settings.[/i]
+[i]Alien Swarm及びAlien Swarm: Reactive Drop(今回のアップデートの前まで)のラグ補正アルゴリズムを使用し、設定はデフォルトのままで300msのラグがあるという仮定でのシミュレーション。[/i]
 
-		That's not good! If the drone hadn't been moving toward Vegas, he would have completely missed the shot! The lobby host rewound time, but it didn't do a very good job.
+これじゃ駄目ですね！ドローンが真っ直ぐにVegasに向かって進まなければ、弾は全然当たりません！時間を巻き戻してはいましたが、しっかりできていたとはとても言えません。
 
-		Here's what that shot will look like after this update:
+今回のアップデート以降はどうなるかを御覧ください:
 
 [img]{STEAM_CLAN_IMAGE}/27357479/c7440efa1232f45764d0970537c88ac1f7cf9e63.png[/img]
-		[i]Alien Swarm: Reactive Drop (as of this update) lag compensation algorithm, shown with 300ms simulated round trip ping and default settings.[/i]
+[i]Alien Swarm: Reactive Drop(今回のアップデート以降)のラグ補正アルゴリズムを使用し、設定はデフォルトのままで300msのラグがあるという仮定でのシミュレーション。[/i]
 
-		Much better! If you have a configuration that sets cl_lagcompensation 0, we recommend removing that command as it means the lobby host won't time travel at all when you fire a bullet. [i]The hotfix a week ago inadvertently marked cl_lagcompensation as a cheat; it can now be changed freely when not connected to a lobby.[/i]
+以前よりずっと良くなりましたね！設定ファイルなどでcl_lagcompensation 0と指定している場合、その部分を削除する事を推奨します。そうしないと射撃のタイムトラベルは全く行われなくなってしまいます。[i]先週のhotfixでうっかりcl_lagcompensationのコマンドをチート扱いにしていたので、ロビーに接続中でなければいつでも変更可能なように戻しました。[/i]
 
-		Want to try it out for yourself? Use the newly-added [b]sv_showimpacts 1[/b] command.
+『予測』がどんな動きをしているか実際に見たいですか？その場合は[b]sv_showimpacts 1[/b]というコマンドを追加したのでお試しください。
 
 [h2]ミッション[/h2]
 [list]
