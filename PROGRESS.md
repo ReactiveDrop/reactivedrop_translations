@@ -21,7 +21,7 @@
 | [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 1 |
 | [European Spanish](#spanish-español-de-españa) | 30 | 2004 | 40 | 2504 | 258 | 207 | 714 | 146 |
 | [Latin American Spanish](#latam-español-latinoamericano) | 1283 | 2004 | 634 | 4600 | 258 | 211 | 980 | 147 |
-| [Swedish](#swedish-svenska) | ✔️ | 2003 | ✔️ | 1892 | ✔️ | ✔️ | ✔️ | 116 |
+| [Swedish](#swedish-svenska) | ✔️ | 2003 | ✔️ | 1724 | ✔️ | ✔️ | ✔️ | 114 |
 | [Thai](#non-curated-languages) | 968 | 1993 | 50 | 4336 | 258 | 207 | 739 | 147 |
 | [Turkish](#non-curated-languages) | 53 | 137 | 42 | 3089 | 258 | 207 | 975 | 147 |
 | [Ukrainian](#ukrainian-українська) | 29 | 131 | 32 | 2632 | 258 | 207 | 933 | 146 |
@@ -1482,7 +1482,7 @@
 ### Strings
 
 - [closecaption_swedish.txt](resource/closecaption_swedish.txt) has 2003 untranslated strings.
-- [reactivedrop_swedish.txt](resource/reactivedrop_swedish.txt) has 1892 untranslated strings.
+- [reactivedrop_swedish.txt](resource/reactivedrop_swedish.txt) has 1724 untranslated strings.
 
 ### Upcoming Release Notes
 
@@ -1505,8 +1505,6 @@
 - [mail/acc_research1_swedish.txt](resource/mail/acc_research1_english.txt) is missing.
 - [mail/acc_research2_swedish.txt](resource/mail/acc_research2_english.txt) is missing.
 - [mail/acc_research3_swedish.txt](resource/mail/acc_research3_english.txt) is missing.
-- [mail/biogen_mail_windows_swedish.txt](resource/mail/biogen_mail_windows_english.txt) is missing.
-- [mail/labsmail1_swedish.txt](resource/mail/labsmail1_english.txt) is missing.
 - [mail/labsmail2_swedish.txt](resource/mail/labsmail2_english.txt) is missing.
 - [mail/labsmail3_swedish.txt](resource/mail/labsmail3_english.txt) is missing.
 - [mail/labsmail4_swedish.txt](resource/mail/labsmail4_english.txt) is missing.
