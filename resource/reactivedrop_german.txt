@@ -2128,7 +2128,7 @@
 "[english]asw_cain_mail_3"		"Lt. Cain,"
 "asw_cain_mail_3"		"Lt. Cain,"
 "[english]asw_cain_mail_4"		"We've received your message and will take the necessary precautions."
-"asw_cain_mail_4"		"wir haben Ihre Nachricht erhalten und wir werden die nötigen Vorsichtsmaßnahmen vornehmen."
+"asw_cain_mail_4"		"Wir haben Ihre Nachricht erhalten und wir werden die nötigen Vorsichtsmaßnahmen vornehmen."
 "[english]asw_cain_mail_5"		"We have a carrier en route to Vereon XII to collect Delivery 4903877."
 "asw_cain_mail_5"		"Wir haben einen Frachter, der auf dem Weg zu Vereon XII ist, um Lieferung 4903877 aufzunehmen."
 "[english]asw_cain_mail_6"		"ETA 14 days."
