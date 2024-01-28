@@ -1,0 +1,14 @@
+GAME
+{
+// PDA belongs to Helen Young
+
+// Inbox
+
+"MailFrom1"	"Från: Shaun Ming"
+"MailDate1"	"Datum: 12/22/52"
+"MailSubject1"	"Ämne: Framsteg"
+"MailBody1A"	"Kära Helen,"
+"MailBody1B"	"Jag är på gränsen till en av de största upptäckterna under de senaste 200 åren. Jag har analyserat den genetiska koden för de organiska proverna vi hittade. Datan jag har samlat in stöder min teori om hur den främmande livsformen kan växa och föröka sig så snabbt. Jag tror att katalysatorn för snabb vävnadsgenerering är varmt levande kött!"
+"MailBody1C"	"Jag vill att du är här för att se det här. Jag vet att du skulle uppskatta det. Jag ska försöka få dig SynTek-tillstånd för laboratoriet. Ses snart."
+"MailBody1D"	"Shaun"
+}
