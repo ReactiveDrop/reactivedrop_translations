@@ -2140,7 +2140,10 @@
 "ASW_Custom_Music_Col_Genre"	"Genre"
 "ASW_Custom_Music_Col_Artist"	"Artist"
 "ASW_Custom_Music_Col_Album"	"Album"
+// context: Hardcore Brutal Onslaught
 "nb_onslaught_title"	"Onslaught"
+// context: Onslaught: Enabled
+"nb_onslaught_setting"	"Onslaught"
 // context: Hardcore Brutal Onslaught
 "nb_hardcore_title"	"Hardcore"
 "nb_friendly_fire_title"	"Friendly Fire"
@@ -4892,6 +4895,82 @@
 "rd_reporting_error_http"	"An error occurred while sending the report. (Code %s1)"
 // shown above the final message generated during the process of sending a report
 "rd_reporting_finished_title"	"Report Status"
+
+// shown if a quick report was already sent
+"rd_quick_report_already_commended"	"(already commended)"
+"rd_quick_report_already_reported"	"(already reported)"
+// row labels
+"rd_quick_report_commend"	"Commend"
+"rd_quick_report_report"	"Report"
+// label for button in the player list
+"rd_quick_report_commend_or_report"	"Report or commend"
+// commend for being friendly
+"rd_quick_report_friendly"	"Friendly"
+"rd_quick_report_friendly_confirm"	"Commend %s1 for being friendly?"
+// commend for being a good leader
+"rd_quick_report_leader"	"Leader"
+"rd_quick_report_leader_confirm"	"Commend %s1 for being a leader?"
+// commend for being a good teacher
+"rd_quick_report_teacher"	"Teacher"
+"rd_quick_report_teacher_confirm"	"Commend %s1 for being a teacher?"
+// report for cheating
+"rd_quick_report_cheating"	"Cheating"
+"rd_quick_report_cheating_confirm"	"Report %s1 for cheating using third party software?"
+// report for abusive gameplay
+"rd_quick_report_gameplay"	"Griefing"
+"rd_quick_report_gameplay_confirm"	"Report %s1 for griefing or other abusive gameplay?"
+// report for abusive communication
+"rd_quick_report_communication"	"Communication"
+"rd_quick_report_communication_confirm"	"Report %s1 for abusive communication?"
+
+"rd_reporting_title"	"Report a Problem"
+"rd_reporting_category_my_account"	"My Account"
+"rd_reporting_category_my_account_desc"	"An issue with stats, achievements, or items; for example, a missing medal."
+"rd_reporting_category_server"	"Dedicated Server"
+"rd_reporting_category_server_desc"	"An issue with a community-hosted dedicated server."
+"rd_reporting_category_player"	"Another Player"
+"rd_reporting_category_player_desc"	"Inform Reactive Drop Team about another player's behavior."
+"rd_reporting_category_bug"	"Game Bug"
+"rd_reporting_category_bug_desc"	"Report a bug in Alien Swarm: Reactive Drop."
+"rd_reporting_category_other"	"Other"
+"rd_reporting_category_other_desc"	"Any issue that does not fit into the other categories."
+// should have the same capitalization style as nb_back
+"rd_reporting_resume"	"RESUME INTERRUPTED REPORT"
+"rd_reporting_subcategory_server_technical"	"Technical Issue"
+"rd_reporting_subcategory_server_abuse"	"Abusive Server"
+"rd_reporting_subcategory_server_other"	"Other"
+"rd_reporting_subcategory_player_cheating"	"Cheating"
+"rd_reporting_subcategory_player_abusive_gameplay"	"Abusive Gameplay"
+"rd_reporting_subcategory_player_abusive_communication"	"Abusive Communication"
+"rd_reporting_subcategory_player_commend"	"Commend Player / Other"
+// TODO
+"rd_reporting_instructions_my_account"	""
+"rd_reporting_instructions_server_technical"	""
+"rd_reporting_instructions_server_abuse"	""
+"rd_reporting_instructions_server_other"	""
+"rd_reporting_instructions_player_cheating"	""
+"rd_reporting_instructions_player_abusive_gameplay"	""
+"rd_reporting_instructions_player_abusive_communication"	""
+"rd_reporting_instructions_player_commend"	""
+"rd_reporting_instructions_game_bug"	""
+"rd_reporting_instructions_other"	""
+"rd_reporting_includes"	"The report you are sending will include:"
+"rd_reporting_includes_your_account_id"	"Your Steam account ID."
+"rd_reporting_includes_other_account_id"	"The Steam ID of the account you are reporting."
+"rd_reporting_includes_message"	"The message you wrote above."
+"rd_reporting_includes_witness_list"	"A list of other players in the lobby as witnesses."
+"rd_reporting_includes_mission"	"The currently selected mission and challenge."
+"rd_reporting_includes_server_ip"	"The IP address of the dedicated server."
+"rd_reporting_includes_screenshot"	"The screenshot shown above."
+// the quality information includes (all of these are numbers):
+// - in-game time since map loaded on server
+// - average ping
+// - choke
+// - packet loss
+// - number of packets sent/received per second
+// - client and server FPS
+"rd_reporting_includes_connection_quality"	"Some simple statistics about your recent network connection quality."
+"rd_reporting_only_team"	"Only Reactive Drop Team will see your report. It will not be shared directly with other players."
 
 // these are tab names
 "rd_settings_controls"	"Controls"
