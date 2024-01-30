@@ -1,0 +1,14 @@
+GAME
+{
+// PDA belongs to Kate Larson
+
+// Sent
+
+"MailFrom1"	"Tới: Brad Irwing"
+"MailDate1"	"Ngày: 02/04/31"
+"MailSubject1"	"Chủ đề: TRẢ LỜI TÔI! &ẨN"
+"MailBody1A"	"Tại sao cậu lại trốn thoát? Chuyện gì đã xảy ra vậy? NÓI CHO TÔI! Cậu có nhận ra rằng cậu không thể làm thế không? Đại úy Bark và Bác sĩ trưởng đang tìm kiếm cậu và họ không có vui đâu. Bác sĩ trưởng đang đáp ứng một cách hung hãn tới câu hỏi của tôi, có lẽ ông ấy đang giấu cái gì? Thực ra là, tất cả mọi người đều hành động một cách kỳ lạ."
+"MailBody1B"	"Cậu đã bỏ chạy sau cuộc thí nghiệm của bạn vào tháng 3, cậu đã phát hiện được gì? Tôi đang lo lắng lắm. Tôi mong cậu không có ý định để nói cho công cộng hoặc thậm chí tệ hơn, chính phủ, về các bí mật của cơ sở chúng ta. Thông tin này sẽ gây một tình trạng hỗn loạn to lớn trên toàn thế giới. Trung úy Wanman và Tướng quân Schmitz sẽ gặp rắc rối sâu sắc và phải chịu trách nhiệm gây ra một vụ bê bối quốc tế."
+"MailBody1C"	"Tái bút: Retller đang ở đâu? Tôi không thể tìm thấy anh ấy, có thể hắn sẽ đưa cho tôi một số thông tin? Tôi biết cả hai cậu là đồng nghiệp tốt kể từ thời thơ ấu."
+"MailBody1D"	"Kate"
+}

@@ -1,0 +1,14 @@
+GAME
+{
+// pda belongs to Maxwell Fierze
+
+"MailFrom1"		"Từ: Quân đoàn quân lính"
+"MailDate1"		"Ngày: 26/12/28"
+"MailSubject1"	"Chủ đề: Sự trông thấy kỳ lạ tại Vùng rừng"
+"MailBody1A"	"Các lính mới của chúng tôi, nhóm thử nghiệm số 3, đã báo cáo một số sự trông thấy kỳ lạ tại vùng rừng, mô tả của họ: các bóng ma trông hình người to lớn ở trong bầu trời."
+
+"MailFrom2"		"Từ: Quân đoàn quân lính"
+"MailDate2"		"Ngày: 09/01/29"
+"MailSubject2"	"Chủ đề: Bi kịch Vùng động cơ vũ trụ"
+"MailBody2A"	"Nhóm thử nghiệm số 3 của chúng tôi đã đã học được một cách khó khăn là vùng số 3, các động cơ vũ trụ, đã bị đập bởi một tiểu hành tinh. Vùng này cần một sự thay thế. Dùng cổng dịch chuyển dẫn đến bị mắc cạn trong không gian với không có cách để quay trở lại."
+}

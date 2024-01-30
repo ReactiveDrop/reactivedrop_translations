@@ -1,0 +1,12 @@
+GAME
+{
+// Inbox
+
+"MailFrom1"	"Từ: Xavier Plumes"
+"MailDate1"	"Ngày: 14/12/32"
+"MailSubject1"	"Chủ đề: Tình huống &ẨN"
+"MailBody1A"	"Hôm qua kỹ sư trưởng Nathan Poe đã bị giết bởi lời yêu cầu của Tướng quân sau khi bị bắt khi đang lan truyền thông tin về Sự bùng phát bọ phá hoại trong Khu vực nghiên cứu và mức độ nghiêm trọng của tình huốn trong Khu vực ngầm."
+"MailBody1B"	"Tình huống ngày càng trở nên tồi tệ hơn kể từ khi Máy phản ứng ngừng hoạt động vào tháng 9. Ngày càng có nhiều bọ bắt đầu bò ra ngoài ống thông gió và mọi người bắt đầu hoãn loạn."
+"MailBody1C"	"Một cuộc bảo loạn đã xảy ra 3 tuần trước và hầu hết mọi nhân sự đã bị bắn, bao gồm cả tôi. Tôi đã ẩn nấp ở trong văn phòng của tôi và đã tắt các tua bin, cũng đã hàn cửa của tôi. Tôi đang chảy máu và tôi nghe thấy một đàn bọ ngoài hành tinh ở sau cửa tôi, điều đó là tốt, bởi vì người từ AMBER sẽ không thể bắt được tôi. Tôi biết là tôi sẽ chết sớm thôi."
+"MailBody1D"	"Trong vài tháng nữa thế giới sẽ biết sự thật về AMBER. Hy vọng là quân đội cử đi một vài người để cứu tất cả các công nhân tội nghiệp ở đây mà đã bị bắt làm nô lệ, bị cô lập khỏi thế giới và khiến cuộc sống của họ gặp nguy hiểm nghiêm trọng."
+}

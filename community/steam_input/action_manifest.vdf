@@ -21,7 +21,7 @@
 		{
 			"0"
 			{
-				"path"	"generic.vdf"
+				"path"	"steam_deck.vdf"
 			}
 		}
 
@@ -30,7 +30,7 @@
 		{
 			"0"
 			{
-				"path"	"generic.vdf"
+				"path"	"steam_deck.vdf"
 			}
 		}
 
@@ -59,7 +59,7 @@
 		{
 			"0"
 			{
-				"path"	"generic.vdf"
+				"path"	"steam_deck.vdf"
 			}
 		}
 	}

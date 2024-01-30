@@ -1,0 +1,19 @@
+GAME
+{
+// Inbox
+
+"MailFrom1"	"Từ: Hank Retller"
+"MailDate1"	"Ngày: 23/03/31"
+"MailSubject1"	"Chủ đề: NGHE NÀY MỌI NGƯỜI phần 1 &ẨN"
+"MailBody1A"	"Tôi, HD, Brad và Orion đã tiến hành một cuộc thí nghiệm để kiểm tra khả năng miễn dịch với nhiệt độ cao của tiêu bản. Chúng tôi đã nhận được kết quả gây sốc. Các HARVESTER được kích thích bởi nhiệt độ cao, điều mà cho phép cơ thể của chúng tạo ra rất nhiều XENOMITE."
+"MailBody1B"	"Khi Khu vực nghiên cứu đã được xây dựng vào tháng 7 năm ngoái, Tôi đã thấy một con HAVESTER thoát ra tới các lỗ thông hơi, điều mà tôi nghĩ là chẳng có gì để sợ ngại cả và tôi đã chưa nói với ai về điều đó."
+"MailBody1C"	"Tôi đã SAI! Tôi đáng lẽ phải nói với mọi người, ĐÂY LÀ LỖI TẠI TÔI. Các XENOMITE được tạo bởi các HARVESTER đẻ trứng mà sau đó nở ra thành một phiên bản đột biến, đáng sợ hơn nhiều của XENOMITE."
+
+"MailFrom2"	"Từ: Hank Retller"
+"MailDate2"	"Ngày: 23/03/31"
+"MailSubject2"	"Chủ đề: NGHE NÀY MỌI NGƯỜI phần 2 &ẨN"
+"MailBody2A"	"Tụi bây có nhận ra điều này nghĩa là gì không!? Con HARVESTER mà đã trốn thoát tới các lỗ thông hơi đã có nhiều thời gian để tạo ra MỘT THUỘC ĐỊA KHỔNG LỒ TRONG KHU VỰC NGẦM."
+"MailBody2B"	"Tôi đã nói điều này với Trung úy Wanman và ông ấy đã cử đi một đội gồm 23 quân lính để đi điều tra khu vực ngầm. TỪNG NGƯỜI MỘT TRONG SỐ HỌ ĐÃ CHẾT."
+"MailBody2C"	"TẤT CẢ CHÚNG TA ĐANG NGẶP NGUY CƠ NGHIÊM TRỌNG, đang có ít nhất một vài trăm tiêu bản 95 đã trưởng thành đầy đủ ngay dưới chân chúng ta."
+"MailBody2D"	"Tôi sẽ cố lan truyền thông tin này tới càng nhiều nhà khoa học và kỹ sư đang làm việc tại Khu vực phát điện, và tôi không quan tâm nếu tôi bị trừng phạt, THẾ GIỚI CẦN BIẾT ĐIỀU NÀY!"
+}

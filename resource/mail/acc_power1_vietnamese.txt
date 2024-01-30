@@ -1,0 +1,12 @@
+GAME
+{
+// Sent
+
+"MailFrom1"	"Tới: Jacob Stankiewich"
+"MailDate1"	"Ngày: 04/01/31"
+"MailSubject1"	"Chủ đề: Re: Thông tin từ Retller &ẨN"
+"MailBody1A"	"Ừ, ông Retller đã nói với tôi về sự bùng phát rồi, tin rùng rợn. Gần đây tôi thực sự đã nhìn thấy một vài con bọ nhỏ bé ở trong lỗ thông gió, nhưng là một anh chàng cứng rắn, tôi đã tự xử lý tình huống."
+"MailBody1B"	"Chúng ta phải thông báo cho lầu một về điều này, nhưng đó dễ để nói hơn là để làm. Đó có thể sẽ mất một vài tháng, hoặc có thể là năm. Chúng ta đã bị sử dụng bởi các lũ cặn bã này tại AMBER, chúng ta không thể làm được bất cứ điều gì về nó, họ sẽ giết chúng ta. Cái tên chó đẻ khốn nạn, cái này cảm thấy như là tù vậy. Cho bây giờ hãy hành động như ông không biết bất cứ điều gì."
+"MailBody1C"	"Tái bút: Ông đã tìm ra lý do khiến nhiệt độ tăng đột ngột tại Lõi 2B chưa? Tôi nghĩ nó có thể là vì các bọ. Nếu nó xảy ra lần nữa chúng ta sẽ buộc phải đóng Máy phản ứng, điều đó có nghĩa là Khu vực ngầm đã bị tiêu rồi."
+"MailBody1D"	"Nate"
+}

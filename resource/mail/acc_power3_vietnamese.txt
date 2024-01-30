@@ -1,0 +1,13 @@
+GAME
+{
+// PDA belongs to Leonid Toptunov
+
+// Sent
+
+"MailFrom1"	"Tới: Nathan Poe"
+"MailDate1"	"Ngày: 25/08/32"
+"MailSubject1"	"Chủ đề: Sự mất ổn định của máy phản ứng &ẨN"
+"MailBody1A"	"Mày nói là mày sẽ đóng máy phản ứng nếu như nhiệt độ lại đột ngột trở nên bất ổn, nhưng đó là một lời nói giối khốn nạn! Nó đã là bất ổn kể từ tháng 5 và tao không biết tại sao Máy phản ứng vẫn chưa phát nổ!"
+"MailBody1B"	"CHÚNG TA CẦN PHẢI ĐÓNG MÁY PHẢN ỨNG NGAY BÂY GIỜ! Tao đéo quan tâm về sự bùng nổ tiêu bản trong Khu vực 3 và 4 và AMBER nói gì về nguy cơ về sự phá hoại của bọ, Máy phản ứng là mối quan tâm chính của chúng ta ngay bây giờ."
+"MailBody1C"	"Với sự trân trọng như con đĩ, Leonid Toptunov"
+}
