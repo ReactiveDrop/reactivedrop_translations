@@ -1,17 +1,17 @@
 # Overview
 | Language | basemodui | closecaption | gameui | reactivedrop | items | statsweb | Strings | Files |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [Simplified Chinese](#schinese-简体中文) | 2 | ✔️ | ✔️ | 46 | ✔️ | ✔️ | ✔️ | ✔️ |
+| [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Traditional Chinese](#tchinese-繁體中文) | 13 | 141 | 33 | 2999 | 252 | 207 | 236 | 146 |
 | [Czech](#czech-čeština) | 75 | 1810 | 42 | 4139 | 258 | 207 | 980 | 146 |
 | [Danish](#non-curated-languages) | 56 | 231 | 42 | 3667 | 258 | 207 | 710 | 147 |
 | [Dutch](#non-curated-languages) | 55 | 2004 | 42 | 3135 | 258 | 207 | 710 | 146 |
 | [Finnish](#non-curated-languages) | 2 | 2004 | 41 | 3049 | 259 | 207 | 701 | 146 |
 | [French](#french-français) | 31 | 138 | 42 | 2500 | 257 | 207 | 650 | 125 |
-| [German](#german-deutsch) | 2 | ✔️ | ✔️ | 46 | ✔️ | ✔️ | ✔️ | ✔️ |
+| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Hungarian](#non-curated-languages) | 55 | 138 | 42 | 3135 | 258 | 207 | 975 | 147 |
 | [Italian](#italian-italiano) | 2 | ✔️ | ✔️ | 46 | ✔️ | ✔️ | ✔️ | ✔️ |
-| [Japanese](#japanese-日本語) | 2 | ✔️ | ✔️ | 46 | ✔️ | ✔️ | 102 | ✔️ |
+| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 102 | ✔️ |
 | [Korean](#koreana-한국어) | 11 | 10 | 38 | 1631 | 258 | 29 | 446 | 48 |
 | [Norwegian Bokmål](#non-curated-languages) | 73 | 708 | 47 | 3841 | 258 | 207 | 710 | 147 |
 | [Polish](#polish-polski) | 32 | 2004 | 42 | 3135 | 258 | 207 | 706 | 143 |
@@ -40,10 +40,7 @@
 
 </summary>
 
-### Strings
-
-- [basemodui_schinese.txt](resource/basemodui_schinese.txt) has 2 untranslated strings.
-- [reactivedrop_schinese.txt](resource/reactivedrop_schinese.txt) has 46 untranslated strings.
+✓ Up to date!
 
 </details>
 
@@ -582,10 +579,7 @@
 
 </summary>
 
-### Strings
-
-- [basemodui_german.txt](resource/basemodui_german.txt) has 2 untranslated strings.
-- [reactivedrop_german.txt](resource/reactivedrop_german.txt) has 46 untranslated strings.
+✓ Up to date!
 
 </details>
 
@@ -612,8 +606,6 @@
 
 - [misc/signage/signage_japanese.vdf](misc/signage/signage_japanese.vdf) has 67 untranslated strings.
 - [platform/vgui_japanese.txt](platform/vgui_japanese.txt) has 35 untranslated strings.
-- [basemodui_japanese.txt](resource/basemodui_japanese.txt) has 2 untranslated strings.
-- [reactivedrop_japanese.txt](resource/reactivedrop_japanese.txt) has 46 untranslated strings.
 
 </details>
 
