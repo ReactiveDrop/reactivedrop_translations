@@ -20,7 +20,7 @@
 | [Romanian](#non-curated-languages) | 55 | 1996 | 48 | 3847 | 258 | 207 | 975 | 147 |
 | [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [European Spanish](#spanish-español-de-españa) | 32 | 2004 | 40 | 2550 | 258 | 207 | 714 | 146 |
-| [Latin American Spanish](#latam-español-latinoamericano) | 1285 | 2004 | 634 | 4647 | 258 | 211 | 980 | 147 |
+| [Latin American Spanish](#latam-español-latinoamericano) | 1285 | 2004 | 634 | 4647 | 258 | 211 | 980 | 144 |
 | [Swedish](#swedish-svenska) | 2 | 2003 | ✔️ | 1770 | ✔️ | ✔️ | ✔️ | 114 |
 | [Thai](#non-curated-languages) | 970 | 1993 | 50 | 4382 | 258 | 207 | 739 | 147 |
 | [Turkish](#non-curated-languages) | 55 | 137 | 42 | 3135 | 258 | 207 | 975 | 147 |
@@ -1312,15 +1312,9 @@
 
 ### Steam Store and Community
 
-- [eula_latam.txt](community/eula/eula_english.txt) is missing.
 - [app_items_563560_latam.json](community/points_shop/app_items_563560_english.json) is missing.
 - [workshop_tags_latam.json](community/workshop/workshop_tags_english.json) is missing.
-- [content_warning_563560_latam.txt](store_page/content_warning_563560_english.txt) is missing.
 - [storepage_81731_latam.json](store_page/storepage_81731_english.json) is missing.
-
-### Upcoming Release Notes
-
-- [20240201_latam.xml](release_notes/20240201_english.xml) is missing.
 
 ### Credits
 
