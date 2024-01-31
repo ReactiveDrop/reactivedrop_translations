@@ -1073,6 +1073,7 @@
 "asw_speech_careful"	"Be careful"
 "asw_speech_ready"	"Ready?"
 "asw_speech_smile"	"*smile*"
+// Your character will say an random idle-chatter line. Here's a list of possible outcomes https://github.com/ReactiveDrop/reactivedrop_public_src/blob/b504905b4eda1270b1836ecdd46520f7513b0072/src/game/server/swarm/asw_marine_speech.cpp#L873
 "asw_speech_zing"	"Zing!"
 
 "asw_cain_mail_0"	"Transmission From: SynTek Research Station 7"
