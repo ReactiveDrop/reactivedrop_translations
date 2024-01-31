@@ -42,7 +42,7 @@
 [*]Ledar- och kickröster återställs inte längre vid omedelbar omstart.
 [*]Förhindrade att omedelbar omstart användes mer än en gång var tredje sekund (asw_instant_restart_cooldown). Gäller inte omstarter omedelbart efter att uppdraget slutfört/misslyckats skärmen börjar tona in.
 [*]Fixade en visuell bugg som gjorde att utmaningen såg ut att ändras till "cmd_change_challenge" när du lämnade undermenyn för val av utmaning direkt efter att ha öppnat den i skapa lobbyskärmen.
-[/list
+[/list]
 
 [h2]Annat[/h2]
 [list]
@@ -51,7 +51,7 @@
 [*]Lade till rd_vindicator_fire_rate. Om 0, kommer den att använda det tidigare beteendet att ärva sin eldhastighet från hagelgeväret.
 [*]Fixade läkare som hade en 1-i-25 chans att skrika att de hade slut på medicin när de använde "Zing!" kommandot chatthjul.
 [*]Fixade en sällsynt krasch som kunde hända efter att statistik spelades in i slutet av ett uppdrag relaterat till den kommande betaversionen av hantverksmaterial.
-[/list]]
+[/list]
 
 [h2]Infection Deathmatch Utmaning[/h2]
 [list]
