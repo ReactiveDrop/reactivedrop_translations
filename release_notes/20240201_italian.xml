@@ -42,7 +42,7 @@ Volete provarlo voi stessi? Utilizzate il nuovo comando [b]sv_showimpacts 1[/b].
 [*]I voti del leader e di espulsione non vengono più azzerati al riavvio istantaneo.
 [*]Impedito che il riavvio istantaneo venga utilizzato più di una volta ogni 3 secondi (asw_instant_restart_cooldown). Non si applica ai riavvii istantanei eseguiti dopo che la schermata di missione completata/fallita inizia a svanire.
 [*]Corretto un bug visivo che faceva apparire la sfida cambiata in "cmd_change_challenge" quando si usciva dal sottomenu di selezione delle sfide subito dopo averlo aperto nella schermata di creazione della lobby.
-[/list
+[/list]
 
 [h2]Varie[/h2]
 [list]
@@ -51,7 +51,7 @@ Volete provarlo voi stessi? Utilizzate il nuovo comando [b]sv_showimpacts 1[/b].
 [*]Aggiunto rd_vindicator_fire_rate. Se 0, utilizzerà il comportamento precedente che prevede l'ereditarietà della cadenza di fuoco dal fucile a pompa.
 [*]Corretta la possibilità che i medici gridino di aver finito le medicine quando usano il comando "Zing!".
 [*]È stato risolto un raro arresto anomalo che poteva verificarsi dopo la registrazione delle statistiche al termine di una missione legata all'imminente beta dei materiali di crafting.
-[/list]]
+[/list]
 
 [h2]Sfida Deathmatch Infezione[/h2]
 [list]

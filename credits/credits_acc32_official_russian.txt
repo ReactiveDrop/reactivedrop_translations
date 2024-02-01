@@ -11,7 +11,7 @@
 "asw_credits_"	""
 "asw_credits_"	""
 "asw_credits_"	""
-"asw_credits_"	"" 
+"asw_credits_"	""
 "asw_credits_"	""
 "asw_credits_"	"Спасибо realworldtextures за текстуры"
 "asw_credits_"	""

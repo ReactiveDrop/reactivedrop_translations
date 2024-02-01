@@ -51,7 +51,7 @@ Este es el aspecto que tendrá esa imagen tras la actualización:
 [*]Se agrego el comando "rd_vindicator_fire_rate". Si es 0, utilizará el comportamiento anterior consistente en heredar la cadencia de disparo de la escopeta.
 [*]Se corrigió la probabilidad de 1 en 25 de que los médicos gritaran que se habían quedado sin medicamentos al usar el comando de rueda de charla "Positivo".
 [*]Se corrigió un bloqueo poco frecuente que podía producirse después de registrar las estadísticas al final de una misión relacionada con la próxima versión beta de materiales de fabricación.
-[/list]]
+[/list]
 
 [h2]Desafío Infección a Muerte[/h2]
 [list]

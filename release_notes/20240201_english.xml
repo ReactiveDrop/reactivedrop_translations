@@ -42,7 +42,7 @@ Want to try it out for yourself? Use the newly-added [b]sv_showimpacts 1[/b] com
 [*]Leader and kick votes are no longer reset on instant restart.
 [*]Prevented instant restart from being used more than once every 3 seconds (asw_instant_restart_cooldown). Does not apply to instant restarts performed after the mission complete/failed screen starts fading in.
 [*]Fixed a visual bug causing the challenge to appear to be changed to "cmd_change_challenge" when exiting the challenge selection submenu immediately after opening it in the create lobby screen.
-[/list
+[/list]
 
 [h2]Misc[/h2]
 [list]
@@ -51,7 +51,7 @@ Want to try it out for yourself? Use the newly-added [b]sv_showimpacts 1[/b] com
 [*]Added rd_vindicator_fire_rate. If 0, it will use the previous behavior of inheriting its fire rate from the shotgun.
 [*]Fixed medics having a 1-in-25 chance of shouting that they were out of meds when using the "Zing!" chat wheel command.
 [*]Fixed a rare crash that could happen after stats were recorded at the end of a mission related to the upcoming crafting materials beta.
-[/list]]
+[/list]
 
 [h2]Infection Deathmatch Challenge[/h2]
 [list]
