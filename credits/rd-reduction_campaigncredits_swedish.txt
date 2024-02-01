@@ -1,7 +1,7 @@
 "Credits"
 {
 // these keys must be in this order!
-"show_credits_logo" "1"
+"show_credits_logo"	"1"
 "custom_logo"	"rd-reduction_logo"
 "asw_credits_"	"Kampanj design av Tim Carter"
 "asw_credits_"	""
@@ -10,7 +10,7 @@
 "asw_credits_"	"'Hammerhead': Ivan"
 "asw_credits_"	"Speciellt tack: DimedRoll, Goodone, Enex, DarkCzar, JohnRyder - Army of One"
 "asw_credits_"	""
-"asw_credits_"	"" 
+"asw_credits_"	""
 "asw_credits_"	""
 "asw_credits_"	""
 "asw_credits_"	""

@@ -1,0 +1,10 @@
+GAME
+{
+// PDA belongs to Isaac Lezeas (pun = Isaac Lazyass)
+
+"MailFrom1"	"Från: Ren Ruble"
+"MailDate1"	"Datum: Okänt"
+"MailSubject1"	"Ämne: Underhållsrum"
+"MailBody1A"	"Jag skulle vilja låta dig veta att det här inte är roligt längre. Den dagliga glasbyteskostnaden sänker vår budget för nya projekt. Gör en ordentlig dörr, annars får ditt lag sänkt lön!"
+"MailBody1B"	"- Med mycket kärlek, BioGen Förvaltning"
+}

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content><string id="body">En la actualización de este mes se incluyen [url=https://store.steampowered.com/news/app/563560/view/3994197038602903068]algunos cambios importantes en el modo Héroes de las Fuerzas Armadas Interestelares[/url], así como algunos cambios para equilibrar el modo Infección a muerte y otras correcciones.
+
+[h2]Información adicional sobre la compensación del retardo[/h2]
+En Internet la información no se transmite al instante. La información solo puede viajar a la velocidad de la luz y en ocasiones dicha velocidad es demasiado lenta. Por ejemplo, si un jugador de Fráncfort entra en una sala de Pekín, aunque sus computadoras estuvieran conectadas directamente por un cable muy largo, la información tardaría 50 milisegundos en llegar de Fráncfort a Pekín y viceversa. En realidad, la información tiene que viajar mucho más que los 15500 km de ida y vuelta porque la información no se mueve en línea recta.
+
+Cuando disparas una bala, la información hace un largo recorrido a través de complicados circuitos antes incluso de salir de tu computadora y luego recorre una serie de otras computadoras antes de llegar finalmente el anfitrión de la sala. Pero ahí no acaba el viaje. Una vez que el anfitrión de la sala descubre lo que tu bala ha hecho, esa información tiene que volver a ti y a todos los demás jugadores de tu sala. Para cuando tu bala alcance al anfitrión de la sala, ¡el alienígena al que disparabas podría haberse movido! Pero los motores de los juegos tienen algunos trucos en la manga para ocultártelo y como no pueden acortar la distancia física que debe recorrer la información, hacen algo más fácil; ¡viajar en el tiempo!
+
+La información sobre la bala que has disparado no espera a llegar al anfitrión y volver antes de mostrar algo en tu pantalla. En primer lugar, el juego que se ejecuta en tu computadora finge que la información sobre la bala hizo un viaje de ida y vuelta al anfitrión instantáneamente. A esto se le llama "predicción" porque el juego "predice" lo que el anfitrión dirá que ha ocurrido. La predicción se muestra en rojo en las imágenes siguientes.
+
+En segundo lugar, cuando la información sobre la bala llega al anfitrión, los personajes del juego [b]retroceden en el tiempo[/b] para comprobar dónde habría impactado tu bala. Esto se denomina "compensación de retardo" y se muestra en azul en las imágenes de abajo.
+
+[img]{STEAM_CLAN_IMAGE}/27357479/425a4e8d4330cc9628e3e924dfab3cab575580ae.png[/img]
+[i]Alien Swarm y Alien Swarm: Reactive Drop (antes de esta actualización) mostrando el algoritmo de compensación de retardo, con una simulación de 300ms de ping de ida y vuelta y con los ajustes predeterminados.[/i].
+
+¡Esto no está bien! Si el dron no se hubiera movido hacia Vegas, ¡habría fallado completamente el tiro! El anfitrión de la sala rebobinó el tiempo, pero lo hizo mal.
+
+Este es el aspecto que tendrá esa imagen tras la actualización:
+
+[img]{STEAM_CLAN_IMAGE}/27357479/c7440efa1232f45764d0970537c88ac1f7cf9e63.png[/img]
+[i]Alien Swarm: Reactive Drop (a partir de esta actualización) mostrando el algoritmo de compensación de retardo, con una simulación de 300ms de ping de ida y vuelta y con los ajustes predeterminados.[/i]
+
+¡Ahora mucho mejor! Si tienes una configuración que establece "cl_lagcompensation 0", te recomendamos que elimines ese comando, ya que significa que el anfitrión de la sala de espera no viajará en el tiempo en absoluto cuando dispares una bala. [i]El último parche de hace una semana marcó inadvertidamente el comando "cl_lagcompensation" como un truco; a partir de ahora se puede cambiar libremente cuando no éstas conectado a una sala.[/i]
+
+¿Te animas a probarlo? Utilice el nuevo comando [b]sv_showimpacts 1[/b].
+
+[h2]Misiones[/h2]
+[list]
+[*][b]Lágrimas de Tarnor: Puerto Espacial de la Colonia Oasis:[/b] Se corrigió que un pedazo del techo fuera sólido a las granadas cerca de la oficina de seguridad y los detectores de metales.
+[*][b]Lágrimas de Tarnor: Puerto Espacial de la Colonia Oasis:[/b] Se oscureció el techo entre el hangar y la zona de recogida de equipajes para que no distrajera demasiado.
+[*]Se agregó una corrección para los sonidos faltantes en la misión de Workshop "The Gauntlet: Arctic".
+[/list]
+
+[h2]Armas[/h2]
+[list]
+[*]Se corrigió un problema en la animación que provocaba que el objetivo se desplazara hacia la derecha poco después de que comenzara la animación de recarga, lo que provocaba disparos fallidos después de recargas rápidas con éxito en armas como el Rifle con Raíl de Precisión.
+[*]Se corrigió el problema de que el marcador "nuevo" de las armas recién desbloqueadas se eliminaba al desbloquear otra arma y luego al cerrar y volver a abrir el juego, en lugar de eliminarse únicamente cuando se seleccionaba el arma en la sesión informativa, como estaba previsto.
+[/list]
+
+[h2]Salas[/h2]
+[list]
+[*]Los votos de líder y expulsión ya no se reinician al reiniciar instantáneamente.
+[*]Se impide que el reinicio instantáneo se utilice más de una vez cada 3 segundos "asw_instant_restart_cooldown". Esto no se aplica a los reinicios instantáneos realizados después de que la pantalla de misión completada o fracasada empiece a desvanecerse.
+[*]Se corrigió un error visual que provocaba que el desafío pareciera haber cambiado a "cmd_change_challenge" al salir del submenú de selección de desafíos inmediatamente después de abrirlo en la pantalla de crear sala.
+[/list]
+
+[h2]Varios[/h2]
+[list]
+[*]Se agregó una lista de notificaciones y ajustes de filtrado en el menú principal.
+[*]Se agregó la posibilidad de usar texto en negrita y cursiva en las descripciones de los objetos del inventario en el juego.
+[*]Se agrego el comando "rd_vindicator_fire_rate". Si es 0, utilizará el comportamiento anterior consistente en heredar la cadencia de disparo de la escopeta.
+[*]Se corrigió la probabilidad de 1 en 25 de que los médicos gritaran que se habían quedado sin medicamentos al usar el comando de rueda de charla "Positivo".
+[*]Se corrigió un bloqueo poco frecuente que podía producirse después de registrar las estadísticas al final de una misión relacionada con la próxima versión beta de materiales de fabricación.
+[/list]
+
+[h2]Desafío Infección a Muerte[/h2]
+[list]
+[*]Ahora el daño adicional de las granadas de fusil se calcula después de calcular la fuerza de retroceso.
+[*]Se redujo el daño de las granadas de fusil.
+[*]Se aumentó masivamente la fuerza de retroceso de los cohetes.
+[*]Se aumentó el daño de los cohetes.
+[*]El daño recibido durante la fase de preparación ahora se cura inmediatamente.
+[*]El daño por quemadura de los humanos contra los zombis ahora recibe una bonificación de daño independientemente de si la fuente de la quemadura es una mina incendiaria.
+[*]Los centinelas construidos ahora se eliminan inmediatamente.
+[*]Se permite que la consola del servidor (y los scripts de desafío) utilicen los comandos de consola del modo de juego Duelo a Muerte (además del líder de la sala).
+[/list]</string><string id="subtitle"/><string id="summary"/><string id="title">Actualización de Alien Swarm: Reactive Drop - 1 de febrero de 2024</string></content>

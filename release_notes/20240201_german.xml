@@ -1,6 +1,29 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <content><string id="body">Das diesmonatige Update enthält [url=https://store.steampowered.com/news/app/563560/view/3994197038602903068]einige große Änderungen an Helden der interstellaren Streitkräfte[/url], sowie einige Balanceänderungen für den Modus Infektion Deathmatch und verschiedene andere Korrekturen.
 
+[h2]Eine Anmerkung zur Lag-Kompensation[/h2]
+Das Internet überträgt Informationen nicht sofort. Informationen können nur mit Lichtgeschwindigkeit übertragen werden, und manchmal ist die Lichtgeschwindigkeit einfach zu langsam. Wenn zum Beispiel ein Spieler aus Frankfurt einer Lobby in Peking beitritt, würde die Information 50 Millisekunden brauchen, um von Frankfurt nach Peking und zurück zu gelangen, selbst wenn ihre Computer durch eine sehr lange Leitung direkt miteinander verbunden wären. In Wirklichkeit müssen die Informationen viel weiter als die 15500 km hin und zurück reisen, weil sie sich nicht in einer geraden Linie bewegen.
+
+Wenn du eine Kugel abfeuerst, legt die Information einen langen Weg durch komplizierte Schaltkreise zurück, bevor sie überhaupt deinen Computer verlässt, und dann verbringt sie einige Zeit auf einer Reihe anderer Computer, bevor sie schließlich denjenigen erreicht, der die Lobby hostet. Aber das ist noch nicht das Ende der Reise. Sobald der Host der Lobby herausgefunden hat, was deine Kugel getan hat, muss diese Information zu dir und allen anderen Spielern in deiner Lobby zurückkehren. Bis deine Kugel den Lobby-Host erreicht, hat sich der Alien, auf den du geschossen hast, vielleicht schon bewegt! Aber Spiel-Engines haben ein paar Tricks in petto, um dies vor dir zu verbergen. Und da sie die physische Distanz, die die Informationen zurücklegen müssen, nicht verkürzen können, machen sie etwas Einfacheres: Zeitreisen!
+
+Die Informationen über die Kugel, die du abgefeuert hast, werden erst dann auf deinem Bildschirm angezeigt, wenn sie zum Host und zurück gelangen. Das Spiel, das auf deinem Computer läuft, tut so, als ob die Informationen über die Kugel sofort zum Host gelangen würden. Das nennt man "Vorhersage", weil das Spiel "vorhersagt", was der Host sagen wird, was passiert ist. Die Vorhersage ist in den Bildern unten rot dargestellt.
+
+Wenn die Information über das Geschoss den Host erreicht, bewegen sich die Spielfiguren [b]in der Zeit zurück[/b], um zu prüfen, wo dein Geschoss eingeschlagen wäre. Das nennt man "Lag-Kompensation" und ist in den Bildern unten blau dargestellt.
+
+[img]{STEAM_CLAN_IMAGE}/27357479/425a4e8d4330cc9628e3e924dfab3cab575580ae.png[/img]
+[i]Alien Swarm und Alien Swarm: Reactive Drop (vor dieser Aktualisierung) Lag-Kompensationsalgorithmus, dargestellt mit 300ms simuliertem Round-Trip-Ping und Standardeinstellungen.[/i]
+
+Das ist nicht gut! Wenn sich die Drohne nicht auf Vegas zubewegt hätte, hätte er den Schuss komplett vermasselt! Der Lobby-Host hat die Zeit zurückgespult, aber das hat nicht besonders viel verbessert.
+
+So wird die Aufnahme nach diesem Update aussehen:
+
+[img]{STEAM_CLAN_IMAGE}/27357479/c7440efa1232f45764d0970537c88ac1f7cf9e63.png[/img]
+[i]Alien Swarm: Reactive Drop (Stand dieses Updates) Lag-Kompensationsalgorithmus, dargestellt mit 300ms simuliertem Round-Trip-Ping und Standardeinstellungen.[/i]
+
+Viel besser! Wenn du eine Konfiguration hast, die cl_lagcompensation auf 0 setzt, empfehlen wir dir, diesen Befehl zu entfernen, da er bedeutet, dass der Lobby-Host keine Zeitreise macht, wenn du ein Geschoss abfeuerst. [i]Der Hotfix vor einer Woche hat cl_lagcompensation versehentlich als Cheat markiert; er kann jetzt frei geändert werden, wenn du nicht mit einer Lobby verbunden bist.[/i]
+
+Willst du es selbst ausprobieren? Verwende den neu hinzugefügten Befehl [b]sv_showimpacts 1[/b].
+
 [h2]Einsätze[/h2]
 [list]
 [*][b]Tränen für Tarnor: Oasis-Kolonie Raumhafen:[/b] In der Nähe des Sicherheitsbüros und der Metalldetektoren wurde ein Stück der Decke repariert das Granaten blockierte.
@@ -19,16 +42,16 @@
 [*]Anführer- und Rauswerfen-Abstimmungen werden beim sofortigen Neustart nicht mehr zurückgesetzt.
 [*]Verhindert, dass der sofortige Neustart mehr als einmal alle 3 Sekunden verwendet wird (asw_instant_restart_cooldown). Dies gilt nicht für sofortige Neustarts, die durchgeführt werden, nachdem der Bildschirm "Einsatz abgeschlossen/gescheitert" eingeblendet wurde.
 [*]Es wurde ein visueller Fehler behoben, der dazu führte, dass die Herausforderung scheinbar in "cmd_change_challenge" geändert wurde, wenn das Untermenü für die Auswahl der Herausforderung direkt nach dem Öffnen im Bildschirm "Spiel erstellen" verlassen wurde.
-[/list
+[/list]
 
 [h2]Verschiedenes[/h2]
 [list]
 [*]Dem Hauptmenü wurden eine Benachrichtigungsliste und Filtereinstellungen hinzugefügt.
 [*]Unterstützung für fetten und kursiven Text in den Beschreibungen von Inventargegenständen im Spiel hinzugefügt.
 [*]rd_vindicator_fire_rate wurde hinzugefügt. Wenn der Wert 0 ist, wird die Feuerrate wie bisher von der Schrotflinte geerbt.
-[*]Die Chance, dass Sanitäter bei Verwendung von "Zing!" im Emote-Menü schreien, dass sie keine Medikamente mehr haben, lag zuvor bei 1:25, dies tritt jetzt gar nicht mehr auf.
+[*]Die Chance, dass Sanitäter bei Verwendung von "Spruch!" im Emote-Menü schreien, dass sie keine Medikamente mehr haben, lag zuvor bei 1:25, dies tritt jetzt gar nicht mehr auf.
 [*]Behebung eines seltenen Absturzes, der nach der Aufzeichnung der Werte am Ende eines Einsatzes im Zusammenhang mit der kommenden Beta für Handwerksmaterialien auftreten konnte.
-[/list]]
+[/list]
 
 [h2]Infektion Deathmatch Herausforderung[/h2]
 [list]
