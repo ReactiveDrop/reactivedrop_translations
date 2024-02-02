@@ -444,7 +444,7 @@
 "Valve_Hud_SQUAD_STATIONED"		"PELOTÓN DETENIDO"
 
 "[english]Valve_HDRDEMO_LeftTitle"		"Fixed Aperture"
-"Valve_HDRDEMO_LeftTitle"		"Apertura fija
+"Valve_HDRDEMO_LeftTitle"		"Apertura fija"
 "[english]Valve_HDRDEMO_RightTitle"		"High-Dynamic Range"
 "Valve_HDRDEMO_RightTitle"		"HDR (alto rango dinám.)"
 

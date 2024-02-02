@@ -12,7 +12,7 @@
 "[english]GameUI_MouseLookLabel"		"Use the mouse to look around"
 "GameUI_MouseLookLabel"		"Usar ratón para mirar alrededor"
 "[english]GameUI_MouseFilter"		"Mouse filter"
-"GameUI_MouseFilter"		""Filtro de ratón"
+"GameUI_MouseFilter"		"Filtro de ratón"
 "[english]GameUI_MouseFilterLabel"		"Smooth out mouse movement"
 "GameUI_MouseFilterLabel"		"Suavizar movimiento del ratón"
 "[english]GameUI_MouseSensitivity"		"Mouse sensitivity"

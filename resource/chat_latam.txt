@@ -6,7 +6,7 @@
 "[english]chat_filterbutton"		"Filters"
 "chat_filterbutton"		"Filtros"
 "[english]filter_joinleave"		"Joins/Leaves"
-"filter_joinleave"		"Se une/abandona""
+"filter_joinleave"		"Se une/abandona"
 "[english]filter_namechange"		"Name Changes"
 "filter_namechange"		"Cambios de nombre"
 "[english]filter_publicchat"		"Public Chat"
