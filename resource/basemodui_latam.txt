@@ -2415,7 +2415,7 @@
 "[english]L4D_mic_sens_tip"		"Microphone sensitivity when the open mic setting is enabled."
 "L4D_mic_sens_tip"		"Sensibilidad del micrófono cuando la configuración de micrófono abierto está activada."
 "[english]L4D_test_mic_tip"		"Test whether your microphone is functioning properly."
-"L4D_test_mic_tip"		""Probar si tu micrófono funciona correctamente."
+"L4D_test_mic_tip"		"Probar si tu micrófono funciona correctamente."
 
 // Keyboard Options
 "[english]L4D_edit_keys_tip"		"Choose your preferred keyboard, mouse, and gamepad button layout."
