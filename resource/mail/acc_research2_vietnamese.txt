@@ -1,6 +1,6 @@
 GAME
 {
-// PDA belongs to Kate Larson
+// PDA belongs to Brad Irwing
 
 // Inbox
 
