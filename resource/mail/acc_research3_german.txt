@@ -3,14 +3,14 @@ GAME
 // Inbox
 
 "MailFrom1"	"Von: Hank Retller"
-"MailDate1"	"Datum: 03/23/31"
+"MailDate1"	"Datum: 03/19/31"
 "MailSubject1"	"Betreff: HÖRT ZU LEUTE Teil 1 &VERSTECKT"
 "MailBody1A"	"Ich, HD, Brad und Orion haben ein Experiment durchgeführt, um die Widerstandsfähigkeit von Exemplaren gegen hohe Temperaturen zu testen. Wir erhielten schockierende Ergebnisse. Die RAFFER werden durch hohe Temperaturen stimuliert, so dass ihr Körper eine Menge XENOMITEN produziert."
 "MailBody1B"	"Als der Forschungssektor im Juli letzten Jahres gebaut wurde, habe ich gesehen, wie ein RAFFER in die Lüftungsschächte geflohen ist. Ich dachte, das wäre nichts, wovor man Angst haben müsste, und habe niemandem davon erzählt."
 "MailBody1C"	"Ich lag FALSCH! Ich hätte allen sagen sollen: DAS IST MEINE SCHULD. Die XENOMITEN, die von RAFFERN erschaffen werden, legen Eier, aus denen später viel furchterregendere, mutierte Versionen von XENOMITEN schlüpfen."
 
 "MailFrom2"	"Von: Hank Retller"
-"MailDate2"	"Datum: 03/23/31"
+"MailDate2"	"Datum: 03/19/31"
 "MailSubject2"	"Betreff: HÖRT ZU LEUTE Teil 2 &VERSTECKT"
 "MailBody2A"	"Ist dir eigentlich klar, was das bedeutet? Die RAFFER, die in die Lüftungsschächte geflohen sind, hatten genug Zeit, um eine RIESENKOLONIE IM UNTERIRDISCHEN BEREICH zu errichten."
 "MailBody2B"	"Ich habe dies Leutnant Wanman erzählt und er hatte ein Team von 23 Soldaten geschickt, um den unterirdischen Sektor zu untersuchen. JEDER EINZELNE VON IHNEN IST GESTORBEN."

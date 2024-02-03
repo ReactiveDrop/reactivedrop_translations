@@ -3,14 +3,14 @@ GAME
 // Inbox
 
 "MailFrom1"	"De: Hank Retller"
-"MailDate1"	"Data: 23/03/31"
+"MailDate1"	"Data: 19/03/31"
 "MailSubject1"	"Assunto: ESCUTEM PESSOAL pt. 1 &OCULTO"
 "MailBody1A"	"Eu, HD, Brad e Orion conduzimos um experimento para verificar a imunidade do espécime a altas temperaturas. Recebemos resultados surpreendentes. Os HARVESTERs são estimulados por altas temperaturas, o que permite que seu corpo produza uma tonelada de XENOMITEs."
 "MailBody1B"	"Quando o Setor de Pesquisa foi construído em julho do ano passado, eu vi um HARVESTER escapar pelos dutos, o que eu achava que não era nada para se assustar e não contei a ninguém sobre isso."
 "MailBody1C"	"Eu estava errado! Eu deveria ter dito a todos, ISSO É MINHA CULPA. Os XENOMITEs criados por HARVESTERs põem ovos que mais tarde eclodem em versões mutantes muito mais assustadoras de XENOMITEs."
 
 "MailFrom2"	"De: Hank Retller"
-"MailDate2"	"Data: 23/03/31"
+"MailDate2"	"Data: 19/03/31"
 "MailSubject2"	"Assunto: ESCUTEM PESSOAL pt. 2 &OCULTO"
 "MailBody2A"	"Você percebe a merda que isso significa!? O HARVESTER que escapou pelos dutos teve tempo de sobra para criar UMA COLÔNIA GIGANTE NA SEÇÃO SUBTERRÂNEA."
 "MailBody2B"	"Eu disse isso ao tenente Wanman e ele enviou uma equipe de 23 soldados para investigar o setor subterrâneo. CADA UM DELES MORREU."
