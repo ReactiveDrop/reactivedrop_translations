@@ -5,7 +5,7 @@ GAME
 "MailFrom1"	"From: Operation News [Kyle]"
 "MailDate1"	"Date: 11/22/32"
 "MailSubject1"	"Subject: Some Insight"
-"MailBody1A"	"Hello, today Tio Rinto, a mining company, has sent us some of their logs of what seems to be a similar rock. They have encountered a similar rock 43 years ago in their mining expeditions."
+"MailBody1A"	"Hello, today Tio Rinto, a mining company, has sent us some of their logs of what seems to be a similar rock. They have encountered similar material 43 years ago on their mining expeditions."
 "MailBody1B"	"They do not have much data about it, but what they do have is shocking - the rock becomes way more radioactive with higher temperature. The labs containing a big sample have been isolated for a month now with no exposure to outside air. Since the roof is made mostly from metal, it got heated up and the inside of the lab is now slowly becoming hotter and hotter. We have to take measures and prevent this."
 "MailBody1C"	"Kyle"
 }
