@@ -21,7 +21,7 @@
 | [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [European Spanish](#spanish-español-de-españa) | 32 | 2004 | 40 | 2550 | 258 | 207 | 714 | 146 |
 | [Latin American Spanish](#latam-español-latinoamericano) | 1285 | 2004 | 634 | 4647 | 258 | 211 | 980 | 144 |
-| [Swedish](#swedish-svenska) | ✔️ | 2003 | ✔️ | 1710 | ✔️ | ✔️ | ✔️ | 114 |
+| [Swedish](#swedish-svenska) | ✔️ | 2003 | ✔️ | 1697 | ✔️ | ✔️ | ✔️ | 114 |
 | [Thai](#non-curated-languages) | 970 | 1993 | 50 | 4382 | 258 | 207 | 739 | 147 |
 | [Turkish](#non-curated-languages) | 55 | 137 | 42 | 3135 | 258 | 207 | 975 | 147 |
 | [Ukrainian](#ukrainian-українська) | 31 | 131 | 32 | 2678 | 258 | 207 | 933 | 146 |
@@ -1474,7 +1474,7 @@
 ### Strings
 
 - [closecaption_swedish.txt](resource/closecaption_swedish.txt) has 2003 untranslated strings.
-- [reactivedrop_swedish.txt](resource/reactivedrop_swedish.txt) has 1710 untranslated strings.
+- [reactivedrop_swedish.txt](resource/reactivedrop_swedish.txt) has 1697 untranslated strings.
 
 ### Upcoming Release Notes
 
