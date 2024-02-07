@@ -25,7 +25,7 @@
 | [Thai](#non-curated-languages) | 970 | 1993 | 50 | 4382 | 258 | 207 | 739 | 147 |
 | [Turkish](#non-curated-languages) | 55 | 137 | 42 | 3135 | 258 | 207 | 975 | 147 |
 | [Ukrainian](#ukrainian-українська) | 31 | 131 | 32 | 2678 | 258 | 207 | 933 | 146 |
-| [Vietnamese](#vietnamese-tiếng-việt) | 2 | 2004 | ✔️ | 3424 | ✔️ | 1 | ✔️ | 85 |
+| [Vietnamese](#vietnamese-tiếng-việt) | ✔️ | 2004 | ✔️ | 3424 | ✔️ | ✔️ | ✔️ | 84 |
 ### Legend
 - ***Non-capitalized column headers*** are the most important specific files and their number of missing strings. All of these txt-files are located in the resources folder. Except statsweb, which lies in community/stats_website, it's an vdf-file.
 - ***Strings*** is the number of missing strings not included in one of the files which get an individual non-capitalized column.
@@ -1789,8 +1789,6 @@
 
 ### Strings
 
-- [statsweb_vietnamese.vdf](community/stats_website/statsweb_vietnamese.vdf) has 1 untranslated strings.
-- [basemodui_vietnamese.txt](resource/basemodui_vietnamese.txt) has 2 untranslated strings.
 - [closecaption_vietnamese.txt](resource/closecaption_vietnamese.txt) has 2004 untranslated strings.
 - [reactivedrop_vietnamese.txt](resource/reactivedrop_vietnamese.txt) has 3424 untranslated strings.
 
@@ -1800,7 +1798,6 @@
 
 ### Mail and News
 
-- [mail/nh_officemail1_jacquesmoreau_vietnamese.txt](resource/mail/nh_officemail1_jacquesmoreau_english.txt) is missing.
 - [mail/nh_officemail2_jacquesmoreau_vietnamese.txt](resource/mail/nh_officemail2_jacquesmoreau_english.txt) is missing.
 - [mail/nh_officemail_lindasilva_vietnamese.txt](resource/mail/nh_officemail_lindasilva_english.txt) is missing.
 - [mail/nh_officemail_vladislavlazarev_vietnamese.txt](resource/mail/nh_officemail_vladislavlazarev_english.txt) is missing.
