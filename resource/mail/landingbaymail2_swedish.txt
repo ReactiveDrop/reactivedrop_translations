@@ -1,0 +1,20 @@
+GAME
+{
+// PDA belongs to Laura Callen
+
+// Inbox
+
+"MailFrom1"	"Från: Brad Campbell"
+"MailDate1"	"Datum: 12/18/52"
+"MailSubject1"	"Ämne: Re:Re: Ägg"
+"MailBody1A"	"Laura,"
+"MailBody1B"	"Två av mina män är oåtkomliga. En grupp rapporterade konstiga ljud när de sökte i sektor 24. Det kunde ha varit vad som helst. Det här stället håller på att falla i bitar."
+"MailBody1C"	"Hur är det med de där extra männen?"
+
+"MailFrom2"	"Från: Brad Campbell"
+"MailDate2"	"Datum: 12/20/52"
+"MailSubject2"	"Ämne: Behöver hjälp"
+"MailBody2A"	"Cortez, Jones och Stefani är döda. Lemmarna saknas. Jones ser ut som om hans ben fastnat i en köttkvarn. Cain och några av hans män anlände i morse, riktigt påträngande, och frågade om leverans 4903877."
+"MailBody2B"	"De sa åt oss att stanna kvar tills de hade sökt i området efter den andra försvunna personalen. Jag knackade på en säkerhetsterminal, såg dem lasta upp lastfartyget med de där containrarna. Onödigt att säga att de inte kom tillbaka."
+"MailBody2C"	"Vi kommer aldrig att kunna ta oss tillbaka till huvudkomplexet utan en åktur. Måste vara 50 grader under där ute. VAD pågår?!?"
+}
