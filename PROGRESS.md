@@ -21,7 +21,7 @@
 | [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [European Spanish](#spanish-español-de-españa) | 32 | 2004 | 40 | 2550 | 258 | 207 | 714 | 146 |
 | [Latin American Spanish](#latam-español-latinoamericano) | 1285 | 2004 | 634 | 4647 | 258 | 211 | 980 | 144 |
-| [Swedish](#swedish-svenska) | ✔️ | 2003 | ✔️ | 1697 | ✔️ | ✔️ | ✔️ | 114 |
+| [Swedish](#swedish-svenska) | ✔️ | 2003 | ✔️ | 1665 | ✔️ | ✔️ | ✔️ | 109 |
 | [Thai](#non-curated-languages) | 970 | 1993 | 50 | 4382 | 258 | 207 | 739 | 147 |
 | [Turkish](#non-curated-languages) | 55 | 137 | 42 | 3135 | 258 | 207 | 975 | 147 |
 | [Ukrainian](#ukrainian-українська) | 31 | 131 | 32 | 2678 | 258 | 207 | 933 | 146 |
@@ -1474,7 +1474,7 @@
 ### Strings
 
 - [closecaption_swedish.txt](resource/closecaption_swedish.txt) has 2003 untranslated strings.
-- [reactivedrop_swedish.txt](resource/reactivedrop_swedish.txt) has 1697 untranslated strings.
+- [reactivedrop_swedish.txt](resource/reactivedrop_swedish.txt) has 1665 untranslated strings.
 
 ### Upcoming Release Notes
 
@@ -1500,11 +1500,6 @@
 - [mail/labsmail2_swedish.txt](resource/mail/labsmail2_english.txt) is missing.
 - [mail/labsmail3_swedish.txt](resource/mail/labsmail3_english.txt) is missing.
 - [mail/labsmail4_swedish.txt](resource/mail/labsmail4_english.txt) is missing.
-- [mail/landingbaymail1_swedish.txt](resource/mail/landingbaymail1_english.txt) is missing.
-- [mail/landingbaymail2_swedish.txt](resource/mail/landingbaymail2_english.txt) is missing.
-- [mail/landingbaymail3_swedish.txt](resource/mail/landingbaymail3_english.txt) is missing.
-- [mail/ma_pda1_swedish.txt](resource/mail/ma_pda1_english.txt) is missing.
-- [mail/ma_pda2_swedish.txt](resource/mail/ma_pda2_english.txt) is missing.
 - [mail/minemails1_swedish.txt](resource/mail/minemails1_english.txt) is missing.
 - [mail/minemails2_swedish.txt](resource/mail/minemails2_english.txt) is missing.
 - [mail/minemails3_swedish.txt](resource/mail/minemails3_english.txt) is missing.
