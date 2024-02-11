@@ -1,0 +1,23 @@
+GAME
+{
+// PDA belongs to Brian Howe
+
+// Inbox
+
+"MailFrom1"	"Från: Helen Young"
+"MailDate1"	"Datum: 12/19/52"
+"MailSubject1"	"Ämne: Eusocialitet"
+"MailBody1A"	"Svärm upptäckter:"
+"MailBody1B"	"Vi har kört siffrorna. Alla modeller för tillväxt, livslängd och metabolism fungerar bara när de tillämpas över hela befolkningen, snarare än på individer."
+"MailBody1C"	"På vissa sätt är de som avancerade bikupa-insekter, en enda avancerad superorganism. Inneslutning är avgörande."
+
+// Sent
+
+"MailFrom3"	"Till: Helen Young"
+"MailDate3"	"Datum: 12/19/52"
+"MailSubject3"	"Ämne: Re: ??!"
+"MailBody3A"	"Strukturerad socialitet?"
+"MailBody3B"	"Bland stora organismer? Jag är fortfarande skeptisk."
+"MailBody3C"	"Det råder ingen tvekan om att äggen är farliga. Vi hade en olycka idag. En av arbetarna hittades död."
+"MailBody3D"	"Håll med om att inneslutning är avgörande, men förutse inte svårigheter."
+}

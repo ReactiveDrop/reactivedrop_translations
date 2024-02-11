@@ -1,0 +1,31 @@
+GAME
+{
+// PDA belongs to Lt. Cain
+
+// Inbox
+
+"MailFrom1"	"Från: Laura Callen"
+"MailDate1"	"Datum: 12/18/52"
+"MailSubject1"	"Ämne: Utpost 17"
+"MailBody1A"	"Lt. Cain, vi fick just besked från B. Campbell att lastleverans 4903877 innehåller organiskt material av okänt ursprung, allt fryst och lagrat i containrar. Lastfartygets destination är SynTek Forsknings Station 7/Jorden."
+"MailBody1B"	"Jag skulle vilja att du frågar din personal igen och hjälper mig att ta reda på vem som bryter mot begränsning #77-C. (IA måste informeras om överföring av okänt organiskt material till jorden; 77-C/1.1.4)"
+"MailBody1C"	"Campbell rapporterar också att flera arbetare försvunnit. Kolonisäkerhet är ditt ansvar. Jag förväntar mig att du skickar tillräckligt med personal för att hålla området säkert."
+"MailBody1D"	"L. Callen"
+
+"MailFrom2"	"Från: Alena"
+"MailSubject2"	"Ämne: Re: Hej"
+"MailDate2"	"Datum: 11/15/52"
+"MailBody2A"	"Anställning,"
+"MailBody2B"	"Att arbeta utanför kärnsystemen kan vara en ensam upplevelse. Starfire SubNet Dating kan vara svaret på dina problem! Träffas för en pratstund eller kanske mer? Ring (+490387439)"
+"MailBody2C"	"Alena,"
+"MailBody2D"	"xxx"
+
+// Sent
+
+"MailFrom3"	"Till: Laura Callen"
+"MailDate3"	"Datum: 12/21/52"
+"MailSubject3"	"Ämne: Utpost 17"
+"MailBody3A"	"Ms. Callen,"
+"MailBody3B"	"Jag vet allt om begränsning #77-C. Vi genomsökte Utpost 17 och hittade den levande lasten. Vi låste in den i sektor 39 och den kommer att stanna där tills vi får order från Interstellar Alliance om hur vi ska gå vidare. Vi har ännu inte hittat den saknade personalen. Det skulle inte vara första gången några arbetare blev fulla och försvann för en dag eller två. Eftersom ingenting verkligen kan gå vilse på Vereon XII, är jag säker på att de kommer att dyka upp snart. Mr. Campbell har order att ge mig uppdateringar var sjätte timme."
+"MailBody3C"	"Lt. Cain, SynTek Säkerhet"
+}

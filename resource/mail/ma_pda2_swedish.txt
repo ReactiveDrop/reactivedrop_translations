@@ -1,0 +1,14 @@
+GAME
+{
+// pda belongs to Maxwell Fierze
+
+"MailFrom1"		"Från: Marine Corps."
+"MailDate1"		"Datum: 12/26/28"
+"MailSubject1"	"Ämne: Konstiga iakttagelser i skogszonen"
+"MailBody1A"	"Våra rekryter, testgrupp nummer 3, har rapporterat om några konstiga iakttagelser i skogszonen, deras beskrivning: enorma spöken som ser ut som humanoida på himlen."
+
+"MailFrom2"		"Från: Marine Corps."
+"MailDate2"		"Datum: 01/09/29"
+"MailSubject2"	"Ämne: Tragedi i rymdmotorzonen"
+"MailBody2A"	"Vår testgrupp nummer 3 har på den hårda vägen lärt sig att zon nummer 3, rymdmotorerna, har träffats av en asteroid. Denna zon behöver bytas ut. Att ta teleporteraren leder till att man blir strandsatt i rymden utan någon väg tillbaka."
+}

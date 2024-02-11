@@ -1,0 +1,26 @@
+GAME
+{
+// pda belongs to Ed Savage
+
+"MailFrom1"		"Från: Nicholas Gray"
+"MailDate1"		"Datum: 11/22/28"
+"MailSubject1"	"Ämne: SynTek är tillbaka på det igen"
+"MailBody1A"	"Den här gången begär SynTek de interstellära koordinaterna för vulkanzonen. Av någon anledning har just den zonen väckt deras intresse. Har de aldrig sett en vulkan? Många planeter har dem."
+"MailBody1B"	"Hur som helst är jag säker på att det inte är någonting, även om det är konstigt varför SynTek försöker bli involverad i den här operationen."
+"MailBody1C"	"Och en sak till, innan vi öppnar akademin för allmänt bruk, begär de att få diagnostisera våra teleportörer för att försäkra sig om att de är medvetandebevarande. Måste ge dem det, det är en giltig oro. Jag skulle inte vilja gå igenom de där teleportörerna själv innan jag vet att de är säkra."
+
+"MailFrom2"		"Från: Brian Howe"
+"MailDate2"		"Datum: 02/15/29"
+"MailSubject2"	"Ämne: Re: Begär Zon 3 Stängning"
+"MailBody2A"	"Ursäkta det sena svaret Mr Savage"
+"MailBody2B"	"Å SynTeks vägnar beklagar vi förlusten av dina marinsoldater. Zon 3 har stängts."
+"MailBody2C"	"När det gäller ditt föreslagna alternativ håller vi inte med - tomrumsdimensionen är extremt svår att komma åt och kommer att kräva dyra teleporterare. Dessutom kan marinsoldater bli distraherade i den dimensionen, om du förstår vad vi menar."
+"MailBody2D"	"          - Meddelande vidarebefordrat från [SynTek] av [Brian Howe]"
+
+"MailFrom3"		"Till: SynTek"
+"MailDate3"		"Datum: 01/10/29"
+"MailSubject3"	"Ämne: Begär Zon 3 Stängning"
+"MailBody3A"	"Testgrupp 3 har rapporterat en kollaps i zon 3 på grund av asteroidnedslag."
+"MailBody3B"	"Möjlig orsak: tung materialanvändning avledde rymdskeppets bana."
+"MailBody3C"	"Möjlig ersättning: tomrummet."
+}
