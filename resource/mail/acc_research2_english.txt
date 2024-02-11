@@ -1,11 +1,11 @@
 GAME
 {
-// PDA belongs to Kate Larson
+// PDA belongs to Brad Irwing
 
 // Inbox
 
 "MailFrom1"	"From: Brad Irwing"
-"MailDate1"	"Date: 03/19/31"
+"MailDate1"	"Date: 03/23/31"
 "MailSubject1"	"Subject: README pt. 1 &HIDDEN"
 "MailBody1A"	"Kate, I'm writing this letter to you. I hope you see it. After the experiment on 14th of march the Head Doc. blocked my mail account and was constantly monitoring me, because he feared I would spread the results of the experiment. I'm sending this mail to my own account with hopes that you will read it."
 "MailBody1B"	"Hank was killed by General Schmitz for acting alarmed. He had a reason to act alarmed. The experiment showed very scary results, which Hank tried to share."
@@ -13,7 +13,7 @@ GAME
 "MailBody1D"	"First of all, we discovered that red specimen 2'15'15'13'5'18, codename BOOMER, are immune to extremely high temperatures."
 
 "MailFrom2"	"From: Brad Irwing"
-"MailDate2"	"Date: 03/19/31"
+"MailDate2"	"Date: 03/23/31"
 "MailSubject2"	"Subject: README pt. 2 &HIDDEN"
 "MailBody2A"	"But there is something way more terrifying that we discovered. We noticed that specimen 8'1'18'22, codename HARVESTER, can give birth to specimen 24'5'14'15, codename XENOMITE, in matter of seconds. Which is terrifying, because in january we discovered that XENOMITEs can lay eggs, which later mutate to specimen 16'1'18'1, codename PARASITE."
 "MailBody2B"	"Kate, I am planning to escape this facility, what we are doing is not right. We should share this information with the government. And if nobody agrees with me, I WILL DO IT MYSELF."

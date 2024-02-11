@@ -1,11 +1,11 @@
 GAME
 {
-// PDA belongs to Kate Larson
+// PDA belongs to Brad Irwing
 
 // Inbox
 
 "MailFrom1"	"Da: Brad Irwing"
-"MailDate1"	"Data: 19/03/31"
+"MailDate1"	"Data: 23/03/31"
 "MailSubject1"	"Oggetto: LEGGIMI pt. 1 &HIDDEN"
 "MailBody1A"	"Kate, ti sto scrivendo questa lettera. Spero che tu la veda. Dopo l'esperimento del 14 marzo il Primario ha bloccato il mio account di posta elettronica e mi controllava costantemente, perché temeva che diffondessi i risultati dell'esperimento. Sto inviando questa mail al mio account personale con la speranza che tu la legga."
 "MailBody1B"	"Hank è stato ucciso dal generale Schmitz perché si era allarmato. Aveva motivo di allarmarsi. L'esperimento ha mostrato risultati molto spaventosi, che Hank ha cercato di condividere."
@@ -13,7 +13,7 @@ GAME
 "MailBody1D"	"Prima di tutto, abbiamo scoperto che l'esemplare rosso 2'15'15'13'5'18, nome in codice BOOMER, è immune alle temperature estremamente elevate."
 
 "MailFrom2"	"Da: Brad Irwing"
-"MailDate2"	"Data: 19/03/31"
+"MailDate2"	"Data: 23/03/31"
 "MailSubject2"	"Oggetto: LEGGIMI pt. 2 &HIDDEN"
 "MailBody2A"	"Ma abbiamo scoperto qualcosa di molto più terrificante. Abbiamo notato che l'esemplare 8'1'18'22, nome in codice HARVESTER, può dare vita all'esemplare 24'5'14'15, nome in codice XENOMITA, in pochi secondi. Il che è terrificante, perché a gennaio abbiamo scoperto che gli XENOMITI possono deporre uova, che poi mutano nell'esemplare 16'1'18'1, nome in codice PARASSITA."
 "MailBody2B"	"Kate, ho intenzione di fuggire da questa struttura, quello che stiamo facendo non è giusto. Dovremmo condividere queste informazioni con il governo. E se nessuno è d'accordo con me, lo farò da solo."

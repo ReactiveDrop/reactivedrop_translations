@@ -3,14 +3,14 @@ GAME
 // Inbox
 
 "MailFrom1"	"From: Hank Retller"
-"MailDate1"	"Date: 03/23/31"
+"MailDate1"	"Date: 03/19/31"
 "MailSubject1"	"Subject: LISTEN PEOPLE pt. 1 &HIDDEN"
 "MailBody1A"	"Me, HD, Brad and Orion conducted an experiment to check specimen's immunity to high temperatures. We received shocking results. The HARVESTERs get stimulated by high temperatures which allows their body to produce a ton of XENOMITEs."
 "MailBody1B"	"When the Research Sector was built in July of last year, I've seen a HARVESTER escape to vents, which I thought was nothing to be scared about and I haven't told anybody about it."
 "MailBody1C"	"I was WRONG! I should have told everyone, THIS IS MY FAULT. The XENOMITEs created by HARVESTERs lay eggs which later hatch to much scarier, mutated versions of XENOMITEs."
 
 "MailFrom2"	"From: Hank Retller"
-"MailDate2"	"Date: 03/23/31"
+"MailDate2"	"Date: 03/19/31"
 "MailSubject2"	"Subject: LISTEN PEOPLE pt. 2 &HIDDEN"
 "MailBody2A"	"Do you fucking realise what this means!? The HARVESTER that escaped to the vents had plenty of time to create A GIANT COLONY IN THE UNDERGROUND SECTION."
 "MailBody2B"	"I have told this to Lt. Wanman and he had sent a team of 23 soldiers to investigate the underground sector. EVERY SINGLE ONE OF THEM DIED."
