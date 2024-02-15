@@ -213,6 +213,9 @@
 // %[1]s is the guide name. %[2]s is the author name.
 "StatsWeb_IntegratedGuideTitle_Loadouts"		"%[1]s - Shared Loadout by %[2]s"
 "StatsWeb_IntegratedGuideTitle_SpeedrunGhost"		"%[1]s - Speedrun Ghost by %[2]s"
+// %[1]s is the marine's given name, %[2]s the surname, %[3]s the nickname. BBCode allowed.
+"StatsWeb_Marine_Nickname"		"%[1]s “[b]%[3]s[/b]” %[2]s"
+"StatsWeb_Marine_Surname"		"%[1]s [b]%[2]s[/b]"
 
 "rd_event_mapping_competition"	"Mapping Competition 2024 \"Space Station\""
 "rd_event_double_xp_anniversary"	"Anniversary Double Experience Week"

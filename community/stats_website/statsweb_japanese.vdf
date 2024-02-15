@@ -420,6 +420,11 @@
 "StatsWeb_IntegratedGuideTitle_Loadouts"		"%[1]s - %[2]sが公開した装備セット情報"
 "[english]StatsWeb_IntegratedGuideTitle_SpeedrunGhost"		"%[1]s - Speedrun Ghost by %[2]s"
 "StatsWeb_IntegratedGuideTitle_SpeedrunGhost"		"%[1]s - %[2]sによるスピードランのゴースト"
+		// %[1]s is the marine's given name, %[2]s the surname, %[3]s the nickname. BBCode allowed.
+		"[english]StatsWeb_Marine_Nickname"		"%[1]s “[b]%[3]s[/b]” %[2]s"
+		"StatsWeb_Marine_Nickname"		"%[1]s “[b]%[3]s[/b]” %[2]s"
+		"[english]StatsWeb_Marine_Surname"		"%[1]s [b]%[2]s[/b]"
+		"StatsWeb_Marine_Surname"		"%[1]s [b]%[2]s[/b]"
 
 "[english]rd_event_mapping_competition"		"Mapping Competition 2024 \"Space Station\""
 "rd_event_mapping_competition"		"マップ作成コンテスト2024 『宇宙ステーション』"
