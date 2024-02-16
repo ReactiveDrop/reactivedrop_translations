@@ -1,14 +1,14 @@
 # Overview
 | Language | basemodui | closecaption | gameui | reactivedrop | items | statsweb | Strings | Files |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | ✔️ | 17 | ✔️ | 2 | ✔️ | ✔️ |
+| [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | ✔️ | 17 | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Traditional Chinese](#tchinese-繁體中文) | 13 | 141 | 33 | 3015 | 252 | 209 | 236 | 146 |
 | [Czech](#czech-čeština) | 75 | 1810 | 42 | 4155 | 258 | 209 | 980 | 146 |
 | [Danish](#non-curated-languages) | 56 | 231 | 42 | 3683 | 258 | 209 | 710 | 147 |
 | [Dutch](#non-curated-languages) | 55 | 2004 | 42 | 3151 | 258 | 209 | 710 | 146 |
 | [Finnish](#non-curated-languages) | 2 | 2004 | 41 | 3065 | 259 | 209 | 701 | 146 |
 | [French](#french-français) | 31 | 138 | 42 | 2516 | 257 | 209 | 650 | 125 |
-| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | 17 | ✔️ | 2 | ✔️ | ✔️ |
+| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | 17 | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Hungarian](#non-curated-languages) | 55 | 138 | 42 | 3151 | 258 | 209 | 975 | 147 |
 | [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | 17 | ✔️ | 2 | ✔️ | ✔️ |
 | [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | 17 | ✔️ | ✔️ | 102 | ✔️ |
@@ -18,7 +18,7 @@
 | [European Portuguese](#portuguese-português-europeu) | 4 | 180 | 32 | 2240 | 238 | 30 | 630 | 141 |
 | [Brazilian Portuguese](#brazilian-português) | 6 | 2004 | 32 | 1410 | 188 | 18 | 276 | 8 |
 | [Romanian](#non-curated-languages) | 55 | 1996 | 48 | 3863 | 258 | 209 | 975 | 147 |
-| [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | 17 | ✔️ | 2 | ✔️ | ✔️ |
+| [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | 17 | ✔️ | ✔️ | ✔️ | ✔️ |
 | [European Spanish](#spanish-español-de-españa) | 32 | 2004 | 40 | 2566 | 258 | 209 | 714 | 146 |
 | [Latin American Spanish](#latam-español-latinoamericano) | 1285 | 2004 | 634 | 4663 | 258 | 213 | 980 | 144 |
 | [Swedish](#swedish-svenska) | ✔️ | 2003 | ✔️ | 1547 | ✔️ | 2 | ✔️ | 109 |
@@ -42,7 +42,6 @@
 
 ### Strings
 
-- [statsweb_schinese.vdf](community/stats_website/statsweb_schinese.vdf) has 2 untranslated strings.
 - [reactivedrop_schinese.txt](resource/reactivedrop_schinese.txt) has 17 untranslated strings.
 
 </details>
@@ -584,7 +583,6 @@
 
 ### Strings
 
-- [statsweb_german.vdf](community/stats_website/statsweb_german.vdf) has 2 untranslated strings.
 - [reactivedrop_german.txt](resource/reactivedrop_german.txt) has 17 untranslated strings.
 
 </details>
@@ -1109,7 +1107,6 @@
 
 ### Strings
 
-- [statsweb_russian.vdf](community/stats_website/statsweb_russian.vdf) has 2 untranslated strings.
 - [reactivedrop_russian.txt](resource/reactivedrop_russian.txt) has 17 untranslated strings.
 
 </details>
