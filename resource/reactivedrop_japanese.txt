@@ -9248,12 +9248,15 @@
 "rd_reporting_error_sending_network"		"報告の送信中にネットワークエラーが発生しました。"
 "[english]rd_reporting_success"		"Your report has been sent and will be reviewed by the Reactive Drop Team."
 "rd_reporting_success"		"報告の送信が完了しました。内容はReactive Drop Teamにより審査されます。"
+		"[english]rd_reporting_success_quick_commend"		"Quick commendation successfully sent."
+		"rd_reporting_success_quick_commend"		"Quick commendation successfully sent."
+		"[english]rd_reporting_success_quick_report"		"Quick report successfully sent."
+		"rd_reporting_success_quick_report"		"Quick report successfully sent."
+		"[english]rd_reporting_success_quick_auto"		"Vote report successfully sent."
+		"rd_reporting_success_quick_auto"		"Vote report successfully sent."
 // %s1 is a 3-digit number (an HTTP status code)
 "[english]rd_reporting_error_http"		"An error occurred while sending the report. (Code %s1)"
 "rd_reporting_error_http"		"報告の送信中にエラーが発生しました。 (エラーコード：%s1)"
-// shown above the final message generated during the process of sending a report
-"[english]rd_reporting_finished_title"		"Report Status"
-"rd_reporting_finished_title"		"報告状況"
 
 // shown if a quick report was already sent
 "[english]rd_quick_report_already_commended"		"(already commended)"
@@ -9313,10 +9316,10 @@
 "rd_reporting_category_player"		"他のプレイヤー"
 "[english]rd_reporting_category_player_desc"		"Inform Reactive Drop Team about another player's behavior."
 "rd_reporting_category_player_desc"		"他のプレイヤーの行動についてReactive Drop Teamに報告する。"
-"[english]rd_reporting_category_bug"		"Game Bug"
-"rd_reporting_category_bug"		"ゲームのバグ"
-"[english]rd_reporting_category_bug_desc"		"Report a bug in Alien Swarm: Reactive Drop."
-"rd_reporting_category_bug_desc"		"Alien Swarm: Reactive Dropのバグについて報告する。"
+"[english]rd_reporting_category_game_bug"		"Game Bug"
+"rd_reporting_category_game_bug"		"ゲームのバグ"
+"[english]rd_reporting_category_game_bug_desc"		"Report a bug in Alien Swarm: Reactive Drop."
+"rd_reporting_category_game_bug_desc"		"Alien Swarm: Reactive Dropのバグについて報告する。"
 "[english]rd_reporting_category_other"		"Other"
 "rd_reporting_category_other"		"その他"
 "[english]rd_reporting_category_other_desc"		"Any issue that does not fit into the other categories."
@@ -9324,6 +9327,8 @@
 // should have the same capitalization style as nb_back
 "[english]rd_reporting_resume"		"RESUME INTERRUPTED REPORT"
 "rd_reporting_resume"		"中断された報告を再開中"
+		"[english]rd_reporting_submit"		"SEND REPORT"
+		"rd_reporting_submit"		"SEND REPORT"
 "[english]rd_reporting_subcategory_server_technical"		"Technical Issue"
 "rd_reporting_subcategory_server_technical"		"技術的な問題"
 "[english]rd_reporting_subcategory_server_abuse"		"Abusive Server"
@@ -9338,6 +9343,13 @@
 "rd_reporting_subcategory_player_abusive_communication"		"悪質な発言"
 "[english]rd_reporting_subcategory_player_commend"		"Commend Player / Other"
 "rd_reporting_subcategory_player_commend"		"プレイヤーの称賛など"
+		// checkbox
+		"[english]rd_reporting_include_this_screenshot"		"Include this screenshot"
+		"rd_reporting_include_this_screenshot"		"Include this screenshot"
+		// this currently shows up when the report category is "Another Player" but no subcategory has been chosen.
+		// selecting "Dedicated Server" automatically selects the "Other" subcategory.
+		"[english]rd_reporting_instructions_required_subcategory"		"Select a subcategory above before writing your report."
+		"rd_reporting_instructions_required_subcategory"		"Select a subcategory above before writing your report."
 // TODO
 "[english]rd_reporting_instructions_my_account"		""
 "rd_reporting_instructions_my_account"		""
@@ -9384,6 +9396,8 @@
 // - client and server FPS
 "[english]rd_reporting_includes_connection_quality"		"Some simple statistics about your recent network connection quality."
 "rd_reporting_includes_connection_quality"		"あなたのネットワーク接続状況に関する簡易的な統計情報。(pingや接続時間など)"
+		"[english]rd_reporting_continues_in_background"		"Report sending will continue in the background while the game is running. You do not need to wait on this screen."
+		"rd_reporting_continues_in_background"		"Report sending will continue in the background while the game is running. You do not need to wait on this screen."
 "[english]rd_reporting_only_team"		"Only Reactive Drop Team will see your report. It will not be shared directly with other players."
 "rd_reporting_only_team"		"Reactive Drop Teamだけが報告の内容を確認できます。他のプレイヤーに内容が直接共有されることはありません。"
 

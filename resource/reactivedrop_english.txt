@@ -4892,10 +4892,11 @@
 "rd_reporting_error_sending_client"	"Lost connection to the Steam client. Failed to send the report."
 "rd_reporting_error_sending_network"	"A network error occurred while attempting to send the report."
 "rd_reporting_success"	"Your report has been sent and will be reviewed by the Reactive Drop Team."
+"rd_reporting_success_quick_commend"	"Quick commendation successfully sent."
+"rd_reporting_success_quick_report"	"Quick report successfully sent."
+"rd_reporting_success_quick_auto"	"Vote report successfully sent."
 // %s1 is a 3-digit number (an HTTP status code)
 "rd_reporting_error_http"	"An error occurred while sending the report. (Code %s1)"
-// shown above the final message generated during the process of sending a report
-"rd_reporting_finished_title"	"Report Status"
 
 // shown if a quick report was already sent
 "rd_quick_report_already_commended"	"(already commended)"
@@ -4931,12 +4932,13 @@
 "rd_reporting_category_server_desc"	"An issue with a community-hosted dedicated server."
 "rd_reporting_category_player"	"Another Player"
 "rd_reporting_category_player_desc"	"Inform Reactive Drop Team about another player's behavior."
-"rd_reporting_category_bug"	"Game Bug"
-"rd_reporting_category_bug_desc"	"Report a bug in Alien Swarm: Reactive Drop."
+"rd_reporting_category_game_bug"	"Game Bug"
+"rd_reporting_category_game_bug_desc"	"Report a bug in Alien Swarm: Reactive Drop."
 "rd_reporting_category_other"	"Other"
 "rd_reporting_category_other_desc"	"Any issue that does not fit into the other categories."
 // should have the same capitalization style as nb_back
 "rd_reporting_resume"	"RESUME INTERRUPTED REPORT"
+"rd_reporting_submit"	"SEND REPORT"
 "rd_reporting_subcategory_server_technical"	"Technical Issue"
 "rd_reporting_subcategory_server_abuse"	"Abusive Server"
 "rd_reporting_subcategory_server_other"	"Other"
@@ -4944,6 +4946,11 @@
 "rd_reporting_subcategory_player_abusive_gameplay"	"Abusive Gameplay"
 "rd_reporting_subcategory_player_abusive_communication"	"Abusive Communication"
 "rd_reporting_subcategory_player_commend"	"Commend Player / Other"
+// checkbox
+"rd_reporting_include_this_screenshot"	"Include this screenshot"
+// this currently shows up when the report category is "Another Player" but no subcategory has been chosen.
+// selecting "Dedicated Server" automatically selects the "Other" subcategory.
+"rd_reporting_instructions_required_subcategory"	"Select a subcategory above before writing your report."
 // TODO
 "rd_reporting_instructions_my_account"	""
 "rd_reporting_instructions_server_technical"	""
@@ -4971,6 +4978,7 @@
 // - number of packets sent/received per second
 // - client and server FPS
 "rd_reporting_includes_connection_quality"	"Some simple statistics about your recent network connection quality."
+"rd_reporting_continues_in_background"	"Report sending will continue in the background while the game is running. You do not need to wait on this screen."
 "rd_reporting_only_team"	"Only Reactive Drop Team will see your report. It will not be shared directly with other players."
 
 // these are tab names
