@@ -1236,7 +1236,7 @@
 		"[english]SPACE"		"Space"
 		"SPACE"		"Espacio"
 		"[english]RCTRL"		"Right Ctrl"
-		"RCTRL"		"Ctrl de la derecho"
+		"RCTRL"		"Ctrl de la derecha"
 		"[english]RALT"		"Right Alt"
 		"RALT"		"Alt de la derecha"
 		"[english]ENTER"		"Enter"
