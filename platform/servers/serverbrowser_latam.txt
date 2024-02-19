@@ -350,8 +350,8 @@
 "[english]ServerBrowser_FindGames"		"Find games at this address..."
 "ServerBrowser_FindGames"		"Buscar partidas en esta dirección..."
 
-		"[english]ServerBrowser_SteamRunning"		"Steam Beta must be running to make use of Find Servers"
-		"ServerBrowser_SteamRunning"		"Steam Beta must be running to make use of Find Servers"
+"[english]ServerBrowser_SteamRunning"		"Steam Beta must be running to make use of Find Servers"
+"ServerBrowser_SteamRunning"		"La versión beta de Steam debe estar ejecutándose para poder buscar servidores."
 
 "[english]ServerBrowser_CustomTab"		"Custom"
 "ServerBrowser_CustomTab"		"Personalizado"
@@ -385,7 +385,7 @@
 "ServerBrowser_CustomServerURLButton"		"Sí, abrir el navegador web"
 "[english]ServerBrowser_QuickListRefreshing"		"Refreshing..."
 "ServerBrowser_QuickListRefreshing"		"Actualizando..."
-		"[english]ServerBrowser_QuickListCheck"		"Show Map List"
-		"ServerBrowser_QuickListCheck"		"Mostrar lista de mapas"
+"[english]ServerBrowser_QuickListCheck"		"Show Map List"
+"ServerBrowser_QuickListCheck"		"Mostrar lista de mapas"
 }
 }
