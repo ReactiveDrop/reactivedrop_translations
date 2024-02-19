@@ -283,10 +283,10 @@
 "[english]AssetPicker_Rescan"		"Rescan"
 "AssetPicker_Rescan"		"Escanear de nuevo"
 
-		"[english]SequencePicker_Defaults"		"Defaults"
-		"SequencePicker_Defaults"		"Defaults"
-		"[english]SequencePicker_RootMotion"		"Generate root motion"
-		"SequencePicker_RootMotion"		"Generate root motion"
+"[english]SequencePicker_Defaults"		"Defaults"
+"SequencePicker_Defaults"		"Por defecto"
+"[english]SequencePicker_RootMotion"		"Generate root motion"
+"SequencePicker_RootMotion"		"Generar movimiento raíz"
 
 "[english]DmeSourceDCCFile_DuplicateSourceTitle"		"Duplicate DCC object name!"
 "DmeSourceDCCFile_DuplicateSourceTitle"		"¡Nombre de objeto DCC duplicado!"
