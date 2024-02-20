@@ -1902,7 +1902,7 @@
 		"[english]L4D360UI_Controller_Healthpack"		"Select first aid"
 		"L4D360UI_Controller_Healthpack"		"Seleccionar botiquín"
 		"[english]L4D360UI_Controller_Crouch"		"Crouch"
-		"L4D360UI_Controller_Crouch"		"Agacharse"
+		"L4D360UI_Controller_Crouch"		"Agachar"
 		"[english]L4D360UI_Controller_Zoom"		"Sniper Rifle Zoom"
 		"L4D360UI_Controller_Zoom"		"Zoom rifle francotirador"
 		"[english]L4D360UI_Controller_Lookspin"		"180° Spin"
