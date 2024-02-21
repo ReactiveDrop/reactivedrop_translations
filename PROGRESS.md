@@ -10,7 +10,7 @@
 | [French](#french-français) | 31 | 138 | 42 | 2516 | 257 | 209 | 650 | 125 |
 | [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Hungarian](#non-curated-languages) | 55 | 138 | 42 | 3151 | 258 | 209 | 975 | 147 |
-| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | 17 | ✔️ | 2 | ✔️ | ✔️ |
+| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 102 | ✔️ |
 | [Korean](#koreana-한국어) | 11 | 10 | 38 | 1647 | 258 | 31 | 446 | 48 |
 | [Norwegian Bokmål](#non-curated-languages) | 73 | 708 | 47 | 3857 | 258 | 209 | 710 | 147 |
@@ -20,7 +20,7 @@
 | [Romanian](#non-curated-languages) | 55 | 1996 | 48 | 3863 | 258 | 209 | 975 | 147 |
 | [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | 17 | ✔️ | ✔️ | ✔️ | ✔️ |
 | [European Spanish](#spanish-español-de-españa) | 32 | 2004 | 40 | 2566 | 258 | 209 | 714 | 146 |
-| [Latin American Spanish](#latam-español-latinoamericano) | 1285 | 2004 | 634 | 4663 | 258 | 213 | 980 | 144 |
+| [Latin American Spanish](#latam-español-latinoamericano) | ✔️ | 2004 | ✔️ | 4663 | 258 | 213 | 336 | 144 |
 | [Swedish](#swedish-svenska) | ✔️ | 2003 | ✔️ | 1547 | ✔️ | 2 | ✔️ | 109 |
 | [Thai](#non-curated-languages) | 970 | 1993 | 50 | 4398 | 258 | 209 | 739 | 147 |
 | [Turkish](#non-curated-languages) | 55 | 137 | 42 | 3151 | 258 | 209 | 975 | 147 |
@@ -589,10 +589,7 @@
 
 </summary>
 
-### Strings
-
-- [statsweb_italian.vdf](community/stats_website/statsweb_italian.vdf) has 2 untranslated strings.
-- [reactivedrop_italian.txt](resource/reactivedrop_italian.txt) has 17 untranslated strings.
+✓ Up to date!
 
 </details>
 
@@ -1306,14 +1303,8 @@
 - [steam_input_latam.vdf](community/steam_input/steam_input_latam.vdf) has 97 untranslated strings.
 - [workshop_description_latam.vdf](community/workshop/workshop_description_latam.vdf) has 4 untranslated strings.
 - [misc/signage/signage_latam.vdf](misc/signage/signage_latam.vdf) has 69 untranslated strings.
-- [platform/servers/serverbrowser_latam.txt](platform/servers/serverbrowser_latam.txt) has 186 untranslated strings.
-- [platform/vgui_latam.txt](platform/vgui_latam.txt) has 184 untranslated strings.
-- [basemodui_latam.txt](resource/basemodui_latam.txt) has 1285 untranslated strings.
-- [chat_latam.txt](resource/chat_latam.txt) has 8 untranslated strings.
 - [closecaption_latam.txt](resource/closecaption_latam.txt) has 2004 untranslated strings.
-- [gameui_latam.txt](resource/gameui_latam.txt) has 634 untranslated strings.
 - [reactivedrop_latam.txt](resource/reactivedrop_latam.txt) has 4663 untranslated strings.
-- [valve_latam.txt](resource/valve_latam.txt) has 266 untranslated strings.
 
 ### Steam Store and Community
 
