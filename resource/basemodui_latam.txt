@@ -2331,7 +2331,7 @@
 		"[english]L4D360UI_MainMenu_Quit_Confirm"		"Alien Swarm: Reactive Drop"
 		"L4D360UI_MainMenu_Quit_Confirm"		"Alien Swarm: Reactive Drop"
 		"[english]L4D360UI_MainMenu_Quit_ConfirmMsg"		"Are you sure you want to quit?"
-		"L4D360UI_MainMenu_Quit_ConfirmMsg"		"¿Seguro que quieres abandonar?"
+		"L4D360UI_MainMenu_Quit_ConfirmMsg"		"¿Seguro que quieres salir?"
 
 		"[english]L4D360UI_PasswordEntry_Title"		"Server Requires Password"
 		"L4D360UI_PasswordEntry_Title"		"Se necesita una contraseña para este servidor"
