@@ -2746,7 +2746,7 @@
 		"[english]ASUI_Select_Campaign_tt"		"Select which campaign you will play."
 		"ASUI_Select_Campaign_tt"		"Selecciona la misión que vas a jugar."
 		"[english]ASUI_Select_Starting_Mission"		"STARTING MISSION"
-		"ASUI_Select_Starting_Mission"		"INICIANDO LA MISIÓN"
+		"ASUI_Select_Starting_Mission"		"INICIAR LA MISIÓN EN"
 		"[english]ASUI_Select_Starting_Mission_tt"		"Starting mission within the selected campaign."
 		"ASUI_Select_Starting_Mission_tt"		"Iniciando la misión dentro de la campaña seleccionada."
 		"[english]ASUI_GameSettings_MP_campaign"		"Game Settings"
