@@ -552,7 +552,7 @@
 "[english]Cannot_Be_Spectator"		"This server does not allow spectating"
 "Cannot_Be_Spectator"		"Este servidor no permite espectadores"
 
-		// Strings used by RejectConnection() in the engine
+// Strings used by RejectConnection() in the engine
 "[english]Valve_Reject_Background_Map"		"Can't join multiplayer game on background map listen server."
 "Valve_Reject_Background_Map"		"No se puede unir a una partida multijugador en un servidor con un mapa de fondo."
 "[english]Valve_Reject_Single_Player"		"Can't join another person's single player game from remote IP address."
