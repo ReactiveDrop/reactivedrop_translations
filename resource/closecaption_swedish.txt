@@ -4711,32 +4711,32 @@
 		"wildcat.Autogun2"		"<clr:238,106,80><B>Wildcat:<B> Wiee! Those little crawlers are toast!"
 
 
-		"[english]wildcat.AutogunReply0"		"<clr:238,106,80><B>Wildcat:<B> Hahaha, man!"
-		"wildcat.AutogunReply0"		"<clr:238,106,80><B>Wildcat:<B> Hahaha, man!"
+"[english]wildcat.AutogunReply0"		"<clr:238,106,80><B>Wildcat:<B> Hahaha, man!"
+"wildcat.AutogunReply0"		"<clr:238,106,80><B>Wildcat:<B> Hahaha, mannen!"
 
 
-		"[english]wildcat.AutogunReply1"		"<clr:238,106,80><B>Wildcat:<B> Hell, yeah!"
-		"wildcat.AutogunReply1"		"<clr:238,106,80><B>Wildcat:<B> Hell, yeah!"
+"[english]wildcat.AutogunReply1"		"<clr:238,106,80><B>Wildcat:<B> Hell, yeah!"
+"wildcat.AutogunReply1"		"<clr:238,106,80><B>Wildcat:<B> Hell, yeah!"
 
 
-		"[english]wildcat.Use0"		"<clr:238,106,80><B>Wildcat:<B> No problem."
-		"wildcat.Use0"		"<clr:238,106,80><B>Wildcat:<B> No problem."
+"[english]wildcat.Use0"		"<clr:238,106,80><B>Wildcat:<B> No problem."
+"wildcat.Use0"		"<clr:238,106,80><B>Wildcat:<B> Inga problem."
 
 
-		"[english]wildcat.Use1"		"<clr:238,106,80><B>Wildcat:<B> Roger."
-		"wildcat.Use1"		"<clr:238,106,80><B>Wildcat:<B> Roger."
+"[english]wildcat.Use1"		"<clr:238,106,80><B>Wildcat:<B> Roger."
+"wildcat.Use1"		"<clr:238,106,80><B>Wildcat:<B> Uppfattat."
 
 
-		"[english]wildcat.Use2"		"<clr:238,106,80><B>Wildcat:<B> Sure."
-		"wildcat.Use2"		"<clr:238,106,80><B>Wildcat:<B> Sure."
+"[english]wildcat.Use2"		"<clr:238,106,80><B>Wildcat:<B> Sure."
+"wildcat.Use2"		"<clr:238,106,80><B>Wildcat:<B> Visst."
 
 
-		"[english]wildcat.Use3"		"<clr:238,106,80><B>Wildcat:<B> Yeah."
-		"wildcat.Use3"		"<clr:238,106,80><B>Wildcat:<B> Yeah."
+"[english]wildcat.Use3"		"<clr:238,106,80><B>Wildcat:<B> Yeah."
+"wildcat.Use3"		"<clr:238,106,80><B>Wildcat:<B> Yeah."
 
 
-		"[english]wildcat.Idle0"		"<clr:238,106,80><B>Wildcat:<B> Did you hear that noise."
-		"wildcat.Idle0"		"<clr:238,106,80><B>Wildcat:<B> Did you hear that noise."
+"[english]wildcat.Idle0"		"<clr:238,106,80><B>Wildcat:<B> Did you hear that noise."
+"wildcat.Idle0"		"<clr:238,106,80><B>Wildcat:<B> Hörde du det där ljudet."
 
 
 		"[english]wildcat.Idle1"		"<clr:238,106,80><B>Wildcat:<B> I say we set some T-75 explosives and get the hell out!"
@@ -4747,84 +4747,84 @@
 		"wildcat.Idle2"		"<clr:238,106,80><B>Wildcat:<B> Let's get this party started."
 
 
-		"[english]wildcat.Idle3"		"<clr:238,106,80><B>Wildcat:<B> Meow."
-		"wildcat.Idle3"		"<clr:238,106,80><B>Wildcat:<B> Meow."
+"[english]wildcat.Idle3"		"<clr:238,106,80><B>Wildcat:<B> Meow."
+"wildcat.Idle3"		"<clr:238,106,80><B>Wildcat:<B> Meow."
 
 
 		"[english]wildcat.Idle4"		"<clr:238,106,80><B>Wildcat:<B> Peace through superior firepower."
 		"wildcat.Idle4"		"<clr:238,106,80><B>Wildcat:<B> Peace through superior firepower."
 
 
-		"[english]wildcat.Idle5"		"<clr:238,106,80><B>Wildcat:<B> Who dares, wins."
-		"wildcat.Idle5"		"<clr:238,106,80><B>Wildcat:<B> Who dares, wins."
+"[english]wildcat.Idle5"		"<clr:238,106,80><B>Wildcat:<B> Who dares, wins."
+"wildcat.Idle5"		"<clr:238,106,80><B>Wildcat:<B> Den som vågar, vinner."
 
 
 		"[english]wildcat.Idle6"		"<clr:238,106,80><B>Wildcat:<B> Shouldn't we be wasting bugs instead of cooling our heels?"
 		"wildcat.Idle6"		"<clr:238,106,80><B>Wildcat:<B> Shouldn't we be wasting bugs instead of cooling our heels?"
 
 
-		"[english]wildcat.FF0"		"<clr:238,106,80><B>Wildcat:<B> Christ, man."
-		"wildcat.FF0"		"<clr:238,106,80><B>Wildcat:<B> Christ, man."
+"[english]wildcat.FF0"		"<clr:238,106,80><B>Wildcat:<B> Christ, man."
+"wildcat.FF0"		"<clr:238,106,80><B>Wildcat:<B> Jesus mannen."
 
 
-		"[english]wildcat.FF1"		"<clr:238,106,80><B>Wildcat:<B> Watch it, man!"
-		"wildcat.FF1"		"<clr:238,106,80><B>Wildcat:<B> Watch it, man!"
+"[english]wildcat.FF1"		"<clr:238,106,80><B>Wildcat:<B> Watch it, man!"
+"wildcat.FF1"		"<clr:238,106,80><B>Wildcat:<B> Se upp mannen!"
 
 
-		"[english]wildcat.FiringAtAlien0"		"<clr:238,106,80><B>Wildcat:<B> Covering fire."
-		"wildcat.FiringAtAlien0"		"<clr:238,106,80><B>Wildcat:<B> Covering fire."
+"[english]wildcat.FiringAtAlien0"		"<clr:238,106,80><B>Wildcat:<B> Covering fire."
+"wildcat.FiringAtAlien0"		"<clr:238,106,80><B>Wildcat:<B> Täckande eld."
 
 
-		"[english]wildcat.FiringAtAlien1"		"<clr:238,106,80><B>Wildcat:<B> Kill em all."
-		"wildcat.FiringAtAlien1"		"<clr:238,106,80><B>Wildcat:<B> Kill em all."
+"[english]wildcat.FiringAtAlien1"		"<clr:238,106,80><B>Wildcat:<B> Kill em all."
+"wildcat.FiringAtAlien1"		"<clr:238,106,80><B>Wildcat:<B> Döda de alla."
 
 
-		"[english]wildcat.FollowMe0"		"<clr:238,106,80><B>Wildcat:<B> Follow me."
-		"wildcat.FollowMe0"		"<clr:238,106,80><B>Wildcat:<B> Follow me."
+"[english]wildcat.FollowMe0"		"<clr:238,106,80><B>Wildcat:<B> Follow me."
+"wildcat.FollowMe0"		"<clr:238,106,80><B>Wildcat:<B> Följ mig."
 
 
-		"[english]wildcat.FollowMe1"		"<clr:238,106,80><B>Wildcat:<B> Let's move."
-		"wildcat.FollowMe1"		"<clr:238,106,80><B>Wildcat:<B> Let's move."
+"[english]wildcat.FollowMe1"		"<clr:238,106,80><B>Wildcat:<B> Let's move."
+"wildcat.FollowMe1"		"<clr:238,106,80><B>Wildcat:<B> Låt oss röra på oss."
 
 
-		"[english]wildcat.FollowMe2"		"<clr:238,106,80><B>Wildcat:<B> Let's move out!"
-		"wildcat.FollowMe2"		"<clr:238,106,80><B>Wildcat:<B> Let's move out!"
+"[english]wildcat.FollowMe2"		"<clr:238,106,80><B>Wildcat:<B> Let's move out!"
+"wildcat.FollowMe2"		"<clr:238,106,80><B>Wildcat:<B> Låt oss flytta ut!"
 
 
-		"[english]wildcat.HoldPosition0"		"<clr:238,106,80><B>Wildcat:<B> Hold position."
-		"wildcat.HoldPosition0"		"<clr:238,106,80><B>Wildcat:<B> Hold position."
+"[english]wildcat.HoldPosition0"		"<clr:238,106,80><B>Wildcat:<B> Hold position."
+"wildcat.HoldPosition0"		"<clr:238,106,80><B>Wildcat:<B> Håll positionen."
 
 
-		"[english]wildcat.HoldPosition1"		"<clr:238,106,80><B>Wildcat:<B> Secure this area."
-		"wildcat.HoldPosition1"		"<clr:238,106,80><B>Wildcat:<B> Secure this area."
+"[english]wildcat.HoldPosition1"		"<clr:238,106,80><B>Wildcat:<B> Secure this area."
+"wildcat.HoldPosition1"		"<clr:238,106,80><B>Wildcat:<B> Säkra det här området."
 
 
-		"[english]wildcat.HoldPosition2"		"<clr:238,106,80><B>Wildcat:<B> Stay here."
-		"wildcat.HoldPosition2"		"<clr:238,106,80><B>Wildcat:<B> Stay here."
+"[english]wildcat.HoldPosition2"		"<clr:238,106,80><B>Wildcat:<B> Stay here."
+"wildcat.HoldPosition2"		"<clr:238,106,80><B>Wildcat:<B> Stanna här."
 
 
-		"[english]wildcat.NeedAmmo0"		"<clr:238,106,80><B>Wildcat:<B> Need ammo."
-		"wildcat.NeedAmmo0"		"<clr:238,106,80><B>Wildcat:<B> Need ammo."
+"[english]wildcat.NeedAmmo0"		"<clr:238,106,80><B>Wildcat:<B> Need ammo."
+"wildcat.NeedAmmo0"		"<clr:238,106,80><B>Wildcat:<B> Behöver ammunition."
 
 
-		"[english]wildcat.NoAmmo0"		"<clr:238,106,80><B>Wildcat:<B> Damn, out of ammo."
-		"wildcat.NoAmmo0"		"<clr:238,106,80><B>Wildcat:<B> Damn, out of ammo."
+"[english]wildcat.NoAmmo0"		"<clr:238,106,80><B>Wildcat:<B> Damn, out of ammo."
+"wildcat.NoAmmo0"		"<clr:238,106,80><B>Wildcat:<B> Tusan, har slut på ammunition."
 
 
-		"[english]wildcat.NoAmmo1"		"<clr:238,106,80><B>Wildcat:<B> No ammo!"
-		"wildcat.NoAmmo1"		"<clr:238,106,80><B>Wildcat:<B> No ammo!"
+"[english]wildcat.NoAmmo1"		"<clr:238,106,80><B>Wildcat:<B> No ammo!"
+"wildcat.NoAmmo1"		"<clr:238,106,80><B>Wildcat:<B> Ingen ammunition!"
 
 
-		"[english]wildcat.NoAmmo2"		"<clr:238,106,80><B>Wildcat:<B> Out of ammo!"
-		"wildcat.NoAmmo2"		"<clr:238,106,80><B>Wildcat:<B> Out of ammo!"
+"[english]wildcat.NoAmmo2"		"<clr:238,106,80><B>Wildcat:<B> Out of ammo!"
+"wildcat.NoAmmo2"		"<clr:238,106,80><B>Wildcat:<B> Slut på ammunition!"
 
 
-		"[english]wildcat.NoAmmo3"		"<clr:238,106,80><B>Wildcat:<B> Shit, out of ammo."
-		"wildcat.NoAmmo3"		"<clr:238,106,80><B>Wildcat:<B> Shit, out of ammo."
+"[english]wildcat.NoAmmo3"		"<clr:238,106,80><B>Wildcat:<B> Shit, out of ammo."
+"wildcat.NoAmmo3"		"<clr:238,106,80><B>Wildcat:<B> Tusan, slut på ammunition."
 
 
-		"[english]wildcat.Medic0"		"<clr:238,106,80><B>Wildcat:<B> Medic!"
-		"wildcat.Medic0"		"<clr:238,106,80><B>Wildcat:<B> Medic!"
+"[english]wildcat.Medic0"		"<clr:238,106,80><B>Wildcat:<B> Medic!"
+"wildcat.Medic0"		"<clr:238,106,80><B>Wildcat:<B> Sjukvårdare!"
 
 
 		"[english]wildcat.WildcatKillStart0"		"<clr:238,106,80><B>Wildcat:<B> Hah, you see that one, Wolfe?"
@@ -4835,16 +4835,16 @@
 		"wildcat.WildcatKillStart1"		"<clr:238,106,80><B>Wildcat:<B> That's another for me, Wolfe. You slowing down old man."
 
 
-		"[english]wildcat.WildcatKillReplyAhead0"		"<clr:238,106,80><B>Wildcat:<B> Hehehe"
-		"wildcat.WildcatKillReplyAhead0"		"<clr:238,106,80><B>Wildcat:<B> Hehehe"
+"[english]wildcat.WildcatKillReplyAhead0"		"<clr:238,106,80><B>Wildcat:<B> Hehehe"
+"wildcat.WildcatKillReplyAhead0"		"<clr:238,106,80><B>Wildcat:<B> Hehehe"
 
 
-		"[english]wildcat.WildcatKillReplyBehind0"		"<clr:238,106,80><B>Wildcat:<B> Damn it."
-		"wildcat.WildcatKillReplyBehind0"		"<clr:238,106,80><B>Wildcat:<B> Damn it."
+"[english]wildcat.WildcatKillReplyBehind0"		"<clr:238,106,80><B>Wildcat:<B> Damn it."
+"wildcat.WildcatKillReplyBehind0"		"<clr:238,106,80><B>Wildcat:<B> Helvete."
 
 
-		"[english]wildcat.WildcatKillReplyBehind1"		"<clr:238,106,80><B>Wildcat:<B> Damn it!"
-		"wildcat.WildcatKillReplyBehind1"		"<clr:238,106,80><B>Wildcat:<B> Damn it!"
+"[english]wildcat.WildcatKillReplyBehind1"		"<clr:238,106,80><B>Wildcat:<B> Damn it!"
+"wildcat.WildcatKillReplyBehind1"		"<clr:238,106,80><B>Wildcat:<B> Helvete!"
 
 
 		"[english]wildcat.WolfeKillReplyAhead0"		"<clr:238,106,80><B>Wildcat:<B> I'm still ahead, Wolfe."
@@ -4855,28 +4855,28 @@
 		"wildcat.WolfeKillReplyAhead1"		"<clr:238,106,80><B>Wildcat:<B> It'll take more than that to beat me, old man."
 
 
-		"[english]wildcat.WolfeKillReplyBehind0"		"<clr:238,106,80><B>Wildcat:<B> Damn it!"
-		"wildcat.WolfeKillReplyBehind0"		"<clr:238,106,80><B>Wildcat:<B> Damn it!"
+"[english]wildcat.WolfeKillReplyBehind0"		"<clr:238,106,80><B>Wildcat:<B> Damn it!"
+"wildcat.WolfeKillReplyBehind0"		"<clr:238,106,80><B>Wildcat:<B> Helvete!"
 
 
-		"[english]wildcat.WolfeKillReplyBehind1"		"<clr:238,106,80><B>Wildcat:<B> Yeah, yeah."
-		"wildcat.WolfeKillReplyBehind1"		"<clr:238,106,80><B>Wildcat:<B> Yeah, yeah."
+"[english]wildcat.WolfeKillReplyBehind1"		"<clr:238,106,80><B>Wildcat:<B> Yeah, yeah."
+"wildcat.WolfeKillReplyBehind1"		"<clr:238,106,80><B>Wildcat:<B> Yeah, yeah."
 
 
 		"[english]wildcat.Reloading0"		"<clr:238,106,80><B>Wildcat:<B> Lock and load."
 		"wildcat.Reloading0"		"<clr:238,106,80><B>Wildcat:<B> Lock and load."
 
 
-		"[english]wildcat.Reloading1"		"<clr:238,106,80><B>Wildcat:<B> Reload."
-		"wildcat.Reloading1"		"<clr:238,106,80><B>Wildcat:<B> Reload."
+"[english]wildcat.Reloading1"		"<clr:238,106,80><B>Wildcat:<B> Reload."
+"wildcat.Reloading1"		"<clr:238,106,80><B>Wildcat:<B> Ladda om."
 
 
-		"[english]wildcat.Reloading2"		"<clr:238,106,80><B>Wildcat:<B> Reload. Cover me."
-		"wildcat.Reloading2"		"<clr:238,106,80><B>Wildcat:<B> Reload. Cover me."
+"[english]wildcat.Reloading2"		"<clr:238,106,80><B>Wildcat:<B> Reload. Cover me."
+"wildcat.Reloading2"		"<clr:238,106,80><B>Wildcat:<B> Ladda om. Täck mig."
 
 
-		"[english]wildcat.Reloading3"		"<clr:238,106,80><B>Wildcat:<B> Reloading."
-		"wildcat.Reloading3"		"<clr:238,106,80><B>Wildcat:<B> Reloading."
+"[english]wildcat.Reloading3"		"<clr:238,106,80><B>Wildcat:<B> Reloading."
+"wildcat.Reloading3"		"<clr:238,106,80><B>Wildcat:<B> Laddar om."
 
 
 		"[english]wildcat.SentryInPlace0"		"<clr:238,106,80><B>Wildcat:<B> Go get them, girl."
@@ -4891,8 +4891,8 @@
 		"wildcat.SentryInPlace2"		"<clr:238,106,80><B>Wildcat:<B> Sentry's online."
 
 
-		"[english]wildcat.Ammo0"		"<clr:238,106,80><B>Wildcat:<B> Ammo!"
-		"wildcat.Ammo0"		"<clr:238,106,80><B>Wildcat:<B> Ammo!"
+"[english]wildcat.Ammo0"		"<clr:238,106,80><B>Wildcat:<B> Ammo!"
+"wildcat.Ammo0"		"<clr:238,106,80><B>Wildcat:<B> Ammunition!"
 
 
 		"[english]wildcat.Medkit0"		"<clr:238,106,80><B>Wildcat:<B> Medkit!"
@@ -4903,20 +4903,20 @@
 		"wildcat.Thanks0"		"<clr:238,106,80><B>Wildcat:<B> I owe you one."
 
 
-		"[english]wildcat.Thanks1"		"<clr:238,106,80><B>Wildcat:<B> Thanks!"
-		"wildcat.Thanks1"		"<clr:238,106,80><B>Wildcat:<B> Thanks!"
+"[english]wildcat.Thanks1"		"<clr:238,106,80><B>Wildcat:<B> Thanks!"
+"wildcat.Thanks1"		"<clr:238,106,80><B>Wildcat:<B> Tack!"
 
 
-		"[english]wildcat.Question0"		"<clr:238,106,80><B>Wildcat:<B> Huh?"
-		"wildcat.Question0"		"<clr:238,106,80><B>Wildcat:<B> Huh?"
+"[english]wildcat.Question0"		"<clr:238,106,80><B>Wildcat:<B> Huh?"
+"wildcat.Question0"		"<clr:238,106,80><B>Wildcat:<B> Huh?"
 
 
-		"[english]wildcat.Question1"		"<clr:238,106,80><B>Wildcat:<B> What?"
-		"wildcat.Question1"		"<clr:238,106,80><B>Wildcat:<B> What?"
+"[english]wildcat.Question1"		"<clr:238,106,80><B>Wildcat:<B> What?"
+"wildcat.Question1"		"<clr:238,106,80><B>Wildcat:<B> Va?"
 
 
-		"[english]wildcat.Question2"		"<clr:238,106,80><B>Wildcat:<B> What?"
-		"wildcat.Question2"		"<clr:238,106,80><B>Wildcat:<B> What?"
+"[english]wildcat.Question2"		"<clr:238,106,80><B>Wildcat:<B> What?"
+"wildcat.Question2"		"<clr:238,106,80><B>Wildcat:<B> Va?"
 
 
 		"[english]wildcat.Question3"		"<clr:238,106,80><B>Wildcat:<B> What is it?"
