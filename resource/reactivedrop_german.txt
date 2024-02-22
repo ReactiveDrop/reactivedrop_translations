@@ -9346,9 +9346,9 @@
 // checkbox
 "[english]rd_reporting_include_this_screenshot"		"Include this screenshot"
 "rd_reporting_include_this_screenshot"		"Diesen Screenshot inkludieren"
-		// shown above the player's name and avatar
-		"[english]rd_reporting_player_label"		"CURRENTLY REPORTING PLAYER"
-		"rd_reporting_player_label"		"CURRENTLY REPORTING PLAYER"
+// shown above the player's name and avatar
+"[english]rd_reporting_player_label"		"CURRENTLY REPORTING PLAYER"
+"rd_reporting_player_label"		"SETZT GERADE EINE MELDUNG AB"
 // this currently shows up when the report category is "Another Player" but no subcategory has been chosen.
 // selecting "Dedicated Server" automatically selects the "Other" subcategory.
 "[english]rd_reporting_instructions_required_subcategory"		"Select a subcategory above before writing your report."
