@@ -8,7 +8,7 @@
 | [Dutch](#non-curated-languages) | 55 | 2004 | 42 | 3157 | 258 | 209 | 710 | 146 |
 | [Finnish](#non-curated-languages) | 2 | 2004 | 41 | 3071 | 259 | 209 | 701 | 146 |
 | [French](#french-français) | 31 | 138 | 42 | 2522 | 257 | 209 | 650 | 125 |
-| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | 5 | ✔️ | ✔️ | ✔️ | ✔️ |
+| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Hungarian](#non-curated-languages) | 55 | 138 | 42 | 3157 | 258 | 209 | 975 | 147 |
 | [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | 6 | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | 5 | ✔️ | ✔️ | 102 | ✔️ |
@@ -18,10 +18,10 @@
 | [European Portuguese](#portuguese-português-europeu) | 4 | 180 | 32 | 2246 | 238 | 30 | 630 | 141 |
 | [Brazilian Portuguese](#brazilian-português) | 6 | 2004 | 32 | 1416 | 188 | 18 | 276 | 8 |
 | [Romanian](#non-curated-languages) | 55 | 1996 | 48 | 3869 | 258 | 209 | 975 | 147 |
-| [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | 5 | ✔️ | ✔️ | ✔️ | ✔️ |
+| [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [European Spanish](#spanish-español-de-españa) | 32 | 2004 | 40 | 2572 | 258 | 209 | 714 | 146 |
 | [Latin American Spanish](#latam-español-latinoamericano) | ✔️ | 2004 | ✔️ | 4669 | 258 | 213 | 336 | 144 |
-| [Swedish](#swedish-svenska) | ✔️ | 1965 | ✔️ | 1553 | ✔️ | ✔️ | ✔️ | 109 |
+| [Swedish](#swedish-svenska) | ✔️ | 1850 | ✔️ | 1553 | ✔️ | ✔️ | ✔️ | 109 |
 | [Thai](#non-curated-languages) | 970 | 1993 | 50 | 4404 | 258 | 209 | 739 | 147 |
 | [Turkish](#non-curated-languages) | 55 | 137 | 42 | 3157 | 258 | 209 | 975 | 147 |
 | [Ukrainian](#ukrainian-українська) | 31 | 131 | 32 | 2700 | 258 | 209 | 933 | 146 |
@@ -581,9 +581,7 @@
 
 </summary>
 
-### Strings
-
-- [reactivedrop_german.txt](resource/reactivedrop_german.txt) has 5 untranslated strings.
+✓ Up to date!
 
 </details>
 
@@ -1104,9 +1102,7 @@
 
 </summary>
 
-### Strings
-
-- [reactivedrop_russian.txt](resource/reactivedrop_russian.txt) has 5 untranslated strings.
+✓ Up to date!
 
 </details>
 
@@ -1476,7 +1472,7 @@
 
 ### Strings
 
-- [closecaption_swedish.txt](resource/closecaption_swedish.txt) has 1965 untranslated strings.
+- [closecaption_swedish.txt](resource/closecaption_swedish.txt) has 1850 untranslated strings.
 - [reactivedrop_swedish.txt](resource/reactivedrop_swedish.txt) has 1553 untranslated strings.
 
 ### Upcoming Release Notes
