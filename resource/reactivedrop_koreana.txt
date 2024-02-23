@@ -620,14 +620,38 @@
 		"[english]rd_hoiaf_bounty_mission_bonus_claimed"		"By completing this mission, %s1 has claimed a bounty of %s2 points! %s1 has claimed %s3 points from mission bounties so far this season.\n"
 		"rd_hoiaf_bounty_mission_bonus_claimed"		"By completing this mission, %s1 has claimed a bounty of %s2 points! %s1 has claimed %s3 points from mission bounties so far this season.\n"
 
+// messages are shown on the mission end screen and require textures for each letter to be created
+// don't worry about creating the textures--that's done by the person making the build--
+// but you will not be able to fully test a translation of these strings
+// that uses a new letter. just make sure it roughly fits on the screen.
+//
+// possible message combinations:
+// - MISSION COMPLETE: standard mission success
+// - MISSION FAILED: standard mission failure
+// - CAMPAIGN COMPLETE: mission success when it is the last mission in a campaign
+// - SKIRMISH COMPLETE: deathmatch mission completed (future)
+// - MARINES WIN: mission success in versus mode (future)
+// - BUG WINS: mission failure in versus mode (pun on "love wins"; see Swarmopedia notes; if you can't make this pun work, just make it say "aliens win" or something like that) (future)
+//
+// let me know if you need any of the "COMPLETE" messages split.
 "[english]asw_mission_complete_CAMPAIGN"		"CAMPAIGN"
 "asw_mission_complete_CAMPAIGN"		"작전"
 "[english]asw_mission_complete_MISSION"		"MISSION"
 "asw_mission_complete_MISSION"		"임무"
+		"[english]asw_mission_complete_SKIRMISH"		"SKIRMISH"
+		"asw_mission_complete_SKIRMISH"		"SKIRMISH"
+		"[english]asw_mission_complete_MARINES"		"MARINES"
+		"asw_mission_complete_MARINES"		"MARINES"
+		"[english]asw_mission_complete_BUG"		"BUG"
+		"asw_mission_complete_BUG"		"BUG"
 "[english]asw_mission_complete_COMPLETE"		"COMPLETE"
 "asw_mission_complete_COMPLETE"		"완료"
 "[english]asw_mission_complete_FAILED"		"FAILED"
 "asw_mission_complete_FAILED"		"실패"
+		"[english]asw_mission_complete_WIN"		"WIN"
+		"asw_mission_complete_WIN"		"WIN"
+		"[english]asw_mission_complete_WINS"		"WINS"
+		"asw_mission_complete_WINS"		"WINS"
 
 "[english]asw_weapon_tooltip_activate"		"Left click to activate"
 "asw_weapon_tooltip_activate"		"활성화하려면 클릭하세요."
