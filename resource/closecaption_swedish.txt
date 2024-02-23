@@ -4,7 +4,7 @@
 "Tokens"
 {
 "[english]testcommands"		"<clr:255,0,0>This is red<I> and italics<B> and<cr>bold<B><I><clr:255,255,255> and white again."
-"testcommands"		"<clr:255,0,0>Det är rött<I> och kursivt<B> och<cr>djärvt<B><I><clr:255,255,255> och vitt igen."
+"testcommands"		"<clr:255,0,0>Det här är rött<I> och kursivt<B> och<cr>djärvt<B><I><clr:255,255,255> och vitt igen."
 
 		// Lt. Williams
 
@@ -422,17 +422,17 @@
 "[english]bastille.FollowMe5"		"<clr:205,127,50><B>Bastille:<B> Hurry up!"
 "bastille.FollowMe5"		"<clr:205,127,50><B>Bastille:<B> Skynda på!"
 
-		"[english]bastille.FollowMe6"		"<clr:205,127,50><B>Bastille:<B> Let's move!"
-		"bastille.FollowMe6"		"<clr:205,127,50><B>Bastille:<B> Let's move!"
+"[english]bastille.FollowMe6"		"<clr:205,127,50><B>Bastille:<B> Let's move!"
+"bastille.FollowMe6"		"<clr:205,127,50><B>Bastille:<B> Låt oss röra på oss!"
 
-		"[english]bastille.FollowMe7"		"<clr:205,127,50><B>Bastille:<B> Move it!"
-		"bastille.FollowMe7"		"<clr:205,127,50><B>Bastille:<B> Move it!"
+"[english]bastille.FollowMe7"		"<clr:205,127,50><B>Bastille:<B> Move it!"
+"bastille.FollowMe7"		"<clr:205,127,50><B>Bastille:<B> Rör på er!"
 
-		"[english]bastille.FollowMe8"		"<clr:205,127,50><B>Bastille:<B> Move it, move it! This whole place is getting to hell!"
-		"bastille.FollowMe8"		"<clr:205,127,50><B>Bastille:<B> Move it, move it! This whole place is getting to hell!"
+"[english]bastille.FollowMe8"		"<clr:205,127,50><B>Bastille:<B> Move it, move it! This whole place is getting to hell!"
+"bastille.FollowMe8"		"<clr:205,127,50><B>Bastille:<B> Gå, gå! Hela det här stället går till helvete!"
 
-		"[english]bastille.FollowMe9"		"<clr:205,127,50><B>Bastille:<B> Move it! This whole place is getting to hell!"
-		"bastille.FollowMe9"		"<clr:205,127,50><B>Bastille:<B> Move it! This whole place is getting to hell!"
+"[english]bastille.FollowMe9"		"<clr:205,127,50><B>Bastille:<B> Move it! This whole place is getting to hell!"
+"bastille.FollowMe9"		"<clr:205,127,50><B>Bastille:<B> Rör på er!  Hela det här stället går till helvete!"
 
 "[english]bastille.FollowMe10"		"<clr:205,127,50><B>Bastille:<B> We got a job to do."
 "bastille.FollowMe10"		"<clr:205,127,50><B>Bastille:<B> Vi har ett jobb att göra."
@@ -476,38 +476,38 @@
 "[english]bastille.Medic2"		"<clr:205,127,50><B>Bastille:<B> Need a medic!"
 "bastille.Medic2"		"<clr:205,127,50><B>Bastille:<B> Behöver en läkare!"
 
-		"[english]bastille.Misc0"		"<clr:205,127,50><B>Bastille:<B> Do you know what, I feel better now."
-		"bastille.Misc0"		"<clr:205,127,50><B>Bastille:<B> Do you know what, I feel better now."
+"[english]bastille.Misc0"		"<clr:205,127,50><B>Bastille:<B> Do you know what, I feel better now."
+"bastille.Misc0"		"<clr:205,127,50><B>Bastille:<B> Vet du vad, jag känner mig bättre nu."
 
-		"[english]bastille.Misc1"		"<clr:205,127,50><B>Bastille:<B> Do you know what? I feel better now without these bastards on our back."
-		"bastille.Misc1"		"<clr:205,127,50><B>Bastille:<B> Do you know what? I feel better now without these bastards on our back."
+"[english]bastille.Misc1"		"<clr:205,127,50><B>Bastille:<B> Do you know what? I feel better now without these bastards on our back."
+"bastille.Misc1"		"<clr:205,127,50><B>Bastille:<B> Vet du vad? Jag mår bättre nu utan dessa jävlar på vår rygg."
 
-		"[english]bastille.Misc2"		"<clr:205,127,50><B>Bastille:<B> I'm happy or I'm starting to get annoyed."
-		"bastille.Misc2"		"<clr:205,127,50><B>Bastille:<B> I'm happy or I'm starting to get annoyed."
+"[english]bastille.Misc2"		"<clr:205,127,50><B>Bastille:<B> I'm happy or I'm starting to get annoyed."
+"bastille.Misc2"		"<clr:205,127,50><B>Bastille:<B> Jag är glad eller så börjar jag bli irriterad."
 
-		"[english]bastille.Misc3"		"<clr:205,127,50><B>Bastille:<B> So get up, you had a rest. That's enough. You're not dead."
-		"bastille.Misc3"		"<clr:205,127,50><B>Bastille:<B> So get up, you had a rest. That's enough. You're not dead."
+"[english]bastille.Misc3"		"<clr:205,127,50><B>Bastille:<B> So get up, you had a rest. That's enough. You're not dead."
+"bastille.Misc3"		"<clr:205,127,50><B>Bastille:<B> Så gå upp, du fick vila. Det räcker. Du är inte död."
 
-		"[english]bastille.Misc4"		"<clr:205,127,50><B>Bastille:<B> So stand up. Did you have a nice holiday? You're not dead."
-		"bastille.Misc4"		"<clr:205,127,50><B>Bastille:<B> So stand up. Did you have a nice holiday? You're not dead."
+"[english]bastille.Misc4"		"<clr:205,127,50><B>Bastille:<B> So stand up. Did you have a nice holiday? You're not dead."
+"bastille.Misc4"		"<clr:205,127,50><B>Bastille:<B> Så stå upp. Har du haft en trevlig semester? Du är inte död."
 
-		"[english]bastille.Misc5"		"<clr:205,127,50><B>Bastille:<B> So they're all dead. I feel like the good prince. Where's the princess?"
-		"bastille.Misc5"		"<clr:205,127,50><B>Bastille:<B> So they're all dead. I feel like the good prince. Where's the princess?"
+"[english]bastille.Misc5"		"<clr:205,127,50><B>Bastille:<B> So they're all dead. I feel like the good prince. Where's the princess?"
+"bastille.Misc5"		"<clr:205,127,50><B>Bastille:<B> Så de är alla döda. Jag känner mig som den gode prinsen. Var är prinsessan?"
 
-		"[english]bastille.Misc6"		"<clr:205,127,50><B>Bastille:<B> So what do we do now? They're all dead."
-		"bastille.Misc6"		"<clr:205,127,50><B>Bastille:<B> So what do we do now? They're all dead."
+"[english]bastille.Misc6"		"<clr:205,127,50><B>Bastille:<B> So what do we do now? They're all dead."
+"bastille.Misc6"		"<clr:205,127,50><B>Bastille:<B> Så vad gör vi nu? De är alla döda."
 
-		"[english]bastille.Misc7"		"<clr:205,127,50><B>Bastille:<B> They're getting closer."
-		"bastille.Misc7"		"<clr:205,127,50><B>Bastille:<B> They're getting closer."
+"[english]bastille.Misc7"		"<clr:205,127,50><B>Bastille:<B> They're getting closer."
+"bastille.Misc7"		"<clr:205,127,50><B>Bastille:<B> De kommer närmare."
 
-		"[english]bastille.Misc8"		"<clr:205,127,50><B>Bastille:<B> They're inside the perimeter."
-		"bastille.Misc8"		"<clr:205,127,50><B>Bastille:<B> They're inside the perimeter."
+"[english]bastille.Misc8"		"<clr:205,127,50><B>Bastille:<B> They're inside the perimeter."
+"bastille.Misc8"		"<clr:205,127,50><B>Bastille:<B> De är innanför omkretsen."
 
-		"[english]bastille.Misc9"		"<clr:205,127,50><B>Bastille:<B> This door's been sealed shut."
-		"bastille.Misc9"		"<clr:205,127,50><B>Bastille:<B> This door's been sealed shut."
+"[english]bastille.Misc9"		"<clr:205,127,50><B>Bastille:<B> This door's been sealed shut."
+"bastille.Misc9"		"<clr:205,127,50><B>Bastille:<B> Den här dörren har stängts."
 
-		"[english]bastille.Misc10"		"<clr:205,127,50><B>Bastille:<B> Well this place is alike a castle now."
-		"bastille.Misc10"		"<clr:205,127,50><B>Bastille:<B> Well this place is alike a castle now."
+"[english]bastille.Misc10"		"<clr:205,127,50><B>Bastille:<B> Well this place is alike a castle now."
+"bastille.Misc10"		"<clr:205,127,50><B>Bastille:<B> Det här stället är som ett slott nu."
 
 "[english]bastille.Misc11"		"<clr:205,127,50><B>Bastille:<B> You're starting to be annoying."
 "bastille.Misc11"		"<clr:205,127,50><B>Bastille:<B> Du börjar bli irriterande."
@@ -627,10 +627,10 @@
 "bastille.SuppliesAmmo0"		"<clr:205,127,50><B>Bastille:<B> Ah bra, lite ammunition."
 
 "[english]bastille.SuppliesAmmo1"		"<clr:205,127,50><B>Bastille:<B> Ah good, some supplies."
-"bastille.SuppliesAmmo1"		"<clr:205,127,50><B>Bastille:<B> Ah bra, lite resurser."
+"bastille.SuppliesAmmo1"		"<clr:205,127,50><B>Bastille:<B> Ah bra, lite förnödenheter."
 
 "[english]bastille.SuppliesAmmo2"		"<clr:205,127,50><B>Bastille:<B> Ah, some supplies. It feels like Christmas."
-"bastille.SuppliesAmmo2"		"<clr:205,127,50><B>Bastille:<B> Ah, lite resurser. Känns som Julafton."
+"bastille.SuppliesAmmo2"		"<clr:205,127,50><B>Bastille:<B> Ah, lite förnödenheter. Känns som Julafton."
 
 "[english]bastille.SuppliesAmmo3"		"<clr:205,127,50><B>Bastille:<B> Ha, just what we need."
 "bastille.SuppliesAmmo3"		"<clr:205,127,50><B>Bastille:<B> Ha, just vad vi behövde."
@@ -639,13 +639,13 @@
 "bastille.SuppliesAmmo4"		"<clr:205,127,50><B>Bastille:<B> Tack gode Gud, ett förråd."
 
 "[english]bastille.Supplies0"		"<clr:205,127,50><B>Bastille:<B> Ah, good, some supplies."
-"bastille.Supplies0"		"<clr:205,127,50><B>Bastille:<B> Ah, bra, lite resurser."
+"bastille.Supplies0"		"<clr:205,127,50><B>Bastille:<B> Ah, bra, lite förnödenheter."
 
-		"[english]bastille.Supplies1"		"<clr:205,127,50><B>Bastille:<B> Ah, some supplies, it feels like Christmas."
-		"bastille.Supplies1"		"<clr:205,127,50><B>Bastille:<B> Ah, some supplies, it feels like Christmas."
+"[english]bastille.Supplies1"		"<clr:205,127,50><B>Bastille:<B> Ah, some supplies, it feels like Christmas."
+"bastille.Supplies1"		"<clr:205,127,50><B>Bastille:<B> Ah, lite förnödenheter, det känns som Julafton."
 
-		"[english]bastille.Supplies2"		"<clr:205,127,50><B>Bastille:<B> Ha, just what we need!"
-		"bastille.Supplies2"		"<clr:205,127,50><B>Bastille:<B> Ha, just what we need!"
+"[english]bastille.Supplies2"		"<clr:205,127,50><B>Bastille:<B> Ha, just what we need!"
+"bastille.Supplies2"		"<clr:205,127,50><B>Bastille:<B> Ha, just vad vi behövde!"
 
 		"[english]bastille.Supplies3"		"<clr:205,127,50><B>Bastille:<B> Thank God, a supply room."
 		"bastille.Supplies3"		"<clr:205,127,50><B>Bastille:<B> Thank God, a supply room."
