@@ -8,7 +8,7 @@ GAME
 "MailDate3"	"Datum: 05/18/42"
 "MailSubject3"	"Betreff: Arthur Carradine's Gehirnoperation"
 "MailBody3A"	"Lieber Herr Doktor,"
-"MailBody3B"	"die Amygdalohippokampektomie bei Kapitän Carradine verlief ohne Probleme."
+"MailBody3B"	"die Amygdala-Hippokampektomie bei Kapitän Carradine verlief ohne Probleme."
 "MailBody3C"	"Obwohl der Patient selbst darum gebeten hat, dass seine Amygdala entfernt wird, habe ich gehört, dass du dem Eingriff persönlich zugestimmt hast. Aus diesem Grund sehe ich mich gezwungen, dich vor der Art der Operation zu warnen, die wir gerade durchgeführt haben, und vor den Auswirkungen, die sie auf das limbische System des Patienten haben wird, d.h. vor allem vor seiner veränderten Reaktion (oder besser gesagt, dem Fehlen derselben) auf Situationen, die normalerweise Angst, Furcht oder Aggressivität auslösen. Es gibt gute Gründe, warum dieser chirurgische Eingriff in der Medizin seit Jahrhunderten nicht mehr durchgeführt wurde, und auch dann nur in den schwersten Fällen."
 "MailBody3D"	"Herzlichst"
 }
