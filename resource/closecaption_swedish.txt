@@ -509,8 +509,8 @@
 		"[english]bastille.Misc10"		"<clr:205,127,50><B>Bastille:<B> Well this place is alike a castle now."
 		"bastille.Misc10"		"<clr:205,127,50><B>Bastille:<B> Well this place is alike a castle now."
 
-		"[english]bastille.Misc11"		"<clr:205,127,50><B>Bastille:<B> You're starting to be annoying."
-		"bastille.Misc11"		"<clr:205,127,50><B>Bastille:<B> Du börjar bli irriterande."
+"[english]bastille.Misc11"		"<clr:205,127,50><B>Bastille:<B> You're starting to be annoying."
+"bastille.Misc11"		"<clr:205,127,50><B>Bastille:<B> Du börjar bli irriterande."
 
 "[english]bastille.Reloading0"		"<clr:205,127,50><B>Bastille:<B> Lock and load!"
 "bastille.Reloading0"		"<clr:205,127,50><B>Bastille:<B> Laddat och klart!"
@@ -635,11 +635,11 @@
 "[english]bastille.SuppliesAmmo3"		"<clr:205,127,50><B>Bastille:<B> Ha, just what we need."
 "bastille.SuppliesAmmo3"		"<clr:205,127,50><B>Bastille:<B> Ha, just vad vi behövde."
 
-		"[english]bastille.SuppliesAmmo4"		"<clr:205,127,50><B>Bastille:<B> Thank God, a supply room."
-		"bastille.SuppliesAmmo4"		"<clr:205,127,50><B>Bastille:<B> Thank God, a supply room."
+"[english]bastille.SuppliesAmmo4"		"<clr:205,127,50><B>Bastille:<B> Thank God, a supply room."
+"bastille.SuppliesAmmo4"		"<clr:205,127,50><B>Bastille:<B> Tack gode Gud, ett förråd."
 
-		"[english]bastille.Supplies0"		"<clr:205,127,50><B>Bastille:<B> Ah, good, some supplies."
-		"bastille.Supplies0"		"<clr:205,127,50><B>Bastille:<B> Ah, good, some supplies."
+"[english]bastille.Supplies0"		"<clr:205,127,50><B>Bastille:<B> Ah, good, some supplies."
+"bastille.Supplies0"		"<clr:205,127,50><B>Bastille:<B> Ah, bra, lite resurser."
 
 		"[english]bastille.Supplies1"		"<clr:205,127,50><B>Bastille:<B> Ah, some supplies, it feels like Christmas."
 		"bastille.Supplies1"		"<clr:205,127,50><B>Bastille:<B> Ah, some supplies, it feels like Christmas."
