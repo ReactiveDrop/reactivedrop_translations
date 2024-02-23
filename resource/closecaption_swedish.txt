@@ -6145,8 +6145,8 @@
 "wolfe.TimeToLeave6"		"<clr:154,205,50><B>Wolfe:<B> Ja, låt oss ta oss härifrån."
 
 
-		"[english]wolfe.TimeToLeave7"		"<clr:154,205,50><B>Wolfe:<B> Yeah, time to wave this place goodbye."
-		"wolfe.TimeToLeave7"		"<clr:154,205,50><B>Wolfe:<B> Yeah, time to wave this place goodbye."
+"[english]wolfe.TimeToLeave7"		"<clr:154,205,50><B>Wolfe:<B> Yeah, time to wave this place goodbye."
+"wolfe.TimeToLeave7"		"<clr:154,205,50><B>Wolfe:<B> Ja, låt oss vinka hejdå till den här platsen."
  
 
 "[english]wolfe.WatchOut0"		"<clr:154,205,50><B>Wolfe:<B> Lookout!"
