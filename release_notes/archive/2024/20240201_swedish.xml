@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<content><string id="body">Denna månads uppdatering inkluderar [url=https://store.steampowered.com/news/app/563560/view/3994197038602903068]några stora förändringar till Hjältar av Interstellär Väpnade Styrkor[/url], samt vissa balansändringar för Infection Deathmatch-läget och flera andra fixar.
+
+		[h2]A note on Lag Compensation[/h2]
+		The internet doesn't transmit information instantly. Information can only travel at the speed of light, and sometimes the speed of light is just too slow. For example, if a player from Frankfurt joins a lobby hosted in Beijing, even if their computers were directly connected by a very long wire, information would take 50 milliseconds to get from Frankfurt to Beijing and back. In reality, the information needs to travel much further than the 15500 km round trip because the information doesn't move in a straight line.
+
+		When you fire a bullet, the information travels a long distance through complicated circuits before it even leaves your computer, and then it spends time traveling through a series of other computers before it finally reaches the one hosting the lobby. But that's not the end of the journey. Once the lobby host has figured out what your bullet did, that information needs to travel back to you and every other player in your lobby. By the time your bullet reaches the lobby host, the alien you were shooting might have moved! But game engines have a few tricks up their sleeves to hide this from you, and because they can't shorten the physical distance the information needs to travel, they do something easier: time travel!
+
+		The information about the bullet you fired doesn't wait until it gets to the host and back before it shows something on your screen. First, the game running on your computer pretends the information about the bullet made a round trip to the host instantly. This is called "prediction" because the game "predicts" what the host will say happened. Prediction is shown in red in the images below.
+
+		Second, when the information about the bullet reaches the host, the characters in the game [b]move back in time[/b] to check where your bullet would have hit. This is called "lag compensation", and is shown in blue in the images below.
+
+[img]{STEAM_CLAN_IMAGE}/27357479/425a4e8d4330cc9628e3e924dfab3cab575580ae.png[/img]
+		[i]Alien Swarm and Alien Swarm: Reactive Drop (prior to this update) lag compensation algorithm, shown with 300ms simulated round trip ping and default settings.[/i]
+
+		That's not good! If the drone hadn't been moving toward Vegas, he would have completely missed the shot! The lobby host rewound time, but it didn't do a very good job.
+
+		Here's what that shot will look like after this update:
+
+[img]{STEAM_CLAN_IMAGE}/27357479/c7440efa1232f45764d0970537c88ac1f7cf9e63.png[/img]
+		[i]Alien Swarm: Reactive Drop (as of this update) lag compensation algorithm, shown with 300ms simulated round trip ping and default settings.[/i]
+
+		Much better! If you have a configuration that sets cl_lagcompensation 0, we recommend removing that command as it means the lobby host won't time travel at all when you fire a bullet. [i]The hotfix a week ago inadvertently marked cl_lagcompensation as a cheat; it can now be changed freely when not connected to a lobby.[/i]
+
+		Want to try it out for yourself? Use the newly-added [b]sv_showimpacts 1[/b] command.
+
+[h2]Uppdrag[/h2]
+[list]
+[*][b]Tårar för Tarnor: Oasis Koloni Rymdhamn:[/b] Fixade en bit av taket som var fast till granater nära säkerhetskontoret och metalldetektorer.
+[*][b]Tårar för Tarnor: Oasis Koloni Rymdhamn:[/b] Fick ett tak mellan hangaren och bagageutlämningen att tona ut tidigare för att vara mindre distraherande.
+[*]Lade till en lösning för saknade ljud i verkstadsuppdraget The Gauntlet: Arktis.
+[/list]
+
+[h2]Vapen[/h2]
+[list]
+[*]Fixade ett animationsproblem som fick målet att flyttas åt höger strax efter att omladdningsanimeringen startade, vilket orsakade missade skott efter framgångsrika snabba omladdningar på vapen som Precision Rail Rifle.
+[*]Fixade nyupplåsta vapen som fick sin "nya" markör borttagen genom att låsa upp ett annat vapen och sedan stänga och öppna spelet igen istället för att bara ta bort det när vapnet väljs i briefing som avsett.
+[/list]
+
+[h2]Menu[/h2]
+[list]
+[*]Ledar- och kickröster återställs inte längre vid omedelbar omstart.
+[*]Förhindrade att omedelbar omstart användes mer än en gång var tredje sekund (asw_instant_restart_cooldown). Gäller inte omstarter omedelbart efter att uppdraget slutfört/misslyckats skärmen börjar tona in.
+[*]Fixade en visuell bugg som gjorde att utmaningen såg ut att ändras till "cmd_change_challenge" när du lämnade undermenyn för val av utmaning direkt efter att ha öppnat den i skapa lobbyskärmen.
+[/list]
+
+[h2]Annat[/h2]
+[list]
+[*]Lade till en aviseringslista och filtreringsinställningar i huvudmenyn.
+[*]Lade till stöd för fet och kursiv text i inventeringsobjektbeskrivningar i spelet.
+[*]Lade till rd_vindicator_fire_rate. Om 0, kommer den att använda det tidigare beteendet att ärva sin eldhastighet från hagelgeväret.
+[*]Fixade läkare som hade en 1-i-25 chans att skrika att de hade slut på medicin när de använde "Zing!" kommandot chatthjul.
+[*]Fixade en sällsynt krasch som kunde hända efter att statistik spelades in i slutet av ett uppdrag relaterat till den kommande betaversionen av hantverksmaterial.
+[/list]
+
+[h2]Infection Deathmatch Utmaning[/h2]
+[list]
+[*]Gevärsgranatskadebonus beräknas nu efter att tillbakaslagningskraften har beräknats.
+[*]Sänkte gevärsgranat skada.
+[*]Massivt ökad raketers tillbakaslagskraft.
+[*]Ökad raket skada.
+[*]Skador som tagits under förberedelsefasen är nu omedelbart läkt.
+[*]Människans brännskador mot zombies får nu skadebonus oavsett om källan till bränningen är en brandmina.
+[*]Konstruerade vaktgevär raderas nu omedelbart.
+[*]Tillåtit serverkonsolen (och utmaningsskript) att använda deathmatch-spellägets konsolkommandon (utöver lobbyledaren).
+[/list]</string><string id="subtitle"></string><string id="summary"></string><string id="title">Alien Swarm: Reactive Drop Uppdatering - Februari 1, 2024</string></content>
