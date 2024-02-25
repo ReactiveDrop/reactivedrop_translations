@@ -10,7 +10,7 @@
 [*]Once a report is started, you can resume the report at any time until you close the game, or throw it away and start a new one.
 [*]You can start a report on any player you played with or the last dedicated server you were on for up to an hour afterwards.
 [*]You can also file a report that is not tied to a player or server (for example, a bug report or asking for help with a problem related to your account) at any time.
-[*]Fixed the "auto-report on vote" checkbox on the player list always appearing to be unchecked when the menu loads.
+[*]Fixed the "Automatically report players I mute or vote for" checkbox on the player list always appearing to be unchecked when the menu loads.
 [/list]
 
 [h2]Deathmatch[/h2]
