@@ -638,20 +638,20 @@
 "asw_mission_complete_CAMPAIGN"		"CAMPAGNA"
 "[english]asw_mission_complete_MISSION"		"MISSION"
 "asw_mission_complete_MISSION"		"MISSIONE"
-		"[english]asw_mission_complete_SKIRMISH"		"SKIRMISH"
-		"asw_mission_complete_SKIRMISH"		"SKIRMISH"
-		"[english]asw_mission_complete_MARINES"		"MARINES"
-		"asw_mission_complete_MARINES"		"MARINES"
-		"[english]asw_mission_complete_BUG"		"BUG"
-		"asw_mission_complete_BUG"		"BUG"
+"[english]asw_mission_complete_SKIRMISH"		"SKIRMISH"
+"asw_mission_complete_SKIRMISH"		"SCHERMAGLIA"
+"[english]asw_mission_complete_MARINES"		"MARINES"
+"asw_mission_complete_MARINES"		"I SOLDATI"
+"[english]asw_mission_complete_BUG"		"BUG"
+"asw_mission_complete_BUG"		"GLI INSETTI"
 "[english]asw_mission_complete_COMPLETE"		"COMPLETE"
 "asw_mission_complete_COMPLETE"		"COMPLETATA"
 "[english]asw_mission_complete_FAILED"		"FAILED"
 "asw_mission_complete_FAILED"		"FALLITA"
-		"[english]asw_mission_complete_WIN"		"WIN"
-		"asw_mission_complete_WIN"		"WIN"
-		"[english]asw_mission_complete_WINS"		"WINS"
-		"asw_mission_complete_WINS"		"WINS"
+"[english]asw_mission_complete_WIN"		"WIN"
+"asw_mission_complete_WIN"		"HANNO VINTO"
+"[english]asw_mission_complete_WINS"		"WINS"
+"asw_mission_complete_WINS"		"HANNO VINTO"
 
 "[english]asw_weapon_tooltip_activate"		"Left click to activate"
 "asw_weapon_tooltip_activate"		"Pulsante sinistro per attivare"
@@ -9370,9 +9370,9 @@
 // checkbox
 "[english]rd_reporting_include_this_screenshot"		"Include this screenshot"
 "rd_reporting_include_this_screenshot"		"Includi questo screenshot"
-		// shown above the player's name and avatar
-		"[english]rd_reporting_player_label"		"CURRENTLY REPORTING PLAYER"
-		"rd_reporting_player_label"		"CURRENTLY REPORTING PLAYER"
+// shown above the player's name and avatar
+"[english]rd_reporting_player_label"		"CURRENTLY REPORTING PLAYER"
+"rd_reporting_player_label"		"GIOCATORE ATTUALMENTE SEGNALATO"
 // this currently shows up when the report category is "Another Player" but no subcategory has been chosen.
 // selecting "Dedicated Server" automatically selects the "Other" subcategory.
 "[english]rd_reporting_instructions_required_subcategory"		"Select a subcategory above before writing your report."

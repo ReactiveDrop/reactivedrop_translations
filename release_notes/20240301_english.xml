@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<content><string id="body">Next month (April) is Alien Swarm: Reactive Drop's 7th anniversary. We're not planning on having a huge update this year because we've decided it's better to release new content as soon as it's ready instead of waiting for an arbitrary time of year. March (this month) brings with it some new menus, fixes for various problems reported by the community, and some updates to an infrequently used NPC for mappers.
+
+[h2]Reporting[/h2]
+[list]
+[*]Added a button to quickly report or commend players in the player list (by default, F9, or the thumbs-up icon in the lobby). Reports go to the Reactive Drop Team.
+[*]Added a new option to the pause (ESC) menu: "Report a Problem".
+[*]Entering the pause menu now takes a screenshot that can be attached to the report.
+[*]This feature can be used for anything you think the Reactive Drop Team should know about. (Let us know through some other method if you get errors sending a report.)
+[*]Once a report is started, you can resume the report at any time until you close the game, or throw it away and start a new one.
+[*]You can start a report on any player you played with or the last dedicated server you were on for up to an hour afterwards.
+[*]You can also file a report that is not tied to a player or server (for example, a bug report or asking for help with a problem related to your account) at any time.
+[*]Fixed the "auto-report on vote" checkbox on the player list always appearing to be unchecked when the menu loads.
+[/list]
+
+[h2]Deathmatch[/h2]
+[list]
+[*][b]Infection Deathmatch Challenge:[/b] Prevented Onslaught from being activated in these modes.
+[*][b]Infection Deathmatch Challenge:[/b] The railgun now pushes zombies with much more force.
+[*]Heroes of the Interstellar Armed Forces servers no longer filter deathmatch challenges.
+[/list]
+
+[h2]Colonists (for mappers)[/h2]
+[list]
+[*]Colonists are no longer an auto-aim target by default. (Can be adjusted in Hammer.)
+[*]Colonists now show the friendly fire warning on the crosshair unless they are marked as an aim target.
+[*]The colonist behavior that makes them follow marines when interacted with can now be disabled in Hammer, and the colonist now has a glowing outline to indicate that this action is allowed.
+[*]Added "spawn with weapon" option for colonists in Hammer. However, many weapons act strangely with colonists; this will be addressed in the future based on what mappers need.
+[*]Combine soldiers now use asw_weapon_pdw_single rather than being hard-coded to use a custom model and animations. asw_weapon_pdw_single becomes an asw_weapon_pdw with special settings once it spawns, so scripts that manipulate asw_weapon_pdw do not need to be updated.
+[*]Colonists now support ai_goal_actbusy. All Half-Life 2 citizen busy actions are available.
+[*]Additionally, Drone_WallPound and Ranger_Sleep busy actions are now available.
+[*]Aliens now make "sounds" that humanoid NPCs can hear whenever they complete or loop an animation.
+[/list]
+
+[h2]Other Bug Fixes and Tweaks[/h2]
+[list]
+[*][b]Jacob's Rest: Cargo Elevator (all variants):[/b] Fixed some graphical oddities based on camera position on the metal plating after the toxic pit.
+[*]cl_lagcompensation can now be changed while connected to a server.
+[*]Fixed choppy animations for eggs.
+[*]Fixed computers sending an extra OnComputerHackCompleted output after the download is completed if asw_simple_hacking is enabled.
+[*]Fixed a main menu crash when cl_quick_join_scroll_max is 0 and rd_reduce_motion is 1.
+[*]Fixed a performance hitch when sending equipped inventory items (such as medals) to a server.
+[*]Removed some console warning messages that the game's Steam Input support code could show in non-error cases.
+[*]When running rd_steam_input_disable, the game now turns XInput support back on for every attached controller.
+[*]Changed the color for voice-muted players from gray to red to make it easier to differentiate them from non-speaking players, which were a different gray.
+[*]Removed a spammy server log message that could be triggered by alt-tabbing.
+[*]Lag compensation no longer runs for spectators.
+[/list]
+</string><string id="subtitle"></string><string id="summary"></string><string id="title">Alien Swarm: Reactive Drop Update - March 1, 2024</string></content>
