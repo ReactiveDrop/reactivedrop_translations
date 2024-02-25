@@ -9251,7 +9251,7 @@
 "rd_ticker_stat_deaths_from_grenades_today"		"今日は%s1人の海兵隊員が爆発物取扱法を正しく守らなかったせいで死亡しました"
 
 "[english]rd_reporting_auto_preference"		"Automatically report players I mute or vote for"
-"rd_reporting_auto_preference"		"ミュートやキック投票の対象にしたプレイヤーを自動的にリポートする"
+"rd_reporting_auto_preference"		"ミュートやキック投票の対象にしたプレイヤーを自動的に通報する"
 "[english]rd_reporting_error_not_connected"		"Cannot send a report while offline."
 "rd_reporting_error_not_connected"		"オフライン状態では報告を送ることはできません。"
 // shown when the game is asking Steam for a ticket that can be used to confirm the current player's identity to the reporting server.
