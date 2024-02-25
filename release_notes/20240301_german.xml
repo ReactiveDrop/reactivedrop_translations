@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<content><string id="body">Nächsten Monat (April) ist Alien Swarm: Reactive Drop sein 7-jähriges Jubiläum. Wir planen dieses Jahr kein großes Update, denn wir haben beschlossen, dass es besser ist, neue Inhalte zu veröffentlichen, sobald sie fertig sind, anstatt auf eine beliebige Zeit im Jahr zu warten. Der März (dieser Monat) bringt einige neue Menüs, Korrekturen für verschiedene Probleme, die von der Community gemeldet wurden, und einige Updates für einen selten genutzten NSC für Mapper mit sich.
+
+[h2]Melden[/h2]
+[list]
+[*]Es wurde eine Schaltfläche hinzugefügt, um Spieler in der Spielerliste schnell zu melden oder zu loben (standardmäßig F9 oder das Daumen-hoch-Symbol in der Lobby). Meldungen gehen an das Reactive Drop Team.
+[*]Dem Pausenmenü (ESC) wurde eine neue Option hinzugefügt: "Ein Problem melden".
+[*]Wenn du das Pausenmenü aufrufst, wird jetzt ein Screenshot erstellt, der an die Meldung angehängt werden kann.
+[*]Diese Funktion kann für alles genutzt werden, von dem du denkst, dass das Reactive Drop Team davon wissen sollte. (Lass es uns auf anderen Wegen wissen, wenn du beim Senden einer Meldung Schwierigkeiten hast).
+[*]Wenn du eine Meldung begonnen hast, kannst du sie jederzeit fortsetzen, bis du das Spiel schließt, oder sie wegwerfen und eine neue beginnen.
+[*]Du kannst für jeden Spieler, mit dem du gespielt hast, oder für den letzten dedizierten Server, auf dem du warst, bis zu einer Stunde danach eine Meldung erstellen.
+[*]Du kannst auch jederzeit eine Meldung einreichen, die nicht an einen Spieler oder Server gebunden ist (z.B. einen Fehlerbericht oder eine Bitte um Hilfe bei einem Problem im Zusammenhang mit deinem Account).
+[*]Es wurde behoben, dass die Checkbox "Bei Abstimmung automatisch melden" in der Spielerliste manchmal nicht aktiviert war.
+[/list]
+
+[h2]Deathmatch[/h2]
+[list]
+[*][b]Infektion Deathmatch Herausforderung:[/b] Verhindert, dass Ansturm in diesen Modi aktiviert wird.
+[*][b]Infektion Deathmatch Herausforderung:[/b] Das Schienengewehr schiebt die Zombies jetzt mit viel mehr Kraft.
+[*]Helden der interstellaren Streitkräfte Server filtern keine Deathmatch-Herausforderungen mehr.
+[/list]
+
+[h2]Kolonisten (für Mapper)[/h2]
+[list]
+[*]Kolonisten sind nicht mehr standardmäßig ein Ziel für die automatische Zielerfassung. (Kann in Hammer angepasst werden.)
+[*]Kolonisten zeigen jetzt die Freundbeschuss-Warnung im Fadenkreuz an, wenn sie nicht als Ziel markiert sind.
+[*]Das Verhalten der Kolonisten, das sie dazu bringt, Soldaten zu folgen, wenn sie mit ihnen interagieren, kann jetzt in Hammer deaktiviert werden. Kolonisten haben jetzt einen leuchtenden Umriss, um anzuzeigen, dass diese Aktion erlaubt ist.
+[*]Die Option "spawn with weapon" wurde für Kolonisten in Hammer hinzugefügt. Allerdings verhalten sich viele Waffen bei Kolonisten seltsam; dies wird in Zukunft je nach den Bedürfnissen der Mapper behoben werden.
+[*]Combine-Soldaten verwenden jetzt asw_weapon_pdw_single und sind nicht mehr hard-coded, um ein benutzerdefiniertes Modell und Animationen zu verwenden. asw_weapon_pdw_single wird zu einem asw_weapon_pdw mit speziellen Einstellungen, sobald es spawnt, sodass Skripte, die asw_weapon_pdw manipulieren, nicht aktualisiert werden müssen.
+[*]Kolonisten unterstützen jetzt ai_goal_actbusy. Alle Half-Life 2 Citizen-Aktionen sind verfügbar.
+[*]Außerdem sind jetzt die Aktionen Drone_WallPound und Ranger_Sleep busy verfügbar.
+[*]Aliens machen jetzt "Geräusche", die humanoide NSCs hören können, wenn sie eine Animation abschließen oder eine Schleife machen.
+[/list]
+
+[h2]Andere Fehlerbehebungen und Optimierungen[/h2]
+[list]
+[*][b]Jakobsruhe: Lastenaufzug (alle Varianten):[/b] Einige grafische Ungereimtheiten in Bezug auf die Kameraposition auf der Metallplatte nach der Giftgrube wurden behoben.
+[*]cl_lagcompensation kann jetzt geändert werden, während du mit einem Server verbunden bist.
+[*]Abgehackte Animationen für Eier behoben.
+[*]Es wurde behoben, dass Computer eine zusätzliche OnComputerHackCompleted-Ausgabe senden, nachdem der Download abgeschlossen war, bei aktiviertem asw_simple_hacking.
+[*]Ein Absturz des Hauptmenüs wurde behoben, wenn cl_quick_join_scroll_max gleich 0 und rd_reduce_motion gleich 1 war.
+[*]Ein Leistungsproblem beim Senden von ausgerüsteten Inventargegenständen (z.B. Medaillen) an Server wurde behoben.
+[*]Einige Konsolenwarnungen, die der Steam Input Support Code des Spiels in Nicht-Fehlerfällen anzeigen konnte, wurden entfernt.
+[*]Wenn du rd_steam_input_disable ausführst, schaltet das Spiel jetzt die XInput-Unterstützung für jeden angeschlossenen Controller wieder ein.
+[*]Die Farbe für stummgeschaltete Spieler wurde von grau auf rot geändert, damit sie leichter von nicht sprechenden Spielern unterschieden werden können, die ein anderes Grau hatten.
+[*]Eine spammige Server-Log-Meldung, die durch Alt-Tabbing ausgelöst werden konnte, wurde entfernt.
+[*]Für Zuschauer gibt es keinen Lag-Kompensation mehr.
+[/list]
+</string><string id="subtitle"></string><string id="summary"></string><string id="title">Alien Swarm: Reactive Drop Update - 1. März 2024</string></content>
