@@ -131,53 +131,53 @@
 		"[english]Command.co_m6_ob12"		"<clr:240,255,255><B>Lt. Williams:<B> Squad, you need to run like your lives depend on it. 'Cuz they do!"
 		"Command.co_m6_ob12"		"<clr:240,255,255><B>Lt. Williams:<B> Squad, you need to run like your lives depend on it. 'Cuz they do!"
 
-		"[english]Command.co_m6_ob13"		"<clr:240,255,255><B>Lt. Williams:<B> There's not much time left."
-		"Command.co_m6_ob13"		"<clr:240,255,255><B>Lt. Williams:<B> There's not much time left."
+"[english]Command.co_m6_ob13"		"<clr:240,255,255><B>Lt. Williams:<B> There's not much time left."
+"Command.co_m6_ob13"		"<clr:240,255,255><B>Lt. Williams:<B> Det är inte mycket tid kvar."
 
-		"[english]Command.co_m6_ob14"		"<clr:240,255,255><B>Lt. Williams:<B> You're running out of time!"
-		"Command.co_m6_ob14"		"<clr:240,255,255><B>Lt. Williams:<B> You're running out of time!"
+"[english]Command.co_m6_ob14"		"<clr:240,255,255><B>Lt. Williams:<B> You're running out of time!"
+"Command.co_m6_ob14"		"<clr:240,255,255><B>Lt. Williams:<B> Du håller på att få slut på tid!"
 
-		"[english]Command.co_m6_ob15"		"<clr:240,255,255><B>Lt. Williams:<B> Pick up the pace, or you're not going to make it!"
-		"Command.co_m6_ob15"		"<clr:240,255,255><B>Lt. Williams:<B> Pick up the pace, or you're not going to make it!"
+"[english]Command.co_m6_ob15"		"<clr:240,255,255><B>Lt. Williams:<B> Pick up the pace, or you're not going to make it!"
+"Command.co_m6_ob15"		"<clr:240,255,255><B>Lt. Williams:<B> Öka takten, eller så hinner ni inte!"
 
-		"[english]Command.co_m6_ob16"		"<clr:240,255,255><B>Lt. Williams:<B> Squad, you need to get out of there, NOW!"
-		"Command.co_m6_ob16"		"<clr:240,255,255><B>Lt. Williams:<B> Squad, you need to get out of there, NOW!"
+"[english]Command.co_m6_ob16"		"<clr:240,255,255><B>Lt. Williams:<B> Squad, you need to get out of there, NOW!"
+"Command.co_m6_ob16"		"<clr:240,255,255><B>Lt. Williams:<B> Truppen, ni måste komma därifrån, NU!"
 
-		"[english]Command.co_m6_ob17"		"<clr:240,255,255><B>Lt. Williams:<B> Ten seconds left!"
-		"Command.co_m6_ob17"		"<clr:240,255,255><B>Lt. Williams:<B> Ten seconds left!"
+"[english]Command.co_m6_ob17"		"<clr:240,255,255><B>Lt. Williams:<B> Ten seconds left!"
+"Command.co_m6_ob17"		"<clr:240,255,255><B>Lt. Williams:<B> 10 sekunder kvar!"
 
-		"[english]Command.co_m6_ob18"		"<clr:240,255,255><B>Lt. Williams:<B> You almost made it."
-		"Command.co_m6_ob18"		"<clr:240,255,255><B>Lt. Williams:<B> You almost made it."
+"[english]Command.co_m6_ob18"		"<clr:240,255,255><B>Lt. Williams:<B> You almost made it."
+"Command.co_m6_ob18"		"<clr:240,255,255><B>Lt. Williams:<B> Ni klarade nästan det."
 
-		"[english]Command.co_m6_ob19"		"<clr:240,255,255><B>Lt. Williams:<B> I'm sorry. I'll notify your next of kin."
-		"Command.co_m6_ob19"		"<clr:240,255,255><B>Lt. Williams:<B> I'm sorry. I'll notify your next of kin."
+"[english]Command.co_m6_ob19"		"<clr:240,255,255><B>Lt. Williams:<B> I'm sorry. I'll notify your next of kin."
+"Command.co_m6_ob19"		"<clr:240,255,255><B>Lt. Williams:<B> Jag är ledsen. Jag meddelar dina anhöriga."
 
-		"[english]Command.co_m6_ob20"		"<clr:240,255,255><B>Lt. Williams:<B> It was an honor serving with you. You will be remembered."
-		"Command.co_m6_ob20"		"<clr:240,255,255><B>Lt. Williams:<B> It was an honor serving with you. You will be remembered."
+"[english]Command.co_m6_ob20"		"<clr:240,255,255><B>Lt. Williams:<B> It was an honor serving with you. You will be remembered."
+"Command.co_m6_ob20"		"<clr:240,255,255><B>Lt. Williams:<B> Det var en ära att tjäna tillsammans med dig. Du kommer att bli ihågkommen."
 
-		"[english]Command.co_m6_ob21"		"<clr:240,255,255><B>Lt. Williams:<B> It was an honor to serve with each and every one of you. You made the ultimate sacrifice."
-		"Command.co_m6_ob21"		"<clr:240,255,255><B>Lt. Williams:<B> It was an honor to serve with each and every one of you. You made the ultimate sacrifice."
+"[english]Command.co_m6_ob21"		"<clr:240,255,255><B>Lt. Williams:<B> It was an honor to serve with each and every one of you. You made the ultimate sacrifice."
+"Command.co_m6_ob21"		"<clr:240,255,255><B>Lt. Williams:<B> Det var en ära att få tjäna tillsammans med var och en av er. Du gjorde den ultimata uppoffringen."
 
-		"[english]Command.co_m6_ob22"		"<clr:240,255,255><B>Lt. Williams:<B> Good work, mission accomplished!"
-		"Command.co_m6_ob22"		"<clr:240,255,255><B>Lt. Williams:<B> Good work, mission accomplished!"
+"[english]Command.co_m6_ob22"		"<clr:240,255,255><B>Lt. Williams:<B> Good work, mission accomplished!"
+"Command.co_m6_ob22"		"<clr:240,255,255><B>Lt. Williams:<B> Bra jobbat, uppdrag avklarat!"
 
-		"[english]Command.co_m6_ob23"		"<clr:240,255,255><B>Lt. Williams:<B> Mission accomplished!"
-		"Command.co_m6_ob23"		"<clr:240,255,255><B>Lt. Williams:<B> Mission accomplished!"
+"[english]Command.co_m6_ob23"		"<clr:240,255,255><B>Lt. Williams:<B> Mission accomplished!"
+"Command.co_m6_ob23"		"<clr:240,255,255><B>Lt. Williams:<B> Uppdrag avklarat!"
 
-		"[english]Command.co_m6_ob24"		"<clr:240,255,255><B>Lt. Williams:<B> You did it! The bomb's gone off! The Swarm threat has been exterminated."
-		"Command.co_m6_ob24"		"<clr:240,255,255><B>Lt. Williams:<B> You did it! The bomb's gone off! The Swarm threat has been exterminated."
+"[english]Command.co_m6_ob24"		"<clr:240,255,255><B>Lt. Williams:<B> You did it! The bomb's gone off! The Swarm threat has been exterminated."
+"Command.co_m6_ob24"		"<clr:240,255,255><B>Lt. Williams:<B> Ni gjorde det! Bomben har detonerats! Svärm hotet har utrotats."
 
-		"[english]Command.co_m6_ob25"		"<clr:240,255,255><B>Lt. Williams:<B> The nuke is blocked! Clear up the biomass to free it up!"
-		"Command.co_m6_ob25"		"<clr:240,255,255><B>Lt. Williams:<B> The nuke is blocked! Clear up the biomass to free it up!"
+"[english]Command.co_m6_ob25"		"<clr:240,255,255><B>Lt. Williams:<B> The nuke is blocked! Clear up the biomass to free it up!"
+"Command.co_m6_ob25"		"<clr:240,255,255><B>Lt. Williams:<B> Kärnvapnet är blockerad! Rensa upp biomassan för att få den fri!"
 
-		"[english]Command.co_m6_ob26"		"<clr:240,255,255><B>Lt. Williams:<B> Landing pads overun! Bloodhound's coming in! Jump on our back and we'll get you out of there!"
-		"Command.co_m6_ob26"		"<clr:240,255,255><B>Lt. Williams:<B> Landing pads overun! Bloodhound's coming in! Jump on our back and we'll get you out of there!"
+"[english]Command.co_m6_ob26"		"<clr:240,255,255><B>Lt. Williams:<B> Landing pads overun! Bloodhound's coming in! Jump on our back and we'll get you out of there!"
+"Command.co_m6_ob26"		"<clr:240,255,255><B>Lt. Williams:<B> Landningsplattorna är överkörda! Bloodhound kommer! Hoppa på vår rygg så tar vi dig därifrån!"
 
-		"[english]Command.co_m6_ob27"		"<clr:240,255,255><B>Lt. Williams:<B> Yeah! We made it!"
-		"Command.co_m6_ob27"		"<clr:240,255,255><B>Lt. Williams:<B> Yeah! We made it!"
+"[english]Command.co_m6_ob27"		"<clr:240,255,255><B>Lt. Williams:<B> Yeah! We made it!"
+"Command.co_m6_ob27"		"<clr:240,255,255><B>Lt. Williams:<B> Ja! Vi gjorde det!"
 
-		"[english]Command.co_hold_ob1"		"<clr:240,255,255><B>Lt. Williams:<B> Alright, squad, you made it to the extraction zone. Command ship is inbound. You just need to hold out until I get there."
-		"Command.co_hold_ob1"		"<clr:240,255,255><B>Lt. Williams:<B> Alright, squad, you made it to the extraction zone. Command ship is inbound. You just need to hold out until I get there."
+"[english]Command.co_hold_ob1"		"<clr:240,255,255><B>Lt. Williams:<B> Alright, squad, you made it to the extraction zone. Command ship is inbound. You just need to hold out until I get there."
+"Command.co_hold_ob1"		"<clr:240,255,255><B>Lt. Williams:<B> Okej, truppen, ni tog er till utvinningszonen. Kommandofartyget är på väg. Du behöver bara hålla ut tills jag kommer dit."
 
 "[english]Command.co_hold_ob2"		"<clr:240,255,255><B>Lt. Williams:<B> Almost there, squad."
 "Command.co_hold_ob2"		"<clr:240,255,255><B>Lt. Williams:<B> Nästan där truppen."
@@ -188,8 +188,8 @@
 "[english]Command.co_hold_ob4"		"<clr:240,255,255><B>Lt. Williams:<B> Coming in hot!"
 "Command.co_hold_ob4"		"<clr:240,255,255><B>Lt. Williams:<B> Kommer in varmt!"
 
-		"[english]Command.co_debriefing_ob1"		"<clr:240,255,255><B>Lt. Williams:<B> Objective completed! Good work, marines."
-		"Command.co_debriefing_ob1"		"<clr:240,255,255><B>Lt. Williams:<B> Objective completed! Good work, marines."
+"[english]Command.co_debriefing_ob1"		"<clr:240,255,255><B>Lt. Williams:<B> Objective completed! Good work, marines."
+"Command.co_debriefing_ob1"		"<clr:240,255,255><B>Lt. Williams:<B> Målet avklarat! Bra jobbat, marinsoldater."
 
 		"[english]Command.co_debriefing_ob2"		"<clr:240,255,255><B>Lt. Williams:<B> Analysis of the flight recorder from the escape pod shows a number of vessels did successfully break orbit and leave Vereon XII. Looks like a handful of SynTek officers and colonists."
 		"Command.co_debriefing_ob2"		"<clr:240,255,255><B>Lt. Williams:<B> Analysis of the flight recorder from the escape pod shows a number of vessels did successfully break orbit and leave Vereon XII. Looks like a handful of SynTek officers and colonists."
@@ -647,164 +647,164 @@
 "[english]bastille.Supplies2"		"<clr:205,127,50><B>Bastille:<B> Ha, just what we need!"
 "bastille.Supplies2"		"<clr:205,127,50><B>Bastille:<B> Ha, just vad vi behövde!"
 
-		"[english]bastille.Supplies3"		"<clr:205,127,50><B>Bastille:<B> Thank God, a supply room."
-		"bastille.Supplies3"		"<clr:205,127,50><B>Bastille:<B> Thank God, a supply room."
+"[english]bastille.Supplies3"		"<clr:205,127,50><B>Bastille:<B> Thank God, a supply room."
+"bastille.Supplies3"		"<clr:205,127,50><B>Bastille:<B> Tack gode Gud, ett förråd."
 
-		"[english]bastille.LockedTerminalCrash0"		"<clr:205,127,50><B>Bastille:<B> Access denied. Crash, can you get in?"
-		"bastille.LockedTerminalCrash0"		"<clr:205,127,50><B>Bastille:<B> Access denied. Crash, can you get in?"
+"[english]bastille.LockedTerminalCrash0"		"<clr:205,127,50><B>Bastille:<B> Access denied. Crash, can you get in?"
+"bastille.LockedTerminalCrash0"		"<clr:205,127,50><B>Bastille:<B> Tillgång nekad. Crash, kan du ta dig in?"
 
-		"[english]bastille.LockedTerminalFlynn0"		"<clr:205,127,50><B>Bastille:<B> Access denied. Flynn, can you get in?"
-		"bastille.LockedTerminalFlynn0"		"<clr:205,127,50><B>Bastille:<B> Access denied. Flynn, can you get in?"
+"[english]bastille.LockedTerminalFlynn0"		"<clr:205,127,50><B>Bastille:<B> Access denied. Flynn, can you get in?"
+"bastille.LockedTerminalFlynn0"		"<clr:205,127,50><B>Bastille:<B> Tillgång nekad. Flynn, kan du ta dig in?"
 
-		"[english]bastille.LockedTerminalVegas0"		"<clr:205,127,50><B>Bastille:<B> Access denied. Vegas, can you get in?"
-		"bastille.LockedTerminalVegas0"		"<clr:205,127,50><B>Bastille:<B> Access denied. Vegas, can you get in?"
+"[english]bastille.LockedTerminalVegas0"		"<clr:205,127,50><B>Bastille:<B> Access denied. Vegas, can you get in?"
+"bastille.LockedTerminalVegas0"		"<clr:205,127,50><B>Bastille:<B> Tillgång nekad. Vegas, kan du ta dig in?"
 
-		"[english]bastille.LockedTerminal0"		"<clr:205,127,50><B>Bastille:<B> Access denied."
-		"bastille.LockedTerminal0"		"<clr:205,127,50><B>Bastille:<B> Access denied."
+"[english]bastille.LockedTerminal0"		"<clr:205,127,50><B>Bastille:<B> Access denied."
+"bastille.LockedTerminal0"		"<clr:205,127,50><B>Bastille:<B> Tillgång nekad."
 
-		"[english]bastille.LockedTerminal1"		"<clr:205,127,50><B>Bastille:<B> Hm, locked terminal."
-		"bastille.LockedTerminal1"		"<clr:205,127,50><B>Bastille:<B> Hm, locked terminal."
+"[english]bastille.LockedTerminal1"		"<clr:205,127,50><B>Bastille:<B> Hm, locked terminal."
+"bastille.LockedTerminal1"		"<clr:205,127,50><B>Bastille:<B> Hm, låst terminal."
 
-		"[english]bastille.LockedTerminal2"		"<clr:205,127,50><B>Bastille:<B> It's locked."
-		"bastille.LockedTerminal2"		"<clr:205,127,50><B>Bastille:<B> It's locked."
+"[english]bastille.LockedTerminal2"		"<clr:205,127,50><B>Bastille:<B> It's locked."
+"bastille.LockedTerminal2"		"<clr:205,127,50><B>Bastille:<B> Den är låst."
 
-		"[english]bastille.LockedTerminal3"		"<clr:205,127,50><B>Bastille:<B> This terminal is secure."
-		"bastille.LockedTerminal3"		"<clr:205,127,50><B>Bastille:<B> This terminal is secure."
+"[english]bastille.LockedTerminal3"		"<clr:205,127,50><B>Bastille:<B> This terminal is secure."
+"bastille.LockedTerminal3"		"<clr:205,127,50><B>Bastille:<B> Denna terminal är säker."
 
-		"[english]bastille.LockedTerminal4"		"<clr:205,127,50><B>Bastille:<B> This terminal is secure."
-		"bastille.LockedTerminal4"		"<clr:205,127,50><B>Bastille:<B> This terminal is secure."
+"[english]bastille.LockedTerminal4"		"<clr:205,127,50><B>Bastille:<B> This terminal is secure."
+"bastille.LockedTerminal4"		"<clr:205,127,50><B>Bastille:<B> Denna terminal är säker."
 
-		"[english]bastille.HoldingPosition0"		"<clr:205,127,50><B>Bastille:<B> Covering area."
-		"bastille.HoldingPosition0"		"<clr:205,127,50><B>Bastille:<B> Covering area."
+"[english]bastille.HoldingPosition0"		"<clr:205,127,50><B>Bastille:<B> Covering area."
+"bastille.HoldingPosition0"		"<clr:205,127,50><B>Bastille:<B> Täcker området."
 
-		"[english]bastille.HoldingPosition1"		"<clr:205,127,50><B>Bastille:<B> Holding position."
-		"bastille.HoldingPosition1"		"<clr:205,127,50><B>Bastille:<B> Holding position."
+"[english]bastille.HoldingPosition1"		"<clr:205,127,50><B>Bastille:<B> Holding position."
+"bastille.HoldingPosition1"		"<clr:205,127,50><B>Bastille:<B> Håller positionen."
 
-		"[english]bastille.HoldingPosition2"		"<clr:205,127,50><B>Bastille:<B> In position."
-		"bastille.HoldingPosition2"		"<clr:205,127,50><B>Bastille:<B> In position."
+"[english]bastille.HoldingPosition2"		"<clr:205,127,50><B>Bastille:<B> In position."
+"bastille.HoldingPosition2"		"<clr:205,127,50><B>Bastille:<B> På position."
 
-		"[english]bastille.HoldingPosition3"		"<clr:205,127,50><B>Bastille:<B> Securing area."
-		"bastille.HoldingPosition3"		"<clr:205,127,50><B>Bastille:<B> Securing area."
+"[english]bastille.HoldingPosition3"		"<clr:205,127,50><B>Bastille:<B> Securing area."
+"bastille.HoldingPosition3"		"<clr:205,127,50><B>Bastille:<B> Säkrar område."
 
-		"[english]bastille.HoldingNorth0"		"<clr:205,127,50><B>Bastille:<B> Covering north."
-		"bastille.HoldingNorth0"		"<clr:205,127,50><B>Bastille:<B> Covering north."
+"[english]bastille.HoldingNorth0"		"<clr:205,127,50><B>Bastille:<B> Covering north."
+"bastille.HoldingNorth0"		"<clr:205,127,50><B>Bastille:<B> Täcker norrut."
 
-		"[english]bastille.HoldingNorth1"		"<clr:205,127,50><B>Bastille:<B> Covering northside."
-		"bastille.HoldingNorth1"		"<clr:205,127,50><B>Bastille:<B> Covering northside."
+"[english]bastille.HoldingNorth1"		"<clr:205,127,50><B>Bastille:<B> Covering northside."
+"bastille.HoldingNorth1"		"<clr:205,127,50><B>Bastille:<B> Täcker norra sidan."
 
-		"[english]bastille.HoldingNorth2"		"<clr:205,127,50><B>Bastille:<B> I've got the north."
-		"bastille.HoldingNorth2"		"<clr:205,127,50><B>Bastille:<B> I've got the north."
+"[english]bastille.HoldingNorth2"		"<clr:205,127,50><B>Bastille:<B> I've got the north."
+"bastille.HoldingNorth2"		"<clr:205,127,50><B>Bastille:<B> Jag har norrut."
 
-		"[english]bastille.HoldingNorth3"		"<clr:205,127,50><B>Bastille:<B> Northside in position."
-		"bastille.HoldingNorth3"		"<clr:205,127,50><B>Bastille:<B> Northside in position."
+"[english]bastille.HoldingNorth3"		"<clr:205,127,50><B>Bastille:<B> Northside in position."
+"bastille.HoldingNorth3"		"<clr:205,127,50><B>Bastille:<B> Norra sidan på plats."
 
-		"[english]bastille.HoldingSouth0"		"<clr:205,127,50><B>Bastille:<B> Covering south."
-		"bastille.HoldingSouth0"		"<clr:205,127,50><B>Bastille:<B> Covering south."
+"[english]bastille.HoldingSouth0"		"<clr:205,127,50><B>Bastille:<B> Covering south."
+"bastille.HoldingSouth0"		"<clr:205,127,50><B>Bastille:<B> Täcker söderut."
 
-		"[english]bastille.HoldingSouth1"		"<clr:205,127,50><B>Bastille:<B> Covering southside."
-		"bastille.HoldingSouth1"		"<clr:205,127,50><B>Bastille:<B> Covering southside."
+"[english]bastille.HoldingSouth1"		"<clr:205,127,50><B>Bastille:<B> Covering southside."
+"bastille.HoldingSouth1"		"<clr:205,127,50><B>Bastille:<B> Täcker södra sidan."
 
-		"[english]bastille.HoldingSouth2"		"<clr:205,127,50><B>Bastille:<B> I've got the south."
-		"bastille.HoldingSouth2"		"<clr:205,127,50><B>Bastille:<B> I've got the south."
+"[english]bastille.HoldingSouth2"		"<clr:205,127,50><B>Bastille:<B> I've got the south."
+"bastille.HoldingSouth2"		"<clr:205,127,50><B>Bastille:<B> Jag har södra sidan."
 
-		"[english]bastille.HoldingSouth3"		"<clr:205,127,50><B>Bastille:<B> Southside in position."
-		"bastille.HoldingSouth3"		"<clr:205,127,50><B>Bastille:<B> Southside in position."
+"[english]bastille.HoldingSouth3"		"<clr:205,127,50><B>Bastille:<B> Southside in position."
+"bastille.HoldingSouth3"		"<clr:205,127,50><B>Bastille:<B> Södra sidan på plats."
 
-		"[english]bastille.HoldingEast0"		"<clr:205,127,50><B>Bastille:<B> Covering east."
-		"bastille.HoldingEast0"		"<clr:205,127,50><B>Bastille:<B> Covering east."
+"[english]bastille.HoldingEast0"		"<clr:205,127,50><B>Bastille:<B> Covering east."
+"bastille.HoldingEast0"		"<clr:205,127,50><B>Bastille:<B> Täcker österut."
 
-		"[english]bastille.HoldingEast1"		"<clr:205,127,50><B>Bastille:<B> Covering eastside."
-		"bastille.HoldingEast1"		"<clr:205,127,50><B>Bastille:<B> Covering eastside."
+"[english]bastille.HoldingEast1"		"<clr:205,127,50><B>Bastille:<B> Covering eastside."
+"bastille.HoldingEast1"		"<clr:205,127,50><B>Bastille:<B> Täcker östra sidan."
 
-		"[english]bastille.HoldingEast2"		"<clr:205,127,50><B>Bastille:<B> I've got the east."
-		"bastille.HoldingEast2"		"<clr:205,127,50><B>Bastille:<B> I've got the east."
+"[english]bastille.HoldingEast2"		"<clr:205,127,50><B>Bastille:<B> I've got the east."
+"bastille.HoldingEast2"		"<clr:205,127,50><B>Bastille:<B> Jag har östra sidan."
 
-		"[english]bastille.HoldingEast3"		"<clr:205,127,50><B>Bastille:<B> Eastside in position."
-		"bastille.HoldingEast3"		"<clr:205,127,50><B>Bastille:<B> Eastside in position."
+"[english]bastille.HoldingEast3"		"<clr:205,127,50><B>Bastille:<B> Eastside in position."
+"bastille.HoldingEast3"		"<clr:205,127,50><B>Bastille:<B> Östra sidan på plats."
 
-		"[english]bastille.HoldingWest0"		"<clr:205,127,50><B>Bastille:<B> Covering west."
-		"bastille.HoldingWest0"		"<clr:205,127,50><B>Bastille:<B> Covering west."
+"[english]bastille.HoldingWest0"		"<clr:205,127,50><B>Bastille:<B> Covering west."
+"bastille.HoldingWest0"		"<clr:205,127,50><B>Bastille:<B> Täcker västerut."
 
-		"[english]bastille.HoldingWest1"		"<clr:205,127,50><B>Bastille:<B> Covering westside."
-		"bastille.HoldingWest1"		"<clr:205,127,50><B>Bastille:<B> Covering westside."
+"[english]bastille.HoldingWest1"		"<clr:205,127,50><B>Bastille:<B> Covering westside."
+"bastille.HoldingWest1"		"<clr:205,127,50><B>Bastille:<B> Täcker västra sidan."
 
-		"[english]bastille.HoldingWest2"		"<clr:205,127,50><B>Bastille:<B> I've got the west."
-		"bastille.HoldingWest2"		"<clr:205,127,50><B>Bastille:<B> I've got the west."
+"[english]bastille.HoldingWest2"		"<clr:205,127,50><B>Bastille:<B> I've got the west."
+"bastille.HoldingWest2"		"<clr:205,127,50><B>Bastille:<B> Jag har västra sidan."
 
-		"[english]bastille.HoldingWest3"		"<clr:205,127,50><B>Bastille:<B> Westside in position."
-		"bastille.HoldingWest3"		"<clr:205,127,50><B>Bastille:<B> Westside in position."
+"[english]bastille.HoldingWest3"		"<clr:205,127,50><B>Bastille:<B> Westside in position."
+"bastille.HoldingWest3"		"<clr:205,127,50><B>Bastille:<B> Västra sidan på plats."
 
-		"[english]bastille.GotPoint0"		"<clr:205,127,50><B>Bastille:<B> Bastille, taking point."
-		"bastille.GotPoint0"		"<clr:205,127,50><B>Bastille:<B> Bastille, taking point."
+"[english]bastille.GotPoint0"		"<clr:205,127,50><B>Bastille:<B> Bastille, taking point."
+"bastille.GotPoint0"		"<clr:205,127,50><B>Bastille:<B> Bastille, tar punkten."
 
-		"[english]bastille.GotPoint1"		"<clr:205,127,50><B>Bastille:<B> Taking point."
-		"bastille.GotPoint1"		"<clr:205,127,50><B>Bastille:<B> Taking point."
+"[english]bastille.GotPoint1"		"<clr:205,127,50><B>Bastille:<B> Taking point."
+"bastille.GotPoint1"		"<clr:205,127,50><B>Bastille:<B> Tar punkten."
 
-		"[english]bastille.GotRear0"		"<clr:205,127,50><B>Bastille:<B> Bastille, taking rearguard."
-		"bastille.GotRear0"		"<clr:205,127,50><B>Bastille:<B> Bastille, taking rearguard."
+"[english]bastille.GotRear0"		"<clr:205,127,50><B>Bastille:<B> Bastille, taking rearguard."
+"bastille.GotRear0"		"<clr:205,127,50><B>Bastille:<B> Bastille, tar bakvakt."
 
-		"[english]bastille.GotRear1"		"<clr:205,127,50><B>Bastille:<B> I'll cover the back."
-		"bastille.GotRear1"		"<clr:205,127,50><B>Bastille:<B> I'll cover the back."
+"[english]bastille.GotRear1"		"<clr:205,127,50><B>Bastille:<B> I'll cover the back."
+"bastille.GotRear1"		"<clr:205,127,50><B>Bastille:<B> Jag täcker baksidan."
 
-		"[english]bastille.GotRear2"		"<clr:205,127,50><B>Bastille:<B> I've got the back."
-		"bastille.GotRear2"		"<clr:205,127,50><B>Bastille:<B> I've got the back."
+"[english]bastille.GotRear2"		"<clr:205,127,50><B>Bastille:<B> I've got the back."
+"bastille.GotRear2"		"<clr:205,127,50><B>Bastille:<B> Jag har baksidan."
 
-		"[english]bastille.RequestSealDoor0"		"<clr:205,127,50><B>Bastille:<B> Quick, seal it up."
-		"bastille.RequestSealDoor0"		"<clr:205,127,50><B>Bastille:<B> Quick, seal it up."
+"[english]bastille.RequestSealDoor0"		"<clr:205,127,50><B>Bastille:<B> Quick, seal it up."
+"bastille.RequestSealDoor0"		"<clr:205,127,50><B>Bastille:<B> Snabbt, försegla den."
 
-		"[english]bastille.RequestSealDoor1"		"<clr:205,127,50><B>Bastille:<B> Seal the door."
-		"bastille.RequestSealDoor1"		"<clr:205,127,50><B>Bastille:<B> Seal the door."
+"[english]bastille.RequestSealDoor1"		"<clr:205,127,50><B>Bastille:<B> Seal the door."
+"bastille.RequestSealDoor1"		"<clr:205,127,50><B>Bastille:<B> Försegla dörren."
 
-		"[english]bastille.RequestSealDoor2"		"<clr:205,127,50><B>Bastille:<B> Securing door."
-		"bastille.RequestSealDoor2"		"<clr:205,127,50><B>Bastille:<B> Securing door."
+"[english]bastille.RequestSealDoor2"		"<clr:205,127,50><B>Bastille:<B> Securing door."
+"bastille.RequestSealDoor2"		"<clr:205,127,50><B>Bastille:<B> Säkrar dörr."
 
-		"[english]bastille.RequestSealDoor3"		"<clr:205,127,50><B>Bastille:<B> Someone secure the door."
-		"bastille.RequestSealDoor3"		"<clr:205,127,50><B>Bastille:<B> Someone secure the door."
+"[english]bastille.RequestSealDoor3"		"<clr:205,127,50><B>Bastille:<B> Someone secure the door."
+"bastille.RequestSealDoor3"		"<clr:205,127,50><B>Bastille:<B> Någon säkra dörren."
 
-		"[english]bastille.RequestCutDoor0"		"<clr:205,127,50><B>Bastille:<B> Cut the door open."
-		"bastille.RequestCutDoor0"		"<clr:205,127,50><B>Bastille:<B> Cut the door open."
+"[english]bastille.RequestCutDoor0"		"<clr:205,127,50><B>Bastille:<B> Cut the door open."
+"bastille.RequestCutDoor0"		"<clr:205,127,50><B>Bastille:<B> Skär upp dörren."
 
-		"[english]bastille.RequestCutDoor1"		"<clr:205,127,50><B>Bastille:<B> Cut through."
-		"bastille.RequestCutDoor1"		"<clr:205,127,50><B>Bastille:<B> Cut through."
+"[english]bastille.RequestCutDoor1"		"<clr:205,127,50><B>Bastille:<B> Cut through."
+"bastille.RequestCutDoor1"		"<clr:205,127,50><B>Bastille:<B> Skär igenom."
 
-		"[english]bastille.RequestCutDoor2"		"<clr:205,127,50><B>Bastille:<B> Get this door open."
-		"bastille.RequestCutDoor2"		"<clr:205,127,50><B>Bastille:<B> Get this door open."
+"[english]bastille.RequestCutDoor2"		"<clr:205,127,50><B>Bastille:<B> Get this door open."
+"bastille.RequestCutDoor2"		"<clr:205,127,50><B>Bastille:<B> Få upp den här dörren."
 
-		"[english]bastille.RequestShootDoor0"		"<clr:205,127,50><B>Bastille:<B> All weapons blast it down."
-		"bastille.RequestShootDoor0"		"<clr:205,127,50><B>Bastille:<B> All weapons blast it down."
+"[english]bastille.RequestShootDoor0"		"<clr:205,127,50><B>Bastille:<B> All weapons blast it down."
+"bastille.RequestShootDoor0"		"<clr:205,127,50><B>Bastille:<B> Alla vapen skjut ner den."
 
-		"[english]bastille.RequestShootDoor1"		"<clr:205,127,50><B>Bastille:<B> Get this door open."
-		"bastille.RequestShootDoor1"		"<clr:205,127,50><B>Bastille:<B> Get this door open."
+"[english]bastille.RequestShootDoor1"		"<clr:205,127,50><B>Bastille:<B> Get this door open."
+"bastille.RequestShootDoor1"		"<clr:205,127,50><B>Bastille:<B> Få upp den här dörren."
 
-		"[english]bastille.RequestShootDoor2"		"<clr:205,127,50><B>Bastille:<B> Shoot the door down."
-		"bastille.RequestShootDoor2"		"<clr:205,127,50><B>Bastille:<B> Shoot the door down."
+"[english]bastille.RequestShootDoor2"		"<clr:205,127,50><B>Bastille:<B> Shoot the door down."
+"bastille.RequestShootDoor2"		"<clr:205,127,50><B>Bastille:<B> Skjut ner dörren."
 
-		"[english]bastille.RequestShootDoor3"		"<clr:205,127,50><B>Bastille:<B> We can blast it down."
-		"bastille.RequestShootDoor3"		"<clr:205,127,50><B>Bastille:<B> We can blast it down."
+"[english]bastille.RequestShootDoor3"		"<clr:205,127,50><B>Bastille:<B> We can blast it down."
+"bastille.RequestShootDoor3"		"<clr:205,127,50><B>Bastille:<B> Vi kan spränga ner den."
 
-		"[english]bastille.CuttingDoor0"		"<clr:205,127,50><B>Bastille:<B> Bastille, cutting door."
-		"bastille.CuttingDoor0"		"<clr:205,127,50><B>Bastille:<B> Bastille, cutting door."
+"[english]bastille.CuttingDoor0"		"<clr:205,127,50><B>Bastille:<B> Bastille, cutting door."
+"bastille.CuttingDoor0"		"<clr:205,127,50><B>Bastille:<B> Bastille, skär dörren."
 
-		"[english]bastille.CuttingDoor1"		"<clr:205,127,50><B>Bastille:<B> Bastille, cutting through."
-		"bastille.CuttingDoor1"		"<clr:205,127,50><B>Bastille:<B> Bastille, cutting through."
+"[english]bastille.CuttingDoor1"		"<clr:205,127,50><B>Bastille:<B> Bastille, cutting through."
+"bastille.CuttingDoor1"		"<clr:205,127,50><B>Bastille:<B> Bastille, skär igenom."
 
-		"[english]bastille.CuttingDoor2"		"<clr:205,127,50><B>Bastille:<B> Cutting door is just like surgery."
-		"bastille.CuttingDoor2"		"<clr:205,127,50><B>Bastille:<B> Cutting door is just like surgery."
+"[english]bastille.CuttingDoor2"		"<clr:205,127,50><B>Bastille:<B> Cutting door is just like surgery."
+"bastille.CuttingDoor2"		"<clr:205,127,50><B>Bastille:<B> Att skära dörren är just som att operera."
 
-		"[english]bastille.SealingDoor0"		"<clr:205,127,50><B>Bastille:<B> Bastille, sealing door."
-		"bastille.SealingDoor0"		"<clr:205,127,50><B>Bastille:<B> Bastille, sealing door."
+"[english]bastille.SealingDoor0"		"<clr:205,127,50><B>Bastille:<B> Bastille, sealing door."
+"bastille.SealingDoor0"		"<clr:205,127,50><B>Bastille:<B> Bastille, förseglar dörr."
 
-		"[english]bastille.SealingDoor1"		"<clr:205,127,50><B>Bastille:<B> Sealing door."
-		"bastille.SealingDoor1"		"<clr:205,127,50><B>Bastille:<B> Sealing door."
+"[english]bastille.SealingDoor1"		"<clr:205,127,50><B>Bastille:<B> Sealing door."
+"bastille.SealingDoor1"		"<clr:205,127,50><B>Bastille:<B> Förseglar dörr."
 
-		"[english]bastille.Biomass0"		"<clr:205,127,50><B>Bastille:<B> Biomass! I hope you like the smell of burning alien flesh."
-		"bastille.Biomass0"		"<clr:205,127,50><B>Bastille:<B> Biomass! I hope you like the smell of burning alien flesh."
+"[english]bastille.Biomass0"		"<clr:205,127,50><B>Bastille:<B> Biomass! I hope you like the smell of burning alien flesh."
+"bastille.Biomass0"		"<clr:205,127,50><B>Bastille:<B> Biomassa! Jag hoppas du gillar lukten av brinnande alien kött."
 
-		"[english]bastille.Biomass1"		"<clr:205,127,50><B>Bastille:<B> Swarm biomass, burn it out!"
-		"bastille.Biomass1"		"<clr:205,127,50><B>Bastille:<B> Swarm biomass, burn it out!"
+"[english]bastille.Biomass1"		"<clr:205,127,50><B>Bastille:<B> Swarm biomass, burn it out!"
+"bastille.Biomass1"		"<clr:205,127,50><B>Bastille:<B> Svärm biomassa, bränn ut det!"
 
-		"[english]bastille.Biomass2"		"<clr:205,127,50><B>Bastille:<B> Swarm biomass. Fascinating."
-		"bastille.Biomass2"		"<clr:205,127,50><B>Bastille:<B> Swarm biomass. Fascinating."
+"[english]bastille.Biomass2"		"<clr:205,127,50><B>Bastille:<B> Swarm biomass. Fascinating."
+"bastille.Biomass2"		"<clr:205,127,50><B>Bastille:<B> Svärm biomassa. Fascinerande."
 
 		"[english]bastille.TimeToLeave0"		"<clr:205,127,50><B>Bastille:<B> Objectives complete, let's get out of here!"
 		"bastille.TimeToLeave0"		"<clr:205,127,50><B>Bastille:<B> Objectives complete, let's get out of here!"
@@ -3563,44 +3563,44 @@
 		"sarge.SwarmEggs3"		"<clr:238,207,161><B>Sarge:<B> Scramble them eggs, boys."
 
 
-		"[english]sarge.Grenade0"		"<clr:238,207,161><B>Sarge:<B> Grenade!"
-		"sarge.Grenade0"		"<clr:238,207,161><B>Sarge:<B> Grenade!"
+"[english]sarge.Grenade0"		"<clr:238,207,161><B>Sarge:<B> Grenade!"
+"sarge.Grenade0"		"<clr:238,207,161><B>Sarge:<B> Granat!"
 
 
-		"[english]sarge.Grenade1"		"<clr:238,207,161><B>Sarge:<B> Clear!"
-		"sarge.Grenade1"		"<clr:238,207,161><B>Sarge:<B> Clear!"
+"[english]sarge.Grenade1"		"<clr:238,207,161><B>Sarge:<B> Clear!"
+"sarge.Grenade1"		"<clr:238,207,161><B>Sarge:<B> Klart!"
 
 
-		"[english]sarge.Grenade2"		"<clr:238,207,161><B>Sarge:<B> Eat this!"
-		"sarge.Grenade2"		"<clr:238,207,161><B>Sarge:<B> Eat this!"
+"[english]sarge.Grenade2"		"<clr:238,207,161><B>Sarge:<B> Eat this!"
+"sarge.Grenade2"		"<clr:238,207,161><B>Sarge:<B> Ät det här!"
 
 
-		"[english]sarge.AlienTooClose0"		"<clr:238,207,161><B>Sarge:<B> Get it off!"
-		"sarge.AlienTooClose0"		"<clr:238,207,161><B>Sarge:<B> Get it off!"
+"[english]sarge.AlienTooClose0"		"<clr:238,207,161><B>Sarge:<B> Get it off!"
+"sarge.AlienTooClose0"		"<clr:238,207,161><B>Sarge:<B> Få bort den!"
 
 
-		"[english]sarge.AlienTooClose1"		"<clr:238,207,161><B>Sarge:<B> Kill it!"
-		"sarge.AlienTooClose1"		"<clr:238,207,161><B>Sarge:<B> Kill it!"
+"[english]sarge.AlienTooClose1"		"<clr:238,207,161><B>Sarge:<B> Kill it!"
+"sarge.AlienTooClose1"		"<clr:238,207,161><B>Sarge:<B> Döda den!"
 
 
-		"[english]sarge.AlienTooClose2"		"<clr:238,207,161><B>Sarge:<B> On me!"
-		"sarge.AlienTooClose2"		"<clr:238,207,161><B>Sarge:<B> On me!"
+"[english]sarge.AlienTooClose2"		"<clr:238,207,161><B>Sarge:<B> On me!"
+"sarge.AlienTooClose2"		"<clr:238,207,161><B>Sarge:<B> På mig!"
 
 
-		"[english]sarge.AlienTooClose3"		"<clr:238,207,161><B>Sarge:<B> Hostile on me!"
-		"sarge.AlienTooClose3"		"<clr:238,207,161><B>Sarge:<B> Hostile on me!"
+"[english]sarge.AlienTooClose3"		"<clr:238,207,161><B>Sarge:<B> Hostile on me!"
+"sarge.AlienTooClose3"		"<clr:238,207,161><B>Sarge:<B> Fiender på mig!"
 
 
 		"[english]sarge.MadFiring0"		"<clr:238,207,161><B>Sarge:<B> Eat this you son of a bitch!"
 		"sarge.MadFiring0"		"<clr:238,207,161><B>Sarge:<B> Eat this you son of a bitch!"
 
 
-		"[english]sarge.MadFiring1"		"<clr:238,207,161><B>Sarge:<B> Die!"
-		"sarge.MadFiring1"		"<clr:238,207,161><B>Sarge:<B> Die!"
+"[english]sarge.MadFiring1"		"<clr:238,207,161><B>Sarge:<B> Die!"
+"sarge.MadFiring1"		"<clr:238,207,161><B>Sarge:<B> Dö!"
 
 
-		"[english]sarge.MadFiring2"		"<clr:238,207,161><B>Sarge:<B> Argghhhh!"
-		"sarge.MadFiring2"		"<clr:238,207,161><B>Sarge:<B> Argghhhh!"
+"[english]sarge.MadFiring2"		"<clr:238,207,161><B>Sarge:<B> Argghhhh!"
+"sarge.MadFiring2"		"<clr:238,207,161><B>Sarge:<B> Argghhhh!"
 
 
 		"[english]sarge.BreachedDoor0"		"<clr:238,207,161><B>Sarge:<B> They breached the door!"
@@ -3611,84 +3611,84 @@
 		"sarge.BreachedDoor1"		"<clr:238,207,161><B>Sarge:<B> They're through!"
 
 
-		"[english]sarge.BreachedDoor2"		"<clr:238,207,161><B>Sarge:<B> Look out!"
-		"sarge.BreachedDoor2"		"<clr:238,207,161><B>Sarge:<B> Look out!"
+"[english]sarge.BreachedDoor2"		"<clr:238,207,161><B>Sarge:<B> Look out!"
+"sarge.BreachedDoor2"		"<clr:238,207,161><B>Sarge:<B> Se upp!"
 
 
-		"[english]sarge.MarineDown0"		"<clr:238,207,161><B>Sarge:<B> Marine down!"
-		"sarge.MarineDown0"		"<clr:238,207,161><B>Sarge:<B> Marine down!"
+"[english]sarge.MarineDown0"		"<clr:238,207,161><B>Sarge:<B> Marine down!"
+"sarge.MarineDown0"		"<clr:238,207,161><B>Sarge:<B> Marinsoldat nere!"
 
 
-		"[english]sarge.SmallPain0"		"<clr:238,207,161><B>Sarge:<B> Arghh!"
-		"sarge.SmallPain0"		"<clr:238,207,161><B>Sarge:<B> Arghh!"
+"[english]sarge.SmallPain0"		"<clr:238,207,161><B>Sarge:<B> Arghh!"
+"sarge.SmallPain0"		"<clr:238,207,161><B>Sarge:<B> Arghh!"
 
 
-		"[english]sarge.SmallPain1"		"<clr:238,207,161><B>Sarge:<B> [Pain]"
-		"sarge.SmallPain1"		"<clr:238,207,161><B>Sarge:<B> [Pain]"
+"[english]sarge.SmallPain1"		"<clr:238,207,161><B>Sarge:<B> [Pain]"
+"sarge.SmallPain1"		"<clr:238,207,161><B>Sarge:<B> [Smärta]"
 
 
-		"[english]sarge.SmallPain2"		"<clr:238,207,161><B>Sarge:<B> [Pain]"
-		"sarge.SmallPain2"		"<clr:238,207,161><B>Sarge:<B> [Pain]"
+"[english]sarge.SmallPain2"		"<clr:238,207,161><B>Sarge:<B> [Pain]"
+"sarge.SmallPain2"		"<clr:238,207,161><B>Sarge:<B> [Smärta]"
 
 
-		"[english]sarge.SmallPain3"		"<clr:238,207,161><B>Sarge:<B> [Pain]"
-		"sarge.SmallPain3"		"<clr:238,207,161><B>Sarge:<B> [Pain]"
+"[english]sarge.SmallPain3"		"<clr:238,207,161><B>Sarge:<B> [Pain]"
+"sarge.SmallPain3"		"<clr:238,207,161><B>Sarge:<B> [Smärta]"
 
 
-		"[english]sarge.LargePain0"		"<clr:238,207,161><B>Sarge:<B> [Pain]"
-		"sarge.LargePain0"		"<clr:238,207,161><B>Sarge:<B> [Pain]"
+"[english]sarge.LargePain0"		"<clr:238,207,161><B>Sarge:<B> [Pain]"
+"sarge.LargePain0"		"<clr:238,207,161><B>Sarge:<B> [Smärta]"
 
 
-		"[english]sarge.LargePain1"		"<clr:238,207,161><B>Sarge:<B> [Pain]"
-		"sarge.LargePain1"		"<clr:238,207,161><B>Sarge:<B> [Pain]"
+"[english]sarge.LargePain1"		"<clr:238,207,161><B>Sarge:<B> [Pain]"
+"sarge.LargePain1"		"<clr:238,207,161><B>Sarge:<B> [Smärta]"
 
 
-		"[english]sarge.Dead0"		"<clr:238,207,161><B>Sarge:<B> [Death]"
-		"sarge.Dead0"		"<clr:238,207,161><B>Sarge:<B> [Death]"
+"[english]sarge.Dead0"		"<clr:238,207,161><B>Sarge:<B> [Death]"
+"sarge.Dead0"		"<clr:238,207,161><B>Sarge:<B> [Död]"
 
 
-		"[english]sarge.Dead1"		"<clr:238,207,161><B>Sarge:<B> [Death]"
-		"sarge.Dead1"		"<clr:238,207,161><B>Sarge:<B> [Death]"
+"[english]sarge.Dead1"		"<clr:238,207,161><B>Sarge:<B> [Death]"
+"sarge.Dead1"		"<clr:238,207,161><B>Sarge:<B> [Död]"
 
 
-		"[english]sarge.OnFire0"		"<clr:238,207,161><B>Sarge:<B> Arghhhhh, aaah!"
-		"sarge.OnFire0"		"<clr:238,207,161><B>Sarge:<B> Arghhhhh, aaah!"
+"[english]sarge.OnFire0"		"<clr:238,207,161><B>Sarge:<B> Arghhhhh, aaah!"
+"sarge.OnFire0"		"<clr:238,207,161><B>Sarge:<B> Arghhhhh, aaah!"
 
 
-		"[english]sarge.OnFire1"		"<clr:238,207,161><B>Sarge:<B> [Screaming pain]"
-		"sarge.OnFire1"		"<clr:238,207,161><B>Sarge:<B> [Screaming pain]"
+"[english]sarge.OnFire1"		"<clr:238,207,161><B>Sarge:<B> [Screaming pain]"
+"sarge.OnFire1"		"<clr:238,207,161><B>Sarge:<B> [Skrikande smärta]"
 
 
-		"[english]sarge.OnFire2"		"<clr:238,207,161><B>Sarge:<B> Oh God! [Screaming pain]"
-		"sarge.OnFire2"		"<clr:238,207,161><B>Sarge:<B> Oh God! [Screaming pain]"
+"[english]sarge.OnFire2"		"<clr:238,207,161><B>Sarge:<B> Oh God! [Screaming pain]"
+"sarge.OnFire2"		"<clr:238,207,161><B>Sarge:<B> Oh God! [Skrikande smärta]"
 
 
-		"[english]sarge.MineDeployed0"		"<clr:238,207,161><B>Sarge:<B> Mine in place, boys."
-		"sarge.MineDeployed0"		"<clr:238,207,161><B>Sarge:<B> Mine in place, boys."
+"[english]sarge.MineDeployed0"		"<clr:238,207,161><B>Sarge:<B> Mine in place, boys."
+"sarge.MineDeployed0"		"<clr:238,207,161><B>Sarge:<B> Mina på plats killar."
 
 
-		"[english]sarge.MineDeployed1"		"<clr:238,207,161><B>Sarge:<B> Mine deployed."
-		"sarge.MineDeployed1"		"<clr:238,207,161><B>Sarge:<B> Mine deployed."
+"[english]sarge.MineDeployed1"		"<clr:238,207,161><B>Sarge:<B> Mine deployed."
+"sarge.MineDeployed1"		"<clr:238,207,161><B>Sarge:<B> Mina utplacerad."
 
 
-		"[english]sarge.MineDeployed2"		"<clr:238,207,161><B>Sarge:<B> Watch it, mine deployed."
-		"sarge.MineDeployed2"		"<clr:238,207,161><B>Sarge:<B> Watch it, mine deployed."
+"[english]sarge.MineDeployed2"		"<clr:238,207,161><B>Sarge:<B> Watch it, mine deployed."
+"sarge.MineDeployed2"		"<clr:238,207,161><B>Sarge:<B> Se upp, mina utplacerad."
 
 
-		"[english]sarge.MineDeployed3"		"<clr:238,207,161><B>Sarge:<B> Incendiary mine deployed."
-		"sarge.MineDeployed3"		"<clr:238,207,161><B>Sarge:<B> Incendiary mine deployed."
+"[english]sarge.MineDeployed3"		"<clr:238,207,161><B>Sarge:<B> Incendiary mine deployed."
+"sarge.MineDeployed3"		"<clr:238,207,161><B>Sarge:<B> Eld mina utplacerad."
 
 
-		"[english]sarge.ActivateStims0"		"<clr:238,207,161><B>Sarge:<B> Stim now!"
-		"sarge.ActivateStims0"		"<clr:238,207,161><B>Sarge:<B> Stim now!"
+"[english]sarge.ActivateStims0"		"<clr:238,207,161><B>Sarge:<B> Stim now!"
+"sarge.ActivateStims0"		"<clr:238,207,161><B>Sarge:<B> Stim nu!"
 
 
-		"[english]sarge.ActivateStims1"		"<clr:238,207,161><B>Sarge:<B> Hit the stims."
-		"sarge.ActivateStims1"		"<clr:238,207,161><B>Sarge:<B> Hit the stims."
+"[english]sarge.ActivateStims1"		"<clr:238,207,161><B>Sarge:<B> Hit the stims."
+"sarge.ActivateStims1"		"<clr:238,207,161><B>Sarge:<B> Slå stimen."
 
 
-		"[english]sarge.ActivateStims2"		"<clr:238,207,161><B>Sarge:<B> Activate stim pack!"
-		"sarge.ActivateStims2"		"<clr:238,207,161><B>Sarge:<B> Activate stim pack!"
+"[english]sarge.ActivateStims2"		"<clr:238,207,161><B>Sarge:<B> Activate stim pack!"
+"sarge.ActivateStims2"		"<clr:238,207,161><B>Sarge:<B> Aktivera stim paketet!"
 
 
 		"[english]sarge.ActivateStims3"		"<clr:238,207,161><B>Sarge:<B> Activate stim pack now."
@@ -6582,11 +6582,11 @@
 		"[english]ASWComputer.DownloadComplete"		"<clr:238,0,0><B>BASE COMPUTER:<B> Download Complete."
 		"ASWComputer.DownloadComplete"		"<clr:238,0,0><B>BASE COMPUTER:<B> Download Complete."
 
-		"[english]ASWComputer.Mail"		"<clr:238,0,0><B>BASE COMPUTER:<B> Mail."
-		"ASWComputer.Mail"		"<clr:238,0,0><B>BASE COMPUTER:<B> Mail."
+"[english]ASWComputer.Mail"		"<clr:238,0,0><B>BASE COMPUTER:<B> Mail."
+"ASWComputer.Mail"		"<clr:238,0,0><B>BASE COMPUTER:<B> Mejl."
 
-		"[english]ASWComputer.News"		"<clr:238,0,0><B>BASE COMPUTER:<B> News."
-		"ASWComputer.News"		"<clr:238,0,0><B>BASE COMPUTER:<B> News."
+"[english]ASWComputer.News"		"<clr:238,0,0><B>BASE COMPUTER:<B> News."
+"ASWComputer.News"		"<clr:238,0,0><B>BASE COMPUTER:<B> Nyheter."
 
 		"[english]ASWComputer.Override"		"<clr:238,0,0><B>BASE COMPUTER:<B> Override."
 		"ASWComputer.Override"		"<clr:238,0,0><B>BASE COMPUTER:<B> Override."
@@ -6762,8 +6762,8 @@
 		"[english]Richard.02_04_1"		"<clr:191,195,167><B>Cmdr. Richard:<B> Good. Now, let's find a way to reach the bottom of this place and blow it sky-high."
 		"Richard.02_04_1"		"<clr:191,195,167><B>Cmdr. Richard:<B> Good. Now, let's find a way to reach the bottom of this place and blow it sky-high."
 
-		"[english]Richard.02_05"		"<clr:191,195,167><B>Cmdr. Richard:<B> What in heaven's..."
-		"Richard.02_05"		"<clr:191,195,167><B>Cmdr. Richard:<B> What in heaven's..."
+"[english]Richard.02_05"		"<clr:191,195,167><B>Cmdr. Richard:<B> What in heaven's..."
+"Richard.02_05"		"<clr:191,195,167><B>Cmdr. Richard:<B> Vad i hela friden..."
 
 		"[english]Richard.02_06"		"<clr:191,195,167><B>Cmdr. Richard:<B> Nice shooting, marines, you're nearing groundwork level. It's looking like you'll have to take the elevator shaft down into where they performed their “research”."
 		"Richard.02_06"		"<clr:191,195,167><B>Cmdr. Richard:<B> Nice shooting, marines, you're nearing groundwork level. It's looking like you'll have to take the elevator shaft down into where they performed their “research”."
@@ -6777,8 +6777,8 @@
 		"[english]Richard.03_03"		"<clr:191,195,167><B>Cmdr. Richard:<B> So I see. Now you should all understand why we cannot let this be."
 		"Richard.03_03"		"<clr:191,195,167><B>Cmdr. Richard:<B> So I see. Now you should all understand why we cannot let this be."
 
-		"[english]Richard.03_03_1"		"<clr:191,195,167><B>Cmdr. Richard:<B> I know enough."
-		"Richard.03_03_1"		"<clr:191,195,167><B>Cmdr. Richard:<B> I know enough."
+"[english]Richard.03_03_1"		"<clr:191,195,167><B>Cmdr. Richard:<B> I know enough."
+"Richard.03_03_1"		"<clr:191,195,167><B>Cmdr. Richard:<B> Jag vet tillräckligt."
 
 		"[english]Richard.03_05"		"<clr:191,195,167><B>Cmdr. Richard:<B> Alright, that's the eastern door dealt with. Look alive soldiers, it's not over yet."
 		"Richard.03_05"		"<clr:191,195,167><B>Cmdr. Richard:<B> Alright, that's the eastern door dealt with. Look alive soldiers, it's not over yet."
