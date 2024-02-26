@@ -14,8 +14,8 @@
 		"[english]Command.co_m1_ob2"		"<clr:240,255,255><B>Lt. Williams:<B> Well, these manifests are useless. Guess record keeping wasn't exactly high on the priority list when the swarm hit. We are now search and rescue until otherwise informed, so keep an eye out for survivors. Head for the far exit and then we'll regroup."
 		"Command.co_m1_ob2"		"<clr:240,255,255><B>Lt. Williams:<B> Well, these manifests are useless. Guess record keeping wasn't exactly high on the priority list when the swarm hit. We are now search and rescue until otherwise informed, so keep an eye out for survivors. Head for the far exit and then we'll regroup."
 
-		"[english]Command.co_m1_ob3"		"<clr:240,255,255><B>Lt. Williams:<B> All right, keep going! Main colony's dead ahead!"
-		"Command.co_m1_ob3"		"<clr:240,255,255><B>Lt. Williams:<B> All right, keep going! Main colony's dead ahead!"
+"[english]Command.co_m1_ob3"		"<clr:240,255,255><B>Lt. Williams:<B> All right, keep going! Main colony's dead ahead!"
+"Command.co_m1_ob3"		"<clr:240,255,255><B>Lt. Williams:<B> Okej, fortsätt! Huvudkolonin är rakt framåt!"
 
 		"[english]Command.co_m1_ob4"		"<clr:240,255,255><B>Lt. Williams:<B> Keep the elevator down to the main mining complex and forward formation to the entrance."
 		"Command.co_m1_ob4"		"<clr:240,255,255><B>Lt. Williams:<B> Keep the elevator down to the main mining complex and forward formation to the entrance."
@@ -23,14 +23,14 @@
 		"[english]Command.co_m1_ob5"		"<clr:240,255,255><B>Lt. Williams:<B> I'm picking up multiple inbound motion signatures. Something tells me these ain't friendlies. Try to hold out until the elevator arrives."
 		"Command.co_m1_ob5"		"<clr:240,255,255><B>Lt. Williams:<B> I'm picking up multiple inbound motion signatures. Something tells me these ain't friendlies. Try to hold out until the elevator arrives."
 
-		"[english]Command.co_m1_ob6"		"<clr:240,255,255><B>Lt. Williams:<B> We better get to the colony to see what we can find."
-		"Command.co_m1_ob6"		"<clr:240,255,255><B>Lt. Williams:<B> We better get to the colony to see what we can find."
+"[english]Command.co_m1_ob6"		"<clr:240,255,255><B>Lt. Williams:<B> We better get to the colony to see what we can find."
+"Command.co_m1_ob6"		"<clr:240,255,255><B>Lt. Williams:<B> Vi borde ta oss till kolonin för att se vad vi kan hitta."
 
 		"[english]Command.co_m1_ob7"		"<clr:240,255,255><B>Lt. Williams:<B> We can't get to the colony from up here, we need to get down to the lower level."
 		"Command.co_m1_ob7"		"<clr:240,255,255><B>Lt. Williams:<B> We can't get to the colony from up here, we need to get down to the lower level."
 
-		"[english]Command.co_m1_ob8"		"<clr:240,255,255><B>Lt. Williams:<B> Get to the exit!"
-		"Command.co_m1_ob8"		"<clr:240,255,255><B>Lt. Williams:<B> Get to the exit!"
+"[english]Command.co_m1_ob8"		"<clr:240,255,255><B>Lt. Williams:<B> Get to the exit!"
+"Command.co_m1_ob8"		"<clr:240,255,255><B>Lt. Williams:<B> Ta dig till utgången!"
 
 		"[english]Command.co_m2_ob1"		"<clr:240,255,255><B>Lt. Williams:<B> The situation isn't pretty. This next sector is completely overrun. There's a pipeline that the Swarm's using as a superhighway to spread through the colony. You go ahead and find the pipeline, and I'll see if we can figure out a way to destroy it. We need to stop these bugs from getting out."
 		"Command.co_m2_ob1"		"<clr:240,255,255><B>Lt. Williams:<B> The situation isn't pretty. This next sector is completely overrun. There's a pipeline that the Swarm's using as a superhighway to spread through the colony. You go ahead and find the pipeline, and I'll see if we can figure out a way to destroy it. We need to stop these bugs from getting out."
@@ -179,14 +179,14 @@
 		"[english]Command.co_hold_ob1"		"<clr:240,255,255><B>Lt. Williams:<B> Alright, squad, you made it to the extraction zone. Command ship is inbound. You just need to hold out until I get there."
 		"Command.co_hold_ob1"		"<clr:240,255,255><B>Lt. Williams:<B> Alright, squad, you made it to the extraction zone. Command ship is inbound. You just need to hold out until I get there."
 
-		"[english]Command.co_hold_ob2"		"<clr:240,255,255><B>Lt. Williams:<B> Almost there, squad."
-		"Command.co_hold_ob2"		"<clr:240,255,255><B>Lt. Williams:<B> Almost there, squad."
+"[english]Command.co_hold_ob2"		"<clr:240,255,255><B>Lt. Williams:<B> Almost there, squad."
+"Command.co_hold_ob2"		"<clr:240,255,255><B>Lt. Williams:<B> Nästan där truppen."
 
-		"[english]Command.co_hold_ob3"		"<clr:240,255,255><B>Lt. Williams:<B> Hang in there, squad. I'm on my way!"
-		"Command.co_hold_ob3"		"<clr:240,255,255><B>Lt. Williams:<B> Hang in there, squad. I'm on my way!"
+"[english]Command.co_hold_ob3"		"<clr:240,255,255><B>Lt. Williams:<B> Hang in there, squad. I'm on my way!"
+"Command.co_hold_ob3"		"<clr:240,255,255><B>Lt. Williams:<B> Håll ut där truppen. Jag är på väg!"
 
-		"[english]Command.co_hold_ob4"		"<clr:240,255,255><B>Lt. Williams:<B> Coming in hot!"
-		"Command.co_hold_ob4"		"<clr:240,255,255><B>Lt. Williams:<B> Coming in hot!"
+"[english]Command.co_hold_ob4"		"<clr:240,255,255><B>Lt. Williams:<B> Coming in hot!"
+"Command.co_hold_ob4"		"<clr:240,255,255><B>Lt. Williams:<B> Kommer in varmt!"
 
 		"[english]Command.co_debriefing_ob1"		"<clr:240,255,255><B>Lt. Williams:<B> Objective completed! Good work, marines."
 		"Command.co_debriefing_ob1"		"<clr:240,255,255><B>Lt. Williams:<B> Objective completed! Good work, marines."
@@ -218,158 +218,158 @@
 		"[english]Command.co_debriefing_ob10"		"<clr:240,255,255><B>Lt. Williams:<B> We are still detecting a single large heat source in a deep, well protected chamber. IAF Command is making investigation of this a priority."
 		"Command.co_debriefing_ob10"		"<clr:240,255,255><B>Lt. Williams:<B> We are still detecting a single large heat source in a deep, well protected chamber. IAF Command is making investigation of this a priority."
 
-		// Bastille
+// Bastille
 
 
-		"[english]bastille.SynUpReply0"		"<clr:205,127,50><B>Bastille:<B> You don't wanna drink that shit, believe me."
-		"bastille.SynUpReply0"		"<clr:205,127,50><B>Bastille:<B> You don't wanna drink that shit, believe me."
+"[english]bastille.SynUpReply0"		"<clr:205,127,50><B>Bastille:<B> You don't wanna drink that shit, believe me."
+"bastille.SynUpReply0"		"<clr:205,127,50><B>Bastille:<B> Du vill inte dricka det där skitet, tro mig."
 
-		"[english]bastille.CrashComplainReply0"		"<clr:205,127,50><B>Bastille:<B> Maybe you should report a nervous breakdown."
-		"bastille.CrashComplainReply0"		"<clr:205,127,50><B>Bastille:<B> Maybe you should report a nervous breakdown."
+"[english]bastille.CrashComplainReply0"		"<clr:205,127,50><B>Bastille:<B> Maybe you should report a nervous breakdown."
+"bastille.CrashComplainReply0"		"<clr:205,127,50><B>Bastille:<B> Du kanske borde rapportera ett nervöst sammanbrott."
 
-		"[english]bastille.MedicComplainReply0"		"<clr:205,127,50><B>Bastille:<B> Oh come on, you get injured just as much as I do."
-		"bastille.MedicComplainReply0"		"<clr:205,127,50><B>Bastille:<B> Oh come on, you get injured just as much as I do."
+"[english]bastille.MedicComplainReply0"		"<clr:205,127,50><B>Bastille:<B> Oh come on, you get injured just as much as I do."
+"bastille.MedicComplainReply0"		"<clr:205,127,50><B>Bastille:<B> Åh kom igen, du blir lika skadad som jag."
 
-		"[english]bastille.MedicComplain0"		"<clr:205,127,50><B>Bastille:<B> Can't you not get hurt for a change?"
-		"bastille.MedicComplain0"		"<clr:205,127,50><B>Bastille:<B> Can't you not get hurt for a change?"
+"[english]bastille.MedicComplain0"		"<clr:205,127,50><B>Bastille:<B> Can't you not get hurt for a change?"
+"bastille.MedicComplain0"		"<clr:205,127,50><B>Bastille:<B> Kan du inte bli sårad för en förändring?"
 
-		"[english]bastille.MedicComplain1"		"<clr:205,127,50><B>Bastille:<B> Now why do you get so close to them?"
-		"bastille.MedicComplain1"		"<clr:205,127,50><B>Bastille:<B> Now why do you get so close to them?"
+"[english]bastille.MedicComplain1"		"<clr:205,127,50><B>Bastille:<B> Now why do you get so close to them?"
+"bastille.MedicComplain1"		"<clr:205,127,50><B>Bastille:<B> Varför kommer du dem så nära?"
 
-		"[english]bastille.HealingCrashReply0"		"<clr:205,127,50><B>Bastille:<B> I'm saving them for when you really get hurt."
-		"bastille.HealingCrashReply0"		"<clr:205,127,50><B>Bastille:<B> I'm saving them for when you really get hurt."
+"[english]bastille.HealingCrashReply0"		"<clr:205,127,50><B>Bastille:<B> I'm saving them for when you really get hurt."
+"bastille.HealingCrashReply0"		"<clr:205,127,50><B>Bastille:<B> Jag sparar dem till när du verkligen blir sårad."
 
-		"[english]bastille.HealingCrash0"		"<clr:205,127,50><B>Bastille:<B> Steady now."
-		"bastille.HealingCrash0"		"<clr:205,127,50><B>Bastille:<B> Steady now."
+"[english]bastille.HealingCrash0"		"<clr:205,127,50><B>Bastille:<B> Steady now."
+"bastille.HealingCrash0"		"<clr:205,127,50><B>Bastille:<B> Stadigt nu."
 
-		"[english]bastille.TequilaReply0"		"<clr:205,127,50><B>Bastille:<B> I gave up that stuff a long time ago."
-		"bastille.TequilaReply0"		"<clr:205,127,50><B>Bastille:<B> I gave up that stuff a long time ago."
+"[english]bastille.TequilaReply0"		"<clr:205,127,50><B>Bastille:<B> I gave up that stuff a long time ago."
+"bastille.TequilaReply0"		"<clr:205,127,50><B>Bastille:<B> Jag gav upp det där för länge sedan."
 
-		"[english]bastille.CrashIdleReply0"		"<clr:205,127,50><B>Bastille:<B> Trying to keep your sorry ass alive."
-		"bastille.CrashIdleReply0"		"<clr:205,127,50><B>Bastille:<B> Trying to keep your sorry ass alive."
+"[english]bastille.CrashIdleReply0"		"<clr:205,127,50><B>Bastille:<B> Trying to keep your sorry ass alive."
+"bastille.CrashIdleReply0"		"<clr:205,127,50><B>Bastille:<B> Försöker hålla din ledsna skit vid liv."
 
-		"[english]bastille.InjuredSelection0"		"<clr:205,127,50><B>Bastille:<B> Are we leaving?"
-		"bastille.InjuredSelection0"		"<clr:205,127,50><B>Bastille:<B> Are we leaving?"
+"[english]bastille.InjuredSelection0"		"<clr:205,127,50><B>Bastille:<B> Are we leaving?"
+"bastille.InjuredSelection0"		"<clr:205,127,50><B>Bastille:<B> Lämnar vi?"
 
-		"[english]bastille.InjuredSelection1"		"<clr:205,127,50><B>Bastille:<B> They just keep coming!"
-		"bastille.InjuredSelection1"		"<clr:205,127,50><B>Bastille:<B> They just keep coming!"
+"[english]bastille.InjuredSelection1"		"<clr:205,127,50><B>Bastille:<B> They just keep coming!"
+"bastille.InjuredSelection1"		"<clr:205,127,50><B>Bastille:<B> De fortsätter bara att komma!"
 
-		"[english]bastille.InjuredSelection2"		"<clr:205,127,50><B>Bastille:<B> This whole place is getting to hell!"
-		"bastille.InjuredSelection2"		"<clr:205,127,50><B>Bastille:<B> This whole place is getting to hell!"
+"[english]bastille.InjuredSelection2"		"<clr:205,127,50><B>Bastille:<B> This whole place is getting to hell!"
+"bastille.InjuredSelection2"		"<clr:205,127,50><B>Bastille:<B> Hela den här platsen är på väg åt helvete!"
 
-		"[english]bastille.InjuredSelection3"		"<clr:205,127,50><B>Bastille:<B> This whole place is getting to hell!"
-		"bastille.InjuredSelection3"		"<clr:205,127,50><B>Bastille:<B> This whole place is getting to hell!"
+"[english]bastille.InjuredSelection3"		"<clr:205,127,50><B>Bastille:<B> This whole place is getting to hell!"
+"bastille.InjuredSelection3"		"<clr:205,127,50><B>Bastille:<B> Hela det här stället kommer åt helvete!"
 
-		"[english]bastille.InjuredSelection4"		"<clr:205,127,50><B>Bastille:<B> What do you want now?"
-		"bastille.InjuredSelection4"		"<clr:205,127,50><B>Bastille:<B> What do you want now?"
+"[english]bastille.InjuredSelection4"		"<clr:205,127,50><B>Bastille:<B> What do you want now?"
+"bastille.InjuredSelection4"		"<clr:205,127,50><B>Bastille:<B> Vad vill du nudå?"
 
-		"[english]bastille.SeriousInjuryReply0"		"<clr:205,127,50><B>Bastille:<B> All right, if you say so."
-		"bastille.SeriousInjuryReply0"		"<clr:205,127,50><B>Bastille:<B> All right, if you say so."
+"[english]bastille.SeriousInjuryReply0"		"<clr:205,127,50><B>Bastille:<B> All right, if you say so."
+"bastille.SeriousInjuryReply0"		"<clr:205,127,50><B>Bastille:<B> Okej, om du säger så."
 
-		"[english]bastille.SeriousInjuryFollowUp0"		"<clr:205,127,50><B>Bastille:<B> I don't want any stunts, ok?"
-		"bastille.SeriousInjuryFollowUp0"		"<clr:205,127,50><B>Bastille:<B> I don't want any stunts, ok?"
+"[english]bastille.SeriousInjuryFollowUp0"		"<clr:205,127,50><B>Bastille:<B> I don't want any stunts, ok?"
+"bastille.SeriousInjuryFollowUp0"		"<clr:205,127,50><B>Bastille:<B> Jag vill inte ha några stunt, okej?"
 
-		"[english]bastille.SeriousInjuryFollowUp1"		"<clr:205,127,50><B>Bastille:<B> Just take it easy, doctor's orders."
-		"bastille.SeriousInjuryFollowUp1"		"<clr:205,127,50><B>Bastille:<B> Just take it easy, doctor's orders."
+"[english]bastille.SeriousInjuryFollowUp1"		"<clr:205,127,50><B>Bastille:<B> Just take it easy, doctor's orders."
+"bastille.SeriousInjuryFollowUp1"		"<clr:205,127,50><B>Bastille:<B> Ta det bara lugnt, säger läkaren."
 
-		"[english]bastille.SeriousInjury0"		"<clr:205,127,50><B>Bastille:<B> Be careful, the wound might still open."
-		"bastille.SeriousInjury0"		"<clr:205,127,50><B>Bastille:<B> Be careful, the wound might still open."
+"[english]bastille.SeriousInjury0"		"<clr:205,127,50><B>Bastille:<B> Be careful, the wound might still open."
+"bastille.SeriousInjury0"		"<clr:205,127,50><B>Bastille:<B> Var försiktig, såret kan fortfarande öppna sig."
 
-		"[english]bastille.SeriousInjury1"		"<clr:205,127,50><B>Bastille:<B> Good news, you're off the next mission."
-		"bastille.SeriousInjury1"		"<clr:205,127,50><B>Bastille:<B> Good news, you're off the next mission."
+"[english]bastille.SeriousInjury1"		"<clr:205,127,50><B>Bastille:<B> Good news, you're off the next mission."
+"bastille.SeriousInjury1"		"<clr:205,127,50><B>Bastille:<B> Goda nyheter, du är iväg till nästa uppdrag."
 
-		"[english]bastille.StillBreathingReply0"		"<clr:205,127,50><B>Bastille:<B> You know you can get counseling for that, right?"
-		"bastille.StillBreathingReply0"		"<clr:205,127,50><B>Bastille:<B> You know you can get counseling for that, right?"
+"[english]bastille.StillBreathingReply0"		"<clr:205,127,50><B>Bastille:<B> You know you can get counseling for that, right?"
+"bastille.StillBreathingReply0"		"<clr:205,127,50><B>Bastille:<B> Du vet att du kan få rådgivning för det, eller hur?"
 
-		"[english]bastille.Use0"		"<clr:205,127,50><B>Bastille:<B> Absolutely."
-		"bastille.Use0"		"<clr:205,127,50><B>Bastille:<B> Absolutely."
+"[english]bastille.Use0"		"<clr:205,127,50><B>Bastille:<B> Absolutely."
+"bastille.Use0"		"<clr:205,127,50><B>Bastille:<B> Absolut."
 
-		"[english]bastille.Use1"		"<clr:205,127,50><B>Bastille:<B> But of course."
-		"bastille.Use1"		"<clr:205,127,50><B>Bastille:<B> But of course."
+"[english]bastille.Use1"		"<clr:205,127,50><B>Bastille:<B> But of course."
+"bastille.Use1"		"<clr:205,127,50><B>Bastille:<B> Men självklart."
 
-		"[english]bastille.Use2"		"<clr:205,127,50><B>Bastille:<B> Good thinking."
-		"bastille.Use2"		"<clr:205,127,50><B>Bastille:<B> Good thinking."
+"[english]bastille.Use2"		"<clr:205,127,50><B>Bastille:<B> Good thinking."
+"bastille.Use2"		"<clr:205,127,50><B>Bastille:<B> Bra tänkt."
 
-		"[english]bastille.Use3"		"<clr:205,127,50><B>Bastille:<B> Immediatement."
-		"bastille.Use3"		"<clr:205,127,50><B>Bastille:<B> Immediatement."
+"[english]bastille.Use3"		"<clr:205,127,50><B>Bastille:<B> Immediatement."
+"bastille.Use3"		"<clr:205,127,50><B>Bastille:<B> Omedelbart."
 
-		"[english]bastille.Use4"		"<clr:205,127,50><B>Bastille:<B> <I>Oui."
-		"bastille.Use4"		"<clr:205,127,50><B>Bastille:<B> <I>Oui."
+"[english]bastille.Use4"		"<clr:205,127,50><B>Bastille:<B> <I>Oui."
+"bastille.Use4"		"<clr:205,127,50><B>Bastille:<B> <I>Oui."
 
-		"[english]bastille.Use5"		"<clr:205,127,50><B>Bastille:<B> <I>Oui."
-		"bastille.Use5"		"<clr:205,127,50><B>Bastille:<B> <I>Oui."
+"[english]bastille.Use5"		"<clr:205,127,50><B>Bastille:<B> <I>Oui."
+"bastille.Use5"		"<clr:205,127,50><B>Bastille:<B> <I>Oui."
 
-		"[english]bastille.Use6"		"<clr:205,127,50><B>Bastille:<B> <I>Oui."
-		"bastille.Use6"		"<clr:205,127,50><B>Bastille:<B> <I>Oui."
+"[english]bastille.Use6"		"<clr:205,127,50><B>Bastille:<B> <I>Oui."
+"bastille.Use6"		"<clr:205,127,50><B>Bastille:<B> <I>Oui."
 
-		"[english]bastille.Use7"		"<clr:205,127,50><B>Bastille:<B> Understood."
-		"bastille.Use7"		"<clr:205,127,50><B>Bastille:<B> Understood."
+"[english]bastille.Use7"		"<clr:205,127,50><B>Bastille:<B> Understood."
+"bastille.Use7"		"<clr:205,127,50><B>Bastille:<B> Förstått."
 
-		"[english]bastille.Use8"		"<clr:205,127,50><B>Bastille:<B> Yes, sir."
-		"bastille.Use8"		"<clr:205,127,50><B>Bastille:<B> Yes, sir."
+"[english]bastille.Use8"		"<clr:205,127,50><B>Bastille:<B> Yes, sir."
+"bastille.Use8"		"<clr:205,127,50><B>Bastille:<B> Ja, sir."
 
-		"[english]bastille.Use9"		"<clr:205,127,50><B>Bastille:<B> Yes, sir."
-		"bastille.Use9"		"<clr:205,127,50><B>Bastille:<B> Yes, sir."
+"[english]bastille.Use9"		"<clr:205,127,50><B>Bastille:<B> Yes, sir."
+"bastille.Use9"		"<clr:205,127,50><B>Bastille:<B> Ja, sir."
 
-		"[english]bastille.Use10"		"<clr:205,127,50><B>Bastille:<B> Yes, sir."
-		"bastille.Use10"		"<clr:205,127,50><B>Bastille:<B> Yes, sir."
+"[english]bastille.Use10"		"<clr:205,127,50><B>Bastille:<B> Yes, sir."
+"bastille.Use10"		"<clr:205,127,50><B>Bastille:<B> Ja, sir."
 
-		"[english]bastille.Idle0"		"<clr:205,127,50><B>Bastille:<B> Careful, they could be anywhere."
-		"bastille.Idle0"		"<clr:205,127,50><B>Bastille:<B> Careful, they could be anywhere."
+"[english]bastille.Idle0"		"<clr:205,127,50><B>Bastille:<B> Careful, they could be anywhere."
+"bastille.Idle0"		"<clr:205,127,50><B>Bastille:<B> Var försiktig, de kan vara var som helst."
 
-		"[english]bastille.Idle1"		"<clr:205,127,50><B>Bastille:<B> Did you hear that noise?"
-		"bastille.Idle1"		"<clr:205,127,50><B>Bastille:<B> Did you hear that noise?"
+"[english]bastille.Idle1"		"<clr:205,127,50><B>Bastille:<B> Did you hear that noise?"
+"bastille.Idle1"		"<clr:205,127,50><B>Bastille:<B> Hörde du det ljudet?"
 
-		"[english]bastille.Idle2"		"<clr:205,127,50><B>Bastille:<B> If I knew, I would've stayed home."
-		"bastille.Idle2"		"<clr:205,127,50><B>Bastille:<B> If I knew, I would've stayed home."
+"[english]bastille.Idle2"		"<clr:205,127,50><B>Bastille:<B> If I knew, I would've stayed home."
+"bastille.Idle2"		"<clr:205,127,50><B>Bastille:<B> Hade jag vetat det hade jag stannat hemma."
 
-		"[english]bastille.Idle3"		"<clr:205,127,50><B>Bastille:<B> Keep quiet."
-		"bastille.Idle3"		"<clr:205,127,50><B>Bastille:<B> Keep quiet."
+"[english]bastille.Idle3"		"<clr:205,127,50><B>Bastille:<B> Keep quiet."
+"bastille.Idle3"		"<clr:205,127,50><B>Bastille:<B> Håll tyst."
 
-		"[english]bastille.Idle4"		"<clr:205,127,50><B>Bastille:<B> Now it's quiet, open a Bordeux."
-		"bastille.Idle4"		"<clr:205,127,50><B>Bastille:<B> Now it's quiet, open a Bordeux."
+"[english]bastille.Idle4"		"<clr:205,127,50><B>Bastille:<B> Now it's quiet, open a Bordeux."
+"bastille.Idle4"		"<clr:205,127,50><B>Bastille:<B> Nu är det tyst, öppna en Bordeaux."
 
-		"[english]bastille.Idle5"		"<clr:205,127,50><B>Bastille:<B> Great, now I'm hearing things."
-		"bastille.Idle5"		"<clr:205,127,50><B>Bastille:<B> Great, now I'm hearing things."
+"[english]bastille.Idle5"		"<clr:205,127,50><B>Bastille:<B> Great, now I'm hearing things."
+"bastille.Idle5"		"<clr:205,127,50><B>Bastille:<B> Bra, nu hör jag saker."
 
-		"[english]bastille.Idle6"		"<clr:205,127,50><B>Bastille:<B> I don't like it down here."
-		"bastille.Idle6"		"<clr:205,127,50><B>Bastille:<B> I don't like it down here."
+"[english]bastille.Idle6"		"<clr:205,127,50><B>Bastille:<B> I don't like it down here."
+"bastille.Idle6"		"<clr:205,127,50><B>Bastille:<B> Jag gillar det inte här nere."
 
-		"[english]bastille.Idle7"		"<clr:205,127,50><B>Bastille:<B> If we're lucky the wounds will be healed when we wake up from cryosleep."
-		"bastille.Idle7"		"<clr:205,127,50><B>Bastille:<B> If we're lucky the wounds will be healed when we wake up from cryosleep."
+"[english]bastille.Idle7"		"<clr:205,127,50><B>Bastille:<B> If we're lucky the wounds will be healed when we wake up from cryosleep."
+"bastille.Idle7"		"<clr:205,127,50><B>Bastille:<B> Om vi har tur kommer såren att läkas när vi vaknar ur kryosömnen."
 
-		"[english]bastille.Idle8"		"<clr:205,127,50><B>Bastille:<B> Ignore the rumors. Stimpacks aren't that addictive."
-		"bastille.Idle8"		"<clr:205,127,50><B>Bastille:<B> Ignore the rumors. Stimpacks aren't that addictive."
+"[english]bastille.Idle8"		"<clr:205,127,50><B>Bastille:<B> Ignore the rumors. Stimpacks aren't that addictive."
+"bastille.Idle8"		"<clr:205,127,50><B>Bastille:<B> Ignorera ryktena. Stimpacks är inte så beroendeframkallande."
 
-		"[english]bastille.Idle9"		"<clr:205,127,50><B>Bastille:<B> I hear something moving."
-		"bastille.Idle9"		"<clr:205,127,50><B>Bastille:<B> I hear something moving."
+"[english]bastille.Idle9"		"<clr:205,127,50><B>Bastille:<B> I hear something moving."
+"bastille.Idle9"		"<clr:205,127,50><B>Bastille:<B> Jag hör något som rör på sig."
 
-		"[english]bastille.Idle10"		"<clr:205,127,50><B>Bastille:<B> I hope we send every last one of these bastards straight to hell."
-		"bastille.Idle10"		"<clr:205,127,50><B>Bastille:<B> I hope we send every last one of these bastards straight to hell."
+"[english]bastille.Idle10"		"<clr:205,127,50><B>Bastille:<B> I hope we send every last one of these bastards straight to hell."
+"bastille.Idle10"		"<clr:205,127,50><B>Bastille:<B> Jag hoppas att vi skickar varenda en av dessa jävlar rakt till helvetet."
 
-		"[english]bastille.Idle11"		"<clr:205,127,50><B>Bastille:<B> Just how many more bugs are on this rock?"
-		"bastille.Idle11"		"<clr:205,127,50><B>Bastille:<B> Just how many more bugs are on this rock?"
+"[english]bastille.Idle11"		"<clr:205,127,50><B>Bastille:<B> Just how many more bugs are on this rock?"
+"bastille.Idle11"		"<clr:205,127,50><B>Bastille:<B> Hur många fler aliens är det på den här stenen?"
 
-		"[english]bastille.Idle12"		"<clr:205,127,50><B>Bastille:<B> Looks like nobody's home."
-		"bastille.Idle12"		"<clr:205,127,50><B>Bastille:<B> Looks like nobody's home."
+"[english]bastille.Idle12"		"<clr:205,127,50><B>Bastille:<B> Looks like nobody's home."
+"bastille.Idle12"		"<clr:205,127,50><B>Bastille:<B> Ser ut som att ingen är hemma."
 
-		"[english]bastille.Idle13"		"<clr:205,127,50><B>Bastille:<B> Stay sharp, <I>mes amis<I>."
-		"bastille.Idle13"		"<clr:205,127,50><B>Bastille:<B> Stay sharp, <I>mes amis<I>."
+"[english]bastille.Idle13"		"<clr:205,127,50><B>Bastille:<B> Stay sharp, <I>mes amis<I>."
+"bastille.Idle13"		"<clr:205,127,50><B>Bastille:<B> Håll dig skarp, <I>mes amis<I>."
 
-		"[english]bastille.Idle14"		"<clr:205,127,50><B>Bastille:<B> There's something here, I can feel it."
-		"bastille.Idle14"		"<clr:205,127,50><B>Bastille:<B> There's something here, I can feel it."
+"[english]bastille.Idle14"		"<clr:205,127,50><B>Bastille:<B> There's something here, I can feel it."
+"bastille.Idle14"		"<clr:205,127,50><B>Bastille:<B> Det är något här, jag kan känna det."
 
-		"[english]bastille.Idle15"		"<clr:205,127,50><B>Bastille:<B> What was that?"
-		"bastille.Idle15"		"<clr:205,127,50><B>Bastille:<B> What was that?"
+"[english]bastille.Idle15"		"<clr:205,127,50><B>Bastille:<B> What was that?"
+"bastille.Idle15"		"<clr:205,127,50><B>Bastille:<B> Vad var det?"
 
-		"[english]bastille.Idle16"		"<clr:205,127,50><B>Bastille:<B> What was that?"
-		"bastille.Idle16"		"<clr:205,127,50><B>Bastille:<B> What was that?"
+"[english]bastille.Idle16"		"<clr:205,127,50><B>Bastille:<B> What was that?"
+"bastille.Idle16"		"<clr:205,127,50><B>Bastille:<B> Vad var det?"
 
-		"[english]bastille.Idle17"		"<clr:205,127,50><B>Bastille:<B> Where the hell are they now?"
-		"bastille.Idle17"		"<clr:205,127,50><B>Bastille:<B> Where the hell are they now?"
+"[english]bastille.Idle17"		"<clr:205,127,50><B>Bastille:<B> Where the hell are they now?"
+"bastille.Idle17"		"<clr:205,127,50><B>Bastille:<B> Var fan är de nu?"
 
-		"[english]bastille.Idle18"		"<clr:205,127,50><B>Bastille:<B> Would be good do a bit of cleaning here."
-		"bastille.Idle18"		"<clr:205,127,50><B>Bastille:<B> Would be good do a bit of cleaning here."
+"[english]bastille.Idle18"		"<clr:205,127,50><B>Bastille:<B> Would be good do a bit of cleaning here."
+"bastille.Idle18"		"<clr:205,127,50><B>Bastille:<B> Skulle vara bra att städa lite här."
 
 "[english]bastille.FF0"		"<clr:205,127,50><B>Bastille:<B> Friendly fire!"
 "bastille.FF0"		"<clr:205,127,50><B>Bastille:<B> Vänskaplig eld!"
@@ -1179,137 +1179,137 @@
 		"[english]crash.FiringAtAlien7"		"<clr:238,180,34><B>Crash:<B> You want some?"
 		"crash.FiringAtAlien7"		"<clr:238,180,34><B>Crash:<B> You want some?"
 
-		"[english]crash.FollowMe0"		"<clr:238,180,34><B>Crash:<B> Follow me."
-		"crash.FollowMe0"		"<clr:238,180,34><B>Crash:<B> Follow me."
+"[english]crash.FollowMe0"		"<clr:238,180,34><B>Crash:<B> Follow me."
+"crash.FollowMe0"		"<clr:238,180,34><B>Crash:<B> Följ mig."
 
-		"[english]crash.FollowMe1"		"<clr:238,180,34><B>Crash:<B> Let's go."
-		"crash.FollowMe1"		"<clr:238,180,34><B>Crash:<B> Let's go."
+"[english]crash.FollowMe1"		"<clr:238,180,34><B>Crash:<B> Let's go."
+"crash.FollowMe1"		"<clr:238,180,34><B>Crash:<B> Nu går vi."
 
-		"[english]crash.HoldPosition0"		"<clr:238,180,34><B>Crash:<B> Hold it."
-		"crash.HoldPosition0"		"<clr:238,180,34><B>Crash:<B> Hold it."
+"[english]crash.HoldPosition0"		"<clr:238,180,34><B>Crash:<B> Hold it."
+"crash.HoldPosition0"		"<clr:238,180,34><B>Crash:<B> Stopp."
 
-		"[english]crash.HoldPosition1"		"<clr:238,180,34><B>Crash:<B> Hold it."
-		"crash.HoldPosition1"		"<clr:238,180,34><B>Crash:<B> Hold it."
+"[english]crash.HoldPosition1"		"<clr:238,180,34><B>Crash:<B> Hold it."
+"crash.HoldPosition1"		"<clr:238,180,34><B>Crash:<B> Stopp."
 
-		"[english]crash.HoldPosition2"		"<clr:238,180,34><B>Crash:<B> Wait here."
-		"crash.HoldPosition2"		"<clr:238,180,34><B>Crash:<B> Wait here."
+"[english]crash.HoldPosition2"		"<clr:238,180,34><B>Crash:<B> Wait here."
+"crash.HoldPosition2"		"<clr:238,180,34><B>Crash:<B> Vänta här."
 
-		"[english]crash.NeedAmmo0"		"<clr:238,180,34><B>Crash:<B> More ammo!"
-		"crash.NeedAmmo0"		"<clr:238,180,34><B>Crash:<B> More ammo!"
+"[english]crash.NeedAmmo0"		"<clr:238,180,34><B>Crash:<B> More ammo!"
+"crash.NeedAmmo0"		"<clr:238,180,34><B>Crash:<B> Mera ammunition!"
 
-		"[english]crash.NeedAmmo1"		"<clr:238,180,34><B>Crash:<B> I need ammo!"
-		"crash.NeedAmmo1"		"<clr:238,180,34><B>Crash:<B> I need ammo!"
+"[english]crash.NeedAmmo1"		"<clr:238,180,34><B>Crash:<B> I need ammo!"
+"crash.NeedAmmo1"		"<clr:238,180,34><B>Crash:<B> Jag behöver ammunition!"
 
-		"[english]crash.NoAmmo0"		"<clr:238,180,34><B>Crash:<B> Out of ammo!"
-		"crash.NoAmmo0"		"<clr:238,180,34><B>Crash:<B> Out of ammo!"
+"[english]crash.NoAmmo0"		"<clr:238,180,34><B>Crash:<B> Out of ammo!"
+"crash.NoAmmo0"		"<clr:238,180,34><B>Crash:<B> Slut på ammunition!"
 
-		"[english]crash.Medic0"		"<clr:238,180,34><B>Crash:<B> Medic!"
-		"crash.Medic0"		"<clr:238,180,34><B>Crash:<B> Medic!"
+"[english]crash.Medic0"		"<clr:238,180,34><B>Crash:<B> Medic!"
+"crash.Medic0"		"<clr:238,180,34><B>Crash:<B> Läkare!"
 
-		"[english]crash.Reloading0"		"<clr:238,180,34><B>Crash:<B> Lock and load!"
-		"crash.Reloading0"		"<clr:238,180,34><B>Crash:<B> Lock and load!"
+"[english]crash.Reloading0"		"<clr:238,180,34><B>Crash:<B> Lock and load!"
+"crash.Reloading0"		"<clr:238,180,34><B>Crash:<B> Laddat och klart!"
 
-		"[english]crash.Reloading1"		"<clr:238,180,34><B>Crash:<B> Reload, cover me!"
-		"crash.Reloading1"		"<clr:238,180,34><B>Crash:<B> Reload, cover me!"
+"[english]crash.Reloading1"		"<clr:238,180,34><B>Crash:<B> Reload, cover me!"
+"crash.Reloading1"		"<clr:238,180,34><B>Crash:<B> Ladda om, täck mig!"
 
-		"[english]crash.Reloading2"		"<clr:238,180,34><B>Crash:<B> Reload!"
-		"crash.Reloading2"		"<clr:238,180,34><B>Crash:<B> Reload!"
+"[english]crash.Reloading2"		"<clr:238,180,34><B>Crash:<B> Reload!"
+"crash.Reloading2"		"<clr:238,180,34><B>Crash:<B> Ladda om!"
 
-		"[english]crash.Reloading3"		"<clr:238,180,34><B>Crash:<B> Reload!"
-		"crash.Reloading3"		"<clr:238,180,34><B>Crash:<B> Reload!"
+"[english]crash.Reloading3"		"<clr:238,180,34><B>Crash:<B> Reload!"
+"crash.Reloading3"		"<clr:238,180,34><B>Crash:<B> Ladda om!"
 
-		"[english]crash.SentryInPlace0"		"<clr:238,180,34><B>Crash:<B> Sentry gun active!"
-		"crash.SentryInPlace0"		"<clr:238,180,34><B>Crash:<B> Sentry gun active!"
+"[english]crash.SentryInPlace0"		"<clr:238,180,34><B>Crash:<B> Sentry gun active!"
+"crash.SentryInPlace0"		"<clr:238,180,34><B>Crash:<B> Vaktgevär aktivt!"
 
-		"[english]crash.SentryInPlace1"		"<clr:238,180,34><B>Crash:<B> Sentry gun active!"
-		"crash.SentryInPlace1"		"<clr:238,180,34><B>Crash:<B> Sentry gun active!"
+"[english]crash.SentryInPlace1"		"<clr:238,180,34><B>Crash:<B> Sentry gun active!"
+"crash.SentryInPlace1"		"<clr:238,180,34><B>Crash:<B> Vaktgevär aktivt!"
 
-		"[english]crash.SentryInPlace2"		"<clr:238,180,34><B>Crash:<B> Sentry's in place."
-		"crash.SentryInPlace2"		"<clr:238,180,34><B>Crash:<B> Sentry's in place."
+"[english]crash.SentryInPlace2"		"<clr:238,180,34><B>Crash:<B> Sentry's in place."
+"crash.SentryInPlace2"		"<clr:238,180,34><B>Crash:<B> Vaktgevär på plats."
 
-		"[english]crash.SentryInPlace3"		"<clr:238,180,34><B>Crash:<B> Sentry assembled."
-		"crash.SentryInPlace3"		"<clr:238,180,34><B>Crash:<B> Sentry assembled."
+"[english]crash.SentryInPlace3"		"<clr:238,180,34><B>Crash:<B> Sentry assembled."
+"crash.SentryInPlace3"		"<clr:238,180,34><B>Crash:<B> Vaktgevär byggt."
 
-		"[english]crash.SentryInPlace4"		"<clr:238,180,34><B>Crash:<B> Sentry online."
-		"crash.SentryInPlace4"		"<clr:238,180,34><B>Crash:<B> Sentry online."
+"[english]crash.SentryInPlace4"		"<clr:238,180,34><B>Crash:<B> Sentry online."
+"crash.SentryInPlace4"		"<clr:238,180,34><B>Crash:<B> Vaktgevär online."
 
-		"[english]crash.SentryInPlace5"		"<clr:238,180,34><B>Crash:<B> Sentry's ready to waste some bugs."
-		"crash.SentryInPlace5"		"<clr:238,180,34><B>Crash:<B> Sentry's ready to waste some bugs."
+"[english]crash.SentryInPlace5"		"<clr:238,180,34><B>Crash:<B> Sentry's ready to waste some bugs."
+"crash.SentryInPlace5"		"<clr:238,180,34><B>Crash:<B> Vaktgevär redo att döda lite kryp."
 
-		"[english]crash.Ammo0"		"<clr:238,180,34><B>Crash:<B> Ammo."
-		"crash.Ammo0"		"<clr:238,180,34><B>Crash:<B> Ammo."
+"[english]crash.Ammo0"		"<clr:238,180,34><B>Crash:<B> Ammo."
+"crash.Ammo0"		"<clr:238,180,34><B>Crash:<B> Ammunition."
 
-		"[english]crash.Medkit0"		"<clr:238,180,34><B>Crash:<B> Medkit."
-		"crash.Medkit0"		"<clr:238,180,34><B>Crash:<B> Medkit."
+"[english]crash.Medkit0"		"<clr:238,180,34><B>Crash:<B> Medkit."
+"crash.Medkit0"		"<clr:238,180,34><B>Crash:<B> Medkit."
 
-		"[english]crash.Thanks0"		"<clr:238,180,34><B>Crash:<B> Thanks."
-		"crash.Thanks0"		"<clr:238,180,34><B>Crash:<B> Thanks."
+"[english]crash.Thanks0"		"<clr:238,180,34><B>Crash:<B> Thanks."
+"crash.Thanks0"		"<clr:238,180,34><B>Crash:<B> Tack."
 
-		"[english]crash.Thanks1"		"<clr:238,180,34><B>Crash:<B> Thank you."
-		"crash.Thanks1"		"<clr:238,180,34><B>Crash:<B> Thank you."
+"[english]crash.Thanks1"		"<clr:238,180,34><B>Crash:<B> Thank you."
+"crash.Thanks1"		"<clr:238,180,34><B>Crash:<B> Tack."
 
-		"[english]crash.Question0"		"<clr:238,180,34><B>Crash:<B> Huh?"
-		"crash.Question0"		"<clr:238,180,34><B>Crash:<B> Huh?"
+"[english]crash.Question0"		"<clr:238,180,34><B>Crash:<B> Huh?"
+"crash.Question0"		"<clr:238,180,34><B>Crash:<B> Huh?"
 
-		"[english]crash.Question1"		"<clr:238,180,34><B>Crash:<B> What?"
-		"crash.Question1"		"<clr:238,180,34><B>Crash:<B> What?"
+"[english]crash.Question1"		"<clr:238,180,34><B>Crash:<B> What?"
+"crash.Question1"		"<clr:238,180,34><B>Crash:<B> Va?"
 
-		"[english]crash.Question2"		"<clr:238,180,34><B>Crash:<B> What is it?"
-		"crash.Question2"		"<clr:238,180,34><B>Crash:<B> What is it?"
+"[english]crash.Question2"		"<clr:238,180,34><B>Crash:<B> What is it?"
+"crash.Question2"		"<clr:238,180,34><B>Crash:<B> Vad är det?"
 
-		"[english]crash.CallSarge0"		"<clr:238,180,34><B>Crash:<B> Hey, Sarge."
-		"crash.CallSarge0"		"<clr:238,180,34><B>Crash:<B> Hey, Sarge."
+"[english]crash.CallSarge0"		"<clr:238,180,34><B>Crash:<B> Hey, Sarge."
+"crash.CallSarge0"		"<clr:238,180,34><B>Crash:<B> Hej Sarge."
 
-		"[english]crash.CallSarge1"		"<clr:238,180,34><B>Crash:<B> Sarge."
-		"crash.CallSarge1"		"<clr:238,180,34><B>Crash:<B> Sarge."
+"[english]crash.CallSarge1"		"<clr:238,180,34><B>Crash:<B> Sarge."
+"crash.CallSarge1"		"<clr:238,180,34><B>Crash:<B> Sarge."
 
-		"[english]crash.CallSarge2"		"<clr:238,180,34><B>Crash:<B> Sarge."
-		"crash.CallSarge2"		"<clr:238,180,34><B>Crash:<B> Sarge."
+"[english]crash.CallSarge2"		"<clr:238,180,34><B>Crash:<B> Sarge."
+"crash.CallSarge2"		"<clr:238,180,34><B>Crash:<B> Sarge."
 
-		"[english]crash.CallJaeger0"		"<clr:238,180,34><B>Crash:<B> Hey, Jaeger."
-		"crash.CallJaeger0"		"<clr:238,180,34><B>Crash:<B> Hey, Jaeger."
+"[english]crash.CallJaeger0"		"<clr:238,180,34><B>Crash:<B> Hey, Jaeger."
+"crash.CallJaeger0"		"<clr:238,180,34><B>Crash:<B> Hej Jaeger."
 
-		"[english]crash.CallJaeger1"		"<clr:238,180,34><B>Crash:<B> Jaeger."
-		"crash.CallJaeger1"		"<clr:238,180,34><B>Crash:<B> Jaeger."
+"[english]crash.CallJaeger1"		"<clr:238,180,34><B>Crash:<B> Jaeger."
+"crash.CallJaeger1"		"<clr:238,180,34><B>Crash:<B> Jaeger."
 
-		"[english]crash.CallJaeger2"		"<clr:238,180,34><B>Crash:<B> Jaeger."
-		"crash.CallJaeger2"		"<clr:238,180,34><B>Crash:<B> Jaeger."
+"[english]crash.CallJaeger2"		"<clr:238,180,34><B>Crash:<B> Jaeger."
+"crash.CallJaeger2"		"<clr:238,180,34><B>Crash:<B> Jaeger."
 
-		"[english]crash.CallWildcat0"		"<clr:238,180,34><B>Crash:<B> Hey, Wildcat."
-		"crash.CallWildcat0"		"<clr:238,180,34><B>Crash:<B> Hey, Wildcat."
+"[english]crash.CallWildcat0"		"<clr:238,180,34><B>Crash:<B> Hey, Wildcat."
+"crash.CallWildcat0"		"<clr:238,180,34><B>Crash:<B> Hej Wildcat."
 
-		"[english]crash.CallWildcat1"		"<clr:238,180,34><B>Crash:<B> Wildcat."
-		"crash.CallWildcat1"		"<clr:238,180,34><B>Crash:<B> Wildcat."
+"[english]crash.CallWildcat1"		"<clr:238,180,34><B>Crash:<B> Wildcat."
+"crash.CallWildcat1"		"<clr:238,180,34><B>Crash:<B> Wildcat."
 
-		"[english]crash.CallWolfe0"		"<clr:238,180,34><B>Crash:<B> Hey, Wolfe."
-		"crash.CallWolfe0"		"<clr:238,180,34><B>Crash:<B> Hey, Wolfe."
+"[english]crash.CallWolfe0"		"<clr:238,180,34><B>Crash:<B> Hey, Wolfe."
+"crash.CallWolfe0"		"<clr:238,180,34><B>Crash:<B> Hej Wolfe."
 
-		"[english]crash.CallWolfe1"		"<clr:238,180,34><B>Crash:<B> Wolfe."
-		"crash.CallWolfe1"		"<clr:238,180,34><B>Crash:<B> Wolfe."
+"[english]crash.CallWolfe1"		"<clr:238,180,34><B>Crash:<B> Wolfe."
+"crash.CallWolfe1"		"<clr:238,180,34><B>Crash:<B> Wolfe."
 
-		"[english]crash.CallFaith0"		"<clr:238,180,34><B>Crash:<B> Faith."
-		"crash.CallFaith0"		"<clr:238,180,34><B>Crash:<B> Faith."
+"[english]crash.CallFaith0"		"<clr:238,180,34><B>Crash:<B> Faith."
+"crash.CallFaith0"		"<clr:238,180,34><B>Crash:<B> Faith."
 
-		"[english]crash.CallFaith1"		"<clr:238,180,34><B>Crash:<B> Hey, Faith."
-		"crash.CallFaith1"		"<clr:238,180,34><B>Crash:<B> Hey, Faith."
+"[english]crash.CallFaith1"		"<clr:238,180,34><B>Crash:<B> Hey, Faith."
+"crash.CallFaith1"		"<clr:238,180,34><B>Crash:<B> Hej Faith."
 
-		"[english]crash.CallBastille0"		"<clr:238,180,34><B>Crash:<B> Bastille."
-		"crash.CallBastille0"		"<clr:238,180,34><B>Crash:<B> Bastille."
+"[english]crash.CallBastille0"		"<clr:238,180,34><B>Crash:<B> Bastille."
+"crash.CallBastille0"		"<clr:238,180,34><B>Crash:<B> Bastille."
 
-		"[english]crash.CallBastille1"		"<clr:238,180,34><B>Crash:<B> Hey, Bastille."
-		"crash.CallBastille1"		"<clr:238,180,34><B>Crash:<B> Hey, Bastille."
+"[english]crash.CallBastille1"		"<clr:238,180,34><B>Crash:<B> Hey, Bastille."
+"crash.CallBastille1"		"<clr:238,180,34><B>Crash:<B> Hej Bastille."
 
-		"[english]crash.CallFlynn0"		"<clr:238,180,34><B>Crash:<B> Flynn."
-		"crash.CallFlynn0"		"<clr:238,180,34><B>Crash:<B> Flynn."
+"[english]crash.CallFlynn0"		"<clr:238,180,34><B>Crash:<B> Flynn."
+"crash.CallFlynn0"		"<clr:238,180,34><B>Crash:<B> Flynn."
 
-		"[english]crash.CallFlynn1"		"<clr:238,180,34><B>Crash:<B> Hey, Flynn."
-		"crash.CallFlynn1"		"<clr:238,180,34><B>Crash:<B> Hey, Flynn."
+"[english]crash.CallFlynn1"		"<clr:238,180,34><B>Crash:<B> Hey, Flynn."
+"crash.CallFlynn1"		"<clr:238,180,34><B>Crash:<B> Hej Flynn."
 
-		"[english]crash.CallVegas0"		"<clr:238,180,34><B>Crash:<B> Hey, Vegas."
-		"crash.CallVegas0"		"<clr:238,180,34><B>Crash:<B> Hey, Vegas."
+"[english]crash.CallVegas0"		"<clr:238,180,34><B>Crash:<B> Hey, Vegas."
+"crash.CallVegas0"		"<clr:238,180,34><B>Crash:<B> Hej Vegas."
 
-		"[english]crash.CallVegas1"		"<clr:238,180,34><B>Crash:<B> Vegas."
-		"crash.CallVegas1"		"<clr:238,180,34><B>Crash:<B> Vegas."
+"[english]crash.CallVegas1"		"<clr:238,180,34><B>Crash:<B> Vegas."
+"crash.CallVegas1"		"<clr:238,180,34><B>Crash:<B> Vegas."
 
 		"[english]crash.SuppliesAmmo0"		"<clr:238,180,34><B>Crash:<B> All right, a supply stash."
 		"crash.SuppliesAmmo0"		"<clr:238,180,34><B>Crash:<B> All right, a supply stash."
@@ -1452,88 +1452,88 @@
 		"[english]crash.TimeToLeave2"		"<clr:238,180,34><B>Crash:<B> Woohoo! Time to wave this place goodbye!"
 		"crash.TimeToLeave2"		"<clr:238,180,34><B>Crash:<B> Woohoo! Time to wave this place goodbye!"
 
-		"[english]crash.WatchOut0"		"<clr:238,180,34><B>Crash:<B> Look out!"
-		"crash.WatchOut0"		"<clr:238,180,34><B>Crash:<B> Look out!"
+"[english]crash.WatchOut0"		"<clr:238,180,34><B>Crash:<B> Look out!"
+"crash.WatchOut0"		"<clr:238,180,34><B>Crash:<B> Se upp!"
 
-		"[english]crash.WatchOut1"		"<clr:238,180,34><B>Crash:<B> There!"
-		"crash.WatchOut1"		"<clr:238,180,34><B>Crash:<B> There!"
+"[english]crash.WatchOut1"		"<clr:238,180,34><B>Crash:<B> There!"
+"crash.WatchOut1"		"<clr:238,180,34><B>Crash:<B> Där!"
 
-		"[english]crash.WatchOut2"		"<clr:238,180,34><B>Crash:<B> Watch out!"
-		"crash.WatchOut2"		"<clr:238,180,34><B>Crash:<B> Watch out!"
+"[english]crash.WatchOut2"		"<clr:238,180,34><B>Crash:<B> Watch out!"
+"crash.WatchOut2"		"<clr:238,180,34><B>Crash:<B> Se upp!"
 
-		"[english]crash.Shieldbug0"		"<clr:238,180,34><B>Crash:<B> Holy Shit!"
-		"crash.Shieldbug0"		"<clr:238,180,34><B>Crash:<B> Holy Shit!"
+"[english]crash.Shieldbug0"		"<clr:238,180,34><B>Crash:<B> Holy Shit!"
+"crash.Shieldbug0"		"<clr:238,180,34><B>Crash:<B> Herre Gud!"
 
 
 
-		"[english]crash.Shieldbug2"		"<clr:238,180,34><B>Crash:<B> Shit, a shieldbug!"
-		"crash.Shieldbug2"		"<clr:238,180,34><B>Crash:<B> Shit, a shieldbug!"
+"[english]crash.Shieldbug2"		"<clr:238,180,34><B>Crash:<B> Shit, a shieldbug!"
+"crash.Shieldbug2"		"<clr:238,180,34><B>Crash:<B> Skit, en sköldbugg!"
 
-		"[english]crash.ShieldbugHint0"		"<clr:238,180,34><B>Crash:<B> Get behind it!"
-		"crash.ShieldbugHint0"		"<clr:238,180,34><B>Crash:<B> Get behind it!"
+"[english]crash.ShieldbugHint0"		"<clr:238,180,34><B>Crash:<B> Get behind it!"
+"crash.ShieldbugHint0"		"<clr:238,180,34><B>Crash:<B> Ta dig bakom den!"
 
-		"[english]crash.ShieldbugHint1"		"<clr:238,180,34><B>Crash:<B> Shoot it in the back!"
-		"crash.ShieldbugHint1"		"<clr:238,180,34><B>Crash:<B> Shoot it in the back!"
+"[english]crash.ShieldbugHint1"		"<clr:238,180,34><B>Crash:<B> Shoot it in the back!"
+"crash.ShieldbugHint1"		"<clr:238,180,34><B>Crash:<B> Skjut den där bak!"
 
-		"[english]crash.ShieldbugHint2"		"<clr:238,180,34><B>Crash:<B> Someone grenade it!"
-		"crash.ShieldbugHint2"		"<clr:238,180,34><B>Crash:<B> Someone grenade it!"
+"[english]crash.ShieldbugHint2"		"<clr:238,180,34><B>Crash:<B> Someone grenade it!"
+"crash.ShieldbugHint2"		"<clr:238,180,34><B>Crash:<B> Någon släng en granat!"
 
-		"[english]crash.Parasite0"		"<clr:238,180,34><B>Crash:<B> Look out! Parasite!"
-		"crash.Parasite0"		"<clr:238,180,34><B>Crash:<B> Look out! Parasite!"
+"[english]crash.Parasite0"		"<clr:238,180,34><B>Crash:<B> Look out! Parasite!"
+"crash.Parasite0"		"<clr:238,180,34><B>Crash:<B> Se upp! Parasit!"
 
-		"[english]crash.Parasite1"		"<clr:238,180,34><B>Crash:<B> Parasite!"
-		"crash.Parasite1"		"<clr:238,180,34><B>Crash:<B> Parasite!"
+"[english]crash.Parasite1"		"<clr:238,180,34><B>Crash:<B> Parasite!"
+"crash.Parasite1"		"<clr:238,180,34><B>Crash:<B> Parasit!"
 
-		"[english]crash.Parasite2"		"<clr:238,180,34><B>Crash:<B> Shit, a parasite!"
-		"crash.Parasite2"		"<clr:238,180,34><B>Crash:<B> Shit, a parasite!"
+"[english]crash.Parasite2"		"<clr:238,180,34><B>Crash:<B> Shit, a parasite!"
+"crash.Parasite2"		"<clr:238,180,34><B>Crash:<B> Skit, en parasit!"
 
-		"[english]crash.BeenInfested0"		"<clr:238,180,34><B>Crash:<B> Get it off me!"
-		"crash.BeenInfested0"		"<clr:238,180,34><B>Crash:<B> Get it off me!"
+"[english]crash.BeenInfested0"		"<clr:238,180,34><B>Crash:<B> Get it off me!"
+"crash.BeenInfested0"		"<clr:238,180,34><B>Crash:<B> Få bort den från mig!"
 
-		"[english]crash.BeenInfested1"		"<clr:238,180,34><B>Crash:<B> It's on me!"
-		"crash.BeenInfested1"		"<clr:238,180,34><B>Crash:<B> It's on me!"
+"[english]crash.BeenInfested1"		"<clr:238,180,34><B>Crash:<B> It's on me!"
+"crash.BeenInfested1"		"<clr:238,180,34><B>Crash:<B> Den är på mig!"
 
-		"[english]crash.BeenInfested3"		"<clr:238,180,34><B>Crash:<B> Get it off, get it off!"
-		"crash.BeenInfested3"		"<clr:238,180,34><B>Crash:<B> Get it off, get it off!"
+"[english]crash.BeenInfested3"		"<clr:238,180,34><B>Crash:<B> Get it off, get it off!"
+"crash.BeenInfested3"		"<clr:238,180,34><B>Crash:<B> Få bort den, få bort den!"
 
-		"[english]crash.SwarmEggs0"		"<clr:238,180,34><B>Crash:<B> Swarm eggs!"
-		"crash.SwarmEggs0"		"<clr:238,180,34><B>Crash:<B> Swarm eggs!"
+"[english]crash.SwarmEggs0"		"<clr:238,180,34><B>Crash:<B> Swarm eggs!"
+"crash.SwarmEggs0"		"<clr:238,180,34><B>Crash:<B> Svärmägg!"
 
-		"[english]crash.SwarmEggs1"		"<clr:238,180,34><B>Crash:<B> Swarm eggs, watch yourself!"
-		"crash.SwarmEggs1"		"<clr:238,180,34><B>Crash:<B> Swarm eggs, watch yourself!"
+"[english]crash.SwarmEggs1"		"<clr:238,180,34><B>Crash:<B> Swarm eggs, watch yourself!"
+"crash.SwarmEggs1"		"<clr:238,180,34><B>Crash:<B> Svärmägg, håll koll på dig själv!"
 
-		"[english]crash.SwarmEggs2"		"<clr:238,180,34><B>Crash:<B> Watch out! Swarm eggs!"
-		"crash.SwarmEggs2"		"<clr:238,180,34><B>Crash:<B> Watch out! Swarm eggs!"
+"[english]crash.SwarmEggs2"		"<clr:238,180,34><B>Crash:<B> Watch out! Swarm eggs!"
+"crash.SwarmEggs2"		"<clr:238,180,34><B>Crash:<B> Se upp! Svärmägg!"
 
-		"[english]crash.Grenade0"		"<clr:238,180,34><B>Crash:<B> Clear!"
-		"crash.Grenade0"		"<clr:238,180,34><B>Crash:<B> Clear!"
+"[english]crash.Grenade0"		"<clr:238,180,34><B>Crash:<B> Clear!"
+"crash.Grenade0"		"<clr:238,180,34><B>Crash:<B> Klar!"
 
-		"[english]crash.Grenade1"		"<clr:238,180,34><B>Crash:<B> Eat this!"
-		"crash.Grenade1"		"<clr:238,180,34><B>Crash:<B> Eat this!"
+"[english]crash.Grenade1"		"<clr:238,180,34><B>Crash:<B> Eat this!"
+"crash.Grenade1"		"<clr:238,180,34><B>Crash:<B> Ät det här!"
 
-		"[english]crash.Grenade2"		"<clr:238,180,34><B>Crash:<B> Fire in the hole!"
-		"crash.Grenade2"		"<clr:238,180,34><B>Crash:<B> Fire in the hole!"
+"[english]crash.Grenade2"		"<clr:238,180,34><B>Crash:<B> Fire in the hole!"
+"crash.Grenade2"		"<clr:238,180,34><B>Crash:<B> Eld i berget!"
 
-		"[english]crash.Grenade3"		"<clr:238,180,34><B>Crash:<B> Grenade!"
-		"crash.Grenade3"		"<clr:238,180,34><B>Crash:<B> Grenade!"
+"[english]crash.Grenade3"		"<clr:238,180,34><B>Crash:<B> Grenade!"
+"crash.Grenade3"		"<clr:238,180,34><B>Crash:<B> Granat!"
 
-		"[english]crash.AlienTooClose0"		"<clr:238,180,34><B>Crash:<B> Get it off!"
-		"crash.AlienTooClose0"		"<clr:238,180,34><B>Crash:<B> Get it off!"
+"[english]crash.AlienTooClose0"		"<clr:238,180,34><B>Crash:<B> Get it off!"
+"crash.AlienTooClose0"		"<clr:238,180,34><B>Crash:<B> Få bort den!"
 
-		"[english]crash.AlienTooClose1"		"<clr:238,180,34><B>Crash:<B> Hostile on me!"
-		"crash.AlienTooClose1"		"<clr:238,180,34><B>Crash:<B> Hostile on me!"
+"[english]crash.AlienTooClose1"		"<clr:238,180,34><B>Crash:<B> Hostile on me!"
+"crash.AlienTooClose1"		"<clr:238,180,34><B>Crash:<B> Fiende på mig!"
 
-		"[english]crash.AlienTooClose2"		"<clr:238,180,34><B>Crash:<B> Kill it!"
-		"crash.AlienTooClose2"		"<clr:238,180,34><B>Crash:<B> Kill it!"
+"[english]crash.AlienTooClose2"		"<clr:238,180,34><B>Crash:<B> Kill it!"
+"crash.AlienTooClose2"		"<clr:238,180,34><B>Crash:<B> Döda den!"
 
-		"[english]crash.AlienTooClose3"		"<clr:238,180,34><B>Crash:<B> On me!"
-		"crash.AlienTooClose3"		"<clr:238,180,34><B>Crash:<B> On me!"
+"[english]crash.AlienTooClose3"		"<clr:238,180,34><B>Crash:<B> On me!"
+"crash.AlienTooClose3"		"<clr:238,180,34><B>Crash:<B> På mig!"
 
-		"[english]crash.MadFiring0"		"<clr:238,180,34><B>Crash:<B> Come on."
-		"crash.MadFiring0"		"<clr:238,180,34><B>Crash:<B> Come on."
+"[english]crash.MadFiring0"		"<clr:238,180,34><B>Crash:<B> Come on."
+"crash.MadFiring0"		"<clr:238,180,34><B>Crash:<B> Kom igen."
 
-		"[english]crash.MadFiring1"		"<clr:238,180,34><B>Crash:<B> Die, you son of a bitch!"
-		"crash.MadFiring1"		"<clr:238,180,34><B>Crash:<B> Die, you son of a bitch!"
+"[english]crash.MadFiring1"		"<clr:238,180,34><B>Crash:<B> Die, you son of a bitch!"
+"crash.MadFiring1"		"<clr:238,180,34><B>Crash:<B> Dö, din jävel!"
 
 		"[english]crash.MadFiring3"		"<clr:238,180,34><B>Crash:<B> You want some?"
 		"crash.MadFiring3"		"<clr:238,180,34><B>Crash:<B> You want some?"
@@ -4743,8 +4743,8 @@
 		"wildcat.Idle1"		"<clr:238,106,80><B>Wildcat:<B> I say we set some T-75 explosives and get the hell out!"
 
 
-		"[english]wildcat.Idle2"		"<clr:238,106,80><B>Wildcat:<B> Let's get this party started."
-		"wildcat.Idle2"		"<clr:238,106,80><B>Wildcat:<B> Let's get this party started."
+"[english]wildcat.Idle2"		"<clr:238,106,80><B>Wildcat:<B> Let's get this party started."
+"wildcat.Idle2"		"<clr:238,106,80><B>Wildcat:<B> Låt oss få igång den här festen."
 
 
 "[english]wildcat.Idle3"		"<clr:238,106,80><B>Wildcat:<B> Meow."
@@ -4827,12 +4827,12 @@
 "wildcat.Medic0"		"<clr:238,106,80><B>Wildcat:<B> Sjukvårdare!"
 
 
-		"[english]wildcat.WildcatKillStart0"		"<clr:238,106,80><B>Wildcat:<B> Hah, you see that one, Wolfe?"
-		"wildcat.WildcatKillStart0"		"<clr:238,106,80><B>Wildcat:<B> Hah, you see that one, Wolfe?"
+"[english]wildcat.WildcatKillStart0"		"<clr:238,106,80><B>Wildcat:<B> Hah, you see that one, Wolfe?"
+"wildcat.WildcatKillStart0"		"<clr:238,106,80><B>Wildcat:<B> Hah, ser du den, Wolfe?"
 
 
-		"[english]wildcat.WildcatKillStart1"		"<clr:238,106,80><B>Wildcat:<B> That's another for me, Wolfe. You slowing down old man."
-		"wildcat.WildcatKillStart1"		"<clr:238,106,80><B>Wildcat:<B> That's another for me, Wolfe. You slowing down old man."
+"[english]wildcat.WildcatKillStart1"		"<clr:238,106,80><B>Wildcat:<B> That's another for me, Wolfe. You slowing down old man."
+"wildcat.WildcatKillStart1"		"<clr:238,106,80><B>Wildcat:<B> Det är en till för mig, Wolfe. Du saktar ner gubben."
 
 
 "[english]wildcat.WildcatKillReplyAhead0"		"<clr:238,106,80><B>Wildcat:<B> Hehehe"
@@ -4847,12 +4847,12 @@
 "wildcat.WildcatKillReplyBehind1"		"<clr:238,106,80><B>Wildcat:<B> Helvete!"
 
 
-		"[english]wildcat.WolfeKillReplyAhead0"		"<clr:238,106,80><B>Wildcat:<B> I'm still ahead, Wolfe."
-		"wildcat.WolfeKillReplyAhead0"		"<clr:238,106,80><B>Wildcat:<B> I'm still ahead, Wolfe."
+"[english]wildcat.WolfeKillReplyAhead0"		"<clr:238,106,80><B>Wildcat:<B> I'm still ahead, Wolfe."
+"wildcat.WolfeKillReplyAhead0"		"<clr:238,106,80><B>Wildcat:<B> Jag ligger fortfarande före, Wolfe."
 
 
-		"[english]wildcat.WolfeKillReplyAhead1"		"<clr:238,106,80><B>Wildcat:<B> It'll take more than that to beat me, old man."
-		"wildcat.WolfeKillReplyAhead1"		"<clr:238,106,80><B>Wildcat:<B> It'll take more than that to beat me, old man."
+"[english]wildcat.WolfeKillReplyAhead1"		"<clr:238,106,80><B>Wildcat:<B> It'll take more than that to beat me, old man."
+"wildcat.WolfeKillReplyAhead1"		"<clr:238,106,80><B>Wildcat:<B> Det krävs mer än så för att slå mig, gubbe."
 
 
 "[english]wildcat.WolfeKillReplyBehind0"		"<clr:238,106,80><B>Wildcat:<B> Damn it!"
@@ -4863,8 +4863,8 @@
 "wildcat.WolfeKillReplyBehind1"		"<clr:238,106,80><B>Wildcat:<B> Yeah, yeah."
 
 
-		"[english]wildcat.Reloading0"		"<clr:238,106,80><B>Wildcat:<B> Lock and load."
-		"wildcat.Reloading0"		"<clr:238,106,80><B>Wildcat:<B> Lock and load."
+"[english]wildcat.Reloading0"		"<clr:238,106,80><B>Wildcat:<B> Lock and load."
+"wildcat.Reloading0"		"<clr:238,106,80><B>Wildcat:<B> Laddat och klart."
 
 
 "[english]wildcat.Reloading1"		"<clr:238,106,80><B>Wildcat:<B> Reload."
@@ -5469,40 +5469,40 @@
 		"wolfe.AutogunReply3"		"<clr:154,205,50><B>Wolfe:<B> Right on."
 
 
-		"[english]wolfe.Use0"		"<clr:154,205,50><B>Wolfe:<B> All right!"
-		"wolfe.Use0"		"<clr:154,205,50><B>Wolfe:<B> All right!"
+"[english]wolfe.Use0"		"<clr:154,205,50><B>Wolfe:<B> All right!"
+"wolfe.Use0"		"<clr:154,205,50><B>Wolfe:<B> Okej!"
 
 
-		"[english]wolfe.Use1"		"<clr:154,205,50><B>Wolfe:<B> Okay."
-		"wolfe.Use1"		"<clr:154,205,50><B>Wolfe:<B> Okay."
+"[english]wolfe.Use1"		"<clr:154,205,50><B>Wolfe:<B> Okay."
+"wolfe.Use1"		"<clr:154,205,50><B>Wolfe:<B> Okej."
 
 
-		"[english]wolfe.Use2"		"<clr:154,205,50><B>Wolfe:<B> Roger."
-		"wolfe.Use2"		"<clr:154,205,50><B>Wolfe:<B> Roger."
+"[english]wolfe.Use2"		"<clr:154,205,50><B>Wolfe:<B> Roger."
+"wolfe.Use2"		"<clr:154,205,50><B>Wolfe:<B> Roger."
 
 
-		"[english]wolfe.Use3"		"<clr:154,205,50><B>Wolfe:<B> I gotcha."
-		"wolfe.Use3"		"<clr:154,205,50><B>Wolfe:<B> I gotcha."
+"[english]wolfe.Use3"		"<clr:154,205,50><B>Wolfe:<B> I gotcha."
+"wolfe.Use3"		"<clr:154,205,50><B>Wolfe:<B> Jag förstår."
 
 
-		"[english]wolfe.Use4"		"<clr:154,205,50><B>Wolfe:<B> I'm on it."
-		"wolfe.Use4"		"<clr:154,205,50><B>Wolfe:<B> I'm on it."
+"[english]wolfe.Use4"		"<clr:154,205,50><B>Wolfe:<B> I'm on it."
+"wolfe.Use4"		"<clr:154,205,50><B>Wolfe:<B> Jag är på det."
 
 
-		"[english]wolfe.Use5"		"<clr:154,205,50><B>Wolfe:<B> Oh, yessir."
-		"wolfe.Use5"		"<clr:154,205,50><B>Wolfe:<B> Oh, yessir."
+"[english]wolfe.Use5"		"<clr:154,205,50><B>Wolfe:<B> Oh, yessir."
+"wolfe.Use5"		"<clr:154,205,50><B>Wolfe:<B> Åh, ja sir."
 
 
-		"[english]wolfe.Use6"		"<clr:154,205,50><B>Wolfe:<B> Yeah!"
-		"wolfe.Use6"		"<clr:154,205,50><B>Wolfe:<B> Yeah!"
+"[english]wolfe.Use6"		"<clr:154,205,50><B>Wolfe:<B> Yeah!"
+"wolfe.Use6"		"<clr:154,205,50><B>Wolfe:<B> Ja!"
 
 
-		"[english]wolfe.Use7"		"<clr:154,205,50><B>Wolfe:<B> Yeah."
-		"wolfe.Use7"		"<clr:154,205,50><B>Wolfe:<B> Yeah."
+"[english]wolfe.Use7"		"<clr:154,205,50><B>Wolfe:<B> Yeah."
+"wolfe.Use7"		"<clr:154,205,50><B>Wolfe:<B> Ja."
 
 
-		"[english]wolfe.Idle0"		"<clr:154,205,50><B>Wolfe:<B> Don't get too close. I got a thing for collateral damage."
-		"wolfe.Idle0"		"<clr:154,205,50><B>Wolfe:<B> Don't get too close. I got a thing for collateral damage."
+"[english]wolfe.Idle0"		"<clr:154,205,50><B>Wolfe:<B> Don't get too close. I got a thing for collateral damage."
+"wolfe.Idle0"		"<clr:154,205,50><B>Wolfe:<B> Kom inte för nära. Jag har en sak för säkerhetsskador."
 
 
 		"[english]wolfe.Idle1"		"<clr:154,205,50><B>Wolfe:<B> I smell bugs. They're nasty and almost as ugly as me."
@@ -5537,24 +5537,24 @@
 		"wolfe.Idle8"		"<clr:154,205,50><B>Wolfe:<B> You don't hurt em if you don't hit em."
 
 
-		"[english]wolfe.FF0"		"<clr:154,205,50><B>Wolfe:<B> Check your target."
-		"wolfe.FF0"		"<clr:154,205,50><B>Wolfe:<B> Check your target."
+"[english]wolfe.FF0"		"<clr:154,205,50><B>Wolfe:<B> Check your target."
+"wolfe.FF0"		"<clr:154,205,50><B>Wolfe:<B> Kontrollera ditt mål."
 
 
-		"[english]wolfe.FiringAtAlien0"		"<clr:154,205,50><B>Wolfe:<B> [Aggressive growl]"
-		"wolfe.FiringAtAlien0"		"<clr:154,205,50><B>Wolfe:<B> [Aggressive growl]"
+"[english]wolfe.FiringAtAlien0"		"<clr:154,205,50><B>Wolfe:<B> [Aggressive growl]"
+"wolfe.FiringAtAlien0"		"<clr:154,205,50><B>Wolfe:<B> [Aggressivt morrande]"
 
 
-		"[english]wolfe.FiringAtAlien1"		"<clr:154,205,50><B>Wolfe:<B> Contact!"
-		"wolfe.FiringAtAlien1"		"<clr:154,205,50><B>Wolfe:<B> Contact!"
+"[english]wolfe.FiringAtAlien1"		"<clr:154,205,50><B>Wolfe:<B> Contact!"
+"wolfe.FiringAtAlien1"		"<clr:154,205,50><B>Wolfe:<B> Kontakt!"
 
 
-		"[english]wolfe.FiringAtAlien2"		"<clr:154,205,50><B>Wolfe:<B> Take it down!"
-		"wolfe.FiringAtAlien2"		"<clr:154,205,50><B>Wolfe:<B> Take it down!"
+"[english]wolfe.FiringAtAlien2"		"<clr:154,205,50><B>Wolfe:<B> Take it down!"
+"wolfe.FiringAtAlien2"		"<clr:154,205,50><B>Wolfe:<B> Ta ner den!"
 
 
-		"[english]wolfe.FollowMe0"		"<clr:154,205,50><B>Wolfe:<B> Follow me."
-		"wolfe.FollowMe0"		"<clr:154,205,50><B>Wolfe:<B> Follow me."
+"[english]wolfe.FollowMe0"		"<clr:154,205,50><B>Wolfe:<B> Follow me."
+"wolfe.FollowMe0"		"<clr:154,205,50><B>Wolfe:<B> Följ mig."
 
 
 		"[english]wolfe.FollowMe1"		"<clr:154,205,50><B>Wolfe:<B> Let's move."
@@ -5585,8 +5585,8 @@
 		"wolfe.NoAmmo1"		"<clr:154,205,50><B>Wolfe:<B> Anyone got spare?"
 
 
-		"[english]wolfe.Medic0"		"<clr:154,205,50><B>Wolfe:<B> Medic!"
-		"wolfe.Medic0"		"<clr:154,205,50><B>Wolfe:<B> Medic!"
+"[english]wolfe.Medic0"		"<clr:154,205,50><B>Wolfe:<B> Medic!"
+"wolfe.Medic0"		"<clr:154,205,50><B>Wolfe:<B> Läkare!"
 
 
 		"[english]wolfe.WildcatKillReplyAhead0"		"<clr:154,205,50><B>Wolfe:<B> Good one. But I've killed more."
@@ -5609,8 +5609,8 @@
 		"wolfe.WildcatKillReplyBehind2"		"<clr:154,205,50><B>Wolfe:<B> That one back there, that didn't count."
 
 
-		"[english]wolfe.WolfeKillStart0"		"<clr:154,205,50><B>Wolfe:<B> Watch and learn."
-		"wolfe.WolfeKillStart0"		"<clr:154,205,50><B>Wolfe:<B> Watch and learn."
+"[english]wolfe.WolfeKillStart0"		"<clr:154,205,50><B>Wolfe:<B> Watch and learn."
+"wolfe.WolfeKillStart0"		"<clr:154,205,50><B>Wolfe:<B> Se och lär."
 
 
 		"[english]wolfe.WolfeKillStart1"		"<clr:154,205,50><B>Wolfe:<B> Another one down. I'm unstoppable."
@@ -5629,404 +5629,404 @@
 		"wolfe.WolfeKillReplyBehind1"		"<clr:154,205,50><B>Wolfe:<B> It's not the count, it's the style."
 
 
-		"[english]wolfe.Misc0"		"<clr:154,205,50><B>Wolfe:<B> Cover my back, Crash."
-		"wolfe.Misc0"		"<clr:154,205,50><B>Wolfe:<B> Cover my back, Crash."
+"[english]wolfe.Misc0"		"<clr:154,205,50><B>Wolfe:<B> Cover my back, Crash."
+"wolfe.Misc0"		"<clr:154,205,50><B>Wolfe:<B> Täck min rygg, Crash."
 
 
-		"[english]wolfe.Misc1"		"<clr:154,205,50><B>Wolfe:<B> Cover my back, Flynn."
-		"wolfe.Misc1"		"<clr:154,205,50><B>Wolfe:<B> Cover my back, Flynn."
+"[english]wolfe.Misc1"		"<clr:154,205,50><B>Wolfe:<B> Cover my back, Flynn."
+"wolfe.Misc1"		"<clr:154,205,50><B>Wolfe:<B> Täck min rygg, Flynn."
 
 
-		"[english]wolfe.Misc2"		"<clr:154,205,50><B>Wolfe:<B> Wildcat, cover my back."
-		"wolfe.Misc2"		"<clr:154,205,50><B>Wolfe:<B> Wildcat, cover my back."
+"[english]wolfe.Misc2"		"<clr:154,205,50><B>Wolfe:<B> Wildcat, cover my back."
+"wolfe.Misc2"		"<clr:154,205,50><B>Wolfe:<B> Wildcat, täck min rygg."
 
 
-		"[english]wolfe.Misc3"		"<clr:154,205,50><B>Wolfe:<B> You saved my life."
-		"wolfe.Misc3"		"<clr:154,205,50><B>Wolfe:<B> You saved my life."
+"[english]wolfe.Misc3"		"<clr:154,205,50><B>Wolfe:<B> You saved my life."
+"wolfe.Misc3"		"<clr:154,205,50><B>Wolfe:<B> Du rädda mitt liv."
 
 
-		"[english]wolfe.Reloading0"		"<clr:154,205,50><B>Wolfe:<B> Reloading! Cover me."
-		"wolfe.Reloading0"		"<clr:154,205,50><B>Wolfe:<B> Reloading! Cover me."
+"[english]wolfe.Reloading0"		"<clr:154,205,50><B>Wolfe:<B> Reloading! Cover me."
+"wolfe.Reloading0"		"<clr:154,205,50><B>Wolfe:<B> Laddar om! Täck mig."
 
 
-		"[english]wolfe.Reloading1"		"<clr:154,205,50><B>Wolfe:<B> Reloading."
-		"wolfe.Reloading1"		"<clr:154,205,50><B>Wolfe:<B> Reloading."
+"[english]wolfe.Reloading1"		"<clr:154,205,50><B>Wolfe:<B> Reloading."
+"wolfe.Reloading1"		"<clr:154,205,50><B>Wolfe:<B> Laddar om."
 
 
-		"[english]wolfe.Reloading2"		"<clr:154,205,50><B>Wolfe:<B> Reload."
-		"wolfe.Reloading2"		"<clr:154,205,50><B>Wolfe:<B> Reload."
+"[english]wolfe.Reloading2"		"<clr:154,205,50><B>Wolfe:<B> Reload."
+"wolfe.Reloading2"		"<clr:154,205,50><B>Wolfe:<B> Ladda om."
 
 
-		"[english]wolfe.SentryInPlace0"		"<clr:154,205,50><B>Wolfe:<B> Sentry on-line."
-		"wolfe.SentryInPlace0"		"<clr:154,205,50><B>Wolfe:<B> Sentry on-line."
+"[english]wolfe.SentryInPlace0"		"<clr:154,205,50><B>Wolfe:<B> Sentry on-line."
+"wolfe.SentryInPlace0"		"<clr:154,205,50><B>Wolfe:<B> Vaktgevär online."
 
 
-		"[english]wolfe.SentryInPlace1"		"<clr:154,205,50><B>Wolfe:<B> Show em what you got, old Betty."
-		"wolfe.SentryInPlace1"		"<clr:154,205,50><B>Wolfe:<B> Show em what you got, old Betty."
+"[english]wolfe.SentryInPlace1"		"<clr:154,205,50><B>Wolfe:<B> Show em what you got, old Betty."
+"wolfe.SentryInPlace1"		"<clr:154,205,50><B>Wolfe:<B> Visa vad du går för, gamla Betty."
 
 
-		"[english]wolfe.Ammo0"		"<clr:154,205,50><B>Wolfe:<B> I need some ammo here."
-		"wolfe.Ammo0"		"<clr:154,205,50><B>Wolfe:<B> I need some ammo here."
+"[english]wolfe.Ammo0"		"<clr:154,205,50><B>Wolfe:<B> I need some ammo here."
+"wolfe.Ammo0"		"<clr:154,205,50><B>Wolfe:<B> Jag behöver lite ammunition här."
 
 
-		"[english]wolfe.Medkit0"		"<clr:154,205,50><B>Wolfe:<B> Get that med kit."
-		"wolfe.Medkit0"		"<clr:154,205,50><B>Wolfe:<B> Get that med kit."
+"[english]wolfe.Medkit0"		"<clr:154,205,50><B>Wolfe:<B> Get that med kit."
+"wolfe.Medkit0"		"<clr:154,205,50><B>Wolfe:<B> Få det där läkar-kittet."
 
 
-		"[english]wolfe.Medkit1"		"<clr:154,205,50><B>Wolfe:<B> Med kit."
-		"wolfe.Medkit1"		"<clr:154,205,50><B>Wolfe:<B> Med kit."
+"[english]wolfe.Medkit1"		"<clr:154,205,50><B>Wolfe:<B> Med kit."
+"wolfe.Medkit1"		"<clr:154,205,50><B>Wolfe:<B> Läkar-kit."
 
 
-		"[english]wolfe.Medkit2"		"<clr:154,205,50><B>Wolfe:<B> There's a med kit."
-		"wolfe.Medkit2"		"<clr:154,205,50><B>Wolfe:<B> There's a med kit."
+"[english]wolfe.Medkit2"		"<clr:154,205,50><B>Wolfe:<B> There's a med kit."
+"wolfe.Medkit2"		"<clr:154,205,50><B>Wolfe:<B> Där är ett läkar-kit."
 
 
-		"[english]wolfe.Thanks0"		"<clr:154,205,50><B>Wolfe:<B> Hey, thanks."
-		"wolfe.Thanks0"		"<clr:154,205,50><B>Wolfe:<B> Hey, thanks."
+"[english]wolfe.Thanks0"		"<clr:154,205,50><B>Wolfe:<B> Hey, thanks."
+"wolfe.Thanks0"		"<clr:154,205,50><B>Wolfe:<B> Hej, tack."
 
 
-		"[english]wolfe.Thanks1"		"<clr:154,205,50><B>Wolfe:<B> Honestly, thank you."
-		"wolfe.Thanks1"		"<clr:154,205,50><B>Wolfe:<B> Honestly, thank you."
+"[english]wolfe.Thanks1"		"<clr:154,205,50><B>Wolfe:<B> Honestly, thank you."
+"wolfe.Thanks1"		"<clr:154,205,50><B>Wolfe:<B> Helt ärligt, tack."
 
 
-		"[english]wolfe.Thanks2"		"<clr:154,205,50><B>Wolfe:<B> Thanks"
-		"wolfe.Thanks2"		"<clr:154,205,50><B>Wolfe:<B> Thanks"
+"[english]wolfe.Thanks2"		"<clr:154,205,50><B>Wolfe:<B> Thanks"
+"wolfe.Thanks2"		"<clr:154,205,50><B>Wolfe:<B> Tack"
 
 
-		"[english]wolfe.Thanks3"		"<clr:154,205,50><B>Wolfe:<B> Thanks to you."
-		"wolfe.Thanks3"		"<clr:154,205,50><B>Wolfe:<B> Thanks to you."
+"[english]wolfe.Thanks3"		"<clr:154,205,50><B>Wolfe:<B> Thanks to you."
+"wolfe.Thanks3"		"<clr:154,205,50><B>Wolfe:<B> Tack till dig."
 
 
-		"[english]wolfe.Thanks4"		"<clr:154,205,50><B>Wolfe:<B> Thank you."
-		"wolfe.Thanks4"		"<clr:154,205,50><B>Wolfe:<B> Thank you."
+"[english]wolfe.Thanks4"		"<clr:154,205,50><B>Wolfe:<B> Thank you."
+"wolfe.Thanks4"		"<clr:154,205,50><B>Wolfe:<B> Tack."
 
 
-		"[english]wolfe.Thanks5"		"<clr:154,205,50><B>Wolfe:<B> Yeah, thanks."
-		"wolfe.Thanks5"		"<clr:154,205,50><B>Wolfe:<B> Yeah, thanks."
+"[english]wolfe.Thanks5"		"<clr:154,205,50><B>Wolfe:<B> Yeah, thanks."
+"wolfe.Thanks5"		"<clr:154,205,50><B>Wolfe:<B> Ja tack."
 
 
-		"[english]wolfe.Question0"		"<clr:154,205,50><B>Wolfe:<B> Hmmm."
-		"wolfe.Question0"		"<clr:154,205,50><B>Wolfe:<B> Hmmm."
+"[english]wolfe.Question0"		"<clr:154,205,50><B>Wolfe:<B> Hmmm."
+"wolfe.Question0"		"<clr:154,205,50><B>Wolfe:<B> Hmmm."
 
 
-		"[english]wolfe.Question1"		"<clr:154,205,50><B>Wolfe:<B> Hmmm?"
-		"wolfe.Question1"		"<clr:154,205,50><B>Wolfe:<B> Hmmm?"
+"[english]wolfe.Question1"		"<clr:154,205,50><B>Wolfe:<B> Hmmm?"
+"wolfe.Question1"		"<clr:154,205,50><B>Wolfe:<B> Hmmm?"
 
 
-		"[english]wolfe.Question2"		"<clr:154,205,50><B>Wolfe:<B> Hmmm."
-		"wolfe.Question2"		"<clr:154,205,50><B>Wolfe:<B> Hmmm."
+"[english]wolfe.Question2"		"<clr:154,205,50><B>Wolfe:<B> Hmmm."
+"wolfe.Question2"		"<clr:154,205,50><B>Wolfe:<B> Hmmm."
 
 
-		"[english]wolfe.Question3"		"<clr:154,205,50><B>Wolfe:<B> What?"
-		"wolfe.Question3"		"<clr:154,205,50><B>Wolfe:<B> What?"
+"[english]wolfe.Question3"		"<clr:154,205,50><B>Wolfe:<B> What?"
+"wolfe.Question3"		"<clr:154,205,50><B>Wolfe:<B> Va?"
 
 
-		"[english]wolfe.Question4"		"<clr:154,205,50><B>Wolfe:<B> What?"
-		"wolfe.Question4"		"<clr:154,205,50><B>Wolfe:<B> What?"
+"[english]wolfe.Question4"		"<clr:154,205,50><B>Wolfe:<B> What?"
+"wolfe.Question4"		"<clr:154,205,50><B>Wolfe:<B> Va?"
 
 
-		"[english]wolfe.Question5"		"<clr:154,205,50><B>Wolfe:<B> What?"
-		"wolfe.Question5"		"<clr:154,205,50><B>Wolfe:<B> What?"
+"[english]wolfe.Question5"		"<clr:154,205,50><B>Wolfe:<B> What?"
+"wolfe.Question5"		"<clr:154,205,50><B>Wolfe:<B> Va?"
 
 
-		"[english]wolfe.Question6"		"<clr:154,205,50><B>Wolfe:<B> What?"
-		"wolfe.Question6"		"<clr:154,205,50><B>Wolfe:<B> What?"
+"[english]wolfe.Question6"		"<clr:154,205,50><B>Wolfe:<B> What?"
+"wolfe.Question6"		"<clr:154,205,50><B>Wolfe:<B> Va?"
 
 
-		"[english]wolfe.Question7"		"<clr:154,205,50><B>Wolfe:<B> What is it?"
-		"wolfe.Question7"		"<clr:154,205,50><B>Wolfe:<B> What is it?"
+"[english]wolfe.Question7"		"<clr:154,205,50><B>Wolfe:<B> What is it?"
+"wolfe.Question7"		"<clr:154,205,50><B>Wolfe:<B> Vad är det?"
 
 
-		"[english]wolfe.Question8"		"<clr:154,205,50><B>Wolfe:<B> What now?"
-		"wolfe.Question8"		"<clr:154,205,50><B>Wolfe:<B> What now?"
+"[english]wolfe.Question8"		"<clr:154,205,50><B>Wolfe:<B> What now?"
+"wolfe.Question8"		"<clr:154,205,50><B>Wolfe:<B> Vad nudå?"
 
 
-		"[english]wolfe.Question9"		"<clr:154,205,50><B>Wolfe:<B> What's going on?"
-		"wolfe.Question9"		"<clr:154,205,50><B>Wolfe:<B> What's going on?"
+"[english]wolfe.Question9"		"<clr:154,205,50><B>Wolfe:<B> What's going on?"
+"wolfe.Question9"		"<clr:154,205,50><B>Wolfe:<B> Vad pågår?"
 
 
-		"[english]wolfe.CallSarge0"		"<clr:154,205,50><B>Wolfe:<B> Hey, Sarge."
-		"wolfe.CallSarge0"		"<clr:154,205,50><B>Wolfe:<B> Hey, Sarge."
+"[english]wolfe.CallSarge0"		"<clr:154,205,50><B>Wolfe:<B> Hey, Sarge."
+"wolfe.CallSarge0"		"<clr:154,205,50><B>Wolfe:<B> Hej Sarge."
 
 
-		"[english]wolfe.CallSarge1"		"<clr:154,205,50><B>Wolfe:<B> Sarge."
-		"wolfe.CallSarge1"		"<clr:154,205,50><B>Wolfe:<B> Sarge."
+"[english]wolfe.CallSarge1"		"<clr:154,205,50><B>Wolfe:<B> Sarge."
+"wolfe.CallSarge1"		"<clr:154,205,50><B>Wolfe:<B> Sarge."
 
 
-		"[english]wolfe.CallSarge2"		"<clr:154,205,50><B>Wolfe:<B> Where's Sarge?"
-		"wolfe.CallSarge2"		"<clr:154,205,50><B>Wolfe:<B> Where's Sarge?"
+"[english]wolfe.CallSarge2"		"<clr:154,205,50><B>Wolfe:<B> Where's Sarge?"
+"wolfe.CallSarge2"		"<clr:154,205,50><B>Wolfe:<B> Vart är Sarge?"
 
 
-		"[english]wolfe.CallSarge3"		"<clr:154,205,50><B>Wolfe:<B> Where's Sarge?"
-		"wolfe.CallSarge3"		"<clr:154,205,50><B>Wolfe:<B> Where's Sarge?"
+"[english]wolfe.CallSarge3"		"<clr:154,205,50><B>Wolfe:<B> Where's Sarge?"
+"wolfe.CallSarge3"		"<clr:154,205,50><B>Wolfe:<B> Vart är Sarge?"
 
 
-		"[english]wolfe.CallJaeger0"		"<clr:154,205,50><B>Wolfe:<B> Hey, Jaeger."
-		"wolfe.CallJaeger0"		"<clr:154,205,50><B>Wolfe:<B> Hey, Jaeger."
+"[english]wolfe.CallJaeger0"		"<clr:154,205,50><B>Wolfe:<B> Hey, Jaeger."
+"wolfe.CallJaeger0"		"<clr:154,205,50><B>Wolfe:<B> Hej Jaeger."
 
 
-		"[english]wolfe.CallJaeger1"		"<clr:154,205,50><B>Wolfe:<B> Jaeger."
-		"wolfe.CallJaeger1"		"<clr:154,205,50><B>Wolfe:<B> Jaeger."
+"[english]wolfe.CallJaeger1"		"<clr:154,205,50><B>Wolfe:<B> Jaeger."
+"wolfe.CallJaeger1"		"<clr:154,205,50><B>Wolfe:<B> Jaeger."
 
 
-		"[english]wolfe.CallJaeger2"		"<clr:154,205,50><B>Wolfe:<B> Where's Jaeger?"
-		"wolfe.CallJaeger2"		"<clr:154,205,50><B>Wolfe:<B> Where's Jaeger?"
+"[english]wolfe.CallJaeger2"		"<clr:154,205,50><B>Wolfe:<B> Where's Jaeger?"
+"wolfe.CallJaeger2"		"<clr:154,205,50><B>Wolfe:<B> Vart är Jaeger?"
 
 
-		"[english]wolfe.CallWildcat0"		"<clr:154,205,50><B>Wolfe:<B> Hey, Cat."
-		"wolfe.CallWildcat0"		"<clr:154,205,50><B>Wolfe:<B> Hey, Cat."
+"[english]wolfe.CallWildcat0"		"<clr:154,205,50><B>Wolfe:<B> Hey, Cat."
+"wolfe.CallWildcat0"		"<clr:154,205,50><B>Wolfe:<B> Hej Cat."
 
 
-		"[english]wolfe.CallWildcat1"		"<clr:154,205,50><B>Wolfe:<B> Hey, Wildcat."
-		"wolfe.CallWildcat1"		"<clr:154,205,50><B>Wolfe:<B> Hey, Wildcat."
+"[english]wolfe.CallWildcat1"		"<clr:154,205,50><B>Wolfe:<B> Hey, Wildcat."
+"wolfe.CallWildcat1"		"<clr:154,205,50><B>Wolfe:<B> Hej Wildcat."
 
 
-		"[english]wolfe.CallWildcat2"		"<clr:154,205,50><B>Wolfe:<B> Oi, Wildcat."
-		"wolfe.CallWildcat2"		"<clr:154,205,50><B>Wolfe:<B> Oi, Wildcat."
+"[english]wolfe.CallWildcat2"		"<clr:154,205,50><B>Wolfe:<B> Oi, Wildcat."
+"wolfe.CallWildcat2"		"<clr:154,205,50><B>Wolfe:<B> Oi, Wildcat."
 
 
-		"[english]wolfe.CallWildcat3"		"<clr:154,205,50><B>Wolfe:<B> Where are you, Wildcat?"
-		"wolfe.CallWildcat3"		"<clr:154,205,50><B>Wolfe:<B> Where are you, Wildcat?"
+"[english]wolfe.CallWildcat3"		"<clr:154,205,50><B>Wolfe:<B> Where are you, Wildcat?"
+"wolfe.CallWildcat3"		"<clr:154,205,50><B>Wolfe:<B> Vart är du, Wildcat?"
 
 
-		"[english]wolfe.CallWildcat4"		"<clr:154,205,50><B>Wolfe:<B> Where's Wildcat?"
-		"wolfe.CallWildcat4"		"<clr:154,205,50><B>Wolfe:<B> Where's Wildcat?"
+"[english]wolfe.CallWildcat4"		"<clr:154,205,50><B>Wolfe:<B> Where's Wildcat?"
+"wolfe.CallWildcat4"		"<clr:154,205,50><B>Wolfe:<B> Var är Wildcat?"
 
 
-		"[english]wolfe.CallWildcat5"		"<clr:154,205,50><B>Wolfe:<B> Wildcat."
-		"wolfe.CallWildcat5"		"<clr:154,205,50><B>Wolfe:<B> Wildcat."
+"[english]wolfe.CallWildcat5"		"<clr:154,205,50><B>Wolfe:<B> Wildcat."
+"wolfe.CallWildcat5"		"<clr:154,205,50><B>Wolfe:<B> Wildcat."
 
 
-		"[english]wolfe.CallFaith0"		"<clr:154,205,50><B>Wolfe:<B> Faith."
-		"wolfe.CallFaith0"		"<clr:154,205,50><B>Wolfe:<B> Faith."
+"[english]wolfe.CallFaith0"		"<clr:154,205,50><B>Wolfe:<B> Faith."
+"wolfe.CallFaith0"		"<clr:154,205,50><B>Wolfe:<B> Faith."
 
 
-		"[english]wolfe.CallFaith1"		"<clr:154,205,50><B>Wolfe:<B> Hey, Faith."
-		"wolfe.CallFaith1"		"<clr:154,205,50><B>Wolfe:<B> Hey, Faith."
+"[english]wolfe.CallFaith1"		"<clr:154,205,50><B>Wolfe:<B> Hey, Faith."
+"wolfe.CallFaith1"		"<clr:154,205,50><B>Wolfe:<B> Hej Faith."
 
 
-		"[english]wolfe.CallFaith2"		"<clr:154,205,50><B>Wolfe:<B> Oi, Faith."
-		"wolfe.CallFaith2"		"<clr:154,205,50><B>Wolfe:<B> Oi, Faith."
+"[english]wolfe.CallFaith2"		"<clr:154,205,50><B>Wolfe:<B> Oi, Faith."
+"wolfe.CallFaith2"		"<clr:154,205,50><B>Wolfe:<B> Oi, Faith."
 
 
-		"[english]wolfe.CallFaith3"		"<clr:154,205,50><B>Wolfe:<B> Where's Faith?"
-		"wolfe.CallFaith3"		"<clr:154,205,50><B>Wolfe:<B> Where's Faith?"
+"[english]wolfe.CallFaith3"		"<clr:154,205,50><B>Wolfe:<B> Where's Faith?"
+"wolfe.CallFaith3"		"<clr:154,205,50><B>Wolfe:<B> Var är Faith?"
 
 
-		"[english]wolfe.CallBastille0"		"<clr:154,205,50><B>Wolfe:<B> Bastille."
-		"wolfe.CallBastille0"		"<clr:154,205,50><B>Wolfe:<B> Bastille."
+"[english]wolfe.CallBastille0"		"<clr:154,205,50><B>Wolfe:<B> Bastille."
+"wolfe.CallBastille0"		"<clr:154,205,50><B>Wolfe:<B> Bastille."
 
 
-		"[english]wolfe.CallBastille1"		"<clr:154,205,50><B>Wolfe:<B> Bastille."
-		"wolfe.CallBastille1"		"<clr:154,205,50><B>Wolfe:<B> Bastille."
+"[english]wolfe.CallBastille1"		"<clr:154,205,50><B>Wolfe:<B> Bastille."
+"wolfe.CallBastille1"		"<clr:154,205,50><B>Wolfe:<B> Bastille."
 
 
-		"[english]wolfe.CallBastille2"		"<clr:154,205,50><B>Wolfe:<B> Hey, Bastille."
-		"wolfe.CallBastille2"		"<clr:154,205,50><B>Wolfe:<B> Hey, Bastille."
+"[english]wolfe.CallBastille2"		"<clr:154,205,50><B>Wolfe:<B> Hey, Bastille."
+"wolfe.CallBastille2"		"<clr:154,205,50><B>Wolfe:<B> Hej Bastille."
 
 
-		"[english]wolfe.CallBastille3"		"<clr:154,205,50><B>Wolfe:<B> Oi, Bastille."
-		"wolfe.CallBastille3"		"<clr:154,205,50><B>Wolfe:<B> Oi, Bastille."
+"[english]wolfe.CallBastille3"		"<clr:154,205,50><B>Wolfe:<B> Oi, Bastille."
+"wolfe.CallBastille3"		"<clr:154,205,50><B>Wolfe:<B> Oi, Bastille."
 
 
-		"[english]wolfe.CallBastille4"		"<clr:154,205,50><B>Wolfe:<B> Where's Bastille?"
-		"wolfe.CallBastille4"		"<clr:154,205,50><B>Wolfe:<B> Where's Bastille?"
+"[english]wolfe.CallBastille4"		"<clr:154,205,50><B>Wolfe:<B> Where's Bastille?"
+"wolfe.CallBastille4"		"<clr:154,205,50><B>Wolfe:<B> Var är Bastille?"
 
 
-		"[english]wolfe.CallCrash0"		"<clr:154,205,50><B>Wolfe:<B> Crash."
-		"wolfe.CallCrash0"		"<clr:154,205,50><B>Wolfe:<B> Crash."
+"[english]wolfe.CallCrash0"		"<clr:154,205,50><B>Wolfe:<B> Crash."
+"wolfe.CallCrash0"		"<clr:154,205,50><B>Wolfe:<B> Crash."
 
 
-		"[english]wolfe.CallCrash1"		"<clr:154,205,50><B>Wolfe:<B> Hey, Crash."
-		"wolfe.CallCrash1"		"<clr:154,205,50><B>Wolfe:<B> Hey, Crash."
+"[english]wolfe.CallCrash1"		"<clr:154,205,50><B>Wolfe:<B> Hey, Crash."
+"wolfe.CallCrash1"		"<clr:154,205,50><B>Wolfe:<B> Hej Crash."
 
 
-		"[english]wolfe.CallFlynn0"		"<clr:154,205,50><B>Wolfe:<B> Flynn."
-		"wolfe.CallFlynn0"		"<clr:154,205,50><B>Wolfe:<B> Flynn."
+"[english]wolfe.CallFlynn0"		"<clr:154,205,50><B>Wolfe:<B> Flynn."
+"wolfe.CallFlynn0"		"<clr:154,205,50><B>Wolfe:<B> Flynn."
 
 
-		"[english]wolfe.CallFlynn1"		"<clr:154,205,50><B>Wolfe:<B> Hey, Flynn."
-		"wolfe.CallFlynn1"		"<clr:154,205,50><B>Wolfe:<B> Hey, Flynn."
+"[english]wolfe.CallFlynn1"		"<clr:154,205,50><B>Wolfe:<B> Hey, Flynn."
+"wolfe.CallFlynn1"		"<clr:154,205,50><B>Wolfe:<B> Hej Flynn."
 
 
-		"[english]wolfe.CallFlynn2"		"<clr:154,205,50><B>Wolfe:<B> Where's Flynn?"
-		"wolfe.CallFlynn2"		"<clr:154,205,50><B>Wolfe:<B> Where's Flynn?"
+"[english]wolfe.CallFlynn2"		"<clr:154,205,50><B>Wolfe:<B> Where's Flynn?"
+"wolfe.CallFlynn2"		"<clr:154,205,50><B>Wolfe:<B> Var är Flynn?"
 
 
-		"[english]wolfe.CallVegas0"		"<clr:154,205,50><B>Wolfe:<B> Hey, Vegas."
-		"wolfe.CallVegas0"		"<clr:154,205,50><B>Wolfe:<B> Hey, Vegas."
+"[english]wolfe.CallVegas0"		"<clr:154,205,50><B>Wolfe:<B> Hey, Vegas."
+"wolfe.CallVegas0"		"<clr:154,205,50><B>Wolfe:<B> Hej Vegas."
 
 
-		"[english]wolfe.CallVegas1"		"<clr:154,205,50><B>Wolfe:<B> Vegas."
-		"wolfe.CallVegas1"		"<clr:154,205,50><B>Wolfe:<B> Vegas."
+"[english]wolfe.CallVegas1"		"<clr:154,205,50><B>Wolfe:<B> Vegas."
+"wolfe.CallVegas1"		"<clr:154,205,50><B>Wolfe:<B> Vegas."
 
 
-		"[english]wolfe.Supplies0"		"<clr:154,205,50><B>Wolfe:<B> Ah, supplies!"
-		"wolfe.Supplies0"		"<clr:154,205,50><B>Wolfe:<B> Ah, supplies!"
+"[english]wolfe.Supplies0"		"<clr:154,205,50><B>Wolfe:<B> Ah, supplies!"
+"wolfe.Supplies0"		"<clr:154,205,50><B>Wolfe:<B> Ah, förnödenheter!"
 
 
-		"[english]wolfe.Supplies1"		"<clr:154,205,50><B>Wolfe:<B> Ah, supplies."
-		"wolfe.Supplies1"		"<clr:154,205,50><B>Wolfe:<B> Ah, supplies."
+"[english]wolfe.Supplies1"		"<clr:154,205,50><B>Wolfe:<B> Ah, supplies."
+"wolfe.Supplies1"		"<clr:154,205,50><B>Wolfe:<B> Ah, förnödenheter."
 
 
-		"[english]wolfe.Supplies2"		"<clr:154,205,50><B>Wolfe:<B> Hey guys, supplies! Just what we need."
-		"wolfe.Supplies2"		"<clr:154,205,50><B>Wolfe:<B> Hey guys, supplies! Just what we need."
+"[english]wolfe.Supplies2"		"<clr:154,205,50><B>Wolfe:<B> Hey guys, supplies! Just what we need."
+"wolfe.Supplies2"		"<clr:154,205,50><B>Wolfe:<B> Hey killar, förnödenheter! Just vad vi behöver."
 
 
-		"[english]wolfe.Supplies3"		"<clr:154,205,50><B>Wolfe:<B> More ammo. Just what we need."
-		"wolfe.Supplies3"		"<clr:154,205,50><B>Wolfe:<B> More ammo. Just what we need."
+"[english]wolfe.Supplies3"		"<clr:154,205,50><B>Wolfe:<B> More ammo. Just what we need."
+"wolfe.Supplies3"		"<clr:154,205,50><B>Wolfe:<B> Mera ammunition. Just vad vi behöver."
 
 
-		"[english]wolfe.HoldingPosition0"		"<clr:154,205,50><B>Wolfe:<B> Covering area."
-		"wolfe.HoldingPosition0"		"<clr:154,205,50><B>Wolfe:<B> Covering area."
+"[english]wolfe.HoldingPosition0"		"<clr:154,205,50><B>Wolfe:<B> Covering area."
+"wolfe.HoldingPosition0"		"<clr:154,205,50><B>Wolfe:<B> Täcker området."
 
 
-		"[english]wolfe.HoldingPosition1"		"<clr:154,205,50><B>Wolfe:<B> Holding position."
-		"wolfe.HoldingPosition1"		"<clr:154,205,50><B>Wolfe:<B> Holding position."
+"[english]wolfe.HoldingPosition1"		"<clr:154,205,50><B>Wolfe:<B> Holding position."
+"wolfe.HoldingPosition1"		"<clr:154,205,50><B>Wolfe:<B> Håller positionen."
 
 
-		"[english]wolfe.HoldingPosition2"		"<clr:154,205,50><B>Wolfe:<B> I'm in place."
-		"wolfe.HoldingPosition2"		"<clr:154,205,50><B>Wolfe:<B> I'm in place."
+"[english]wolfe.HoldingPosition2"		"<clr:154,205,50><B>Wolfe:<B> I'm in place."
+"wolfe.HoldingPosition2"		"<clr:154,205,50><B>Wolfe:<B> Jag är på plats."
 
 
-		"[english]wolfe.HoldingPosition3"		"<clr:154,205,50><B>Wolfe:<B> In position."
-		"wolfe.HoldingPosition3"		"<clr:154,205,50><B>Wolfe:<B> In position."
+"[english]wolfe.HoldingPosition3"		"<clr:154,205,50><B>Wolfe:<B> In position."
+"wolfe.HoldingPosition3"		"<clr:154,205,50><B>Wolfe:<B> På plats."
 
 
-		"[english]wolfe.HoldingPosition4"		"<clr:154,205,50><B>Wolfe:<B> Nothing's getting past me."
-		"wolfe.HoldingPosition4"		"<clr:154,205,50><B>Wolfe:<B> Nothing's getting past me."
+"[english]wolfe.HoldingPosition4"		"<clr:154,205,50><B>Wolfe:<B> Nothing's getting past me."
+"wolfe.HoldingPosition4"		"<clr:154,205,50><B>Wolfe:<B> Inget kommer förbi mig."
 
 
-		"[english]wolfe.HoldingPosition5"		"<clr:154,205,50><B>Wolfe:<B> Secure area."
-		"wolfe.HoldingPosition5"		"<clr:154,205,50><B>Wolfe:<B> Secure area."
+"[english]wolfe.HoldingPosition5"		"<clr:154,205,50><B>Wolfe:<B> Secure area."
+"wolfe.HoldingPosition5"		"<clr:154,205,50><B>Wolfe:<B> Säkra området."
 
 
-		"[english]wolfe.HoldingNorth0"		"<clr:154,205,50><B>Wolfe:<B> Covering north."
-		"wolfe.HoldingNorth0"		"<clr:154,205,50><B>Wolfe:<B> Covering north."
+"[english]wolfe.HoldingNorth0"		"<clr:154,205,50><B>Wolfe:<B> Covering north."
+"wolfe.HoldingNorth0"		"<clr:154,205,50><B>Wolfe:<B> Täcker norrut."
 
 
-		"[english]wolfe.HoldingNorth1"		"<clr:154,205,50><B>Wolfe:<B> Covering north side."
-		"wolfe.HoldingNorth1"		"<clr:154,205,50><B>Wolfe:<B> Covering north side."
+"[english]wolfe.HoldingNorth1"		"<clr:154,205,50><B>Wolfe:<B> Covering north side."
+"wolfe.HoldingNorth1"		"<clr:154,205,50><B>Wolfe:<B> Täcker norra sidan."
 
 
-		"[english]wolfe.HoldingNorth2"		"<clr:154,205,50><B>Wolfe:<B> I got north side."
-		"wolfe.HoldingNorth2"		"<clr:154,205,50><B>Wolfe:<B> I got north side."
+"[english]wolfe.HoldingNorth2"		"<clr:154,205,50><B>Wolfe:<B> I got north side."
+"wolfe.HoldingNorth2"		"<clr:154,205,50><B>Wolfe:<B> Jag har norra sidan."
 
 
-		"[english]wolfe.HoldingNorth3"		"<clr:154,205,50><B>Wolfe:<B> North side in place."
-		"wolfe.HoldingNorth3"		"<clr:154,205,50><B>Wolfe:<B> North side in place."
+"[english]wolfe.HoldingNorth3"		"<clr:154,205,50><B>Wolfe:<B> North side in place."
+"wolfe.HoldingNorth3"		"<clr:154,205,50><B>Wolfe:<B> Norra sidan på plats."
 
 
-		"[english]wolfe.HoldingNorth4"		"<clr:154,205,50><B>Wolfe:<B> North side is mine."
-		"wolfe.HoldingNorth4"		"<clr:154,205,50><B>Wolfe:<B> North side is mine."
+"[english]wolfe.HoldingNorth4"		"<clr:154,205,50><B>Wolfe:<B> North side is mine."
+"wolfe.HoldingNorth4"		"<clr:154,205,50><B>Wolfe:<B> Norra sidan är min."
 
 
-		"[english]wolfe.HoldingNorth5"		"<clr:154,205,50><B>Wolfe:<B> North side standing to."
-		"wolfe.HoldingNorth5"		"<clr:154,205,50><B>Wolfe:<B> North side standing to."
+"[english]wolfe.HoldingNorth5"		"<clr:154,205,50><B>Wolfe:<B> North side standing to."
+"wolfe.HoldingNorth5"		"<clr:154,205,50><B>Wolfe:<B> Norra sidan står också."
 
 
-		"[english]wolfe.HoldingSouth0"		"<clr:154,205,50><B>Wolfe:<B> Covering south."
-		"wolfe.HoldingSouth0"		"<clr:154,205,50><B>Wolfe:<B> Covering south."
+"[english]wolfe.HoldingSouth0"		"<clr:154,205,50><B>Wolfe:<B> Covering south."
+"wolfe.HoldingSouth0"		"<clr:154,205,50><B>Wolfe:<B> Täcker söderut."
 
 
-		"[english]wolfe.HoldingSouth1"		"<clr:154,205,50><B>Wolfe:<B> Covering south side."
-		"wolfe.HoldingSouth1"		"<clr:154,205,50><B>Wolfe:<B> Covering south side."
+"[english]wolfe.HoldingSouth1"		"<clr:154,205,50><B>Wolfe:<B> Covering south side."
+"wolfe.HoldingSouth1"		"<clr:154,205,50><B>Wolfe:<B> Täcker södra sidan."
 
 
-		"[english]wolfe.HoldingSouth2"		"<clr:154,205,50><B>Wolfe:<B> I got south side."
-		"wolfe.HoldingSouth2"		"<clr:154,205,50><B>Wolfe:<B> I got south side."
+"[english]wolfe.HoldingSouth2"		"<clr:154,205,50><B>Wolfe:<B> I got south side."
+"wolfe.HoldingSouth2"		"<clr:154,205,50><B>Wolfe:<B> Jag har södra sidan."
 
 
-		"[english]wolfe.HoldingSouth3"		"<clr:154,205,50><B>Wolfe:<B> South side in place."
-		"wolfe.HoldingSouth3"		"<clr:154,205,50><B>Wolfe:<B> South side in place."
+"[english]wolfe.HoldingSouth3"		"<clr:154,205,50><B>Wolfe:<B> South side in place."
+"wolfe.HoldingSouth3"		"<clr:154,205,50><B>Wolfe:<B> Södra sidan på plats."
 
 
-		"[english]wolfe.HoldingSouth4"		"<clr:154,205,50><B>Wolfe:<B> South side is mine."
-		"wolfe.HoldingSouth4"		"<clr:154,205,50><B>Wolfe:<B> South side is mine."
+"[english]wolfe.HoldingSouth4"		"<clr:154,205,50><B>Wolfe:<B> South side is mine."
+"wolfe.HoldingSouth4"		"<clr:154,205,50><B>Wolfe:<B> Södra sidan är min."
 
 
-		"[english]wolfe.HoldingSouth5"		"<clr:154,205,50><B>Wolfe:<B> South side standing to."
-		"wolfe.HoldingSouth5"		"<clr:154,205,50><B>Wolfe:<B> South side standing to."
+"[english]wolfe.HoldingSouth5"		"<clr:154,205,50><B>Wolfe:<B> South side standing to."
+"wolfe.HoldingSouth5"		"<clr:154,205,50><B>Wolfe:<B> Södra sidan står också."
 
 
-		"[english]wolfe.HoldingEast0"		"<clr:154,205,50><B>Wolfe:<B> Covering east."
-		"wolfe.HoldingEast0"		"<clr:154,205,50><B>Wolfe:<B> Covering east."
+"[english]wolfe.HoldingEast0"		"<clr:154,205,50><B>Wolfe:<B> Covering east."
+"wolfe.HoldingEast0"		"<clr:154,205,50><B>Wolfe:<B> Täcker österut."
 
 
-		"[english]wolfe.HoldingEast1"		"<clr:154,205,50><B>Wolfe:<B> Covering east side."
-		"wolfe.HoldingEast1"		"<clr:154,205,50><B>Wolfe:<B> Covering east side."
+"[english]wolfe.HoldingEast1"		"<clr:154,205,50><B>Wolfe:<B> Covering east side."
+"wolfe.HoldingEast1"		"<clr:154,205,50><B>Wolfe:<B> Täcker östra sidan."
 
 
-		"[english]wolfe.HoldingEast2"		"<clr:154,205,50><B>Wolfe:<B> East side in place."
-		"wolfe.HoldingEast2"		"<clr:154,205,50><B>Wolfe:<B> East side in place."
+"[english]wolfe.HoldingEast2"		"<clr:154,205,50><B>Wolfe:<B> East side in place."
+"wolfe.HoldingEast2"		"<clr:154,205,50><B>Wolfe:<B> Östra sidan på plats."
 
 
-		"[english]wolfe.HoldingEast3"		"<clr:154,205,50><B>Wolfe:<B> East side is mine."
-		"wolfe.HoldingEast3"		"<clr:154,205,50><B>Wolfe:<B> East side is mine."
+"[english]wolfe.HoldingEast3"		"<clr:154,205,50><B>Wolfe:<B> East side is mine."
+"wolfe.HoldingEast3"		"<clr:154,205,50><B>Wolfe:<B> Östra sidan är min."
 
 
-		"[english]wolfe.HoldingEast4"		"<clr:154,205,50><B>Wolfe:<B> East side standing to."
-		"wolfe.HoldingEast4"		"<clr:154,205,50><B>Wolfe:<B> East side standing to."
+"[english]wolfe.HoldingEast4"		"<clr:154,205,50><B>Wolfe:<B> East side standing to."
+"wolfe.HoldingEast4"		"<clr:154,205,50><B>Wolfe:<B> Östra sidan står också."
 
 
-		"[english]wolfe.HoldingEast5"		"<clr:154,205,50><B>Wolfe:<B> Got east side."
-		"wolfe.HoldingEast5"		"<clr:154,205,50><B>Wolfe:<B> Got east side."
+"[english]wolfe.HoldingEast5"		"<clr:154,205,50><B>Wolfe:<B> Got east side."
+"wolfe.HoldingEast5"		"<clr:154,205,50><B>Wolfe:<B> Har östra sidan."
 
 
-		"[english]wolfe.HoldingWest0"		"<clr:154,205,50><B>Wolfe:<B> Covering west."
-		"wolfe.HoldingWest0"		"<clr:154,205,50><B>Wolfe:<B> Covering west."
+"[english]wolfe.HoldingWest0"		"<clr:154,205,50><B>Wolfe:<B> Covering west."
+"wolfe.HoldingWest0"		"<clr:154,205,50><B>Wolfe:<B> Täcker västerut."
 
 
-		"[english]wolfe.HoldingWest1"		"<clr:154,205,50><B>Wolfe:<B> Covering west side."
-		"wolfe.HoldingWest1"		"<clr:154,205,50><B>Wolfe:<B> Covering west side."
+"[english]wolfe.HoldingWest1"		"<clr:154,205,50><B>Wolfe:<B> Covering west side."
+"wolfe.HoldingWest1"		"<clr:154,205,50><B>Wolfe:<B> Täcker västra sidan."
 
 
-		"[english]wolfe.HoldingWest2"		"<clr:154,205,50><B>Wolfe:<B> I got west side."
-		"wolfe.HoldingWest2"		"<clr:154,205,50><B>Wolfe:<B> I got west side."
+"[english]wolfe.HoldingWest2"		"<clr:154,205,50><B>Wolfe:<B> I got west side."
+"wolfe.HoldingWest2"		"<clr:154,205,50><B>Wolfe:<B> Jag har västra sidan."
 
 
-		"[english]wolfe.HoldingWest3"		"<clr:154,205,50><B>Wolfe:<B> West side in place."
-		"wolfe.HoldingWest3"		"<clr:154,205,50><B>Wolfe:<B> West side in place."
+"[english]wolfe.HoldingWest3"		"<clr:154,205,50><B>Wolfe:<B> West side in place."
+"wolfe.HoldingWest3"		"<clr:154,205,50><B>Wolfe:<B> Västra sidan på plats."
 
 
-		"[english]wolfe.HoldingWest4"		"<clr:154,205,50><B>Wolfe:<B> West side is mine."
-		"wolfe.HoldingWest4"		"<clr:154,205,50><B>Wolfe:<B> West side is mine."
+"[english]wolfe.HoldingWest4"		"<clr:154,205,50><B>Wolfe:<B> West side is mine."
+"wolfe.HoldingWest4"		"<clr:154,205,50><B>Wolfe:<B> Västra sidan är min."
 
 
-		"[english]wolfe.HoldingWest5"		"<clr:154,205,50><B>Wolfe:<B> West side standing to."
-		"wolfe.HoldingWest5"		"<clr:154,205,50><B>Wolfe:<B> West side standing to."
+"[english]wolfe.HoldingWest5"		"<clr:154,205,50><B>Wolfe:<B> West side standing to."
+"wolfe.HoldingWest5"		"<clr:154,205,50><B>Wolfe:<B> Västa sidan står också."
 
 
-		"[english]wolfe.GotPoint0"		"<clr:154,205,50><B>Wolfe:<B> I got point."
-		"wolfe.GotPoint0"		"<clr:154,205,50><B>Wolfe:<B> I got point."
+"[english]wolfe.GotPoint0"		"<clr:154,205,50><B>Wolfe:<B> I got point."
+"wolfe.GotPoint0"		"<clr:154,205,50><B>Wolfe:<B> Jag har punkten."
 
 
-		"[english]wolfe.GotPoint1"		"<clr:154,205,50><B>Wolfe:<B> I'll take point."
-		"wolfe.GotPoint1"		"<clr:154,205,50><B>Wolfe:<B> I'll take point."
+"[english]wolfe.GotPoint1"		"<clr:154,205,50><B>Wolfe:<B> I'll take point."
+"wolfe.GotPoint1"		"<clr:154,205,50><B>Wolfe:<B> Jag tar punkten."
 
 
-		"[english]wolfe.GotPoint2"		"<clr:154,205,50><B>Wolfe:<B> Taking point."
-		"wolfe.GotPoint2"		"<clr:154,205,50><B>Wolfe:<B> Taking point."
+"[english]wolfe.GotPoint2"		"<clr:154,205,50><B>Wolfe:<B> Taking point."
+"wolfe.GotPoint2"		"<clr:154,205,50><B>Wolfe:<B> Tar punkten."
 
 
-		"[english]wolfe.GotRear0"		"<clr:154,205,50><B>Wolfe:<B> I got the back."
-		"wolfe.GotRear0"		"<clr:154,205,50><B>Wolfe:<B> I got the back."
+"[english]wolfe.GotRear0"		"<clr:154,205,50><B>Wolfe:<B> I got the back."
+"wolfe.GotRear0"		"<clr:154,205,50><B>Wolfe:<B> Jag har baksidan."
 
 
-		"[english]wolfe.GotRear1"		"<clr:154,205,50><B>Wolfe:<B> I'll cover the back."
-		"wolfe.GotRear1"		"<clr:154,205,50><B>Wolfe:<B> I'll cover the back."
+"[english]wolfe.GotRear1"		"<clr:154,205,50><B>Wolfe:<B> I'll cover the back."
+"wolfe.GotRear1"		"<clr:154,205,50><B>Wolfe:<B> Jag täcker bakåt."
 
 
-		"[english]wolfe.GotRear2"		"<clr:154,205,50><B>Wolfe:<B> Taking rear guard."
-		"wolfe.GotRear2"		"<clr:154,205,50><B>Wolfe:<B> Taking rear guard."
+"[english]wolfe.GotRear2"		"<clr:154,205,50><B>Wolfe:<B> Taking rear guard."
+"wolfe.GotRear2"		"<clr:154,205,50><B>Wolfe:<B> Tar bakvakt."
 
 
-		"[english]wolfe.RequestSealDoor0"		"<clr:154,205,50><B>Wolfe:<B> Quick, seal the door."
-		"wolfe.RequestSealDoor0"		"<clr:154,205,50><B>Wolfe:<B> Quick, seal the door."
+"[english]wolfe.RequestSealDoor0"		"<clr:154,205,50><B>Wolfe:<B> Quick, seal the door."
+"wolfe.RequestSealDoor0"		"<clr:154,205,50><B>Wolfe:<B> Snabbt, försegla dörren."
 
 
-		"[english]wolfe.RequestSealDoor1"		"<clr:154,205,50><B>Wolfe:<B> Seal it up."
-		"wolfe.RequestSealDoor1"		"<clr:154,205,50><B>Wolfe:<B> Seal it up."
+"[english]wolfe.RequestSealDoor1"		"<clr:154,205,50><B>Wolfe:<B> Seal it up."
+"wolfe.RequestSealDoor1"		"<clr:154,205,50><B>Wolfe:<B> Försegla den."
 
 
 		"[english]wolfe.RequestSealDoor2"		"<clr:154,205,50><B>Wolfe:<B> Seal it up. We don't want those things getting in here."
@@ -6089,220 +6089,220 @@
 		"wolfe.SealingDoor1"		"<clr:154,205,50><B>Wolfe:<B> Sealing door nice and tight."
 
 
-		"[english]wolfe.SealingDoor2"		"<clr:154,205,50><B>Wolfe:<B> Securing door."
-		"wolfe.SealingDoor2"		"<clr:154,205,50><B>Wolfe:<B> Securing door."
+"[english]wolfe.SealingDoor2"		"<clr:154,205,50><B>Wolfe:<B> Securing door."
+"wolfe.SealingDoor2"		"<clr:154,205,50><B>Wolfe:<B> Säkrar dörren."
 
 
-		"[english]wolfe.SealingDoor3"		"<clr:154,205,50><B>Wolfe:<B> Wolfe sealing door."
-		"wolfe.SealingDoor3"		"<clr:154,205,50><B>Wolfe:<B> Wolfe sealing door."
+"[english]wolfe.SealingDoor3"		"<clr:154,205,50><B>Wolfe:<B> Wolfe sealing door."
+"wolfe.SealingDoor3"		"<clr:154,205,50><B>Wolfe:<B> Wolfe förseglar dörren."
 
 
-		"[english]wolfe.Biomass0"		"<clr:154,205,50><B>Wolfe:<B> Biomass. Man, I hate this shit."
-		"wolfe.Biomass0"		"<clr:154,205,50><B>Wolfe:<B> Biomass. Man, I hate this shit."
+"[english]wolfe.Biomass0"		"<clr:154,205,50><B>Wolfe:<B> Biomass. Man, I hate this shit."
+"wolfe.Biomass0"		"<clr:154,205,50><B>Wolfe:<B> Biomassa. Jag hatar det här skitet."
 
 
-		"[english]wolfe.Biomass1"		"<clr:154,205,50><B>Wolfe:<B> Hey, there's some of that gooey stuff here."
-		"wolfe.Biomass1"		"<clr:154,205,50><B>Wolfe:<B> Hey, there's some of that gooey stuff here."
+"[english]wolfe.Biomass1"		"<clr:154,205,50><B>Wolfe:<B> Hey, there's some of that gooey stuff here."
+"wolfe.Biomass1"		"<clr:154,205,50><B>Wolfe:<B> Hej, det är en del av de där sliskiga grejerna här."
 
 
-		"[english]wolfe.Biomass2"		"<clr:154,205,50><B>Wolfe:<B> Swarm biomass! Burn it all."
-		"wolfe.Biomass2"		"<clr:154,205,50><B>Wolfe:<B> Swarm biomass! Burn it all."
+"[english]wolfe.Biomass2"		"<clr:154,205,50><B>Wolfe:<B> Swarm biomass! Burn it all."
+"wolfe.Biomass2"		"<clr:154,205,50><B>Wolfe:<B> Svärm biomassa! Bränn allt."
 
 
-		"[english]wolfe.Biomass3"		"<clr:154,205,50><B>Wolfe:<B> Ugh. Swarm biomass. Burn it."
-		"wolfe.Biomass3"		"<clr:154,205,50><B>Wolfe:<B> Ugh. Swarm biomass. Burn it."
+"[english]wolfe.Biomass3"		"<clr:154,205,50><B>Wolfe:<B> Ugh. Swarm biomass. Burn it."
+"wolfe.Biomass3"		"<clr:154,205,50><B>Wolfe:<B> Ugh. Svärm biomassa. Elda upp det."
 
 
-		"[english]wolfe.Biomass4"		"<clr:154,205,50><B>Wolfe:<B> We got some alien goo here."
-		"wolfe.Biomass4"		"<clr:154,205,50><B>Wolfe:<B> We got some alien goo here."
+"[english]wolfe.Biomass4"		"<clr:154,205,50><B>Wolfe:<B> We got some alien goo here."
+"wolfe.Biomass4"		"<clr:154,205,50><B>Wolfe:<B> Vi har lite alien slämm här."
 
 
-		"[english]wolfe.TimeToLeave0"		"<clr:154,205,50><B>Wolfe:<B> Job's done. Time to skedaddle."
-		"wolfe.TimeToLeave0"		"<clr:154,205,50><B>Wolfe:<B> Job's done. Time to skedaddle."
+"[english]wolfe.TimeToLeave0"		"<clr:154,205,50><B>Wolfe:<B> Job's done. Time to skedaddle."
+"wolfe.TimeToLeave0"		"<clr:154,205,50><B>Wolfe:<B> Jobbet är färdigt. Dags att lämna."
 
 
-		"[english]wolfe.TimeToLeave1"		"<clr:154,205,50><B>Wolfe:<B> Okay, let's get out of here."
-		"wolfe.TimeToLeave1"		"<clr:154,205,50><B>Wolfe:<B> Okay, let's get out of here."
+"[english]wolfe.TimeToLeave1"		"<clr:154,205,50><B>Wolfe:<B> Okay, let's get out of here."
+"wolfe.TimeToLeave1"		"<clr:154,205,50><B>Wolfe:<B> Okej, låt oss ta oss härifrån."
 
 
-		"[english]wolfe.TimeToLeave2"		"<clr:154,205,50><B>Wolfe:<B> Our job here is done."
-		"wolfe.TimeToLeave2"		"<clr:154,205,50><B>Wolfe:<B> Our job here is done."
+"[english]wolfe.TimeToLeave2"		"<clr:154,205,50><B>Wolfe:<B> Our job here is done."
+"wolfe.TimeToLeave2"		"<clr:154,205,50><B>Wolfe:<B> Vårt jobb är färdigt här."
 
 
-		"[english]wolfe.TimeToLeave3"		"<clr:154,205,50><B>Wolfe:<B> Time to move out."
-		"wolfe.TimeToLeave3"		"<clr:154,205,50><B>Wolfe:<B> Time to move out."
+"[english]wolfe.TimeToLeave3"		"<clr:154,205,50><B>Wolfe:<B> Time to move out."
+"wolfe.TimeToLeave3"		"<clr:154,205,50><B>Wolfe:<B> Dags att flytta ut."
 
 
-		"[english]wolfe.TimeToLeave4"		"<clr:154,205,50><B>Wolfe:<B> Whoa. Time to wave this place goodbye."
-		"wolfe.TimeToLeave4"		"<clr:154,205,50><B>Wolfe:<B> Whoa. Time to wave this place goodbye."
+"[english]wolfe.TimeToLeave4"		"<clr:154,205,50><B>Wolfe:<B> Whoa. Time to wave this place goodbye."
+"wolfe.TimeToLeave4"		"<clr:154,205,50><B>Wolfe:<B> Whoa. Dags att vinka hejdå till det här stället."
 
 
-		"[english]wolfe.TimeToLeave5"		"<clr:154,205,50><B>Wolfe:<B> Woohoo. Time to wave this place goodbye."
-		"wolfe.TimeToLeave5"		"<clr:154,205,50><B>Wolfe:<B> Woohoo. Time to wave this place goodbye."
+"[english]wolfe.TimeToLeave5"		"<clr:154,205,50><B>Wolfe:<B> Woohoo. Time to wave this place goodbye."
+"wolfe.TimeToLeave5"		"<clr:154,205,50><B>Wolfe:<B> Woohoo. Dags att vinka hejdå till det här stället."
 
 
-		"[english]wolfe.TimeToLeave6"		"<clr:154,205,50><B>Wolfe:<B> Yeah, let's get outta here."
-		"wolfe.TimeToLeave6"		"<clr:154,205,50><B>Wolfe:<B> Yeah, let's get outta here."
+"[english]wolfe.TimeToLeave6"		"<clr:154,205,50><B>Wolfe:<B> Yeah, let's get outta here."
+"wolfe.TimeToLeave6"		"<clr:154,205,50><B>Wolfe:<B> Ja, låt oss ta oss härifrån."
 
 
-		"[english]wolfe.TimeToLeave7"		"<clr:154,205,50><B>Wolfe:<B> Yeah, time to wave this place goodbye."
-		"wolfe.TimeToLeave7"		"<clr:154,205,50><B>Wolfe:<B> Yeah, time to wave this place goodbye."
+"[english]wolfe.TimeToLeave7"		"<clr:154,205,50><B>Wolfe:<B> Yeah, time to wave this place goodbye."
+"wolfe.TimeToLeave7"		"<clr:154,205,50><B>Wolfe:<B> Ja, låt oss vinka hejdå till den här platsen."
 
 
-		"[english]wolfe.WatchOut0"		"<clr:154,205,50><B>Wolfe:<B> Lookout!"
-		"wolfe.WatchOut0"		"<clr:154,205,50><B>Wolfe:<B> Lookout!"
+"[english]wolfe.WatchOut0"		"<clr:154,205,50><B>Wolfe:<B> Lookout!"
+"wolfe.WatchOut0"		"<clr:154,205,50><B>Wolfe:<B> Se upp!"
 
 
-		"[english]wolfe.WatchOut1"		"<clr:154,205,50><B>Wolfe:<B> There!"
-		"wolfe.WatchOut1"		"<clr:154,205,50><B>Wolfe:<B> There!"
+"[english]wolfe.WatchOut1"		"<clr:154,205,50><B>Wolfe:<B> There!"
+"wolfe.WatchOut1"		"<clr:154,205,50><B>Wolfe:<B> Där!"
 
 
-		"[english]wolfe.WatchOut2"		"<clr:154,205,50><B>Wolfe:<B> Watchout!"
-		"wolfe.WatchOut2"		"<clr:154,205,50><B>Wolfe:<B> Watchout!"
+"[english]wolfe.WatchOut2"		"<clr:154,205,50><B>Wolfe:<B> Watchout!"
+"wolfe.WatchOut2"		"<clr:154,205,50><B>Wolfe:<B> Se upp!"
 
 
-		"[english]wolfe.Shieldbug0"		"<clr:154,205,50><B>Wolfe:<B> A shieldbug!"
-		"wolfe.Shieldbug0"		"<clr:154,205,50><B>Wolfe:<B> A shieldbug!"
+"[english]wolfe.Shieldbug0"		"<clr:154,205,50><B>Wolfe:<B> A shieldbug!"
+"wolfe.Shieldbug0"		"<clr:154,205,50><B>Wolfe:<B> En sköldbugg!"
 
 
-		"[english]wolfe.Shieldbug1"		"<clr:154,205,50><B>Wolfe:<B> Holy shit."
-		"wolfe.Shieldbug1"		"<clr:154,205,50><B>Wolfe:<B> Holy shit."
+"[english]wolfe.Shieldbug1"		"<clr:154,205,50><B>Wolfe:<B> Holy shit."
+"wolfe.Shieldbug1"		"<clr:154,205,50><B>Wolfe:<B> Herregud."
 
 
-		"[english]wolfe.Shieldbug2"		"<clr:154,205,50><B>Wolfe:<B> It's a shieldbug."
-		"wolfe.Shieldbug2"		"<clr:154,205,50><B>Wolfe:<B> It's a shieldbug."
+"[english]wolfe.Shieldbug2"		"<clr:154,205,50><B>Wolfe:<B> It's a shieldbug."
+"wolfe.Shieldbug2"		"<clr:154,205,50><B>Wolfe:<B> Det är en sköldbugg."
 
 
-		"[english]wolfe.Shieldbug3"		"<clr:154,205,50><B>Wolfe:<B> Shit, a shieldbug!"
-		"wolfe.Shieldbug3"		"<clr:154,205,50><B>Wolfe:<B> Shit, a shieldbug!"
+"[english]wolfe.Shieldbug3"		"<clr:154,205,50><B>Wolfe:<B> Shit, a shieldbug!"
+"wolfe.Shieldbug3"		"<clr:154,205,50><B>Wolfe:<B> Skit, en sköldbugg!"
 
 
-		"[english]wolfe.ShieldbugHint0"		"<clr:154,205,50><B>Wolfe:<B> Get behind it."
-		"wolfe.ShieldbugHint0"		"<clr:154,205,50><B>Wolfe:<B> Get behind it."
+"[english]wolfe.ShieldbugHint0"		"<clr:154,205,50><B>Wolfe:<B> Get behind it."
+"wolfe.ShieldbugHint0"		"<clr:154,205,50><B>Wolfe:<B> Ta dig bakom den."
 
 
-		"[english]wolfe.ShieldbugHint1"		"<clr:154,205,50><B>Wolfe:<B> Get behind it quick."
-		"wolfe.ShieldbugHint1"		"<clr:154,205,50><B>Wolfe:<B> Get behind it quick."
+"[english]wolfe.ShieldbugHint1"		"<clr:154,205,50><B>Wolfe:<B> Get behind it quick."
+"wolfe.ShieldbugHint1"		"<clr:154,205,50><B>Wolfe:<B> Ta dig bakom den snabbt."
 
 
-		"[english]wolfe.ShieldbugHint2"		"<clr:154,205,50><B>Wolfe:<B> Shoot it in the back!"
-		"wolfe.ShieldbugHint2"		"<clr:154,205,50><B>Wolfe:<B> Shoot it in the back!"
+"[english]wolfe.ShieldbugHint2"		"<clr:154,205,50><B>Wolfe:<B> Shoot it in the back!"
+"wolfe.ShieldbugHint2"		"<clr:154,205,50><B>Wolfe:<B> Skjut den i ryggen!"
 
 
-		"[english]wolfe.ShieldbugHint3"		"<clr:154,205,50><B>Wolfe:<B> Someone grenade it!"
-		"wolfe.ShieldbugHint3"		"<clr:154,205,50><B>Wolfe:<B> Someone grenade it!"
+"[english]wolfe.ShieldbugHint3"		"<clr:154,205,50><B>Wolfe:<B> Someone grenade it!"
+"wolfe.ShieldbugHint3"		"<clr:154,205,50><B>Wolfe:<B> Någon spräng den!"
 
 
-		"[english]wolfe.Parasite0"		"<clr:154,205,50><B>Wolfe:<B> Lookout! Parasite!"
-		"wolfe.Parasite0"		"<clr:154,205,50><B>Wolfe:<B> Lookout! Parasite!"
+"[english]wolfe.Parasite0"		"<clr:154,205,50><B>Wolfe:<B> Lookout! Parasite!"
+"wolfe.Parasite0"		"<clr:154,205,50><B>Wolfe:<B> Se upp! Parasit!"
 
 
-		"[english]wolfe.Parasite1"		"<clr:154,205,50><B>Wolfe:<B> Parasite!"
-		"wolfe.Parasite1"		"<clr:154,205,50><B>Wolfe:<B> Parasite!"
+"[english]wolfe.Parasite1"		"<clr:154,205,50><B>Wolfe:<B> Parasite!"
+"wolfe.Parasite1"		"<clr:154,205,50><B>Wolfe:<B> Parasit!"
 
 
-		"[english]wolfe.Parasite2"		"<clr:154,205,50><B>Wolfe:<B> Parasite!"
-		"wolfe.Parasite2"		"<clr:154,205,50><B>Wolfe:<B> Parasite!"
+"[english]wolfe.Parasite2"		"<clr:154,205,50><B>Wolfe:<B> Parasite!"
+"wolfe.Parasite2"		"<clr:154,205,50><B>Wolfe:<B> Parasit!"
 
 
-		"[english]wolfe.Parasite3"		"<clr:154,205,50><B>Wolfe:<B> Shit. A parasite."
-		"wolfe.Parasite3"		"<clr:154,205,50><B>Wolfe:<B> Shit. A parasite."
+"[english]wolfe.Parasite3"		"<clr:154,205,50><B>Wolfe:<B> Shit. A parasite."
+"wolfe.Parasite3"		"<clr:154,205,50><B>Wolfe:<B> Skit. En parasit."
 
 
-		"[english]wolfe.Parasite4"		"<clr:154,205,50><B>Wolfe:<B> Watchout! A parasite."
-		"wolfe.Parasite4"		"<clr:154,205,50><B>Wolfe:<B> Watchout! A parasite."
+"[english]wolfe.Parasite4"		"<clr:154,205,50><B>Wolfe:<B> Watchout! A parasite."
+"wolfe.Parasite4"		"<clr:154,205,50><B>Wolfe:<B> Se upp! En parasit."
 
 
-		"[english]wolfe.BeenInfested0"		"<clr:154,205,50><B>Wolfe:<B> Argh! Get it off me!"
-		"wolfe.BeenInfested0"		"<clr:154,205,50><B>Wolfe:<B> Argh! Get it off me!"
+"[english]wolfe.BeenInfested0"		"<clr:154,205,50><B>Wolfe:<B> Argh! Get it off me!"
+"wolfe.BeenInfested0"		"<clr:154,205,50><B>Wolfe:<B> Argh! Den är på mig!"
 
 
-		"[english]wolfe.BeenInfested2"		"<clr:154,205,50><B>Wolfe:<B> Argh! It's on me!"
-		"wolfe.BeenInfested2"		"<clr:154,205,50><B>Wolfe:<B> Argh! It's on me!"
+"[english]wolfe.BeenInfested2"		"<clr:154,205,50><B>Wolfe:<B> Argh! It's on me!"
+"wolfe.BeenInfested2"		"<clr:154,205,50><B>Wolfe:<B> Argh! Den är på mig!"
 
 
-		"[english]wolfe.BeenInfested3"		"<clr:154,205,50><B>Wolfe:<B> Ahhh! It's on me!"
-		"wolfe.BeenInfested3"		"<clr:154,205,50><B>Wolfe:<B> Ahhh! It's on me!"
+"[english]wolfe.BeenInfested3"		"<clr:154,205,50><B>Wolfe:<B> Ahhh! It's on me!"
+"wolfe.BeenInfested3"		"<clr:154,205,50><B>Wolfe:<B> Ahhh! Den är på mig!"
 
 
-		"[english]wolfe.BeenInfested4"		"<clr:154,205,50><B>Wolfe:<B> Gah! Get it off, get it off of me!"
-		"wolfe.BeenInfested4"		"<clr:154,205,50><B>Wolfe:<B> Gah! Get it off, get it off of me!"
+"[english]wolfe.BeenInfested4"		"<clr:154,205,50><B>Wolfe:<B> Gah! Get it off, get it off of me!"
+"wolfe.BeenInfested4"		"<clr:154,205,50><B>Wolfe:<B> Gah! Få bort den, få bort den från mig!"
 
 
-		"[english]wolfe.BeenInfested5"		"<clr:154,205,50><B>Wolfe:<B> Get it off, get it off, get it off!"
-		"wolfe.BeenInfested5"		"<clr:154,205,50><B>Wolfe:<B> Get it off, get it off, get it off!"
+"[english]wolfe.BeenInfested5"		"<clr:154,205,50><B>Wolfe:<B> Get it off, get it off, get it off!"
+"wolfe.BeenInfested5"		"<clr:154,205,50><B>Wolfe:<B> Få bort den, få bort den, få bort den!"
 
 
-		"[english]wolfe.BeenInfested6"		"<clr:154,205,50><B>Wolfe:<B> Get it off, get it off!"
-		"wolfe.BeenInfested6"		"<clr:154,205,50><B>Wolfe:<B> Get it off, get it off!"
+"[english]wolfe.BeenInfested6"		"<clr:154,205,50><B>Wolfe:<B> Get it off, get it off!"
+"wolfe.BeenInfested6"		"<clr:154,205,50><B>Wolfe:<B> Få bort den, få bort den!"
 
 
-		"[english]wolfe.BeenInfested8"		"<clr:154,205,50><B>Wolfe:<B> Huarrgh! Get it off me!"
-		"wolfe.BeenInfested8"		"<clr:154,205,50><B>Wolfe:<B> Huarrgh! Get it off me!"
+"[english]wolfe.BeenInfested8"		"<clr:154,205,50><B>Wolfe:<B> Huarrgh! Get it off me!"
+"wolfe.BeenInfested8"		"<clr:154,205,50><B>Wolfe:<B> Huarrgh! Få den bort från mig!"
 
 
-		"[english]wolfe.BeenInfested9"		"<clr:154,205,50><B>Wolfe:<B> Huarrgh! It's on me!"
-		"wolfe.BeenInfested9"		"<clr:154,205,50><B>Wolfe:<B> Huarrgh! It's on me!"
+"[english]wolfe.BeenInfested9"		"<clr:154,205,50><B>Wolfe:<B> Huarrgh! It's on me!"
+"wolfe.BeenInfested9"		"<clr:154,205,50><B>Wolfe:<B> Huarrgh! Den är på mig!"
 
 
-		"[english]wolfe.BeenInfested10"		"<clr:154,205,50><B>Wolfe:<B> Yarrrgh! It's on me!"
-		"wolfe.BeenInfested10"		"<clr:154,205,50><B>Wolfe:<B> Yarrrgh! It's on me!"
+"[english]wolfe.BeenInfested10"		"<clr:154,205,50><B>Wolfe:<B> Yarrrgh! It's on me!"
+"wolfe.BeenInfested10"		"<clr:154,205,50><B>Wolfe:<B> Yarrrgh! Den är på mig!"
 
 
-		"[english]wolfe.SwarmEggs0"		"<clr:154,205,50><B>Wolfe:<B> Swarm eggs."
-		"wolfe.SwarmEggs0"		"<clr:154,205,50><B>Wolfe:<B> Swarm eggs."
+"[english]wolfe.SwarmEggs0"		"<clr:154,205,50><B>Wolfe:<B> Swarm eggs."
+"wolfe.SwarmEggs0"		"<clr:154,205,50><B>Wolfe:<B> Svärmägg."
 
 
-		"[english]wolfe.SwarmEggs1"		"<clr:154,205,50><B>Wolfe:<B> Swarm eggs. Watch yourself."
-		"wolfe.SwarmEggs1"		"<clr:154,205,50><B>Wolfe:<B> Swarm eggs. Watch yourself."
+"[english]wolfe.SwarmEggs1"		"<clr:154,205,50><B>Wolfe:<B> Swarm eggs. Watch yourself."
+"wolfe.SwarmEggs1"		"<clr:154,205,50><B>Wolfe:<B> Svärmägg. Akta dig."
 
 
-		"[english]wolfe.SwarmEggs2"		"<clr:154,205,50><B>Wolfe:<B> Watch out. Swarm eggs."
-		"wolfe.SwarmEggs2"		"<clr:154,205,50><B>Wolfe:<B> Watch out. Swarm eggs."
+"[english]wolfe.SwarmEggs2"		"<clr:154,205,50><B>Wolfe:<B> Watch out. Swarm eggs."
+"wolfe.SwarmEggs2"		"<clr:154,205,50><B>Wolfe:<B> Se upp. Svärmägg."
 
 
-		"[english]wolfe.Grenade0"		"<clr:154,205,50><B>Wolfe:<B> Clear."
-		"wolfe.Grenade0"		"<clr:154,205,50><B>Wolfe:<B> Clear."
+"[english]wolfe.Grenade0"		"<clr:154,205,50><B>Wolfe:<B> Clear."
+"wolfe.Grenade0"		"<clr:154,205,50><B>Wolfe:<B> Klar."
 
 
-		"[english]wolfe.Grenade1"		"<clr:154,205,50><B>Wolfe:<B> Clear!"
-		"wolfe.Grenade1"		"<clr:154,205,50><B>Wolfe:<B> Clear!"
+"[english]wolfe.Grenade1"		"<clr:154,205,50><B>Wolfe:<B> Clear!"
+"wolfe.Grenade1"		"<clr:154,205,50><B>Wolfe:<B> Klar!"
 
 
-		"[english]wolfe.Grenade2"		"<clr:154,205,50><B>Wolfe:<B> Eat this!"
-		"wolfe.Grenade2"		"<clr:154,205,50><B>Wolfe:<B> Eat this!"
+"[english]wolfe.Grenade2"		"<clr:154,205,50><B>Wolfe:<B> Eat this!"
+"wolfe.Grenade2"		"<clr:154,205,50><B>Wolfe:<B> Ät detta!"
 
 
-		"[english]wolfe.Grenade3"		"<clr:154,205,50><B>Wolfe:<B> Eat this!"
-		"wolfe.Grenade3"		"<clr:154,205,50><B>Wolfe:<B> Eat this!"
+"[english]wolfe.Grenade3"		"<clr:154,205,50><B>Wolfe:<B> Eat this!"
+"wolfe.Grenade3"		"<clr:154,205,50><B>Wolfe:<B> Ät detta!"
 
 
-		"[english]wolfe.Grenade4"		"<clr:154,205,50><B>Wolfe:<B> Fire in the hole!"
-		"wolfe.Grenade4"		"<clr:154,205,50><B>Wolfe:<B> Fire in the hole!"
+"[english]wolfe.Grenade4"		"<clr:154,205,50><B>Wolfe:<B> Fire in the hole!"
+"wolfe.Grenade4"		"<clr:154,205,50><B>Wolfe:<B> Eld i berget!"
 
 
-		"[english]wolfe.Grenade5"		"<clr:154,205,50><B>Wolfe:<B> Grenade!"
-		"wolfe.Grenade5"		"<clr:154,205,50><B>Wolfe:<B> Grenade!"
+"[english]wolfe.Grenade5"		"<clr:154,205,50><B>Wolfe:<B> Grenade!"
+"wolfe.Grenade5"		"<clr:154,205,50><B>Wolfe:<B> Granat!"
 
 
-		"[english]wolfe.AlienTooClose0"		"<clr:154,205,50><B>Wolfe:<B> Get it off!"
-		"wolfe.AlienTooClose0"		"<clr:154,205,50><B>Wolfe:<B> Get it off!"
+"[english]wolfe.AlienTooClose0"		"<clr:154,205,50><B>Wolfe:<B> Get it off!"
+"wolfe.AlienTooClose0"		"<clr:154,205,50><B>Wolfe:<B> Få bort den!"
 
 
-		"[english]wolfe.AlienTooClose1"		"<clr:154,205,50><B>Wolfe:<B> Hostile on me!"
-		"wolfe.AlienTooClose1"		"<clr:154,205,50><B>Wolfe:<B> Hostile on me!"
+"[english]wolfe.AlienTooClose1"		"<clr:154,205,50><B>Wolfe:<B> Hostile on me!"
+"wolfe.AlienTooClose1"		"<clr:154,205,50><B>Wolfe:<B> Fiender på mig!"
 
 
-		"[english]wolfe.AlienTooClose2"		"<clr:154,205,50><B>Wolfe:<B> Kill it!"
-		"wolfe.AlienTooClose2"		"<clr:154,205,50><B>Wolfe:<B> Kill it!"
+"[english]wolfe.AlienTooClose2"		"<clr:154,205,50><B>Wolfe:<B> Kill it!"
+"wolfe.AlienTooClose2"		"<clr:154,205,50><B>Wolfe:<B> Döda den!"
 
 
-		"[english]wolfe.AlienTooClose3"		"<clr:154,205,50><B>Wolfe:<B> On me."
-		"wolfe.AlienTooClose3"		"<clr:154,205,50><B>Wolfe:<B> On me."
+"[english]wolfe.AlienTooClose3"		"<clr:154,205,50><B>Wolfe:<B> On me."
+"wolfe.AlienTooClose3"		"<clr:154,205,50><B>Wolfe:<B> På mig."
 
 
-		"[english]wolfe.AlienTooClose4"		"<clr:154,205,50><B>Wolfe:<B> On me, on me!"
-		"wolfe.AlienTooClose4"		"<clr:154,205,50><B>Wolfe:<B> On me, on me!"
+"[english]wolfe.AlienTooClose4"		"<clr:154,205,50><B>Wolfe:<B> On me, on me!"
+"wolfe.AlienTooClose4"		"<clr:154,205,50><B>Wolfe:<B> På mig, på mig!"
 
 
 		"[english]wolfe.MadFiring0"		"<clr:154,205,50><B>Wolfe:<B> Come on, get a piece of me!"
@@ -6321,12 +6321,12 @@
 		"wolfe.MadFiring3"		"<clr:154,205,50><B>Wolfe:<B> Oh, right. Say hello to my friend."
 
 
-		"[english]wolfe.MadFiring4"		"<clr:154,205,50><B>Wolfe:<B> Say hello to my friend."
-		"wolfe.MadFiring4"		"<clr:154,205,50><B>Wolfe:<B> Say hello to my friend."
+"[english]wolfe.MadFiring4"		"<clr:154,205,50><B>Wolfe:<B> Say hello to my friend."
+"wolfe.MadFiring4"		"<clr:154,205,50><B>Wolfe:<B> Säg hej till min vän."
 
 
-		"[english]wolfe.MadFiring5"		"<clr:154,205,50><B>Wolfe:<B> Who wants some more? Ehahha!"
-		"wolfe.MadFiring5"		"<clr:154,205,50><B>Wolfe:<B> Who wants some more? Ehahha!"
+"[english]wolfe.MadFiring5"		"<clr:154,205,50><B>Wolfe:<B> Who wants some more? Ehahha!"
+"wolfe.MadFiring5"		"<clr:154,205,50><B>Wolfe:<B> Vem vill ha lite mera? Ehahha!"
 
 
 		"[english]wolfe.MadFiring6"		"<clr:154,205,50><B>Wolfe:<B> Yeah, hahaha. You want some of this, you want some?"
@@ -6341,176 +6341,176 @@
 		"wolfe.MadFiring8"		"<clr:154,205,50><B>Wolfe:<B> Yeah, haaagh! You want some of that."
 
 
-		"[english]wolfe.MadFiring9"		"<clr:154,205,50><B>Wolfe:<B> Yeah, hahhh! You want some of this."
-		"wolfe.MadFiring9"		"<clr:154,205,50><B>Wolfe:<B> Yeah, hahhh! You want some of this."
+"[english]wolfe.MadFiring9"		"<clr:154,205,50><B>Wolfe:<B> Yeah, hahhh! You want some of this."
+"wolfe.MadFiring9"		"<clr:154,205,50><B>Wolfe:<B> Ja, hahhh! Du vill ha lite av det här."
 
 
-		"[english]wolfe.MadFiring10"		"<clr:154,205,50><B>Wolfe:<B> Yeah, say hello to my friend."
-		"wolfe.MadFiring10"		"<clr:154,205,50><B>Wolfe:<B> Yeah, say hello to my friend."
+"[english]wolfe.MadFiring10"		"<clr:154,205,50><B>Wolfe:<B> Yeah, say hello to my friend."
+"wolfe.MadFiring10"		"<clr:154,205,50><B>Wolfe:<B> Ja, säg hej till min vän."
 
 
-		"[english]wolfe.MadFiring11"		"<clr:154,205,50><B>Wolfe:<B> Yehahaha. You want some?"
-		"wolfe.MadFiring11"		"<clr:154,205,50><B>Wolfe:<B> Yehahaha. You want some?"
+"[english]wolfe.MadFiring11"		"<clr:154,205,50><B>Wolfe:<B> Yehahaha. You want some?"
+"wolfe.MadFiring11"		"<clr:154,205,50><B>Wolfe:<B> Yehahaha. Vill du ha lite?"
 
 
-		"[english]wolfe.BreachedDoor0"		"<clr:154,205,50><B>Wolfe:<B> Hostiles through the door."
-		"wolfe.BreachedDoor0"		"<clr:154,205,50><B>Wolfe:<B> Hostiles through the door."
+"[english]wolfe.BreachedDoor0"		"<clr:154,205,50><B>Wolfe:<B> Hostiles through the door."
+"wolfe.BreachedDoor0"		"<clr:154,205,50><B>Wolfe:<B> Fientliga genom dörren."
 
 
-		"[english]wolfe.BreachedDoor1"		"<clr:154,205,50><B>Wolfe:<B> They broke it down."
-		"wolfe.BreachedDoor1"		"<clr:154,205,50><B>Wolfe:<B> They broke it down."
+"[english]wolfe.BreachedDoor1"		"<clr:154,205,50><B>Wolfe:<B> They broke it down."
+"wolfe.BreachedDoor1"		"<clr:154,205,50><B>Wolfe:<B> De bröt ner den."
 
 
-		"[english]wolfe.BreachedDoor2"		"<clr:154,205,50><B>Wolfe:<B> They broke through the door."
-		"wolfe.BreachedDoor2"		"<clr:154,205,50><B>Wolfe:<B> They broke through the door."
+"[english]wolfe.BreachedDoor2"		"<clr:154,205,50><B>Wolfe:<B> They broke through the door."
+"wolfe.BreachedDoor2"		"<clr:154,205,50><B>Wolfe:<B> De bröt igenom dörren."
 
 
-		"[english]wolfe.BreachedDoor3"		"<clr:154,205,50><B>Wolfe:<B> They've breached the door."
-		"wolfe.BreachedDoor3"		"<clr:154,205,50><B>Wolfe:<B> They've breached the door."
+"[english]wolfe.BreachedDoor3"		"<clr:154,205,50><B>Wolfe:<B> They've breached the door."
+"wolfe.BreachedDoor3"		"<clr:154,205,50><B>Wolfe:<B> De har brutit upp dörren."
 
 
-		"[english]wolfe.MarineDown0"		"<clr:154,205,50><B>Wolfe:<B> Bah! Marine down!"
-		"wolfe.MarineDown0"		"<clr:154,205,50><B>Wolfe:<B> Bah! Marine down!"
+"[english]wolfe.MarineDown0"		"<clr:154,205,50><B>Wolfe:<B> Bah! Marine down!"
+"wolfe.MarineDown0"		"<clr:154,205,50><B>Wolfe:<B> Bah! Marinsoldat nere!"
 
 
-		"[english]wolfe.MarineDown1"		"<clr:154,205,50><B>Wolfe:<B> Gah! Marine down!"
-		"wolfe.MarineDown1"		"<clr:154,205,50><B>Wolfe:<B> Gah! Marine down!"
+"[english]wolfe.MarineDown1"		"<clr:154,205,50><B>Wolfe:<B> Gah! Marine down!"
+"wolfe.MarineDown1"		"<clr:154,205,50><B>Wolfe:<B> Gah! Marinsoldat nere!"
 
 
-		"[english]wolfe.MarineDown2"		"<clr:154,205,50><B>Wolfe:<B> Marine down!"
-		"wolfe.MarineDown2"		"<clr:154,205,50><B>Wolfe:<B> Marine down!"
+"[english]wolfe.MarineDown2"		"<clr:154,205,50><B>Wolfe:<B> Marine down!"
+"wolfe.MarineDown2"		"<clr:154,205,50><B>Wolfe:<B> Marinsoldat nere!"
 
 
-		"[english]wolfe.SmallPain0"		"<clr:154,205,50><B>Wolfe:<B> [Pain]"
-		"wolfe.SmallPain0"		"<clr:154,205,50><B>Wolfe:<B> [Pain]"
+"[english]wolfe.SmallPain0"		"<clr:154,205,50><B>Wolfe:<B> [Pain]"
+"wolfe.SmallPain0"		"<clr:154,205,50><B>Wolfe:<B> [Smärta]"
 
 
-		"[english]wolfe.SmallPain1"		"<clr:154,205,50><B>Wolfe:<B> [Pain]"
-		"wolfe.SmallPain1"		"<clr:154,205,50><B>Wolfe:<B> [Pain]"
+"[english]wolfe.SmallPain1"		"<clr:154,205,50><B>Wolfe:<B> [Pain]"
+"wolfe.SmallPain1"		"<clr:154,205,50><B>Wolfe:<B> [Smärta]"
 
 
-		"[english]wolfe.SmallPain2"		"<clr:154,205,50><B>Wolfe:<B> [Pain]"
-		"wolfe.SmallPain2"		"<clr:154,205,50><B>Wolfe:<B> [Pain]"
+"[english]wolfe.SmallPain2"		"<clr:154,205,50><B>Wolfe:<B> [Pain]"
+"wolfe.SmallPain2"		"<clr:154,205,50><B>Wolfe:<B> [Smärta]"
 
 
-		"[english]wolfe.SmallPain3"		"<clr:154,205,50><B>Wolfe:<B> [Pain]"
-		"wolfe.SmallPain3"		"<clr:154,205,50><B>Wolfe:<B> [Pain]"
+"[english]wolfe.SmallPain3"		"<clr:154,205,50><B>Wolfe:<B> [Pain]"
+"wolfe.SmallPain3"		"<clr:154,205,50><B>Wolfe:<B> [Smärta]"
 
 
-		"[english]wolfe.SmallPain4"		"<clr:154,205,50><B>Wolfe:<B> [Pain]"
-		"wolfe.SmallPain4"		"<clr:154,205,50><B>Wolfe:<B> [Pain]"
+"[english]wolfe.SmallPain4"		"<clr:154,205,50><B>Wolfe:<B> [Pain]"
+"wolfe.SmallPain4"		"<clr:154,205,50><B>Wolfe:<B> [Smärta]"
 
 
-		"[english]wolfe.SmallPain5"		"<clr:154,205,50><B>Wolfe:<B> [Pain]"
-		"wolfe.SmallPain5"		"<clr:154,205,50><B>Wolfe:<B> [Pain]"
+"[english]wolfe.SmallPain5"		"<clr:154,205,50><B>Wolfe:<B> [Pain]"
+"wolfe.SmallPain5"		"<clr:154,205,50><B>Wolfe:<B> [Smärta]"
 
 
-		"[english]wolfe.SmallPain6"		"<clr:154,205,50><B>Wolfe:<B> [Pain]"
-		"wolfe.SmallPain6"		"<clr:154,205,50><B>Wolfe:<B> [Pain]"
+"[english]wolfe.SmallPain6"		"<clr:154,205,50><B>Wolfe:<B> [Pain]"
+"wolfe.SmallPain6"		"<clr:154,205,50><B>Wolfe:<B> [Smärta]"
 
 
-		"[english]wolfe.SmallPain7"		"<clr:154,205,50><B>Wolfe:<B> [Pain]"
-		"wolfe.SmallPain7"		"<clr:154,205,50><B>Wolfe:<B> [Pain]"
+"[english]wolfe.SmallPain7"		"<clr:154,205,50><B>Wolfe:<B> [Pain]"
+"wolfe.SmallPain7"		"<clr:154,205,50><B>Wolfe:<B> [Smärta]"
 
 
-		"[english]wolfe.SmallPain8"		"<clr:154,205,50><B>Wolfe:<B> [Pain]"
-		"wolfe.SmallPain8"		"<clr:154,205,50><B>Wolfe:<B> [Pain]"
+"[english]wolfe.SmallPain8"		"<clr:154,205,50><B>Wolfe:<B> [Pain]"
+"wolfe.SmallPain8"		"<clr:154,205,50><B>Wolfe:<B> [Smärta]"
 
 
-		"[english]wolfe.SmallPain9"		"<clr:154,205,50><B>Wolfe:<B> [Pain]"
-		"wolfe.SmallPain9"		"<clr:154,205,50><B>Wolfe:<B> [Pain]"
+"[english]wolfe.SmallPain9"		"<clr:154,205,50><B>Wolfe:<B> [Pain]"
+"wolfe.SmallPain9"		"<clr:154,205,50><B>Wolfe:<B> [Smärta]"
 
 
-		"[english]wolfe.SmallPain10"		"<clr:154,205,50><B>Wolfe:<B> [Pain]"
-		"wolfe.SmallPain10"		"<clr:154,205,50><B>Wolfe:<B> [Pain]"
+"[english]wolfe.SmallPain10"		"<clr:154,205,50><B>Wolfe:<B> [Pain]"
+"wolfe.SmallPain10"		"<clr:154,205,50><B>Wolfe:<B> [Smärta]"
 
 
-		"[english]wolfe.SmallPain11"		"<clr:154,205,50><B>Wolfe:<B> [Pain]"
-		"wolfe.SmallPain11"		"<clr:154,205,50><B>Wolfe:<B> [Pain]"
+"[english]wolfe.SmallPain11"		"<clr:154,205,50><B>Wolfe:<B> [Pain]"
+"wolfe.SmallPain11"		"<clr:154,205,50><B>Wolfe:<B> [Smärta]"
 
 
-		"[english]wolfe.LargePain0"		"<clr:154,205,50><B>Wolfe:<B> [Pain]"
-		"wolfe.LargePain0"		"<clr:154,205,50><B>Wolfe:<B> [Pain]"
+"[english]wolfe.LargePain0"		"<clr:154,205,50><B>Wolfe:<B> [Pain]"
+"wolfe.LargePain0"		"<clr:154,205,50><B>Wolfe:<B> [Smärta]"
 
 
-		"[english]wolfe.LargePain1"		"<clr:154,205,50><B>Wolfe:<B> [Pain]"
-		"wolfe.LargePain1"		"<clr:154,205,50><B>Wolfe:<B> [Pain]"
+"[english]wolfe.LargePain1"		"<clr:154,205,50><B>Wolfe:<B> [Pain]"
+"wolfe.LargePain1"		"<clr:154,205,50><B>Wolfe:<B> [Smärta]"
 
 
-		"[english]wolfe.LargePain2"		"<clr:154,205,50><B>Wolfe:<B> [Pain]"
-		"wolfe.LargePain2"		"<clr:154,205,50><B>Wolfe:<B> [Pain]"
+"[english]wolfe.LargePain2"		"<clr:154,205,50><B>Wolfe:<B> [Pain]"
+"wolfe.LargePain2"		"<clr:154,205,50><B>Wolfe:<B> [Smärta]"
 
 
-		"[english]wolfe.LargePain3"		"<clr:154,205,50><B>Wolfe:<B> [Pain]"
-		"wolfe.LargePain3"		"<clr:154,205,50><B>Wolfe:<B> [Pain]"
+"[english]wolfe.LargePain3"		"<clr:154,205,50><B>Wolfe:<B> [Pain]"
+"wolfe.LargePain3"		"<clr:154,205,50><B>Wolfe:<B> [Smärta]"
 
 
-		"[english]wolfe.LargePain4"		"<clr:154,205,50><B>Wolfe:<B> [Pain]"
-		"wolfe.LargePain4"		"<clr:154,205,50><B>Wolfe:<B> [Pain]"
+"[english]wolfe.LargePain4"		"<clr:154,205,50><B>Wolfe:<B> [Pain]"
+"wolfe.LargePain4"		"<clr:154,205,50><B>Wolfe:<B> [Smärta]"
 
 
-		"[english]wolfe.Dead0"		"<clr:154,205,50><B>Wolfe:<B> [Death]"
-		"wolfe.Dead0"		"<clr:154,205,50><B>Wolfe:<B> [Death]"
+"[english]wolfe.Dead0"		"<clr:154,205,50><B>Wolfe:<B> [Death]"
+"wolfe.Dead0"		"<clr:154,205,50><B>Wolfe:<B> [Död]"
 
 
-		"[english]wolfe.Dead1"		"<clr:154,205,50><B>Wolfe:<B> [Death]"
-		"wolfe.Dead1"		"<clr:154,205,50><B>Wolfe:<B> [Death]"
+"[english]wolfe.Dead1"		"<clr:154,205,50><B>Wolfe:<B> [Death]"
+"wolfe.Dead1"		"<clr:154,205,50><B>Wolfe:<B> [Död]"
 
 
-		"[english]wolfe.Dead2"		"<clr:154,205,50><B>Wolfe:<B> [Death]"
-		"wolfe.Dead2"		"<clr:154,205,50><B>Wolfe:<B> [Death]"
+"[english]wolfe.Dead2"		"<clr:154,205,50><B>Wolfe:<B> [Death]"
+"wolfe.Dead2"		"<clr:154,205,50><B>Wolfe:<B> [Död]"
 
 
-		"[english]wolfe.Dead3"		"<clr:154,205,50><B>Wolfe:<B> [Death]"
-		"wolfe.Dead3"		"<clr:154,205,50><B>Wolfe:<B> [Death]"
+"[english]wolfe.Dead3"		"<clr:154,205,50><B>Wolfe:<B> [Death]"
+"wolfe.Dead3"		"<clr:154,205,50><B>Wolfe:<B> [Död]"
 
 
-		"[english]wolfe.Dead4"		"<clr:154,205,50><B>Wolfe:<B> [Death]"
-		"wolfe.Dead4"		"<clr:154,205,50><B>Wolfe:<B> [Death]"
+"[english]wolfe.Dead4"		"<clr:154,205,50><B>Wolfe:<B> [Death]"
+"wolfe.Dead4"		"<clr:154,205,50><B>Wolfe:<B> [Död]"
 
 
-		"[english]wolfe.Dead5"		"<clr:154,205,50><B>Wolfe:<B> [Death]"
-		"wolfe.Dead5"		"<clr:154,205,50><B>Wolfe:<B> [Death]"
+"[english]wolfe.Dead5"		"<clr:154,205,50><B>Wolfe:<B> [Death]"
+"wolfe.Dead5"		"<clr:154,205,50><B>Wolfe:<B> [Död]"
 
 
-		"[english]wolfe.Dead6"		"<clr:154,205,50><B>Wolfe:<B> [Death]"
-		"wolfe.Dead6"		"<clr:154,205,50><B>Wolfe:<B> [Death]"
+"[english]wolfe.Dead6"		"<clr:154,205,50><B>Wolfe:<B> [Death]"
+"wolfe.Dead6"		"<clr:154,205,50><B>Wolfe:<B> [Död]"
 
 
-		"[english]wolfe.OnFire0"		"<clr:154,205,50><B>Wolfe:<B> [Screaming]"
-		"wolfe.OnFire0"		"<clr:154,205,50><B>Wolfe:<B> [Screaming]"
+"[english]wolfe.OnFire0"		"<clr:154,205,50><B>Wolfe:<B> [Screaming]"
+"wolfe.OnFire0"		"<clr:154,205,50><B>Wolfe:<B> [Skrik]"
 
 
-		"[english]wolfe.OnFire1"		"<clr:154,205,50><B>Wolfe:<B> [Screaming]"
-		"wolfe.OnFire1"		"<clr:154,205,50><B>Wolfe:<B> [Screaming]"
+"[english]wolfe.OnFire1"		"<clr:154,205,50><B>Wolfe:<B> [Screaming]"
+"wolfe.OnFire1"		"<clr:154,205,50><B>Wolfe:<B> [Skrik]"
 
 
-		"[english]wolfe.ActivateStims0"		"<clr:154,205,50><B>Wolfe:<B> Activate stims!"
-		"wolfe.ActivateStims0"		"<clr:154,205,50><B>Wolfe:<B> Activate stims!"
+"[english]wolfe.ActivateStims0"		"<clr:154,205,50><B>Wolfe:<B> Activate stims!"
+"wolfe.ActivateStims0"		"<clr:154,205,50><B>Wolfe:<B> Aktivera stims!"
 
 
-		"[english]wolfe.ActivateStims1"		"<clr:154,205,50><B>Wolfe:<B> Activate the stims."
-		"wolfe.ActivateStims1"		"<clr:154,205,50><B>Wolfe:<B> Activate the stims."
+"[english]wolfe.ActivateStims1"		"<clr:154,205,50><B>Wolfe:<B> Activate the stims."
+"wolfe.ActivateStims1"		"<clr:154,205,50><B>Wolfe:<B> Aktivera stimsen."
 
 
-		"[english]wolfe.ActivateStims2"		"<clr:154,205,50><B>Wolfe:<B> Gimme some stim action."
-		"wolfe.ActivateStims2"		"<clr:154,205,50><B>Wolfe:<B> Gimme some stim action."
+"[english]wolfe.ActivateStims2"		"<clr:154,205,50><B>Wolfe:<B> Gimme some stim action."
+"wolfe.ActivateStims2"		"<clr:154,205,50><B>Wolfe:<B> Ge mig lite stimulans."
 
 
-		"[english]wolfe.ActivateStims3"		"<clr:154,205,50><B>Wolfe:<B> Hit the stim packs!"
-		"wolfe.ActivateStims3"		"<clr:154,205,50><B>Wolfe:<B> Hit the stim packs!"
+"[english]wolfe.ActivateStims3"		"<clr:154,205,50><B>Wolfe:<B> Hit the stim packs!"
+"wolfe.ActivateStims3"		"<clr:154,205,50><B>Wolfe:<B> Slå på stim-paketen!"
 
 
-		"[english]wolfe.ActivateStims4"		"<clr:154,205,50><B>Wolfe:<B> Hit the stims!"
-		"wolfe.ActivateStims4"		"<clr:154,205,50><B>Wolfe:<B> Hit the stims!"
+"[english]wolfe.ActivateStims4"		"<clr:154,205,50><B>Wolfe:<B> Hit the stims!"
+"wolfe.ActivateStims4"		"<clr:154,205,50><B>Wolfe:<B> Slå stims!"
 
 
-		"[english]wolfe.ActivateStims5"		"<clr:154,205,50><B>Wolfe:<B> Stims."
-		"wolfe.ActivateStims5"		"<clr:154,205,50><B>Wolfe:<B> Stims."
+"[english]wolfe.ActivateStims5"		"<clr:154,205,50><B>Wolfe:<B> Stims."
+"wolfe.ActivateStims5"		"<clr:154,205,50><B>Wolfe:<B> Stims."
 
 
-		"[english]wolfe.ActivateStims6"		"<clr:154,205,50><B>Wolfe:<B> Stim now."
-		"wolfe.ActivateStims6"		"<clr:154,205,50><B>Wolfe:<B> Stim now."
+"[english]wolfe.ActivateStims6"		"<clr:154,205,50><B>Wolfe:<B> Stim now."
+"wolfe.ActivateStims6"		"<clr:154,205,50><B>Wolfe:<B> Stim nu."
 
 
 		"[english]wolfe.ComplimentsWildcat0"		"<clr:154,205,50><B>Wolfe:<B> Make em bleed, Cat."
@@ -6552,23 +6552,23 @@
 		"[english]wolfe.Selection2"		"<clr:154,205,50><B>Wolfe:<B> Sir."
 		"wolfe.Selection2"		"<clr:154,205,50><B>Wolfe:<B> Sir."
 
-		// BASE COMPUTER
+// BASE COMPUTER
 
 
-		"[english]ASWComputer.Startup"		"<clr:238,0,0><B>BASE COMPUTER:<B> SynTek Megacorporation."
-		"ASWComputer.Startup"		"<clr:238,0,0><B>BASE COMPUTER:<B> SynTek Megacorporation."
+"[english]ASWComputer.Startup"		"<clr:238,0,0><B>BASE COMPUTER:<B> SynTek Megacorporation."
+"ASWComputer.Startup"		"<clr:238,0,0><B>BASE COMPUTER:<B> SynTek Megacorporation."
 
-		"[english]ASWComputer.AccessDenied"		"<clr:238,0,0><B>BASE COMPUTER:<B> Access Denied."
-		"ASWComputer.AccessDenied"		"<clr:238,0,0><B>BASE COMPUTER:<B> Access Denied."
+"[english]ASWComputer.AccessDenied"		"<clr:238,0,0><B>BASE COMPUTER:<B> Access Denied."
+"ASWComputer.AccessDenied"		"<clr:238,0,0><B>BASE COMPUTER:<B> Tillträde beviljas ej."
 
-		"[english]ASWComputer.HackComplete"		"<clr:238,0,0><B>BASE COMPUTER:<B> Access Granted."
-		"ASWComputer.HackComplete"		"<clr:238,0,0><B>BASE COMPUTER:<B> Access Granted."
+"[english]ASWComputer.HackComplete"		"<clr:238,0,0><B>BASE COMPUTER:<B> Access Granted."
+"ASWComputer.HackComplete"		"<clr:238,0,0><B>BASE COMPUTER:<B> Tillträde beviljad."
 
 		"[english]ASWComputer.AccessDeniedBiohazard1"		"<clr:238,0,0><B>BASE COMPUTER:<B> Access Denied. Biohazard detected within research facility."
 		"ASWComputer.AccessDeniedBiohazard1"		"<clr:238,0,0><B>BASE COMPUTER:<B> Access Denied. Biohazard detected within research facility."
 
-		"[english]ASWComputer.alarm"		"<clr:238,0,0><B>BASE COMPUTER:<B> [Alarm!]"
-		"ASWComputer.alarm"		"<clr:238,0,0><B>BASE COMPUTER:<B> [Alarm!]"
+"[english]ASWComputer.alarm"		"<clr:238,0,0><B>BASE COMPUTER:<B> [Alarm!]"
+"ASWComputer.alarm"		"<clr:238,0,0><B>BASE COMPUTER:<B> [Larm!]"
 
 		"[english]ASWComputer.AtmosphericReport"		"<clr:238,0,0><B>BASE COMPUTER:<B> Atmospheric report."
 		"ASWComputer.AtmosphericReport"		"<clr:238,0,0><B>BASE COMPUTER:<B> Atmospheric report."
@@ -6603,60 +6603,60 @@
 		"[english]ASWComputer.RemoteTurret"		"<clr:238,0,0><B>BASE COMPUTER:<B> Remote Turret."
 		"ASWComputer.RemoteTurret"		"<clr:238,0,0><B>BASE COMPUTER:<B> Remote Turret."
 
-		"[english]ASWComputer.SecurityCamera"		"<clr:238,0,0><B>BASE COMPUTER:<B> Security Camera."
-		"ASWComputer.SecurityCamera"		"<clr:238,0,0><B>BASE COMPUTER:<B> Security Camera."
+"[english]ASWComputer.SecurityCamera"		"<clr:238,0,0><B>BASE COMPUTER:<B> Security Camera."
+"ASWComputer.SecurityCamera"		"<clr:238,0,0><B>BASE COMPUTER:<B> Säkerhetskamera."
 
-		"[english]ASWComputer.Stocks"		"<clr:238,0,0><B>BASE COMPUTER:<B> Stocks."
-		"ASWComputer.Stocks"		"<clr:238,0,0><B>BASE COMPUTER:<B> Stocks."
+"[english]ASWComputer.Stocks"		"<clr:238,0,0><B>BASE COMPUTER:<B> Stocks."
+"ASWComputer.Stocks"		"<clr:238,0,0><B>BASE COMPUTER:<B> Aktier."
 
-		"[english]ASWComputer.CriticalData"		"<clr:238,0,0><B>BASE COMPUTER:<B> Critical Data."
-		"ASWComputer.CriticalData"		"<clr:238,0,0><B>BASE COMPUTER:<B> Critical Data."
+"[english]ASWComputer.CriticalData"		"<clr:238,0,0><B>BASE COMPUTER:<B> Critical Data."
+"ASWComputer.CriticalData"		"<clr:238,0,0><B>BASE COMPUTER:<B> Kritisk data."
 
-		"[english]ASWComputer.TimeOut"		"<sfx><clr:238,0,0><B>BASE COMPUTER:<B> [Time-Out]"
-		"ASWComputer.TimeOut"		"<sfx><clr:238,0,0><B>BASE COMPUTER:<B> [Time-Out]"
+"[english]ASWComputer.TimeOut"		"<sfx><clr:238,0,0><B>BASE COMPUTER:<B> [Time-Out]"
+"ASWComputer.TimeOut"		"<sfx><clr:238,0,0><B>BASE COMPUTER:<B> [Paus]"
 
-		"[english]ASWComputer.SyntekPDA"		"<clr:238,0,0><B>BASE COMPUTER:<B> SynTek PDA."
-		"ASWComputer.SyntekPDA"		"<clr:238,0,0><B>BASE COMPUTER:<B> SynTek PDA."
+"[english]ASWComputer.SyntekPDA"		"<clr:238,0,0><B>BASE COMPUTER:<B> SynTek PDA."
+"ASWComputer.SyntekPDA"		"<clr:238,0,0><B>BASE COMPUTER:<B> SynTek PDA."
 
-		"[english]ASWComputer.SyntekPersonalDigitalAssistant"		"<clr:238,0,0><B>BASE COMPUTER:<B> SynTek Personal Digital Assistant."
-		"ASWComputer.SyntekPersonalDigitalAssistant"		"<clr:238,0,0><B>BASE COMPUTER:<B> SynTek Personal Digital Assistant."
+"[english]ASWComputer.SyntekPersonalDigitalAssistant"		"<clr:238,0,0><B>BASE COMPUTER:<B> SynTek Personal Digital Assistant."
+"ASWComputer.SyntekPersonalDigitalAssistant"		"<clr:238,0,0><B>BASE COMPUTER:<B> SynTek Personal Digital Assistant."
 
-		"[english]ASWCountdown.WarningWarheadPathBlocked2"		"<clr:238,0,0><B>BASE COMPUTER:<B> Warning: Warhead Path Blocked. Critical Failure Imminent."
-		"ASWCountdown.WarningWarheadPathBlocked2"		"<clr:238,0,0><B>BASE COMPUTER:<B> Warning: Warhead Path Blocked. Critical Failure Imminent."
+"[english]ASWCountdown.WarningWarheadPathBlocked2"		"<clr:238,0,0><B>BASE COMPUTER:<B> Warning: Warhead Path Blocked. Critical Failure Imminent."
+"ASWCountdown.WarningWarheadPathBlocked2"		"<clr:238,0,0><B>BASE COMPUTER:<B> Varning: Stridsspetsvägen blockerad. Kritiskt misslyckande överhängande."
 
-		"[english]ASWCountdown.Countdown60"		"<clr:238,0,0><B>BASE COMPUTER:<B> Nuclear detonation in 60 seconds."
-		"ASWCountdown.Countdown60"		"<clr:238,0,0><B>BASE COMPUTER:<B> Nuclear detonation in 60 seconds."
+"[english]ASWCountdown.Countdown60"		"<clr:238,0,0><B>BASE COMPUTER:<B> Nuclear detonation in 60 seconds."
+"ASWCountdown.Countdown60"		"<clr:238,0,0><B>BASE COMPUTER:<B> Nukleär detonation om 60 sekunder."
 
-		"[english]ASWCountdown.Countdown30"		"<clr:238,0,0><B>BASE COMPUTER:<B> Nuclear detonation in 30 seconds."
-		"ASWCountdown.Countdown30"		"<clr:238,0,0><B>BASE COMPUTER:<B> Nuclear detonation in 30 seconds."
+"[english]ASWCountdown.Countdown30"		"<clr:238,0,0><B>BASE COMPUTER:<B> Nuclear detonation in 30 seconds."
+"ASWCountdown.Countdown30"		"<clr:238,0,0><B>BASE COMPUTER:<B> Nukleär detonation om 30 sekunder."
 
-		"[english]ASWCountdown.Countdown10"		"<clr:238,0,0><B>BASE COMPUTER:<B> Nuclear detonation in 10 seconds."
-		"ASWCountdown.Countdown10"		"<clr:238,0,0><B>BASE COMPUTER:<B> Nuclear detonation in 10 seconds."
+"[english]ASWCountdown.Countdown10"		"<clr:238,0,0><B>BASE COMPUTER:<B> Nuclear detonation in 10 seconds."
+"ASWCountdown.Countdown10"		"<clr:238,0,0><B>BASE COMPUTER:<B> Nukleär detonation om 10 sekunder."
 
-		// Deathmatch
-		"[english]DM.one_frag_left"		"<clr:238,0,0><B>ANNOUNCER:<B> One frag left."
-		"DM.one_frag_left"		"<clr:238,0,0><B>ANNOUNCER:<B> One frag left."
-		"[english]DM.two_frags_left"		"<clr:238,0,0><B>ANNOUNCER:<B> Two frags left."
-		"DM.two_frags_left"		"<clr:238,0,0><B>ANNOUNCER:<B> Two frags left."
-		"[english]DM.three_frags_left"		"<clr:238,0,0><B>ANNOUNCER:<B> Three frags left."
-		"DM.three_frags_left"		"<clr:238,0,0><B>ANNOUNCER:<B> Three frags left."
-		"[english]DM.four_frags_left"		"<clr:238,0,0><B>ANNOUNCER:<B> Four frags left."
-		"DM.four_frags_left"		"<clr:238,0,0><B>ANNOUNCER:<B> Four frags left."
-		"[english]DM.five_frags_left"		"<clr:238,0,0><B>ANNOUNCER:<B> Five frags left."
-		"DM.five_frags_left"		"<clr:238,0,0><B>ANNOUNCER:<B> Five frags left."
-		// these don't have "mode activated" in the actual audio, but we're putting it in the caption for clarity.
-		"[english]DM.instagib_activated"		"<clr:238,0,0><B>ANNOUNCER:<B> InstaGib mode activated."
-		"DM.instagib_activated"		"<clr:238,0,0><B>ANNOUNCER:<B> InstaGib mode activated."
-		"[english]DM.gungame_activated"		"<clr:238,0,0><B>ANNOUNCER:<B> Gun Game mode activated."
-		"DM.gungame_activated"		"<clr:238,0,0><B>ANNOUNCER:<B> Gun Game mode activated."
-		"[english]DM.double_kill"		"<clr:238,0,0><B>ANNOUNCER:<B> Double kill!"
-		"DM.double_kill"		"<clr:238,0,0><B>ANNOUNCER:<B> Double kill!"
-		"[english]DM.tripple_kill"		"<clr:238,0,0><B>ANNOUNCER:<B> Triple kill!"
-		"DM.tripple_kill"		"<clr:238,0,0><B>ANNOUNCER:<B> Triple kill!"
-		"[english]DM.monster_kill"		"<clr:238,0,0><B>ANNOUNCER:<B> M-M-M-Monster kill!"
-		"DM.monster_kill"		"<clr:238,0,0><B>ANNOUNCER:<B> M-M-M-Monster kill!"
-		"[english]DM.godlike"		"<clr:238,0,0><B>ANNOUNCER:<B> GODLIKE!"
-		"DM.godlike"		"<clr:238,0,0><B>ANNOUNCER:<B> GODLIKE!"
+// Deathmatch
+"[english]DM.one_frag_left"		"<clr:238,0,0><B>ANNOUNCER:<B> One frag left."
+"DM.one_frag_left"		"<clr:238,0,0><B>ANNOUNCER:<B> En dödade kvar."
+"[english]DM.two_frags_left"		"<clr:238,0,0><B>ANNOUNCER:<B> Two frags left."
+"DM.two_frags_left"		"<clr:238,0,0><B>ANNOUNCER:<B> Två dödade kvar."
+"[english]DM.three_frags_left"		"<clr:238,0,0><B>ANNOUNCER:<B> Three frags left."
+"DM.three_frags_left"		"<clr:238,0,0><B>ANNOUNCER:<B> Tre dödade kvar."
+"[english]DM.four_frags_left"		"<clr:238,0,0><B>ANNOUNCER:<B> Four frags left."
+"DM.four_frags_left"		"<clr:238,0,0><B>ANNOUNCER:<B> Fyra dödade till."
+"[english]DM.five_frags_left"		"<clr:238,0,0><B>ANNOUNCER:<B> Five frags left."
+"DM.five_frags_left"		"<clr:238,0,0><B>ANNOUNCER:<B> 5 dödade till."
+// these don't have "mode activated" in the actual audio, but we're putting it in the caption for clarity.
+"[english]DM.instagib_activated"		"<clr:238,0,0><B>ANNOUNCER:<B> InstaGib mode activated."
+"DM.instagib_activated"		"<clr:238,0,0><B>ANNOUNCER:<B> InstaGib-spelläge aktiverad."
+"[english]DM.gungame_activated"		"<clr:238,0,0><B>ANNOUNCER:<B> Gun Game mode activated."
+"DM.gungame_activated"		"<clr:238,0,0><B>ANNOUNCER:<B> Vapenspelläge aktiverad."
+"[english]DM.double_kill"		"<clr:238,0,0><B>ANNOUNCER:<B> Double kill!"
+"DM.double_kill"		"<clr:238,0,0><B>ANNOUNCER:<B> Dubbel dödade!"
+"[english]DM.tripple_kill"		"<clr:238,0,0><B>ANNOUNCER:<B> Triple kill!"
+"DM.tripple_kill"		"<clr:238,0,0><B>ANNOUNCER:<B> Trippel dödade!"
+"[english]DM.monster_kill"		"<clr:238,0,0><B>ANNOUNCER:<B> M-M-M-Monster kill!"
+"DM.monster_kill"		"<clr:238,0,0><B>ANNOUNCER:<B> M-M-M-Monster dödade!"
+"[english]DM.godlike"		"<clr:238,0,0><B>ANNOUNCER:<B> GODLIKE!"
+"DM.godlike"		"<clr:238,0,0><B>ANNOUNCER:<B> GUDALIK!"
 
 		// Tears for Tarnor
 
@@ -6786,21 +6786,21 @@
 		"[english]Richard.03_07"		"<clr:191,195,167><B>Cmdr. Richard:<B> That's fine work, marines. Be advised that once you set it all off, your only way out will be an emergency exit back at the junction. Now find me the controls to the power core and let us all be done with this place."
 		"Richard.03_07"		"<clr:191,195,167><B>Cmdr. Richard:<B> That's fine work, marines. Be advised that once you set it all off, your only way out will be an emergency exit back at the junction. Now find me the controls to the power core and let us all be done with this place."
 
-		"[english]Richard.03_08"		"<clr:191,195,167><B>Cmdr. Richard:<B> Leave it Duval, this is NOT the mission! Orders are to-"
-		"Richard.03_08"		"<clr:191,195,167><B>Cmdr. Richard:<B> Leave it Duval, this is NOT the mission! Orders are to-"
+"[english]Richard.03_08"		"<clr:191,195,167><B>Cmdr. Richard:<B> Leave it Duval, this is NOT the mission! Orders are to-"
+"Richard.03_08"		"<clr:191,195,167><B>Cmdr. Richard:<B> Lämna det Duval, det här är INTE uppdraget! Ordern är att-"
 
 
-		"[english]Pilot.01_01"		"<clr:236,236,236><B>Dropship Snakebite:<B> Good luck out there, we'll be in touch."
-		"Pilot.01_01"		"<clr:236,236,236><B>Dropship Snakebite:<B> Good luck out there, we'll be in touch."
+"[english]Pilot.01_01"		"<clr:236,236,236><B>Dropship Snakebite:<B> Good luck out there, we'll be in touch."
+"Pilot.01_01"		"<clr:236,236,236><B>Dropship Snakebite:<B> Lycka till där ute, vi hör av oss."
 
-		"[english]Pilot.02_01"		"<clr:236,236,236><B>Dropship Snakebite:<B> Charlie, we've had reports of blizzard activity coming from HQ, we'll do a short rotation then get back to you."
-		"Pilot.02_01"		"<clr:236,236,236><B>Dropship Snakebite:<B> Charlie, we've had reports of blizzard activity coming from HQ, we'll do a short rotation then get back to you."
+"[english]Pilot.02_01"		"<clr:236,236,236><B>Dropship Snakebite:<B> Charlie, we've had reports of blizzard activity coming from HQ, we'll do a short rotation then get back to you."
+"Pilot.02_01"		"<clr:236,236,236><B>Dropship Snakebite:<B> Charlie, vi har fått rapporter om snöstormsaktivitet från HQ, vi gör en kort rotation och återkommer sedan till dig."
 
-		"[english]Pilot.03_11"		"<clr:236,236,236><B>Dropship Snakebite:<B> ...arlie, Charlie? Better move your asses before lift off."
-		"Pilot.03_11"		"<clr:236,236,236><B>Dropship Snakebite:<B> ...arlie, Charlie? Better move your asses before lift off."
+"[english]Pilot.03_11"		"<clr:236,236,236><B>Dropship Snakebite:<B> ...arlie, Charlie? Better move your asses before lift off."
+"Pilot.03_11"		"<clr:236,236,236><B>Dropship Snakebite:<B> ...arlie, Charlie? Bättre flytta på rumpan innan du lyfter."
 
-		"[english]Pilot.03_12"		"<clr:236,236,236><B>Dropship Snakebite:<B> Glad you're in one piece, looks like you got it easy."
-		"Pilot.03_12"		"<clr:236,236,236><B>Dropship Snakebite:<B> Glad you're in one piece, looks like you got it easy."
+"[english]Pilot.03_12"		"<clr:236,236,236><B>Dropship Snakebite:<B> Glad you're in one piece, looks like you got it easy."
+"Pilot.03_12"		"<clr:236,236,236><B>Dropship Snakebite:<B> Kul att du är i ett stycke, det verkar som att du har det lätt."
 
 
 "[english]Vesta.01_03"		"<clr:234,217,245><B>???:<B> Leave."
@@ -6815,31 +6815,31 @@
 "[english]Vesta.03_11"		"<clr:234,217,245><B>???:<B> Vesta...lives."
 "Vesta.03_11"		"<clr:234,217,245><B>???:<B> Vesta...lever."
 
-		// ACCIDENT 32
+// ACCIDENT 32
 
-		"[english]Amber.01_01"		"<clr:255,0,0><B>AMBER Warning:<B><clr:158,143,39> Antenna Communication Failure."
-		"Amber.01_01"		"<clr:255,0,0><B>AMBER Warning:<B><clr:158,143,39> Antenna Communication Failure."
+"[english]Amber.01_01"		"<clr:255,0,0><B>AMBER Warning:<B><clr:158,143,39> Antenna Communication Failure."
+"Amber.01_01"		"<clr:255,0,0><B>AMBER Warning:<B><clr:158,143,39> Antennkommunikationsfel."
 
-		"[english]Amber.01_02"		"<clr:255,0,0><B>AMBER Warning:<B><clr:158,143,39> Secondary Reactor Coolant Activated."
-		"Amber.01_02"		"<clr:255,0,0><B>AMBER Warning:<B><clr:158,143,39> Secondary Reactor Coolant Activated."
+"[english]Amber.01_02"		"<clr:255,0,0><B>AMBER Warning:<B><clr:158,143,39> Secondary Reactor Coolant Activated."
+"Amber.01_02"		"<clr:255,0,0><B>AMBER Warning:<B><clr:158,143,39> Sekundär reaktorkylvätska aktiverad."
 
-		"[english]Amber.02_01"		"<clr:255,0,0><B>AMBER Warning:<B><clr:158,143,39> Water Level Overload."
-		"Amber.02_01"		"<clr:255,0,0><B>AMBER Warning:<B><clr:158,143,39> Water Level Overload."
+"[english]Amber.02_01"		"<clr:255,0,0><B>AMBER Warning:<B><clr:158,143,39> Water Level Overload."
+"Amber.02_01"		"<clr:255,0,0><B>AMBER Warning:<B><clr:158,143,39> Överbelastning av vattennivån."
 
-		"[english]Amber.02_02"		"<clr:255,0,0><B>AMBER Warning:<B><clr:158,143,39> Main Reactor Power Nominal."
-		"Amber.02_02"		"<clr:255,0,0><B>AMBER Warning:<B><clr:158,143,39> Main Reactor Power Nominal."
+"[english]Amber.02_02"		"<clr:255,0,0><B>AMBER Warning:<B><clr:158,143,39> Main Reactor Power Nominal."
+"Amber.02_02"		"<clr:255,0,0><B>AMBER Warning:<B><clr:158,143,39> Huvudreaktoreffekt Nominell."
 
-		"[english]Amber.03_01"		"<clr:255,0,0><B>AMBER Warning:<B><clr:158,143,39> Research Personnel Evacuate Immediately."
-		"Amber.03_01"		"<clr:255,0,0><B>AMBER Warning:<B><clr:158,143,39> Research Personnel Evacuate Immediately."
+"[english]Amber.03_01"		"<clr:255,0,0><B>AMBER Warning:<B><clr:158,143,39> Research Personnel Evacuate Immediately."
+"Amber.03_01"		"<clr:255,0,0><B>AMBER Warning:<B><clr:158,143,39> Forskningspersonal evakuerar omedelbart."
 
-		"[english]Amber.04_01"		"<clr:255,0,0><B>AMBER Warning:<B><clr:158,143,39> Unauthorized Computer Access Detected."
-		"Amber.04_01"		"<clr:255,0,0><B>AMBER Warning:<B><clr:158,143,39> Unauthorized Computer Access Detected."
+"[english]Amber.04_01"		"<clr:255,0,0><B>AMBER Warning:<B><clr:158,143,39> Unauthorized Computer Access Detected."
+"Amber.04_01"		"<clr:255,0,0><B>AMBER Warning:<B><clr:158,143,39> Otillåten datoråtkomst upptäckt."
 
-		"[english]Amber.05_01"		"<clr:255,0,0><B>AMBER Warning:<B><clr:158,143,39> Sector C Pipe Leak."
-		"Amber.05_01"		"<clr:255,0,0><B>AMBER Warning:<B><clr:158,143,39> Sector C Pipe Leak."
+"[english]Amber.05_01"		"<clr:255,0,0><B>AMBER Warning:<B><clr:158,143,39> Sector C Pipe Leak."
+"Amber.05_01"		"<clr:255,0,0><B>AMBER Warning:<B><clr:158,143,39> Sektor C rör läcka."
 
-		"[english]Amber.06_01"		"<clr:255,0,0><B>AMBER Warning:<B><clr:158,143,39> Detected Radioactive Material Presence."
-		"Amber.06_01"		"<clr:255,0,0><B>AMBER Warning:<B><clr:158,143,39> Detected Radioactive Material Presence."
+"[english]Amber.06_01"		"<clr:255,0,0><B>AMBER Warning:<B><clr:158,143,39> Detected Radioactive Material Presence."
+"Amber.06_01"		"<clr:255,0,0><B>AMBER Warning:<B><clr:158,143,39> Detekterad närvaro av radioaktivt material."
 
 // Sound effects (not shown in Subtitles mode; mostly for sounds without a corresponding visual cue or for very important sounds)
 "[english]asw_song.Stinger"		"<sfx>[Horde incoming!]"
@@ -6910,20 +6910,20 @@
 "ASW_Parasite.EggBurst"		"<sfx><norepeat:15>[Ägg poppar!]"
 "[english]ASW_Parasite.LeapAttack"		"<sfx><norepeat:15>[Parasite leaps!]"
 "ASW_Parasite.LeapAttack"		"<sfx><norepeat:15>[Parasit hoppar!]"
-		"[english]ASW_Xenomite.LeapAttack"		"<sfx><norepeat:15>[Xenomite leaps!]"
-		"ASW_Xenomite.LeapAttack"		"<sfx><norepeat:15>[Xenomite leaps!]"
-		"[english]ASW_Boomer.Inflate"		"<sfx><norepeat:15>[Boomer inflates!]"
-		"ASW_Boomer.Inflate"		"<sfx><norepeat:15>[Boomer inflates!]"
-		"[english]ASW_Boomer.Death_Explode"		"<sfx><norepeat:15>[Boomer pops!]"
-		"ASW_Boomer.Death_Explode"		"<sfx><norepeat:15>[Boomer pops!]"
-		"[english]ASW_MortarBug.Spit"		"<sfx><norepeat:15>[Mortarbug spits!]"
-		"ASW_MortarBug.Spit"		"<sfx><norepeat:15>[Mortarbug spits!]"
-		"[english]ASW_Harvester.Alert"		"<sfx><norepeat:15>[Harvester alerted]"
-		"ASW_Harvester.Alert"		"<sfx><norepeat:15>[Harvester alerted]"
-		"[english]ASW_Mender.BeamHeal"		"<sfx><norepeat:15>[Mender starts healing]"
-		"ASW_Mender.BeamHeal"		"<sfx><norepeat:15>[Mender starts healing]"
-		"[english]ASW_Mender.BeamLeech"		"<sfx><norepeat:15>[Mender starts leeching health]"
-		"ASW_Mender.BeamLeech"		"<sfx><norepeat:15>[Mender starts leeching health]"
+"[english]ASW_Xenomite.LeapAttack"		"<sfx><norepeat:15>[Xenomite leaps!]"
+"ASW_Xenomite.LeapAttack"		"<sfx><norepeat:15>[Xenomite hoppar!]"
+"[english]ASW_Boomer.Inflate"		"<sfx><norepeat:15>[Boomer inflates!]"
+"ASW_Boomer.Inflate"		"<sfx><norepeat:15>[Boomer blåser upp!]"
+"[english]ASW_Boomer.Death_Explode"		"<sfx><norepeat:15>[Boomer pops!]"
+"ASW_Boomer.Death_Explode"		"<sfx><norepeat:15>[Boomer poppar!]"
+"[english]ASW_MortarBug.Spit"		"<sfx><norepeat:15>[Mortarbug spits!]"
+"ASW_MortarBug.Spit"		"<sfx><norepeat:15>[Mortarbug spottar!]"
+"[english]ASW_Harvester.Alert"		"<sfx><norepeat:15>[Harvester alerted]"
+"ASW_Harvester.Alert"		"<sfx><norepeat:15>[Harvester larmad]"
+"[english]ASW_Mender.BeamHeal"		"<sfx><norepeat:15>[Mender starts healing]"
+"ASW_Mender.BeamHeal"		"<sfx><norepeat:15>[Mender börjar läka]"
+"[english]ASW_Mender.BeamLeech"		"<sfx><norepeat:15>[Mender starts leeching health]"
+"ASW_Mender.BeamLeech"		"<sfx><norepeat:15>[Mender börjar ta hälsa]"
 "[english]ASW_Queen.Slash"		"<sfx><norepeat:15>[Queen attacks!]"
 "ASW_Queen.Slash"		"<sfx><norepeat:15>[Drottning attackerar!]"
 "[english]ASW_Queen.AttackWave"		"<sfx>[Queen screams!]"
