@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content><string id="body">El mes que viene (abril) es el séptimo aniversario de Alien Swarm: Reactive Drop. No tenemos previsto lanzar una gran actualización este año, por lo que hemos decidido que es mejor publicar nuevos contenidos en cuanto estén listos, en lugar de esperar a una determinada época del año. En este mes (marzo) se agregaron algunos menús nuevos, se corrigieron varios problemas señalados por la comunidad y se actualizó un PNJ (personaje no jugable) poco utilizado por los creadores de mapas.
+
+[h2]Informar[/h2]
+[list]
+[*]Se agregó un botón para informar o elogiar rápidamente a los jugadores en la lista de jugadores (por defecto, la tecla F9, o el icono del pulgar hacia arriba en la sala). Los informes se envían al equipo de Reactive Drop.
+[*]Se agregó una nueva opción en el menú de pausa (ESC): "Informar sobre un problema".
+[*]Al entrar en el menú de pausa ahora se hace una captura de pantalla que se puede adjuntar a los informes.
+[*]Esta función se puede utilizar para cualquier cosa que creas que el equipo de Reactive Drop debería saber. (Háganos saber a través de algún otro método si obtiene errores al enviar un informe).
+[*]Una vez iniciado un informe, puedes reanudarlo en cualquier momento hasta que cierres el juego o bien deshacerte del informe y empezar uno nuevo.
+[*]Puedes iniciar un informe sobre cualquier jugador con el que hayas jugado o sobre el último servidor dedicado en el que hayas estado durante una hora después.
+[*]También puedes presentar un informe que no esté vinculado a un jugador o servidor (por ejemplo, un informe de un error o pedir ayuda con un problema relacionado con tu cuenta) en cualquier momento.
+[*]Se corrigió la casilla de marcación "Informar automáticamente a los jugadores a los que silencie o vote" de la lista de jugadores, que aparecía siempre desmarcada cuando se cargaba el menú.
+[/list]
+
+[h2]Duelo a muerte[/h2]
+[list]
+[*][b]Desafío Infección a Muerte:[/b] Se prohibió que se activara "En masacre" en estos modos.
+[*][b]Desafío Infección a Muerte:[/b] El Rifle de Raíles ahora empuja a los zombis con mucha más fuerza.
+[*]Los servidores de Fuerzas Armadas Interestelares ya no filtran los desafíos de duelo a muerte.
+[/list]
+
+[h2]Colonos (para los creadores de mapas)[/h2]
+[list]
+[*]Los colonos ya no son un objetivo de autoapuntado por defecto. (Se puede ajustar en Hammer).
+[*]Ahora, los colonos muestran la advertencia de fuego amigo en la mira a menos que estén marcados como objetivo.
+[*]El comportamiento de los colonos que les hace seguir a los marinos cuando interactúan con ellos puede desactivarse ahora en Hammer y el colono tiene ahora un contorno brillante para indicar que se permite realizar esa acción.
+[*]Se agregó la opción "spawn with weapon" para que puedan aparcer con un arma para los colonos en Hammer. Sin embargo, muchas armas actúan de forma extraña con los colonos; esto se corregirá en el futuro en función de las necesidades de los creadores de mapas.
+Ahora, los soldados combines utilizarán "asw_weapon_pdw_single" en lugar de estar programados para utilizar un modelo y animaciones personalizados. "asw_weapon_pdw_single" se convierte en "asw_weapon_pdw" con ajustes especiales una vez que aparece, por lo que los scripts que manipulan "asw_weapon_pdw" no necesitan ser actualizados.
+[*]Ahora, los colonos admiten "ai_goal_actbusy". Todas las acciones de ocupado de los ciudadanos de Half-Life 2 se encuentran disponibles.
+[*]Además, ahora están disponibles las acciones de ocupado "Drone_WallPound" y "Ranger_Sleep".
+[*]Ahora, los alienígenas emiten "sonidos" que los PNJ humanoides pueden oír cada vez que completan o repiten una animación.
+[/list]
+
+[h2]Otras correcciones y ajustes[/h2]
+[list]
+[*][b]Descanso de Jacob: Elevador de carga (todas las variantes):[/b] Se corrigieron algunas anomalías de los gráficos en función de la posición de la cámara en la chapa metálica tras el pozo tóxico.
+[*]Ahora se puede cambiar el comando "cl_lagcompensation" mientras estás conectado a un servidor.
+[*]Se corrigieron las animaciones entrecortadas de los huevos.
+[*]Se corrigió que las computadoras enviaran una salida extra "OnComputerHackCompleted" después de que se completara la descarga si "asw_simple_hacking" estaba habilitado.
+[*]Se corrigió un bloqueo en el menú principal cuando el comando "cl_quick_join_scroll_max" tenía el valor 0 y "rd_reduce_motion" tenía el valor 1.
+[*]Se corrigió un problema de rendimiento al enviar objetos de inventario equipados (como medallas) a un servidor.
+[*]Se eliminaron algunos mensajes de advertencia de la consola que el código de compatibilidad con Steam Input del juego podía mostrar en casos que no fueran de error.
+[*]Cuando se activa el comando "rd_steam_input_disable", el juego vuelve a activar la compatibilidad con XInput para todos los controles conectados.
+[*]Se cambió el color de los jugadores con la voz silenciada de gris a rojo para que fuera más fácil diferenciarlos de los jugadores que no hablaban, que eran de un gris diferente.
+[*]Se eliminó un mensaje de registro de servidor no deseado que podía activarse al presionar la tecla Alt + Tab.
+[*]La compensación del retardo ya no se aplica a los espectadores.
+[/list]
+</string><string id="subtitle"/><string id="summary"/><string id="title">Actualización de Alien Swarm: Reactive Drop - 1 de marzo de 2024</string></content>
