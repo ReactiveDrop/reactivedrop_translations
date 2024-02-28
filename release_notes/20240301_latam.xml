@@ -33,6 +33,7 @@ Ahora, los soldados combines utilizarán "asw_weapon_pdw_single" en lugar de est
 [/list]
 
 [h2]Otras correcciones y ajustes[/h2]
+[list]
 [*][b]Descanso de Jacob: Elevador de carga (todas las variantes):[/b] Se corrigieron algunas anomalías de los gráficos en función de la posición de la cámara en la chapa metálica tras el pozo tóxico.
 [*]Ahora se puede cambiar el comando "cl_lagcompensation" mientras estás conectado a un servidor.
 [*]Se corrigieron las animaciones entrecortadas de los huevos.
