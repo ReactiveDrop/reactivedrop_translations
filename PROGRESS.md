@@ -20,7 +20,7 @@
 | [Romanian](#non-curated-languages) | 55 | 1996 | 48 | 3869 | 258 | 209 | 975 | 147 |
 | [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 1 |
 | [European Spanish](#spanish-español-de-españa) | 32 | 2004 | 40 | 2572 | 258 | 209 | 714 | 146 |
-| [Latin American Spanish](#latam-español-latinoamericano) | ✔️ | 2004 | ✔️ | 4669 | 258 | 213 | 336 | 145 |
+| [Latin American Spanish](#latam-español-latinoamericano) | ✔️ | 2004 | ✔️ | 4669 | 258 | 213 | 235 | 141 |
 | [Swedish](#swedish-svenska) | ✔️ | 1440 | ✔️ | 1553 | ✔️ | ✔️ | ✔️ | 109 |
 | [Thai](#non-curated-languages) | 970 | 1993 | 50 | 4404 | 258 | 209 | 739 | 147 |
 | [Turkish](#non-curated-languages) | 55 | 137 | 42 | 3157 | 258 | 209 | 975 | 147 |
@@ -1300,21 +1300,9 @@
 - [inventory_service_tags_latam.vdf](community/inventory_service/inventory_service_tags_latam.vdf) has 32 untranslated strings.
 - [items_latam.vdf](community/inventory_service/items_latam.vdf) has 258 untranslated strings.
 - [statsweb_latam.vdf](community/stats_website/statsweb_latam.vdf) has 213 untranslated strings.
-- [steam_input_latam.vdf](community/steam_input/steam_input_latam.vdf) has 97 untranslated strings.
-- [workshop_description_latam.vdf](community/workshop/workshop_description_latam.vdf) has 4 untranslated strings.
 - [misc/signage/signage_latam.vdf](misc/signage/signage_latam.vdf) has 69 untranslated strings.
 - [closecaption_latam.txt](resource/closecaption_latam.txt) has 2004 untranslated strings.
 - [reactivedrop_latam.txt](resource/reactivedrop_latam.txt) has 4669 untranslated strings.
-
-### Steam Store and Community
-
-- [app_items_563560_latam.json](community/points_shop/app_items_563560_english.json) is missing.
-- [workshop_tags_latam.json](community/workshop/workshop_tags_english.json) is missing.
-- [storepage_81731_latam.json](store_page/storepage_81731_english.json) is missing.
-
-### Upcoming Release Notes
-
-- [20240301_latam.xml](release_notes/20240301_english.xml) is missing.
 
 ### Credits
 
