@@ -3,7 +3,7 @@
 "Language"		"japanese"
 "Tokens"
 {
-		// find preview images to the textures here https://github.com/ReactiveDrop/reactivedrop_translations/wiki/Signage-textures
+		// find preview images to the textures here https://github.com/ReactiveDrop/reactivedrop_translations/wiki/Signage-Texture-Previews
 		"[english]materials/decals/decalsigncaution001b.vmt"		"CAUTION\nWEAR YOUR\nRESPIRATOR"
 		"materials/decals/decalsigncaution001b.vmt"		"CAUTION\nWEAR YOUR\nRESPIRATOR"
 		"[english]materials/decals/decalsigndanger001c.vmt"		"DANGER\nHIGH\nVOLTAGE"
