@@ -9253,29 +9253,29 @@
 "[english]rd_reporting_auto_preference"		"Automatically report players I mute or vote for"
 "rd_reporting_auto_preference"		"Автоотправка жалобы на игроков, которые заглушены или за которых отдали голос"
 "[english]rd_reporting_error_not_connected"		"Cannot send a report while offline."
-"rd_reporting_error_not_connected"		"Невозможно отправить жалобу, находясь вне сети."
+"rd_reporting_error_not_connected"		"Невозможно отправить сообщение, находясь вне сети."
 // shown when the game is asking Steam for a ticket that can be used to confirm the current player's identity to the reporting server.
 // this message will be replaced very quickly while sending in a report unless something is wrong.
 "[english]rd_reporting_wait_requesting_ticket"		"Requesting a ticket..."
 "rd_reporting_wait_requesting_ticket"		"Запрос билета..."
 // failed to even start the report-sending request
 "[english]rd_reporting_error_sending_unknown"		"An unknown error occured while sending the report."
-"rd_reporting_error_sending_unknown"		"Во время отправки жалобы произошла неизвестная ошибка."
+"rd_reporting_error_sending_unknown"		"Во время отправки сообщения произошла неизвестная ошибка."
 "[english]rd_reporting_sending_report_to_server"		"Uploading your report..."
-"rd_reporting_sending_report_to_server"		"Загрузка вашей жалобы..."
+"rd_reporting_sending_report_to_server"		"Загрузка вашего сообщения..."
 // %s1 is the error number, %s2 is the name associated with that number.
 "[english]rd_reporting_error_getting_ticket"		"Unable to get an identity ticket. Cannot report at this time. (Error code %s1 %s2)"
-"rd_reporting_error_getting_ticket"		"Невозможно получить идентификационный билет. Невозможно отправить жалобу в данный момент. (Код ошибки %s1 %s2)"
+"rd_reporting_error_getting_ticket"		"Невозможно получить идентификационный билет. Невозможно отправить сообщение в данный момент. (Код ошибки %s1 %s2)"
 "[english]rd_reporting_error_sending_client"		"Lost connection to the Steam client. Failed to send the report."
-"rd_reporting_error_sending_client"		"Потеряно соединение с клиентом Steam. Не удалось отправить жалобу."
+"rd_reporting_error_sending_client"		"Потеряно соединение с клиентом Steam. Не удалось отправить сообщение."
 "[english]rd_reporting_error_sending_network"		"A network error occurred while attempting to send the report."
 "rd_reporting_error_sending_network"		"При попытке отправить жалобу произошла сетевая ошибка."
 "[english]rd_reporting_success"		"Your report has been sent and will be reviewed by the Reactive Drop Team."
-"rd_reporting_success"		"Ваша жалоба была отправлена и будет рассмотрена командой Reactive Drop."
+"rd_reporting_success"		"Ваше сообщение было отправлено и будет рассмотрено командой Reactive Drop."
 "[english]rd_reporting_success_quick_commend"		"Quick commendation successfully sent."
 "rd_reporting_success_quick_commend"		"Быстрая похвала отправлена успешно."
 "[english]rd_reporting_success_quick_report"		"Quick report successfully sent."
-"rd_reporting_success_quick_report"		"Быстрая жалоба отправлена успешно."
+"rd_reporting_success_quick_report"		"Быстрое сообщение отправлено успешно."
 "[english]rd_reporting_success_quick_auto"		"Vote report successfully sent."
 "rd_reporting_success_quick_auto"		"Жалоба через голосование отправлена успешно."
 // %s1 is a 3-digit number (an HTTP status code)
@@ -9291,10 +9291,10 @@
 "[english]rd_quick_report_commend"		"Commend"
 "rd_quick_report_commend"		"Похвалить"
 "[english]rd_quick_report_report"		"Report"
-"rd_quick_report_report"		"Пожаловаться"
+"rd_quick_report_report"		"Сообщить"
 // label for button in the player list
 "[english]rd_quick_report_commend_or_report"		"Report or commend"
-"rd_quick_report_commend_or_report"		"Пожаловаться или похвалить"
+"rd_quick_report_commend_or_report"		"Сообщить или похвалить"
 // commend for being friendly
 "[english]rd_quick_report_friendly"		"Friendly"
 "rd_quick_report_friendly"		"Дружественный"
@@ -9372,11 +9372,11 @@
 "rd_reporting_include_this_screenshot"		"Включить этот скриншот"
 // shown above the player's name and avatar
 "[english]rd_reporting_player_label"		"CURRENTLY REPORTING PLAYER"
-"rd_reporting_player_label"		"СОЗДАНИЕ ЖАЛОБЫ/СООБЩЕНИЯ НА"
+"rd_reporting_player_label"		"СОЗДАНИЕ СООБЩЕНИЯ НА"
 // this currently shows up when the report category is "Another Player" but no subcategory has been chosen.
 // selecting "Dedicated Server" automatically selects the "Other" subcategory.
 "[english]rd_reporting_instructions_required_subcategory"		"Select a subcategory above before writing your report."
-"rd_reporting_instructions_required_subcategory"		"Выберите подкатегорию выше, прежде чем писать свою жалобу/сообщение."
+"rd_reporting_instructions_required_subcategory"		"Выберите подкатегорию выше, прежде чем писать своё сообщение."
 "[english]rd_reporting_instructions_my_account"		"Describe the problem with your account, stats, achievements, or items. Reactive Drop Team will create a support ticket for you if we need additional information."
 "rd_reporting_instructions_my_account"		"Опишите проблему с вашим аккаунтом, статистикой, достижениями или предметами. Команда Reactive Drop создаст для вас билет поддержки, если нам понадобится дополнительная информация."
 "[english]rd_reporting_instructions_server_technical"		"Describe the technical issue affecting this dedicated server. Reactive Drop Team may forward your message to the community member who operates the server if possible. As all dedicated servers are community-run, we cannot guarantee any specific action will be taken."
@@ -9398,7 +9398,7 @@
 "[english]rd_reporting_instructions_other"		"Describe the issue. Reactive Drop Team will create a support ticket for you if we need additional information."
 "rd_reporting_instructions_other"		"Опишите проблему. Команда Reactive Drop создаст для вас билет поддержки, если нам понадобится дополнительная информация."
 "[english]rd_reporting_includes"		"The report you are sending will include:"
-"rd_reporting_includes"		"Жалоба, которую вы отправляете, будет включать в себя:"
+"rd_reporting_includes"		"Сообщение, которое вы отправляете, будет включать в себя:"
 "[english]rd_reporting_includes_your_account_id"		"Your Steam account ID."
 "rd_reporting_includes_your_account_id"		"Идентификатор вашего аккаунта в Steam."
 "[english]rd_reporting_includes_other_account_id"		"The Steam ID of the account you are reporting."
@@ -9423,9 +9423,9 @@
 "[english]rd_reporting_includes_connection_quality"		"Some simple statistics about your recent network connection quality."
 "rd_reporting_includes_connection_quality"		"Несколько простых статистических данных о качестве вашего недавнего сетевого соединения."
 "[english]rd_reporting_continues_in_background"		"Report sending will continue in the background while the game is running. You do not need to wait on this screen."
-"rd_reporting_continues_in_background"		"Отправка жалобы будет продолжаться в фоновом режиме, пока идёт игра. Вам не нужно ждать на этом экране."
+"rd_reporting_continues_in_background"		"Отправка сообщения будет продолжаться в фоновом режиме, пока идёт игра. Вам не нужно ждать на этом экране."
 "[english]rd_reporting_only_team"		"Only Reactive Drop Team will see your report. It will not be shared directly with other players."
-"rd_reporting_only_team"		"Вашу жалобу увидит только команда Reactive Drop. Она не будет передана напрямую другим игрокам."
+"rd_reporting_only_team"		"Ваше сообщение увидит только команда Reactive Drop. Оно не будет передано напрямую другим игрокам."
 
 // these are tab names
 "[english]rd_settings_controls"		"Controls"
