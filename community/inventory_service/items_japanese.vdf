@@ -239,6 +239,9 @@
 "item_event_medal_replayabilityfest2024_name"		"Steam無限リプレイフェス（2024）"
 "[english]item_event_medal_replayabilityfest2024_description"		"Fought the Swarm during Steam Endless Replayability Fest 2024."
 "item_event_medal_replayabilityfest2024_description"		"2024年度Steam無限リプレイフェス中に エイリアンと戦った証。"
+		// we're not eligible for the fest, so this medal is an unofficial participation trophy. ouch.
+		"[english]item_event_medal_replayabilityfest2024_flavor"		"We didn't make the cut, but we still had fun."
+		"item_event_medal_replayabilityfest2024_flavor"		"We didn't make the cut, but we still had fun."
 
 "[english]item_event_medal_mapping_2023_name"		"Mapping Competition Participant (2023)"
 "item_event_medal_mapping_2023_name"		"マップ作成コンテスト参加賞(2023)"
