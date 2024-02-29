@@ -18,7 +18,7 @@
 | [European Portuguese](#portuguese-português-europeu) | 4 | 180 | 32 | 2246 | 238 | 30 | 630 | 141 |
 | [Brazilian Portuguese](#brazilian-português) | 6 | 2004 | 32 | 1416 | 188 | 18 | 276 | 8 |
 | [Romanian](#non-curated-languages) | 55 | 1996 | 48 | 3869 | 258 | 209 | 975 | 147 |
-| [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 1 |
+| [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [European Spanish](#spanish-español-de-españa) | 32 | 2004 | 40 | 2572 | 258 | 209 | 714 | 146 |
 | [Latin American Spanish](#latam-español-latinoamericano) | ✔️ | 2004 | ✔️ | 4669 | 258 | 213 | 235 | 141 |
 | [Swedish](#swedish-svenska) | ✔️ | 1440 | ✔️ | 1553 | ✔️ | ✔️ | ✔️ | 109 |
@@ -1097,9 +1097,7 @@
 
 </summary>
 
-### Upcoming Release Notes
-
-- [20240301_russian.xml](release_notes/20240301_english.xml) is missing.
+✓ Up to date!
 
 </details>
 
