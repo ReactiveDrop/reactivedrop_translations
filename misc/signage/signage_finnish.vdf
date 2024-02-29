@@ -3,6 +3,7 @@
 "Language"		"finnish"
 "Tokens"
 {
+		// find preview images to the textures here https://github.com/ReactiveDrop/reactivedrop_translations/wiki/Signage-Texture-Previews
 		"[english]materials/decals/decalsigncaution001b.vmt"		"CAUTION\nWEAR YOUR\nRESPIRATOR"
 		"materials/decals/decalsigncaution001b.vmt"		"CAUTION\nWEAR YOUR\nRESPIRATOR"
 		"[english]materials/decals/decalsigndanger001c.vmt"		"DANGER\nHIGH\nVOLTAGE"
@@ -29,8 +30,8 @@
 		"materials/newcamp/sign/sign_power.vmt"		"POWER:"
 		// the English version of this texture has a smiley face :) in the middle of the O.
 		// leave a comment on the translated version for any markings that should be added.
-		"[english]materials/newcamp/sign/sign_reactor_control.vmt"		"REACTOR CONTROL"
-		"materials/newcamp/sign/sign_reactor_control.vmt"		"REACTOR CONTROL"
+		"[english]materials/newcamp/sign/sign_reactorcontrol.vmt"		"REACTOR CONTROL"
+		"materials/newcamp/sign/sign_reactorcontrol.vmt"		"REACTOR CONTROL"
 		"[english]materials/newcamp/sign/sign_status.vmt"		"STATUS:"
 		"materials/newcamp/sign/sign_status.vmt"		"STATUS:"
 		"[english]materials/ocs/medusa_logo.vmt"		"USC MEDUSA\nIAF XR12-7"
@@ -43,10 +44,10 @@
 		// if your language requires a different layout, be sure to leave a translator comment.
 		"[english]materials/ocs/ocs_landingbay.vmt"		"LANDING BAY [5]\nLANDING BAY [6]\nLANDING BAY [7]"
 		"materials/ocs/ocs_landingbay.vmt"		"LANDING BAY [5]\nLANDING BAY [6]\nLANDING BAY [7]"
-		"[english]materials/ocs/ocs_statispods.vmt"		"STASIS PODS\n1 2\n3 4"
-		"materials/ocs/ocs_statispods.vmt"		"STASIS PODS\n1 2\n3 4"
-		"[english]materials/ocs/ocs_statispods02.vmt"		"STASIS PODS\n1 2 3 4\n5 6 7 8\n9 10 11 12"
-		"materials/ocs/ocs_statispods02.vmt"		"STASIS PODS\n1 2 3 4\n5 6 7 8\n9 10 11 12"
+		"[english]materials/ocs/ocs_stasispods.vmt"		"STASIS PODS\n1 2\n3 4"
+		"materials/ocs/ocs_stasispods.vmt"		"STASIS PODS\n1 2\n3 4"
+		"[english]materials/ocs/ocs_stasispods02.vmt"		"STASIS PODS\n1 2 3 4\n5 6 7 8\n9 10 11 12"
+		"materials/ocs/ocs_stasispods02.vmt"		"STASIS PODS\n1 2 3 4\n5 6 7 8\n9 10 11 12"
 		"[english]materials/overlays/cautiondoor.vmt"		"CAUTION DOOR"
 		"materials/overlays/cautiondoor.vmt"		"CAUTION DOOR"
 		// this should be what you'd expect to find on a helicopter landing pad
@@ -110,8 +111,8 @@
 		"materials/signs/dutyfree.vmt"		"DUTY FREE"
 		"[english]materials/signs/spaceportdecal1.vmt"		"SPACEPORT"
 		"materials/signs/spaceportdecal1.vmt"		"SPACEPORT"
-		"[english]materials/signs/spaceportsignl1.vmt"		"SPACEPORT\nACCESS"
-		"materials/signs/spaceportsignl1.vmt"		"SPACEPORT\nACCESS"
+		"[english]materials/signs/spaceportsign1.vmt"		"SPACEPORT\nACCESS"
+		"materials/signs/spaceportsign1.vmt"		"SPACEPORT\nACCESS"
 		"[english]materials/signs/unclaimed_cargo2.vmt"		"UNCLAIMED\nCARGO"
 		"materials/signs/unclaimed_cargo2.vmt"		"UNCLAIMED\nCARGO"
 		"[english]materials/specur/sign_data.vmt"		"DATA STORAGE"
@@ -126,8 +127,8 @@
 		"materials/specur/sign_welcome.vmt"		"WELCOME"
 		"[english]materials/swarm/bsp/centralmallsignbsp.vmt"		"CENTRAL MALL"
 		"materials/swarm/bsp/centralmallsignbsp.vmt"		"CENTRAL MALL"
-		"[english]materials/swarm/bsp/maintenancesign.vmt"		"MAINTENANCE\nNO UNAUTHORIZED PERSONS\nALLOWED BEYOND THIS POINT"
-		"materials/swarm/bsp/maintenancesign.vmt"		"MAINTENANCE\nNO UNAUTHORIZED PERSONS\nALLOWED BEYOND THIS POINT"
+		"[english]materials/swarm/bsp/maintainancesign.vmt"		"MAINTENANCE\nNO UNAUTHORIZED PERSONS\nALLOWED BEYOND THIS POINT"
+		"materials/swarm/bsp/maintainancesign.vmt"		"MAINTENANCE\nNO UNAUTHORIZED PERSONS\nALLOWED BEYOND THIS POINT"
 		"[english]materials/swarm/bsp/reactorcontrolsign.vmt"		"REACTOR CONTROL"
 		"materials/swarm/bsp/reactorcontrolsign.vmt"		"REACTOR CONTROL"
 		"[english]materials/swarm/bsp/reactorcontrolwitharrow.vmt"		"REACTOR\nCONTROL"
