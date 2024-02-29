@@ -1,0 +1,12 @@
+{
+"language": "latam",
+"itemid": "81731",
+"app[content][short_description]": "Un juego gratuito de disparos cooperativo con una perspectiva desde arriba. Una épica cacería de bichos con una mezcla única de juego cooperativo y tácticas en equipo.",
+"app[content][about]": "Alien Swarm: Reactive Drop mejora Alien Swarm, trayendo consigo más de todo: mapas, alienígenas, modos de juego, armas... Y lo más importante, compatibilidad con Steam Workshop.\n\n[list]\n[*]Cooperativo táctico para hasta 8 jugadores con una perspectiva desde arriba.\n[*]Soporte de Steam Workshop para mapas y desafíos de la comunidad.\n[*]Nuevas campañas cooperativas.\n[*]Desafíos: Modificaciones del juego, al igual que las Mutaciones de Left 4 Dead 2.\n[*]JcJ: Duelo a muerte, Juego de Armas, Muerte Instantánea y Duelo por equipos.\n[*]Individual: Juega con bots avanzados en todos los mapas oficiales.\n[*]Nuevos alienígenas: Hormigas León de Half-life 2 y más.\n[*]Nuevas armas: Bulldog, Devastador y Rifle de Combate, además de otras que están por llegar.\n[*]Más de 100 logros en Steam.\n[*]Tablas de clasificación: compite con tus amigos por ser el más rápido en completar una misión.\n[*]Espectador mejorado: podrás ver los minijuegos de hackeo y los movimientos del mouse en tiempo real.\n[\/list]",
+"app[content][legal]": "© 2017 Reactive Drop Team",
+"app[content][sysreqs][windows][min][osversion]": "Windows® XP o superior",
+"app[content][sysreqs][windows][min][processor]": "Pentium 4 o superior",
+"app[content][sysreqs][windows][min][graphics]": "Tarjeta de vídeo compatible con DirectX 9 con 128 MB, con modelo de sombreado 2.0b. ATI X800, NVidia 6600 o superior",
+"app[content][sysreqs][windows][min][soundcard]": "Tarjeta de sonido compatible con DirectX 9.0c",
+"app[content][sysreqs][windows][min][notes]": "El espacio de disco necesario depende de las ampliaciones de Workshop instalados."
+}

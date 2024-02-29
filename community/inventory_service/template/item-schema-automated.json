@@ -494,7 +494,7 @@
 			"itemdefid": 44,
 			"type": "item",
 			"name_%LANG%": "{#item_event_medal_replayabilityfest2024_name}",
-			"description_%LANG%": "{#item_event_medal_replayabilityfest2024_description}",
+			"description_%LANG%": "{#item_event_medal_replayabilityfest2024_description}\n\n[color=#{#item_desc_color_flavor}]{#item_event_medal_replayabilityfest2024_flavor}[/color]",
 			"display_type_%LANG%": "{#item_display_type_event_medal_uncommon}",
 			"icon_url": "https://stats.reactivedrop.com/static/medals/error.png",
 			"name_color": "{#item_color_uncommon}",
