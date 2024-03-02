@@ -1721,26 +1721,26 @@
 "[english]crash.Selection2"		"<clr:238,180,34><B>Crash:<B> What's up?"
 "crash.Selection2"		"<clr:238,180,34><B>Crash:<B> Vad händer?"
 
-		// Faith
+// Faith
 
 
-		"[english]faith.SynUpReply0"		"<clr:178,34,34><B>Faith:<B> Half the core world is addicted to that stuff."
-		"faith.SynUpReply0"		"<clr:178,34,34><B>Faith:<B> Half the core world is addicted to that stuff."
+"[english]faith.SynUpReply0"		"<clr:178,34,34><B>Faith:<B> Half the core world is addicted to that stuff."
+"faith.SynUpReply0"		"<clr:178,34,34><B>Faith:<B> Halva kärnvärlden är beroende av sånt."
 
-		"[english]faith.SynUpReply1"		"<clr:178,34,34><B>Faith:<B> You don't want to drink that shit, believe me."
-		"faith.SynUpReply1"		"<clr:178,34,34><B>Faith:<B> You don't want to drink that shit, believe me."
+"[english]faith.SynUpReply1"		"<clr:178,34,34><B>Faith:<B> You don't want to drink that shit, believe me."
+"faith.SynUpReply1"		"<clr:178,34,34><B>Faith:<B> Du vill inte dricka det där skitet, tro mig."
 
-		"[english]faith.MedicComplainReply0"		"<clr:178,34,34><B>Faith:<B> Sorry, Bastille, that's why I've got you here."
-		"faith.MedicComplainReply0"		"<clr:178,34,34><B>Faith:<B> Sorry, Bastille, that's why I've got you here."
+"[english]faith.MedicComplainReply0"		"<clr:178,34,34><B>Faith:<B> Sorry, Bastille, that's why I've got you here."
+"faith.MedicComplainReply0"		"<clr:178,34,34><B>Faith:<B> Förlåt, Bastille, det är varför jag har dig här."
 
-		"[english]faith.MedicComplain0"		"<clr:178,34,34><B>Faith:<B> Can't you avoid getting hurt?"
-		"faith.MedicComplain0"		"<clr:178,34,34><B>Faith:<B> Can't you avoid getting hurt?"
+"[english]faith.MedicComplain0"		"<clr:178,34,34><B>Faith:<B> Can't you avoid getting hurt?"
+"faith.MedicComplain0"		"<clr:178,34,34><B>Faith:<B> Kan du inte undvika att skada dig själv?"
 
-		"[english]faith.MedicComplain1"		"<clr:178,34,34><B>Faith:<B> You just love getting in harm's way, don't you?"
-		"faith.MedicComplain1"		"<clr:178,34,34><B>Faith:<B> You just love getting in harm's way, don't you?"
+"[english]faith.MedicComplain1"		"<clr:178,34,34><B>Faith:<B> You just love getting in harm's way, don't you?"
+"faith.MedicComplain1"		"<clr:178,34,34><B>Faith:<B> Du bara älskar att komma i fara, eller hur?"
 
-		"[english]faith.TequilaReply0"		"<clr:178,34,34><B>Faith:<B> You know that stuff kills your liver."
-		"faith.TequilaReply0"		"<clr:178,34,34><B>Faith:<B> You know that stuff kills your liver."
+"[english]faith.TequilaReply0"		"<clr:178,34,34><B>Faith:<B> You know that stuff kills your liver."
+"faith.TequilaReply0"		"<clr:178,34,34><B>Faith:<B> Du vet att det där dödar din lever."
 
 "[english]faith.InjuredSelection0"		"<clr:178,34,34><B>Faith:<B> I can make it."
 "faith.InjuredSelection0"		"<clr:178,34,34><B>Faith:<B> Jag kan klara det."
@@ -1763,14 +1763,14 @@
 "[english]faith.SeriousInjuryFollowUp1"		"<clr:178,34,34><B>Faith:<B> Just take it easy from now on."
 "faith.SeriousInjuryFollowUp1"		"<clr:178,34,34><B>Faith:<B> Ta det bara försiktigt från och med nu."
 
-		"[english]faith.SeriousInjury0"		"<clr:178,34,34><B>Faith:<B> Don't put any strain on it for a while, okay?"
-		"faith.SeriousInjury0"		"<clr:178,34,34><B>Faith:<B> Don't put any strain on it for a while, okay?"
+"[english]faith.SeriousInjury0"		"<clr:178,34,34><B>Faith:<B> Don't put any strain on it for a while, okay?"
+"faith.SeriousInjury0"		"<clr:178,34,34><B>Faith:<B> Utsätt det inte för någon belastning på ett tag, okej?"
 
-		"[english]faith.SeriousInjury1"		"<clr:178,34,34><B>Faith:<B> You're up for field surgery after this."
-		"faith.SeriousInjury1"		"<clr:178,34,34><B>Faith:<B> You're up for field surgery after this."
+"[english]faith.SeriousInjury1"		"<clr:178,34,34><B>Faith:<B> You're up for field surgery after this."
+"faith.SeriousInjury1"		"<clr:178,34,34><B>Faith:<B> Du är redo för fältoperation efter detta."
 
-		"[english]faith.StillBreathingReply0"		"<clr:178,34,34><B>Faith:<B> I got enough stitching without your encouragement."
-		"faith.StillBreathingReply0"		"<clr:178,34,34><B>Faith:<B> I got enough stitching without your encouragement."
+"[english]faith.StillBreathingReply0"		"<clr:178,34,34><B>Faith:<B> I got enough stitching without your encouragement."
+"faith.StillBreathingReply0"		"<clr:178,34,34><B>Faith:<B> Jag fick tillräckligt med sömmar utan din uppmuntran."
 
 "[english]faith.Use0"		"<clr:178,34,34><B>Faith:<B> Absolutely."
 "faith.Use0"		"<clr:178,34,34><B>Faith:<B> Absolut."
@@ -1799,38 +1799,38 @@
 "[english]faith.Idle0"		"<clr:178,34,34><B>Faith:<B> I don't like it down here."
 "faith.Idle0"		"<clr:178,34,34><B>Faith:<B> Jag gillar inte det här nere."
 
-		"[english]faith.Idle1"		"<clr:178,34,34><B>Faith:<B> I hope the civilians died quickly and without much pain."
-		"faith.Idle1"		"<clr:178,34,34><B>Faith:<B> I hope the civilians died quickly and without much pain."
+"[english]faith.Idle1"		"<clr:178,34,34><B>Faith:<B> I hope the civilians died quickly and without much pain."
+"faith.Idle1"		"<clr:178,34,34><B>Faith:<B> Jag hoppas att de civila dog snabbt och utan mycket smärta."
 
 "[english]faith.Idle2"		"<clr:178,34,34><B>Faith:<B> I hope we leave soon."
 "faith.Idle2"		"<clr:178,34,34><B>Faith:<B> Jag hoppas vi lämnar snart."
 
-		"[english]faith.Idle3"		"<clr:178,34,34><B>Faith:<B> I hope we pull through without too many injuries."
-		"faith.Idle3"		"<clr:178,34,34><B>Faith:<B> I hope we pull through without too many injuries."
+"[english]faith.Idle3"		"<clr:178,34,34><B>Faith:<B> I hope we pull through without too many injuries."
+"faith.Idle3"		"<clr:178,34,34><B>Faith:<B> Jag hoppas att vi klarar oss utan alltför många skador."
 
 "[english]faith.Idle4"		"<clr:178,34,34><B>Faith:<B> It's way too quiet."
 "faith.Idle4"		"<clr:178,34,34><B>Faith:<B> Det är alldelles för tyst."
 
-		"[english]faith.Idle5"		"<clr:178,34,34><B>Faith:<B> I wonder if there's any survivors."
-		"faith.Idle5"		"<clr:178,34,34><B>Faith:<B> I wonder if there's any survivors."
+"[english]faith.Idle5"		"<clr:178,34,34><B>Faith:<B> I wonder if there's any survivors."
+"faith.Idle5"		"<clr:178,34,34><B>Faith:<B> Jag undrar om det är några överlevande."
 
-		"[english]faith.Idle6"		"<clr:178,34,34><B>Faith:<B> I wonder if we run into any wounded."
-		"faith.Idle6"		"<clr:178,34,34><B>Faith:<B> I wonder if we run into any wounded."
+"[english]faith.Idle6"		"<clr:178,34,34><B>Faith:<B> I wonder if we run into any wounded."
+"faith.Idle6"		"<clr:178,34,34><B>Faith:<B> Jag undrar om vi springer på några skadade."
 
-		"[english]faith.Idle7"		"<clr:178,34,34><B>Faith:<B> This all seems like a horrible nightmare."
-		"faith.Idle7"		"<clr:178,34,34><B>Faith:<B> This all seems like a horrible nightmare."
+"[english]faith.Idle7"		"<clr:178,34,34><B>Faith:<B> This all seems like a horrible nightmare."
+"faith.Idle7"		"<clr:178,34,34><B>Faith:<B> Allt det här ser ut som en hemsk mardröm."
 
-		"[english]faith.Idle8"		"<clr:178,34,34><B>Faith:<B> This place isn't secure."
-		"faith.Idle8"		"<clr:178,34,34><B>Faith:<B> This place isn't secure."
+"[english]faith.Idle8"		"<clr:178,34,34><B>Faith:<B> This place isn't secure."
+"faith.Idle8"		"<clr:178,34,34><B>Faith:<B> Den här platsen är inte säker."
 
-		"[english]faith.Idle9"		"<clr:178,34,34><B>Faith:<B> Wait, I hear something."
-		"faith.Idle9"		"<clr:178,34,34><B>Faith:<B> Wait, I hear something."
+"[english]faith.Idle9"		"<clr:178,34,34><B>Faith:<B> Wait, I hear something."
+"faith.Idle9"		"<clr:178,34,34><B>Faith:<B> Vänta, jag hör något."
 
-		"[english]faith.Idle10"		"<clr:178,34,34><B>Faith:<B> Watch your backs down here."
-		"faith.Idle10"		"<clr:178,34,34><B>Faith:<B> Watch your backs down here."
+"[english]faith.Idle10"		"<clr:178,34,34><B>Faith:<B> Watch your backs down here."
+"faith.Idle10"		"<clr:178,34,34><B>Faith:<B> Håll koll bakom er där borta."
 
-		"[english]faith.FF0"		"<clr:178,34,34><B>Faith:<B> Friendly fire!"
-		"faith.FF0"		"<clr:178,34,34><B>Faith:<B> Friendly fire!"
+"[english]faith.FF0"		"<clr:178,34,34><B>Faith:<B> Friendly fire!"
+"faith.FF0"		"<clr:178,34,34><B>Faith:<B> Vänskapligeld!"
 
 "[english]faith.FF1"		"<clr:178,34,34><B>Faith:<B> Watch it!"
 "faith.FF1"		"<clr:178,34,34><B>Faith:<B> Se upp!"
@@ -1856,527 +1856,527 @@
 "[english]faith.FollowMe1"		"<clr:178,34,34><B>Faith:<B> Let's go!"
 "faith.FollowMe1"		"<clr:178,34,34><B>Faith:<B> Låt oss gå!"
 
-		"[english]faith.FollowMe2"		"<clr:178,34,34><B>Faith:<B> Let's move out!"
-		"faith.FollowMe2"		"<clr:178,34,34><B>Faith:<B> Let's move out!"
+"[english]faith.FollowMe2"		"<clr:178,34,34><B>Faith:<B> Let's move out!"
+"faith.FollowMe2"		"<clr:178,34,34><B>Faith:<B> Låt oss flytta ut!"
 
-		"[english]faith.FollowMe3"		"<clr:178,34,34><B>Faith:<B> Let's move out!"
-		"faith.FollowMe3"		"<clr:178,34,34><B>Faith:<B> Let's move out!"
+"[english]faith.FollowMe3"		"<clr:178,34,34><B>Faith:<B> Let's move out!"
+"faith.FollowMe3"		"<clr:178,34,34><B>Faith:<B> Låt oss flytta ut!"
 
-		"[english]faith.HoldPosition0"		"<clr:178,34,34><B>Faith:<B> Hold it."
-		"faith.HoldPosition0"		"<clr:178,34,34><B>Faith:<B> Hold it."
+"[english]faith.HoldPosition0"		"<clr:178,34,34><B>Faith:<B> Hold it."
+"faith.HoldPosition0"		"<clr:178,34,34><B>Faith:<B> Håll det."
 
-		"[english]faith.HoldPosition1"		"<clr:178,34,34><B>Faith:<B> Hold position."
-		"faith.HoldPosition1"		"<clr:178,34,34><B>Faith:<B> Hold position."
+"[english]faith.HoldPosition1"		"<clr:178,34,34><B>Faith:<B> Hold position."
+"faith.HoldPosition1"		"<clr:178,34,34><B>Faith:<B> Håll positionen."
 
-		"[english]faith.HoldPosition2"		"<clr:178,34,34><B>Faith:<B> Secure this area."
-		"faith.HoldPosition2"		"<clr:178,34,34><B>Faith:<B> Secure this area."
+"[english]faith.HoldPosition2"		"<clr:178,34,34><B>Faith:<B> Secure this area."
+"faith.HoldPosition2"		"<clr:178,34,34><B>Faith:<B> Säkra det här området."
 
-		"[english]faith.HoldPosition3"		"<clr:178,34,34><B>Faith:<B> Wait!"
-		"faith.HoldPosition3"		"<clr:178,34,34><B>Faith:<B> Wait!"
+"[english]faith.HoldPosition3"		"<clr:178,34,34><B>Faith:<B> Wait!"
+"faith.HoldPosition3"		"<clr:178,34,34><B>Faith:<B> Vänta!"
 
-		"[english]faith.HoldPosition4"		"<clr:178,34,34><B>Faith:<B> Wait here!"
-		"faith.HoldPosition4"		"<clr:178,34,34><B>Faith:<B> Wait here!"
+"[english]faith.HoldPosition4"		"<clr:178,34,34><B>Faith:<B> Wait here!"
+"faith.HoldPosition4"		"<clr:178,34,34><B>Faith:<B> Vänta här!"
 
-		"[english]faith.NeedAmmo0"		"<clr:178,34,34><B>Faith:<B> I need ammo."
-		"faith.NeedAmmo0"		"<clr:178,34,34><B>Faith:<B> I need ammo."
+"[english]faith.NeedAmmo0"		"<clr:178,34,34><B>Faith:<B> I need ammo."
+"faith.NeedAmmo0"		"<clr:178,34,34><B>Faith:<B> Jag behöver ammunition."
 
-		"[english]faith.NeedAmmo1"		"<clr:178,34,34><B>Faith:<B> Need ammo!"
-		"faith.NeedAmmo1"		"<clr:178,34,34><B>Faith:<B> Need ammo!"
+"[english]faith.NeedAmmo1"		"<clr:178,34,34><B>Faith:<B> Need ammo!"
+"faith.NeedAmmo1"		"<clr:178,34,34><B>Faith:<B> Behöver ammunition!"
 
-		"[english]faith.NoAmmo0"		"<clr:178,34,34><B>Faith:<B> No ammo!"
-		"faith.NoAmmo0"		"<clr:178,34,34><B>Faith:<B> No ammo!"
+"[english]faith.NoAmmo0"		"<clr:178,34,34><B>Faith:<B> No ammo!"
+"faith.NoAmmo0"		"<clr:178,34,34><B>Faith:<B> Ingen ammunition!"
 
-		"[english]faith.NoAmmo1"		"<clr:178,34,34><B>Faith:<B> Out of ammo!"
-		"faith.NoAmmo1"		"<clr:178,34,34><B>Faith:<B> Out of ammo!"
+"[english]faith.NoAmmo1"		"<clr:178,34,34><B>Faith:<B> Out of ammo!"
+"faith.NoAmmo1"		"<clr:178,34,34><B>Faith:<B> Slut på ammunition!"
 
-		"[english]faith.Medic0"		"<clr:178,34,34><B>Faith:<B> Medic!"
-		"faith.Medic0"		"<clr:178,34,34><B>Faith:<B> Medic!"
+"[english]faith.Medic0"		"<clr:178,34,34><B>Faith:<B> Medic!"
+"faith.Medic0"		"<clr:178,34,34><B>Faith:<B> Läkare!"
 
-		"[english]faith.Reloading0"		"<clr:178,34,34><B>Faith:<B> Lock and load!"
-		"faith.Reloading0"		"<clr:178,34,34><B>Faith:<B> Lock and load!"
+"[english]faith.Reloading0"		"<clr:178,34,34><B>Faith:<B> Lock and load!"
+"faith.Reloading0"		"<clr:178,34,34><B>Faith:<B> Laddat och klart!"
 
-		"[english]faith.Reloading1"		"<clr:178,34,34><B>Faith:<B> Reload!"
-		"faith.Reloading1"		"<clr:178,34,34><B>Faith:<B> Reload!"
+"[english]faith.Reloading1"		"<clr:178,34,34><B>Faith:<B> Reload!"
+"faith.Reloading1"		"<clr:178,34,34><B>Faith:<B> Ladda om!"
 
-		"[english]faith.Reloading2"		"<clr:178,34,34><B>Faith:<B> Reload, cover me!"
-		"faith.Reloading2"		"<clr:178,34,34><B>Faith:<B> Reload, cover me!"
+"[english]faith.Reloading2"		"<clr:178,34,34><B>Faith:<B> Reload, cover me!"
+"faith.Reloading2"		"<clr:178,34,34><B>Faith:<B> Laddar om, täck mig!"
 
-		"[english]faith.Reloading3"		"<clr:178,34,34><B>Faith:<B> Reloading!"
-		"faith.Reloading3"		"<clr:178,34,34><B>Faith:<B> Reloading!"
+"[english]faith.Reloading3"		"<clr:178,34,34><B>Faith:<B> Reloading!"
+"faith.Reloading3"		"<clr:178,34,34><B>Faith:<B> Laddar om!"
 
-		"[english]faith.SentryInPlace0"		"<clr:178,34,34><B>Faith:<B> Sentry assembled."
-		"faith.SentryInPlace0"		"<clr:178,34,34><B>Faith:<B> Sentry assembled."
+"[english]faith.SentryInPlace0"		"<clr:178,34,34><B>Faith:<B> Sentry assembled."
+"faith.SentryInPlace0"		"<clr:178,34,34><B>Faith:<B> Vaktgevär monterat."
 
-		"[english]faith.SentryInPlace1"		"<clr:178,34,34><B>Faith:<B> Sentry in place."
-		"faith.SentryInPlace1"		"<clr:178,34,34><B>Faith:<B> Sentry in place."
+"[english]faith.SentryInPlace1"		"<clr:178,34,34><B>Faith:<B> Sentry in place."
+"faith.SentryInPlace1"		"<clr:178,34,34><B>Faith:<B> Vaktgevär på plats."
 
-		"[english]faith.SentryInPlace2"		"<clr:178,34,34><B>Faith:<B> Sentry online."
-		"faith.SentryInPlace2"		"<clr:178,34,34><B>Faith:<B> Sentry online."
+"[english]faith.SentryInPlace2"		"<clr:178,34,34><B>Faith:<B> Sentry online."
+"faith.SentryInPlace2"		"<clr:178,34,34><B>Faith:<B> Vaktgevär online."
 
-		"[english]faith.Ammo0"		"<clr:178,34,34><B>Faith:<B> Ammo!"
-		"faith.Ammo0"		"<clr:178,34,34><B>Faith:<B> Ammo!"
+"[english]faith.Ammo0"		"<clr:178,34,34><B>Faith:<B> Ammo!"
+"faith.Ammo0"		"<clr:178,34,34><B>Faith:<B> Ammunition!"
 
-		"[english]faith.Ammo1"		"<clr:178,34,34><B>Faith:<B> Ammo!"
-		"faith.Ammo1"		"<clr:178,34,34><B>Faith:<B> Ammo!"
+"[english]faith.Ammo1"		"<clr:178,34,34><B>Faith:<B> Ammo!"
+"faith.Ammo1"		"<clr:178,34,34><B>Faith:<B> Ammunition!"
 
-		"[english]faith.Medkit0"		"<clr:178,34,34><B>Faith:<B> Medkit!"
-		"faith.Medkit0"		"<clr:178,34,34><B>Faith:<B> Medkit!"
+"[english]faith.Medkit0"		"<clr:178,34,34><B>Faith:<B> Medkit!"
+"faith.Medkit0"		"<clr:178,34,34><B>Faith:<B> Medkit!"
 
-		"[english]faith.Thanks0"		"<clr:178,34,34><B>Faith:<B> Appreciated."
-		"faith.Thanks0"		"<clr:178,34,34><B>Faith:<B> Appreciated."
+"[english]faith.Thanks0"		"<clr:178,34,34><B>Faith:<B> Appreciated."
+"faith.Thanks0"		"<clr:178,34,34><B>Faith:<B> Uppskattat."
 
-		"[english]faith.Thanks1"		"<clr:178,34,34><B>Faith:<B> I owe you one."
-		"faith.Thanks1"		"<clr:178,34,34><B>Faith:<B> I owe you one."
+"[english]faith.Thanks1"		"<clr:178,34,34><B>Faith:<B> I owe you one."
+"faith.Thanks1"		"<clr:178,34,34><B>Faith:<B> Jag är skyldig dig en."
 
-		"[english]faith.Thanks2"		"<clr:178,34,34><B>Faith:<B> Thanks."
-		"faith.Thanks2"		"<clr:178,34,34><B>Faith:<B> Thanks."
+"[english]faith.Thanks2"		"<clr:178,34,34><B>Faith:<B> Thanks."
+"faith.Thanks2"		"<clr:178,34,34><B>Faith:<B> Tack."
 
-		"[english]faith.Question0"		"<clr:178,34,34><B>Faith:<B> Huh?"
-		"faith.Question0"		"<clr:178,34,34><B>Faith:<B> Huh?"
+"[english]faith.Question0"		"<clr:178,34,34><B>Faith:<B> Huh?"
+"faith.Question0"		"<clr:178,34,34><B>Faith:<B> Huh?"
 
-		"[english]faith.Question1"		"<clr:178,34,34><B>Faith:<B> What?"
-		"faith.Question1"		"<clr:178,34,34><B>Faith:<B> What?"
+"[english]faith.Question1"		"<clr:178,34,34><B>Faith:<B> What?"
+"faith.Question1"		"<clr:178,34,34><B>Faith:<B> Va?"
 
-		"[english]faith.Question2"		"<clr:178,34,34><B>Faith:<B> What is it?"
-		"faith.Question2"		"<clr:178,34,34><B>Faith:<B> What is it?"
+"[english]faith.Question2"		"<clr:178,34,34><B>Faith:<B> What is it?"
+"faith.Question2"		"<clr:178,34,34><B>Faith:<B> Vad är det?"
 
-		"[english]faith.Question3"		"<clr:178,34,34><B>Faith:<B> What's up?"
-		"faith.Question3"		"<clr:178,34,34><B>Faith:<B> What's up?"
+"[english]faith.Question3"		"<clr:178,34,34><B>Faith:<B> What's up?"
+"faith.Question3"		"<clr:178,34,34><B>Faith:<B> Hur är läget?"
 
-		"[english]faith.CallSarge0"		"<clr:178,34,34><B>Faith:<B> Hey, Sarge."
-		"faith.CallSarge0"		"<clr:178,34,34><B>Faith:<B> Hey, Sarge."
+"[english]faith.CallSarge0"		"<clr:178,34,34><B>Faith:<B> Hey, Sarge."
+"faith.CallSarge0"		"<clr:178,34,34><B>Faith:<B> Hej, Sarge."
 
-		"[english]faith.CallSarge1"		"<clr:178,34,34><B>Faith:<B> Sarge."
-		"faith.CallSarge1"		"<clr:178,34,34><B>Faith:<B> Sarge."
+"[english]faith.CallSarge1"		"<clr:178,34,34><B>Faith:<B> Sarge."
+"faith.CallSarge1"		"<clr:178,34,34><B>Faith:<B> Sarge."
 
-		"[english]faith.CallJaeger0"		"<clr:178,34,34><B>Faith:<B> Hey, Jaeger."
-		"faith.CallJaeger0"		"<clr:178,34,34><B>Faith:<B> Hey, Jaeger."
+"[english]faith.CallJaeger0"		"<clr:178,34,34><B>Faith:<B> Hey, Jaeger."
+"faith.CallJaeger0"		"<clr:178,34,34><B>Faith:<B> Hej, Jaeger."
 
-		"[english]faith.CallJaeger1"		"<clr:178,34,34><B>Faith:<B> Jaeger."
-		"faith.CallJaeger1"		"<clr:178,34,34><B>Faith:<B> Jaeger."
+"[english]faith.CallJaeger1"		"<clr:178,34,34><B>Faith:<B> Jaeger."
+"faith.CallJaeger1"		"<clr:178,34,34><B>Faith:<B> Jaeger."
 
-		"[english]faith.CallWildcat0"		"<clr:178,34,34><B>Faith:<B> Hey, Wildcat."
-		"faith.CallWildcat0"		"<clr:178,34,34><B>Faith:<B> Hey, Wildcat."
+"[english]faith.CallWildcat0"		"<clr:178,34,34><B>Faith:<B> Hey, Wildcat."
+"faith.CallWildcat0"		"<clr:178,34,34><B>Faith:<B> Hej, Wildcat."
 
-		"[english]faith.CallWildcat1"		"<clr:178,34,34><B>Faith:<B> Wildcat."
-		"faith.CallWildcat1"		"<clr:178,34,34><B>Faith:<B> Wildcat."
+"[english]faith.CallWildcat1"		"<clr:178,34,34><B>Faith:<B> Wildcat."
+"faith.CallWildcat1"		"<clr:178,34,34><B>Faith:<B> Wildcat."
 
-		"[english]faith.CallWolfe0"		"<clr:178,34,34><B>Faith:<B> Hey, Wolfe."
-		"faith.CallWolfe0"		"<clr:178,34,34><B>Faith:<B> Hey, Wolfe."
+"[english]faith.CallWolfe0"		"<clr:178,34,34><B>Faith:<B> Hey, Wolfe."
+"faith.CallWolfe0"		"<clr:178,34,34><B>Faith:<B> Hej, Wolfe."
 
-		"[english]faith.CallWolfe1"		"<clr:178,34,34><B>Faith:<B> Wolfe."
-		"faith.CallWolfe1"		"<clr:178,34,34><B>Faith:<B> Wolfe."
+"[english]faith.CallWolfe1"		"<clr:178,34,34><B>Faith:<B> Wolfe."
+"faith.CallWolfe1"		"<clr:178,34,34><B>Faith:<B> Wolfe."
 
-		"[english]faith.CallBastille0"		"<clr:178,34,34><B>Faith:<B> Bastille."
-		"faith.CallBastille0"		"<clr:178,34,34><B>Faith:<B> Bastille."
+"[english]faith.CallBastille0"		"<clr:178,34,34><B>Faith:<B> Bastille."
+"faith.CallBastille0"		"<clr:178,34,34><B>Faith:<B> Bastille."
 
-		"[english]faith.CallBastille1"		"<clr:178,34,34><B>Faith:<B> Hey, Bastille."
-		"faith.CallBastille1"		"<clr:178,34,34><B>Faith:<B> Hey, Bastille."
+"[english]faith.CallBastille1"		"<clr:178,34,34><B>Faith:<B> Hey, Bastille."
+"faith.CallBastille1"		"<clr:178,34,34><B>Faith:<B> Hej, Bastille."
 
-		"[english]faith.CallCrash0"		"<clr:178,34,34><B>Faith:<B> Crash."
-		"faith.CallCrash0"		"<clr:178,34,34><B>Faith:<B> Crash."
+"[english]faith.CallCrash0"		"<clr:178,34,34><B>Faith:<B> Crash."
+"faith.CallCrash0"		"<clr:178,34,34><B>Faith:<B> Crash."
 
-		"[english]faith.CallCrash1"		"<clr:178,34,34><B>Faith:<B> Hey, Crash."
-		"faith.CallCrash1"		"<clr:178,34,34><B>Faith:<B> Hey, Crash."
+"[english]faith.CallCrash1"		"<clr:178,34,34><B>Faith:<B> Hey, Crash."
+"faith.CallCrash1"		"<clr:178,34,34><B>Faith:<B> Hej, Crash."
 
-		"[english]faith.CallFlynn0"		"<clr:178,34,34><B>Faith:<B> Flynn."
-		"faith.CallFlynn0"		"<clr:178,34,34><B>Faith:<B> Flynn."
+"[english]faith.CallFlynn0"		"<clr:178,34,34><B>Faith:<B> Flynn."
+"faith.CallFlynn0"		"<clr:178,34,34><B>Faith:<B> Flynn."
 
-		"[english]faith.CallFlynn1"		"<clr:178,34,34><B>Faith:<B> Hey, Flynn."
-		"faith.CallFlynn1"		"<clr:178,34,34><B>Faith:<B> Hey, Flynn."
+"[english]faith.CallFlynn1"		"<clr:178,34,34><B>Faith:<B> Hey, Flynn."
+"faith.CallFlynn1"		"<clr:178,34,34><B>Faith:<B> Hej, Flynn."
 
-		"[english]faith.CallVegas0"		"<clr:178,34,34><B>Faith:<B> Hey, Vegas."
-		"faith.CallVegas0"		"<clr:178,34,34><B>Faith:<B> Hey, Vegas."
+"[english]faith.CallVegas0"		"<clr:178,34,34><B>Faith:<B> Hey, Vegas."
+"faith.CallVegas0"		"<clr:178,34,34><B>Faith:<B> Hej, Vegas."
 
-		"[english]faith.CallVegas1"		"<clr:178,34,34><B>Faith:<B> Vegas."
-		"faith.CallVegas1"		"<clr:178,34,34><B>Faith:<B> Vegas."
+"[english]faith.CallVegas1"		"<clr:178,34,34><B>Faith:<B> Vegas."
+"faith.CallVegas1"		"<clr:178,34,34><B>Faith:<B> Vegas."
 
-		"[english]faith.SuppliesAmmo0"		"<clr:178,34,34><B>Faith:<B> Take what you need."
-		"faith.SuppliesAmmo0"		"<clr:178,34,34><B>Faith:<B> Take what you need."
+"[english]faith.SuppliesAmmo0"		"<clr:178,34,34><B>Faith:<B> Take what you need."
+"faith.SuppliesAmmo0"		"<clr:178,34,34><B>Faith:<B> Ta vad du behöver."
 
-		"[english]faith.SuppliesAmmo1"		"<clr:178,34,34><B>Faith:<B> Thank God, supplies!"
-		"faith.SuppliesAmmo1"		"<clr:178,34,34><B>Faith:<B> Thank God, supplies!"
+"[english]faith.SuppliesAmmo1"		"<clr:178,34,34><B>Faith:<B> Thank God, supplies!"
+"faith.SuppliesAmmo1"		"<clr:178,34,34><B>Faith:<B> Tack gode Gud, förnödenheter!"
 
-		"[english]faith.Supplies0"		"<clr:178,34,34><B>Faith:<B> Take what you need."
-		"faith.Supplies0"		"<clr:178,34,34><B>Faith:<B> Take what you need."
+"[english]faith.Supplies0"		"<clr:178,34,34><B>Faith:<B> Take what you need."
+"faith.Supplies0"		"<clr:178,34,34><B>Faith:<B> Ta vad du behöver."
 
-		"[english]faith.Supplies1"		"<clr:178,34,34><B>Faith:<B> Thank God, supplies."
-		"faith.Supplies1"		"<clr:178,34,34><B>Faith:<B> Thank God, supplies."
+"[english]faith.Supplies1"		"<clr:178,34,34><B>Faith:<B> Thank God, supplies."
+"faith.Supplies1"		"<clr:178,34,34><B>Faith:<B> Tack gode Gud, förnödenheter."
 
-		"[english]faith.LockedTerminalCrash0"		"<clr:178,34,34><B>Faith:<B> Crash, hack it!"
-		"faith.LockedTerminalCrash0"		"<clr:178,34,34><B>Faith:<B> Crash, hack it!"
+"[english]faith.LockedTerminalCrash0"		"<clr:178,34,34><B>Faith:<B> Crash, hack it!"
+"faith.LockedTerminalCrash0"		"<clr:178,34,34><B>Faith:<B> Crash, hacka den!"
 
-		"[english]faith.LockedTerminalFlynn0"		"<clr:178,34,34><B>Faith:<B> Flynn, hack it!"
-		"faith.LockedTerminalFlynn0"		"<clr:178,34,34><B>Faith:<B> Flynn, hack it!"
+"[english]faith.LockedTerminalFlynn0"		"<clr:178,34,34><B>Faith:<B> Flynn, hack it!"
+"faith.LockedTerminalFlynn0"		"<clr:178,34,34><B>Faith:<B> Flynn, hacka den!"
 
-		"[english]faith.LockedTerminalVegas0"		"<clr:178,34,34><B>Faith:<B> Vegas, hack it."
-		"faith.LockedTerminalVegas0"		"<clr:178,34,34><B>Faith:<B> Vegas, hack it."
+"[english]faith.LockedTerminalVegas0"		"<clr:178,34,34><B>Faith:<B> Vegas, hack it."
+"faith.LockedTerminalVegas0"		"<clr:178,34,34><B>Faith:<B> Vegas, hacka den."
 
-		"[english]faith.LockedTerminal0"		"<clr:178,34,34><B>Faith:<B> Damn it, access denied."
-		"faith.LockedTerminal0"		"<clr:178,34,34><B>Faith:<B> Damn it, access denied."
+"[english]faith.LockedTerminal0"		"<clr:178,34,34><B>Faith:<B> Damn it, access denied."
+"faith.LockedTerminal0"		"<clr:178,34,34><B>Faith:<B> Tusan, tillgång nekad."
 
-		"[english]faith.LockedTerminal1"		"<clr:178,34,34><B>Faith:<B> Damn it the terminal is secure."
-		"faith.LockedTerminal1"		"<clr:178,34,34><B>Faith:<B> Damn it the terminal is secure."
+"[english]faith.LockedTerminal1"		"<clr:178,34,34><B>Faith:<B> Damn it the terminal is secure."
+"faith.LockedTerminal1"		"<clr:178,34,34><B>Faith:<B> Tusan terminalen är säker."
 
-		"[english]faith.HoldingPosition0"		"<clr:178,34,34><B>Faith:<B> Covering area."
-		"faith.HoldingPosition0"		"<clr:178,34,34><B>Faith:<B> Covering area."
+"[english]faith.HoldingPosition0"		"<clr:178,34,34><B>Faith:<B> Covering area."
+"faith.HoldingPosition0"		"<clr:178,34,34><B>Faith:<B> Täcker området."
 
-		"[english]faith.HoldingPosition1"		"<clr:178,34,34><B>Faith:<B> Holding position."
-		"faith.HoldingPosition1"		"<clr:178,34,34><B>Faith:<B> Holding position."
+"[english]faith.HoldingPosition1"		"<clr:178,34,34><B>Faith:<B> Holding position."
+"faith.HoldingPosition1"		"<clr:178,34,34><B>Faith:<B> Håller positionen."
 
-		"[english]faith.HoldingPosition2"		"<clr:178,34,34><B>Faith:<B> Faith in position."
-		"faith.HoldingPosition2"		"<clr:178,34,34><B>Faith:<B> Faith in position."
+"[english]faith.HoldingPosition2"		"<clr:178,34,34><B>Faith:<B> Faith in position."
+"faith.HoldingPosition2"		"<clr:178,34,34><B>Faith:<B> Faith på plats."
 
-		"[english]faith.HoldingPosition3"		"<clr:178,34,34><B>Faith:<B> Securing area."
-		"faith.HoldingPosition3"		"<clr:178,34,34><B>Faith:<B> Securing area."
+"[english]faith.HoldingPosition3"		"<clr:178,34,34><B>Faith:<B> Securing area."
+"faith.HoldingPosition3"		"<clr:178,34,34><B>Faith:<B> Säkrar område."
 
-		"[english]faith.HoldingNorth0"		"<clr:178,34,34><B>Faith:<B> Covering north."
-		"faith.HoldingNorth0"		"<clr:178,34,34><B>Faith:<B> Covering north."
+"[english]faith.HoldingNorth0"		"<clr:178,34,34><B>Faith:<B> Covering north."
+"faith.HoldingNorth0"		"<clr:178,34,34><B>Faith:<B> Täcker norrut."
 
-		"[english]faith.HoldingNorth1"		"<clr:178,34,34><B>Faith:<B> Covering northside."
-		"faith.HoldingNorth1"		"<clr:178,34,34><B>Faith:<B> Covering northside."
+"[english]faith.HoldingNorth1"		"<clr:178,34,34><B>Faith:<B> Covering northside."
+"faith.HoldingNorth1"		"<clr:178,34,34><B>Faith:<B> Täcker norra sidan."
 
-		"[english]faith.HoldingNorth2"		"<clr:178,34,34><B>Faith:<B> Northside covered."
-		"faith.HoldingNorth2"		"<clr:178,34,34><B>Faith:<B> Northside covered."
+"[english]faith.HoldingNorth2"		"<clr:178,34,34><B>Faith:<B> Northside covered."
+"faith.HoldingNorth2"		"<clr:178,34,34><B>Faith:<B> Norra sidan säkrad."
 
-		"[english]faith.HoldingNorth3"		"<clr:178,34,34><B>Faith:<B> Northside in position."
-		"faith.HoldingNorth3"		"<clr:178,34,34><B>Faith:<B> Northside in position."
+"[english]faith.HoldingNorth3"		"<clr:178,34,34><B>Faith:<B> Northside in position."
+"faith.HoldingNorth3"		"<clr:178,34,34><B>Faith:<B> Norra sidan på plats."
 
-		"[english]faith.HoldingSouth0"		"<clr:178,34,34><B>Faith:<B> Covering south."
-		"faith.HoldingSouth0"		"<clr:178,34,34><B>Faith:<B> Covering south."
+"[english]faith.HoldingSouth0"		"<clr:178,34,34><B>Faith:<B> Covering south."
+"faith.HoldingSouth0"		"<clr:178,34,34><B>Faith:<B> Täcker söderut."
 
-		"[english]faith.HoldingSouth1"		"<clr:178,34,34><B>Faith:<B> Covering southside."
-		"faith.HoldingSouth1"		"<clr:178,34,34><B>Faith:<B> Covering southside."
+"[english]faith.HoldingSouth1"		"<clr:178,34,34><B>Faith:<B> Covering southside."
+"faith.HoldingSouth1"		"<clr:178,34,34><B>Faith:<B> Täcker södra sidan."
 
-		"[english]faith.HoldingSouth2"		"<clr:178,34,34><B>Faith:<B> Southside covered."
-		"faith.HoldingSouth2"		"<clr:178,34,34><B>Faith:<B> Southside covered."
+"[english]faith.HoldingSouth2"		"<clr:178,34,34><B>Faith:<B> Southside covered."
+"faith.HoldingSouth2"		"<clr:178,34,34><B>Faith:<B> Södra sidan säckrad."
 
-		"[english]faith.HoldingSouth3"		"<clr:178,34,34><B>Faith:<B> Southside in position."
-		"faith.HoldingSouth3"		"<clr:178,34,34><B>Faith:<B> Southside in position."
+"[english]faith.HoldingSouth3"		"<clr:178,34,34><B>Faith:<B> Southside in position."
+"faith.HoldingSouth3"		"<clr:178,34,34><B>Faith:<B> Södra sidan på plats."
 
-		"[english]faith.HoldingEast0"		"<clr:178,34,34><B>Faith:<B> Covering east."
-		"faith.HoldingEast0"		"<clr:178,34,34><B>Faith:<B> Covering east."
+"[english]faith.HoldingEast0"		"<clr:178,34,34><B>Faith:<B> Covering east."
+"faith.HoldingEast0"		"<clr:178,34,34><B>Faith:<B> Täcker österut."
 
-		"[english]faith.HoldingEast1"		"<clr:178,34,34><B>Faith:<B> Covering eastside."
-		"faith.HoldingEast1"		"<clr:178,34,34><B>Faith:<B> Covering eastside."
+"[english]faith.HoldingEast1"		"<clr:178,34,34><B>Faith:<B> Covering eastside."
+"faith.HoldingEast1"		"<clr:178,34,34><B>Faith:<B> Täcker östra sidan."
 
-		"[english]faith.HoldingEast2"		"<clr:178,34,34><B>Faith:<B> Eastside in position."
-		"faith.HoldingEast2"		"<clr:178,34,34><B>Faith:<B> Eastside in position."
+"[english]faith.HoldingEast2"		"<clr:178,34,34><B>Faith:<B> Eastside in position."
+"faith.HoldingEast2"		"<clr:178,34,34><B>Faith:<B> Östra sidan på plats."
 
-		"[english]faith.HoldingWest0"		"<clr:178,34,34><B>Faith:<B> Covering west."
-		"faith.HoldingWest0"		"<clr:178,34,34><B>Faith:<B> Covering west."
+"[english]faith.HoldingWest0"		"<clr:178,34,34><B>Faith:<B> Covering west."
+"faith.HoldingWest0"		"<clr:178,34,34><B>Faith:<B> Täcker västerut."
 
-		"[english]faith.HoldingWest1"		"<clr:178,34,34><B>Faith:<B> Covering westside."
-		"faith.HoldingWest1"		"<clr:178,34,34><B>Faith:<B> Covering westside."
+"[english]faith.HoldingWest1"		"<clr:178,34,34><B>Faith:<B> Covering westside."
+"faith.HoldingWest1"		"<clr:178,34,34><B>Faith:<B> Täcker västra sidan."
 
-		"[english]faith.HoldingWest2"		"<clr:178,34,34><B>Faith:<B> Westside in position."
-		"faith.HoldingWest2"		"<clr:178,34,34><B>Faith:<B> Westside in position."
+"[english]faith.HoldingWest2"		"<clr:178,34,34><B>Faith:<B> Westside in position."
+"faith.HoldingWest2"		"<clr:178,34,34><B>Faith:<B> Västra sidan på plats."
 
-		"[english]faith.GotPoint0"		"<clr:178,34,34><B>Faith:<B> Faith, taking the lead."
-		"faith.GotPoint0"		"<clr:178,34,34><B>Faith:<B> Faith, taking the lead."
+"[english]faith.GotPoint0"		"<clr:178,34,34><B>Faith:<B> Faith, taking the lead."
+"faith.GotPoint0"		"<clr:178,34,34><B>Faith:<B> Faith, tar ledningen."
 
-		"[english]faith.GotRear0"		"<clr:178,34,34><B>Faith:<B> Faith, taking rear guard."
-		"faith.GotRear0"		"<clr:178,34,34><B>Faith:<B> Faith, taking rear guard."
+"[english]faith.GotRear0"		"<clr:178,34,34><B>Faith:<B> Faith, taking rear guard."
+"faith.GotRear0"		"<clr:178,34,34><B>Faith:<B> Faith, tar bakvakt."
 
-		"[english]faith.GotRear1"		"<clr:178,34,34><B>Faith:<B> I'll watch the back."
-		"faith.GotRear1"		"<clr:178,34,34><B>Faith:<B> I'll watch the back."
+"[english]faith.GotRear1"		"<clr:178,34,34><B>Faith:<B> I'll watch the back."
+"faith.GotRear1"		"<clr:178,34,34><B>Faith:<B> Jag ska titta på baksidan."
 
-		"[english]faith.GotRear2"		"<clr:178,34,34><B>Faith:<B> I've got your back."
-		"faith.GotRear2"		"<clr:178,34,34><B>Faith:<B> I've got your back."
+"[english]faith.GotRear2"		"<clr:178,34,34><B>Faith:<B> I've got your back."
+"faith.GotRear2"		"<clr:178,34,34><B>Faith:<B> Jag har din rygg."
 
-		"[english]faith.RequestSealDoor0"		"<clr:178,34,34><B>Faith:<B> Quick, seal it!"
-		"faith.RequestSealDoor0"		"<clr:178,34,34><B>Faith:<B> Quick, seal it!"
+"[english]faith.RequestSealDoor0"		"<clr:178,34,34><B>Faith:<B> Quick, seal it!"
+"faith.RequestSealDoor0"		"<clr:178,34,34><B>Faith:<B> Snabbt, försegla den!"
 
-		"[english]faith.RequestSealDoor1"		"<clr:178,34,34><B>Faith:<B> Seal it up, keep us safe."
-		"faith.RequestSealDoor1"		"<clr:178,34,34><B>Faith:<B> Seal it up, keep us safe."
+"[english]faith.RequestSealDoor1"		"<clr:178,34,34><B>Faith:<B> Seal it up, keep us safe."
+"faith.RequestSealDoor1"		"<clr:178,34,34><B>Faith:<B> Försegla den, håll oss säkra."
 
-		"[english]faith.RequestSealDoor2"		"<clr:178,34,34><B>Faith:<B> Seal the door."
-		"faith.RequestSealDoor2"		"<clr:178,34,34><B>Faith:<B> Seal the door."
+"[english]faith.RequestSealDoor2"		"<clr:178,34,34><B>Faith:<B> Seal the door."
+"faith.RequestSealDoor2"		"<clr:178,34,34><B>Faith:<B> Försegla dörren."
 
-		"[english]faith.RequestCutDoor0"		"<clr:178,34,34><B>Faith:<B> Cut open the door."
-		"faith.RequestCutDoor0"		"<clr:178,34,34><B>Faith:<B> Cut open the door."
+"[english]faith.RequestCutDoor0"		"<clr:178,34,34><B>Faith:<B> Cut open the door."
+"faith.RequestCutDoor0"		"<clr:178,34,34><B>Faith:<B> Skär upp dörren."
 
-		"[english]faith.RequestCutDoor1"		"<clr:178,34,34><B>Faith:<B> Cut through."
-		"faith.RequestCutDoor1"		"<clr:178,34,34><B>Faith:<B> Cut through."
+"[english]faith.RequestCutDoor1"		"<clr:178,34,34><B>Faith:<B> Cut through."
+"faith.RequestCutDoor1"		"<clr:178,34,34><B>Faith:<B> Skär igenom."
 
-		"[english]faith.RequestCutDoor2"		"<clr:178,34,34><B>Faith:<B> Get this door open."
-		"faith.RequestCutDoor2"		"<clr:178,34,34><B>Faith:<B> Get this door open."
+"[english]faith.RequestCutDoor2"		"<clr:178,34,34><B>Faith:<B> Get this door open."
+"faith.RequestCutDoor2"		"<clr:178,34,34><B>Faith:<B> Få upp den här dörren."
 
-		"[english]faith.RequestShootDoor0"		"<clr:178,34,34><B>Faith:<B> Blast it down!"
-		"faith.RequestShootDoor0"		"<clr:178,34,34><B>Faith:<B> Blast it down!"
+"[english]faith.RequestShootDoor0"		"<clr:178,34,34><B>Faith:<B> Blast it down!"
+"faith.RequestShootDoor0"		"<clr:178,34,34><B>Faith:<B> Spräng ner den!"
 
-		"[english]faith.RequestShootDoor1"		"<clr:178,34,34><B>Faith:<B> Shoot it down!"
-		"faith.RequestShootDoor1"		"<clr:178,34,34><B>Faith:<B> Shoot it down!"
+"[english]faith.RequestShootDoor1"		"<clr:178,34,34><B>Faith:<B> Shoot it down!"
+"faith.RequestShootDoor1"		"<clr:178,34,34><B>Faith:<B> Skjut ner den!"
 
-		"[english]faith.CuttingDoor0"		"<clr:178,34,34><B>Faith:<B> Faith, cutting door."
-		"faith.CuttingDoor0"		"<clr:178,34,34><B>Faith:<B> Faith, cutting door."
+"[english]faith.CuttingDoor0"		"<clr:178,34,34><B>Faith:<B> Faith, cutting door."
+"faith.CuttingDoor0"		"<clr:178,34,34><B>Faith:<B> Faith, skär dörr."
 
-		"[english]faith.CuttingDoor1"		"<clr:178,34,34><B>Faith:<B> Ok, I'm cutting through."
-		"faith.CuttingDoor1"		"<clr:178,34,34><B>Faith:<B> Ok, I'm cutting through."
+"[english]faith.CuttingDoor1"		"<clr:178,34,34><B>Faith:<B> Ok, I'm cutting through."
+"faith.CuttingDoor1"		"<clr:178,34,34><B>Faith:<B> Okej, jag skär igenom."
 
-		"[english]faith.CuttingDoor2"		"<clr:178,34,34><B>Faith:<B> Stand back, I'm cutting through."
-		"faith.CuttingDoor2"		"<clr:178,34,34><B>Faith:<B> Stand back, I'm cutting through."
+"[english]faith.CuttingDoor2"		"<clr:178,34,34><B>Faith:<B> Stand back, I'm cutting through."
+"faith.CuttingDoor2"		"<clr:178,34,34><B>Faith:<B> Stå tillbaka, jag skär igenom."
 
-		"[english]faith.SealingDoor0"		"<clr:178,34,34><B>Faith:<B> I'll seal it up."
-		"faith.SealingDoor0"		"<clr:178,34,34><B>Faith:<B> I'll seal it up."
+"[english]faith.SealingDoor0"		"<clr:178,34,34><B>Faith:<B> I'll seal it up."
+"faith.SealingDoor0"		"<clr:178,34,34><B>Faith:<B> Jag förseglar den."
 
-		"[english]faith.SealingDoor1"		"<clr:178,34,34><B>Faith:<B> Okay, sealing door."
-		"faith.SealingDoor1"		"<clr:178,34,34><B>Faith:<B> Okay, sealing door."
+"[english]faith.SealingDoor1"		"<clr:178,34,34><B>Faith:<B> Okay, sealing door."
+"faith.SealingDoor1"		"<clr:178,34,34><B>Faith:<B> Okej, förseglar dörr."
 
-		"[english]faith.SealingDoor2"		"<clr:178,34,34><B>Faith:<B> Sealing door."
-		"faith.SealingDoor2"		"<clr:178,34,34><B>Faith:<B> Sealing door."
+"[english]faith.SealingDoor2"		"<clr:178,34,34><B>Faith:<B> Sealing door."
+"faith.SealingDoor2"		"<clr:178,34,34><B>Faith:<B> Förseglar dörr."
 
-		"[english]faith.Biomass0"		"<clr:178,34,34><B>Faith:<B> Biomass. We have to burn it."
-		"faith.Biomass0"		"<clr:178,34,34><B>Faith:<B> Biomass. We have to burn it."
+"[english]faith.Biomass0"		"<clr:178,34,34><B>Faith:<B> Biomass. We have to burn it."
+"faith.Biomass0"		"<clr:178,34,34><B>Faith:<B> Biomassa. Vi måste elda upp det."
 
-		"[english]faith.Biomass1"		"<clr:178,34,34><B>Faith:<B> Swarm biomass. It's highly flammable."
-		"faith.Biomass1"		"<clr:178,34,34><B>Faith:<B> Swarm biomass. It's highly flammable."
+"[english]faith.Biomass1"		"<clr:178,34,34><B>Faith:<B> Swarm biomass. It's highly flammable."
+"faith.Biomass1"		"<clr:178,34,34><B>Faith:<B> Svärm biomassa. Det är mycket brandfarligt."
 
-		"[english]faith.Biomass2"		"<clr:178,34,34><B>Faith:<B> Swarm biomass. It's living tissue."
-		"faith.Biomass2"		"<clr:178,34,34><B>Faith:<B> Swarm biomass. It's living tissue."
+"[english]faith.Biomass2"		"<clr:178,34,34><B>Faith:<B> Swarm biomass. It's living tissue."
+"faith.Biomass2"		"<clr:178,34,34><B>Faith:<B> Svärm biomassa. Det är levande vävnad."
 
-		"[english]faith.TimeToLeave0"		"<clr:178,34,34><B>Faith:<B> Job's done."
-		"faith.TimeToLeave0"		"<clr:178,34,34><B>Faith:<B> Job's done."
+"[english]faith.TimeToLeave0"		"<clr:178,34,34><B>Faith:<B> Job's done."
+"faith.TimeToLeave0"		"<clr:178,34,34><B>Faith:<B> Jobbet färdigt."
 
-		"[english]faith.TimeToLeave1"		"<clr:178,34,34><B>Faith:<B> Objectives complete, let's head to the exit."
-		"faith.TimeToLeave1"		"<clr:178,34,34><B>Faith:<B> Objectives complete, let's head to the exit."
+"[english]faith.TimeToLeave1"		"<clr:178,34,34><B>Faith:<B> Objectives complete, let's head to the exit."
+"faith.TimeToLeave1"		"<clr:178,34,34><B>Faith:<B> Målen klara, låt oss gå till utgången."
 
-		"[english]faith.TimeToLeave2"		"<clr:178,34,34><B>Faith:<B> We're done, let's get out of here."
-		"faith.TimeToLeave2"		"<clr:178,34,34><B>Faith:<B> We're done, let's get out of here."
+"[english]faith.TimeToLeave2"		"<clr:178,34,34><B>Faith:<B> We're done, let's get out of here."
+"faith.TimeToLeave2"		"<clr:178,34,34><B>Faith:<B> Vi är färdiga, låt oss ta oss ut härifrån."
 
-		"[english]faith.WatchOut0"		"<clr:178,34,34><B>Faith:<B> Careful."
-		"faith.WatchOut0"		"<clr:178,34,34><B>Faith:<B> Careful."
+"[english]faith.WatchOut0"		"<clr:178,34,34><B>Faith:<B> Careful."
+"faith.WatchOut0"		"<clr:178,34,34><B>Faith:<B> Försiktigt."
 
-		"[english]faith.WatchOut1"		"<clr:178,34,34><B>Faith:<B> Look out!"
-		"faith.WatchOut1"		"<clr:178,34,34><B>Faith:<B> Look out!"
+"[english]faith.WatchOut1"		"<clr:178,34,34><B>Faith:<B> Look out!"
+"faith.WatchOut1"		"<clr:178,34,34><B>Faith:<B> Se upp!"
 
-		"[english]faith.WatchOut2"		"<clr:178,34,34><B>Faith:<B> Watch out!"
-		"faith.WatchOut2"		"<clr:178,34,34><B>Faith:<B> Watch out!"
+"[english]faith.WatchOut2"		"<clr:178,34,34><B>Faith:<B> Watch out!"
+"faith.WatchOut2"		"<clr:178,34,34><B>Faith:<B> Se upp!"
 
-		"[english]faith.WatchOut3"		"<clr:178,34,34><B>Faith:<B> Watch yourself!"
-		"faith.WatchOut3"		"<clr:178,34,34><B>Faith:<B> Watch yourself!"
+"[english]faith.WatchOut3"		"<clr:178,34,34><B>Faith:<B> Watch yourself!"
+"faith.WatchOut3"		"<clr:178,34,34><B>Faith:<B> Akta dig!"
 
-		"[english]faith.Shieldbug0"		"<clr:178,34,34><B>Faith:<B> A shield bug! We have to kill it!"
-		"faith.Shieldbug0"		"<clr:178,34,34><B>Faith:<B> A shield bug! We have to kill it!"
+"[english]faith.Shieldbug0"		"<clr:178,34,34><B>Faith:<B> A shield bug! We have to kill it!"
+"faith.Shieldbug0"		"<clr:178,34,34><B>Faith:<B> En sköldbugg! Vi måste döda den"
 
-		"[english]faith.Shieldbug1"		"<clr:178,34,34><B>Faith:<B> Oh no, a shield bug!"
-		"faith.Shieldbug1"		"<clr:178,34,34><B>Faith:<B> Oh no, a shield bug!"
+"[english]faith.Shieldbug1"		"<clr:178,34,34><B>Faith:<B> Oh no, a shield bug!"
+"faith.Shieldbug1"		"<clr:178,34,34><B>Faith:<B> Åh nej, en sköldbugg!"
 
-		"[english]faith.Shieldbug2"		"<clr:178,34,34><B>Faith:<B> Watch out, a shield bug!"
-		"faith.Shieldbug2"		"<clr:178,34,34><B>Faith:<B> Watch out, a shield bug!"
+"[english]faith.Shieldbug2"		"<clr:178,34,34><B>Faith:<B> Watch out, a shield bug!"
+"faith.Shieldbug2"		"<clr:178,34,34><B>Faith:<B> Se upp, en sköldbugg!"
 
-		"[english]faith.ShieldbugHint0"		"<clr:178,34,34><B>Faith:<B> Get it from behind!"
-		"faith.ShieldbugHint0"		"<clr:178,34,34><B>Faith:<B> Get it from behind!"
+"[english]faith.ShieldbugHint0"		"<clr:178,34,34><B>Faith:<B> Get it from behind!"
+"faith.ShieldbugHint0"		"<clr:178,34,34><B>Faith:<B> Ta den bakifrån!"
 
-		"[english]faith.ShieldbugHint1"		"<clr:178,34,34><B>Faith:<B> It's weak from behind!"
-		"faith.ShieldbugHint1"		"<clr:178,34,34><B>Faith:<B> It's weak from behind!"
+"[english]faith.ShieldbugHint1"		"<clr:178,34,34><B>Faith:<B> It's weak from behind!"
+"faith.ShieldbugHint1"		"<clr:178,34,34><B>Faith:<B> Den är svag från baksidan!"
 
-		"[english]faith.Parasite0"		"<clr:178,34,34><B>Faith:<B> Careful, a parasite!"
-		"faith.Parasite0"		"<clr:178,34,34><B>Faith:<B> Careful, a parasite!"
+"[english]faith.Parasite0"		"<clr:178,34,34><B>Faith:<B> Careful, a parasite!"
+"faith.Parasite0"		"<clr:178,34,34><B>Faith:<B> Försiktigt, en parasit!"
 
-		"[english]faith.Parasite1"		"<clr:178,34,34><B>Faith:<B> Parasite!"
-		"faith.Parasite1"		"<clr:178,34,34><B>Faith:<B> Parasite!"
+"[english]faith.Parasite1"		"<clr:178,34,34><B>Faith:<B> Parasite!"
+"faith.Parasite1"		"<clr:178,34,34><B>Faith:<B> Parasit!"
 
-		"[english]faith.Parasite2"		"<clr:178,34,34><B>Faith:<B> Watch out, a parasite!"
-		"faith.Parasite2"		"<clr:178,34,34><B>Faith:<B> Watch out, a parasite!"
+"[english]faith.Parasite2"		"<clr:178,34,34><B>Faith:<B> Watch out, a parasite!"
+"faith.Parasite2"		"<clr:178,34,34><B>Faith:<B> Se upp, en parasit!!"
 
-		"[english]faith.BeenInfested0"		"<clr:178,34,34><B>Faith:<B> Get it off me!"
-		"faith.BeenInfested0"		"<clr:178,34,34><B>Faith:<B> Get it off me!"
+"[english]faith.BeenInfested0"		"<clr:178,34,34><B>Faith:<B> Get it off me!"
+"faith.BeenInfested0"		"<clr:178,34,34><B>Faith:<B> Få bort den från mig!"
 
-		"[english]faith.BeenInfested1"		"<clr:178,34,34><B>Faith:<B> Get it off me!"
-		"faith.BeenInfested1"		"<clr:178,34,34><B>Faith:<B> Get it off me!"
+"[english]faith.BeenInfested1"		"<clr:178,34,34><B>Faith:<B> Get it off me!"
+"faith.BeenInfested1"		"<clr:178,34,34><B>Faith:<B> Få bort den från mig!"
 
-		"[english]faith.BeenInfested2"		"<clr:178,34,34><B>Faith:<B> Help me!"
-		"faith.BeenInfested2"		"<clr:178,34,34><B>Faith:<B> Help me!"
+"[english]faith.BeenInfested2"		"<clr:178,34,34><B>Faith:<B> Help me!"
+"faith.BeenInfested2"		"<clr:178,34,34><B>Faith:<B> Hjälp mig!"
 
-		"[english]faith.BeenInfested3"		"<clr:178,34,34><B>Faith:<B> Get it off!"
-		"faith.BeenInfested3"		"<clr:178,34,34><B>Faith:<B> Get it off!"
+"[english]faith.BeenInfested3"		"<clr:178,34,34><B>Faith:<B> Get it off!"
+"faith.BeenInfested3"		"<clr:178,34,34><B>Faith:<B> Få bort den!"
 
-		"[english]faith.BeenInfested4"		"<clr:178,34,34><B>Faith:<B> No, I don't want this."
-		"faith.BeenInfested4"		"<clr:178,34,34><B>Faith:<B> No, I don't want this."
+"[english]faith.BeenInfested4"		"<clr:178,34,34><B>Faith:<B> No, I don't want this."
+"faith.BeenInfested4"		"<clr:178,34,34><B>Faith:<B> Nej, jag vill inte det här."
 
-		"[english]faith.SwarmEggs0"		"<clr:178,34,34><B>Faith:<B> Careful, swarm eggs."
-		"faith.SwarmEggs0"		"<clr:178,34,34><B>Faith:<B> Careful, swarm eggs."
+"[english]faith.SwarmEggs0"		"<clr:178,34,34><B>Faith:<B> Careful, swarm eggs."
+"faith.SwarmEggs0"		"<clr:178,34,34><B>Faith:<B> Försiktigt, svärm ägg."
 
-		"[english]faith.SwarmEggs1"		"<clr:178,34,34><B>Faith:<B> Swarm eggs!"
-		"faith.SwarmEggs1"		"<clr:178,34,34><B>Faith:<B> Swarm eggs!"
+"[english]faith.SwarmEggs1"		"<clr:178,34,34><B>Faith:<B> Swarm eggs!"
+"faith.SwarmEggs1"		"<clr:178,34,34><B>Faith:<B> Svärm ägg!"
 
-		"[english]faith.SwarmEggs2"		"<clr:178,34,34><B>Faith:<B> Watch out, parasite eggs!"
-		"faith.SwarmEggs2"		"<clr:178,34,34><B>Faith:<B> Watch out, parasite eggs!"
+"[english]faith.SwarmEggs2"		"<clr:178,34,34><B>Faith:<B> Watch out, parasite eggs!"
+"faith.SwarmEggs2"		"<clr:178,34,34><B>Faith:<B> Se upp, parasit ägg!"
 
-		"[english]faith.Grenade0"		"<clr:178,34,34><B>Faith:<B> Clear!"
-		"faith.Grenade0"		"<clr:178,34,34><B>Faith:<B> Clear!"
+"[english]faith.Grenade0"		"<clr:178,34,34><B>Faith:<B> Clear!"
+"faith.Grenade0"		"<clr:178,34,34><B>Faith:<B> Klart!"
 
-		"[english]faith.Grenade1"		"<clr:178,34,34><B>Faith:<B> Grenade!"
-		"faith.Grenade1"		"<clr:178,34,34><B>Faith:<B> Grenade!"
+"[english]faith.Grenade1"		"<clr:178,34,34><B>Faith:<B> Grenade!"
+"faith.Grenade1"		"<clr:178,34,34><B>Faith:<B> Granat!"
 
-		"[english]faith.AlienTooClose0"		"<clr:178,34,34><B>Faith:<B> Get it off!"
-		"faith.AlienTooClose0"		"<clr:178,34,34><B>Faith:<B> Get it off!"
+"[english]faith.AlienTooClose0"		"<clr:178,34,34><B>Faith:<B> Get it off!"
+"faith.AlienTooClose0"		"<clr:178,34,34><B>Faith:<B> Få bort den!"
 
-		"[english]faith.AlienTooClose1"		"<clr:178,34,34><B>Faith:<B> Help!"
-		"faith.AlienTooClose1"		"<clr:178,34,34><B>Faith:<B> Help!"
+"[english]faith.AlienTooClose1"		"<clr:178,34,34><B>Faith:<B> Help!"
+"faith.AlienTooClose1"		"<clr:178,34,34><B>Faith:<B> Hjälp!"
 
-		"[english]faith.AlienTooClose2"		"<clr:178,34,34><B>Faith:<B> Kill it!"
-		"faith.AlienTooClose2"		"<clr:178,34,34><B>Faith:<B> Kill it!"
+"[english]faith.AlienTooClose2"		"<clr:178,34,34><B>Faith:<B> Kill it!"
+"faith.AlienTooClose2"		"<clr:178,34,34><B>Faith:<B> Döda den!"
 
-		"[english]faith.MadFiring0"		"<clr:178,34,34><B>Faith:<B> Die!"
-		"faith.MadFiring0"		"<clr:178,34,34><B>Faith:<B> Die!"
+"[english]faith.MadFiring0"		"<clr:178,34,34><B>Faith:<B> Die!"
+"faith.MadFiring0"		"<clr:178,34,34><B>Faith:<B> Dö!"
 
-		"[english]faith.MadFiring1"		"<clr:178,34,34><B>Faith:<B> Do you like this?"
-		"faith.MadFiring1"		"<clr:178,34,34><B>Faith:<B> Do you like this?"
+"[english]faith.MadFiring1"		"<clr:178,34,34><B>Faith:<B> Do you like this?"
+"faith.MadFiring1"		"<clr:178,34,34><B>Faith:<B> Gillar du det här?"
 
-		"[english]faith.MadFiring2"		"<clr:178,34,34><B>Faith:<B> I'll kill you all!"
-		"faith.MadFiring2"		"<clr:178,34,34><B>Faith:<B> I'll kill you all!"
+"[english]faith.MadFiring2"		"<clr:178,34,34><B>Faith:<B> I'll kill you all!"
+"faith.MadFiring2"		"<clr:178,34,34><B>Faith:<B> Jag dödar er alla!"
 
-		"[english]faith.MadFiring3"		"<clr:178,34,34><B>Faith:<B> Payback's a bitch, ain't it?"
-		"faith.MadFiring3"		"<clr:178,34,34><B>Faith:<B> Payback's a bitch, ain't it?"
+"[english]faith.MadFiring3"		"<clr:178,34,34><B>Faith:<B> Payback's a bitch, ain't it?"
+"faith.MadFiring3"		"<clr:178,34,34><B>Faith:<B> Återbetalning är en jävel, eller hur??"
 
-		"[english]faith.BreachedDoor0"		"<clr:178,34,34><B>Faith:<B> Here they come!"
-		"faith.BreachedDoor0"		"<clr:178,34,34><B>Faith:<B> Here they come!"
+"[english]faith.BreachedDoor0"		"<clr:178,34,34><B>Faith:<B> Here they come!"
+"faith.BreachedDoor0"		"<clr:178,34,34><B>Faith:<B> Här kommer de!"
 
-		"[english]faith.BreachedDoor1"		"<clr:178,34,34><B>Faith:<B> They've breached the door!"
-		"faith.BreachedDoor1"		"<clr:178,34,34><B>Faith:<B> They've breached the door!"
+"[english]faith.BreachedDoor1"		"<clr:178,34,34><B>Faith:<B> They've breached the door!"
+"faith.BreachedDoor1"		"<clr:178,34,34><B>Faith:<B> De brutit sig igenom dörren!"
 
-		"[english]faith.MarineDown0"		"<clr:178,34,34><B>Faith:<B> Marine down!"
-		"faith.MarineDown0"		"<clr:178,34,34><B>Faith:<B> Marine down!"
+"[english]faith.MarineDown0"		"<clr:178,34,34><B>Faith:<B> Marine down!"
+"faith.MarineDown0"		"<clr:178,34,34><B>Faith:<B> Marinsoldat nere!"
 
-		"[english]faith.SmallPain0"		"<clr:178,34,34><B>Faith:<B> [Pain]"
-		"faith.SmallPain0"		"<clr:178,34,34><B>Faith:<B> [Pain]"
+"[english]faith.SmallPain0"		"<clr:178,34,34><B>Faith:<B> [Pain]"
+"faith.SmallPain0"		"<clr:178,34,34><B>Faith:<B> [Smärta]"
 
-		"[english]faith.SmallPain1"		"<clr:178,34,34><B>Faith:<B> [Pain]"
-		"faith.SmallPain1"		"<clr:178,34,34><B>Faith:<B> [Pain]"
+"[english]faith.SmallPain1"		"<clr:178,34,34><B>Faith:<B> [Pain]"
+"faith.SmallPain1"		"<clr:178,34,34><B>Faith:<B> [Smärta]"
 
-		"[english]faith.SmallPain2"		"<clr:178,34,34><B>Faith:<B> [Pain]"
-		"faith.SmallPain2"		"<clr:178,34,34><B>Faith:<B> [Pain]"
+"[english]faith.SmallPain2"		"<clr:178,34,34><B>Faith:<B> [Pain]"
+"faith.SmallPain2"		"<clr:178,34,34><B>Faith:<B> [Smärta]"
 
-		"[english]faith.SmallPain3"		"<clr:178,34,34><B>Faith:<B> [Pain]"
-		"faith.SmallPain3"		"<clr:178,34,34><B>Faith:<B> [Pain]"
+"[english]faith.SmallPain3"		"<clr:178,34,34><B>Faith:<B> [Pain]"
+"faith.SmallPain3"		"<clr:178,34,34><B>Faith:<B> [Smärta]"
 
-		"[english]faith.LargePain0"		"<clr:178,34,34><B>Faith:<B> [Pain]"
-		"faith.LargePain0"		"<clr:178,34,34><B>Faith:<B> [Pain]"
+"[english]faith.LargePain0"		"<clr:178,34,34><B>Faith:<B> [Pain]"
+"faith.LargePain0"		"<clr:178,34,34><B>Faith:<B> [Smärta]"
 
-		"[english]faith.LargePain1"		"<clr:178,34,34><B>Faith:<B> [Pain]"
-		"faith.LargePain1"		"<clr:178,34,34><B>Faith:<B> [Pain]"
+"[english]faith.LargePain1"		"<clr:178,34,34><B>Faith:<B> [Pain]"
+"faith.LargePain1"		"<clr:178,34,34><B>Faith:<B> [Smärta]"
 
-		"[english]faith.Dead0"		"<clr:178,34,34><B>Faith:<B> [Death]"
-		"faith.Dead0"		"<clr:178,34,34><B>Faith:<B> [Death]"
+"[english]faith.Dead0"		"<clr:178,34,34><B>Faith:<B> [Death]"
+"faith.Dead0"		"<clr:178,34,34><B>Faith:<B> [Död]"
 
-		"[english]faith.OnFire0"		"<clr:178,34,34><B>Faith:<B> [Pain]"
-		"faith.OnFire0"		"<clr:178,34,34><B>Faith:<B> [Pain]"
+"[english]faith.OnFire0"		"<clr:178,34,34><B>Faith:<B> [Pain]"
+"faith.OnFire0"		"<clr:178,34,34><B>Faith:<B> [Död]"
 
-		"[english]faith.OnFire1"		"<clr:178,34,34><B>Faith:<B> [Pain]"
-		"faith.OnFire1"		"<clr:178,34,34><B>Faith:<B> [Pain]"
+"[english]faith.OnFire1"		"<clr:178,34,34><B>Faith:<B> [Pain]"
+"faith.OnFire1"		"<clr:178,34,34><B>Faith:<B> [Död]"
 
-		"[english]faith.Healing0"		"<clr:178,34,34><B>Faith:<B> I can help."
-		"faith.Healing0"		"<clr:178,34,34><B>Faith:<B> I can help."
+"[english]faith.Healing0"		"<clr:178,34,34><B>Faith:<B> I can help."
+"faith.Healing0"		"<clr:178,34,34><B>Faith:<B> Jag kan hjälpa till."
 
-		"[english]faith.Healing1"		"<clr:178,34,34><B>Faith:<B> I don't think there's any permanent damage."
-		"faith.Healing1"		"<clr:178,34,34><B>Faith:<B> I don't think there's any permanent damage."
+"[english]faith.Healing1"		"<clr:178,34,34><B>Faith:<B> I don't think there's any permanent damage."
+"faith.Healing1"		"<clr:178,34,34><B>Faith:<B> Jag tror inte det är någon permanent skada."
 
-		"[english]faith.Healing2"		"<clr:178,34,34><B>Faith:<B> I'll fix you up."
-		"faith.Healing2"		"<clr:178,34,34><B>Faith:<B> I'll fix you up."
+"[english]faith.Healing2"		"<clr:178,34,34><B>Faith:<B> I'll fix you up."
+"faith.Healing2"		"<clr:178,34,34><B>Faith:<B> Jag fixar upp dig."
 
-		"[english]faith.Healing3"		"<clr:178,34,34><B>Faith:<B> Where does it hurt?"
-		"faith.Healing3"		"<clr:178,34,34><B>Faith:<B> Where does it hurt?"
+"[english]faith.Healing3"		"<clr:178,34,34><B>Faith:<B> Where does it hurt?"
+"faith.Healing3"		"<clr:178,34,34><B>Faith:<B> Vart gör det ont?"
 
-		"[english]faith.Healing4"		"<clr:178,34,34><B>Faith:<B> You'll be all right."
-		"faith.Healing4"		"<clr:178,34,34><B>Faith:<B> You'll be all right."
+"[english]faith.Healing4"		"<clr:178,34,34><B>Faith:<B> You'll be all right."
+"faith.Healing4"		"<clr:178,34,34><B>Faith:<B> Du kommer att klara dig."
 
-		"[english]faith.NoMeds0"		"<clr:178,34,34><B>Faith:<B> Ok, med-satchel's empty."
-		"faith.NoMeds0"		"<clr:178,34,34><B>Faith:<B> Ok, med-satchel's empty."
+"[english]faith.NoMeds0"		"<clr:178,34,34><B>Faith:<B> Ok, med-satchel's empty."
+"faith.NoMeds0"		"<clr:178,34,34><B>Faith:<B> Okej, medicin-väskan är tom."
 
-		"[english]faith.NoMeds1"		"<clr:178,34,34><B>Faith:<B> Out of meds."
-		"faith.NoMeds1"		"<clr:178,34,34><B>Faith:<B> Out of meds."
+"[english]faith.NoMeds1"		"<clr:178,34,34><B>Faith:<B> Out of meds."
+"faith.NoMeds1"		"<clr:178,34,34><B>Faith:<B> Slut på medicin."
 
-		"[english]faith.NoMeds2"		"<clr:178,34,34><B>Faith:<B> Out of meds. Try not to get hurt."
-		"faith.NoMeds2"		"<clr:178,34,34><B>Faith:<B> Out of meds. Try not to get hurt."
+"[english]faith.NoMeds2"		"<clr:178,34,34><B>Faith:<B> Out of meds. Try not to get hurt."
+"faith.NoMeds2"		"<clr:178,34,34><B>Faith:<B> Slut på medicin. Försök att inte skada er."
 
-		"[english]faith.NoMeds3"		"<clr:178,34,34><B>Faith:<B> That's it, no more meds."
-		"faith.NoMeds3"		"<clr:178,34,34><B>Faith:<B> That's it, no more meds."
+"[english]faith.NoMeds3"		"<clr:178,34,34><B>Faith:<B> That's it, no more meds."
+"faith.NoMeds3"		"<clr:178,34,34><B>Faith:<B> Det är det, inga fler mediciner."
 
-		"[english]faith.ActivateStims0"		"<clr:178,34,34><B>Faith:<B> Activate the stims."
-		"faith.ActivateStims0"		"<clr:178,34,34><B>Faith:<B> Activate the stims."
+"[english]faith.ActivateStims0"		"<clr:178,34,34><B>Faith:<B> Activate the stims."
+"faith.ActivateStims0"		"<clr:178,34,34><B>Faith:<B> Aktivera stimsen."
 
-		"[english]faith.ActivateStims1"		"<clr:178,34,34><B>Faith:<B> Stim now!"
-		"faith.ActivateStims1"		"<clr:178,34,34><B>Faith:<B> Stim now!"
+"[english]faith.ActivateStims1"		"<clr:178,34,34><B>Faith:<B> Stim now!"
+"faith.ActivateStims1"		"<clr:178,34,34><B>Faith:<B> Stim nu!"
 
-		"[english]faith.ActivateStims2"		"<clr:178,34,34><B>Faith:<B> Stimpack now!"
-		"faith.ActivateStims2"		"<clr:178,34,34><B>Faith:<B> Stimpack now!"
+"[english]faith.ActivateStims2"		"<clr:178,34,34><B>Faith:<B> Stimpack now!"
+"faith.ActivateStims2"		"<clr:178,34,34><B>Faith:<B> Stimpack nu!"
 
-		"[english]faith.Selection0"		"<clr:178,34,34><B>Faith:<B> Sir?"
-		"faith.Selection0"		"<clr:178,34,34><B>Faith:<B> Sir?"
+"[english]faith.Selection0"		"<clr:178,34,34><B>Faith:<B> Sir?"
+"faith.Selection0"		"<clr:178,34,34><B>Faith:<B> Sir?"
 
-		"[english]faith.Selection1"		"<clr:178,34,34><B>Faith:<B> What do you need?"
-		"faith.Selection1"		"<clr:178,34,34><B>Faith:<B> What do you need?"
+"[english]faith.Selection1"		"<clr:178,34,34><B>Faith:<B> What do you need?"
+"faith.Selection1"		"<clr:178,34,34><B>Faith:<B> Vad behöver du?"
 
-		"[english]faith.Selection2"		"<clr:178,34,34><B>Faith:<B> What is it, sir?"
-		"faith.Selection2"		"<clr:178,34,34><B>Faith:<B> What is it, sir?"
+"[english]faith.Selection2"		"<clr:178,34,34><B>Faith:<B> What is it, sir?"
+"faith.Selection2"		"<clr:178,34,34><B>Faith:<B> Vad är det, sir?"
 
-		"[english]faith.Selection3"		"<clr:178,34,34><B>Faith:<B> What is it sir?"
-		"faith.Selection3"		"<clr:178,34,34><B>Faith:<B> What is it sir?"
+"[english]faith.Selection3"		"<clr:178,34,34><B>Faith:<B> What is it sir?"
+"faith.Selection3"		"<clr:178,34,34><B>Faith:<B> Vad är det sir?"
 
-		"[english]faith.Selection4"		"<clr:178,34,34><B>Faith:<B> You need me?"
-		"faith.Selection4"		"<clr:178,34,34><B>Faith:<B> You need me?"
+"[english]faith.Selection4"		"<clr:178,34,34><B>Faith:<B> You need me?"
+"faith.Selection4"		"<clr:178,34,34><B>Faith:<B> Behöver du mig?"
 
-		"[english]faith.Selection5"		"<clr:178,34,34><B>Faith:<B> You need me?"
-		"faith.Selection5"		"<clr:178,34,34><B>Faith:<B> You need me?"
+"[english]faith.Selection5"		"<clr:178,34,34><B>Faith:<B> You need me?"
+"faith.Selection5"		"<clr:178,34,34><B>Faith:<B> Behöver du mig?"
 
-		// Jaeger
+// Jaeger
 
 
-		"[english]jaeger.WeatherReply0"		"<clr:198,226,255><B>Jaeger:<B> Yeah, reminds me of my last vacation."
-		"jaeger.WeatherReply0"		"<clr:198,226,255><B>Jaeger:<B> Yeah, reminds me of my last vacation."
+"[english]jaeger.WeatherReply0"		"<clr:198,226,255><B>Jaeger:<B> Yeah, reminds me of my last vacation."
+"jaeger.WeatherReply0"		"<clr:198,226,255><B>Jaeger:<B> Ja, påminner mig om min senaste semester."
 
-		"[english]jaeger.MedicComplainReply0"		"<clr:198,226,255><B>Jaeger:<B> It's not like I do it on purpose."
-		"jaeger.MedicComplainReply0"		"<clr:198,226,255><B>Jaeger:<B> It's not like I do it on purpose."
+"[english]jaeger.MedicComplainReply0"		"<clr:198,226,255><B>Jaeger:<B> It's not like I do it on purpose."
+"jaeger.MedicComplainReply0"		"<clr:198,226,255><B>Jaeger:<B> Det är inte direkt att jag gör det med flit."
 
-		"[english]jaeger.TequilaReply0"		"<clr:198,226,255><B>Jaeger:<B> I prefer a nice cold beer."
-		"jaeger.TequilaReply0"		"<clr:198,226,255><B>Jaeger:<B> I prefer a nice cold beer."
+"[english]jaeger.TequilaReply0"		"<clr:198,226,255><B>Jaeger:<B> I prefer a nice cold beer."
+"jaeger.TequilaReply0"		"<clr:198,226,255><B>Jaeger:<B> Jag föredrar en kall öl."
 
-		"[english]jaeger.CrashIdleReply0"		"<clr:198,226,255><B>Jaeger:<B> We're following orders."
-		"jaeger.CrashIdleReply0"		"<clr:198,226,255><B>Jaeger:<B> We're following orders."
+"[english]jaeger.CrashIdleReply0"		"<clr:198,226,255><B>Jaeger:<B> We're following orders."
+"jaeger.CrashIdleReply0"		"<clr:198,226,255><B>Jaeger:<B> Vi följer order."
 
-		"[english]jaeger.InjuredSelection0"		"<clr:198,226,255><B>Jaeger:<B> Never thought it would end like this."
-		"jaeger.InjuredSelection0"		"<clr:198,226,255><B>Jaeger:<B> Never thought it would end like this."
+"[english]jaeger.InjuredSelection0"		"<clr:198,226,255><B>Jaeger:<B> Never thought it would end like this."
+"jaeger.InjuredSelection0"		"<clr:198,226,255><B>Jaeger:<B> Trodde det inte skulle sluta så här."
 
-		"[english]jaeger.InjuredSelection1"		"<clr:198,226,255><B>Jaeger:<B> Not like this... not here."
-		"jaeger.InjuredSelection1"		"<clr:198,226,255><B>Jaeger:<B> Not like this... not here."
+"[english]jaeger.InjuredSelection1"		"<clr:198,226,255><B>Jaeger:<B> Not like this... not here."
+"jaeger.InjuredSelection1"		"<clr:198,226,255><B>Jaeger:<B> Inte så här... inte här."
 
-		"[english]jaeger.InjuredSelection2"		"<clr:198,226,255><B>Jaeger:<B> What is it?"
-		"jaeger.InjuredSelection2"		"<clr:198,226,255><B>Jaeger:<B> What is it?"
+"[english]jaeger.InjuredSelection2"		"<clr:198,226,255><B>Jaeger:<B> What is it?"
+"jaeger.InjuredSelection2"		"<clr:198,226,255><B>Jaeger:<B> Vad är det?"
 
-		"[english]jaeger.SeriousInjuryReply0"		"<clr:198,226,255><B>Jaeger:<B> Whatever you say."
-		"jaeger.SeriousInjuryReply0"		"<clr:198,226,255><B>Jaeger:<B> Whatever you say."
+"[english]jaeger.SeriousInjuryReply0"		"<clr:198,226,255><B>Jaeger:<B> Whatever you say."
+"jaeger.SeriousInjuryReply0"		"<clr:198,226,255><B>Jaeger:<B> Vad du än säger."
 
-		"[english]jaeger.StillBreathing0"		"<clr:198,226,255><B>Jaeger:<B> You guys still breathing?"
-		"jaeger.StillBreathing0"		"<clr:198,226,255><B>Jaeger:<B> You guys still breathing?"
+"[english]jaeger.StillBreathing0"		"<clr:198,226,255><B>Jaeger:<B> You guys still breathing?"
+"jaeger.StillBreathing0"		"<clr:198,226,255><B>Jaeger:<B> Andas ni fortfarande?"
 
-		"[english]jaeger.StillBreathingReply0"		"<clr:198,226,255><B>Jaeger:<B> [Laughter]"
-		"jaeger.StillBreathingReply0"		"<clr:198,226,255><B>Jaeger:<B> [Laughter]"
+"[english]jaeger.StillBreathingReply0"		"<clr:198,226,255><B>Jaeger:<B> [Laughter]"
+"jaeger.StillBreathingReply0"		"<clr:198,226,255><B>Jaeger:<B> [Skratt]"
 
-		"[english]jaeger.AutogunReply0"		"<clr:198,226,255><B>Jaeger:<B> That's the spirit."
-		"jaeger.AutogunReply0"		"<clr:198,226,255><B>Jaeger:<B> That's the spirit."
+"[english]jaeger.AutogunReply0"		"<clr:198,226,255><B>Jaeger:<B> That's the spirit."
+"jaeger.AutogunReply0"		"<clr:198,226,255><B>Jaeger:<B> Så ska det låta."
 
-		"[english]jaeger.Use0"		"<clr:198,226,255><B>Jaeger:<B> Okay."
-		"jaeger.Use0"		"<clr:198,226,255><B>Jaeger:<B> Okay."
+"[english]jaeger.Use0"		"<clr:198,226,255><B>Jaeger:<B> Okay."
+"jaeger.Use0"		"<clr:198,226,255><B>Jaeger:<B> Okej."
 
-		"[english]jaeger.Use1"		"<clr:198,226,255><B>Jaeger:<B> Yes."
-		"jaeger.Use1"		"<clr:198,226,255><B>Jaeger:<B> Yes."
+"[english]jaeger.Use1"		"<clr:198,226,255><B>Jaeger:<B> Yes."
+"jaeger.Use1"		"<clr:198,226,255><B>Jaeger:<B> Ja."
 
-		"[english]jaeger.Use2"		"<clr:198,226,255><B>Jaeger:<B> Yes, sir."
-		"jaeger.Use2"		"<clr:198,226,255><B>Jaeger:<B> Yes, sir."
+"[english]jaeger.Use2"		"<clr:198,226,255><B>Jaeger:<B> Yes, sir."
+"jaeger.Use2"		"<clr:198,226,255><B>Jaeger:<B> Ja, sir."
 
-		"[english]jaeger.Idle0"		"<clr:198,226,255><B>Jaeger:<B> Man, I hate the weather on this godforsaken rock."
-		"jaeger.Idle0"		"<clr:198,226,255><B>Jaeger:<B> Man, I hate the weather on this godforsaken rock."
+"[english]jaeger.Idle0"		"<clr:198,226,255><B>Jaeger:<B> Man, I hate the weather on this godforsaken rock."
+"jaeger.Idle0"		"<clr:198,226,255><B>Jaeger:<B> Jag hatar vädret på den här gudsförgätna stenen."
 
-		"[english]jaeger.Idle1"		"<clr:198,226,255><B>Jaeger:<B> I hope there's no parasites, I hate them the most."
-		"jaeger.Idle1"		"<clr:198,226,255><B>Jaeger:<B> I hope there's no parasites, I hate them the most."
+"[english]jaeger.Idle1"		"<clr:198,226,255><B>Jaeger:<B> I hope there's no parasites, I hate them the most."
+"jaeger.Idle1"		"<clr:198,226,255><B>Jaeger:<B> Jag hoppas att det inte finns några parasiter, jag hatar dem mest."
 
-		"[english]jaeger.Idle2"		"<clr:198,226,255><B>Jaeger:<B> All this fighting makes a Marine hungry."
-		"jaeger.Idle2"		"<clr:198,226,255><B>Jaeger:<B> All this fighting makes a Marine hungry."
+"[english]jaeger.Idle2"		"<clr:198,226,255><B>Jaeger:<B> All this fighting makes a Marine hungry."
+"jaeger.Idle2"		"<clr:198,226,255><B>Jaeger:<B> Alla dessa strider gör en marin hungrig."
 
-		"[english]jaeger.Idle3"		"<clr:198,226,255><B>Jaeger:<B> <I>Ich liebe diese Waffe."
-		"jaeger.Idle3"		"<clr:198,226,255><B>Jaeger:<B> <I>Ich liebe diese Waffe."
+"[english]jaeger.Idle3"		"<clr:198,226,255><B>Jaeger:<B> <I>Ich liebe diese Waffe."
+"jaeger.Idle3"		"<clr:198,226,255><B>Jaeger:<B> <I>Ich liebe diese Waffe."
 
 		"[english]jaeger.Idle4"		"<clr:198,226,255><B>Jaeger:<B> I wonder when Command will give us some new toys to play with."
 		"jaeger.Idle4"		"<clr:198,226,255><B>Jaeger:<B> I wonder when Command will give us some new toys to play with."
