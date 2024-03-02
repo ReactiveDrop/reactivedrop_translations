@@ -1,0 +1,13 @@
+GAME
+{
+// PDA belongs to ???
+
+// Inbox
+
+"MailFrom1"	"Från: Kärnvapenstridsspets"
+"MailDate1"	"Datum: 12/25/52"
+"MailSubject1"	"Ämne: Så oförskämt."
+"MailBody1A"	"Få människor får förmånen att hantera potenta sprängämnen som jag själv."
+"MailBody1B"	"Jag tänkte att de som gör det skulle ge sådan ammunition den respekt de förtjänar, och absolut inte bara lämna dem utan uppsikt. Det är åtminstone tills jag stötte på dig."
+"MailBody1C"	"Väldigt besviken."
+}
