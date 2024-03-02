@@ -1065,119 +1065,119 @@
 "[english]bastille.Selection4"		"<clr:205,127,50><B>Bastille:<B> Reporting."
 "bastille.Selection4"		"<clr:205,127,50><B>Bastille:<B> Rapporterar in."
 
-		// Crash
+// Crash
 
 
-		"[english]crash.SargeIdleReply0"		"<clr:238,180,34><B>Crash:<B> You really know how to make a squad feel safe, Sarge."
-		"crash.SargeIdleReply0"		"<clr:238,180,34><B>Crash:<B> You really know how to make a squad feel safe, Sarge."
+"[english]crash.SargeIdleReply0"		"<clr:238,180,34><B>Crash:<B> You really know how to make a squad feel safe, Sarge."
+"crash.SargeIdleReply0"		"<clr:238,180,34><B>Crash:<B> Du vet verkligen hur man gör att gruppen känner sig säkra, Sarge."
 
 
-		"[english]crash.SargeIdleReply1"		"<clr:238,180,34><B>Crash:<B> That mean you wanna go home now, Sarge?"
-		"crash.SargeIdleReply1"		"<clr:238,180,34><B>Crash:<B> That mean you wanna go home now, Sarge?"
+"[english]crash.SargeIdleReply1"		"<clr:238,180,34><B>Crash:<B> That mean you wanna go home now, Sarge?"
+"crash.SargeIdleReply1"		"<clr:238,180,34><B>Crash:<B> Betyder det att du vill gå hem nu, Sarge?"
 
-		"[english]crash.SynUpSpotted0"		"<clr:238,180,34><B>Crash:<B> Hey look, they got SynUp Cola, my favorite."
-		"crash.SynUpSpotted0"		"<clr:238,180,34><B>Crash:<B> Hey look, they got SynUp Cola, my favorite."
+"[english]crash.SynUpSpotted0"		"<clr:238,180,34><B>Crash:<B> Hey look, they got SynUp Cola, my favorite."
+"crash.SynUpSpotted0"		"<clr:238,180,34><B>Crash:<B> Hej titta, de har SynUp Kola, min favorit."
 
-		"[english]crash.BigAlienDeadReply0"		"<clr:238,180,34><B>Crash:<B> Reminds me of that last Commander."
-		"crash.BigAlienDeadReply0"		"<clr:238,180,34><B>Crash:<B> Reminds me of that last Commander."
+"[english]crash.BigAlienDeadReply0"		"<clr:238,180,34><B>Crash:<B> Reminds me of that last Commander."
+"crash.BigAlienDeadReply0"		"<clr:238,180,34><B>Crash:<B> Påminner mig om den föregående Befälhavaren."
 
-		"[english]crash.BigAlienDead0"		"<clr:238,180,34><B>Crash:<B> Is it dead?"
-		"crash.BigAlienDead0"		"<clr:238,180,34><B>Crash:<B> Is it dead?"
-
-
-		"[english]crash.CrashComplainReply0"		"<clr:238,180,34><B>Crash:<B> You're not helping!"
-		"crash.CrashComplainReply0"		"<clr:238,180,34><B>Crash:<B> You're not helping!"
-
-		"[english]crash.CrashComplain0"		"<clr:238,180,34><B>Crash:<B> I can't stand this place much longer."
-		"crash.CrashComplain0"		"<clr:238,180,34><B>Crash:<B> I can't stand this place much longer."
-
-		"[english]crash.MedicComplainReply0"		"<clr:238,180,34><B>Crash:<B> Well let's just blame it all on Crash, huh?"
-		"crash.MedicComplainReply0"		"<clr:238,180,34><B>Crash:<B> Well let's just blame it all on Crash, huh?"
+"[english]crash.BigAlienDead0"		"<clr:238,180,34><B>Crash:<B> Is it dead?"
+"crash.BigAlienDead0"		"<clr:238,180,34><B>Crash:<B> Är den död?"
 
 
-		"[english]crash.HealingCrashReply0"		"<clr:238,180,34><B>Crash:<B> Don't you believe in painkillers?"
-		"crash.HealingCrashReply0"		"<clr:238,180,34><B>Crash:<B> Don't you believe in painkillers?"
+"[english]crash.CrashComplainReply0"		"<clr:238,180,34><B>Crash:<B> You're not helping!"
+"crash.CrashComplainReply0"		"<clr:238,180,34><B>Crash:<B> Du hjälper inte!"
 
-		"[english]crash.TequilaReply0"		"<clr:238,180,34><B>Crash:<B> Ah hell yeah! Liquor and ladies!"
-		"crash.TequilaReply0"		"<clr:238,180,34><B>Crash:<B> Ah hell yeah! Liquor and ladies!"
+"[english]crash.CrashComplain0"		"<clr:238,180,34><B>Crash:<B> I can't stand this place much longer."
+"crash.CrashComplain0"		"<clr:238,180,34><B>Crash:<B> Jag står inte ut med detta ställe mycket längre."
 
-		"[english]crash.CrashIdle0"		"<clr:238,180,34><B>Crash:<B> Does anyone have any idea what we are doing here?"
-		"crash.CrashIdle0"		"<clr:238,180,34><B>Crash:<B> Does anyone have any idea what we are doing here?"
+"[english]crash.MedicComplainReply0"		"<clr:238,180,34><B>Crash:<B> Well let's just blame it all on Crash, huh?"
+"crash.MedicComplainReply0"		"<clr:238,180,34><B>Crash:<B> Låt oss bara skylla allt på Crash, huh?"
 
-		"[english]crash.InjuredSelection0"		"<clr:238,180,34><B>Crash:<B> Game over, man!"
-		"crash.InjuredSelection0"		"<clr:238,180,34><B>Crash:<B> Game over, man!"
 
-		"[english]crash.InjuredSelection1"		"<clr:238,180,34><B>Crash:<B> I didn't sign up for this!"
-		"crash.InjuredSelection1"		"<clr:238,180,34><B>Crash:<B> I didn't sign up for this!"
+"[english]crash.HealingCrashReply0"		"<clr:238,180,34><B>Crash:<B> Don't you believe in painkillers?"
+"crash.HealingCrashReply0"		"<clr:238,180,34><B>Crash:<B> Tror du inte på smärtstillande?"
 
-		"[english]crash.InjuredSelection4"		"<clr:238,180,34><B>Crash:<B> Sigma campaign wasn't this tough."
-		"crash.InjuredSelection4"		"<clr:238,180,34><B>Crash:<B> Sigma campaign wasn't this tough."
+"[english]crash.TequilaReply0"		"<clr:238,180,34><B>Crash:<B> Ah hell yeah! Liquor and ladies!"
+"crash.TequilaReply0"		"<clr:238,180,34><B>Crash:<B> Ah fan ja! Sprit och kvinnor!"
 
-		"[english]crash.SeriousInjuryReply0"		"<clr:238,180,34><B>Crash:<B> Whoo-dee-friggin--OW! God damn!"
-		"crash.SeriousInjuryReply0"		"<clr:238,180,34><B>Crash:<B> Whoo-dee-friggin--OW! God damn!"
+"[english]crash.CrashIdle0"		"<clr:238,180,34><B>Crash:<B> Does anyone have any idea what we are doing here?"
+"crash.CrashIdle0"		"<clr:238,180,34><B>Crash:<B> Har någon alls någon idè varför vi är här?"
 
-		"[english]crash.StillBreathingReply0"		"<clr:238,180,34><B>Crash:<B> Hell, I been holding my breath since we landed."
-		"crash.StillBreathingReply0"		"<clr:238,180,34><B>Crash:<B> Hell, I been holding my breath since we landed."
+"[english]crash.InjuredSelection0"		"<clr:238,180,34><B>Crash:<B> Game over, man!"
+"crash.InjuredSelection0"		"<clr:238,180,34><B>Crash:<B> Game over, mannen!"
 
-		"[english]crash.Use0"		"<clr:238,180,34><B>Crash:<B> I got skills."
-		"crash.Use0"		"<clr:238,180,34><B>Crash:<B> I got skills."
+"[english]crash.InjuredSelection1"		"<clr:238,180,34><B>Crash:<B> I didn't sign up for this!"
+"crash.InjuredSelection1"		"<clr:238,180,34><B>Crash:<B> Jag skrev inte upp till det här!"
 
-		"[english]crash.Use1"		"<clr:238,180,34><B>Crash:<B> No problem."
-		"crash.Use1"		"<clr:238,180,34><B>Crash:<B> No problem."
+"[english]crash.InjuredSelection4"		"<clr:238,180,34><B>Crash:<B> Sigma campaign wasn't this tough."
+"crash.InjuredSelection4"		"<clr:238,180,34><B>Crash:<B> Sigma-kampanjen var inte så tuff."
 
-		"[english]crash.Use2"		"<clr:238,180,34><B>Crash:<B> Uh huh."
-		"crash.Use2"		"<clr:238,180,34><B>Crash:<B> Uh huh."
+"[english]crash.SeriousInjuryReply0"		"<clr:238,180,34><B>Crash:<B> Whoo-dee-friggin--OW! God damn!"
+"crash.SeriousInjuryReply0"		"<clr:238,180,34><B>Crash:<B> Whoo-dee-friggin--OW! Helvete!"
 
-		"[english]crash.Use3"		"<clr:238,180,34><B>Crash:<B> You got it."
-		"crash.Use3"		"<clr:238,180,34><B>Crash:<B> You got it."
+"[english]crash.StillBreathingReply0"		"<clr:238,180,34><B>Crash:<B> Hell, I been holding my breath since we landed."
+"crash.StillBreathingReply0"		"<clr:238,180,34><B>Crash:<B> Jag har hållit andan sedan vi landade."
 
-		"[english]crash.Idle0"		"<clr:238,180,34><B>Crash:<B> This place is a mess."
-		"crash.Idle0"		"<clr:238,180,34><B>Crash:<B> This place is a mess."
+"[english]crash.Use0"		"<clr:238,180,34><B>Crash:<B> I got skills."
+"crash.Use0"		"<clr:238,180,34><B>Crash:<B> Jag har skicklighet."
 
-		"[english]crash.Idle1"		"<clr:238,180,34><B>Crash:<B> Can we go now? I'm due some more cryosleep."
-		"crash.Idle1"		"<clr:238,180,34><B>Crash:<B> Can we go now? I'm due some more cryosleep."
+"[english]crash.Use1"		"<clr:238,180,34><B>Crash:<B> No problem."
+"crash.Use1"		"<clr:238,180,34><B>Crash:<B> Inget problem."
 
-		"[english]crash.Idle2"		"<clr:238,180,34><B>Crash:<B> I'll bet the Command knew this place was crawling."
-		"crash.Idle2"		"<clr:238,180,34><B>Crash:<B> I'll bet the Command knew this place was crawling."
+"[english]crash.Use2"		"<clr:238,180,34><B>Crash:<B> Uh huh."
+"crash.Use2"		"<clr:238,180,34><B>Crash:<B> Uh huh."
 
-		"[english]crash.Idle3"		"<clr:238,180,34><B>Crash:<B> I shoulda stolen more money to put up with this shit."
-		"crash.Idle3"		"<clr:238,180,34><B>Crash:<B> I shoulda stolen more money to put up with this shit."
+"[english]crash.Use3"		"<clr:238,180,34><B>Crash:<B> You got it."
+"crash.Use3"		"<clr:238,180,34><B>Crash:<B> Du har det."
 
-		"[english]crash.Idle4"		"<clr:238,180,34><B>Crash:<B> I tell you what, you guys are lucky I'm here."
-		"crash.Idle4"		"<clr:238,180,34><B>Crash:<B> I tell you what, you guys are lucky I'm here."
+"[english]crash.Idle0"		"<clr:238,180,34><B>Crash:<B> This place is a mess."
+"crash.Idle0"		"<clr:238,180,34><B>Crash:<B> Den här platsen är en röra."
 
-		"[english]crash.Idle5"		"<clr:238,180,34><B>Crash:<B> Wow, this place has seen some action."
-		"crash.Idle5"		"<clr:238,180,34><B>Crash:<B> Wow, this place has seen some action."
+"[english]crash.Idle1"		"<clr:238,180,34><B>Crash:<B> Can we go now? I'm due some more cryosleep."
+"crash.Idle1"		"<clr:238,180,34><B>Crash:<B> Kan vi gå nu? Jag har lite mer tid för kryosömn."
 
-		"[english]crash.FF0"		"<clr:238,180,34><B>Crash:<B> Hey, I'm on your side!"
-		"crash.FF0"		"<clr:238,180,34><B>Crash:<B> Hey, I'm on your side!"
+"[english]crash.Idle2"		"<clr:238,180,34><B>Crash:<B> I'll bet the Command knew this place was crawling."
+"crash.Idle2"		"<clr:238,180,34><B>Crash:<B> Jag gissar att Kommandot visste den här platsen var krypande."
 
-		"[english]crash.FF1"		"<clr:238,180,34><B>Crash:<B> Watch your fire, damn it!"
-		"crash.FF1"		"<clr:238,180,34><B>Crash:<B> Watch your fire, damn it!"
+"[english]crash.Idle3"		"<clr:238,180,34><B>Crash:<B> I shoulda stolen more money to put up with this shit."
+"crash.Idle3"		"<clr:238,180,34><B>Crash:<B> Jag borde ha stulit mer pengar för att stå ut med den här skiten."
 
-		"[english]crash.FiringAtAlien0"		"<clr:238,180,34><B>Crash:<B> Covering fire!"
-		"crash.FiringAtAlien0"		"<clr:238,180,34><B>Crash:<B> Covering fire!"
+"[english]crash.Idle4"		"<clr:238,180,34><B>Crash:<B> I tell you what, you guys are lucky I'm here."
+"crash.Idle4"		"<clr:238,180,34><B>Crash:<B> Jag säger er vad, ni har tur att jag är här."
 
-		"[english]crash.FiringAtAlien1"		"<clr:238,180,34><B>Crash:<B> Heads up!"
-		"crash.FiringAtAlien1"		"<clr:238,180,34><B>Crash:<B> Heads up!"
+"[english]crash.Idle5"		"<clr:238,180,34><B>Crash:<B> Wow, this place has seen some action."
+"crash.Idle5"		"<clr:238,180,34><B>Crash:<B> Wow, det här stället har sett lite action."
 
-		"[english]crash.FiringAtAlien2"		"<clr:238,180,34><B>Crash:<B> Heads up!"
-		"crash.FiringAtAlien2"		"<clr:238,180,34><B>Crash:<B> Heads up!"
+"[english]crash.FF0"		"<clr:238,180,34><B>Crash:<B> Hey, I'm on your side!"
+"crash.FF0"		"<clr:238,180,34><B>Crash:<B> Hej, jag är på din sida!"
 
-		"[english]crash.FiringAtAlien3"		"<clr:238,180,34><B>Crash:<B> Hostiles!"
-		"crash.FiringAtAlien3"		"<clr:238,180,34><B>Crash:<B> Hostiles!"
+"[english]crash.FF1"		"<clr:238,180,34><B>Crash:<B> Watch your fire, damn it!"
+"crash.FF1"		"<clr:238,180,34><B>Crash:<B> Se upp vart du skjuter, helvete!"
 
-		"[english]crash.FiringAtAlien4"		"<clr:238,180,34><B>Crash:<B> Incoming!"
-		"crash.FiringAtAlien4"		"<clr:238,180,34><B>Crash:<B> Incoming!"
+"[english]crash.FiringAtAlien0"		"<clr:238,180,34><B>Crash:<B> Covering fire!"
+"crash.FiringAtAlien0"		"<clr:238,180,34><B>Crash:<B> Täckande eld!"
 
-		"[english]crash.FiringAtAlien5"		"<clr:238,180,34><B>Crash:<B> There's another one!"
-		"crash.FiringAtAlien5"		"<clr:238,180,34><B>Crash:<B> There's another one!"
+"[english]crash.FiringAtAlien1"		"<clr:238,180,34><B>Crash:<B> Heads up!"
+"crash.FiringAtAlien1"		"<clr:238,180,34><B>Crash:<B> Se upp!"
 
-		"[english]crash.FiringAtAlien6"		"<clr:238,180,34><B>Crash:<B> There! There!"
-		"crash.FiringAtAlien6"		"<clr:238,180,34><B>Crash:<B> There! There!"
+"[english]crash.FiringAtAlien2"		"<clr:238,180,34><B>Crash:<B> Heads up!"
+"crash.FiringAtAlien2"		"<clr:238,180,34><B>Crash:<B> Se upp!"
 
-		"[english]crash.FiringAtAlien7"		"<clr:238,180,34><B>Crash:<B> You want some?"
-		"crash.FiringAtAlien7"		"<clr:238,180,34><B>Crash:<B> You want some?"
+"[english]crash.FiringAtAlien3"		"<clr:238,180,34><B>Crash:<B> Hostiles!"
+"crash.FiringAtAlien3"		"<clr:238,180,34><B>Crash:<B> Fiender!"
+
+"[english]crash.FiringAtAlien4"		"<clr:238,180,34><B>Crash:<B> Incoming!"
+"crash.FiringAtAlien4"		"<clr:238,180,34><B>Crash:<B> Inkommande!"
+
+"[english]crash.FiringAtAlien5"		"<clr:238,180,34><B>Crash:<B> There's another one!"
+"crash.FiringAtAlien5"		"<clr:238,180,34><B>Crash:<B> Det är en till!"
+
+"[english]crash.FiringAtAlien6"		"<clr:238,180,34><B>Crash:<B> There! There!"
+"crash.FiringAtAlien6"		"<clr:238,180,34><B>Crash:<B> Där! Där!"
+
+"[english]crash.FiringAtAlien7"		"<clr:238,180,34><B>Crash:<B> You want some?"
+"crash.FiringAtAlien7"		"<clr:238,180,34><B>Crash:<B> Vill du ha lite?"
 
 "[english]crash.FollowMe0"		"<clr:238,180,34><B>Crash:<B> Follow me."
 "crash.FollowMe0"		"<clr:238,180,34><B>Crash:<B> Följ mig."
@@ -1311,146 +1311,146 @@
 "[english]crash.CallVegas1"		"<clr:238,180,34><B>Crash:<B> Vegas."
 "crash.CallVegas1"		"<clr:238,180,34><B>Crash:<B> Vegas."
 
-		"[english]crash.SuppliesAmmo0"		"<clr:238,180,34><B>Crash:<B> All right, a supply stash."
-		"crash.SuppliesAmmo0"		"<clr:238,180,34><B>Crash:<B> All right, a supply stash."
+"[english]crash.SuppliesAmmo0"		"<clr:238,180,34><B>Crash:<B> All right, a supply stash."
+"crash.SuppliesAmmo0"		"<clr:238,180,34><B>Crash:<B> Okej, en förnödenshetgömma."
 
-		"[english]crash.SuppliesAmmo1"		"<clr:238,180,34><B>Crash:<B> Looks like someone left us a gift."
-		"crash.SuppliesAmmo1"		"<clr:238,180,34><B>Crash:<B> Looks like someone left us a gift."
+"[english]crash.SuppliesAmmo1"		"<clr:238,180,34><B>Crash:<B> Looks like someone left us a gift."
+"crash.SuppliesAmmo1"		"<clr:238,180,34><B>Crash:<B> Ser ut som att någon lämnade oss en gåva."
 
-		"[english]crash.SuppliesAmmo2"		"<clr:238,180,34><B>Crash:<B> Oh yeah, that's what I like to see."
-		"crash.SuppliesAmmo2"		"<clr:238,180,34><B>Crash:<B> Oh yeah, that's what I like to see."
+"[english]crash.SuppliesAmmo2"		"<clr:238,180,34><B>Crash:<B> Oh yeah, that's what I like to see."
+"crash.SuppliesAmmo2"		"<clr:238,180,34><B>Crash:<B> Oh ja, det är vad jag gillar att se."
 
-		"[english]crash.Supplies0"		"<clr:238,180,34><B>Crash:<B> All right, a supply stash!"
-		"crash.Supplies0"		"<clr:238,180,34><B>Crash:<B> All right, a supply stash!"
+"[english]crash.Supplies0"		"<clr:238,180,34><B>Crash:<B> All right, a supply stash!"
+"crash.Supplies0"		"<clr:238,180,34><B>Crash:<B> Okej, en förnödenshetgömma!"
 
-		"[english]crash.Supplies1"		"<clr:238,180,34><B>Crash:<B> Looks like someone left us a gift."
-		"crash.Supplies1"		"<clr:238,180,34><B>Crash:<B> Looks like someone left us a gift."
+"[english]crash.Supplies1"		"<clr:238,180,34><B>Crash:<B> Looks like someone left us a gift."
+"crash.Supplies1"		"<clr:238,180,34><B>Crash:<B> Ser ut som att någon lämnade oss en gåva."
 
-		"[english]crash.Supplies2"		"<clr:238,180,34><B>Crash:<B> Oh yeah, that's what I like to see."
-		"crash.Supplies2"		"<clr:238,180,34><B>Crash:<B> Oh yeah, that's what I like to see."
+"[english]crash.Supplies2"		"<clr:238,180,34><B>Crash:<B> Oh yeah, that's what I like to see."
+"crash.Supplies2"		"<clr:238,180,34><B>Crash:<B> Oh ja, det är vad jag tycker om att se."
 
-		"[english]crash.HoldingPosition0"		"<clr:238,180,34><B>Crash:<B> Covering area."
-		"crash.HoldingPosition0"		"<clr:238,180,34><B>Crash:<B> Covering area."
+"[english]crash.HoldingPosition0"		"<clr:238,180,34><B>Crash:<B> Covering area."
+"crash.HoldingPosition0"		"<clr:238,180,34><B>Crash:<B> Täcker område."
 
-		"[english]crash.HoldingPosition1"		"<clr:238,180,34><B>Crash:<B> Holding position."
-		"crash.HoldingPosition1"		"<clr:238,180,34><B>Crash:<B> Holding position."
+"[english]crash.HoldingPosition1"		"<clr:238,180,34><B>Crash:<B> Holding position."
+"crash.HoldingPosition1"		"<clr:238,180,34><B>Crash:<B> Håller position."
 
-		"[english]crash.HoldingPosition2"		"<clr:238,180,34><B>Crash:<B> In position."
-		"crash.HoldingPosition2"		"<clr:238,180,34><B>Crash:<B> In position."
+"[english]crash.HoldingPosition2"		"<clr:238,180,34><B>Crash:<B> In position."
+"crash.HoldingPosition2"		"<clr:238,180,34><B>Crash:<B> På plats."
 
-		"[english]crash.HoldingPosition3"		"<clr:238,180,34><B>Crash:<B> Securing area."
-		"crash.HoldingPosition3"		"<clr:238,180,34><B>Crash:<B> Securing area."
+"[english]crash.HoldingPosition3"		"<clr:238,180,34><B>Crash:<B> Securing area."
+"crash.HoldingPosition3"		"<clr:238,180,34><B>Crash:<B> Säkrar område."
 
-		"[english]crash.HoldingNorth0"		"<clr:238,180,34><B>Crash:<B> Covering north."
-		"crash.HoldingNorth0"		"<clr:238,180,34><B>Crash:<B> Covering north."
+"[english]crash.HoldingNorth0"		"<clr:238,180,34><B>Crash:<B> Covering north."
+"crash.HoldingNorth0"		"<clr:238,180,34><B>Crash:<B> Täcker norrut."
 
-		"[english]crash.HoldingNorth1"		"<clr:238,180,34><B>Crash:<B> Covering northside."
-		"crash.HoldingNorth1"		"<clr:238,180,34><B>Crash:<B> Covering northside."
+"[english]crash.HoldingNorth1"		"<clr:238,180,34><B>Crash:<B> Covering northside."
+"crash.HoldingNorth1"		"<clr:238,180,34><B>Crash:<B> Täcker norra sidan."
 
-		"[english]crash.HoldingNorth2"		"<clr:238,180,34><B>Crash:<B> Northside, in position."
-		"crash.HoldingNorth2"		"<clr:238,180,34><B>Crash:<B> Northside, in position."
+"[english]crash.HoldingNorth2"		"<clr:238,180,34><B>Crash:<B> Northside, in position."
+"crash.HoldingNorth2"		"<clr:238,180,34><B>Crash:<B> Norra sidan på plats."
 
-		"[english]crash.HoldingNorth3"		"<clr:238,180,34><B>Crash:<B> Northside, standing to."
-		"crash.HoldingNorth3"		"<clr:238,180,34><B>Crash:<B> Northside, standing to."
+"[english]crash.HoldingNorth3"		"<clr:238,180,34><B>Crash:<B> Northside, standing to."
+"crash.HoldingNorth3"		"<clr:238,180,34><B>Crash:<B> Norra sidan står också."
 
-		"[english]crash.HoldingSouth0"		"<clr:238,180,34><B>Crash:<B> Covering south."
-		"crash.HoldingSouth0"		"<clr:238,180,34><B>Crash:<B> Covering south."
+"[english]crash.HoldingSouth0"		"<clr:238,180,34><B>Crash:<B> Covering south."
+"crash.HoldingSouth0"		"<clr:238,180,34><B>Crash:<B> Täcker söderut."
 
-		"[english]crash.HoldingSouth1"		"<clr:238,180,34><B>Crash:<B> Covering southside."
-		"crash.HoldingSouth1"		"<clr:238,180,34><B>Crash:<B> Covering southside."
+"[english]crash.HoldingSouth1"		"<clr:238,180,34><B>Crash:<B> Covering southside."
+"crash.HoldingSouth1"		"<clr:238,180,34><B>Crash:<B> Täcker södra sidan."
 
-		"[english]crash.HoldingSouth2"		"<clr:238,180,34><B>Crash:<B> Southside in position."
-		"crash.HoldingSouth2"		"<clr:238,180,34><B>Crash:<B> Southside in position."
+"[english]crash.HoldingSouth2"		"<clr:238,180,34><B>Crash:<B> Southside in position."
+"crash.HoldingSouth2"		"<clr:238,180,34><B>Crash:<B> Södra sidan på plats."
 
-		"[english]crash.HoldingEast0"		"<clr:238,180,34><B>Crash:<B> Covering east."
-		"crash.HoldingEast0"		"<clr:238,180,34><B>Crash:<B> Covering east."
+"[english]crash.HoldingEast0"		"<clr:238,180,34><B>Crash:<B> Covering east."
+"crash.HoldingEast0"		"<clr:238,180,34><B>Crash:<B> Täcker österut."
 
-		"[english]crash.HoldingEast1"		"<clr:238,180,34><B>Crash:<B> Covering eastside."
-		"crash.HoldingEast1"		"<clr:238,180,34><B>Crash:<B> Covering eastside."
+"[english]crash.HoldingEast1"		"<clr:238,180,34><B>Crash:<B> Covering eastside."
+"crash.HoldingEast1"		"<clr:238,180,34><B>Crash:<B> Täcker östra sidan."
 
-		"[english]crash.HoldingEast2"		"<clr:238,180,34><B>Crash:<B> Eastside in position."
-		"crash.HoldingEast2"		"<clr:238,180,34><B>Crash:<B> Eastside in position."
+"[english]crash.HoldingEast2"		"<clr:238,180,34><B>Crash:<B> Eastside in position."
+"crash.HoldingEast2"		"<clr:238,180,34><B>Crash:<B> Östra sidan på plats."
 
-		"[english]crash.HoldingEast3"		"<clr:238,180,34><B>Crash:<B> Eastside, standing to."
-		"crash.HoldingEast3"		"<clr:238,180,34><B>Crash:<B> Eastside, standing to."
+"[english]crash.HoldingEast3"		"<clr:238,180,34><B>Crash:<B> Eastside, standing to."
+"crash.HoldingEast3"		"<clr:238,180,34><B>Crash:<B> Östra sidan står också."
 
-		"[english]crash.HoldingWest0"		"<clr:238,180,34><B>Crash:<B> Covering west."
-		"crash.HoldingWest0"		"<clr:238,180,34><B>Crash:<B> Covering west."
+"[english]crash.HoldingWest0"		"<clr:238,180,34><B>Crash:<B> Covering west."
+"crash.HoldingWest0"		"<clr:238,180,34><B>Crash:<B> Täcker västerut."
 
-		"[english]crash.HoldingWest1"		"<clr:238,180,34><B>Crash:<B> Covering westside."
-		"crash.HoldingWest1"		"<clr:238,180,34><B>Crash:<B> Covering westside."
+"[english]crash.HoldingWest1"		"<clr:238,180,34><B>Crash:<B> Covering westside."
+"crash.HoldingWest1"		"<clr:238,180,34><B>Crash:<B> Täcker västra sidan."
 
-		"[english]crash.HoldingWest2"		"<clr:238,180,34><B>Crash:<B> Westside in position."
-		"crash.HoldingWest2"		"<clr:238,180,34><B>Crash:<B> Westside in position."
+"[english]crash.HoldingWest2"		"<clr:238,180,34><B>Crash:<B> Westside in position."
+"crash.HoldingWest2"		"<clr:238,180,34><B>Crash:<B> Västra sidan på plats."
 
-		"[english]crash.HoldingWest3"		"<clr:238,180,34><B>Crash:<B> Westside, standing to."
-		"crash.HoldingWest3"		"<clr:238,180,34><B>Crash:<B> Westside, standing to."
+"[english]crash.HoldingWest3"		"<clr:238,180,34><B>Crash:<B> Westside, standing to."
+"crash.HoldingWest3"		"<clr:238,180,34><B>Crash:<B> Västra sidan står också."
 
-		"[english]crash.GotPoint0"		"<clr:238,180,34><B>Crash:<B> Crash, taking point."
-		"crash.GotPoint0"		"<clr:238,180,34><B>Crash:<B> Crash, taking point."
+"[english]crash.GotPoint0"		"<clr:238,180,34><B>Crash:<B> Crash, taking point."
+"crash.GotPoint0"		"<clr:238,180,34><B>Crash:<B> Crash, tar punkten."
 
-		"[english]crash.GotRear0"		"<clr:238,180,34><B>Crash:<B> Crash taking rearguard."
-		"crash.GotRear0"		"<clr:238,180,34><B>Crash:<B> Crash taking rearguard."
+"[english]crash.GotRear0"		"<clr:238,180,34><B>Crash:<B> Crash taking rearguard."
+"crash.GotRear0"		"<clr:238,180,34><B>Crash:<B> Crash tar bakskydd."
 
-		"[english]crash.GotRear1"		"<clr:238,180,34><B>Crash:<B> I got your back."
-		"crash.GotRear1"		"<clr:238,180,34><B>Crash:<B> I got your back."
+"[english]crash.GotRear1"		"<clr:238,180,34><B>Crash:<B> I got your back."
+"crash.GotRear1"		"<clr:238,180,34><B>Crash:<B> Jag har din baksida."
 
-		"[english]crash.RequestSealDoor0"		"<clr:238,180,34><B>Crash:<B> Quick, seal the door!"
-		"crash.RequestSealDoor0"		"<clr:238,180,34><B>Crash:<B> Quick, seal the door!"
+"[english]crash.RequestSealDoor0"		"<clr:238,180,34><B>Crash:<B> Quick, seal the door!"
+"crash.RequestSealDoor0"		"<clr:238,180,34><B>Crash:<B> Snabbt, försegla dörren!"
 
-		"[english]crash.RequestSealDoor1"		"<clr:238,180,34><B>Crash:<B> Seal it up! We don't want these things getting in here."
-		"crash.RequestSealDoor1"		"<clr:238,180,34><B>Crash:<B> Seal it up! We don't want these things getting in here."
+"[english]crash.RequestSealDoor1"		"<clr:238,180,34><B>Crash:<B> Seal it up! We don't want these things getting in here."
+"crash.RequestSealDoor1"		"<clr:238,180,34><B>Crash:<B> Försegla den! Vi vill inte ha de där sakerna här inne."
 
-		"[english]crash.RequestSealDoor2"		"<clr:238,180,34><B>Crash:<B> Secure the door."
-		"crash.RequestSealDoor2"		"<clr:238,180,34><B>Crash:<B> Secure the door."
+"[english]crash.RequestSealDoor2"		"<clr:238,180,34><B>Crash:<B> Secure the door."
+"crash.RequestSealDoor2"		"<clr:238,180,34><B>Crash:<B> Säkra dörren."
 
-		"[english]crash.RequestCutDoor0"		"<clr:238,180,34><B>Crash:<B> Cut it open!"
-		"crash.RequestCutDoor0"		"<clr:238,180,34><B>Crash:<B> Cut it open!"
+"[english]crash.RequestCutDoor0"		"<clr:238,180,34><B>Crash:<B> Cut it open!"
+"crash.RequestCutDoor0"		"<clr:238,180,34><B>Crash:<B> Skär upp den!"
 
-		"[english]crash.RequestCutDoor1"		"<clr:238,180,34><B>Crash:<B> What're you waiting for? Get it open!"
-		"crash.RequestCutDoor1"		"<clr:238,180,34><B>Crash:<B> What're you waiting for? Get it open!"
+"[english]crash.RequestCutDoor1"		"<clr:238,180,34><B>Crash:<B> What're you waiting for? Get it open!"
+"crash.RequestCutDoor1"		"<clr:238,180,34><B>Crash:<B> Vad väntar du på? Öppna den!"
 
-		"[english]crash.RequestShootDoor0"		"<clr:238,180,34><B>Crash:<B> Oh yeah, let's blast this door to hell!"
-		"crash.RequestShootDoor0"		"<clr:238,180,34><B>Crash:<B> Oh yeah, let's blast this door to hell!"
+"[english]crash.RequestShootDoor0"		"<clr:238,180,34><B>Crash:<B> Oh yeah, let's blast this door to hell!"
+"crash.RequestShootDoor0"		"<clr:238,180,34><B>Crash:<B> Åh ja, låt oss spränga den här dörren till helvetet!"
 
-		"[english]crash.RequestShootDoor1"		"<clr:238,180,34><B>Crash:<B> Blast it open!"
-		"crash.RequestShootDoor1"		"<clr:238,180,34><B>Crash:<B> Blast it open!"
+"[english]crash.RequestShootDoor1"		"<clr:238,180,34><B>Crash:<B> Blast it open!"
+"crash.RequestShootDoor1"		"<clr:238,180,34><B>Crash:<B> Spräng upp den!"
 
-		"[english]crash.RequestShootDoor2"		"<clr:238,180,34><B>Crash:<B> Shoot it open!"
-		"crash.RequestShootDoor2"		"<clr:238,180,34><B>Crash:<B> Shoot it open!"
+"[english]crash.RequestShootDoor2"		"<clr:238,180,34><B>Crash:<B> Shoot it open!"
+"crash.RequestShootDoor2"		"<clr:238,180,34><B>Crash:<B> Skjut upp den!"
 
-		"[english]crash.CuttingDoor0"		"<clr:238,180,34><B>Crash:<B> Crash, cuttin door."
-		"crash.CuttingDoor0"		"<clr:238,180,34><B>Crash:<B> Crash, cuttin door."
+"[english]crash.CuttingDoor0"		"<clr:238,180,34><B>Crash:<B> Crash, cuttin door."
+"crash.CuttingDoor0"		"<clr:238,180,34><B>Crash:<B> Crash, skär dörren."
 
-		"[english]crash.CuttingDoor1"		"<clr:238,180,34><B>Crash:<B> Roger that. Cuttin door."
-		"crash.CuttingDoor1"		"<clr:238,180,34><B>Crash:<B> Roger that. Cuttin door."
+"[english]crash.CuttingDoor1"		"<clr:238,180,34><B>Crash:<B> Roger that. Cuttin door."
+"crash.CuttingDoor1"		"<clr:238,180,34><B>Crash:<B> Uppfattat. Skär dörr."
 
-		"[english]crash.SealingDoor0"		"<clr:238,180,34><B>Crash:<B> Crash, sealing door."
-		"crash.SealingDoor0"		"<clr:238,180,34><B>Crash:<B> Crash, sealing door."
+"[english]crash.SealingDoor0"		"<clr:238,180,34><B>Crash:<B> Crash, sealing door."
+"crash.SealingDoor0"		"<clr:238,180,34><B>Crash:<B> Crash, förseglar dörr."
 
-		"[english]crash.SealingDoor1"		"<clr:238,180,34><B>Crash:<B> Sealing door nice and tight."
-		"crash.SealingDoor1"		"<clr:238,180,34><B>Crash:<B> Sealing door nice and tight."
+"[english]crash.SealingDoor1"		"<clr:238,180,34><B>Crash:<B> Sealing door nice and tight."
+"crash.SealingDoor1"		"<clr:238,180,34><B>Crash:<B> Förseglar dörr fint och tight."
 
-		"[english]crash.Biomass0"		"<clr:238,180,34><B>Crash:<B> Swarm biomass--burn it all!"
-		"crash.Biomass0"		"<clr:238,180,34><B>Crash:<B> Swarm biomass--burn it all!"
+"[english]crash.Biomass0"		"<clr:238,180,34><B>Crash:<B> Swarm biomass--burn it all!"
+"crash.Biomass0"		"<clr:238,180,34><B>Crash:<B> Svärm biomassa--elda upp det!"
 
-		"[english]crash.Biomass1"		"<clr:238,180,34><B>Crash:<B> Biomass? Man, I hate this shit."
-		"crash.Biomass1"		"<clr:238,180,34><B>Crash:<B> Biomass? Man, I hate this shit."
+"[english]crash.Biomass1"		"<clr:238,180,34><B>Crash:<B> Biomass? Man, I hate this shit."
+"crash.Biomass1"		"<clr:238,180,34><B>Crash:<B> Biomassa? Jag hatar det här skitet."
 
-		"[english]crash.Biomass2"		"<clr:238,180,34><B>Crash:<B> Biocrap. What the hell is this stuff anyway?"
-		"crash.Biomass2"		"<clr:238,180,34><B>Crash:<B> Biocrap. What the hell is this stuff anyway?"
+"[english]crash.Biomass2"		"<clr:238,180,34><B>Crash:<B> Biocrap. What the hell is this stuff anyway?"
+"crash.Biomass2"		"<clr:238,180,34><B>Crash:<B> Bioskit. Vad i helvete är ens det här för något?"
 
-		"[english]crash.Biomass3"		"<clr:238,180,34><B>Crash:<B> Urgh, swarm biomass. Burn it!"
-		"crash.Biomass3"		"<clr:238,180,34><B>Crash:<B> Urgh, swarm biomass. Burn it!"
+"[english]crash.Biomass3"		"<clr:238,180,34><B>Crash:<B> Urgh, swarm biomass. Burn it!"
+"crash.Biomass3"		"<clr:238,180,34><B>Crash:<B> Urgh, svärm biomassa. Elda upp det!"
 
-		"[english]crash.TimeToLeave0"		"<clr:238,180,34><B>Crash:<B> Let's get out of here."
-		"crash.TimeToLeave0"		"<clr:238,180,34><B>Crash:<B> Let's get out of here."
+"[english]crash.TimeToLeave0"		"<clr:238,180,34><B>Crash:<B> Let's get out of here."
+"crash.TimeToLeave0"		"<clr:238,180,34><B>Crash:<B> Låt oss ta oss härifrån."
 
-		"[english]crash.TimeToLeave1"		"<clr:238,180,34><B>Crash:<B> Time to move on out."
-		"crash.TimeToLeave1"		"<clr:238,180,34><B>Crash:<B> Time to move on out."
+"[english]crash.TimeToLeave1"		"<clr:238,180,34><B>Crash:<B> Time to move on out."
+"crash.TimeToLeave1"		"<clr:238,180,34><B>Crash:<B> Dags att ta oss ut härifrån."
 
-		"[english]crash.TimeToLeave2"		"<clr:238,180,34><B>Crash:<B> Woohoo! Time to wave this place goodbye!"
-		"crash.TimeToLeave2"		"<clr:238,180,34><B>Crash:<B> Woohoo! Time to wave this place goodbye!"
+"[english]crash.TimeToLeave2"		"<clr:238,180,34><B>Crash:<B> Woohoo! Time to wave this place goodbye!"
+"crash.TimeToLeave2"		"<clr:238,180,34><B>Crash:<B> Woohoo! Dags att vinka hejdå till det här stället!"
 
 "[english]crash.WatchOut0"		"<clr:238,180,34><B>Crash:<B> Look out!"
 "crash.WatchOut0"		"<clr:238,180,34><B>Crash:<B> Se upp!"
@@ -1535,191 +1535,191 @@
 "[english]crash.MadFiring1"		"<clr:238,180,34><B>Crash:<B> Die, you son of a bitch!"
 "crash.MadFiring1"		"<clr:238,180,34><B>Crash:<B> Dö, din jävel!"
 
-		"[english]crash.MadFiring3"		"<clr:238,180,34><B>Crash:<B> You want some?"
-		"crash.MadFiring3"		"<clr:238,180,34><B>Crash:<B> You want some?"
+"[english]crash.MadFiring3"		"<clr:238,180,34><B>Crash:<B> You want some?"
+"crash.MadFiring3"		"<clr:238,180,34><B>Crash:<B> Vill du ha lite?"
 
-		"[english]crash.MadFiring4"		"<clr:238,180,34><B>Crash:<B> You want some?"
-		"crash.MadFiring4"		"<clr:238,180,34><B>Crash:<B> You want some?"
+"[english]crash.MadFiring4"		"<clr:238,180,34><B>Crash:<B> You want some?"
+"crash.MadFiring4"		"<clr:238,180,34><B>Crash:<B> Vill du ha lite?"
 
-		"[english]crash.BreachedDoor0"		"<clr:238,180,34><B>Crash:<B> They breached the door!"
-		"crash.BreachedDoor0"		"<clr:238,180,34><B>Crash:<B> They breached the door!"
+"[english]crash.BreachedDoor0"		"<clr:238,180,34><B>Crash:<B> They breached the door!"
+"crash.BreachedDoor0"		"<clr:238,180,34><B>Crash:<B> De har brutit igenom dörren!"
 
-		"[english]crash.BreachedDoor1"		"<clr:238,180,34><B>Crash:<B> They broke the door down!"
-		"crash.BreachedDoor1"		"<clr:238,180,34><B>Crash:<B> They broke the door down!"
+"[english]crash.BreachedDoor1"		"<clr:238,180,34><B>Crash:<B> They broke the door down!"
+"crash.BreachedDoor1"		"<clr:238,180,34><B>Crash:<B> De bröt ner dörren!"
 
-		"[english]crash.BreachedDoor2"		"<clr:238,180,34><B>Crash:<B> They're through the door!"
-		"crash.BreachedDoor2"		"<clr:238,180,34><B>Crash:<B> They're through the door!"
+"[english]crash.BreachedDoor2"		"<clr:238,180,34><B>Crash:<B> They're through the door!"
+"crash.BreachedDoor2"		"<clr:238,180,34><B>Crash:<B> De är igenom dörren!"
 
-		"[english]crash.MarineDown0"		"<clr:238,180,34><B>Crash:<B> Marine down!"
-		"crash.MarineDown0"		"<clr:238,180,34><B>Crash:<B> Marine down!"
+"[english]crash.MarineDown0"		"<clr:238,180,34><B>Crash:<B> Marine down!"
+"crash.MarineDown0"		"<clr:238,180,34><B>Crash:<B> Marinsoldat nere!"
 
-		"[english]crash.MarineDown1"		"<clr:238,180,34><B>Crash:<B> Shit, no!"
-		"crash.MarineDown1"		"<clr:238,180,34><B>Crash:<B> Shit, no!"
+"[english]crash.MarineDown1"		"<clr:238,180,34><B>Crash:<B> Shit, no!"
+"crash.MarineDown1"		"<clr:238,180,34><B>Crash:<B> Skit också, nej!"
 
-		"[english]crash.SmallPain0"		"<clr:238,180,34><B>Crash:<B> [Pain]"
-		"crash.SmallPain0"		"<clr:238,180,34><B>Crash:<B> [Pain]"
+"[english]crash.SmallPain0"		"<clr:238,180,34><B>Crash:<B> [Pain]"
+"crash.SmallPain0"		"<clr:238,180,34><B>Crash:<B> [Smärta]"
 
-		"[english]crash.SmallPain1"		"<clr:238,180,34><B>Crash:<B> [Pain]"
-		"crash.SmallPain1"		"<clr:238,180,34><B>Crash:<B> [Pain]"
+"[english]crash.SmallPain1"		"<clr:238,180,34><B>Crash:<B> [Pain]"
+"crash.SmallPain1"		"<clr:238,180,34><B>Crash:<B> [Smärta]"
 
-		"[english]crash.SmallPain2"		"<clr:238,180,34><B>Crash:<B> [Pain]"
-		"crash.SmallPain2"		"<clr:238,180,34><B>Crash:<B> [Pain]"
+"[english]crash.SmallPain2"		"<clr:238,180,34><B>Crash:<B> [Pain]"
+"crash.SmallPain2"		"<clr:238,180,34><B>Crash:<B> [Smärta]"
 
-		"[english]crash.SmallPain3"		"<clr:238,180,34><B>Crash:<B> [Pain]"
-		"crash.SmallPain3"		"<clr:238,180,34><B>Crash:<B> [Pain]"
+"[english]crash.SmallPain3"		"<clr:238,180,34><B>Crash:<B> [Pain]"
+"crash.SmallPain3"		"<clr:238,180,34><B>Crash:<B> [Smärta]"
 
-		"[english]crash.LargePain0"		"<clr:238,180,34><B>Crash:<B> [Pain]"
-		"crash.LargePain0"		"<clr:238,180,34><B>Crash:<B> [Pain]"
+"[english]crash.LargePain0"		"<clr:238,180,34><B>Crash:<B> [Pain]"
+"crash.LargePain0"		"<clr:238,180,34><B>Crash:<B> [Smärta]"
 
-		"[english]crash.LargePain1"		"<clr:238,180,34><B>Crash:<B> [Pain]"
-		"crash.LargePain1"		"<clr:238,180,34><B>Crash:<B> [Pain]"
+"[english]crash.LargePain1"		"<clr:238,180,34><B>Crash:<B> [Pain]"
+"crash.LargePain1"		"<clr:238,180,34><B>Crash:<B> [Smärta]"
 
-		"[english]crash.LargePain2"		"<clr:238,180,34><B>Crash:<B> [Pain]"
-		"crash.LargePain2"		"<clr:238,180,34><B>Crash:<B> [Pain]"
+"[english]crash.LargePain2"		"<clr:238,180,34><B>Crash:<B> [Pain]"
+"crash.LargePain2"		"<clr:238,180,34><B>Crash:<B> [Smärta]"
 
-		"[english]crash.LargePain3"		"<clr:238,180,34><B>Crash:<B> [Pain]"
-		"crash.LargePain3"		"<clr:238,180,34><B>Crash:<B> [Pain]"
+"[english]crash.LargePain3"		"<clr:238,180,34><B>Crash:<B> [Pain]"
+"crash.LargePain3"		"<clr:238,180,34><B>Crash:<B> [Smärta]"
 
-		"[english]crash.Dead0"		"<clr:238,180,34><B>Crash:<B> [Death]"
-		"crash.Dead0"		"<clr:238,180,34><B>Crash:<B> [Death]"
+"[english]crash.Dead0"		"<clr:238,180,34><B>Crash:<B> [Death]"
+"crash.Dead0"		"<clr:238,180,34><B>Crash:<B> [Död]"
 
-		"[english]crash.Dead1"		"<clr:238,180,34><B>Crash:<B> [Death]"
-		"crash.Dead1"		"<clr:238,180,34><B>Crash:<B> [Death]"
+"[english]crash.Dead1"		"<clr:238,180,34><B>Crash:<B> [Death]"
+"crash.Dead1"		"<clr:238,180,34><B>Crash:<B> [Död]"
 
-		"[english]crash.Dead2"		"<clr:238,180,34><B>Crash:<B> [Death]"
-		"crash.Dead2"		"<clr:238,180,34><B>Crash:<B> [Death]"
+"[english]crash.Dead2"		"<clr:238,180,34><B>Crash:<B> [Death]"
+"crash.Dead2"		"<clr:238,180,34><B>Crash:<B> [Död]"
 
-		"[english]crash.OnFire0"		"<clr:238,180,34><B>Crash:<B> [Screaming]"
-		"crash.OnFire0"		"<clr:238,180,34><B>Crash:<B> [Screaming]"
+"[english]crash.OnFire0"		"<clr:238,180,34><B>Crash:<B> [Screaming]"
+"crash.OnFire0"		"<clr:238,180,34><B>Crash:<B> [Skriker]"
 
-		"[english]crash.StartedHack0"		"<clr:238,180,34><B>Crash:<B> Hack in progress."
-		"crash.StartedHack0"		"<clr:238,180,34><B>Crash:<B> Hack in progress."
+"[english]crash.StartedHack0"		"<clr:238,180,34><B>Crash:<B> Hack in progress."
+"crash.StartedHack0"		"<clr:238,180,34><B>Crash:<B> Hack på gång."
 
-		"[english]crash.StartedHack1"		"<clr:238,180,34><B>Crash:<B> On it. Cover me."
-		"crash.StartedHack1"		"<clr:238,180,34><B>Crash:<B> On it. Cover me."
+"[english]crash.StartedHack1"		"<clr:238,180,34><B>Crash:<B> On it. Cover me."
+"crash.StartedHack1"		"<clr:238,180,34><B>Crash:<B> På det. Täck mig."
 
-		"[english]crash.StartedHack2"		"<clr:238,180,34><B>Crash:<B> I'm on it. Looks easy."
-		"crash.StartedHack2"		"<clr:238,180,34><B>Crash:<B> I'm on it. Looks easy."
+"[english]crash.StartedHack2"		"<clr:238,180,34><B>Crash:<B> I'm on it. Looks easy."
+"crash.StartedHack2"		"<clr:238,180,34><B>Crash:<B> Jag är på det. Ser enkelt ut."
 
-		"[english]crash.StartedHack3"		"<clr:238,180,34><B>Crash:<B> I'll have it open in no time."
-		"crash.StartedHack3"		"<clr:238,180,34><B>Crash:<B> I'll have it open in no time."
+"[english]crash.StartedHack3"		"<clr:238,180,34><B>Crash:<B> I'll have it open in no time."
+"crash.StartedHack3"		"<clr:238,180,34><B>Crash:<B> Jag öppnar den på nolltid."
 
-		"[english]crash.StartedHack4"		"<clr:238,180,34><B>Crash:<B> Time for me to work my magic."
-		"crash.StartedHack4"		"<clr:238,180,34><B>Crash:<B> Time for me to work my magic."
+"[english]crash.StartedHack4"		"<clr:238,180,34><B>Crash:<B> Time for me to work my magic."
+"crash.StartedHack4"		"<clr:238,180,34><B>Crash:<B> Dags för mig att göra min magi."
 
-		"[english]crash.StartedLongHack0"		"<clr:238,180,34><B>Crash:<B> Cover me, this is gonna take a while."
-		"crash.StartedLongHack0"		"<clr:238,180,34><B>Crash:<B> Cover me, this is gonna take a while."
+"[english]crash.StartedLongHack0"		"<clr:238,180,34><B>Crash:<B> Cover me, this is gonna take a while."
+"crash.StartedLongHack0"		"<clr:238,180,34><B>Crash:<B> Täck mig, det här kommer ta en stund."
 
-		"[english]crash.StartedLongHack1"		"<clr:238,180,34><B>Crash:<B> Got my back, right?"
-		"crash.StartedLongHack1"		"<clr:238,180,34><B>Crash:<B> Got my back, right?"
+"[english]crash.StartedLongHack1"		"<clr:238,180,34><B>Crash:<B> Got my back, right?"
+"crash.StartedLongHack1"		"<clr:238,180,34><B>Crash:<B> Du har min rygg, visst?"
 
-		"[english]crash.StartedLongHack2"		"<clr:238,180,34><B>Crash:<B> Hacking in progress."
-		"crash.StartedLongHack2"		"<clr:238,180,34><B>Crash:<B> Hacking in progress."
+"[english]crash.StartedLongHack2"		"<clr:238,180,34><B>Crash:<B> Hacking in progress."
+"crash.StartedLongHack2"		"<clr:238,180,34><B>Crash:<B> Hack på gång."
 
-		"[english]crash.StartedLongHack3"		"<clr:238,180,34><B>Crash:<B> On it. Cover me."
-		"crash.StartedLongHack3"		"<clr:238,180,34><B>Crash:<B> On it. Cover me."
+"[english]crash.StartedLongHack3"		"<clr:238,180,34><B>Crash:<B> On it. Cover me."
+"crash.StartedLongHack3"		"<clr:238,180,34><B>Crash:<B> På det. Täck mig."
 
-		"[english]crash.StartedLongHack4"		"<clr:238,180,34><B>Crash:<B> I'm on it. Looks easy."
-		"crash.StartedLongHack4"		"<clr:238,180,34><B>Crash:<B> I'm on it. Looks easy."
+"[english]crash.StartedLongHack4"		"<clr:238,180,34><B>Crash:<B> I'm on it. Looks easy."
+"crash.StartedLongHack4"		"<clr:238,180,34><B>Crash:<B> Jag är på det. Ser enkelt ut."
 
-		"[english]crash.StartedLongHack5"		"<clr:238,180,34><B>Crash:<B> Time for me to work my magic."
-		"crash.StartedLongHack5"		"<clr:238,180,34><B>Crash:<B> Time for me to work my magic."
+"[english]crash.StartedLongHack5"		"<clr:238,180,34><B>Crash:<B> Time for me to work my magic."
+"crash.StartedLongHack5"		"<clr:238,180,34><B>Crash:<B> Dags för mig att göra min magi."
 
-		"[english]crash.HalfwayHack0"		"<clr:238,180,34><B>Crash:<B> Come on, baby."
-		"crash.HalfwayHack0"		"<clr:238,180,34><B>Crash:<B> Come on, baby."
+"[english]crash.HalfwayHack0"		"<clr:238,180,34><B>Crash:<B> Come on, baby."
+"crash.HalfwayHack0"		"<clr:238,180,34><B>Crash:<B> Kom igen baby."
 
-		"[english]crash.HalfwayHack1"		"<clr:238,180,34><B>Crash:<B> Hack at 50 percent."
-		"crash.HalfwayHack1"		"<clr:238,180,34><B>Crash:<B> Hack at 50 percent."
+"[english]crash.HalfwayHack1"		"<clr:238,180,34><B>Crash:<B> Hack at 50 percent."
+"crash.HalfwayHack1"		"<clr:238,180,34><B>Crash:<B> Hack på 50 procent."
 
-		"[english]crash.HalfwayHack2"		"<clr:238,180,34><B>Crash:<B> Halfway there."
-		"crash.HalfwayHack2"		"<clr:238,180,34><B>Crash:<B> Halfway there."
+"[english]crash.HalfwayHack2"		"<clr:238,180,34><B>Crash:<B> Halfway there."
+"crash.HalfwayHack2"		"<clr:238,180,34><B>Crash:<B> Halvvägs där."
 
-		"[english]crash.HalfwayHack3"		"<clr:238,180,34><B>Crash:<B> Halfway through."
-		"crash.HalfwayHack3"		"<clr:238,180,34><B>Crash:<B> Halfway through."
+"[english]crash.HalfwayHack3"		"<clr:238,180,34><B>Crash:<B> Halfway through."
+"crash.HalfwayHack3"		"<clr:238,180,34><B>Crash:<B> Halvvägs igenom."
 
-		"[english]crash.FinishedHack0"		"<clr:238,180,34><B>Crash:<B> Got it."
-		"crash.FinishedHack0"		"<clr:238,180,34><B>Crash:<B> Got it."
+"[english]crash.FinishedHack0"		"<clr:238,180,34><B>Crash:<B> Got it."
+"crash.FinishedHack0"		"<clr:238,180,34><B>Crash:<B> Har det."
 
-		"[english]crash.FinishedHack1"		"<clr:238,180,34><B>Crash:<B> Hack complete!"
-		"crash.FinishedHack1"		"<clr:238,180,34><B>Crash:<B> Hack complete!"
+"[english]crash.FinishedHack1"		"<clr:238,180,34><B>Crash:<B> Hack complete!"
+"crash.FinishedHack1"		"<clr:238,180,34><B>Crash:<B> Hack färdigt!"
 
-		"[english]crash.FinishedHack2"		"<clr:238,180,34><B>Crash:<B> Hack it, crack it, and send it home!"
-		"crash.FinishedHack2"		"<clr:238,180,34><B>Crash:<B> Hack it, crack it, and send it home!"
+"[english]crash.FinishedHack2"		"<clr:238,180,34><B>Crash:<B> Hack it, crack it, and send it home!"
+"crash.FinishedHack2"		"<clr:238,180,34><B>Crash:<B> Hacka den, knäck den och skicka hem den!"
 
-		"[english]crash.FinishedHack3"		"<clr:238,180,34><B>Crash:<B> System violated."
-		"crash.FinishedHack3"		"<clr:238,180,34><B>Crash:<B> System violated."
+"[english]crash.FinishedHack3"		"<clr:238,180,34><B>Crash:<B> System violated."
+"crash.FinishedHack3"		"<clr:238,180,34><B>Crash:<B> Systemet har brutits."
 
-		"[english]crash.FinishedHack4"		"<clr:238,180,34><B>Crash:<B> Oh yeah, who's the man?"
-		"crash.FinishedHack4"		"<clr:238,180,34><B>Crash:<B> Oh yeah, who's the man?"
+"[english]crash.FinishedHack4"		"<clr:238,180,34><B>Crash:<B> Oh yeah, who's the man?"
+"crash.FinishedHack4"		"<clr:238,180,34><B>Crash:<B> Åh ja, vem är mannen?"
 
-		"[english]crash.FinishedHackButton0"		"<clr:238,180,34><B>Crash:<B> Got it."
-		"crash.FinishedHackButton0"		"<clr:238,180,34><B>Crash:<B> Got it."
+"[english]crash.FinishedHackButton0"		"<clr:238,180,34><B>Crash:<B> Got it."
+"crash.FinishedHackButton0"		"<clr:238,180,34><B>Crash:<B> Har det."
 
-		"[english]crash.FinishedHackButton1"		"<clr:238,180,34><B>Crash:<B> Hack complete."
-		"crash.FinishedHackButton1"		"<clr:238,180,34><B>Crash:<B> Hack complete."
+"[english]crash.FinishedHackButton1"		"<clr:238,180,34><B>Crash:<B> Hack complete."
+"crash.FinishedHackButton1"		"<clr:238,180,34><B>Crash:<B> Hack färdigt."
 
-		"[english]crash.FinishedHackButton2"		"<clr:238,180,34><B>Crash:<B> Hack it, crack it, and send it home!"
-		"crash.FinishedHackButton2"		"<clr:238,180,34><B>Crash:<B> Hack it, crack it, and send it home!"
+"[english]crash.FinishedHackButton2"		"<clr:238,180,34><B>Crash:<B> Hack it, crack it, and send it home!"
+"crash.FinishedHackButton2"		"<clr:238,180,34><B>Crash:<B> Hacka den, knäck den och skicka hem den!"
 
-		"[english]crash.FinishedHackButton3"		"<clr:238,180,34><B>Crash:<B> System violated."
-		"crash.FinishedHackButton3"		"<clr:238,180,34><B>Crash:<B> System violated."
+"[english]crash.FinishedHackButton3"		"<clr:238,180,34><B>Crash:<B> System violated."
+"crash.FinishedHackButton3"		"<clr:238,180,34><B>Crash:<B> Systemet har brutits."
 
-		"[english]crash.FinishedHackButton4"		"<clr:238,180,34><B>Crash:<B> Oh yeah, who's the man!"
-		"crash.FinishedHackButton4"		"<clr:238,180,34><B>Crash:<B> Oh yeah, who's the man!"
+"[english]crash.FinishedHackButton4"		"<clr:238,180,34><B>Crash:<B> Oh yeah, who's the man!"
+"crash.FinishedHackButton4"		"<clr:238,180,34><B>Crash:<B> Åh ja, vem är mannen!"
 
-		"[english]crash.Scanner0"		"<clr:238,180,34><B>Crash:<B> I got movement."
-		"crash.Scanner0"		"<clr:238,180,34><B>Crash:<B> I got movement."
+"[english]crash.Scanner0"		"<clr:238,180,34><B>Crash:<B> I got movement."
+"crash.Scanner0"		"<clr:238,180,34><B>Crash:<B> Jag har rörelse."
 
-		"[english]crash.Scanner1"		"<clr:238,180,34><B>Crash:<B> I got movement."
-		"crash.Scanner1"		"<clr:238,180,34><B>Crash:<B> I got movement."
+"[english]crash.Scanner1"		"<clr:238,180,34><B>Crash:<B> I got movement."
+"crash.Scanner1"		"<clr:238,180,34><B>Crash:<B> Jag har rörelse."
 
-		"[english]crash.Scanner2"		"<clr:238,180,34><B>Crash:<B> Scan's reading something."
-		"crash.Scanner2"		"<clr:238,180,34><B>Crash:<B> Scan's reading something."
+"[english]crash.Scanner2"		"<clr:238,180,34><B>Crash:<B> Scan's reading something."
+"crash.Scanner2"		"<clr:238,180,34><B>Crash:<B> Scannern läser av något."
 
-		"[english]crash.Scanner3"		"<clr:238,180,34><B>Crash:<B> Something's moving."
-		"crash.Scanner3"		"<clr:238,180,34><B>Crash:<B> Something's moving."
+"[english]crash.Scanner3"		"<clr:238,180,34><B>Crash:<B> Something's moving."
+"crash.Scanner3"		"<clr:238,180,34><B>Crash:<B> Något rör på sig."
 
-		"[english]crash.ScannerMultiple0"		"<clr:238,180,34><B>Crash:<B> Lots of signals, all around!"
-		"crash.ScannerMultiple0"		"<clr:238,180,34><B>Crash:<B> Lots of signals, all around!"
+"[english]crash.ScannerMultiple0"		"<clr:238,180,34><B>Crash:<B> Lots of signals, all around!"
+"crash.ScannerMultiple0"		"<clr:238,180,34><B>Crash:<B> Många signaler, runtom oss!"
 
-		"[english]crash.ScannerMultiple1"		"<clr:238,180,34><B>Crash:<B> Multiple signals!"
-		"crash.ScannerMultiple1"		"<clr:238,180,34><B>Crash:<B> Multiple signals!"
+"[english]crash.ScannerMultiple1"		"<clr:238,180,34><B>Crash:<B> Multiple signals!"
+"crash.ScannerMultiple1"		"<clr:238,180,34><B>Crash:<B> Många signaler!"
 
-		"[english]crash.ScannerMultiple2"		"<clr:238,180,34><B>Crash:<B> They're coming from all around!"
-		"crash.ScannerMultiple2"		"<clr:238,180,34><B>Crash:<B> They're coming from all around!"
+"[english]crash.ScannerMultiple2"		"<clr:238,180,34><B>Crash:<B> They're coming from all around!"
+"crash.ScannerMultiple2"		"<clr:238,180,34><B>Crash:<B> De kommer från alla håll!"
 
-		"[english]crash.ScannerMultiple3"		"<clr:238,180,34><B>Crash:<B> They're all around us!"
-		"crash.ScannerMultiple3"		"<clr:238,180,34><B>Crash:<B> They're all around us!"
+"[english]crash.ScannerMultiple3"		"<clr:238,180,34><B>Crash:<B> They're all around us!"
+"crash.ScannerMultiple3"		"<clr:238,180,34><B>Crash:<B> De finns runt omkring oss!"
 
-		"[english]crash.ActivateStims0"		"<clr:238,180,34><B>Crash:<B> Hit the stims!"
-		"crash.ActivateStims0"		"<clr:238,180,34><B>Crash:<B> Hit the stims!"
+"[english]crash.ActivateStims0"		"<clr:238,180,34><B>Crash:<B> Hit the stims!"
+"crash.ActivateStims0"		"<clr:238,180,34><B>Crash:<B> Slå stims!"
 
-		"[english]crash.ActivateStims1"		"<clr:238,180,34><B>Crash:<B> Stim now!"
-		"crash.ActivateStims1"		"<clr:238,180,34><B>Crash:<B> Stim now!"
+"[english]crash.ActivateStims1"		"<clr:238,180,34><B>Crash:<B> Stim now!"
+"crash.ActivateStims1"		"<clr:238,180,34><B>Crash:<B> Stim nu!"
 
-		"[english]crash.ActivateStims2"		"<clr:238,180,34><B>Crash:<B> Stimpack!"
-		"crash.ActivateStims2"		"<clr:238,180,34><B>Crash:<B> Stimpack!"
+"[english]crash.ActivateStims2"		"<clr:238,180,34><B>Crash:<B> Stimpack!"
+"crash.ActivateStims2"		"<clr:238,180,34><B>Crash:<B> Stimpacket!"
 
-		"[english]crash.ActivateStims3"		"<clr:238,180,34><B>Crash:<B> Stims!"
-		"crash.ActivateStims3"		"<clr:238,180,34><B>Crash:<B> Stims!"
+"[english]crash.ActivateStims3"		"<clr:238,180,34><B>Crash:<B> Stims!"
+"crash.ActivateStims3"		"<clr:238,180,34><B>Crash:<B> Stims!"
 
-		"[english]crash.Compliments0"		"<clr:238,180,34><B>Crash:<B> Not bad."
-		"crash.Compliments0"		"<clr:238,180,34><B>Crash:<B> Not bad."
+"[english]crash.Compliments0"		"<clr:238,180,34><B>Crash:<B> Not bad."
+"crash.Compliments0"		"<clr:238,180,34><B>Crash:<B> Inte dåligt."
 
-		"[english]crash.Compliments1"		"<clr:238,180,34><B>Crash:<B> Heh, that's nothing."
-		"crash.Compliments1"		"<clr:238,180,34><B>Crash:<B> Heh, that's nothing."
+"[english]crash.Compliments1"		"<clr:238,180,34><B>Crash:<B> Heh, that's nothing."
+"crash.Compliments1"		"<clr:238,180,34><B>Crash:<B> Heh, det är inget."
 
-		"[english]crash.Compliments2"		"<clr:238,180,34><B>Crash:<B> Smooth."
-		"crash.Compliments2"		"<clr:238,180,34><B>Crash:<B> Smooth."
+"[english]crash.Compliments2"		"<clr:238,180,34><B>Crash:<B> Smooth."
+"crash.Compliments2"		"<clr:238,180,34><B>Crash:<B> Smidigt."
 
-		"[english]crash.Selection0"		"<clr:238,180,34><B>Crash:<B> I'm ready."
-		"crash.Selection0"		"<clr:238,180,34><B>Crash:<B> I'm ready."
+"[english]crash.Selection0"		"<clr:238,180,34><B>Crash:<B> I'm ready."
+"crash.Selection0"		"<clr:238,180,34><B>Crash:<B> Jag är redo."
 
-		"[english]crash.Selection1"		"<clr:238,180,34><B>Crash:<B> Ready to get it on!"
-		"crash.Selection1"		"<clr:238,180,34><B>Crash:<B> Ready to get it on!"
+"[english]crash.Selection1"		"<clr:238,180,34><B>Crash:<B> Ready to get it on!"
+"crash.Selection1"		"<clr:238,180,34><B>Crash:<B> Redo att få på den!"
 
-		"[english]crash.Selection2"		"<clr:238,180,34><B>Crash:<B> What's up?"
-		"crash.Selection2"		"<clr:238,180,34><B>Crash:<B> What's up?"
+"[english]crash.Selection2"		"<clr:238,180,34><B>Crash:<B> What's up?"
+"crash.Selection2"		"<clr:238,180,34><B>Crash:<B> Vad händer?"
 
 		// Faith
 
@@ -1742,26 +1742,26 @@
 		"[english]faith.TequilaReply0"		"<clr:178,34,34><B>Faith:<B> You know that stuff kills your liver."
 		"faith.TequilaReply0"		"<clr:178,34,34><B>Faith:<B> You know that stuff kills your liver."
 
-		"[english]faith.InjuredSelection0"		"<clr:178,34,34><B>Faith:<B> I can make it."
-		"faith.InjuredSelection0"		"<clr:178,34,34><B>Faith:<B> I can make it."
+"[english]faith.InjuredSelection0"		"<clr:178,34,34><B>Faith:<B> I can make it."
+"faith.InjuredSelection0"		"<clr:178,34,34><B>Faith:<B> Jag kan klara det."
 
-		"[english]faith.InjuredSelection1"		"<clr:178,34,34><B>Faith:<B> I'm okay."
-		"faith.InjuredSelection1"		"<clr:178,34,34><B>Faith:<B> I'm okay."
+"[english]faith.InjuredSelection1"		"<clr:178,34,34><B>Faith:<B> I'm okay."
+"faith.InjuredSelection1"		"<clr:178,34,34><B>Faith:<B> Jag är okej."
 
-		"[english]faith.InjuredSelection2"		"<clr:178,34,34><B>Faith:<B> I'm okay."
-		"faith.InjuredSelection2"		"<clr:178,34,34><B>Faith:<B> I'm okay."
+"[english]faith.InjuredSelection2"		"<clr:178,34,34><B>Faith:<B> I'm okay."
+"faith.InjuredSelection2"		"<clr:178,34,34><B>Faith:<B> Jag är okej."
 
-		"[english]faith.InjuredSelection3"		"<clr:178,34,34><B>Faith:<B> Let's be careful, okay?"
-		"faith.InjuredSelection3"		"<clr:178,34,34><B>Faith:<B> Let's be careful, okay?"
+"[english]faith.InjuredSelection3"		"<clr:178,34,34><B>Faith:<B> Let's be careful, okay?"
+"faith.InjuredSelection3"		"<clr:178,34,34><B>Faith:<B> Låt oss vara försiktiga, okej?"
 
-		"[english]faith.SeriousInjuryReply0"		"<clr:178,34,34><B>Faith:<B> Is it that bad?"
-		"faith.SeriousInjuryReply0"		"<clr:178,34,34><B>Faith:<B> Is it that bad?"
+"[english]faith.SeriousInjuryReply0"		"<clr:178,34,34><B>Faith:<B> Is it that bad?"
+"faith.SeriousInjuryReply0"		"<clr:178,34,34><B>Faith:<B> Är det så dåligt?"
 
-		"[english]faith.SeriousInjuryFollowUp0"		"<clr:178,34,34><B>Faith:<B> Just stay safe."
-		"faith.SeriousInjuryFollowUp0"		"<clr:178,34,34><B>Faith:<B> Just stay safe."
+"[english]faith.SeriousInjuryFollowUp0"		"<clr:178,34,34><B>Faith:<B> Just stay safe."
+"faith.SeriousInjuryFollowUp0"		"<clr:178,34,34><B>Faith:<B> Var bara försiktiga."
 
-		"[english]faith.SeriousInjuryFollowUp1"		"<clr:178,34,34><B>Faith:<B> Just take it easy from now on."
-		"faith.SeriousInjuryFollowUp1"		"<clr:178,34,34><B>Faith:<B> Just take it easy from now on."
+"[english]faith.SeriousInjuryFollowUp1"		"<clr:178,34,34><B>Faith:<B> Just take it easy from now on."
+"faith.SeriousInjuryFollowUp1"		"<clr:178,34,34><B>Faith:<B> Ta det bara försiktigt från och med nu."
 
 		"[english]faith.SeriousInjury0"		"<clr:178,34,34><B>Faith:<B> Don't put any strain on it for a while, okay?"
 		"faith.SeriousInjury0"		"<clr:178,34,34><B>Faith:<B> Don't put any strain on it for a while, okay?"
@@ -1772,44 +1772,44 @@
 		"[english]faith.StillBreathingReply0"		"<clr:178,34,34><B>Faith:<B> I got enough stitching without your encouragement."
 		"faith.StillBreathingReply0"		"<clr:178,34,34><B>Faith:<B> I got enough stitching without your encouragement."
 
-		"[english]faith.Use0"		"<clr:178,34,34><B>Faith:<B> Absolutely."
-		"faith.Use0"		"<clr:178,34,34><B>Faith:<B> Absolutely."
+"[english]faith.Use0"		"<clr:178,34,34><B>Faith:<B> Absolutely."
+"faith.Use0"		"<clr:178,34,34><B>Faith:<B> Absolut."
 
-		"[english]faith.Use1"		"<clr:178,34,34><B>Faith:<B> As fast as I can."
-		"faith.Use1"		"<clr:178,34,34><B>Faith:<B> As fast as I can."
+"[english]faith.Use1"		"<clr:178,34,34><B>Faith:<B> As fast as I can."
+"faith.Use1"		"<clr:178,34,34><B>Faith:<B> Så snabbt jag kan."
 
-		"[english]faith.Use2"		"<clr:178,34,34><B>Faith:<B> Excellent."
-		"faith.Use2"		"<clr:178,34,34><B>Faith:<B> Excellent."
+"[english]faith.Use2"		"<clr:178,34,34><B>Faith:<B> Excellent."
+"faith.Use2"		"<clr:178,34,34><B>Faith:<B> Excellent."
 
-		"[english]faith.Use3"		"<clr:178,34,34><B>Faith:<B> Okay."
-		"faith.Use3"		"<clr:178,34,34><B>Faith:<B> Okay."
+"[english]faith.Use3"		"<clr:178,34,34><B>Faith:<B> Okay."
+"faith.Use3"		"<clr:178,34,34><B>Faith:<B> Okej."
 
-		"[english]faith.Use4"		"<clr:178,34,34><B>Faith:<B> Okay."
-		"faith.Use4"		"<clr:178,34,34><B>Faith:<B> Okay."
+"[english]faith.Use4"		"<clr:178,34,34><B>Faith:<B> Okay."
+"faith.Use4"		"<clr:178,34,34><B>Faith:<B> Okej."
 
-		"[english]faith.Use5"		"<clr:178,34,34><B>Faith:<B> Yes, sir."
-		"faith.Use5"		"<clr:178,34,34><B>Faith:<B> Yes, sir."
+"[english]faith.Use5"		"<clr:178,34,34><B>Faith:<B> Yes, sir."
+"faith.Use5"		"<clr:178,34,34><B>Faith:<B> Ja, sir."
 
-		"[english]faith.Use6"		"<clr:178,34,34><B>Faith:<B> Yes, sir."
-		"faith.Use6"		"<clr:178,34,34><B>Faith:<B> Yes, sir."
+"[english]faith.Use6"		"<clr:178,34,34><B>Faith:<B> Yes, sir."
+"faith.Use6"		"<clr:178,34,34><B>Faith:<B> Ja, sir."
 
-		"[english]faith.Use7"		"<clr:178,34,34><B>Faith:<B> Yes, sir."
-		"faith.Use7"		"<clr:178,34,34><B>Faith:<B> Yes, sir."
+"[english]faith.Use7"		"<clr:178,34,34><B>Faith:<B> Yes, sir."
+"faith.Use7"		"<clr:178,34,34><B>Faith:<B> Ja, sir."
 
-		"[english]faith.Idle0"		"<clr:178,34,34><B>Faith:<B> I don't like it down here."
-		"faith.Idle0"		"<clr:178,34,34><B>Faith:<B> I don't like it down here."
+"[english]faith.Idle0"		"<clr:178,34,34><B>Faith:<B> I don't like it down here."
+"faith.Idle0"		"<clr:178,34,34><B>Faith:<B> Jag gillar inte det här nere."
 
 		"[english]faith.Idle1"		"<clr:178,34,34><B>Faith:<B> I hope the civilians died quickly and without much pain."
 		"faith.Idle1"		"<clr:178,34,34><B>Faith:<B> I hope the civilians died quickly and without much pain."
 
-		"[english]faith.Idle2"		"<clr:178,34,34><B>Faith:<B> I hope we leave soon."
-		"faith.Idle2"		"<clr:178,34,34><B>Faith:<B> I hope we leave soon."
+"[english]faith.Idle2"		"<clr:178,34,34><B>Faith:<B> I hope we leave soon."
+"faith.Idle2"		"<clr:178,34,34><B>Faith:<B> Jag hoppas vi lämnar snart."
 
 		"[english]faith.Idle3"		"<clr:178,34,34><B>Faith:<B> I hope we pull through without too many injuries."
 		"faith.Idle3"		"<clr:178,34,34><B>Faith:<B> I hope we pull through without too many injuries."
 
-		"[english]faith.Idle4"		"<clr:178,34,34><B>Faith:<B> It's way too quiet."
-		"faith.Idle4"		"<clr:178,34,34><B>Faith:<B> It's way too quiet."
+"[english]faith.Idle4"		"<clr:178,34,34><B>Faith:<B> It's way too quiet."
+"faith.Idle4"		"<clr:178,34,34><B>Faith:<B> Det är alldelles för tyst."
 
 		"[english]faith.Idle5"		"<clr:178,34,34><B>Faith:<B> I wonder if there's any survivors."
 		"faith.Idle5"		"<clr:178,34,34><B>Faith:<B> I wonder if there's any survivors."
@@ -1832,29 +1832,29 @@
 		"[english]faith.FF0"		"<clr:178,34,34><B>Faith:<B> Friendly fire!"
 		"faith.FF0"		"<clr:178,34,34><B>Faith:<B> Friendly fire!"
 
-		"[english]faith.FF1"		"<clr:178,34,34><B>Faith:<B> Watch it!"
-		"faith.FF1"		"<clr:178,34,34><B>Faith:<B> Watch it!"
+"[english]faith.FF1"		"<clr:178,34,34><B>Faith:<B> Watch it!"
+"faith.FF1"		"<clr:178,34,34><B>Faith:<B> Se upp!"
 
-		"[english]faith.FiringAtAlien0"		"<clr:178,34,34><B>Faith:<B> Here."
-		"faith.FiringAtAlien0"		"<clr:178,34,34><B>Faith:<B> Here."
+"[english]faith.FiringAtAlien0"		"<clr:178,34,34><B>Faith:<B> Here."
+"faith.FiringAtAlien0"		"<clr:178,34,34><B>Faith:<B> Här."
 
-		"[english]faith.FiringAtAlien1"		"<clr:178,34,34><B>Faith:<B> I need backup!"
-		"faith.FiringAtAlien1"		"<clr:178,34,34><B>Faith:<B> I need backup!"
+"[english]faith.FiringAtAlien1"		"<clr:178,34,34><B>Faith:<B> I need backup!"
+"faith.FiringAtAlien1"		"<clr:178,34,34><B>Faith:<B> Jag behöver förstärkning!"
 
-		"[english]faith.FiringAtAlien2"		"<clr:178,34,34><B>Faith:<B> Target!"
-		"faith.FiringAtAlien2"		"<clr:178,34,34><B>Faith:<B> Target!"
+"[english]faith.FiringAtAlien2"		"<clr:178,34,34><B>Faith:<B> Target!"
+"faith.FiringAtAlien2"		"<clr:178,34,34><B>Faith:<B> Måltavla!"
 
-		"[english]faith.FiringAtAlien3"		"<clr:178,34,34><B>Faith:<B> There's another one!"
-		"faith.FiringAtAlien3"		"<clr:178,34,34><B>Faith:<B> There's another one!"
+"[english]faith.FiringAtAlien3"		"<clr:178,34,34><B>Faith:<B> There's another one!"
+"faith.FiringAtAlien3"		"<clr:178,34,34><B>Faith:<B> Där är en till!"
 
-		"[english]faith.FiringAtAlien4"		"<clr:178,34,34><B>Faith:<B> There's one!"
-		"faith.FiringAtAlien4"		"<clr:178,34,34><B>Faith:<B> There's one!"
+"[english]faith.FiringAtAlien4"		"<clr:178,34,34><B>Faith:<B> There's one!"
+"faith.FiringAtAlien4"		"<clr:178,34,34><B>Faith:<B> Där är en!"
 
-		"[english]faith.FollowMe0"		"<clr:178,34,34><B>Faith:<B> Follow me."
-		"faith.FollowMe0"		"<clr:178,34,34><B>Faith:<B> Follow me."
+"[english]faith.FollowMe0"		"<clr:178,34,34><B>Faith:<B> Follow me."
+"faith.FollowMe0"		"<clr:178,34,34><B>Faith:<B> Följ mig."
 
-		"[english]faith.FollowMe1"		"<clr:178,34,34><B>Faith:<B> Let's go!"
-		"faith.FollowMe1"		"<clr:178,34,34><B>Faith:<B> Let's go!"
+"[english]faith.FollowMe1"		"<clr:178,34,34><B>Faith:<B> Let's go!"
+"faith.FollowMe1"		"<clr:178,34,34><B>Faith:<B> Låt oss gå!"
 
 		"[english]faith.FollowMe2"		"<clr:178,34,34><B>Faith:<B> Let's move out!"
 		"faith.FollowMe2"		"<clr:178,34,34><B>Faith:<B> Let's move out!"
