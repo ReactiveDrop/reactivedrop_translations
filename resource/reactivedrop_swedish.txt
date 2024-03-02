@@ -6122,8 +6122,8 @@
 		"asw_wdesc_medrifle"		"The IAF Medical Submachine Gun is a compromise between fire power and healing function. Developed by Interstellar Armed Forces as a combination of the ST60 Submachine Gun and the IAF Medical Gun. Offering both high rate of fire and a healing capability with the IAF regenerative attachment. Designed to treat wounded personnel on the go. Available only to trained medics with previous combat experience."
 		"[english]asw_weapon_medrifle_altfire"		"Healing Charges"
 		"asw_weapon_medrifle_altfire"		"Healing Charges"
-		"[english]asw_weapon_medrifle_attributes"		"Damage and Healing"
-		"asw_weapon_medrifle_attributes"		"Damage and Healing"
+"[english]asw_weapon_medrifle_attributes"		"Damage and Healing"
+"asw_weapon_medrifle_attributes"		"Skada och läkning"
 "[english]asw_weapon_ar2"		"Pulse Rifle"
 "asw_weapon_ar2"		"Pulsgevär"
 		"[english]asw_weaponl_ar2"		"Overwatch Standard Issue Pulse Rifle"
@@ -6167,20 +6167,20 @@
 		"asw_weaponl_hack_tool"		"HC42 Automated Hacking Tool"
 		"[english]asw_wdesc_hack_tool"		"An advanced IAF tech-issue 'circuit breaker' hacking device, developed in the high security IAF labs.  Offering a variety of intelligent circuit analyzers and bypassing logic gate systems, this tool can be used by any marine to bypass security systems.  Tech marines can use this tool to hack at twice the speed."
 		"asw_wdesc_hack_tool"		"An advanced IAF tech-issue 'circuit breaker' hacking device, developed in the high security IAF labs.  Offering a variety of intelligent circuit analyzers and bypassing logic gate systems, this tool can be used by any marine to bypass security systems.  Tech marines can use this tool to hack at twice the speed."
-		"[english]asw_weapon_hack_tool_attributes"		"Allows Any Marine To Hack"
-		"asw_weapon_hack_tool_attributes"		"Allows Any Marine To Hack"
-		"[english]asw_weapon_sentry_railgun"		"Railgun Sentry Case"
-		"asw_weapon_sentry_railgun"		"Railgun Sentry Case"
-		"[english]asw_weaponl_sentry_railgun"		"IAF Railgun Sentry"
-		"asw_weaponl_sentry_railgun"		"IAF Railgun Sentry"
+"[english]asw_weapon_hack_tool_attributes"		"Allows Any Marine To Hack"
+"asw_weapon_hack_tool_attributes"		"Tillåter vilken Marinsoldat att hacka"
+"[english]asw_weapon_sentry_railgun"		"Railgun Sentry Case"
+"asw_weapon_sentry_railgun"		"Railgun Vaktgevär Låda"
+"[english]asw_weaponl_sentry_railgun"		"IAF Railgun Sentry"
+"asw_weaponl_sentry_railgun"		"IAF Railgun Vaktgevär"
 // TODO
 "[english]asw_wdesc_sentry_railgun"		""
 "asw_wdesc_sentry_railgun"		""
 "[english]asw_weapon_energy_shield"		"Energy Shield"
 "asw_weapon_energy_shield"		"Energisköld"
-		// TC = Two Cities, the update in TF2 that added this ability to that game's medic class; in this universe it stands for Telic Corporation. 79 is the atomic number of Australium.
-		"[english]asw_weaponl_energy_shield"		"TC79 Energy Field Generator"
-		"asw_weaponl_energy_shield"		"TC79 Energy Field Generator"
+// TC = Two Cities, the update in TF2 that added this ability to that game's medic class; in this universe it stands for Telic Corporation. 79 is the atomic number of Australium.
+"[english]asw_weaponl_energy_shield"		"TC79 Energy Field Generator"
+"asw_weaponl_energy_shield"		"TC79 Energifält Generator"
 // TODO
 "[english]asw_wdesc_energy_shield"		""
 "asw_wdesc_energy_shield"		""
@@ -6217,11 +6217,11 @@
 // TODO
 "[english]asw_weapon_incendiary_grenades_attributes"		""
 "asw_weapon_incendiary_grenades_attributes"		""
-		"[english]asw_weapon_speed_burst"		"Speed Burst"
-		"asw_weapon_speed_burst"		"Speed Burst"
-		// EX = exoskeleton; 981 is backwards 1890, the year when Nicholas Yagin invented US440684, (one of) the earliest known powered exoskeletons.
-		"[english]asw_weaponl_speed_burst"		"EX981 Speed Burst Module"
-		"asw_weaponl_speed_burst"		"EX981 Speed Burst Module"
+"[english]asw_weapon_speed_burst"		"Speed Burst"
+"asw_weapon_speed_burst"		"Snabb Salva"
+// EX = exoskeleton; 981 is backwards 1890, the year when Nicholas Yagin invented US440684, (one of) the earliest known powered exoskeletons.
+"[english]asw_weaponl_speed_burst"		"EX981 Speed Burst Module"
+"asw_weaponl_speed_burst"		"EX981 Snabb Salva Modul"
 // TODO
 "[english]asw_wdesc_speed_burst"		""
 "asw_wdesc_speed_burst"		""
@@ -6292,8 +6292,8 @@
 "[english]asw_gametext_nh_logisticsarea_title3"		"Guillaume 'Stral' Houard"
 "asw_gametext_nh_logisticsarea_title3"		"Guillaume 'Stral' Houard"
 
-		"[english]nh_platformXVII_1_title"		"Look for the elevator"
-		"nh_platformXVII_1_title"		"Look for the elevator"
+"[english]nh_platformXVII_1_title"		"Look for the elevator"
+"nh_platformXVII_1_title"		"Titta efter hissen"
 		"[english]nh_platformXVII_1a"		"Things seem to be getting worse by the minute. While unclear as to a definite course of action, we still have ways to go before we reach our end. What's left of Lugdunum's railway could be a worthwhile alternative to get you around the facility."
 		"nh_platformXVII_1a"		"Things seem to be getting worse by the minute. While unclear as to a definite course of action, we still have ways to go before we reach our end. What's left of Lugdunum's railway could be a worthwhile alternative to get you around the facility."
 		"[english]nh_platformXVII_1b"		"And keep your tech close, it'll save you some headaches with these rails."
@@ -7301,9 +7301,9 @@
 		"[english]asw_all_marines_beyond_elevator"		"All marines must be beyond the elevator to proceed"
 		"asw_all_marines_beyond_elevator"		"All marines must be beyond the elevator to proceed"
 
-		// Paranoia strings
-		"[english]par_unexpectedencounter_1_title"		"Enter the outpost"
-		"par_unexpectedencounter_1_title"		"Enter the outpost"
+// Paranoia strings
+"[english]par_unexpectedencounter_1_title"		"Enter the outpost"
+"par_unexpectedencounter_1_title"		"Gå in i utposten"
 		"[english]par_unexpectedencounter_1a"		"Enter the outpost and investigate the loss of communications."
 		"par_unexpectedencounter_1a"		"Enter the outpost and investigate the loss of communications."
 		"[english]par_unexpectedencounter_2_title"		"Search for survivors"
