@@ -20,7 +20,7 @@
 | [Romanian](#non-curated-languages) | 55 | 1996 | 48 | 3869 | 259 | 209 | 975 | 147 |
 | [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | ✔️ | 1 | ✔️ | ✔️ | ✔️ |
 | [European Spanish](#spanish-español-de-españa) | 32 | 2004 | 40 | 2572 | 259 | 209 | 714 | 146 |
-| [Latin American Spanish](#latam-español-latinoamericano) | ✔️ | 2004 | ✔️ | 4214 | 259 | 213 | 235 | 141 |
+| [Latin American Spanish](#latam-español-latinoamericano) | ✔️ | 2004 | ✔️ | 4214 | ✔️ | ✔️ | 203 | 141 |
 | [Swedish](#swedish-svenska) | ✔️ | 1161 | ✔️ | 1553 | ✔️ | ✔️ | ✔️ | 109 |
 | [Thai](#non-curated-languages) | 970 | 1993 | 50 | 4404 | 259 | 209 | 739 | 147 |
 | [Turkish](#non-curated-languages) | 55 | 137 | 42 | 3157 | 259 | 209 | 975 | 147 |
@@ -1297,9 +1297,6 @@
 
 - [addons/ExampleAddon/reactivedrop_latam.txt](addons/ExampleAddon/resource/reactivedrop_latam.txt) has 39 untranslated strings.
 - [addons/RiskOfRain/reactivedrop_latam.txt](addons/RiskOfRain/resource/reactivedrop_latam.txt) has 95 untranslated strings.
-- [inventory_service_tags_latam.vdf](community/inventory_service/inventory_service_tags_latam.vdf) has 32 untranslated strings.
-- [items_latam.vdf](community/inventory_service/items_latam.vdf) has 259 untranslated strings.
-- [statsweb_latam.vdf](community/stats_website/statsweb_latam.vdf) has 213 untranslated strings.
 - [misc/signage/signage_latam.vdf](misc/signage/signage_latam.vdf) has 69 untranslated strings.
 - [closecaption_latam.txt](resource/closecaption_latam.txt) has 2004 untranslated strings.
 - [reactivedrop_latam.txt](resource/reactivedrop_latam.txt) has 4214 untranslated strings.
