@@ -3203,7 +3203,7 @@
 
 // new briefing
 "[english]nb_mission_prep"		"MISSION PREP"
-"nb_mission_prep"		"UPPDRAGSFÖRBEREDNING"
+"nb_mission_prep"		"FÖRBEREDNING"
 "[english]nb_ready"		"READY"
 "nb_ready"		"REDO"
 "[english]nb_start_mission"		"START MISSION"
