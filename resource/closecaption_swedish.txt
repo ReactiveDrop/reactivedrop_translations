@@ -2378,101 +2378,101 @@
 "[english]jaeger.Idle3"		"<clr:198,226,255><B>Jaeger:<B> <I>Ich liebe diese Waffe."
 "jaeger.Idle3"		"<clr:198,226,255><B>Jaeger:<B> <I>Ich liebe diese Waffe."
 
-		"[english]jaeger.Idle4"		"<clr:198,226,255><B>Jaeger:<B> I wonder when Command will give us some new toys to play with."
-		"jaeger.Idle4"		"<clr:198,226,255><B>Jaeger:<B> I wonder when Command will give us some new toys to play with."
+"[english]jaeger.Idle4"		"<clr:198,226,255><B>Jaeger:<B> I wonder when Command will give us some new toys to play with."
+"jaeger.Idle4"		"<clr:198,226,255><B>Jaeger:<B> Jag undrar när kommandot kommer att ge oss nya leksaker att leka med."
 
-		"[english]jaeger.Idle5"		"<clr:198,226,255><B>Jaeger:<B> I've got a bad feeling about this place."
-		"jaeger.Idle5"		"<clr:198,226,255><B>Jaeger:<B> I've got a bad feeling about this place."
+"[english]jaeger.Idle5"		"<clr:198,226,255><B>Jaeger:<B> I've got a bad feeling about this place."
+"jaeger.Idle5"		"<clr:198,226,255><B>Jaeger:<B> Jag har en dålig känsla om det här stället."
 
-		"[english]jaeger.Idle6"		"<clr:198,226,255><B>Jaeger:<B> Jesus, I need a vacation."
-		"jaeger.Idle6"		"<clr:198,226,255><B>Jaeger:<B> Jesus, I need a vacation."
+"[english]jaeger.Idle6"		"<clr:198,226,255><B>Jaeger:<B> Jesus, I need a vacation."
+"jaeger.Idle6"		"<clr:198,226,255><B>Jaeger:<B> Jesus, jag behöver semester."
 
-		"[english]jaeger.Idle7"		"<clr:198,226,255><B>Jaeger:<B> Just another day in the Corps."
-		"jaeger.Idle7"		"<clr:198,226,255><B>Jaeger:<B> Just another day in the Corps."
+"[english]jaeger.Idle7"		"<clr:198,226,255><B>Jaeger:<B> Just another day in the Corps."
+"jaeger.Idle7"		"<clr:198,226,255><B>Jaeger:<B> Bara en till dag i Corps."
 
-		"[english]jaeger.Idle8"		"<clr:198,226,255><B>Jaeger:<B> Did you hear that?"
-		"jaeger.Idle8"		"<clr:198,226,255><B>Jaeger:<B> Did you hear that?"
+"[english]jaeger.Idle8"		"<clr:198,226,255><B>Jaeger:<B> Did you hear that?"
+"jaeger.Idle8"		"<clr:198,226,255><B>Jaeger:<B> Hörde du det där?"
 
-		"[english]jaeger.Idle9"		"<clr:198,226,255><B>Jaeger:<B> Stay sharp, people, these guys don't take prisoners."
-		"jaeger.Idle9"		"<clr:198,226,255><B>Jaeger:<B> Stay sharp, people, these guys don't take prisoners."
+"[english]jaeger.Idle9"		"<clr:198,226,255><B>Jaeger:<B> Stay sharp, people, these guys don't take prisoners."
+"jaeger.Idle9"		"<clr:198,226,255><B>Jaeger:<B> Var skarpa folk, de här killarna tar inte fångar."
 
-		"[english]jaeger.Idle10"		"<clr:198,226,255><B>Jaeger:<B> There's no bug trouble that can't be cured by a large case of explosives."
-		"jaeger.Idle10"		"<clr:198,226,255><B>Jaeger:<B> There's no bug trouble that can't be cured by a large case of explosives."
+"[english]jaeger.Idle10"		"<clr:198,226,255><B>Jaeger:<B> There's no bug trouble that can't be cured by a large case of explosives."
+"jaeger.Idle10"		"<clr:198,226,255><B>Jaeger:<B> Det finns inga buggproblem som inte kan botas med ett stort fall av sprängämnen."
 
-		"[english]jaeger.Idle11"		"<clr:198,226,255><B>Jaeger:<B> I wonder when Command will give us some new toys to play with."
-		"jaeger.Idle11"		"<clr:198,226,255><B>Jaeger:<B> I wonder when Command will give us some new toys to play with."
+"[english]jaeger.Idle11"		"<clr:198,226,255><B>Jaeger:<B> I wonder when Command will give us some new toys to play with."
+"jaeger.Idle11"		"<clr:198,226,255><B>Jaeger:<B> Jag undrar när kommandot kommer att ge oss nya leksaker att leka med."
 
-		"[english]jaeger.Idle12"		"<clr:198,226,255><B>Jaeger:<B> This isn't a good day to run out of smokes."
-		"jaeger.Idle12"		"<clr:198,226,255><B>Jaeger:<B> This isn't a good day to run out of smokes."
+"[english]jaeger.Idle12"		"<clr:198,226,255><B>Jaeger:<B> This isn't a good day to run out of smokes."
+"jaeger.Idle12"		"<clr:198,226,255><B>Jaeger:<B> Det här är inte en bra dag att få slut på eld."
 
-		"[english]jaeger.Idle13"		"<clr:198,226,255><B>Jaeger:<B> Why can't we set fire to this whole damn colony?"
-		"jaeger.Idle13"		"<clr:198,226,255><B>Jaeger:<B> Why can't we set fire to this whole damn colony?"
+"[english]jaeger.Idle13"		"<clr:198,226,255><B>Jaeger:<B> Why can't we set fire to this whole damn colony?"
+"jaeger.Idle13"		"<clr:198,226,255><B>Jaeger:<B> Varför kan vi inte elda upp hela den här kolonin?"
 
-		"[english]jaeger.Idle14"		"<clr:198,226,255><B>Jaeger:<B> Feels like I haven't slept for days."
-		"jaeger.Idle14"		"<clr:198,226,255><B>Jaeger:<B> Feels like I haven't slept for days."
+"[english]jaeger.Idle14"		"<clr:198,226,255><B>Jaeger:<B> Feels like I haven't slept for days."
+"jaeger.Idle14"		"<clr:198,226,255><B>Jaeger:<B> Känns som att jag inte har sovit för flera dagar."
 
-		"[english]jaeger.FF0"		"<clr:198,226,255><B>Jaeger:<B> Check your firing!"
-		"jaeger.FF0"		"<clr:198,226,255><B>Jaeger:<B> Check your firing!"
+"[english]jaeger.FF0"		"<clr:198,226,255><B>Jaeger:<B> Check your firing!"
+"jaeger.FF0"		"<clr:198,226,255><B>Jaeger:<B> Kolla vart du skjuter!"
 
-		"[english]jaeger.FF1"		"<clr:198,226,255><B>Jaeger:<B> Watch it!"
-		"jaeger.FF1"		"<clr:198,226,255><B>Jaeger:<B> Watch it!"
+"[english]jaeger.FF1"		"<clr:198,226,255><B>Jaeger:<B> Watch it!"
+"jaeger.FF1"		"<clr:198,226,255><B>Jaeger:<B> Se upp!"
 
-		"[english]jaeger.FiringAtAlien0"		"<clr:198,226,255><B>Jaeger:<B> Contact!"
-		"jaeger.FiringAtAlien0"		"<clr:198,226,255><B>Jaeger:<B> Contact!"
+"[english]jaeger.FiringAtAlien0"		"<clr:198,226,255><B>Jaeger:<B> Contact!"
+"jaeger.FiringAtAlien0"		"<clr:198,226,255><B>Jaeger:<B> Kontakt!"
 
-		"[english]jaeger.FiringAtAlien1"		"<clr:198,226,255><B>Jaeger:<B> Covering fire!"
-		"jaeger.FiringAtAlien1"		"<clr:198,226,255><B>Jaeger:<B> Covering fire!"
+"[english]jaeger.FiringAtAlien1"		"<clr:198,226,255><B>Jaeger:<B> Covering fire!"
+"jaeger.FiringAtAlien1"		"<clr:198,226,255><B>Jaeger:<B> Täckande eld!"
 
-		"[english]jaeger.FiringAtAlien2"		"<clr:198,226,255><B>Jaeger:<B> Eat this!"
-		"jaeger.FiringAtAlien2"		"<clr:198,226,255><B>Jaeger:<B> Eat this!"
+"[english]jaeger.FiringAtAlien2"		"<clr:198,226,255><B>Jaeger:<B> Eat this!"
+"jaeger.FiringAtAlien2"		"<clr:198,226,255><B>Jaeger:<B> Ät det här!"
 
-		"[english]jaeger.FiringAtAlien3"		"<clr:198,226,255><B>Jaeger:<B> Target!"
-		"jaeger.FiringAtAlien3"		"<clr:198,226,255><B>Jaeger:<B> Target!"
+"[english]jaeger.FiringAtAlien3"		"<clr:198,226,255><B>Jaeger:<B> Target!"
+"jaeger.FiringAtAlien3"		"<clr:198,226,255><B>Jaeger:<B> Måltavla!"
 
-		"[english]jaeger.FollowMe0"		"<clr:198,226,255><B>Jaeger:<B> Follow me!"
-		"jaeger.FollowMe0"		"<clr:198,226,255><B>Jaeger:<B> Follow me!"
+"[english]jaeger.FollowMe0"		"<clr:198,226,255><B>Jaeger:<B> Follow me!"
+"jaeger.FollowMe0"		"<clr:198,226,255><B>Jaeger:<B> Följ mig!"
 
-		"[english]jaeger.FollowMe1"		"<clr:198,226,255><B>Jaeger:<B> Let's move!"
-		"jaeger.FollowMe1"		"<clr:198,226,255><B>Jaeger:<B> Let's move!"
+"[english]jaeger.FollowMe1"		"<clr:198,226,255><B>Jaeger:<B> Let's move!"
+"jaeger.FollowMe1"		"<clr:198,226,255><B>Jaeger:<B> Låt oss gå!"
 
-		"[english]jaeger.FollowMe2"		"<clr:198,226,255><B>Jaeger:<B> Let's move out!"
-		"jaeger.FollowMe2"		"<clr:198,226,255><B>Jaeger:<B> Let's move out!"
+"[english]jaeger.FollowMe2"		"<clr:198,226,255><B>Jaeger:<B> Let's move out!"
+"jaeger.FollowMe2"		"<clr:198,226,255><B>Jaeger:<B> Låt oss gå ut!"
 
-		"[english]jaeger.HoldPosition0"		"<clr:198,226,255><B>Jaeger:<B> Hold position!"
-		"jaeger.HoldPosition0"		"<clr:198,226,255><B>Jaeger:<B> Hold position!"
+"[english]jaeger.HoldPosition0"		"<clr:198,226,255><B>Jaeger:<B> Hold position!"
+"jaeger.HoldPosition0"		"<clr:198,226,255><B>Jaeger:<B> Håll positionen!"
 
-		"[english]jaeger.HoldPosition1"		"<clr:198,226,255><B>Jaeger:<B> Wait here."
-		"jaeger.HoldPosition1"		"<clr:198,226,255><B>Jaeger:<B> Wait here."
+"[english]jaeger.HoldPosition1"		"<clr:198,226,255><B>Jaeger:<B> Wait here."
+"jaeger.HoldPosition1"		"<clr:198,226,255><B>Jaeger:<B> Vänta här."
 
-		"[english]jaeger.NeedAmmo0"		"<clr:198,226,255><B>Jaeger:<B> Need ammo."
-		"jaeger.NeedAmmo0"		"<clr:198,226,255><B>Jaeger:<B> Need ammo."
+"[english]jaeger.NeedAmmo0"		"<clr:198,226,255><B>Jaeger:<B> Need ammo."
+"jaeger.NeedAmmo0"		"<clr:198,226,255><B>Jaeger:<B> Behöver ammunition."
 
-		"[english]jaeger.NeedAmmo1"		"<clr:198,226,255><B>Jaeger:<B> Need some ammo!"
-		"jaeger.NeedAmmo1"		"<clr:198,226,255><B>Jaeger:<B> Need some ammo!"
+"[english]jaeger.NeedAmmo1"		"<clr:198,226,255><B>Jaeger:<B> Need some ammo!"
+"jaeger.NeedAmmo1"		"<clr:198,226,255><B>Jaeger:<B> Behöver lite ammunition!"
 
-		"[english]jaeger.NoAmmo0"		"<clr:198,226,255><B>Jaeger:<B> Damn it, no ammo."
-		"jaeger.NoAmmo0"		"<clr:198,226,255><B>Jaeger:<B> Damn it, no ammo."
+"[english]jaeger.NoAmmo0"		"<clr:198,226,255><B>Jaeger:<B> Damn it, no ammo."
+"jaeger.NoAmmo0"		"<clr:198,226,255><B>Jaeger:<B> Tusan, ingen ammunition."
 
-		"[english]jaeger.NoAmmo1"		"<clr:198,226,255><B>Jaeger:<B> Out of ammo!"
-		"jaeger.NoAmmo1"		"<clr:198,226,255><B>Jaeger:<B> Out of ammo!"
+"[english]jaeger.NoAmmo1"		"<clr:198,226,255><B>Jaeger:<B> Out of ammo!"
+"jaeger.NoAmmo1"		"<clr:198,226,255><B>Jaeger:<B> Slut på ammunition!"
 
-		"[english]jaeger.SargeJaegerConv1Reply0"		"<clr:198,226,255><B>Jaeger:<B> And we're still in deep shit."
-		"jaeger.SargeJaegerConv1Reply0"		"<clr:198,226,255><B>Jaeger:<B> And we're still in deep shit."
+"[english]jaeger.SargeJaegerConv1Reply0"		"<clr:198,226,255><B>Jaeger:<B> And we're still in deep shit."
+"jaeger.SargeJaegerConv1Reply0"		"<clr:198,226,255><B>Jaeger:<B> Och vi sitter fortfarande i klistret."
 
-		"[english]jaeger.SargeJaegerConv1Reply1"		"<clr:198,226,255><B>Jaeger:<B> Yeah, just like old times."
-		"jaeger.SargeJaegerConv1Reply1"		"<clr:198,226,255><B>Jaeger:<B> Yeah, just like old times."
+"[english]jaeger.SargeJaegerConv1Reply1"		"<clr:198,226,255><B>Jaeger:<B> Yeah, just like old times."
+"jaeger.SargeJaegerConv1Reply1"		"<clr:198,226,255><B>Jaeger:<B> Ja, just som förr i tiden."
 
-		"[english]jaeger.SargeJaegerConv20"		"<clr:198,226,255><B>Jaeger:<B> Remember Ceti Epsilon."
-		"jaeger.SargeJaegerConv20"		"<clr:198,226,255><B>Jaeger:<B> Remember Ceti Epsilon."
+"[english]jaeger.SargeJaegerConv20"		"<clr:198,226,255><B>Jaeger:<B> Remember Ceti Epsilon."
+"jaeger.SargeJaegerConv20"		"<clr:198,226,255><B>Jaeger:<B> Minns Ceti Epsilon."
 
-		"[english]jaeger.SargeJaegerConv21"		"<clr:198,226,255><B>Jaeger:<B> Remember the Frontier Riots."
-		"jaeger.SargeJaegerConv21"		"<clr:198,226,255><B>Jaeger:<B> Remember the Frontier Riots."
+"[english]jaeger.SargeJaegerConv21"		"<clr:198,226,255><B>Jaeger:<B> Remember the Frontier Riots."
+"jaeger.SargeJaegerConv21"		"<clr:198,226,255><B>Jaeger:<B> Minns Frontier Riots."
 
-		"[english]jaeger.SargeJaegerConv2Reply0"		"<clr:198,226,255><B>Jaeger:<B> How do we get into these things?"
-		"jaeger.SargeJaegerConv2Reply0"		"<clr:198,226,255><B>Jaeger:<B> How do we get into these things?"
+"[english]jaeger.SargeJaegerConv2Reply0"		"<clr:198,226,255><B>Jaeger:<B> How do we get into these things?"
+"jaeger.SargeJaegerConv2Reply0"		"<clr:198,226,255><B>Jaeger:<B> Hur tar vi oss in i de sakerna?"
 
-		"[english]jaeger.SargeJaegerConv2Reply1"		"<clr:198,226,255><B>Jaeger:<B> Why's it always got to be us?"
-		"jaeger.SargeJaegerConv2Reply1"		"<clr:198,226,255><B>Jaeger:<B> Why's it always got to be us?"
+"[english]jaeger.SargeJaegerConv2Reply1"		"<clr:198,226,255><B>Jaeger:<B> Why's it always got to be us?"
+"jaeger.SargeJaegerConv2Reply1"		"<clr:198,226,255><B>Jaeger:<B> Varför måste det alltid vara vi?"
 
 "[english]jaeger.Medic0"		"<clr:198,226,255><B>Jaeger:<B> Medic!"
 "jaeger.Medic0"		"<clr:198,226,255><B>Jaeger:<B> Läkare!"
@@ -2576,152 +2576,152 @@
 "[english]jaeger.SuppliesAmmo1"		"<clr:198,226,255><B>Jaeger:<B> Good, supplies."
 "jaeger.SuppliesAmmo1"		"<clr:198,226,255><B>Jaeger:<B> Bra, förnödenheter."
 
-		"[english]jaeger.SuppliesAmmo2"		"<clr:198,226,255><B>Jaeger:<B> Resupply, Marines."
-		"jaeger.SuppliesAmmo2"		"<clr:198,226,255><B>Jaeger:<B> Resupply, Marines."
+"[english]jaeger.SuppliesAmmo2"		"<clr:198,226,255><B>Jaeger:<B> Resupply, Marines."
+"jaeger.SuppliesAmmo2"		"<clr:198,226,255><B>Jaeger:<B> Återförsörj, mariner."
 
-		"[english]jaeger.Supplies0"		"<clr:198,226,255><B>Jaeger:<B> Good, supplies."
-		"jaeger.Supplies0"		"<clr:198,226,255><B>Jaeger:<B> Good, supplies."
+"[english]jaeger.Supplies0"		"<clr:198,226,255><B>Jaeger:<B> Good, supplies."
+"jaeger.Supplies0"		"<clr:198,226,255><B>Jaeger:<B> Bra, förnödenheter."
 
-		"[english]jaeger.Supplies1"		"<clr:198,226,255><B>Jaeger:<B> Resupply, Marines."
-		"jaeger.Supplies1"		"<clr:198,226,255><B>Jaeger:<B> Resupply, Marines."
+"[english]jaeger.Supplies1"		"<clr:198,226,255><B>Jaeger:<B> Resupply, Marines."
+"jaeger.Supplies1"		"<clr:198,226,255><B>Jaeger:<B> Återförsörj, mariner."
 
-		"[english]jaeger.LockedTerminalCrash0"		"<clr:198,226,255><B>Jaeger:<B> It's locked. Crash, deal with it."
-		"jaeger.LockedTerminalCrash0"		"<clr:198,226,255><B>Jaeger:<B> It's locked. Crash, deal with it."
+"[english]jaeger.LockedTerminalCrash0"		"<clr:198,226,255><B>Jaeger:<B> It's locked. Crash, deal with it."
+"jaeger.LockedTerminalCrash0"		"<clr:198,226,255><B>Jaeger:<B> Det är låst. Crash, hantera det."
 
-		"[english]jaeger.LockedTerminalFlynn0"		"<clr:198,226,255><B>Jaeger:<B> It's locked. Flynn, deal with it."
-		"jaeger.LockedTerminalFlynn0"		"<clr:198,226,255><B>Jaeger:<B> It's locked. Flynn, deal with it."
+"[english]jaeger.LockedTerminalFlynn0"		"<clr:198,226,255><B>Jaeger:<B> It's locked. Flynn, deal with it."
+"jaeger.LockedTerminalFlynn0"		"<clr:198,226,255><B>Jaeger:<B> Det är låst. Flynn, hantera det."
 
-		"[english]jaeger.LockedTerminalVegas0"		"<clr:198,226,255><B>Jaeger:<B> It's locked. Vegas, deal with it."
-		"jaeger.LockedTerminalVegas0"		"<clr:198,226,255><B>Jaeger:<B> It's locked. Vegas, deal with it."
+"[english]jaeger.LockedTerminalVegas0"		"<clr:198,226,255><B>Jaeger:<B> It's locked. Vegas, deal with it."
+"jaeger.LockedTerminalVegas0"		"<clr:198,226,255><B>Jaeger:<B> Det är låst. Vegas, hantera det."
 
-		"[english]jaeger.LockedTerminal0"		"<clr:198,226,255><B>Jaeger:<B> Access denied."
-		"jaeger.LockedTerminal0"		"<clr:198,226,255><B>Jaeger:<B> Access denied."
+"[english]jaeger.LockedTerminal0"		"<clr:198,226,255><B>Jaeger:<B> Access denied."
+"jaeger.LockedTerminal0"		"<clr:198,226,255><B>Jaeger:<B> Tillgång nekad."
 
-		"[english]jaeger.LockedTerminal1"		"<clr:198,226,255><B>Jaeger:<B> Damn, terminal's locked."
-		"jaeger.LockedTerminal1"		"<clr:198,226,255><B>Jaeger:<B> Damn, terminal's locked."
+"[english]jaeger.LockedTerminal1"		"<clr:198,226,255><B>Jaeger:<B> Damn, terminal's locked."
+"jaeger.LockedTerminal1"		"<clr:198,226,255><B>Jaeger:<B> Tusan, terminalen är låst."
 
-		"[english]jaeger.HoldingPosition0"		"<clr:198,226,255><B>Jaeger:<B> Covering."
-		"jaeger.HoldingPosition0"		"<clr:198,226,255><B>Jaeger:<B> Covering."
+"[english]jaeger.HoldingPosition0"		"<clr:198,226,255><B>Jaeger:<B> Covering."
+"jaeger.HoldingPosition0"		"<clr:198,226,255><B>Jaeger:<B> Täcker."
 
-		"[english]jaeger.HoldingPosition1"		"<clr:198,226,255><B>Jaeger:<B> Holding position."
-		"jaeger.HoldingPosition1"		"<clr:198,226,255><B>Jaeger:<B> Holding position."
+"[english]jaeger.HoldingPosition1"		"<clr:198,226,255><B>Jaeger:<B> Holding position."
+"jaeger.HoldingPosition1"		"<clr:198,226,255><B>Jaeger:<B> Håller positionen."
 
-		"[english]jaeger.HoldingPosition2"		"<clr:198,226,255><B>Jaeger:<B> In position."
-		"jaeger.HoldingPosition2"		"<clr:198,226,255><B>Jaeger:<B> In position."
+"[english]jaeger.HoldingPosition2"		"<clr:198,226,255><B>Jaeger:<B> In position."
+"jaeger.HoldingPosition2"		"<clr:198,226,255><B>Jaeger:<B> På plats."
 
-		"[english]jaeger.HoldingNorth0"		"<clr:198,226,255><B>Jaeger:<B> Covering north."
-		"jaeger.HoldingNorth0"		"<clr:198,226,255><B>Jaeger:<B> Covering north."
+"[english]jaeger.HoldingNorth0"		"<clr:198,226,255><B>Jaeger:<B> Covering north."
+"jaeger.HoldingNorth0"		"<clr:198,226,255><B>Jaeger:<B> Täcker norrut."
 
-		"[english]jaeger.HoldingNorth1"		"<clr:198,226,255><B>Jaeger:<B> Covering northside."
-		"jaeger.HoldingNorth1"		"<clr:198,226,255><B>Jaeger:<B> Covering northside."
+"[english]jaeger.HoldingNorth1"		"<clr:198,226,255><B>Jaeger:<B> Covering northside."
+"jaeger.HoldingNorth1"		"<clr:198,226,255><B>Jaeger:<B> Täcker norra sidan."
 
-		"[english]jaeger.HoldingNorth2"		"<clr:198,226,255><B>Jaeger:<B> Northside, in position."
-		"jaeger.HoldingNorth2"		"<clr:198,226,255><B>Jaeger:<B> Northside, in position."
+"[english]jaeger.HoldingNorth2"		"<clr:198,226,255><B>Jaeger:<B> Northside, in position."
+"jaeger.HoldingNorth2"		"<clr:198,226,255><B>Jaeger:<B> Norra sidan, på plats."
 
-		"[english]jaeger.HoldingNorth3"		"<clr:198,226,255><B>Jaeger:<B> Watching northside."
-		"jaeger.HoldingNorth3"		"<clr:198,226,255><B>Jaeger:<B> Watching northside."
+"[english]jaeger.HoldingNorth3"		"<clr:198,226,255><B>Jaeger:<B> Watching northside."
+"jaeger.HoldingNorth3"		"<clr:198,226,255><B>Jaeger:<B> Kollar norra sidan."
 
-		"[english]jaeger.HoldingSouth0"		"<clr:198,226,255><B>Jaeger:<B> Covering south."
-		"jaeger.HoldingSouth0"		"<clr:198,226,255><B>Jaeger:<B> Covering south."
+"[english]jaeger.HoldingSouth0"		"<clr:198,226,255><B>Jaeger:<B> Covering south."
+"jaeger.HoldingSouth0"		"<clr:198,226,255><B>Jaeger:<B> Täcker söderut."
 
-		"[english]jaeger.HoldingSouth1"		"<clr:198,226,255><B>Jaeger:<B> Covering southside."
-		"jaeger.HoldingSouth1"		"<clr:198,226,255><B>Jaeger:<B> Covering southside."
+"[english]jaeger.HoldingSouth1"		"<clr:198,226,255><B>Jaeger:<B> Covering southside."
+"jaeger.HoldingSouth1"		"<clr:198,226,255><B>Jaeger:<B> Täcker södra sidan."
 
-		"[english]jaeger.HoldingSouth2"		"<clr:198,226,255><B>Jaeger:<B> Watching southside."
-		"jaeger.HoldingSouth2"		"<clr:198,226,255><B>Jaeger:<B> Watching southside."
+"[english]jaeger.HoldingSouth2"		"<clr:198,226,255><B>Jaeger:<B> Watching southside."
+"jaeger.HoldingSouth2"		"<clr:198,226,255><B>Jaeger:<B> Kollar södra sidan."
 
-		"[english]jaeger.HoldingEast0"		"<clr:198,226,255><B>Jaeger:<B> Covering east."
-		"jaeger.HoldingEast0"		"<clr:198,226,255><B>Jaeger:<B> Covering east."
+"[english]jaeger.HoldingEast0"		"<clr:198,226,255><B>Jaeger:<B> Covering east."
+"jaeger.HoldingEast0"		"<clr:198,226,255><B>Jaeger:<B> Täcker österut."
 
-		"[english]jaeger.HoldingEast1"		"<clr:198,226,255><B>Jaeger:<B> Covering eastside."
-		"jaeger.HoldingEast1"		"<clr:198,226,255><B>Jaeger:<B> Covering eastside."
+"[english]jaeger.HoldingEast1"		"<clr:198,226,255><B>Jaeger:<B> Covering eastside."
+"jaeger.HoldingEast1"		"<clr:198,226,255><B>Jaeger:<B> Täcker östra sidan."
 
-		"[english]jaeger.HoldingEast2"		"<clr:198,226,255><B>Jaeger:<B> Watching eastside."
-		"jaeger.HoldingEast2"		"<clr:198,226,255><B>Jaeger:<B> Watching eastside."
+"[english]jaeger.HoldingEast2"		"<clr:198,226,255><B>Jaeger:<B> Watching eastside."
+"jaeger.HoldingEast2"		"<clr:198,226,255><B>Jaeger:<B> Kollar östra sidan."
 
-		"[english]jaeger.HoldingWest0"		"<clr:198,226,255><B>Jaeger:<B> Watching westside."
-		"jaeger.HoldingWest0"		"<clr:198,226,255><B>Jaeger:<B> Watching westside."
+"[english]jaeger.HoldingWest0"		"<clr:198,226,255><B>Jaeger:<B> Watching westside."
+"jaeger.HoldingWest0"		"<clr:198,226,255><B>Jaeger:<B> Kollar västra sidan."
 
-		"[english]jaeger.HoldingWest1"		"<clr:198,226,255><B>Jaeger:<B> Westside, in position."
-		"jaeger.HoldingWest1"		"<clr:198,226,255><B>Jaeger:<B> Westside, in position."
+"[english]jaeger.HoldingWest1"		"<clr:198,226,255><B>Jaeger:<B> Westside, in position."
+"jaeger.HoldingWest1"		"<clr:198,226,255><B>Jaeger:<B> Västra sidan, på plats."
 
-		"[english]jaeger.GotPoint0"		"<clr:198,226,255><B>Jaeger:<B> Jaeger, taking forward position."
-		"jaeger.GotPoint0"		"<clr:198,226,255><B>Jaeger:<B> Jaeger, taking forward position."
+"[english]jaeger.GotPoint0"		"<clr:198,226,255><B>Jaeger:<B> Jaeger, taking forward position."
+"jaeger.GotPoint0"		"<clr:198,226,255><B>Jaeger:<B> Jaeger, tar främsta positionen."
 
-		"[english]jaeger.GotPoint1"		"<clr:198,226,255><B>Jaeger:<B> Jaeger, taking point."
-		"jaeger.GotPoint1"		"<clr:198,226,255><B>Jaeger:<B> Jaeger, taking point."
+"[english]jaeger.GotPoint1"		"<clr:198,226,255><B>Jaeger:<B> Jaeger, taking point."
+"jaeger.GotPoint1"		"<clr:198,226,255><B>Jaeger:<B> Jaeger, tar punkten."
 
-		"[english]jaeger.GotRear0"		"<clr:198,226,255><B>Jaeger:<B> Jaeger, covering back."
-		"jaeger.GotRear0"		"<clr:198,226,255><B>Jaeger:<B> Jaeger, covering back."
+"[english]jaeger.GotRear0"		"<clr:198,226,255><B>Jaeger:<B> Jaeger, covering back."
+"jaeger.GotRear0"		"<clr:198,226,255><B>Jaeger:<B> Jaeger, täcker bakåt."
 
-		"[english]jaeger.GotRear1"		"<clr:198,226,255><B>Jaeger:<B> Jaeger, covering the rear."
-		"jaeger.GotRear1"		"<clr:198,226,255><B>Jaeger:<B> Jaeger, covering the rear."
+"[english]jaeger.GotRear1"		"<clr:198,226,255><B>Jaeger:<B> Jaeger, covering the rear."
+"jaeger.GotRear1"		"<clr:198,226,255><B>Jaeger:<B> Jaeger, täcker baksidan."
 
-		"[english]jaeger.GotRear2"		"<clr:198,226,255><B>Jaeger:<B> Jaeger, taking rearguard."
-		"jaeger.GotRear2"		"<clr:198,226,255><B>Jaeger:<B> Jaeger, taking rearguard."
+"[english]jaeger.GotRear2"		"<clr:198,226,255><B>Jaeger:<B> Jaeger, taking rearguard."
+"jaeger.GotRear2"		"<clr:198,226,255><B>Jaeger:<B> Jaeger, tar bakvakt."
 
-		"[english]jaeger.RequestSealDoor0"		"<clr:198,226,255><B>Jaeger:<B> Seal this door!"
-		"jaeger.RequestSealDoor0"		"<clr:198,226,255><B>Jaeger:<B> Seal this door!"
+"[english]jaeger.RequestSealDoor0"		"<clr:198,226,255><B>Jaeger:<B> Seal this door!"
+"jaeger.RequestSealDoor0"		"<clr:198,226,255><B>Jaeger:<B> Försegla den här dörren!"
 
-		"[english]jaeger.RequestSealDoor1"		"<clr:198,226,255><B>Jaeger:<B> Secure the door!"
-		"jaeger.RequestSealDoor1"		"<clr:198,226,255><B>Jaeger:<B> Secure the door!"
+"[english]jaeger.RequestSealDoor1"		"<clr:198,226,255><B>Jaeger:<B> Secure the door!"
+"jaeger.RequestSealDoor1"		"<clr:198,226,255><B>Jaeger:<B> Säkra dörren!"
 
-		"[english]jaeger.RequestCutDoor0"		"<clr:198,226,255><B>Jaeger:<B> Cut it open!"
-		"jaeger.RequestCutDoor0"		"<clr:198,226,255><B>Jaeger:<B> Cut it open!"
+"[english]jaeger.RequestCutDoor0"		"<clr:198,226,255><B>Jaeger:<B> Cut it open!"
+"jaeger.RequestCutDoor0"		"<clr:198,226,255><B>Jaeger:<B> Skär upp den!"
 
-		"[english]jaeger.RequestCutDoor1"		"<clr:198,226,255><B>Jaeger:<B> We need this door cut open!"
-		"jaeger.RequestCutDoor1"		"<clr:198,226,255><B>Jaeger:<B> We need this door cut open!"
+"[english]jaeger.RequestCutDoor1"		"<clr:198,226,255><B>Jaeger:<B> We need this door cut open!"
+"jaeger.RequestCutDoor1"		"<clr:198,226,255><B>Jaeger:<B> Vi behöver den här dörren öppnad!"
 
-		"[english]jaeger.RequestShootDoor0"		"<clr:198,226,255><B>Jaeger:<B> Blast it open!"
-		"jaeger.RequestShootDoor0"		"<clr:198,226,255><B>Jaeger:<B> Blast it open!"
+"[english]jaeger.RequestShootDoor0"		"<clr:198,226,255><B>Jaeger:<B> Blast it open!"
+"jaeger.RequestShootDoor0"		"<clr:198,226,255><B>Jaeger:<B> Spräng upp den!"
 
-		"[english]jaeger.RequestShootDoor1"		"<clr:198,226,255><B>Jaeger:<B> Shoot the door!"
-		"jaeger.RequestShootDoor1"		"<clr:198,226,255><B>Jaeger:<B> Shoot the door!"
+"[english]jaeger.RequestShootDoor1"		"<clr:198,226,255><B>Jaeger:<B> Shoot the door!"
+"jaeger.RequestShootDoor1"		"<clr:198,226,255><B>Jaeger:<B> Skjut dörren!"
 
-		"[english]jaeger.CuttingDoor0"		"<clr:198,226,255><B>Jaeger:<B> Jaeger, cutting through!"
-		"jaeger.CuttingDoor0"		"<clr:198,226,255><B>Jaeger:<B> Jaeger, cutting through!"
+"[english]jaeger.CuttingDoor0"		"<clr:198,226,255><B>Jaeger:<B> Jaeger, cutting through!"
+"jaeger.CuttingDoor0"		"<clr:198,226,255><B>Jaeger:<B> Jaeger, skär igenom!"
 
-		"[english]jaeger.CuttingDoor1"		"<clr:198,226,255><B>Jaeger:<B> Roger that. Cutting through."
-		"jaeger.CuttingDoor1"		"<clr:198,226,255><B>Jaeger:<B> Roger that. Cutting through."
+"[english]jaeger.CuttingDoor1"		"<clr:198,226,255><B>Jaeger:<B> Roger that. Cutting through."
+"jaeger.CuttingDoor1"		"<clr:198,226,255><B>Jaeger:<B> Uppfattat. Skär igenom."
 
-		"[english]jaeger.SealingDoor0"		"<clr:198,226,255><B>Jaeger:<B> Jaeger, sealing door."
-		"jaeger.SealingDoor0"		"<clr:198,226,255><B>Jaeger:<B> Jaeger, sealing door."
+"[english]jaeger.SealingDoor0"		"<clr:198,226,255><B>Jaeger:<B> Jaeger, sealing door."
+"jaeger.SealingDoor0"		"<clr:198,226,255><B>Jaeger:<B> Jaeger, förseglar dörr."
 
-		"[english]jaeger.SealingDoor1"		"<clr:198,226,255><B>Jaeger:<B> Jaeger, securing door."
-		"jaeger.SealingDoor1"		"<clr:198,226,255><B>Jaeger:<B> Jaeger, securing door."
+"[english]jaeger.SealingDoor1"		"<clr:198,226,255><B>Jaeger:<B> Jaeger, securing door."
+"jaeger.SealingDoor1"		"<clr:198,226,255><B>Jaeger:<B> Jaeger, säkrar dörr."
 
-		"[english]jaeger.TimeToLeave0"		"<clr:198,226,255><B>Jaeger:<B> Primary objective's complete, let's move out."
-		"jaeger.TimeToLeave0"		"<clr:198,226,255><B>Jaeger:<B> Primary objective's complete, let's move out."
+"[english]jaeger.TimeToLeave0"		"<clr:198,226,255><B>Jaeger:<B> Primary objective's complete, let's move out."
+"jaeger.TimeToLeave0"		"<clr:198,226,255><B>Jaeger:<B> Primära uppdraget slutfört, låt oss dra."
 
-		"[english]jaeger.TimeToLeave1"		"<clr:198,226,255><B>Jaeger:<B> Time to leave, moving out."
-		"jaeger.TimeToLeave1"		"<clr:198,226,255><B>Jaeger:<B> Time to leave, moving out."
+"[english]jaeger.TimeToLeave1"		"<clr:198,226,255><B>Jaeger:<B> Time to leave, moving out."
+"jaeger.TimeToLeave1"		"<clr:198,226,255><B>Jaeger:<B> Dags att lämna. lämnar."
 
-		"[english]jaeger.WatchOut0"		"<clr:198,226,255><B>Jaeger:<B> Careful."
-		"jaeger.WatchOut0"		"<clr:198,226,255><B>Jaeger:<B> Careful."
+"[english]jaeger.WatchOut0"		"<clr:198,226,255><B>Jaeger:<B> Careful."
+"jaeger.WatchOut0"		"<clr:198,226,255><B>Jaeger:<B> Försiktigt."
 
-		"[english]jaeger.WatchOut1"		"<clr:198,226,255><B>Jaeger:<B> Look there!"
-		"jaeger.WatchOut1"		"<clr:198,226,255><B>Jaeger:<B> Look there!"
+"[english]jaeger.WatchOut1"		"<clr:198,226,255><B>Jaeger:<B> Look there!"
+"jaeger.WatchOut1"		"<clr:198,226,255><B>Jaeger:<B> Titta där!"
 
-		"[english]jaeger.WatchOut2"		"<clr:198,226,255><B>Jaeger:<B> Watch out!"
-		"jaeger.WatchOut2"		"<clr:198,226,255><B>Jaeger:<B> Watch out!"
+"[english]jaeger.WatchOut2"		"<clr:198,226,255><B>Jaeger:<B> Watch out!"
+"jaeger.WatchOut2"		"<clr:198,226,255><B>Jaeger:<B> Se upp!"
 
-		"[english]jaeger.Shieldbug0"		"<clr:198,226,255><B>Jaeger:<B> <I>Herrgott!<I> Shieldbug!"
-		"jaeger.Shieldbug0"		"<clr:198,226,255><B>Jaeger:<B> <I>Herrgott!<I> Shieldbug!"
+"[english]jaeger.Shieldbug0"		"<clr:198,226,255><B>Jaeger:<B> <I>Herrgott!<I> Shieldbug!"
+"jaeger.Shieldbug0"		"<clr:198,226,255><B>Jaeger:<B> <I>Herrgott!<I> Shöldbugg!"
 
-		"[english]jaeger.Shieldbug1"		"<clr:198,226,255><B>Jaeger:<B> Shield bug, take it down!"
-		"jaeger.Shieldbug1"		"<clr:198,226,255><B>Jaeger:<B> Shield bug, take it down!"
+"[english]jaeger.Shieldbug1"		"<clr:198,226,255><B>Jaeger:<B> Shield bug, take it down!"
+"jaeger.Shieldbug1"		"<clr:198,226,255><B>Jaeger:<B> Shöldbugg, ta ner den!"
 
-		"[english]jaeger.Shieldbug2"		"<clr:198,226,255><B>Jaeger:<B> Watch it, shield bug!"
-		"jaeger.Shieldbug2"		"<clr:198,226,255><B>Jaeger:<B> Watch it, shield bug!"
+"[english]jaeger.Shieldbug2"		"<clr:198,226,255><B>Jaeger:<B> Watch it, shield bug!"
+"jaeger.Shieldbug2"		"<clr:198,226,255><B>Jaeger:<B> Se upp, shöldbugg!"
 
-		"[english]jaeger.ShieldbugHint0"		"<clr:198,226,255><B>Jaeger:<B> Get behind it!"
-		"jaeger.ShieldbugHint0"		"<clr:198,226,255><B>Jaeger:<B> Get behind it!"
+"[english]jaeger.ShieldbugHint0"		"<clr:198,226,255><B>Jaeger:<B> Get behind it!"
+"jaeger.ShieldbugHint0"		"<clr:198,226,255><B>Jaeger:<B> Ta dig bakom den!"
 
-		"[english]jaeger.ShieldbugHint1"		"<clr:198,226,255><B>Jaeger:<B> Grenades!"
-		"jaeger.ShieldbugHint1"		"<clr:198,226,255><B>Jaeger:<B> Grenades!"
+"[english]jaeger.ShieldbugHint1"		"<clr:198,226,255><B>Jaeger:<B> Grenades!"
+"jaeger.ShieldbugHint1"		"<clr:198,226,255><B>Jaeger:<B> Granater!"
 
-		"[english]jaeger.ShieldbugHint2"		"<clr:198,226,255><B>Jaeger:<B> Shoot it from behind!"
-		"jaeger.ShieldbugHint2"		"<clr:198,226,255><B>Jaeger:<B> Shoot it from behind!"
+"[english]jaeger.ShieldbugHint2"		"<clr:198,226,255><B>Jaeger:<B> Shoot it from behind!"
+"jaeger.ShieldbugHint2"		"<clr:198,226,255><B>Jaeger:<B> Skjut den bakifrån!"
 
 
 "[english]jaeger.Parasite0"		"<clr:198,226,255><B>Jaeger:<B> Parasite!"
@@ -2733,125 +2733,125 @@
 "[english]jaeger.Parasite2"		"<clr:198,226,255><B>Jaeger:<B> Watch out, parasite!"
 "jaeger.Parasite2"		"<clr:198,226,255><B>Jaeger:<B> Se upp, parasit!"
 
-		"[english]jaeger.BeenInfested0"		"<clr:198,226,255><B>Jaeger:<B> <I>Verdammte Scheiße!<I> Get it off!"
-		"jaeger.BeenInfested0"		"<clr:198,226,255><B>Jaeger:<B> <I>Verdammte Scheiße!<I> Get it off!"
+"[english]jaeger.BeenInfested0"		"<clr:198,226,255><B>Jaeger:<B> <I>Verdammte Scheiße!<I> Get it off!"
+"jaeger.BeenInfested0"		"<clr:198,226,255><B>Jaeger:<B> <I>Verdammte Scheiße!<I> Få bort den!"
 
-		"[english]jaeger.BeenInfested1"		"<clr:198,226,255><B>Jaeger:<B> Get it off!"
-		"jaeger.BeenInfested1"		"<clr:198,226,255><B>Jaeger:<B> Get it off!"
+"[english]jaeger.BeenInfested1"		"<clr:198,226,255><B>Jaeger:<B> Get it off!"
+"jaeger.BeenInfested1"		"<clr:198,226,255><B>Jaeger:<B> Få bort den!"
 
-		"[english]jaeger.BeenInfested2"		"<clr:198,226,255><B>Jaeger:<B> Get it off me!"
-		"jaeger.BeenInfested2"		"<clr:198,226,255><B>Jaeger:<B> Get it off me!"
+"[english]jaeger.BeenInfested2"		"<clr:198,226,255><B>Jaeger:<B> Get it off me!"
+"jaeger.BeenInfested2"		"<clr:198,226,255><B>Jaeger:<B> Få bort den från mig!"
 
-		"[english]jaeger.BeenInfested3"		"<clr:198,226,255><B>Jaeger:<B> It's on me!"
-		"jaeger.BeenInfested3"		"<clr:198,226,255><B>Jaeger:<B> It's on me!"
+"[english]jaeger.BeenInfested3"		"<clr:198,226,255><B>Jaeger:<B> It's on me!"
+"jaeger.BeenInfested3"		"<clr:198,226,255><B>Jaeger:<B> Den är på mig!"
 
-		"[english]jaeger.SwarmEggs0"		"<clr:198,226,255><B>Jaeger:<B> Swarm eggs!"
-		"jaeger.SwarmEggs0"		"<clr:198,226,255><B>Jaeger:<B> Swarm eggs!"
+"[english]jaeger.SwarmEggs0"		"<clr:198,226,255><B>Jaeger:<B> Swarm eggs!"
+"jaeger.SwarmEggs0"		"<clr:198,226,255><B>Jaeger:<B> Svärmägg!"
 
-		"[english]jaeger.SwarmEggs1"		"<clr:198,226,255><B>Jaeger:<B> Swarm eggs, destroy them!"
-		"jaeger.SwarmEggs1"		"<clr:198,226,255><B>Jaeger:<B> Swarm eggs, destroy them!"
+"[english]jaeger.SwarmEggs1"		"<clr:198,226,255><B>Jaeger:<B> Swarm eggs, destroy them!"
+"jaeger.SwarmEggs1"		"<clr:198,226,255><B>Jaeger:<B> Svärmägg, förstör de!"
 
-		"[english]jaeger.SwarmEggs2"		"<clr:198,226,255><B>Jaeger:<B> Watch out, Swarm eggs!"
-		"jaeger.SwarmEggs2"		"<clr:198,226,255><B>Jaeger:<B> Watch out, Swarm eggs!"
+"[english]jaeger.SwarmEggs2"		"<clr:198,226,255><B>Jaeger:<B> Watch out, Swarm eggs!"
+"jaeger.SwarmEggs2"		"<clr:198,226,255><B>Jaeger:<B> Se upp, svärmägg!"
 
-		"[english]jaeger.Grenade0"		"<clr:198,226,255><B>Jaeger:<B> Clear!"
-		"jaeger.Grenade0"		"<clr:198,226,255><B>Jaeger:<B> Clear!"
+"[english]jaeger.Grenade0"		"<clr:198,226,255><B>Jaeger:<B> Clear!"
+"jaeger.Grenade0"		"<clr:198,226,255><B>Jaeger:<B> Klart!"
 
-		"[english]jaeger.Grenade1"		"<clr:198,226,255><B>Jaeger:<B> Grenade!"
-		"jaeger.Grenade1"		"<clr:198,226,255><B>Jaeger:<B> Grenade!"
+"[english]jaeger.Grenade1"		"<clr:198,226,255><B>Jaeger:<B> Grenade!"
+"jaeger.Grenade1"		"<clr:198,226,255><B>Jaeger:<B> Granat!"
 
-		"[english]jaeger.AlienTooClose0"		"<clr:198,226,255><B>Jaeger:<B> Get it off!"
-		"jaeger.AlienTooClose0"		"<clr:198,226,255><B>Jaeger:<B> Get it off!"
+"[english]jaeger.AlienTooClose0"		"<clr:198,226,255><B>Jaeger:<B> Get it off!"
+"jaeger.AlienTooClose0"		"<clr:198,226,255><B>Jaeger:<B> Få bort den!"
 
-		"[english]jaeger.AlienTooClose1"		"<clr:198,226,255><B>Jaeger:<B> Hostile on me!"
-		"jaeger.AlienTooClose1"		"<clr:198,226,255><B>Jaeger:<B> Hostile on me!"
+"[english]jaeger.AlienTooClose1"		"<clr:198,226,255><B>Jaeger:<B> Hostile on me!"
+"jaeger.AlienTooClose1"		"<clr:198,226,255><B>Jaeger:<B> Fiender på mig!"
 
-		"[english]jaeger.AlienTooClose2"		"<clr:198,226,255><B>Jaeger:<B> Kill it!"
-		"jaeger.AlienTooClose2"		"<clr:198,226,255><B>Jaeger:<B> Kill it!"
+"[english]jaeger.AlienTooClose2"		"<clr:198,226,255><B>Jaeger:<B> Kill it!"
+"jaeger.AlienTooClose2"		"<clr:198,226,255><B>Jaeger:<B> Döda den!"
 
-		"[english]jaeger.AlienTooClose3"		"<clr:198,226,255><B>Jaeger:<B> On me!"
-		"jaeger.AlienTooClose3"		"<clr:198,226,255><B>Jaeger:<B> On me!"
+"[english]jaeger.AlienTooClose3"		"<clr:198,226,255><B>Jaeger:<B> On me!"
+"jaeger.AlienTooClose3"		"<clr:198,226,255><B>Jaeger:<B> På mig!"
 
-		"[english]jaeger.MadFiring0"		"<clr:198,226,255><B>Jaeger:<B> Come and get some!"
-		"jaeger.MadFiring0"		"<clr:198,226,255><B>Jaeger:<B> Come and get some!"
+"[english]jaeger.MadFiring0"		"<clr:198,226,255><B>Jaeger:<B> Come and get some!"
+"jaeger.MadFiring0"		"<clr:198,226,255><B>Jaeger:<B> Kom och få lite!"
 
-		"[english]jaeger.MadFiring1"		"<clr:198,226,255><B>Jaeger:<B> <I>Stirb, Bastard!"
-		"jaeger.MadFiring1"		"<clr:198,226,255><B>Jaeger:<B> <I>Stirb, Bastard!"
+"[english]jaeger.MadFiring1"		"<clr:198,226,255><B>Jaeger:<B> <I>Stirb, Bastard!"
+"jaeger.MadFiring1"		"<clr:198,226,255><B>Jaeger:<B> <I>Stirb, jäkel!"
 
-		"[english]jaeger.MadFiring2"		"<clr:198,226,255><B>Jaeger:<B> <I>Euch mach ich kalt!"
-		"jaeger.MadFiring2"		"<clr:198,226,255><B>Jaeger:<B> <I>Euch mach ich kalt!"
+"[english]jaeger.MadFiring2"		"<clr:198,226,255><B>Jaeger:<B> <I>Euch mach ich kalt!"
+"jaeger.MadFiring2"		"<clr:198,226,255><B>Jaeger:<B> <I>Euch mach ich kalt!"
 
-		"[english]jaeger.MadFiring3"		"<clr:198,226,255><B>Jaeger:<B> Rock and roll!"
-		"jaeger.MadFiring3"		"<clr:198,226,255><B>Jaeger:<B> Rock and roll!"
+"[english]jaeger.MadFiring3"		"<clr:198,226,255><B>Jaeger:<B> Rock and roll!"
+"jaeger.MadFiring3"		"<clr:198,226,255><B>Jaeger:<B> Rock N' Roll!"
 
-		"[english]jaeger.MadFiring4"		"<clr:198,226,255><B>Jaeger:<B> You want some?"
-		"jaeger.MadFiring4"		"<clr:198,226,255><B>Jaeger:<B> You want some?"
+"[english]jaeger.MadFiring4"		"<clr:198,226,255><B>Jaeger:<B> You want some?"
+"jaeger.MadFiring4"		"<clr:198,226,255><B>Jaeger:<B> Vill du ha lite?"
 
-		"[english]jaeger.BreachedDoor0"		"<clr:198,226,255><B>Jaeger:<B> Look out!"
-		"jaeger.BreachedDoor0"		"<clr:198,226,255><B>Jaeger:<B> Look out!"
+"[english]jaeger.BreachedDoor0"		"<clr:198,226,255><B>Jaeger:<B> Look out!"
+"jaeger.BreachedDoor0"		"<clr:198,226,255><B>Jaeger:<B> Se upp!"
 
-		"[english]jaeger.BreachedDoor1"		"<clr:198,226,255><B>Jaeger:<B> They're through!"
-		"jaeger.BreachedDoor1"		"<clr:198,226,255><B>Jaeger:<B> They're through!"
+"[english]jaeger.BreachedDoor1"		"<clr:198,226,255><B>Jaeger:<B> They're through!"
+"jaeger.BreachedDoor1"		"<clr:198,226,255><B>Jaeger:<B> De är igenom!"
 
-		"[english]jaeger.BreachedDoor2"		"<clr:198,226,255><B>Jaeger:<B> They've breached!"
-		"jaeger.BreachedDoor2"		"<clr:198,226,255><B>Jaeger:<B> They've breached!"
+"[english]jaeger.BreachedDoor2"		"<clr:198,226,255><B>Jaeger:<B> They've breached!"
+"jaeger.BreachedDoor2"		"<clr:198,226,255><B>Jaeger:<B> De har brutit sig igenom!"
 
-		"[english]jaeger.MarineDown0"		"<clr:198,226,255><B>Jaeger:<B> Marine down!"
-		"jaeger.MarineDown0"		"<clr:198,226,255><B>Jaeger:<B> Marine down!"
+"[english]jaeger.MarineDown0"		"<clr:198,226,255><B>Jaeger:<B> Marine down!"
+"jaeger.MarineDown0"		"<clr:198,226,255><B>Jaeger:<B> Marinsoldat nere!"
 
-		"[english]jaeger.SmallPain0"		"<clr:198,226,255><B>Jaeger:<B> [Pain]"
-		"jaeger.SmallPain0"		"<clr:198,226,255><B>Jaeger:<B> [Pain]"
+"[english]jaeger.SmallPain0"		"<clr:198,226,255><B>Jaeger:<B> [Pain]"
+"jaeger.SmallPain0"		"<clr:198,226,255><B>Jaeger:<B> [Smärta]"
 
-		"[english]jaeger.SmallPain1"		"<clr:198,226,255><B>Jaeger:<B> [Pain]"
-		"jaeger.SmallPain1"		"<clr:198,226,255><B>Jaeger:<B> [Pain]"
+"[english]jaeger.SmallPain1"		"<clr:198,226,255><B>Jaeger:<B> [Pain]"
+"jaeger.SmallPain1"		"<clr:198,226,255><B>Jaeger:<B> [Smärta]"
 
-		"[english]jaeger.SmallPain2"		"<clr:198,226,255><B>Jaeger:<B> [Pain]"
-		"jaeger.SmallPain2"		"<clr:198,226,255><B>Jaeger:<B> [Pain]"
+"[english]jaeger.SmallPain2"		"<clr:198,226,255><B>Jaeger:<B> [Pain]"
+"jaeger.SmallPain2"		"<clr:198,226,255><B>Jaeger:<B> [Smärta]"
 
-		"[english]jaeger.LargePain0"		"<clr:198,226,255><B>Jaeger:<B> [Pain]"
-		"jaeger.LargePain0"		"<clr:198,226,255><B>Jaeger:<B> [Pain]"
+"[english]jaeger.LargePain0"		"<clr:198,226,255><B>Jaeger:<B> [Pain]"
+"jaeger.LargePain0"		"<clr:198,226,255><B>Jaeger:<B> [Smärta]"
 
-		"[english]jaeger.LargePain1"		"<clr:198,226,255><B>Jaeger:<B> [Pain]"
-		"jaeger.LargePain1"		"<clr:198,226,255><B>Jaeger:<B> [Pain]"
+"[english]jaeger.LargePain1"		"<clr:198,226,255><B>Jaeger:<B> [Pain]"
+"jaeger.LargePain1"		"<clr:198,226,255><B>Jaeger:<B> [Smärta]"
 
-		"[english]jaeger.Dead0"		"<clr:198,226,255><B>Jaeger:<B> [Death]"
-		"jaeger.Dead0"		"<clr:198,226,255><B>Jaeger:<B> [Death]"
+"[english]jaeger.Dead0"		"<clr:198,226,255><B>Jaeger:<B> [Death]"
+"jaeger.Dead0"		"<clr:198,226,255><B>Jaeger:<B> [Död]"
 
-		"[english]jaeger.Dead1"		"<clr:198,226,255><B>Jaeger:<B> [Death]"
-		"jaeger.Dead1"		"<clr:198,226,255><B>Jaeger:<B> [Death]"
+"[english]jaeger.Dead1"		"<clr:198,226,255><B>Jaeger:<B> [Death]"
+"jaeger.Dead1"		"<clr:198,226,255><B>Jaeger:<B> [Död]"
 
-		"[english]jaeger.OnFire0"		"<clr:198,226,255><B>Jaeger:<B> [Pain]"
-		"jaeger.OnFire0"		"<clr:198,226,255><B>Jaeger:<B> [Pain]"
+"[english]jaeger.OnFire0"		"<clr:198,226,255><B>Jaeger:<B> [Pain]"
+"jaeger.OnFire0"		"<clr:198,226,255><B>Jaeger:<B> [Smärta]"
 
-		"[english]jaeger.OnFire1"		"<clr:198,226,255><B>Jaeger:<B> [Pain]"
-		"jaeger.OnFire1"		"<clr:198,226,255><B>Jaeger:<B> [Pain]"
+"[english]jaeger.OnFire1"		"<clr:198,226,255><B>Jaeger:<B> [Pain]"
+"jaeger.OnFire1"		"<clr:198,226,255><B>Jaeger:<B> [Smärta]"
 
-		"[english]jaeger.MineDeployed0"		"<clr:198,226,255><B>Jaeger:<B> Incendiary mine deployed!"
-		"jaeger.MineDeployed0"		"<clr:198,226,255><B>Jaeger:<B> Incendiary mine deployed!"
+"[english]jaeger.MineDeployed0"		"<clr:198,226,255><B>Jaeger:<B> Incendiary mine deployed!"
+"jaeger.MineDeployed0"		"<clr:198,226,255><B>Jaeger:<B> Eldmina utplacerad!"
 
-		"[english]jaeger.MineDeployed1"		"<clr:198,226,255><B>Jaeger:<B> Mine deployed!"
-		"jaeger.MineDeployed1"		"<clr:198,226,255><B>Jaeger:<B> Mine deployed!"
+"[english]jaeger.MineDeployed1"		"<clr:198,226,255><B>Jaeger:<B> Mine deployed!"
+"jaeger.MineDeployed1"		"<clr:198,226,255><B>Jaeger:<B> Mina utplacerad!"
 
-		"[english]jaeger.MineDeployed2"		"<clr:198,226,255><B>Jaeger:<B> Mine in place!"
-		"jaeger.MineDeployed2"		"<clr:198,226,255><B>Jaeger:<B> Mine in place!"
+"[english]jaeger.MineDeployed2"		"<clr:198,226,255><B>Jaeger:<B> Mine in place!"
+"jaeger.MineDeployed2"		"<clr:198,226,255><B>Jaeger:<B> Mina på plats!"
 
-		"[english]jaeger.MineDeployed3"		"<clr:198,226,255><B>Jaeger:<B> Watch it! Mine!"
-		"jaeger.MineDeployed3"		"<clr:198,226,255><B>Jaeger:<B> Watch it! Mine!"
+"[english]jaeger.MineDeployed3"		"<clr:198,226,255><B>Jaeger:<B> Watch it! Mine!"
+"jaeger.MineDeployed3"		"<clr:198,226,255><B>Jaeger:<B> Se upp! Mina!"
 
-		"[english]jaeger.ActivateStims0"		"<clr:198,226,255><B>Jaeger:<B> Hit the stims!"
-		"jaeger.ActivateStims0"		"<clr:198,226,255><B>Jaeger:<B> Hit the stims!"
+"[english]jaeger.ActivateStims0"		"<clr:198,226,255><B>Jaeger:<B> Hit the stims!"
+"jaeger.ActivateStims0"		"<clr:198,226,255><B>Jaeger:<B> Slå stims!"
 
-		"[english]jaeger.ActivateStims1"		"<clr:198,226,255><B>Jaeger:<B> Stim now!"
-		"jaeger.ActivateStims1"		"<clr:198,226,255><B>Jaeger:<B> Stim now!"
+"[english]jaeger.ActivateStims1"		"<clr:198,226,255><B>Jaeger:<B> Stim now!"
+"jaeger.ActivateStims1"		"<clr:198,226,255><B>Jaeger:<B> Stim nu!"
 
-		"[english]jaeger.ComplimentsSarge0"		"<clr:198,226,255><B>Jaeger:<B> Ha! Good kill, Conrad!"
-		"jaeger.ComplimentsSarge0"		"<clr:198,226,255><B>Jaeger:<B> Ha! Good kill, Conrad!"
+"[english]jaeger.ComplimentsSarge0"		"<clr:198,226,255><B>Jaeger:<B> Ha! Good kill, Conrad!"
+"jaeger.ComplimentsSarge0"		"<clr:198,226,255><B>Jaeger:<B> Ha! Bra död, Conrad!"
 
-		"[english]jaeger.Selection0"		"<clr:198,226,255><B>Jaeger:<B> Good to go."
-		"jaeger.Selection0"		"<clr:198,226,255><B>Jaeger:<B> Good to go."
+"[english]jaeger.Selection0"		"<clr:198,226,255><B>Jaeger:<B> Good to go."
+"jaeger.Selection0"		"<clr:198,226,255><B>Jaeger:<B> Klar för avfärd."
 
-		"[english]jaeger.Selection1"		"<clr:198,226,255><B>Jaeger:<B> Jaeger here."
-		"jaeger.Selection1"		"<clr:198,226,255><B>Jaeger:<B> Jaeger here."
+"[english]jaeger.Selection1"		"<clr:198,226,255><B>Jaeger:<B> Jaeger here."
+"jaeger.Selection1"		"<clr:198,226,255><B>Jaeger:<B> Jaeger här."
 
 		// Sarge
 
