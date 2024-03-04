@@ -10,8 +10,8 @@
 | [French](#french-français) | 31 | 138 | 42 | 2522 | 258 | 209 | 650 | 125 |
 | [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Hungarian](#non-curated-languages) | 55 | 138 | 42 | 3157 | 259 | 209 | 975 | 147 |
-| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | 1 | ✔️ | ✔️ | ✔️ |
-| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | ✔️ | 1 | ✔️ | 102 | ✔️ |
+| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
+| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 102 | ✔️ |
 | [Korean](#koreana-한국어) | 11 | 10 | 38 | 1653 | 259 | 31 | 446 | 48 |
 | [Norwegian Bokmål](#non-curated-languages) | 73 | 708 | 47 | 3863 | 259 | 209 | 710 | 147 |
 | [Polish](#polish-polski) | 32 | 2004 | 42 | 3157 | 259 | 209 | 706 | 143 |
@@ -20,12 +20,12 @@
 | [Romanian](#non-curated-languages) | 55 | 1996 | 48 | 3869 | 259 | 209 | 975 | 147 |
 | [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | ✔️ | 1 | ✔️ | ✔️ | ✔️ |
 | [European Spanish](#spanish-español-de-españa) | 32 | 2004 | 40 | 2572 | 259 | 209 | 714 | 146 |
-| [Latin American Spanish](#latam-español-latinoamericano) | ✔️ | 2004 | ✔️ | 4214 | 259 | 213 | 235 | 141 |
-| [Swedish](#swedish-svenska) | ✔️ | 1161 | ✔️ | 1553 | ✔️ | ✔️ | ✔️ | 109 |
+| [Latin American Spanish](#latam-español-latinoamericano) | ✔️ | 2004 | ✔️ | 4214 | ✔️ | ✔️ | 203 | 141 |
+| [Swedish](#swedish-svenska) | ✔️ | 464 | ✔️ | 1544 | ✔️ | ✔️ | ✔️ | 107 |
 | [Thai](#non-curated-languages) | 970 | 1993 | 50 | 4404 | 259 | 209 | 739 | 147 |
 | [Turkish](#non-curated-languages) | 55 | 137 | 42 | 3157 | 259 | 209 | 975 | 147 |
 | [Ukrainian](#ukrainian-українська) | 31 | 131 | 32 | 2700 | 259 | 209 | 933 | 146 |
-| [Vietnamese](#vietnamese-tiếng-việt) | ✔️ | 2004 | ✔️ | 3446 | 1 | 2 | ✔️ | 84 |
+| [Vietnamese](#vietnamese-tiếng-việt) | ✔️ | 2004 | ✔️ | 3446 | ✔️ | ✔️ | ✔️ | 84 |
 ### Legend
 - ***Non-capitalized column headers*** are the most important specific files and their number of missing strings. All of these txt-files are located in the resources folder. Except statsweb, which lies in community/stats_website, it's an vdf-file.
 - ***Strings*** is the number of missing strings not included in one of the files which get an individual non-capitalized column.
@@ -589,9 +589,7 @@
 
 </summary>
 
-### Strings
-
-- [items_italian.vdf](community/inventory_service/items_italian.vdf) has 1 untranslated strings.
+✓ Up to date!
 
 </details>
 
@@ -603,7 +601,6 @@
 
 ### Strings
 
-- [items_japanese.vdf](community/inventory_service/items_japanese.vdf) has 1 untranslated strings.
 - [misc/signage/signage_japanese.vdf](misc/signage/signage_japanese.vdf) has 67 untranslated strings.
 - [platform/vgui_japanese.txt](platform/vgui_japanese.txt) has 35 untranslated strings.
 
@@ -1300,9 +1297,6 @@
 
 - [addons/ExampleAddon/reactivedrop_latam.txt](addons/ExampleAddon/resource/reactivedrop_latam.txt) has 39 untranslated strings.
 - [addons/RiskOfRain/reactivedrop_latam.txt](addons/RiskOfRain/resource/reactivedrop_latam.txt) has 95 untranslated strings.
-- [inventory_service_tags_latam.vdf](community/inventory_service/inventory_service_tags_latam.vdf) has 32 untranslated strings.
-- [items_latam.vdf](community/inventory_service/items_latam.vdf) has 259 untranslated strings.
-- [statsweb_latam.vdf](community/stats_website/statsweb_latam.vdf) has 213 untranslated strings.
 - [misc/signage/signage_latam.vdf](misc/signage/signage_latam.vdf) has 69 untranslated strings.
 - [closecaption_latam.txt](resource/closecaption_latam.txt) has 2004 untranslated strings.
 - [reactivedrop_latam.txt](resource/reactivedrop_latam.txt) has 4214 untranslated strings.
@@ -1464,8 +1458,8 @@
 
 ### Strings
 
-- [closecaption_swedish.txt](resource/closecaption_swedish.txt) has 1161 untranslated strings.
-- [reactivedrop_swedish.txt](resource/reactivedrop_swedish.txt) has 1553 untranslated strings.
+- [closecaption_swedish.txt](resource/closecaption_swedish.txt) has 464 untranslated strings.
+- [reactivedrop_swedish.txt](resource/reactivedrop_swedish.txt) has 1544 untranslated strings.
 
 ### Upcoming Release Notes
 
@@ -1513,7 +1507,6 @@
 - [mail/nh_pda_thibautholbert_swedish.txt](resource/mail/nh_pda_thibautholbert_english.txt) is missing.
 - [mail/nh_pda_tomasselin_swedish.txt](resource/mail/nh_pda_tomasselin_english.txt) is missing.
 - [mail/nh_pda_yannmontgomery_swedish.txt](resource/mail/nh_pda_yannmontgomery_english.txt) is missing.
-- [mail/nukeangermail_swedish.txt](resource/mail/nukeangermail_english.txt) is missing.
 - [mail/officemail2_swedish.txt](resource/mail/officemail2_english.txt) is missing.
 - [mail/officemail3_swedish.txt](resource/mail/officemail3_english.txt) is missing.
 - [mail/officemail4_swedish.txt](resource/mail/officemail4_english.txt) is missing.
@@ -1574,7 +1567,6 @@
 - [news/convoynews_swedish.txt](resource/news/convoynews_english.txt) is missing.
 - [news/droidlawsnews_swedish.txt](resource/news/droidlawsnews_english.txt) is missing.
 - [news/expansionnews_swedish.txt](resource/news/expansionnews_english.txt) is missing.
-- [news/experiornews_swedish.txt](resource/news/experiornews_english.txt) is missing.
 - [news/newcolonynews_swedish.txt](resource/news/newcolonynews_english.txt) is missing.
 - [news/nh_news_announcement_swedish.txt](resource/news/nh_news_announcement_english.txt) is missing.
 - [news/nh_news_prospectus_swedish.txt](resource/news/nh_news_prospectus_english.txt) is missing.
@@ -1775,8 +1767,6 @@
 
 ### Strings
 
-- [items_vietnamese.vdf](community/inventory_service/items_vietnamese.vdf) has 1 untranslated strings.
-- [statsweb_vietnamese.vdf](community/stats_website/statsweb_vietnamese.vdf) has 2 untranslated strings.
 - [closecaption_vietnamese.txt](resource/closecaption_vietnamese.txt) has 2004 untranslated strings.
 - [reactivedrop_vietnamese.txt](resource/reactivedrop_vietnamese.txt) has 3446 untranslated strings.
 
