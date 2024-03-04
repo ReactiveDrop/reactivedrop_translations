@@ -3767,528 +3767,528 @@
 "vegas.FirstBloodWin0"		"<clr:84,255,159><B>Vegas:<B> Haha, förmögenhet gynnar Vegas idag."
 
 
-		"[english]vegas.FirstBloodWin1"		"<clr:84,255,159><B>Vegas:<B> Lady luck is on my side."
-		"vegas.FirstBloodWin1"		"<clr:84,255,159><B>Vegas:<B> Lady luck is on my side."
+"[english]vegas.FirstBloodWin1"		"<clr:84,255,159><B>Vegas:<B> Lady luck is on my side."
+"vegas.FirstBloodWin1"		"<clr:84,255,159><B>Vegas:<B> Kvinno turen är på min sida."
 
 
-		"[english]vegas.SynUpSpotted0"		"<clr:84,255,159><B>Vegas:<B> Synup Cola, anyone have any creds?"
-		"vegas.SynUpSpotted0"		"<clr:84,255,159><B>Vegas:<B> Synup Cola, anyone have any creds?"
+"[english]vegas.SynUpSpotted0"		"<clr:84,255,159><B>Vegas:<B> Synup Cola, anyone have any creds?"
+"vegas.SynUpSpotted0"		"<clr:84,255,159><B>Vegas:<B> Synup Cola, har någon några krediter?"
 
 
-		"[english]vegas.MedicComplainReply0"		"<clr:84,255,159><B>Vegas:<B> I wasn't exactly planning on it."
-		"vegas.MedicComplainReply0"		"<clr:84,255,159><B>Vegas:<B> I wasn't exactly planning on it."
+"[english]vegas.MedicComplainReply0"		"<clr:84,255,159><B>Vegas:<B> I wasn't exactly planning on it."
+"vegas.MedicComplainReply0"		"<clr:84,255,159><B>Vegas:<B> Jag hade inte riktigt planerat det."
 
 
-		"[english]vegas.TequilaReplySarge0"		"<clr:84,255,159><B>Vegas:<B> Aahh, man."
-		"vegas.TequilaReplySarge0"		"<clr:84,255,159><B>Vegas:<B> Aahh, man."
+"[english]vegas.TequilaReplySarge0"		"<clr:84,255,159><B>Vegas:<B> Aahh, man."
+"vegas.TequilaReplySarge0"		"<clr:84,255,159><B>Vegas:<B> Aahh, mannen."
 
 
-		"[english]vegas.TequilaReplyJaeger0"		"<clr:84,255,159><B>Vegas:<B> Screw that, I'm sticking with tequila."
-		"vegas.TequilaReplyJaeger0"		"<clr:84,255,159><B>Vegas:<B> Screw that, I'm sticking with tequila."
+"[english]vegas.TequilaReplyJaeger0"		"<clr:84,255,159><B>Vegas:<B> Screw that, I'm sticking with tequila."
+"vegas.TequilaReplyJaeger0"		"<clr:84,255,159><B>Vegas:<B> Skit i det, jag håller mig med tequila."
 
 
-		"[english]vegas.TequilaReplyWildcat0"		"<clr:84,255,159><B>Vegas:<B> Hell, yeah!"
-		"vegas.TequilaReplyWildcat0"		"<clr:84,255,159><B>Vegas:<B> Hell, yeah!"
+"[english]vegas.TequilaReplyWildcat0"		"<clr:84,255,159><B>Vegas:<B> Hell, yeah!"
+"vegas.TequilaReplyWildcat0"		"<clr:84,255,159><B>Vegas:<B> Ja för helvete!"
 
 
-		"[english]vegas.TequilaReplyWolfe0"		"<clr:84,255,159><B>Vegas:<B> You got it, Wolfe."
-		"vegas.TequilaReplyWolfe0"		"<clr:84,255,159><B>Vegas:<B> You got it, Wolfe."
+"[english]vegas.TequilaReplyWolfe0"		"<clr:84,255,159><B>Vegas:<B> You got it, Wolfe."
+"vegas.TequilaReplyWolfe0"		"<clr:84,255,159><B>Vegas:<B> Du har det, Wolfe."
 
 
-		"[english]vegas.TequilaReplyFaith0"		"<clr:84,255,159><B>Vegas:<B> Who cares? No one lives forever."
-		"vegas.TequilaReplyFaith0"		"<clr:84,255,159><B>Vegas:<B> Who cares? No one lives forever."
+"[english]vegas.TequilaReplyFaith0"		"<clr:84,255,159><B>Vegas:<B> Who cares? No one lives forever."
+"vegas.TequilaReplyFaith0"		"<clr:84,255,159><B>Vegas:<B> Vem bryr sig? Ingen lever för evigt."
 
 
-		"[english]vegas.TequilaReplyBastille0"		"<clr:84,255,159><B>Vegas:<B> Ok, but you're missing out, <I>amigo<I>."
-		"vegas.TequilaReplyBastille0"		"<clr:84,255,159><B>Vegas:<B> Ok, but you're missing out, <I>amigo<I>."
+"[english]vegas.TequilaReplyBastille0"		"<clr:84,255,159><B>Vegas:<B> Ok, but you're missing out, <I>amigo<I>."
+"vegas.TequilaReplyBastille0"		"<clr:84,255,159><B>Vegas:<B> Ok, men du missar något, <I>amigo<I>."
 
 
-		"[english]vegas.TequilaStart0"		"<clr:84,255,159><B>Vegas:<B> I could do with some tequila right about now."
-		"vegas.TequilaStart0"		"<clr:84,255,159><B>Vegas:<B> I could do with some tequila right about now."
+"[english]vegas.TequilaStart0"		"<clr:84,255,159><B>Vegas:<B> I could do with some tequila right about now."
+"vegas.TequilaStart0"		"<clr:84,255,159><B>Vegas:<B> Jag skulle kunna göra med lite tequila just nu."
 
 
-		"[english]vegas.TequilaStart1"		"<clr:84,255,159><B>Vegas:<B> Who's up for some tequila?"
-		"vegas.TequilaStart1"		"<clr:84,255,159><B>Vegas:<B> Who's up for some tequila?"
+"[english]vegas.TequilaStart1"		"<clr:84,255,159><B>Vegas:<B> Who's up for some tequila?"
+"vegas.TequilaStart1"		"<clr:84,255,159><B>Vegas:<B> Vem är sugen på lite tequila?"
 
 
-		"[english]vegas.InjuredSelection0"		"<clr:84,255,159><B>Vegas:<B> All bets are off."
-		"vegas.InjuredSelection0"		"<clr:84,255,159><B>Vegas:<B> All bets are off."
+"[english]vegas.InjuredSelection0"		"<clr:84,255,159><B>Vegas:<B> All bets are off."
+"vegas.InjuredSelection0"		"<clr:84,255,159><B>Vegas:<B> Alla insatser är avstängda."
 
 
-		"[english]vegas.InjuredSelection1"		"<clr:84,255,159><B>Vegas:<B> Don't worry."
-		"vegas.InjuredSelection1"		"<clr:84,255,159><B>Vegas:<B> Don't worry."
+"[english]vegas.InjuredSelection1"		"<clr:84,255,159><B>Vegas:<B> Don't worry."
+"vegas.InjuredSelection1"		"<clr:84,255,159><B>Vegas:<B> Oroa dig inte."
 
 
-		"[english]vegas.InjuredSelection2"		"<clr:84,255,159><B>Vegas:<B> I still got an ace up my sleeve."
-		"vegas.InjuredSelection2"		"<clr:84,255,159><B>Vegas:<B> I still got an ace up my sleeve."
+"[english]vegas.InjuredSelection2"		"<clr:84,255,159><B>Vegas:<B> I still got an ace up my sleeve."
+"vegas.InjuredSelection2"		"<clr:84,255,159><B>Vegas:<B> Jag har fortfarande ett ess i rockärmen."
 
 
-		"[english]vegas.InjuredSelection3"		"<clr:84,255,159><B>Vegas:<B> Just my luck."
-		"vegas.InjuredSelection3"		"<clr:84,255,159><B>Vegas:<B> Just my luck."
+"[english]vegas.InjuredSelection3"		"<clr:84,255,159><B>Vegas:<B> Just my luck."
+"vegas.InjuredSelection3"		"<clr:84,255,159><B>Vegas:<B> Bara min tur."
 
 
-		"[english]vegas.InjuredSelection4"		"<clr:84,255,159><B>Vegas:<B> What?"
-		"vegas.InjuredSelection4"		"<clr:84,255,159><B>Vegas:<B> What?"
+"[english]vegas.InjuredSelection4"		"<clr:84,255,159><B>Vegas:<B> What?"
+"vegas.InjuredSelection4"		"<clr:84,255,159><B>Vegas:<B> Va?"
 
 
-		"[english]vegas.SeriousInjuryReply0"		"<clr:84,255,159><B>Vegas:<B> Ah man, I should have stayed in Culiacan Sinaloa."
-		"vegas.SeriousInjuryReply0"		"<clr:84,255,159><B>Vegas:<B> Ah man, I should have stayed in Culiacan Sinaloa."
+"[english]vegas.SeriousInjuryReply0"		"<clr:84,255,159><B>Vegas:<B> Ah man, I should have stayed in Culiacan Sinaloa."
+"vegas.SeriousInjuryReply0"		"<clr:84,255,159><B>Vegas:<B> Ah man, jag borde ha stannat i Culiacan Sinaloa."
 
 
-		"[english]vegas.StillBreathingReply0"		"<clr:84,255,159><B>Vegas:<B> Why do I always get the crazy ones?"
-		"vegas.StillBreathingReply0"		"<clr:84,255,159><B>Vegas:<B> Why do I always get the crazy ones?"
+"[english]vegas.StillBreathingReply0"		"<clr:84,255,159><B>Vegas:<B> Why do I always get the crazy ones?"
+"vegas.StillBreathingReply0"		"<clr:84,255,159><B>Vegas:<B> Varför får jag alltid de galna?"
 
 
-		"[english]vegas.Use0"		"<clr:84,255,159><B>Vegas:<B> I got ya."
-		"vegas.Use0"		"<clr:84,255,159><B>Vegas:<B> I got ya."
+"[english]vegas.Use0"		"<clr:84,255,159><B>Vegas:<B> I got ya."
+"vegas.Use0"		"<clr:84,255,159><B>Vegas:<B> Jag har dig."
 
 
-		"[english]vegas.Use1"		"<clr:84,255,159><B>Vegas:<B> I'm on it."
-		"vegas.Use1"		"<clr:84,255,159><B>Vegas:<B> I'm on it."
+"[english]vegas.Use1"		"<clr:84,255,159><B>Vegas:<B> I'm on it."
+"vegas.Use1"		"<clr:84,255,159><B>Vegas:<B> Jag är på det."
 
 
-		"[english]vegas.Use2"		"<clr:84,255,159><B>Vegas:<B> On it."
-		"vegas.Use2"		"<clr:84,255,159><B>Vegas:<B> On it."
+"[english]vegas.Use2"		"<clr:84,255,159><B>Vegas:<B> On it."
+"vegas.Use2"		"<clr:84,255,159><B>Vegas:<B> På det."
 
 
-		"[english]vegas.Use3"		"<clr:84,255,159><B>Vegas:<B> <I>Si."
-		"vegas.Use3"		"<clr:84,255,159><B>Vegas:<B> <I>Si."
+"[english]vegas.Use3"		"<clr:84,255,159><B>Vegas:<B> <I>Si."
+"vegas.Use3"		"<clr:84,255,159><B>Vegas:<B> <I>Si."
 
 
-		"[english]vegas.Use4"		"<clr:84,255,159><B>Vegas:<B> <I>Si."
-		"vegas.Use4"		"<clr:84,255,159><B>Vegas:<B> <I>Si."
+"[english]vegas.Use4"		"<clr:84,255,159><B>Vegas:<B> <I>Si."
+"vegas.Use4"		"<clr:84,255,159><B>Vegas:<B> <I>Si."
 
 
-		"[english]vegas.Use5"		"<clr:84,255,159><B>Vegas:<B> Yessir."
-		"vegas.Use5"		"<clr:84,255,159><B>Vegas:<B> Yessir."
+"[english]vegas.Use5"		"<clr:84,255,159><B>Vegas:<B> Yessir."
+"vegas.Use5"		"<clr:84,255,159><B>Vegas:<B> Ja sir."
 
 
-		"[english]vegas.Idle0"		"<clr:84,255,159><B>Vegas:<B> 4 to 1, eh? I like the odds."
-		"vegas.Idle0"		"<clr:84,255,159><B>Vegas:<B> 4 to 1, eh? I like the odds."
+"[english]vegas.Idle0"		"<clr:84,255,159><B>Vegas:<B> 4 to 1, eh? I like the odds."
+"vegas.Idle0"		"<clr:84,255,159><B>Vegas:<B> 4 mot 1, eh? Jag gillar oddsen."
 
 
-		"[english]vegas.Idle1"		"<clr:84,255,159><B>Vegas:<B> Alright, who's up for a game of blackjack?"
-		"vegas.Idle1"		"<clr:84,255,159><B>Vegas:<B> Alright, who's up for a game of blackjack?"
+"[english]vegas.Idle1"		"<clr:84,255,159><B>Vegas:<B> Alright, who's up for a game of blackjack?"
+"vegas.Idle1"		"<clr:84,255,159><B>Vegas:<B> Okej, vem är sugen på en omgång blackjack?"
 
 
-		"[english]vegas.Idle2"		"<clr:84,255,159><B>Vegas:<B> Anyone got a deck of cards?"
-		"vegas.Idle2"		"<clr:84,255,159><B>Vegas:<B> Anyone got a deck of cards?"
+"[english]vegas.Idle2"		"<clr:84,255,159><B>Vegas:<B> Anyone got a deck of cards?"
+"vegas.Idle2"		"<clr:84,255,159><B>Vegas:<B> Har någon en kortlek?"
 
 
-		"[english]vegas.Idle3"		"<clr:84,255,159><B>Vegas:<B> Can't wait to get off this rock and back to the tables."
-		"vegas.Idle3"		"<clr:84,255,159><B>Vegas:<B> Can't wait to get off this rock and back to the tables."
+"[english]vegas.Idle3"		"<clr:84,255,159><B>Vegas:<B> Can't wait to get off this rock and back to the tables."
+"vegas.Idle3"		"<clr:84,255,159><B>Vegas:<B> Kan inte vänta med att komma från denna sten och tillbaka till borden."
 
 
-		"[english]vegas.Idle4"		"<clr:84,255,159><B>Vegas:<B> I could be watching the races right now."
-		"vegas.Idle4"		"<clr:84,255,159><B>Vegas:<B> I could be watching the races right now."
+"[english]vegas.Idle4"		"<clr:84,255,159><B>Vegas:<B> I could be watching the races right now."
+"vegas.Idle4"		"<clr:84,255,159><B>Vegas:<B> Jag skulle kunna se racen just nu."
 
 
-		"[english]vegas.Idle5"		"<clr:84,255,159><B>Vegas:<B> If I were a betting man, I'd say the worst is yet to come."
-		"vegas.Idle5"		"<clr:84,255,159><B>Vegas:<B> If I were a betting man, I'd say the worst is yet to come."
+"[english]vegas.Idle5"		"<clr:84,255,159><B>Vegas:<B> If I were a betting man, I'd say the worst is yet to come."
+"vegas.Idle5"		"<clr:84,255,159><B>Vegas:<B> Om jag var en bettingman skulle jag säga att det värsta är att komma."
 
 
-		"[english]vegas.Idle6"		"<clr:84,255,159><B>Vegas:<B> [Whistle]"
-		"vegas.Idle6"		"<clr:84,255,159><B>Vegas:<B> [Whistle]"
+"[english]vegas.Idle6"		"<clr:84,255,159><B>Vegas:<B> [Whistle]"
+"vegas.Idle6"		"<clr:84,255,159><B>Vegas:<B> [Vissla]"
 
 
-		"[english]vegas.Idle7"		"<clr:84,255,159><B>Vegas:<B> [Whistle]"
-		"vegas.Idle7"		"<clr:84,255,159><B>Vegas:<B> [Whistle]"
+"[english]vegas.Idle7"		"<clr:84,255,159><B>Vegas:<B> [Whistle]"
+"vegas.Idle7"		"<clr:84,255,159><B>Vegas:<B> [Vissla]"
 
 
-		"[english]vegas.Idle8"		"<clr:84,255,159><B>Vegas:<B> Who's up for some tequila?"
-		"vegas.Idle8"		"<clr:84,255,159><B>Vegas:<B> Who's up for some tequila?"
+"[english]vegas.Idle8"		"<clr:84,255,159><B>Vegas:<B> Who's up for some tequila?"
+"vegas.Idle8"		"<clr:84,255,159><B>Vegas:<B> Vem är sugen på lite tequila?"
 
 
-		"[english]vegas.Idle9"		"<clr:84,255,159><B>Vegas:<B> You guys like to gamble, we should play sometime."
-		"vegas.Idle9"		"<clr:84,255,159><B>Vegas:<B> You guys like to gamble, we should play sometime."
+"[english]vegas.Idle9"		"<clr:84,255,159><B>Vegas:<B> You guys like to gamble, we should play sometime."
+"vegas.Idle9"		"<clr:84,255,159><B>Vegas:<B> Ni gillar att satsa, vi borde spela någon gång."
 
 
-		"[english]vegas.FF0"		"<clr:84,255,159><B>Vegas:<B> Check your target!"
-		"vegas.FF0"		"<clr:84,255,159><B>Vegas:<B> Check your target!"
+"[english]vegas.FF0"		"<clr:84,255,159><B>Vegas:<B> Check your target!"
+"vegas.FF0"		"<clr:84,255,159><B>Vegas:<B> Kolla din måltavla!"
 
 
-		"[english]vegas.FF1"		"<clr:84,255,159><B>Vegas:<B> <I>Ten cuidado bastardo!"
-		"vegas.FF1"		"<clr:84,255,159><B>Vegas:<B> <I>Ten cuidado bastardo!"
+"[english]vegas.FF1"		"<clr:84,255,159><B>Vegas:<B> <I>Ten cuidado bastardo!"
+"vegas.FF1"		"<clr:84,255,159><B>Vegas:<B> <I>Ten cuidado bastardo!"
 
 
-		"[english]vegas.FF2"		"<clr:84,255,159><B>Vegas:<B> Watch it!"
-		"vegas.FF2"		"<clr:84,255,159><B>Vegas:<B> Watch it!"
+"[english]vegas.FF2"		"<clr:84,255,159><B>Vegas:<B> Watch it!"
+"vegas.FF2"		"<clr:84,255,159><B>Vegas:<B> Se upp!"
 
 
-		"[english]vegas.FiringAtAlien0"		"<clr:84,255,159><B>Vegas:<B> Contact!"
-		"vegas.FiringAtAlien0"		"<clr:84,255,159><B>Vegas:<B> Contact!"
+"[english]vegas.FiringAtAlien0"		"<clr:84,255,159><B>Vegas:<B> Contact!"
+"vegas.FiringAtAlien0"		"<clr:84,255,159><B>Vegas:<B> Kontakt!"
 
 
-		"[english]vegas.FiringAtAlien1"		"<clr:84,255,159><B>Vegas:<B> Die!"
-		"vegas.FiringAtAlien1"		"<clr:84,255,159><B>Vegas:<B> Die!"
+"[english]vegas.FiringAtAlien1"		"<clr:84,255,159><B>Vegas:<B> Die!"
+"vegas.FiringAtAlien1"		"<clr:84,255,159><B>Vegas:<B> Dö!"
 
 
-		"[english]vegas.FiringAtAlien2"		"<clr:84,255,159><B>Vegas:<B> Eat this!"
-		"vegas.FiringAtAlien2"		"<clr:84,255,159><B>Vegas:<B> Eat this!"
+"[english]vegas.FiringAtAlien2"		"<clr:84,255,159><B>Vegas:<B> Eat this!"
+"vegas.FiringAtAlien2"		"<clr:84,255,159><B>Vegas:<B> Ät det här!"
 
 
-		"[english]vegas.FiringAtAlien3"		"<clr:84,255,159><B>Vegas:<B> Incoming!"
-		"vegas.FiringAtAlien3"		"<clr:84,255,159><B>Vegas:<B> Incoming!"
+"[english]vegas.FiringAtAlien3"		"<clr:84,255,159><B>Vegas:<B> Incoming!"
+"vegas.FiringAtAlien3"		"<clr:84,255,159><B>Vegas:<B> Inkommande!"
 
 
-		"[english]vegas.FollowMe0"		"<clr:84,255,159><B>Vegas:<B> Go, go, go!"
-		"vegas.FollowMe0"		"<clr:84,255,159><B>Vegas:<B> Go, go, go!"
+"[english]vegas.FollowMe0"		"<clr:84,255,159><B>Vegas:<B> Go, go, go!"
+"vegas.FollowMe0"		"<clr:84,255,159><B>Vegas:<B> Gå, gå, gå!"
 
 
-		"[english]vegas.FollowMe1"		"<clr:84,255,159><B>Vegas:<B> Go, go, go!"
-		"vegas.FollowMe1"		"<clr:84,255,159><B>Vegas:<B> Go, go, go!"
+"[english]vegas.FollowMe1"		"<clr:84,255,159><B>Vegas:<B> Go, go, go!"
+"vegas.FollowMe1"		"<clr:84,255,159><B>Vegas:<B> Gå, gå, gå!"
 
 
-		"[english]vegas.FollowMe2"		"<clr:84,255,159><B>Vegas:<B> Let's move!"
-		"vegas.FollowMe2"		"<clr:84,255,159><B>Vegas:<B> Let's move!"
+"[english]vegas.FollowMe2"		"<clr:84,255,159><B>Vegas:<B> Let's move!"
+"vegas.FollowMe2"		"<clr:84,255,159><B>Vegas:<B> Låt oss röra på oss!"
 
 
-		"[english]vegas.FollowMe3"		"<clr:84,255,159><B>Vegas:<B> Time to roll the dice, <I>Compadre<I>."
-		"vegas.FollowMe3"		"<clr:84,255,159><B>Vegas:<B> Time to roll the dice, <I>Compadre<I>."
+"[english]vegas.FollowMe3"		"<clr:84,255,159><B>Vegas:<B> Time to roll the dice, <I>Compadre<I>."
+"vegas.FollowMe3"		"<clr:84,255,159><B>Vegas:<B> Dags att kasta tärningen, <I>Compadre<I>."
 
 
-		"[english]vegas.HoldPosition0"		"<clr:84,255,159><B>Vegas:<B> Hold position."
-		"vegas.HoldPosition0"		"<clr:84,255,159><B>Vegas:<B> Hold position."
+"[english]vegas.HoldPosition0"		"<clr:84,255,159><B>Vegas:<B> Hold position."
+"vegas.HoldPosition0"		"<clr:84,255,159><B>Vegas:<B> Håll positionen."
 
 
-		"[english]vegas.HoldPosition1"		"<clr:84,255,159><B>Vegas:<B> Secure this area."
-		"vegas.HoldPosition1"		"<clr:84,255,159><B>Vegas:<B> Secure this area."
+"[english]vegas.HoldPosition1"		"<clr:84,255,159><B>Vegas:<B> Secure this area."
+"vegas.HoldPosition1"		"<clr:84,255,159><B>Vegas:<B> Säkra detta område."
 
 
-		"[english]vegas.HoldPosition2"		"<clr:84,255,159><B>Vegas:<B> Stay here."
-		"vegas.HoldPosition2"		"<clr:84,255,159><B>Vegas:<B> Stay here."
+"[english]vegas.HoldPosition2"		"<clr:84,255,159><B>Vegas:<B> Stay here."
+"vegas.HoldPosition2"		"<clr:84,255,159><B>Vegas:<B> Stanna här."
 
 
-		"[english]vegas.NeedAmmo0"		"<clr:84,255,159><B>Vegas:<B> I need some ammo."
-		"vegas.NeedAmmo0"		"<clr:84,255,159><B>Vegas:<B> I need some ammo."
+"[english]vegas.NeedAmmo0"		"<clr:84,255,159><B>Vegas:<B> I need some ammo."
+"vegas.NeedAmmo0"		"<clr:84,255,159><B>Vegas:<B> Jag behöver lite ammunition."
 
 
-		"[english]vegas.NeedAmmo1"		"<clr:84,255,159><B>Vegas:<B> Need ammo."
-		"vegas.NeedAmmo1"		"<clr:84,255,159><B>Vegas:<B> Need ammo."
+"[english]vegas.NeedAmmo1"		"<clr:84,255,159><B>Vegas:<B> Need ammo."
+"vegas.NeedAmmo1"		"<clr:84,255,159><B>Vegas:<B> Behöver ammunition."
 
 
-		"[english]vegas.NoAmmo0"		"<clr:84,255,159><B>Vegas:<B> I'm out of ammo!"
-		"vegas.NoAmmo0"		"<clr:84,255,159><B>Vegas:<B> I'm out of ammo!"
+"[english]vegas.NoAmmo0"		"<clr:84,255,159><B>Vegas:<B> I'm out of ammo!"
+"vegas.NoAmmo0"		"<clr:84,255,159><B>Vegas:<B> Jag har slut på ammunition!"
 
 
-		"[english]vegas.NoAmmo1"		"<clr:84,255,159><B>Vegas:<B> No ammo!"
-		"vegas.NoAmmo1"		"<clr:84,255,159><B>Vegas:<B> No ammo!"
+"[english]vegas.NoAmmo1"		"<clr:84,255,159><B>Vegas:<B> No ammo!"
+"vegas.NoAmmo1"		"<clr:84,255,159><B>Vegas:<B> Ingen ammunition!"
 
 
-		"[english]vegas.Medic0"		"<clr:84,255,159><B>Vegas:<B> Medic!"
-		"vegas.Medic0"		"<clr:84,255,159><B>Vegas:<B> Medic!"
+"[english]vegas.Medic0"		"<clr:84,255,159><B>Vegas:<B> Medic!"
+"vegas.Medic0"		"<clr:84,255,159><B>Vegas:<B> Sjukvårdare!"
 
 
-		"[english]vegas.Medic1"		"<clr:84,255,159><B>Vegas:<B> Need Medic!"
-		"vegas.Medic1"		"<clr:84,255,159><B>Vegas:<B> Need Medic!"
+"[english]vegas.Medic1"		"<clr:84,255,159><B>Vegas:<B> Need Medic!"
+"vegas.Medic1"		"<clr:84,255,159><B>Vegas:<B> Behöver en sjukvårdare!"
 
 
-		"[english]vegas.Reloading0"		"<clr:84,255,159><B>Vegas:<B> Lock and load!"
-		"vegas.Reloading0"		"<clr:84,255,159><B>Vegas:<B> Lock and load!"
+"[english]vegas.Reloading0"		"<clr:84,255,159><B>Vegas:<B> Lock and load!"
+"vegas.Reloading0"		"<clr:84,255,159><B>Vegas:<B> Laddat och klart!"
 
 
-		"[english]vegas.Reloading1"		"<clr:84,255,159><B>Vegas:<B> <I>Estoy Cargando!"
-		"vegas.Reloading1"		"<clr:84,255,159><B>Vegas:<B> <I>Estoy Cargando!"
+"[english]vegas.Reloading1"		"<clr:84,255,159><B>Vegas:<B> <I>Estoy Cargando!"
+"vegas.Reloading1"		"<clr:84,255,159><B>Vegas:<B> <I>Estoy Cargando!"
 
 
-		"[english]vegas.Reloading2"		"<clr:84,255,159><B>Vegas:<B> Reload."
-		"vegas.Reloading2"		"<clr:84,255,159><B>Vegas:<B> Reload."
+"[english]vegas.Reloading2"		"<clr:84,255,159><B>Vegas:<B> Reload."
+"vegas.Reloading2"		"<clr:84,255,159><B>Vegas:<B> Ladda om."
 
 
-		"[english]vegas.Reloading3"		"<clr:84,255,159><B>Vegas:<B> Reload. Cover me."
-		"vegas.Reloading3"		"<clr:84,255,159><B>Vegas:<B> Reload. Cover me."
+"[english]vegas.Reloading3"		"<clr:84,255,159><B>Vegas:<B> Reload. Cover me."
+"vegas.Reloading3"		"<clr:84,255,159><B>Vegas:<B> Ladda om. Täck mig."
 
 
-		"[english]vegas.Reloading4"		"<clr:84,255,159><B>Vegas:<B> Reloading."
-		"vegas.Reloading4"		"<clr:84,255,159><B>Vegas:<B> Reloading."
+"[english]vegas.Reloading4"		"<clr:84,255,159><B>Vegas:<B> Reloading."
+"vegas.Reloading4"		"<clr:84,255,159><B>Vegas:<B> Laddar om."
 
 
-		"[english]vegas.SentryInPlace0"		"<clr:84,255,159><B>Vegas:<B> Let's hope this'll hold them off."
-		"vegas.SentryInPlace0"		"<clr:84,255,159><B>Vegas:<B> Let's hope this'll hold them off."
+"[english]vegas.SentryInPlace0"		"<clr:84,255,159><B>Vegas:<B> Let's hope this'll hold them off."
+"vegas.SentryInPlace0"		"<clr:84,255,159><B>Vegas:<B> Låt oss hoppas att det här håller dem borta."
 
 
-		"[english]vegas.SentryInPlace1"		"<clr:84,255,159><B>Vegas:<B> Sentry assembled."
-		"vegas.SentryInPlace1"		"<clr:84,255,159><B>Vegas:<B> Sentry assembled."
+"[english]vegas.SentryInPlace1"		"<clr:84,255,159><B>Vegas:<B> Sentry assembled."
+"vegas.SentryInPlace1"		"<clr:84,255,159><B>Vegas:<B> Vaktgevär monterat."
 
 
-		"[english]vegas.SentryInPlace2"		"<clr:84,255,159><B>Vegas:<B> Sentry in place."
-		"vegas.SentryInPlace2"		"<clr:84,255,159><B>Vegas:<B> Sentry in place."
+"[english]vegas.SentryInPlace2"		"<clr:84,255,159><B>Vegas:<B> Sentry in place."
+"vegas.SentryInPlace2"		"<clr:84,255,159><B>Vegas:<B> Vaktgevär på plats."
 
 
-		"[english]vegas.SentryInPlace3"		"<clr:84,255,159><B>Vegas:<B> Sentry in place."
-		"vegas.SentryInPlace3"		"<clr:84,255,159><B>Vegas:<B> Sentry in place."
+"[english]vegas.SentryInPlace3"		"<clr:84,255,159><B>Vegas:<B> Sentry in place."
+"vegas.SentryInPlace3"		"<clr:84,255,159><B>Vegas:<B> Vaktgevär på plats."
 
 
-		"[english]vegas.SentryInPlace4"		"<clr:84,255,159><B>Vegas:<B> Sentry online."
-		"vegas.SentryInPlace4"		"<clr:84,255,159><B>Vegas:<B> Sentry online."
+"[english]vegas.SentryInPlace4"		"<clr:84,255,159><B>Vegas:<B> Sentry online."
+"vegas.SentryInPlace4"		"<clr:84,255,159><B>Vegas:<B> Vaktgevär online."
 
 
-		"[english]vegas.SentryInPlace5"		"<clr:84,255,159><B>Vegas:<B> Sentry online."
-		"vegas.SentryInPlace5"		"<clr:84,255,159><B>Vegas:<B> Sentry online."
+"[english]vegas.SentryInPlace5"		"<clr:84,255,159><B>Vegas:<B> Sentry online."
+"vegas.SentryInPlace5"		"<clr:84,255,159><B>Vegas:<B> Vaktgevär online."
 
 
-		"[english]vegas.Ammo0"		"<clr:84,255,159><B>Vegas:<B> Ammo!"
-		"vegas.Ammo0"		"<clr:84,255,159><B>Vegas:<B> Ammo!"
+"[english]vegas.Ammo0"		"<clr:84,255,159><B>Vegas:<B> Ammo!"
+"vegas.Ammo0"		"<clr:84,255,159><B>Vegas:<B> Ammunition!"
 
 
-		"[english]vegas.Medkit0"		"<clr:84,255,159><B>Vegas:<B> Medkit!"
-		"vegas.Medkit0"		"<clr:84,255,159><B>Vegas:<B> Medkit!"
+"[english]vegas.Medkit0"		"<clr:84,255,159><B>Vegas:<B> Medkit!"
+"vegas.Medkit0"		"<clr:84,255,159><B>Vegas:<B> Medkit!"
 
 
-		"[english]vegas.Thanks0"		"<clr:84,255,159><B>Vegas:<B> <I>Gracias."
-		"vegas.Thanks0"		"<clr:84,255,159><B>Vegas:<B> <I>Gracias."
+"[english]vegas.Thanks0"		"<clr:84,255,159><B>Vegas:<B> <I>Gracias."
+"vegas.Thanks0"		"<clr:84,255,159><B>Vegas:<B> <I>Gracias."
 
 
-		"[english]vegas.Thanks1"		"<clr:84,255,159><B>Vegas:<B> <I>Muchos gracias."
-		"vegas.Thanks1"		"<clr:84,255,159><B>Vegas:<B> <I>Muchos gracias."
+"[english]vegas.Thanks1"		"<clr:84,255,159><B>Vegas:<B> <I>Muchos gracias."
+"vegas.Thanks1"		"<clr:84,255,159><B>Vegas:<B> <I>Muchos gracias."
 
 
-		"[english]vegas.Thanks2"		"<clr:84,255,159><B>Vegas:<B> Thanks!"
-		"vegas.Thanks2"		"<clr:84,255,159><B>Vegas:<B> Thanks!"
+"[english]vegas.Thanks2"		"<clr:84,255,159><B>Vegas:<B> Thanks!"
+"vegas.Thanks2"		"<clr:84,255,159><B>Vegas:<B> Tack!"
 
 
-		"[english]vegas.Question0"		"<clr:84,255,159><B>Vegas:<B> Huh?"
-		"vegas.Question0"		"<clr:84,255,159><B>Vegas:<B> Huh?"
+"[english]vegas.Question0"		"<clr:84,255,159><B>Vegas:<B> Huh?"
+"vegas.Question0"		"<clr:84,255,159><B>Vegas:<B> Huh?"
 
 
-		"[english]vegas.Question1"		"<clr:84,255,159><B>Vegas:<B> <I>Que?"
-		"vegas.Question1"		"<clr:84,255,159><B>Vegas:<B> <I>Que?"
+"[english]vegas.Question1"		"<clr:84,255,159><B>Vegas:<B> <I>Que?"
+"vegas.Question1"		"<clr:84,255,159><B>Vegas:<B> <I>Que?"
 
 
-		"[english]vegas.Question2"		"<clr:84,255,159><B>Vegas:<B> What?"
-		"vegas.Question2"		"<clr:84,255,159><B>Vegas:<B> What?"
+"[english]vegas.Question2"		"<clr:84,255,159><B>Vegas:<B> What?"
+"vegas.Question2"		"<clr:84,255,159><B>Vegas:<B> Va?"
 
 
-		"[english]vegas.Question3"		"<clr:84,255,159><B>Vegas:<B> What is it?"
-		"vegas.Question3"		"<clr:84,255,159><B>Vegas:<B> What is it?"
+"[english]vegas.Question3"		"<clr:84,255,159><B>Vegas:<B> What is it?"
+"vegas.Question3"		"<clr:84,255,159><B>Vegas:<B> Vad är det?"
 
 
-		"[english]vegas.CallSarge0"		"<clr:84,255,159><B>Vegas:<B> Hey, Sarge."
-		"vegas.CallSarge0"		"<clr:84,255,159><B>Vegas:<B> Hey, Sarge."
+"[english]vegas.CallSarge0"		"<clr:84,255,159><B>Vegas:<B> Hey, Sarge."
+"vegas.CallSarge0"		"<clr:84,255,159><B>Vegas:<B> Hej, Sarge."
 
 
-		"[english]vegas.CallSarge1"		"<clr:84,255,159><B>Vegas:<B> Sarge."
-		"vegas.CallSarge1"		"<clr:84,255,159><B>Vegas:<B> Sarge."
+"[english]vegas.CallSarge1"		"<clr:84,255,159><B>Vegas:<B> Sarge."
+"vegas.CallSarge1"		"<clr:84,255,159><B>Vegas:<B> Sarge."
 
 
-		"[english]vegas.CallJaeger0"		"<clr:84,255,159><B>Vegas:<B> Hey, Jaeger."
-		"vegas.CallJaeger0"		"<clr:84,255,159><B>Vegas:<B> Hey, Jaeger."
+"[english]vegas.CallJaeger0"		"<clr:84,255,159><B>Vegas:<B> Hey, Jaeger."
+"vegas.CallJaeger0"		"<clr:84,255,159><B>Vegas:<B> Hej, Jaeger."
 
 
-		"[english]vegas.CallJaeger1"		"<clr:84,255,159><B>Vegas:<B> Jaeger."
-		"vegas.CallJaeger1"		"<clr:84,255,159><B>Vegas:<B> Jaeger."
+"[english]vegas.CallJaeger1"		"<clr:84,255,159><B>Vegas:<B> Jaeger."
+"vegas.CallJaeger1"		"<clr:84,255,159><B>Vegas:<B> Jaeger."
 
 
-		"[english]vegas.CallWildcat0"		"<clr:84,255,159><B>Vegas:<B> Hey, Wildcat."
-		"vegas.CallWildcat0"		"<clr:84,255,159><B>Vegas:<B> Hey, Wildcat."
+"[english]vegas.CallWildcat0"		"<clr:84,255,159><B>Vegas:<B> Hey, Wildcat."
+"vegas.CallWildcat0"		"<clr:84,255,159><B>Vegas:<B> Hej, Wildcat."
 
 
-		"[english]vegas.CallWildcat1"		"<clr:84,255,159><B>Vegas:<B> Wildcat."
-		"vegas.CallWildcat1"		"<clr:84,255,159><B>Vegas:<B> Wildcat."
+"[english]vegas.CallWildcat1"		"<clr:84,255,159><B>Vegas:<B> Wildcat."
+"vegas.CallWildcat1"		"<clr:84,255,159><B>Vegas:<B> Wildcat."
 
 
-		"[english]vegas.CallWolfe0"		"<clr:84,255,159><B>Vegas:<B> Hey, Wolfe."
-		"vegas.CallWolfe0"		"<clr:84,255,159><B>Vegas:<B> Hey, Wolfe."
+"[english]vegas.CallWolfe0"		"<clr:84,255,159><B>Vegas:<B> Hey, Wolfe."
+"vegas.CallWolfe0"		"<clr:84,255,159><B>Vegas:<B> Hej, Wolfe."
 
 
-		"[english]vegas.CallWolfe1"		"<clr:84,255,159><B>Vegas:<B> Wolfe."
-		"vegas.CallWolfe1"		"<clr:84,255,159><B>Vegas:<B> Wolfe."
+"[english]vegas.CallWolfe1"		"<clr:84,255,159><B>Vegas:<B> Wolfe."
+"vegas.CallWolfe1"		"<clr:84,255,159><B>Vegas:<B> Wolfe."
 
 
-		"[english]vegas.CallFaith0"		"<clr:84,255,159><B>Vegas:<B> Faith."
-		"vegas.CallFaith0"		"<clr:84,255,159><B>Vegas:<B> Faith."
+"[english]vegas.CallFaith0"		"<clr:84,255,159><B>Vegas:<B> Faith."
+"vegas.CallFaith0"		"<clr:84,255,159><B>Vegas:<B> Faith."
 
 
-		"[english]vegas.CallFaith1"		"<clr:84,255,159><B>Vegas:<B> Hey, Faith."
-		"vegas.CallFaith1"		"<clr:84,255,159><B>Vegas:<B> Hey, Faith."
+"[english]vegas.CallFaith1"		"<clr:84,255,159><B>Vegas:<B> Hey, Faith."
+"vegas.CallFaith1"		"<clr:84,255,159><B>Vegas:<B> Hej, Faith."
 
 
-		"[english]vegas.CallBastille0"		"<clr:84,255,159><B>Vegas:<B> Bastille!"
-		"vegas.CallBastille0"		"<clr:84,255,159><B>Vegas:<B> Bastille!"
+"[english]vegas.CallBastille0"		"<clr:84,255,159><B>Vegas:<B> Bastille!"
+"vegas.CallBastille0"		"<clr:84,255,159><B>Vegas:<B> Bastille!"
 
 
-		"[english]vegas.CallBastille1"		"<clr:84,255,159><B>Vegas:<B> Hey, Bastille."
-		"vegas.CallBastille1"		"<clr:84,255,159><B>Vegas:<B> Hey, Bastille."
+"[english]vegas.CallBastille1"		"<clr:84,255,159><B>Vegas:<B> Hey, Bastille."
+"vegas.CallBastille1"		"<clr:84,255,159><B>Vegas:<B> Hej, Bastille."
 
 
-		"[english]vegas.CallCrash0"		"<clr:84,255,159><B>Vegas:<B> Crash!"
-		"vegas.CallCrash0"		"<clr:84,255,159><B>Vegas:<B> Crash!"
+"[english]vegas.CallCrash0"		"<clr:84,255,159><B>Vegas:<B> Crash!"
+"vegas.CallCrash0"		"<clr:84,255,159><B>Vegas:<B> Crash!"
 
 
-		"[english]vegas.CallCrash1"		"<clr:84,255,159><B>Vegas:<B> Hey, Crash."
-		"vegas.CallCrash1"		"<clr:84,255,159><B>Vegas:<B> Hey, Crash."
+"[english]vegas.CallCrash1"		"<clr:84,255,159><B>Vegas:<B> Hey, Crash."
+"vegas.CallCrash1"		"<clr:84,255,159><B>Vegas:<B> Hej, Crash."
 
 
-		"[english]vegas.CallFlynn0"		"<clr:84,255,159><B>Vegas:<B> Flynn!"
-		"vegas.CallFlynn0"		"<clr:84,255,159><B>Vegas:<B> Flynn!"
+"[english]vegas.CallFlynn0"		"<clr:84,255,159><B>Vegas:<B> Flynn!"
+"vegas.CallFlynn0"		"<clr:84,255,159><B>Vegas:<B> Flynn!"
 
 
-		"[english]vegas.CallFlynn1"		"<clr:84,255,159><B>Vegas:<B> Hey, Flynn."
-		"vegas.CallFlynn1"		"<clr:84,255,159><B>Vegas:<B> Hey, Flynn."
+"[english]vegas.CallFlynn1"		"<clr:84,255,159><B>Vegas:<B> Hey, Flynn."
+"vegas.CallFlynn1"		"<clr:84,255,159><B>Vegas:<B> Hej, Flynn."
 
 
-		"[english]vegas.SuppliesAmmo0"		"<clr:84,255,159><B>Vegas:<B> More ammo! Just what we need."
-		"vegas.SuppliesAmmo0"		"<clr:84,255,159><B>Vegas:<B> More ammo! Just what we need."
+"[english]vegas.SuppliesAmmo0"		"<clr:84,255,159><B>Vegas:<B> More ammo! Just what we need."
+"vegas.SuppliesAmmo0"		"<clr:84,255,159><B>Vegas:<B> Mera ammunition! Just vad vi behöver."
 
 
-		"[english]vegas.Supplies0"		"<clr:84,255,159><B>Vegas:<B> Haha! Supplies."
-		"vegas.Supplies0"		"<clr:84,255,159><B>Vegas:<B> Haha! Supplies."
+"[english]vegas.Supplies0"		"<clr:84,255,159><B>Vegas:<B> Haha! Supplies."
+"vegas.Supplies0"		"<clr:84,255,159><B>Vegas:<B> Haha! Förnödenheter."
 
 
-		"[english]vegas.HoldingPosition0"		"<clr:84,255,159><B>Vegas:<B> Covering area."
-		"vegas.HoldingPosition0"		"<clr:84,255,159><B>Vegas:<B> Covering area."
+"[english]vegas.HoldingPosition0"		"<clr:84,255,159><B>Vegas:<B> Covering area."
+"vegas.HoldingPosition0"		"<clr:84,255,159><B>Vegas:<B> Täcker område."
 
 
-		"[english]vegas.HoldingPosition1"		"<clr:84,255,159><B>Vegas:<B> Holding position."
-		"vegas.HoldingPosition1"		"<clr:84,255,159><B>Vegas:<B> Holding position."
+"[english]vegas.HoldingPosition1"		"<clr:84,255,159><B>Vegas:<B> Holding position."
+"vegas.HoldingPosition1"		"<clr:84,255,159><B>Vegas:<B> Håller positionen."
 
 
-		"[english]vegas.HoldingPosition2"		"<clr:84,255,159><B>Vegas:<B> In position."
-		"vegas.HoldingPosition2"		"<clr:84,255,159><B>Vegas:<B> In position."
+"[english]vegas.HoldingPosition2"		"<clr:84,255,159><B>Vegas:<B> In position."
+"vegas.HoldingPosition2"		"<clr:84,255,159><B>Vegas:<B> På plats."
 
 
-		"[english]vegas.HoldingPosition3"		"<clr:84,255,159><B>Vegas:<B> Securing area."
-		"vegas.HoldingPosition3"		"<clr:84,255,159><B>Vegas:<B> Securing area."
+"[english]vegas.HoldingPosition3"		"<clr:84,255,159><B>Vegas:<B> Securing area."
+"vegas.HoldingPosition3"		"<clr:84,255,159><B>Vegas:<B> Säkrar område."
 
 
-		"[english]vegas.HoldingPosition4"		"<clr:84,255,159><B>Vegas:<B> They'll need an army to get past me."
-		"vegas.HoldingPosition4"		"<clr:84,255,159><B>Vegas:<B> They'll need an army to get past me."
+"[english]vegas.HoldingPosition4"		"<clr:84,255,159><B>Vegas:<B> They'll need an army to get past me."
+"vegas.HoldingPosition4"		"<clr:84,255,159><B>Vegas:<B> De behöver en armé för att komma förbi mig."
 
 
-		"[english]vegas.HoldingNorth0"		"<clr:84,255,159><B>Vegas:<B> Covering north."
-		"vegas.HoldingNorth0"		"<clr:84,255,159><B>Vegas:<B> Covering north."
+"[english]vegas.HoldingNorth0"		"<clr:84,255,159><B>Vegas:<B> Covering north."
+"vegas.HoldingNorth0"		"<clr:84,255,159><B>Vegas:<B> Täcker norrut."
 
 
-		"[english]vegas.HoldingNorth1"		"<clr:84,255,159><B>Vegas:<B> Covering north side."
-		"vegas.HoldingNorth1"		"<clr:84,255,159><B>Vegas:<B> Covering north side."
+"[english]vegas.HoldingNorth1"		"<clr:84,255,159><B>Vegas:<B> Covering north side."
+"vegas.HoldingNorth1"		"<clr:84,255,159><B>Vegas:<B> Täcker norra sidan."
 
 
-		"[english]vegas.HoldingNorth2"		"<clr:84,255,159><B>Vegas:<B> North side covered."
-		"vegas.HoldingNorth2"		"<clr:84,255,159><B>Vegas:<B> North side covered."
+"[english]vegas.HoldingNorth2"		"<clr:84,255,159><B>Vegas:<B> North side covered."
+"vegas.HoldingNorth2"		"<clr:84,255,159><B>Vegas:<B> Norra sidan skyddad."
 
 
-		"[english]vegas.HoldingNorth3"		"<clr:84,255,159><B>Vegas:<B> North side in position."
-		"vegas.HoldingNorth3"		"<clr:84,255,159><B>Vegas:<B> North side in position."
+"[english]vegas.HoldingNorth3"		"<clr:84,255,159><B>Vegas:<B> North side in position."
+"vegas.HoldingNorth3"		"<clr:84,255,159><B>Vegas:<B> Norra sidan på plats."
 
 
-		"[english]vegas.HoldingSouth0"		"<clr:84,255,159><B>Vegas:<B> Covering south side."
-		"vegas.HoldingSouth0"		"<clr:84,255,159><B>Vegas:<B> Covering south side."
+"[english]vegas.HoldingSouth0"		"<clr:84,255,159><B>Vegas:<B> Covering south side."
+"vegas.HoldingSouth0"		"<clr:84,255,159><B>Vegas:<B> Täcker södra sidan."
 
 
-		"[english]vegas.HoldingSouth1"		"<clr:84,255,159><B>Vegas:<B> Covering south side."
-		"vegas.HoldingSouth1"		"<clr:84,255,159><B>Vegas:<B> Covering south side."
+"[english]vegas.HoldingSouth1"		"<clr:84,255,159><B>Vegas:<B> Covering south side."
+"vegas.HoldingSouth1"		"<clr:84,255,159><B>Vegas:<B> Täcker södra sidan."
 
 
-		"[english]vegas.HoldingSouth2"		"<clr:84,255,159><B>Vegas:<B> South side in position."
-		"vegas.HoldingSouth2"		"<clr:84,255,159><B>Vegas:<B> South side in position."
+"[english]vegas.HoldingSouth2"		"<clr:84,255,159><B>Vegas:<B> South side in position."
+"vegas.HoldingSouth2"		"<clr:84,255,159><B>Vegas:<B> Södra sidan på plats."
 
 
-		"[english]vegas.HoldingEast0"		"<clr:84,255,159><B>Vegas:<B> Covering east."
-		"vegas.HoldingEast0"		"<clr:84,255,159><B>Vegas:<B> Covering east."
+"[english]vegas.HoldingEast0"		"<clr:84,255,159><B>Vegas:<B> Covering east."
+"vegas.HoldingEast0"		"<clr:84,255,159><B>Vegas:<B> Täcker österut."
 
 
-		"[english]vegas.HoldingEast1"		"<clr:84,255,159><B>Vegas:<B> Covering east side."
-		"vegas.HoldingEast1"		"<clr:84,255,159><B>Vegas:<B> Covering east side."
+"[english]vegas.HoldingEast1"		"<clr:84,255,159><B>Vegas:<B> Covering east side."
+"vegas.HoldingEast1"		"<clr:84,255,159><B>Vegas:<B> Täcker östra sidan."
 
 
-		"[english]vegas.HoldingEast2"		"<clr:84,255,159><B>Vegas:<B> East side in position."
-		"vegas.HoldingEast2"		"<clr:84,255,159><B>Vegas:<B> East side in position."
+"[english]vegas.HoldingEast2"		"<clr:84,255,159><B>Vegas:<B> East side in position."
+"vegas.HoldingEast2"		"<clr:84,255,159><B>Vegas:<B> Östra sidan på plats."
 
 
-		"[english]vegas.HoldingWest0"		"<clr:84,255,159><B>Vegas:<B> Covering west."
-		"vegas.HoldingWest0"		"<clr:84,255,159><B>Vegas:<B> Covering west."
+"[english]vegas.HoldingWest0"		"<clr:84,255,159><B>Vegas:<B> Covering west."
+"vegas.HoldingWest0"		"<clr:84,255,159><B>Vegas:<B> Täcker västerut."
 
 
-		"[english]vegas.HoldingWest1"		"<clr:84,255,159><B>Vegas:<B> Covering west side."
-		"vegas.HoldingWest1"		"<clr:84,255,159><B>Vegas:<B> Covering west side."
+"[english]vegas.HoldingWest1"		"<clr:84,255,159><B>Vegas:<B> Covering west side."
+"vegas.HoldingWest1"		"<clr:84,255,159><B>Vegas:<B> Täcker västra sidan."
 
 
-		"[english]vegas.HoldingWest2"		"<clr:84,255,159><B>Vegas:<B> West side in position."
-		"vegas.HoldingWest2"		"<clr:84,255,159><B>Vegas:<B> West side in position."
+"[english]vegas.HoldingWest2"		"<clr:84,255,159><B>Vegas:<B> West side in position."
+"vegas.HoldingWest2"		"<clr:84,255,159><B>Vegas:<B> Västra sidan på plats."
 
 
-		"[english]vegas.GotPoint0"		"<clr:84,255,159><B>Vegas:<B> I'll take point."
-		"vegas.GotPoint0"		"<clr:84,255,159><B>Vegas:<B> I'll take point."
+"[english]vegas.GotPoint0"		"<clr:84,255,159><B>Vegas:<B> I'll take point."
+"vegas.GotPoint0"		"<clr:84,255,159><B>Vegas:<B> Jag tar punkten."
 
 
-		"[english]vegas.GotPoint1"		"<clr:84,255,159><B>Vegas:<B> Vegas taking point."
-		"vegas.GotPoint1"		"<clr:84,255,159><B>Vegas:<B> Vegas taking point."
+"[english]vegas.GotPoint1"		"<clr:84,255,159><B>Vegas:<B> Vegas taking point."
+"vegas.GotPoint1"		"<clr:84,255,159><B>Vegas:<B> Vegas tar punkten."
 
 
-		"[english]vegas.GotRear0"		"<clr:84,255,159><B>Vegas:<B> I'll cover the back."
-		"vegas.GotRear0"		"<clr:84,255,159><B>Vegas:<B> I'll cover the back."
+"[english]vegas.GotRear0"		"<clr:84,255,159><B>Vegas:<B> I'll cover the back."
+"vegas.GotRear0"		"<clr:84,255,159><B>Vegas:<B> Jag skyddar bakåt."
 
 
-		"[english]vegas.GotRear1"		"<clr:84,255,159><B>Vegas:<B> I've got your back."
-		"vegas.GotRear1"		"<clr:84,255,159><B>Vegas:<B> I've got your back."
+"[english]vegas.GotRear1"		"<clr:84,255,159><B>Vegas:<B> I've got your back."
+"vegas.GotRear1"		"<clr:84,255,159><B>Vegas:<B> Jag har din rygg."
 
 
-		"[english]vegas.RequestSealDoor0"		"<clr:84,255,159><B>Vegas:<B> Quick, seal the door!"
-		"vegas.RequestSealDoor0"		"<clr:84,255,159><B>Vegas:<B> Quick, seal the door!"
+"[english]vegas.RequestSealDoor0"		"<clr:84,255,159><B>Vegas:<B> Quick, seal the door!"
+"vegas.RequestSealDoor0"		"<clr:84,255,159><B>Vegas:<B> Snabbt, försegla dörren!"
 
 
-		"[english]vegas.RequestSealDoor1"		"<clr:84,255,159><B>Vegas:<B> Seal it up! I wanna get off this rock alive."
-		"vegas.RequestSealDoor1"		"<clr:84,255,159><B>Vegas:<B> Seal it up! I wanna get off this rock alive."
+"[english]vegas.RequestSealDoor1"		"<clr:84,255,159><B>Vegas:<B> Seal it up! I wanna get off this rock alive."
+"vegas.RequestSealDoor1"		"<clr:84,255,159><B>Vegas:<B> Försegla den! Jag vill komma bort från den här stenen levandes."
 
 
-		"[english]vegas.RequestSealDoor2"		"<clr:84,255,159><B>Vegas:<B> Seal it up. We don't want those things getting in here."
-		"vegas.RequestSealDoor2"		"<clr:84,255,159><B>Vegas:<B> Seal it up. We don't want those things getting in here."
+"[english]vegas.RequestSealDoor2"		"<clr:84,255,159><B>Vegas:<B> Seal it up. We don't want those things getting in here."
+"vegas.RequestSealDoor2"		"<clr:84,255,159><B>Vegas:<B> Försegla den. Vi vill inte att de där sakerna ska komma in hit."
 
 
-		"[english]vegas.RequestCutDoor0"		"<clr:84,255,159><B>Vegas:<B> Come on, open it."
-		"vegas.RequestCutDoor0"		"<clr:84,255,159><B>Vegas:<B> Come on, open it."
+"[english]vegas.RequestCutDoor0"		"<clr:84,255,159><B>Vegas:<B> Come on, open it."
+"vegas.RequestCutDoor0"		"<clr:84,255,159><B>Vegas:<B> Kom igen, öppna den."
 
 
-		"[english]vegas.RequestCutDoor1"		"<clr:84,255,159><B>Vegas:<B> Cut it open."
-		"vegas.RequestCutDoor1"		"<clr:84,255,159><B>Vegas:<B> Cut it open."
+"[english]vegas.RequestCutDoor1"		"<clr:84,255,159><B>Vegas:<B> Cut it open."
+"vegas.RequestCutDoor1"		"<clr:84,255,159><B>Vegas:<B> Skär upp den."
 
 
-		"[english]vegas.RequestCutDoor2"		"<clr:84,255,159><B>Vegas:<B> Get the door open."
-		"vegas.RequestCutDoor2"		"<clr:84,255,159><B>Vegas:<B> Get the door open."
+"[english]vegas.RequestCutDoor2"		"<clr:84,255,159><B>Vegas:<B> Get the door open."
+"vegas.RequestCutDoor2"		"<clr:84,255,159><B>Vegas:<B> Få upp dörren."
 
 
-		"[english]vegas.RequestShootDoor0"		"<clr:84,255,159><B>Vegas:<B> Blast it open."
-		"vegas.RequestShootDoor0"		"<clr:84,255,159><B>Vegas:<B> Blast it open."
+"[english]vegas.RequestShootDoor0"		"<clr:84,255,159><B>Vegas:<B> Blast it open."
+"vegas.RequestShootDoor0"		"<clr:84,255,159><B>Vegas:<B> Spräng upp den."
 
 
-		"[english]vegas.RequestShootDoor1"		"<clr:84,255,159><B>Vegas:<B> Shoot it down."
-		"vegas.RequestShootDoor1"		"<clr:84,255,159><B>Vegas:<B> Shoot it down."
+"[english]vegas.RequestShootDoor1"		"<clr:84,255,159><B>Vegas:<B> Shoot it down."
+"vegas.RequestShootDoor1"		"<clr:84,255,159><B>Vegas:<B> Skjut ner den."
 
 
-		"[english]vegas.RequestShootDoor2"		"<clr:84,255,159><B>Vegas:<B> Shoot it open."
-		"vegas.RequestShootDoor2"		"<clr:84,255,159><B>Vegas:<B> Shoot it open."
+"[english]vegas.RequestShootDoor2"		"<clr:84,255,159><B>Vegas:<B> Shoot it open."
+"vegas.RequestShootDoor2"		"<clr:84,255,159><B>Vegas:<B> Skjut upp den."
 
 
-		"[english]vegas.CuttingDoor0"		"<clr:84,255,159><B>Vegas:<B> I'll have it open in no time."
-		"vegas.CuttingDoor0"		"<clr:84,255,159><B>Vegas:<B> I'll have it open in no time."
+"[english]vegas.CuttingDoor0"		"<clr:84,255,159><B>Vegas:<B> I'll have it open in no time."
+"vegas.CuttingDoor0"		"<clr:84,255,159><B>Vegas:<B> Jag har den öppen på nolltid."
 
 
-		"[english]vegas.CuttingDoor1"		"<clr:84,255,159><B>Vegas:<B> Roger that. Cutting door."
-		"vegas.CuttingDoor1"		"<clr:84,255,159><B>Vegas:<B> Roger that. Cutting door."
+"[english]vegas.CuttingDoor1"		"<clr:84,255,159><B>Vegas:<B> Roger that. Cutting door."
+"vegas.CuttingDoor1"		"<clr:84,255,159><B>Vegas:<B> Uppfattat. Skär dörr."
 
 
-		"[english]vegas.CuttingDoor2"		"<clr:84,255,159><B>Vegas:<B> Vegas cutting door."
-		"vegas.CuttingDoor2"		"<clr:84,255,159><B>Vegas:<B> Vegas cutting door."
+"[english]vegas.CuttingDoor2"		"<clr:84,255,159><B>Vegas:<B> Vegas cutting door."
+"vegas.CuttingDoor2"		"<clr:84,255,159><B>Vegas:<B> Vegas skär dörr."
 
 
-		"[english]vegas.SealingDoor0"		"<clr:84,255,159><B>Vegas:<B> Sealing door nice and tight."
-		"vegas.SealingDoor0"		"<clr:84,255,159><B>Vegas:<B> Sealing door nice and tight."
+"[english]vegas.SealingDoor0"		"<clr:84,255,159><B>Vegas:<B> Sealing door nice and tight."
+"vegas.SealingDoor0"		"<clr:84,255,159><B>Vegas:<B> Förseglar dörr fint och tätt."
 
 
-		"[english]vegas.SealingDoor1"		"<clr:84,255,159><B>Vegas:<B> Securing door."
-		"vegas.SealingDoor1"		"<clr:84,255,159><B>Vegas:<B> Securing door."
+"[english]vegas.SealingDoor1"		"<clr:84,255,159><B>Vegas:<B> Securing door."
+"vegas.SealingDoor1"		"<clr:84,255,159><B>Vegas:<B> Säkrar dörr."
 
 
-		"[english]vegas.SealingDoor2"		"<clr:84,255,159><B>Vegas:<B> Vegas sealing door."
-		"vegas.SealingDoor2"		"<clr:84,255,159><B>Vegas:<B> Vegas sealing door."
+"[english]vegas.SealingDoor2"		"<clr:84,255,159><B>Vegas:<B> Vegas sealing door."
+"vegas.SealingDoor2"		"<clr:84,255,159><B>Vegas:<B> Vegas förseglar dörr."
 
 
-		"[english]vegas.Biomass0"		"<clr:84,255,159><B>Vegas:<B> Alien goo, the highlight of any infested colony. Burn it."
-		"vegas.Biomass0"		"<clr:84,255,159><B>Vegas:<B> Alien goo, the highlight of any infested colony. Burn it."
+"[english]vegas.Biomass0"		"<clr:84,255,159><B>Vegas:<B> Alien goo, the highlight of any infested colony. Burn it."
+"vegas.Biomass0"		"<clr:84,255,159><B>Vegas:<B> Alien slämm, högpunkten av alla infesterade kolonier. Bränn upp det."
 
 
-		"[english]vegas.Biomass1"		"<clr:84,255,159><B>Vegas:<B> Biomass. Man, I hate this stuff. Burn it."
-		"vegas.Biomass1"		"<clr:84,255,159><B>Vegas:<B> Biomass. Man, I hate this stuff. Burn it."
+"[english]vegas.Biomass1"		"<clr:84,255,159><B>Vegas:<B> Biomass. Man, I hate this stuff. Burn it."
+"vegas.Biomass1"		"<clr:84,255,159><B>Vegas:<B> Biomassa. Man, jag hatar det här. Bränn upp det."
 
 
 		"[english]vegas.Biomass2"		"<clr:84,255,159><B>Vegas:<B> Biomass! Man, I hate this stuff. Where is the damn flamer?"
