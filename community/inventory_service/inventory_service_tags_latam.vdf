@@ -21,7 +21,7 @@
 "[english]inventory_name_format_8"		""
 "inventory_name_format_8"		""
 "[english]inventory_rarity"		"Rarity"
-"inventory_rarity"		"Aspecto Rareza"
+"inventory_rarity"		"Rareza"
 // items that can be obtained by pretty much anyone.
 "[english]inventory_rarity_common"		"Common"
 "inventory_rarity_common"		"Aspecto Común"
@@ -39,7 +39,7 @@
 "inventory_rarity_genuine"		"Aspecto Genuino"
 // items that count stats.
 "[english]inventory_rarity_strange_rarity"		"Strange"
-"inventory_rarity_strange_rarity"		"Aspecto Extraño"
+"inventory_rarity_strange_rarity"		"Aspecto Insólito"
 // where an item can be equipped.
 "[english]inventory_slot"		"Slot"
 "inventory_slot"		"Espacio"
