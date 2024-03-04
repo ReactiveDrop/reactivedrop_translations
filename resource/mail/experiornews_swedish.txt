@@ -1,0 +1,8 @@
+GAME
+{
+"Headline"	"Pirate Bay att köpa Sealand?"
+"HeadlineDate"	"12/01/07"
+"Paragraph1"	"Ökända svenska fildelningswebbplats Pirate Bay planerar att köpa sin egen nation i ett försök att komma runt besvärliga internationella upphovsrättslagar. Organisationen, världens största bit torrent spårare, har siktet inställt på Sealand, en före detta brittisk flottplattform i Nordsjön som har utsetts till en "mikronation" och påstår sig vara utanför brittisk jurisdiktion. Med ett pris riktat på 500 miljoner pund blir det inte billigt, men Pirate Bay säger att bidragsgivare kommer att bli hedersmedborgare.""
+"Paragraph2"	"今年のLinux界隈であるが、カーネルで大きな動きがあったわけでもないので、とりあえず印象に残っている ニュースを列挙すると、"
+"Paragraph3"	"検察の広報キャラクター"
+}
