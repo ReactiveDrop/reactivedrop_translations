@@ -15,9 +15,9 @@
 "filter_servermsg"		"Server Meddelanden"
 "[english]filter_teamchange"		"Team Changes"
 "filter_teamchange"		"Lag Byten"
-"[english]chat_say"		"Say"
-"chat_say"		"Säg"
-"[english]chat_say_team"		"Say (TEAM)"
-"chat_say_team"		"Säg (LAG)"
+"[english]chat_say"		"Say:"
+"chat_say"		"Säg:"
+"[english]chat_say_team"		"Say (TEAM):"
+"chat_say_team"		"Säg (LAG):"
 }
 }

@@ -15,9 +15,9 @@
 "filter_servermsg"		"Сообщения сервера"
 "[english]filter_teamchange"		"Team Changes"
 "filter_teamchange"		"Смена команды"
-"[english]chat_say"		"Say"
-"chat_say"		"Сказать"
-"[english]chat_say_team"		"Say (TEAM)"
-"chat_say_team"		"Сказать (КОМАНДЕ)"
+"[english]chat_say"		"Say:"
+"chat_say"		"Сказать:"
+"[english]chat_say_team"		"Say (TEAM):"
+"chat_say_team"		"Сказать (КОМАНДЕ):"
 }
 }

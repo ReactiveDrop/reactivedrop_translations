@@ -15,9 +15,9 @@
 "filter_servermsg"		"Mensagens do servidor"
 "[english]filter_teamchange"		"Team Changes"
 "filter_teamchange"		"Trocas de equipe"
-"[english]chat_say"		"Say"
-"chat_say"		"Falar"
-"[english]chat_say_team"		"Say (TEAM)"
-"chat_say_team"		"Falar (EQUIPE)"
+"[english]chat_say"		"Say:"
+"chat_say"		"Falar:"
+"[english]chat_say_team"		"Say (TEAM):"
+"chat_say_team"		"Falar (EQUIPE):"
 }
 }
