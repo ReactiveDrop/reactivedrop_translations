@@ -3247,236 +3247,236 @@
 "sarge.CallVegas2"		"<clr:238,207,161><B>Sarge:<B> Hej Vegas, lyssna."
 
 
-		"[english]sarge.SuppliesAmmo0"		"<clr:238,207,161><B>Sarge:<B> Good, supplies. Take what you need."
-		"sarge.SuppliesAmmo0"		"<clr:238,207,161><B>Sarge:<B> Good, supplies. Take what you need."
+"[english]sarge.SuppliesAmmo0"		"<clr:238,207,161><B>Sarge:<B> Good, supplies. Take what you need."
+"sarge.SuppliesAmmo0"		"<clr:238,207,161><B>Sarge:<B> Bra, förnödenheter. Ta vad ni behöver."
 
 
-		"[english]sarge.SuppliesAmmo1"		"<clr:238,207,161><B>Sarge:<B> Good, supplies. Lock and load, marines."
-		"sarge.SuppliesAmmo1"		"<clr:238,207,161><B>Sarge:<B> Good, supplies. Lock and load, marines."
+"[english]sarge.SuppliesAmmo1"		"<clr:238,207,161><B>Sarge:<B> Good, supplies. Lock and load, marines."
+"sarge.SuppliesAmmo1"		"<clr:238,207,161><B>Sarge:<B> Bra, förnödenheter. Laddat och klart, mariner."
 
 
-		"[english]sarge.SuppliesAmmo2"		"<clr:238,207,161><B>Sarge:<B> Take what you need, and stand to."
-		"sarge.SuppliesAmmo2"		"<clr:238,207,161><B>Sarge:<B> Take what you need, and stand to."
+"[english]sarge.SuppliesAmmo2"		"<clr:238,207,161><B>Sarge:<B> Take what you need, and stand to."
+"sarge.SuppliesAmmo2"		"<clr:238,207,161><B>Sarge:<B> Ta vad ni behöver, och stå för er också."
 
 
-		"[english]sarge.LockedTerminalCrash0"		"<clr:238,207,161><B>Sarge:<B> Terminal secure. Crash, you're up."
-		"sarge.LockedTerminalCrash0"		"<clr:238,207,161><B>Sarge:<B> Terminal secure. Crash, you're up."
+"[english]sarge.LockedTerminalCrash0"		"<clr:238,207,161><B>Sarge:<B> Terminal secure. Crash, you're up."
+"sarge.LockedTerminalCrash0"		"<clr:238,207,161><B>Sarge:<B> Terminal säkrad. Crash, du är på tur."
 
 
-		"[english]sarge.LockedTerminalCrash1"		"<clr:238,207,161><B>Sarge:<B> Terminal secure. Get your ass over here, Crash."
-		"sarge.LockedTerminalCrash1"		"<clr:238,207,161><B>Sarge:<B> Terminal secure. Get your ass over here, Crash."
+"[english]sarge.LockedTerminalCrash1"		"<clr:238,207,161><B>Sarge:<B> Terminal secure. Get your ass over here, Crash."
+"sarge.LockedTerminalCrash1"		"<clr:238,207,161><B>Sarge:<B> Terminal säkrad. Pallra dig hit, Crash."
 
 
-		"[english]sarge.LockedTerminalFlynn0"		"<clr:238,207,161><B>Sarge:<B> Terminal secure. Flynn, you're up."
-		"sarge.LockedTerminalFlynn0"		"<clr:238,207,161><B>Sarge:<B> Terminal secure. Flynn, you're up."
+"[english]sarge.LockedTerminalFlynn0"		"<clr:238,207,161><B>Sarge:<B> Terminal secure. Flynn, you're up."
+"sarge.LockedTerminalFlynn0"		"<clr:238,207,161><B>Sarge:<B> Terminal säkrad. Flynn, du är på tur."
 
 
-		"[english]sarge.LockedTerminalVegas0"		"<clr:238,207,161><B>Sarge:<B> Terminal secure. Vegas, you're up."
-		"sarge.LockedTerminalVegas0"		"<clr:238,207,161><B>Sarge:<B> Terminal secure. Vegas, you're up."
+"[english]sarge.LockedTerminalVegas0"		"<clr:238,207,161><B>Sarge:<B> Terminal secure. Vegas, you're up."
+"sarge.LockedTerminalVegas0"		"<clr:238,207,161><B>Sarge:<B> Terminal säkrad. Vegas, du är på tur."
 
 
-		"[english]sarge.LockedTerminalVegas1"		"<clr:238,207,161><B>Sarge:<B> Terminal secure. Vegas, get your ass up here."
-		"sarge.LockedTerminalVegas1"		"<clr:238,207,161><B>Sarge:<B> Terminal secure. Vegas, get your ass up here."
+"[english]sarge.LockedTerminalVegas1"		"<clr:238,207,161><B>Sarge:<B> Terminal secure. Vegas, get your ass up here."
+"sarge.LockedTerminalVegas1"		"<clr:238,207,161><B>Sarge:<B> Terminal säkrad. Vegas, pallra dig hit."
 
 
-		"[english]sarge.LockedTerminal0"		"<clr:238,207,161><B>Sarge:<B> Terminal's secure."
-		"sarge.LockedTerminal0"		"<clr:238,207,161><B>Sarge:<B> Terminal's secure."
+"[english]sarge.LockedTerminal0"		"<clr:238,207,161><B>Sarge:<B> Terminal's secure."
+"sarge.LockedTerminal0"		"<clr:238,207,161><B>Sarge:<B> Terminalerna är säkrade."
 
 
-		"[english]sarge.LockedTerminal1"		"<clr:238,207,161><B>Sarge:<B> It's locked."
-		"sarge.LockedTerminal1"		"<clr:238,207,161><B>Sarge:<B> It's locked."
+"[english]sarge.LockedTerminal1"		"<clr:238,207,161><B>Sarge:<B> It's locked."
+"sarge.LockedTerminal1"		"<clr:238,207,161><B>Sarge:<B> Den är låst."
 
 
-		"[english]sarge.LockedTerminal2"		"<clr:238,207,161><B>Sarge:<B> I need a tech here, on the double."
-		"sarge.LockedTerminal2"		"<clr:238,207,161><B>Sarge:<B> I need a tech here, on the double."
+"[english]sarge.LockedTerminal2"		"<clr:238,207,161><B>Sarge:<B> I need a tech here, on the double."
+"sarge.LockedTerminal2"		"<clr:238,207,161><B>Sarge:<B> Jag behöver en tekniker här."
 
 
-		"[english]sarge.HoldingPosition0"		"<clr:238,207,161><B>Sarge:<B> Cover an area."
-		"sarge.HoldingPosition0"		"<clr:238,207,161><B>Sarge:<B> Cover an area."
+"[english]sarge.HoldingPosition0"		"<clr:238,207,161><B>Sarge:<B> Cover an area."
+"sarge.HoldingPosition0"		"<clr:238,207,161><B>Sarge:<B> Täck ett område."
 
 
-		"[english]sarge.HoldingPosition1"		"<clr:238,207,161><B>Sarge:<B> Securing area."
-		"sarge.HoldingPosition1"		"<clr:238,207,161><B>Sarge:<B> Securing area."
+"[english]sarge.HoldingPosition1"		"<clr:238,207,161><B>Sarge:<B> Securing area."
+"sarge.HoldingPosition1"		"<clr:238,207,161><B>Sarge:<B> Säkrar område."
 
 
-		"[english]sarge.HoldingPosition2"		"<clr:238,207,161><B>Sarge:<B> Holding position."
-		"sarge.HoldingPosition2"		"<clr:238,207,161><B>Sarge:<B> Holding position."
+"[english]sarge.HoldingPosition2"		"<clr:238,207,161><B>Sarge:<B> Holding position."
+"sarge.HoldingPosition2"		"<clr:238,207,161><B>Sarge:<B> Håller positionen."
 
 
-		"[english]sarge.HoldingNorth0"		"<clr:238,207,161><B>Sarge:<B> Covering north."
-		"sarge.HoldingNorth0"		"<clr:238,207,161><B>Sarge:<B> Covering north."
+"[english]sarge.HoldingNorth0"		"<clr:238,207,161><B>Sarge:<B> Covering north."
+"sarge.HoldingNorth0"		"<clr:238,207,161><B>Sarge:<B> Täcker norrut."
 
 
-		"[english]sarge.HoldingNorth1"		"<clr:238,207,161><B>Sarge:<B> Covering north side."
-		"sarge.HoldingNorth1"		"<clr:238,207,161><B>Sarge:<B> Covering north side."
+"[english]sarge.HoldingNorth1"		"<clr:238,207,161><B>Sarge:<B> Covering north side."
+"sarge.HoldingNorth1"		"<clr:238,207,161><B>Sarge:<B> Täcker norra sidan."
 
 
-		"[english]sarge.HoldingNorth2"		"<clr:238,207,161><B>Sarge:<B> North side in position."
-		"sarge.HoldingNorth2"		"<clr:238,207,161><B>Sarge:<B> North side in position."
+"[english]sarge.HoldingNorth2"		"<clr:238,207,161><B>Sarge:<B> North side in position."
+"sarge.HoldingNorth2"		"<clr:238,207,161><B>Sarge:<B> Norra sidan på plats."
 
 
-		"[english]sarge.HoldingNorth3"		"<clr:238,207,161><B>Sarge:<B> North side standing to."
-		"sarge.HoldingNorth3"		"<clr:238,207,161><B>Sarge:<B> North side standing to."
+"[english]sarge.HoldingNorth3"		"<clr:238,207,161><B>Sarge:<B> North side standing to."
+"sarge.HoldingNorth3"		"<clr:238,207,161><B>Sarge:<B> Norra sidan står också."
 
 
-		"[english]sarge.HoldingSouth0"		"<clr:238,207,161><B>Sarge:<B> Covering south."
-		"sarge.HoldingSouth0"		"<clr:238,207,161><B>Sarge:<B> Covering south."
+"[english]sarge.HoldingSouth0"		"<clr:238,207,161><B>Sarge:<B> Covering south."
+"sarge.HoldingSouth0"		"<clr:238,207,161><B>Sarge:<B> Täcker söderut."
 
 
-		"[english]sarge.HoldingSouth1"		"<clr:238,207,161><B>Sarge:<B> Covering south side."
-		"sarge.HoldingSouth1"		"<clr:238,207,161><B>Sarge:<B> Covering south side."
+"[english]sarge.HoldingSouth1"		"<clr:238,207,161><B>Sarge:<B> Covering south side."
+"sarge.HoldingSouth1"		"<clr:238,207,161><B>Sarge:<B> Täcker södra sidan."
 
 
-		"[english]sarge.HoldingSouth2"		"<clr:238,207,161><B>Sarge:<B> South side in position."
-		"sarge.HoldingSouth2"		"<clr:238,207,161><B>Sarge:<B> South side in position."
+"[english]sarge.HoldingSouth2"		"<clr:238,207,161><B>Sarge:<B> South side in position."
+"sarge.HoldingSouth2"		"<clr:238,207,161><B>Sarge:<B> Södra sidan på plats."
 
 
-		"[english]sarge.HoldingSouth3"		"<clr:238,207,161><B>Sarge:<B> South side standing to."
-		"sarge.HoldingSouth3"		"<clr:238,207,161><B>Sarge:<B> South side standing to."
+"[english]sarge.HoldingSouth3"		"<clr:238,207,161><B>Sarge:<B> South side standing to."
+"sarge.HoldingSouth3"		"<clr:238,207,161><B>Sarge:<B> Södra sidan står också."
 
 
-		"[english]sarge.HoldingEast0"		"<clr:238,207,161><B>Sarge:<B> Covering east."
-		"sarge.HoldingEast0"		"<clr:238,207,161><B>Sarge:<B> Covering east."
+"[english]sarge.HoldingEast0"		"<clr:238,207,161><B>Sarge:<B> Covering east."
+"sarge.HoldingEast0"		"<clr:238,207,161><B>Sarge:<B> Täcker österut."
 
 
-		"[english]sarge.HoldingEast1"		"<clr:238,207,161><B>Sarge:<B> Covering east side."
-		"sarge.HoldingEast1"		"<clr:238,207,161><B>Sarge:<B> Covering east side."
+"[english]sarge.HoldingEast1"		"<clr:238,207,161><B>Sarge:<B> Covering east side."
+"sarge.HoldingEast1"		"<clr:238,207,161><B>Sarge:<B> Täcker östra sidan."
 
 
-		"[english]sarge.HoldingEast2"		"<clr:238,207,161><B>Sarge:<B> East side in position."
-		"sarge.HoldingEast2"		"<clr:238,207,161><B>Sarge:<B> East side in position."
+"[english]sarge.HoldingEast2"		"<clr:238,207,161><B>Sarge:<B> East side in position."
+"sarge.HoldingEast2"		"<clr:238,207,161><B>Sarge:<B> Östra sidan på plats."
 
 
-		"[english]sarge.HoldingEast3"		"<clr:238,207,161><B>Sarge:<B> East side standing to."
-		"sarge.HoldingEast3"		"<clr:238,207,161><B>Sarge:<B> East side standing to."
+"[english]sarge.HoldingEast3"		"<clr:238,207,161><B>Sarge:<B> East side standing to."
+"sarge.HoldingEast3"		"<clr:238,207,161><B>Sarge:<B> Östra sidan står också."
 
 
-		"[english]sarge.HoldingWest0"		"<clr:238,207,161><B>Sarge:<B> Covering west."
-		"sarge.HoldingWest0"		"<clr:238,207,161><B>Sarge:<B> Covering west."
+"[english]sarge.HoldingWest0"		"<clr:238,207,161><B>Sarge:<B> Covering west."
+"sarge.HoldingWest0"		"<clr:238,207,161><B>Sarge:<B> Täcker västerut."
 
 
-		"[english]sarge.HoldingWest1"		"<clr:238,207,161><B>Sarge:<B> Covering west side."
-		"sarge.HoldingWest1"		"<clr:238,207,161><B>Sarge:<B> Covering west side."
+"[english]sarge.HoldingWest1"		"<clr:238,207,161><B>Sarge:<B> Covering west side."
+"sarge.HoldingWest1"		"<clr:238,207,161><B>Sarge:<B> Täcker västra sidan."
 
 
-		"[english]sarge.HoldingWest2"		"<clr:238,207,161><B>Sarge:<B> West side in position."
-		"sarge.HoldingWest2"		"<clr:238,207,161><B>Sarge:<B> West side in position."
+"[english]sarge.HoldingWest2"		"<clr:238,207,161><B>Sarge:<B> West side in position."
+"sarge.HoldingWest2"		"<clr:238,207,161><B>Sarge:<B> Västra sidan på plats."
 
 
-		"[english]sarge.HoldingWest3"		"<clr:238,207,161><B>Sarge:<B> West side standing to."
-		"sarge.HoldingWest3"		"<clr:238,207,161><B>Sarge:<B> West side standing to."
+"[english]sarge.HoldingWest3"		"<clr:238,207,161><B>Sarge:<B> West side standing to."
+"sarge.HoldingWest3"		"<clr:238,207,161><B>Sarge:<B> Västra sidan står också."
 
 
-		"[english]sarge.GotPoint0"		"<clr:238,207,161><B>Sarge:<B> Conrad taking point."
-		"sarge.GotPoint0"		"<clr:238,207,161><B>Sarge:<B> Conrad taking point."
+"[english]sarge.GotPoint0"		"<clr:238,207,161><B>Sarge:<B> Conrad taking point."
+"sarge.GotPoint0"		"<clr:238,207,161><B>Sarge:<B> Conrad tar punkten."
 
 
-		"[english]sarge.GotPoint1"		"<clr:238,207,161><B>Sarge:<B> Taking point."
-		"sarge.GotPoint1"		"<clr:238,207,161><B>Sarge:<B> Taking point."
+"[english]sarge.GotPoint1"		"<clr:238,207,161><B>Sarge:<B> Taking point."
+"sarge.GotPoint1"		"<clr:238,207,161><B>Sarge:<B> Tar punkten."
 
 
-		"[english]sarge.GotRear0"		"<clr:238,207,161><B>Sarge:<B> Covering the rear."
-		"sarge.GotRear0"		"<clr:238,207,161><B>Sarge:<B> Covering the rear."
+"[english]sarge.GotRear0"		"<clr:238,207,161><B>Sarge:<B> Covering the rear."
+"sarge.GotRear0"		"<clr:238,207,161><B>Sarge:<B> Täcker baksidan."
 
 
-		"[english]sarge.GotRear1"		"<clr:238,207,161><B>Sarge:<B> Conrad taking rear guard."
-		"sarge.GotRear1"		"<clr:238,207,161><B>Sarge:<B> Conrad taking rear guard."
+"[english]sarge.GotRear1"		"<clr:238,207,161><B>Sarge:<B> Conrad taking rear guard."
+"sarge.GotRear1"		"<clr:238,207,161><B>Sarge:<B> Conrad tar bakvakt."
 
 
-		"[english]sarge.GotRear2"		"<clr:238,207,161><B>Sarge:<B> I've got your back."
-		"sarge.GotRear2"		"<clr:238,207,161><B>Sarge:<B> I've got your back."
+"[english]sarge.GotRear2"		"<clr:238,207,161><B>Sarge:<B> I've got your back."
+"sarge.GotRear2"		"<clr:238,207,161><B>Sarge:<B> Jag har din rygg."
 
 
-		"[english]sarge.RequestSealDoor0"		"<clr:238,207,161><B>Sarge:<B> Get this door sealed, on the double."
-		"sarge.RequestSealDoor0"		"<clr:238,207,161><B>Sarge:<B> Get this door sealed, on the double."
+"[english]sarge.RequestSealDoor0"		"<clr:238,207,161><B>Sarge:<B> Get this door sealed, on the double."
+"sarge.RequestSealDoor0"		"<clr:238,207,161><B>Sarge:<B> Få den här dörren förseglad, på den dubbla."
 
 
-		"[english]sarge.RequestSealDoor1"		"<clr:238,207,161><B>Sarge:<B> I need this door sealed now."
-		"sarge.RequestSealDoor1"		"<clr:238,207,161><B>Sarge:<B> I need this door sealed now."
+"[english]sarge.RequestSealDoor1"		"<clr:238,207,161><B>Sarge:<B> I need this door sealed now."
+"sarge.RequestSealDoor1"		"<clr:238,207,161><B>Sarge:<B> Jag behöver den här dörren förseglad nu."
 
 
-		"[english]sarge.RequestSealDoor2"		"<clr:238,207,161><B>Sarge:<B> Seal it up, marines."
-		"sarge.RequestSealDoor2"		"<clr:238,207,161><B>Sarge:<B> Seal it up, marines."
+"[english]sarge.RequestSealDoor2"		"<clr:238,207,161><B>Sarge:<B> Seal it up, marines."
+"sarge.RequestSealDoor2"		"<clr:238,207,161><B>Sarge:<B> Försegla den, mariner."
 
 
-		"[english]sarge.RequestSealDoor3"		"<clr:238,207,161><B>Sarge:<B> I want this door secured."
-		"sarge.RequestSealDoor3"		"<clr:238,207,161><B>Sarge:<B> I want this door secured."
+"[english]sarge.RequestSealDoor3"		"<clr:238,207,161><B>Sarge:<B> I want this door secured."
+"sarge.RequestSealDoor3"		"<clr:238,207,161><B>Sarge:<B> Jag vill ha den här dörren säkrad."
 
 
-		"[english]sarge.RequestCutDoor0"		"<clr:238,207,161><B>Sarge:<B> Get it open, marines."
-		"sarge.RequestCutDoor0"		"<clr:238,207,161><B>Sarge:<B> Get it open, marines."
+"[english]sarge.RequestCutDoor0"		"<clr:238,207,161><B>Sarge:<B> Get it open, marines."
+"sarge.RequestCutDoor0"		"<clr:238,207,161><B>Sarge:<B> Öppna den, mariner."
 
 
-		"[english]sarge.RequestCutDoor1"		"<clr:238,207,161><B>Sarge:<B> Cut it open."
-		"sarge.RequestCutDoor1"		"<clr:238,207,161><B>Sarge:<B> Cut it open."
+"[english]sarge.RequestCutDoor1"		"<clr:238,207,161><B>Sarge:<B> Cut it open."
+"sarge.RequestCutDoor1"		"<clr:238,207,161><B>Sarge:<B> Skär upp den."
 
 
-		"[english]sarge.RequestCutDoor2"		"<clr:238,207,161><B>Sarge:<B> I want this door cut open."
-		"sarge.RequestCutDoor2"		"<clr:238,207,161><B>Sarge:<B> I want this door cut open."
+"[english]sarge.RequestCutDoor2"		"<clr:238,207,161><B>Sarge:<B> I want this door cut open."
+"sarge.RequestCutDoor2"		"<clr:238,207,161><B>Sarge:<B> Jag vill ha den här dörren uppskärd."
 
 
-		"[english]sarge.RequestCutDoor3"		"<clr:238,207,161><B>Sarge:<B> What are you waiting for? Cut it open!"
-		"sarge.RequestCutDoor3"		"<clr:238,207,161><B>Sarge:<B> What are you waiting for? Cut it open!"
+"[english]sarge.RequestCutDoor3"		"<clr:238,207,161><B>Sarge:<B> What are you waiting for? Cut it open!"
+"sarge.RequestCutDoor3"		"<clr:238,207,161><B>Sarge:<B> Vad väntar ni på? Skär upp den!"
 
 
-		"[english]sarge.RequestCutDoor4"		"<clr:238,207,161><B>Sarge:<B> I want this door in two, you understand me?"
-		"sarge.RequestCutDoor4"		"<clr:238,207,161><B>Sarge:<B> I want this door in two, you understand me?"
+"[english]sarge.RequestCutDoor4"		"<clr:238,207,161><B>Sarge:<B> I want this door in two, you understand me?"
+"sarge.RequestCutDoor4"		"<clr:238,207,161><B>Sarge:<B> Jag vill ha den här dörren i två delar, förstår ni mig?"
 
 
-		"[english]sarge.RequestShootDoor0"		"<clr:238,207,161><B>Sarge:<B> All right, marines, blow it down!"
-		"sarge.RequestShootDoor0"		"<clr:238,207,161><B>Sarge:<B> All right, marines, blow it down!"
+"[english]sarge.RequestShootDoor0"		"<clr:238,207,161><B>Sarge:<B> All right, marines, blow it down!"
+"sarge.RequestShootDoor0"		"<clr:238,207,161><B>Sarge:<B> Okej, mariner, spräng den!"
 
 
-		"[english]sarge.RequestShootDoor1"		"<clr:238,207,161><B>Sarge:<B> Okay, marines, shoot your way through."
-		"sarge.RequestShootDoor1"		"<clr:238,207,161><B>Sarge:<B> Okay, marines, shoot your way through."
+"[english]sarge.RequestShootDoor1"		"<clr:238,207,161><B>Sarge:<B> Okay, marines, shoot your way through."
+"sarge.RequestShootDoor1"		"<clr:238,207,161><B>Sarge:<B> Okej, mariner, skjut er igenom."
 
 
-		"[english]sarge.RequestShootDoor2"		"<clr:238,207,161><B>Sarge:<B> Blast it open."
-		"sarge.RequestShootDoor2"		"<clr:238,207,161><B>Sarge:<B> Blast it open."
+"[english]sarge.RequestShootDoor2"		"<clr:238,207,161><B>Sarge:<B> Blast it open."
+"sarge.RequestShootDoor2"		"<clr:238,207,161><B>Sarge:<B> Spräng upp den."
 
 
-		"[english]sarge.RequestShootDoor3"		"<clr:238,207,161><B>Sarge:<B> Okay, marines, knock its teeth out."
-		"sarge.RequestShootDoor3"		"<clr:238,207,161><B>Sarge:<B> Okay, marines, knock its teeth out."
+"[english]sarge.RequestShootDoor3"		"<clr:238,207,161><B>Sarge:<B> Okay, marines, knock its teeth out."
+"sarge.RequestShootDoor3"		"<clr:238,207,161><B>Sarge:<B> Okej, mariner, slå ut deras tänder."
 
 
-		"[english]sarge.CuttingDoor0"		"<clr:238,207,161><B>Sarge:<B> Conrad cutting door."
-		"sarge.CuttingDoor0"		"<clr:238,207,161><B>Sarge:<B> Conrad cutting door."
+"[english]sarge.CuttingDoor0"		"<clr:238,207,161><B>Sarge:<B> Conrad cutting door."
+"sarge.CuttingDoor0"		"<clr:238,207,161><B>Sarge:<B> Conrad skär dörr."
 
 
-		"[english]sarge.CuttingDoor1"		"<clr:238,207,161><B>Sarge:<B> Roger that, cutting door."
-		"sarge.CuttingDoor1"		"<clr:238,207,161><B>Sarge:<B> Roger that, cutting door."
+"[english]sarge.CuttingDoor1"		"<clr:238,207,161><B>Sarge:<B> Roger that, cutting door."
+"sarge.CuttingDoor1"		"<clr:238,207,161><B>Sarge:<B> Uppfattat, skär dörr."
 
 
-		"[english]sarge.SealingDoor0"		"<clr:238,207,161><B>Sarge:<B> Conrad sealing door."
-		"sarge.SealingDoor0"		"<clr:238,207,161><B>Sarge:<B> Conrad sealing door."
+"[english]sarge.SealingDoor0"		"<clr:238,207,161><B>Sarge:<B> Conrad sealing door."
+"sarge.SealingDoor0"		"<clr:238,207,161><B>Sarge:<B> Conrad förseglar dörr."
 
 
-		"[english]sarge.SealingDoor1"		"<clr:238,207,161><B>Sarge:<B> Sealing door."
-		"sarge.SealingDoor1"		"<clr:238,207,161><B>Sarge:<B> Sealing door."
+"[english]sarge.SealingDoor1"		"<clr:238,207,161><B>Sarge:<B> Sealing door."
+"sarge.SealingDoor1"		"<clr:238,207,161><B>Sarge:<B> Förseglar dörr."
 
 
-		"[english]sarge.SealingDoor2"		"<clr:238,207,161><B>Sarge:<B> Securing door."
-		"sarge.SealingDoor2"		"<clr:238,207,161><B>Sarge:<B> Securing door."
+"[english]sarge.SealingDoor2"		"<clr:238,207,161><B>Sarge:<B> Securing door."
+"sarge.SealingDoor2"		"<clr:238,207,161><B>Sarge:<B> Säkrar dörr."
 
 
-		"[english]sarge.Biomass0"		"<clr:238,207,161><B>Sarge:<B> Swarm biomass, burn it out."
-		"sarge.Biomass0"		"<clr:238,207,161><B>Sarge:<B> Swarm biomass, burn it out."
+"[english]sarge.Biomass0"		"<clr:238,207,161><B>Sarge:<B> Swarm biomass, burn it out."
+"sarge.Biomass0"		"<clr:238,207,161><B>Sarge:<B> Svärmbiomassa, bränn ut det."
 
 
-		"[english]sarge.Biomass1"		"<clr:238,207,161><B>Sarge:<B> Signs of infestation."
-		"sarge.Biomass1"		"<clr:238,207,161><B>Sarge:<B> Signs of infestation."
+"[english]sarge.Biomass1"		"<clr:238,207,161><B>Sarge:<B> Signs of infestation."
+"sarge.Biomass1"		"<clr:238,207,161><B>Sarge:<B> Tecken på infektering."
 
 
-		"[english]sarge.TimeToLeave0"		"<clr:238,207,161><B>Sarge:<B> All right, marines, we're leaving."
-		"sarge.TimeToLeave0"		"<clr:238,207,161><B>Sarge:<B> All right, marines, we're leaving."
+"[english]sarge.TimeToLeave0"		"<clr:238,207,161><B>Sarge:<B> All right, marines, we're leaving."
+"sarge.TimeToLeave0"		"<clr:238,207,161><B>Sarge:<B> Okej, mariner, vi lämnar."
 
 
-		"[english]sarge.TimeToLeave1"		"<clr:238,207,161><B>Sarge:<B> Mission objectives complete. Squad, we're moving out."
-		"sarge.TimeToLeave1"		"<clr:238,207,161><B>Sarge:<B> Mission objectives complete. Squad, we're moving out."
+"[english]sarge.TimeToLeave1"		"<clr:238,207,161><B>Sarge:<B> Mission objectives complete. Squad, we're moving out."
+"sarge.TimeToLeave1"		"<clr:238,207,161><B>Sarge:<B> Uppdragets mål är klara. Truppen, vi flyttar ut."
 
 
-		"[english]sarge.TimeToLeave2"		"<clr:238,207,161><B>Sarge:<B> Squad, proceeding to extraction point."
-		"sarge.TimeToLeave2"		"<clr:238,207,161><B>Sarge:<B> Squad, proceeding to extraction point."
+"[english]sarge.TimeToLeave2"		"<clr:238,207,161><B>Sarge:<B> Squad, proceeding to extraction point."
+"sarge.TimeToLeave2"		"<clr:238,207,161><B>Sarge:<B> Truppen, vi fortsätter till utvinningspunkten."
 
 
 "[english]sarge.WatchOut0"		"<clr:238,207,161><B>Sarge:<B> Look out!"
@@ -3539,28 +3539,28 @@
 "sarge.BeenInfested1"		"<clr:238,207,161><B>Sarge:<B> Få bort den!"
 
 
-		"[english]sarge.BeenInfested2"		"<clr:238,207,161><B>Sarge:<B> Arrrgghhh! It's on me!"
-		"sarge.BeenInfested2"		"<clr:238,207,161><B>Sarge:<B> Arrrgghhh! It's on me!"
+"[english]sarge.BeenInfested2"		"<clr:238,207,161><B>Sarge:<B> Arrrgghhh! It's on me!"
+"sarge.BeenInfested2"		"<clr:238,207,161><B>Sarge:<B> Arrrgghhh! Den är på mig!"
 
 
-		"[english]sarge.BeenInfested3"		"<clr:238,207,161><B>Sarge:<B> Shit! Shit, parasite on!"
-		"sarge.BeenInfested3"		"<clr:238,207,161><B>Sarge:<B> Shit! Shit, parasite on!"
+"[english]sarge.BeenInfested3"		"<clr:238,207,161><B>Sarge:<B> Shit! Shit, parasite on!"
+"sarge.BeenInfested3"		"<clr:238,207,161><B>Sarge:<B> Jävlar! Jävlar, parasit på mig"
 
 
-		"[english]sarge.SwarmEggs0"		"<clr:238,207,161><B>Sarge:<B> Swarm eggs, watch out."
-		"sarge.SwarmEggs0"		"<clr:238,207,161><B>Sarge:<B> Swarm eggs, watch out."
+"[english]sarge.SwarmEggs0"		"<clr:238,207,161><B>Sarge:<B> Swarm eggs, watch out."
+"sarge.SwarmEggs0"		"<clr:238,207,161><B>Sarge:<B> Svärmägg, se upp."
 
 
-		"[english]sarge.SwarmEggs1"		"<clr:238,207,161><B>Sarge:<B> Swarm eggs, take em out."
-		"sarge.SwarmEggs1"		"<clr:238,207,161><B>Sarge:<B> Swarm eggs, take em out."
+"[english]sarge.SwarmEggs1"		"<clr:238,207,161><B>Sarge:<B> Swarm eggs, take em out."
+"sarge.SwarmEggs1"		"<clr:238,207,161><B>Sarge:<B> Svärmägg, ta ner de."
 
 
-		"[english]sarge.SwarmEggs2"		"<clr:238,207,161><B>Sarge:<B> Careful boys, we got swarm eggs."
-		"sarge.SwarmEggs2"		"<clr:238,207,161><B>Sarge:<B> Careful boys, we got swarm eggs."
+"[english]sarge.SwarmEggs2"		"<clr:238,207,161><B>Sarge:<B> Careful boys, we got swarm eggs."
+"sarge.SwarmEggs2"		"<clr:238,207,161><B>Sarge:<B> Försiktigt killar, vi har svärmägg."
 
 
-		"[english]sarge.SwarmEggs3"		"<clr:238,207,161><B>Sarge:<B> Scramble them eggs, boys."
-		"sarge.SwarmEggs3"		"<clr:238,207,161><B>Sarge:<B> Scramble them eggs, boys."
+"[english]sarge.SwarmEggs3"		"<clr:238,207,161><B>Sarge:<B> Scramble them eggs, boys."
+"sarge.SwarmEggs3"		"<clr:238,207,161><B>Sarge:<B> Blanda äggen, pojkar."
 
 
 "[english]sarge.Grenade0"		"<clr:238,207,161><B>Sarge:<B> Grenade!"
