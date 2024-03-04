@@ -1,31 +1,31 @@
 # Overview
 | Language | basemodui | closecaption | gameui | reactivedrop | items | statsweb | Strings | Files |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
-| [Traditional Chinese](#tchinese-繁體中文) | 13 | 141 | 33 | 3021 | 253 | 209 | 236 | 146 |
-| [Czech](#czech-čeština) | 75 | 1810 | 42 | 4161 | 259 | 209 | 980 | 146 |
-| [Danish](#non-curated-languages) | 56 | 231 | 42 | 3689 | 259 | 209 | 710 | 147 |
-| [Dutch](#non-curated-languages) | 55 | 2004 | 42 | 3157 | 259 | 209 | 710 | 146 |
-| [Finnish](#non-curated-languages) | 2 | 2004 | 41 | 3071 | 260 | 209 | 701 | 146 |
-| [French](#french-français) | 31 | 138 | 42 | 2522 | 258 | 209 | 650 | 125 |
-| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
-| [Hungarian](#non-curated-languages) | 55 | 138 | 42 | 3157 | 259 | 209 | 975 | 147 |
-| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
-| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 102 | ✔️ |
-| [Korean](#koreana-한국어) | 11 | 10 | 38 | 1653 | 259 | 31 | 446 | 48 |
-| [Norwegian Bokmål](#non-curated-languages) | 73 | 708 | 47 | 3863 | 259 | 209 | 710 | 147 |
-| [Polish](#polish-polski) | 32 | 2004 | 42 | 3157 | 259 | 209 | 706 | 143 |
-| [European Portuguese](#portuguese-português-europeu) | 4 | 180 | 32 | 2246 | 239 | 30 | 630 | 141 |
-| [Brazilian Portuguese](#brazilian-português) | 6 | 2004 | 32 | 1416 | 189 | 18 | 276 | 8 |
-| [Romanian](#non-curated-languages) | 55 | 1996 | 48 | 3869 | 259 | 209 | 975 | 147 |
-| [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | ✔️ | 1 | ✔️ | ✔️ | ✔️ |
-| [European Spanish](#spanish-español-de-españa) | 32 | 2004 | 40 | 2572 | 259 | 209 | 714 | 146 |
-| [Latin American Spanish](#latam-español-latinoamericano) | ✔️ | 2004 | ✔️ | 4214 | ✔️ | ✔️ | 203 | 141 |
-| [Swedish](#swedish-svenska) | ✔️ | 1161 | ✔️ | 1553 | ✔️ | ✔️ | ✔️ | 109 |
-| [Thai](#non-curated-languages) | 970 | 1993 | 50 | 4404 | 259 | 209 | 739 | 147 |
-| [Turkish](#non-curated-languages) | 55 | 137 | 42 | 3157 | 259 | 209 | 975 | 147 |
-| [Ukrainian](#ukrainian-українська) | 31 | 131 | 32 | 2700 | 259 | 209 | 933 | 146 |
-| [Vietnamese](#vietnamese-tiếng-việt) | ✔️ | 2004 | ✔️ | 3446 | 1 | 2 | ✔️ | 84 |
+| [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 1 |
+| [Traditional Chinese](#tchinese-繁體中文) | 13 | 141 | 33 | 3021 | 253 | 209 | 236 | 147 |
+| [Czech](#czech-čeština) | 75 | 1810 | 42 | 4161 | 259 | 209 | 980 | 147 |
+| [Danish](#non-curated-languages) | 56 | 231 | 42 | 3689 | 259 | 209 | 710 | 148 |
+| [Dutch](#non-curated-languages) | 55 | 2004 | 42 | 3157 | 259 | 209 | 710 | 147 |
+| [Finnish](#non-curated-languages) | 2 | 2004 | 41 | 3071 | 260 | 209 | 701 | 147 |
+| [French](#french-français) | 31 | 138 | 42 | 2522 | 258 | 209 | 650 | 126 |
+| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 1 |
+| [Hungarian](#non-curated-languages) | 55 | 138 | 42 | 3157 | 259 | 209 | 975 | 148 |
+| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 1 |
+| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 102 | 1 |
+| [Korean](#koreana-한국어) | 11 | 10 | 38 | 1653 | 259 | 31 | 446 | 49 |
+| [Norwegian Bokmål](#non-curated-languages) | 73 | 708 | 47 | 3863 | 259 | 209 | 710 | 148 |
+| [Polish](#polish-polski) | 32 | 2004 | 42 | 3157 | 259 | 209 | 706 | 144 |
+| [European Portuguese](#portuguese-português-europeu) | 4 | 180 | 32 | 2246 | 239 | 30 | 630 | 142 |
+| [Brazilian Portuguese](#brazilian-português) | 6 | 2004 | 32 | 1416 | 189 | 18 | 276 | 9 |
+| [Romanian](#non-curated-languages) | 55 | 1996 | 48 | 3869 | 259 | 209 | 975 | 148 |
+| [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | ✔️ | 1 | ✔️ | ✔️ | 1 |
+| [European Spanish](#spanish-español-de-españa) | 32 | 2004 | 40 | 2572 | 259 | 209 | 714 | 147 |
+| [Latin American Spanish](#latam-español-latinoamericano) | ✔️ | 2004 | ✔️ | 4214 | ✔️ | ✔️ | 203 | 142 |
+| [Swedish](#swedish-svenska) | ✔️ | 464 | ✔️ | 1544 | ✔️ | ✔️ | ✔️ | 108 |
+| [Thai](#non-curated-languages) | 970 | 1993 | 50 | 4404 | 259 | 209 | 739 | 148 |
+| [Turkish](#non-curated-languages) | 55 | 137 | 42 | 3157 | 259 | 209 | 975 | 148 |
+| [Ukrainian](#ukrainian-українська) | 31 | 131 | 32 | 2700 | 259 | 209 | 933 | 147 |
+| [Vietnamese](#vietnamese-tiếng-việt) | ✔️ | 2004 | ✔️ | 3446 | ✔️ | ✔️ | ✔️ | 85 |
 ### Legend
 - ***Non-capitalized column headers*** are the most important specific files and their number of missing strings. All of these txt-files are located in the resources folder. Except statsweb, which lies in community/stats_website, it's an vdf-file.
 - ***Strings*** is the number of missing strings not included in one of the files which get an individual non-capitalized column.
@@ -40,7 +40,9 @@
 
 </summary>
 
-✓ Up to date!
+### Mail and News
+
+- [mail/experiornews_schinese.txt](resource/mail/experiornews_english.txt) is missing.
 
 </details>
 
@@ -122,6 +124,7 @@
 - [mail/acc_research2_tchinese.txt](resource/mail/acc_research2_english.txt) is missing.
 - [mail/acc_research3_tchinese.txt](resource/mail/acc_research3_english.txt) is missing.
 - [mail/biogen_mail_windows_tchinese.txt](resource/mail/biogen_mail_windows_english.txt) is missing.
+- [mail/experiornews_tchinese.txt](resource/mail/experiornews_english.txt) is missing.
 - [mail/labsmail1_tchinese.txt](resource/mail/labsmail1_english.txt) is missing.
 - [mail/labsmail2_tchinese.txt](resource/mail/labsmail2_english.txt) is missing.
 - [mail/labsmail3_tchinese.txt](resource/mail/labsmail3_english.txt) is missing.
@@ -307,6 +310,7 @@
 - [mail/acc_research2_czech.txt](resource/mail/acc_research2_english.txt) is missing.
 - [mail/acc_research3_czech.txt](resource/mail/acc_research3_english.txt) is missing.
 - [mail/biogen_mail_windows_czech.txt](resource/mail/biogen_mail_windows_english.txt) is missing.
+- [mail/experiornews_czech.txt](resource/mail/experiornews_english.txt) is missing.
 - [mail/labsmail1_czech.txt](resource/mail/labsmail1_english.txt) is missing.
 - [mail/labsmail2_czech.txt](resource/mail/labsmail2_english.txt) is missing.
 - [mail/labsmail3_czech.txt](resource/mail/labsmail3_english.txt) is missing.
@@ -491,6 +495,7 @@
 - [mail/acc_research2_french.txt](resource/mail/acc_research2_english.txt) is missing.
 - [mail/acc_research3_french.txt](resource/mail/acc_research3_english.txt) is missing.
 - [mail/biogen_mail_windows_french.txt](resource/mail/biogen_mail_windows_english.txt) is missing.
+- [mail/experiornews_french.txt](resource/mail/experiornews_english.txt) is missing.
 - [mail/labsmail1_french.txt](resource/mail/labsmail1_english.txt) is missing.
 - [mail/labsmail2_french.txt](resource/mail/labsmail2_english.txt) is missing.
 - [mail/labsmail3_french.txt](resource/mail/labsmail3_english.txt) is missing.
@@ -579,7 +584,9 @@
 
 </summary>
 
-✓ Up to date!
+### Mail and News
+
+- [mail/experiornews_german.txt](resource/mail/experiornews_english.txt) is missing.
 
 </details>
 
@@ -589,7 +596,9 @@
 
 </summary>
 
-✓ Up to date!
+### Mail and News
+
+- [mail/experiornews_italian.txt](resource/mail/experiornews_english.txt) is missing.
 
 </details>
 
@@ -603,6 +612,10 @@
 
 - [misc/signage/signage_japanese.vdf](misc/signage/signage_japanese.vdf) has 67 untranslated strings.
 - [platform/vgui_japanese.txt](platform/vgui_japanese.txt) has 35 untranslated strings.
+
+### Mail and News
+
+- [mail/experiornews_japanese.txt](resource/mail/experiornews_english.txt) is missing.
 
 </details>
 
@@ -683,6 +696,7 @@
 - [mail/acc_research2_koreana.txt](resource/mail/acc_research2_english.txt) is missing.
 - [mail/acc_research3_koreana.txt](resource/mail/acc_research3_english.txt) is missing.
 - [mail/biogen_mail_windows_koreana.txt](resource/mail/biogen_mail_windows_english.txt) is missing.
+- [mail/experiornews_koreana.txt](resource/mail/experiornews_english.txt) is missing.
 - [mail/ma_pda1_koreana.txt](resource/mail/ma_pda1_english.txt) is missing.
 - [mail/ma_pda2_koreana.txt](resource/mail/ma_pda2_english.txt) is missing.
 - [mail/nukeangermail_koreana.txt](resource/mail/nukeangermail_english.txt) is missing.
@@ -768,6 +782,7 @@
 - [mail/acc_research2_polish.txt](resource/mail/acc_research2_english.txt) is missing.
 - [mail/acc_research3_polish.txt](resource/mail/acc_research3_english.txt) is missing.
 - [mail/biogen_mail_windows_polish.txt](resource/mail/biogen_mail_windows_english.txt) is missing.
+- [mail/experiornews_polish.txt](resource/mail/experiornews_english.txt) is missing.
 - [mail/labsmail1_polish.txt](resource/mail/labsmail1_english.txt) is missing.
 - [mail/labsmail2_polish.txt](resource/mail/labsmail2_english.txt) is missing.
 - [mail/labsmail3_polish.txt](resource/mail/labsmail3_english.txt) is missing.
@@ -946,6 +961,7 @@
 - [mail/acc_research2_portuguese.txt](resource/mail/acc_research2_english.txt) is missing.
 - [mail/acc_research3_portuguese.txt](resource/mail/acc_research3_english.txt) is missing.
 - [mail/biogen_mail_windows_portuguese.txt](resource/mail/biogen_mail_windows_english.txt) is missing.
+- [mail/experiornews_portuguese.txt](resource/mail/experiornews_english.txt) is missing.
 - [mail/labsmail1_portuguese.txt](resource/mail/labsmail1_english.txt) is missing.
 - [mail/labsmail2_portuguese.txt](resource/mail/labsmail2_english.txt) is missing.
 - [mail/labsmail3_portuguese.txt](resource/mail/labsmail3_english.txt) is missing.
@@ -1085,6 +1101,7 @@
 ### Mail and News
 
 - [mail/biogen_mail_windows_brazilian.txt](resource/mail/biogen_mail_windows_english.txt) is missing.
+- [mail/experiornews_brazilian.txt](resource/mail/experiornews_english.txt) is missing.
 - [mail/ma_pda1_brazilian.txt](resource/mail/ma_pda1_english.txt) is missing.
 - [mail/ma_pda2_brazilian.txt](resource/mail/ma_pda2_english.txt) is missing.
 - [mail/officemail4_brazilian.txt](resource/mail/officemail4_brazilian.txt) has 1 indented lines.
@@ -1100,6 +1117,10 @@
 ### Strings
 
 - [items_russian.vdf](community/inventory_service/items_russian.vdf) has 1 untranslated strings.
+
+### Mail and News
+
+- [mail/experiornews_russian.txt](resource/mail/experiornews_english.txt) is missing.
 
 </details>
 
@@ -1184,6 +1205,7 @@
 - [mail/acc_research2_spanish.txt](resource/mail/acc_research2_english.txt) is missing.
 - [mail/acc_research3_spanish.txt](resource/mail/acc_research3_english.txt) is missing.
 - [mail/biogen_mail_windows_spanish.txt](resource/mail/biogen_mail_windows_english.txt) is missing.
+- [mail/experiornews_spanish.txt](resource/mail/experiornews_english.txt) is missing.
 - [mail/labsmail1_spanish.txt](resource/mail/labsmail1_english.txt) is missing.
 - [mail/labsmail2_spanish.txt](resource/mail/labsmail2_english.txt) is missing.
 - [mail/labsmail3_spanish.txt](resource/mail/labsmail3_english.txt) is missing.
@@ -1347,6 +1369,7 @@
 - [mail/acc_research2_latam.txt](resource/mail/acc_research2_english.txt) is missing.
 - [mail/acc_research3_latam.txt](resource/mail/acc_research3_english.txt) is missing.
 - [mail/biogen_mail_windows_latam.txt](resource/mail/biogen_mail_windows_english.txt) is missing.
+- [mail/experiornews_latam.txt](resource/mail/experiornews_english.txt) is missing.
 - [mail/labsmail1_latam.txt](resource/mail/labsmail1_english.txt) is missing.
 - [mail/labsmail2_latam.txt](resource/mail/labsmail2_english.txt) is missing.
 - [mail/labsmail3_latam.txt](resource/mail/labsmail3_english.txt) is missing.
@@ -1458,8 +1481,8 @@
 
 ### Strings
 
-- [closecaption_swedish.txt](resource/closecaption_swedish.txt) has 1161 untranslated strings.
-- [reactivedrop_swedish.txt](resource/reactivedrop_swedish.txt) has 1553 untranslated strings.
+- [closecaption_swedish.txt](resource/closecaption_swedish.txt) has 464 untranslated strings.
+- [reactivedrop_swedish.txt](resource/reactivedrop_swedish.txt) has 1544 untranslated strings.
 
 ### Upcoming Release Notes
 
@@ -1507,7 +1530,6 @@
 - [mail/nh_pda_thibautholbert_swedish.txt](resource/mail/nh_pda_thibautholbert_english.txt) is missing.
 - [mail/nh_pda_tomasselin_swedish.txt](resource/mail/nh_pda_tomasselin_english.txt) is missing.
 - [mail/nh_pda_yannmontgomery_swedish.txt](resource/mail/nh_pda_yannmontgomery_english.txt) is missing.
-- [mail/nukeangermail_swedish.txt](resource/mail/nukeangermail_english.txt) is missing.
 - [mail/officemail2_swedish.txt](resource/mail/officemail2_english.txt) is missing.
 - [mail/officemail3_swedish.txt](resource/mail/officemail3_english.txt) is missing.
 - [mail/officemail4_swedish.txt](resource/mail/officemail4_english.txt) is missing.
@@ -1658,6 +1680,7 @@
 - [mail/acc_research2_ukrainian.txt](resource/mail/acc_research2_english.txt) is missing.
 - [mail/acc_research3_ukrainian.txt](resource/mail/acc_research3_english.txt) is missing.
 - [mail/biogen_mail_windows_ukrainian.txt](resource/mail/biogen_mail_windows_english.txt) is missing.
+- [mail/experiornews_ukrainian.txt](resource/mail/experiornews_english.txt) is missing.
 - [mail/labsmail1_ukrainian.txt](resource/mail/labsmail1_english.txt) is missing.
 - [mail/labsmail2_ukrainian.txt](resource/mail/labsmail2_english.txt) is missing.
 - [mail/labsmail3_ukrainian.txt](resource/mail/labsmail3_english.txt) is missing.
@@ -1769,8 +1792,6 @@
 
 ### Strings
 
-- [items_vietnamese.vdf](community/inventory_service/items_vietnamese.vdf) has 1 untranslated strings.
-- [statsweb_vietnamese.vdf](community/stats_website/statsweb_vietnamese.vdf) has 2 untranslated strings.
 - [closecaption_vietnamese.txt](resource/closecaption_vietnamese.txt) has 2004 untranslated strings.
 - [reactivedrop_vietnamese.txt](resource/reactivedrop_vietnamese.txt) has 3446 untranslated strings.
 
@@ -1780,6 +1801,7 @@
 
 ### Mail and News
 
+- [mail/experiornews_vietnamese.txt](resource/mail/experiornews_english.txt) is missing.
 - [mail/nh_officemail2_jacquesmoreau_vietnamese.txt](resource/mail/nh_officemail2_jacquesmoreau_english.txt) is missing.
 - [mail/nh_officemail_lindasilva_vietnamese.txt](resource/mail/nh_officemail_lindasilva_english.txt) is missing.
 - [mail/nh_officemail_vladislavlazarev_vietnamese.txt](resource/mail/nh_officemail_vladislavlazarev_english.txt) is missing.
