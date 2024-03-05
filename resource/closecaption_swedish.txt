@@ -4295,7 +4295,7 @@
 "vegas.Biomass2"		"<clr:84,255,159><B>Vegas:<B> Biomass! Jag hatar det här. Vart är eldkastaren?"
 
 
-"[english]vegas.Biomass3"		"<clr:84,255,159><B>Vegas:<B> Bleagh! aSwarm biomass. Anyone got a flamer?"
+"[english]vegas.Biomass3"		"<clr:84,255,159><B>Vegas:<B> Bleagh! Swarm biomass. Anyone got a flamer?"
 "vegas.Biomass3"		"<clr:84,255,159><B>Vegas:<B> Bleagh! Svärm biomassa. Har någon en eldkastare?"
 
 
