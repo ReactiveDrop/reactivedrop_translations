@@ -6747,44 +6747,44 @@
 		"[english]Richard.02_01"		"<clr:191,195,167><B>Cmdr. Richard:<B> We know this installation employed some kind of rail system to move personnel around the facility. Hopefully you can still use one of their platforms but tread lightly squad, you're still in unknown territory."
 		"Richard.02_01"		"<clr:191,195,167><B>Cmdr. Richard:<B> We know this installation employed some kind of rail system to move personnel around the facility. Hopefully you can still use one of their platforms but tread lightly squad, you're still in unknown territory."
 
-		"[english]Richard.02_02"		"<clr:191,195,167><B>Cmdr. Richard:<B> That's a negative. We've discussed this already, Professor."
-		"Richard.02_02"		"<clr:191,195,167><B>Cmdr. Richard:<B> That's a negative. We've discussed this already, Professor."
+"[english]Richard.02_02"		"<clr:191,195,167><B>Cmdr. Richard:<B> That's a negative. We've discussed this already, Professor."
+"Richard.02_02"		"<clr:191,195,167><B>Cmdr. Richard:<B> Det är negativt. Vi har redan diskuterat det här, professor."
 
 		"[english]Richard.02_02_1"		"<clr:191,195,167><B>Cmdr. Richard:<B> Unless you're bearing knowledge to the attention of my men on the subject of bugs-killing, Ms. Duval, I'd appreciate radio silence on your part. You should know the mission as well as I do, and that it does not involve jeopardizing my squad's chance of survival in favor of some red herring."
 		"Richard.02_02_1"		"<clr:191,195,167><B>Cmdr. Richard:<B> Unless you're bearing knowledge to the attention of my men on the subject of bugs-killing, Ms. Duval, I'd appreciate radio silence on your part. You should know the mission as well as I do, and that it does not involve jeopardizing my squad's chance of survival in favor of some red herring."
 
-		"[english]Richard.02_03"		"<clr:191,195,167><B>Cmdr. Richard:<B> Hit the switch marines, no harm in trying."
-		"Richard.02_03"		"<clr:191,195,167><B>Cmdr. Richard:<B> Hit the switch marines, no harm in trying."
+"[english]Richard.02_03"		"<clr:191,195,167><B>Cmdr. Richard:<B> Hit the switch marines, no harm in trying."
+"Richard.02_03"		"<clr:191,195,167><B>Cmdr. Richard:<B> Slå på växeln, ingen skada att försöka."
 
 		"[english]Richard.02_04"		"<clr:191,195,167><B>Cmdr. Richard:<B> You seem to have misunderstood our purpose here, Ms. Duval. As unprecedented as this may be to you, all that I'm willing to see down there is the most basic result of one sick game, an experimental playground for mad men who couldn't be bothered to look beyond their own personal amusement. It's a real mess, and we're the clean up crew. In more practical terms, it is by protocol that we now derive to a search and destroy objective. So if you were still confused, I reckon this is a clear enough choice of words?"
 		"Richard.02_04"		"<clr:191,195,167><B>Cmdr. Richard:<B> You seem to have misunderstood our purpose here, Ms. Duval. As unprecedented as this may be to you, all that I'm willing to see down there is the most basic result of one sick game, an experimental playground for mad men who couldn't be bothered to look beyond their own personal amusement. It's a real mess, and we're the clean up crew. In more practical terms, it is by protocol that we now derive to a search and destroy objective. So if you were still confused, I reckon this is a clear enough choice of words?"
 
-		"[english]Richard.02_04_1"		"<clr:191,195,167><B>Cmdr. Richard:<B> Good. Now, let's find a way to reach the bottom of this place and blow it sky-high."
-		"Richard.02_04_1"		"<clr:191,195,167><B>Cmdr. Richard:<B> Good. Now, let's find a way to reach the bottom of this place and blow it sky-high."
+"[english]Richard.02_04_1"		"<clr:191,195,167><B>Cmdr. Richard:<B> Good. Now, let's find a way to reach the bottom of this place and blow it sky-high."
+"Richard.02_04_1"		"<clr:191,195,167><B>Cmdr. Richard:<B> Bra. Nu, låt oss hitta ett sätt att nå botten av denna plats och spränga den skyhögt."
 
 "[english]Richard.02_05"		"<clr:191,195,167><B>Cmdr. Richard:<B> What in heaven's..."
 "Richard.02_05"		"<clr:191,195,167><B>Cmdr. Richard:<B> Vad i hela friden..."
 
-		"[english]Richard.02_06"		"<clr:191,195,167><B>Cmdr. Richard:<B> Nice shooting, marines, you're nearing groundwork level. It's looking like you'll have to take the elevator shaft down into where they performed their “research”."
-		"Richard.02_06"		"<clr:191,195,167><B>Cmdr. Richard:<B> Nice shooting, marines, you're nearing groundwork level. It's looking like you'll have to take the elevator shaft down into where they performed their “research”."
+"[english]Richard.02_06"		"<clr:191,195,167><B>Cmdr. Richard:<B> Nice shooting, marines, you're nearing groundwork level. It's looking like you'll have to take the elevator shaft down into where they performed their “research”."
+"Richard.02_06"		"<clr:191,195,167><B>Cmdr. Richard:<B> Bra skjutande, marinsoldater, ni närmar er marknivå. Det ser ut som att du måste ta hisschaktet ner till där de utförde sin "forskning"."
 
-		"[english]Richard.03_01"		"<clr:191,195,167><B>Cmdr. Richard:<B> Don't get any big ideas, Professor. Just point my men in the right direction."
-		"Richard.03_01"		"<clr:191,195,167><B>Cmdr. Richard:<B> Don't get any big ideas, Professor. Just point my men in the right direction."
+"[english]Richard.03_01"		"<clr:191,195,167><B>Cmdr. Richard:<B> Don't get any big ideas, Professor. Just point my men in the right direction."
+"Richard.03_01"		"<clr:191,195,167><B>Cmdr. Richard:<B> Få inga stora idéer, professor. Peka bara mina män i rätt riktning."
 
-		"[english]Richard.03_02"		"<clr:191,195,167><B>Cmdr. Richard:<B> It's even worse than I thought. This place is a ruin already, we're doing it a favor."
-		"Richard.03_02"		"<clr:191,195,167><B>Cmdr. Richard:<B> It's even worse than I thought. This place is a ruin already, we're doing it a favor."
+"[english]Richard.03_02"		"<clr:191,195,167><B>Cmdr. Richard:<B> It's even worse than I thought. This place is a ruin already, we're doing it a favor."
+"Richard.03_02"		"<clr:191,195,167><B>Cmdr. Richard:<B> Det är ännu värre än jag trodde. Det här stället är redan en ruin, vi gör det en tjänst."
 
-		"[english]Richard.03_03"		"<clr:191,195,167><B>Cmdr. Richard:<B> So I see. Now you should all understand why we cannot let this be."
-		"Richard.03_03"		"<clr:191,195,167><B>Cmdr. Richard:<B> So I see. Now you should all understand why we cannot let this be."
+"[english]Richard.03_03"		"<clr:191,195,167><B>Cmdr. Richard:<B> So I see. Now you should all understand why we cannot let this be."
+"Richard.03_03"		"<clr:191,195,167><B>Cmdr. Richard:<B> Så jag ser. Nu borde ni alla förstå varför vi inte kan låta detta vara."
 
 "[english]Richard.03_03_1"		"<clr:191,195,167><B>Cmdr. Richard:<B> I know enough."
 "Richard.03_03_1"		"<clr:191,195,167><B>Cmdr. Richard:<B> Jag vet tillräckligt."
 
-		"[english]Richard.03_05"		"<clr:191,195,167><B>Cmdr. Richard:<B> Alright, that's the eastern door dealt with. Look alive soldiers, it's not over yet."
-		"Richard.03_05"		"<clr:191,195,167><B>Cmdr. Richard:<B> Alright, that's the eastern door dealt with. Look alive soldiers, it's not over yet."
+"[english]Richard.03_05"		"<clr:191,195,167><B>Cmdr. Richard:<B> Alright, that's the eastern door dealt with. Look alive soldiers, it's not over yet."
+"Richard.03_05"		"<clr:191,195,167><B>Cmdr. Richard:<B> Okej, det är den östra dörren hanterad med. Se levande ut soldater, det är inte över än."
 
-		"[english]Richard.03_07"		"<clr:191,195,167><B>Cmdr. Richard:<B> That's fine work, marines. Be advised that once you set it all off, your only way out will be an emergency exit back at the junction. Now find me the controls to the power core and let us all be done with this place."
-		"Richard.03_07"		"<clr:191,195,167><B>Cmdr. Richard:<B> That's fine work, marines. Be advised that once you set it all off, your only way out will be an emergency exit back at the junction. Now find me the controls to the power core and let us all be done with this place."
+"[english]Richard.03_07"		"<clr:191,195,167><B>Cmdr. Richard:<B> That's fine work, marines. Be advised that once you set it all off, your only way out will be an emergency exit back at the junction. Now find me the controls to the power core and let us all be done with this place."
+"Richard.03_07"		"<clr:191,195,167><B>Cmdr. Richard:<B> Det är bra jobbat, marinsoldater. Tänk på att när du väl har satt igång det hela kommer din enda väg ut att vara en nödutgång tillbaka vid korsningen. Hitta mig nu kontrollerna till kraftkärnan och låt oss alla vara klara med den här platsen."
 
 "[english]Richard.03_08"		"<clr:191,195,167><B>Cmdr. Richard:<B> Leave it Duval, this is NOT the mission! Orders are to-"
 "Richard.03_08"		"<clr:191,195,167><B>Cmdr. Richard:<B> Lämna det Duval, det här är INTE uppdraget! Ordern är att-"
