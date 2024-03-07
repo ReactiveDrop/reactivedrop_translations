@@ -5410,39 +5410,39 @@
 "wolfe.WolfeBestReply8"		"<clr:154,205,50><B>Wolfe:<B> Tja, det låter som en utmaning."
 
 
-		"[english]wolfe.MedicComplainReply0"		"<clr:154,205,50><B>Wolfe:<B> Is that a trick question?"
-		"wolfe.MedicComplainReply0"		"<clr:154,205,50><B>Wolfe:<B> Is that a trick question?"
+"[english]wolfe.MedicComplainReply0"		"<clr:154,205,50><B>Wolfe:<B> Is that a trick question?"
+"wolfe.MedicComplainReply0"		"<clr:154,205,50><B>Wolfe:<B> Är det en trickfråga?"
 
 
-		"[english]wolfe.MedicComplainReply1"		"<clr:154,205,50><B>Wolfe:<B> That's a trick question."
-		"wolfe.MedicComplainReply1"		"<clr:154,205,50><B>Wolfe:<B> That's a trick question."
+"[english]wolfe.MedicComplainReply1"		"<clr:154,205,50><B>Wolfe:<B> That's a trick question."
+"wolfe.MedicComplainReply1"		"<clr:154,205,50><B>Wolfe:<B> Det är en trickfråga."
 
 
-		"[english]wolfe.TequilaReply0"		"<clr:154,205,50><B>Wolfe:<B> Hmmm, and whiskey for me."
-		"wolfe.TequilaReply0"		"<clr:154,205,50><B>Wolfe:<B> Hmmm, and whiskey for me."
+"[english]wolfe.TequilaReply0"		"<clr:154,205,50><B>Wolfe:<B> Hmmm, and whiskey for me."
+"wolfe.TequilaReply0"		"<clr:154,205,50><B>Wolfe:<B> Hmmm, och whisky för mig."
 
 
-		"[english]wolfe.TequilaReply1"		"<clr:154,205,50><B>Wolfe:<B> Yeah, and whiskey for me."
-		"wolfe.TequilaReply1"		"<clr:154,205,50><B>Wolfe:<B> Yeah, and whiskey for me."
+"[english]wolfe.TequilaReply1"		"<clr:154,205,50><B>Wolfe:<B> Yeah, and whiskey for me."
+"wolfe.TequilaReply1"		"<clr:154,205,50><B>Wolfe:<B> Ja, och whisky för mig."
 
 
-		"[english]wolfe.InjuredSelection0"		"<clr:154,205,50><B>Wolfe:<B> Ain't got time to bleed."
-		"wolfe.InjuredSelection0"		"<clr:154,205,50><B>Wolfe:<B> Ain't got time to bleed."
+"[english]wolfe.InjuredSelection0"		"<clr:154,205,50><B>Wolfe:<B> Ain't got time to bleed."
+"wolfe.InjuredSelection0"		"<clr:154,205,50><B>Wolfe:<B> Har inte tid att blöda."
 
 
-		"[english]wolfe.InjuredSelection1"		"<clr:154,205,50><B>Wolfe:<B> Just a flesh wound."
-		"wolfe.InjuredSelection1"		"<clr:154,205,50><B>Wolfe:<B> Just a flesh wound."
+"[english]wolfe.InjuredSelection1"		"<clr:154,205,50><B>Wolfe:<B> Just a flesh wound."
+"wolfe.InjuredSelection1"		"<clr:154,205,50><B>Wolfe:<B> Bara ett köttsår."
 
 
-		"[english]wolfe.InjuredSelection2"		"<clr:154,205,50><B>Wolfe:<B> What are you bothering me for?"
-		"wolfe.InjuredSelection2"		"<clr:154,205,50><B>Wolfe:<B> What are you bothering me for?"
+"[english]wolfe.InjuredSelection2"		"<clr:154,205,50><B>Wolfe:<B> What are you bothering me for?"
+"wolfe.InjuredSelection2"		"<clr:154,205,50><B>Wolfe:<B> Vad stör du mig för?"
 
 
-		"[english]wolfe.InjuredSelection3"		"<clr:154,205,50><B>Wolfe:<B> It's time we hit em where it hurts most. All over."
-		"wolfe.InjuredSelection3"		"<clr:154,205,50><B>Wolfe:<B> It's time we hit em where it hurts most. All over."
+"[english]wolfe.InjuredSelection3"		"<clr:154,205,50><B>Wolfe:<B> It's time we hit em where it hurts most. All over."
+"wolfe.InjuredSelection3"		"<clr:154,205,50><B>Wolfe:<B> Det är dags att vi slår dem där det gör mest ont. Överallt."
 
-		"[english]wolfe.SeriousInjuryReply0"		"<clr:154,205,50><B>Wolfe:<B> No way, you gotta be kidding."
-		"wolfe.SeriousInjuryReply0"		"<clr:154,205,50><B>Wolfe:<B> No way, you gotta be kidding."
+"[english]wolfe.SeriousInjuryReply0"		"<clr:154,205,50><B>Wolfe:<B> No way, you gotta be kidding."
+"wolfe.SeriousInjuryReply0"		"<clr:154,205,50><B>Wolfe:<B> Nej, du måste skämta."
 
 "[english]wolfe.Autogun0"		"<clr:154,205,50><B>Wolfe:<B> Dance, bugs, dance. While you can."
 "wolfe.Autogun0"		"<clr:154,205,50><B>Wolfe:<B> Dansa insekter, dansa. Medans ni kan."
