@@ -68,53 +68,53 @@
 		"[english]Command.co_m4_ob1"		"<clr:240,255,255><B>Lt. Williams:<B> All right, sensors show a massive build-up of eggs and biomass in this sector. Make yourselves a little room to work. Clear out the infestation. Burn them if you have to, but be advised, destroying biomass calls the Swarm."
 		"Command.co_m4_ob1"		"<clr:240,255,255><B>Lt. Williams:<B> All right, sensors show a massive build-up of eggs and biomass in this sector. Make yourselves a little room to work. Clear out the infestation. Burn them if you have to, but be advised, destroying biomass calls the Swarm."
 
-		"[english]Command.co_m4_ob2"		"<clr:240,255,255><B>Lt. Williams:<B> Looks like more biomass ahead; get a firing solution on that problem."
-		"Command.co_m4_ob2"		"<clr:240,255,255><B>Lt. Williams:<B> Looks like more biomass ahead; get a firing solution on that problem."
+"[english]Command.co_m4_ob2"		"<clr:240,255,255><B>Lt. Williams:<B> Looks like more biomass ahead; get a firing solution on that problem."
+"Command.co_m4_ob2"		"<clr:240,255,255><B>Lt. Williams:<B> Ser ut som mera biomassa framöver; få en lösning på det problemet."
 
-		"[english]Command.co_m4_ob3"		"<clr:240,255,255><B>Lt. Williams:<B> All right, you've almost cleared out the last of it. Keep pushing forward."
-		"Command.co_m4_ob3"		"<clr:240,255,255><B>Lt. Williams:<B> All right, you've almost cleared out the last of it. Keep pushing forward."
+"[english]Command.co_m4_ob3"		"<clr:240,255,255><B>Lt. Williams:<B> All right, you've almost cleared out the last of it. Keep pushing forward."
+"Command.co_m4_ob3"		"<clr:240,255,255><B>Lt. Williams:<B> Okej, du har nästan rensat bort det sista. Fortsätt trycka framåt."
 
-		"[english]Command.co_m4_ob4"		"<clr:240,255,255><B>Lt. Williams:<B> Just a few more eggs to go."
-		"Command.co_m4_ob4"		"<clr:240,255,255><B>Lt. Williams:<B> Just a few more eggs to go."
+"[english]Command.co_m4_ob4"		"<clr:240,255,255><B>Lt. Williams:<B> Just a few more eggs to go."
+"Command.co_m4_ob4"		"<clr:240,255,255><B>Lt. Williams:<B> Bara några få ägg kvar."
 
-		"[english]Command.co_m4_ob5"		"<clr:240,255,255><B>Lt. Williams:<B> You cleared out the area, time to get to the Swarm nest. Take the elevator down."
-		"Command.co_m4_ob5"		"<clr:240,255,255><B>Lt. Williams:<B> You cleared out the area, time to get to the Swarm nest. Take the elevator down."
+"[english]Command.co_m4_ob5"		"<clr:240,255,255><B>Lt. Williams:<B> You cleared out the area, time to get to the Swarm nest. Take the elevator down."
+"Command.co_m4_ob5"		"<clr:240,255,255><B>Lt. Williams:<B> Du rensade ut området, dags att ta sig till svärmboet. Ta hissen ner."
 
-		"[english]Command.co_m5_ob1"		"<clr:240,255,255><B>Lt. Williams:<B> Okay Squad. I'm picking up major swarm at sewer junction 16."
-		"Command.co_m5_ob1"		"<clr:240,255,255><B>Lt. Williams:<B> Okay Squad. I'm picking up major swarm at sewer junction 16."
+"[english]Command.co_m5_ob1"		"<clr:240,255,255><B>Lt. Williams:<B> Okay Squad. I'm picking up major swarm at sewer junction 16."
+"Command.co_m5_ob1"		"<clr:240,255,255><B>Lt. Williams:<B> Okej truppen. Jag plockar upp en stor svärm vid avloppsknuten 16."
 
-		"[english]Command.co_m5_ob2"		"<clr:240,255,255><B>Lt. Williams:<B> I'm picking up massive kinetic signatures in one of the old maintenance tunnels. Remember, these eggs are full of parasites. Take 'em out on sight."
-		"Command.co_m5_ob2"		"<clr:240,255,255><B>Lt. Williams:<B> I'm picking up massive kinetic signatures in one of the old maintenance tunnels. Remember, these eggs are full of parasites. Take 'em out on sight."
+"[english]Command.co_m5_ob2"		"<clr:240,255,255><B>Lt. Williams:<B> I'm picking up massive kinetic signatures in one of the old maintenance tunnels. Remember, these eggs are full of parasites. Take 'em out on sight."
+"Command.co_m5_ob2"		"<clr:240,255,255><B>Lt. Williams:<B> Jag plockar upp enorma kinetiska signaturer i en av de gamla underhållstunnlarna. Kom ihåg att dessa ägg är fulla av parasiter. Ta ut dem när du ser de."
 
-		"[english]Command.co_m5_ob3"		"<clr:240,255,255><B>Lt. Williams:<B> Okay Squad. Moisture's dripping off those walls. Looks like an ideal breeding ground for swarm parasites. Keep a sharp eye out. If you get infested, call a medic. Your best chance is to destroy the eggs before they pop."
-		"Command.co_m5_ob3"		"<clr:240,255,255><B>Lt. Williams:<B> Okay Squad. Moisture's dripping off those walls. Looks like an ideal breeding ground for swarm parasites. Keep a sharp eye out. If you get infested, call a medic. Your best chance is to destroy the eggs before they pop."
+"[english]Command.co_m5_ob3"		"<clr:240,255,255><B>Lt. Williams:<B> Okay Squad. Moisture's dripping off those walls. Looks like an ideal breeding ground for swarm parasites. Keep a sharp eye out. If you get infested, call a medic. Your best chance is to destroy the eggs before they pop."
+"Command.co_m5_ob3"		"<clr:240,255,255><B>Lt. Williams:<B> Okej truppen. Fukt droppar från väggarna. Ser ut som en idealisk grogrund för svärmparasiter. Håll öga på det. Om du blir infesterad, kalla på en sjukvårdare. Din bästa chans är att förstöra äggen innan de kläcks."
 
-		"[english]Command.co_m5_ob4"		"<clr:240,255,255><B>Lt. Williams:<B> Okay, team, we need to seal the tunnel entrance. This will help keep the swarm off your backs as you move deeper into the colony."
-		"Command.co_m5_ob4"		"<clr:240,255,255><B>Lt. Williams:<B> Okay, team, we need to seal the tunnel entrance. This will help keep the swarm off your backs as you move deeper into the colony."
+"[english]Command.co_m5_ob4"		"<clr:240,255,255><B>Lt. Williams:<B> Okay, team, we need to seal the tunnel entrance. This will help keep the swarm off your backs as you move deeper into the colony."
+"Command.co_m5_ob4"		"<clr:240,255,255><B>Lt. Williams:<B> Okej laget, vi måste försegla tunnel ingången. Detta kommer att hjälpa till att hålla svärmen från dina ryggar när du rör dig djupare in i kolonin."
 
-		"[english]Command.co_m5_ob5"		"<clr:240,255,255><B>Lt. Williams:<B> Okay, Squad. I think I've found a shortcut for you. I'm detecting a breach in the facility's northwest wall. Move the squad through that breach and regain access to the surface."
-		"Command.co_m5_ob5"		"<clr:240,255,255><B>Lt. Williams:<B> Okay, Squad. I think I've found a shortcut for you. I'm detecting a breach in the facility's northwest wall. Move the squad through that breach and regain access to the surface."
+"[english]Command.co_m5_ob5"		"<clr:240,255,255><B>Lt. Williams:<B> Okay, Squad. I think I've found a shortcut for you. I'm detecting a breach in the facility's northwest wall. Move the squad through that breach and regain access to the surface."
+"Command.co_m5_ob5"		"<clr:240,255,255><B>Lt. Williams:<B> Okej truppen. Jag tror att jag har hittat en genväg till er. Jag upptäcker ett genombrott i anläggningens nordvästra vägg. Flytta truppen genom den genombrytningen och återfå tillgång till ytan."
 
-		"[english]Command.co_m6_ob1"		"<clr:240,255,255><B>Lt. Williams:<B> Alright, the bomb is just up ahead!"
-		"Command.co_m6_ob1"		"<clr:240,255,255><B>Lt. Williams:<B> Alright, the bomb is just up ahead!"
+"[english]Command.co_m6_ob1"		"<clr:240,255,255><B>Lt. Williams:<B> Alright, the bomb is just up ahead!"
+"Command.co_m6_ob1"		"<clr:240,255,255><B>Lt. Williams:<B> Okej, bomben är rakt framöver!"
 
-		"[english]Command.co_m6_ob2"		"<clr:240,255,255><B>Lt. Williams:<B> We've got new kinetic signatures breaking out all across the map. This doesn't look good."
-		"Command.co_m6_ob2"		"<clr:240,255,255><B>Lt. Williams:<B> We've got new kinetic signatures breaking out all across the map. This doesn't look good."
+"[english]Command.co_m6_ob2"		"<clr:240,255,255><B>Lt. Williams:<B> We've got new kinetic signatures breaking out all across the map. This doesn't look good."
+"Command.co_m6_ob2"		"<clr:240,255,255><B>Lt. Williams:<B> Vi har fått nya kinetiska signaturer som bryter ut över hela kartan. Det här ser inte bra ut."
 
-		"[english]Command.co_m6_ob3"		"<clr:240,255,255><B>Lt. Williams:<B> Alright, there's the bomb! You'll need to use the mine's rail system to get that thing into the nest. Remember, losing this fight is not an option. We're gonna sterilize this rock right down to its bare molecules."
-		"Command.co_m6_ob3"		"<clr:240,255,255><B>Lt. Williams:<B> Alright, there's the bomb! You'll need to use the mine's rail system to get that thing into the nest. Remember, losing this fight is not an option. We're gonna sterilize this rock right down to its bare molecules."
+"[english]Command.co_m6_ob3"		"<clr:240,255,255><B>Lt. Williams:<B> Alright, there's the bomb! You'll need to use the mine's rail system to get that thing into the nest. Remember, losing this fight is not an option. We're gonna sterilize this rock right down to its bare molecules."
+"Command.co_m6_ob3"		"<clr:240,255,255><B>Lt. Williams:<B> Okej, där är bomben! Du måste använda gruvans järnvägssystem för att få in den där saken i boet. Kom ihåg, att förlora den här striden är inte en möjlighet. Vi kommer att sterilisera den här stenen ända till dess molekyler."
 
-		"[english]Command.co_m6_ob4"		"<clr:240,255,255><B>Lt. Williams:<B> Okay, first thing's first. You need to reactivate the power substation for the cable railway. This'll start the warhead on its path toward the breeding chamber."
-		"Command.co_m6_ob4"		"<clr:240,255,255><B>Lt. Williams:<B> Okay, first thing's first. You need to reactivate the power substation for the cable railway. This'll start the warhead on its path toward the breeding chamber."
+"[english]Command.co_m6_ob4"		"<clr:240,255,255><B>Lt. Williams:<B> Okay, first thing's first. You need to reactivate the power substation for the cable railway. This'll start the warhead on its path toward the breeding chamber."
+"Command.co_m6_ob4"		"<clr:240,255,255><B>Lt. Williams:<B> Okej, första och främst. Du måste återaktivera kraftöverföringsstationen för kabelbanan. Detta kommer att starta kärnvapnet på sin väg mot avelskammaren."
 
-		"[english]Command.co_m6_ob5"		"<clr:240,255,255><B>Lt. Williams:<B> Alright, there are two doors that you're going to need to hack to move the warhead into position. Get 'em open."
-		"Command.co_m6_ob5"		"<clr:240,255,255><B>Lt. Williams:<B> Alright, there are two doors that you're going to need to hack to move the warhead into position. Get 'em open."
+"[english]Command.co_m6_ob5"		"<clr:240,255,255><B>Lt. Williams:<B> Alright, there are two doors that you're going to need to hack to move the warhead into position. Get 'em open."
+"Command.co_m6_ob5"		"<clr:240,255,255><B>Lt. Williams:<B> Okej, det finns två dörrar som du kommer att behöva hacka för att flytta kärnvapnet på plats. Öppna dem."
 
-		"[english]Command.co_m6_ob6"		"<clr:240,255,255><B>Lt. Williams:<B> Once the warhead is in position, activate the detonation sequence. After that, you're gonna need to back-track your way up to the surface to reach your extraction zone."
-		"Command.co_m6_ob6"		"<clr:240,255,255><B>Lt. Williams:<B> Once the warhead is in position, activate the detonation sequence. After that, you're gonna need to back-track your way up to the surface to reach your extraction zone."
+"[english]Command.co_m6_ob6"		"<clr:240,255,255><B>Lt. Williams:<B> Once the warhead is in position, activate the detonation sequence. After that, you're gonna need to back-track your way up to the surface to reach your extraction zone."
+"Command.co_m6_ob6"		"<clr:240,255,255><B>Lt. Williams:<B> När kärnvapnet är på plats, aktivera detonationssekvensen. Efter det måste du backa dig upp till ytan för att nå din extraktionszon."
 
-		"[english]Command.co_m6_ob7"		"<clr:240,255,255><B>Lt. Williams:<B> Alright squad, the clock is ticking. You do NOT want to be there when that device goes off. Trust me, it would ruin your whole day."
-		"Command.co_m6_ob7"		"<clr:240,255,255><B>Lt. Williams:<B> Alright squad, the clock is ticking. You do NOT want to be there when that device goes off. Trust me, it would ruin your whole day."
+"[english]Command.co_m6_ob7"		"<clr:240,255,255><B>Lt. Williams:<B> Alright squad, the clock is ticking. You do NOT want to be there when that device goes off. Trust me, it would ruin your whole day."
+"Command.co_m6_ob7"		"<clr:240,255,255><B>Lt. Williams:<B> Okej truppen, klockan tickar. Du vill INTE vara där när den där apparaten går av. Tro mig, det skulle förstöra hela dagen."
 
 "[english]Command.co_m6_ob8"		"<clr:240,255,255><B>Lt. Williams:<B> Head out the same way you came! We'll pick you up on the surface!"
 "Command.co_m6_ob8"		"<clr:240,255,255><B>Lt. Williams:<B> Gå ut samma väg som du kom! Vi plockar upp dig på ytan!"
@@ -191,11 +191,11 @@
 "[english]Command.co_debriefing_ob1"		"<clr:240,255,255><B>Lt. Williams:<B> Objective completed! Good work, marines."
 "Command.co_debriefing_ob1"		"<clr:240,255,255><B>Lt. Williams:<B> Målet avklarat! Bra jobbat, marinsoldater."
 
-		"[english]Command.co_debriefing_ob2"		"<clr:240,255,255><B>Lt. Williams:<B> Analysis of the flight recorder from the escape pod shows a number of vessels did successfully break orbit and leave Vereon XII. Looks like a handful of SynTek officers and colonists."
-		"Command.co_debriefing_ob2"		"<clr:240,255,255><B>Lt. Williams:<B> Analysis of the flight recorder from the escape pod shows a number of vessels did successfully break orbit and leave Vereon XII. Looks like a handful of SynTek officers and colonists."
+"[english]Command.co_debriefing_ob2"		"<clr:240,255,255><B>Lt. Williams:<B> Analysis of the flight recorder from the escape pod shows a number of vessels did successfully break orbit and leave Vereon XII. Looks like a handful of SynTek officers and colonists."
+"Command.co_debriefing_ob2"		"<clr:240,255,255><B>Lt. Williams:<B>Analys av färdskrivaren från flyktkapseln visar att ett antal fartyg lyckades bryta sin omloppsbana och lämna Vereon XII. Ser ut som en handfull SynTek-officerare och kolonister."
 
-		"[english]Command.co_debriefing_ob3"		"<clr:240,255,255><B>Lt. Williams:<B> We also show a small container left the atmosphere without broadcasting ID codes. All launch data for this vessel has been scrambled by persons unknown. We've dispatched scout vessels to search the immediate vicinity, but given its size and the unknown trajectory, the chances of finding it are slim."
-		"Command.co_debriefing_ob3"		"<clr:240,255,255><B>Lt. Williams:<B> We also show a small container left the atmosphere without broadcasting ID codes. All launch data for this vessel has been scrambled by persons unknown. We've dispatched scout vessels to search the immediate vicinity, but given its size and the unknown trajectory, the chances of finding it are slim."
+"[english]Command.co_debriefing_ob3"		"<clr:240,255,255><B>Lt. Williams:<B> We also show a small container left the atmosphere without broadcasting ID codes. All launch data for this vessel has been scrambled by persons unknown. We've dispatched scout vessels to search the immediate vicinity, but given its size and the unknown trajectory, the chances of finding it are slim."
+"Command.co_debriefing_ob3"		"<clr:240,255,255><B>Lt. Williams:<B> Vi visar också en liten container som lämnade atmosfären utan att sända ID-koder. Alla uppskjutningsdata för detta fartyg har förvrängts av okända personer. Vi har skickat ut scoutfartyg för att söka i den omedelbara närheten, men med tanke på dess storlek och den okända banan är chansen liten att hitta den."
 
 "[english]Command.co_debriefing_ob4"		"<clr:240,255,255><B>Lt. Williams:<B> Everybody has to be on that lift before it'll activate."
 "Command.co_debriefing_ob4"		"<clr:240,255,255><B>Lt. Williams:<B> Alla måste vara på liften för att den ska aktiveras."
@@ -206,17 +206,17 @@
 "[english]Command.co_debriefing_ob6"		"<clr:240,255,255><B>Lt. Williams:<B> We are showing the reactor back up and running at full efficiency. Great job!"
 "Command.co_debriefing_ob6"		"<clr:240,255,255><B>Lt. Williams:<B> Vi visar att reaktorn är igång igen med full effektivitet. Bra jobbat!"
 
-		"[english]Command.co_debriefing_ob7"		"<clr:240,255,255><B>Lt. Williams:<B> The data you recovered shows a number of SynTek Security personnel attempted to fight back the infestation. We can assume at this point that they were unsuccessful."
-		"Command.co_debriefing_ob7"		"<clr:240,255,255><B>Lt. Williams:<B> The data you recovered shows a number of SynTek Security personnel attempted to fight back the infestation. We can assume at this point that they were unsuccessful."
+"[english]Command.co_debriefing_ob7"		"<clr:240,255,255><B>Lt. Williams:<B> The data you recovered shows a number of SynTek Security personnel attempted to fight back the infestation. We can assume at this point that they were unsuccessful."
+"Command.co_debriefing_ob7"		"<clr:240,255,255><B>Lt. Williams:<B> Datan du återställde visar att ett antal SynTek Säkerhets-personal försökte slå tillbaka angreppet. Vi kan vid det här laget anta att de misslyckades."
 
-		"[english]Command.co_debriefing_ob8"		"<clr:240,255,255><B>Lt. Williams:<B> With the sewer access tunnel sealed, the Swarm have only one way to the surface."
-		"Command.co_debriefing_ob8"		"<clr:240,255,255><B>Lt. Williams:<B> With the sewer access tunnel sealed, the Swarm have only one way to the surface."
+"[english]Command.co_debriefing_ob8"		"<clr:240,255,255><B>Lt. Williams:<B> With the sewer access tunnel sealed, the Swarm have only one way to the surface."
+"Command.co_debriefing_ob8"		"<clr:240,255,255><B>Lt. Williams:<B> Med avloppstunneln förseglad, har svärmen endast en väg upp till ytan"
 
-		"[english]Command.co_debriefing_ob9"		"<clr:240,255,255><B>Lt. Williams:<B> Excellent work, Commander. The thermonuclear device detonated by your squad has destroyed the bulk of the Swarm forces beneath the surface. We estimate in excess of 200 eggs and countless Swarm drones have been wiped out by the detonation."
-		"Command.co_debriefing_ob9"		"<clr:240,255,255><B>Lt. Williams:<B> Excellent work, Commander. The thermonuclear device detonated by your squad has destroyed the bulk of the Swarm forces beneath the surface. We estimate in excess of 200 eggs and countless Swarm drones have been wiped out by the detonation."
+"[english]Command.co_debriefing_ob9"		"<clr:240,255,255><B>Lt. Williams:<B> Excellent work, Commander. The thermonuclear device detonated by your squad has destroyed the bulk of the Swarm forces beneath the surface. We estimate in excess of 200 eggs and countless Swarm drones have been wiped out by the detonation."
+"Command.co_debriefing_ob9"		"<clr:240,255,255><B>Lt. Williams:<B> Utmärkande arbete, Befälhavare. Den termonukleära enheten som detonerade av din trupp har förstört huvuddelen av svärmstyrkorna under ytan.Vi uppskattar att över 200 ägg och otaliga svärmdrönare har utplånats av detonationen."
 
-		"[english]Command.co_debriefing_ob10"		"<clr:240,255,255><B>Lt. Williams:<B> We are still detecting a single large heat source in a deep, well protected chamber. IAF Command is making investigation of this a priority."
-		"Command.co_debriefing_ob10"		"<clr:240,255,255><B>Lt. Williams:<B> We are still detecting a single large heat source in a deep, well protected chamber. IAF Command is making investigation of this a priority."
+"[english]Command.co_debriefing_ob10"		"<clr:240,255,255><B>Lt. Williams:<B> We are still detecting a single large heat source in a deep, well protected chamber. IAF Command is making investigation of this a priority."
+"Command.co_debriefing_ob10"		"<clr:240,255,255><B>Lt. Williams:<B> Vi upptäcker fortfarande en enda stor värmekälla i en djup, väl skyddad kammare. IAF Kommando prioriterar utredning av detta."
 
 // Bastille
 
@@ -6666,13 +6666,13 @@
 "[english]tarnor.train_departing1"		"<clr:158,120,60><B>Station Announcement:<B> This train is now departing."
 "tarnor.train_departing1"		"<clr:158,120,60><B>Station Announcement:<B> Detta tåg går nu."
 
-		// NAM HUMANUM
+// NAM HUMANUM
 
-		"[english]Duval.01_02"		"<clr:179,203,207><B>Prof. Duval:<B> Charlie, Julie Duval here. Thermals from your shuttle's radar are tracking multiple signals in and out the installation's roofs and ducts. Though these readouts are oddly...human, for lack of details."
-		"Duval.01_02"		"<clr:179,203,207><B>Prof. Duval:<B> Charlie, Julie Duval here. Thermals from your shuttle's radar are tracking multiple signals in and out the installation's roofs and ducts. Though these readouts are oddly...human, for lack of details."
+"[english]Duval.01_02"		"<clr:179,203,207><B>Prof. Duval:<B> Charlie, Julie Duval here. Thermals from your shuttle's radar are tracking multiple signals in and out the installation's roofs and ducts. Though these readouts are oddly...human, for lack of details."
+"Duval.01_02"		"<clr:179,203,207><B>Prof. Duval:<B> Charlie, Julie Duval här. Termik från din skyttels radar spårar flera signaler in och ut i installationens tak och kanaler. Även om dessa avläsningar är konstigt nog ... mänskliga, i brist på detaljer."
 
-		"[english]Duval.01_03"		"<clr:179,203,207><B>Prof. Duval:<B> Their morphologies are just...not right. This specimen…"
-		"Duval.01_03"		"<clr:179,203,207><B>Prof. Duval:<B> Their morphologies are just...not right. This specimen…"
+"[english]Duval.01_03"		"<clr:179,203,207><B>Prof. Duval:<B> Their morphologies are just...not right. This specimen…"
+"Duval.01_03"		"<clr:179,203,207><B>Prof. Duval:<B> Deras morfologi är bara...inte rätt. De här exemplarna…"
 
 "[english]Duval.01_03_01"		"<clr:179,203,207><B>Prof. Duval:<B> Understood."
 "Duval.01_03_01"		"<clr:179,203,207><B>Prof. Duval:<B> Uppfattat."
@@ -6689,8 +6689,8 @@
 		"[english]Duval.02_02"		"<clr:179,203,207><B>Prof. Duval:<B> Commander, if I may... I believe this excursion could turn into an opportunity to learn more about this alien 'parasite' that so many settlements seem to have encountered over the last few months. Maybe extending the field of investigation, given the uniqueness of Lugdunum's status, could lead to some sort of answer about this phenomenon as a whole."
 		"Duval.02_02"		"<clr:179,203,207><B>Prof. Duval:<B> Commander, if I may... I believe this excursion could turn into an opportunity to learn more about this alien 'parasite' that so many settlements seem to have encountered over the last few months. Maybe extending the field of investigation, given the uniqueness of Lugdunum's status, could lead to some sort of answer about this phenomenon as a whole."
 
-		"[english]Duval.02_02_1"		"<clr:179,203,207><B>Prof. Duval:<B> Sir, with all due respect, what I'm asking is merely that we-"
-		"Duval.02_02_1"		"<clr:179,203,207><B>Prof. Duval:<B> Sir, with all due respect, what I'm asking is merely that we-"
+"[english]Duval.02_02_1"		"<clr:179,203,207><B>Prof. Duval:<B> Sir, with all due respect, what I'm asking is merely that we-"
+"Duval.02_02_1"		"<clr:179,203,207><B>Prof. Duval:<B> Sir, med all respekt, det jag frågar är bara att vi-"
 
 		"[english]Duval.02_04"		"<clr:179,203,207><B>Prof. Duval:<B> Sir, I have to insist on the singularity of the circumstances we are drawing ourselves into. From the few records I could salvage, it reads like something happened, unlike past attacks, with the people of this colony as a direct cause... References to experiments and the creatures you've...we've been, so far, blissfully shooting down! Whatever we might find, would we not benefit from it, if nothing else?"
 		"Duval.02_04"		"<clr:179,203,207><B>Prof. Duval:<B> Sir, I have to insist on the singularity of the circumstances we are drawing ourselves into. From the few records I could salvage, it reads like something happened, unlike past attacks, with the people of this colony as a direct cause... References to experiments and the creatures you've...we've been, so far, blissfully shooting down! Whatever we might find, would we not benefit from it, if nothing else?"
@@ -6698,8 +6698,8 @@
 "[english]Duval.02_04_1"		"<clr:179,203,207><B>Prof. Duval:<B> Quite clear...sir."
 "Duval.02_04_1"		"<clr:179,203,207><B>Prof. Duval:<B> Helt klart... sir."
 
-		"[english]Duval.02_05"		"<clr:179,203,207><B>Prof. Duval:<B> ...all of its body heat is concentrated around its rear, that's the weak point!"
-		"Duval.02_05"		"<clr:179,203,207><B>Prof. Duval:<B> ...all of its body heat is concentrated around its rear, that's the weak point!"
+"[english]Duval.02_05"		"<clr:179,203,207><B>Prof. Duval:<B> ...all of its body heat is concentrated around its rear, that's the weak point!"
+"Duval.02_05"		"<clr:179,203,207><B>Prof. Duval:<B> ...all kroppsvärme är koncentrerad runt bakdelen, det är den svaga punkten!"
 
 		"[english]Duval.03_01"		"<clr:179,203,207><B>Prof. Duval:<B> This place is a maze... Our best chance, if we're to condemn the facility, would be to overheat its power source. A nuclear chain-reaction should be enough to cave the entire thing on itself. Looking at the design plans, we know that one of Lugdunum's cores is located within this floor's eastern section, alongside the...chief scientist's office? Huh."
 		"Duval.03_01"		"<clr:179,203,207><B>Prof. Duval:<B> This place is a maze... Our best chance, if we're to condemn the facility, would be to overheat its power source. A nuclear chain-reaction should be enough to cave the entire thing on itself. Looking at the design plans, we know that one of Lugdunum's cores is located within this floor's eastern section, alongside the...chief scientist's office? Huh."
