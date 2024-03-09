@@ -6687,7 +6687,7 @@
 "Duval.01_06"		"<clr:179,203,207><B>Prof. Duval:<B> Charlie, vi plockar upp många aktiviteter som konvergerar till din position, du måste hålla dem tills öppningssekvensen är klar!"
 
 "[english]Duval.02_02"		"<clr:179,203,207><B>Prof. Duval:<B> Commander, if I may... I believe this excursion could turn into an opportunity to learn more about this alien 'parasite' that so many settlements seem to have encountered over the last few months. Maybe extending the field of investigation, given the uniqueness of Lugdunum's status, could lead to some sort of answer about this phenomenon as a whole."
-"Duval.02_02"		"<clr:179,203,207><B>Prof. Duval:<B> Befälhavare, om jag får... Jag tror att denna utflykt kan bli en möjlighet att lära sig mer om denna främmande "parasit" som så många bosättningar verkar ha stött på under de senaste månaderna. Kanske skulle en utvidgning av undersökningsfältet, med tanke på det unika i Lugdunums status, kunna leda till något slags svar om detta fenomen som helhet."
+"Duval.02_02"		"<clr:179,203,207><B>Prof. Duval:<B> Befälhavare, om jag får... Jag tror att denna utflykt kan bli en möjlighet att lära sig mer om denna främmande 'parasit' som så många bosättningar verkar ha stött på under de senaste månaderna. Kanske skulle en utvidgning av undersökningsfältet, med tanke på det unika i Lugdunums status, kunna leda till något slags svar om detta fenomen som helhet."
 
 "[english]Duval.02_02_1"		"<clr:179,203,207><B>Prof. Duval:<B> Sir, with all due respect, what I'm asking is merely that we-"
 "Duval.02_02_1"		"<clr:179,203,207><B>Prof. Duval:<B> Sir, med all respekt, det jag frågar är bara att vi-"
