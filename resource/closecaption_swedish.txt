@@ -6766,7 +6766,7 @@
 "Richard.02_05"		"<clr:191,195,167><B>Cmdr. Richard:<B> Vad i hela friden..."
 
 "[english]Richard.02_06"		"<clr:191,195,167><B>Cmdr. Richard:<B> Nice shooting, marines, you're nearing groundwork level. It's looking like you'll have to take the elevator shaft down into where they performed their “research”."
-"Richard.02_06"		"<clr:191,195,167><B>Cmdr. Richard:<B> Bra skjutande, mariner, ni är nära marknivå. Det ser ut som att du måste ta hisschaktet ner till där de utförde sin "forskning"."
+"Richard.02_06"		"<clr:191,195,167><B>Cmdr. Richard:<B> Bra skjutande, mariner, ni är nära marknivå. Det ser ut som att du måste ta hisschaktet ner till där de utförde sin “forskning”."
 
 "[english]Richard.03_01"		"<clr:191,195,167><B>Cmdr. Richard:<B> Don't get any big ideas, Professor. Just point my men in the right direction."
 "Richard.03_01"		"<clr:191,195,167><B>Cmdr. Richard:<B> Få inga stora idéer, professor. Peka bara mina män i rätt riktning."
