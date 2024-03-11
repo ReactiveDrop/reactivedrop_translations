@@ -239,9 +239,9 @@
 "item_event_medal_replayabilityfest2024_name"		"Фестиваль бесконечной реиграбельности в Steam (2024)"
 "[english]item_event_medal_replayabilityfest2024_description"		"Fought the Swarm during Steam Endless Replayability Fest 2024."
 "item_event_medal_replayabilityfest2024_description"		"За сражение с роем во время бесконечной реиграбельности в Steam (2024)."
-		// we're not eligible for the fest, so this medal is an unofficial participation trophy. ouch.
-		"[english]item_event_medal_replayabilityfest2024_flavor"		"We didn't make the cut, but we still had fun."
-		"item_event_medal_replayabilityfest2024_flavor"		"We didn't make the cut, but we still had fun."
+// we're not eligible for the fest, so this medal is an unofficial participation trophy. ouch.
+"[english]item_event_medal_replayabilityfest2024_flavor"		"We didn't make the cut, but we still had fun."
+"item_event_medal_replayabilityfest2024_flavor"		"Мы не прошли отбор, но всё равно позабавились."
 
 "[english]item_event_medal_mapping_2023_name"		"Mapping Competition Participant (2023)"
 "item_event_medal_mapping_2023_name"		"Участник соревнования по созданию карт (2023)"

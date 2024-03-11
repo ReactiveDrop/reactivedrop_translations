@@ -8311,9 +8311,9 @@
 "[english]rd_mission_loc_rd-tft2abandonedmaintenance"		"Abandoned Maintenance Tunnels"
 "rd_mission_loc_rd-tft2abandonedmaintenance"		"废弃的维修通道"
 "[english]rd_mission_desc_rd-tft2abandonedmaintenance"		"Having gained access to the base, it's time to move deeper. The swarm are on Tarnor and in high concentrations. These old maintenance and storage sectors should connect up to the spaceport. Be advised that when newer facilities were constructed, these areas were left abandoned. Systems may not function properly here. Be prepared for malfunctions. It's imperative that the squad makes it to the spaceport to find out why the guidance systems are offline and to search for anyone in need of assistance."
-"rd_mission_desc_rd-tft2abandonedmaintenance"		"进入基地后，是时候深入了。虫群集中在塔纳岛上。这些旧的维护和存储区应该连接到航天港。请注意，当新的设施建成后，这些地区就被遗弃了。系统可能无法正常工作。为故障做好准备。小队必须赶到航天港，去找出导航系统离线的原因，并寻找需要帮助的人。"
+"rd_mission_desc_rd-tft2abandonedmaintenance"		"进入基地后，是时候深入了。塔诺尔星上虫群密布。这些旧的维护和存储区应该连接到航天港。请注意，当新的设施建成后，这些地区就被遗弃了。系统可能无法正常工作。做好遇到设备故障的准备。小队必须赶到航天港，去找出导航系统离线的原因，并寻找需要帮助的人。"
 "[english]rd_mission_brief_rd-tft2abandonedmaintenance"		"These old maintenance and storage sectors should connect up to the spaceport. Be advised that some systems may not function properly here. Be prepared for malfunctions."
-"rd_mission_brief_rd-tft2abandonedmaintenance"		"这些旧的维护和存储区应该连接到航天港。请注意，这里的一些系统可能无法正常工作。为故障做好准备。"
+"rd_mission_brief_rd-tft2abandonedmaintenance"		"这些旧的维护和存储区应该连接到航天港。请注意，这里的一些系统可能无法正常工作。做好遇到设备故障的准备。"
 "[english]rd_mission_title_rd-tft3spaceport"		"Oasis Colony Spaceport"
 "rd_mission_title_rd-tft3spaceport"		"绿洲殖民地航天港"
 "[english]rd_mission_loc_rd-tft3spaceport"		"Oasis Colony Spaceport"
@@ -10240,10 +10240,18 @@
 "[english]rd_notification_action_back"		"Cancel"
 "rd_notification_action_back"		"取消"
 
+		// %s1 is the player name. %s2 is something like Jacob's Rest Veteran (it will be a different color than the rest of the text).
+		"[english]rd_player_found_promo_item"		"%s1 has been awarded %s2."
+		"rd_player_found_promo_item"		"%s1 has been awarded %s2."
+// %s1 is the player name. %s2 is something like Scrap Metal (it will be a different color than the rest of the text).
 "[english]rd_player_found_crafting_material"		"%s1 has found %s2."
 "rd_player_found_crafting_material"		"%s1 找到了 %s2！"
+// %s1 is the player name. %s2 is something like Scrap Metal (it will be a different color than the rest of the text). %s3 is a number (might be 1).
 "[english]rd_player_found_crafting_materials"		"%s1 has found %s3× %s2."
 "rd_player_found_crafting_materials"		"%s1 找到了 %s3× %s2！"
+		// Only shown to the player who tried to pick up the item. %s1 is the name of the crafting material. %s2 is a number like 37. %s3 is a non-translated string like k_EResultIOFailure.
+		"[english]rd_crafting_pickup_error"		"Encountered a problem while trying to pick up '%s1'. The material has moved to somewhere else. (Error %s2: %s3)"
+		"rd_crafting_pickup_error"		"Encountered a problem while trying to pick up '%s1'. The material has moved to somewhere else. (Error %s2: %s3)"
 
 "[english]rd_mission_modifier_workshop"		"This mission was downloaded from the Steam Workshop."
 "rd_mission_modifier_workshop"		"本任务来自Steam创意工坊。"
