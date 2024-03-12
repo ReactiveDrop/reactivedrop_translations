@@ -10242,7 +10242,7 @@
 
 // %s1 is the player name. %s2 is something like Jacob's Rest Veteran (it will be a different color than the rest of the text).
 "[english]rd_player_found_promo_item"		"%s1 has been awarded %s2."
-"rd_player_found_promo_item"		"%s1 wurde mit %s2 ausgezeichnet."
+"rd_player_found_promo_item"		"%s1 wurde mit \"%s2\" ausgezeichnet."
 // %s1 is the player name. %s2 is something like Scrap Metal (it will be a different color than the rest of the text).
 "[english]rd_player_found_crafting_material"		"%s1 has found %s2."
 "rd_player_found_crafting_material"		"%s1 hat %s2 gefunden."
