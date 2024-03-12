@@ -15,9 +15,9 @@
 "filter_servermsg"		"Tin nhắn máy chủ"
 "[english]filter_teamchange"		"Team Changes"
 "filter_teamchange"		"Thay đổi đội"
-"[english]chat_say"		"Say:"
-"chat_say"		"Nói:"
-"[english]chat_say_team"		"Say (TEAM):"
-"chat_say_team"		"Nói (ĐỘI):"
+"[english]chat_say"		"Say"
+"chat_say"		"Nói"
+"[english]chat_say_team"		"Say (TEAM)"
+"chat_say_team"		"Nói (ĐỘI)"
 }
 }

@@ -15,9 +15,9 @@
 "filter_servermsg"		"Palvelimen Viestit"
 "[english]filter_teamchange"		"Team Changes"
 "filter_teamchange"		"Tiimin Vaihto"
-"[english]chat_say"		"Say:"
-"chat_say"		"Sanoa:"
-"[english]chat_say_team"		"Say (TEAM):"
-"chat_say_team"		"Sanoa (TIIMI):"
+"[english]chat_say"		"Say"
+"chat_say"		"Sanoa"
+"[english]chat_say_team"		"Say (TEAM)"
+"chat_say_team"		"Sanoa (TIIMI)"
 }
 }

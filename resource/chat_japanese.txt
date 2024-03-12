@@ -15,9 +15,9 @@
 "filter_servermsg"		"サーバー通知"
 "[english]filter_teamchange"		"Team Changes"
 "filter_teamchange"		"チーム変更"
-"[english]chat_say"		"Say:"
-"chat_say"		"発言:"
-"[english]chat_say_team"		"Say (TEAM):"
-"chat_say_team"		"チーム発言:"
+"[english]chat_say"		"Say"
+"chat_say"		"発言"
+"[english]chat_say_team"		"Say (TEAM)"
+"chat_say_team"		"チーム発言"
 }
 }

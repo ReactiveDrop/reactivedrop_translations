@@ -15,9 +15,9 @@
 "filter_servermsg"		"서버 메세지"
 "[english]filter_teamchange"		"Team Changes"
 "filter_teamchange"		"팀 채팅"
-"[english]chat_say"		"Say:"
-"chat_say"		"말하기:"
-"[english]chat_say_team"		"Say (TEAM):"
-"chat_say_team"		"말하기 (팀):"
+"[english]chat_say"		"Say"
+"chat_say"		"말하기"
+"[english]chat_say_team"		"Say (TEAM)"
+"chat_say_team"		"말하기 (팀)"
 }
 }
