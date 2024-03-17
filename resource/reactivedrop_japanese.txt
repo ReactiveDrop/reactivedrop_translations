@@ -5275,7 +5275,7 @@
 "rd_so_stat_extinguish_marines"		"海兵隊の消火回数"
 
 "[english]rd_so_damage_resistance_drone"		"Drones are the damage resistance baseline used in these articles.\nDamage Resistance (Uber): 12.5×"
-"rd_so_damage_resistance_drone"		"ドローンにはこの項目に書かれているダメージ耐性基準値があります。\nダメージ耐性(ウーバーの場合): 12.5×"
+"rd_so_damage_resistance_drone"		"図鑑に書かれているダメージ耐性は通常のドローンを基準としています。\nダメージ耐性(ウーバーの場合): 12.5×"
 "[english]rd_so_damage_resistance_biomass"		"Damage Resistance: N/A"
 "rd_so_damage_resistance_biomass"		"ダメージ耐性: 該当データ無し"
 "[english]rd_so_damage_resistance_1hp"		"Damage Resistance: None"
@@ -8885,7 +8885,7 @@
 "[english]rd_collection_swarmopedia"		"Swarmopedia"
 "rd_collection_swarmopedia"		"エイリアン図鑑"
 "[english]rd_swarmopedia_article_unlocked"		"New Swarmopedia article unlocked: \"%s1\""
-"rd_swarmopedia_article_unlocked"		"エイリアン図鑑の項目がアンロックされました: \"%s1\""
+"rd_swarmopedia_article_unlocked"		"エイリアン図鑑の項目がアンロックされました: 『%s1』"
 "[english]rd_inventory_verb_equip"		"Equip"
 "rd_inventory_verb_equip"		"装備する"
 "[english]rd_inventory_verb_equip_0"		"Equip in Slot 1"
