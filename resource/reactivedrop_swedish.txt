@@ -1262,7 +1262,7 @@
 "[english]asw_kill"		"Kill"
 "asw_kill"		"Döda"
 "[english]asw_destroy"		"Destroy"
-"asw_destroy"		"Förstör
+"asw_destroy"		"Förstör"
 "[english]asw_marine"		"Marine"
 "asw_marine"		"Marin"
 "[english]asw_marines"		"Marines"
