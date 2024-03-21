@@ -5275,7 +5275,7 @@
 "rd_so_stat_extinguish_marines"		"海兵隊の消火回数"
 
 "[english]rd_so_damage_resistance_drone"		"Drones are the damage resistance baseline used in these articles.\nDamage Resistance (Uber): 12.5×"
-"rd_so_damage_resistance_drone"		"ドローンにはこの項目に書かれているダメージ耐性基準値があります。\nダメージ耐性(ウーバーの場合): 12.5×"
+"rd_so_damage_resistance_drone"		"図鑑に書かれているダメージ耐性は通常のドローンを基準としています。\nダメージ耐性(ウーバーの場合): 12.5×"
 "[english]rd_so_damage_resistance_biomass"		"Damage Resistance: N/A"
 "rd_so_damage_resistance_biomass"		"ダメージ耐性: 該当データ無し"
 "[english]rd_so_damage_resistance_1hp"		"Damage Resistance: None"
@@ -8885,7 +8885,7 @@
 "[english]rd_collection_swarmopedia"		"Swarmopedia"
 "rd_collection_swarmopedia"		"エイリアン図鑑"
 "[english]rd_swarmopedia_article_unlocked"		"New Swarmopedia article unlocked: \"%s1\""
-"rd_swarmopedia_article_unlocked"		"エイリアン図鑑の項目がアンロックされました: \"%s1\""
+"rd_swarmopedia_article_unlocked"		"エイリアン図鑑の項目がアンロックされました: 『%s1』"
 "[english]rd_inventory_verb_equip"		"Equip"
 "rd_inventory_verb_equip"		"装備する"
 "[english]rd_inventory_verb_equip_0"		"Equip in Slot 1"
@@ -10240,18 +10240,18 @@
 "[english]rd_notification_action_back"		"Cancel"
 "rd_notification_action_back"		"キャンセル"
 
-		// %s1 is the player name. %s2 is something like Jacob's Rest Veteran (it will be a different color than the rest of the text).
-		"[english]rd_player_found_promo_item"		"%s1 has been awarded %s2."
-		"rd_player_found_promo_item"		"%s1 has been awarded %s2."
+// %s1 is the player name. %s2 is something like Jacob's Rest Veteran (it will be a different color than the rest of the text).
+"[english]rd_player_found_promo_item"		"%s1 has been awarded %s2."
+"rd_player_found_promo_item"		"%s1に%s2が授与された。"
 // %s1 is the player name. %s2 is something like Scrap Metal (it will be a different color than the rest of the text).
 "[english]rd_player_found_crafting_material"		"%s1 has found %s2."
 "rd_player_found_crafting_material"		"%s1は%s2を見つけた。"
 // %s1 is the player name. %s2 is something like Scrap Metal (it will be a different color than the rest of the text). %s3 is a number (might be 1).
 "[english]rd_player_found_crafting_materials"		"%s1 has found %s3× %s2."
 "rd_player_found_crafting_materials"		"%s1は%s2を%s3個見つけた。"
-		// Only shown to the player who tried to pick up the item. %s1 is the name of the crafting material. %s2 is a number like 37. %s3 is a non-translated string like k_EResultIOFailure.
-		"[english]rd_crafting_pickup_error"		"Encountered a problem while trying to pick up '%s1'. The material has moved to somewhere else. (Error %s2: %s3)"
-		"rd_crafting_pickup_error"		"Encountered a problem while trying to pick up '%s1'. The material has moved to somewhere else. (Error %s2: %s3)"
+// Only shown to the player who tried to pick up the item. %s1 is the name of the crafting material. %s2 is a number like 37. %s3 is a non-translated string like k_EResultIOFailure.
+"[english]rd_crafting_pickup_error"		"Encountered a problem while trying to pick up '%s1'. The material has moved to somewhere else. (Error %s2: %s3)"
+"rd_crafting_pickup_error"		"'%s1'を拾う際に問題が発生しました。素材はどこかに行ってしまいました。(エラー %s2: %s3)"
 
 "[english]rd_mission_modifier_workshop"		"This mission was downloaded from the Steam Workshop."
 "rd_mission_modifier_workshop"		"Steamワークショップからダウンロードされたミッションです。"
