@@ -9717,7 +9717,7 @@
 "[english]rd_option_network_rate"		"Maximum Game Bandwidth"
 "rd_option_network_rate"		"最大游戏带宽"
 "[english]rd_option_network_rate_hint"		"Controls the maximum amount of data the game is allowed to send and receive, in kilobits per second."
-"rd_option_network_rate_hint"		"控制游戏允许的最大通信带宽，单位是千字节每秒（kB/s）。"
+"rd_option_network_rate_hint"		"控制游戏允许的最大通信带宽，单位是千比特位每秒（kb/s）。"
 "[english]rd_option_network_allow_relay"		"Steam Connection Relay"
 "rd_option_network_allow_relay"		"Steam中继网络"
 "[english]rd_option_network_allow_relay_disabled"		"Disabled"
