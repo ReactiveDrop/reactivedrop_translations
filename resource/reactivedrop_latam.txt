@@ -9648,7 +9648,7 @@
 		"rd_option_speed_auto_restart_mission_hint"		"Regresa al informe automáticamente tras el fracaso de una misión."
 		"[english]rd_option_leaderboard_private_stats"		"Hide My Stats"
 		"rd_option_leaderboard_private_stats"		"Ocultar mis estadísticas"
-		"[english]rd_option_leaderboard_private_stats_hint"		"Hides most lifetime stats from your public commander profile. Experience, promotion and medals are still visible, excluding entries on individual leaderboards."
+		"[english]rd_option_leaderboard_private_stats_hint"		"Hides everything except experience, promotion and medals from your public commander profile. Your entries on individual leaderboards are still visible."
 		"rd_option_leaderboard_private_stats_hint"		"Se eliminan la mayoría de las estadísticas de las misiones que has realizado. Tu nivel y ascensos, así como las medallas equipadas, siguen siendo visibles, y tus participaciones siguen siendo visibles en las clasificaciones individuales."
 		"[english]rd_option_leaderboard_send"		"Upload Leaderboard Entries"
 		"rd_option_leaderboard_send"		"Subir participaciones a la tabla de clasificación"

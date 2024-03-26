@@ -9648,7 +9648,7 @@
 "rd_option_speed_auto_restart_mission_hint"		"任务失败后自动返回简报界面。"
 "[english]rd_option_leaderboard_private_stats"		"Hide My Stats"
 "rd_option_leaderboard_private_stats"		"隐藏我的统计数据"
-"[english]rd_option_leaderboard_private_stats_hint"		"Hides most lifetime stats from your public commander profile. Experience, promotion and medals are still visible, excluding entries on individual leaderboards."
+"[english]rd_option_leaderboard_private_stats_hint"		"Hides everything except experience, promotion and medals from your public commander profile. Your entries on individual leaderboards are still visible."
 "rd_option_leaderboard_private_stats_hint"		"从你的公开军官履历中移除绝大部分的统计数据。注意，经验等级、晋升次数和佩戴的勋章依旧可见。与此同时，单独的排行榜上依然可见你的记录。"
 "[english]rd_option_leaderboard_send"		"Upload Leaderboard Entries"
 "rd_option_leaderboard_send"		"上传排行榜记录"
