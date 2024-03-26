@@ -9648,7 +9648,7 @@
 "rd_option_speed_auto_restart_mission_hint"		"Kehre automatisch zur Einsatzbesprechung zurück, nachdem ein Einsatz gescheitert ist."
 "[english]rd_option_leaderboard_private_stats"		"Hide My Stats"
 "rd_option_leaderboard_private_stats"		"Meine Statistiken verbergen"
-"[english]rd_option_leaderboard_private_stats_hint"		"Removes most of your lifetime mission stats from your public commander profile. Your experience level and promotion, as well as any equipped medals are still visible, and your entries are still visible on individual leaderboards."
+"[english]rd_option_leaderboard_private_stats_hint"		"Hides most lifetime stats from your public commander profile. Experience, promotion and medals are still visible, excluding entries on individual leaderboards."
 "rd_option_leaderboard_private_stats_hint"		"Entfernt die meisten deiner Einsatzstatistiken aus deinem öffentlichen Kommandantenprofil. Deine Erfahrungsstufe, deine Beförderung, alle ausgerüsteten Medaillen und deine Einträge in den individuellen Bestenlisten sind weiterhin sichtbar."
 "[english]rd_option_leaderboard_send"		"Upload Leaderboard Entries"
 "rd_option_leaderboard_send"		"Einsatzzeiten hochladen"

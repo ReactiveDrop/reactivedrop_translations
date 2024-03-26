@@ -5125,7 +5125,7 @@
 "rd_option_speed_auto_restart_mission"	"Automatic Mission Retry"
 "rd_option_speed_auto_restart_mission_hint"	"Return to briefing automatically after a mission is failed."
 "rd_option_leaderboard_private_stats"	"Hide My Stats"
-"rd_option_leaderboard_private_stats_hint"	"Removes most of your lifetime mission stats from your public commander profile. Your experience level and promotion, as well as any equipped medals are still visible, and your entries are still visible on individual leaderboards."
+"rd_option_leaderboard_private_stats_hint"	"Hides most lifetime stats from your public commander profile. Experience, promotion and medals are still visible, excluding entries on individual leaderboards."
 "rd_option_leaderboard_send"	"Upload Leaderboard Entries"
 "rd_option_leaderboard_send_hint"	"Share your fastest mission time to the Steam leaderboards when completing a mission. Changing this option does not affect scores that were already uploaded."
 "rd_option_leaderboard_loading"	"Show Leaderboards on Loading"
