@@ -9713,7 +9713,7 @@
 "[english]rd_option_network_interpolation"		"Network Interpolation"
 "rd_option_network_interpolation"		"Netzwerk-Interpolation"
 "[english]rd_option_network_interpolation_hint"		"Controls how much the game smooths movement between network updates. Recommended to keep this as low as you can without causing visual artifacts."
-"rd_option_network_interpolation_hint"		"Steuert, wie stark das Spiel die Bewegungen zwischen den Netzwerkaktualisierungen ausgleicht. Es wird empfohlen, diesen Wert so niedrig wie möglich zu halten, bevor er visuelle Artefakte verursacht."
+"rd_option_network_interpolation_hint"		"Steuert, wie stark das Spiel die Bewegungen zwischen den Netzwerkaktualisierungen ausgleicht. Diesen Wert sollte so niedrig wie möglich sein."
 "[english]rd_option_network_rate"		"Maximum Game Bandwidth"
 "rd_option_network_rate"		"Maximal akzeptable Bandbreite"
 "[english]rd_option_network_rate_hint"		"Controls the maximum amount of data the game is allowed to send and receive, in kilobits per second."
@@ -9727,7 +9727,7 @@
 "[english]rd_option_network_allow_relay_enabled"		"Enabled"
 "rd_option_network_allow_relay_enabled"		"Aktiviert"
 "[english]rd_option_network_allow_relay_enabled_hint"		"Connect to lobbies using the Steam Networking API, which can avoid the need to forward ports. Dedicated servers may still use direct UDP connections."
-"rd_option_network_allow_relay_enabled_hint"		"Verbinde dich mit Lobbys, indem du die Steam-Netzwerk API verwendest, wodurch die Weiterleitung von Ports vermieden werden kann. Dedizierte Server können weiterhin direkte UDP-Verbindungen nutzen."
+"rd_option_network_allow_relay_enabled_hint"		"Verbinde dich mit Lobbys, durch die Steam-Netzwerk API, vermeidet Port Weiterleitungen. Dedizierte Server können weiterhin direkte UDP-Verbindungen nutzen."
 
 "[english]rd_option_suffix_percent"		"%"
 "rd_option_suffix_percent"		" %"
