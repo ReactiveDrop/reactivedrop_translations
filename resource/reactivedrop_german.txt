@@ -9649,7 +9649,7 @@
 "[english]rd_option_leaderboard_private_stats"		"Hide My Stats"
 "rd_option_leaderboard_private_stats"		"Meine Statistiken verbergen"
 "[english]rd_option_leaderboard_private_stats_hint"		"Hides most lifetime stats from your public commander profile. Experience, promotion and medals are still visible, excluding entries on individual leaderboards."
-"rd_option_leaderboard_private_stats_hint"		"Entfernt die meisten deiner Einsatzstatistiken aus deinem öffentlichen Kommandantenprofil. Deine Erfahrungsstufe, deine Beförderung, alle ausgerüsteten Medaillen und deine Einträge in den individuellen Bestenlisten sind weiterhin sichtbar."
+"rd_option_leaderboard_private_stats_hint"		"Vesteckt viele Einsatzstatistiken vom öffentlichen Kommandantenprofil. Erfahrungsstufe, Beförderung, Medaillen bleiben sichtbar, außer Einträge auf individuellen Bestenlisten."
 "[english]rd_option_leaderboard_send"		"Upload Leaderboard Entries"
 "rd_option_leaderboard_send"		"Einsatzzeiten hochladen"
 "[english]rd_option_leaderboard_send_hint"		"Share your fastest mission time to the Steam leaderboards when completing a mission. Changing this option does not affect scores that were already uploaded."
