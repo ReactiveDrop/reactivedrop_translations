@@ -4,11 +4,11 @@ GAME
 "MailDate1"	"日期：2232年11月20日"
 "MailSubject1"	"主题：科学研究"
 "MailBody1A"	"我们从下水道进来的，满身是你们这些蛆虫扔进去的尸体的血。温度是50度，辐射强度是现在的三倍。"
-"MailBody1B"	"军士长"
+"MailBody1B"	"上尉"
 
 "MailFrom1"	"发件人：约瑟夫·康拉德"
 "MailDate1"	"日期：2232年11月20日"
 "MailSubject1"	"主题：回复：当你在那里的时候"
 "MailBody1A"	"不。我们是被派来调查的，不是来做愚蠢的实验的。我们是士兵。我不管你说什么，我们要离开那里。"
-"MailBody1B"	"军士长"
+"MailBody1B"	"上尉"
 }
