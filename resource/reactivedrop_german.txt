@@ -9124,7 +9124,7 @@
 "[english]rd_main_menu_tip_inventory_title"		"Manage Inventory"
 "rd_main_menu_tip_inventory_title"		"Inventar verwalten"
 "[english]rd_main_menu_tip_inventory"		"Most items exist only during missions, but certain\nspecial items like medals are stored here."
-"rd_main_menu_tip_inventory"		"Die meisten Sachen gibt es nur während den Einsätzen,\naber besondere Gegenstände wie Medaillen werden hier aufbewahrt."
+"rd_main_menu_tip_inventory"		"Die meiste Ausrüstung gibt es nur während den Einsätzen,\naber ganz besondere Gegenstände werden hier aufbewahrt."
 "[english]rd_main_menu_tip_quit_title"		"Quit"
 "rd_main_menu_tip_quit_title"		"Beenden"
 "[english]rd_main_menu_tip_quit"		"Press this button when you are finished\nplaying Alien Swarm: Reactive Drop."
