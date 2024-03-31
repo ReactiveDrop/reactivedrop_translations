@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<content><string id="body">Es ist Alien Swarm: Reactive Drops Geburtstag und das bedeutet eine Woche doppelte Erfahrungspunkte für Einsätze, unseren zweiten jährlichen Mapping-Wettbewerb und die Möglichkeit, Kuchen zu essen.
+
+[h2]2023 im Rückblick[/h2]
+
+Seit Alien Swarm: Reactive Drops Geburtstag im letzten Jahr hat das Spiel [url=https://store.steampowered.com/news/app/563560/view/3690188204960315808]verbesserte Shader[/url], [url=https://store.steampowered.com/news/app/563560/view/3881601883156993844]eine bessere Lesbarkeit der Waffen[/url], [url=https://store.steampowered.com/news/app/563560/view/3994197038602916434]Ergänzungen zu Helden der interstellaren Streitkräfte einschließlich Einsatz-Prämien[/url], [url=https://store.steampowered.com/news/app/563560/view/3994197038602903068]eine besseren Lag-Kompensation[/url] und [url=https://store.steampowered.com/news/app/563560/view/4160833394886167804]ein In-Game Meldesystem[/url] erhalten. Wenn du schon länger nicht mehr gespielt hast, wirst du vielleicht auch einige Änderungen am Hauptmenü bemerken.
+
+Im April 2023 haben wir begonnen, die Todesursachen von Soldaten zu verfolgen. Zwischen April und Dezember starben 12.734.965 Soldaten in Einsätzen. Die häufigste Todesursache? Die guten alten Drohnenklauen, mit 5.147.736 bestätigten Tötungen.
+
+Andere interessante Todesfälle im Jahr 2023, zufällig ausgewählt:
+
+[list]
+[*]194.240 Soldaten starben durch selbst zugefügten Schaden in Deathmatch-Spielmodi.
+[*]30.097 Soldaten wurden von Boomern zu Tode getreten.
+[*]6.136 Soldaten wurden in den Labor-Ruinen von einem Gabelstapler überfahren.
+[*]18.857 Soldaten wurden zusammen mit einem zerstörten Wächter in die Luft gesprengt.
+[*]929.538 Soldaten wurden durch die Parasiten-Befall getötet. 113.511 Soldaten wurden während dem Befall erschossen.
+[*]346.432 Soldaten wurden durch Granaten in die Luft gesprengt, die von einem Granatwerfer abgefeuert wurden, und weitere 962.861 Soldaten wurden durch Granaten in die Luft gesprengt, die von [i]ihrem eigenen[/i] Granatwerfer abgefeuert wurden.
+[/list]
+
+Soldaten sind nicht die einzigen, die in Alien Swarm: Reactive Drop Einsätzen sterben! Im Jahr 2023 wurden durch spielergesteuerte Soldaten getötet:
+
+[list]
+[*]1.156.620.313 (das ist richtig, über eine Milliarde) Drohnen.
+[*]59.404.675 Parasiten.
+[*]51.839.565 Xenomiten.
+[*]31.888.835 Schützen.
+[*]30.038.781 Eier.
+[*]28.923.205 Schnarren.
+[*]20.908.814 Larven.
+[*]6.392.125 Biomasse.
+[*]6.199.796 Boomer.
+[*]5.692.301 Raffer.
+[*]4.105.397 Heiler.
+[*]4.012.723 Schildkäfer.
+[*]3.534.646 Mörserkäfer.
+[*]29.210 Königinnen.
+[*]2.208.733 Wächterwanzen.
+[*]254.967 Zombies.
+[*]176.539 Headcrabs.
+[*]190.592 Combine Soldaten.
+[*]18.187 Hunters.
+[/list]
+
+Im Jahr 2023 wurden 7.489.163 Einsätze abgeschlossen... und 14.054.778 Einsätze sind gescheitert. Nachdem das Update vom November 2023 die Unterstützung für doppelte Soldaten in benutzerdefinierten Spielmodi hinzugefügt hat, wurden im November und Dezember 3.890 Einsätze mit 9 oder mehr spielergesteuerten Soldaten abgeschlossen (39.932 Einsätze, wenn wir jeden Spieler separat zählen, wie wir es für andere Statistiken tun).
+
+[h2]Mapping-Wettbewerb 2024: "Space Station"[/h2]
+
+Das diesjährige Thema ist "Space Station". [url=https://store.steampowered.com/news/app/563560/view/4148449131825473630]Weitere Details findest du in der Ankündigung des Wettbewerbs.[/url]
+
+[h2]Änderungen in diesem Update[/h2]
+
+[h3]Waffen[/h3]
+[list]
+[*]Waffen (außer dem M868 Flammenwerfer und dem Granatwerfer) feuern in der Ego-Perspektive jetzt aus der Mitte der Kamera, ähnlich wie in anderen Ego-Perspektive-Spielen.
+[*][b]M868 Flammenwerfer:[/b] Die Feueranimation wird auf dem Client nicht mehr weiter abgespielt, wenn die Munition ausgeht, wenn die Feuertaste gehalten wird und automatisches Nachladen deaktiviert ist.
+[*][b]Granatwerfer:[/b] Das Freundbeschuss-Fadenkreuz wird jetzt anhand des voraussichtlichen Einschlagsortes der Granate aktiviert, anstatt so zu tun, als ob der Granatwerfer Kugeln verschießt.
+[*][b]Granatwerfer:[/b] Es wurde behoben, dass der Granatwerfer in der Ego-Perspektive auf die Innenseite des Kopfes des Soldaten zielt.
+[/list]
+
+[h3]Offizielle Einsätze[/h3]
+[list]
+[*][b]Bereich 9800: Der Generator des Kraftwerks:[/b] Eine zusammengebrochene Metallstütze, die manchmal den Weg blockiert, wurde gefixt.
+[*][b]Tränen für Tarnor: Oasis-Kolonie Raumhafen:[/b] Das Physikmodell des Zugsitzes, der Dinge in einen anderen Raum schiebt, wurde verbessert.
+[*][b]Paranoia: Hochspannung:[/b] Es wurde eine Stelle behoben, an der es möglich war, durch den Boden zu fallen.
+[*][b]Nam Humanum: Grundstein Laboratorien:[/b] Es wurde behoben, dass ein explosives Fass von der Platte, die es zerstören soll, weggeschoben werden konnte.
+[*][b]Nam Humanum: Grundstein Laboratorien:[/b] Ein Stottern beim Start des Einsatzes wurde behoben.
+[*][b]BioGen Gesellschaft: Operation X5:[/b] Removed some physics props that aliens could get stuck on during the finale.
+[*][b]BioGen Gesellschaft: Unsichtbare Bedrohung:[/b] Unerwartetes Zielverhalten in der Nähe des Ventilators - aufgrund von Geometrie außerhalb der Spielgrenzen - wurde behoben.
+[*][b]Unfall 32: Forschungszentrum:[/b] Die Anzahl der Parasiten und Drohnen in diesem Einsatz wurde reduziert.
+[*][b]Unfall 32: Isolierte Einrichtung:[/b] Der Sprung in die Kanalisation wurde intuitiver gestaltet.
+[*][b]Unfall 32: Isolierte Einrichtung:[/b] Verbesserte Sicht im Bereich unter dem Glas in der Nähe des Starts.
+[*][b]Unfall 32: Isolierte Einrichtung:[/b] Die Stärke einer Tür auf einem alternativen Pfad wurde reduziert, um ihn praktikabler zu machen.
+[*][b]Unfall 32: Labor-Ruinen:[/b] Die Anzeigeleuchten auf den Tafeln in der finalen Szene wurden von grün auf blau geändert, damit sie bei der Beleuchtung besser zu sehen sind.
+[*][b]Raumhafenkatastrophe:[/b] Einige unsichtbare Geometrien über einer Tür am Ende der Karte wurden entfernt.
+[/list]
+
+[h3]Infektion Deathmatch Herausforderung[/h3]
+[list]
+[*]Die Menschen sind jetzt langsamer als die Zombies.
+[*]Der Gesundheitsbonus für den Letzter Widerstand wurde erhöht.
+[*]Es wurde ein Fehler behoben, der dazu führte, dass zu Beginn der Runde nur ein Primär-Zombie spawnen konnte, obwohl die Voraussetzungen für das Spawnen von zwei erfüllt waren.
+[/list]
+
+[h3]Technisches[/h3]
+[list]
+[*]Addons, die abonniert, aber entweder über das Addon-Menü im Spiel oder das Steam-Eigenschaftenfenster deaktiviert wurden, wurden nicht geladen, wenn sie für eine Herausforderung benötigt wurden.
+[*]Dedizierte Server erzeugten bis jetzt mehr IO-Threads als vorgesehen. Dedizierte Server spawnen jetzt 3 IO-Threads statt einem pro Kern ohne Limit (oder 0 wie zuvor, wenn -noasync auf der Befehlszeile übergeben wird). Der Client behält das Verhalten von 2018 bei, indem er einen IO-Thread pro Prozessorkern bis zu einem Maximum von 3 spawnen lässt.
+[*]Es wurde ein Problem behoben, das dazu führte, dass die Berichte die ID des gemeldeten Spielers nicht im vorgesehenen Format enthielten. Auf dem Server wurde ein Workaround eingerichtet, sodass keine Berichte, die nach dem 2. März erstellt wurden, betroffen sind.
+[*]Die Art und Weise, wie Inventargegenstände an den Spielserver gesendet werden, wurde überarbeitet. Im Moment bedeutet das nur, dass die Medaillen schneller angezeigt werden, wenn du eine Lobby betrittst.
+[*]func_breakdmg_bullet, func_breakdmg_club, und func_breakdmg_explosive wurden als als Cheat markiert.
+[*]Die Swarmopedia-Entsperrungsnachricht, die Kauderwelsch anstelle des Namens des Aliens anzeigt, wurde korrigiert.
+[*]Es wurde eine Nachricht im Chat hinzugefügt, wenn ein Spieler eine Medaille für den Abschluss einer Leistung oder einer anderen Aufgabe in dem Einsatz erhält.
+[/list]
+</string><string id="subtitle"></string><string id="summary"></string><string id="title">Alien Swarm: Reactive Drop's 7. Geburtstag</string></content>
