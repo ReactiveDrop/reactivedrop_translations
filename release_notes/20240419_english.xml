@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<content><string id="body">It's Alien Swarm: Reactive Drop's 7th birthday, and that means a week of double experience points from missions, our second annual mapping competition, and the possibility of cake.
+
+[h2]2023 in Review[/h2]
+
+Since Alien Swarm: Reactive Drop's 6th birthday last year, the game has gained [url=https://store.steampowered.com/news/app/563560/view/3690188204960315808]improved shaders[/url], [url=https://store.steampowered.com/news/app/563560/view/3881601883156993844]better weapon readability[/url], [url=https://store.steampowered.com/news/app/563560/view/3994197038602916434]additions to Heroes of the Interstellar Armed Forces including mission bounties[/url], [url=https://store.steampowered.com/news/app/563560/view/3994197038602903068]better lag compensation[/url], and [url=https://store.steampowered.com/news/app/563560/view/4160833394886167804]an in-game reporting system[/url]. You might also notice some changes to the main menu if you haven't played for a while.
+
+In April 2023, we started tracking the causes of marine deaths, and between April and December, 12,734,965 marines died in missions. The most common cause of death? Good old drone claws, with 5,147,736 confirmed kills.
+
+Other interesting deaths in 2023, selected at random:
+
+[list]
+[*]194,240 marines died to self-inflicted damage in deathmatch game modes.
+[*]30,097 marines were kicked to death by boomers.
+[*]6,136 marines were run over by a rogue forklift in Lab Ruins.
+[*]18,857 marines were blown up along with a destroyed sentry.
+[*]929,538 marines were lost to infestation. 113,511 marines were shot to death while infested.
+[*]346,432 marines were blown up by grenades fired from a grenade launcher, and an additional 962,861 marines were blown up by grenades fired by [i]their own[/i] grenade launcher.
+[/list]
+
+Marines aren't the only ones who die in Alien Swarm: Reactive Drop missions! In 2023, player-controlled marines killed:
+
+[list]
+[*]1,156,620,313 (that's right, over a billion) drones.
+[*]59,404,675 parasites.
+[*]51,839,565 xenomites.
+[*]31,888,835 rangers.
+[*]30,038,781 eggs.
+[*]28,923,205 buzzers.
+[*]20,908,814 grubs.
+[*]6,392,125 biomass.
+[*]6,199,796 boomers.
+[*]5,692,301 harvesters.
+[*]4,105,397 menders.
+[*]4,012,723 shieldbugs.
+[*]3,534,646 mortarbugs.
+[*]29,210 queens.
+[*]2,208,733 antlions.
+[*]254,967 zombies.
+[*]176,539 headcrabs.
+[*]190,592 Combine soldiers.
+[*]18,187 hunters.
+[/list]
+
+In 2023, you completed 7,489,163 missions... and failed 14,054,778 missions. After the November 2023 update added support for duplicate marines in custom game modes, you completed 3,890 missions with 9 or more player-controlled marines (39,932 missions if we count each player separately like we do for other stats) in November and December.
+
+[h2]Mapping Competition 2024: "Space Station"[/h2]
+
+This year's theme is "Space Station". [url=https://store.steampowered.com/news/app/563560/view/4148449131825473630]See the announcement of the contest for more details.[/url]
+
+[h2]Changes in this update[/h2]
+
+[h3]Weapons[/h3]
+[list]
+[*]Weapons (other than the M868 Flamer Unit and the Grenade Launcher) in first person now fire from the center of the camera, similar to how other first person games work.
+[*][b]M868 Flamer Unit:[/b] Fixed the firing animation continuing to play on the client after running out of ammo if the fire button is held and auto-reload is disabled.
+[*][b]Grenade Launcher:[/b] The friendly fire crosshair is now activated based on the grenade's predicted location of impact instead of pretending the grenade launcher shoots bullets.
+[*][b]Grenade Launcher:[/b] Fixed the grenade launcher attempting to aim for the inside of the marine's head in first person.
+[/list]
+
+[h3]Official Missions[/h3]
+[list]
+[*][b]Area 9800: Power Plant's Generator:[/b] Fixed a collapsed metal support sometimes blocking the path.
+[*][b]Tears for Tarnor: Oasis Colony Spaceport:[/b] Fixed the train seating's physics model pushing things in another room.
+[*][b]Paranoia: High Tension:[/b] Fixed a location where it was possible to fall through the ground.
+[*][b]Nam Humanum: Groundwork Labs:[/b] Fixed an explosive barrel being able to be pushed away from the panel it is intended to destroy.
+[*][b]Nam Humanum: Groundwork Labs:[/b] Fixed a stutter near the start of the mission.
+[*][b]BioGen Corporation: Operation X5:[/b] Removed some physics props that aliens could get stuck on during the finale.
+[*][b]BioGen Corporation: Invisible Threat:[/b] Fixed unexpected aiming behavior near the fan caused by out of bounds geometry.
+[*][b]Accident 32: Research Center:[/b] Reduced the amount of parasites and drones in this mission.
+[*][b]Accident 32: Confined Facility:[/b] Made the drop into the sewers more intuitive.
+[*][b]Accident 32: Confined Facility:[/b] Improved visibility in the area under the glass near the start.
+[*][b]Accident 32: Confined Facility:[/b] Reduced the health of a door on an alternate path to make it more viable.
+[*][b]Accident 32: Lab Ruins:[/b] Changed the indicator lights on the panels in the final encounter from green to blue to make them easier to see with the lighting.
+[*][b]Space Port Catastrophe:[/b] Removed some invisible geometry above a doorway near the end of the map.
+[/list]
+
+[h3]Infection Deathmatch Challenge[/h3]
+[list]
+[*]Humans are now slower than Zombies.
+[*]Increased Last Stand health bonus.
+[*]Fixed a bug that caused only one Prime Zombie to spawn at the start of the round when the requirements were met to spawn two.
+[/list]
+
+[h3]Technical[/h3]
+[list]
+[*]Fixed addons that are subscribed but disabled through either the in-game addon menu or the Steam properties window not being loaded when required by a challenge.
+[*]Fixed dedicated servers spawning more IO threads than intended. Dedicated servers now spawn 3 IO threads rather than one per core with no limit (or 0 as before if -noasync is passed on the command line). The client keeps the behavior it has had since 2018, spawning an IO thread per processor core up to a maximum of 3.
+[*]Fixed an issue causing reports to not contain the reported player's ID in the intended format. A workaround is in place on the server, so no reports made after March 2nd are affected.
+[*]Reworked the way that inventory items are sent to the game server. For now, this just means that medals should show up faster when you load into a lobby.
+[*]Marked func_breakdmg_bullet, func_breakdmg_club, and func_breakdmg_explosive as cheats.
+[*]Fixed the Swarmopedia unlock message showing gibberish instead of the name of the alien.
+[*]Added a message in chat when a player receives a medal for completing an achievement or other in-mission task.
+[/list]
+</string><string id="subtitle"></string><string id="summary"></string><string id="title">Alien Swarm: Reactive Drop's 7th Birthday</string></content>
