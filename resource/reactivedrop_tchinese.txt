@@ -3306,6 +3306,8 @@
 "nb_promotion_title"		"IAF 晉升"
 "[english]nb_promotion_description"		"The Interstellar Armed Forces has offered you a promotion for your courageous and unwavering resolve in the fight against the Swarm."
 "nb_promotion_description"		"由于你在擊殺異形的行動中表現出了無畏的勇氣和堅定不移的信念，因此星際武裝部隊授予你一次晉升機會。"
+		"[english]nb_promotion_appear"		"This medal will appear next to your name during Mission Prep."
+		"nb_promotion_appear"		"This medal will appear next to your name during Mission Prep."
 "[english]nb_promotion_warning"		"WARNING: THIS WILL RESET YOU TO LEVEL 1 AND RE-LOCK ALL EARNED EQUIPMENT"
 "nb_promotion_warning"		"警告：這將會把你的等級重置回1級並鎖定所有已獲得的裝備"
 "[english]nb_promote"		"PROMOTE"

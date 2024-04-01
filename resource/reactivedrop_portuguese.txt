@@ -3306,6 +3306,8 @@
 "nb_promotion_title"		"Promoção IAF"
 "[english]nb_promotion_description"		"The Interstellar Armed Forces has offered you a promotion for your courageous and unwavering resolve in the fight against the Swarm."
 "nb_promotion_description"		"As Forças Armadas Interestelares ofereçeram-lhe uma promoção pela sua conduta corajosa e resoluta na luta contra os Swarm."
+		"[english]nb_promotion_appear"		"This medal will appear next to your name during Mission Prep."
+		"nb_promotion_appear"		"This medal will appear next to your name during Mission Prep."
 "[english]nb_promotion_warning"		"WARNING: THIS WILL RESET YOU TO LEVEL 1 AND RE-LOCK ALL EARNED EQUIPMENT"
 "nb_promotion_warning"		"AVISO: ISTO VAI REINICIAR O TEU NÍVEL PARA O NÍVEL 1 E TODO O EQUIPAMENTO QUE DESBLOQUEASTE VOLTARÁ A SER BLOQUEADO"
 "[english]nb_promote"		"PROMOTE"

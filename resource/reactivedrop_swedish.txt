@@ -3306,6 +3306,8 @@
 "nb_promotion_title"		"PVs-befordran"
 "[english]nb_promotion_description"		"The Interstellar Armed Forces has offered you a promotion for your courageous and unwavering resolve in the fight against the Swarm."
 "nb_promotion_description"		"De Planetära Vapenstyrkorna har erbjudit dig en befordran för ditt modiga och orubbliga agerande i striden mot Svärmen."
+		"[english]nb_promotion_appear"		"This medal will appear next to your name during Mission Prep."
+		"nb_promotion_appear"		"This medal will appear next to your name during Mission Prep."
 "[english]nb_promotion_warning"		"WARNING: THIS WILL RESET YOU TO LEVEL 1 AND RE-LOCK ALL EARNED EQUIPMENT"
 "nb_promotion_warning"		"VARNING: DET HÄR KOMMER ÅTERSTÄLLA DIG TILL NIVÅ 1 OCH LÅSA ALL INTJÄNAD UTRUSTNING"
 "[english]nb_promote"		"PROMOTE"
