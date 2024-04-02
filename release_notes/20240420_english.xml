@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<content><string id="body">It's Alien Swarm: Reactive Drop's 7th birthday, which means it's time for our second annual mapping competition!
+
+The theme this year is [b]Space Station[/b]. Create a standalone mission (of any type) that takes place on a space station or other large spaceship. Here are some ideas to get you started:
+
+[list]
+[*]A deathmatch mission with hazards that can be activated via panels scattered around the ship.
+[*]An endless mission where civilians must be rescued from a derelict space station while keeping life support active.
+[*]A mission where marines must fight their way through enemy soldiers to stop the ship's reactor from melting down.
+[*]A mission where marines clear out a space station that is still being affected by the portal storms that preceded the seven hour war, full of warring Xen creatures.
+[*]A mission where marines need to download critical data from computers on a space station that is actively falling apart.
+[*]A mission where marines investigate the ruins of a space station that has reentered the atmosphere of a planet and crashed.
+[/list]
+
+Missions can be submitted via the Steam Workshop using the [url=https://stats.reactivedrop.com/leaderboards/by-tag/spacestation2024]SpaceStation2024[/url] tag between now and June 1st, 2024 at 00:00 UTC.
+
+Entering will earn you a medal unique to this contest once submissions close, and the winning entry will receive an additional medal unique to that entry. High quality entries may also be featured in Heroes of the Interstellar Armed Forces.
+</string><string id="subtitle"></string><string id="summary"></string><string id="title">Mapping Competition 2024: "Space Station"</string></content>
