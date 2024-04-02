@@ -11,7 +11,7 @@
 | [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | 1 | ✔️ | ✔️ | 2 | 1 |
 | [Hungarian](#non-curated-languages) | 55 | 138 | 42 | 3160 | 259 | 209 | 977 | 148 |
 | [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | 1 | ✔️ | ✔️ | 2 | 1 |
-| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | 1 | ✔️ | ✔️ | 37 | 1 |
+| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 37 | 1 |
 | [Korean](#koreana-한국어) | 11 | 10 | 38 | 1656 | 259 | 31 | 448 | 49 |
 | [Norwegian Bokmål](#non-curated-languages) | 73 | 708 | 47 | 3866 | 259 | 209 | 712 | 148 |
 | [Polish](#polish-polski) | 32 | 2004 | 42 | 3160 | 259 | 209 | 708 | 144 |
@@ -626,7 +626,6 @@
 
 - [workshop_description_japanese.vdf](community/workshop/workshop_description_japanese.vdf) has 2 untranslated strings.
 - [platform/vgui_japanese.txt](platform/vgui_japanese.txt) has 35 untranslated strings.
-- [reactivedrop_japanese.txt](resource/reactivedrop_japanese.txt) has 1 untranslated strings.
 
 ### Upcoming Release Notes
 
