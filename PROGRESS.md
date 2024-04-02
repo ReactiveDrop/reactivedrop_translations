@@ -8,7 +8,7 @@
 | [Dutch](#non-curated-languages) | 55 | 2004 | 42 | 3160 | 259 | 209 | 712 | 147 |
 | [Finnish](#non-curated-languages) | ✔️ | 2004 | 41 | 3022 | 260 | 209 | 703 | 147 |
 | [French](#french-français) | 31 | 138 | 42 | 2525 | 258 | 209 | 652 | 126 |
-| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | 1 | ✔️ | ✔️ | 2 | 1 |
+| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 2 | 1 |
 | [Hungarian](#non-curated-languages) | 55 | 138 | 42 | 3160 | 259 | 209 | 977 | 148 |
 | [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | 1 | ✔️ | ✔️ | 2 | 1 |
 | [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 37 | 1 |
@@ -21,7 +21,7 @@
 | [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | 1 | ✔️ | ✔️ | 2 | 2 |
 | [European Spanish](#spanish-español-de-españa) | 32 | 2004 | 40 | 2575 | 259 | 209 | 716 | 147 |
 | [Latin American Spanish](#latam-español-latinoamericano) | ✔️ | 2004 | ✔️ | 4217 | ✔️ | ✔️ | 205 | 143 |
-| [Swedish](#swedish-svenska) | ✔️ | ✔️ | ✔️ | 1331 | ✔️ | ✔️ | 2 | 108 |
+| [Swedish](#swedish-svenska) | ✔️ | ✔️ | ✔️ | 1331 | ✔️ | ✔️ | ✔️ | 108 |
 | [Thai](#non-curated-languages) | 970 | 1993 | 50 | 4407 | 259 | 209 | 741 | 148 |
 | [Turkish](#non-curated-languages) | 55 | 137 | 42 | 3160 | 259 | 209 | 977 | 148 |
 | [Ukrainian](#ukrainian-українська) | 31 | 131 | 32 | 2703 | 259 | 209 | 935 | 147 |
@@ -591,7 +591,6 @@
 ### Strings
 
 - [workshop_description_german.vdf](community/workshop/workshop_description_german.vdf) has 2 untranslated strings.
-- [reactivedrop_german.txt](resource/reactivedrop_german.txt) has 1 untranslated strings.
 
 ### Upcoming Release Notes
 
@@ -1504,7 +1503,6 @@
 
 ### Strings
 
-- [workshop_description_swedish.vdf](community/workshop/workshop_description_swedish.vdf) has 2 untranslated strings.
 - [reactivedrop_swedish.txt](resource/reactivedrop_swedish.txt) has 1331 untranslated strings.
 
 ### Upcoming Release Notes
