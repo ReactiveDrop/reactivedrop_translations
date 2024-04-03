@@ -1,7 +1,7 @@
 # Overview
 | Language | basemodui | closecaption | gameui | reactivedrop | items | statsweb | Strings | Files |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 2 | 1 |
+| [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Traditional Chinese](#tchinese-繁體中文) | 13 | 141 | 33 | 3024 | 253 | 209 | 238 | 147 |
 | [Czech](#czech-čeština) | 75 | 1810 | 42 | 4164 | 259 | 209 | 982 | 147 |
 | [Danish](#non-curated-languages) | 56 | 231 | 42 | 3692 | 259 | 209 | 712 | 148 |
@@ -40,13 +40,7 @@
 
 </summary>
 
-### Strings
-
-- [workshop_description_schinese.vdf](community/workshop/workshop_description_schinese.vdf) has 2 untranslated strings.
-
-### Upcoming Release Notes
-
-- [20240420_schinese.xml](release_notes/20240420_english.xml) is missing.
+✓ Up to date!
 
 </details>
 
