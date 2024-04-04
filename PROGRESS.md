@@ -18,7 +18,7 @@
 | [European Portuguese](#portuguese-português-europeu) | 4 | 180 | 32 | 2249 | 239 | 30 | 632 | 142 |
 | [Brazilian Portuguese](#brazilian-português) | 6 | 2004 | 32 | 1419 | 189 | 18 | 278 | 9 |
 | [Romanian](#non-curated-languages) | 55 | 1996 | 48 | 3872 | 259 | 209 | 977 | 148 |
-| [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | 1 | ✔️ | ✔️ | 2 | 2 |
+| [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 2 |
 | [European Spanish](#spanish-español-de-españa) | 32 | 2004 | 40 | 2575 | 259 | 209 | 716 | 147 |
 | [Latin American Spanish](#latam-español-latinoamericano) | ✔️ | 2004 | ✔️ | 4217 | ✔️ | ✔️ | 205 | 143 |
 | [Swedish](#swedish-svenska) | ✔️ | ✔️ | ✔️ | 1331 | ✔️ | ✔️ | ✔️ | 108 |
@@ -1104,11 +1104,6 @@
 ## russian (русский)
 
 </summary>
-
-### Strings
-
-- [workshop_description_russian.vdf](community/workshop/workshop_description_russian.vdf) has 2 untranslated strings.
-- [reactivedrop_russian.txt](resource/reactivedrop_russian.txt) has 1 untranslated strings.
 
 ### Upcoming Release Notes
 
