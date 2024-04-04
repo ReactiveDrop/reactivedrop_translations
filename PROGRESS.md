@@ -8,10 +8,10 @@
 | [Dutch](#non-curated-languages) | 55 | 2004 | 42 | 3160 | 259 | 209 | 712 | 147 |
 | [Finnish](#non-curated-languages) | ✔️ | 2004 | 41 | 3022 | 260 | 209 | 703 | 147 |
 | [French](#french-français) | 31 | 138 | 42 | 2525 | 258 | 209 | 652 | 126 |
-| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 2 | 1 |
+| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Hungarian](#non-curated-languages) | 55 | 138 | 42 | 3160 | 259 | 209 | 977 | 148 |
 | [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | 1 | ✔️ | ✔️ | 2 | 1 |
-| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 37 | 1 |
+| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 35 | ✔️ |
 | [Korean](#koreana-한국어) | 11 | 10 | 38 | 1656 | 259 | 31 | 448 | 49 |
 | [Norwegian Bokmål](#non-curated-languages) | 73 | 708 | 47 | 3866 | 259 | 209 | 712 | 148 |
 | [Polish](#polish-polski) | 32 | 2004 | 42 | 3160 | 259 | 209 | 708 | 144 |
@@ -582,13 +582,7 @@
 
 </summary>
 
-### Strings
-
-- [workshop_description_german.vdf](community/workshop/workshop_description_german.vdf) has 2 untranslated strings.
-
-### Upcoming Release Notes
-
-- [20240420_german.xml](release_notes/20240420_english.xml) is missing.
+✓ Up to date!
 
 </details>
 
@@ -617,12 +611,7 @@
 
 ### Strings
 
-- [workshop_description_japanese.vdf](community/workshop/workshop_description_japanese.vdf) has 2 untranslated strings.
 - [platform/vgui_japanese.txt](platform/vgui_japanese.txt) has 35 untranslated strings.
-
-### Upcoming Release Notes
-
-- [20240420_japanese.xml](release_notes/20240420_english.xml) is missing.
 
 </details>
 
