@@ -10,7 +10,7 @@
 | [French](#french-français) | 31 | 138 | 42 | 2525 | 258 | 209 | 652 | 126 |
 | [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Hungarian](#non-curated-languages) | 55 | 138 | 42 | 3160 | 259 | 209 | 977 | 148 |
-| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | 1 | ✔️ | ✔️ | 2 | 1 |
+| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 35 | ✔️ |
 | [Korean](#koreana-한국어) | 11 | 10 | 38 | 1656 | 259 | 31 | 448 | 49 |
 | [Norwegian Bokmål](#non-curated-languages) | 73 | 708 | 47 | 3866 | 259 | 209 | 712 | 148 |
@@ -592,14 +592,7 @@
 
 </summary>
 
-### Strings
-
-- [workshop_description_italian.vdf](community/workshop/workshop_description_italian.vdf) has 2 untranslated strings.
-- [reactivedrop_italian.txt](resource/reactivedrop_italian.txt) has 1 untranslated strings.
-
-### Upcoming Release Notes
-
-- [20240420_italian.xml](release_notes/20240420_english.xml) is missing.
+✓ Up to date!
 
 </details>
 
