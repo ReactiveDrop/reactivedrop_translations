@@ -449,7 +449,7 @@
 "[english]L4D360UI_MsgBx_AchievementsDisabled"		"Achievements Unavailable"
 "L4D360UI_MsgBx_AchievementsDisabled"		"Достижения недоступны"
 "[english]L4D360UI_MsgBx_GuestsUnavailableToGuests"		"Guests are not allowed to unlock or view achievement scores."
-"L4D360UI_MsgBx_GuestsUnavailableToGuests"		"Гости не могут разблокировать или просмотреть счёт достижений."
+"L4D360UI_MsgBx_GuestsUnavailableToGuests"		"Гости не могут получить или просмотреть счёт достижений."
 
 //Game Settings
 "[english]L4D360UI_GameSettings_LiveOpen"		"Game Settings: PUBLIC GAME"
@@ -1997,7 +1997,7 @@
 "[english]L4D360UI_Campaign_Tooltip_Any"		"Select any campaign."
 "L4D360UI_Campaign_Tooltip_Any"		"Выбрать любую кампанию."
 "[english]L4D360UI_Campaign_Tooltip_Any_Disabled"		"You have not yet unlocked the ability to select any campaign."
-"L4D360UI_Campaign_Tooltip_Any_Disabled"		"Вы ещё не разблокировали возможность выбирать любую кампанию."
+"L4D360UI_Campaign_Tooltip_Any_Disabled"		"Вы ещё не получили возможность выбирать любую кампанию."
 "[english]L4D360UI_Campaign_Tooltip_Currently_Playing"		"This is the campaign you are currently playing."
 "L4D360UI_Campaign_Tooltip_Currently_Playing"		"Вы уже играете в эту кампанию."
 
@@ -2235,11 +2235,11 @@
 "[english]L4D360UI_My_Achievements_User"		"Achievements - %s1"
 "L4D360UI_My_Achievements_User"		"Достижения (%s1)"
 "[english]L4D360UI_Achievement_Progress"		"%s1 of %s2 Unlocked"
-"L4D360UI_Achievement_Progress"		"%s1 из %s2 разблокировано"
+"L4D360UI_Achievement_Progress"		"%s1 из %s2 получено"
 "[english]L4D360UI_Gamerscore_Progress"		"%s1 G"
-"L4D360UI_Gamerscore_Progress"		"%s1 Г"
+"L4D360UI_Gamerscore_Progress"		"%s1 G"
 "[english]L4D_Gamerscore_Points"		"%s1 G"
-"L4D_Gamerscore_Points"		"%s1 Г"
+"L4D_Gamerscore_Points"		"%s1 G"
 "[english]L4D360UI_Unattained"		"Unattained"
 "L4D360UI_Unattained"		"Не достигнуто"
 "[english]L4D360UI_Scroll_Progress"		"%s1 - %s2 of %s3"
