@@ -542,7 +542,7 @@
 //  = 0x05 (ENQ) - Use achievement color from this point forward
 //  = 0x01 (SOH) - Use normal color from this point forward
 "[english]Achievement_Earned"		"%s1 has earned the achievement %s2"
-"Achievement_Earned"		"%s1 зарабатывает достижение %s2"
+"Achievement_Earned"		"%s1 получает достижение %s2"
 
 "[english]game_nextmap"		"Next map: %s1"
 "game_nextmap"		"Следующая карта: %s1"
