@@ -496,7 +496,7 @@
 			"name_%LANG%": "{#item_event_medal_replayabilityfest2024_name}",
 			"description_%LANG%": "{#item_event_medal_replayabilityfest2024_description}\n\n[color=#{#item_desc_color_flavor}]{#item_event_medal_replayabilityfest2024_flavor}[/color]",
 			"display_type_%LANG%": "{#item_display_type_event_medal_uncommon}",
-			"icon_url": "https://stats.reactivedrop.com/static/medals/error.png",
+			"icon_url": "https://stats.reactivedrop.com/static/medals/steam_endless_replayability_fest_2024.png",
 			"name_color": "{#item_color_uncommon}",
 			"tags": "rarity:uncommon;slot:medal",
 			"item_slot": "medal"
