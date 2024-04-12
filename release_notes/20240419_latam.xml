@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content><string id="body">Es el séptimo aniversario de Alien Swarm: Reactive Drop y eso significa una semana de puntos de experiencia dobles en las misiones, nuestro segundo concurso anual de mapas y la posibilidad de que haya pastel.
+
+[h2]Resumen de 2023[/h2]
+
+Desde que Alien Swarm: Reactive Drop cumplió 6 años el año pasado, el juego ha conseguido: [url=https://store.steampowered.com/news/app/563560/view/3690188204960315808]mejoras en los sombreadores[/url], [url=https://store.steampowered.com/news/app/563560/view/3881601883156993844]mejor legibilidad de las armas[/url], [url=https://store.steampowered.com/news/app/563560/view/3994197038602916434]nuevos contenidos para Héroes de las Fuerzas Armadas Interestelares, incluidas las recompensas de las misiones[/url], [url=https://store.steampowered.com/news/app/563560/view/3994197038602903068]mejor compensación de retraso (lag)[/url] y [url=https://store.steampowered.com/news/app/563560/view/4160833394886167804]un sistema de informes dentro de las partidas[/url]. Si no has jugado durante un tiempo, puede que también notes algunos cambios en el menú principal.
+
+En abril de 2023, empezamos a rastrear las causas de las muertes de los marinos, y entre abril y diciembre, 12 734 965 marinos murieron en misiones. ¿La causa de muerte más común? Las viejas garras de los drones, con 5 147 736 muertes confirmadas.
+
+Otras muertes interesantes en 2023, seleccionadas al azar: 
+
+[list]
+[*]194 240 marinos murieron por daños autoinfligidos en los modos de juego Duelo a muerte.
+[*]30 097 marinos murieron por las patadas de los boomers.
+[*]6136 marinos fueron atropellados por un montacargas sin escrúpulos en Ruinas de Laboratorio.
+[*]18 857 marinos fueron reventados junto con un centinela destruido.
+[*]929 538 marinos fueron víctimas de la infestación. en las cuales 113 511 marinos fueron fusilados mientras estaban infestados.
+[*]346 432 marinos fueron reventados por un lanzagranadas y otros 962 861 marinos fueron reventados por [i]su propio[/i] lanzagranadas.
+[/list]
+
+¡Los marinos no son los únicos que mueren en Alien Swarm: Reactive Drop! En 2023, marinos controlados por el jugador asesinaron: 
+
+[list]
+[*]1 156 620 313 (así es, más de mil millones) de drones.
+[*]59 404 675 parásitos.
+[*]51 839 565 xenomitas.
+[*]31 888 835 rangers.
+[*]30 038 781 huevos.
+[*]28 923 205 zumbadores.
+[*]20 908 814 larvas.
+[*]6 392 125 biomasas.
+[*]6 199 796 boomers.
+[*]5 692 301 cosechadoras.
+[*]4 105 397 mañosos.
+[*]4 012 723 bichos acorazados.
+[*]3 534 646 michos mortero.
+[*]29 210 reinas.
+[*]2 208 733 hormigas león.
+[*]254 967 zombis.
+[*]176 539 cangrejos.
+[*]190 592 Soldados Combine.
+[*]18 187 cazadores.
+[/list]
+
+En 2023, han completado 7 489 163 misiones... y han fracasado 14 054 778 misiones. Después de que la actualización de noviembre de 2023 agregara soporte para marinos duplicados en modos de juego personalizados, han completado 3890 misiones con 9 o más marinos controlados por el jugador (39 932 misiones si contamos a cada jugador por separado como hacemos con otras estadísticas) en noviembre y diciembre.
+
+[h2]Concurso de mapas de 2024: "Estación Espacial"[/h2]
+
+La temática de este año es "Estación espacial". [url=https://store.steampowered.com/news/app/563560/view/4148449131825473630]Consulta el anuncio del concurso para más detalles.[/url]
+
+[h2]Cambios de esta actualización[/h2]
+
+[h3]Armas:[/h3]
+[list]
+[*]Las armas (que no sean el lanzallamas M868 y el lanzagranadas) en primera persona ahora disparan desde el centro de la cámara, de forma similar a como funcionan otros juegos en primera persona.
+[*][b]Lanzallamas M868:[/b] Se corrigió la animación de disparo que seguía reproduciéndose en el cliente después de quedarse sin munición si se mantenía presionado el botón de disparo y la recarga automática estaba desactivada.
+[*][b]Lanzagranadas:[/b] Ahora, el punto de mira de fuego amigo se activa en función del lugar previsto de impacto de la granada, en lugar de simular que el lanzagranadas lanza proyectiles.
+[*][b]Lanzagranadas:[/b] Se corrigió que el lanzagranadas intentaba apuntar al interior de la cabeza del marino en primera persona.
+[/list]
+
+[h3]Misiones oficiales:[/h3] 
+[list]
+[*][b]Área 9800: Generador de la Central Eléctrica:[/b] Se corrigió un obstáculo metálico que a veces bloqueaba el camino.
+[*][b]Lágrimas de Tarnor: Puerto Espacial de la Colonia Oasis:[/b] Se corrigió la física del modelo de los asientos del tren que empujaba cosas que estaban en la otra habitación.
+[*][b]Paranoia: Alta tensión:[/b] Se corrigió un lugar donde era posible caer a través del suelo.
+[*][b]Nam Humanum: Laboratorios Subterráneos:[/b] Se corrigió la posibilidad de alejar un barril explosivo del panel que se pretendía destruir.
+[*][b]Nam Humanum: Laboratorios Subterráneos:[/b] Se corrigió un problema de inestabilidad al principio de la misión.
+[*][b]Corporación BioGen: Operación X5:[/b] Se eliminaron algunos objetos de física en los que se podían atascarse los alienígenas durante la fase final.
+[*][b]Corporación BioGen: Amenaza Invisible:[/b] Se corrigió un comportamiento de puntería erróneo cerca del ventilador causado por una geometría fuera de los límites.
+[*][b]Accidente del 32: Centro de Investigación:[/b] Se redujo la cantidad de parásitos y drones presentes en esta misión.
+[*][b]Accidente del 32: Instalación Confinada:[/b] Ahora el descenso a las alcantarillas es más intuitivo.
+[*][b]Accidente del 32: Instalación Confinada:[/b] Se mejoró la visibilidad en la parte de abajo del cristal cerca de la salida.
+[*][b]Accidente del 32: Instalación Confinada:[/b] Se redujo los puntos de salud de la puerta de un camino alternativo para hacerla más viable.
+[*][b]Accidente del 32: Ruinas de Laboratorio:[/b] Se cambiaron las luces indicadoras de los paneles en el enfrentamiento final de verde a azul para que sean más fáciles de ver con la iluminación.
+[*][b]Catástrofe del Puerto Espacial:[/b] Se eliminaron algunos elementos geométricos invisibles sobre una puerta cerca del final del mapa.
+[/list]
+
+[h3]Desafío Infección a Muerte[/h3]
+[list]
+[*]Ahora los humanos son más lentos que los zombis.
+[*]Se aumentó la bonificación de salud de la última batalla.
+[*]Se corrigió un error que provocaba que solo apareciera un zombi inicial al comienzo de la ronda cuando se cumplían los requisitos para que aparecieran dos.
+[/list]
+
+[h3]General:[/h3]
+[list]
+[*]Se corrigieron un problema con las ampliaciones suscritas pero desactivadas en el menú de ampliaciones dentro del juego o en la ventana de propiedades de Steam, que no se cargaban cuando lo requería un desafío.
+[*]Se corrigió que los servidores dedicados generaran más hilos de entrada y salida de lo previsto. Ahora los servidores dedicados generan 3 hilos de entrada y salida en lugar de uno por núcleo sin límite (o 0 si se especifica "-noasync" en la línea de comandos). El cliente mantiene el comportamiento que ha tenido desde 2018, generando un hilo de entrada y salida por núcleo de procesador hasta un máximo de 3.
+[*]Se corrigió un problema que provocaba que los informes no incluyeran el id. del jugador informado según el formato previsto. Se implemento una corrección en el servidor, por lo que no se verán afectados los informes realizados después del 2 de marzo.
+[*]Se modificó la forma en que los objetos del inventario se envían al servidor del juego. Por ahora, esto solo significa que las medallas deberían aparecer más rápido al entrar a una sala.
+[*]Se marcaron los comandos "func_breakdmg_bullet", "func_breakdmg_club" y "func_breakdmg_explosive" como trampas.
+[*]Se corrigió el mensaje de desbloqueo de la Swarmopedia que mostraba un texto sin sentido en lugar del nombre del alienígena.
+[*]Se agregó al chat un mensaje cuando un jugador recibe una medalla por completar un logro u otra tarea de una misión.
+[/list]
+</string><string id="subtitle"/><string id="summary"/><string id="title">7.º aniversario de Alien Swarm: Reactive Drop</string></content>
