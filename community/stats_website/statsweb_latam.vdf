@@ -199,7 +199,7 @@
 "StatsWeb_GlobalWeaponStatsDesc"		"Una lista de las estadísticas globales de todos los tiempos para cada arma disponible en Alien Swarm: Reactive Drop."
 // format is strftime, see https://github.com/KarpelesLab/strftime#pattern-support
 "[english]StatsWeb_DateFormat"		"%e %B %Y"
-"StatsWeb_DateFormat"		"%e de %B del %Y"
+"StatsWeb_DateFormat"		"%e de %B de %Y"
 "[english]StatsWeb_StartedMinutesAgo"		"Started %d minutes ago"
 "StatsWeb_StartedMinutesAgo"		"Iniciado hace %d minutos"
 "[english]StatsWeb_StartedHoursAgo"		"Started %d hours ago"
