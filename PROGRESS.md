@@ -20,7 +20,7 @@
 | [Romanian](#non-curated-languages) | 55 | 1996 | 48 | 3872 | 259 | 209 | 977 | 148 |
 | [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 2 |
 | [European Spanish](#spanish-español-de-españa) | 32 | 2004 | 40 | 2575 | 259 | 209 | 716 | 147 |
-| [Latin American Spanish](#latam-español-latinoamericano) | ✔️ | 2004 | ✔️ | 4217 | ✔️ | ✔️ | 205 | 143 |
+| [Latin American Spanish](#latam-español-latinoamericano) | ✔️ | 2004 | ✔️ | 4217 | ✔️ | ✔️ | 203 | 141 |
 | [Swedish](#swedish-svenska) | ✔️ | ✔️ | ✔️ | 1279 | ✔️ | ✔️ | ✔️ | 108 |
 | [Thai](#non-curated-languages) | 970 | 1993 | 50 | 4407 | 259 | 209 | 741 | 148 |
 | [Turkish](#non-curated-languages) | 55 | 137 | 42 | 3160 | 259 | 209 | 977 | 148 |
@@ -1307,15 +1307,9 @@
 
 - [addons/ExampleAddon/reactivedrop_latam.txt](addons/ExampleAddon/resource/reactivedrop_latam.txt) has 39 untranslated strings.
 - [addons/RiskOfRain/reactivedrop_latam.txt](addons/RiskOfRain/resource/reactivedrop_latam.txt) has 95 untranslated strings.
-- [workshop_description_latam.vdf](community/workshop/workshop_description_latam.vdf) has 2 untranslated strings.
 - [misc/signage/signage_latam.vdf](misc/signage/signage_latam.vdf) has 69 untranslated strings.
 - [closecaption_latam.txt](resource/closecaption_latam.txt) has 2004 untranslated strings.
 - [reactivedrop_latam.txt](resource/reactivedrop_latam.txt) has 4217 untranslated strings.
-
-### Upcoming Release Notes
-
-- [20240419_latam.xml](release_notes/20240419_english.xml) is missing.
-- [20240420_latam.xml](release_notes/20240420_english.xml) is missing.
 
 ### Credits
 
