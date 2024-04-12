@@ -6977,32 +6977,32 @@
 		"[english]red3_1_title"		"Establish Comms with BigDog"
 		"red3_1_title"		"Establish Comms with BigDog"
 
-		"[english]red3_2_title"		"Get to the Train"
-		"red3_2_title"		"Get to the Train"
+"[english]red3_2_title"		"Get to the Train"
+"red3_2_title"		"Ta dig till tåget"
 
-		"[english]red3_3_title"		"Fix the Train Engine"
-		"red3_3_title"		"Fix the Train Engine"
+"[english]red3_3_title"		"Fix the Train Engine"
+"red3_3_title"		"Laga tågmotorn"
 
-		"[english]red3_4_title"		"Get on the Train"
-		"red3_4_title"		"Get on the Train"
+"[english]red3_4_title"		"Get on the Train"
+"red3_4_title"		"Ta dig till tåget"
 
-		"[english]red4_1_title"		"Contact BigDog"
-		"red4_1_title"		"Contact BigDog"
-		"[english]red4_1a_title"		"Assess your situation. Establish comms with BigDog."
-		"red4_1a_title"		"Assess your situation. Establish comms with BigDog."
+"[english]red4_1_title"		"Contact BigDog"
+"red4_1_title"		"Kontakta BigDog"
+"[english]red4_1a_title"		"Assess your situation. Establish comms with BigDog."
+"red4_1a_title"		"Bedöm din situation. Upprätta kommunikationer med BigDog."
 
-		"[english]red4_2_title"		"Find the Package"
-		"red4_2_title"		"Find the Package"
-		"[english]red4_2a_title"		"Search the train and find the Package."
-		"red4_2a_title"		"Search the train and find the Package."
+"[english]red4_2_title"		"Find the Package"
+"red4_2_title"		"Hitta paketet"
+"[english]red4_2a_title"		"Search the train and find the Package."
+"red4_2a_title"		"Söka igenom tåget och hitta paketet."
 
-		"[english]red4_3_title"		"Sweep the Train"
-		"red4_3_title"		"Sweep the Train"
-		"[english]red4_3a_title"		"Sweep the train clean of hostile presence."
-		"red4_3a_title"		"Sweep the train clean of hostile presence."
+"[english]red4_3_title"		"Sweep the Train"
+"red4_3_title"		"Rensa tåget"
+"[english]red4_3a_title"		"Sweep the train clean of hostile presence."
+"red4_3a_title"		"Sopa tåget rent från fientlig närvaro."
 
-		"[english]red5_1_title"		"Report in"
-		"red5_1_title"		"Report in"
+"[english]red5_1_title"		"Report in"
+"red5_1_title"		"Rapportera"
 		"[english]red5_1a_title"		"Good morning, Squad. And welcome to the Safe Zone. Report in to local command."
 		"red5_1a_title"		"Good morning, Squad. And welcome to the Safe Zone. Report in to local command."
 
@@ -7013,8 +7013,8 @@
 		"red5_3_title"		"Find the Overhead Crane"
 		"[english]red5_3a_title"		"It is parked somewhere in the rafters."
 		"red5_3a_title"		"It is parked somewhere in the rafters."
-		"[english]red5_3b_title"		"Look for it."
-		"red5_3b_title"		"Look for it."
+"[english]red5_3b_title"		"Look for it."
+"red5_3b_title"		"Leta efter det."
 
 		"[english]red5_4_title"		"Move the Weapon to the Carriage"
 		"red5_4_title"		"Move the Weapon to the Carriage"
@@ -7039,19 +7039,19 @@
 		"[english]red5_6b_title"		"Jump-off for next mission will be at the bridge."
 		"red5_6b_title"		"Jump-off for next mission will be at the bridge."
 
-		"[english]red5_gametext_1"		"R E D U C T I O N"
-		"red5_gametext_1"		"R E D U C T I O N"
-		"[english]red5_gametext_2"		"Campaign Design by Tim Carter"
-		"red5_gametext_2"		"Campaign Design by Tim Carter"
-		"[english]red5_panel_skip_cutscene"		"Skip Cutscene"
-		"red5_panel_skip_cutscene"		"Skip Cutscene"
+"[english]red5_gametext_1"		"R E D U C T I O N"
+"red5_gametext_1"		"R E D U C E R I N G"
+"[english]red5_gametext_2"		"Campaign Design by Tim Carter"
+"red5_gametext_2"		"Kampanj design av Tim Carter"
+"[english]red5_panel_skip_cutscene"		"Skip Cutscene"
+"red5_panel_skip_cutscene"		"Hoppa över cutscene"
 		"[english]red5_voted_skip_yes"		"You have voted to skip the cutscene"
 		"red5_voted_skip_yes"		"You have voted to skip the cutscene"
 		"[english]red5_voted_skip_no"		"You have not voted to skip the cutscene"
 		"red5_voted_skip_no"		"You have not voted to skip the cutscene"
-		// context - Voted to Skip: 0/5 
-		"[english]red5_voted_skip_count"		"Voted to Skip:"
-		"red5_voted_skip_count"		"Voted to Skip:"
+// context - Voted to Skip: 0/5 
+"[english]red5_voted_skip_count"		"Voted to Skip:"
+"red5_voted_skip_count"		"Röstade att hoppa över:"
 
 		"[english]red6_1_title"		"Escort the Carriage to Outpost Charlie. NOTE: All Sentryguns will be Confiscated"
 		"red6_1_title"		"Escort the Carriage to Outpost Charlie. NOTE: All Sentryguns will be Confiscated"
@@ -7085,30 +7085,30 @@
 		"[english]ma_chat_local_record"		"%s1Local server record beaten!"
 		"ma_chat_local_record"		"%s1Local server record beaten!"
 
-		// context: it's a currency for the map, gained from killing aliens and you can spend it for buying items
-		"[english]ma_hud_alienblood"		"Alien Blood"
-		"ma_hud_alienblood"		"Alien Blood"
-		// context: score gained for completing any of the 6 holdout zones, something like points would work too
-		"[english]ma_hud_score"		"Score"
-		"ma_hud_score"		"Score"
-		"[english]ma_hud_zones"		"Zones Completed"
-		"ma_hud_zones"		"Zones Completed"
+// context: it's a currency for the map, gained from killing aliens and you can spend it for buying items
+"[english]ma_hud_alienblood"		"Alien Blood"
+"ma_hud_alienblood"		"Alien Blod"
+// context: score gained for completing any of the 6 holdout zones, something like points would work too
+"[english]ma_hud_score"		"Score"
+"ma_hud_score"		"Poäng"
+"[english]ma_hud_zones"		"Zones Completed"
+"ma_hud_zones"		"Zoner avklarade"
 
 		"[english]ma_sign_provision"		"ADVANCED TRAINING PROVISION FOR COMMISSIONED PERSONNEL"
 		"ma_sign_provision"		"ADVANCED TRAINING PROVISION FOR COMMISSIONED PERSONNEL"
-		"[english]ma_sign_shop"		"SHOP"
-		"ma_sign_shop"		"SHOP"
-		"[english]ma_sign_hof"		"HALL OF FAME"
-		"ma_sign_hof"		"HALL OF FAME"
+"[english]ma_sign_shop"		"SHOP"
+"ma_sign_shop"		"AFFÄR"
+"[english]ma_sign_hof"		"HALL OF FAME"
+"ma_sign_hof"		"HALL OF FAME"
 
-		"[english]asw_teleport_to_zone"		"Teleport to Zone"
-		"asw_teleport_to_zone"		"Teleport to Zone"
+"[english]asw_teleport_to_zone"		"Teleport to Zone"
+"asw_teleport_to_zone"		"Teleportera till zon"
 		"[english]asw_zone_unavailable"		"Zone Temporarily Unavailable"
 		"asw_zone_unavailable"		"Zone Temporarily Unavailable"
 		"[english]asw_no_alienblood"		"Not Enough Alien Blood"
 		"asw_no_alienblood"		"Not Enough Alien Blood"
-		"[english]asw_buy_ammo"		"Buy Ammo"
-		"asw_buy_ammo"		"Buy Ammo"
+"[english]asw_buy_ammo"		"Buy Ammo"
+"asw_buy_ammo"		"Köp ammunition"
 		"[english]asw_buy_medkit"		"Buy Medkit"
 		"asw_buy_medkit"		"Buy Medkit"
 		"[english]asw_buy_eca"		"Buy Electrified Armor"
@@ -7134,11 +7134,11 @@
 
 		"[english]ocs_landingbay7_1_title"		"Infiltrate landing bay 7"
 		"ocs_landingbay7_1_title"		"Infiltrate landing bay 7"
-		"[english]ocs_landingbay7_1a"		"Gain entrance to landing bay 7"
-		"ocs_landingbay7_1a"		"Gain entrance to landing bay 7"
+"[english]ocs_landingbay7_1a"		"Gain entrance to landing bay 7"
+"ocs_landingbay7_1a"		"Få entré till landningsvik 7"
 
-		"[english]ocs_landingbay7_2a"		"Destroy 10 swarm eggs"
-		"ocs_landingbay7_2a"		"Destroy 10 swarm eggs"
+"[english]ocs_landingbay7_2a"		"Destroy 10 swarm eggs"
+"ocs_landingbay7_2a"		"Förstör 10 svärmägg"
 
 		"[english]ocs_landingbay7_3_title"		"Use the shuttle to escape"
 		"ocs_landingbay7_3_title"		"Use the shuttle to escape"
@@ -7158,19 +7158,19 @@
 		"[english]ocs_uscmedusa_3a"		"Use the terminal on the bridge to download the recorded flight data, in order to set course to the alien homeplanet"
 		"ocs_uscmedusa_3a"		"Use the terminal on the bridge to download the recorded flight data, in order to set course to the alien homeplanet"
 
-		"[english]asw_clear_all_biomass"		"Clear all biomass"
-		"asw_clear_all_biomass"		"Clear all biomass"
-		"[english]asw_reactor_is_offline"		"Reactor is offline"
-		"asw_reactor_is_offline"		"Reactor is offline"
+"[english]asw_clear_all_biomass"		"Clear all biomass"
+"asw_clear_all_biomass"		"Rensa all biomassa"
+"[english]asw_reactor_is_offline"		"Reactor is offline"
+"asw_reactor_is_offline"		"Reaktorn är offline"
 
 		"[english]ocs_uscmedusa_4_title"		"Enter the stasis pods"
 		"ocs_uscmedusa_4_title"		"Enter the stasis pods"
 		"[english]ocs_uscmedusa_4a"		"Enter the statis pods to inititate interstellar travel"
 		"ocs_uscmedusa_4a"		"Enter the statis pods to inititate interstellar travel"
 
-		// Tears for Tarnor strings
-		"[english]tf1_desertoutpost_1_title"		"Briefing"
-		"tf1_desertoutpost_1_title"		"Briefing"
+// Tears for Tarnor strings
+"[english]tf1_desertoutpost_1_title"		"Briefing"
+"tf1_desertoutpost_1_title"		"Genomgång"
 		"[english]tf1_desertoutpost_1a"		"Upon making planetfall, Cerberus was unable to establish a link with ground based guidance and tracking systems necessary to land at the spaceport."
 		"tf1_desertoutpost_1a"		"Upon making planetfall, Cerberus was unable to establish a link with ground based guidance and tracking systems necessary to land at the spaceport."
 		"[english]tf1_desertoutpost_1b"		"Whilst looking for an alternative drop-off spot, a weak distress signal was detected. The captain has decided to drop the marines off a short distance away, so they can investigate the signal."
@@ -7183,8 +7183,8 @@
 		"[english]tf1_desertoutpost_2a"		"A weak distress signal was detected in the vicinity. Investigate the source of the signal."
 		"tf1_desertoutpost_2a"		"A weak distress signal was detected in the vicinity. Investigate the source of the signal."
 
-		"[english]tf1_desertoutpost_3_title"		"Reach the outpost"
-		"tf1_desertoutpost_3_title"		"Reach the outpost"
+"[english]tf1_desertoutpost_3_title"		"Reach the outpost"
+"tf1_desertoutpost_3_title"		"Nå utposten"
 		"[english]tf1_desertoutpost_3a"		"Find your way to the nearby abandoned communication outpost."
 		"tf1_desertoutpost_3a"		"Find your way to the nearby abandoned communication outpost."
 
@@ -7258,8 +7258,8 @@
 		"[english]tf1_abandonedmaintenance_lift2"		"Evacuate critical area before activating generator power injector."
 		"tf1_abandonedmaintenance_lift2"		"Evacuate critical area before activating generator power injector."
 
-		"[english]tf1_spaceport_1_title"		"Briefing"
-		"tf1_spaceport_1_title"		"Briefing"
+"[english]tf1_spaceport_1_title"		"Briefing"
+"tf1_spaceport_1_title"		"Genomgång"
 		"[english]tf1_spaceport_1a"		"After navigating through the maze of maintenance systems, the squad has finally reached the spaceport."
 		"tf1_spaceport_1a"		"After navigating through the maze of maintenance systems, the squad has finally reached the spaceport."
 		"[english]tf1_spaceport_1b"		"Your mission is to bring the guidance and tracking systems online and obtain landing permission for Cerberus. This will be most easily facilitated by interfacing with the spaceport control computer."
@@ -7339,16 +7339,16 @@
 		"[english]par_hostileplaces_debrief"		"We have arrived at the entrance to the administrative area. Our objective is to search this area for information relating to the outpost's most recent activities."
 		"par_hostileplaces_debrief"		"We have arrived at the entrance to the administrative area. Our objective is to search this area for information relating to the outpost's most recent activities."
 
-		"[english]par_closecontact_1_title"		"Find documents"
-		"par_closecontact_1_title"		"Find documents"
+"[english]par_closecontact_1_title"		"Find documents"
+"par_closecontact_1_title"		"Hitta dokument"
 		"[english]par_closecontact_1a"		"Collect important documents from this area."
 		"par_closecontact_1a"		"Collect important documents from this area."
 
 		"[english]asw_power_should_be_restored"		"Power should be restored."
 		"asw_power_should_be_restored"		"Power should be restored."
 
-		"[english]par_closecontact_2_title"		"Find exit"
-		"par_closecontact_2_title"		"Find exit"
+"[english]par_closecontact_2_title"		"Find exit"
+"par_closecontact_2_title"		"Hitta utgången"
 		"[english]par_closecontact_2a"		"We have collected all relevant documents. Find an exit from this building."
 		"par_closecontact_2a"		"We have collected all relevant documents. Find an exit from this building."
 		"[english]par_closecontact_2b"		"There appears to be an exit near the medical room to the north."
@@ -9107,30 +9107,30 @@
 "rd_main_menu_tip_loadout_title"		"Marinsoldat utrustning"
 		"[english]rd_main_menu_tip_loadout"		"Set up named sets of weapons so you can\nquickly switch between them in lobbies."
 		"rd_main_menu_tip_loadout"		"Set up named sets of weapons so you can\nquickly switch between them in lobbies."
-		"[english]rd_main_menu_tip_contracts_title"		"Contract Campaigns"
-		"rd_main_menu_tip_contracts_title"		"Contract Campaigns"
+"[english]rd_main_menu_tip_contracts_title"		"Contract Campaigns"
+"rd_main_menu_tip_contracts_title"		"Kampanjkontrakt"
 		"[english]rd_main_menu_tip_contracts"		"Complete optional challenges while playing the game\nto unlock unique rewards."
 		"rd_main_menu_tip_contracts"		"Complete optional challenges while playing the game\nto unlock unique rewards."
-		"[english]rd_main_menu_tip_recordings_title"		"Mission Recordings"
-		"rd_main_menu_tip_recordings_title"		"Mission Recordings"
+"[english]rd_main_menu_tip_recordings_title"		"Mission Recordings"
+"rd_main_menu_tip_recordings_title"		"Uppdragsinspelningar"
 		"[english]rd_main_menu_tip_recordings"		"Automatically record missions you play, and\nwatch them back later using the\nSource Engine demo viewer."
 		"rd_main_menu_tip_recordings"		"Automatically record missions you play, and\nwatch them back later using the\nSource Engine demo viewer."
-		"[english]rd_main_menu_tip_swarmopedia_title"		"The Swarmopedia"
-		"rd_main_menu_tip_swarmopedia_title"		"The Swarmopedia"
+"[english]rd_main_menu_tip_swarmopedia_title"		"The Swarmopedia"
+"rd_main_menu_tip_swarmopedia_title"		"Swarmopedian"
 		"[english]rd_main_menu_tip_swarmopedia"		"A database of information about aliens, weapons, and equipment.\nKill aliens in missions to unlock short stories."
 		"rd_main_menu_tip_swarmopedia"		"A database of information about aliens, weapons, and equipment.\nKill aliens in missions to unlock short stories."
-		"[english]rd_main_menu_tip_workshop_title"		"Steam Workshop"
-		"rd_main_menu_tip_workshop_title"		"Steam Workshop"
+"[english]rd_main_menu_tip_workshop_title"		"Steam Workshop"
+"rd_main_menu_tip_workshop_title"		"Steam Workshopp"
 		"[english]rd_main_menu_tip_workshop"		"Community-created design, code, and art power Alien Swarm: Reactive Drop.\nIn this menu, you can publish addons you created to the Steam Workshop\nand manage the addons you are subscribed to."
 		"rd_main_menu_tip_workshop"		"Community-created design, code, and art power Alien Swarm: Reactive Drop.\nIn this menu, you can publish addons you created to the Steam Workshop\nand manage the addons you are subscribed to."
-		"[english]rd_main_menu_tip_inventory_title"		"Manage Inventory"
-		"rd_main_menu_tip_inventory_title"		"Manage Inventory"
+"[english]rd_main_menu_tip_inventory_title"		"Manage Inventory"
+"rd_main_menu_tip_inventory_title"		"Hantera förråd"
 		"[english]rd_main_menu_tip_inventory"		"Most items exist only during missions, but certain\nspecial items like medals are stored here."
 		"rd_main_menu_tip_inventory"		"Most items exist only during missions, but certain\nspecial items like medals are stored here."
-		"[english]rd_main_menu_tip_quit_title"		"Quit"
-		"rd_main_menu_tip_quit_title"		"Quit"
+"[english]rd_main_menu_tip_quit_title"		"Quit"
+"rd_main_menu_tip_quit_title"		"Avsluta"
 		"[english]rd_main_menu_tip_quit"		"Press this button when you are finished\nplaying Alien Swarm: Reactive Drop."
-		"rd_main_menu_tip_quit"		"Press this button when you are finished\nplaying Alien Swarm: Reactive Drop."
+		"rd_main_menu_tip_quit"		"Klicka denna knapp när du är färdigt/nspelat Alien Swarm: Reactive Drop."
 		"[english]rd_main_menu_tip_commander_profile_title"		"IAF Commander Profile"
 		"rd_main_menu_tip_commander_profile_title"		"IAF Commander Profile"
 		"[english]rd_main_menu_tip_commander_profile"		"Your Commander Profile tracks your progress and accolades\nin Alien Swarm: Reactive Drop. Level up or complete contracts to\nunlock new weapons. This mini-profile also shows your\ncurrent promotion medal, up to three cosmetic medals, and\nthe medal you are expected to earn at the end of the\ncurrent season of Heroes of the Interstellar Armed Forces."
@@ -9315,18 +9315,18 @@
 // report for cheating
 "[english]rd_quick_report_cheating"		"Cheating"
 "rd_quick_report_cheating"		"Fusk"
-		"[english]rd_quick_report_cheating_confirm"		"Report %s1 for cheating using third party software?"
-		"rd_quick_report_cheating_confirm"		"Report %s1 for cheating using third party software?"
-		// report for abusive gameplay
-		"[english]rd_quick_report_gameplay"		"Griefing"
-		"rd_quick_report_gameplay"		"Griefing"
-		"[english]rd_quick_report_gameplay_confirm"		"Report %s1 for griefing or other abusive gameplay?"
-		"rd_quick_report_gameplay_confirm"		"Report %s1 for griefing or other abusive gameplay?"
-		// report for abusive communication
-		"[english]rd_quick_report_communication"		"Communication"
-		"rd_quick_report_communication"		"Communication"
-		"[english]rd_quick_report_communication_confirm"		"Report %s1 for abusive communication?"
-		"rd_quick_report_communication_confirm"		"Report %s1 for abusive communication?"
+"[english]rd_quick_report_cheating_confirm"		"Report %s1 for cheating using third party software?"
+"rd_quick_report_cheating_confirm"		"Rapportera %s1 för fusk med programvara från tredje part?"
+// report for abusive gameplay
+"[english]rd_quick_report_gameplay"		"Griefing"
+"rd_quick_report_gameplay"		"Förstörande"
+"[english]rd_quick_report_gameplay_confirm"		"Report %s1 for griefing or other abusive gameplay?"
+"rd_quick_report_gameplay_confirm"		"Rapportera %s1 för förstörande eller annat kränkande spel?"
+// report for abusive communication
+"[english]rd_quick_report_communication"		"Communication"
+"rd_quick_report_communication"		"Kommunikation"
+"[english]rd_quick_report_communication_confirm"		"Report %s1 for abusive communication?"
+"rd_quick_report_communication_confirm"		"Rapportera %s1 för kränkande kommunikation?"
 
 "[english]rd_reporting_title"		"Report a Problem"
 "rd_reporting_title"		"Rapportera ett problem"
@@ -9334,8 +9334,8 @@
 "rd_reporting_category_my_account"		"Mitt konto"
 		"[english]rd_reporting_category_my_account_desc"		"An issue with stats, achievements, or items; for example, a missing medal."
 		"rd_reporting_category_my_account_desc"		"An issue with stats, achievements, or items; for example, a missing medal."
-		"[english]rd_reporting_category_server"		"Dedicated Server"
-		"rd_reporting_category_server"		"Dedicated Server"
+"[english]rd_reporting_category_server"		"Dedicated Server"
+"rd_reporting_category_server"		"Dedikerad Server"
 		"[english]rd_reporting_category_server_desc"		"An issue with a community-hosted dedicated server."
 		"rd_reporting_category_server_desc"		"An issue with a community-hosted dedicated server."
 "[english]rd_reporting_category_player"		"Another Player"
@@ -9446,10 +9446,10 @@
 // These are category headings on the Controls tab of the settings screen
 "[english]rd_controls_category_movement"		"Movement"
 "rd_controls_category_movement"		"Rörelse"
-		"[english]rd_controls_category_controller"		"Controller"
-		"rd_controls_category_controller"		"Controller"
-		"[english]rd_controls_category_actions"		"Actions"
-		"rd_controls_category_actions"		"Actions"
+"[english]rd_controls_category_controller"		"Controller"
+"rd_controls_category_controller"		"Kontroller"
+"[english]rd_controls_category_actions"		"Actions"
+"rd_controls_category_actions"		"Handlingar"
 		"[english]rd_controls_category_social_and_extras"		"Social / Extras"
 		"rd_controls_category_social_and_extras"		"Social / Extras"
 		"[english]rd_controls_category_use_equipment"		"Use Equipment"
@@ -9490,12 +9490,12 @@
 		"rd_option_player_name_mode_both"		"Player and Marine"
 		"[english]rd_option_player_name_mode_both_hint"		"Display both the player name and the marine name below squad members."
 		"rd_option_player_name_mode_both_hint"		"Display both the player name and the marine name below squad members."
-		"[english]rd_option_player_chat_color"		"Chat Color"
-		"rd_option_player_chat_color"		"Chat Color"
+"[english]rd_option_player_chat_color"		"Chat Color"
+"rd_option_player_chat_color"		"Chattfärg"
 		"[english]rd_option_player_chat_color_hint"		"Tint text chat by this color."
 		"rd_option_player_chat_color_hint"		"Tint text chat by this color."
-		"[english]rd_option_player_chat_names_use_colors"		"Player Name Colors"
-		"rd_option_player_chat_names_use_colors"		"Player Name Colors"
+"[english]rd_option_player_chat_names_use_colors"		"Player Name Colors"
+"rd_option_player_chat_names_use_colors"		"Spelar namns färger"
 		"[english]rd_option_player_chat_names_use_colors_hint"		"Color a player's name in text chat based on their position in the squad."
 		"rd_option_player_chat_names_use_colors_hint"		"Color a player's name in text chat based on their position in the squad."
 		"[english]rd_option_player_deathmatch_team_color_mode"		"Deathmatch Team Colors"
@@ -9535,12 +9535,12 @@
 		"rd_option_hints_swarmopedia_grid"		"Swarmopedia Grid"
 		"[english]rd_option_hints_swarmopedia_grid_hint"		"Display a grid below Swarmopedia specimens for easier size comparisons."
 		"rd_option_hints_swarmopedia_grid_hint"		"Display a grid below Swarmopedia specimens for easier size comparisons."
-		// RD_AdvancedSettings_Misc_SwarmopediaUnits
-		// RD_AdvancedSettings_Misc_SwarmopediaUnits_Hammer
-		// RD_AdvancedSettings_Misc_SwarmopediaUnits_Metric
-		// RD_AdvancedSettings_Misc_SwarmopediaUnits_Imperial
-		"[english]rd_option_hints_swarmopedia_units_hint"		"Choose the measurement unit for distances and lengths in the Swarmopedia."
-		"rd_option_hints_swarmopedia_units_hint"		"Choose the measurement unit for distances and lengths in the Swarmopedia."
+// RD_AdvancedSettings_Misc_SwarmopediaUnits
+// RD_AdvancedSettings_Misc_SwarmopediaUnits_Hammer
+// RD_AdvancedSettings_Misc_SwarmopediaUnits_Metric
+// RD_AdvancedSettings_Misc_SwarmopediaUnits_Imperial
+"[english]rd_option_hints_swarmopedia_units_hint"		"Choose the measurement unit for distances and lengths in the Swarmopedia."
+"rd_option_hints_swarmopedia_units_hint"		"Välj måttenhet för avstånd och längder i Swarmopedia."
 		"[english]rd_option_death_cam_takeover"		"Cinematic Death Camera"
 		"rd_option_death_cam_takeover"		"Cinematic Death Camera"
 		"[english]rd_option_death_cam_takeover_hint"		"If slow motion is enabled, causes the camera to revolve around a marine when they die."
@@ -9687,13 +9687,13 @@
 		// RD_AdvancedSettings_Misc_HighlightActiveCharacter
 		"[english]rd_option_accessibility_highlight_active_character_hint"		"Adds a glowing outline around the character you control."
 		"rd_option_accessibility_highlight_active_character_hint"		"Adds a glowing outline around the character you control."
-		// RD_AdvancedSettings_VisualEffects_ReduceMotion
-		"[english]rd_option_accessibility_reduce_motion_hint"		"Removes most animations from menus."
-		"rd_option_accessibility_reduce_motion_hint"		"Removes most animations from menus."
-		// RD_AdvancedSettings_VisualEffects_ScreenShake
-		// rd_video_effect_disabled
-		"[english]rd_option_accessibility_camera_shake_disabled_hint"		"Removes screen shake effects."
-		"rd_option_accessibility_camera_shake_disabled_hint"		"Removes screen shake effects."
+// RD_AdvancedSettings_VisualEffects_ReduceMotion
+"[english]rd_option_accessibility_reduce_motion_hint"		"Removes most animations from menus."
+"rd_option_accessibility_reduce_motion_hint"		"Tar bort de flesta animationerna från menyer."
+// RD_AdvancedSettings_VisualEffects_ScreenShake
+// rd_video_effect_disabled
+"[english]rd_option_accessibility_camera_shake_disabled_hint"		"Removes screen shake effects."
+"rd_option_accessibility_camera_shake_disabled_hint"		"Tar bort skärmskakningseffekter."
 		// RD_AdvancedSettings_VisualEffects_ScreenShake_Reduced
 		"[english]rd_option_accessibility_camera_shake_reduced_hint"		"Removes most screen shake effects, but leaves certain story-relevant screen shakes alone."
 		"rd_option_accessibility_camera_shake_reduced_hint"		"Removes most screen shake effects, but leaves certain story-relevant screen shakes alone."
@@ -10242,18 +10242,18 @@
 "[english]rd_notification_action_back"		"Cancel"
 "rd_notification_action_back"		"Avbryt"
 
-		// %s1 is the player name. %s2 is something like Jacob's Rest Veteran (it will be a different color than the rest of the text).
-		"[english]rd_player_found_promo_item"		"%s1 has been awarded %s2."
-		"rd_player_found_promo_item"		"%s1 has been awarded %s2."
+// %s1 is the player name. %s2 is something like Jacob's Rest Veteran (it will be a different color than the rest of the text).
+"[english]rd_player_found_promo_item"		"%s1 has been awarded %s2."
+"rd_player_found_promo_item"		"%s1 har tilldelats %s2."
 // %s1 is the player name. %s2 is something like Scrap Metal (it will be a different color than the rest of the text).
 "[english]rd_player_found_crafting_material"		"%s1 has found %s2."
 "rd_player_found_crafting_material"		"%s1 har hittat %s2."
 // %s1 is the player name. %s2 is something like Scrap Metal (it will be a different color than the rest of the text). %s3 is a number (might be 1).
 "[english]rd_player_found_crafting_materials"		"%s1 has found %s3× %s2."
 "rd_player_found_crafting_materials"		"%s1 har hittat %s3× %s2."
-		// Only shown to the player who tried to pick up the item. %s1 is the name of the crafting material. %s2 is a number like 37. %s3 is a non-translated string like k_EResultIOFailure.
-		"[english]rd_crafting_pickup_error"		"Encountered a problem while trying to pick up '%s1'. The material has moved to somewhere else. (Error %s2: %s3)"
-		"rd_crafting_pickup_error"		"Encountered a problem while trying to pick up '%s1'. The material has moved to somewhere else. (Error %s2: %s3)"
+// Only shown to the player who tried to pick up the item. %s1 is the name of the crafting material. %s2 is a number like 37. %s3 is a non-translated string like k_EResultIOFailure.
+"[english]rd_crafting_pickup_error"		"Encountered a problem while trying to pick up '%s1'. The material has moved to somewhere else. (Error %s2: %s3)"
+"rd_crafting_pickup_error"		"Stötte på ett problems vid försök att plocka upp '%s1'. Materialet har flyttats någon annanstans. (Error %s2: %s3)"
 
 "[english]rd_mission_modifier_workshop"		"This mission was downloaded from the Steam Workshop."
 "rd_mission_modifier_workshop"		"Detta uppdrag var nedladdat från Steam Workshoppen."
