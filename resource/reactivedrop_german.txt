@@ -5801,7 +5801,7 @@
 "[english]rd_weapon_fact_unique"		"Unique. Marines cannot equip multiple of this weapon."
 "rd_weapon_fact_unique"		"Einzigartig. Soldaten können nicht mehrere Exemplare dieser Waffe ausrüsten."
 "[english]rd_weapon_fact_slow_movement_while_held"		"Heavy. Marine movement is slowed when deployed."
-"rd_weapon_fact_slow_movement_while_held"		"Schwer. Die Bewegung von Soldaten wird verlangsamt, wenn sie in der Hand gehalten wird."
+"rd_weapon_fact_slow_movement_while_held"		"Schwer. Die Bewegung des Soldaten wird verlangsamt, wenn sie in der Hand gehalten wird."
 "[english]rd_weapon_fact_explodes_if_burned"		"Warning: Explodes if burned!"
 "rd_weapon_fact_explodes_if_burned"		"Warnung: Explodiert bei Inbrandsetzung"
 "[english]rd_weapon_fact_attracts_alien_attention"		"Attracts alien attention."
