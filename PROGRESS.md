@@ -21,11 +21,11 @@
 | [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 2 |
 | [European Spanish](#spanish-español-de-españa) | 32 | 2004 | 40 | 2575 | 259 | 209 | 716 | 147 |
 | [Latin American Spanish](#latam-español-latinoamericano) | ✔️ | 2004 | ✔️ | 4217 | ✔️ | ✔️ | 203 | 141 |
-| [Swedish](#swedish-svenska) | ✔️ | ✔️ | ✔️ | 1279 | ✔️ | ✔️ | ✔️ | 108 |
+| [Swedish](#swedish-svenska) | ✔️ | ✔️ | ✔️ | 1275 | ✔️ | ✔️ | ✔️ | 108 |
 | [Thai](#non-curated-languages) | 970 | 1993 | 50 | 4407 | 259 | 209 | 741 | 148 |
 | [Turkish](#non-curated-languages) | 55 | 137 | 42 | 3160 | 259 | 209 | 977 | 148 |
 | [Ukrainian](#ukrainian-українська) | 31 | 131 | 32 | 2703 | 259 | 209 | 935 | 147 |
-| [Vietnamese](#vietnamese-tiếng-việt) | ✔️ | 2004 | ✔️ | 3449 | ✔️ | ✔️ | 2 | 85 |
+| [Vietnamese](#vietnamese-tiếng-việt) | ✔️ | 2004 | ✔️ | 3449 | ✔️ | ✔️ | ✔️ | 85 |
 ### Legend
 - ***Non-capitalized column headers*** are the most important specific files and their number of missing strings. All of these txt-files are located in the resources folder. Except statsweb, which lies in community/stats_website, it's an vdf-file.
 - ***Strings*** is the number of missing strings not included in one of the files which get an individual non-capitalized column.
@@ -1468,7 +1468,7 @@
 
 ### Strings
 
-- [reactivedrop_swedish.txt](resource/reactivedrop_swedish.txt) has 1279 untranslated strings.
+- [reactivedrop_swedish.txt](resource/reactivedrop_swedish.txt) has 1275 untranslated strings.
 
 ### Upcoming Release Notes
 
@@ -1779,7 +1779,6 @@
 
 ### Strings
 
-- [workshop_description_vietnamese.vdf](community/workshop/workshop_description_vietnamese.vdf) has 2 untranslated strings.
 - [closecaption_vietnamese.txt](resource/closecaption_vietnamese.txt) has 2004 untranslated strings.
 - [reactivedrop_vietnamese.txt](resource/reactivedrop_vietnamese.txt) has 3449 untranslated strings.
 
