@@ -3027,6 +3027,7 @@
 "rd_weapon_fact_more_accurate_while_crouching"	"Crouching improves accuracy."
 "rd_weapon_fact_more_accurate_while_crouching_heavy_rifle_exception"	"No accuracy bonus from crouching."
 "rd_weapon_fact_prevents_and_reverses_infestation"	"Prevents and reverses infestation."
+"rd_weapon_fact_healing_cures_infestation"	"Healing cures infestation."
 "rd_weapon_fact_extinguishes_fires"	"Extinguishes fires."
 "rd_weapon_fact_secondary_uses_primary_ammo"	"Secondary fire uses primary ammo."
 "rd_weapon_fact_aim_assist"	"Aim Assist. Shots will automatically adjust to target aliens."

@@ -5820,6 +5820,9 @@
 "rd_weapon_fact_more_accurate_while_crouching_heavy_rifle_exception"		"Kein Genauigkeitsbonus beim Knien"
 "[english]rd_weapon_fact_prevents_and_reverses_infestation"		"Prevents and reverses infestation."
 "rd_weapon_fact_prevents_and_reverses_infestation"		"Verhindert und beendet Parasiten-Befall"
+		"[english]rd_weapon_fact_healing_cures_infestation"		"Healing cures infestation."
+		// This is currently the translation of the previous string so that we don't show an English string while this is being translated. When you fix, feel free to delete this comment as well.
+		"rd_weapon_fact_healing_cures_infestation"		"Verhindert und beendet Parasiten-Befall"
 "[english]rd_weapon_fact_extinguishes_fires"		"Extinguishes fires."
 "rd_weapon_fact_extinguishes_fires"		"Löscht Brände"
 "[english]rd_weapon_fact_secondary_uses_primary_ammo"		"Secondary fire uses primary ammo."
