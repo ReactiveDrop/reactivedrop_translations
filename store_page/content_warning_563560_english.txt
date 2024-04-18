@@ -1,0 +1,3 @@
+The main gameplay loop is using weapons to kill alien bugs. Aliens explode into blood and gore when killed. Bloodied human corpses can be found in some missions, but there is no graphic human dismemberment. Friendly fire with explosives can cause marines to break apart into cartoon "gibs".
+Profanity such as "shit" is used in voiced dialogue. Strong language is also used in some optional written content.
+Photosensitivity warning: There are some community-made missions that use a strobe light effect.

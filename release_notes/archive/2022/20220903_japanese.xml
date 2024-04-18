@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<content><string id="body">Interstellar Armed Forcesの英雄たちのシーズン2が終わりを迎えるのにあたり、競争期間を四半期から毎月に変更しました。他にも幅広い内容のバグ修正と少々のVScript関数を新しく追加しました。
+
+[h1]キャンペーン[/h1]
+[list]
+[*][b]Jacob's Rest: Rydberg Reactor:[/b] 最後のエリアで海兵隊が強襲ジェットを使用して地下に落ちて死亡するバグを修正。
+[*][b]Area 9800: Power Plant's Generator:[/b] 細い足場がAIの経路決定に悪い影響を与えていたのを修正。
+[*][b]Operation Cleansweep: Landing Bay 7:[/b] グレネードの弾道が非直感的になるのを防ぐため、南の卵がある部屋の見えない天井を削除。
+[*][b]Operation Cleansweep: U.S.C. Medusa:[/b] 隊員がゲームを抜けたらポッドがただ空っぽのままになるのではなく、蓋が開くようになった。
+[*][b]Research 7: Illyn Forest:[/b] 海兵隊botが発電機を狙うことがあったのを修正。
+[*][b]Tears for Tarnor: Oasis Colony Spaceport:[/b] 演出中に出現するブーマーがチャレンジの影響で先に殺されてしまった時にソフトロックが発生していたのを修正。
+[*][b]Tilarus-5: SynTek Hospital:[/b] ミッションの最後のカウントダウンを変更。
+[*][b]Lana's Escape: Lana's Bridge:[/b] 隊員が死亡した場合に脱出目標が更新されなかったのを修正。
+[*][b]Lana's Escape: Lana's Sewer:[/b] 隊員が死亡した場合に脱出目標が更新されなかったのを修正。
+[*][b]Lana's Escape: Lana's Complex:[/b] 脱出地点を広くした。
+[*][b]Paranoia: Crucial Point:[/b] 最後の戦闘の内容を変更。海兵隊達は発電機を守らなければならなくなった。発電機が損傷すると、エンジニアが修理しない限り完了までの時間が進まなくなる。発電機の近くに誰も隊員がいないと、発電機は追加のダメージを受ける。
+[*][b]Nam Humanum: Logistics Area:[/b] 火災周りの配置を変更。
+[*][b]Nam Humanum: Groundwork Labs:[/b] 大型のドアにダメージを与えることが可能で、それにより進行不能になることがあったのを修正。
+[*][b]BioGen Corporation: Invisible Threat:[/b] 道を知らないプレイヤーにとってわかりやすいように、換気扇の部屋にマーカーと視覚的なヒントを追加。
+[*][b]ボーナスミッション 7:[/b] 細い足場がAIの経路決定に悪い影響を与えていたのを修正。
+[/list]
+
+[h1]エイリアン[/h1]
+[list]
+[*]City 17キャンペーンに登場するクイーンのサウンドエフェクトを追加。
+[/list]
+
+[h1]武器[/h1]
+[list]
+[*]ドアや非生物オブジェクトを弾丸が貫通する確率の計算式を修正。(200%、290%、300%なら次のターゲットを0%、90%、0%で貫通していたのを全て100%になるように修正。)
+[*][b]M868 フレイマーユニット:[/b] 1マガジンの弾薬量と弾薬消費を2倍に変更。通常攻撃1射で燃料1を消費するようになった。
+[*][b]IAF ミニガン:[/b] 1マガジンの弾薬量と弾薬消費を2倍に変更。通常攻撃1射で弾薬1を消費するようになった。
+[/list]
+
+[h1]翻訳[/h1]
+[list]
+[*]中国語の翻訳を更新。
+[*]ドイツ語の翻訳を更新。
+[*]イタリア語の翻訳を更新。
+[*]日本語の翻訳を更新。
+[*]ロシア語の翻訳を更新。
+[/list]
+
+[h1]その他[/h1]
+[list]
+[*]ワークショップのものではないアドオンがミッション選択時に無効化されているかのような挙動をしていたのを修正。
+[*]PATH環境変数が長すぎると起動時にクラッシュするのを修正。
+[*]高度な設定にメニュー中の挙動の簡素化を追加。
+[*]高度な設定とゲーム設定でのキーボード・コントローラーのナビゲーションを改善。
+[*]ロビーリストでホストプレイヤーとマップのバージョンが違う際の警告メッセージを追加。
+[*]prop_dynamicはサーバー側でアニメーションのタイミングを取るようになった。これによりシェルタードアが開くアニメーションが同期ずれしていたのを修正したが、動きのあるpropが多いミッションでは必要なネットワーク帯域幅が増加した。
+[/list]
+
+[h1]マップ作成[/h1]
+[list]
+[*]npc_bullseyeのkeyが長すぎるせいでコンパイルが失敗するのを修正。
+[*]npc_bullseyeは所属からAIの関係性を継承するようになり、デフォルトで全てに敵対ではなくなった。
+[*]ai_relationshipはマップの生成時ではなくゲームをプレイ開始後に間を置いて効果が適用されるようになった。
+[/list]
+
+[h1]VScript[/h1]
+[list]
+[*]新しいVScriptのクラスTempEntsを追加。クライアントに一時的なentityの作成を許可する。
+[*]一時的なentityの作成時に使用する新しいVScriptのグローバル関数を追加。
+[*]以下に記述する関数へアクセスするクラスPlayerVoiceListenerをVscriptに追加。
+[*]CASW_Playerに関する新しいVScript関数を追加。
+[/list]
+
+[h2]TempEnts[/h2]
+
+[code]void Create( CBasePlayer player, string name, float delay, table )[/code]
+SendPropデータのtableから渡された一時的entityをクライアントに送るためにキューに入れる。
+playerにnullを渡した場合全てのクライアントに一時的entityが再生される。
+
+[code]void GetPropTypes( string name, table )[/code]
+渡されたtableに一時的entityについての全てのSendPropsとそれらのtypeを書き込む。
+
+[code]void GetNames( table )[/code]
+渡されたtableに全ての一時的entityのnameを書き込む。
+
+[h2]グローバル[/h2]
+
+[code]int PrecacheParticleSystem( string name )[/code]
+particleのmaterialをプリキャッシュする。
+
+[code]int GetParticleSystemIndex( string name )[/code]
+以前にプリキャッシュしたmaterialをindexに変換する。
+
+[code]string GetParticleSystemNameFromIndex( int index )[/code]
+以前にプリキャッシュしたmaterial indexをstringに変換する。
+
+[code]void PrecacheEffect( string name )[/code]
+effectをプリキャッシュする。
+
+[code]int GetEffectIndex( const char *name )[/code]
+以前にプリキャッシュしたeffectをindexに変換する。
+
+[code]string GetEffectNameFromIndex( int index )[/code]
+以前にプリキャッシュしたeffect indexをstringに変換する。
+
+[code]int GetDecalIndexForName( string name )[/code]
+stringからdecalのindexを取得する。
+
+[h2]CASW_Player[/h2]
+
+[code]CBaseEntity GetNPC()[/code]
+プレイヤーが操作中のentityをreturnする。
+
+[code]CBaseEntity GetSpectatingNPC()[/code]
+プレイヤーが観戦中のentityをreturnする。
+
+[code]CBaseEntity GetViewNPC()[/code]
+プレイヤーが観戦中のentityか、そうでなければ操作中のentityをreturnする。
+
+[code]CASW_Marine GetMarine()[/code]
+プレイヤーが使用中の海兵隊をreturnする。
+
+[code]CBaseEntity FindPickerEntity()[/code]
+プレイヤーの前にある中で一番近いentityを見つける。
+
+[code]Vector GetCrosshairTracePos()[/code]
+プレイヤーの照準の真下の座標をreturnする。</string><string id="subtitle"></string><string id="summary"></string><string id="title">Alien Swarm: Reactive Drop アップデート - 2022年9月3日</string></content>

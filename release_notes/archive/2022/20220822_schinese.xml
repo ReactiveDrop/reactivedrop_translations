@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<content><string id="body">随着我们持续为2023年的六周年更新做准备，我们希望能尽快发布一些UI改进和bug修复。值得注意的是，我们让非拉丁字符集的字体渲染更加一致了，并增加了创意工坊插件对更改或添加BIK文件的的支持。
+
+[h1]战役[/h1]
+[list]
+[*][b]第9800区：荒原之地[/b] 修复了 一个可能由导演造成，导致异形孵化在栅栏内的软锁。
+[/list]
+
+[h1]异形[/h1]
+[list]
+[*]增加了 生物质体点燃数量的统计跟踪。
+[*]修复了 着火的异形计入了“异形焚毁”统计数据的问题。
+[/list]
+
+[h1]翻译[/h1]
+[list]
+[*]更新了 中文翻译。
+[*]更新了 德语翻译。
+[*]更新了 意大利语翻译。
+[*]更新了 日文翻译。
+[*]更新了 俄语翻译。
+[*]修复了 中文任务完成界面的字母缺失问题。
+[*][strike]游戏现在使用 Noto Sans SC 作为默认的备用字体，而不是任意的系统字体。[/strike]
+[/list]
+
+[h1]杂项[/h1]
+[list]
+[*]修复了 一个长期存在的问题，即门在被撞凹之前就被破坏了，在坠落时导致无法正确定位。
+[*]更新了 任务选择器和收收藏品界面中的选项卡的外观。
+[*]与转弯速度相关的控制变量现在被标记为作弊。
+[*]删除了 每张地图里的声音缓存清单，以节省磁盘空间。
+[*]asw_max_saves 不能再设定低于 2了，这可能会导致崩溃或锁定。
+[*]添加了 rd_dump_workshop_conflicts_client 命令。
+[*]添加了 在插件界面，添加了关于插件文件名冲突的信息。
+[*]添加了 控制变量 rd_reduce_motion，禁用一些UI动画。
+[*]添加了 一些诊断数据到Steam大厅。
+[/list]
+
+[h1]映射[/h1]
+[list]
+[*]添加了一个新实体 rd_briefing_camera，以将关卡的一部分显示为简报的背景。映射器应尽量将大动作保持在最低限度（例如，避免使用 rd_briefing_camera 或让它指向旋转的投影纹理），因为此版本的简报背景不会受到 rd_reduce_motion 的影响。
+[*]在 asw_gamerrules 中增加了一个用来设置背景视频文件名的字段。如果为空，游戏将从四个默认视频中随机选择。这个随机选择现在在客户端之间同步。
+[*]如果需要，游戏会自动从 VPK 插件中提取 BIK 文件。
+[/list]
+
+[h1]VScript[/h1]
+[list]
+[*]修复了 FileToString 从先前读取的文件中，返回一个字节的问题。
+[*][b]CBaseEntity SpawnEntityFromTable( string name, table )[/b] // 根据表中的键值对生成实体 - 'name'是实体名称，其余的是需要生成的键值对。
+[*][b]int PrecacheModel( string modelName )[/b] // 在映射加载后，预存一个模型，并返回模型的索引
+[*][b]int GetModelIndex( string modelName )[/b] // 根据名称返回模型的索引
+[/list]</string><string id="subtitle"></string><string id="summary"></string><string id="title">Alien Swarm: Reactive Drop Update - 2022年8月22日</string></content>

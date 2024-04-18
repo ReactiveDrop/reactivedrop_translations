@@ -6,7 +6,7 @@
 "asw_credits_"	"Campagna di"
 "asw_credits_"	"Jean-Gabriel Finat come Hephalistofene"
 "asw_credits_"	""
-"asw_credits_"  "Grazie a Jérôme Auliac, Felix, Blaxpirit, JohnnyTheWolf, Evildave"
+"asw_credits_"	"Grazie a Jérôme Auliac, Felix, Blaxpirit, JohnnyTheWolf, Evildave"
 "asw_credits_"	"E a tutti i tester"
 "asw_credits_"	""
 "asw_credits_"	"E grazie a VALVe"

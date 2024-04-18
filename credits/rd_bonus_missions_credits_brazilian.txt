@@ -1,11 +1,11 @@
 "Credits"
 {
 // these keys must be in this order!
-"show_credits_logo" "0"
+"show_credits_logo"	"0"
 //"custom_logo"	"ExampleCustomLogo/example_custom_logo"
 "asw_credits_"	""
 "asw_credits_"	""
-"asw_credits_"	"Missão 1, Ameaça invisível, por uradzimiru"
+		"asw_credits_"	"Missão 1, Train Station Catastrophe, por jhheight"
 "asw_credits_"	""
 "asw_credits_"	"Missão 2, Arrebatamento, por Sergei 'STALKER4732' Lavrinenco"
 "asw_credits_"	""

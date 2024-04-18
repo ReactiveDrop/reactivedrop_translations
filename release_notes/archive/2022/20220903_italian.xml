@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<content><string id="body">Poiché la Stagione 2 di Eroi delle Forze Armate Interstellari volge al termine, stiamo cambiando la competizione da trimestrale a mensile. Abbiamo anche un vasto assortimento di correzioni di bug e alcune nuove funzioni VScript.
+
+[h1]Campagne[/h1]
+[list]
+[*][b]Jacob's Rest: Reattore Rydberg:[/b] Corretto un bug nell'area finale in cui i soldati potevano saltare con i jet sottoterra verso la loro morte.
+[*][b]Area 9800: Generatore della Centrale Elettrica:[/b] Corretto il problema delle passerelle strette che influiscono negativamente sul percorso dell'IA.
+[*][b]Operazione Cleansweep: Baia d'Atterraggio 7:[/b] Rimosso un soffitto invisibile vicino alla stanza delle uova a sud per evitare traiettorie poco intuitive delle granate.
+[*][b]Operazione Cleansweep: U.S.C. Medusa:[/b] Le capsule ora si riaprono se un soldato se ne va e non se sono completamente vuote.
+[*][b]Research 7: Foresta di Illyn:[/b] Corretto l'errore che permetteva ai soldati bot di bersagliare il generatore.
+[*][b]Lacrime per Tarnor: Spazioporto della Colonia di Oasis:[/b] Corretto un soft lock se un boomer utilizzato in una cinematica viene ucciso in anticipo a causa di una sfida.
+[*][b]Tilarus-5: Ospedale SynTek:[/b] Rielaborato il conto alla rovescia alla fine della missione.
+[*][b]La Fuga di Lana: Ponte di Lana:[/b] Corretto l'obiettivo di fuga che non si aggiornava quando un soldato moriva.
+[*][b]La Fuga di Lana: Fogna di Lana:[/b] Corretto l'obiettivo di fuga che non si aggiornava quando un soldato moriva.
+[*][b]La Fuga di Lana: Complesso di Lana:[/b] Allargata la zona d'evacuzione.
+[*][b]Paranoia: Punto Cruciale:[/b] Rielaborato l'incontro finale. I soldati devono difendere un generatore. Se il generatore viene danneggiato, interromperà l'avanzamento del completamento finché non sarà riparato da un tecnico. Se nessun soldato è vicino al generatore, questo subirà danni aggiuntivi.
+[*][b]Nam Humanum: Area Logistica:[/b] Geometria rielaborata in prossimità di un incendio.
+[*][b]Nam Humanum: Groundwork Labs:[/b] Risolto un problema con il danneggiamento di una porta grande, che la faceva bloccare.
+[*][b]BioGen Corporation: Minaccia Invisibile:[/b] Aggiunti indicatori e indizi visivi per la stanza della ventilazione in modo da facilitare la navigazione dei giocatori che non conoscono la strada.
+[*][b]Missione Bonus 7:[/b] Corretto il problema delle passerelle strette che influiscono negativamente sul percorso dell'IA.
+[/list]
+
+[h1]Alieni[/h1]
+[list]
+[*]Aggiunti gli effetti sonori della campagna City 17 per la Regina.
+[/list]
+
+[h1]Armi[/h1]
+[list]
+[*]Corretto il calcolo della probabilità di perforazione per i proiettili che hanno attraversato una porta o un altro oggetto non vivente. (Il 200% di probabilità, il 290% di probabilità e il 300% di probabilità diventano ora il 100% di probabilità di perforare un altro bersaglio, anziché lo 0%, il 90% e lo 0%).
+[*][b]Unità Lanciafiamme M868:[/b] Raddoppiate le munizioni per caricatore e il consumo di munizioni. L'attacco primario ora utilizza un'unità di carburante per colpo.
+[*][b]Minigun IAF:[/b] Raddoppiate le munizioni per caricatore e il consumo di munizioni. L'attacco primario ora utilizza un'unità di carburante per colpo.
+[/list]
+
+[h1]Traduzioni[/h1]
+[list]
+[*]Aggiornata la traduzione in Cinese.
+[*]Aggiornata la traduzione in Tedesco.
+[*]Aggiornata la traduzione in Italiano.
+[*]Aggiornata la traduzione in Giapponese.
+[*]Aggiornata la Traduzione in Russo.
+[/list]
+
+[h1]Varie[/h1]
+[list]
+[*]Corretto il problema degli addon non del Workshop che si comportavano come se fossero disabilitati nel menu di selezione missione.
+[*]Corretto un arresto anomalo all'avvio se la variabile ambientale PATH era molto lunga.
+[*]Aggiunta una impostazione avanzata per ridurre il movimento nei menu.
+[*]Migliorata la navigazione con tastiera/controller nelle Impostazioni Avanzate e Impostazioni di Gioco.
+[*]Aggiunto un avviso nella lobby se hai una versione della mappa differente rispetto all'host.
+[*]prop_dynamic ora utilizza una tempistica delle animazioni guidata dal server. Questo risolve il problema della desincronizzazione delle animazioni di apertura delle porte del caveau, ma aumenta i requisiti di larghezza di banda della rete nelle missioni che utilizzano molti oggetti di scena animati.
+[/list]
+
+[h1]Mapping[/h1]
+[list]
+[*]Corretta la compilazione di npc_bullseye a causa di una chiave troppo lunga.
+[*]npc_bullseye ora eredita le relazioni con l'IA della sua fazione e non è un nemico di tutti per impostazione predefinita.
+[*]ai_relationship ora ritarda l'applicazione del suo effetto all'inizio del gioco piuttosto che all'avvio della mappa.
+[/list]
+
+[h1]VScript[/h1]
+[list]
+[*]Aggiunta la nuova classe VScript TempEnts che consente di creare entità temporanee nei client.
+[*]Aggiunte nuove funzioni VScript globali da utilizzare per la creazione di entità temporanee.
+[*]Aggiunta la classe PlayerVoiceListener a VScript con accesso alle seguenti funzioni.
+[*]Aggiunta una nuova funzione VScript per CASW_Player.
+[/list]
+
+[h2]TempEnts[/h2]
+
+[code]void Create( CBasePlayer player, string name, float delay, table )[/code]
+Mette in coda un'entità temporanea per la trasmissione a un client da una tabella di dati SendProp passata.
+Se si passa null per un giocatore, l'entità temporanea verrà riprodotta su tutti i client.
+
+[code]void GetPropTypes( string name, table )[/code]
+Riempie una tabella passata con tutti i SendProps e i loro tipi per l'entità temp.
+
+[code]void GetNames( table )[/code]
+Riempie una tabella passata con i nomi di tutte le entità temporanee.
+
+[h2]PlayerVoiceListener[/h2]
+
+[code]bool IsPlayerSpeaking( int nPlayerIndex )[/code]
+Riporta se il giocatore specificato sta parlando.
+
+[code]float GetPlayerSpeechDuration( int nPlayerIndex )[/code]
+Riporta il numero di secondi in cui il giocatore ha parlato ininterrottamente.
+
+[h2]Global[/h2]
+
+[code]int PrecacheParticleSystem( string name )[/code]
+Memorizza nella cache un materiale particellare
+
+[code]int GetParticleSystemIndex( string name )[/code]
+Converte un materiale precedentemente memorizzato nella cache in un indice
+
+[code]string GetParticleSystemNameFromIndex( int index )[/code]
+Converte un indice di materiale precedentemente memorizzato nella cache in una stringa.
+
+[code]void PrecacheEffect( string name )[/code]
+Memorizza nella cache un effetto
+
+[code]int GetEffectIndex( const char *name )[/code]
+Converte un effetto precedentemente memorizzato nella cache in un indice.
+
+[code]string GetEffectNameFromIndex( int index )[/code]
+Converte un indice di effetto precedentemente memorizzato nella cache in una stringa
+
+[code]int GetDecalIndexForName( string name )[/code]
+Ottieni l'indice della decalcomania da una stringa
+
+[h2]CASW_Player[/h2]
+
+[code]CBaseEntity GetNPC()[/code]
+Riporta l'entità che il giocatore sta abitando
+
+[code]CBaseEntity GetSpectatingNPC()[/code]
+Riporta l'entità di cui il giocatore è spettatore
+
+[code]CBaseEntity GetViewNPC()[/code]
+Riporta l'entità di cui il giocatore è spettatore, altrimenti restituisce l'entità che lo abita.
+
+[code]CASW_Marine GetMarine()[/code]
+Riporta il soldato che il giocatore sta comandando
+
+[code]CBaseEntity FindPickerEntity()[/code]
+Trova l'entità più vicina di fronte al giocatore.
+
+[code]Vector GetCrosshairTracePos()[/code]
+Riporta la posizione del mondo direttamente sotto il mirino del giocatore</string><string id="subtitle"></string><string id="summary"></string><string id="title">Aggiornamento di Alien Swarm: Reactive Drop - 3 Settembre 2022</string></content>

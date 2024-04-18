@@ -3,7 +3,7 @@
 // these keys must be in this order!
 "show_credits_logo"	"0"
 "custom_logo"	"image_addon/image_addon"
-"asw_credits_"	"Campaign made by Eclipse."
+"asw_credits_"	"Feldzug erstellt von Eclipse."
 "asw_credits_"	"Besonderen Dank an:"
 "asw_credits_"	"-> Frere d'Arme als einer meiner Haupttester. (Entwickler der Wilson Chronicles [HL² mod])."
 "asw_credits_"	"-> DaltonCarl (Gab mir einige Ideen / Beta-tester)."

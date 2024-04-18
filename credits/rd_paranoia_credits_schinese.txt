@@ -7,7 +7,7 @@
 "asw_credits_"	"特别感谢："
 "asw_credits_"	"-> Frere d'Arme是我的主要测试者之一。（Wilson Chronicles 的领导 [HL² mod]）"
 "asw_credits_"	"-> DaltonCarl（给了我一些想法 / Beta测试员）。"
-"asw_credits_"	"-> Majstor（语句 / Beta测试员）"
+"asw_credits_"	"-> Majstor（文案 / Beta测试员）"
 "asw_credits_"	"-> sebik1992."
 "asw_credits_"	"-> Comadreja."
 "asw_credits_"	"-> Robot_Rooster."

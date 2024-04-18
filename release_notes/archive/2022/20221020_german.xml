@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<content><string id="body">Das heutige Update behebt einige Ungereimtheiten bei verschiedenen Waffen und Feldzügen. Außerdem können nun einzelne Soldaten mit Bildschirmeffekten versehen werden und es gibt einen neuen Trigger, um verschiedene HDR-Einstellungen auf verschiedene Bereiche einer Karte anzuwenden.
+
+[h1]Feldzüge[/h1]
+[list]
+[*][b]Jakobsruhe: Timor Station:[/b] Die Wegfindung der NSCs am Ende des Einsatzes wurde verbessert.
+[*][b]Forschung 7: Jericho Minen:[/b] Es wurde behoben das Zielmarkierungen nicht mehr aktualisiert wurden, wenn das Ziel erreicht war.
+[*][b]Forschung 7: Jericho Minen:[/b] Verzögerung durch Physikberechnungen für fallende Rohre behoben.
+[*][b]Tränen für Tarnor: Verlassene Wartungstunnel:[/b] Unerwartet hohe Kollisionen mit Wänden, die sich negativ auf Granaten auswirken, wurden behoben.
+[*][b]Tilarus-5: Yanaurus Mine:[/b] Es wurde behoben, dass Wände bei gedrehter Kamera unsichtbar waren.
+[*][b]Tilarus-5: Vergessene Fabrik:[/b] Es wurde behoben, dass Wände bei gedrehter Kamera unsichtbar waren.
+[*][b]Lanas Flucht: Lanas Brücke:[/b] Leistungsoptimierungen an der Beleuchtung und am Alien-Spawn einer Filmsequenz vorgenommen.
+[*][b]Nam Humanum: Plattform XVII:[/b] Die Techniker-Anforderung wurde entfernt, nachdem der letzte Hack abgeschlossen wurde.
+[*][b]Nam Humanum: Grundstein Laboratorien:[/b] Das Countdown-Ziel wird nicht mehr vorzeitig beendet.
+[*][b]Nam Humanum: Grundstein Laboratorien:[/b] Unerwartet helle Beleuchtung behoben.
+[*][b]Nam Humanum: Grundstein Laboratorien:[/b] Verbesserte Bot Navigation.
+[*][b]BioGen Gesellschaft: Operation x5:[/b] Todesfallen waren nicht mehr tödlich genug.
+[*][b]BioGen Gesellschaft: Operation x5:[/b] Es wurde behoben, dass Aliens im Endaufzug spawnen konnten, wodurch dieser stecken blieb.
+[*][b]BioGen Gesellschaft: BioGen Labore:[/b] Eine Unsichtbare Deckenkollisionen wurden entfernt.
+[/list]
+
+[h1]Waffen[/h1]
+[list]
+[*][b]IAF Minigun:[/b] Nachladen mit einer ungeraden Munitionsanzahl, die zu 499/500 Munition führte, wurde behoben.
+[*][b]Taschenlampe:[/b] Diese Waffe reflektiert jetzt Licht wie andere Waffen auch.
+[*][b]Granatwerfer:[/b] Ein Fehler wurde behoben, der dazu führte, dass Granaten doppelt explodierten, wenn sie einen Alien direkt trafen. Stattdessen richten Granaten jetzt doppelten Schaden an, wenn sie einen Charakter (Soldat oder Alien) treffen. Dies behebt den Spritzschaden eines direkten Treffers, der den Ein-Treffer-Schutz umgeht, und erhöht den Schaden des Granatwerfers geringfügig (die erste Explosion stieß die Gegner vor der zweiten Explosion etwas von der Granate weg).
+[*][b]Desert Eagle:[/b] Diese Waffe wurde in PS50 Bulldog umbenannt, hat ein neues Aussehen und neue Sounds.
+[*][b]Mobile Amp-Heileinheit:[/b] Aktualisierter Skin, um sie von der normalen Mobile Heileinheit zu unterscheiden.
+[*][b]Gasgranaten[/b] Die Granatenbox wurde aktualisiert, damit sie dem Stil der anderen Granaten-Gegenstände entspricht.
+[/list]
+
+[h1]Aliens[/h1]
+[list]
+[*]Die Larven reflektieren das Licht wie andere Aliens auch.
+[*]Raffer spawnen keine Xenomiten mehr, wenn sie durch einen direkten Granattreffer getötet werden, der mehr als das Doppelte ihrer verbleibenden Lebenspunkte verursacht.
+[/list]
+
+[h1]Übersetzungen[/h1]
+[list]
+[*]Aktualisierte chinesische Übersetzung.
+[*]Aktualisierte deutsche Übersetzung.
+[*]Aktualisierte europäisch portugiesische Übersetzung.
+[*]Aktualisierte italienische Übersetzung.
+[*]Aktualisierte japanische Übersetzung.
+[*]Aktualisierte koreanische Übersetzung.
+[*]Aktualisierte russische Übersetzung.
+[*]Es wurde behoben, dass Übersetzungen nach 1023 Bytes automatisch abgeschnitten wurden. Übersetzungen können jetzt bis zu 4095 Bytes lang sein und eine Warnung wird auf der Konsole ausgegeben, wenn sie länger sind.
+[/list]
+
+[h1]Verschiedenes[/h1]
+[list]
+[*]Es wurde geändert, wie animierte Props vernetzt werden. Die Änderung aus dem letzten Update, dass der Server die Animationen steuert, wurde rückgängig gemacht. Stattdessen sind bestimmte Props unabhängig von der Entfernung immer für den Client sichtbar. Wenn du einem Spiel beitrittst, nachdem eine Animation begonnen hat, werden die Animationen verspätet abgespielt, das sollte das Stottern beheben.
+[*]Die Controller-Navigation in den erweiterten Einstellungen wurde verbessert.
+[*]Einige Beispiel-Farbkorrekturdateien wurden hinzugefügt.
+[*]Explosionen verursachen jetzt innerhalb eines kleinen Radius um ihr Epizentrum den vollen Schaden, der Schaden nimmt erst jenseits dieser Entfernung ab.
+[*]Techniker können jetzt die Startsequenz eines nicht gesperrten Computers mit herunterladbaren Daten manuell überschreiben und starten den Hack bei einem gesperrten Computer automatisch nach 4 Sekunden.
+[/list]
+
+[h1]Mapping[/h1]
+[list]
+[*]Der brush [b]trigger_tonemap[/b] wurde hinzugefügt. Dieser Trigger setzt den aktiven Tonemap-Controller für Zeichen innerhalb seines Volumens außer Kraft und wird von der neuen SetTonemapController VScript-Funktion außer Kraft gesetzt.
+[*]Das [b]fog_volume[/b] basiert nun auf der Position der Augen des aktuell gesteuerten Charakters und nicht mehr auf der Kameraposition. Einige Karten müssen möglicherweise bearbeitet werden, um ihre fog_volume-Entitäten nach Norden zu verschieben, wenn sie ursprünglich erstellt wurden, um die Kameraverschiebung zu kompensieren. fog_volume kann jetzt von den neuen VScript-Funktionen SetFogController, SetPostProcessController und SetColorCorrection überschrieben werden.
+[*]Zu [b]asw_spawner[/b] wurde eine Option hinzugefügt, mit der die Skalierung des Gemetzels bei Spawnern ignoriert werden kann, bei denen die Anzahl der Aliens aufgrund eines höheren Schwierigkeitsgrades unerwünscht ist (z.B. bei Spawnern, die für Filmsequenzen verwendet werden).
+[*]Es gibt jetzt zusätzliche Kolonistenmodelle, die als Ragdolls verwendet werden können.
+[/list]
+
+[h1]VScript[/h1]
+[list]
+[*][b]CASW_Marine::GetMarineName()[/b] leaked nicht mehr bei jedem Aufruf Speicher und übersetzt den Namen jetzt richtig.
+[*]Methode [b]GetCommander[/b] für bewohnbare NPCs (z.B. Soldaten) hinzugefügt.
+[*]Methode [b]SetFogController[/b] für bewohnbare NPCs hinzugefügt.
+[*]Methode [b]SetPostProcessController[/b] für bewohnbare NPCs hinzugefügt.
+[*]Methode [b]SetColorCorrection[/b] für bewohnbare NPCs hinzugefügt.
+[*]Methode [b]SetTonemapController[/b] für bewohnbare NPCs hinzugefügt.
+[/list]</string><string id="subtitle"></string><string id="summary"></string><string id="title">Alien Swarm: Reactive Drop Update - 20. Oktober 2022</string></content>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<content><string id="body">Heute feiert Alien Swarm: Reactive Drop sein 6-jähriges Bestehen auf Steam. Du bekommst die ganze Woche [url=https://store.steampowered.com/news/app/563560/view/3267945303130139335]doppelte Erfahrungspunkte[/url], aber wir wissen, warum du wirklich hier bist. Lass uns ein paar Geschenke auspacken:
+
+[h1]Neuer Feldzug: Unfall 32[/h1]
+
+Mysteriöse, scheinbar harmlose, grün leuchtende Edelsteine werden unter dem Boden eines bewohnten Gebietes entdeckt, weil die Radioaktivität abnormal hoch ist. Die Firma "AMBER" kam, um dieses übernatürliche Material zu untersuchen. Die Funde sind erschreckend und undokumentiert und werden von der Öffentlichkeit ferngehalten. Die Edelsteine erweisen sich als extrem gefährliche, außerirdische Materialien, die hauptsächlich aus Myonen bestehen. Die von ihnen ausgehende Strahlung verändert alle biologischen Strukturen in einem großen Umkreis.
+
+Ursprünglich im Mai 2020 und Mai 2022 auf dem Steam Workshop veröffentlicht, ist Unfall 32 ein Feldzug mit sechs Einsätzen, die zwei Feldzüge mit je drei Einsätzen zu einer kombiniert. Die Soldaten machen sich auf den Weg, um den mysteriösen Komplex und das Hauptquartier der Firma "AMBER" zu erkunden und sich dabei vielen Bedrohungen zu stellen. Als Bonus ist der Einsatz "AMBER-Komplex" enthalten, in der die ersten drei Einsätze zu einem zusammengefasst sind.
+
+[h1]Neuer Feldzug: Adanaxis[/h1]
+
+TODO
+
+[h1]INVENTAR: Waffen, Ausrüstung und Swarmopedia[/h1]
+
+TODO
+
+[h1]Mapping-Wettbewerb 2023: "Boss Fight"[/h1]
+
+Dieses Jahr veranstalten wir unseren ersten jährlichen Community Mapping-Wettbewerb, und wo könnte man besser anfangen als am Ende? Das Thema für dieses Jahr lautet [b]Boss Fight[/b].
+
+Erstelle einen Einsatz oder kurzen Feldzug, der einen Bosskampf enthält - eine geskriptete Begegnung mit einem großen Bösen, den die Spieler überwinden müssen. Wird der Boss ein Alien, eine Gruppe von Aliens oder etwas ganz Neues sein? Wo findet der Einsatz statt? Warum sind die Soldaten dort? All diese Fragen und mehr musst du in den kommenden Monaten bedenken.
+
+Wenn du eine bessere Idee hast, kannst du sie auch selbst machen! AS:RD Mapping-Wettbewerb-Themas sind optional.
+
+Die Beiträge müssen getaggt sein mit [b]BossFight2023[/b]. Der Wettbewerb beginnt heute und endet am 1. August. Zu den Preisen gehören einzigartige Ingame-Medaillen. Wenn du Hilfe bei den ersten Schritten brauchst, schau im [url=https://steamcommunity.com/app/563560/discussions/1/]Modding / Mapping Help and Tips[/url] Forum nach.
+
+[h1]Falls du es verpasst hast[/h1]
+
+Hier sind einige Highlights der Updates seit dem letzten Jahrestag:
+[list]
+[*]Workshop-Erweiterungen können jetzt Videos enthalten und Einsätze können ihr eigenes Einweisung-Hintergrundvideo definieren oder sogar einen Teil der Welt als Hintergrund während der Einweisung zeigen.
+[*]Wir sind Steam Deck verifiziert! Das Spiel läuft großartig auf dem Steam Deck und auch Spieler auf Linux oder die einen Controller benutzen, haben Verbesserungen festgestellt.
+[*]Es gibt jetzt Medaillen, die du dir verdienen kannst, indem du bei der Entwicklung des Spiels hilfst, einen Beitrag zum Steam-Community-Hub leistest oder an einer Saison von Helden der interstellaren Streitkräfte teilnimmst.
+[*]Die sich langsam öffnenden Türen, die in vielen Einsätzen verwendet werden, haben jetzt genauere Kollisionsdaten, die es dir ermöglichen, durch eine teilweise geöffnete Tür zu treten oder zu schießen.
+[*]Der völlig neue Einsatzauswahlbildschirm unterstützt Bonus-Karten und neue Endlos Einsätze.
+[*]Wir haben ein Menü für erweiterte Einstellungen und ein Menü für erweiterte Audioeinstellungen hinzugefügt.
+[*]Beim Neustart eines Einsatzes wird kein Ladebildschirm mehr angezeigt.
+[/list]
+
+[h1]Andere Änderungen in diesem Update[/h1]
+
+[h2]Feldzüge[/h2]
+[list]
+[*][b]Bereich 9800: Ödland:[/b] Ein Raffer blieb während der Einführungsszene des finalen Spießrutenlaufs im Ausgang stecken.
+[*][b]Tilarus-5: Arktische Infiltration:[/b] Es wurde behoben, dass Überdrohnen kurz nach dem Start des Einsatzes erscheinen und wieder verschwinden.
+[*][b]Tilarus-5: SynTek Krankenhaus:[/b] Alarmtöne sind jetzt lauter.
+[*][b]Lanas Flucht: Lanas Brücke:[/b] Erhebliche Leistungsoptimierungen bei Beleuchtung, Rendering und Pfadfindung.
+[*][b]Lanas Flucht: Lanas Abwasserkanal:[/b] Die radioaktiven Fässer in der Arena fügen den Schamanen mehr Schaden zu.
+[*][b]Paranoia: Unerwartete Begegnungen:[/b] Fehler im Zusammenhang mit dem Zielen von Granatwerfern wurden behoben.
+[*][b]Paranoia: Feindliche Orte:[/b] Fehler im Zusammenhang mit dem Zielen von Granatwerfern wurden behoben.
+[*][b]Bunker:[/b] Die Kollision mit einem unsichtbaren Deckenbalken wurde entfernt.
+[/list]
+
+[h2]Waffen[/h2]
+[list]
+[*][b]ML30 Laser Haftminen:[/b] Verbesserte Netzvorhersage für Wurfanimation.
+[*][b]M868 Flammenwerfer:[/b] Treibstofftanks, die nur eine halbe Nachladung an Munition liefern wurden behoben.
+[*]Die Scan-Animation für Wächter, die aus dem Ruhewinkel des Geschützes ausscheren, wurde behoben.
+[*]Unstimmigkeiten im Code der Kollisionsprüfung wurden behoben, vor allem im Zusammenhang mit Bots und Geschossen.
+[/list]
+
+[h2]Verschiedenes[/h2]
+[list]
+[*]Für den Befehl buildcubemaps muss jetzt sv_cheats aktiviert sein.
+[*]Ein Absturz wurde behoben, wenn ein Alien versuchte, ein physikalisches Objekt auf ein Ziel zu werfen, das gestorben war.
+[*]Ein Absturz beim Verlassen eines Bildschirms mit einem geöffneten Dropdown-Menü wurde behoben.
+[*]Es wurde behoben, das dem Spieler empfohlen wird eine Tür zu schweißen, die bereits so beschädigt ist, dass sie sich nicht mehr öffnen oder schließen lässt.
+[*]Die weiße, abgerundete, quadratische Tür, die in einigen benutzerdefinierten Karten verwendet wird, fiehl manchmal in die falsche Richtung.
+[*]Es wurde behoben, dass Charaktere in der Lobby nicht ausgewählt waren, wenn ein Bonuseinsatz, der durch eine Abstimmung gestartet wurde, neu gestartet wurde.
+[*]Das Chat-Panel kann jetzt im Einzelspieler geöffnet werden (zur Verwendung in benutzerdefinierten Herausforderungen).
+[/list]
+
+[h2]Mapping[/h2]
+[list]
+[*]npc_crow, npc_pigeon, und npc_seagull hinzugefügt.
+[*]asw_env_shake kann jetzt markiert werden, um Benutzereinstellungen zu umgehen (ein neuer Convar wurde hinzugefügt, um [i]alle[/i] Shakes unabhängig von dieser Markierung zu deaktivieren).
+[*]env_headcrabcanister hinzugefügt.
+[*]script_intro hinzugefügt.
+[*]Ein neues Proxy-Material, LanguagePreference, kann verwendet werden, um eine Textur auf der Grundlage der Sprachpräferenz des Spielers zu ändern. Zum Beispiel:
+[code]UnlitGeneric {
+    $basetexture "example/translated_texture_english"
+
+    Proxies {
+        LanguagePreference {
+            default "example/translated_texture_english"
+            schinese "example/translated_texture_schinese"
+            french "example/translated_texture_french"
+            resultvar "$basetexture"
+        }
+    }
+}[/code]
+[*]TileGen erwartet jetzt, dass Räume für den Modus -alldetail gebaut werden (world brushes werden zu func_detail, func_brush mit einem Namen, der mit structure_ beginnt, wird zu einem world brush).
+[*]Die Randomisierung von rd_tilegen_instance wurde verbessert.
+[*]rd_tilegen_instance sucht jetzt in reactivedrop/tilegen/instances und nicht mehr in reactivedrop/tilegen/instance/ThemeName.
+[*]TileGen flacht jetzt Instanzen ab, bevor es die Karte an VBSP sendet, sodass TileGen-Raumsets in VPKs oder auf dem Workshop verteilt werden können. Das bedeutet auch, dass rd_tilegen_instance innerhalb von Instanzen verwendet werden kann.
+[*]TileGen-Karten verwenden jetzt toolsskybox für ein level seal und ermöglichen die Verwendung von light_environment und light_directional.
+[/list]
+
+[h2]VScript[/h2]
+[list]
+[*]Den Soldaten wurde eine neue Methode hinzugefügt: SetMarineRolls, mit der Karten und Herausforderungen ändern können, ob einzelne Soldaten springen können.
+[/list]</string><string id="subtitle">Es ist der Alien Swarm: Reactive Drop's Geburtstag!</string><string id="summary">Heute feiert Alien Swarm: Reactive Drop sein 6-jähriges Bestehen auf Steam. Hier ist eine Woche mit doppelter Erfahrung, zwei neuen Feldzügen und ein paar anderen Leckereien zum Feiern.</string><string id="title">Alien Swarm: Reactive Drop Update - 20. April 2023</string></content>

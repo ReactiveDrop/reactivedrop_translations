@@ -1,0 +1,18 @@
+"Credits"
+{
+// these keys must be in this order!
+"show_credits_logo"	"1"
+"custom_logo"	"ExampleCustomLogo/example_custom_logo"
+"asw_credits_"	"ここに製作者名を入れる"
+"asw_credits_"	""
+"asw_credits_"	"スタッフロールは以下のファイル配置になる"
+"asw_credits_"	"addons/ExampleAddon/resource/CustomCampaignCredits.txt"
+"asw_credits_"	""
+"asw_credits_"	""
+"asw_credits_"	""
+"asw_credits_"	"Alien Swarmのコンテンツ作成と"
+"asw_credits_"	"配布方法に関する情報は"
+"asw_credits_"	"Valve Developer Wikiの"
+"asw_credits_"	"Alien Swarmセクションにあります"
+"asw_credits_"	"http://developer.valvesoftware.com/"
+}
