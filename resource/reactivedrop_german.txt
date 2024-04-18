@@ -10256,9 +10256,9 @@
 // Only shown to the player who tried to pick up the item. %s1 is the name of the crafting material. %s2 is a number like 37. %s3 is a non-translated string like k_EResultIOFailure.
 "[english]rd_crafting_pickup_error"		"Encountered a problem while trying to pick up '%s1'. The material has moved to somewhere else. (Error %s2: %s3)"
 "rd_crafting_pickup_error"		"Beim Versuch, \"%s1\" abzuholen, ist ein Problem aufgetreten. Das Material hat sich an einen anderen Ort bewegt. (Fehler %s2: %s3)"
-		// %s1 is a crafting material name like Scrap Metal.
-		"[english]rd_crafting_pickup_prompt"		"Collect %s1"
-		"rd_crafting_pickup_prompt"		"Collect %s1"
+// %s1 is a crafting material name like Scrap Metal.
+"[english]rd_crafting_pickup_prompt"		"Collect %s1"
+"rd_crafting_pickup_prompt"		"%s1 aufnehmen"
 
 "[english]rd_mission_modifier_workshop"		"This mission was downloaded from the Steam Workshop."
 "rd_mission_modifier_workshop"		"Dieser Einsatz wurde aus dem Steam Workshop heruntergeladen."
