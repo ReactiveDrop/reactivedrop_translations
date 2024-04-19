@@ -6,7 +6,7 @@ GAME
 
 "MailFrom1"	"De: Laura Callen"
 "MailDate1"	"Data: 18/12/52"
-"MailSubject1"	"Assunto: Re: Carga da remessa"
+"MailSubject1"	"Assunto: Re: Remessa da Carga"
 "MailBody1A"	"Ei Brad,"
 "MailBody1B"	"Isto é estranho. Pesquisei nossos registros de transporte, mas não há nada registrado para 'Entrega 4903877'."
 "MailBody1C"	"Sugiro que segure a carga até eu rastrear a origem. Foi enviado de algum lugar dentro do complexo principal. Não deve ser muito difícil descobrir quem te encaminhou esse pedido."
@@ -14,7 +14,7 @@ GAME
 
 "MailFrom2"	"De: Laura Callen"
 "MailDate2"	"Data: 18/12/52"
-"MailSubject2"	"Assunto: Re:Re: Carga da remessa"
+"MailSubject2"	"Assunto: Re:Re: Remessa da Carga"
 "MailBody2A"	"Brad, parece que Cain é o remetente. Questionei ele sobre isso e ele negou tudo. Ele disse que qualquer um poderia ter usado aquele computador, o quê é verdade, mas ainda não acredito nele."
 "MailBody2B"	"Eu quero que você inspecione esses contêineres antes que eles saiam do compartimento de carga."
 

@@ -1,0 +1,13 @@
+GAME
+{
+// PDA belongs to Leonid Toptunov
+
+// Sent
+
+"MailFrom1"	"Para: Nathan Poe"
+"MailDate1"	"Data: 25/08/32"
+"MailSubject1"	"Assunto: Instabilidade do Reator &OCULTO"
+"MailBody1A"	"Você disse que desligaria o reator se a temperatura ficasse novamente subitamente instável, mas isso era uma mentira! Está instável desde maio e não faço ideia de como o Reator ainda não explodiu!"
+"MailBody1B"	"PRECISAMOS DESLIGAR O REATOR AGORA! Eu não me importo com o surto de espécimes nos Setores 3 e 4 e o que AMBER diz sobre o perigo de infestação, O Reactor é a nossa principal preocupação no momento."
+"MailBody1C"	"Com a merda dos meus cumprimentos, Leonid Toptunov"
+}
