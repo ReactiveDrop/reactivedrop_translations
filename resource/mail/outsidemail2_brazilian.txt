@@ -10,5 +10,5 @@ GAME
 "MailBody1A"	"E ae Brian,"
 "MailBody1B"	"Continuamos nos desencontrando."
 "MailBody1C"	"Você ouviu falar da contaminação? Eles isolaram os laboratórios indefinidamente. Apenas o Ming tem acesso. Os guardas de segurança armados estão estacionados nos elevadores."
-"MailBody1D"	"Com amor, Helen. PS: O gato de Kate desapareceu de novo."
+"MailBody1D"	"Com amor, Helen. PS: O gato da Kate desapareceu de novo."
 }

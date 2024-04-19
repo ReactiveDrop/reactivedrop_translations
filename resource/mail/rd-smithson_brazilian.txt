@@ -4,27 +4,27 @@ GAME
 
 // Inbox
 
-"MailFrom1"	"From: James Shluger"
-"MailDate1"	"Date: 09/10/57"
-"MailSubject1"	"Subject: Faulty door"
+"MailFrom1"	"De: James Shluger"
+"MailDate1"	"Data: 10/09/57"
+"MailSubject1"	"Assunto: Porta defeituosa"
 "MailBody1A"	"Andrew,"
-"MailBody1B"	"The stairwell door near hangar 7 is giving trouble again, could you head over there and see what you can do with it? Thanks."
+"MailBody1B"	"A porta da escada perto do hangar 7 está dando problemas novamente, você poderia ir até lá e ver o que da para fazer sobre isso? Obrigado."
 
-"MailFrom2"	"From: Oasis HR"
-"MailDate2"	"Date: 02/10/57"
-"MailSubject2"	"Subject: Your application feedback"
-"MailBody2A"	"Dear Mr. Smithson,"
-"MailBody2B"	"Your application for the role of technician within the research facilities has been reviewed. We are sorry to say that your application has been rejected at this time. However, we will keep a record of your details just in case anything turns up."
-"MailBody2C"	"The Administration would like to take this opportunity to thank you for your interest and wishes you the best of luck with all future endeavours."
-"MailBody2D"	"Jonas White - Human Resources, Oasis Colony"
+"MailFrom2"	"De: RH Oasis HR"
+"MailDate2"	"Data: 10/02/57"
+"MailSubject2"	"Assunto: Feedback da sua candidatura"
+"MailBody2A"	"Caro Sr. Smithson,"
+"MailBody2B"	"Sua candidatura para o cargo de técnico nas instalações de pesquisa foi analisada. Lamentamos informar que sua candidatura foi rejeitada neste momento. No entanto, manteremos um registro de seus dados caso algo aconteça."
+"MailBody2C"	"A Administração gostaria de aproveitar esta oportunidade para agradecer o seu interesse e desejar-lhe boa sorte em todos os empreendimentos futuros."
+"MailBody2D"	"Jonas White - Recursos Humanos, Colônia Oasis"
 
 // Sent
 
-"MailFrom3"	"To: Henry Smithson"
-"MailDate3"	"Date: 09/10/57"
-"MailSubject3"	"Subject: Re:Re:Re:hi"
-"MailBody3A"	"That's easy for you to say, you're not the one stuck in this mindless job. I swear, if I have to repair another keypad today, I think I'm going to go nuts!"
-"MailBody3B"	"and that's not the worst of it... the last few weeks, sometimes when I'm working alone, I swear I can hear something crawling about in the air vents. Maybe I'm just being paranoid but... well you remember what happened at that mining colony couple years back?"
+"MailFrom3"	"Para: Henry Smithson"
+"MailDate3"	"Data: 10/09/57"
+"MailSubject3"	"Assunto: Re:Re:Re:Oi"
+"MailBody3A"	"Isso é fácil para você falar, você não é o único preso neste trabalho estúpido. Eu juro, se eu tiver que consertar outro teclado hoje, acho que vou enlouquecer!"
+"MailBody3B"	"e isso não é nem o pior... nas últimas semanas, às vezes quando estou trabalhando sozinho, eu juro que consigo ouvir algo rastejando nas saídas de ar. Talvez eu esteja apenas sendo paranóico, mas... bem, você se lembra do que aconteceu naquela colônia de mineração alguns anos atrás?"
 "MailBody3C"	""
 "MailBody3D"	"Andy"
 }

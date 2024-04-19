@@ -1,0 +1,12 @@
+GAME
+{
+// Sent
+
+"MailFrom1"	"Para: Jacob Stankiewich"
+"MailDate1"	"Data: 04/01/31"
+"MailSubject1"	"Assunto: Re: Informações do Retller &OCULTO"
+"MailBody1A"	"Sim, o Sr. Retller já me contou sobre o surto, uma notícia assustadora. Na verdade, ultimamente tenho visto alguns insetos bostinhas na ventilação, mas sendo o cara durão que sou, resolvi a situação eu mesmo."
+"MailBody1B"	"Precisamos informar o primeiro andar sobre isso, mas é mais fácil falar do que fazer. Isso pode levar alguns meses, ou talvez anos. Somos usados ​​por esses canalhas da AMBER, não podemos fazer nada sobre isso, eles nos matariam. Malditos arrombados, isso parece uma prisão. Por enquanto aja como se você não soubesse de nada."
+"MailBody1C"	"P.S: Você descobriu o motivo do aumento repentino de temperatura no Núcleo 2B? Eu acho que podem ser os insetos. Se isso acontecer denovo seremos forçados a fechar o Reator, o que significa que o setor subterrâneo está ferrado."
+"MailBody1D"	"Nate"
+}

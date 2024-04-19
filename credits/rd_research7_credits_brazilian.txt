@@ -1,0 +1,18 @@
+"Credits"
+{
+// these keys must be in this order!
+"show_credits_logo"	"0"
+//"custom_logo"	"ExampleCustomLogo/example_custom_logo"
+"asw_credits_"	"Will 'Issus' Rogers"
+"asw_credits_"	""
+"asw_credits_"	"Qualquer bug, por favor nos contate por e-mail em:"
+"asw_credits_"	"wnrvids@hotmail.co.uk"
+"asw_credits_"	"Por favor coloque RC7 no assunto"
+"asw_credits_"	""
+"asw_credits_"	"Agradecimentos ao Alan, Jamie e Matt"
+"asw_credits_"	"pela ajuda durante os testes." 
+"asw_credits_"	"Obrigado aos membros dos fóruns do Steam"
+"asw_credits_"	"por seu apoio e auxílio."
+"asw_credits_"	"E obrigado a ambos VALVe e Black Cat"
+"asw_credits_"	"Pelo Alien Swarm e serem fodas em geral!"
+}

@@ -1,0 +1,19 @@
+GAME
+{
+// PDA belongs to Naka
+
+// Inbox
+
+"MailFrom1"	"De: Comandante"
+"MailDate1"	"Data: 25/09/63"
+"MailSubject1"	"Assunto: Ordens"
+"MailBody1A"	"Largue tudo e volte para a sala de conferências."
+
+// Sent
+
+"MailFrom3"	"Para: Comandante"
+"MailDate3"	"Data: 25/09/63"
+"MailSubject3"	"Assunto: Fase 3a concluída"
+"MailBody3A"	"As jaulas com os alienígenas experimentais estão instaladas. Pena que os invisíveis não conseguem se reproduzir"
+"MailBody3B"	"Eles devem acordar logo logo... Esses fuzileiros não têm nem chance contra eles."
+}

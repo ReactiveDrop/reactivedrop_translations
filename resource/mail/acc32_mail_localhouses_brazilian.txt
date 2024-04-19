@@ -1,0 +1,11 @@
+GAME
+{
+// Inbox
+
+"MailFrom1"	"De: Residências Locais"
+"MailDate1"	"Data: 14/11/32"
+"MailSubject1"	"Assunto: Nossa segurança"
+"MailBody1A"	"Há uma hora atrás, um de seus homens nos informou sobre o rápido crescimento dos níveis de radiação em nossa área. Você está planejando resolver isso? Se este rápido aumento continuar, seremos forçados a deixar as nossas casas amanhã ou morreremos."
+"MailBody1B"	"Por que só agora fomos não-oficialmente informados sobre isso, um dia antes do desastre acontecer? Os oficiais irão nos fornecer casas habitáveis ​​ou teremos de evacuar sozinhos, com o nosso próprio dinheiro?"
+"MailBody1C"	"Residências Locais"
+}
