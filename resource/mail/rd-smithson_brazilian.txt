@@ -10,7 +10,7 @@ GAME
 "MailBody1A"	"Andrew,"
 "MailBody1B"	"A porta da escada perto do hangar 7 está dando problemas novamente, você poderia ir até lá e ver o que da para fazer sobre isso? Obrigado."
 
-"MailFrom2"	"De: RH Oasis HR"
+"MailFrom2"	"De: RH Oasis"
 "MailDate2"	"Data: 10/02/57"
 "MailSubject2"	"Assunto: Feedback da sua candidatura"
 "MailBody2A"	"Caro Sr. Smithson,"
