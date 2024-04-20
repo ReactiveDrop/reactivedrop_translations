@@ -9,6 +9,6 @@ GAME
 "MailSubject3"	"Assunto: Cirurgia Cerebral de Arthur Carradine"
 "MailBody3A"	"Caro senhor,"
 "MailBody3B"	"A amigdalohipocampectomia do capitão Carradine ocorreu sem problemas."
-"MailBody3C"	"Embora o próprio paciente tenha solicitado a remoção de sua amígdala, entendo que você consentiu pessoalmente com o procedimento. Por esta razão particular, sinto-me obrigado a alertá-los sobre a natureza da cirurgia que acabamos de realizar e as repercussões que ela certamente causará no sistema límbico do paciente; principalmente falando, da sua reação alterada (ou melhor, a falta dela) a situações que normalmente incitam medo, angústia ou agressividade. Por favor, esteja ciente de que existem razões relevantes pelas quais este procedimento cirúrgico não foi realizado durante séculos de medicina e, mesmo assim, referia-se apenas aos casos mais graves."
+"MailBody3C"	"Embora o próprio paciente tenha solicitado a remoção de sua amígdala, entendo que você consentiu pessoalmente com o procedimento. Por esta razão em particular, sinto-me obrigado a alertá-los sobre a natureza da cirurgia que acabamos de realizar e as repercussões que ela certamente causará no sistema límbico do paciente; falando principalmente, da sua reação alterada (ou melhor, a falta dela) a situações que normalmente incitam medo, angústia ou agressividade. Por favor, esteja ciente de que existem razões relevantes pelas quais este procedimento cirúrgico não foi realizado durante séculos de medicina e, mesmo assim, referia-se apenas aos casos mais graves."
 "MailBody3D"	"Cordialmente"
 }
