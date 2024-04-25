@@ -898,7 +898,7 @@
 			"display_type_schinese": "回收材料",
 			"display_type_swedish": "Bärgat Material",
 			"display_type_vietnamese": "Vật liệu được trục vớt",
-			"icon_url": "https://stats.reactivedrop.com/static/medals/error.png",
+			"icon_url": "https://stats.reactivedrop.com/static/items/crafting/corrosive_fluid_sample.png",
 			"auto_stack": true,
 			"tags": "rarity:common;crafting_item:regional",
 			"compressed_dynamic_props": "m_unQuantity"
@@ -942,7 +942,7 @@
 			"display_type_schinese": "回收材料",
 			"display_type_swedish": "Bärgat Material",
 			"display_type_vietnamese": "Vật liệu được trục vớt",
-			"icon_url": "https://stats.reactivedrop.com/static/medals/error.png",
+			"icon_url": "https://stats.reactivedrop.com/static/items/crafting/cooled_volcanic_rock.png",
 			"auto_stack": true,
 			"tags": "rarity:common;crafting_item:regional",
 			"compressed_dynamic_props": "m_unQuantity"
@@ -986,7 +986,7 @@
 			"display_type_schinese": "回收材料",
 			"display_type_swedish": "Bärgat Material",
 			"display_type_vietnamese": "Vật liệu được trục vớt",
-			"icon_url": "https://stats.reactivedrop.com/static/medals/error.png",
+			"icon_url": "https://stats.reactivedrop.com/static/items/crafting/retrieved_documents.png",
 			"auto_stack": true,
 			"tags": "rarity:common;crafting_item:regional",
 			"compressed_dynamic_props": "m_unQuantity"
