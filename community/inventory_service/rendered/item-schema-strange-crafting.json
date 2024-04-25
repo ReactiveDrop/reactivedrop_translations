@@ -1252,6 +1252,19 @@
 			"auto_stack": true,
 			"tags": "rarity:common;crafting_item:regional",
 			"compressed_dynamic_props": "m_unQuantity"
+		},
+		{
+			"itemdefid": 4029,
+			"type": "item",
+			"name": "crafting materials beta phase 1 opt-in",
+			"game_only": true
+		},
+		{
+			"itemdefid": 4030,
+			"type": "bundle",
+			"name": "crafting materials beta phase 1 bundle",
+			"description": "beta phase 1 opt-in token, 1x strange weapon choice, 2x strange device choice, 1x bonus crafting material location discovery",
+			"bundle": "4029x1;4000x1;4001x2;7003x1"
 		}
 	]
 }
