@@ -244,7 +244,7 @@
 			"description_%LANG%": "{#item_crafting_material_corrosive_fluid_sample_description}",
 			"after_description_%LANG%": "{#item_crafting_material_multiple}",
 			"display_type_%LANG%": "{#inventory_crafting_item_regional}",
-			"icon_url": "https://stats.reactivedrop.com/static/medals/error.png",
+			"icon_url": "https://stats.reactivedrop.com/static/items/crafting/corrosive_fluid_sample.png",
 			"auto_stack": true,
 			"tags": "rarity:common;crafting_item:regional",
 			"compressed_dynamic_props": "m_unQuantity"
@@ -256,7 +256,7 @@
 			"description_%LANG%": "{#item_crafting_material_cooled_volcanic_rock_description}",
 			"after_description_%LANG%": "{#item_crafting_material_multiple}",
 			"display_type_%LANG%": "{#inventory_crafting_item_regional}",
-			"icon_url": "https://stats.reactivedrop.com/static/medals/error.png",
+			"icon_url": "https://stats.reactivedrop.com/static/items/crafting/cooled_volcanic_rock.png",
 			"auto_stack": true,
 			"tags": "rarity:common;crafting_item:regional",
 			"compressed_dynamic_props": "m_unQuantity"
@@ -268,7 +268,7 @@
 			"description_%LANG%": "{#item_crafting_material_retrieved_documents_description}",
 			"after_description_%LANG%": "{#item_crafting_material_multiple}",
 			"display_type_%LANG%": "{#inventory_crafting_item_regional}",
-			"icon_url": "https://stats.reactivedrop.com/static/medals/error.png",
+			"icon_url": "https://stats.reactivedrop.com/static/items/crafting/retrieved_documents.png",
 			"auto_stack": true,
 			"tags": "rarity:common;crafting_item:regional",
 			"compressed_dynamic_props": "m_unQuantity"
