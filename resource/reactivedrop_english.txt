@@ -4733,8 +4733,12 @@
 "rd_loadout_name_in_use"	"You have already used this name. Pick a different name."
 "rd_loadout_equipped_marines"	"Marines"
 "rd_loadout_equipped_medals"	"Medals"
+// the last-used loadout for each marine
 "rd_loadout_current"	"Current Loadout"
+// the developer-set default loadout for each marine
 "rd_loadout_default"	"Default Loadout"
+// the loadout a player has set using convars
+"rd_loadout_legacy"	"Legacy Loadout"
 
 "rd_exit_vehicle"	"Exit Vehicle"
 "rd_enter_vehicle_driver"	"Drive Vehicle"

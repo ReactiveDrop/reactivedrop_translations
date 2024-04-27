@@ -8953,10 +8953,15 @@
 		"rd_loadout_equipped_marines"		"Marines"
 		"[english]rd_loadout_equipped_medals"		"Medals"
 		"rd_loadout_equipped_medals"		"Medals"
+		// the last-used loadout for each marine
 		"[english]rd_loadout_current"		"Current Loadout"
 		"rd_loadout_current"		"Current Loadout"
+		// the developer-set default loadout for each marine
 		"[english]rd_loadout_default"		"Default Loadout"
 		"rd_loadout_default"		"Default Loadout"
+		// the loadout a player has set using convars
+		"[english]rd_loadout_legacy"		"Legacy Loadout"
+		"rd_loadout_legacy"		"Legacy Loadout"
 
 		"[english]rd_exit_vehicle"		"Exit Vehicle"
 		"rd_exit_vehicle"		"Exit Vehicle"

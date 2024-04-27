@@ -109,6 +109,17 @@
 			"name_color": "{#item_color_community}",
 			"tags": "rarity:legendary;slot:medal",
 			"item_slot": "medal"
+		},
+		{
+			"itemdefid": 45,
+			"type": "item",
+			"name_%LANG%": "{#item_event_medal_mapping_2024_name}",
+			"description_%LANG%": "{#item_event_medal_mapping_2024_description}",
+			"display_type_%LANG%": "{#item_display_type_event_medal_legendary}",
+			"icon_url": "https://stats.reactivedrop.com/static/medals/contest/mapping_participant_2024.png",
+			"name_color": "{#item_color_community}",
+			"tags": "rarity:legendary;slot:medal",
+			"item_slot": "medal"
 		}
 	]
 }
