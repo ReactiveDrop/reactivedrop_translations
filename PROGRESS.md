@@ -8,17 +8,17 @@
 | [Dutch](#non-curated-languages) | 55 | 2004 | 42 | 3163 | 259 | 209 | 712 | 147 |
 | [Finnish](#non-curated-languages) | ✔️ | 2004 | 41 | 3025 | 260 | 209 | 703 | 147 |
 | [French](#french-français) | 31 | 138 | 42 | 2528 | 258 | 209 | 652 | 126 |
-| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | 2 | 6 | ✔️ | ✔️ | ✔️ |
+| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | 1 | 6 | ✔️ | ✔️ | ✔️ |
 | [Hungarian](#non-curated-languages) | 55 | 138 | 42 | 3163 | 259 | 209 | 977 | 148 |
 | [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | 3 | 6 | ✔️ | ✔️ | ✔️ |
-| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | 2 | 6 | ✔️ | 35 | ✔️ |
+| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | 1 | 6 | ✔️ | 35 | ✔️ |
 | [Korean](#koreana-한국어) | 11 | 10 | 38 | 1659 | 259 | 31 | 448 | 49 |
 | [Norwegian Bokmål](#non-curated-languages) | 73 | 708 | 47 | 3869 | 259 | 209 | 712 | 148 |
 | [Polish](#polish-polski) | 32 | 2004 | 42 | 3163 | 259 | 209 | 708 | 144 |
 | [European Portuguese](#portuguese-português-europeu) | 4 | 180 | 32 | 2252 | 239 | 30 | 632 | 142 |
 | [Brazilian Portuguese](#brazilian-português) | 6 | 2004 | 32 | 1422 | 189 | 18 | 278 | 9 |
 | [Romanian](#non-curated-languages) | 55 | 1996 | 48 | 3875 | 259 | 209 | 977 | 148 |
-| [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | 3 | 6 | ✔️ | ✔️ | ✔️ |
+| [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | 1 | 6 | ✔️ | ✔️ | ✔️ |
 | [European Spanish](#spanish-español-de-españa) | 32 | 2004 | 40 | 2578 | 259 | 209 | 716 | 147 |
 | [Latin American Spanish](#latam-español-latinoamericano) | ✔️ | 2004 | ✔️ | 4220 | 6 | ✔️ | 203 | 141 |
 | [Swedish](#swedish-svenska) | ✔️ | ✔️ | ✔️ | 1278 | 6 | ✔️ | ✔️ | 108 |
@@ -588,7 +588,7 @@
 ### Strings
 
 - [items_german.vdf](community/inventory_service/items_german.vdf) has 6 untranslated strings.
-- [reactivedrop_german.txt](resource/reactivedrop_german.txt) has 2 untranslated strings.
+- [reactivedrop_german.txt](resource/reactivedrop_german.txt) has 1 untranslated strings.
 
 </details>
 
@@ -615,7 +615,7 @@
 
 - [items_japanese.vdf](community/inventory_service/items_japanese.vdf) has 6 untranslated strings.
 - [platform/vgui_japanese.txt](platform/vgui_japanese.txt) has 35 untranslated strings.
-- [reactivedrop_japanese.txt](resource/reactivedrop_japanese.txt) has 2 untranslated strings.
+- [reactivedrop_japanese.txt](resource/reactivedrop_japanese.txt) has 1 untranslated strings.
 
 </details>
 
@@ -1119,7 +1119,7 @@
 ### Strings
 
 - [items_russian.vdf](community/inventory_service/items_russian.vdf) has 6 untranslated strings.
-- [reactivedrop_russian.txt](resource/reactivedrop_russian.txt) has 3 untranslated strings.
+- [reactivedrop_russian.txt](resource/reactivedrop_russian.txt) has 1 untranslated strings.
 
 </details>
 
