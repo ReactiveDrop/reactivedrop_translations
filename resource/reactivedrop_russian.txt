@@ -293,7 +293,7 @@
 "[english]asw_piercingbullets_desc"		"Provides a chance for bullets to pierce\nenemies and continue out the other side."
 "asw_piercingbullets_desc"		"Увеличивает вероятность пробиваемости\nпуль сквозь врагов."
 "[english]asw_healing_desc"		"Increases healing power of healing\nitems and the total amount carried."
-"asw_healing_desc"		"Увеличивает силу лечения и количество\nпереносимых зарядов."
+"asw_healing_desc"		"Увеличивает эффективность лечения и количество\nпереносимых зарядов."
 "[english]asw_xenowound_desc"		"Allows the medic to heal infested marines,\nreducing the duration of the infestation."
 "asw_xenowound_desc"		"Позволяет медику лечить союзников под инвазией,\nуменьшая длительность инвазии."
 "[english]asw_combatdrugs_desc"		"Boosts effectiveness of adrenaline\nwhen used by your squad."
@@ -5820,9 +5820,9 @@
 "rd_weapon_fact_more_accurate_while_crouching_heavy_rifle_exception"		"Нет бонуса точности пригнувшись."
 "[english]rd_weapon_fact_prevents_and_reverses_infestation"		"Prevents and reverses infestation."
 "rd_weapon_fact_prevents_and_reverses_infestation"		"Предотвращает инвазию и обращает её вспять."
-		"[english]rd_weapon_fact_healing_cures_infestation"		"Healing cures infestation."
-		// This is currently the translation of the previous string so that we don't show an English string while this is being translated. When you fix, feel free to delete this comment as well.
-		"rd_weapon_fact_healing_cures_infestation"		"Предотвращает инвазию и обращает её вспять."
+"[english]rd_weapon_fact_healing_cures_infestation"		"Healing cures infestation."
+// This is currently the translation of the previous string so that we don't show an English string while this is being translated. When you fix, feel free to delete this comment as well.
+"rd_weapon_fact_healing_cures_infestation"		"Лечение устраняет инвазию."
 "[english]rd_weapon_fact_extinguishes_fires"		"Extinguishes fires."
 "rd_weapon_fact_extinguishes_fires"		"Тушит огонь."
 "[english]rd_weapon_fact_secondary_uses_primary_ammo"		"Secondary fire uses primary ammo."
@@ -10262,9 +10262,9 @@
 // Only shown to the player who tried to pick up the item. %s1 is the name of the crafting material. %s2 is a number like 37. %s3 is a non-translated string like k_EResultIOFailure.
 "[english]rd_crafting_pickup_error"		"Encountered a problem while trying to pick up '%s1'. The material has moved to somewhere else. (Error %s2: %s3)"
 "rd_crafting_pickup_error"		"При попытке забрать [%s1] возникла проблема. Материал переместился в другое место. (Ошибка %s2: %s3)"
-		// %s1 is a crafting material name like Scrap Metal.
-		"[english]rd_crafting_pickup_prompt"		"Collect %s1"
-		"rd_crafting_pickup_prompt"		"Collect %s1"
+// %s1 is a crafting material name like Scrap Metal.
+"[english]rd_crafting_pickup_prompt"		"Collect %s1"
+"rd_crafting_pickup_prompt"		"Собрать: %s1"
 
 "[english]rd_mission_modifier_workshop"		"This mission was downloaded from the Steam Workshop."
 "rd_mission_modifier_workshop"		"Эта миссия была загружена из мастерской Steam."
