@@ -8959,9 +8959,9 @@
 // the developer-set default loadout for each marine
 "[english]rd_loadout_default"		"Default Loadout"
 "rd_loadout_default"		"デフォルトの装備セット"
-		// the loadout a player has set using convars
-		"[english]rd_loadout_legacy"		"Legacy Loadout"
-		"rd_loadout_legacy"		"Legacy Loadout"
+// the loadout a player has set using convars
+"[english]rd_loadout_legacy"		"Legacy Loadout"
+"rd_loadout_legacy"		"旧式の装備セット"
 
 "[english]rd_exit_vehicle"		"Exit Vehicle"
 "rd_exit_vehicle"		"乗り物から出る"
