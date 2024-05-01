@@ -13,7 +13,7 @@ GAME
 
 "MailFrom2"	"De: Muriel Blanc"
 "MailDate2"	"Data: 21/12/52"
-		"MailSubject2"	"Assunto: Caro Sr. Alex Tanner"
+"MailSubject2"	"Assunto: Caro Sr. Alex Tanner"
 "MailBody2A"	"Nossos oficiais de serviço encontraram seis garrafas de Isothamine 23 quando escanearam o pedido 9476-B. Esta entrega foi endereçada a você. Como você sem dúvida está ciente, é ilegal comprar, possuir ou vender este produto em qualquer lugar da Orla Exterior. (#205-P/7.7.12) Por favor ligue (+34987) e faça um acordo com um de nossos agentes de segurança imediatamente."
 "MailBody2B"	"Muriel Blanc, Alfândegas e Impostos SynTek"
 }

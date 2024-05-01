@@ -5,7 +5,7 @@ GAME
 // Inbox
 
 "MailFrom1"	"De: Comandante Harold"
-"MailDate1"	"Data: 02/03/54"
+"MailDate1"	"Data: 03/02/54"
 "MailSubject1"	"Assunto: Evacuação"
 "MailBody1A"	"Droga Ross, Eu queria que você não estivesse certo"
 "MailBody1B"	"Mas estou feliz por termos decidido seguir seu conselho, Como você sabe, a evacuação já está em andamento."

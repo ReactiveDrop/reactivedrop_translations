@@ -5,7 +5,7 @@ GAME
 // Inbox
 
 "MailFrom1"	"De: John Cain"
-"MailDate1"	"Data: 23/12/52"
+"MailDate1"	"Data: 20/12/52"
 "MailSubject1"	"Assunto: Entrega à Estação de Pesquisa 7"
 "MailBody1A"	"Sr. Ming,"
 "MailBody1B"	"A agente da AI L. Callen descobriu nossa remessa. Também parece que alguns dos espécimes estão soltos. Eu cuidarei disso, mas ela pode vir fazer a você e sua equipe algumas perguntas pontuais. Eu recomendo que você crie algumas boas respostas com antecedência. Conte sua história direito."

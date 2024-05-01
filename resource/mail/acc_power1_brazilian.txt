@@ -3,10 +3,10 @@ GAME
 // Sent
 
 "MailFrom1"	"Para: Jacob Stankiewich"
-"MailDate1"	"Data: 01/04/31"
+"MailDate1"	"Data: 04/01/31"
 "MailSubject1"	"Assunto: Re: Informações do Retller &OCULTO"
 "MailBody1A"	"Sim, o Sr. Retller já havia me contado sobre o surto, notícias assustadoras. Na verdade, tenho visto alguns pequenos insetos na ventilação ultimamente, mas sendo o cara durão que sou, lidei com a situação eu mesmo."
-"MailBody1B"	"Precisamos informar o primeiro andar sobre isso, mas é mais fácil falar do que fazer. Isso pode levar alguns meses, ou talvez anos. Somos usados por essas pessoas nojentas da AMBER, não há nada que possamos fazer sobre isso, eles iriam nos matar. Filhos da puta, isso parece uma prisão. Por enquanto, aja como se você não soubesse de nada.
+"MailBody1B"	"Precisamos informar o primeiro andar sobre isso, mas é mais fácil falar do que fazer. Isso pode levar alguns meses, ou talvez anos. Somos usados por essas pessoas nojentas da AMBER, não há nada que possamos fazer sobre isso, eles iriam nos matar. Filhos da puta, isso parece uma prisão. Por enquanto, aja como se você não soubesse de nada."
 "MailBody1C"	"P.S: Você descobriu o motivo do aumento repentino da temperatura no núcleo do setor 2B? Acho que podem ser os insetos. Se isso acontecer novamente, seremos forçados a fechar o reator, o que significa que o setor subterrâneo está ferrado."
 "MailBody1D"	"Nate"
 }

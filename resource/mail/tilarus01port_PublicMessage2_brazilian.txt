@@ -5,7 +5,7 @@ GAME
 // Inbox
 
 "MailFrom1"	"De: Andrew Baker"
-"MailDate1"	"Data: 02/03/54"
+"MailDate1"	"Data: 03/02/54"
 "MailSubject1"	"Assunto: IMPORTANTE -- EVACUAÇÃO DE TODO O PLANETA"
 "MailBody1A"	"IMPORTANTE, A evacuação da colônia Longo Amanhecer começou, dirija-se ao centro de evacuação mais próximo"
 "MailBody1B"	"As equipes de evacuação o levarão em breve até as naves para serem retirados do planeta, na estação mais próxima, ou plataforma orbital"

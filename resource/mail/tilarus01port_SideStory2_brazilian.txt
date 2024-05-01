@@ -20,7 +20,7 @@ GAME
 // Sent
 
 "MailFrom3"	"Para: Supervisor Ross"
-"MailDate3"	"Date: 02/02/54"
+"MailDate3"	"Data: 02/02/54"
 "MailSubject3"	"Assunto: Re: Redução de Pressão do Reator"
 "MailBody3A"	"Jimmy,"
 "MailBody3B"	"Desculpe Jimmy, estou de mãos atadas, a maioria das instalações estão tentando limpar O acidente na Baía 6."

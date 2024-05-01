@@ -5,7 +5,7 @@ GAME
 // Inbox
 
 "MailFrom1"	"De: Comandante Harold"
-"MailDate1"	"Date: 02/02/54"
+"MailDate1"	"Data: 02/02/54"
 "MailSubject1"	"Assunto: Relatórios"
 "MailBody1A"	"Eu tenho seus relatórios aqui Ross,"
 "MailBody1B"	"Você tem certeza que o que você está me dizendo está correto? porque se não estiver, não vai terminar bem para você"

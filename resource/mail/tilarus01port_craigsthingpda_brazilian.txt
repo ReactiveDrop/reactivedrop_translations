@@ -22,10 +22,10 @@ GAME
 
 // Sent
 
-"MailFrom3"	"To: Windows"
-"MailDate3"	"Date: 02/02/54"
+"MailFrom3"	"Para: Windows"
+"MailDate3"	"Data: 02/02/54"
 "MailSubject3"	"Assunto: Re: Os Canis"
-"MailBody3A"	"sso levanta a questão, somos pesquisadores do Ártico, não soldados, o que diabos estamos fazendo com um lança-chamas?"
+"MailBody3A"	"Isso levanta a questão, somos pesquisadores do Ártico, não soldados, o que diabos estamos fazendo com um lança-chamas?"
 "MailBody3A"	"A que possível propósito isso nos serve? Por que isso está aqui?"
 "MailBody3C"	"Falando nissoique de olho no Dr. Blair, ele parecia um pouco nervoso desde o incidente do canil."
 }

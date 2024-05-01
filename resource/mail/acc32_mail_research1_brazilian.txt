@@ -5,7 +5,7 @@ GAME
 "MailFrom1"	"De: Notícias da Operação [Laura]"
 "MailDate1"	"Data: 18/10/32"
 "MailSubject1"	"Assunto: Volume da Pesquisa 1"
-"MailBody1A"	"Hey, here's what we found so far:"
+"MailBody1A"	"Ei, Veja o que descobrimos até agora:"
 "MailBody1B"	"Os níveis de radioatividade não são letais, mesmo sem nossos trajes de proteção, mas ainda é recomendável usá-los, apenas para estar totalmente seguro."
 "MailBody1C"	"A estrutura atômica é misteriosa, até sobrenatural. É totalmente feito de elétrons... Como isso é possível? Também não faz sentido que tenha um tom verde e seja transparente... Essa coisa me assusta."
 "MailBody1D"	"Laura"

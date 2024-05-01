@@ -12,8 +12,8 @@ GAME
 "MailBody3C"	"Faz 5 meses desde que me despedi de você no porto, querida Iris, mas já parece uma eternidade no mar. Eu pretendo fazer desta modesta colônia um abrigo adequado para você e para mim, e para o homenzinho crescendo dentro de você."
 "MailBody3D"	"Nam Humanum"
 
-"MailFrom4"	"To: Iris Florenza"
-"MailDate4"	"Date: 07/02/40"
+"MailFrom4"	"Para: Iris Florenza"
+"MailDate4"	"Data: 07/02/40"
 "MailSubject4"	"Assunto: Um sonho começando"
 "MailBody4A"	"Meu amor,"
 "MailBody4B"	"Fui informado de que qualquer mensagem que eu encaminhar pode viajar por algum tempo antes de chegar até você. A razão para isso é... bem, algum jargão técnico que eu não vou me aprofundar, pelo seu bem. Eu espero que tudo esteja bem, para você e o bebê.A construção aqui está continuando, a instalação do complexo de pesquisa se ergue como um monumento ao nosso progresso. Embora as expedições geológicas não ocorrerão por mais alguns meses, cerca de tempo suficiente para os sistemas de suporte de vida ficarem prontos."

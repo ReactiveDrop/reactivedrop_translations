@@ -22,5 +22,5 @@
 "asw_credits_"	"Paineis - https://steamcommunity.com/sharedfiles/filedetails/?id=2677359280"
 "asw_credits_"	"Caminhonete - https://skfb.ly/oxV9M"
 "asw_credits_"	""
-		"asw_credits_"	"Thanks to mfz and Ben Lubar for lovely Blender renders of the campaign maps"
+"asw_credits_"	"Agradecimentos a mfz e Ben Lubar pelas belas renderizações em Blender dos mapas da campanha"
 }

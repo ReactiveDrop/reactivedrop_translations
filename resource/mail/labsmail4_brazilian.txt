@@ -6,14 +6,14 @@ GAME
 
 "MailFrom1"	"De: Phil Ryan"
 "MailDate1"	"Data: 20/12/52"
-"MailSubject1"	"Subject: Spam!"
+"MailSubject1"	"Assunto: Spam!"
 "MailBody1A"	"Sr. Rivera,"
 "MailBody1B"	"Acho que falo em nome de todos aqui. Você pode POR FAVOR fazer algo sobre o spam? Atualize os filtros da caixa de entrada ou qualquer outra coisa, Eu presumo que você saiba melhor, mas pelo amor de Deus faça alguma coisa! Um centavo para cada porcaria que recebi no último mês e eu estaria rico para o resto da vida."
 "MailBody1C"	"Phil Ryan"
 
 "MailFrom2"	"De: Dr. Miller"
 "MailSubject2"	"Fwd: Ph4rm4 4 U"
-"MailDate2"	"Date: 12/12/52"
+"MailDate2"	"Data: 12/12/52"
 "MailBody2A"	"Consiga todas as paradas legalmente pela SynNet!!"
 "MailBody2B"	"Is0t4m1na 23 por apenas 99$/pacote, tudo incl."
 "MailBody2C"	"Transporte interestelar disponível."

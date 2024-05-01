@@ -3,7 +3,7 @@ GAME
 // Inbox
 
 "MailFrom1"	"De: Leeroy Jackins"
-"MailDate1"	"Data: 20/07/32"
+"MailDate1"	"Data: 20/06/32"
 "MailSubject1"	"Assunto: - &OCULTO"
 "MailBody1A"	"Acabei de entender o sistema de segurança inteligente por trás do sistema de correio da AMBER e consegui hackeá-lo. Em breve estarei enviando ao governo todas as informações que possuo sobre a AMBER. Espero que eu possa sobreviver até que a ajuda chegue."
 "MailBody1B"	"Trabalho para a AMBER desde que foi fundada em novembro de 2230. Sou um dos poucos que sobreviveram, porque Schmitz confia em mim."

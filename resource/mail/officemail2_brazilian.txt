@@ -13,7 +13,7 @@ GAME
 "MailBody1D"	"L. Callen"
 
 "MailFrom2"	"De: Laura Callen"
-"MailDate2"	"Date: 23/12/52"
+"MailDate2"	"Data: 23/12/52"
 "MailSubject2"	"Assunto: Enc: Contaminação do Laboratório"
 "MailBody2A"	"Ten. Cain,"
 "MailBody2B"	"Ainda sem atualização. Estou sem paciência. Considere este aviso formal de que apresentarei um relatório sobre seu comportamento à Aliança Interestelar. Também estou mandando mais pessoal da AI para Vereon XII para obter uma visão clara da situação. Espero que você me encontre às 11:00 na recepção."

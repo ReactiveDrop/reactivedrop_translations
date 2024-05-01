@@ -5,7 +5,7 @@ GAME
 // Inbox
 
 "MailFrom1"	"De: Comandante Harold"
-"MailDate1"	"Date: 02/02/54"
+"MailDate1"	"Data: 02/02/54"
 "MailSubject1"	"Assunto: Colisão"
 "MailBody1A"	"Bom dia Ross,"
 "MailBody1B"	"Eu acredito que as equipes de limpeza nem sabem por onde começar."

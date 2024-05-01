@@ -13,7 +13,7 @@ GAME
 "MailFrom1"	"Para: Richard"
 "MailDate1"	"Data: 24/11/32"
 "MailSubject1"	"Assunto: Re: Solução"
-"MailBody1A"	"Seu \"recruta\" imbecil?! Ficou louco? Quem te contratou? LA última vez que a instalação não foi confinada, os níveis de radiação foram letais em uma área de 15 quilômetros de raio dos laboratórios. Agora os níveis são triplos ou provavelmente até quadruplicados."
+"MailBody1A"	"Seu \"recruta\" imbecil?! Você tá louco? Quem te contratou? Na última vez que a instalação não foi confinada, os níveis de radiação foram letais em uma área de 15 quilômetros de raio dos laboratórios. Agora os níveis são triplos ou provavelmente até quadruplicados."
 "MailBody1B"	"Obrigado por seu conselho profissional, senhor, mas não, não consideraremos matar nenhuma pessoa. Estaremos instalando medidas de refrigeração interna."
 "MailBody1C"	"Administração"
 }
