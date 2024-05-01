@@ -1,16 +1,16 @@
 # Overview
 | Language | basemodui | closecaption | gameui | reactivedrop | items | statsweb | Strings | Files |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | ✔️ | 26 | 6 | ✔️ | ✔️ | ✔️ |
+| [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Traditional Chinese](#tchinese-繁體中文) | 13 | 141 | 33 | 3052 | 253 | 209 | 238 | 147 |
 | [Czech](#czech-čeština) | 75 | 1810 | 42 | 4192 | 259 | 209 | 982 | 147 |
 | [Danish](#non-curated-languages) | 56 | 231 | 42 | 3720 | 259 | 209 | 712 | 148 |
 | [Dutch](#non-curated-languages) | 55 | 2004 | 42 | 3188 | 259 | 209 | 712 | 147 |
 | [Finnish](#non-curated-languages) | ✔️ | 2004 | 41 | 3050 | 260 | 209 | 703 | 147 |
 | [French](#french-français) | 31 | 138 | 42 | 2553 | 258 | 209 | 652 | 126 |
-| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | 26 | 6 | ✔️ | ✔️ | ✔️ |
+| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Hungarian](#non-curated-languages) | 55 | 138 | 42 | 3188 | 259 | 209 | 977 | 148 |
-| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | 28 | 6 | ✔️ | ✔️ | ✔️ |
+| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | 1 | ✔️ | ✔️ | 35 | ✔️ |
 | [Korean](#koreana-한국어) | 11 | 10 | 38 | 1684 | 259 | 31 | 448 | 49 |
 | [Norwegian Bokmål](#non-curated-languages) | 73 | 708 | 47 | 3894 | 259 | 209 | 712 | 148 |
@@ -40,10 +40,7 @@
 
 </summary>
 
-### Strings
-
-- [items_schinese.vdf](community/inventory_service/items_schinese.vdf) has 6 untranslated strings.
-- [reactivedrop_schinese.txt](resource/reactivedrop_schinese.txt) has 26 untranslated strings.
+✓ Up to date!
 
 </details>
 
@@ -585,10 +582,7 @@
 
 </summary>
 
-### Strings
-
-- [items_german.vdf](community/inventory_service/items_german.vdf) has 6 untranslated strings.
-- [reactivedrop_german.txt](resource/reactivedrop_german.txt) has 26 untranslated strings.
+✓ Up to date!
 
 </details>
 
@@ -598,10 +592,7 @@
 
 </summary>
 
-### Strings
-
-- [items_italian.vdf](community/inventory_service/items_italian.vdf) has 6 untranslated strings.
-- [reactivedrop_italian.txt](resource/reactivedrop_italian.txt) has 28 untranslated strings.
+✓ Up to date!
 
 </details>
 
