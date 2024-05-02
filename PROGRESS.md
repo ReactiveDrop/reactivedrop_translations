@@ -16,7 +16,7 @@
 | [Norwegian Bokmål](#non-curated-languages) | 73 | 708 | 47 | 3894 | 259 | 209 | 712 | 148 |
 | [Polish](#polish-polski) | 32 | 2004 | 42 | 3188 | 259 | 209 | 708 | 144 |
 | [European Portuguese](#portuguese-português-europeu) | 4 | 180 | 32 | 2277 | 239 | 30 | 632 | 142 |
-| [Brazilian Portuguese](#brazilian-português) | 6 | 2004 | 32 | 1447 | 189 | 18 | 278 | 9 |
+| [Brazilian Portuguese](#brazilian-português) | ✔️ | ✔️ | ✔️ | 1447 | ✔️ | ✔️ | ✔️ | 2 |
 | [Romanian](#non-curated-languages) | 55 | 1996 | 48 | 3900 | 259 | 209 | 977 | 148 |
 | [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | 26 | 6 | ✔️ | ✔️ | ✔️ |
 | [European Spanish](#spanish-español-de-españa) | 32 | 2004 | 40 | 2603 | 259 | 209 | 716 | 147 |
@@ -1064,18 +1064,7 @@
 
 ### Strings
 
-- [addons/RiskOfRain/reactivedrop_brazilian.txt](addons/RiskOfRain/resource/reactivedrop_brazilian.txt) has 95 untranslated strings.
-- [inventory_service_tags_brazilian.vdf](community/inventory_service/inventory_service_tags_brazilian.vdf) has 21 untranslated strings.
-- [items_brazilian.vdf](community/inventory_service/items_brazilian.vdf) has 189 untranslated strings.
-- [statsweb_brazilian.vdf](community/stats_website/statsweb_brazilian.vdf) has 18 untranslated strings.
-- [steam_input_brazilian.vdf](community/steam_input/steam_input_brazilian.vdf) has 85 untranslated strings.
-- [workshop_description_brazilian.vdf](community/workshop/workshop_description_brazilian.vdf) has 2 untranslated strings.
-- [misc/signage/signage_brazilian.vdf](misc/signage/signage_brazilian.vdf) has 69 untranslated strings.
-- [basemodui_brazilian.txt](resource/basemodui_brazilian.txt) has 6 untranslated strings.
-- [closecaption_brazilian.txt](resource/closecaption_brazilian.txt) has 2004 untranslated strings.
-- [gameui_brazilian.txt](resource/gameui_brazilian.txt) has 32 untranslated strings.
 - [reactivedrop_brazilian.txt](resource/reactivedrop_brazilian.txt) has 1447 untranslated strings.
-- [valve_brazilian.txt](resource/valve_brazilian.txt) has 6 untranslated strings.
 
 ### Steam Store and Community
 
@@ -1083,20 +1072,7 @@
 
 ### Upcoming Release Notes
 
-- [20240419_brazilian.xml](release_notes/20240419_english.xml) is missing.
 - [20240420_brazilian.xml](release_notes/20240420_english.xml) is missing.
-
-### Credits
-
-- [credits_acc32_official_brazilian.txt](credits/credits_acc32_official_brazilian.txt) has 1 indented lines.
-- [rd-reduction_campaigncredits_brazilian.txt](credits/rd-reduction_campaigncredits_brazilian.txt) has 12 indented lines.
-
-### Mail and News
-
-- [mail/biogen_mail_windows_brazilian.txt](resource/mail/biogen_mail_windows_english.txt) is missing.
-- [mail/ma_pda1_brazilian.txt](resource/mail/ma_pda1_english.txt) is missing.
-- [mail/ma_pda2_brazilian.txt](resource/mail/ma_pda2_english.txt) is missing.
-- [mail/officemail4_brazilian.txt](resource/mail/officemail4_brazilian.txt) has 1 indented lines.
 
 </details>
 

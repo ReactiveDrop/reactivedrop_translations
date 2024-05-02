@@ -583,6 +583,7 @@
 		{
 			"itemdefid": 7077,
 			"type": "item",
+			"name_brazilian": "Grande quantidade de recursos localizados.",
 			"name_english": "Large quantity of resources located.",
 			"name_german": "Große Menge an Ressourcen gefunden.",
 			"name_italian": "Grossa quantità di risorse individuata.",
@@ -592,6 +593,7 @@
 			"name_schinese": "定位到大量资源。",
 			"name_swedish": "Stor mängd av resurser lokaliserat.",
 			"name_vietnamese": "Một lượng lớn tài nguyên đã được định vị.",
+			"description_brazilian": "Verifique a lista de missões para saber os possíveis locais de materiais de fabricação.",
 			"description_english": "Check the mission list for possible locations of crafting materials.",
 			"description_german": "Schau dir die Einsatzliste an, um herauszufinden, wo du Handwerksmaterialien finden kannst.",
 			"description_italian": "Controlla l'elenco delle missioni per conoscere le possibili ubicazioni dei materiali per la creazione.",
@@ -609,6 +611,7 @@
 		{
 			"itemdefid": 7078,
 			"type": "item",
+			"name_brazilian": "Recursos adicionais localizados.",
 			"name_english": "Additional resources located.",
 			"name_german": "Zusätzliche Ressourcen gefunden.",
 			"name_italian": "Risorse aggiuntive individuate.",
@@ -618,6 +621,7 @@
 			"name_schinese": "定位到少量资源。",
 			"name_swedish": "Ytterligare resurser upptäckta.",
 			"name_vietnamese": "Tài nguyên bổ sung đã được định vị.",
+			"description_brazilian": "Verifique a lista de missões para saber os possíveis locais de materiais de fabricação.",
 			"description_english": "Check the mission list for possible locations of crafting materials.",
 			"description_german": "Schau dir die Einsatzliste an, um herauszufinden, wo du Handwerksmaterialien finden kannst.",
 			"description_italian": "Controlla l'elenco delle missioni per conoscere le possibili ubicazioni dei materiali per la creazione.",

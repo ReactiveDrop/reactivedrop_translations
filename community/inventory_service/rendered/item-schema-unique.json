@@ -69,6 +69,7 @@
 		{
 			"itemdefid": 900000001,
 			"type": "item",
+			"name_brazilian": "The Gauntlet: Arctic (Vencedor #BossFight2023)",
 			"name_english": "The Gauntlet: Arctic (#BossFight2023 Winner)",
 			"name_german": "Der Spießrutenlauf: Arktis (#BossFight2023 Gewinner)",
 			"name_italian": "The Gauntlet: Arctic (Vincitrice della #BossFight2023)",
@@ -78,6 +79,7 @@
 			"name_schinese": "北极挑战 (#Boss大战2023冠军)",
 			"name_swedish": "Gauntlet: Arktis (#BossFight2023 Vinnare)",
 			"name_vietnamese": "The Gauntlet: Arctic (Bản đồ chiến thắng #BossFight2023)",
+			"description_brazilian": "Essa medalha comemora The Gauntlet: Arctic, o vencedor da competição de mapas de 2023.",
 			"description_english": "This medal commemorates The Gauntlet: Arctic, the winner of the 2023 mapping competition.",
 			"description_german": "Dies ist eine Erinnerungs-Medaille den Gewinner des Kartierungswettbewerbs 2023, \"Der Spießrutenlauf: Arktis\".",
 			"description_italian": "Questa medaglia commemora The Gauntlet: Arctic, la mappa vincitrice della competizione di mapping del 2023.",
