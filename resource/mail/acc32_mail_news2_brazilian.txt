@@ -3,7 +3,7 @@ GAME
 // Inbox
 
 "MailFrom1"	"De: Jornal da FAI"
-"MailDate1"	"Data: 01/03/33"
+"MailDate1"	"Data: 03/01/33"
 "MailSubject1"	"Assunto: Log de notícias dos último 1 mês."
 "MailBody1A"	"3 de dezembro de 2232 - O plano para resfriar a rocha está sendo implantado. O sistema de resfriamento deverá ser construído em 3 a 4 dias."
 "MailBody1B"	"5 de dezembro de 2232 - Desastre! Os cadáveres de mineiros e pesquisadores se tornaram conscientes e se transformaram em algum tipo de espécie alienígena. Cerca de 40 deles atacaram o conector J7 e supostamente mataram mais de 300 pessoas. Engenheiros e soldados que realizavam o plano de resfriamento fugiram."

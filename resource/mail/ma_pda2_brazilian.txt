@@ -1,0 +1,14 @@
+GAME
+{
+// pda belongs to Maxwell Fierze
+
+"MailFrom1"		"De: Corpo de Fuzileiros"
+"MailDate1"		"Data: 26/12/28"
+"MailSubject1"	"Assunto: Avistamentos estranhos na Zona da Floresta"
+"MailBody1A"	"Nossos recrutas, grupo de teste número 3, relataram alguns avistamentos estranhos na zona florestal, descrição deles: enormes fantasmas de aparência humanoide no céu."
+
+"MailFrom2"		"De: Corpo de Fuzileiros"
+"MailDate2"		"Data: 09/01/29"
+"MailSubject2"	"Assunto: Tragédia na Zona do Motor Espacial"
+"MailBody2A"	"Nosso grupo de teste número 3 aprendeu da maneira mais difícil que a zona número 3, os motores espaciais, foi atingida por um asteroide. Essa zona precisa de uma substituição. Ao pegar o teletransportador você acaba preso no espaço sem ter como voltar."
+}

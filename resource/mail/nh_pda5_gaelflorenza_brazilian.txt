@@ -5,7 +5,7 @@ GAME
 // Sent
 
 "MailFrom3"	"Para: Iris Florenza"
-"MailDate3"	"Date: 25/06/42"
+"MailDate3"	"Data: 25/06/42"
 "MailSubject3"	"Assunto: Eventos estranhos"
 "MailBody3A"	"Meu amor,"
 "MailBody3B"	"Coisas estranhas estão acontecendo em Lugdunum. Não é minha vontade fazer você se preocupar, mas traduzir meu estado de espírito em cartas parece um pouco terapêutico."

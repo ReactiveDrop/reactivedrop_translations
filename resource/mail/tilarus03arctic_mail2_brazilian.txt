@@ -5,7 +5,7 @@ GAME
 // Inbox
 
 "MailFrom1"	"De: Segurança da SynTek"
-"MailDate1"	"Date: 07/10/52"
+"MailDate1"	"Data: 07/10/52"
 "MailSubject1"	"Assunto: IMPORTANTE: ESTAMOS SOB ATAQUE"
 "MailBody1A"	"MENSAGEM IMPORTANTE --- A TODO O PESSOAL"
 "MailBody1B"	"Estamos atualmente sob ataque. O Enxame já invadiu a entrada e avançou."
@@ -19,6 +19,6 @@ GAME
 "MailSubject3"	"Assunto: Geradores de Energia"
 "MailBody3A"	"Eu tranquei a porta que leva aos geradores de energia, então devemos ficar bem com isso. Podemos pelo menos evacuar com as luzes acesas e a energia funcionando."
 "MailBody3B"	"O enxame não deve ser capaz de arrombar essa porta, pois é de metal fortemente reforçado. Eles não podem ter acesso aos geradores a menos que encontrem alguma outra maneira lá."
-"MailBody3C" É, eu gostaria de ver isso..."
+"MailBody3C" 	"É, eu gostaria de ver isso..."
 "MailBody3D"	"-Engenheiro Chefe do Reator"
 }

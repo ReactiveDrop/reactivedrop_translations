@@ -4,7 +4,7 @@ GAME
 
 "MailFrom1"	"De: Comandante Houghton"
 "MailDate1"	"Data: 30/12/52"
-"MailSubject1"	"Assuntot: Operação Erradicação"
+"MailSubject1"	"Assunto: Operação Erradicação"
 "MailBody1A"	"Escutem Alfa,"
 "MailBody1B"	"Semana passada a Instalação de Transporte do Centro de Pesquisa 7 recebeu um carregamento de espécimes alienígenas, e, em seguida, todo o posto avançado ficou quieto."
 "MailBody1C"	"Suspeitamos houve uma invasão inimiga no CP7, e o que quer que tenha abatido seu Albatross confirma isso."

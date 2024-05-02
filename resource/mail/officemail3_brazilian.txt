@@ -5,7 +5,7 @@ GAME
 // Inbox
 
 "MailFrom1"	"De: Helen Young"
-"MailDate1"	"Date: 23/12/52"
+"MailDate1"	"Data: 23/12/52"
 "MailSubject1"	"Assunto: Átrio fechado!"
 "MailBody1A"	"Oi,"
 "MailBody1B"	"Eles tiveram que fechar o Atrio esta manhã! Não apenas a ala sul, mas toda a instalação. Fomos informados de que a contaminação se espalhou do Deck 2 através do sistema de ventilação. O pessoal de segurança está guardando toda a seção noroeste do convés 1. Eles são bastante hostis."

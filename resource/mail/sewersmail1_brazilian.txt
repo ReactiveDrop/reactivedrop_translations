@@ -13,7 +13,7 @@ GAME
 "MailBody1D"	"Helen"
 
 "MailFrom2"	"De: Helen Young"
-"MailDate2"	"Data: 12/24/52"
+"MailDate2"	"Data: 24/12/52"
 "MailSubject2"	"Assunto: AONDE VOCÊ TÁ??"
 "MailBody2A"	"Brian, Por favor entre em contato comigo! Por onde você esteve? Estou preocupada, está bem? Ming está fazendo experimentos com esses ovos-- experimentos que eu sei que são ilegais. Esta manhã eles selaram o Convés 1; há rumores de contaminação, mas nenhuma confirmação. A SynTek quer nos manter no escuro. Até ouvimos tiros em algum lugar do complexo principal."
 "MailBody2B"	"Por favor entre em contato comigo. Eu não suporto o pensamento de que você ainda esteja lá em algum lugar."

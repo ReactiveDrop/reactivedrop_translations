@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<content><string id="body">É o 7º aniversário do Alien Swarm: Reactive Drop, e isso significa uma semana de pontos de experiência em dobro nas missões, nossa segunda competição anual de mapas, e a possibilidade de bolo.
+
+[h2]Retrospectiva de 2023[/h2]
+
+Desde o 6º aniversário de Alien Swarm: Reactive Drop ano passado, o jogo ganhou [url=https://store.steampowered.com/news/app/563560/view/3690188204960315808] aprimoração nos shaders[/url], [url=https://store.steampowered.com/news/app/563560/view/3881601883156993844]melhor legibilidade das armas[/url], [url=https://store.steampowered.com/news/app/563560/view/3994197038602916434]adições ao Heróis das Forças Armadas Interestelares, incluindo recompensas por missões[/url], [url=https://store.steampowered.com/news/app/563560/view/3994197038602903068]melhor compensação de lag[/url], e [url=https://store.steampowered.com/news/app/563560/view/4160833394886167804]um sistema de denúncia no jogo[/url]. Você também poderá notar algumas alterações no menu principal caso não tenha jogando há algum tempo.
+
+Em abril de 2023, começamos a rastrear as causas das mortes dos fuzileiros, e entre abril e dezembro, 12,734,965 fuzileiros morreram em missões. A causa mais comum de morte? As boas e velhas garras dos Drones, com 5,147,736 mortes confirmadas.
+
+Outras mortes interessantes em 2023, selecionadas aleatoriamente:
+
+[list]
+[*]194,240 fuzileiros morreram devido a danos autoinfligidos nos modos de jogo deathmatch.
+[*]30,097 fuzileiros foram chutados até a morte pelos boomers.
+[*]6,136 fuzileiros foram atropelados por uma empilhadeira descontrolada nas Ruínas do Laboratório.
+[*]18,857 fuzileiros foram explodidos junto com uma sentinela destruída.
+[*]929,538 fuzileiros foram perdidos devido à infestação. 113.511 fuzileiros navais foram mortos a tiros enquanto estavam infestados.
+[*]346,432 fuzileiros foram explodidos por granadas disparadas de um lançador de granadas, e outros 962.861 fuzileiros navais foram explodidos por granadas disparadas por [i]seu próprio[/i] lançador de granadas.
+[/list]
+
+Os fuzileiros não foram os únicos que morreram nas missões em Alien Swarm: Reactive Drop! em 2023, os fuzileiros controlados pelos jogadores mataram:
+
+[list]
+[*]1,156,620,313 (É isso mesmo, mais de um bilhão) de drones.
+[*]59,404,675 de parasitas.
+[*]51,839,565 de xenomites.
+[*]31,888,835 de rangers.
+[*]30,038,781 de ovos.
+[*]28,923,205 de buzzers.
+[*]20,908,814 de grubs.
+[*]6,392,125 de biomassa.
+[*]6,199,796 de boomers.
+[*]5,692,301 de harvesters.
+[*]4,105,397 de menders.
+[*]4,012,723 de shieldbugs.
+[*]3,534,646 de mortarbugs.
+[*]29,210 de raínhas.
+[*]2,208,733 de antlions.
+[*]254,967 de zumbis.
+[*]176,539 de headcrabs.
+[*]190,592 de soldados Combine.
+[*]18,187 de hunters.
+[/list]
+
+Em 2023, vocês completaram 7.489.163 missões... e falharam em 14,054,778 missões. Após a atualização de novembro de 2023, foi adicionado o suporte á fuzileiros duplicados em modos de jogo personalizados, vocês completaram 3,890 missões com 9 ou mais fuzileiros controlados pelo jogador (39.932 missões se contarmos cada jogador separadamente, como fizemos para as outras estatísticas) em novembro e dezembro.
+
+[h2]Competição de mapas em 2024: "Space Station"[/h2]
+
+O tema deste ano é "Space Station". [url=https://store.steampowered.com/news/app/563560/view/4148449131825473630]Veja o anúncio do concurso para obter mais detalhes.[/url]
+
+[h2]Mudanças com esta atualização[/h2]
+
+[h3]Armas[/h3]
+[list]
+[*]As armas (exceto a unidade de lança-chamas M868 e o lançador de granadas) em primeira pessoa agora disparam a partir do centro da câmera, semelhante ao funcionamento de outros jogos em primeira pessoa.
+[*][b]Lança-chamas M868:[/b] Corrigimos a animação de disparo que continuava a ser reproduzida no cliente depois de ficar sem munição se o botão de disparo fosse mantido e a recarga automática estivesse desativada.
+[*][b]Lança Granadas:[/b] A mira de fogo amigo agora é ativada com base no local previsto de impacto da granada, em vez de fingir que o lançador de granadas dispara balas.
+[*][b]Lança Granadas:[/b] Corrigimos o Lança Granadas tentando mirar na parte interna da cabeça do fuzileiro em primeira pessoa.
+[/list]
+
+[h3]Missões Oficiais[/h3]
+[list]
+[*][b]Área 9800: Gerador da Usina de Energia:[/b] Corrigimos um suporte de metal que caía e bloqueava o caminho às vezes.
+[*][b]Lagrimas para Tarnor: Porto Espacial da Colônia Oasis:[/b] Correção do modelo de física do assento do trem que empurrava as coisas em outra sala.
+[*][b]Paranoia: Alta Tensão:[/b] Corrigimos um local onde era possível varar o chão.
+[*][b]Nam Humanum: Laboratórios de Base:[/b] Corrigimos um barril explosivo que podia ser empurrado para longe do painel que ele deveria destruir.
+[*][b]Nam Humanum: Laboratórios de Base:[/b] Corrigimos um travamento próximo ao início da missão.
+[*][b]Corporação BioGen: Operation X5:[/b] Removemos alguns objetos nos quais os alienígenas podiam ficar presos durante o final.
+[*][b]Corporação BioGen: Invisible Threat:[/b] Corrigimos o comportamento inesperado de mira perto do ventilador causado pela geometria fora dos limites.
+[*][b]Acidente 32: Centro de Pesquisa:[/b] Reduzimos a quantidade de parasitas e drones nessa missão.
+[*][b]Acidente 32: Instalação Confinada:[/b] Tornamos a descida para os esgotos mais intuitiva.
+[*][b]Acidente 32: Instalação Confinada:[/b] Melhoramos a visibilidade na área sob o vidro perto do início.
+[*][b]Acidente 32: Instalação Confinada:[/b] Reduzimos a saúde de uma porta em um caminho alternativo para torná-la mais viável.
+[*][b]Acidente 32: Lab Ruins:[/b] Alteramos as luzes indicadoras nos painéis no encontro final de verde para azul para facilitar a visualização com a iluminação.
+[*][b]Catástrofe no Porto Espacial:[/b] Removemos uma geometria invisível acima de uma porta perto do final do mapa.
+[/list]
+
+[h3]Desafio Infection Deathmatch[/h3]
+[list]
+[*]Os humanos agora são mais lentos do que os zumbis.
+[*]Aumento do bônus de saúde do Last Stand.
+[*]Corrigimos um erro que fazia com que apenas um Zumbi Primordial surgisse no início da rodada quando os requisitos eram atendidos para que surgissem dois.
+[/list]
+
+[h3]Técnicos[/h3]
+[list]
+[*]Correção de Addons inscritos, mas desativados pelo menu de Addons do jogo ou pela janela de propriedades do Steam, que não eram carregados quando exigidos por um desafio.
+[*]Correção de servidores dedicados que geravam mais threads de IO do que o pretendido. Os servidores dedicados agora geram 3 threads de IO em vez de um por núcleo sem limite (ou 0 como antes, se -noasync for passado na linha de comando). O cliente mantém o comportamento que tem tido desde 2018, gerando um thread de E/S por núcleo de processador até um máximo de 3.
+[*]Foi corrigido um problema que fazia com que os relatórios não contivessem o ID do jogador relatado no formato pretendido. Uma solução alternativa está sendo implementada no servidor, portanto, nenhum relatório feito após 2 de março será afetado.
+[*]Reformulamos a maneira como os itens do inventário são enviados para o servidor do jogo. Por enquanto, isso significa apenas que as medalhas devem aparecer mais rapidamente quando você carregar em um lobby.
+[*]Marcamos func_breakdmg_bullet, func_breakdmg_club, and func_breakdmg_explosive como cheats.
+[*]Correção da mensagem de desbloqueio da Swarmopedia que mostrava palavras sem sentido em vez do nome do alienígena.
+[*]Foi adicionada uma mensagem no bate-papo quando um jogador recebe uma medalha por concluir uma conquista ou outra tarefa na missão.
+[/list]
+</string><string id="subtitle"></string><string id="summary"></string><string id="title">7º aniversário do Alien Swarm: Reactive Drop</string></content>

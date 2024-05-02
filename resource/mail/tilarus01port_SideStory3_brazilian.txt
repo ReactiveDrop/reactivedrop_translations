@@ -5,7 +5,7 @@ GAME
 // Inbox
 
 "MailFrom1"	"De: Kyle"
-"MailDate1"	"Date: 02/02/54"
+"MailDate1"	"Data: 02/02/54"
 "MailSubject1"	"Assunto: Relatório 709b"
 "MailBody1A"	"-47 Droids perdidos nas últimas 24 horas"
 "MailBody1B"	"-Capacidade total de descarte caiu para 87%"

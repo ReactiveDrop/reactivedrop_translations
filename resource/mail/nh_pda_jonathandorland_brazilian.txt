@@ -8,7 +8,7 @@ GAME
 "MailDate3"	"Data: 31/03/43"
 "MailSubject3"	"Assunto: O que tá acontecendo?"
 "MailBody3A"	"Lin, se importa de explicar o que tá acontecendo lá fora?"
-"MailBody3B"	"Já faz mais de uma hora desde que um grupo de colonos, liderados pelo Tenente Florenza e mais alguns guardas, invadiu os aposentos da equipe de apoio e insistiu que ficaríamos confinados dentro das instalações seguras do armazém até novas ordens. Sairam correndo e gritando, e então nada. Se você estiver disposta, doutora, a nos informar o que diabos está acontecendo por aqui? Nada a ver com querido velho Moreau, certeza.."
+"MailBody3B"	"Já faz mais de uma hora desde que um grupo de colonos, liderados pelo Tenente Florenza e mais alguns guardas, invadiu os aposentos da equipe de apoio e insistiu que ficaríamos confinados dentro das instalações seguras do armazém até novas ordens. Sairam correndo e gritando, e então nada. Se você estiver disposta, doutora, a nos informar o que diabos está acontecendo por aqui? Nada a ver com querido velho Moreau, certeza..."
 "MailBody3C"	"Talvez seja a desidratação, mas parece que estamos ficando loucos aqui. Alguns de nós estão ouvindo barulhos dentro das paredes. Isso é otimo, de verdade. Se eu não tiver notícias suas até o final do período de rotação, Vou ter que usar minha chave de acesso de único para forçar a abertura das portas. Uma espécie de aposta, Eu sei e sinto muito. Mas é uma das circunstancias que me levam a tomar, não acha?"
 "MailBody3D"	"Falando sobre um trunfo."
 }

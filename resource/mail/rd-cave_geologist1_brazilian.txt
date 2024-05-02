@@ -15,7 +15,7 @@ GAME
 // Sent
 
 "MailFrom3"	"Para: D.P.G."
-"MailDate3"	"Date: 17/09/57"
+"MailDate3"	"Data: 17/09/57"
 "MailSubject3"	"Assunto: Resultados preliminares do sistema de cavernas"
 "MailBody3A"	"O sistema de cavernas perto do antigo posto avançado de comunicação é composto principalmente de arenito e outras rochas macias. Existem alguns bolsões de ferro e outros materiais mais fortes que permitem que as cavernas existam em um grau tão extenso."
 "MailBody3B"	"No entando eu devo aconselha-lo contra a mineração, pois a estrutura geral é instável, em parte devido à composição de materiais macios mencionada anteriormente. Eu incluí um relatório mais completo em anexo."

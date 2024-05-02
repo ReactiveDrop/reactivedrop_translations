@@ -4,11 +4,11 @@ GAME
 
 // Sent
 
-"MailFrom3"	"To: Jacques Moreau"
-"MailDate3"	"Date: 05/18/42"
-"MailSubject3"	"Subject: Arthur Carradine’s brain surgery"
+"MailFrom3"	"Para: Jacques Moreau"
+"MailDate3"	"Data: 18/05/42"
+"MailSubject3"	"Assunto: Cirurgia cerebral de Arthur Carradine"
 "MailBody3A"	"Dear sir,"
-"MailBody3B"	"Captain Carradine’s amygdalohippocampectomy went without trouble."
-"MailBody3C"	"Although the patient himself had requested for his amygdalae to be removed, it is my understanding that you have personally consented to the procedure. For this particular reason I feel compelled in warning you about the nature of the surgery we just undertook, and the repercussions it is bound to cause on the patient’s limbic system; mainly speaking, his altered reaction (or rather, lack thereof) to situations normally inciting fear, angst or aggressivity. Please be aware that there are relevant reasons as to why this surgical procedure had not been performed in centuries of medicine, and even then pertained only to the most severe of cases."
-"MailBody3D"	"Cordially"
+"MailBody3B"	"A amígdalohipocampectomia do Capitão Carradine transcorreu sem problemas."
+"MailBody3C"	"Embora o próprio paciente tenha solicitado a remoção de suas amídalas, é do meu entendimento que você consentiu pessoalmente com o procedimento. Por esse motivo em particular, sinto-me compelido a alertá-lo sobre a natureza da cirurgia que acabamos de realizar, e as repercussões que isso certamente causará no sistema límbico do paciente; sendo específico, sua reação alterada (ou melhor, a falta dela) a situações que normalmente provocam medo, raiva ou agressividade. Esteja ciente de que há razões relevantes para que esse procedimento cirúrgico não tenha sido realizado em séculos de medicina e, mesmo assim, somente nos casos mais graves."
+"MailBody3D"	"Cordialmente"
 }

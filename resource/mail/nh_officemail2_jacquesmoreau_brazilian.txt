@@ -5,7 +5,7 @@ GAME
 // Sent
 
 "MailFrom3"	"Para: Banco de dados pessoal"
-"MailDate3"	"Date: 24/05/42"
+"MailDate3"	"Data: 24/05/42"
 "MailSubject3"	"Assunto: Algo mais"
 "MailBody3A"	"Se comunica comigo. A mente coletiva deles, ou do que quer que se possa chamar uma entidade tão enigmática. Eu decidi me referir a isto como 'ela'. Vesta."
 "MailBody3B"	"O processo pelo qual ela se dirige a mim parece totalmente alienígena. Isso é... estranho, errático, como se um novo sentido me fosse emprestado por frações de segundos apenas para desaparecer novamente em um abismo de silêncio. Mas desse vazio, eu sei que é verdade, chegou a uma voz. Uma série estranhamente abrangente de sons que nunca consigo me lembrar completamente depois de ouvi-lo. Essa voz... me lembra a alguém que perdi."

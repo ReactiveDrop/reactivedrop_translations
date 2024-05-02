@@ -4,7 +4,7 @@ GAME
 
 "MailFrom1"	"De: Helen Baker"
 "MailDate1"	"Data: 07/01/31"
-"MailSubject1"	"Assunto: Verificação do Tubo"
+"MailSubject1"	"Assunto: Atualização sobre o tubo"
 "MailBody1A"	"Apenas mantendo você atualizado sobre a verificação do tubo - Não encontrei nenhum documento da administração no tubo leste 5B, o que é um pouco estranho. Não tenho certeza para que função serve ou para onde leva. De qualquer forma, eu informei os engenheiros sobre isso, eles vão dar uma olhada na próxima semana."
 "MailBody1B"	"Pelo menos não há outros problemas como sons estranhos vindos das paredes ou algo parecido."
 }
