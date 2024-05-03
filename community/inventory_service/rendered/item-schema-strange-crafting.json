@@ -37,7 +37,7 @@
 			"display_type_swedish": "Engångs Verktyg",
 			"display_type_ukrainian": "Одноразовий інструмент",
 			"display_type_vietnamese": "Dụng cụ dùng một lần",
-			"icon_url": "https://stats.reactivedrop.com/static/medals/error.png",
+			"icon_url": "https://stats.reactivedrop.com/static/items/4000.png",
 			"name_color": "CF6A32",
 			"tags": "crafting_item:single_use_tool;contains_any:set_1_weapon;contains_any:set_1_equipment"
 		},
