@@ -9,7 +9,7 @@
 			"display_type_%LANG%": "{#inventory_crafting_item_single_use_tool}",
 			"icon_url": "https://stats.reactivedrop.com/static/items/4000.png",
 			"name_color": "{#item_color_strange}",
-			"tags": "crafting_item:single_use_tool;contains_any:set_1_weapon;contains_any:set_1_equipment"
+			"tags": "crafting_item:single_use_tool;contains_any:set_1_strange_weapon;contains_any:set_1_strange_equipment"
 		},
 		{
 			"itemdefid": 4001,
