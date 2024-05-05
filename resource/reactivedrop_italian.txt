@@ -10315,6 +10315,8 @@
 "[english]rd_unbox_strange_device_compatible_owned_items"		"Compatible items:"
 "rd_unbox_strange_device_compatible_owned_items"		"Oggetti compatibili:"
 
+		"[english]rd_unbox_strange_option_number"		"Option %s1 of %s2"
+		"rd_unbox_strange_option_number"		"Option %s1 of %s2"
 "[english]rd_unbox_strange_confirm"		"MAKE DECISION"
 "rd_unbox_strange_confirm"		"PRENDI UNA DECISIONE"
 "[english]rd_unbox_strange_cancel"		"Decide Later"
