@@ -18,7 +18,7 @@
 | [European Portuguese](#portuguese-português-europeu) | 4 | 180 | 32 | 2278 | 239 | 30 | 632 | 142 |
 | [Brazilian Portuguese](#brazilian-português) | ✔️ | ✔️ | ✔️ | 1448 | ✔️ | ✔️ | ✔️ | 2 |
 | [Romanian](#non-curated-languages) | 55 | 1996 | 48 | 3901 | 259 | 209 | 977 | 148 |
-| [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | 27 | 6 | ✔️ | ✔️ | ✔️ |
+| [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [European Spanish](#spanish-español-de-españa) | 32 | 2004 | 40 | 2604 | 259 | 209 | 716 | 147 |
 | [Latin American Spanish](#latam-español-latinoamericano) | ✔️ | 2004 | ✔️ | 4246 | 6 | ✔️ | 203 | 141 |
 | [Swedish](#swedish-svenska) | ✔️ | ✔️ | ✔️ | 1304 | ✔️ | ✔️ | ✔️ | 108 |
@@ -1083,10 +1083,7 @@
 
 </summary>
 
-### Strings
-
-- [items_russian.vdf](community/inventory_service/items_russian.vdf) has 6 untranslated strings.
-- [reactivedrop_russian.txt](resource/reactivedrop_russian.txt) has 27 untranslated strings.
+✓ Up to date!
 
 </details>
 
