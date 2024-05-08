@@ -10327,11 +10327,11 @@
 "[english]rd_unbox_strange_warnings_desc"		"Accept item despite the warnings?"
 "rd_unbox_strange_warnings_desc"		"警告内容を理解した上でアイテムを受け取りますか？"
 
-		"[english]rd_attach_strange_device_warning_title"		"Strange Devices cannot be recovered"
-		"rd_attach_strange_device_warning_title"		"Strange Devices cannot be recovered"
-		// %s1 is item name; %s2 is accessory (strange device) name; %s3 is a number, usually 4.
-		"[english]rd_attach_strange_device_warning_desc"		"Are you sure you want to permanently attach '%s2' to '%s1'?\nOnce attached, the strange device cannot be retrieved or removed, and one of the item's %s3 strange device slots will be permanently consumed."
-		"rd_attach_strange_device_warning_desc"		"Are you sure you want to permanently attach '%s2' to '%s1'?\nOnce attached, the strange device cannot be retrieved or removed, and one of the item's %s3 strange device slots will be permanently consumed."
+"[english]rd_attach_strange_device_warning_title"		"Strange Devices cannot be recovered"
+"rd_attach_strange_device_warning_title"		"ストレンジ装置は元に戻せません"
+// %s1 is item name; %s2 is accessory (strange device) name; %s3 is a number, usually 4.
+"[english]rd_attach_strange_device_warning_desc"		"Are you sure you want to permanently attach '%s2' to '%s1'?\nOnce attached, the strange device cannot be retrieved or removed, and one of the item's %s3 strange device slots will be permanently consumed."
+"rd_attach_strange_device_warning_desc"		"本当に'%s2'を'%s1'に永久的に装着してもよろしいですか？\n一度装着したストレンジ装置は二度と回収も取り外しもできなくなり、このアイテムに%s3つあるストレンジ装置用のスロットのうち一つが永久的に失われます。"
 
 // These strings will be used for the sign-up screen for the crafting materials beta and other opt-in things in the future.
 "[english]rd_redeem_special_waiting_steam"		"Requesting a ticket from Steam..."
