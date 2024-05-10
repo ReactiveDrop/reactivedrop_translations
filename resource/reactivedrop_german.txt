@@ -10327,11 +10327,11 @@
 "[english]rd_unbox_strange_warnings_desc"		"Accept item despite the warnings?"
 "rd_unbox_strange_warnings_desc"		"Gegenstand trotz Warnung(en) annehmen?"
 
-		"[english]rd_attach_strange_device_warning_title"		"Strange Devices cannot be recovered"
-		"rd_attach_strange_device_warning_title"		"Strange Devices cannot be recovered"
-		// %s1 is item name; %s2 is accessory (strange device) name; %s3 is a number, usually 4.
-		"[english]rd_attach_strange_device_warning_desc"		"Are you sure you want to permanently attach '%s2' to '%s1'?\nOnce attached, the strange device cannot be retrieved or removed, and one of the item's %s3 strange device slots will be permanently consumed."
-		"rd_attach_strange_device_warning_desc"		"Are you sure you want to permanently attach '%s2' to '%s1'?\nOnce attached, the strange device cannot be retrieved or removed, and one of the item's %s3 strange device slots will be permanently consumed."
+"[english]rd_attach_strange_device_warning_title"		"Strange Devices cannot be recovered"
+"rd_attach_strange_device_warning_title"		"Seltsame Geräte können nicht wiederhergestellt werden"
+// %s1 is item name; %s2 is accessory (strange device) name; %s3 is a number, usually 4.
+"[english]rd_attach_strange_device_warning_desc"		"Are you sure you want to permanently attach '%s2' to '%s1'?\nOnce attached, the strange device cannot be retrieved or removed, and one of the item's %s3 strange device slots will be permanently consumed."
+"rd_attach_strange_device_warning_desc"		"Bist du sicher, dass du \"%s2\" dauerhaft an \"%s1\" anbringen willst? Sobald das seltsame Gerät angebracht ist, kann es nicht mehr entfernt werden und einer der %s3 Steckplätze für seltsame Geräte des Gegenstands wird dauerhaft verbraucht."
 
 // These strings will be used for the sign-up screen for the crafting materials beta and other opt-in things in the future.
 "[english]rd_redeem_special_waiting_steam"		"Requesting a ticket from Steam..."
