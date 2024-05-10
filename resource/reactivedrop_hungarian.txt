@@ -10277,6 +10277,9 @@
 		"rd_mission_modifier_crafting"		"Crafting materials can currently be found in this mission."
 		"[english]rd_mission_modifier_crafting_campaign"		"Crafting materials can currently be found in at least one mission in this campaign."
 		"rd_mission_modifier_crafting_campaign"		"Crafting materials can currently be found in at least one mission in this campaign."
+		// %s1 is one of the rd_crafting_material_rarity_* strings; %s2 is a number
+		"[english]rd_mission_modifier_crafting_rarity"		"%s1: %s2"
+		"rd_mission_modifier_crafting_rarity"		"%s1: %s2"
 
 		"[english]rd_crafting_beta1_signup_title"		"Crafting Materials Beta - Phase 1"
 		"rd_crafting_beta1_signup_title"		"Crafting Materials Beta - Phase 1"
@@ -10346,5 +10349,19 @@
 		"rd_redeem_special_unavailable"		"These items are not currently available."
 		"[english]rd_redeem_special_success"		"Success! The items have been added to your inventory."
 		"rd_redeem_special_success"		"Success! The items have been added to your inventory."
+
+		// These should match the inventory_crafting_item_* translations in inventory_service_tags!
+		"[english]rd_crafting_material_rarity_industrial"		"Industrial"
+		"rd_crafting_material_rarity_industrial"		"Industrial"
+		"[english]rd_crafting_material_rarity_bulk"		"Bulk"
+		"rd_crafting_material_rarity_bulk"		"Bulk"
+		"[english]rd_crafting_material_rarity_alien"		"Alien"
+		"rd_crafting_material_rarity_alien"		"Alien"
+		"[english]rd_crafting_material_rarity_tech"		"Tech"
+		"rd_crafting_material_rarity_tech"		"Tech"
+		"[english]rd_crafting_material_rarity_salvaged"		"Salvaged"
+		"rd_crafting_material_rarity_salvaged"		"Salvaged"
+		"[english]rd_crafting_material_rarity_refined"		"Refined"
+		"rd_crafting_material_rarity_refined"		"Refined"
 }
 }

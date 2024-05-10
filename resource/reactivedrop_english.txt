@@ -5465,6 +5465,8 @@
 "rd_mission_modifier_bounty_campaign"	"This campaign includes at least one mission with an unclaimed bounty."
 "rd_mission_modifier_crafting"	"Crafting materials can currently be found in this mission."
 "rd_mission_modifier_crafting_campaign"	"Crafting materials can currently be found in at least one mission in this campaign."
+// %s1 is one of the rd_crafting_material_rarity_* strings; %s2 is a number
+"rd_mission_modifier_crafting_rarity"	"%s1: %s2"
 
 "rd_crafting_beta1_signup_title"	"Crafting Materials Beta - Phase 1"
 // this is a letter from Helvetica Scenario to the player.
@@ -5506,5 +5508,13 @@
 "rd_redeem_special_already"	"You have already redeemed these items."
 "rd_redeem_special_unavailable"	"These items are not currently available."
 "rd_redeem_special_success"	"Success! The items have been added to your inventory."
+
+// These should match the inventory_crafting_item_* translations in inventory_service_tags!
+"rd_crafting_material_rarity_industrial"	"Industrial"
+"rd_crafting_material_rarity_bulk"	"Bulk"
+"rd_crafting_material_rarity_alien"	"Alien"
+"rd_crafting_material_rarity_tech"	"Tech"
+"rd_crafting_material_rarity_salvaged"	"Salvaged"
+"rd_crafting_material_rarity_refined"	"Refined"
 }
 }
