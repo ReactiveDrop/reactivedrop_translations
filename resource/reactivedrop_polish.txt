@@ -3254,9 +3254,9 @@
 "nb_difficulty_title"		"Poziom"
 		"[english]nb_speedruntime_title"		"Speedrun Time"
 		"nb_speedruntime_title"		"Speedrun Time"
-		// examples -  1:42, 3:10, 1:07
-		"[english]nb_speedruntime_format"		"%d:%d%d"
-		"nb_speedruntime_format"		"%d:%d%d"
+		// %d are the minutes, %02d are the seconds. examples - 1:42, 3:10, 1:07
+		"[english]nb_speedruntime_format"		"%d:%02d"
+		"nb_speedruntime_format"		"%d:%02d"
 		"[english]nb_oe_title"		"Outstanding Execution"
 		"nb_oe_title"		"Outstanding Execution"
 		"[english]nb_oe_status_active"		"Active"

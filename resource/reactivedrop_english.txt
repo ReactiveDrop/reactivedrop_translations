@@ -1661,8 +1661,8 @@
 "nb_mission_options"	"MISSION OPTIONS"
 "nb_difficulty_title"	"Difficulty"
 "nb_speedruntime_title"	"Speedrun Time"
-// examples -  1:42, 3:10, 1:07
-"nb_speedruntime_format"	"%d:%d%d"
+// %d are the minutes, %02d are the seconds. examples - 1:42, 3:10, 1:07
+"nb_speedruntime_format"	"%d:%02d"
 "nb_oe_title"	"Outstanding Execution"
 "nb_oe_status_active"	"Active"
 "nb_oe_status_failed"	"Failed"
