@@ -1660,6 +1660,12 @@
 "nb_mission_title"	"Mission:"
 "nb_mission_options"	"MISSION OPTIONS"
 "nb_difficulty_title"	"Difficulty"
+"nb_speedruntime_title"	"Speedrun Time"
+// the first %d is minutes and the second %d is seconds (printf formatting). examples - 1:42, 3:10, 1:07
+"nb_speedruntime_format"	"%d:%02d"
+"nb_oe_title"	"Outstanding Execution"
+"nb_oe_status_active"	"Active"
+"nb_oe_status_failed"	"Failed"
 "nb_mission_brief"	"Mission Brief"
 "nb_mission_details"	"Mission Details: %s1"
 "nb_mission_style"	"Mission Style:"
