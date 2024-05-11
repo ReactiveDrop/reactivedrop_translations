@@ -11,7 +11,7 @@
 | [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | 7 | ✔️ | ✔️ | 1 | ✔️ |
 | [Hungarian](#non-curated-languages) | 55 | 138 | 42 | 3198 | 259 | 209 | 978 | 148 |
 | [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | 9 | ✔️ | ✔️ | 1 | ✔️ |
-| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | 7 | ✔️ | ✔️ | 36 | ✔️ |
+| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 35 | ✔️ |
 | [Korean](#koreana-한국어) | 11 | 10 | 38 | 1694 | 259 | 31 | 449 | 49 |
 | [Norwegian Bokmål](#non-curated-languages) | 73 | 708 | 47 | 3904 | 259 | 209 | 713 | 148 |
 | [Polish](#polish-polski) | 32 | 2004 | 42 | 3198 | 259 | 209 | 709 | 144 |
@@ -21,7 +21,7 @@
 | [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | 9 | ✔️ | ✔️ | 1 | ✔️ |
 | [European Spanish](#spanish-español-de-españa) | 32 | 2004 | 40 | 2613 | 259 | 209 | 717 | 147 |
 | [Latin American Spanish](#latam-español-latinoamericano) | ✔️ | 2004 | ✔️ | 4255 | 6 | ✔️ | 204 | 141 |
-| [Swedish](#swedish-svenska) | ✔️ | ✔️ | ✔️ | 1313 | ✔️ | ✔️ | 1 | 108 |
+| [Swedish](#swedish-svenska) | ✔️ | ✔️ | ✔️ | 1313 | ✔️ | ✔️ | ✔️ | 108 |
 | [Thai](#non-curated-languages) | 970 | 1993 | 50 | 4445 | 259 | 209 | 742 | 148 |
 | [Turkish](#non-curated-languages) | 55 | 137 | 42 | 3198 | 259 | 209 | 978 | 148 |
 | [Ukrainian](#ukrainian-українська) | 31 | 131 | 32 | 2741 | 259 | 209 | 936 | 147 |
@@ -613,9 +613,7 @@
 
 ### Strings
 
-- [inventory_service_tags_japanese.vdf](community/inventory_service/inventory_service_tags_japanese.vdf) has 1 untranslated strings.
 - [platform/vgui_japanese.txt](platform/vgui_japanese.txt) has 35 untranslated strings.
-- [reactivedrop_japanese.txt](resource/reactivedrop_japanese.txt) has 7 untranslated strings.
 
 </details>
 
@@ -1458,7 +1456,6 @@
 
 ### Strings
 
-- [inventory_service_tags_swedish.vdf](community/inventory_service/inventory_service_tags_swedish.vdf) has 1 untranslated strings.
 - [reactivedrop_swedish.txt](resource/reactivedrop_swedish.txt) has 1313 untranslated strings.
 
 ### Upcoming Release Notes
