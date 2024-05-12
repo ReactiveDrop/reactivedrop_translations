@@ -10288,9 +10288,9 @@
 "rd_mission_modifier_crafting"		"Potresti trovare dei materiali per la fabbricazione in questa missione."
 "[english]rd_mission_modifier_crafting_campaign"		"Crafting materials can currently be found in at least one mission in this campaign."
 "rd_mission_modifier_crafting_campaign"		"Potresti trovare dei materiali per la fabbricazione in almeno una missione di questa campagna."
-		// %s1 is one of the rd_crafting_material_rarity_* strings; %s2 is a number
-		"[english]rd_mission_modifier_crafting_rarity"		"%s1: %s2"
-		"rd_mission_modifier_crafting_rarity"		"%s1: %s2"
+// %s1 is one of the rd_crafting_material_rarity_* strings; %s2 is a number
+"[english]rd_mission_modifier_crafting_rarity"		"%s1: %s2"
+"rd_mission_modifier_crafting_rarity"		"%s1: %s2"
 
 "[english]rd_crafting_beta1_signup_title"		"Crafting Materials Beta - Phase 1"
 "rd_crafting_beta1_signup_title"		"Beta dei materiali di fabbricazione - Fase 1"
@@ -10341,11 +10341,11 @@
 "[english]rd_unbox_strange_warnings_desc"		"Accept item despite the warnings?"
 "rd_unbox_strange_warnings_desc"		"Accettare l'oggetto nonostante le avvertenze?"
 
-		"[english]rd_attach_strange_device_warning_title"		"Strange Devices cannot be recovered"
-		"rd_attach_strange_device_warning_title"		"Strange Devices cannot be recovered"
-		// %s1 is item name; %s2 is accessory (strange device) name; %s3 is a number, usually 4.
-		"[english]rd_attach_strange_device_warning_desc"		"Are you sure you want to permanently attach '%s2' to '%s1'?\nOnce attached, the strange device cannot be retrieved or removed, and one of the item's %s3 strange device slots will be permanently consumed."
-		"rd_attach_strange_device_warning_desc"		"Are you sure you want to permanently attach '%s2' to '%s1'?\nOnce attached, the strange device cannot be retrieved or removed, and one of the item's %s3 strange device slots will be permanently consumed."
+"[english]rd_attach_strange_device_warning_title"		"Strange Devices cannot be recovered"
+"rd_attach_strange_device_warning_title"		"I dispositivi strani non possono essere recuperati"
+// %s1 is item name; %s2 is accessory (strange device) name; %s3 is a number, usually 4.
+"[english]rd_attach_strange_device_warning_desc"		"Are you sure you want to permanently attach '%s2' to '%s1'?\nOnce attached, the strange device cannot be retrieved or removed, and one of the item's %s3 strange device slots will be permanently consumed."
+"rd_attach_strange_device_warning_desc"		"Sei sicuro di voler fissare in modo permanente '%s2' a '%s1'?\nUna volta attaccato, il dispositivo strano non può essere recuperato o rimosso e uno dei %s3 slot per dispositivi strani dell'oggetto sarà consumato in modo permanente."
 
 // These strings will be used for the sign-up screen for the crafting materials beta and other opt-in things in the future.
 "[english]rd_redeem_special_waiting_steam"		"Requesting a ticket from Steam..."
@@ -10361,18 +10361,18 @@
 "[english]rd_redeem_special_success"		"Success! The items have been added to your inventory."
 "rd_redeem_special_success"		"Successo! Gli oggetti sono stati aggiunti all'inventario."
 
-		// These should match the inventory_crafting_item_* translations in inventory_service_tags!
-		"[english]rd_crafting_material_rarity_industrial"		"Industrial"
-		"rd_crafting_material_rarity_industrial"		"Industrial"
-		"[english]rd_crafting_material_rarity_bulk"		"Bulk"
-		"rd_crafting_material_rarity_bulk"		"Bulk"
-		"[english]rd_crafting_material_rarity_alien"		"Alien"
-		"rd_crafting_material_rarity_alien"		"Alien"
-		"[english]rd_crafting_material_rarity_tech"		"Tech"
-		"rd_crafting_material_rarity_tech"		"Tech"
-		"[english]rd_crafting_material_rarity_salvaged"		"Salvaged"
-		"rd_crafting_material_rarity_salvaged"		"Salvaged"
-		"[english]rd_crafting_material_rarity_refined"		"Refined"
-		"rd_crafting_material_rarity_refined"		"Refined"
+// These should match the inventory_crafting_item_* translations in inventory_service_tags!
+"[english]rd_crafting_material_rarity_industrial"		"Industrial"
+"rd_crafting_material_rarity_industrial"		"Industriale"
+"[english]rd_crafting_material_rarity_bulk"		"Bulk"
+"rd_crafting_material_rarity_bulk"		"Sfuso"
+"[english]rd_crafting_material_rarity_alien"		"Alien"
+"rd_crafting_material_rarity_alien"		"Alieno"
+"[english]rd_crafting_material_rarity_tech"		"Tech"
+"rd_crafting_material_rarity_tech"		"Tecnologico"
+"[english]rd_crafting_material_rarity_salvaged"		"Salvaged"
+"rd_crafting_material_rarity_salvaged"		"Recuperato"
+"[english]rd_crafting_material_rarity_refined"		"Refined"
+"rd_crafting_material_rarity_refined"		"Raffinato"
 }
 }

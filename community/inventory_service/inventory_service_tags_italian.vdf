@@ -83,7 +83,7 @@
 "inventory_crafting_item_regional"		"Materiale Recuperato"
 // crafting items that were transformed from a variant the player found into one that is more usable (eg. sorting wires, turning scraps of material into a sheet)
 "[english]inventory_crafting_item_refined"		"Refined Material"
-"inventory_crafting_item_refined"		"Materiale raffinato"
+"inventory_crafting_item_refined"		"Materiale Raffinato"
 // displayed before the list of Strange item accessories, eg. Strange Devices: Missions, Aliens Killed
 "[english]inventory_strange"		"Strange Devices"
 "inventory_strange"		"Dispositivi Strani"
