@@ -3252,17 +3252,17 @@
 "nb_mission_options"		"НАСТРОЙКИ МИССИИ"
 "[english]nb_difficulty_title"		"Difficulty"
 "nb_difficulty_title"		"Сложность"
-		"[english]nb_speedruntime_title"		"Speedrun Time"
-		"nb_speedruntime_title"		"Speedrun Time"
-		// the first %d is minutes and the second %d is seconds (printf formatting). examples - 1:42, 3:10, 1:07
-		"[english]nb_speedruntime_format"		"%d:%02d"
-		"nb_speedruntime_format"		"%d:%02d"
-		"[english]nb_oe_title"		"Outstanding Execution"
-		"nb_oe_title"		"Outstanding Execution"
-		"[english]nb_oe_status_active"		"Active"
-		"nb_oe_status_active"		"Active"
-		"[english]nb_oe_status_failed"		"Failed"
-		"nb_oe_status_failed"		"Failed"
+"[english]nb_speedruntime_title"		"Speedrun Time"
+"nb_speedruntime_title"		"Время прохождения"
+// the first %d is minutes and the second %d is seconds (printf formatting). examples - 1:42, 3:10, 1:07
+"[english]nb_speedruntime_format"		"%d:%02d"
+"nb_speedruntime_format"		"%d:%02d"
+"[english]nb_oe_title"		"Outstanding Execution"
+"nb_oe_title"		"Мастерское исполнение"
+"[english]nb_oe_status_active"		"Active"
+"nb_oe_status_active"		"Выполняется"
+"[english]nb_oe_status_failed"		"Failed"
+"nb_oe_status_failed"		"Провалено"
 "[english]nb_mission_brief"		"Mission Brief"
 "nb_mission_brief"		"Описание миссии"
 "[english]nb_mission_details"		"Mission Details: %s1"
@@ -10289,9 +10289,9 @@
 "rd_mission_modifier_crafting"		"Материалы для изготовления можно найти в этой миссии."
 "[english]rd_mission_modifier_crafting_campaign"		"Crafting materials can currently be found in at least one mission in this campaign."
 "rd_mission_modifier_crafting_campaign"		"Материалы для изготовления можно найти по крайней мере в одной миссии этой кампании."
-		// %s1 is one of the rd_crafting_material_rarity_* strings; %s2 is a number
-		"[english]rd_mission_modifier_crafting_rarity"		"%s1: %s2"
-		"rd_mission_modifier_crafting_rarity"		"%s1: %s2"
+// %s1 is one of the rd_crafting_material_rarity_* strings; %s2 is a number
+"[english]rd_mission_modifier_crafting_rarity"		"%s1: %s2"
+"rd_mission_modifier_crafting_rarity"		"%s1: %s2"
 
 "[english]rd_crafting_beta1_signup_title"		"Crafting Materials Beta - Phase 1"
 "rd_crafting_beta1_signup_title"		"Бета-версия материалов для изготовления - фаза 1"
@@ -10342,11 +10342,11 @@
 "[english]rd_unbox_strange_warnings_desc"		"Accept item despite the warnings?"
 "rd_unbox_strange_warnings_desc"		"Принять предмет, несмотря на предупреждения?"
 
-		"[english]rd_attach_strange_device_warning_title"		"Strange Devices cannot be recovered"
-		"rd_attach_strange_device_warning_title"		"Strange Devices cannot be recovered"
-		// %s1 is item name; %s2 is accessory (strange device) name; %s3 is a number, usually 4.
-		"[english]rd_attach_strange_device_warning_desc"		"Are you sure you want to permanently attach '%s2' to '%s1'?\nOnce attached, the strange device cannot be retrieved or removed, and one of the item's %s3 strange device slots will be permanently consumed."
-		"rd_attach_strange_device_warning_desc"		"Are you sure you want to permanently attach '%s2' to '%s1'?\nOnce attached, the strange device cannot be retrieved or removed, and one of the item's %s3 strange device slots will be permanently consumed."
+"[english]rd_attach_strange_device_warning_title"		"Strange Devices cannot be recovered"
+"rd_attach_strange_device_warning_title"		"Странные приборы нельзя получить"
+// %s1 is item name; %s2 is accessory (strange device) name; %s3 is a number, usually 4.
+"[english]rd_attach_strange_device_warning_desc"		"Are you sure you want to permanently attach '%s2' to '%s1'?\nOnce attached, the strange device cannot be retrieved or removed, and one of the item's %s3 strange device slots will be permanently consumed."
+"rd_attach_strange_device_warning_desc"		"Вы уверены, что хотите навсегда прикрепить \"%s2\" к \"%s1\"?\nПосле прикрепления странный прибор нельзя будет получить обратно или удалить, а одна из ячеек для странных приборов предмета (%s3) будет занята навсегда."
 
 // These strings will be used for the sign-up screen for the crafting materials beta and other opt-in things in the future.
 "[english]rd_redeem_special_waiting_steam"		"Requesting a ticket from Steam..."
@@ -10362,18 +10362,18 @@
 "[english]rd_redeem_special_success"		"Success! The items have been added to your inventory."
 "rd_redeem_special_success"		"Выполнено! Предметы были добавлены в ваш инвентарь."
 
-		// These should match the inventory_crafting_item_* translations in inventory_service_tags!
-		"[english]rd_crafting_material_rarity_industrial"		"Industrial"
-		"rd_crafting_material_rarity_industrial"		"Industrial"
-		"[english]rd_crafting_material_rarity_bulk"		"Bulk"
-		"rd_crafting_material_rarity_bulk"		"Bulk"
-		"[english]rd_crafting_material_rarity_alien"		"Alien"
-		"rd_crafting_material_rarity_alien"		"Alien"
-		"[english]rd_crafting_material_rarity_tech"		"Tech"
-		"rd_crafting_material_rarity_tech"		"Tech"
-		"[english]rd_crafting_material_rarity_salvaged"		"Salvaged"
-		"rd_crafting_material_rarity_salvaged"		"Salvaged"
-		"[english]rd_crafting_material_rarity_refined"		"Refined"
-		"rd_crafting_material_rarity_refined"		"Refined"
+// These should match the inventory_crafting_item_* translations in inventory_service_tags!
+"[english]rd_crafting_material_rarity_industrial"		"Industrial"
+"rd_crafting_material_rarity_industrial"		"Промышленное"
+"[english]rd_crafting_material_rarity_bulk"		"Bulk"
+"rd_crafting_material_rarity_bulk"		"Сыпучее"
+"[english]rd_crafting_material_rarity_alien"		"Alien"
+"rd_crafting_material_rarity_alien"		"Инопланетное"
+"[english]rd_crafting_material_rarity_tech"		"Tech"
+"rd_crafting_material_rarity_tech"		"Технологическое"
+"[english]rd_crafting_material_rarity_salvaged"		"Salvaged"
+"rd_crafting_material_rarity_salvaged"		"Добытое"
+"[english]rd_crafting_material_rarity_refined"		"Refined"
+"rd_crafting_material_rarity_refined"		"Очищенное"
 }
 }
