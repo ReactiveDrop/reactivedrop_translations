@@ -8929,7 +8929,7 @@
 "[english]rd_inventory_show_basic"		"Show all basic items"
 "rd_inventory_show_basic"		"Visa alla grundläggande föremål"
 "[english]rd_inventory_item_action_wait"		"Updating items. Please wait..."
-"rd_inventory_item_action_wait"		"Uppdaterar föremål. Snälla vänta..."
+"rd_inventory_item_action_wait"		"Uppdaterar föremål. Vänligen vänta..."
 "[english]rd_inventory_item_action_failed_title"		"Item Action Failed"
 "rd_inventory_item_action_failed_title"		"Föremåls Action Misslyckad"
 // Displayed when a user-initiated item interaction fails due to an API error. %s1 is the error number.
@@ -10338,10 +10338,9 @@
 "rd_unbox_strange_cancel"		"Bestäm Senare"
 // If warnings are present, the UI asks for confirmation after the decision is made, allowing the player to back out.
 "[english]rd_unbox_strange_warnings_title"		"Warnings Present"
-"rd_unbox_strange_warnings_title"		"Varningar Närvarande"
+"rd_unbox_strange_warnings_title"		"Närvarande Varningar"
 "[english]rd_unbox_strange_warnings_desc"		"Accept item despite the warnings?"
 "rd_unbox_strange_warnings_desc"		"Acceptera föremål trots varningarna?"
-
 "[english]rd_attach_strange_device_warning_title"		"Strange Devices cannot be recovered"
 "rd_attach_strange_device_warning_title"		"Avvikande Enheter kan inte återställas"
 // %s1 is item name; %s2 is accessory (strange device) name; %s3 is a number, usually 4.
