@@ -10345,11 +10345,11 @@
 "[english]rd_unbox_strange_warnings_desc"		"Accept item despite the warnings?"
 "rd_unbox_strange_warnings_desc"		"无视警告接受物品？"
 
-		"[english]rd_attach_strange_device_warning_title"		"Strange Devices cannot be recovered"
-		"rd_attach_strange_device_warning_title"		"Strange Devices cannot be recovered"
-		// %s1 is item name; %s2 is accessory (strange device) name; %s3 is a number, usually 4.
-		"[english]rd_attach_strange_device_warning_desc"		"Are you sure you want to permanently attach '%s2' to '%s1'?\nOnce attached, the strange device cannot be retrieved or removed, and one of the item's %s3 strange device slots will be permanently consumed."
-		"rd_attach_strange_device_warning_desc"		"Are you sure you want to permanently attach '%s2' to '%s1'?\nOnce attached, the strange device cannot be retrieved or removed, and one of the item's %s3 strange device slots will be permanently consumed."
+"[english]rd_attach_strange_device_warning_title"		"Strange Devices cannot be recovered"
+"rd_attach_strange_device_warning_title"		"奇异装置无法拆卸"
+// %s1 is item name; %s2 is accessory (strange device) name; %s3 is a number, usually 4.
+"[english]rd_attach_strange_device_warning_desc"		"Are you sure you want to permanently attach '%s2' to '%s1'?\nOnce attached, the strange device cannot be retrieved or removed, and one of the item's %s3 strange device slots will be permanently consumed."
+"rd_attach_strange_device_warning_desc"		"确认将 %s2 永久安装到 %s1 上？\n一旦安装，该奇异装置将无法拆卸，同时将永久占用物品的 1 个安装槽位（共 %s3 个）。"
 
 // These strings will be used for the sign-up screen for the crafting materials beta and other opt-in things in the future.
 "[english]rd_redeem_special_waiting_steam"		"Requesting a ticket from Steam..."
@@ -10365,18 +10365,18 @@
 "[english]rd_redeem_special_success"		"Success! The items have been added to your inventory."
 "rd_redeem_special_success"		"兑换成功！物品已添加到您的库存中。"
 
-		// These should match the inventory_crafting_item_* translations in inventory_service_tags!
-		"[english]rd_crafting_material_rarity_industrial"		"Industrial"
-		"rd_crafting_material_rarity_industrial"		"Industrial"
-		"[english]rd_crafting_material_rarity_bulk"		"Bulk"
-		"rd_crafting_material_rarity_bulk"		"Bulk"
-		"[english]rd_crafting_material_rarity_alien"		"Alien"
-		"rd_crafting_material_rarity_alien"		"Alien"
-		"[english]rd_crafting_material_rarity_tech"		"Tech"
-		"rd_crafting_material_rarity_tech"		"Tech"
-		"[english]rd_crafting_material_rarity_salvaged"		"Salvaged"
-		"rd_crafting_material_rarity_salvaged"		"Salvaged"
-		"[english]rd_crafting_material_rarity_refined"		"Refined"
-		"rd_crafting_material_rarity_refined"		"Refined"
+// These should match the inventory_crafting_item_* translations in inventory_service_tags!
+"[english]rd_crafting_material_rarity_industrial"		"Industrial"
+"rd_crafting_material_rarity_industrial"		"工业材料"
+"[english]rd_crafting_material_rarity_bulk"		"Bulk"
+"rd_crafting_material_rarity_bulk"		"散装材料"
+"[english]rd_crafting_material_rarity_alien"		"Alien"
+"rd_crafting_material_rarity_alien"		"异形材料"
+"[english]rd_crafting_material_rarity_tech"		"Tech"
+"rd_crafting_material_rarity_tech"		"科技材料"
+"[english]rd_crafting_material_rarity_salvaged"		"Salvaged"
+"rd_crafting_material_rarity_salvaged"		"回收材料"
+"[english]rd_crafting_material_rarity_refined"		"Refined"
+"rd_crafting_material_rarity_refined"		"精炼材料"
 }
 }
