@@ -1,27 +1,27 @@
 # Overview
 | Language | basemodui | closecaption | gameui | reactivedrop | items | statsweb | Strings | Files |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | ✔️ | 16 | ✔️ | ✔️ | 1 | ✔️ |
+| [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | ✔️ | 8 | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Traditional Chinese](#tchinese-繁體中文) | 13 | 141 | 33 | 3069 | 253 | 209 | 239 | 147 |
 | [Czech](#czech-čeština) | 75 | 1810 | 42 | 4209 | 259 | 209 | 983 | 147 |
 | [Danish](#non-curated-languages) | 56 | 231 | 42 | 3737 | 259 | 209 | 713 | 148 |
 | [Dutch](#non-curated-languages) | 55 | 2004 | 42 | 3205 | 259 | 209 | 713 | 147 |
 | [Finnish](#non-curated-languages) | ✔️ | 2004 | 41 | 3067 | 260 | 209 | 704 | 147 |
 | [French](#french-français) | 31 | 138 | 42 | 2570 | 258 | 209 | 653 | 126 |
-| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | 14 | ✔️ | ✔️ | 1 | ✔️ |
+| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | 2 | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Hungarian](#non-curated-languages) | 55 | 138 | 42 | 3205 | 259 | 209 | 978 | 148 |
-| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | 16 | ✔️ | ✔️ | 1 | ✔️ |
-| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | 7 | ✔️ | ✔️ | 35 | ✔️ |
+| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | 7 | ✔️ | ✔️ | ✔️ | ✔️ |
+| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | 2 | ✔️ | ✔️ | 35 | ✔️ |
 | [Korean](#koreana-한국어) | 11 | 10 | 38 | 1701 | 259 | 31 | 449 | 49 |
 | [Norwegian Bokmål](#non-curated-languages) | 73 | 708 | 47 | 3911 | 259 | 209 | 713 | 148 |
 | [Polish](#polish-polski) | 32 | 2004 | 42 | 3205 | 259 | 209 | 709 | 144 |
 | [European Portuguese](#portuguese-português-europeu) | 4 | 180 | 32 | 2294 | 239 | 30 | 633 | 142 |
 | [Brazilian Portuguese](#brazilian-português) | ✔️ | ✔️ | ✔️ | 1464 | ✔️ | ✔️ | 1 | 2 |
 | [Romanian](#non-curated-languages) | 55 | 1996 | 48 | 3917 | 259 | 209 | 978 | 148 |
-| [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | 16 | ✔️ | ✔️ | 1 | ✔️ |
+| [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | 2 | ✔️ | ✔️ | ✔️ | ✔️ |
 | [European Spanish](#spanish-español-de-españa) | 32 | 2004 | 40 | 2620 | 259 | 209 | 717 | 147 |
 | [Latin American Spanish](#latam-español-latinoamericano) | ✔️ | 2004 | ✔️ | 4262 | 6 | ✔️ | 204 | 141 |
-| [Swedish](#swedish-svenska) | ✔️ | ✔️ | ✔️ | 1320 | ✔️ | ✔️ | ✔️ | 108 |
+| [Swedish](#swedish-svenska) | ✔️ | ✔️ | ✔️ | 977 | ✔️ | ✔️ | ✔️ | 108 |
 | [Thai](#non-curated-languages) | 970 | 1993 | 50 | 4452 | 259 | 209 | 742 | 148 |
 | [Turkish](#non-curated-languages) | 55 | 137 | 42 | 3205 | 259 | 209 | 978 | 148 |
 | [Ukrainian](#ukrainian-українська) | 31 | 131 | 32 | 2748 | 259 | 209 | 936 | 147 |
@@ -42,8 +42,7 @@
 
 ### Strings
 
-- [inventory_service_tags_schinese.vdf](community/inventory_service/inventory_service_tags_schinese.vdf) has 1 untranslated strings.
-- [reactivedrop_schinese.txt](resource/reactivedrop_schinese.txt) has 16 untranslated strings.
+- [reactivedrop_schinese.txt](resource/reactivedrop_schinese.txt) has 8 untranslated strings.
 
 </details>
 
@@ -587,8 +586,7 @@
 
 ### Strings
 
-- [inventory_service_tags_german.vdf](community/inventory_service/inventory_service_tags_german.vdf) has 1 untranslated strings.
-- [reactivedrop_german.txt](resource/reactivedrop_german.txt) has 14 untranslated strings.
+- [reactivedrop_german.txt](resource/reactivedrop_german.txt) has 2 untranslated strings.
 
 </details>
 
@@ -600,8 +598,7 @@
 
 ### Strings
 
-- [inventory_service_tags_italian.vdf](community/inventory_service/inventory_service_tags_italian.vdf) has 1 untranslated strings.
-- [reactivedrop_italian.txt](resource/reactivedrop_italian.txt) has 16 untranslated strings.
+- [reactivedrop_italian.txt](resource/reactivedrop_italian.txt) has 7 untranslated strings.
 
 </details>
 
@@ -614,7 +611,7 @@
 ### Strings
 
 - [platform/vgui_japanese.txt](platform/vgui_japanese.txt) has 35 untranslated strings.
-- [reactivedrop_japanese.txt](resource/reactivedrop_japanese.txt) has 7 untranslated strings.
+- [reactivedrop_japanese.txt](resource/reactivedrop_japanese.txt) has 2 untranslated strings.
 
 </details>
 
@@ -1094,8 +1091,7 @@
 
 ### Strings
 
-- [inventory_service_tags_russian.vdf](community/inventory_service/inventory_service_tags_russian.vdf) has 1 untranslated strings.
-- [reactivedrop_russian.txt](resource/reactivedrop_russian.txt) has 16 untranslated strings.
+- [reactivedrop_russian.txt](resource/reactivedrop_russian.txt) has 2 untranslated strings.
 
 </details>
 
@@ -1457,7 +1453,7 @@
 
 ### Strings
 
-- [reactivedrop_swedish.txt](resource/reactivedrop_swedish.txt) has 1320 untranslated strings.
+- [reactivedrop_swedish.txt](resource/reactivedrop_swedish.txt) has 977 untranslated strings.
 
 ### Upcoming Release Notes
 
