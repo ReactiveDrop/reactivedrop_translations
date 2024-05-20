@@ -1249,12 +1249,35 @@
 "asw_ammo_label"		"弹药："
 "[english]asw_ammo_percent_amount"		"%s1 percent"
 "asw_ammo_percent_amount"		"%s1 %"
-"[english]asw_kill_objective_format"		"%s1 %s2 %s3/%s4"
-"asw_kill_objective_format"		"%s1 %s2 %s3/%s4"
+		// %s1 is a string like #asw_drones (that is, an entity class with s added to the end)
+		// %s2 is the number killed so far (limited to be less than or equal to %s3)
+		// %s3 is the number needed to complete the objective
+		"[english]asw_kill_objective_format"		"Kill %s1 (%s2/%s3)"
+		"asw_kill_objective_format"		"击杀 %s1 (%s2/%s3)"
+		// %s1 is the number of eggs destroyed so far
+		// %s2 is the number of eggs that must be destroyed to complete the objective
+		"[english]asw_kill_eggs_objective_format"		"Destroy Swarm Eggs (%s1/%s2)"
+		"asw_kill_eggs_objective_format"		"摧毁 异形虫卵 (%s1/%s2)"
+// %s1 is the number of biomass destroyed so far
+// %s2 is the number of biomass that must be destroyed to complete the objective
+"[english]asw_kill_goo_objective_format"		"Destroy Biomass (%s1/%s2)"
+"asw_kill_goo_objective_format"		"摧毁生物质体 (%s1/%s2)"
+// %s1 is the mapper-provided objective name (for example, "Find documents")
+// %s2 is the number of times this objective was completed so far
+// %s3 is the number of times the objective is required to be completed
+"[english]asw_generic_objective_fraction"		"%s1 (%s2/%s3)"
+"asw_generic_objective_fraction"		"%s1 (%s2/%s3)"
+// %s1 is the mapper-provided objective name (for example, "Download the flight data")
+// %s2 is the percent of the objective that is completed (rounded down to the nearest percent)
+// optional: %s3 is the number of tenths of a percent of the objective that is completed (always a single digit)
+// if you want to use tenths of a percent precision, translate the string as if it was "%s1 (%s2.%s3%)"
+"[english]asw_generic_objective_percent"		"%s1 (%s2%)"
+"asw_generic_objective_percent"		"%s1 (%s2%)"
 "[english]asw_all_survive"		"Marines must survive"
 "asw_all_survive"		"所有士兵必须存活"
 "[english]asw_nuclear_warning"		"WARNING"
 "asw_nuclear_warning"		"警告"
+// %s1 is the number of seconds remaining in the countdown
 "[english]asw_nuclear_detonation"		"%s1"
 "asw_nuclear_detonation"		"%s1"
 "[english]asw_nuclear_detonationi"		"NUCLEAR DETONATION IMMINENT"
@@ -1404,8 +1427,6 @@
 "npc_combinegunship"		"武装舰"
 "[english]npc_combinegunships"		"Gunships"
 "npc_combinegunships"		"武装舰"
-"[english]asw_kill_goo_objective_format"		"Destroy Biomass %s1/%s2"
-"asw_kill_goo_objective_format"		"摧毁生物质体 %s1/%s2"
 "[english]asw_eggs"		"Swarm Eggs"
 "asw_eggs"		"异形虫卵"
 "[english]asw_egg"		"Swarm Egg"
@@ -3252,17 +3273,17 @@
 "nb_mission_options"		"任务选项"
 "[english]nb_difficulty_title"		"Difficulty"
 "nb_difficulty_title"		"难度"
-		"[english]nb_speedruntime_title"		"Speedrun Time"
-		"nb_speedruntime_title"		"Speedrun Time"
-		// the first %d is minutes and the second %d is seconds (printf formatting). examples - 1:42, 3:10, 1:07
-		"[english]nb_speedruntime_format"		"%d:%02d"
-		"nb_speedruntime_format"		"%d:%02d"
-		"[english]nb_oe_title"		"Outstanding Execution"
-		"nb_oe_title"		"Outstanding Execution"
-		"[english]nb_oe_status_active"		"Active"
-		"nb_oe_status_active"		"Active"
-		"[english]nb_oe_status_failed"		"Failed"
-		"nb_oe_status_failed"		"Failed"
+"[english]nb_speedruntime_title"		"Speedrun Time"
+"nb_speedruntime_title"		"速通时间"
+// the first %d is minutes and the second %d is seconds (printf formatting). examples - 1:42, 3:10, 1:07
+"[english]nb_speedruntime_format"		"%d:%02d"
+"nb_speedruntime_format"		"%d:%02d"
+"[english]nb_oe_title"		"Outstanding Execution"
+"nb_oe_title"		"完美执行"
+"[english]nb_oe_status_active"		"Active"
+"nb_oe_status_active"		"激活"
+"[english]nb_oe_status_failed"		"Failed"
+"nb_oe_status_failed"		"失败"
 "[english]nb_mission_brief"		"Mission Brief"
 "nb_mission_brief"		"任务摘要"
 "[english]nb_mission_details"		"Mission Details: %s1"
@@ -10104,6 +10125,10 @@
 "rd_lobby_tooltip_type_server_title"		"专用服务器房间"
 "[english]rd_lobby_tooltip_type_server_desc"		"This server is hosted by a member of the Alien Swarm: Reactive Drop community."
 "rd_lobby_tooltip_type_server_desc"		"该房间位于专用服务器上"
+"[english]rd_lobby_tooltip_type_modded_title"		"Modded Community Server"
+"rd_lobby_tooltip_type_modded_title"		"社区模组服务器"
+"[english]rd_lobby_tooltip_type_modded_desc"		"This server is hosted by a member of the Alien Swarm: Reactive Drop community.\nIt is using a custom version of the server code; your gameplay experience may vary."
+"rd_lobby_tooltip_type_modded_desc"		"该服务器由《异形丛生：虫启天降》社区成员建立.\n使用了修改版的服务器代码；开发组对您在此服务器上的游戏体验不做任何保证。"
 "[english]rd_lobby_tooltip_type_lan_server_title"		"LAN Server"
 "rd_lobby_tooltip_type_lan_server_title"		"局域网房间"
 "[english]rd_lobby_tooltip_type_lan_server_desc"		"This server is running on the same local area network as your computer."
@@ -10288,9 +10313,9 @@
 "rd_mission_modifier_crafting"		"本任务可以获得制作材料。"
 "[english]rd_mission_modifier_crafting_campaign"		"Crafting materials can currently be found in at least one mission in this campaign."
 "rd_mission_modifier_crafting_campaign"		"本战役有至少一个任务可以获得制作材料。"
-		// %s1 is one of the rd_crafting_material_rarity_* strings; %s2 is a number
-		"[english]rd_mission_modifier_crafting_rarity"		"%s1: %s2"
-		"rd_mission_modifier_crafting_rarity"		"%s1: %s2"
+// %s1 is one of the rd_crafting_material_rarity_* strings; %s2 is a number
+"[english]rd_mission_modifier_crafting_rarity"		"%s1: %s2"
+"rd_mission_modifier_crafting_rarity"		"%s1: %s2"
 
 "[english]rd_crafting_beta1_signup_title"		"Crafting Materials Beta - Phase 1"
 "rd_crafting_beta1_signup_title"		"制作材料测试 - 第1阶段"
@@ -10341,11 +10366,11 @@
 "[english]rd_unbox_strange_warnings_desc"		"Accept item despite the warnings?"
 "rd_unbox_strange_warnings_desc"		"无视警告接受物品？"
 
-		"[english]rd_attach_strange_device_warning_title"		"Strange Devices cannot be recovered"
-		"rd_attach_strange_device_warning_title"		"Strange Devices cannot be recovered"
-		// %s1 is item name; %s2 is accessory (strange device) name; %s3 is a number, usually 4.
-		"[english]rd_attach_strange_device_warning_desc"		"Are you sure you want to permanently attach '%s2' to '%s1'?\nOnce attached, the strange device cannot be retrieved or removed, and one of the item's %s3 strange device slots will be permanently consumed."
-		"rd_attach_strange_device_warning_desc"		"Are you sure you want to permanently attach '%s2' to '%s1'?\nOnce attached, the strange device cannot be retrieved or removed, and one of the item's %s3 strange device slots will be permanently consumed."
+"[english]rd_attach_strange_device_warning_title"		"Strange Devices cannot be recovered"
+"rd_attach_strange_device_warning_title"		"奇异装置无法拆卸"
+// %s1 is item name; %s2 is accessory (strange device) name; %s3 is a number, usually 4.
+"[english]rd_attach_strange_device_warning_desc"		"Are you sure you want to permanently attach '%s2' to '%s1'?\nOnce attached, the strange device cannot be retrieved or removed, and one of the item's %s3 strange device slots will be permanently consumed."
+"rd_attach_strange_device_warning_desc"		"确认将 %s2 永久安装到 %s1 上？\n一旦安装，该奇异装置将无法拆卸，同时将永久占用物品的 1 个安装槽位（共 %s3 个）。"
 
 // These strings will be used for the sign-up screen for the crafting materials beta and other opt-in things in the future.
 "[english]rd_redeem_special_waiting_steam"		"Requesting a ticket from Steam..."
@@ -10361,18 +10386,18 @@
 "[english]rd_redeem_special_success"		"Success! The items have been added to your inventory."
 "rd_redeem_special_success"		"兑换成功！物品已添加到您的库存中。"
 
-		// These should match the inventory_crafting_item_* translations in inventory_service_tags!
-		"[english]rd_crafting_material_rarity_industrial"		"Industrial"
-		"rd_crafting_material_rarity_industrial"		"Industrial"
-		"[english]rd_crafting_material_rarity_bulk"		"Bulk"
-		"rd_crafting_material_rarity_bulk"		"Bulk"
-		"[english]rd_crafting_material_rarity_alien"		"Alien"
-		"rd_crafting_material_rarity_alien"		"Alien"
-		"[english]rd_crafting_material_rarity_tech"		"Tech"
-		"rd_crafting_material_rarity_tech"		"Tech"
-		"[english]rd_crafting_material_rarity_salvaged"		"Salvaged"
-		"rd_crafting_material_rarity_salvaged"		"Salvaged"
-		"[english]rd_crafting_material_rarity_refined"		"Refined"
-		"rd_crafting_material_rarity_refined"		"Refined"
+// These should match the inventory_crafting_item_* translations in inventory_service_tags!
+"[english]rd_crafting_material_rarity_industrial"		"Industrial"
+"rd_crafting_material_rarity_industrial"		"工业材料"
+"[english]rd_crafting_material_rarity_bulk"		"Bulk"
+"rd_crafting_material_rarity_bulk"		"散装材料"
+"[english]rd_crafting_material_rarity_alien"		"Alien"
+"rd_crafting_material_rarity_alien"		"异形材料"
+"[english]rd_crafting_material_rarity_tech"		"Tech"
+"rd_crafting_material_rarity_tech"		"科技材料"
+"[english]rd_crafting_material_rarity_salvaged"		"Salvaged"
+"rd_crafting_material_rarity_salvaged"		"回收材料"
+"[english]rd_crafting_material_rarity_refined"		"Refined"
+"rd_crafting_material_rarity_refined"		"精炼材料"
 }
 }

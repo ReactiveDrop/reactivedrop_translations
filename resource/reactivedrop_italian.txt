@@ -1249,12 +1249,35 @@
 "asw_ammo_label"		"Munizioni:"
 "[english]asw_ammo_percent_amount"		"%s1 percent"
 "asw_ammo_percent_amount"		"%s1 percento"
-"[english]asw_kill_objective_format"		"%s1 %s2 %s3/%s4"
-"asw_kill_objective_format"		"%s1 %s2 %s3/%s4"
+// %s1 is a string like #asw_drones (that is, an entity class with s added to the end)
+// %s2 is the number killed so far (limited to be less than or equal to %s3)
+// %s3 is the number needed to complete the objective
+"[english]asw_kill_objective_format"		"Kill %s1 (%s2/%s3)"
+"asw_kill_objective_format"		"Uccidete %s1 (%s2/%s3)"
+// %s1 is the number of eggs destroyed so far
+// %s2 is the number of eggs that must be destroyed to complete the objective
+"[english]asw_kill_eggs_objective_format"		"Destroy Swarm Eggs (%s1/%s2)"
+"asw_kill_eggs_objective_format"		"Distruggete Uova dello Sciame (%s1/%s2)"
+// %s1 is the number of biomass destroyed so far
+// %s2 is the number of biomass that must be destroyed to complete the objective
+"[english]asw_kill_goo_objective_format"		"Destroy Biomass (%s1/%s2)"
+"asw_kill_goo_objective_format"		"Distruggete la Biomassa (%s1/%s2)"
+// %s1 is the mapper-provided objective name (for example, "Find documents")
+// %s2 is the number of times this objective was completed so far
+// %s3 is the number of times the objective is required to be completed
+"[english]asw_generic_objective_fraction"		"%s1 (%s2/%s3)"
+"asw_generic_objective_fraction"		"%s1 (%s2/%s3)"
+// %s1 is the mapper-provided objective name (for example, "Download the flight data")
+// %s2 is the percent of the objective that is completed (rounded down to the nearest percent)
+// optional: %s3 is the number of tenths of a percent of the objective that is completed (always a single digit)
+// if you want to use tenths of a percent precision, translate the string as if it was "%s1 (%s2.%s3%)"
+"[english]asw_generic_objective_percent"		"%s1 (%s2%)"
+"asw_generic_objective_percent"		"%s1 (%s2%)"
 "[english]asw_all_survive"		"Marines must survive"
 "asw_all_survive"		"I Soldati devono sopravvivere"
 "[english]asw_nuclear_warning"		"WARNING"
 "asw_nuclear_warning"		"ATTENZIONE"
+// %s1 is the number of seconds remaining in the countdown
 "[english]asw_nuclear_detonation"		"%s1"
 "asw_nuclear_detonation"		"%s1"
 "[english]asw_nuclear_detonationi"		"NUCLEAR DETONATION IMMINENT"
@@ -1404,8 +1427,6 @@
 "npc_combinegunship"		"Gunship"
 "[english]npc_combinegunships"		"Gunships"
 "npc_combinegunships"		"Gunship"
-"[english]asw_kill_goo_objective_format"		"Destroy Biomass %s1/%s2"
-"asw_kill_goo_objective_format"		"Distruggete la Biomassa %s1/%s2"
 "[english]asw_eggs"		"Swarm Eggs"
 "asw_eggs"		"Uova dello Sciame"
 "[english]asw_egg"		"Swarm Egg"
@@ -3252,17 +3273,17 @@
 "nb_mission_options"		"OPZIONI MISSIONE"
 "[english]nb_difficulty_title"		"Difficulty"
 "nb_difficulty_title"		"Difficoltà"
-		"[english]nb_speedruntime_title"		"Speedrun Time"
-		"nb_speedruntime_title"		"Speedrun Time"
-		// the first %d is minutes and the second %d is seconds (printf formatting). examples - 1:42, 3:10, 1:07
-		"[english]nb_speedruntime_format"		"%d:%02d"
-		"nb_speedruntime_format"		"%d:%02d"
-		"[english]nb_oe_title"		"Outstanding Execution"
-		"nb_oe_title"		"Outstanding Execution"
-		"[english]nb_oe_status_active"		"Active"
-		"nb_oe_status_active"		"Active"
-		"[english]nb_oe_status_failed"		"Failed"
-		"nb_oe_status_failed"		"Failed"
+"[english]nb_speedruntime_title"		"Speedrun Time"
+"nb_speedruntime_title"		"Tempo Speedrun"
+// the first %d is minutes and the second %d is seconds (printf formatting). examples - 1:42, 3:10, 1:07
+"[english]nb_speedruntime_format"		"%d:%02d"
+"nb_speedruntime_format"		"%d:%02d"
+"[english]nb_oe_title"		"Outstanding Execution"
+"nb_oe_title"		"Esecuzione Impeccabile"
+"[english]nb_oe_status_active"		"Active"
+"nb_oe_status_active"		"Attiva"
+"[english]nb_oe_status_failed"		"Failed"
+"nb_oe_status_failed"		"Fallita"
 "[english]nb_mission_brief"		"Mission Brief"
 "nb_mission_brief"		"Briefing Missione"
 "[english]nb_mission_details"		"Mission Details: %s1"
@@ -10104,6 +10125,10 @@
 "rd_lobby_tooltip_type_server_title"		"Server della Comunità"
 "[english]rd_lobby_tooltip_type_server_desc"		"This server is hosted by a member of the Alien Swarm: Reactive Drop community."
 "rd_lobby_tooltip_type_server_desc"		"Questo server è ospitato da un membro della comunità di Alien Swarm: Reactive Drop."
+"[english]rd_lobby_tooltip_type_modded_title"		"Modded Community Server"
+"rd_lobby_tooltip_type_modded_title"		"Server della Comunità Moddato"
+"[english]rd_lobby_tooltip_type_modded_desc"		"This server is hosted by a member of the Alien Swarm: Reactive Drop community.\nIt is using a custom version of the server code; your gameplay experience may vary."
+"rd_lobby_tooltip_type_modded_desc"		"Questo server è ospitato da un membro della comunità di Alien Swarm: Reactive Drop.\nUtilizza una versione personalizzata del codice del server; l'esperienza di gioco potrebbe variare."
 "[english]rd_lobby_tooltip_type_lan_server_title"		"LAN Server"
 "rd_lobby_tooltip_type_lan_server_title"		"Server LAN"
 "[english]rd_lobby_tooltip_type_lan_server_desc"		"This server is running on the same local area network as your computer."
@@ -10288,9 +10313,9 @@
 "rd_mission_modifier_crafting"		"Potresti trovare dei materiali per la fabbricazione in questa missione."
 "[english]rd_mission_modifier_crafting_campaign"		"Crafting materials can currently be found in at least one mission in this campaign."
 "rd_mission_modifier_crafting_campaign"		"Potresti trovare dei materiali per la fabbricazione in almeno una missione di questa campagna."
-		// %s1 is one of the rd_crafting_material_rarity_* strings; %s2 is a number
-		"[english]rd_mission_modifier_crafting_rarity"		"%s1: %s2"
-		"rd_mission_modifier_crafting_rarity"		"%s1: %s2"
+// %s1 is one of the rd_crafting_material_rarity_* strings; %s2 is a number
+"[english]rd_mission_modifier_crafting_rarity"		"%s1: %s2"
+"rd_mission_modifier_crafting_rarity"		"%s1: %s2"
 
 "[english]rd_crafting_beta1_signup_title"		"Crafting Materials Beta - Phase 1"
 "rd_crafting_beta1_signup_title"		"Beta dei materiali di fabbricazione - Fase 1"
@@ -10341,11 +10366,11 @@
 "[english]rd_unbox_strange_warnings_desc"		"Accept item despite the warnings?"
 "rd_unbox_strange_warnings_desc"		"Accettare l'oggetto nonostante le avvertenze?"
 
-		"[english]rd_attach_strange_device_warning_title"		"Strange Devices cannot be recovered"
-		"rd_attach_strange_device_warning_title"		"Strange Devices cannot be recovered"
-		// %s1 is item name; %s2 is accessory (strange device) name; %s3 is a number, usually 4.
-		"[english]rd_attach_strange_device_warning_desc"		"Are you sure you want to permanently attach '%s2' to '%s1'?\nOnce attached, the strange device cannot be retrieved or removed, and one of the item's %s3 strange device slots will be permanently consumed."
-		"rd_attach_strange_device_warning_desc"		"Are you sure you want to permanently attach '%s2' to '%s1'?\nOnce attached, the strange device cannot be retrieved or removed, and one of the item's %s3 strange device slots will be permanently consumed."
+"[english]rd_attach_strange_device_warning_title"		"Strange Devices cannot be recovered"
+"rd_attach_strange_device_warning_title"		"I dispositivi strani non possono essere recuperati"
+// %s1 is item name; %s2 is accessory (strange device) name; %s3 is a number, usually 4.
+"[english]rd_attach_strange_device_warning_desc"		"Are you sure you want to permanently attach '%s2' to '%s1'?\nOnce attached, the strange device cannot be retrieved or removed, and one of the item's %s3 strange device slots will be permanently consumed."
+"rd_attach_strange_device_warning_desc"		"Sei sicuro di voler fissare in modo permanente '%s2' a '%s1'?\nUna volta attaccato, il dispositivo strano non può essere recuperato o rimosso e uno dei %s3 slot per dispositivi strani dell'oggetto sarà consumato in modo permanente."
 
 // These strings will be used for the sign-up screen for the crafting materials beta and other opt-in things in the future.
 "[english]rd_redeem_special_waiting_steam"		"Requesting a ticket from Steam..."
@@ -10361,18 +10386,18 @@
 "[english]rd_redeem_special_success"		"Success! The items have been added to your inventory."
 "rd_redeem_special_success"		"Successo! Gli oggetti sono stati aggiunti all'inventario."
 
-		// These should match the inventory_crafting_item_* translations in inventory_service_tags!
-		"[english]rd_crafting_material_rarity_industrial"		"Industrial"
-		"rd_crafting_material_rarity_industrial"		"Industrial"
-		"[english]rd_crafting_material_rarity_bulk"		"Bulk"
-		"rd_crafting_material_rarity_bulk"		"Bulk"
-		"[english]rd_crafting_material_rarity_alien"		"Alien"
-		"rd_crafting_material_rarity_alien"		"Alien"
-		"[english]rd_crafting_material_rarity_tech"		"Tech"
-		"rd_crafting_material_rarity_tech"		"Tech"
-		"[english]rd_crafting_material_rarity_salvaged"		"Salvaged"
-		"rd_crafting_material_rarity_salvaged"		"Salvaged"
-		"[english]rd_crafting_material_rarity_refined"		"Refined"
-		"rd_crafting_material_rarity_refined"		"Refined"
+// These should match the inventory_crafting_item_* translations in inventory_service_tags!
+"[english]rd_crafting_material_rarity_industrial"		"Industrial"
+"rd_crafting_material_rarity_industrial"		"Industriale"
+"[english]rd_crafting_material_rarity_bulk"		"Bulk"
+"rd_crafting_material_rarity_bulk"		"Sfuso"
+"[english]rd_crafting_material_rarity_alien"		"Alien"
+"rd_crafting_material_rarity_alien"		"Alieno"
+"[english]rd_crafting_material_rarity_tech"		"Tech"
+"rd_crafting_material_rarity_tech"		"Tecnologico"
+"[english]rd_crafting_material_rarity_salvaged"		"Salvaged"
+"rd_crafting_material_rarity_salvaged"		"Recuperato"
+"[english]rd_crafting_material_rarity_refined"		"Refined"
+"rd_crafting_material_rarity_refined"		"Raffinato"
 }
 }

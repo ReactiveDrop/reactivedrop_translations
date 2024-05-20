@@ -1249,12 +1249,35 @@
 "asw_ammo_label"		"Набої:"
 "[english]asw_ammo_percent_amount"		"%s1 percent"
 "asw_ammo_percent_amount"		"%s1 %"
-"[english]asw_kill_objective_format"		"%s1 %s2 %s3/%s4"
-"asw_kill_objective_format"		"%s1 %s2 %s3/%s4"
+// %s1 is a string like #asw_drones (that is, an entity class with s added to the end)
+// %s2 is the number killed so far (limited to be less than or equal to %s3)
+// %s3 is the number needed to complete the objective
+"[english]asw_kill_objective_format"		"Kill %s1 (%s2/%s3)"
+"asw_kill_objective_format"		"Убити %s1 (%s2/%s3)"
+// %s1 is the number of eggs destroyed so far
+// %s2 is the number of eggs that must be destroyed to complete the objective
+"[english]asw_kill_eggs_objective_format"		"Destroy Swarm Eggs (%s1/%s2)"
+"asw_kill_eggs_objective_format"		"Знищити Яйця (%s1/%s2)"
+// %s1 is the number of biomass destroyed so far
+// %s2 is the number of biomass that must be destroyed to complete the objective
+"[english]asw_kill_goo_objective_format"		"Destroy Biomass (%s1/%s2)"
+"asw_kill_goo_objective_format"		"Знищіть біомасу (%s1/%s2)"
+// %s1 is the mapper-provided objective name (for example, "Find documents")
+// %s2 is the number of times this objective was completed so far
+// %s3 is the number of times the objective is required to be completed
+"[english]asw_generic_objective_fraction"		"%s1 (%s2/%s3)"
+"asw_generic_objective_fraction"		"%s1 (%s2/%s3)"
+// %s1 is the mapper-provided objective name (for example, "Download the flight data")
+// %s2 is the percent of the objective that is completed (rounded down to the nearest percent)
+// optional: %s3 is the number of tenths of a percent of the objective that is completed (always a single digit)
+// if you want to use tenths of a percent precision, translate the string as if it was "%s1 (%s2.%s3%)"
+"[english]asw_generic_objective_percent"		"%s1 (%s2%)"
+"asw_generic_objective_percent"		"%s1 (%s2%)"
 "[english]asw_all_survive"		"Marines must survive"
 "asw_all_survive"		"Десантники повинні вижити"
 "[english]asw_nuclear_warning"		"WARNING"
 "asw_nuclear_warning"		"ПОПЕРЕДЖЕННЯ"
+// %s1 is the number of seconds remaining in the countdown
 "[english]asw_nuclear_detonation"		"%s1"
 "asw_nuclear_detonation"		"%s1"
 "[english]asw_nuclear_detonationi"		"NUCLEAR DETONATION IMMINENT"
@@ -1404,8 +1427,6 @@
 		"npc_combinegunship"		"Gunship"
 		"[english]npc_combinegunships"		"Gunships"
 		"npc_combinegunships"		"Gunships"
-"[english]asw_kill_goo_objective_format"		"Destroy Biomass %s1/%s2"
-"asw_kill_goo_objective_format"		"Знищіть біомасу %s1/%s2"
 "[english]asw_eggs"		"Swarm Eggs"
 "asw_eggs"		"Яйця"
 "[english]asw_egg"		"Swarm Egg"
@@ -10104,6 +10125,10 @@
 		"rd_lobby_tooltip_type_server_title"		"Community Server"
 		"[english]rd_lobby_tooltip_type_server_desc"		"This server is hosted by a member of the Alien Swarm: Reactive Drop community."
 		"rd_lobby_tooltip_type_server_desc"		"This server is hosted by a member of the Alien Swarm: Reactive Drop community."
+		"[english]rd_lobby_tooltip_type_modded_title"		"Modded Community Server"
+		"rd_lobby_tooltip_type_modded_title"		"Modded Community Server"
+		"[english]rd_lobby_tooltip_type_modded_desc"		"This server is hosted by a member of the Alien Swarm: Reactive Drop community.\nIt is using a custom version of the server code; your gameplay experience may vary."
+		"rd_lobby_tooltip_type_modded_desc"		"This server is hosted by a member of the Alien Swarm: Reactive Drop community.\nIt is using a custom version of the server code; your gameplay experience may vary."
 		"[english]rd_lobby_tooltip_type_lan_server_title"		"LAN Server"
 		"rd_lobby_tooltip_type_lan_server_title"		"LAN Server"
 		"[english]rd_lobby_tooltip_type_lan_server_desc"		"This server is running on the same local area network as your computer."
