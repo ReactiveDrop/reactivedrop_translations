@@ -1249,19 +1249,19 @@
 "asw_ammo_label"		"弾薬:"
 "[english]asw_ammo_percent_amount"		"%s1 percent"
 "asw_ammo_percent_amount"		"%s1 パーセント"
-		// %s1 is a string like #asw_drones (that is, an entity class with s added to the end)
-		// %s2 is the number killed so far (limited to be less than or equal to %s3)
-		// %s3 is the number needed to complete the objective
-		"[english]asw_kill_objective_format"		"Kill %s1 (%s2/%s3)"
-		"asw_kill_objective_format"		"キル数 %s1 (%s2/%s3)"
-		// %s1 is the number of eggs destroyed so far
-		// %s2 is the number of eggs that must be destroyed to complete the objective
-		"[english]asw_kill_eggs_objective_format"		"Destroy Swarm Eggs (%s1/%s2)"
-		"asw_kill_eggs_objective_format"		"破壊する エイリアンの卵 (%s1/%s2)"
+// %s1 is a string like #asw_drones (that is, an entity class with s added to the end)
+// %s2 is the number killed so far (limited to be less than or equal to %s3)
+// %s3 is the number needed to complete the objective
+"[english]asw_kill_objective_format"		"Kill %s1 (%s2/%s3)"
+"asw_kill_objective_format"		"%s1を倒す (%s2/%s3)"
+// %s1 is the number of eggs destroyed so far
+// %s2 is the number of eggs that must be destroyed to complete the objective
+"[english]asw_kill_eggs_objective_format"		"Destroy Swarm Eggs (%s1/%s2)"
+"asw_kill_eggs_objective_format"		"エイリアンの卵を破壊 (%s1/%s2)"
 // %s1 is the number of biomass destroyed so far
 // %s2 is the number of biomass that must be destroyed to complete the objective
 "[english]asw_kill_goo_objective_format"		"Destroy Biomass (%s1/%s2)"
-"asw_kill_goo_objective_format"		"バイオマスを破壊する (%s1/%s2)"
+"asw_kill_goo_objective_format"		"バイオマスを破壊 (%s1/%s2)"
 // %s1 is the mapper-provided objective name (for example, "Find documents")
 // %s2 is the number of times this objective was completed so far
 // %s3 is the number of times the objective is required to be completed
