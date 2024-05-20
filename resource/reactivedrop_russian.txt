@@ -1253,7 +1253,7 @@
 // %s2 is the number killed so far (limited to be less than or equal to %s3)
 // %s3 is the number needed to complete the objective
 "[english]asw_kill_objective_format"		"Kill %s1 (%s2/%s3)"
-"asw_kill_objective_format"		"Убейте %s1 (%s2/%s3)"
+"asw_kill_objective_format"		"Убейте: %s1 (%s2/%s3)"
 // %s1 is the number of eggs destroyed so far
 // %s2 is the number of eggs that must be destroyed to complete the objective
 "[english]asw_kill_eggs_objective_format"		"Destroy Swarm Eggs (%s1/%s2)"
@@ -10126,10 +10126,10 @@
 "rd_lobby_tooltip_type_server_title"		"Сервер сообщества"
 "[english]rd_lobby_tooltip_type_server_desc"		"This server is hosted by a member of the Alien Swarm: Reactive Drop community."
 "rd_lobby_tooltip_type_server_desc"		"Этот сервер создан участником сообщества Alien Swarm: Reactive Drop."
-		"[english]rd_lobby_tooltip_type_modded_title"		"Modded Community Server"
-		"rd_lobby_tooltip_type_modded_title"		"Modded Community Server"
-		"[english]rd_lobby_tooltip_type_modded_desc"		"This server is hosted by a member of the Alien Swarm: Reactive Drop community.\nIt is using a custom version of the server code; your gameplay experience may vary."
-		"rd_lobby_tooltip_type_modded_desc"		"This server is hosted by a member of the Alien Swarm: Reactive Drop community.\nIt is using a custom version of the server code; your gameplay experience may vary."
+"[english]rd_lobby_tooltip_type_modded_title"		"Modded Community Server"
+"rd_lobby_tooltip_type_modded_title"		"Модифицированный сервер сообщества"
+"[english]rd_lobby_tooltip_type_modded_desc"		"This server is hosted by a member of the Alien Swarm: Reactive Drop community.\nIt is using a custom version of the server code; your gameplay experience may vary."
+"rd_lobby_tooltip_type_modded_desc"		"Этот сервер создан участником сообщества Alien Swarm: Reactive Drop.\nОн использует пользовательскую версию кода сервера; игра может отличаться от обычной."
 "[english]rd_lobby_tooltip_type_lan_server_title"		"LAN Server"
 "rd_lobby_tooltip_type_lan_server_title"		"Локальный сервер"
 "[english]rd_lobby_tooltip_type_lan_server_desc"		"This server is running on the same local area network as your computer."
