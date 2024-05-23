@@ -1253,15 +1253,15 @@
 // %s2 is the number killed so far (limited to be less than or equal to %s3)
 // %s3 is the number needed to complete the objective
 "[english]asw_kill_objective_format"		"Kill %s1 (%s2/%s3)"
-"asw_kill_objective_format"		"Töten %s1 (%s2/%s3)"
+"asw_kill_objective_format"		"%s1 töten (%s2/%s3)"
 // %s1 is the number of eggs destroyed so far
 // %s2 is the number of eggs that must be destroyed to complete the objective
 "[english]asw_kill_eggs_objective_format"		"Destroy Swarm Eggs (%s1/%s2)"
-"asw_kill_eggs_objective_format"		"Zerstört Parasiten-Eier (%s1/%s2)"
+"asw_kill_eggs_objective_format"		"Parasiten-Eier zerstören (%s1/%s2)"
 // %s1 is the number of biomass destroyed so far
 // %s2 is the number of biomass that must be destroyed to complete the objective
 "[english]asw_kill_goo_objective_format"		"Destroy Biomass (%s1/%s2)"
-"asw_kill_goo_objective_format"		"Biomasse zerstört (%s1/%s2)"
+"asw_kill_goo_objective_format"		"Biomasse zerstören (%s1/%s2)"
 // %s1 is the mapper-provided objective name (for example, "Find documents")
 // %s2 is the number of times this objective was completed so far
 // %s3 is the number of times the objective is required to be completed
@@ -1285,7 +1285,7 @@
 "[english]asw_kill"		"Kill"
 "asw_kill"		"Töten"
 "[english]asw_destroy"		"Destroy"
-"asw_destroy"		"Zerstört"
+"asw_destroy"		"Zerstören"
 "[english]asw_marine"		"Marine"
 "asw_marine"		"Soldat"
 "[english]asw_marines"		"Marines"
