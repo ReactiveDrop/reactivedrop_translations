@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<content><string id="body">We've extended the deadline for submissions to the 2024 mapping competition until the end of July, so you have two extra months to make your mission.
+
+An update has been released with the following changes:
+
+[h2]Balance[/h2]
+[list]
+[*]Reduced the attack speed of drones that are on fire by 40%. (Or 28.6%, depending on how you do the math. It now matches their normal attack speed.)
+[*]Retrying the first mission of a campaign now resets eligibility for Outstanding Execution achievements.
+[/list]
+
+[h2]Heroes of the Interstellar Armed Forces[/h2]
+[list]
+[*]Added the [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3142399089]Magnum Opus[/url] campaign by vq.
+[*]Added the [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3247801260]Downed Station[/url] bonus mission by legomanas.
+[*]Added the [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3236503229]ASBI Veteran[/url] challenge and its variants.
+[*]Removed the Absolute Madness campaign.
+[*]A full list of changes to Heroes of the Interstellar Armed Forces can be found [url=https://developer.reactivedrop.com/hoiaf.html#june-1-2024-season-24]on the developer website[/url].
+[/list]
+
+[h2]Menus[/h2]
+[list]
+[*]Valve has added a patch to Proton Experimental that greatly improves text legibility on Linux devices like the Steam Deck.
+[*]Added an alternate icon for dedicated servers known to be running a unofficial server code in the lobby list.
+[*]Fixed special event timers not appearing on the main menu.
+[*]Fixed certain buttons incorrectly showing a hint to use the B button on a controller when not connected to a lobby.
+[*]Added an inventory tab for non-medals. Perhaps something you can find on the beta branch?
+[*]Inventory items that automatically stack now show a quantity in the inventory screen.
+[*]Added an icon for campaigns and missions downloaded from the Steam Workshop in the mission chooser.
+[*]Fixed the Workshop publishing interface not allowing edits if the preview image has not loaded.
+[*]Increased the size of tooltips for better readability.
+[*]Changed the "dim" text color in the legacy server browser from black to light gray for readability.
+[*]Fixed opening notifications while not on the main menu resulting in stacking menu items.
+[/list]
+
+[h2]In-Game[/h2]
+[list]
+[*]Fixed Swarmopedia article unlocks showing garbled text.
+[*]Fixed a crash that could occur when restarting a mission while viewing a computer screen in-game.
+[*]Fixed the formatting of the player voting panel when more than 8 players are in a lobby.
+[*]Added the speedrun time to mission briefing.
+[*]Improved formatting of dynamic objective names like "Destroy Swarm Eggs".
+[*]"Download data" objectives now show a completion percentage.
+[*]Fixed zombies splitting in half from sources of damage that do not have associated ammo types.
+[/list]
+
+[h2]Modding[/h2]
+[list]
+[*]asw_objective_triggered now has support for percentage-based formatting of objective progress.
+[*]Changing rd_override_alien_selection_challenge no longer writes a message to chat.
+[*]Fixed missions with no version number defined not being able to be played in multiplayer lobbies.
+[/list]
+</string><string id="subtitle"></string><string id="summary"></string><string id="title">Alien Swarm: Reactive Drop Update - June 1, 2024</string></content>
