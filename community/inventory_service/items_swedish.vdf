@@ -246,11 +246,11 @@
 "[english]item_event_medal_mapping_2023_name"		"Mapping Competition Participant (2023)"
 "item_event_medal_mapping_2023_name"		"Karttävlings Deltagare (2023)"
 "[english]item_event_medal_mapping_2023_description"		"Submitted an entry to the first annual mapping competition: \"Boss Fight\", running from April 20th to August 1st 2023."
-"item_event_medal_mapping_2023_description"		"Skickade in ett bidrag till den första årliga karttävlingen: Boss Fight, pågår från den 20 april till 1 augusti 2023."
+"item_event_medal_mapping_2023_description"		"Skickade in ett bidrag till den första årliga karttävlingen: Boss Fight, pågår från 20 april till 1 augusti 2023."
 "[english]item_event_medal_mapping_2024_name"		"Mapping Competition Participant (2024)"
 "item_event_medal_mapping_2024_name"		"Karttävlings Deltagare (2024)"
 "[english]item_event_medal_mapping_2024_description"		"Submitted an entry to the second annual mapping competition: \"Space Station\", running from April 20th to August 1st 2024."
-"item_event_medal_mapping_2024_description"		"Skickade in ett bidrag till den andra årliga karttävlingen: Rymdstation, pågår från den 20 april till 1 augusti 2023."
+"item_event_medal_mapping_2024_description"		"Skickade in ett bidrag till den andra årliga karttävlingen: Rymdstation, pågår från 20 april till 1 augusti 2024."
 
 "[english]item_unique_medal_ben_lubar_name"		"Ben Lubar"
 "item_unique_medal_ben_lubar_name"		"Ben Lubar"
@@ -419,7 +419,7 @@
 "[english]item_strange_device_fast_hacks_name"		"Fast Hacks"
 "item_strange_device_fast_hacks_name"		"Snabba Hackar"
 "[english]item_strange_device_enemies_frozen_name"		"Enemies Frozen"
-"item_strange_device_enemies_frozen_name"		"Fiender Frysna"
+"item_strange_device_enemies_frozen_name"		"Fiender Frysta"
 // extinguished as in putting out a fire
 "[english]item_strange_device_allies_extinguished_name"		"Allies Extinguished"
 "item_strange_device_allies_extinguished_name"		"Allierade Släckta"
