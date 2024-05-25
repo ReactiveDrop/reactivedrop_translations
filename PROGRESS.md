@@ -11,7 +11,7 @@
 | [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 1 |
 | [Hungarian](#non-curated-languages) | 55 | 138 | 42 | 3205 | 259 | 209 | 978 | 147 |
 | [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 1 |
-| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 35 | 1 |
+| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 35 | ✔️ |
 | [Korean](#koreana-한국어) | 11 | 10 | 38 | 1703 | 259 | 31 | 449 | 48 |
 | [Norwegian Bokmål](#non-curated-languages) | 73 | 708 | 47 | 3911 | 259 | 209 | 713 | 147 |
 | [Polish](#polish-polski) | 32 | 2004 | 42 | 3207 | 259 | 209 | 709 | 143 |
@@ -606,10 +606,6 @@
 ### Strings
 
 - [platform/vgui_japanese.txt](platform/vgui_japanese.txt) has 35 untranslated strings.
-
-### Upcoming Release Notes
-
-- [20240601_japanese.xml](release_notes/20240601_english.xml) is missing.
 
 </details>
 
