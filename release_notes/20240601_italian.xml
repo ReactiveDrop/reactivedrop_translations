@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<content><string id="body">Abbiamo prorogato la scadenza per la presentazione delle candidature al concorso di mapping 2024 fino alla fine di luglio, quindi avete due mesi in più per realizzare la vostra missione.
+
+È stato rilasciato un aggiornamento con le seguenti modifiche:
+
+[h2]Bilanciamento[/h2]
+[list]
+[*]Riduzione del 40% della velocità di attacco dei droni in fiamme. (O del 28,6%, a seconda di come si fa il calcolo. Ora corrisponde alla loro normale velocità d'attacco).
+[*]Riprovare la prima missione di una campagna ora ripristina l'idoneità per gli achievement di Esecuzione Impeccabile.
+[/list]
+
+[h2]Eroi delle Forze Armate Interstellari[/h2]
+[list]
+[*]Aggiunta la campagna [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3142399089]Magnum Opus[/url] di vq.
+[*]Aggiunta la missione bonus [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3247801260]Downed Station[/url] di legomanas.
+[*]Aggiunta la sfida [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3236503229]ASBI Veteran[/url] e le sue varianti.
+[*]Rimossa la campagna Absolute Madness.
+[*]L'elenco completo delle modifiche apportate a Eroi delle Forze Armate Interstellari è disponibile [url=https://developer.reactivedrop.com/hoiaf.html#june-1-2024-season-24]sul sito dello sviluppatore[/url].
+[/list]
+
+[h2]Menu[/h2]
+[list]
+[*]Valve ha aggiunto una patch a Proton Experimental che migliora notevolmente la leggibilità del testo su dispositivi Linux come Steam Deck.
+[*]Aggiunta un'icona alternativa per i server dedicati che eseguono un codice server non ufficiale nell'elenco della lobby.
+[*]Corretto il timer degli eventi speciali che non appariva nel menu principale.
+[*]Sono stati corretti alcuni pulsanti che mostravano erroneamente un suggerimento di usare il pulsante B su un controller quando non si era connessi a una lobby.
+[*]Aggiunta una scheda dell'inventario per tutto ciò che non è una medaglia. Forse qualcosa che si può trovare nella versione beta?
+[*]Gli articoli dell'inventario cumulabili ora mostrano la loro quantità nella schermata dell'inventario.
+[*]Aggiunta un'icona per le campagne e le missioni scaricate dal Workshop di Steam nella schermata di selezione delle missioni.
+[*]Corretta l'interfaccia di pubblicazione del Workshop che non permetteva le modifiche se l'immagine di anteprima non era stata caricata.
+[*]Aumentate le dimensioni dei consigli per una migliore leggibilità.
+[*]Modificato il colore del testo "fioco" nel browser del server legacy da nero a grigio chiaro per migliorare la leggibilità.
+[*]Corretto il problema dell'apertura delle notifiche quando non si è nel menu principale, con conseguente impilamento delle voci del menu.
+[/list]
+
+[h2]In Gioco[/h2]
+[list]
+[*]Corretto lo sblocco degli articoli della Swarmopedia che mostrava testo confuso.
+[*]Corretto un arresto anomalo che poteva verificarsi al riavvio di una missione mentre si visualizzava la schermata del computer nel gioco.
+[*]Corretta la formattazione del pannello di votazione dei giocatori quando in una lobby sono presenti più di 8 giocatori.
+[*]Aggiunto il tempo della speedrun nel briefing della missione.
+[*]Migliorata la formattazione dei nomi degli obiettivi dinamici come "Distruggi Uova dello Sciame".
+[*]Gli obiettivi "Scarica dati" ora mostrano una percentuale di completamento.
+[*]Sistemati gli zombi che si dividono a metà a causa di fonti di danno che non hanno tipi di munizioni associate.
+[/list]
+
+[h2]Modding[/h2]
+[list]
+[*]asw_objective_triggered ora supporta la formattazione in percentuale dei progressi degli obiettivi.
+[*]Cambiare rd_override_alien_selection_challenge non scrive più un messaggio nella chat.
+[*]Corretta l'impossibilità di giocare le missioni senza numero di versione definito nelle lobby multigiocatore.
+[/list]
+</string><string id="subtitle"></string><string id="summary"></string><string id="title">Aggiornamento di Alien Swarm: Reactive Drop - 1 Giugno 2024</string></content>
