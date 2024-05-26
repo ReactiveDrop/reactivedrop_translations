@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<content><string id="body">Wir haben den Einsendeschluss für den Mapping-Wettbewerb 2024 bis Ende Juli verlängert, sodass du noch zwei Monate Zeit hast, deinen Einsatz zu erstellen.
+
+Es wurde ein Update mit den folgenden Änderungen veröffentlicht:
+
+[h2]Gleichgewicht[/h2]
+[list]
+[*]Die Angriffsgeschwindigkeit von Drohnen, die in Flammen stehen, wurde um 40% reduziert. (Oder 28,6%, je nachdem, wie du rechnest. Sie entspricht jetzt ihrer normalen Angriffsgeschwindigkeit.)
+[*]Wenn du den ersten Einsatz eines Feldzugs noch einmal versuchst, kannst du jetzt die Errungenschaften für "Herausragende Leistung" zurücksetzen.
+[/list]
+
+[h2]Helden der Interstellaren Streitkräfte[/h2]
+[list]
+[*]Der Feldzug [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3142399089]Magnum Opus[/url] von vq wurde hinzugefügt.
+[*]Der Bonuseinsatz [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3247801260]Downed Station[/url] von legomanas wurde hinzugefügt.
+[*]Die Herausforderung [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3236503229]ASBI Veteran[/url] und ihre Varianten wurden hinzugefügt.
+[*]er Feldzug "Absolute Madness" wurde entfernt.
+[*]Eine vollständige Liste der Änderungen an Helden der interstellaren Streitkräfte findest du [url=https://developer.reactivedrop.com/hoiaf.html#june-1-2024-season-24]auf der Entwickler-Website[/url].
+[/list]
+
+[h2]Menüs[/h2]
+[list]
+[*]Valve hat einen Patch zu Proton-Experimental hinzugefügt, der die Lesbarkeit von Text auf Linux-Geräten wie dem Steam Deck deutlich verbessert.
+[*]In der Lobbyliste wurde ein alternatives Symbol für dedizierte Server hinzugefügt, von denen bekannt ist, dass sie inoffiziellen Servercode verwenden.
+[*]Es wurde behoben, dass die Timer für besondere Ereignisse nicht im Hauptmenü angezeigt wurden.
+[*]Bestimmte Tasten zeigten fälschlicherweise den Hinweis an, die B-Taste auf einem Controller zu benutzen, wenn keine Verbindung zu einer Lobby besteht.
+[*]Es wurde ein Inventar-Tab für Nicht-Medaillen hinzugefügt. Vielleicht etwas, das du in der Beta-Version finden kannst?
+[*]Inventargegenstände, die sich automatisch stapeln, zeigen jetzt ihre Menge im Inventarbildschirm an.
+[*]In der Einsatzauswahl wurde ein Symbol für Feldzüge und Einsätze hinzugefügt, die aus dem Steam Workshop stammen.
+[*]Die Veröffentlichungsschnittstelle des Workshops ließ keine Änderungen mehr zu, wenn das Vorschaubild nicht geladen wurde, das wurde behoben.
+[*]Die Größe der Tooltips wurde erhöht, um sie besser lesbar zu machen.
+[*]Die Textfarbe "dim" im Legacy-Server-Browser wurde von schwarz auf hellgrau geändert, um die Lesbarkeit zu verbessern.
+[*]Es wurde behoben, dass das Öffnen von Benachrichtigungen, die sich nicht im Hauptmenü befinden, zu einer Überlagerung von Menüpunkten führt.
+[/list]
+
+[h2]Im Spiel[/h2]
+[list]
+[*]Die Freischaltung von Artikeln in der Swarmopedia wurde mit verstümmeltem Text angezeigt, behoben.
+[*]Es wurde ein Absturz behoben, der auftreten konnte, wenn ein Einsatz neu gestartet wurde, während ein Computerbildschirm im Spiel angezeigt wurde.
+[*]Die Formatierung des Spielerabstimmungsfeldes wurde korrigiert, wenn sich mehr als 8 Spieler in einer Lobby befinden.
+[*]Die Speedrun-Zeit wird nun in der Einsatzbesprechung angezeigt.
+[*]Verbesserte Formatierung von dynamischen Zielnamen wie "Parasiten-Eier zerstören".
+[*]"Daten herunterladen" Ziele zeigen jetzt einen Fortschritt an.
+[*]Die Zombies teilen sich jetzt nicht mehr in zwei Hälften, wenn sie von Schadensquellen getroffen werden, die keine passenden Munitionstypen haben.
+[/list]
+
+[h2]Modding[/h2]
+[list]
+[*]asw_objective_triggered unterstützt jetzt die prozentuale Formatierung des Zielfortschritts.
+[*]Das Ändern von rd_override_alien_selection_challenge schreibt keine Nachricht mehr in den Chat.
+[*]Es wurde behoben, dass Einsätze ohne Versionsnummer nicht in Multiplayer-Lobbys gespielt werden konnten.
+[/list]
+</string><string id="subtitle"></string><string id="summary"></string><string id="title">Alien Swarm: Reactive Drop Update - 1. Juni 2024</string></content>
