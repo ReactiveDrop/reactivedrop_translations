@@ -21,7 +21,7 @@
 | [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 1 |
 | [European Spanish](#spanish-español-de-españa) | 32 | 2004 | 40 | 2620 | 259 | 209 | 717 | 146 |
 | [Latin American Spanish](#latam-español-latinoamericano) | ✔️ | 2004 | ✔️ | 4260 | 6 | ✔️ | 204 | 142 |
-| [Swedish](#swedish-svenska) | ✔️ | ✔️ | ✔️ | 885 | ✔️ | ✔️ | ✔️ | 107 |
+| [Swedish](#swedish-svenska) | ✔️ | ✔️ | ✔️ | 883 | ✔️ | ✔️ | ✔️ | 107 |
 | [Thai](#non-curated-languages) | 970 | 1993 | 50 | 4456 | 259 | 209 | 742 | 147 |
 | [Turkish](#non-curated-languages) | 55 | 137 | 42 | 3205 | 259 | 209 | 978 | 147 |
 | [Ukrainian](#ukrainian-українська) | 31 | 131 | 32 | 2748 | 259 | 209 | 936 | 146 |
@@ -1443,7 +1443,7 @@
 
 ### Strings
 
-- [reactivedrop_swedish.txt](resource/reactivedrop_swedish.txt) has 885 untranslated strings.
+- [reactivedrop_swedish.txt](resource/reactivedrop_swedish.txt) has 883 untranslated strings.
 
 ### Upcoming Release Notes
 
