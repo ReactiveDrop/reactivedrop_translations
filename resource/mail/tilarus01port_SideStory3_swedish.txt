@@ -1,0 +1,14 @@
+GAME
+{
+// PDA belongs to Overseer Ross
+
+// Inbox
+
+"MailFrom1"	"Från: Kyle"
+"MailDate1"	"Datum: 02/02/54"
+"MailSubject1"	"Ämne: Rapport 709b"
+"MailBody1A"	"-47 Droider förlorade under de senaste 24 timmarna"
+"MailBody1B"	"-Total avyttringskapacitet ner till 87%"
+"MailBody1C"	"-Förbränningsugnar arbetar med 100 % kapacitet"
+"MailBody1D"	"Vänligen beställ 100 fler Mark 4-droider, vi var underbemannade som det var innan de flesta av mina droider började försvinna."
+}
