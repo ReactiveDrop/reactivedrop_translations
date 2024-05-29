@@ -1,0 +1,21 @@
+GAME
+{
+// PDA belongs to Brian Howe
+
+// Inbox
+
+"MailFrom1"	"Från: Helen Young"
+"MailDate1"	"Datum: 12/23/52"
+"MailSubject1"	"Ämne: L. Callen"
+"MailBody1A"	"Brian,"
+"MailBody1B"	"Håll dig borta från Timor Station! Vänligen kom tillbaka till huvudkvarteren ASAP. Kate är försvunnen och ingen vet var hon är. Phil sa att han känner till minst två andra försvunna personer. Jag ska träffa Ming ikväll."
+"MailBody1C"	"Snälla kom tillbaka så snart som möjligt. Jag älskar dig."
+"MailBody1D"	"Helen"
+
+"MailFrom2"	"Från: Helen Young"
+"MailDate2"	"Datum: 12/24/52"
+"MailSubject2"	"Ämne: VART ÄR DU??"
+"MailBody2A"	"Brian, snälla kontakta mig! Var har du varit? Jag är orolig, okej? Ming experimenterar med de äggen - experiment som jag vet är olagliga. I morse förseglade de däck 1; det finns rykten om kontaminering men ingen bekräftelse. SynTek vill hålla oss i mörkret. Vi hörde till och med skottlossning någonstans i huvudbyggnaden."
+"MailBody2B"	"Snälla kontakta mig. Jag kan inte stå ut med tanken på att du fortfarande är där nere någonstans."
+"MailBody2C"	"Helen"
+}

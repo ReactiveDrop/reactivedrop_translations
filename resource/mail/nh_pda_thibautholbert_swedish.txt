@@ -1,0 +1,14 @@
+GAME
+{
+// PDA belongs to Private First Class Thibaut Holbert
+
+// Sent
+
+"MailFrom3"	"Till: Arthur Carradine"
+"MailDate3"	"Datum: 03/31/43"
+"MailSubject3"	"Ämne: behöver understöd"
+"MailBody3A"	"kapten"
+"MailBody3B"	"monster som kryper i varje hörn . enhet överkörda i kanton V"
+"MailBody3C"	"kommunikation är död . ström . inget ljus"
+"MailBody3D"	"begär omedelbart understöd . de är i wa"
+}

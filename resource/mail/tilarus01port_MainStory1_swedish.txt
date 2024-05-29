@@ -1,0 +1,15 @@
+GAME
+{
+// PDA belongs to Overseer Ross
+
+// Inbox
+
+"MailFrom1"	"Från: Befälhavare Harold"
+"MailDate1"	"Datum: 02/02/54"
+"MailSubject1"	"Ämne: Crash "
+"MailBody1A"	"Godmorgon Ross,"
+"MailBody1B"	"Jag antar att städpersonalen inte ens vet var de ska börja."
+"MailBody1c"	"Hur jag än vill att den här röran ska städas upp, snabbt, vi vill inte ha det här på nyheterna,"
+"MailBody1d"	"det kan skada företagets rykte, men styrelsen jobbar på något för att täcka upp detta"
+"MailBody1d"	"Kommer att prata med dig senare för en fullständig rapport om framstegen"
+}

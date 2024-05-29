@@ -1,0 +1,19 @@
+GAME
+{
+// PDA belongs to Dr. Ian Cook
+
+// Sent
+
+"MailFrom3"	"Till: SynTeks Sjukhusanställda"
+"MailDate3"	"Datum: 03/16/46"
+"MailSubject3"	"Ämne: Vi behöver en ny plan"
+"MailBody3A"	"Någon måste hitta en mer permanent lösning. Vi kan inte bara hålla experimenten inlåsta i vår källare för alltid..."
+
+"MailFrom4"	"Till: SynTeks Sjukhusanställda"
+"MailDate4"	"Datum: 03/17/46"
+"MailSubject4"	"Ämne: Jag har hittat en väg ut"
+"MailBody4A"	"Vi är nästan redo att lämna. Förhoppningsvis kommer jag fortfarande ha tillräckligt med tid att komma ut. Jag har redan flyttat all utrustning jag behöver, så alla andra borde bara göra sitt bästa för att hinna till transporten."
+"MailBody4B"	"Men allt det spelar ingen roll längre; Det viktiga är att stoppa spridningen av experimenten. Jag har förberett ett vattenlösligt nervgift som jag planerar att översvämma anläggningen med. Jag har testat det och det har visat sig vara extremt effektivt."
+"MailBody4C"	"Jag ska distribuera nervgiftet inifrån pumphuset nära byggnadens nordvästra hörn. Jag ska översvämma byggnaden med vatten, så det är bäst att alla går därifrån."
+"MailBody4D"	"Kompressorn är nästan klar. Allt jag behöver göra är att öppna de här dörrarna och ta mig till den byggnaden."
+}
