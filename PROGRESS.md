@@ -21,7 +21,7 @@
 | [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 1 |
 | [European Spanish](#spanish-español-de-españa) | 32 | 2004 | 40 | 2620 | 259 | 209 | 717 | 146 |
 | [Latin American Spanish](#latam-español-latinoamericano) | ✔️ | 2004 | ✔️ | 4260 | 6 | ✔️ | 204 | 142 |
-| [Swedish](#swedish-svenska) | ✔️ | ✔️ | ✔️ | 883 | ✔️ | ✔️ | ✔️ | 107 |
+| [Swedish](#swedish-svenska) | ✔️ | ✔️ | ✔️ | 883 | ✔️ | ✔️ | ✔️ | 87 |
 | [Thai](#non-curated-languages) | 970 | 1993 | 50 | 4456 | 259 | 209 | 742 | 147 |
 | [Turkish](#non-curated-languages) | 55 | 137 | 42 | 3205 | 259 | 209 | 978 | 147 |
 | [Ukrainian](#ukrainian-українська) | 31 | 131 | 32 | 2748 | 259 | 209 | 936 | 146 |
@@ -1452,13 +1452,11 @@
 ### Mail and News
 
 - [mail/acc32_mail_news2_swedish.txt](resource/mail/acc32_mail_news2_english.txt) is missing.
-- [mail/acc32_mail_random1_swedish.txt](resource/mail/acc32_mail_random1_english.txt) is missing.
 - [mail/acc32_mail_random2_left_swedish.txt](resource/mail/acc32_mail_random2_left_english.txt) is missing.
 - [mail/acc32_mail_random2_no_swedish.txt](resource/mail/acc32_mail_random2_no_english.txt) is missing.
 - [mail/acc32_mail_random2_right_swedish.txt](resource/mail/acc32_mail_random2_right_english.txt) is missing.
 - [mail/acc32_mail_research1_swedish.txt](resource/mail/acc32_mail_research1_english.txt) is missing.
 - [mail/acc32_mail_research2_swedish.txt](resource/mail/acc32_mail_research2_english.txt) is missing.
-- [mail/acc32_mail_secret2_swedish.txt](resource/mail/acc32_mail_secret2_english.txt) is missing.
 - [mail/acc32_mail_solution_swedish.txt](resource/mail/acc32_mail_solution_english.txt) is missing.
 - [mail/acc_power1_swedish.txt](resource/mail/acc_power1_english.txt) is missing.
 - [mail/acc_power2_swedish.txt](resource/mail/acc_power2_english.txt) is missing.
@@ -1470,7 +1468,6 @@
 - [mail/labsmail3_swedish.txt](resource/mail/labsmail3_english.txt) is missing.
 - [mail/labsmail4_swedish.txt](resource/mail/labsmail4_english.txt) is missing.
 - [mail/minemails1_swedish.txt](resource/mail/minemails1_english.txt) is missing.
-- [mail/minemails2_swedish.txt](resource/mail/minemails2_english.txt) is missing.
 - [mail/minemails3_swedish.txt](resource/mail/minemails3_english.txt) is missing.
 - [mail/nh_officemail1_jacquesmoreau_swedish.txt](resource/mail/nh_officemail1_jacquesmoreau_english.txt) is missing.
 - [mail/nh_officemail2_jacquesmoreau_swedish.txt](resource/mail/nh_officemail2_jacquesmoreau_english.txt) is missing.
@@ -1488,7 +1485,6 @@
 - [mail/nh_pda_jonathandorland_swedish.txt](resource/mail/nh_pda_jonathandorland_english.txt) is missing.
 - [mail/nh_pda_lindasilva_swedish.txt](resource/mail/nh_pda_lindasilva_english.txt) is missing.
 - [mail/nh_pda_sarahweiss_swedish.txt](resource/mail/nh_pda_sarahweiss_english.txt) is missing.
-- [mail/nh_pda_thibautholbert_swedish.txt](resource/mail/nh_pda_thibautholbert_english.txt) is missing.
 - [mail/nh_pda_tomasselin_swedish.txt](resource/mail/nh_pda_tomasselin_english.txt) is missing.
 - [mail/nh_pda_yannmontgomery_swedish.txt](resource/mail/nh_pda_yannmontgomery_english.txt) is missing.
 - [mail/officemail2_swedish.txt](resource/mail/officemail2_english.txt) is missing.
@@ -1521,27 +1517,11 @@
 - [mail/rd_res_rctinbound1_swedish.txt](resource/mail/rd_res_rctinbound1_english.txt) is missing.
 - [mail/rd_res_rctinbound2_swedish.txt](resource/mail/rd_res_rctinbound2_english.txt) is missing.
 - [mail/rd_subject58_swedish.txt](resource/mail/rd_subject58_english.txt) is missing.
-- [mail/sewersmail1_swedish.txt](resource/mail/sewersmail1_english.txt) is missing.
-- [mail/sewersmail2_swedish.txt](resource/mail/sewersmail2_english.txt) is missing.
-- [mail/sewersmail3_swedish.txt](resource/mail/sewersmail3_english.txt) is missing.
-- [mail/tilarus01port_MainStory1_swedish.txt](resource/mail/tilarus01port_MainStory1_english.txt) is missing.
-- [mail/tilarus01port_MainStory2_swedish.txt](resource/mail/tilarus01port_MainStory2_english.txt) is missing.
-- [mail/tilarus01port_MainStory3_swedish.txt](resource/mail/tilarus01port_MainStory3_english.txt) is missing.
 - [mail/tilarus01port_PublicMessage1_swedish.txt](resource/mail/tilarus01port_PublicMessage1_english.txt) is missing.
 - [mail/tilarus01port_PublicMessage2_swedish.txt](resource/mail/tilarus01port_PublicMessage2_english.txt) is missing.
-- [mail/tilarus01port_SideStory1_swedish.txt](resource/mail/tilarus01port_SideStory1_english.txt) is missing.
-- [mail/tilarus01port_SideStory2_swedish.txt](resource/mail/tilarus01port_SideStory2_english.txt) is missing.
-- [mail/tilarus01port_SideStory3_swedish.txt](resource/mail/tilarus01port_SideStory3_english.txt) is missing.
 - [mail/tilarus01port_craigsthingpda_swedish.txt](resource/mail/tilarus01port_craigsthingpda_english.txt) is missing.
-- [mail/tilarus03arctic_mail1_swedish.txt](resource/mail/tilarus03arctic_mail1_english.txt) is missing.
 - [mail/tilarus03arctic_mail2_swedish.txt](resource/mail/tilarus03arctic_mail2_english.txt) is missing.
-- [mail/tilarus03arctic_mail3_swedish.txt](resource/mail/tilarus03arctic_mail3_english.txt) is missing.
 - [mail/tilarus03arctic_mail4_swedish.txt](resource/mail/tilarus03arctic_mail4_english.txt) is missing.
-- [mail/tilarus09hospital_pda1_swedish.txt](resource/mail/tilarus09hospital_pda1_english.txt) is missing.
-- [mail/tilarus09hospital_pda2_swedish.txt](resource/mail/tilarus09hospital_pda2_english.txt) is missing.
-- [mail/tilarus09hospital_pda3_swedish.txt](resource/mail/tilarus09hospital_pda3_english.txt) is missing.
-- [mail/tilarus09hospital_pda4_swedish.txt](resource/mail/tilarus09hospital_pda4_english.txt) is missing.
-- [mail/tilarus09hospital_pda5_swedish.txt](resource/mail/tilarus09hospital_pda5_english.txt) is missing.
 - [mail/tutorialmail1_swedish.txt](resource/mail/tutorialmail1_english.txt) is missing.
 - [mail/tutorialmail2_swedish.txt](resource/mail/tutorialmail2_english.txt) is missing.
 - [mail/tutorialmail3_swedish.txt](resource/mail/tutorialmail3_english.txt) is missing.
