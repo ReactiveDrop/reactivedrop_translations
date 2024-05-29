@@ -1,0 +1,22 @@
+GAME
+{
+// PDA belongs to Dr. Joseph Palmer
+
+// Inbox
+
+"MailFrom1"	"Från: David Foster"
+"MailDate1"	"Datum: 03/13/46"
+"MailSubject1"	"Ämne: Dosering"
+"MailBody1A"	"Joseph,"
+"MailBody1B"	"Jag tror att jag har kommit på varför patienten Molligan inte överlevde."
+"MailBody1C"	"Cytostatikadosen var otillräcklig. Jag rekommenderar att vi ger en andra dos under slutskedet av mutationen."
+"MailBody1D"	"Dr. Foster"
+
+// Sent
+
+"MailFrom3"	"Till: David Foster"
+"MailDate3"	"Datum: 03/13/46"
+"MailSubject3"	"Ämne: Re: Dosering"
+"MailBody3A"	"Jag håller med."
+"MailBody3B"	"Nästa gång ökar vi dosen. Jag är ganska säker på att jag har hittat en lämplig patient."
+}
