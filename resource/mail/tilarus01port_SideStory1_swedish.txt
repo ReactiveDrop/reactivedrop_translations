@@ -1,0 +1,12 @@
+GAME
+{
+// PDA belongs to John Hadan
+
+// Inbox
+
+"MailFrom1"	"Från: Jimmy Carter"
+"MailDate1"	"Datum: 02/02/54"
+"MailSubject1"	"Ämne: SynTek Last"
+"MailBody1A"	"Hej john, känner du till lasten från Syntek? Den har satts i karantän."
+"MailBody1B"	"Kyle berättade också för mig att det fanns en syra nere vid hamnen, ungefär på samma ställe som lasten, vet du något om det?"
+}
