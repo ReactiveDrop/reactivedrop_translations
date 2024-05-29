@@ -1,0 +1,13 @@
+GAME
+{
+// PDA belongs to Lt. Cain
+
+// Inbox
+
+"MailFrom1"	"Från: Laura Callen"
+"MailDate1"	"Datum: 12/24/52"
+"MailSubject1"	"Ämne: Detta är det"
+"MailBody1A"	"Krigsrätt?"
+"MailBody1B"	"Det är för sent för det."
+"MailBody1C"	"Vi behöver seriöst ingripande, annars kommer vi att förlora den här anläggningen."
+}
