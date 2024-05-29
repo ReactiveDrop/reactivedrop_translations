@@ -8,7 +8,7 @@ GAME
 "MailDate1"	"Date: 02/03/54"
 "MailSubject1"	"Subject: Evacuation"
 "MailBody1A"	"Dammit Ross, I wish you werent right"
-"MailBody1B"	"But I'm damm glad we decided to act on your advice, evacuation is already in progress as you know"
+"MailBody1B"	"But I'm damn glad we decided to act on your advice, evacuation is already in progress as you know"
 "MailBody1c"	"Get you and your staff the hell out of bay 7 and up to Dawn city"
 "MailBody1d"	"Good Luck old Friend"
 }
