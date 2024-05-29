@@ -124,7 +124,7 @@
 			"display_type_schinese": "工业材料",
 			"display_type_swedish": "Industriell Material",
 			"display_type_vietnamese": "Vật liệu công nghiệp",
-			"icon_url": "https://stats.reactivedrop.com/static/items/crafting/scrap_metal.png",
+			"icon_url": "https://stats.reactivedrop.com/static/items/4002.png",
 			"auto_stack": true,
 			"tags": "rarity:common;crafting_item:common_part",
 			"compressed_dynamic_props": "m_unQuantity"
@@ -172,7 +172,7 @@
 			"display_type_schinese": "工业材料",
 			"display_type_swedish": "Industriell Material",
 			"display_type_vietnamese": "Vật liệu công nghiệp",
-			"icon_url": "https://stats.reactivedrop.com/static/items/crafting/electrical_components.png",
+			"icon_url": "https://stats.reactivedrop.com/static/items/4003.png",
 			"auto_stack": true,
 			"tags": "rarity:common;crafting_item:common_part",
 			"compressed_dynamic_props": "m_unQuantity"
@@ -220,7 +220,7 @@
 			"display_type_schinese": "工业材料",
 			"display_type_swedish": "Industriell Material",
 			"display_type_vietnamese": "Vật liệu công nghiệp",
-			"icon_url": "https://stats.reactivedrop.com/static/items/crafting/spare_pipe.png",
+			"icon_url": "https://stats.reactivedrop.com/static/items/4004.png",
 			"auto_stack": true,
 			"tags": "rarity:common;crafting_item:common_part",
 			"compressed_dynamic_props": "m_unQuantity"
@@ -266,7 +266,7 @@
 			"display_type_schinese": "工业材料",
 			"display_type_swedish": "Industriell Material",
 			"display_type_vietnamese": "Vật liệu công nghiệp",
-			"icon_url": "https://stats.reactivedrop.com/static/items/crafting/plastic_filament.png",
+			"icon_url": "https://stats.reactivedrop.com/static/items/4005.png",
 			"auto_stack": true,
 			"tags": "rarity:common;crafting_item:common_part",
 			"compressed_dynamic_props": "m_unQuantity"
@@ -314,7 +314,7 @@
 			"display_type_schinese": "工业材料",
 			"display_type_swedish": "Industriell Material",
 			"display_type_vietnamese": "Vật liệu công nghiệp",
-			"icon_url": "https://stats.reactivedrop.com/static/items/crafting/coolant.png",
+			"icon_url": "https://stats.reactivedrop.com/static/items/4006.png",
 			"auto_stack": true,
 			"tags": "rarity:common;crafting_item:common_part",
 			"compressed_dynamic_props": "m_unQuantity"
@@ -362,7 +362,7 @@
 			"display_type_schinese": "工业材料",
 			"display_type_swedish": "Industriell Material",
 			"display_type_vietnamese": "Vật liệu công nghiệp",
-			"icon_url": "https://stats.reactivedrop.com/static/items/crafting/mini_crate.png",
+			"icon_url": "https://stats.reactivedrop.com/static/items/4007.png",
 			"auto_stack": true,
 			"tags": "rarity:common;crafting_item:common_part",
 			"compressed_dynamic_props": "m_unQuantity"
@@ -408,7 +408,7 @@
 			"display_type_schinese": "工业材料",
 			"display_type_swedish": "Industriell Material",
 			"display_type_vietnamese": "Vật liệu công nghiệp",
-			"icon_url": "https://stats.reactivedrop.com/static/items/crafting/battery_pack.png",
+			"icon_url": "https://stats.reactivedrop.com/static/items/4008.png",
 			"auto_stack": true,
 			"tags": "rarity:common;crafting_item:common_part",
 			"compressed_dynamic_props": "m_unQuantity"
@@ -456,7 +456,7 @@
 			"display_type_schinese": "散装材料",
 			"display_type_swedish": "Bulkgods",
 			"display_type_vietnamese": "Vật liệu số lớn",
-			"icon_url": "https://stats.reactivedrop.com/static/items/crafting/loose_wires.png",
+			"icon_url": "https://stats.reactivedrop.com/static/items/4009.png",
 			"auto_stack": true,
 			"tags": "rarity:common;crafting_item:ultra_common",
 			"compressed_dynamic_props": "m_unQuantity"
@@ -503,7 +503,7 @@
 			"display_type_schinese": "散装材料",
 			"display_type_swedish": "Bulkgods",
 			"display_type_vietnamese": "Vật liệu số lớn",
-			"icon_url": "https://stats.reactivedrop.com/static/items/crafting/carbon.png",
+			"icon_url": "https://stats.reactivedrop.com/static/items/4010.png",
 			"auto_stack": true,
 			"tags": "rarity:common;crafting_item:ultra_common",
 			"compressed_dynamic_props": "m_unQuantity"
@@ -548,7 +548,7 @@
 			"display_type_russian": "Инопланетный материал",
 			"display_type_schinese": "异形材料",
 			"display_type_vietnamese": "Vật liệu ngoài hành tinh",
-			"icon_url": "https://stats.reactivedrop.com/static/items/crafting/alien_chitin.png",
+			"icon_url": "https://stats.reactivedrop.com/static/items/4011.png",
 			"auto_stack": true,
 			"tags": "rarity:uncommon;crafting_item:alien_part",
 			"compressed_dynamic_props": "m_unQuantity"
@@ -595,7 +595,7 @@
 			"display_type_russian": "Инопланетный материал",
 			"display_type_schinese": "异形材料",
 			"display_type_vietnamese": "Vật liệu ngoài hành tinh",
-			"icon_url": "https://stats.reactivedrop.com/static/items/crafting/biomass_sample.png",
+			"icon_url": "https://stats.reactivedrop.com/static/items/4012.png",
 			"auto_stack": true,
 			"tags": "rarity:uncommon;crafting_item:alien_part",
 			"compressed_dynamic_props": "m_unQuantity"
@@ -642,7 +642,7 @@
 			"display_type_russian": "Инопланетный материал",
 			"display_type_schinese": "异形材料",
 			"display_type_vietnamese": "Vật liệu ngoài hành tinh",
-			"icon_url": "https://stats.reactivedrop.com/static/items/crafting/glowing_green_acid.png",
+			"icon_url": "https://stats.reactivedrop.com/static/items/4013.png",
 			"auto_stack": true,
 			"tags": "rarity:uncommon;crafting_item:alien_part",
 			"compressed_dynamic_props": "m_unQuantity"
@@ -689,7 +689,7 @@
 			"display_type_russian": "Инопланетный материал",
 			"display_type_schinese": "异形材料",
 			"display_type_vietnamese": "Vật liệu ngoài hành tinh",
-			"icon_url": "https://stats.reactivedrop.com/static/items/crafting/claw_fragment.png",
+			"icon_url": "https://stats.reactivedrop.com/static/items/4014.png",
 			"auto_stack": true,
 			"tags": "rarity:uncommon;crafting_item:alien_part",
 			"compressed_dynamic_props": "m_unQuantity"
@@ -736,7 +736,7 @@
 			"display_type_russian": "Технологический материал",
 			"display_type_schinese": "科技材料",
 			"display_type_vietnamese": "Vật liệu công nghệ",
-			"icon_url": "https://stats.reactivedrop.com/static/items/crafting/memory_management_unit.png",
+			"icon_url": "https://stats.reactivedrop.com/static/items/4015.png",
 			"auto_stack": true,
 			"tags": "rarity:rare;crafting_item:computer_part",
 			"compressed_dynamic_props": "m_unQuantity"
@@ -783,7 +783,7 @@
 			"display_type_russian": "Технологический материал",
 			"display_type_schinese": "科技材料",
 			"display_type_vietnamese": "Vật liệu công nghệ",
-			"icon_url": "https://stats.reactivedrop.com/static/items/crafting/arithmetic_logic_unit.png",
+			"icon_url": "https://stats.reactivedrop.com/static/items/4016.png",
 			"auto_stack": true,
 			"tags": "rarity:rare;crafting_item:computer_part",
 			"compressed_dynamic_props": "m_unQuantity"
@@ -830,7 +830,7 @@
 			"display_type_russian": "Технологический материал",
 			"display_type_schinese": "科技材料",
 			"display_type_vietnamese": "Vật liệu công nghệ",
-			"icon_url": "https://stats.reactivedrop.com/static/items/crafting/data_storage_medium.png",
+			"icon_url": "https://stats.reactivedrop.com/static/items/4017.png",
 			"auto_stack": true,
 			"tags": "rarity:rare;crafting_item:computer_part",
 			"compressed_dynamic_props": "m_unQuantity"
@@ -878,7 +878,7 @@
 			"display_type_schinese": "回收材料",
 			"display_type_swedish": "Bärgat Material",
 			"display_type_vietnamese": "Vật liệu được trục vớt",
-			"icon_url": "https://stats.reactivedrop.com/static/items/crafting/pile_of_red_sand.png",
+			"icon_url": "https://stats.reactivedrop.com/static/items/4018.png",
 			"auto_stack": true,
 			"tags": "rarity:common;crafting_item:regional",
 			"compressed_dynamic_props": "m_unQuantity"
@@ -926,7 +926,7 @@
 			"display_type_schinese": "回收材料",
 			"display_type_swedish": "Bärgat Material",
 			"display_type_vietnamese": "Vật liệu được trục vớt",
-			"icon_url": "https://stats.reactivedrop.com/static/items/crafting/antlion_carapace.png",
+			"icon_url": "https://stats.reactivedrop.com/static/items/4019.png",
 			"auto_stack": true,
 			"tags": "rarity:common;crafting_item:regional",
 			"compressed_dynamic_props": "m_unQuantity"
@@ -972,7 +972,7 @@
 			"display_type_schinese": "回收材料",
 			"display_type_swedish": "Bärgat Material",
 			"display_type_vietnamese": "Vật liệu được trục vớt",
-			"icon_url": "https://stats.reactivedrop.com/static/items/crafting/corrosive_fluid_sample.png",
+			"icon_url": "https://stats.reactivedrop.com/static/items/4020.png",
 			"auto_stack": true,
 			"tags": "rarity:common;crafting_item:regional",
 			"compressed_dynamic_props": "m_unQuantity"
@@ -1020,7 +1020,7 @@
 			"display_type_schinese": "回收材料",
 			"display_type_swedish": "Bärgat Material",
 			"display_type_vietnamese": "Vật liệu được trục vớt",
-			"icon_url": "https://stats.reactivedrop.com/static/items/crafting/cooled_volcanic_rock.png",
+			"icon_url": "https://stats.reactivedrop.com/static/items/4021.png",
 			"auto_stack": true,
 			"tags": "rarity:common;crafting_item:regional",
 			"compressed_dynamic_props": "m_unQuantity"
@@ -1068,7 +1068,7 @@
 			"display_type_schinese": "回收材料",
 			"display_type_swedish": "Bärgat Material",
 			"display_type_vietnamese": "Vật liệu được trục vớt",
-			"icon_url": "https://stats.reactivedrop.com/static/items/crafting/retrieved_documents.png",
+			"icon_url": "https://stats.reactivedrop.com/static/items/4022.png",
 			"auto_stack": true,
 			"tags": "rarity:common;crafting_item:regional",
 			"compressed_dynamic_props": "m_unQuantity"
@@ -1114,7 +1114,7 @@
 			"display_type_schinese": "回收材料",
 			"display_type_swedish": "Bärgat Material",
 			"display_type_vietnamese": "Vật liệu được trục vớt",
-			"icon_url": "https://stats.reactivedrop.com/static/items/crafting/unopened_synup_cola.png",
+			"icon_url": "https://stats.reactivedrop.com/static/items/4023.png",
 			"auto_stack": true,
 			"tags": "rarity:common;crafting_item:regional",
 			"compressed_dynamic_props": "m_unQuantity"
@@ -1160,7 +1160,7 @@
 			"display_type_schinese": "回收材料",
 			"display_type_swedish": "Bärgat Material",
 			"display_type_vietnamese": "Vật liệu được trục vớt",
-			"icon_url": "https://stats.reactivedrop.com/static/items/crafting/roll_of_vent_tape.png",
+			"icon_url": "https://stats.reactivedrop.com/static/items/4024.png",
 			"auto_stack": true,
 			"tags": "rarity:common;crafting_item:regional",
 			"compressed_dynamic_props": "m_unQuantity"
@@ -1208,7 +1208,7 @@
 			"display_type_schinese": "回收材料",
 			"display_type_swedish": "Bärgat Material",
 			"display_type_vietnamese": "Vật liệu được trục vớt",
-			"icon_url": "https://stats.reactivedrop.com/static/items/crafting/isotopes.png",
+			"icon_url": "https://stats.reactivedrop.com/static/items/4025.png",
 			"auto_stack": true,
 			"tags": "rarity:common;crafting_item:regional",
 			"compressed_dynamic_props": "m_unQuantity"
@@ -1254,7 +1254,7 @@
 			"display_type_schinese": "回收材料",
 			"display_type_swedish": "Bärgat Material",
 			"display_type_vietnamese": "Vật liệu được trục vớt",
-			"icon_url": "https://stats.reactivedrop.com/static/items/crafting/cryotic.png",
+			"icon_url": "https://stats.reactivedrop.com/static/items/4026.png",
 			"auto_stack": true,
 			"tags": "rarity:common;crafting_item:regional",
 			"compressed_dynamic_props": "m_unQuantity"
@@ -1302,7 +1302,7 @@
 			"display_type_schinese": "回收材料",
 			"display_type_swedish": "Bärgat Material",
 			"display_type_vietnamese": "Vật liệu được trục vớt",
-			"icon_url": "https://stats.reactivedrop.com/static/items/crafting/argon_canister.png",
+			"icon_url": "https://stats.reactivedrop.com/static/items/4027.png",
 			"auto_stack": true,
 			"tags": "rarity:common;crafting_item:regional",
 			"compressed_dynamic_props": "m_unQuantity"
@@ -1350,7 +1350,7 @@
 			"display_type_schinese": "回收材料",
 			"display_type_swedish": "Bärgat Material",
 			"display_type_vietnamese": "Vật liệu được trục vớt",
-			"icon_url": "https://stats.reactivedrop.com/static/items/crafting/probability_drive.png",
+			"icon_url": "https://stats.reactivedrop.com/static/items/4028.png",
 			"auto_stack": true,
 			"tags": "rarity:common;crafting_item:regional",
 			"compressed_dynamic_props": "m_unQuantity"
@@ -1367,6 +1367,56 @@
 			"name": "Crafting Materials Beta - Phase 1 bundle",
 			"description": "beta phase 1 opt-in token, 1x strange weapon choice, 2x strange device choice, 1x bonus crafting material location discovery",
 			"bundle": "4029x1;4000x1;4001x2;7003x1"
+		},
+		{
+			"itemdefid": 4031,
+			"type": "item",
+			"after_description_brazilian": "Quantidade: %m_unQuantity%",
+			"after_description_english": "Quantity: %m_unQuantity%",
+			"after_description_german": "Menge: %m_unQuantity%",
+			"after_description_italian": "Quantità: %m_unQuantity%",
+			"after_description_japanese": "所持数: %m_unQuantity%",
+			"after_description_latam": "Cantidad: %m_unQuantity%",
+			"after_description_russian": "Количество: %m_unQuantity%",
+			"after_description_schinese": "拥有数量: %m_unQuantity%",
+			"after_description_swedish": "Mängd: %m_unQuantity%",
+			"after_description_vietnamese": "Số lượng: %m_unQuantity%",
+			"display_type_english": "Refined Material",
+			"display_type_german": "Veredeltes Material",
+			"display_type_italian": "Materiale Raffinato",
+			"display_type_japanese": "精製素材",
+			"display_type_russian": "Очищенный материал",
+			"display_type_schinese": "精炼金属",
+			"display_type_swedish": "Raffinerat Material",
+			"icon_url": "https://stats.reactivedrop.com/static/items/4031.png",
+			"auto_stack": true,
+			"tags": "rarity:common;crafting_item:refined",
+			"compressed_dynamic_props": "m_unQuantity"
+		},
+		{
+			"itemdefid": 4032,
+			"type": "item",
+			"after_description_brazilian": "Quantidade: %m_unQuantity%",
+			"after_description_english": "Quantity: %m_unQuantity%",
+			"after_description_german": "Menge: %m_unQuantity%",
+			"after_description_italian": "Quantità: %m_unQuantity%",
+			"after_description_japanese": "所持数: %m_unQuantity%",
+			"after_description_latam": "Cantidad: %m_unQuantity%",
+			"after_description_russian": "Количество: %m_unQuantity%",
+			"after_description_schinese": "拥有数量: %m_unQuantity%",
+			"after_description_swedish": "Mängd: %m_unQuantity%",
+			"after_description_vietnamese": "Số lượng: %m_unQuantity%",
+			"display_type_english": "Refined Material",
+			"display_type_german": "Veredeltes Material",
+			"display_type_italian": "Materiale Raffinato",
+			"display_type_japanese": "精製素材",
+			"display_type_russian": "Очищенный материал",
+			"display_type_schinese": "精炼金属",
+			"display_type_swedish": "Raffinerat Material",
+			"icon_url": "https://stats.reactivedrop.com/static/items/4032.png",
+			"auto_stack": true,
+			"tags": "rarity:common;crafting_item:refined",
+			"compressed_dynamic_props": "m_unQuantity"
 		}
 	]
 }
