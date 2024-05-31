@@ -20,7 +20,7 @@
 | [Romanian](#non-curated-languages) | 55 | 1996 | 48 | 3927 | 259 | 209 | 978 | 147 |
 | [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | 10 | ✔️ | ✔️ | ✔️ | 1 |
 | [European Spanish](#spanish-español-de-españa) | 32 | 2004 | 40 | 2630 | 259 | 209 | 717 | 146 |
-| [Latin American Spanish](#latam-español-latinoamericano) | ✔️ | 2004 | ✔️ | 4267 | 6 | ✔️ | 204 | 142 |
+| [Latin American Spanish](#latam-español-latinoamericano) | ✔️ | 2004 | ✔️ | 4267 | 6 | ✔️ | 204 | 141 |
 | [Swedish](#swedish-svenska) | ✔️ | ✔️ | ✔️ | 879 | ✔️ | ✔️ | ✔️ | 87 |
 | [Thai](#non-curated-languages) | 970 | 1993 | 50 | 4463 | 259 | 209 | 742 | 147 |
 | [Turkish](#non-curated-languages) | 55 | 137 | 42 | 3215 | 259 | 209 | 978 | 147 |
@@ -1289,10 +1289,6 @@
 - [misc/signage/signage_latam.vdf](misc/signage/signage_latam.vdf) has 69 untranslated strings.
 - [closecaption_latam.txt](resource/closecaption_latam.txt) has 2004 untranslated strings.
 - [reactivedrop_latam.txt](resource/reactivedrop_latam.txt) has 4267 untranslated strings.
-
-### Upcoming Release Notes
-
-- [20240601_latam.xml](release_notes/20240601_english.xml) is missing.
 
 ### Credits
 
