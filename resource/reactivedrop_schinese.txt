@@ -8974,7 +8974,7 @@
 "rd_inventory_item_action_failed_title"		"物品操作失败"
 // Displayed when a user-initiated item interaction fails due to an API error. %s1 is the error number.
 "[english]rd_inventory_item_action_failed_generic_desc"		"The requested inventory item action failed unexpectedly. (code %s1)"
-"rd_inventory_item_action_failed_generic_desc"		"请求的物品操作遇到问题。(错误代码：s1)"
+"rd_inventory_item_action_failed_generic_desc"		"请求的物品操作遇到问题。(错误代码：%s1)"
 // 3 = k_EResultNoConnection
 "[english]rd_inventory_item_action_failed_3_desc"		"The requested inventory item action failed because the connection to Steam was lost."
 "rd_inventory_item_action_failed_3_desc"		"请求的物品操作遇到问题。(失败原因：与Steam连接中断)"
@@ -10366,7 +10366,7 @@
 "rd_unbox_strange_weapon_compatible_devices"		"兼容设备："
 
 "[english]rd_unbox_strange_device_title"		"Choose Strange Device"
-"rd_unbox_strange_device_title"		"选择奇异武器"
+"rd_unbox_strange_device_title"		"选择奇异装置"
 "[english]rd_unbox_strange_device_flavor"		"You flick the switch and the device hums to life. It displays a picture. Which picture does it show?"
 "rd_unbox_strange_device_flavor"		"你轻轻按下开关，设备发出嗡嗡声。它显示了一张图片，是什么图片？"
 "[english]rd_unbox_strange_device_warning_no_compatible_items"		"You do not own any Strange items capable of accepting this device."

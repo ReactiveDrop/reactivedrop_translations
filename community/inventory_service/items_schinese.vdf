@@ -409,11 +409,11 @@
 "notification_crafting_items_appeared_playtime_description"		"查看任务列表以了解制作材料可能出现的位置。"
 
 "[english]item_strange_device_missions_name"		"Missions"
-"item_strange_device_missions_name"		"任务"
+"item_strange_device_missions_name"		"参与任务"
 "[english]item_strange_device_successful_missions_name"		"Successful Missions"
-"item_strange_device_successful_missions_name"		"任务成功"
+"item_strange_device_successful_missions_name"		"完成任务"
 "[english]item_strange_device_aliens_killed_name"		"Aliens Killed"
-"item_strange_device_aliens_killed_name"		"异形击杀"
+"item_strange_device_aliens_killed_name"		"击杀异形"
 "[english]item_strange_device_healing_name"		"Healing"
 "item_strange_device_healing_name"		"治疗总量"
 "[english]item_strange_device_fast_hacks_name"		"Fast Hacks"
@@ -424,10 +424,10 @@
 "[english]item_strange_device_allies_extinguished_name"		"Allies Extinguished"
 "item_strange_device_allies_extinguished_name"		"为友灭火"
 "[english]item_strange_device_alien_kill_streak_name"		"Alien Kill Streak"
-"item_strange_device_alien_kill_streak_name"		"连杀异形个数"
+"item_strange_device_alien_kill_streak_name"		"连杀异形"
 // Alien Kill Streak: 1234 (Best: 5678)
 "[english]item_strange_device_alien_kill_streak_best"		"Best"
-"item_strange_device_alien_kill_streak_best"		"最佳记录"
+"item_strange_device_alien_kill_streak_best"		"最佳连杀"
 "[english]item_strange_device_infestations_cured_name"		"Infestations Cured"
 "item_strange_device_infestations_cured_name"		"治愈感染"
 
