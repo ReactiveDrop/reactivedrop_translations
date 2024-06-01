@@ -8974,7 +8974,7 @@
 "rd_inventory_item_action_failed_title"		"物品操作失败"
 // Displayed when a user-initiated item interaction fails due to an API error. %s1 is the error number.
 "[english]rd_inventory_item_action_failed_generic_desc"		"The requested inventory item action failed unexpectedly. (code %s1)"
-"rd_inventory_item_action_failed_generic_desc"		"请求的物品操作遇到问题。(错误代码：s1)"
+"rd_inventory_item_action_failed_generic_desc"		"请求的物品操作遇到问题。(错误代码：%s1)"
 // 3 = k_EResultNoConnection
 "[english]rd_inventory_item_action_failed_3_desc"		"The requested inventory item action failed because the connection to Steam was lost."
 "rd_inventory_item_action_failed_3_desc"		"请求的物品操作遇到问题。(失败原因：与Steam连接中断)"
