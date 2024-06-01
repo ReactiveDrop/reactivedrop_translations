@@ -10366,7 +10366,7 @@
 "rd_unbox_strange_weapon_compatible_devices"		"兼容设备："
 
 "[english]rd_unbox_strange_device_title"		"Choose Strange Device"
-"rd_unbox_strange_device_title"		"选择奇异武器"
+"rd_unbox_strange_device_title"		"选择奇异装置"
 "[english]rd_unbox_strange_device_flavor"		"You flick the switch and the device hums to life. It displays a picture. Which picture does it show?"
 "rd_unbox_strange_device_flavor"		"你轻轻按下开关，设备发出嗡嗡声。它显示了一张图片，是什么图片？"
 "[english]rd_unbox_strange_device_warning_no_compatible_items"		"You do not own any Strange items capable of accepting this device."
