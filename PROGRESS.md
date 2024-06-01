@@ -1,14 +1,14 @@
 # Overview
 | Language | basemodui | closecaption | gameui | reactivedrop | items | statsweb | Strings | Files |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | ✔️ | 10 | ✔️ | ✔️ | ✔️ | ✔️ |
+| [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Traditional Chinese](#tchinese-繁體中文) | 13 | 141 | 33 | 3081 | 253 | 209 | 239 | 146 |
 | [Czech](#czech-čeština) | 75 | 1810 | 42 | 4220 | 259 | 209 | 983 | 146 |
 | [Danish](#non-curated-languages) | 56 | 231 | 42 | 3747 | 259 | 209 | 713 | 147 |
 | [Dutch](#non-curated-languages) | 55 | 2004 | 42 | 3215 | 259 | 209 | 713 | 146 |
 | [Finnish](#non-curated-languages) | ✔️ | 2004 | 41 | 3077 | 260 | 209 | 704 | 146 |
 | [French](#french-français) | 31 | 138 | 42 | 2580 | 258 | 209 | 653 | 125 |
-| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | 10 | ✔️ | ✔️ | ✔️ | ✔️ |
+| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Hungarian](#non-curated-languages) | 55 | 138 | 42 | 3215 | 259 | 209 | 978 | 147 |
 | [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 35 | ✔️ |
@@ -18,7 +18,7 @@
 | [European Portuguese](#portuguese-português-europeu) | 4 | 180 | 32 | 2304 | 239 | 30 | 633 | 141 |
 | [Brazilian Portuguese](#brazilian-português) | ✔️ | ✔️ | ✔️ | 1474 | ✔️ | ✔️ | 1 | 2 |
 | [Romanian](#non-curated-languages) | 55 | 1996 | 48 | 3927 | 259 | 209 | 978 | 147 |
-| [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | 10 | ✔️ | ✔️ | ✔️ | 1 |
+| [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [European Spanish](#spanish-español-de-españa) | 32 | 2004 | 40 | 2630 | 259 | 209 | 717 | 146 |
 | [Latin American Spanish](#latam-español-latinoamericano) | ✔️ | 2004 | ✔️ | 4267 | 6 | ✔️ | 204 | 141 |
 | [Swedish](#swedish-svenska) | ✔️ | ✔️ | ✔️ | 879 | ✔️ | ✔️ | ✔️ | 87 |
@@ -40,9 +40,7 @@
 
 </summary>
 
-### Strings
-
-- [reactivedrop_schinese.txt](resource/reactivedrop_schinese.txt) has 10 untranslated strings.
+✓ Up to date!
 
 </details>
 
@@ -581,9 +579,7 @@
 
 </summary>
 
-### Strings
-
-- [reactivedrop_german.txt](resource/reactivedrop_german.txt) has 10 untranslated strings.
+✓ Up to date!
 
 </details>
 
@@ -1080,13 +1076,7 @@
 
 </summary>
 
-### Strings
-
-- [reactivedrop_russian.txt](resource/reactivedrop_russian.txt) has 10 untranslated strings.
-
-### Upcoming Release Notes
-
-- [20240601_russian.xml](release_notes/20240601_english.xml) is missing.
+✓ Up to date!
 
 </details>
 
