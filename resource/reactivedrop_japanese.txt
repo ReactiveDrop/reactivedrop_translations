@@ -10371,6 +10371,8 @@
 "rd_unbox_strange_device_flavor"		"スイッチを入れると装置が音を立てて動き出す。画像が表示されているが、何が表示されているだろう？"
 "[english]rd_unbox_strange_device_warning_no_compatible_items"		"You do not own any Strange items capable of accepting this device."
 "rd_unbox_strange_device_warning_no_compatible_items"		"この装置に対応するストレンジアイテムを一つも所有していません。"
+		"[english]rd_unbox_strange_device_warning_already_have_accessories"		"You already have enough Strange Devices to fill all owned compatible Strange items."
+		"rd_unbox_strange_device_warning_already_have_accessories"		"You already have enough Strange Devices to fill all owned compatible Strange items."
 "[english]rd_unbox_strange_device_compatible_owned_items"		"Compatible items:"
 "rd_unbox_strange_device_compatible_owned_items"		"互換性のあるアイテム:"
 

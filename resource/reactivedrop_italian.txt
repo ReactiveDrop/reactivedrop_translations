@@ -10371,6 +10371,8 @@
 "rd_unbox_strange_device_flavor"		"Basta premere l'interruttore e il dispositivo prende vita. Mostra un'immagine. Quale immagine mostra?"
 "[english]rd_unbox_strange_device_warning_no_compatible_items"		"You do not own any Strange items capable of accepting this device."
 "rd_unbox_strange_device_warning_no_compatible_items"		"Non possiedi alcun oggetto strano in grado di accettare questo dispositivo."
+		"[english]rd_unbox_strange_device_warning_already_have_accessories"		"You already have enough Strange Devices to fill all owned compatible Strange items."
+		"rd_unbox_strange_device_warning_already_have_accessories"		"You already have enough Strange Devices to fill all owned compatible Strange items."
 "[english]rd_unbox_strange_device_compatible_owned_items"		"Compatible items:"
 "rd_unbox_strange_device_compatible_owned_items"		"Oggetti compatibili:"
 

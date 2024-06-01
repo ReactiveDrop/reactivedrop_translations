@@ -5525,6 +5525,7 @@
 "rd_unbox_strange_device_title"	"Choose Strange Device"
 "rd_unbox_strange_device_flavor"	"You flick the switch and the device hums to life. It displays a picture. Which picture does it show?"
 "rd_unbox_strange_device_warning_no_compatible_items"	"You do not own any Strange items capable of accepting this device."
+"rd_unbox_strange_device_warning_already_have_accessories"	"You already have enough Strange Devices to fill all owned compatible Strange items."
 "rd_unbox_strange_device_compatible_owned_items"	"Compatible items:"
 
 "rd_unbox_strange_option_number"	"Option %s1 of %s2"

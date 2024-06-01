@@ -10372,6 +10372,8 @@
 "rd_unbox_strange_device_flavor"		"Вы щёлкаете выключателем, и прибор оживает. На экране появляется картинка. Какую картинку он показывает?"
 "[english]rd_unbox_strange_device_warning_no_compatible_items"		"You do not own any Strange items capable of accepting this device."
 "rd_unbox_strange_device_warning_no_compatible_items"		"У вас нет ни одного странного предмета, способного принять этот прибор."
+		"[english]rd_unbox_strange_device_warning_already_have_accessories"		"You already have enough Strange Devices to fill all owned compatible Strange items."
+		"rd_unbox_strange_device_warning_already_have_accessories"		"You already have enough Strange Devices to fill all owned compatible Strange items."
 "[english]rd_unbox_strange_device_compatible_owned_items"		"Compatible items:"
 "rd_unbox_strange_device_compatible_owned_items"		"Совместимые предметы:"
 
