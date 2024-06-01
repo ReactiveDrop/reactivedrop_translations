@@ -10349,7 +10349,7 @@
 "[english]rd_crafting_beta1_signup_accept"		"Sign me up!"
 "rd_crafting_beta1_signup_accept"		"加入测试"
 "[english]rd_crafting_beta1_signup_decline"		"Not for me, thanks."
-"rd_crafting_beta1_signup_decline"		"蚕食不要"
+"rd_crafting_beta1_signup_decline"		"暂时不要"
 "[english]rd_crafting_beta1_signup_already"		"You have successfully signed up for phase 1 of the beta."
 "rd_crafting_beta1_signup_already"		"您已成功加入第1阶段测试。"
 
