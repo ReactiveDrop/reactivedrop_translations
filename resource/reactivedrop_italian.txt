@@ -8229,7 +8229,7 @@
 "[english]rd_mission_desc_rd-nh02_platformxvii"		"Commuting space"
 "rd_mission_desc_rd-nh02_platformxvii"		"Spazio di spostamento"
 "[english]rd_mission_brief_rd-nh02_platformxvii"		"This commuting space was traversed using a circuit of elevators. We're counting on the idea of you finding one that still moves."
-"rd_mission_brief_rd-nh02_platformxvii"		"Questo spazio di spostamento è stato attraversato usando un circuito di ascensori. Contiamo su di voi per trovare qualcuno che ancora si muove."
+"rd_mission_brief_rd-nh02_platformxvii"		"Questo spazio di spostamento veniva attraversato usando un circuito di ascensori. Contiamo che riuscirete a trovarne qualcuno che funziona ancora."
 "[english]rd_mission_title_rd-nh03_groundworklabs"		"Groundwork Labs"
 "rd_mission_title_rd-nh03_groundworklabs"		"Groundwork Labs"
 "[english]rd_mission_loc_rd-nh03_groundworklabs"		"Research laboratories"
