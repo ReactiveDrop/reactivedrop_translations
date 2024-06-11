@@ -50,6 +50,10 @@
 "StatsWeb_ProfileNoStatsAfter"		" has not played Alien Swarm: Reactive Drop, so no stats are available."
 "StatsWeb_ProfileNoStatsOptOutBefore"		""
 "StatsWeb_ProfileNoStatsOptOutAfter"		" has requested that their personal stats not be shown on this page."
+"StatsWeb_ProfileNoStatsPlayedButNoStatsBefore"		"No gameplay statistics have been recorded for "
+"StatsWeb_ProfileNoStatsPlayedButNoStatsAfter"		"; however, "
+// previous message continues into this one
+"StatsWeb_ProfileNoStatsPlaytimeAnomaly"		"Steam reports they have played the game for %d minutes."
 "StatsWeb_ProfileNavStats"		"Stats"
 "StatsWeb_ProfileNavWeapons"		"Weapons"
 "StatsWeb_ProfileNavAchievements"		"Achievements"
