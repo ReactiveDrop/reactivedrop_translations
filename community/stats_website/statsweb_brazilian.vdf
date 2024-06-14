@@ -97,6 +97,13 @@
 "StatsWeb_ProfileNoStatsOptOutBefore"		""
 "[english]StatsWeb_ProfileNoStatsOptOutAfter"		" has requested that their personal stats not be shown on this page."
 "StatsWeb_ProfileNoStatsOptOutAfter"		" solicitou que suas estatísticas pessoais não sejam exibidas nesta página."
+		"[english]StatsWeb_ProfileNoStatsPlayedButNoStatsBefore"		"No gameplay statistics have been recorded for "
+		"StatsWeb_ProfileNoStatsPlayedButNoStatsBefore"		"No gameplay statistics have been recorded for "
+		"[english]StatsWeb_ProfileNoStatsPlayedButNoStatsAfter"		"; however, "
+		"StatsWeb_ProfileNoStatsPlayedButNoStatsAfter"		"; however, "
+		// previous message continues into this one
+		"[english]StatsWeb_ProfileNoStatsPlaytimeAnomaly"		"Steam reports they have played the game for %d minutes."
+		"StatsWeb_ProfileNoStatsPlaytimeAnomaly"		"Steam reports they have played the game for %d minutes."
 "[english]StatsWeb_ProfileNavStats"		"Stats"
 "StatsWeb_ProfileNavStats"		"Stats"
 "[english]StatsWeb_ProfileNavWeapons"		"Weapons"

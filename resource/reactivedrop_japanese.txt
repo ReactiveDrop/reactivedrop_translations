@@ -4368,10 +4368,10 @@
 "asw_weapon_deagle_attributes"		"高い攻撃力"
 "[english]rd_ui_select_challenge"		"Challenge"
 "rd_ui_select_challenge"		"チャレンジ"
-"[english]rd_challenge_name_0"		"Disabled"
-"rd_challenge_name_0"		"無し"
-"[english]rd_challenge_desc_0"		"No special challenge"
-"rd_challenge_desc_0"		"特殊なチャレンジ無しでプレイする"
+		"[english]rd_challenge_name_0"		"Default Game Rules"
+		"rd_challenge_name_0"		"Default Game Rules"
+		"[english]rd_challenge_desc_0"		"Select a different challenge to customize your experience."
+		"rd_challenge_desc_0"		"Select a different challenge to customize your experience."
 "[english]rd_challenge_name_asbi"		"ASBI"
 "rd_challenge_name_asbi"		"ASBI"
 "[english]rd_challenge_desc_asbi"		"Significantly increases difficulty by increasing aliens' speed and number, adding more frequent hordes, and forcing hardcore friendly fire."
@@ -6194,8 +6194,8 @@
 "asw_weapon_cryo_cannon"		"クライオキャノン"
 // This weapon is a reference to Deep Rock Galactic's weapon by the same name. The Cryo Cannon was added to Deep Rock Galactic in update 19.
 // In-universe, DRG = Directed Refrigeration Gun. Bonus points if you can make that work with the acronym for Deep Rock Galactic in your language.
-"[english]asw_weaponl_cryo_cannon"		"TC19 DRG Cryo Cannon"
-"asw_weaponl_cryo_cannon"		"TC19 DRG クライオキャノン"
+"[english]asw_weaponl_cryo_cannon"		"TC19 Directed Refrigeration Gun (Cryo Cannon)"
+"asw_weaponl_cryo_cannon"		"TC19 伝導性冷凍ガン(DRG - クライオキャノン)"
 "[english]asw_wdesc_cryo_cannon"		"This Telic Corporation prototype was originally meant to be a tool to quickly freeze specimens for safe transport. The Directed Refrigeration Gun had two main problems: first, it was so large and heavy that it required an exosuit to operate. Second, the process of quickly freezing a specimen severely damaged it - or just made it angry. The freezing didn't last very long, and it usually ended with one of the participants shattered or torn to shreds."
 "asw_wdesc_cryo_cannon"		"テリック・コーポレーション製のこの試作品は検体を安全に輸送するための瞬間冷凍用具として本来は設計されていた。しかしディープでロックな2つの問題を抱えていた：第1に、あまりにも大きく重すぎて、ドワーフの様な力持ちでない人間にはパワードスーツを着ないと扱えなかった。第2に、瞬間冷凍により検体が酷い損傷を受けたり、怒り狂うことがあった。そこまで長くは凍ったままにもできず、大概は誰かがうっかり壊したりバラバラにしてしまうだけだった。"
 "[english]asw_weapon_cryo_cannon_altfire"		"Barrel Spin-up"
@@ -7628,7 +7628,7 @@
 "[english]rd_campaign_name_rd_nh_campaigns"		"Nam Humanum"
 "rd_campaign_name_rd_nh_campaigns"		"Nam Humanum"
 "[english]rd_campaign_desc_rd_nh_campaigns"		"2243. In the wake of mankind's first contact with the alien Swarm, a distress signal was sent by the Lugdunum colony on Cassius-III following an extensive non-communication period. For all reasonable suspicion, Lugdunum now looms as one of this new threat's first casualties. The mission: to man-probe the facility for intel, then decide on further action based on the information gathered within."
-"rd_campaign_desc_rd_nh_campaigns"		"2243年。 人類とエイリアンの初接触からすぐに、救難信号が惑星カシアス3のルグドゥノムコロニーから送信され、その後通信が途絶えた。 状況から考えて、ルグドゥノムはこの新しい脅威の最初の犠牲者の一つとして立ち並ぶことになった。 ミッションは、人の手で施設の情報を集め、それを基準に今後どう対応するかを決めることだ。"
+"rd_campaign_desc_rd_nh_campaigns"		"2243年。 人類とエイリアンの初接触からすぐに、救難信号が惑星カシアス3のルグドゥノムコロニーから送信され、 その後通信が途絶えた。 状況から考えて、ルグドゥノムはこの新しい脅威の最初の犠牲者の一つとして立ち並ぶことになった。 ミッションは、人の手で施設の情報を集め、それを基準に今後どう対応するかを決めることだ。"
 "[english]rd_campaign_name_rd-operationcleansweep"		"Operation Cleansweep"
 "rd_campaign_name_rd-operationcleansweep"		"Operation Cleansweep"
 "[english]rd_campaign_desc_rd-operationcleansweep"		"IAF command sends out your team of elite marines to find and destroy the source of the infestation."
@@ -7640,7 +7640,7 @@
 "[english]rd_campaign_name_rd_reduction_campaign"		"Reduction"
 "rd_campaign_name_rd_reduction_campaign"		"Reduction"
 "[english]rd_campaign_desc_rd_reduction_campaign"		"You just returned from a tour out-system, and have arrived in orbit around Earth. You're almost home now. God, it's going to be great to get some well-deserved rest!"
-"rd_campaign_desc_rd_reduction_campaign"		"外部星域遠征から帰還し、地球の衛星軌道上に到着した。もうすぐ故郷に帰れるぞ。あぁー、大変だった分休暇が楽しみだ！"
+"rd_campaign_desc_rd_reduction_campaign"		"外部星域遠征から帰還し、地球の衛星軌道上に到着した。もうすぐ故郷に帰れるぞ。 あぁー、大変だった分休暇が楽しみだ！"
 "[english]rd_campaign_name_rd_research7"		"Research 7"
 "rd_campaign_name_rd_research7"		"Research 7"
 "[english]rd_campaign_desc_rd_research7"		"We believe that samples from Vereon XII have made it to Earth and compromised the Research 7 Facility. We're sending in Alpha squad to investigate."
@@ -9482,11 +9482,11 @@
 // - number of packets sent/received per second
 // - client and server FPS
 "[english]rd_reporting_includes_connection_quality"		"Some simple statistics about your recent network connection quality."
-"rd_reporting_includes_connection_quality"		"あなたのネットワーク接続状況に関する簡易的な統計情報。(pingや接続時間など)"
+"rd_reporting_includes_connection_quality"		"あなたのネットワーク接続状況に関する簡易的な統計情報。 (pingや接続時間など)"
 "[english]rd_reporting_continues_in_background"		"Report sending will continue in the background while the game is running. You do not need to wait on this screen."
-"rd_reporting_continues_in_background"		"ゲームが起動状態のままなら報告の送信がバックグラウンドで継続されます。この画面のまま待ち続ける必要はありません。"
+"rd_reporting_continues_in_background"		"ゲームが起動状態のままなら報告の送信がバックグラウンドで継続されます。 この画面のまま待ち続ける必要はありません。"
 "[english]rd_reporting_only_team"		"Only Reactive Drop Team will see your report. It will not be shared directly with other players."
-"rd_reporting_only_team"		"Reactive Drop Teamだけが報告の内容を確認できます。他のプレイヤーに内容が直接共有されることはありません。"
+"rd_reporting_only_team"		"Reactive Drop Teamだけが報告の内容を確認できます。 他のプレイヤーに内容が直接共有されることはありません。"
 
 // these are tab names
 "[english]rd_settings_controls"		"Controls"
@@ -10371,6 +10371,8 @@
 "rd_unbox_strange_device_flavor"		"スイッチを入れると装置が音を立てて動き出す。画像が表示されているが、何が表示されているだろう？"
 "[english]rd_unbox_strange_device_warning_no_compatible_items"		"You do not own any Strange items capable of accepting this device."
 "rd_unbox_strange_device_warning_no_compatible_items"		"この装置に対応するストレンジアイテムを一つも所有していません。"
+"[english]rd_unbox_strange_device_warning_already_have_accessories"		"You already have enough Strange Devices to fill all owned compatible Strange items."
+"rd_unbox_strange_device_warning_already_have_accessories"		"互換性のあるストレンジアイテムの総数を上回る量の装置を既に所有しています。"
 "[english]rd_unbox_strange_device_compatible_owned_items"		"Compatible items:"
 "rd_unbox_strange_device_compatible_owned_items"		"互換性のあるアイテム:"
 
