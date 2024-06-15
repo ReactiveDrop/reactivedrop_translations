@@ -3277,7 +3277,7 @@
 "[english]nb_difficulty_title"		"Difficulty"
 "nb_difficulty_title"		"Сложность"
 "[english]nb_speedruntime_title"		"Speedrun Time"
-"nb_speedruntime_title"		"Время прохождения"
+"nb_speedruntime_title"		"Прохожд. на скор."
 // the first %d is minutes and the second %d is seconds (printf formatting). examples - 1:42, 3:10, 1:07
 "[english]nb_speedruntime_format"		"%d:%02d"
 "nb_speedruntime_format"		"%d:%02d"
@@ -4368,10 +4368,10 @@
 "asw_weapon_deagle_attributes"		"Мощный"
 "[english]rd_ui_select_challenge"		"Challenge"
 "rd_ui_select_challenge"		"Испытание"
-		"[english]rd_challenge_name_0"		"Default Game Rules"
-		"rd_challenge_name_0"		"Default Game Rules"
-		"[english]rd_challenge_desc_0"		"Select a different challenge to customize your experience."
-		"rd_challenge_desc_0"		"Select a different challenge to customize your experience."
+"[english]rd_challenge_name_0"		"Default Game Rules"
+"rd_challenge_name_0"		"Правила игры по умолчанию"
+"[english]rd_challenge_desc_0"		"Select a different challenge to customize your experience."
+"rd_challenge_desc_0"		"Выберите другое испытание, чтобы изменить впечатления от игры."
 "[english]rd_challenge_name_asbi"		"ASBI"
 "rd_challenge_name_asbi"		"ASBI"
 "[english]rd_challenge_desc_asbi"		"Significantly increases difficulty by increasing aliens' speed and number, adding more frequent hordes, and forcing hardcore friendly fire."
@@ -6193,10 +6193,10 @@
 "asw_weapon_ar2_attributes"		"Внутренний реактор тёмной энергии"
 "[english]asw_weapon_cryo_cannon"		"Cryo Cannon"
 "asw_weapon_cryo_cannon"		"Криопушка"
-		// This weapon is a reference to Deep Rock Galactic's weapon by the same name. The Cryo Cannon was added to Deep Rock Galactic in update 19.
-		// In-universe, DRG = Directed Refrigeration Gun. Bonus points if you can make that work with the acronym for Deep Rock Galactic in your language.
-		"[english]asw_weaponl_cryo_cannon"		"TC19 Directed Refrigeration Gun (Cryo Cannon)"
-		"asw_weaponl_cryo_cannon"		"TC19 Directed Refrigeration Gun (Cryo Cannon)"
+// This weapon is a reference to Deep Rock Galactic's weapon by the same name. The Cryo Cannon was added to Deep Rock Galactic in update 19.
+// In-universe, DRG = Directed Refrigeration Gun. Bonus points if you can make that work with the acronym for Deep Rock Galactic in your language.
+"[english]asw_weaponl_cryo_cannon"		"TC19 Directed Refrigeration Gun (Cryo Cannon)"
+"asw_weaponl_cryo_cannon"		"Направленная холодильная пушка TC19 (Криопушка)"
 "[english]asw_wdesc_cryo_cannon"		"This Telic Corporation prototype was originally meant to be a tool to quickly freeze specimens for safe transport. The Directed Refrigeration Gun had two main problems: first, it was so large and heavy that it required an exosuit to operate. Second, the process of quickly freezing a specimen severely damaged it - or just made it angry. The freezing didn't last very long, and it usually ended with one of the participants shattered or torn to shreds."
 "asw_wdesc_cryo_cannon"		"Этот прототип корпорации «Направленность» изначально задумывался как инструмент для быстрой заморозки образцов для безопасной транспортировки. У пушки направленного охлаждения было две основные проблемы: во-первых, она была настолько большой и тяжёлой, что для работы с ней требовался экзокостюм. Во-вторых, процесс быстрой заморозки образца сильно повреждал пушку - или просто раздражал. Заморозка длилась недолго, и обычно заканчивалась тем, что один из участников был разбит или разорван в клочья."
 "[english]asw_weapon_cryo_cannon_altfire"		"Barrel Spin-up"
@@ -10372,8 +10372,8 @@
 "rd_unbox_strange_device_flavor"		"Вы щёлкаете выключателем, и прибор оживает. На экране появляется картинка. Какую картинку он показывает?"
 "[english]rd_unbox_strange_device_warning_no_compatible_items"		"You do not own any Strange items capable of accepting this device."
 "rd_unbox_strange_device_warning_no_compatible_items"		"У вас нет ни одного странного предмета, способного принять этот прибор."
-		"[english]rd_unbox_strange_device_warning_already_have_accessories"		"You already have enough Strange Devices to fill all owned compatible Strange items."
-		"rd_unbox_strange_device_warning_already_have_accessories"		"You already have enough Strange Devices to fill all owned compatible Strange items."
+"[english]rd_unbox_strange_device_warning_already_have_accessories"		"You already have enough Strange Devices to fill all owned compatible Strange items."
+"rd_unbox_strange_device_warning_already_have_accessories"		"У вас уже достаточно странных приборов, чтобы заполнить все принадлежащие вам совместимые странные предметы."
 "[english]rd_unbox_strange_device_compatible_owned_items"		"Compatible items:"
 "rd_unbox_strange_device_compatible_owned_items"		"Совместимые предметы:"
 
