@@ -10,7 +10,7 @@
 | [French](#french-français) | 31 | 138 | 42 | 2583 | 262 | 212 | 653 | 125 |
 | [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | 2 | 4 | ✔️ | ✔️ | ✔️ |
 | [Hungarian](#non-curated-languages) | 55 | 138 | 42 | 3216 | 263 | 212 | 978 | 147 |
-| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | 4 | ✔️ | ✔️ | ✔️ |
+| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | 1 | ✔️ | ✔️ | ✔️ |
 | [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | 2 | 4 | ✔️ | 35 | ✔️ |
 | [Korean](#koreana-한국어) | 11 | 10 | 38 | 1716 | 263 | 34 | 449 | 48 |
 | [Norwegian Bokmål](#non-curated-languages) | 73 | 708 | 47 | 3922 | 263 | 212 | 713 | 147 |
@@ -596,7 +596,7 @@
 
 ### Strings
 
-- [items_italian.vdf](community/inventory_service/items_italian.vdf) has 4 untranslated strings.
+- [items_italian.vdf](community/inventory_service/items_italian.vdf) has 1 untranslated strings.
 
 </details>
 
