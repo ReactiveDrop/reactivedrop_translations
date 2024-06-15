@@ -1690,11 +1690,11 @@
 "L4D360UI_FoundPublicGames_Title_single_mission"		"PARTITE ONLINE DISPONIBILI"
 
 "[english]L4D360UI_FoundPublicGames_Subtitle_"		"There are currently %s1 people playing Alien Swarm."
-"L4D360UI_FoundPublicGames_Subtitle_"		"Ci sono al momento %s1 persone che giocano ad Alien Swarm."
+"L4D360UI_FoundPublicGames_Subtitle_"		"Ci sono al momento %s1 persone che stanno giocando ad Alien Swarm."
 "[english]L4D360UI_FoundPublicGames_Subtitle_campaign"		"There are currently %s1 people playing Alien Swarm."
-"L4D360UI_FoundPublicGames_Subtitle_campaign"		"Ci sono al momento %s1 persone che giocano ad Alien Swarm."
+"L4D360UI_FoundPublicGames_Subtitle_campaign"		"Ci sono al momento %s1 persone che stanno giocando ad Alien Swarm."
 "[english]L4D360UI_FoundPublicGames_Subtitle_single_mission"		"There are currently %s1 people playing Alien Swarm."
-"L4D360UI_FoundPublicGames_Subtitle_single_mission"		"Ci sono al momento %s1 persone che giocano ad Alien Swarm."
+"L4D360UI_FoundPublicGames_Subtitle_single_mission"		"Ci sono al momento %s1 persone che stanno giocando ad Alien Swarm."
 
 "[english]L4D360UI_FoundPublicGames_Header"		"Campaigns near you with space available to join."
 "L4D360UI_FoundPublicGames_Header"		"Campagne vicine a te con spazio disponibile per unirti."
