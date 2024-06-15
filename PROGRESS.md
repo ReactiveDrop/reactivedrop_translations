@@ -1,7 +1,7 @@
 # Overview
 | Language | basemodui | closecaption | gameui | reactivedrop | items | statsweb | Strings | Files |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | ✔️ | 2 | ✔️ | ✔️ | ✔️ | ✔️ |
+| [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Traditional Chinese](#tchinese-繁體中文) | 13 | 141 | 33 | 3082 | 253 | 212 | 239 | 146 |
 | [Czech](#czech-čeština) | 75 | 1810 | 42 | 4221 | 259 | 212 | 983 | 146 |
 | [Danish](#non-curated-languages) | 56 | 231 | 42 | 3748 | 259 | 212 | 713 | 147 |
@@ -10,7 +10,7 @@
 | [French](#french-français) | 31 | 138 | 42 | 2583 | 258 | 212 | 653 | 125 |
 | [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | 2 | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Hungarian](#non-curated-languages) | 55 | 138 | 42 | 3216 | 259 | 212 | 978 | 147 |
-| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | 2 | ✔️ | ✔️ | ✔️ | ✔️ |
+| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | 2 | ✔️ | ✔️ | 35 | ✔️ |
 | [Korean](#koreana-한국어) | 11 | 10 | 38 | 1716 | 259 | 34 | 449 | 48 |
 | [Norwegian Bokmål](#non-curated-languages) | 73 | 708 | 47 | 3922 | 259 | 212 | 713 | 147 |
@@ -18,10 +18,10 @@
 | [European Portuguese](#portuguese-português-europeu) | 4 | 180 | 32 | 2307 | 239 | 33 | 633 | 141 |
 | [Brazilian Portuguese](#brazilian-português) | ✔️ | ✔️ | ✔️ | 1477 | ✔️ | 3 | 1 | 2 |
 | [Romanian](#non-curated-languages) | 55 | 1996 | 48 | 3928 | 259 | 212 | 978 | 147 |
-| [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | 4 | ✔️ | 3 | ✔️ | ✔️ |
+| [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [European Spanish](#spanish-español-de-españa) | 32 | 2004 | 40 | 2633 | 259 | 212 | 717 | 146 |
 | [Latin American Spanish](#latam-español-latinoamericano) | ✔️ | 2004 | ✔️ | 4268 | 6 | 3 | 204 | 141 |
-| [Swedish](#swedish-svenska) | ✔️ | ✔️ | ✔️ | 883 | ✔️ | ✔️ | ✔️ | 87 |
+| [Swedish](#swedish-svenska) | ✔️ | ✔️ | ✔️ | 882 | ✔️ | ✔️ | ✔️ | 87 |
 | [Thai](#non-curated-languages) | 970 | 1993 | 50 | 4464 | 259 | 212 | 742 | 147 |
 | [Turkish](#non-curated-languages) | 55 | 137 | 42 | 3216 | 259 | 212 | 978 | 147 |
 | [Ukrainian](#ukrainian-українська) | 31 | 131 | 32 | 2761 | 259 | 212 | 936 | 146 |
@@ -40,9 +40,7 @@
 
 </summary>
 
-### Strings
-
-- [reactivedrop_schinese.txt](resource/reactivedrop_schinese.txt) has 2 untranslated strings.
+✓ Up to date!
 
 </details>
 
@@ -593,9 +591,7 @@
 
 </summary>
 
-### Strings
-
-- [reactivedrop_italian.txt](resource/reactivedrop_italian.txt) has 2 untranslated strings.
+✓ Up to date!
 
 </details>
 
@@ -1084,10 +1080,7 @@
 
 </summary>
 
-### Strings
-
-- [statsweb_russian.vdf](community/stats_website/statsweb_russian.vdf) has 3 untranslated strings.
-- [reactivedrop_russian.txt](resource/reactivedrop_russian.txt) has 4 untranslated strings.
+✓ Up to date!
 
 </details>
 
@@ -1449,7 +1442,7 @@
 
 ### Strings
 
-- [reactivedrop_swedish.txt](resource/reactivedrop_swedish.txt) has 883 untranslated strings.
+- [reactivedrop_swedish.txt](resource/reactivedrop_swedish.txt) has 882 untranslated strings.
 
 ### Upcoming Release Notes
 
