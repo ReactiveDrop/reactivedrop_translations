@@ -1860,6 +1860,18 @@
 			"name_color": "5E98D9",
 			"tags": "rarity:uncommon;slot:medal",
 			"item_slot": "medal"
+		},
+		{
+			"itemdefid": 46,
+			"type": "item",
+			"name_english": "I met Barry on the Isolode",
+			"description_english": "It was a [i]Barry[/i] good time. Still [i]barrel[/i]-y know him, though…\n\n[color=#AACCEE]Complete the Barry Nice to Meet You achievement in The Anacrusis to unlock.[/color]",
+			"display_type_english": "Souvenir",
+			"icon_url": "https://stats.reactivedrop.com/static/medals/anacrusis.png",
+			"name_color": "5E98D9",
+			"tags": "rarity:uncommon;slot:medal",
+			"promo": "ach:ACHIEVEMENT_BARRY_MEET/1120480",
+			"item_slot": "medal"
 		}
 	]
 }
