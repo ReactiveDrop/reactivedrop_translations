@@ -2327,7 +2327,7 @@
 "[english]asw_fail_advice_ignored_lighting"		"Use flares to reveal the swarms in dark areas."
 "asw_fail_advice_ignored_lighting"		"Usa i bengala per rivelare la posizione dello Sciame nelle zone buie."
 "[english]asw_fail_advice_slow_progression"		"Swarms will continue to trickle in while the squad progresses slowly."
-"asw_fail_advice_slow_progression"		"La Sciame continua a rifluire se la squadra procede con lentezza."
+"asw_fail_advice_slow_progression"		"Lo Sciame continuerà ad arrivare se la squadra avanza lentamente."
 "[english]asw_fail_advice_shield_bug"		"The shield bug can block frontal attacks."
 "asw_fail_advice_shield_bug"		"Lo Shieldbug è in grado di parare gli attacchi frontali."
 "[english]asw_fail_advice_died_alone"		"Keep your squad formation tight to prevent becoming overwhelmed."
@@ -4917,7 +4917,7 @@
 "[english]rd_res1_ob_go_into_cave"		"Go deeper into the cave system."
 "rd_res1_ob_go_into_cave"		"Addentratevi nel sistema di caverne."
 "[english]rd_res1_ob_go_into_cave_d"		"The swarm broke through the cabin wall from a cave."
-"rd_res1_ob_go_into_cave_d"		"La Sciame è entrato dal muro della cabina attraverso una caverna."
+"rd_res1_ob_go_into_cave_d"		"Lo sciame ha sfondato la parete della cabina da una grotta."
 "[english]rd_res1_ob_go_into_cave_d2"		"Follow the cave system."
 "rd_res1_ob_go_into_cave_d2"		"Seguite il sistema di caverne."
 
