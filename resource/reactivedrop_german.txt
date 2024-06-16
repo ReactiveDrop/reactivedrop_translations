@@ -4387,7 +4387,7 @@
 "[english]rd_challenge_name_level_one"		"Level One"
 "rd_challenge_name_level_one"		"Level Eins"
 "[english]rd_challenge_desc_level_one"		"Only the weapons available to level 1 commanders may be used."
-"rd_challenge_desc_level_one"		"Es dürfen nur die Waffen verwendet werden, die den Spielern der Stufe 1 zur Verfügung stehen."
+"rd_challenge_desc_level_one"		"Es dürfen nur die Waffen verwendet werden, die den Spielern auf Level 1 zur Verfügung stehen."
 "[english]rd_challenge_name_one_hit"		"One Hit"
 "rd_challenge_name_one_hit"		"Ein Treffer"
 "[english]rd_challenge_desc_one_hit"		"Aliens kill marines in one hit. Forced hardcore friendly fire"
