@@ -8,7 +8,7 @@
 | [Dutch](#non-curated-languages) | 55 | 2004 | 42 | 3216 | 263 | 212 | 713 | 146 |
 | [Finnish](#non-curated-languages) | ✔️ | 2004 | 41 | 3078 | 264 | 212 | 704 | 146 |
 | [French](#french-français) | 31 | 138 | 42 | 2583 | 262 | 212 | 653 | 125 |
-| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | 2 | 4 | ✔️ | ✔️ | ✔️ |
+| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Hungarian](#non-curated-languages) | 55 | 138 | 42 | 3216 | 263 | 212 | 978 | 147 |
 | [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | 1 | ✔️ | ✔️ | ✔️ |
 | [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 35 | ✔️ |
@@ -581,10 +581,7 @@
 
 </summary>
 
-### Strings
-
-- [items_german.vdf](community/inventory_service/items_german.vdf) has 4 untranslated strings.
-- [reactivedrop_german.txt](resource/reactivedrop_german.txt) has 2 untranslated strings.
+✓ Up to date!
 
 </details>
 
