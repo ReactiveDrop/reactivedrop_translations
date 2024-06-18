@@ -873,7 +873,7 @@
 "bastille.SwarmEggs2"		"<clr:205,127,50><B>Bastille:<B> エイリアンの卵だ、排除するぞ。"
 
 "[english]bastille.Grenade0"		"<clr:205,127,50><B>Bastille:<B> Clear."
-"bastille.Grenade0"		"<clr:205,127,50><B>Bastille:<B> 一掃する。"
+"bastille.Grenade0"		"<clr:205,127,50><B>Bastille:<B> 離れてろ。"
 
 "[english]bastille.Grenade1"		"<clr:205,127,50><B>Bastille:<B> Fire in the hole."
 "bastille.Grenade1"		"<clr:205,127,50><B>Bastille:<B> 爆発するぞ。"
@@ -1506,7 +1506,7 @@
 "crash.SwarmEggs2"		"<clr:238,180,34><B>Crash:<B> 注意しろ！エイリアンの卵だ！"
 
 "[english]crash.Grenade0"		"<clr:238,180,34><B>Crash:<B> Clear!"
-"crash.Grenade0"		"<clr:238,180,34><B>Crash:<B> 一掃する！"
+"crash.Grenade0"		"<clr:238,180,34><B>Crash:<B> 離れろ！"
 
 "[english]crash.Grenade1"		"<clr:238,180,34><B>Crash:<B> Eat this!"
 "crash.Grenade1"		"<clr:238,180,34><B>Crash:<B> これでも食らえ！"
@@ -2205,7 +2205,7 @@
 "faith.SwarmEggs2"		"<clr:178,34,34><B>Faith:<B> 気をつけて、パラサイトの卵よ！"
 
 "[english]faith.Grenade0"		"<clr:178,34,34><B>Faith:<B> Clear!"
-"faith.Grenade0"		"<clr:178,34,34><B>Faith:<B> 片付ける！"
+"faith.Grenade0"		"<clr:178,34,34><B>Faith:<B> 離れて！"
 
 "[english]faith.Grenade1"		"<clr:178,34,34><B>Faith:<B> Grenade!"
 "faith.Grenade1"		"<clr:178,34,34><B>Faith:<B> グレネード！"
@@ -2755,7 +2755,7 @@
 "jaeger.SwarmEggs2"		"<clr:198,226,255><B>Jaeger:<B> 気をつけろ、エイリアンの卵だ！"
 
 "[english]jaeger.Grenade0"		"<clr:198,226,255><B>Jaeger:<B> Clear!"
-"jaeger.Grenade0"		"<clr:198,226,255><B>Jaeger:<B> 一掃する！"
+"jaeger.Grenade0"		"<clr:198,226,255><B>Jaeger:<B> 離れてろ！"
 
 "[english]jaeger.Grenade1"		"<clr:198,226,255><B>Jaeger:<B> Grenade!"
 "jaeger.Grenade1"		"<clr:198,226,255><B>Jaeger:<B> グレネード！"
@@ -3568,7 +3568,7 @@
 
 
 "[english]sarge.Grenade1"		"<clr:238,207,161><B>Sarge:<B> Clear!"
-"sarge.Grenade1"		"<clr:238,207,161><B>Sarge:<B> 一掃する！"
+"sarge.Grenade1"		"<clr:238,207,161><B>Sarge:<B> 離れろ！"
 
 
 "[english]sarge.Grenade2"		"<clr:238,207,161><B>Sarge:<B> Eat this!"
@@ -4400,7 +4400,7 @@
 
 
 "[english]vegas.Grenade0"		"<clr:84,255,159><B>Vegas:<B> Clear."
-"vegas.Grenade0"		"<clr:84,255,159><B>Vegas:<B> お掃除だ。"
+"vegas.Grenade0"		"<clr:84,255,159><B>Vegas:<B> 離れてな。"
 
 
 "[english]vegas.Grenade1"		"<clr:84,255,159><B>Vegas:<B> Eat this."
@@ -6262,11 +6262,11 @@
 
 
 "[english]wolfe.Grenade0"		"<clr:154,205,50><B>Wolfe:<B> Clear."
-"wolfe.Grenade0"		"<clr:154,205,50><B>Wolfe:<B> 一掃する。"
+"wolfe.Grenade0"		"<clr:154,205,50><B>Wolfe:<B> 離れとけ。"
 
 
 "[english]wolfe.Grenade1"		"<clr:154,205,50><B>Wolfe:<B> Clear!"
-"wolfe.Grenade1"		"<clr:154,205,50><B>Wolfe:<B> 一掃する！"
+"wolfe.Grenade1"		"<clr:154,205,50><B>Wolfe:<B> 離れろ！"
 
 
 "[english]wolfe.Grenade2"		"<clr:154,205,50><B>Wolfe:<B> Eat this!"
