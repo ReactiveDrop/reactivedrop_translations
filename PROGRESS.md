@@ -10,6 +10,7 @@
 | [French](#french-français) | 31 | 138 | 42 | 2583 | 262 | 212 | 653 | 125 |
 | [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Hungarian](#non-curated-languages) | 55 | 138 | 42 | 3216 | 263 | 212 | 978 | 147 |
+| [Indonesian](#indonesian-indonesia) | 1285 | 2004 | 634 | 4728 | 266 | 216 | 983 | 147 |
 | [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | 1 | ✔️ | ✔️ | ✔️ |
 | [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 35 | ✔️ |
 | [Korean](#koreana-한국어) | 11 | 10 | 38 | 1716 | 263 | 34 | 449 | 48 |
@@ -582,6 +583,192 @@
 </summary>
 
 ✓ Up to date!
+
+</details>
+
+<details><summary>
+
+## indonesian (Indonesia)
+
+</summary>
+
+### Strings
+
+- [addons/ExampleAddon/reactivedrop_indonesian.txt](addons/ExampleAddon/resource/reactivedrop_indonesian.txt) has 39 untranslated strings.
+- [addons/RiskOfRain/reactivedrop_indonesian.txt](addons/RiskOfRain/resource/reactivedrop_indonesian.txt) has 95 untranslated strings.
+- [inventory_service_tags_indonesian.vdf](community/inventory_service/inventory_service_tags_indonesian.vdf) has 33 untranslated strings.
+- [items_indonesian.vdf](community/inventory_service/items_indonesian.vdf) has 266 untranslated strings.
+- [statsweb_indonesian.vdf](community/stats_website/statsweb_indonesian.vdf) has 216 untranslated strings.
+- [steam_input_indonesian.vdf](community/steam_input/steam_input_indonesian.vdf) has 97 untranslated strings.
+- [workshop_description_indonesian.vdf](community/workshop/workshop_description_indonesian.vdf) has 6 untranslated strings.
+- [misc/signage/signage_indonesian.vdf](misc/signage/signage_indonesian.vdf) has 69 untranslated strings.
+- [platform/servers/serverbrowser_indonesian.txt](platform/servers/serverbrowser_indonesian.txt) has 186 untranslated strings.
+- [platform/vgui_indonesian.txt](platform/vgui_indonesian.txt) has 184 untranslated strings.
+- [basemodui_indonesian.txt](resource/basemodui_indonesian.txt) has 1285 untranslated strings.
+- [chat_indonesian.txt](resource/chat_indonesian.txt) has 8 untranslated strings.
+- [closecaption_indonesian.txt](resource/closecaption_indonesian.txt) has 2004 untranslated strings.
+- [gameui_indonesian.txt](resource/gameui_indonesian.txt) has 634 untranslated strings.
+- [reactivedrop_indonesian.txt](resource/reactivedrop_indonesian.txt) has 4728 untranslated strings.
+- [valve_indonesian.txt](resource/valve_indonesian.txt) has 266 untranslated strings.
+
+### Steam Store and Community
+
+- [eula_indonesian.txt](community/eula/eula_english.txt) is missing.
+- [app_items_563560_indonesian.json](community/points_shop/app_items_563560_english.json) is missing.
+- [workshop_tags_indonesian.json](community/workshop/workshop_tags_english.json) is missing.
+- [content_warning_563560_indonesian.txt](store_page/content_warning_563560_english.txt) is missing.
+- [storepage_81731_indonesian.json](store_page/storepage_81731_english.json) is missing.
+
+### Upcoming Release Notes
+
+- [20240601_indonesian.xml](release_notes/20240601_english.xml) is missing.
+
+### Credits
+
+- [addons/ExampleAddon/CustomCampaignCredits_indonesian.txt](addons/ExampleAddon/resource/CustomCampaignCredits_english.txt) is missing.
+- [asw_credits_indonesian.txt](credits/asw_credits_english.txt) is missing.
+- [biogen_corporation_credits_indonesian.txt](credits/biogen_corporation_credits_english.txt) is missing.
+- [credits_acc32_official_indonesian.txt](credits/credits_acc32_official_english.txt) is missing.
+- [credits_marine_academy_indonesian.txt](credits/credits_marine_academy_english.txt) is missing.
+- [credits_namhumanum_indonesian.txt](credits/credits_namhumanum_english.txt) is missing.
+- [deathmatch_credits_indonesian.txt](credits/deathmatch_credits_english.txt) is missing.
+- [rd-LanasEscapeCredits_indonesian.txt](credits/rd-LanasEscapeCredits_english.txt) is missing.
+- [rd-area9800Credits_indonesian.txt](credits/rd-area9800Credits_english.txt) is missing.
+- [rd-ocs-credits_indonesian.txt](credits/rd-ocs-credits_english.txt) is missing.
+- [rd-reduction_campaigncredits_indonesian.txt](credits/rd-reduction_campaigncredits_english.txt) is missing.
+- [rd-tarnor_credits_indonesian.txt](credits/rd-tarnor_credits_english.txt) is missing.
+- [rd_bonus_missions_credits_indonesian.txt](credits/rd_bonus_missions_credits_english.txt) is missing.
+- [rd_paranoia_credits_indonesian.txt](credits/rd_paranoia_credits_english.txt) is missing.
+- [rd_research7_credits_indonesian.txt](credits/rd_research7_credits_english.txt) is missing.
+- [tilarus5_credits_indonesian.txt](credits/tilarus5_credits_english.txt) is missing.
+
+### Mail and News
+
+- [mail/3rdmappdasmugler_indonesian.txt](resource/mail/3rdmappdasmugler_english.txt) is missing.
+- [mail/3rdmappdaworker_indonesian.txt](resource/mail/3rdmappdaworker_english.txt) is missing.
+- [mail/acc32_mail_findings_indonesian.txt](resource/mail/acc32_mail_findings_english.txt) is missing.
+- [mail/acc32_mail_investigations_indonesian.txt](resource/mail/acc32_mail_investigations_english.txt) is missing.
+- [mail/acc32_mail_localhouses_indonesian.txt](resource/mail/acc32_mail_localhouses_english.txt) is missing.
+- [mail/acc32_mail_miningops_indonesian.txt](resource/mail/acc32_mail_miningops_english.txt) is missing.
+- [mail/acc32_mail_news1_indonesian.txt](resource/mail/acc32_mail_news1_english.txt) is missing.
+- [mail/acc32_mail_news2_indonesian.txt](resource/mail/acc32_mail_news2_english.txt) is missing.
+- [mail/acc32_mail_random1_indonesian.txt](resource/mail/acc32_mail_random1_english.txt) is missing.
+- [mail/acc32_mail_random2_left_indonesian.txt](resource/mail/acc32_mail_random2_left_english.txt) is missing.
+- [mail/acc32_mail_random2_no_indonesian.txt](resource/mail/acc32_mail_random2_no_english.txt) is missing.
+- [mail/acc32_mail_random2_right_indonesian.txt](resource/mail/acc32_mail_random2_right_english.txt) is missing.
+- [mail/acc32_mail_research1_indonesian.txt](resource/mail/acc32_mail_research1_english.txt) is missing.
+- [mail/acc32_mail_research2_indonesian.txt](resource/mail/acc32_mail_research2_english.txt) is missing.
+- [mail/acc32_mail_secret2_indonesian.txt](resource/mail/acc32_mail_secret2_english.txt) is missing.
+- [mail/acc32_mail_solution_indonesian.txt](resource/mail/acc32_mail_solution_english.txt) is missing.
+- [mail/acc_info1_indonesian.txt](resource/mail/acc_info1_english.txt) is missing.
+- [mail/acc_info2_indonesian.txt](resource/mail/acc_info2_english.txt) is missing.
+- [mail/acc_power1_indonesian.txt](resource/mail/acc_power1_english.txt) is missing.
+- [mail/acc_power2_indonesian.txt](resource/mail/acc_power2_english.txt) is missing.
+- [mail/acc_power3_indonesian.txt](resource/mail/acc_power3_english.txt) is missing.
+- [mail/acc_research1_indonesian.txt](resource/mail/acc_research1_english.txt) is missing.
+- [mail/acc_research2_indonesian.txt](resource/mail/acc_research2_english.txt) is missing.
+- [mail/acc_research3_indonesian.txt](resource/mail/acc_research3_english.txt) is missing.
+- [mail/biogen_mail_windows_indonesian.txt](resource/mail/biogen_mail_windows_english.txt) is missing.
+- [mail/labsmail1_indonesian.txt](resource/mail/labsmail1_english.txt) is missing.
+- [mail/labsmail2_indonesian.txt](resource/mail/labsmail2_english.txt) is missing.
+- [mail/labsmail3_indonesian.txt](resource/mail/labsmail3_english.txt) is missing.
+- [mail/labsmail4_indonesian.txt](resource/mail/labsmail4_english.txt) is missing.
+- [mail/landingbaymail1_indonesian.txt](resource/mail/landingbaymail1_english.txt) is missing.
+- [mail/landingbaymail2_indonesian.txt](resource/mail/landingbaymail2_english.txt) is missing.
+- [mail/landingbaymail3_indonesian.txt](resource/mail/landingbaymail3_english.txt) is missing.
+- [mail/ma_pda1_indonesian.txt](resource/mail/ma_pda1_english.txt) is missing.
+- [mail/ma_pda2_indonesian.txt](resource/mail/ma_pda2_english.txt) is missing.
+- [mail/minemails1_indonesian.txt](resource/mail/minemails1_english.txt) is missing.
+- [mail/minemails2_indonesian.txt](resource/mail/minemails2_english.txt) is missing.
+- [mail/minemails3_indonesian.txt](resource/mail/minemails3_english.txt) is missing.
+- [mail/nh_officemail1_jacquesmoreau_indonesian.txt](resource/mail/nh_officemail1_jacquesmoreau_english.txt) is missing.
+- [mail/nh_officemail2_jacquesmoreau_indonesian.txt](resource/mail/nh_officemail2_jacquesmoreau_english.txt) is missing.
+- [mail/nh_officemail_lindasilva_indonesian.txt](resource/mail/nh_officemail_lindasilva_english.txt) is missing.
+- [mail/nh_officemail_vladislavlazarev_indonesian.txt](resource/mail/nh_officemail_vladislavlazarev_english.txt) is missing.
+- [mail/nh_officemail_wistonbeaufort_indonesian.txt](resource/mail/nh_officemail_wistonbeaufort_english.txt) is missing.
+- [mail/nh_pda1_gaelflorenza_indonesian.txt](resource/mail/nh_pda1_gaelflorenza_english.txt) is missing.
+- [mail/nh_pda2_gaelflorenza_indonesian.txt](resource/mail/nh_pda2_gaelflorenza_english.txt) is missing.
+- [mail/nh_pda3_gaelflorenza_indonesian.txt](resource/mail/nh_pda3_gaelflorenza_english.txt) is missing.
+- [mail/nh_pda4_gaelflorenza_indonesian.txt](resource/mail/nh_pda4_gaelflorenza_english.txt) is missing.
+- [mail/nh_pda5_gaelflorenza_indonesian.txt](resource/mail/nh_pda5_gaelflorenza_english.txt) is missing.
+- [mail/nh_pda6_gaelflorenza_indonesian.txt](resource/mail/nh_pda6_gaelflorenza_english.txt) is missing.
+- [mail/nh_pda_francesiriac_indonesian.txt](resource/mail/nh_pda_francesiriac_english.txt) is missing.
+- [mail/nh_pda_jacquesmoreau_indonesian.txt](resource/mail/nh_pda_jacquesmoreau_english.txt) is missing.
+- [mail/nh_pda_jonathandorland_indonesian.txt](resource/mail/nh_pda_jonathandorland_english.txt) is missing.
+- [mail/nh_pda_lindasilva_indonesian.txt](resource/mail/nh_pda_lindasilva_english.txt) is missing.
+- [mail/nh_pda_sarahweiss_indonesian.txt](resource/mail/nh_pda_sarahweiss_english.txt) is missing.
+- [mail/nh_pda_thibautholbert_indonesian.txt](resource/mail/nh_pda_thibautholbert_english.txt) is missing.
+- [mail/nh_pda_tomasselin_indonesian.txt](resource/mail/nh_pda_tomasselin_english.txt) is missing.
+- [mail/nh_pda_yannmontgomery_indonesian.txt](resource/mail/nh_pda_yannmontgomery_english.txt) is missing.
+- [mail/nukeangermail_indonesian.txt](resource/mail/nukeangermail_english.txt) is missing.
+- [mail/officemail1_indonesian.txt](resource/mail/officemail1_english.txt) is missing.
+- [mail/officemail2_indonesian.txt](resource/mail/officemail2_english.txt) is missing.
+- [mail/officemail3_indonesian.txt](resource/mail/officemail3_english.txt) is missing.
+- [mail/officemail4_indonesian.txt](resource/mail/officemail4_english.txt) is missing.
+- [mail/outsidemail1_indonesian.txt](resource/mail/outsidemail1_english.txt) is missing.
+- [mail/outsidemail2_indonesian.txt](resource/mail/outsidemail2_english.txt) is missing.
+- [mail/outsidemail3_indonesian.txt](resource/mail/outsidemail3_english.txt) is missing.
+- [mail/plantmail1_indonesian.txt](resource/mail/plantmail1_english.txt) is missing.
+- [mail/plantmail2_indonesian.txt](resource/mail/plantmail2_english.txt) is missing.
+- [mail/plantmail3_indonesian.txt](resource/mail/plantmail3_english.txt) is missing.
+- [mail/queenlairmail1_indonesian.txt](resource/mail/queenlairmail1_english.txt) is missing.
+- [mail/queenlairmail2_indonesian.txt](resource/mail/queenlairmail2_english.txt) is missing.
+- [mail/rd-benson_indonesian.txt](resource/mail/rd-benson_english.txt) is missing.
+- [mail/rd-cave_geologist1_indonesian.txt](resource/mail/rd-cave_geologist1_english.txt) is missing.
+- [mail/rd-lan-pda1_indonesian.txt](resource/mail/rd-lan-pda1_english.txt) is missing.
+- [mail/rd-lan-pda2_indonesian.txt](resource/mail/rd-lan-pda2_english.txt) is missing.
+- [mail/rd-lan-pda3_indonesian.txt](resource/mail/rd-lan-pda3_english.txt) is missing.
+- [mail/rd-lan-pda4_indonesian.txt](resource/mail/rd-lan-pda4_english.txt) is missing.
+- [mail/rd-lan-pda5_indonesian.txt](resource/mail/rd-lan-pda5_english.txt) is missing.
+- [mail/rd-lan-pda6_indonesian.txt](resource/mail/rd-lan-pda6_english.txt) is missing.
+- [mail/rd-smithson_indonesian.txt](resource/mail/rd-smithson_english.txt) is missing.
+- [mail/rd-spaceport_security_indonesian.txt](resource/mail/rd-spaceport_security_english.txt) is missing.
+- [mail/rd_res_houghton1_indonesian.txt](resource/mail/rd_res_houghton1_english.txt) is missing.
+- [mail/rd_res_houghton2_indonesian.txt](resource/mail/rd_res_houghton2_english.txt) is missing.
+- [mail/rd_res_houghton3_indonesian.txt](resource/mail/rd_res_houghton3_english.txt) is missing.
+- [mail/rd_res_houghton4_indonesian.txt](resource/mail/rd_res_houghton4_english.txt) is missing.
+- [mail/rd_res_houghton5_indonesian.txt](resource/mail/rd_res_houghton5_english.txt) is missing.
+- [mail/rd_res_houghton6_indonesian.txt](resource/mail/rd_res_houghton6_english.txt) is missing.
+- [mail/rd_res_rctinbound1_indonesian.txt](resource/mail/rd_res_rctinbound1_english.txt) is missing.
+- [mail/rd_res_rctinbound2_indonesian.txt](resource/mail/rd_res_rctinbound2_english.txt) is missing.
+- [mail/rd_subject58_indonesian.txt](resource/mail/rd_subject58_english.txt) is missing.
+- [mail/sewersmail1_indonesian.txt](resource/mail/sewersmail1_english.txt) is missing.
+- [mail/sewersmail2_indonesian.txt](resource/mail/sewersmail2_english.txt) is missing.
+- [mail/sewersmail3_indonesian.txt](resource/mail/sewersmail3_english.txt) is missing.
+- [mail/tilarus01port_MainStory1_indonesian.txt](resource/mail/tilarus01port_MainStory1_english.txt) is missing.
+- [mail/tilarus01port_MainStory2_indonesian.txt](resource/mail/tilarus01port_MainStory2_english.txt) is missing.
+- [mail/tilarus01port_MainStory3_indonesian.txt](resource/mail/tilarus01port_MainStory3_english.txt) is missing.
+- [mail/tilarus01port_PublicMessage1_indonesian.txt](resource/mail/tilarus01port_PublicMessage1_english.txt) is missing.
+- [mail/tilarus01port_PublicMessage2_indonesian.txt](resource/mail/tilarus01port_PublicMessage2_english.txt) is missing.
+- [mail/tilarus01port_SideStory1_indonesian.txt](resource/mail/tilarus01port_SideStory1_english.txt) is missing.
+- [mail/tilarus01port_SideStory2_indonesian.txt](resource/mail/tilarus01port_SideStory2_english.txt) is missing.
+- [mail/tilarus01port_SideStory3_indonesian.txt](resource/mail/tilarus01port_SideStory3_english.txt) is missing.
+- [mail/tilarus01port_craigsthingpda_indonesian.txt](resource/mail/tilarus01port_craigsthingpda_english.txt) is missing.
+- [mail/tilarus03arctic_mail1_indonesian.txt](resource/mail/tilarus03arctic_mail1_english.txt) is missing.
+- [mail/tilarus03arctic_mail2_indonesian.txt](resource/mail/tilarus03arctic_mail2_english.txt) is missing.
+- [mail/tilarus03arctic_mail3_indonesian.txt](resource/mail/tilarus03arctic_mail3_english.txt) is missing.
+- [mail/tilarus03arctic_mail4_indonesian.txt](resource/mail/tilarus03arctic_mail4_english.txt) is missing.
+- [mail/tilarus09hospital_pda1_indonesian.txt](resource/mail/tilarus09hospital_pda1_english.txt) is missing.
+- [mail/tilarus09hospital_pda2_indonesian.txt](resource/mail/tilarus09hospital_pda2_english.txt) is missing.
+- [mail/tilarus09hospital_pda3_indonesian.txt](resource/mail/tilarus09hospital_pda3_english.txt) is missing.
+- [mail/tilarus09hospital_pda4_indonesian.txt](resource/mail/tilarus09hospital_pda4_english.txt) is missing.
+- [mail/tilarus09hospital_pda5_indonesian.txt](resource/mail/tilarus09hospital_pda5_english.txt) is missing.
+- [mail/tutorialmail1_indonesian.txt](resource/mail/tutorialmail1_english.txt) is missing.
+- [mail/tutorialmail2_indonesian.txt](resource/mail/tutorialmail2_english.txt) is missing.
+- [mail/tutorialmail3_indonesian.txt](resource/mail/tutorialmail3_english.txt) is missing.
+- [news/antheonmissingnews_indonesian.txt](resource/news/antheonmissingnews_english.txt) is missing.
+- [news/antheonmoonnews_indonesian.txt](resource/news/antheonmoonnews_english.txt) is missing.
+- [news/brainnews_indonesian.txt](resource/news/brainnews_english.txt) is missing.
+- [news/convoynews_indonesian.txt](resource/news/convoynews_english.txt) is missing.
+- [news/droidlawsnews_indonesian.txt](resource/news/droidlawsnews_english.txt) is missing.
+- [news/expansionnews_indonesian.txt](resource/news/expansionnews_english.txt) is missing.
+- [news/experiornews_indonesian.txt](resource/news/experiornews_english.txt) is missing.
+- [news/newcolonynews_indonesian.txt](resource/news/newcolonynews_english.txt) is missing.
+- [news/nh_news_announcement_indonesian.txt](resource/news/nh_news_announcement_english.txt) is missing.
+- [news/nh_news_prospectus_indonesian.txt](resource/news/nh_news_prospectus_english.txt) is missing.
+- [news/rd-newfacilities_indonesian.txt](resource/news/rd-newfacilities_english.txt) is missing.
+- [news/rd-spaceport_news1_indonesian.txt](resource/news/rd-spaceport_news1_english.txt) is missing.
+- [news/refugeenews_indonesian.txt](resource/news/refugeenews_english.txt) is missing.
 
 </details>
 
@@ -1845,7 +2032,6 @@ These languages have not been substantially updated since the start of the React
 - finnish (suomi)
 - greek (Ελληνικά)
 - hungarian (magyar)
-- indonesian (Indonesia)
 - norwegian (norsk bokmål)
 - romanian (română)
 - thai (ไทย)

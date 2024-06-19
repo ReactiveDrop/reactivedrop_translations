@@ -41,10 +41,9 @@ var derivedLanguages = [...]string{
 
 // languages that have no translated strings and no translators
 var emptyLanguages = map[string]bool{
-	"arabic":     true,
-	"bulgarian":  true,
-	"greek":      true,
-	"indonesian": true,
+	"arabic":    true,
+	"bulgarian": true,
+	"greek":     true,
 }
 
 var reportedLanguages = map[string]bool{
@@ -60,7 +59,7 @@ var reportedLanguages = map[string]bool{
 	"german":     true,
 	"greek":      false,
 	"hungarian":  false,
-	"indonesian": false,
+	"indonesian": true,
 	"italian":    true,
 	"japanese":   true,
 	"koreana":    true,
