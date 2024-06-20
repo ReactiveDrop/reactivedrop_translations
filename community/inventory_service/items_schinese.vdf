@@ -21,8 +21,8 @@
 "item_display_type_community_medal_legendary"		"社区勋章"
 "[english]item_display_type_donation_medal"		"Donor"
 "item_display_type_donation_medal"		"捐赠者"
-		"[english]item_display_type_novelty_medal_uncommon"		"Souvenir"
-		"item_display_type_novelty_medal_uncommon"		"Souvenir"
+"[english]item_display_type_novelty_medal_uncommon"		"Souvenir"
+"item_display_type_novelty_medal_uncommon"		"纪念品"
 // accessory that can be permanently attached to a weapon, equipment, or suit to track specific stats
 "[english]item_display_type_strange_device"		"Strange Device"
 "item_display_type_strange_device"		"奇异装置"
@@ -159,15 +159,15 @@
 "[english]item_novelty_medal_flush_toilet_display_type"		"Medal…?"
 "item_novelty_medal_flush_toilet_display_type"		"勋章…?"
 
-		// (to the tune of the titular lyric of I Saw Mommy Kissing Santa Claus)
-		// (this isn't a translator note, it's just my headcanon about some words I typed)
-		"[english]item_novelty_medal_anacrusis_name"		"I met Barry on the Isolode"
-		"item_novelty_medal_anacrusis_name"		"I met Barry on the Isolode"
-		// these are puns. good luck!
-		"[english]item_novelty_medal_anacrusis_description"		"It was a [i]Barry[/i] good time. Still [i]barrel[/i]-y know him, though…"
-		"item_novelty_medal_anacrusis_description"		"It was a [i]Barry[/i] good time. Still [i]barrel[/i]-y know him, though…"
-		"[english]item_novelty_medal_anacrusis_acquisition"		"Complete the Barry Nice to Meet You achievement in The Anacrusis to unlock."
-		"item_novelty_medal_anacrusis_acquisition"		"Complete the Barry Nice to Meet You achievement in The Anacrusis to unlock."
+// (to the tune of the titular lyric of I Saw Mommy Kissing Santa Claus)
+// (this isn't a translator note, it's just my headcanon about some words I typed)
+"[english]item_novelty_medal_anacrusis_name"		"I met Barry on the Isolode"
+"item_novelty_medal_anacrusis_name"		"我在伊索洛德上遇到了巴里"
+// these are puns. good luck!
+"[english]item_novelty_medal_anacrusis_description"		"It was a [i]Barry[/i] good time. Still [i]barrel[/i]-y know him, though…"
+"item_novelty_medal_anacrusis_description"		"虽然我们[i]基[/i]本不熟，但依然度过了一段[i]基[/i]情四射的时光…"
+"[english]item_novelty_medal_anacrusis_acquisition"		"Complete the Barry Nice to Meet You achievement in The Anacrusis to unlock."
+"item_novelty_medal_anacrusis_acquisition"		"在 The Anacrusis 里完成 Barry Nice to Meet You 成就以解锁。"
 
 "[english]item_achievement_medal_oe_jacob_name"		"Jacob's Rest Veteran"
 "item_achievement_medal_oe_jacob_name"		"雅各布的栖息地老兵"
