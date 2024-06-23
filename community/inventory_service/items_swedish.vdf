@@ -21,8 +21,8 @@
 "item_display_type_community_medal_legendary"		"Gemenskapsmedalj"
 "[english]item_display_type_donation_medal"		"Donor"
 "item_display_type_donation_medal"		"Donatör"
-		"[english]item_display_type_novelty_medal_uncommon"		"Souvenir"
-		"item_display_type_novelty_medal_uncommon"		"Souvenir"
+"[english]item_display_type_novelty_medal_uncommon"		"Souvenir"
+"item_display_type_novelty_medal_uncommon"		"Souvenir"
 // accessory that can be permanently attached to a weapon, equipment, or suit to track specific stats
 "[english]item_display_type_strange_device"		"Strange Device"
 "item_display_type_strange_device"		"Avvikande Enhet"
@@ -159,15 +159,15 @@
 "[english]item_novelty_medal_flush_toilet_display_type"		"Medal…?"
 "item_novelty_medal_flush_toilet_display_type"		"Medalj…?"
 
-		// (to the tune of the titular lyric of I Saw Mommy Kissing Santa Claus)
-		// (this isn't a translator note, it's just my headcanon about some words I typed)
-		"[english]item_novelty_medal_anacrusis_name"		"I met Barry on the Isolode"
-		"item_novelty_medal_anacrusis_name"		"I met Barry on the Isolode"
-		// these are puns. good luck!
-		"[english]item_novelty_medal_anacrusis_description"		"It was a [i]Barry[/i] good time. Still [i]barrel[/i]-y know him, though…"
-		"item_novelty_medal_anacrusis_description"		"It was a [i]Barry[/i] good time. Still [i]barrel[/i]-y know him, though…"
-		"[english]item_novelty_medal_anacrusis_acquisition"		"Complete the Barry Nice to Meet You achievement in The Anacrusis to unlock."
-		"item_novelty_medal_anacrusis_acquisition"		"Complete the Barry Nice to Meet You achievement in The Anacrusis to unlock."
+// (to the tune of the titular lyric of I Saw Mommy Kissing Santa Claus)
+// (this isn't a translator note, it's just my headcanon about some words I typed)
+"[english]item_novelty_medal_anacrusis_name"		"I met Barry on the Isolode"
+"item_novelty_medal_anacrusis_name"		"Jag träffa Barry på Isoloden"
+// these are puns. good luck!
+"[english]item_novelty_medal_anacrusis_description"		"It was a [i]Barry[/i] good time. Still [i]barrel[/i]-y know him, though…"
+"item_novelty_medal_anacrusis_description"		"Det var en [i]bra[/i] stund. Dock känner jag [i]knappt[/i] honom fortfarande…"
+"[english]item_novelty_medal_anacrusis_acquisition"		"Complete the Barry Nice to Meet You achievement in The Anacrusis to unlock."
+"item_novelty_medal_anacrusis_acquisition"		"Slutför Barry Nice to Meet You prestationen i The Anacrusis för att låsa upp."
 
 "[english]item_achievement_medal_oe_jacob_name"		"Jacob's Rest Veteran"
 "item_achievement_medal_oe_jacob_name"		"Jacobs Vila Veteran"
