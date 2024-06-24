@@ -34,7 +34,7 @@ Office of Consensus Maintenance[/i]
 [*]Fixed two magazines being visually dropped after a reload in singleplayer.
 [*]Fixed cases where bots would not have bullet spread.
 [*]The laser pointer no longer stops when it reaches a rolling marine.
-[*]Weapon-specific ammo boxes now 
+[*]Weapon-specific ammo boxes now give an amount of ammo based on the gun's magazine size to support challenges that change magazine size.
 [/list]
 
 [h2]Modding[/h2]
