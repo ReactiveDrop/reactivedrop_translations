@@ -240,7 +240,7 @@
 "[english]asw_autogunsk"		"Heavy Weapons"
 "asw_autogunsk"		"Schwere Waffen"
 "[english]asw_stopping"		"Stopping Power"
-"asw_stopping"		"Mannstoppwirkung"
+"asw_stopping"		"Stoppwirkung"
 "[english]asw_piercingbullets"		"Piercing Bullets"
 "asw_piercingbullets"		"Panzerbrechende Kugeln"
 "[english]asw_healing"		"Healing"
