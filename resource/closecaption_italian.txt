@@ -291,7 +291,7 @@
 "bastille.Use2"		"<clr:205,127,50><B>Bastille:<B> Buona idea."
 
 "[english]bastille.Use3"		"<clr:205,127,50><B>Bastille:<B> Immediatement."
-"bastille.Use3"		"<clr:205,127,50><B>Bastille:<B> Immédiatement."
+"bastille.Use3"		"<clr:205,127,50><B>Bastille:<B> <I>Immédiatement."
 
 "[english]bastille.Use4"		"<clr:205,127,50><B>Bastille:<B> <I>Oui."
 "bastille.Use4"		"<clr:205,127,50><B>Bastille:<B> <I>Oui."
@@ -1725,10 +1725,10 @@
 
 
 "[english]faith.SynUpReply0"		"<clr:178,34,34><B>Faith:<B> Half the core world is addicted to that stuff."
-"faith.SynUpReply0"		"<clr:178,34,34><B>Faith:<B> Metà del mondo centrale è assuefatta a quella roba."
+"faith.SynUpReply0"		"<clr:178,34,34><B>Faith:<B> Metà del mondo centrale è dipendente da questa roba."
 
 "[english]faith.SynUpReply1"		"<clr:178,34,34><B>Faith:<B> You don't want to drink that shit, believe me."
-"faith.SynUpReply1"		"<clr:178,34,34><B>Faith:<B> Non hai voglia di bere sul serio quella robaccia, fidati."
+"faith.SynUpReply1"		"<clr:178,34,34><B>Faith:<B> Non vuoi bere quella merda, credimi."
 
 "[english]faith.MedicComplainReply0"		"<clr:178,34,34><B>Faith:<B> Sorry, Bastille, that's why I've got you here."
 "faith.MedicComplainReply0"		"<clr:178,34,34><B>Faith:<B> Mi spiace, Bastille, ecco perché ti trovi qua."
@@ -1737,7 +1737,7 @@
 "faith.MedicComplain0"		"<clr:178,34,34><B>Faith:<B> Non potresti evitare di ferirti?"
 
 "[english]faith.MedicComplain1"		"<clr:178,34,34><B>Faith:<B> You just love getting in harm's way, don't you?"
-"faith.MedicComplain1"		"<clr:178,34,34><B>Faith:<B> Ti piace farti del male o cosa?"
+"faith.MedicComplain1"		"<clr:178,34,34><B>Faith:<B> Ti piace metterti in pericolo, vero?"
 
 "[english]faith.TequilaReply0"		"<clr:178,34,34><B>Faith:<B> You know that stuff kills your liver."
 "faith.TequilaReply0"		"<clr:178,34,34><B>Faith:<B> Lo sai che quella roba ti uccide il fegato."
@@ -2734,7 +2734,7 @@
 "jaeger.Parasite2"		"<clr:198,226,255><B>Jaeger:<B> Attenzione, parassita!"
 
 "[english]jaeger.BeenInfested0"		"<clr:198,226,255><B>Jaeger:<B> <I>Verdammte Scheiße!<I> Get it off!"
-"jaeger.BeenInfested0"		"<clr:198,226,255><B>Jaeger:<B> Verdammte Scheisse! Toglietemelo di dosso!"
+"jaeger.BeenInfested0"		"<clr:198,226,255><B>Jaeger:<B> <I>Verdammte Scheiße!<I> Toglietemelo di dosso!"
 
 "[english]jaeger.BeenInfested1"		"<clr:198,226,255><B>Jaeger:<B> Get it off!"
 "jaeger.BeenInfested1"		"<clr:198,226,255><B>Jaeger:<B> Toglietemelo di dosso!"
@@ -4040,7 +4040,7 @@
 
 
 "[english]vegas.Thanks1"		"<clr:84,255,159><B>Vegas:<B> <I>Muchos gracias."
-"vegas.Thanks1"		"<clr:84,255,159><B>Vegas:<B> Muchas gracias."
+"vegas.Thanks1"		"<clr:84,255,159><B>Vegas:<B> <I>Muchas gracias."
 
 
 "[english]vegas.Thanks2"		"<clr:84,255,159><B>Vegas:<B> Thanks!"
@@ -4216,7 +4216,7 @@
 
 
 "[english]vegas.GotRear0"		"<clr:84,255,159><B>Vegas:<B> I'll cover the back."
-"vegas.GotRear0"		"<clr:84,255,159><B>Vegas:<B> Copro da dietro."
+"vegas.GotRear0"		"<clr:84,255,159><B>Vegas:<B> Copro le retrovie."
 
 
 "[english]vegas.GotRear1"		"<clr:84,255,159><B>Vegas:<B> I've got your back."
@@ -5371,15 +5371,15 @@
 
 
 "[english]wolfe.WolfeBest2"		"<clr:154,205,50><B>Wolfe:<B> You know I'm your hero, Cat."
-"wolfe.WolfeBest2"		"<clr:154,205,50><B>Wolfe:<B> Lo sai che sono il tuo eroe, Cat."
+"wolfe.WolfeBest2"		"<clr:154,205,50><B>Wolfe:<B> Ammettilo che sono il tuo eroe, Cat."
 
 
 "[english]wolfe.WolfeBestReply0"		"<clr:154,205,50><B>Wolfe:<B> Bring it on!"
-"wolfe.WolfeBestReply0"		"<clr:154,205,50><B>Wolfe:<B> Dacci dentro!"
+"wolfe.WolfeBestReply0"		"<clr:154,205,50><B>Wolfe:<B> Fatti sotto!"
 
 
 "[english]wolfe.WolfeBestReply1"		"<clr:154,205,50><B>Wolfe:<B> Bring it on, Kitty Cat."
-"wolfe.WolfeBestReply1"		"<clr:154,205,50><B>Wolfe:<B> Fatti sotto, gattina."
+"wolfe.WolfeBestReply1"		"<clr:154,205,50><B>Wolfe:<B> Fatti sotto, Gattina."
 
 
 "[english]wolfe.WolfeBestReply2"		"<clr:154,205,50><B>Wolfe:<B> Now that sounds like a challenge."
@@ -5606,7 +5606,7 @@
 
 
 "[english]wolfe.WildcatKillReplyBehind2"		"<clr:154,205,50><B>Wolfe:<B> That one back there, that didn't count."
-"wolfe.WildcatKillReplyBehind2"		"<clr:154,205,50><B>Wolfe:<B> Quello là dietro, che non contava."
+"wolfe.WildcatKillReplyBehind2"		"<clr:154,205,50><B>Wolfe:<B> Quello là dietro non contava."
 
 
 "[english]wolfe.WolfeKillStart0"		"<clr:154,205,50><B>Wolfe:<B> Watch and learn."
@@ -6046,7 +6046,7 @@
 
 
 "[english]wolfe.RequestCutDoor2"		"<clr:154,205,50><B>Wolfe:<B> What are you waiting for? Get it open!"
-"wolfe.RequestCutDoor2"		"<clr:154,205,50><B>Wolfe:<B> Che diavolo state aspettando? Dissaldatela!"
+"wolfe.RequestCutDoor2"		"<clr:154,205,50><B>Wolfe:<B> Che diavolo state aspettando? Apritela!"
 
 
 "[english]wolfe.RequestShootDoor0"		"<clr:154,205,50><B>Wolfe:<B> Blast it open."
@@ -6134,11 +6134,11 @@
 
 
 "[english]wolfe.TimeToLeave4"		"<clr:154,205,50><B>Wolfe:<B> Whoa. Time to wave this place goodbye."
-"wolfe.TimeToLeave4"		"<clr:154,205,50><B>Wolfe:<B> Woah. È tempo di fare \"ciao ciao\" a questo posto."
+"wolfe.TimeToLeave4"		"<clr:154,205,50><B>Wolfe:<B> Woah. È ora di salutare questo posto."
 
 
 "[english]wolfe.TimeToLeave5"		"<clr:154,205,50><B>Wolfe:<B> Woohoo. Time to wave this place goodbye."
-"wolfe.TimeToLeave5"		"<clr:154,205,50><B>Wolfe:<B> Woohoo. È tempo di fare \"ciao ciao\" a questo posto."
+"wolfe.TimeToLeave5"		"<clr:154,205,50><B>Wolfe:<B> Woohoo. È ora di salutare questo posto."
 
 
 "[english]wolfe.TimeToLeave6"		"<clr:154,205,50><B>Wolfe:<B> Yeah, let's get outta here."
@@ -6146,7 +6146,7 @@
 
 
 "[english]wolfe.TimeToLeave7"		"<clr:154,205,50><B>Wolfe:<B> Yeah, time to wave this place goodbye."
-"wolfe.TimeToLeave7"		"<clr:154,205,50><B>Wolfe:<B> Sì, è tempo di fare \"ciao ciao\" a questo posto."
+"wolfe.TimeToLeave7"		"<clr:154,205,50><B>Wolfe:<B> Sì, è ora di salutare questo posto."
 
 
 "[english]wolfe.WatchOut0"		"<clr:154,205,50><B>Wolfe:<B> Lookout!"
@@ -6182,7 +6182,7 @@
 
 
 "[english]wolfe.ShieldbugHint1"		"<clr:154,205,50><B>Wolfe:<B> Get behind it quick."
-"wolfe.ShieldbugHint1"		"<clr:154,205,50><B>Wolfe:<B> Colpitelo da dietro, alla svelta."
+"wolfe.ShieldbugHint1"		"<clr:154,205,50><B>Wolfe:<B> Veloci, colpitelo da dietro."
 
 
 "[english]wolfe.ShieldbugHint2"		"<clr:154,205,50><B>Wolfe:<B> Shoot it in the back!"
@@ -6518,11 +6518,11 @@
 
 
 "[english]wolfe.ComplimentsWildcat1"		"<clr:154,205,50><B>Wolfe:<B> Good shot, Cat. Bring em down."
-"wolfe.ComplimentsWildcat1"		"<clr:154,205,50><B>Wolfe:<B> Bel colpo, Cat. Buttali giù."
+"wolfe.ComplimentsWildcat1"		"<clr:154,205,50><B>Wolfe:<B> Bel colpo, Cat. Ammazzali tutti."
 
 
 "[english]wolfe.ComplimentsWildcat2"		"<clr:154,205,50><B>Wolfe:<B> Nice shooting, Kid."
-"wolfe.ComplimentsWildcat2"		"<clr:154,205,50><B>Wolfe:<B> Bel colpo, piccola."
+"wolfe.ComplimentsWildcat2"		"<clr:154,205,50><B>Wolfe:<B> Bel colpo, ragazzina."
 
 
 "[english]wolfe.ComplimentsWildcat3"		"<clr:154,205,50><B>Wolfe:<B> Good shot, Wildcat."

@@ -971,7 +971,7 @@
 "[english]asw_weapon_shotgun"		"Shotgun"
 "asw_weapon_shotgun"		"ショットガン"
 "[english]asw_weaponl_shotgun"		"Model 35 Pump-action Shotgun"
-"asw_weaponl_shotgun"		"Model 35 ポンプアクションショットガン"
+"asw_weaponl_shotgun"		"モデル35 ポンプアクションショットガン"
 "[english]asw_weapon_shotgun_altfire"		"Double Blast"
 "asw_weapon_shotgun_altfire"		"二連射"
 "[english]asw_weapon_shotgun_attributes"		"High Damage, Close Range"

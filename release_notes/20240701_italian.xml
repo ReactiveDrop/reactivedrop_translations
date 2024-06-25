@@ -34,7 +34,7 @@ Ufficio per il Mantenimento del Consenso[/i]
 [*]Corretti i due caricatori che cadono visivamente dopo una ricarica in giocatore singolo.
 [*]Corretti i casi in cui i bot non avevano la diffusione dei proiettili.
 [*]Il puntatore laser non si ferma più quando raggiunge un soldato che rotola.
-		[*]Weapon-specific ammo boxes now give an amount of ammo based on the gun's magazine size to support challenges that change magazine size.
+[*]Le scatole delle munizioni per armi specifiche ora forniscono una quantità di munizioni basata sulle dimensioni del caricatore dell'arma per supportare le sfide che cambiano le dimensioni del caricatore.
 [/list]
 
 [h2]Modding[/h2]
