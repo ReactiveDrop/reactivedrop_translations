@@ -6723,7 +6723,7 @@
 "[english]bio_biogenlabs_3_title"		"Find the formula."
 "bio_biogenlabs_3_title"		"Trovate la formula."
 "[english]bio_biogenlabs_4_title"		"Input the formula."
-"bio_biogenlabs_4_title"		"Inserita la formula."
+"bio_biogenlabs_4_title"		"Inserite la formula."
 "[english]bio_biogenlabs_5_title"		"Infect the heart of the biomass."
 "bio_biogenlabs_5_title"		"Infettate il cuore della biomassa."
 "[english]bio_biogenlabs_6_title"		"Upload information to the net."
