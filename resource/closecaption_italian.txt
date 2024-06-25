@@ -2734,7 +2734,7 @@
 "jaeger.Parasite2"		"<clr:198,226,255><B>Jaeger:<B> Attenzione, parassita!"
 
 "[english]jaeger.BeenInfested0"		"<clr:198,226,255><B>Jaeger:<B> <I>Verdammte Scheiße!<I> Get it off!"
-"jaeger.BeenInfested0"		"<clr:198,226,255><B>Jaeger:<B> Verdammte Scheisse! Toglietemelo di dosso!"
+"jaeger.BeenInfested0"		"<clr:198,226,255><B>Jaeger:<B> <I>Verdammte Scheisse!<I> Toglietemelo di dosso!"
 
 "[english]jaeger.BeenInfested1"		"<clr:198,226,255><B>Jaeger:<B> Get it off!"
 "jaeger.BeenInfested1"		"<clr:198,226,255><B>Jaeger:<B> Toglietemelo di dosso!"
@@ -4040,7 +4040,7 @@
 
 
 "[english]vegas.Thanks1"		"<clr:84,255,159><B>Vegas:<B> <I>Muchos gracias."
-"vegas.Thanks1"		"<clr:84,255,159><B>Vegas:<B> Muchas gracias."
+"vegas.Thanks1"		"<clr:84,255,159><B>Vegas:<B> <I>Muchas gracias."
 
 
 "[english]vegas.Thanks2"		"<clr:84,255,159><B>Vegas:<B> Thanks!"
