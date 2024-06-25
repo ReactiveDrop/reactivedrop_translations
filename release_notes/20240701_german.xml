@@ -34,7 +34,7 @@ Büro für Konsenspflege[/i]
 [*]Es wurde behoben, dass nach dem Nachladen im Einzelspielermodus zwei Magazine am Boden lagen.
 [*]Es wurden Fälle behoben, in denen Bots keine Kugelstreuung hatten.
 [*]Der Laserpointer hält nicht mehr an, wenn er einen abrollenden Soldaten erreicht.
-[*]Weapon-specific ammo boxes now 
+[*]Waffenspezifische Munitionskisten geben jetzt eine Munitionsmenge ab, die auf der Magazingröße der Waffe basiert, um Herausforderungen zu unterstützen, die die Magazingröße ändern.
 [/list]
 
 [h2]Modding[/h2]
