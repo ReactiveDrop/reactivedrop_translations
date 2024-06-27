@@ -7046,14 +7046,14 @@
 "red4_1a_title"		"评估现场状况。 与“獒犬”号建立通讯。"
 
 "[english]red4_2_title"		"Find the Package"
-"red4_2_title"		"找到包裹"
+"red4_2_title"		"找到核弹"
 "[english]red4_2a_title"		"Search the train and find the Package."
-"red4_2a_title"		"搜索列车并找到包裹"
+"red4_2a_title"		"搜索列车并找到核弹"
 
 "[english]red4_3_title"		"Sweep the Train"
 "red4_3_title"		"清理列车"
 "[english]red4_3a_title"		"Sweep the train clean of hostile presence."
-"red4_3a_title"		"清理列车，击毙所有敌人"
+"red4_3a_title"		"清理列车，击杀所有敌人"
 
 "[english]red5_1_title"		"Report in"
 "red5_1_title"		"报到"
