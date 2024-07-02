@@ -34,12 +34,12 @@
 // items that require doing something beyond just playing the game to obtain.
 "[english]inventory_rarity_legendary"		"Legendary"
 "inventory_rarity_legendary"		"Tarunhohtoinen"
-		// real-money donation receipt items from the store.
-		"[english]inventory_rarity_genuine"		"Genuine"
-		"inventory_rarity_genuine"		"Genuine"
-		// items that count stats.
-		"[english]inventory_rarity_strange_rarity"		"Strange"
-		"inventory_rarity_strange_rarity"		"Strange"
+// real-money donation receipt items from the store.
+"[english]inventory_rarity_genuine"		"Genuine"
+"inventory_rarity_genuine"		"Aito"
+// items that count stats.
+"[english]inventory_rarity_strange_rarity"		"Strange"
+"inventory_rarity_strange_rarity"		"Kummallinen"
 		// where an item can be equipped.
 		"[english]inventory_slot"		"Slot"
 		"inventory_slot"		"Slot"
@@ -47,8 +47,8 @@
 "inventory_slot_medal"		"Mitali"
 		"[english]inventory_slot_suit"		"Suit"
 		"inventory_slot_suit"		"Suit"
-		"[english]inventory_slot_weapon"		"Weapon"
-		"inventory_slot_weapon"		"Weapon"
+"[english]inventory_slot_weapon"		"Weapon"
+"inventory_slot_weapon"		"Ase"
 		"[english]inventory_slot_equipment"		"Equipment"
 		"inventory_slot_equipment"		"Equipment"
 		// for equippable items that can only be used on one class.
