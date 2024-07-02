@@ -236,12 +236,12 @@
 "[english]item_achievement_medal_infection_deathmatch_disclaimer"		"Stats are only updated while this item is equipped in a match with at least five players."
 "item_achievement_medal_infection_deathmatch_disclaimer"		"Statistik uppdateras endast när detta föremål är utrustat i en match med åtminstone fem spelare."
 "[english]item_achievement_medal_infection_deathmatch_stat_survive"		"Rounds Survived"
-"item_achievement_medal_infection_deathmatch_stat_survive"		"Ronder Överlevda"
+"item_achievement_medal_infection_deathmatch_stat_survive"		"Överlevda Ronder"
 "[english]item_achievement_medal_infection_deathmatch_stat_tags"		"Zombie Infections Spread"
 "item_achievement_medal_infection_deathmatch_stat_tags"		"Zombie Infektioner Spridna"
 // Kills by human players while in "last stand" mode, which can be activated when there are few human players remaining.
 "[english]item_achievement_medal_infection_deathmatch_stat_laststand"		"Last Stand Kills"
-"item_achievement_medal_infection_deathmatch_stat_laststand"		"Sist Stående Dödade"
+"item_achievement_medal_infection_deathmatch_stat_laststand"		"Dödade som Sist Stående"
 
 "[english]item_event_medal_shmupfest2023_name"		"Steam SHMUP Fest 2023"
 "item_event_medal_shmupfest2023_name"		"Steam SHMUP-Festival 2023"
@@ -256,11 +256,11 @@
 "item_event_medal_replayabilityfest2024_flavor"		"Vi klarade oss inte, men vi hade kul ändå."
 
 "[english]item_event_medal_mapping_2023_name"		"Mapping Competition Participant (2023)"
-"item_event_medal_mapping_2023_name"		"Karttävlings Deltagare (2023)"
+"item_event_medal_mapping_2023_name"		"Karttävlingsdeltagare (2023)"
 "[english]item_event_medal_mapping_2023_description"		"Submitted an entry to the first annual mapping competition: \"Boss Fight\", running from April 20th to August 1st 2023."
 "item_event_medal_mapping_2023_description"		"Skickade in ett bidrag till den första årliga karttävlingen: Boss Fight, pågår från 20 april till 1 augusti 2023."
 "[english]item_event_medal_mapping_2024_name"		"Mapping Competition Participant (2024)"
-"item_event_medal_mapping_2024_name"		"Karttävlings Deltagare (2024)"
+"item_event_medal_mapping_2024_name"		"Karttävlingsdeltagare (2024)"
 "[english]item_event_medal_mapping_2024_description"		"Submitted an entry to the second annual mapping competition: \"Space Station\", running from April 20th to August 1st 2024."
 "item_event_medal_mapping_2024_description"		"Skickade in ett bidrag till den andra årliga karttävlingen: Rymdstation, pågår från 20 april till 1 augusti 2024."
 

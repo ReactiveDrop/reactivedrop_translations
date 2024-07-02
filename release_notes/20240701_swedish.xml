@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<content><string id="body">[i]Befälhavare,
+
+Kontoret uppskattar ditt hårda arbete med projektet avvikande material. Folket i labbet säger att de snart är redo för fas 2. Vi meddelar dig när det är klart. Du kommer att veta det när du ser det.
+
+Juste, och lycklig vredesmånad.
+
+Dr. Helvetica Scenario
+Ekologisk Konsistens avd. 
+Kontor för Konsensusupprätthållande[/i]
+
+[h2]Utomjordingar[/h2]
+[list]
+[*]Utomjordingar misslyckas inte längre att utdela skada när de attackerar andra utomjordingar på grund av ändrad ai_relationship.
+[*]Nedfrysning av en karaktär saktar ner simulationen av jigglebones. (Som exempel, antennen eller kablar på en marinsoldats ryggsäck.)
+[*]Drönare rycker nu tillbaka baserat på statistiken för vapnet som skadade dem, inte marinens nuvarande vapen. (Till exempel, att byta från en flamer till en PDW medan elden är på väg har inte längre en lägre chans att orsaka ryckningar.)
+[*]Frusna utomjordingar startar inte längre om sin nuvarande animation vid upptining och kan i vissa fall inte längre röra sig eller vända sig när de är frusna.
+[*]Boomers kan inte välja att explodera medans de är frysda.
+[*]Tog bort skuggor från drottningens tentakler.
+[*]Närstrid utdelar dubbel skada mot frysta fiender. Det finns också nya konvar för skadeskalning mot brinnande fiender för användning av mods.
+[*]Fiender kan nu bli över 100% frysda. Upptining är något snabbare för utomjordingar över 100 % frysta tills de faller under 100 %.
+[*]Att gå över en parasit eller xenomite utdelar nu 1 skada istället för 15.
+[*]Fixade att xenomites kunde detonera och parasiter kunde infestera medans helt frysta.
+[*]Fixade att parasiter och xenomites inte använde ändrade modeller.
+[/list]
+
+[h2]Vapen[/h2]
+[list]
+[*][b]Modell 35 Pump-action Hagelgevär:[/b] Avfyrar inte längre efter att ha plockats upp om den tappas eller hölstras under sin alternativa branddubbelsprängning.
+[*][b]X-33 Skade Förstärkare:[/b] Det här föremålet plockas inte längre upp automatiskt när det utplaceras av en specialvapenmarin. Istället kan en specialvapenmarin plocka upp en redan utplacerad fyr. (Till exempel kan Wolfe plocka upp en skadeförstärkare utplacerad av Bastille, och Wolfe kan också installera en skadeförstärkare och lämna den på marken.)
+[*]Döpte om specialvapenfärdigheten "Automatvapen Skada" till "Tunga Vapen".
+[*]Döpte om specialvapenfärdigheten "Genomträngandeskott" till "Stoppkraft".
+[*]Skickligheten Stoppkraft ökar nu också chansen för ett vapen att få fiender som träffas av det att rycka till.
+[*]Fixade två magasin som visuellt tappades efter en omladdning i enspelarläge.
+[*]Fixade fall där bots inte skulle ha kulspridning.
+[*]Laserpekaren stannar inte längre när den når en rullande marin.
+[*]Vapenspecifika ammunitionslådor ger nu en mängd ammunition baserat på vapnets magasinstorlek för att stödja utmaningar som ändrar magasinstorlek.
+[/list]
+
+[h2]Modding[/h2]
+[list]
+[*]Justerade flera UI-element för att bättre stödja modding.
+[*]Omorganiserade filer så att dedikerade servrar inte laddar ner filer som bara krävs för klienten, såsom ljud, shaders, texturer och GPU-optimerade modeller.
+[*]Flyttade ASBI, Energivapen, Första Person och Tredje Person till toppen av utmaningslistan. Döpte om "Inaktiverad"-utmaningen till "Standardspelregler". Dessa förändringar är avsedda att göra det lättare för nya spelare att förstå att utmaningar är [i]alla[/i] spelregeländringar, inte bara spelregeländringar som gör spelet svårare.
+[*]Fixade att huvudmenyns upplevelsefält var helt fel.
+[*]Att sätta rd_player_bots_allowed till 0 lämnar nu varje befälhavare med maximalt 1 marin istället för 0.
+[*]Fixade IAF Frysvaktgevär och IAF Eldvaktgevär och ignorerade funktionen PreventFiringUntil.
+[*]Lade till stöd för Portal 2-stil $localrefrakt (som används i props_lab/glass_lightcover.mdl).
+[*]Fixade vissa fall där att öppna spelet från SDK skulle radera den lokalt cachade versionen av ditt förråd.
+[/list]</string><string id="subtitle"></string><string id="summary"></string><string id="title">Alien Swarm: Reactive Drop Update - Juli 1, 2024</string></content>
