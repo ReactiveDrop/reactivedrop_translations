@@ -21,8 +21,8 @@
 "item_display_type_community_medal_legendary"		"Medaglia della Comunità"
 "[english]item_display_type_donation_medal"		"Donor"
 "item_display_type_donation_medal"		"Donatore"
-		"[english]item_display_type_novelty_medal_uncommon"		"Souvenir"
-		"item_display_type_novelty_medal_uncommon"		"Souvenir"
+"[english]item_display_type_novelty_medal_uncommon"		"Souvenir"
+"item_display_type_novelty_medal_uncommon"		"Souvenir"
 // accessory that can be permanently attached to a weapon, equipment, or suit to track specific stats
 "[english]item_display_type_strange_device"		"Strange Device"
 "item_display_type_strange_device"		"Strano dispositivo"
