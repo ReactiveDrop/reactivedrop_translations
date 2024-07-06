@@ -6,13 +6,13 @@
 | [Czech](#czech-čeština) | 75 | 1810 | 42 | 4221 | 263 | 212 | 983 | 146 |
 | [Danish](#non-curated-languages) | 56 | 231 | 42 | 3748 | 263 | 212 | 713 | 147 |
 | [Dutch](#non-curated-languages) | 55 | 2004 | 42 | 3216 | 263 | 212 | 713 | 146 |
-| [Finnish](#non-curated-languages) | ✔️ | 2004 | 41 | 3078 | 264 | 212 | 704 | 146 |
+| [Finnish](#non-curated-languages) | ✔️ | 2004 | 41 | 3078 | 209 | 212 | 701 | 146 |
 | [French](#french-français) | 31 | 138 | 42 | 2583 | 262 | 212 | 653 | 125 |
-| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 1 |
+| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Hungarian](#non-curated-languages) | 55 | 138 | 42 | 3216 | 263 | 212 | 978 | 147 |
 | [Indonesian](#indonesian-indonesia) | 1285 | 2004 | 634 | 4728 | 266 | 216 | 983 | 147 |
 | [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | 1 | ✔️ | ✔️ | 1 |
-| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 35 | 1 |
+| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 35 | ✔️ |
 | [Korean](#koreana-한국어) | 11 | 10 | 38 | 1716 | 263 | 34 | 449 | 48 |
 | [Norwegian Bokmål](#non-curated-languages) | 73 | 708 | 47 | 3922 | 263 | 212 | 713 | 147 |
 | [Polish](#polish-polski) | 32 | 2004 | 42 | 3218 | 263 | 212 | 709 | 143 |
@@ -582,9 +582,7 @@
 
 </summary>
 
-### Upcoming Release Notes
-
-- [20240715_german.xml](release_notes/20240715_english.xml) is missing.
+✓ Up to date!
 
 </details>
 
@@ -799,10 +797,6 @@
 ### Strings
 
 - [platform/vgui_japanese.txt](platform/vgui_japanese.txt) has 35 untranslated strings.
-
-### Upcoming Release Notes
-
-- [20240715_japanese.xml](release_notes/20240715_english.xml) is missing.
 
 </details>
 
