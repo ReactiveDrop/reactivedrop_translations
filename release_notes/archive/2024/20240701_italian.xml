@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<content><string id="body">[i]Commander,
+
+L'Ufficio apprezza il vostro duro lavoro sul progetto dei materiali anomali. I tecnici del laboratorio dicono che presto saranno pronti per la fase 2. Vi faremo sapere quando sarà pronta. Lo saprete quando lo vedrete.
+
+Oh, e buon mese dell'ira.
+
+Dr. Helvetica Scenario
+Dip. della Coerenza Ecologica
+Ufficio per il Mantenimento del Consenso[/i]
+
+[h2]Alieni[/h2]
+[list]
+[*]Gli alieni non falliscono più nell'infliggere danni quando attaccano in mischia un altro alieno a causa di una ai_relationship personalizzata.
+[*]Il congelamento di un personaggio ora rallenta anche la simulazione dei jigglebones. (Ad esempio, l'antenna o i cavi sullo zaino di un marine.)
+[*]I droni ora indietreggiano in base alle statistiche dell'arma che li ha feriti, non dell'arma attuale del soldato. (Ad esempio, passare da un lanciafiamme a un PDW mentre il fuoco sta viaggiando non ha più una probabilità inferiore di provocare indietreggiamento).
+[*]Gli alieni congelati non riavviano più l'animazione attuale quando si scongelano e in alcuni casi non possono più muoversi o girarsi mentre sono congelati.
+[*]I boomer non possono più decidere di esplodere mentre sono congelati.
+[*]Rimosse le ombre dai tentacoli della regina.
+[*]La mischia ora infligge danni doppi ai nemici congelati. Ci sono anche nuove convars per l'aumento e la riduzione dei danni contro i nemici in fiamme, da usare con le mod.
+[*]I nemici possono ora essere congelati oltre il 100%. Lo scongelamento è leggermente più veloce per gli alieni congelati al di sopra del 100% fino a quando non scendono sotto il 100%.
+[*]Calpestare un parassita o uno xenomita ora infligge 1 danno anziché 15.
+[*]Corretti gli xenomiti che possono esplodere e i parassiti che possono infestare mentre sono completamente congelati.
+[*]Corretto il problema dei parassiti e degli xenomiti che non utilizzano i modelli personalizzati.
+[/list]
+
+[h2]Armi[/h2]
+[list]
+[*][b]Fucile a Pompa Modello 35:[/b] Non spara più dopo essere stato raccolto se lasciato cadere o riposto nella fondina durante la doppia esplosione del colpo alternativo.
+[*][b]Amplificatore di Danno X-33:[/b] Questo oggetto non viene più raccolto automaticamente quando viene dispiegato da un soldato delle Armi Speciali. Invece, un soldato delle Armi Speciali può raccogliere un segnalatore già schierato. (Ad esempio, Wolfe può raccogliere un amplificatore di danni schierato da Bastille, e Wolfe può anche schierare un amplificatore di danni e lasciarlo a terra).
+[*]Rinominata l'abilità delle Armi speciali "Danno Autogun" in "Armi Pesanti".
+[*]Rinominata l'abilità delle Armi speciali "Proiettili Perforanti" in "Potere d'Arresto".
+[*]L'abilità Potere d'Arresto ora aumenta anche la possibilità che un'arma faccia indietreggiare i nemici colpiti.
+[*]Corretti i due caricatori che cadono visivamente dopo una ricarica in giocatore singolo.
+[*]Corretti i casi in cui i bot non avevano la diffusione dei proiettili.
+[*]Il puntatore laser non si ferma più quando raggiunge un soldato che rotola.
+[*]Le scatole delle munizioni per armi specifiche ora forniscono una quantità di munizioni basata sulle dimensioni del caricatore dell'arma per supportare le sfide che cambiano le dimensioni del caricatore.
+[/list]
+
+[h2]Modding[/h2]
+[list]
+[*]Modificati diversi elementi dell'interfaccia utente per supportare meglio il modding.
+[*]Riorganizzazione dei file in modo che i server dedicati non scarichino i file necessari solo per il client, come suoni, shader, texture e modelli ottimizzati per la GPU.
+[*]Spostate ASBI, Armi a energia, Prima persona e Terza persona in cima all'elenco delle sfide. Rinominata la sfida "Disabilitata" in "Regole di gioco predefinite". Queste modifiche hanno lo scopo di rendere più facile per i nuovi giocatori capire che le sfide sono [i]tutte[/i] le modifiche alle regole di gioco, non solo quelle che rendono il gioco più difficile.
+[*]Corretta la barra dell'esperienza del menu principale che era completamente sbagliata.
+[*]Impostando rd_player_bots_allowed a 0 ora ogni comandante ha al massimo 1 soldato invece di 0.
+[*]Corrette la Torretta Incendiaria IAF e la Torretta Congelante IAF che ignorano la funzione PreventFiringUntil.
+[*]Aggiunto il supporto per $localrefract in stile Portal 2 (come usato in props_lab/glass_lightcover.mdl).
+[*]Corretti alcuni casi in cui l'apertura del gioco dal SDK cancellava la versione memorizzata nella cache locale dell'inventario.
+[/list]</string><string id="subtitle"></string><string id="summary"></string><string id="title">Aggiornamento di Alien Swarm: Reactive Drop - 1 Luglio 2024</string></content>
