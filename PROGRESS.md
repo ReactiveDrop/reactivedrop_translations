@@ -1,18 +1,18 @@
 # Overview
 | Language | basemodui | closecaption | gameui | reactivedrop | items | statsweb | Strings | Files |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
+| [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 1 |
 | [Traditional Chinese](#tchinese-繁體中文) | 13 | 141 | 33 | 3082 | 257 | 212 | 239 | 146 |
 | [Czech](#czech-čeština) | 75 | 1810 | 42 | 4221 | 263 | 212 | 983 | 146 |
 | [Danish](#non-curated-languages) | 56 | 231 | 42 | 3748 | 263 | 212 | 713 | 147 |
 | [Dutch](#non-curated-languages) | 55 | 2004 | 42 | 3216 | 263 | 212 | 713 | 146 |
 | [Finnish](#non-curated-languages) | ✔️ | 2004 | 41 | 3078 | 264 | 212 | 704 | 146 |
 | [French](#french-français) | 31 | 138 | 42 | 2583 | 262 | 212 | 653 | 125 |
-| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
+| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 1 |
 | [Hungarian](#non-curated-languages) | 55 | 138 | 42 | 3216 | 263 | 212 | 978 | 147 |
 | [Indonesian](#indonesian-indonesia) | 1285 | 2004 | 634 | 4728 | 266 | 216 | 983 | 147 |
-| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | 1 | ✔️ | ✔️ | ✔️ |
-| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 35 | ✔️ |
+| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | 1 | ✔️ | ✔️ | 1 |
+| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 35 | 1 |
 | [Korean](#koreana-한국어) | 11 | 10 | 38 | 1716 | 263 | 34 | 449 | 48 |
 | [Norwegian Bokmål](#non-curated-languages) | 73 | 708 | 47 | 3922 | 263 | 212 | 713 | 147 |
 | [Polish](#polish-polski) | 32 | 2004 | 42 | 3218 | 263 | 212 | 709 | 143 |
@@ -41,7 +41,9 @@
 
 </summary>
 
-✓ Up to date!
+### Upcoming Release Notes
+
+- [20240715_schinese.xml](release_notes/20240715_english.xml) is missing.
 
 </details>
 
@@ -76,7 +78,7 @@
 
 ### Upcoming Release Notes
 
-- [20240701_tchinese.xml](release_notes/20240701_english.xml) is missing.
+- [20240715_tchinese.xml](release_notes/20240715_english.xml) is missing.
 
 ### Credits
 
@@ -260,7 +262,7 @@
 
 ### Upcoming Release Notes
 
-- [20240701_czech.xml](release_notes/20240701_english.xml) is missing.
+- [20240715_czech.xml](release_notes/20240715_english.xml) is missing.
 
 ### Credits
 
@@ -444,7 +446,7 @@
 
 ### Upcoming Release Notes
 
-- [20240701_french.xml](release_notes/20240701_english.xml) is missing.
+- [20240715_french.xml](release_notes/20240715_english.xml) is missing.
 
 ### Credits
 
@@ -580,7 +582,9 @@
 
 </summary>
 
-✓ Up to date!
+### Upcoming Release Notes
+
+- [20240715_german.xml](release_notes/20240715_english.xml) is missing.
 
 </details>
 
@@ -619,7 +623,7 @@
 
 ### Upcoming Release Notes
 
-- [20240701_indonesian.xml](release_notes/20240701_english.xml) is missing.
+- [20240715_indonesian.xml](release_notes/20240715_english.xml) is missing.
 
 ### Credits
 
@@ -780,6 +784,10 @@
 
 - [items_italian.vdf](community/inventory_service/items_italian.vdf) has 1 untranslated strings.
 
+### Upcoming Release Notes
+
+- [20240715_italian.xml](release_notes/20240715_english.xml) is missing.
+
 </details>
 
 <details><summary>
@@ -791,6 +799,10 @@
 ### Strings
 
 - [platform/vgui_japanese.txt](platform/vgui_japanese.txt) has 35 untranslated strings.
+
+### Upcoming Release Notes
+
+- [20240715_japanese.xml](release_notes/20240715_english.xml) is missing.
 
 </details>
 
@@ -824,7 +836,7 @@
 
 ### Upcoming Release Notes
 
-- [20240701_koreana.xml](release_notes/20240701_english.xml) is missing.
+- [20240715_koreana.xml](release_notes/20240715_english.xml) is missing.
 
 ### Credits
 
@@ -909,7 +921,7 @@
 
 ### Upcoming Release Notes
 
-- [20240701_polish.xml](release_notes/20240701_english.xml) is missing.
+- [20240715_polish.xml](release_notes/20240715_english.xml) is missing.
 
 ### Credits
 
@@ -1090,7 +1102,7 @@
 
 ### Upcoming Release Notes
 
-- [20240701_portuguese.xml](release_notes/20240701_english.xml) is missing.
+- [20240715_portuguese.xml](release_notes/20240715_english.xml) is missing.
 
 ### Credits
 
@@ -1257,7 +1269,7 @@
 
 ### Upcoming Release Notes
 
-- [20240701_brazilian.xml](release_notes/20240701_english.xml) is missing.
+- [20240715_brazilian.xml](release_notes/20240715_english.xml) is missing.
 
 </details>
 
@@ -1269,7 +1281,7 @@
 
 ### Upcoming Release Notes
 
-- [20240701_russian.xml](release_notes/20240701_english.xml) is missing.
+- [20240715_russian.xml](release_notes/20240715_english.xml) is missing.
 
 </details>
 
@@ -1306,7 +1318,7 @@
 
 ### Upcoming Release Notes
 
-- [20240701_spanish.xml](release_notes/20240701_english.xml) is missing.
+- [20240715_spanish.xml](release_notes/20240715_english.xml) is missing.
 
 ### Credits
 
@@ -1476,7 +1488,7 @@
 
 ### Upcoming Release Notes
 
-- [20240701_latam.xml](release_notes/20240701_english.xml) is missing.
+- [20240715_latam.xml](release_notes/20240715_english.xml) is missing.
 
 ### Credits
 
@@ -1639,7 +1651,7 @@
 
 ### Upcoming Release Notes
 
-- [20240701_swedish.xml](release_notes/20240701_english.xml) is missing.
+- [20240715_swedish.xml](release_notes/20240715_english.xml) is missing.
 
 ### Mail and News
 
@@ -1765,7 +1777,7 @@
 
 ### Upcoming Release Notes
 
-- [20240701_ukrainian.xml](release_notes/20240701_english.xml) is missing.
+- [20240715_ukrainian.xml](release_notes/20240715_english.xml) is missing.
 
 ### Credits
 
@@ -1932,7 +1944,7 @@
 
 ### Upcoming Release Notes
 
-- [20240701_vietnamese.xml](release_notes/20240701_english.xml) is missing.
+- [20240715_vietnamese.xml](release_notes/20240715_english.xml) is missing.
 
 ### Mail and News
 
