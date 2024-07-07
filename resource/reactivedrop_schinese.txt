@@ -2398,9 +2398,9 @@
 "[english]asw_wounded_tt"		"Marine is wounded after taking significant damage in\nthe previous mission. Wounded marines can be selected\nbut will have only half health on this mission.\nWounds will heal after one mission has passed."
 "asw_wounded_tt"		"如果一名士兵在之前的任务中受到了较为严重的伤害，\n那么就会受伤。可以选择受伤的士兵去执行任务，\n但是其只会有一半的生命值。受伤的士兵\n只要不参加当前的任务，等任务结束后即可康复。"
 "[english]asw_kia"		"KIA"
-"asw_kia"		"光荣牺牲"
+"asw_kia"		"阵亡"
 "[english]asw_kia_tt"		"Killed In Action."
-"asw_kia_tt"		"在行动中阵亡。"
+"asw_kia_tt"		"阵亡。"
 "[english]asw_reserved"		"RESERVED"
 "asw_reserved"		"保留角色"
 "[english]asw_reserved_tt"		"Marine currently reserved for previous commander."
@@ -4779,7 +4779,7 @@
 "[english]rd_ui_max_players"		"MAX PLAYERS"
 "rd_ui_max_players"		"最大玩家数"
 "[english]asw_chat_died"		"%s1 was killed in action!"
-"asw_chat_died"		"%s1 在行动中阵亡！"
+"asw_chat_died"		"%s1 阵亡！"
 
 // Area9800 strings
 "[english]rd_area9800LZ_ob_destroy"		"Secure the hangar"

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<content><string id="body">[h2]新材质着色器：RDCharacter[/h2]
+
+新着色器将替换 VertexLitGeneric 着色器以及用于游戏角色的 AlienSurfaceFX 和 NightVisionSelfIllum 材质代理。
+
+[h3]模组作者请注意[/h3]
+[list]
+[*]如果你的模组不包含角色的 VMT 文件，则无需进行任何更改。
+[*]如果你的模组包含角色的 VMT 文件且以“patch”起始，你很可能已经在使用新着色器。
+[*]如果你的模组包含角色的 VMT 文件且以“VertexLitGeneric”起始，请参考下面方法处理：
+[*]如果你的模组包含角色的 VMT 文件且以其它字符起始，你看着办。
+[*]如果你选择不更新 VMT 文件，则当前的材质将保持不变，但使用这些材质的模型将无法使用新着色器引入的新特性。
+[/list]
+
+[h3]更新 VertexLitGeneric 角色材质[/h3]
+[list]
+[*]将文件起始的“VertexLitGeneric”替换为“RDCharacter”。
+[*]删除所有以“$detail”起始的行。(如果你想在其它地方使用 $detail，需要注意新着色器的状态效果中不再保留该字段。)
+[*]如果“$detail”包含“AnimatedTexture”代理，请删除“AnimatedTexture”以及接下来的一对大括号{}中的所有内容。
+[*]将“AlienSurfaceFX”代理替换为“RDCharacter”。如果你的材质没用到材质代理，请在文件最后一个右大括号}前插入Proxies { RDCharacter {} }。
+[*]删除所有对夜视效果的引用(例如，NightVisionSelfIllum材质代理以及对应的所有LessOrEqual代理，$one、$zero、$selfIllumTint_dark等辅助变量)。
+[/list]
+
+[h3]RDCharacter的新特性[/h3]
+[list]
+[*]$detail 变量不再在状态效果中使用，即该变量可作他用。
+[*]夜视效果不再使用 $selfillum，即改变 $selfillum 设置对夜视效果不起作用。
+[*]对于支持 Shader Model 3.0 的系统，火焰、冰冻以及震荡效果不再导致彼此以不同的速度播放。
+[*]着火效果现在以恒定的速率在所有类型角色上播放动画。
+[*]增加“团队高亮”，类似于《Warframe：Dagath 之深渊》更新中引入的“角色高亮系统”。
+[*]未来添加的所有角色着色器将不再强制要求 VMT 改动。
+[*]编译新着色器的 21,900 个实例用了 10小时43分26秒。
+[*]注意：对于不支持 Shader Model 3.0 的系统，状态效果启用时会禁用 $detail 以减少着色器复杂度。
+[*]注意：对于不支持 Shader Model 3.0 的系统，团队高亮启用时会禁用 $rimlight 以减少着色器复杂度。
+[/list]
+
+[h3]团队高亮[/h3]
+[list]
+[*]可以用 rd_highlight_active_character、rd_highlight_allies和rd_highlight_enemies 为不同类型角色设置彩色描边，便于区分。
+[*]rd_highlight_active_character 在本次显示的新描边基础上继续显示旧的高亮描边。
+[*]rd_highlight_allies_color 默认使用蓝灰色，rd_highlight_enemies_color 默认使用更高饱和度的红色。
+[*]高亮命令可以设置为更高的值，从而让角色模型更加醒目。设置为 1 (推荐) 将高亮角色轮廓，设置为 2 则将(几乎)高亮整个角色。设置为诸如 2.5 和 0.8 的小数也可以。
+[*]设置 rd_deathmatch_team_color_highlight 为 0 则切换为旧系统(为角色模型染色)。
+[*]本系统旨在将许多异形皮肤的辨识度与美工解耦，使玩家可以在提高异形辨识度的同时将异形替换为他们喜欢的模型。
+[*]对于熟悉游戏源代码的玩家，rd_highlight_ignore_class 可以用来设置不希望被新系统高亮的特定角色。例如，rd_highlight_ignore_class 27,40 将不高亮爪虫和士兵。
+[/list]
+
+[h2]X-33伤害放大器[/h2]
+
+增加一条命令，允许重武手在放置 X-33伤害放大器 时自动携行。
+
+[h3]控制台命令[/h3]
+[list]
+[*]rd_buff_grenade_attach_sw_auto (默认 0；设置为 1 则允许重武手放置伤害放大器时自动携行.)
+[/list]
+
+该指令对玩家添加的机器人也生效。该设置可通过 host_writeconfig 命令保存在 config.cfg 配置文件中。
+
+[h2]异形阴影混合[/h2]
+
+增加若干向跳跃/飞行异形添加类似于《半条命2》中天车的垂直阴影的控制台命令，以便更好的指示异形在三维空间中的位置。
+
+[h3]控制台命令[/h3]
+[list]
+[*]rd_alien_vertical_shadow_jumping (默认 1；设置为 1 为挑起的爪虫、寄生虫和小爆虫添加垂直阴影)
+[*]rd_alien_vertical_shadow_flying (默认 0；设置为 1 为蚊蜂添加垂直阴影)
+[*]rd_alien_vertical_shadow_distance (默认 4096；投射垂直阴影的最大离地高度)
+[*]asw_alien_shadows 设置为 0 时也对蚊蜂生效
+[/list]
+
+三个新命令目前还没有在 config.cfg 配置文件中保存。将来可能会保存进配置文件，但目前你需要通过 autoexec.cfg 来自动配置。
+
+[h2]其它[/h2]
+
+[list]
+[*]调整 地图作者放置的小爆虫(无论是通过 asw_parasite_defanged 放置还是刷怪器生成)不会在 60 秒后消失了。
+[*]　　 收获主生成的小爆虫如果在 60 秒内没有发现士兵，仍然会自动消失。
+[*]修复 [b]偏执症：敌对之地[/b]中 npc_cscanner 无视自身的“neutral”标记，从而导致被机器人和异形作为攻击目标的问题。
+[*]　　 超过 100 为指挥官签署了协议。
+[*]修复 NPC被冰冻时将取消其当前运动指令。此前部分异形在冰冻后会“滑行”一段距离。
+[*]修复 冰冻的敌人在被迫移动(例如位于移动平台上)时的抖动问题。
+[*]修复 士兵装备 CR-18冰冻手雷 时两脚之箭的额外阴影。
+[/list]
+</string><string id="subtitle"></string><string id="summary"></string><string id="title">《异形丛生: 虫启天降》更新 - 2024年7月15日</string></content>
