@@ -3,7 +3,7 @@
 	"Language"	"swedish"
 	"Tokens"
 	{
-		"#Main_Menu"	"Main Menu"
+		"#Main_Menu"	"Huvudmeny"
 		"#Watching_a_Demo"	"Tittar på en Demo"
 		"#Deathmatch_DM_Campaign"	"{#%rd_mission_key%}, {#Deathmatch_DM_Generic}, %num_players%/%max_players%"
 		"#Deathmatch_TDM_Campaign"	"{#%rd_mission_key%}, {#Deathmatch_TDM_Generic}, %num_players%/%max_players%"
@@ -36,12 +36,12 @@
 
 		"#official_mission_dm_desert"	"DM Öken"
 		"#official_mission_dm_deima"	"DM Deima Yt-bro"
-		"#official_mission_dm_residential"	"DM Bostad"
+		"#official_mission_dm_residential"	"DM Bostäder"
 		"#official_mission_dm_testlab"	"DM Testlabb"
 		"#official_mission_asi-jac1-landingbay_01"	"Landningsvik"
 		"#official_mission_asi-jac1-landingbay_02"	"Frakthiss"
 		"#official_mission_asi-jac2-deima"	"Deima Yt-bro"
-		"#official_mission_asi-jac3-rydberg"	"Rydbergreaktor"
+		"#official_mission_asi-jac3-rydberg"	"Rydbergs Reaktor"
 		"#official_mission_asi-jac4-residential"	"SynTek Bostadsområde"
 		"#official_mission_asi-jac6-sewerjunction"	"Kloakknuten B5"
 		"#official_mission_asi-jac7-timorstation"	"Timor Station"
@@ -114,7 +114,7 @@
 		"#official_mission_rd-bonus_mission6"	"Högspänning + Avgörande Punkt"
 		"#official_mission_rd-bonus_mission7"	"Kraftverk"
 		"#official_mission_rd-bonus10_sewrev"	"Omvänd Kloakknuten B5"
-		"#official_mission_rd-bonus12_rydrev"	"Omvänd Rydbergreaktor"
+		"#official_mission_rd-bonus12_rydrev"	"Omvänd Rydbergs Reaktor"
 		"#official_mission_rd-bonus14_cargrev"	"Omvänd Frakthissen"
 		"#official_mission_rd-bonus15_landrev"	"Omvänd Landningsviken"
 	}
