@@ -61,7 +61,7 @@
 "[english]inventory_class_restriction_medic"		"Medic"
 "inventory_class_restriction_medic"		"Läkare"
 "[english]inventory_class_restriction_tech"		"Tech"
-"inventory_class_restriction_tech"		"Tech"
+"inventory_class_restriction_tech"		"Tekniskt"
 "[english]inventory_crafting_item"		"Crafting Item"
 "inventory_crafting_item"		"Tillverkningsföremål"
 "[english]inventory_crafting_item_single_use_tool"		"Single-Use Tool"
@@ -77,7 +77,7 @@
 "inventory_crafting_item_alien_part"		"Alien Material"
 // rare crafting materials.
 "[english]inventory_crafting_item_computer_part"		"Tech Material"
-"inventory_crafting_item_computer_part"		"Tech Material"
+"inventory_crafting_item_computer_part"		"Tekniskt Material"
 // crafting items that can be found by playing some campaigns but not others.
 "[english]inventory_crafting_item_regional"		"Salvaged Material"
 "inventory_crafting_item_regional"		"Bärgat Material"
