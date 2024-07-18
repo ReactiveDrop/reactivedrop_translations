@@ -51,7 +51,7 @@
 
 [h3]コンソール変数[/h3]
 [list]
-[*]rd_buff_grenade_attach_sw_auto (デフォルト設定は0。1に設定すると1ダメージ増幅器を自動的に持ち運ぶようになる。)
+[*]rd_buff_grenade_attach_sw_auto (デフォルト設定は0。1に設定するとダメージ増幅器を自動的に持ち運ぶようになる。)
 [/list]
 
 この設定はそのプレイヤーが連れているbotにも影響します。設定はconfig.cfgファイルに記録されます。host_writeconfigを使えば変更を保存できます。
