@@ -6,7 +6,7 @@
 | [Czech](#czech-čeština) | 75 | 1810 | 42 | 4227 | 263 | 212 | 983 | 146 |
 | [Danish](#non-curated-languages) | 56 | 231 | 42 | 3754 | 263 | 212 | 713 | 147 |
 | [Dutch](#non-curated-languages) | 55 | 2004 | 42 | 3222 | 263 | 212 | 713 | 146 |
-| [Finnish](#non-curated-languages) | ✔️ | 2004 | 41 | 3084 | 209 | 212 | 701 | 146 |
+| [Finnish](#non-curated-languages) | ✔️ | 2004 | 41 | 3084 | 206 | 152 | 699 | 146 |
 | [French](#french-français) | 31 | 138 | 42 | 2589 | 262 | 212 | 653 | 125 |
 | [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Hungarian](#non-curated-languages) | 55 | 138 | 42 | 3222 | 263 | 212 | 978 | 147 |
