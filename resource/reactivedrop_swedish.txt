@@ -10435,7 +10435,7 @@
 "[english]rd_crafting_material_rarity_alien"		"Alien"
 "rd_crafting_material_rarity_alien"		"Alien"
 "[english]rd_crafting_material_rarity_tech"		"Tech"
-"rd_crafting_material_rarity_tech"		"Tech"
+"rd_crafting_material_rarity_tech"		"Tekniskt"
 "[english]rd_crafting_material_rarity_salvaged"		"Salvaged"
 "rd_crafting_material_rarity_salvaged"		"Bärgat"
 "[english]rd_crafting_material_rarity_refined"		"Refined"
