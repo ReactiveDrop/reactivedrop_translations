@@ -1,25 +1,25 @@
 # Overview
 | Language | basemodui | closecaption | gameui | reactivedrop | items | statsweb | Strings | Files |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
+| [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 1 |
 | [Traditional Chinese](#tchinese-繁體中文) | 13 | 141 | 33 | 3088 | 257 | 212 | 239 | 146 |
 | [Czech](#czech-čeština) | 75 | 1810 | 42 | 4227 | 263 | 212 | 983 | 146 |
 | [Danish](#non-curated-languages) | 56 | 231 | 42 | 3754 | 263 | 212 | 713 | 147 |
 | [Dutch](#non-curated-languages) | 55 | 2004 | 42 | 3222 | 263 | 212 | 713 | 146 |
 | [Finnish](#non-curated-languages) | ✔️ | 2004 | 41 | 3084 | 206 | 152 | 699 | 146 |
 | [French](#french-français) | 31 | 138 | 42 | 2589 | 262 | 212 | 653 | 125 |
-| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
+| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 1 |
 | [Hungarian](#non-curated-languages) | 55 | 138 | 42 | 3222 | 263 | 212 | 978 | 147 |
 | [Indonesian](#indonesian-indonesia) | 1285 | 2004 | 634 | 4734 | 266 | 216 | 983 | 147 |
-| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
-| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 35 | ✔️ |
+| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 1 |
+| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 35 | 1 |
 | [Korean](#koreana-한국어) | 11 | 10 | 38 | 1567 | 263 | 34 | 449 | 48 |
 | [Norwegian Bokmål](#non-curated-languages) | 73 | 708 | 47 | 3928 | 263 | 212 | 713 | 147 |
 | [Polish](#polish-polski) | 32 | 2004 | 42 | 3224 | 263 | 212 | 709 | 143 |
 | [European Portuguese](#portuguese-português-europeu) | 4 | 180 | 32 | 2313 | 243 | 33 | 633 | 141 |
 | [Brazilian Portuguese](#brazilian-português) | ✔️ | ✔️ | ✔️ | 1483 | 4 | 3 | 1 | 2 |
 | [Romanian](#non-curated-languages) | 55 | 1996 | 48 | 3934 | 263 | 212 | 978 | 147 |
-| [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
+| [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 1 |
 | [European Spanish](#spanish-español-de-españa) | 32 | 2004 | 40 | 2639 | 263 | 212 | 717 | 146 |
 | [Latin American Spanish](#latam-español-latinoamericano) | ✔️ | 2004 | ✔️ | 4274 | 10 | 3 | 204 | 142 |
 | [Swedish](#swedish-svenska) | ✔️ | ✔️ | ✔️ | 882 | ✔️ | ✔️ | ✔️ | 87 |
@@ -41,7 +41,9 @@
 
 </summary>
 
-✓ Up to date!
+### Upcoming Release Notes
+
+- [20240801_schinese.xml](release_notes/20240801_english.xml) is missing.
 
 </details>
 
@@ -76,7 +78,7 @@
 
 ### Upcoming Release Notes
 
-- [20240715_tchinese.xml](release_notes/20240715_english.xml) is missing.
+- [20240801_tchinese.xml](release_notes/20240801_english.xml) is missing.
 
 ### Credits
 
@@ -260,7 +262,7 @@
 
 ### Upcoming Release Notes
 
-- [20240715_czech.xml](release_notes/20240715_english.xml) is missing.
+- [20240801_czech.xml](release_notes/20240801_english.xml) is missing.
 
 ### Credits
 
@@ -444,7 +446,7 @@
 
 ### Upcoming Release Notes
 
-- [20240715_french.xml](release_notes/20240715_english.xml) is missing.
+- [20240801_french.xml](release_notes/20240801_english.xml) is missing.
 
 ### Credits
 
@@ -580,7 +582,9 @@
 
 </summary>
 
-✓ Up to date!
+### Upcoming Release Notes
+
+- [20240801_german.xml](release_notes/20240801_english.xml) is missing.
 
 </details>
 
@@ -619,7 +623,7 @@
 
 ### Upcoming Release Notes
 
-- [20240715_indonesian.xml](release_notes/20240715_english.xml) is missing.
+- [20240801_indonesian.xml](release_notes/20240801_english.xml) is missing.
 
 ### Credits
 
@@ -776,7 +780,9 @@
 
 </summary>
 
-✓ Up to date!
+### Upcoming Release Notes
+
+- [20240801_italian.xml](release_notes/20240801_english.xml) is missing.
 
 </details>
 
@@ -789,6 +795,10 @@
 ### Strings
 
 - [platform/vgui_japanese.txt](platform/vgui_japanese.txt) has 35 untranslated strings.
+
+### Upcoming Release Notes
+
+- [20240801_japanese.xml](release_notes/20240801_english.xml) is missing.
 
 </details>
 
@@ -822,7 +832,7 @@
 
 ### Upcoming Release Notes
 
-- [20240715_koreana.xml](release_notes/20240715_english.xml) is missing.
+- [20240801_koreana.xml](release_notes/20240801_english.xml) is missing.
 
 ### Credits
 
@@ -907,7 +917,7 @@
 
 ### Upcoming Release Notes
 
-- [20240715_polish.xml](release_notes/20240715_english.xml) is missing.
+- [20240801_polish.xml](release_notes/20240801_english.xml) is missing.
 
 ### Credits
 
@@ -1088,7 +1098,7 @@
 
 ### Upcoming Release Notes
 
-- [20240715_portuguese.xml](release_notes/20240715_english.xml) is missing.
+- [20240801_portuguese.xml](release_notes/20240801_english.xml) is missing.
 
 ### Credits
 
@@ -1255,7 +1265,7 @@
 
 ### Upcoming Release Notes
 
-- [20240715_brazilian.xml](release_notes/20240715_english.xml) is missing.
+- [20240801_brazilian.xml](release_notes/20240801_english.xml) is missing.
 
 </details>
 
@@ -1265,7 +1275,9 @@
 
 </summary>
 
-✓ Up to date!
+### Upcoming Release Notes
+
+- [20240801_russian.xml](release_notes/20240801_english.xml) is missing.
 
 </details>
 
@@ -1302,7 +1314,7 @@
 
 ### Upcoming Release Notes
 
-- [20240715_spanish.xml](release_notes/20240715_english.xml) is missing.
+- [20240801_spanish.xml](release_notes/20240801_english.xml) is missing.
 
 ### Credits
 
@@ -1472,7 +1484,7 @@
 
 ### Upcoming Release Notes
 
-- [20240715_latam.xml](release_notes/20240715_english.xml) is missing.
+- [20240801_latam.xml](release_notes/20240801_english.xml) is missing.
 
 ### Credits
 
@@ -1635,7 +1647,7 @@
 
 ### Upcoming Release Notes
 
-- [20240715_swedish.xml](release_notes/20240715_english.xml) is missing.
+- [20240801_swedish.xml](release_notes/20240801_english.xml) is missing.
 
 ### Mail and News
 
@@ -1761,7 +1773,7 @@
 
 ### Upcoming Release Notes
 
-- [20240715_ukrainian.xml](release_notes/20240715_english.xml) is missing.
+- [20240801_ukrainian.xml](release_notes/20240801_english.xml) is missing.
 
 ### Credits
 
@@ -1928,7 +1940,7 @@
 
 ### Upcoming Release Notes
 
-- [20240715_vietnamese.xml](release_notes/20240715_english.xml) is missing.
+- [20240801_vietnamese.xml](release_notes/20240801_english.xml) is missing.
 
 ### Mail and News
 
