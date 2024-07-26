@@ -11,8 +11,8 @@
 | [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 1 |
 | [Hungarian](#non-curated-languages) | 55 | 138 | 42 | 3222 | 263 | 212 | 978 | 147 |
 | [Indonesian](#indonesian-indonesia) | 1285 | 2004 | 634 | 4734 | 266 | 216 | 983 | 147 |
-| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 1 |
-| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 35 | 1 |
+| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
+| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 35 | ✔️ |
 | [Korean](#koreana-한국어) | 11 | 10 | 38 | 1567 | 263 | 34 | 449 | 48 |
 | [Norwegian Bokmål](#non-curated-languages) | 73 | 708 | 47 | 3928 | 263 | 212 | 713 | 147 |
 | [Polish](#polish-polski) | 32 | 2004 | 42 | 3224 | 263 | 212 | 709 | 143 |
@@ -780,9 +780,7 @@
 
 </summary>
 
-### Upcoming Release Notes
-
-- [20240801_italian.xml](release_notes/20240801_english.xml) is missing.
+✓ Up to date!
 
 </details>
 
@@ -795,10 +793,6 @@
 ### Strings
 
 - [platform/vgui_japanese.txt](platform/vgui_japanese.txt) has 35 untranslated strings.
-
-### Upcoming Release Notes
-
-- [20240801_japanese.xml](release_notes/20240801_english.xml) is missing.
 
 </details>
 
