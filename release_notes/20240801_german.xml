@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<content><string id="body">In diesem Monat geht es hauptsächlich um Quality of Life Verbesserung der Waffen.
+
+[list]
+[*][b]X-33 Schadensverstärker:[/b] Ein getragener Schadensverstärker wurde nicht zuverlässig mit dem Gewehr des Soldaten verbunden, das er trägt.
+[*][b]X-33 Schadensverstärker:[/b] rd_buff_grenade_attach_sw_auto kann jetzt auf 2 gesetzt werden, um das alte Verhalten wiederherzustellen, das es einem Waffenspezialisten erlaubt, mehrere Schadensverstärker zu tragen. Du kannst immer noch nur einen vom Boden aufheben, wenn du nicht bereits einen trägst. Anhaltende Schadensboni sind immer noch nicht stapelbar, also ist dies nur nützlich, wenn du die Zeit zwischen zwei Schadensverstärkern überbrücken willst, indem du sie leicht überlappst.
+[*][b]X-33 Schadensverstärker[/b] und [b]IAF Heilkreis:[/b] Der Animation des Kreises wurde ein zusätzlicher Ring hinzugefügt, um die verbleibende Dauer anzuzeigen. Benutzerdefinierte Partikeleffekte können diese Information aus der y-Koordinate des Kontrollpunkts 1 nutzen, die von 0 bis 1 skaliert.
+[*][b]v45 Elektrisch geladene Rüstung:[/b] Es wurde ein Convar rd_electrified_armor_fx hinzugefügt, der ausgeschaltet werden kann, um den elektrischen Effekt zu deaktivieren, falls er auf benutzerdefinierten Modellen schlecht aussieht.
+[*][b]TG-05 Gasgranaten[/b], [b]FG-01 Handgranaten[/b], und [b]CR-18 Frostgranaten:[/b] Es wurde eine visuelle Darstellung der ausgerüsteten Granaten für Soldaten hinzugefügt.
+[*][b]TG-05 Gasgranaten[/b], [b]FG-01 Handgranaten[/b], und Granaten aus dem [b]Granatwerfer[/b] verwenden jetzt separate Modelle, um das Modding zu erleichtern.
+[*][b]M868 Flammenwerfer[/b] und [b]M478 Annäherungsbrandminen:[/b] Freundbeschuss mit Brandwaffen entzündet Soldaten jetzt sofort auf allen Schwierigkeitsstufen. Stattdessen dauert es bei normalem Beschuss ein paar Sekunden, bis der Nachbrennschaden seinen vollen Schaden erreicht. Dies ist eine experimentelle Änderung, die das Feuer mit Brandwaffen deutlicher machen soll, ohne den effektiven Schwierigkeitsgrad zu verändern, und die den Übergang zwischen dem normalen und dem Hardcore-Freundbeschuss erleichtern soll. Wie immer sammeln wir Feedback und werden bei Bedarf Änderungen vornehmen.
+[*]Es wurde behoben, dass verbrauchbare Waffen nach dem Aufbrauchen für den Bruchteil einer Sekunde in der Luft zu schweben scheinen.
+[*]Ein Absturz im Zusammenhang mit einer Speicher-Korruption beim Wechsel der Herausforderung nach einem Neustart des Einsatzes wurde behoben.
+[/list]</string><string id="subtitle"></string><string id="summary"></string><string id="title">Alien Swarm: Reactive Drop Update - 1. August 2024</string></content>
