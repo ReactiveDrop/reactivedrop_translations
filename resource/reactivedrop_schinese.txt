@@ -748,7 +748,7 @@
 "[english]asw_weapon_flamer"		"Flamethrower"
 "asw_weapon_flamer"		"火焰喷射器"
 "[english]asw_weaponl_flamer"		"M868 Flamer Unit"
-"asw_weaponl_flamer"		"M868 火焰喷射器"
+"asw_weaponl_flamer"		"M868火焰喷射器"
 "[english]asw_weapon_flamer_altfire"		"Fire Extinguisher"
 "asw_weapon_flamer_altfire"		"具有灭火能力"
 "[english]asw_weapon_flamer_attributes"		"Ignites, Use with Caution"
