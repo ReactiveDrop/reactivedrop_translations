@@ -114,7 +114,7 @@
 "[english]Valve_Cheer"		"Cheer"
 "Valve_Cheer"		"Приветствие"
 "[english]Valve_Activate_In_Game_GUI"		"Activate in-game GUI"
-"Valve_Activate_In_Game_GUI"		"Открыть меню действий"
+"Valve_Activate_In_Game_GUI"		"Открыть меню игры"
 "[english]Valve_Change_Team"		"Change team"
 "Valve_Change_Team"		"Сменить команду"
 "[english]Valve_Change_Class"		"Change class"
