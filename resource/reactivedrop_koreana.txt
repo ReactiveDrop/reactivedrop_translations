@@ -4527,8 +4527,8 @@
 		"[english]rd_workshop_installed_short"		"Installed"
 		"rd_workshop_installed_short"		"설치됨"
 		// button to switch to publish addons page
-		"[english]rd_workshop_publish_short"		"등록"
-		"rd_workshop_publish_short"		"Publish"
+		"[english]rd_workshop_publish_short"		"Publish"
+		"rd_workshop_publish_short"		"등록"
 "[english]rd_workshop_waiting_for_addon_list"		"Waiting for add-on list..."
 "rd_workshop_waiting_for_addon_list"		"에드온을 등록하고 있습니다...."
 "[english]rd_workshop_create_addon"		"CREATE NEW ADD-ON"
