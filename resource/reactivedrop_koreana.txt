@@ -3822,7 +3822,7 @@
 		"[english]RD_CAMPAIGN_NO_DEATHS_REDUCTION_NAME"		"Outstanding Execution: Reduction"
 		"RD_CAMPAIGN_NO_DEATHS_REDUCTION_NAME"		"뛰어난 수행: 하락"
 		"[english]RD_CAMPAIGN_NO_DEATHS_ADA_NAME"		"Outstanding Execution: Adanaxis"
-		"RD_CAMPAIGN_NO_DEATHS_ADA_NAME"		""뛰어난 수행: 단축"
+		"RD_CAMPAIGN_NO_DEATHS_ADA_NAME"		"뛰어난 수행: 단축"
 "[english]ASW_MISSION_NO_DEATHS_NAME"		"Zero Mortality"
 "ASW_MISSION_NO_DEATHS_NAME"		"사망률 제로"
 "[english]RD_GAS_GRENADE_KILLS_NAME"		"Chemical Warfare"
