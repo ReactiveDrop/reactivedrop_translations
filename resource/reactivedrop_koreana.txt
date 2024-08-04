@@ -10291,7 +10291,7 @@
 		"[english]rd_hoiaf_bounty_desc"		"Complete each of these missions on a participating Heroes of the Interstellar Armed Forces server within the time limit to receive bonus points."
 		"rd_hoiaf_bounty_desc"		"성간 군사 동맹의 영웅들 전용 서버에서 제한 시간내에 해당 임무들을 완료하여 현상금 점수를 획득하십시오."
 		"[english]rd_hoiaf_bounty_fully_claimed"		"All bonuses claimed!"
-		"rd_hoiaf_bounty_fully_claimed"		"모든 현상금 점수를 획득하였습니다.!"
+		"rd_hoiaf_bounty_fully_claimed"		"모든 현상금 점수를 획득하였습니다!"
 		// %s1 is the number of points. %s2 is the mission title. %s3 is the campaign title.
 		"[english]rd_hoiaf_bounty_claimed_campaign"		"You have claimed a %s1 point bounty for completing %s3: %s2."
 		"rd_hoiaf_bounty_claimed_campaign"		"%s3: %s2 임무를 완수하여 %s1 의 현상금 점수를 획득하였습니다."
