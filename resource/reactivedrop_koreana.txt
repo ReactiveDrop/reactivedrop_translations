@@ -7839,7 +7839,7 @@
 		"[english]rd_mission_desc_rd-bonus14_cargrev"		"Proceed up the central Cargo Elevator to the Landing Bay."
 		"rd_mission_desc_rd-bonus14_cargrev"		"Proceed up the central Cargo Elevator to the Landing Bay."
 		"[english]rd_mission_title_rd-bonus15_landrev"		"Reversed Landing Bay"
-		"rd_mission_title_rd-bonus15_landrev"		R반전된 착륙장"
+		"rd_mission_title_rd-bonus15_landrev"		반전된 착륙장"
 		"[english]rd_mission_desc_rd-bonus15_landrev"		"Perform a sweep of the Landing Bay on Vereon XII. IAF Command has ordered retrieval of flight data from an escape pod in one of the bays."
 		"rd_mission_desc_rd-bonus15_landrev"		"Perform a sweep of the Landing Bay on Vereon XII. IAF Command has ordered retrieval of flight data from an escape pod in one of the bays."
 
