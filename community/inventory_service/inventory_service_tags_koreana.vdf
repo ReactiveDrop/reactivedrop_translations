@@ -68,22 +68,22 @@
 "inventory_crafting_item_single_use_tool"		"일회용 도구"
 		// common crafting materials. (100-1000 drop at a time)
 		"[english]inventory_crafting_item_ultra_common"		"Bulk Material"
-		"inventory_crafting_item_ultra_common"		"Bulk Material"
+		"inventory_crafting_item_ultra_common"		"양산 자재"
 		// common crafting materials. (1-3 drop at a time)
 		"[english]inventory_crafting_item_common_part"		"Industrial Material"
-		"inventory_crafting_item_common_part"		"Industrial Material"
+		"inventory_crafting_item_common_part"		"공업 자재"
 		// uncommon crafting materials.
 		"[english]inventory_crafting_item_alien_part"		"Alien Material"
-		"inventory_crafting_item_alien_part"		"Alien Material"
+		"inventory_crafting_item_alien_part"		"외계 소재"
 		// rare crafting materials.
 		"[english]inventory_crafting_item_computer_part"		"Tech Material"
-		"inventory_crafting_item_computer_part"		"Tech Material"
+		"inventory_crafting_item_computer_part"		"기술 자재"
 		// crafting items that can be found by playing some campaigns but not others.
 		"[english]inventory_crafting_item_regional"		"Salvaged Material"
-		"inventory_crafting_item_regional"		"Salvaged Material"
+		"inventory_crafting_item_regional"		"회수 자재"
 		// crafting items that were transformed from a variant the player found into one that is more usable (eg. sorting wires, turning scraps of material into a sheet)
 		"[english]inventory_crafting_item_refined"		"Refined Material"
-		"inventory_crafting_item_refined"		"Refined Material"
+		"inventory_crafting_item_refined"		"정제 소재"
 // displayed before the list of Strange item accessories, eg. Strange Devices: Missions, Aliens Killed
 "[english]inventory_strange"		"Strange Devices"
 "inventory_strange"		"이상한 장치"
@@ -95,15 +95,15 @@
 "item_store_category_mapstamp"		"지도 우표"
 		// the same, but for artists.
 		"[english]item_store_category_artiststamp"		"Artists"
-		"item_store_category_artiststamp"		"Artists"
+		"item_store_category_artiststamp"		"예술가"
 		// the same, but for programmers.
 		"[english]item_store_category_programmerstamp"		"Programmers"
-		"item_store_category_programmerstamp"		"Programmers"
+		"item_store_category_programmerstamp"		"프로그래머"
 		// the same, but for server hosts.
 		"[english]item_store_category_serverhoststamp"		"Server Hosts"
-		"item_store_category_serverhoststamp"		"Server Hosts"
+		"item_store_category_serverhoststamp"		"서버 관리자"
 		// the same, but for translators.
 		"[english]item_store_category_translatorstamp"		"Translators"
-		"item_store_category_translatorstamp"		"Translators"
+		"item_store_category_translatorstamp"		"번역가"
 }
 }
