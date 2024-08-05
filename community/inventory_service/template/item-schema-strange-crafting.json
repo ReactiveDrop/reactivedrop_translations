@@ -361,6 +361,8 @@
 		{
 			"itemdefid": 4031,
 			"type": "item",
+			"name_%LANG%": "{#item_crafting_material_refined_wire_name}",
+			"description_%LANG%": "{#item_crafting_material_refined_wire_description}",
 			"after_description_%LANG%": "{#item_crafting_material_multiple}",
 			"display_type_%LANG%": "{#inventory_crafting_item_refined}",
 			"icon_url": "https://stats.reactivedrop.com/static/items/4031.png",
@@ -371,6 +373,8 @@
 		{
 			"itemdefid": 4032,
 			"type": "item",
+			"name_%LANG%": "{#item_crafting_material_refined_carbon_name}",
+			"description_%LANG%": "{#item_crafting_material_refined_carbon_description}",
 			"after_description_%LANG%": "{#item_crafting_material_multiple}",
 			"display_type_%LANG%": "{#inventory_crafting_item_refined}",
 			"icon_url": "https://stats.reactivedrop.com/static/items/4032.png",

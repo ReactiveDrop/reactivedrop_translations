@@ -407,6 +407,16 @@
 "[english]item_crafting_material_probability_drive_description"		"A disk containing an excerpt from [i]A Million Random Digits with 100,000 Normal Deviates[/i], found while on a mission."
 "item_crafting_material_probability_drive_description"		"Một đĩa chứa một đoạn trích từ [i]A Million Random Digits with 100,000 Normal Deviates[/i], được tìm thấy trong khi đang làm một nhiệm vụ."
 
+		"[english]item_crafting_material_refined_wire_name"		"Sorted Wire"
+		"item_crafting_material_refined_wire_name"		"Sorted Wire"
+		"[english]item_crafting_material_refined_wire_description"		"A spool of repurposed wire."
+		"item_crafting_material_refined_wire_description"		"A spool of repurposed wire."
+		"[english]item_crafting_material_refined_carbon_name"		"Carbon Plates"
+		"item_crafting_material_refined_carbon_name"		"Carbon Plates"
+		"[english]item_crafting_material_refined_carbon_description"		"Carbon nanotubes arranged into super-strong plates."
+		"item_crafting_material_refined_carbon_description"		"Carbon nanotubes arranged into super-strong plates."
+
+
 // Notifications are hidden items that cause a notification to appear in the game's main menu. The item records whether it has been seen by the player, and dismissing the notification deletes the item. Notifications will not appear for players who have opted out of seeing them.
 //
 // A large variety of crafting materials have appeared (once per week).
