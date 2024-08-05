@@ -1458,6 +1458,8 @@
 		{
 			"itemdefid": 4031,
 			"type": "item",
+			"name_english": "Sorted Wire",
+			"description_english": "A spool of repurposed wire.",
 			"after_description_brazilian": "Quantidade: %m_unQuantity%",
 			"after_description_english": "Quantity: %m_unQuantity%",
 			"after_description_finnish": "Määrä: %m_unQuantity%",
@@ -1486,6 +1488,8 @@
 		{
 			"itemdefid": 4032,
 			"type": "item",
+			"name_english": "Carbon Plates",
+			"description_english": "Carbon nanotubes arranged into super-strong plates.",
 			"after_description_brazilian": "Quantidade: %m_unQuantity%",
 			"after_description_english": "Quantity: %m_unQuantity%",
 			"after_description_finnish": "Määrä: %m_unQuantity%",
