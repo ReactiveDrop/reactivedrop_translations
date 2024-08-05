@@ -473,6 +473,9 @@
 "[english]item_suit_flynn_name"		"Flynn's Suit"
 "item_suit_flynn_name"		"Костюм Флинн"
 
+// If you would like to be included in this system and you have contributed to Alien Swarm: Reactive Drop's development,
+// follow the instructions at https://developer.reactivedrop.com/donation-items.html
+
 "[english]item_donation_tft_name"		"Donor: Tears for Tarnor"
 "item_donation_tft_name"		"Спонсорство: Слёзы по Тарнору"
 "[english]item_donation_tft_description"		"Represents a donation to the author of the Tears for Tarnor campaign, Michael 'Ezekel' Abraham."
@@ -597,5 +600,9 @@
 "item_donation_thescientist_name"		"Спонсорство: TheScientist"
 "[english]item_donation_thescientist_description"		"Represents a donation to TheScientist, contributor to the Portuguese translation."
 "item_donation_thescientist_description"		"Представляет собой пожертвование TheScientist, за помощь с переводом на португальский."
+		"[english]item_donation_crazymanbos_name"		"Donor: Crazymanbos"
+		"item_donation_crazymanbos_name"		"Donor: Crazymanbos"
+		"[english]item_donation_crazymanbos_description"		"Represents a donation to Crazymanbos, contributor to the Swedish translation."
+		"item_donation_crazymanbos_description"		"Represents a donation to Crazymanbos, contributor to the Swedish translation."
 }
 }
