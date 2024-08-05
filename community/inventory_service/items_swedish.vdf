@@ -600,9 +600,9 @@
 "item_donation_thescientist_name"		"Donation: TheScientist"
 "[english]item_donation_thescientist_description"		"Represents a donation to TheScientist, contributor to the Portuguese translation."
 "item_donation_thescientist_description"		"Representerar en donation till TheScientist, bidragsgivare till den portugisiska översättningen."
-		"[english]item_donation_crazymanbos_name"		"Donor: Crazymanbos"
-		"item_donation_crazymanbos_name"		"Donor: Crazymanbos"
-		"[english]item_donation_crazymanbos_description"		"Represents a donation to Crazymanbos, contributor to the Swedish translation."
-		"item_donation_crazymanbos_description"		"Represents a donation to Crazymanbos, contributor to the Swedish translation."
+"[english]item_donation_crazymanbos_name"		"Donor: Crazymanbos"
+"item_donation_crazymanbos_name"		"Donation: Crazymanbos"
+"[english]item_donation_crazymanbos_description"		"Represents a donation to Crazymanbos, contributor to the Swedish translation."
+"item_donation_crazymanbos_description"		"Representerar en donation till Crazymanbos, bidragsgivare till den svenska översättningen."
 }
 }
