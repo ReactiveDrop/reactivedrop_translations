@@ -44,7 +44,7 @@
 "[english]inventory_slot"		"Slot"
 "inventory_slot"		"슬롯"
 "[english]inventory_slot_medal"		"Medal"
-"inventory_slot_medal"		"메달"
+"inventory_slot_medal"		"훈장"
 "[english]inventory_slot_suit"		"Suit"
 "inventory_slot_suit"		"복장"
 "[english]inventory_slot_weapon"		"Weapon"
@@ -86,7 +86,7 @@
 		"inventory_crafting_item_refined"		"정제 소재"
 // displayed before the list of Strange item accessories, eg. Strange Devices: Missions, Aliens Killed
 "[english]inventory_strange"		"Strange Devices"
-"inventory_strange"		"이상한 장치"
+"inventory_strange"		"기묘한 장치"
 // items that are essentially receipts for donating money to someone in the community. (for the forseeable future, all items on the store will be in this category)
 "[english]item_store_category_donations"		"Donations"
 "item_store_category_donations"		"기부금"
@@ -95,7 +95,7 @@
 "item_store_category_mapstamp"		"지도 우표"
 		// the same, but for artists.
 		"[english]item_store_category_artiststamp"		"Artists"
-		"item_store_category_artiststamp"		"예술가"
+		"item_store_category_artiststamp"		"창작자"
 		// the same, but for programmers.
 		"[english]item_store_category_programmerstamp"		"Programmers"
 		"item_store_category_programmerstamp"		"프로그래머"
