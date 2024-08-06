@@ -20,12 +20,12 @@
 		"[english]item_display_type_community_medal_legendary"		"Community Medal"
 		"item_display_type_community_medal_legendary"		"커뮤니티 훈장"
 		"[english]item_display_type_donation_medal"		"Donor"
-		"item_display_type_donation_medal"		"기부"
+		"item_display_type_donation_medal"		"기여자"
 		"[english]item_display_type_novelty_medal_uncommon"		"Souvenir"
 		"item_display_type_novelty_medal_uncommon"		"기념품"
 		// accessory that can be permanently attached to a weapon, equipment, or suit to track specific stats
 		"[english]item_display_type_strange_device"		"Strange Device"
-		"item_display_type_strange_device"		"이상한 장치"
+		"item_display_type_strange_device"		"기묘한 장치"
 
 		"[english]item_strange_medal_disclaimer"		"Stats are only updated while this item is equipped."
 		"item_strange_medal_disclaimer"		"이 물품을 장착한 상태에서만 통계가 집계됩니다."
