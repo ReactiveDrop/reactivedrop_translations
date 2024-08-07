@@ -2683,6 +2683,8 @@
 "SessionError_NoMap"		"要求されたミッションマップは利用できません"
 "[english]SessionError_SteamServersDisconnected"		"The connection to Steam was lost."
 "SessionError_SteamServersDisconnected"		"Steam への接続が失われました。"
+		"[english]SessionError_ClientDLL"		"This lobby is running a different version of Alien Swarm: Reactive Drop.\nIf you recently installed an update, it is possible that the host of this lobby has not updated yet."
+		"SessionError_ClientDLL"		"This lobby is running a different version of Alien Swarm: Reactive Drop.\nIf you recently installed an update, it is possible that the host of this lobby has not updated yet."
 
 "[english]InviteError_Unknown"		"Failed to accept game invite.\nPlease try again."
 "InviteError_Unknown"		"ゲームへの招待を受け入れることができませんでした\nもう一度お試しください"

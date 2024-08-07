@@ -2683,6 +2683,8 @@
 "SessionError_NoMap"		"Bản đồ chiến dịch được yêu cầu hiện không khả dụng."
 "[english]SessionError_SteamServersDisconnected"		"The connection to Steam was lost."
 "SessionError_SteamServersDisconnected"		"Kết nối với Steam đã bị mất."
+		"[english]SessionError_ClientDLL"		"This lobby is running a different version of Alien Swarm: Reactive Drop.\nIf you recently installed an update, it is possible that the host of this lobby has not updated yet."
+		"SessionError_ClientDLL"		"This lobby is running a different version of Alien Swarm: Reactive Drop.\nIf you recently installed an update, it is possible that the host of this lobby has not updated yet."
 
 "[english]InviteError_Unknown"		"Failed to accept game invite.\nPlease try again."
 "InviteError_Unknown"		"Chấp nhận lời mời tham gia trò không thành công.\nVui lòng thử lại."
