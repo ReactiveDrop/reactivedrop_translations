@@ -512,7 +512,7 @@
 		"Valve_Hint_Alt_Weapon_Physcannon"		"%+attack% LAUNCH OBJECT %+attack2% GRAB OBJECT"
 
 		"[english]Valve_Hint_EnterVehicle"		"%+use% ENTER VEHICLE"
-		"Valve_Hint_EnterVehicle"		"%+use% ENTER VEHICLE"
+		"Valve_Hint_EnterVehicle"		"%+use% 차량 탑승"
 
 		"[english]Commentary_PrimaryAttack"		"%+attack%: Start/Stop node"
 		"Commentary_PrimaryAttack"		"%+attack%: Start/Stop node"
