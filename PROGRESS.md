@@ -1,18 +1,18 @@
 # Overview
 | Language | basemodui | closecaption | gameui | reactivedrop | items | statsweb | Strings | Files |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [Simplified Chinese](#schinese-简体中文) | 1 | ✔️ | ✔️ | ✔️ | 7 | ✔️ | ✔️ | ✔️ |
+| [Simplified Chinese](#schinese-简体中文) | 1 | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Traditional Chinese](#tchinese-繁體中文) | 14 | 141 | 33 | 3088 | 263 | 212 | 239 | 145 |
 | [Czech](#czech-čeština) | 76 | 1810 | 42 | 4227 | 269 | 212 | 983 | 145 |
 | [Danish](#non-curated-languages) | 57 | 231 | 42 | 3754 | 269 | 212 | 713 | 146 |
 | [Dutch](#non-curated-languages) | 56 | 2004 | 42 | 3222 | 269 | 212 | 713 | 145 |
 | [Finnish](#non-curated-languages) | 1 | 2004 | 41 | 3084 | 212 | 152 | 699 | 145 |
 | [French](#french-français) | 32 | 138 | 42 | 2589 | 268 | 212 | 653 | 124 |
-| [German](#german-deutsch) | 1 | ✔️ | ✔️ | ✔️ | 7 | ✔️ | ✔️ | ✔️ |
+| [German](#german-deutsch) | 1 | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Hungarian](#non-curated-languages) | 56 | 138 | 42 | 3222 | 269 | 212 | 978 | 146 |
 | [Indonesian](#indonesian-indonesia) | 1286 | 2004 | 634 | 4734 | 272 | 216 | 983 | 146 |
 | [Italian](#italian-italiano) | 1 | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
-| [Japanese](#japanese-日本語) | 1 | ✔️ | ✔️ | ✔️ | 2 | ✔️ | 35 | ✔️ |
+| [Japanese](#japanese-日本語) | 1 | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 35 | ✔️ |
 | [Korean](#koreana-한국어) | 12 | 10 | 38 | 1567 | 269 | 34 | 449 | 47 |
 | [Norwegian Bokmål](#non-curated-languages) | 74 | 708 | 47 | 3928 | 269 | 212 | 713 | 146 |
 | [Polish](#polish-polski) | 33 | 2004 | 42 | 3224 | 269 | 212 | 709 | 142 |
@@ -43,7 +43,6 @@
 
 ### Strings
 
-- [items_schinese.vdf](community/inventory_service/items_schinese.vdf) has 7 untranslated strings.
 - [basemodui_schinese.txt](resource/basemodui_schinese.txt) has 1 untranslated strings.
 
 </details>
@@ -573,7 +572,6 @@
 
 ### Strings
 
-- [items_german.vdf](community/inventory_service/items_german.vdf) has 7 untranslated strings.
 - [basemodui_german.txt](resource/basemodui_german.txt) has 1 untranslated strings.
 
 </details>
@@ -780,7 +778,6 @@
 
 ### Strings
 
-- [items_japanese.vdf](community/inventory_service/items_japanese.vdf) has 2 untranslated strings.
 - [platform/vgui_japanese.txt](platform/vgui_japanese.txt) has 35 untranslated strings.
 - [basemodui_japanese.txt](resource/basemodui_japanese.txt) has 1 untranslated strings.
 
