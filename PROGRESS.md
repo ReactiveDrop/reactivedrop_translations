@@ -11,7 +11,7 @@
 | [German](#german-deutsch) | 1 | ✔️ | ✔️ | ✔️ | 7 | ✔️ | ✔️ | ✔️ |
 | [Hungarian](#non-curated-languages) | 56 | 138 | 42 | 3222 | 269 | 212 | 978 | 146 |
 | [Indonesian](#indonesian-indonesia) | 1286 | 2004 | 634 | 4734 | 272 | 216 | 983 | 146 |
-| [Italian](#italian-italiano) | 1 | ✔️ | ✔️ | ✔️ | 7 | ✔️ | ✔️ | ✔️ |
+| [Italian](#italian-italiano) | 1 | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Japanese](#japanese-日本語) | 1 | ✔️ | ✔️ | ✔️ | 2 | ✔️ | 35 | ✔️ |
 | [Korean](#koreana-한국어) | 12 | 10 | 38 | 1567 | 269 | 34 | 449 | 47 |
 | [Norwegian Bokmål](#non-curated-languages) | 74 | 708 | 47 | 3928 | 269 | 212 | 713 | 146 |
@@ -768,7 +768,6 @@
 
 ### Strings
 
-- [items_italian.vdf](community/inventory_service/items_italian.vdf) has 7 untranslated strings.
 - [basemodui_italian.txt](resource/basemodui_italian.txt) has 1 untranslated strings.
 
 </details>
