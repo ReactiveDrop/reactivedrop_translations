@@ -3280,7 +3280,7 @@
 "nb_speedruntime_title"		"速通成就要求"
 // the first %d is minutes and the second %d is seconds (printf formatting). examples - 1:42, 3:10, 1:07
 "[english]nb_speedruntime_format"		"%d:%02d"
-"nb_speedruntime_format"		"普通级以上,%d:%02d内完成且无阵亡"
+"nb_speedruntime_format"		"普通及以上,%d:%02d内完成且无阵亡"
 "[english]nb_oe_title"		"Outstanding Execution"
 "nb_oe_title"		"完美执行"
 "[english]nb_oe_status_active"		"Active"
