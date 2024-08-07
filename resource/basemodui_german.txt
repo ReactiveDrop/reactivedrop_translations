@@ -2683,8 +2683,8 @@
 "SessionError_NoMap"		"Der angeforderte Feldzug ist nicht verfügbar."
 "[english]SessionError_SteamServersDisconnected"		"The connection to Steam was lost."
 "SessionError_SteamServersDisconnected"		"Die Verbindung zu Steam wurde unterbrochen."
-		"[english]SessionError_ClientDLL"		"This lobby is running a different version of Alien Swarm: Reactive Drop.\nIf you recently installed an update, it is possible that the host of this lobby has not updated yet."
-		"SessionError_ClientDLL"		"This lobby is running a different version of Alien Swarm: Reactive Drop.\nIf you recently installed an update, it is possible that the host of this lobby has not updated yet."
+"[english]SessionError_ClientDLL"		"This lobby is running a different version of Alien Swarm: Reactive Drop.\nIf you recently installed an update, it is possible that the host of this lobby has not updated yet."
+"SessionError_ClientDLL"		"In dieser Lobby läuft eine andere Version von Alien Swarm: Reactive Drop.\nWenn du kürzlich ein Update installiert hast, ist es möglich, dass der Host dieser Lobby noch nicht aktualisiert wurde."
 
 "[english]InviteError_Unknown"		"Failed to accept game invite.\nPlease try again."
 "InviteError_Unknown"		"Spieleinladung konnte nicht angenommen werden.\nVersuche es erneut."
