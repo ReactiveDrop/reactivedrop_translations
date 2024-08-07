@@ -2683,8 +2683,8 @@
 "SessionError_NoMap"		"La mappa missione richiesta non è disponibile."
 "[english]SessionError_SteamServersDisconnected"		"The connection to Steam was lost."
 "SessionError_SteamServersDisconnected"		"La connessione a Steam è stata interrotta."
-		"[english]SessionError_ClientDLL"		"This lobby is running a different version of Alien Swarm: Reactive Drop.\nIf you recently installed an update, it is possible that the host of this lobby has not updated yet."
-		"SessionError_ClientDLL"		"This lobby is running a different version of Alien Swarm: Reactive Drop.\nIf you recently installed an update, it is possible that the host of this lobby has not updated yet."
+"[english]SessionError_ClientDLL"		"This lobby is running a different version of Alien Swarm: Reactive Drop.\nIf you recently installed an update, it is possible that the host of this lobby has not updated yet."
+"SessionError_ClientDLL"		"Questa lobby sta eseguendo una versione diversa di Alien Swarm: Reactive Drop.\nSe è stato installato di recente un aggiornamento, è possibile che l'host di questa lobby non abbia ancora installato l'aggiornamento."
 
 "[english]InviteError_Unknown"		"Failed to accept game invite.\nPlease try again."
 "InviteError_Unknown"		"Impossibile accettare l'invito ad un gioco.\nRiprova."
