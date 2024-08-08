@@ -10201,7 +10201,7 @@
 		"[english]rd_lobby_tooltip_difficulty_instagib_desc"		"Kill enemy marines to score points. Weapon damage is greatly increased."
 		"rd_lobby_tooltip_difficulty_instagib_desc"		"적대적인 해병을 사살하여 점수를 획득하세요. 모든 무기 공력력이 대폭 상승하였습니다."
 		"[english]rd_lobby_tooltip_difficulty_easy_title"		"Difficulty: Easy"
-		"rd_lobby_tooltip_difficulty_easy_title"		난이도: 쉬움"
+		"rd_lobby_tooltip_difficulty_easy_title"		"난이도: 쉬움"
 		"[english]rd_lobby_tooltip_difficulty_easy_desc"		"Enemy strength and number have been reduced."
 		"rd_lobby_tooltip_difficulty_easy_desc"		"무리의 체력, 공격력, 수가 감소합니다."
 		"[english]rd_lobby_tooltip_difficulty_normal_title"		"Difficulty: Normal"
