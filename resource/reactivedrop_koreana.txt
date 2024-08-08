@@ -8999,9 +8999,9 @@
 		"[english]rd_loadout_new"		"Create Loadout"
 		"rd_loadout_new"		"로드아웃 생성"
 		"[english]rd_loadout_save"		"Copy From Current"
-		"rd_loadout_save"		"Copy From Current"
-		"[english]rd_loadout_load"		"로드아웃 복사"
-		"rd_loadout_load"		"Copy To Current"
+		"rd_loadout_save"		"현재 로드아웃 복사"
+		"[english]rd_loadout_load"		"Copy To Current"
+		"rd_loadout_load"		"해당 로드아웃 복사"
 		"[english]rd_loadout_delete"		"Delete Loadout"
 		"rd_loadout_delete"		"로드아웃 삭제"
 		// button that opens the workshop page for a downloaded loadout
