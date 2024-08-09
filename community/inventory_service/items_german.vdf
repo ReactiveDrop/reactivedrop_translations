@@ -407,14 +407,14 @@
 "[english]item_crafting_material_probability_drive_description"		"A disk containing an excerpt from [i]A Million Random Digits with 100,000 Normal Deviates[/i], found while on a mission."
 "item_crafting_material_probability_drive_description"		"Eine Diskette mit einem Auszug aus [i]A Million Random Digits with 100,000 Normal Deviates[/i], gefunden während eines Einsatzes."
 
-		"[english]item_crafting_material_refined_wire_name"		"Sorted Wire"
-		"item_crafting_material_refined_wire_name"		"Sorted Wire"
-		"[english]item_crafting_material_refined_wire_description"		"A spool of repurposed wire."
-		"item_crafting_material_refined_wire_description"		"A spool of repurposed wire."
-		"[english]item_crafting_material_refined_carbon_name"		"Carbon Plates"
-		"item_crafting_material_refined_carbon_name"		"Carbon Plates"
-		"[english]item_crafting_material_refined_carbon_description"		"Carbon nanotubes arranged into super-strong plates."
-		"item_crafting_material_refined_carbon_description"		"Carbon nanotubes arranged into super-strong plates."
+"[english]item_crafting_material_refined_wire_name"		"Sorted Wire"
+"item_crafting_material_refined_wire_name"		"Sortierter Draht"
+"[english]item_crafting_material_refined_wire_description"		"A spool of repurposed wire."
+"item_crafting_material_refined_wire_description"		"Eine Spule mit wiederverwendetem Draht."
+"[english]item_crafting_material_refined_carbon_name"		"Carbon Plates"
+"item_crafting_material_refined_carbon_name"		"Kohlenstoffplatten"
+"[english]item_crafting_material_refined_carbon_description"		"Carbon nanotubes arranged into super-strong plates."
+"item_crafting_material_refined_carbon_description"		"Kohlenstoff-Nanoröhrchen, die zu superstarken Platten angeordnet sind."
 
 
 // Notifications are hidden items that cause a notification to appear in the game's main menu. The item records whether it has been seen by the player, and dismissing the notification deletes the item. Notifications will not appear for players who have opted out of seeing them.
@@ -554,8 +554,8 @@
 "item_donation_stargate_description"		"Stellt eine Spende an Stargate75 für deren Serverhosting in Deutschland dar."
 "[english]item_donation_hangumi_name"		"Donor: hangumi"
 "item_donation_hangumi_name"		"Spender: hangumi"
-		"[english]item_donation_hangumi_description"		"Represents a donation to hangumi, host of servers in Korea and contributor to the Korean translation."
-		"item_donation_hangumi_description"		"Represents a donation to hangumi, host of servers in Korea and contributor to the Korean translation."
+"[english]item_donation_hangumi_description"		"Represents a donation to hangumi, host of servers in Korea and contributor to the Korean translation."
+"item_donation_hangumi_description"		"Stellt eine Spende an hangumi für deren Beitrag an der koreanischen Übersetzung dar."
 "[english]item_donation_yojimbo_name"		"Donor: YOJIMBO"
 "item_donation_yojimbo_name"		"Spender: YOJIMBO"
 "[english]item_donation_yojimbo_description"		"Represents a donation to YOJIMBO, host of servers in Ireland."
@@ -600,9 +600,9 @@
 "item_donation_thescientist_name"		"Spender: TheScientist"
 "[english]item_donation_thescientist_description"		"Represents a donation to TheScientist, contributor to the Portuguese translation."
 "item_donation_thescientist_description"		"Stellt eine Spende an TheScientist für deren Beitrag an der portugiesischen Übersetzung dar."
-		"[english]item_donation_crazymanbos_name"		"Donor: Crazymanbos"
-		"item_donation_crazymanbos_name"		"Donor: Crazymanbos"
-		"[english]item_donation_crazymanbos_description"		"Represents a donation to Crazymanbos, contributor to the Swedish translation."
-		"item_donation_crazymanbos_description"		"Represents a donation to Crazymanbos, contributor to the Swedish translation."
+"[english]item_donation_crazymanbos_name"		"Donor: Crazymanbos"
+"item_donation_crazymanbos_name"		"Spender: Crazymanbos"
+"[english]item_donation_crazymanbos_description"		"Represents a donation to Crazymanbos, contributor to the Swedish translation."
+"item_donation_crazymanbos_description"		"Stellt eine Spende an Crazymanbos für deren Beitrag an der schwedischen Übersetzung dar."
 }
 }
