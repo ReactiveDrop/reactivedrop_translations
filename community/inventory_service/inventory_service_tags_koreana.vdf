@@ -68,7 +68,7 @@
 "inventory_crafting_item_single_use_tool"		"일회용 도구"
 		// common crafting materials. (100-1000 drop at a time)
 		"[english]inventory_crafting_item_ultra_common"		"Bulk Material"
-		"inventory_crafting_item_ultra_common"		"양산 소재"
+		"inventory_crafting_item_ultra_common"		"대량 소재"
 		// common crafting materials. (1-3 drop at a time)
 		"[english]inventory_crafting_item_common_part"		"Industrial Material"
 		"inventory_crafting_item_common_part"		"공업 소재"
