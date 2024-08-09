@@ -2720,7 +2720,7 @@
 "[english]L4D_Credits_FacesThanks"		"Thanks to the following for the use of their faces:"
 "L4D_Credits_FacesThanks"		"Дякуємо наступним особам за використання їхніх облич:"
 
-// Alien Swarm strings
+		// Alien Swarm strings
 
 		"[english]L4D360UI_Not_Joinable_Mod"		"Playing Version: %s1"
 		"L4D360UI_Not_Joinable_Mod"		"Playing Version: %s1"
