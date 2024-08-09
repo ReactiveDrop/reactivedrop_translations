@@ -1532,9 +1532,9 @@
 "L4D360UI_ModeCaps_offline_SS"		"오프라인 협동"
 
 		"[english]L4D360UI_FoudGames_CreateNew_campaign"		"CREATE LOBBY"
-		"L4D360UI_FoudGames_CreateNew_campaign"		"CREATE LOBBY"
+		"L4D360UI_FoudGames_CreateNew_campaign"		"로비 생성"
 		"[english]L4D360UI_FoudGames_CreateNew_single_mission"		"CREATE LOBBY"
-		"L4D360UI_FoudGames_CreateNew_single_mission"		"CREATE LOBBY"
+		"L4D360UI_FoudGames_CreateNew_single_mission"		"로비 생성"
 "[english]L4D360UI_FoudGames_CreateNewFlyout"		"Create Game"
 "L4D360UI_FoudGames_CreateNewFlyout"		"게임 생성"
 
@@ -2684,7 +2684,7 @@
 "[english]SessionError_SteamServersDisconnected"		"The connection to Steam was lost."
 "SessionError_SteamServersDisconnected"		"Steam과의 연결이 끊겼습니다."
 		"[english]SessionError_ClientDLL"		"This lobby is running a different version of Alien Swarm: Reactive Drop.\nIf you recently installed an update, it is possible that the host of this lobby has not updated yet."
-		"SessionError_ClientDLL"		"This lobby is running a different version of Alien Swarm: Reactive Drop.\nIf you recently installed an update, it is possible that the host of this lobby has not updated yet."
+        "SessionError_ClientDLL"		"이 로비는 다른 버전의 Alien Swarm: Reactive Drop 을 실행하고 있습니다.\n해당 로비에 접속이 되지 않는다면 로비 호스트가 게임을 업데이트하지 않았을 수도 있습니다."
 
 "[english]InviteError_Unknown"		"Failed to accept game invite.\nPlease try again."
 "InviteError_Unknown"		"게임 초대를 수락하지 못했습니다.\n다시 시도하십시오."
@@ -2721,14 +2721,14 @@
 "L4D_Credits_FacesThanks"		"초상 정보의 사용을 허가해주신 다음 분들께 감사의 말씀을 드립니다."
 
 		"[english]L4D360UI_Not_Joinable_Mod"		"Playing Version: %s1"
-		"L4D360UI_Not_Joinable_Mod"		"Playing Version: %s1"
+		"L4D360UI_Not_Joinable_Mod"		플레이 중인 버전: %s1"
 		"[english]L4D2360_JoinError_OtherTitle_Modded"		"Player is running a different version of Alien Swarm: Reactive Drop.\n"
-		"L4D2360_JoinError_OtherTitle_Modded"		"Player is running a different version of Alien Swarm: Reactive Drop.\n"
+		"L4D2360_JoinError_OtherTitle_Modded"		"이 플레이어는 현재 다른 버전의 Alien Swarm: Reactive Drop 을 플레이 중입니다.\n"
 
 		"[english]ASUI_LobbyName"		"LOBBY NAME"
-		"ASUI_LobbyName"		"LOBBY NAME"
+		"ASUI_LobbyName"		"로비 이름"
 		"[english]ASUI_LobbyName_tt"		"Enter a name for your lobby."
-		"ASUI_LobbyName_tt"		"Enter a name for your lobby."
+		"ASUI_LobbyName_tt"		"로비의 이름을 입력하십시오."
 "[english]ASUI_GameType"		"GAME TYPE"
 "ASUI_GameType"		"게임 유형"
 "[english]ASUI_GameType_tt"		"Select the type of game to play."
