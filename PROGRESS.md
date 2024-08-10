@@ -1,18 +1,18 @@
 # Overview
 | Language | basemodui | closecaption | gameui | reactivedrop | items | statsweb | Strings | Files |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [Simplified Chinese](#schinese-简体中文) | 1 | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
+| [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Traditional Chinese](#tchinese-繁體中文) | 14 | 141 | 33 | 3088 | 263 | 212 | 239 | 145 |
 | [Czech](#czech-čeština) | 76 | 1810 | 42 | 4227 | 269 | 212 | 983 | 145 |
 | [Danish](#non-curated-languages) | 57 | 231 | 42 | 3754 | 269 | 212 | 713 | 146 |
 | [Dutch](#non-curated-languages) | 56 | 2004 | 42 | 3222 | 269 | 212 | 713 | 145 |
 | [Finnish](#non-curated-languages) | 1 | 2004 | 41 | 3084 | 212 | 152 | 699 | 145 |
 | [French](#french-français) | 32 | 138 | 42 | 2589 | 268 | 212 | 653 | 124 |
-| [German](#german-deutsch) | 1 | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
+| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Hungarian](#non-curated-languages) | 56 | 138 | 42 | 3222 | 269 | 212 | 978 | 146 |
 | [Indonesian](#indonesian-indonesia) | 1286 | 2004 | 634 | 4734 | 272 | 216 | 983 | 146 |
-| [Italian](#italian-italiano) | 1 | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
-| [Japanese](#japanese-日本語) | 1 | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 35 | ✔️ |
+| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
+| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 35 | ✔️ |
 | [Korean](#koreana-한국어) | 12 | 10 | 38 | 1567 | 269 | 34 | 449 | 47 |
 | [Norwegian Bokmål](#non-curated-languages) | 74 | 708 | 47 | 3928 | 269 | 212 | 713 | 146 |
 | [Polish](#polish-polski) | 33 | 2004 | 42 | 3224 | 269 | 212 | 709 | 142 |
@@ -41,9 +41,7 @@
 
 </summary>
 
-### Strings
-
-- [basemodui_schinese.txt](resource/basemodui_schinese.txt) has 1 untranslated strings.
+✓ Up to date!
 
 </details>
 
@@ -570,9 +568,7 @@
 
 </summary>
 
-### Strings
-
-- [basemodui_german.txt](resource/basemodui_german.txt) has 1 untranslated strings.
+✓ Up to date!
 
 </details>
 
@@ -764,9 +760,7 @@
 
 </summary>
 
-### Strings
-
-- [basemodui_italian.txt](resource/basemodui_italian.txt) has 1 untranslated strings.
+✓ Up to date!
 
 </details>
 
@@ -779,7 +773,6 @@
 ### Strings
 
 - [platform/vgui_japanese.txt](platform/vgui_japanese.txt) has 35 untranslated strings.
-- [basemodui_japanese.txt](resource/basemodui_japanese.txt) has 1 untranslated strings.
 
 </details>
 
