@@ -6236,7 +6236,7 @@
 "asw_weapon_plasma_thrower_attributes"		"극강의 공격력, 저하된 명중률"
 "[english]asw_weapon_hack_tool"		"Hack Pad"
 "asw_weapon_hack_tool"		"해킹 패드"
-// HC = Hack-C, a character from Deep Rock Galactic. 42 = The Answer to the Ultimate Question of Life, The Universe, and Everything
+		// HC = Hack-C, a character from Deep Rock Galactic. 42 = The Answer to the Ultimate Question of Life, The Universe, and Everything
 		"[english]asw_weaponl_hack_tool"		"HC42 Automated Hacking Tool"
 		"asw_weaponl_hack_tool"		"HC42 Automated Hacking Tool"
 		"[english]asw_wdesc_hack_tool"		"An advanced IAF tech-issue 'circuit breaker' hacking device, developed in the high security IAF labs.  Offering a variety of intelligent circuit analyzers and bypassing logic gate systems, this tool can be used by any marine to bypass security systems.  Tech marines can use this tool to hack at twice the speed."
@@ -9049,13 +9049,13 @@
 // This message appears both if a filesystem error occurs or if the demo had an unrecoverable error in it (such as when the game crashes while recording a demo).
 "[english]rd_demo_cant_play_failed_open"		"Could not read demo file."
 "rd_demo_cant_play_failed_open"		"데모 파일을 읽을 수 없습니다."
-// %s1 is game folder name which is different than "reactivedrop", for example "hl2" or "left4dead2".
+		// %s1 is game folder name which is different than "reactivedrop", for example "hl2" or "left4dead2".
 		"[english]rd_demo_cant_play_other_game"		"Not a Reactive Drop demo - recorded by \"%s1\"."
 		"rd_demo_cant_play_other_game"		"Not a Reactive Drop demo - recorded by \"%s1\"."
-// %s1 and %s2 are both four part version numbers (specifically the PatchVersion from steam.inf)
+		// %s1 and %s2 are both four part version numbers (specifically the PatchVersion from steam.inf)
 		"[english]rd_demo_cant_play_old_version"		"Reactive Drop %s1 cannot play a version %s2 demo."
 		"rd_demo_cant_play_old_version"		"Reactive Drop %s1 cannot play a version %s2 demo."
-// %s1 is a map filename like asi-jac01-landingbay_01
+		// %s1 is a map filename like asi-jac01-landingbay_01
 		"[english]rd_demo_cant_play_missing_map"		"Map \"%s1\" is not installed."
 		"rd_demo_cant_play_missing_map"		"Map \"%s1\" is not installed."
 		"[english]rd_demo_size"		"%s1 MB"
@@ -9159,7 +9159,7 @@
 "[english]tf_dingalingaling_Swarm"		"Swarm"
 "tf_dingalingaling_Swarm"		"스웜"
 
-// %s1 is mapper-specified label text. %s2 is a number. %s3 is the amount the number will change by soon.
+		// %s1 is mapper-specified label text. %s2 is a number. %s3 is the amount the number will change by soon.
 		"[english]asw_hud_counter_format"		"%s1: %s2"
 		"asw_hud_counter_format"		"%s1: %s2"
 		"[english]asw_hud_counter_format_increase"		"%s1: %s2 +%s3"
@@ -9172,7 +9172,7 @@
 		"asw_hud_counter_format_increase_nolabel"		"%s2 +%s3"
 		"[english]asw_hud_counter_format_decrease_nolabel"		"%s2 -%s3"
 		"asw_hud_counter_format_decrease_nolabel"		"%s2 -%s3"
-// The value of money is abstract and there's no references to real-world conversion rates, so feel free to change the currency symbol to something relevant to people who speak your language and optionally add some zeroes at the end.
+		// The value of money is abstract and there's no references to real-world conversion rates, so feel free to change the currency symbol to something relevant to people who speak your language and optionally add some zeroes at the end.
 		"[english]asw_money_format"		"$%s1"
 		"asw_money_format"		"$%s1"
 
@@ -9279,7 +9279,7 @@
 
 "[english]rd_ticker_title"		"IAF News"
 "rd_ticker_title"		"IAF 뉴스"
-// these are imaginary stock market updates on the main menu. %s1 is the company name, %s2 is the symbol (like SYN for SynTek; symbols are not translated), %s3 is a number like 1.23 for how much the stock price changed, and %s4 is a number like 1234.56 for the final stock price.
+		// these are imaginary stock market updates on the main menu. %s1 is the company name, %s2 is the symbol (like SYN for SynTek; symbols are not translated), %s3 is a number like 1.23 for how much the stock price changed, and %s4 is a number like 1234.56 for the final stock price.
 		"[english]rd_ticker_stock_up"		"%s1 (%s2) up +%s3 points (%s4)"
 		"rd_ticker_stock_up"		"%s1 (%s2) up +%s3 points (%s4)"
 		"[english]rd_ticker_stock_down"		"%s1 (%s2) down -%s3 points (%s4)"
@@ -10148,13 +10148,13 @@
 "rd_lobby_option_challenge_required_hint"		"도전이 활성화된 로비만 표시합니다"
 "[english]rd_lobby_option_distance_title"		"Maximum Distance"
 "rd_lobby_option_distance_title"		"최대 거리"
-// option name is #L4D360UI_FoundPublicGames_Filter_Distance_Close
+		// option name is #L4D360UI_FoundPublicGames_Filter_Distance_Close
 		"[english]rd_lobby_option_distance_close_hint"		"Only show player-hosted lobbies if the lobby host is in the same immediate region as you. This setting does not affect dedicated servers."
 		"rd_lobby_option_distance_close_hint"		"Only show player-hosted lobbies if the lobby host is in the same immediate region as you. This setting does not affect dedicated servers."
-// option name is #L4D360UI_FoundPublicGames_Filter_Distance_Default (the word "default" is from the Steam API; AS:RD defaults to Worldwide)
+		// option name is #L4D360UI_FoundPublicGames_Filter_Distance_Default (the word "default" is from the Steam API; AS:RD defaults to Worldwide)
 		"[english]rd_lobby_option_distance_default_hint"		"Only show player-hosted lobbies if the lobby host is in a nearby region to you. This setting does not affect dedicated servers."
 		"rd_lobby_option_distance_default_hint"		"Only show player-hosted lobbies if the lobby host is in a nearby region to you. This setting does not affect dedicated servers."
-// option name is #L4D360UI_FoundPublicGames_Filter_Distance_Far
+		// option name is #L4D360UI_FoundPublicGames_Filter_Distance_Far
 		"[english]rd_lobby_option_distance_far_hint"		"Only show player-hosted lobbies if the lobby host is on the same side of the planet as you. This setting does not affect dedicated servers."
 		"rd_lobby_option_distance_far_hint"		"Only show player-hosted lobbies if the lobby host is on the same side of the planet as you. This setting does not affect dedicated servers."
 // option name is #L4D360UI_FoundPublicGames_Filter_Distance_Worldwide
@@ -10294,7 +10294,7 @@
 "[english]rd_notification_filter_reports_title"		"Reports"
 "rd_notification_filter_reports_title"		"보고"
 "[english]rd_notification_filter_reports_desc"		"Non-critical notifications about reports."
-	"rd_notification_filter_reports_desc"		"중요하지 않은 보고 내용."
+"rd_notification_filter_reports_desc"		"중요하지 않은 보고 내용."
 
 "[english]rd_hoiaf_bounty_title"		"Mission bounties available."
 "rd_hoiaf_bounty_title"		"이용 가능한 현상금 임무."
@@ -10367,9 +10367,9 @@
 
 "[english]rd_crafting_beta1_signup_title"		"Crafting Materials Beta - Phase 1"
 "rd_crafting_beta1_signup_title"		"소재 제작 베타 - 페이즈 1"
-// this is a letter from Helvetica Scenario to the player.
-// the "office" she is referring to is the Office of Consensus Maintenance, her employer.
-// %s1 is the player's display name.
+		// this is a letter from Helvetica Scenario to the player.
+		// the "office" she is referring to is the Office of Consensus Maintenance, her employer.
+		// %s1 is the player's display name.
 		"[english]rd_crafting_beta1_signup_flavor"		"Cmdr. %s1,\n\nYour surveying work with the IAF over the past few months has been invaluable. The Office recently finished collating the data and I'm pleased to report the discovery of several anomalous materials. We'd like your help studying them. Frankly, there's a lot of questions we'd like answered and I can't spare the manpower.\n\nIf you accept, your marines will be authorized to perceive these materials while they're on their missions. I've been authorized to offer you a little signing bonus to grease the wheels. And, of course, you can keep whatever you find out in the field.\n\nLet me know.\n\nBest,\nDr. Helvetica Scenario\nEcological Consistency Dept.\nOffice of Consensus Maintenance"
 		"rd_crafting_beta1_signup_flavor"		"Cmdr. %s1,\n\nYour surveying work with the IAF over the past few months has been invaluable. The Office recently finished collating the data and I'm pleased to report the discovery of several anomalous materials. We'd like your help studying them. Frankly, there's a lot of questions we'd like answered and I can't spare the manpower.\n\nIf you accept, your marines will be authorized to perceive these materials while they're on their missions. I've been authorized to offer you a little signing bonus to grease the wheels. And, of course, you can keep whatever you find out in the field.\n\nLet me know.\n\nBest,\nDr. Helvetica Scenario\nEcological Consistency Dept.\nOffice of Consensus Maintenance"
 		"[english]rd_crafting_beta1_signup_explanation"		"If you join the Alien Swarm: Reactive Crafting Materials Beta - Phase 1, the following things will happen:\n• You will be able to find and collect crafting materials during missions, initially on the beta branch only, but later expanding to the non-beta branch.\n• Your Steam account ID will be added to a list that we will use to compute some statistics about how people interact with the crafting materials system.\n• You will receive a box containing one Strange weapon of your choice. Strange weapons have the same stats, appearance, and requirements as their non-Strange counterparts, but are compatible with \"Strange Devices\", tiny computers that track and display statistics about your weapon. (Strange weapons can currently only be equipped on the beta branch, but will become equippable in non-beta by the end of Phase 1.)\n• You will receive two boxes each containing a Strange Device of your choice.\n• You will receive a bonus set of crafting material locations (as if you had played for six hours).\n• You are encouraged (but not required) to give feedback about your experience with the Crafting Materials Beta on the Steam discussions forum for Alien Swarm: Reactive Drop or on Discord.\n\nThe following things will happen regardless of your choice:\n• Since January 2024, you have been passively finding a large quantity of crafting material locations by playing at least 30 minutes in a week and a smaller quantity of crafting material locations for every 6 total hours of play-time. You will continue to passively find these locations regardless of your participation in this beta.\n• Any crafting materials you find (either during the beta or after the full release) are yours to do with as you see fit.\n• You will eventually be able to craft strange weapons and strange devices. We may also offer additional Beta Tester's Strange Boxes for future phases of the beta before the full release."
@@ -10418,7 +10418,7 @@
 
 "[english]rd_attach_strange_device_warning_title"		"Strange Devices cannot be recovered"
 "rd_attach_strange_device_warning_title"		"이상한 장치를 복구할 수 없습니다"
-// %s1 is item name; %s2 is accessory (strange device) name; %s3 is a number, usually 4.
+		// %s1 is item name; %s2 is accessory (strange device) name; %s3 is a number, usually 4.
 		"[english]rd_attach_strange_device_warning_desc"		"Are you sure you want to permanently attach '%s2' to '%s1'?\nOnce attached, the strange device cannot be retrieved or removed, and one of the item's %s3 strange device slots will be permanently consumed."
 		"rd_attach_strange_device_warning_desc"		"Are you sure you want to permanently attach '%s2' to '%s1'?\nOnce attached, the strange device cannot be retrieved or removed, and one of the item's %s3 strange device slots will be permanently consumed."
 
