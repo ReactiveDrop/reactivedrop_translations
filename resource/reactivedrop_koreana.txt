@@ -10157,7 +10157,7 @@
 		// option name is #L4D360UI_FoundPublicGames_Filter_Distance_Far
 		"[english]rd_lobby_option_distance_far_hint"		"Only show player-hosted lobbies if the lobby host is on the same side of the planet as you. This setting does not affect dedicated servers."
 		"rd_lobby_option_distance_far_hint"		"Only show player-hosted lobbies if the lobby host is on the same side of the planet as you. This setting does not affect dedicated servers."
-// option name is #L4D360UI_FoundPublicGames_Filter_Distance_Worldwide
+		// option name is #L4D360UI_FoundPublicGames_Filter_Distance_Worldwide
 		"[english]rd_lobby_option_distance_worldwide_hint"		"Show all player-hosted lobbies regardless of distance. This setting does not affect dedicated servers."
 		"rd_lobby_option_distance_worldwide_hint"		"Show all player-hosted lobbies regardless of distance. This setting does not affect dedicated servers."
 "[english]rd_lobby_option_always_friends_title"		"Always Show Friends"
@@ -10361,7 +10361,7 @@
 "rd_mission_modifier_crafting"		"해당 임무에서 제작 재료를 찾을 수 있습니다."
 "[english]rd_mission_modifier_crafting_campaign"		"Crafting materials can currently be found in at least one mission in this campaign."
 "rd_mission_modifier_crafting_campaign"		"해당 작전의 임무 중 한 곳에서 제작 재료를 찾을 수 있습니다."
-// %s1 is one of the rd_crafting_material_rarity_* strings; %s2 is a number
+		// %s1 is one of the rd_crafting_material_rarity_* strings; %s2 is a number
 		"[english]rd_mission_modifier_crafting_rarity"		"%s1: %s2"
 		"rd_mission_modifier_crafting_rarity"		"%s1: %s2"
 
