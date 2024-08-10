@@ -5742,7 +5742,7 @@
 "[english]rd_weapon_fact_ammo_bullet_before"		""
 "rd_weapon_fact_ammo_bullet_before"		""
 		"[english]rd_weapon_fact_ammo_bullet_after"		" bullets"
-			"rd_weapon_fact_ammo_bullet_after"		" 발"
+		"rd_weapon_fact_ammo_bullet_after"		" 발"
 		"[english]rd_weapon_fact_ammo_slash"		"Ammo"
 		"rd_weapon_fact_ammo_slash"		"탄창 용량"
 "[english]rd_weapon_fact_ammo_slash_before"		""
