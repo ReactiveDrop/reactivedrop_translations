@@ -10096,7 +10096,7 @@
 "[english]rd_lobby_option_hardcoreff_required_hint"		"Only show lobbies with hardcore friendly fire."
 "rd_lobby_option_hardcoreff_required_hint"		"Visa bara lobbyer med hardcore vänskaplig eld."
 "[english]rd_lobby_option_dedicated_title"		"Host Type"
-"rd_lobby_option_dedicated_title"		"Värd typ"
+"rd_lobby_option_dedicated_title"		"Värd Typ"
 "[english]rd_lobby_option_dedicated_any"		"No Preference"
 "rd_lobby_option_dedicated_any"		"Ingen preferens"
 "[english]rd_lobby_option_dedicated_any_hint"		"Show both dedicated servers and player-hosted lobbies."
@@ -10152,16 +10152,16 @@
 "[english]rd_lobby_option_distance_worldwide_hint"		"Show all player-hosted lobbies regardless of distance. This setting does not affect dedicated servers."
 "rd_lobby_option_distance_worldwide_hint"		"Visa alla spelare värdar lobbyn oavsett avstånd. Den här inställningen påverkar inte dedikerade servrar."
 "[english]rd_lobby_option_always_friends_title"		"Always Show Friends"
-"rd_lobby_option_always_friends_title"		"Alltid Visa Vänner"
+"rd_lobby_option_always_friends_title"		"Visa Alltid Vänner"
 "[english]rd_lobby_option_always_friends_hint"		"Show lobbies with friends in them regardless of other settings on this screen."
 "rd_lobby_option_always_friends_hint"		"Visa lobbyer med vänner i dem oavsett andra inställningar på den här skärmen."
 
 "[english]rd_lobby_tooltip_type_lobby_title"		"Player-Hosted Lobby"
-"rd_lobby_tooltip_type_lobby_title"		"Spelar-Hosted Lobby"
+"rd_lobby_tooltip_type_lobby_title"		"Spelar-Värd Lobby"
 "[english]rd_lobby_tooltip_type_lobby_desc"		"This lobby is being run by a player."
 "rd_lobby_tooltip_type_lobby_desc"		"Denna server drivs av en spelare."
 "[english]rd_lobby_tooltip_type_server_title"		"Community Server"
-"rd_lobby_tooltip_type_server_title"		"Gemenskaps Server"
+"rd_lobby_tooltip_type_server_title"		"Gemenskapsserver"
 "[english]rd_lobby_tooltip_type_server_desc"		"This server is hosted by a member of the Alien Swarm: Reactive Drop community."
 "rd_lobby_tooltip_type_server_desc"		"Denna server är värd för en medlem av Alien Swarm: Reactive Drop-communityt."
 "[english]rd_lobby_tooltip_type_modded_title"		"Modded Community Server"
@@ -10183,7 +10183,7 @@
 "[english]rd_lobby_tooltip_type_ranked_server_title"		"Ranked Server"
 "rd_lobby_tooltip_type_ranked_server_title"		"Rankad Server"
 "[english]rd_lobby_tooltip_type_ranked_server_desc"		"This community server is participating in Heroes of the Interstellar Armed Forces."
-"rd_lobby_tooltip_type_ranked_server_desc"		"Den här communityservern deltar i Hjältar av Interstellar Armed Forces."
+"rd_lobby_tooltip_type_ranked_server_desc"		"Den här communityservern deltar i Heroes of the Interstellar Armed Forces."
 
 "[english]rd_lobby_tooltip_difficulty_deathmatch_title"		"PvP: Deathmatch"
 "rd_lobby_tooltip_difficulty_deathmatch_title"		"PvP: Dödsmatch"
@@ -10231,12 +10231,12 @@
 "[english]rd_lobby_tooltip_hardcoreff_desc"		"Damage to other marines is not reduced."
 "rd_lobby_tooltip_hardcoreff_desc"		"Skada mot andra marinsoldater är inte reducerad."
 "[english]rd_lobby_tooltip_challenge_title"		"Challenge Active"
-"rd_lobby_tooltip_challenge_title"		"Utmaning Aktiv"
+"rd_lobby_tooltip_challenge_title"		"Utmaning aktiv"
 "[english]rd_lobby_tooltip_challenge_desc"		"A custom game mode is active in this lobby."
 "rd_lobby_tooltip_challenge_desc"		"Ett anpassat spelläge är aktivt i denna lobby."
 
 "[english]rd_lobby_tooltip_ping_title"		"Estimated Ping (Connection Latency)"
-"rd_lobby_tooltip_ping_title"		"Uppskattad Ping (Anslutningslatens)"
+"rd_lobby_tooltip_ping_title"		"Uppskattad ping (Anslutningslatens)"
 "[english]rd_lobby_tooltip_ping_low_desc"		"Your connection to this lobby is likely to have a very low round trip time, resulting in the best possible experience."
 "rd_lobby_tooltip_ping_low_desc"		"Din anslutning till denna lobby kommer sannolikt att ha en mycket kort tur och retur, vilket resulterar i bästa möjliga upplevelse."
 "[english]rd_lobby_tooltip_ping_medium_desc"		"Your connection to this lobby is likely to have a moderate round trip time, resulting in an acceptable experience."
@@ -10288,7 +10288,7 @@
 "rd_notification_filter_reports_desc"		"Icke-kritiska meddelanden om rapporter."
 
 "[english]rd_hoiaf_bounty_title"		"Mission bounties available."
-"rd_hoiaf_bounty_title"		"Uppdrags belöningar tillgängliga."
+"rd_hoiaf_bounty_title"		"Uppdragsbelöningar tillgängliga."
 "[english]rd_hoiaf_bounty_desc"		"Complete each of these missions on a participating Heroes of the Interstellar Armed Forces server within the time limit to receive bonus points."
 "rd_hoiaf_bounty_desc"		"Slutför vart och ett av dessa uppdrag på en deltagande Heroes of the Interstellar Armed Forces-server inom tidsgränsen för att få bonuspoäng."
 "[english]rd_hoiaf_bounty_fully_claimed"		"All bonuses claimed!"
@@ -10335,10 +10335,10 @@
 "rd_player_found_crafting_materials"		"%s1 har hittat %s3× %s2."
 // Only shown to the player who tried to pick up the item. %s1 is the name of the crafting material. %s2 is a number like 37. %s3 is a non-translated string like k_EResultIOFailure.
 "[english]rd_crafting_pickup_error"		"Encountered a problem while trying to pick up '%s1'. The material has moved to somewhere else. (Error %s2: %s3)"
-"rd_crafting_pickup_error"		"Stötte på ett problems vid försök att plocka upp '%s1'. Materialet har flyttats någon annanstans. (Error %s2: %s3)"
+"rd_crafting_pickup_error"		"Stötte på ett problem vid försök att plocka upp '%s1'. Materialet har flyttats någon annanstans. (Error %s2: %s3)"
 // %s1 is a crafting material name like Scrap Metal.
 "[english]rd_crafting_pickup_prompt"		"Collect %s1"
-"rd_crafting_pickup_prompt"		"Plocka upp %s1"
+"rd_crafting_pickup_prompt"		"Samla in %s1"
 
 "[english]rd_mission_modifier_workshop"		"This mission was downloaded from the Steam Workshop."
 "rd_mission_modifier_workshop"		"Detta uppdrag var nedladdat från Steam Workshoppen."
@@ -10357,7 +10357,7 @@
 "rd_mission_modifier_crafting_rarity"		"%s1: %s2"
 
 "[english]rd_crafting_beta1_signup_title"		"Crafting Materials Beta - Phase 1"
-"rd_crafting_beta1_signup_title"		"Hantverksmaterial Beta - Fas 1"
+"rd_crafting_beta1_signup_title"		"Hantverksmaterialsbetan - Fas 1"
 // this is a letter from Helvetica Scenario to the player.
 // the "office" she is referring to is the Office of Consensus Maintenance, her employer.
 // %s1 is the player's display name.
@@ -10373,7 +10373,7 @@
 "rd_crafting_beta1_signup_already"		"Du har framgångsrikt registrerat dig för fas 1 av betan."
 
 "[english]rd_unbox_strange_weapon_title"		"Choose Strange Weapon"
-"rd_unbox_strange_weapon_title"		"Välj Avvikande Vapen"
+"rd_unbox_strange_weapon_title"		"Välj Avvikande vapen"
 "[english]rd_unbox_strange_weapon_flavor"		"As you imagine the possible contents of the box, the weight inside the box shifts as if it is responding to your mind. You focus your thoughts on a specific weapon and open the box to find it."
 "rd_unbox_strange_weapon_flavor"		"När du föreställer dig det möjliga innehållet i lådan, skiftar vikten inuti lådan som om den svarar på ditt sinne. Du fokuserar dina tankar på ett specifikt vapen och öppnar lådan för att hitta det."
 "[english]rd_unbox_strange_weapon_warning_already_owned"		"You already own a Strange weapon of this type."
@@ -10400,12 +10400,12 @@
 "[english]rd_unbox_strange_confirm"		"MAKE DECISION"
 "rd_unbox_strange_confirm"		"GÖR VAL"
 "[english]rd_unbox_strange_cancel"		"Decide Later"
-"rd_unbox_strange_cancel"		"Bestäm Senare"
+"rd_unbox_strange_cancel"		"Besluta senare"
 // If warnings are present, the UI asks for confirmation after the decision is made, allowing the player to back out.
 "[english]rd_unbox_strange_warnings_title"		"Warnings Present"
-"rd_unbox_strange_warnings_title"		"Närvarande Varningar"
+"rd_unbox_strange_warnings_title"		"Närvarande varningar"
 "[english]rd_unbox_strange_warnings_desc"		"Accept item despite the warnings?"
-"rd_unbox_strange_warnings_desc"		"Acceptera föremål trots varningarna?"
+"rd_unbox_strange_warnings_desc"		"Vill du acceptera föremål trots varningarna?"
 
 "[english]rd_attach_strange_device_warning_title"		"Strange Devices cannot be recovered"
 "rd_attach_strange_device_warning_title"		"Avvikande Enheter kan inte återställas"
@@ -10425,7 +10425,7 @@
 "[english]rd_redeem_special_unavailable"		"These items are not currently available."
 "rd_redeem_special_unavailable"		"Dessa föremål är för närvarande inte tillgängliga."
 "[english]rd_redeem_special_success"		"Success! The items have been added to your inventory."
-"rd_redeem_special_success"		"Framgång! Artiklarna har lagts till i ditt lager."
+"rd_redeem_special_success"		"Succé! Artiklarna har lagts till i ditt lager."
 
 // These should match the inventory_crafting_item_* translations in inventory_service_tags!
 "[english]rd_crafting_material_rarity_industrial"		"Industrial"
