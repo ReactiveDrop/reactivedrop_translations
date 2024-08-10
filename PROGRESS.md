@@ -13,7 +13,7 @@
 | [Indonesian](#indonesian-indonesia) | 1286 | 2004 | 634 | 4734 | 272 | 216 | 983 | 146 |
 | [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 35 | ✔️ |
-| [Korean](#koreana-한국어) | 12 | 10 | 38 | 1567 | 269 | 34 | 449 | 47 |
+| [Korean](#koreana-한국어) | 11 | 10 | 38 | 1567 | 269 | 34 | 449 | 47 |
 | [Norwegian Bokmål](#non-curated-languages) | 74 | 708 | 47 | 3928 | 269 | 212 | 713 | 146 |
 | [Polish](#polish-polski) | 33 | 2004 | 42 | 3224 | 269 | 212 | 709 | 142 |
 | [European Portuguese](#portuguese-português-europeu) | 5 | 180 | 32 | 2313 | 249 | 33 | 633 | 140 |
@@ -792,7 +792,7 @@
 - [workshop_description_koreana.vdf](community/workshop/workshop_description_koreana.vdf) has 6 untranslated strings.
 - [misc/signage/signage_koreana.vdf](misc/signage/signage_koreana.vdf) has 69 untranslated strings.
 - [platform/vgui_koreana.txt](platform/vgui_koreana.txt) has 88 untranslated strings.
-- [basemodui_koreana.txt](resource/basemodui_koreana.txt) has 12 untranslated strings.
+- [basemodui_koreana.txt](resource/basemodui_koreana.txt) has 11 untranslated strings.
 - [closecaption_koreana.txt](resource/closecaption_koreana.txt) has 10 untranslated strings.
 - [gameui_koreana.txt](resource/gameui_koreana.txt) has 38 untranslated strings.
 - [reactivedrop_koreana.txt](resource/reactivedrop_koreana.txt) has 1567 untranslated strings.
