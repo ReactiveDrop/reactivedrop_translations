@@ -2720,7 +2720,7 @@
 "[english]L4D_Credits_FacesThanks"		"Thanks to the following for the use of their faces:"
 "L4D_Credits_FacesThanks"		"초상 정보의 사용을 허가해주신 다음 분들께 감사의 말씀을 드립니다."
 
-		// Alien Swarm strings
+// Alien Swarm strings
 
 "[english]L4D360UI_Not_Joinable_Mod"		"Playing Version: %s1"
 "L4D360UI_Not_Joinable_Mod"		"플레이 중인 버전: %s1"

@@ -66,7 +66,7 @@
 "inventory_crafting_item"		"아이템 제작"
 "[english]inventory_crafting_item_single_use_tool"		"Single-Use Tool"
 "inventory_crafting_item_single_use_tool"		"일회용 도구"
-		// common crafting materials. (100-1000 drop at a time)
+// common crafting materials. (100-1000 drop at a time)
 "[english]inventory_crafting_item_ultra_common"		"Bulk Material"
 "inventory_crafting_item_ultra_common"		"대량 소재"
 // common crafting materials. (1-3 drop at a time)
@@ -93,7 +93,7 @@
 // "postage stamps" that cost $1 (or equivalent), with the proceeds going to a mapper.
 "[english]item_store_category_mapstamp"		"Map Stamps"
 "item_store_category_mapstamp"		"지도 우표"
-		// the same, but for artists.
+// the same, but for artists.
 "[english]item_store_category_artiststamp"		"Artists"
 "item_store_category_artiststamp"		"창작자"
 // the same, but for programmers.
@@ -102,7 +102,7 @@
 // the same, but for server hosts.
 "[english]item_store_category_serverhoststamp"		"Server Hosts"
 "item_store_category_serverhoststamp"		"서버 관리자"
-		// the same, but for translators.
+// the same, but for translators.
 "[english]item_store_category_translatorstamp"		"Translators"
 "item_store_category_translatorstamp"		"번역가"
 }

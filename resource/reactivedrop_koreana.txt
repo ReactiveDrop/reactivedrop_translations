@@ -9052,10 +9052,10 @@
 // %s1 is game folder name which is different than "reactivedrop", for example "hl2" or "left4dead2".
 		"[english]rd_demo_cant_play_other_game"		"Not a Reactive Drop demo - recorded by \"%s1\"."
 		"rd_demo_cant_play_other_game"		"Not a Reactive Drop demo - recorded by \"%s1\"."
-		// %s1 and %s2 are both four part version numbers (specifically the PatchVersion from steam.inf)
+// %s1 and %s2 are both four part version numbers (specifically the PatchVersion from steam.inf)
 		"[english]rd_demo_cant_play_old_version"		"Reactive Drop %s1 cannot play a version %s2 demo."
 		"rd_demo_cant_play_old_version"		"Reactive Drop %s1 cannot play a version %s2 demo."
-		// %s1 is a map filename like asi-jac01-landingbay_01
+// %s1 is a map filename like asi-jac01-landingbay_01
 		"[english]rd_demo_cant_play_missing_map"		"Map \"%s1\" is not installed."
 		"rd_demo_cant_play_missing_map"		"Map \"%s1\" is not installed."
 		"[english]rd_demo_size"		"%s1 MB"
@@ -9159,7 +9159,7 @@
 "[english]tf_dingalingaling_Swarm"		"Swarm"
 "tf_dingalingaling_Swarm"		"스웜"
 
-		// %s1 is mapper-specified label text. %s2 is a number. %s3 is the amount the number will change by soon.
+// %s1 is mapper-specified label text. %s2 is a number. %s3 is the amount the number will change by soon.
 		"[english]asw_hud_counter_format"		"%s1: %s2"
 		"asw_hud_counter_format"		"%s1: %s2"
 		"[english]asw_hud_counter_format_increase"		"%s1: %s2 +%s3"
@@ -9172,7 +9172,7 @@
 		"asw_hud_counter_format_increase_nolabel"		"%s2 +%s3"
 		"[english]asw_hud_counter_format_decrease_nolabel"		"%s2 -%s3"
 		"asw_hud_counter_format_decrease_nolabel"		"%s2 -%s3"
-		// The value of money is abstract and there's no references to real-world conversion rates, so feel free to change the currency symbol to something relevant to people who speak your language and optionally add some zeroes at the end.
+// The value of money is abstract and there's no references to real-world conversion rates, so feel free to change the currency symbol to something relevant to people who speak your language and optionally add some zeroes at the end.
 		"[english]asw_money_format"		"$%s1"
 		"asw_money_format"		"$%s1"
 
