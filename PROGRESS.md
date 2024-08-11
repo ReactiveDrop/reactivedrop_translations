@@ -1,7 +1,7 @@
 # Overview
 | Language | basemodui | closecaption | gameui | reactivedrop | items | statsweb | Strings | Files |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | ✔️ | 7 | ✔️ | ✔️ | ✔️ | ✔️ |
+| [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Traditional Chinese](#tchinese-繁體中文) | 14 | 141 | 33 | 3093 | 263 | 212 | 239 | 145 |
 | [Czech](#czech-čeština) | 76 | 1810 | 42 | 4232 | 269 | 212 | 983 | 145 |
 | [Danish](#non-curated-languages) | 57 | 231 | 42 | 3759 | 269 | 212 | 713 | 146 |
@@ -41,9 +41,7 @@
 
 </summary>
 
-### Strings
-
-- [reactivedrop_schinese.txt](resource/reactivedrop_schinese.txt) has 7 untranslated strings.
+✓ Up to date!
 
 </details>
 
