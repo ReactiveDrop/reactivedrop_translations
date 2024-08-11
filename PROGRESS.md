@@ -19,7 +19,7 @@
 | [European Portuguese](#portuguese-português-europeu) | 5 | 180 | 32 | 2318 | 249 | 33 | 633 | 140 |
 | [Brazilian Portuguese](#brazilian-português) | 1 | ✔️ | ✔️ | 1488 | 11 | 3 | 1 | 1 |
 | [Romanian](#non-curated-languages) | 56 | 1996 | 48 | 3939 | 269 | 212 | 978 | 146 |
-| [Russian](#russian-русский) | 1 | ✔️ | ✔️ | 7 | ✔️ | ✔️ | ✔️ | ✔️ |
+| [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [European Spanish](#spanish-español-de-españa) | 33 | 2004 | 40 | 2644 | 269 | 212 | 717 | 145 |
 | [Latin American Spanish](#latam-español-latinoamericano) | 1 | 2004 | ✔️ | 4279 | 17 | 3 | 204 | 141 |
 | [Swedish](#swedish-svenska) | ✔️ | ✔️ | ✔️ | 887 | ✔️ | ✔️ | ✔️ | 86 |
@@ -1239,10 +1239,7 @@
 
 </summary>
 
-### Strings
-
-- [basemodui_russian.txt](resource/basemodui_russian.txt) has 1 untranslated strings.
-- [reactivedrop_russian.txt](resource/reactivedrop_russian.txt) has 7 untranslated strings.
+✓ Up to date!
 
 </details>
 
