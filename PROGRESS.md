@@ -13,7 +13,7 @@
 | [Indonesian](#indonesian-indonesia) | 1286 | 2004 | 634 | 4739 | 272 | 216 | 983 | 146 |
 | [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | 7 | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 35 | ✔️ |
-| [Korean](#koreana-한국어) | 7 | 10 | 38 | 978 | 6 | 34 | 411 | 47 |
+| [Korean](#koreana-한국어) | ✔️ | ✔️ | ✔️ | 978 | 6 | 30 | 403 | 47 |
 | [Norwegian Bokmål](#non-curated-languages) | 74 | 708 | 47 | 3933 | 269 | 212 | 713 | 146 |
 | [Polish](#polish-polski) | 33 | 2004 | 42 | 3229 | 269 | 212 | 709 | 142 |
 | [European Portuguese](#portuguese-português-europeu) | 5 | 180 | 32 | 2318 | 249 | 33 | 633 | 140 |
@@ -792,14 +792,10 @@
 
 - [addons/RiskOfRain/reactivedrop_koreana.txt](addons/RiskOfRain/resource/reactivedrop_koreana.txt) has 95 untranslated strings.
 - [items_koreana.vdf](community/inventory_service/items_koreana.vdf) has 6 untranslated strings.
-- [statsweb_koreana.vdf](community/stats_website/statsweb_koreana.vdf) has 34 untranslated strings.
+- [statsweb_koreana.vdf](community/stats_website/statsweb_koreana.vdf) has 30 untranslated strings.
 - [steam_input_koreana.vdf](community/steam_input/steam_input_koreana.vdf) has 85 untranslated strings.
-- [workshop_description_koreana.vdf](community/workshop/workshop_description_koreana.vdf) has 6 untranslated strings.
 - [misc/signage/signage_koreana.vdf](misc/signage/signage_koreana.vdf) has 69 untranslated strings.
-- [platform/vgui_koreana.txt](platform/vgui_koreana.txt) has 60 untranslated strings.
-- [basemodui_koreana.txt](resource/basemodui_koreana.txt) has 7 untranslated strings.
-- [closecaption_koreana.txt](resource/closecaption_koreana.txt) has 10 untranslated strings.
-- [gameui_koreana.txt](resource/gameui_koreana.txt) has 38 untranslated strings.
+- [platform/vgui_koreana.txt](platform/vgui_koreana.txt) has 58 untranslated strings.
 - [reactivedrop_koreana.txt](resource/reactivedrop_koreana.txt) has 978 untranslated strings.
 - [valve_koreana.txt](resource/valve_koreana.txt) has 96 untranslated strings.
 
