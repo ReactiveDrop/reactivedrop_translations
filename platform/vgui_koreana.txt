@@ -280,11 +280,11 @@
 		"[english]AssetBuilder_AbortCompile"		"Abort"
 		"AssetBuilder_AbortCompile"		"Abort"
 
-		"[english]AssetPicker_Rescan"		"Rescan"
-		"AssetPicker_Rescan"		"Rescan"
+"[english]AssetPicker_Rescan"		"Rescan"
+"AssetPicker_Rescan"		"재탐색"
 
-		"[english]SequencePicker_Defaults"		"Defaults"
-		"SequencePicker_Defaults"		"Defaults"
+"[english]SequencePicker_Defaults"		"Defaults"
+"SequencePicker_Defaults"		"기본"
 		"[english]SequencePicker_RootMotion"		"Generate root motion"
 		"SequencePicker_RootMotion"		"Generate root motion"
 
