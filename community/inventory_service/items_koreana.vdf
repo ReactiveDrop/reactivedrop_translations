@@ -162,7 +162,7 @@
 // (to the tune of the titular lyric of I Saw Mommy Kissing Santa Claus)
 // (this isn't a translator note, it's just my headcanon about some words I typed)
 "[english]item_novelty_medal_anacrusis_name"		"I met Barry on the Isolode"
-"item_novelty_medal_anacrusis_name"		"Isolode 호에서 Barry 를 발견했어"
+"item_novelty_medal_anacrusis_name"		"Isolode 호에서 Barry 를 만났어"
 		// these are puns. good luck!
 		"[english]item_novelty_medal_anacrusis_description"		"It was a [i]Barry[/i] good time. Still [i]barrel[/i]-y know him, though…"
 		"item_novelty_medal_anacrusis_description"		"It was a [i]Barry[/i] good time. Still [i]barrel[/i]-y know him, though…"
@@ -257,12 +257,12 @@
 
 "[english]item_event_medal_mapping_2023_name"		"Mapping Competition Participant (2023)"
 "item_event_medal_mapping_2023_name"		"지도제작 대회 참가자 (2023)"
-		"[english]item_event_medal_mapping_2023_description"		"Submitted an entry to the first annual mapping competition: \"Boss Fight\", running from April 20th to August 1st 2023."
-		"item_event_medal_mapping_2023_description"		"Submitted an entry to the first annual mapping competition: \"Boss Fight\", running from April 20th to August 1st 2023."
+"[english]item_event_medal_mapping_2023_description"		"Submitted an entry to the first annual mapping competition: \"Boss Fight\", running from April 20th to August 1st 2023."
+"item_event_medal_mapping_2023_description"		"제1회 지도제작 대회 출품: \"Boss Fight\", 2023년 4월 20일부터 8월 1일까지 진행됩니다."
 "[english]item_event_medal_mapping_2024_name"		"Mapping Competition Participant (2024)"
 "item_event_medal_mapping_2024_name"		"지도제작 대회 참가자 (2024)"
-		"[english]item_event_medal_mapping_2024_description"		"Submitted an entry to the second annual mapping competition: \"Space Station\", running from April 20th to August 1st 2024."
-		"item_event_medal_mapping_2024_description"		"Submitted an entry to the second annual mapping competition: \"Space Station\", running from April 20th to August 1st 2024."
+"[english]item_event_medal_mapping_2024_description"		"Submitted an entry to the second annual mapping competition: \"Space Station\", running from April 20th to August 1st 2024."
+"item_event_medal_mapping_2024_description"		"제2회 지도제작 대회 출품: \"Space Station\", 2024년 4월 20일부터 8월 1일까지 진행됩니다."
 
 "[english]item_unique_medal_ben_lubar_name"		"Ben Lubar"
 "item_unique_medal_ben_lubar_name"		"Ben Lubar"
