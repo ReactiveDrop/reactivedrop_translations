@@ -2699,7 +2699,7 @@
 "[english]InviteError_SameConsole1"		"You cannot accept game invite from the same console.\nPlease, go to main menu to enable splitscreen."
 "InviteError_SameConsole1"		"Du kannst keine Spieleinladung an der gleichen Konsole akzeptieren.\nBitte wähle die Splitscreen-Option im Hauptmenü."
 "[english]InviteError_SameConsole2"		"You cannot accept game invite from the same console."
-"InviteError_SameConsole2"		"Du kannst keine Spieleinladung an der gleichen Konsole akzeptieren"
+"InviteError_SameConsole2"		"Du kannst keine Spieleinladung an der gleichen Konsole akzeptieren."
 
 // Intro movie subtitles
 
