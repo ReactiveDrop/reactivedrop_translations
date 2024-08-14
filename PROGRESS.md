@@ -8,12 +8,12 @@
 | [Dutch](#non-curated-languages) | 56 | 2004 | 42 | 3227 | 269 | 212 | 713 | 145 |
 | [Finnish](#non-curated-languages) | 1 | 2004 | 41 | 3089 | 212 | 152 | 699 | 145 |
 | [French](#french-français) | 32 | 138 | 42 | 2594 | 268 | 212 | 653 | 124 |
-| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | 7 | ✔️ | ✔️ | ✔️ | ✔️ |
+| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Hungarian](#non-curated-languages) | 56 | 138 | 42 | 3227 | 269 | 212 | 978 | 146 |
 | [Indonesian](#indonesian-indonesia) | 1286 | 2004 | 634 | 4739 | 272 | 216 | 983 | 146 |
 | [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 35 | ✔️ |
-| [Korean](#koreana-한국어) | ✔️ | ✔️ | ✔️ | 978 | 6 | 30 | 403 | 47 |
+| [Korean](#koreana-한국어) | ✔️ | ✔️ | ✔️ | 943 | 4 | ✔️ | 403 | 47 |
 | [Norwegian Bokmål](#non-curated-languages) | 74 | 708 | 47 | 3933 | 269 | 212 | 713 | 146 |
 | [Polish](#polish-polski) | 33 | 2004 | 42 | 3229 | 269 | 212 | 709 | 142 |
 | [European Portuguese](#portuguese-português-europeu) | 5 | 180 | 32 | 2318 | 249 | 33 | 633 | 140 |
@@ -568,9 +568,7 @@
 
 </summary>
 
-### Strings
-
-- [reactivedrop_german.txt](resource/reactivedrop_german.txt) has 7 untranslated strings.
+✓ Up to date!
 
 </details>
 
@@ -787,12 +785,11 @@
 ### Strings
 
 - [addons/RiskOfRain/reactivedrop_koreana.txt](addons/RiskOfRain/resource/reactivedrop_koreana.txt) has 95 untranslated strings.
-- [items_koreana.vdf](community/inventory_service/items_koreana.vdf) has 6 untranslated strings.
-- [statsweb_koreana.vdf](community/stats_website/statsweb_koreana.vdf) has 30 untranslated strings.
+- [items_koreana.vdf](community/inventory_service/items_koreana.vdf) has 4 untranslated strings.
 - [steam_input_koreana.vdf](community/steam_input/steam_input_koreana.vdf) has 85 untranslated strings.
 - [misc/signage/signage_koreana.vdf](misc/signage/signage_koreana.vdf) has 69 untranslated strings.
 - [platform/vgui_koreana.txt](platform/vgui_koreana.txt) has 58 untranslated strings.
-- [reactivedrop_koreana.txt](resource/reactivedrop_koreana.txt) has 978 untranslated strings.
+- [reactivedrop_koreana.txt](resource/reactivedrop_koreana.txt) has 943 untranslated strings.
 - [valve_koreana.txt](resource/valve_koreana.txt) has 96 untranslated strings.
 
 ### Steam Store and Community
