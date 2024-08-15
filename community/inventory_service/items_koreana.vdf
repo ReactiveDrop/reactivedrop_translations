@@ -162,12 +162,12 @@
 // (to the tune of the titular lyric of I Saw Mommy Kissing Santa Claus)
 // (this isn't a translator note, it's just my headcanon about some words I typed)
 "[english]item_novelty_medal_anacrusis_name"		"I met Barry on the Isolode"
-"item_novelty_medal_anacrusis_name"		"Isolode 호에서 Barry 를 만났어"
-		// these are puns. good luck!
-		"[english]item_novelty_medal_anacrusis_description"		"It was a [i]Barry[/i] good time. Still [i]barrel[/i]-y know him, though…"
-		"item_novelty_medal_anacrusis_description"		"It was a [i]Barry[/i] good time. Still [i]barrel[/i]-y know him, though…"
-		"[english]item_novelty_medal_anacrusis_acquisition"		"Complete the Barry Nice to Meet You achievement in The Anacrusis to unlock."
-		"item_novelty_medal_anacrusis_acquisition"		"Complete the Barry Nice to Meet You achievement in The Anacrusis to unlock."
+"item_novelty_medal_anacrusis_name"		"Isolode  호에서 Barry 를 만났어"
+// these are puns. good luck!
+"[english]item_novelty_medal_anacrusis_description"		"It was a [i]Barry[/i] good time. Still [i]barrel[/i]-y know him, though…"
+"item_novelty_medal_anacrusis_description"		"It was a [i]Barry[/i] good time. Still [i]barrel[/i]-y know him, though…"
+"[english]item_novelty_medal_anacrusis_acquisition"		"Complete the Barry Nice to Meet You achievement in The Anacrusis to unlock."
+"item_novelty_medal_anacrusis_acquisition"		"The Anacrusis를(을) 완료하여 Barry Nice to Meet You 과제를 잠금 해제했습니다."
 
 "[english]item_achievement_medal_oe_jacob_name"		"Jacob's Rest Veteran"
 "item_achievement_medal_oe_jacob_name"		"야곱의 안식처 참전용사"
@@ -398,14 +398,14 @@
 "item_crafting_material_argon_canister_name"		"아르곤 입방피트"
 "[english]item_crafting_material_argon_canister_description"		"An inert gas with many industrial applications, found while on a mission."
 "item_crafting_material_argon_canister_description"		"임무 수행중 발견한 산업용 불활성 가스입니다."
-		// This is a riff on "Infinite Improbability Drive" from A Hitchhiker's Guide to the Galaxy.
-		// Except instead of a spaceship engine that allows teleportation around the universe, this is simply a data disk containing some pre-generated random numbers.
-		// This item can only be obtained via TileGen maps, which (as of 2024) are not yet officially playable.
-		"[english]item_crafting_material_probability_drive_name"		"Finite Probability Drive"
-		"item_crafting_material_probability_drive_name"		"Finite Probability Drive"
-		// This is the name of a real book, published in 1955. It contains 400 pages, each with 50 lines of 50 digits.
-		"[english]item_crafting_material_probability_drive_description"		"A disk containing an excerpt from [i]A Million Random Digits with 100,000 Normal Deviates[/i], found while on a mission."
-		"item_crafting_material_probability_drive_description"		"A disk containing an excerpt from [i]A Million Random Digits with 100,000 Normal Deviates[/i], found while on a mission."
+// This is a riff on "Infinite Improbability Drive" from A Hitchhiker's Guide to the Galaxy.
+// Except instead of a spaceship engine that allows teleportation around the universe, this is simply a data disk containing some pre-generated random numbers.
+// This item can only be obtained via TileGen maps, which (as of 2024) are not yet officially playable.
+"[english]item_crafting_material_probability_drive_name"		"Finite Probability Drive"
+"item_crafting_material_probability_drive_name"		"유한 가능 확률값 추진기"
+// This is the name of a real book, published in 1955. It contains 400 pages, each with 50 lines of 50 digits.
+"[english]item_crafting_material_probability_drive_description"		"A disk containing an excerpt from [i]A Million Random Digits with 100,000 Normal Deviates[/i], found while on a mission."
+"item_crafting_material_probability_drive_description"		"[i]A Million Random Digits with 100,000 Normal Deviates[/i]에서 발췌된 내용이 담긴 디스크로, 임무 수행 중에 발견하였습니다."
 
 "[english]item_crafting_material_refined_wire_name"		"Sorted Wire"
 "item_crafting_material_refined_wire_name"		"정렬된 전선"
