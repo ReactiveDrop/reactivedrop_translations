@@ -6331,13 +6331,13 @@
 		"rd_branch_disclaimer_bugtest"		"The \"bugtest\" version is for reproducing bugs that have already been mitigated.\nIf you are here to play the game or to test new features, please change versions.\nThis version does not receive regular updates."
 		"[english]rd_branch_disclaimer_releasecandidate"		"This is the release candidate version of Alien Swarm: Reactive Drop.\nWhen a release is scheduled, this version is equivalent to the beta version,\nbut with some features that are currently in development turned off."
 		"rd_branch_disclaimer_releasecandidate"		"This is the release candidate version of Alien Swarm: Reactive Drop.\nWhen a release is scheduled, this version is equivalent to the beta version,\nbut with some features that are currently in development turned off."
-		// displayed when accessing a menu that is not yet ready for testing in beta
-		"[english]rd_beta_coming_soon"		"Coming Soon!"
-		"rd_beta_coming_soon"		"Coming Soon!"
-		"[english]rd_beta_coming_soon_desc"		"This feature will be added in a future update."
-		"rd_beta_coming_soon_desc"		"This feature will be added in a future update."
-		"[english]rd_commander_profile"		"COMMANDER PROFILE"
-		"rd_commander_profile"		"COMMANDER PROFILE"
+// displayed when accessing a menu that is not yet ready for testing in beta
+"[english]rd_beta_coming_soon"		"Coming Soon!"
+"rd_beta_coming_soon"		"곧 옵니다!"
+"[english]rd_beta_coming_soon_desc"		"This feature will be added in a future update."
+"rd_beta_coming_soon_desc"		"추후 업데이트에 추가될 황목입니다."
+"[english]rd_commander_profile"		"COMMANDER PROFILE"
+"rd_commander_profile"		"지휘관 프로필"
 
 // Nam Humanum objectives
 "[english]nh_logisticsarea_1_title"		"Hack through the service entrance"
@@ -9955,19 +9955,19 @@
 		"[english]rd_video_low_health_effect_hint"		"Controls whether the edges of the screen glow red when the marine is at low health."
 		"rd_video_low_health_effect_hint"		"Controls whether the edges of the screen glow red when the marine is at low health."
 
-		// %s1 is a number; eg. 11352165
-		"[english]rd_about_build_id"		"Build ID: %s1"
-		"rd_about_build_id"		"Build ID: %s1"
-		// %s1 is a four digit number with dots between the digits; eg. 7.1.4.1
-		"[english]rd_about_network_version"		"Network Version: %s1"
-		"rd_about_network_version"		"Network Version: %s1"
-		// %s1 is a Steam beta branch name (untranslated); eg. releasecandidate
-		"[english]rd_about_current_branch"		"Current Branch: %s1"
-		"rd_about_current_branch"		"Current Branch: %s1"
-		// %s1 is a version number; eg. 8.0
-		// This is only shown on Linux/Steam Deck
-		"[english]rd_about_wine_proton"		"Wine/Proton Version: %s1"
-		"rd_about_wine_proton"		"Wine/Proton Version: %s1"
+// %s1 is a number; eg. 11352165
+"[english]rd_about_build_id"		"Build ID: %s1"
+"rd_about_build_id"		"빌드 ID: %s1"
+// %s1 is a four digit number with dots between the digits; eg. 7.1.4.1
+"[english]rd_about_network_version"		"Network Version: %s1"
+"rd_about_network_version"		"네트워크 버전: %s1"
+// %s1 is a Steam beta branch name (untranslated); eg. releasecandidate
+"[english]rd_about_current_branch"		"Current Branch: %s1"
+"rd_about_current_branch"		"현재 브런치: %s1"
+// %s1 is a version number; eg. 8.0
+// This is only shown on Linux/Steam Deck
+"[english]rd_about_wine_proton"		"Wine/Proton Version: %s1"
+"rd_about_wine_proton"		"Wine/Proton 버전: %s1"
 		"[english]rd_about_rdteam"		"Alien Swarm: Reactive Drop is a fan continuation of Valve's Alien Swarm (2010). Reactive Drop Team is a group of volunteers and is not affiliated with Valve. We're just big fans."
 		"rd_about_rdteam"		"Alien Swarm: Reactive Drop is a fan continuation of Valve's Alien Swarm (2010). Reactive Drop Team is a group of volunteers and is not affiliated with Valve. We're just big fans."
 		"[english]rd_about_valve"		"© 2010 Valve Corporation. All rights reserved. Valve, Alien Swarm, the Alien Swarm logo, Source and the Source logo are trademarks and/or registered trademarks of Valve Corporation in the United States, and other countries."
@@ -9977,10 +9977,10 @@
 		"[english]rd_about_nvidia"		"This product includes code licensed from NVIDIA."
 		"rd_about_nvidia"		"This product includes code licensed from NVIDIA."
 
-		"[english]rd_achievement_challenges_disallowed"		"This achievement cannot be earned if a challenge was active during the mission."
-		"rd_achievement_challenges_disallowed"		"This achievement cannot be earned if a challenge was active during the mission."
-		"[english]rd_achievement_challenges_outstanding"		"This achievement cannot be earned if a challenge was active or a marine died during any mission attempt since the last successful map vote."
-		"rd_achievement_challenges_outstanding"		"This achievement cannot be earned if a challenge was active or a marine died during any mission attempt since the last successful map vote."
+"[english]rd_achievement_challenges_disallowed"		"This achievement cannot be earned if a challenge was active during the mission."
+"rd_achievement_challenges_disallowed"		"임무 중 도전을 활성화 할 경우 도전과제를 달성할 수 없습니다."
+"[english]rd_achievement_challenges_outstanding"		"This achievement cannot be earned if a challenge was active or a marine died during any mission attempt since the last successful map vote."
+"rd_achievement_challenges_outstanding"		"임무 잔행 중 도전을 활성화하거나 어느 누구라도 사망 시 해당 도전과제를 달성할 수 없습니다."
 
 "[english]rd_compass_north"		"North"
 "rd_compass_north"		"북"
@@ -10124,14 +10124,14 @@
 "rd_lobby_option_installed_any"		"지정 안함"
 "[english]rd_lobby_option_installed_any_hint"		"Show lobbies regardless of current mission."
 "rd_lobby_option_installed_any_hint"		"임무 설치 유무에 상관없이 모든 로비를 표시합니다."
-		"[english]rd_lobby_option_installed_forbidden"		"Not Installed"
-		"rd_lobby_option_installed_forbidden"		"Not Installed"
-		"[english]rd_lobby_option_installed_forbidden_hint"		"Only show lobbies with missions I do not have downloaded."
-		"rd_lobby_option_installed_forbidden_hint"		"Only show lobbies with missions I do not have downloaded."
-		"[english]rd_lobby_option_installed_required"		"Installed"
-		"rd_lobby_option_installed_required"		"Installed"
-		"[english]rd_lobby_option_installed_required_hint"		"Only show lobbies I can join without downloading a mission."
-		"rd_lobby_option_installed_required_hint"		"Only show lobbies I can join without downloading a mission."
+"[english]rd_lobby_option_installed_forbidden"		"Not Installed"
+"rd_lobby_option_installed_forbidden"		"미설치"
+"[english]rd_lobby_option_installed_forbidden_hint"		"Only show lobbies with missions I do not have downloaded."
+"rd_lobby_option_installed_forbidden_hint"		"현재 다운로드하지 않은 임무를 플레이중인 로비만 표시합니다."
+"[english]rd_lobby_option_installed_required"		"Installed"
+"rd_lobby_option_installed_required"		"설치됨"
+"[english]rd_lobby_option_installed_required_hint"		"Only show lobbies I can join without downloading a mission."
+"rd_lobby_option_installed_required_hint"		"현재 다운로드한 임무를 플레이중인 로비만 표시합니다."
 "[english]rd_lobby_option_challenge_title"		"Challenges (Custom Game Modes)"
 "rd_lobby_option_challenge_title"		"도전 (사용자 지정 모드)"
 "[english]rd_lobby_option_challenge_any"		"No Preference"
@@ -10366,14 +10366,14 @@
 "rd_mission_modifier_crafting_rarity"		"%s1: %s2"
 
 "[english]rd_crafting_beta1_signup_title"		"Crafting Materials Beta - Phase 1"
-"rd_crafting_beta1_signup_title"		"소재 제작 베타 - 페이즈 1"
-		// this is a letter from Helvetica Scenario to the player.
-		// the "office" she is referring to is the Office of Consensus Maintenance, her employer.
-		// %s1 is the player's display name.
-		"[english]rd_crafting_beta1_signup_flavor"		"Cmdr. %s1,\n\nYour surveying work with the IAF over the past few months has been invaluable. The Office recently finished collating the data and I'm pleased to report the discovery of several anomalous materials. We'd like your help studying them. Frankly, there's a lot of questions we'd like answered and I can't spare the manpower.\n\nIf you accept, your marines will be authorized to perceive these materials while they're on their missions. I've been authorized to offer you a little signing bonus to grease the wheels. And, of course, you can keep whatever you find out in the field.\n\nLet me know.\n\nBest,\nDr. Helvetica Scenario\nEcological Consistency Dept.\nOffice of Consensus Maintenance"
-		"rd_crafting_beta1_signup_flavor"		"Cmdr. %s1,\n\nYour surveying work with the IAF over the past few months has been invaluable. The Office recently finished collating the data and I'm pleased to report the discovery of several anomalous materials. We'd like your help studying them. Frankly, there's a lot of questions we'd like answered and I can't spare the manpower.\n\nIf you accept, your marines will be authorized to perceive these materials while they're on their missions. I've been authorized to offer you a little signing bonus to grease the wheels. And, of course, you can keep whatever you find out in the field.\n\nLet me know.\n\nBest,\nDr. Helvetica Scenario\nEcological Consistency Dept.\nOffice of Consensus Maintenance"
-		"[english]rd_crafting_beta1_signup_explanation"		"If you join the Alien Swarm: Reactive Crafting Materials Beta - Phase 1, the following things will happen:\n• You will be able to find and collect crafting materials during missions, initially on the beta branch only, but later expanding to the non-beta branch.\n• Your Steam account ID will be added to a list that we will use to compute some statistics about how people interact with the crafting materials system.\n• You will receive a box containing one Strange weapon of your choice. Strange weapons have the same stats, appearance, and requirements as their non-Strange counterparts, but are compatible with \"Strange Devices\", tiny computers that track and display statistics about your weapon. (Strange weapons can currently only be equipped on the beta branch, but will become equippable in non-beta by the end of Phase 1.)\n• You will receive two boxes each containing a Strange Device of your choice.\n• You will receive a bonus set of crafting material locations (as if you had played for six hours).\n• You are encouraged (but not required) to give feedback about your experience with the Crafting Materials Beta on the Steam discussions forum for Alien Swarm: Reactive Drop or on Discord.\n\nThe following things will happen regardless of your choice:\n• Since January 2024, you have been passively finding a large quantity of crafting material locations by playing at least 30 minutes in a week and a smaller quantity of crafting material locations for every 6 total hours of play-time. You will continue to passively find these locations regardless of your participation in this beta.\n• Any crafting materials you find (either during the beta or after the full release) are yours to do with as you see fit.\n• You will eventually be able to craft strange weapons and strange devices. We may also offer additional Beta Tester's Strange Boxes for future phases of the beta before the full release."
-		"rd_crafting_beta1_signup_explanation"		"If you join the Alien Swarm: Reactive Crafting Materials Beta - Phase 1, the following things will happen:\n• You will be able to find and collect crafting materials during missions, initially on the beta branch only, but later expanding to the non-beta branch.\n• Your Steam account ID will be added to a list that we will use to compute some statistics about how people interact with the crafting materials system.\n• You will receive a box containing one Strange weapon of your choice. Strange weapons have the same stats, appearance, and requirements as their non-Strange counterparts, but are compatible with \"Strange Devices\", tiny computers that track and display statistics about your weapon. (Strange weapons can currently only be equipped on the beta branch, but will become equippable in non-beta by the end of Phase 1.)\n• You will receive two boxes each containing a Strange Device of your choice.\n• You will receive a bonus set of crafting material locations (as if you had played for six hours).\n• You are encouraged (but not required) to give feedback about your experience with the Crafting Materials Beta on the Steam discussions forum for Alien Swarm: Reactive Drop or on Discord.\n\nThe following things will happen regardless of your choice:\n• Since January 2024, you have been passively finding a large quantity of crafting material locations by playing at least 30 minutes in a week and a smaller quantity of crafting material locations for every 6 total hours of play-time. You will continue to passively find these locations regardless of your participation in this beta.\n• Any crafting materials you find (either during the beta or after the full release) are yours to do with as you see fit.\n• You will eventually be able to craft strange weapons and strange devices. We may also offer additional Beta Tester's Strange Boxes for future phases of the beta before the full release."
+"rd_crafting_beta1_signup_title"		"재료 제작 베타 - 페이즈 1"
+// this is a letter from Helvetica Scenario to the player.
+// the "office" she is referring to is the Office of Consensus Maintenance, her employer.
+// %s1 is the player's display name.
+"[english]rd_crafting_beta1_signup_flavor"		"Cmdr. %s1,\n\nYour surveying work with the IAF over the past few months has been invaluable. The Office recently finished collating the data and I'm pleased to report the discovery of several anomalous materials. We'd like your help studying them. Frankly, there's a lot of questions we'd like answered and I can't spare the manpower.\n\nIf you accept, your marines will be authorized to perceive these materials while they're on their missions. I've been authorized to offer you a little signing bonus to grease the wheels. And, of course, you can keep whatever you find out in the field.\n\nLet me know.\n\nBest,\nDr. Helvetica Scenario\nEcological Consistency Dept.\nOffice of Consensus Maintenance"
+"rd_crafting_beta1_signup_flavor"		"Cmdr. %s1,\n\n지난 몇 달간 IAF의 조사 작업은 매우 귀중했습니다. 보전국은 최근 데이터 대조를 완료하여 특이한 소재 발견에 성공했음을 기쁘게 보고드립니다. 이 소재의 연구에 당신의 도움이 필요합니다. 여러 가지 물어보고 싶은게 산더미입니다만, 현재 인력이 필요한 상황입니다. \n \n 수락해 주신다면, 당신의 해병대원은 이 소재들을 임무 중 회수 대상으로 삼을 권한을 부여받게 될겁니다. 사태를 원활하게 진행하기 위해 참가자에 대한 보상도 주어집니다. 그리고 물론 전쟁터에서 발견한 물건은 모두 자신의 것으로 하셔도 좋습니다.\n\n 답변 기다리겠습니다.\n\n 헬베티카 시나리오 박사로부터\n생태학 연구부.\n합의 유지 부서"
+"[english]rd_crafting_beta1_signup_explanation"		"If you join the Alien Swarm: Reactive Crafting Materials Beta - Phase 1, the following things will happen:\n• You will be able to find and collect crafting materials during missions, initially on the beta branch only, but later expanding to the non-beta branch.\n• Your Steam account ID will be added to a list that we will use to compute some statistics about how people interact with the crafting materials system.\n• You will receive a box containing one Strange weapon of your choice. Strange weapons have the same stats, appearance, and requirements as their non-Strange counterparts, but are compatible with \"Strange Devices\", tiny computers that track and display statistics about your weapon. (Strange weapons can currently only be equipped on the beta branch, but will become equippable in non-beta by the end of Phase 1.)\n• You will receive two boxes each containing a Strange Device of your choice.\n• You will receive a bonus set of crafting material locations (as if you had played for six hours).\n• You are encouraged (but not required) to give feedback about your experience with the Crafting Materials Beta on the Steam discussions forum for Alien Swarm: Reactive Drop or on Discord.\n\nThe following things will happen regardless of your choice:\n• Since January 2024, you have been passively finding a large quantity of crafting material locations by playing at least 30 minutes in a week and a smaller quantity of crafting material locations for every 6 total hours of play-time. You will continue to passively find these locations regardless of your participation in this beta.\n• Any crafting materials you find (either during the beta or after the full release) are yours to do with as you see fit.\n• You will eventually be able to craft strange weapons and strange devices. We may also offer additional Beta Tester's Strange Boxes for future phases of the beta before the full release."
+"rd_crafting_beta1_signup_explanation"		"Alien Swarm: Reactive 재료 제작 베타 - 페이즈 1 에 가입 시 할수 있는 일은 다음과 같습니다:\n• 임무 수행 중 제작 재료들을 발견하고 수집할 수 있습니다. 현재는 베타 브런치에서만 진행중이며, 향후 정식 게임에서도 이용할 수 있습니다.\n• 재료 제작 시스템에 플레이어가 어떻게 접했는지에 대한 통계 계산용 리스트에 당신의 Steam 계정 ID가 기록됩니다.\n• 임의의 이상한 무기를 선택할 수 있는 상자를 1개 받을 수 있습니다. 이상한 무기는 일반 무기와 동일한 성능, 외형, 사용 조건을 가지고 있지만 무기에 대한 통계를 기록하는 소형 컴퓨터 '이상한 장치'를 장착할 수 있습니다. (현재 이상한 무기는 베타에서만 장비 가능하나, 페이즈 1 종료시에는 베타 외에도 장비 가능합니다.)\n• 임의의 이상한 장치를 선택할 수 있는 상자 2개를 받습니다.\n• 제작 재료 수집 시 보너스 수량을 얻게 됩니다 (6시간 동안 플레이한 것과 동일한 수량).\n• Alien Swarm: Reactive Drop 의 스팀 공식 포럼이나 Discord 에 재료 제작 베타에 대한 피드백을 보내주세요.(필수는 아닙니다.)\n\n아래의 일은 선택에 관계없이 일어납니다:\n• 2024년 1월부터 매주 30분 이상 플레이, 6시간 플레이마다 소량의 제작 재료가 자연스럽게 발견되게 되었습니다. 베타 참여 여부에 관계없이 이 재료 위치는 자연스럽게 발견되게 됩니다.\n• 수집한 제작 재료는 (베타 중에도 혹은 정식 출시 후에도) 원하는 대로 사용할 수 있습니다.\n• 결론적으로 여러분은 이후 이상한 장치와 이상한 무기를 제작할 수 있을 것입니다. 또한 전체 출시 전에 베타의 향후 단계들을 위해 베타 테스터에게 추가적인 이상한 상자들을 제공할 것입니다."
 "[english]rd_crafting_beta1_signup_accept"		"Sign me up!"
 "rd_crafting_beta1_signup_accept"		"가입하겠습니다!"
 "[english]rd_crafting_beta1_signup_decline"		"Not for me, thanks."
@@ -10383,29 +10383,29 @@
 
 "[english]rd_unbox_strange_weapon_title"		"Choose Strange Weapon"
 "rd_unbox_strange_weapon_title"		"이상한 무기 선택"
-		"[english]rd_unbox_strange_weapon_flavor"		"As you imagine the possible contents of the box, the weight inside the box shifts as if it is responding to your mind. You focus your thoughts on a specific weapon and open the box to find it."
-		"rd_unbox_strange_weapon_flavor"		"As you imagine the possible contents of the box, the weight inside the box shifts as if it is responding to your mind. You focus your thoughts on a specific weapon and open the box to find it."
-		"[english]rd_unbox_strange_weapon_warning_already_owned"		"You already own a Strange weapon of this type."
-		"rd_unbox_strange_weapon_warning_already_owned"		"You already own a Strange weapon of this type."
-		"[english]rd_unbox_strange_weapon_warning_cannot_currently_use"		"You do not meet the requirements to use this weapon. It will not be selectable in missions until you unlock the base weapon."
-		"rd_unbox_strange_weapon_warning_cannot_currently_use"		"You do not meet the requirements to use this weapon. It will not be selectable in missions until you unlock the base weapon."
-		// this shows a list of icons that can be hovered over to see item names like "Missions" and "Allies Extinguished"
-		"[english]rd_unbox_strange_weapon_compatible_devices"		"Compatible devices:"
-		"rd_unbox_strange_weapon_compatible_devices"		"Compatible devices:"
+"[english]rd_unbox_strange_weapon_flavor"		"As you imagine the possible contents of the box, the weight inside the box shifts as if it is responding to your mind. You focus your thoughts on a specific weapon and open the box to find it."
+"rd_unbox_strange_weapon_flavor"		"상자 안에 무엇이 들어있을지 상상하면 마치 그것에 맞게 무게가 변하는 것 같은 느낌이 듭니다. 가지고 싶은 무기를 생각하며 상자를 개봉합니다."
+"[english]rd_unbox_strange_weapon_warning_already_owned"		"You already own a Strange weapon of this type."
+"rd_unbox_strange_weapon_warning_already_owned"		"이미 보유중인 이상한 무기 형식입니다."
+"[english]rd_unbox_strange_weapon_warning_cannot_currently_use"		"You do not meet the requirements to use this weapon. It will not be selectable in missions until you unlock the base weapon."
+"rd_unbox_strange_weapon_warning_cannot_currently_use"		"이 무기를 보유하기 위한 요구 사항을 충족하지 못했습니다. 기본 무기의 잠금을 해제하기 전까지는 임무에서 선택할 수 없습니다."
+// this shows a list of icons that can be hovered over to see item names like "Missions" and "Allies Extinguished"
+"[english]rd_unbox_strange_weapon_compatible_devices"		"Compatible devices:"
+"rd_unbox_strange_weapon_compatible_devices"		"호환 가능한 장치:"
 
 "[english]rd_unbox_strange_device_title"		"Choose Strange Device"
 "rd_unbox_strange_device_title"		"이상한 장치 선택"
-		"[english]rd_unbox_strange_device_flavor"		"You flick the switch and the device hums to life. It displays a picture. Which picture does it show?"
-		"rd_unbox_strange_device_flavor"		"You flick the switch and the device hums to life. It displays a picture. Which picture does it show?"
-		"[english]rd_unbox_strange_device_warning_no_compatible_items"		"You do not own any Strange items capable of accepting this device."
-		"rd_unbox_strange_device_warning_no_compatible_items"		"You do not own any Strange items capable of accepting this device."
-		"[english]rd_unbox_strange_device_warning_already_have_accessories"		"You already have enough Strange Devices to fill all owned compatible Strange items."
-		"rd_unbox_strange_device_warning_already_have_accessories"		"You already have enough Strange Devices to fill all owned compatible Strange items."
-		"[english]rd_unbox_strange_device_compatible_owned_items"		"Compatible items:"
-		"rd_unbox_strange_device_compatible_owned_items"		"Compatible items:"
+"[english]rd_unbox_strange_device_flavor"		"You flick the switch and the device hums to life. It displays a picture. Which picture does it show?"
+"rd_unbox_strange_device_flavor"		"스위치를 누르자 웅웅거리는 소리와 함께 장치가 살아나며 화면에 사진이 나타납니다. 어떤 사진이 보이나요?"
+"[english]rd_unbox_strange_device_warning_no_compatible_items"		"You do not own any Strange items capable of accepting this device."
+"rd_unbox_strange_device_warning_no_compatible_items"		"이 장치를 장착 가능한 이상한 아이템을 보유하고 있지 않습니다."
+"[english]rd_unbox_strange_device_warning_already_have_accessories"		"You already have enough Strange Devices to fill all owned compatible Strange items."
+"rd_unbox_strange_device_warning_already_have_accessories"		"현재 보유중인 이상한 아이템 이상의 호환 가능한 이상한 장치를 보유하고 있습니다."
+"[english]rd_unbox_strange_device_compatible_owned_items"		"Compatible items:"
+"rd_unbox_strange_device_compatible_owned_items"		"호환 가능한 아이템:"
 
-		"[english]rd_unbox_strange_option_number"		"Option %s1 of %s2"
-		"rd_unbox_strange_option_number"		"Option %s1 of %s2"
+"[english]rd_unbox_strange_option_number"		"Option %s1 of %s2"
+"rd_unbox_strange_option_number"		"옵션 %s2 중 %s1"
 "[english]rd_unbox_strange_confirm"		"MAKE DECISION"
 "rd_unbox_strange_confirm"		"결정"
 "[english]rd_unbox_strange_cancel"		"Decide Later"
@@ -10418,9 +10418,9 @@
 
 "[english]rd_attach_strange_device_warning_title"		"Strange Devices cannot be recovered"
 "rd_attach_strange_device_warning_title"		"이상한 장치를 복구할 수 없습니다"
-		// %s1 is item name; %s2 is accessory (strange device) name; %s3 is a number, usually 4.
-		"[english]rd_attach_strange_device_warning_desc"		"Are you sure you want to permanently attach '%s2' to '%s1'?\nOnce attached, the strange device cannot be retrieved or removed, and one of the item's %s3 strange device slots will be permanently consumed."
-		"rd_attach_strange_device_warning_desc"		"Are you sure you want to permanently attach '%s2' to '%s1'?\nOnce attached, the strange device cannot be retrieved or removed, and one of the item's %s3 strange device slots will be permanently consumed."
+// %s1 is item name; %s2 is accessory (strange device) name; %s3 is a number, usually 4.
+"[english]rd_attach_strange_device_warning_desc"		"Are you sure you want to permanently attach '%s2' to '%s1'?\nOnce attached, the strange device cannot be retrieved or removed, and one of the item's %s3 strange device slots will be permanently consumed."
+"rd_attach_strange_device_warning_desc"		"'%s1'에 '%s2'를(을) 영구적으로 장착하겠습니까?\n한번 장착된 장치는 다시 회수하거나 제거가 불가능하며, 이 아이템의 %s3 이상한 장치 슬롯 중 하나가 손상됩니다."
 
 // These strings will be used for the sign-up screen for the crafting materials beta and other opt-in things in the future.
 "[english]rd_redeem_special_waiting_steam"		"Requesting a ticket from Steam..."

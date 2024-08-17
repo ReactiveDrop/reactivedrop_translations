@@ -5,7 +5,7 @@
 {
 // used to transform item names on the Steam Community. shows for items that have attached accessories, like a strange weapon with at least one strange device attached.
 "[english]inventory_name_format_1"		"%ITEMNAME% (Customized)"
-"inventory_name_format_1"		"%ITEMNAME% (사용자 지정)"
+"inventory_name_format_1"		"%ITEMNAME% (맞춤형)"
 "[english]inventory_name_format_2"		""
 "inventory_name_format_2"		""
 "[english]inventory_name_format_3"		""
