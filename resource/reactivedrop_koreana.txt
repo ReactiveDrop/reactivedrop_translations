@@ -7480,8 +7480,8 @@
 
 "[english]par_crucialpoint_bossbar_timeleft"		"Time Left"
 "par_crucialpoint_bossbar_timeleft"		"남은 시간"
-		"[english]par_crucialpoint_bossbar_health"		"Satellite Dish Health"
-		"par_crucialpoint_bossbar_health"		"Satellite Dish Health"
+"[english]par_crucialpoint_bossbar_health"		"Satellite Dish Health"
+"par_crucialpoint_bossbar_health"		"위성 접시 내구도"
 
 		// Bonus Mission 1 strings
 		"[english]bon1_spaceport_1_title"		"Get inside the Spaceport"
