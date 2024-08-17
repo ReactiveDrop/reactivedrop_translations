@@ -8989,7 +8989,7 @@
 "[english]rd_inventory_item_action_wait"		"Updating items. Please wait..."
 "rd_inventory_item_action_wait"		"Aktualisierung der Gegenstände. Bitte warte..."
 "[english]rd_inventory_item_action_failed_title"		"Item Action Failed"
-"rd_inventory_item_action_failed_title"		"Aktion Gescheitert"
+"rd_inventory_item_action_failed_title"		"Aktion gescheitert"
 // Displayed when a user-initiated item interaction fails due to an API error. %s1 is the error number.
 "[english]rd_inventory_item_action_failed_generic_desc"		"The requested inventory item action failed unexpectedly. (code %s1)"
 "rd_inventory_item_action_failed_generic_desc"		"Die angeforderte Aktion ist unerwartet fehlgeschlagen. (Code %s1)"
