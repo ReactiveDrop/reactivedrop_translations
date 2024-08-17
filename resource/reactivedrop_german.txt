@@ -1,4 +1,4 @@
-"lang"
+﻿"lang"
 {
 "Language"		"german"
 "Tokens"
@@ -8536,7 +8536,7 @@
 "[english]RD_AdvancedSettings_HUD_VoiceIcon_Side"		"Side of Screen"
 "RD_AdvancedSettings_HUD_VoiceIcon_Side"		"Bildschirmrand"
 "[english]RD_AdvancedSettings_HUD_NameUnderMarine"		"Name Under Marine in Multiplayer"
-"RD_AdvancedSettings_HUD_NameUnderMarine"		"Name unter Soldat (Mehrspieler)"
+"RD_AdvancedSettings_HUD_NameUnderMarine"		"Namen unter Mitspielern"
 "[english]RD_AdvancedSettings_HUD_NameUnderMarine_Marine"		"Marine Name Only"
 "RD_AdvancedSettings_HUD_NameUnderMarine_Marine"		"Nur Soldatenname"
 "[english]RD_AdvancedSettings_HUD_NameUnderMarine_Player"		"Player Name Only"
@@ -8568,7 +8568,7 @@
 "[english]RD_AdvancedSettings_HUD_TeamColors"		"Team Deathmatch Marine Colors"
 "RD_AdvancedSettings_HUD_TeamColors"		"Team Deathmatch Soldatenfarben"
 "[english]RD_AdvancedSettings_HUD_TeamColors_None"		"No Team Colors"
-"RD_AdvancedSettings_HUD_TeamColors_None"		"Keine Teamfarben"
+"RD_AdvancedSettings_HUD_TeamColors_None"		"Aus"
 "[english]RD_AdvancedSettings_HUD_TeamColors_AllyEnemy"		"Ally / Enemy"
 "RD_AdvancedSettings_HUD_TeamColors_AllyEnemy"		"Verbündeter / Feind"
 "[english]RD_AdvancedSettings_HUD_TeamColors_Team1Team2"		"Terrorist / Counter-Terrorist"
@@ -9518,7 +9518,7 @@
 "[english]rd_settings_video"		"Video"
 "rd_settings_video"		"Video"
 "[english]rd_settings_about"		"About"
-"rd_settings_about"		"Über uns"
+"rd_settings_about"		"Über"
 
 // These are category headings on the Controls tab of the settings screen
 "[english]rd_controls_category_movement"		"Movement"
