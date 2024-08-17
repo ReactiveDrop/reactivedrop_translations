@@ -6236,7 +6236,7 @@
 "asw_weapon_plasma_thrower_attributes"		"극강의 공격력, 저하된 명중률"
 "[english]asw_weapon_hack_tool"		"Hack Pad"
 "asw_weapon_hack_tool"		"해킹 패드"
-		// HC = Hack-C, a character from Deep Rock Galactic. 42 = The Answer to the Ultimate Question of Life, The Universe, and Everything
+// HC = Hack-C, a character from Deep Rock Galactic. 42 = The Answer to the Ultimate Question of Life, The Universe, and Everything
 "[english]asw_weaponl_hack_tool"		"HC42 Automated Hacking Tool"
 "asw_weaponl_hack_tool"		"HC42 자동 해킹 툴"
 		"[english]asw_wdesc_hack_tool"		"An advanced IAF tech-issue 'circuit breaker' hacking device, developed in the high security IAF labs.  Offering a variety of intelligent circuit analyzers and bypassing logic gate systems, this tool can be used by any marine to bypass security systems.  Tech marines can use this tool to hack at twice the speed."
@@ -6252,7 +6252,7 @@
 "asw_wdesc_sentry_railgun"		""
 "[english]asw_weapon_energy_shield"		"Energy Shield"
 "asw_weapon_energy_shield"		"에너지 방패"
-		// TC = Two Cities, the update in TF2 that added this ability to that game's medic class; in this universe it stands for Telic Corporation. 79 is the atomic number of Australium.
+// TC = Two Cities, the update in TF2 that added this ability to that game's medic class; in this universe it stands for Telic Corporation. 79 is the atomic number of Australium.
 "[english]asw_weaponl_energy_shield"		"TC79 Energy Field Generator"
 "asw_weaponl_energy_shield"		"TC79 에너지 장 생성기"
 // TODO
