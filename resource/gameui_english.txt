@@ -634,6 +634,7 @@
 "SEMICOLON"	";"
 "HOME"	"Home"
 "END"	"End"
+"INS"	"Ins"
 "DEL"	"Del"
 "PGUP"	"PgUp"
 "PGDOWN"		"PgDn"

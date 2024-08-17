@@ -1257,6 +1257,8 @@
 "HOME"		"Inicio"
 "[english]END"		"End"
 "END"		"Fin"
+"[english]INS"		"Ins"
+"INS"		"Ins"
 "[english]DEL"		"Del"
 "DEL"		"Supr."
 "[english]PGUP"		"PgUp"

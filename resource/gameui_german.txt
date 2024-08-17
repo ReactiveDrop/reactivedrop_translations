@@ -1257,6 +1257,8 @@
 "HOME"		"Pos1"
 "[english]END"		"End"
 "END"		"Ende"
+"[english]INS"		"Ins"
+"INS"		"Einfg"
 "[english]DEL"		"Del"
 "DEL"		"Entf"
 "[english]PGUP"		"PgUp"
