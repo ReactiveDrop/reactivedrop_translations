@@ -637,7 +637,7 @@
 "INS"	"Ins"
 "DEL"	"Del"
 "PGUP"	"PgUp"
-"PGDOWN"		"PgDn"
+"PGDN"		"PgDn"
 "PAUSE"		"Pause"
 "MWHEELUP"	"Scroll Up"
 "MWHEELDOWN"	"Scroll Down"
