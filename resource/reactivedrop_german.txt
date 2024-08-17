@@ -1818,7 +1818,7 @@
 "[english]asw_wants_continue"		"%s1 wants to continue. Press Ready."
 "asw_wants_continue"		"%s1 will fortsetzen. Bitte BEREIT anklicken."
 "[english]asw_wants_returnmap"		"%s1 wants to return to the campaign map. Press Ready."
-"asw_wants_returnmap"		"%s1 will zur Feldzug-Karte zurückkehren. Bitte BEREIT anklicken."
+"asw_wants_returnmap"		"%s1 will zur Feldzug-Karte. Bitte BEREIT anklicken."
 "[english]asw_offline_medals"		"Singleplayer"
 "asw_offline_medals"		"Einzelspieler"
 "[english]asw_online_medals"		"Multiplayer"
