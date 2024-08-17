@@ -1,4 +1,4 @@
-﻿"lang"
+"lang"
 {
 "Language"		"german"
 "Tokens"
@@ -610,15 +610,15 @@
 "[english]rd_objective_chat_message"		"Objective %s1 complete! \nTime: %s2 Delta with previous objective: %s3\n"
 "rd_objective_chat_message"		"Ziel %s1 erfüllt! \nZeit: %s2 Delta zum vorherigen Ziel: %s3\n"
 "[english]rd_points_awarding_message"		"Awarding %s4%s1 points to %s4%s2, total = %s4%s3\n"
-"rd_points_awarding_message"		"%s4%s1 Punkte für %s4%s2 verliehen, Gesamt = %s4%s3\n"
+"rd_points_awarding_message"		"%s4%s1 Punkte an %s4%s2 verliehen. Gesamt: %s4%s3\n"
 "[english]rd_points_reduced_due_to_farming"		"You recently played this map. Gained points will be decreased.\n"
-"rd_points_reduced_due_to_farming"		"Du hast diesen Einsatz kürzlich gespielt. Gewonnene Punkte werden verringert.\n"
+"rd_points_reduced_due_to_farming"		"Du hast diesen Einsatz kürzlich gespielt. Gewonnene Punkte wurden verringert.\n"
 // %s1 is a player name; %s2, %s3, and %s4 are numbers.
 "[english]rd_hoiaf_new_personal_best_score_on_this_mission"		"%s1 has improved their seasonal personal best score on this mission from %s2 to %s3, increasing their bonus points this season by +%s4!\n"
-"rd_hoiaf_new_personal_best_score_on_this_mission"		"%s1 hat die persönliche Bestleistung bei diesem Einsatz von %s2 auf %s3 erhöht, das ergibt +%s4 Bonuspunkte in dieser Saison!\n"
+"rd_hoiaf_new_personal_best_score_on_this_mission"		"%s1: Einsatz-Bestleistung erhöht (%s2 -> %s3). Ergibt +%s4 Bonuspunkte in dieser Saison!\n"
 // %s1 is a player name; %s2 and %s3 are numbers.
 "[english]rd_hoiaf_bounty_mission_bonus_claimed"		"By completing this mission, %s1 has claimed a bounty of %s2 points! %s1 has claimed %s3 points from mission bounties so far this season.\n"
-"rd_hoiaf_bounty_mission_bonus_claimed"		"Durch das Abschließen dieses Einsatzes hat %s1 eine Prämie von %s2 Punkten erhalten! %s1 hat in dieser Saison bisher %s3 Punkte aus Einsatzprämien erhalten.\n"
+"rd_hoiaf_bounty_mission_bonus_claimed"		"%s1: Einsatz-Abschluss-Prämie (+%s2 Punkte). Gesamt: %s3\n"
 
 // messages are shown on the mission end screen and require textures for each letter to be created
 // don't worry about creating the textures--that's done by the person making the build--
