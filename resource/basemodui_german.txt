@@ -1609,13 +1609,13 @@
 "L4D360UI_FoundGames_SyslinkInFinale"		"In Finale"
 
 "[english]L4D360UI_FoundGames_NoGamesFound"		"No Games Found"
-"L4D360UI_FoundGames_NoGamesFound"		"Keine Spiele gefunden."
+"L4D360UI_FoundGames_NoGamesFound"		"Keine Spiele gefunden"
 "[english]L4D360UI_FoundGames_NoGamesFound_"		"No Games Found"
-"L4D360UI_FoundGames_NoGamesFound_"		"Keine Spiele gefunden."
+"L4D360UI_FoundGames_NoGamesFound_"		"Keine Spiele gefunden"
 "[english]L4D360UI_FoundGames_NoGamesFound_campaign"		"No Games Found"
-"L4D360UI_FoundGames_NoGamesFound_campaign"		"Keine Spiele gefunden."
+"L4D360UI_FoundGames_NoGamesFound_campaign"		"Keine Spiele gefunden"
 "[english]L4D360UI_FoundGames_NoGamesFound_single_mission"		"No Games Found"
-"L4D360UI_FoundGames_NoGamesFound_single_mission"		"Keine Spiele gefunden."
+"L4D360UI_FoundGames_NoGamesFound_single_mission"		"Keine Spiele gefunden"
 
 "[english]L4D360UI_FoundGames_StartLobby_Friends"		"Create Campaign"
 "L4D360UI_FoundGames_StartLobby_Friends"		"Einsatz erstellen"
