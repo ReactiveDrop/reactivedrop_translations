@@ -4409,7 +4409,7 @@
 "[english]rd_challenge_desc_rd_third_person"		"Experience the game from a different perspective."
 "rd_challenge_desc_rd_third_person"		"Erlebe das Spiel aus einer anderen Perspektive."
 "[english]rd_challenge_disabled"		"Challenge disabled"
-"rd_challenge_disabled"		"Keine Herausforderung"
+"rd_challenge_disabled"		"Standard-Spielregeln"
 "[english]rd_challenge_enabled"		"Challenge enabled: %s1"
 "rd_challenge_enabled"		"Herausforderung: %s1"
 "[english]asw_weapon_devastator"		"Devastator"
@@ -10052,7 +10052,7 @@
 "rd_lobby_options_button_inactive"		"Filter aktiviert: %s1"
 // shown when the filter list is active, replacing above
 "[english]rd_lobby_options_button_active"		"Show Mission Details"
-"rd_lobby_options_button_active"		"Einsatz Details anzeigen"
+"rd_lobby_options_button_active"		"OK"
 
 "[english]rd_lobby_option_name_mode_title"		"Name Mode"
 "rd_lobby_option_name_mode_title"		"Darstellung"
