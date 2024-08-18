@@ -611,8 +611,8 @@
 "rd_objective_chat_message"		"目標 %s1 達成！ \n時間: %s2 区間タイム: %s3\n"
 "[english]rd_points_awarding_message"		"Awarding %s4%s1 points to %s4%s2, total = %s4%s3\n"
 "rd_points_awarding_message"		"%s4%s2 が %s4%s1 ポイントを獲得、合計ポイント = %s4%s3\n"
-		"[english]rd_points_reduced_due_to_farming"		"You recently played this map. Gained points have been decreased.\n"
-		"rd_points_reduced_due_to_farming"		"このマップは最近プレーされたばかりです。獲得ポイントは減少しています。\n"
+"[english]rd_points_reduced_due_to_farming"		"You recently played this map. Gained points have been decreased.\n"
+"rd_points_reduced_due_to_farming"		"このマップは最近プレイしたばかりです。獲得ポイントが減少しました。\n"
 // %s1 is a player name; %s2, %s3, and %s4 are numbers.
 "[english]rd_hoiaf_new_personal_best_score_on_this_mission"		"%s1 has improved their seasonal personal best score on this mission from %s2 to %s3, increasing their bonus points this season by +%s4!\n"
 "rd_hoiaf_new_personal_best_score_on_this_mission"		"%s1がこのミッションでの今シーズンのベストスコアを更新しました(%s2→%s3)。今シーズンのボーナスポイントが+%s4増加します！\n"
