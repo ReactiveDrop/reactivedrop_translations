@@ -8537,6 +8537,8 @@
 "RD_AdvancedSettings_HUD_VoiceIcon_Side"		"画面の横"
 "[english]RD_AdvancedSettings_HUD_NameUnderMarine"		"Name Under Marine in Multiplayer"
 "RD_AdvancedSettings_HUD_NameUnderMarine"		"隊員の下に表示する名前"
+"[english]RD_AdvancedSettings_HUD_NameUnderMarine_None"		"Disabled"
+"RD_AdvancedSettings_HUD_NameUnderMarine_None"		"無効"
 "[english]RD_AdvancedSettings_HUD_NameUnderMarine_Marine"		"Marine Name Only"
 "RD_AdvancedSettings_HUD_NameUnderMarine_Marine"		"隊員名のみ"
 "[english]RD_AdvancedSettings_HUD_NameUnderMarine_Player"		"Player Name Only"

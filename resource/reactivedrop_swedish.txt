@@ -8538,6 +8538,8 @@
 "RD_AdvancedSettings_HUD_VoiceIcon_Side"		"Sidan av Skärmen"
 "[english]RD_AdvancedSettings_HUD_NameUnderMarine"		"Name Under Marine in Multiplayer"
 "RD_AdvancedSettings_HUD_NameUnderMarine"		"Namn Under Marin i Flerspelare"
+"[english]RD_AdvancedSettings_HUD_NameUnderMarine_None"		"Disabled"
+"RD_AdvancedSettings_HUD_NameUnderMarine_None"		"Inaktiverad"
 "[english]RD_AdvancedSettings_HUD_NameUnderMarine_Marine"		"Marine Name Only"
 "RD_AdvancedSettings_HUD_NameUnderMarine_Marine"		"Endast Marin Namn"
 "[english]RD_AdvancedSettings_HUD_NameUnderMarine_Player"		"Player Name Only"

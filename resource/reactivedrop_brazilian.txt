@@ -8537,6 +8537,8 @@
 "RD_AdvancedSettings_HUD_VoiceIcon_Side"		"Ao Lado da Tela"
 "[english]RD_AdvancedSettings_HUD_NameUnderMarine"		"Name Under Marine in Multiplayer"
 "RD_AdvancedSettings_HUD_NameUnderMarine"		"Nome embaixo do Fuzileiro no Multijogador"
+"[english]RD_AdvancedSettings_HUD_NameUnderMarine_None"		"Disabled"
+"RD_AdvancedSettings_HUD_NameUnderMarine_None"		"Desabilitado"
 "[english]RD_AdvancedSettings_HUD_NameUnderMarine_Marine"		"Marine Name Only"
 "RD_AdvancedSettings_HUD_NameUnderMarine_Marine"		"Apenas o Nome do Fuzileiro"
 "[english]RD_AdvancedSettings_HUD_NameUnderMarine_Player"		"Player Name Only"

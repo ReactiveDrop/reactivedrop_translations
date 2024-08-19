@@ -4524,6 +4524,7 @@
 "RD_AdvancedSettings_HUD_VoiceIcon_Marine"	"Near Marine"
 "RD_AdvancedSettings_HUD_VoiceIcon_Side"	"Side of Screen"
 "RD_AdvancedSettings_HUD_NameUnderMarine"	"Name Under Marine in Multiplayer"
+"RD_AdvancedSettings_HUD_NameUnderMarine_None"	"Disabled"
 "RD_AdvancedSettings_HUD_NameUnderMarine_Marine"	"Marine Name Only"
 "RD_AdvancedSettings_HUD_NameUnderMarine_Player"	"Player Name Only"
 "RD_AdvancedSettings_HUD_NameUnderMarine_Both"	"Marine and Player Names"

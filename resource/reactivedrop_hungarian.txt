@@ -8537,6 +8537,8 @@
 		"RD_AdvancedSettings_HUD_VoiceIcon_Side"		"Side of Screen"
 		"[english]RD_AdvancedSettings_HUD_NameUnderMarine"		"Name Under Marine in Multiplayer"
 		"RD_AdvancedSettings_HUD_NameUnderMarine"		"Name Under Marine in Multiplayer"
+		"[english]RD_AdvancedSettings_HUD_NameUnderMarine_None"		"Disabled"
+		"RD_AdvancedSettings_HUD_NameUnderMarine_None"		"Disabled"
 		"[english]RD_AdvancedSettings_HUD_NameUnderMarine_Marine"		"Marine Name Only"
 		"RD_AdvancedSettings_HUD_NameUnderMarine_Marine"		"Marine Name Only"
 		"[english]RD_AdvancedSettings_HUD_NameUnderMarine_Player"		"Player Name Only"

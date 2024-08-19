@@ -8537,6 +8537,8 @@
 "RD_AdvancedSettings_HUD_VoiceIcon_Side"		"화면 측면"
 "[english]RD_AdvancedSettings_HUD_NameUnderMarine"		"Name Under Marine in Multiplayer"
 "RD_AdvancedSettings_HUD_NameUnderMarine"		"멀티플레이어 내 해병 하단의 이름 표기"
+"[english]RD_AdvancedSettings_HUD_NameUnderMarine_None"		"Disabled"
+"RD_AdvancedSettings_HUD_NameUnderMarine_None"		"비활성화됨"
 "[english]RD_AdvancedSettings_HUD_NameUnderMarine_Marine"		"Marine Name Only"
 "RD_AdvancedSettings_HUD_NameUnderMarine_Marine"		"해병 이름만"
 "[english]RD_AdvancedSettings_HUD_NameUnderMarine_Player"		"Player Name Only"

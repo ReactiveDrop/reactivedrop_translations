@@ -8537,6 +8537,8 @@
 "RD_AdvancedSettings_HUD_VoiceIcon_Side"		"A Lato dello Schermo"
 "[english]RD_AdvancedSettings_HUD_NameUnderMarine"		"Name Under Marine in Multiplayer"
 "RD_AdvancedSettings_HUD_NameUnderMarine"		"Nome Sotto il Soldato in Multiplayer"
+"[english]RD_AdvancedSettings_HUD_NameUnderMarine_None"		"Disabled"
+"RD_AdvancedSettings_HUD_NameUnderMarine_None"		"Disattivato"
 "[english]RD_AdvancedSettings_HUD_NameUnderMarine_Marine"		"Marine Name Only"
 "RD_AdvancedSettings_HUD_NameUnderMarine_Marine"		"Solo Nome del Soldato"
 "[english]RD_AdvancedSettings_HUD_NameUnderMarine_Player"		"Player Name Only"
