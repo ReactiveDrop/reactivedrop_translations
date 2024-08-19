@@ -611,7 +611,7 @@
 "rd_objective_chat_message"		"完成了目标 %s1\n时间点：%s2 前一目标间隔：%s3\n"
 "[english]rd_points_awarding_message"		"Awarding %s4%s1 points to %s4%s2, total = %s4%s3\n"
 "rd_points_awarding_message"		"奖励 %s4%s1 点分数给 %s4%s2，总分数 = %s4%s3\n"
-"[english]rd_points_reduced_due_to_farming"		"You recently played this map. Gained points will be decreased.\n"
+"[english]rd_points_reduced_due_to_farming"		"You recently played this map. Gained points have been decreased.\n"
 "rd_points_reduced_due_to_farming"		"由于近期玩过此地图，因此本次得分收益降低。\n"
 // %s1 is a player name; %s2, %s3, and %s4 are numbers.
 "[english]rd_hoiaf_new_personal_best_score_on_this_mission"		"%s1 has improved their seasonal personal best score on this mission from %s2 to %s3, increasing their bonus points this season by +%s4!\n"
