@@ -2,31 +2,31 @@
 | Language | basemodui | closecaption | gameui | reactivedrop | items | statsweb | Strings | Files |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
-| [Traditional Chinese](#tchinese-繁體中文) | 14 | 141 | 33 | 3093 | 263 | 212 | 239 | 145 |
-| [Czech](#czech-čeština) | 76 | 1810 | 42 | 4232 | 269 | 212 | 983 | 145 |
-| [Danish](#non-curated-languages) | 57 | 231 | 42 | 3759 | 269 | 212 | 713 | 146 |
-| [Dutch](#non-curated-languages) | 56 | 2004 | 42 | 3227 | 269 | 212 | 713 | 145 |
-| [Finnish](#non-curated-languages) | 1 | 2004 | 41 | 3089 | 212 | 152 | 699 | 145 |
+| [Traditional Chinese](#tchinese-繁體中文) | 14 | 141 | 33 | 3094 | 263 | 212 | 239 | 145 |
+| [Czech](#czech-čeština) | 76 | 1810 | 42 | 4233 | 269 | 212 | 983 | 145 |
+| [Danish](#non-curated-languages) | 57 | 231 | 42 | 3760 | 269 | 212 | 713 | 146 |
+| [Dutch](#non-curated-languages) | 56 | 2004 | 42 | 3228 | 269 | 212 | 713 | 145 |
+| [Finnish](#non-curated-languages) | 1 | 2004 | 41 | 3090 | 212 | 152 | 699 | 145 |
 | [French](#french-français) | 32 | 138 | 42 | 2594 | 268 | 212 | 653 | 124 |
 | [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
-| [Hungarian](#non-curated-languages) | 56 | 138 | 42 | 3227 | 269 | 212 | 978 | 146 |
-| [Indonesian](#indonesian-indonesia) | 1286 | 2004 | 634 | 4739 | 272 | 216 | 983 | 146 |
+| [Hungarian](#non-curated-languages) | 56 | 138 | 42 | 3228 | 269 | 212 | 978 | 146 |
+| [Indonesian](#indonesian-indonesia) | 1286 | 2004 | 634 | 4740 | 272 | 216 | 983 | 146 |
 | [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 35 | ✔️ |
 | [Korean](#koreana-한국어) | ✔️ | ✔️ | ✔️ | 901 | ✔️ | ✔️ | 342 | 47 |
-| [Norwegian Bokmål](#non-curated-languages) | 74 | 708 | 47 | 3933 | 269 | 212 | 713 | 146 |
-| [Polish](#polish-polski) | 33 | 2004 | 42 | 3229 | 269 | 212 | 709 | 142 |
+| [Norwegian Bokmål](#non-curated-languages) | 74 | 708 | 47 | 3934 | 269 | 212 | 713 | 146 |
+| [Polish](#polish-polski) | 33 | 2004 | 42 | 3230 | 269 | 212 | 709 | 142 |
 | [European Portuguese](#portuguese-português-europeu) | 5 | 180 | 32 | 2318 | 249 | 33 | 633 | 140 |
 | [Brazilian Portuguese](#brazilian-português) | 1 | ✔️ | ✔️ | 1488 | 11 | 3 | 1 | 1 |
-| [Romanian](#non-curated-languages) | 56 | 1996 | 48 | 3939 | 269 | 212 | 978 | 146 |
+| [Romanian](#non-curated-languages) | 56 | 1996 | 48 | 3940 | 269 | 212 | 978 | 146 |
 | [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
-| [European Spanish](#spanish-español-de-españa) | 33 | 2004 | 40 | 2644 | 269 | 212 | 717 | 145 |
-| [Latin American Spanish](#latam-español-latinoamericano) | 1 | 2004 | ✔️ | 4279 | 17 | 3 | 204 | 141 |
+| [European Spanish](#spanish-español-de-españa) | 33 | 2004 | 40 | 2645 | 269 | 212 | 717 | 145 |
+| [Latin American Spanish](#latam-español-latinoamericano) | 1 | 2004 | ✔️ | 4280 | 17 | 3 | 204 | 141 |
 | [Swedish](#swedish-svenska) | ✔️ | ✔️ | ✔️ | 887 | ✔️ | ✔️ | ✔️ | 86 |
-| [Thai](#non-curated-languages) | 971 | 1993 | 50 | 4475 | 269 | 212 | 742 | 146 |
-| [Turkish](#non-curated-languages) | 56 | 137 | 42 | 3227 | 269 | 212 | 978 | 146 |
-| [Ukrainian](#ukrainian-українська) | 32 | 131 | 32 | 2772 | 269 | 212 | 936 | 145 |
-| [Vietnamese](#vietnamese-tiếng-việt) | 1 | 2004 | ✔️ | 3513 | 17 | 3 | 1 | 83 |
+| [Thai](#non-curated-languages) | 971 | 1993 | 50 | 4476 | 269 | 212 | 742 | 146 |
+| [Turkish](#non-curated-languages) | 56 | 137 | 42 | 3228 | 269 | 212 | 978 | 146 |
+| [Ukrainian](#ukrainian-українська) | 32 | 131 | 32 | 2773 | 269 | 212 | 936 | 145 |
+| [Vietnamese](#vietnamese-tiếng-việt) | 1 | 2004 | ✔️ | 3514 | 17 | 3 | 1 | 83 |
 ### Legend
 - ***Non-capitalized column headers*** are the most important specific files and their number of missing strings. All of these txt-files are located in the resources folder. Except statsweb, which lies in community/stats_website, it's an vdf-file.
 - ***Strings*** is the number of missing strings not included in one of the files which get an individual non-capitalized column.
@@ -63,7 +63,7 @@
 - [basemodui_tchinese.txt](resource/basemodui_tchinese.txt) has 14 untranslated strings.
 - [closecaption_tchinese.txt](resource/closecaption_tchinese.txt) has 141 untranslated strings.
 - [gameui_tchinese.txt](resource/gameui_tchinese.txt) has 33 untranslated strings.
-- [reactivedrop_tchinese.txt](resource/reactivedrop_tchinese.txt) has 3093 untranslated strings.
+- [reactivedrop_tchinese.txt](resource/reactivedrop_tchinese.txt) has 3094 untranslated strings.
 - [valve_tchinese.txt](resource/valve_tchinese.txt) has 6 untranslated strings.
 
 ### Steam Store and Community
@@ -244,7 +244,7 @@
 - [chat_czech.txt](resource/chat_czech.txt) has 8 untranslated strings.
 - [closecaption_czech.txt](resource/closecaption_czech.txt) has 1810 untranslated strings.
 - [gameui_czech.txt](resource/gameui_czech.txt) has 42 untranslated strings.
-- [reactivedrop_czech.txt](resource/reactivedrop_czech.txt) has 4232 untranslated strings.
+- [reactivedrop_czech.txt](resource/reactivedrop_czech.txt) has 4233 untranslated strings.
 - [valve_czech.txt](resource/valve_czech.txt) has 266 untranslated strings.
 
 ### Steam Store and Community
@@ -594,7 +594,7 @@
 - [chat_indonesian.txt](resource/chat_indonesian.txt) has 8 untranslated strings.
 - [closecaption_indonesian.txt](resource/closecaption_indonesian.txt) has 2004 untranslated strings.
 - [gameui_indonesian.txt](resource/gameui_indonesian.txt) has 634 untranslated strings.
-- [reactivedrop_indonesian.txt](resource/reactivedrop_indonesian.txt) has 4739 untranslated strings.
+- [reactivedrop_indonesian.txt](resource/reactivedrop_indonesian.txt) has 4740 untranslated strings.
 - [valve_indonesian.txt](resource/valve_indonesian.txt) has 266 untranslated strings.
 
 ### Steam Store and Community
@@ -871,7 +871,7 @@
 - [chat_polish.txt](resource/chat_polish.txt) has 8 untranslated strings.
 - [closecaption_polish.txt](resource/closecaption_polish.txt) has 2004 untranslated strings.
 - [gameui_polish.txt](resource/gameui_polish.txt) has 42 untranslated strings.
-- [reactivedrop_polish.txt](resource/reactivedrop_polish.txt) has 3229 untranslated strings.
+- [reactivedrop_polish.txt](resource/reactivedrop_polish.txt) has 3230 untranslated strings.
 - [valve_polish.txt](resource/valve_polish.txt) has 266 untranslated strings.
 
 ### Steam Store and Community
@@ -1252,7 +1252,7 @@
 - [basemodui_spanish.txt](resource/basemodui_spanish.txt) has 33 untranslated strings.
 - [closecaption_spanish.txt](resource/closecaption_spanish.txt) has 2004 untranslated strings.
 - [gameui_spanish.txt](resource/gameui_spanish.txt) has 40 untranslated strings.
-- [reactivedrop_spanish.txt](resource/reactivedrop_spanish.txt) has 2644 untranslated strings.
+- [reactivedrop_spanish.txt](resource/reactivedrop_spanish.txt) has 2645 untranslated strings.
 - [valve_spanish.txt](resource/valve_spanish.txt) has 266 untranslated strings.
 
 ### Steam Store and Community
@@ -1427,7 +1427,7 @@
 - [misc/signage/signage_latam.vdf](misc/signage/signage_latam.vdf) has 69 untranslated strings.
 - [basemodui_latam.txt](resource/basemodui_latam.txt) has 1 untranslated strings.
 - [closecaption_latam.txt](resource/closecaption_latam.txt) has 2004 untranslated strings.
-- [reactivedrop_latam.txt](resource/reactivedrop_latam.txt) has 4279 untranslated strings.
+- [reactivedrop_latam.txt](resource/reactivedrop_latam.txt) has 4280 untranslated strings.
 
 ### Credits
 
@@ -1700,7 +1700,7 @@
 - [basemodui_ukrainian.txt](resource/basemodui_ukrainian.txt) has 32 untranslated strings.
 - [closecaption_ukrainian.txt](resource/closecaption_ukrainian.txt) has 131 untranslated strings.
 - [gameui_ukrainian.txt](resource/gameui_ukrainian.txt) has 32 untranslated strings.
-- [reactivedrop_ukrainian.txt](resource/reactivedrop_ukrainian.txt) has 2772 untranslated strings.
+- [reactivedrop_ukrainian.txt](resource/reactivedrop_ukrainian.txt) has 2773 untranslated strings.
 - [valve_ukrainian.txt](resource/valve_ukrainian.txt) has 266 untranslated strings.
 
 ### Steam Store and Community
@@ -1872,7 +1872,7 @@
 - [statsweb_vietnamese.vdf](community/stats_website/statsweb_vietnamese.vdf) has 3 untranslated strings.
 - [basemodui_vietnamese.txt](resource/basemodui_vietnamese.txt) has 1 untranslated strings.
 - [closecaption_vietnamese.txt](resource/closecaption_vietnamese.txt) has 2004 untranslated strings.
-- [reactivedrop_vietnamese.txt](resource/reactivedrop_vietnamese.txt) has 3513 untranslated strings.
+- [reactivedrop_vietnamese.txt](resource/reactivedrop_vietnamese.txt) has 3514 untranslated strings.
 
 ### Mail and News
 
