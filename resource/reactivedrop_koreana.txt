@@ -6329,8 +6329,8 @@
 "rd_branch_disclaimer_beta"		"현재 \"베타\" 버전을 플레이하고 있습니다.\nAlien Swarm: Reactive Drop 개발에 도움을 주셔서 감사합니다!\n문제 발견시 보고해 주시는 걸 잊지 말아주십시오.\n필독: 다른 버전의 플레이어와는 같은 로비에 접속할 수 없을 겁니다."
 "[english]rd_branch_disclaimer_bugtest"		"The \"bugtest\" version is for reproducing bugs that have already been mitigated.\nIf you are here to play the game or to test new features, please change versions.\nThis version does not receive regular updates."
 "rd_branch_disclaimer_bugtest"		"\"버그테스트\" 는 이미 조치된 버그를 재현합니다.\n게임을 플레이하러 왔거나 새로운 기능을 테스트하시려면 다른 버전의 게임을 플레이 해주십시오.\n이 버전은 정규 업데이트에 속하지 않습니다."
-		"[english]rd_branch_disclaimer_releasecandidate"		"This is the release candidate version of Alien Swarm: Reactive Drop.\nWhen a release is scheduled, this version is equivalent to the beta version,\nbut with some features that are currently in development turned off."
-		"rd_branch_disclaimer_releasecandidate"		"This is the release candidate version of Alien Swarm: Reactive Drop.\nWhen a release is scheduled, this version is equivalent to the beta version,\nbut with some features that are currently in development turned off."
+"[english]rd_branch_disclaimer_releasecandidate"		"This is the release candidate version of Alien Swarm: Reactive Drop.\nWhen a release is scheduled, this version is equivalent to the beta version,\nbut with some features that are currently in development turned off."
+"rd_branch_disclaimer_releasecandidate"		"이건 Alien Swarm: Reactive Drop 의 공개 후보 버전입니다.\n공개가 예정된 경우 이 버전은 베타 버전과 동일하지만,\n현재 개발 중인 일부 기능은 비활성화됩니다."
 // displayed when accessing a menu that is not yet ready for testing in beta
 "[english]rd_beta_coming_soon"		"Coming Soon!"
 "rd_beta_coming_soon"		"곧 옵니다!"
