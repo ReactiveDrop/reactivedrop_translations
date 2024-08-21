@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<content><string id="body">[h2]2024年度マップ作成コンテスト受賞作品[/h2]
+Downed Station (制作者:legomanasさん)
+[img]{STEAM_CLAN_IMAGE}/27357479/96f9509932b257ed89058f3bcb4450083fe834de.png[/img]
+
+[h2]アップデートによる変更点[/h2]
+[list]
+[*]コンソール変数cl_interpを削除。常にこれが0に設定されているものとして扱うようになった。
+[*]アップデートが適用されていないサーバーに接続しようとした時に表示されるエラーメッセージを改善した。
+[*]"emit noise"の演算子が現在のゲームエンジンのビルドで壊れていたせいで発生したパーティクルに関するクラッシュを修正。
+[*]キーボードを使って操作設定メニューを動かすとクラッシュすることがあったのを修正。
+[*]隊員が炎に当たっているが炎上はしていない時の音声が他のプレイヤーにも聞こえるようになった。
+[*]同士撃ち設定がハードコアではない場合は、同士撃ちによる炎上開始までの許容時間が少し長くなった。
+[*]手動でインストールしたチャレンジに対し、チャレンジ選択画面でTeam Fortress 2のワークショップ用アイコンが表示されることがあったのを修正。
+[*]カウントダウンのあるミッション目標にAddTimeの入力が可能になった。
+[*]地面にストレンジ武器を落としたプレイヤーがサーバーから切断した後、その武器に近づくとゲームがクラッシュしていたのを修正。
+[*]銃口のアタッチメントと別々にレーザーポインタを銃に装着することが可能になった。
+[*]チャレンジで制御できるようにカメラ関連のコンソール変数をサーバー側に導入した。
+[*]一部の小さなテキストがLinux環境ではTimes New Romanフォントで表示されていたのを修正。
+[/list]
+
+[h2]IAF(星間連盟軍)に君が必要だ[url=https://stats.reactivedrop.com/7a]！[/url][/h2]
+Alien Swarm: Reactive Dropは完全無料ですが、沢山のボランティアの方々による支援は片手間でできているものではありません。可能ならば、[url=https://steamcommunity.com/app/563560/workshop/]Steamワークショップ[/url]にコンテンツを投稿したり、バグ報告を送ったり、[url=https://github.com/ReactiveDrop/reactivedrop_public_src]コード[/url]の改善を提案したり、ゲームを自分の言語に[url=https://github.com/ReactiveDrop/reactivedrop_translations]翻訳[/url]したり、Alien Swarm: Reactive Dropを支えるボランティアの方々に[url=https://store.steampowered.com/itemstore/563560/]1ドルの寄付[/url]をしてみてください。IAFは宇宙海兵隊指揮官であるあなたの協力にいつも感謝しております。</string><string id="subtitle"></string><string id="summary"></string><string id="title">AS:RDアップデート - 2024年9月1日 "Time's Down"</string></content>
