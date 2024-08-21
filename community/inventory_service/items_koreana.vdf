@@ -275,6 +275,10 @@
 "item_unique_medal_mapping_2023_name"		"더 건틀렛: 아크틱 (#BossFight2023 승자)"
 "[english]item_unique_medal_mapping_2023_description"		"This medal commemorates The Gauntlet: Arctic, the winner of the 2023 mapping competition."
 "item_unique_medal_mapping_2023_description"		"2023년 지도 제작 대회 우승작인 더 건틀렛: 아크틱 기념 훈장입니다."
+		"[english]item_unique_medal_mapping_2024_name"		"Downed Station (#SpaceStation2024 Winner)"
+		"item_unique_medal_mapping_2024_name"		"Downed Station (#SpaceStation2024 Winner)"
+		"[english]item_unique_medal_mapping_2024_description"		"This medal commemorates Downed Statio, the winner of the 2024 mapping competition."
+		"item_unique_medal_mapping_2024_description"		"This medal commemorates Downed Statio, the winner of the 2024 mapping competition."
 
 // Contains one Strange (stat-tracking) version of a weapon the player has unlocked, of the player's choice.
 "[english]item_container_beta_tester_strange_weapon_name"		"Beta Tester's Strange Weapon"
