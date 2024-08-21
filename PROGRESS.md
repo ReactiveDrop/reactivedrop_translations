@@ -11,9 +11,9 @@
 | [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | 2 | ✔️ | ✔️ | 1 |
 | [Hungarian](#non-curated-languages) | 56 | 138 | 43 | 3228 | 271 | 212 | 978 | 147 |
 | [Indonesian](#indonesian-indonesia) | 1286 | 2004 | 635 | 4740 | 274 | 216 | 983 | 147 |
-| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | 2 | ✔️ | ✔️ | 1 |
+| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | 2 | ✔️ | ✔️ | ✔️ |
 | [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | ✔️ | 2 | ✔️ | 35 | 1 |
-| [Korean](#koreana-한국어) | ✔️ | ✔️ | ✔️ | 796 | 2 | ✔️ | 342 | 48 |
+| [Korean](#koreana-한국어) | ✔️ | ✔️ | ✔️ | 796 | ✔️ | ✔️ | 318 | 48 |
 | [Norwegian Bokmål](#non-curated-languages) | 74 | 708 | 48 | 3934 | 271 | 212 | 713 | 147 |
 | [Polish](#polish-polski) | 33 | 2004 | 43 | 3230 | 271 | 212 | 709 | 143 |
 | [European Portuguese](#portuguese-português-europeu) | 5 | 180 | 33 | 2318 | 251 | 33 | 633 | 141 |
@@ -792,10 +792,6 @@
 
 - [items_italian.vdf](community/inventory_service/items_italian.vdf) has 2 untranslated strings.
 
-### Upcoming Release Notes
-
-- [20240901_italian.xml](release_notes/20240901_english.xml) is missing.
-
 </details>
 
 <details><summary>
@@ -824,8 +820,6 @@
 ### Strings
 
 - [addons/RiskOfRain/reactivedrop_koreana.txt](addons/RiskOfRain/resource/reactivedrop_koreana.txt) has 95 untranslated strings.
-- [items_koreana.vdf](community/inventory_service/items_koreana.vdf) has 2 untranslated strings.
-- [steam_input_koreana.vdf](community/steam_input/steam_input_koreana.vdf) has 24 untranslated strings.
 - [misc/signage/signage_koreana.vdf](misc/signage/signage_koreana.vdf) has 69 untranslated strings.
 - [platform/vgui_koreana.txt](platform/vgui_koreana.txt) has 58 untranslated strings.
 - [reactivedrop_koreana.txt](resource/reactivedrop_koreana.txt) has 796 untranslated strings.
