@@ -8,7 +8,7 @@
 | [Dutch](#non-curated-languages) | 56 | 2004 | 43 | 3228 | 271 | 212 | 713 | 146 |
 | [Finnish](#non-curated-languages) | 1 | 2004 | 42 | 3090 | 214 | 152 | 699 | 146 |
 | [French](#french-français) | 32 | 138 | 43 | 2594 | 270 | 212 | 653 | 125 |
-| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | 2 | ✔️ | ✔️ | 1 |
+| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Hungarian](#non-curated-languages) | 56 | 138 | 43 | 3228 | 271 | 212 | 978 | 147 |
 | [Indonesian](#indonesian-indonesia) | 1286 | 2004 | 635 | 4740 | 274 | 216 | 983 | 147 |
 | [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | 2 | ✔️ | ✔️ | ✔️ |
@@ -586,13 +586,7 @@
 
 </summary>
 
-### Strings
-
-- [items_german.vdf](community/inventory_service/items_german.vdf) has 2 untranslated strings.
-
-### Upcoming Release Notes
-
-- [20240901_german.xml](release_notes/20240901_english.xml) is missing.
+✓ Up to date!
 
 </details>
 
