@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<content><string id="body">[h2]Mapping-Wettbewerb 2024 Gewinner[/h2]
+Downed Station von legomanas
+[img]{STEAM_CLAN_IMAGE}/27357479/96f9509932b257ed89058f3bcb4450083fe834de.png[/img]
+
+[h2]Änderungen in diesem Update[/h2]
+[list]
+[*]Convar cl_interp wurde entfernt. Das Spiel verhält sich jetzt so, als ob es auf 0 gesetzt wäre.
+[*]Die Fehlermeldung, die angezeigt wird, wenn du versuchst, dich mit einem Server zu verbinden, der noch nicht aktualisiert wurde, wurde verbessert.
+[*]Ein Absturz im Zusammenhang mit Partikeln wurde behoben, weil der Operator "emit noise" in dieser Engine-Version nicht funktioniert.
+[*]Ein möglicher Absturz beim Navigieren durch das Steuerungsmenü mit der Tastatur wurde behoben.
+[*]Das Geräusch, wenn ein Soldat verbrannt, aber nicht entzündet wird, wird jetzt auch für andere Spieler abgespielt.
+[*]Das Timing für das Entzünden bei Freundbeschuss wurde leicht erhöht, wenn Hardcore-Freundbeschuss aus ist.
+[*]Es wurde ein Fall behoben, in dem TF2-Workshop-Gegenstandssymbole im Herausforderungsauswahlbildschirm für manuell installierte Herausforderungen erscheinen konnten.
+[*]Es wurde eine AddTime-Input für Countdown-Ziele hinzugefügt.
+[*]Ein Absturz wurde behoben, wenn du in der Nähe einer seltsamen Waffe standest, die von einem nicht verbundenen Spieler fallen gelassen wurde.
+[*]Unterstützung für Waffen mit einem separaten Laserpointer-Aufsatz an der Mündung wurde hinzugefügt.
+[*]Kamera-bezogene Convars auf den Server verschoben, um sie für Herausforderungen verfügbar zu machen.
+[*]Die Anzeige von kleinem Text in Times New Roman unter Linux wurde behoben.
+[/list]
+
+[h2]Die IAF braucht dich[url=https://stats.reactivedrop.com/7a]![/url][/h2]
+Alien Swarm: Reactive Drop wird immer kostenlos sein, aber das bedeutet nicht, dass es nicht eine Menge Arbeit von vielen talentierten Freiwilligen erfordert, um es zu entwickeln. Wenn du kannst, überlege dir, Inhalte für den [url=https://steamcommunity.com/app/563560/workshop/]Steam Workshop[/url] zu erstellen, Fehler zu melden, Verbesserungen am [url=https://github.com/ReactiveDrop/reactivedrop_public_src]Code[/url] vorzuschlagen, [url=https://github.com/ReactiveDrop/reactivedrop_translations]das Spiel in deine Sprache zu übersetzen[/url] oder [url=https://store.steampowered.com/itemstore/563560/]einen Dollar[/url] an eine der Personen zu schicken, die Alien Swarm: Reactive Drop möglich machen. Die IAF dankt dir für deinen Dienst, Kommandant.</string><string id="subtitle"></string><string id="summary"></string><string id="title">AS:RD Update - 1. September 2024 "Time's Down"</string></content>
