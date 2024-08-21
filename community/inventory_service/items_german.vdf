@@ -274,11 +274,11 @@
 "[english]item_unique_medal_mapping_2023_name"		"The Gauntlet: Arctic (#BossFight2023 Winner)"
 "item_unique_medal_mapping_2023_name"		"Der Spießrutenlauf: Arktis (#BossFight2023 Gewinner)"
 "[english]item_unique_medal_mapping_2023_description"		"This medal commemorates The Gauntlet: Arctic, the winner of the 2023 mapping competition."
-"item_unique_medal_mapping_2023_description"		"Dies ist eine Erinnerungs-Medaille den Gewinner des Kartierungswettbewerbs 2023, \"Der Spießrutenlauf: Arktis\"."
-		"[english]item_unique_medal_mapping_2024_name"		"Downed Station (#SpaceStation2024 Winner)"
-		"item_unique_medal_mapping_2024_name"		"Downed Station (#SpaceStation2024 Winner)"
-		"[english]item_unique_medal_mapping_2024_description"		"This medal commemorates Downed Station, the winner of the 2024 mapping competition."
-		"item_unique_medal_mapping_2024_description"		"This medal commemorates Downed Station, the winner of the 2024 mapping competition."
+"item_unique_medal_mapping_2023_description"		"Dies ist eine Erinnerungs-Medaille den Gewinner des Mapping-Wettbewerbs 2023, \"Der Spießrutenlauf: Arktis\"."
+"[english]item_unique_medal_mapping_2024_name"		"Downed Station (#SpaceStation2024 Winner)"
+"item_unique_medal_mapping_2024_name"		"Downed Station (#SpaceStation2024 Gewinner)"
+"[english]item_unique_medal_mapping_2024_description"		"This medal commemorates Downed Station, the winner of the 2024 mapping competition."
+"item_unique_medal_mapping_2024_description"		"Diese Medaille erinnert an die Downed Station, den Gewinner des Mapping-Wettbewerbs 2024."
 
 // Contains one Strange (stat-tracking) version of a weapon the player has unlocked, of the player's choice.
 "[english]item_container_beta_tester_strange_weapon_name"		"Beta Tester's Strange Weapon"
