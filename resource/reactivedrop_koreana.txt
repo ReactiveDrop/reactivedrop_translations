@@ -6501,7 +6501,7 @@
 "[english]t5_arcticinfiltration_debrief2"		"IAF Tech Division had a look at the data you retrieved from the computers. They managed to extract information about the facility inlcuding a layout of it."
 "t5_arcticinfiltration_debrief2"		"IAF 기술 부대가 컴퓨터에서 검색한 데이터를 살펴보았습니다. 시설의 레이아웃을 포함한 시설에 대한 정보를 추출할 수 있었습니다."
 "[english]t5_arcticinfiltration_debrief3"		"Now we have a pretty good idea where you should proceed. More details will be available in the briefing of the next mission."
-"t5_arcticinfiltration_debrief3"		이제 우리는 어디로 진행해야 하는지 알아냈습니다. 자세한 내용은 다음 미션의 브리핑에서 확인할 수 있습니다"
+"t5_arcticinfiltration_debrief3"		"이제 우리는 어디로 진행해야 하는지 알아냈습니다. 자세한 내용은 다음 미션의 브리핑에서 확인할 수 있습니다"
 
 "[english]t5_arcticinfiltration_hint"		"Hack this panel to open the door."
 "t5_arcticinfiltration_hint"		"문을 열려면 이 패널을 해킹하십시오."
