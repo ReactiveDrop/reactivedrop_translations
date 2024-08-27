@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<content><string id="body">[h2]지도 제작 경쟁 2024 우승자[/h2]
+Downed Station [제작: legomanas]
+[img]{STEAM_CLAN_IMAGE}/27357479/96f9509932b257ed89058f3bcb4450083fe834de.png[/img]
+
+[h2]이번 업데이트 변경내역[/h2]
+[list]
+[*]'cl_interp convar'가 삭제됩니다. 이제 게임에서 이 설정이 0으로 설정된 것과 같이 작동합니다.
+[*]아직 업데이트되지 않은 서버에 접속하려고 할 때 표시되는 오류 메시지를 개선했습니다.
+[*]"emit noise" 연산자가 현재 게임 엔진 빌드에서 손상돠어 발생한 파티클 관련 충돌을 수정했습니다.
+[*]키보드를 사용하여 컨트롤 메뉴를 탐색할 때 발생할 수 있는 충돌을 수정했습니다.
+[*]불에 타고 있지만 점화되지 않은 해병의 소리가 이제 다른 플레이어에게도 재생됩니다.
+[*]극단적 아군 사격이 비활성화되있을때의 아군 점화 시간이 약간 더 관대해졌습니다.
+[*]수동으로 설치한 챌린지의 챌린지 선택 화면에서 TF2 장착마당 아이템 아이콘이 나타나던 문제를 수정했습니다.
+[*]제한시간이 있는 목표에 AddTime 입력이 가능해졌습니다.
+[*]연결이 끊긴 플레이어에게서 떨어진 '이상한 무기' 근처에 있을 경우 발생하던 충돌을 수정했습니다.
+[*]총구의 부착물과 별도로 레이저 포인터를 총에 장착하는 것이 가능해졌습니다.
+[*]챌린지에서 제어할 수 있도록 카메라 관련 콘솔 변수를 서버 측에 도입했습니다.
+[*]리눅스에서 Times New Roman으로 표시되는 일부 작은 텍스트를 수정했습니다.
+[/list]
+
+[h2]IAF는 당신의 도움이 필요합니다[url=https://stats.reactivedrop.com/7a]![/url][/h2]
+Alien Swarm: Reactive Drop 은 항상 무료일 것이지만, 그것이 재능 있는 자원봉사자들의 노고가 필요하지 않다는 것을 의미하는 것은 아닙니다. 가능하다면 [url=https://steamcommunity.com/app/563560/workshop/]Steam Workshop[/url] 에 컨텐츠를 게시하거나 버그를 보고하고 [url=https://github.com/ReactiveDrop/reactivedrop_public_src]code[/url] 에 개선사항을 제안하거나, [url=https://github.com/ReactiveDrop/reactivedrop_translations]translating[/url] 에서 귀하의 언어로 번역할 수 있습니다. 또한 [url=https://store.steampowered.com/itemstore/563560/]sending a dollar[/url] 에서 Alien Swarm: Reactive Drop 의 기여자들에게 후원할 수도 있습니다.  IAF는 당신의 지속적인 노고에 감사드립니다. 사령관님 </string><string id="subtitle"></string><string id="summary"></string><string id="title">AS:RD 업데이트 일자 - 2024년 9월 1일 "시간이 되었습니다."</string></content>
