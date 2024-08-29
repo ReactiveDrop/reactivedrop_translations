@@ -7277,8 +7277,8 @@
 		"[english]tf1_desertoutpost_6a"		"The abandoned outpost had information regarding a disused airlock access into the base. Access the base via the disused airlock."
 		"tf1_desertoutpost_6a"		"The abandoned outpost had information regarding a disused airlock access into the base. Access the base via the disused airlock."
 
-		"[english]asw_gametext_tf1_desertoutpost_title"		"Chapter 1: Insertion"
-		"asw_gametext_tf1_desertoutpost_title"		"Chapter 1: Insertion"
+"[english]asw_gametext_tf1_desertoutpost_title"		"Chapter 1: Insertion"
+"asw_gametext_tf1_desertoutpost_title"		"1장: 투입 지점"
 
 		"[english]tf1_abandonedmaintenance_1_title"		"Briefing"
 		"tf1_abandonedmaintenance_1_title"		"Briefing"
