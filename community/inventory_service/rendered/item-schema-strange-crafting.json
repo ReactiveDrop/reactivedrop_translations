@@ -1210,7 +1210,7 @@
 			"description_koreana": "임무 수행중 발견한 SynUp 콜라팩입니다.",
 			"description_russian": "Нетронутая упаковка банок колы «СинАп», найденная во время выполнения миссии.",
 			"description_schinese": "这是一些任务中找到的心跳可乐可乐。",
-			"description_swedish": "Ett orördt paket med SynUp Cola-burkar, hittat under ett uppdrag.",
+			"description_swedish": "Ett oöppnat paket med SynUp Cola-burkar, hittat under ett uppdrag.",
 			"after_description_brazilian": "Quantidade: %m_unQuantity%",
 			"after_description_english": "Quantity: %m_unQuantity%",
 			"after_description_finnish": "Määrä: %m_unQuantity%",
