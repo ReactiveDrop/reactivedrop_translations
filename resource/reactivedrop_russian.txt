@@ -500,7 +500,7 @@
 "[english]asw_difficulty_normal"		"Normal"
 "asw_difficulty_normal"		"Средняя"
 "[english]asw_difficulty_easy"		"Easy"
-"asw_difficulty_easy"		"Низкая"
+"asw_difficulty_easy"		"Лёгкая"
 "[english]asw_difficulty_campaign"		"Campaign"
 "asw_difficulty_campaign"		"Кампания"
 "[english]asw_difficulty_mission"		"Single Mission"
