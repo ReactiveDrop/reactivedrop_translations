@@ -1,0 +1,30 @@
+GAME
+{
+// PDA belongs to Brad Campbell
+
+// Inbox
+
+"MailFrom1"	"Från: Laura Callen"
+"MailDate1"	"Datum: 12/18/52"
+"MailSubject1"	"Ämne: Re: Frakt leverans"
+"MailBody1A"	"Hej Brad,"
+"MailBody1B"	"Det här är konstigt. Jag har sökt i våra transportloggar men det finns inget registrerat under "Leverans 4903877"."
+"MailBody1C"	"Jag föreslår att du håller fast i lasten tills jag har spårat posten tillbaka. Det skickades från någonstans i huvudkomplexet. Det borde inte vara så svårt att ta reda på vem som skickade den beställningen till dig."
+"MailBody1D"	"Pratar med dig senare. Ta hand om dig."
+
+"MailFrom2"	"Från: Laura Callen"
+"MailDate2"	"Datum: 12/18/52"
+"MailSubject2"	"Ämne: Re:Re: Frakt leverans"
+"MailBody2A"	"Brad, det ser ut som att Cain är avsändaren. Jag frågade honom om det och han förnekade allt. Han sa att vem som helst kunde ha använt den där datorn, vilket är sant nog, men det gör honom inte oskyldig i mina ögon."
+"MailBody2B"	"I want you to inspect those containers before they leave the cargo bay."
+
+// Sent
+
+"MailFrom3"	"Till: Laura Callen"
+"MailDate3"	"Datum: 12/18/52"
+"MailSubject3"	"Ämne: Re: Ägg"
+"MailBody3A"	"Laura,"
+"MailBody3B"	"Saker och ting blir ännu konstigare här. Efter din post gick jag tillbaka till där vi lämnade äggen. Skalen var trasiga och de var tomma."
+"MailBody3C"	"Vi har bestämt oss för att söka i Utpost 17 i grupper om två och se om det dyker upp något ovanligt. Extra arbetskraft skulle uppskattas."
+"MailBody3D"	"Jag tror att vi är säkra på att anta att det är något misstänkt på gång. Leverans av levande gods till jorden går under IA-begränsning #77-C. Ingen kunde göra det av misstag."
+}
