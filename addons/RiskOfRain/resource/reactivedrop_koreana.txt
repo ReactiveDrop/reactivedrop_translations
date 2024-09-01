@@ -195,6 +195,6 @@
 "[english]ror_itemDesc_red_blink"		"All random effects are rolled again for a favorable outcome. Stacks number of rerolls."
 "ror_itemDesc_red_blink"		"모든 무작위 효과는 유리한 결과를 얻기 위해 다시 굴려집니다. 누적 시 굴림 횟수 증가."
 "[english]ror_itemDesc_red_jump_jet"		"Hitting an enemy permanently increases the damage the enemy takes next time. Stacks increased damage."
-		"ror_itemDesc_red_jump_jet"		"적을 공격하면 적이 다음에 입는 피해가 영구적으로 증가. 누적 시 공격력 증가."
+"ror_itemDesc_red_jump_jet"		"적을 공격하면 적이 다음에 입는 피해가 영구적으로 증가. 누적 시 공격력 증가."
 }
 }
