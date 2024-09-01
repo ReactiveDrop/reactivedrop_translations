@@ -500,7 +500,7 @@
 "[english]asw_difficulty_normal"		"Normal"
 "asw_difficulty_normal"		"Средняя"
 "[english]asw_difficulty_easy"		"Easy"
-"asw_difficulty_easy"		"Низкая"
+"asw_difficulty_easy"		"Лёгкая"
 "[english]asw_difficulty_campaign"		"Campaign"
 "asw_difficulty_campaign"		"Кампания"
 "[english]asw_difficulty_mission"		"Single Mission"
@@ -7252,7 +7252,7 @@
 "tf1_desertoutpost_1c"		"После этого бойцам нужно будет добраться до космопорта и вернуть в строй системы наведения и слежения. Близлежащая заброшенная застава связи может содержать полезную информацию или, возможно, действующий канал связи с главной базой."
 
 "[english]tf1_desertoutpost_2_title"		"Investigate Source of Distress Signal"
-"tf1_desertoutpost_2_title"		"Расследуйте источник сигнала бедствия"
+"tf1_desertoutpost_2_title"		"Разведуйте источник сигнала бедствия"
 "[english]tf1_desertoutpost_2a"		"A weak distress signal was detected in the vicinity. Investigate the source of the signal."
 "tf1_desertoutpost_2a"		"Поблизости был обнаружен слабый сигнал бедствия. Исследуйте источник сигнала."
 
@@ -7262,7 +7262,7 @@
 "tf1_desertoutpost_3a"		"Найдите дорогу к близлежащей заброшенной заставе связи."
 
 "[english]tf1_desertoutpost_4_title"		"Investigate Second Distress Signal"
-"tf1_desertoutpost_4_title"		"Расследуйте второй сигнал бедствия"
+"tf1_desertoutpost_4_title"		"Разведуйте второй сигнал бедствия"
 "[english]tf1_desertoutpost_4a"		"A second distress beacon has been picked up from your current location. Investigate this beacon."
 "tf1_desertoutpost_4a"		"С вашего текущего местоположения был обнаружен второй маяк бедствия. Исследуйте этот маяк."
 "[english]tf1_desertoutpost_4b"		"Be wary, the beacon appears to be located within an unstable cave system."
@@ -7778,7 +7778,7 @@
 "[english]rd_mission_loc_rd-bonus_mission1"		"Space Port Catastrophe"
 "rd_mission_loc_rd-bonus_mission1"		"Катастрофа в космопорте"
 "[english]rd_mission_desc_rd-bonus_mission1"		"Investigate the Space Port Catastrophe."
-"rd_mission_desc_rd-bonus_mission1"		"Расследуйте катастрофу в космопорте."
+"rd_mission_desc_rd-bonus_mission1"		"Разведуйте катастрофу в космопорте."
 "[english]rd_mission_brief_rd-bonus_mission1"		""
 "rd_mission_brief_rd-bonus_mission1"		""
 "[english]rd_mission_title_rd-bonus_mission2"		"Rapture"

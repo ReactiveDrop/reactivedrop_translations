@@ -275,10 +275,10 @@
 "item_unique_medal_mapping_2023_name"		"Испытание: Арктика (победитель #BossFight2023)"
 "[english]item_unique_medal_mapping_2023_description"		"This medal commemorates The Gauntlet: Arctic, the winner of the 2023 mapping competition."
 "item_unique_medal_mapping_2023_description"		"Эта медаль посвящена карте «Испытание: Арктика» (The Gauntlet: Arctic), победительнице в соревновании карт 2023 года."
-		"[english]item_unique_medal_mapping_2024_name"		"Downed Station (#SpaceStation2024 Winner)"
-		"item_unique_medal_mapping_2024_name"		"Downed Station (#SpaceStation2024 Winner)"
-		"[english]item_unique_medal_mapping_2024_description"		"This medal commemorates Downed Station, the winner of the 2024 mapping competition."
-		"item_unique_medal_mapping_2024_description"		"This medal commemorates Downed Station, the winner of the 2024 mapping competition."
+"[english]item_unique_medal_mapping_2024_name"		"Downed Station (#SpaceStation2024 Winner)"
+"item_unique_medal_mapping_2024_name"		"Разрушенная станция (победитель #SpaceStation2024)"
+"[english]item_unique_medal_mapping_2024_description"		"This medal commemorates Downed Station, the winner of the 2024 mapping competition."
+"item_unique_medal_mapping_2024_description"		"Эта медаль посвящена карте «Разрушенная станция» (Downed Station), победительнице в соревновании карт 2024 года."
 
 // Contains one Strange (stat-tracking) version of a weapon the player has unlocked, of the player's choice.
 "[english]item_container_beta_tester_strange_weapon_name"		"Beta Tester's Strange Weapon"
