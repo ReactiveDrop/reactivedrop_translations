@@ -22,7 +22,7 @@
 "[english]ror_newItemCount"		"%s1You now have %s2 stacks of %s3."
 "ror_newItemCount"		"%s1현재 %s3 의 누적 수량: %s2."
 "[english]ror_newItemCount_1"		"%s1You now have %s2 stack of %s3."
-"ror_newItemCount_1"		%s1현재 %s3 의 보유 수량: %s2."
+"ror_newItemCount_1"		"%s1현재 %s3 의 보유 수량: %s2."
 "[english]ror_bossKeyDropped"		"The Boss Key has been dropped. Carry it to the end of the stage to spawn the Boss on the next stage."
 "ror_bossKeyDropped"		"보스 키가 떨어졌습니다. 다음 맵에서 보스를 생성하기 위해 클리어할때 까지 들고 계세요."
 "[english]ror_bossKilled"		"The boss has been defeated. Complete the current stage to end the run with a victory."
