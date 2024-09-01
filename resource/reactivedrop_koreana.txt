@@ -615,7 +615,7 @@
 "rd_points_reduced_due_to_farming"		"최근 이 맵을 플레이해서 획득 점수가 감소했습니다.\n"
 // %s1 is a player name; %s2, %s3, and %s4 are numbers.
 "[english]rd_hoiaf_new_personal_best_score_on_this_mission"		"%s1 has improved their seasonal personal best score on this mission from %s2 to %s3, increasing their bonus points this season by +%s4!\n"
-"rd_hoiaf_new_personal_best_score_on_this_mission"		"%s1 해병이 해당 임무의 시즌 최고 점수를 %s2 점에서 %s3 점으로 갱신하였습니다, 이번 시즌의 추가 점수가 +%s4 점 증가합니다!\n"
+"rd_hoiaf_new_personal_best_score_on_this_mission"		"%s1 해병이 해당 임무의 시즌 최고 점수를 %s2 점에서 %s3 점으로 갱신하였습니다. 이번 시즌 총 점수에 +%s4 점이 추가됩니다!\n"
 // %s1 is a player name; %s2 and %s3 are numbers.
 "[english]rd_hoiaf_bounty_mission_bonus_claimed"		"By completing this mission, %s1 has claimed a bounty of %s2 points! %s1 has claimed %s3 points from mission bounties so far this season.\n"
 "rd_hoiaf_bounty_mission_bonus_claimed"		"해당 임무를 완수하여 %s1 해병은 현상금 점수 %s2 점을 획득하였습니다! %s1 해병이 현재 시즌에서 획득한 현상금 점수는 총 %s3 점 입니다.\n"
