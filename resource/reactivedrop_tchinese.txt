@@ -831,7 +831,7 @@
 "asw_weapon_laser_mines_attributes"		"可放置在牆壁上"
 "[english]asw_weapon_t75"		"T75"
 "asw_weapon_t75"		"T75"
-"[english]asw_weaponl_t75"		"T75 炸藥"
+"[english]asw_weaponl_t75"		"T75 Explosives"
 "asw_weaponl_t75"		"T75 炸藥"
 "[english]asw_weapon_t75_attributes"		"Door Buster"
 "asw_weapon_t75_attributes"		"可用來炸門"
