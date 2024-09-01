@@ -185,7 +185,7 @@
 "[english]ror_itemDesc_red_fist"		"All hits explode, dealing 60% TOTAL damage. Stacks range."
 "ror_itemDesc_red_fist"		"모든 공격이 폭발하며 총 피해량의 60% 만큼의 피해를 가합니다. 누적 시 범위 증가."
 "[english]ror_itemDesc_red_grenades"		"Killing 4 enemies in 7 seconds fires a high damage grenade at the nearest enemy. Stacks damage."
-"ror_itemDesc_red_grenades"		""7초 이내에 4마리의 적 처치 시 가장 가까운 적을 향해 고위력의 유탄 발사. 누적 시 공격력 증가."
+"ror_itemDesc_red_grenades"		"7초 이내에 4마리의 적 처치 시 가장 가까운 적을 향해 고위력의 유탄 발사. 누적 시 공격력 증가."
 "[english]ror_itemDesc_red_night_vision"		"Chance to reanimate killed enemies into ghost allies. Stacks ghost lifespan."
 "ror_itemDesc_red_night_vision"		"처치한 적을 아군 유령으로 부활시킴. 누적 시 유령 수명 증가."
 "[english]ror_itemDesc_red_smart_bomb"		"All item-spawned rockets spawn 2 more times. Stacks bonus damage to rockets."
