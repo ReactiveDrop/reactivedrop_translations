@@ -373,7 +373,7 @@
 			"description_latam": "Esta cajita podría servir para guardar una pequeña cantidad de algo.",
 			"description_russian": "Эта маленькая коробочка может использоваться для хранения небольшого количества чего-либо.",
 			"description_schinese": "这是一个小箱子。可用于存放少量物品。",
-			"description_swedish": "Denna lilla låda kan användas för att förvara en liten mängd av någonting",
+			"description_swedish": "Denna lilla låda kan användas för att förvara en liten mängd av någonting.",
 			"description_vietnamese": "Thùng nhỏ bé này có thể được dùng để đựng một lượng nhỏ thứ gì đó.",
 			"after_description_brazilian": "Quantidade: %m_unQuantity%",
 			"after_description_english": "Quantity: %m_unQuantity%",

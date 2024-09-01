@@ -19,10 +19,10 @@
 | [European Portuguese](#portuguese-português-europeu) | 5 | 180 | 33 | 2318 | 251 | 33 | 633 | 141 |
 | [Brazilian Portuguese](#brazilian-português) | 1 | ✔️ | ✔️ | 1488 | 13 | 3 | 1 | 2 |
 | [Romanian](#non-curated-languages) | 56 | 1996 | 49 | 3940 | 271 | 212 | 978 | 147 |
-| [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | ✔️ | 2 | ✔️ | ✔️ | 1 |
+| [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [European Spanish](#spanish-español-de-españa) | 33 | 2004 | 41 | 2645 | 271 | 212 | 717 | 146 |
 | [Latin American Spanish](#latam-español-latinoamericano) | 1 | 2004 | ✔️ | 4280 | 19 | 3 | 204 | 142 |
-| [Swedish](#swedish-svenska) | ✔️ | ✔️ | ✔️ | 877 | ✔️ | ✔️ | ✔️ | 87 |
+| [Swedish](#swedish-svenska) | ✔️ | ✔️ | ✔️ | 877 | ✔️ | ✔️ | ✔️ | 84 |
 | [Thai](#non-curated-languages) | 971 | 1993 | 51 | 4476 | 271 | 212 | 742 | 147 |
 | [Turkish](#non-curated-languages) | 56 | 137 | 43 | 3228 | 271 | 212 | 978 | 147 |
 | [Ukrainian](#ukrainian-українська) | 32 | 131 | 33 | 2773 | 271 | 212 | 936 | 146 |
@@ -1260,13 +1260,7 @@
 
 </summary>
 
-### Strings
-
-- [items_russian.vdf](community/inventory_service/items_russian.vdf) has 2 untranslated strings.
-
-### Upcoming Release Notes
-
-- [20240901_russian.xml](release_notes/20240901_english.xml) is missing.
+✓ Up to date!
 
 </details>
 
@@ -1712,9 +1706,6 @@
 - [mail/tilarus01port_craigsthingpda_swedish.txt](resource/mail/tilarus01port_craigsthingpda_english.txt) is missing.
 - [mail/tilarus03arctic_mail2_swedish.txt](resource/mail/tilarus03arctic_mail2_english.txt) is missing.
 - [mail/tilarus03arctic_mail4_swedish.txt](resource/mail/tilarus03arctic_mail4_english.txt) is missing.
-- [mail/tutorialmail1_swedish.txt](resource/mail/tutorialmail1_english.txt) is missing.
-- [mail/tutorialmail2_swedish.txt](resource/mail/tutorialmail2_english.txt) is missing.
-- [mail/tutorialmail3_swedish.txt](resource/mail/tutorialmail3_english.txt) is missing.
 - [news/antheonmissingnews_swedish.txt](resource/news/antheonmissingnews_english.txt) is missing.
 - [news/antheonmoonnews_swedish.txt](resource/news/antheonmoonnews_english.txt) is missing.
 - [news/brainnews_swedish.txt](resource/news/brainnews_english.txt) is missing.
