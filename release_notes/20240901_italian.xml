@@ -3,7 +3,7 @@
 Downed Station di legomanas
 [img]{STEAM_CLAN_IMAGE}/27357479/96f9509932b257ed89058f3bcb4450083fe834de.png[/img]
 
-[h2]Changes in this update[/h2]
+[h2]Cambiamenti in questo aggiornamento[/h2]
 [list]
 [*]Rimossa la convar cl_interp. Il gioco ora si comporterà come se fosse stata impostata a 0.
 [*]Migliorato il messaggio di errore visualizzato durante la connessione a un server che non si è ancora aggiornato.
