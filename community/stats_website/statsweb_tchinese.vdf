@@ -270,7 +270,7 @@
 "[english]StatsWeb_WeaponStat_AccuracyDesc"		"Accuracy of over 100% means hitting multiple aliens per shot."
 "StatsWeb_WeaponStat_AccuracyDesc"		"命中率超過100%代表一發同時擊中多隻異形。"
 "[english]StatsWeb_WeaponStat_AlternateFire"		"Alternate Fire"
-"StatsWeb_WeaponStat_AlternateFire"		"輔助開火"
+"StatsWeb_WeaponStat_AlternateFire"		"輔助射擊"
 "[english]StatsWeb_WeaponStat_Deployed"		"Deployed"
 "StatsWeb_WeaponStat_Deployed"		"放置次數"
 "[english]StatsWeb_WeaponStat_Used"		"Used"
