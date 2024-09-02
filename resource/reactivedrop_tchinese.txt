@@ -2414,7 +2414,7 @@
 "[english]asw_wdesc_autogun"		"The S23A SynTek Autogun is among the most advanced squad assault weapons currently available. Featuring a sophisticated tracking system and a powerful electromagnetic field induction chamber, this weapon can identify hostile targets and automatically alter the trajectory of bullets as they leave the barrel to ensure a hit. The Autogun has significant stopping power and can be used to suppress a large number of incoming targets. Special Weapons training is required."
 "asw_wdesc_autogun"		"S23A SynTek 自動機槍是現有最具威力的團隊突擊型武器。其配備了一個先進的追蹤系統以及一個強力的磁場感應裝置，這把武器能夠識別敵方目標以及自動調整子彈軌迹，以確保能準確命中目標。這把自動機槍還具有停止作用能力，因此能用於對付大量來襲的目標。需要接受過特殊武器訓練才能使用這武器。"
 "[english]asw_wdesc_minigun"		"The IAF Minigun features a very high rate of fire and wide spread, making it ideal for taking out large groups of hostile targets. This weapon has a short delay before firing in order to spin the barrel up to the required RPM. The alt-fire trigger will spin up the barrel without firing."
-"asw_wdesc_minigun"		"IAF 迷你機槍具有極高的射速以及廣闊著彈點，使得它成爲了對付大群敵人的理想裝備。這件武器在開火前會有一小段延遲，因爲它得先進行槍管旋轉以達到所需的轉速。它的輔助開火模式爲旋轉槍管但不進行發射。"
+"asw_wdesc_minigun"		"IAF 迷你機槍具有極高的射速以及廣闊著彈點，使得它成爲了對付大群敵人的理想裝備。這件武器在開火前會有一小段延遲，因爲它得先進行槍管旋轉以達到所需的轉速。它的輔助射擊模式爲旋轉槍管但不進行發射。"
 "[english]asw_wdesc_bait"		"A large chunk of synthetic meat soaked in Swarm pheromones. Will temporarily distract any nearby Swarm."
 "asw_wdesc_bait"		"蟲餌是一大塊含有異形信息素的合成肉塊。能暫時把附近的異形都吸引開來。"
 "[english]asw_wdesc_shotgun"		"A traditional manually operated pump-action shotgun, firing 12-guage rounds. Favoured for its powerful, close range, wide-spread blast. The receiver is designed to hold four Magnum shells."
