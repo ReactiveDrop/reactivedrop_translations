@@ -110,11 +110,11 @@
 "[english]item_community_medal_translator_name"		"Translator"
 "item_community_medal_translator_name"		"翻譯員"
 "[english]item_community_medal_translator_description"		"Awarded by Reactive Drop Team for contributing to the Alien Swarm: Reactive Drop translation project."
-"item_community_medal_translator_description"		"因幫助遊戲翻譯而贈與此勳章。"
+"item_community_medal_translator_description"		"因對遊戲翻譯有所貢獻而贈與此勳章。"
 "[english]item_community_medal_programmer_name"		"Programmer"
 "item_community_medal_programmer_name"		"程式員"
 "[english]item_community_medal_programmer_description"		"Awarded by Reactive Drop Team for contributing to the code that powers Alien Swarm: Reactive Drop."
-"item_community_medal_programmer_description"		"因對遊戲的程式碼有所貢獻而贈與此勳章。"
+"item_community_medal_programmer_description"		"因對遊戲程式碼有所貢獻而贈與此勳章。"
 "[english]item_community_medal_mapper_name"		"Mapper"
 "item_community_medal_mapper_name"		"地圖製作家"
 "[english]item_community_medal_mapper_description"		"Awarded by Reactive Drop Team to authors of high-quality maps."
@@ -130,7 +130,7 @@
 "[english]item_community_medal_artist_name"		"Artist"
 "item_community_medal_artist_name"		"藝術家"
 "[english]item_community_medal_artist_description"		"Awarded by Reactive Drop Team for contributing art that is used in Alien Swarm: Reactive Drop."
-"item_community_medal_artist_description"		"因幫遊戲設計出高品質的美術而贈與此勳章。"
+"item_community_medal_artist_description"		"因對遊戲美術有所貢獻而贈與此勳章。"
 "[english]item_community_medal_reporter_name"		"Reporter"
 "item_community_medal_reporter_name"		"回報員"
 "[english]item_community_medal_reporter_description"		"Awarded by Reactive Drop Team for high quality bug reports in Alien Swarm: Reactive Drop."
@@ -425,12 +425,12 @@
 //
 // A large variety of crafting materials have appeared (once per week).
 "[english]notification_crafting_items_appeared_weekly_name"		"Large quantity of resources located."
-"notification_crafting_items_appeared_weekly_name"		"偵查到大量的物資."
+"notification_crafting_items_appeared_weekly_name"		"偵測到大量的物資."
 "[english]notification_crafting_items_appeared_weekly_description"		"Check the mission list for possible locations of crafting materials."
 "notification_crafting_items_appeared_weekly_description"		"從任務清單中確認特定製作素材的位置。"
 // An additional small variety of crafting materials have appeared (based on playtime).
 "[english]notification_crafting_items_appeared_playtime_name"		"Additional resources located."
-"notification_crafting_items_appeared_playtime_name"		"偵查到額外的物資"
+"notification_crafting_items_appeared_playtime_name"		"偵測到額外的物資"
 "[english]notification_crafting_items_appeared_playtime_description"		"Check the mission list for possible locations of crafting materials."
 "notification_crafting_items_appeared_playtime_description"		"從任務清單中確認特定製作素材的位置。"
 
@@ -448,7 +448,7 @@
 "item_strange_device_enemies_frozen_name"		"已凍結敵人"
 // extinguished as in putting out a fire
 "[english]item_strange_device_allies_extinguished_name"		"Allies Extinguished"
-"item_strange_device_allies_extinguished_name"		"已滅火的異形"
+"item_strange_device_allies_extinguished_name"		"已滅火異形"
 "[english]item_strange_device_alien_kill_streak_name"		"Alien Kill Streak"
 "item_strange_device_alien_kill_streak_name"		"連續擊殺異形"
 // Alien Kill Streak: 1234 (Best: 5678)
