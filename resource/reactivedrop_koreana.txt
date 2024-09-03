@@ -6231,7 +6231,7 @@
 "[english]asw_wdesc_plasma_thrower"		""
 "asw_wdesc_plasma_thrower"		""
 "[english]asw_weapon_plasma_thrower_altfire"		"Pressurized Air Blast"
-"asw_weapon_plasma_thrower_altfire"		"가압 에어 블래스트"
+"asw_weapon_plasma_thrower_altfire"		"압축 공기 분사기"
 "[english]asw_weapon_plasma_thrower_attributes"		"Extreme Damage, Loses Accuracy"
 "asw_weapon_plasma_thrower_attributes"		"극강의 공격력, 저하된 명중률"
 "[english]asw_weapon_hack_tool"		"Hack Pad"
