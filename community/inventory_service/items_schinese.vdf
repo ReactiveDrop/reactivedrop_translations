@@ -275,10 +275,10 @@
 "item_unique_medal_mapping_2023_name"		"北极挑战 (#Boss大战2023 冠军)"
 "[english]item_unique_medal_mapping_2023_description"		"This medal commemorates The Gauntlet: Arctic, the winner of the 2023 mapping competition."
 "item_unique_medal_mapping_2023_description"		"勋章授予2023地图大赛冠军作品《北极挑战》的作者"
-		"[english]item_unique_medal_mapping_2024_name"		"Downed Station (#SpaceStation2024 Winner)"
-		"item_unique_medal_mapping_2024_name"		"陨落空间站(#空间站2024 冠军)"
-		"[english]item_unique_medal_mapping_2024_description"		"This medal commemorates Downed Station, the winner of the 2024 mapping competition."
-		"item_unique_medal_mapping_2024_description"		"勋章授予2024地图大赛冠军作品《陨落空间站》的作者"
+"[english]item_unique_medal_mapping_2024_name"		"Downed Station (#SpaceStation2024 Winner)"
+"item_unique_medal_mapping_2024_name"		"陨落空间站(#空间站2024 冠军)"
+"[english]item_unique_medal_mapping_2024_description"		"This medal commemorates Downed Station, the winner of the 2024 mapping competition."
+"item_unique_medal_mapping_2024_description"		"勋章授予2024地图大赛冠军作品《陨落空间站》的作者"
 
 // Contains one Strange (stat-tracking) version of a weapon the player has unlocked, of the player's choice.
 "[english]item_container_beta_tester_strange_weapon_name"		"Beta Tester's Strange Weapon"
