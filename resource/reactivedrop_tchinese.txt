@@ -4462,7 +4462,7 @@
 "rdui_gungame_title"		"槍械遊戲模式"
 "[english]rdui_gungame_tooltip"		"Spawn, kill, get new gun for each kill"
 "rdui_gungame_tooltip"		"重生，殺死敵人， 每擊殺一次獲得新武器"
-"[english]rdui_instagib_title"		"Instagib"
+"[english]rdui_instagib_title"		"InstaGib"
 "rdui_instagib_title"		"一擊斃殺模式"
 "[english]rdui_instagib_tooltip"		"One hit = one kill, easy. Remember Crash is OP with railgun"
 "rdui_instagib_tooltip"		"一擊 = 一殺， 很好記. 記得Crash拿軌道槍很OP。"
