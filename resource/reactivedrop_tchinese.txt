@@ -4606,9 +4606,9 @@
 "[english]rd_workshop_conflict_explain"		"Some filenames in this addon match the names of different files in other addons. Only one file can be loaded for each name."
 "rd_workshop_conflict_explain"		"此附件中的部分檔案名稱和其他附件的檔案有相同的名稱。只能夠擇一來讀取。"
 "[english]rd_workshop_conflict_won"		"\n- File \"%s1\" overrides addon \"%s2\""
-"rd_workshop_conflict_won"		"\n- 檔案 \"%s1\"將改寫附件\"%s2\""
+"rd_workshop_conflict_won"		"\n- 檔案 \%s1\將覆蓋附件\%s2\"
 "[english]rd_workshop_conflict_lost"		"\n- File \"%s1\" is overridden by addon \"%s2\""
-"rd_workshop_conflict_lost"		"\n- 檔案 \"%s1\"已被附件\"%s2\"所覆蓋"
+"rd_workshop_conflict_lost"		"\n- 檔案 \%s1\已被附件\%s2\ 所覆蓋"
 
 "[english]asw_weapon_healamp_gun"		"Medical Amplifier Gun"
 "asw_weapon_healamp_gun"		"醫療強化槍"
