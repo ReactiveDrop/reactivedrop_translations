@@ -51,7 +51,7 @@
 "[english]examplecampaign_debrief1"		"Place an asw_debrief_info to show a message to players who complete the mission."
 "examplecampaign_debrief1"		"追加asw_debrief_info來提示完成任務的玩家一則訊息。"
 "[english]examplecampaign_debrief2"		"Debriefing text is shown between missions."
-"examplecampaign_debrief2"		"任務完成文字會在每個任務之間顯示出來。\"
+"examplecampaign_debrief2"		"任務完成文字會在每個任務之間顯示出來。"
 
 "[english]examplecampaign_interactive_objects_message1"		"Interactive objects in Alien Swarm"
 "examplecampaign_interactive_objects_message1"		"遊戲中可互動的物件"
