@@ -288,7 +288,7 @@
 "item_container_beta_tester_strange_weapon_description"		"Dziwna skrzynka zawierająca broń. Jaka to broń? Ciężar w tej skrzynce wydaje się zmieniać gdy rozważasz możliwości."
 // Contains one Strange Device (stat-tracking module) of the player's choice.
 "[english]item_container_beta_tester_strange_device_name"		"Beta Tester's Strange Device"
-"item_container_beta_tester_strange_device_name"		"BDziwne Urządzenie Beta Testera"
+"item_container_beta_tester_strange_device_name"		"Dziwne Urządzenie Beta Testera"
 "[english]item_container_beta_tester_strange_device_description"		"A strange assortment of circuit boards that don't seem like they should be compatible. The device does not appear to ever have been powered on."
 "item_container_beta_tester_strange_device_description"		"Dziwny zestaw płytek drukowanych, które nie wydają się być kompatybilne. Wygląda na to, że urządzenie nigdy nie było włączone."
 
