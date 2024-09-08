@@ -40,7 +40,7 @@
 "inventory_rarity_genuine"		"Oryginał"
 // items that count stats.
 "[english]inventory_rarity_strange_rarity"		"Strange"
-"inventory_rarity_strange_rarity"		"Kuriozum"
+"inventory_rarity_strange_rarity"		"Dziwny"
 // where an item can be equipped.
 "[english]inventory_slot"		"Slot"
 "inventory_slot"		"Slot"
