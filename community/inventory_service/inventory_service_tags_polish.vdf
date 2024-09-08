@@ -78,7 +78,7 @@
 "inventory_crafting_item_alien_part"		"Materiał Obcy"
 // rare crafting materials.
 "[english]inventory_crafting_item_computer_part"		"Tech Material"
-"inventory_crafting_item_computer_part"		"Materiał techniczny"
+"inventory_crafting_item_computer_part"		"Materiał technologiczny"
 // crafting items that can be found by playing some campaigns but not others.
 "[english]inventory_crafting_item_regional"		"Salvaged Material"
 "inventory_crafting_item_regional"		"Materiał z odzysku"
