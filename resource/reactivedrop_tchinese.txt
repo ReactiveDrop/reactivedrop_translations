@@ -2088,7 +2088,7 @@
 "[english]asw_player_invulnurable"		"%s1 is now invulnurable"
 "asw_player_invulnurable"		"%s1 現在不會受到傷害"
 "[english]asw_suicide_male"		"%s1 killed himself."
-"asw_suicide_male"		"%s1 。"
+"asw_suicide_male"		"%s1 把自己殺死了。"
 "[english]asw_suicide_female"		"%s1 killed herself."
 "asw_suicide_female"		"%s1 把自己殺死了。"
 "[english]asw_suicide_robot"		"%s1 killed itself."
