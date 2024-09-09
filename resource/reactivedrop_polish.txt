@@ -10434,7 +10434,7 @@
 "[english]rd_redeem_special_error"		"An error occurred while verifying your account. Try again later."
 "rd_redeem_special_error"		"Wystąpił błąd podczas weryfikacji konta. Spróbuj ponownie później."
 "[english]rd_redeem_special_already"		"You have already redeemed these items."
-"rd_redeem_special_already"		"Te przedmioty zostały już przyznane."
+"rd_redeem_special_already"		"Te przedmioty zostały już zrealizowane."
 "[english]rd_redeem_special_unavailable"		"These items are not currently available."
 "rd_redeem_special_unavailable"		"Te przedmioty nie są obecnie dostępne."
 "[english]rd_redeem_special_success"		"Success! The items have been added to your inventory."

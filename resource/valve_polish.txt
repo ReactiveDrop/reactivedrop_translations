@@ -342,7 +342,7 @@
 "[english]Valve_Hint_Command_recall"		"%impulse 50% TWICE TO RECALL YOUR SQUAD"
 "Valve_Hint_Command_recall"		"%impulse 50% DWUKROTNIE, BY WEZWAĆ DRUŻYNĘ"
 "[english]Valve_Hint_CraneKeys"		"%+forward% EXTEND ARM %+back% RETRACT ARM %+moveleft% TURN LEFT %+moveright% TURN RIGHT %+attack% PICKUP OR DROP OBJECT"
-"Valve_Hint_CraneKeys"		"%+forward% WYCIĄGNIJ RAMIĘ %+back% COFNIJ RAMIĘ %+moveleft% OBRÓT W LEWO %+moveright% OBRÓT W PRAWO %+attack% PODNIEŚ LUB UPUŚĆ PRZEDMIOT	"
+"Valve_Hint_CraneKeys"		"%+forward% WYCIĄGNIJ RAMIĘ %+back% COFNIJ RAMIĘ %+moveleft% OBRÓT W LEWO %+moveright% OBRÓT W PRAWO %+attack% PODNIEŚ LUB UPUŚĆ PRZEDMIOT"
 "[english]Valve_Hint_BoatKeys"		"%+forward% SPEED UP %+back% SLOW DOWN %+moveleft% TURN LEFT %+moveright% TURN RIGHT"
 "Valve_Hint_BoatKeys"		"%+forward% SZYBCIEJ %+back% WOLNIEJ %+moveleft% SKRĘT W LEWO %+moveright% SKRĘT W PRAWO"
 "[english]Valve_Hint_JeepKeys"		"%+speed% TURBO %+jump% HANDBRAKE"
@@ -507,7 +507,7 @@
 "[english]Valve_Hint_Alt_Weapon_Frag"		"%+attack% THROW GRENADE %+attack2% DROP GRENADE"
 "Valve_Hint_Alt_Weapon_Frag"		"%+attack% RZUĆ GRANAT %+attack2% UPUŚĆ GRANAT"
 "[english]Valve_Hint_Alt_Weapon_Bugbait"		"%+attack% THROW PHEROPOD %+attack2% SQUEEZE PHEROPOD"
-"Valve_Hint_Alt_Weapon_Bugbait"		""%+attack% RZUĆ PHEROPODA %+attack2% ŚCIŚNIJ PHEROPODA"
+"Valve_Hint_Alt_Weapon_Bugbait"		"%+attack% RZUĆ PHEROPODA %+attack2% ŚCIŚNIJ PHEROPODA"
 "[english]Valve_Hint_Alt_Weapon_Physcannon"		"%+attack% LAUNCH OBJECT %+attack2% GRAB OBJECT"
 "Valve_Hint_Alt_Weapon_Physcannon"		"%+attack% ODPAL PRZEDMIOT %+attack2% CHWYĆ PRZEDMIOT"
 
