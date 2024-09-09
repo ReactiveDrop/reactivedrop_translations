@@ -3938,7 +3938,7 @@
 "[english]ASW_HORNET_KILLS_DESC"		"Kill 100 Swarm with Hornet Barrage attacks."
 "ASW_HORNET_KILLS_DESC"		"집중 유도탄을 이용해 외계 무리 100마리를 죽이십시오."
 "[english]ASW_LASER_MINE_KILLS_DESC"		"Kill 100 Swarm with Laser Mines."
-"ASW_LASER_MINE_KILLS_DESC"		"채광 레이저를 이용해 외계 무리 100마리를 죽이십시오."
+"ASW_LASER_MINE_KILLS_DESC"		"레이저 감지식 지뢰를 이용해 외계 무리 100마리를 죽이십시오."
 "[english]ASW_MINE_KILLS_DESC"		"Kill 100 Swarm with Incendiary Mines."
 "ASW_MINE_KILLS_DESC"		"소이 지뢰를 이용해 외계 무리 100마리를 죽이십시오."
 "[english]ASW_UNLOCK_ALL_WEAPONS_DESC"		"Unlock all the available weapons."
