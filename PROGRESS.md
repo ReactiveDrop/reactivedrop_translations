@@ -13,7 +13,7 @@
 | [Indonesian](#indonesian-indonesia) | 1286 | 2004 | 635 | 4740 | 274 | 216 | 983 | 147 |
 | [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 35 | ✔️ |
-| [Korean](#koreana-한국어) | ✔️ | ✔️ | ✔️ | 616 | ✔️ | ✔️ | 223 | 48 |
+| [Korean](#koreana-한국어) | ✔️ | ✔️ | ✔️ | 616 | ✔️ | ✔️ | 223 | 47 |
 | [Norwegian Bokmål](#non-curated-languages) | 74 | 708 | 48 | 3934 | 271 | 212 | 713 | 147 |
 | [Polish](#polish-polski) | 33 | 2004 | 43 | 3230 | 271 | 212 | 709 | 143 |
 | [European Portuguese](#portuguese-português-europeu) | 5 | 180 | 33 | 2318 | 251 | 33 | 633 | 141 |
@@ -799,7 +799,6 @@
 
 ### Steam Store and Community
 
-- [workshop_tags_koreana.json](community/workshop/workshop_tags_english.json) is missing.
 - [content_warning_563560_koreana.txt](store_page/content_warning_563560_english.txt) is missing.
 - [storepage_81731_koreana.json](store_page/storepage_81731_koreana.json) has 6 indented lines.
 
