@@ -369,7 +369,7 @@
 "[english]L4D360UI_Join_Create"		"CREATE A GAME"
 "L4D360UI_Join_Create"		"創立遊戲大廳"
 
-//generic error mess
+//generic error messages
 "[english]L4D360UI_MsgBx_NeedTwoProfilesC"		"Play Splitscreen"
 "L4D360UI_MsgBx_NeedTwoProfilesC"		"進行分割畫面遊戲"
 "[english]L4D360UI_MsgBx_NeedTwoProfilesTxt"		"Two gamer profiles must be signed in to play splitscreen."
