@@ -22,7 +22,7 @@
 | [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [European Spanish](#spanish-español-de-españa) | 33 | 2004 | 41 | 2645 | 271 | 212 | 717 | 146 |
 | [Latin American Spanish](#latam-español-latinoamericano) | 1 | 2004 | ✔️ | 4280 | 19 | 3 | 204 | 142 |
-| [Swedish](#swedish-svenska) | ✔️ | ✔️ | ✔️ | 877 | ✔️ | ✔️ | ✔️ | 84 |
+| [Swedish](#swedish-svenska) | ✔️ | ✔️ | ✔️ | 550 | ✔️ | ✔️ | ✔️ | 82 |
 | [Thai](#non-curated-languages) | 971 | 1993 | 51 | 4476 | 271 | 212 | 742 | 147 |
 | [Turkish](#non-curated-languages) | 56 | 137 | 43 | 3228 | 271 | 212 | 978 | 147 |
 | [Ukrainian](#ukrainian-українська) | 32 | 131 | 33 | 2773 | 271 | 212 | 936 | 146 |
@@ -1622,7 +1622,7 @@
 
 ### Strings
 
-- [reactivedrop_swedish.txt](resource/reactivedrop_swedish.txt) has 877 untranslated strings.
+- [reactivedrop_swedish.txt](resource/reactivedrop_swedish.txt) has 550 untranslated strings.
 
 ### Upcoming Release Notes
 
@@ -1640,7 +1640,6 @@
 - [mail/acc_power1_swedish.txt](resource/mail/acc_power1_english.txt) is missing.
 - [mail/acc_power2_swedish.txt](resource/mail/acc_power2_english.txt) is missing.
 - [mail/acc_power3_swedish.txt](resource/mail/acc_power3_english.txt) is missing.
-- [mail/acc_research1_swedish.txt](resource/mail/acc_research1_english.txt) is missing.
 - [mail/acc_research2_swedish.txt](resource/mail/acc_research2_english.txt) is missing.
 - [mail/acc_research3_swedish.txt](resource/mail/acc_research3_english.txt) is missing.
 - [mail/labsmail2_swedish.txt](resource/mail/labsmail2_english.txt) is missing.
@@ -1679,7 +1678,6 @@
 - [mail/queenlairmail2_swedish.txt](resource/mail/queenlairmail2_english.txt) is missing.
 - [mail/rd-benson_swedish.txt](resource/mail/rd-benson_english.txt) is missing.
 - [mail/rd-cave_geologist1_swedish.txt](resource/mail/rd-cave_geologist1_english.txt) is missing.
-- [mail/rd-lan-pda1_swedish.txt](resource/mail/rd-lan-pda1_english.txt) is missing.
 - [mail/rd-lan-pda2_swedish.txt](resource/mail/rd-lan-pda2_english.txt) is missing.
 - [mail/rd-lan-pda3_swedish.txt](resource/mail/rd-lan-pda3_english.txt) is missing.
 - [mail/rd-lan-pda4_swedish.txt](resource/mail/rd-lan-pda4_english.txt) is missing.
