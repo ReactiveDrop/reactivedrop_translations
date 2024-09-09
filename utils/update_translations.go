@@ -192,7 +192,7 @@ func checkBOM(name string) {
 	if !bytes.HasPrefix(b, utf8BOM[:]) {
 		fmt.Printf("Adding missing byte order mark to file %q\n", name)
 		err = os.WriteFile(name, append(append([]byte(nil), utf8BOM[:]...), b...), 0644)
-		if err == nil {
+		if err != nil {
 			panic(err)
 		}
 	}
