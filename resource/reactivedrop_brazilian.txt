@@ -2572,6 +2572,7 @@
 "asw_force_continuem"		"Nem todos os jogadores estão prontos. Deseja salvar e continuar de qualquer forma?"
 "[english]asw_force_restartm"		"Not all players are ready. Do you wish to restart anyway?"
 "asw_force_restartm"		"Nem todos os jogadores estão prontos. Deseja reiniciar de qualquer forma?"
+// These two strings are button texts. Translation shouldn't be very long. See other files for other translation variants.
 "[english]asw_force_ready"		"Force Ready"
 "asw_force_ready"		"Forçar Pronto"
 "[english]asw_force_ready_delayed"		"Force Ready (%s1)"
@@ -3226,6 +3227,7 @@
 "asw_holdout_complete"		"VOCÊ É UM VENCEDOR!"
 
 // new briefing
+// This string shows in briefing title. Translation shouldn't be very long. See other files for other translation variants.
 "[english]nb_mission_prep"		"MISSION PREP"
 "nb_mission_prep"		"PREPARAÇÃO DA MISSÃO"
 "[english]nb_ready"		"READY"

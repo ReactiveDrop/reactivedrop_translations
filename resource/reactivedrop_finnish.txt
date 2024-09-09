@@ -2572,6 +2572,7 @@
 "asw_force_continuem"		"Kaikki pelaajat eivät ole valmiina. Haluatko kuitenkin tallentaa pelin ja jatkaa?"
 "[english]asw_force_restartm"		"Not all players are ready. Do you wish to restart anyway?"
 "asw_force_restartm"		"Kaikki pelaajat eivät ole valmiina. Haluatko kuitenkin aloittaa alusta?"
+// These two strings are button texts. Translation shouldn't be very long. See other files for other translation variants.
 "[english]asw_force_ready"		"Force Ready"
 "asw_force_ready"		"Pakota valmius"
 "[english]asw_force_ready_delayed"		"Force Ready (%s1)"
@@ -3226,6 +3227,7 @@
 "asw_holdout_complete"		"SINÄ VOITIT!"
 
 // new briefing
+// This string shows in briefing title. Translation shouldn't be very long. See other files for other translation variants.
 "[english]nb_mission_prep"		"MISSION PREP"
 "nb_mission_prep"		"TEHTÄVÄÄN VALMISTAUTUMINEN"
 "[english]nb_ready"		"READY"
