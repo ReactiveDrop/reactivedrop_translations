@@ -4,6 +4,7 @@
 "Tokens"
 {
 // used to transform item names on the Steam Community. shows for items that have attached accessories, like a strange weapon with at least one strange device attached.
+// %ITEMNAME% gets replaced with the item's default name; anything else between percent signs is replaced with a tag's name. don't translate the words between %.
 "[english]inventory_name_format_1"		"%ITEMNAME% (Customized)"
 "inventory_name_format_1"		"%ITEMNAME% (Maßgeschneidert)"
 "[english]inventory_name_format_2"		""
