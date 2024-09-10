@@ -3227,7 +3227,7 @@
 
 // new briefing
 "[english]nb_mission_prep"		"MISSION PREP"
-"nb_mission_prep"		"TEHTÄVÄÄN VALMISTAUTUMINEN"
+"nb_mission_prep"		"VALMISTAUTUMINEN"
 "[english]nb_ready"		"READY"
 "nb_ready"		"VALMIS"
 "[english]nb_start_mission"		"START MISSION"
