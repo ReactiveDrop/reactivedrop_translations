@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<content><string id="body">[i]Kommandant,
+
+Das Büro dankt Ihnen für Ihre harte Arbeit am Projekt "anomale Materialien". Unsere Leute im Labor sagen, dass sie bald für Phase 2 bereit sein werden. Wir geben Ihnen Bescheid, wenn es soweit ist. Sie werden es erkennen, wenn Sie es sehen.
+
+Oh, und einen schönen Monat des Zorns.
+
+Dr. Helvetica Scenario
+Abteilung Ökologische Konsistenz 
+Büro für Konsenspflege[/i]
+
+[h2]Aliens[/h2]
+[list]
+[*]Aliens verursachen endlich Schaden wenn sie einen anderen Alien im Nahkampf angreifen (bei eigener ai_relationship).
+[*]Das Einfrieren eines Charakters verlangsamt jetzt auch die Simulation von jigglebones. Zum Beispiel die Antenne oder Kabel am Rucksack eines Soldaten.
+[*]Drohnen zucken jetzt basierend auf den Werten der Waffe die sie verletzt hat, und nicht mehr auf der aktuellen Waffe des Soldaten. Also wenn du z.B. von einem Flammenwerfer zu einer PDW wechselst, während die Flammen unterwegs sind.
+[*]Eingefrorene Aliens starten ihre aktuelle Animation nicht mehr neu, wenn sie auftauen, und können sich in manchen Fällen nicht mehr bewegen oder drehen, wenn sie eingefroren sind.
+[*]Boomer können nicht mehr beschließen, im gefrorenen Zustand zu explodieren.
+[*]Die Schatten von den Tentakeln der Königin wurden entfernt.
+[*]Nahkampf verursacht jetzt doppelten Schaden an gefrorenen Feinden. Außerdem gibt es neue Convars für die Schadensskalierung gegen brennende Feinde, die von Mods verwendet werden können.
+[*]Feinde können jetzt über 100% eingefroren sein. Aliens, die über 100% eingefroren sind, tauen etwas schneller auf, bis sie unter 100% fallen.
+[*]Auf einen Parasiten oder Xenomiten zu treten, verursacht jetzt 1 Schaden statt 15.
+[*]Es wurde behoben, dass Xenomiten detonieren und Parasiten befallen können, wenn sie komplett eingefroren sind.
+[*]Es wurde korrigiert das Parasiten und Xenomiten manchmal keine benutzerdefinierten Modelle mehr verwendeten.
+[/list]
+
+[h2]Waffen[/h2]
+[list]
+[*][b]Model 35 Schrotflinte:[/b] Feuert nicht mehr nach dem Aufheben, wenn sie fallen gelassen oder während des alternativen Feuer-Doppelschusses geholstert wurde.
+[*][b]X-33 Schadensverstärker:[/b] Dieser Gegenstand wird nicht mehr automatisch aufgenommen, wenn er von einem Waffenspezialisten eingesetzt wird. Stattdessen kann ein Waffenspezialist einen bereits platzierten Schadensverstärker aufnehmen. Wolfe kann zum Beispiel einen Schadensverstärker aufheben, der von Bastille platziert wurde, und Wolfe kann auch einen Schadensverstärker platzierten und ihn auf dem Boden liegen lassen.
+[*]Umbenennung der Waffenspezialist-Fertigkeit "Autogun-Schaden" in "Schwere Waffen".
+[*]Umbenennung der Waffenspezialist-Fertigkeit "Panzerbrechende Kugeln" in "Stoppwirkung".
+[*]Die Fertigkeit "Stoppwirkung" erhöht jetzt auch die Chance, dass eine Waffe Gegner, die von ihr getroffen werden, zurückschrecken lässt.
+[*]Es wurde behoben, dass nach dem Nachladen im Einzelspielermodus zwei Magazine am Boden lagen.
+[*]Es wurden Fälle behoben, in denen Bots keine Kugelstreuung hatten.
+[*]Der Laserpointer hält nicht mehr an, wenn er einen abrollenden Soldaten erreicht.
+[*]Waffenspezifische Munitionskisten geben jetzt eine Munitionsmenge ab, die auf der Magazingröße der Waffe basiert, um Herausforderungen zu unterstützen, die die Magazingröße ändern.
+[/list]
+
+[h2]Modding[/h2]
+[list]
+[*]Mehrere UI-Elemente wurden angepasst, um Modding besser zu unterstützen.
+[*]Die Dateien wurden neu organisiert, so dass dedizierte Server keine Dateien herunterladen, die nur für den Client benötigt werden, z. B. Sounds, Shader, Texturen und GPU-optimierte Modelle.
+[*]ASBI, Energie-Waffen, Erste Person und Dritte Person wurden an den Anfang der Herausforderungsliste verschoben. Umbenennung der Herausforderung "Keine" in "Standard-Spielregeln". Diese Änderungen sollen es neuen Spielern leichter machen zu verstehen, dass es sich bei den Herausforderungen [i]allesamt[/i] um Spielregeländerungen handelt und nicht nur um Spielregeländerungen, die das Spiel schwieriger machen.
+[*]Die Erfahrungs-Leiste im Hauptmenü war nicht mehr korrekt, dies wurde behoben.
+[*]Wenn du rd_player_bots_allowed auf 0 setzt, hat jeder Kommandant jetzt maximal einen Soldat und nicht mehr 0.
+[*]Der IAF Frost-Wächter und der IAF Brandgeschoss-Wächter ignorieren nun die Funktion PreventFiringUntil.
+[*]Unterstützung für $localrefract im Stil von Portal 2 (wie in props_lab/glass_lightcover.mdl verwendet) wurde hinzugefügt.
+[*]Es wurden einige Fälle behoben, in denen beim Öffnen des Spiels aus dem SDK die lokal zwischengespeicherte Version deines Inventars gelöscht wurde.
+[/list]</string><string id="subtitle"></string><string id="summary"></string><string id="title">Alien Swarm: Reactive Drop Update - 1. Juli 2024</string></content>

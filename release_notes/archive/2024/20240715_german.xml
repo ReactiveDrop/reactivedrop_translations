@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<content><string id="body">[h2]Neuer Material-Shader: RDCharacter[/h2]
+
+Dies ersetzt den VertexLitGeneric-Shader und die Material-Proxys AlienSurfaceFX und NightVisionSelfIllum für Charaktere in Alien Swarm: Reactive Drop.
+
+[h3]Für Modder[/h3]
+[list]
+[*]Wenn dein Mod keine VMT-Dateien für Charaktere enthält, musst du keine Änderungen vornehmen.
+[*]Wenn die VMT-Dateien deines Mods für die Charaktere mit dem Wort "Patch" beginnen, verwendest du wahrscheinlich bereits den aktualisierten Shader.
+[*]Wenn die VMT-Dateien deines Mods für Charaktere mit den Worten "VertexLitGeneric" beginnen, siehe unten.
+[*]Wenn die VMT-Dateien deines Mods für die Charaktere mit anderen Wörtern beginnen, bist du auf dich allein gestellt.
+[*]Wenn du deine VMT-Dateien nicht aktualisierst, funktionieren deine Materialien weiterhin wie vor diesem Update, aber die Modelle mit diesen Materialien haben keinen Zugriff auf die neuen Funktionen dieses Shaders.
+[/list]
+
+[h3]Aktualisieren von VertexLitGeneric Shadermaterialien[/h3]
+[list]
+[*]Ersetze "VertexLitGeneric" am Anfang der Datei durch "RDCharacter".
+[*]Entferne alle Zeilen, die mit "$detail" beginnen. (Wenn du $detail für etwas anderes verwenden willst, bedenke es im neuen Shader nicht mehr für Statuseffekte reserviert).
+[*]Wenn es einen "AnimatedTexture"-Proxy für "$detail" gibt, entferne "AnimatedTexture" und alles von der folgenden { bis zur nächsten }.
+[*]Ersetze den Proxy "AlienSurfaceFX" durch "RDCharacter". Wenn dein Material keinen Abschnitt "Proxies" hat, füge stattdessen Proxies { RDCharacter {} } vor der letzten } in der Datei ein.
+[*]Entferne alle Verweise auf Nachtsicht (z.B. den NightVisionSelfIllum-Proxy, alle damit verbundenen LessOrEqual-Proxys, Hilfsvariablen wie $one, $zero und $selfIllumTint_dark).
+[/list]
+
+[h3]Neue Funktionen in RDCharacter[/h3]
+[list]
+[*]Die $detail-Variablen werden nicht mehr für Statuseffekte verwendet, das heißt, sie können für andere Zwecke genutzt werden.
+[*]Die Nachtsicht verwendet nicht mehr $selfillum, d.h. Änderungen an den $selfillum-Einstellungen verändern die Effekte der Nachtsicht nicht.
+[*]Auf Systemen mit Shader Model 3.0-Unterstützung bewirken die Statuseffekte Feuer, Eis und Schock nicht mehr, dass sie sich gegenseitig mit unterschiedlicher Geschwindigkeit scrollen.
+[*]Der Feuer-Statuseffekt wird jetzt bei allen Charaktertypen konsistent animiert.
+[*]Es wurde ein "Team-Highlight"-Rahmen hinzugefügt, ähnlich dem "Character Highlighting System", das in Update 34 zu Warframe hinzugefügt wurde: Abyss of Dagath.
+[*]Alle neuen Charakter-Shader-Effekte, die in Zukunft hinzugefügt werden, erfordern keine obligatorischen VMT-Änderungen.
+[*]Es dauerte 10 Stunden, 43 Minuten und 26 Sekunden, um die 21.900 Varianten des neuen Shaders zu kompilieren.
+[*]Hinweis: Auf Systemen ohne Shader Model 3.0-Unterstützung wird $detail deaktiviert, wenn ein Statuseffekt aktiv ist, um die Komplexität des Shaders zu reduzieren.
+[*]Hinweis: Auf Systemen ohne Shader Model 3.0-Unterstützung wird $rimlight deaktiviert, wenn ein Team-Highlight aktiv ist, um die Shader-Komplexität zu reduzieren.
+[/list]
+
+[h3]Team-Highlights[/h3]
+[list]
+[*]rd_highlight_active_character, rd_highlight_allies und rd_highlight_enemies können jetzt so eingestellt werden, dass sie zur leichteren Identifizierung farbige Umrandungen anzeigen.
+[*]rd_highlight_active_character zeigt weiterhin einen Rahmen um den Soldaten an, zusätzlich zu den neuen Rahmen.
+[*]rd_highlight_allies_color ist standardmäßig ein gräuliches Blau und rd_highlight_enemies_color ist standardmäßig ein satteres Rot.
+[*]Die Hervorhebungs-ConVars können auf höhere Werte gesetzt werden, um mehr vom Modell der Figur hervorzuheben. Wenn du den ConVar auf 1 setzt (empfohlen), werden die Ränder der Silhouette hervorgehoben, und wenn du ihn auf 2 setzt, wird fast die gesamte Figur hervorgehoben. Bruchteile von Werten wie 2.5 und 0.8 werden ebenfalls akzeptiert.
+[*]Setze rd_deathmatch_team_color_highlight auf 0, um zum vorherigen System der Färbung von Soldatenmodellen im Team Deathmatch zurückzukehren.
+[*]Mit diesem System soll der Aspekt der Zugänglichkeit vieler Alien-Reskins vom künstlerischen Aspekt entkoppelt werden, damit die Spieler/innen nicht zwischen der Möglichkeit, die Aliens zu sehen, und dem Aussehen der Aliens wählen müssen, das sie wollen.
+[*]Für diejenigen, die mit der Codebasis des Spiels vertraut sind, steht rd_highlight_ignore_class auch zur Verfügung, um bestimmte Charaktertypen aus dem Team-Highlight-System auszuschließen. Zum Beispiel würde rd_highlight_ignore_class 27,40 die Hervorhebungen von Drohnen und Soldaten ausschließen.
+[/list]
+
+[h2]X-33 Schadensverstärker[/h2]
+
+Ein ConVar wurde hinzugefügt, damit Waffenspezialisten automatisch X-33 Schadensverstärker aufheben.
+
+[h3]ConVar[/h3]
+[list]
+[*]rd_buff_grenade_attach_sw_auto (Standardwert 0; auf 1 setzen, um automatisch Schadensverstärker aufzunehmen).
+[/list]
+
+Dies betrifft auch Bots, die vom Spieler hinzugefügt werden. Diese Einstellung wird in der config.cfg gespeichert. Verwende host_writeconfig, um deine Änderungen zu speichern.
+
+[h2]Alien Schatten[/h2]
+
+Convars hinzugefügt, um springenden und/oder fliegenden Aliens vertikale Schatten zu geben, ähnlich wie beim Half-Life 2-Kran, damit es einfacher ist, zu erkennen, wo sie sich im 3D-Raum befinden.
+
+[h3]ConVars[/h3]
+[list]
+[*]rd_alien_vertical_shadow_jumping (Standardwert 1; auf 1 setzen, um Drohnen, Parasiten und Xenomiten beim Springen vertikale Schatten zu geben)
+[*]rd_alien_vertical_shadow_flying (Standardwert 0; auf 1 setzen, um Buzzern vertikale Schatten zu geben)
+[*]rd_alien_vertical_shadow_distance (Standardwert 4096; die maximale Entfernung über dem Boden, aus der ein vertikaler Schatten geworfen werden kann)
+[*]Wenn asw_alien_shadows auf 0 gesetzt wird, wirkt sich das jetzt auch auf Buzzer aus.
+[/list]
+
+Die drei neuen ConVars sind derzeit nicht in der config.cfg gespeichert. Sie können später hinzugefügt werden, aber für den Moment solltest du die autoexec.cfg für diese Einstellungen verwenden.
+
+[h2]Und mehr...[/h2]
+
+[list]
+[*]Von Mappern platzierte Xenomiten (egal ob als asw_parasite_defanged Entitäten platziert oder über einen Spawner gespawnt) verfallen nicht mehr nach 60 Sekunden.
+[*]Xenomiten aus einem Raffer verfallen nach wie vor nach 60 Sekunden, wenn sie keinen Soldaten findest.
+[*]Es wurde behoben, dass npc_cscanner seine "neutral" Flag nicht beachtet hat, wodurch er ein Angriffsziel für Bots und Aliens in Paranoia: Feindliche Orte war.
+[*]Über 100 Kommandanten haben den Vertrag unterzeichnet.
+[*]NSCs heben jetzt ihre aktuelle Bewegungsabsicht auf, wenn sie eingefroren werden. Das behebt das "Abdriften", das bei einigen Aliens auftrat.
+[*]Unerwartetes jigglebone-Verhalten wurde behoben, wenn ein eingefrorener Gegner gezwungen wird, sich zu bewegen (z. B. wenn er auf einer sich bewegenden Plattform steht).
+[*]Soldaten, die mit CR-18 Frostgranaten ausgerüstet sind, hatten einen zusätzlichen Schatten zwischen ihren Füßen, dies wurde behoben.
+[/list]
+</string><string id="subtitle"></string><string id="summary"></string><string id="title">Alien Swarm: Reactive Drop Update - 15. Juli 2024</string></content>

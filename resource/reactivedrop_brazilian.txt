@@ -1,5 +1,4 @@
-﻿"lang"
-{
+﻿{
 "Language"		"brazilian"
 "Tokens"
 {
@@ -237,8 +236,8 @@
 "asw_vindicator"		"Dano do Vindicador"
 "[english]asw_incendiarym"		"Incendiary Mines"
 "asw_incendiarym"		"Minas Incendiárias"
-"[english]asw_autogunsk"		"Autogun Damage"
-"asw_autogunsk"		"Dano da Autogun"
+		"[english]asw_autogunsk"		"Heavy Weapons"
+		"asw_autogunsk"		"Heavy Weapons"
 "[english]asw_stopping"		"Stopping Power"
 "asw_stopping"		"Força de Parada"
 "[english]asw_piercingbullets"		"Piercing Bullets"
@@ -286,10 +285,10 @@
 "asw_vindicator_desc"		"Aumenta o dano causado pelo Vindicador."
 "[english]asw_incendiarym_desc"		"Increases the size and duration of the\nnapalm fires released from Incendiary Mines."
 "asw_incendiarym_desc"		"Aumenta o tamanho e a duração das \nchamas napalm liberadas pelas Minas Incendiárias."
-"[english]asw_autogunsk_desc"		"Increases damage dealt by the Autogun and Minigun."
-"asw_autogunsk_desc"		"Aumenta o dano causado pela Autogun e Minigun."
-"[english]asw_stopping_desc"		"Increase chance of marine shots stunning\nSwarm drones."
-"asw_stopping_desc"		"Aumenta a chance de tiros tontearem\n os drones do Enxame."
+		"[english]asw_autogunsk_desc"		"Increases damage dealt by the Autogun and Minigun,\nand improves the spin-up time of the Cryo Cannon."
+		"asw_autogunsk_desc"		"Increases damage dealt by the Autogun and Minigun,\nand improves the spin-up time of the Cryo Cannon."
+		"[english]asw_stopping_desc"		"Provides a chance for bullets to pierce enemies and continue out the other side.\nIncreases the chance of marine shots stunning Swarm drones.\nImproves the Plasma Thrower's air blast."
+		"asw_stopping_desc"		"Provides a chance for bullets to pierce enemies and continue out the other side.\nIncreases the chance of marine shots stunning Swarm drones.\nImproves the Plasma Thrower's air blast."
 "[english]asw_piercingbullets_desc"		"Provides a chance for bullets to pierce\nenemies and continue out the other side."
 "asw_piercingbullets_desc"		"Oferece a chance de balas perfurarem\nos inimigos e continuarem pelo outro lado."
 "[english]asw_healing_desc"		"Increases healing power of healing\nitems and the total amount carried."
@@ -1250,12 +1249,35 @@
 "asw_ammo_label"		"Munição:"
 "[english]asw_ammo_percent_amount"		"%s1 percent"
 "asw_ammo_percent_amount"		"%s1 por cento"
-"[english]asw_kill_objective_format"		"%s1 %s2 %s3/%s4"
-"asw_kill_objective_format"		"%s1 %s2 %s3/%s4"
+// %s1 is a string like #asw_drones (that is, an entity class with s added to the end)
+// %s2 is the number killed so far (limited to be less than or equal to %s3)
+// %s3 is the number needed to complete the objective
+"[english]asw_kill_objective_format"		"Kill %s1 (%s2/%s3)"
+"asw_kill_objective_format"		"Matar %s1 (%s2/%s3)"
+// %s1 is the number of eggs destroyed so far
+// %s2 is the number of eggs that must be destroyed to complete the objective
+"[english]asw_kill_eggs_objective_format"		"Destroy Swarm Eggs (%s1/%s2)"
+"asw_kill_eggs_objective_format"		"Destruir Ovos de Enxame (%s1/%s2)"
+// %s1 is the number of biomass destroyed so far
+// %s2 is the number of biomass that must be destroyed to complete the objective
+"[english]asw_kill_goo_objective_format"		"Destroy Biomass (%s1/%s2)"
+"asw_kill_goo_objective_format"		"Destruir Biomassa (%s1/%s2)"
+// %s1 is the mapper-provided objective name (for example, "Find documents")
+// %s2 is the number of times this objective was completed so far
+// %s3 is the number of times the objective is required to be completed
+"[english]asw_generic_objective_fraction"		"%s1 (%s2/%s3)"
+"asw_generic_objective_fraction"		"%s1 (%s2/%s3)"
+// %s1 is the mapper-provided objective name (for example, "Download the flight data")
+// %s2 is the percent of the objective that is completed (rounded down to the nearest percent)
+// optional: %s3 is the number of tenths of a percent of the objective that is completed (always a single digit)
+// if you want to use tenths of a percent precision, translate the string as if it was "%s1 (%s2.%s3%)"
+"[english]asw_generic_objective_percent"		"%s1 (%s2%)"
+"asw_generic_objective_percent"		"%s1 (%s2%)"
 "[english]asw_all_survive"		"Marines must survive"
 "asw_all_survive"		"Fuzileiros devem sobreviver"
 "[english]asw_nuclear_warning"		"WARNING"
 "asw_nuclear_warning"		"AVISO"
+// %s1 is the number of seconds remaining in the countdown
 "[english]asw_nuclear_detonation"		"%s1"
 "asw_nuclear_detonation"		"%s1"
 "[english]asw_nuclear_detonationi"		"NUCLEAR DETONATION IMMINENT"
@@ -3204,7 +3226,7 @@
 
 // new briefing
 "[english]nb_mission_prep"		"MISSION PREP"
-"nb_mission_prep"		"PREPARAÇÃO DA MISSÃO"
+"nb_mission_prep"		"PREP. DA MISSÃO"
 "[english]nb_ready"		"READY"
 "nb_ready"		"PRONTO"
 "[english]nb_start_mission"		"START MISSION"
@@ -3253,6 +3275,17 @@
 "nb_mission_options"		"OPÇÕES DA MISSÃO"
 "[english]nb_difficulty_title"		"Difficulty"
 "nb_difficulty_title"		"Dificuldade"
+		"[english]nb_speedruntime_title"		"Speedrun Time"
+		"nb_speedruntime_title"		"Speedrun Time"
+		// the first %d is minutes and the second %d is seconds (printf formatting). examples - 1:42, 3:10, 1:07
+		"[english]nb_speedruntime_format"		"%d:%02d"
+		"nb_speedruntime_format"		"%d:%02d"
+		"[english]nb_oe_title"		"Outstanding Execution"
+		"nb_oe_title"		"Outstanding Execution"
+		"[english]nb_oe_status_active"		"Active"
+		"nb_oe_status_active"		"Active"
+		"[english]nb_oe_status_failed"		"Failed"
+		"nb_oe_status_failed"		"Failed"
 "[english]nb_mission_brief"		"Mission Brief"
 "nb_mission_brief"		"Informações da Missão"
 "[english]nb_mission_details"		"Mission Details: %s1"
@@ -8468,6 +8501,9 @@
 "[english]RD_AdvancedSettings_HUD_VoiceIcon_Side"		"Side of Screen"
 "RD_AdvancedSettings_HUD_VoiceIcon_Side"		"Lado da Tela"
 "[english]RD_AdvancedSettings_HUD_NameUnderMarine"		"Name Under Marine in Multiplayer"
+"RD_AdvancedSettings_HUD_NameUnderMarine"		"Nome embaixo do Fuzileiro no Multijogador"
+"[english]RD_AdvancedSettings_HUD_NameUnderMarine_None"		"Disabled"
+"RD_AdvancedSettings_HUD_NameUnderMarine_None"		"Desabilitado"
 "RD_AdvancedSettings_HUD_NameUnderMarine"		"Nome Embaixo do Fuzileiro no Multijogador"
 "[english]RD_AdvancedSettings_HUD_NameUnderMarine_Marine"		"Marine Name Only"
 "RD_AdvancedSettings_HUD_NameUnderMarine_Marine"		"Apenas o Nome do Fuzileiro"
@@ -9721,10 +9757,20 @@
 		"rd_option_accessibility_move_relative_to_aim"		"Tank Controls"
 		"[english]rd_option_accessibility_move_relative_to_aim_hint"		"Makes your marine move relative to their position in the world rather than to the camera angle. Useful if you want to bind the \"move forward\" command to a mouse button."
 		"rd_option_accessibility_move_relative_to_aim_hint"		"Makes your marine move relative to their position in the world rather than to the camera angle. Useful if you want to bind the \"move forward\" command to a mouse button."
-		"[english]rd_option_network_interpolation"		"Network Interpolation"
-		"rd_option_network_interpolation"		"Network Interpolation"
-		"[english]rd_option_network_interpolation_hint"		"Controls how much the game smooths movement between network updates. Recommended to keep this as low as you can without causing visual artifacts."
-		"rd_option_network_interpolation_hint"		"Controls how much the game smooths movement between network updates. Recommended to keep this as low as you can without causing visual artifacts."
+		"[english]rd_option_accessibility_spec_weapons_damage_amp"		"X-33 Damage Amplifier"
+		"rd_option_accessibility_spec_weapons_damage_amp"		"X-33 Damage Amplifier"
+		"[english]rd_option_accessibility_spec_weapons_damage_amp_never"		"Place on Ground"
+		"rd_option_accessibility_spec_weapons_damage_amp_never"		"Place on Ground"
+		"[english]rd_option_accessibility_spec_weapons_damage_amp_never_hint"		"Special Weapons marines can pick up the X-33 Damage Amplifier after it is deployed."
+		"rd_option_accessibility_spec_weapons_damage_amp_never_hint"		"Special Weapons marines can pick up the X-33 Damage Amplifier after it is deployed."
+		"[english]rd_option_accessibility_spec_weapons_damage_amp_conditional"		"Automatically Interact"
+		"rd_option_accessibility_spec_weapons_damage_amp_conditional"		"Automatically Interact"
+		"[english]rd_option_accessibility_spec_weapons_damage_amp_conditional_hint"		"Special Weapons marines will deploy the X-33 Damage Amplifier to their back unless they are already carrying one."
+		"rd_option_accessibility_spec_weapons_damage_amp_conditional_hint"		"Special Weapons marines will deploy the X-33 Damage Amplifier to their back unless they are already carrying one."
+		"[english]rd_option_accessibility_spec_weapons_damage_amp_always"		"Always Pick Up"
+		"rd_option_accessibility_spec_weapons_damage_amp_always"		"Always Pick Up"
+		"[english]rd_option_accessibility_spec_weapons_damage_amp_always_hint"		"Special Weapons marines will deploy the X-33 Damage Amplifier to their back even if they are already carrying one."
+		"rd_option_accessibility_spec_weapons_damage_amp_always_hint"		"Special Weapons marines will deploy the X-33 Damage Amplifier to their back even if they are already carrying one."
 		"[english]rd_option_network_rate"		"Maximum Game Bandwidth"
 		"rd_option_network_rate"		"Maximum Game Bandwidth"
 		"[english]rd_option_network_rate_hint"		"Controls the maximum amount of data the game is allowed to send and receive, in kilobits per second."
@@ -10095,6 +10141,10 @@
 		"rd_lobby_tooltip_type_server_title"		"Community Server"
 		"[english]rd_lobby_tooltip_type_server_desc"		"This server is hosted by a member of the Alien Swarm: Reactive Drop community."
 		"rd_lobby_tooltip_type_server_desc"		"This server is hosted by a member of the Alien Swarm: Reactive Drop community."
+		"[english]rd_lobby_tooltip_type_modded_title"		"Modded Community Server"
+		"rd_lobby_tooltip_type_modded_title"		"Modded Community Server"
+		"[english]rd_lobby_tooltip_type_modded_desc"		"This server is hosted by a member of the Alien Swarm: Reactive Drop community.\nIt is using a custom version of the server code; your gameplay experience may vary."
+		"rd_lobby_tooltip_type_modded_desc"		"This server is hosted by a member of the Alien Swarm: Reactive Drop community.\nIt is using a custom version of the server code; your gameplay experience may vary."
 		"[english]rd_lobby_tooltip_type_lan_server_title"		"LAN Server"
 		"rd_lobby_tooltip_type_lan_server_title"		"LAN Server"
 		"[english]rd_lobby_tooltip_type_lan_server_desc"		"This server is running on the same local area network as your computer."
@@ -10279,6 +10329,9 @@
 		"rd_mission_modifier_crafting"		"Crafting materials can currently be found in this mission."
 		"[english]rd_mission_modifier_crafting_campaign"		"Crafting materials can currently be found in at least one mission in this campaign."
 		"rd_mission_modifier_crafting_campaign"		"Crafting materials can currently be found in at least one mission in this campaign."
+		// %s1 is one of the rd_crafting_material_rarity_* strings; %s2 is a number
+		"[english]rd_mission_modifier_crafting_rarity"		"%s1: %s2"
+		"rd_mission_modifier_crafting_rarity"		"%s1: %s2"
 
 		"[english]rd_crafting_beta1_signup_title"		"Crafting Materials Beta - Phase 1"
 		"rd_crafting_beta1_signup_title"		"Crafting Materials Beta - Phase 1"
@@ -10314,9 +10367,13 @@
 		"rd_unbox_strange_device_flavor"		"You flick the switch and the device hums to life. It displays a picture. Which picture does it show?"
 		"[english]rd_unbox_strange_device_warning_no_compatible_items"		"You do not own any Strange items capable of accepting this device."
 		"rd_unbox_strange_device_warning_no_compatible_items"		"You do not own any Strange items capable of accepting this device."
+		"[english]rd_unbox_strange_device_warning_already_have_accessories"		"You already have enough Strange Devices to fill all owned compatible Strange items."
+		"rd_unbox_strange_device_warning_already_have_accessories"		"You already have enough Strange Devices to fill all owned compatible Strange items."
 		"[english]rd_unbox_strange_device_compatible_owned_items"		"Compatible items:"
 		"rd_unbox_strange_device_compatible_owned_items"		"Compatible items:"
 
+		"[english]rd_unbox_strange_option_number"		"Option %s1 of %s2"
+		"rd_unbox_strange_option_number"		"Option %s1 of %s2"
 		"[english]rd_unbox_strange_confirm"		"MAKE DECISION"
 		"rd_unbox_strange_confirm"		"MAKE DECISION"
 		"[english]rd_unbox_strange_cancel"		"Decide Later"
@@ -10326,6 +10383,12 @@
 		"rd_unbox_strange_warnings_title"		"Warnings Present"
 		"[english]rd_unbox_strange_warnings_desc"		"Accept item despite the warnings?"
 		"rd_unbox_strange_warnings_desc"		"Accept item despite the warnings?"
+
+		"[english]rd_attach_strange_device_warning_title"		"Strange Devices cannot be recovered"
+		"rd_attach_strange_device_warning_title"		"Strange Devices cannot be recovered"
+		// %s1 is item name; %s2 is accessory (strange device) name; %s3 is a number, usually 4.
+		"[english]rd_attach_strange_device_warning_desc"		"Are you sure you want to permanently attach '%s2' to '%s1'?\nOnce attached, the strange device cannot be retrieved or removed, and one of the item's %s3 strange device slots will be permanently consumed."
+		"rd_attach_strange_device_warning_desc"		"Are you sure you want to permanently attach '%s2' to '%s1'?\nOnce attached, the strange device cannot be retrieved or removed, and one of the item's %s3 strange device slots will be permanently consumed."
 
 		// These strings will be used for the sign-up screen for the crafting materials beta and other opt-in things in the future.
 		"[english]rd_redeem_special_waiting_steam"		"Requesting a ticket from Steam..."
@@ -10340,5 +10403,19 @@
 		"rd_redeem_special_unavailable"		"These items are not currently available."
 		"[english]rd_redeem_special_success"		"Success! The items have been added to your inventory."
 		"rd_redeem_special_success"		"Success! The items have been added to your inventory."
+
+		// These should match the inventory_crafting_item_* translations in inventory_service_tags!
+		"[english]rd_crafting_material_rarity_industrial"		"Industrial"
+		"rd_crafting_material_rarity_industrial"		"Industrial"
+		"[english]rd_crafting_material_rarity_bulk"		"Bulk"
+		"rd_crafting_material_rarity_bulk"		"Bulk"
+		"[english]rd_crafting_material_rarity_alien"		"Alien"
+		"rd_crafting_material_rarity_alien"		"Alien"
+		"[english]rd_crafting_material_rarity_tech"		"Tech"
+		"rd_crafting_material_rarity_tech"		"Tech"
+		"[english]rd_crafting_material_rarity_salvaged"		"Salvaged"
+		"rd_crafting_material_rarity_salvaged"		"Salvaged"
+		"[english]rd_crafting_material_rarity_refined"		"Refined"
+		"rd_crafting_material_rarity_refined"		"Refined"
 }
 }

@@ -21,6 +21,8 @@
 "item_display_type_community_medal_legendary"		"Sammlerstück (Legendär)"
 "[english]item_display_type_donation_medal"		"Donor"
 "item_display_type_donation_medal"		"Spender"
+"[english]item_display_type_novelty_medal_uncommon"		"Souvenir"
+"item_display_type_novelty_medal_uncommon"		"Andenken"
 // accessory that can be permanently attached to a weapon, equipment, or suit to track specific stats
 "[english]item_display_type_strange_device"		"Strange Device"
 "item_display_type_strange_device"		"Seltsames Gerät"
@@ -99,7 +101,7 @@
 "[english]item_tournament_medal_hoiaf_stat_games_won"		"Successful Missions"
 "item_tournament_medal_hoiaf_stat_games_won"		"Erfolgreiche Einsätze"
 "[english]item_tournament_medal_hoiaf_stat_games_lost"		"Failed Missions"
-"item_tournament_medal_hoiaf_stat_games_lost"		"Fehlgeschlagene Einsätze"
+"item_tournament_medal_hoiaf_stat_games_lost"		"Gescheiterte Einsätze"
 
 "[english]item_community_medal_beta_tester_name"		"Beta Tester"
 "item_community_medal_beta_tester_name"		"Proband"
@@ -156,6 +158,16 @@
 "item_novelty_medal_flush_toilet_description"		"Brennend und befallen die Toilette benutzt."
 "[english]item_novelty_medal_flush_toilet_display_type"		"Medal…?"
 "item_novelty_medal_flush_toilet_display_type"		"Sammlerstück (Ungewöhnlich)"
+
+// (to the tune of the titular lyric of I Saw Mommy Kissing Santa Claus)
+// (this isn't a translator note, it's just my headcanon about some words I typed)
+"[english]item_novelty_medal_anacrusis_name"		"I met Barry on the Isolode"
+"item_novelty_medal_anacrusis_name"		"Ich habe Barry auf der Isolode getroffen"
+// these are puns. good luck!
+"[english]item_novelty_medal_anacrusis_description"		"It was a [i]Barry[/i] good time. Still [i]barrel[/i]-y know him, though…"
+"item_novelty_medal_anacrusis_description"		"Es war eine [i]fässtlich[/i] gute Zeit. Aber ich kenne ihn immer noch [i]fasst[/i] nicht..."
+"[english]item_novelty_medal_anacrusis_acquisition"		"Complete the Barry Nice to Meet You achievement in The Anacrusis to unlock."
+"item_novelty_medal_anacrusis_acquisition"		"Schließe den Erfolg \"Barry Nice to Meet You\" in \"The Anacrusis\" ab."
 
 "[english]item_achievement_medal_oe_jacob_name"		"Jacob's Rest Veteran"
 "item_achievement_medal_oe_jacob_name"		"Jakobsruhe Veteran"
@@ -260,9 +272,13 @@
 "[english]item_unique_medal_ben_lubar_display_type"		"catcake"
 "item_unique_medal_ben_lubar_display_type"		"Katzenkuchen"
 "[english]item_unique_medal_mapping_2023_name"		"The Gauntlet: Arctic (#BossFight2023 Winner)"
-"item_unique_medal_mapping_2023_name"		"Der Spießrutenlauf: Arktis (#BossFight2023 Gewinner)"
+"item_unique_medal_mapping_2023_name"		"The Gauntlet: Arctic (#BossFight2023 Gewinner)"
 "[english]item_unique_medal_mapping_2023_description"		"This medal commemorates The Gauntlet: Arctic, the winner of the 2023 mapping competition."
-"item_unique_medal_mapping_2023_description"		"Dies ist eine Erinnerungs-Medaille den Gewinner des Kartierungswettbewerbs 2023, \"Der Spießrutenlauf: Arktis\"."
+"item_unique_medal_mapping_2023_description"		"Diese Medaille erinnert an \"The Gauntlet: Arctic\", den Gewinner des Mapping-Wettbewerbs 2023."
+"[english]item_unique_medal_mapping_2024_name"		"Downed Station (#SpaceStation2024 Winner)"
+"item_unique_medal_mapping_2024_name"		"Downed Station (#SpaceStation2024 Gewinner)"
+"[english]item_unique_medal_mapping_2024_description"		"This medal commemorates Downed Station, the winner of the 2024 mapping competition."
+"item_unique_medal_mapping_2024_description"		"Diese Medaille erinnert an \"Downed Station\", den Gewinner des Mapping-Wettbewerbs 2024."
 
 // Contains one Strange (stat-tracking) version of a weapon the player has unlocked, of the player's choice.
 "[english]item_container_beta_tester_strange_weapon_name"		"Beta Tester's Strange Weapon"
@@ -273,7 +289,7 @@
 "[english]item_container_beta_tester_strange_device_name"		"Beta Tester's Strange Device"
 "item_container_beta_tester_strange_device_name"		"Beta Tester's Seltsames Gerät"
 "[english]item_container_beta_tester_strange_device_description"		"A strange assortment of circuit boards that don't seem like they should be compatible. The device does not appear to ever have been powered on."
-"item_container_beta_tester_strange_device_description"		"Eine seltsame Zusammenstellung von Platinen, die nicht kompatibel zu sein scheinen. Das Gerät scheint nie eingeschaltet worden zu sein."
+"item_container_beta_tester_strange_device_description"		"Eine seltsame Zusammenstellung von Platinen, die nicht kompatibel sein sollten. Das Gerät scheint nie eingeschaltet worden zu sein."
 
 "[english]item_crafting_material_scrap_metal_name"		"Scrap Metal"
 "item_crafting_material_scrap_metal_name"		"Altmetall"
@@ -395,6 +411,16 @@
 "[english]item_crafting_material_probability_drive_description"		"A disk containing an excerpt from [i]A Million Random Digits with 100,000 Normal Deviates[/i], found while on a mission."
 "item_crafting_material_probability_drive_description"		"Eine Diskette mit einem Auszug aus [i]A Million Random Digits with 100,000 Normal Deviates[/i], gefunden während eines Einsatzes."
 
+"[english]item_crafting_material_refined_wire_name"		"Sorted Wire"
+"item_crafting_material_refined_wire_name"		"Sortierter Draht"
+"[english]item_crafting_material_refined_wire_description"		"A spool of repurposed wire."
+"item_crafting_material_refined_wire_description"		"Eine Spule mit wiederverwendetem Draht."
+"[english]item_crafting_material_refined_carbon_name"		"Carbon Plates"
+"item_crafting_material_refined_carbon_name"		"Kohlenstoffplatten"
+"[english]item_crafting_material_refined_carbon_description"		"Carbon nanotubes arranged into super-strong plates."
+"item_crafting_material_refined_carbon_description"		"Kohlenstoff-Nanoröhrchen, die zu superstarken Platten angeordnet sind."
+
+
 // Notifications are hidden items that cause a notification to appear in the game's main menu. The item records whether it has been seen by the player, and dismissing the notification deletes the item. Notifications will not appear for players who have opted out of seeing them.
 //
 // A large variety of crafting materials have appeared (once per week).
@@ -451,46 +477,49 @@
 "[english]item_suit_flynn_name"		"Flynn's Suit"
 "item_suit_flynn_name"		"Flynns Anzug"
 
+// If you would like to be included in this system and you have contributed to Alien Swarm: Reactive Drop's development,
+// follow the instructions at https://developer.reactivedrop.com/donation-items.html
+
 "[english]item_donation_tft_name"		"Donor: Tears for Tarnor"
 "item_donation_tft_name"		"Spender: Tränen für Tarnor"
 "[english]item_donation_tft_description"		"Represents a donation to the author of the Tears for Tarnor campaign, Michael 'Ezekel' Abraham."
-"item_donation_tft_description"		"Stellt eine Spende an Michael 'Ezekel' Abraham als Autor des Feldzugs 'Tränen für Tarnor' dar."
+"item_donation_tft_description"		"Stellt eine Spende an Michael 'Ezekel' Abraham als Autor des Feldzugs \"Tränen für Tarnor\" dar."
 "[english]item_donation_paranoia_name"		"Donor: Paranoia"
 "item_donation_paranoia_name"		"Spender: Paranoia"
 "[english]item_donation_paranoia_description"		"Represents a donation to the author of the Paranoia campaign, Eclipse."
-"item_donation_paranoia_description"		"Stellt eine Spende an den Autor des Feldzugs 'Paranoia' dar, Eclipse."
+"item_donation_paranoia_description"		"Stellt eine Spende an den Autor des Feldzugs \"Paranoia\" dar, Eclipse."
 "[english]item_donation_lana_name"		"Donor: Lana's Escape"
 "item_donation_lana_name"		"Spender: Lanas Flucht"
 "[english]item_donation_lana_description"		"Represents a donation to the author of the Lana's Escape campaign, Hephalistofene."
-"item_donation_lana_description"		"Stellt eine Spende an den Autor des Feldzugs 'Lanas Flucht' dar, Hephalistofene."
+"item_donation_lana_description"		"Stellt eine Spende an den Autor des Feldzugs \"Lanas Flucht\" dar, Hephalistofene."
 "[english]item_donation_ocs_name"		"Donor: Operation Cleansweep"
 "item_donation_ocs_name"		"Spender: Operation Säuberung"
 "[english]item_donation_ocs_description"		"Represents a donation to the author of the Operation Cleansweep campaign, Steve76."
-"item_donation_ocs_description"		"Stellt eine Spende an den Autor des Feldzugs 'Operation Säuberung' dar, Steve76."
+"item_donation_ocs_description"		"Stellt eine Spende an den Autor des Feldzugs \"Operation Säuberung\" dar, Steve76."
 "[english]item_donation_res7_name"		"Donor: Research 7"
 "item_donation_res7_name"		"Spender: Forschung 7"
 "[english]item_donation_res7_description"		"Represents a donation to the author of the Research 7 campaign, Will 'Issus' Rogers."
-"item_donation_res7_description"		"Stellt eine Spende an den Autor des Feldzugs 'Forschung 7' dar, Will 'Issus' Rogers."
+"item_donation_res7_description"		"Stellt eine Spende an den Autor des Feldzugs \"Forschung 7\" dar, Will 'Issus' Rogers."
 "[english]item_donation_area9800_name"		"Donor: Area 9800"
 "item_donation_area9800_name"		"Spender: Bereich 9800"
 "[english]item_donation_area9800_description"		"Represents a donation to the author of the Area 9800 campaign, Arjen de Graaf."
-"item_donation_area9800_description"		"Stellt eine Spende an den Autor des Feldzugs 'Bereich 9800' dar, Arjen de Graaf."
+"item_donation_area9800_description"		"Stellt eine Spende an den Autor des Feldzugs \"Bereich 9800\" dar, Arjen de Graaf."
 "[english]item_donation_biogen_name"		"Donor: BioGen Corporation"
 "item_donation_biogen_name"		"Spender: BioGen Gesellschaft"
 "[english]item_donation_biogen_description"		"Represents a donation to the author of the BioGen Corporation campaign, Uradzimiru."
-"item_donation_biogen_description"		"Stellt eine Spende an den Autor des Feldzugs 'BioGen Gesellschaft' dar, Uradzimiru."
+"item_donation_biogen_description"		"Stellt eine Spende an den Autor des Feldzugs \"BioGen Gesellschaft\" dar, Uradzimiru."
 "[english]item_donation_nh_name"		"Donor: Nam Humanum"
 "item_donation_nh_name"		"Spender: Nam Humanum"
 "[english]item_donation_nh_description"		"Represents a donation to the authors of the Nam Humanum campaign, Guillaume 'Stral' Houard and Thomas 'Synmachus' Lesteven."
-"item_donation_nh_description"		"Stellt eine Spende an die Autoren des Feldzugs 'Nam Humanum' dar, Guillaume 'Stral' Houard and Thomas 'Synmachus' Lesteven."
+"item_donation_nh_description"		"Stellt eine Spende an die Autoren des Feldzugs \"Nam Humanum\" dar, Guillaume 'Stral' Houard and Thomas 'Synmachus' Lesteven."
 "[english]item_donation_acc32_name"		"Donor: Accident 32"
 "item_donation_acc32_name"		"Spender: Unfall 32"
 "[english]item_donation_acc32_description"		"Represents a donation to the author of the Accident 32 campaign, jhheight."
-"item_donation_acc32_description"		"Stellt eine Spende an den Autor des Feldzugs 'Unfall 32' dar, jhheight."
+"item_donation_acc32_description"		"Stellt eine Spende an den Autor des Feldzugs \"Unfall 32\" dar, jhheight."
 "[english]item_donation_ada_name"		"Donor: Adanaxis"
 "item_donation_ada_name"		"Spender: Adanaxis"
 "[english]item_donation_ada_description"		"Represents a donation to the author of the Adanaxis campaign, Orange."
-"item_donation_ada_description"		"Stellt eine Spende an den Autor des Feldzugs 'Adanaxis' dar, Orange."
+"item_donation_ada_description"		"Stellt eine Spende an den Autor des Feldzugs \"Adanaxis\" dar, Orange."
 "[english]item_donation_dmitriy_name"		"Donor: Dmitriy"
 "item_donation_dmitriy_name"		"Spender: Dmitriy"
 "[english]item_donation_dmitriy_description"		"Represents a donation to Dmitriy, founder of Reactive Drop Team and programmer."
@@ -529,8 +558,8 @@
 "item_donation_stargate_description"		"Stellt eine Spende an Stargate75 für deren Serverhosting in Deutschland dar."
 "[english]item_donation_hangumi_name"		"Donor: hangumi"
 "item_donation_hangumi_name"		"Spender: hangumi"
-"[english]item_donation_hangumi_description"		"Represents a donation to hangumi, host of servers in Korea."
-"item_donation_hangumi_description"		"Stellt eine Spende an hangumi für deren Serverhosting in Korea dar."
+"[english]item_donation_hangumi_description"		"Represents a donation to hangumi, host of servers in Korea and contributor to the Korean translation."
+"item_donation_hangumi_description"		"Stellt eine Spende an hangumi für deren Beitrag an der koreanischen Übersetzung dar."
 "[english]item_donation_yojimbo_name"		"Donor: YOJIMBO"
 "item_donation_yojimbo_name"		"Spender: YOJIMBO"
 "[english]item_donation_yojimbo_description"		"Represents a donation to YOJIMBO, host of servers in Ireland."
@@ -575,5 +604,9 @@
 "item_donation_thescientist_name"		"Spender: TheScientist"
 "[english]item_donation_thescientist_description"		"Represents a donation to TheScientist, contributor to the Portuguese translation."
 "item_donation_thescientist_description"		"Stellt eine Spende an TheScientist für deren Beitrag an der portugiesischen Übersetzung dar."
+"[english]item_donation_crazymanbos_name"		"Donor: Crazymanbos"
+"item_donation_crazymanbos_name"		"Spender: Crazymanbos"
+"[english]item_donation_crazymanbos_description"		"Represents a donation to Crazymanbos, contributor to the Swedish translation."
+"item_donation_crazymanbos_description"		"Stellt eine Spende an Crazymanbos für deren Beitrag an der schwedischen Übersetzung dar."
 }
 }

@@ -36,7 +36,7 @@ Eine überarbeitete Version des Feldzugs Reduktion ist jetzt im Spiel verfügbar
 [*]Die Hammer-KeyValue SecondaryBullets hat die primäre Munition bei asw_weapon Entitäten beeinflusst, dies wurde behoben.
 [*]Unterstützung für $tintmasktexture zu VertexLitGeneric und UnlitGeneric hinzugefügt.
 [*]Unterstützung für $blendtintbybasealpha zu UnlitGeneric hinzugefügt.
-[*]rd_drone_flinch_resets_attack für die Verwendung in Herausforderungen hinzugefügt. Damit wird das Zurückzucken der Drohne wieder so wie in Alien Swarm, wo es die Angriffsanimationstimer abbricht.
+[*]rd_drone_flinch_resets_attack für die Verwendung in Herausforderungen hinzugefügt. Damit wird das Zurückschrecken der Drohne wieder so wie in Alien Swarm, wo es die Angriffsanimationstimer abbricht.
 [*]asw_filter_incapacitated für die Verwendung in Hammer hinzugefügt.
 [*]Soldaten können jetzt einen Gesundheitszustand von bis zu 8191 anzeigen (vorher lag die Grenze bei 511).
 [*]Es wurde eine Option zu asw_jukebox hinzugefügt, die dafür sorgt, dass die vom Spieler bereitgestellte Kampfmusik nicht unterbrochen wird, um Multi-Part Kampfmusik zu verwenden.

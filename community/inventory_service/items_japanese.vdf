@@ -21,6 +21,8 @@
 "item_display_type_community_medal_legendary"		"コミュニティ勲章"
 "[english]item_display_type_donation_medal"		"Donor"
 "item_display_type_donation_medal"		"寄付者"
+"[english]item_display_type_novelty_medal_uncommon"		"Souvenir"
+"item_display_type_novelty_medal_uncommon"		"記念品"
 // accessory that can be permanently attached to a weapon, equipment, or suit to track specific stats
 "[english]item_display_type_strange_device"		"Strange Device"
 "item_display_type_strange_device"		"ストレンジ装置"
@@ -157,6 +159,16 @@
 "[english]item_novelty_medal_flush_toilet_display_type"		"Medal…?"
 "item_novelty_medal_flush_toilet_display_type"		"勲章…?"
 
+// (to the tune of the titular lyric of I Saw Mommy Kissing Santa Claus)
+// (this isn't a translator note, it's just my headcanon about some words I typed)
+"[english]item_novelty_medal_anacrusis_name"		"I met Barry on the Isolode"
+"item_novelty_medal_anacrusis_name"		"Isolode号でBarryを見つけた"
+// these are puns. good luck!
+"[english]item_novelty_medal_anacrusis_description"		"It was a [i]Barry[/i] good time. Still [i]barrel[/i]-y know him, though…"
+"item_novelty_medal_anacrusis_description"		"あれは[i]バリー[/i]グッドな感じだった。でも運んでたら敵に[i]バレる[/i]よね…"
+"[english]item_novelty_medal_anacrusis_acquisition"		"Complete the Barry Nice to Meet You achievement in The Anacrusis to unlock."
+"item_novelty_medal_anacrusis_acquisition"		"The Anacrusisをプレイして 「Barry Nice to Meet You」の実績を完了することでアンロックされる。"
+
 "[english]item_achievement_medal_oe_jacob_name"		"Jacob's Rest Veteran"
 "item_achievement_medal_oe_jacob_name"		"Jacob's Restのベテラン"
 "[english]item_achievement_medal_oe_area9800_name"		"Area 9800 Veteran"
@@ -260,9 +272,13 @@
 "[english]item_unique_medal_ben_lubar_display_type"		"catcake"
 "item_unique_medal_ben_lubar_display_type"		"猫のカップケーキ"
 "[english]item_unique_medal_mapping_2023_name"		"The Gauntlet: Arctic (#BossFight2023 Winner)"
-"item_unique_medal_mapping_2023_name"		"The Gauntlet: Arctic (#ボス戦2023 受賞者)"
+"item_unique_medal_mapping_2023_name"		"The Gauntlet: Arctic (#BossFight2023 受賞者)"
 "[english]item_unique_medal_mapping_2023_description"		"This medal commemorates The Gauntlet: Arctic, the winner of the 2023 mapping competition."
 "item_unique_medal_mapping_2023_description"		"2023年度マップ作成コンテストの受賞作品The Gauntlet: Arcticを表彰する記念の勲章。"
+"[english]item_unique_medal_mapping_2024_name"		"Downed Station (#SpaceStation2024 Winner)"
+"item_unique_medal_mapping_2024_name"		"Downed Station (#SpaceStation2024 受賞者)"
+"[english]item_unique_medal_mapping_2024_description"		"This medal commemorates Downed Station, the winner of the 2024 mapping competition."
+"item_unique_medal_mapping_2024_description"		"2024年度マップ作成コンテストの受賞作品Downed Stationを表彰する記念の勲章。"
 
 // Contains one Strange (stat-tracking) version of a weapon the player has unlocked, of the player's choice.
 "[english]item_container_beta_tester_strange_weapon_name"		"Beta Tester's Strange Weapon"
@@ -395,6 +411,16 @@
 "[english]item_crafting_material_probability_drive_description"		"A disk containing an excerpt from [i]A Million Random Digits with 100,000 Normal Deviates[/i], found while on a mission."
 "item_crafting_material_probability_drive_description"		"[i]A Million Random Digits with 100,000 Normal Deviates[/i]という乱数表の一部を抜粋したデータの入ったディスク。ミッション中に見つけた。"
 
+"[english]item_crafting_material_refined_wire_name"		"Sorted Wire"
+"item_crafting_material_refined_wire_name"		"仕分けした電線"
+"[english]item_crafting_material_refined_wire_description"		"A spool of repurposed wire."
+"item_crafting_material_refined_wire_description"		"再利用できるようにした電線の束。"
+"[english]item_crafting_material_refined_carbon_name"		"Carbon Plates"
+"item_crafting_material_refined_carbon_name"		"カーボンプレート"
+"[english]item_crafting_material_refined_carbon_description"		"Carbon nanotubes arranged into super-strong plates."
+"item_crafting_material_refined_carbon_description"		"カーボンナノチューブで作られた超硬質の板。"
+
+
 // Notifications are hidden items that cause a notification to appear in the game's main menu. The item records whether it has been seen by the player, and dismissing the notification deletes the item. Notifications will not appear for players who have opted out of seeing them.
 //
 // A large variety of crafting materials have appeared (once per week).
@@ -450,6 +476,9 @@
 // one can only hope
 "[english]item_suit_flynn_name"		"Flynn's Suit"
 "item_suit_flynn_name"		"Flynnのスーツ"
+
+// If you would like to be included in this system and you have contributed to Alien Swarm: Reactive Drop's development,
+// follow the instructions at https://developer.reactivedrop.com/donation-items.html
 
 "[english]item_donation_tft_name"		"Donor: Tears for Tarnor"
 "item_donation_tft_name"		"寄付者: Tears for Tarnor"
@@ -529,8 +558,8 @@
 "item_donation_stargate_description"		"ドイツサーバーの管理者、Stargate75さんへ寄付をして頂いた方への感謝状。"
 "[english]item_donation_hangumi_name"		"Donor: hangumi"
 "item_donation_hangumi_name"		"寄付者: hangumi"
-"[english]item_donation_hangumi_description"		"Represents a donation to hangumi, host of servers in Korea."
-"item_donation_hangumi_description"		"韓国サーバーの管理者、hangumiさんへ寄付をして頂いた方への感謝状。"
+"[english]item_donation_hangumi_description"		"Represents a donation to hangumi, host of servers in Korea and contributor to the Korean translation."
+"item_donation_hangumi_description"		"韓国サーバーの管理と韓国語翻訳の功労者、hangumiさんへ寄付をして頂いた方への感謝状。"
 "[english]item_donation_yojimbo_name"		"Donor: YOJIMBO"
 "item_donation_yojimbo_name"		"寄付者: YOJIMBO"
 "[english]item_donation_yojimbo_description"		"Represents a donation to YOJIMBO, host of servers in Ireland."
@@ -575,5 +604,9 @@
 "item_donation_thescientist_name"		"寄付者: TheScientist"
 "[english]item_donation_thescientist_description"		"Represents a donation to TheScientist, contributor to the Portuguese translation."
 "item_donation_thescientist_description"		"ポルトガル語翻訳の功労者、TheScientistさんへ寄付をして頂いた方への感謝状。"
+"[english]item_donation_crazymanbos_name"		"Donor: Crazymanbos"
+"item_donation_crazymanbos_name"		"寄付者: Crazymanbos"
+"[english]item_donation_crazymanbos_description"		"Represents a donation to Crazymanbos, contributor to the Swedish translation."
+"item_donation_crazymanbos_description"		"スウェーデン語翻訳の功労者、Crazymanbosさんへ寄付をして頂いた方への感謝状。"
 }
 }

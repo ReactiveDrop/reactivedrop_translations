@@ -1468,6 +1468,7 @@
 "SessionError_Migrate"	"Lobby leader has left the game."
 "SessionError_NoMap"	"The requested campaign map is not available."
 "SessionError_SteamServersDisconnected"	"The connection to Steam was lost."
+"SessionError_ClientDLL"	"This lobby is running a different version of Alien Swarm: Reactive Drop.\nIf you recently installed an update, it is possible that the host of this lobby has not updated yet."
 
 "InviteError_Unknown"	"Failed to accept game invite.\nPlease try again."
 "InviteError_NotOnline1"	"You must be signed in to Xbox LIVE to play online."
@@ -1487,6 +1488,8 @@
 "L4D_Credits_SpecialThanks"	"Special thanks to everyone at:"
 "L4D_Credits_AdditionalMusic"	"Additional Music by:"
 "L4D_Credits_FacesThanks"	"Thanks to the following for the use of their faces:"
+
+// Alien Swarm strings
 
 "L4D360UI_Not_Joinable_Mod"	"Playing Version: %s1"
 "L4D2360_JoinError_OtherTitle_Modded"	"Player is running a different version of Alien Swarm: Reactive Drop.\n"
@@ -1567,5 +1570,51 @@
 "RDUI_WorkshopModeWarning_Title"	"Attention!"
 "RDUI_WorkshopModeWarning_Text"	"Please set rd_workshop_allow_item_creation 1 before doing this action"
 
+"RDUI_Date_JustNow"	"Just Now"
+"RDUI_Date_Today"	"Today"
+"RDUI_Date_Yesterday" "Yesterday"
+"RDUI_Date_Tomorrow"	"Tomorrow"
+
+"RDUI_Date_Sunday_Short"	 "Sun"
+"RDUI_Date_Monday_Short"	 "Mon"
+"RDUI_Date_Tuesday_Short"	 "Tues"
+"RDUI_Date_Wednesday_Short"	 "Wed"
+"RDUI_Date_Thursday_Short"	 "Thurs"
+"RDUI_Date_Friday_Short"	 "Fri"
+"RDUI_Date_Saturday_Short"	 "Sat"
+
+"RDUI_Date_Sunday"	 "Sunday"
+"RDUI_Date_Monday"	 "Monday"
+"RDUI_Date_Tuesday"	 "Tuesday"
+"RDUI_Date_Wednesday"	 "Wednesday"
+"RDUI_Date_Thursday"	 "Thursday"
+"RDUI_Date_Friday"	 "Friday"
+"RDUI_Date_Saturday"	 "Saturday"
+
+"RDUI_Date_January_Short"	 "Jan"
+"RDUI_Date_February_Short"	 "Feb"
+"RDUI_Date_March_Short"	 "Mar"
+"RDUI_Date_April_Short"	 "Apr"
+"RDUI_Date_May_Short"	 "May"
+"RDUI_Date_June_Short"	 "Jun"
+"RDUI_Date_July_Short"	 "Jul"
+"RDUI_Date_August_Short"	 "Aug"
+"RDUI_Date_September_Short"	 "Sep"
+"RDUI_Date_October_Short"	 "Oct"
+"RDUI_Date_November_Short"	 "Nov"
+"RDUI_Date_December_Short"	 "Dec"
+
+"RDUI_Date_January"	 "January"
+"RDUI_Date_February"	 "February"
+"RDUI_Date_March"	 "March"
+"RDUI_Date_April"	 "April"
+"RDUI_Date_May"	 "May"
+"RDUI_Date_June"	 "June"
+"RDUI_Date_July"	 "July"
+"RDUI_Date_August"	 "August"
+"RDUI_Date_September"	 "September"
+"RDUI_Date_October"	 "October"
+"RDUI_Date_November"	 "November"
+"RDUI_Date_December"	 "December"
 } 
 } 

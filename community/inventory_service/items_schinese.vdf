@@ -21,6 +21,8 @@
 "item_display_type_community_medal_legendary"		"社区勋章"
 "[english]item_display_type_donation_medal"		"Donor"
 "item_display_type_donation_medal"		"捐赠者"
+"[english]item_display_type_novelty_medal_uncommon"		"Souvenir"
+"item_display_type_novelty_medal_uncommon"		"纪念品"
 // accessory that can be permanently attached to a weapon, equipment, or suit to track specific stats
 "[english]item_display_type_strange_device"		"Strange Device"
 "item_display_type_strange_device"		"奇异装置"
@@ -157,6 +159,16 @@
 "[english]item_novelty_medal_flush_toilet_display_type"		"Medal…?"
 "item_novelty_medal_flush_toilet_display_type"		"勋章…?"
 
+// (to the tune of the titular lyric of I Saw Mommy Kissing Santa Claus)
+// (this isn't a translator note, it's just my headcanon about some words I typed)
+"[english]item_novelty_medal_anacrusis_name"		"I met Barry on the Isolode"
+"item_novelty_medal_anacrusis_name"		"我在伊索洛德上遇到了巴里"
+// these are puns. good luck!
+"[english]item_novelty_medal_anacrusis_description"		"It was a [i]Barry[/i] good time. Still [i]barrel[/i]-y know him, though…"
+"item_novelty_medal_anacrusis_description"		"虽然我们[i]基[/i]本不熟，但依然度过了一段[i]基[/i]情四射的时光…"
+"[english]item_novelty_medal_anacrusis_acquisition"		"Complete the Barry Nice to Meet You achievement in The Anacrusis to unlock."
+"item_novelty_medal_anacrusis_acquisition"		"在 The Anacrusis 里完成 Barry Nice to Meet You 成就以解锁。"
+
 "[english]item_achievement_medal_oe_jacob_name"		"Jacob's Rest Veteran"
 "item_achievement_medal_oe_jacob_name"		"雅各布的栖息地老兵"
 "[english]item_achievement_medal_oe_area9800_name"		"Area 9800 Veteran"
@@ -260,9 +272,13 @@
 "[english]item_unique_medal_ben_lubar_display_type"		"catcake"
 "item_unique_medal_ben_lubar_display_type"		"猫蛋糕"
 "[english]item_unique_medal_mapping_2023_name"		"The Gauntlet: Arctic (#BossFight2023 Winner)"
-"item_unique_medal_mapping_2023_name"		"北极挑战 (#Boss大战2023冠军)"
+"item_unique_medal_mapping_2023_name"		"北极挑战 (#Boss大战2023 冠军)"
 "[english]item_unique_medal_mapping_2023_description"		"This medal commemorates The Gauntlet: Arctic, the winner of the 2023 mapping competition."
-"item_unique_medal_mapping_2023_description"		"北极挑战 (#Boss大战2023冠军)"
+"item_unique_medal_mapping_2023_description"		"勋章授予2023地图大赛冠军作品《北极挑战》的作者"
+"[english]item_unique_medal_mapping_2024_name"		"Downed Station (#SpaceStation2024 Winner)"
+"item_unique_medal_mapping_2024_name"		"陨落空间站(#空间站2024 冠军)"
+"[english]item_unique_medal_mapping_2024_description"		"This medal commemorates Downed Station, the winner of the 2024 mapping competition."
+"item_unique_medal_mapping_2024_description"		"勋章授予2024地图大赛冠军作品《陨落空间站》的作者"
 
 // Contains one Strange (stat-tracking) version of a weapon the player has unlocked, of the player's choice.
 "[english]item_container_beta_tester_strange_weapon_name"		"Beta Tester's Strange Weapon"
@@ -395,6 +411,16 @@
 "[english]item_crafting_material_probability_drive_description"		"A disk containing an excerpt from [i]A Million Random Digits with 100,000 Normal Deviates[/i], found while on a mission."
 "item_crafting_material_probability_drive_description"		"这是一快任务中找到的磁盘，存储内容节选自《百万乱数表》。"
 
+"[english]item_crafting_material_refined_wire_name"		"Sorted Wire"
+"item_crafting_material_refined_wire_name"		"分选电线"
+"[english]item_crafting_material_refined_wire_description"		"A spool of repurposed wire."
+"item_crafting_material_refined_wire_description"		"经分选可重新利用的电线。"
+"[english]item_crafting_material_refined_carbon_name"		"Carbon Plates"
+"item_crafting_material_refined_carbon_name"		"碳板"
+"[english]item_crafting_material_refined_carbon_description"		"Carbon nanotubes arranged into super-strong plates."
+"item_crafting_material_refined_carbon_description"		"碳纳米管制作的超强板材。"
+
+
 // Notifications are hidden items that cause a notification to appear in the game's main menu. The item records whether it has been seen by the player, and dismissing the notification deletes the item. Notifications will not appear for players who have opted out of seeing them.
 //
 // A large variety of crafting materials have appeared (once per week).
@@ -409,11 +435,11 @@
 "notification_crafting_items_appeared_playtime_description"		"查看任务列表以了解制作材料可能出现的位置。"
 
 "[english]item_strange_device_missions_name"		"Missions"
-"item_strange_device_missions_name"		"任务"
+"item_strange_device_missions_name"		"参与任务"
 "[english]item_strange_device_successful_missions_name"		"Successful Missions"
-"item_strange_device_successful_missions_name"		"任务成功"
+"item_strange_device_successful_missions_name"		"完成任务"
 "[english]item_strange_device_aliens_killed_name"		"Aliens Killed"
-"item_strange_device_aliens_killed_name"		"异形击杀"
+"item_strange_device_aliens_killed_name"		"击杀异形"
 "[english]item_strange_device_healing_name"		"Healing"
 "item_strange_device_healing_name"		"治疗总量"
 "[english]item_strange_device_fast_hacks_name"		"Fast Hacks"
@@ -424,10 +450,10 @@
 "[english]item_strange_device_allies_extinguished_name"		"Allies Extinguished"
 "item_strange_device_allies_extinguished_name"		"为友灭火"
 "[english]item_strange_device_alien_kill_streak_name"		"Alien Kill Streak"
-"item_strange_device_alien_kill_streak_name"		"连杀异形个数"
+"item_strange_device_alien_kill_streak_name"		"连杀异形"
 // Alien Kill Streak: 1234 (Best: 5678)
 "[english]item_strange_device_alien_kill_streak_best"		"Best"
-"item_strange_device_alien_kill_streak_best"		"最佳记录"
+"item_strange_device_alien_kill_streak_best"		"最佳连杀"
 "[english]item_strange_device_infestations_cured_name"		"Infestations Cured"
 "item_strange_device_infestations_cured_name"		"治愈感染"
 
@@ -450,6 +476,9 @@
 // one can only hope
 "[english]item_suit_flynn_name"		"Flynn's Suit"
 "item_suit_flynn_name"		"Flynn的服装"
+
+// If you would like to be included in this system and you have contributed to Alien Swarm: Reactive Drop's development,
+// follow the instructions at https://developer.reactivedrop.com/donation-items.html
 
 "[english]item_donation_tft_name"		"Donor: Tears for Tarnor"
 "item_donation_tft_name"		"慷慨勋章：塔诺尔之泪"
@@ -529,8 +558,8 @@
 "item_donation_stargate_description"		"本勋章授予所有捐款给Stargate75的玩家。Stargate75是德国区域服务器的服主之一。"
 "[english]item_donation_hangumi_name"		"Donor: hangumi"
 "item_donation_hangumi_name"		"慷慨勋章：hangumi"
-"[english]item_donation_hangumi_description"		"Represents a donation to hangumi, host of servers in Korea."
-"item_donation_hangumi_description"		"本勋章授予所有捐款给hangumi的玩家。hangumi是韩国区域服务器服主。"
+"[english]item_donation_hangumi_description"		"Represents a donation to hangumi, host of servers in Korea and contributor to the Korean translation."
+"item_donation_hangumi_description"		"本勋章授予所有捐款给hangumi的玩家。hangumi是韩国区域服务器的服主之一，也是韩语翻译之一。"
 "[english]item_donation_yojimbo_name"		"Donor: YOJIMBO"
 "item_donation_yojimbo_name"		"慷慨勋章：YOJIMBO"
 "[english]item_donation_yojimbo_description"		"Represents a donation to YOJIMBO, host of servers in Ireland."
@@ -542,15 +571,15 @@
 "[english]item_donation_dukem_name"		"Donor: Duke M"
 "item_donation_dukem_name"		"慷慨勋章：Duke M"
 "[english]item_donation_dukem_description"		"Represents a donation to Duke M, contributor to the German translation."
-"item_donation_dukem_description"		"本勋章授予所有捐款给Duke M的玩家。Duke M是德语翻译。"
+"item_donation_dukem_description"		"本勋章授予所有捐款给Duke M的玩家。Duke M是德语翻译之一。"
 "[english]item_donation_deerlord_name"		"Donor: Deerlord"
 "item_donation_deerlord_name"		"慷慨勋章：Deerlord"
 "[english]item_donation_deerlord_description"		"Represents a donation to Deerlord, contributor to the Japanese translation."
-"item_donation_deerlord_description"		"本勋章授予所有捐款给Deerlord的玩家。Deerlord是日语翻译。"
+"item_donation_deerlord_description"		"本勋章授予所有捐款给Deerlord的玩家。Deerlord是日语翻译之一。"
 "[english]item_donation_blueberry_name"		"Donor: Blueberry"
 "item_donation_blueberry_name"		"慷慨勋章：Blueberry"
 "[english]item_donation_blueberry_description"		"Represents a donation to Blueberry, contributor to the Russian translation."
-"item_donation_blueberry_description"		"本勋章授予所有捐款给Blueberry的玩家。Blueberry是俄语翻译。"
+"item_donation_blueberry_description"		"本勋章授予所有捐款给Blueberry的玩家。Blueberry是俄语翻译之一。"
 "[english]item_donation_makinday_name"		"Donor: MakinDay"
 "item_donation_makinday_name"		"慷慨勋章：MakinDay"
 "[english]item_donation_makinday_description"		"Represents a donation to MakinDay, contributor to the Italian translation."
@@ -562,11 +591,11 @@
 "[english]item_donation_trickmaster_name"		"Donor: trick-master"
 "item_donation_trickmaster_name"		"慷慨勋章：trick-master"
 "[english]item_donation_trickmaster_description"		"Represents a donation to trick-master, contributor to the French translation."
-"item_donation_trickmaster_description"		"本勋章授予所有捐款给trick-master的玩家。trick-master是法语翻译。"
+"item_donation_trickmaster_description"		"本勋章授予所有捐款给trick-master的玩家。trick-master是法语翻译之一。"
 "[english]item_donation_efi_name"		"Donor: Efi"
 "item_donation_efi_name"		"慷慨勋章：Efi"
 "[english]item_donation_efi_description"		"Represents a donation to Efi, artist and contributor to the Spanish translation."
-"item_donation_efi_description"		"本勋章授予所有捐款给Efi的玩家。Efi是游戏美工之一以及西班牙语翻译。"
+"item_donation_efi_description"		"本勋章授予所有捐款给Efi的玩家。Efi是游戏美工之一以及西班牙语翻译之一。"
 "[english]item_donation_autogavy_name"		"Donor: AutoGavy"
 "item_donation_autogavy_name"		"慷慨勋章：AutoGavy"
 "[english]item_donation_autogavy_description"		"Represents a donation to AutoGavy, contributor to the Simplified Chinese translation and host of servers in China."
@@ -574,6 +603,10 @@
 "[english]item_donation_thescientist_name"		"Donor: TheScientist"
 "item_donation_thescientist_name"		"慷慨勋章：TheScientist"
 "[english]item_donation_thescientist_description"		"Represents a donation to TheScientist, contributor to the Portuguese translation."
-"item_donation_thescientist_description"		"本勋章授予所有捐款给TheScientist的玩家。TheScientist是韩语翻译。"
+"item_donation_thescientist_description"		"本勋章授予所有捐款给TheScientist的玩家。TheScientist是韩语翻译之一。"
+"[english]item_donation_crazymanbos_name"		"Donor: Crazymanbos"
+"item_donation_crazymanbos_name"		"慷慨勋章：Crazymanbos"
+"[english]item_donation_crazymanbos_description"		"Represents a donation to Crazymanbos, contributor to the Swedish translation."
+"item_donation_crazymanbos_description"		"本勋章授予所有捐款给Crazymanbos的玩家。Crazymanbos是瑞典语翻译之一。"
 }
 }

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<content><string id="body">L'aggiornamento di questo mese riguarda principalmente dei miglioramenti della qualità della vita per le armi.
+
+[list]
+[*][b]Amplificatore di Danno X-33:[/b] Corretto un faro trasportato che non si collegava in modo affidabile all'arma del soldato che lo trasportava.
+[*][b]Amplificatore di Danno X-33:[/b] rd_buff_grenade_attach_sw_auto può ora essere impostato su 2 per ripristinare il vecchio comportamento che permetteva a un soldato delle armi speciali di trasportare più amplificatori di danno. È ancora possibile raccoglierne uno da terra solo se non se ne sta già trasportando uno. I bonus ai danni persistenti continuano a non essere cumulabili, quindi è utile solo se si vuole colmare il divario tra due durate di amplificatori di danni sovrapponendoli leggermente.
+[*][b]Amplificatore di Danno X-33[/b] e [b]Faro Curativo IAF:[/b] Aggiunto un anello supplementare all'animazione del segnalatore per mostrare la durata residua. Gli effetti particellari personalizzati possono utilizzare questa informazione dalla coordinata y del punto di controllo 1, che scala da 0 quando il segnalatore è appena stato attivato a 1 quando il segnalatore scade.
+[*][b]Armatura Elettrica Caricata v45:[/b] Aggiunta la convar rd_electrified_armor_fx che può essere disattivato per disabilitare l'effetto elettrico nel caso in cui risulti sgradevole su modelli personalizzati.
+[*][b]Granate a Gas TG-05[/b], [b]Granate a Mano FG-01[/b] e [b]Granate Congelanti CR-18:[/b] Aggiunta una rappresentazione visiva delle granate equipaggiate dai soldati.
+[*]Le [b]Granate a Gas TG-05[/b], [b]Granate a Mano FG-01[/b] e le granate del [b]Lanciagranate[/b] ora utilizzano modelli separati per facilitare il modding.
+[*][b]Unità Lanciafiamme M868[/b] e [b]Mine di Prossimità Incendiarie M478:[/b] Il fuoco amico con armi incendiarie ora incendia immediatamente i soldati in tutte le impostazioni di difficoltà. Invece, i danni da postcombustione del fuoco amico normale richiedono alcuni secondi per raggiungere il massimo del danno. Si tratta di una modifica sperimentale volta a rendere più evidente il fuoco amico con le armi incendiarie senza modificare di molto la difficoltà effettiva e a facilitare la transizione tra il fuoco amico normale e quello hardcore. Come sempre, stiamo raccogliendo feedback e apporteremo le modifiche necessarie.
+[*]Corretto il problema delle armi consumabili che sembrano fluttuare in aria per una frazione di secondo dopo essere state consumate.
+[*]Corretto un crash dovuto alla corruzione della memoria quando si cambia sfida dopo aver riavviato la missione.
+[/list]</string><string id="subtitle"></string><string id="summary"></string><string id="title">Aggiornamento di Alien Swarm: Reactive Drop - 1 Agosto 2024</string></content>

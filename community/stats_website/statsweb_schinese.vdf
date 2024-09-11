@@ -97,6 +97,13 @@
 "StatsWeb_ProfileNoStatsOptOutBefore"		"应玩家"
 "[english]StatsWeb_ProfileNoStatsOptOutAfter"		" has requested that their personal stats not be shown on this page."
 "StatsWeb_ProfileNoStatsOptOutAfter"		"要求，个人统计数据被隐藏。"
+"[english]StatsWeb_ProfileNoStatsPlayedButNoStatsBefore"		"No gameplay statistics have been recorded for "
+"StatsWeb_ProfileNoStatsPlayedButNoStatsBefore"		"玩家"
+"[english]StatsWeb_ProfileNoStatsPlayedButNoStatsAfter"		"; however, "
+"StatsWeb_ProfileNoStatsPlayedButNoStatsAfter"		"没有有效的游戏统计数据；然而，"
+// previous message continues into this one
+"[english]StatsWeb_ProfileNoStatsPlaytimeAnomaly"		"Steam reports they have played the game for %d minutes."
+"StatsWeb_ProfileNoStatsPlaytimeAnomaly"		"Steam 记录到这些玩家游戏时长为 %d 分钟。"
 "[english]StatsWeb_ProfileNavStats"		"Stats"
 "StatsWeb_ProfileNavStats"		"整体数据"
 "[english]StatsWeb_ProfileNavWeapons"		"Weapons"

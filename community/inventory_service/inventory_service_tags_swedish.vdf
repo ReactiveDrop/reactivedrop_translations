@@ -4,6 +4,7 @@
 "Tokens"
 {
 // used to transform item names on the Steam Community. shows for items that have attached accessories, like a strange weapon with at least one strange device attached.
+// %ITEMNAME% gets replaced with the item's default name; anything else between percent signs is replaced with a tag's name. don't translate the words between %.
 "[english]inventory_name_format_1"		"%ITEMNAME% (Customized)"
 "inventory_name_format_1"		"%ITEMNAME% (Anpassat)"
 "[english]inventory_name_format_2"		""
@@ -57,30 +58,33 @@
 "[english]inventory_class_restriction_officer"		"Officer"
 "inventory_class_restriction_officer"		"Officer"
 "[english]inventory_class_restriction_specialweapons"		"Special Weapons"
-"inventory_class_restriction_specialweapons"		"Special Vapen"
+"inventory_class_restriction_specialweapons"		"Specialvapen"
 "[english]inventory_class_restriction_medic"		"Medic"
 "inventory_class_restriction_medic"		"Läkare"
 "[english]inventory_class_restriction_tech"		"Tech"
-"inventory_class_restriction_tech"		"Tech"
+"inventory_class_restriction_tech"		"Tekniskt"
 "[english]inventory_crafting_item"		"Crafting Item"
-"inventory_crafting_item"		"Tillverknings Föremål"
+"inventory_crafting_item"		"Tillverkningsföremål"
 "[english]inventory_crafting_item_single_use_tool"		"Single-Use Tool"
-"inventory_crafting_item_single_use_tool"		"Engångs Verktyg"
+"inventory_crafting_item_single_use_tool"		"Engångsverktyg"
 // common crafting materials. (100-1000 drop at a time)
 "[english]inventory_crafting_item_ultra_common"		"Bulk Material"
 "inventory_crafting_item_ultra_common"		"Bulkgods"
 // common crafting materials. (1-3 drop at a time)
 "[english]inventory_crafting_item_common_part"		"Industrial Material"
-"inventory_crafting_item_common_part"		"Industriell Material"
+"inventory_crafting_item_common_part"		"Industrimaterial"
 // uncommon crafting materials.
 "[english]inventory_crafting_item_alien_part"		"Alien Material"
 "inventory_crafting_item_alien_part"		"Alien Material"
 // rare crafting materials.
 "[english]inventory_crafting_item_computer_part"		"Tech Material"
-"inventory_crafting_item_computer_part"		"Tech Material"
+"inventory_crafting_item_computer_part"		"Tekniskt Material"
 // crafting items that can be found by playing some campaigns but not others.
 "[english]inventory_crafting_item_regional"		"Salvaged Material"
 "inventory_crafting_item_regional"		"Bärgat Material"
+// crafting items that were transformed from a variant the player found into one that is more usable (eg. sorting wires, turning scraps of material into a sheet)
+"[english]inventory_crafting_item_refined"		"Refined Material"
+"inventory_crafting_item_refined"		"Raffinerat Material"
 // displayed before the list of Strange item accessories, eg. Strange Devices: Missions, Aliens Killed
 "[english]inventory_strange"		"Strange Devices"
 "inventory_strange"		"Avvikande Enhet"

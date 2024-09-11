@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<content><string id="body">This month's update is mainly related to weapon quality of life improvements.
+
+[list]
+[*][b]X-33 Damage Amplifier:[/b] Fixed a carried beacon not reliably connecting to the gun of the marine carrying it.
+[*][b]X-33 Damage Amplifier:[/b] rd_buff_grenade_attach_sw_auto can now be set to 2 to restore the old behavior of allowing a special weapons marine to carry multiple damage amplifiers. You can still only pick one up from the ground if you are not already carrying one. Persistent damage bonuses still do not stack, so this is only useful if you want to bridge the gap between two damage amplifier durations by slightly overlapping them.
+[*][b]X-33 Damage Amplifier[/b] and [b]IAF Heal Beacon:[/b] Added an extra ring to the animation of the beacon to show remaining duration. Custom particle effects can use this information from the control point 1 y coordinate, which scales from 0 on a freshly deployed beacon to 1 when the beacon expires.
+[*][b]v45 Electric Charged Armor:[/b] Added a convar rd_electrified_armor_fx which can be turned off to disable the electrical effect in case it looks bad on custom models.
+[*][b]TG-05 Gas Grenades[/b], [b]FG-01 Hand Grenades[/b], and [b]CR-18 Freeze Grenades:[/b] Added a visual representation of equipped grenades to marines.
+[*][b]TG-05 Gas Grenades[/b], [b]FG-01 Hand Grenades[/b], and grenades from the [b]Grenade Launcher[/b] now use separate models for easier modding.
+[*][b]M868 Flamer Unit[/b] and [b]M478 Proximity Incendiary Mines:[/b] Friendly fire with incendiary weapons now ignites marines immediately on all difficulty settings. Instead, afterburn damage on normal friendly fire takes a few seconds to ramp up to its full damage. This is an experimental change intended to make friendly fire with incendiary weapons more apparent without changing the effective difficulty much and to ease the transition between playing on normal and hardcore friendly fire. As always, we are collecting feedback and will make changes as needed.
+[*]Fixed consumable weapons appearing to float in the air for a fraction of a second after being used up.
+[*]Fixed a crash related to memory corruption when switching challenges after restarting the mission.
+[/list]</string><string id="subtitle"></string><string id="summary"></string><string id="title">Alien Swarm: Reactive Drop Update - August 1, 2024</string></content>

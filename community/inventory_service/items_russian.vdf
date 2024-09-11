@@ -21,6 +21,8 @@
 "item_display_type_community_medal_legendary"		"Медаль сообщества"
 "[english]item_display_type_donation_medal"		"Donor"
 "item_display_type_donation_medal"		"Спонсорство"
+"[english]item_display_type_novelty_medal_uncommon"		"Souvenir"
+"item_display_type_novelty_medal_uncommon"		"Сувенир"
 // accessory that can be permanently attached to a weapon, equipment, or suit to track specific stats
 "[english]item_display_type_strange_device"		"Strange Device"
 "item_display_type_strange_device"		"Странный прибор"
@@ -157,6 +159,16 @@
 "[english]item_novelty_medal_flush_toilet_display_type"		"Medal…?"
 "item_novelty_medal_flush_toilet_display_type"		"Медаль…?"
 
+// (to the tune of the titular lyric of I Saw Mommy Kissing Santa Claus)
+// (this isn't a translator note, it's just my headcanon about some words I typed)
+"[english]item_novelty_medal_anacrusis_name"		"I met Barry on the Isolode"
+"item_novelty_medal_anacrusis_name"		"Я встретил Барри на Изолоде"
+// these are puns. good luck!
+"[english]item_novelty_medal_anacrusis_description"		"It was a [i]Barry[/i] good time. Still [i]barrel[/i]-y know him, though…"
+"item_novelty_medal_anacrusis_description"		"Мы хорошо провели [i]бремя[/i] с Барри. Хоть я его почти не видел…"
+"[english]item_novelty_medal_anacrusis_acquisition"		"Complete the Barry Nice to Meet You achievement in The Anacrusis to unlock."
+"item_novelty_medal_anacrusis_acquisition"		"Выполните достижение «Приятно познакомиться, Барри» в кампании «Анакрузис», чтобы получить это."
+
 "[english]item_achievement_medal_oe_jacob_name"		"Jacob's Rest Veteran"
 "item_achievement_medal_oe_jacob_name"		"Ветеран «Покоя Якоба»"
 "[english]item_achievement_medal_oe_area9800_name"		"Area 9800 Veteran"
@@ -263,6 +275,10 @@
 "item_unique_medal_mapping_2023_name"		"Испытание: Арктика (победитель #BossFight2023)"
 "[english]item_unique_medal_mapping_2023_description"		"This medal commemorates The Gauntlet: Arctic, the winner of the 2023 mapping competition."
 "item_unique_medal_mapping_2023_description"		"Эта медаль посвящена карте «Испытание: Арктика» (The Gauntlet: Arctic), победительнице в соревновании карт 2023 года."
+"[english]item_unique_medal_mapping_2024_name"		"Downed Station (#SpaceStation2024 Winner)"
+"item_unique_medal_mapping_2024_name"		"Разрушенная станция (победитель #SpaceStation2024)"
+"[english]item_unique_medal_mapping_2024_description"		"This medal commemorates Downed Station, the winner of the 2024 mapping competition."
+"item_unique_medal_mapping_2024_description"		"Эта медаль посвящена карте «Разрушенная станция» (Downed Station), победительнице в соревновании карт 2024 года."
 
 // Contains one Strange (stat-tracking) version of a weapon the player has unlocked, of the player's choice.
 "[english]item_container_beta_tester_strange_weapon_name"		"Beta Tester's Strange Weapon"
@@ -289,8 +305,8 @@
 "item_crafting_material_spare_pipe_description"		"Отрезок прочной трубы, который может пригодиться при строительстве или ремонте."
 "[english]item_crafting_material_plastics_name"		"Plastics"
 "item_crafting_material_plastics_name"		"Пластмасса"
-		"[english]item_crafting_material_plastics_description"		"Lightly used plastic filament that could be used to make something."
-		"item_crafting_material_plastics_description"		"Lightly used plastic filament that could be used to make something."
+"[english]item_crafting_material_plastics_description"		"Lightly used plastic filament that could be used to make something."
+"item_crafting_material_plastics_description"		"Слегка использованная пластиковая нить, из которой можно что-то сделать."
 "[english]item_crafting_material_coolant_name"		"Coolant"
 "item_crafting_material_coolant_name"		"Хладагент"
 "[english]item_crafting_material_coolant_description"		"A small container of thermo-conductive fluid found during a mission."
@@ -301,8 +317,8 @@
 "item_crafting_material_mini_crate_description"		"Эта маленькая коробочка может использоваться для хранения небольшого количества чего-либо."
 "[english]item_crafting_material_battery_pack_name"		"Battery Pack"
 "item_crafting_material_battery_pack_name"		"Аккумулятор"
-		"[english]item_crafting_material_battery_pack_description"		"A large, mostly-charged chemical cell found while fighting the Swarm."
-		"item_crafting_material_battery_pack_description"		"A large, mostly-charged chemical cell found while fighting the Swarm."
+"[english]item_crafting_material_battery_pack_description"		"A large, mostly-charged chemical cell found while fighting the Swarm."
+"item_crafting_material_battery_pack_description"		"Большой химический элемент с большим количеством заряда, найденный во время сражения с роем."
 
 "[english]item_crafting_material_loose_wires_name"		"Loose Wires"
 "item_crafting_material_loose_wires_name"		"Незакреплённые провода"
@@ -316,8 +332,8 @@
 
 "[english]item_crafting_material_alien_chitin_name"		"Alien Chitin"
 "item_crafting_material_alien_chitin_name"		"Хитин жуков"
-		"[english]item_crafting_material_alien_chitin_description"		"A tough semi-transparent material salvaged from the exoskeleton of a Drone. It might be useful."
-		"item_crafting_material_alien_chitin_description"		"A tough semi-transparent material salvaged from the exoskeleton of a Drone. It might be useful."
+"[english]item_crafting_material_alien_chitin_description"		"A tough semi-transparent material salvaged from the exoskeleton of a Drone. It might be useful."
+"item_crafting_material_alien_chitin_description"		"Прочный полупрозрачный материал, извлечённый из экзоскелета трутня. Может быть полезен."
 "[english]item_crafting_material_biomass_sample_name"		"Biomass Sample"
 "item_crafting_material_biomass_sample_name"		"Образец биомассы"
 "[english]item_crafting_material_biomass_sample_description"		"A small sample of alien biomass collected while on a mission. It might be useful."
@@ -354,8 +370,8 @@
 "item_crafting_material_antlion_carapace_description"		"Оболочка муравьиного льва, найденная во время выполнения миссии."
 "[english]item_crafting_material_corrosive_fluid_sample_name"		"Corrosive Fluid Sample"
 "item_crafting_material_corrosive_fluid_sample_name"		"Образец коррозийной жидкости"
-		"[english]item_crafting_material_corrosive_fluid_sample_description"		"A barrel of corrosive fluid, found while on a mission."
-		"item_crafting_material_corrosive_fluid_sample_description"		"A barrel of corrosive fluid, found while on a mission."
+"[english]item_crafting_material_corrosive_fluid_sample_description"		"A barrel of corrosive fluid, found while on a mission."
+"item_crafting_material_corrosive_fluid_sample_description"		"Бочка с едкой жидкостью, найденная во время выполнения миссии."
 "[english]item_crafting_material_cooled_volcanic_rock_name"		"Cooled Volcanic Rock"
 "item_crafting_material_cooled_volcanic_rock_name"		"Остывшая вулканическая порода"
 "[english]item_crafting_material_cooled_volcanic_rock_description"		"An igneous rock, found while on a mission."
@@ -366,12 +382,12 @@
 "item_crafting_material_retrieved_documents_description"		"Куча схем и разведданных, найденных во время выполнения миссии."
 "[english]item_crafting_material_unopened_synup_cola_name"		"Unopened SynUp Cola"
 "item_crafting_material_unopened_synup_cola_name"		"Невскрытая кола «СинАп»"
-		"[english]item_crafting_material_unopened_synup_cola_description"		"A pristine pack of SynUp Cola cans, found while on a mission."
-		"item_crafting_material_unopened_synup_cola_description"		"A pristine pack of SynUp Cola cans, found while on a mission."
+"[english]item_crafting_material_unopened_synup_cola_description"		"A pristine pack of SynUp Cola cans, found while on a mission."
+"item_crafting_material_unopened_synup_cola_description"		"Нетронутая упаковка банок колы «СинАп», найденная во время выполнения миссии."
 "[english]item_crafting_material_roll_of_vent_tape_name"		"Roll of Vent Tape"
 "item_crafting_material_roll_of_vent_tape_name"		"Рулон вентиляционной ленты"
-		"[english]item_crafting_material_roll_of_vent_tape_description"		"Unused rolls of vent tape, found while on a mission."
-		"item_crafting_material_roll_of_vent_tape_description"		"Unused rolls of vent tape, found while on a mission."
+"[english]item_crafting_material_roll_of_vent_tape_description"		"Unused rolls of vent tape, found while on a mission."
+"item_crafting_material_roll_of_vent_tape_description"		"Неиспользованные рулоны вентиляционной ленты, найденные во время выполнения миссии."
 "[english]item_crafting_material_isotopes_name"		"Isotopes"
 "item_crafting_material_isotopes_name"		"Изотопы"
 "[english]item_crafting_material_isotopes_description"		"Radioactive material, found while on a mission."
@@ -394,6 +410,16 @@
 // This is the name of a real book, published in 1955. It contains 400 pages, each with 50 lines of 50 digits.
 "[english]item_crafting_material_probability_drive_description"		"A disk containing an excerpt from [i]A Million Random Digits with 100,000 Normal Deviates[/i], found while on a mission."
 "item_crafting_material_probability_drive_description"		"Диск, содержащий выдержку из [i]миллиона случайных цифр со 100 000 отклонениями от нормы[/i], найденный во время выполнения миссии."
+
+"[english]item_crafting_material_refined_wire_name"		"Sorted Wire"
+"item_crafting_material_refined_wire_name"		"Сортированная проволока"
+"[english]item_crafting_material_refined_wire_description"		"A spool of repurposed wire."
+"item_crafting_material_refined_wire_description"		"Катушка проволоки для повторного применения."
+"[english]item_crafting_material_refined_carbon_name"		"Carbon Plates"
+"item_crafting_material_refined_carbon_name"		"Углеродные пластины"
+"[english]item_crafting_material_refined_carbon_description"		"Carbon nanotubes arranged into super-strong plates."
+"item_crafting_material_refined_carbon_description"		"Углеродные нанотрубки, собранные в сверхпрочные пластины."
+
 
 // Notifications are hidden items that cause a notification to appear in the game's main menu. The item records whether it has been seen by the player, and dismissing the notification deletes the item. Notifications will not appear for players who have opted out of seeing them.
 //
@@ -450,6 +476,9 @@
 // one can only hope
 "[english]item_suit_flynn_name"		"Flynn's Suit"
 "item_suit_flynn_name"		"Костюм Флинн"
+
+// If you would like to be included in this system and you have contributed to Alien Swarm: Reactive Drop's development,
+// follow the instructions at https://developer.reactivedrop.com/donation-items.html
 
 "[english]item_donation_tft_name"		"Donor: Tears for Tarnor"
 "item_donation_tft_name"		"Спонсорство: Слёзы по Тарнору"
@@ -529,8 +558,8 @@
 "item_donation_stargate_description"		"Представляет собой пожертвование Stargate75, организатору серверов в Германии."
 "[english]item_donation_hangumi_name"		"Donor: hangumi"
 "item_donation_hangumi_name"		"Спонсорство: hangumi"
-"[english]item_donation_hangumi_description"		"Represents a donation to hangumi, host of servers in Korea."
-"item_donation_hangumi_description"		"Представляет собой пожертвование hangumi, организатору серверов в Корее."
+"[english]item_donation_hangumi_description"		"Represents a donation to hangumi, host of servers in Korea and contributor to the Korean translation."
+"item_donation_hangumi_description"		"Представляет собой пожертвование hangumi, организатору серверов в Корее и помощь с переводом на корейский."
 "[english]item_donation_yojimbo_name"		"Donor: YOJIMBO"
 "item_donation_yojimbo_name"		"Спонсорство: YOJIMBO"
 "[english]item_donation_yojimbo_description"		"Represents a donation to YOJIMBO, host of servers in Ireland."
@@ -575,5 +604,9 @@
 "item_donation_thescientist_name"		"Спонсорство: TheScientist"
 "[english]item_donation_thescientist_description"		"Represents a donation to TheScientist, contributor to the Portuguese translation."
 "item_donation_thescientist_description"		"Представляет собой пожертвование TheScientist, за помощь с переводом на португальский."
+"[english]item_donation_crazymanbos_name"		"Donor: Crazymanbos"
+"item_donation_crazymanbos_name"		"Спонсорство: Crazymanbos"
+"[english]item_donation_crazymanbos_description"		"Represents a donation to Crazymanbos, contributor to the Swedish translation."
+"item_donation_crazymanbos_description"		"Представляет собой пожертвование Crazymanbos, за помощь с переводом на шведский."
 }
 }

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<content><string id="body">[i]Commander,
+
+The Office appreciates your hard work on the anomalous materials project. The folks in the lab say they'll be ready for phase 2 soon. We'll let you know when it's ready. You'll know it when you see it.
+
+Oh, and happy wrath month.
+
+Dr. Helvetica Scenario
+Ecological Consistency Dept. 
+Office of Consensus Maintenance[/i]
+
+[h2]Aliens[/h2]
+[list]
+[*]Aliens no longer fail to deal damage when melee attacking another alien due to a custom ai_relationship.
+[*]Freezing a character now also slows down the simulation of jigglebones. (For example, the antenna or cables on a marine's backpack.)
+[*]Drones now flinch based on the stats of the weapon that hurt them, not the marine's current weapon. (For example, switching from a flamer to a PDW while the fire is traveling no longer has a lower chance to cause flinches.)
+[*]Frozen aliens no longer restart their current animation when thawing and can no longer move or turn while frozen in some cases.
+[*]Boomers can no longer decide to explode while frozen.
+[*]Removed shadow from the queen's tentacles.
+[*]Melee now deals double damage to frozen enemies. There are also new convars for damage scaling against burning enemies for use by mods.
+[*]Enemies can now be over 100% frozen. Thawing is slightly faster for aliens above 100% frozen until they fall below 100%.
+[*]Stepping on a parasite or xenomite now deals 1 damage rather than 15.
+[*]Fixed xenomites being able to detonate and parasites being able to infest while completely frozen.
+[*]Fixed parasites and xenomites not using custom models.
+[/list]
+
+[h2]Weapons[/h2]
+[list]
+[*][b]Model 35 Pump-action Shotgun:[/b] No longer fires after being picked up if dropped or holstered during its alternate fire double blast.
+[*][b]X-33 Damage Amplifier:[/b] This item is no longer picked up automatically when deployed by a Special Weapons marine. Instead, a Special Weapons marine can pick up an already-deployed beacon. (For example, Wolfe can pick up a damage amplifier deployed by Bastille, and Wolfe can also deploy a damage amplifier and leave it on the ground.)
+[*]Renamed the Special Weapons skill "Autogun Damage" to "Heavy Weapons".
+[*]Renamed the Special Weapons skill "Piercing Bullets" to "Stopping Power".
+[*]The Stopping Power skill now also increases the chance for a weapon to cause enemies hit by it to flinch.
+[*]Fixed two magazines being visually dropped after a reload in singleplayer.
+[*]Fixed cases where bots would not have bullet spread.
+[*]The laser pointer no longer stops when it reaches a rolling marine.
+[*]Weapon-specific ammo boxes now give an amount of ammo based on the gun's magazine size to support challenges that change magazine size.
+[/list]
+
+[h2]Modding[/h2]
+[list]
+[*]Adjusted several UI elements to better support modding.
+[*]Reorganized files so that dedicated servers do not download files required only for the client, such as sounds, shaders, textures, and GPU-optimized models.
+[*]Moved ASBI, Energy Weapons, First Person, and Third Person to the top of the challenge list. Renamed "Disabled" challenge to "Default Game Rules". These changes are intended to make it easier for new players to understand that challenges are [i]all[/i] game rule changes, not just game rule changes that make the game harder.
+[*]Fixed main menu experience bar being completely wrong.
+[*]Setting rd_player_bots_allowed to 0 now leaves every commander with a maximum of 1 marine rather than 0.
+[*]Fixed the IAF Freeze Sentry Gun and the IAF Incendiary Sentry Gun ignoring the PreventFiringUntil function.
+[*]Added support for Portal 2 style $localrefract (as used in props_lab/glass_lightcover.mdl).
+[*]Fixed some cases where opening the game from the SDK would delete the locally cached version of your inventory.
+[/list]</string><string id="subtitle"></string><string id="summary"></string><string id="title">Alien Swarm: Reactive Drop Update - July 1, 2024</string></content>

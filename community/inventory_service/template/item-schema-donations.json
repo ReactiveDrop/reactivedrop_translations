@@ -362,9 +362,8 @@
 			"after_description_%LANG%": "{#item_donation_medal_multiple}",
 			"display_type_%LANG%": "{#item_display_type_donation_medal}",
 			"icon_url": "https://stats.reactivedrop.com/static/medals/donor/serverhost_hangumi.png",
-			"store_hidden": true,
 			"name_color": "{#item_color_donation}",
-			"store_tags": "serverhoststamp;donation",
+			"store_tags": "serverhoststamp;translatorstamp;donation",
 			"price_category": "1;VLV100",
 			"auto_stack": true,
 			"after_description_only_multi_stack": true,
@@ -411,7 +410,21 @@
 		},
 		{
 			"itemdefid": 100000022,
-			"name": "Unused 100000022"
+			"type": "item",
+			"name_%LANG%": "{#item_donation_crazymanbos_name}",
+			"description_%LANG%": "{#item_donation_crazymanbos_description}\n\n{#item_donation_medal_disclaimer}",
+			"ingame_description_%LANG%": "{#item_donation_crazymanbos_description}",
+			"after_description_%LANG%": "{#item_donation_medal_multiple}",
+			"display_type_%LANG%": "{#item_display_type_donation_medal}",
+			"icon_url": "https://stats.reactivedrop.com/static/medals/donor/translator_crazymanbos.png",
+			"name_color": "{#item_color_donation}",
+			"store_tags": "translatorstamp;donation",
+			"price_category": "1;VLV100",
+			"auto_stack": true,
+			"after_description_only_multi_stack": true,
+			"tags": "rarity:genuine;slot:medal",
+			"compressed_dynamic_props": "m_unQuantity",
+			"item_slot": "medal"
 		},
 		{
 			"itemdefid": 100000023,

@@ -380,7 +380,7 @@
 "[english]Valve_Hint_Attack"		"%+attack% ATTACK"
 "Valve_Hint_Attack"		"%+attack% ATTACKIEREN"
 "[english]Valve_Hint_Crouch"		"%+duck% CROUCH"
-"Valve_Hint_Crouch"		"%+duck% DUCKEN"
+"Valve_Hint_Crouch"		"%+duck% KNIEN"
 "[english]Valve_Hint_ItemCrate"		"%+attack% BREAK SUPPLY CRATE FOR ITEMS"
 "Valve_Hint_ItemCrate"		"%+attack% NACHSCHUBKISTE FÜR GEGENSTÄNDE ZERSTÖREN"
 "[english]Valve_Hint_Healthcharger"		"%+use% HOLD TO HEAL FROM MEDICAL UNIT"
@@ -388,7 +388,7 @@
 "[english]Valve_Hint_Reload"		"%+reload% RELOAD"
 "Valve_Hint_Reload"		"%+reload% NACHLADEN"
 "[english]Valve_Hint_SwimUp"		"%+jump% SWIM UP"
-"Valve_Hint_SwimUp"		"%+jump% SCHWIMMEN AUF"
+"Valve_Hint_SwimUp"		"%+jump% AUFWÄRTS SCHWIMMEN"
 
 
 

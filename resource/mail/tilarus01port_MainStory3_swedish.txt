@@ -1,0 +1,14 @@
+GAME
+{
+// PDA belongs to Overseer Ross
+
+// Inbox
+
+"MailFrom1"	"Från: Befälhavare Harold"
+"MailDate1"	"Datum: 02/03/54"
+"MailSubject1"	"Ämne: Evakuering"
+"MailBody1A"	"Helvete Ross, jag önskar att du inte hade rätt"
+"MailBody1B"	"Men jag är jävligt glad att vi bestämde oss för att agera på ditt råd, evakuering pågår redan som du vet"
+"MailBody1c"	"Ta dig och din personal i helvete ur vik 7 och upp till Gryningsstaden"
+"MailBody1d"	"Lycka till gamla vän"
+}

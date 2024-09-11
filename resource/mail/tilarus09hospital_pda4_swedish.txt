@@ -1,0 +1,29 @@
+GAME
+{
+// PDA belongs to Dr. Kennett
+
+// Inbox
+
+"MailFrom1"	"Från: Dr. Lily Gilmore"
+"MailDate1"	"Datum: 03/17/46"
+"MailSubject1"	"Ämne: Den modiga säkerhetschefen"
+"MailBody1A"	"Kennett!"
+"MailBody1B"	"Experimenten har tagit sig förbi säkerhetsteamet!"
+"MailBody1C"	"Säkerhetschefen försöker fly via teleporteraren. Springer från sin egen gräsmatta. Patetisk. Vart tänker han ens åka?"
+"MailBody1D"	"Vi måste göra något, och vi måste göra det snabbt."
+
+"MailFrom2"	"Från: Dr. Lily Gilmore"
+"MailDate2"	"Datum: 03/17/46"
+"MailSubject2"	"Ämne: ???"
+"MailBody2A"	"Varför svarar du inte mig?!"
+
+// Sent
+
+"MailFrom3"	"Till: Dr. Lily Gilmore"
+"MailDate3"	"Datum: 03/17/46"
+"MailSubject3"	"Ämne: Hjälp!"
+"MailBody3A"	"Lily!"
+"MailBody3B"	"Experimenten finns överallt!"
+"MailBody3C"	"Jag gömde mig i ett av förråden innan strömmen gick; nu är jag instängd. Jag hoppas bara att de där jäkla experimenten inte kan komma in här."
+"MailBody3D"	"Allt detta har längre ingen mening. Det är nödvändigt att komma ut härifrån, och ett komplex att förstöra."
+}

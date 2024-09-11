@@ -4,6 +4,7 @@
 "Tokens"
 {
 // used to transform item names on the Steam Community. shows for items that have attached accessories, like a strange weapon with at least one strange device attached.
+// %ITEMNAME% gets replaced with the item's default name; anything else between percent signs is replaced with a tag's name. don't translate the words between %.
 "[english]inventory_name_format_1"		"%ITEMNAME% (Customized)"
 "inventory_name_format_1"		"%ITEMNAME% (Tùy chỉnh)"
 "[english]inventory_name_format_2"		""
@@ -81,6 +82,9 @@
 // crafting items that can be found by playing some campaigns but not others.
 "[english]inventory_crafting_item_regional"		"Salvaged Material"
 "inventory_crafting_item_regional"		"Vật liệu được trục vớt"
+		// crafting items that were transformed from a variant the player found into one that is more usable (eg. sorting wires, turning scraps of material into a sheet)
+		"[english]inventory_crafting_item_refined"		"Refined Material"
+		"inventory_crafting_item_refined"		"Refined Material"
 // displayed before the list of Strange item accessories, eg. Strange Devices: Missions, Aliens Killed
 "[english]inventory_strange"		"Strange Devices"
 "inventory_strange"		"Thiết bị lạ kỳ"

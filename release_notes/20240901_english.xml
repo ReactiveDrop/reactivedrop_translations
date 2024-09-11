@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<content><string id="body">[h2]Mapping Competition 2024 Winner[/h2]
+Downed Station by legomanas
+[img]{STEAM_CLAN_IMAGE}/27357479/96f9509932b257ed89058f3bcb4450083fe834de.png[/img]
+
+[h2]Changes in this update[/h2]
+[list]
+[*]Removed the cl_interp convar. The game will now act as if it was set to 0.
+[*]Improved the error message that is shown when attempting to connect to a server that hasn't updated yet.
+[*]Fixed a particle related crash due to the "emit noise" operator being broken in this engine build.
+[*]Fixed a possible crash when navigating the controls menu using a keyboard.
+[*]The sound for a marine being burned but not ignited now plays for other players as well.
+[*]Slightly increased how lenient the friendly fire ignite timing is when hardcore friendly fire is disabled.
+[*]Fixed a case where TF2 workshop item icons could appear in the challenge selection screen for manually installed challenges.
+[*]Added an AddTime input for countdown objectives.
+[*]Fixed a crash when standing near a strange weapon dropped by a disconnected player.
+[*]Added support for guns having a separate laserpointer attachment from their muzzle attachment.
+[*]Moved camera-related convars to the server to make them available to challenges.
+[*]Fixed some small text being displayed in Times New Roman on Linux.
+[/list]
+
+[h2]The IAF needs you[url=https://stats.reactivedrop.com/7a]![/url][/h2]
+Alien Swarm: Reactive Drop will always be free, but that doesn't mean it doesn't take a lot of work from a lot of talented volunteers to make. If you can, consider making content for the [url=https://steamcommunity.com/app/563560/workshop/]Steam Workshop[/url], reporting bugs, proposing [url=https://github.com/ReactiveDrop/reactivedrop_public_src]code[/url] improvements, [url=https://github.com/ReactiveDrop/reactivedrop_translations]translating[/url] the game into your language, or [url=https://store.steampowered.com/itemstore/563560/]sending a dollar[/url] to one of the people who made Alien Swarm: Reactive Drop possible. The IAF thanks you for your continued service, Commander.</string><string id="subtitle"></string><string id="summary"></string><string id="title">AS:RD Update - September 1, 2024 "Time's Down"</string></content>

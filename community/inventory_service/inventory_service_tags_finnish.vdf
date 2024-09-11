@@ -4,6 +4,7 @@
 "Tokens"
 {
 		// used to transform item names on the Steam Community. shows for items that have attached accessories, like a strange weapon with at least one strange device attached.
+		// %ITEMNAME% gets replaced with the item's default name; anything else between percent signs is replaced with a tag's name. don't translate the words between %.
 		"[english]inventory_name_format_1"		"%ITEMNAME% (Customized)"
 		"inventory_name_format_1"		"%ITEMNAME% (Customized)"
 "[english]inventory_name_format_2"		""
@@ -34,12 +35,12 @@
 // items that require doing something beyond just playing the game to obtain.
 "[english]inventory_rarity_legendary"		"Legendary"
 "inventory_rarity_legendary"		"Tarunhohtoinen"
-		// real-money donation receipt items from the store.
-		"[english]inventory_rarity_genuine"		"Genuine"
-		"inventory_rarity_genuine"		"Genuine"
-		// items that count stats.
-		"[english]inventory_rarity_strange_rarity"		"Strange"
-		"inventory_rarity_strange_rarity"		"Strange"
+// real-money donation receipt items from the store.
+"[english]inventory_rarity_genuine"		"Genuine"
+"inventory_rarity_genuine"		"Aito"
+// items that count stats.
+"[english]inventory_rarity_strange_rarity"		"Strange"
+"inventory_rarity_strange_rarity"		"Kummallinen"
 		// where an item can be equipped.
 		"[english]inventory_slot"		"Slot"
 		"inventory_slot"		"Slot"
@@ -47,8 +48,8 @@
 "inventory_slot_medal"		"Mitali"
 		"[english]inventory_slot_suit"		"Suit"
 		"inventory_slot_suit"		"Suit"
-		"[english]inventory_slot_weapon"		"Weapon"
-		"inventory_slot_weapon"		"Weapon"
+"[english]inventory_slot_weapon"		"Weapon"
+"inventory_slot_weapon"		"Ase"
 		"[english]inventory_slot_equipment"		"Equipment"
 		"inventory_slot_equipment"		"Equipment"
 		// for equippable items that can only be used on one class.
@@ -81,6 +82,9 @@
 		// crafting items that can be found by playing some campaigns but not others.
 		"[english]inventory_crafting_item_regional"		"Salvaged Material"
 		"inventory_crafting_item_regional"		"Salvaged Material"
+		// crafting items that were transformed from a variant the player found into one that is more usable (eg. sorting wires, turning scraps of material into a sheet)
+		"[english]inventory_crafting_item_refined"		"Refined Material"
+		"inventory_crafting_item_refined"		"Refined Material"
 		// displayed before the list of Strange item accessories, eg. Strange Devices: Missions, Aliens Killed
 		"[english]inventory_strange"		"Strange Devices"
 		"inventory_strange"		"Strange Devices"

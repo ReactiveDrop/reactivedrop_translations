@@ -1,0 +1,9 @@
+GAME
+{
+// Inbox
+
+"MailFrom1"	"Från: Edward Zoff"
+"MailDate1"	"Datum: 07/07/31"
+"MailSubject1"	"Ämne: Gruvdrift"
+"MailBody1A"	"Jag är verkligen inte den enda som undrar vad de gröna, välsmakande kristallerna som vi skördar är. Nyfikenhet väckte mitt intresse och jag frågade administrationen om det, men de verkade missnöjda och ignorerade mig. Dessa stenar ser inte ut som något jag har sett tidigare, de har också väldigt höga temperaturer och även i det kalla klimatet verkar de inte svalna alls."
+}

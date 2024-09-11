@@ -7,9 +7,9 @@
 			"name_%LANG%": "{#item_container_beta_tester_strange_weapon_name}",
 			"description_%LANG%": "{#item_container_beta_tester_strange_weapon_description}",
 			"display_type_%LANG%": "{#inventory_crafting_item_single_use_tool}",
-			"icon_url": "https://stats.reactivedrop.com/static/medals/error.png",
+			"icon_url": "https://stats.reactivedrop.com/static/items/4000.png",
 			"name_color": "{#item_color_strange}",
-			"tags": "crafting_item:single_use_tool;contains_any:set_1_weapon;contains_any:set_1_equipment"
+			"tags": "crafting_item:single_use_tool;contains_any:set_1_strange_weapon;contains_any:set_1_strange_equipment"
 		},
 		{
 			"itemdefid": 4001,
@@ -28,7 +28,7 @@
 			"description_%LANG%": "{#item_crafting_material_scrap_metal_description}",
 			"after_description_%LANG%": "{#item_crafting_material_multiple}",
 			"display_type_%LANG%": "{#inventory_crafting_item_common_part}",
-			"icon_url": "https://stats.reactivedrop.com/static/items/crafting/scrap_metal.png",
+			"icon_url": "https://stats.reactivedrop.com/static/items/4002.png",
 			"auto_stack": true,
 			"tags": "rarity:common;crafting_item:common_part",
 			"compressed_dynamic_props": "m_unQuantity"
@@ -40,7 +40,7 @@
 			"description_%LANG%": "{#item_crafting_material_electrical_components_description}",
 			"after_description_%LANG%": "{#item_crafting_material_multiple}",
 			"display_type_%LANG%": "{#inventory_crafting_item_common_part}",
-			"icon_url": "https://stats.reactivedrop.com/static/items/crafting/electrical_components.png",
+			"icon_url": "https://stats.reactivedrop.com/static/items/4003.png",
 			"auto_stack": true,
 			"tags": "rarity:common;crafting_item:common_part",
 			"compressed_dynamic_props": "m_unQuantity"
@@ -52,7 +52,7 @@
 			"description_%LANG%": "{#item_crafting_material_spare_pipe_description}",
 			"after_description_%LANG%": "{#item_crafting_material_multiple}",
 			"display_type_%LANG%": "{#inventory_crafting_item_common_part}",
-			"icon_url": "https://stats.reactivedrop.com/static/items/crafting/spare_pipe.png",
+			"icon_url": "https://stats.reactivedrop.com/static/items/4004.png",
 			"auto_stack": true,
 			"tags": "rarity:common;crafting_item:common_part",
 			"compressed_dynamic_props": "m_unQuantity"
@@ -64,7 +64,7 @@
 			"description_%LANG%": "{#item_crafting_material_plastics_description}",
 			"after_description_%LANG%": "{#item_crafting_material_multiple}",
 			"display_type_%LANG%": "{#inventory_crafting_item_common_part}",
-			"icon_url": "https://stats.reactivedrop.com/static/items/crafting/plastic_filament.png",
+			"icon_url": "https://stats.reactivedrop.com/static/items/4005.png",
 			"auto_stack": true,
 			"tags": "rarity:common;crafting_item:common_part",
 			"compressed_dynamic_props": "m_unQuantity"
@@ -76,7 +76,7 @@
 			"description_%LANG%": "{#item_crafting_material_coolant_description}",
 			"after_description_%LANG%": "{#item_crafting_material_multiple}",
 			"display_type_%LANG%": "{#inventory_crafting_item_common_part}",
-			"icon_url": "https://stats.reactivedrop.com/static/items/crafting/coolant.png",
+			"icon_url": "https://stats.reactivedrop.com/static/items/4006.png",
 			"auto_stack": true,
 			"tags": "rarity:common;crafting_item:common_part",
 			"compressed_dynamic_props": "m_unQuantity"
@@ -88,7 +88,7 @@
 			"description_%LANG%": "{#item_crafting_material_mini_crate_description}",
 			"after_description_%LANG%": "{#item_crafting_material_multiple}",
 			"display_type_%LANG%": "{#inventory_crafting_item_common_part}",
-			"icon_url": "https://stats.reactivedrop.com/static/items/crafting/mini_crate.png",
+			"icon_url": "https://stats.reactivedrop.com/static/items/4007.png",
 			"auto_stack": true,
 			"tags": "rarity:common;crafting_item:common_part",
 			"compressed_dynamic_props": "m_unQuantity"
@@ -100,7 +100,7 @@
 			"description_%LANG%": "{#item_crafting_material_battery_pack_description}",
 			"after_description_%LANG%": "{#item_crafting_material_multiple}",
 			"display_type_%LANG%": "{#inventory_crafting_item_common_part}",
-			"icon_url": "https://stats.reactivedrop.com/static/items/crafting/battery_pack.png",
+			"icon_url": "https://stats.reactivedrop.com/static/items/4008.png",
 			"auto_stack": true,
 			"tags": "rarity:common;crafting_item:common_part",
 			"compressed_dynamic_props": "m_unQuantity"
@@ -112,7 +112,7 @@
 			"description_%LANG%": "{#item_crafting_material_loose_wires_description}",
 			"after_description_%LANG%": "{#item_crafting_material_multiple}",
 			"display_type_%LANG%": "{#inventory_crafting_item_ultra_common}",
-			"icon_url": "https://stats.reactivedrop.com/static/items/crafting/loose_wires.png",
+			"icon_url": "https://stats.reactivedrop.com/static/items/4009.png",
 			"auto_stack": true,
 			"tags": "rarity:common;crafting_item:ultra_common",
 			"compressed_dynamic_props": "m_unQuantity"
@@ -124,7 +124,7 @@
 			"description_%LANG%": "{#item_crafting_material_carbon_description}",
 			"after_description_%LANG%": "{#item_crafting_material_multiple}",
 			"display_type_%LANG%": "{#inventory_crafting_item_ultra_common}",
-			"icon_url": "https://stats.reactivedrop.com/static/items/crafting/carbon.png",
+			"icon_url": "https://stats.reactivedrop.com/static/items/4010.png",
 			"auto_stack": true,
 			"tags": "rarity:common;crafting_item:ultra_common",
 			"compressed_dynamic_props": "m_unQuantity"
@@ -136,7 +136,7 @@
 			"description_%LANG%": "{#item_crafting_material_alien_chitin_description}",
 			"after_description_%LANG%": "{#item_crafting_material_multiple}",
 			"display_type_%LANG%": "{#inventory_crafting_item_alien_part}",
-			"icon_url": "https://stats.reactivedrop.com/static/items/crafting/alien_chitin.png",
+			"icon_url": "https://stats.reactivedrop.com/static/items/4011.png",
 			"auto_stack": true,
 			"tags": "rarity:uncommon;crafting_item:alien_part",
 			"compressed_dynamic_props": "m_unQuantity"
@@ -148,7 +148,7 @@
 			"description_%LANG%": "{#item_crafting_material_biomass_sample_description}",
 			"after_description_%LANG%": "{#item_crafting_material_multiple}",
 			"display_type_%LANG%": "{#inventory_crafting_item_alien_part}",
-			"icon_url": "https://stats.reactivedrop.com/static/items/crafting/biomass_sample.png",
+			"icon_url": "https://stats.reactivedrop.com/static/items/4012.png",
 			"auto_stack": true,
 			"tags": "rarity:uncommon;crafting_item:alien_part",
 			"compressed_dynamic_props": "m_unQuantity"
@@ -160,7 +160,7 @@
 			"description_%LANG%": "{#item_crafting_material_glowing_green_acid_description}",
 			"after_description_%LANG%": "{#item_crafting_material_multiple}",
 			"display_type_%LANG%": "{#inventory_crafting_item_alien_part}",
-			"icon_url": "https://stats.reactivedrop.com/static/items/crafting/glowing_green_acid.png",
+			"icon_url": "https://stats.reactivedrop.com/static/items/4013.png",
 			"auto_stack": true,
 			"tags": "rarity:uncommon;crafting_item:alien_part",
 			"compressed_dynamic_props": "m_unQuantity"
@@ -172,7 +172,7 @@
 			"description_%LANG%": "{#item_crafting_material_claw_fragment_description}",
 			"after_description_%LANG%": "{#item_crafting_material_multiple}",
 			"display_type_%LANG%": "{#inventory_crafting_item_alien_part}",
-			"icon_url": "https://stats.reactivedrop.com/static/items/crafting/claw_fragment.png",
+			"icon_url": "https://stats.reactivedrop.com/static/items/4014.png",
 			"auto_stack": true,
 			"tags": "rarity:uncommon;crafting_item:alien_part",
 			"compressed_dynamic_props": "m_unQuantity"
@@ -184,7 +184,7 @@
 			"description_%LANG%": "{#item_crafting_material_memory_management_unit_description}",
 			"after_description_%LANG%": "{#item_crafting_material_multiple}",
 			"display_type_%LANG%": "{#inventory_crafting_item_computer_part}",
-			"icon_url": "https://stats.reactivedrop.com/static/items/crafting/memory_management_unit.png",
+			"icon_url": "https://stats.reactivedrop.com/static/items/4015.png",
 			"auto_stack": true,
 			"tags": "rarity:rare;crafting_item:computer_part",
 			"compressed_dynamic_props": "m_unQuantity"
@@ -196,7 +196,7 @@
 			"description_%LANG%": "{#item_crafting_material_arithmetic_logic_unit_description}",
 			"after_description_%LANG%": "{#item_crafting_material_multiple}",
 			"display_type_%LANG%": "{#inventory_crafting_item_computer_part}",
-			"icon_url": "https://stats.reactivedrop.com/static/items/crafting/arithmetic_logic_unit.png",
+			"icon_url": "https://stats.reactivedrop.com/static/items/4016.png",
 			"auto_stack": true,
 			"tags": "rarity:rare;crafting_item:computer_part",
 			"compressed_dynamic_props": "m_unQuantity"
@@ -208,7 +208,7 @@
 			"description_%LANG%": "{#item_crafting_material_data_storage_medium_description}",
 			"after_description_%LANG%": "{#item_crafting_material_multiple}",
 			"display_type_%LANG%": "{#inventory_crafting_item_computer_part}",
-			"icon_url": "https://stats.reactivedrop.com/static/items/crafting/data_storage_medium.png",
+			"icon_url": "https://stats.reactivedrop.com/static/items/4017.png",
 			"auto_stack": true,
 			"tags": "rarity:rare;crafting_item:computer_part",
 			"compressed_dynamic_props": "m_unQuantity"
@@ -220,7 +220,7 @@
 			"description_%LANG%": "{#item_crafting_material_pile_of_red_sand_description}",
 			"after_description_%LANG%": "{#item_crafting_material_multiple}",
 			"display_type_%LANG%": "{#inventory_crafting_item_regional}",
-			"icon_url": "https://stats.reactivedrop.com/static/items/crafting/pile_of_red_sand.png",
+			"icon_url": "https://stats.reactivedrop.com/static/items/4018.png",
 			"auto_stack": true,
 			"tags": "rarity:common;crafting_item:regional",
 			"compressed_dynamic_props": "m_unQuantity"
@@ -232,7 +232,7 @@
 			"description_%LANG%": "{#item_crafting_material_antlion_carapace_description}",
 			"after_description_%LANG%": "{#item_crafting_material_multiple}",
 			"display_type_%LANG%": "{#inventory_crafting_item_regional}",
-			"icon_url": "https://stats.reactivedrop.com/static/items/crafting/antlion_carapace.png",
+			"icon_url": "https://stats.reactivedrop.com/static/items/4019.png",
 			"auto_stack": true,
 			"tags": "rarity:common;crafting_item:regional",
 			"compressed_dynamic_props": "m_unQuantity"
@@ -244,7 +244,7 @@
 			"description_%LANG%": "{#item_crafting_material_corrosive_fluid_sample_description}",
 			"after_description_%LANG%": "{#item_crafting_material_multiple}",
 			"display_type_%LANG%": "{#inventory_crafting_item_regional}",
-			"icon_url": "https://stats.reactivedrop.com/static/items/crafting/corrosive_fluid_sample.png",
+			"icon_url": "https://stats.reactivedrop.com/static/items/4020.png",
 			"auto_stack": true,
 			"tags": "rarity:common;crafting_item:regional",
 			"compressed_dynamic_props": "m_unQuantity"
@@ -256,7 +256,7 @@
 			"description_%LANG%": "{#item_crafting_material_cooled_volcanic_rock_description}",
 			"after_description_%LANG%": "{#item_crafting_material_multiple}",
 			"display_type_%LANG%": "{#inventory_crafting_item_regional}",
-			"icon_url": "https://stats.reactivedrop.com/static/items/crafting/cooled_volcanic_rock.png",
+			"icon_url": "https://stats.reactivedrop.com/static/items/4021.png",
 			"auto_stack": true,
 			"tags": "rarity:common;crafting_item:regional",
 			"compressed_dynamic_props": "m_unQuantity"
@@ -268,7 +268,7 @@
 			"description_%LANG%": "{#item_crafting_material_retrieved_documents_description}",
 			"after_description_%LANG%": "{#item_crafting_material_multiple}",
 			"display_type_%LANG%": "{#inventory_crafting_item_regional}",
-			"icon_url": "https://stats.reactivedrop.com/static/items/crafting/retrieved_documents.png",
+			"icon_url": "https://stats.reactivedrop.com/static/items/4022.png",
 			"auto_stack": true,
 			"tags": "rarity:common;crafting_item:regional",
 			"compressed_dynamic_props": "m_unQuantity"
@@ -280,7 +280,7 @@
 			"description_%LANG%": "{#item_crafting_material_unopened_synup_cola_description}",
 			"after_description_%LANG%": "{#item_crafting_material_multiple}",
 			"display_type_%LANG%": "{#inventory_crafting_item_regional}",
-			"icon_url": "https://stats.reactivedrop.com/static/items/crafting/unopened_synup_cola.png",
+			"icon_url": "https://stats.reactivedrop.com/static/items/4023.png",
 			"auto_stack": true,
 			"tags": "rarity:common;crafting_item:regional",
 			"compressed_dynamic_props": "m_unQuantity"
@@ -292,7 +292,7 @@
 			"description_%LANG%": "{#item_crafting_material_roll_of_vent_tape_description}",
 			"after_description_%LANG%": "{#item_crafting_material_multiple}",
 			"display_type_%LANG%": "{#inventory_crafting_item_regional}",
-			"icon_url": "https://stats.reactivedrop.com/static/items/crafting/roll_of_vent_tape.png",
+			"icon_url": "https://stats.reactivedrop.com/static/items/4024.png",
 			"auto_stack": true,
 			"tags": "rarity:common;crafting_item:regional",
 			"compressed_dynamic_props": "m_unQuantity"
@@ -304,7 +304,7 @@
 			"description_%LANG%": "{#item_crafting_material_isotopes_description}",
 			"after_description_%LANG%": "{#item_crafting_material_multiple}",
 			"display_type_%LANG%": "{#inventory_crafting_item_regional}",
-			"icon_url": "https://stats.reactivedrop.com/static/items/crafting/isotopes.png",
+			"icon_url": "https://stats.reactivedrop.com/static/items/4025.png",
 			"auto_stack": true,
 			"tags": "rarity:common;crafting_item:regional",
 			"compressed_dynamic_props": "m_unQuantity"
@@ -316,7 +316,7 @@
 			"description_%LANG%": "{#item_crafting_material_cryotic_description}",
 			"after_description_%LANG%": "{#item_crafting_material_multiple}",
 			"display_type_%LANG%": "{#inventory_crafting_item_regional}",
-			"icon_url": "https://stats.reactivedrop.com/static/items/crafting/cryotic.png",
+			"icon_url": "https://stats.reactivedrop.com/static/items/4026.png",
 			"auto_stack": true,
 			"tags": "rarity:common;crafting_item:regional",
 			"compressed_dynamic_props": "m_unQuantity"
@@ -328,7 +328,7 @@
 			"description_%LANG%": "{#item_crafting_material_argon_canister_description}",
 			"after_description_%LANG%": "{#item_crafting_material_multiple}",
 			"display_type_%LANG%": "{#inventory_crafting_item_regional}",
-			"icon_url": "https://stats.reactivedrop.com/static/items/crafting/argon_canister.png",
+			"icon_url": "https://stats.reactivedrop.com/static/items/4027.png",
 			"auto_stack": true,
 			"tags": "rarity:common;crafting_item:regional",
 			"compressed_dynamic_props": "m_unQuantity"
@@ -340,7 +340,7 @@
 			"description_%LANG%": "{#item_crafting_material_probability_drive_description}",
 			"after_description_%LANG%": "{#item_crafting_material_multiple}",
 			"display_type_%LANG%": "{#inventory_crafting_item_regional}",
-			"icon_url": "https://stats.reactivedrop.com/static/items/crafting/probability_drive.png",
+			"icon_url": "https://stats.reactivedrop.com/static/items/4028.png",
 			"auto_stack": true,
 			"tags": "rarity:common;crafting_item:regional",
 			"compressed_dynamic_props": "m_unQuantity"
@@ -357,6 +357,30 @@
 			"name": "Crafting Materials Beta - Phase 1 bundle",
 			"description": "beta phase 1 opt-in token, 1x strange weapon choice, 2x strange device choice, 1x bonus crafting material location discovery",
 			"bundle": "4029x1;4000x1;4001x2;7003x1"
+		},
+		{
+			"itemdefid": 4031,
+			"type": "item",
+			"name_%LANG%": "{#item_crafting_material_refined_wire_name}",
+			"description_%LANG%": "{#item_crafting_material_refined_wire_description}",
+			"after_description_%LANG%": "{#item_crafting_material_multiple}",
+			"display_type_%LANG%": "{#inventory_crafting_item_refined}",
+			"icon_url": "https://stats.reactivedrop.com/static/items/4031.png",
+			"auto_stack": true,
+			"tags": "rarity:common;crafting_item:refined",
+			"compressed_dynamic_props": "m_unQuantity"
+		},
+		{
+			"itemdefid": 4032,
+			"type": "item",
+			"name_%LANG%": "{#item_crafting_material_refined_carbon_name}",
+			"description_%LANG%": "{#item_crafting_material_refined_carbon_description}",
+			"after_description_%LANG%": "{#item_crafting_material_multiple}",
+			"display_type_%LANG%": "{#inventory_crafting_item_refined}",
+			"icon_url": "https://stats.reactivedrop.com/static/items/4032.png",
+			"auto_stack": true,
+			"tags": "rarity:common;crafting_item:refined",
+			"compressed_dynamic_props": "m_unQuantity"
 		}
 	]
 }

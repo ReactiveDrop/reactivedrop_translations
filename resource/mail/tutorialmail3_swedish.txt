@@ -1,0 +1,25 @@
+GAME
+{
+// PDA belongs to Juan Rosales
+
+// Inbox
+
+"MailFrom1"	"Från: Vincent Baker"
+"MailDate1"	"Datum: 12/18/52"
+"MailSubject1"	"Ämne: Bara arbete och inget skoj"
+"MailBody1A"	"Hej Junito, det ser ut som att Campbell vill att vi ska göra extra tid. Har han fått dig att söka i sektor 12-18 också?"
+
+"MailFrom2"	"Från: Vincent Baker"
+"MailDate2"	"Datum: 12/18/52"
+"MailSubject2"	"Ämne: Re:Re: Bara arbete och inget skoj."
+"MailBody2A"	"Juan,"
+"MailBody2B"	"Ahhah! Du och Steve? Det slår säkert att bli stenad. Nåja. En jävla snöstorm kommer vår väg i alla fall."
+
+// Sent
+
+"MailFrom3"	"Till: Vincent Baker"
+"MailDate3"	"Datum: 12/18/52"
+"MailSubject3"	"Ämne: Re: Bara arbete och inget skoj."
+"MailBody3A"	"Vinc,"
+"MailBody3B"	"Nej, han vill ha mig och Steve att söka igenom 30-35. Vill du byta?"
+}

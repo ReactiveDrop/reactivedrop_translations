@@ -1,0 +1,36 @@
+GAME
+{
+// PDA belongs to Overseer Ross
+
+// Inbox
+
+"MailFrom1"	"Från: Jimmy Carter"
+"MailDate1"	"Datum: 02/02/54"
+"MailSubject1"	"Ämne: Reaktortrycket är nere"
+"MailBody1A"	"Hej Ross,"
+"MailBody1B"	"Rapporterar bara några konstiga ljud i sektion 6,"
+"MailBody1C"	"Och fler trasiga rör, MASSOR fler rör, trycket är nere med 15 % på Reaktor 1."
+"MailBody1D"	"Kan behöva lite hjälp, pratar med dig senare."
+
+"MailFrom2"	"Från: Jimmy Carter"
+"MailDate2"	"Datum: 02/02/54"
+"MailSubject2"	"Ämne: John?"
+"MailBody2A"	"Ross, det har gått nästan 8 timmar, när du planerar att skicka ner John?"
+
+// Sent
+
+"MailFrom3"	"Till: Tillsyningsman Ross"
+"MailDate3"	"Datum: 02/02/54"
+"MailSubject3"	"Ämne: Re: Reaktortrycket är nere"
+"MailBody3A"	"Jimmy,"
+"MailBody3B"	"Förlåt Jimmy, mina händer är bundna, de flesta av anläggningen försöker städa upp kraschen i vik 6."
+"MailBody3C"	"Men jag kommer att skicka med John, fortsätt att kontrollera reaktorn, om den faller under 25%, faller koloniernas ström med det"
+
+"MailFrom4"	"Till: Tillsyningsman Ross"
+"MailDate4"	"Datum: 02/02/54"
+"MailSubject4"	"Ämne: Re: John"
+"MailBody4A"	"Jimmy,"
+"MailBody4B"	"Jag skickade ner John direkt efter att jag skickat posten till dig. Det tar bara 20 minuter att komma till dig som mest"
+"MailBody4C"	"Jag ska prata med hans andra vänner, se om de vet var han är"
+"MailBody4D"	"Jag ska också informera Säkerheten att se upp efter honom. Det har försvunnit mycket folk på sistone"
+}

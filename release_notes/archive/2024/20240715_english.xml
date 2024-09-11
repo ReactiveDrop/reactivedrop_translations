@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<content><string id="body">[h2]New material shader: RDCharacter[/h2]
+
+This replaces the VertexLitGeneric shader and the AlienSurfaceFX and NightVisionSelfIllum material proxies for characters in Alien Swarm: Reactive Drop.
+
+[h3]For Modders[/h3]
+[list]
+[*]If your mod does not contain VMT files for characters, you do not need to make any changes.
+[*]If your mod's VMT files for characters start with the word "patch", you are likely already using the updated shader.
+[*]If your mod's VMT files for characters start with the words "VertexLitGeneric", see below.
+[*]If your mod's VMT files for characters start with any other words, you are on your own.
+[*]If you do not update your VMT files, your materials will continue to work as they have prior to this update, but the models with those materials will not have access to the new features of this shader.
+[/list]
+
+[h3]Updating VertexLitGeneric character materials[/h3]
+[list]
+[*]Replace "VertexLitGeneric" at the start of the file with "RDCharacter".
+[*]Remove any line starting with "$detail". (If you want to use $detail for something else, it is no longer reserved for status effects in the new shader.)
+[*]If there is an "AnimatedTexture" proxy for "$detail", remove "AnimatedTexture" and everything from the following { to the next }.
+[*]Replace the "AlienSurfaceFX" proxy with "RDCharacter". If your material does not have a Proxies section, instead add Proxies { RDCharacter {} } before the last } in the file.
+[*]Remove any references to night vision (for example, the NightVisionSelfIllum proxy, any LessOrEqual proxy connected to it, helper variables like $one, $zero, and $selfIllumTint_dark).
+[/list]
+
+[h3]New features in RDCharacter[/h3]
+[list]
+[*]The $detail variables are no longer used for status effects, meaning they can be used for other purposes.
+[*]Night vision no longer uses $selfillum, meaning changes to the $selfillum settings do not alter night vision's effects.
+[*]On systems with Shader Model 3.0 support, the fire, ice, and shock status effects no longer cause each other to scroll at different speeds.
+[*]The fire status effect now consistently animates on all character types.
+[*]Added a "team highlight" border similar to the "Character Highlighting System" added to Warframe in Update 34: Abyss of Dagath.
+[*]Any new character shader effects added in the future will not require mandatory VMT changes.
+[*]It took 10 hours, 43 minutes, and 26 seconds to compile the 21,900 variants of the new shader.
+[*]Note: On systems lacking Shader Model 3.0 support, $detail is disabled when a status effect is active to reduce shader complexity.
+[*]Note: On systems lacking Shader Model 3.0 support, $rimlight is disabled when a team highlight is active to reduce shader complexity.
+[/list]
+
+[h3]Team Highlights[/h3]
+[list]
+[*]rd_highlight_active_character, rd_highlight_allies, and rd_highlight_enemies can now be set to show colored borders on characters for easier identification.
+[*]rd_highlight_active_character continues to show a border surrounding the marine as it did before in addition to the new border.
+[*]rd_highlight_allies_color defaults to a grayish blue, and rd_highlight_enemies_color defaults to a more saturated red.
+[*]The highlight ConVars can be set to higher values to highlight more of the character's model. Setting the ConVar to 1 (recommended) highlights the edges of the character's silhouette, and setting it to 2 highlights almost the entire character. Fractional values like 2.5 and 0.8 are also accepted.
+[*]Set rd_deathmatch_team_color_highlight to 0 to revert to the previous system of tinting marine models in Team Deathmatch.
+[*]This system is intended to decouple the accessibility aspect of many alien reskins from the artistic aspect, making it so players don't need to choose between being able to see the aliens and having the aliens look how they want.
+[*]For those familiar with the game's codebase, rd_highlight_ignore_class is also available to exclude specific character types from the team highlights system. For example, rd_highlight_ignore_class 27,40 would omit highlights from drones and marines.
+[/list]
+
+[h2]X-33 Damage Amplifier[/h2]
+
+Added a ConVar to make Special Weapons marines pick up X-33 Damage Amplifiers automatically.
+
+[h3]ConVar[/h3]
+[list]
+[*]rd_buff_grenade_attach_sw_auto (default 0; set to 1 to pick up damage amplifiers automatically.)
+[/list]
+
+This also affects bots added by the player. This setting is stored in config.cfg. Use host_writeconfig to save your changes.
+
+[h2]Alien Shadow-Bending[/h2]
+
+Added convars to give jumping and/or flying aliens vertical shadows like the Half-Life 2 crane to make it easier to tell where they are in 3D space.
+
+[h3]ConVars[/h3]
+[list]
+[*]rd_alien_vertical_shadow_jumping (default 1; set to 1 to give Drones, Parasites, and Xenomites vertical shadows when they are jumping)
+[*]rd_alien_vertical_shadow_flying (default 0; set to 1 to give Buzzers vertical shadows)
+[*]rd_alien_vertical_shadow_distance (default 4096; the maximum distance above the ground a vertical shadow can be cast from)
+[*]asw_alien_shadows being set to 0 now affects Buzzers as well
+[/list]
+
+The three new ConVars are currently not stored in config.cfg. They may be added later, but for now, use autoexec.cfg for these settings.
+
+[h2]And more...[/h2]
+
+[list]
+[*]Mapper-placed Xenomites (whether placed as asw_parasite_defanged entities or spawned via a spawner) no longer expire after 60 seconds.
+[*]Xenomites from a Harvester still expire after 60 seconds of not finding a marine as before.
+[*]Fixed npc_cscanner not respecting its "neutral" flag, causing it to be an attack target for bots and aliens in Paranoia: Hostile Places.
+[*]Over 100 commanders have signed the contract.
+[*]NPCs now cancel their current movement intent when they are frozen. This fixes the "drifting" that some aliens exhibited.
+[*]Fixed unexpected jigglebone behavior when a frozen enemy is forced to move (such as by standing on a moving platform).
+[*]Fixed marines with CR-18 Freeze Grenades equipped having an extra shadow between their feet.
+[/list]
+</string><string id="subtitle"></string><string id="summary"></string><string id="title">Alien Swarm: Reactive Drop Update - July 15, 2024</string></content>

@@ -3,8 +3,8 @@
 "Language"		"koreana"
 "Tokens"
 {
-		"[english]testcommands"		"<clr:255,0,0>This is red<I> and italics<B> and<cr>bold<B><I><clr:255,255,255> and white again."
-		"testcommands"		"<clr:255,0,0>This is red<I> and italics<B> and<cr>bold<B><I><clr:255,255,255> and white again."
+"[english]testcommands"		"<clr:255,0,0>This is red<I> and italics<B> and<cr>bold<B><I><clr:255,255,255> and white again."
+"testcommands"		"<clr:255,0,0>이건 빨강<I> 이건 이탤릭체<B> 그리고 이건<cr>볼드체<B><I><clr:255,255,255> 다시 흰색."
 
 // Lt. Williams
 
@@ -290,7 +290,7 @@
 "[english]bastille.Use2"		"<clr:205,127,50><B>Bastille:<B> Good thinking."
 "bastille.Use2"		"<clr:205,127,50><B>바스티유:<B> 좋은 생각이야."
 
-"[english]bastille.Use3"		"<clr:205,127,50><B>Bastille:<B> Immediatement."
+"[english]bastille.Use3"		"<clr:205,127,50><B>Bastille:<B> <I>Immediatement."
 "bastille.Use3"		"<clr:205,127,50><B>바스티유:<B> 즉시 시행."
 
 "[english]bastille.Use4"		"<clr:205,127,50><B>Bastille:<B> <I>Oui."
@@ -1248,11 +1248,11 @@
 "[english]crash.Thanks1"		"<clr:238,180,34><B>Crash:<B> Thank you."
 "crash.Thanks1"		"<clr:238,180,34><B>크래시:<B> 고마워요."
 
-		"[english]crash.Question0"		"<clr:238,180,34><B>Crash:<B> Huh?"
-		"crash.Question0"		"<clr:238,180,34><B>Crash:<B> Huh?"
+"[english]crash.Question0"		"<clr:238,180,34><B>Crash:<B> Huh?"
+"crash.Question0"		"<clr:238,180,34><B>Crash:<B> 음?"
 
-		"[english]crash.Question1"		"<clr:238,180,34><B>Crash:<B> What?"
-		"crash.Question1"		"<clr:238,180,34><B>Crash:<B> What?"
+"[english]crash.Question1"		"<clr:238,180,34><B>Crash:<B> What?"
+"crash.Question1"		"<clr:238,180,34><B>Crash:<B> 뭡니까?"
 
 "[english]crash.Question2"		"<clr:238,180,34><B>Crash:<B> What is it?"
 "crash.Question2"		"<clr:238,180,34><B>크래시:<B> 그게 뭔데요?"
@@ -2339,8 +2339,8 @@
 "[english]jaeger.InjuredSelection0"		"<clr:198,226,255><B>Jaeger:<B> Never thought it would end like this."
 "jaeger.InjuredSelection0"		"<clr:198,226,255><B>예거:<B> 이렇게 끝날 거라고 생각해본 적 없어."
 
-		"[english]jaeger.InjuredSelection1"		"<clr:198,226,255><B>Jaeger:<B> Not like this... not here."
-		"jaeger.InjuredSelection1"		"<clr:198,226,255><B>Jaeger:<B> Not like this... not here."
+"[english]jaeger.InjuredSelection1"		"<clr:198,226,255><B>Jaeger:<B> Not like this... not here."
+"jaeger.InjuredSelection1"		"<clr:198,226,255><B>Jaeger:<B> 이렇게는 안돼... 이런 곳에서..."
 
 "[english]jaeger.InjuredSelection2"		"<clr:198,226,255><B>Jaeger:<B> What is it?"
 "jaeger.InjuredSelection2"		"<clr:198,226,255><B>예거:<B> 도대체 뭔데?"
@@ -2513,8 +2513,8 @@
 "[english]jaeger.Thanks1"		"<clr:198,226,255><B>Jaeger:<B> Thank you."
 "jaeger.Thanks1"		"<clr:198,226,255><B>예거:<B> 고마워."
 
-		"[english]jaeger.Question0"		"<clr:198,226,255><B>Jaeger:<B> Huh?"
-		"jaeger.Question0"		"<clr:198,226,255><B>Jaeger:<B> Huh?"
+"[english]jaeger.Question0"		"<clr:198,226,255><B>Jaeger:<B> Huh?"
+"jaeger.Question0"		"<clr:198,226,255><B>Jaeger:<B> 음?"
 
 "[english]jaeger.Question1"		"<clr:198,226,255><B>Jaeger:<B> What is it?"
 "jaeger.Question1"		"<clr:198,226,255><B>예거:<B> 뭐지?"
@@ -3383,8 +3383,8 @@
 "sarge.GotRear1"		"<clr:238,207,161><B>사지:<B> 콘라드가 후방을 확보하겠다."
 
 
-		"[english]sarge.GotRear2"		"<clr:238,207,161><B>Sarge:<B> I've got your back."
-		"sarge.GotRear2"		"<clr:238,207,161><B>Sarge:<B> I've got your back."
+"[english]sarge.GotRear2"		"<clr:238,207,161><B>Sarge:<B> I've got your back."
+"sarge.GotRear2"		"<clr:238,207,161><B>Sarge:<B> 뒤는 내가 맡겠다."
 
 
 "[english]sarge.RequestSealDoor0"		"<clr:238,207,161><B>Sarge:<B> Get this door sealed, on the double."
@@ -3731,8 +3731,8 @@
 "sarge.Impatience0"		"<clr:238,207,161><B>사지:<B> 해병대, 우린 시간당 월급을 받는 게 아니라고!"
 
 
-		"[english]sarge.Impatience1"		"<clr:238,207,161><B>Sarge:<B> Goddamn, hurry up! I'm getting tired."
-		"sarge.Impatience1"		"<clr:238,207,161><B>Sarge:<B> Goddamn, hurry up! I'm getting tired."
+"[english]sarge.Impatience1"		"<clr:238,207,161><B>Sarge:<B> Goddamn, hurry up! I'm getting tired."
+"sarge.Impatience1"		"<clr:238,207,161><B>Sarge:<B> 젠장, 서둘러! 슬슬 힘들어진다고."
 
 
 "[english]sarge.Impatience2"		"<clr:238,207,161><B>Sarge:<B> Shit, how long you gonna play that solitaire game anyway?"
@@ -4651,8 +4651,8 @@
 "vegas.Selection0"		"<clr:84,255,159><B>베가스:<B> 준비 됐어."
 
 
-		"[english]vegas.Selection1"		"<clr:84,255,159><B>Vegas:<B> Wanna play a little game?"
-		"vegas.Selection1"		"<clr:84,255,159><B>Vegas:<B> Wanna play a little game?"
+"[english]vegas.Selection1"		"<clr:84,255,159><B>Vegas:<B> Wanna play a little game?"
+"vegas.Selection1"		"<clr:84,255,159><B>Vegas:<B> 게임 한판 어때?"
 
 
 "[english]vegas.Selection2"		"<clr:84,255,159><B>Vegas:<B> What do you want?"
@@ -5441,8 +5441,8 @@
 "[english]wolfe.InjuredSelection3"		"<clr:154,205,50><B>Wolfe:<B> It's time we hit em where it hurts most. All over."
 "wolfe.InjuredSelection3"		"<clr:154,205,50><B>울프:<B> 놈들의 급소를 때려줄 때로군. 그거면 다 해결이야."
 
-		"[english]wolfe.SeriousInjuryReply0"		"<clr:154,205,50><B>Wolfe:<B> No way, you gotta be kidding."
-		"wolfe.SeriousInjuryReply0"		"<clr:154,205,50><B>Wolfe:<B> No way, you gotta be kidding."
+"[english]wolfe.SeriousInjuryReply0"		"<clr:154,205,50><B>Wolfe:<B> No way, you gotta be kidding."
+"wolfe.SeriousInjuryReply0"		"<clr:154,205,50><B>Wolfe:<B> 말도 안돼, 농담이겠지."
 
 "[english]wolfe.Autogun0"		"<clr:154,205,50><B>Wolfe:<B> Dance, bugs, dance. While you can."
 "wolfe.Autogun0"		"<clr:154,205,50><B>울프:<B> 춤춰라, 벌레 자식들아, 춤추라고. 곧 죽을테니까 말이야."
@@ -6313,8 +6313,8 @@
 "wolfe.MadFiring1"		"<clr:154,205,50><B>울프:<B> 흥! 이거나 쳐먹어라."
 
 
-		"[english]wolfe.MadFiring2"		"<clr:154,205,50><B>Wolfe:<B> You want some? Yeah, you want some of this!"
-		"wolfe.MadFiring2"		"<clr:154,205,50><B>Wolfe:<B> You want some? Yeah, you want some of this!"
+"[english]wolfe.MadFiring2"		"<clr:154,205,50><B>Wolfe:<B> You want some? Yeah, you want some of this!"
+"wolfe.MadFiring2"		"<clr:154,205,50><B>Wolfe:<B> 이걸 원해, 응? 이거나 쳐먹어라!"
 
 
 "[english]wolfe.MadFiring3"		"<clr:154,205,50><B>Wolfe:<B> Oh, right. Say hello to my friend."
@@ -6646,7 +6646,7 @@
 "DM.five_frags_left"		"<clr:238,0,0><B>아나운서:<B> 다섯명이 남았습니다."
 // these don't have "mode activated" in the actual audio, but we're putting it in the caption for clarity.
 "[english]DM.instagib_activated"		"<clr:238,0,0><B>ANNOUNCER:<B> InstaGib mode activated."
-"DM.instagib_activated"		"<clr:238,0,0><B>아나운서:<B> InstaGib 모드가 활성화됨."
+"DM.instagib_activated"		"<clr:238,0,0><B>아나운서:<B> 즉사 모드가 활성화됨."
 "[english]DM.gungame_activated"		"<clr:238,0,0><B>ANNOUNCER:<B> Gun Game mode activated."
 "DM.gungame_activated"		"<clr:238,0,0><B>아나운서:<B> 총 게임 모드가 활성화되었습니다."
 "[english]DM.double_kill"		"<clr:238,0,0><B>ANNOUNCER:<B> Double kill!"

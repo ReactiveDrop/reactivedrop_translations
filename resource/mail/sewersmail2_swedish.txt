@@ -1,0 +1,14 @@
+GAME
+{
+// PDA belongs to Brian Howe
+
+// Inbox
+
+"MailFrom1"	"Från: Helen Young"
+"MailDate1"	"Datum: 12/24/52"
+"MailSubject1"	"Ämne: Går till labben"
+"MailBody1A"	"Brian, vad fan är det som händer? Vapenskott? Skrikande? Phil och jag har bestämt oss för att försöka komma in i labbet. Vi kommer att använda ventilationssystemet för att komma till däck 2."
+"MailBody1B"	"Jag älskar dig. Snälla kontakta mig!"
+"MailBody1C"	"Helen"
+"MailBody1D"	"PS: Grattis på födelsedagen, för vad den är värd"
+}

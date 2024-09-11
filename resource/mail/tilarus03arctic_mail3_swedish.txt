@@ -1,0 +1,24 @@
+GAME
+{
+// PDA belongs to Martin Bauer
+
+// Inbox
+
+"MailFrom1"	"Från: SynTek Dataanalytiker"
+"MailDate1"	"Datum: 10/05/52"
+"MailSubject1"	"Ämne: Anläggningslayoutdata"
+"MailBody1A"	"Hej Martin"
+"MailBody1B"	"Jag har laddat upp de uppdaterade anläggningslayoutfilerna till din terminal som du bad om."
+"MailBody1C"	"Jag hoppas att du inte går vilse längre. HAHA! ;D"
+"MailBody1D"	"Med hälsningar, Mike Palmer"
+
+// Sent
+
+"MailFrom3"	"Till: SynTek Dataanalytiker"
+"MailDate3"	"Datum: 10/05/52"
+"MailSubject3"	"Ämne: Re: Anläggningslayoutdata"
+"MailBody3A"	"Hej Mike"
+"MailBody3B"	"Ååhh... Du är så rolig... :P"
+"MailBody3C"	"Tack för filerna i alla fall."
+"MailBody3D"	"-Martin"
+}

@@ -1,0 +1,14 @@
+GAME
+{
+// PDA belongs to John Wisher
+
+// Inbox
+
+"MailFrom1"	"Från: Kate Wisher"
+"MailDate1"	"Datum: 10/13/52"
+"MailSubject1"	"Ämne: Vad händer där inne?"
+"MailBody1A"	"Hej sötnos!"
+"MailBody1B"	"Jag har inte hört något från dig nu, älskling! Vad händer där inne?"
+"MailBody1C"	"Jag kontaktade SynTeks Personalchef och han sa att jag inte borde oroa mig och att de bara har små kommunikationsproblem. Men det har gått DAGAR nu!"
+"MailBody1D"	"Med kärlek, Kate <3"
+}

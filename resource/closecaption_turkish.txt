@@ -290,8 +290,8 @@
 "[english]bastille.Use2"		"<clr:205,127,50><B>Bastille:<B> Good thinking."
 "bastille.Use2"		"<clr:205,127,50><B>Bastille:<B> İyi akıl ettin."
 
-"[english]bastille.Use3"		"<clr:205,127,50><B>Bastille:<B> Immediatement."
-"bastille.Use3"		"<clr:205,127,50><B>Bastille:<B> Immediatement."
+"[english]bastille.Use3"		"<clr:205,127,50><B>Bastille:<B> <I>Immediatement."
+"bastille.Use3"		"<clr:205,127,50><B>Bastille:<B> <I>Immediatement."
 
 "[english]bastille.Use4"		"<clr:205,127,50><B>Bastille:<B> <I>Oui."
 "bastille.Use4"		"<clr:205,127,50><B>Bastille:<B> <I>Oui."

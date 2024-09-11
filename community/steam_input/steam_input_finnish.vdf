@@ -5,12 +5,12 @@
 {
 		"[english]ActionSet_InGame"		"In-Game"
 		"ActionSet_InGame"		"In-Game"
-		"[english]ActionSet_Menus"		"Menus"
-		"ActionSet_Menus"		"Menus"
+"[english]ActionSet_Menus"		"Menus"
+"ActionSet_Menus"		"Valikot"
 
-		// In-game menus that activate the red and yellow box around the button, like hacking and briefing.
-		"[english]Layer_InGameMenus"		"Menus"
-		"Layer_InGameMenus"		"Menus"
+// In-game menus that activate the red and yellow box around the button, like hacking and briefing.
+"[english]Layer_InGameMenus"		"Menus"
+"Layer_InGameMenus"		"Valikot"
 
 		"[english]Stick_Move"		"Move"
 		"Stick_Move"		"Move"

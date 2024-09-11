@@ -1,0 +1,21 @@
+GAME
+{
+// PDA belongs to Dr. David Foster
+
+// Sent
+
+"MailFrom3"	"Till: Andrew Ward"
+"MailDate3"	"Datum: 03/16/46"
+"MailSubject3"	"Ämne: Behöver hjälp"
+"MailBody3A"	"Andrew,"
+"MailBody3B"	"Som säkerhetschef på detta sjukhus är det din uppgift att hålla inne sånt här."
+"MailBody3C"	"Vi har isolerat de aggressiva exemplaren på de lägsta nivåerna i anläggningen. Vi är inte säkra på hur länge vi kan hålla dem där nere."
+"MailBody3D"	"Hitta en lösning!"
+
+"MailFrom4"	"Till: Andrew Ward"
+"MailDate4"	"Datum: 03/16/46"
+"MailSubject4"	"Ämne: Jag kommer bli den nästa"
+"MailBody4A"	"Andrew,"
+"MailBody4B"	"Doktor Archibald, Mason och Miln är döda."
+"MailBody4C"	"Du kan göra vad du vill nu, men jag kommer för helvete härifrån. Det är bättre att hitta lite ammunition snabbt om du planerar att hålla dig vid liv mycket längre."
+}

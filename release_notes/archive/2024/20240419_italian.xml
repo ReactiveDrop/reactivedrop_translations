@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<content><string id="body">È il 7° compleanno di Alien Swarm: Reactive Drop e questo significa una settimana di punti esperienza doppi per le missioni, il nostro secondo concorso annuale di mapping e una probabilità che ci sia la torta.
+
+[h2]2023 in Rassegna[/h2]
+
+Da quando Alien Swarm: Reactive Drop ha compiuto 6 anni l'anno scorso, il gioco ha guadagnato [url=https://store.steampowered.com/news/app/563560/view/3690188204960315808]shader migliorati[/url], [url=https://store.steampowered.com/news/app/563560/view/3881601883156993844]migliore leggibilità delle armi[/url], [url=https://store.steampowered.com/news/app/563560/view/3994197038602916434]aggiunte a Eroi delle Forze Armate Interstellari, comprese le taglie delle missioni[/url], [url=https://store.steampowered.com/news/app/563560/view/3994197038602903068]compensazione del lag migliorata[/url] e [url=https://store.steampowered.com/news/app/563560/view/4160833394886167804]un sistema di segnalazione in gioco[/url]. Se non si gioca da un po' di tempo, si possono notare alcune modifiche al menu principale.
+
+Nell'aprile 2023, abbiamo iniziato a monitorare le cause di morte dei soldati, e tra aprile e dicembre, 12.734.965 soldati sono morti in missione. La causa di morte più comune? I buoni vecchi artigli dei droni, con 5.147.736 uccisioni confermate.
+
+Altre morti interessanti nel 2023, scelte a caso:
+
+[list]
+[*]194,240 soldati sono morti per danni autoinflitti nelle modalità di gioco deathmatch.
+[*]30,097 soldati sono stati uccisi a calci dai boomer.
+[*]6,136 soldati sono stati travolti da un carrello elevatore fuori controllo nelle Rovine del Laboratorio.
+[*]18,857 soldati sono stati fatti saltare in aria insieme a una sentinella distrutta.
+[*]929,538 soldati persi a causa dell'infestazione. 113.511 soldati sono stati colpiti a morte mentre erano infestati.
+[*]346,432 soldati sono stati fatti saltare in aria da granate sparate da un lanciagranate, e altri 962.861 soldati sono stati fatti saltare in aria da granate sparate dai [i]loro stessi[/i] lancia granate.
+[/list]
+
+I Soldati non sono gli unici a morire in Alien Swarm: Reactive Drop! Nel 2023, i soldati controllati dal giocatore hanno ucciso:
+
+[list]
+[*]1,156,620,313 (Esatto, oltre un miliardo) droni.
+[*]59,404,675 parassiti.
+[*]51,839,565 xenomiti.
+[*]31,888,835 ranger.
+[*]30,038,781 uova.
+[*]28,923,205 buzzer.
+[*]20,908,814 larve.
+[*]6,392,125 biomasse.
+[*]6,199,796 boomer.
+[*]5,692,301 mietitrici.
+[*]4,105,397 guaritori.
+[*]4,012,723 shieldbug.
+[*]3,534,646 insetto mortaio.
+[*]29,210 regine.
+[*]2,208,733 formiche leone.
+[*]254,967 zombi.
+[*]176,539 headcrab.
+[*]190,592 Soldati Combine.
+[*]18,187 cacciatori.
+[/list]
+
+Nel 2023, avete completato 7.489.163 missioni... e fallito 14.054.778 missioni. Dopo che l'aggiornamento di novembre 2023 ha aggiunto il supporto per i soldati duplicati nelle modalità di gioco personalizzate, avete completato 3.890 missioni con 9 o più marines controllati dal giocatore (39.932 missioni se contiamo ogni giocatore separatamente come facciamo per le altre statistiche) a novembre e dicembre.
+
+[h2]Competizione di Mapping 2024: "Stazione Spaziale"[/h2]
+
+Il tema di quest'anno sono le "Stazioni Spaziali". [url=https://store.steampowered.com/news/app/563560/view/4148449131825473630]Per maggiori dettagli, consultare l'annuncio del concorso.[/url]
+
+[h2]Cambiamenti in questa update[/h2]
+
+[h3]Armi[/h3]
+[list]
+[*]Le armi (oltre all'unità lanciafiamme M868 e al lanciagranate) in prima persona ora sparano dal centro della telecamera, in modo simile a come funzionano gli altri giochi in prima persona.
+[*][b]Lanciafiamme M868:[/b] Corretta l'animazione di sparo che continua a essere riprodotta sul client dopo aver esaurito le munizioni se si tiene premuto il pulsante di fuoco e si disattiva la ricarica automatica.
+[*][b]Lanciagranate:[/b] Il mirino del fuoco amico ora si attiva in base alla posizione d'impatto prevista della granata, invece di fingere che il lanciagranate spari proiettili.
+[*][b]Lanciagranate:[/b] Corretto il tentativo del lanciagranate di mirare all'interno della testa del marine in prima persona.
+[/list]
+
+[h3]Missioni Ufficiali[/h3]
+[list]
+[*][b]Area 9800: Generatore della centrale elettrica:[/b] Corretto un supporto metallico crollato che a volte bloccava il percorso.
+[*][b]Lacrime per Tarnor: Colonia spaziale di Oasis:[/b] Corretto il modello di fisica dei sedili del treno che spingono gli oggetti in un'altra stanza.
+[*][b]Paranoia: Alta tensione:[/b] Corretto un punto in cui era possibile cadere attraverso il terreno.
+[*][b]Nam Humanum: Groundwork Labs:[/b] È stato risolto il problema del barile esplosivo che poteva essere spinto lontano dal pannello che doveva distruggere.
+[*][b]Nam Humanum: Groundwork Labs:[/b] Corretto uno stuttering all'inizio della missione.
+[*][b]BioGen Corporation: Operazione X5:[/b] Rimossi alcuni oggetti fisici su cui gli alieni potevano rimanere bloccati durante il finale.
+[*][b]BioGen Corporation: Minaccia invisibile:[/b] Corretto il comportamento inatteso della mira vicino al ventilatore causato dalla geometria fuori dai limiti.
+[*][b]Accident 32: Centro di ricerca:[/b] Ridotta la quantità di parassiti e droni in questa missione.
+[*][b]Accident 32: Struttura limitata:[/b] Rendere più intuitiva la discesa nelle fogne.
+[*][b]Accident 32: Struttura limitata:[/b] Miglioramento della visibilità nell'area sotto il vetro vicino alla partenza.
+[*][b]Accident 32: Struttura limitata:[/b] Riduzione della salute di una porta su un percorso alternativo per renderla più praticabile.
+[*][b]Accident 32: Rovine del laboratorio:[/b] Le spie dei pannelli nell'incontro finale sono state cambiate da verdi a blu per renderle più visibili con l'illuminazione.
+[*][b]Catastrofe allo Spazioporto:[/b] Rimossa una geometria invisibile sopra una porta alla fine della mappa.
+[/list]
+
+[h3]Sfida Deathmatch Infezione[/h3]
+[list]
+[*]Gli umani sono ora più lenti degli zombi.
+[*]Aumento della salute bonus di Ultima Resistenza.
+[*]Corretto un bug che causava la generazione di un solo Prime Zombie all'inizio del round quando erano soddisfatti i requisiti per la generazione di due.
+[/list]
+
+[h3]Tecnici[/h3]
+[list]
+[*]Corretto il problema dei componenti aggiuntivi sottoscritti ma disattivati dal menu dei componenti aggiuntivi del gioco o dalla finestra delle proprietà di Steam, che non vengono caricati quando richiesto da una sfida.
+[*]Corretto il problema dei server dedicati che generano più thread IO di quanto previsto. I server dedicati ora generano 3 thread IO anziché uno per core senza limiti (o 0 come prima se si passa -noasync alla riga di comando). Il client mantiene il comportamento che ha avuto dal 2018, generando un thread di IO per ogni core del processore fino a un massimo di tre.
+[*]È stato risolto un problema per cui i rapporti non contenevano l'ID del giocatore segnalato nel formato previsto. Il server ha trovato una soluzione, quindi non sono interessate le segnalazioni effettuate dopo il 2 marzo.
+[*]È stato rielaborato il modo in cui gli oggetti dell'inventario vengono inviati al server di gioco. Per ora, questo significa che le medaglie dovrebbero apparire più velocemente quando si carica una lobby.
+[*]Segnati func_breakdmg_bullet, func_breakdmg_club e func_breakdmg_explosive come cheat.
+[*]Corretto il messaggio di sblocco della Swarmopedia che mostrava parole incomprensibili al posto del nome dell'alieno.
+[*]Aggiunto un messaggio in chat quando un giocatore riceve una medaglia per aver completato un achievement o un altro compito in missione.
+[/list]
+</string><string id="subtitle"></string><string id="summary"></string><string id="title">Il Settimo Compleanno di Alien Swarm: Reactive Drop</string></content>

@@ -500,6 +500,18 @@
 			"name_color": "{#item_color_uncommon}",
 			"tags": "rarity:uncommon;slot:medal",
 			"item_slot": "medal"
+		},
+		{
+			"itemdefid": 46,
+			"type": "item",
+			"name_%LANG%": "{#item_novelty_medal_anacrusis_name}",
+			"description_%LANG%": "{#item_novelty_medal_anacrusis_description}\n\n[color=#{#item_desc_color_flavor}]{#item_novelty_medal_anacrusis_acquisition}[/color]",
+			"display_type_%LANG%": "{#item_display_type_novelty_medal_uncommon}",
+			"icon_url": "https://stats.reactivedrop.com/static/medals/anacrusis.png",
+			"name_color": "{#item_color_uncommon}",
+			"tags": "rarity:uncommon;slot:medal",
+			"promo": "ach:ACHIEVEMENT_BARRY_MEET/1120480",
+			"item_slot": "medal"
 		}
 	]
 }

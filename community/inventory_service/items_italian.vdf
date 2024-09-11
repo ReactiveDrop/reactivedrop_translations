@@ -21,6 +21,8 @@
 "item_display_type_community_medal_legendary"		"Medaglia della Comunità"
 "[english]item_display_type_donation_medal"		"Donor"
 "item_display_type_donation_medal"		"Donatore"
+"[english]item_display_type_novelty_medal_uncommon"		"Souvenir"
+"item_display_type_novelty_medal_uncommon"		"Souvenir"
 // accessory that can be permanently attached to a weapon, equipment, or suit to track specific stats
 "[english]item_display_type_strange_device"		"Strange Device"
 "item_display_type_strange_device"		"Strano dispositivo"
@@ -144,7 +146,7 @@
 "[english]item_novelty_medal_reverse_hat_trick_description"		"The trick is, this isn't a hat or a medal. It's a commemorative sticker."
 "item_novelty_medal_reverse_hat_trick_description"		"Il trucco sta nel fatto che non è ne un cappello ne una medaglia. È uno sticker commemorativo."
 "[english]item_novelty_medal_reverse_hat_trick_acquisition"		"Complete the Ready For Duty achievement in Team Fortress 2 to unlock."
-"item_novelty_medal_reverse_hat_trick_acquisition"		"Completa l'achievement \"Pronto al Dovere\" in Team Fortress 2 per sbloccarlo."
+"item_novelty_medal_reverse_hat_trick_acquisition"		"Completa l'achievement Pronto al Dovere in Team Fortress 2 per sbloccarlo."
 // It's a sticker, but the item is tagged as "Medal" and it goes in the medal slot.
 "[english]item_novelty_medal_reverse_hat_trick_display_type"		"Medal…?"
 "item_novelty_medal_reverse_hat_trick_display_type"		"Medaglia…?"
@@ -156,6 +158,16 @@
 "item_novelty_medal_flush_toilet_description"		"Mentre sei infestato e vai a fuoco, trova il tempo per tirare lo sciacquone."
 "[english]item_novelty_medal_flush_toilet_display_type"		"Medal…?"
 "item_novelty_medal_flush_toilet_display_type"		"Medaglia…?"
+
+// (to the tune of the titular lyric of I Saw Mommy Kissing Santa Claus)
+// (this isn't a translator note, it's just my headcanon about some words I typed)
+"[english]item_novelty_medal_anacrusis_name"		"I met Barry on the Isolode"
+"item_novelty_medal_anacrusis_name"		"Ho conosciuto Barry sull'Isolode"
+// these are puns. good luck!
+"[english]item_novelty_medal_anacrusis_description"		"It was a [i]Barry[/i] good time. Still [i]barrel[/i]-y know him, though…"
+"item_novelty_medal_anacrusis_description"		"È stato divertente conoscere [i]Barry[/i]. Ci siamo fatti un [i]barile[/i] di risate…"
+"[english]item_novelty_medal_anacrusis_acquisition"		"Complete the Barry Nice to Meet You achievement in The Anacrusis to unlock."
+"item_novelty_medal_anacrusis_acquisition"		"Completa l'achievement Barry Nice to Meet You in The Anacrusis per sbloccarlo."
 
 "[english]item_achievement_medal_oe_jacob_name"		"Jacob's Rest Veteran"
 "item_achievement_medal_oe_jacob_name"		"Veterano di Jacob's Rest"
@@ -262,7 +274,11 @@
 "[english]item_unique_medal_mapping_2023_name"		"The Gauntlet: Arctic (#BossFight2023 Winner)"
 "item_unique_medal_mapping_2023_name"		"The Gauntlet: Arctic (Vincitrice della #BossFight2023)"
 "[english]item_unique_medal_mapping_2023_description"		"This medal commemorates The Gauntlet: Arctic, the winner of the 2023 mapping competition."
-"item_unique_medal_mapping_2023_description"		"Questa medaglia commemora The Gauntlet: Arctic, la mappa vincitrice della competizione di mapping del 2023."
+"item_unique_medal_mapping_2023_description"		"Questa medaglia commemora The Gauntlet: Arctic, la mappa vincitrice della competizione di mapping 2023."
+"[english]item_unique_medal_mapping_2024_name"		"Downed Station (#SpaceStation2024 Winner)"
+"item_unique_medal_mapping_2024_name"		"Downed Station (Vincitrice di #SpaceStation2024)"
+"[english]item_unique_medal_mapping_2024_description"		"This medal commemorates Downed Station, the winner of the 2024 mapping competition."
+"item_unique_medal_mapping_2024_description"		"Questa medaglia commemora Downed Station, la mappa vincitrice della competizione di mapping 2024."
 
 // Contains one Strange (stat-tracking) version of a weapon the player has unlocked, of the player's choice.
 "[english]item_container_beta_tester_strange_weapon_name"		"Beta Tester's Strange Weapon"
@@ -395,6 +411,16 @@
 "[english]item_crafting_material_probability_drive_description"		"A disk containing an excerpt from [i]A Million Random Digits with 100,000 Normal Deviates[/i], found while on a mission."
 "item_crafting_material_probability_drive_description"		"Un disco contenente un estratto del libro [i]A Million Random Digits with 100,000 Normal Deviates[/i], trovato durante una missione."
 
+"[english]item_crafting_material_refined_wire_name"		"Sorted Wire"
+"item_crafting_material_refined_wire_name"		"Filo Ordinato"
+"[english]item_crafting_material_refined_wire_description"		"A spool of repurposed wire."
+"item_crafting_material_refined_wire_description"		"Un rocchetto di filo di ferro riutilizzato."
+"[english]item_crafting_material_refined_carbon_name"		"Carbon Plates"
+"item_crafting_material_refined_carbon_name"		"Piastre in Carbonio"
+"[english]item_crafting_material_refined_carbon_description"		"Carbon nanotubes arranged into super-strong plates."
+"item_crafting_material_refined_carbon_description"		"Nanotubi di carbonio disposti in piastre super resistenti."
+
+
 // Notifications are hidden items that cause a notification to appear in the game's main menu. The item records whether it has been seen by the player, and dismissing the notification deletes the item. Notifications will not appear for players who have opted out of seeing them.
 //
 // A large variety of crafting materials have appeared (once per week).
@@ -450,6 +476,9 @@
 // one can only hope
 "[english]item_suit_flynn_name"		"Flynn's Suit"
 "item_suit_flynn_name"		"Tuta di Flynn"
+
+// If you would like to be included in this system and you have contributed to Alien Swarm: Reactive Drop's development,
+// follow the instructions at https://developer.reactivedrop.com/donation-items.html
 
 "[english]item_donation_tft_name"		"Donor: Tears for Tarnor"
 "item_donation_tft_name"		"Donatore: Lacrime per Tarnor"
@@ -529,8 +558,8 @@
 "item_donation_stargate_description"		"Rappresenta una donazione a Stargate75, host dei server in Germania."
 "[english]item_donation_hangumi_name"		"Donor: hangumi"
 "item_donation_hangumi_name"		"Donatore: hangumi"
-"[english]item_donation_hangumi_description"		"Represents a donation to hangumi, host of servers in Korea."
-"item_donation_hangumi_description"		"Rappresenta una donazione a hangumi, host dei server in Corea."
+"[english]item_donation_hangumi_description"		"Represents a donation to hangumi, host of servers in Korea and contributor to the Korean translation."
+"item_donation_hangumi_description"		"Rappresenta una donazione a hangumi, host dei server in Corea e collaboratore della traduzione Coreana."
 "[english]item_donation_yojimbo_name"		"Donor: YOJIMBO"
 "item_donation_yojimbo_name"		"Donatore: YOJIMBO"
 "[english]item_donation_yojimbo_description"		"Represents a donation to YOJIMBO, host of servers in Ireland."
@@ -542,38 +571,42 @@
 "[english]item_donation_dukem_name"		"Donor: Duke M"
 "item_donation_dukem_name"		"Donatore: Duke M"
 "[english]item_donation_dukem_description"		"Represents a donation to Duke M, contributor to the German translation."
-"item_donation_dukem_description"		"Rappresenta una donazione a Duke M, contributore della traduzione Tedesca."
+"item_donation_dukem_description"		"Rappresenta una donazione a Duke M, collaboratore della traduzione Tedesca."
 "[english]item_donation_deerlord_name"		"Donor: Deerlord"
 "item_donation_deerlord_name"		"Donatore: Deerlord"
 "[english]item_donation_deerlord_description"		"Represents a donation to Deerlord, contributor to the Japanese translation."
-"item_donation_deerlord_description"		"Rappresenta una donazione a Deerlord, contributore della traduzione Giapponese."
+"item_donation_deerlord_description"		"Rappresenta una donazione a Deerlord, collaboratore della traduzione Giapponese."
 "[english]item_donation_blueberry_name"		"Donor: Blueberry"
 "item_donation_blueberry_name"		"Donatore: Blueberry"
 "[english]item_donation_blueberry_description"		"Represents a donation to Blueberry, contributor to the Russian translation."
-"item_donation_blueberry_description"		"Rappresenta una donazione a Blueberry, contributore della traduzione Russa."
+"item_donation_blueberry_description"		"Rappresenta una donazione a Blueberry, collaboratore della traduzione Russa."
 "[english]item_donation_makinday_name"		"Donor: MakinDay"
 "item_donation_makinday_name"		"Donatore: MakinDay"
 "[english]item_donation_makinday_description"		"Represents a donation to MakinDay, contributor to the Italian translation."
-"item_donation_makinday_description"		"Rappresenta una donazione a MakinDay, contributore della traduzione Italiana."
+"item_donation_makinday_description"		"Rappresenta una donazione a MakinDay, collaboratore della traduzione Italiana."
 "[english]item_donation_steffo_name"		"Donor: Steffo"
 "item_donation_steffo_name"		"Donatore: Steffo"
 "[english]item_donation_steffo_description"		"Represents a donation to Steffo, contributor to the Italian translation."
-"item_donation_steffo_description"		"Rappresenta una donazione a Steffo, contributore della traduzione Italiana."
+"item_donation_steffo_description"		"Rappresenta una donazione a Steffo, collaboratore della traduzione Italiana."
 "[english]item_donation_trickmaster_name"		"Donor: trick-master"
 "item_donation_trickmaster_name"		"Donatore: trick-master"
 "[english]item_donation_trickmaster_description"		"Represents a donation to trick-master, contributor to the French translation."
-"item_donation_trickmaster_description"		"Rappresenta una donazione a trick-master, contributore della traduzione Francese."
+"item_donation_trickmaster_description"		"Rappresenta una donazione a trick-master, collaboratore della traduzione Francese."
 "[english]item_donation_efi_name"		"Donor: Efi"
 "item_donation_efi_name"		"Donatore: Efi"
 "[english]item_donation_efi_description"		"Represents a donation to Efi, artist and contributor to the Spanish translation."
-"item_donation_efi_description"		"Rappresenta una donazione a Efi, artista e contributore della traduzione Spagnola."
+"item_donation_efi_description"		"Rappresenta una donazione a Efi, artista e collaboratore della traduzione Spagnola."
 "[english]item_donation_autogavy_name"		"Donor: AutoGavy"
 "item_donation_autogavy_name"		"Donatore: AutoGavy"
 "[english]item_donation_autogavy_description"		"Represents a donation to AutoGavy, contributor to the Simplified Chinese translation and host of servers in China."
-"item_donation_autogavy_description"		"Rappresenta una donazione a AutoGavy, contributore della traduzione in Cinese Semplificato e host dei server in Cina."
+"item_donation_autogavy_description"		"Rappresenta una donazione a AutoGavy, collaboratore della traduzione in Cinese Semplificato e host dei server in Cina."
 "[english]item_donation_thescientist_name"		"Donor: TheScientist"
 "item_donation_thescientist_name"		"Donatore: TheScientist"
 "[english]item_donation_thescientist_description"		"Represents a donation to TheScientist, contributor to the Portuguese translation."
-"item_donation_thescientist_description"		"Rappresenta una donazione a TheScientist, contributore della traduzione Portoghese."
+"item_donation_thescientist_description"		"Rappresenta una donazione a TheScientist, collaboratore della traduzione Portoghese."
+"[english]item_donation_crazymanbos_name"		"Donor: Crazymanbos"
+"item_donation_crazymanbos_name"		"Donatore: Crazymanbos"
+"[english]item_donation_crazymanbos_description"		"Represents a donation to Crazymanbos, contributor to the Swedish translation."
+"item_donation_crazymanbos_description"		"Rappresenta una donazione a Crazymanbos, collaboratore della traduzione Svedese."
 }
 }
