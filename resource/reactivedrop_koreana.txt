@@ -6787,7 +6787,7 @@
 "acc1_1c"		"해병대 여러분, 당신들의 손에 큰 책임이 있습니다. 제가 시설을 안내해 드리겠습니다."
 
 "[english]acc1_2_title"		"Communication"
-"acc1_2_title"		"통신"
+"acc1_2_title"		"통신 재개"
 "[english]acc1_2a"		"Reenable the radiowave transmitter."
 "acc1_2a"		"전파 송신기를 다시 활성화하십시오."
 
@@ -7114,7 +7114,7 @@
 "[english]red5_gametext_1"		"R E D U C T I O N"
 "red5_gametext_1"		"하 락"
 "[english]red5_gametext_2"		"Campaign Design by Tim Carter"
-"red5_gametext_2"		"캠페인 제작 Tim Carter"
+"red5_gametext_2"		"캠페인 제작 - 팀 카터"
 "[english]red5_panel_skip_cutscene"		"Skip Cutscene"
 "red5_panel_skip_cutscene"		"컷신 넘기기"
 "[english]red5_voted_skip_yes"		"You have voted to skip the cutscene"
@@ -9508,19 +9508,19 @@
 		"[english]rd_reporting_only_team"		"Only Reactive Drop Team will see your report. It will not be shared directly with other players."
 		"rd_reporting_only_team"		"Only Reactive Drop Team will see your report. It will not be shared directly with other players."
 
-		// these are tab names
-		"[english]rd_settings_controls"		"Controls"
-		"rd_settings_controls"		"Controls"
-		"[english]rd_settings_options_1"		"Options 1"
-		"rd_settings_options_1"		"Options 1"
-		"[english]rd_settings_options_2"		"Options 2"
-		"rd_settings_options_2"		"Options 2"
-		"[english]rd_settings_audio"		"Audio"
-		"rd_settings_audio"		"Audio"
-		"[english]rd_settings_video"		"Video"
-		"rd_settings_video"		"Video"
-		"[english]rd_settings_about"		"About"
-		"rd_settings_about"		"About"
+// these are tab names
+"[english]rd_settings_controls"		"Controls"
+"rd_settings_controls"		"컨트롤"
+"[english]rd_settings_options_1"		"Options 1"
+"rd_settings_options_1"		"설정 1"
+"[english]rd_settings_options_2"		"Options 2"
+"rd_settings_options_2"		"설정 2"
+"[english]rd_settings_audio"		"Audio"
+"rd_settings_audio"		"오디오"
+"[english]rd_settings_video"		"Video"
+"rd_settings_video"		"비디오"
+"[english]rd_settings_about"		"About"
+"rd_settings_about"		"기타"
 
 		// These are category headings on the Controls tab of the settings screen
 		"[english]rd_controls_category_movement"		"Movement"
