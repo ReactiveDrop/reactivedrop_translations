@@ -212,7 +212,7 @@
 "[english]asw_SynTekFlagLabel5"		"Heat Ex. Overload"
 "asw_SynTekFlagLabel5"		"Sobrecarga do Permutador de Calor"
 "[english]asw_SynTekFlagLabel6"		"Heat Exchanger Failure"
-"asw_SynTekFlagLabel6"		"Falha no PErmutador de Calor"
+"asw_SynTekFlagLabel6"		"Falha no Permutador de Calor"
 "[english]asw_SynTekFlagLabel7"		"Primary Coolant Leak"
 "asw_SynTekFlagLabel7"		"Vazamento no Refrigerador Primário"
 "[english]asw_SynTekFlagLabel8"		"Secondary Coolant Leak"
