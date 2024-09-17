@@ -4606,7 +4606,7 @@
 "[english]rd_workshop_conflict_explain"		"Some filenames in this addon match the names of different files in other addons. Only one file can be loaded for each name."
 "rd_workshop_conflict_explain"		"在此附件中有部分檔名其他的附件有衝突。 一次只能讀取一種檔案。"
 "[english]rd_workshop_conflict_won"		"\n- File \"%s1\" overrides addon \"%s2\""
-"rd_workshop_conflict_won"		"\n- 檔案 “%s1” 將改寫 附件 “%s2\”"
+"rd_workshop_conflict_won"		"\n- 檔案 “%s1” 將改寫 附件 “%s2”"
 "[english]rd_workshop_conflict_lost"		"\n- File \"%s1\" is overridden by addon \"%s2\""
 "rd_workshop_conflict_lost"		"\n- 檔案 “%s2” 將改寫 附件 “%s1”"
 
@@ -9053,7 +9053,7 @@
 "rd_demo_cant_play_failed_open"		"無法讀取到樣本檔案"
 // %s1 is game folder name which is different than "reactivedrop", for example "hl2" or "left4dead2".
 "[english]rd_demo_cant_play_other_game"		"Not a Reactive Drop demo - recorded by \"%s1\"."
-"rd_demo_cant_play_other_game"		"不是Reactive Drop的樣本 - 由 \"%s1\"錄製。"
+"rd_demo_cant_play_other_game"		"不是Reactive Drop的樣本 - 由 “%s1”錄製。"
 // %s1 and %s2 are both four part version numbers (specifically the PatchVersion from steam.inf)
 "[english]rd_demo_cant_play_old_version"		"Reactive Drop %s1 cannot play a version %s2 demo."
 "rd_demo_cant_play_old_version"		"Reactive Drop %s1 無法撥放版本 %s2 樣本"
@@ -9091,7 +9091,7 @@
 "[english]rd_demo_confirm_delete_title"		"Permanently delete this recording?"
 "rd_demo_confirm_delete_title"		"永久刪除此錄製?"
 "[english]rd_demo_confirm_delete_message"		"Are you sure you want to delete \"%s1\"? This cannot be undone."
-"rd_demo_confirm_delete_message"		"你確定要刪除 \"%s1\"? 此決定無法返回。"
+"rd_demo_confirm_delete_message"		"你確定要刪除 “%s1”? 此決定無法返回。"
 "[english]rd_demo_rename_title"		"Rename Mission Recording"
 "rd_demo_rename_title"		"重新命名任務錄製"
 "[english]rd_demo_rename_message"		"What should the new filename for this recording be?"
