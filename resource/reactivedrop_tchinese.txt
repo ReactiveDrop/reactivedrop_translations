@@ -10159,7 +10159,7 @@
 // option name is #L4D360UI_FoundPublicGames_Filter_Distance_Far
 "[english]rd_lobby_option_distance_far_hint"		"Only show player-hosted lobbies if the lobby host is on the same side of the planet as you. This setting does not affect dedicated servers."
 "rd_lobby_option_distance_far_hint"		"只顯示和你位於地球的同一側玩家所建立的大廳。這個設定不會影響專屬伺服器。"
-// option name is #L4D360UI_FoundPublicGames_	Filter_Distance_Worldwide
+// option name is #L4D360UI_FoundPublicGames_Filter_Distance_Worldwide
 "[english]rd_lobby_option_distance_worldwide_hint"		"Show all player-hosted lobbies regardless of distance. This setting does not affect dedicated servers."
 "rd_lobby_option_distance_worldwide_hint"		"不論距離總是顯示玩家建立的大廳。這個設定不會影響專屬伺服器。"
 "[english]rd_lobby_option_always_friends_title"		"Always Show Friends"
