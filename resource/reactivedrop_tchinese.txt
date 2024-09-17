@@ -4608,7 +4608,7 @@
 "[english]rd_workshop_conflict_won"		"\n- File \"%s1\" overrides addon \"%s2\""
 "rd_workshop_conflict_won"		"\n- 檔案 \"%s1\" 將改寫 附件 \"%s2\""
 "[english]rd_workshop_conflict_lost"		"\n- File \"%s1\" is overridden by addon \"%s2\""
-"rd_workshop_conflict_lost"		"\n- 檔案 \"%s1\" 將被 附件 \"%s2\" 改寫"
+"rd_workshop_conflict_lost"		"\n- 檔案 \"%s2\" 將改寫 附件 \"%s1\""
 
 "[english]asw_weapon_healamp_gun"		"Medical Amplifier Gun"
 "asw_weapon_healamp_gun"		"醫療強化槍"
@@ -4668,7 +4668,7 @@
 // as_sci2_sewer OBJECTIVES
 "[english]asw_ob_lanassewer_1t"		"Investigate abnormal signatures"
 "asw_ob_lanassewer_1t"		"調查不尋常訊號"
-		"[english]asw_ob_lanassewer_1"		"Abnormal kinetic signatures are coming from the main area below."
+"[english]asw_ob_lanassewer_1"		"Abnormal kinetic signatures are coming from the main area below."
 "asw_ob_lanassewer_1"		"主要區域地下傳來不尋常的動態訊號。"
 "[english]asw_ob_lanassewer_1b"		"One thing is certain: This cannot be friendly."
 "asw_ob_lanassewer_1b"		"有一件事很確定：這絕對不是甚麼友善的訊號。."
