@@ -9551,8 +9551,8 @@
 "[english]rd_manage_custom_chat_wheels"		"Manage Custom\nChat Wheels"
 "rd_manage_custom_chat_wheels"		"휠 메뉴\n커스텀 설정
 
-"[english]rd_option_player_name_mode"		"Squad Member Names"
-"rd_option_player_name_mode"		"분대원 이름"
+"[english]rd_option_player_name_mode"	"Squad Member Names"
+"rd_option_player_name_mode"	"분대원 이름"
 "[english]rd_option_player_name_mode_none"		"None"
 "rd_option_player_name_mode_none"		"없음"
 "[english]rd_option_player_name_mode_none_hint"		"Do not display any names below marines in your squad."
