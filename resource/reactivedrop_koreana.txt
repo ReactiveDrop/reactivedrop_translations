@@ -9552,7 +9552,7 @@
 "rd_manage_custom_chat_wheels"		"휠 메뉴\n커스텀 설정
 
 "[english]rd_option_player_name_mode"		"Squad Member Names"
-"rd_option_player_name_mode"		"분대원이름"
+"rd_option_player_name_mode"		"분대원 이름"
 "[english]rd_option_player_name_mode_none"		"None"
 "rd_option_player_name_mode_none"		"없음"
 "[english]rd_option_player_name_mode_none_hint"		"Do not display any names below marines in your squad."
@@ -9654,63 +9654,63 @@
 "rd_option_crosshair_marine_label_dist_unlimited"		"항상"
 "[english]rd_option_crosshair_marine_label_dist_unlimited_hint"		"Always show marine health bars in the world regardless of crosshair position."
 "rd_option_crosshair_marine_label_dist_unlimited_hint"		"조준선 위치와 관계없이 항상 해병 체력바를 표시합니다."
-		// RD_AdvancedSettings_HUD_CrosshairStyle
-		// RD_AdvancedSettings_HUD_CrosshairStyle_Cross
-		"[english]rd_option_crosshair_type_cross_hint"		"A simple crosshair with a directional arrow."
-		"rd_option_crosshair_type_cross_hint"		"A simple crosshair with a directional arrow."
-		// RD_AdvancedSettings_HUD_CrosshairStyle_Crescent
-		"[english]rd_option_crosshair_type_crescent_hint"		"A crescent-shaped crosshair that indicates current ammo and whether you are aiming at an ally."
-		"rd_option_crosshair_type_crescent_hint"		"A crescent-shaped crosshair that indicates current ammo and whether you are aiming at an ally."
-		"[english]rd_option_crosshair_size"		"Crosshair Size"
-		"rd_option_crosshair_size"		"Crosshair Size"
-		"[english]rd_option_crosshair_size_hint"		"Determines the on-screen size of the Crescent crosshair."
-		"rd_option_crosshair_size_hint"		"Determines the on-screen size of the Crescent crosshair."
-		// RD_AdvancedSettings_HUD_LaserSight
-		"[english]rd_option_crosshair_laser_sight_hint"		"Shows where you and other marines are aiming with a red line."
-		"rd_option_crosshair_laser_sight_hint"		"Shows where you and other marines are aiming with a red line."
-		"[english]rd_option_reload_auto"		"Reload When Empty"
-		"rd_option_reload_auto"		"Reload When Empty"
-		"[english]rd_option_reload_auto_hint"		"Automatically reload weapons when they are empty. Weapons can be reloaded at any time by pressing the reload button."
-		"rd_option_reload_auto_hint"		"Automatically reload weapons when they are empty. Weapons can be reloaded at any time by pressing the reload button."
-		// RD_AdvancedSettings_Ammo_FastReloadUnderMarine
-		"[english]rd_option_reload_fast_under_marine_hint"		"Shows the reload progress bar and fast reload indicator under the current marine in addition to near the portrait on the HUD."
-		"rd_option_reload_fast_under_marine_hint"		"Shows the reload progress bar and fast reload indicator under the current marine in addition to near the portrait on the HUD."
-		// RD_AdvancedSettings_Ammo_FastReloadUnderMarineWScale
-		"[english]rd_option_reload_fast_wide_hint"		"Controls the width of the fast reload bar under the marine."
-		"rd_option_reload_fast_wide_hint"		"Controls the width of the fast reload bar under the marine."
-		// RD_AdvancedSettings_Ammo_FastReloadUnderMarineHScale
-		// RD_AdvancedSettings_Ammo_FastReloadUnderMarineHScale_SameAsW
-		"[english]rd_option_reload_fast_tall_hint"		"Controls the height of the fast reload bar under the marine."
-		"rd_option_reload_fast_tall_hint"		"Controls the height of the fast reload bar under the marine."
-		"[english]rd_option_damage_numbers"		"Damage Numbers"
-		"rd_option_damage_numbers"		"Damage Numbers"
-		"[english]rd_option_damage_numbers_disabled"		"None"
-		"rd_option_damage_numbers_disabled"		"None"
-		"[english]rd_option_damage_numbers_separate"		"Separate"
-		"rd_option_damage_numbers_separate"		"Separate"
-		"[english]rd_option_damage_numbers_combined"		"Combined"
-		"rd_option_damage_numbers_combined"		"Combined"
-		"[english]rd_option_damage_numbers_hint"		"Show numbers indicating damage dealt to targets. \"Combined\" mode adds together damage on a single target, and \"Separate\" mode shows a new number for each hit."
-		"rd_option_damage_numbers_hint"		"Show numbers indicating damage dealt to targets. \"Combined\" mode adds together damage on a single target, and \"Separate\" mode shows a new number for each hit."
-		"[english]rd_option_strange_rank_up"		"Item Rank Notifications"
-		"rd_option_strange_rank_up"		"Item Rank Notifications"
-		"[english]rd_option_strange_rank_up_disabled"		"Hidden"
-		"rd_option_strange_rank_up_disabled"		"Hidden"
-		"[english]rd_option_strange_rank_up_enabled"		"Show All"
-		"rd_option_strange_rank_up_enabled"		"Show All"
-		"[english]rd_option_strange_rank_up_only_self"		"Only My Items"
-		"rd_option_strange_rank_up_only_self"		"Only My Items"
-		// This system is not currently in the game, but will be eventually.
-		// It looks similar to what is happening in the bottom left corner of this image:
-		// https://cdn.cloudflare.steamstatic.com/apps/dota2/images/plus/bg_relics.jpg
-		"[english]rd_option_strange_rank_up_hint"		"Shows an overhead notification when an item that counts stats ranks up."
-		"rd_option_strange_rank_up_hint"		"Shows an overhead notification when an item that counts stats ranks up."
-		"[english]rd_option_speed_timer"		"Speed Run Timer"
-		"rd_option_speed_timer"		"Speed Run Timer"
-		"[english]rd_option_speed_timer_hint"		"Displays a timer at the top of the screen with the current mission duration."
-		"rd_option_speed_timer_hint"		"Displays a timer at the top of the screen with the current mission duration."
-		"[english]rd_option_speed_timer_color"		"Timer Color"
-		"rd_option_speed_timer_color"		"Timer Color"
+// RD_AdvancedSettings_HUD_CrosshairStyle
+// RD_AdvancedSettings_HUD_CrosshairStyle_Cross
+"[english]rd_option_crosshair_type_cross_hint"		"A simple crosshair with a directional arrow."
+"rd_option_crosshair_type_cross_hint"		"방향 화살표가 있는 단순 십자선입니다."
+// RD_AdvancedSettings_HUD_CrosshairStyle_Crescent
+"[english]rd_option_crosshair_type_crescent_hint"		"A crescent-shaped crosshair that indicates current ammo and whether you are aiming at an ally."
+"rd_option_crosshair_type_crescent_hint"		"현재 탄약과 아군을 조준하고 있는지 여부를 나타내는 초승달 모양의 조준선입니다."
+"[english]rd_option_crosshair_size"		"Crosshair Size"
+"rd_option_crosshair_size"		"크로스헤어 크기"
+"[english]rd_option_crosshair_size_hint"		"Determines the on-screen size of the Crescent crosshair."
+"rd_option_crosshair_size_hint"		"화면상의 크로스헤어 크기를 결정합니다."
+// RD_AdvancedSettings_HUD_LaserSight
+"[english]rd_option_crosshair_laser_sight_hint"		"Shows where you and other marines are aiming with a red line."
+"rd_option_crosshair_laser_sight_hint"		"당신과 다른 해병들의 조준 방향으로 빨간색 선을 표시합니다."
+"[english]rd_option_reload_auto"		"Reload When Empty"
+"rd_option_reload_auto"		"탄약 고갈 시 재장전"
+"[english]rd_option_reload_auto_hint"		"Automatically reload weapons when they are empty. Weapons can be reloaded at any time by pressing the reload button."
+"rd_option_reload_auto_hint"		"탄창이 비었을 때 자동으로 재장전합니다. 무기는 언제든지 재장전 버튼을 눌러 재장전할 수 있습니다."
+// RD_AdvancedSettings_Ammo_FastReloadUnderMarine
+"[english]rd_option_reload_fast_under_marine_hint"		"Shows the reload progress bar and fast reload indicator under the current marine in addition to near the portrait on the HUD."
+"rd_option_reload_fast_under_marine_hint"		"HUD의 초상화 근처뿐만 아니라 현재 해병 아래에도 재장전 진행률 막대와 빠른 재장전 표시기를 표시합니다."
+// RD_AdvancedSettings_Ammo_FastReloadUnderMarineWScale
+"[english]rd_option_reload_fast_wide_hint"		"Controls the width of the fast reload bar under the marine."
+"rd_option_reload_fast_wide_hint"		"해병 아래의 빠른 재장전 막대의 너비를 조절합니다."
+// RD_AdvancedSettings_Ammo_FastReloadUnderMarineHScale
+// RD_AdvancedSettings_Ammo_FastReloadUnderMarineHScale_SameAsW
+"[english]rd_option_reload_fast_tall_hint"		"Controls the height of the fast reload bar under the marine."
+"rd_option_reload_fast_tall_hint"		"병 아래의 빠른 재장전 막대의 높이를 조절합니다."
+"[english]rd_option_damage_numbers"		"Damage Numbers"
+"rd_option_damage_numbers"		"피해량 표사"
+"[english]rd_option_damage_numbers_disabled"		"None"
+"rd_option_damage_numbers_disabled"		"표시 안함"
+"[english]rd_option_damage_numbers_separate"		"Separate"
+"rd_option_damage_numbers_separate"		"단일 피해량"
+"[english]rd_option_damage_numbers_combined"		"Combined"
+"rd_option_damage_numbers_combined"		"합산 피해량"
+"[english]rd_option_damage_numbers_hint"		"Show numbers indicating damage dealt to targets. \"Combined\" mode adds together damage on a single target, and \"Separate\" mode shows a new number for each hit."
+"rd_option_damage_numbers_hint"		"대상에게 입힌 피해량을 숫자로 표시합니다. \"합산 피해량\" 모드는 단일 대상에게 입히는 피해량을 더합니다. \"단일 피해량\" 모드는 한번 타격시마다 새로운 숫자를 표시합니다."
+"[english]rd_option_strange_rank_up"		"Item Rank Notifications"
+"rd_option_strange_rank_up"		"아이템 랭크 알림"
+"[english]rd_option_strange_rank_up_disabled"		"Hidden"
+"rd_option_strange_rank_up_disabled"		"숨김"
+"[english]rd_option_strange_rank_up_enabled"		"Show All"
+"rd_option_strange_rank_up_enabled"		"전부 표시"
+"[english]rd_option_strange_rank_up_only_self"		"Only My Items"
+"rd_option_strange_rank_up_only_self"		내 아이템만"
+// This system is not currently in the game, but will be eventually.
+// It looks similar to what is happening in the bottom left corner of this image:
+// https://cdn.cloudflare.steamstatic.com/apps/dota2/images/plus/bg_relics.jpg
+"[english]rd_option_strange_rank_up_hint"		"Shows an overhead notification when an item that counts stats ranks up."
+"rd_option_strange_rank_up_hint"		"통계를 집계하는 아이템의 랭크가 상승할 때 오버헤드 알림을 표시합니다."
+"[english]rd_option_speed_timer"		"Speed Run Timer"
+"rd_option_speed_timer"		"스피드 런 타이머"
+"[english]rd_option_speed_timer_hint"		"Displays a timer at the top of the screen with the current mission duration."
+"rd_option_speed_timer_hint"		"화면 상단에 현재 임무 시간을 알려주는 타이머를 표시합니다."
+"[english]rd_option_speed_timer_color"		"Timer Color"
+"rd_option_speed_timer_color"		"타이머 색"
 		"[english]rd_option_speed_timer_color_hint"		"Determines the font color of the speed run timer."
 		"rd_option_speed_timer_color_hint"		"Determines the font color of the speed run timer."
 		"[english]rd_option_speed_objectives"		"Show Objective Timings"
@@ -9820,10 +9820,10 @@
 		"[english]rd_option_network_allow_relay_enabled_hint"		"Connect to lobbies using the Steam Networking API, which can avoid the need to forward ports. Dedicated servers may still use direct UDP connections."
 		"rd_option_network_allow_relay_enabled_hint"		"Connect to lobbies using the Steam Networking API, which can avoid the need to forward ports. Dedicated servers may still use direct UDP connections."
 
-		"[english]rd_option_suffix_percent"		"%"
-		"rd_option_suffix_percent"		"%"
-		"[english]rd_option_suffix_milliseconds"		" ms"
-		"rd_option_suffix_milliseconds"		" ms"
+"[english]rd_option_suffix_percent"		"%"
+"rd_option_suffix_percent"		"%"
+"[english]rd_option_suffix_milliseconds"		" ms"
+"rd_option_suffix_milliseconds"		" ms"
 
 "[english]rd_video_level_low"		"Low"
 "rd_video_level_low"		"낮음"
