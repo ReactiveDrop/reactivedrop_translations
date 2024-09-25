@@ -2572,6 +2572,7 @@
 "asw_force_continuem"		"모든 플레이어가 준비 되어있지 않습니다, 저장하고 재시작 하시겠습니까?"
 "[english]asw_force_restartm"		"Not all players are ready. Do you wish to restart anyway?"
 "asw_force_restartm"		"모든 플레이어가 준비 되어있지 않습니다, 재시작 하시겠습니까?"
+// These two strings are button texts. Translation shouldn't be very long. See other files for other translation variants.
 "[english]asw_force_ready"		"Force Ready"
 "asw_force_ready"		"강제 준비"
 "[english]asw_force_ready_delayed"		"Force Ready (%s1)"
@@ -3226,6 +3227,7 @@
 "asw_holdout_complete"		"귀하가 승리했습니다."
 
 // new briefing
+// This string shows in briefing title. Translation shouldn't be very long. See other files for other translation variants.
 "[english]nb_mission_prep"		"MISSION PREP"
 "nb_mission_prep"		"임무 준비"
 "[english]nb_ready"		"READY"

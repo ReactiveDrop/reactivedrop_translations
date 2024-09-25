@@ -2572,6 +2572,7 @@
 "asw_force_continuem"		"準備完了していないプレイヤーがいます。強制的に次に進みますか？"
 "[english]asw_force_restartm"		"Not all players are ready. Do you wish to restart anyway?"
 "asw_force_restartm"		"準備完了していないプレイヤーがいます。強制的にやり直しますか？"
+// These two strings are button texts. Translation shouldn't be very long. See other files for other translation variants.
 "[english]asw_force_ready"		"Force Ready"
 "asw_force_ready"		"準備を強制"
 "[english]asw_force_ready_delayed"		"Force Ready (%s1)"
@@ -3226,6 +3227,7 @@
 "asw_holdout_complete"		"あなたが勝者だ！"
 
 // new briefing
+// This string shows in briefing title. Translation shouldn't be very long. See other files for other translation variants.
 "[english]nb_mission_prep"		"MISSION PREP"
 "nb_mission_prep"		"ミッション準備"
 "[english]nb_ready"		"READY"

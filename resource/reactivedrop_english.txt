@@ -1319,6 +1319,7 @@
 "asw_force_startm"	"Not all players are ready. Do you wish to start the mission anyway?"
 "asw_force_continuem"	"Not all players are ready. Do you wish to save and continue anyway?"
 "asw_force_restartm"	"Not all players are ready. Do you wish to restart anyway?"
+// These two strings are button texts. Translation shouldn't be very long. See other files for other translation variants.
 "asw_force_ready"	"Force Ready"
 "asw_force_ready_delayed"	"Force Ready (%s1)"
 "asw_force_wait"	"Cancel"
@@ -1655,6 +1656,7 @@
 "asw_holdout_complete"	"A WINNER IS YOU!"
 
 // new briefing
+// This string shows in briefing title. Translation shouldn't be very long. See other files for other translation variants.
 "nb_mission_prep"	"MISSION PREP"
 "nb_ready"	"READY"
 "nb_start_mission"	"START MISSION"
