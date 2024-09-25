@@ -9699,7 +9699,7 @@
 "[english]rd_option_strange_rank_up_enabled"		"Show All"
 "rd_option_strange_rank_up_enabled"		"전부 표시"
 "[english]rd_option_strange_rank_up_only_self"		"Only My Items"
-"rd_option_strange_rank_up_only_self"		내 아이템만"
+"rd_option_strange_rank_up_only_self"		"내 아이템만"
 // This system is not currently in the game, but will be eventually.
 // It looks similar to what is happening in the bottom left corner of this image:
 // https://cdn.cloudflare.steamstatic.com/apps/dota2/images/plus/bg_relics.jpg
