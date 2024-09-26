@@ -9764,7 +9764,7 @@
 "[english]rd_option_accessibility_tracer_tint_other"		"Tint Other Tracers"
 "rd_option_accessibility_tracer_tint_other"		"본인 제외 총알 색상"
 "[english]rd_option_accessibility_tracer_tint_other_hint"		"Adjusts the color of the tracers for bullets fired by other players or bots."
-		"rd_option_accessibility_tracer_tint_other_hint"		"다른 플레이어나 봇이 발사한 총알의 색상을 조정합니다."
+"rd_option_accessibility_tracer_tint_other_hint"		"다른 플레이어나 봇이 발사한 총알의 색상을 조정합니다."
 // RD_AdvancedSettings_Misc_HighlightActiveCharacter
 "[english]rd_option_accessibility_highlight_active_character_hint"		"Adds a glowing outline around the character you control."
 "rd_option_accessibility_highlight_active_character_hint"		"제어중인 캐릭터 주변에 빛나는 윤곽선을 추가합니다."
