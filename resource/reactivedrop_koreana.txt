@@ -9929,7 +9929,7 @@
 "[english]rd_video_bloom_scale"		"Light and Specular Blooms"
 "rd_video_bloom_scale"		"빛, 반사광 효과"
 "[english]rd_video_bloom_scale_hint"		"An effect where brightly glowing objects \"spill\" light into the surrounding area."
-"rd_video_bloom_scale_hint"		"밝게 빛나는 물체가 주변 지역으로 빛이 "퍼지는" 효과를 제어합니다."
+"rd_video_bloom_scale_hint"		"밝게 빛나는 물체가 주변 지역으로 빛이 \"퍼지는\" 효과를 제어합니다."
 "[english]rd_video_projected_textures"		"High Quality Dynamic Shadows"
 "rd_video_projected_textures"		"고품질 동적 그림자"
 "[english]rd_video_projected_textures_hint"		"Some missions contain stationary or moving area lights that produce dramatic shadows of marines and aliens. If this option is disabled, these lights will be turned off entirely."
