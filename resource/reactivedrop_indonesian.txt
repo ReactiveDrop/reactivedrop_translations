@@ -3561,7 +3561,7 @@
 "RD_INSANE_CAMPAIGN_TFT_NAME"		"Kampanye Gila: Air Mata untuk Tarnor"
 "[english]RD_IMBA_CAMPAIGN_TFT_NAME"		"Brutal Campaign: Tears for Tarnor"
 "RD_IMBA_CAMPAIGN_TFT_NAME"		"Kampanye Brutal: Air Mata untuk Tarnor"
-		"[english]RD_EASY_CAMPAIGN_TIL_NAME"		"Easy Campaign: Tilarus-5"
+"[english]RD_EASY_CAMPAIGN_TIL_NAME"		"Easy Campaign: Tilarus-5"
 "RD_EASY_CAMPAIGN_TIL_NAME"		"Kampanye Mudah: Tilarus-5"
 "[english]RD_NORMAL_CAMPAIGN_TIL_NAME"		"Normal Campaign: Tilarus-5"
 "RD_NORMAL_CAMPAIGN_TIL_NAME"		"Kampanye Normal: Tilarus-5"
