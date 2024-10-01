@@ -5366,7 +5366,7 @@
 "rd_so_tips_grub"		"IAF 간단 보고서:\n• 유충들은 무기가 없으며 매우 적은 체력을 가졌습니다. 단순히 밟는 것으로 죽일 수 있습니다.\n• 기생충들은 항상 그렇진 않지만, 종종 유충이 존재하는 곳 근처에 있습니다. 유능한 해병들은 이를 조기 경고를 이용합니다.\n• 밟히는 걸 피하기 위한 유충들의 유일한 수단은 벽을 오르는 능력입니다."
 		// Antlion guards are referred to as "horses" by players. "why the long face?" is a lighthearted way to ask someone why they look sad, but it's also the punchline of a common joke (horse walks into a bar, bartender asks "why the long face?", the joke is that horse faces are just kind of long because of their snouts)
 "[english]rd_so_tips_antlionguard"		"IAF Fact Sheet:\n• Marines who have fought uber drones will find the antlion guard familiar, albeit faster and larger.\n• The antlion guard's primary weapon is the chitinous battering ram on their snout, giving them a distinctively long face.\n• Antlion guards come in two flavors: brown guards and glowing yellow guardians. They have otherwise identical bodies but behave differently."
-"rd_so_tips_antlionguard"	"IAF 간단 보고서:\n• 우버 드론과 싸워본 해병이라면 개미귀신 경비병이 더 크고 빠름에도 불구하고 비슷하단걸 알 수 있습니다.\n• 개미귀신 경비병의 주무기는 그들의 주둥이에 있는 키틴질 충각으로, 이는 그들에게 특징적인 긴 얼굴을 갖게 하였습니다.\n• 개미귀신 경비병은 두 종류로 나뉩니다:갈색과 형광빛 경비병으로 말입니다. 그들은 똑같은 신체를 가졌으나 다르게 행동합니다."
+"rd_so_tips_antlionguard"		"IAF 간단 보고서:\n• 우버 드론과 싸워본 해병이라면 개미귀신 경비병이 더 크고 빠름에도 불구하고 비슷하단걸 알 수 있습니다.\n• 개미귀신 경비병의 주무기는 그들의 주둥이에 있는 키틴질 충각으로, 이는 그들에게 특징적인 긴 얼굴을 갖게 하였습니다.\n• 개미귀신 경비병은 갈색과 형광빛 경비병의 두종류로 나뉩니다. 그들은 똑같은 신체를 가졌으나 다르게 행동합니다."
 
 		"[english]rd_so_author_brad_irwing"		"From the journal of Dr. Brad Irwing (AMBER)"
 		"rd_so_author_brad_irwing"		"From the journal of Dr. Brad Irwing (AMBER)"
