@@ -9307,7 +9307,7 @@
 "[english]rd_ticker_headline_refugeenews"		"Refugees flow into S-N5 constellation"
 "rd_ticker_headline_refugeenews"		"난민들이 S-N5 별자리로 유입"
 "[english]rd_ticker_headline_accident32"		"AMBER Corporation Reportedly Researching New Fuel Source"
-"rd_ticker_headline_accident32"		""앰버 코퍼레이션이 새로운 연료원을 연구하고 있다고 보도됨"
+"rd_ticker_headline_accident32"		"앰버 코퍼레이션이 새로운 연료원을 연구하고 있다고 보도됨"
 // In the ticker stats strings, %s1 is a number.
 // Ammo and death stats do not (currently) include deathmatch and do not include bots.
 "[english]rd_ticker_stat_bullets_fired_this_week"		"Marines fired %s1 bullets this week in the fight against the Alien Swarm"
