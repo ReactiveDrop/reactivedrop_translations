@@ -1,0 +1,22 @@
+"Credits"
+{
+// these keys must be in this order!
+"show_credits_logo"	"0"
+//"custom_logo"	"ExampleCustomLogo/example_custom_logo"
+"asw_credits_"	""
+"asw_credits_"	""
+"asw_credits_"	"任務1, 太空港慘案, 製作人 jhheight"
+"asw_credits_"	""
+"asw_credits_"	"任務 2, 死而復生, 製作人 Sergei 'STALKER4732' Lavrinenco"
+"asw_credits_"	""
+"asw_credits_"	"任務 3, 地下堡壘, 製作人 uradzimiru"
+"asw_credits_"	""
+"asw_credits_"	"任務n 4, 離線練習, 製作人 Valve"
+"asw_credits_"	""
+"asw_credits_"	"任務 5, 危險地帶, 製作人 Eclipse"
+"asw_credits_"	""
+"asw_credits_"	"任務 6, 正面交鋒, 製作人 Eclipse"
+"asw_credits_"	""
+"asw_credits_"	"任務 7, 發電廠, 製作人 Arjen de Graaf"
+"asw_credits_"	""
+}
