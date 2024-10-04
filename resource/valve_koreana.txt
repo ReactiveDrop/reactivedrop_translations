@@ -456,9 +456,9 @@
 "Valve_CamArmLength"		"팔 길이"
 
 "[english]Valve_FilmDemo_FilmGrain_LeftTitle"		"No Film Grain"
-"Valve_FilmDemo_FilmGrain_LeftTitle"		"필름 그레인 없음"
+"Valve_FilmDemo_FilmGrain_LeftTitle"		"필름 입자 효과 없음"
 "[english]Valve_FilmDemo_FilmGrain_RightTitle"		"Film Grain"
-"Valve_FilmDemo_FilmGrain_RightTitle"		"필름 그레인"
+"Valve_FilmDemo_FilmGrain_RightTitle"		"필름 입자 효과"
 
 "[english]Valve_FilmDemo_ColorCorrection_LeftTitle"		"No Color Correction"
 "Valve_FilmDemo_ColorCorrection_LeftTitle"		"색상 보정 없음"
