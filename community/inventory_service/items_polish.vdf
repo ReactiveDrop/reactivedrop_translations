@@ -164,8 +164,8 @@
 "[english]item_novelty_medal_anacrusis_name"		"I met Barry on the Isolode"
 "item_novelty_medal_anacrusis_name"		"Spotkałem Barry-ego na Isolode"
 // these are puns. good luck!
-// there isn't a lot of things i can make puns out of here, unless someone else has a better idea
 "[english]item_novelty_medal_anacrusis_description"		"It was a [i]Barry[/i] good time. Still [i]barrel[/i]-y know him, though…"
+// there isn't a lot of things i can make puns out of here, unless someone else has a better idea
 "item_novelty_medal_anacrusis_description"		"To był [i]Barry-dzo[/i] dobry czas. Lecz wciąż [i]Barry-dzo[/i] ledwo go znam..."
 "[english]item_novelty_medal_anacrusis_acquisition"		"Complete the Barry Nice to Meet You achievement in The Anacrusis to unlock."
 "item_novelty_medal_anacrusis_acquisition"		"Odblokuj osiągnięcie Barry Nice to Meet You w The Anacrusis aby użyć ten przedmiot."
@@ -241,7 +241,7 @@
 "[english]item_achievement_medal_infection_deathmatch_stat_tags"		"Zombie Infections Spread"
 "item_achievement_medal_infection_deathmatch_stat_tags"		"Rozprzestrzenione Infekcje Zombie"
 // Kills by human players while in "last stand" mode, which can be activated when there are few human players remaining.
-"[english]item_achievement_medal_infection_deathmatch_stat_laststand"		"Zabicia podczas Last Stand"
+"[english]item_achievement_medal_infection_deathmatch_stat_laststand"		"Last Stand Kills"
 "item_achievement_medal_infection_deathmatch_stat_laststand"		"Zabicia podczas Last Stand"
 
 "[english]item_event_medal_shmupfest2023_name"		"Steam SHMUP Fest 2023"
@@ -476,7 +476,6 @@
 "[english]item_suit_vegas_name"		"Vegas's Suit"
 "item_suit_vegas_name"		"Vegas's Suit"
 // one can only hope
-// can only hope..
 "[english]item_suit_flynn_name"		"Flynn's Suit"
 "item_suit_flynn_name"		"Strój Flynn'a"
 

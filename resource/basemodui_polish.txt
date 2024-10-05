@@ -2722,8 +2722,8 @@
 
 		// Alien Swarm strings
 
-"[english]L4D360UI_Not_Joinable_Mod"		"Playing Version: %s1"
-"L4D360UI_Not_Joinable_Mod"		"Gra w wersję: %s1"
+		"[english]L4D360UI_Not_Joinable_Mod"		"Playing Version: %s1"
+		"L4D360UI_Not_Joinable_Mod"		"Gra w wersję: %s1"
 "[english]L4D2360_JoinError_OtherTitle_Modded"		"Player is running a different version of Alien Swarm: Reactive Drop.\n"
 "L4D2360_JoinError_OtherTitle_Modded"		"Gracz korzysta z innej wersji Alien Swarm: Reactive Drop.\n"
 
@@ -2864,13 +2864,13 @@
 
 		// Reactive Drop strings
 
-"[english]RDUI_SteamOverlay_Title"		"Steam Overlay In-Game"
-"RDUI_SteamOverlay_Title"		"Nakładka Steam w grze"
+		"[english]RDUI_SteamOverlay_Title"		"Steam Overlay In-Game"
+		"RDUI_SteamOverlay_Title"		"Nakładka Steam w grze"
 "[english]RDUI_SteamOverlay_Text"		"This feature requires Steam Overlay In-Game to be enabled.\nYou might need to restart the game after you enable this feature in Steam:\nSteam -> Library -> Right-click on Alien Swarm: Reactive Drop -> Properties... -> Enable the Steam Overlay while in-game\n"
 "RDUI_SteamOverlay_Text"		"Ta funkcja wymaga włączenia nakładki Steam w grze.\nMoże być konieczne ponowne uruchomienie gry po włączeniu tej funkcji w Steam:\nSteam -> Biblioteka -> Kliknij prawym przyciskiem myszy Alien Swarm: Reactive Drop -> Właściwości... -> Włącz nakładkę Steam w grze.\n"
 "[english]RDUI_WorkshopModeWarning_Title"		"Attention!"
 "RDUI_WorkshopModeWarning_Title"		"Uwaga!"
-"[english]RDUI_WorkshopModeWarning_Text"		"Please set rd_workshop_allow_item_creation 1 przed wykonaniem tej czynności"
+"[english]RDUI_WorkshopModeWarning_Text"		"Please set rd_workshop_allow_item_creation 1 before doing this action"
 "RDUI_WorkshopModeWarning_Text"		"Proszę ustaw rd_workshop_allow_item_creation 1 przed wykonaniem tej czynności"
 
 "[english]RDUI_Date_JustNow"		"Just Now"

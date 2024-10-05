@@ -423,8 +423,8 @@
 "[english]StatsWeb_Report_Vandalism"		"Report incorrect stats."
 "StatsWeb_Report_Vandalism"		"Zgłoś nieprawidłowe statystyki."
 // %[1]s is the guide name. %[2]s is the author name.
-//translator note: i do not know where this is displayed so i dont know if this is 100% accurate
 "[english]StatsWeb_IntegratedGuideTitle_Loadouts"		"%[1]s - Shared Loadout by %[2]s"
+//translator note: i do not know where this is displayed so i dont know if this is 100% accurate
 "StatsWeb_IntegratedGuideTitle_Loadouts"		"%[1]s - Dzielony ekwipunek przez %[2]s"
 "[english]StatsWeb_IntegratedGuideTitle_SpeedrunGhost"		"%[1]s - Speedrun Ghost by %[2]s"
 "StatsWeb_IntegratedGuideTitle_SpeedrunGhost"		"%[1]s - Duch Rekordu Czasowego przez %[2]s"
@@ -434,8 +434,8 @@
 "[english]StatsWeb_Marine_Surname"		"%[1]s [b]%[2]s[/b]"
 "StatsWeb_Marine_Surname"		"%[1]s [b]%[2]s[/b]"
 
-"[english]rd_event_mapping_competition"		"Mapping Competition 2024 \"Space Station\"		"
-"rd_event_mapping_competition"		"Konkurs mapowania 2024 \"Stacja Kosmiczna\"		"
+"[english]rd_event_mapping_competition"		"Mapping Competition 2024 \"Space Station\""
+"rd_event_mapping_competition"		"Konkurs mapowania 2024 \"Stacja Kosmiczna\""
 "[english]rd_event_double_xp_anniversary"		"Anniversary Double Experience Week"
 "rd_event_double_xp_anniversary"		"Rocznicowy Tydzień z Podwójnym XP"
 "[english]rd_event_news_anniversary_6th"		"6th Anniversary! New campaign, side stories, and more!"
