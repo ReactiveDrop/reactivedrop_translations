@@ -2683,8 +2683,8 @@
 "SessionError_NoMap"		"請求的任務地圖不可用。"
 "[english]SessionError_SteamServersDisconnected"		"The connection to Steam was lost."
 "SessionError_SteamServersDisconnected"		"與 Steam 失去連線。"
-		"[english]SessionError_ClientDLL"		"This lobby is running a different version of Alien Swarm: Reactive Drop.\nIf you recently installed an update, it is possible that the host of this lobby has not updated yet."
-		"SessionError_ClientDLL"		"This lobby is running a different version of Alien Swarm: Reactive Drop.\nIf you recently installed an update, it is possible that the host of this lobby has not updated yet."
+"[english]SessionError_ClientDLL"		"This lobby is running a different version of Alien Swarm: Reactive Drop.\nIf you recently installed an update, it is possible that the host of this lobby has not updated yet."
+"SessionError_ClientDLL"		"這個大廳所遊玩的是不同遊戲版本。\n如果你近期已經更新過，很有可能是房主還未更新遊戲。"
 
 "[english]InviteError_Unknown"		"Failed to accept game invite.\nPlease try again."
 "InviteError_Unknown"		"接受遊戲邀請失敗。\n請重試。"
