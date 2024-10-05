@@ -2,7 +2,7 @@
 | Language | basemodui | closecaption | gameui | reactivedrop | items | statsweb | Strings | Files |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
-| [Traditional Chinese](#tchinese-繁體中文) | ✔️ | 141 | ✔️ | 92 | ✔️ | ✔️ | ✔️ | 146 |
+| [Traditional Chinese](#tchinese-繁體中文) | ✔️ | 141 | ✔️ | 92 | ✔️ | ✔️ | ✔️ | 126 |
 | [Czech](#czech-čeština) | 76 | 1810 | 43 | 4233 | 271 | 212 | 983 | 146 |
 | [Danish](#non-curated-languages) | 57 | 231 | 43 | 3760 | 271 | 212 | 713 | 147 |
 | [Dutch](#non-curated-languages) | 56 | 2004 | 43 | 3228 | 271 | 212 | 713 | 146 |
@@ -13,9 +13,9 @@
 | [Indonesian](#indonesian-indonesia) | 1286 | 2004 | 635 | 4740 | 274 | 216 | 983 | 147 |
 | [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 35 | ✔️ |
-| [Korean](#koreana-한국어) | ✔️ | ✔️ | ✔️ | 396 | ✔️ | ✔️ | 223 | 47 |
+| [Korean](#koreana-한국어) | ✔️ | ✔️ | ✔️ | 74 | ✔️ | ✔️ | 58 | 46 |
 | [Norwegian Bokmål](#non-curated-languages) | 74 | 708 | 48 | 3934 | 271 | 212 | 713 | 147 |
-| [Polish](#polish-polski) | 33 | 2004 | 43 | 3230 | 271 | 212 | 709 | 143 |
+| [Polish](#polish-polski) | 2 | 2004 | ✔️ | 2872 | ✔️ | ✔️ | 134 | 126 |
 | [European Portuguese](#portuguese-português-europeu) | 5 | 180 | 33 | 2318 | 251 | 33 | 633 | 141 |
 | [Brazilian Portuguese](#brazilian-português) | 1 | ✔️ | ✔️ | 855 | 13 | 3 | 1 | 2 |
 | [Romanian](#non-curated-languages) | 56 | 1996 | 49 | 3940 | 271 | 212 | 978 | 147 |
@@ -56,35 +56,9 @@
 - [closecaption_tchinese.txt](resource/closecaption_tchinese.txt) has 141 untranslated strings.
 - [reactivedrop_tchinese.txt](resource/reactivedrop_tchinese.txt) has 92 untranslated strings.
 
-### Steam Store and Community
-
-- [eula_tchinese.txt](community/eula/eula_english.txt) is missing.
-- [app_items_563560_tchinese.json](community/points_shop/app_items_563560_english.json) is missing.
-- [workshop_tags_tchinese.json](community/workshop/workshop_tags_english.json) is missing.
-- [content_warning_563560_tchinese.txt](store_page/content_warning_563560_english.txt) is missing.
-- [storepage_81731_tchinese.json](store_page/storepage_81731_tchinese.json) has 6 indented lines.
-
 ### Upcoming Release Notes
 
 - [20240901_tchinese.xml](release_notes/20240901_english.xml) is missing.
-
-### Credits
-
-- [asw_credits_tchinese.txt](credits/asw_credits_english.txt) is missing.
-- [biogen_corporation_credits_tchinese.txt](credits/biogen_corporation_credits_english.txt) is missing.
-- [credits_acc32_official_tchinese.txt](credits/credits_acc32_official_english.txt) is missing.
-- [credits_marine_academy_tchinese.txt](credits/credits_marine_academy_english.txt) is missing.
-- [credits_namhumanum_tchinese.txt](credits/credits_namhumanum_english.txt) is missing.
-- [deathmatch_credits_tchinese.txt](credits/deathmatch_credits_english.txt) is missing.
-- [rd-LanasEscapeCredits_tchinese.txt](credits/rd-LanasEscapeCredits_english.txt) is missing.
-- [rd-area9800Credits_tchinese.txt](credits/rd-area9800Credits_english.txt) is missing.
-- [rd-ocs-credits_tchinese.txt](credits/rd-ocs-credits_english.txt) is missing.
-- [rd-reduction_campaigncredits_tchinese.txt](credits/rd-reduction_campaigncredits_english.txt) is missing.
-- [rd-tarnor_credits_tchinese.txt](credits/rd-tarnor_credits_english.txt) is missing.
-- [rd_bonus_missions_credits_tchinese.txt](credits/rd_bonus_missions_credits_english.txt) is missing.
-- [rd_paranoia_credits_tchinese.txt](credits/rd_paranoia_credits_english.txt) is missing.
-- [rd_research7_credits_tchinese.txt](credits/rd_research7_credits_english.txt) is missing.
-- [tilarus5_credits_tchinese.txt](credits/tilarus5_credits_english.txt) is missing.
 
 ### Mail and News
 
@@ -790,15 +764,12 @@
 
 ### Strings
 
-- [misc/signage/signage_koreana.vdf](misc/signage/signage_koreana.vdf) has 69 untranslated strings.
 - [platform/vgui_koreana.txt](platform/vgui_koreana.txt) has 58 untranslated strings.
-- [reactivedrop_koreana.txt](resource/reactivedrop_koreana.txt) has 396 untranslated strings.
-- [valve_koreana.txt](resource/valve_koreana.txt) has 96 untranslated strings.
+- [reactivedrop_koreana.txt](resource/reactivedrop_koreana.txt) has 74 untranslated strings.
 
 ### Steam Store and Community
 
 - [content_warning_563560_koreana.txt](store_page/content_warning_563560_english.txt) is missing.
-- [storepage_81731_koreana.json](store_page/storepage_81731_koreana.json) has 6 indented lines.
 
 ### Upcoming Release Notes
 
@@ -864,49 +835,15 @@
 
 ### Strings
 
-- [addons/ExampleAddon/reactivedrop_polish.txt](addons/ExampleAddon/resource/reactivedrop_polish.txt) has 39 untranslated strings.
-- [addons/RiskOfRain/reactivedrop_polish.txt](addons/RiskOfRain/resource/reactivedrop_polish.txt) has 95 untranslated strings.
-- [inventory_service_tags_polish.vdf](community/inventory_service/inventory_service_tags_polish.vdf) has 28 untranslated strings.
-- [items_polish.vdf](community/inventory_service/items_polish.vdf) has 271 untranslated strings.
-- [statsweb_polish.vdf](community/stats_website/statsweb_polish.vdf) has 212 untranslated strings.
-- [steam_input_polish.vdf](community/steam_input/steam_input_polish.vdf) has 97 untranslated strings.
-- [workshop_description_polish.vdf](community/workshop/workshop_description_polish.vdf) has 2 untranslated strings.
 - [misc/signage/signage_polish.vdf](misc/signage/signage_polish.vdf) has 69 untranslated strings.
-- [platform/servers/serverbrowser_polish.txt](platform/servers/serverbrowser_polish.txt) has 24 untranslated strings.
-- [platform/vgui_polish.txt](platform/vgui_polish.txt) has 81 untranslated strings.
-- [basemodui_polish.txt](resource/basemodui_polish.txt) has 33 untranslated strings.
-- [chat_polish.txt](resource/chat_polish.txt) has 8 untranslated strings.
+- [platform/vgui_polish.txt](platform/vgui_polish.txt) has 65 untranslated strings.
+- [basemodui_polish.txt](resource/basemodui_polish.txt) has 2 untranslated strings.
 - [closecaption_polish.txt](resource/closecaption_polish.txt) has 2004 untranslated strings.
-- [gameui_polish.txt](resource/gameui_polish.txt) has 43 untranslated strings.
-- [reactivedrop_polish.txt](resource/reactivedrop_polish.txt) has 3230 untranslated strings.
-- [valve_polish.txt](resource/valve_polish.txt) has 266 untranslated strings.
-
-### Steam Store and Community
-
-- [workshop_tags_polish.json](community/workshop/workshop_tags_polish.json) has 1 indented lines.
+- [reactivedrop_polish.txt](resource/reactivedrop_polish.txt) has 2872 untranslated strings.
 
 ### Upcoming Release Notes
 
 - [20240901_polish.xml](release_notes/20240901_english.xml) is missing.
-
-### Credits
-
-- [addons/ExampleAddon/CustomCampaignCredits_polish.txt](addons/ExampleAddon/resource/CustomCampaignCredits_english.txt) is missing.
-- [asw_credits_polish.txt](credits/asw_credits_english.txt) is missing.
-- [biogen_corporation_credits_polish.txt](credits/biogen_corporation_credits_english.txt) is missing.
-- [credits_acc32_official_polish.txt](credits/credits_acc32_official_english.txt) is missing.
-- [credits_marine_academy_polish.txt](credits/credits_marine_academy_english.txt) is missing.
-- [credits_namhumanum_polish.txt](credits/credits_namhumanum_english.txt) is missing.
-- [deathmatch_credits_polish.txt](credits/deathmatch_credits_english.txt) is missing.
-- [rd-LanasEscapeCredits_polish.txt](credits/rd-LanasEscapeCredits_english.txt) is missing.
-- [rd-area9800Credits_polish.txt](credits/rd-area9800Credits_english.txt) is missing.
-- [rd-ocs-credits_polish.txt](credits/rd-ocs-credits_english.txt) is missing.
-- [rd-reduction_campaigncredits_polish.txt](credits/rd-reduction_campaigncredits_english.txt) is missing.
-- [rd-tarnor_credits_polish.txt](credits/rd-tarnor_credits_english.txt) is missing.
-- [rd_bonus_missions_credits_polish.txt](credits/rd_bonus_missions_credits_english.txt) is missing.
-- [rd_paranoia_credits_polish.txt](credits/rd_paranoia_credits_english.txt) is missing.
-- [rd_research7_credits_polish.txt](credits/rd_research7_credits_english.txt) is missing.
-- [tilarus5_credits_polish.txt](credits/tilarus5_credits_english.txt) is missing.
 
 ### Mail and News
 
