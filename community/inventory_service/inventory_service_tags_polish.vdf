@@ -3,10 +3,10 @@
 "Language"		"polish"
 "Tokens"
 {
-		// used to transform item names on the Steam Community. shows for items that have attached accessories, like a strange weapon with at least one strange device attached.
-		// %ITEMNAME% gets replaced with the item's default name; anything else between percent signs is replaced with a tag's name. don't translate the words between %.
-		"[english]inventory_name_format_1"		"%ITEMNAME% (Customized)"
-		"inventory_name_format_1"		"%ITEMNAME% (Customized)"
+// used to transform item names on the Steam Community. shows for items that have attached accessories, like a strange weapon with at least one strange device attached.
+// %ITEMNAME% gets replaced with the item's default name; anything else between percent signs is replaced with a tag's name. don't translate the words between %.
+"[english]inventory_name_format_1"		"%ITEMNAME% (Customized)"
+"inventory_name_format_1"		"%ITEMNAME% (Niestandardowy)"
 "[english]inventory_name_format_2"		""
 "inventory_name_format_2"		""
 "[english]inventory_name_format_3"		""
@@ -35,76 +35,76 @@
 // items that require doing something beyond just playing the game to obtain.
 "[english]inventory_rarity_legendary"		"Legendary"
 "inventory_rarity_legendary"		"Legendarny"
-		// real-money donation receipt items from the store.
-		"[english]inventory_rarity_genuine"		"Genuine"
-		"inventory_rarity_genuine"		"Genuine"
-		// items that count stats.
-		"[english]inventory_rarity_strange_rarity"		"Strange"
-		"inventory_rarity_strange_rarity"		"Strange"
-		// where an item can be equipped.
-		"[english]inventory_slot"		"Slot"
-		"inventory_slot"		"Slot"
-		"[english]inventory_slot_medal"		"Medal"
-		"inventory_slot_medal"		"Medal"
-		"[english]inventory_slot_suit"		"Suit"
-		"inventory_slot_suit"		"Suit"
-		"[english]inventory_slot_weapon"		"Weapon"
-		"inventory_slot_weapon"		"Weapon"
-		"[english]inventory_slot_equipment"		"Equipment"
-		"inventory_slot_equipment"		"Equipment"
-		// for equippable items that can only be used on one class.
-		"[english]inventory_class_restriction"		"Class Restriction"
-		"inventory_class_restriction"		"Class Restriction"
-		"[english]inventory_class_restriction_officer"		"Officer"
-		"inventory_class_restriction_officer"		"Officer"
-		"[english]inventory_class_restriction_specialweapons"		"Special Weapons"
-		"inventory_class_restriction_specialweapons"		"Special Weapons"
-		"[english]inventory_class_restriction_medic"		"Medic"
-		"inventory_class_restriction_medic"		"Medic"
-		"[english]inventory_class_restriction_tech"		"Tech"
-		"inventory_class_restriction_tech"		"Tech"
-		"[english]inventory_crafting_item"		"Crafting Item"
-		"inventory_crafting_item"		"Crafting Item"
-		"[english]inventory_crafting_item_single_use_tool"		"Single-Use Tool"
-		"inventory_crafting_item_single_use_tool"		"Single-Use Tool"
-		// common crafting materials. (100-1000 drop at a time)
-		"[english]inventory_crafting_item_ultra_common"		"Bulk Material"
-		"inventory_crafting_item_ultra_common"		"Bulk Material"
-		// common crafting materials. (1-3 drop at a time)
-		"[english]inventory_crafting_item_common_part"		"Industrial Material"
-		"inventory_crafting_item_common_part"		"Industrial Material"
-		// uncommon crafting materials.
-		"[english]inventory_crafting_item_alien_part"		"Alien Material"
-		"inventory_crafting_item_alien_part"		"Alien Material"
-		// rare crafting materials.
-		"[english]inventory_crafting_item_computer_part"		"Tech Material"
-		"inventory_crafting_item_computer_part"		"Tech Material"
-		// crafting items that can be found by playing some campaigns but not others.
-		"[english]inventory_crafting_item_regional"		"Salvaged Material"
-		"inventory_crafting_item_regional"		"Salvaged Material"
-		// crafting items that were transformed from a variant the player found into one that is more usable (eg. sorting wires, turning scraps of material into a sheet)
-		"[english]inventory_crafting_item_refined"		"Refined Material"
-		"inventory_crafting_item_refined"		"Refined Material"
-		// displayed before the list of Strange item accessories, eg. Strange Devices: Missions, Aliens Killed
-		"[english]inventory_strange"		"Strange Devices"
-		"inventory_strange"		"Strange Devices"
-		// items that are essentially receipts for donating money to someone in the community. (for the forseeable future, all items on the store will be in this category)
-		"[english]item_store_category_donations"		"Donations"
-		"item_store_category_donations"		"Donations"
-		// "postage stamps" that cost $1 (or equivalent), with the proceeds going to a mapper.
-		"[english]item_store_category_mapstamp"		"Map Stamps"
-		"item_store_category_mapstamp"		"Map Stamps"
-		// the same, but for artists.
-		"[english]item_store_category_artiststamp"		"Artists"
-		"item_store_category_artiststamp"		"Artists"
-		// the same, but for programmers.
-		"[english]item_store_category_programmerstamp"		"Programmers"
-		"item_store_category_programmerstamp"		"Programmers"
-		// the same, but for server hosts.
-		"[english]item_store_category_serverhoststamp"		"Server Hosts"
-		"item_store_category_serverhoststamp"		"Server Hosts"
-		// the same, but for translators.
-		"[english]item_store_category_translatorstamp"		"Translators"
-		"item_store_category_translatorstamp"		"Translators"
+// real-money donation receipt items from the store.
+"[english]inventory_rarity_genuine"		"Genuine"
+"inventory_rarity_genuine"		"Oryginał"
+// items that count stats.
+"[english]inventory_rarity_strange_rarity"		"Strange"
+"inventory_rarity_strange_rarity"		"Dziwny"
+// where an item can be equipped.
+"[english]inventory_slot"		"Slot"
+"inventory_slot"		"Slot"
+"[english]inventory_slot_medal"		"Medal"
+"inventory_slot_medal"		"Medal"
+"[english]inventory_slot_suit"		"Suit"
+"inventory_slot_suit"		"Strój"
+"[english]inventory_slot_weapon"		"Weapon"
+"inventory_slot_weapon"		"Broń"
+"[english]inventory_slot_equipment"		"Equipment"
+"inventory_slot_equipment"		"Wyposażenie"
+// for equippable items that can only be used on one class.
+"[english]inventory_class_restriction"		"Class Restriction"
+"inventory_class_restriction"		"Ograniczenie klasy"
+"[english]inventory_class_restriction_officer"		"Officer"
+"inventory_class_restriction_officer"		"Oficer"
+"[english]inventory_class_restriction_specialweapons"		"Special Weapons"
+"inventory_class_restriction_specialweapons"		"Specjalista"
+"[english]inventory_class_restriction_medic"		"Medic"
+"inventory_class_restriction_medic"		"Medyk"
+"[english]inventory_class_restriction_tech"		"Tech"
+"inventory_class_restriction_tech"		"Technik"
+"[english]inventory_crafting_item"		"Crafting Item"
+"inventory_crafting_item"		"Przedmiot do Wytwarzania"
+"[english]inventory_crafting_item_single_use_tool"		"Single-Use Tool"
+"inventory_crafting_item_single_use_tool"		"Narzędzie Jednego Użytku"
+// common crafting materials. (100-1000 drop at a time)
+"[english]inventory_crafting_item_ultra_common"		"Bulk Material"
+"inventory_crafting_item_ultra_common"		"Materiał Masowy"
+// common crafting materials. (1-3 drop at a time)
+"[english]inventory_crafting_item_common_part"		"Industrial Material"
+"inventory_crafting_item_common_part"		"Materiał przemysłowy"
+// uncommon crafting materials.
+"[english]inventory_crafting_item_alien_part"		"Alien Material"
+"inventory_crafting_item_alien_part"		"Materiał Obcy"
+// rare crafting materials.
+"[english]inventory_crafting_item_computer_part"		"Tech Material"
+"inventory_crafting_item_computer_part"		"Materiał technologiczny"
+// crafting items that can be found by playing some campaigns but not others.
+"[english]inventory_crafting_item_regional"		"Salvaged Material"
+"inventory_crafting_item_regional"		"Materiał z odzysku"
+// crafting items that were transformed from a variant the player found into one that is more usable (eg. sorting wires, turning scraps of material into a sheet)
+"[english]inventory_crafting_item_refined"		"Refined Material"
+"inventory_crafting_item_refined"		"Rafinowany materiał"
+// displayed before the list of Strange item accessories, eg. Strange Devices: Missions, Aliens Killed
+"[english]inventory_strange"		"Strange Devices"
+"inventory_strange"		"Dziwne urządzenia"
+// items that are essentially receipts for donating money to someone in the community. (for the forseeable future, all items on the store will be in this category)
+"[english]item_store_category_donations"		"Donations"
+"item_store_category_donations"		"Dotacje"
+// "postage stamps" that cost $1 (or equivalent), with the proceeds going to a mapper.
+"[english]item_store_category_mapstamp"		"Map Stamps"
+"item_store_category_mapstamp"		"Znaczek Mapy"
+// the same, but for artists.
+"[english]item_store_category_artiststamp"		"Artists"
+"item_store_category_artiststamp"		"Artyści"
+// the same, but for programmers.
+"[english]item_store_category_programmerstamp"		"Programmers"
+"item_store_category_programmerstamp"		"Programiści"
+// the same, but for server hosts.
+"[english]item_store_category_serverhoststamp"		"Server Hosts"
+"item_store_category_serverhoststamp"		"Hostowie Serwerów"
+// the same, but for translators.
+"[english]item_store_category_translatorstamp"		"Translators"
+"item_store_category_translatorstamp"		"Tłumacze"
 }
 }
