@@ -4155,7 +4155,7 @@
 "RD_SPEEDRUN_LAN_VENT_DESC"		"Selesaikan Ventilasi Lana dalam waktu 2:48 di tingkat kesulitan Normal atau lebih sulit tanpa ada marinir yang terbunuh."
 "[english]RD_SPEEDRUN_LAN_COMPLEX_DESC"		"Complete Lana's Complex within 4:48 on Normal difficulty or harder without any marines dying."
 "RD_SPEEDRUN_LAN_COMPLEX_DESC"		"Selesaikan Kompleks Lana dalam waktu 4:48 di tingkat kesulitan Normal atau lebih sulit tanpa ada marinir yang terbunuh."
-		"[english]RD_SPEEDRUN_PAR_UNEXPECTED_ENCOUNTER_DESC"		"Complete Unexpected Encounter within 1:05 on Normal difficulty or harder without any marines dying."
+"[english]RD_SPEEDRUN_PAR_UNEXPECTED_ENCOUNTER_DESC"		"Complete Unexpected Encounter within 1:05 on Normal difficulty or harder without any marines dying."
 "RD_SPEEDRUN_PAR_UNEXPECTED_ENCOUNTER_DESC"		"Selesaikan Pertemuan Tak Terduga dalam waktu 1:05 di tingkat kesulitan Normal atau lebih sulit tanpa ada marinir yang terbunuh."
 "[english]RD_SPEEDRUN_PAR_HOSTILE_PLACES_DESC"		"Complete Hostile Places within 1:20 on Normal difficulty or harder without any marines dying."
 "RD_SPEEDRUN_PAR_HOSTILE_PLACES_DESC"		"Selesaikan Tempat Berbahaya dalam waktu 1:20 di tingkat kesulitan Normal atau lebih sulit tanpa ada marinir yang terbunuh."
