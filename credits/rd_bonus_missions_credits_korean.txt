@@ -1,0 +1,22 @@
+"Credits"
+{
+// these keys must be in this order!
+"show_credits_logo"	"0"
+//"custom_logo"	"ExampleCustomLogo/example_custom_logo"
+"asw_credits_"	""
+"asw_credits_"	""
+"asw_credits_"	"임무 1, 우주 항구 대재앙, jhheight 제작"
+"asw_credits_"	""
+"asw_credits_"	"임무 2, 휴거, Sergei 'STALKER4732' Lavrinenco 제작"
+"asw_credits_"	""
+"asw_credits_"	"임무 3, 벙커, uradzimiru 제작"
+"asw_credits_"	""
+"asw_credits_"	"임무 4, 오프라인 연습, Valve 제작"
+"asw_credits_"	""
+"asw_credits_"	"임무 5, 적대적 환경, Eclipse 제작"
+"asw_credits_"	""
+"asw_credits_"	"임무 6, 고조된 긴장, Eclipse 제작"
+"asw_credits_"	""
+"asw_credits_"	"임무n 7, 발전소, Arjen de Graaf 제작"
+"asw_credits_"	""
+}

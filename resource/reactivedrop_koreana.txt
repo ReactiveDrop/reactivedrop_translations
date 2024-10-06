@@ -7634,7 +7634,7 @@
 "[english]rd_campaign_desc_rd_adanxis"		""
 "rd_campaign_desc_rd_adanxis"		""
 "[english]rd_campaign_name_rd_biogen_corporation"		"BioGen Corporation"
-"rd_campaign_name_rd_biogen_corporation"		"바이오젠 기업"
+"rd_campaign_name_rd_biogen_corporation"		"바이오젠 공업"
 "[english]rd_campaign_desc_rd_biogen_corporation"		"Stop the swarm infestation on the New Earth."
 "rd_campaign_desc_rd_biogen_corporation"		"신 지구의 감염을 막으십시오."
 "[english]rd_campaign_name_tilarus5"		"Tilarus-5"
