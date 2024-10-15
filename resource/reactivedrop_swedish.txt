@@ -7571,8 +7571,8 @@
 		"bon5_documents_debrief3"		"And especially pay attention to these creatures, they can go out anywhere in an environment like this."
 
 // Bonus Mission 6 strings
-"[english]bon6_crucidalpoint_debrief"		"What happened... ? What was that... ? Comrads, where... where are you ? *vertiges* uh... *tombe dans les pommes*"
-"bon6_crucidalpoint_debrief"		"Vad hände... ? Vad var det... ? Kamrater, var... vart är ni ? *vertiges* uh... *tombe dans les pommes*"
+"[english]bon6_crucidalpoint_debrief"		"What happened... ? What was that... ? Comrads, where... where are you ? *dizziness* uh... *blacks out*"
+"bon6_crucidalpoint_debrief"		"Vad hände... ? Vad var det... ? Kamrater, var... vart är ni ? *dizziness* uh... *blacks out*"
 
 // Bonus Mission 7 strings
 "[english]bon7_area9800PP2_debrief"		"Well done, team!"

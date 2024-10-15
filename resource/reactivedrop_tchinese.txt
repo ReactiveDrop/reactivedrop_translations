@@ -7570,7 +7570,7 @@
 "bon5_documents_debrief3"		"然後得特別小心這些生物，在這種環境下它們能夠從任何地方出現。"
 
 // Bonus Mission 6 strings
-"[english]bon6_crucidalpoint_debrief"		"What happened... ? What was that... ? Comrads, where... where are you ? *vertiges* uh... *tombe dans les pommes*"
+"[english]bon6_crucidalpoint_debrief"		"What happened... ? What was that... ? Comrads, where... where are you ? *dizziness* uh... *blacks out*"
 "bon6_crucidalpoint_debrief"		"發生了甚麼事... ? 剛剛怎麼了... ? 同志, 你在哪裡... ? *暈眩* 痾... *昏倒*"
 
 // Bonus Mission 7 strings

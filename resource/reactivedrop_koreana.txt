@@ -7569,9 +7569,9 @@
 "[english]bon5_documents_debrief3"		"And especially pay attention to these creatures, they can go out anywhere in an environment like this."
 "bon5_documents_debrief3"		"특히 이 괴물들을 주의하십시오. 이런 환경이라도 놈들은 어디서든 나타납니다."
 
-// Bonus Mission 6 strings
-"[english]bon6_crucidalpoint_debrief"		"What happened... ? What was that... ? Comrads, where... where are you ? *vertiges* uh... *tombe dans les pommes*"
-"bon6_crucidalpoint_debrief"		"무슨 일이지... ? 그건 뭐야... ? 다들, 지금... 지금 어디 있죠 ? *현기증* 어... *의식 불명*"
+		// Bonus Mission 6 strings
+"[english]bon6_crucidalpoint_debrief"		"What happened... ? What was that... ? Comrads, where... where are you ? *dizziness* uh... *blacks out*"
+"bon6_crucidalpoint_debrief"		"무슨 일이지... ? 그건 뭐야... ? 다들, 지금... 지금 어디 있죠 ? *어지러움* 어... *필름 끊김*"
 
 // Bonus Mission 7 strings
 "[english]bon7_area9800PP2_debrief"		"Well done, team!"
