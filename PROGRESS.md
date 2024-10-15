@@ -1,28 +1,28 @@
 # Overview
 | Language | basemodui | closecaption | gameui | reactivedrop | items | statsweb | Strings | Files |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | ✔️ | ✔️ | 2 | ✔️ | ✔️ | 1 |
-| [Traditional Chinese](#tchinese-繁體中文) | 14 | 141 | 34 | 3094 | 265 | 212 | 239 | 146 |
+| [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
+| [Traditional Chinese](#tchinese-繁體中文) | ✔️ | 141 | ✔️ | 92 | ✔️ | ✔️ | ✔️ | 126 |
 | [Czech](#czech-čeština) | 76 | 1810 | 43 | 4233 | 271 | 212 | 983 | 146 |
 | [Danish](#non-curated-languages) | 57 | 231 | 43 | 3760 | 271 | 212 | 713 | 147 |
 | [Dutch](#non-curated-languages) | 56 | 2004 | 43 | 3228 | 271 | 212 | 713 | 146 |
 | [Finnish](#non-curated-languages) | 1 | 2004 | 42 | 3090 | 214 | 152 | 699 | 146 |
 | [French](#french-français) | 32 | 138 | 43 | 2594 | 270 | 212 | 653 | 125 |
-| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | 2 | ✔️ | ✔️ | 1 |
+| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Hungarian](#non-curated-languages) | 56 | 138 | 43 | 3228 | 271 | 212 | 978 | 147 |
-| [Indonesian](#indonesian-indonesia) | 1286 | 2004 | 635 | 4740 | 274 | 216 | 983 | 147 |
-| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | 2 | ✔️ | ✔️ | 1 |
-| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | ✔️ | 2 | ✔️ | 35 | 1 |
-| [Korean](#koreana-한국어) | ✔️ | ✔️ | ✔️ | 796 | 2 | ✔️ | 342 | 48 |
+| [Indonesian](#indonesian-indonesia) | 1286 | 2004 | 635 | 4244 | 274 | 216 | 983 | 147 |
+| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
+| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 35 | ✔️ |
+| [Korean](#koreana-한국어) | ✔️ | ✔️ | ✔️ | 67 | ✔️ | ✔️ | 5 | 46 |
 | [Norwegian Bokmål](#non-curated-languages) | 74 | 708 | 48 | 3934 | 271 | 212 | 713 | 147 |
-| [Polish](#polish-polski) | 33 | 2004 | 43 | 3230 | 271 | 212 | 709 | 143 |
+| [Polish](#polish-polski) | 2 | 2004 | ✔️ | 2872 | ✔️ | ✔️ | 134 | 126 |
 | [European Portuguese](#portuguese-português-europeu) | 5 | 180 | 33 | 2318 | 251 | 33 | 633 | 141 |
-| [Brazilian Portuguese](#brazilian-português) | 1 | ✔️ | ✔️ | 1488 | 13 | 3 | 1 | 2 |
+| [Brazilian Portuguese](#brazilian-português) | 1 | ✔️ | ✔️ | 855 | 13 | 3 | 1 | 2 |
 | [Romanian](#non-curated-languages) | 56 | 1996 | 49 | 3940 | 271 | 212 | 978 | 147 |
-| [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | ✔️ | 2 | ✔️ | ✔️ | 1 |
+| [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [European Spanish](#spanish-español-de-españa) | 33 | 2004 | 41 | 2645 | 271 | 212 | 717 | 146 |
 | [Latin American Spanish](#latam-español-latinoamericano) | 1 | 2004 | ✔️ | 4280 | 19 | 3 | 204 | 142 |
-| [Swedish](#swedish-svenska) | ✔️ | ✔️ | ✔️ | 877 | 2 | ✔️ | ✔️ | 87 |
+| [Swedish](#swedish-svenska) | ✔️ | ✔️ | ✔️ | 550 | ✔️ | ✔️ | ✔️ | 82 |
 | [Thai](#non-curated-languages) | 971 | 1993 | 51 | 4476 | 271 | 212 | 742 | 147 |
 | [Turkish](#non-curated-languages) | 56 | 137 | 43 | 3228 | 271 | 212 | 978 | 147 |
 | [Ukrainian](#ukrainian-українська) | 32 | 131 | 33 | 2773 | 271 | 212 | 936 | 146 |
@@ -41,13 +41,7 @@
 
 </summary>
 
-### Strings
-
-- [items_schinese.vdf](community/inventory_service/items_schinese.vdf) has 2 untranslated strings.
-
-### Upcoming Release Notes
-
-- [20240901_schinese.xml](release_notes/20240901_english.xml) is missing.
+✓ Up to date!
 
 </details>
 
@@ -59,48 +53,12 @@
 
 ### Strings
 
-- [addons/ExampleAddon/reactivedrop_tchinese.txt](addons/ExampleAddon/resource/reactivedrop_tchinese.txt) has 39 untranslated strings.
-- [inventory_service_tags_tchinese.vdf](community/inventory_service/inventory_service_tags_tchinese.vdf) has 22 untranslated strings.
-- [items_tchinese.vdf](community/inventory_service/items_tchinese.vdf) has 265 untranslated strings.
-- [statsweb_tchinese.vdf](community/stats_website/statsweb_tchinese.vdf) has 212 untranslated strings.
-- [steam_input_tchinese.vdf](community/steam_input/steam_input_tchinese.vdf) has 97 untranslated strings.
-- [workshop_description_tchinese.vdf](community/workshop/workshop_description_tchinese.vdf) has 6 untranslated strings.
-- [misc/signage/signage_tchinese.vdf](misc/signage/signage_tchinese.vdf) has 69 untranslated strings.
-- [basemodui_tchinese.txt](resource/basemodui_tchinese.txt) has 14 untranslated strings.
 - [closecaption_tchinese.txt](resource/closecaption_tchinese.txt) has 141 untranslated strings.
-- [gameui_tchinese.txt](resource/gameui_tchinese.txt) has 34 untranslated strings.
-- [reactivedrop_tchinese.txt](resource/reactivedrop_tchinese.txt) has 3094 untranslated strings.
-- [valve_tchinese.txt](resource/valve_tchinese.txt) has 6 untranslated strings.
-
-### Steam Store and Community
-
-- [eula_tchinese.txt](community/eula/eula_english.txt) is missing.
-- [app_items_563560_tchinese.json](community/points_shop/app_items_563560_english.json) is missing.
-- [workshop_tags_tchinese.json](community/workshop/workshop_tags_english.json) is missing.
-- [content_warning_563560_tchinese.txt](store_page/content_warning_563560_english.txt) is missing.
-- [storepage_81731_tchinese.json](store_page/storepage_81731_tchinese.json) has 6 indented lines.
+- [reactivedrop_tchinese.txt](resource/reactivedrop_tchinese.txt) has 92 untranslated strings.
 
 ### Upcoming Release Notes
 
 - [20240901_tchinese.xml](release_notes/20240901_english.xml) is missing.
-
-### Credits
-
-- [asw_credits_tchinese.txt](credits/asw_credits_english.txt) is missing.
-- [biogen_corporation_credits_tchinese.txt](credits/biogen_corporation_credits_english.txt) is missing.
-- [credits_acc32_official_tchinese.txt](credits/credits_acc32_official_english.txt) is missing.
-- [credits_marine_academy_tchinese.txt](credits/credits_marine_academy_english.txt) is missing.
-- [credits_namhumanum_tchinese.txt](credits/credits_namhumanum_english.txt) is missing.
-- [deathmatch_credits_tchinese.txt](credits/deathmatch_credits_english.txt) is missing.
-- [rd-LanasEscapeCredits_tchinese.txt](credits/rd-LanasEscapeCredits_english.txt) is missing.
-- [rd-area9800Credits_tchinese.txt](credits/rd-area9800Credits_english.txt) is missing.
-- [rd-ocs-credits_tchinese.txt](credits/rd-ocs-credits_english.txt) is missing.
-- [rd-reduction_campaigncredits_tchinese.txt](credits/rd-reduction_campaigncredits_english.txt) is missing.
-- [rd-tarnor_credits_tchinese.txt](credits/rd-tarnor_credits_english.txt) is missing.
-- [rd_bonus_missions_credits_tchinese.txt](credits/rd_bonus_missions_credits_english.txt) is missing.
-- [rd_paranoia_credits_tchinese.txt](credits/rd_paranoia_credits_english.txt) is missing.
-- [rd_research7_credits_tchinese.txt](credits/rd_research7_credits_english.txt) is missing.
-- [tilarus5_credits_tchinese.txt](credits/tilarus5_credits_english.txt) is missing.
 
 ### Mail and News
 
@@ -586,13 +544,7 @@
 
 </summary>
 
-### Strings
-
-- [items_german.vdf](community/inventory_service/items_german.vdf) has 2 untranslated strings.
-
-### Upcoming Release Notes
-
-- [20240901_german.xml](release_notes/20240901_english.xml) is missing.
+✓ Up to date!
 
 </details>
 
@@ -618,7 +570,7 @@
 - [chat_indonesian.txt](resource/chat_indonesian.txt) has 8 untranslated strings.
 - [closecaption_indonesian.txt](resource/closecaption_indonesian.txt) has 2004 untranslated strings.
 - [gameui_indonesian.txt](resource/gameui_indonesian.txt) has 635 untranslated strings.
-- [reactivedrop_indonesian.txt](resource/reactivedrop_indonesian.txt) has 4740 untranslated strings.
+- [reactivedrop_indonesian.txt](resource/reactivedrop_indonesian.txt) has 4244 untranslated strings.
 - [valve_indonesian.txt](resource/valve_indonesian.txt) has 266 untranslated strings.
 
 ### Steam Store and Community
@@ -788,13 +740,7 @@
 
 </summary>
 
-### Strings
-
-- [items_italian.vdf](community/inventory_service/items_italian.vdf) has 2 untranslated strings.
-
-### Upcoming Release Notes
-
-- [20240901_italian.xml](release_notes/20240901_english.xml) is missing.
+✓ Up to date!
 
 </details>
 
@@ -806,12 +752,7 @@
 
 ### Strings
 
-- [items_japanese.vdf](community/inventory_service/items_japanese.vdf) has 2 untranslated strings.
 - [platform/vgui_japanese.txt](platform/vgui_japanese.txt) has 35 untranslated strings.
-
-### Upcoming Release Notes
-
-- [20240901_japanese.xml](release_notes/20240901_english.xml) is missing.
 
 </details>
 
@@ -823,19 +764,12 @@
 
 ### Strings
 
-- [addons/RiskOfRain/reactivedrop_koreana.txt](addons/RiskOfRain/resource/reactivedrop_koreana.txt) has 95 untranslated strings.
-- [items_koreana.vdf](community/inventory_service/items_koreana.vdf) has 2 untranslated strings.
-- [steam_input_koreana.vdf](community/steam_input/steam_input_koreana.vdf) has 24 untranslated strings.
-- [misc/signage/signage_koreana.vdf](misc/signage/signage_koreana.vdf) has 69 untranslated strings.
-- [platform/vgui_koreana.txt](platform/vgui_koreana.txt) has 58 untranslated strings.
-- [reactivedrop_koreana.txt](resource/reactivedrop_koreana.txt) has 796 untranslated strings.
-- [valve_koreana.txt](resource/valve_koreana.txt) has 96 untranslated strings.
+- [platform/vgui_koreana.txt](platform/vgui_koreana.txt) has 5 untranslated strings.
+- [reactivedrop_koreana.txt](resource/reactivedrop_koreana.txt) has 67 untranslated strings.
 
 ### Steam Store and Community
 
-- [workshop_tags_koreana.json](community/workshop/workshop_tags_english.json) is missing.
 - [content_warning_563560_koreana.txt](store_page/content_warning_563560_english.txt) is missing.
-- [storepage_81731_koreana.json](store_page/storepage_81731_koreana.json) has 6 indented lines.
 
 ### Upcoming Release Notes
 
@@ -901,49 +835,15 @@
 
 ### Strings
 
-- [addons/ExampleAddon/reactivedrop_polish.txt](addons/ExampleAddon/resource/reactivedrop_polish.txt) has 39 untranslated strings.
-- [addons/RiskOfRain/reactivedrop_polish.txt](addons/RiskOfRain/resource/reactivedrop_polish.txt) has 95 untranslated strings.
-- [inventory_service_tags_polish.vdf](community/inventory_service/inventory_service_tags_polish.vdf) has 28 untranslated strings.
-- [items_polish.vdf](community/inventory_service/items_polish.vdf) has 271 untranslated strings.
-- [statsweb_polish.vdf](community/stats_website/statsweb_polish.vdf) has 212 untranslated strings.
-- [steam_input_polish.vdf](community/steam_input/steam_input_polish.vdf) has 97 untranslated strings.
-- [workshop_description_polish.vdf](community/workshop/workshop_description_polish.vdf) has 2 untranslated strings.
 - [misc/signage/signage_polish.vdf](misc/signage/signage_polish.vdf) has 69 untranslated strings.
-- [platform/servers/serverbrowser_polish.txt](platform/servers/serverbrowser_polish.txt) has 24 untranslated strings.
-- [platform/vgui_polish.txt](platform/vgui_polish.txt) has 81 untranslated strings.
-- [basemodui_polish.txt](resource/basemodui_polish.txt) has 33 untranslated strings.
-- [chat_polish.txt](resource/chat_polish.txt) has 8 untranslated strings.
+- [platform/vgui_polish.txt](platform/vgui_polish.txt) has 65 untranslated strings.
+- [basemodui_polish.txt](resource/basemodui_polish.txt) has 2 untranslated strings.
 - [closecaption_polish.txt](resource/closecaption_polish.txt) has 2004 untranslated strings.
-- [gameui_polish.txt](resource/gameui_polish.txt) has 43 untranslated strings.
-- [reactivedrop_polish.txt](resource/reactivedrop_polish.txt) has 3230 untranslated strings.
-- [valve_polish.txt](resource/valve_polish.txt) has 266 untranslated strings.
-
-### Steam Store and Community
-
-- [workshop_tags_polish.json](community/workshop/workshop_tags_polish.json) has 1 indented lines.
+- [reactivedrop_polish.txt](resource/reactivedrop_polish.txt) has 2872 untranslated strings.
 
 ### Upcoming Release Notes
 
 - [20240901_polish.xml](release_notes/20240901_english.xml) is missing.
-
-### Credits
-
-- [addons/ExampleAddon/CustomCampaignCredits_polish.txt](addons/ExampleAddon/resource/CustomCampaignCredits_english.txt) is missing.
-- [asw_credits_polish.txt](credits/asw_credits_english.txt) is missing.
-- [biogen_corporation_credits_polish.txt](credits/biogen_corporation_credits_english.txt) is missing.
-- [credits_acc32_official_polish.txt](credits/credits_acc32_official_english.txt) is missing.
-- [credits_marine_academy_polish.txt](credits/credits_marine_academy_english.txt) is missing.
-- [credits_namhumanum_polish.txt](credits/credits_namhumanum_english.txt) is missing.
-- [deathmatch_credits_polish.txt](credits/deathmatch_credits_english.txt) is missing.
-- [rd-LanasEscapeCredits_polish.txt](credits/rd-LanasEscapeCredits_english.txt) is missing.
-- [rd-area9800Credits_polish.txt](credits/rd-area9800Credits_english.txt) is missing.
-- [rd-ocs-credits_polish.txt](credits/rd-ocs-credits_english.txt) is missing.
-- [rd-reduction_campaigncredits_polish.txt](credits/rd-reduction_campaigncredits_english.txt) is missing.
-- [rd-tarnor_credits_polish.txt](credits/rd-tarnor_credits_english.txt) is missing.
-- [rd_bonus_missions_credits_polish.txt](credits/rd_bonus_missions_credits_english.txt) is missing.
-- [rd_paranoia_credits_polish.txt](credits/rd_paranoia_credits_english.txt) is missing.
-- [rd_research7_credits_polish.txt](credits/rd_research7_credits_english.txt) is missing.
-- [tilarus5_credits_polish.txt](credits/tilarus5_credits_english.txt) is missing.
 
 ### Mail and News
 
@@ -1265,7 +1165,7 @@
 - [items_brazilian.vdf](community/inventory_service/items_brazilian.vdf) has 13 untranslated strings.
 - [statsweb_brazilian.vdf](community/stats_website/statsweb_brazilian.vdf) has 3 untranslated strings.
 - [basemodui_brazilian.txt](resource/basemodui_brazilian.txt) has 1 untranslated strings.
-- [reactivedrop_brazilian.txt](resource/reactivedrop_brazilian.txt) has 1488 untranslated strings.
+- [reactivedrop_brazilian.txt](resource/reactivedrop_brazilian.txt) has 855 untranslated strings.
 
 ### Steam Store and Community
 
@@ -1283,13 +1183,7 @@
 
 </summary>
 
-### Strings
-
-- [items_russian.vdf](community/inventory_service/items_russian.vdf) has 2 untranslated strings.
-
-### Upcoming Release Notes
-
-- [20240901_russian.xml](release_notes/20240901_english.xml) is missing.
+✓ Up to date!
 
 </details>
 
@@ -1656,8 +1550,7 @@
 
 ### Strings
 
-- [items_swedish.vdf](community/inventory_service/items_swedish.vdf) has 2 untranslated strings.
-- [reactivedrop_swedish.txt](resource/reactivedrop_swedish.txt) has 877 untranslated strings.
+- [reactivedrop_swedish.txt](resource/reactivedrop_swedish.txt) has 550 untranslated strings.
 
 ### Upcoming Release Notes
 
@@ -1675,7 +1568,6 @@
 - [mail/acc_power1_swedish.txt](resource/mail/acc_power1_english.txt) is missing.
 - [mail/acc_power2_swedish.txt](resource/mail/acc_power2_english.txt) is missing.
 - [mail/acc_power3_swedish.txt](resource/mail/acc_power3_english.txt) is missing.
-- [mail/acc_research1_swedish.txt](resource/mail/acc_research1_english.txt) is missing.
 - [mail/acc_research2_swedish.txt](resource/mail/acc_research2_english.txt) is missing.
 - [mail/acc_research3_swedish.txt](resource/mail/acc_research3_english.txt) is missing.
 - [mail/labsmail2_swedish.txt](resource/mail/labsmail2_english.txt) is missing.
@@ -1714,7 +1606,6 @@
 - [mail/queenlairmail2_swedish.txt](resource/mail/queenlairmail2_english.txt) is missing.
 - [mail/rd-benson_swedish.txt](resource/mail/rd-benson_english.txt) is missing.
 - [mail/rd-cave_geologist1_swedish.txt](resource/mail/rd-cave_geologist1_english.txt) is missing.
-- [mail/rd-lan-pda1_swedish.txt](resource/mail/rd-lan-pda1_english.txt) is missing.
 - [mail/rd-lan-pda2_swedish.txt](resource/mail/rd-lan-pda2_english.txt) is missing.
 - [mail/rd-lan-pda3_swedish.txt](resource/mail/rd-lan-pda3_english.txt) is missing.
 - [mail/rd-lan-pda4_swedish.txt](resource/mail/rd-lan-pda4_english.txt) is missing.
@@ -1736,9 +1627,6 @@
 - [mail/tilarus01port_craigsthingpda_swedish.txt](resource/mail/tilarus01port_craigsthingpda_english.txt) is missing.
 - [mail/tilarus03arctic_mail2_swedish.txt](resource/mail/tilarus03arctic_mail2_english.txt) is missing.
 - [mail/tilarus03arctic_mail4_swedish.txt](resource/mail/tilarus03arctic_mail4_english.txt) is missing.
-- [mail/tutorialmail1_swedish.txt](resource/mail/tutorialmail1_english.txt) is missing.
-- [mail/tutorialmail2_swedish.txt](resource/mail/tutorialmail2_english.txt) is missing.
-- [mail/tutorialmail3_swedish.txt](resource/mail/tutorialmail3_english.txt) is missing.
 - [news/antheonmissingnews_swedish.txt](resource/news/antheonmissingnews_english.txt) is missing.
 - [news/antheonmoonnews_swedish.txt](resource/news/antheonmoonnews_english.txt) is missing.
 - [news/brainnews_swedish.txt](resource/news/brainnews_english.txt) is missing.

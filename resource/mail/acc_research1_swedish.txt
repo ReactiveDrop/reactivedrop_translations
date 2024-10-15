@@ -1,0 +1,14 @@
+GAME
+{
+// PDA belongs to Kate Larson
+
+// Sent
+
+"MailFrom1"	"Till: Brad Irwing"
+"MailDate1"	"Datum: 04/02/31"
+"MailSubject1"	"Ämne: SVARA MIG! &DOLD"
+"MailBody1A"	"Varför flydde du? Vad hände? BERÄTTA FÖR MIG! Du märker väl att du inte kan göra det? Capt. Bark och Head Doc. letar för dig och de är inte glada. Head Doc. svarar aggressivt på mitt ifrågasättande, kanske han döljer något? Egentligen beter sig alla konstigt."
+"MailBody1B"	"Du sprang iväg efter ditt experiment i mars, vad upptäckte du? Jag är orolig. Jag hoppas att du inte planerar att berätta för allmänheten eller ännu värre, regeringen, om vår anläggnings hemligheter. Denna information skulle orsaka en massiv anarki över hela världen. Löjtnant Wanman och General Schmitz skulle vara i djupa problem och ansvarig för att orsaka en internationell skandal."
+"MailBody1C"	"P.S: Var är Retller? Jag kan inte hitta honom, han kanske kan ge mig lite information? Jag vet att ni två är bra kollegor sedan barndomen."
+"MailBody1D"	"Kate"
+}

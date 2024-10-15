@@ -161,73 +161,73 @@
 "[english]Button_Ability4"		"Ability 4"
 "Button_Ability4"		"능력 4"
 
-		// Note: currently (to my knowledge) only MenuConfirm, MenuBack, MenuSpecial1, MenuSpecial2, MenuL1, MenuL2,
-		// and the directional buttons (which act identically in all three sets on most screens) are used in-game.
-		//
-		// A or Cross button
-		"[english]Button_MenuConfirm"		"Menu Confirm"
-		"Button_MenuConfirm"		"Menu Confirm"
-		// B or Circle button
-		"[english]Button_MenuBack"		"Menu Back"
-		"Button_MenuBack"		"Menu Back"
-		// X or Square button
-		"[english]Button_MenuSpecial1"		"Menu Special 1"
-		"Button_MenuSpecial1"		"Menu Special 1"
-		// Y or Triangle button
-		"[english]Button_MenuSpecial2"		"Menu Special 2"
-		"Button_MenuSpecial2"		"Menu Special 2"
+// Note: currently (to my knowledge) only MenuConfirm, MenuBack, MenuSpecial1, MenuSpecial2, MenuL1, MenuL2,
+// and the directional buttons (which act identically in all three sets on most screens) are used in-game.
+//
+// A or Cross button
+"[english]Button_MenuConfirm"		"Menu Confirm"
+"Button_MenuConfirm"		"메뉴: 확인"
+// B or Circle button
+"[english]Button_MenuBack"		"Menu Back"
+"Button_MenuBack"		"메뉴: 뒤로가기"
+// X or Square button
+"[english]Button_MenuSpecial1"		"Menu Special 1"
+"Button_MenuSpecial1"		"메뉴: 특수 1"
+// Y or Triangle button
+"[english]Button_MenuSpecial2"		"Menu Special 2"
+"Button_MenuSpecial2"		"메뉴: 특수 2"
 
-		// Left shoulder button
-		"[english]Button_MenuL1"		"Menu L1"
-		"Button_MenuL1"		"Menu L1"
-		// Right shoulder button
-		"[english]Button_MenuR1"		"Menu R1"
-		"Button_MenuR1"		"Menu R1"
-		// Left trigger
-		"[english]Button_MenuL2"		"Menu L2"
-		"Button_MenuL2"		"Menu L2"
-		// Right trigger
-		"[english]Button_MenuR2"		"Menu R2"
-		"Button_MenuR2"		"Menu R2"
-		// Left stick click
-		"[english]Button_MenuL3"		"Menu L3"
-		"Button_MenuL3"		"Menu L3"
-		// Right stick click
-		"[english]Button_MenuR3"		"Menu R3"
-		"Button_MenuR3"		"Menu R3"
-		// Select, View, Back, or Share button
-		"[english]Button_MenuSelect"		"Menu Select"
-		"Button_MenuSelect"		"Menu Select"
-		// Start, Menu, or Options button
-		"[english]Button_MenuStart"		"Menu Start"
-		"Button_MenuStart"		"Menu Start"
+// Left shoulder button
+"[english]Button_MenuL1"		"Menu L1"
+"Button_MenuL1"		"메뉴: L1"
+// Right shoulder button
+"[english]Button_MenuR1"		"Menu R1"
+"Button_MenuR1"		"메뉴: R1"
+// Left trigger
+"[english]Button_MenuL2"		"Menu L2"
+"Button_MenuL2"		"메뉴: L2"
+// Right trigger
+"[english]Button_MenuR2"		"Menu R2"
+"Button_MenuR2"		"메뉴: R2"
+// Left stick click
+"[english]Button_MenuL3"		"Menu L3"
+"Button_MenuL3"		"메뉴: L3"
+// Right stick click
+"[english]Button_MenuR3"		"Menu R3"
+"Button_MenuR3"		"메뉴: R3"
+// Select, View, Back, or Share button
+"[english]Button_MenuSelect"		"Menu Select"
+"Button_MenuSelect"		"메뉴: 선택"
+// Start, Menu, or Options button
+"[english]Button_MenuStart"		"Menu Start"
+"Button_MenuStart"		"메뉴: 시작"
 
-		"[english]Button_MenuLeft"		"Menu D-Pad Left"
-		"Button_MenuLeft"		"Menu D-Pad Left"
-		"[english]Button_MenuRight"		"Menu D-Pad Right"
-		"Button_MenuRight"		"Menu D-Pad Right"
-		"[english]Button_MenuUp"		"Menu D-Pad Up"
-		"Button_MenuUp"		"Menu D-Pad Up"
-		"[english]Button_MenuDown"		"Menu D-Pad Down"
-		"Button_MenuDown"		"Menu D-Pad Down"
+"[english]Button_MenuLeft"		"Menu D-Pad Left"
+"Button_MenuLeft"		"메뉴: 왼쪽 십자 패드"
+"[english]Button_MenuRight"		"Menu D-Pad Right"
+"Button_MenuRight"		"메뉴: 오른쪽 십자 패드"
+"[english]Button_MenuUp"		"Menu D-Pad Up"
+"Button_MenuUp"		"메뉴: 상단 십자 패드"
+"[english]Button_MenuDown"		"Menu D-Pad Down"
+"Button_MenuDown"		"메뉴: 하단 십자 패드"
 
-		"[english]Button_MenuLeftStickLeft"		"Menu L Stick Left"
-		"Button_MenuLeftStickLeft"		"Menu L Stick Left"
-		"[english]Button_MenuLeftStickRight"		"Menu L Stick Right"
-		"Button_MenuLeftStickRight"		"Menu L Stick Right"
-		"[english]Button_MenuLeftStickUp"		"Menu L Stick Up"
-		"Button_MenuLeftStickUp"		"Menu L Stick Up"
-		"[english]Button_MenuLeftStickDown"		"Menu L Stick Down"
-		"Button_MenuLeftStickDown"		"Menu L Stick Down"
+"[english]Button_MenuLeftStickLeft"		"Menu L Stick Left"
+"Button_MenuLeftStickLeft"		"메뉴: 왼쪽 L 스틱"
+"[english]Button_MenuLeftStickRight"		"Menu L Stick Right"
+"Button_MenuLeftStickRight"		"메뉴: 오른쪽 L 스틱"
+"[english]Button_MenuLeftStickUp"		"Menu L Stick Up"
+"Button_MenuLeftStickUp"		"메뉴: 상단 L 스틱"
+"[english]Button_MenuLeftStickDown"		"Menu L Stick Down"
+"Button_MenuLeftStickDown"		"메뉴: 하단 L 스틱"
 
-		"[english]Button_MenuRightStickLeft"		"Menu R Stick Left"
-		"Button_MenuRightStickLeft"		"Menu R Stick Left"
-		"[english]Button_MenuRightStickRight"		"Menu R Stick Right"
-		"Button_MenuRightStickRight"		"Menu R Stick Right"
-		"[english]Button_MenuRightStickUp"		"Menu R Stick Up"
-		"Button_MenuRightStickUp"		"Menu R Stick Up"
-		"[english]Button_MenuRightStickDown"		"Menu R Stick Down"
-		"Button_MenuRightStickDown"		"Menu R Stick Down"
+"[english]Button_MenuRightStickLeft"		"Menu R Stick Left"
+"Button_MenuRightStickLeft"		"메뉴: 왼쪽 R 스틱"
+"[english]Button_MenuRightStickRight"		"Menu R Stick Right"
+"Button_MenuRightStickRight"		"메뉴: 오른쪽 R 스틱"
+"[english]Button_MenuRightStickUp"		"Menu R Stick Up"
+"Button_MenuRightStickUp"		"메뉴: 상단 R 스틱"
+"[english]Button_MenuRightStickDown"		"Menu R Stick Down"
+"Button_MenuRightStickDown"		"메뉴: 하단 R 스틱"
 
 "[english]InputConfigTitle_Generic"		"AS:RD Default"
 "InputConfigTitle_Generic"		"AS:RD 기본값"

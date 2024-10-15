@@ -1,0 +1,18 @@
+"Credits"
+{
+// these keys must be in this order!
+"show_credits_logo"	"0"
+//"custom_logo"	"ExampleCustomLogo/example_custom_logo"
+"asw_credits_"	"Will 'Issus' Rogers"
+"asw_credits_"	""
+"asw_credits_"	"有任何錯誤請回報到信箱:"
+"asw_credits_"	"wnrvids@hotmail.co.uk"
+"asw_credits_"	"請在主旨中寫上RC7 "
+"asw_credits_"	""
+"asw_credits_"	"感謝 Alan, Jamie, and Matt"
+"asw_credits_"	"for their help during testing." 
+"asw_credits_"	"感謝steam論壇的成員們"
+"asw_credits_"	"的付出還有努力。"
+"asw_credits_"	"以及感謝 VALVe 和 Black Cat"
+"asw_credits_"	"所製作的 Alien Swarm 和歡樂!"
+}

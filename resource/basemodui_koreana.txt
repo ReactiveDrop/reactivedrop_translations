@@ -1063,7 +1063,7 @@
 "L4D360UI_Lobby_Become_Leader"		"%s1 님이 현재 로비 리더입니다."
 
 "[english]L4D360UI_Lobby_Access_Changed_Public"		"Game is now public."
-"L4D360UI_Lobby_Access_Changed_Public"		"게임은 현재 공중용 입니다."
+"L4D360UI_Lobby_Access_Changed_Public"		"게임은 현재 전체 공개용 입니다."
 "[english]L4D360UI_Lobby_Access_Changed_Friends"		"Game is now friends-only."
 "L4D360UI_Lobby_Access_Changed_Friends"		"게임은 현재 친구전용 입니다."
 "[english]L4D360UI_Lobby_Access_Changed_Private"		"Game is now private."

@@ -25,6 +25,7 @@ var (
 	flagInputManifest = flag.Bool("input-manifest", false, "compile the steam input manifest")
 	flagRender        = flag.Bool("render", false, "render derived files (except the steam input manifest)")
 	flagOnlyUpdate    = flag.Bool("only-update", false, "only update source strings; do not reset differing translations")
+	flagFixBOMOnly    = flag.Bool("fix-bom-only", false, "only add UTF-8 byte order marks to files that need them; make no other changes or checks")
 )
 
 func main() {
@@ -38,6 +39,26 @@ func main() {
 
 	if *flagInputManifest {
 		compileSteamInputManifest()
+
+		return
+	}
+
+	if *flagFixBOMOnly {
+		for _, prefix := range txtLanguageFiles {
+			fixBOM(prefix, ".txt")
+		}
+		for _, prefix := range vdfLanguageFiles {
+			fixBOM(prefix, ".vdf")
+		}
+		for _, prefix := range txtAddonLanguageFiles {
+			addonFiles, err := filepath.Glob(prefix + "_" + sourceLanguage + ".txt")
+			if err != nil {
+				panic(err)
+			}
+			for _, file := range addonFiles {
+				fixBOM(strings.TrimSuffix(file, "_"+sourceLanguage+".txt"), ".txt")
+			}
+		}
 
 		return
 	}
@@ -142,6 +163,39 @@ func readBOM(r io.Reader) error {
 	}
 
 	return nil
+}
+
+func fixBOM(prefix, suffix string) {
+	checkBOM(prefix + "_" + sourceLanguage + suffix)
+
+	for _, lang := range derivedLanguages {
+		if emptyLanguages[lang] {
+			continue
+		}
+
+		checkBOM(prefix + "_" + lang + suffix)
+	}
+}
+
+var utf8BOM = [3]byte{0xEF, 0xBB, 0xBF}
+
+func checkBOM(name string) {
+	b, err := os.ReadFile(name)
+	if err != nil {
+		panic(err)
+	}
+
+	if !utf8.ValidString(string(b)) {
+		panic("File " + name + " is not valid UTF-8!")
+	}
+
+	if !bytes.HasPrefix(b, utf8BOM[:]) {
+		fmt.Printf("Adding missing byte order mark to file %q\n", name)
+		err = os.WriteFile(name, append(append([]byte(nil), utf8BOM[:]...), b...), 0644)
+		if err != nil {
+			panic(err)
+		}
+	}
 }
 
 var everSeenString = make(map[string]bool)

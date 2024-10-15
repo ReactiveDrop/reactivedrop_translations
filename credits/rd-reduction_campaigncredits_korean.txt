@@ -1,0 +1,18 @@
+"Credits"
+{
+// these keys must be in this order!
+"show_credits_logo"	"1"
+"custom_logo"	"rd-reduction_logo"
+"asw_credits_"	"캠페인 제작자 Tim Carter"
+"asw_credits_"	""
+"asw_credits_"	"버그버너: George Duff"
+"asw_credits_"	"썬더헤드: Orion Gural"
+"asw_credits_"	"해머헤드': Ivan"
+"asw_credits_"	"특별히 감사한 사람들: DimedRoll, Goodone, Enex, DarkCzar, JohnRyder - Army of One"
+"asw_credits_"	""
+"asw_credits_"	""
+"asw_credits_"	""
+"asw_credits_"	""
+"asw_credits_"	""
+"asw_credits_"	""
+}
