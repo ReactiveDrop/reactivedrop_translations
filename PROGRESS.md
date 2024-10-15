@@ -10,10 +10,10 @@
 | [French](#french-français) | 32 | 138 | 43 | 2594 | 270 | 212 | 653 | 125 |
 | [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Hungarian](#non-curated-languages) | 56 | 138 | 43 | 3228 | 271 | 212 | 978 | 147 |
-| [Indonesian](#indonesian-indonesia) | 1286 | 2004 | 635 | 4308 | 274 | 216 | 983 | 147 |
+| [Indonesian](#indonesian-indonesia) | 1286 | 2004 | 635 | 4244 | 274 | 216 | 983 | 147 |
 | [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 35 | ✔️ |
-| [Korean](#koreana-한국어) | ✔️ | ✔️ | ✔️ | 74 | ✔️ | ✔️ | 58 | 46 |
+| [Korean](#koreana-한국어) | ✔️ | ✔️ | ✔️ | 67 | ✔️ | ✔️ | 5 | 46 |
 | [Norwegian Bokmål](#non-curated-languages) | 74 | 708 | 48 | 3934 | 271 | 212 | 713 | 147 |
 | [Polish](#polish-polski) | 2 | 2004 | ✔️ | 2872 | ✔️ | ✔️ | 134 | 126 |
 | [European Portuguese](#portuguese-português-europeu) | 5 | 180 | 33 | 2318 | 251 | 33 | 633 | 141 |
@@ -570,7 +570,7 @@
 - [chat_indonesian.txt](resource/chat_indonesian.txt) has 8 untranslated strings.
 - [closecaption_indonesian.txt](resource/closecaption_indonesian.txt) has 2004 untranslated strings.
 - [gameui_indonesian.txt](resource/gameui_indonesian.txt) has 635 untranslated strings.
-- [reactivedrop_indonesian.txt](resource/reactivedrop_indonesian.txt) has 4308 untranslated strings.
+- [reactivedrop_indonesian.txt](resource/reactivedrop_indonesian.txt) has 4244 untranslated strings.
 - [valve_indonesian.txt](resource/valve_indonesian.txt) has 266 untranslated strings.
 
 ### Steam Store and Community
@@ -764,8 +764,8 @@
 
 ### Strings
 
-- [platform/vgui_koreana.txt](platform/vgui_koreana.txt) has 58 untranslated strings.
-- [reactivedrop_koreana.txt](resource/reactivedrop_koreana.txt) has 74 untranslated strings.
+- [platform/vgui_koreana.txt](platform/vgui_koreana.txt) has 5 untranslated strings.
+- [reactivedrop_koreana.txt](resource/reactivedrop_koreana.txt) has 67 untranslated strings.
 
 ### Steam Store and Community
 
