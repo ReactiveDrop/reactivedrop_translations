@@ -18,7 +18,7 @@ GAME
 "MailBody2A"	"Tony,"
 "MailBody2B"	"könntest du bitte jemanden zu Hangar 6 schicken, ich glaube, hier könnte etwas in den Lüftungsschächten sein. Vielleicht ein blinder Passagier oder so. Vielleicht hat sich ein Haustier befreit oder so, denn ich glaube nicht, dass es ein Mensch ist."
 "MailBody2C"	""
-"MailBody2D"	"Andrew Smithson - Weltraumbahnhof-Wartung"
+"MailBody2D"	"Andrew Smithson - Raumhafen-Wartung"
 
 // Sent
 

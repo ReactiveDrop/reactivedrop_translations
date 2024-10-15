@@ -16,7 +16,7 @@ GAME
 "MailBody2A"	"Lieber Mr. Smithson,"
 "MailBody2B"	"deine Bewerbung als Techniker/in für die Forschungseinrichtungen wurde geprüft. Es tut uns leid, dass wir deine Bewerbung zum jetzigen Zeitpunkt ablehnen müssen. Wir werden deine Daten aber aufbewahren, falls sich etwas ergeben sollte."
 "MailBody2C"	"Die Verwaltung möchte sich an dieser Stelle für dein Interesse bedanken und wünscht dir viel Glück bei allen zukünftigen Unternehmungen."
-"MailBody2D"	"Jonas White - Personalabteilung, Oasis Kolonie"
+"MailBody2D"	"Jonas White - Personalabteilung, Oasis-Kolonie"
 
 // Sent
 
