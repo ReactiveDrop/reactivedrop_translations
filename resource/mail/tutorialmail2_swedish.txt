@@ -1,0 +1,20 @@
+GAME
+{
+// PDA belongs to Vincent Baker
+
+// Inbox
+
+"MailFrom1"	"Från: Juan Rosales"
+"MailDate1"	"Datum: 12/18/52"
+"MailSubject1"	"Ämne: Sprit och kvinnor?"
+"MailBody1A"	"Hej Vinc,"
+"MailBody1B"	"Vi borde verkligen ta en av snökatterna och ta oss till huvudkomplexet ikväll. Frostskador kan inte vara värre än att stanna här och bli full helt själva. 19:00 okej?"
+
+// Sent
+
+"MailFrom3"	"Till: Juan Rosales"
+"MailDate3"	"Datum: 12/18/52"
+"MailSubject3"	"Ämne: Re: Sprit och kvinnor?"
+"MailBody3A"	"Visst J."
+"MailBody3B"	"Jag har slutat med Daxol i alla fall. Vi ses"
+}

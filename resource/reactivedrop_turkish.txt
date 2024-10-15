@@ -2572,6 +2572,7 @@
 "asw_force_continuem"		"Bütün oyuncular hazır değil. Yine de kaydetmek ve devam etmek istiyor musun?"
 "[english]asw_force_restartm"		"Not all players are ready. Do you wish to restart anyway?"
 "asw_force_restartm"		"Bütün oyuncular hazır değil. Yine de yeniden başlatmak istiyor musun?"
+// These two strings are button texts. Translation shouldn't be very long. See other files for other translation variants.
 "[english]asw_force_ready"		"Force Ready"
 "asw_force_ready"		"Hazır Olmaya Zorla"
 "[english]asw_force_ready_delayed"		"Force Ready (%s1)"
@@ -3226,6 +3227,7 @@
 "asw_holdout_complete"		"KAZANAN SENSİN!"
 
 // new briefing
+// This string shows in briefing title. Translation shouldn't be very long. See other files for other translation variants.
 "[english]nb_mission_prep"		"MISSION PREP"
 "nb_mission_prep"		"GÖREV BİLGİSİ"
 "[english]nb_ready"		"READY"

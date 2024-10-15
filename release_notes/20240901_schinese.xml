@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<content><string id="body">[h2]2024 地图大赛冠军[/h2]
+本届地图大赛冠军作品是《陨落空间站》(Downed Station)，作者：legomanas。
+[img]{STEAM_CLAN_IMAGE}/27357479/96f9509932b257ed89058f3bcb4450083fe834de.png[/img]
+
+[h2]跟新内容[/h2]
+[list]
+[*]移除 cl_interp 控制台命令。游戏运行机制如同设置为 0 一样。
+[*]改进 尝试连接到尚未更新的服务器时显示的错误消息，使之更加直白。
+[*]修复 由于“emit noise”操作符在当前引擎版本中运行异常而导致的粒子相关的崩溃。
+[*]修复 使用键盘导航控件菜单时可能发生的崩溃。
+[*]改进 现在其他玩家也会听到被烧到但未被点燃的友军的声音。
+[*]调整 当关闭写实友伤时，略微增加了点燃友军的时间宽容度。
+[*]修复 手动安装挑战时, 《军团要塞2》创意工坊物品图标可能出现在挑战选择屏幕上的问题。
+[*]改进 为倒计时任务目标添加了 AddTime 输入。
+[*]修复 当站在断开连接的玩家所掉落的奇怪武器附近时导致的崩溃。
+[*]改进 为枪支添加了一个单独的激光瞄准器附件，而不是它们的枪口附件。
+[*]改进 将与摄像机相关的控制台命令移到服务器一侧，以便在挑战中使用。
+[*]修复 在 Linux 上显示一些小字号文本时使用 Times New Roman 字体的问题。
+[/list]
+
+[h2]IAF需要助力[url=https://stats.reactivedrop.com/7a]![/url][/h2]
+《异形丛生: 虫启天降》永久免费，但它同样亟需大量才华横溢的社区志愿者为其添砖加瓦。如果条件允许，请为游戏贡献新的模组或地图并上传到[url=https://steamcommunity.com/app/563560/workshop/]Steam 创意工坊[/url]，或者提交漏洞反馈、优化[url=https://github.com/ReactiveDrop/reactivedrop_public_src]游戏代码[/url]， 亦或是将游戏文本[url=https://github.com/ReactiveDrop/reactivedrop_translations]翻译[/url]成你的语言，也可以[url=https://store.steampowered.com/itemstore/563560/]捐款[/url]给那些为游戏做出贡献的人。IAF感谢您的长期支持！</string><string id="subtitle"></string><string id="summary"></string><string id="title">《异形丛生: 虫启天降》更新 - 2024年9月1日 "时间到"</string></content>

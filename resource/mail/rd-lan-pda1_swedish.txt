@@ -1,0 +1,24 @@
+GAME
+{
+// PDA belongs to Jan Anath
+
+// Inbox
+
+"MailFrom1"	"Från: Windom King"
+"MailDate1"	"Datum: 02/28/53"
+"MailSubject1"	"Ämne: Säkerhet"
+"MailBody1A"	"Jan, vi får något på sensorerna, jag är inte helt säker på om det är viktigt eller inte men det är ovanligt."
+"MailBody1B"	"Det kan vara en asteroid eller en droppkapsel."
+"MailBody1C"	""
+"MailBody1D"	"Säkerhetschef W. King"
+
+// Sent
+
+"MailFrom3"	"Till: Windom King"
+"MailDate3"	"Datum: 02/28/53"
+"MailSubject3"	"Ämne: Re: Säkerhet"
+"MailBody3A"	"Jag börjar bli misstänksam om ett möjligt säkerhetshot. Vi kanske måste möta möjligheten av en industrispion i anläggningen."
+"MailBody3B"	"Håll ögonen öppna och låt din personal rapportera allt till mig."
+"MailBody3C"	"Förresten, kalla mig INTE Jan. Chefsadministratör Anath duger bra."
+"MailBody3D"	"Huvudadministratör J. Anath"
+}
