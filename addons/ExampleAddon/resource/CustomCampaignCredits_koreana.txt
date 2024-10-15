@@ -12,7 +12,7 @@
 "asw_credits_"	"사용자가 직접 콘텐츠를 만들고"
 "asw_credits_"	"배포하는 방법에 대한 자세한 정보"
 "asw_credits_"	"에일리언 스웜은"
-"asw_credits_"	"벨브 개발자 위키의 에일리언 스웜에서"
+"asw_credits_"	"밸브 개발자 위키의 에일리언 스웜에서"
 "asw_credits_"	"확인하실 수 있습니다"
 "asw_credits_"	"http://developer.valvesoftware.com/"
 }
