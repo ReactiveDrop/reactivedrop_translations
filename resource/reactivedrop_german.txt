@@ -7230,7 +7230,7 @@
 "[english]ocs_uscmedusa_3_title"		"Download the flight data"
 "ocs_uscmedusa_3_title"		"Ladet die Flugdaten herunter"
 "[english]ocs_uscmedusa_3a"		"Use the terminal on the bridge to download the recorded flight data, in order to set course to the alien homeplanet"
-"ocs_uscmedusa_3a"		"Nutzt das Terminal auf der Brücke, um die aufgezeichneten Flugdaten herunterzuladen und den Kurs zum Heimatplaneten der Aliens festzulegen"
+"ocs_uscmedusa_3a"		"Nutzt das Terminal auf der Brücke, um die aufgezeichneten Flugdaten herunterzuladen und den Kurs zum Heimatplaneten der Aliens festzulegen."
 
 "[english]asw_clear_all_biomass"		"Clear all biomass"
 "asw_clear_all_biomass"		"Beseitig jegliche Biomasse"
@@ -7320,7 +7320,7 @@
 "[english]tf1_abandonedmaintenance_6_title"		"Activate Power Systems"
 "tf1_abandonedmaintenance_6_title"		"Aktiviert die Hauptstromversorgung"
 "[english]tf1_abandonedmaintenance_6a"		"Find your way to the local generator system and bring it online."
-"tf1_abandonedmaintenance_6a"		"Findet euren Weg zum lokalen Stromgenerator und bringt es online."
+"tf1_abandonedmaintenance_6a"		"Findet euren Weg zum lokalen Stromgenerator und bringt ihn online."
 
 "[english]tf1_abandonedmaintenance_7_title"		"Access The Spaceport"
 "tf1_abandonedmaintenance_7_title"		"Verschafft euch Zugang zum Raumhafen"
@@ -7328,7 +7328,7 @@
 "tf1_abandonedmaintenance_7a"		"Verlasst den alten Wartungssektor und macht euch auf den Weg zum Raumhafen."
 
 "[english]tf1_abandonedmaintenance_lift1"		"Human presence detected within critical area."
-"tf1_abandonedmaintenance_lift1"		"Die Anwesenheit von Menschen wurde in der Schutzzone festgestellt."
+"tf1_abandonedmaintenance_lift1"		"In der Schutzzone wurde die Anwesenheit von Menschen festgestellt."
 "[english]tf1_abandonedmaintenance_lift2"		"Evacuate critical area before activating generator power injector."
 "tf1_abandonedmaintenance_lift2"		"Evakuiert die Schutzzone, bevor ihr den Stromgenerator aktiviert."
 
@@ -7358,7 +7358,7 @@
 "[english]tf1_spaceport_4_title"		"Get to the Transit System"
 "tf1_spaceport_4_title"		"Erreicht das Transit-System"
 "[english]tf1_spaceport_4a"		"Make your way to the transit system station and board a train to Oasis colony's other sectors."
-"tf1_spaceport_4a"		"Mach euch auf den Weg zum Bahnhof des Transitsystems und besteigt einen Zug zu den anderen Sektoren der Oasis-Kolonie."
+"tf1_spaceport_4a"		"Macht euch auf den Weg zum Bahnhof des Transitsystems und besteigt einen Zug zu den anderen Sektoren der Oasis-Kolonie."
 
 "[english]tf1_spaceport_5_title"		"Get Around the Bridge"
 "tf1_spaceport_5_title"		"Umgeht die Brücke"
@@ -7426,7 +7426,7 @@
 "[english]par_closecontact_2a"		"We have collected all relevant documents. Find an exit from this building."
 "par_closecontact_2a"		"Ihr habt alle relevanten Dokumente gesammelt. Findet einen Ausgang aus dem Gebäude."
 "[english]par_closecontact_2b"		"There appears to be an exit near the medical room to the north."
-"par_closecontact_2b"		"Es scheint einen Ausgang in der Nähe des Sanitätsraum im Norden zu geben."
+"par_closecontact_2b"		"Es scheint einen Ausgang in der Nähe des Sanitätsraums im Norden zu geben."
 
 "[english]par_closecontact_3_title"		"Exit the base"
 "par_closecontact_3_title"		"Verlasst die Basis"
@@ -7446,9 +7446,9 @@
 "par_hightension_1b"		"Ihr habt Unterlagen über die seltsamen Studien, die von diesem Außenposten durchgeführt wurden. Diese Informationen müssen der IAF gemeldet werden, bevor ihr eine Evakuierung beantragen könnt."
 
 "[english]par_hightension_2_title"		"Find beacon"
-"par_hightension_2_title"		"Findet die Bake"
+"par_hightension_2_title"		"Findet das Leuchtfeuer"
 "[english]par_hightension_2a"		"Find and activate the beacon to request evacuation."
-"par_hightension_2a"		"Findet das Leuchtfeuer und aktiviert es, um die Evakuierung anzufordern."
+"par_hightension_2a"		"Findet das Leuchtfeuer und aktiviert es."
 
 "[english]par_hightension_3_title"		"Clear the bridge"
 "par_hightension_3_title"		"Räumt die Brücke"
@@ -7461,7 +7461,7 @@
 "par_hightension_debrief"		"Ihr habt den Weg zum Evakuierungsgebiet freigemacht. Eure einzige Aufgabe ist es jetzt, diesen Außenposten zu verlassen."
 
 "[english]par_crucialpoint_1_title"		"Activate beacon"
-"par_crucialpoint_1_title"		"Bake aktivieren"
+"par_crucialpoint_1_title"		"Aktiviert das Leuchtfeuer"
 "[english]par_crucialpoint_1a"		"Activate the beacon to request evacuation."
 "par_crucialpoint_1a"		"Aktiviert das Leuchtfeuer, um die Evakuierung anzufordern."
 
@@ -7548,7 +7548,7 @@
 "[english]bon5_documents_2_title"		"Find documents that describe the recent activities of the base."
 "bon5_documents_2_title"		"Findet Dokumente über die letzten Aktivitäten dieses Stützpunkts."
 "[english]bon5_documents_2a"		"We should know if the problem is there since a moment, so now we have to find documents that detail the problems, activities, and transactions in recent days."
-"bon5_documents_2a"		"Ihr müsst herausfinden, ob das Problem schon länger besteht. Findet Informationen über die Probleme, Aktivitäten und Transaktionen der letzten Tagen."
+"bon5_documents_2a"		"Ihr müsst herausfinden, ob das Problem schon länger besteht. Findet Informationen über die Probleme, Aktivitäten und Transaktionen der letzten Tage."
 "[english]bon5_documents_2b"		"(Note: Get close to them to pick them up.)"
 "bon5_documents_2b"		"(Hinweis: Geht nah an sie heran, um sie aufzuheben)."
 
@@ -7560,14 +7560,14 @@
 "[english]bon5_documents_4_title"		"Exit the base."
 "bon5_documents_4_title"		"Verlasst die Basis"
 "[english]bon5_documents_4a"		"Well, we just have to continue, and certainly we will go back to the surface soon."
-"bon5_documents_4a"		"Macht weiter, um Sicher wieder an die Oberfläche kommen."
+"bon5_documents_4a"		"Macht weiter, um Sicher wieder an die Oberfläche zu kommen."
 
 "[english]bon5_documents_debrief1"		"We found all the documents on the activities and recent transactions. We must now return to the surface and try to communicate with the IAF command center. We will certainly be able to find a communications center outside."
-"bon5_documents_debrief1"		"Ihr habt alle Dokumente über die letzten Aktivitäten und Transaktionen gefunden. Ihr müsst jetzt an die Oberfläche zurückkehren und versuchen, mit der IAF-Kommandozentrale zu Kontakt aufzunehmen. Sucht draußen nach einer Kommunikationszentrale."
+"bon5_documents_debrief1"		"Ihr habt alle Dokumente über die letzten Aktivitäten und Transaktionen gefunden. Ihr müsst jetzt an die Oberfläche zurückkehren und versuchen, mit der IAF-Kommandozentrale Kontakt aufzunehmen. Sucht draußen nach einer Kommunikationszentrale."
 "[english]bon5_documents_debrief2"		"We will go outside, and we will walk in the snow, so be prepared for temperatures below zero!"
 "bon5_documents_debrief2"		"Geht nach draußen in den Schnee, macht euch auf Temperaturen unter Null gefasst!"
 "[english]bon5_documents_debrief3"		"And especially pay attention to these creatures, they can go out anywhere in an environment like this."
-"bon5_documents_debrief3"		"Haltet Ausschau nach auf den Kreaturen, sie können in einer Umgebung wie dieser überall sein."
+"bon5_documents_debrief3"		"Haltet Ausschau nach den Kreaturen, sie könnten in einer Umgebung wie dieser überall sein."
 
 // Bonus Mission 6 strings
 "[english]bon6_crucidalpoint_debrief"		"What happened... ? What was that... ? Comrads, where... where are you ? *vertiges* uh... *tombe dans les pommes*"
