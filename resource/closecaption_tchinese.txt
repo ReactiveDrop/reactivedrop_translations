@@ -715,6 +715,7 @@
 
 "[english]bastille.HoldingEast1"		"<clr:205,127,50><B>Bastille:<B> Covering eastside."
 "bastille.HoldingEast1"		"<clr:205,127,50><B>Bastille：<B>防守東邊。"
+
 "[english]bastille.HoldingEast2"		"<clr:205,127,50><B>Bastille:<B> I've got the east."
 "bastille.HoldingEast2"		"<clr:205,127,50><B>Bastille:<B> 東方我來負責。"
 
@@ -1605,6 +1606,7 @@
 
 "[english]crash.StartedHack4"		"<clr:238,180,34><B>Crash:<B> Time for me to work my magic."
 "crash.StartedHack4"		"<clr:238,180,34><B>Crash：<B>是時候換我來表演魔術了。"
+
 "[english]crash.StartedLongHack0"		"<clr:238,180,34><B>Crash:<B> Cover me, this is gonna take a while."
 "crash.StartedLongHack0"		"<clr:238,180,34><B>Crash：<B>掩護我，這得花一些時間。"
 
