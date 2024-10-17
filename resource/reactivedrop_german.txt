@@ -7550,7 +7550,7 @@
 "[english]bon5_documents_2a"		"We should know if the problem is there since a moment, so now we have to find documents that detail the problems, activities, and transactions in recent days."
 "bon5_documents_2a"		"Ihr müsst herausfinden, ob das Problem schon länger besteht. Findet Informationen über die Probleme, Aktivitäten und Transaktionen der letzten Tage."
 "[english]bon5_documents_2b"		"(Note: Get close to them to pick them up.)"
-"bon5_documents_2b"		"(Hinweis: Geht nah an sie heran, um sie aufzuheben)."
+"bon5_documents_2b"		"(Hinweis: Geht nahe an sie heran, um sie aufzuheben)."
 
 "[english]bon5_documents_3_title"		"Find a passage to leave the sector."
 "bon5_documents_3_title"		"Findet einen Durchgang, um den Sektor zu verlassen."
