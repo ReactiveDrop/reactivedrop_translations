@@ -7543,7 +7543,7 @@
 "[english]bon5_documents_1_title"		"Restore the power of the metal bridge."
 "bon5_documents_1_title"		"Versorgt die Metallbrücke mit Strom"
 "[english]bon5_documents_1a"		"This level is no longer powered. The power should be restored to pass the metal bridge. then we will continue in this level, to find documents about recent activities of this base."
-"bon5_documents_1a"		"Diese Ebene wird nicht mehr mit Strom versorgt. Ihr müsst die Stromzufuhr wieder her, um die Metallbrücke zu passieren."
+"bon5_documents_1a"		"Diese Ebene wird nicht mehr mit Strom versorgt. Ihr müsst die Stromzufuhr wiederherstellen, um die Metallbrücke zu passieren."
 
 "[english]bon5_documents_2_title"		"Find documents that describe the recent activities of the base."
 "bon5_documents_2_title"		"Findet Dokumente über die letzten Aktivitäten dieses Stützpunkts."
