@@ -8,7 +8,7 @@ GAME
 "MailDate1"	"Datum: 07/01/42"
 "MailSubject1"	"Betreff: Neuer Auftrag"
 "MailBody1A"	"Rätsel: Was sieht vage wie ein Mensch aus, ist aber in Wirklichkeit ein hochentwickelter Cyborg, der von SynTek so programmiert wurde, dass er uns allen das Leben schwer macht? Wenn deine Antwort 'dieser Wichser Carradine' war, hast du eine Gurke gewonnen. Nein, nicht wirklich. Die sind schon vor Jahrzehnten ausgestorben, so leid es mir tut."
-"MailBody1B"	"Aber du kannst es sicher kaum erwarten zu erfahren, was deine neue Mission beinhaltet. Es ist von äußerster Wichtigkeit, also bitte, hör mich an... Der Kapitän will, dass das koloniale Sprichwort mindestens einmal in jedem Raum des Lugdunum aufgehängt wird. Ja, das ist es. Seltsame Sektenscheiße, was? Beschwere dich nicht, denn die Befehlskette wird sich meinetwegen nicht rühren. Wenigstens hast du dir deinen Wochenplan zurechtgelegt. Pass aber auf, dass du keine Lüftungsschächte abdeckst, das könnte zu Bränden führen. Frag mich auch nicht, wie."
+"MailBody1B"	"Aber du kannst es sicher kaum erwarten zu erfahren, was deine neue Mission beinhaltet. Es ist von äußerster Wichtigkeit, also bitte, hör mich an... Der Captain will, dass das koloniale Sprichwort mindestens einmal in jedem Raum des Lugdunum aufgehängt wird. Ja, das ist es. Seltsame Sektenscheiße, was? Beschwere dich nicht, denn die Befehlskette wird sich meinetwegen nicht rühren. Wenigstens hast du dir deinen Wochenplan zurechtgelegt. Pass aber auf, dass du keine Lüftungsschächte abdeckst, das könnte zu Bränden führen. Frag mich auch nicht, wie."
 "MailBody1C"	"'Nam Humanum'... Glaubst du, das ist überhaupt richtiges Latein?"
 
 // Sent

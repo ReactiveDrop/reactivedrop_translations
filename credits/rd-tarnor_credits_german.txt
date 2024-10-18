@@ -3,7 +3,7 @@
 // these keys must be in this order!
 "show_credits_logo"	"1"
 "custom_logo"	"rd-tarnor_logo"
-"asw_credits_"	"Tränen für Tarnor, Kapitel 1: Einsetzung, v1.0"
+"asw_credits_"	"Tränen für Tarnor, Kapitel 1: Eintritt, v1.0"
 "asw_credits_"	""
 "asw_credits_"	""
 "asw_credits_"	"Geschichte und Gestaltung:"
