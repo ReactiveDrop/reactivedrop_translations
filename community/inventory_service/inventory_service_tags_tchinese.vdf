@@ -99,12 +99,12 @@
 "item_store_category_artiststamp"		"藝術家"
 // the same, but for programmers.
 "[english]item_store_category_programmerstamp"		"Programmers"
-"item_store_category_programmerstamp"		"程式員"
+"item_store_category_programmerstamp"		"程式設計師"
 // the same, but for server hosts.
 "[english]item_store_category_serverhoststamp"		"Server Hosts"
 "item_store_category_serverhoststamp"		"伺服器持有者"
 // the same, but for translators.
 "[english]item_store_category_translatorstamp"		"Translators"
-"item_store_category_translatorstamp"		"翻譯員"
+"item_store_category_translatorstamp"		"翻譯家"
 }
 }

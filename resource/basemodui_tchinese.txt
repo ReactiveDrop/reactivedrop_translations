@@ -1913,7 +1913,7 @@
 "[english]L4D360UI_Controller_Scoreboard_No"		"Status Screen, Vote No"
 "L4D360UI_Controller_Scoreboard_No"		"狀態螢幕，投反對票"
 "[english]L4D360UI_Controller_MainMenu_Yes"		"Main Menu, Vote Yes"
-"L4D360UI_Controller_MainMenu_Yes"		"主選單，投讚成票"
+"L4D360UI_Controller_MainMenu_Yes"		"主選單，投贊成票"
 
 "[english]L4D360UI_Controller_Edit_Buttons"		"BUTTON LAYOUT"
 "L4D360UI_Controller_Edit_Buttons"		"按鍵設定"
