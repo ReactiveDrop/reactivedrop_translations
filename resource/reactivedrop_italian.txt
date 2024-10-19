@@ -7571,7 +7571,7 @@
 
 // Bonus Mission 6 strings
 "[english]bon6_crucidalpoint_debrief"		"What happened... ? What was that... ? Comrads, where... where are you ? *dizziness* uh... *blacks out*"
-"bon6_crucidalpoint_debrief"		"Cosa è successo... ? Che cos'era quello... ? Compagni, dove... dove siete? *dizziness* ehm... *blacks out*"
+"bon6_crucidalpoint_debrief"		"Cosa è successo... ? Che cos'era quello... ? Compagni, dove... dove siete? *vertigini* ehm... *sviene*"
 
 // Bonus Mission 7 strings
 "[english]bon7_area9800PP2_debrief"		"Well done, team!"
