@@ -59,8 +59,8 @@
 "[english]Command.co_m3_ob1"		"<clr:240,255,255><B>Lt. Williams:<B> Okay Squad, command wants the computers up and running. The colony's reactor was knocked offline by the Swarm attack, so you need to find your way to the reactor core and get that juice back on in there."
 "Command.co_m3_ob1"		"<clr:240,255,255><B>威廉斯中尉：<B>好了，隊員們，指揮部希望這裡的電腦重新恢復工作。由於異形的攻擊，殖民地的反應爐已經離線了，所以你們要想辦法到達反應爐並讓它重新啟動。"
 
-		"[english]Command.co_m3_ob2"		"<clr:240,255,255><B>Lt. Williams:<B> Great job, team! Power is on. Command is accessing the colony's computer systems right now. Keep moving, and we'll regroup up ahead."
-		"Command.co_m3_ob2"		"<clr:240,255,255><B>Lt. Williams:<B> Great job, team! Power is on. Command is accessing the colony's computer systems right now. Keep moving, and we'll regroup up ahead."
+"[english]Command.co_m3_ob2"		"<clr:240,255,255><B>Lt. Williams:<B> Great job, team! Power is on. Command is accessing the colony's computer systems right now. Keep moving, and we'll regroup up ahead."
+"Command.co_m3_ob2"		"<clr:240,255,255><B>威廉斯中尉:<B> 做得好，小隊! 電力恢復正常了。指揮官正在連接殖民地的電腦系統。繼續移動，我們會在前面會合。"
 
 "[english]Command.co_m3_ob3"		"<clr:240,255,255><B>Lt. Williams:<B> Okay, Squad. Word just came down from on high. I'm gonna be straight with you, it's all bad. Command didn't like what the colony's computer system had to say. Looks like the colonists are dead. Means the infestation is out of control, and they've decided to introduce the Swarm to the wonders of the nuclear age. They've uploaded detonation codes into the mine's nuclear excavation device—basically a nuclear warhead—and they need you to deliver it into the heart of the Swarm's nest. Head toward residential, and I'll find you a path to the bomb."
 "Command.co_m3_ob3"		"<clr:240,255,255><B>威廉斯中尉：<B>好的，隊員們，命令下來了。我就跟你們直說了吧，情況糟透了。看來指揮部的家夥們並不希望看到殖民地電腦系統的記錄。似乎所有居民都死了。這意味著局勢已經失去控制，而指揮部決定讓異形們見識一下核子時代的奇跡。他們為礦場的核能開采裝置設置了密碼 — 應該說是枚戰略核彈頭 — 他們需要你們把這個護送到異形巢穴的核心地帶。朝居民區前進，而我會幫你們找條通向炸彈的路。"
@@ -146,8 +146,8 @@
 "[english]Command.co_m6_ob17"		"<clr:240,255,255><B>Lt. Williams:<B> Ten seconds left!"
 "Command.co_m6_ob17"		"<clr:240,255,255><B>威廉斯中尉：<B>還剩10秒鐘！"
 
-		"[english]Command.co_m6_ob18"		"<clr:240,255,255><B>Lt. Williams:<B> You almost made it."
-		"Command.co_m6_ob18"		"<clr:240,255,255><B>Lt. Williams:<B> You almost made it."
+"[english]Command.co_m6_ob18"		"<clr:240,255,255><B>Lt. Williams:<B> You almost made it."
+"Command.co_m6_ob18"		"<clr:240,255,255><B>威廉斯中尉:<B> 你們快做到了。"
 
 "[english]Command.co_m6_ob19"		"<clr:240,255,255><B>Lt. Williams:<B> I'm sorry. I'll notify your next of kin."
 "Command.co_m6_ob19"		"<clr:240,255,255><B>威廉斯中尉：<B>我很抱歉。我會通知你的家人的。"
@@ -899,8 +899,8 @@
 "[english]bastille.AlienTooClose5"		"<clr:205,127,50><B>Bastille:<B> On me!"
 "bastille.AlienTooClose5"		"<clr:205,127,50><B>Bastille：<B>我這裡有敵人！"
 
-		"[english]bastille.MadFiring0"		"<clr:205,127,50><B>Bastille:<B> <I>Putain de merde, saloperie de merde, encule."
-		"bastille.MadFiring0"		"<clr:205,127,50><B>Bastille:<B> <I>Putain de merde, saloperie de merde, encule."
+"[english]bastille.MadFiring0"		"<clr:205,127,50><B>Bastille:<B> <I>Putain de merde, saloperie de merde, encule."
+"bastille.MadFiring0"		"<clr:205,127,50><B>Bastille:<B> <I>該死的，去你的，去死啊。"
 
 "[english]bastille.MadFiring1"		"<clr:205,127,50><B>Bastille:<B> Eat this, alien scum!"
 "bastille.MadFiring1"		"<clr:205,127,50><B>Bastille：<B>嚐嚐這個，垃圾異形！"
