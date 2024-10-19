@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<content><string id="body">[list]
+[*][b]22A7-Z Prototype Assault Rifle:[/b] Removed damage falloff from alternate fire. Now does 1 damage regardless of distance for any target it hits rather than some fraction of a point of damage.
+[*][b]IAF Incendiary Sentry Gun:[/b] Fixed a 2010 era bug causing this sentry to consume 2.5 ammo per shot.
+[*][b]Fire Extinguisher:[/b] This item can now always be picked up both in the temporary slot or in a normal weapon slot, rather than being decided per map location. Change rd_fire_extinguisher_force_temporary if this breaks your challenge.
+[*][b]Mining Laser:[/b] Fixed a visual issue where the beam would appear to follow the player's aim direction when the laser was being fired by a bot added by that player.
+[*]Increased the default size of the fast reload indicator (rd_fast_reload_under_marine_scale) from 1x to 3.5x.
+[*]Guns will now consistently start their automatic reload immediately after becoming empty rather than waiting for the primary fire button to be released or the shot interval timer to complete.
+[*]Lowered the damage threshold where Harvesters will not spawn Xenomites on death from 135 damage to 125 damage. The requirements that the damage dealt is more than double the Harvester's remaining health and that the damage type was blast remain the same. This means direct hits from rifle grenades should more consistently be able to cleanly kill wounded Harvesters.
+[*]Fixed the lobby creation max players dropdown resetting to 4 when the menu is reloaded after changing a setting that moves to a different screen.
+[/list]
+
+[h2]The IAF needs you[url=https://stats.reactivedrop.com/7a]![/url][/h2]
+Alien Swarm: Reactive Drop will always be free, but that doesn't mean it doesn't take a lot of work from a lot of talented volunteers to make. If you can, consider making content for the [url=https://steamcommunity.com/app/563560/workshop/]Steam Workshop[/url], reporting bugs, proposing [url=https://github.com/ReactiveDrop/reactivedrop_public_src]code[/url] improvements, [url=https://github.com/ReactiveDrop/reactivedrop_translations]translating[/url] the game into your language, or [url=https://store.steampowered.com/itemstore/563560/]sending a dollar[/url] to one of the people who made Alien Swarm: Reactive Drop possible. The IAF thanks you for your continued service, Commander.</string><string id="subtitle"></string><string id="summary"></string><string id="title">AS:RD Update - November 1, 2024 "Tune-Up"</string></content>
