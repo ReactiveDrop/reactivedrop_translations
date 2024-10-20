@@ -2,13 +2,13 @@
 | Language | basemodui | closecaption | gameui | reactivedrop | items | statsweb | Strings | Files |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 1 |
-| [Traditional Chinese](#tchinese-繁體中文) | ✔️ | 3 | ✔️ | 92 | ✔️ | ✔️ | ✔️ | 126 |
+| [Traditional Chinese](#tchinese-繁體中文) | ✔️ | ✔️ | ✔️ | 92 | ✔️ | ✔️ | ✔️ | 126 |
 | [Czech](#czech-čeština) | 76 | 1810 | 43 | 4233 | 271 | 212 | 983 | 146 |
 | [Danish](#non-curated-languages) | 57 | 231 | 43 | 3760 | 271 | 212 | 713 | 147 |
 | [Dutch](#non-curated-languages) | 56 | 2004 | 43 | 3228 | 271 | 212 | 713 | 146 |
 | [Finnish](#non-curated-languages) | 1 | 2004 | 42 | 3090 | 214 | 152 | 699 | 146 |
 | [French](#french-français) | 32 | 138 | 43 | 2594 | 270 | 212 | 653 | 125 |
-| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 1 |
+| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Hungarian](#non-curated-languages) | 56 | 138 | 43 | 3228 | 271 | 212 | 978 | 147 |
 | [Indonesian](#indonesian-indonesia) | 1286 | 2004 | 635 | 4244 | 274 | 216 | 983 | 147 |
 | [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 1 |
@@ -55,7 +55,6 @@
 
 ### Strings
 
-- [closecaption_tchinese.txt](resource/closecaption_tchinese.txt) has 3 untranslated strings.
 - [reactivedrop_tchinese.txt](resource/reactivedrop_tchinese.txt) has 92 untranslated strings.
 
 ### Upcoming Release Notes
@@ -546,9 +545,7 @@
 
 </summary>
 
-### Upcoming Release Notes
-
-- [20241101_german.xml](release_notes/20241101_english.xml) is missing.
+✓ Up to date!
 
 </details>
 
