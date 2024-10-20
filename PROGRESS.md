@@ -1,25 +1,25 @@
 # Overview
 | Language | basemodui | closecaption | gameui | reactivedrop | items | statsweb | Strings | Files |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
+| [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 1 |
 | [Traditional Chinese](#tchinese-繁體中文) | ✔️ | 3 | ✔️ | 92 | ✔️ | ✔️ | ✔️ | 126 |
 | [Czech](#czech-čeština) | 76 | 1810 | 43 | 4233 | 271 | 212 | 983 | 146 |
 | [Danish](#non-curated-languages) | 57 | 231 | 43 | 3760 | 271 | 212 | 713 | 147 |
 | [Dutch](#non-curated-languages) | 56 | 2004 | 43 | 3228 | 271 | 212 | 713 | 146 |
 | [Finnish](#non-curated-languages) | 1 | 2004 | 42 | 3090 | 214 | 152 | 699 | 146 |
 | [French](#french-français) | 32 | 138 | 43 | 2594 | 270 | 212 | 653 | 125 |
-| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
+| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 1 |
 | [Hungarian](#non-curated-languages) | 56 | 138 | 43 | 3228 | 271 | 212 | 978 | 147 |
 | [Indonesian](#indonesian-indonesia) | 1286 | 2004 | 635 | 4244 | 274 | 216 | 983 | 147 |
-| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
-| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 35 | ✔️ |
+| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 1 |
+| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 35 | 1 |
 | [Korean](#koreana-한국어) | ✔️ | ✔️ | ✔️ | 67 | ✔️ | ✔️ | 5 | 46 |
 | [Norwegian Bokmål](#non-curated-languages) | 74 | 708 | 48 | 3934 | 271 | 212 | 713 | 147 |
 | [Polish](#polish-polski) | 2 | 2004 | ✔️ | 2872 | ✔️ | ✔️ | 134 | 126 |
 | [European Portuguese](#portuguese-português-europeu) | 5 | 180 | 33 | 2318 | 251 | 33 | 633 | 141 |
 | [Brazilian Portuguese](#brazilian-português) | 1 | ✔️ | ✔️ | 855 | 13 | 3 | 1 | 2 |
 | [Romanian](#non-curated-languages) | 56 | 1996 | 49 | 3940 | 271 | 212 | 978 | 147 |
-| [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
+| [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 1 |
 | [European Spanish](#spanish-español-de-españa) | 33 | 2004 | 41 | 2645 | 271 | 212 | 717 | 146 |
 | [Latin American Spanish](#latam-español-latinoamericano) | 1 | 2004 | ✔️ | 4280 | 19 | 3 | 204 | 142 |
 | [Swedish](#swedish-svenska) | ✔️ | ✔️ | ✔️ | 550 | ✔️ | ✔️ | ✔️ | 82 |
@@ -41,7 +41,9 @@
 
 </summary>
 
-✓ Up to date!
+### Upcoming Release Notes
+
+- [20241101_schinese.xml](release_notes/20241101_english.xml) is missing.
 
 </details>
 
@@ -58,7 +60,7 @@
 
 ### Upcoming Release Notes
 
-- [20240901_tchinese.xml](release_notes/20240901_english.xml) is missing.
+- [20241101_tchinese.xml](release_notes/20241101_english.xml) is missing.
 
 ### Mail and News
 
@@ -224,7 +226,7 @@
 
 ### Upcoming Release Notes
 
-- [20240901_czech.xml](release_notes/20240901_english.xml) is missing.
+- [20241101_czech.xml](release_notes/20241101_english.xml) is missing.
 
 ### Credits
 
@@ -408,7 +410,7 @@
 
 ### Upcoming Release Notes
 
-- [20240901_french.xml](release_notes/20240901_english.xml) is missing.
+- [20241101_french.xml](release_notes/20241101_english.xml) is missing.
 
 ### Credits
 
@@ -544,7 +546,9 @@
 
 </summary>
 
-✓ Up to date!
+### Upcoming Release Notes
+
+- [20241101_german.xml](release_notes/20241101_english.xml) is missing.
 
 </details>
 
@@ -583,7 +587,7 @@
 
 ### Upcoming Release Notes
 
-- [20240901_indonesian.xml](release_notes/20240901_english.xml) is missing.
+- [20241101_indonesian.xml](release_notes/20241101_english.xml) is missing.
 
 ### Credits
 
@@ -740,7 +744,9 @@
 
 </summary>
 
-✓ Up to date!
+### Upcoming Release Notes
+
+- [20241101_italian.xml](release_notes/20241101_english.xml) is missing.
 
 </details>
 
@@ -753,6 +759,10 @@
 ### Strings
 
 - [platform/vgui_japanese.txt](platform/vgui_japanese.txt) has 35 untranslated strings.
+
+### Upcoming Release Notes
+
+- [20241101_japanese.xml](release_notes/20241101_english.xml) is missing.
 
 </details>
 
@@ -773,7 +783,7 @@
 
 ### Upcoming Release Notes
 
-- [20240901_koreana.xml](release_notes/20240901_english.xml) is missing.
+- [20241101_koreana.xml](release_notes/20241101_english.xml) is missing.
 
 ### Credits
 
@@ -843,7 +853,7 @@
 
 ### Upcoming Release Notes
 
-- [20240901_polish.xml](release_notes/20240901_english.xml) is missing.
+- [20241101_polish.xml](release_notes/20241101_english.xml) is missing.
 
 ### Mail and News
 
@@ -1005,7 +1015,7 @@
 
 ### Upcoming Release Notes
 
-- [20240901_portuguese.xml](release_notes/20240901_english.xml) is missing.
+- [20241101_portuguese.xml](release_notes/20241101_english.xml) is missing.
 
 ### Credits
 
@@ -1173,7 +1183,7 @@
 
 ### Upcoming Release Notes
 
-- [20240901_brazilian.xml](release_notes/20240901_english.xml) is missing.
+- [20241101_brazilian.xml](release_notes/20241101_english.xml) is missing.
 
 </details>
 
@@ -1183,7 +1193,9 @@
 
 </summary>
 
-✓ Up to date!
+### Upcoming Release Notes
+
+- [20241101_russian.xml](release_notes/20241101_english.xml) is missing.
 
 </details>
 
@@ -1220,7 +1232,7 @@
 
 ### Upcoming Release Notes
 
-- [20240901_spanish.xml](release_notes/20240901_english.xml) is missing.
+- [20241101_spanish.xml](release_notes/20241101_english.xml) is missing.
 
 ### Credits
 
@@ -1391,7 +1403,7 @@
 
 ### Upcoming Release Notes
 
-- [20240901_latam.xml](release_notes/20240901_english.xml) is missing.
+- [20241101_latam.xml](release_notes/20241101_english.xml) is missing.
 
 ### Credits
 
@@ -1554,7 +1566,7 @@
 
 ### Upcoming Release Notes
 
-- [20240901_swedish.xml](release_notes/20240901_english.xml) is missing.
+- [20241101_swedish.xml](release_notes/20241101_english.xml) is missing.
 
 ### Mail and News
 
@@ -1675,7 +1687,7 @@
 
 ### Upcoming Release Notes
 
-- [20240901_ukrainian.xml](release_notes/20240901_english.xml) is missing.
+- [20241101_ukrainian.xml](release_notes/20241101_english.xml) is missing.
 
 ### Credits
 
@@ -1843,7 +1855,7 @@
 
 ### Upcoming Release Notes
 
-- [20240901_vietnamese.xml](release_notes/20240901_english.xml) is missing.
+- [20241101_vietnamese.xml](release_notes/20241101_english.xml) is missing.
 
 ### Mail and News
 
