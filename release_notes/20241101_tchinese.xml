@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<content><string id="body">[list]
+[*][b]22A7-Z 原型突擊步槍:[/b] 移除輔助射擊的傷害衰減。 現在變更為無論範圍內任何被攻擊到的敵人都會造成傷害1，而不是特定的地點。
+[*][b]IAF 火焰步哨槍塔:[/b] 修復2010時代的bug，現在不會再每次消耗2.5的彈藥。
+[*][b]滅火器:[/b] 這項道具現在撿起來的時候會在暫時裝備欄或是正常的武器欄位，而不是因不同地圖會在不同欄位。如果會造成挑戰壞掉的話，改變指令rd_fire_extinguisher_force_temporary。
+[*][b]挖掘型雷射:[/b] 修復視覺問題，如果玩家追加電腦玩家的時候，電腦使用雷射之後會在玩家的瞄準方向卡著雷射光線。
+[*]擴大快速裝填的預設大小 (rd_fast_reload_under_marine_scale) 從 1倍 到 3.5倍。
+[*]槍枝現在會穩定的在彈藥耗盡之後馬上進行自動裝填的動作，而不用等到開火按鍵放開或是內建射擊計時器到了之後才會出現。
+[*]降低收割者死亡時不會生成異形螨的傷害臨界點：135到125。臨界點的意思是，對收割者造成的傷害必須是它目前血量的兩倍以上，傷害類型即便是爆炸傷害也是如此。這代表步槍榴彈直擊殘血收割者的時候會更容易清除乾淨。
+[*]修復在大廳時，如果變更設定有移動到不一樣的螢幕而導致主要選單刷新時，最大玩家會掉到四人。
+[/list]
+
+[h2]IAF需要你[url=https://stats.reactivedrop.com/7a]![/url][/h2]
+Alien Swarm: Reactive Drop永遠都會是免費遊玩，但那並不代表遊戲沒有大量志願者的付出。如果你有能力的話，可以考慮為這些內容付出[url=https://steamcommunity.com/app/563560/workshop/]Steam工作坊[/url], 回報錯誤,改善[url=https://github.com/ReactiveDrop/reactivedrop_public_src]程式碼 [/url]， [url=https://github.com/ReactiveDrop/reactivedrop_translations]翻譯[/url]遊戲到你的母語或是[url=https://store.steampowered.com/itemstore/563560/]贊助一美金[/url]給那些讓 Alien Swarm: Reactive Drop 能夠繼續存在的貢獻者們。 IAF感謝你們持續的付出，指揮官。</string><string id="subtitle"></string><string id="summary"></string><string id="title">AS:RD Update - November 1, 2024 "Tune-Up"</string></content>
