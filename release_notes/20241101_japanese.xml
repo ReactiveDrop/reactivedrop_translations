@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<content><string id="body">[list]
+[*][b]22A7-Z プロトタイプアサルトライフル:[/b] 特殊攻撃の距離によるダメージ減衰を削除。相手が範囲内のどこにいても1ダメージ与えるようになり、小数点以下のダメージを与えることは無くなった。
+[*][b]IAF 焼夷セントリーガン:[/b] セントリーが一射で弾薬を2.5発分消費してしまう2010年版から残されていたバグを修正。
+[*][b]消火器:[/b] 拾った時に一時的スロットか通常の武器スロットに入るかどうかが、設置されたマップの設定次第ではなくなった。チャレンジに問題が起きる場合はコンソール変数rd_fire_extinguisher_force_temporaryを変更してください。
+[*][b]採掘レーザー:[/b] Botがレーザーを発射する場合、そのBotを連れているプレイヤーが狙っている場所に向けてレーザーが発射されているように見える見た目上のバグを修正。
+[*]ファストリロードバーのデフォルトサイズ(rd_fast_reload_under_marine_scale)を等倍から3.5倍に変更。
+[*]自動リロードはどの武器でも弾倉が空になったら即座に開始されるようになり、攻撃ボタンを離したり次の攻撃が発生する時点ではなくなった。
+[*]ハーベスターがゼノマイトを産まずに死ぬダメージしきい値を135ダメージから125ダメージに減少させた。ハーベスターの残りヘルスの2倍以上の爆発ダメージが必要という点は変わらない。この変更により、弱らせたハーベスターにライフルグレネードを直撃させた時に、より確実に完全に吹き飛ばせるようになった。
+[*]ロビー作成時に、別画面へ移行する設定変更を行った場合、メニューの再読込時最大プレイヤー数を指定するドロップダウンメニューが4にリセットされてしまう問題を修正。
+[/list]
+
+[h2]IAF(星間連盟軍)に君が必要だ[url=https://stats.reactivedrop.com/7a]！[/url][/h2]
+Alien Swarm: Reactive Dropは完全無料ですが、沢山のボランティアの方々による支援は片手間でできているものではありません。可能ならば、[url=https://steamcommunity.com/app/563560/workshop/]Steamワークショップ[/url]にコンテンツを投稿したり、バグ報告を送ったり、[url=https://github.com/ReactiveDrop/reactivedrop_public_src]コード[/url]の改善を提案したり、ゲームを自分の言語に[url=https://github.com/ReactiveDrop/reactivedrop_translations]翻訳[/url]したり、Alien Swarm: Reactive Dropを支えるボランティアの方々に[url=https://store.steampowered.com/itemstore/563560/]1ドルの寄付[/url]をしてみてください。IAFは宇宙海兵隊指揮官であるあなたの協力にいつも感謝しております。</string><string id="subtitle"></string><string id="summary"></string><string id="title">AS:RDアップデート - 2024年11月1日 "Tune-Up"</string></content>
