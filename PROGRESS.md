@@ -1,8 +1,8 @@
 # Overview
 | Language | basemodui | closecaption | gameui | reactivedrop | items | statsweb | Strings | Files |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 1 |
-| [Traditional Chinese](#tchinese-繁體中文) | ✔️ | ✔️ | ✔️ | 92 | ✔️ | ✔️ | ✔️ | 126 |
+| [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
+| [Traditional Chinese](#tchinese-繁體中文) | ✔️ | ✔️ | ✔️ | 92 | ✔️ | ✔️ | ✔️ | 125 |
 | [Czech](#czech-čeština) | 76 | 1810 | 43 | 4233 | 271 | 212 | 983 | 146 |
 | [Danish](#non-curated-languages) | 57 | 231 | 43 | 3760 | 271 | 212 | 713 | 147 |
 | [Dutch](#non-curated-languages) | 56 | 2004 | 43 | 3228 | 271 | 212 | 713 | 146 |
@@ -41,9 +41,7 @@
 
 </summary>
 
-### Upcoming Release Notes
-
-- [20241101_schinese.xml](release_notes/20241101_english.xml) is missing.
+✓ Up to date!
 
 </details>
 
@@ -56,10 +54,6 @@
 ### Strings
 
 - [reactivedrop_tchinese.txt](resource/reactivedrop_tchinese.txt) has 92 untranslated strings.
-
-### Upcoming Release Notes
-
-- [20241101_tchinese.xml](release_notes/20241101_english.xml) is missing.
 
 ### Mail and News
 
