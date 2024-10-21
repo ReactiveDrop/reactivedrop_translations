@@ -7571,8 +7571,8 @@
 "bon5_documents_debrief3"		"И особенно обращайте внимание на этих тварей, они могут появиться откуда угодно в такой обстановке."
 
 // Bonus Mission 6 strings
-"[english]bon6_crucidalpoint_debrief"		"What happened... ? What was that... ? Comrads, where... where are you ? *vertiges* uh... *tombe dans les pommes*"
-"bon6_crucidalpoint_debrief"		"Что случилось... ? Что это было... ? Комрадес, где... где вы ? *головокружение* эх... *томбе данс лес поммес*"
+"[english]bon6_crucidalpoint_debrief"		"What happened... ? What was that... ? Comrads, where... where are you ? *dizziness* uh... *blacks out*"
+"bon6_crucidalpoint_debrief"		"Что случилось... ? Что это было... ? Комрадес, где... где вы ? *головокружение* эх... *теряет сознание*"
 
 // Bonus Mission 7 strings
 "[english]bon7_area9800PP2_debrief"		"Well done, team!"
