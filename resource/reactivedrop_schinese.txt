@@ -9972,6 +9972,7 @@
 // This is only shown on Linux/Steam Deck
 "[english]rd_about_wine_proton"		"Wine/Proton Version: %s1"
 "rd_about_wine_proton"		"Wine/Proton版本：%s1"
+// Changes to rd_about_rdteam and rd_about_valve should be reflected in storepage_81731_*.json's app[content][legal] line.
 "[english]rd_about_rdteam"		"Alien Swarm: Reactive Drop is a fan continuation of Valve's Alien Swarm (2010). Reactive Drop Team is a group of volunteers and is not affiliated with Valve. We're just big fans."
 "rd_about_rdteam"		"《异形丛生：虫启天降》是一款由游戏社区爱好者在Valve集团于2010年发布的游戏《异形丛生》的基础上制作的续作。Reactive Drop团队是由一群志愿者组成的， 并不供职于Valve集团，我们仅仅是一群游戏的资深粉丝。"
 "[english]rd_about_valve"		"© 2010 Valve Corporation. All rights reserved. Valve, Alien Swarm, the Alien Swarm logo, Source and the Source logo are trademarks and/or registered trademarks of Valve Corporation in the United States, and other countries."
