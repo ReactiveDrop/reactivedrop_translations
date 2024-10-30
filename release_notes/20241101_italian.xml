@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<content><string id="body">[list]
+[*][b]Fucile d'Assalto Prototipo 22A7-Z:[/b] Rimosso il calo dei danni dal fuoco alternativo. Ora il fuoco alternato infligge 1 danno a prescindere dalla distanza per ogni bersaglio che colpisce, anziché una frazione di punto di danno.
+[*][b]Torretta Incendiaria IAF:[/b] Corretto un bug del 2010 che faceva consumare a questa sentinella 2,5 munizioni per colpo.
+[*][b]Estintore:[/b] Questo oggetto ora può essere sempre raccolto sia nell'alloggiamento temporaneo che in quello di un'arma normale, invece di essere deciso in base alla posizione sulla mappa. Modificare rd_fire_extinguisher_force_temporary se questo rompe la sfida.
+[*][b]Laser Minerario:[/b] È stato risolto un problema visivo per cui il raggio sembrava seguire la direzione di mira del giocatore quando il laser veniva sparato da un bot aggiunto dallo stesso giocatore.
+[*]Aumentata la dimensione predefinita dell'indicatore di ricarica rapida (rd_fast_reload_under_marine_scale) da 1x a 3,5x.
+[*]Le armi iniziano a ricaricarsi automaticamente subito dopo essersi svuotate, invece di attendere il rilascio del pulsante di fuoco primario o il completamento del timer dell'intervallo dei colpi.
+[*]Abbassata la soglia di danno per cui i Mietitori non generano Xenomiti alla morte, da 135 a 125 danni. I requisiti per cui i danni inflitti devono essere più del doppio della salute residua del Mietitore e che il tipo di danno sia di tipo esplosivo rimangono invariati. Ciò significa che i colpi diretti delle granate dei fucili dovrebbero essere in grado di uccidere più facilmente i Mietitori feriti.
+[*]È stato risolto il problema della scelta dei giocatori massimi per la creazione della lobby, che si reimposta a 4 quando il menu viene ricaricato dopo aver modificato un'impostazione che si sposta su una schermata diversa.
+[/list]
+
+[h2]L'IAF ha bisogno di voi[url=https://stats.reactivedrop.com/7a]![/url][/h2]
+Alien Swarm: Reactive Drop sarà sempre gratuito, ma questo non significa che non ci voglia un sacco di lavoro da parte di molti volontari di talento per realizzarlo. Se puoi, prendi in considerazione la possibilità di creare contenuti per il [url=https://steamcommunity.com/app/563560/workshop/]Workshop di Steam[/url], segnalare bug, proporre migliorie per il [url=https://github.com/ReactiveDrop/reactivedrop_public_src]codice[/url], [url=https://github.com/ReactiveDrop/reactivedrop_translations]tradurre[/url] il gioco nella tua lingua o [url=https://store.steampowered.com/itemstore/563560/]inviare un dollaro[/url] ad una delle persone che ha reso Alien Swarm: Reactive Drop possibile. L'IAF ti ringrazia per il tuo continuo supporto, Comandante.</string><string id="subtitle"></string><string id="summary"></string><string id="title">Aggiornamento di AS:RD - 1 Novembre 2024 "Tune-Up"</string></content>
