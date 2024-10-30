@@ -19,10 +19,10 @@
 | [European Portuguese](#portuguese-português-europeu) | 5 | 180 | 33 | 2318 | 251 | 33 | 633 | 141 |
 | [Brazilian Portuguese](#brazilian-português) | 1 | ✔️ | ✔️ | 855 | 13 | 3 | 1 | 2 |
 | [Romanian](#non-curated-languages) | 56 | 1996 | 49 | 3940 | 271 | 212 | 978 | 147 |
-| [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 1 |
+| [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [European Spanish](#spanish-español-de-españa) | 33 | 2004 | 41 | 2645 | 271 | 212 | 717 | 146 |
 | [Latin American Spanish](#latam-español-latinoamericano) | 1 | 2004 | ✔️ | 4280 | 19 | 3 | 204 | 142 |
-| [Swedish](#swedish-svenska) | ✔️ | ✔️ | ✔️ | 550 | ✔️ | ✔️ | ✔️ | 82 |
+| [Swedish](#swedish-svenska) | ✔️ | ✔️ | ✔️ | 550 | ✔️ | ✔️ | ✔️ | 81 |
 | [Thai](#non-curated-languages) | 971 | 1993 | 51 | 4476 | 271 | 212 | 742 | 147 |
 | [Turkish](#non-curated-languages) | 56 | 137 | 43 | 3228 | 271 | 212 | 978 | 147 |
 | [Ukrainian](#ukrainian-українська) | 32 | 131 | 33 | 2773 | 271 | 212 | 936 | 146 |
@@ -1152,9 +1152,7 @@
 
 </summary>
 
-### Upcoming Release Notes
-
-- [20241101_russian.xml](release_notes/20241101_english.xml) is missing.
+✓ Up to date!
 
 </details>
 
@@ -1522,10 +1520,6 @@
 ### Strings
 
 - [reactivedrop_swedish.txt](resource/reactivedrop_swedish.txt) has 550 untranslated strings.
-
-### Upcoming Release Notes
-
-- [20241101_swedish.xml](release_notes/20241101_english.xml) is missing.
 
 ### Mail and News
 
