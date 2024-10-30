@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<content><string id="body">[list]
+[*][b]22A7-Z Prototyp Attackgevär:[/b] Tog bort damage falloff från alternativ avfyring. Gör nu 1 skada oavsett avstånd för alla mål som den träffar snarare än någon bråkdel av en skada.
+[*][b]IAF Eld Vaktgevär:[/b] Fixade en bugg från 2010 eran som fick detta vaktgevär att förbruka 2,5 ammunition per skott.
+[*][b]Brandsläckare:[/b] Det här föremålet kan nu alltid plockas upp både i den tillfälliga vapenplatsen eller i en normal vapenplats, istället för att avgöras per kartplats. Ändra rd_fire_extinguisher_force_temporary om det förstör din utmaning.
+[*][b]Gruvlaser:[/b] Fixade ett visuellt problem där strålen såg ut att följa spelarens riktning när lasern avfyrades av en bot som lagts till av den spelaren.
+[*]Ökade standardstorleken för snabb omladdningsindikatorn (rd_fast_reload_under_marine_scale) från 1x till 3.5x.
+[*]Vapen kommer nu konsekvent att starta sin automatiska omladdning direkt efter att de blivit tomma istället för att vänta på att den primära avfyrningsknappen ska släppas eller att skottintervalltimern ska slutföras.
+[*]Sänkte skadetröskeln där Skördare inte kommer att skapa Xenomites vid döden från 135 skada till 125 skada. Kraven på att skadan är mer än dubbelt så stor som Skördarens återstående hälsa och att skadetypen sprängts kvarstår. Detta innebär att direktträffar från gevärsgranater mer konsekvent borde kunna döda sårade Skördare.
+[*]Fixade rullgardinsmenyn för skapande av lobbyn max spelare till 4 när menyn laddas om efter att ha ändrat en inställning som flyttar till en annan skärm.
+[/list]
+
+[h2]IAF behöver dig[url=https://stats.reactivedrop.com/7a]![/url][/h2]
+Alien Swarm: Reactive Drop kommer alltid att vara gratis, men det betyder inte att det inte krävs mycket arbete från många duktiga volontärer. Om du kan, överväg att skapa innehåll för [url=https://steamcommunity.com/app/563560/workshop/]Steam Workshoppen[/url], rapportera buggar, föreslå [url=https://github.com/ReactiveDrop/reactivedrop_public_src]kod[/url] förbättringar, [url=https://github.com/ReactiveDrop/reactivedrop_translations]översätta[/url] spelet till ditt språk, eller [url=https://store.steampowered.com/itemstore/563560/]skicka en slant[/url] till en av personerna som gjorde Alien Swarm: Reactive Drop möjligt. IAF tackar för din fortsatta service, Kommandör.</string><string id="subtitle"></string><string id="summary"></string><string id="title">AS:RD Uppdatering - November 1, 2024 "Tune-Up"</string></content>
