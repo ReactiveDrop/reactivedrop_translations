@@ -1,19 +1,19 @@
 # Overview
 | Language | basemodui | closecaption | gameui | reactivedrop | items | statsweb | Strings | Files |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 1 |
-| [Traditional Chinese](#tchinese-繁體中文) | ✔️ | 3 | ✔️ | 92 | ✔️ | ✔️ | ✔️ | 126 |
+| [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
+| [Traditional Chinese](#tchinese-繁體中文) | ✔️ | ✔️ | ✔️ | 92 | ✔️ | ✔️ | ✔️ | 125 |
 | [Czech](#czech-čeština) | 76 | 1810 | 43 | 4233 | 271 | 212 | 983 | 146 |
 | [Danish](#non-curated-languages) | 57 | 231 | 43 | 3760 | 271 | 212 | 713 | 147 |
 | [Dutch](#non-curated-languages) | 56 | 2004 | 43 | 3228 | 271 | 212 | 713 | 146 |
 | [Finnish](#non-curated-languages) | 1 | 2004 | 42 | 3090 | 214 | 152 | 699 | 146 |
 | [French](#french-français) | 32 | 138 | 43 | 2594 | 270 | 212 | 653 | 125 |
-| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 1 |
+| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Hungarian](#non-curated-languages) | 56 | 138 | 43 | 3228 | 271 | 212 | 978 | 147 |
 | [Indonesian](#indonesian-indonesia) | 1286 | 2004 | 635 | 4244 | 274 | 216 | 983 | 147 |
-| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 1 |
-| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 35 | 1 |
-| [Korean](#koreana-한국어) | ✔️ | ✔️ | ✔️ | 67 | ✔️ | ✔️ | 5 | 46 |
+| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
+| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 35 | ✔️ |
+| [Korean](#koreana-한국어) | ✔️ | ✔️ | ✔️ | 67 | ✔️ | ✔️ | 5 | 29 |
 | [Norwegian Bokmål](#non-curated-languages) | 74 | 708 | 48 | 3934 | 271 | 212 | 713 | 147 |
 | [Polish](#polish-polski) | 2 | 2004 | ✔️ | 2872 | ✔️ | ✔️ | 134 | 126 |
 | [European Portuguese](#portuguese-português-europeu) | 5 | 180 | 33 | 2318 | 251 | 33 | 633 | 141 |
@@ -41,9 +41,7 @@
 
 </summary>
 
-### Upcoming Release Notes
-
-- [20241101_schinese.xml](release_notes/20241101_english.xml) is missing.
+✓ Up to date!
 
 </details>
 
@@ -55,12 +53,7 @@
 
 ### Strings
 
-- [closecaption_tchinese.txt](resource/closecaption_tchinese.txt) has 3 untranslated strings.
 - [reactivedrop_tchinese.txt](resource/reactivedrop_tchinese.txt) has 92 untranslated strings.
-
-### Upcoming Release Notes
-
-- [20241101_tchinese.xml](release_notes/20241101_english.xml) is missing.
 
 ### Mail and News
 
@@ -546,9 +539,7 @@
 
 </summary>
 
-### Upcoming Release Notes
-
-- [20241101_german.xml](release_notes/20241101_english.xml) is missing.
+✓ Up to date!
 
 </details>
 
@@ -744,9 +735,7 @@
 
 </summary>
 
-### Upcoming Release Notes
-
-- [20241101_italian.xml](release_notes/20241101_english.xml) is missing.
+✓ Up to date!
 
 </details>
 
@@ -760,10 +749,6 @@
 
 - [platform/vgui_japanese.txt](platform/vgui_japanese.txt) has 35 untranslated strings.
 
-### Upcoming Release Notes
-
-- [20241101_japanese.xml](release_notes/20241101_english.xml) is missing.
-
 </details>
 
 <details><summary>
@@ -776,32 +761,6 @@
 
 - [platform/vgui_koreana.txt](platform/vgui_koreana.txt) has 5 untranslated strings.
 - [reactivedrop_koreana.txt](resource/reactivedrop_koreana.txt) has 67 untranslated strings.
-
-### Steam Store and Community
-
-- [content_warning_563560_koreana.txt](store_page/content_warning_563560_english.txt) is missing.
-
-### Upcoming Release Notes
-
-- [20241101_koreana.xml](release_notes/20241101_english.xml) is missing.
-
-### Credits
-
-- [asw_credits_koreana.txt](credits/asw_credits_english.txt) is missing.
-- [biogen_corporation_credits_koreana.txt](credits/biogen_corporation_credits_english.txt) is missing.
-- [credits_acc32_official_koreana.txt](credits/credits_acc32_official_english.txt) is missing.
-- [credits_marine_academy_koreana.txt](credits/credits_marine_academy_english.txt) is missing.
-- [credits_namhumanum_koreana.txt](credits/credits_namhumanum_english.txt) is missing.
-- [deathmatch_credits_koreana.txt](credits/deathmatch_credits_english.txt) is missing.
-- [rd-LanasEscapeCredits_koreana.txt](credits/rd-LanasEscapeCredits_english.txt) is missing.
-- [rd-area9800Credits_koreana.txt](credits/rd-area9800Credits_english.txt) is missing.
-- [rd-ocs-credits_koreana.txt](credits/rd-ocs-credits_english.txt) is missing.
-- [rd-reduction_campaigncredits_koreana.txt](credits/rd-reduction_campaigncredits_english.txt) is missing.
-- [rd-tarnor_credits_koreana.txt](credits/rd-tarnor_credits_english.txt) is missing.
-- [rd_bonus_missions_credits_koreana.txt](credits/rd_bonus_missions_credits_english.txt) is missing.
-- [rd_paranoia_credits_koreana.txt](credits/rd_paranoia_credits_english.txt) is missing.
-- [rd_research7_credits_koreana.txt](credits/rd_research7_credits_english.txt) is missing.
-- [tilarus5_credits_koreana.txt](credits/tilarus5_credits_english.txt) is missing.
 
 ### Mail and News
 

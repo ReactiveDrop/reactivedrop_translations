@@ -7572,8 +7572,8 @@
 "bon5_documents_debrief3"		"E principalmente preste atenção nessas criaturas, elas podem sair em qualquer lugar em um ambiente como esse."
 
 // Bonus Mission 6 strings
-"[english]bon6_crucidalpoint_debrief"		"What happened... ? What was that... ? Comrads, where... where are you ? *vertiges* uh... *tombe dans les pommes*"
-"bon6_crucidalpoint_debrief"		"O que aconteceu... ? O que foi isso... ? Companheiros, onde... onde estão vocês? *vertigens* uh... *<I>tombe dans les pommes<I>*"
+"[english]bon6_crucidalpoint_debrief"		"What happened... ? What was that... ? Comrads, where... where are you ? *dizziness* uh... *blacks out*"
+"bon6_crucidalpoint_debrief"		"O que aconteceu... ? O que foi isso... ? Companheiros, onde... onde estão vocês? *tonteira* uh... *desmaia*"
 
 // Bonus Mission 7 strings
 "[english]bon7_area9800PP2_debrief"		"Well done, team!"
