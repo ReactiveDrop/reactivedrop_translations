@@ -9972,6 +9972,7 @@
 // This is only shown on Linux/Steam Deck
 "[english]rd_about_wine_proton"		"Wine/Proton Version: %s1"
 "rd_about_wine_proton"		"Wine/Proton 버전: %s1"
+// Changes to rd_about_rdteam and rd_about_valve should be reflected in storepage_81731_*.json's app[content][legal] line.
 "[english]rd_about_rdteam"		"Alien Swarm: Reactive Drop is a fan continuation of Valve's Alien Swarm (2010). Reactive Drop Team is a group of volunteers and is not affiliated with Valve. We're just big fans."
 "rd_about_rdteam"		"Alien Swarm: Reactive Drop은 Valve의 Alien Swarm(2010)의 팬메이드 속편입니다. Reactive Drop Team은 자원봉사자 그룹이며 Valve와 제휴하지 않았습니다. 우리는 그저 열렬한 팬일 뿐입니다."
 "[english]rd_about_valve"		"© 2010 Valve Corporation. All rights reserved. Valve, Alien Swarm, the Alien Swarm logo, Source and the Source logo are trademarks and/or registered trademarks of Valve Corporation in the United States, and other countries."
