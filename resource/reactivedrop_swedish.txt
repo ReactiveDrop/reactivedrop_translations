@@ -6243,7 +6243,7 @@
 "[english]asw_weaponl_hack_tool"		"HC42 Automated Hacking Tool"
 "asw_weaponl_hack_tool"		"HC42 Automatiserat hacknings verktyg"
 "[english]asw_wdesc_hack_tool"		"An advanced IAF tech-issue 'circuit breaker' hacking, developed in the high security IAF labs.  Offering a variety of intelligent circuit analyzers and bypassing logic gate systems, this tool can be used by any marine to bypass security systems.  Tech marines can use this tool to hack at twice the speed."
-"asw_wdesc_hack_tool"		"En avancerad IAF-teknik-standardutgåva "kretsbrytare" hackare anordning, utvecklad i högsäkerhet IAF labb. Detta verktyg erbjuder en mängd olika intelligenta kretsanalysatorer och förbikopplande logiska grindsystem, och kan användas av alla marina för att kringgå säkerhetssystem. Tekniska marinsoldater kan använda det här verktyget för att hacka med dubbelt så hög hastighet."
+"asw_wdesc_hack_tool"		"En avancerad IAF-teknik-standardutgåva 'kretsbrytare' hackare anordning, utvecklad i högsäkerhet IAF labb. Detta verktyg erbjuder en mängd olika intelligenta kretsanalysatorer och förbikopplande logiska grindsystem, och kan användas av alla marina för att kringgå säkerhetssystem. Tekniska marinsoldater kan använda det här verktyget för att hacka med dubbelt så hög hastighet."
 "[english]asw_weapon_hack_tool_attributes"		"Allows Any Marine To Hack"
 "asw_weapon_hack_tool_attributes"		"Tillåter vilken Marinsoldat att hacka"
 "[english]asw_weapon_sentry_railgun"		"Railgun Sentry Case"
