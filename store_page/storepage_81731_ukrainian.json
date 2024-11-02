@@ -8,5 +8,6 @@
 "app[content][sysreqs][windows][min][processor]": "Pentium 4 або новіше",
 "app[content][sysreqs][windows][min][graphics]": "DirectX 9 сумісна відеокарта з 128 MB, Shader model 2.0b. ATI X800, NVidia 6600 або новіше",
 "app[content][sysreqs][windows][min][soundcard]": "DirectX 9.0c compatible sound card",
-"app[content][sysreqs][windows][min][notes]": "Вимоги до місця на диску залежать від встановлених доповнень Майстерні."
+"app[content][sysreqs][windows][min][notes]": "Вимоги до місця на диску залежать від встановлених доповнень Майстерні.",
+		"app[game][3panticheat][othernameloc]": "VAC (Valve Anti-Cheat); additional custom server-side anti-cheat on dedicated servers"
 }
