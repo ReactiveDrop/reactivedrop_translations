@@ -9,5 +9,11 @@
 "app[content][sysreqs][windows][min][graphics]": "DirectX 9対応、VRAM 128MB、シェーダーモデル2.0b。 ATI X800、NVidia 6600以上のビデオカード",
 "app[content][sysreqs][windows][min][soundcard]": "DirectX 9.0c対応のサウンドカード",
 "app[content][sysreqs][windows][min][notes]": "必要ディスク容量はインストールするワークショップアドオン次第で大きく変わります。",
-"app[game][3panticheat][othernameloc]": "VAC (Valveアンチチート); 専用サーバーにカスタムされたチート対策システムを追加"
+"app[game][3panticheat][othernameloc]": "VAC (Valveアンチチート); 専用サーバーにカスタムされたチート対策システムを追加",
+"app[item_store][filters][0][localization]": "マップスタンプ",
+"app[item_store][filters][1][localization]": "寄付",
+"app[item_store][filters][2][localization]": "アーティスト",
+"app[item_store][filters][3][localization]": "プログラマー",
+"app[item_store][filters][4][localization]": "サーバー管理者",
+"app[item_store][filters][5][localization]": "翻訳者"
 }

@@ -9,5 +9,11 @@
 "app[content][sysreqs][windows][min][graphics]": "DirectX 9 kompatible Grafikkarte mit 128 MB, Shader model 2.0b. ATI X800, NVidia 6600 oder besser",
 "app[content][sysreqs][windows][min][soundcard]": "DirectX 9.0c kompatible Soundkarte",
 "app[content][sysreqs][windows][min][notes]": "Der benötigte Speicherplatz hängt von den installierten Workshop-Addons ab.",
-"app[game][3panticheat][othernameloc]": "VAC (Valve Anti-Cheat); zusätzliche serverseitige Anti-Cheat-Maßnahmen auf dedizierten Servern"
+"app[game][3panticheat][othernameloc]": "VAC (Valve Anti-Cheat); zusätzliche serverseitige Anti-Cheat-Maßnahmen auf dedizierten Servern",
+"app[item_store][filters][0][localization]": "Briefmarken",
+"app[item_store][filters][1][localization]": "Spenden",
+"app[item_store][filters][2][localization]": "Künstler",
+"app[item_store][filters][3][localization]": "Programmierer",
+"app[item_store][filters][4][localization]": "Server-Hosts",
+"app[item_store][filters][5][localization]": "Übersetzer"
 }

@@ -9,5 +9,11 @@
 "app[content][sysreqs][windows][min][graphics]": "128MB 용량의 DirectX 9 지원 비디오 카드, 셰이더 모델 2.0b. ATI X800, NVidia 6600 또는 그 이상",
 "app[content][sysreqs][windows][min][soundcard]": "DirectX 9.0c 지원 사운드 카드",
 "app[content][sysreqs][windows][min][notes]": "디스크 공간 요구 사항은 설치된 창작마당 애드온에 따라 달라집니다.",
-"app[game][3panticheat][othernameloc]": "VAC (밸브 안티 치트); 전용 서버에서는 부정 행위 방지 기능이 추가됩니다."
+"app[game][3panticheat][othernameloc]": "VAC (밸브 안티 치트); 전용 서버에서는 부정 행위 방지 기능이 추가됩니다.",
+"app[item_store][filters][0][localization]": "지도 우표",
+"app[item_store][filters][1][localization]": "기부금",
+"app[item_store][filters][2][localization]": "창작자",
+"app[item_store][filters][3][localization]": "프로그래머",
+"app[item_store][filters][4][localization]": "서버 관리자",
+"app[item_store][filters][5][localization]": "번역가"
 }

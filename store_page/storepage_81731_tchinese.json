@@ -9,5 +9,11 @@
 "app[content][sysreqs][windows][min][graphics]": "和 DirectX 9 相容顯卡128MB, 最佳化渲染引擎模式 2.0b. ATI X800, NVidia 6600 以上",
 "app[content][sysreqs][windows][min][soundcard]": "和 DirectX 9.0c 相容音效卡",
 "app[content][sysreqs][windows][min][notes]": "硬碟空間需求可能會因工作坊內容而有所變動",
-		"app[game][3panticheat][othernameloc]": "VAC (Valve Anti-Cheat); additional custom server-side anti-cheat on dedicated servers"
+		"app[game][3panticheat][othernameloc]": "VAC (Valve Anti-Cheat); additional custom server-side anti-cheat on dedicated servers",
+"app[item_store][filters][0][localization]": "地圖郵票",
+"app[item_store][filters][1][localization]": "捐款",
+"app[item_store][filters][2][localization]": "藝術家",
+"app[item_store][filters][3][localization]": "程式設計師",
+"app[item_store][filters][4][localization]": "伺服器持有者",
+"app[item_store][filters][5][localization]": "翻譯家"
 }
