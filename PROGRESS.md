@@ -1,19 +1,19 @@
 # Overview
 | Language | basemodui | closecaption | gameui | reactivedrop | items | statsweb | Strings | Files |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 1 |
+| [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Traditional Chinese](#tchinese-繁體中文) | ✔️ | ✔️ | ✔️ | 92 | ✔️ | ✔️ | ✔️ | 126 |
 | [Czech](#czech-čeština) | 76 | 1810 | 43 | 4233 | 271 | 212 | 983 | 146 |
 | [Danish](#non-curated-languages) | 57 | 231 | 43 | 3760 | 271 | 212 | 713 | 147 |
 | [Dutch](#non-curated-languages) | 56 | 2004 | 43 | 3228 | 271 | 212 | 713 | 146 |
 | [Finnish](#non-curated-languages) | 1 | 2004 | 42 | 3090 | 214 | 152 | 699 | 146 |
 | [French](#french-français) | 32 | 138 | 43 | 2594 | 270 | 212 | 653 | 125 |
-| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 1 |
+| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Hungarian](#non-curated-languages) | 56 | 138 | 43 | 3228 | 271 | 212 | 978 | 147 |
 | [Indonesian](#indonesian-indonesia) | 1286 | 2004 | 635 | 4244 | 274 | 216 | 983 | 147 |
-| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 1 |
-| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 35 | 1 |
-| [Korean](#koreana-한국어) | ✔️ | ✔️ | ✔️ | 67 | ✔️ | ✔️ | 5 | 30 |
+| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
+| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 35 | ✔️ |
+| [Korean](#koreana-한국어) | ✔️ | ✔️ | ✔️ | 67 | ✔️ | ✔️ | 5 | 29 |
 | [Norwegian Bokmål](#non-curated-languages) | 74 | 708 | 48 | 3934 | 271 | 212 | 713 | 147 |
 | [Polish](#polish-polski) | 2 | 2004 | ✔️ | 2872 | ✔️ | ✔️ | 134 | 127 |
 | [European Portuguese](#portuguese-português-europeu) | 5 | 180 | 33 | 2318 | 251 | 33 | 633 | 142 |
@@ -22,7 +22,7 @@
 | [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 1 |
 | [European Spanish](#spanish-español-de-españa) | 33 | 2004 | 41 | 2645 | 271 | 212 | 717 | 146 |
 | [Latin American Spanish](#latam-español-latinoamericano) | 1 | 2004 | ✔️ | 4280 | 19 | 3 | 204 | 143 |
-| [Swedish](#swedish-svenska) | ✔️ | ✔️ | ✔️ | 550 | ✔️ | ✔️ | ✔️ | 82 |
+| [Swedish](#swedish-svenska) | ✔️ | ✔️ | ✔️ | 523 | ✔️ | ✔️ | ✔️ | 81 |
 | [Thai](#non-curated-languages) | 971 | 1993 | 51 | 4476 | 271 | 212 | 742 | 147 |
 | [Turkish](#non-curated-languages) | 56 | 137 | 43 | 3228 | 271 | 212 | 978 | 147 |
 | [Ukrainian](#ukrainian-українська) | 32 | 131 | 33 | 2773 | 271 | 212 | 936 | 147 |
@@ -41,9 +41,7 @@
 
 </summary>
 
-### Steam Store and Community
-
-- [storepage_81731_schinese.json](store_page/storepage_81731_schinese.json) has 1 indented lines.
+✓ Up to date!
 
 </details>
 
@@ -545,9 +543,7 @@
 
 </summary>
 
-### Steam Store and Community
-
-- [storepage_81731_german.json](store_page/storepage_81731_german.json) has 1 indented lines.
+✓ Up to date!
 
 </details>
 
@@ -743,9 +739,7 @@
 
 </summary>
 
-### Steam Store and Community
-
-- [storepage_81731_italian.json](store_page/storepage_81731_italian.json) has 1 indented lines.
+✓ Up to date!
 
 </details>
 
@@ -759,10 +753,6 @@
 
 - [platform/vgui_japanese.txt](platform/vgui_japanese.txt) has 35 untranslated strings.
 
-### Steam Store and Community
-
-- [storepage_81731_japanese.json](store_page/storepage_81731_japanese.json) has 1 indented lines.
-
 </details>
 
 <details><summary>
@@ -775,10 +765,6 @@
 
 - [platform/vgui_koreana.txt](platform/vgui_koreana.txt) has 5 untranslated strings.
 - [reactivedrop_koreana.txt](resource/reactivedrop_koreana.txt) has 67 untranslated strings.
-
-### Steam Store and Community
-
-- [storepage_81731_koreana.json](store_page/storepage_81731_koreana.json) has 1 indented lines.
 
 ### Mail and News
 
@@ -1549,11 +1535,7 @@
 
 ### Strings
 
-- [reactivedrop_swedish.txt](resource/reactivedrop_swedish.txt) has 550 untranslated strings.
-
-### Steam Store and Community
-
-- [storepage_81731_swedish.json](store_page/storepage_81731_swedish.json) has 1 indented lines.
+- [reactivedrop_swedish.txt](resource/reactivedrop_swedish.txt) has 523 untranslated strings.
 
 ### Mail and News
 
