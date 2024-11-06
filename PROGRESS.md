@@ -19,7 +19,7 @@
 | [European Portuguese](#portuguese-português-europeu) | 5 | 180 | 33 | 2318 | 251 | 33 | 633 | 142 |
 | [Brazilian Portuguese](#brazilian-português) | 1 | ✔️ | ✔️ | 855 | 13 | 3 | 1 | 3 |
 | [Romanian](#non-curated-languages) | 56 | 1996 | 49 | 3940 | 271 | 212 | 972 | 147 |
-| [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 1 |
+| [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [European Spanish](#spanish-español-de-españa) | 33 | 2004 | 41 | 2645 | 271 | 212 | 711 | 146 |
 | [Latin American Spanish](#latam-español-latinoamericano) | 1 | 2004 | ✔️ | 4280 | 19 | 3 | 204 | 143 |
 | [Swedish](#swedish-svenska) | ✔️ | ✔️ | ✔️ | 523 | ✔️ | ✔️ | ✔️ | 81 |
@@ -1162,9 +1162,7 @@
 
 </summary>
 
-### Steam Store and Community
-
-- [storepage_81731_russian.json](store_page/storepage_81731_russian.json) has 1 indented lines.
+✓ Up to date!
 
 </details>
 
