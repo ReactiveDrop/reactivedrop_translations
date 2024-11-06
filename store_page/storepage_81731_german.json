@@ -9,5 +9,5 @@
 "app[content][sysreqs][windows][min][graphics]": "DirectX 9 kompatible Grafikkarte mit 128 MB, Shader model 2.0b. ATI X800, NVidia 6600 oder besser",
 "app[content][sysreqs][windows][min][soundcard]": "DirectX 9.0c kompatible Soundkarte",
 "app[content][sysreqs][windows][min][notes]": "Der benötigte Speicherplatz hängt von den installierten Workshop-Addons ab.",
-		"app[game][3panticheat][othernameloc]": "VAC (Valve Anti-Cheat); additional custom server-side anti-cheat on dedicated servers"
+"app[game][3panticheat][othernameloc]": "VAC (Valve Anti-Cheat); zusätzliche serverseitige Anti-Cheat-Maßnahmen auf dedizierten Servern"
 }
