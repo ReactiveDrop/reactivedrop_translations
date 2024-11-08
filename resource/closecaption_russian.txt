@@ -5451,14 +5451,14 @@
 "wolfe.Autogun1"		"<clr:154,205,50><B>Вульф:<B> Жрите это, сосунки."
 
 "[english]wolfe.Autogun2"		"<clr:154,205,50><B>Wolfe:<B> Right here. I'm right here."
-"wolfe.Autogun2"		"<clr:154,205,50><B>Вульф:<B> Прямо здесь. Я прямо здесь."
+"wolfe.Autogun2"		"<clr:154,205,50><B>Вульф:<B> Прямо здесь. Я здесь."
 
 "[english]wolfe.AutogunReply0"		"<clr:154,205,50><B>Wolfe:<B> Kill em all!"
 "wolfe.AutogunReply0"		"<clr:154,205,50><B>Вульф:<B> Убить их всех!"
 
 
 "[english]wolfe.AutogunReply1"		"<clr:154,205,50><B>Wolfe:<B> Kill em all. Kill em all!"
-"wolfe.AutogunReply1"		"<clr:154,205,50><B>Вульф:<B> Убить их всех. Убить их всех!"
+"wolfe.AutogunReply1"		"<clr:154,205,50><B>Вульф:<B> Бейте их. Убить их всех!"
 
 
 "[english]wolfe.AutogunReply2"		"<clr:154,205,50><B>Wolfe:<B> Right on!"
