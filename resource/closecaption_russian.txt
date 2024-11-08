@@ -6302,7 +6302,7 @@
 
 
 "[english]wolfe.AlienTooClose4"		"<clr:154,205,50><B>Wolfe:<B> On me, on me!"
-"wolfe.AlienTooClose4"		"<clr:154,205,50><B>Вульф:<B> Пристала ко мне, Пристала ко мне!"
+"wolfe.AlienTooClose4"		"<clr:154,205,50><B>Вульф:<B> Она на мне, на мне!"
 
 
 "[english]wolfe.MadFiring0"		"<clr:154,205,50><B>Wolfe:<B> Come on, get a piece of me!"
