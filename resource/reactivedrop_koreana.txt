@@ -9345,7 +9345,7 @@
 "[english]rd_reporting_error_sending_unknown"		"An unknown error occured while sending the report."
 "rd_reporting_error_sending_unknown"		"보고서를 보내던 중 알 수 없는 오류가 발생했습니다."
 "[english]rd_reporting_sending_report_to_server"		"Uploading your report..."
-"rd_reporting_sending_report_to_server"		"보고서 업로딩..."
+"rd_reporting_sending_report_to_server"		"보고서 전송중..."
 // %s1 is the error number, %s2 is the name associated with that number.
 "[english]rd_reporting_error_getting_ticket"		"Unable to get an identity ticket. Cannot report at this time. (Error code %s1 %s2)"
 "rd_reporting_error_getting_ticket"		"신분증을 가져올 수 없습니다. 지금은 신고할 수 없습니다. (오류 코드 %s1 %s2)"

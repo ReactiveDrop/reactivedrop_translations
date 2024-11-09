@@ -9,5 +9,11 @@
 "app[content][sysreqs][windows][min][graphics]": "Karta graficzna kompatybilna z DirectX 9, 128 MB, Shader model 2.0b. ATI X800, NVidia 6600 lub lepsza",
 "app[content][sysreqs][windows][min][soundcard]": "Karta dźwiękowa kompatybilna z DirectX 9.0c",
 "app[content][sysreqs][windows][min][notes]": "Miejsce na dysku zależy od ilości zainstalowanych dodatków z warsztatu.",
-		"app[game][3panticheat][othernameloc]": "VAC (Valve Anti-Cheat); additional custom server-side anti-cheat on dedicated servers"
+		"app[game][3panticheat][othernameloc]": "VAC (Valve Anti-Cheat); additional custom server-side anti-cheat on dedicated servers",
+"app[item_store][filters][0][localization]": "Znaczek Mapy",
+"app[item_store][filters][1][localization]": "Dotacje",
+"app[item_store][filters][2][localization]": "Artyści",
+"app[item_store][filters][3][localization]": "Programiści",
+"app[item_store][filters][4][localization]": "Hostowie Serwerów",
+"app[item_store][filters][5][localization]": "Tłumacze"
 }
