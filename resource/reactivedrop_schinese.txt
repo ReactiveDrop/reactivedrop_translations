@@ -2406,7 +2406,7 @@
 "[english]asw_reserved_tt"		"Marine currently reserved for previous commander."
 "asw_reserved_tt"		"选择一名士兵来代替之前的指挥官。"
 "[english]asw_wdesc_rifle"		"The 22A3-1 is the standard issue combat weapon given to an Interstellar Armed Forces marine. Offering high rate of fire and high velocity explosive rounds for the underslung grenade launcher, this weapon offers significant versatility in the field, capable of taking down both small and large targets. Standard clip size is 98 rounds."
-"asw_wdesc_rifle"		"22A3-1突击步枪，是星际武装部队士兵的标准作战武器。 这种武器为榴弹发射器提供高射速和高速爆炸弹，在战场上用途广泛，既能摧毁小型目标，也能摧毁大型目标。 其标准弹夹容量是98发。"
+"asw_wdesc_rifle"		"22A3-1突击步枪，是星际武装部队士兵的标准作战武器。 这把武器拥有着高射速以及装备了高速爆炸弹的吊挂式榴弹发射器。此武器在战场上用途广泛，可摧毁任何大小型目标。 其标准弹夹容量是98发。"
 "[english]asw_wdesc_prifle"		"The 22A7-Z is a prototype version of the standard 22A3 Assault Rifle, designed for use in urban environments, specializing in crowd control and fire situations around civilian targets. Still in testing stages, a number of models have been given to the IAF for evaluation. The A7-Z is fitted with an assisted aim firing chamber and a series of stun grenades. Due to the complicated calibration required for the Prototype's auto-aim, this rifle is only usable by technically trained marines."
 "asw_wdesc_prifle"		"22A7-Z原型突击步枪，是22A3突击步枪的原型版本，其被设计用于城市作战，专门用于人群控制以及对付特殊状况。 虽然还在测试阶段，但已经有一部分样枪给到了IAF，以进行测评。 A7-Z步枪装备了辅助瞄准开火装置以及震撼弹。 由于此原型步枪的自动瞄准功能操作过程复杂，所以只有那些通过了技术培训的士兵才可以使用。"
 "[english]asw_wdesc_sniper_rifle"		"The AVK-36 Marksman Rifle is a semi-automatic rifle, firing 7.62x51mm rounds capable of destroying a Swarm drone in a single shot. The AVK-36 is a modified version of the classic AVK-32, fitted for marine combat suits and meant for firing on the move."
