@@ -9,5 +9,11 @@
 		"app[content][sysreqs][windows][min][graphics]": "DirectX 9 compatible video card with 128 MB, Shader model 2.0b. ATI X800, NVidia 6600 or better",
 		"app[content][sysreqs][windows][min][soundcard]": "DirectX 9.0c compatible sound card",
 		"app[content][sysreqs][windows][min][notes]": "Disk space requirement depends on installed Workshop addons.",
-		"app[game][3panticheat][othernameloc]": "VAC (Valve Anti-Cheat); additional custom server-side anti-cheat on dedicated servers"
+		"app[game][3panticheat][othernameloc]": "VAC (Valve Anti-Cheat); additional custom server-side anti-cheat on dedicated servers",
+		"app[item_store][filters][0][localization]": "Map Stamps",
+		"app[item_store][filters][1][localization]": "Donations",
+		"app[item_store][filters][2][localization]": "Artists",
+		"app[item_store][filters][3][localization]": "Programmers",
+		"app[item_store][filters][4][localization]": "Server Hosts",
+		"app[item_store][filters][5][localization]": "Translators"
 }

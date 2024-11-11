@@ -9,5 +9,11 @@
 "app[content][sysreqs][windows][min][graphics]": "DirectX 9 kompatibelt grafikkort med 128 MB, Shader modell 2.0b. ATI X800, NVidia 6600 eller bättre",
 "app[content][sysreqs][windows][min][soundcard]": "DirectX 9.0c kompatibelt ljudkort",
 "app[content][sysreqs][windows][min][notes]": "Kravet på diskutrymme beror på installerade Workshop-tillägg.",
-		"app[game][3panticheat][othernameloc]": "VAC (Valve Anti-Cheat); additional custom server-side anti-cheat on dedicated servers"
+"app[game][3panticheat][othernameloc]": "VAC (Valve Anti-Cheat); ytterligare anpassade serversidad anti-fusk på dedikerade servrar",
+"app[item_store][filters][0][localization]": "Kartstämpel",
+"app[item_store][filters][1][localization]": "Donation",
+"app[item_store][filters][2][localization]": "Konstnärer",
+"app[item_store][filters][3][localization]": "Programmerare",
+"app[item_store][filters][4][localization]": "Servervärdar",
+"app[item_store][filters][5][localization]": "Översättare"
 }

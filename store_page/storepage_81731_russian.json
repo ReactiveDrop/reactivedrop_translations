@@ -9,5 +9,11 @@
 "app[content][sysreqs][windows][min][graphics]": "Совместимая с DirectX 9, 128 Мбайт, модель шейдера 2.0b. ATI X800, NVidia 6600 или выше",
 "app[content][sysreqs][windows][min][soundcard]": "Совместимая с DirectX 9.0c",
 "app[content][sysreqs][windows][min][notes]": "Требования к дисковому пространству зависят от установленных дополнений мастерской.",
-		"app[game][3panticheat][othernameloc]": "VAC (Valve Anti-Cheat); additional custom server-side anti-cheat on dedicated servers"
+"app[game][3panticheat][othernameloc]": "VAC (античит Valve); дополнительный пользовательский серверный античит на выделенных серверах",
+"app[item_store][filters][0][localization]": "Коллекционные марки",
+"app[item_store][filters][1][localization]": "Пожертвования",
+"app[item_store][filters][2][localization]": "Иллюстраторы",
+"app[item_store][filters][3][localization]": "Программисты",
+"app[item_store][filters][4][localization]": "Организаторы серверов",
+"app[item_store][filters][5][localization]": "Переводчики"
 }

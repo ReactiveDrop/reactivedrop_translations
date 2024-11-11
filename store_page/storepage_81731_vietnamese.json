@@ -9,5 +9,11 @@
 "app[content][sysreqs][windows][min][graphics]": "Bo mạch đồ họa tương thích DirectX 9 với 128 MB, Shader model 2.0b. ATI X800, NVidia 6600 hoặc tốt hơn",
 "app[content][sysreqs][windows][min][soundcard]": "Bo mạch âm thanh tương thích DirectX 9.0c",
 "app[content][sysreqs][windows][min][notes]": "Số lượng nhu cầu chỗ trống lưu trữ tùy vào các addon workshop đã cài.",
-		"app[game][3panticheat][othernameloc]": "VAC (Valve Anti-Cheat); additional custom server-side anti-cheat on dedicated servers"
+		"app[game][3panticheat][othernameloc]": "VAC (Valve Anti-Cheat); additional custom server-side anti-cheat on dedicated servers",
+"app[item_store][filters][0][localization]": "Tem bản đồ",
+"app[item_store][filters][1][localization]": "Quyên góp",
+"app[item_store][filters][2][localization]": "Nghệ sĩ",
+"app[item_store][filters][3][localization]": "Lập trình viên",
+"app[item_store][filters][4][localization]": "Người lưu trữ máy chủ",
+"app[item_store][filters][5][localization]": "Phiên dịch viên"
 }
