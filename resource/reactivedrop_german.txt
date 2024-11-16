@@ -10393,8 +10393,8 @@
 "rd_crafting_beta1_signup_decline"		"Für mich nicht, danke."
 "[english]rd_crafting_beta1_signup_already"		"You have successfully signed up for phase 1 of the beta."
 "rd_crafting_beta1_signup_already"		"Du hast dich erfolgreich für die Phase 1 der Beta angemeldet."
-"[english]rd_crafting_beta2_signup_already"		"You are participating in Phase 2 of the Anomalous Materials Project."
-"rd_crafting_beta2_signup_already"		"Du hast dich erfolgreich für die Phase 2 des Projekts \"Anomale Materialien\" angemeldet."
+		"[english]rd_crafting_beta2_signup_already"		"You are participating in Phase 2 of the Anomalous Materials Project."
+		"rd_crafting_beta2_signup_already"		"Du hast dich erfolgreich für die Phase 2 des Projekts \"Anomale Materialien\" angemeldet."
 
 "[english]rd_unbox_strange_weapon_title"		"Choose Strange Weapon"
 "rd_unbox_strange_weapon_title"		"Wähle eine seltsame Waffe"
