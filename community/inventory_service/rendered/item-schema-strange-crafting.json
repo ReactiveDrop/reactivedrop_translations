@@ -1732,7 +1732,8 @@
 			"itemdefid": 4029,
 			"type": "item",
 			"name": "Crafting Materials Beta - Phase 1 opt-in",
-			"game_only": true
+			"game_only": true,
+			"item_slot": "crafting_material_beta_opt_in"
 		},
 		{
 			"itemdefid": 4030,
@@ -1844,6 +1845,20 @@
 			"auto_stack": true,
 			"tags": "rarity:common;crafting_item:refined",
 			"compressed_dynamic_props": "m_unQuantity"
+		},
+		{
+			"itemdefid": 4033,
+			"type": "item",
+			"name": "Crafting Materials Beta - Phase 2 opt-in",
+			"game_only": true,
+			"item_slot": "crafting_material_beta_opt_in"
+		},
+		{
+			"itemdefid": 4034,
+			"type": "bundle",
+			"name": "Crafting Materials Beta - Phase 2 bundle",
+			"description": "beta phase 2 opt-in token, 1x strange weapon choice, 2x strange device choice, 1x bonus crafting material location discovery",
+			"bundle": "4033x1;4000x1;4001x2;7003x1"
 		}
 	]
 }
