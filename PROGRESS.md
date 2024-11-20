@@ -12,8 +12,8 @@
 | [Hungarian](#non-curated-languages) | 56 | 138 | 43 | 3233 | 271 | 212 | 972 | 147 |
 | [Indonesian](#indonesian-indonesia) | 1149 | 2004 | 635 | 4248 | 274 | 216 | 969 | 147 |
 | [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | 1 | ✔️ | ✔️ | ✔️ | ✔️ |
-| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | 1 | ✔️ | ✔️ | 35 | ✔️ |
-| [Korean](#koreana-한국어) | ✔️ | ✔️ | ✔️ | 68 | ✔️ | ✔️ | 5 | 29 |
+| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 35 | ✔️ |
+| [Korean](#koreana-한국어) | ✔️ | ✔️ | ✔️ | 67 | ✔️ | ✔️ | 5 | 29 |
 | [Norwegian Bokmål](#non-curated-languages) | 74 | 708 | 48 | 3938 | 271 | 212 | 707 | 147 |
 | [Polish](#polish-polski) | 2 | 2004 | ✔️ | 2877 | ✔️ | ✔️ | 134 | 127 |
 | [European Portuguese](#portuguese-português-europeu) | 5 | 180 | 33 | 2323 | 251 | 33 | 633 | 142 |
@@ -757,7 +757,6 @@
 ### Strings
 
 - [platform/vgui_japanese.txt](platform/vgui_japanese.txt) has 35 untranslated strings.
-- [reactivedrop_japanese.txt](resource/reactivedrop_japanese.txt) has 1 untranslated strings.
 
 </details>
 
@@ -770,7 +769,7 @@
 ### Strings
 
 - [platform/vgui_koreana.txt](platform/vgui_koreana.txt) has 5 untranslated strings.
-- [reactivedrop_koreana.txt](resource/reactivedrop_koreana.txt) has 68 untranslated strings.
+- [reactivedrop_koreana.txt](resource/reactivedrop_koreana.txt) has 67 untranslated strings.
 
 ### Mail and News
 
