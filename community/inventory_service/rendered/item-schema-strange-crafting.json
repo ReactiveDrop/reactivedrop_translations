@@ -28,7 +28,7 @@
 			"description_russian": "Странный ящик, в котором находится оружие. Что это за оружие? Вес этой коробки, кажется, меняется, пока вы рассматриваете возможные варианты.",
 			"description_schinese": "一个装有武器的盒子。里面是什么武器呢？当你考虑可能是什么时，盒子的重量似乎会随之发生变化。",
 			"description_swedish": "En märklig låda som innehåller ett vapen. Vad är det för vapen? Vikten i den här lådan verkar ändra när du överväger möjligheterna.",
-			"description_tchinese": "一個裝個武器的奇怪箱子，裡面裝的會是甚麼呢?箱子的重量似乎隨著你的想像而持續改變。",
+			"description_tchinese": "一個裝著武器的奇怪箱子，裡面裝的會是甚麼呢?箱子的重量似乎隨著你的想像而持續改變。",
 			"description_vietnamese": "Một chiếc hộp lạ kỳ chứa một vũ khí. Là vũ khí nào vậy? Cái sức nặng ở trong hộp này dường như thay đổi trong khi bạn đi xem xét các khả năng.",
 			"display_type_brazilian": "Ferramenta de Uso Único",
 			"display_type_english": "Single-Use Tool",
@@ -1732,7 +1732,8 @@
 			"itemdefid": 4029,
 			"type": "item",
 			"name": "Crafting Materials Beta - Phase 1 opt-in",
-			"game_only": true
+			"game_only": true,
+			"item_slot": "crafting_material_beta_opt_in"
 		},
 		{
 			"itemdefid": 4030,
@@ -1844,6 +1845,20 @@
 			"auto_stack": true,
 			"tags": "rarity:common;crafting_item:refined",
 			"compressed_dynamic_props": "m_unQuantity"
+		},
+		{
+			"itemdefid": 4033,
+			"type": "item",
+			"name": "Crafting Materials Beta - Phase 2 opt-in",
+			"game_only": true,
+			"item_slot": "crafting_material_beta_opt_in"
+		},
+		{
+			"itemdefid": 4034,
+			"type": "bundle",
+			"name": "Crafting Materials Beta - Phase 2 bundle",
+			"description": "beta phase 2 opt-in token, 1x strange weapon choice, 2x strange device choice, 1x bonus crafting material location discovery",
+			"bundle": "4033x1;4000x1;4001x2;7003x1"
 		}
 	]
 }

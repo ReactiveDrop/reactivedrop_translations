@@ -284,7 +284,7 @@
 "[english]item_container_beta_tester_strange_weapon_name"		"Beta Tester's Strange Weapon"
 "item_container_beta_tester_strange_weapon_name"		"Beta 測試員的怪異武器"
 "[english]item_container_beta_tester_strange_weapon_description"		"A strange box that contains a weapon. What weapon is it? The weight in this box appears to shift as you consider the possibilities."
-"item_container_beta_tester_strange_weapon_description"		"一個裝個武器的奇怪箱子，裡面裝的會是甚麼呢?箱子的重量似乎隨著你的想像而持續改變。"
+"item_container_beta_tester_strange_weapon_description"		"一個裝著武器的奇怪箱子，裡面裝的會是甚麼呢?箱子的重量似乎隨著你的想像而持續改變。"
 // Contains one Strange Device (stat-tracking module) of the player's choice.
 "[english]item_container_beta_tester_strange_device_name"		"Beta Tester's Strange Device"
 "item_container_beta_tester_strange_device_name"		"Beta 測試員的怪異裝置"
