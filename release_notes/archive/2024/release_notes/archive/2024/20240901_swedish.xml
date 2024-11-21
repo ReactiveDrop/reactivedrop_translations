@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<content><string id="body">[h2]Karttävling 2024 Vinnare[/h2]
+Downed Station av legomanas
+[img]{STEAM_CLAN_IMAGE}/27357479/96f9509932b257ed89058f3bcb4450083fe834de.png[/img]
+
+[h2]Ändringar i denna uppdatering[/h2]
+[list]
+[*]Tog bort cl_interp convar. Spelet kommer nu att fungera som om det var satt till 0.
+[*]Förbättrade felmeddelandet som visas när du försöker ansluta till en server som inte har uppdaterats ännu.
+[*]Fixade en partikelrelaterad krasch på grund av att "emit noise"-operatören gick sönder i denna motorkonstruktion.
+[*]Fixade en möjlig krasch när du navigerade i kontrollmenyn med ett tangentbord.
+[*]Ljudet för en marin som bränns men inte antänds spelar nu även för andra spelare.
+[*]Något ökat hur mild timingen för antändning av vänlig eld är när hardcore-vänlig eld är inaktiverad.
+[*]Fixade ett fall där TF2-verkstadsobjektikoner kunde visas på skärmen för val av utmaning för manuellt installerade utmaningar.
+[*]Lade till en AddTime-ingång för nedräkningsmål.
+[*]Fixade en krasch när man stod nära ett avvikande vapen som tappats av en frånkopplad spelare.
+[*]Tillagde stöd för vapen som har en separat laserpekarfäste från munkorgsfästet.
+[*]Flyttade kamerarelaterade konvar till servern för att göra dem tillgängliga för utmaningar.
+[*]Fixat lite liten text som visas i Times New Roman på Linux.
+[/list]
+
+[h2]IAF behöver dig[url=https://stats.reactivedrop.com/7a]![/url][/h2]
+Alien Swarm: Reactive Drop kommer alltid att vara gratis, men det betyder inte att det inte krävs mycket arbete från många duktiga volontärer. Om du kan, överväg att skapa innehåll för [url=https://steamcommunity.com/app/563560/workshop/]Steam Workshoppen[/url], rapportera buggar, föreslå [url=https://github.com/ReactiveDrop/reactivedrop_public_src]kod[/url] förbättringar, [url=https://github.com/ReactiveDrop/reactivedrop_translations]översätta[/url] spelet till ditt språk, eller [url=https://store.steampowered.com/itemstore/563560/]skicka en slant[/url] till en av personerna som gjorde Alien Swarm: Reactive Drop möjligt. IAF tackar för din fortsatta service, Kommandör.</string><string id="subtitle"></string><string id="summary"></string><string id="title">AS:RD Uppdatering - September 1, 2024 "Tiden är över"</string></content>
