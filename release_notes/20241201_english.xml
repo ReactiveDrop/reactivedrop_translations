@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<content><string id="body">It's December, and that means it's time for the monthly update!
+
+[list]
+[*][i]There's a message here, addressed to you.[/i]
+
+[*][b]M868 Flamer Unit:[/b] Adjusted friendly fire damage and duration on normal friendly fire difficulty. (Thanks, ModdedMarionette).[list]
+[*]Hardcore friendly fire is unchanged.
+[*]Friendly fire with a flamethrower now once again ignites immediately.
+[*]Damage now scales up linearly rather than slower at the start and faster at the end of the burn duration.
+[*]Afterburn duration is decreased by the amount of time since the previous friendly fire incident, minus two seconds.
+[*]Maximum afterburn duration is 100%, and minimum is 18.75%.
+[*]This means the minimum burn time for friendly fire with default game rules is: Easy: 1.125s, Normal: 1.5s, Hard: 2.25s, Insane and Brutal: a little over 2.8s.
+[*]Afterburn from friendly fire is now counted as friendly fire in mission statistics.
+[/list][*][b]Chainsaw:[/b] Lag compensation is now disabled by default. (Suggested by WTF-8).
+[*]Bot marines will use guns rather than melee when they have been damaged by multiple enemies in quick succession. (Suggested by WTF-8).
+[*]Sentries that have ammo remaining now revert to box form when they are destroyed rather than being completely lost.
+[*]Added several functions to the Director VScript interface for querying the list of NPC types. See the [url=https://developer.valvesoftware.com/wiki/Alien_Swarm:_Reactive_Drop/Scripting/Script_Functions#CDirector]Valve Developer Community wiki[/url] for details. (Suggested by ModdedMarionette).
+[*]Entities that push such as doors and trains now deal damage to non-boss aliens they are unable to push.
+[*]Fixed a texture reference count issue with the LanguagePreference material proxy. (Reported by mutezero).
+[*]Marine reservation time is now 2 seconds after an instant restart rather than the 30 seconds that a full map load provides. (Suggested by WTF-8).
+[*]Added a new main menu background themed after the Nam Humanum campaign. (Thanks, mfz).
+[/list]
+
+[h2]The IAF needs you[url=https://stats.reactivedrop.com/7a]![/url][/h2]
+Alien Swarm: Reactive Drop will always be free, but that doesn't mean it doesn't take a lot of work from a lot of talented volunteers to make. If you can, consider making content for the [url=https://steamcommunity.com/app/563560/workshop/]Steam Workshop[/url], reporting bugs, proposing [url=https://github.com/ReactiveDrop/reactivedrop_public_src]code[/url] improvements, [url=https://github.com/ReactiveDrop/reactivedrop_translations]translating[/url] the game into your language, or [url=https://store.steampowered.com/itemstore/563560/]sending a dollar[/url] to one of the people who made Alien Swarm: Reactive Drop possible. The IAF thanks you for your continued service, Commander.</string><string id="subtitle"></string><string id="summary">There is a message here, addressed to you.</string><string id="title">AS:RD Update - December 1, 2024 "Invitation"</string></content>
