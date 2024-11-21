@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<content><string id="body">12월이 됐으니 월간 업데이트를 진행할 때군요!
+
+[list]
+[*][i]사령관님께 전달한 내용이 여기 있습니다.[/i]
+
+[*][b]M868 화염방사기:[/b] 기본 아군 오인 사격 모드에서의 아군 피해량 및 지속 시간을 조정했습니다. (ModdedMarionette 에게 감사를 표합니다).[list]
+[*]극단적 아군 사격의 변경 내역은 없습니다.
+[*]다시 아군 화염방사기의 불에 맞을 시 즉시 점화됩니다.
+[*]이제 연소 지속 시간이 시작될 때는 더 느리게, 끝날 때는 더 빠르게 증가하는 대신 피해량이 선형적으로 증가합니다.
+[*]연소 지속 시간은 이전 아군 오인 사격 이후 경과한 시간에서 2초를 뺀 값만큼 감소합니다.
+[*]연소 지속 시간의 최대치는 100%, 최소치는 18.75% 입니다.
+[*]즉, 기본 게임 규칙에 따른 아군 오인 사격에 대한 최소 감소 시간은 다음과 같습니다. 쉬움: 1.125초, 보통: 1.5초, 어려움: 2.25초, 광란 및 잔혹함: 2.8초가 조금 넘습니다.
+[*]이제 아군 사격으로 인한 화상 피해는 임무 통계의 아군 오사로 집계됩니다.
+[/list][*][b]전기톱:[/b] 지연(Lag) 보정이 이제 기본적으로 비활성됩니다. (WTF-8 의 제안 사항).
+[*]봇 해병은 단시간에 연속 피해를 입었을 경우 근접 공격 대신 총을 사용합니다. (WTF-8 의 제안 사항).
+[*]탄약이 남아 있는 포탑은 파괴되지 않고 조립 상자 형태로 되돌아갑니다.
+[*]NPC 유형 목록을 쿼리하기 위해 Director VScript 인터페이스에 몇가지 기능을 추가했습니다. 자세한 사항은 [url=https://developer.valvesoftware.com/wiki/Alien_Swarm:_Reactive_Drop/Scripting/Script_Functions#CDirector]밸브 개발자 커뮤니티 위키[/url] 에서 확인할 수 있습니다. (ModdedMarionette 의 제안 사항).
+[*]이제 보스급이 아닌 외계 무리들은 문이나 기차등 밀어낼 수 없는 물체에 피해를 입습니다.
+[*]LanguagePreference 소재 프록시와 관련된 텍스처 참조 카운트 문제를 해결했습니다. (mutezero 가 문제 해결에 도움).
+[*]이제 즉시 재시작 후 해병 선택 시 걸리는 예약 시간이 30초에서 2초로 변경되었습니다. (WTF-8 의 제안 사항).
+[*]남 휴머넘 캠페인을 배경으로 한 새로운 메인 메뉴 배경이 추가됩니다. (mfz 에게 감사를 표합니다).
+[/list]
+
+[h2]IAF는 당신의 도움이 필요합니다[url=https://stats.reactivedrop.com/7a]![/url][/h2]
+Alien Swarm: Reactive Drop 은 항상 무료일 것이지만, 그것이 재능 있는 자원봉사자들의 노고가 필요하지 않다는 것을 의미하는 것은 아닙니다. 가능하다면 [url=https://steamcommunity.com/app/563560/workshop/]스팀 창작마당[/url] 에 컨텐츠를 게시하거나 버그를 보고하고 [url=https://github.com/ReactiveDrop/reactivedrop_public_src]code[/url] 에 개선사항을 제안하거나, [url=https://github.com/ReactiveDrop/reactivedrop_translations]translating[/url] 에서 귀하의 언어로 번역지원을 할 수 있습니다. 또한 [url=https://store.steampowered.com/itemstore/563560/]sending a dollar[/url] 에서 Alien Swarm: Reactive Drop 의 기여자들에게 후원할 수도 있습니다.  IAF는 언제나 당신의 지속적인 노고에 감사드립니다. 사령관님.</string><string id="subtitle"></string><string id="summary">사령관님께 전달한 내용이 여기 있습니다.</string><string id="title">AS:RD 업데이트 일자 - 2024년 12월 01알 "초청합니다."</string></content>
