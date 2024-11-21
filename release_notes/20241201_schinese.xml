@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<content><string id="body">又到了每月更新的时间了！
+
+[list]
+[*][i]您收到了一条新信息。[/i]
+
+[*]调整 [b]M868火焰喷射器[/b] 调整了正常友伤的伤害和持续时间。（感谢 ModdedMarionette）。[list]
+[*]写实友伤不变。
+[*]火焰喷射器的重新更改为 [b]立即点燃队友[/b]。
+[*]点燃后燃烧伤害更改为线性增加，之前是燃烧初期伤害低而后期伤害高。
+[*]燃烧持续时间将会减去自上次友伤以来的时间减去 2 秒。
+[*]点燃后最长燃烧持续时间为 100%，最短为 18.75%。
+[*]默认游戏规则下，最短燃烧持续时间分别为：简单：1.125s、普通：1.5s、困难：2.25s、疯狂及残酷：略大于2.8s。
+[*]点燃后燃烧伤害将计入任务的友伤数据。
+[/list][*]调整 [b]链锯[/b] 默认禁用延迟补偿。（由 WTF-8 建议）
+[*]调整 当机器人被多个敌人快速连续攻击时，他们会使用枪械而不是近战。（由 WTF-8 建议）
+[*]调整 有剩余弹药的哨戒枪/炮在被摧毁时会变为箱子形态，而不是完全消失。
+[*]增加 在 Director VScript 接口中新增了几个函数，用于查询 NPC 类型列表。详见[url=https://developer.valvesoftware.com/wiki/Alien_Swarm:_Reactive_Drop/Scripting/Script_Functions#CDirector]Valve开发者社区维基[/url]。（由 ModdedMarionette 建议）
+[*]调整 推动的实体，如门和火车，将对他们无法推动的非Boss异形造成伤害。
+[*]修复 LanguagePreference 材质代理的纹理引用计数问题。（由 mutezero 报告）
+[*]调整 快速重启后的角色保留时间改为 2 秒，而不再是以前的完全地图加载时的 30 秒。（由 WTF-8 建议）
+[*]增加 以 纳姆.霍姆纳 战役为主题的主界面背景。（谢谢 mfz）
+[/list]
+
+[h2]IAF需要助力[url=https://stats.reactivedrop.com/7a]！[/url][/h2]
+《异形丛生: 虫启天降》永久免费，但它同样亟需大量才华横溢的社区志愿者为其添砖加瓦。如果条件允许，请为游戏贡献新的模组或地图并上传到[url=https://steamcommunity.com/app/563560/workshop/]Steam创意工坊[/url]，或者提交漏洞反馈、优化[url=https://github.com/ReactiveDrop/reactivedrop_public_src]游戏代码[/url]，亦或是将游戏文本[url=https://github.com/ReactiveDrop/reactivedrop_translations]翻译[/url]成你的语言，也可以[url=https://store.steampowered.com/itemstore/563560/]捐款[/url]给那些为游戏做出贡献的人。IAF感谢您的长期支持！</string><string id="subtitle"></string><string id="summary">您收到了一条新信息。</string><string id="title">《异形丛生: 虫启天降》更新 - 2024年12月1日“邀请函更新”</string></content>
