@@ -253,7 +253,7 @@
 "asw_credits_"	"http://www.digitalgraphiclabs.com/"
 "asw_credits_"	""
 "asw_credits_"	""
-"asw_credits_"	"IHMISÄÄNI"
+"asw_credits_"	"ÄÄNINÄYTTELIJÄT"
 "asw_credits_"	""
 "asw_credits_"	"Hidden Wolfe - Sarge"
 "asw_credits_"	"Black Cat Games - Jaeger"
