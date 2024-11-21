@@ -10,7 +10,7 @@
 [*]Der Schaden steigt jetzt linear an, anstatt am Anfang langsamer und am Ende der Brenndauer schneller zu werden.
 [*]Die Dauer des Nachbrennens wird um die Zeit seit dem letzten Freundbeschuss minus zwei Sekunden verringert.
 [*]Die maximale Nachbrenndauer beträgt 100% und die minimale 18,75%.
-[*]Das bedeutet, dass die minimale Brenndauer für Freundbeschuss mit den Standard-Spielregeln beträgt: Leicht: 1,125s, Normal: 1,5s, Schwer: 2,25s, Wahnsinnig und Brutal: etwas über 2,8s.
+[*]Das bedeutet, dass die minimale Brenndauer für Freundbeschuss mit den Standard-Spielregeln beträgt: Leicht: 1,125 s, Normal: 1,5 s, Schwer: 2,25 s, Wahnsinnig und Brutal: etwas über 2,8 s.
 [*]Das Nachbrennen des Freundbeschusses wird jetzt in der Einsatzstatistik zum Freundbeschuss gezählt.
 [/list][*][b]Kettensäge:[/b] Der Lag-Kompensation ist jetzt standardmäßig deaktiviert. (Vorgeschlagen von WTF-8).
 [*]Bots benutzen jetzt Waffen statt Nahkampf, wenn sie von mehreren Feinden kurz hintereinander getroffen wurden. (Vorgeschlagen von WTF-8).
