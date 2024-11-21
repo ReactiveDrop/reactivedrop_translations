@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<content><string id="body">Es ist Dezember, und das bedeutet, dass es Zeit für das monatliche Update ist!
+
+[list]
+[*][i]Hier ist eine Nachricht, die an dich gerichtet ist.[/i]
+
+[*][b]M868 Flammenwerfer:[/b] Der Schaden und die Dauer des Freundbeschusses auf dem Schwierigkeitsgrad "Normal" wurden angepasst. (Danke, ModdedMarionette).[list]
+[*]Hardcore-Freundbeschuss bleibt unverändert.
+[*]Freundbeschuss mit dem Flammenwerfer entzündet jetzt wieder sofort.
+[*]Der Schaden steigt jetzt linear an, anstatt am Anfang langsamer und am Ende der Brenndauer schneller zu werden.
+[*]Die Dauer des Nachbrennens wird um die Zeit seit dem letzten Freundbeschuss minus zwei Sekunden verringert.
+[*]Die maximale Nachbrenndauer beträgt 100% und die minimale 18,75%.
+[*]Das bedeutet, dass die minimale Brenndauer für Freundbeschuss mit den Standard-Spielregeln beträgt: Leicht: 1,125s, Normal: 1,5s, Schwer: 2,25s, Wahnsinnig und Brutal: etwas über 2,8s.
+[*]Das Nachbrennen des Freundbeschusses wird jetzt in der Einsatzstatistik zum Freundbeschuss gezählt.
+[/list][*][b]Kettensäge:[/b] Der Lag-Kompensation ist jetzt standardmäßig deaktiviert. (Vorgeschlagen von WTF-8).
+[*]Bots benutzen jetzt Waffen statt Nahkampf, wenn sie von mehreren Feinden kurz hintereinander getroffen wurden. (Vorgeschlagen von WTF-8).
+[*]Wächter, die noch Munition haben, werden nun wieder in eine Kiste verwandelt, wenn sie zerstört werden, anstatt komplett verloren zu gehen..
+[*]Der Director-VScript-Schnittstelle wurden mehrere Funktionen hinzugefügt, um die Liste der NPC-Typen abzufragen. Schau ins [url=https://developer.valvesoftware.com/wiki/Alien_Swarm:_Reactive_Drop/Scripting/Script_Functions#CDirector]Valve Developer Community wiki[/url] für mehr Details. (Vorgeschlagen von ModdedMarionette).
+[*]Entitäten, die schieben, wie z.B. Türen und Züge, verursachen jetzt Schaden an Nicht-Boss-Aliens, die sie nicht schieben können.
+[*]Es wurde ein Problem mit der Anzahl der Texturreferenzen im LanguagePreference Material Proxy behoben. (Gemeldet von mutezero).
+[*]Die Reservierungszeit für Soldaten beträgt jetzt 2 Sekunden nach einem sofortigen Neustart und nicht mehr 30 Sekunden nach dem Laden einer vollständigen Karte. (Vorgeschlagen von WTF-8).
+[*]Es wurde ein neuer Hintergrund für das Hauptmenü hinzugefügt, der an die Nam Humanum Kampagne angelehnt ist. (Danke, mfz).
+[/list]
+
+[h2]Die IAF braucht dich[url=https://stats.reactivedrop.com/7a]![/url][/h2]
+Alien Swarm: Reactive Drop wird immer kostenlos sein, aber das bedeutet nicht, dass es nicht eine Menge Arbeit von vielen talentierten Freiwilligen erfordert, um sie zu erstellen. Wenn du kannst, überlege dir, Inhalte für den [url=https://steamcommunity.com/app/563560/workshop/]Steam Workshop[/url] zu machen, Fehler zu melden, Verbesserungen am [url=https://github.com/ReactiveDrop/reactivedrop_public_src]code[/url] vorzuschlagen, das Spiel in eine andere Sprache zu [url=https://github.com/ReactiveDrop/reactivedrop_translations]übersetzen[/url] oder [url=https://store.steampowered.com/itemstore/563560/]einen Euro[/url] zu einer der Personen zu schicken die Alien Swarm: Reactive Drop möglich machen. Die IAF dankt dir für deinen anhaltenden Dienst, Kommandant.</string><string id="subtitle"></string><string id="summary">Hier ist eine Nachricht, die an dich gerichtet ist.</string><string id="title">AS:RD Update - 1. December 2024 "Invitation"</string></content>
