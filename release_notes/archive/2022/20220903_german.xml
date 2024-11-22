@@ -28,8 +28,8 @@
 [h1]Waffen[/h1]
 [list]
 [*]Die Berechnung der Durchdringungschance für Geschosse, die durch eine Tür oder ein anderes nicht-lebendes Objekt gegangen sind, wurde korrigiert. (Aus einer 200%igen, 290%igen und 300%igen Chance wird nun eine 100%ige Chance, ein anderes Ziel zu durchbohren, anstatt 0%, 90% und 0%).
-[*][b]M868 Flammenwerfer:[/b] Die Munition pro Clip und der Munitionsverbrauch wurden verdoppelt. Der Hauptangriff verbraucht jetzt eine Einheit Treibstoff pro Schuss.
-[*][b]IAF Minigun:[/b] Verdoppelung der Munition pro Clip und des Munitionsverbrauchs. Der Hauptangriff verbraucht jetzt eine Einheit Munition pro Schuss.
+[*][b]M868 Flammenwerfer:[/b] Die Munition pro Magazin und der Munitionsverbrauch wurden verdoppelt. Der Hauptangriff verbraucht jetzt eine Einheit Treibstoff pro Schuss.
+[*][b]IAF Minigun:[/b] Verdoppelung der Munition pro Magazin und des Munitionsverbrauchs. Der Hauptangriff verbraucht jetzt eine Einheit Munition pro Schuss.
 [/list]
 
 [h1]Übersetzungen[/h1]
