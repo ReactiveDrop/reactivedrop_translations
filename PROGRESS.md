@@ -2,31 +2,31 @@
 | Language | basemodui | closecaption | gameui | reactivedrop | items | statsweb | Strings | Files |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 1 |
-| [Traditional Chinese](#tchinese-繁體中文) | ✔️ | ✔️ | ✔️ | 93 | ✔️ | ✔️ | ✔️ | 127 |
+| [Traditional Chinese](#tchinese-繁體中文) | ✔️ | ✔️ | ✔️ | 93 | ✔️ | ✔️ | ✔️ | 126 |
 | [Czech](#czech-čeština) | 76 | 1810 | 43 | 4237 | 271 | 212 | 977 | 146 |
 | [Danish](#non-curated-languages) | 57 | 231 | 43 | 3764 | 271 | 212 | 707 | 147 |
 | [Dutch](#non-curated-languages) | 56 | 2004 | 43 | 3233 | 271 | 212 | 707 | 146 |
-| [Finnish](#non-curated-languages) | 1 | 2004 | 42 | 3094 | 214 | 152 | 693 | 146 |
+| [Finnish](#non-curated-languages) | ✔️ | 2004 | 42 | 3094 | 208 | 152 | 675 | 145 |
 | [French](#french-français) | 32 | 138 | 43 | 2599 | 270 | 212 | 647 | 125 |
-| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 1 |
+| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Hungarian](#non-curated-languages) | 56 | 138 | 43 | 3233 | 271 | 212 | 972 | 147 |
 | [Indonesian](#indonesian-indonesia) | 1149 | 2004 | 635 | 4248 | 274 | 216 | 969 | 147 |
 | [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 1 |
 | [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 35 | 1 |
-| [Korean](#koreana-한국어) | ✔️ | ✔️ | ✔️ | 67 | ✔️ | ✔️ | 5 | 30 |
+| [Korean](#koreana-한국어) | ✔️ | ✔️ | ✔️ | 67 | ✔️ | ✔️ | 5 | 29 |
 | [Norwegian Bokmål](#non-curated-languages) | 74 | 708 | 48 | 3938 | 271 | 212 | 707 | 147 |
 | [Polish](#polish-polski) | 2 | 2004 | ✔️ | 2877 | ✔️ | ✔️ | 134 | 127 |
 | [European Portuguese](#portuguese-português-europeu) | 5 | 180 | 33 | 2323 | 251 | 33 | 633 | 142 |
 | [Brazilian Portuguese](#brazilian-português) | 1 | ✔️ | ✔️ | 860 | 13 | 3 | 1 | 3 |
 | [Romanian](#non-curated-languages) | 56 | 1996 | 49 | 3944 | 271 | 212 | 972 | 147 |
-| [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | 5 | ✔️ | ✔️ | ✔️ | 1 |
+| [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | 1 | ✔️ | ✔️ | ✔️ | ✔️ |
 | [European Spanish](#spanish-español-de-españa) | 33 | 2004 | 41 | 2650 | 271 | 212 | 711 | 146 |
 | [Latin American Spanish](#latam-español-latinoamericano) | 1 | 2004 | ✔️ | 4284 | 19 | 3 | 204 | 143 |
-| [Swedish](#swedish-svenska) | ✔️ | ✔️ | ✔️ | 527 | ✔️ | ✔️ | ✔️ | 82 |
+| [Swedish](#swedish-svenska) | ✔️ | ✔️ | ✔️ | 436 | ✔️ | ✔️ | ✔️ | 81 |
 | [Thai](#non-curated-languages) | 971 | 1993 | 51 | 4480 | 271 | 212 | 736 | 147 |
 | [Turkish](#non-curated-languages) | 56 | 137 | 43 | 3233 | 271 | 212 | 972 | 147 |
 | [Ukrainian](#ukrainian-українська) | 32 | 131 | 33 | 2778 | 271 | 212 | 932 | 147 |
-| [Vietnamese](#vietnamese-tiếng-việt) | 1 | 2004 | ✔️ | 3518 | 19 | 3 | 1 | 85 |
+| [Vietnamese](#vietnamese-tiếng-việt) | 1 | 2004 | ✔️ | 3518 | 19 | 3 | ✔️ | 85 |
 ### Legend
 - ***Non-capitalized column headers*** are the most important specific files and their number of missing strings. All of these txt-files are located in the resources folder. Except statsweb, which lies in community/stats_website, it's an vdf-file.
 - ***Strings*** is the number of missing strings not included in one of the files which get an individual non-capitalized column.
@@ -60,10 +60,6 @@
 ### Steam Store and Community
 
 - [storepage_81731_tchinese.json](store_page/storepage_81731_tchinese.json) has 1 indented lines.
-
-### Upcoming Release Notes
-
-- [20241201_tchinese.xml](release_notes/20241201_english.xml) is missing.
 
 ### Mail and News
 
@@ -549,9 +545,7 @@
 
 </summary>
 
-### Upcoming Release Notes
-
-- [20241201_german.xml](release_notes/20241201_english.xml) is missing.
+✓ Up to date!
 
 </details>
 
@@ -778,10 +772,6 @@
 
 - [platform/vgui_koreana.txt](platform/vgui_koreana.txt) has 5 untranslated strings.
 - [reactivedrop_koreana.txt](resource/reactivedrop_koreana.txt) has 67 untranslated strings.
-
-### Upcoming Release Notes
-
-- [20241201_koreana.xml](release_notes/20241201_english.xml) is missing.
 
 ### Mail and News
 
@@ -1181,11 +1171,7 @@
 
 ### Strings
 
-- [reactivedrop_russian.txt](resource/reactivedrop_russian.txt) has 5 untranslated strings.
-
-### Upcoming Release Notes
-
-- [20241201_russian.xml](release_notes/20241201_english.xml) is missing.
+- [reactivedrop_russian.txt](resource/reactivedrop_russian.txt) has 1 untranslated strings.
 
 </details>
 
@@ -1556,11 +1542,7 @@
 
 ### Strings
 
-- [reactivedrop_swedish.txt](resource/reactivedrop_swedish.txt) has 527 untranslated strings.
-
-### Upcoming Release Notes
-
-- [20241201_swedish.xml](release_notes/20241201_english.xml) is missing.
+- [reactivedrop_swedish.txt](resource/reactivedrop_swedish.txt) has 436 untranslated strings.
 
 ### Mail and News
 
@@ -1841,7 +1823,6 @@
 
 ### Strings
 
-- [inventory_service_tags_vietnamese.vdf](community/inventory_service/inventory_service_tags_vietnamese.vdf) has 1 untranslated strings.
 - [items_vietnamese.vdf](community/inventory_service/items_vietnamese.vdf) has 19 untranslated strings.
 - [statsweb_vietnamese.vdf](community/stats_website/statsweb_vietnamese.vdf) has 3 untranslated strings.
 - [basemodui_vietnamese.txt](resource/basemodui_vietnamese.txt) has 1 untranslated strings.
