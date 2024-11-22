@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<content><string id="body">12月到了，代表是時候每月更新囉!
+
+[list]
+[*][i]有條訊息，要傳達給你。[/i]
+
+[*][b]M868 火焰噴射器:[/b] 調整正常友軍傷害難度時的傷害和持續時間。(感謝ModdedMarionette).[list]
+[*]寫實友軍傷害無調整。
+[*]火焰噴射器的友軍傷害機制再度調整為馬上點燃隊友。
+[*]燃燒友軍傷害現在會呈線性提升，而不是一開始緩慢，最後急速提升。
+[*]持續燃燒時間會根據前一次友軍傷害的時間來減少2秒。
+[*]最大持續燃燒時間為100%，最低為18.75%。
+[*]這代表在各個難度，正常友軍傷害的最低燃燒時間是：簡單: 1.125秒, 普通: 1.5秒, 困難: 2.25秒, 瘋狂和殘酷: 稍微多於2.8秒。
+[*]來自友軍點燃之後的持續燃燒現在也會被計算在任務友軍傷害資訊中。
+[/list][*][b]電鋸:[/b] 延遲補償預設變更為取消狀態。 (WTF-8的建議).
+[*]AI隊友現在被敵人圍毆時，會用槍而不會再繼續用進戰攻擊。(WTF-8的建議).
+[*]機槍塔現在如果還保有彈藥的話，被摧毀時會變回盒子而不會消失。
+[*]在Director VScript介面中追加一些功能，能夠搜尋NPC的種類。 詳細從[url=https://developer.valvesoftware.com/wiki/Alien_Swarm:_Reactive_Drop/Scripting/Script_Functions#CDirector]Valve Developer Community wiki[/url]來確認。 (ModdedMarionette的建議).
+[*]會推擠的物體像是門或是火車現在會對無法推擠的非頭目異形造成傷害。.
+[*]修正Language Preference material proxy的材質套用數量問題(mutezero回報).
+[*]遊戲馬上重新開始之後的角色預留時間變更為2秒，而不是讀取新地圖之後的30秒。(WTF-8的建議).
+[*]新增以戰役：為了人類為主題的主選單背景。 (感謝mfz).
+[/list]
+
+[h2]IAF需要你[url=https://stats.reactivedrop.com/7a]![/url][/h2]
+Alien Swarm: Reactive Drop永遠都會是免費遊玩，但那並不代表遊戲沒有大量志願者的付出。如果你有能力的話，可以考慮為這些內容付出[url=https://steamcommunity.com/app/563560/workshop/]Steam工作坊[/url], 回報錯誤,改善[url=https://github.com/ReactiveDrop/reactivedrop_public_src]程式碼 [/url]， [url=https://github.com/ReactiveDrop/reactivedrop_translations]翻譯[/url]遊戲到你的母語或是[url=https://store.steampowered.com/itemstore/563560/]贊助一美金[/url]給那些讓 Alien Swarm: Reactive Drop 能夠繼續存在的貢獻者們。 IAF感謝你們持續的付出，指揮官。</string><string id="subtitle"></string><string id="summary">這裡有條訊息，要傳達給你</string><string id="title">AS:RD更新 - 12月 1, 2024 "邀請函"</string></content>
