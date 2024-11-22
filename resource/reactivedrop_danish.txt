@@ -2224,7 +2224,7 @@
 "[english]asw_instructor_request_heal"		"Call Medic"
 "asw_instructor_request_heal"		"Kald på læge"
 "[english]asw_instructor_clip_usage"		"%s1 Ammo lost in old mag"
-"asw_instructor_clip_usage"		"%s1 ammunition tabt i sidste klip"
+"asw_instructor_clip_usage"		"%s1 ammunition tabt i sidste magasin"
 		"[english]asw_instructor_use_offhand"		"Use Offhand Item"
 		"asw_instructor_use_offhand"		"Use Offhand Item"
 		"[english]asw_instructor_use_offhand_health"		"Offhand Heal Self"
