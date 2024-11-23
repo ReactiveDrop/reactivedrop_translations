@@ -1,7 +1,7 @@
 # Overview
 | Language | basemodui | closecaption | gameui | reactivedrop | items | statsweb | Strings | Files |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 1 |
+| [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Traditional Chinese](#tchinese-繁體中文) | ✔️ | ✔️ | ✔️ | 93 | ✔️ | ✔️ | ✔️ | 126 |
 | [Czech](#czech-čeština) | 76 | 1810 | 43 | 4237 | 271 | 212 | 977 | 146 |
 | [Danish](#non-curated-languages) | 57 | 231 | 43 | 3764 | 271 | 212 | 707 | 147 |
@@ -11,8 +11,8 @@
 | [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Hungarian](#non-curated-languages) | 56 | 138 | 43 | 3233 | 271 | 212 | 972 | 147 |
 | [Indonesian](#indonesian-indonesia) | 1149 | 2004 | 635 | 4248 | 274 | 216 | 969 | 147 |
-| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 1 |
-| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 35 | 1 |
+| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
+| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 35 | ✔️ |
 | [Korean](#koreana-한국어) | ✔️ | ✔️ | ✔️ | 67 | ✔️ | ✔️ | 5 | 29 |
 | [Norwegian Bokmål](#non-curated-languages) | 74 | 708 | 48 | 3938 | 271 | 212 | 707 | 147 |
 | [Polish](#polish-polski) | 2 | 2004 | ✔️ | 2877 | ✔️ | ✔️ | 134 | 127 |
@@ -41,9 +41,7 @@
 
 </summary>
 
-### Upcoming Release Notes
-
-- [20241201_schinese.xml](release_notes/20241201_english.xml) is missing.
+✓ Up to date!
 
 </details>
 
@@ -740,9 +738,7 @@
 
 </summary>
 
-### Upcoming Release Notes
-
-- [20241201_italian.xml](release_notes/20241201_english.xml) is missing.
+✓ Up to date!
 
 </details>
 
@@ -755,10 +751,6 @@
 ### Strings
 
 - [platform/vgui_japanese.txt](platform/vgui_japanese.txt) has 35 untranslated strings.
-
-### Upcoming Release Notes
-
-- [20241201_japanese.xml](release_notes/20241201_english.xml) is missing.
 
 </details>
 
