@@ -2224,7 +2224,7 @@
 "[english]asw_instructor_request_heal"		"Call Medic"
 "asw_instructor_request_heal"		"Kalla på Sjukvårdare"
 "[english]asw_instructor_clip_usage"		"%s1 Ammo lost in old mag"
-"asw_instructor_clip_usage"		"%s1 Ammo förlorad i det gamla magasinet"
+"asw_instructor_clip_usage"		"%s1 ammunition förlorat i det gamla magasinet"
 "[english]asw_instructor_use_offhand"		"Use Offhand Item"
 "asw_instructor_use_offhand"		"Använd Oförberett Föremål"
 "[english]asw_instructor_use_offhand_health"		"Offhand Heal Self"
