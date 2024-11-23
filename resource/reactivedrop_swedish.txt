@@ -10405,7 +10405,7 @@
 "[english]rd_unbox_strange_weapon_warning_already_owned"		"You already own a Strange weapon of this type."
 "rd_unbox_strange_weapon_warning_already_owned"		"Du äger redan ett Avvikande vapen av den här typen."
 "[english]rd_unbox_strange_weapon_warning_cannot_currently_use"		"You do not meet the requirements to use this weapon. It will not be selectable in missions until you unlock the base weapon."
-"rd_unbox_strange_weapon_warning_cannot_currently_use"		"Du uppfyller inte kraven för att använda detta vapen. /nDet går inte att välja i uppdrag förrän du låser upp basvapnet."
+"rd_unbox_strange_weapon_warning_cannot_currently_use"		"Du uppfyller inte kraven för att använda detta vapen. Det går inte att välja i uppdrag förrän du låser upp basvapnet."
 // this shows a list of icons that can be hovered over to see item names like "Missions" and "Allies Extinguished"
 "[english]rd_unbox_strange_weapon_compatible_devices"		"Compatible devices:"
 "rd_unbox_strange_weapon_compatible_devices"		"Kompatibla enheter:"
