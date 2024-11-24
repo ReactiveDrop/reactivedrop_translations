@@ -48,4 +48,4 @@
 [list]
 [*]Tillagde en ny metod till rd_hud_vscript: PaintPolygon(hörn, röd, grön, blå, alfa, textur). hörn är en uppsättning tabeller som var och en innehåller x-, y-, s- och t-koordinater. Det måste finnas minst tre hörn och de ska bilda en konvex form i medurs ordning. x och y är skärmkoordinater. s och t är texturkoordinater, från 0 till 1.
 [/list]
-</string><string id="subtitle"></string><string id="summary"></string><string id="title">Alien Swarm: Reactive Drop Update - January 1, 2024</string></content>
+</string><string id="subtitle"></string><string id="summary"></string><string id="title">Alien Swarm: Reactive Drop Uppdatering - Januari 1, 2024</string></content>
