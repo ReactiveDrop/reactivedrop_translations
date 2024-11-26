@@ -25,7 +25,7 @@
 | [Swedish](#swedish-svenska) | ✔️ | ✔️ | ✔️ | 436 | ✔️ | ✔️ | ✔️ | 81 |
 | [Thai](#non-curated-languages) | 971 | 1993 | 51 | 4480 | 271 | 212 | 736 | 147 |
 | [Turkish](#non-curated-languages) | 56 | 137 | 43 | 3233 | 271 | 212 | 972 | 147 |
-| [Ukrainian](#ukrainian-українська) | 32 | 131 | 33 | 2778 | 271 | 212 | 932 | 147 |
+| [Ukrainian](#ukrainian-українська) | 32 | 131 | 33 | 2799 | 271 | 212 | 932 | 147 |
 | [Vietnamese](#vietnamese-tiếng-việt) | 1 | 2004 | ✔️ | 3518 | 19 | 3 | ✔️ | 85 |
 ### Legend
 - ***Non-capitalized column headers*** are the most important specific files and their number of missing strings. All of these txt-files are located in the resources folder. Except statsweb, which lies in community/stats_website, it's an vdf-file.
@@ -1643,7 +1643,7 @@
 - [basemodui_ukrainian.txt](resource/basemodui_ukrainian.txt) has 32 untranslated strings.
 - [closecaption_ukrainian.txt](resource/closecaption_ukrainian.txt) has 131 untranslated strings.
 - [gameui_ukrainian.txt](resource/gameui_ukrainian.txt) has 33 untranslated strings.
-- [reactivedrop_ukrainian.txt](resource/reactivedrop_ukrainian.txt) has 2778 untranslated strings.
+- [reactivedrop_ukrainian.txt](resource/reactivedrop_ukrainian.txt) has 2799 untranslated strings.
 - [valve_ukrainian.txt](resource/valve_ukrainian.txt) has 266 untranslated strings.
 
 ### Steam Store and Community
