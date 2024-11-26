@@ -28,8 +28,8 @@
 [h1]Weapons[/h1]
 [list]
 [*]Fixed piercing chance calculation for bullets that went through a door or other non-living object. (A 200% chance, 290% chance, and 300% chance now all become 100% chance of piercing another target rather than 0%, 90%, and 0%.)
-[*][b]M868 Flamer Unit:[/b] Doubled ammo per clip and ammo usage. Primary attack now uses one unit of fuel per shot.
-[*][b]IAF Minigun:[/b] Doubled ammo per clip and ammo usage. Primary attack now uses one unit of ammo per shot.
+[*][b]M868 Flamer Unit:[/b] Doubled ammo per mag and ammo usage. Primary attack now uses one unit of fuel per shot.
+[*][b]IAF Minigun:[/b] Doubled ammo per mag and ammo usage. Primary attack now uses one unit of ammo per shot.
 [/list]
 
 [h1]Translations[/h1]
