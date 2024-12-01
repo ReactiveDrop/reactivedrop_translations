@@ -38,8 +38,8 @@
 "examplecampaign_tech_message_02"	"...place an asw_tech_marine_req somewhere in your level"
 
 "examplecampaign_spawning1_message"	"Spawning aliens within player's sight"
-"examplecampaign_drone_message"	"asw_drone climing out of hole"
-"examplecampaign_ranger_message"	"asw_ranger climing out of hole"
+"examplecampaign_drone_message"	"asw_drone climbing out of hole"
+"examplecampaign_ranger_message"	"asw_ranger climbing out of hole"
 "examplecampaign_drone_railing_message"	"asw_drone climbing over railing"
 "examplecampaign_boomer_hole_message"	"asw_boomer climbing out of hole"
 "examplecampaign_boomer_roll_message"	"asw_boomer rolling into view"

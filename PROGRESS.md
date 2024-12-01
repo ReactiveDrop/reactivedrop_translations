@@ -2,7 +2,7 @@
 | Language | basemodui | closecaption | gameui | reactivedrop | items | statsweb | Strings | Files |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
-| [Traditional Chinese](#tchinese-繁體中文) | ✔️ | ✔️ | ✔️ | 93 | ✔️ | ✔️ | ✔️ | 126 |
+| [Traditional Chinese](#tchinese-繁體中文) | ✔️ | ✔️ | ✔️ | 92 | ✔️ | ✔️ | ✔️ | 126 |
 | [Czech](#czech-čeština) | 76 | 1810 | 43 | 4237 | 271 | 212 | 977 | 146 |
 | [Danish](#non-curated-languages) | 57 | 231 | 43 | 3764 | 271 | 212 | 707 | 147 |
 | [Dutch](#non-curated-languages) | 56 | 2004 | 43 | 3233 | 271 | 212 | 707 | 146 |
@@ -20,7 +20,7 @@
 | [Brazilian Portuguese](#brazilian-português) | 1 | ✔️ | ✔️ | 860 | 13 | 3 | 1 | 3 |
 | [Romanian](#non-curated-languages) | 56 | 1996 | 49 | 3944 | 271 | 212 | 972 | 147 |
 | [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | 1 | ✔️ | ✔️ | ✔️ | ✔️ |
-| [European Spanish](#spanish-español-de-españa) | 33 | 2004 | 41 | 2650 | 271 | 212 | 711 | 146 |
+| [European Spanish](#spanish-español-de-españa) | 33 | 2004 | 41 | 2650 | 271 | 212 | 672 | 146 |
 | [Latin American Spanish](#latam-español-latinoamericano) | 1 | 2004 | ✔️ | 4284 | 19 | 3 | 204 | 143 |
 | [Swedish](#swedish-svenska) | ✔️ | ✔️ | ✔️ | 436 | ✔️ | ✔️ | ✔️ | 81 |
 | [Thai](#non-curated-languages) | 971 | 1993 | 51 | 4480 | 271 | 212 | 736 | 147 |
@@ -53,7 +53,7 @@
 
 ### Strings
 
-- [reactivedrop_tchinese.txt](resource/reactivedrop_tchinese.txt) has 93 untranslated strings.
+- [reactivedrop_tchinese.txt](resource/reactivedrop_tchinese.txt) has 92 untranslated strings.
 
 ### Steam Store and Community
 
@@ -1175,7 +1175,6 @@
 
 ### Strings
 
-- [addons/ExampleAddon/reactivedrop_spanish.txt](addons/ExampleAddon/resource/reactivedrop_spanish.txt) has 39 untranslated strings.
 - [addons/RiskOfRain/reactivedrop_spanish.txt](addons/RiskOfRain/resource/reactivedrop_spanish.txt) has 95 untranslated strings.
 - [inventory_service_tags_spanish.vdf](community/inventory_service/inventory_service_tags_spanish.vdf) has 22 untranslated strings.
 - [items_spanish.vdf](community/inventory_service/items_spanish.vdf) has 271 untranslated strings.
