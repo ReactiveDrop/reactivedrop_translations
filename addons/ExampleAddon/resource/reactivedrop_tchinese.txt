@@ -70,9 +70,9 @@
 
 "[english]examplecampaign_spawning1_message"		"Spawning aliens within player's sight"
 "examplecampaign_spawning1_message"		"將異形在玩家視野內生成"
-"[english]examplecampaign_drone_message"		"asw_drone climing out of hole"
+"[english]examplecampaign_drone_message"		"asw_drone climbing out of hole"
 "examplecampaign_drone_message"		"asw_drone 從洞口爬出來"
-"[english]examplecampaign_ranger_message"		"asw_ranger climing out of hole"
+"[english]examplecampaign_ranger_message"		"asw_ranger climbing out of hole"
 "examplecampaign_ranger_message"		"asw_ranger 從洞口爬出來"
 "[english]examplecampaign_drone_railing_message"		"asw_drone climbing over railing"
 "examplecampaign_drone_railing_message"		"asw_drone 從欄杆爬上來"

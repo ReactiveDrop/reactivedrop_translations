@@ -2,7 +2,7 @@
 | Language | basemodui | closecaption | gameui | reactivedrop | items | statsweb | Strings | Files |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
-| [Traditional Chinese](#tchinese-繁體中文) | ✔️ | ✔️ | ✔️ | 93 | ✔️ | ✔️ | ✔️ | 126 |
+| [Traditional Chinese](#tchinese-繁體中文) | ✔️ | ✔️ | ✔️ | 92 | ✔️ | ✔️ | ✔️ | 126 |
 | [Czech](#czech-čeština) | 76 | 1810 | 43 | 4237 | 271 | 212 | 977 | 146 |
 | [Danish](#non-curated-languages) | 57 | 231 | 43 | 3764 | 271 | 212 | 707 | 147 |
 | [Dutch](#non-curated-languages) | 56 | 2004 | 43 | 3233 | 271 | 212 | 707 | 146 |
@@ -53,7 +53,7 @@
 
 ### Strings
 
-- [reactivedrop_tchinese.txt](resource/reactivedrop_tchinese.txt) has 93 untranslated strings.
+- [reactivedrop_tchinese.txt](resource/reactivedrop_tchinese.txt) has 92 untranslated strings.
 
 ### Steam Store and Community
 
