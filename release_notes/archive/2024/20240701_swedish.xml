@@ -47,4 +47,4 @@ Kontor för Konsensusupprätthållande[/i]
 [*]Fixade IAF Frysvaktgevär och IAF Eldvaktgevär och ignorerade funktionen PreventFiringUntil.
 [*]Lade till stöd för Portal 2-stil $localrefrakt (som används i props_lab/glass_lightcover.mdl).
 [*]Fixade vissa fall där att öppna spelet från SDK skulle radera den lokalt cachade versionen av ditt förråd.
-[/list]</string><string id="subtitle"></string><string id="summary"></string><string id="title">Alien Swarm: Reactive Drop Update - Juli 1, 2024</string></content>
+[/list]</string><string id="subtitle"></string><string id="summary"></string><string id="title">Alien Swarm: Reactive Drop Uppdatering - Juli 1, 2024</string></content>

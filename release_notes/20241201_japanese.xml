@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<content><string id="body">12月になりましたので、今月も月例アップデートを行います！
+
+[list]
+[*][i]あなた宛にメッセージが届いています。[/i]
+
+[*][b]M868 フレイマーユニット:[/b] 標準の同士撃ち設定でのダメージと時間を調整しました(ModdedMarionetteさんに感謝)。[list]
+[*]ハードコアの同士撃ちダメージは変更無し。
+[*]火炎放射器での同士撃ちは即座に炎上を発生させるように再変更。
+[*]そのダメージは加速度的に大きくなっていくのではなく、常に一定の増加速度となった。
+[*]炎上持続時間は(前回起きた同士撃ち炎上から経過した時間-2秒)減少するようになった。
+[*]最大炎上持続時間は100%、最低は18.75%となる。
+[*]これにより各難易度での同士撃ちによる最低炎上持続時間は以下のようになる: イージー: 1.125秒、 ノーマル: 1.5秒、 ハード: 2.25秒、 エキスパートとブルータル: 2.8秒と少々。
+[*]同士撃ちの炎上ダメージはミッション統計で同士撃ちダメージとしてカウントされるようになった。
+[/list][*][b]チェーンソー:[/b] ラグ補正システムがデフォルトで無効化されるようになった(WTF-8さんによる提案)。
+[*]Bot隊員は複数の敵に連続で殴られた場合、近接より銃での攻撃を優先して使用するようになった(WTF-8さんによる提案)。
+[*]まだ弾薬が残っているセントリーガンが破壊された場合、消滅するのではなく箱に戻って再使用できるようになった。
+[*]ディレクターVScriptのインターフェイスにNPCタイプのリストを照会するための機能を追加。詳しくは[url=https://developer.valvesoftware.com/wiki/Alien_Swarm:_Reactive_Drop/Scripting/Script_Functions#CDirector]Valve Developer Community wiki[/url]を確認して下さい(ModdedMarionetteさんによる提案)。
+[*]ドアや電車など他者を押しのけるエンティティは、ボスでなく押しのけられないエイリアンにダメージを与えるようになった。
+[*]LanguagePreferenceマテリアルプロキシに関するテクスチャ参照数問題を修正。(mutezeroさんからの報告)。
+[*]隊員選択予約時間はミッションやり直しを選択した後は新マップ開始時と同じ30秒ではなく2秒になった。(WTF-8さんによる提案)。
+[*]Nam Humanumキャンペーンをテーマとしたメインメニュー用の新背景を追加(mfzさんに感謝)。
+[/list]
+
+[h2]IAF(星間連盟軍)に君が必要だ[url=https://stats.reactivedrop.com/7a]！[/url][/h2]
+Alien Swarm: Reactive Dropは完全無料ですが、沢山のボランティアの方々による支援は片手間でできているものではありません。可能ならば、[url=https://steamcommunity.com/app/563560/workshop/]Steamワークショップ[/url]にコンテンツを投稿したり、バグ報告を送ったり、[url=https://github.com/ReactiveDrop/reactivedrop_public_src]コード[/url]の改善を提案したり、ゲームを自分の言語に[url=https://github.com/ReactiveDrop/reactivedrop_translations]翻訳[/url]したり、Alien Swarm: Reactive Dropを支えるボランティアの方々に[url=https://store.steampowered.com/itemstore/563560/]1ドルの寄付[/url]をしてみてください。IAFは宇宙海兵隊指揮官であるあなたの協力にいつも感謝しております。</string><string id="subtitle"></string><string id="summary"></string><string id="summary">あなた宛にメッセージが届いています。</string><string id="title">AS:RDアップデート - 2024年12月1日 "Invitation"</string></content>
