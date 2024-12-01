@@ -9279,7 +9279,7 @@
 "[english]rd_event_timer_hours"		"%s1 (%s2 hours remain)"
 "rd_event_timer_hours"		"%s1 (noch %s2 Stunden)"
 "[english]rd_event_timer_soon"		"%s1 (ends in less than an hour!)"
-"rd_event_timer_soon"		"%s1 (noch unter einer Stunde!)"
+"rd_event_timer_soon"		"%s1 (endet in dieser Stunde!)"
 
 "[english]rd_ticker_title"		"IAF News"
 "rd_ticker_title"		"IAF Nachrichten"
