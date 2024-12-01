@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<content><string id="body">Estamos en diciembre, ¡y eso significa que ha llegado la hora de la actualización mensual!
+
+[list]
+[*][i]Hay un mensaje aquí, dirigido a ti.[/i]
+
+[*][b]Unidad Flamer M868:[/b] Ajustado el daño y la duración del fuego amigo en dificultad normal de fuego amigo. (Gracias, ModdedMarionette).[list]
+[*]El fuego amigo en hardcore no cambia.
+[*]El fuego amigo con un lanzallamas vuelve a prender inmediatamente.
+[*]Ahora el daño aumenta linealmente en lugar de ser más lento al principio y más rápido al final de la duración de la quemadura.
+[*]La duración de la postcombustión disminuye en la cantidad de tiempo transcurrida desde el anterior incidente de fuego amigo, menos dos segundos.
+[*]La duración máxima de la postcombustión es del 100% y la mínima del 18,75%.
+[*]Esto significa que el tiempo mínimo de fuego amigo con las reglas de juego por defecto es: Fácil: 1,125s, Normal: 1,5s, Difícil: 2,25s, Demente y Brutal: algo más de 2,8s.
+[*]La postcombustión del fuego amigo se cuenta ahora como fuego amigo en las estadísticas de la misión.
+[/list][*][b]Motosierra:[/b] La compensación de lag está ahora desactivada por defecto. (Sugerido por WTF-8).
+[*]Los bot marines usarán armas en vez del cuerpo a cuerpo cuando hayan sido dañados por varios enemigos en rápida sucesión. (Sugerido por WTF-8).
+[*]Los centinelas a los que les queda munición ahora vuelven a la forma de caja cuando son destruidos, en lugar de perderse por completo.
+[*]Añadidas varias funciones a la interfaz VScript del Director para consultar la lista de tipos de PNJ. Consulta la [url=https://developer.valvesoftware.com/wiki/Alien_Swarm:_Reactive_Drop/Scripting/Script_Functions#CDirector]wiki de la Comunidad de Desarrolladores de Valve[/url] para más detalles. (Sugerido por ModdedMarionette).
+[*]Las entidades que empujan, como puertas y trenes, ahora infligen daño a los alienígenas que no son jefes y que no pueden empujar.
+[*]Se ha corregido un problema de recuento de referencias de texturas con el proxy de material LanguagePreference. (Informado por mutezero).
+[*]El tiempo de reserva de los marines es ahora de 2 segundos tras un reinicio instantáneo en lugar de los 30 segundos que proporciona una carga completa del mapa. (Sugerido por WTF-8).
+[*]Añadido un nuevo fondo para el menú principal inspirado en la campaña Nam Humanum. (Gracias, mfz).
+[/list]
+
+[h2]La FAI le necesita[url=https://stats.reactivedrop.com/7a]![/url][/h2]
+Alien Swarm: Reactive Drop siempre será gratuito, pero eso no significa que no requiera mucho trabajo por parte de un montón de voluntarios con talento. Si puedes, plantéate crear contenido para [url=https://steamcommunity.com/app/563560/workshop/]Steam Workshop[/url], informar de errores, proponer [url=https://github.com/ReactiveDrop/reactivedrop_public_src]mejoras del código[/url], [url=https://github.com/ReactiveDrop/reactivedrop_translations]traducir[/url] el juego a tu idioma, o [url=https://store.steampowered.com/itemstore/563560/]enviando un dólar[/url] a alguna de las personas que hicieron posible Alien Swarm: Reactive Drop. La FAI le agradece su continuo servicio, Comandante.</string><string id="subtitle"></string><string id="summary">Hay un mensaje aquí, dirigido a ti.</string><string id="title">Actualización de AS:RD - 1 de diciembre de 2024 "Invitation"</string></content>
