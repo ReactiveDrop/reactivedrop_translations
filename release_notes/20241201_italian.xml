@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<content><string id="body">Siamo a dicembre e questo significa che è arrivato il momento dell'aggiornamento mensile!
+
+[list]
+[*][i]C'è un messaggio qui, indirizzato a te.[/i]
+
+[*][b]Unità Lanciafiamme M868:[/b] Modificati i danni da fuoco amico e la durata del fuoco amico a difficoltà normale. (Grazie, ModdedMarionette).[list]
+[*]Il fuoco amico hardcore è rimasto invariato.
+[*]Il fuoco amico con un lanciafiamme ora incendia di nuovo immediatamente.
+[*]I danni ora aumentano in modo lineare anziché essere più lenti all'inizio e più veloci alla fine della durata della combustione.
+[*]La durata della postcombustione diminuisce del tempo trascorso dal precedente episodio di fuoco amico, meno due secondi.
+[*]La durata massima della postcombustione è del 100% e quella minima del 18,75%.
+[*]Questo significa che il tempo minimo di combustione per il fuoco amico con le regole di gioco predefinite è: Facile: 1,125s, Normale: 1,5s, Difficile: 2,25s, Folle e Brutale: poco più di 2,8s.
+[*]La combustione da fuoco amico ora viene conteggiata come fuoco amico nelle statistiche di missione.
+[/list][*][b]Motosega:[/b] La compensazione del lag è ora disattivata per impostazione predefinita. (Suggerito da WTF-8).
+[*]I soldati Bot useranno le armi piuttosto che il corpo a corpo quando vengono danneggiati da più nemici in rapida successione. (Suggerito da WTF-8).
+[*]Le torrette con munizioni residue ora tornano alla forma di scatola quando vengono distrutte, invece di andare completamente perse.
+[*]Aggiunte diverse funzioni all'interfaccia VScript del Director per eseguire query dell'elenco dei tipi di PNG. Vedere la sezione [url=https://developer.valvesoftware.com/wiki/Alien_Swarm:_Reactive_Drop/Scripting/Script_Functions#CDirector]Wiki della comunità degli sviluppatori Valve[/url] per dettagli. (Suggerito da ModdedMarionette).
+[*]Le entità che spingono, come porte e treni, ora infliggono danni agli alieni non-boss che non sono in grado di spingere.
+[*]Corretto un problema di conteggio dei riferimenti alle texture con il proxy del materiale LanguagePreference. (Segnalato da mutezero).
+[*]Il tempo di prenotazione dei soldati è ora di 2 secondi dopo un riavvio istantaneo, anziché i 30 secondi previsti per il caricamento completo della mappa. (Suggerito da WTF-8).
+[*]Aggiunto un nuovo sfondo del menu principale a tema con la campagna Nam Humanum. (Grazie, mfz).
+[/list]
+
+[h2]L'IAF ha bisogno di te[url=https://stats.reactivedrop.com/7a]![/url][/h2]
+Alien Swarm: Reactive Drop sarà sempre gratuito, ma questo non significa che non richieda il lavoro di molti volontari di talento per essere realizzato. Se puoi, prendi in considerazione la possibilità di creare contenuti per il [url=https://steamcommunity.com/app/563560/workshop/]Workshop di Steam[/url], segnalare bug, proporre miglioramenti per il [url=https://github.com/ReactiveDrop/reactivedrop_public_src]codice[/url], [url=https://github.com/ReactiveDrop/reactivedrop_translations]tradurre[/url] il gioco nella tua lingua o [url=https://store.steampowered.com/itemstore/563560/]mandare un dollaro[/url] a una delle persone che ha reso Alien Swarm: Reactive Drop possibile. L'IAF la ringrazia per il suo continuo servizio, Comandante.</string><string id="subtitle"></string><string id="summary">C'è un messaggio qui, indirizzato a te.</string><string id="title">Aggiornamento di AS:RD - 1 Dicembre 2024 "Invitation"</string></content>

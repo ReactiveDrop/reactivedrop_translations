@@ -2683,8 +2683,8 @@
 "SessionError_NoMap"		"Pyydetty tehtäväkartta ei ole käytettävissä."
 "[english]SessionError_SteamServersDisconnected"		"The connection to Steam was lost."
 "SessionError_SteamServersDisconnected"		"Steam-yhteys katkesi."
-		"[english]SessionError_ClientDLL"		"This lobby is running a different version of Alien Swarm: Reactive Drop.\nIf you recently installed an update, it is possible that the host of this lobby has not updated yet."
-		"SessionError_ClientDLL"		"This lobby is running a different version of Alien Swarm: Reactive Drop.\nIf you recently installed an update, it is possible that the host of this lobby has not updated yet."
+"[english]SessionError_ClientDLL"		"This lobby is running a different version of Alien Swarm: Reactive Drop.\nIf you recently installed an update, it is possible that the host of this lobby has not updated yet."
+"SessionError_ClientDLL"		"Tämä isäntä käyttää toista Alien Swarm: Reaction Drop versiota. Jos olet päivittänyt jo pelin, on mahdollista että tämän pelin isäntä ei ole päivittänyt vielä."
 
 "[english]InviteError_Unknown"		"Failed to accept game invite.\nPlease try again."
 "InviteError_Unknown"		"Pelikutsun vastaanottaminen epäonnistui.\nYritä uudelleen."

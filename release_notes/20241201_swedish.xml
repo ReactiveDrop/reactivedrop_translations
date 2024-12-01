@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<content><string id="body">It's December, och det betyder att det är god tid för månadens uppdatering!
+
+[list]
+[*][i]Det finns ett meddelande här, adresserat till dig.[/i]
+
+[*][b]M868 Flamenhet:[/b] Justerad vänlig brandskada och varaktighet vid normal vänlig brandsvårighet. (Tack, ModdedMarionette).[list]
+[*]Hardcore vänlig skada är oändrad.
+[*]Vänlig eld med en eldkastare tänds nu återigen omedelbart.
+[*]Skador skalar nu upp linjärt snarare än långsammare i början och snabbare i slutet av bränntiden.
+[*]Efterbränningslängden minskas med tiden sedan den tidigare vänskapliga brandincidenten, minus två sekunder.
+[*]Maximal efterförbränningslängd är 100 %, och minimum är 18,75 %.
+[*]Detta innebär att den minsta brinntiden för vänskapseld med standardspelregler är: Lätt: 1,125 s, Normal: 1,5 s, Svår: 2,25 s, Sinnessjuk och Brutal: lite över 2,8 s.
+[*]Efterbränning från vänlig eld räknas nu som vänlig eld i uppdragsstatistiken.
+[/list][*][b]Motorsåg:[/b] Eftersläpningskompensation är nu inaktiverad som standard. (Föreslaget av WTF-8).
+[*]Bott marinsoldater kommer att använda vapen snarare än närstrid när de har skadats av flera fiender i snabb följd. (Föreslaget av WTF-8).
+[*]Vaktgevär som har kvar ammunition återgår nu till boxform när de förstörs istället för att gå förlorade helt.
+[*]Lade till flera funktioner till Director VScript-gränssnittet för att fråga listan över NPC-typer. Se [url=https://developer.valvesoftware.com/wiki/Alien_Swarm:_Reactive_Drop/Scripting/Script_Functions#CDirector]Valve Wiki för utvecklargemenskapen[/url] för detaljer. (Föreslaget av ModdedMarionette).
+[*]Enheter som puttar saker såsom dörrar och tåg ger ut skada mot enheter som inte kan putta saker, gäller inte för boss aliens.
+[*]Fixade ett problem med antalet texturreferenser med LanguagePreference material proxy. (Rapporterat av mutezero).
+[*]Marinsoldats reservationstid är nu 2 sekunder efter en omedelbar omstart snarare än de 30 sekunder som en full kartladdning ger. (Suggested by WTF-8).
+[*]Lade till en ny huvudmenybakgrund med tema efter Nam Humanum-kampanjen. (Tack, mfz).
+[/list]
+
+[h2]IAF behöver dig[url=https://stats.reactivedrop.com/7a]![/url][/h2]
+Alien Swarm: Reactive Drop kommer alltid att vara gratis, men det betyder inte att det inte krävs mycket arbete från många duktiga volontärer. Om du kan, överväg att skapa innehåll för [url=https://steamcommunity.com/app/563560/workshop/]Steam Workshoppen[/url], rapportera buggar, föreslå [url=https://github.com/ReactiveDrop/reactivedrop_public_src]kod[/url] förbättringar, [url=https://github.com/ReactiveDrop/reactivedrop_translations]översätta[/url] spelet till ditt språk, eller [url=https://store.steampowered.com/itemstore/563560/]skicka en slant[/url] till en av personerna som gjorde Alien Swarm: Reactive Drop möjligt. IAF tackar för din fortsatta service, Kommandör.</string><string id="subtitle"></string><string id="summary">Det finns ett meddelande här, adresserat till dig.</string><string id="title">AS:RD Uppdatering - December 1, 2024 "Inbjudan"</string></content>
