@@ -140,7 +140,7 @@
 "[english]item_community_medal_streamer_description"		"Awarded by Reactive Drop Team for creating video content about Alien Swarm: Reactive Drop."
 "item_community_medal_streamer_description"		"Otorgado por el equipo de Reactive Drop por crear contenidos de vídeo sobre Alien Swarm: Reactive Drop."
 
-		// This medal's name is a pun on the Alien Swarm achievement 'Hat Trick', which awarded a TF2 hat for completing two missions in multiplayer.
+// This medal's name is a pun on the Alien Swarm achievement 'Hat Trick', which awarded a TF2 hat for completing two missions in multiplayer.
 "[english]item_novelty_medal_reverse_hat_trick_name"		"Trick Hat"
 "item_novelty_medal_reverse_hat_trick_name"		"Trick Hat"
 "[english]item_novelty_medal_reverse_hat_trick_description"		"The trick is, this isn't a hat or a medal. It's a commemorative sticker."
