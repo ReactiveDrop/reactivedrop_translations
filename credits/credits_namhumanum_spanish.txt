@@ -1,0 +1,30 @@
+"Credits"
+{
+// ¡estas claves deben estar en este orden!
+"show_credits_logo"	"1"
+// El logotipo que aparece en la parte superior de los créditos de final de campaña. Este ejemplo hace referencia a materials/vgui/swarm/credits/my_first_campaign_logo.vmt.
+"custom_logo"	"swarm/credits/namhumanum_campaign"
+// Cada línea de sus créditos debe escribirse así, incluidas las líneas en blanco:
+"asw_credits_"	"Alien Swarm: Nam Humanum"
+"asw_credits_"	""
+"asw_credits_"	"- Mapping -"
+"asw_credits_"	"Guillaume (Stral) Houard"
+"asw_credits_"	""
+"asw_credits_"	"- Historia -"
+"asw_credits_"	"Thomas (Synmachus) Lesteven"
+"asw_credits_"	""
+"asw_credits_"	"- Voces -"
+"asw_credits_"	"Prof. Julie Duval - Emily Sheeran"
+"asw_credits_"	"Cmdr. Alexander Richard - Christian Wadley"
+"asw_credits_"	"Snakebite's pilot - Daniel Doan"
+"asw_credits_"	"Vesta - Tiffany Perdue"
+"asw_credits_"	""
+"asw_credits_"	"- Retratos de personajes -"
+"asw_credits_"	"Larry Lebon"
+"asw_credits_"	""
+"asw_credits_"	"- Agradecimientos especiales -"
+"asw_credits_"	"Valve Software"
+"asw_credits_"	"El equipo de Reactive Drop"
+"asw_credits_"	"La comunidad de modding del Source Engine"
+"asw_credits_"	"SkS family <3"
+}
