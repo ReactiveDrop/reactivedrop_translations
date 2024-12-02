@@ -3229,7 +3229,7 @@
 		// new briefing
 		// This string shows in briefing title. Translation shouldn't be very long. See other files for other translation variants.
 		"[english]nb_mission_prep"		"MISSION PREP"
-		"nb_mission_prep"		"PREPARATIVOS DE LA MISIÓN"
+		"nb_mission_prep"		"PREPARATIVOS"
 		"[english]nb_ready"		"READY"
 		"nb_ready"		"LISTO"
 		"[english]nb_start_mission"		"START MISSION"
