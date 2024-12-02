@@ -393,13 +393,11 @@
 "[english]item_crafting_material_isotopes_description"		"Radioactive material, found while on a mission."
 "item_crafting_material_isotopes_description"		"Material radiactivo, encontrado durante una misión."
 // This material is a reference to the identically-named material in Warframe.
-// I have chosen to use the same translation that Warframe uses in Spanish for this material. -bravepotato95
 "[english]item_crafting_material_cryotic_name"		"Cryotic"
 "item_crafting_material_cryotic_name"		"Criótica"
 "[english]item_crafting_material_cryotic_description"		"A hazardous material that freezes on contact, found while on a mission."
 "item_crafting_material_cryotic_description"		"Material peligroso que se congela al contacto, encontrado durante una misión."
 // The item is a canister of the noble gas argon. When translating, the exact amount of argon is not important (the container is not a cube and is larger than a cubic foot in volume). Using cubic feet to refer to a gas stored in a round container is intentionally awkward.
-// Then I choose another awkward measure that was used in the past in Spain (the vara). -bravepotato95
 "[english]item_crafting_material_argon_canister_name"		"Cubic Foot of Argon"
 "item_crafting_material_argon_canister_name"		"Media Vara Cúbica de Argón"
 "[english]item_crafting_material_argon_canister_description"		"An inert gas with many industrial applications, found while on a mission."
