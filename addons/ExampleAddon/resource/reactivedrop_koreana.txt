@@ -70,9 +70,9 @@
 
 "[english]examplecampaign_spawning1_message"		"Spawning aliens within player's sight"
 "examplecampaign_spawning1_message"		"플레이어의 시야에 외계 무리를 만들어냄"
-"[english]examplecampaign_drone_message"		"asw_drone climing out of hole"
+"[english]examplecampaign_drone_message"		"asw_drone climbing out of hole"
 "examplecampaign_drone_message"		"asw_drone 구멍에서 기어오르기"
-"[english]examplecampaign_ranger_message"		"asw_ranger climing out of hole"
+"[english]examplecampaign_ranger_message"		"asw_ranger climbing out of hole"
 "examplecampaign_ranger_message"		"asw_ranger 구멍에서 기어오르기"
 "[english]examplecampaign_drone_railing_message"		"asw_drone climbing over railing"
 "examplecampaign_drone_railing_message"		"asw_drone 난간을 기어오르기"
