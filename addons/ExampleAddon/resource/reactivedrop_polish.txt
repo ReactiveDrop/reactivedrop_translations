@@ -70,9 +70,9 @@
 
 "[english]examplecampaign_spawning1_message"		"Spawning aliens within player's sight"
 "examplecampaign_spawning1_message"		"Spawnowanie kosmitów w zasięgu wzroku gracza"
-"[english]examplecampaign_drone_message"		"asw_drone climing out of hole"
+"[english]examplecampaign_drone_message"		"asw_drone climbing out of hole"
 "examplecampaign_drone_message"		"asw_drone wyłażący z dziury"
-"[english]examplecampaign_ranger_message"		"asw_ranger climing out of hole"
+"[english]examplecampaign_ranger_message"		"asw_ranger climbing out of hole"
 "examplecampaign_ranger_message"		"asw_ranger wyłażący z dziury"
 "[english]examplecampaign_drone_railing_message"		"asw_drone climbing over railing"
 "examplecampaign_drone_railing_message"		"asw_drone wspinający się przez barierkę"
