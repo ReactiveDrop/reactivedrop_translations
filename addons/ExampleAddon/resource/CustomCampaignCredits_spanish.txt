@@ -1,0 +1,18 @@
+"Credits"
+{
+// ¡estas claves deben estar en este orden!
+"show_credits_logo"	"1"
+"custom_logo"	"ExampleCustomLogo/example_custom_logo"
+"asw_credits_"	"TU NOMBRE AQUÍ"
+"asw_credits_"	""
+"asw_credits_"	"Estos créditos se encuentran en"
+"asw_credits_"	"addons/ExampleAddon/resource/CustomCampaignCredits.txt"
+"asw_credits_"	""
+"asw_credits_"	""
+"asw_credits_"	"Puedes encontrar más información sobre"
+"asw_credits_"	"cómo crear y distribuir tus propios"
+"asw_credits_"	"contenidos para Alien Swarm"
+"asw_credits_"	"en la sección Alien Swarm de la"
+"asw_credits_"	"Wiki de Valve para desarrolladores"
+"asw_credits_"	"http://developer.valvesoftware.com/"
+}
