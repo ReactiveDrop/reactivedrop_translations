@@ -1,0 +1,22 @@
+"Credits"
+{
+// ¡estas claves deben estar en este orden!
+"show_credits_logo"	"0"
+//"custom_logo"	"ExampleCustomLogo/example_custom_logo"
+"asw_credits_"	""
+"asw_credits_"	""
+"asw_credits_"	"Misión 1, Catástrofe en la Estación de Tren, por jhheight"
+"asw_credits_"	""
+"asw_credits_"	"Misión 2, Rapto, por Sergei 'STALKER4732' Lavrinenco"
+"asw_credits_"	""
+"asw_credits_"	"Misión 3, Bunker, por uradzimiru"
+"asw_credits_"	""
+"asw_credits_"	"Misión 4, Práctica Fuera de Línea, por Valve"
+"asw_credits_"	""
+"asw_credits_"	"Misión 5, Lugares Hostiles, por Eclipse"
+"asw_credits_"	""
+"asw_credits_"	"Misión 6, Alta Tensión, por Eclipse"
+"asw_credits_"	""
+"asw_credits_"	"Misión 7, Central Eléctrica, por Arjen de Graaf"
+"asw_credits_"	""
+}

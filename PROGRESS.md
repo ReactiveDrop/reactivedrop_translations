@@ -20,7 +20,7 @@
 | [Brazilian Portuguese](#brazilian-português) | 1 | ✔️ | ✔️ | 860 | 13 | 3 | 1 | 3 |
 | [Romanian](#non-curated-languages) | 56 | 1996 | 49 | 3944 | 271 | 212 | 972 | 147 |
 | [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | 1 | ✔️ | ✔️ | ✔️ | ✔️ |
-| [European Spanish](#spanish-español-de-españa) | 33 | 2004 | 41 | 2650 | 271 | 212 | 672 | 146 |
+| [European Spanish](#spanish-español-de-españa) | 33 | 2004 | 41 | 2650 | ✔️ | 212 | 432 | 125 |
 | [Latin American Spanish](#latam-español-latinoamericano) | 1 | 2004 | ✔️ | 4284 | 19 | 3 | 204 | 143 |
 | [Swedish](#swedish-svenska) | ✔️ | ✔️ | ✔️ | 436 | ✔️ | ✔️ | ✔️ | 81 |
 | [Thai](#non-curated-languages) | 971 | 1993 | 51 | 4480 | 271 | 212 | 736 | 147 |
@@ -1175,50 +1175,14 @@
 
 ### Strings
 
-- [addons/RiskOfRain/reactivedrop_spanish.txt](addons/RiskOfRain/resource/reactivedrop_spanish.txt) has 95 untranslated strings.
-- [inventory_service_tags_spanish.vdf](community/inventory_service/inventory_service_tags_spanish.vdf) has 22 untranslated strings.
-- [items_spanish.vdf](community/inventory_service/items_spanish.vdf) has 271 untranslated strings.
 - [statsweb_spanish.vdf](community/stats_website/statsweb_spanish.vdf) has 212 untranslated strings.
 - [steam_input_spanish.vdf](community/steam_input/steam_input_spanish.vdf) has 97 untranslated strings.
-- [workshop_description_spanish.vdf](community/workshop/workshop_description_spanish.vdf) has 6 untranslated strings.
 - [misc/signage/signage_spanish.vdf](misc/signage/signage_spanish.vdf) has 69 untranslated strings.
-- [platform/servers/serverbrowser_spanish.txt](platform/servers/serverbrowser_spanish.txt) has 24 untranslated strings.
-- [platform/vgui_spanish.txt](platform/vgui_spanish.txt) has 93 untranslated strings.
 - [basemodui_spanish.txt](resource/basemodui_spanish.txt) has 33 untranslated strings.
 - [closecaption_spanish.txt](resource/closecaption_spanish.txt) has 2004 untranslated strings.
 - [gameui_spanish.txt](resource/gameui_spanish.txt) has 41 untranslated strings.
 - [reactivedrop_spanish.txt](resource/reactivedrop_spanish.txt) has 2650 untranslated strings.
 - [valve_spanish.txt](resource/valve_spanish.txt) has 266 untranslated strings.
-
-### Steam Store and Community
-
-- [app_items_563560_spanish.json](community/points_shop/app_items_563560_english.json) is missing.
-- [workshop_tags_spanish.json](community/workshop/workshop_tags_english.json) is missing.
-- [content_warning_563560_spanish.txt](store_page/content_warning_563560_english.txt) is missing.
-- [storepage_81731_spanish.json](store_page/storepage_81731_spanish.json) has 13 indented lines.
-
-### Upcoming Release Notes
-
-- [20241201_spanish.xml](release_notes/20241201_english.xml) is missing.
-
-### Credits
-
-- [addons/ExampleAddon/CustomCampaignCredits_spanish.txt](addons/ExampleAddon/resource/CustomCampaignCredits_english.txt) is missing.
-- [asw_credits_spanish.txt](credits/asw_credits_english.txt) is missing.
-- [biogen_corporation_credits_spanish.txt](credits/biogen_corporation_credits_english.txt) is missing.
-- [credits_acc32_official_spanish.txt](credits/credits_acc32_official_english.txt) is missing.
-- [credits_marine_academy_spanish.txt](credits/credits_marine_academy_english.txt) is missing.
-- [credits_namhumanum_spanish.txt](credits/credits_namhumanum_english.txt) is missing.
-- [deathmatch_credits_spanish.txt](credits/deathmatch_credits_english.txt) is missing.
-- [rd-LanasEscapeCredits_spanish.txt](credits/rd-LanasEscapeCredits_english.txt) is missing.
-- [rd-area9800Credits_spanish.txt](credits/rd-area9800Credits_english.txt) is missing.
-- [rd-ocs-credits_spanish.txt](credits/rd-ocs-credits_english.txt) is missing.
-- [rd-reduction_campaigncredits_spanish.txt](credits/rd-reduction_campaigncredits_english.txt) is missing.
-- [rd-tarnor_credits_spanish.txt](credits/rd-tarnor_credits_english.txt) is missing.
-- [rd_bonus_missions_credits_spanish.txt](credits/rd_bonus_missions_credits_english.txt) is missing.
-- [rd_paranoia_credits_spanish.txt](credits/rd_paranoia_credits_english.txt) is missing.
-- [rd_research7_credits_spanish.txt](credits/rd_research7_credits_english.txt) is missing.
-- [tilarus5_credits_spanish.txt](credits/tilarus5_credits_english.txt) is missing.
 
 ### Mail and News
 

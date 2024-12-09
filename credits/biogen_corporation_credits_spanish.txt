@@ -1,0 +1,7 @@
+"Credits"
+{
+// ¡estas claves deben estar en este orden!
+"show_credits_logo"	"0"
+"asw_credits_"	"Campaña por Uradzimiru"
+"asw_credits_"	""
+}
