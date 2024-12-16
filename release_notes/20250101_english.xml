@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<content><string id="body">It's 2025, and to start the year off we have a pile of community-requested fixes!
+
+[list]
+[*][i]Commanders searching for anomalous materials together may find them quicker.[/i]
+[*]Added convar rd_chat_item_messages to opt out of messages about players obtaining items such as medals and crafting materials. (Suggested by Ax-now)
+[*]Fixed commanders who opted into phase 2 but not phase 1 not being able to see certain informational UI elements in menus.
+
+[*][b]Jacob's Rest: Deima Surface Bridge:[/b] Removed marine hints from an out of bounds area. (Reported by typical russian)
+[*][b]Jacob's Rest: Deima Surface Bridge:[/b] Extended triggers on the bridge upwards to avoid players being able to accidentally jump jet over them and have infinite spawners never turn off. (Reported by WTF-8)
+[*][b]Jacob's Rest: Deima Surface Bridge:[/b] Added an incorporeal ceiling in first and third person over the building where the first hack occurs.
+[*][b]Jacob's Rest: Rydberg Reactor:[/b] Fixed missing rangers during the final holdout. (Reported by WTF-8)
+[*][b]Jacob's Rest: Rydberg Reactor:[/b] Fixed a spot where marines could jump jet to their death. (Reported by WTF-8)
+[*][b]Jacob's Rest: Rydberg Reactor:[/b] Extended escape area to the entire area beyond the last door. (Reported by typical russian)
+[*][b]Reduction: Silent Station:[/b] Fixed missing aliens during the final holdout. (Reported by WTF-8)
+[*][b]Reduction: Fallen City:[/b] Fixed a potential soft lock when skipping the skyscraper. (Reported by WTF-8)
+[*][b]Reduction: Stowaway:[/b] Fixed the door opening sequence at the start of the mission being delayed if the door was not damaged. (Reported by WTF-8)
+[*][b]Reduction: Inevitable Escalation:[/b] Fixed a spot where marines could die while watching the final cutscene. (Reported by WTF-8)
+[*][b]Area9800: Landing Zone:[/b] Fixed the exit being accessible via jump jets before the door is open. (Reported by WTF-8)
+[*][b]Area9800: Power Plant's Cooling Pump:[/b] Fixed the escape area not being treated as an escape area until all other objectives were completed.
+[*][b]Lana's Escape: Lana's Vents:[/b] Fixed marine bots taking an unexpectedly long path. (Reported by WTF-8)
+[*][b]Lana's Escape: Lana's Maintenance:[/b] Fixed an invisible wall with grenade collision at the northeast end of the map when the camera is rotated. (Reported by WTF-8)
+[*][b]Operation Cleansweep: U.S.C. Medusa:[/b] Added protection against the doors of the main elevator getting stuck.
+[*][b]BioGen Corporation: BioGen Labs:[/b] Fixed tech marine requirement not being properly removed after the last hack. (Reported by WTF-8)
+[*][b]Research 7: Jericho Mines:[/b] Fixed hitbox for lava being too large. (Reported by WTF-8)
+[*][b]Tilarus-5: Yanaurus Mine:[/b] Fixed an invisible wall with grenade collision. (Reported by WTF-8)
+[*][b]Tilarus-5: Forgotten Factory[/b] Fixed a broken door suggesting players weld it. (Reported by WTF-8)
+[*][b]Tilarus-5: SynTek Hospital[/b] Fixed a broken door suggesting players weld it. (Reported by WTF-8)
+[/list]
+</string><string id="subtitle"></string><string id="summary"></string><string id="title">AS:RD Update - January 1, 2025 "Scavenger"</string></content>
