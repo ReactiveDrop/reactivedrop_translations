@@ -16,8 +16,8 @@
 [*][b]Reduction: Fallen City:[/b] Fixed a potential soft lock when skipping the skyscraper. (Reported by WTF-8)
 [*][b]Reduction: Stowaway:[/b] Fixed the door opening sequence at the start of the mission being delayed if the door was not damaged. (Reported by WTF-8)
 [*][b]Reduction: Inevitable Escalation:[/b] Fixed a spot where marines could die while watching the final cutscene. (Reported by WTF-8)
-[*][b]Area9800: Landing Zone:[/b] Fixed the exit being accessible via jump jets before the door is open. (Reported by WTF-8)
-[*][b]Area9800: Power Plant's Cooling Pump:[/b] Fixed the escape area not being treated as an escape area until all other objectives were completed.
+[*][b]Area 9800: Landing Zone:[/b] Fixed the exit being accessible via jump jets before the door is open. (Reported by WTF-8)
+[*][b]Area 9800: Power Plant's Cooling Pump:[/b] Fixed the escape area not being treated as an escape area until all other objectives were completed.
 [*][b]Lana's Escape: Lana's Vents:[/b] Fixed marine bots taking an unexpectedly long path. (Reported by WTF-8)
 [*][b]Lana's Escape: Lana's Maintenance:[/b] Fixed an invisible wall with grenade collision at the northeast end of the map when the camera is rotated. (Reported by WTF-8)
 [*][b]Operation Cleansweep: U.S.C. Medusa:[/b] Added protection against the doors of the main elevator getting stuck.
