@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<content><string id="body">È il 2025 e per iniziare l'anno abbiamo una serie di correzioni richieste dalla comunità!
+
+[list]
+[*][i]I comandanti che cercano materiali anomali insieme possono trovarli più rapidamente.[/i]
+[*]Aggiunto il convar rd_chat_item_messages per non ricevere i messaggi sui giocatori che ottengono oggetti come medaglie e materiali per la creazione. (Suggerito da Ax-now)
+[*]Corretto che i comandanti che hanno optato per la fase 2 ma non per la fase 1 non sono in grado di vedere alcuni elementi informativi dell'interfaccia utente nei menu.
+
+[*][b]Jacob's Rest: Ponte della Superficie di Deima:[/b] Rimossi i suggerimenti per i soldati da un'area fuori dai bordi. (Segnalato da typical russian)
+[*][b]Jacob's Rest: Ponte della Superficie di Deima:[/b] Estensione dei trigger sul ponte verso l'alto per evitare che i giocatori possano accidentalmente saltarci sopra e che gli spawner infiniti non si spengano mai. (Segnalato da WTF-8)
+[*][b]Jacob's Rest: Ponte della Superficie di Deima:[/b] Aggiunto un soffitto incorporeo in prima e terza persona sull'edificio in cui avviene il primo hack.
+[*][b]Jacob's Rest: Reattore Rydberg:[/b] Corretto il problema dei ranger mancanti durante l'ultima resistenza. (Segnalato da WTF-8)
+[*][b]Jacob's Rest: Reattore Rydberg:[/b] Corretto un punto in cui i soldati potevano saltare verso la morte. (Segnalato da WTF-8)
+[*][b]Jacob's Rest: Reattore Rydberg:[/b] Estesa l'area di fuga a tutta la zona oltre l'ultima porta. (Segnalato da typical russian)
+[*][b]Reduction: Stazione Silenziosa:[/b] Corretti gli alieni mancanti durante l'ultima resistenza. (Segnalato da WTF-8)
+[*][b]Reduction: La Città Caduta:[/b] Corretto un potenziale soft lock quando si salta il grattacielo. (Segnalato da WTF-8)
+[*][b]Reduction: Clandestino:[/b] Corretta la sequenza di apertura della porta all'inizio della missione che veniva ritardata se la porta non era danneggiata. (Segnalato da WTF-8)
+[*][b]Reduction: Escalation Inevitabile:[/b] Corretto un punto in cui i soldati potevano morire mentre guardavano il filmato finale. (Segnalato da WTF-8)
+[*][b]Area9800: Zona d'Atterraggio:[/b] Corretto il fatto che l'uscita sia accessibile tramite i jump jet prima che la porta sia aperta. (Segnalato da WTF-8)
+[*][b]Area9800: Pompa di Raffreddamento della Centrale Elettrica:[/b] Corretto che l'area di fuga non venisse trattata come area di fuga fino al completamento di tutti gli altri obiettivi.
+[*][b]Fuga di Lana: Condotti di Lana:[/b] Corretto un percorso inaspettatamente lungo dei bot soldati. (Segnalato da WTF-8)
+[*][b]Fuga di Lana: Manutenzione di Lana:[/b] Corretto un muro invisibile con collisione di granate all'estremità nord-est della mappa quando la telecamera viene ruotata. (Segnalato da WTF-8)
+[*][b]Operazione Cleansweep: U.S.C. Medusa:[/b] Aggiunta protezione dalle porte dell'ascensore principale che si incastravano.
+[*][b]BioGen Corporation: Laboratori BioGen:[/b] Corretta la richiesta di un soldato tecnico che non veniva rimossa dopo l'ultimo hack. (Segnalato da WTF-8)
+[*][b]Research 7: Miniere di Jericho:[/b] Corretta l'hitbox della lava che era troppo grande. (Segnalato da WTF-8)
+[*][b]Tilarus-5: Miniera di Yanaurus:[/b] Corretto un muro invisibile con la collisione delle granate. (Segnalato da WTF-8)
+[*][b]Tilarus-5: Fabbrica Dimenticata[/b] Riparata una porta rotta che suggeriva ai giocatori di saldarla. (Segnalato da WTF-8)
+[*][b]Tilarus-5: Ospedale SynTek[/b] Riparata una porta rotta suggeriva ai giocatori di saldarla. (Segnalato da WTF-8)
+[/list]
+</string><string id="subtitle"></string><string id="summary"></string><string id="title">Aggiornamento di AS:RD - 1 Gennaio 2025 "Scavenger"</string></content>

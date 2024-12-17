@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<content><string id="body">2025年となりました。年始の滑り出しとしてコミュニティからリクエストされた多数の修正を盛り込みました！
+
+[list]
+[*][i]特異素材の探索に参加しているプレイヤーが複数いると特異素材をより早く見つけられるようになった。[/i]
+[*]コンソール変数rd_chat_item_messagesを追加。これによりプレイヤーが勲章やクラフト素材を獲得した際のメッセージを非表示にできる。(Ax-nowさんによる提案)
+[*]クラフト素材イベント第二期に参加したが第一期には参加していなかったプレイヤーが、メニュー上で特定のUI要素が見れなくなっていたのを修正。
+
+[*][b]Jacob's Rest: Deima Surface Bridge:[/b] プレイ領域外に表示されるヒントを削除。 (typical russianさんによる報告)
+[*][b]Jacob's Rest: Deima Surface Bridge:[/b] プレイヤーが判定を飛び越えて敵の無限湧きが停止しなくなる事態を防ぐために、橋が上がるトリガー時間を延長した。 (WTF-8さんによる報告)
+[*][b]Jacob's Rest: Deima Surface Bridge:[/b] 一人称・三人称視点用に当たり判定の無い天井を最初のハッキングを行う建物に追加。
+[*][b]Jacob's Rest: Rydberg Reactor:[/b] 最後の耐久場面でレンジャーエイリアンが出現しなくなっていたのを修正。 (WTF-8さんによる報告)
+[*][b]Jacob's Rest: Rydberg Reactor:[/b] ジェットで飛び込み自殺できてしまう場所を修正。 (WTF-8さんによる報告)
+[*][b]Jacob's Rest: Rydberg Reactor:[/b] 最後のドアの奥の脱出エリア判定をその部屋全体まで拡大した。 (typical russianさんによる報告)
+[*][b]Reduction: Silent Station:[/b] 最後の耐久場面で一部のエイリアンが出現していなかったのを修正。 (WTF-8さんによる報告)
+[*][b]Reduction: Fallen City:[/b] 高層タワーをスキップすると進行不能になる可能性があったのを修正。 (WTF-8さんによる報告)
+[*][b]Reduction: Stowaway:[/b] ミッション開始時のドアがダメージを受けていないと開く手順が遅くなるのを修正。 (WTF-8さんによる報告)
+[*][b]Reduction: Inevitable Escalation:[/b] 最後のカットシーンが流れている間に隊員が死んでしまう立ち位置があったのを修正。 (WTF-8さんによる報告)
+[*][b]Area9800: Landing Zone:[/b] 脱出地点のドアが開く前にジェットで飛び越えてしまえたのを修正。 (WTF-8さんによる報告)
+[*][b]Area9800: Power Plant's Cooling Pump:[/b] 他のミッション目標を全て達成するまで脱出地点が脱出地点として扱われていなかったのを修正。
+[*][b]Lana's Escape: Lana's Vents:[/b] Bot操作の隊員が想定以上に回り道する経路選択をしていたのを修正。 (WTF-8さんによる報告)
+[*][b]Lana's Escape: Lana's Maintenance:[/b] マップの北東端でカメラを回転させるとグレネードの衝突判定がある見えない壁があったのを修正。 (WTF-8さんによる報告)
+[*][b]Operation Cleansweep: U.S.C. Medusa:[/b] メインエレベーターのドアが動作不能にならないように防護策を追加。
+[*][b]BioGen Corporation: BioGen Labs:[/b] 最後のハッキングが終わってもエンジニア必須判定が消えていなかったのを修正。 (WTF-8さんによる報告)
+[*][b]Research 7: Jericho Mines:[/b] 溶岩の接触判定が大きすぎたのを修正。 (WTF-8さんによる報告)
+[*][b]Tilarus-5: Yanaurus Mine:[/b] グレネードの衝突判定がある見えない壁を修正。 (WTF-8さんによる報告)
+[*][b]Tilarus-5: Forgotten Factory[/b] 壊れたドアに溶接を促すヒントが出ていたのを修正。 (WTF-8さんによる報告)
+[*][b]Tilarus-5: SynTek Hospital[/b] 壊れたドアに溶接を促すヒントが出ていたのを修正。 (WTF-8さんによる報告)
+[/list]
+</string><string id="subtitle"></string><string id="summary"></string><string id="title">AS:RDアップデート - 2025年1月 "Scavenger"</string></content>
