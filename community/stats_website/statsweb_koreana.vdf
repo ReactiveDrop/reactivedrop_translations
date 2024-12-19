@@ -367,7 +367,7 @@
 "[english]StatsWeb_Leaderboards"		"Leaderboards"
 "StatsWeb_Leaderboards"		"리더보드"
 "[english]StatsWeb_FilterByChallenge"		"Filter by Challenge"
-"StatsWeb_FilterByChallenge"		"도전별 필터"
+"StatsWeb_FilterByChallenge"		"도전 모드별 필터"
 "[english]StatsWeb_ChallengeLeaderboards"		"%s (Challenge) | Leaderboards"
 "StatsWeb_ChallengeLeaderboards"		"%s (도전) | 리더보드"
 "[english]StatsWeb_LeaderboardsDesc"		"Index of speedrun leaderboards for Alien Swarm: Reactive Drop missions."
