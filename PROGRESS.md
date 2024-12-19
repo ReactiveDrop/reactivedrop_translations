@@ -1,8 +1,8 @@
 # Overview
 | Language | basemodui | closecaption | gameui | reactivedrop | items | statsweb | Strings | Files |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | ✔️ | 1 | ✔️ | ✔️ | ✔️ | 1 |
-| [Traditional Chinese](#tchinese-繁體中文) | ✔️ | ✔️ | ✔️ | 93 | ✔️ | ✔️ | ✔️ | 127 |
+| [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
+| [Traditional Chinese](#tchinese-繁體中文) | ✔️ | ✔️ | ✔️ | 92 | ✔️ | ✔️ | ✔️ | 126 |
 | [Czech](#czech-čeština) | 76 | 1810 | 43 | 4238 | 271 | 212 | 977 | 146 |
 | [Danish](#non-curated-languages) | 57 | 231 | 43 | 3765 | 271 | 212 | 707 | 147 |
 | [Dutch](#non-curated-languages) | 56 | 2004 | 43 | 3234 | 271 | 212 | 707 | 146 |
@@ -41,13 +41,7 @@
 
 </summary>
 
-### Strings
-
-- [reactivedrop_schinese.txt](resource/reactivedrop_schinese.txt) has 1 untranslated strings.
-
-### Upcoming Release Notes
-
-- [20250101_schinese.xml](release_notes/20250101_english.xml) is missing.
+✓ Up to date!
 
 </details>
 
@@ -59,15 +53,11 @@
 
 ### Strings
 
-- [reactivedrop_tchinese.txt](resource/reactivedrop_tchinese.txt) has 93 untranslated strings.
+- [reactivedrop_tchinese.txt](resource/reactivedrop_tchinese.txt) has 92 untranslated strings.
 
 ### Steam Store and Community
 
 - [storepage_81731_tchinese.json](store_page/storepage_81731_tchinese.json) has 1 indented lines.
-
-### Upcoming Release Notes
-
-- [20250101_tchinese.xml](release_notes/20250101_english.xml) is missing.
 
 ### Mail and News
 
