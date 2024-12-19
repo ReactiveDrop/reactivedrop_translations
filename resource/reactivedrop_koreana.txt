@@ -4783,10 +4783,10 @@
 "[english]asw_chat_died"		"%s1 was killed in action!"
 "asw_chat_died"		"%s1 해병이 사망하였습니다!"
 
-// Area9800 strings
+// Area 9800 strings
 "[english]rd_area9800LZ_ob_destroy"		"Secure the hangar"
 "rd_area9800LZ_ob_destroy"		"격납고를 확보하십시오."
-"[english]rd_area9800LZ_ob_destroy_d"		"We lost contact with Area9800. Secure the hangar and Investigate for possible anomalies."
+"[english]rd_area9800LZ_ob_destroy_d"		"We lost contact with Area 9800. Secure the hangar and Investigate for possible anomalies."
 "rd_area9800LZ_ob_destroy_d"		"9800구역과의 연결이 끊겼습니다. 격납고를 확보하고 이상 현상에 대해 조사하십시오."
 "[english]rd_area9800LZ_ob_bridge"		"Activate the bridge"
 "rd_area9800LZ_ob_bridge"		"교량을 활성화하십시오."
@@ -7622,7 +7622,7 @@
 "rd_campaign_desc_rd_bonus_missions"		"은하계의 여러 행성에서 임무를 수행하십시오."
 "[english]rd_campaign_name_rd-area9800"		"Area 9800"
 "rd_campaign_name_rd-area9800"		"9800 구역"
-"[english]rd_campaign_desc_rd-area9800"		"SynTek has lost contact with the colony on the planet Area9800. The probability of Swarm attack is high. IAF Command is sending your squad to investigate and halt the infestation if necessary."
+"[english]rd_campaign_desc_rd-area9800"		"SynTek has lost contact with the colony on the planet Area 9800. The probability of Swarm attack is high. IAF Command is sending your squad to investigate and halt the infestation if necessary."
 "rd_campaign_desc_rd-area9800"		"신텍은 9800구역에 있는 식민지와 연락이 끊겼습니다. 군단의 공격일 가능성이 높습니다. IAF 사령부는 당신의 분대를 조사에 파견하여 필요하다면 감염을 중단시킬 것입니다."
 "[english]rd_campaign_name_rd_accident32"		"Accident 32"
 "rd_campaign_name_rd_accident32"		"사고 32"
@@ -8136,9 +8136,9 @@
 "rd_mission_desc_rd-til3arcticinfiltration"		"미스터리한 신텍 연구 시설에서의 조난 신호를 조사하십시오."
 "[english]rd_mission_brief_rd-til3arcticinfiltration"		"Investigate a distress call from a mysterious SynTek Research Facility."
 "rd_mission_brief_rd-til3arcticinfiltration"		"미스터리한 신텍 연구 시설에서의 조난 신호를 조사하십시오."
-"[english]rd_mission_title_rd-til4area9800"		"Area 9800"
+"[english]rd_mission_title_rd-til4area9800"		"Area9800"
 "rd_mission_title_rd-til4area9800"		"9800구역 착륙 구역"
-"[english]rd_mission_loc_rd-til4area9800"		"Area 9800"
+"[english]rd_mission_loc_rd-til4area9800"		"Area9800"
 "rd_mission_loc_rd-til4area9800"		"9800구역 착륙 구역"
 "[english]rd_mission_desc_rd-til4area9800"		"Secure the hangar in the Area9800 Landingzone."
 "rd_mission_desc_rd-til4area9800"		"9800 착륙 구역의 격납고를 확보하십시오."

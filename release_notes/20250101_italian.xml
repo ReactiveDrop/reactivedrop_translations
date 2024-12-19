@@ -16,8 +16,8 @@
 [*][b]Reduction: La Città Caduta:[/b] Corretto un potenziale soft lock quando si salta il grattacielo. (Segnalato da WTF-8)
 [*][b]Reduction: Clandestino:[/b] Corretta la sequenza di apertura della porta all'inizio della missione che veniva ritardata se la porta non era danneggiata. (Segnalato da WTF-8)
 [*][b]Reduction: Escalation Inevitabile:[/b] Corretto un punto in cui i soldati potevano morire mentre guardavano il filmato finale. (Segnalato da WTF-8)
-[*][b]Area9800: Zona d'Atterraggio:[/b] Corretto il fatto che l'uscita sia accessibile tramite i jump jet prima che la porta sia aperta. (Segnalato da WTF-8)
-[*][b]Area9800: Pompa di Raffreddamento della Centrale Elettrica:[/b] Corretto che l'area di fuga non venisse trattata come area di fuga fino al completamento di tutti gli altri obiettivi.
+[*][b]Area 9800: Zona d'Atterraggio:[/b] Corretto il fatto che l'uscita sia accessibile tramite i jump jet prima che la porta sia aperta. (Segnalato da WTF-8)
+[*][b]Area 9800: Pompa di Raffreddamento della Centrale Elettrica:[/b] Corretto che l'area di fuga non venisse trattata come area di fuga fino al completamento di tutti gli altri obiettivi.
 [*][b]Fuga di Lana: Condotti di Lana:[/b] Corretto un percorso inaspettatamente lungo dei bot soldati. (Segnalato da WTF-8)
 [*][b]Fuga di Lana: Manutenzione di Lana:[/b] Corretto un muro invisibile con collisione di granate all'estremità nord-est della mappa quando la telecamera viene ruotata. (Segnalato da WTF-8)
 [*][b]Operazione Cleansweep: U.S.C. Medusa:[/b] Aggiunta protezione dalle porte dell'ascensore principale che si incastravano.
