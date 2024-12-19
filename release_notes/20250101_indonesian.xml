@@ -2,9 +2,9 @@
 <content><string id="body">Memasuki tahun 2025, dan untuk memulai tahun ini kami menghadirkan serangkaian perbaikan yang diminta oleh komunitas!
 
 [list]
-[*][i]Komandan yang mencari material anomali bersama bisa menemukannya lebih cepat.[/i]
-[*]Menambahkan convar rd_chat_item_messages untuk memilih keluar dari pesan tentang pemain yang mendapat item seperti medali dan bahan crafting. (Diusulkan oleh Ax-now)
-[*]Fix komandan yang mengikuti fase 2 tapi tidak ikut fase 1 tidak dapat melihat elemen UI info tertentu di menu.
+[*][i]Komandan yang mencari material anomali bersama-sama bisa menemukannya lebih cepat.[/i]
+[*]Menambahkan convar rd_chat_item_messages untuk memberikan opsi keluar dari pesan tentang pemain yang memperoleh item seperti medali dan bahan kerajinan. (Diusulkan oleh Ax-now)
+[*]Memperbaiki masalah di mana komandan yang berpartisipasi dalam fase 2 tetapi tidak di fase 1, kini dapat melihat elemen UI informasi tertentu di menu.
 
 [*][b]Peristirahatan Jacob: Jembatan Permukaan Deima:[/b] Hapus petunjuk marinir dari area yang tidak bisa diakses. (Dilaporkan oleh typical russian)
 [*][b]Peristirahatan Jacob: Jembatan Permukaan Deima:[/b] Memperpanjang pemicu di jembatan ke atas untuk menghindari pemain menggunakan jet lompat secara tidak sengaja di atasnya dan membuat spawners tidak mati. (Dilaporikan oleh WTF-8)
