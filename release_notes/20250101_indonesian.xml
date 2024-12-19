@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<content><string id="body">Memasuki tahun 2025, dan untuk memulai tahun ini kami menghadirkan serangkaian perbaikan yang diminta oleh komunitas!
+
+[list]
+[*][i]Komandan yang mencari material anomali bersama bisa menemukannya lebih cepat.[/i]
+[*]Menambahkan convar rd_chat_item_messages untuk memilih keluar dari pesan tentang pemain yang mendapat item seperti medali dan bahan crafting. (Diusulkan oleh Ax-now)
+[*]Fix komandan yang mengikuti fase 2 tapi tidak ikut fase 1 tidak dapat melihat elemen UI info tertentu di menu.
+
+[*][b]Peristirahatan Jacob: Jembatan Permukaan Deima:[/b] Hapus petunjuk marinir dari area yang tidak bisa diakses. (Dilaporkan oleh typical russian)
+[*][b]Peristirahatan Jacob: Jembatan Permukaan Deima:[/b] Memperpanjang pemicu di jembatan ke atas untuk menghindari pemain menggunakan jet lompat secara tidak sengaja di atasnya dan membuat spawners tidak mati. (Dilaporikan oleh WTF-8)
+[*][b]Peristirahatan Jacob: Jembatan Permukaan Deima:[/b] Menambahkan atap tak berwujud pada orang pertama dan ketiga di atas bangunan tempat peretasan pertama.
+[*][b]Peristirahatan Jacob: Reaktor Rydberg:[/b] Memperbaiki ranger yang hilang selama pertahanan terakhir. (Dilaporkan oleh WTF-8)
+[*][b]Peristirahatan Jacob: Reaktor Rydberg:[/b] Memperbaiki titik di mana marinir dapat menggunakan jet lompat ke area yang menyebabkan kematian. (Dilaporkan oleh WTF-8)
+[*][b]Peristirahatan Jacob: Reaktor Rydberg:[/b] Memperluas area pelarian ke seluruh area di luar pintu terakhir. (Dilaporkan oleh typical russian)
+[*][b]Pengurangan: Stasiun Sunyi:[/b] Memperbaiki alien yang hilang selama pertahanan terakhir. (Dilaporkan oleh WTF-8)
+[*][b]Pengurangan: Kota Hancur:[/b] Memperbaiki potensi kebuntuan lunak ketika melewati gedung pencakar langit. (Dilaporkan oleh WTF-8)
+[*][b]Pengurangan: Penumpang Gelap:[/b] Memperbaiki urutan pembukaan pintu di awal misi yang tertunda jika pintu tidak rusak. (Dilaporkan oleh WTF-8)
+[*][b]Pengurangan: Eskalasi Tak Terhindarkan:[/b] Memperbaiki titik di mana marinir dapat mati saat menonton cuplikan terakhir. (Dilaporkan oleh WTF-8)
+[*][b]Area 9800: Zona Pendaratan:[/b] Memperbaiki akses keluar melalui jet lompat sebelum pintu terbuka. (Dilaporkan oleh WTF-8)
+[*][b]Area 9800: Pompa Pendingin Pembangkit Listrik:[/b] Memperbaiki area pelarian yang tidak dihitung sebagai area pelarian hingga semua tujuan diselesaikan.
+[*][b]Pelarian Lana: Ventilasi Lana:[/b] Memperbaiki jalur bot marinir yang terlalu panjang. (Dilaporkan oleh WTF-8)
+[*][b]Pelarian Lana: Perbaikan Lana:[/b] Memperbaiki dinding tak terlihat dengan tabrakan granat di ujung timur laut peta saat kamera diputar. (Dilaporkan oleh WTF-8)
+[*][b]Operasi Sapu Bersih: U.S.C. Medusa:[/b] Menambahkan perlindungan agar pintu lift utama tidak macet.
+[*][b]Perusahaan BioGen: Lab BioGen:[/b] Memperbaiki persyaratan marinir teknisi yang tidak dihapus setelah peretasan terakhir. (Dilaporkan oleh WTF-8)
+[*][b]Penelitian 7: Ranjau Jericho:[/b] Memperbaiki hitbox lava yang terlalu besar. (Dilaporkan oleh WTF-8)
+[*][b]Tilarus-5: Tambang Yaurus:[/b] Memperbaiki dinding tak terlihat dengan tabrakan granat. (Dilaporkan oleh WTF-8)
+[*][b]Tilarus-5: Pabrik Terlupakan:[/b] Memperbaiki pintu rusak yang memberi indikasi kepada pemain bahwa pintu tersebut perlu dilas. (Dilaporkan oleh WTF-8)
+[*][b]Tilarus-5: Rumah Sakit SynTek:[/b] Memperbaiki pintu rusak yang memberi indikasi kepada pemain bahwa pintu tersebut perlu dilas. (Dilaporkan oleh WTF-8)
+[/list]
+</string><string id="subtitle"></string><string id="summary"></string><string id="title">Pembaruan AS:RD - 1 Januari 2025 "Scavenger"</string></content>
