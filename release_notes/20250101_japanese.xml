@@ -16,8 +16,8 @@
 [*][b]Reduction: Fallen City:[/b] 高層タワーをスキップすると進行不能になる可能性があったのを修正。 (WTF-8さんによる報告)
 [*][b]Reduction: Stowaway:[/b] ミッション開始時のドアがダメージを受けていないと開く手順が遅くなるのを修正。 (WTF-8さんによる報告)
 [*][b]Reduction: Inevitable Escalation:[/b] 最後のカットシーンが流れている間に隊員が死んでしまう立ち位置があったのを修正。 (WTF-8さんによる報告)
-[*][b]Area9800: Landing Zone:[/b] 脱出地点のドアが開く前にジェットで飛び越えてしまえたのを修正。 (WTF-8さんによる報告)
-[*][b]Area9800: Power Plant's Cooling Pump:[/b] 他のミッション目標を全て達成するまで脱出地点が脱出地点として扱われていなかったのを修正。
+[*][b]Area 9800: Landing Zone:[/b] 脱出地点のドアが開く前にジェットで飛び越えてしまえたのを修正。 (WTF-8さんによる報告)
+[*][b]Area 9800: Power Plant's Cooling Pump:[/b] 他のミッション目標を全て達成するまで脱出地点が脱出地点として扱われていなかったのを修正。
 [*][b]Lana's Escape: Lana's Vents:[/b] Bot操作の隊員が想定以上に回り道する経路選択をしていたのを修正。 (WTF-8さんによる報告)
 [*][b]Lana's Escape: Lana's Maintenance:[/b] マップの北東端でカメラを回転させるとグレネードの衝突判定がある見えない壁があったのを修正。 (WTF-8さんによる報告)
 [*][b]Operation Cleansweep: U.S.C. Medusa:[/b] メインエレベーターのドアが動作不能にならないように防護策を追加。
