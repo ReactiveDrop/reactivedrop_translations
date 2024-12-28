@@ -942,7 +942,7 @@
 "[english]VAC_LoggedInElsewhere_Title"		"Account Used Elsewhere"
 "VAC_LoggedInElsewhere_Title"		"Account wurde an einem anderen Ort verwendet"
 "[english]VAC_LoggedInElsewhereReason"		"This Steam account has been used to log in from another computer. To continue using Steam, you need to log in again."
-"VAC_LoggedInElsewhereReason"		"Dieses Steam-Konto wurde verwendet, um sich von einem anderen Computer aus anzumelden. Um Steam weiter zu nutzen, musst du dich erneut anmelden."
+"VAC_LoggedInElsewhereReason"		"Dieser Steam-Account wurde verwendet, um sich von einem anderen Computer aus anzumelden. Um Steam weiter zu nutzen, musst du dich erneut anmelden."
 "[english]GAMEUI_Commentary"		"Commentary"
 "GAMEUI_Commentary"		"Kommentar"
 "[english]GAMEUI_Commentary_On"		"On (where available)"
