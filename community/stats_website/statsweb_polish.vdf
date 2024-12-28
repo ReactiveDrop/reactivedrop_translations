@@ -488,8 +488,8 @@
 		"[english]LinkWeb_Twitch_status_conflict"		"Account link removed. Twitch account was connected to a different Steam account."
 		"LinkWeb_Twitch_status_conflict"		"Account link removed. Twitch account was connected to a different Steam account."
 		// followed by timestamp of last change to account link status
-		"[english]LinkWeb_LastModifed"		"Last changed:"
-		"LinkWeb_LastModifed"		"Last changed:"
+		"[english]LinkWeb_LastModified"		"Last changed:"
+		"LinkWeb_LastModified"		"Last changed:"
 		// account username (either connected or unexpectedly disconnected) follows this text
 		"[english]LinkWeb_LinkedAccount"		"Account name:"
 		"LinkWeb_LinkedAccount"		"Account name:"
