@@ -6,7 +6,7 @@
 | [Czech](#czech-čeština) | 76 | 1810 | 43 | 4238 | 271 | 230 | 977 | 146 |
 | [Danish](#non-curated-languages) | 57 | 231 | 43 | 3765 | 271 | 230 | 707 | 147 |
 | [Dutch](#non-curated-languages) | 56 | 2004 | 43 | 3234 | 271 | 230 | 707 | 146 |
-| [Finnish](#non-curated-languages) | ✔️ | 2004 | 42 | 3095 | 208 | 170 | 675 | 145 |
+| [Finnish](#non-curated-languages) | ✔️ | 2004 | 42 | 3095 | 208 | 170 | 639 | 145 |
 | [French](#french-français) | 32 | 138 | 43 | 2600 | 270 | 230 | 647 | 125 |
 | [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 19 | ✔️ | ✔️ |
 | [Hungarian](#non-curated-languages) | 56 | 138 | 43 | 3234 | 271 | 230 | 972 | 147 |
@@ -22,7 +22,7 @@
 | [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | 2 | ✔️ | 19 | ✔️ | 1 |
 | [European Spanish](#spanish-español-de-españa) | 33 | 2004 | 41 | 2651 | ✔️ | 230 | 432 | 126 |
 | [Latin American Spanish](#latam-español-latinoamericano) | 1 | 2004 | ✔️ | 4285 | 19 | 23 | 204 | 143 |
-| [Swedish](#swedish-svenska) | ✔️ | ✔️ | ✔️ | 437 | ✔️ | 19 | ✔️ | 82 |
+| [Swedish](#swedish-svenska) | ✔️ | ✔️ | ✔️ | 437 | ✔️ | ✔️ | ✔️ | 82 |
 | [Thai](#non-curated-languages) | 971 | 1993 | 51 | 4481 | 271 | 230 | 736 | 147 |
 | [Turkish](#non-curated-languages) | 56 | 137 | 43 | 3234 | 271 | 230 | 972 | 147 |
 | [Ukrainian](#ukrainian-українська) | 32 | 131 | 33 | 2800 | 271 | 230 | 932 | 147 |
@@ -1512,7 +1512,6 @@
 
 ### Strings
 
-- [statsweb_swedish.vdf](community/stats_website/statsweb_swedish.vdf) has 19 untranslated strings.
 - [reactivedrop_swedish.txt](resource/reactivedrop_swedish.txt) has 437 untranslated strings.
 
 ### Upcoming Release Notes
