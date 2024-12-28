@@ -440,8 +440,8 @@
 		"[english]LinkWeb_SiteName"		"Alien Swarm: Reactive Drop Link"
 		"LinkWeb_SiteName"		"Alien Swarm: Reactive Drop Link"
 		// shown in search engine results and embeds
-		"[english]LinkWeb_SiteDescription"		"Connect your "
-		"LinkWeb_SiteDescription"		"Connect your "
+		"[english]LinkWeb_SiteDescription"		"Connect your Alien Swarm: Reactive Drop account to other services to earn rewards."
+		"LinkWeb_SiteDescription"		"Connect your Alien Swarm: Reactive Drop account to other services to earn rewards."
 		// shown at the top of the page when the player is logged in, before and after the player's name
 		// translate these two strings together
 		"[english]LinkWeb_LoggedInBefore"		"Logged in as "
