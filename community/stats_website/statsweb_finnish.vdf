@@ -433,14 +433,76 @@
 		"[english]StatsWeb_Marine_Surname"		"%[1]s [b]%[2]s[/b]"
 		"StatsWeb_Marine_Surname"		"%[1]s [b]%[2]s[/b]"
 
-		"[english]rd_event_mapping_competition"		"Mapping Competition 2024 \"Space Station\""
-		"rd_event_mapping_competition"		"Mapping Competition 2024 \"Space Station\""
+		// browser page title for https://link.reactivedrop.com
+		"[english]LinkWeb_PageTitle"		"AS:RD Account Linking"
+		"LinkWeb_PageTitle"		"AS:RD Account Linking"
+		// shown in embeds
+		"[english]LinkWeb_SiteName"		"Alien Swarm: Reactive Drop Link"
+		"LinkWeb_SiteName"		"Alien Swarm: Reactive Drop Link"
+		// shown in search engine results and embeds
+		"[english]LinkWeb_SiteDescription"		"Connect your Alien Swarm: Reactive Drop account to other services to earn rewards."
+		"LinkWeb_SiteDescription"		"Connect your Alien Swarm: Reactive Drop account to other services to earn rewards."
+		// shown at the top of the page when the player is logged in, before and after the player's name
+		// translate these two strings together
+		"[english]LinkWeb_LoggedInBefore"		"Logged in as "
+		"LinkWeb_LoggedInBefore"		"Logged in as "
+"[english]LinkWeb_LoggedInAfter"		""
+"LinkWeb_LoggedInAfter"		""
+		// button text shown next to player name and the above two strings
+		"[english]LinkWeb_LogOutButton"		"Log out"
+		"LinkWeb_LogOutButton"		"Log out"
+		// button text shown above the Steam logo when the player has not logged in yet
+		// (sorry if this makes the wording awkward in your language)
+		"[english]LinkWeb_LogInWithSteam"		"Log in with"
+		"LinkWeb_LogInWithSteam"		"Log in with"
+		// legal text at the bottom of the page
+		"[english]LinkWeb_Disclaimer"		"Alien Swarm: Reactive Drop is a fan continuation of Alien Swarm, developed by a community of volunteers. Account Linking is provided on a best-effort basis. Please contact Reactive Drop Team through the feedback site if anything goes wrong."
+		"LinkWeb_Disclaimer"		"Alien Swarm: Reactive Drop is a fan continuation of Alien Swarm, developed by a community of volunteers. Account Linking is provided on a best-effort basis. Please contact Reactive Drop Team through the feedback site if anything goes wrong."
+// this should match the text on https://partner.steamgames.com/doc/marketing/branding/attribution for your language
+// we're skipping the initial "copyright valve corporation" to avoid confusion about whether valve is affiliated with this site (they aren't) and also to avoid having to update the year
+"[english]LinkWeb_DisclaimerSteam"		"Steam and the Steam logo are trademarks and/or registered trademarks of Valve Corporation in the U.S. and/or other countries."
+"LinkWeb_DisclaimerSteam"		"Steam sekä Steam-logo ovat Valve Corporationin tuotemerkkejä ja/tai rekisteröityjä tuotemerkkejä Yhdysvalloissa ja/tai muissa maissa."
+		// this should match the text on https://www.twitch.tv/p/en/legal/trademark/ for your language
+		"[english]LinkWeb_DisclaimerTwitch"		"TWITCH, the TWITCH Logo, the Glitch Logo, and/or TWITCHTV are trademarks of Twitch Interactive, Inc. or its affiliates."
+		"LinkWeb_DisclaimerTwitch"		"TWITCH, the TWITCH Logo, the Glitch Logo, and/or TWITCHTV are trademarks of Twitch Interactive, Inc. or its affiliates."
+		// button text
+		"[english]LinkWeb_LinkTwitch"		"Link Twitch Account"
+		"LinkWeb_LinkTwitch"		"Link Twitch Account"
+		"[english]LinkWeb_UnlinkTwitch"		"Unlink Twitch Account"
+		"LinkWeb_UnlinkTwitch"		"Unlink Twitch Account"
+		// text shown in the Twitch section of the page. one of these is always shown, and the "LastModified" and "LinkedAccount" may be shown on following lines if they are applicable.
+		// try to make the "invalid" and "conflict" lines noticeably different to the others at a glance.
+		"[english]LinkWeb_Twitch_status_initial"		"Never connected to Twitch."
+		"LinkWeb_Twitch_status_initial"		"Never connected to Twitch."
+		// this one means the link is working properly
+		"[english]LinkWeb_Twitch_status_created"		"Account linked."
+		"LinkWeb_Twitch_status_created"		"Account linked."
+		// the player unlinked their account through the link website
+		"[english]LinkWeb_Twitch_status_removed"		"Unlinked."
+		"LinkWeb_Twitch_status_removed"		"Unlinked."
+		// the token used to link the account was invalid
+		"[english]LinkWeb_Twitch_status_invalid"		"Account link removed. Connection revoked on the twitch.tv website or an error occurred."
+		"LinkWeb_Twitch_status_invalid"		"Account link removed. Connection revoked on the twitch.tv website or an error occurred."
+		// another Steam account is linked to the Twitch account
+		"[english]LinkWeb_Twitch_status_conflict"		"Account link removed. Twitch account was connected to a different Steam account."
+		"LinkWeb_Twitch_status_conflict"		"Account link removed. Twitch account was connected to a different Steam account."
+		// followed by timestamp of last change to account link status
+		"[english]LinkWeb_LastModified"		"Last changed:"
+		"LinkWeb_LastModified"		"Last changed:"
+		// account username (either connected or unexpectedly disconnected) follows this text
+		"[english]LinkWeb_LinkedAccount"		"Account name:"
+		"LinkWeb_LinkedAccount"		"Account name:"
+
+		"[english]rd_event_mapping_competition"		"Mapping Competition 2025 \"Residential, Commercial, Industrial\""
+		"rd_event_mapping_competition"		"Mapping Competition 2025 \"Residential, Commercial, Industrial\""
 		"[english]rd_event_double_xp_anniversary"		"Anniversary Double Experience Week"
 		"rd_event_double_xp_anniversary"		"Anniversary Double Experience Week"
 		"[english]rd_event_news_anniversary_6th"		"6th Anniversary! New campaign, side stories, and more!"
 		"rd_event_news_anniversary_6th"		"6th Anniversary! New campaign, side stories, and more!"
 		"[english]rd_event_news_anniversary_7th"		"7th Anniversary! New UI redesign!"
 		"rd_event_news_anniversary_7th"		"7th Anniversary! New UI redesign!"
+		"[english]rd_event_news_anniversary_8th"		"Celebrating 8 years of Alien Swarm: Reactive Drop!"
+		"rd_event_news_anniversary_8th"		"Celebrating 8 years of Alien Swarm: Reactive Drop!"
 		"[english]rd_event_news_ranked_missions_added"		"New and old favorite missions added to HoIAF!"
 		"rd_event_news_ranked_missions_added"		"New and old favorite missions added to HoIAF!"
 		"[english]rd_event_news_ranked_missions_endless"		"HoIAF adds Endless Missions!"
