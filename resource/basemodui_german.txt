@@ -383,7 +383,7 @@
 "[english]L4D360UI_MsgBx_NeedLiveSplitscreenMsg"		"Both gamers must be signed in to Xbox LIVE to play online."
 "L4D360UI_MsgBx_NeedLiveSplitscreenMsg"		"Für Online-Spiele müssen beide Spieler bei Xbox LIVE angemeldet sein."
 "[english]L4D360UI_MsgBx_NeedLiveNonGoldSplitscreenMsg"		"Both gamers must be signed in to an account with multiplayer privileges to play online."
-"L4D360UI_MsgBx_NeedLiveNonGoldSplitscreenMsg"		"Für Online-Spiele müssen beide Spieler mit einem Konto mit Multiplayerrechten angemeldet sein."
+"L4D360UI_MsgBx_NeedLiveNonGoldSplitscreenMsg"		"Für Online-Spiele müssen beide Spieler mit einem Account mit Multiplayerrechten angemeldet sein."
 "[english]L4D360UI_MsgBx_NeedLiveNonGoldMsg"		"You must be signed in to a gamer profile with multiplayer privileges to play online."
 "L4D360UI_MsgBx_NeedLiveNonGoldMsg"		"Um online spielen zu können, musst du in einem Spielerprofil mit Multiplayer-Rechten angemeldet sein."
 "[english]L4D360UI_MsgBx_ConfirmGuestC"		"Play without gamer profile"
