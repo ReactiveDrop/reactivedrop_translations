@@ -433,76 +433,76 @@
 "[english]StatsWeb_Marine_Surname"		"%[1]s [b]%[2]s[/b]"
 "StatsWeb_Marine_Surname"		"%[1]s [b]%[2]s[/b]"
 
-		// browser page title for https://link.reactivedrop.com
-		"[english]LinkWeb_PageTitle"		"AS:RD Account Linking"
-		"LinkWeb_PageTitle"		"AS:RD Account Linking"
-		// shown in embeds
-		"[english]LinkWeb_SiteName"		"Alien Swarm: Reactive Drop Link"
-		"LinkWeb_SiteName"		"Alien Swarm: Reactive Drop Link"
-		// shown in search engine results and embeds
-		"[english]LinkWeb_SiteDescription"		"Connect your Alien Swarm: Reactive Drop account to other services to earn rewards."
-		"LinkWeb_SiteDescription"		"Connect your Alien Swarm: Reactive Drop account to other services to earn rewards."
-		// shown at the top of the page when the player is logged in, before and after the player's name
-		// translate these two strings together
-		"[english]LinkWeb_LoggedInBefore"		"Logged in as "
-		"LinkWeb_LoggedInBefore"		"Logged in as "
+// browser page title for https://link.reactivedrop.com
+"[english]LinkWeb_PageTitle"		"AS:RD Account Linking"
+"LinkWeb_PageTitle"		"Collega l'Account AS:RD"
+// shown in embeds
+"[english]LinkWeb_SiteName"		"Alien Swarm: Reactive Drop Link"
+"LinkWeb_SiteName"		"Collegamento di Alien Swarm: Reactive Drop"
+// shown in search engine results and embeds
+"[english]LinkWeb_SiteDescription"		"Connect your Alien Swarm: Reactive Drop account to other services to earn rewards."
+"LinkWeb_SiteDescription"		"Collega il tuo account Alien Swarm: Reactive Drop ad altri servizi per ottenere ricompense."
+// shown at the top of the page when the player is logged in, before and after the player's name
+// translate these two strings together
+"[english]LinkWeb_LoggedInBefore"		"Logged in as "
+"LinkWeb_LoggedInBefore"		"Accesso eseguito come "
 "[english]LinkWeb_LoggedInAfter"		""
 "LinkWeb_LoggedInAfter"		""
-		// button text shown next to player name and the above two strings
-		"[english]LinkWeb_LogOutButton"		"Log out"
-		"LinkWeb_LogOutButton"		"Log out"
-		// button text shown above the Steam logo when the player has not logged in yet
-		// (sorry if this makes the wording awkward in your language)
-		"[english]LinkWeb_LogInWithSteam"		"Log in with"
-		"LinkWeb_LogInWithSteam"		"Log in with"
-		// legal text at the bottom of the page
-		"[english]LinkWeb_Disclaimer"		"Alien Swarm: Reactive Drop is a fan continuation of Alien Swarm, developed by a community of volunteers. Account Linking is provided on a best-effort basis. Please contact Reactive Drop Team through the feedback site if anything goes wrong."
-		"LinkWeb_Disclaimer"		"Alien Swarm: Reactive Drop is a fan continuation of Alien Swarm, developed by a community of volunteers. Account Linking is provided on a best-effort basis. Please contact Reactive Drop Team through the feedback site if anything goes wrong."
+// button text shown next to player name and the above two strings
+"[english]LinkWeb_LogOutButton"		"Log out"
+"LinkWeb_LogOutButton"		"Disconnettiti"
+// button text shown above the Steam logo when the player has not logged in yet
+// (sorry if this makes the wording awkward in your language)
+"[english]LinkWeb_LogInWithSteam"		"Log in with"
+"LinkWeb_LogInWithSteam"		"Accedi con"
+// legal text at the bottom of the page
+"[english]LinkWeb_Disclaimer"		"Alien Swarm: Reactive Drop is a fan continuation of Alien Swarm, developed by a community of volunteers. Account Linking is provided on a best-effort basis. Please contact Reactive Drop Team through the feedback site if anything goes wrong."
+"LinkWeb_Disclaimer"		"Alien Swarm: Reactive Drop è una continuazione di Alien Swarm, sviluppata da una comunità di volontari. Il collegamento degli account è fornito con il massimo impegno. In caso di problemi, contattare il team di Reactive Drop attraverso il sito di feedback."
 // this should match the text on https://partner.steamgames.com/doc/marketing/branding/attribution for your language
 // we're skipping the initial "copyright valve corporation" to avoid confusion about whether valve is affiliated with this site (they aren't) and also to avoid having to update the year
 "[english]LinkWeb_DisclaimerSteam"		"Steam and the Steam logo are trademarks and/or registered trademarks of Valve Corporation in the U.S. and/or other countries."
 "LinkWeb_DisclaimerSteam"		"Steam e il logo Steam sono marchi e/o marchi registrati appartenenti a Valve Corporation negli Stati Uniti e/o in altri paesi."
-		// this should match the text on https://www.twitch.tv/p/en/legal/trademark/ for your language
-		"[english]LinkWeb_DisclaimerTwitch"		"TWITCH, the TWITCH Logo, the Glitch Logo, and/or TWITCHTV are trademarks of Twitch Interactive, Inc. or its affiliates."
-		"LinkWeb_DisclaimerTwitch"		"TWITCH, the TWITCH Logo, the Glitch Logo, and/or TWITCHTV are trademarks of Twitch Interactive, Inc. or its affiliates."
-		// button text
-		"[english]LinkWeb_LinkTwitch"		"Link Twitch Account"
-		"LinkWeb_LinkTwitch"		"Link Twitch Account"
-		"[english]LinkWeb_UnlinkTwitch"		"Unlink Twitch Account"
-		"LinkWeb_UnlinkTwitch"		"Unlink Twitch Account"
-		// text shown in the Twitch section of the page. one of these is always shown, and the "LastModified" and "LinkedAccount" may be shown on following lines if they are applicable.
-		// try to make the "invalid" and "conflict" lines noticeably different to the others at a glance.
-		"[english]LinkWeb_Twitch_status_initial"		"Never connected to Twitch."
-		"LinkWeb_Twitch_status_initial"		"Never connected to Twitch."
-		// this one means the link is working properly
-		"[english]LinkWeb_Twitch_status_created"		"Account linked."
-		"LinkWeb_Twitch_status_created"		"Account linked."
-		// the player unlinked their account through the link website
-		"[english]LinkWeb_Twitch_status_removed"		"Unlinked."
-		"LinkWeb_Twitch_status_removed"		"Unlinked."
-		// the token used to link the account was invalid
-		"[english]LinkWeb_Twitch_status_invalid"		"Account link removed. Connection revoked on the twitch.tv website or an error occurred."
-		"LinkWeb_Twitch_status_invalid"		"Account link removed. Connection revoked on the twitch.tv website or an error occurred."
-		// another Steam account is linked to the Twitch account
-		"[english]LinkWeb_Twitch_status_conflict"		"Account link removed. Twitch account was connected to a different Steam account."
-		"LinkWeb_Twitch_status_conflict"		"Account link removed. Twitch account was connected to a different Steam account."
-		// followed by timestamp of last change to account link status
-		"[english]LinkWeb_LastModified"		"Last changed:"
-		"LinkWeb_LastModified"		"Last changed:"
-		// account username (either connected or unexpectedly disconnected) follows this text
-		"[english]LinkWeb_LinkedAccount"		"Account name:"
-		"LinkWeb_LinkedAccount"		"Account name:"
+// this should match the text on https://www.twitch.tv/p/en/legal/trademark/ for your language
+"[english]LinkWeb_DisclaimerTwitch"		"TWITCH, the TWITCH Logo, the Glitch Logo, and/or TWITCHTV are trademarks of Twitch Interactive, Inc. or its affiliates."
+"LinkWeb_DisclaimerTwitch"		"TWITCH, il Logo di TWITCH, il Logo Glitch, e/o TWITCHTV sono marchi registrati di Twitch Interactive, Inc. o dei suoi affiliati."
+// button text
+"[english]LinkWeb_LinkTwitch"		"Link Twitch Account"
+"LinkWeb_LinkTwitch"		"Collega l'Account Twitch"
+"[english]LinkWeb_UnlinkTwitch"		"Unlink Twitch Account"
+"LinkWeb_UnlinkTwitch"		"Scollega l'Account Twitch"
+// text shown in the Twitch section of the page. one of these is always shown, and the "LastModified" and "LinkedAccount" may be shown on following lines if they are applicable.
+// try to make the "invalid" and "conflict" lines noticeably different to the others at a glance.
+"[english]LinkWeb_Twitch_status_initial"		"Never connected to Twitch."
+"LinkWeb_Twitch_status_initial"		"Mai connesso a Twitch."
+// this one means the link is working properly
+"[english]LinkWeb_Twitch_status_created"		"Account linked."
+"LinkWeb_Twitch_status_created"		"Account collegato."
+// the player unlinked their account through the link website
+"[english]LinkWeb_Twitch_status_removed"		"Unlinked."
+"LinkWeb_Twitch_status_removed"		"Scollegato."
+// the token used to link the account was invalid
+"[english]LinkWeb_Twitch_status_invalid"		"Account link removed. Connection revoked on the twitch.tv website or an error occurred."
+"LinkWeb_Twitch_status_invalid"		"Collegamento con l'account rimosso. Connessione revocata al sito web twitch.tv oppure si è verificato un'errore."
+// another Steam account is linked to the Twitch account
+"[english]LinkWeb_Twitch_status_conflict"		"Account link removed. Twitch account was connected to a different Steam account."
+"LinkWeb_Twitch_status_conflict"		"Collegamento con l'account rimosso. L'account di Twitch era connesso ad un account di Steam differente."
+// followed by timestamp of last change to account link status
+"[english]LinkWeb_LastModified"		"Last changed:"
+"LinkWeb_LastModified"		"Ultima modifica:"
+// account username (either connected or unexpectedly disconnected) follows this text
+"[english]LinkWeb_LinkedAccount"		"Account name:"
+"LinkWeb_LinkedAccount"		"Nome account:"
 
-		"[english]rd_event_mapping_competition"		"Mapping Competition 2025 \"Residential, Commercial, Industrial\""
-		"rd_event_mapping_competition"		"Mapping Competition 2025 \"Residential, Commercial, Industrial\""
+"[english]rd_event_mapping_competition"		"Mapping Competition 2025 \"Residential, Commercial, Industrial\""
+"rd_event_mapping_competition"		"Competizione di Mapping 2025 \"Residenziale, Commerciale, Industriale\""
 "[english]rd_event_double_xp_anniversary"		"Anniversary Double Experience Week"
 "rd_event_double_xp_anniversary"		"Settimana di Esperienza Raddoppiata per l'Anniversario"
 "[english]rd_event_news_anniversary_6th"		"6th Anniversary! New campaign, side stories, and more!"
 "rd_event_news_anniversary_6th"		"Sesto Anniversario! Nuova campagna, storie secondarie e altro ancora!"
 "[english]rd_event_news_anniversary_7th"		"7th Anniversary! New UI redesign!"
 "rd_event_news_anniversary_7th"		"Settimo Anniversario! Un nuovo design per l'IU!"
-		"[english]rd_event_news_anniversary_8th"		"Celebrating 8 years of Alien Swarm: Reactive Drop!"
-		"rd_event_news_anniversary_8th"		"Celebrating 8 years of Alien Swarm: Reactive Drop!"
+"[english]rd_event_news_anniversary_8th"		"Celebrating 8 years of Alien Swarm: Reactive Drop!"
+"rd_event_news_anniversary_8th"		"Celebrando gli 8 anni di Alien Swarm: Reactive Drop!"
 "[english]rd_event_news_ranked_missions_added"		"New and old favorite missions added to HoIAF!"
 "rd_event_news_ranked_missions_added"		"Le missioni migliori vecchie e nuove sono state aggiunte a HoIAF!"
 "[english]rd_event_news_ranked_missions_endless"		"HoIAF adds Endless Missions!"
