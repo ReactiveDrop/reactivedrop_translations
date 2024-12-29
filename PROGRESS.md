@@ -2,24 +2,24 @@
 | Language | basemodui | closecaption | gameui | reactivedrop | items | statsweb | Strings | Files |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 19 | ✔️ | ✔️ |
-| [Traditional Chinese](#tchinese-繁體中文) | ✔️ | ✔️ | ✔️ | 92 | ✔️ | 20 | ✔️ | 126 |
+| [Traditional Chinese](#tchinese-繁體中文) | ✔️ | ✔️ | ✔️ | 92 | ✔️ | ✔️ | ✔️ | 126 |
 | [Czech](#czech-čeština) | 76 | 1810 | 43 | 4238 | 271 | 230 | 977 | 146 |
 | [Danish](#non-curated-languages) | 57 | 231 | 43 | 3765 | 271 | 230 | 707 | 147 |
 | [Dutch](#non-curated-languages) | 56 | 2004 | 43 | 3234 | 271 | 230 | 707 | 146 |
 | [Finnish](#non-curated-languages) | ✔️ | 2004 | 42 | 3095 | 208 | 170 | 639 | 145 |
 | [French](#french-français) | 32 | 138 | 43 | 2600 | 270 | 230 | 647 | 125 |
-| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 19 | ✔️ | ✔️ |
+| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Hungarian](#non-curated-languages) | 56 | 138 | 43 | 3234 | 271 | 230 | 972 | 147 |
 | [Indonesian](#indonesian-indonesia) | 1116 | 2004 | 635 | 4249 | 274 | 235 | 969 | 146 |
-| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 19 | ✔️ | ✔️ |
-| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 19 | 35 | ✔️ |
-| [Korean](#koreana-한국어) | ✔️ | ✔️ | ✔️ | 67 | ✔️ | 19 | 5 | 29 |
+| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
+| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 35 | ✔️ |
+| [Korean](#koreana-한국어) | ✔️ | ✔️ | ✔️ | 67 | ✔️ | ✔️ | 5 | 29 |
 | [Norwegian Bokmål](#non-curated-languages) | 74 | 708 | 48 | 3939 | 271 | 230 | 707 | 147 |
 | [Polish](#polish-polski) | 2 | 2004 | ✔️ | 2878 | ✔️ | 19 | 134 | 127 |
 | [European Portuguese](#portuguese-português-europeu) | 5 | 180 | 33 | 2324 | 251 | 51 | 633 | 142 |
 | [Brazilian Portuguese](#brazilian-português) | 1 | ✔️ | ✔️ | 861 | 13 | 22 | 1 | 3 |
 | [Romanian](#non-curated-languages) | 56 | 1996 | 49 | 3945 | 271 | 230 | 972 | 147 |
-| [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | 2 | ✔️ | 19 | ✔️ | 1 |
+| [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [European Spanish](#spanish-español-de-españa) | 33 | 2004 | 41 | 2651 | ✔️ | 230 | 432 | 126 |
 | [Latin American Spanish](#latam-español-latinoamericano) | 1 | 2004 | ✔️ | 4285 | 19 | 23 | 204 | 143 |
 | [Swedish](#swedish-svenska) | ✔️ | ✔️ | ✔️ | 437 | ✔️ | ✔️ | ✔️ | 82 |
@@ -55,7 +55,6 @@
 
 ### Strings
 
-- [statsweb_tchinese.vdf](community/stats_website/statsweb_tchinese.vdf) has 20 untranslated strings.
 - [reactivedrop_tchinese.txt](resource/reactivedrop_tchinese.txt) has 92 untranslated strings.
 
 ### Steam Store and Community
@@ -546,9 +545,7 @@
 
 </summary>
 
-### Strings
-
-- [statsweb_german.vdf](community/stats_website/statsweb_german.vdf) has 19 untranslated strings.
+✓ Up to date!
 
 </details>
 
@@ -739,9 +736,7 @@
 
 </summary>
 
-### Strings
-
-- [statsweb_italian.vdf](community/stats_website/statsweb_italian.vdf) has 19 untranslated strings.
+✓ Up to date!
 
 </details>
 
@@ -753,7 +748,6 @@
 
 ### Strings
 
-- [statsweb_japanese.vdf](community/stats_website/statsweb_japanese.vdf) has 19 untranslated strings.
 - [platform/vgui_japanese.txt](platform/vgui_japanese.txt) has 35 untranslated strings.
 
 </details>
@@ -766,7 +760,6 @@
 
 ### Strings
 
-- [statsweb_koreana.vdf](community/stats_website/statsweb_koreana.vdf) has 19 untranslated strings.
 - [platform/vgui_koreana.txt](platform/vgui_koreana.txt) has 5 untranslated strings.
 - [reactivedrop_koreana.txt](resource/reactivedrop_koreana.txt) has 67 untranslated strings.
 
@@ -1167,14 +1160,7 @@
 
 </summary>
 
-### Strings
-
-- [statsweb_russian.vdf](community/stats_website/statsweb_russian.vdf) has 19 untranslated strings.
-- [reactivedrop_russian.txt](resource/reactivedrop_russian.txt) has 2 untranslated strings.
-
-### Upcoming Release Notes
-
-- [20250101_russian.xml](release_notes/20250101_english.xml) is missing.
+✓ Up to date!
 
 </details>
 
