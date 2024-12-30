@@ -445,7 +445,7 @@
 // shown at the top of the page when the player is logged in, before and after the player's name
 // translate these two strings together
 "[english]LinkWeb_LoggedInBefore"		"Logged in as "
-"LinkWeb_LoggedInBefore"		"연동 계정 "
+"LinkWeb_LoggedInBefore"		"로그인된 계정 "
 "[english]LinkWeb_LoggedInAfter"		""
 "LinkWeb_LoggedInAfter"		""
 // button text shown next to player name and the above two strings
