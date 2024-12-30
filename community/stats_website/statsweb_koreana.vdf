@@ -445,7 +445,7 @@
 // shown at the top of the page when the player is logged in, before and after the player's name
 // translate these two strings together
 "[english]LinkWeb_LoggedInBefore"		"Logged in as "
-"LinkWeb_LoggedInBefore"		" 으로 로그인됨"
+"LinkWeb_LoggedInBefore"		"연동 계정 "
 "[english]LinkWeb_LoggedInAfter"		""
 "LinkWeb_LoggedInAfter"		""
 // button text shown next to player name and the above two strings
@@ -469,11 +469,11 @@
 "[english]LinkWeb_LinkTwitch"		"Link Twitch Account"
 "LinkWeb_LinkTwitch"		"트위치 계정 연동"
 "[english]LinkWeb_UnlinkTwitch"		"Unlink Twitch Account"
-"LinkWeb_UnlinkTwitch"		"트위치 계정 연동 해제"
+"LinkWeb_UnlinkTwitch"		"트위치 연동 해제"
 // text shown in the Twitch section of the page. one of these is always shown, and the "LastModified" and "LinkedAccount" may be shown on following lines if they are applicable.
 // try to make the "invalid" and "conflict" lines noticeably different to the others at a glance.
 "[english]LinkWeb_Twitch_status_initial"		"Never connected to Twitch."
-"LinkWeb_Twitch_status_initial"		"연동하지 않았습니다."
+"LinkWeb_Twitch_status_initial"		"연동중인 트위치 계정이 없습니다."
 // this one means the link is working properly
 "[english]LinkWeb_Twitch_status_created"		"Account linked."
 "LinkWeb_Twitch_status_created"		"계정이 연동되었습니다."
