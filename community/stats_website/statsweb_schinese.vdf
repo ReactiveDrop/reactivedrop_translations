@@ -433,76 +433,76 @@
 "[english]StatsWeb_Marine_Surname"		"%[1]s [b]%[2]s[/b]"
 "StatsWeb_Marine_Surname"		"%[1]s [b]%[2]s[/b]"
 
-		// browser page title for https://link.reactivedrop.com
-		"[english]LinkWeb_PageTitle"		"AS:RD Account Linking"
-		"LinkWeb_PageTitle"		"AS:RD Account Linking"
-		// shown in embeds
-		"[english]LinkWeb_SiteName"		"Alien Swarm: Reactive Drop Link"
-		"LinkWeb_SiteName"		"Alien Swarm: Reactive Drop Link"
-		// shown in search engine results and embeds
-		"[english]LinkWeb_SiteDescription"		"Connect your Alien Swarm: Reactive Drop account to other services to earn rewards."
-		"LinkWeb_SiteDescription"		"Connect your Alien Swarm: Reactive Drop account to other services to earn rewards."
-		// shown at the top of the page when the player is logged in, before and after the player's name
-		// translate these two strings together
-		"[english]LinkWeb_LoggedInBefore"		"Logged in as "
-		"LinkWeb_LoggedInBefore"		"Logged in as "
+// browser page title for https://link.reactivedrop.com
+"[english]LinkWeb_PageTitle"		"AS:RD Account Linking"
+"LinkWeb_PageTitle"		"异形丛生：虫启天降 账户关联"
+// shown in embeds
+"[english]LinkWeb_SiteName"		"Alien Swarm: Reactive Drop Link"
+"LinkWeb_SiteName"		"异形丛生：虫启天降 账户关联"
+// shown in search engine results and embeds
+"[english]LinkWeb_SiteDescription"		"Connect your Alien Swarm: Reactive Drop account to other services to earn rewards."
+"LinkWeb_SiteDescription"		"将您的 异形丛生：虫启天降 账户和其它账户/服务进行关联并获得奖励。"
+// shown at the top of the page when the player is logged in, before and after the player's name
+// translate these two strings together
+"[english]LinkWeb_LoggedInBefore"		"Logged in as "
+"LinkWeb_LoggedInBefore"		"当前登录账户："
 "[english]LinkWeb_LoggedInAfter"		""
 "LinkWeb_LoggedInAfter"		""
-		// button text shown next to player name and the above two strings
-		"[english]LinkWeb_LogOutButton"		"Log out"
-		"LinkWeb_LogOutButton"		"Log out"
-		// button text shown above the Steam logo when the player has not logged in yet
-		// (sorry if this makes the wording awkward in your language)
-		"[english]LinkWeb_LogInWithSteam"		"Log in with"
-		"LinkWeb_LogInWithSteam"		"Log in with"
-		// legal text at the bottom of the page
-		"[english]LinkWeb_Disclaimer"		"Alien Swarm: Reactive Drop is a fan continuation of Alien Swarm, developed by a community of volunteers. Account Linking is provided on a best-effort basis. Please contact Reactive Drop Team through the feedback site if anything goes wrong."
-		"LinkWeb_Disclaimer"		"Alien Swarm: Reactive Drop is a fan continuation of Alien Swarm, developed by a community of volunteers. Account Linking is provided on a best-effort basis. Please contact Reactive Drop Team through the feedback site if anything goes wrong."
+// button text shown next to player name and the above two strings
+"[english]LinkWeb_LogOutButton"		"Log out"
+"LinkWeb_LogOutButton"		"退出登录"
+// button text shown above the Steam logo when the player has not logged in yet
+// (sorry if this makes the wording awkward in your language)
+"[english]LinkWeb_LogInWithSteam"		"Log in with"
+"LinkWeb_LogInWithSteam"		"以该账户登录"
+// legal text at the bottom of the page
+"[english]LinkWeb_Disclaimer"		"Alien Swarm: Reactive Drop is a fan continuation of Alien Swarm, developed by a community of volunteers. Account Linking is provided on a best-effort basis. Please contact Reactive Drop Team through the feedback site if anything goes wrong."
+"LinkWeb_Disclaimer"		"《异形丛生：虫启天降》是由《异形丛生》的粉丝群体制作的游戏续作，由社区志愿者开发维护。我们尽最大努力保障账户关联功能正常运行，但无法就此做出任何保证。如果出现任何问题，请通过反馈网站联系 Reactive Drop 团队。"
 // this should match the text on https://partner.steamgames.com/doc/marketing/branding/attribution for your language
 // we're skipping the initial "copyright valve corporation" to avoid confusion about whether valve is affiliated with this site (they aren't) and also to avoid having to update the year
 "[english]LinkWeb_DisclaimerSteam"		"Steam and the Steam logo are trademarks and/or registered trademarks of Valve Corporation in the U.S. and/or other countries."
 "LinkWeb_DisclaimerSteam"		"Steam 和 Steam 徽标均为 Valve Corporation 在美国和/或其他国家（地区）的商标和/或注册商标。"
-		// this should match the text on https://www.twitch.tv/p/en/legal/trademark/ for your language
-		"[english]LinkWeb_DisclaimerTwitch"		"TWITCH, the TWITCH Logo, the Glitch Logo, and/or TWITCHTV are trademarks of Twitch Interactive, Inc. or its affiliates."
-		"LinkWeb_DisclaimerTwitch"		"TWITCH, the TWITCH Logo, the Glitch Logo, and/or TWITCHTV are trademarks of Twitch Interactive, Inc. or its affiliates."
-		// button text
-		"[english]LinkWeb_LinkTwitch"		"Link Twitch Account"
-		"LinkWeb_LinkTwitch"		"Link Twitch Account"
-		"[english]LinkWeb_UnlinkTwitch"		"Unlink Twitch Account"
-		"LinkWeb_UnlinkTwitch"		"Unlink Twitch Account"
-		// text shown in the Twitch section of the page. one of these is always shown, and the "LastModified" and "LinkedAccount" may be shown on following lines if they are applicable.
-		// try to make the "invalid" and "conflict" lines noticeably different to the others at a glance.
-		"[english]LinkWeb_Twitch_status_initial"		"Never connected to Twitch."
-		"LinkWeb_Twitch_status_initial"		"Never connected to Twitch."
-		// this one means the link is working properly
-		"[english]LinkWeb_Twitch_status_created"		"Account linked."
-		"LinkWeb_Twitch_status_created"		"Account linked."
-		// the player unlinked their account through the link website
-		"[english]LinkWeb_Twitch_status_removed"		"Unlinked."
-		"LinkWeb_Twitch_status_removed"		"Unlinked."
-		// the token used to link the account was invalid
-		"[english]LinkWeb_Twitch_status_invalid"		"Account link removed. Connection revoked on the twitch.tv website or an error occurred."
-		"LinkWeb_Twitch_status_invalid"		"Account link removed. Connection revoked on the twitch.tv website or an error occurred."
-		// another Steam account is linked to the Twitch account
-		"[english]LinkWeb_Twitch_status_conflict"		"Account link removed. Twitch account was connected to a different Steam account."
-		"LinkWeb_Twitch_status_conflict"		"Account link removed. Twitch account was connected to a different Steam account."
-		// followed by timestamp of last change to account link status
-		"[english]LinkWeb_LastModified"		"Last changed:"
-		"LinkWeb_LastModified"		"Last changed:"
-		// account username (either connected or unexpectedly disconnected) follows this text
-		"[english]LinkWeb_LinkedAccount"		"Account name:"
-		"LinkWeb_LinkedAccount"		"Account name:"
+// this should match the text on https://www.twitch.tv/p/en/legal/trademark/ for your language
+"[english]LinkWeb_DisclaimerTwitch"		"TWITCH, the TWITCH Logo, the Glitch Logo, and/or TWITCHTV are trademarks of Twitch Interactive, Inc. or its affiliates."
+"LinkWeb_DisclaimerTwitch"		"TWITCH、TWITCH图标、 Glitch图标 和/或 TWITCHTV 是 Twitch Interactive, Inc. 或其附属公司的商标。TWITCH, the TWITCH Logo, the Glitch Logo, and/or TWITCHTV are trademarks of Twitch Interactive, Inc. or its affiliates."
+// button text
+"[english]LinkWeb_LinkTwitch"		"Link Twitch Account"
+"LinkWeb_LinkTwitch"		"关联 Twitch账户"
+"[english]LinkWeb_UnlinkTwitch"		"Unlink Twitch Account"
+"LinkWeb_UnlinkTwitch"		"解除与 Twitch账户 的关联"
+// text shown in the Twitch section of the page. one of these is always shown, and the "LastModified" and "LinkedAccount" may be shown on following lines if they are applicable.
+// try to make the "invalid" and "conflict" lines noticeably different to the others at a glance.
+"[english]LinkWeb_Twitch_status_initial"		"Never connected to Twitch."
+"LinkWeb_Twitch_status_initial"		"尚未关联 Twitch账户。"
+// this one means the link is working properly
+"[english]LinkWeb_Twitch_status_created"		"Account linked."
+"LinkWeb_Twitch_status_created"		"账户已关联。"
+// the player unlinked their account through the link website
+"[english]LinkWeb_Twitch_status_removed"		"Unlinked."
+"LinkWeb_Twitch_status_removed"		"账户已解除关联。"
+// the token used to link the account was invalid
+"[english]LinkWeb_Twitch_status_invalid"		"Account link removed. Connection revoked on the twitch.tv website or an error occurred."
+"LinkWeb_Twitch_status_invalid"		"帐户关联失败。twitch.tv 网站上的连接被撤销或发生错误。"
+// another Steam account is linked to the Twitch account
+"[english]LinkWeb_Twitch_status_conflict"		"Account link removed. Twitch account was connected to a different Steam account."
+"LinkWeb_Twitch_status_conflict"		"帐户关联失败。Twitch账户 已经关联到另一个 Steam账户。"
+// followed by timestamp of last change to account link status
+"[english]LinkWeb_LastModified"		"Last changed:"
+"LinkWeb_LastModified"		"最后变更时间："
+// account username (either connected or unexpectedly disconnected) follows this text
+"[english]LinkWeb_LinkedAccount"		"Account name:"
+"LinkWeb_LinkedAccount"		"账户名称："
 
-		"[english]rd_event_mapping_competition"		"Mapping Competition 2025 \"Residential, Commercial, Industrial\""
-		"rd_event_mapping_competition"		"Mapping Competition 2025 \"Residential, Commercial, Industrial\""
+"[english]rd_event_mapping_competition"		"Mapping Competition 2025 \"Residential, Commercial, Industrial\""
+"rd_event_mapping_competition"		"地图大赛2025：:“住宅、商业、工业”"
 "[english]rd_event_double_xp_anniversary"		"Anniversary Double Experience Week"
 "rd_event_double_xp_anniversary"		"周年庆典双倍经验周"
 "[english]rd_event_news_anniversary_6th"		"6th Anniversary! New campaign, side stories, and more!"
 "rd_event_news_anniversary_6th"		"六周年庆典！新战役、新故事以及更多！"
 "[english]rd_event_news_anniversary_7th"		"7th Anniversary! New UI redesign!"
 "rd_event_news_anniversary_7th"		"七周年庆典！焕然一新！"
-		"[english]rd_event_news_anniversary_8th"		"Celebrating 8 years of Alien Swarm: Reactive Drop!"
-		"rd_event_news_anniversary_8th"		"Celebrating 8 years of Alien Swarm: Reactive Drop!"
+"[english]rd_event_news_anniversary_8th"		"Celebrating 8 years of Alien Swarm: Reactive Drop!"
+"rd_event_news_anniversary_8th"		"《异形丛生：虫启天降》八周年庆典！"
 "[english]rd_event_news_ranked_missions_added"		"New and old favorite missions added to HoIAF!"
 "rd_event_news_ranked_missions_added"		"多个广受好评的新老战役加入HoIAF！"
 "[english]rd_event_news_ranked_missions_endless"		"HoIAF adds Endless Missions!"
