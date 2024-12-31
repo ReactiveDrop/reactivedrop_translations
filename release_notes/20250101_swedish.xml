@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<content><string id="body">Det är 2025, och för att börja året har vi en hög med uppdateringar efterfrågade av gemenskapen!
+
+[list]
+[*][i]Befälhavare som söker efter avvikande material tillsammans kan hitta dem snabbare.[/i]
+[*]Lade till convar rd_chat_item_messages för att välja bort meddelanden om spelare som hittar föremål som medaljer och hantverksmaterial. (Föreslaget av Ax-now)
+[*]Fixade befälhavare som valde fas 2 men inte fas 1 som inte kunde se vissa informativa UI-element i menyer.
+
+[*][b]Jacobs Vila: Deima Yt-bro:[/b] Tog bort marinsoldats hints från ett område utanför gränserna. (Rapporterat av typical russian)
+[*][b]Jacobs Vila: Deima Yt-bro:[/b] Utökade triggers på bron uppåt för att undvika att spelare av misstag kan raket hoppa över dem och få oändliga spawners att aldrig stängas av. (Rapporterat av WTF-8)
+[*][b]Jacobs Vila: Deima Yt-bro:[/b] Lade till ett okroppsligt tak i första och tredje person över byggnaden där det första hacket inträffar.
+[*][b]Jacobs Vila: Rydbergreaktorn:[/b] Fixade saknade rangers under den sista uthållningen. (Rapporterat av WTF-8)
+[*][b]Jacobs Vila: Rydbergreaktorn:[/b] Fixade en plats där marinsoldater kunde rakethoppa till sin död. (Rapporterat av WTF-8)
+[*][b]Jacobs Vila: Rydbergreaktorn:[/b] Utökat utrymningsområde till hela området bortom sista dörren. (Rapporterat av typical russian)
+[*][b]Reducering: Tyst Station:[/b] Fixade saknade utomjordingar under den sista uthållningen. (Rapporterat av WTF-8)
+[*][b]Reducering: Förfallna Staden:[/b] Fixade ett potentiellt mjuklås när du hoppade över skyskrapan. (Rapporterat av WTF-8)
+[*][b]Reducering: Fripassagerare:[/b] Fixade att dörröppningssekvensen i början av uppdraget försenades om dörren inte var skadad. (Rapporterat av WTF-8)
+[*][b]Reducering: Inevitable Escalation:[/b] Fixade en plats där marinsoldater kunde dö medan de såg den sista mellansekvensen. (Rapporterat av WTF-8)
+[*][b]Område 9800: Landningszon:[/b] Fixat att utgången var tillgänglig via rakethopp innan dörren öppnas. (Rapporterat av WTF-8)
+[*][b]Område 9800: Kraftverks Kylningspumpen:[/b] Fixade att utrymningsområdet inte behandlades som ett utrymningsområde förrän alla andra mål var klara.
+[*][b]Lanas Flykt: Lanas Ventilation:[/b] Fixade marinsoldats bottar som tog en oväntat lång väg. (Rapporterat av WTF-8)
+[*][b]Lanas Flykt: Lanas Underhåll:[/b] Fixade en osynlig vägg med granatkollision i nordöstra änden av kartan när kameran vrids. (Rapporterat av WTF-8)
+[*][b]Operation Rent Hus: U.S.C. Medusa:[/b] Tillagt skydd mot att dörrarna till huvudhissen fastnar.
+[*][b]BioGen Corporation: BioGen Labb:[/b] Fixat tekniskt marint krav som inte togs bort ordentligt efter det senaste hacket. (Rapporterat av WTF-8)
+[*][b]Forskning 7: Jerichos Gruva:[/b] Fixande hitboxen för att lavan är för stor. (Rapporterat av WTF-8)
+[*][b]Tilarus-5: Yanaurus Gruva:[/b] Fixade en osynlig vägg med granatkollision. (Rapporterat av WTF-8)
+[*][b]Tilarus-5: Bortglömd Fabrik:[/b] Fixade en trasig dörr som föreslog spelaren att svetsa den. (Rapporterat av WTF-8)
+[*][b]Tilarus-5: SynTek Sjukhus:[/b] Fixade en trasig dörr som föreslog spelaren att svetsa den. (Rapporterat av WTF-8)
+[/list]
+</string><string id="subtitle"></string><string id="summary"></string><string id="title">AS:RD Uppdatering - Januari 1, 2025 "Asätare"</string></content>
