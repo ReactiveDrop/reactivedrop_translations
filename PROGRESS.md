@@ -1,7 +1,7 @@
 # Overview
 | Language | basemodui | closecaption | gameui | reactivedrop | items | statsweb | Strings | Files |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 19 | ✔️ | ✔️ |
+| [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Traditional Chinese](#tchinese-繁體中文) | ✔️ | ✔️ | ✔️ | 92 | ✔️ | ✔️ | ✔️ | 126 |
 | [Czech](#czech-čeština) | 76 | 1810 | 43 | 4238 | 271 | 230 | 977 | 146 |
 | [Danish](#non-curated-languages) | 57 | 231 | 43 | 3765 | 271 | 230 | 707 | 147 |
@@ -22,7 +22,7 @@
 | [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [European Spanish](#spanish-español-de-españa) | 33 | 2004 | 41 | 2651 | ✔️ | 230 | 432 | 126 |
 | [Latin American Spanish](#latam-español-latinoamericano) | 1 | 2004 | ✔️ | 4285 | 19 | 23 | 204 | 143 |
-| [Swedish](#swedish-svenska) | ✔️ | ✔️ | ✔️ | 437 | ✔️ | ✔️ | ✔️ | 82 |
+| [Swedish](#swedish-svenska) | ✔️ | ✔️ | ✔️ | 391 | ✔️ | ✔️ | ✔️ | 81 |
 | [Thai](#non-curated-languages) | 971 | 1993 | 51 | 4481 | 271 | 230 | 736 | 147 |
 | [Turkish](#non-curated-languages) | 56 | 137 | 43 | 3234 | 271 | 230 | 972 | 147 |
 | [Ukrainian](#ukrainian-українська) | 32 | 131 | 33 | 2800 | 271 | 230 | 932 | 147 |
@@ -41,9 +41,7 @@
 
 </summary>
 
-### Strings
-
-- [statsweb_schinese.vdf](community/stats_website/statsweb_schinese.vdf) has 19 untranslated strings.
+✓ Up to date!
 
 </details>
 
@@ -1498,11 +1496,7 @@
 
 ### Strings
 
-- [reactivedrop_swedish.txt](resource/reactivedrop_swedish.txt) has 437 untranslated strings.
-
-### Upcoming Release Notes
-
-- [20250101_swedish.xml](release_notes/20250101_english.xml) is missing.
+- [reactivedrop_swedish.txt](resource/reactivedrop_swedish.txt) has 391 untranslated strings.
 
 ### Mail and News
 
