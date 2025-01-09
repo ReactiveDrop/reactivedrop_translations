@@ -10,7 +10,7 @@
 | [French](#french-français) | 32 | 138 | 43 | 2600 | 270 | 230 | 647 | 125 |
 | [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Hungarian](#non-curated-languages) | 56 | 138 | 43 | 3234 | 271 | 230 | 972 | 147 |
-| [Indonesian](#indonesian-indonesia) | 1116 | 2004 | 635 | 4249 | 274 | 235 | 969 | 146 |
+| [Indonesian](#indonesian-indonesia) | 1116 | 2004 | 635 | 4200 | 274 | 235 | 969 | 146 |
 | [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 35 | ✔️ |
 | [Korean](#koreana-한국어) | ✔️ | ✔️ | ✔️ | 67 | ✔️ | ✔️ | 5 | 29 |
@@ -568,7 +568,7 @@
 - [basemodui_indonesian.txt](resource/basemodui_indonesian.txt) has 1116 untranslated strings.
 - [closecaption_indonesian.txt](resource/closecaption_indonesian.txt) has 2004 untranslated strings.
 - [gameui_indonesian.txt](resource/gameui_indonesian.txt) has 635 untranslated strings.
-- [reactivedrop_indonesian.txt](resource/reactivedrop_indonesian.txt) has 4249 untranslated strings.
+- [reactivedrop_indonesian.txt](resource/reactivedrop_indonesian.txt) has 4200 untranslated strings.
 - [valve_indonesian.txt](resource/valve_indonesian.txt) has 266 untranslated strings.
 
 ### Steam Store and Community
