@@ -129,7 +129,7 @@
 "asw_SynTekDownloadDocsComplete"		"Unduhan Selesai"
 "[english]asw_SynTekReactorLabel"		"Reactor"
 "asw_SynTekReactorLabel"		"Reaktor"
-"[english]asw_SynTekHeatEPenukar PanasLGagal"Heat Exchanger"
+"[english]asw_SynTekHeatExchangerLabel"		"Heat Exchanger"
 "asw_SynTekHeatExchangerLabel"		"Penukar Panas"
 "[english]asw_SynTekCoolingTowerLabel"		"Cooling Tower"
 "asw_SynTekCoolingTowerLabel"		"Menara Pendingin"
