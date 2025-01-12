@@ -451,9 +451,9 @@
 "[english]L4D360UI_MsgBx_GuestsUnavailableToGuests"		"Guests are not allowed to unlock or view achievement scores."
 "L4D360UI_MsgBx_GuestsUnavailableToGuests"		"Tamu tidak diizinkan untuk membuka atau melihat skor pencapaian."
 
-		//Game Settings
-		"[english]L4D360UI_GameSettings_LiveOpen"		"Game Settings: PUBLIC GAME"
-		"L4D360UI_GameSettings_LiveOpen"		"Game Settings: PUBLIC GAME"
+//Game Settings
+"[english]L4D360UI_GameSettings_LiveOpen"		"Game Settings: PUBLIC GAME"
+"L4D360UI_GameSettings_LiveOpen"		"Pengaturan Permainan: PERMAINAN PUBLIK"
 		"[english]L4D360UI_GameSettings_LiveFriends"		"Game Settings: FRIENDS-ONLY GAME"
 		"L4D360UI_GameSettings_LiveFriends"		"Game Settings: FRIENDS-ONLY GAME"
 		"[english]L4D360UI_GameSettings_SysLink"		"Game Settings: LAN GAME"
