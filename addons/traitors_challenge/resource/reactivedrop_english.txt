@@ -21,7 +21,7 @@
 //This is used to notify the player who takes an IAF bot.
 "challenge_traitors_iaf_bot_taken_notify1"		"You have taken an IAF bot! Your team objective is to COMPLETE the mission."
 //This shows up to a traitor player who tries to take an IAF bot. Other players can't see it
-"challenge_traitors_iaf_bot_taken_notify2"		"You were killed because you betrayed the team!"
+"challenge_traitors_iaf_bot_taken_notify2"		"You were killed because you betrayed your team!"
 
 //This is used to mark a message that only TRAITOR team players can see. For example:
 //If a traitor <Player A> says something starting with a "/", like"/let's kill Player B first.". Only and all TRAITOR team players will receive the secret message"[TRAITOR]Player A:  /let's kill Player B first.".
