@@ -18,12 +18,12 @@
 
 		"[english]challenge_traitors_iaf_objective"		"You are an IAF marine! Your team objective is to COMPLETE the mission."
 		"challenge_traitors_iaf_objective"		"You are an IAF marine! Your team objective is to COMPLETE the mission."
-		"[english]challenge_traitors_traitor_objective"		"You are a TRAITOR! Your team objective is to kill IAF team with at least 1 traitor alive."
-		"challenge_traitors_traitor_objective"		"You are a TRAITOR! Your team objective is to kill IAF team with at least 1 traitor alive."
+		"[english]challenge_traitors_traitor_objective"		"You are a TRAITOR! Your team objective is to kill the IAF team with at least 1 traitor alive."
+		"challenge_traitors_traitor_objective"		"You are a TRAITOR! Your team objective is to kill the IAF team with at least 1 traitor alive."
 
 		//This is used to notify the player who takes a traitor bot.
-		"[english]challenge_traitors_traitor_bot_taken_notify1"		"You have taken a TRAITOR bot! Your team objective is to kill IAF team with at least 1 traitor alive."
-		"challenge_traitors_traitor_bot_taken_notify1"		"You have taken a TRAITOR bot! Your team objective is to kill IAF team with at least 1 traitor alive."
+		"[english]challenge_traitors_traitor_bot_taken_notify1"		"You have taken a TRAITOR bot! Your team objective is to kill the IAF team with at least 1 traitor alive."
+		"challenge_traitors_traitor_bot_taken_notify1"		"You have taken a TRAITOR bot! Your team objective is to kill the IAF team with at least 1 traitor alive."
 		//This is used to notify all traitors that their teammates have changed. 
 		"[english]challenge_traitors_traitor_bot_taken_notify2"		"ATTENTION! A non-traitor player has taken a traitor bot, the traitor name list has changed!"
 		"challenge_traitors_traitor_bot_taken_notify2"		"ATTENTION! A non-traitor player has taken a traitor bot, the traitor name list has changed!"
