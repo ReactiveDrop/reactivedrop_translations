@@ -33,7 +33,7 @@
 "challenge_traitors_game_instruction3"		"By taking a TRAITOR BOT in game, you are forced to join the TRAITOR team. There is no way back from being a traitor."
 "challenge_traitors_game_instruction4"		"---A traitor can send secret messages beginning with \"/\" to teammates."
 //IME: Input Method Editors
-"challenge_traitors_game_instruction5"		"---Becareful of your IME status, or your secret message might be sent to the public."
+"challenge_traitors_game_instruction5"		"---Be careful of your IME status, or your secret message might be sent to the public."
 
 "challenge_traitors_traitor_list"		"TRAITOR name list:"
 "challenge_traitors_traitor_player_unavailable"		"Corrupted Records"

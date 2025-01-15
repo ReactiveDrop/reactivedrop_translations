@@ -50,7 +50,7 @@
 "[english]challenge_traitors_game_instruction4"		"---A traitor can send secret messages beginning with \"/\" to teammates."
 "challenge_traitors_game_instruction4"		"---游戏中内鬼发送 \"/\" 开头的信息可以队内聊天"
 //IME: Input Method Editors
-"[english]challenge_traitors_game_instruction5"		"---Becareful of your IME status, or your secret message might be sent to the public."
+"[english]challenge_traitors_game_instruction5"		"---Be careful of your IME status, or your secret message might be sent to the public."
 "challenge_traitors_game_instruction5"		"---队内聊天时注意输入法状态，输错命令可是会自爆的。"
 
 "[english]challenge_traitors_traitor_list"		"TRAITOR name list:"
