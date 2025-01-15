@@ -45,7 +45,7 @@
 "challenge_traitors_game_instruction1"		"IAF队员获胜条件： [完成整个任务]"
 "[english]challenge_traitors_game_instruction2"		"TRAITOR team OBJECTIVE: [Kill IAF team] or [Mission Failed, but traitor alive]"
 "challenge_traitors_game_instruction2"		"内鬼获胜条件： [只有内鬼存活] 或 [任务失败，但内鬼存活]"
-"[english]challenge_traitors_game_instruction3"		"By taking a TRAITOR BOT in game, you are forced to join TRAITOR team. There is no way back from being a traitor."
+"[english]challenge_traitors_game_instruction3"		"By taking a TRAITOR BOT in game, you are forced to join the TRAITOR team. There is no way back from being a traitor."
 "challenge_traitors_game_instruction3"		"游戏中接管内鬼机器人将自动加入内鬼阵营。内鬼阵营不可反水。"
 "[english]challenge_traitors_game_instruction4"		"---A traitor can send secret messages beginning with \"/\" to teammates."
 "challenge_traitors_game_instruction4"		"---游戏中内鬼发送 \"/\" 开头的信息可以队内聊天"

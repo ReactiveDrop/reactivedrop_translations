@@ -30,7 +30,7 @@
 "challenge_traitors_not_enough_players"		"You need at least 3 players to play."
 "challenge_traitors_game_instruction1"		"IAF team OBJECTIVE: [Complete the mission]"
 "challenge_traitors_game_instruction2"		"TRAITOR team OBJECTIVE: [Kill IAF team] or [Mission Failed, but traitor alive]"
-"challenge_traitors_game_instruction3"		"By taking a TRAITOR BOT in game, you are forced to join TRAITOR team. There is no way back from being a traitor."
+"challenge_traitors_game_instruction3"		"By taking a TRAITOR BOT in game, you are forced to join the TRAITOR team. There is no way back from being a traitor."
 "challenge_traitors_game_instruction4"		"---A traitor can send secret messages beginning with \"/\" to teammates."
 //IME: Input Method Editors
 "challenge_traitors_game_instruction5"		"---Becareful of your IME status, or your secret message might be sent to the public."

@@ -45,7 +45,7 @@
 "challenge_traitors_game_instruction1"		"IAF-Team ZIEL: [Beendet die Mission]"
 "[english]challenge_traitors_game_instruction2"		"TRAITOR team OBJECTIVE: [Kill IAF team] or [Mission Failed, but traitor alive]"
 "challenge_traitors_game_instruction2"		"VERRÄTER-Team ZIEL: [IAF-Team töten] oder [Mission gescheitert, aber Verräter lebt]"
-"[english]challenge_traitors_game_instruction3"		"By taking a TRAITOR BOT in game, you are forced to join TRAITOR team. There is no way back from being a traitor."
+"[english]challenge_traitors_game_instruction3"		"By taking a TRAITOR BOT in game, you are forced to join the TRAITOR team. There is no way back from being a traitor."
 "challenge_traitors_game_instruction3"		"Wenn du einen VERRÄTER-Bot im Spiel übernimmst, bist du gezwungen, dem VERRÄTER-Team beizutreten. Es gibt keinen Weg zurück, wenn du ein Verräter bist."
 "[english]challenge_traitors_game_instruction4"		"---A traitor can send secret messages beginning with \"/\" to teammates."
 "challenge_traitors_game_instruction4"		"---Ein Verräter kann geheime Nachrichten, die mit \"/\" beginnen, an Teamkameraden schicken."
