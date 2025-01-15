@@ -21,7 +21,7 @@
 "[english]challenge_traitors_traitor_objective"		"You are a TRAITOR! Your team objective is to kill the IAF team with at least 1 traitor alive."
 "challenge_traitors_traitor_objective"		"你是 内鬼!  活下来并偷偷的杀光所有IAF队员"
 
-//This is used to notify the player who takes a traitor bot.
+//This is used to notify the player which takes a traitor bot.
 "[english]challenge_traitors_traitor_bot_taken_notify1"		"You have taken a TRAITOR bot! Your team objective is to kill the IAF team with at least 1 traitor alive."
 "challenge_traitors_traitor_bot_taken_notify1"		"你接管的是 内鬼!  偷偷的杀光所有IAF队员"
 //This is used to notify all traitors that their teammates have changed. 
