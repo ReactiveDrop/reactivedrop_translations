@@ -1,0 +1,59 @@
+﻿"lang"
+{
+"Language"		"indonesian"
+"Tokens"
+{
+		//This is challenge name and description in add-on info file and show up in challenge selection menu.
+		"[english]challenge_traitors_name"		"Traitors!"
+		"challenge_traitors_name"		"Traitors!"
+		"[english]challenge_traitors_description"		"Follow the instructions in game!"
+		"challenge_traitors_description"		"Follow the instructions in game!"
+
+		"[english]challenge_traitors_iaf_win"		"IAF team win!"
+		"challenge_traitors_iaf_win"		"IAF team win!"
+		"[english]challenge_traitors_traitor_win"		"TRAITOR team win!"
+		"challenge_traitors_traitor_win"		"TRAITOR team win!"
+		"[english]challenge_traitors_no_winner"		"All marines have died....There is no winner."
+		"challenge_traitors_no_winner"		"All marines have died....There is no winner."
+
+		"[english]challenge_traitors_iaf_objective"		"You are an IAF marine! Your team objective is to COMPLETE the mission."
+		"challenge_traitors_iaf_objective"		"You are an IAF marine! Your team objective is to COMPLETE the mission."
+		"[english]challenge_traitors_traitor_objective"		"You are a TRAITOR! Your team objective is to kill IAF team with at least 1 traitor alive."
+		"challenge_traitors_traitor_objective"		"You are a TRAITOR! Your team objective is to kill IAF team with at least 1 traitor alive."
+
+		//This is used to Notify the player who takes a traitor bot.
+		"[english]challenge_traitors_traitor_bot_taken_notify1"		"You have taken a TRAITOR bot! Your team objective is to kill IAF team with at least 1 traitor alive."
+		"challenge_traitors_traitor_bot_taken_notify1"		"You have taken a TRAITOR bot! Your team objective is to kill IAF team with at least 1 traitor alive."
+		//This is used to Notify all traitors that their teammates have changed. 
+		"[english]challenge_traitors_traitor_bot_taken_notify2"		"ATTENTION! A non-traitor player has taken a traitor bot, the traitor name list has changed!"
+		"challenge_traitors_traitor_bot_taken_notify2"		"ATTENTION! A non-traitor player has taken a traitor bot, the traitor name list has changed!"
+		 //This is used to Notify the player who takes a IAF bot.
+		"[english]challenge_traitors_iaf_bot_taken_notify1"		"You have taken an IAF bot! Your team objective is to COMPLETE the mission."
+		"challenge_traitors_iaf_bot_taken_notify1"		"You have taken an IAF bot! Your team objective is to COMPLETE the mission."
+		"[english]challenge_traitors_iaf_bot_taken_notify2"		"You are killed because you betray the team!"
+		"challenge_traitors_iaf_bot_taken_notify2"		"You are killed because you betray the team!"
+
+		//This is used to mark a message that only traitor team player can see. For example:
+		//If traitor Player A says something starting with a"/", like"/let's kill Player B first.". Only traitor team players will receive the message"[TRAITOR]Player A:  /let's kill Player B first.".
+		"[english]challenge_traitors_traitor_message_mark"		"[TRAITOR]"
+		"challenge_traitors_traitor_message_mark"		"[TRAITOR]"
+
+		"[english]challenge_traitors_not_enough_players"		"You need at least 3 players to play."
+		"challenge_traitors_not_enough_players"		"You need at least 3 players to play."
+		"[english]challenge_traitors_game_instruction1"		"IAF team OBJECTIVE: [Complete the mission]"
+		"challenge_traitors_game_instruction1"		"IAF team OBJECTIVE: [Complete the mission]"
+		"[english]challenge_traitors_game_instruction2"		"TRAITOR team OBJECTIVE: [Kill IAF team] or [Mission Failed, but traitor alive]"
+		"challenge_traitors_game_instruction2"		"TRAITOR team OBJECTIVE: [Kill IAF team] or [Mission Failed, but traitor alive]"
+		"[english]challenge_traitors_game_instruction3"		"By taking TRAITOR BOT in game, you are forced to join TRAITOR team. Being a traitor, there is no way back."
+		"challenge_traitors_game_instruction3"		"By taking TRAITOR BOT in game, you are forced to join TRAITOR team. Being a traitor, there is no way back."
+		"[english]challenge_traitors_game_instruction4"		"---A traitor can send secret messages beginning with \"/\" to teammates."
+		"challenge_traitors_game_instruction4"		"---A traitor can send secret messages beginning with \"/\" to teammates."
+		"[english]challenge_traitors_game_instruction5"		"---Becareful of your IME status, or your secret message might be sent to public."
+		"challenge_traitors_game_instruction5"		"---Becareful of your IME status, or your secret message might be sent to public."
+
+		"[english]challenge_traitors_traitor_list"		"TRAITOR name list:"
+		"challenge_traitors_traitor_list"		"TRAITOR name list:"
+		"[english]challenge_traitors_traitor_player_unavailable"		"Corrupted Records"
+		"challenge_traitors_traitor_player_unavailable"		"Corrupted Records"
+}
+}
