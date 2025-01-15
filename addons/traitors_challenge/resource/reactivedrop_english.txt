@@ -7,8 +7,8 @@
 "challenge_traitors_name"		"Traitors!"
 "challenge_traitors_description"		"Follow the instructions in game!"
 
-"challenge_traitors_iaf_win"		"IAF team win!"
-"challenge_traitors_traitor_win"		"TRAITOR team win!"
+"challenge_traitors_iaf_win"		"IAF team wins!"
+"challenge_traitors_traitor_win"		"TRAITOR team wins!"
 "challenge_traitors_no_winner"		"All marines have died....There is no winner."
 
 "challenge_traitors_iaf_objective"		"You are an IAF marine! Your team objective is to COMPLETE the mission."

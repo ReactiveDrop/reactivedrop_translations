@@ -9,9 +9,9 @@
 "[english]challenge_traitors_description"		"Follow the instructions in game!"
 "challenge_traitors_description"		"Befolge die Anweisungen im Spiel!"
 
-"[english]challenge_traitors_iaf_win"		"IAF team win!"
+"[english]challenge_traitors_iaf_win"		"IAF team wins!"
 "challenge_traitors_iaf_win"		"IAF-Team gewinnt!"
-"[english]challenge_traitors_traitor_win"		"TRAITOR team win!"
+"[english]challenge_traitors_traitor_win"		"TRAITOR team wins!"
 "challenge_traitors_traitor_win"		"VERRÄTER-Team gewinnt!"
 "[english]challenge_traitors_no_winner"		"All marines have died....There is no winner."
 "challenge_traitors_no_winner"		"Alle Soldaten sind gestorben....Es gibt keinen Gewinner."
