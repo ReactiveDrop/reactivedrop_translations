@@ -31,8 +31,8 @@
 		"[english]challenge_traitors_iaf_bot_taken_notify1"		"You have taken an IAF bot! Your team objective is to COMPLETE the mission."
 		"challenge_traitors_iaf_bot_taken_notify1"		"You have taken an IAF bot! Your team objective is to COMPLETE the mission."
 		 //This shows up to a traitor player who tries to take an IAF bot. Other players can't see it
-		"[english]challenge_traitors_iaf_bot_taken_notify2"		"You are killed because you betray the team!"
-		"challenge_traitors_iaf_bot_taken_notify2"		"You are killed because you betray the team!"
+		"[english]challenge_traitors_iaf_bot_taken_notify2"		"You were killed because you betrayed the team!"
+		"challenge_traitors_iaf_bot_taken_notify2"		"You were killed because you betrayed the team!"
 
 		//This is used to mark a message that only TRAITOR team players can see. For example:
 		//If a traitor <Player A> says something starting with a "/", like"/let's kill Player B first.". Only and all TRAITOR team players will receive the secret message"[TRAITOR]Player A:  /let's kill Player B first.".
@@ -45,8 +45,8 @@
 		"challenge_traitors_game_instruction1"		"IAF team OBJECTIVE: [Complete the mission]"
 		"[english]challenge_traitors_game_instruction2"		"TRAITOR team OBJECTIVE: [Kill IAF team] or [Mission Failed, but traitor alive]"
 		"challenge_traitors_game_instruction2"		"TRAITOR team OBJECTIVE: [Kill IAF team] or [Mission Failed, but traitor alive]"
-		"[english]challenge_traitors_game_instruction3"		"By taking TRAITOR BOT in game, you are forced to join TRAITOR team. Being a traitor, there is no way back."
-		"challenge_traitors_game_instruction3"		"By taking TRAITOR BOT in game, you are forced to join TRAITOR team. Being a traitor, there is no way back."
+		"[english]challenge_traitors_game_instruction3"		"By taking a TRAITOR BOT in game, you are forced to join TRAITOR team. There is no way back from being a traitor."
+		"challenge_traitors_game_instruction3"		"By taking a TRAITOR BOT in game, you are forced to join TRAITOR team. There is no way back from being a traitor."
 		"[english]challenge_traitors_game_instruction4"		"---A traitor can send secret messages beginning with \"/\" to teammates."
 		"challenge_traitors_game_instruction4"		"---A traitor can send secret messages beginning with \"/\" to teammates."
 		//IME: Input Method Editors
