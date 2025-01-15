@@ -3,7 +3,7 @@
 "Language"		"schinese"
 "Tokens"
 {
-//This is challenge name and description in add-on info file and show up in challenge selection menu.
+//These are challenge name and description in add-on info file and show up in challenge selection menu.
 "[english]challenge_traitors_name"		"Traitors!"
 "challenge_traitors_name"		"有内鬼！"
 "[english]challenge_traitors_description"		"Follow the instructions in game!"
@@ -21,20 +21,21 @@
 "[english]challenge_traitors_traitor_objective"		"You are a TRAITOR! Your team objective is to kill IAF team with at least 1 traitor alive."
 "challenge_traitors_traitor_objective"		"你是 内鬼!  活下来并偷偷的杀光所有IAF队员"
 
-//This is used to Notify the player who takes a traitor bot.
+//This is used to notify the player who takes a traitor bot.
 "[english]challenge_traitors_traitor_bot_taken_notify1"		"You have taken a TRAITOR bot! Your team objective is to kill IAF team with at least 1 traitor alive."
 "challenge_traitors_traitor_bot_taken_notify1"		"你接管的是 内鬼!  偷偷的杀光所有IAF队员"
-//This is used to Notify all traitors that their teammates have changed. 
+//This is used to notify all traitors that their teammates have changed. 
 "[english]challenge_traitors_traitor_bot_taken_notify2"		"ATTENTION! A non-traitor player has taken a traitor bot, the traitor name list has changed!"
 "challenge_traitors_traitor_bot_taken_notify2"		"注意，非内鬼玩家接管了内鬼士兵，内鬼名单有更新！"
- //This is used to Notify the player who takes a IAF bot.
+ //This is used to notify the player who takes an IAF bot.
 "[english]challenge_traitors_iaf_bot_taken_notify1"		"You have taken an IAF bot! Your team objective is to COMPLETE the mission."
 "challenge_traitors_iaf_bot_taken_notify1"		"你接管的是 IAF队员! 完成任务获胜"
+ //This shows up to a traitor player who tries to take an IAF bot. Other players can't see it
 "[english]challenge_traitors_iaf_bot_taken_notify2"		"You are killed because you betray the team!"
 "challenge_traitors_iaf_bot_taken_notify2"		"这局你没得选，下局再做个好人吧！"
 
-//This is used to mark a message that only traitor team player can see. For example:
-//If traitor Player A says something starting with a"/", like"/let's kill Player B first.". Only traitor team players will receive the message"[TRAITOR]Player A:  /let's kill Player B first.".
+//This is used to mark a message that only TRAITOR team players can see. For example:
+//If a traitor <Player A> says something starting with a "/", like"/let's kill Player B first.". Only and all TRAITOR team players will receive the secret message"[TRAITOR]Player A:  /let's kill Player B first.".
 "[english]challenge_traitors_traitor_message_mark"		"[TRAITOR]"
 "challenge_traitors_traitor_message_mark"		"[队伍]"
 
@@ -48,7 +49,8 @@
 "challenge_traitors_game_instruction3"		"游戏中接管内鬼机器人将自动加入内鬼阵营。内鬼阵营不可反水。"
 "[english]challenge_traitors_game_instruction4"		"---A traitor can send secret messages beginning with \"/\" to teammates."
 "challenge_traitors_game_instruction4"		"---游戏中内鬼发送 \"/\" 开头的信息可以队内聊天"
-"[english]challenge_traitors_game_instruction5"		"---Becareful of your IME status, or your secret message might be sent to public."
+//IME: Input Method Editors
+"[english]challenge_traitors_game_instruction5"		"---Becareful of your IME status, or your secret message might be sent to the public."
 "challenge_traitors_game_instruction5"		"---队内聊天时注意输入法状态，输错命令可是会自爆的。"
 
 "[english]challenge_traitors_traitor_list"		"TRAITOR name list:"
