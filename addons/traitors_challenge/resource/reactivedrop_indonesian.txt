@@ -50,8 +50,8 @@
 		"[english]challenge_traitors_game_instruction4"		"---A traitor can send secret messages beginning with \"/\" to teammates."
 		"challenge_traitors_game_instruction4"		"---A traitor can send secret messages beginning with \"/\" to teammates."
 		//IME: Input Method Editors
-		"[english]challenge_traitors_game_instruction5"		"---Be careful of your IME status, or your secret message might be sent to the public."
-		"challenge_traitors_game_instruction5"		"---Be careful of your IME status, or your secret message might be sent to the public."
+		"[english]challenge_traitors_game_instruction5"		"---Keep an eye on your IME status, or your secret message might be sent to the public."
+		"challenge_traitors_game_instruction5"		"---Keep an eye on your IME status, or your secret message might be sent to the public."
 
 		"[english]challenge_traitors_traitor_list"		"TRAITOR name list:"
 		"challenge_traitors_traitor_list"		"TRAITOR name list:"
