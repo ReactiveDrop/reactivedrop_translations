@@ -5582,7 +5582,7 @@
 
 
 "[english]wolfe.NoAmmo1"		"<clr:154,205,50><B>Wolfe:<B> Anyone got spare?"
-"wolfe.NoAmmo1"		"<clr:154,205,50><B>乌尔夫：<B>有人有备用弹夹吗？"
+"wolfe.NoAmmo1"		"<clr:154,205,50><B>乌尔夫：<B>有人有备用弹匣吗？"
 
 
 "[english]wolfe.Medic0"		"<clr:154,205,50><B>Wolfe:<B> Medic!"
