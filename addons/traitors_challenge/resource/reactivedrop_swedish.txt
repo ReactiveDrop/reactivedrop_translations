@@ -30,7 +30,7 @@
  //This is used to notify the player who takes an IAF bot.
 "[english]challenge_traitors_iaf_bot_taken_notify1"		"You have taken an IAF bot! Your team objective is to COMPLETE the mission."
 "challenge_traitors_iaf_bot_taken_notify1"		"Du har tagit en IAF-bot! Ditt lagmål är att SLUTFÖRA uppdraget."
-//This shows up to a traitor player who tries to take an IAF bot. Other players can't see it
+ //This shows up to a traitor player who tries to take an IAF bot. Other players can't see it
 "[english]challenge_traitors_iaf_bot_taken_notify2"		"You are killed because you betray the team!"
 "challenge_traitors_iaf_bot_taken_notify2"		"Du är dödad för att du förrådde laget!"
 
