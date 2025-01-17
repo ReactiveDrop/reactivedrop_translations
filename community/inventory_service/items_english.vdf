@@ -334,5 +334,7 @@
 "item_donation_thescientist_description"		"Represents a donation to TheScientist, contributor to the Portuguese translation."
 "item_donation_crazymanbos_name"		"Donor: Crazymanbos"
 "item_donation_crazymanbos_description"		"Represents a donation to Crazymanbos, contributor to the Swedish translation."
+"item_donation_moddedmarionette_name"		"Donor: ModdedMarionette"
+"item_donation_moddedmarionette_description"		"Represents a donation to ModdedMarionette, programmer and contributor to the Simplified Chinese translation."
 }
 }

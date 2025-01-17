@@ -608,5 +608,9 @@
 "item_donation_crazymanbos_name"		"Donante: Crazymanbos"
 "[english]item_donation_crazymanbos_description"		"Represents a donation to Crazymanbos, contributor to the Swedish translation."
 "item_donation_crazymanbos_description"		"Representa una donación a Crazymanbos, colaborador de la traducción al sueco."
+		"[english]item_donation_moddedmarionette_name"		"Donor: ModdedMarionette"
+		"item_donation_moddedmarionette_name"		"Donor: ModdedMarionette"
+		"[english]item_donation_moddedmarionette_description"		"Represents a donation to ModdedMarionette, programmer and contributor to the Simplified Chinese translation."
+		"item_donation_moddedmarionette_description"		"Represents a donation to ModdedMarionette, programmer and contributor to the Simplified Chinese translation."
 }
 }

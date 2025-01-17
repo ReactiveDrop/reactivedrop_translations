@@ -608,5 +608,9 @@
 "item_donation_crazymanbos_name"		"Спонсорство: Crazymanbos"
 "[english]item_donation_crazymanbos_description"		"Represents a donation to Crazymanbos, contributor to the Swedish translation."
 "item_donation_crazymanbos_description"		"Представляет собой пожертвование Crazymanbos, за помощь с переводом на шведский."
+		"[english]item_donation_moddedmarionette_name"		"Donor: ModdedMarionette"
+		"item_donation_moddedmarionette_name"		"Donor: ModdedMarionette"
+		"[english]item_donation_moddedmarionette_description"		"Represents a donation to ModdedMarionette, programmer and contributor to the Simplified Chinese translation."
+		"item_donation_moddedmarionette_description"		"Represents a donation to ModdedMarionette, programmer and contributor to the Simplified Chinese translation."
 }
 }
