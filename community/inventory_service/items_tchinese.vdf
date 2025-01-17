@@ -608,9 +608,9 @@
 "item_donation_crazymanbos_name"		"捐贈者: Crazymanbos"
 "[english]item_donation_crazymanbos_description"		"Represents a donation to Crazymanbos, contributor to the Swedish translation."
 "item_donation_crazymanbos_description"		"捐贈給Crazymanbos的證明，瑞典文翻譯家。"
-		"[english]item_donation_moddedmarionette_name"		"Donor: ModdedMarionette"
-		"item_donation_moddedmarionette_name"		"Donor: ModdedMarionette"
-		"[english]item_donation_moddedmarionette_description"		"Represents a donation to ModdedMarionette, programmer and contributor to the Simplified Chinese translation."
-		"item_donation_moddedmarionette_description"		"Represents a donation to ModdedMarionette, programmer and contributor to the Simplified Chinese translation."
+"[english]item_donation_moddedmarionette_name"		"Donor: ModdedMarionette"
+"item_donation_moddedmarionette_name"		"捐贈者: ModdedMarionette"
+"[english]item_donation_moddedmarionette_description"		"Represents a donation to ModdedMarionette, programmer and contributor to the Simplified Chinese translation."
+"item_donation_moddedmarionette_description"		"捐贈給ModdedMarionette的證明,程式設計師和簡體中文翻譯家."
 }
 }
