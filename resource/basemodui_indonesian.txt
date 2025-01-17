@@ -791,7 +791,7 @@
 "[english]L4D360UI_InviteUI_inviteparty"		"Invite Xbox LIVE Party"
 "L4D360UI_InviteUI_inviteparty"		"Undang Tim Xbox LIVE"
 "[english]L4D360UI_InviteUI_inviteparty_Tip"		"Send an invitation to your Xbox LIVE party."
-		"L4D360UI_InviteUI_inviteparty_Tip"		"Kirim undangan ke tim Xbox LIVE-mu."
+"L4D360UI_InviteUI_inviteparty_Tip"		"Kirim undangan ke tim Xbox LIVE-mu."
 "[english]L4D360UI_InviteUI_inviteparty_Tip_Disabled"		""
 "L4D360UI_InviteUI_inviteparty_Tip_Disabled"		""
 
