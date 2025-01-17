@@ -481,7 +481,7 @@
 		// follow the instructions at https://developer.reactivedrop.com/donation-items.html
 
 		"[english]item_donation_tft_name"		"Donor: Tears for Tarnor"
-		"item_donation_tft_name"		"Donor: Tears for Tarnor"
+		"item_donation_tft_name"		"Luovuttaja: Tears for Tarnor"
 		"[english]item_donation_tft_description"		"Represents a donation to the author of the Tears for Tarnor campaign, Michael 'Ezekel' Abraham."
 		"item_donation_tft_description"		"Represents a donation to the author of the Tears for Tarnor campaign, Michael 'Ezekel' Abraham."
 		"[english]item_donation_paranoia_name"		"Donor: Paranoia"
@@ -512,8 +512,8 @@
 "item_donation_nh_name"		"Luovuttaja: Nam Humanum"
 		"[english]item_donation_nh_description"		"Represents a donation to the authors of the Nam Humanum campaign, Guillaume 'Stral' Houard and Thomas 'Synmachus' Lesteven."
 		"item_donation_nh_description"		"Represents a donation to the authors of the Nam Humanum campaign, Guillaume 'Stral' Houard and Thomas 'Synmachus' Lesteven."
-		"[english]item_donation_acc32_name"		"Donor: Accident 32"
-		"item_donation_acc32_name"		"Donor: Accident 32"
+"[english]item_donation_acc32_name"		"Donor: Accident 32"
+"item_donation_acc32_name"		"Luovuttaja: Accident 32"
 		"[english]item_donation_acc32_description"		"Represents a donation to the author of the Accident 32 campaign, jhheight."
 		"item_donation_acc32_description"		"Represents a donation to the author of the Accident 32 campaign, jhheight."
 "[english]item_donation_ada_name"		"Donor: Adanaxis"
@@ -608,8 +608,8 @@
 "item_donation_crazymanbos_name"		"Luovuttaja: Crazymanbos"
 		"[english]item_donation_crazymanbos_description"		"Represents a donation to Crazymanbos, contributor to the Swedish translation."
 		"item_donation_crazymanbos_description"		"Represents a donation to Crazymanbos, contributor to the Swedish translation."
-		"[english]item_donation_moddedmarionette_name"		"Donor: ModdedMarionette"
-		"item_donation_moddedmarionette_name"		"Donor: ModdedMarionette"
+"[english]item_donation_moddedmarionette_name"		"Donor: ModdedMarionette"
+"item_donation_moddedmarionette_name"		"Luovuttaja: ModdedMarionette"
 		"[english]item_donation_moddedmarionette_description"		"Represents a donation to ModdedMarionette, programmer and contributor to the Simplified Chinese translation."
 		"item_donation_moddedmarionette_description"		"Represents a donation to ModdedMarionette, programmer and contributor to the Simplified Chinese translation."
 }
