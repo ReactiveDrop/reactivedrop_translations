@@ -23,7 +23,7 @@
 
 //This is used to notify the player who takes a traitor bot.
 "[english]challenge_traitors_traitor_bot_taken_notify1"		"You have taken a TRAITOR bot! Your team objective is to kill IAF team with at least 1 traitor alive."
-"challenge_traitors_traitor_bot_taken_notify1"		"Du har tagit en FÖRRÄDAR bot! Ditt lagmål är att döda IAF laget med åtminstone 1 förrädare levande."
+"challenge_traitors_traitor_bot_taken_notify1"		"Du har tagit en förrädarbot! Ditt lagmål är att döda IAF laget med åtminstone 1 förrädare levande."
 //This is used to notify all traitors that their teammates have changed. 
 "[english]challenge_traitors_traitor_bot_taken_notify2"		"ATTENTION! A non-traitor player has taken a traitor bot, the traitor name list has changed!"
 "challenge_traitors_traitor_bot_taken_notify2"		"UPPMÄRKSAMHET! En icke-förrädarspelare har tagit en förrädarbot, förrädar namnlistan har ändrat!"
@@ -46,7 +46,7 @@
 "[english]challenge_traitors_game_instruction2"		"TRAITOR team OBJECTIVE: [Kill IAF team] or [Mission Failed, but traitor alive]"
 "challenge_traitors_game_instruction2"		"FÖRRÄDAR LAGMÅL: [Döda IAF lag] eller [Uppdraget misslyckades, men förrädare vid liv]"
 "[english]challenge_traitors_game_instruction3"		"By taking TRAITOR BOT in game, you are forced to join TRAITOR team. Being a traitor, there is no way back."
-"challenge_traitors_game_instruction3"		"Genom att ta FÖRRÄDAR-BOT i spelet tvingas du gå med i FÖRRÄDARE-laget. Att vara en förrädare finns det ingen väg tillbaka."
+"challenge_traitors_game_instruction3"		"Genom att ta förrädarbot i spelet tvingas du gå med i FÖRRÄDARE-laget. Att vara en förrädare finns det ingen väg tillbaka."
 "[english]challenge_traitors_game_instruction4"		"---A traitor can send secret messages beginning with \"/\" to teammates."
 "challenge_traitors_game_instruction4"		"---En förrädare kan skicka hemliga meddelanden som börjar med \"/\" till lagkamrater."
 //IME: Input Method Editors
