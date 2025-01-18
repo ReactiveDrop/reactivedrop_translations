@@ -3,59 +3,59 @@
 "Language"		"japanese"
 "Tokens"
 {
-		//These are challenge name and description in add-on info file and show up in challenge selection menu.
-		"[english]challenge_traitors_name"		"Traitors!"
-		"challenge_traitors_name"		"Traitors!"
-		"[english]challenge_traitors_description"		"Follow the instructions in game!"
-		"challenge_traitors_description"		"Follow the instructions in game!"
+//These are challenge name and description in add-on info file and show up in challenge selection menu.
+"[english]challenge_traitors_name"		"Traitors!"
+"challenge_traitors_name"		"裏切者だ！"
+"[english]challenge_traitors_description"		"Follow the instructions in game!"
+"challenge_traitors_description"		"ゲーム中の指示に従ってください！"
 
-		"[english]challenge_traitors_iaf_win"		"IAF team wins!"
-		"challenge_traitors_iaf_win"		"IAF team wins!"
-		"[english]challenge_traitors_traitor_win"		"TRAITOR team wins!"
-		"challenge_traitors_traitor_win"		"TRAITOR team wins!"
-		"[english]challenge_traitors_no_winner"		"All marines have died....There is no winner."
-		"challenge_traitors_no_winner"		"All marines have died....There is no winner."
+"[english]challenge_traitors_iaf_win"		"IAF team wins!"
+"challenge_traitors_iaf_win"		"IAFチームの勝利！"
+"[english]challenge_traitors_traitor_win"		"TRAITOR team wins!"
+"challenge_traitors_traitor_win"		"裏切者チームの勝利！"
+"[english]challenge_traitors_no_winner"		"All marines have died....There is no winner."
+"challenge_traitors_no_winner"		"全員死んでしまった....勝者無し。"
 
-		"[english]challenge_traitors_iaf_objective"		"You are an IAF marine! Your team objective is to COMPLETE the mission."
-		"challenge_traitors_iaf_objective"		"You are an IAF marine! Your team objective is to COMPLETE the mission."
-		"[english]challenge_traitors_traitor_objective"		"You are a TRAITOR! Your team objective is to kill the IAF team with at least 1 traitor alive."
-		"challenge_traitors_traitor_objective"		"You are a TRAITOR! Your team objective is to kill the IAF team with at least 1 traitor alive."
+"[english]challenge_traitors_iaf_objective"		"You are an IAF marine! Your team objective is to COMPLETE the mission."
+"challenge_traitors_iaf_objective"		"あなたはIAFの海兵隊員です！あなたのチームの目的はミッションを完了することです。"
+"[english]challenge_traitors_traitor_objective"		"You are a TRAITOR! Your team objective is to kill the IAF team with at least 1 traitor alive."
+"challenge_traitors_traitor_objective"		"あなたは裏切者です！あなたのチームの目的は裏切者チームを全滅させずにIAFチームを全滅させることです。"
 
-		//This is used to notify the player which takes a traitor bot.
-		"[english]challenge_traitors_traitor_bot_taken_notify1"		"You have taken a TRAITOR bot! Your team objective is to kill the IAF team with at least 1 traitor alive."
-		"challenge_traitors_traitor_bot_taken_notify1"		"You have taken a TRAITOR bot! Your team objective is to kill the IAF team with at least 1 traitor alive."
-		//This is used to notify all traitors that their teammates have changed.
-		"[english]challenge_traitors_traitor_bot_taken_notify2"		"ATTENTION! A non-traitor player has taken a traitor bot, the traitor name list has changed!"
-		"challenge_traitors_traitor_bot_taken_notify2"		"ATTENTION! A non-traitor player has taken a traitor bot, the traitor name list has changed!"
-		//This is used to notify the player which takes an IAF bot.
-		"[english]challenge_traitors_iaf_bot_taken_notify1"		"You have taken an IAF bot! Your team objective is to COMPLETE the mission."
-		"challenge_traitors_iaf_bot_taken_notify1"		"You have taken an IAF bot! Your team objective is to COMPLETE the mission."
-		//This shows up to a traitor player which tries to take an IAF bot. Other players can't see it
-		"[english]challenge_traitors_iaf_bot_taken_notify2"		"You were killed because you betrayed your team!"
-		"challenge_traitors_iaf_bot_taken_notify2"		"You were killed because you betrayed your team!"
+//This is used to notify the player which takes a traitor bot.
+"[english]challenge_traitors_traitor_bot_taken_notify1"		"You have taken a TRAITOR bot! Your team objective is to kill the IAF team with at least 1 traitor alive."
+"challenge_traitors_traitor_bot_taken_notify1"		"あなたは裏切者隊員botの操作権を得ました！あなたのチームの目的は裏切者チームを全滅させずにIAFチームを全滅させることです。"
+//This is used to notify all traitors that their teammates have changed.
+"[english]challenge_traitors_traitor_bot_taken_notify2"		"ATTENTION! A non-traitor player has taken a traitor bot, the traitor name list has changed!"
+"challenge_traitors_traitor_bot_taken_notify2"		"注意！！裏切者でないプレイヤーが裏切者隊員botの操作権を得ました。裏切者名簿が変更されました！"
+//This is used to notify the player which takes an IAF bot.
+"[english]challenge_traitors_iaf_bot_taken_notify1"		"You have taken an IAF bot! Your team objective is to COMPLETE the mission."
+"challenge_traitors_iaf_bot_taken_notify1"		"あなたはIAF隊員botの操作権を得ました！あなたのチームの目的はミッションを完了することです。"
+//This shows up to a traitor player which tries to take an IAF bot. Other players can't see it
+"[english]challenge_traitors_iaf_bot_taken_notify2"		"You were killed because you betrayed your team!"
+"challenge_traitors_iaf_bot_taken_notify2"		"裏切者チームを裏切ることは許されません！"
 
-		//This is used to mark a message that only TRAITOR team players can see. For example:
-		//If a traitor <Player A> says something starting with a "/", like"/let's kill Player B first.". Only and all TRAITOR team players will receive the secret message"[TRAITOR]Player A:  /let's kill Player B first.".
-		"[english]challenge_traitors_traitor_message_mark"		"[TRAITOR]"
-		"challenge_traitors_traitor_message_mark"		"[TRAITOR]"
+//This is used to mark a message that only TRAITOR team players can see. For example:
+//If a traitor <Player A> says something starting with a "/", like"/let's kill Player B first.". Only and all TRAITOR team players will receive the secret message"[TRAITOR]Player A:  /let's kill Player B first.".
+"[english]challenge_traitors_traitor_message_mark"		"[TRAITOR]"
+"challenge_traitors_traitor_message_mark"		"[裏切者]"
 
-		"[english]challenge_traitors_not_enough_players"		"You need at least 3 players to play."
-		"challenge_traitors_not_enough_players"		"You need at least 3 players to play."
-		"[english]challenge_traitors_game_instruction1"		"IAF team OBJECTIVE: [Complete the mission]"
-		"challenge_traitors_game_instruction1"		"IAF team OBJECTIVE: [Complete the mission]"
-		"[english]challenge_traitors_game_instruction2"		"TRAITOR team OBJECTIVE: [Kill IAF team] or [Mission Failed, but traitor alive]"
-		"challenge_traitors_game_instruction2"		"TRAITOR team OBJECTIVE: [Kill IAF team] or [Mission Failed, but traitor alive]"
-		"[english]challenge_traitors_game_instruction3"		"By taking a TRAITOR BOT in game, you are forced to join the TRAITOR team. There is no way back from being a traitor."
-		"challenge_traitors_game_instruction3"		"By taking a TRAITOR BOT in game, you are forced to join the TRAITOR team. There is no way back from being a traitor."
-		"[english]challenge_traitors_game_instruction4"		"---A traitor can send secret messages beginning with \"/\" to teammates."
-		"challenge_traitors_game_instruction4"		"---A traitor can send secret messages beginning with \"/\" to teammates."
-		//IME: Input Method Editors
-		"[english]challenge_traitors_game_instruction5"		"---Keep an eye on your IME status, or your secret message might be sent to the public."
-		"challenge_traitors_game_instruction5"		"---Keep an eye on your IME status, or your secret message might be sent to the public."
+"[english]challenge_traitors_not_enough_players"		"You need at least 3 players to play."
+"challenge_traitors_not_enough_players"		"最低3人のプレイヤーが必要です。"
+"[english]challenge_traitors_game_instruction1"		"IAF team OBJECTIVE: [Complete the mission]"
+"challenge_traitors_game_instruction1"		"IAFチームの目標: [ミッションを完了せよ]"
+"[english]challenge_traitors_game_instruction2"		"TRAITOR team OBJECTIVE: [Kill IAF team] or [Mission Failed, but traitor alive]"
+"challenge_traitors_game_instruction2"		"裏切者チームの目標: [IAFチームの全滅]か[ミッションを失敗させつつ裏切者は生き残る]"
+"[english]challenge_traitors_game_instruction3"		"By taking a TRAITOR BOT in game, you are forced to join the TRAITOR team. There is no way back from being a traitor."
+"challenge_traitors_game_instruction3"		"裏切者BOTの操作権を得た場合、強制的に裏切者チームに配属されます。一度裏切者になったら変更はできません。"
+"[english]challenge_traitors_game_instruction4"		"---A traitor can send secret messages beginning with \"/\" to teammates."
+"challenge_traitors_game_instruction4"		"---裏切者は「/」で始まるメッセージを送ると裏切者チーム内で秘密の通信ができます。"
+//IME: Input Method Editors
+"[english]challenge_traitors_game_instruction5"		"---Keep an eye on your IME status, or your secret message might be sent to the public."
+"challenge_traitors_game_instruction5"		"---IME入力状態に注意してください。秘密の通信が見えてしまう可能性があります。"
 
-		"[english]challenge_traitors_traitor_list"		"TRAITOR name list:"
-		"challenge_traitors_traitor_list"		"TRAITOR name list:"
-		"[english]challenge_traitors_traitor_player_unavailable"		"Corrupted Records"
-		"challenge_traitors_traitor_player_unavailable"		"Corrupted Records"
+"[english]challenge_traitors_traitor_list"		"TRAITOR name list:"
+"challenge_traitors_traitor_list"		"裏切者の名簿:"
+"[english]challenge_traitors_traitor_player_unavailable"		"Corrupted Records"
+"challenge_traitors_traitor_player_unavailable"		"破損データ"
 }
 }
