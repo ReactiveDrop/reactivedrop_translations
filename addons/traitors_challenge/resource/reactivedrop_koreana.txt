@@ -26,7 +26,7 @@
 "challenge_traitors_traitor_bot_taken_notify1"		"배신자 봇을 데려왔습니다! 적어도 1명의 배신자가 생존한 상태로 모든 IAF 팀을 죽여야 합니다."
 //This is used to notify all traitors that their teammates have changed. 
 "[english]challenge_traitors_traitor_bot_taken_notify2"		"ATTENTION! A non-traitor player has taken a traitor bot, the traitor name list has changed!"
-"challenge_traitors_traitor_bot_taken_notify2"		"경고! 배신자가 아닌 플레이어가 배신자 봇을 데려갔고 배신자 명단이 변경되었습니다!"
+"challenge_traitors_traitor_bot_taken_notify2"		"경고! 배신자가 아닌 플레이어가 배신자 봇을 데려감으로써 배신자 명단이 변경되었습니다!"
  //This is used to notify the player who takes an IAF bot.
 "[english]challenge_traitors_iaf_bot_taken_notify1"		"You have taken an IAF bot! Your team objective is to COMPLETE the mission."
 "challenge_traitors_iaf_bot_taken_notify1"		"IAF 팀 봇을 데려왔습니다! 팀과 함께 임무를 완수하여 승리하십시오."
@@ -46,7 +46,7 @@
 "[english]challenge_traitors_game_instruction2"		"TRAITOR team OBJECTIVE: [Kill IAF team] or [Mission Failed, but traitor alive]"
 "challenge_traitors_game_instruction2"		"배신자 팀 목표: [모든 IAF 팀 살해] or [배신자 팀이 생존한 상태로 미션 실패]"
 "[english]challenge_traitors_game_instruction3"		"By taking TRAITOR BOT in game, you are forced to join TRAITOR team. Being a traitor, there is no way back."
-"challenge_traitors_game_instruction3"		"배신자 봇을 사용하면 배신자 팀에 참여해야 합니다. 배신자가 되면 돌아갈 방법이 없습니다."
+"challenge_traitors_game_instruction3"		"배신자 봇을 사용하려면 배신자 팀에 참여해야 합니다. 배신자가 되면 되돌아 갈 수 없습니다."
 "[english]challenge_traitors_game_instruction4"		"---A traitor can send secret messages beginning with \"/\" to teammates."
 "challenge_traitors_game_instruction4"		"---배신자는 같은 배신자 팀원에게 \"/\"로 시작하는 비밀 메시지를 보낼 수 있습니다."
 //IME: Input Method Editors
