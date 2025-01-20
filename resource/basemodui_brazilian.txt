@@ -2684,7 +2684,7 @@
 "[english]SessionError_SteamServersDisconnected"		"The connection to Steam was lost."
 "SessionError_SteamServersDisconnected"		"A conexão com o Steam foi perdida"
 "[english]SessionError_ClientDLL"		"This lobby is running a different version of Alien Swarm: Reactive Drop.\nIf you recently installed an update, it is possible that the host of this lobby has not updated yet."
-"SessionError_ClientDLL"		"Este lobby está rodando uma versão diferente de Alien Swarm: Reactive Drop.\nSe você instalou uma atualização recentemente, é possível que o dono da sala não tenha atualizado ainda seu jogo."
+"SessionError_ClientDLL"		"Esta sala está rodando uma versão diferente de Alien Swarm: Reactive Drop.\nSe você instalou uma atualização recentemente, é possível que o dono da sala não tenha atualizado ainda seu jogo."
 
 "[english]InviteError_Unknown"		"Failed to accept game invite.\nPlease try again."
 "InviteError_Unknown"		"Falha ao aceitar o convite do jogo.\nPor favor tente novamente."
