@@ -462,7 +462,7 @@
 "[english]L4D360UI_GameSettings_Solo"		"OFFLINE PRACTICE"
 "L4D360UI_GameSettings_Solo"		"DEFINIÇÕES DE JOGO: UM JOGADOR"
 "[english]L4D360UI_GameSettings_OfflineCoop"		"OFFLINE CO-OP"
-"L4D360UI_GameSettings_OfflineCoop"		"MODO DE equipe OFFLINE"
+"L4D360UI_GameSettings_OfflineCoop"		"MODO DE EQUIPE OFFLINE"
 "[english]L4D360UI_GameSettings_Commentary"		"DEVELOPER COMMENTARY"
 "L4D360UI_GameSettings_Commentary"		"CONFIGURAÇÕES DO JOGO: COMENTÁRIO DOS PROGRAMADORES"
 "[english]L4D360UI_GameSettings_Invite"		"Game Settings: PRIVATE GAME"
@@ -607,7 +607,7 @@
 "[english]L4D360UI_MainMenu_PlaySolo"		"SINGLE PLAYER"
 "L4D360UI_MainMenu_PlaySolo"		"UM JOGADOR"
 "[english]L4D360UI_MainMenu_PlaySplitscreen"		"PLAY OFFLINE CO-OP"
-"L4D360UI_MainMenu_PlaySplitscreen"		"JOGAR EM MODO DE equipe OFFLINE"
+"L4D360UI_MainMenu_PlaySplitscreen"		"JOGAR EM MODO DE EQUIPE OFFLINE"
 
 "[english]L4D360UI_MainMenu_PlayTeamVersus"		"Play Team Versus"
 "L4D360UI_MainMenu_PlayTeamVersus"		"Jogar Versus em equipe"
@@ -1530,7 +1530,7 @@
 "[english]L4D360UI_ModeCaps_offline_SP"		"SINGLE PLAYER"
 "L4D360UI_ModeCaps_offline_SP"		"UM JOGADOR"
 "[english]L4D360UI_ModeCaps_offline_SS"		"OFFLINE CO-OP"
-"L4D360UI_ModeCaps_offline_SS"		"MODO DE equipe OFFLINE"
+"L4D360UI_ModeCaps_offline_SS"		"MODO DE EQUIPE OFFLINE"
 
 "[english]L4D360UI_FoudGames_CreateNew_campaign"		"CREATE LOBBY"
 "L4D360UI_FoudGames_CreateNew_campaign"		"CRIAR LOBBY"
