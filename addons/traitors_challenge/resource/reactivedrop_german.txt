@@ -27,10 +27,10 @@
 //This is used to notify all traitors that their teammates have changed. 
 "[english]challenge_traitors_traitor_bot_taken_notify2"		"ATTENTION! A non-traitor player has taken a traitor bot, the traitor name list has changed!"
 "challenge_traitors_traitor_bot_taken_notify2"		"ACHTUNG! Ein Spieler, der kein Verräter ist, hat einen Verräter-Bot übernommen, die Liste der Verräternamen hat sich geändert!"
-//This is used to notify the player who takes an IAF bot.
+//This is used to notify the player which takes an IAF bot.
 "[english]challenge_traitors_iaf_bot_taken_notify1"		"You have taken an IAF bot! Your team objective is to COMPLETE the mission."
 "challenge_traitors_iaf_bot_taken_notify1"		"Du hast einen IAF-Bot übernommen! Dein Teamziel ist es, die Mission zu VOLLENDEN."
-//This shows up to a traitor player who tries to take an IAF bot. Other players can't see it
+//This shows up to a traitor player which tries to take an IAF bot. Other players can't see it
 "[english]challenge_traitors_iaf_bot_taken_notify2"		"You were killed because you betrayed your team!"
 "challenge_traitors_iaf_bot_taken_notify2"		"Du wurdest getötet, weil du das Team verraten hast!"
 
