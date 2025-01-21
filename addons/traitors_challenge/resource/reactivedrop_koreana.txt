@@ -9,29 +9,29 @@
 "[english]challenge_traitors_description"		"Follow the instructions in game!"
 "challenge_traitors_description"		"규칙에 따라 게임하세요!"
 
-"[english]challenge_traitors_iaf_win"		"IAF team win!"
+"[english]challenge_traitors_iaf_win"		"IAF team wins!"
 "challenge_traitors_iaf_win"		"IAF 팀 승리!"
-"[english]challenge_traitors_traitor_win"		"TRAITOR team win!"
+"[english]challenge_traitors_traitor_win"		"TRAITOR team wins!"
 "challenge_traitors_traitor_win"		"배신자 팀 승리!"
 "[english]challenge_traitors_no_winner"		"All marines have died....There is no winner."
 "challenge_traitors_no_winner"		"모든 해병이 사망하였습니다....승자는 없습니다."
 
 "[english]challenge_traitors_iaf_objective"		"You are an IAF marine! Your team objective is to COMPLETE the mission."
 "challenge_traitors_iaf_objective"		"당신은 IAF 해병입니다! 팀과 함께 임무를 완수하여 승리하십시오."
-"[english]challenge_traitors_traitor_objective"		"You are a TRAITOR! Your team objective is to kill IAF team with at least 1 traitor alive."
+"[english]challenge_traitors_traitor_objective"		"You are a TRAITOR! Your team objective is to kill the IAF team with at least 1 traitor alive."
 "challenge_traitors_traitor_objective"		"당신은 배신자입니다! 최소 한 명의 배신자가 생존한 상태로 모든 IAF 해병들을 살해하면 승리합니다."
 
-//This is used to notify the player who takes a traitor bot.
-"[english]challenge_traitors_traitor_bot_taken_notify1"		"You have taken a TRAITOR bot! Your team objective is to kill IAF team with at least 1 traitor alive."
+//This is used to notify the player which takes a traitor bot.
+"[english]challenge_traitors_traitor_bot_taken_notify1"		"You have taken a TRAITOR bot! Your team objective is to kill the IAF team with at least 1 traitor alive."
 "challenge_traitors_traitor_bot_taken_notify1"		"배신자 봇을 데려왔습니다! 적어도 1명의 배신자가 생존한 상태로 모든 IAF 팀을 죽여야 합니다."
 //This is used to notify all traitors that their teammates have changed. 
 "[english]challenge_traitors_traitor_bot_taken_notify2"		"ATTENTION! A non-traitor player has taken a traitor bot, the traitor name list has changed!"
 "challenge_traitors_traitor_bot_taken_notify2"		"경고! 배신자가 아닌 플레이어가 배신자 봇을 데려감으로써 배신자 명단이 변경되었습니다!"
- //This is used to notify the player who takes an IAF bot.
+//This is used to notify the player who takes an IAF bot.
 "[english]challenge_traitors_iaf_bot_taken_notify1"		"You have taken an IAF bot! Your team objective is to COMPLETE the mission."
 "challenge_traitors_iaf_bot_taken_notify1"		"IAF 팀 봇을 데려왔습니다! 팀과 함께 임무를 완수하여 승리하십시오."
- //This shows up to a traitor player who tries to take an IAF bot. Other players can't see it
-"[english]challenge_traitors_iaf_bot_taken_notify2"		"You are killed because you betray the team!"
+//This shows up to a traitor player who tries to take an IAF bot. Other players can't see it
+"[english]challenge_traitors_iaf_bot_taken_notify2"		"You were killed because you betrayed your team!"
 "challenge_traitors_iaf_bot_taken_notify2"		"팀을 배신하고 살해하였습니다!"
 
 //This is used to mark a message that only TRAITOR team players can see. For example:
@@ -45,12 +45,12 @@
 "challenge_traitors_game_instruction1"		"IAF 팀 목표: [임무 완수]"
 "[english]challenge_traitors_game_instruction2"		"TRAITOR team OBJECTIVE: [Kill IAF team] or [Mission Failed, but traitor alive]"
 "challenge_traitors_game_instruction2"		"배신자 팀 목표: [모든 IAF 팀 살해] or [배신자 팀이 생존한 상태로 미션 실패]"
-"[english]challenge_traitors_game_instruction3"		"By taking TRAITOR BOT in game, you are forced to join TRAITOR team. Being a traitor, there is no way back."
+"[english]challenge_traitors_game_instruction3"		"By taking a TRAITOR BOT in game, you are forced to join the TRAITOR team. There is no way back from being a traitor."
 "challenge_traitors_game_instruction3"		"배신자 봇을 사용하려면 배신자 팀에 참여해야 합니다. 배신자가 되면 되돌아 갈 수 없습니다."
 "[english]challenge_traitors_game_instruction4"		"---A traitor can send secret messages beginning with \"/\" to teammates."
 "challenge_traitors_game_instruction4"		"---배신자는 같은 배신자 팀원에게 \"/\"로 시작하는 비밀 메시지를 보낼 수 있습니다."
 //IME: Input Method Editors
-"[english]challenge_traitors_game_instruction5"		"---Becareful of your IME status, or your secret message might be sent to the public."
+"[english]challenge_traitors_game_instruction5"		"---Keep an eye on your IME status, or your secret message might be sent to the public."
 "challenge_traitors_game_instruction5"		"---채팅 입력 시 주의하십시오. 당신의 메세지가 모두에게 보여질 수도 있습니다."
 
 "[english]challenge_traitors_traitor_list"		"TRAITOR name list:"
