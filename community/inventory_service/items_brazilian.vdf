@@ -21,8 +21,8 @@
 "item_display_type_community_medal_legendary"		"Medalha da Comunidade"
 "[english]item_display_type_donation_medal"		"Donor"
 "item_display_type_donation_medal"		"Doador"
-		"[english]item_display_type_novelty_medal_uncommon"		"Souvenir"
-		"item_display_type_novelty_medal_uncommon"		"Souvenir"
+"[english]item_display_type_novelty_medal_uncommon"		"Souvenir"
+"item_display_type_novelty_medal_uncommon"		"Souvenir"
 // accessory that can be permanently attached to a weapon, equipment, or suit to track specific stats
 "[english]item_display_type_strange_device"		"Strange Device"
 "item_display_type_strange_device"		"Dispositivo Estranho"
@@ -159,15 +159,15 @@
 "[english]item_novelty_medal_flush_toilet_display_type"		"Medal…?"
 "item_novelty_medal_flush_toilet_display_type"		"Medalha…?"
 
-		// (to the tune of the titular lyric of I Saw Mommy Kissing Santa Claus)
-		// (this isn't a translator note, it's just my headcanon about some words I typed)
-		"[english]item_novelty_medal_anacrusis_name"		"I met Barry on the Isolode"
-		"item_novelty_medal_anacrusis_name"		"I met Barry on the Isolode"
-		// these are puns. good luck!
-		"[english]item_novelty_medal_anacrusis_description"		"It was a [i]Barry[/i] good time. Still [i]barrel[/i]-y know him, though…"
-		"item_novelty_medal_anacrusis_description"		"It was a [i]Barry[/i] good time. Still [i]barrel[/i]-y know him, though…"
-		"[english]item_novelty_medal_anacrusis_acquisition"		"Complete the Barry Nice to Meet You achievement in The Anacrusis to unlock."
-		"item_novelty_medal_anacrusis_acquisition"		"Complete the Barry Nice to Meet You achievement in The Anacrusis to unlock."
+// (to the tune of the titular lyric of I Saw Mommy Kissing Santa Claus)
+// (this isn't a translator note, it's just my headcanon about some words I typed)
+"[english]item_novelty_medal_anacrusis_name"		"I met Barry on the Isolode"
+"item_novelty_medal_anacrusis_name"		"Me encontrei com Barry em Isolode"
+// these are puns. good luck!
+"[english]item_novelty_medal_anacrusis_description"		"It was a [i]Barry[/i] good time. Still [i]barrel[/i]-y know him, though…"
+"item_novelty_medal_anacrusis_description"		"Parece que foi uma [i]Barry[/i] trip. Acho que ele se escondeu em um [i]Barry[/i]-l..."
+"[english]item_novelty_medal_anacrusis_acquisition"		"Complete the Barry Nice to Meet You achievement in The Anacrusis to unlock."
+"item_novelty_medal_anacrusis_acquisition"		"Alcance a conquista Barry Trip no mapa The Anacrusis para destravar."
 
 "[english]item_achievement_medal_oe_jacob_name"		"Jacob's Rest Veteran"
 "item_achievement_medal_oe_jacob_name"		"Veterano Descanso de Jacob"
@@ -275,10 +275,10 @@
 "item_unique_medal_mapping_2023_name"		"The Gauntlet: Arctic (Vencedor #BossFight2023)"
 "[english]item_unique_medal_mapping_2023_description"		"This medal commemorates The Gauntlet: Arctic, the winner of the 2023 mapping competition."
 "item_unique_medal_mapping_2023_description"		"Essa medalha comemora The Gauntlet: Arctic, o vencedor da competição de mapas de 2023."
-		"[english]item_unique_medal_mapping_2024_name"		"Downed Station (#SpaceStation2024 Winner)"
-		"item_unique_medal_mapping_2024_name"		"Downed Station (#SpaceStation2024 Winner)"
-		"[english]item_unique_medal_mapping_2024_description"		"This medal commemorates Downed Station, the winner of the 2024 mapping competition."
-		"item_unique_medal_mapping_2024_description"		"This medal commemorates Downed Station, the winner of the 2024 mapping competition."
+"[english]item_unique_medal_mapping_2024_name"		"Downed Station (#SpaceStation2024 Winner)"
+"item_unique_medal_mapping_2024_name"		"Downed Station (#SpaceStation2024 Vencedor)"
+"[english]item_unique_medal_mapping_2024_description"		"This medal commemorates Downed Station, the winner of the 2024 mapping competition."
+"item_unique_medal_mapping_2024_description"		"Esta medalha condecora Downed Station, o vencedor da competição de criação de mapas de 2024."
 
 // Contains one Strange (stat-tracking) version of a weapon the player has unlocked, of the player's choice.
 "[english]item_container_beta_tester_strange_weapon_name"		"Beta Tester's Strange Weapon"
@@ -411,15 +411,14 @@
 "[english]item_crafting_material_probability_drive_description"		"A disk containing an excerpt from [i]A Million Random Digits with 100,000 Normal Deviates[/i], found while on a mission."
 "item_crafting_material_probability_drive_description"		"Um disco contendo um trecho de [i]Um Milhão de Dígitos Aleatórios com 100.000 Desvios Normais[/i], encontrado durante uma missão."
 
-		"[english]item_crafting_material_refined_wire_name"		"Sorted Wire"
-		"item_crafting_material_refined_wire_name"		"Sorted Wire"
-		"[english]item_crafting_material_refined_wire_description"		"A spool of repurposed wire."
-		"item_crafting_material_refined_wire_description"		"A spool of repurposed wire."
-		"[english]item_crafting_material_refined_carbon_name"		"Carbon Plates"
-		"item_crafting_material_refined_carbon_name"		"Carbon Plates"
-		"[english]item_crafting_material_refined_carbon_description"		"Carbon nanotubes arranged into super-strong plates."
-		"item_crafting_material_refined_carbon_description"		"Carbon nanotubes arranged into super-strong plates."
-
+"[english]item_crafting_material_refined_wire_name"		"Sorted Wire"
+"item_crafting_material_refined_wire_name"		"Fios sortidos"
+"[english]item_crafting_material_refined_wire_description"		"A spool of repurposed wire."
+"item_crafting_material_refined_wire_description"		"Um rolo de fios readaptados."
+"[english]item_crafting_material_refined_carbon_name"		"Carbon Plates"
+"item_crafting_material_refined_carbon_name"		"Placas de Carbono"
+"[english]item_crafting_material_refined_carbon_description"		"Carbon nanotubes arranged into super-strong plates."
+"item_crafting_material_refined_carbon_description"		"Nanotubos de carbono reestruturados em placas super-resistentes."
 
 // Notifications are hidden items that cause a notification to appear in the game's main menu. The item records whether it has been seen by the player, and dismissing the notification deletes the item. Notifications will not appear for players who have opted out of seeing them.
 //
@@ -558,8 +557,8 @@
 "item_donation_stargate_description"		"Representa uma doação para Stargate75, host de servidores na Alemanha."
 "[english]item_donation_hangumi_name"		"Donor: hangumi"
 "item_donation_hangumi_name"		"Doador: hangumi"
-		"[english]item_donation_hangumi_description"		"Represents a donation to hangumi, host of servers in Korea and contributor to the Korean translation."
-		"item_donation_hangumi_description"		"Represents a donation to hangumi, host of servers in Korea and contributor to the Korean translation."
+"[english]item_donation_hangumi_description"		"Represents a donation to hangumi, host of servers in Korea and contributor to the Korean translation."
+"item_donation_hangumi_description"		"Representa uma doação ao hangumi, host de servidores na Coreia e colaborador da tradução para coreano."
 "[english]item_donation_yojimbo_name"		"Donor: YOJIMBO"
 "item_donation_yojimbo_name"		"Doador: YOJIMBO"
 "[english]item_donation_yojimbo_description"		"Represents a donation to YOJIMBO, host of servers in Ireland."
@@ -604,13 +603,13 @@
 "item_donation_thescientist_name"		"Doador: TheScientist"
 "[english]item_donation_thescientist_description"		"Represents a donation to TheScientist, contributor to the Portuguese translation."
 "item_donation_thescientist_description"		"Representa uma doação ao TheScientist, colaborador da tradução para português."
-		"[english]item_donation_crazymanbos_name"		"Donor: Crazymanbos"
-		"item_donation_crazymanbos_name"		"Donor: Crazymanbos"
-		"[english]item_donation_crazymanbos_description"		"Represents a donation to Crazymanbos, contributor to the Swedish translation."
-		"item_donation_crazymanbos_description"		"Represents a donation to Crazymanbos, contributor to the Swedish translation."
-		"[english]item_donation_moddedmarionette_name"		"Donor: ModdedMarionette"
-		"item_donation_moddedmarionette_name"		"Donor: ModdedMarionette"
-		"[english]item_donation_moddedmarionette_description"		"Represents a donation to ModdedMarionette, programmer and contributor to the Simplified Chinese translation."
-		"item_donation_moddedmarionette_description"		"Represents a donation to ModdedMarionette, programmer and contributor to the Simplified Chinese translation."
+"[english]item_donation_crazymanbos_name"		"Donor: Crazymanbos"
+"item_donation_crazymanbos_name"		"Doador: Crazymanbos"
+"[english]item_donation_crazymanbos_description"		"Represents a donation to Crazymanbos, contributor to the Swedish translation."
+"item_donation_crazymanbos_description"		"Representa uma doação ao Crazymanbos, colaborador da tradução para sueco."
+"[english]item_donation_moddedmarionette_name"		"Donor: ModdedMarionette"
+"item_donation_moddedmarionette_name"		"Doador: ModdedMarionette"
+"[english]item_donation_moddedmarionette_description"		"Represents a donation to ModdedMarionette, programmer and contributor to the Simplified Chinese translation."
+"item_donation_moddedmarionette_description"		"Representa uma doação ao ModdedMarionette, programador e colaborador da traudução para chinês simplificado."
 }
 }

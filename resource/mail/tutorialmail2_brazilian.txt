@@ -16,5 +16,5 @@ GAME
 "MailDate3"	"Data: 18/12/52"
 "MailSubject3"	"Assunto: Re: Birita e gatinhas?"
 "MailBody3A"	"Com certeza, J."
-"MailBody3B"	"Meu Daxol está acabando mesmo. Até logo"
+"MailBody3B"	"Já estou sem Daxol mesmo. Até logo"
 }
