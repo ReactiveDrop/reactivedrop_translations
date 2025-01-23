@@ -5195,7 +5195,7 @@
 "[english]rd_so_alien_biomass"		"Biomass"
 "rd_so_alien_biomass"		"Biomasse"
 "[english]rd_so_alien_grub"		"Grub"
-"rd_so_alien_grub"		"Grub"
+"rd_so_alien_grub"		"Larve"
 "[english]rd_so_alien_antlionguard"		"Antlion Guard"
 "rd_so_alien_antlionguard"		"Wächterwanze"
 
