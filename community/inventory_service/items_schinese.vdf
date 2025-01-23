@@ -527,7 +527,7 @@
 "[english]item_donation_ben_name"		"Donor: Ben Lubar"
 "item_donation_ben_name"		"慷慨勋章：Ben Lubar"
 "[english]item_donation_ben_description"		"Represents a donation to Ben Lubar, release manager, host of the stats server, and programmer."
-"item_donation_ben_description"		"本勋章授予所有捐款给Ben Lubar的玩家。Ben Lubar是是发行主管、统计服务器的主开发以及游戏开发人员之一。"
+"item_donation_ben_description"		"本勋章授予所有捐款给Ben Lubar的玩家。Ben Lubar是发行主管、统计服务器的服主以及游戏开发人员之一。"
 "[english]item_donation_rayman_name"		"Donor: Rayman1103"
 "item_donation_rayman_name"		"慷慨勋章：Rayman1103"
 "[english]item_donation_rayman_description"		"Represents a donation to Rayman1103, programmer."
@@ -608,9 +608,9 @@
 "item_donation_crazymanbos_name"		"慷慨勋章：Crazymanbos"
 "[english]item_donation_crazymanbos_description"		"Represents a donation to Crazymanbos, contributor to the Swedish translation."
 "item_donation_crazymanbos_description"		"本勋章授予所有捐款给Crazymanbos的玩家。Crazymanbos是瑞典语翻译之一。"
-		"[english]item_donation_moddedmarionette_name"		"Donor: ModdedMarionette"
-		"item_donation_moddedmarionette_name"		"Donor: ModdedMarionette"
-		"[english]item_donation_moddedmarionette_description"		"Represents a donation to ModdedMarionette, programmer and contributor to the Simplified Chinese translation."
-		"item_donation_moddedmarionette_description"		"Represents a donation to ModdedMarionette, programmer and contributor to the Simplified Chinese translation."
+"[english]item_donation_moddedmarionette_name"		"Donor: ModdedMarionette"
+"item_donation_moddedmarionette_name"		"慷慨勋章：ModdedMarionette"
+"[english]item_donation_moddedmarionette_description"		"Represents a donation to ModdedMarionette, programmer and contributor to the Simplified Chinese translation."
+"item_donation_moddedmarionette_description"		"本勋章授予所有捐款给ModdedMarionette的玩家。ModdedMarionette是游戏开发人员之一以及简体中文翻译之一。"
 }
 }
