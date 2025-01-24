@@ -608,9 +608,9 @@
 "item_donation_crazymanbos_name"		"Spender: Crazymanbos"
 "[english]item_donation_crazymanbos_description"		"Represents a donation to Crazymanbos, contributor to the Swedish translation."
 "item_donation_crazymanbos_description"		"Stellt eine Spende an Crazymanbos für deren Beitrag an der schwedischen Übersetzung dar."
-		"[english]item_donation_moddedmarionette_name"		"Donor: ModdedMarionette"
-		"item_donation_moddedmarionette_name"		"Donor: ModdedMarionette"
-		"[english]item_donation_moddedmarionette_description"		"Represents a donation to ModdedMarionette, programmer and contributor to the Simplified Chinese translation."
-		"item_donation_moddedmarionette_description"		"Represents a donation to ModdedMarionette, programmer and contributor to the Simplified Chinese translation."
+"[english]item_donation_moddedmarionette_name"		"Donor: ModdedMarionette"
+"item_donation_moddedmarionette_name"		"Spender: ModdedMarionette"
+"[english]item_donation_moddedmarionette_description"		"Represents a donation to ModdedMarionette, programmer and contributor to the Simplified Chinese translation."
+"item_donation_moddedmarionette_description"		"Stellt eine Spende an ModdedMarionette für deren Beiträge zum Programmcode und der vereinfachten chinesische Übersetzung dar."
 }
 }
