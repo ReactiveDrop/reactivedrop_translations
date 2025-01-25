@@ -34,6 +34,12 @@
 "challenge_traitors_game_instruction4"		"---A traitor can send secret messages beginning with \"/\" to teammates."
 //IME: Input Method Editors
 "challenge_traitors_game_instruction5"		"---Keep an eye on your IME status, or your secret message might be sent to the public."
+"challenge_traitors_game_instruction6"		"---Traitor Team can send \"/gg\" (case sensitive) to initiate a team surrender vote. (IAF Team is NOT allowed to surrender.)"
+
+//These will display on traitors's HUD and only traitors can see them. Please keep HUD messages short.
+"challenge_traitors_game_instruction_traitor1"		"You can send secret messages beginning with \"/\" to teammates."
+"challenge_traitors_game_instruction_traitor2"		"You can send \"/gg\" to surrender."
+"challenge_traitors_game_instruction_traitor3"		"Someone wants to surrender, type \"/gg\" for YES."
 
 "challenge_traitors_traitor_list"		"TRAITOR name list:"
 "challenge_traitors_traitor_player_unavailable"		"Corrupted Records"

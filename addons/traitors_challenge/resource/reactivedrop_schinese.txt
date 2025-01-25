@@ -52,6 +52,16 @@
 //IME: Input Method Editors
 "[english]challenge_traitors_game_instruction5"		"---Keep an eye on your IME status, or your secret message might be sent to the public."
 "challenge_traitors_game_instruction5"		"---队内聊天时注意输入法状态，输错命令可是会自爆的。"
+"[english]challenge_traitors_game_instruction6"		"---Traitor Team can send \"/gg\" (case sensitive) to initiate a team surrender vote. (IAF Team is NOT allowed to surrender.)"
+"challenge_traitors_game_instruction6"		"---内鬼可以发送 \"/gg\" (区分大小写)发起投降投票。(IAF队员不能投降)"
+
+//These will display on traitors's HUD and only traitors can see them. Please keep HUD messages short.
+"[english]challenge_traitors_game_instruction_traitor1"		"You can send secret messages beginning with \"/\" to teammates."
+"challenge_traitors_game_instruction_traitor1"		"发送 \"/\" 开头的信息可以队内聊天"
+"[english]challenge_traitors_game_instruction_traitor2"		"You can send \"/gg\" to surrender."
+"challenge_traitors_game_instruction_traitor2"		"发送 \"/gg\" 投降"
+"[english]challenge_traitors_game_instruction_traitor3"		"Someone wants to surrender, type \"/gg\" for YES."
+"challenge_traitors_game_instruction_traitor3"		"有内鬼想投降, 同意请打 \"/gg\""
 
 "[english]challenge_traitors_traitor_list"		"TRAITOR name list:"
 "challenge_traitors_traitor_list"		"内鬼名单："
