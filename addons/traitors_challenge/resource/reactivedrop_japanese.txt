@@ -15,6 +15,8 @@
 "challenge_traitors_traitor_win"		"裏切者チームの勝利！"
 "[english]challenge_traitors_no_winner"		"All marines have died....There is no winner."
 "challenge_traitors_no_winner"		"全員死んでしまった....勝者無し。"
+		"[english]challenge_traitors_traitor_surrender"		"Over 2/3 of TRAITOR Team players agree to surrender."
+		"challenge_traitors_traitor_surrender"		"Over 2/3 of TRAITOR Team players agree to surrender."
 
 "[english]challenge_traitors_iaf_objective"		"You are an IAF marine! Your team objective is to COMPLETE the mission."
 "challenge_traitors_iaf_objective"		"あなたはIAFの海兵隊員です！あなたのチームの目的はミッションを完了することです。"
@@ -52,8 +54,8 @@
 //IME: Input Method Editors
 "[english]challenge_traitors_game_instruction5"		"---Keep an eye on your IME status, or your secret message might be sent to the public."
 "challenge_traitors_game_instruction5"		"---IME入力状態に注意してください。秘密の通信が見えてしまう可能性があります。"
-		"[english]challenge_traitors_game_instruction6"		"---Traitor Team can send \"/gg\" (case sensitive) to initiate a team surrender vote. (IAF Team is NOT allowed to surrender.)"
-		"challenge_traitors_game_instruction6"		"---Traitor Team can send \"/gg\" (case sensitive) to initiate a team surrender vote. (IAF Team is NOT allowed to surrender.)"
+		"[english]challenge_traitors_game_instruction6"		"---Traitor Team can send \"/gg\" to initiate a team surrender vote. YES votes > 2/3 means IAF Team wins."
+		"challenge_traitors_game_instruction6"		"---Traitor Team can send \"/gg\" to initiate a team surrender vote. YES votes > 2/3 means IAF Team wins."
 
 		//These will display on traitors's HUD and only traitors can see them. Please keep HUD messages short.
 		"[english]challenge_traitors_game_instruction_traitor1"		"You can send secret messages beginning with \"/\" to teammates."
