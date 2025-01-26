@@ -8,7 +8,7 @@
 | [Dutch](#non-curated-languages) | 56 | 2004 | 43 | 3234 | 273 | 230 | 732 | 146 |
 | [Finnish](#non-curated-languages) | ✔️ | 2004 | 42 | 3095 | 202 | 170 | 663 | 145 |
 | [French](#french-français) | 32 | 138 | 43 | 2600 | 272 | 230 | 672 | 125 |
-| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | 2 | ✔️ | 5 | ✔️ |
+| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 5 | ✔️ |
 | [Hungarian](#non-curated-languages) | 56 | 138 | 43 | 3234 | 273 | 230 | 997 | 147 |
 | [Indonesian](#indonesian-indonesia) | 916 | 2004 | 635 | 4200 | 276 | 235 | 994 | 146 |
 | [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 5 | ✔️ |
@@ -20,7 +20,7 @@
 | [Brazilian Portuguese](#brazilian-português) | 1 | ✔️ | ✔️ | 861 | 15 | 22 | 26 | 3 |
 | [Romanian](#non-curated-languages) | 56 | 1996 | 49 | 3945 | 273 | 230 | 997 | 147 |
 | [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 5 | ✔️ |
-| [European Spanish](#spanish-español-de-españa) | 33 | 2004 | 41 | 2651 | 2 | 230 | 457 | 126 |
+| [European Spanish](#spanish-español-de-españa) | 10 | 2004 | 41 | 2554 | 2 | 230 | 433 | 126 |
 | [Latin American Spanish](#latam-español-latinoamericano) | 1 | 2004 | ✔️ | 4285 | 21 | 23 | 229 | 143 |
 | [Swedish](#swedish-svenska) | ✔️ | ✔️ | ✔️ | 391 | ✔️ | ✔️ | 5 | 81 |
 | [Thai](#non-curated-languages) | 971 | 1993 | 51 | 4481 | 273 | 230 | 761 | 147 |
@@ -549,7 +549,6 @@
 ### Strings
 
 - [addons/traitors_challenge/reactivedrop_german.txt](addons/traitors_challenge/resource/reactivedrop_german.txt) has 5 untranslated strings.
-- [items_german.vdf](community/inventory_service/items_german.vdf) has 2 untranslated strings.
 
 </details>
 
@@ -1192,11 +1191,11 @@
 - [statsweb_spanish.vdf](community/stats_website/statsweb_spanish.vdf) has 230 untranslated strings.
 - [steam_input_spanish.vdf](community/steam_input/steam_input_spanish.vdf) has 97 untranslated strings.
 - [misc/signage/signage_spanish.vdf](misc/signage/signage_spanish.vdf) has 69 untranslated strings.
-- [basemodui_spanish.txt](resource/basemodui_spanish.txt) has 33 untranslated strings.
+- [basemodui_spanish.txt](resource/basemodui_spanish.txt) has 10 untranslated strings.
 - [closecaption_spanish.txt](resource/closecaption_spanish.txt) has 2004 untranslated strings.
 - [gameui_spanish.txt](resource/gameui_spanish.txt) has 41 untranslated strings.
-- [reactivedrop_spanish.txt](resource/reactivedrop_spanish.txt) has 2651 untranslated strings.
-- [valve_spanish.txt](resource/valve_spanish.txt) has 266 untranslated strings.
+- [reactivedrop_spanish.txt](resource/reactivedrop_spanish.txt) has 2554 untranslated strings.
+- [valve_spanish.txt](resource/valve_spanish.txt) has 242 untranslated strings.
 
 ### Upcoming Release Notes
 
