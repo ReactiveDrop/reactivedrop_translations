@@ -56,7 +56,7 @@
 "challenge_traitors_game_instruction5"		"---Var försiktig med din IME-status, annars kan ditt hemliga meddelande skickas till allmänheten."
 "[english]challenge_traitors_game_instruction6"		"---Traitor Team can send \"/gg\" to initiate a team surrender vote. YES votes > 2/3 means IAF Team wins."
 "challenge_traitors_game_instruction6"		"---Förrädar-laget kan skicka \"/gg\" för att starta en röstning om att ge upp. JA röster > 2/3 betyder att IAF-laget vinner."
-		
+
 //These will display on traitors's HUD and only traitors can see them. Please keep HUD messages short.
 "[english]challenge_traitors_game_instruction_traitor1"		"You can send secret messages beginning with \"/\" to teammates."
 "challenge_traitors_game_instruction_traitor1"		"Du kan skicka hemliga meddelanden som börjar med \"/\" till lagkamrater."
