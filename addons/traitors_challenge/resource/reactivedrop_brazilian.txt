@@ -3,25 +3,25 @@
 "Language"		"brazilian"
 "Tokens"
 {
-		//These are challenge name and description in add-on info file and show up in challenge selection menu.
-		"[english]challenge_traitors_name"		"Traitors!"
-		"challenge_traitors_name"		"Traitors!"
-		"[english]challenge_traitors_description"		"Follow the instructions in game!"
-		"challenge_traitors_description"		"Follow the instructions in game!"
+//These are challenge name and description in add-on info file and show up in challenge selection menu.
+"[english]challenge_traitors_name"		"Traitors!"
+"challenge_traitors_name"		"Traidores!"
+"[english]challenge_traitors_description"		"Follow the instructions in game!"
+"challenge_traitors_description"		"Siga as instruções no jogo!"
 
-		"[english]challenge_traitors_iaf_win"		"IAF team wins!"
-		"challenge_traitors_iaf_win"		"IAF team wins!"
-		"[english]challenge_traitors_traitor_win"		"TRAITOR team wins!"
-		"challenge_traitors_traitor_win"		"TRAITOR team wins!"
-		"[english]challenge_traitors_no_winner"		"All marines have died....There is no winner."
-		"challenge_traitors_no_winner"		"All marines have died....There is no winner."
-		"[english]challenge_traitors_traitor_surrender"		"Over 2/3 of TRAITOR Team players agree to surrender."
-		"challenge_traitors_traitor_surrender"		"Over 2/3 of TRAITOR Team players agree to surrender."
+"[english]challenge_traitors_iaf_win"		"IAF team wins!"
+"challenge_traitors_iaf_win"		"Time IAF é o vencedor!"
+"[english]challenge_traitors_traitor_win"		"TRAITOR team wins!"
+"challenge_traitors_traitor_win"		"TRAIDORES venceram!"
+"[english]challenge_traitors_no_winner"		"All marines have died....There is no winner."
+"challenge_traitors_no_winner"		"Todos os fuzileiros morreram... Não existem vencedores."
+"[english]challenge_traitors_traitor_surrender"		"Over 2/3 of TRAITOR Team players agree to surrender."
+"challenge_traitors_traitor_surrender"		"Mais de 2/3 dos TRAIDORES concordaram em render-se."
 
-		"[english]challenge_traitors_iaf_objective"		"You are an IAF marine! Your team objective is to COMPLETE the mission."
-		"challenge_traitors_iaf_objective"		"You are an IAF marine! Your team objective is to COMPLETE the mission."
-		"[english]challenge_traitors_traitor_objective"		"You are a TRAITOR! Your team objective is to kill the IAF team with at least 1 traitor alive."
-		"challenge_traitors_traitor_objective"		"You are a TRAITOR! Your team objective is to kill the IAF team with at least 1 traitor alive."
+"[english]challenge_traitors_iaf_objective"		"You are an IAF marine! Your team objective is to COMPLETE the mission."
+"challenge_traitors_iaf_objective"		"Você é um fuzileiro IAF! O objetivo do seu time é COMPLETAR a missão."
+"[english]challenge_traitors_traitor_objective"		"You are a TRAITOR! Your team objective is to kill the IAF team with at least 1 traitor alive."
+"challenge_traitors_traitor_objective"		"Você é um TRAIDOR! Seu objetivo é matar o time de fuzileiros com pelo menos 1 traidor vivo."
 
 		//This is used to notify the player which takes a traitor bot.
 		"[english]challenge_traitors_traitor_bot_taken_notify1"		"You have taken a TRAITOR bot! Your team objective is to kill the IAF team with at least 1 traitor alive."
