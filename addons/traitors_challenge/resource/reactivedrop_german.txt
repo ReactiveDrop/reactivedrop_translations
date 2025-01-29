@@ -63,7 +63,7 @@
 "[english]challenge_traitors_game_instruction_traitor2"		"You can send \"/gg\" to surrender."
 "challenge_traitors_game_instruction_traitor2"		"Du kannst \"/gg\" zum Aufgeben schicken."
 "[english]challenge_traitors_game_instruction_traitor3"		"Someone wants to surrender, type \"/gg\" for YES."
-"challenge_traitors_game_instruction_traitor3"		"Jemand will aufgeben, tippe "/gg\" für JA."
+"challenge_traitors_game_instruction_traitor3"		"Jemand will aufgeben, tippe \"/gg\" für JA."
 
 "[english]challenge_traitors_traitor_list"		"TRAITOR name list:"
 "challenge_traitors_traitor_list"		"VERRÄTER Namensliste:"
