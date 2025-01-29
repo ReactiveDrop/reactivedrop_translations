@@ -19,7 +19,7 @@
 		"challenge_traitors_traitor_surrender"		"Over 2/3 of TRAITOR Team players agree to surrender."
 
 "[english]challenge_traitors_iaf_objective"		"You are an IAF marine! Your team objective is to COMPLETE the mission."
-"challenge_traitors_iaf_objective"		"Du bist ein IAF-Soldat! Dein Teamziel ist es, die Mission zu VOLLENDEN."
+"challenge_traitors_iaf_objective"		"Du bist ein IAF-Soldat! Dein Teamziel ist es, den Einsatz ABZUSCHLIESSEN."
 "[english]challenge_traitors_traitor_objective"		"You are a TRAITOR! Your team objective is to kill the IAF team with at least 1 traitor alive."
 "challenge_traitors_traitor_objective"		"Du bist ein VERRÄTER! Dein Teamziel ist es, das IAF-Team zu töten, mit mindestens einem lebenden Verräter."
 
