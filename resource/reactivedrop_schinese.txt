@@ -7123,7 +7123,7 @@
 "red5_voted_skip_yes"		"你希望跳过过场动画"
 "[english]red5_voted_skip_no"		"You have not voted to skip the cutscene"
 "red5_voted_skip_no"		"无操作则继续观看过场动画"
-// context - Voted to Skip: 0/5 
+// context - Voted to Skip: 0/5
 "[english]red5_voted_skip_count"		"Voted to Skip:"
 "red5_voted_skip_count"		"投票跳过过场动画:"
 

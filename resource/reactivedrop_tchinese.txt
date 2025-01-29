@@ -7123,7 +7123,7 @@
 "red5_voted_skip_yes"		"你已經投票跳過場景"
 "[english]red5_voted_skip_no"		"You have not voted to skip the cutscene"
 "red5_voted_skip_no"		"你還沒投票跳過場景"
-// context - Voted to Skip: 0/5 
+// context - Voted to Skip: 0/5
 "[english]red5_voted_skip_count"		"Voted to Skip:"
 "red5_voted_skip_count"		"投票跳過:"
 

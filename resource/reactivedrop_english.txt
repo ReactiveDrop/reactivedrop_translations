@@ -1773,7 +1773,7 @@
 "ASW_PROTECT_TECH_NAME"	"Protect the Tech"
 "ASW_TECH_SURVIVES_NAME"	"Technician Secured"
 "ASW_STUN_GRENADE_NAME"	"Electro-Stunned"
-"ASW_WELD_DOOR_NAME"	"Seal of Quality" 
+"ASW_WELD_DOOR_NAME"	"Seal of Quality"
 "ASW_DODGE_RANGER_SHOT_NAME"	"Under the Gun"
 "ASW_BOOMER_KILL_EARLY_NAME"	"The Quick and the Dead"
 "ASW_FREEZE_GRENADE_NAME"	"Stay Frosty"
@@ -2217,7 +2217,7 @@
 "rd_leave_feedback"	"Feedback"
 "rd_str_schedule_event"	"Schedule a Game Event"
 "rd_schedule_event_information"	"Join this steam group and schedule a game event \n"
-"rd_str_change_team"	"CHANGE TEAM" 
+"rd_str_change_team"	"CHANGE TEAM"
 "rd_str_team"	"Team: %s1"
 "rd_str_press_jump_to_respawn"	"Respawn"
 "rd_str_respawning_in"	"Respawn available in %s1..."
@@ -2256,9 +2256,9 @@
 "rd_challenge_disabled"	"Challenge disabled"
 "rd_challenge_enabled"	"Challenge enabled: %s1"
 "asw_weapon_devastator"	"Devastator"
-"asw_weaponl_devastator"	"IAF HAS42 Devastator" 
+"asw_weaponl_devastator"	"IAF HAS42 Devastator"
 "asw_wdesc_devastator"	"The IAF HAS42 Devastator is a fully automatic close range heavy assault shotgun. IAF standard ammunition loadout provides for 12-gauge rounds. Special Weapons training is required. Its devastating power makes it ideal for taking out large groups of hostile targets in close range."
-"asw_weapon_devastator_attributes"	"High Damage, Close Range" 
+"asw_weapon_devastator_attributes"	"High Damage, Close Range"
 "asw_weapon_combat_rifle"	"Combat Rifle"
 "asw_weaponl_combat_rifle"	"22A4-2 Combat Rifle"
 "asw_wdesc_combat_rifle"	"The 22A4-2 Combat Rifle is similar to the 22A3-1 Assault Rifle but instead of the underslung grenade launcher it is equipped by an underslung shotgun attachment for situations when enemy is way too close to you to use the grenade launcher. When multiple foes are close to you use the high powered shotgun blast to take them down. High damage and wide spread does the trick."
@@ -3748,7 +3748,7 @@
 "red5_panel_skip_cutscene"	"Skip Cutscene"
 "red5_voted_skip_yes"	"You have voted to skip the cutscene"
 "red5_voted_skip_no"	"You have not voted to skip the cutscene"
-// context - Voted to Skip: 0/5 
+// context - Voted to Skip: 0/5
 "red5_voted_skip_count"	"Voted to Skip:"
 
 "red6_1_title"	"Escort the Carriage to Outpost Charlie. NOTE: All Sentryguns will be Confiscated"

@@ -1,8 +1,8 @@
 ﻿"lang"
-{ 
-"Language"	"english" 
-"Tokens" 
-{ 
+{
+"Language"	"english"
+"Tokens"
+{
 "testcommands"	"<clr:255,0,0>This is red<I> and italics<B> and<cr>bold<B><I><clr:255,255,255> and white again."
 
 // Lt. Williams
@@ -2116,7 +2116,7 @@
 "sarge.Reloading1"	"<clr:238,207,161><B>Sarge:<B> Reload."
 
 
-"sarge.Reloading2"	"<clr:238,207,161><B>Sarge:<B> Reload." 
+"sarge.Reloading2"	"<clr:238,207,161><B>Sarge:<B> Reload."
 
 
 "sarge.Reloading3"	"<clr:238,207,161><B>Sarge:<B> Reload, cover me!"
@@ -3474,7 +3474,7 @@
 "wildcat.CallSarge1"	"<clr:238,106,80><B>Wildcat:<B> Sarge."
 
 
-"wildcat.CallJaeger0"	"<clr:238,106,80><B>Wildcat:<B> Hey, Jaeger." 
+"wildcat.CallJaeger0"	"<clr:238,106,80><B>Wildcat:<B> Hey, Jaeger."
 
 
 "wildcat.CallJaeger1"	"<clr:238,106,80><B>Wildcat:<B> Jaeger."

@@ -1,8 +1,8 @@
-﻿"lang" 
-{ 
+﻿"lang"
+{
 "Language"	"english"
-"Tokens" 
-{ 
+"Tokens"
+{
 "ServerBrowser_Filter"	"Filter"
 "ServerBrowser_All"	"<All>"
 "ServerBrowser_World"	"World"

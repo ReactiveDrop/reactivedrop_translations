@@ -1,8 +1,8 @@
-﻿"lang" 
-{ 
-"Language"	"english" 
-"Tokens" 
-{ 
+﻿"lang"
+{
+"Language"	"english"
+"Tokens"
+{
 "L4D360UI_AudioVideo"	"Audio/Video"
 "L4D360UI_ChangeClass"	"Change Class"
 "L4D360UI_ChangeTeam"	"Change Team"
@@ -461,9 +461,9 @@
 "L4D360UI_Lobby_InviteFriends_Tip"	"Ask a friend to join the current lobby."
 "L4D360UI_Lobby_Change_GameSettings_Tip"	"Change game settings, pick campaigns to play and set the difficulty level."
 "L4D360UI_Lobby_Change_GameAccess_Tip"	"Set player access to your game through matchmaking or by game invite."
-"L4D360UI_Lobby_OpenToPublic_Tip"	"Open this lobby to allow any player to join." 
-"L4D360UI_Lobby_MakeFriendOnly_Tip"	"Close this lobby so only your friends can join." 
-"L4D360UI_Lobby_MakePrivate_Tip"	"Only allow players who have been invited to join." 
+"L4D360UI_Lobby_OpenToPublic_Tip"	"Open this lobby to allow any player to join."
+"L4D360UI_Lobby_MakeFriendOnly_Tip"	"Close this lobby so only your friends can join."
+"L4D360UI_Lobby_MakePrivate_Tip"	"Only allow players who have been invited to join."
 "L4D360UI_Lobby_LeaveLobby_Tip"	"Exit back to the Main Menu."
 "L4D360UI_Lobby_CancelMatchmacking_Tip"	"Stop searching for a dedicated server to play on."
 "L4D360UI_Lobby_StartVoiceChat_Tip"	"Begin talking to other players."
@@ -938,7 +938,7 @@
 "L4D360UI_FoundPublicGames_Filter_Difficulty"	"Difficulty"
 "L4D360UI_FoundPublicGames_Filter_Difficulty_Tip"	"Filter for games by difficulty."
 
-"L4D360UI_FoundPublicGames_Filter_Difficulty_Any"	"Any" 
+"L4D360UI_FoundPublicGames_Filter_Difficulty_Any"	"Any"
 "L4D360UI_FoundPublicGames_Filter_Difficulty_Easy"	"Easy"
 "L4D360UI_FoundPublicGames_Filter_Difficulty_Normal"	"Normal"
 "L4D360UI_FoundPublicGames_Filter_Difficulty_Advanced"	"Hard"
@@ -1616,5 +1616,5 @@
 "RDUI_Date_October"	 "October"
 "RDUI_Date_November"	 "November"
 "RDUI_Date_December"	 "December"
-} 
-} 
+}
+}

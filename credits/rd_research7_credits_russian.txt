@@ -10,7 +10,7 @@
 "asw_credits_"	"Пожалуйста, укажите RC7 в теме письма"
 "asw_credits_"	""
 "asw_credits_"	"Спасибо Алану, Джейми и Мэтту"
-"asw_credits_"	"за помощь во время тестирования." 
+"asw_credits_"	"за помощь во время тестирования."
 "asw_credits_"	"Спасибо участникам форумов steam"
 "asw_credits_"	"за помощь и поддержку."
 "asw_credits_"	"И спасибо VALVe и Black Cat за"

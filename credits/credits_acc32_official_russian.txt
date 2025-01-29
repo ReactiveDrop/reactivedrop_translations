@@ -17,7 +17,7 @@
 "asw_credits_"	""
 "asw_credits_"	"Спасибо авторам работ в мастерской за модели:"
 "asw_credits_"	"Поезд - https://steamcommunity.com/sharedfiles/filedetails/?id=2685407848"
-"asw_credits_"	"Самоцветы - https://steamcommunity.com/sharedfiles/filedetails/?id=609309413" 
+"asw_credits_"	"Самоцветы - https://steamcommunity.com/sharedfiles/filedetails/?id=609309413"
 "asw_credits_"	"Мониторы - https://steamcommunity.com/sharedfiles/filedetails/?id=1108535208"
 "asw_credits_"	"Консоли - https://steamcommunity.com/sharedfiles/filedetails/?id=2677359280"
 "asw_credits_"	"Пикап - https://skfb.ly/oxV9M"
