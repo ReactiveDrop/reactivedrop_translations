@@ -23,7 +23,7 @@
 "[english]challenge_traitors_traitor_objective"		"You are a TRAITOR! Your team objective is to kill the IAF team with at least 1 traitor alive."
 "challenge_traitors_traitor_objective"		"당신은 배신자입니다! 최소 한 명의 배신자가 생존한 상태로 모든 IAF 해병들을 살해하면 승리합니다."
 
-//This is used to notify the player which takes a traitor bot.
+//This is used to notify the player who takes an traitor bot.
 "[english]challenge_traitors_traitor_bot_taken_notify1"		"You have taken a TRAITOR bot! Your team objective is to kill the IAF team with at least 1 traitor alive."
 "challenge_traitors_traitor_bot_taken_notify1"		"배신자 봇을 데려왔습니다! 적어도 1명의 배신자가 생존한 상태로 모든 IAF 팀을 죽여야 합니다."
 //This is used to notify all traitors that their teammates have changed. 
