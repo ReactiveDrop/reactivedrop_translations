@@ -55,7 +55,7 @@
 "[english]challenge_traitors_game_instruction5"		"---Keep an eye on your IME status, or your secret message might be sent to the public."
 "challenge_traitors_game_instruction5"		"---Achte auf deinen IME-Status, sonst könnte deine geheime Nachricht an die Öffentlichkeit gelangen."
 "[english]challenge_traitors_game_instruction6"		"---Traitor Team can send \"/gg\" to initiate a team surrender vote. YES votes > 2/3 means IAF Team wins."
-"challenge_traitors_game_instruction6"		"-- Das Verräter-Team kann \"/gg\" senden, um eine Abstimmung über die Kapitulation des Teams einzuleiten. JA-Stimmen > 2/3 bedeutet, dass das IAF-Team gewinnt."
+"challenge_traitors_game_instruction6"		"---Das Verräter-Team kann \"/gg\" senden, um eine Abstimmung über die Kapitulation des Teams einzuleiten. JA-Stimmen > 2/3 bedeutet, dass das IAF-Team gewinnt."
 
 //These will display on traitors's HUD and only traitors can see them. Please keep HUD messages short.
 "[english]challenge_traitors_game_instruction_traitor1"		"You can send secret messages beginning with \"/\" to teammates."
