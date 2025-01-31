@@ -10,7 +10,7 @@
 "asw_credits_"	"Proszę o umieszczenie RC7 w temacie"
 "asw_credits_"	""
 "asw_credits_"	"Podziękowania dla Alan, Jamie, and Matt"
-"asw_credits_"	"za ich pomoc podczas testowania." 
+"asw_credits_"	"za ich pomoc podczas testowania."
 "asw_credits_"	"Podziękowania dla członków forum Steam"
 "asw_credits_"	"za ich pomoc i wsparcie."
 "asw_credits_"	"Podziekowania dla VALVe i Black Cat"

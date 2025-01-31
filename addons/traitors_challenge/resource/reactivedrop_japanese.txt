@@ -26,7 +26,7 @@
 //This is used to notify the player who takes an traitor bot.
 "[english]challenge_traitors_traitor_bot_taken_notify1"		"You have taken a TRAITOR bot! Your team objective is to kill the IAF team with at least 1 traitor alive."
 "challenge_traitors_traitor_bot_taken_notify1"		"あなたは裏切者隊員botの操作権を得ました！あなたのチームの目的は裏切者チームを全滅させずにIAFチームを全滅させることです。"
-//This is used to notify all traitors that their teammates have changed. 
+//This is used to notify all traitors that their teammates have changed.
 "[english]challenge_traitors_traitor_bot_taken_notify2"		"ATTENTION! A non-traitor player has taken a traitor bot, the traitor name list has changed!"
 "challenge_traitors_traitor_bot_taken_notify2"		"注意！！裏切者でないプレイヤーが裏切者隊員botの操作権を得ました。裏切者名簿が変更されました！"
 //This is used to notify the player who takes an IAF bot.

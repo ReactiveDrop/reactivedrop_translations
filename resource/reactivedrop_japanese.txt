@@ -7123,7 +7123,7 @@
 "red5_voted_skip_yes"		"カットシーンのスキップに賛成しました"
 "[english]red5_voted_skip_no"		"You have not voted to skip the cutscene"
 "red5_voted_skip_no"		"カットシーンのスキップに反対しました"
-// context - Voted to Skip: 0/5 
+// context - Voted to Skip: 0/5
 "[english]red5_voted_skip_count"		"Voted to Skip:"
 "red5_voted_skip_count"		"スキップ投票数:"
 
