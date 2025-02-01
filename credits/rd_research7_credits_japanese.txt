@@ -10,7 +10,7 @@
 "asw_credits_"	"件名にはRC7を入れて下さい"
 "asw_credits_"	""
 "asw_credits_"	"Alan, Jamie, Matt達による"
-"asw_credits_"	"テスト中の手助けに感謝します。" 
+"asw_credits_"	"テスト中の手助けに感謝します。"
 "asw_credits_"	"Steamフォーラムのメンバー達による"
 "asw_credits_"	"手助けとサポートに感謝します。"
 "asw_credits_"	"そしてVALVeとBlack Catの両者による"

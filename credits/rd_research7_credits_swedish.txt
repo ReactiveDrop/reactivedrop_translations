@@ -10,7 +10,7 @@
 "asw_credits_"	"Vänligen skriv RC7 i ämnet"
 "asw_credits_"	""
 "asw_credits_"	"Tack till Alan, Jamie, och Matt"
-"asw_credits_"	"för deras hjälp under testningen." 
+"asw_credits_"	"för deras hjälp under testningen."
 "asw_credits_"	"Tack till medlemmarna i Steam-forumen"
 "asw_credits_"	"för deras hjälp och stöd."
 "asw_credits_"	"Och tack vare både VALVe och Black Cat"

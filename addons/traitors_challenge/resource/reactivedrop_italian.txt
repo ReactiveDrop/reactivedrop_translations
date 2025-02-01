@@ -15,18 +15,18 @@
 "challenge_traitors_traitor_win"		"La squadra dei TRADITORI vince!"
 "[english]challenge_traitors_no_winner"		"All marines have died....There is no winner."
 "challenge_traitors_no_winner"		"Tutti i soldati sono morti....Non ci sono vincitori."
-		"[english]challenge_traitors_traitor_surrender"		"Over 2/3 of TRAITOR Team players agree to surrender."
-		"challenge_traitors_traitor_surrender"		"Over 2/3 of TRAITOR Team players agree to surrender."
+"[english]challenge_traitors_traitor_surrender"		"Over 2/3 of TRAITOR Team players agree to surrender."
+"challenge_traitors_traitor_surrender"		"Più di 2/3 dei giocatori nella squadra dei TRADITORI accetta di arrendersi."
 
 "[english]challenge_traitors_iaf_objective"		"You are an IAF marine! Your team objective is to COMPLETE the mission."
 "challenge_traitors_iaf_objective"		"Sei un soldato dell'IAF! L'obiettivo della tua squadra è COMPLETARE la missione."
 "[english]challenge_traitors_traitor_objective"		"You are a TRAITOR! Your team objective is to kill the IAF team with at least 1 traitor alive."
 "challenge_traitors_traitor_objective"		"Sei un TRADITORE! L'obiettivo della tua squadra è uccidere la squadra dell'IAF con almeno 1 traditore ancora in vita."
 
-//This is used to notify the player which takes a traitor bot.
+//This is used to notify the player who takes an traitor bot.
 "[english]challenge_traitors_traitor_bot_taken_notify1"		"You have taken a TRAITOR bot! Your team objective is to kill the IAF team with at least 1 traitor alive."
 "challenge_traitors_traitor_bot_taken_notify1"		"Hai preso il controllo di un bot TRADITORE! L'obiettivo della tua squadra è uccidere la squadra dell'IAF con almeno 1 traditore ancora in vita."
-//This is used to notify all traitors that their teammates have changed. 
+//This is used to notify all traitors that their teammates have changed.
 "[english]challenge_traitors_traitor_bot_taken_notify2"		"ATTENTION! A non-traitor player has taken a traitor bot, the traitor name list has changed!"
 "challenge_traitors_traitor_bot_taken_notify2"		"ATTENZIONE! Un giocatore non traditore ha preso il controllo di un bot traditore, la lista di nomi dei traditori è cambiata!"
 //This is used to notify the player who takes an IAF bot.
@@ -54,16 +54,16 @@
 //IME: Input Method Editors
 "[english]challenge_traitors_game_instruction5"		"---Keep an eye on your IME status, or your secret message might be sent to the public."
 "challenge_traitors_game_instruction5"		"---Attento in quale chat invii il messaggio, o potresti inviare il tuo messaggio segreto a tutti."
-		"[english]challenge_traitors_game_instruction6"		"---Traitor Team can send \"/gg\" to initiate a team surrender vote. YES votes > 2/3 means IAF Team wins."
-		"challenge_traitors_game_instruction6"		"---Traitor Team can send \"/gg\" to initiate a team surrender vote. YES votes > 2/3 means IAF Team wins."
+"[english]challenge_traitors_game_instruction6"		"---Traitor Team can send \"/gg\" to initiate a team surrender vote. YES votes > 2/3 means IAF Team wins."
+"challenge_traitors_game_instruction6"		"---La squadra dei Traditori può inviare \"/gg\" per avviare una votazione di resa. Vota SI > 2/3 significa che la squadra dell'IAF vince."
 
-		//These will display on traitors's HUD and only traitors can see them. Please keep HUD messages short.
-		"[english]challenge_traitors_game_instruction_traitor1"		"You can send secret messages beginning with \"/\" to teammates."
-		"challenge_traitors_game_instruction_traitor1"		"You can send secret messages beginning with \"/\" to teammates."
-		"[english]challenge_traitors_game_instruction_traitor2"		"You can send \"/gg\" to surrender."
-		"challenge_traitors_game_instruction_traitor2"		"You can send \"/gg\" to surrender."
-		"[english]challenge_traitors_game_instruction_traitor3"		"Someone wants to surrender, type \"/gg\" for YES."
-		"challenge_traitors_game_instruction_traitor3"		"Someone wants to surrender, type \"/gg\" for YES."
+//These will display on traitors's HUD and only traitors can see them. Please keep HUD messages short.
+"[english]challenge_traitors_game_instruction_traitor1"		"You can send secret messages beginning with \"/\" to teammates."
+"challenge_traitors_game_instruction_traitor1"		"Puoi inviare messaggi segreti ai compagni di squadra iniziando con \"/\"."
+"[english]challenge_traitors_game_instruction_traitor2"		"You can send \"/gg\" to surrender."
+"challenge_traitors_game_instruction_traitor2"		"Puoi inviare \"/gg\" per arrenderti."
+"[english]challenge_traitors_game_instruction_traitor3"		"Someone wants to surrender, type \"/gg\" for YES."
+"challenge_traitors_game_instruction_traitor3"		"Qualcuno vuole arrendersi, scrivi \"/gg\" per votare SI."
 
 "[english]challenge_traitors_traitor_list"		"TRAITOR name list:"
 "challenge_traitors_traitor_list"		"Lista di nomi dei TRADITORI:"

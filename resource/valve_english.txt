@@ -1,8 +1,8 @@
-﻿"lang" 
-{ 
-"Language"	"english" 
-"Tokens" 
-{ 
+﻿"lang"
+{
+"Language"	"english"
+"Tokens"
+{
 "Valve_Listen_MapName"	"Map"
 "Valve_Movement_Title"	"MOVEMENT"
 "Valve_Move_Forward"	"Move forward"
@@ -311,5 +311,5 @@
 "Valve_Reject_Invalid_CD_Key"	"Invalid CD Key."
 "Valve_Reject_CD_Key_In_Use"	"CD Key already in use."
 "Valve_Reject_Banned_From_Server"	"You have been banned from this server."
-} 
+}
 }

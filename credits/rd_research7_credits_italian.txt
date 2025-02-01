@@ -10,7 +10,7 @@
 "asw_credits_"	"Si prega di inserire RC7 nel soggetto"
 "asw_credits_"	""
 "asw_credits_"	"Grazie ad Alan, Jamie e Matt"
-"asw_credits_"	"per l'aiuto durante il testing." 
+"asw_credits_"	"per l'aiuto durante il testing."
 "asw_credits_"	"Grazie ai membri del forum di steam"
 "asw_credits_"	"per il loro aiuto e supporto."
 "asw_credits_"	"E grazie a VALVe e Black Cat"
