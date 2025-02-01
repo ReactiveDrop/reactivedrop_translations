@@ -3,5 +3,8 @@
 	"editor.insertSpaces": false,
 	"files.associations": {
 		"*.txt": "vdf"
-	}
+	},
+	"githubPullRequests.ignoredPullRequestBranches": [
+		"master"
+	]
 }
