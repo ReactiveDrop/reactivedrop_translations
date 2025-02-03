@@ -699,7 +699,7 @@
 			"style_2_name_%LANG%": "{#item_style_tournament_elite_yellow}",
 			"style_3_name_%LANG%": "{#item_style_tournament_elite_blue}",
 			"after_description_%LANG%": "{#item_tournament_medal_multiple}",
-			"icon_url": "https://stats.reactivedrop.com/static/medals/hoiaf_elite_green_11plus_stack_gr.png",
+			"icon_url": "https://stats.reactivedrop.com/static/medals/hoiaf_elite_green_11plus_stack_gy.png",
 			"icon_url_style_0": "https://stats.reactivedrop.com/static/medals/hoiaf_elite_green_11plus_stack_gy.png",
 			"icon_url_style_1": "",
 			"icon_url_style_2": "https://stats.reactivedrop.com/static/medals/hoiaf_elite_yellow_11plus_stack_gy.png",
