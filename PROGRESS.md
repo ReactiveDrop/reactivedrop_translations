@@ -8,21 +8,21 @@
 | [Dutch](#non-curated-languages) | 56 | 2004 | 43 | 3237 | 283 | 230 | 732 | 146 |
 | [Finnish](#non-curated-languages) | ✔️ | 2004 | 42 | 3098 | 212 | 170 | 663 | 145 |
 | [French](#french-français) | 32 | 138 | 43 | 2603 | 282 | 230 | 672 | 125 |
-| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | 3 | 10 | ✔️ | ✔️ | ✔️ |
+| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Hungarian](#non-curated-languages) | 56 | 138 | 43 | 3237 | 283 | 230 | 997 | 147 |
 | [Indonesian](#indonesian-indonesia) | 916 | 2004 | 635 | 4203 | 286 | 235 | 994 | 146 |
-| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | 3 | 10 | ✔️ | ✔️ | ✔️ |
-| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | 3 | 10 | ✔️ | 35 | ✔️ |
+| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
+| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 35 | ✔️ |
 | [Korean](#koreana-한국어) | ✔️ | ✔️ | ✔️ | 70 | 10 | ✔️ | 5 | 29 |
 | [Norwegian Bokmål](#non-curated-languages) | 74 | 708 | 48 | 3942 | 283 | 230 | 732 | 147 |
 | [Polish](#polish-polski) | 2 | 2004 | ✔️ | 2881 | 12 | 19 | 159 | 127 |
 | [European Portuguese](#portuguese-português-europeu) | 5 | 180 | 33 | 2327 | 263 | 51 | 658 | 142 |
 | [Brazilian Portuguese](#brazilian-português) | 1 | ✔️ | ✔️ | 864 | 25 | 22 | 26 | 3 |
 | [Romanian](#non-curated-languages) | 56 | 1996 | 49 | 3948 | 283 | 230 | 997 | 147 |
-| [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | 3 | 10 | ✔️ | 5 | ✔️ |
-| [European Spanish](#spanish-español-de-españa) | 10 | 2004 | 41 | 2424 | ✔️ | 230 | 433 | 126 |
+| [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
+| [European Spanish](#spanish-español-de-españa) | 10 | 2004 | ✔️ | 2424 | ✔️ | ✔️ | 433 | 126 |
 | [Latin American Spanish](#latam-español-latinoamericano) | 1 | 2004 | ✔️ | 4288 | 31 | 23 | 229 | 143 |
-| [Swedish](#swedish-svenska) | ✔️ | ✔️ | ✔️ | 394 | 10 | ✔️ | ✔️ | 81 |
+| [Swedish](#swedish-svenska) | ✔️ | ✔️ | ✔️ | 388 | ✔️ | ✔️ | ✔️ | 81 |
 | [Thai](#non-curated-languages) | 971 | 1993 | 51 | 4484 | 283 | 230 | 761 | 147 |
 | [Turkish](#non-curated-languages) | 56 | 137 | 43 | 3237 | 283 | 230 | 997 | 147 |
 | [Ukrainian](#ukrainian-українська) | 32 | 131 | 33 | 2803 | 283 | 230 | 957 | 147 |
@@ -550,10 +550,7 @@
 
 </summary>
 
-### Strings
-
-- [items_german.vdf](community/inventory_service/items_german.vdf) has 10 untranslated strings.
-- [reactivedrop_german.txt](resource/reactivedrop_german.txt) has 3 untranslated strings.
+✓ Up to date!
 
 </details>
 
@@ -745,10 +742,7 @@
 
 </summary>
 
-### Strings
-
-- [items_italian.vdf](community/inventory_service/items_italian.vdf) has 10 untranslated strings.
-- [reactivedrop_italian.txt](resource/reactivedrop_italian.txt) has 3 untranslated strings.
+✓ Up to date!
 
 </details>
 
@@ -760,9 +754,7 @@
 
 ### Strings
 
-- [items_japanese.vdf](community/inventory_service/items_japanese.vdf) has 10 untranslated strings.
 - [platform/vgui_japanese.txt](platform/vgui_japanese.txt) has 35 untranslated strings.
-- [reactivedrop_japanese.txt](resource/reactivedrop_japanese.txt) has 3 untranslated strings.
 
 </details>
 
@@ -1179,11 +1171,7 @@
 
 </summary>
 
-### Strings
-
-- [addons/traitors_challenge/reactivedrop_russian.txt](addons/traitors_challenge/resource/reactivedrop_russian.txt) has 5 untranslated strings.
-- [items_russian.vdf](community/inventory_service/items_russian.vdf) has 10 untranslated strings.
-- [reactivedrop_russian.txt](resource/reactivedrop_russian.txt) has 3 untranslated strings.
+✓ Up to date!
 
 </details>
 
@@ -1196,12 +1184,10 @@
 ### Strings
 
 - [addons/traitors_challenge/reactivedrop_spanish.txt](addons/traitors_challenge/resource/reactivedrop_spanish.txt) has 25 untranslated strings.
-- [statsweb_spanish.vdf](community/stats_website/statsweb_spanish.vdf) has 230 untranslated strings.
 - [steam_input_spanish.vdf](community/steam_input/steam_input_spanish.vdf) has 97 untranslated strings.
 - [misc/signage/signage_spanish.vdf](misc/signage/signage_spanish.vdf) has 69 untranslated strings.
 - [basemodui_spanish.txt](resource/basemodui_spanish.txt) has 10 untranslated strings.
 - [closecaption_spanish.txt](resource/closecaption_spanish.txt) has 2004 untranslated strings.
-- [gameui_spanish.txt](resource/gameui_spanish.txt) has 41 untranslated strings.
 - [reactivedrop_spanish.txt](resource/reactivedrop_spanish.txt) has 2424 untranslated strings.
 - [valve_spanish.txt](resource/valve_spanish.txt) has 242 untranslated strings.
 
@@ -1523,8 +1509,7 @@
 
 ### Strings
 
-- [items_swedish.vdf](community/inventory_service/items_swedish.vdf) has 10 untranslated strings.
-- [reactivedrop_swedish.txt](resource/reactivedrop_swedish.txt) has 394 untranslated strings.
+- [reactivedrop_swedish.txt](resource/reactivedrop_swedish.txt) has 388 untranslated strings.
 
 ### Mail and News
 
