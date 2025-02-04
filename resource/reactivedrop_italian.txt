@@ -8987,9 +8987,9 @@
 "rd_inventory_verb_style"		"Cambia Stile: %s1"
 "[english]rd_inventory_verb_style_current"		"Current Style: %s1"
 "rd_inventory_verb_style_current"		"Stile Attuale: %s1"
-		// option is always disabled
-		"[english]rd_inventory_verb_style_locked"		"Change Style: %s1 (Locked)"
-		"rd_inventory_verb_style_locked"		"Change Style: %s1 (Locked)"
+// option is always disabled
+"[english]rd_inventory_verb_style_locked"		"Change Style: %s1 (Locked)"
+"rd_inventory_verb_style_locked"		"Cambia Stile: %s1 (Bloccato)"
 // checkbox: force "Assault Rifle" to still appear even if "Strange Assault Rifle" is in the list.
 "[english]rd_inventory_show_basic"		"Show all basic items"
 "rd_inventory_show_basic"		"Mostra tutti gli oggetti di base"
@@ -9003,11 +9003,11 @@
 // 3 = k_EResultNoConnection
 "[english]rd_inventory_item_action_failed_3_desc"		"The requested inventory item action failed because the connection to Steam was lost."
 "rd_inventory_item_action_failed_3_desc"		"L'azione richiesta per l'articolo dell'inventario non è riuscita perché la connessione a Steam è stata persa."
-		// item name is shown as the title of this confirmation screen
-		"[english]rd_inventory_delete_confirm_desc"		"Are you sure you want to permanently destroy this item? It cannot be recovered."
-		"rd_inventory_delete_confirm_desc"		"Are you sure you want to permanently destroy this item? It cannot be recovered."
-		"[english]rd_inventory_delete_stack_confirm_desc"		"Are you sure you want to permanently destroy these %s1 items? They cannot be recovered."
-		"rd_inventory_delete_stack_confirm_desc"		"Are you sure you want to permanently destroy these %s1 items? They cannot be recovered."
+// item name is shown as the title of this confirmation screen
+"[english]rd_inventory_delete_confirm_desc"		"Are you sure you want to permanently destroy this item? It cannot be recovered."
+"rd_inventory_delete_confirm_desc"		"Sei sicuro di voler distruggere permanentemente questo oggetto? Non potrà essere recuperato."
+"[english]rd_inventory_delete_stack_confirm_desc"		"Are you sure you want to permanently destroy these %s1 items? They cannot be recovered."
+"rd_inventory_delete_stack_confirm_desc"		"Sei sicuro di voler distruggere permanentemente questi %s1 oggetti? Non potranno essere recuperati."
 "[english]rd_loadout_new"		"Create Loadout"
 "rd_loadout_new"		"Crea Equipaggiamento"
 "[english]rd_loadout_save"		"Copy From Current"
