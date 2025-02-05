@@ -7201,7 +7201,7 @@
 "[english]ocs_storagefacility_1_title"		"Gain access to the storage facility."
 "ocs_storagefacility_1_title"		"Få tillgång till förrådsanläggningen."
 "[english]ocs_storagefacility_1a"		"The main entrance to the landing bay area is overrun with infestation. Use the 'back door' to gain access to the storage facility, that leads to the landing bays."
-"ocs_storagefacility_1a"		"Huvudentrén till landningsvikområdet är översvämmad av svärmen. Använd "bakdörren" för att komma åt förvaringsutrymmet som leder till landningsfack."
+"ocs_storagefacility_1a"		"Huvudentrén till landningsvikområdet är översvämmad av svärmen. Använd 'bakdörren' för att komma åt förvaringsutrymmet som leder till landningsfack."
 "[english]ocs_storagefacility_2_title"		"Enter the landing bay area"
 "ocs_storagefacility_2_title"		"Gå in i landningsviken"
 "[english]ocs_storagefacility_2a"		"Locate the landing bay area and escape."
