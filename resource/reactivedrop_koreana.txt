@@ -8987,9 +8987,9 @@
 "rd_inventory_verb_style"		"스타일 변경: %s1"
 "[english]rd_inventory_verb_style_current"		"Current Style: %s1"
 "rd_inventory_verb_style_current"		"현재 스타일: %s1"
-		// option is always disabled
-		"[english]rd_inventory_verb_style_locked"		"Change Style: %s1 (Locked)"
-		"rd_inventory_verb_style_locked"		"Change Style: %s1 (Locked)"
+// option is always disabled
+"[english]rd_inventory_verb_style_locked"		"Change Style: %s1 (Locked)"
+"rd_inventory_verb_style_locked"		"스타일 변경: %s1 (잠금)"
 // checkbox: force "Assault Rifle" to still appear even if "Strange Assault Rifle" is in the list.
 "[english]rd_inventory_show_basic"		"Show all basic items"
 "rd_inventory_show_basic"		"모든 기본 아이템 보기"
@@ -9003,11 +9003,11 @@
 // 3 = k_EResultNoConnection
 "[english]rd_inventory_item_action_failed_3_desc"		"The requested inventory item action failed because the connection to Steam was lost."
 "rd_inventory_item_action_failed_3_desc"		"Steam 연결 실패로 인해 보관함 항목에 요청한 작업이 완료되지 않았습니다."
-		// item name is shown as the title of this confirmation screen
-		"[english]rd_inventory_delete_confirm_desc"		"Are you sure you want to permanently destroy this item? It cannot be recovered."
-		"rd_inventory_delete_confirm_desc"		"Are you sure you want to permanently destroy this item? It cannot be recovered."
-		"[english]rd_inventory_delete_stack_confirm_desc"		"Are you sure you want to permanently destroy these %s1 items? They cannot be recovered."
-		"rd_inventory_delete_stack_confirm_desc"		"Are you sure you want to permanently destroy these %s1 items? They cannot be recovered."
+// item name is shown as the title of this confirmation screen
+"[english]rd_inventory_delete_confirm_desc"		"Are you sure you want to permanently destroy this item? It cannot be recovered."
+"rd_inventory_delete_confirm_desc"		"이 아이템을 영구적으로 삭제하시겠습니까? 복구할 수 없습니다."
+"[english]rd_inventory_delete_stack_confirm_desc"		"Are you sure you want to permanently destroy these %s1 items? They cannot be recovered."
+"rd_inventory_delete_stack_confirm_desc"		"%s1 를(을) 영구적으로 삭제하시겠습니까? 복구할 수 없습니다."
 "[english]rd_loadout_new"		"Create Loadout"
 "rd_loadout_new"		"로드아웃 생성"
 "[english]rd_loadout_save"		"Copy From Current"
