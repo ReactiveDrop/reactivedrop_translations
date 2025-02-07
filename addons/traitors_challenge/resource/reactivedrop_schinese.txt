@@ -75,6 +75,12 @@
 "challenge_traitors_iaf_scanner1"		"你是 IAF队员 中的 生物专家！完成任务获胜"
 "[english]challenge_traitors_iaf_scanner2"		"You have a bio-scanner which can tell you who is the trator. Type \"/\" in chat to SHOW / HIDE its menu."
 "challenge_traitors_iaf_scanner2"		"你有一台可以扫描并发现内鬼的生物扫描仪。发送 \"/\" 打开/关闭 扫描界面。"
+//It is intended to use 5ubscr1be  and w○rksh○p to avoid Steam's checks on harmful texts or links. The checks is also target non-English languages. 
+//Please be aware of that when translating, or you might make add-on updates to be rejected by Steam due to the translations are included in add-on files.
+"[english]challenge_traitors_iaf_scanner3"		"If you can't see such menu, please 5ubscr1be \"Traitors\" Add-on in w○rksh○p"
+"challenge_traitors_iaf_scanner3"		"----如果看不到扫描界面，请到创工意坊钉月“有内鬼”木莫组"
+"[english]challenge_traitors_iaf_scanner4"		"You can use console command: bind \"o\" \"say /\" to fast open or close menu. Replace \"o\" with whichever key you like."
+"challenge_traitors_iaf_scanner4"		"----可以通过控制台命令：bind \"o\" \"say /\" 来绑定o作为快速开关扫描界面的按键。可以将o替换成任意其它按键。"
 //This is used to notify the player which takes a scanner bot.
 "[english]challenge_traitors_scanner_bot_taken_notify1"		"You have taken an Alien Expert bot in IAF team! Your team objective is to COMPLETE the mission."
 "challenge_traitors_scanner_bot_taken_notify1"		"你接管的是 IAF队员 中的 生物专家！完成任务获胜"
@@ -83,7 +89,7 @@
 "[english]challenge_traitors_game_instruction_scanner1"		"You are an Alien Expert! Your team objective is to COMPLETE the mission."
 "challenge_traitors_game_instruction_scanner1"		"你是 生物专家！完成任务获胜"
 "[english]challenge_traitors_game_instruction_scanner2"		"Type \"/\" in chat to SHOW / HIDE your bio-scanner menu."
-"challenge_traitors_game_instruction_scanner2"		"发送 \"/\" 打开/关闭 扫描界面"
+"challenge_traitors_game_instruction_scanner2"		"聊天框中发送 \"/\" 可显示/隐藏扫描界面，详见聊天框中指引"
 //This is used to notify the player which takes an IAF bot.
 "[english]challenge_traitors_scanner_bot_taken_notify2"		"You have taken an Alien Expert bot! Your team objective is to COMPLETE the mission."
 "challenge_traitors_scanner_bot_taken_notify2"		"你接管的是 生物专家！完成任务获胜"

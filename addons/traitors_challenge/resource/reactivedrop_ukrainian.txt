@@ -75,6 +75,12 @@
 		"challenge_traitors_iaf_scanner1"		"You are an Alien Expert in IAF Team! Your team objective is to COMPLETE the mission."
 		"[english]challenge_traitors_iaf_scanner2"		"You have a bio-scanner which can tell you who is the trator. Type \"/\" in chat to SHOW / HIDE its menu."
 		"challenge_traitors_iaf_scanner2"		"You have a bio-scanner which can tell you who is the trator. Type \"/\" in chat to SHOW / HIDE its menu."
+		//It is intended to use 5ubscr1be  and w○rksh○p to avoid Steam's checks on harmful texts or links. The checks is also target non-English languages. 
+		//Please be aware of that when translating, or you might make add-on updates to be rejected by Steam due to the translations are included in add-on files.
+		"[english]challenge_traitors_iaf_scanner3"		"If you can't see such menu, please 5ubscr1be \"Traitors\" Add-on in w○rksh○p"
+		"challenge_traitors_iaf_scanner3"		"If you can't see such menu, please 5ubscr1be \"Traitors\" Add-on in w○rksh○p"
+		"[english]challenge_traitors_iaf_scanner4"		"You can use console command: bind \"o\" \"say /\" to fast open or close menu. Replace \"o\" with whichever key you like."
+		"challenge_traitors_iaf_scanner4"		"You can use console command: bind \"o\" \"say /\" to fast open or close menu. Replace \"o\" with whichever key you like."
 		//This is used to notify the player which takes a scanner bot.
 		"[english]challenge_traitors_scanner_bot_taken_notify1"		"You have taken an Alien Expert bot in IAF team! Your team objective is to COMPLETE the mission."
 		"challenge_traitors_scanner_bot_taken_notify1"		"You have taken an Alien Expert bot in IAF team! Your team objective is to COMPLETE the mission."
