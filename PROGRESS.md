@@ -13,7 +13,7 @@
 | [Indonesian](#indonesian-indonesia) | 916 | 2004 | 635 | 4203 | 286 | 235 | 994 | 146 |
 | [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 35 | ✔️ |
-| [Korean](#koreana-한국어) | ✔️ | ✔️ | ✔️ | 70 | 10 | ✔️ | 5 | 29 |
+| [Korean](#koreana-한국어) | ✔️ | ✔️ | ✔️ | 67 | ✔️ | ✔️ | 5 | 29 |
 | [Norwegian Bokmål](#non-curated-languages) | 74 | 708 | 48 | 3942 | 283 | 230 | 732 | 147 |
 | [Polish](#polish-polski) | 2 | 2004 | ✔️ | 2881 | 12 | 19 | 159 | 127 |
 | [European Portuguese](#portuguese-português-europeu) | 5 | 180 | 33 | 2327 | 263 | 51 | 658 | 142 |
@@ -22,7 +22,7 @@
 | [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [European Spanish](#spanish-español-de-españa) | 10 | 2004 | ✔️ | 2424 | ✔️ | ✔️ | 433 | 126 |
 | [Latin American Spanish](#latam-español-latinoamericano) | 1 | 2004 | ✔️ | 4288 | 31 | 23 | 229 | 143 |
-| [Swedish](#swedish-svenska) | ✔️ | ✔️ | ✔️ | 388 | ✔️ | ✔️ | ✔️ | 81 |
+| [Swedish](#swedish-svenska) | ✔️ | ✔️ | ✔️ | 321 | ✔️ | ✔️ | ✔️ | 81 |
 | [Thai](#non-curated-languages) | 971 | 1993 | 51 | 4484 | 283 | 230 | 761 | 147 |
 | [Turkish](#non-curated-languages) | 56 | 137 | 43 | 3237 | 283 | 230 | 997 | 147 |
 | [Ukrainian](#ukrainian-українська) | 32 | 131 | 33 | 2803 | 283 | 230 | 957 | 147 |
@@ -763,9 +763,8 @@
 
 ### Strings
 
-- [items_koreana.vdf](community/inventory_service/items_koreana.vdf) has 10 untranslated strings.
 - [platform/vgui_koreana.txt](platform/vgui_koreana.txt) has 5 untranslated strings.
-- [reactivedrop_koreana.txt](resource/reactivedrop_koreana.txt) has 70 untranslated strings.
+- [reactivedrop_koreana.txt](resource/reactivedrop_koreana.txt) has 67 untranslated strings.
 
 ### Mail and News
 
@@ -1506,7 +1505,7 @@
 
 ### Strings
 
-- [reactivedrop_swedish.txt](resource/reactivedrop_swedish.txt) has 388 untranslated strings.
+- [reactivedrop_swedish.txt](resource/reactivedrop_swedish.txt) has 321 untranslated strings.
 
 ### Mail and News
 
