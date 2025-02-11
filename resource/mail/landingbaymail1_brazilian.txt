@@ -18,6 +18,6 @@ GAME
 "MailSubject3"	"Subject: Re: ??!"
 "MailBody3A"	"Socialidade estruturada?"
 "MailBody3B"	"Entre organismos de grande porte? Ainda estou cético."
-"MailBody3C"	"Embora Não haja dúvidas de que os ovos são perigosos. Tivemos um acidente hoje. Um dos trabalhadores foi encontrado morto."
+"MailBody3C"	"Embora não haja dúvidas de que os ovos são perigosos. Tivemos um acidente hoje. Um dos trabalhadores foi encontrado morto."
 "MailBody3D"	"Concordo que a contenção é vital, mas não prevejo dificuldades."
 }
