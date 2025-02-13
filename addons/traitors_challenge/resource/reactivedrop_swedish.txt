@@ -23,16 +23,16 @@
 "[english]challenge_traitors_traitor_objective"		"You are a TRAITOR! Your team objective is to kill the IAF team with at least 1 traitor alive."
 "challenge_traitors_traitor_objective"		"Du är en FÖRRÄDARE! Ditt lagmål är att döda IAF laget med åtminstone 1 förrädare levande."
 
-//This is used to notify the player who takes an traitor bot.
+//This is used to notify the player which takes an traitor bot.
 "[english]challenge_traitors_traitor_bot_taken_notify1"		"You have taken a TRAITOR bot! Your team objective is to kill the IAF team with at least 1 traitor alive."
 "challenge_traitors_traitor_bot_taken_notify1"		"Du har tagit en förrädarbot! Ditt lagmål är att döda IAF laget med åtminstone 1 förrädare levande."
 //This is used to notify all traitors that their teammates have changed.
 "[english]challenge_traitors_traitor_bot_taken_notify2"		"ATTENTION! A non-traitor player has taken a traitor bot, the traitor name list has changed!"
 "challenge_traitors_traitor_bot_taken_notify2"		"UPPMÄRKSAMHET! En icke-förrädarspelare har tagit en förrädarbot, förrädar namnlistan har ändrat!"
-//This is used to notify the player who takes an IAF bot.
+//This is used to notify the player which takes an IAF bot.
 "[english]challenge_traitors_iaf_bot_taken_notify1"		"You have taken an IAF bot! Your team objective is to COMPLETE the mission."
 "challenge_traitors_iaf_bot_taken_notify1"		"Du har tagit en IAF-bot! Ditt lagmål är att SLUTFÖRA uppdraget."
-//This shows up to a traitor player who tries to take an IAF bot. Other players can't see it
+//This shows up to a traitor player which tries to take an IAF bot. Other players can't see it
 "[english]challenge_traitors_iaf_bot_taken_notify2"		"You were killed because you betrayed your team!"
 "challenge_traitors_iaf_bot_taken_notify2"		"Du är dödad för att du förrådde laget!"
 
@@ -57,7 +57,7 @@
 "[english]challenge_traitors_game_instruction6"		"---Traitor Team can send \"/gg\" to initiate a team surrender vote. YES votes > 2/3 means IAF Team wins."
 "challenge_traitors_game_instruction6"		"---Förrädar-laget kan skicka \"/gg\" för att starta en röstning om att ge upp. JA röster > 2/3 betyder att IAF-laget vinner."
 
-//These will display on traitors's HUD and only traitors can see them. Please keep HUD messages short.
+//These will display on traitors' HUD and only traitors can see them. Please keep HUD messages short.
 "[english]challenge_traitors_game_instruction_traitor1"		"You can send secret messages beginning with \"/\" to teammates."
 "challenge_traitors_game_instruction_traitor1"		"Du kan skicka hemliga meddelanden som börjar med \"/\" till lagkamrater."
 "[english]challenge_traitors_game_instruction_traitor2"		"You can send \"/gg\" to surrender."
@@ -69,5 +69,41 @@
 "challenge_traitors_traitor_list"		"Namnlista över FÖRRÄDARE:"
 "[english]challenge_traitors_traitor_player_unavailable"		"Corrupted Records"
 "challenge_traitors_traitor_player_unavailable"		"Korrupta register"
+
+		//These will display in scanner's chat and only scanner can see them.
+		"[english]challenge_traitors_iaf_scanner1"		"You are an Alien Expert in IAF Team! Your team objective is to COMPLETE the mission."
+		"challenge_traitors_iaf_scanner1"		"You are an Alien Expert in IAF Team! Your team objective is to COMPLETE the mission."
+		"[english]challenge_traitors_iaf_scanner2"		"You have a bio-scanner which can tell you who is the trator. Type \"/\" in chat to SHOW / HIDE its menu."
+		"challenge_traitors_iaf_scanner2"		"You have a bio-scanner which can tell you who is the trator. Type \"/\" in chat to SHOW / HIDE its menu."
+		//It is intended to use 5ubscr1be  and w○rksh○p to avoid Steam's checks on harmful texts or links. The checks is also target non-English languages. 
+		//Please be aware of that when translating, or you might make add-on updates to be rejected by Steam due to the translations are included in add-on files.
+		"[english]challenge_traitors_iaf_scanner3"		"If you can't see such menu, please 5ubscr1be \"Traitors\" Add-on in w○rksh○p"
+		"challenge_traitors_iaf_scanner3"		"If you can't see such menu, please 5ubscr1be \"Traitors\" Add-on in w○rksh○p"
+		"[english]challenge_traitors_iaf_scanner4"		"You can use console command: bind \"o\" \"say /\" to fast open or close menu. Replace \"o\" with whichever key you like."
+		"challenge_traitors_iaf_scanner4"		"You can use console command: bind \"o\" \"say /\" to fast open or close menu. Replace \"o\" with whichever key you like."
+		//This is used to notify the player which takes a scanner bot.
+		"[english]challenge_traitors_scanner_bot_taken_notify1"		"You have taken an Alien Expert bot in IAF team! Your team objective is to COMPLETE the mission."
+		"challenge_traitors_scanner_bot_taken_notify1"		"You have taken an Alien Expert bot in IAF team! Your team objective is to COMPLETE the mission."
+
+		//These will display on scanner's HUD and only scanner can see them. Please keep HUD messages short.
+		"[english]challenge_traitors_game_instruction_scanner1"		"You are an Alien Expert! Your team objective is to COMPLETE the mission."
+		"challenge_traitors_game_instruction_scanner1"		"You are an Alien Expert! Your team objective is to COMPLETE the mission."
+		"[english]challenge_traitors_game_instruction_scanner2"		"Type \"/\" in chat to SHOW / HIDE your bio-scanner menu."
+		"challenge_traitors_game_instruction_scanner2"		"Type \"/\" in chat to SHOW / HIDE your bio-scanner menu."
+		//This is used to notify the player which takes an IAF bot.
+		"[english]challenge_traitors_scanner_bot_taken_notify2"		"You have taken an Alien Expert bot! Your team objective is to COMPLETE the mission."
+		"challenge_traitors_scanner_bot_taken_notify2"		"You have taken an Alien Expert bot! Your team objective is to COMPLETE the mission."
+
+		//Scanner's VGui menu string. These strings will form two sentences:
+		//If the player can perform a scan, it shows: <menu1> + <menu4>. e.g., "Scan Now!(Red : Traitor Team | Green : IAF Team )"
+		//if the scanner is cooling down, it shows: <menu2> + <remaining time> + <menu3> + <menu4>.  e.g., "Scan will be ready in 20 s. (Red : Traitor Team | Green : IAF Team )"
+		"[english]challenge_traitors_game_instruction_scanner_menu1"		"Scan Now!"
+		"challenge_traitors_game_instruction_scanner_menu1"		"Scan Now!"
+		"[english]challenge_traitors_game_instruction_scanner_menu2"		"Scan will be ready in"
+		"challenge_traitors_game_instruction_scanner_menu2"		"Scan will be ready in"
+		"[english]challenge_traitors_game_instruction_scanner_menu3"		"s."
+		"challenge_traitors_game_instruction_scanner_menu3"		"s."
+		"[english]challenge_traitors_game_instruction_scanner_menu4"		"(Red : Traitor Team | Green : IAF Team)"
+		"challenge_traitors_game_instruction_scanner_menu4"		"(Red : Traitor Team | Green : IAF Team)"
 }
 }

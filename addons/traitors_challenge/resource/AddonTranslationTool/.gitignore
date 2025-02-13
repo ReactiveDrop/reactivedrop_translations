@@ -5,5 +5,5 @@
 /.vs
 /.vscode
 /x64
-/reactivedrop_all.txt
+/*.nut
 /AddonTranslationTool/x64
