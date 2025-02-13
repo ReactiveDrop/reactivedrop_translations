@@ -8945,8 +8945,8 @@
 "rd_collection_inventory_crafting_materials"		"素材"
 "[english]rd_collection_inventory_other"		"Items"
 "rd_collection_inventory_other"		"物品"
-		"[english]rd_collection_inventory_crafting"		"Blueprints"
-		"rd_collection_inventory_crafting"		"Blueprints"
+"[english]rd_collection_inventory_crafting"		"Blueprints"
+"rd_collection_inventory_crafting"		"藍圖"
 "[english]rd_collection_inventory_error_generic"		"Inventory currently unavailable"
 "rd_collection_inventory_error_generic"		"物品欄目前無法使用"
 // k_EResultPending
