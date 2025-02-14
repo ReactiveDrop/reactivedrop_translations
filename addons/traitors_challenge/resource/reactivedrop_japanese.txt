@@ -75,7 +75,7 @@
 "challenge_traitors_iaf_scanner1"		"あなたはIAFチームのエイリアン専門家です！目標はミッションを完了することです。"
 "[english]challenge_traitors_iaf_scanner2"		"You have a bio-scanner which can tell you who is the trator. Type \"/\" in chat to SHOW / HIDE its menu."
 "challenge_traitors_iaf_scanner2"		"あなたは誰が裏切者がなのかわかるスキャナを持っています。「/」とチャットで発言するとメニューの表示・非表示を切り替えられます。"
-//It is intended to use 5ubscr1be  and w○rksh○p to avoid Steam's checks on harmful texts or links. The checks is also target non-English languages.
+//It is intended to use 5ubscr1be  and w○rksh○p to avoid Steam's checks on harmful texts or links. The checks is also target non-English languages. 
 //Please be aware of that when translating, or you might make add-on updates to be rejected by Steam due to the translations are included in add-on files.
 "[english]challenge_traitors_iaf_scanner3"		"If you can't see such menu, please 5ubscr1be \"Traitors\" Add-on in w○rksh○p"
 "challenge_traitors_iaf_scanner3"		"メニューが表示されない場合、「Traitors」のアドオンをワ一クツョップからサ部ス区ラ胃ブしてください。都合により難読表記を使用させていただきます。"
