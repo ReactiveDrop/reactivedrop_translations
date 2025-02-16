@@ -1,0 +1,31 @@
+GAME
+{
+// PDA belongs to Dr. Lin Da Silva
+
+// Inbox
+
+"MailFrom1"	"Från: Jacques Moreau"
+"MailDate1"	"Datum: 02/10/42"
+"MailSubject1"	"Ämne: Re: Överföring av den vetenskapliga personalen"
+"MailBody1A"	"Dr. Da Silva, min forskning kräver av mig att jag bibehåller precision till nära kirurgiska grader. Och med det, ganska passande faktiskt, ordentligt fokus. ‘Riktigt’ som att inte ständigt avbrytas av triviala bekymmer."
+"MailBody1B"	"Även om jag uppskattar den enorma hjälp som era assistenter gett hittills, men den pågående verksamheten - som jag är ansvarig för i kraft av mina tillskrivningar som detta uppdrags chefsforskare - kommer sammanfattningsvis att avsluta om alla äntligen går med på att lämna mig till mitt arbete."
+"MailBody1C"	"Tack"
+
+// Sent
+
+"MailFrom3"	"Till: Jacques Moreau"
+"MailDate3"	"Datum: 02/09/42"
+"MailSubject3"	"Ämne: Överföring av den vetenskapliga personalen"
+"MailBody3A"	"Dr. Moreau,"
+"MailBody3B"	"På din begäran har jag flyttat biologiteamets ansträngningar till allmän forskning; ämnena från vår senaste upptäckt har också överförts till dina personliga laboratorier. Får jag dock fråga dig vad som ligger bakom detta beslut?"
+"MailBody3C"	"Med vänliga hälsningar,"
+"MailBody3D"	"Dr. Lin Da Silva"
+
+"MailFrom4"	"Till: Jacques Moreau"
+"MailDate4"	"Datum: 02/10/42"
+"MailSubject4"	"Ämne: Re: Re: Överföring av den vetenskapliga personalen"
+"MailBody4A"	"Dr. Moreau,"
+"MailBody4B"	"Såklart, jag förstår. Att ifrågasätta dina metoder var inte min avsikt. De ytterligare ämnena kommer att skickas till dig i slutet av veckan. Nam Humanum."
+"MailBody4C"	"Med vänliga hälsningar,"
+"MailBody4D"	"Dr. Lin Da Silva"
+}
