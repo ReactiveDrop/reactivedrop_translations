@@ -3,7 +3,6 @@
 #include <string>
 #include <regex>
 #include <vector>
-#include
 
 using namespace std;
 
@@ -34,13 +33,14 @@ vector<string> languageList = {
 	"thai",
 	"turkish",
 	"ukrainian",
-	"vietnamese" };
+	"vietnamese" 
+};
 
 
 int main()
 {
 	string filePath = "C:\\Users\\ustcy\\Desktop\\reactivedrop_translations\\addons\\traitors_challenge\\resource\\";
-	ofstream outFileStream(filePath + "AddonTranslationTool\\reactivedrop_all.txt");
+	ofstream outFileStream(filePath + "AddonTranslationTool\\translations_all.nut");
 	if (!outFileStream.is_open())
 	{
 		cout << "Error: " << filePath + "reactivedrop_all.txt" << " not found." << endl;
