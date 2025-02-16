@@ -1,0 +1,23 @@
+GAME
+{
+// PDA belongs to Tom Asselin
+
+// Inbox
+
+"MailFrom1"	"Från: Jonathan Dorland"
+"MailDate1"	"Datum: 06/17/42"
+"MailSubject1"	"Ämne: Re: Intresserad?"
+"MailBody1A"	"Nä. Med allt som händer är jag inte på humör. Gå och fånga dina kassakor någon annanstans."
+
+// Sent
+
+"MailFrom3"	"Till: Jonathan Dorland"
+"MailDate3"	"Datum: 06/17/42"
+"MailSubject3"	"Ämne: Intresserad?"
+"MailBody3A"	"Hej. Det verkar som om Carradine har sina killar i koppel, va? Spelkvällarna blir tysta, desto mer utan vår boy-wonder. Vad sägs om att komma tillbaka lite? För gamla tiders skull?"
+
+"MailFrom4"	"Till: Sarah Weiss"
+"MailDate4"	"Datum: 06/17/42"
+"MailSubject4"	"Ämne: På menyn: drinkar + simuleringsmatcher"
+"MailBody4A"	"Oj, Sarah. Jag vet att ni tekniskt sett är begränsade till resten av er vårdnadshavare. Som sagt, vad sägs om sen fredag, Barneys matsal? Eller börjar du äntligen bli trött på att ha din röv slagen hela tiden?"
+}

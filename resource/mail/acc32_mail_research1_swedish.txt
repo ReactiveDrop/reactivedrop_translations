@@ -1,0 +1,12 @@
+GAME
+{
+// Inbox
+
+"MailFrom1"	"Från: Operationsnyheter [Laura]"
+"MailDate1"	"Datum: 10/18/32"
+"MailSubject1"	"Ämne: Forskningsvolym 1"
+"MailBody1A"	"Hej, här är vad vi hittat hittills:"
+"MailBody1B"	"Radioaktivitetsnivåer är inte dödliga även utan våra skyddsdräkter, men det rekommenderas ändå att vi bär dem, bara för att vara helt säkra."
+"MailBody1C"	"Atomstrukturen är mystisk, till och med överjordisk. Den är helt gjord av elektroner... Hur är det möjligt? Det är inte heller logiskt att den har en grön nyans och är genomskinlig... Den här saken skrämmer mig."
+"MailBody1D"	"Laura"
+}

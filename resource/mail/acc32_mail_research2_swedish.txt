@@ -1,0 +1,15 @@
+GAME
+{
+// Inbox
+
+"MailBody1ImageTall" "128"
+"MailBody1ImageWide" "128"
+"MailBody1Image"	"mailpics/mailpic_acc_muongem"
+
+"MailFrom1"	"Från: Operationsnyheter [Laura]"
+"MailDate1"	"Datum: 10/19/32"
+"MailSubject1"	"Ämne: Forskningsvolym 2"
+"MailBody1A"	"Herregud, våra starkare detektorer har identifierat att stenen är gjord av myoner, inte elektroner."
+"MailBody1B"	"Det här är fruktansvärda nyheter, det kan vara mycket mer radioaktivt än vi trodde... Bättre mätare utvecklas nu och vi är alla isolerade tills vi tar reda på om vi är säkra eller inte."
+"MailBody1C"	"Laura"
+}
