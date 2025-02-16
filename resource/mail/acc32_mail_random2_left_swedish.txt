@@ -1,0 +1,10 @@
+GAME
+{
+// Inbox
+
+"MailFrom1"	"Från: Helen Baker"
+"MailDate1"	"Datum: 01/07/31"
+"MailSubject1"	"Ämne: Röruppdatering"
+"MailBody1A"	"Håller er bara uppdaterade om rörkontrollen - jag har inte hittat några administrativa papper på öströret 5B, vilket är lite konstigt. Osäker på vilken funktion den har eller var den leder till. Hur som helst, jag har informerat ingenjörerna om det, de ska ta en titt på det nästa vecka."
+"MailBody1B"	"Ett annat problem är några konstiga ljud som kommer från den vänstra väggen i huvudkorridorentrén."
+}
