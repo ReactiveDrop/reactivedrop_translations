@@ -17,7 +17,7 @@ GAME
 "MailBody1H"	"Terça-feira, 26 de maio:"
 "MailBody1I"	"O paciente escapou. Ele feriu dois médicos. Muitos soldados começaram a procurá-lo. Eles o encontraram à tarde, com corte ocioso e corpo manchado de sangue. Nós trouxemos a sala médica, e o matamos, para realizar mais estudos. Nós precisávamos, scaso contrário, ele teria degenerado."
 "MailBody1J"	""
-"MailBody1K"	"= Cobaia 58: Failhou. ="
+"MailBody1K"	"= Cobaia 58: Falhou. ="
 "MailBody1L"	""
 "MailBody1M"	"Dr. Tom Hinler"
 }
