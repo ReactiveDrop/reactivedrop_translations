@@ -3,6 +3,30 @@
 "Language"		"czech"
 "Tokens"
 {
+
+		//----------Depraceted----------
+		//The original code is a mess and has entensibility issues. Thus I have to refactor it, resulting in the refactoring and reorganizing of this file. Sorry for that.
+		//You don't need to translate this block of texts. 
+		//In case you've already translated. You can copy part of them to the new strings. I can't fix these strings by simply copying and replacing.
+		"[english]challenge_traitors_iaf_objective"		"You are an IAF marine! Your team objective is to COMPLETE the mission."
+		"challenge_traitors_iaf_objective"		"You are an IAF marine! Your team objective is to COMPLETE the mission."
+		"[english]challenge_traitors_traitor_objective"		"You are a TRAITOR! Your team objective is to kill the IAF team with at least 1 traitor alive."
+		"challenge_traitors_traitor_objective"		"You are a TRAITOR! Your team objective is to kill the IAF team with at least 1 traitor alive."
+		"[english]challenge_traitors_iaf_bot_taken_notify1"		"You have taken an IAF bot! Your team objective is to COMPLETE the mission."
+		"challenge_traitors_iaf_bot_taken_notify1"		"You have taken an IAF bot! Your team objective is to COMPLETE the mission."
+		"[english]challenge_traitors_traitor_bot_taken_notify1"		"You have taken a TRAITOR bot! Your team objective is to kill the IAF team with at least 1 traitor alive."
+		"challenge_traitors_traitor_bot_taken_notify1"		"You have taken a TRAITOR bot! Your team objective is to kill the IAF team with at least 1 traitor alive."
+
+		"[english]challenge_traitors_iaf_scanner1"		"You are an Alien Expert in IAF Team! Your team objective is to COMPLETE the mission."
+		"challenge_traitors_iaf_scanner1"		"You are an Alien Expert in IAF Team! Your team objective is to COMPLETE the mission."
+		"[english]challenge_traitors_iaf_scanner2"		"You have a bio-scanner which can tell you who is the trator. Type \"/\" in chat to SHOW / HIDE its menu."
+		"challenge_traitors_iaf_scanner2"		"You have a bio-scanner which can tell you who is the trator. Type \"/\" in chat to SHOW / HIDE its menu."
+		"[english]challenge_traitors_iaf_scanner3"		"If you can't see such menu, please 5ubscr1be \"Traitors\" Add-on in w○rksh○p"
+		"challenge_traitors_iaf_scanner3"		"If you can't see such menu, please 5ubscr1be \"Traitors\" Add-on in w○rksh○p"
+		"[english]challenge_traitors_iaf_scanner4"		"You can use console command: bind \"o\" \"say /\" to fast open or close menu. Replace \"o\" with whichever key you like."
+		"challenge_traitors_iaf_scanner4"		"You can use console command: bind \"o\" \"say /\" to fast open or close menu. Replace \"o\" with whichever key you like."
+		//--------End Deprecated--------
+
 		//These are challenge name and description in add-on info file and show up in challenge selection menu.
 		"[english]challenge_traitors_name"		"Traitors!"
 		"challenge_traitors_name"		"Traitors!"
@@ -18,29 +42,7 @@
 		"[english]challenge_traitors_traitor_surrender"		"Over 2/3 of TRAITOR Team players agree to surrender."
 		"challenge_traitors_traitor_surrender"		"Over 2/3 of TRAITOR Team players agree to surrender."
 
-		"[english]challenge_traitors_iaf_objective"		"You are an IAF marine! Your team objective is to COMPLETE the mission."
-		"challenge_traitors_iaf_objective"		"You are an IAF marine! Your team objective is to COMPLETE the mission."
-		"[english]challenge_traitors_traitor_objective"		"You are a TRAITOR! Your team objective is to kill the IAF team with at least 1 traitor alive."
-		"challenge_traitors_traitor_objective"		"You are a TRAITOR! Your team objective is to kill the IAF team with at least 1 traitor alive."
-
-		//This is used to notify the player which takes an traitor bot.
-		"[english]challenge_traitors_traitor_bot_taken_notify1"		"You have taken a TRAITOR bot! Your team objective is to kill the IAF team with at least 1 traitor alive."
-		"challenge_traitors_traitor_bot_taken_notify1"		"You have taken a TRAITOR bot! Your team objective is to kill the IAF team with at least 1 traitor alive."
-		//This is used to notify all traitors that their teammates have changed.
-		"[english]challenge_traitors_traitor_bot_taken_notify2"		"ATTENTION! A non-traitor player has taken a traitor bot, the traitor name list has changed!"
-		"challenge_traitors_traitor_bot_taken_notify2"		"ATTENTION! A non-traitor player has taken a traitor bot, the traitor name list has changed!"
-		//This is used to notify the player which takes an IAF bot.
-		"[english]challenge_traitors_iaf_bot_taken_notify1"		"You have taken an IAF bot! Your team objective is to COMPLETE the mission."
-		"challenge_traitors_iaf_bot_taken_notify1"		"You have taken an IAF bot! Your team objective is to COMPLETE the mission."
-		//This shows up to a traitor player which tries to take an IAF bot. Other players can't see it
-		"[english]challenge_traitors_iaf_bot_taken_notify2"		"You were killed because you betrayed your team!"
-		"challenge_traitors_iaf_bot_taken_notify2"		"You were killed because you betrayed your team!"
-
-		//This is used to mark a message that only TRAITOR team players can see. For example:
-		//If a traitor <Player A> says something starting with a "/", like"/let's kill Player B first.". Only and all TRAITOR team players will receive the secret message"[TRAITOR]Player A:  /let's kill Player B first.".
-		"[english]challenge_traitors_traitor_message_mark"		"[TRAITOR]"
-		"challenge_traitors_traitor_message_mark"		"[TRAITOR]"
-
+		//----instruction------
 		"[english]challenge_traitors_not_enough_players"		"You need at least 3 players to play."
 		"challenge_traitors_not_enough_players"		"You need at least 3 players to play."
 		"[english]challenge_traitors_game_instruction1"		"IAF team OBJECTIVE: [Complete the mission]"
@@ -56,7 +58,45 @@
 		"challenge_traitors_game_instruction5"		"---Keep an eye on your IME status, or your secret message might be sent to the public."
 		"[english]challenge_traitors_game_instruction6"		"---Traitor Team can send \"/gg\" to initiate a team surrender vote. YES votes > 2/3 means IAF Team wins."
 		"challenge_traitors_game_instruction6"		"---Traitor Team can send \"/gg\" to initiate a team surrender vote. YES votes > 2/3 means IAF Team wins."
+		//It is intended to use 5ubscr1be  and w○rksh○p here to avoid Steam's checks on harmful texts or links. The checks targets all languages. 
+		//Please be aware of the check while translating, otherwise you might make the add-on updates to be rejected by Steam since your translations are included in add-on vpk files.
+		"[english]challenge_traitors_game_instruction7"		"---If you can't see your skill menu after typing \"/\" in chat, please 5ubscr1be \"Traitors\" Add-on in w○rksh○p"
+		"challenge_traitors_game_instruction7"		"---If you can't see your skill menu after typing \"/\" in chat, please 5ubscr1be \"Traitors\" Add-on in w○rksh○p"
+		"[english]challenge_traitors_game_instruction8"		"---You can use console command: bind \"o\" \"say /\" to fast open or close menu. Replace \"o\" with whichever key you like."
+		"challenge_traitors_game_instruction8"		"---You can use console command: bind \"o\" \"say /\" to fast open or close menu. Replace \"o\" with whichever key you like."
 
+		//--------team---------
+		"[english]challenge_traitors_team_name_iaf"		"IAF Team"
+		"challenge_traitors_team_name_iaf"		"IAF Team"
+		"[english]challenge_traitors_team_name_traitor"		"TRAITOR Team"
+		"challenge_traitors_team_name_traitor"		"TRAITOR Team"
+
+		//----team objective---
+		"[english]challenge_traitors_team_objective_long_iaf"		"COMPLETE the mission"
+		"challenge_traitors_team_objective_long_iaf"		"COMPLETE the mission"
+		"[english]challenge_traitors_team_objective_short_iaf"		"COMPLETE the mission"
+		"challenge_traitors_team_objective_short_iaf"		"COMPLETE the mission"
+		"[english]challenge_traitors_team_objective_long_traitor"		"KILL the IAF team with at least 1 traitor alive"
+		"challenge_traitors_team_objective_long_traitor"		"KILL the IAF team with at least 1 traitor alive"
+		"[english]challenge_traitors_team_objective_short_traitor"		"kILL the IAF team"
+		"challenge_traitors_team_objective_short_traitor"		"kILL the IAF team"
+
+		//------chat msg-------
+		"[english]challenge_traitors_chat_on_game_start"		"You are %article% %role% in %team%! Your team objective is to %team_objective_long%."
+		"challenge_traitors_chat_on_game_start"		"You are %article% %role% in %team%! Your team objective is to %team_objective_long%."
+		"[english]challenge_traitors_chat_on_bot_taken"		"You have taken %article% %role% in %team%! Your team objective is to %team_objective_long%."
+		"challenge_traitors_chat_on_bot_taken"		"You have taken %article% %role% in %team%! Your team objective is to %team_objective_long%."
+		"[english]challenge_traitors_chat_skill_instruction"		"Type \"/\" in chat to SHOW / HIDE menu."
+		"challenge_traitors_chat_skill_instruction"		"Type \"/\" in chat to SHOW / HIDE menu."
+
+		//------hud msg--------
+		//Please keep HUD messages as short as possible.
+		"[english]challenge_traitors_hud_on_game_start"		"You are %article% %role%! %team_objective_short% to win."
+		"challenge_traitors_hud_on_game_start"		"You are %article% %role%! %team_objective_short% to win."
+		"[english]challenge_traitors_hud_on_bot_taken"		"You have taken %article% %role% bot! %team_objective_short% to win."
+		"challenge_traitors_hud_on_bot_taken"		"You have taken %article% %role% bot! %team_objective_short% to win."
+		"[english]challenge_traitors_hud_skill_instruction"		"Type \"/\" in chat to SHOW / HIDE menu. See chat message for details."
+		"challenge_traitors_hud_skill_instruction"		"Type \"/\" in chat to SHOW / HIDE menu. See chat message for details."
 		//These will display on traitors' HUD and only traitors can see them. Please keep HUD messages short.
 		"[english]challenge_traitors_game_instruction_traitor1"		"You can send secret messages beginning with \"/\" to teammates."
 		"challenge_traitors_game_instruction_traitor1"		"You can send secret messages beginning with \"/\" to teammates."
@@ -65,45 +105,231 @@
 		"[english]challenge_traitors_game_instruction_traitor3"		"Someone wants to surrender, type \"/gg\" for YES."
 		"challenge_traitors_game_instruction_traitor3"		"Someone wants to surrender, type \"/gg\" for YES."
 
+		//--------misc---------
 		"[english]challenge_traitors_traitor_list"		"TRAITOR name list:"
 		"challenge_traitors_traitor_list"		"TRAITOR name list:"
 		"[english]challenge_traitors_traitor_player_unavailable"		"Corrupted Records"
 		"challenge_traitors_traitor_player_unavailable"		"Corrupted Records"
+		//This is used to mark a message that only TRAITOR team players can see. For example:
+		//If a traitor <Player A> says something starting with a "/", like"/let's kill Player B first.". Only and all TRAITOR team players will receive the secret message"[TRAITOR]Player A:  /let's kill Player B first.".
+		"[english]challenge_traitors_traitor_message_mark"		"[TRAITOR]"
+		"challenge_traitors_traitor_message_mark"		"[TRAITOR]"
+		"[english]challenge_traitors_marine_silenced_notify"		"You are silenced by someone and lose your skill."
+		"challenge_traitors_marine_silenced_notify"		"You are silenced by someone and lose your skill."
+		//Notify All: <PlayerName> is a Deserter!
+		"[english]challenge_traitors_deserter_flee_notify1"		" is a Deserter in IAF Team!"
+		"challenge_traitors_deserter_flee_notify1"		" is a Deserter in IAF Team!"
+		"[english]challenge_traitors_traitor_list_changed"		"ATTENTION! A non-traitor player has taken a traitor bot, the traitor name list has changed!"
+		"challenge_traitors_traitor_list_changed"		"ATTENTION! A non-traitor player has taken a traitor bot, the traitor name list has changed!"
+		"[english]challenge_traitors_iaf_bot_killed_notify"		"You were killed because you betrayed your team!"
+		"challenge_traitors_iaf_bot_killed_notify"		"You were killed because you betrayed your team!"
+		"[english]challenge_traitors_roles_in_this_round"		"Special Roles in this round:"
+		"challenge_traitors_roles_in_this_round"		"Special Roles in this round:"
 
-		//These will display in scanner's chat and only scanner can see them.
-		"[english]challenge_traitors_iaf_scanner1"		"You are an Alien Expert in IAF Team! Your team objective is to COMPLETE the mission."
-		"challenge_traitors_iaf_scanner1"		"You are an Alien Expert in IAF Team! Your team objective is to COMPLETE the mission."
-		"[english]challenge_traitors_iaf_scanner2"		"You have a bio-scanner which can tell you who is the trator. Type \"/\" in chat to SHOW / HIDE its menu."
-		"challenge_traitors_iaf_scanner2"		"You have a bio-scanner which can tell you who is the trator. Type \"/\" in chat to SHOW / HIDE its menu."
-		//It is intended to use 5ubscr1be  and w○rksh○p to avoid Steam's checks on harmful texts or links. The checks is also target non-English languages. 
-		//Please be aware of that when translating, or you might make add-on updates to be rejected by Steam due to the translations are included in add-on files.
-		"[english]challenge_traitors_iaf_scanner3"		"If you can't see such menu, please 5ubscr1be \"Traitors\" Add-on in w○rksh○p"
-		"challenge_traitors_iaf_scanner3"		"If you can't see such menu, please 5ubscr1be \"Traitors\" Add-on in w○rksh○p"
-		"[english]challenge_traitors_iaf_scanner4"		"You can use console command: bind \"o\" \"say /\" to fast open or close menu. Replace \"o\" with whichever key you like."
-		"challenge_traitors_iaf_scanner4"		"You can use console command: bind \"o\" \"say /\" to fast open or close menu. Replace \"o\" with whichever key you like."
-		//This is used to notify the player which takes a scanner bot.
-		"[english]challenge_traitors_scanner_bot_taken_notify1"		"You have taken an Alien Expert bot in IAF team! Your team objective is to COMPLETE the mission."
-		"challenge_traitors_scanner_bot_taken_notify1"		"You have taken an Alien Expert bot in IAF team! Your team objective is to COMPLETE the mission."
+		//------role/vgui------
 
-		//These will display on scanner's HUD and only scanner can see them. Please keep HUD messages short.
-		"[english]challenge_traitors_game_instruction_scanner1"		"You are an Alien Expert! Your team objective is to COMPLETE the mission."
-		"challenge_traitors_game_instruction_scanner1"		"You are an Alien Expert! Your team objective is to COMPLETE the mission."
-		"[english]challenge_traitors_game_instruction_scanner2"		"Type \"/\" in chat to SHOW / HIDE your bio-scanner menu."
-		"challenge_traitors_game_instruction_scanner2"		"Type \"/\" in chat to SHOW / HIDE your bio-scanner menu."
-		//This is used to notify the player which takes an IAF bot.
-		"[english]challenge_traitors_scanner_bot_taken_notify2"		"You have taken an Alien Expert bot! Your team objective is to COMPLETE the mission."
-		"challenge_traitors_scanner_bot_taken_notify2"		"You have taken an Alien Expert bot! Your team objective is to COMPLETE the mission."
+		//iaf
+		"[english]challenge_traitors_role_article_iaf"		"an"
+		"challenge_traitors_role_article_iaf"		"an"
+		"[english]challenge_traitors_role_name_iaf"		"IAF marine"
+		"challenge_traitors_role_name_iaf"		"IAF marine"
+		"[english]challenge_traitors_role_chat_role_description_iaf"		"You don't have any special skill. Try your best to survive. Good luck!"
+		"challenge_traitors_role_chat_role_description_iaf"		"You don't have any special skill. Try your best to survive. Good luck!"
+"[english]challenge_traitors_role_chat_skill_description_iaf"		""
+"challenge_traitors_role_chat_skill_description_iaf"		""
+		"[english]challenge_traitors_role_hud_role_description_iaf"		"Try your best to survive. Good luck!"
+		"challenge_traitors_role_hud_role_description_iaf"		"Try your best to survive. Good luck!"
 
-		//Scanner's VGui menu string. These strings will form two sentences:
+		//scanner
+		"[english]challenge_traitors_role_article_scanner"		"an"
+		"challenge_traitors_role_article_scanner"		"an"
+		"[english]challenge_traitors_role_name_scanner"		"Alien Expert"
+		"challenge_traitors_role_name_scanner"		"Alien Expert"
+		"[english]challenge_traitors_role_chat_role_description_scanner"		"You have a bio-scanner which can tell you who is the trator."
+		"challenge_traitors_role_chat_role_description_scanner"		"You have a bio-scanner which can tell you who is the trator."
+		//Note the SPACE before the placeholder. This sentence is right after the role_description_* sentence. Remove the SPACE if you dont need one between two sentences in your language.
+		"[english]challenge_traitors_role_chat_skill_description_scanner"		" %chat_skill_instruction%"
+		"challenge_traitors_role_chat_skill_description_scanner"		" %chat_skill_instruction%"
+		"[english]challenge_traitors_role_hud_role_description_scanner"		"%hud_skill_instruction%"
+		"challenge_traitors_role_hud_role_description_scanner"		"%hud_skill_instruction%"
+		//VGui menu string. These strings will form two sentences:
 		//If the player can perform a scan, it shows: <menu1> + <menu4>. e.g., "Scan Now!(Red : Traitor Team | Green : IAF Team )"
-		//if the scanner is cooling down, it shows: <menu2> + <remaining time> + <menu3> + <menu4>.  e.g., "Scan will be ready in 20 s. (Red : Traitor Team | Green : IAF Team )"
-		"[english]challenge_traitors_game_instruction_scanner_menu1"		"Scan Now!"
-		"challenge_traitors_game_instruction_scanner_menu1"		"Scan Now!"
-		"[english]challenge_traitors_game_instruction_scanner_menu2"		"Scan will be ready in"
-		"challenge_traitors_game_instruction_scanner_menu2"		"Scan will be ready in"
-		"[english]challenge_traitors_game_instruction_scanner_menu3"		"s."
-		"challenge_traitors_game_instruction_scanner_menu3"		"s."
-		"[english]challenge_traitors_game_instruction_scanner_menu4"		"(Red : Traitor Team | Green : IAF Team)"
-		"challenge_traitors_game_instruction_scanner_menu4"		"(Red : Traitor Team | Green : IAF Team)"
+		//if the scanner is cooling down, it shows: <menu2> + <remaining time> + <menu3> + <menu4>.  e.g., "Scan will be ready in 20s. (Red : Traitor Team | Green : IAF Team )"
+		"[english]challenge_traitors_vgui_menu_scanner_1"		"Scan Now!"
+		"challenge_traitors_vgui_menu_scanner_1"		"Scan Now!"
+		"[english]challenge_traitors_vgui_menu_scanner_2"		"Scan will be ready in "
+		"challenge_traitors_vgui_menu_scanner_2"		"Scan will be ready in "
+		"[english]challenge_traitors_vgui_menu_scanner_3"		"s."
+		"challenge_traitors_vgui_menu_scanner_3"		"s."
+		"[english]challenge_traitors_vgui_menu_scanner_4"		"(Red : Traitor Team | Green : IAF Team)"
+		"challenge_traitors_vgui_menu_scanner_4"		"(Red : Traitor Team | Green : IAF Team)"
+
+		//biochemist
+		"[english]challenge_traitors_role_article_biochemist"		"a"
+		"challenge_traitors_role_article_biochemist"		"a"
+		"[english]challenge_traitors_role_name_biochemist"		"Bio-Chemist"
+		"challenge_traitors_role_name_biochemist"		"Bio-Chemist"
+		"[english]challenge_traitors_role_chat_role_description_biochemist"		"You have two biochemical agents: one can heal any marine except yourself, and the other can kill any marine including yourself."
+		"challenge_traitors_role_chat_role_description_biochemist"		"You have two biochemical agents: one can heal any marine except yourself, and the other can kill any marine including yourself."
+		"[english]challenge_traitors_role_chat_skill_description_biochemist"		" %chat_skill_instruction%"
+		"challenge_traitors_role_chat_skill_description_biochemist"		" %chat_skill_instruction%"
+		"[english]challenge_traitors_role_hud_role_description_biochemist"		"%hud_skill_instruction%"
+		"challenge_traitors_role_hud_role_description_biochemist"		"%hud_skill_instruction%"
+		"[english]challenge_traitors_vgui_menu_biochemist_1"		"LEFT Click to HEAL"
+		"challenge_traitors_vgui_menu_biochemist_1"		"LEFT Click to HEAL"
+		"[english]challenge_traitors_vgui_menu_biochemist_2"		"RIGHT Click to KILL"
+		"challenge_traitors_vgui_menu_biochemist_2"		"RIGHT Click to KILL"
+		"[english]challenge_traitors_vgui_menu_biochemist_3"		"Skill will be ready in "
+		"challenge_traitors_vgui_menu_biochemist_3"		"Skill will be ready in "
+		"[english]challenge_traitors_vgui_menu_biochemist_4"		"s."
+		"challenge_traitors_vgui_menu_biochemist_4"		"s."
+		"[english]challenge_traitors_vgui_menu_biochemist_5"		"You have already used your skill."
+		"challenge_traitors_vgui_menu_biochemist_5"		"You have already used your skill."
+
+		//iaf_leader
+		"[english]challenge_traitors_role_article_iaf_leader"		"a"
+		"challenge_traitors_role_article_iaf_leader"		"a"
+		"[english]challenge_traitors_role_name_iaf_leader"		"Colonel"
+		"challenge_traitors_role_name_iaf_leader"		"Colonel"
+		"[english]challenge_traitors_role_chat_role_description_iaf_leader"		"You have extra hidden HPs."
+		"challenge_traitors_role_chat_role_description_iaf_leader"		"You have extra hidden HPs."
+"[english]challenge_traitors_role_chat_skill_description_iaf_leader"		""
+"challenge_traitors_role_chat_skill_description_iaf_leader"		""
+		"[english]challenge_traitors_role_hud_role_description_iaf_leader"		"You have extra hidden HPs."
+		"challenge_traitors_role_hud_role_description_iaf_leader"		"You have extra hidden HPs."
+
+		//shield
+		"[english]challenge_traitors_role_article_shield"		"a"
+		"challenge_traitors_role_article_shield"		"a"
+		"[english]challenge_traitors_role_name_shield"		"Mechanic"
+		"challenge_traitors_role_name_shield"		"Mechanic"
+		"[english]challenge_traitors_role_chat_role_description_shield"		"You have a mecha which can reduce the damage to a marine. Unfortunately, you have a so big toolbox that it prevents you from using the mecha yourself."
+		"challenge_traitors_role_chat_role_description_shield"		"You have a mecha which can reduce the damage to a marine. Unfortunately, you have a so big toolbox that it prevents you from using the mecha yourself."
+		"[english]challenge_traitors_role_chat_skill_description_shield"		" %chat_skill_instruction%"
+		"challenge_traitors_role_chat_skill_description_shield"		" %chat_skill_instruction%"
+		"[english]challenge_traitors_role_hud_role_description_shield"		"%hud_skill_instruction%"
+		"challenge_traitors_role_hud_role_description_shield"		"%hud_skill_instruction%"
+		"[english]challenge_traitors_vgui_menu_shield_1"		"LEFT Click to give the mecha to the player"
+		"challenge_traitors_vgui_menu_shield_1"		"LEFT Click to give the mecha to the player"
+		"[english]challenge_traitors_vgui_menu_shield_2"		"Skill will be ready in "
+		"challenge_traitors_vgui_menu_shield_2"		"Skill will be ready in "
+		"[english]challenge_traitors_vgui_menu_shield_3"		"s."
+		"challenge_traitors_vgui_menu_shield_3"		"s."
+		"[english]challenge_traitors_vgui_menu_shield_4"		"You have already used your skill."
+		"challenge_traitors_vgui_menu_shield_4"		"You have already used your skill."
+
+		//sniper
+		"[english]challenge_traitors_role_article_sniper"		"a"
+		"challenge_traitors_role_article_sniper"		"a"
+		"[english]challenge_traitors_role_name_sniper"		"Sniper"
+		"challenge_traitors_role_name_sniper"		"Sniper"
+		"[english]challenge_traitors_role_chat_role_description_sniper"		"Your calmness and exceptional shooting skills enable you to take down the killer when you die."
+		"challenge_traitors_role_chat_role_description_sniper"		"Your calmness and exceptional shooting skills enable you to take down the killer when you die."
+"[english]challenge_traitors_role_chat_skill_description_sniper"		""
+"challenge_traitors_role_chat_skill_description_sniper"		""
+		"[english]challenge_traitors_role_hud_role_description_sniper"		"You will take down the one who kills you when you die."
+		"challenge_traitors_role_hud_role_description_sniper"		"You will take down the one who kills you when you die."
+
+		//demo
+		"[english]challenge_traitors_role_article_demo"		"an"
+		"challenge_traitors_role_article_demo"		"an"
+		"[english]challenge_traitors_role_name_demo"		"Explosive Expert"
+		"challenge_traitors_role_name_demo"		"Explosive Expert"
+		"[english]challenge_traitors_role_chat_role_description_demo"		"You brings many explosives to support your team in killing aliens. However, at the moment you are killed by someone, you decide to use the explosives to take down potential traitors around you. Hope you don't kill your team by accident."
+		"challenge_traitors_role_chat_role_description_demo"		"You brings many explosives to support your team in killing aliens. However, at the moment you are killed by someone, you decide to use the explosives to take down potential traitors around you. Hope you don't kill your team by accident."
+"[english]challenge_traitors_role_chat_skill_description_demo"		""
+"challenge_traitors_role_chat_skill_description_demo"		""
+		"[english]challenge_traitors_role_hud_role_description_demo"		"You will explode when you die."
+		"challenge_traitors_role_hud_role_description_demo"		"You will explode when you die."
+
+		//deserter
+		"[english]challenge_traitors_role_article_deserter"		"a"
+		"challenge_traitors_role_article_deserter"		"a"
+		"[english]challenge_traitors_role_name_deserter"		"Deserter"
+		"challenge_traitors_role_name_deserter"		"Deserter"
+		"[english]challenge_traitors_role_chat_role_description_deserter"		"Being a coward, you flee in the battle. You have 30s to run away. During this period, you won't take damage from others and you're also unable to deal damage to others. In the following 90s, your damage dealt to others will be significantly reduced. After that, your damage will increase again, but it will never return to the original value."
+		"challenge_traitors_role_chat_role_description_deserter"		"Being a coward, you flee in the battle. You have 30s to run away. During this period, you won't take damage from others and you're also unable to deal damage to others. In the following 90s, your damage dealt to others will be significantly reduced. After that, your damage will increase again, but it will never return to the original value."
+"[english]challenge_traitors_role_chat_skill_description_deserter"		""
+"challenge_traitors_role_chat_skill_description_deserter"		""
+		"[english]challenge_traitors_role_hud_role_description_deserter"		"See instructions in chat."
+		"challenge_traitors_role_hud_role_description_deserter"		"See instructions in chat."
+
+		//traitor
+		"[english]challenge_traitors_role_article_traitor"		"a"
+		"challenge_traitors_role_article_traitor"		"a"
+		"[english]challenge_traitors_role_name_traitor"		"Traitor"
+		"challenge_traitors_role_name_traitor"		"Traitor"
+		"[english]challenge_traitors_role_chat_role_description_traitor"		"You are infected and dominated by aliens. Aliens want you to sabotage the mission. Don't act rashly. There might be somebone who can see through your disguise."
+		"challenge_traitors_role_chat_role_description_traitor"		"You are infected and dominated by aliens. Aliens want you to sabotage the mission. Don't act rashly. There might be somebone who can see through your disguise."
+"[english]challenge_traitors_role_chat_skill_description_traitor"		""
+"challenge_traitors_role_chat_skill_description_traitor"		""
+		"[english]challenge_traitors_role_hud_role_description_traitor"		"Don't act rashly. Others may see through your disguise."
+		"challenge_traitors_role_hud_role_description_traitor"		"Don't act rashly. Others may see through your disguise."
+
+		//traitor_leader
+		"[english]challenge_traitors_role_article_traitor_leader"		"a"
+		"challenge_traitors_role_article_traitor_leader"		"a"
+		"[english]challenge_traitors_role_name_traitor_leader"		"Traitor Leader"
+		"challenge_traitors_role_name_traitor_leader"		"Traitor Leader"
+		"[english]challenge_traitors_role_chat_role_description_traitor_leader"		"You have extra hidden HPs."
+		"challenge_traitors_role_chat_role_description_traitor_leader"		"You have extra hidden HPs."
+"[english]challenge_traitors_role_chat_skill_description_traitor_leader"		""
+"challenge_traitors_role_chat_skill_description_traitor_leader"		""
+		"[english]challenge_traitors_role_hud_role_description_traitor_leader"		"You have extra hidden HPs."
+		"challenge_traitors_role_hud_role_description_traitor_leader"		"You have extra hidden HPs."
+
+		//infector
+		"[english]challenge_traitors_role_article_infector"		"a"
+		"challenge_traitors_role_article_infector"		"a"
+		"[english]challenge_traitors_role_name_infector"		"Suborner"
+		"challenge_traitors_role_name_infector"		"Suborner"
+		"[english]challenge_traitors_role_chat_role_description_infector"		"When the number of remaining marines in your team is much smaller than that of IAF team, you can abet one marine in IAF team to join your team. Don't try to abet a dead marine."
+		"challenge_traitors_role_chat_role_description_infector"		"When the number of remaining marines in your team is much smaller than that of IAF team, you can abet one marine in IAF team to join your team. Don't try to abet a dead marine."
+		"[english]challenge_traitors_role_chat_skill_description_infector"		"%chat_skill_instruction%"
+		"challenge_traitors_role_chat_skill_description_infector"		"%chat_skill_instruction%"
+		"[english]challenge_traitors_role_hud_role_description_infector"		"%hud_skill_instruction%"
+		"challenge_traitors_role_hud_role_description_infector"		"%hud_skill_instruction%"
+		"[english]challenge_traitors_vgui_menu_infector_1"		"LEFT Click to abet a player"
+		"challenge_traitors_vgui_menu_infector_1"		"LEFT Click to abet a player"
+		"[english]challenge_traitors_vgui_menu_infector_2"		"You can't abet a player right now. See descriptions in chat."
+		"challenge_traitors_vgui_menu_infector_2"		"You can't abet a player right now. See descriptions in chat."
+		"[english]challenge_traitors_vgui_menu_infector_3"		"Skill will be ready in "
+		"challenge_traitors_vgui_menu_infector_3"		"Skill will be ready in "
+		"[english]challenge_traitors_vgui_menu_infector_4"		"s."
+		"challenge_traitors_vgui_menu_infector_4"		"s."
+		"[english]challenge_traitors_vgui_menu_infector_5"		"You have already used your skill."
+		"challenge_traitors_vgui_menu_infector_5"		"You have already used your skill."
+
+		//boomer
+		"[english]challenge_traitors_role_article_boomer"		"a"
+		"challenge_traitors_role_article_boomer"		"a"
+		"[english]challenge_traitors_role_name_boomer"		"Suicide Boomer"
+		"challenge_traitors_role_name_boomer"		"Suicide Boomer"
+		"[english]challenge_traitors_role_chat_role_description_boomer"		"You can perform a suicide attack. The bomb on your body will explod several seconds after you set it. Type \"/\" in chat to ACTIVATE the bomb."
+		"challenge_traitors_role_chat_role_description_boomer"		"You can perform a suicide attack. The bomb on your body will explod several seconds after you set it. Type \"/\" in chat to ACTIVATE the bomb."
+"[english]challenge_traitors_role_chat_skill_description_boomer"		""
+"challenge_traitors_role_chat_skill_description_boomer"		""
+		"[english]challenge_traitors_role_hud_role_description_boomer"		"Type \"/\" in chat to ACTIVATE the bomb."
+		"challenge_traitors_role_hud_role_description_boomer"		"Type \"/\" in chat to ACTIVATE the bomb."
+
+		//silencer
+		"[english]challenge_traitors_role_article_silencer"		"a"
+		"challenge_traitors_role_article_silencer"		"a"
+		"[english]challenge_traitors_role_name_silencer"		"Silencer"
+		"challenge_traitors_role_name_silencer"		"Silencer"
+		"[english]challenge_traitors_role_chat_role_description_silencer"		"You have a very special bio-force field that can suppress someone's special equipment or ability (if they have one)."
+		"challenge_traitors_role_chat_role_description_silencer"		"You have a very special bio-force field that can suppress someone's special equipment or ability (if they have one)."
+		"[english]challenge_traitors_role_chat_skill_description_silencer"		" %chat_skill_instruction%"
+		"challenge_traitors_role_chat_skill_description_silencer"		" %chat_skill_instruction%"
+		"[english]challenge_traitors_role_hud_role_description_silencer"		"%hud_skill_instruction%"
+		"challenge_traitors_role_hud_role_description_silencer"		"%hud_skill_instruction%"
+		"[english]challenge_traitors_vgui_menu_silencer_1"		"LEFT Click to suppress a player's special skill."
+		"challenge_traitors_vgui_menu_silencer_1"		"LEFT Click to suppress a player's special skill."
+		"[english]challenge_traitors_vgui_menu_silencer_2"		"Skill will be ready in "
+		"challenge_traitors_vgui_menu_silencer_2"		"Skill will be ready in "
+		"[english]challenge_traitors_vgui_menu_silencer_3"		"s."
+		"challenge_traitors_vgui_menu_silencer_3"		"s."
+		"[english]challenge_traitors_vgui_menu_silencer_4"		"You have already used your skill."
+		"challenge_traitors_vgui_menu_silencer_4"		"You have already used your skill."
 }
 }
