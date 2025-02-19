@@ -21,10 +21,6 @@
 "challenge_traitors_iaf_scanner1"		"Du är en Alien Expert på IAF-laget! Ditt lagmål är att SLUTFÖRA uppdraget."
 "[english]challenge_traitors_iaf_scanner2"		"You have a bio-scanner which can tell you who is the trator. Type \"/\" in chat to SHOW / HIDE its menu."
 "challenge_traitors_iaf_scanner2"		"Du har en bioscanner som kan berätta vem som är förrädaren. Skriv \"/\" i chatten för att VISA / DÖLJ menun."
-"[english]challenge_traitors_iaf_scanner3"		"If you can't see such menu, please 5ubscr1be \"Traitors\" Add-on in w○rksh○p"
-"challenge_traitors_iaf_scanner3"		"Om du inte kan se menun, abonera på \"Traitors\" tilläget på workshoppen"
-"[english]challenge_traitors_iaf_scanner4"		"You can use console command: bind \"o\" \"say /\" to fast open or close menu. Replace \"o\" with whichever key you like."
-"challenge_traitors_iaf_scanner4"		"Du kan använda konsoll kommandon: bind \"o\" \"say /\" för att snabbt öppna eller stänga menun. Byt ut \"o\" med vilken tangent du vill."
 //--------End Deprecated--------
 
 //These are challenge name and description in add-on info file and show up in challenge selection menu.
@@ -61,9 +57,9 @@
 		//It is intended to use 5ubscr1be  and w○rksh○p here to avoid Steam's checks on harmful texts or links. The checks targets all languages. 
 		//Please be aware of the check while translating, otherwise you might make the add-on updates to be rejected by Steam since your translations are included in add-on vpk files.
 		"[english]challenge_traitors_game_instruction7"		"---If you can't see your skill menu after typing \"/\" in chat, please 5ubscr1be \"Traitors\" Add-on in w○rksh○p"
-		"challenge_traitors_game_instruction7"		"---If you can't see your skill menu after typing \"/\" in chat, please 5ubscr1be \"Traitors\" Add-on in w○rksh○p"
+		"challenge_traitors_game_instruction7"		"Om du inte kan se menun, abonera på \"Traitors\" tilläget på workshoppen"
 		"[english]challenge_traitors_game_instruction8"		"---You can use console command: bind \"o\" \"say /\" to fast open or close menu. Replace \"o\" with whichever key you like."
-		"challenge_traitors_game_instruction8"		"---You can use console command: bind \"o\" \"say /\" to fast open or close menu. Replace \"o\" with whichever key you like."
+		"challenge_traitors_game_instruction8"		"Du kan använda konsoll kommandon: bind \"o\" \"say /\" för att snabbt öppna eller stänga menun. Byt ut \"o\" med vilken tangent du vill."
 
 		//--------team---------
 		"[english]challenge_traitors_team_name_iaf"		"IAF Team"
@@ -119,10 +115,10 @@
 		//Notify All: <PlayerName> is a Deserter!
 		"[english]challenge_traitors_deserter_flee_notify1"		" is a Deserter in IAF Team!"
 		"challenge_traitors_deserter_flee_notify1"		" is a Deserter in IAF Team!"
-		"[english]challenge_traitors_traitor_list_changed"		"ATTENTION! A non-traitor player has taken a traitor bot, the traitor name list has changed!"
-		"challenge_traitors_traitor_list_changed"		"ATTENTION! A non-traitor player has taken a traitor bot, the traitor name list has changed!"
-		"[english]challenge_traitors_iaf_bot_killed_notify"		"You were killed because you betrayed your team!"
-		"challenge_traitors_iaf_bot_killed_notify"		"You were killed because you betrayed your team!"
+"[english]challenge_traitors_traitor_list_changed"		"ATTENTION! A non-traitor player has taken a traitor bot, the traitor name list has changed!"
+"challenge_traitors_traitor_list_changed"		"UPPMÄRKSAMHET! En icke-förrädarspelare har tagit en förrädarbot, förrädar namnlistan har ändrat!"
+"[english]challenge_traitors_iaf_bot_killed_notify"		"You were killed because you betrayed your team!"
+"challenge_traitors_iaf_bot_killed_notify"		"Du är dödad för att du förrådde laget!"
 		"[english]challenge_traitors_roles_in_this_round"		"Special Roles in this round:"
 		"challenge_traitors_roles_in_this_round"		"Special Roles in this round:"
 
@@ -152,17 +148,17 @@
 		"challenge_traitors_role_chat_skill_description_scanner"		" %chat_skill_instruction%"
 		"[english]challenge_traitors_role_hud_role_description_scanner"		"%hud_skill_instruction%"
 		"challenge_traitors_role_hud_role_description_scanner"		"%hud_skill_instruction%"
-		//VGui menu string. These strings will form two sentences:
-		//If the player can perform a scan, it shows: <menu1> + <menu4>. e.g., "Scan Now!(Red : Traitor Team | Green : IAF Team )"
-		//if the scanner is cooling down, it shows: <menu2> + <remaining time> + <menu3> + <menu4>.  e.g., "Scan will be ready in 20s. (Red : Traitor Team | Green : IAF Team )"
-		"[english]challenge_traitors_vgui_menu_scanner_1"		"Scan Now!"
-		"challenge_traitors_vgui_menu_scanner_1"		"Scan Now!"
+//VGui menu string. These strings will form two sentences:
+//If the player can perform a scan, it shows: <menu1> + <menu4>. e.g., "Scan Now!(Red : Traitor Team | Green : IAF Team )"
+//if the scanner is cooling down, it shows: <menu2> + <remaining time> + <menu3> + <menu4>.  e.g., "Scan will be ready in 20s. (Red : Traitor Team | Green : IAF Team )"
+"[english]challenge_traitors_vgui_menu_scanner_1"		"Scan Now!"
+"challenge_traitors_vgui_menu_scanner_1"		"Skanna Nu!"
 		"[english]challenge_traitors_vgui_menu_scanner_2"		"Scan will be ready in "
 		"challenge_traitors_vgui_menu_scanner_2"		"Scan will be ready in "
-		"[english]challenge_traitors_vgui_menu_scanner_3"		"s."
-		"challenge_traitors_vgui_menu_scanner_3"		"s."
-		"[english]challenge_traitors_vgui_menu_scanner_4"		"(Red : Traitor Team | Green : IAF Team)"
-		"challenge_traitors_vgui_menu_scanner_4"		"(Red : Traitor Team | Green : IAF Team)"
+"[english]challenge_traitors_vgui_menu_scanner_3"		"s."
+"challenge_traitors_vgui_menu_scanner_3"		"s."
+"[english]challenge_traitors_vgui_menu_scanner_4"		"(Red : Traitor Team | Green : IAF Team)"
+"challenge_traitors_vgui_menu_scanner_4"		"(Röd : Förrädarlag | Grön : IAF-lag)"
 
 		//biochemist
 		"[english]challenge_traitors_role_article_biochemist"		"a"

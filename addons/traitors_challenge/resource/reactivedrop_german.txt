@@ -21,10 +21,6 @@
 		"challenge_traitors_iaf_scanner1"		"You are an Alien Expert in IAF Team! Your team objective is to COMPLETE the mission."
 		"[english]challenge_traitors_iaf_scanner2"		"You have a bio-scanner which can tell you who is the trator. Type \"/\" in chat to SHOW / HIDE its menu."
 		"challenge_traitors_iaf_scanner2"		"You have a bio-scanner which can tell you who is the trator. Type \"/\" in chat to SHOW / HIDE its menu."
-		"[english]challenge_traitors_iaf_scanner3"		"If you can't see such menu, please 5ubscr1be \"Traitors\" Add-on in w○rksh○p"
-		"challenge_traitors_iaf_scanner3"		"If you can't see such menu, please 5ubscr1be \"Traitors\" Add-on in w○rksh○p"
-		"[english]challenge_traitors_iaf_scanner4"		"You can use console command: bind \"o\" \"say /\" to fast open or close menu. Replace \"o\" with whichever key you like."
-		"challenge_traitors_iaf_scanner4"		"You can use console command: bind \"o\" \"say /\" to fast open or close menu. Replace \"o\" with whichever key you like."
 //--------End Deprecated--------
 
 //These are challenge name and description in add-on info file and show up in challenge selection menu.
@@ -119,10 +115,10 @@
 		//Notify All: <PlayerName> is a Deserter!
 		"[english]challenge_traitors_deserter_flee_notify1"		" is a Deserter in IAF Team!"
 		"challenge_traitors_deserter_flee_notify1"		" is a Deserter in IAF Team!"
-		"[english]challenge_traitors_traitor_list_changed"		"ATTENTION! A non-traitor player has taken a traitor bot, the traitor name list has changed!"
-		"challenge_traitors_traitor_list_changed"		"ATTENTION! A non-traitor player has taken a traitor bot, the traitor name list has changed!"
-		"[english]challenge_traitors_iaf_bot_killed_notify"		"You were killed because you betrayed your team!"
-		"challenge_traitors_iaf_bot_killed_notify"		"You were killed because you betrayed your team!"
+"[english]challenge_traitors_traitor_list_changed"		"ATTENTION! A non-traitor player has taken a traitor bot, the traitor name list has changed!"
+"challenge_traitors_traitor_list_changed"		"ACHTUNG! Ein Spieler, der kein Verräter ist, hat einen Verräter-Bot übernommen, die Liste der Verräternamen hat sich geändert!"
+"[english]challenge_traitors_iaf_bot_killed_notify"		"You were killed because you betrayed your team!"
+"challenge_traitors_iaf_bot_killed_notify"		"Du wurdest getötet, weil du das Team verraten hast!"
 		"[english]challenge_traitors_roles_in_this_round"		"Special Roles in this round:"
 		"challenge_traitors_roles_in_this_round"		"Special Roles in this round:"
 
