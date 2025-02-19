@@ -1,0 +1,19 @@
+GAME
+{
+// Inbox
+
+"MailFrom1"	"Från: Operationsnyheter [Richard]"
+"MailDate1"	"Datum: 11/24/32"
+"MailSubject1"	"Ämne: Lösning"
+"MailBody1A"	"Jag föreslår att vi sakta avgränsar hela anläggningen, med början från söder. Frisk kall luft bör rusa in och göra sitt jobb på ett par dagar. Jag antar att strålningsnivåerna inte kommer att vara för höga i miljön. Vi kunde fortfarande evakuera nära hus för deras säkerhet."
+"MailBody1B"	"Richard"
+
+// Sent
+
+"MailFrom1"	"Till: Richard"
+"MailDate1"	"Datum: 11/24/32"
+"MailSubject1"	"Ämne: Re: Lösning"
+"MailBody1A"	"Du jävla 'recon'?! Är du galen? Vem anställde dig? Förra gången anläggningen inte var instängd var strålningsnivåerna dödliga inom området 15 kilometers radie från laboratoriet. Nu är nivåerna tredubbla eller förmodligen till och med fyrdubbla."
+"MailBody1B"	"Tack för ditt professionella råd sir men nej, vi kommer inte att överväga att döda några människor. Vi kommer att installera interna kylåtgärder."
+"MailBody1C"	"Administration"
+}
