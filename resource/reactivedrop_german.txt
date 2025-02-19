@@ -7519,7 +7519,7 @@
 
 // Bonus Mission 3 strings
 "[english]bon3_blueprint_1_title"		"Find the blueprints"
-"bon3_blueprint_1_title"		"Findet die Blaupausen"
+"bon3_blueprint_1_title"		"Findet die Baupläne"
 
 "[english]bon3_blueprint_2_title"		"Plant explosives on the door"
 "bon3_blueprint_2_title"		"Bringt Sprengstoff an der Tür an"
@@ -8946,7 +8946,7 @@
 "[english]rd_collection_inventory_other"		"Items"
 "rd_collection_inventory_other"		"Gegenstände"
 "[english]rd_collection_inventory_crafting"		"Blueprints"
-"rd_collection_inventory_crafting"		"Blaupausen"
+"rd_collection_inventory_crafting"		"Baupläne"
 "[english]rd_collection_inventory_error_generic"		"Inventory currently unavailable"
 "rd_collection_inventory_error_generic"		"Inventar derzeit nicht verfügbar"
 // k_EResultPending

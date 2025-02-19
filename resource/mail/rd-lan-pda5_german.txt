@@ -8,7 +8,7 @@ GAME
 "MailDate1"	"Datum: 02/28/53"
 "MailSubject1"	"Betreff: Spion gefunden"
 "MailBody1A"	"Windom King war unser Verräter, ich war gezwungen, ihn hinzurichten."
-"MailBody1B"	"Seine Schwarmangriffsgeschichte war ein Ablenkungsmanöver. Er hat seine Tochter und einen Sicherheitsbeamten zum Sprengkopfkomplex geschickt, um unsere Blaupausen zu stehlen."
+"MailBody1B"	"Seine Schwarmangriffsgeschichte war ein Ablenkungsmanöver. Er hat seine Tochter und einen Sicherheitsbeamten zum Sprengkopfkomplex geschickt, um unsere Baupläne zu stehlen."
 "MailBody1C"	"Haltet sie um jeden Preis auf - auch mit ihrem Leben. Das ist ein Befehl."
 "MailBody1D"	"Hauptverwaltungsrat J. Anath"
 }
