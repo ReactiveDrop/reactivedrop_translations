@@ -73,7 +73,7 @@
 //These will display in scanner's chat and only scanner can see them.
 "[english]challenge_traitors_iaf_scanner1"		"You are an Alien Expert in IAF Team! Your team objective is to COMPLETE the mission."
 "challenge_traitors_iaf_scanner1"		"¡Eres un experto en alienígenas de las IAF! Vuestro objetivo es COMPLETAR la misión."
-"[english]challenge_traitors_iaf_scanner2"		"You have a bio-scanner which can tell you who is the trator. Type \"/\" in chat to SHOW / HIDE its menu."
+"[english]challenge_traitors_iaf_scanner2"		"You have a bio-scanner which can tell you who is the traitor. Type \"/\" in chat to SHOW / HIDE its menu."
 "challenge_traitors_iaf_scanner2"		"Tienes un bioescáner que te dice quién es el traidor. Escribe \"/\" en el chat para MOSTRAR/OCULTAR su menú."
 //It is intended to use 5ubscr1be  and w○rksh○p to avoid Steam's checks on harmful texts or links. The checks is also target non-English languages. 
 //Please be aware of that when translating, or you might make add-on updates to be rejected by Steam due to the translations are included in add-on files.
