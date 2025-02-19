@@ -11,7 +11,7 @@
 | [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | 16 | ✔️ | ✔️ | 12 | ✔️ |
 | [Hungarian](#non-curated-languages) | 56 | 138 | 43 | 3253 | 283 | 230 | 1009 | 147 |
 | [Indonesian](#indonesian-indonesia) | 916 | 2004 | 635 | 4219 | 286 | 235 | 1006 | 146 |
-| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | 16 | ✔️ | ✔️ | 12 | ✔️ |
+| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | 16 | ✔️ | ✔️ | 47 | ✔️ |
 | [Korean](#koreana-한국어) | ✔️ | ✔️ | ✔️ | 67 | ✔️ | ✔️ | 17 | 29 |
 | [Norwegian Bokmål](#non-curated-languages) | 74 | 708 | 48 | 3958 | 283 | 230 | 744 | 147 |
@@ -20,7 +20,7 @@
 | [Brazilian Portuguese](#brazilian-português) | 1 | ✔️ | ✔️ | 880 | 25 | 22 | 38 | 3 |
 | [Romanian](#non-curated-languages) | 56 | 1996 | 49 | 3964 | 283 | 230 | 1009 | 147 |
 | [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | 16 | ✔️ | ✔️ | 12 | ✔️ |
-| [European Spanish](#spanish-español-de-españa) | ✔️ | 2004 | ✔️ | 2440 | ✔️ | ✔️ | 97 | 126 |
+| [European Spanish](#spanish-español-de-españa) | ✔️ | 2004 | ✔️ | 2440 | ✔️ | ✔️ | ✔️ | 126 |
 | [Latin American Spanish](#latam-español-latinoamericano) | 1 | 2004 | ✔️ | 4304 | 31 | 23 | 241 | 143 |
 | [Swedish](#swedish-svenska) | ✔️ | ✔️ | ✔️ | 337 | ✔️ | ✔️ | 12 | 81 |
 | [Thai](#non-curated-languages) | 971 | 1993 | 51 | 4500 | 283 | 230 | 773 | 147 |
@@ -740,10 +740,7 @@
 
 </summary>
 
-### Strings
-
-- [addons/traitors_challenge/reactivedrop_italian.txt](addons/traitors_challenge/resource/reactivedrop_italian.txt) has 12 untranslated strings.
-- [reactivedrop_italian.txt](resource/reactivedrop_italian.txt) has 16 untranslated strings.
+✓ Up to date!
 
 </details>
 
@@ -1189,7 +1186,6 @@
 
 ### Strings
 
-- [steam_input_spanish.vdf](community/steam_input/steam_input_spanish.vdf) has 97 untranslated strings.
 - [closecaption_spanish.txt](resource/closecaption_spanish.txt) has 2004 untranslated strings.
 - [reactivedrop_spanish.txt](resource/reactivedrop_spanish.txt) has 2440 untranslated strings.
 
