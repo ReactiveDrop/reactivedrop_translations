@@ -19,7 +19,7 @@
 | [European Portuguese](#portuguese-português-europeu) | 5 | 180 | 33 | 2343 | 263 | 51 | 670 | 142 |
 | [Brazilian Portuguese](#brazilian-português) | 1 | ✔️ | ✔️ | 880 | 25 | 22 | 38 | 3 |
 | [Romanian](#non-curated-languages) | 56 | 1996 | 49 | 3964 | 283 | 230 | 1009 | 147 |
-| [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | 16 | ✔️ | ✔️ | 12 | ✔️ |
+| [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | 1 | ✔️ | ✔️ | ✔️ | ✔️ |
 | [European Spanish](#spanish-español-de-españa) | ✔️ | 2004 | ✔️ | 2195 | ✔️ | ✔️ | ✔️ | 126 |
 | [Latin American Spanish](#latam-español-latinoamericano) | 1 | 2004 | ✔️ | 4304 | 31 | 23 | 241 | 143 |
 | [Swedish](#swedish-svenska) | ✔️ | ✔️ | ✔️ | 321 | ✔️ | ✔️ | ✔️ | 73 |
@@ -1171,8 +1171,7 @@
 
 ### Strings
 
-- [addons/traitors_challenge/reactivedrop_russian.txt](addons/traitors_challenge/resource/reactivedrop_russian.txt) has 12 untranslated strings.
-- [reactivedrop_russian.txt](resource/reactivedrop_russian.txt) has 16 untranslated strings.
+- [reactivedrop_russian.txt](resource/reactivedrop_russian.txt) has 1 untranslated strings.
 
 </details>
 
