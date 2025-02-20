@@ -70,40 +70,40 @@
 "[english]challenge_traitors_traitor_player_unavailable"		"Corrupted Records"
 "challenge_traitors_traitor_player_unavailable"		"손상된 기록"
 
-		//These will display in scanner's chat and only scanner can see them.
-		"[english]challenge_traitors_iaf_scanner1"		"You are an Alien Expert in IAF Team! Your team objective is to COMPLETE the mission."
-		"challenge_traitors_iaf_scanner1"		"You are an Alien Expert in IAF Team! Your team objective is to COMPLETE the mission."
-		"[english]challenge_traitors_iaf_scanner2"		"You have a bio-scanner which can tell you who is the trator. Type \"/\" in chat to SHOW / HIDE its menu."
-		"challenge_traitors_iaf_scanner2"		"You have a bio-scanner which can tell you who is the trator. Type \"/\" in chat to SHOW / HIDE its menu."
-		//It is intended to use 5ubscr1be  and w○rksh○p to avoid Steam's checks on harmful texts or links. The checks is also target non-English languages. 
-		//Please be aware of that when translating, or you might make add-on updates to be rejected by Steam due to the translations are included in add-on files.
-		"[english]challenge_traitors_iaf_scanner3"		"If you can't see such menu, please 5ubscr1be \"Traitors\" Add-on in w○rksh○p"
-		"challenge_traitors_iaf_scanner3"		"If you can't see such menu, please 5ubscr1be \"Traitors\" Add-on in w○rksh○p"
-		"[english]challenge_traitors_iaf_scanner4"		"You can use console command: bind \"o\" \"say /\" to fast open or close menu. Replace \"o\" with whichever key you like."
-		"challenge_traitors_iaf_scanner4"		"You can use console command: bind \"o\" \"say /\" to fast open or close menu. Replace \"o\" with whichever key you like."
-		//This is used to notify the player which takes a scanner bot.
-		"[english]challenge_traitors_scanner_bot_taken_notify1"		"You have taken an Alien Expert bot in IAF team! Your team objective is to COMPLETE the mission."
-		"challenge_traitors_scanner_bot_taken_notify1"		"You have taken an Alien Expert bot in IAF team! Your team objective is to COMPLETE the mission."
+//These will display in scanner's chat and only scanner can see them.
+"[english]challenge_traitors_iaf_scanner1"		"You are an Alien Expert in IAF Team! Your team objective is to COMPLETE the mission."
+"challenge_traitors_iaf_scanner1"		"당신은 외계 전문가입니다! 팀과 함께 임무를 완수하여 승리하십시오."
+"[english]challenge_traitors_iaf_scanner2"		"You have a bio-scanner which can tell you who is the trator. Type \"/\" in chat to SHOW / HIDE its menu."
+"challenge_traitors_iaf_scanner2"		"생체 탐지기를 이용하여 누가 배신자인지 찾아낼 수 있습니다. 대화창에 \"/\" 를 입력하여 메뉴를 표시 / 숨김 할 수 있습니다."
+//It is intended to use 5ubscr1be  and w○rksh○p to avoid Steam's checks on harmful texts or links. The checks is also target non-English languages. 
+//Please be aware of that when translating, or you might make add-on updates to be rejected by Steam due to the translations are included in add-on files.
+"[english]challenge_traitors_iaf_scanner3"		"If you can't see such menu, please 5ubscr1be \"Traitors\" Add-on in w○rksh○p"
+"challenge_traitors_iaf_scanner3"		"메뉴가 보이지 않는다면 창작마당에서 \"Traitors\" 를 구독하세요."
+"[english]challenge_traitors_iaf_scanner4"		"You can use console command: bind \"o\" \"say /\" to fast open or close menu. Replace \"o\" with whichever key you like."
+"challenge_traitors_iaf_scanner4"		"콘솔 창을 열고 bind \"o\" \"say /\" 를 입력하면 메뉴를 빠르게 열고 닫을 수 있습니다. \"o\" 부분을 원하는 키로 변경할 수 있습니다."
+//This is used to notify the player which takes a scanner bot.
+"[english]challenge_traitors_scanner_bot_taken_notify1"		"You have taken an Alien Expert bot in IAF team! Your team objective is to COMPLETE the mission."
+"challenge_traitors_scanner_bot_taken_notify1"		"외계 전문가 봇을 데려왔습니다! 팀과 함께 임무를 완수하여 승리하십시오."
 
-		//These will display on scanner's HUD and only scanner can see them. Please keep HUD messages short.
-		"[english]challenge_traitors_game_instruction_scanner1"		"You are an Alien Expert! Your team objective is to COMPLETE the mission."
-		"challenge_traitors_game_instruction_scanner1"		"You are an Alien Expert! Your team objective is to COMPLETE the mission."
-		"[english]challenge_traitors_game_instruction_scanner2"		"Type \"/\" in chat to SHOW / HIDE your bio-scanner menu."
-		"challenge_traitors_game_instruction_scanner2"		"Type \"/\" in chat to SHOW / HIDE your bio-scanner menu."
-		//This is used to notify the player which takes an IAF bot.
-		"[english]challenge_traitors_scanner_bot_taken_notify2"		"You have taken an Alien Expert bot! Your team objective is to COMPLETE the mission."
-		"challenge_traitors_scanner_bot_taken_notify2"		"You have taken an Alien Expert bot! Your team objective is to COMPLETE the mission."
+//These will display on scanner's HUD and only scanner can see them. Please keep HUD messages short.
+"[english]challenge_traitors_game_instruction_scanner1"		"You are an Alien Expert! Your team objective is to COMPLETE the mission."
+"challenge_traitors_game_instruction_scanner1"		"당신은 외계 전문가입니다! 팀과 함께 임무를 완수하여 승리하십시오."
+"[english]challenge_traitors_game_instruction_scanner2"		"Type \"/\" in chat to SHOW / HIDE your bio-scanner menu."
+"challenge_traitors_game_instruction_scanner2"		"\"/\" 키를 눌러 생체 탐지기 표시 / 숨김 할 수 있습니다."
+//This is used to notify the player which takes an IAF bot.
+"[english]challenge_traitors_scanner_bot_taken_notify2"		"You have taken an Alien Expert bot! Your team objective is to COMPLETE the mission."
+"challenge_traitors_scanner_bot_taken_notify2"		"외계 전문가 봇을 데려왔습니다! 팀과 함께 임무를 완수하여 승리하십시오."
 
-		//Scanner's VGui menu string. These strings will form two sentences:
-		//If the player can perform a scan, it shows: <menu1> + <menu4>. e.g., "Scan Now!(Red : Traitor Team | Green : IAF Team )"
-		//if the scanner is cooling down, it shows: <menu2> + <remaining time> + <menu3> + <menu4>.  e.g., "Scan will be ready in 20 s. (Red : Traitor Team | Green : IAF Team )"
-		"[english]challenge_traitors_game_instruction_scanner_menu1"		"Scan Now!"
-		"challenge_traitors_game_instruction_scanner_menu1"		"Scan Now!"
-		"[english]challenge_traitors_game_instruction_scanner_menu2"		"Scan will be ready in"
-		"challenge_traitors_game_instruction_scanner_menu2"		"Scan will be ready in"
-		"[english]challenge_traitors_game_instruction_scanner_menu3"		"s."
-		"challenge_traitors_game_instruction_scanner_menu3"		"s."
-		"[english]challenge_traitors_game_instruction_scanner_menu4"		"(Red : Traitor Team | Green : IAF Team)"
-		"challenge_traitors_game_instruction_scanner_menu4"		"(Red : Traitor Team | Green : IAF Team)"
+//Scanner's VGui menu string. These strings will form two sentences:
+//If the player can perform a scan, it shows: <menu1> + <menu4>. e.g., "Scan Now!(Red : Traitor Team | Green : IAF Team )"
+//if the scanner is cooling down, it shows: <menu2> + <remaining time> + <menu3> + <menu4>.  e.g., "Scan will be ready in 20 s. (Red : Traitor Team | Green : IAF Team )"
+"[english]challenge_traitors_game_instruction_scanner_menu1"		"Scan Now!"
+"challenge_traitors_game_instruction_scanner_menu1"		"스캔 시작!"
+"[english]challenge_traitors_game_instruction_scanner_menu2"		"Scan will be ready in"
+"challenge_traitors_game_instruction_scanner_menu2"		"재스캔까지"
+"[english]challenge_traitors_game_instruction_scanner_menu3"		"s."
+"challenge_traitors_game_instruction_scanner_menu3"		"초."
+"[english]challenge_traitors_game_instruction_scanner_menu4"		"(Red : Traitor Team | Green : IAF Team)"
+"challenge_traitors_game_instruction_scanner_menu4"		"(적색 : 배신자 팀 | 녹색 : IAF 팀)"
 }
 }
