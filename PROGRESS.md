@@ -8,7 +8,7 @@
 | [Dutch](#non-curated-languages) | 56 | 2004 | 43 | 3253 | 283 | 230 | 830 | 146 |
 | [Finnish](#non-curated-languages) | ✔️ | 2004 | 42 | 3114 | 212 | 170 | 761 | 145 |
 | [French](#french-français) | 32 | 138 | 43 | 2619 | 282 | 230 | 770 | 125 |
-| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | 16 | ✔️ | ✔️ | 99 | ✔️ |
+| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 99 | ✔️ |
 | [Hungarian](#non-curated-languages) | 56 | 138 | 43 | 3253 | 283 | 230 | 1095 | 147 |
 | [Indonesian](#indonesian-indonesia) | 916 | 2004 | 635 | 4219 | 286 | 235 | 1092 | 146 |
 | [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 94 | ✔️ |
@@ -549,7 +549,6 @@
 ### Strings
 
 - [addons/traitors_challenge/reactivedrop_german.txt](addons/traitors_challenge/resource/reactivedrop_german.txt) has 99 untranslated strings.
-- [reactivedrop_german.txt](resource/reactivedrop_german.txt) has 16 untranslated strings.
 
 </details>
 
