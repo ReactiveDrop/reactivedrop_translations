@@ -15,8 +15,8 @@
 "challenge_traitors_traitor_win"		"叛徒 隊伍 獲勝!"
 "[english]challenge_traitors_no_winner"		"All marines have died....There is no winner."
 "challenge_traitors_no_winner"		"所有玩家死亡...沒有人勝利。"
-		"[english]challenge_traitors_traitor_surrender"		"Over 2/3 of TRAITOR Team players agree to surrender."
-		"challenge_traitors_traitor_surrender"		"Over 2/3 of TRAITOR Team players agree to surrender."
+"[english]challenge_traitors_traitor_surrender"		"Over 2/3 of TRAITOR Team players agree to surrender."
+"challenge_traitors_traitor_surrender"		"叛徒隊伍超過2/3的玩家同意投降。"
 
 "[english]challenge_traitors_iaf_objective"		"You are an IAF marine! Your team objective is to COMPLETE the mission."
 "challenge_traitors_iaf_objective"		"你是一名 IAF 隊員! 你的隊伍目標是完成任務。"
@@ -54,56 +54,56 @@
 //IME: Input Method Editors
 "[english]challenge_traitors_game_instruction5"		"---Keep an eye on your IME status, or your secret message might be sent to the public."
 "challenge_traitors_game_instruction5"		"---注意你的IME狀態， 否則你的隱密對話會被其他人看到。"
-		"[english]challenge_traitors_game_instruction6"		"---Traitor Team can send \"/gg\" to initiate a team surrender vote. YES votes > 2/3 means IAF Team wins."
-		"challenge_traitors_game_instruction6"		"---Traitor Team can send \"/gg\" to initiate a team surrender vote. YES votes > 2/3 means IAF Team wins."
+"[english]challenge_traitors_game_instruction6"		"---Traitor Team can send \"/gg\" to initiate a team surrender vote. YES votes > 2/3 means IAF Team wins."
+"challenge_traitors_game_instruction6"		"---叛徒隊伍可以透過輸入 \"/gg\" 來開始隊伍投降投票。 同意票大於 2/3 將會代表IAF隊伍的勝利。"
 
-		//These will display on traitors' HUD and only traitors can see them. Please keep HUD messages short.
-		"[english]challenge_traitors_game_instruction_traitor1"		"You can send secret messages beginning with \"/\" to teammates."
-		"challenge_traitors_game_instruction_traitor1"		"You can send secret messages beginning with \"/\" to teammates."
-		"[english]challenge_traitors_game_instruction_traitor2"		"You can send \"/gg\" to surrender."
-		"challenge_traitors_game_instruction_traitor2"		"You can send \"/gg\" to surrender."
-		"[english]challenge_traitors_game_instruction_traitor3"		"Someone wants to surrender, type \"/gg\" for YES."
-		"challenge_traitors_game_instruction_traitor3"		"Someone wants to surrender, type \"/gg\" for YES."
+//These will display on traitors' HUD and only traitors can see them. Please keep HUD messages short.
+"[english]challenge_traitors_game_instruction_traitor1"		"You can send secret messages beginning with \"/\" to teammates."
+"challenge_traitors_game_instruction_traitor1"		"你能夠輸入 \"/\" 來對隊友進行密語。"
+"[english]challenge_traitors_game_instruction_traitor2"		"You can send \"/gg\" to surrender."
+"challenge_traitors_game_instruction_traitor2"		"你能夠輸入 \"/gg\" 來進行投降"
+"[english]challenge_traitors_game_instruction_traitor3"		"Someone wants to surrender, type \"/gg\" for YES."
+"challenge_traitors_game_instruction_traitor3"		"有人想要投降，輸入 \"/gg\" 來同意。"
 
 "[english]challenge_traitors_traitor_list"		"TRAITOR name list:"
 "challenge_traitors_traitor_list"		"叛徒名單:"
 "[english]challenge_traitors_traitor_player_unavailable"		"Corrupted Records"
 "challenge_traitors_traitor_player_unavailable"		"損壞紀錄"
 
-		//These will display in scanner's chat and only scanner can see them.
-		"[english]challenge_traitors_iaf_scanner1"		"You are an Alien Expert in IAF Team! Your team objective is to COMPLETE the mission."
-		"challenge_traitors_iaf_scanner1"		"You are an Alien Expert in IAF Team! Your team objective is to COMPLETE the mission."
-		"[english]challenge_traitors_iaf_scanner2"		"You have a bio-scanner which can tell you who is the trator. Type \"/\" in chat to SHOW / HIDE its menu."
-		"challenge_traitors_iaf_scanner2"		"You have a bio-scanner which can tell you who is the trator. Type \"/\" in chat to SHOW / HIDE its menu."
-		//It is intended to use 5ubscr1be  and w○rksh○p to avoid Steam's checks on harmful texts or links. The checks is also target non-English languages. 
-		//Please be aware of that when translating, or you might make add-on updates to be rejected by Steam due to the translations are included in add-on files.
-		"[english]challenge_traitors_iaf_scanner3"		"If you can't see such menu, please 5ubscr1be \"Traitors\" Add-on in w○rksh○p"
-		"challenge_traitors_iaf_scanner3"		"If you can't see such menu, please 5ubscr1be \"Traitors\" Add-on in w○rksh○p"
-		"[english]challenge_traitors_iaf_scanner4"		"You can use console command: bind \"o\" \"say /\" to fast open or close menu. Replace \"o\" with whichever key you like."
-		"challenge_traitors_iaf_scanner4"		"You can use console command: bind \"o\" \"say /\" to fast open or close menu. Replace \"o\" with whichever key you like."
-		//This is used to notify the player which takes a scanner bot.
-		"[english]challenge_traitors_scanner_bot_taken_notify1"		"You have taken an Alien Expert bot in IAF team! Your team objective is to COMPLETE the mission."
-		"challenge_traitors_scanner_bot_taken_notify1"		"You have taken an Alien Expert bot in IAF team! Your team objective is to COMPLETE the mission."
+//These will display in scanner's chat and only scanner can see them.
+"[english]challenge_traitors_iaf_scanner1"		"You are an Alien Expert in IAF Team! Your team objective is to COMPLETE the mission."
+"challenge_traitors_iaf_scanner1"		"你是IAF隊伍的異形專家! 你的隊伍目標是完成任務。"
+"[english]challenge_traitors_iaf_scanner2"		"You have a bio-scanner which can tell you who is the trator. Type \"/\" in chat to SHOW / HIDE its menu."
+"challenge_traitors_iaf_scanner2"		"你擁有能夠判別誰是叛徒的生物探測器。 在聊天窗輸入 \"/\" 來顯示 / 隱藏選單。"
+//It is intended to use 5ubscr1be  and w○rksh○p to avoid Steam's checks on harmful texts or links. The checks is also target non-English languages. 
+//Please be aware of that when translating, or you might make add-on updates to be rejected by Steam due to the translations are included in add-on files.
+"[english]challenge_traitors_iaf_scanner3"		"If you can't see such menu, please 5ubscr1be \"Traitors\" Add-on in w○rksh○p"
+"challenge_traitors_iaf_scanner3"		"如果你無法看到選單，請訂閱工作坊的挑戰 \"Traitors\""
+"[english]challenge_traitors_iaf_scanner4"		"You can use console command: bind \"o\" \"say /\" to fast open or close menu. Replace \"o\" with whichever key you like."
+"challenge_traitors_iaf_scanner4"		"你能夠使用控制台指令: bind \"o\" \"say /\" 來快速開關選單。 可以自行將按鍵 \"o\" 取代成任何你喜歡的按鍵。"
+//This is used to notify the player which takes a scanner bot.
+"[english]challenge_traitors_scanner_bot_taken_notify1"		"You have taken an Alien Expert bot in IAF team! Your team objective is to COMPLETE the mission."
+"challenge_traitors_scanner_bot_taken_notify1"		"你已經取代IAF隊伍的異形專家AI! 你的隊伍目標是完成任務。"
 
-		//These will display on scanner's HUD and only scanner can see them. Please keep HUD messages short.
-		"[english]challenge_traitors_game_instruction_scanner1"		"You are an Alien Expert! Your team objective is to COMPLETE the mission."
-		"challenge_traitors_game_instruction_scanner1"		"You are an Alien Expert! Your team objective is to COMPLETE the mission."
-		"[english]challenge_traitors_game_instruction_scanner2"		"Type \"/\" in chat to SHOW / HIDE your bio-scanner menu."
-		"challenge_traitors_game_instruction_scanner2"		"Type \"/\" in chat to SHOW / HIDE your bio-scanner menu."
-		//This is used to notify the player which takes an IAF bot.
-		"[english]challenge_traitors_scanner_bot_taken_notify2"		"You have taken an Alien Expert bot! Your team objective is to COMPLETE the mission."
-		"challenge_traitors_scanner_bot_taken_notify2"		"You have taken an Alien Expert bot! Your team objective is to COMPLETE the mission."
+//These will display on scanner's HUD and only scanner can see them. Please keep HUD messages short.
+"[english]challenge_traitors_game_instruction_scanner1"		"You are an Alien Expert! Your team objective is to COMPLETE the mission."
+"challenge_traitors_game_instruction_scanner1"		"你是異形專家! 你的隊伍目標是完成任務。"
+"[english]challenge_traitors_game_instruction_scanner2"		"Type \"/\" in chat to SHOW / HIDE your bio-scanner menu."
+"challenge_traitors_game_instruction_scanner2"		"在聊天窗輸入 \"/\" 來顯示 / 隱藏你的生物探測器選單。"
+//This is used to notify the player which takes an IAF bot.
+"[english]challenge_traitors_scanner_bot_taken_notify2"		"You have taken an Alien Expert bot! Your team objective is to COMPLETE the mission."
+"challenge_traitors_scanner_bot_taken_notify2"		"你已經取代了異形專家AI! 你的隊伍目標是完成任務。"
 
-		//Scanner's VGui menu string. These strings will form two sentences:
-		//If the player can perform a scan, it shows: <menu1> + <menu4>. e.g., "Scan Now!(Red : Traitor Team | Green : IAF Team )"
-		//if the scanner is cooling down, it shows: <menu2> + <remaining time> + <menu3> + <menu4>.  e.g., "Scan will be ready in 20 s. (Red : Traitor Team | Green : IAF Team )"
-		"[english]challenge_traitors_game_instruction_scanner_menu1"		"Scan Now!"
-		"challenge_traitors_game_instruction_scanner_menu1"		"Scan Now!"
-		"[english]challenge_traitors_game_instruction_scanner_menu2"		"Scan will be ready in"
-		"challenge_traitors_game_instruction_scanner_menu2"		"Scan will be ready in"
-		"[english]challenge_traitors_game_instruction_scanner_menu3"		"s."
-		"challenge_traitors_game_instruction_scanner_menu3"		"s."
-		"[english]challenge_traitors_game_instruction_scanner_menu4"		"(Red : Traitor Team | Green : IAF Team)"
-		"challenge_traitors_game_instruction_scanner_menu4"		"(Red : Traitor Team | Green : IAF Team)"
+//Scanner's VGui menu string. These strings will form two sentences:
+//If the player can perform a scan, it shows: <menu1> + <menu4>. e.g., "Scan Now!(Red : Traitor Team | Green : IAF Team )"
+//if the scanner is cooling down, it shows: <menu2> + <remaining time> + <menu3> + <menu4>.  e.g., "Scan will be ready in 20 s. (Red : Traitor Team | Green : IAF Team )"
+"[english]challenge_traitors_game_instruction_scanner_menu1"		"Scan Now!"
+"challenge_traitors_game_instruction_scanner_menu1"		"立刻掃描!"
+"[english]challenge_traitors_game_instruction_scanner_menu2"		"Scan will be ready in"
+"challenge_traitors_game_instruction_scanner_menu2"		"掃描冷卻時間"
+"[english]challenge_traitors_game_instruction_scanner_menu3"		"s."
+"challenge_traitors_game_instruction_scanner_menu3"		"秒"
+"[english]challenge_traitors_game_instruction_scanner_menu4"		"(Red : Traitor Team | Green : IAF Team)"
+"challenge_traitors_game_instruction_scanner_menu4"		"(紅色 : 叛徒隊伍 | 綠色 : IAF隊伍)"
 }
 }

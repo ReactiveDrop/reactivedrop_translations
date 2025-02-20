@@ -1,8 +1,8 @@
 # Overview
 | Language | basemodui | closecaption | gameui | reactivedrop | items | statsweb | Strings | Files |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | ✔️ | 16 | ✔️ | ✔️ | ✔️ | ✔️ |
-| [Traditional Chinese](#tchinese-繁體中文) | ✔️ | ✔️ | ✔️ | 111 | 10 | ✔️ | 17 | 126 |
+| [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
+| [Traditional Chinese](#tchinese-繁體中文) | ✔️ | ✔️ | ✔️ | 95 | ✔️ | ✔️ | ✔️ | 126 |
 | [Czech](#czech-čeština) | 76 | 1810 | 43 | 4257 | 283 | 230 | 1014 | 146 |
 | [Danish](#non-curated-languages) | 57 | 231 | 43 | 3784 | 283 | 230 | 744 | 147 |
 | [Dutch](#non-curated-languages) | 56 | 2004 | 43 | 3253 | 283 | 230 | 744 | 146 |
@@ -11,18 +11,18 @@
 | [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | 16 | ✔️ | ✔️ | 12 | ✔️ |
 | [Hungarian](#non-curated-languages) | 56 | 138 | 43 | 3253 | 283 | 230 | 1009 | 147 |
 | [Indonesian](#indonesian-indonesia) | 916 | 2004 | 635 | 4219 | 286 | 235 | 1006 | 146 |
-| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | 16 | ✔️ | ✔️ | 12 | ✔️ |
-| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | 16 | ✔️ | ✔️ | 47 | ✔️ |
-| [Korean](#koreana-한국어) | ✔️ | ✔️ | ✔️ | 83 | ✔️ | ✔️ | 17 | 29 |
+| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
+| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 35 | ✔️ |
+| [Korean](#koreana-한국어) | ✔️ | ✔️ | ✔️ | 67 | ✔️ | ✔️ | 17 | 29 |
 | [Norwegian Bokmål](#non-curated-languages) | 74 | 708 | 48 | 3958 | 283 | 230 | 744 | 147 |
 | [Polish](#polish-polski) | 2 | 2004 | ✔️ | 2897 | 12 | 19 | 171 | 127 |
 | [European Portuguese](#portuguese-português-europeu) | 5 | 180 | 33 | 2343 | 263 | 51 | 670 | 142 |
 | [Brazilian Portuguese](#brazilian-português) | 1 | ✔️ | ✔️ | 880 | 25 | 22 | 38 | 3 |
 | [Romanian](#non-curated-languages) | 56 | 1996 | 49 | 3964 | 283 | 230 | 1009 | 147 |
-| [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | 16 | ✔️ | ✔️ | 12 | ✔️ |
-| [European Spanish](#spanish-español-de-españa) | ✔️ | 2004 | ✔️ | 2440 | ✔️ | ✔️ | 376 | 126 |
+| [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | 1 | ✔️ | ✔️ | ✔️ | ✔️ |
+| [European Spanish](#spanish-español-de-españa) | ✔️ | 2004 | ✔️ | 2195 | ✔️ | ✔️ | ✔️ | 126 |
 | [Latin American Spanish](#latam-español-latinoamericano) | 1 | 2004 | ✔️ | 4304 | 31 | 23 | 241 | 143 |
-| [Swedish](#swedish-svenska) | ✔️ | ✔️ | ✔️ | 337 | ✔️ | ✔️ | 12 | 81 |
+| [Swedish](#swedish-svenska) | ✔️ | ✔️ | ✔️ | 321 | ✔️ | ✔️ | ✔️ | 73 |
 | [Thai](#non-curated-languages) | 971 | 1993 | 51 | 4500 | 283 | 230 | 773 | 147 |
 | [Turkish](#non-curated-languages) | 56 | 137 | 43 | 3253 | 283 | 230 | 1009 | 147 |
 | [Ukrainian](#ukrainian-українська) | 32 | 131 | 33 | 2819 | 283 | 230 | 969 | 147 |
@@ -41,9 +41,7 @@
 
 </summary>
 
-### Strings
-
-- [reactivedrop_schinese.txt](resource/reactivedrop_schinese.txt) has 16 untranslated strings.
+✓ Up to date!
 
 </details>
 
@@ -55,9 +53,7 @@
 
 ### Strings
 
-- [addons/traitors_challenge/reactivedrop_tchinese.txt](addons/traitors_challenge/resource/reactivedrop_tchinese.txt) has 17 untranslated strings.
-- [items_tchinese.vdf](community/inventory_service/items_tchinese.vdf) has 10 untranslated strings.
-- [reactivedrop_tchinese.txt](resource/reactivedrop_tchinese.txt) has 111 untranslated strings.
+- [reactivedrop_tchinese.txt](resource/reactivedrop_tchinese.txt) has 95 untranslated strings.
 
 ### Steam Store and Community
 
@@ -744,10 +740,7 @@
 
 </summary>
 
-### Strings
-
-- [addons/traitors_challenge/reactivedrop_italian.txt](addons/traitors_challenge/resource/reactivedrop_italian.txt) has 12 untranslated strings.
-- [reactivedrop_italian.txt](resource/reactivedrop_italian.txt) has 16 untranslated strings.
+✓ Up to date!
 
 </details>
 
@@ -759,9 +752,7 @@
 
 ### Strings
 
-- [addons/traitors_challenge/reactivedrop_japanese.txt](addons/traitors_challenge/resource/reactivedrop_japanese.txt) has 12 untranslated strings.
 - [platform/vgui_japanese.txt](platform/vgui_japanese.txt) has 35 untranslated strings.
-- [reactivedrop_japanese.txt](resource/reactivedrop_japanese.txt) has 16 untranslated strings.
 
 </details>
 
@@ -775,7 +766,7 @@
 
 - [addons/traitors_challenge/reactivedrop_koreana.txt](addons/traitors_challenge/resource/reactivedrop_koreana.txt) has 12 untranslated strings.
 - [platform/vgui_koreana.txt](platform/vgui_koreana.txt) has 5 untranslated strings.
-- [reactivedrop_koreana.txt](resource/reactivedrop_koreana.txt) has 83 untranslated strings.
+- [reactivedrop_koreana.txt](resource/reactivedrop_koreana.txt) has 67 untranslated strings.
 
 ### Mail and News
 
@@ -1180,8 +1171,7 @@
 
 ### Strings
 
-- [addons/traitors_challenge/reactivedrop_russian.txt](addons/traitors_challenge/resource/reactivedrop_russian.txt) has 12 untranslated strings.
-- [reactivedrop_russian.txt](resource/reactivedrop_russian.txt) has 16 untranslated strings.
+- [reactivedrop_russian.txt](resource/reactivedrop_russian.txt) has 1 untranslated strings.
 
 </details>
 
@@ -1193,11 +1183,8 @@
 
 ### Strings
 
-- [addons/traitors_challenge/reactivedrop_spanish.txt](addons/traitors_challenge/resource/reactivedrop_spanish.txt) has 37 untranslated strings.
-- [steam_input_spanish.vdf](community/steam_input/steam_input_spanish.vdf) has 97 untranslated strings.
 - [closecaption_spanish.txt](resource/closecaption_spanish.txt) has 2004 untranslated strings.
-- [reactivedrop_spanish.txt](resource/reactivedrop_spanish.txt) has 2440 untranslated strings.
-- [valve_spanish.txt](resource/valve_spanish.txt) has 242 untranslated strings.
+- [reactivedrop_spanish.txt](resource/reactivedrop_spanish.txt) has 2195 untranslated strings.
 
 ### Upcoming Release Notes
 
@@ -1517,18 +1504,11 @@
 
 ### Strings
 
-- [addons/traitors_challenge/reactivedrop_swedish.txt](addons/traitors_challenge/resource/reactivedrop_swedish.txt) has 12 untranslated strings.
-- [reactivedrop_swedish.txt](resource/reactivedrop_swedish.txt) has 337 untranslated strings.
+- [reactivedrop_swedish.txt](resource/reactivedrop_swedish.txt) has 321 untranslated strings.
 
 ### Mail and News
 
 - [mail/acc32_mail_news2_swedish.txt](resource/mail/acc32_mail_news2_english.txt) is missing.
-- [mail/acc32_mail_random2_left_swedish.txt](resource/mail/acc32_mail_random2_left_english.txt) is missing.
-- [mail/acc32_mail_random2_no_swedish.txt](resource/mail/acc32_mail_random2_no_english.txt) is missing.
-- [mail/acc32_mail_random2_right_swedish.txt](resource/mail/acc32_mail_random2_right_english.txt) is missing.
-- [mail/acc32_mail_research1_swedish.txt](resource/mail/acc32_mail_research1_english.txt) is missing.
-- [mail/acc32_mail_research2_swedish.txt](resource/mail/acc32_mail_research2_english.txt) is missing.
-- [mail/acc32_mail_solution_swedish.txt](resource/mail/acc32_mail_solution_english.txt) is missing.
 - [mail/acc_power1_swedish.txt](resource/mail/acc_power1_english.txt) is missing.
 - [mail/acc_power2_swedish.txt](resource/mail/acc_power2_english.txt) is missing.
 - [mail/acc_power3_swedish.txt](resource/mail/acc_power3_english.txt) is missing.
@@ -1553,9 +1533,7 @@
 - [mail/nh_pda_francesiriac_swedish.txt](resource/mail/nh_pda_francesiriac_english.txt) is missing.
 - [mail/nh_pda_jacquesmoreau_swedish.txt](resource/mail/nh_pda_jacquesmoreau_english.txt) is missing.
 - [mail/nh_pda_jonathandorland_swedish.txt](resource/mail/nh_pda_jonathandorland_english.txt) is missing.
-- [mail/nh_pda_lindasilva_swedish.txt](resource/mail/nh_pda_lindasilva_english.txt) is missing.
 - [mail/nh_pda_sarahweiss_swedish.txt](resource/mail/nh_pda_sarahweiss_english.txt) is missing.
-- [mail/nh_pda_tomasselin_swedish.txt](resource/mail/nh_pda_tomasselin_english.txt) is missing.
 - [mail/nh_pda_yannmontgomery_swedish.txt](resource/mail/nh_pda_yannmontgomery_english.txt) is missing.
 - [mail/officemail2_swedish.txt](resource/mail/officemail2_english.txt) is missing.
 - [mail/officemail3_swedish.txt](resource/mail/officemail3_english.txt) is missing.
