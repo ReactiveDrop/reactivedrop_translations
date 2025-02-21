@@ -570,7 +570,7 @@
 "L4D360UI_MainMenu_FriendsPlaying"		"Amis en jeu : %s1"
 "[english]L4D360UI_MainMenu_PublicLobbies"		"Public Lobbies: %s1"
 "L4D360UI_MainMenu_PublicLobbies"		"Lobbies Publics: %s1"
-		// %s1 is the number of public user-hosted lobbies with at least one empty slot. displays in the scrolling server list on the main menu.
+// %s1 is the number of public user-hosted lobbies with at least one empty slot. displays in the scrolling server list on the main menu.
 "[english]L4D360UI_MainMenu_PublicLobbies_More"		"...and %s1 more!"
 "L4D360UI_MainMenu_PublicLobbies_More"		"...et %s1 de plus!"
 "[english]L4D360UI_MainMenu_SteamGroupServers"		"Steam Group Servers: %s1"
@@ -2720,7 +2720,7 @@
 "[english]L4D_Credits_FacesThanks"		"Thanks to the following for the use of their faces:"
 "L4D_Credits_FacesThanks"		"Merci pour l'utilisation de leurs visages:"
 
-		// Alien Swarm strings
+// Alien Swarm strings
 
 "[english]L4D360UI_Not_Joinable_Mod"		"Playing Version: %s1"
 "L4D360UI_Not_Joinable_Mod"		"Version en Cours: %s1"
@@ -2862,7 +2862,7 @@
 "[english]L4D360UI_FoundPublicGames_Filter_Distance_Worldwide"		"Galaxy"
 "L4D360UI_FoundPublicGames_Filter_Distance_Worldwide"		"Galaxie"
 
-		// Reactive Drop strings
+// Reactive Drop strings
 
 "[english]RDUI_SteamOverlay_Title"		"Steam Overlay In-Game"
 "RDUI_SteamOverlay_Title"		"Steam Overlay Pendant le Jeu"
