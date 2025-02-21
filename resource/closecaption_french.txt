@@ -6633,7 +6633,7 @@
 "[english]ASWCountdown.Countdown10"		"<clr:238,0,0><B>BASE COMPUTER:<B> Nuclear detonation in 10 seconds."
 "ASWCountdown.Countdown10"		"<clr:238,0,0><B>ORDINATEUR DE LA BASE:<B> Explosion nucléaire dans 10 secondes."
 
-		// Deathmatch
+// Deathmatch
 "[english]DM.one_frag_left"		"<clr:238,0,0><B>ANNOUNCER:<B> One frag left."
 "DM.one_frag_left"		"<clr:238,0,0><B>ANNOUNCER:<B> Un frag restant."
 "[english]DM.two_frags_left"		"<clr:238,0,0><B>ANNOUNCER:<B> Two frags left."
@@ -6658,7 +6658,7 @@
 "[english]DM.godlike"		"<clr:238,0,0><B>ANNOUNCER:<B> GODLIKE!"
 "DM.godlike"		"<clr:238,0,0><B>ANNOUNCER:<B> DIVIN!"
 
-		// Tears for Tarnor
+// Tears for Tarnor
 
 "[english]tarnor.train_approaching"		"<clr:158,120,60><B>Station Announcement:<B> Next train is now approaching. Please stand clear of the platform edge."
 "tarnor.train_approaching"		"<clr:158,120,60><B>Annonce de Gare:<B> Le prochain train est en arrivée. Eloignez-vous du bord du quai."
