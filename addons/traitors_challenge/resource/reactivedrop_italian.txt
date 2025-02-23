@@ -124,7 +124,7 @@
 
 //------role/vgui------
 
-		//iaf
+//iaf
 "[english]challenge_traitors_role_article_iaf"		"an"
 "challenge_traitors_role_article_iaf"		"un"
 "[english]challenge_traitors_role_name_iaf"		"IAF marine"
