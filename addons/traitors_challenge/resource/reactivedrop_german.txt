@@ -81,7 +81,7 @@
 "[english]challenge_traitors_chat_on_game_start"		"You are %article% %role% in %team%! Your team objective is to %team_objective_long%."
 "challenge_traitors_chat_on_game_start"		"Du bist %article% %role% im %team%! Teamziel: %team_objective_long%"
 "[english]challenge_traitors_chat_on_bot_taken"		"You have taken %article% %role% in %team%! Your team objective is to %team_objective_long%"
-"challenge_traitors_chat_on_bot_taken"		"Du bist %article% %role% im %team%! Teamziel: %team_objective_long%"
+"challenge_traitors_chat_on_bot_taken"		"Du bist jetzt %article% %role% im %team%! Teamziel: %team_objective_long%"
 "[english]challenge_traitors_chat_skill_instruction"		"Type \"/\" in chat to SHOW / HIDE menu"
 "challenge_traitors_chat_skill_instruction"		"Tippe \"/\" im Chat ein, um das Menü EIN-/auszublenden"
 
