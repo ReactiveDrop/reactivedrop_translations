@@ -118,7 +118,7 @@
 "[english]challenge_traitors_traitor_list_changed"		"ATTENTION! A non-traitor player has taken a traitor bot, the traitor name list has changed!"
 "challenge_traitors_traitor_list_changed"		"ACHTUNG! Ein Spieler, der kein Verräter ist, hat einen Verräter-Bot übernommen, die Liste der Verräternamen hat sich geändert!"
 "[english]challenge_traitors_iaf_bot_killed_notify"		"Executed for betrayal!"
-"challenge_traitors_iaf_bot_killed_notify"		"Du wurdest getötet, weil du das Team verraten hast!"
+"challenge_traitors_iaf_bot_killed_notify"		"Hingerichtet wegen Verrats!"
 "[english]challenge_traitors_roles_in_this_round"		"Special Roles in this round:"
 "challenge_traitors_roles_in_this_round"		"Besondere Rollen in dieser Runde:"
 
