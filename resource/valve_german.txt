@@ -352,7 +352,7 @@
 "[english]Valve_Hint_HEVcharger"		"%+use% HOLD DOWN TO CHARGE SUIT"
 "Valve_Hint_HEVcharger"		"%+use% GEDRÜCKT HALTEN UM ANZUG ZU LADEN"
 "[english]Valve_Hint_AirboatGun"		"%+attack% FIRE AIRBOAT GUN"
-"Valve_Hint_AirboatGun"		"%+attack% SCHIESSEN LUFTBOOT KANONE"
+"Valve_Hint_AirboatGun"		"%+attack% LUFTBOOT KANONE ABFEUERN"
 "[english]Valve_Hint_AmmoCrate"		"%+use% GET AMMO FROM CRATE"
 "Valve_Hint_AmmoCrate"		"%+use% NIMM MUNTION VON KISTE"
 "[english]Valve_Hint_USEPickup"		"%+use% PICKUP OBJECT"
