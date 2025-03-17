@@ -180,7 +180,7 @@
 "[english]asw_weather_weather"		"Current Weather:"
 "asw_weather_weather"		"目前天氣狀況："
 "[english]asw_weather_temp_r"		"%s1 Kelvin"
-"asw_weather_temp_r"		"%s1 克爾文"
+"asw_weather_temp_r"		"%s1 克耳文"
 "[english]asw_weather_wind_r"		"%s1 m/s"
 "asw_weather_wind_r"		"%s1 米/秒"
 "[english]asw_weather_pressure_r"		"%s1 hPa"
