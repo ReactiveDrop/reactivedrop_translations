@@ -88,9 +88,9 @@
 "[english]asw_SynTekTurret3"		"Turret 3"
 "asw_SynTekTurret3"		"槍塔 3"
 "[english]asw_turret_text_top_left"		"COLONY SECURITY SYSTEM\nRUNNING OVERRIDE CODE ALPHA 5/34\n\nINTERNAL TURRET SYSTEMS CHECK\n0X83 0x32 0x17 0x02 0x82\n0x18 0x53 0x5A 0x70 0x12\n\nTARGET SAFETY CHECK:\nDISABLED"
-"asw_turret_text_top_left"		"殖民地安全系統\n運行改寫代碼 ALPHA 5/34\n\n內部砲塔系統檢查\n0X83 0x32 0x17 0x02 0x82\n0x18 0x53 0x5A 0x70 0x12\n\n目標安全檢查：\n禁用"
+"asw_turret_text_top_left"		"殖民地防衛系統\n運行改寫代碼 ALPHA 5/34\n\n內部槍塔系統檢查\n0X83 0x32 0x17 0x02 0x82\n0x18 0x53 0x5A 0x70 0x12\n\n對象攻擊確認：\n解禁"
 "[english]asw_turret_text_top_right"		"REMOTE SECURITY SYSTEM V264.3C\n\nPROVIDED BY SYNTEK SECURITY, A\nWHOLLY OWNED SUBSIDIARY OF\nSYNTEK MEGACORPORATION, INC.\n\nTRACKING ACTIVE\nFIRING CHAMBER: OK"
-"asw_turret_text_top_right"		"遠程安全系統V264.3C\n\n由 SYNTEK SECURITY 提供，一個\nSYNTEK 集團公司\n的全資子公司。\n\n追蹤激活\n射擊膛室：準備完畢"
+"asw_turret_text_top_right"		"遠程防衛系統V264.3C\n\n由 SYNTEK SECURITY 提供，一個\nSYNTEK 集團公司\n所完全持有的子公司。\n\n追蹤功能啟動中\n射擊膛室：ok"
 "[english]asw_SynTekMail"		"Mail"
 "asw_SynTekMail"		"郵件"
 "[english]asw_SynTekMailInbox"		"Inbox"
@@ -180,7 +180,7 @@
 "[english]asw_weather_weather"		"Current Weather:"
 "asw_weather_weather"		"目前天氣狀況："
 "[english]asw_weather_temp_r"		"%s1 Kelvin"
-"asw_weather_temp_r"		"%s1 開爾文"
+"asw_weather_temp_r"		"%s1 克耳文"
 "[english]asw_weather_wind_r"		"%s1 m/s"
 "asw_weather_wind_r"		"%s1 米/秒"
 "[english]asw_weather_pressure_r"		"%s1 hPa"
@@ -8986,12 +8986,12 @@
 "rd_inventory_verb_open"		"拆封"
 // %s1 is the style name
 "[english]rd_inventory_verb_style"		"Change Style: %s1"
-"rd_inventory_verb_style"		"改變種類: %s1"
+"rd_inventory_verb_style"		"變更種類: %s1"
 "[english]rd_inventory_verb_style_current"		"Current Style: %s1"
 "rd_inventory_verb_style_current"		"目前種類: %s1"
-		// option is always disabled
-		"[english]rd_inventory_verb_style_locked"		"Change Style: %s1 (Locked)"
-		"rd_inventory_verb_style_locked"		"Change Style: %s1 (Locked)"
+// option is always disabled
+"[english]rd_inventory_verb_style_locked"		"Change Style: %s1 (Locked)"
+"rd_inventory_verb_style_locked"		"變更種類: %s1 (鎖定)"
 // checkbox: force "Assault Rifle" to still appear even if "Strange Assault Rifle" is in the list.
 "[english]rd_inventory_show_basic"		"Show all basic items"
 "rd_inventory_show_basic"		"顯示所有基礎道具"
@@ -9005,11 +9005,11 @@
 // 3 = k_EResultNoConnection
 "[english]rd_inventory_item_action_failed_3_desc"		"The requested inventory item action failed because the connection to Steam was lost."
 "rd_inventory_item_action_failed_3_desc"		"所請求的道具互動行為因為和Steam失去連線而失敗。"
-		// item name is shown as the title of this confirmation screen
-		"[english]rd_inventory_delete_confirm_desc"		"Are you sure you want to permanently destroy this item? It cannot be recovered."
-		"rd_inventory_delete_confirm_desc"		"Are you sure you want to permanently destroy this item? It cannot be recovered."
-		"[english]rd_inventory_delete_stack_confirm_desc"		"Are you sure you want to permanently destroy these %s1 items? They cannot be recovered."
-		"rd_inventory_delete_stack_confirm_desc"		"Are you sure you want to permanently destroy these %s1 items? They cannot be recovered."
+// item name is shown as the title of this confirmation screen
+"[english]rd_inventory_delete_confirm_desc"		"Are you sure you want to permanently destroy this item? It cannot be recovered."
+"rd_inventory_delete_confirm_desc"		"你確定要永久刪除這項道具? 這項決定將無法撤回。"
+"[english]rd_inventory_delete_stack_confirm_desc"		"Are you sure you want to permanently destroy these %s1 items? They cannot be recovered."
+"rd_inventory_delete_stack_confirm_desc"		"你確定要永久刪除這些 %s1 道具? 這項決定將無法撤回。"
 "[english]rd_loadout_new"		"Create Loadout"
 "rd_loadout_new"		"建立裝備套組"
 "[english]rd_loadout_save"		"Copy From Current"
