@@ -7,11 +7,11 @@
 | [Danish](#non-curated-languages) | 57 | 231 | 43 | 3784 | 283 | 230 | 830 | 147 |
 | [Dutch](#non-curated-languages) | 56 | 2004 | 43 | 3253 | 283 | 230 | 830 | 146 |
 | [Finnish](#non-curated-languages) | ✔️ | 2004 | 42 | 3114 | 212 | 170 | 761 | 145 |
-| [French](#french-français) | 32 | 138 | 43 | 2619 | 282 | 230 | 770 | 125 |
-| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 99 | ✔️ |
+| [French](#french-français) | 2 | 103 | 43 | 2398 | 282 | 230 | 770 | 125 |
+| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Hungarian](#non-curated-languages) | 56 | 138 | 43 | 3253 | 283 | 230 | 1095 | 147 |
 | [Indonesian](#indonesian-indonesia) | 916 | 2004 | 635 | 4219 | 286 | 235 | 1092 | 146 |
-| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 94 | ✔️ |
+| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 129 | ✔️ |
 | [Korean](#koreana-한국어) | ✔️ | ✔️ | ✔️ | 67 | ✔️ | ✔️ | 104 | 29 |
 | [Norwegian Bokmål](#non-curated-languages) | 74 | 708 | 48 | 3958 | 283 | 230 | 830 | 147 |
@@ -20,9 +20,9 @@
 | [Brazilian Portuguese](#brazilian-português) | 1 | ✔️ | ✔️ | 880 | 25 | 22 | 124 | 3 |
 | [Romanian](#non-curated-languages) | 56 | 1996 | 49 | 3964 | 283 | 230 | 1095 | 147 |
 | [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | 1 | ✔️ | ✔️ | 94 | ✔️ |
-| [European Spanish](#spanish-español-de-españa) | ✔️ | 2004 | ✔️ | 2195 | ✔️ | ✔️ | 94 | 126 |
+| [European Spanish](#spanish-español-de-españa) | ✔️ | 2004 | ✔️ | 1915 | ✔️ | ✔️ | 94 | 126 |
 | [Latin American Spanish](#latam-español-latinoamericano) | 1 | 2004 | ✔️ | 4304 | 31 | 23 | 327 | 143 |
-| [Swedish](#swedish-svenska) | ✔️ | ✔️ | ✔️ | 321 | ✔️ | ✔️ | 94 | 73 |
+| [Swedish](#swedish-svenska) | ✔️ | ✔️ | ✔️ | 302 | ✔️ | ✔️ | ✔️ | 73 |
 | [Thai](#non-curated-languages) | 971 | 1993 | 51 | 4500 | 283 | 230 | 859 | 147 |
 | [Turkish](#non-curated-languages) | 56 | 137 | 43 | 3253 | 283 | 230 | 1095 | 147 |
 | [Ukrainian](#ukrainian-українська) | 32 | 131 | 33 | 2819 | 283 | 230 | 1055 | 147 |
@@ -395,10 +395,10 @@
 - [misc/signage/signage_french.vdf](misc/signage/signage_french.vdf) has 69 untranslated strings.
 - [platform/servers/serverbrowser_french.txt](platform/servers/serverbrowser_french.txt) has 24 untranslated strings.
 - [platform/vgui_french.txt](platform/vgui_french.txt) has 93 untranslated strings.
-- [basemodui_french.txt](resource/basemodui_french.txt) has 32 untranslated strings.
-- [closecaption_french.txt](resource/closecaption_french.txt) has 138 untranslated strings.
+- [basemodui_french.txt](resource/basemodui_french.txt) has 2 untranslated strings.
+- [closecaption_french.txt](resource/closecaption_french.txt) has 103 untranslated strings.
 - [gameui_french.txt](resource/gameui_french.txt) has 43 untranslated strings.
-- [reactivedrop_french.txt](resource/reactivedrop_french.txt) has 2619 untranslated strings.
+- [reactivedrop_french.txt](resource/reactivedrop_french.txt) has 2398 untranslated strings.
 - [valve_french.txt](resource/valve_french.txt) has 202 untranslated strings.
 
 ### Steam Store and Community
@@ -546,9 +546,7 @@
 
 </summary>
 
-### Strings
-
-- [addons/traitors_challenge/reactivedrop_german.txt](addons/traitors_challenge/resource/reactivedrop_german.txt) has 99 untranslated strings.
+✓ Up to date!
 
 </details>
 
@@ -740,9 +738,7 @@
 
 </summary>
 
-### Strings
-
-- [addons/traitors_challenge/reactivedrop_italian.txt](addons/traitors_challenge/resource/reactivedrop_italian.txt) has 94 untranslated strings.
+✓ Up to date!
 
 </details>
 
@@ -1189,7 +1185,7 @@
 
 - [addons/traitors_challenge/reactivedrop_spanish.txt](addons/traitors_challenge/resource/reactivedrop_spanish.txt) has 94 untranslated strings.
 - [closecaption_spanish.txt](resource/closecaption_spanish.txt) has 2004 untranslated strings.
-- [reactivedrop_spanish.txt](resource/reactivedrop_spanish.txt) has 2195 untranslated strings.
+- [reactivedrop_spanish.txt](resource/reactivedrop_spanish.txt) has 1915 untranslated strings.
 
 ### Upcoming Release Notes
 
@@ -1509,8 +1505,7 @@
 
 ### Strings
 
-- [addons/traitors_challenge/reactivedrop_swedish.txt](addons/traitors_challenge/resource/reactivedrop_swedish.txt) has 94 untranslated strings.
-- [reactivedrop_swedish.txt](resource/reactivedrop_swedish.txt) has 321 untranslated strings.
+- [reactivedrop_swedish.txt](resource/reactivedrop_swedish.txt) has 302 untranslated strings.
 
 ### Mail and News
 
