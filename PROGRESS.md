@@ -2,18 +2,18 @@
 | Language | basemodui | closecaption | gameui | reactivedrop | items | statsweb | Strings | Files |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 2 | 1 |
-| [Traditional Chinese](#tchinese-繁體中文) | ✔️ | ✔️ | ✔️ | 92 | ✔️ | ✔️ | 96 | 126 |
+| [Traditional Chinese](#tchinese-繁體中文) | ✔️ | ✔️ | ✔️ | 92 | ✔️ | ✔️ | 94 | 125 |
 | [Czech](#czech-čeština) | 76 | 1810 | 43 | 4257 | 283 | 230 | 1102 | 146 |
 | [Danish](#non-curated-languages) | 57 | 231 | 43 | 3784 | 283 | 230 | 832 | 147 |
 | [Dutch](#non-curated-languages) | 56 | 2004 | 43 | 3253 | 283 | 230 | 832 | 146 |
 | [Finnish](#non-curated-languages) | ✔️ | 2004 | 42 | 3114 | 212 | 170 | 763 | 145 |
 | [French](#french-français) | 2 | 103 | 43 | 2398 | 282 | 230 | 772 | 125 |
-| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 2 | 1 |
+| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Hungarian](#non-curated-languages) | 56 | 138 | 43 | 3253 | 283 | 230 | 1097 | 147 |
 | [Indonesian](#indonesian-indonesia) | 916 | 2004 | 635 | 4219 | 286 | 235 | 1094 | 147 |
 | [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 2 | 1 |
 | [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 131 | 1 |
-| [Korean](#koreana-한국어) | ✔️ | ✔️ | ✔️ | 67 | ✔️ | ✔️ | 106 | 30 |
+| [Korean](#koreana-한국어) | ✔️ | ✔️ | ✔️ | 67 | ✔️ | ✔️ | 104 | 29 |
 | [Norwegian Bokmål](#non-curated-languages) | 74 | 708 | 48 | 3958 | 283 | 230 | 832 | 147 |
 | [Polish](#polish-polski) | 2 | 2004 | ✔️ | 2897 | 12 | 19 | 259 | 127 |
 | [European Portuguese](#portuguese-português-europeu) | 5 | 180 | 33 | 2343 | 263 | 51 | 758 | 142 |
@@ -60,12 +60,7 @@
 ### Strings
 
 - [addons/traitors_challenge/reactivedrop_tchinese.txt](addons/traitors_challenge/resource/reactivedrop_tchinese.txt) has 94 untranslated strings.
-- [workshop_description_tchinese.vdf](community/workshop/workshop_description_tchinese.vdf) has 2 untranslated strings.
 - [reactivedrop_tchinese.txt](resource/reactivedrop_tchinese.txt) has 92 untranslated strings.
-
-### Upcoming Release Notes
-
-- [20250420_tchinese.xml](release_notes/20250420_english.xml) is missing.
 
 ### Mail and News
 
@@ -553,13 +548,7 @@
 
 </summary>
 
-### Strings
-
-- [workshop_description_german.vdf](community/workshop/workshop_description_german.vdf) has 2 untranslated strings.
-
-### Upcoming Release Notes
-
-- [20250420_german.xml](release_notes/20250420_english.xml) is missing.
+✓ Up to date!
 
 </details>
 
@@ -792,13 +781,8 @@
 ### Strings
 
 - [addons/traitors_challenge/reactivedrop_koreana.txt](addons/traitors_challenge/resource/reactivedrop_koreana.txt) has 99 untranslated strings.
-- [workshop_description_koreana.vdf](community/workshop/workshop_description_koreana.vdf) has 2 untranslated strings.
 - [platform/vgui_koreana.txt](platform/vgui_koreana.txt) has 5 untranslated strings.
 - [reactivedrop_koreana.txt](resource/reactivedrop_koreana.txt) has 67 untranslated strings.
-
-### Upcoming Release Notes
-
-- [20250420_koreana.xml](release_notes/20250420_english.xml) is missing.
 
 ### Mail and News
 
