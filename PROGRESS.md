@@ -12,8 +12,8 @@
 | [Hungarian](#non-curated-languages) | 56 | 138 | 43 | 3253 | 283 | 230 | 1097 | 147 |
 | [Indonesian](#indonesian-indonesia) | 916 | 2004 | 635 | 4219 | 286 | 235 | 1094 | 147 |
 | [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 2 | 1 |
-| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 131 | 1 |
-| [Korean](#koreana-한국어) | ✔️ | ✔️ | ✔️ | 67 | ✔️ | ✔️ | 104 | 29 |
+| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 35 | ✔️ |
+| [Korean](#koreana-한국어) | ✔️ | ✔️ | ✔️ | 64 | ✔️ | ✔️ | 104 | 29 |
 | [Norwegian Bokmål](#non-curated-languages) | 74 | 708 | 48 | 3958 | 283 | 230 | 832 | 147 |
 | [Polish](#polish-polski) | 2 | 2004 | ✔️ | 2897 | 12 | 19 | 259 | 127 |
 | [European Portuguese](#portuguese-português-europeu) | 5 | 180 | 33 | 2343 | 263 | 51 | 758 | 142 |
@@ -756,13 +756,7 @@
 
 ### Strings
 
-- [addons/traitors_challenge/reactivedrop_japanese.txt](addons/traitors_challenge/resource/reactivedrop_japanese.txt) has 94 untranslated strings.
-- [workshop_description_japanese.vdf](community/workshop/workshop_description_japanese.vdf) has 2 untranslated strings.
 - [platform/vgui_japanese.txt](platform/vgui_japanese.txt) has 35 untranslated strings.
-
-### Upcoming Release Notes
-
-- [20250420_japanese.xml](release_notes/20250420_english.xml) is missing.
 
 </details>
 
@@ -776,7 +770,7 @@
 
 - [addons/traitors_challenge/reactivedrop_koreana.txt](addons/traitors_challenge/resource/reactivedrop_koreana.txt) has 99 untranslated strings.
 - [platform/vgui_koreana.txt](platform/vgui_koreana.txt) has 5 untranslated strings.
-- [reactivedrop_koreana.txt](resource/reactivedrop_koreana.txt) has 67 untranslated strings.
+- [reactivedrop_koreana.txt](resource/reactivedrop_koreana.txt) has 64 untranslated strings.
 
 ### Mail and News
 
