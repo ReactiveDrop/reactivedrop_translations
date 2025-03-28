@@ -281,7 +281,7 @@
 "challenge_traitors_role_name_infector"		"勧誘者"
 "[english]challenge_traitors_role_chat_role_description_infector"		"You can convert an IAF member when traitors are outnumbered."
 "challenge_traitors_role_chat_role_description_infector"		"裏切者チームが劣勢の場合、IAFチームを1人裏切者に変えられます。"
-"[english]challenge_traitors_role_chat_skill_description_infector"		" %chat_skill_instruction%"
+"[english]challenge_traitors_role_chat_skill_description_infector"		"%chat_skill_instruction%"
 "challenge_traitors_role_chat_skill_description_infector"		"%chat_skill_instruction%"
 "[english]challenge_traitors_role_hud_role_description_infector"		"%hud_skill_instruction%"
 "challenge_traitors_role_hud_role_description_infector"		"%hud_skill_instruction%"
