@@ -144,10 +144,10 @@
 "[english]challenge_traitors_role_chat_role_description_scanner"		"You have a bio-scanner which can tell you who is the traitor."
 "challenge_traitors_role_chat_role_description_scanner"		"У вас есть биосканер, который может сказать, кто предатель."
 //Note the SPACE before the placeholder. This sentence is right after the role_description_* sentence. Remove the SPACE if you dont need one between two sentences in your language.
-		"[english]challenge_traitors_role_chat_skill_description_scanner"		" %chat_skill_instruction%"
-		"challenge_traitors_role_chat_skill_description_scanner"		" %chat_skill_instruction%"
-		"[english]challenge_traitors_role_hud_role_description_scanner"		"%hud_skill_instruction%"
-		"challenge_traitors_role_hud_role_description_scanner"		"%hud_skill_instruction%"
+"[english]challenge_traitors_role_chat_skill_description_scanner"		" %chat_skill_instruction%"
+"challenge_traitors_role_chat_skill_description_scanner"		" %chat_skill_instruction%"
+"[english]challenge_traitors_role_hud_role_description_scanner"		"%hud_skill_instruction%"
+"challenge_traitors_role_hud_role_description_scanner"		"%hud_skill_instruction%"
 //VGui menu string. These strings will form two sentences:
 //If the player can perform a scan, it shows: <menu1> + <menu4>. e.g., "Scan Now!((Red : Traitor | Green : IAF)|(Red : Traitor | Green : IAF) )"
 //if the scanner is cooling down, it shows: <menu2> + <remaining time> + <menu3> + <menu4>.  e.g., "Scan will be ready in 20s. ((Red : Traitor | Green : IAF)|(Red : Traitor | Green : IAF) )"
