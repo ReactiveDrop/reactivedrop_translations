@@ -1,0 +1,19 @@
+GAME
+{
+// PDA belongs to Charles Rivera
+
+// Inbox
+
+"MailFrom1"	"Från: Laura Callen"
+"MailDate1"	"Datum: 12/23/52"
+"MailSubject1"	"Ämne: E-postöverföring"
+"MailBody1A"	"Mr. Rivera,"
+"MailBody1B"	"Jag frågade dig för två dagar sedan om problemen jag har haft. Du sa att du skulle titta på det. Jag har ännu inte fått en uppdatering. Varför tar det här så lång tid?"
+"MailBody1C"	"L. Callen"
+
+"MailFrom2"	"Från: John Cain"
+"MailDate2"	"Datum: 12/24/52"
+"MailSubject2"	"Ämne: Re: Callen blir misstänksam"
+"MailBody2A"	"Rivera: Ignorera Callen och gå ur hennes väg. Vidarebefordra mig all post hon skickade till IA."
+"MailBody2B"	"Lt. Cain, SynTeks Säkerhet"
+}

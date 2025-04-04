@@ -1,0 +1,31 @@
+GAME
+{
+// PDA belongs to Charles Rivera
+
+// Inbox
+
+"MailFrom1"	"Från: Phil Ryan"
+"MailDate1"	"Datum: 12/20/52"
+"MailSubject1"	"Ämne: Spam!"
+"MailBody1A"	"Mr. Rivera,"
+"MailBody1B"	"Jag tror att jag talar på allas vägnar här. Kan du SNÄLLA göra något åt ​​skräpposten? Uppdatera inkorgsfiltren eller vad som helst, jag antar att du vet bäst, men för guds skull gör något! Ett nickel för varje skit jag har fått den senaste månaden och jag skulle vara redo för livet."
+"MailBody1C"	"Phil Ryan"
+
+"MailFrom2"	"Från: Dr. Miller"
+"MailSubject2"	"Fwd: Ph4rm4 4 U"
+"MailDate2"	"Datum: 12/12/52"
+"MailBody2A"	"Få alla bra saker lagligt över SynNet!!"
+"MailBody2B"	"Isoth4m1ne 23 för endast 99$/paket, all incl."
+"MailBody2C"	"Interstellär frakt tillgänglig."
+"MailBody2D"	"Is0tham1ne 23 kommer få dig att känna dig fräsch, stark och utvilad en hel arbetsdag!! Dina chefer tar det - varför skulle inte du det?"
+
+// Sent
+
+"MailFrom3"	"Till: Phil Ryan"
+"MailDate3"	"Datum: 12/20/52"
+"MailSubject3"	"Ämne: Re: Spam!"
+"MailBody3A"	"Kära Mr,"
+"MailBody3B"	"Tack för ditt mail och ditt intresse för företaget. Vi har noggrant studerat din förfrågan och så snart en av våra agenter är tillgänglig kommer han att tilldelas frågan. Svara inte på det här e-postmeddelandet. Vi kommer att kontakta dig så snart som möjligt."
+"MailBody3C"	"SynTek Förvaltning/Sys. Administration."
+"MailBody3D"	"C. Rivera"
+}
