@@ -19,10 +19,10 @@
 | [European Portuguese](#portuguese-português-europeu) | 5 | 180 | 33 | 2343 | 263 | 51 | 758 | 142 |
 | [Brazilian Portuguese](#brazilian-português) | 1 | ✔️ | ✔️ | 880 | 25 | 22 | 126 | 3 |
 | [Romanian](#non-curated-languages) | 56 | 1996 | 49 | 3964 | 283 | 230 | 1097 | 147 |
-| [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | 1 | ✔️ | ✔️ | 96 | 1 |
+| [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | 1 | ✔️ | ✔️ | 28 | 1 |
 | [European Spanish](#spanish-español-de-españa) | ✔️ | 2004 | ✔️ | 1915 | ✔️ | ✔️ | 96 | 126 |
 | [Latin American Spanish](#latam-español-latinoamericano) | 1 | 2004 | ✔️ | 4304 | 31 | 23 | 329 | 143 |
-| [Swedish](#swedish-svenska) | ✔️ | ✔️ | ✔️ | 302 | ✔️ | ✔️ | ✔️ | 73 |
+| [Swedish](#swedish-svenska) | ✔️ | ✔️ | ✔️ | 269 | ✔️ | ✔️ | ✔️ | 71 |
 | [Thai](#non-curated-languages) | 971 | 1993 | 51 | 4500 | 283 | 230 | 861 | 147 |
 | [Turkish](#non-curated-languages) | 56 | 137 | 43 | 3253 | 283 | 230 | 1097 | 147 |
 | [Ukrainian](#ukrainian-українська) | 32 | 131 | 33 | 2819 | 283 | 230 | 1057 | 147 |
@@ -1177,7 +1177,7 @@
 
 ### Strings
 
-- [addons/traitors_challenge/reactivedrop_russian.txt](addons/traitors_challenge/resource/reactivedrop_russian.txt) has 94 untranslated strings.
+- [addons/traitors_challenge/reactivedrop_russian.txt](addons/traitors_challenge/resource/reactivedrop_russian.txt) has 26 untranslated strings.
 - [workshop_description_russian.vdf](community/workshop/workshop_description_russian.vdf) has 2 untranslated strings.
 - [reactivedrop_russian.txt](resource/reactivedrop_russian.txt) has 1 untranslated strings.
 
@@ -1519,7 +1519,7 @@
 
 ### Strings
 
-- [reactivedrop_swedish.txt](resource/reactivedrop_swedish.txt) has 302 untranslated strings.
+- [reactivedrop_swedish.txt](resource/reactivedrop_swedish.txt) has 269 untranslated strings.
 
 ### Mail and News
 
@@ -1530,8 +1530,6 @@
 - [mail/acc_research2_swedish.txt](resource/mail/acc_research2_english.txt) is missing.
 - [mail/acc_research3_swedish.txt](resource/mail/acc_research3_english.txt) is missing.
 - [mail/labsmail2_swedish.txt](resource/mail/labsmail2_english.txt) is missing.
-- [mail/labsmail3_swedish.txt](resource/mail/labsmail3_english.txt) is missing.
-- [mail/labsmail4_swedish.txt](resource/mail/labsmail4_english.txt) is missing.
 - [mail/minemails1_swedish.txt](resource/mail/minemails1_english.txt) is missing.
 - [mail/minemails3_swedish.txt](resource/mail/minemails3_english.txt) is missing.
 - [mail/nh_officemail1_jacquesmoreau_swedish.txt](resource/mail/nh_officemail1_jacquesmoreau_english.txt) is missing.
