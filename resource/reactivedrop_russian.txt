@@ -8946,8 +8946,8 @@
 "rd_collection_inventory_crafting_materials"		"Материалы"
 "[english]rd_collection_inventory_other"		"Items"
 "rd_collection_inventory_other"		"Предметы"
-		"[english]rd_collection_inventory_crafting"		"Blueprints"
-		"rd_collection_inventory_crafting"		"Blueprints"
+"[english]rd_collection_inventory_crafting"		"Blueprints"
+"rd_collection_inventory_crafting"		"Чертежи"
 "[english]rd_collection_inventory_error_generic"		"Inventory currently unavailable"
 "rd_collection_inventory_error_generic"		"Инвентарь сейчас недоступен"
 // k_EResultPending
