@@ -110,8 +110,8 @@
 //If a traitor <Player A> says something starting with a "/", like"/let's kill Player B first.". Only and all TRAITOR team players will receive the secret message"[TRAITOR]Player A:  /let's kill Player B first.".
 "[english]challenge_traitors_traitor_message_mark"		"[TRAITOR]"
 "challenge_traitors_traitor_message_mark"		"[ПРЕДАТЕЛЯМ]"
-		"[english]challenge_traitors_marine_silenced_notify"		"You are silenced by someone and lose your skill."
-		"challenge_traitors_marine_silenced_notify"		"You are silenced by someone and lose your skill."
+"[english]challenge_traitors_marine_silenced_notify"		"You are silenced by someone and lose your skill."
+"challenge_traitors_marine_silenced_notify"		"Биополе глушителя подавило вашу способность."
 //Notify All: <PlayerName> is a Deserter!
 "[english]challenge_traitors_deserter_flee_notify1"		" is a Deserter in IAF Team!"
 "challenge_traitors_deserter_flee_notify1"		" - дезертир в команде МВС!"
@@ -122,11 +122,11 @@
 "[english]challenge_traitors_roles_in_this_round"		"Special Roles in this round:"
 "challenge_traitors_roles_in_this_round"		"Специальная роль в этом раунде:"
 
-		//------role/vgui------
+//------role/vgui------
 
-		//iaf
-		"[english]challenge_traitors_role_article_iaf"		"an"
-		"challenge_traitors_role_article_iaf"		"an"
+//iaf
+"[english]challenge_traitors_role_article_iaf"		"an"
+"challenge_traitors_role_article_iaf"		""
 "[english]challenge_traitors_role_name_iaf"		"IAF marine"
 "challenge_traitors_role_name_iaf"		"боец МВС"
 "[english]challenge_traitors_role_chat_role_description_iaf"		"You don't have any special skill. Try your best to survive. Good luck!"
@@ -136,9 +136,9 @@
 "[english]challenge_traitors_role_hud_role_description_iaf"		"Try your best to survive. Good luck!"
 "challenge_traitors_role_hud_role_description_iaf"		"Постарайся выжить. Удачи!"
 
-		//scanner
-		"[english]challenge_traitors_role_article_scanner"		"an"
-		"challenge_traitors_role_article_scanner"		"an"
+//scanner
+"[english]challenge_traitors_role_article_scanner"		"an"
+"challenge_traitors_role_article_scanner"		""
 "[english]challenge_traitors_role_name_scanner"		"Alien Expert"
 "challenge_traitors_role_name_scanner"		"Эксперт по жукам"
 "[english]challenge_traitors_role_chat_role_description_scanner"		"You have a bio-scanner which can tell you who is the traitor."
@@ -160,17 +160,17 @@
 "[english]challenge_traitors_vgui_menu_scanner_4"		"(Red : Traitor | Green : IAF)"
 "challenge_traitors_vgui_menu_scanner_4"		"(Красные : Предатели | Зеленые : МВС)"
 
-		//biochemist
-		"[english]challenge_traitors_role_article_biochemist"		"a"
-		"challenge_traitors_role_article_biochemist"		"a"
+//biochemist
+"[english]challenge_traitors_role_article_biochemist"		"a"
+"challenge_traitors_role_article_biochemist"		""
 "[english]challenge_traitors_role_name_biochemist"		"Biochemist"
 "challenge_traitors_role_name_biochemist"		"Биохимик"
 "[english]challenge_traitors_role_chat_role_description_biochemist"		"You have two biochemical agents: one heals allies (except self), another poisons all targets (including self)."
 "challenge_traitors_role_chat_role_description_biochemist"		"У вас есть два биохимических агента: один лечит союзников (кроме себя), другой отравляет все цели (включая себя)."
-		"[english]challenge_traitors_role_chat_skill_description_biochemist"		" %chat_skill_instruction%"
-		"challenge_traitors_role_chat_skill_description_biochemist"		" %chat_skill_instruction%"
-		"[english]challenge_traitors_role_hud_role_description_biochemist"		"%hud_skill_instruction%"
-		"challenge_traitors_role_hud_role_description_biochemist"		"%hud_skill_instruction%"
+"[english]challenge_traitors_role_chat_skill_description_biochemist"		" %chat_skill_instruction%"
+"challenge_traitors_role_chat_skill_description_biochemist"		" %chat_skill_instruction%"
+"[english]challenge_traitors_role_hud_role_description_biochemist"		"%hud_skill_instruction%"
+"challenge_traitors_role_hud_role_description_biochemist"		"%hud_skill_instruction%"
 "[english]challenge_traitors_vgui_menu_biochemist_1"		"LEFT Click to HEAL"
 "challenge_traitors_vgui_menu_biochemist_1"		"ДЕВЫЙ клик чтобы ЛЕЧИТЬСЯ"
 "[english]challenge_traitors_vgui_menu_biochemist_2"		"RIGHT Click to KILL"
@@ -182,9 +182,9 @@
 "[english]challenge_traitors_vgui_menu_biochemist_5"		"You have already used your skill."
 "challenge_traitors_vgui_menu_biochemist_5"		"Вы уже использовали ваш навык."
 
-		//iaf_leader
-		"[english]challenge_traitors_role_article_iaf_leader"		"a"
-		"challenge_traitors_role_article_iaf_leader"		"a"
+//iaf_leader
+"[english]challenge_traitors_role_article_iaf_leader"		"a"
+"challenge_traitors_role_article_iaf_leader"		""
 "[english]challenge_traitors_role_name_iaf_leader"		"Colonel"
 "challenge_traitors_role_name_iaf_leader"		"Полковник"
 "[english]challenge_traitors_role_chat_role_description_iaf_leader"		"You have hidden bonus HP."
@@ -194,17 +194,17 @@
 "[english]challenge_traitors_role_hud_role_description_iaf_leader"		"You have hidden bonus HP."
 "challenge_traitors_role_hud_role_description_iaf_leader"		"У вас скрытый бонус к здоровью."
 
-		//shield
-		"[english]challenge_traitors_role_article_shield"		"a"
-		"challenge_traitors_role_article_shield"		"a"
+//shield
+"[english]challenge_traitors_role_article_shield"		"a"
+"challenge_traitors_role_article_shield"		""
 "[english]challenge_traitors_role_name_shield"		"Mechanic"
 "challenge_traitors_role_name_shield"		"Механик"
 "[english]challenge_traitors_role_chat_role_description_shield"		"You own a damage-reducing mecha, but cannot use it due to oversized toolbox. You can give it to a trusted ally."
 "challenge_traitors_role_chat_role_description_shield"		"У вас есть робот, уменьшающий урон, но вы не можете его использовать из-за слишком большого ящика с инструментами. Вы можете отдать его доверенному союзнику."
-		"[english]challenge_traitors_role_chat_skill_description_shield"		" %chat_skill_instruction%"
-		"challenge_traitors_role_chat_skill_description_shield"		" %chat_skill_instruction%"
-		"[english]challenge_traitors_role_hud_role_description_shield"		"%hud_skill_instruction%"
-		"challenge_traitors_role_hud_role_description_shield"		"%hud_skill_instruction%"
+"[english]challenge_traitors_role_chat_skill_description_shield"		" %chat_skill_instruction%"
+"challenge_traitors_role_chat_skill_description_shield"		" %chat_skill_instruction%"
+"[english]challenge_traitors_role_hud_role_description_shield"		"%hud_skill_instruction%"
+"challenge_traitors_role_hud_role_description_shield"		"%hud_skill_instruction%"
 "[english]challenge_traitors_vgui_menu_shield_1"		"LEFT Click to give the mecha to the player"
 "challenge_traitors_vgui_menu_shield_1"		"ЛЕВЫЙ клик чтобы отдать робота игроку"
 "[english]challenge_traitors_vgui_menu_shield_2"		"Skill will be ready in "
@@ -214,9 +214,9 @@
 "[english]challenge_traitors_vgui_menu_shield_4"		"You have already used your skill."
 "challenge_traitors_vgui_menu_shield_4"		"Вы уже использовали ваш навык."
 
-		//sniper
-		"[english]challenge_traitors_role_article_sniper"		"a"
-		"challenge_traitors_role_article_sniper"		"a"
+//sniper
+"[english]challenge_traitors_role_article_sniper"		"a"
+"challenge_traitors_role_article_sniper"		""
 "[english]challenge_traitors_role_name_sniper"		"Sniper"
 "challenge_traitors_role_name_sniper"		"Снайпер"
 "[english]challenge_traitors_role_chat_role_description_sniper"		"Your calmness and exceptional shooting skills enable you to take down the killer when you die."
@@ -226,9 +226,9 @@
 "[english]challenge_traitors_role_hud_role_description_sniper"		"You will take down the one who kills you when you die."
 "challenge_traitors_role_hud_role_description_sniper"		"Когда ты умрешь, ты уничтожишь того, кто тебя убьет."
 
-		//demo
-		"[english]challenge_traitors_role_article_demo"		"an"
-		"challenge_traitors_role_article_demo"		"an"
+//demo
+"[english]challenge_traitors_role_article_demo"		"an"
+"challenge_traitors_role_article_demo"		""
 "[english]challenge_traitors_role_name_demo"		"Explosive Expert"
 "challenge_traitors_role_name_demo"		"Эксперт по взрывчатке"
 "[english]challenge_traitors_role_chat_role_description_demo"		"You bring many explosives to support your team in killing aliens. You decide to Triggers an area explosion upon death, trying to damage potential traitors nearby."
@@ -238,9 +238,9 @@
 "[english]challenge_traitors_role_hud_role_description_demo"		"You will explode when you die."
 "challenge_traitors_role_hud_role_description_demo"		"Вы можете взорваться, когда умрете."
 
-		//deserter
-		"[english]challenge_traitors_role_article_deserter"		"a"
-		"challenge_traitors_role_article_deserter"		"a"
+//deserter
+"[english]challenge_traitors_role_article_deserter"		"a"
+"challenge_traitors_role_article_deserter"		""
 "[english]challenge_traitors_role_name_deserter"		"Deserter"
 "challenge_traitors_role_name_deserter"		"Дезертир"
 "[english]challenge_traitors_role_chat_role_description_deserter"		"Being a coward, you flee in the battle. You have 30s of invulnerability to flee, followed by 90s damage debuff, then partial damage recovery."
@@ -250,9 +250,9 @@
 "[english]challenge_traitors_role_hud_role_description_deserter"		"See instructions in chat."
 "challenge_traitors_role_hud_role_description_deserter"		"Смотри инструкции в чате."
 
-		//traitor
-		"[english]challenge_traitors_role_article_traitor"		"a"
-		"challenge_traitors_role_article_traitor"		"a"
+//traitor
+"[english]challenge_traitors_role_article_traitor"		"a"
+"challenge_traitors_role_article_traitor"		""
 "[english]challenge_traitors_role_name_traitor"		"Traitor"
 "challenge_traitors_role_name_traitor"		"Предатель"
 "[english]challenge_traitors_role_chat_role_description_traitor"		"You are infected and dominated by aliens. Aliens want you to sabotage the mission. Don't act rashly. There might be someone who can see through your disguise."
@@ -262,9 +262,9 @@
 "[english]challenge_traitors_role_hud_role_description_traitor"		"Don't act rashly. Others may see through your disguise."
 "challenge_traitors_role_hud_role_description_traitor"		"Не будь опрометчивым. Другие могут увидеть твою маскировку насквозь."
 
-		//traitor_leader
-		"[english]challenge_traitors_role_article_traitor_leader"		"a"
-		"challenge_traitors_role_article_traitor_leader"		"a"
+//traitor_leader
+"[english]challenge_traitors_role_article_traitor_leader"		"a"
+"challenge_traitors_role_article_traitor_leader"		""
 "[english]challenge_traitors_role_name_traitor_leader"		"Traitor Leader"
 "challenge_traitors_role_name_traitor_leader"		"Лидер предателей"
 "[english]challenge_traitors_role_chat_role_description_traitor_leader"		"You have hidden bonus HP."
@@ -274,21 +274,21 @@
 "[english]challenge_traitors_role_hud_role_description_traitor_leader"		"You have hidden bonus HP."
 "challenge_traitors_role_hud_role_description_traitor_leader"		"У вас скрытый бонус к здоровью."
 
-		//infector
-		"[english]challenge_traitors_role_article_infector"		"a"
-		"challenge_traitors_role_article_infector"		"a"
+//infector
+"[english]challenge_traitors_role_article_infector"		"a"
+"challenge_traitors_role_article_infector"		""
 "[english]challenge_traitors_role_name_infector"		"Suborner"
 "challenge_traitors_role_name_infector"		"Подкупщик"
-		"[english]challenge_traitors_role_chat_role_description_infector"		"You can convert an IAF member when traitors are outnumbered."
-		"challenge_traitors_role_chat_role_description_infector"		"You can convert an IAF member when traitors are outnumbered."
-		"[english]challenge_traitors_role_chat_skill_description_infector"		"%chat_skill_instruction%"
-		"challenge_traitors_role_chat_skill_description_infector"		"%chat_skill_instruction%"
-		"[english]challenge_traitors_role_hud_role_description_infector"		"%hud_skill_instruction%"
-		"challenge_traitors_role_hud_role_description_infector"		"%hud_skill_instruction%"
-		"[english]challenge_traitors_vgui_menu_infector_1"		"LEFT Click to abet a player"
-		"challenge_traitors_vgui_menu_infector_1"		"LEFT Click to abet a player"
-		"[english]challenge_traitors_vgui_menu_infector_2"		"You can't abet a player right now. See descriptions in chat."
-		"challenge_traitors_vgui_menu_infector_2"		"You can't abet a player right now. See descriptions in chat."
+"[english]challenge_traitors_role_chat_role_description_infector"		"You can convert an IAF member when traitors are outnumbered."
+"challenge_traitors_role_chat_role_description_infector"		"Вы можете переманить на свою сторону бойца МВС, когда предателей меньше."
+"[english]challenge_traitors_role_chat_skill_description_infector"		"%chat_skill_instruction%"
+"challenge_traitors_role_chat_skill_description_infector"		"%chat_skill_instruction%"
+"[english]challenge_traitors_role_hud_role_description_infector"		"%hud_skill_instruction%"
+"challenge_traitors_role_hud_role_description_infector"		"%hud_skill_instruction%"
+"[english]challenge_traitors_vgui_menu_infector_1"		"LEFT Click to abet a player"
+"challenge_traitors_vgui_menu_infector_1"		"ЛЕВЫЙ клик чтобы переманить игрока"
+"[english]challenge_traitors_vgui_menu_infector_2"		"You can't abet a player right now. See descriptions in chat."
+"challenge_traitors_vgui_menu_infector_2"		"Сейчас нельзя переманить игрока. Подробности в чате."
 "[english]challenge_traitors_vgui_menu_infector_3"		"Skill will be ready in "
 "challenge_traitors_vgui_menu_infector_3"		"Навык будет доступен через "
 "[english]challenge_traitors_vgui_menu_infector_4"		"s."
@@ -296,9 +296,9 @@
 "[english]challenge_traitors_vgui_menu_infector_5"		"You have already used your skill."
 "challenge_traitors_vgui_menu_infector_5"		"Вы уже использовали ваш навык."
 
-		//boomer
-		"[english]challenge_traitors_role_article_boomer"		"a"
-		"challenge_traitors_role_article_boomer"		"a"
+//boomer
+"[english]challenge_traitors_role_article_boomer"		"a"
+"challenge_traitors_role_article_boomer"		""
 "[english]challenge_traitors_role_name_boomer"		"Suicide Boomer"
 "challenge_traitors_role_name_boomer"		"Смертник"
 "[english]challenge_traitors_role_chat_role_description_boomer"		"You can perform a suicide attack. Detonates an area bomb after 10s delay. Type \"/\" in chat to ACTIVATE the bomb."
@@ -308,17 +308,17 @@
 "[english]challenge_traitors_role_hud_role_description_boomer"		"Type \"/\" in chat to ACTIVATE the bomb."
 "challenge_traitors_role_hud_role_description_boomer"		"Напишите \"/\" в чат для АКТИВАЦИИ бомбы."
 
-		//silencer
-		"[english]challenge_traitors_role_article_silencer"		"a"
-		"challenge_traitors_role_article_silencer"		"a"
-		"[english]challenge_traitors_role_name_silencer"		"Silencer"
-		"challenge_traitors_role_name_silencer"		"Silencer"
+//silencer
+"[english]challenge_traitors_role_article_silencer"		"a"
+"challenge_traitors_role_article_silencer"		""
+"[english]challenge_traitors_role_name_silencer"		"Silencer"
+"challenge_traitors_role_name_silencer"		"Глушитель"
 "[english]challenge_traitors_role_chat_role_description_silencer"		"You have a very special bio-force field that can disable target's special ability."
 "challenge_traitors_role_chat_role_description_silencer"		"У вас есть особое биосиловое поле, которое может лишить цели ее особых способностей."
-		"[english]challenge_traitors_role_chat_skill_description_silencer"		" %chat_skill_instruction%"
-		"challenge_traitors_role_chat_skill_description_silencer"		" %chat_skill_instruction%"
-		"[english]challenge_traitors_role_hud_role_description_silencer"		"%hud_skill_instruction%"
-		"challenge_traitors_role_hud_role_description_silencer"		"%hud_skill_instruction%"
+"[english]challenge_traitors_role_chat_skill_description_silencer"		" %chat_skill_instruction%"
+"challenge_traitors_role_chat_skill_description_silencer"		" %chat_skill_instruction%"
+"[english]challenge_traitors_role_hud_role_description_silencer"		"%hud_skill_instruction%"
+"challenge_traitors_role_hud_role_description_silencer"		"%hud_skill_instruction%"
 "[english]challenge_traitors_vgui_menu_silencer_1"		"LEFT Click to suppress a player's special skill."
 "challenge_traitors_vgui_menu_silencer_1"		"ЛЕВЫЙ клик для отключения специального навыка игрока."
 "[english]challenge_traitors_vgui_menu_silencer_2"		"Skill will be ready in "
