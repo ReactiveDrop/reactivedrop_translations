@@ -1,0 +1,9 @@
+GAME
+{
+"Headline"	"Refugiados en la constelación S-N5"
+"HeadlineDate"	"12/18/52"
+"Paragraph1"	"Diversos grupos de refugiados siguen llegando a la constelación S-N5, a las afueras del espacio Paraíso. Los supervivientes han estado llegando al sistema desde que los ataques alienígenas destruyeron gran cantidad de colonias independientes el pasado mes."
+"Paragraph2"	"Al parecer los ataques están siendo realizados desde las ruinas de Anhaven, pero varios analistas han descubierto que los ataques han alcanzado el interior del espacio de la Alianza. «Esto podría ser precursor de un ataque más grande que llegue a los sistemas del núcleo», dice el Dr. McArthur, analista de los movimientos alienígenas."
+"Paragraph3"	"Un oficial de los Suministros Paraíso ha solicitado ayuda a la IA para lidiar con los refugiados, ofreciendo generosamente contratos de trabajo en Paraíso a todos."
+"Paragraph4"	""
+}
