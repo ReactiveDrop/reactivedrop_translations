@@ -158,7 +158,7 @@
 "[english]challenge_traitors_vgui_menu_scanner_3"		"s."
 "challenge_traitors_vgui_menu_scanner_3"		"s."
 "[english]challenge_traitors_vgui_menu_scanner_4"		"(Red : Traitor | Green : IAF)"
-"challenge_traitors_vgui_menu_scanner_4"		"((Rot : Verräter | Grün : IAF)|(Rot : Verräter | Grün : IAF))"
+"challenge_traitors_vgui_menu_scanner_4"		"(Rot : Verräter | Grün : IAF)"
 
 //biochemist
 "[english]challenge_traitors_role_article_biochemist"		"a"
