@@ -11,7 +11,7 @@
 | [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Hungarian](#non-curated-languages) | 56 | 138 | 43 | 3253 | 283 | 230 | 1097 | 147 |
 | [Indonesian](#indonesian-indonesia) | 916 | 2004 | 635 | 4219 | 286 | 235 | 1094 | 147 |
-| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 2 | 1 |
+| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 35 | ✔️ |
 | [Korean](#koreana-한국어) | ✔️ | ✔️ | ✔️ | 64 | ✔️ | ✔️ | 104 | 29 |
 | [Norwegian Bokmål](#non-curated-languages) | 74 | 708 | 48 | 3958 | 283 | 230 | 832 | 147 |
@@ -738,13 +738,7 @@
 
 </summary>
 
-### Strings
-
-- [workshop_description_italian.vdf](community/workshop/workshop_description_italian.vdf) has 2 untranslated strings.
-
-### Upcoming Release Notes
-
-- [20250420_italian.xml](release_notes/20250420_english.xml) is missing.
+✓ Up to date!
 
 </details>
 
