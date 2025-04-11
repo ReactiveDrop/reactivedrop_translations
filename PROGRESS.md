@@ -20,7 +20,7 @@
 | [Brazilian Portuguese](#brazilian-português) | 1 | ✔️ | ✔️ | 880 | 25 | 22 | 126 | 3 |
 | [Romanian](#non-curated-languages) | 56 | 1996 | 49 | 3964 | 283 | 230 | 1097 | 147 |
 | [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
-| [European Spanish](#spanish-español-de-españa) | ✔️ | 2004 | ✔️ | 1915 | ✔️ | ✔️ | 96 | 126 |
+| [European Spanish](#spanish-español-de-españa) | ✔️ | 2004 | ✔️ | 1915 | ✔️ | ✔️ | 96 | 125 |
 | [Latin American Spanish](#latam-español-latinoamericano) | 1 | 2004 | ✔️ | 4304 | 31 | 23 | 329 | 143 |
 | [Swedish](#swedish-svenska) | ✔️ | ✔️ | ✔️ | 269 | ✔️ | ✔️ | ✔️ | 71 |
 | [Thai](#non-curated-languages) | 971 | 1993 | 51 | 4500 | 283 | 230 | 861 | 147 |
@@ -1316,7 +1316,6 @@
 - [news/nh_news_prospectus_spanish.txt](resource/news/nh_news_prospectus_english.txt) is missing.
 - [news/rd-newfacilities_spanish.txt](resource/news/rd-newfacilities_english.txt) is missing.
 - [news/rd-spaceport_news1_spanish.txt](resource/news/rd-spaceport_news1_english.txt) is missing.
-- [news/refugeenews_spanish.txt](resource/news/refugeenews_english.txt) is missing.
 
 </details>
 
