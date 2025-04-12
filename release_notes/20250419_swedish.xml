@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<content><string id="body">Det skulle inte vara en Alien Swarm: Reactive Drop-jubileumsuppdatering utan en skeppslast med korrigeringar!
+
+[h2]Uppdrag[/h2]
+[list]
+[*][b]Jacobs Vila: Landningsvik:[/b] A crate in the welding tutorial room no longer allows bullets and grenades to pass through.
+[*][b]Jacobs Vila: Deima Ytbro:[/b] Bloodhound gör inte längre vänlig eldskada.
+[*][b]Jacobs Vila: Deima Ytbro:[/b] Flyttade lite på gaffeltrucken och lådan på bron så att de inte längre svävar i luften.
+[*][b]Jacobs Vila: Avloppsknut B5:[/b] Utvidgade utrymningsområdet till att omfatta det sydöstra hörnet av genombrottet.
+[*][b]Jacobs Vila: Timor Station:[/b] Bloodhound gör inte längre vänlig eldskada.
+[*][b]Jacobs Vila: Timor Station:[/b] Fixade parasiter som gick i luften vid det sista hacket om en liten bro inte förlängdes.
+[*][b]Jacobs Vila: Timor Station:[/b] Fixade tekniska krav som förblir aktiva under datanedladdning.
+[*][b]Jacobs Vila: Timor Station:[/b] Tog bort fördröjningen för att öppna dörrar efter strömaktivering.
+[*][b]Område 9800: Ödemarker:[/b] Fixade marinsoldater som kunde kastas uppåt i ett dödligt fall av shieldbugs under den sista striden.
+[*][b]Område 9800: Ödemarker:[/b] Fixade tekniska krav som förblir aktiva under datanedladdning.
+[*][b]Operation Rent Hus: Förvaringsanläggning:[/b] Vissa tunnor är inte längre märkta som skräp och kan användas för täckning.
+[*][b]Operation Rent Hus: Landningsvik 7:[/b] Rensat upp osynliga väggar i det sista området.
+[*][b]Operation Rent Hus: Landningsvik 7:[/b] Lade till ljus och instruktörstips för att göra det tydligare var utrymningsområdet är.
+[*][b]Operation Rent Hus: Landningsvik 7:[/b] Fixade tekniska krav som förblir aktiva under datanedladdning.
+[*][b]Forskning 7: Transportanläggning:[/b] Fixade väggar som blir osynliga vid vissa kamerarotationer.
+[*][b]Forskning 7: Jerichos Gruva:[/b] Fixade ett osynligt hål i golvet nära lasern.
+[*][b]Tårar för Tarnor: Insättningspunkt:[/b] Flytta parabolantenner något för att undvika att de hindrar sikten när du är inne i utposten.
+[*][b]Tårar för Tarnor: Övergivna Underhållstunnlar:[/b] Ersatte laserförbifartsvägen för trasigt fönster med trappor.
+[*][b]Tårar för Tarnor: Övergivna Underhållstunnlar:[/b] Lasern är nu röd eftersom röda lasrar ser mer skrämmande ut. (Snälla sluta gå in i lasern.)
+[*][b]Tårar för Tarnor: Övergivna Underhållstunnlar:[/b] Lade till VARNING-skyltar som omger vägen som går genom lasern.
+[*][b]Tårar för Tarnor: Rymdhamn:[/b] Fixade tekniska krav som förblir aktiva under datanedladdning.
+[*][b]Tilarus-5:Arktisk Infiltration:[/b] Fixade tekniska krav som förblir aktiva under datanedladdning.
+[*][b]Tilarus-5: Yanaurus Gruva:[/b] Utökade området som räknas som på hissen för att starta den.
+[*][b]Tilarus-5: Bortglömd Fabrik:[/b] Bloodhound gör inte längre vänlig eldskada.
+[*][b]Tilarus-5: Bortglömd Fabrik:[/b] Fixade att hissen blockerades av tappade vapen.
+[*][b]Tilarus-5: Kommunikationscenter:[/b] Fixade tekniska krav som förblir aktiva under datanedladdning.
+[*][b]Lanas Flykt: Lanas Komplex:[/b] Utökat utrymningsområde för att vara mer intuitivt.
+[*][b]Paranoia: Unexpected Encounter:[/b] Fixade tekniska krav som förblir aktiva under datanedladdning.
+[*][b]Nam Humanum: Plattform XVII:[/b] Fixade plattform som blockeras från att röra sig när marinsoldater stod på vissa platser.
+[*][b]Nam Humanum: Plattform XVII:[/b] Fixade att botmariner blev kvar i vissa fall.
+[*][b]BioGen Corporation: Operation X5:[/b] Fixade tekniska krav som förblir aktiva under datanedladdning.
+[*][b]Reduction: Operation Sandstorm:[/b] Fixade konstig terrängrendering nära nordvästmål.
+[*][b]Reduction: Operation Sandstorm:[/b] Infartsfartyget kan inte längre förstöras av marinsoldater.
+[*][b]Bunker:[/b] Tog bort ett felplacerat dödplan ovanför start- och slutrummen.
+[*][b]Omvänd Lasthiss:[/b] Utökade området som räknas som på hissen för att starta den.
+[/list]
+
+[h2]Weapons[/h2]
+[list]
+[*][b]M42 Vindicator:[/b] Gjorde granat visuella effekter mer motståndskraftiga mot paketförlust.
+[*][b]Modell 35 Pump-action Hagelgevär:[/b] Fixade omladdning automatiskt vid avfyring av en dubbel avfyring även om automatisk omladdning var inaktiverad.
+[*][b]M868 Lågenheten:[/b] Fixade omladdning automatiskt under skjutande brandsläckare även om automatisk omladdning var inaktiverad.
+[*][b]M868 Lågenheten:[/b] Fixade att Lågenheten såg ut att brinna när den var tom, ändå när automatisk omladdning avaktiverades om det bara fanns 1 enhet flamerbränsle kvar.
+[/list]
+
+[h2]Modeller[/h2]
+[list]
+[*][b]Gaffeltruck:[/b] Uppdaterade physics mesh.
+[*][b]Containerlast:[/b] Lade till physics mesh för lastcontainrar.
+[/list]
+
+[h2]Övrigt[/h2]
+[list]
+[*]Fixade skakiga rörelser av spotlights glöd.
+[*]La till [b]cl_showspectators[/b] konvar.
+[*]La till [b]Die()[/b] vscript-funktion till beboeliga NPC:er.
+[*]La till "friendlyfire" egenskaper till vaktgevär i Hammer.
+[*]Tog bort och återställde [b]rd_drone_flinch_resets_attack[/b] konvar.
+[*]Lade till stöd för kommandot "Tillbaka" på inställningsskärmen för anpassade UI-reskins.
+[/list]
+
+[h2]Infektion Dödsmatch[/h2]
+[list]
+[*]Fixade skript som gick sönder vid ny omgångsstart.
+[*][i]Om du fortfarande har problem, vänligen kontakta [url=https://steamcommunity.com/id/moddedmarionette/]ModdedMarionette[/url].[/i]
+[/list]
+
+[h2][url=https://stats.reactivedrop.com/5a]IAF behöver dig![/url][/h2]
+Alien Swarm: Reactive Drop kommer alltid att vara gratis, men det betyder inte att det inte krävs mycket arbete från många duktiga volontärer att göra. Om du kan, överväg att skapa innehåll för [url=https://steamcommunity.com/app/563560/workshop/]Steam Workshoppen[/url], rapportera buggar, föreslå [url=https://github.com/ReactiveDrop/reactivedrop_public_src]kod[/url] förbättringar, [url=https://github.com/ReactiveDrop/reactivedrop_translations]översätta[/url] spelet till ditt språk, eller [url=https://store.steampowered.com/itemstore/563560/]skicka en slant[/url] till en av personerna som gjorde Alien Swarm: Reactive Drop möjlig. IAF tackar dig för din fortsatta tjänst, befälhavare.</string>
+<string id="subtitle"></string>
+<string id="summary">Det skulle inte vara en Alien Swarm: Reactive Drop-jubileumsuppdatering utan en skeppslast med korrigeringar!</string>
+<string id="title">AS:RD Uppdatering - April 20, 2025 "Mottagen"</string></content>
