@@ -22,7 +22,7 @@
 | [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 1 |
 | [European Spanish](#spanish-español-de-españa) | ✔️ | 2004 | ✔️ | 1915 | ✔️ | ✔️ | 96 | 126 |
 | [Latin American Spanish](#latam-español-latinoamericano) | 1 | 2004 | ✔️ | 4304 | 31 | 23 | 329 | 144 |
-| [Swedish](#swedish-svenska) | ✔️ | ✔️ | ✔️ | 269 | ✔️ | ✔️ | ✔️ | 72 |
+| [Swedish](#swedish-svenska) | ✔️ | ✔️ | ✔️ | 234 | ✔️ | ✔️ | ✔️ | 71 |
 | [Thai](#non-curated-languages) | 971 | 1993 | 51 | 4500 | 283 | 230 | 861 | 148 |
 | [Turkish](#non-curated-languages) | 56 | 137 | 43 | 3253 | 283 | 230 | 1097 | 148 |
 | [Ukrainian](#ukrainian-українська) | 32 | 131 | 33 | 2819 | 283 | 230 | 1057 | 148 |
@@ -1531,11 +1531,7 @@
 
 ### Strings
 
-- [reactivedrop_swedish.txt](resource/reactivedrop_swedish.txt) has 269 untranslated strings.
-
-### Upcoming Release Notes
-
-- [20250419_swedish.xml](release_notes/20250419_english.xml) is missing.
+- [reactivedrop_swedish.txt](resource/reactivedrop_swedish.txt) has 234 untranslated strings.
 
 ### Mail and News
 
