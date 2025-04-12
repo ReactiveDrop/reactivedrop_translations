@@ -2,7 +2,7 @@
 | Language | basemodui | closecaption | gameui | reactivedrop | items | statsweb | Strings | Files |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 1 |
-| [Traditional Chinese](#tchinese-繁體中文) | ✔️ | ✔️ | ✔️ | 92 | ✔️ | ✔️ | 94 | 126 |
+| [Traditional Chinese](#tchinese-繁體中文) | ✔️ | ✔️ | ✔️ | 89 | ✔️ | ✔️ | 94 | 125 |
 | [Czech](#czech-čeština) | 76 | 1810 | 43 | 4257 | 283 | 230 | 1102 | 147 |
 | [Danish](#non-curated-languages) | 57 | 231 | 43 | 3784 | 283 | 230 | 832 | 148 |
 | [Dutch](#non-curated-languages) | 56 | 2004 | 43 | 3253 | 283 | 230 | 832 | 147 |
@@ -13,7 +13,7 @@
 | [Indonesian](#indonesian-indonesia) | 916 | 2004 | 635 | 4219 | 286 | 235 | 1094 | 148 |
 | [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 1 |
 | [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 35 | 1 |
-| [Korean](#koreana-한국어) | ✔️ | ✔️ | ✔️ | 64 | ✔️ | ✔️ | 104 | 30 |
+| [Korean](#koreana-한국어) | ✔️ | ✔️ | ✔️ | 64 | ✔️ | ✔️ | 104 | 29 |
 | [Norwegian Bokmål](#non-curated-languages) | 74 | 708 | 48 | 3958 | 283 | 230 | 832 | 148 |
 | [Polish](#polish-polski) | 2 | 2004 | ✔️ | 2897 | 12 | 19 | 259 | 127 |
 | [European Portuguese](#portuguese-português-europeu) | 5 | 180 | 33 | 2343 | 263 | 51 | 758 | 143 |
@@ -22,7 +22,7 @@
 | [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 1 |
 | [European Spanish](#spanish-español-de-españa) | ✔️ | 2004 | ✔️ | 1915 | ✔️ | ✔️ | 96 | 126 |
 | [Latin American Spanish](#latam-español-latinoamericano) | 1 | 2004 | ✔️ | 4304 | 31 | 23 | 329 | 144 |
-| [Swedish](#swedish-svenska) | ✔️ | ✔️ | ✔️ | 269 | ✔️ | ✔️ | ✔️ | 72 |
+| [Swedish](#swedish-svenska) | ✔️ | ✔️ | ✔️ | 234 | ✔️ | ✔️ | ✔️ | 71 |
 | [Thai](#non-curated-languages) | 971 | 1993 | 51 | 4500 | 283 | 230 | 861 | 148 |
 | [Turkish](#non-curated-languages) | 56 | 137 | 43 | 3253 | 283 | 230 | 1097 | 148 |
 | [Ukrainian](#ukrainian-українська) | 32 | 131 | 33 | 2819 | 283 | 230 | 1057 | 148 |
@@ -56,11 +56,7 @@
 ### Strings
 
 - [addons/traitors_challenge/reactivedrop_tchinese.txt](addons/traitors_challenge/resource/reactivedrop_tchinese.txt) has 94 untranslated strings.
-- [reactivedrop_tchinese.txt](resource/reactivedrop_tchinese.txt) has 92 untranslated strings.
-
-### Upcoming Release Notes
-
-- [20250419_tchinese.xml](release_notes/20250419_english.xml) is missing.
+- [reactivedrop_tchinese.txt](resource/reactivedrop_tchinese.txt) has 89 untranslated strings.
 
 ### Mail and News
 
@@ -782,10 +778,6 @@
 - [addons/traitors_challenge/reactivedrop_koreana.txt](addons/traitors_challenge/resource/reactivedrop_koreana.txt) has 99 untranslated strings.
 - [platform/vgui_koreana.txt](platform/vgui_koreana.txt) has 5 untranslated strings.
 - [reactivedrop_koreana.txt](resource/reactivedrop_koreana.txt) has 64 untranslated strings.
-
-### Upcoming Release Notes
-
-- [20250419_koreana.xml](release_notes/20250419_english.xml) is missing.
 
 ### Mail and News
 
@@ -1531,11 +1523,7 @@
 
 ### Strings
 
-- [reactivedrop_swedish.txt](resource/reactivedrop_swedish.txt) has 269 untranslated strings.
-
-### Upcoming Release Notes
-
-- [20250419_swedish.xml](release_notes/20250419_english.xml) is missing.
+- [reactivedrop_swedish.txt](resource/reactivedrop_swedish.txt) has 234 untranslated strings.
 
 ### Mail and News
 
