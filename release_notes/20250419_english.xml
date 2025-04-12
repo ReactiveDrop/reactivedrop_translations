@@ -5,7 +5,7 @@
 [list]
 [*][b]Jacob's Rest: Landing Bay:[/b] A crate in the welding tutorial room no longer allows bullets and grenades to pass through.
 [*][b]Jacob's Rest: Deima Surface Bridge:[/b] The Bloodhound no longer does friendly fire damage.
-[*][b]Jacob's Rest: Deima Surface Bridge:[/b] Moved the forklift and box in the shieldbug intro slightly so they are no longer hovering in the air.
+[*][b]Jacob's Rest: Deima Surface Bridge:[/b] Moved the forklift and box on the bridge slightly so they are no longer hovering in the air.
 [*][b]Jacob's Rest: Sewer Junction B5:[/b] Extended the escape area to include the southeast corner of the breach.
 [*][b]Jacob's Rest: Timor Station:[/b] The Bloodhound no longer does friendly fire damage.
 [*][b]Jacob's Rest: Timor Station:[/b] Fixed parasites walking on air at the final hack if a small bridge wasn't extended.
@@ -48,20 +48,26 @@
 [*][b]M868 Flamer Unit:[/b] Fixed the flamer appearing to fire while empty when automatic reload was disabled if there was only 1 unit of flamer fuel remaining.
 [/list]
 
+[h2]Models[/h2]
+[list]
+[*][b]Forklift:[/b] Updated the physics mesh.
+[*][b]Containerload:[/b] Added a physics mesh for cargo containers.
+[/list]
+
 [h2]Misc[/h2]
 [list]
 [*]Fixed jittery movement of spotlight glows.
-[*]Added cl_showspectators convar.
-[*]Added Die() vscript function to inhabitable NPCs.
+[*]Added [b]cl_showspectators[/b] convar.
+[*]Added [b]Die()[/b] vscript function to inhabitable NPCs.
 [*]Added "friendlyfire" property to sentry tops in Hammer.
-[*]Removed and reverted the rd_drone_flinch_resets_attack convar.
+[*]Removed and reverted the [b]rd_drone_flinch_resets_attack[/b] convar.
 [*]Added support for the "Back" command on the settings screen for custom UI reskins.
 [/list]
 
 [h2]Infection Deathmatch[/h2]
 [list]
 [*]Fixed scripts breaking upon new round start.
-[*][i]If you are still experiencing issues, please contact ModdedMarionette.[/i]
+[*][i]If you are still experiencing issues, please contact [url=https://steamcommunity.com/id/moddedmarionette/]ModdedMarionette[/url].[/i]
 [/list]
 
 [h2][url=https://stats.reactivedrop.com/5a]The IAF needs you![/url][/h2]

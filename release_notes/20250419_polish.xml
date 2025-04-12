@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content>
+  <string id="body">Nie byłoby rocznicowej aktualizacji Alien Swarm: Reactive Drop bez solidnej porcji poprawek!
+
+[h2]Misje[/h2]
+[list]
+[*][b]Jacob's Rest: Landing Bay:[/b] Skrzynia w pomieszczeniu z sprawarką nie przepuszcza już pocisków ani granatów.
+[*][b]Jacob's Rest: Deima Surface Bridge:[/b] Bloodhound nie zadaje już obrażeń sojusznikom.
+[*][b]Jacob's Rest: Deima Surface Bridge:[/b] Wózek widłowy i skrzynia w scenie z shieldbugiem zostały lekko przesunięte, aby nie unosiły się w powietrzu.
+[*][b]Jacob's Rest: Sewer Junction B5:[/b] Rozszerzono strefę ucieczki o południowo-wschodni narożnik wyłomu.
+[*][b]Jacob's Rest: Timor Station:[/b] Bloodhound nie zadaje już obrażeń sojusznikom.
+[*][b]Jacob's Rest: Timor Station:[/b] Naprawiono pasożyty poruszające się w powietrzu przy końcowym hacku, jeśli nie wysunięto małego mostku.
+[*][b]Jacob's Rest: Timor Station:[/b] Wymóg technika nie pozostaje już aktywny podczas pobierania danych.
+[*][b]Jacob's Rest: Timor Station:[/b] Usunięto opóźnienie otwierania drzwi po włączeniu zasilania.
+[*][b]Area 9800: Wastelands:[/b] Naprawiono sytuację, w której shieldbug mógł wyrzucić marines w górę, co kończyło się śmiertelnym upadkiem.
+[*][b]Area 9800: Wastelands:[/b] Wymóg technika nie pozostaje już aktywny podczas pobierania danych.
+[*][b]Operation Cleansweep: Storage Facility:[/b] Niektóre beczki nie są już oznaczone jako szczątki i mogą służyć za osłonę.
+[*][b]Operation Cleansweep: Landing Bay 7:[/b] Usunięto niewidzialne ściany w końcowej strefie.
+[*][b]Operation Cleansweep: Landing Bay 7:[/b] Dodano oświetlenie i wskazówki trenerskie, aby lepiej wskazać obszar ewakuacji.
+[*][b]Operation Cleansweep: Landing Bay 7:[/b] Wymóg technika nie pozostaje już aktywny podczas pobierania danych.
+[*][b]Research 7: Transport Facility:[/b] Naprawiono niewidzialność ścian przy pewnych obrotach kamery.
+[*][b]Research 7: Jericho Mines:[/b] Naprawiono niewidzialny otwór w podłodze przy laserze.
+[*][b]Tears for Tarnor: Insertion Point:[/b] Przesunięto anteny satelitarne, aby nie zasłaniały widoku w posterunku.
+[*][b]Tears for Tarnor: Abandoned Maintenance Tunnels:[/b] Zastąpiono obejście lasera ze zbitą szybą schodami.
+[*][b]Tears for Tarnor: Abandoned Maintenance Tunnels:[/b] Laser ma teraz czerwony kolor, bo czerwone lasery wyglądają straszniej. (Przestańcie wchodzić w laser.)
+[*][b]Tears for Tarnor: Abandoned Maintenance Tunnels:[/b] Dodano znaki „UWAGA” wzdłuż ścieżki przecinającej laser.
+[*][b]Tears for Tarnor: Spaceport:[/b] Wymóg technika nie pozostaje już aktywny podczas pobierania danych.
+[*][b]Tilarus-5: Arctic Infiltration:[/b] Wymóg technika nie pozostaje już aktywny podczas pobierania danych.
+[*][b]Tilarus-5: Yanaurus Mine:[/b] Rozszerzono obszar zaliczany jako obecność na windzie potrzebną do jej uruchomienia.
+[*][b]Tilarus-5: Forgotten Factory:[/b] Bloodhound nie zadaje już obrażeń sojusznikom.
+[*][b]Tilarus-5: Forgotten Factory:[/b] Naprawiono blokowanie windy przez upuszczoną broń.
+[*][b]Tilarus-5: Communication Center:[/b] Wymóg technika nie pozostaje już aktywny podczas pobierania danych.
+[*][b]Lana's Escape: Lana's Complex:[/b] Rozszerzono strefę ucieczki, by była bardziej intuicyjna.
+[*][b]Paranoia: Unexpected Encounter:[/b] Wymóg technika nie pozostaje już aktywny podczas pobierania danych.
+[*][b]Nam Humanum: Platform XVII:[/b] Naprawiono blokowanie platformy przez marines stojących w określonych miejscach.
+[*][b]Nam Humanum: Platform XVII:[/b] Naprawiono pozostawanie botów w tyle w niektórych przypadkach.
+[*][b]BioGen Corporation: Operation X5:[/b] Wymóg technika nie pozostaje już aktywny podczas pobierania danych.
+[*][b]Reduction: Operation Sandstorm:[/b] Naprawiono dziwne renderowanie terenu w pobliżu północno-zachodniego celu.
+[*][b]Reduction: Operation Sandstorm:[/b] Statek desantowy nie może już zostać zniszczony przez graczy.
+[*][b]Bunker:[/b] Usunięto błędnie umieszczoną strefę śmierci nad początkowym i końcowym pomieszczeniem.
+[*][b]Reversed Cargo Elevator:[/b] Rozszerzono obszar uznawany za obecność na windzie potrzebną do jej uruchomienia.
+[/list]
+
+[h2]Bronie[/h2]
+[list]
+[*][b]M42 Vindicator:[/b] Usprawniono efekty wizualne granatów – są teraz odporniejsze na utratę pakietów danych.
+[*][b]Model 35 Pump-action Shotgun:[/b] Naprawiono automatyczne przeładowanie po strzale podwójnym, mimo wyłączonej opcji automatycznego przeładowania.
+[*][b]M868 Flamer Unit:[/b] Naprawiono automatyczne przeładowanie podczas używania gaśnicy, mimo wyłączonej opcji automatycznego przeładowania.
+[*][b]M868 Flamer Unit:[/b] Naprawiono wizualne strzelanie z pustej broni, gdy pozostała tylko 1 jednostka paliwa i automatyczne przeładowanie było wyłączone.
+[/list]
+
+[h2]Modele[/h2]
+[list]
+[*][b]Forklift:[/b] Zmieniono siatkę fizyki dla wózka widłowego.
+[*][b]Containerload:[/b] Dodano siatkę fizyki dla kontenerów transportowych.
+[/list]
+
+[h2]Różne[/h2]
+[list]
+[*]Naprawiono drgania efektów świetlnych reflektorów.
+[*]Dodano zmienną konfiguracyjną(convar) [b]cl_showspectators[/b].
+[*]Dodano funkcję [b]Die()[/b] w vscript dla NPC z możliwością przejęcia kontroli.
+[*]Dodano właściwość „friendlyfire” dla głowic wieżyczek w edytorze Hammer.
+[*]Usunięto i przywrócono domyślne ustawienie zmiennej [b]rd_drone_flinch_resets_attack[/b].
+[*]Dodano obsługę polecenia „Back” na ekranie ustawień (dla niestandardowych skórek UI).
+[/list]
+
+[h2]Infection Deathmatch[/h2]
+[list]
+[*]Naprawiono błędy skryptów pojawiające się przy rozpoczęciu nowej rundy.
+[*][i]Jeśli nadal występują problemy, skontaktuj się z [url=https://steamcommunity.com/id/moddedmarionette/]ModdedMarionette[/url].[/i]
+[/list]
+
+[h2][url=https://stats.reactivedrop.com/5a]IAF Cię potrzebuje![/url][/h2]
+Alien Swarm: Reactive Drop zawsze będzie darmowy, ale jego rozwój wymaga mnóstwa pracy utalentowanych wolontariuszy. Jeśli możesz, rozważ tworzenie zawartości na [url=https://steamcommunity.com/app/563560/workshop/]Warsztat Steam[/url], zgłaszanie błędów, proponowanie [url=https://github.com/ReactiveDrop/reactivedrop_public_src]poprawek kodu[/url], [url=https://github.com/ReactiveDrop/reactivedrop_translations]tłumaczenie[/url] gry na inne języki lub [url=https://store.steampowered.com/itemstore/563560/]wsparcie finansowe[/url] osób, które umożliwiły jej powstanie. IAF dziękuje za Twoją służbę, Komandorze.</string>
+
+  <string id="subtitle"></string>
+  <string id="summary">Nie byłoby rocznicowej aktualizacji Alien Swarm: Reactive Drop bez solidnej porcji poprawek!</string>
+  <string id="title">Aktualizacja AS:RD – 20 kwietnia 2025 „Received”</string>
+</content>
