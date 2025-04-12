@@ -36,7 +36,7 @@
 [*][b]Nam Humanum: Platform XVII:[/b] Naprawiono pozostawanie botów w tyle w niektórych przypadkach.
 [*][b]BioGen Corporation: Operation X5:[/b] Usunięto wymóg technika w drużynie gdy ten nie jest już niezbędny.
 [*][b]Reduction: Operation Sandstorm:[/b] Naprawiono dziwne renderowanie terenu w pobliżu północno-zachodniego celu.
-[*][b]Reduction: Operation Sandstorm:[/b] Statek desantowy nie może już zostać zniszczony przez graczy.
+[*][b]Reduction: Operation Sandstorm:[/b] Usunięto możliwość zniszczenia statku desantowego.
 [*][b]Bunker:[/b] Usunięto błędnie umieszczoną strefę śmierci nad początkowym i końcowym pomieszczeniem.
 [*][b]Reversed Cargo Elevator:[/b] Rozszerzono obszar uznawany za obecność na windzie potrzebną do jej uruchomienia.
 [/list]
