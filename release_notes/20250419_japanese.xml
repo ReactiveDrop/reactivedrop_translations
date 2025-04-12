@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<content><string id="body">山積みのバグ修正を終わらせなきゃAlien Swarm: Reactive Dropの生誕記念アップデートを迎えられませんね！
+
+[h2]ミッション[/h2]
+[list]
+[*][b]Jacob's Rest: Landing Bay:[/b] 溶接チュートリアル用の部屋にある箱が弾丸やグレネードを通過させていたのを修正。
+[*][b]Jacob's Rest: Deima Surface Bridge:[/b] ブラッドハウンド号が味方にダメージを与えることはなくなった。
+[*][b]Jacob's Rest: Deima Surface Bridge:[/b] 橋にあるフォークリフトと箱が空中に浮いていたので、修正のため少しだけ移動させた。
+[*][b]Jacob's Rest: Sewer Junction B5:[/b] 脱出判定エリアを広げて裂け目の南東の角まで含まれるようにした。
+[*][b]Jacob's Rest: Timor Station:[/b] ブラッドハウンド号が味方にダメージを与えることはなくなった。
+[*][b]Jacob's Rest: Timor Station:[/b] 最奥部のハッキング場所で小さい橋が展開されていなかった場合、パラサイトが空中を歩いていたのを修正。
+[*][b]Jacob's Rest: Timor Station:[/b] データのダウンロードが完了するまではエンジニアの必須フラグが維持されるようになった。
+[*][b]Jacob's Rest: Timor Station:[/b] 電源を入れたあとに発生していたドアが開くまでの待ち時間を消した。
+[*][b]Area 9800: Wastelands:[/b] 最後の防衛戦でシールドバグに打ち上げられた隊員が致命的な落下ダメージを受ける可能性があったのを修正。
+[*][b]Area 9800: Wastelands:[/b] データのダウンロードが完了するまではエンジニアの必須フラグが維持されるようになった。
+[*][b]Operation Cleansweep: Storage Facility:[/b] 一部のドラム缶はがれき扱いではなくなり、カバーとして使えるようになった。
+[*][b]Operation Cleansweep: Landing Bay 7:[/b] 最後のエリアにあった透明な壁を削除。
+[*][b]Operation Cleansweep: Landing Bay 7:[/b] 脱出地点がどこかはっきりわかるように、明かりとインストラクターヒントを追加。
+[*][b]Operation Cleansweep: Landing Bay 7:[/b] データのダウンロードが完了するまではエンジニアの必須フラグが維持されるようになった。
+[*][b]Research 7: Transport Facility:[/b] カメラの回転角度によっては壁が見えなくなってしまうのを修正。
+[*][b]Research 7: Jericho Mines:[/b] レーザーの近くの床にあった見えない穴を修正。
+[*][b]Tears for Tarnor: Insertion Point:[/b] 衛星アンテナを少し移動させた。これにより前哨基地内にいる際に視界を遮られなくなった。
+[*][b]Tears for Tarnor: Abandoned Maintenance Tunnels:[/b] 階段からレーザーを回避するルートの壊れた窓の位置を変えた。
+[*][b]Tears for Tarnor: Abandoned Maintenance Tunnels:[/b] レーザーが明らかに危険だとわかりやすくするために赤くした。(もうレーザーに突っ込まないでくださいね。)
+[*][b]Tears for Tarnor: Abandoned Maintenance Tunnels:[/b] レーザーの通り道周辺にCAUTION(危険)の標識を追加した。
+[*][b]Tears for Tarnor: Spaceport:[/b] データのダウンロードが完了するまではエンジニアの必須フラグが維持されるようになった。
+[*][b]Tilarus-5: Arctic Infiltration:[/b] データのダウンロードが完了するまではエンジニアの必須フラグが維持されるようになった。
+[*][b]Tilarus-5: Yanaurus Mine:[/b] エレベーターを移動開始させる際に乗っていると判定されるエリアを広げた。
+[*][b]Tilarus-5: Forgotten Factory:[/b] ブラッドハウンド号が味方にダメージを与えることはなくなった。
+[*][b]Tilarus-5: Forgotten Factory:[/b] 落ちている武器がエレベーターを詰まらせてしまうのを修正。
+[*][b]Tilarus-5: Communication Center:[/b] データのダウンロードが完了するまではエンジニアの必須フラグが維持されるようになった。
+[*][b]Lana's Escape: Lana's Complex:[/b] 脱出エリアの判定を広げて直感的にわかりやすくした。
+[*][b]Paranoia: Unexpected Encounter:[/b] データのダウンロードが完了するまではエンジニアの必須フラグが維持されるようになった。
+[*][b]Nam Humanum: Platform XVII:[/b] 隊員が特定の位置に立っているとプラットフォームが移動できなかったのを修正。
+[*][b]Nam Humanum: Platform XVII:[/b] Bot隊員が特定の状況で置いていかれてしまうのを修正。
+[*][b]BioGen Corporation: Operation X5:[/b] データのダウンロードが完了するまではエンジニアの必須フラグが維持されるようになった。
+[*][b]Reduction: Operation Sandstorm:[/b] 北西の目標周辺に表示がおかしい地形があったのを修正。
+[*][b]Reduction: Operation Sandstorm:[/b] 隊員の手で上陸挺を破壊可能だったのを修正。
+[*][b]Bunker:[/b] 開始・終了地点の上に間違えて置かれていたキルプレーンを削除。
+[*][b]Reversed Cargo Elevator:[/b] エレベーターを移動開始させる際に乗っていると判定されるエリアを広げた。
+[/list]
+
+[h2]武器[/h2]
+[list]
+[*][b]M42 ヴィンディケイター:[/b] 焼夷グレネードの見た目がパケットロスに影響されにくくなるようにした。
+[*][b]モデル35 ポンプアクションショットガン:[/b] 設定で自動リロードをオフにしていても同時発射を使用すると勝手にリロードされていたのを修正。
+[*][b]M868 フレイマーユニット:[/b] 設定で自動リロードをオフにしていても消火器モードを使用すると勝手にリロードされていたのを修正。
+[*][b]M868 フレイマーユニット:[/b] 自動リロードがオフで燃料が残り1の時、燃料が空になっても撃てているように見えていたのを修正。
+[/list]
+
+[h2]3Dモデル[/h2]
+[list]
+[*][b]フォークリフト:[/b] 物理メッシュを更新。
+[*][b]積み込みコンテナ:[/b] 貨物コンテナに物理メッシュを追加。
+[/list]
+
+[h2]その他[/h2]
+[list]
+[*]スポットライトの光の動きがガクガクしていたのを修正。
+[*]コンソール変数[b]cl_showspectators[/b]を追加。
+[*]住民NPCにvscript関数[b]Die()[/b]を追加。
+[*]Hammerエディタ上でセントリー上部に"friendlyfire"のプロパティを追加。
+[*]コンソール変数[b]rd_drone_flinch_resets_attack[/b]を削除して以前の状態に戻した。
+[*]設定画面の「戻る」コマンドをスキン変更されたカスタムUIに対応させた。
+[/list]
+
+[h2]感染デスマッチ[/h2]
+[list]
+[*]新ラウンドが開始される際にスクリプトが止まっていたのを修正。
+[*][i]まだ問題が発生する場合は、[url=https://steamcommunity.com/id/moddedmarionette/]ModdedMarionette[/url]までご連絡ください。[/i]
+[/list]
+
+[h2][url=https://stats.reactivedrop.com/5a]IAF(星間連盟軍)に君が必要だ！[/url][/h2]
+Alien Swarm: Reactive Dropは完全無料ですが、沢山のボランティアの方々による支援は片手間でできているものではありません。可能ならば、[url=https://steamcommunity.com/app/563560/workshop/]Steamワークショップ[/url]にコンテンツを投稿したり、バグ報告を送ったり、[url=https://github.com/ReactiveDrop/reactivedrop_public_src]コード[/url]の改善を提案したり、ゲームを自分の言語に[url=https://github.com/ReactiveDrop/reactivedrop_translations]翻訳[/url]したり、Alien Swarm: Reactive Dropを支えるボランティアの方々に[url=https://store.steampowered.com/itemstore/563560/]1ドルの寄付[/url]をしてみてください。IAFは宇宙海兵隊指揮官であるあなたの協力にいつも感謝しております。</string>
+<string id="subtitle"></string>
+<string id="summary">山積みのバグ修正を終わらせなきゃAlien Swarm: Reactive Dropの生誕記念アップデートを迎えられませんね！</string>
+<string id="title">AS:RDアップデート - 2025年4月20日 "Received"</string></content>
