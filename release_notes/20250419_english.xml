@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<content><string id="body">It wouldn't be an Alien Swarm: Reactive Drop anniversary update without a shipload of fixes!
+
+[h2]Missions[/h2]
+[list]
+[*][b]Jacob's Rest: Landing Bay:[/b] A crate in the welding tutorial room no longer allows bullets and grenades to pass through.
+[*][b]Jacob's Rest: Deima Surface Bridge:[/b] The Bloodhound no longer does friendly fire damage.
+[*][b]Jacob's Rest: Deima Surface Bridge:[/b] Moved the forklift and box in the shieldbug intro slightly so they are no longer hovering in the air.
+[*][b]Jacob's Rest: Sewer Junction B5:[/b] Extended the escape area to include the southeast corner of the breach.
+[*][b]Jacob's Rest: Timor Station:[/b] The Bloodhound no longer does friendly fire damage.
+[*][b]Jacob's Rest: Timor Station:[/b] Fixed parasites walking on air at the final hack if a small bridge wasn't extended.
+[*][b]Jacob's Rest: Timor Station:[/b] Fixed tech requirement staying active during data download.
+[*][b]Jacob's Rest: Timor Station:[/b] Removed the delay for opening doors after power activation.
+[*][b]Area 9800: Wastelands:[/b] Fixed marines being able to be thrown upwards into a deadly fall by shieldbugs during the final gauntlet.
+[*][b]Area 9800: Wastelands:[/b] Fixed tech requirement staying active during data download.
+[*][b]Operation Cleansweep: Storage Facility:[/b] Some barrels are no longer marked as debris and can be used for cover.
+[*][b]Operation Cleansweep: Landing Bay 7:[/b] Cleaned up invisible walls in the final area.
+[*][b]Operation Cleansweep: Landing Bay 7:[/b] Added lights and instructor hints to make it clearer where the escape area is.
+[*][b]Operation Cleansweep: Landing Bay 7:[/b] Fixed tech requirement staying active during data download.
+[*][b]Research 7: Transport Facility:[/b] Fixed walls turning invisible at certain camera rotations.
+[*][b]Research 7: Jericho Mines:[/b] Fixed an invisible hole the floor near the laser.
+[*][b]Tears for Tarnor: Insertion Point:[/b] Moved satelite dishes slightly to avoid them obstructing the view while inside the outpost.
+[*][b]Tears for Tarnor: Abandoned Maintenance Tunnels:[/b] Replaced the broken window laser bypass route with stairs.
+[*][b]Tears for Tarnor: Abandoned Maintenance Tunnels:[/b] The laser is now red because red lasers are more scary-looking. (Please stop walking into the laser.)
+[*][b]Tears for Tarnor: Abandoned Maintenance Tunnels:[/b] Added CAUTION signs surrounding the path that goes through the laser.
+[*][b]Tears for Tarnor: Spaceport:[/b] Fixed tech requirement staying active during data download.
+[*][b]Tilarus-5: Arctic Infiltration:[/b] Fixed tech requirement staying active during data download.
+[*][b]Tilarus-5: Yanaurus Mine:[/b] Expanded the area that counts as being on the elevator for starting it moving.
+[*][b]Tilarus-5: Forgotten Factory:[/b] The Bloodhound no longer does friendly fire damage.
+[*][b]Tilarus-5: Forgotten Factory:[/b] Fixed the elevator being blocked by dropped weapons.
+[*][b]Tilarus-5: Communication Center:[/b] Fixed tech requirement staying active during data download.
+[*][b]Lana's Escape: Lana's Complex:[/b] Extended escape area to be more intuitive.
+[*][b]Paranoia: Unexpected Encounter:[/b] Fixed tech requirement staying active during data download.
+[*][b]Nam Humanum: Platform XVII:[/b] Fixed platform being blocked from moving when marines stood in certain locations.
+[*][b]Nam Humanum: Platform XVII:[/b] Fixed bot marines being left behind in some cases.
+[*][b]BioGen Corporation: Operation X5:[/b] Fixed tech requirement staying active during data download.
+[*][b]Reduction: Operation Sandstorm:[/b] Fixed strange terrain rendering near north-west objective.
+[*][b]Reduction: Operation Sandstorm:[/b] The entry ship can no longer be destroyed by marines.
+[*][b]Bunker:[/b] Removed a misplaced kill plane above the starting and ending rooms.
+[*][b]Reversed Cargo Elevator:[/b] Expanded the area that counts as being on the elevator for starting it moving.
+[/list]
+
+[h2]Weapons[/h2]
+[list]
+[*][b]M42 Vindicator:[/b] Made grenade visual effects more resilient against packet loss.
+[*][b]Model 35 Pump-action Shotgun:[/b] Fixed reloading automatically when firing a double blast even if automatic reload was disabled.
+[*][b]M868 Flamer Unit:[/b] Fixed reloading automatically while shooting extinguisher even if automatic reload was disabled.
+[*][b]M868 Flamer Unit:[/b] Fixed the flamer appearing to fire while empty when automatic reload was disabled if there was only 1 unit of flamer fuel remaining.
+[/list]
+
+[h2]Misc[/h2]
+[list]
+[*]Fixed jittery movement of spotlight glows.
+[*]Added cl_showspectators convar.
+[*]Added Die() vscript function to inhabitable NPCs.
+[*]Added "friendlyfire" property to sentry tops in Hammer.
+[*]Removed and reverted the rd_drone_flinch_resets_attack convar.
+[*]Added support for the "Back" command on the settings screen for custom UI reskins.
+[/list]
+
+[h2]Infection Deathmatch[/h2]
+[list]
+[*]Fixed scripts breaking upon new round start.
+[*][i]If you are still experiencing issues, please contact ModdedMarionette.[/i]
+[/list]
+
+[h2][url=https://stats.reactivedrop.com/5a]The IAF needs you![/url][/h2]
+Alien Swarm: Reactive Drop will always be free, but that doesn't mean it doesn't take a lot of work from a lot of talented volunteers to make. If you can, consider making content for the [url=https://steamcommunity.com/app/563560/workshop/]Steam Workshop[/url], reporting bugs, proposing [url=https://github.com/ReactiveDrop/reactivedrop_public_src]code[/url] improvements, [url=https://github.com/ReactiveDrop/reactivedrop_translations]translating[/url] the game into your language, or [url=https://store.steampowered.com/itemstore/563560/]sending a dollar[/url] to one of the people who made Alien Swarm: Reactive Drop possible. The IAF thanks you for your continued service, Commander.</string>
+<string id="subtitle"></string>
+<string id="summary">It wouldn't be an Alien Swarm: Reactive Drop anniversary update without a shipload of fixes!</string>
+<string id="title">AS:RD Update - April 20, 2025 "Received"</string></content>
