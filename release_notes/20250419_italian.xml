@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<content><string id="body">Non sarebbe un aggiornamento per l'anniversario di Alien Swarm: Reactive Drop senza una serie di correzioni!
+
+[h2]Missioni[/h2]
+[list]
+[*][b]Jacob's Rest: Baia d'Attracco:[/b] Una cassa nella stanza del tutorial di saldatura non permette più il passaggio di proiettili e granate.
+[*][b]Jacob's Rest: Ponte della Superficie di Deima:[/b] Il Bloodhound non infligge più danni da fuoco amico.
+[*][b]Jacob's Rest: Ponte della Superficie di Deima:[/b] Spostato leggermente il muletto e la cassa sul ponte, in modo che non siano più sospesi in aria.
+[*][b]Jacob's Rest: Snodo Fognario B5:[/b] L'area di fuga è stata estesa fino a comprendere l'angolo sud-est della breccia.
+[*][b]Jacob's Rest: Stazione Timor:[/b] Il Bloodhound non infligge più danni da fuoco amico.
+[*][b]Jacob's Rest: Stazione Timor:[/b] Corretto il problema dei parassiti che camminano in aria nell'hack finale se un piccolo ponte non è stato esteso.
+[*][b]Jacob's Rest: Stazione Timor:[/b] Corretto il requisito tecnico che rimane attivo durante il download dei dati.
+[*][b]Jacob's Rest: Stazione Timor:[/b] Eliminato il ritardo per l'apertura delle porte dopo l'attivazione dell'alimentazione.
+[*][b]Area 9800: Lande Desolate:[/b] Corretta la possibilità per i soldati di essere scaraventati verso l'alto in una caduta mortale dagli shieldbug durante il combattimento finale.
+[*][b]Area 9800: Lande Desolate:[/b] Corretto il requisito tecnico che rimane attivo durante il download dei dati.
+[*][b]Operazione Cleansweep: Magazzino:[/b] Alcuni barili non sono più contrassegnati come detriti e possono essere utilizzati come copertura.
+[*][b]Operazione Cleansweep: Baia d'Atterraggio 7:[/b] Ripuliti i muri invisibili nell'area finale.
+[*][b]Operazione Cleansweep: Baia d'Atterraggio 7:[/b] Aggiunte luci e suggerimenti dell'istruttore per rendere più chiara l'area di fuga.
+[*][b]Operazione Cleansweep: Baia d'Atterraggio 7:[/b] Corretto il requisito tecnico che rimane attivo durante il download dei dati.
+[*][b]Research 7: Struttura di Trasporto:[/b] Corretto il problema dei muri che diventano invisibili in determinate rotazioni della telecamera.
+[*][b]Research 7: Miniere di Jericho:[/b] Corretto un foro invisibile sul pavimento vicino al laser.
+[*][b]Lacrime per Tarnor: Punto d'Inserimento:[/b] Spostate leggermente le parabole satellitari per evitare che ostruiscano la visuale all'interno dell'avamposto.
+[*][b]Lacrime per Tarnor: Tunnel della Manutenzione Abbandonati:[/b] Sostituito il percorso di bypass del laser della finestra rotta con delle scale.
+[*][b]Lacrime per Tarnor: Tunnel della Manutenzione Abbandonati:[/b] Il laser ora è rosso perché i laser rossi sono più spaventosi. (Per favore, smettete di camminare dentro il laser).
+[*][b]Lacrime per Tarnor: Tunnel della Manutenzione Abbandonati:[/b] Aggiunta di cartelli di ATTENZIONE attorno al percorso che attraversa il laser.
+[*][b]Lacrime per Tarnor: Spazioporto della Colonia di Oasis:[/b] Corretto il requisito tecnico che rimane attivo durante il download dei dati.
+[*][b]Tilarus-5: Infiltrazione Artica:[/b] Corretto il requisito tecnico che rimane attivo durante il download dei dati.
+[*][b]Tilarus-5: Miniera di Yanaurus:[/b] Ampliata l'area che conta per l'avvio dell'ascensore.
+[*][b]Tilarus-5: Fabbrica Dimenticata:[/b] Il Bloodhound non infligge più danni da fuoco amico.
+[*][b]Tilarus-5: Fabbrica Dimenticata:[/b] Corretto l'ascensore bloccato dalle armi cadute.
+[*][b]Tilarus-5: Centro Comunicazioni:[/b] Corretto il requisito tecnico che rimane attivo durante il download dei dati.
+[*][b]Fuga di Lana: Complesso di Lana:[/b] Area di fuga ampliata per essere più intuitiva.
+[*][b]Paranoia: Incontro Inaspettato:[/b] Corretto il requisito tecnico che rimane attivo durante il download dei dati.
+[*][b]Nam Humanum: Piattaforma XVII:[/b] Corretto il blocco della piattaforma quando i soldati si trovavano in determinate posizioni.
+[*][b]Nam Humanum: Piattaforma XVII:[/b] Corretto l'abbandono dei bot soldati in alcuni casi.
+[*][b]BioGen Corporation: Operazione X5:[/b] Corretto il requisito tecnico che rimane attivo durante il download dei dati.
+[*][b]Reduction: Operazione Sandstorm:[/b] Corretto lo strano rendering del terreno vicino all'obiettivo nord-ovest.
+[*][b]Reduction: Operazione Sandstorm:[/b] La nave d'ingresso non può più essere distrutta dai soldati.
+[*][b]Bunker:[/b] Rimosso un piano di uccisione fuori posto sopra le stanze iniziali e finali.
+[*][b]Ascensore di Carico Invertito:[/b] Ampliata l'area che conta per l'avvio dell'ascensore.
+[/list]
+
+[h2]Armi[/h2]
+[list]
+[*][b]M42 Vindicator:[/b] Gli effetti visivi delle granate sono più resistenti alla perdita di pacchetti.
+[*][b]Fucile a Pompa Modello 35:[/b] Corretta la ricarica automatica quando si spara un doppio colpo, anche se la ricarica automatica era disattivata.
+[*][b]Unità Lanciafiamme M868:[/b] Corretta la ricarica automatica durante l'utilizzo dell'estintore anche se la ricarica automatica era disattivata.
+[*][b]Unità Lanciafiamme M868:[/b] Corretto il fatto che il lanciafiamme sembra sparare mentre è vuoto quando la ricarica automatica è disattivata se rimane solo 1 unità di carburante nel lanciafiamme.
+[/list]
+
+[h2]Modelli[/h2]
+[list]
+[*][b]Muletto:[/b] Aggiornata la mesh della fisica.
+[*][b]Container cargo:[/b] Aggiunta una mesh fisica per i container cargo.
+[/list]
+
+[h2]Vari[/h2]
+[list]
+[*]Corretto il movimento irregolare della luminosità dei riflettori.
+[*]Aggiunta la convar [b]cl_showspectators[/b] convar.
+[*]Aggiunta la funzione vscript [b]Die()[/b] per i PNG giocabili.
+[*]Aggiunta la proprietà "friendlyfire" alla parte superiore delle torrette in Hammer.
+[*]Rimossa e annullata la convar [b]rd_drone_flinch_resets_attack[/b].
+[*]Aggiunto il supporto per il comando "Indietro" nella scharmata delle impostazioni per i reskin della IU personalizzati.
+[/list]
+
+[h2]Deathmatch Infezione[/h2]
+[list]
+[*]Corretti gli script che si rompono all'avvio di un nuovo round.
+[*][i]Se si verificano ancora problemi, contattare [url=https://steamcommunity.com/id/moddedmarionette/]ModdedMarionette[/url].[/i]
+[/list]
+
+[h2][url=https://stats.reactivedrop.com/5a]L'IAF ha bisogno di te![/url][/h2]
+Alien Swarm: Reactive Drop sarà sempre gratuito, ma questo non significa che la sua realizzazione non richieda molto lavoro da parte di molti volontari di talento. Se potete, prendete in considerazione la possibilità di creare contenuti per il [url=https://steamcommunity.com/app/563560/workshop/]Workshop di Steam[/url], di segnalare bug, di proporre [url=https://github.com/ReactiveDrop/reactivedrop_public_src]miglioramenti al codice[/url], di [url=https://github.com/ReactiveDrop/reactivedrop_translations]tradurre[/url] il gioco nella vostra lingua o di [url=https://store.steampowered.com/itemstore/563560/]inviare un euro[/url] a una delle persone che hanno reso possibile Alien Swarm: Reactive Drop. L'IAF vi ringrazia per il vostro continuo servizio, Comandante.</string>
+<string id="subtitle"></string>
+<string id="summary">Non sarebbe un aggiornamento per l'anniversario di Alien Swarm: Reactive Drop senza una serie di correzioni!</string>
+<string id="title">Aggiornamento di AS:RD - 20 Aprile 2025 "Received"</string></content>
