@@ -9245,7 +9245,7 @@
 "[english]rd_main_menu_tip_workshop_showcase_title"		"Trending Workshop Items"
 "rd_main_menu_tip_workshop_showcase_title"		"Trendiga Workshopp-föremål"
 "[english]rd_main_menu_tip_workshop_showcase"		"These are currently some of the most popular addons\non the Steam Workshop. Find new missions, challenges,\nand more on the Steam Workshop!"
-"rd_main_menu_tip_workshop_showcase"		"Dessa är för närvarande några av de mest populära tilläggen\upå Steam Workshoppen. Hitta nya uppdrag, utmaningar,\noch mer i Steam Workshoppen!"
+"rd_main_menu_tip_workshop_showcase"		"Dessa är för närvarande några av de mest populära tilläggen\npå Steam Workshoppen. Hitta nya uppdrag, utmaningar,\noch mer i Steam Workshoppen!"
 "[english]rd_main_menu_tip_notifications_title"		"Notifications"
 "rd_main_menu_tip_notifications_title"		"Aviseringar"
 "[english]rd_main_menu_tip_notifications"		"Press this button to see a list of recent messages about your account."
