@@ -19,8 +19,8 @@
 [*][b]Operation Rent Hus: Landningsvik 7:[/b] Fixade tekniska krav som förblir aktiva under datanedladdning.
 [*][b]Forskning 7: Transportanläggning:[/b] Fixade väggar som blir osynliga vid vissa kamerarotationer.
 [*][b]Forskning 7: Jerichos Gruva:[/b] Fixade ett osynligt hål i golvet nära lasern.
-[*][b]Tårar för Tarnor: Insättningspunkt:[/b] Flytta parabolantenner något för att undvika att de hindrar sikten när du är inne i utposten.
-[*][b]Tårar för Tarnor: Övergivna Underhållstunnlar:[/b] Ersatte laserförbifartsvägen för trasigt fönster med trappor.
+[*][b]Tårar för Tarnor: Insättningspunkt:[/b] Flyttade parabolantennerna något för att undvika att de hindrar sikten när du är inne i utposten.
+[*][b]Tårar för Tarnor: Övergivna Underhållstunnlar:[/b] Ersatte laserförbifartsvägen för ett trasigt fönster med trappor.
 [*][b]Tårar för Tarnor: Övergivna Underhållstunnlar:[/b] Lasern är nu röd eftersom röda lasrar ser mer skrämmande ut. (Snälla sluta gå in i lasern.)
 [*][b]Tårar för Tarnor: Övergivna Underhållstunnlar:[/b] Lade till VARNING-skyltar som omger vägen som går genom lasern.
 [*][b]Tårar för Tarnor: Rymdhamn:[/b] Fixade tekniska krav som förblir aktiva under datanedladdning.
@@ -31,10 +31,10 @@
 [*][b]Tilarus-5: Kommunikationscenter:[/b] Fixade tekniska krav som förblir aktiva under datanedladdning.
 [*][b]Lanas Flykt: Lanas Komplex:[/b] Utökat utrymningsområde för att vara mer intuitivt.
 [*][b]Paranoia: Unexpected Encounter:[/b] Fixade tekniska krav som förblir aktiva under datanedladdning.
-[*][b]Nam Humanum: Plattform XVII:[/b] Fixade plattform som blockeras från att röra sig när marinsoldater stod på vissa platser.
+[*][b]Nam Humanum: Plattform XVII:[/b] Fixade plattform som blockeras från att röra på sig när marinsoldater stod på vissa platser.
 [*][b]Nam Humanum: Plattform XVII:[/b] Fixade att botmariner blev kvar i vissa fall.
 [*][b]BioGen Corporation: Operation X5:[/b] Fixade tekniska krav som förblir aktiva under datanedladdning.
-[*][b]Reduction: Operation Sandstorm:[/b] Fixade konstig terrängrendering nära nordvästmål.
+[*][b]Reduction: Operation Sandstorm:[/b] Fixade konstig terrängrendering nära det nordvästra målet.
 [*][b]Reduction: Operation Sandstorm:[/b] Infartsfartyget kan inte längre förstöras av marinsoldater.
 [*][b]Bunker:[/b] Tog bort ett felplacerat dödplan ovanför start- och slutrummen.
 [*][b]Omvänd Lasthiss:[/b] Utökade området som räknas som på hissen för att starta den.

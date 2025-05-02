@@ -6,7 +6,7 @@
 "[english]chat_filterbutton"		"Filters"
 "chat_filterbutton"		"Filter"
 "[english]filter_joinleave"		"Joins/Leaves"
-"filter_joinleave"		"Gå Med/Lämna"
+"filter_joinleave"		"Går Med/Lämnar"
 "[english]filter_namechange"		"Name Changes"
 "filter_namechange"		"Namnbyten"
 "[english]filter_publicchat"		"Public Chat"
