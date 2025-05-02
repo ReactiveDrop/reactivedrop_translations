@@ -899,8 +899,8 @@
 "[english]bastille.AlienTooClose5"		"<clr:205,127,50><B>Bastille:<B> On me!"
 "bastille.AlienTooClose5"		"<clr:205,127,50><B>Bastille:<B> Ils sont sur moi!"
 
-		"[english]bastille.MadFiring0"		"<clr:205,127,50><B>Bastille:<B> <I>Putain de merde, saloperie de merde, encule."
-		"bastille.MadFiring0"		"<clr:205,127,50><B>Bastille:<B> <I>Putain de merde, saloperie de merde, enculé."
+"[english]bastille.MadFiring0"		"<clr:205,127,50><B>Bastille:<B> <I>Putain de merde, saloperie de merde, encule."
+"bastille.MadFiring0"		"<clr:205,127,50><B>Bastille:<B> <I>Putain de merde, saloperie de merde, enculé."
 
 "[english]bastille.MadFiring1"		"<clr:205,127,50><B>Bastille:<B> Eat this, alien scum!"
 "bastille.MadFiring1"		"<clr:205,127,50><B>Bastille:<B> Prends-toi ça, saleté d'alien!"
@@ -1461,8 +1461,8 @@
 "[english]crash.WatchOut2"		"<clr:238,180,34><B>Crash:<B> Watch out!"
 "crash.WatchOut2"		"<clr:238,180,34><B>Crash:<B> Attention!"
 
-		"[english]crash.Shieldbug0"		"<clr:238,180,34><B>Crash:<B> Holy Shit!"
-		"crash.Shieldbug0"		"<clr:238,180,34><B>Crash:<B> Holy Shit!"
+"[english]crash.Shieldbug0"		"<clr:238,180,34><B>Crash:<B> Holy Shit!"
+"crash.Shieldbug0"		"<clr:238,180,34><B>Crash:<B> Putain de merde!"
 
 
 
@@ -3731,8 +3731,8 @@
 "sarge.Impatience0"		"<clr:238,207,161><B>Sarge:<B> Allé marin, on est pas payés à l'heure!"
 
 
-		"[english]sarge.Impatience1"		"<clr:238,207,161><B>Sarge:<B> Goddamn, hurry up! I'm getting tired."
-		"sarge.Impatience1"		"<clr:238,207,161><B>Sarge:<B> Goddamn, dépêchez! Ca me fatigue."
+"[english]sarge.Impatience1"		"<clr:238,207,161><B>Sarge:<B> Goddamn, hurry up! I'm getting tired."
+"sarge.Impatience1"		"<clr:238,207,161><B>Sarge:<B> Putain, dépêchez! Ca me fatigue."
 
 
 "[english]sarge.Impatience2"		"<clr:238,207,161><B>Sarge:<B> Shit, how long you gonna play that solitaire game anyway?"
@@ -4651,8 +4651,8 @@
 "vegas.Selection0"		"<clr:84,255,159><B>Vegas:<B> Prêt."
 
 
-		"[english]vegas.Selection1"		"<clr:84,255,159><B>Vegas:<B> Wanna play a little game?"
-		"vegas.Selection1"		"<clr:84,255,159><B>Vegas:<B> Wanna play a little game?"
+"[english]vegas.Selection1"		"<clr:84,255,159><B>Vegas:<B> Wanna play a little game?"
+"vegas.Selection1"		"<clr:84,255,159><B>Vegas:<B> Tu veux jouer à un jeu?"
 
 
 "[english]vegas.Selection2"		"<clr:84,255,159><B>Vegas:<B> What do you want?"
@@ -6649,12 +6649,12 @@
 "DM.instagib_activated"		"<clr:238,0,0><B>ANNOUNCER:<B> Mode InstaGib activé."
 "[english]DM.gungame_activated"		"<clr:238,0,0><B>ANNOUNCER:<B> Gun Game mode activated."
 "DM.gungame_activated"		"<clr:238,0,0><B>ANNOUNCER:<B> Mode Gun Game activé."
-		"[english]DM.double_kill"		"<clr:238,0,0><B>ANNOUNCER:<B> Double kill!"
-		"DM.double_kill"		"<clr:238,0,0><B>ANNOUNCER:<B> Double kill!"
-		"[english]DM.tripple_kill"		"<clr:238,0,0><B>ANNOUNCER:<B> Triple kill!"
-		"DM.tripple_kill"		"<clr:238,0,0><B>ANNOUNCER:<B> Triple kill!"
-		"[english]DM.monster_kill"		"<clr:238,0,0><B>ANNOUNCER:<B> M-M-M-Monster kill!"
-		"DM.monster_kill"		"<clr:238,0,0><B>ANNOUNCER:<B> M-M-M-Monstre kill!"
+"[english]DM.double_kill"		"<clr:238,0,0><B>ANNOUNCER:<B> Double kill!"
+"DM.double_kill"		"<clr:238,0,0><B>ANNOUNCER:<B> Double kill!"
+"[english]DM.tripple_kill"		"<clr:238,0,0><B>ANNOUNCER:<B> Triple kill!"
+"DM.tripple_kill"		"<clr:238,0,0><B>ANNOUNCER:<B> Triple kill!"
+"[english]DM.monster_kill"		"<clr:238,0,0><B>ANNOUNCER:<B> M-M-M-Monster kill!"
+"DM.monster_kill"		"<clr:238,0,0><B>ANNOUNCER:<B> M-M-M-Monstre kill!"
 "[english]DM.godlike"		"<clr:238,0,0><B>ANNOUNCER:<B> GODLIKE!"
 "DM.godlike"		"<clr:238,0,0><B>ANNOUNCER:<B> DIVIN!"
 
@@ -6666,73 +6666,73 @@
 "[english]tarnor.train_departing1"		"<clr:158,120,60><B>Station Announcement:<B> This train is now departing."
 "tarnor.train_departing1"		"<clr:158,120,60><B>Annonce de Gare:<B> Départ du train."
 
-		// NAM HUMANUM
+// NAM HUMANUM
 
-		"[english]Duval.01_02"		"<clr:179,203,207><B>Prof. Duval:<B> Charlie, Julie Duval here. Thermals from your shuttle's radar are tracking multiple signals in and out the installation's roofs and ducts. Though these readouts are oddly...human, for lack of details."
-		"Duval.01_02"		"<clr:179,203,207><B>Pr. Duval:<B> Charlie, ici Julie Duval. Les thermiques de votre navette balisent plusieurs détections dans les compartiments de l’installation. Bien que ces signatures soit étrangement... humaines, faute de plus de détails."
+"[english]Duval.01_02"		"<clr:179,203,207><B>Prof. Duval:<B> Charlie, Julie Duval here. Thermals from your shuttle's radar are tracking multiple signals in and out the installation's roofs and ducts. Though these readouts are oddly...human, for lack of details."
+"Duval.01_02"		"<clr:179,203,207><B>Prof. Duval:<B> Charlie, ici Julie Duval. Les thermiques de votre navette balisent plusieurs détections dans les compartiments de l’installation. Bien que ces signatures soit étrangement... humaines, pour ne pas dire plus."
 
 "[english]Duval.01_03"		"<clr:179,203,207><B>Prof. Duval:<B> Their morphologies are just...not right. This specimen…"
 "Duval.01_03"		"<clr:179,203,207><B>Prof. Duval:<B> Leur morphologie n'est... pas normale. Ce specimen…"
 
-		"[english]Duval.01_03_01"		"<clr:179,203,207><B>Prof. Duval:<B> Understood."
-		"Duval.01_03_01"		"<clr:179,203,207><B>Pr. Duval:<B> Compris."
+"[english]Duval.01_03_01"		"<clr:179,203,207><B>Prof. Duval:<B> Understood."
+"Duval.01_03_01"		"<clr:179,203,207><B>Prof. Duval:<B> Compris."
 
-		"[english]Duval.01_04"		"<clr:179,203,207><B>Prof. Duval:<B> Charlie, it appears the warehouse's booth control is out of power. You'll have to get it back on before progressing any further inside the installation. Keep an eye out for what should be a maintenance panel in the vicinity."
-		"Duval.01_04"		"<clr:179,203,207><B>Pr. Duval:<B> Charlie, il semblerait que le contrôle des portes de l’entrepôt ne reçoive plus de courant. Vous devrez le rétablir avant de poursuivre plus loin dans l’installation. Restez à l’affût d’un panneau de maintenance dans votre proximité."
+"[english]Duval.01_04"		"<clr:179,203,207><B>Prof. Duval:<B> Charlie, it appears the warehouse's booth control is out of power. You'll have to get it back on before progressing any further inside the installation. Keep an eye out for what should be a maintenance panel in the vicinity."
+"Duval.01_04"		"<clr:179,203,207><B>Prof. Duval:<B> Charlie, il semblerait que le contrôle des portes de l’entrepôt ne reçoive plus de courant. Vous devrez le rétablir avant de poursuivre plus loin dans l’installation. Restez à l’affût d’un panneau de maintenance dans votre proximité."
 
-		"[english]Duval.01_05"		"<clr:179,203,207><B>Prof. Duval:<B> Power's back on. Good job..."
-		"Duval.01_05"		"<clr:179,203,207><B>Pr. Duval:<B> Courant rétabli. Beau travail..."
+"[english]Duval.01_05"		"<clr:179,203,207><B>Prof. Duval:<B> Power's back on. Good job..."
+"Duval.01_05"		"<clr:179,203,207><B>Prof. Duval:<B> Courant rétabli. Bon travail..."
 
-		"[english]Duval.01_06"		"<clr:179,203,207><B>Prof. Duval:<B> Charlie, we're picking up a lot of activities converging on your position, you'll have to hold them until the opening sequence is through!"
-		"Duval.01_06"		"<clr:179,203,207><B>Pr. Duval:<B> Charlie, nous détectons une forte activité convergeant sur votre position, vous devrez les retenir jusqu’à la fin de la séquence d’ouverture!"
+"[english]Duval.01_06"		"<clr:179,203,207><B>Prof. Duval:<B> Charlie, we're picking up a lot of activities converging on your position, you'll have to hold them until the opening sequence is through!"
+"Duval.01_06"		"<clr:179,203,207><B>Prof. Duval:<B> Charlie, nous détectons une forte activité convergeant sur votre position, vous devrez les retenir jusqu’à la fin de la séquence d’ouverture!"
 
-		"[english]Duval.02_02"		"<clr:179,203,207><B>Prof. Duval:<B> Commander, if I may... I believe this excursion could turn into an opportunity to learn more about this alien 'parasite' that so many settlements seem to have encountered over the last few months. Maybe extending the field of investigation, given the uniqueness of Lugdunum's status, could lead to some sort of answer about this phenomenon as a whole."
-		"Duval.02_02"		"<clr:179,203,207><B>Pr. Duval:<B> Commandant, permettez-moi… Cette excursion pourrait être l’opportunité d’en apprendre davantage à propos de ce ‘parasite’ alien que tant de colonies semblent avoir rencontré ces derniers mois. Peut-être qu’étendre le champ d’investigation, considérant le caractère unique de la situation, nous offrirait une image plus claire de ce phénomène."
+"[english]Duval.02_02"		"<clr:179,203,207><B>Prof. Duval:<B> Commander, if I may... I believe this excursion could turn into an opportunity to learn more about this alien 'parasite' that so many settlements seem to have encountered over the last few months. Maybe extending the field of investigation, given the uniqueness of Lugdunum's status, could lead to some sort of answer about this phenomenon as a whole."
+"Duval.02_02"		"<clr:179,203,207><B>Prof. Duval:<B> Commandant, permettez-moi… Je pense que cette excursion pourrait être l’opportunité d’en apprendre davantage à propos de ce ‘parasite’ alien que tant de colonies semblent avoir rencontré ces derniers mois. Peut-être qu’étendre le champ d’investigation, considérant le caractère unique du statut de Lugdunum, nous offrirait une image plus claire de ce phénomène."
 
-		"[english]Duval.02_02_1"		"<clr:179,203,207><B>Prof. Duval:<B> Sir, with all due respect, what I'm asking is merely that we-"
-		"Duval.02_02_1"		"<clr:179,203,207><B>Pr. Duval:<B> Monsieur, avec tout mon respect, je ne suggère que-"
+"[english]Duval.02_02_1"		"<clr:179,203,207><B>Prof. Duval:<B> Sir, with all due respect, what I'm asking is merely that we-"
+"Duval.02_02_1"		"<clr:179,203,207><B>Prof. Duval:<B> Monsieur, avec tout mon respect, je ne suggère que-"
 
-		"[english]Duval.02_04"		"<clr:179,203,207><B>Prof. Duval:<B> Sir, I have to insist on the singularity of the circumstances we are drawing ourselves into. From the few records I could salvage, it reads like something happened, unlike past attacks, with the people of this colony as a direct cause... References to experiments and the creatures you've...we've been, so far, blissfully shooting down! Whatever we might find, would we not benefit from it, if nothing else?"
-		"Duval.02_04"		"<clr:179,203,207><B>Pr. Duval:<B> Monsieur, je me dois d’insister quant à la singularité des circonstances dans lesquelles nous sommes. Au vu des quelques documents récupérés, il est évident que quelque chose s’est déroulé… Des mentions d’expériences relatant au créatures que vous... que NOUS massacrons sans réflexion. Quoique l’on puisse trouver, n’en bénéficierions-nous pas, à tout le moins?"
+"[english]Duval.02_04"		"<clr:179,203,207><B>Prof. Duval:<B> Sir, I have to insist on the singularity of the circumstances we are drawing ourselves into. From the few records I could salvage, it reads like something happened, unlike past attacks, with the people of this colony as a direct cause... References to experiments and the creatures you've...we've been, so far, blissfully shooting down! Whatever we might find, would we not benefit from it, if nothing else?"
+"Duval.02_04"		"<clr:179,203,207><B>Prof. Duval:<B> Monsieur, je me dois d’insister quant à la singularité des circonstances dans lesquelles nous sommes. Au vu des quelques documents récupérés, il est évident que quelque chose s’est déroulé, contrairement aux attaques passées, dont les habitants de cette colonie sont la cause directe… Des mentions d’expériences relatant au créatures que vous... que NOUS massacrons sans réflexion. Quoique l’on puisse trouver, n’en bénéficierions-nous pas, à tout le moins?"
 
-		"[english]Duval.02_04_1"		"<clr:179,203,207><B>Prof. Duval:<B> Quite clear...sir."
-		"Duval.02_04_1"		"<clr:179,203,207><B>Pr. Duval:<B> Très clair... monsieur."
+"[english]Duval.02_04_1"		"<clr:179,203,207><B>Prof. Duval:<B> Quite clear...sir."
+"Duval.02_04_1"		"<clr:179,203,207><B>Prof. Duval:<B> Très clair... monsieur."
 
-		"[english]Duval.02_05"		"<clr:179,203,207><B>Prof. Duval:<B> ...all of its body heat is concentrated around its rear, that's the weak point!"
-		"Duval.02_05"		"<clr:179,203,207><B>Pr. Duval:<B> ...toute sa chaleur corporelle se trouve à l’arrière, c’est son point faible!"
+"[english]Duval.02_05"		"<clr:179,203,207><B>Prof. Duval:<B> ...all of its body heat is concentrated around its rear, that's the weak point!"
+"Duval.02_05"		"<clr:179,203,207><B>Prof. Duval:<B> ...toute sa chaleur corporelle se trouve à l’arrière, c’est son point faible!"
 
-		"[english]Duval.03_01"		"<clr:179,203,207><B>Prof. Duval:<B> This place is a maze... Our best chance, if we're to condemn the facility, would be to overheat its power source. A nuclear chain-reaction should be enough to cave the entire thing on itself. Looking at the design plans, we know that one of Lugdunum's cores is located within this floor's eastern section, alongside the...chief scientist's office? Huh."
-		"Duval.03_01"		"<clr:179,203,207><B>Pr. Duval:<B> Cet endroit est un labyrinthe... Notre meilleur espoir, si nous venions à condamner l’installation, serait de surchauffer sa source d’énergie. Une chaîne de réaction nucléaire devrait suffire à enterrer la colonie sur elle-même. Grâce aux plans de conception, nous savons que l’un des noyau de Lugdunum se situe à l’est de cette section, juste au-dessus d’un bureau... celui du scientifique en chef? Hmm."
+"[english]Duval.03_01"		"<clr:179,203,207><B>Prof. Duval:<B> This place is a maze... Our best chance, if we're to condemn the facility, would be to overheat its power source. A nuclear chain-reaction should be enough to cave the entire thing on itself. Looking at the design plans, we know that one of Lugdunum's cores is located within this floor's eastern section, alongside the...chief scientist's office? Huh."
+"Duval.03_01"		"<clr:179,203,207><B>Prof. Duval:<B> Cet endroit est un labyrinthe... Notre meilleur espoir, si nous venions à condamner l’installation, serait de surchauffer sa source d’énergie. Une chaîne de réaction nucléaire devrait suffire à enterrer la colonie sur elle-même. Grâce aux plans de conception, nous savons que l’un des noyau de Lugdunum se situe dans la partie est de cet étage, juste au-dessus d’un bureau... celui du bureau du chef scientifique? Hmm."
 
-		"[english]Duval.03_01_1"		"<clr:179,203,207><B>Prof. Duval:<B> Of course. The only access to the east has been shut but, luckily, the corridor to the west appears to be leading to a remotely controlled defense station. If you find a way to make it work, that may be your ticket to the power core."
-		"Duval.03_01_1"		"<clr:179,203,207><B>Pr. Duval:<B> Bien sûr. L’unique accès vers l’est est bloqué mais, heureusement, le corridor vers l’ouest semble mener à la station de contrôle des défenses. Si vous trouvez un moyen de la mettre à bon usage, ça peut être votre ticket pour le noyau nucléaire."
+"[english]Duval.03_01_1"		"<clr:179,203,207><B>Prof. Duval:<B> Of course. The only access to the east has been shut but, luckily, the corridor to the west appears to be leading to a remotely controlled defense station. If you find a way to make it work, that may be your ticket to the power core."
+"Duval.03_01_1"		"<clr:179,203,207><B>Prof. Duval:<B> Bien sûr. Le seul accès vers l’est est bloqué mais, heureusement, le corridor vers l’ouest semble mener à la station de contrôle des défenses. Si vous trouvez un moyen de la mettre à bon usage, ça peut être votre ticket pour le noyau nucléaire."
 
-		"[english]Duval.03_02"		"<clr:179,203,207><B>Prof. Duval:<B> It grows and spreads without restraint, like...a cancer."
-		"Duval.03_02"		"<clr:179,203,207><B>Pr. Duval:<B> Ça se propage de manière incontrôlé, comme... un cancer."
+"[english]Duval.03_02"		"<clr:179,203,207><B>Prof. Duval:<B> It grows and spreads without restraint, like...a cancer."
+"Duval.03_02"		"<clr:179,203,207><B>Prof. Duval:<B> Ça se propage de manière incontrôlé, comme... un cancer."
 
-		"[english]Duval.03_03"		"<clr:179,203,207><B>Prof. Duval:<B> Commander... Some of these bodies are showing gunshot wounds."
-		"Duval.03_03"		"<clr:179,203,207><B>Pr. Duval:<B> Commandant... Certains de ces corps ont des blessures par balle."
+"[english]Duval.03_03"		"<clr:179,203,207><B>Prof. Duval:<B> Commander... Some of these bodies are showing gunshot wounds."
+"Duval.03_03"		"<clr:179,203,207><B>Prof. Duval:<B> Commandant... Certains de ces corps ont des blessures par balle."
 
-		"[english]Duval.03_03_1"		"<clr:179,203,207><B>Prof. Duval:<B> Or maybe we can prevent it from happening again, if only we knew..."
-		"Duval.03_03_1"		"<clr:179,203,207><B>Pr. Duval:<B> Ou peut-être pourrions-nous empêcher que cela ne se reproduise, si seulement nous en savions plus..."
+"[english]Duval.03_03_1"		"<clr:179,203,207><B>Prof. Duval:<B> Or maybe we can prevent it from happening again, if only we knew..."
+"Duval.03_03_1"		"<clr:179,203,207><B>Prof. Duval:<B> Ou peut-être pourrions-nous empêcher que cela ne se reproduise, si seulement nous en savions plus..."
 
-		"[english]Duval.03_04"		"<clr:179,203,207><B>Prof. Duval:<B> There, that's the defense station."
-		"Duval.03_04"		"<clr:179,203,207><B>Pr. Duval:<B> Là, c’est la station de défense."
+"[english]Duval.03_04"		"<clr:179,203,207><B>Prof. Duval:<B> There, that's the defense station."
+"Duval.03_04"		"<clr:179,203,207><B>Prof. Duval:<B> Là, c’est la station de défense."
 
-		"[english]Duval.03_06"		"<clr:179,203,207><B>Prof. Duval:<B> This...is Dr. Moreau's office. He seemed to have control on all communications coming in and out the colony... For whatever reason, he must have been the one to send the distress signal."
-		"Duval.03_06"		"<clr:179,203,207><B>Prof. Duval:<B> This...is Dr. Moreau's office. He seemed to have control on all communications coming in and out the colony... For whatever reason, he must have been the one to send the distress signal."
+"[english]Duval.03_06"		"<clr:179,203,207><B>Prof. Duval:<B> This...is Dr. Moreau's office. He seemed to have control on all communications coming in and out the colony... For whatever reason, he must have been the one to send the distress signal."
+"Duval.03_06"		"<clr:179,203,207><B>Prof. Duval:<B> C'est...le bureau du Dr Moreau. Il semblait avoir le contrôle de toutes les communications entrant et sortant de la colonie... Pour une raison ou une autre, c'est lui qui a dû envoyer le signal de détresse."
 
-		"[english]Duval.03_08"		"<clr:179,203,207><B>Prof. Duval:<B> One last thing Charlie, I've marked a database mainframe on your map, all you have to do is-"
-		"Duval.03_08"		"<clr:179,203,207><B>Pr. Duval:<B> Une dernière chose Charlie, j’ai marqué une centrale de base de données sur votre carte, vous n’avez plus qu’à-"
+"[english]Duval.03_08"		"<clr:179,203,207><B>Prof. Duval:<B> One last thing Charlie, I've marked a database mainframe on your map, all you have to do is-"
+"Duval.03_08"		"<clr:179,203,207><B>Prof. Duval:<B> Une dernière chose Charlie, j’ai marqué une centrale de base de données sur votre carte, vous n’avez plus qu’à-"
 
-		"[english]Duval.03_08_1"		"<clr:179,203,207><B>Prof. Duval:<B> I know the mission. I'm sorry for putting you through this Charlie, but these datas could do more good now than they ever did harm! The terminal is located inside the chief scientist's office just south of your position. If you hurry, there's still a chance you can use his installation to upload the content into our ship's server!"
-		"Duval.03_08_1"		"<clr:179,203,207><B>Pr. Duval:<B> Je connais la mission. Désolé de vous faire subir ça Charlie, mais ces données pourraient faire plus de bien maintenant qu’elles n’ont jamais fait de mal! Le terminal se trouve dans le bureau du scientifique en chef au sud de votre position. Si vous vous dépêchez, il existe toujours une chance que vous transfériez son contenu jusqu’au serveur du vaisseau!"
+"[english]Duval.03_08_1"		"<clr:179,203,207><B>Prof. Duval:<B> I know the mission. I'm sorry for putting you through this Charlie, but these datas could do more good now than they ever did harm! The terminal is located inside the chief scientist's office just south of your position. If you hurry, there's still a chance you can use his installation to upload the content into our ship's server!"
+"Duval.03_08_1"		"<clr:179,203,207><B>Prof. Duval:<B> Je connais la mission. Désolé de vous faire subir ça Charlie, mais ces données pourraient faire plus de bien maintenant qu’elles n’ont jamais fait de mal! Le terminal se trouve dans le bureau du chef scientifique au sud de votre position. Si vous vous dépêchez, il existe toujours une chance que vous transfériez son contenu jusqu’au serveur du vaisseau!"
 
-		"[english]Duval.03_09"		"<clr:179,203,207><B>Prof. Duval:<B> I got it! To hell with ethics or chain of command. Now get out of there!"
-		"Duval.03_09"		"<clr:179,203,207><B>Pr. Duval:<B> Je les ai! Au diable l’éthique et la hiérarchie. Maintenant sortez de là!"
+"[english]Duval.03_09"		"<clr:179,203,207><B>Prof. Duval:<B> I got it! To hell with ethics or chain of command. Now get out of there!"
+"Duval.03_09"		"<clr:179,203,207><B>Prof. Duval:<B> Je les ai! Au diable l’éthique et la hiérarchie. Maintenant sortez de là!"
 
-		"[english]Duval.03_10"		"<clr:179,203,207><B>Prof. Duval:<B> Through the emergency exit, quickly!"
-		"Duval.03_10"		"<clr:179,203,207><B>Pr. Duval:<B> Vers la sortie d’urgence, vite!"
+"[english]Duval.03_10"		"<clr:179,203,207><B>Prof. Duval:<B> Through the emergency exit, quickly!"
+"Duval.03_10"		"<clr:179,203,207><B>Prof. Duval:<B> Vers la sortie d’urgence, vite!"
 
 
 		"[english]Richard.01_01"		"<clr:191,195,167><B>Cmdr. Richard:<B> Charlie Squad, this is your commander. Professor Duval and I will be monitoring your progress throughout the searches. Communications are cut off from your end so be alert, we're still unsure of what to expect down there."
@@ -6815,31 +6815,31 @@
 "[english]Vesta.03_11"		"<clr:234,217,245><B>???:<B> Vesta...lives."
 "Vesta.03_11"		"<clr:234,217,245><B>???:<B> Vesta...vit."
 
-		// ACCIDENT 32
+// ACCIDENT 32
 
-		"[english]Amber.01_01"		"<clr:255,0,0><B>AMBER Warning:<B><clr:158,143,39> Antenna Communication Failure."
-		"Amber.01_01"		"<clr:255,0,0><B>AMBER Warning:<B><clr:158,143,39> Antenna Communication Failure."
+"[english]Amber.01_01"		"<clr:255,0,0><B>AMBER Warning:<B><clr:158,143,39> Antenna Communication Failure."
+"Amber.01_01"		"<clr:255,0,0><B>AMBER Warning:<B><clr:158,143,39> Défaut de communication de l'antenne."
 
-		"[english]Amber.01_02"		"<clr:255,0,0><B>AMBER Warning:<B><clr:158,143,39> Secondary Reactor Coolant Activated."
-		"Amber.01_02"		"<clr:255,0,0><B>AMBER Warning:<B><clr:158,143,39> Secondary Reactor Coolant Activated."
+"[english]Amber.01_02"		"<clr:255,0,0><B>AMBER Warning:<B><clr:158,143,39> Secondary Reactor Coolant Activated."
+"Amber.01_02"		"<clr:255,0,0><B>AMBER Warning:<B><clr:158,143,39> Activation du refroidissement du réacteur secondaire."
 
-		"[english]Amber.02_01"		"<clr:255,0,0><B>AMBER Warning:<B><clr:158,143,39> Water Level Overload."
-		"Amber.02_01"		"<clr:255,0,0><B>AMBER Warning:<B><clr:158,143,39> Water Level Overload."
+"[english]Amber.02_01"		"<clr:255,0,0><B>AMBER Warning:<B><clr:158,143,39> Water Level Overload."
+"Amber.02_01"		"<clr:255,0,0><B>AMBER Warning:<B><clr:158,143,39> Surcharge du niveau d'eau."
 
-		"[english]Amber.02_02"		"<clr:255,0,0><B>AMBER Warning:<B><clr:158,143,39> Main Reactor Power Nominal."
-		"Amber.02_02"		"<clr:255,0,0><B>AMBER Warning:<B><clr:158,143,39> Main Reactor Power Nominal."
+"[english]Amber.02_02"		"<clr:255,0,0><B>AMBER Warning:<B><clr:158,143,39> Main Reactor Power Nominal."
+"Amber.02_02"		"<clr:255,0,0><B>AMBER Warning:<B><clr:158,143,39> Puissance du réacteur principal nominale."
 
-		"[english]Amber.03_01"		"<clr:255,0,0><B>AMBER Warning:<B><clr:158,143,39> Research Personnel Evacuate Immediately."
-		"Amber.03_01"		"<clr:255,0,0><B>AMBER Warning:<B><clr:158,143,39> Research Personnel Evacuate Immediately."
+"[english]Amber.03_01"		"<clr:255,0,0><B>AMBER Warning:<B><clr:158,143,39> Research Personnel Evacuate Immediately."
+"Amber.03_01"		"<clr:255,0,0><B>AMBER Warning:<B><clr:158,143,39> Evacuation immédiate du personnel de recherche."
 
-		"[english]Amber.04_01"		"<clr:255,0,0><B>AMBER Warning:<B><clr:158,143,39> Unauthorized Computer Access Detected."
-		"Amber.04_01"		"<clr:255,0,0><B>AMBER Warning:<B><clr:158,143,39> Unauthorized Computer Access Detected."
+"[english]Amber.04_01"		"<clr:255,0,0><B>AMBER Warning:<B><clr:158,143,39> Unauthorized Computer Access Detected."
+"Amber.04_01"		"<clr:255,0,0><B>AMBER Warning:<B><clr:158,143,39> Détection d'un accès non autorisé à un ordinateur."
 
-		"[english]Amber.05_01"		"<clr:255,0,0><B>AMBER Warning:<B><clr:158,143,39> Sector C Pipe Leak."
-		"Amber.05_01"		"<clr:255,0,0><B>AMBER Warning:<B><clr:158,143,39> Sector C Pipe Leak."
+"[english]Amber.05_01"		"<clr:255,0,0><B>AMBER Warning:<B><clr:158,143,39> Sector C Pipe Leak."
+"Amber.05_01"		"<clr:255,0,0><B>AMBER Warning:<B><clr:158,143,39> Secteur C Fuite d'un tuyau."
 
-		"[english]Amber.06_01"		"<clr:255,0,0><B>AMBER Warning:<B><clr:158,143,39> Detected Radioactive Material Presence."
-		"Amber.06_01"		"<clr:255,0,0><B>AMBER Warning:<B><clr:158,143,39> Detected Radioactive Material Presence."
+"[english]Amber.06_01"		"<clr:255,0,0><B>AMBER Warning:<B><clr:158,143,39> Detected Radioactive Material Presence."
+"Amber.06_01"		"<clr:255,0,0><B>AMBER Warning:<B><clr:158,143,39> Présence de matières radioactives détectée."
 
 		// Sound effects (not shown in Subtitles mode; mostly for sounds without a corresponding visual cue or for very important sounds)
 		"[english]asw_song.Stinger"		"<sfx>[Horde incoming!]"
