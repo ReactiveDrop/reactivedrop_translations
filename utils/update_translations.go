@@ -53,10 +53,10 @@ func main() {
 		for _, prefix := range txtAddonLanguageFiles {
 			addonFiles, err := filepath.Glob(prefix + "_" + sourceLanguage + ".txt")
 			if err != nil {
-				panic(err)
+		panic(err)
 			}
 			for _, file := range addonFiles {
-				fixBOM(strings.TrimSuffix(file, "_"+sourceLanguage+".txt"), ".txt")
+		fixBOM(strings.TrimSuffix(file, "_"+sourceLanguage+".txt"), ".txt")
 			}
 		}
 
@@ -74,7 +74,7 @@ func main() {
 		updateDerivedFiles(sourceLanguage)
 		for _, lang := range derivedLanguages {
 			if emptyLanguages[lang] {
-				continue
+		continue
 			}
 
 			updateDerivedFiles(lang)
@@ -101,8 +101,8 @@ func syncTranslations(prefix, suffix string, quiet bool) {
 	if quiet {
 		defer func() {
 			if r := recover(); r != nil {
-				_, _ = fmt.Fprintf(os.Stderr, "%s_%s%s:\n", prefix, lang, suffix)
-				panic(r)
+		_, _ = fmt.Fprintf(os.Stderr, "%s_%s%s:\n", prefix, lang, suffix)
+		panic(r)
 			}
 		}()
 	}
@@ -138,9 +138,9 @@ func syncTranslations(prefix, suffix string, quiet bool) {
 
 		if !quiet && reportedLanguages[lang] {
 			if upToDate >= total {
-				fmt.Println(" ✔")
+		fmt.Println(" ✔")
 			} else {
-				fmt.Printf("%8.0f%% (%d untranslated strings)\n", percent, total-upToDate)
+		fmt.Printf("%8.0f%% (%d untranslated strings)\n", percent, total-upToDate)
 			}
 		}
 	}
@@ -232,7 +232,7 @@ func nextRealToken(r *bufio.Reader) (s string, t vdf.Token, indent bool, comment
 		default:
 			// remove anything before the newline after the previous string
 			if i := strings.IndexByte(comments, '\n'); i != -1 {
-				comments = comments[i+1:]
+		comments = comments[i+1:]
 			}
 
 			// remove any indentation in the comment string (it will be re-added after newlines if needed; use spaces in comments)
@@ -346,14 +346,14 @@ func loadTranslatedStrings(filename, lang string, wantBOM bool) (*translatedStri
 
 		for _, checkLen := range stringMaxLength {
 			if !strings.HasPrefix(filename, checkLen.File) {
-				continue
+		continue
 			}
 
 			if checkLen.Key.MatchString(key) {
-				if count := utf8.RuneCountInString(value); count > checkLen.MaxLength {
-					panic(fmt.Sprintf("%q cannot be longer than %d characters, but it is %d characters", key, checkLen.MaxLength, count))
-				}
-				break
+		if count := utf8.RuneCountInString(value); count > checkLen.MaxLength {
+			panic(fmt.Sprintf("%q cannot be longer than %d characters, but it is %d characters", key, checkLen.MaxLength, count))
+		}
+		break
 			}
 		}
 
@@ -364,16 +364,16 @@ func loadTranslatedStrings(filename, lang string, wantBOM bool) (*translatedStri
 
 			i, ok := ts.lookup[key]
 			if !ok {
-				i = len(ts.strings)
-				ts.lookup[key] = i
-				ts.strings = append(ts.strings, translatedString{
-					key: origKey[len(languagePrefix):],
-				})
+		i = len(ts.strings)
+		ts.lookup[key] = i
+		ts.strings = append(ts.strings, translatedString{
+			key: origKey[len(languagePrefix):],
+		})
 			}
 
 			x := &ts.strings[i]
 			if x.sseen {
-				return nil, fmt.Errorf("string appears multiple times: %q", origKey)
+		return nil, fmt.Errorf("string appears multiple times: %q", origKey)
 			}
 
 			x.source = value
@@ -383,16 +383,16 @@ func loadTranslatedStrings(filename, lang string, wantBOM bool) (*translatedStri
 		} else {
 			i, ok := ts.lookup[key]
 			if !ok {
-				i = len(ts.strings)
-				ts.lookup[key] = i
-				ts.strings = append(ts.strings, translatedString{
-					key: origKey,
-				})
+		i = len(ts.strings)
+		ts.lookup[key] = i
+		ts.strings = append(ts.strings, translatedString{
+			key: origKey,
+		})
 			}
 
 			x := &ts.strings[i]
 			if x.tseen {
-				return nil, fmt.Errorf("string appears multiple times: %q", origKey)
+		return nil, fmt.Errorf("string appears multiple times: %q", origKey)
 			}
 
 			x.translated = value
@@ -468,37 +468,37 @@ func updateLanguageFile(source *translatedStrings, prefix, lang, suffix string) 
 
 		if *flagOnlyUpdate {
 			if x.translated == x.source {
-				x.translated = c.translated
+		x.translated = c.translated
 			}
 
 			x.source = c.translated
 		} else {
 			if x.source == "" && c.translated != "" {
-				if x.translated == "" {
-					x.translated = c.translated
-				}
+		if x.translated == "" {
+			x.translated = c.translated
+		}
 
-				x.source = c.translated
-				x.indent = true
+		x.source = c.translated
+		x.indent = true
 			}
 
 			if x.source != c.translated && x.translated == c.translated {
-				x.source, x.translated = x.translated, x.source
+		x.source, x.translated = x.translated, x.source
 			}
 
 			if x.source != c.translated {
-				x.translated = c.translated
-				x.source = c.translated
-				x.indent = true
+		x.translated = c.translated
+		x.source = c.translated
+		x.indent = true
 			}
 		}
 
 		if merge != nil && x.translated == c.translated {
 			i, ok = merge.lookup[lowerKey]
 			if ok && merge.strings[i].source == c.translated && merge.strings[i].translated != x.translated {
-				x.translated = merge.strings[i].translated
-				x.tcomment = merge.strings[i].tcomment
-				x.indent = true
+		x.translated = merge.strings[i].translated
+		x.tcomment = merge.strings[i].tcomment
+		x.indent = true
 			}
 		}
 
@@ -730,14 +730,14 @@ func renderInventorySchemaFile(srcName, dstName string, shared *translatedString
 
 			err := json.Indent(&buf2, buf.Bytes(), "", "\t")
 			if err != nil {
-				panic(err)
+		panic(err)
 			}
 
 			buf2.WriteByte('\n') // trailing newline
 
 			err = os.WriteFile(dstName, buf2.Bytes(), 0644)
 			if err != nil {
-				panic(err)
+		panic(err)
 			}
 
 			break
@@ -752,139 +752,139 @@ func renderInventorySchemaFile(srcName, dstName string, shared *translatedString
 			buf.WriteString(t.String())
 
 			if t == '{' || t == '[' {
-				delims = append(delims, t)
+		delims = append(delims, t)
 			} else if t == '}' {
-				if delims[len(delims)-1] != '{' {
-					panic("unexpected } after " + delims[len(delims)-1].String())
-				}
+		if delims[len(delims)-1] != '{' {
+			panic("unexpected } after " + delims[len(delims)-1].String())
+		}
 
-				delims = delims[:len(delims)-1]
+		delims = delims[:len(delims)-1]
 
-				if in.More() {
-					buf.WriteByte(',')
-				}
+		if in.More() {
+			buf.WriteByte(',')
+		}
 			} else if t == ']' {
-				if delims[len(delims)-1] != '[' {
-					panic("unexpected ] after " + delims[len(delims)-1].String())
-				}
+		if delims[len(delims)-1] != '[' {
+			panic("unexpected ] after " + delims[len(delims)-1].String())
+		}
 
-				delims = delims[:len(delims)-1]
+		delims = delims[:len(delims)-1]
 
-				if in.More() {
-					buf.WriteByte(',')
-				}
+		if in.More() {
+			buf.WriteByte(',')
+		}
 			} else {
-				panic("unexpected json.Delim " + t.String())
+		panic("unexpected json.Delim " + t.String())
 			}
 
 			if len(delims) != 0 {
-				lastDelim = delims[len(delims)-1]
+		lastDelim = delims[len(delims)-1]
 			}
 
 			if eachLangPrefix != "" {
-				panic("unexpected language prefix")
+		panic("unexpected language prefix")
 			}
 
 			expectingValue = false
 		case json.Number:
 			if lastDelim != '[' && !expectingValue {
-				panic("unexpected number")
+		panic("unexpected number")
 			}
 
 			if eachLangPrefix != "" {
-				panic("unexpected language prefix")
+		panic("unexpected language prefix")
 			}
 
 			buf.WriteString(t.String())
 			if in.More() {
-				buf.WriteByte(',')
+		buf.WriteByte(',')
 			}
 
 			expectingValue = false
 		case string:
 			if lastDelim == '[' || expectingValue {
-				langs := languages
-				if eachLangPrefix == "" {
-					langs = []*inventoryStrings{source}
-				}
+		langs := languages
+		if eachLangPrefix == "" {
+			langs = []*inventoryStrings{source}
+		}
 
-				sourceString := performInventorySchemaReplacements(t, shared, source, source)
-				if eachLangPrefix != "" && sourceString == t {
-					panic("no tokens in " + srcName + " field " + eachLangPrefix + "%LANG% (value " + strconv.Quote(t) + ")")
-				}
+		sourceString := performInventorySchemaReplacements(t, shared, source, source)
+		if eachLangPrefix != "" && sourceString == t {
+			panic("no tokens in " + srcName + " field " + eachLangPrefix + "%LANG% (value " + strconv.Quote(t) + ")")
+		}
 
-				for _, lang := range langs {
-					str := performInventorySchemaReplacements(t, shared, source, lang)
-
-					if eachLangPrefix != "" {
-						if lang != source && sourceString == str {
-							continue
-						}
-
-						b, err := json.Marshal(eachLangPrefix + lang.lang)
-						if err != nil {
-							panic(err)
-						}
-
-						buf.Write(b)
-						buf.WriteByte(':')
-					}
-
-					b, err := json.Marshal(str)
-					if err != nil {
-						panic(err)
-					}
-
-					buf.Write(b)
-
-					if in.More() {
-						buf.WriteByte(',')
-					}
-				}
-
-				expectingValue = false
-				eachLangPrefix = ""
-			} else {
-				if strings.HasSuffix(t, "_"+sourceLanguage) {
-					panic("unexpected language suffix in template " + srcName + " (" + t + ")")
-				}
-				for _, lang := range derivedLanguages {
-					if strings.HasSuffix(t, "_"+lang) {
-						panic("unexpected language suffix in template " + srcName + " (" + t + ")")
-					}
-				}
-
-				if strings.HasSuffix(t, "_%LANG%") {
-					eachLangPrefix = t[:len(t)-len("%LANG%")]
-				} else {
-					b, err := json.Marshal(t)
-					if err != nil {
-						panic(err)
-					}
-
-					buf.Write(b)
-
-					buf.WriteByte(':')
-				}
-				expectingValue = true
-			}
-		case bool:
-			if lastDelim != '[' && !expectingValue {
-				panic("unexpected number")
-			}
+		for _, lang := range langs {
+			str := performInventorySchemaReplacements(t, shared, source, lang)
 
 			if eachLangPrefix != "" {
-				panic("unexpected language prefix")
+				if lang != source && sourceString == str {
+					continue
+				}
+
+				b, err := json.Marshal(eachLangPrefix + lang.lang)
+				if err != nil {
+					panic(err)
+				}
+
+				buf.Write(b)
+				buf.WriteByte(':')
 			}
 
-			if t {
-				buf.WriteString("true")
-			} else {
-				buf.WriteString("false")
+			b, err := json.Marshal(str)
+			if err != nil {
+				panic(err)
 			}
+
+			buf.Write(b)
 
 			if in.More() {
 				buf.WriteByte(',')
+			}
+		}
+
+		expectingValue = false
+		eachLangPrefix = ""
+			} else {
+		if strings.HasSuffix(t, "_"+sourceLanguage) {
+			panic("unexpected language suffix in template " + srcName + " (" + t + ")")
+		}
+		for _, lang := range derivedLanguages {
+			if strings.HasSuffix(t, "_"+lang) {
+				panic("unexpected language suffix in template " + srcName + " (" + t + ")")
+			}
+		}
+
+		if strings.HasSuffix(t, "_%LANG%") {
+			eachLangPrefix = t[:len(t)-len("%LANG%")]
+		} else {
+			b, err := json.Marshal(t)
+			if err != nil {
+				panic(err)
+			}
+
+			buf.Write(b)
+
+			buf.WriteByte(':')
+		}
+		expectingValue = true
+			}
+		case bool:
+			if lastDelim != '[' && !expectingValue {
+		panic("unexpected number")
+			}
+
+			if eachLangPrefix != "" {
+		panic("unexpected language prefix")
+			}
+
+			if t {
+		buf.WriteString("true")
+			} else {
+		buf.WriteString("false")
+			}
+
+			if in.More() {
+		buf.WriteByte(',')
 			}
 
 			expectingValue = false
@@ -907,19 +907,19 @@ func performInventorySchemaReplacements(str string, shared *translatedStrings, s
 
 		for _, f := range derived.files {
 			if f != nil {
-				i, ok := f.lookup[token]
-				if ok {
-					return f.strings[i].translated
-				}
+		i, ok := f.lookup[token]
+		if ok {
+			return f.strings[i].translated
+		}
 			}
 		}
 
 		for _, f := range source.files {
 			if f != nil {
-				i, ok := f.lookup[token]
-				if ok {
-					return f.strings[i].translated
-				}
+		i, ok := f.lookup[token]
+		if ok {
+			return f.strings[i].translated
+		}
 			}
 		}
 
@@ -979,21 +979,21 @@ func checkReleaseNotes() {
 
 			b, err := os.ReadFile(name)
 			if err != nil {
-				panic(err)
+		panic(err)
 			}
 
 			err = xml.Unmarshal(b, &content)
 			if err != nil {
-				fmt.Println(name)
-				panic(err)
+		fmt.Println(name)
+		panic(err)
 			}
 
 			for _, s := range content.Strings {
-				if s.ID == "body" {
-					lines := strings.FieldsFunc(s.Text, func(ch rune) bool { return ch == '\n' || ch == '\r' })
-					englishLines[name[:len(name)-len("_english.xml")]] = len(lines)
-					break
-				}
+		if s.ID == "body" {
+			lines := strings.FieldsFunc(s.Text, func(ch rune) bool { return ch == '\n' || ch == '\r' })
+			englishLines[name[:len(name)-len("_english.xml")]] = len(lines)
+			break
+		}
 			}
 		}
 	}
@@ -1017,24 +1017,24 @@ func checkReleaseNotes() {
 			max := eventMaxLength[s.ID]
 
 			if max == 0 {
-				panic(fmt.Sprintf("%s: unexpected string id %q", name, s.ID))
+		panic(fmt.Sprintf("%s: unexpected string id %q", name, s.ID))
 			}
 
 			if count > max {
-				panic(fmt.Sprintf("%s: %q cannot be longer than %d characters, but it is %d characters", name, s.ID, max, count))
+		panic(fmt.Sprintf("%s: %q cannot be longer than %d characters, but it is %d characters", name, s.ID, max, count))
 			}
 
 			if s.ID == "body" {
-				lines := strings.FieldsFunc(s.Text, func(ch rune) bool { return ch == '\n' || ch == '\r' })
-				expected := englishLines[name[:strings.LastIndexByte(name, '_')]]
+		lines := strings.FieldsFunc(s.Text, func(ch rune) bool { return ch == '\n' || ch == '\r' })
+		expected := englishLines[name[:strings.LastIndexByte(name, '_')]]
 
-				if expected == 0 {
-					panic(fmt.Sprintf("%s: cannot find English file for this release notes document", name))
-				}
+		if expected == 0 {
+			panic(fmt.Sprintf("%s: cannot find English file for this release notes document", name))
+		}
 
-				if len(lines) != expected {
-					panic(fmt.Sprintf("%s: body of release notes has %d lines but English version has %d lines (this is usually Ben's fault)", name, len(lines), expected))
-				}
+		if len(lines) != expected {
+			panic(fmt.Sprintf("%s: body of release notes has %d lines but English version has %d lines (this is usually Ben's fault)", name, len(lines), expected))
+		}
 			}
 		}
 	}

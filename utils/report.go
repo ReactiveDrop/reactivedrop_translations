@@ -25,7 +25,7 @@ func eachFile(patterns []string, addSuffix string, cb func(string, io.Reader)) {
 		for _, name := range names {
 			f, err := os.Open(name)
 			if err != nil {
-				panic(err)
+		panic(err)
 			}
 
 			cleanName := filepath.ToSlash(name)[3:] // strip the "../"
@@ -34,7 +34,7 @@ func eachFile(patterns []string, addSuffix string, cb func(string, io.Reader)) {
 
 			err = f.Close()
 			if err != nil {
-				panic(err)
+		panic(err)
 			}
 		}
 	}
@@ -52,11 +52,11 @@ func countIndentedLines(r io.Reader) int {
 		switch ch {
 		case '\t':
 			if state == 0 {
-				state = 1
+		state = 1
 			}
 		case '/':
 			if state == 1 {
-				state = 2
+		state = 2
 			}
 		case '\r':
 			// ignore
@@ -64,7 +64,7 @@ func countIndentedLines(r io.Reader) int {
 			state = 0
 		default:
 			if state == 1 {
-				count++
+		count++
 			}
 
 			state = 2
@@ -135,17 +135,17 @@ func generateReport() {
 			prefix, lang, suffix := s[:i+1], s[i+1:j], s[j:]
 
 			if lang == sourceLanguage && indented != 0 {
-				panic("unexpected indented lines in source file " + s)
+		panic("unexpected indented lines in source file " + s)
 			}
 
 			if _, ok := languageFiles[[2]string{prefix, suffix}]; ok {
-				return // don't count language files twice
+		return // don't count language files twice
 			}
 
 			m, ok := checkCategory[[2]string{prefix, suffix}]
 			if !ok {
-				m = make(map[string]int)
-				checkCategory[[2]string{prefix, suffix}] = m
+		m = make(map[string]int)
+		checkCategory[[2]string{prefix, suffix}] = m
 			}
 
 			m[lang] = indented
@@ -180,9 +180,9 @@ func generateReport() {
 		for _, file := range importantLanguageFiles {
 			isImportantFile[file] = true
 			if languageFiles[file][lang] == 0 {
-				fmt.Print(" ✔️ |")
+		fmt.Print(" ✔️ |")
 			} else {
-				fmt.Printf(" %d |", languageFiles[file][lang])
+		fmt.Printf(" %d |", languageFiles[file][lang])
 			}
 		}
 
@@ -191,7 +191,7 @@ func generateReport() {
 		incomplete := 0
 		for _, file := range sortedLanguageFiles {
 			if !isImportantFile[[2]string{file.prefix, file.suffix}] {
-				incomplete += file.indented[lang]
+		incomplete += file.indented[lang]
 			}
 		}
 
@@ -205,10 +205,10 @@ func generateReport() {
 		incomplete = 0
 		for _, files := range checked {
 			for _, file := range files {
-				indented, ok := file.indented[lang]
-				if !ok || indented != 0 {
-					incomplete++
-				}
+		indented, ok := file.indented[lang]
+		if !ok || indented != 0 {
+			incomplete++
+		}
 			}
 		}
 
@@ -238,23 +238,23 @@ func generateReport() {
 		for _, file := range sortedLanguageFiles {
 			indented, ok := file.indented[lang]
 			if ok && indented == 0 {
-				continue
+		continue
 			}
 
 			if !anyStrings {
-				any = true
-				anyStrings = true
+		any = true
+		anyStrings = true
 
-				fmt.Printf("\n### Strings\n\n")
+		fmt.Printf("\n### Strings\n\n")
 			}
 
 			name := file.prefix + lang + file.suffix
 			sourceName := file.prefix + sourceLanguage + file.suffix
 
 			if !ok {
-				fmt.Printf("- [%s](%s) is missing.\n", commonDirectoryRemover.ReplaceAllLiteralString(name, ""), sourceName)
+		fmt.Printf("- [%s](%s) is missing.\n", commonDirectoryRemover.ReplaceAllLiteralString(name, ""), sourceName)
 			} else {
-				fmt.Printf("- [%s](%s) has %d untranslated strings.\n", commonDirectoryRemover.ReplaceAllLiteralString(name, ""), name, indented)
+		fmt.Printf("- [%s](%s) has %d untranslated strings.\n", commonDirectoryRemover.ReplaceAllLiteralString(name, ""), name, indented)
 			}
 		}
 
@@ -262,26 +262,26 @@ func generateReport() {
 			anyOther := false
 
 			for _, file := range files {
-				indented, ok := file.indented[lang]
-				if ok && indented == 0 {
-					continue
-				}
+		indented, ok := file.indented[lang]
+		if ok && indented == 0 {
+			continue
+		}
 
-				if !anyOther {
-					any = true
-					anyOther = true
+		if !anyOther {
+			any = true
+			anyOther = true
 
-					fmt.Printf("\n### %s\n\n", checkButNoSync[i].category)
-				}
+			fmt.Printf("\n### %s\n\n", checkButNoSync[i].category)
+		}
 
-				name := file.prefix + lang + file.suffix
-				sourceName := file.prefix + sourceLanguage + file.suffix
+		name := file.prefix + lang + file.suffix
+		sourceName := file.prefix + sourceLanguage + file.suffix
 
-				if !ok {
-					fmt.Printf("- [%s](%s) is missing.\n", commonDirectoryRemover.ReplaceAllLiteralString(name, ""), sourceName)
-				} else {
-					fmt.Printf("- [%s](%s) has %d indented lines.\n", commonDirectoryRemover.ReplaceAllLiteralString(name, ""), name, indented)
-				}
+		if !ok {
+			fmt.Printf("- [%s](%s) is missing.\n", commonDirectoryRemover.ReplaceAllLiteralString(name, ""), sourceName)
+		} else {
+			fmt.Printf("- [%s](%s) has %d indented lines.\n", commonDirectoryRemover.ReplaceAllLiteralString(name, ""), name, indented)
+		}
 			}
 		}
 
@@ -297,7 +297,7 @@ func generateReport() {
 
 		for _, lang := range derivedLanguages {
 			if !reportedLanguages[lang] {
-				fmt.Printf("- %s (%s)\n", lang, display.Self.Name(translation.FromSteamLanguage[lang]))
+		fmt.Printf("- %s (%s)\n", lang, display.Self.Name(translation.FromSteamLanguage[lang]))
 			}
 		}
 	} else {

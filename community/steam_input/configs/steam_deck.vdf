@@ -21,67 +21,67 @@
 		{
 			"button_a"
 			{
-				"activators"
+		"activators"
+		{
+			"Full_Press"
+			{
+				"bindings"
 				{
-					"Full_Press"
-					{
-						"bindings"
-						{
-							"binding"		"game_action InGame jump, , "
-						}
-					}
+					"binding"		"game_action InGame jump, , "
 				}
-				"disabled_activators"
-				{
-				}
+			}
+		}
+		"disabled_activators"
+		{
+		}
 			}
 			"button_b"
 			{
-				"activators"
+		"activators"
+		{
+			"Full_Press"
+			{
+				"bindings"
 				{
-					"Full_Press"
-					{
-						"bindings"
-						{
-							"binding"		"game_action InGame MeleeAttack, , "
-						}
-					}
+					"binding"		"game_action InGame MeleeAttack, , "
 				}
-				"disabled_activators"
-				{
-				}
+			}
+		}
+		"disabled_activators"
+		{
+		}
 			}
 			"button_x"
 			{
-				"activators"
+		"activators"
+		{
+			"Full_Press"
+			{
+				"bindings"
 				{
-					"Full_Press"
-					{
-						"bindings"
-						{
-							"binding"		"game_action InGame use, , "
-						}
-					}
+					"binding"		"game_action InGame use, , "
 				}
-				"disabled_activators"
-				{
-				}
+			}
+		}
+		"disabled_activators"
+		{
+		}
 			}
 			"button_y"
 			{
-				"activators"
+		"activators"
+		{
+			"Full_Press"
+			{
+				"bindings"
 				{
-					"Full_Press"
-					{
-						"bindings"
-						{
-							"binding"		"game_action InGame SwapWeapons, , "
-						}
-					}
+					"binding"		"game_action InGame SwapWeapons, , "
 				}
-				"disabled_activators"
-				{
-				}
+			}
+		}
+		"disabled_activators"
+		{
+		}
 			}
 		}
 	}
@@ -95,23 +95,23 @@
 		{
 			"edge"
 			{
-				"activators"
+		"activators"
+		{
+			"Full_Press"
+			{
+				"bindings"
 				{
-					"Full_Press"
-					{
-						"bindings"
-						{
-							"binding"		"game_action InGame SecondaryAttack, , "
-						}
-						"settings"
-						{
-							"haptic_intensity"		"1"
-						}
-					}
+					"binding"		"game_action InGame SecondaryAttack, , "
 				}
-				"disabled_activators"
+				"settings"
 				{
+					"haptic_intensity"		"1"
 				}
+			}
+		}
+		"disabled_activators"
+		{
+		}
 			}
 		}
 	}
@@ -125,23 +125,23 @@
 		{
 			"edge"
 			{
-				"activators"
+		"activators"
+		{
+			"Full_Press"
+			{
+				"bindings"
 				{
-					"Full_Press"
-					{
-						"bindings"
-						{
-							"binding"		"game_action InGame PrimaryAttack, , "
-						}
-						"settings"
-						{
-							"haptic_intensity"		"1"
-						}
-					}
+					"binding"		"game_action InGame PrimaryAttack, , "
 				}
-				"disabled_activators"
+				"settings"
 				{
+					"haptic_intensity"		"1"
 				}
+			}
+		}
+		"disabled_activators"
+		{
+		}
 			}
 		}
 	}
@@ -155,67 +155,67 @@
 		{
 			"button_a"
 			{
-				"activators"
+		"activators"
+		{
+			"Full_Press"
+			{
+				"bindings"
 				{
-					"Full_Press"
-					{
-						"bindings"
-						{
-							"binding"		"game_action Menus MenuConfirm, #Button_MenuConfirm, , "
-						}
-					}
+					"binding"		"game_action Menus MenuConfirm, #Button_MenuConfirm, , "
 				}
-				"disabled_activators"
-				{
-				}
+			}
+		}
+		"disabled_activators"
+		{
+		}
 			}
 			"button_b"
 			{
-				"activators"
+		"activators"
+		{
+			"Full_Press"
+			{
+				"bindings"
 				{
-					"Full_Press"
-					{
-						"bindings"
-						{
-							"binding"		"game_action Menus MenuBack, #Button_MenuBack, , "
-						}
-					}
+					"binding"		"game_action Menus MenuBack, #Button_MenuBack, , "
 				}
-				"disabled_activators"
-				{
-				}
+			}
+		}
+		"disabled_activators"
+		{
+		}
 			}
 			"button_x"
 			{
-				"activators"
+		"activators"
+		{
+			"Full_Press"
+			{
+				"bindings"
 				{
-					"Full_Press"
-					{
-						"bindings"
-						{
-							"binding"		"game_action Menus MenuSpecial1, #Button_MenuSpecial1, , "
-						}
-					}
+					"binding"		"game_action Menus MenuSpecial1, #Button_MenuSpecial1, , "
 				}
-				"disabled_activators"
-				{
-				}
+			}
+		}
+		"disabled_activators"
+		{
+		}
 			}
 			"button_y"
 			{
-				"activators"
+		"activators"
+		{
+			"Full_Press"
+			{
+				"bindings"
 				{
-					"Full_Press"
-					{
-						"bindings"
-						{
-							"binding"		"game_action Menus MenuSpecial2, #Button_MenuSpecial2, , "
-						}
-					}
+					"binding"		"game_action Menus MenuSpecial2, #Button_MenuSpecial2, , "
 				}
-				"disabled_activators"
-				{
-				}
+			}
+		}
+		"disabled_activators"
+		{
+		}
 			}
 		}
 	}
@@ -229,23 +229,23 @@
 		{
 			"edge"
 			{
-				"activators"
+		"activators"
+		{
+			"Full_Press"
+			{
+				"bindings"
 				{
-					"Full_Press"
-					{
-						"bindings"
-						{
-							"binding"		"game_action Menus MenuL2, #Button_MenuL2, , "
-						}
-						"settings"
-						{
-							"haptic_intensity"		"1"
-						}
-					}
+					"binding"		"game_action Menus MenuL2, #Button_MenuL2, , "
 				}
-				"disabled_activators"
+				"settings"
 				{
+					"haptic_intensity"		"1"
 				}
+			}
+		}
+		"disabled_activators"
+		{
+		}
 			}
 		}
 	}
@@ -259,23 +259,23 @@
 		{
 			"edge"
 			{
-				"activators"
+		"activators"
+		{
+			"Full_Press"
+			{
+				"bindings"
 				{
-					"Full_Press"
-					{
-						"bindings"
-						{
-							"binding"		"game_action Menus MenuR2, #Button_MenuR2, , "
-						}
-						"settings"
-						{
-							"haptic_intensity"		"1"
-						}
-					}
+					"binding"		"game_action Menus MenuR2, #Button_MenuR2, , "
 				}
-				"disabled_activators"
+				"settings"
 				{
+					"haptic_intensity"		"1"
 				}
+			}
+		}
+		"disabled_activators"
+		{
+		}
 			}
 		}
 	}
@@ -289,35 +289,35 @@
 		{
 			"button_a"
 			{
-				"activators"
+		"activators"
+		{
+			"Full_Press"
+			{
+				"bindings"
 				{
-					"Full_Press"
-					{
-						"bindings"
-						{
-							"binding"		"game_action InGameMenus MenuConfirm, , "
-						}
-					}
+					"binding"		"game_action InGameMenus MenuConfirm, , "
 				}
-				"disabled_activators"
-				{
-				}
+			}
+		}
+		"disabled_activators"
+		{
+		}
 			}
 			"button_b"
 			{
-				"activators"
+		"activators"
+		{
+			"Full_Press"
+			{
+				"bindings"
 				{
-					"Full_Press"
-					{
-						"bindings"
-						{
-							"binding"		"game_action InGameMenus MenuBack, , "
-						}
-					}
+					"binding"		"game_action InGameMenus MenuBack, , "
 				}
-				"disabled_activators"
-				{
-				}
+			}
+		}
+		"disabled_activators"
+		{
+		}
 			}
 		}
 		"settings"
@@ -363,67 +363,67 @@
 		{
 			"dpad_north"
 			{
-				"activators"
+		"activators"
+		{
+			"Full_Press"
+			{
+				"bindings"
 				{
-					"Full_Press"
-					{
-						"bindings"
-						{
-							"binding"		"game_action InGame WheelMarine, , "
-						}
-					}
+					"binding"		"game_action InGame WheelMarine, , "
 				}
-				"disabled_activators"
-				{
-				}
+			}
+		}
+		"disabled_activators"
+		{
+		}
 			}
 			"dpad_south"
 			{
-				"activators"
+		"activators"
+		{
+			"Full_Press"
+			{
+				"bindings"
 				{
-					"Full_Press"
-					{
-						"bindings"
-						{
-							"binding"		"game_action InGame WheelDefault, , "
-						}
-					}
+					"binding"		"game_action InGame WheelDefault, , "
 				}
-				"disabled_activators"
-				{
-				}
+			}
+		}
+		"disabled_activators"
+		{
+		}
 			}
 			"dpad_east"
 			{
-				"activators"
+		"activators"
+		{
+			"Full_Press"
+			{
+				"bindings"
 				{
-					"Full_Press"
-					{
-						"bindings"
-						{
-							"binding"		"game_action InGame WheelEquipment2, , "
-						}
-					}
+					"binding"		"game_action InGame WheelEquipment2, , "
 				}
-				"disabled_activators"
-				{
-				}
+			}
+		}
+		"disabled_activators"
+		{
+		}
 			}
 			"dpad_west"
 			{
-				"activators"
+		"activators"
+		{
+			"Full_Press"
+			{
+				"bindings"
 				{
-					"Full_Press"
-					{
-						"bindings"
-						{
-							"binding"		"game_action InGame WheelEquipment1, , "
-						}
-					}
+					"binding"		"game_action InGame WheelEquipment1, , "
 				}
-				"disabled_activators"
-				{
-				}
+			}
+		}
+		"disabled_activators"
+		{
+		}
 			}
 		}
 		"settings"
@@ -442,19 +442,19 @@
 		{
 			"click"
 			{
-				"activators"
+		"activators"
+		{
+			"Full_Press"
+			{
+				"bindings"
 				{
-					"Full_Press"
-					{
-						"bindings"
-						{
-							"binding"		"game_action InGame EmoteStop, , "
-						}
-					}
+					"binding"		"game_action InGame EmoteStop, , "
 				}
-				"disabled_activators"
-				{
-				}
+			}
+		}
+		"disabled_activators"
+		{
+		}
 			}
 		}
 		"settings"
@@ -476,19 +476,19 @@
 		{
 			"click"
 			{
-				"activators"
+		"activators"
+		{
+			"Full_Press"
+			{
+				"bindings"
 				{
-					"Full_Press"
-					{
-						"bindings"
-						{
-							"binding"		"game_action InGame EmoteGo, , "
-						}
-					}
+					"binding"		"game_action InGame EmoteGo, , "
 				}
-				"disabled_activators"
-				{
-				}
+			}
+		}
+		"disabled_activators"
+		{
+		}
 			}
 		}
 		"settings"
@@ -520,61 +520,61 @@
 		{
 			"dpad_north"
 			{
-				"activators"
+		"activators"
+		{
+			"Full_Press"
+			{
+				"bindings"
 				{
-					"Full_Press"
-					{
-						"bindings"
-						{
-							"binding"		"mouse_wheel SCROLL_UP, , "
-						}
-						"settings"
-						{
-							"hold_repeats"		"1"
-							"haptic_intensity"		"0"
-						}
-					}
+					"binding"		"mouse_wheel SCROLL_UP, , "
 				}
-				"disabled_activators"
+				"settings"
 				{
+					"hold_repeats"		"1"
+					"haptic_intensity"		"0"
 				}
+			}
+		}
+		"disabled_activators"
+		{
+		}
 			}
 			"dpad_south"
 			{
-				"activators"
+		"activators"
+		{
+			"Full_Press"
+			{
+				"bindings"
 				{
-					"Full_Press"
-					{
-						"bindings"
-						{
-							"binding"		"mouse_wheel SCROLL_DOWN, , "
-						}
-						"settings"
-						{
-							"hold_repeats"		"1"
-							"haptic_intensity"		"0"
-						}
-					}
+					"binding"		"mouse_wheel SCROLL_DOWN, , "
 				}
-				"disabled_activators"
+				"settings"
 				{
+					"hold_repeats"		"1"
+					"haptic_intensity"		"0"
 				}
+			}
+		}
+		"disabled_activators"
+		{
+		}
 			}
 			"click"
 			{
-				"activators"
+		"activators"
+		{
+			"Soft_Press"
+			{
+				"bindings"
 				{
-					"Soft_Press"
-					{
-						"bindings"
-						{
-							"binding"		"mouse_button RIGHT, , "
-						}
-					}
+					"binding"		"mouse_button RIGHT, , "
 				}
-				"disabled_activators"
-				{
-				}
+			}
+		}
+		"disabled_activators"
+		{
+		}
 			}
 		}
 	}
@@ -588,19 +588,19 @@
 		{
 			"click"
 			{
-				"activators"
+		"activators"
+		{
+			"Soft_Press"
+			{
+				"bindings"
 				{
-					"Soft_Press"
-					{
-						"bindings"
-						{
-							"binding"		"mouse_button LEFT, , "
-						}
-					}
+					"binding"		"mouse_button LEFT, , "
 				}
-				"disabled_activators"
-				{
-				}
+			}
+		}
+		"disabled_activators"
+		{
+		}
 			}
 		}
 	}
@@ -614,67 +614,67 @@
 		{
 			"dpad_north"
 			{
-				"activators"
+		"activators"
+		{
+			"Full_Press"
+			{
+				"bindings"
 				{
-					"Full_Press"
-					{
-						"bindings"
-						{
-							"binding"		"game_action InGameMenus MenuLeftStickUp, , "
-						}
-					}
+					"binding"		"game_action InGameMenus MenuLeftStickUp, , "
 				}
-				"disabled_activators"
-				{
-				}
+			}
+		}
+		"disabled_activators"
+		{
+		}
 			}
 			"dpad_south"
 			{
-				"activators"
+		"activators"
+		{
+			"Full_Press"
+			{
+				"bindings"
 				{
-					"Full_Press"
-					{
-						"bindings"
-						{
-							"binding"		"game_action InGameMenus MenuLeftStickDown, , "
-						}
-					}
+					"binding"		"game_action InGameMenus MenuLeftStickDown, , "
 				}
-				"disabled_activators"
-				{
-				}
+			}
+		}
+		"disabled_activators"
+		{
+		}
 			}
 			"dpad_east"
 			{
-				"activators"
+		"activators"
+		{
+			"Full_Press"
+			{
+				"bindings"
 				{
-					"Full_Press"
-					{
-						"bindings"
-						{
-							"binding"		"game_action InGameMenus MenuLeftStickRight, , "
-						}
-					}
+					"binding"		"game_action InGameMenus MenuLeftStickRight, , "
 				}
-				"disabled_activators"
-				{
-				}
+			}
+		}
+		"disabled_activators"
+		{
+		}
 			}
 			"dpad_west"
 			{
-				"activators"
+		"activators"
+		{
+			"Full_Press"
+			{
+				"bindings"
 				{
-					"Full_Press"
-					{
-						"bindings"
-						{
-							"binding"		"game_action InGameMenus MenuLeftStickLeft, , "
-						}
-					}
+					"binding"		"game_action InGameMenus MenuLeftStickLeft, , "
 				}
-				"disabled_activators"
-				{
-				}
+			}
+		}
+		"disabled_activators"
+		{
+		}
 			}
 		}
 		"settings"
@@ -710,83 +710,83 @@
 		{
 			"dpad_north"
 			{
-				"activators"
+		"activators"
+		{
+			"Full_Press"
+			{
+				"bindings"
 				{
-					"Full_Press"
-					{
-						"bindings"
-						{
-							"binding"		"game_action InGameMenus MenuLeftStickUp, , "
-						}
-					}
+					"binding"		"game_action InGameMenus MenuLeftStickUp, , "
 				}
-				"disabled_activators"
-				{
-				}
+			}
+		}
+		"disabled_activators"
+		{
+		}
 			}
 			"dpad_south"
 			{
-				"activators"
+		"activators"
+		{
+			"Full_Press"
+			{
+				"bindings"
 				{
-					"Full_Press"
-					{
-						"bindings"
-						{
-							"binding"		"game_action InGameMenus MenuLeftStickDown, , "
-						}
-					}
+					"binding"		"game_action InGameMenus MenuLeftStickDown, , "
 				}
-				"disabled_activators"
-				{
-				}
+			}
+		}
+		"disabled_activators"
+		{
+		}
 			}
 			"dpad_east"
 			{
-				"activators"
+		"activators"
+		{
+			"Full_Press"
+			{
+				"bindings"
 				{
-					"Full_Press"
-					{
-						"bindings"
-						{
-							"binding"		"game_action InGameMenus MenuLeftStickRight, , "
-						}
-					}
+					"binding"		"game_action InGameMenus MenuLeftStickRight, , "
 				}
-				"disabled_activators"
-				{
-				}
+			}
+		}
+		"disabled_activators"
+		{
+		}
 			}
 			"dpad_west"
 			{
-				"activators"
+		"activators"
+		{
+			"Full_Press"
+			{
+				"bindings"
 				{
-					"Full_Press"
-					{
-						"bindings"
-						{
-							"binding"		"game_action InGameMenus MenuLeftStickLeft, , "
-						}
-					}
+					"binding"		"game_action InGameMenus MenuLeftStickLeft, , "
 				}
-				"disabled_activators"
-				{
-				}
+			}
+		}
+		"disabled_activators"
+		{
+		}
 			}
 			"click"
 			{
-				"activators"
+		"activators"
+		{
+			"Full_Press"
+			{
+				"bindings"
 				{
-					"Full_Press"
-					{
-						"bindings"
-						{
-							"binding"		"game_action InGame EmoteStop, , "
-						}
-					}
+					"binding"		"game_action InGame EmoteStop, , "
 				}
-				"disabled_activators"
-				{
-				}
+			}
+		}
+		"disabled_activators"
+		{
+		}
 			}
 		}
 		"settings"
@@ -805,83 +805,83 @@
 		{
 			"dpad_north"
 			{
-				"activators"
+		"activators"
+		{
+			"Full_Press"
+			{
+				"bindings"
 				{
-					"Full_Press"
-					{
-						"bindings"
-						{
-							"binding"		"game_action InGameMenus MenuLeftStickUp, , "
-						}
-					}
+					"binding"		"game_action InGameMenus MenuLeftStickUp, , "
 				}
-				"disabled_activators"
-				{
-				}
+			}
+		}
+		"disabled_activators"
+		{
+		}
 			}
 			"dpad_south"
 			{
-				"activators"
+		"activators"
+		{
+			"Full_Press"
+			{
+				"bindings"
 				{
-					"Full_Press"
-					{
-						"bindings"
-						{
-							"binding"		"game_action InGameMenus MenuLeftStickDown, , "
-						}
-					}
+					"binding"		"game_action InGameMenus MenuLeftStickDown, , "
 				}
-				"disabled_activators"
-				{
-				}
+			}
+		}
+		"disabled_activators"
+		{
+		}
 			}
 			"dpad_east"
 			{
-				"activators"
+		"activators"
+		{
+			"Full_Press"
+			{
+				"bindings"
 				{
-					"Full_Press"
-					{
-						"bindings"
-						{
-							"binding"		"game_action InGameMenus MenuLeftStickRight, , "
-						}
-					}
+					"binding"		"game_action InGameMenus MenuLeftStickRight, , "
 				}
-				"disabled_activators"
-				{
-				}
+			}
+		}
+		"disabled_activators"
+		{
+		}
 			}
 			"dpad_west"
 			{
-				"activators"
+		"activators"
+		{
+			"Full_Press"
+			{
+				"bindings"
 				{
-					"Full_Press"
-					{
-						"bindings"
-						{
-							"binding"		"game_action InGameMenus MenuLeftStickLeft, , "
-						}
-					}
+					"binding"		"game_action InGameMenus MenuLeftStickLeft, , "
 				}
-				"disabled_activators"
-				{
-				}
+			}
+		}
+		"disabled_activators"
+		{
+		}
 			}
 			"click"
 			{
-				"activators"
+		"activators"
+		{
+			"Full_Press"
+			{
+				"bindings"
 				{
-					"Full_Press"
-					{
-						"bindings"
-						{
-							"binding"		"game_action InGame EmoteGo, , "
-						}
-					}
+					"binding"		"game_action InGame EmoteGo, , "
 				}
-				"disabled_activators"
-				{
-				}
+			}
+		}
+		"disabled_activators"
+		{
+		}
 			}
 		}
 		"settings"
@@ -900,19 +900,19 @@
 		{
 			"button_capture"
 			{
-				"activators"
+		"activators"
+		{
+			"release"
+			{
+				"bindings"
 				{
-					"release"
-					{
-						"bindings"
-						{
-							"binding"		"controller_action system_key_1, , "
-						}
-					}
+					"binding"		"controller_action system_key_1, , "
 				}
-				"disabled_activators"
-				{
-				}
+			}
+		}
+		"disabled_activators"
+		{
+		}
 			}
 		}
 	}
@@ -926,147 +926,147 @@
 		{
 			"button_escape"
 			{
-				"activators"
+		"activators"
+		{
+			"Full_Press"
+			{
+				"bindings"
 				{
-					"Full_Press"
-					{
-						"bindings"
-						{
-							"binding"		"game_action InGame Menu, , "
-						}
-					}
+					"binding"		"game_action InGame Menu, , "
 				}
-				"disabled_activators"
-				{
-				}
+			}
+		}
+		"disabled_activators"
+		{
+		}
 			}
 			"button_menu"
 			{
-				"activators"
+		"activators"
+		{
+			"Full_Press"
+			{
+				"bindings"
 				{
-					"Full_Press"
-					{
-						"bindings"
-						{
-							"binding"		"game_action InGame InGameBriefing, , "
-						}
-					}
+					"binding"		"game_action InGame InGameBriefing, , "
 				}
-				"disabled_activators"
-				{
-				}
+			}
+		}
+		"disabled_activators"
+		{
+		}
 			}
 			"left_bumper"
 			{
-				"activators"
+		"activators"
+		{
+			"Full_Press"
+			{
+				"bindings"
 				{
-					"Full_Press"
-					{
-						"bindings"
-						{
-							"binding"		"game_action InGame OffHandAttack, , "
-						}
-					}
+					"binding"		"game_action InGame OffHandAttack, , "
 				}
-				"disabled_activators"
-				{
-				}
+			}
+		}
+		"disabled_activators"
+		{
+		}
 			}
 			"right_bumper"
 			{
-				"activators"
+		"activators"
+		{
+			"Full_Press"
+			{
+				"bindings"
 				{
-					"Full_Press"
-					{
-						"bindings"
-						{
-							"binding"		"game_action InGame reload, , "
-						}
-					}
+					"binding"		"game_action InGame reload, , "
 				}
-				"disabled_activators"
-				{
-				}
+			}
+		}
+		"disabled_activators"
+		{
+		}
 			}
 			"button_back_left"
 			{
-				"activators"
+		"activators"
+		{
+			"Full_Press"
+			{
+				"bindings"
 				{
-					"Full_Press"
-					{
-						"bindings"
-						{
-							"binding"		"game_action InGame RotateCameraLeft, , "
-						}
-					}
+					"binding"		"game_action InGame RotateCameraLeft, , "
 				}
-				"disabled_activators"
-				{
-				}
+			}
+		}
+		"disabled_activators"
+		{
+		}
 			}
 			"button_back_right"
 			{
-				"activators"
+		"activators"
+		{
+			"Full_Press"
+			{
+				"bindings"
 				{
-					"Full_Press"
-					{
-						"bindings"
-						{
-							"binding"		"game_action InGame RotateCameraRight, , "
-						}
-					}
+					"binding"		"game_action InGame RotateCameraRight, , "
 				}
-				"disabled_activators"
-				{
-				}
+			}
+		}
+		"disabled_activators"
+		{
+		}
 			}
 			"button_back_left_upper"
 			{
-				"activators"
+		"activators"
+		{
+			"Full_Press"
+			{
+				"bindings"
 				{
-					"Full_Press"
-					{
-						"bindings"
-						{
-							"binding"		"game_action InGame EmoteStop, , "
-						}
-					}
+					"binding"		"game_action InGame EmoteStop, , "
 				}
-				"disabled_activators"
-				{
-				}
+			}
+		}
+		"disabled_activators"
+		{
+		}
 			}
 			"button_back_right_upper"
 			{
-				"activators"
+		"activators"
+		{
+			"Full_Press"
+			{
+				"bindings"
 				{
-					"Full_Press"
-					{
-						"bindings"
-						{
-							"binding"		"game_action InGame EmoteGo, , "
-						}
-					}
+					"binding"		"game_action InGame EmoteGo, , "
 				}
-				"disabled_activators"
-				{
-				}
+			}
+		}
+		"disabled_activators"
+		{
+		}
 			}
 			"button_capture"
 			{
-				"activators"
+		"activators"
+		{
+			"release"
+			{
+				"bindings"
 				{
-					"release"
-					{
-						"bindings"
-						{
-							"binding"		"controller_action system_key_1, , "
-						}
-					}
+					"binding"		"controller_action system_key_1, , "
 				}
-				"disabled_activators"
-				{
-				}
+			}
+		}
+		"disabled_activators"
+		{
+		}
 			}
 		}
 	}
@@ -1080,115 +1080,115 @@
 		{
 			"button_escape"
 			{
-				"activators"
+		"activators"
+		{
+			"Full_Press"
+			{
+				"bindings"
 				{
-					"Full_Press"
-					{
-						"bindings"
-						{
-							"binding"		"game_action Menus MenuStart, #Button_MenuStart, , "
-						}
-					}
+					"binding"		"game_action Menus MenuStart, #Button_MenuStart, , "
 				}
-				"disabled_activators"
-				{
-				}
+			}
+		}
+		"disabled_activators"
+		{
+		}
 			}
 			"button_menu"
 			{
-				"activators"
+		"activators"
+		{
+			"Full_Press"
+			{
+				"bindings"
 				{
-					"Full_Press"
-					{
-						"bindings"
-						{
-							"binding"		"game_action Menus MenuSelect, #Button_MenuSelect, , "
-						}
-					}
+					"binding"		"game_action Menus MenuSelect, #Button_MenuSelect, , "
 				}
-				"disabled_activators"
-				{
-				}
+			}
+		}
+		"disabled_activators"
+		{
+		}
 			}
 			"left_bumper"
 			{
-				"activators"
+		"activators"
+		{
+			"Full_Press"
+			{
+				"bindings"
 				{
-					"Full_Press"
-					{
-						"bindings"
-						{
-							"binding"		"game_action Menus MenuL1, #Button_MenuL1, , "
-						}
-					}
+					"binding"		"game_action Menus MenuL1, #Button_MenuL1, , "
 				}
-				"disabled_activators"
-				{
-				}
+			}
+		}
+		"disabled_activators"
+		{
+		}
 			}
 			"right_bumper"
 			{
-				"activators"
+		"activators"
+		{
+			"Full_Press"
+			{
+				"bindings"
 				{
-					"Full_Press"
-					{
-						"bindings"
-						{
-							"binding"		"game_action Menus MenuR1, #Button_MenuR1, , "
-						}
-					}
+					"binding"		"game_action Menus MenuR1, #Button_MenuR1, , "
 				}
-				"disabled_activators"
-				{
-				}
+			}
+		}
+		"disabled_activators"
+		{
+		}
 			}
 			"button_back_left_upper"
 			{
-				"activators"
+		"activators"
+		{
+			"Full_Press"
+			{
+				"bindings"
 				{
-					"Full_Press"
-					{
-						"bindings"
-						{
-							"binding"		"game_action Menus MenuL3, #Button_MenuL3, , "
-						}
-					}
+					"binding"		"game_action Menus MenuL3, #Button_MenuL3, , "
 				}
-				"disabled_activators"
-				{
-				}
+			}
+		}
+		"disabled_activators"
+		{
+		}
 			}
 			"button_back_right_upper"
 			{
-				"activators"
+		"activators"
+		{
+			"Full_Press"
+			{
+				"bindings"
 				{
-					"Full_Press"
-					{
-						"bindings"
-						{
-							"binding"		"game_action Menus MenuR3, #Button_MenuR3, , "
-						}
-					}
+					"binding"		"game_action Menus MenuR3, #Button_MenuR3, , "
 				}
-				"disabled_activators"
-				{
-				}
+			}
+		}
+		"disabled_activators"
+		{
+		}
 			}
 			"button_capture"
 			{
-				"activators"
+		"activators"
+		{
+			"release"
+			{
+				"bindings"
 				{
-					"release"
-					{
-						"bindings"
-						{
-							"binding"		"controller_action system_key_1, , "
-						}
-					}
+					"binding"		"controller_action system_key_1, , "
 				}
-				"disabled_activators"
-				{
-				}
+			}
+		}
+		"disabled_activators"
+		{
+		}
 			}
 		}
 	}
@@ -1202,19 +1202,19 @@
 		{
 			"button_capture"
 			{
-				"activators"
+		"activators"
+		{
+			"release"
+			{
+				"bindings"
 				{
-					"release"
-					{
-						"bindings"
-						{
-							"binding"		"controller_action system_key_1, , "
-						}
-					}
+					"binding"		"controller_action system_key_1, , "
 				}
-				"disabled_activators"
-				{
-				}
+			}
+		}
+		"disabled_activators"
+		{
+		}
 			}
 		}
 		"settings"
@@ -1232,67 +1232,67 @@
 		{
 			"dpad_north"
 			{
-				"activators"
+		"activators"
+		{
+			"Full_Press"
+			{
+				"bindings"
 				{
-					"Full_Press"
-					{
-						"bindings"
-						{
-							"binding"		"game_action Menus MenuUp, #Button_MenuUp, , "
-						}
-					}
+					"binding"		"game_action Menus MenuUp, #Button_MenuUp, , "
 				}
-				"disabled_activators"
-				{
-				}
+			}
+		}
+		"disabled_activators"
+		{
+		}
 			}
 			"dpad_south"
 			{
-				"activators"
+		"activators"
+		{
+			"Full_Press"
+			{
+				"bindings"
 				{
-					"Full_Press"
-					{
-						"bindings"
-						{
-							"binding"		"game_action Menus MenuDown, #Button_MenuDown, , "
-						}
-					}
+					"binding"		"game_action Menus MenuDown, #Button_MenuDown, , "
 				}
-				"disabled_activators"
-				{
-				}
+			}
+		}
+		"disabled_activators"
+		{
+		}
 			}
 			"dpad_east"
 			{
-				"activators"
+		"activators"
+		{
+			"Full_Press"
+			{
+				"bindings"
 				{
-					"Full_Press"
-					{
-						"bindings"
-						{
-							"binding"		"game_action Menus MenuRight, #Button_MenuRight, , "
-						}
-					}
+					"binding"		"game_action Menus MenuRight, #Button_MenuRight, , "
 				}
-				"disabled_activators"
-				{
-				}
+			}
+		}
+		"disabled_activators"
+		{
+		}
 			}
 			"dpad_west"
 			{
-				"activators"
+		"activators"
+		{
+			"Full_Press"
+			{
+				"bindings"
 				{
-					"Full_Press"
-					{
-						"bindings"
-						{
-							"binding"		"game_action Menus MenuLeft, #Button_MenuLeft, , "
-						}
-					}
+					"binding"		"game_action Menus MenuLeft, #Button_MenuLeft, , "
 				}
-				"disabled_activators"
-				{
-				}
+			}
+		}
+		"disabled_activators"
+		{
+		}
 			}
 		}
 		"settings"
@@ -1314,83 +1314,83 @@
 		{
 			"dpad_north"
 			{
-				"activators"
+		"activators"
+		{
+			"Full_Press"
+			{
+				"bindings"
 				{
-					"Full_Press"
-					{
-						"bindings"
-						{
-							"binding"		"game_action Menus MenuLeftStickUp, #Button_MenuLeftStickUp, , "
-						}
-					}
+					"binding"		"game_action Menus MenuLeftStickUp, #Button_MenuLeftStickUp, , "
 				}
-				"disabled_activators"
-				{
-				}
+			}
+		}
+		"disabled_activators"
+		{
+		}
 			}
 			"dpad_south"
 			{
-				"activators"
+		"activators"
+		{
+			"Full_Press"
+			{
+				"bindings"
 				{
-					"Full_Press"
-					{
-						"bindings"
-						{
-							"binding"		"game_action Menus MenuLeftStickDown, #Button_MenuLeftStickDown, , "
-						}
-					}
+					"binding"		"game_action Menus MenuLeftStickDown, #Button_MenuLeftStickDown, , "
 				}
-				"disabled_activators"
-				{
-				}
+			}
+		}
+		"disabled_activators"
+		{
+		}
 			}
 			"dpad_east"
 			{
-				"activators"
+		"activators"
+		{
+			"Full_Press"
+			{
+				"bindings"
 				{
-					"Full_Press"
-					{
-						"bindings"
-						{
-							"binding"		"game_action Menus MenuLeftStickRight, #Button_MenuLeftStickRight, , "
-						}
-					}
+					"binding"		"game_action Menus MenuLeftStickRight, #Button_MenuLeftStickRight, , "
 				}
-				"disabled_activators"
-				{
-				}
+			}
+		}
+		"disabled_activators"
+		{
+		}
 			}
 			"dpad_west"
 			{
-				"activators"
+		"activators"
+		{
+			"Full_Press"
+			{
+				"bindings"
 				{
-					"Full_Press"
-					{
-						"bindings"
-						{
-							"binding"		"game_action Menus MenuLeftStickLeft, #Button_MenuLeftStickLeft, , "
-						}
-					}
+					"binding"		"game_action Menus MenuLeftStickLeft, #Button_MenuLeftStickLeft, , "
 				}
-				"disabled_activators"
-				{
-				}
+			}
+		}
+		"disabled_activators"
+		{
+		}
 			}
 			"click"
 			{
-				"activators"
+		"activators"
+		{
+			"Full_Press"
+			{
+				"bindings"
 				{
-					"Full_Press"
-					{
-						"bindings"
-						{
-							"binding"		"game_action Menus MenuL3, #Button_MenuL3, , "
-						}
-					}
+					"binding"		"game_action Menus MenuL3, #Button_MenuL3, , "
 				}
-				"disabled_activators"
-				{
-				}
+			}
+		}
+		"disabled_activators"
+		{
+		}
 			}
 		}
 		"settings"
@@ -1411,83 +1411,83 @@
 		{
 			"dpad_north"
 			{
-				"activators"
+		"activators"
+		{
+			"Full_Press"
+			{
+				"bindings"
 				{
-					"Full_Press"
-					{
-						"bindings"
-						{
-							"binding"		"game_action Menus MenuRightStickUp, #Button_MenuRightStickUp, , "
-						}
-					}
+					"binding"		"game_action Menus MenuRightStickUp, #Button_MenuRightStickUp, , "
 				}
-				"disabled_activators"
-				{
-				}
+			}
+		}
+		"disabled_activators"
+		{
+		}
 			}
 			"dpad_south"
 			{
-				"activators"
+		"activators"
+		{
+			"Full_Press"
+			{
+				"bindings"
 				{
-					"Full_Press"
-					{
-						"bindings"
-						{
-							"binding"		"game_action Menus MenuRightStickDown, #Button_MenuRightStickDown, , "
-						}
-					}
+					"binding"		"game_action Menus MenuRightStickDown, #Button_MenuRightStickDown, , "
 				}
-				"disabled_activators"
-				{
-				}
+			}
+		}
+		"disabled_activators"
+		{
+		}
 			}
 			"dpad_east"
 			{
-				"activators"
+		"activators"
+		{
+			"Full_Press"
+			{
+				"bindings"
 				{
-					"Full_Press"
-					{
-						"bindings"
-						{
-							"binding"		"game_action Menus MenuRightStickRight, #Button_MenuRightStickRight, , "
-						}
-					}
+					"binding"		"game_action Menus MenuRightStickRight, #Button_MenuRightStickRight, , "
 				}
-				"disabled_activators"
-				{
-				}
+			}
+		}
+		"disabled_activators"
+		{
+		}
 			}
 			"dpad_west"
 			{
-				"activators"
+		"activators"
+		{
+			"Full_Press"
+			{
+				"bindings"
 				{
-					"Full_Press"
-					{
-						"bindings"
-						{
-							"binding"		"game_action Menus MenuRightStickLeft, #Button_MenuRightStickLeft, , "
-						}
-					}
+					"binding"		"game_action Menus MenuRightStickLeft, #Button_MenuRightStickLeft, , "
 				}
-				"disabled_activators"
-				{
-				}
+			}
+		}
+		"disabled_activators"
+		{
+		}
 			}
 			"click"
 			{
-				"activators"
+		"activators"
+		{
+			"Full_Press"
+			{
+				"bindings"
 				{
-					"Full_Press"
-					{
-						"bindings"
-						{
-							"binding"		"game_action Menus MenuR3, #Button_MenuR3, , "
-						}
-					}
+					"binding"		"game_action Menus MenuR3, #Button_MenuR3, , "
 				}
-				"disabled_activators"
-				{
-				}
+			}
+		}
+		"disabled_activators"
+		{
+		}
 			}
 		}
 		"settings"
@@ -1508,61 +1508,61 @@
 		{
 			"dpad_north"
 			{
-				"activators"
+		"activators"
+		{
+			"Full_Press"
+			{
+				"bindings"
 				{
-					"Full_Press"
-					{
-						"bindings"
-						{
-							"binding"		"mouse_wheel SCROLL_UP, , "
-						}
-						"settings"
-						{
-							"hold_repeats"		"1"
-							"haptic_intensity"		"0"
-						}
-					}
+					"binding"		"mouse_wheel SCROLL_UP, , "
 				}
-				"disabled_activators"
+				"settings"
 				{
+					"hold_repeats"		"1"
+					"haptic_intensity"		"0"
 				}
+			}
+		}
+		"disabled_activators"
+		{
+		}
 			}
 			"dpad_south"
 			{
-				"activators"
+		"activators"
+		{
+			"Full_Press"
+			{
+				"bindings"
 				{
-					"Full_Press"
-					{
-						"bindings"
-						{
-							"binding"		"mouse_wheel SCROLL_DOWN, , "
-						}
-						"settings"
-						{
-							"hold_repeats"		"1"
-							"haptic_intensity"		"0"
-						}
-					}
+					"binding"		"mouse_wheel SCROLL_DOWN, , "
 				}
-				"disabled_activators"
+				"settings"
 				{
+					"hold_repeats"		"1"
+					"haptic_intensity"		"0"
 				}
+			}
+		}
+		"disabled_activators"
+		{
+		}
 			}
 			"click"
 			{
-				"activators"
+		"activators"
+		{
+			"Soft_Press"
+			{
+				"bindings"
 				{
-					"Soft_Press"
-					{
-						"bindings"
-						{
-							"binding"		"mouse_button RIGHT, , "
-						}
-					}
+					"binding"		"mouse_button RIGHT, , "
 				}
-				"disabled_activators"
-				{
-				}
+			}
+		}
+		"disabled_activators"
+		{
+		}
 			}
 		}
 		"gameactions"
@@ -1579,19 +1579,19 @@
 		{
 			"click"
 			{
-				"activators"
+		"activators"
+		{
+			"Soft_Press"
+			{
+				"bindings"
 				{
-					"Soft_Press"
-					{
-						"bindings"
-						{
-							"binding"		"mouse_button LEFT, , "
-						}
-					}
+					"binding"		"mouse_button LEFT, , "
 				}
-				"disabled_activators"
-				{
-				}
+			}
+		}
+		"disabled_activators"
+		{
+		}
 			}
 		}
 		"gameactions"

@@ -7,7 +7,7 @@
 		{
 			"0"
 			{
-				"path"	"steam_deck.vdf"
+		"path"	"steam_deck.vdf"
 			}
 		}
 
@@ -21,7 +21,7 @@
 		{
 			"0"
 			{
-				"path"	"steam_deck.vdf"
+		"path"	"steam_deck.vdf"
 			}
 		}
 
@@ -30,7 +30,7 @@
 		{
 			"0"
 			{
-				"path"	"steam_deck.vdf"
+		"path"	"steam_deck.vdf"
 			}
 		}
 
@@ -59,7 +59,7 @@
 		{
 			"0"
 			{
-				"path"	"steam_deck.vdf"
+		"path"	"steam_deck.vdf"
 			}
 		}
 	}
@@ -77,89 +77,89 @@
 	
 			"StickPadGyro"
 			{
-				"Move"
-				{
-					"title"		"#Stick_Move"
-					"input_mode"		"joystick_move"
-				}
+		"Move"
+		{
+			"title"		"#Stick_Move"
+			"input_mode"		"joystick_move"
+		}
 
-				"Look"
-				{
-					"title"		"#Stick_Look"
-					"input_mode"		"joystick_move"
-				}
+		"Look"
+		{
+			"title"		"#Stick_Look"
+			"input_mode"		"joystick_move"
+		}
 			}
 
 			"Button"
 			{
-				"PrimaryAttack"		"#Button_PrimaryAttack"
-				"SecondaryAttack"		"#Button_SecondaryAttack"
-				"SecondaryAttackAlt"		"#Button_SecondaryAttackAlt"
-				"MeleeAttack"		"#Button_MeleeAttack"
-				"OffHandAttack"		"#Button_OffHandAttack"
+		"PrimaryAttack"		"#Button_PrimaryAttack"
+		"SecondaryAttack"		"#Button_SecondaryAttack"
+		"SecondaryAttackAlt"		"#Button_SecondaryAttackAlt"
+		"MeleeAttack"		"#Button_MeleeAttack"
+		"OffHandAttack"		"#Button_OffHandAttack"
 
-				"Reload"		"#Button_Reload"
-				"Jump"		"#Button_Jump"
-				"Use"		"#Button_Use"
-				"DropWeapon"		"#Button_DropWeapon"
-				"DropEquipment"		"#Button_DropEquipment"
+		"Reload"		"#Button_Reload"
+		"Jump"		"#Button_Jump"
+		"Use"		"#Button_Use"
+		"DropWeapon"		"#Button_DropWeapon"
+		"DropEquipment"		"#Button_DropEquipment"
 
-				"SwapWeapons"		"#Button_SwapWeapons"
-				"SelectPrimary"		"#Button_SelectPrimary"
-				"SelectSecondary"		"#Button_SelectSecondary"
-				"ActivatePrimary"		"#Button_ActivatePrimary"
-				"ActivateSecondary"		"#Button_ActivateSecondary"
+		"SwapWeapons"		"#Button_SwapWeapons"
+		"SelectPrimary"		"#Button_SelectPrimary"
+		"SelectSecondary"		"#Button_SelectSecondary"
+		"ActivatePrimary"		"#Button_ActivatePrimary"
+		"ActivateSecondary"		"#Button_ActivateSecondary"
 
-				"MoveForward"		"#Button_MoveForward"
-				"MoveLeft"		"#Button_MoveLeft"
-				"MoveBack"		"#Button_MoveBack"
-				"MoveRight"		"#Button_MoveRight"
-				"MoveSlow"		"#Button_MoveSlow"
+		"MoveForward"		"#Button_MoveForward"
+		"MoveLeft"		"#Button_MoveLeft"
+		"MoveBack"		"#Button_MoveBack"
+		"MoveRight"		"#Button_MoveRight"
+		"MoveSlow"		"#Button_MoveSlow"
 
-				"HoldOrder"		"#Button_HoldOrder"
+		"HoldOrder"		"#Button_HoldOrder"
 
-				"EmoteMedic"		"#Button_EmoteMedic"
-				"EmoteAmmo"		"#Button_EmoteAmmo"
-				"EmoteSmile"		"#Button_EmoteSmile"
-				"EmoteGo"		"#Button_EmoteGo"
-				"EmoteStop"		"#Button_EmoteStop"
-				"EmoteExclaim"		"#Button_EmoteExclaim"
-				"EmoteSmile2"		"#Button_EmoteSmile2"
-				"EmoteQuestion"		"#Button_EmoteQuestion"
+		"EmoteMedic"		"#Button_EmoteMedic"
+		"EmoteAmmo"		"#Button_EmoteAmmo"
+		"EmoteSmile"		"#Button_EmoteSmile"
+		"EmoteGo"		"#Button_EmoteGo"
+		"EmoteStop"		"#Button_EmoteStop"
+		"EmoteExclaim"		"#Button_EmoteExclaim"
+		"EmoteSmile2"		"#Button_EmoteSmile2"
+		"EmoteQuestion"		"#Button_EmoteQuestion"
 
-				"TextChat"		"#Button_TextChat"
-				"VoiceChat"		"#Button_VoiceChat"
-				"WheelDefault"		"#RadialMenu_Default"
-				"WheelMarine"		"#RadialMenu_Marine"
-				"WheelEquipment"		"#RadialMenu_Equipment"
-				"WheelEquipment1"		"#RadialMenu_Equipment1"
-				"WheelEquipment2"		"#RadialMenu_Equipment2"
-				"VoteYes"		"#Button_VoteYes"
-				"VoteNo"		"#Button_VoteNo"
+		"TextChat"		"#Button_TextChat"
+		"VoiceChat"		"#Button_VoiceChat"
+		"WheelDefault"		"#RadialMenu_Default"
+		"WheelMarine"		"#RadialMenu_Marine"
+		"WheelEquipment"		"#RadialMenu_Equipment"
+		"WheelEquipment1"		"#RadialMenu_Equipment1"
+		"WheelEquipment2"		"#RadialMenu_Equipment2"
+		"VoteYes"		"#Button_VoteYes"
+		"VoteNo"		"#Button_VoteNo"
 
-				"PlayerList"		"#Button_PlayerList"
-				"InGameBriefing"		"#Button_InGameBriefing"
-				"Menu"		"#Button_Menu"
-				"RotateCameraLeft"		"#Button_RotateCameraLeft"
-				"RotateCameraRight"		"#Button_RotateCameraRight"
-				"SelectMarineDeathmatch"		"#Button_SelectMarineDeathmatch"
+		"PlayerList"		"#Button_PlayerList"
+		"InGameBriefing"		"#Button_InGameBriefing"
+		"Menu"		"#Button_Menu"
+		"RotateCameraLeft"		"#Button_RotateCameraLeft"
+		"RotateCameraRight"		"#Button_RotateCameraRight"
+		"SelectMarineDeathmatch"		"#Button_SelectMarineDeathmatch"
 
-				"SquadOffhand2"		"#Button_SquadOffhand2"
-				"SquadOffhand3"		"#Button_SquadOffhand3"
-				"SquadOffhand4"		"#Button_SquadOffhand4"
-				"SquadOffhand5"		"#Button_SquadOffhand5"
-				"SquadOffhand6"		"#Button_SquadOffhand6"
-				"SquadOffhand7"		"#Button_SquadOffhand7"
-				"SquadOffhand8"		"#Button_SquadOffhand8"
+		"SquadOffhand2"		"#Button_SquadOffhand2"
+		"SquadOffhand3"		"#Button_SquadOffhand3"
+		"SquadOffhand4"		"#Button_SquadOffhand4"
+		"SquadOffhand5"		"#Button_SquadOffhand5"
+		"SquadOffhand6"		"#Button_SquadOffhand6"
+		"SquadOffhand7"		"#Button_SquadOffhand7"
+		"SquadOffhand8"		"#Button_SquadOffhand8"
 
-				"SelectMarine1"		"#Button_SelectMarine1"
-				"SelectMarine2"		"#Button_SelectMarine2"
-				"SelectMarine3"		"#Button_SelectMarine3"
-				"SelectMarine4"		"#Button_SelectMarine4"
-				"SelectMarine5"		"#Button_SelectMarine5"
-				"SelectMarine6"		"#Button_SelectMarine6"
-				"SelectMarine7"		"#Button_SelectMarine7"
-				"SelectMarine8"		"#Button_SelectMarine8"
+		"SelectMarine1"		"#Button_SelectMarine1"
+		"SelectMarine2"		"#Button_SelectMarine2"
+		"SelectMarine3"		"#Button_SelectMarine3"
+		"SelectMarine4"		"#Button_SelectMarine4"
+		"SelectMarine5"		"#Button_SelectMarine5"
+		"SelectMarine6"		"#Button_SelectMarine6"
+		"SelectMarine7"		"#Button_SelectMarine7"
+		"SelectMarine8"		"#Button_SelectMarine8"
 			}
 		}
 
@@ -169,34 +169,34 @@
 
 			"Button"
 			{
-				"MenuConfirm"		"#Button_MenuConfirm"
-				"MenuBack"		"#Button_MenuBack"
-				"MenuSpecial1"		"#Button_MenuSpecial1"
-				"MenuSpecial2"		"#Button_MenuSpecial2"
+		"MenuConfirm"		"#Button_MenuConfirm"
+		"MenuBack"		"#Button_MenuBack"
+		"MenuSpecial1"		"#Button_MenuSpecial1"
+		"MenuSpecial2"		"#Button_MenuSpecial2"
 
-				"MenuL1"		"#Button_MenuL1"
-				"MenuR1"		"#Button_MenuR1"
-				"MenuL2"		"#Button_MenuL2"
-				"MenuR2"		"#Button_MenuR2"
-				"MenuL3"		"#Button_MenuL3"
-				"MenuR3"		"#Button_MenuR3"
-				"MenuSelect"		"#Button_MenuSelect"
-				"MenuStart"		"#Button_MenuStart"
+		"MenuL1"		"#Button_MenuL1"
+		"MenuR1"		"#Button_MenuR1"
+		"MenuL2"		"#Button_MenuL2"
+		"MenuR2"		"#Button_MenuR2"
+		"MenuL3"		"#Button_MenuL3"
+		"MenuR3"		"#Button_MenuR3"
+		"MenuSelect"		"#Button_MenuSelect"
+		"MenuStart"		"#Button_MenuStart"
 
-				"MenuLeft"		"#Button_MenuLeft"
-				"MenuRight"		"#Button_MenuRight"
-				"MenuUp"		"#Button_MenuUp"
-				"MenuDown"		"#Button_MenuDown"
+		"MenuLeft"		"#Button_MenuLeft"
+		"MenuRight"		"#Button_MenuRight"
+		"MenuUp"		"#Button_MenuUp"
+		"MenuDown"		"#Button_MenuDown"
 
-				"MenuLeftStickLeft"		"#Button_MenuLeftStickLeft"
-				"MenuLeftStickRight"		"#Button_MenuLeftStickRight"
-				"MenuLeftStickUp"		"#Button_MenuLeftStickUp"
-				"MenuLeftStickDown"		"#Button_MenuLeftStickDown"
+		"MenuLeftStickLeft"		"#Button_MenuLeftStickLeft"
+		"MenuLeftStickRight"		"#Button_MenuLeftStickRight"
+		"MenuLeftStickUp"		"#Button_MenuLeftStickUp"
+		"MenuLeftStickDown"		"#Button_MenuLeftStickDown"
 
-				"MenuRightStickLeft"		"#Button_MenuRightStickLeft"
-				"MenuRightStickRight"		"#Button_MenuRightStickRight"
-				"MenuRightStickUp"		"#Button_MenuRightStickUp"
-				"MenuRightStickDown"		"#Button_MenuRightStickDown"
+		"MenuRightStickLeft"		"#Button_MenuRightStickLeft"
+		"MenuRightStickRight"		"#Button_MenuRightStickRight"
+		"MenuRightStickUp"		"#Button_MenuRightStickUp"
+		"MenuRightStickDown"		"#Button_MenuRightStickDown"
 			}
 		}
 	}
@@ -211,22 +211,22 @@
 
 			"StickPadGyro"
 			{
-				"MenuNavigate"
-				{
-					"title"		"#Stick_MenuNavigate"
-					"input_mode"		"joystick_move"
-				}
+		"MenuNavigate"
+		{
+			"title"		"#Stick_MenuNavigate"
+			"input_mode"		"joystick_move"
+		}
 			}
 
 			"Button"
 			{
-				"MenuConfirm"		"#Button_MenuConfirm"
-				"MenuBack"		"#Button_MenuBack"
+		"MenuConfirm"		"#Button_MenuConfirm"
+		"MenuBack"		"#Button_MenuBack"
 
-				"MenuLeftStickLeft"		"#Button_MenuLeftStickLeft"
-				"MenuLeftStickRight"		"#Button_MenuLeftStickRight"
-				"MenuLeftStickUp"		"#Button_MenuLeftStickUp"
-				"MenuLeftStickDown"		"#Button_MenuLeftStickDown"
+		"MenuLeftStickLeft"		"#Button_MenuLeftStickLeft"
+		"MenuLeftStickRight"		"#Button_MenuLeftStickRight"
+		"MenuLeftStickUp"		"#Button_MenuLeftStickUp"
+		"MenuLeftStickDown"		"#Button_MenuLeftStickDown"
 			}
 		}
 	}

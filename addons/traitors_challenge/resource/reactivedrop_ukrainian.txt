@@ -3,26 +3,6 @@
 "Language"		"ukrainian"
 "Tokens"
 {
-
-		//----------Depraceted----------
-		//The original code is a mess and has entensibility issues. Thus I have to refactor it, resulting in the refactoring and reorganizing of this file. Sorry for that.
-		//You don't need to translate this block of texts. 
-		//In case you've already translated. You can copy part of them to the new strings. I can't fix these strings by simply copying and replacing.
-		"[english]challenge_traitors_iaf_objective"		"You are an IAF marine! Your team objective is to COMPLETE the mission."
-		"challenge_traitors_iaf_objective"		"You are an IAF marine! Your team objective is to COMPLETE the mission."
-		"[english]challenge_traitors_traitor_objective"		"You are a TRAITOR! Your team objective is to kill the IAF team with at least 1 traitor alive."
-		"challenge_traitors_traitor_objective"		"You are a TRAITOR! Your team objective is to kill the IAF team with at least 1 traitor alive."
-		"[english]challenge_traitors_iaf_bot_taken_notify1"		"You have taken an IAF bot! Your team objective is to COMPLETE the mission."
-		"challenge_traitors_iaf_bot_taken_notify1"		"You have taken an IAF bot! Your team objective is to COMPLETE the mission."
-		"[english]challenge_traitors_traitor_bot_taken_notify1"		"You have taken a TRAITOR bot! Your team objective is to kill the IAF team with at least 1 traitor alive."
-		"challenge_traitors_traitor_bot_taken_notify1"		"You have taken a TRAITOR bot! Your team objective is to kill the IAF team with at least 1 traitor alive."
-
-		"[english]challenge_traitors_iaf_scanner1"		"You are an Alien Expert in IAF Team! Your team objective is to COMPLETE the mission."
-		"challenge_traitors_iaf_scanner1"		"You are an Alien Expert in IAF Team! Your team objective is to COMPLETE the mission."
-		"[english]challenge_traitors_iaf_scanner2"		"You have a bio-scanner which can tell you who is the traitor. Type \"/\" in chat to SHOW / HIDE its menu."
-		"challenge_traitors_iaf_scanner2"		"You have a bio-scanner which can tell you who is the traitor. Type \"/\" in chat to SHOW / HIDE its menu."
-		//--------End Deprecated--------
-
 		//These are challenge name and description in add-on info file and show up in challenge selection menu.
 		"[english]challenge_traitors_name"		"Traitors!"
 		"challenge_traitors_name"		"Traitors!"
@@ -121,6 +101,8 @@
 		"challenge_traitors_iaf_bot_killed_notify"		"Executed for betrayal!"
 		"[english]challenge_traitors_roles_in_this_round"		"Special Roles in this round:"
 		"challenge_traitors_roles_in_this_round"		"Special Roles in this round:"
+		"[english]challenge_traitors_role_abeted"		"(Abeted)"
+		"challenge_traitors_role_abeted"		"(Abeted)"
 
 		//------role/vgui------
 
@@ -149,30 +131,32 @@
 		"[english]challenge_traitors_role_hud_role_description_scanner"		"%hud_skill_instruction%"
 		"challenge_traitors_role_hud_role_description_scanner"		"%hud_skill_instruction%"
 		//VGui menu string. These strings will form two sentences:
-		//If the player can perform a scan, it shows: <menu1> + <menu4>. e.g., "Scan Now!(Red : Traitor | Green : IAF)"
+		//If the player can perform a scan, it shows: <menu1> + <menu4>. e.g., "Scan Neaeby Targets!(Red : Traitor | Green : IAF)"
 		//if the scanner is cooling down, it shows: <menu2> + <remaining time> + <menu3> + <menu4>.  e.g., "Scan will be ready in 20s. (Red : Traitor | Green : IAF)"
-		"[english]challenge_traitors_vgui_menu_scanner_1"		"Scan Now!"
-		"challenge_traitors_vgui_menu_scanner_1"		"Scan Now!"
+		"[english]challenge_traitors_vgui_menu_scanner_1"		"Scan Neaeby Targets!"
+		"challenge_traitors_vgui_menu_scanner_1"		"Scan Neaeby Targets!"
 		"[english]challenge_traitors_vgui_menu_scanner_2"		"Scan will be ready in "
 		"challenge_traitors_vgui_menu_scanner_2"		"Scan will be ready in "
 		"[english]challenge_traitors_vgui_menu_scanner_3"		"s."
 		"challenge_traitors_vgui_menu_scanner_3"		"s."
 		"[english]challenge_traitors_vgui_menu_scanner_4"		"(Red : Traitor | Green : IAF)"
 		"challenge_traitors_vgui_menu_scanner_4"		"(Red : Traitor | Green : IAF)"
+		"[english]challenge_traitors_role_chat_random_scan"		"For game balance considerations, the first several scans are randomized. The target should be within a certain range."
+		"challenge_traitors_role_chat_random_scan"		"For game balance considerations, the first several scans are randomized. The target should be within a certain range."
 
 		//biochemist
 		"[english]challenge_traitors_role_article_biochemist"		"a"
 		"challenge_traitors_role_article_biochemist"		"a"
 		"[english]challenge_traitors_role_name_biochemist"		"Biochemist"
 		"challenge_traitors_role_name_biochemist"		"Biochemist"
-		"[english]challenge_traitors_role_chat_role_description_biochemist"		"You have two biochemical agents: one heals allies (except self), another poisons all targets (including self)."
-		"challenge_traitors_role_chat_role_description_biochemist"		"You have two biochemical agents: one heals allies (except self), another poisons all targets (including self)."
+		"[english]challenge_traitors_role_chat_role_description_biochemist"		"You have two biochemical agents: one adds bonus HP to an ally, cures his infection and extinguishes fire (except self), another poisons a target (including self)."
+		"challenge_traitors_role_chat_role_description_biochemist"		"You have two biochemical agents: one adds bonus HP to an ally, cures his infection and extinguishes fire (except self), another poisons a target (including self)."
 		"[english]challenge_traitors_role_chat_skill_description_biochemist"		" %chat_skill_instruction%"
 		"challenge_traitors_role_chat_skill_description_biochemist"		" %chat_skill_instruction%"
 		"[english]challenge_traitors_role_hud_role_description_biochemist"		"%hud_skill_instruction%"
 		"challenge_traitors_role_hud_role_description_biochemist"		"%hud_skill_instruction%"
-		"[english]challenge_traitors_vgui_menu_biochemist_1"		"LEFT Click to HEAL"
-		"challenge_traitors_vgui_menu_biochemist_1"		"LEFT Click to HEAL"
+		"[english]challenge_traitors_vgui_menu_biochemist_1"		"LEFT Click to ADD HP"
+		"challenge_traitors_vgui_menu_biochemist_1"		"LEFT Click to ADD HP"
 		"[english]challenge_traitors_vgui_menu_biochemist_2"		"RIGHT Click to KILL"
 		"challenge_traitors_vgui_menu_biochemist_2"		"RIGHT Click to KILL"
 		"[english]challenge_traitors_vgui_menu_biochemist_3"		"Skill will be ready in "
@@ -301,8 +285,8 @@
 		"challenge_traitors_role_article_boomer"		"a"
 		"[english]challenge_traitors_role_name_boomer"		"Suicide Boomer"
 		"challenge_traitors_role_name_boomer"		"Suicide Boomer"
-		"[english]challenge_traitors_role_chat_role_description_boomer"		"You can perform a suicide attack. Detonates an area bomb after 10s delay. Type \"/\" in chat to ACTIVATE the bomb."
-		"challenge_traitors_role_chat_role_description_boomer"		"You can perform a suicide attack. Detonates an area bomb after 10s delay. Type \"/\" in chat to ACTIVATE the bomb."
+		"[english]challenge_traitors_role_chat_role_description_boomer"		"You can perform a suicide attack. Detonates an area bomb (with or without alarm) after several seconds delay. Type \"/\" in chat to ACTIVATE the bomb."
+		"challenge_traitors_role_chat_role_description_boomer"		"You can perform a suicide attack. Detonates an area bomb (with or without alarm) after several seconds delay. Type \"/\" in chat to ACTIVATE the bomb."
 "[english]challenge_traitors_role_chat_skill_description_boomer"		""
 "challenge_traitors_role_chat_skill_description_boomer"		""
 		"[english]challenge_traitors_role_hud_role_description_boomer"		"Type \"/\" in chat to ACTIVATE the bomb."
