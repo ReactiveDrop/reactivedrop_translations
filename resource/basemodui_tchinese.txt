@@ -2620,7 +2620,7 @@
 
 "[english]Matchmaking_Creating"		"Creating game..."
 "Matchmaking_Creating"		"正在創建遊戲..."
-"[english]Matchmaking_NoResultsCreating"		"Failed to join games matching your request.\nCreating a new public game..."
+"[english]Matchmaking_NoResultsCreating"		"Failed to join-games matching your request.\nCreating a new public game..."
 "Matchmaking_NoResultsCreating"		"加入符合要求的遊戲失敗。\n正在創建新公共遊戲..."
 "[english]Matchmaking_Joining"		"Joining game..."
 "Matchmaking_Joining"		"正在加入遊戲..."

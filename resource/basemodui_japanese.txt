@@ -2620,7 +2620,7 @@
 
 "[english]Matchmaking_Creating"		"Creating game..."
 "Matchmaking_Creating"		"ゲームを作成しています..."
-"[english]Matchmaking_NoResultsCreating"		"Failed to join games matching your request.\nCreating a new public game..."
+"[english]Matchmaking_NoResultsCreating"		"Failed to join-games matching your request.\nCreating a new public game..."
 "Matchmaking_NoResultsCreating"		"ゲーム参加のリクエストが失敗しました\n新しい公開ゲームを作成します"
 "[english]Matchmaking_Joining"		"Joining game..."
 "Matchmaking_Joining"		"ゲームに参加しています..."

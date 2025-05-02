@@ -4300,7 +4300,7 @@
 
 
 "[english]vegas.Biomass4"		"<clr:84,255,159><B>Vegas:<B> Hmmmm, large swarm biomass. Anyone got a flamer?"
-"vegas.Biomass4"		"<clr:84,255,159><B>Vegas：<B>嗯.....，一大群生物質體。有誰帶了火焰噴射器？"
+"vegas.Biomass4"		"<clr:84,255,159><B>Vegas：<B>嗯... .，一大群生物質體。有誰帶了火焰噴射器？"
 
 
 "[english]vegas.Biomass5"		"<clr:84,255,159><B>Vegas:<B> Swarm biomass! Anyone got a flamer?"
@@ -6669,10 +6669,10 @@
 // NAM HUMANUM
 
 "[english]Duval.01_02"		"<clr:179,203,207><B>Prof. Duval:<B> Charlie, Julie Duval here. Thermals from your shuttle's radar are tracking multiple signals in and out the installation's roofs and ducts. Though these readouts are oddly...human, for lack of details."
-"Duval.01_02"		"<clr:179,203,207><B>Prof. Duval:<B> Charlie小隊，這裡是 Julie Duval。 船隻上的熱像儀雷達從設施的屋頂還有通風口偵測到數個訊號，但從這些訊號的反應似乎是人類....，不過現在還沒有更詳細的情報能夠確定。"
+"Duval.01_02"		"<clr:179,203,207><B>Prof. Duval:<B> Charlie小隊，這裡是 Julie Duval。 船隻上的熱像儀雷達從設施的屋頂還有通風口偵測到數個訊號，但從這些訊號的反應似乎是人類... ，不過現在還沒有更詳細的情報能夠確定。"
 
 "[english]Duval.01_03"		"<clr:179,203,207><B>Prof. Duval:<B> Their morphologies are just...not right. This specimen…"
-"Duval.01_03"		"<clr:179,203,207><B>Prof. Duval:<B> 這些生物體....它們的構造不太對。"
+"Duval.01_03"		"<clr:179,203,207><B>Prof. Duval:<B> 這些生物體... 它們的構造不太對。"
 
 "[english]Duval.01_03_01"		"<clr:179,203,207><B>Prof. Duval:<B> Understood."
 "Duval.01_03_01"		"<clr:179,203,207><B>Prof. Duval:<B> 我知道。"
@@ -6702,7 +6702,7 @@
 "Duval.02_05"		"<clr:179,203,207><B>Prof. Duval:<B> ...它的所有熱源都集中在後側，那裡就是它的弱點!"
 
 "[english]Duval.03_01"		"<clr:179,203,207><B>Prof. Duval:<B> This place is a maze... Our best chance, if we're to condemn the facility, would be to overheat its power source. A nuclear chain-reaction should be enough to cave the entire thing on itself. Looking at the design plans, we know that one of Lugdunum's cores is located within this floor's eastern section, alongside the...chief scientist's office? Huh."
-"Duval.03_01"		"<clr:179,203,207><B>Prof. Duval:<B> 這地方有如迷宮... 如果要摧毀這座設施的話，我們成功的最佳機會是摧毀動力來源。核能連鎖反應應該足夠讓整座設施自我崩壞。根據設計圖看來，盧格杜努姆其中一個核心在這層樓的東邊區域，就在....主任辦公室的旁邊? 恩。"
+"Duval.03_01"		"<clr:179,203,207><B>Prof. Duval:<B> 這地方有如迷宮... 如果要摧毀這座設施的話，我們成功的最佳機會是摧毀動力來源。核能連鎖反應應該足夠讓整座設施自我崩壞。根據設計圖看來，盧格杜努姆其中一個核心在這層樓的東邊區域，就在... 主任辦公室的旁邊? 恩。"
 
 "[english]Duval.03_01_1"		"<clr:179,203,207><B>Prof. Duval:<B> Of course. The only access to the east has been shut but, luckily, the corridor to the west appears to be leading to a remotely controlled defense station. If you find a way to make it work, that may be your ticket to the power core."
 "Duval.03_01_1"		"<clr:179,203,207><B>Prof. Duval:<B> 那是當然。前往東區的唯一通道被擋住了，幸運的是，西邊的走廊似乎是一條引導到遠端遙控防衛系統區的道路。如果你們有辦法啟動系統的話，這或許是你們前往動力核心的方法。"
@@ -6720,7 +6720,7 @@
 "Duval.03_04"		"<clr:179,203,207><B>Prof. Duval:<B> 在那，那裡就是防衛系統區。"
 
 "[english]Duval.03_06"		"<clr:179,203,207><B>Prof. Duval:<B> This...is Dr. Moreau's office. He seemed to have control on all communications coming in and out the colony... For whatever reason, he must have been the one to send the distress signal."
-"Duval.03_06"		"<clr:179,203,207><B>Prof. Duval:<B> 這裡是...Moreau博士的辦公室。他似乎能夠掌控所有殖民地的通訊進出.... 不管怎樣，他肯定是發出求救信號的人。"
+"Duval.03_06"		"<clr:179,203,207><B>Prof. Duval:<B> 這裡是...Moreau博士的辦公室。他似乎能夠掌控所有殖民地的通訊進出...  不管怎樣，他肯定是發出求救信號的人。"
 
 "[english]Duval.03_08"		"<clr:179,203,207><B>Prof. Duval:<B> One last thing Charlie, I've marked a database mainframe on your map, all you have to do is-"
 "Duval.03_08"		"<clr:179,203,207><B>Prof. Duval:<B> Charlie，我還有最後一件事，我在你們的地圖上標記了存取數據的大型電腦，你們只需要-"

@@ -5,26 +5,26 @@
 {
 //These are challenge name and description in add-on info file and show up in challenge selection menu.
 "challenge_traitors_name"		"Traitors!"
-"challenge_traitors_description"		"Follow the instructions in game!"
+"challenge_traitors_description"		"Follow the instructions in-game!"
 
 "challenge_traitors_iaf_win"		"IAF team wins!"
 "challenge_traitors_traitor_win"		"TRAITOR team wins!"
-"challenge_traitors_no_winner"		"All marines have died....There is no winner."
+"challenge_traitors_no_winner"		"All marines have died... There is no winner."
 "challenge_traitors_traitor_surrender"		"Over 2/3 of TRAITOR Team players agree to surrender."
 
 //----instruction------
 "challenge_traitors_not_enough_players"		"You need at least 3 players to play."
 "challenge_traitors_game_instruction1"		"IAF team OBJECTIVE: [Complete the mission]"
 "challenge_traitors_game_instruction2"		"TRAITOR team OBJECTIVE: [Kill IAF team] or [Mission Failed, but traitor alive]"
-"challenge_traitors_game_instruction3"		"By taking a TRAITOR BOT in game, you are forced to join the TRAITOR team. There is no way back from being a traitor."
-"challenge_traitors_game_instruction4"		"---A traitor can send secret messages beginning with \"/\" to teammates."
+"challenge_traitors_game_instruction3"		"By taking a TRAITOR BOT in-game, you are forced to join the TRAITOR team. There is no way back from being a traitor."
+"challenge_traitors_game_instruction4"		"--- A traitor can send secret messages beginning with \"/\" to teammates."
 //IME: Input Method Editors
-"challenge_traitors_game_instruction5"		"---Keep an eye on your IME status, or your secret message might be sent to the public."
-"challenge_traitors_game_instruction6"		"---Traitor Team can send \"/gg\" to initiate a team surrender vote. YES votes > 2/3 means IAF Team wins."
+"challenge_traitors_game_instruction5"		"--- Keep an eye on your IME status, or your secret message might be sent to the public."
+"challenge_traitors_game_instruction6"		"--- Traitor Team can send \"/gg\" to initiate a team surrender vote. YES votes > 2/3 means IAF Team wins."
 //It is intended to use 5ubscr1be  and w○rksh○p here to avoid Steam's checks on harmful texts or links. The checks targets all languages. 
 //Please be aware of the check while translating, otherwise you might make the add-on updates to be rejected by Steam since your translations are included in add-on vpk files.
-"challenge_traitors_game_instruction7"		"---If you can't see your skill menu after typing \"/\" in chat, please 5ubscr1be \"Traitors\" Add-on in w○rksh○p"
-"challenge_traitors_game_instruction8"		"---You can use console command: bind \"o\" \"say /\" to fast open or close menu. Replace \"o\" with whichever key you like."
+"challenge_traitors_game_instruction7"		"--- If you can't see your skill menu after typing \"/\" in chat, please 5ubscr1be \"Traitors\" add-on in w○rksh○p"
+"challenge_traitors_game_instruction8"		"--- You can use console command: bind \"o\" \"say /\" to fast open or close menu. Replace \"o\" with any key you like."
 
 //--------team---------
 "challenge_traitors_team_name_iaf"		"IAF Team"
@@ -34,7 +34,7 @@
 "challenge_traitors_team_objective_long_iaf"		"COMPLETE the mission"
 "challenge_traitors_team_objective_short_iaf"		"COMPLETE the mission"
 "challenge_traitors_team_objective_long_traitor"		"KILL the IAF team with at least 1 traitor alive"
-"challenge_traitors_team_objective_short_traitor"		"kILL the IAF team"
+"challenge_traitors_team_objective_short_traitor"		"KILL the IAF team"
 
 //------chat msg-------
 "challenge_traitors_chat_on_game_start"		"You are %article% %role% in %team%! Your team objective is to %team_objective_long%."
@@ -78,14 +78,14 @@
 //scanner
 "challenge_traitors_role_article_scanner"		"an"
 "challenge_traitors_role_name_scanner"		"Alien Expert"
-"challenge_traitors_role_chat_role_description_scanner"		"You have a bio-scanner which can tell you who is the traitor."
+"challenge_traitors_role_chat_role_description_scanner"		"You have a bio-scanner that can tell you who is the traitor."
 //Note the SPACE before the placeholder. This sentence is right after the role_description_* sentence. Remove the SPACE if you dont need one between two sentences in your language.
 "challenge_traitors_role_chat_skill_description_scanner"		" %chat_skill_instruction%"
 "challenge_traitors_role_hud_role_description_scanner"		"%hud_skill_instruction%"
 //VGui menu string. These strings will form two sentences:
-//If the player can perform a scan, it shows: <menu1> + <menu4>. e.g., "Scan Neaeby Targets!(Red : Traitor | Green : IAF)"
+//If the player can perform a scan, it shows: <menu1> + <menu4>. e.g., "Scan Nearby Targets!(Red : Traitor | Green : IAF)"
 //if the scanner is cooling down, it shows: <menu2> + <remaining time> + <menu3> + <menu4>.  e.g., "Scan will be ready in 20s. (Red : Traitor | Green : IAF)"
-"challenge_traitors_vgui_menu_scanner_1"		"Scan Neaeby Targets!"
+"challenge_traitors_vgui_menu_scanner_1"		"Scan Nearby Targets!"
 "challenge_traitors_vgui_menu_scanner_2"		"Scan will be ready in "
 "challenge_traitors_vgui_menu_scanner_3"		"s."
 "challenge_traitors_vgui_menu_scanner_4"		"(Red : Traitor | Green : IAF)"
@@ -131,7 +131,7 @@
 //demo
 "challenge_traitors_role_article_demo"		"an"
 "challenge_traitors_role_name_demo"		"Explosive Expert"
-"challenge_traitors_role_chat_role_description_demo"		"You bring many explosives to support your team in killing aliens. You decide to Triggers an area explosion upon death, trying to damage potential traitors nearby."
+"challenge_traitors_role_chat_role_description_demo"		"You bring many explosives to support your team in killing aliens. You decide to trigger an area explosion upon death, trying to damage potential traitors nearby."
 "challenge_traitors_role_chat_skill_description_demo"		""
 "challenge_traitors_role_hud_role_description_demo"		"You will explode when you die."
 

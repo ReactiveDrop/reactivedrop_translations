@@ -64,7 +64,7 @@
 "[english]examplecampaign_slow_door_message"		"Locked, slow opening door"
 "examplecampaign_slow_door_message"		"已鎖上, 門正慢慢地打開"
 "[english]examplecampaign_tech_message"		"If you want the player to hack panels and computers..."
-"examplecampaign_tech_message"		"如果你想讓玩家駭入面板或是電腦的話...."
+"examplecampaign_tech_message"		"如果你想讓玩家駭入面板或是電腦的話... "
 "[english]examplecampaign_tech_message_02"		"...place an asw_tech_marine_req somewhere in your level"
 "examplecampaign_tech_message_02"		"...在你想要的地方放上asw_tech_marine_req。"
 

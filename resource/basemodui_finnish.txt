@@ -2620,7 +2620,7 @@
 
 "[english]Matchmaking_Creating"		"Creating game..."
 "Matchmaking_Creating"		"Luodaan peliä..."
-"[english]Matchmaking_NoResultsCreating"		"Failed to join games matching your request.\nCreating a new public game..."
+"[english]Matchmaking_NoResultsCreating"		"Failed to join-games matching your request.\nCreating a new public game..."
 "Matchmaking_NoResultsCreating"		"Hakuasi vastaaviin peleihin liittyminen ei onnistunut.\nLuodaan uutta julkista peliä..."
 "[english]Matchmaking_Joining"		"Joining game..."
 "Matchmaking_Joining"		"Liitytään peliin..."

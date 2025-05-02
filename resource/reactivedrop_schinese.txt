@@ -6991,7 +6991,7 @@
 "[english]red2_1c_title"		"You should arrive at your new base in an hour or so. So hang tight."
 "red2_1c_title"		"预计一小时后到达新基地。请坚守阵地。"
 "[english]red2_1d_title"		"(If the trip seems long, try ''knocking'' on the pilot's door...)"
-"red2_1d_title"		"(如果旅程看起来很长，请尝试“敲”飞行员的门......)"
+"red2_1d_title"		"(如果旅程看起来很长，请尝试“敲”飞行员的门... ..)"
 
 "[english]red2_2_title"		"Prepare then Deploy from Dropship"
 "red2_2_title"		"准备好从运输舰上着陆并部署"

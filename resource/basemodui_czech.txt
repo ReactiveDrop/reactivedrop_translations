@@ -2620,7 +2620,7 @@
 
 "[english]Matchmaking_Creating"		"Creating game..."
 "Matchmaking_Creating"		"Vytváří se hra..."
-"[english]Matchmaking_NoResultsCreating"		"Failed to join games matching your request.\nCreating a new public game..."
+"[english]Matchmaking_NoResultsCreating"		"Failed to join-games matching your request.\nCreating a new public game..."
 "Matchmaking_NoResultsCreating"		"Připojení k hrám odpovídajícím vašemu požadavku se nezdařilo.\nVytváří se nová veřejná hra..."
 "[english]Matchmaking_Joining"		"Joining game..."
 "Matchmaking_Joining"		"Zapojení do hry..."

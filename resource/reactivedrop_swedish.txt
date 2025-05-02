@@ -9924,7 +9924,7 @@
 "[english]rd_video_film_grain"		"Film Grain"
 "rd_video_film_grain"		"Film korn"
 "[english]rd_video_film_grain_hint"		"Adds a simulated film grain (fuzziness) effect to the screen, controlled by the mission.\nIt is recommended to disable this if you are recording gameplay as it can negatively affect video encoding."
-"rd_video_film_grain_hint"		"Lägger till en simulerad filmkornighetseffekt (fuzziness) på skärmen, styrd av uppdraget.\nDet rekommenderas att inaktivera detta om du spelar in gameplay eftersom det kan påverka videokodningen negativt."
+"rd_video_film_grain_hint"		"Lägger till en simulerad filmkornighetseffekt (fuzziness) på skärmen, styrd av uppdraget.\nDet rekommenderas att inaktivera detta om du spelar in-gameplay eftersom det kan påverka videokodningen negativt."
 "[english]rd_video_local_contrast"		"Local Contrast"
 "rd_video_local_contrast"		"Lokal Kontrast"
 "[english]rd_video_local_contrast_hint"		"Controls whether missions can change the sharpness of a scene for dramatic effect."

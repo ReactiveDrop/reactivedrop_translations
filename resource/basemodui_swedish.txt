@@ -2620,7 +2620,7 @@
 
 "[english]Matchmaking_Creating"		"Creating game..."
 "Matchmaking_Creating"		"Skapar spelet ..."
-"[english]Matchmaking_NoResultsCreating"		"Failed to join games matching your request.\nCreating a new public game..."
+"[english]Matchmaking_NoResultsCreating"		"Failed to join-games matching your request.\nCreating a new public game..."
 "Matchmaking_NoResultsCreating"		"Det gick inte att gå med i spel som matchade din begäran.\nSkapar ett nytt allmänt spel ..."
 "[english]Matchmaking_Joining"		"Joining game..."
 "Matchmaking_Joining"		"Går med i spelet ..."

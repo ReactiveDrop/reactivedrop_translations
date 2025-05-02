@@ -2620,7 +2620,7 @@
 
 "[english]Matchmaking_Creating"		"Creating game..."
 "Matchmaking_Creating"		"Criando o jogo..."
-"[english]Matchmaking_NoResultsCreating"		"Failed to join games matching your request.\nCreating a new public game..."
+"[english]Matchmaking_NoResultsCreating"		"Failed to join-games matching your request.\nCreating a new public game..."
 "Matchmaking_NoResultsCreating"		"Falha ao participar dos jogos que correspondem à sua solicitação.\nCriando um novo jogo público..."
 "[english]Matchmaking_Joining"		"Joining game..."
 "Matchmaking_Joining"		"Entrando em um jogo..."

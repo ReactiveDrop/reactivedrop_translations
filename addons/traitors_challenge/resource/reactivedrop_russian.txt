@@ -6,15 +6,15 @@
 //These are challenge name and description in add-on info file and show up in challenge selection menu.
 "[english]challenge_traitors_name"		"Traitors!"
 "challenge_traitors_name"		"Предатели!"
-"[english]challenge_traitors_description"		"Follow the instructions in game!"
+"[english]challenge_traitors_description"		"Follow the instructions in-game!"
 "challenge_traitors_description"		"Следуйте указаниям в игре!"
 
 "[english]challenge_traitors_iaf_win"		"IAF team wins!"
 "challenge_traitors_iaf_win"		"Команда МВС победила!"
 "[english]challenge_traitors_traitor_win"		"TRAITOR team wins!"
 "challenge_traitors_traitor_win"		"Команда ПРЕДАТЕЛЕЙ победила!"
-"[english]challenge_traitors_no_winner"		"All marines have died....There is no winner."
-"challenge_traitors_no_winner"		"Все бойцы погибли.... Победителей нет."
+"[english]challenge_traitors_no_winner"		"All marines have died... There is no winner."
+"challenge_traitors_no_winner"		"Все бойцы погибли...  Победителей нет."
 "[english]challenge_traitors_traitor_surrender"		"Over 2/3 of TRAITOR Team players agree to surrender."
 "challenge_traitors_traitor_surrender"		"Более 2/3 игроков команды ПРЕДАТЕЛЕЙ согласны сдаться."
 
@@ -25,20 +25,20 @@
 "challenge_traitors_game_instruction1"		"ЦЕЛЬ команды МВС: [Завершить миссию]"
 "[english]challenge_traitors_game_instruction2"		"TRAITOR team OBJECTIVE: [Kill IAF team] or [Mission Failed, but traitor alive]"
 "challenge_traitors_game_instruction2"		"ЦЕЛЬ команды ПРЕДАТЕЛЕЙ: [Перебить команду МВС] или [Провалить миссию, но сохранить предателя в живых]"
-"[english]challenge_traitors_game_instruction3"		"By taking a TRAITOR BOT in game, you are forced to join the TRAITOR team. There is no way back from being a traitor."
+"[english]challenge_traitors_game_instruction3"		"By taking a TRAITOR BOT in-game, you are forced to join the TRAITOR team. There is no way back from being a traitor."
 "challenge_traitors_game_instruction3"		"Взяв под контроль в игре бота-ПРЕДАТЕЛЯ, вас переведут в команду ПРЕДАТЕЛЕЙ. Предателю нет пути назад."
-"[english]challenge_traitors_game_instruction4"		"---A traitor can send secret messages beginning with \"/\" to teammates."
-"challenge_traitors_game_instruction4"		"---Предатель может отправлять секретные сообщения, начинающиеся с \"/\", товарищам по команде."
+"[english]challenge_traitors_game_instruction4"		"--- A traitor can send secret messages beginning with \"/\" to teammates."
+"challenge_traitors_game_instruction4"		"--- Предатель может отправлять секретные сообщения, начинающиеся с \"/\", товарищам по команде."
 //IME: Input Method Editors
-"[english]challenge_traitors_game_instruction5"		"---Keep an eye on your IME status, or your secret message might be sent to the public."
-"challenge_traitors_game_instruction5"		"---Следите за написанием сообщения перед отправкой, иначе о вашем секретном сообщении могут узнать все."
-"[english]challenge_traitors_game_instruction6"		"---Traitor Team can send \"/gg\" to initiate a team surrender vote. YES votes > 2/3 means IAF Team wins."
-"challenge_traitors_game_instruction6"		"---Команда предателей может отправить «gg» для начала голосования о сдаче команды. Голоса «ЗА» > 2/3 означают победу команды МВС."
+"[english]challenge_traitors_game_instruction5"		"--- Keep an eye on your IME status, or your secret message might be sent to the public."
+"challenge_traitors_game_instruction5"		"--- Следите за написанием сообщения перед отправкой, иначе о вашем секретном сообщении могут узнать все."
+"[english]challenge_traitors_game_instruction6"		"--- Traitor Team can send \"/gg\" to initiate a team surrender vote. YES votes > 2/3 means IAF Team wins."
+"challenge_traitors_game_instruction6"		"--- Команда предателей может отправить «gg» для начала голосования о сдаче команды. Голоса «ЗА» > 2/3 означают победу команды МВС."
 //It is intended to use 5ubscr1be  and w○rksh○p here to avoid Steam's checks on harmful texts or links. The checks targets all languages. 
 //Please be aware of the check while translating, otherwise you might make the add-on updates to be rejected by Steam since your translations are included in add-on vpk files.
-"[english]challenge_traitors_game_instruction7"		"---If you can't see your skill menu after typing \"/\" in chat, please 5ubscr1be \"Traitors\" Add-on in w○rksh○p"
+"[english]challenge_traitors_game_instruction7"		"--- If you can't see your skill menu after typing \"/\" in chat, please 5ubscr1be \"Traitors\" add-on in w○rksh○p"
 "challenge_traitors_game_instruction7"		"Если вы не видите такое меню, пожалуйста п0дпNшит3сb на \"Traitors\" в w○rksh○p"
-"[english]challenge_traitors_game_instruction8"		"---You can use console command: bind \"o\" \"say /\" to fast open or close menu. Replace \"o\" with whichever key you like."
+"[english]challenge_traitors_game_instruction8"		"--- You can use console command: bind \"o\" \"say /\" to fast open or close menu. Replace \"o\" with any key you like."
 "challenge_traitors_game_instruction8"		"Вы можете использовать консольную команду: bind \"o\" \"say /\" чтобы быстро открывать или закрывать меню. Замените \"o\" на любую удобную вам клавишу."
 
 //--------team---------
@@ -54,7 +54,7 @@
 "challenge_traitors_team_objective_short_iaf"		"ЗАВЕРШИТЕ миссию"
 "[english]challenge_traitors_team_objective_long_traitor"		"KILL the IAF team with at least 1 traitor alive"
 "challenge_traitors_team_objective_long_traitor"		"УНИЧТОЖТЕ команду МВС с хотя бы одним выжившим предателем"
-"[english]challenge_traitors_team_objective_short_traitor"		"kILL the IAF team"
+"[english]challenge_traitors_team_objective_short_traitor"		"KILL the IAF team"
 "challenge_traitors_team_objective_short_traitor"		"УНИЧТОЖТЕ команду МВС"
 
 //------chat msg-------
@@ -125,7 +125,7 @@
 "challenge_traitors_role_article_scanner"		""
 "[english]challenge_traitors_role_name_scanner"		"Alien Expert"
 "challenge_traitors_role_name_scanner"		"Эксперт по жукам"
-"[english]challenge_traitors_role_chat_role_description_scanner"		"You have a bio-scanner which can tell you who is the traitor."
+"[english]challenge_traitors_role_chat_role_description_scanner"		"You have a bio-scanner that can tell you who is the traitor."
 "challenge_traitors_role_chat_role_description_scanner"		"У вас есть биосканер, который может сказать, кто предатель."
 //Note the SPACE before the placeholder. This sentence is right after the role_description_* sentence. Remove the SPACE if you dont need one between two sentences in your language.
 "[english]challenge_traitors_role_chat_skill_description_scanner"		" %chat_skill_instruction%"
@@ -133,9 +133,9 @@
 "[english]challenge_traitors_role_hud_role_description_scanner"		"%hud_skill_instruction%"
 "challenge_traitors_role_hud_role_description_scanner"		"%hud_skill_instruction%"
 		//VGui menu string. These strings will form two sentences:
-		//If the player can perform a scan, it shows: <menu1> + <menu4>. e.g., "Scan Neaeby Targets!(Red : Traitor | Green : IAF)"
+		//If the player can perform a scan, it shows: <menu1> + <menu4>. e.g., "Scan Nearby Targets!(Red : Traitor | Green : IAF)"
 		//if the scanner is cooling down, it shows: <menu2> + <remaining time> + <menu3> + <menu4>.  e.g., "Scan will be ready in 20s. (Red : Traitor | Green : IAF)"
-		"[english]challenge_traitors_vgui_menu_scanner_1"		"Scan Neaeby Targets!"
+		"[english]challenge_traitors_vgui_menu_scanner_1"		"Scan Nearby Targets!"
 		"challenge_traitors_vgui_menu_scanner_1"		"Сканировать!"
 "[english]challenge_traitors_vgui_menu_scanner_2"		"Scan will be ready in "
 "challenge_traitors_vgui_menu_scanner_2"		"Сканирование будет готово через "
@@ -217,7 +217,7 @@
 "challenge_traitors_role_article_demo"		""
 "[english]challenge_traitors_role_name_demo"		"Explosive Expert"
 "challenge_traitors_role_name_demo"		"Эксперт по взрывчатке"
-"[english]challenge_traitors_role_chat_role_description_demo"		"You bring many explosives to support your team in killing aliens. You decide to Triggers an area explosion upon death, trying to damage potential traitors nearby."
+"[english]challenge_traitors_role_chat_role_description_demo"		"You bring many explosives to support your team in killing aliens. You decide to trigger an area explosion upon death, trying to damage potential traitors nearby."
 "challenge_traitors_role_chat_role_description_demo"		"Вы носите много взрывчатки, чтобы помогать своей команде уничтожать пришельцев. Вы можете взорвать область после смерти, пытаясь нанести урон потенциальным предателям поблизости."
 "[english]challenge_traitors_role_chat_skill_description_demo"		""
 "challenge_traitors_role_chat_skill_description_demo"		""

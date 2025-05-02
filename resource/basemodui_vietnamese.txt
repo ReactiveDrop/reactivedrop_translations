@@ -2620,7 +2620,7 @@
 
 "[english]Matchmaking_Creating"		"Creating game..."
 "Matchmaking_Creating"		"Đang tạo trò chơi..."
-"[english]Matchmaking_NoResultsCreating"		"Failed to join games matching your request.\nCreating a new public game..."
+"[english]Matchmaking_NoResultsCreating"		"Failed to join-games matching your request.\nCreating a new public game..."
 "Matchmaking_NoResultsCreating"		"Không thể tham gia các trò chơi phù hợp theo yêu cầu của bạn.\nĐang tạo một phòng chơi công khai mới..."
 "[english]Matchmaking_Joining"		"Joining game..."
 "Matchmaking_Joining"		"Đang tham gia trò chơi..."

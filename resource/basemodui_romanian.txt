@@ -2620,7 +2620,7 @@
 
 "[english]Matchmaking_Creating"		"Creating game..."
 "Matchmaking_Creating"		"Este creat jocul..."
-"[english]Matchmaking_NoResultsCreating"		"Failed to join games matching your request.\nCreating a new public game..."
+"[english]Matchmaking_NoResultsCreating"		"Failed to join-games matching your request.\nCreating a new public game..."
 "Matchmaking_NoResultsCreating"		"Nu au fost găsite jocuri corespunzătoare.\nEste creat un joc public nou..."
 "[english]Matchmaking_Joining"		"Joining game..."
 "Matchmaking_Joining"		"Conectare joc..."

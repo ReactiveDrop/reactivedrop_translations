@@ -2620,7 +2620,7 @@
 
 "[english]Matchmaking_Creating"		"Creating game..."
 "Matchmaking_Creating"		"Spel maken..."
-"[english]Matchmaking_NoResultsCreating"		"Failed to join games matching your request.\nCreating a new public game..."
+"[english]Matchmaking_NoResultsCreating"		"Failed to join-games matching your request.\nCreating a new public game..."
 "Matchmaking_NoResultsCreating"		"Deelnemen aan games die aan je aanvraag voldoen onmogelijk.\nNieuw openbaar spel maken..."
 "[english]Matchmaking_Joining"		"Joining game..."
 "Matchmaking_Joining"		"Bezig met verbinden..."

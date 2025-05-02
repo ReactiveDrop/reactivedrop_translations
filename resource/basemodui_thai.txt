@@ -2620,8 +2620,8 @@
 
 "[english]Matchmaking_Creating"		"Creating game..."
 "Matchmaking_Creating"		"กำลังสร้างเกม..."
-		"[english]Matchmaking_NoResultsCreating"		"Failed to join games matching your request.\nCreating a new public game..."
-		"Matchmaking_NoResultsCreating"		"Failed to join games matching your request.\nCreating a new public game..."
+		"[english]Matchmaking_NoResultsCreating"		"Failed to join-games matching your request.\nCreating a new public game..."
+		"Matchmaking_NoResultsCreating"		"Failed to join-games matching your request.\nCreating a new public game..."
 "[english]Matchmaking_Joining"		"Joining game..."
 "Matchmaking_Joining"		"กำลังเข้าร่วมเกม..."
 "[english]Matchmaking_Searching"		"Searching for games..."

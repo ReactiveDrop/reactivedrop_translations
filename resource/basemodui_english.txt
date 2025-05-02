@@ -1435,7 +1435,7 @@
 // Matchmaking strings
 
 "Matchmaking_Creating"	"Creating game..."
-"Matchmaking_NoResultsCreating"	"Failed to join games matching your request.\nCreating a new public game..."
+"Matchmaking_NoResultsCreating"	"Failed to join-games matching your request.\nCreating a new public game..."
 "Matchmaking_Joining"	"Joining game..."
 "Matchmaking_Searching"	"Searching for games..."
 "Matchmaking_SearchResults"	"Establishing connection to games..."

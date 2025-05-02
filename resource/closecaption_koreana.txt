@@ -147,7 +147,7 @@
 "Command.co_m6_ob17"		"<clr:240,255,255><B>윌리엄스 중위:<B> 10초밖에 남지 않았어!"
 
 "[english]Command.co_m6_ob18"		"<clr:240,255,255><B>Lt. Williams:<B> You almost made it."
-"Command.co_m6_ob18"		"<clr:240,255,255><B>윌리엄스 중위:<B> 아, 거의 탈출할 수 있었는데......."
+"Command.co_m6_ob18"		"<clr:240,255,255><B>윌리엄스 중위:<B> 아, 거의 탈출할 수 있었는데... ..."
 
 "[english]Command.co_m6_ob19"		"<clr:240,255,255><B>Lt. Williams:<B> I'm sorry. I'll notify your next of kin."
 "Command.co_m6_ob19"		"<clr:240,255,255><B>윌리엄스 중위:<B> 미안하네. 내가 자네들의 가족에게 연락해야겠군."
@@ -982,7 +982,7 @@
 "bastille.Healing8"		"<clr:205,127,50><B>바스티유:<B> 가만히 있어."
 
 "[english]bastille.Healing9"		"<clr:205,127,50><B>Bastille:<B> Maybe you're dead, but since you hear me..."
-"bastille.Healing9"		"<clr:205,127,50><B>바스티유:<B> 물론 네가 죽었을 수도 있지만, 너 지금 내 말 들을 수 있잖아......."
+"bastille.Healing9"		"<clr:205,127,50><B>바스티유:<B> 물론 네가 죽었을 수도 있지만, 너 지금 내 말 들을 수 있잖아... ..."
 
 "[english]bastille.Healing10"		"<clr:205,127,50><B>Bastille:<B> That should help."
 "bastille.Healing10"		"<clr:205,127,50><B>바스티유:<B> 이게 도움이 될 거야."
@@ -1114,7 +1114,7 @@
 "crash.InjuredSelection4"		"<clr:238,180,34><B>크래시:<B> 시그마 작전도 이렇게까지 어렵진 않았어요."
 
 "[english]crash.SeriousInjuryReply0"		"<clr:238,180,34><B>Crash:<B> Whoo-dee-friggin--OW! God damn!"
-"crash.SeriousInjuryReply0"		"<clr:238,180,34><B>크래시:<B> 우욱, 제...... 빌어...... 아야! 젠장!"
+"crash.SeriousInjuryReply0"		"<clr:238,180,34><B>크래시:<B> 우욱, 제... .. 빌어... .. 아야! 젠장!"
 
 "[english]crash.StillBreathingReply0"		"<clr:238,180,34><B>Crash:<B> Hell, I been holding my breath since we landed."
 "crash.StillBreathingReply0"		"<clr:238,180,34><B>크래시:<B> 씨, 착륙하고 나서부터 지금까지 숨죽이고 있었다고요."
@@ -1141,7 +1141,7 @@
 "crash.Idle2"		"<clr:238,180,34><B>크래시:<B> 난 사령부가 이 장소에 벌레가 득시글거린다는 걸 이미 알고 있었다에 걸도록 하죠."
 
 "[english]crash.Idle3"		"<clr:238,180,34><B>Crash:<B> I shoulda stolen more money to put up with this shit."
-"crash.Idle3"		"<clr:238,180,34><B>크래시:<B> 이 빌어먹을 곳에서 묵을 줄 알았더라면 돈 좀 더 훔쳐오는 건데......."
+"crash.Idle3"		"<clr:238,180,34><B>크래시:<B> 이 빌어먹을 곳에서 묵을 줄 알았더라면 돈 좀 더 훔쳐오는 건데... ..."
 
 "[english]crash.Idle4"		"<clr:238,180,34><B>Crash:<B> I tell you what, you guys are lucky I'm here."
 "crash.Idle4"		"<clr:238,180,34><B>크래시:<B> 뭐 하나 알려드릴까요? 내가 여기 있다는 것에 좀 고마워들 하시라고요."

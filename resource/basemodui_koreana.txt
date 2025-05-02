@@ -892,7 +892,7 @@
 "[english]L4D360UI_Lobby_SwitchConf_coop"		"Are you sure you would like to switch to Campaign mode?"
 "L4D360UI_Lobby_SwitchConf_coop"		"작전 모드로 전환하시겠습니까?"
 "[english]L4D360UI_Lobby_SwitchDone_coop"		"Switching to Campaign..."
-"L4D360UI_Lobby_SwitchDone_coop"		"작전으로 전환하는 중......."
+"L4D360UI_Lobby_SwitchDone_coop"		"작전으로 전환하는 중... ..."
 "[english]L4D360UI_Lobby_SwitchTip_coop"		"Convert the game to Campaign mode."
 "L4D360UI_Lobby_SwitchTip_coop"		"작전 모드로 게임을 변환합니다."
 
@@ -1342,7 +1342,7 @@
 "[english]L4D360UI_ADDON_SUPPORT_INSTALL"		"INSTALL ADD-ON SUPPORT"
 "L4D360UI_ADDON_SUPPORT_INSTALL"		"애드온 지원 설치"
 "[english]L4D360UI_ADDON_SUPPORT_INSTALLING"		"INSTALLING ADD-ON SUPPORT..."
-"L4D360UI_ADDON_SUPPORT_INSTALLING"		"애드온 지원 설치 중......"
+"L4D360UI_ADDON_SUPPORT_INSTALLING"		"애드온 지원 설치 중... .."
 "[english]L4D360UI_ADDON_SUPPORT_INSTALLING_DETAILS"		"Check download progress in the Steam Tools tab."
 "L4D360UI_ADDON_SUPPORT_INSTALLING_DETAILS"		"Steam 도구 탭에서 다운로드 상태를 확인해보세요."
 //Add-on Legacy Data Download Options
@@ -2620,7 +2620,7 @@
 
 "[english]Matchmaking_Creating"		"Creating game..."
 "Matchmaking_Creating"		"게임 만드는 중..."
-"[english]Matchmaking_NoResultsCreating"		"Failed to join games matching your request.\nCreating a new public game..."
+"[english]Matchmaking_NoResultsCreating"		"Failed to join-games matching your request.\nCreating a new public game..."
 "Matchmaking_NoResultsCreating"		"요청과 일치하는 게임에 참가하지 못했습니다.\n새로운 공개 게임을 만드는 중..."
 "[english]Matchmaking_Joining"		"Joining game..."
 "Matchmaking_Joining"		"게임 참가 중..."
@@ -2640,7 +2640,7 @@
 "[english]MatchLobby_matching_searchidle"		"Still searching for opponent team, no teams available yet..."
 "MatchLobby_matching_searchidle"		"상대 팀 계속 검색 중. 게임 가능한 팀이 아직 없음..."
 "[english]MatchLobby_matching_searcherror"		"Failed to find opponent team, please try again later..."
-"MatchLobby_matching_searcherror"		"상대 팀 찾기에 실패했습니다. 나중에 다시 시도하십시오...."
+"MatchLobby_matching_searcherror"		"상대 팀 찾기에 실패했습니다. 나중에 다시 시도하십시오... "
 "[english]MatchLobby_matching_searchlinked"		"Connected with potential opponent team..."
 "MatchLobby_matching_searchlinked"		"가능한 상대 팀과 연결됨..."
 "[english]MatchLobby_matching_searchresult"		"Selecting potential opponent team..."
