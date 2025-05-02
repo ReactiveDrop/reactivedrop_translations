@@ -103,6 +103,8 @@
 "challenge_traitors_roles_in_this_round"		"本局特殊角色:"
 "[english]challenge_traitors_role_abeted"		"(Abeted)"
 "challenge_traitors_role_abeted"		"(被策反)"
+"[english]challenge_traitors_drop_weapon_notify"		"For game balance considerations, you can't take the two weapons at the same time."
+"challenge_traitors_drop_weapon_notify"		"出于游戏平衡性考量，你不能同时携带这两种武器。"
 
 //------role/vgui------
 

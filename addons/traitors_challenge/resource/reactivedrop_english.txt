@@ -64,6 +64,7 @@
 "challenge_traitors_iaf_bot_killed_notify"		"Executed for betrayal!"
 "challenge_traitors_roles_in_this_round"		"Special Roles in this round:"
 "challenge_traitors_role_abeted"		"(Abeted)"
+"challenge_traitors_drop_weapon_notify"		"For game balance considerations, you can't take the two weapons at the same time."
 
 //------role/vgui------
 

@@ -103,6 +103,8 @@
 "challenge_traitors_roles_in_this_round"		"特殊な役割が与えられています:"
 		"[english]challenge_traitors_role_abeted"		"(Abeted)"
 		"challenge_traitors_role_abeted"		"(Abeted)"
+		"[english]challenge_traitors_drop_weapon_notify"		"For game balance considerations, you can't take the two weapons at the same time."
+		"challenge_traitors_drop_weapon_notify"		"For game balance considerations, you can't take the two weapons at the same time."
 
 //------role/vgui------
 
