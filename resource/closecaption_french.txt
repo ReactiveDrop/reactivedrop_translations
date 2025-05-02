@@ -899,7 +899,7 @@
 "[english]bastille.AlienTooClose5"		"<clr:205,127,50><B>Bastille:<B> On me!"
 "bastille.AlienTooClose5"		"<clr:205,127,50><B>Bastille:<B> Ils sont sur moi!"
 
-"[english]bastille.MadFiring0"		"<clr:205,127,50><B>Bastille:<B> <I>For fuck's sake, fucking piece of shit, fuck you."
+"[english]bastille.MadFiring0"		"<clr:205,127,50><B>Bastille:<B> <I>Putain de merde, saloperie de merde, encule."
 "bastille.MadFiring0"		"<clr:205,127,50><B>Bastille:<B> <I>Putain de merde, saloperie de merde, enculé."
 
 "[english]bastille.MadFiring1"		"<clr:205,127,50><B>Bastille:<B> Eat this, alien scum!"
@@ -6666,7 +6666,7 @@
 "[english]tarnor.train_departing1"		"<clr:158,120,60><B>Station Announcement:<B> This train is now departing."
 "tarnor.train_departing1"		"<clr:158,120,60><B>Annonce de Gare:<B> Départ du train."
 
-		// NAM HUMANUM
+// NAM HUMANUM
 
 "[english]Duval.01_02"		"<clr:179,203,207><B>Prof. Duval:<B> Charlie, Julie Duval here. Thermals from your shuttle's radar are tracking multiple signals in and out the installation's roofs and ducts. Though these readouts are oddly...human, for lack of details."
 "Duval.01_02"		"<clr:179,203,207><B>Prof. Duval:<B> Charlie, ici Julie Duval. Les thermiques de votre navette balisent plusieurs détections dans les compartiments de l’installation. Bien que ces signatures soit étrangement... humaines, pour ne pas dire plus."
@@ -6815,7 +6815,7 @@
 "[english]Vesta.03_11"		"<clr:234,217,245><B>???:<B> Vesta...lives."
 "Vesta.03_11"		"<clr:234,217,245><B>???:<B> Vesta...vit."
 
-		// ACCIDENT 32
+// ACCIDENT 32
 
 "[english]Amber.01_01"		"<clr:255,0,0><B>AMBER Warning:<B><clr:158,143,39> Antenna Communication Failure."
 "Amber.01_01"		"<clr:255,0,0><B>AMBER Warning:<B><clr:158,143,39> Défaut de communication de l'antenne."
