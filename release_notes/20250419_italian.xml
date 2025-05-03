@@ -14,11 +14,11 @@
 [*][b]Area 9800: Lande Desolate:[/b] Corretta la possibilità per i soldati di essere scaraventati verso l'alto in una caduta mortale dagli shieldbug durante il combattimento finale.
 [*][b]Area 9800: Lande Desolate:[/b] Corretto il requisito tecnico che rimane attivo durante il download dei dati.
 [*][b]Operazione Cleansweep: Magazzino:[/b] Alcuni barili non sono più contrassegnati come detriti e possono essere utilizzati come copertura.
-[*][b]Operazione Cleansweep: Baia d'Atterraggio 7:[/b] Ripuliti i muri invisibili nell'area finale.
-[*][b]Operazione Cleansweep: Baia d'Atterraggio 7:[/b] Aggiunte luci e suggerimenti dell'istruttore per rendere più chiara l'area di fuga.
-[*][b]Operazione Cleansweep: Baia d'Atterraggio 7:[/b] Corretto il requisito tecnico che rimane attivo durante il download dei dati.
+[*][b]Operazione Cleansweep: Baia d'Attracco 7:[/b] Ripuliti i muri invisibili nell'area finale.
+[*][b]Operazione Cleansweep: Baia d'Attracco 7:[/b] Aggiunte luci e suggerimenti dell'istruttore per rendere più chiara l'area di fuga.
+[*][b]Operazione Cleansweep: Baia d'Attracco 7:[/b] Corretto il requisito tecnico che rimane attivo durante il download dei dati.
 [*][b]Research 7: Struttura di Trasporto:[/b] Corretto il problema dei muri che diventano invisibili in determinate rotazioni della telecamera.
-[*][b]Research 7: Miniere di Jericho:[/b] Corretto un foro invisibile sul pavimento vicino al laser.
+[*][b]Research 7: Miniere Jericho:[/b] Corretto un foro invisibile sul pavimento vicino al laser.
 [*][b]Lacrime per Tarnor: Punto d'Inserimento:[/b] Spostate leggermente le parabole satellitari per evitare che ostruiscano la visuale all'interno dell'avamposto.
 [*][b]Lacrime per Tarnor: Tunnel della Manutenzione Abbandonati:[/b] Sostituito il percorso di bypass del laser della finestra rotta con delle scale.
 [*][b]Lacrime per Tarnor: Tunnel della Manutenzione Abbandonati:[/b] Il laser ora è rosso perché i laser rossi sono più spaventosi. (Per favore, smettete di camminare dentro il laser).
@@ -37,7 +37,7 @@
 [*][b]Reduction: Operazione Sandstorm:[/b] Corretto lo strano rendering del terreno vicino all'obiettivo nord-ovest.
 [*][b]Reduction: Operazione Sandstorm:[/b] La nave d'ingresso non può più essere distrutta dai soldati.
 [*][b]Bunker:[/b] Rimosso un piano di uccisione fuori posto sopra le stanze iniziali e finali.
-[*][b]Ascensore di Carico Invertito:[/b] Ampliata l'area che conta per l'avvio dell'ascensore.
+[*][b]Ascensore da Carico Invertito:[/b] Ampliata l'area che conta per l'avvio dell'ascensore.
 [/list]
 
 [h2]Armi[/h2]

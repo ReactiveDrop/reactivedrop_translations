@@ -7,7 +7,7 @@
 | [Danish](#non-curated-languages) | 57 | 231 | 43 | 3784 | 283 | 230 | 832 | 148 |
 | [Dutch](#non-curated-languages) | 56 | 2004 | 43 | 3253 | 283 | 230 | 832 | 147 |
 | [Finnish](#non-curated-languages) | ✔️ | 2004 | 42 | 3114 | 212 | 170 | 763 | 146 |
-| [French](#french-français) | 2 | 103 | 43 | 2398 | 282 | 230 | 772 | 126 |
+| [French](#french-français) | 2 | 67 | 43 | 2398 | 282 | 230 | 772 | 126 |
 | [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Hungarian](#non-curated-languages) | 56 | 138 | 43 | 3253 | 283 | 230 | 1097 | 148 |
 | [Indonesian](#indonesian-indonesia) | 916 | 2004 | 635 | 4219 | 286 | 235 | 1094 | 148 |
@@ -22,7 +22,7 @@
 | [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [European Spanish](#spanish-español-de-españa) | ✔️ | 2004 | ✔️ | 1915 | ✔️ | ✔️ | 96 | 126 |
 | [Latin American Spanish](#latam-español-latinoamericano) | 1 | 2004 | ✔️ | 4304 | 31 | 23 | 329 | 144 |
-| [Swedish](#swedish-svenska) | ✔️ | ✔️ | ✔️ | 234 | ✔️ | ✔️ | ✔️ | 71 |
+| [Swedish](#swedish-svenska) | ✔️ | ✔️ | ✔️ | 75 | ✔️ | ✔️ | ✔️ | 71 |
 | [Thai](#non-curated-languages) | 971 | 1993 | 51 | 4500 | 283 | 230 | 861 | 148 |
 | [Turkish](#non-curated-languages) | 56 | 137 | 43 | 3253 | 283 | 230 | 1097 | 148 |
 | [Ukrainian](#ukrainian-українська) | 32 | 131 | 33 | 2819 | 283 | 230 | 1057 | 148 |
@@ -393,7 +393,7 @@
 - [platform/servers/serverbrowser_french.txt](platform/servers/serverbrowser_french.txt) has 24 untranslated strings.
 - [platform/vgui_french.txt](platform/vgui_french.txt) has 93 untranslated strings.
 - [basemodui_french.txt](resource/basemodui_french.txt) has 2 untranslated strings.
-- [closecaption_french.txt](resource/closecaption_french.txt) has 103 untranslated strings.
+- [closecaption_french.txt](resource/closecaption_french.txt) has 67 untranslated strings.
 - [gameui_french.txt](resource/gameui_french.txt) has 43 untranslated strings.
 - [reactivedrop_french.txt](resource/reactivedrop_french.txt) has 2398 untranslated strings.
 - [valve_french.txt](resource/valve_french.txt) has 202 untranslated strings.
@@ -1511,7 +1511,7 @@
 
 ### Strings
 
-- [reactivedrop_swedish.txt](resource/reactivedrop_swedish.txt) has 234 untranslated strings.
+- [reactivedrop_swedish.txt](resource/reactivedrop_swedish.txt) has 75 untranslated strings.
 
 ### Mail and News
 
