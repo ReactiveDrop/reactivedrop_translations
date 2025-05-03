@@ -3,38 +3,18 @@
 "Language"		"schinese"
 "Tokens"
 {
-
-//----------Depraceted----------
-//The original code is a mess and has entensibility issues. Thus I have to refactor it, resulting in the refactoring and reorganizing of this file. Sorry for that.
-//You don't need to translate this block of texts. 
-//In case you've already translated. You can copy part of them to the new strings. I can't fix these strings by simply copying and replacing.
-"[english]challenge_traitors_iaf_objective"		"You are an IAF marine! Your team objective is to COMPLETE the mission."
-"challenge_traitors_iaf_objective"		"You are an IAF marine! Your team objective is to COMPLETE the mission."
-"[english]challenge_traitors_traitor_objective"		"You are a TRAITOR! Your team objective is to kill the IAF team with at least 1 traitor alive."
-"challenge_traitors_traitor_objective"		"You are a TRAITOR! Your team objective is to kill the IAF team with at least 1 traitor alive."
-"[english]challenge_traitors_iaf_bot_taken_notify1"		"You have taken an IAF bot! Your team objective is to COMPLETE the mission."
-"challenge_traitors_iaf_bot_taken_notify1"		"You have taken an IAF bot! Your team objective is to COMPLETE the mission."
-"[english]challenge_traitors_traitor_bot_taken_notify1"		"You have taken a TRAITOR bot! Your team objective is to kill the IAF team with at least 1 traitor alive."
-"challenge_traitors_traitor_bot_taken_notify1"		"You have taken a TRAITOR bot! Your team objective is to kill the IAF team with at least 1 traitor alive."
-
-"[english]challenge_traitors_iaf_scanner1"		"You are an Alien Expert in IAF Team! Your team objective is to COMPLETE the mission."
-"challenge_traitors_iaf_scanner1"		"You are an Alien Expert in IAF Team! Your team objective is to COMPLETE the mission."
-"[english]challenge_traitors_iaf_scanner2"		"You have a bio-scanner which can tell you who is the traitor. Type \"/\" in chat to SHOW / HIDE its menu."
-"challenge_traitors_iaf_scanner2"		"You have a bio-scanner which can tell you who is the traitor. Type \"/\" in chat to SHOW / HIDE its menu."
-//--------End Deprecated--------
-
 //These are challenge name and description in add-on info file and show up in challenge selection menu.
 "[english]challenge_traitors_name"		"Traitors!"
 "challenge_traitors_name"		"有内鬼！"
-"[english]challenge_traitors_description"		"Follow the instructions in game!"
+"[english]challenge_traitors_description"		"Follow the instructions in-game!"
 "challenge_traitors_description"		"至少你要遵守规则"
 
 "[english]challenge_traitors_iaf_win"		"IAF team wins!"
 "challenge_traitors_iaf_win"		"IAF队员 胜利!"
 "[english]challenge_traitors_traitor_win"		"TRAITOR team wins!"
 "challenge_traitors_traitor_win"		"内鬼 胜利!"
-"[english]challenge_traitors_no_winner"		"All marines have died....There is no winner."
-"challenge_traitors_no_winner"		"全员死亡....没有胜利者。"
+"[english]challenge_traitors_no_winner"		"All marines have died... There is no winner."
+"challenge_traitors_no_winner"		"全员死亡... 没有胜利者。"
 "[english]challenge_traitors_traitor_surrender"		"Over 2/3 of TRAITOR Team players agree to surrender."
 "challenge_traitors_traitor_surrender"		"超过 2/3 内鬼玩家同意投降。"
 
@@ -45,21 +25,21 @@
 "challenge_traitors_game_instruction1"		"IAF队员获胜条件： [完成整个任务]"
 "[english]challenge_traitors_game_instruction2"		"TRAITOR team OBJECTIVE: [Kill IAF team] or [Mission Failed, but traitor alive]"
 "challenge_traitors_game_instruction2"		"内鬼获胜条件： [只有内鬼存活] 或 [任务失败，但内鬼存活]"
-"[english]challenge_traitors_game_instruction3"		"By taking a TRAITOR BOT in game, you are forced to join the TRAITOR team. There is no way back from being a traitor."
+"[english]challenge_traitors_game_instruction3"		"By taking a TRAITOR BOT in-game, you are forced to join the TRAITOR team. There is no way back from being a traitor."
 "challenge_traitors_game_instruction3"		"游戏中接管内鬼机器人将自动加入内鬼阵营。内鬼阵营不可反水。"
-"[english]challenge_traitors_game_instruction4"		"---A traitor can send secret messages beginning with \"/\" to teammates."
-"challenge_traitors_game_instruction4"		"---游戏中内鬼发送 \"/\" 开头的信息可以队内聊天"
+"[english]challenge_traitors_game_instruction4"		"--- A traitor can send secret messages beginning with \"/\" to teammates."
+"challenge_traitors_game_instruction4"		"--- 游戏中内鬼发送 \"/\" 开头的信息可以队内聊天"
 //IME: Input Method Editors
-"[english]challenge_traitors_game_instruction5"		"---Keep an eye on your IME status, or your secret message might be sent to the public."
-"challenge_traitors_game_instruction5"		"---队内聊天时注意输入法状态，输错命令可是会自爆的。"
-"[english]challenge_traitors_game_instruction6"		"---Traitor Team can send \"/gg\" to initiate a team surrender vote. YES votes > 2/3 means IAF Team wins."
-"challenge_traitors_game_instruction6"		"---内鬼可以发送 \"/gg\" 投降。超过 2/3 同意则IAF队员胜利。"
+"[english]challenge_traitors_game_instruction5"		"--- Keep an eye on your IME status, or your secret message might be sent to the public."
+"challenge_traitors_game_instruction5"		"--- 队内聊天时注意输入法状态，输错命令可是会自爆的。"
+"[english]challenge_traitors_game_instruction6"		"--- Traitor Team can send \"/gg\" to initiate a team surrender vote. YES votes > 2/3 means IAF Team wins."
+"challenge_traitors_game_instruction6"		"--- 内鬼可以发送 \"/gg\" 投降。超过 2/3 同意则IAF队员胜利。"
 //It is intended to use 5ubscr1be  and w○rksh○p here to avoid Steam's checks on harmful texts or links. The checks targets all languages. 
 //Please be aware of the check while translating, otherwise you might make the add-on updates to be rejected by Steam since your translations are included in add-on vpk files.
-"[english]challenge_traitors_game_instruction7"		"---If you can't see your skill menu after typing \"/\" in chat, please 5ubscr1be \"Traitors\" Add-on in w○rksh○p"
-"challenge_traitors_game_instruction7"		"---如果看不到特殊技能的界面，请到创工意坊钉月“有内鬼”木莫组"
-"[english]challenge_traitors_game_instruction8"		"---You can use console command: bind \"o\" \"say /\" to fast open or close menu. Replace \"o\" with whichever key you like."
-"challenge_traitors_game_instruction8"		"---可以通过控制台命令：bind \"o\" \"say /\" 来绑定o作为快速开关扫描界面的按键。可以将o替换成任意其它按键。"
+"[english]challenge_traitors_game_instruction7"		"--- If you can't see your skill menu after typing \"/\" in chat, please 5ubscr1be \"Traitors\" add-on in w○rksh○p"
+"challenge_traitors_game_instruction7"		"--- 如果看不到特殊技能的界面，请到创工意坊钉月“有内鬼”木莫组"
+"[english]challenge_traitors_game_instruction8"		"--- You can use console command: bind \"o\" \"say /\" to fast open or close menu. Replace \"o\" with any key you like."
+"challenge_traitors_game_instruction8"		"--- 可以通过控制台命令：bind \"o\" \"say /\" 来绑定o作为快速开关扫描界面的按键。可以将o替换成任意其它按键。"
 
 //--------team---------
 "[english]challenge_traitors_team_name_iaf"		"IAF Team"
@@ -74,7 +54,7 @@
 "challenge_traitors_team_objective_short_iaf"		"完成任务"
 "[english]challenge_traitors_team_objective_long_traitor"		"KILL the IAF team with at least 1 traitor alive"
 "challenge_traitors_team_objective_long_traitor"		"杀光 IAF队伍 的士兵且至少有一个内鬼存活"
-"[english]challenge_traitors_team_objective_short_traitor"		"kILL the IAF team"
+"[english]challenge_traitors_team_objective_short_traitor"		"KILL the IAF team"
 "challenge_traitors_team_objective_short_traitor"		"杀光 IAF队伍 的士兵"
 
 //------chat msg-------
@@ -121,6 +101,10 @@
 "challenge_traitors_iaf_bot_killed_notify"		"你因叛逃组织而被暗杀。"
 "[english]challenge_traitors_roles_in_this_round"		"Special Roles in this round:"
 "challenge_traitors_roles_in_this_round"		"本局特殊角色:"
+"[english]challenge_traitors_role_abeted"		"(Abeted)"
+"challenge_traitors_role_abeted"		"(被策反)"
+"[english]challenge_traitors_drop_weapon_notify"		"For game balance considerations, you can't take the two weapons at the same time."
+"challenge_traitors_drop_weapon_notify"		"出于游戏平衡性考量，你不能同时携带这两种武器。"
 
 //------role/vgui------
 
@@ -141,7 +125,7 @@
 "challenge_traitors_role_article_scanner"		""
 "[english]challenge_traitors_role_name_scanner"		"Alien Expert"
 "challenge_traitors_role_name_scanner"		"异形专家"
-"[english]challenge_traitors_role_chat_role_description_scanner"		"You have a bio-scanner which can tell you who is the traitor."
+"[english]challenge_traitors_role_chat_role_description_scanner"		"You have a bio-scanner that can tell you who is the traitor."
 "challenge_traitors_role_chat_role_description_scanner"		"你有一台可以扫描并发现内鬼的生物扫描仪。"
 //Note the SPACE before the placeholder. This sentence is right after the role_description_* sentence. Remove the SPACE if you dont need one between two sentences in your language.
 "[english]challenge_traitors_role_chat_skill_description_scanner"		" %chat_skill_instruction%"
@@ -149,30 +133,32 @@
 "[english]challenge_traitors_role_hud_role_description_scanner"		"%hud_skill_instruction%"
 "challenge_traitors_role_hud_role_description_scanner"		"%hud_skill_instruction%"
 //VGui menu string. These strings will form two sentences:
-//If the player can perform a scan, it shows: <menu1> + <menu4>. e.g., "Scan Now!(Red : Traitor | Green : IAF)"
+//If the player can perform a scan, it shows: <menu1> + <menu4>. e.g., "Scan Nearby Targets!(Red : Traitor | Green : IAF)"
 //if the scanner is cooling down, it shows: <menu2> + <remaining time> + <menu3> + <menu4>.  e.g., "Scan will be ready in 20s. (Red : Traitor | Green : IAF)"
-"[english]challenge_traitors_vgui_menu_scanner_1"		"Scan Now!"
-"challenge_traitors_vgui_menu_scanner_1"		"立即扫描！"
+"[english]challenge_traitors_vgui_menu_scanner_1"		"Scan Nearby Targets!"
+"challenge_traitors_vgui_menu_scanner_1"		"扫描附近目标！"
 "[english]challenge_traitors_vgui_menu_scanner_2"		"Scan will be ready in "
 "challenge_traitors_vgui_menu_scanner_2"		""
 "[english]challenge_traitors_vgui_menu_scanner_3"		"s."
 "challenge_traitors_vgui_menu_scanner_3"		"秒后可再次扫描。"
 "[english]challenge_traitors_vgui_menu_scanner_4"		"(Red : Traitor | Green : IAF)"
 "challenge_traitors_vgui_menu_scanner_4"		"(红：内鬼队伍 | 绿：IAF队伍)"
+"[english]challenge_traitors_role_chat_random_scan"		"For game balance considerations, the first several scans are randomized. The target should be within a certain range."
+"challenge_traitors_role_chat_random_scan"		"出于游戏平衡性考量，前几次扫描是随机的。目标必须在你附近一定范围内。"
 
 //biochemist
 "[english]challenge_traitors_role_article_biochemist"		"a"
 "challenge_traitors_role_article_biochemist"		""
 "[english]challenge_traitors_role_name_biochemist"		"Biochemist"
 "challenge_traitors_role_name_biochemist"		"生化专家"
-"[english]challenge_traitors_role_chat_role_description_biochemist"		"You have two biochemical agents: one heals allies (except self), another poisons all targets (including self)."
-"challenge_traitors_role_chat_role_description_biochemist"		"你有两瓶生化药剂：一瓶能够快速治疗除你以外的任何人，另一瓶能够杀死包括你在内的任何人。"
+"[english]challenge_traitors_role_chat_role_description_biochemist"		"You have two biochemical agents: one adds bonus HP to an ally, cures his infection and extinguishes fire (except self), another poisons a target (including self)."
+"challenge_traitors_role_chat_role_description_biochemist"		"你有两瓶生化药剂：一瓶能够给除你之外的人增加隐藏血量、治疗感染并灭火，另一瓶能够杀死包括你在内的任何人。"
 "[english]challenge_traitors_role_chat_skill_description_biochemist"		" %chat_skill_instruction%"
 "challenge_traitors_role_chat_skill_description_biochemist"		"%chat_skill_instruction%"
 "[english]challenge_traitors_role_hud_role_description_biochemist"		"%hud_skill_instruction%"
 "challenge_traitors_role_hud_role_description_biochemist"		"%hud_skill_instruction%"
-"[english]challenge_traitors_vgui_menu_biochemist_1"		"LEFT Click to HEAL"
-"challenge_traitors_vgui_menu_biochemist_1"		"左键治疗"
+"[english]challenge_traitors_vgui_menu_biochemist_1"		"LEFT Click to ADD HP"
+"challenge_traitors_vgui_menu_biochemist_1"		"左键加隐藏血量"
 "[english]challenge_traitors_vgui_menu_biochemist_2"		"RIGHT Click to KILL"
 "challenge_traitors_vgui_menu_biochemist_2"		"右键毒杀"
 "[english]challenge_traitors_vgui_menu_biochemist_3"		"Skill will be ready in "
@@ -231,7 +217,7 @@
 "challenge_traitors_role_article_demo"		""
 "[english]challenge_traitors_role_name_demo"		"Explosive Expert"
 "challenge_traitors_role_name_demo"		"爆破专家"
-"[english]challenge_traitors_role_chat_role_description_demo"		"You bring many explosives to support your team in killing aliens. You decide to Triggers an area explosion upon death, trying to damage potential traitors nearby."
+"[english]challenge_traitors_role_chat_role_description_demo"		"You bring many explosives to support your team in killing aliens. You decide to trigger an area explosion upon death, trying to damage potential traitors nearby."
 "challenge_traitors_role_chat_role_description_demo"		"你携带了大量用于对抗异形的爆炸物。然而队友背叛了你。于是你在临死前引爆炸药，试图消灭周围的内鬼。希望这个举动不会误伤真正的队友。。"
 "[english]challenge_traitors_role_chat_skill_description_demo"		""
 "challenge_traitors_role_chat_skill_description_demo"		""
@@ -301,8 +287,8 @@
 "challenge_traitors_role_article_boomer"		""
 "[english]challenge_traitors_role_name_boomer"		"Suicide Boomer"
 "challenge_traitors_role_name_boomer"		"自爆人"
-"[english]challenge_traitors_role_chat_role_description_boomer"		"You can perform a suicide attack. Detonates an area bomb after 10s delay. Type \"/\" in chat to ACTIVATE the bomb."
-"challenge_traitors_role_chat_role_description_boomer"		"你可以发动自杀式爆炸袭击。10秒后对周围造成范围伤害。聊天框中发送 \"/\" 可启动炸弹。"
+"[english]challenge_traitors_role_chat_role_description_boomer"		"You can perform a suicide attack. Detonates an area bomb (with or without alarm) after several seconds delay. Type \"/\" in chat to ACTIVATE the bomb."
+"challenge_traitors_role_chat_role_description_boomer"		"你可以发动自杀式爆炸袭击。炸弹可能有声，也可能无声。几秒后对周围造成范围伤害。聊天框中发送 \"/\" 可启动炸弹。"
 "[english]challenge_traitors_role_chat_skill_description_boomer"		""
 "challenge_traitors_role_chat_skill_description_boomer"		""
 "[english]challenge_traitors_role_hud_role_description_boomer"		"Type \"/\" in chat to ACTIVATE the bomb."
