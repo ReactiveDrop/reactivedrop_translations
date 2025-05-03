@@ -33,7 +33,7 @@ vector<string> languageList = {
 	"thai",
 	"turkish",
 	"ukrainian",
-	"vietnamese" 
+	"vietnamese"
 };
 
 
@@ -66,12 +66,12 @@ int main()
 			smatch matchName;
 			if (regex_match(line, matchName, regName))
 			{
-		string str = matchName[1].str();
-		if (!str._Equal("Traitors!"))
-		{
-			translatedLang = translatedLang + language + " / ";
-			translatedName = translatedName + str + " / ";
-		}
+				string str = matchName[1].str();
+				if (!str._Equal("Traitors!"))
+				{
+					translatedLang = translatedLang + language + " / ";
+					translatedName = translatedName + str + " / ";
+				}
 			}
 		}
 		inFileSteam.close();
@@ -97,7 +97,7 @@ int main()
 			smatch match;
 			if (regex_match(line, match, reg))
 			{
-		outFileStream << "\t\t" << match[1] << " = \"" << match[2] << "\",\n";
+				outFileStream << "\t\t" << match[1] << " = \"" << match[2] << "\",\n";
 			}
 		}
 		outFileStream << "\t},\n";
