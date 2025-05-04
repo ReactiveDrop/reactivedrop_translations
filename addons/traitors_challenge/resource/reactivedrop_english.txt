@@ -189,8 +189,8 @@
 //mimic
 "challenge_traitors_role_article_mimic"		"a"
 "challenge_traitors_role_name_mimic"		"Mimic"
-"challenge_traitors_role_chat_role_description_mimic"		"Your quantum holographic cloak makes scanners register you as IAF marine. Maintain disguise until critical moment."
+"challenge_traitors_role_chat_role_description_mimic"		"Your quantum holographic cloak makes Alien Expert's scanner registers you as an IAF marine. Maintain disguise until critical moment."
 "challenge_traitors_role_chat_skill_description_mimic"		""
-"challenge_traitors_role_hud_role_description_mimic"		"Alien Expert's scanner see you as IAF."
+"challenge_traitors_role_hud_role_description_mimic"		"Alien Expert's scanner sees you as an IAF marine"
 }
 }
