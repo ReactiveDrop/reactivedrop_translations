@@ -318,12 +318,12 @@
 "[english]challenge_traitors_role_article_mimic"		"a"
 "challenge_traitors_role_article_mimic"		""
 "[english]challenge_traitors_role_name_mimic"		"Mimic"
-"challenge_traitors_role_name_mimic"		"伪装者"
+"challenge_traitors_role_name_mimic"		"模仿者"
 "[english]challenge_traitors_role_chat_role_description_mimic"		"Your quantum holographic cloak makes scanners register you as IAF marine. Maintain disguise until critical moment."
 "challenge_traitors_role_chat_role_description_mimic"		"你的量子全息伪装层能让异形专家的扫描仪将你识别为IAF队员。你可以一直伪装直到关键时刻在出手。"
 "[english]challenge_traitors_role_chat_skill_description_mimic"		""
 "challenge_traitors_role_chat_skill_description_mimic"		""
 "[english]challenge_traitors_role_hud_role_description_mimic"		"Alien Expert's scanner see you as IAF."
-"challenge_traitors_role_hud_role_description_mimic"		"你在异形专家哪里显示为IAF队员"
+"challenge_traitors_role_hud_role_description_mimic"		"你在异形专家那里显示为IAF队员"
 }
 }
