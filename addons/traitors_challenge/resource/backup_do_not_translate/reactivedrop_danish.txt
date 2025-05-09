@@ -1,13 +1,13 @@
 ﻿"lang"
 {
-"Language"		"ukrainian"
+"Language"		"danish"
 "Tokens"
 {
 		//These are challenge name and description in add-on info file and show up in challenge selection menu.
-		"[english]challenge_traitors_name"		"Traitors!"
-		"challenge_traitors_name"		"Traitors!"
-		"[english]challenge_traitors_description"		"Follow the instructions in-game!"
-		"challenge_traitors_description"		"Follow the instructions in-game!"
+		"[english]challenge_traitors_name"		"Traitors!(Werewolf-like Mode)"
+		"challenge_traitors_name"		"Traitors!(Werewolf-like Mode)"
+		"[english]challenge_traitors_description"		"TRAITOR Team has to KILL IAF Team. While IAF Team has to COMPLETE the mission."
+		"challenge_traitors_description"		"TRAITOR Team has to KILL IAF Team. While IAF Team has to COMPLETE the mission."
 
 		"[english]challenge_traitors_iaf_win"		"IAF team wins!"
 		"challenge_traitors_iaf_win"		"IAF team wins!"

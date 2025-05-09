@@ -39,8 +39,8 @@ vector<string> languageList = {
 
 int main()
 {
-	string filePath = "C:\\Users\\ustcy\\Desktop\\reactivedrop_translations\\addons\\traitors_challenge\\resource\\";
-	ofstream outFileStream(filePath + "AddonTranslationTool\\translations_all.nut");
+	string filePath = "C:\\Users\\ustcy\\Desktop\\reactivedrop_translations\\resource\\";
+	ofstream outFileStream(filePath + "..\\addons\\traitors_challenge\\resource\\AddonTranslationTool\\translations_all.nut");
 	if (!outFileStream.is_open())
 	{
 		cout << "Error: " << filePath + "reactivedrop_all.txt" << " not found." << endl;
@@ -82,6 +82,7 @@ int main()
 	for (string language : languageList)
 	{
 		string filePathName = filePath + "reactivedrop_" + language + ".txt";
+		std::cout << filePathName << std::endl;
 		ifstream inFileStream(filePathName);
 		if (!inFileStream.is_open())
 		{
@@ -93,7 +94,7 @@ int main()
 		string line;
 		while (getline(inFileStream, line))
 		{
-			regex reg(".*\"(challenge_.*?)\".*?\"(.*)\"");
+			regex reg(".*\"(challenge_traitors.*?)\".*?\"(.*)\"");
 			smatch match;
 			if (regex_match(line, match, reg))
 			{
