@@ -17,7 +17,7 @@
 | [Norwegian Bokmål](#non-curated-languages) | 74 | 708 | 48 | 4082 | 283 | 230 | 709 | 148 |
 | [Polish](#polish-polski) | 2 | 2004 | ✔️ | 3021 | 12 | 19 | 136 | 127 |
 | [European Portuguese](#portuguese-português-europeu) | 5 | 180 | 33 | 2467 | 263 | 51 | 635 | 143 |
-| [Brazilian Portuguese](#brazilian-português) | 1 | ✔️ | ✔️ | 1004 | 25 | 22 | 3 | 4 |
+| [Brazilian Portuguese](#brazilian-português) | 1 | ✔️ | ✔️ | 992 | 25 | 22 | 3 | 4 |
 | [Romanian](#non-curated-languages) | 56 | 1996 | 49 | 4088 | 283 | 230 | 974 | 148 |
 | [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | 13 | ✔️ | ✔️ | ✔️ | ✔️ |
 | [European Spanish](#spanish-español-de-españa) | ✔️ | 2004 | ✔️ | 2019 | ✔️ | ✔️ | 2 | 126 |
@@ -1151,7 +1151,7 @@
 - [statsweb_brazilian.vdf](community/stats_website/statsweb_brazilian.vdf) has 22 untranslated strings.
 - [workshop_description_brazilian.vdf](community/workshop/workshop_description_brazilian.vdf) has 2 untranslated strings.
 - [basemodui_brazilian.txt](resource/basemodui_brazilian.txt) has 1 untranslated strings.
-- [reactivedrop_brazilian.txt](resource/reactivedrop_brazilian.txt) has 1004 untranslated strings.
+- [reactivedrop_brazilian.txt](resource/reactivedrop_brazilian.txt) has 992 untranslated strings.
 
 ### Steam Store and Community
 
