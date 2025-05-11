@@ -10492,7 +10492,7 @@
 "[english]rd_crafting_required_items"		"Items:"
 "rd_crafting_required_items"		"Gegenstände:"
 "[english]rd_crafting_output_items"		"This blueprint will create:"
-"rd_crafting_output_items"		"Dieser Bauplan wird:"
+"rd_crafting_output_items"		"Dieser Bauplan erstellt:"
 "[english]rd_crafting_recipe_hoiaf_create_stack_participant"		"Stack HoIAF Participant medals"
 "rd_crafting_recipe_hoiaf_create_stack_participant"		"Stapel HoIAF-Teilnehmer-Medaillen"
 "[english]rd_crafting_recipe_hoiaf_add_to_stack_participant"		"Add HoIAF Participant medal to stack"
