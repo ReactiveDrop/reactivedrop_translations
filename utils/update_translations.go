@@ -81,6 +81,8 @@ func main() {
 		}
 
 		renderInventorySchema()
+
+		generateTranslationsAllNut()
 	}
 
 	for _, prefix := range txtAddonLanguageFiles {
@@ -94,8 +96,6 @@ func main() {
 	}
 
 	checkReleaseNotes()
-
-	generateTranslationsAllNut()
 }
 
 func syncTranslations(prefix, suffix string, quiet bool) {
@@ -1042,11 +1042,11 @@ func checkReleaseNotes() {
 	}
 }
 
-// generates a merged translations file (translations_all.nut) 
+// generates a merged translations file (translations_all.nut)
 // for all supported languages. This file is used by the Traitors challenge.
 func generateTranslationsAllNut() {
-    // Define the list of derived languages directly inside the function
-    languageList := []string{
+	// Define the list of derived languages directly inside the function
+	languageList := []string{
 		"brazilian",
 		"czech",
 		"danish",
@@ -1074,53 +1074,43 @@ func generateTranslationsAllNut() {
 		"turkish",
 		"ukrainian",
 		"vietnamese",
-    }
+	}
 
-    filePath := "../resource/"
-    outPath := "../resource/traitors_challenge_translations_all.nut"
-    outFile, err := os.Create(outPath)
-    if err != nil {
-        panic(fmt.Sprintf("Failed to create output file: %v", err))
-    }
-    defer outFile.Close()
+	outFile, err := os.Create("../resource/traitors_challenge_translations_all.nut")
+	if err != nil {
+		panic(err)
+	}
+	defer outFile.Close()
 
-    // Write header comment
-    outFile.WriteString("// This file will be merged into the addon's VScript.\n")
-    outFile.WriteString("// DO NOT translate this file directly.\n\n")
-	outFile.WriteString("g_localizations <- {\n")
+	// Write header comment
+	outFile.WriteString(`// This file will be merged into the addon's VScript.
+// DO NOT translate this file directly.
 
-    //var translatedLang, translatedName strings.Builder
+g_localizations <- {
+`)
 
-    // Process each language file
-    for _, lang := range languageList {
-        if emptyLanguages[lang] { // Skip empty languages if defined
-            continue
-        }
+	re := regexp.MustCompile(`"(challenge_traitors.*?)".*?"(.*)"`)
 
-        path := filepath.Join(filePath, fmt.Sprintf("reactivedrop_%s.txt", lang))
-        inFile, err := os.Open(path)
-        if err != nil {
-            fmt.Printf("Warning: Language file %s not found\n", path)
-            continue
-        }
-        defer inFile.Close()
+	// Process each language file
+	for _, lang := range languageList {
+		inFile, err := os.ReadFile(fmt.Sprintf("../resource/reactivedrop_%s.txt", lang))
+		if err != nil {
+			panic(err)
+		}
 
-        scanner := bufio.NewScanner(inFile)
-        // Write language block
-        outFile.WriteString(fmt.Sprintf("\t%s = {\n", lang))
-        for scanner.Scan() {
-            line := scanner.Text()
-            if strings.Contains(line, "\"challenge_traitors") {
-                re := regexp.MustCompile(`"(challenge_traitors.*?)".*?"(.*)"`)
-                matches := re.FindStringSubmatch(line)
-                if len(matches) > 2 {
-                    outFile.WriteString(fmt.Sprintf("\t\t%s = \"%s\",\n", matches[1], matches[2]))
-                }
-            }
-        }
-        outFile.WriteString("\t},\n")
-    }    
-    // Close the main table
-    outFile.WriteString("};")
-	outFile.Close()
+		lines := strings.Split(string(inFile), "\n")
+
+		// Write language block
+		fmt.Fprintf(outFile, "\t%s = {\n", lang)
+		for _, line := range lines {
+			matches := re.FindStringSubmatch(line)
+			if matches != nil {
+				fmt.Fprintf(outFile, "\t\t%s = \"%s\",\n", matches[1], matches[2])
+			}
+		}
+		outFile.WriteString("\t},\n")
+	}
+
+	// Close the main table
+	outFile.WriteString("};\n")
 }
