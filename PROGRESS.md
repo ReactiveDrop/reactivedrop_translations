@@ -12,8 +12,8 @@
 | [Hungarian](#non-curated-languages) | 56 | 138 | 43 | 3377 | 283 | 230 | 974 | 148 |
 | [Indonesian](#indonesian-indonesia) | 916 | 2004 | 635 | 4343 | 286 | 235 | 971 | 148 |
 | [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | 13 | ✔️ | ✔️ | ✔️ | ✔️ |
-| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | 13 | ✔️ | ✔️ | 35 | ✔️ |
-| [Korean](#koreana-한국어) | ✔️ | ✔️ | ✔️ | 163 | ✔️ | ✔️ | 5 | 29 |
+| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 35 | ✔️ |
+| [Korean](#koreana-한국어) | ✔️ | ✔️ | ✔️ | 57 | ✔️ | ✔️ | 5 | 29 |
 | [Norwegian Bokmål](#non-curated-languages) | 74 | 708 | 48 | 4082 | 283 | 230 | 709 | 148 |
 | [Polish](#polish-polski) | 2 | 2004 | ✔️ | 3021 | 12 | 19 | 136 | 127 |
 | [European Portuguese](#portuguese-português-europeu) | 5 | 180 | 33 | 2467 | 263 | 51 | 635 | 143 |
@@ -22,7 +22,7 @@
 | [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | 13 | ✔️ | ✔️ | ✔️ | ✔️ |
 | [European Spanish](#spanish-español-de-españa) | ✔️ | 2004 | ✔️ | 2019 | ✔️ | ✔️ | 2 | 126 |
 | [Latin American Spanish](#latam-español-latinoamericano) | 1 | 2004 | ✔️ | 4428 | 31 | 23 | 206 | 144 |
-| [Swedish](#swedish-svenska) | ✔️ | ✔️ | ✔️ | 88 | ✔️ | ✔️ | ✔️ | 71 |
+| [Swedish](#swedish-svenska) | ✔️ | ✔️ | ✔️ | 75 | ✔️ | ✔️ | ✔️ | 71 |
 | [Thai](#non-curated-languages) | 971 | 1993 | 51 | 4624 | 283 | 230 | 738 | 148 |
 | [Turkish](#non-curated-languages) | 56 | 137 | 43 | 3377 | 283 | 230 | 974 | 148 |
 | [Ukrainian](#ukrainian-українська) | 32 | 131 | 33 | 2943 | 283 | 230 | 934 | 148 |
@@ -754,7 +754,6 @@
 ### Strings
 
 - [platform/vgui_japanese.txt](platform/vgui_japanese.txt) has 35 untranslated strings.
-- [reactivedrop_japanese.txt](resource/reactivedrop_japanese.txt) has 13 untranslated strings.
 
 </details>
 
@@ -767,7 +766,7 @@
 ### Strings
 
 - [platform/vgui_koreana.txt](platform/vgui_koreana.txt) has 5 untranslated strings.
-- [reactivedrop_koreana.txt](resource/reactivedrop_koreana.txt) has 163 untranslated strings.
+- [reactivedrop_koreana.txt](resource/reactivedrop_koreana.txt) has 57 untranslated strings.
 
 ### Mail and News
 
@@ -1508,7 +1507,7 @@
 
 ### Strings
 
-- [reactivedrop_swedish.txt](resource/reactivedrop_swedish.txt) has 88 untranslated strings.
+- [reactivedrop_swedish.txt](resource/reactivedrop_swedish.txt) has 75 untranslated strings.
 
 ### Mail and News
 

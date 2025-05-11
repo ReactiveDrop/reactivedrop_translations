@@ -81,6 +81,8 @@ func main() {
 		}
 
 		renderInventorySchema()
+
+		generateTranslationsAllNut()
 	}
 
 	for _, prefix := range txtAddonLanguageFiles {
@@ -1038,4 +1040,77 @@ func checkReleaseNotes() {
 			}
 		}
 	}
+}
+
+// generates a merged translations file (translations_all.nut)
+// for all supported languages. This file is used by the Traitors challenge.
+func generateTranslationsAllNut() {
+	// Define the list of derived languages directly inside the function
+	languageList := []string{
+		"brazilian",
+		"czech",
+		"danish",
+		"dutch",
+		"english",
+		"finnish",
+		"french",
+		"german",
+		"hungarian",
+		"indonesian",
+		"italian",
+		"japanese",
+		"koreana",
+		"latam",
+		"norwegian",
+		"polish",
+		"portuguese",
+		"romanian",
+		"russian",
+		"schinese",
+		"spanish",
+		"swedish",
+		"tchinese",
+		"thai",
+		"turkish",
+		"ukrainian",
+		"vietnamese",
+	}
+
+	outFile, err := os.Create("../resource/traitors_challenge_translations_all.nut")
+	if err != nil {
+		panic(err)
+	}
+	defer outFile.Close()
+
+	// Write header comment
+	outFile.WriteString(`// This file will be merged into the addon's VScript.
+// DO NOT translate this file directly.
+
+g_localizations <- {
+`)
+
+	re := regexp.MustCompile(`"(challenge_traitors.*?)".*?"(.*)"`)
+
+	// Process each language file
+	for _, lang := range languageList {
+		inFile, err := os.ReadFile(fmt.Sprintf("../resource/reactivedrop_%s.txt", lang))
+		if err != nil {
+			panic(err)
+		}
+
+		lines := strings.Split(string(inFile), "\n")
+
+		// Write language block
+		fmt.Fprintf(outFile, "\t%s = {\n", lang)
+		for _, line := range lines {
+			matches := re.FindStringSubmatch(line)
+			if matches != nil {
+				fmt.Fprintf(outFile, "\t\t%s = \"%s\",\n", matches[1], matches[2])
+			}
+		}
+		outFile.WriteString("\t},\n")
+	}
+
+	// Close the main table
+	outFile.WriteString("};\n")
 }
