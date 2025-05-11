@@ -94,6 +94,8 @@ func main() {
 	}
 
 	checkReleaseNotes()
+
+	generateTranslationsAllNut()
 }
 
 func syncTranslations(prefix, suffix string, quiet bool) {
@@ -1038,4 +1040,87 @@ func checkReleaseNotes() {
 			}
 		}
 	}
+}
+
+// generates a merged translations file (translations_all.nut) 
+// for all supported languages. This file is used by the Traitors challenge.
+func generateTranslationsAllNut() {
+    // Define the list of derived languages directly inside the function
+    languageList := []string{
+		"brazilian",
+		"czech",
+		"danish",
+		"dutch",
+		"english",
+		"finnish",
+		"french",
+		"german",
+		"hungarian",
+		"indonesian",
+		"italian",
+		"japanese",
+		"koreana",
+		"latam",
+		"norwegian",
+		"polish",
+		"portuguese",
+		"romanian",
+		"russian",
+		"schinese",
+		"spanish",
+		"swedish",
+		"tchinese",
+		"thai",
+		"turkish",
+		"ukrainian",
+		"vietnamese",
+    }
+
+    filePath := "../resource/"
+    outPath := "../resource/traitors_challenge_translations_all.nut"
+    outFile, err := os.Create(outPath)
+    if err != nil {
+        panic(fmt.Sprintf("Failed to create output file: %v", err))
+    }
+    defer outFile.Close()
+
+    // Write header comment
+    outFile.WriteString("// This file will be merged into the addon's VScript.\n")
+    outFile.WriteString("// DO NOT translate this file directly.\n\n")
+	outFile.WriteString("g_localizations <- {\n")
+
+    //var translatedLang, translatedName strings.Builder
+
+    // Process each language file
+    for _, lang := range languageList {
+        if emptyLanguages[lang] { // Skip empty languages if defined
+            continue
+        }
+
+        path := filepath.Join(filePath, fmt.Sprintf("reactivedrop_%s.txt", lang))
+        inFile, err := os.Open(path)
+        if err != nil {
+            fmt.Printf("Warning: Language file %s not found\n", path)
+            continue
+        }
+        defer inFile.Close()
+
+        scanner := bufio.NewScanner(inFile)
+        // Write language block
+        outFile.WriteString(fmt.Sprintf("\t%s = {\n", lang))
+        for scanner.Scan() {
+            line := scanner.Text()
+            if strings.Contains(line, "\"challenge_traitors") {
+                re := regexp.MustCompile(`"(challenge_traitors.*?)".*?"(.*)"`)
+                matches := re.FindStringSubmatch(line)
+                if len(matches) > 2 {
+                    outFile.WriteString(fmt.Sprintf("\t\t%s = \"%s\",\n", matches[1], matches[2]))
+                }
+            }
+        }
+        outFile.WriteString("\t},\n")
+    }    
+    // Close the main table
+    outFile.WriteString("};")
+	outFile.Close()
 }
