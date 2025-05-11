@@ -10769,8 +10769,8 @@
 
 //infector
 "[english]challenge_traitors_role_article_infector"		"a"
-"[english]challenge_traitors_role_name_infector"		"Suborner"
 "challenge_traitors_role_article_infector"		""
+"[english]challenge_traitors_role_name_infector"		"Suborner"
 "challenge_traitors_role_name_infector"		"勧誘者"
 "[english]challenge_traitors_role_chat_role_description_infector"		"You can convert an IAF member when traitors are outnumbered."
 "challenge_traitors_role_chat_role_description_infector"		"裏切者チームが劣勢の場合、IAFチームを1人裏切者に変えられます。"
