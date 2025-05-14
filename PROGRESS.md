@@ -8,10 +8,10 @@
 | [Dutch](#non-curated-languages) | 56 | 2004 | 43 | 3377 | 283 | 230 | 709 | 147 |
 | [Finnish](#non-curated-languages) | ✔️ | 2004 | 42 | 3238 | 212 | 170 | 640 | 146 |
 | [French](#french-français) | 2 | 67 | 43 | 2522 | 282 | 230 | 649 | 126 |
-| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | 13 | ✔️ | ✔️ | ✔️ | ✔️ |
+| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Hungarian](#non-curated-languages) | 56 | 138 | 43 | 3377 | 283 | 230 | 974 | 148 |
 | [Indonesian](#indonesian-indonesia) | 916 | 2004 | 635 | 4343 | 286 | 235 | 971 | 148 |
-| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | 13 | ✔️ | ✔️ | ✔️ | ✔️ |
+| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 35 | ✔️ |
 | [Korean](#koreana-한국어) | ✔️ | ✔️ | ✔️ | 57 | ✔️ | ✔️ | 5 | 29 |
 | [Norwegian Bokmål](#non-curated-languages) | 74 | 708 | 48 | 4082 | 283 | 230 | 709 | 148 |
@@ -541,9 +541,7 @@
 
 </summary>
 
-### Strings
-
-- [reactivedrop_german.txt](resource/reactivedrop_german.txt) has 13 untranslated strings.
+✓ Up to date!
 
 </details>
 
@@ -739,9 +737,7 @@
 
 </summary>
 
-### Strings
-
-- [reactivedrop_italian.txt](resource/reactivedrop_italian.txt) has 13 untranslated strings.
+✓ Up to date!
 
 </details>
 
