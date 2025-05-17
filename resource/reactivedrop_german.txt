@@ -10795,7 +10795,7 @@
 "[english]challenge_traitors_role_name_boomer"		"Suicide Boomer"
 "challenge_traitors_role_name_boomer"		"Selbstmord-Bomber"
 "[english]challenge_traitors_role_chat_role_description_boomer"		"You can perform a suicide attack. Detonates an area bomb (with or without alarm) after several seconds delay. Type \"/\" in chat to ACTIVATE the bomb."
-"challenge_traitors_role_chat_role_description_boomer"		"Du kannst einen Selbstmordanschlag durchführen. Sprengt eine Flächenbombe (mit oder ohne Alarm) nach Sekunden Verzögerung. Tippe im Chat \"/\" ein, um die Bombe zu AKTIVIEREN."
+"challenge_traitors_role_chat_role_description_boomer"		"Du kannst einen Selbstmordanschlag durchführen. Sprengt eine Flächenbombe (mit oder ohne Alarm) nach mehreren Sekunden Verzögerung. Tippe im Chat \"/\" ein, um die Bombe zu AKTIVIEREN."
 "[english]challenge_traitors_role_chat_skill_description_boomer"		""
 "challenge_traitors_role_chat_skill_description_boomer"		""
 "[english]challenge_traitors_role_hud_role_description_boomer"		"Type \"/\" in chat to ACTIVATE the bomb."
