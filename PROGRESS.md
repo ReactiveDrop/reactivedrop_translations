@@ -10,7 +10,7 @@
 | [French](#french-français) | 2 | 67 | 43 | 2522 | 282 | 230 | 649 | 126 |
 | [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Hungarian](#non-curated-languages) | 56 | 138 | 43 | 3377 | 283 | 230 | 974 | 148 |
-| [Indonesian](#indonesian-indonesia) | 916 | 2004 | 635 | 4343 | 286 | 235 | 971 | 148 |
+| [Indonesian](#indonesian-indonesia) | 814 | 2004 | 635 | 4343 | 286 | 235 | 971 | 148 |
 | [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 35 | ✔️ |
 | [Korean](#koreana-한국어) | ✔️ | ✔️ | ✔️ | 57 | ✔️ | ✔️ | 5 | 29 |
@@ -563,7 +563,7 @@
 - [misc/signage/signage_indonesian.vdf](misc/signage/signage_indonesian.vdf) has 69 untranslated strings.
 - [platform/servers/serverbrowser_indonesian.txt](platform/servers/serverbrowser_indonesian.txt) has 186 untranslated strings.
 - [platform/vgui_indonesian.txt](platform/vgui_indonesian.txt) has 184 untranslated strings.
-- [basemodui_indonesian.txt](resource/basemodui_indonesian.txt) has 916 untranslated strings.
+- [basemodui_indonesian.txt](resource/basemodui_indonesian.txt) has 814 untranslated strings.
 - [closecaption_indonesian.txt](resource/closecaption_indonesian.txt) has 2004 untranslated strings.
 - [gameui_indonesian.txt](resource/gameui_indonesian.txt) has 635 untranslated strings.
 - [reactivedrop_indonesian.txt](resource/reactivedrop_indonesian.txt) has 4343 untranslated strings.
