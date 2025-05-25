@@ -48,4 +48,4 @@
 [list]
 [*]增加 为 rd_hud_vscript 增加一个新方法：PaintPolygon(vertices, red, green, blue, alpha, texture)。 vertices 参数是列表数组，每个结构体包含 x、 y、 s 和 t 四个坐标。数组至少需要有3个顶点并且这些顶点需要按顺时针方向构成一个凸多边形。x 和 y 对应屏幕坐标。s 和 t 对应纹理坐标，范围是 0 到 1。
 [/list]
-</string><string id="subtitle"></string><string id="summary"></string><string id="title">《异形丛生: 虫启天降》更新 - 2024年1月1日</string></content>
+</string><string id="subtitle"></string><string id="summary"></string><string id="title">《异形丛生: 虫群再临》更新 - 2024年1月1日</string></content>

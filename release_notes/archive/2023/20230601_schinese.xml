@@ -46,7 +46,7 @@
 [*]增加 rd_reduce_motion将禁用简报镜头。如果你希望在别人不修改rd_reduce_motion的情况下使用此功能，你可以设置rd_disable_briefing_camera。
 [*]修复 第一人称中joy_pitchsensitivity和joy_yawsensitivity失效的问题。
 [*]修复 VScript/SourceMod菜单在任务重启后依然显示的问题。
-[*]增加 多个[url=https://store.steampowered.com/itemstore/563560/]向《异形丛生：虫启天降》游戏做出贡献的美工、程序员、服主和翻译捐赠[/url]的勋章。
+[*]增加 多个[url=https://store.steampowered.com/itemstore/563560/]向《异形丛生：虫群再临》游戏做出贡献的美工、程序员、服主和翻译捐赠[/url]的勋章。
 [/list]
 
 [h1]地图制作[/h1]
@@ -55,4 +55,4 @@
 [*]调整 rd_weapon_generic_object如今可以分配一个图标（详见 [url=https://steamcommunity.com/sharedfiles/filedetails/?id=914386392]Haikü's tutorial for how to make weapon icons[/url]）.
 [*]调整 rd_weapon_generic_object如今在Hammer中拥有ForcePickUp, ForceDrop输入以及OnPrimaryAttack, OnSecondaryAttack, OnReload, OnPickedUp 和 OnDropped outputs属性。.
 [/list]
-</string><string id="subtitle"></string><string id="summary"></string><string id="title">《异形丛生：虫启天降》更新 - 2023年6月1日</string></content>
+</string><string id="subtitle"></string><string id="summary"></string><string id="title">《异形丛生：虫群再临》更新 - 2023年6月1日</string></content>
