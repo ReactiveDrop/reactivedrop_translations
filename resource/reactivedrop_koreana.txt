@@ -10528,6 +10528,8 @@
 //----instruction------
 "[english]challenge_traitors_not_enough_players"		"You need at least 3 players to play."
 "challenge_traitors_not_enough_players"		"적어도 3명의 플레이어가 필요합니다."
+		"[english]challenge_traitors_game_instruction0"		"This is an AmongUs-like / Werewolf-like game mode. There will be Traitors (bad marines) who want to kill all IAF marines (good marines) and sabotage the mission. Roles are randomly choosen. There are some special roles which have powerful skills. It is recommended to have 5 or more players to unlock more special roles."
+		"challenge_traitors_game_instruction0"		"This is an AmongUs-like / Werewolf-like game mode. There will be Traitors (bad marines) who want to kill all IAF marines (good marines) and sabotage the mission. Roles are randomly choosen. There are some special roles which have powerful skills. It is recommended to have 5 or more players to unlock more special roles."
 "[english]challenge_traitors_game_instruction1"		"IAF team OBJECTIVE: [Complete the mission]"
 "challenge_traitors_game_instruction1"		"IAF 팀 목표: [임무 완수]"
 "[english]challenge_traitors_game_instruction2"		"TRAITOR team OBJECTIVE: [Kill IAF team] or [Mission Failed, but traitor alive]"
@@ -10541,10 +10543,8 @@
 "challenge_traitors_game_instruction5"		"--- 채팅 입력 시 주의하십시오. 당신의 메세지가 모두에게 보여질 수도 있습니다."
 "[english]challenge_traitors_game_instruction6"		"--- Traitor Team can send \"/gg\" to initiate a team surrender vote. YES votes > 2/3 means IAF Team wins."
 "challenge_traitors_game_instruction6"		"--- 배신자 팀은 채팅 메시지에 \"/gg\" 를 입력하여 항복 투표를 시작할 수 있습니다. 2/3의 인원이 승락하면 IAF 팀이 승리합니다."
-//It is intended to use 5ubscr1be  and w○rksh○p here to avoid Steam's checks on harmful texts or links. The checks targets all languages. 
-//Please be aware of the check while translating, otherwise you might make the add-on updates to be rejected by Steam since your translations are included in add-on vpk files.
-"[english]challenge_traitors_game_instruction7"		"--- If you can't see your skill menu after typing \"/\" in chat, please 5ubscr1be \"Traitors\" add-on in w○rksh○p"
-"challenge_traitors_game_instruction7"		"--- \"/\" 를 입력해도 스킬 메뉴가 보이지 않는다면 창작마당에서 \"Traitors\" 애드온을 구독하시길 바랍니다."
+		"[english]challenge_traitors_game_instruction7"		""
+		"challenge_traitors_game_instruction7"		""
 "[english]challenge_traitors_game_instruction8"		"--- You can use console command: bind \"o\" \"say /\" to fast open or close menu. Replace \"o\" with any key you like."
 "challenge_traitors_game_instruction8"		"--- 콘솔창에 bind \"o\" \"say /\" 를 입력하면 메뉴를 빠르게 열고 닫을 수 있습니다. \"o\" 는 자신이 원하는 키로 변경할 수 있습니다."
 
