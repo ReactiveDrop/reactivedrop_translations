@@ -1076,7 +1076,7 @@ func generateTranslationsAllNut() {
 		"vietnamese",
 	}
 
-	outFile, err := os.Create("../resource/traitors_challenge_translations_all.nut")
+	outFile, err := os.Create("../resource/challenge_traitors_translations_all.nut")
 	if err != nil {
 		panic(err)
 	}
