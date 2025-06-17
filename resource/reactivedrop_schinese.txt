@@ -10528,6 +10528,8 @@
 //----instruction------
 "[english]challenge_traitors_not_enough_players"		"You need at least 3 players to play."
 "challenge_traitors_not_enough_players"		"这个挑战至少需要三个人"
+"[english]challenge_traitors_game_instruction0"		"This is an AmongUs-like / Werewolf-like game mode. There will be Traitors (bad marines) who want to kill all IAF marines (good marines) and sabotage the mission. Roles are randomly choosen. There are some special roles which have powerful skills. It is recommended to have 5 or more players to unlock more special roles."
+"challenge_traitors_game_instruction0"		"这是一个类似《Among Us》或《狼人杀》的游戏模式。游戏中将存在内鬼（坏人），他们企图杀害所有IAF队员（好人）并破坏任务。角色随机分配，部分特殊角色拥有强力技能。推荐5人以上以解锁更多特殊角色！"
 "[english]challenge_traitors_game_instruction1"		"IAF team OBJECTIVE: [Complete the mission]"
 "challenge_traitors_game_instruction1"		"IAF队员获胜条件： [完成整个任务]"
 "[english]challenge_traitors_game_instruction2"		"TRAITOR team OBJECTIVE: [Kill IAF team] or [Mission Failed, but traitor alive]"
@@ -10541,10 +10543,8 @@
 "challenge_traitors_game_instruction5"		"--- 队内聊天时注意输入法状态，输错命令可是会自爆的。"
 "[english]challenge_traitors_game_instruction6"		"--- Traitor Team can send \"/gg\" to initiate a team surrender vote. YES votes > 2/3 means IAF Team wins."
 "challenge_traitors_game_instruction6"		"--- 内鬼可以发送 \"/gg\" 投降。超过 2/3 同意则IAF队员胜利。"
-//It is intended to use 5ubscr1be  and w○rksh○p here to avoid Steam's checks on harmful texts or links. The checks targets all languages. 
-//Please be aware of the check while translating, otherwise you might make the add-on updates to be rejected by Steam since your translations are included in add-on vpk files.
-"[english]challenge_traitors_game_instruction7"		"--- If you can't see your skill menu after typing \"/\" in chat, please 5ubscr1be \"Traitors\" add-on in w○rksh○p"
-"challenge_traitors_game_instruction7"		"--- 如果看不到特殊技能的界面，请到创工意坊钉月“有内鬼”木莫组"
+"[english]challenge_traitors_game_instruction7"		""
+"challenge_traitors_game_instruction7"		""
 "[english]challenge_traitors_game_instruction8"		"--- You can use console command: bind \"o\" \"say /\" to fast open or close menu. Replace \"o\" with any key you like."
 "challenge_traitors_game_instruction8"		"--- 可以通过控制台命令：bind \"o\" \"say /\" 来绑定o作为快速开关扫描界面的按键。可以将o替换成任意其它按键。"
 
