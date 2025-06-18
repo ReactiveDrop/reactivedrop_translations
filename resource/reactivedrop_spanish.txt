@@ -10528,6 +10528,8 @@
 //----instruction------
 "[english]challenge_traitors_not_enough_players"		"You need at least 3 players to play."
 "challenge_traitors_not_enough_players"		"Se necesitan al menos 3 jugadores para empezar."
+		"[english]challenge_traitors_game_instruction0"		"This is an AmongUs-like / Werewolf-like game mode. There will be Traitors (bad marines) who want to kill all IAF marines (good marines) and sabotage the mission. Roles are randomly choosen. There are some special roles which have powerful skills. It is recommended to have 5 or more players to unlock more special roles."
+		"challenge_traitors_game_instruction0"		"This is an AmongUs-like / Werewolf-like game mode. There will be Traitors (bad marines) who want to kill all IAF marines (good marines) and sabotage the mission. Roles are randomly choosen. There are some special roles which have powerful skills. It is recommended to have 5 or more players to unlock more special roles."
 "[english]challenge_traitors_game_instruction1"		"IAF team OBJECTIVE: [Complete the mission]"
 "challenge_traitors_game_instruction1"		"OBJETIVO de las IAF: [Completar la misión]"
 "[english]challenge_traitors_game_instruction2"		"TRAITOR team OBJECTIVE: [Kill IAF team] or [Mission Failed, but traitor alive]"
@@ -10541,10 +10543,8 @@
 "challenge_traitors_game_instruction5"		"--- No pierdas de vista tu estado IME o tu mensaje secreto se enviará a todos."
 "[english]challenge_traitors_game_instruction6"		"--- Traitor Team can send \"/gg\" to initiate a team surrender vote. YES votes > 2/3 means IAF Team wins."
 "challenge_traitors_game_instruction6"		"--- Los traidores pueden enviar \"/gg\" para iniciar una votación de rendición. Más de 2/3 de votos con SÍ dará la victoria a las IAF."
-		//It is intended to use 5ubscr1be  and w○rksh○p here to avoid Steam's checks on harmful texts or links. The checks targets all languages. 
-		//Please be aware of the check while translating, otherwise you might make the add-on updates to be rejected by Steam since your translations are included in add-on vpk files.
-		"[english]challenge_traitors_game_instruction7"		"--- If you can't see your skill menu after typing \"/\" in chat, please 5ubscr1be \"Traitors\" add-on in w○rksh○p"
-		"challenge_traitors_game_instruction7"		"Si no puedes ver dicho menú, 5u5críb3t3 a \"Traitors\" en W0rk5h0p"
+		"[english]challenge_traitors_game_instruction7"		""
+		"challenge_traitors_game_instruction7"		""
 		"[english]challenge_traitors_game_instruction8"		"--- You can use console command: bind \"o\" \"say /\" to fast open or close menu. Replace \"o\" with any key you like."
 		"challenge_traitors_game_instruction8"		"Puedes usar el comando: bind \"o\" \"say /\" para abrir y cerrar el menú rápidamente. Cambia \"o\" por la tecla que quieras."
 
