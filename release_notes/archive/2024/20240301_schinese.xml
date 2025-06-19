@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<content><string id="body">下个月（四月）是《异形丛生: 虫启天降》的七周年庆典。我们不打算在今年进行大规模更新，相反我们决定在新内容准备好后立即发布，而非等待到某个特定时间节点。三月更新（本次更新）带来了新菜单界面、修复了一些社区反馈的问题，以及更新了对地图作者不常用的 NPC 相关功能。
+<content><string id="body">下个月（四月）是《异形丛生: 虫群再临》的七周年庆典。我们不打算在今年进行大规模更新，相反我们决定在新内容准备好后立即发布，而非等待到某个特定时间节点。三月更新（本次更新）带来了新菜单界面、修复了一些社区反馈的问题，以及更新了对地图作者不常用的 NPC 相关功能。
 
 [h2]反馈系统[/h2]
 [list]
@@ -46,4 +46,4 @@
 [*]修复 删除可能由 alt-tab 触发的服务器垃圾日志消息。
 [*]调整 观战玩家将不再启用延迟补偿。
 [/list]
-</string><string id="subtitle"></string><string id="summary"></string><string id="title">《异形丛生: 虫启天降》更新 - 2024年3月1日</string></content>
+</string><string id="subtitle"></string><string id="summary"></string><string id="title">《异形丛生: 虫群再临》更新 - 2024年3月1日</string></content>
