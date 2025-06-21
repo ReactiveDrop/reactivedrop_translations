@@ -6,23 +6,23 @@
 | [Czech](#czech-čeština) | 76 | 1810 | 43 | 4382 | 283 | 230 | 979 | 147 |
 | [Danish](#non-curated-languages) | 57 | 231 | 43 | 3909 | 283 | 230 | 709 | 148 |
 | [Dutch](#non-curated-languages) | 56 | 2004 | 43 | 3378 | 283 | 230 | 709 | 147 |
-| [Finnish](#non-curated-languages) | ✔️ | 2004 | 42 | 3239 | 212 | 170 | 640 | 146 |
+| [Finnish](#non-curated-languages) | ✔️ | 2004 | 42 | 3235 | 212 | 170 | 640 | 146 |
 | [French](#french-français) | 2 | 67 | 43 | 2523 | 282 | 230 | 649 | 126 |
-| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | 2 | ✔️ | ✔️ | ✔️ | ✔️ |
+| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Hungarian](#non-curated-languages) | 56 | 138 | 43 | 3378 | 283 | 230 | 974 | 148 |
 | [Indonesian](#indonesian-indonesia) | 814 | 2004 | 635 | 4344 | 286 | 235 | 971 | 148 |
 | [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | 2 | ✔️ | ✔️ | ✔️ | ✔️ |
-| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | 2 | ✔️ | ✔️ | 35 | ✔️ |
-| [Korean](#koreana-한국어) | ✔️ | ✔️ | ✔️ | 59 | ✔️ | ✔️ | 5 | 29 |
+| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 35 | ✔️ |
+| [Korean](#koreana-한국어) | ✔️ | ✔️ | ✔️ | 35 | ✔️ | ✔️ | 5 | 29 |
 | [Norwegian Bokmål](#non-curated-languages) | 74 | 708 | 48 | 4083 | 283 | 230 | 709 | 148 |
 | [Polish](#polish-polski) | 2 | 2004 | ✔️ | 3022 | 12 | 19 | 136 | 127 |
 | [European Portuguese](#portuguese-português-europeu) | 5 | 180 | 33 | 2468 | 263 | 51 | 635 | 143 |
 | [Brazilian Portuguese](#brazilian-português) | 1 | ✔️ | ✔️ | 993 | 25 | 22 | 3 | 4 |
 | [Romanian](#non-curated-languages) | 56 | 1996 | 49 | 4089 | 283 | 230 | 974 | 148 |
-| [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | 2 | ✔️ | ✔️ | ✔️ | ✔️ |
+| [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [European Spanish](#spanish-español-de-españa) | ✔️ | 2004 | ✔️ | 2020 | ✔️ | ✔️ | 2 | 126 |
 | [Latin American Spanish](#latam-español-latinoamericano) | 1 | 2004 | ✔️ | 4429 | 31 | 23 | 206 | 144 |
-| [Swedish](#swedish-svenska) | ✔️ | ✔️ | ✔️ | 77 | ✔️ | ✔️ | ✔️ | 71 |
+| [Swedish](#swedish-svenska) | ✔️ | ✔️ | ✔️ | 69 | ✔️ | ✔️ | ✔️ | 71 |
 | [Thai](#non-curated-languages) | 971 | 1993 | 51 | 4625 | 283 | 230 | 738 | 148 |
 | [Turkish](#non-curated-languages) | 56 | 137 | 43 | 3378 | 283 | 230 | 974 | 148 |
 | [Ukrainian](#ukrainian-українська) | 32 | 131 | 33 | 2944 | 283 | 230 | 934 | 148 |
@@ -541,9 +541,7 @@
 
 </summary>
 
-### Strings
-
-- [reactivedrop_german.txt](resource/reactivedrop_german.txt) has 2 untranslated strings.
+✓ Up to date!
 
 </details>
 
@@ -754,7 +752,6 @@
 ### Strings
 
 - [platform/vgui_japanese.txt](platform/vgui_japanese.txt) has 35 untranslated strings.
-- [reactivedrop_japanese.txt](resource/reactivedrop_japanese.txt) has 2 untranslated strings.
 
 </details>
 
@@ -767,7 +764,7 @@
 ### Strings
 
 - [platform/vgui_koreana.txt](platform/vgui_koreana.txt) has 5 untranslated strings.
-- [reactivedrop_koreana.txt](resource/reactivedrop_koreana.txt) has 59 untranslated strings.
+- [reactivedrop_koreana.txt](resource/reactivedrop_koreana.txt) has 35 untranslated strings.
 
 ### Mail and News
 
@@ -1171,9 +1168,7 @@
 
 </summary>
 
-### Strings
-
-- [reactivedrop_russian.txt](resource/reactivedrop_russian.txt) has 2 untranslated strings.
+✓ Up to date!
 
 </details>
 
@@ -1508,7 +1503,7 @@
 
 ### Strings
 
-- [reactivedrop_swedish.txt](resource/reactivedrop_swedish.txt) has 77 untranslated strings.
+- [reactivedrop_swedish.txt](resource/reactivedrop_swedish.txt) has 69 untranslated strings.
 
 ### Mail and News
 
