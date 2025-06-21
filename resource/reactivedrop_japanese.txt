@@ -10528,8 +10528,8 @@
 //----instruction------
 "[english]challenge_traitors_not_enough_players"		"You need at least 3 players to play."
 "challenge_traitors_not_enough_players"		"最低3人のプレイヤーが必要です。"
-		"[english]challenge_traitors_game_instruction0"		"This is an AmongUs-like / Werewolf-like game mode. There will be Traitors (bad marines) who want to kill all IAF marines (good marines) and sabotage the mission. Roles are randomly choosen. There are some special roles which have powerful skills. It is recommended to have 5 or more players to unlock more special roles."
-		"challenge_traitors_game_instruction0"		"This is an AmongUs-like / Werewolf-like game mode. There will be Traitors (bad marines) who want to kill all IAF marines (good marines) and sabotage the mission. Roles are randomly choosen. There are some special roles which have powerful skills. It is recommended to have 5 or more players to unlock more special roles."
+"[english]challenge_traitors_game_instruction0"		"This is an AmongUs-like / Werewolf-like game mode. There will be Traitors (bad marines) who want to kill all IAF marines (good marines) and sabotage the mission. Roles are randomly choosen. There are some special roles which have powerful skills. It is recommended to have 5 or more players to unlock more special roles."
+"challenge_traitors_game_instruction0"		"これはAmongUsや人狼ゲームのようなゲームモードです。IAF海兵隊(味方の隊員)の全滅とミッション失敗を狙う裏切者(敵対する隊員)が紛れ込んでいます。ロール(役割)はランダムに割り振られます。強力なスキルを持つ特別なロールもあります。特別なロールを登場させるためには5人以上でのプレイが推奨されます。"
 "[english]challenge_traitors_game_instruction1"		"IAF team OBJECTIVE: [Complete the mission]"
 "challenge_traitors_game_instruction1"		"IAFチームの目標: [ミッションを完了せよ]"
 "[english]challenge_traitors_game_instruction2"		"TRAITOR team OBJECTIVE: [Kill IAF team] or [Mission Failed, but traitor alive]"
@@ -10543,8 +10543,8 @@
 "challenge_traitors_game_instruction5"		"--- IME入力状態に注意してください。秘密の通信が見えてしまう可能性があります。"
 "[english]challenge_traitors_game_instruction6"		"--- Traitor Team can send \"/gg\" to initiate a team surrender vote. YES votes > 2/3 means IAF Team wins."
 "challenge_traitors_game_instruction6"		"--- 裏切者チームは「/gg」と発言することで降参投票を開始できます。2/3を上回る人数が同意すればIAFチームの勝利となります。"
-		"[english]challenge_traitors_game_instruction7"		""
-		"challenge_traitors_game_instruction7"		""
+"[english]challenge_traitors_game_instruction7"		""
+"challenge_traitors_game_instruction7"		""
 "[english]challenge_traitors_game_instruction8"		"--- You can use console command: bind \"o\" \"say /\" to fast open or close menu. Replace \"o\" with any key you like."
 "challenge_traitors_game_instruction8"		"--- コンソールコマンドを使用して「bind \"o\" \"say /\"」と登録すると、簡単にメニューを開閉できます。「o」の部分は好きなキーに変更してください。"
 
