@@ -47,4 +47,4 @@
 [*]修复 IAF冷冻型哨戒枪 和 IAF喷火型哨戒枪 忽略 PreventFiringUntil 函数的问题。
 [*]增加 对 传送门2 中 $localrefract 样式的支持。(例如 props_lab/glass_lightcover.mdl 中使用的那种).
 [*]修复 在某些情况下，从 SDK 打开游戏会删除库存的本地缓存的问题。
-[/list]</string><string id="subtitle"></string><string id="summary"></string><string id="title">《异形丛生: 虫启天降》更新 - 2024年7月1日</string></content>
+[/list]</string><string id="subtitle"></string><string id="summary"></string><string id="title">《异形丛生: 虫群再临》更新 - 2024年7月1日</string></content>

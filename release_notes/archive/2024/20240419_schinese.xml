@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<content><string id="body">今天是《异形丛生：虫启天降》在 Steam 上发布七周年庆典。庆典包含 [url=https://store.steampowered.com/news/app/563560/view/3267945303130139335]持续一周的双倍经验加成[/url]，第二届年度地图大赛以及放置在地图某处的生日蛋糕。
+<content><string id="body">今天是《异形丛生：虫群再临》在 Steam 上发布七周年庆典。庆典包含 [url=https://store.steampowered.com/news/app/563560/view/3267945303130139335]持续一周的双倍经验加成[/url]，第二届年度地图大赛以及放置在地图某处的生日蛋糕。
 
 [h2]2023年度回顾[/h2]
 
-自《异形丛生：虫启天降》六周年庆以来，游戏迎来了 [url=https://store.steampowered.com/news/app/563560/view/3690188204960315808]着色器改进[/url]、 [url=https://store.steampowered.com/news/app/563560/view/3881601883156993844]武器改进[/url]、 [url=https://store.steampowered.com/news/app/563560/view/3994197038602916434]包括悬赏任务在内的一系列《星际武装部队英雄榜》改进[/url], [url=https://store.steampowered.com/news/app/563560/view/3994197038602903068]延迟补偿改进[/url] 以及 [url=https://store.steampowered.com/news/app/563560/view/4160833394886167804]内置反馈系统[/url] 等等一系列重要更新。此外，还有前端时间退出的全新主界面！
+自《异形丛生：虫群再临》六周年庆以来，游戏迎来了 [url=https://store.steampowered.com/news/app/563560/view/3690188204960315808]着色器改进[/url]、 [url=https://store.steampowered.com/news/app/563560/view/3881601883156993844]武器改进[/url]、 [url=https://store.steampowered.com/news/app/563560/view/3994197038602916434]包括悬赏任务在内的一系列《星际武装部队英雄榜》改进[/url], [url=https://store.steampowered.com/news/app/563560/view/3994197038602903068]延迟补偿改进[/url] 以及 [url=https://store.steampowered.com/news/app/563560/view/4160833394886167804]内置反馈系统[/url] 等等一系列重要更新。此外，还有前端时间退出的全新主界面！
 
 2023年4月，我们开始记录士兵阵亡原因。于是，4-12月这段时间内，共计 12,734,965 名士兵在任务中阵亡。其中，共有 5,147,736 名士兵被爪虫利爪撕碎，这合理吗？这很合理。
 
@@ -18,7 +18,7 @@
 [*]共计 346,432 名士兵死于榴弹发射器。共计 962,861 名士兵被 [i]他们自己[/i] 发射的榴弹炸成渣渣。常规操作，不要惊讶。
 [/list]
 
-《异形丛生：虫启天降》，士兵的无畏牺牲使得我们获得了空前的战果。2023年里，玩家控制的士兵共计击杀了：
+《异形丛生：虫群再临》，士兵的无畏牺牲使得我们获得了空前的战果。2023年里，玩家控制的士兵共计击杀了：
 
 [list]
 [*]1,156,620,313 (你没看错，超过十亿) 只爪虫
@@ -92,4 +92,4 @@
 [*]修复 异形百科解锁消息显示乱码而不是异形名字的问题。
 [*]改进 玩家完成成就或其它任务获得勋章时，在聊天中显示对应提示消息。
 [/list]
-</string><string id="subtitle"></string><string id="summary"></string><string id="title">《异形丛生: 虫启天降》7周年庆</string></content>
+</string><string id="subtitle"></string><string id="summary"></string><string id="title">《异形丛生: 虫群再临》7周年庆</string></content>
