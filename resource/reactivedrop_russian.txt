@@ -10513,7 +10513,7 @@
 
 //These are challenge name and description in add-on info file and show up in challenge selection menu.
 "[english]challenge_traitors_name"		"Traitors!(Werewolf-like Mode)"
-"challenge_traitors_name"		"Предатели!(Режим Оборотня)"
+"challenge_traitors_name"		"Предатели!(Режим Мафии)"
 "[english]challenge_traitors_description"		"TRAITOR Team has to KILL IAF Team. While IAF Team has to COMPLETE the mission."
 "challenge_traitors_description"		"Команда ПРЕДАТЕЛЕЙ должна УБИТЬ команду МВС. В то время, как команда МВС должна ЗАВЕРШИТЬ миссию."
 
@@ -10529,8 +10529,8 @@
 //----instruction------
 "[english]challenge_traitors_not_enough_players"		"You need at least 3 players to play."
 "challenge_traitors_not_enough_players"		"Для игры необходимо не менее 3 игроков."
-		"[english]challenge_traitors_game_instruction0"		"This is an AmongUs-like / Werewolf-like game mode. There will be Traitors (bad marines) who want to kill all IAF marines (good marines) and sabotage the mission. Roles are randomly choosen. There are some special roles which have powerful skills. It is recommended to have 5 or more players to unlock more special roles."
-		"challenge_traitors_game_instruction0"		"This is an AmongUs-like / Werewolf-like game mode. There will be Traitors (bad marines) who want to kill all IAF marines (good marines) and sabotage the mission. Roles are randomly choosen. There are some special roles which have powerful skills. It is recommended to have 5 or more players to unlock more special roles."
+"[english]challenge_traitors_game_instruction0"		"This is an AmongUs-like / Werewolf-like game mode. There will be Traitors (bad marines) who want to kill all IAF marines (good marines) and sabotage the mission. Roles are randomly choosen. There are some special roles which have powerful skills. It is recommended to have 5 or more players to unlock more special roles."
+"challenge_traitors_game_instruction0"		"Это режим игры, похожий на Among Us / Мафию. Среди игроков будут Предатели (плохие), которые хотят убить всех МВС бойцов (хороших) и сорвать миссию. Роли распределяются случайным образом. Некоторые особые роли обладают мощными способностями. Рекомендуется играть впятером или больше, чтобы разблокировать дополнительные специальные роли."
 "[english]challenge_traitors_game_instruction1"		"IAF team OBJECTIVE: [Complete the mission]"
 "challenge_traitors_game_instruction1"		"ЦЕЛЬ команды МВС: [Завершить миссию]"
 "[english]challenge_traitors_game_instruction2"		"TRAITOR team OBJECTIVE: [Kill IAF team] or [Mission Failed, but traitor alive]"
@@ -10544,8 +10544,8 @@
 "challenge_traitors_game_instruction5"		"--- Следите за написанием сообщения перед отправкой, иначе о вашем секретном сообщении могут узнать все."
 "[english]challenge_traitors_game_instruction6"		"--- Traitor Team can send \"/gg\" to initiate a team surrender vote. YES votes > 2/3 means IAF Team wins."
 "challenge_traitors_game_instruction6"		"--- Команда предателей может отправить «gg» для начала голосования о сдаче команды. Голоса «ЗА» > 2/3 означают победу команды МВС."
-		"[english]challenge_traitors_game_instruction7"		""
-		"challenge_traitors_game_instruction7"		""
+"[english]challenge_traitors_game_instruction7"		""
+"challenge_traitors_game_instruction7"		""
 "[english]challenge_traitors_game_instruction8"		"--- You can use console command: bind \"o\" \"say /\" to fast open or close menu. Replace \"o\" with any key you like."
 "challenge_traitors_game_instruction8"		"Вы можете использовать консольную команду: bind \"o\" \"say /\" чтобы быстро открывать или закрывать меню. Замените \"o\" на любую удобную вам клавишу."
 
