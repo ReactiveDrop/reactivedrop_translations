@@ -983,6 +983,7 @@
 "asw_started_leader_vote"	"%s1 wants %s2 to be leader."
 "asw_trace_me_msg_to_self"	"You have suggested other players to trace your marine in game."
 "asw_trace_me_msg_to_others"	"%s1 has suggested you to trace his marine in game."
+"asw_trace_me_cooling_down"	"You can only suggest tracing yourself every 30 seconds."
 "asw_trace_marines_max_reached"	"You can only trace up to %s1 marines."
 "asw_time_left"	"Time left: %s1"
 "asw_mission_launch_in"	"Mission Launch in: %s1"
