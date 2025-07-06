@@ -1907,6 +1907,8 @@
 "asw_trace_me_msg_to_self"		"你建议其他玩家在游戏中跟随你的士兵。"
 "[english]asw_trace_me_msg_to_others"		"%s1 has suggested you to trace his marine in game."
 "asw_trace_me_msg_to_others"		"%s1 建议你在游戏中跟随他的士兵。"
+"[english]asw_trace_me_cooling_down"		"You can only suggest tracing yourself every 30 seconds."
+"asw_trace_me_cooling_down"		"每隔30s才能发送一次跟随建议。"
 "[english]asw_trace_marines_max_reached"		"You can only trace up to %s1 marines."
 "asw_trace_marines_max_reached"		"你最多能够设置 %s1 个跟随目标。"
 "[english]asw_time_left"		"Time left: %s1"
