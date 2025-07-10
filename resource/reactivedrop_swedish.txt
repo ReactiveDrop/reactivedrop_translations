@@ -1909,7 +1909,7 @@
 		"asw_trace_me_msg_to_others"		"%s1 has suggested you to trace his marine in game."
 		"[english]asw_trace_me_cooling_down"		"You can only suggest tracing yourself every 30 seconds."
 "asw_trace_me_cooling_down"		"Du kan bara föreslå att du följer dig själv var 30:e sekund."
-		"[english]asw_trace_marines_max_reached"		"You can only trace up to %s1 marines."
+"[english]asw_trace_marines_max_reached"		"You can only trace up to %s1 marines."
 "asw_trace_marines_max_reached"		"Du kan bara följa upp till %s1 marinsoldater."
 "[english]asw_time_left"		"Time left: %s1"
 "asw_time_left"		"Tid kvar: %s1"
