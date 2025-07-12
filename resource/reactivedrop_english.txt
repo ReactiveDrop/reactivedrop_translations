@@ -981,6 +981,7 @@
 "asw_you_voted_yes"	"You voted: YES"
 "asw_started_kick_vote"	"%s1 wants %s2 to be kicked."
 "asw_started_leader_vote"	"%s1 wants %s2 to be leader."
+"asw_trace_player_enable"	"Enable player tracing in game"
 "asw_trace_me_msg_to_self"	"You have suggested other players to trace your marine in game."
 "asw_trace_me_msg_to_others"	"%s1 has suggested you to trace his marine in game."
 "asw_trace_me_cooling_down"	"You can only suggest tracing yourself every 30 seconds."
