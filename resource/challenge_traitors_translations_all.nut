@@ -1370,7 +1370,7 @@ g_localizations <- {
 		challenge_traitors_no_winner = "Tutti i soldati sono morti... Non ci sono vincitori.",
 		challenge_traitors_traitor_surrender = "Più di 2/3 dei giocatori nella squadra dei TRADITORI accetta di arrendersi.",
 		challenge_traitors_not_enough_players = "Ti servono almeno 3 giocatori per giocare.",
-		challenge_traitors_game_instruction0 = "This is an AmongUs-like / Werewolf-like game mode. There will be Traitors (bad marines) who want to kill all IAF marines (good marines) and sabotage the mission. Roles are randomly choosen. There are some special roles which have powerful skills. It is recommended to have 5 or more players to unlock more special roles.",
+		challenge_traitors_game_instruction0 = "Questa è una modalità di gioco in stile AmongUs / Lupus. Ci sono dei traditori (soldati cattivi) che vogliono uccidere i soldati dell'IAF (soldati buoni) e sabotare la missione. I ruoli vengono distribuiti a caso. Esistono ruoli speciali con abilità potenti. Si consiglia di giocare in 5 o più giocatori per sbloccare più ruoli speciali.",
 		challenge_traitors_game_instruction1 = "OBIETTIVO squadra IAF: [Completa la missione]",
 		challenge_traitors_game_instruction2 = "OBIETTIVO squadra TRADITORI: [Uccidi la squadra IAF] o [Missione Fallita con traditori ancora in vita]",
 		challenge_traitors_game_instruction3 = "Prendendo il controllo del BOT TRADITORE in gioco, sei costretto ad unirti alla squadra dei TRADITORI. Come traditore, non si può tornare indietro.",
