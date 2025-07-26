@@ -17,4 +17,4 @@
 [*]增加 [b]32号事故：J5连接器[/b] 为下水道区域增加了一个梯子并移除了秒杀触发器，现在意外掉下去的士兵可以重新爬上来了。
 [*]增加 通用光照贴图着色器对 $parallaxmap 以及 $height_scale 的支持。这允许 $bumpmap 通过 Alpha 通道将材质“压入”表面中。相关示例请参阅 nature/snowwall006a.vmt。
 [*]调整 临时禁用纹理光照与Flesh着色器的交互，因为它会导致游戏崩溃。
-[/list]</string><string id="subtitle"></string><string id="summary"></string><string id="title">《异形丛生：虫启天降》更新 - 2023年9月1日</string></content>
+[/list]</string><string id="subtitle"></string><string id="summary"></string><string id="title">《异形丛生：虫群再临》更新 - 2023年9月1日</string></content>
