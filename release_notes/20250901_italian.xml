@@ -94,7 +94,7 @@ Questo assegna il tasto "o" per aprire/chiudere rapidamente il menu delle abilit
 [/list]
 [*]Corruttore[list]
 [*][b]Descrizione:[/b] Quando i Traditori sono nettamente in inferiorità numerica, puoi convertire un membro IAF in Traditore.
-[*][b]Nota:[/b] Possibile solo se (IAF Sopravvissuti / Traditori Sopravvissuti) > 2/3 dopo la conversione.
+[*][b]Nota:[/b] Possibile solo se (IAF Sopravvissuti / Traditori Sopravvissuti) &gt; 2/3 dopo la conversione.
 [/list]
 [*]Bombarolo Suicida[list]
 [*][b]Descrizione:[/b] Può innescare un attacco suicida; 5 secondi dopo l’attivazione, si detona causando danni ad area ai giocatori vicini.
@@ -111,13 +111,13 @@ Questo assegna il tasto "o" per aprire/chiudere rapidamente il menu delle abilit
 [*][b]Protezione Iniziale[/b] Per un breve periodo dopo l’inizio della partita, tutti i giocatori sono [b]immuni ai danni provenienti da altri giocatori[/b], così da avere tempo per sviluppare strategie. La durata della protezione varia a seconda della mappa.
 [*][b]Granate[/b] I tempi di innesco delle granate sono stati allungati per dare ai giocatori più tempo di reazione, evitando uccisioni di massa istantanee e preservando il cuore deduttivo della sfida.
 [*][b]Flashbang[/b] Le vecchie torce di segnalazione sono state sostituite con flashbang.[expand type=details][list]
-[*]Esplodono 2–4 secondi dopo il lancio.
+[*]Esplodono 2-4 secondi dopo il lancio.
 [*]A seconda dell’orientamento del volto, della distanza e degli ostacoli alla testa, causano diverse durate e intensità di cecità.
 [*]Mentre si è accecati, i danni delle armi da cecchino scendono a zero; i danni delle altre armi si riducono in base all’intensità della cecità.
 [/list][/expand]
 [*][b]Danni Legati al Terreno[/b] Riduce la dominanza delle posizioni sopraelevate e del cecchinaggio a lunga distanza per evitare soppressioni troppo potenti.[expand type=details][list]
-[*]Quando la differenza verticale con il bersaglio è < 200 unità e la distanza orizzontale < 1200 unità, i danni restano normali.
-[*]Quando la differenza verticale > 300 unità o la distanza orizzontale > 1600 unità, non vengono inflitti danni.
+[*]Quando la differenza verticale con il bersaglio è &lt; 200 unità e la distanza orizzontale &lt; 1200 unità, i danni restano normali.
+[*]Quando la differenza verticale &gt; 300 unità o la distanza orizzontale &gt; 1600 unità, non vengono inflitti danni.
 [*]In tutti gli altri casi, i danni calano gradualmente con l’aumento della distanza.
 [/list][/expand]
 [*][b]Atterramento Corpo a Corpo[/b] Gli attacchi corpo a corpo hanno una probabilità di atterrare un altro soldato.[expand type=details][list]
@@ -196,3 +196,4 @@ Per mantenere il bilanciamento, alcune combinazioni di armi non possono essere p
 <string id="summary"></string>
 <string id="title">Aggiornamento di AS:RD - 1 Settembre 2025 "Electrical Hum"</string>
 </content>
+
