@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<content>
+<string id="body">Special thanks to Dmitriy, Mithrand, jhheight, ustcywg, and Grimowy for the majority of the changes in this update.
+
+[h2]New Game Mode: "Traitors!"[/h2]
+
+(this section will be filled in when ustcywg is able to, hopefully later today. sorry I didn't arrange this sooner, translators! don't translate this line; it will not appear in the published news post.)
+
+[h2]Weapons[/h2]
+[list]
+[*][b]IAF HAS42 Devastator:[/b] Pressing secondary fire now enters "lock mode", turning the marine into a stationary turret. This increases fire rate and bullet penetration. Pressing secondary fire again, rolling, using movement-causing offhand items (like the jump jets), switching weapons, melee attacking, or being damaged will deactivate "lock mode".
+[*][b]IAF HAS42 Devastator:[/b] Slightly increased base damage so that both special weapons marines can kill drones on Brutal in one hit if all the pellets connect.
+[*][b]IAF HAS42 Devastator:[/b] Reduced marine run speed penalty while deployed from 70% to 90%. For comparison, the autogun has an 80% penalty, and the minigun has a 95% penalty. Run speed penalty while shooting remains 30%.
+[*][b]IAF Medical SMG:[/b] This gun is now more accurate while crouching.
+[*]Made the EC-02 Stun Grenades (currently in development) available to challenges.
+[*]Fixed several types of non-Vindicator grenades showing the Vindicator grenade particle effect.
+[/list]
+
+[h2]Aliens[/h2]
+[list]
+[*]Fixed several cases where Buzzers could get stuck inside the ground.
+[*]Buzzers now activate based on proximity rather than when they can be seen by the camera.
+[*]Increased Buzzer vision radius to 1024 units.
+[*]Improved Buzzers' responsiveness to mapper commands like "Spread then hibernate" (they now move to a random nearby position before waiting for the player) and "Move to nearest marine" (Buzzers now periodically update the position they are trying to move to; before, far-away Buzzers could end up going to somewhere the marines left a while ago).
+[*]Known issue: Buzzers with the "move to ignoring marines" mapper command may continue to ignore marines after reaching their target.
+[/list]
+
+[h2]Missions[/h2]
+[list]
+[*][b]Jacob's Rest: Cargo Elevator:[/b] Fixed a supply box near the first door potentially causing marines to get stuck.
+[*][b]Jacob's Rest: SynTek Residential:[/b] Removed an invisible wall near some biomass.
+[*][b]Jacob's Rest: Sewer Junction B5:[/b] Fixed some alien spawn locations being embedded in concrete.
+[*][b]Jacob's Rest: Sewer Junction B5:[/b] Fixed some buzzers spawning at the start of the mission rather than when they were intended to.
+[*][b]Tilarus-5: Midnight Port[/b] Fixed a hole in a wall visible with rotated camera.
+[*][b]Tears for Tarnor: (all missions):[/b] Fixed breakable boxes generating zero-charge combat flares.
+[*][b]Lana's Escape: Lana's Maintenance:[/b] Fixed the "press top-right button" hint showing after the button had already been pressed.
+[*][b]BioGen Corporation: Operation X5:[/b] Static sentry guns no longer deal friendly fire damage.
+[*][b]IAF Marine Academy:[/b] Fixed skybox being too low in the lava arena. (This was causing problems with grenade launcher aiming.)
+[*]Fixed alien and bot marine navigation issues across many missions.
+[/list]
+
+[h2]UI[/h2]
+[list]
+[*]Added a "Thanks!" emote. (cl_emote 14) For now, the icon is only in English, but it will be translated later.
+[*]Muting a player now also hides their minimap drawings.
+[*]Fixed main menu performance issues caused by Workshop download state updating too often.
+[/list]
+
+[h2]Mapping and Modding[/h2]
+[list]
+[*]asw_sniper_scope_radius is no longer cheat-protected. You can now make the Marksman Rifle scope hidden, or make it larger than your screen, if you so desire.
+[*]rd_server_marine_backpacks is no longer cheat-protected. rd_client_marine_backpacks is now -1 by default (use server setting). rd_client_marine_backpacks 0 will now disable weapons-on-back even if the server requests them.
+[*]asw_fix_cam is no longer cheat-protected. It can be used for freecam while spectating.
+[*]Added rd_devastator_bullet_spread_duck convar (cheat-protected) for use by challenges.
+[*]Added rd_botadd_sv console command for server operators.
+[*]Added support for the AlterDeathMessage VScript hook function.
+[*]Fixed memory leak in TraceLineTable VScript function.
+[*]Added TraceLineParams VScript function.
+[*]Added ForceSync() to VScript UI entities, which allows the client to discard its predicted state and go back to the last known server state even if the server has not sent an update yet. This is useful for client-side-only UI logic.
+[*]Video files in addons can now also be webm files. Previously, they could only be bik files.
+[/list]
+</string>
+<string id="subtitle">Traitors! Aliens! Weapons! Oh my!</string>
+<string id="summary"></string>
+<string id="title">AS:RD Update - September 1, 2025 "Electrical Hum"</string>
+</content>
