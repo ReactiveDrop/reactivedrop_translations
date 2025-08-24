@@ -55,7 +55,6 @@
 [*]Added rd_botadd_sv console command for server operators.
 [*]Added support for the AlterDeathMessage VScript hook function.
 [*]Fixed memory leak in TraceLineTable VScript function.
-[*]Added TraceLineParams VScript function.
 [*]Added ForceSync() to VScript UI entities, which allows the client to discard its predicted state and go back to the last known server state even if the server has not sent an update yet. This is useful for client-side-only UI logic.
 [*]Video files in addons can now also be webm files. Previously, they could only be bik files.
 [/list]
