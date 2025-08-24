@@ -94,7 +94,7 @@ This binds the "o" key to quickly open/close the skill menu. You may replace "o"
 [/list]
 [*]Suborner[list]
 [*][b]Description:[/b] When Traitors are heavily outnumbered, you can convert one IAF member into a Traitor.
-[*][b]Note:[/b] Only possible if (Surviving IAF / Surviving Traitors) > 2/3 after the conversion.
+[*][b]Note:[/b] Only possible if (Surviving IAF / Surviving Traitors) &gt; 2/3 after the conversion.
 [/list]
 [*]Suicide Boomer[list]
 [*][b]Description:[/b] Can initiate a suicide bomb attack; 5 seconds after activation, you detonate, causing area damage to nearby players.
@@ -111,13 +111,13 @@ This binds the "o" key to quickly open/close the skill menu. You may replace "o"
 [*][b]Starting Protection[/b] For a brief period after the game starts, all players are [b]immune to damage from other players[/b] to allow developing strategies. The protection duration varies by map.
 [*][b]Grenades[/b] Grenade fuse times are lengthened to give players more reaction time, preventing instant massive kills and preserving the deduction core of the challenge.
 [*][b]Flashbangs[/b] The original flares have been replaced with flashbangs.[expand type=details][list]
-[*]Detonate 2–4 seconds after being thrown.
+[*]Detonate 2-4 seconds after being thrown.
 [*]Depending on face orientation, distance, and head obstruction, they cause varying durations and intensities of blindness.
 [*]While blinded, damage form sniper weapons drops to zero; other weapon damage is reduced accroding to the blindness intensity.
 [/list][/expand]
 [*][b]Terrain-related Damage[/b] Reduces the dominance of high ground and long-distance sniping to avoid overpowered suppression.[expand type=details][list]
-[*]When target's vertical height difference < 200 units and horizontal distance < 1200 units, normal damage applies.
-[*]When target's vertical height difference > 300 units or horizontal distance > 1600 units, no damage is dealt.
+[*]When target's vertical height difference &lt; 200 units and horizontal distance &lt; 1200 units, normal damage applies.
+[*]When target's vertical height difference &gt; 300 units or horizontal distance &gt; 1600 units, no damage is dealt.
 [*]In all other cases, damage falls off gradually with increasing distance.
 [/list][/expand]
 [*][b]Melee Knockdown[/b] Melee attacks have a chance to knockdown another marine.[expand type=details][list]
