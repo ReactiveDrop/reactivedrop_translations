@@ -82,5 +82,6 @@
 "materials/swarm/decals/landingbay7decal.vmt"		"LANDING BAY\n7"
 "materials/swarm/decals/securitycheckdecal.vmt"		"SECURITY"
 "materials/swarm/decals/supplyroomdecal.vmt"		"SUPPLY ROOM"
+"materials/vgui/swarm/emotes/emotethanks.vmt"		"THANKS"
 }
 }

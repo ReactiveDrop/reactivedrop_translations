@@ -151,5 +151,7 @@
 "materials/swarm/decals/securitycheckdecal.vmt"		"SEGURIDAD"
 "[english]materials/swarm/decals/supplyroomdecal.vmt"		"SUPPLY ROOM"
 "materials/swarm/decals/supplyroomdecal.vmt"		"SALA DE SUMINISTROS"
+		"[english]materials/vgui/swarm/emotes/emotethanks.vmt"		"THANKS"
+		"materials/vgui/swarm/emotes/emotethanks.vmt"		"THANKS"
 }
 }
