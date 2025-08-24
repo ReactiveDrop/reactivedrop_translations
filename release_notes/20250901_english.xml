@@ -44,7 +44,7 @@ In this challenge, the [b]Traitor Team[/b] knows each other's identities, while 
 [h3]Surrender Mechanics[/h3]
 Traitors can send [b]/gg[/b] in chat to initiate a vote. If more than 2/3 of Traitor players agree within [b]20s[/b], the IAF Team is declared the winner. If the vote expires, the game continues.
 
-[h3]Chat & Commands[/h3][list]
+[h3]Chat &amp; Commands[/h3][list]
 [*]Typing `/` (slash) alone in chat opens/closes the skill menu.
 [*]Traitors can send messages starting with `/` to chat privately with their faction (visible only to Traitors).
 [*]Traitors sending `/gg` in chat can initiate a surrender vote.
@@ -55,7 +55,7 @@ In the console, enter:
 [code]bind "o" "say /"[/code]
 This binds the "o" key to quickly open/close the skill menu. You may replace "o" with any other key.
 
-[h3]Special Roles & Abilities[/h3]
+[h3]Special Roles &amp; Abilities[/h3]
 [b]IAF Team[/b][olist]
 [*]Alien Expert[list]
 [*][b]Description:[/b] Carries a Bio-Scanner that can scan nearby players and reveal their faction (Red: Traitor; Green: IAF).
