@@ -1,8 +1,8 @@
 # Overview
 | Language | basemodui | closecaption | gameui | reactivedrop | items | statsweb | Strings | Files |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 1 | 1 |
-| [Traditional Chinese](#tchinese-繁體中文) | ✔️ | ✔️ | ✔️ | 194 | ✔️ | ✔️ | 1 | 126 |
+| [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
+| [Traditional Chinese](#tchinese-繁體中文) | ✔️ | ✔️ | ✔️ | 89 | ✔️ | ✔️ | ✔️ | 125 |
 | [Czech](#czech-čeština) | 76 | 1810 | 43 | 4382 | 283 | 230 | 980 | 146 |
 | [Danish](#non-curated-languages) | 57 | 231 | 43 | 3909 | 283 | 230 | 710 | 147 |
 | [Dutch](#non-curated-languages) | 56 | 2004 | 43 | 3378 | 283 | 230 | 710 | 146 |
@@ -11,15 +11,15 @@
 | [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 1 | 1 |
 | [Hungarian](#non-curated-languages) | 56 | 138 | 43 | 3378 | 283 | 230 | 975 | 147 |
 | [Indonesian](#indonesian-indonesia) | 814 | 2004 | 635 | 4344 | 286 | 235 | 972 | 147 |
-| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 1 | 1 |
-| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 36 | 1 |
-| [Korean](#koreana-한국어) | ✔️ | ✔️ | ✔️ | 35 | ✔️ | ✔️ | 6 | 30 |
+| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
+| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 35 | ✔️ |
+| [Korean](#koreana-한국어) | ✔️ | ✔️ | ✔️ | 35 | ✔️ | ✔️ | ✔️ | 29 |
 | [Norwegian Bokmål](#non-curated-languages) | 74 | 708 | 48 | 4083 | 283 | 230 | 710 | 147 |
 | [Polish](#polish-polski) | 2 | 2004 | ✔️ | 3022 | 12 | 19 | 137 | 127 |
 | [European Portuguese](#portuguese-português-europeu) | 5 | 180 | 33 | 2468 | 263 | 51 | 636 | 142 |
 | [Brazilian Portuguese](#brazilian-português) | 1 | ✔️ | ✔️ | 993 | 25 | 22 | 4 | 3 |
 | [Romanian](#non-curated-languages) | 56 | 1996 | 49 | 4089 | 283 | 230 | 975 | 147 |
-| [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 1 | 1 |
+| [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 1 |
 | [European Spanish](#spanish-español-de-españa) | ✔️ | 2004 | ✔️ | 2020 | ✔️ | ✔️ | 3 | 125 |
 | [Latin American Spanish](#latam-español-latinoamericano) | 1 | 2004 | ✔️ | 4429 | 31 | 23 | 207 | 143 |
 | [Swedish](#swedish-svenska) | ✔️ | ✔️ | ✔️ | 69 | ✔️ | ✔️ | 1 | 72 |
@@ -41,13 +41,7 @@
 
 </summary>
 
-### Strings
-
-- [misc/signage/signage_schinese.vdf](misc/signage/signage_schinese.vdf) has 1 untranslated strings.
-
-### Upcoming Release Notes
-
-- [20250901_schinese.xml](release_notes/20250901_english.xml) is missing.
+✓ Up to date!
 
 </details>
 
@@ -59,12 +53,7 @@
 
 ### Strings
 
-- [misc/signage/signage_tchinese.vdf](misc/signage/signage_tchinese.vdf) has 1 untranslated strings.
-- [reactivedrop_tchinese.txt](resource/reactivedrop_tchinese.txt) has 194 untranslated strings.
-
-### Upcoming Release Notes
-
-- [20250901_tchinese.xml](release_notes/20250901_english.xml) is missing.
+- [reactivedrop_tchinese.txt](resource/reactivedrop_tchinese.txt) has 89 untranslated strings.
 
 ### Mail and News
 
@@ -751,13 +740,7 @@
 
 </summary>
 
-### Strings
-
-- [misc/signage/signage_italian.vdf](misc/signage/signage_italian.vdf) has 1 untranslated strings.
-
-### Upcoming Release Notes
-
-- [20250901_italian.xml](release_notes/20250901_english.xml) is missing.
+✓ Up to date!
 
 </details>
 
@@ -769,12 +752,7 @@
 
 ### Strings
 
-- [misc/signage/signage_japanese.vdf](misc/signage/signage_japanese.vdf) has 1 untranslated strings.
 - [platform/vgui_japanese.txt](platform/vgui_japanese.txt) has 35 untranslated strings.
-
-### Upcoming Release Notes
-
-- [20250901_japanese.xml](release_notes/20250901_english.xml) is missing.
 
 </details>
 
@@ -786,13 +764,7 @@
 
 ### Strings
 
-- [misc/signage/signage_koreana.vdf](misc/signage/signage_koreana.vdf) has 1 untranslated strings.
-- [platform/vgui_koreana.txt](platform/vgui_koreana.txt) has 5 untranslated strings.
 - [reactivedrop_koreana.txt](resource/reactivedrop_koreana.txt) has 35 untranslated strings.
-
-### Upcoming Release Notes
-
-- [20250901_koreana.xml](release_notes/20250901_english.xml) is missing.
 
 ### Mail and News
 
@@ -1194,10 +1166,6 @@
 ## russian (русский)
 
 </summary>
-
-### Strings
-
-- [misc/signage/signage_russian.vdf](misc/signage/signage_russian.vdf) has 1 untranslated strings.
 
 ### Upcoming Release Notes
 
