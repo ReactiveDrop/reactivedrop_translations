@@ -6275,10 +6275,10 @@
 "[english]asw_weapon_revive_tool_attributes"		""
 "asw_weapon_revive_tool_attributes"		""
 "[english]asw_weapon_stun_grenades"		"Stun Grenades"
-"asw_weapon_stun_grenades"		"기절 수류탄"
+"asw_weapon_stun_grenades"		"경직 수류탄"
 // EC = electric charge; also a reference to Amazon EC2, which stands for Elastic Compute Cloud, because these were originally part of the tech-only prototype rifle.
 "[english]asw_weaponl_stun_grenades"		"EC-02 Stun Grenades"
-"asw_weaponl_stun_grenades"		"EC-02 기절 수류탄"
+"asw_weaponl_stun_grenades"		"EC-02 경직 수류탄"
 // TODO
 "[english]asw_wdesc_stun_grenades"		""
 "asw_wdesc_stun_grenades"		""
