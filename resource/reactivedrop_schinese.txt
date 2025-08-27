@@ -10725,7 +10725,7 @@
 "[english]challenge_traitors_role_name_demo"		"Explosive Expert"
 "challenge_traitors_role_name_demo"		"爆破专家"
 "[english]challenge_traitors_role_chat_role_description_demo"		"You bring many explosives to support your team in killing aliens. You decide to trigger an area explosion upon death, trying to damage potential traitors nearby."
-"challenge_traitors_role_chat_role_description_demo"		"你携带了大量用于对抗异形的爆炸物。然而队友背叛了你。于是你在临死前引爆炸药，试图消灭周围的内鬼。希望这个举动不会误伤真正的队友。。"
+"challenge_traitors_role_chat_role_description_demo"		"你携带了大量用于对抗异形的爆炸物。然而队友背叛了你。于是你在临死前引爆炸药，试图消灭周围的内鬼。希望这个举动不会误伤真正的队友。"
 "[english]challenge_traitors_role_chat_skill_description_demo"		""
 "challenge_traitors_role_chat_skill_description_demo"		""
 "[english]challenge_traitors_role_hud_role_description_demo"		"You will explode when you die."
