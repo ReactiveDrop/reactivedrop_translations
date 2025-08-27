@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<content>
+<string id="body">Un ringraziamento speciale a Dmitriy, Mithrand, jhheight, 法克尤尔马泽尔 e Grimowy per la maggior parte dei cambiamenti in questo aggiornamento.
+
+[h2]Nuova Modalità di Gioco: "Traditori!"[/h2]
+
+Comandante,
+
+Come scudo umano, la IAF ha ottenuto grandi vittorie in innumerevoli battaglie contro lo sciame, ma ha anche subito perdite tremende. Ti ringraziamo sinceramente, insieme ai membri della tua squadra, per il contributo straordinario dato nella difesa contro la minaccia aliena in questo lungo periodo!
+
+Ora, la IAF si trova ad affrontare una crisi senza precedenti! Durante i numerosi scontri, gli alieni si sono evoluti silenziosamente: la loro Regina ha acquisito un’abilità speciale — il controllo mentale. In combattimento, ha infettato furtivamente le menti di alcuni soldati della IAF, trasformandoli in infiltrati che compromettono le squadre e sabotano le missioni. Questi soldati controllati non si distinguono in nulla dalle truppe normali, possono possedere abilità speciali e, durante una missione, potrebbero rivoltarsi per uccidere i propri compagni. Ti preghiamo di esercitare la massima cautela e vigilanza nelle tue operazioni!
+
+Naturalmente, abbiamo anche inviato esperti dotati di equipaggiamento professionale per assisterti. Proteggili bene: potrebbero rivelarsi decisivi nei momenti critici.
+
+Ti auguriamo ogni successo!
+
+Dr. Helvetica Scenario
+Dip. di Coerenza Ecologica
+Ufficio per il Mantenimento del Consenso
+
+[h3]Riguardo la Sfida [b]Traditori![/b][/h3]
+[b]Traditori![/b] è una modalità di gioco che combina PvE, PvP e elementi di deduzione in un format [b]stile Lupus in Tabula / AmongUs[/b]. I giocatori sono divisi in [b]Squadra IAF[/b] (fazione dei buoni) e la [b]Squadra dei Traditori[/b] (fazione dei cattivi). La suqdra IAF deve fare la guardia e difendersi dalle imboscate dei traditori e completare gli obiettivi di missione, mentre la squadra dei Traditori deve trovare il modo di impedire che l'IAF abbia successo.
+
+In questa sfida, la [b]Squadra Traditrice[/b] conosce l'identità l'uno dell'altro, mentre la [b]Squadra IAF[/b] non lo sa. La [b]Squadra Traditori[/b] deve sviluppare strategie (come l'assassinio, travestimento di identità o combattimento passivo) per ostacolare gli obiettivi della Squadra IAF. La [b]Squadra IAF[/b] deve osservare le parole e le azioni degli altri per individuare i traditori ed eliminarli, garantendo così il successo della missione. Entrambi i lati dispongono di vari ruoli speciali con potenti abilità. Inoltre, sono stati aggiustati diversi bilanciamenti a favore dei nuovi giocatori, per rendere le partite più tese ed emozionanti.
+
+[h3]Composizione della Squadra[/h3][list]
+[*]Sono necessari almeno [b]3 giocatori[/b] per avviare una partita.
+[*]I giocatori vengono assegnati casualmente alla [b]Squadra IAF[/b] o alla [b]Squadra dei Traditori[/b], e possono ricevere ruoli e abilità speciali per la propria fazione.
+[*]Quando un giocatore prende il controllo di un Bot Traditore, entra automaticamente nella Squadra dei Traditori e non può disertare.
+[/list]
+
+[h3]Condizioni di Vittoria[/h3][olist]
+[*]Condizioni di Vittoria della [b]Squadra IAF[/b][list]
+[*]Completare l’intera missione;
+[*]Oppure i Traditori si arrendono.
+[/list]
+[*]Condizioni di Vittoria della [b]Squadra dei Traditori[/b][list]
+[*]Eliminare tutti i membri della [b]Squadra IAF[/b];
+[*]Oppure la missione fallisce con almeno un Traditore sopravvissuto.
+[/list]
+[*]Se tutti i giocatori muoiono durante la missione, la partita è considerata un pareggio.
+[/olist]
+
+[h3]Meccaniche di Resa[/h3]
+I Traditori possono digitare [b]/gg[/b] in chat per avviare un voto. Se più di 2/3 dei giocatori Traditori sono d’accordo entro [b]20s[/b], viene dichiarata la vittoria della Squadra IAF. Se il voto scade, la partita prosegue.
+
+[h3]Chat &amp; Comandi[/h3][list]
+[*]Digitando / (slash) da solo in chat si apre/chiude il menu delle abilità.
+[*]I Traditori possono inviare messaggi che iniziano con / per comunicare privatamente con la propria fazione (visibili solo ai Traditori).
+[*]I Traditori digitando /gg in chat possono avviare una votazione per la resa.
+[/list]
+
+[h3]Tasti Rapidi[/h3]
+Nella console, inserire:
+[code]bind "o" "say /"[/code]
+Questo assegna il tasto "o" per aprire/chiudere rapidamente il menu delle abilità. È possibile sostituire "o" con un qualsiasi altro tasto.
+
+[h3]Ruoli Speciali &amp; Abilità[/h3]
+[b]Squadra IAF[/b][olist]
+[*]Esperto di Alieni[list]
+[*][b]Descrizione:[/b] Porta con sé un Bio-Scanner che può analizzare i giocatori vicini e rivelare la loro fazione (Rosso: Traditore; Verde: IAF).
+[*]La scansione ha un tempo di ricarica.
+[*]Per bilanciare il gioco, i primi bersagli della scansione vengono scelti casualmente; solo i bersagli entro una certa distanza possono essere scansionati.
+[/list]
+[*]Biochimico[list]
+[*][b]Descrizione:[/b] Possiede due agenti biochimici speciali.
+[*]Fiala Curativa: Fornisce salute nascosta al bersaglio (tranne a sé stesso), cura infezioni e spegne il fuoco.
+[*]Fiala Letale: Uccide istantaneamente qualsiasi bersaglio (può scegliere anche sé stesso come bersaglio).
+[/list]
+[*]Colonnello[list]
+[*][b]Descrizione:[/b] Agisce come comandante della squadra con salute nascosta aggiuntiva. Questa viene consumata immediatamente prima della morte del soldato per salvarlo, rendendolo più resistente.
+[/list]
+[*]Meccanico[list]
+[*][b]Descrizione:[/b] Possiede un Mech che riduce i danni subiti quando indossato.
+[*][b]Limitazione:[/b] Non può indossarlo lui stesso; può darlo a un compagno di squadra fidato.
+[/list]
+[*]Cecchino[list]
+[*][b]Descrizione:[/b] Eccelle nei colpi di precisione a lunga distanza. Alla morte, rilascia un colpo finale che uccide l’assassino, provocando un’uccisione reciproca.
+[/list]
+[*]Esperto di Esplosivi[list]
+[*][b]Descrizione:[/b] Porta esplosivi; alla morte, li detona infliggendo danni ad area ai soldati vicini.
+[*][b]Nota:[/b] Rischia di ferire i compagni. I danni dell’esplosione diminuiscono con la distanza; possono non essere letali se il bersaglio è lontano. Muri e ostacoli riducono notevolmente i danni.
+[/list]
+[*]Disertore[list]
+[*][b]Descrizione:[/b] In stato di quasi-morte, fugge dal campo di battaglia.
+[*]Ottiene 30 secondi di invulnerabilità (non può attaccare né essere attaccato da altri soldati) per scappare.
+[*]Dopo l’invulnerabilità, i suoi danni sono molto ridotti per 90 secondi, poi si ripristinano parzialmente ma mai al livello originale.
+[*][b]Nota:[/b] L’HUD può mostrare un giocatore come “Disertore nella Squadra IAF”, ma potrebbe essere un Traditore (un Disertore istigato da un Corruttore). Se usato con abilità, un Disertore diventa uno scudo umano di 30s e una variabile imprevedibile sul campo di battaglia.
+[/list][/olist]
+
+[b]Squadra dei Traditori[/b][olist]
+[*]Capo Traditore[list]
+[*][b]Descrizione:[/b] Simile al Colonnello, con salute nascosta aggiuntiva, che lo rende più resistente di un normale Traditore.
+[/list]
+[*]Corruttore[list]
+[*][b]Descrizione:[/b] Quando i Traditori sono nettamente in inferiorità numerica, puoi convertire un membro IAF in Traditore.
+[*][b]Nota:[/b] Possibile solo se (IAF Sopravvissuti / Traditori Sopravvissuti) &gt; 2/3 dopo la conversione.
+[/list]
+[*]Bombarolo Suicida[list]
+[*][b]Descrizione:[/b] Può innescare un attacco suicida; 5 secondi dopo l’attivazione, si detona causando danni ad area ai giocatori vicini.
+[*][b]Nota:[/b] Rischia di ferire i Traditori. I danni dell’esplosione diminuiscono con la distanza; possono non essere letali se lontani. Muri e ostacoli riducono notevolmente i danni.
+[/list]
+[*]Silenziatore[list]
+[*][b]Descrizione:[/b] Proietta un bio-campo unico che sopprime le abilità attive di un bersaglio, rendendole inutilizzabili.
+[/list]
+[*]Mimic[list]
+[*][b]Descrizione:[/b] Possiede un Mantello Olografico Quantico che fa sì che lo scanner dell’Esperto di Alieni ti identifichi come membro IAF.
+[/list][/olist]
+
+[h3]Importanti Aggiustamenti e Bilanciamento[/h3][olist]
+[*][b]Protezione Iniziale[/b] Per un breve periodo dopo l’inizio della partita, tutti i giocatori sono [b]immuni ai danni provenienti da altri giocatori[/b], così da avere tempo per sviluppare strategie. La durata della protezione varia a seconda della mappa.
+[*][b]Granate[/b] I tempi di innesco delle granate sono stati allungati per dare ai giocatori più tempo di reazione, evitando uccisioni di massa istantanee e preservando il cuore deduttivo della sfida.
+[*][b]Flashbang[/b] Le vecchie torce di segnalazione sono state sostituite con flashbang.[expand type=details][list]
+[*]Esplodono 2-4 secondi dopo il lancio.
+[*]A seconda dell’orientamento del volto, della distanza e degli ostacoli alla testa, causano diverse durate e intensità di cecità.
+[*]Mentre si è accecati, i danni delle armi da cecchino scendono a zero; i danni delle altre armi si riducono in base all’intensità della cecità.
+[/list][/expand]
+[*][b]Danni Legati al Terreno[/b] Riduce la dominanza delle posizioni sopraelevate e del cecchinaggio a lunga distanza per evitare soppressioni troppo potenti.[expand type=details][list]
+[*]Quando la differenza verticale con il bersaglio è &lt; 200 unità e la distanza orizzontale &lt; 1200 unità, i danni restano normali.
+[*]Quando la differenza verticale &gt; 300 unità o la distanza orizzontale &gt; 1600 unità, non vengono inflitti danni.
+[*]In tutti gli altri casi, i danni calano gradualmente con l’aumento della distanza.
+[/list][/expand]
+[*][b]Atterramento Corpo a Corpo[/b] Gli attacchi corpo a corpo hanno una probabilità di atterrare un altro soldato.[expand type=details][list]
+[*]Gli attacchi corpo a corpo possono far cadere l’avversario, aggiungendo casualità ed eccitazione al combattimento ravvicinato.
+[*]La probabilità di atterramento dipende dalla direzione: minore frontalmente, maggiore da dietro.
+[*]Indossare il Power Fist aumenta significativamente la probabilità di atterramento.
+[/list][/expand]
+[*][b]Bilanciamento dei Danni delle Armi[/b] Usando la mitragliatrice pesante 50CMG4-1 (.50) come riferimento, i danni delle altre armi sono stati riequilibrati considerando le differenze di gittata e dispersione dei proiettili.
+[*][b]Parametri Casuali[/b] Alcuni parametri cambiano casualmente ogni 20s per aumentare l’imprevedibilità generale.
+[/olist]
+
+[h3]Varie[/h3]
+[b]Notifica di Silenziamento[/b]
+Se un Silenziatore ti colpisce con successo, riceverai una notifica e non potrai usare le tue abilità.
+
+[b]Aggiornamenti Lista Traditori[/b]
+Se un membro IAF viene convertito da un Corruttore o qualcuno prende il controllo di un Bot Traditore, riceverai una notifica di aggiornamento. Puoi controllare la “Lista Traditori” nell’HUD per vedere i membri attuali.
+
+[b]Restrizioni alla Raccolta Armi[/b]
+Per mantenere il bilanciamento, alcune combinazioni di armi non possono essere portate contemporaneamente. Se raccogli un’arma in conflitto, il gioco scarterà automaticamente quella incompatibile.
+
+[h2]Armi[/h2]
+[list]
+[*][b]IAF HAS42 Devastator:[/b] Premendo il fuoco secondario ora si entra in “modalità torretta”, trasformando il soldato in una postazione fissa. Questo aumenta la cadenza di fuoco e la penetrazione dei proiettili. Premendo di nuovo il fuoco secondario, rotolando, usando oggetti secondari che causano movimento (come i jet pack), cambiando arma, attaccando in mischia o subendo danni si disattiva la modalità torretta.
+[*][b]IAF HAS42 Devastator:[/b] Leggero aumento del danno base così che entrambe le armi speciali dei soldati possano uccidere i droni in modalità Brutal con un solo colpo, se tutti i proiettili colpiscono.
+[*][b]IAF HAS42 Devastator:[/b] Penalità alla velocità di corsa ridotta dal 70% al 90% mentre è dispiegato. Per confronto: l’autogun ha penalità all’80%, la minigun al 95%. La penalità alla velocità mentre si spara resta al 30%.
+[*][b]SMG Medica IAF:[/b] Quest’arma è ora più precisa mentre si è accovacciati.
+[*]Le granate stordenti EC-02 (attualmente in sviluppo) sono disponibili a tutti i giocatori per test.
+[*]Corretto un bug per cui diversi tipi di granate non-Vindicator mostravano l’effetto particellare della granata Vindicator.
+[/list]
+
+[h2]Alieni[/h2]
+[list]
+[*]Corretti diversi casi in cui i Buzzer potevano rimanere bloccati nel terreno.
+[*]Ora i Buzzer si attivano in base alla prossimità invece che alla visibilità della telecamera.
+[*]Aumentato il raggio visivo dei Buzzer a 1024 unità.
+[*]Migliorata la reattività dei Buzzer ai comandi dei mapper come “Sparpagliati poi iberna” (ora si spostano in una posizione casuale vicina prima di aspettare) e “Muoviti verso il soldato più vicino” (ora aggiornano periodicamente la posizione da raggiungere; prima potevano inseguire una vecchia posizione dei soldati).
+[*]Problema noto: i Buzzer con il comando “move to ignoring marines” possono continuare a ignorare i soldati anche dopo aver raggiunto il bersaglio.
+[/list]
+
+[h2]Missioni[/h2]
+[list]
+[*][b]Jacob's Rest: Ascensore da Carico:[/b] Corretto un box di rifornimenti vicino alla prima porta che poteva bloccare i soldati.
+[*][b]Jacob's Rest: Zona Residenziale SynTek:[/b] Rimuro un muro invisibile vicino a delle biomasse.
+[*][b]Jacob's Rest: Snodo Fognario B5:[/b] Corrette alcune posizioni di spawn alieni che erano incastonate nel cemento.
+[*][b]Jacob's Rest: Snodo Fognario B5:[/b] Corretti dei Buzzer che apparivano all’inizio della missione invece che quando previsto.
+[*][b]Tilarus-5: Porto Midnight:[/b] Sistemato un buco in un muro visibile con la telecamera ruotata.
+[*][b]Lacrime per Tarnor (tutte le missioni):[/b] Corretto bug per cui le casse distruttibili generavano torce di segnalazione a carica zero.
+[*][b]Fuga di Lana: Manutenzione di Lana:[/b] Corretto il consiglio “premi il tasto in alto a destra” che appariva anche dopo aver già premuto il pulsante.
+[*][b]BioGen Corporation: Operazione X5:[/b] Le torrette statiche non infliggono più fuoco amico.
+[*][b]Accademia Militare IAF:[/b] Corretta la skybox troppo bassa nell’arena di lava (creava problemi al mirino del lanciagranate).
+[*]Corrette varie problematiche di navigazione di alieni e soldati-bot in molte missioni.
+[/list]
+
+[h2]Interfaccia Utente[/h2]
+[list]
+[*]Aggiunta un’emote “Grazie!” (cl_emote 14). Per ora l’icona è solo in inglese, ma verrà tradotta in seguito.
+[*]Silenziare un giocatore ora nasconde anche i suoi disegni sulla minimappa.
+[*]Corretti i problemi di performance del menu principale causati dallo stato dei download dal Workshop aggiornato troppo spesso.
+[/list]
+
+[h2]Mapping e Modding[/h2]
+[list]
+[*]asw_sniper_scope_radius non è più protetto da cheat. Ora è possibile rendere invisibile il mirino del Fucile di Precisione, o renderlo più grande dello schermo.
+[*]rd_server_marine_backpacks non è più protetto da cheat. rd_client_marine_backpacks è ora -1 di default (usa il settaggio del server). Con rd_client_marine_backpacks 0 si disabilitano le armi sulla schiena anche se richieste dal server.
+[*]asw_fix_cam non è più protetto da cheat. Può essere usato come freecam durante lo spettatore.
+[*]Aggiunto il convar rd_devastator_bullet_spread_duck (protetto da cheat) per le sfide.
+[*]Aggiunto il comando console rd_botadd_sv per gli operatori di server.
+[*]Aggiato supporto per la funzione hook AlterDeathMessage in VScript.
+[*]Corretta perdita di memoria nella funzione TraceLineTable in VScript.
+[*]Aggiunta ForceSync() alle entità UI di VScript, che permette al client di scartare lo stato predetto e tornare all’ultimo stato noto dal server anche se non è arrivato un aggiornamento. Utile per la logica UI solo lato client.
+[*]I file video negli addon possono ora essere anche in formato webm. Prima erano solo .bik.
+[/list]
+</string>
+<string id="subtitle">Traditori! Alieni! Armi! Oddio!</string>
+<string id="summary"></string>
+<string id="title">Aggiornamento di AS:RD - 1 Settembre 2025 "Electrical Hum"</string>
+</content>
+
