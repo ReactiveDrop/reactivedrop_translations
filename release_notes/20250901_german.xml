@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<content>
+<string id="body">Besonderen Dank an Dmitriy, Mithrand, jhheight, 法克尤尔马泽尔 und Grimowy für den Großteil der Änderungen in diesem Update.
+
+[h2]Neuer Spielmodus: "Verräter!"[/h2]
+
+Kommandant,
+
+Als menschlicher Schutzschild hat die IAF in unzähligen Schlachten gegen den Schwarm große Siege errungen, aber auch enorme Verluste erlitten. Wir danken Ihnen und Ihren Truppmitgliedern aufrichtig für Ihren herausragenden Beitrag zur Verteidigung gegen die außerirdische Bedrohung über diesen langen Zeitraum!
+
+Jetzt steht die IAF vor einer noch nie dagewesenen Krise! Während der vielen Konfrontationen haben sich die Außerirdischen in aller Stille weiterentwickelt: Ihre Königin hat eine besondere Fähigkeit erlangt - Gedankenkontrolle. Während der Kämpfe hat sie heimlich den Verstand einiger IAF-Soldaten infiziert und sie in Infiltratoren verwandelt, die die IAF-Trupps gefährden und Sabotagemissionen durchführen. Diese kontrollierten Soldaten unterscheiden sich äußerlich nicht von normalen Truppen, verfügen möglicherweise über besondere Fähigkeiten und können sich während eines Einsatzes erheben, um ihre Kameraden zu töten. Bitte seien Sie bei Ihren Einsätzen äußerst vorsichtig und wachsam!
+
+Natürlich haben wir auch Experten mit professioneller Ausrüstung entsandt, um Sie zu unterstützen. Schützen Sie sie gut - sie können sich in kritischen Momenten als entscheidend erweisen.
+
+Wir wünschen Ihnen alles Gute!
+
+Dr. Helvetica Scenario
+Abteilung Ökologische Konsistenz
+Büro für Konsenspflege
+
+[h3]Über die [b]Verräter![/b] Herausforderung[/h3]
+Die [b]Verräter![/b] Herausforderung ist ein Spielmodus, der PvE-, PvP- und Deduktionselemente in einem [b]Werwölfe / Among Us[/b] Stil. Die Spieler werden in das [b]IAF-Team[/b] (gute Fraktion) und das [b]Verräter-Team[/b] (böse Fraktion) aufgeteilt. Das IAF-Team muss sich vor Hinterhalten der Verräter schützen und die Einsatzziele erfüllen, während das Verräter-Team Wege finden muss, um den Erfolg der IAF zu verhindern.
+
+Bei dieser Herausforderung kennt das [b]Verräter-Team[/b] die Identität der anderen, während das [b]IAF-Team[/b] sie nicht kennt. Das [b]Verräter-Team[/b] muss Strategien entwickeln (z. B. Attentat, Identitätsverschleierung oder passiver Kampf), um die Ziele des IAF-Teams zu vereiteln. Das [b]IAF-Team[/b] muss die Worte und Handlungen der anderen beobachten, um Verräter zu finden und zu eliminieren und so den Erfolg des Einsatzes sicherzustellen. Beide Seiten haben verschiedene Spezialrollen mit mächtigen Fähigkeiten. Außerdem wurden mehrere Balance-Anpassungen zugunsten von Neulingen vorgenommen, um die Kämpfe spannender und aufregender zu gestalten.
+
+[h3]Zusammensetzung des Teams[/h3][list]
+[*]Mindestens [b]3 Spieler[/b] sind erforderlich, um ein Spiel zu beginnen.
+[*]Die Spieler werden nach dem Zufallsprinzip dem [b]IAF-Team[/b] oder dem [b]Verräter-Team[/b] zugewiesen und können spezielle Rollen und Fähigkeiten für ihre Fraktion erhalten.
+[*]Wenn ein Spieler einen Verräter-Bot übernimmt, tritt er automatisch dem Verräter-Team bei und kann nicht überlaufen.
+[/list]
+
+[h3]Bedingungen für den Sieg[/h3][olist]
+[*][b]IAF-Team[/b] Siegbedingungen[list]
+[*]Schließe den gesamten Einsatz ab;
+[*]Oder die Verräter geben auf.
+[/list]
+[*][b]Verräter-Team[/b] Siegbedingungen[list]
+[*]Eliminiere alle Mitglieder des [b]IAF-Teams[/b];
+[*]Oder der Einsatz scheitert, und mindestens ein Verräter überlebt.
+[/list]
+[*]Wenn alle Spieler während des Einsatzes sterben, ist das Spiel unentschieden.
+[/olist]
+
+[h3]Aufgabe-Mechaniken[/h3]
+Verräter können [b]/gg[/b] im Chat senden, um eine Abstimmung zu initiieren. Wenn mehr als 2/3 der Verräter-Spieler innerhalb von [b]20s[/b] zustimmen, wird das IAF-Team zum Sieger erklärt. Wenn die Abstimmung abläuft, wird das Spiel fortgesetzt.
+
+[h3]Chat &amp; Konsolenbefehle[/h3][list]
+[*]Die Eingabe von `/` (Schrägstrich) allein im Chat öffnet/schließt das Fertigkeitenmenü.
+[*]Verräter können Nachrichten senden, die mit `/` beginnen, um privat mit ihrer Fraktion zu chatten (nur für Verräter sichtbar).
+[*]Verräter, die im Chat `/gg` senden, können eine Kapitulationsabstimmung einleiten.
+[/list]
+
+[h3]Tastenkombinationen[/h3]
+Gib in der Konsole ein:
+[code]bind "o" "say /"[/code]
+Dies bindet die Taste "o" zum schnellen Öffnen/Schließen des Fertigkeitsmenüs. Du kannst "o" auch durch jede andere Taste ersetzen.
+
+[h3]Besondere Rollen &amp; Fähigkeiten[/h3]
+[b]IAF-Team[/b][olist]
+[*]Alien-Experte[list]
+[*][b]Beschreibung:[/b] Trägt einen Bio-Scanner bei sich, der Spieler in der Nähe scannen und ihre Fraktion anzeigen kann (Rot: Verräter; Grün: IAF).
+[*]Scannen hat eine Abklingzeit.
+[*]Aus Gründen der Spielbalance werden die ersten Scan-Ziele zufällig ausgewählt; es können nur Ziele innerhalb eines bestimmten Bereichs gescannt werden.
+[/list]
+[*]Biochemiker[list]
+[*][b]Beschreibung:[/b] Besitzt zwei besondere biochemische Wirkstoffe.
+[*]Wirkstoff der Heilung: Verleiht dem Ziel (außer sich selbst) verborgene Gesundheit, heilt Infektionen und löscht Feuer.
+[*]Wirkstoff des Todes: Tötet jedes Ziel sofort (Du kannst dich auch selbst als Ziel auswählen).
+[/list]
+[*]Oberst[list]
+[*][b]Beschreibung:[/b] Truppführer mit zusätzlicher versteckter Gesundheit. Versteckte Gesundheit wird verbraucht, kurz bevor der Soldat stirbt.
+[/list]
+[*]Mechaniker[list]
+[*][b]Beschreibung:[/b] Besitzt einen Mecha, der, wenn er getragen wird, eingehenden Schaden reduzieren kann.
+[*][b]Limitation:[/b] Du kannst ihn nicht selbst tragen, aber du kannst ihn einem vertrauenswürdigen Teamkollegen geben.
+[/list]
+[*]Scharfschütze[list]
+[*][b]Beschreibung:[/b] Hervorragend geeignet für Präzisionsschüsse aus großer Entfernung. Wenn du getötet wirst, zündest du eine letzte Kugel, die deinen Mörder tötet, was zu einem gegenseitigen Tod führt.
+[/list]
+[*]Explosive Expert[list]
+[*][b]Beschreibung:[/b] Trägt Sprengstoff bei sich; bei seinem Tod detoniert der Sprengstoff und fügt den Soldaten in der Nähe Flächenschaden zu.
+[*][b]Notiz:[/b] Es besteht die Gefahr, Teamkameraden zu verletzen. Der Explosionsschaden nimmt mit der Entfernung ab und ist möglicherweise nicht tödlich, wenn er weit genug entfernt ist. Wände und Hindernisse verringern den Schaden erheblich.
+[/list]
+[*]Deserteur[list]
+[*][b]Beschreibung:[/b] Im Zustand des nahen Todes fliehst du vom Schlachtfeld.
+[*]Erhalte 30 Sekunden Unverwundbarkeit (kann weder angreifen noch von anderen Soldaten angegriffen werden), um zu entkommen.
+[*]Nach der Unverwundbarkeit wird dein Schaden für 90 Sekunden stark reduziert, erholt sich dann teilweise, erreicht aber nie wieder das ursprüngliche Niveau.
+[*][b]Notiz:[/b] Das HUD kann einen Spieler als "Deserteur im IAF-Team" anzeigen, aber er könnte auch ein Verräter sein (ein Deserteur, der von einem Anstifter unterstützt wird). Wenn er geschickt eingesetzt wird, wird ein Deserteur zu einem menschlichen Schild für 30 Sekunden und zu einem Joker auf dem Schlachtfeld.
+[/list][/olist]
+
+[b]Verräter-Team[/b][olist]
+[*]Traitor Leader[list]
+[*][b]Beschreibung:[/b] Ähnlich wie der Oberst, mit zusätzlichen versteckten Lebenspunkten, die dich widerstandsfähiger machen als einen normalen Verräter.
+[/list]
+[*]Anstifter[list]
+[*][b]Beschreibung:[/b] Wenn die Verräter zahlenmäßig stark unterlegen sind, kannst du ein IAF-Mitglied in einen Verräter umwandeln.
+[*][b]Notiz:[/b] Nur möglich, wenn (Überlebende IAF / Überlebende Verräter) &gt; 2/3 nach der Umwandlung.
+[/list]
+[*]Selbstmord-Bomber[list]
+[*][b]Beschreibung:[/b] Kann einen Selbstmordbombenangriff auslösen; 5 Sekunden nach der Aktivierung detonierst du und verursachst Flächenschaden bei Spielern in der Nähe.
+[*][b]Notiz:[/b] Es besteht die Gefahr, Verräter zu verletzen. Der Explosionsschaden nimmt mit der Entfernung ab und ist möglicherweise nicht tödlich, wenn er weit genug entfernt ist. Wände und Hindernisse verringern den Schaden erheblich.
+[/list]
+[*]Unterdrücker[list]
+[*][b]Beschreibung:[/b] Projiziert ein einzigartiges Bio-Kraftfeld, das die aktiven Fähigkeiten des Ziels unterdrückt und sie unbrauchbar macht.
+[/list]
+[*]Mimik[list]
+[*][b]Beschreibung:[/b] Verfügt über eine quantenholografische Tarnung, die den Scanner des Alien-Experten veranlasst, dich als IAF-Mitglied zu identifizieren.
+[/list][/olist]
+
+[h3]Wichtige Balance-Anpassungen[/h3][olist]
+[*][b]Startschutz[/b] Für einen kurzen Zeitraum nach Spielbeginn sind alle Spieler [b]immun gegen Schaden durch andere Spieler[/b], um die Entwicklung von Strategien zu ermöglichen. Die Dauer des Schutzes variiert je nach Karte.
+[*][b]Granaten[/b] Die Zündzeiten für Granaten wurden verlängert, um den Spielern mehr Reaktionszeit zu geben, um sofortige Massentötungen zu verhindern und den deduktiven Kern der Herausforderung zu erhalten.
+[*][b]Blendgranaten[/b] Die ursprünglichen Fackeln wurden durch Blendgranaten ersetzt.[expand type=details][list]
+[*]Detonation 2-4 Sekunden nach dem Wurf.
+[*]Je nach Ausrichtung, Entfernung und Verdeckung des Kopfes führen sie zu unterschiedlich langer und intensiver Erblindung.
+[*]Während sie geblendet sind, sinkt der Schaden von Scharfschützenwaffen auf Null; der Schaden anderer Waffen wird entsprechend der Intensität der Blindheit reduziert.
+[/list][/expand]
+[*][b]Terrainbedingter Schaden[/b] Verringert die Dominanz aus erhöhter Position und des Scharfschießens auf weite Entfernungen, um eine übermächtige Unterdrückung zu vermeiden.[expand type=details][list]
+[*]Wenn die vertikale Höhendifferenz des Ziels &lt; 200 Einheiten und die horizontale Entfernung &lt; 1200 Einheiten beträgt, gilt der normale Schaden.
+[*]Wenn die vertikale Höhendifferenz des Ziels &gt; 300 Einheiten oder die horizontale Entfernung &gt; 1600 Einheiten beträgt, wird kein Schaden verursacht.
+[*]In allen anderen Fällen nimmt der Schaden mit zunehmender Entfernung ab.
+[/list][/expand]
+[*][b]Nahkampf-Knockdown[/b] Nahkampfangriffe haben eine Chance, einen anderen Soldaten zu Boden zu werfen.[expand type=details][list]
+[*]Bei Nahkampfangriffen besteht die Chance, den Gegner niederzuschlagen, was den Nahkampf zufälliger und spannender macht.
+[*]Die Trefferchance für einen erfolgreichen Knockdown hängt von der Blickrichtung des Ziels ab: von vorne niedriger, von hinten höher.
+[*]Das Tragen der Kraftfaust erhöht die Niederschlagschance erheblich.
+[/list][/expand]
+[*][b]Balance des Waffenschadens[/b] Ausgehend von der 50CMG4-1 (schweres Maschinengewehr, Kaliber 50) wurden der Schaden der anderen Waffen unter Berücksichtigung der Unterschiede in der Reichweite und der Geschossverteilung angepasst.
+[*][b]Randomisierung der Parameter[/b] Bestimmte Parameter ändern sich alle 20 Sekunden nach dem Zufallsprinzip, um die Unvorhersehbarkeit zu erhöhen.
+[/olist]
+
+[h3]Sonstiges[/h3]
+[b]Benachrichtigung bei Unterdrückung[/b]
+Wenn ein Unterdrücker dich erfolgreich anvisiert, erhältst du eine Benachrichtigung und kannst deine Fähigkeiten nicht mehr einsetzen.
+
+[b]Aktualisierungen der Verräterliste[/b]
+Wenn ein IAF-Mitglied erfolgreich von einem Anstifter umgewandelt wird oder jemand einen Verräter-Bot übernimmt, erhältst du eine Update-Benachrichtigung. Du kannst die "Verräterliste" auf deinem HUD überprüfen, um die aktuellen Verräter-Mitglieder zu bestätigen.
+
+[b]Beschränkungen bei der Waffenabholung[/b]
+Um die Spielbalance zu wahren, können bestimmte Waffenkombinationen nicht gleichzeitig getragen werden. Wenn du eine kollidierende Waffe aufnimmst, lässt das Spiel die kollidierende Waffe automatisch fallen.
+
+[h2]Waffen[/h2]
+[list]
+[*][b]IAF HAS42 Devastator:[/b] Durch Drücken der Taste für Sekundärfeuer wird der Soldat nun in einen stationären Geschützturm verwandelt und in den "Sperrmodus" versetzt. Dies erhöht die Feuerrate und die Durchschlagskraft der Geschosse. Erneutes Drücken von Sekundärfeuer, abrollen, die Verwendung von bewegungsauslösenden Gegenständen (z. B. Raketenrucksack), Waffenwechsel, Nahkampfangriffe oder Schaden deaktivieren den "Sperrmodus".
+[*][b]IAF HAS42 Devastator:[/b] Der Grundschaden wurde leicht erhöht, so dass beide Waffenspezialist Drohnen auf Brutal mit einem Treffer töten können, wenn alle Kugeln treffen.
+[*][b]IAF HAS42 Devastator:[/b] Der Abzug für die Laufgeschwindigkeit von Soldaten während des Tragens wurde von 70% auf 90% verringert. Zum Vergleich: Die Autogun hat einen Malus von 80% und die Minigun einen Malus von 95%. Der Geschwindigkeitsnachteil während des Schießens bleibt bei 30%.
+[*][b]IAF Sanitäter SMG:[/b] Diese Waffe ist jetzt beim Knien genauer.
+[*]Die EC-02 Blendgranaten (derzeit in Entwicklung) wurden allen Spielern zu Testzwecken zur Verfügung gestellt.
+[*]Mehrere Typen von Nicht-Vindicator-Granaten, die den Partikeleffekt der Vindicator-Granate zeigten, wurden korrigiert.
+[/list]
+
+[h2]Aliens[/h2]
+[list]
+[*]Mehrere Fälle, in denen Schnarren im Boden stecken bleiben konnten, wurden behoben.
+[*]Schnarren werden nun in Abhängigkeit von der Nähe eines Spielers aktiviert und nicht mehr, wenn sie von der Kamera gesehen werden.
+[*]Der Schnarren-Sichtradius wurde auf 1024 Einheiten erhöht.
+[*]Verbesserte Reaktion der Schnarren auf Mapper-Befehle wie "Spread then hibernate" (sie bewegen sich jetzt zu einer zufälligen Position in der Nähe, bevor sie auf Spieler warten) und "Move to nearest marine" (Schnarren aktualisieren jetzt regelmäßig die Position, zu der sie sich zu bewegen versuchen; zuvor konnten weit entfernte Schnarren an einer Stelle landen, die die Soldaten vor einer Weile verlassen haben).
+[*]Bekanntes Problem: Schnarren mit dem Mapper-Befehl "Move to ignoring marines" ignorieren möglicherweise weiterhin Soldaten, nachdem sie ihr Ziel erreicht haben.
+[/list]
+
+[h2]Einsätze[/h2]
+[list]
+[*][b]Jakobsruhe: Lastenaufzug:[/b] Eine Vorratskiste in der Nähe der ersten Tür, in der Soldaten stecken bleiben konnten, wurde behoben.
+[*][b]Jakobsruhe: SynTek Wohnareal:[/b] Eine unsichtbare Wand in der Nähe von Biomasse wurde entfernt.
+[*][b]Jakobsruhe: Abwasseranlage B5:[/b] Einige Alien-Spawn-Positionen waren in Beton eingebettet.
+[*][b]Jakobsruhe: Abwasseranlage B5:[/b] Es wurden einige Schnarren behoben, die zu Beginn des Einsatzes spawnen und nicht wie vorgesehen erst später.
+[*][b]Tilarus-5: Mitternachtshafen[/b] Ein Loch in einer Wand, das bei gedrehter Kamera sichtbar war, wurde behoben.
+[*][b]Tränen für Tarnor: (alle Einsätze):[/b] Es wurde behoben, dass zerbrechliche Kisten Gefechtsfackeln ohne Ladungen erzeugen.
+[*][b]Lanas Flucht: Lanas Wartung:[/b] Der Hinweis "Drücken Sie die Taste oben rechts" wird nicht mehr angezeigt, wenn die Taste bereits gedrückt wurde.
+[*][b]BioGen Gesellschaft: Operation X5:[/b] Statische Wachgeschütze verursachen keinen Schaden durch Freundbeschuss mehr.
+[*][b]IAF Akademie:[/b] Die Skybox in der Lava-Arena war zu niedrig. (Dies führte zu Problemen beim Zielen mit Granatwerfern)
+[*]Navigationsprobleme bei Aliens und Bots in vielen Einsätzen behoben.
+[/list]
+
+[h2]UI[/h2]
+[list]
+[*]Ein "Thanks!"-Emote wurde hinzugefügt. (cl_emote 14) Im Moment ist das Symbol nur auf Englisch, aber es wird später übersetzt werden.
+[*]Das Stummschalten eines Spielers blendet nun auch dessen Minimap-Zeichnungen aus.
+[*]Leistungsprobleme im Hauptmenü behoben, die durch zu häufige Aktualisierung des Download-Status von Workshops verursacht wurden.
+[/list]
+
+[h2]Mapping und Modding[/h2]
+[list]
+[*]asw_sniper_scope_radius ist nicht mehr Cheat-geschützt. Das Zielfernrohr des Scharfschützengewehrs kann jetzt ausgeblendet oder größer als der Bildschirm gemacht werden, wenn du es dir so wünscht.
+[*]rd_server_marine_backpacks ist nicht mehr Cheat-geschützt. rd_client_marine_backpacks ist jetzt standardmäßig -1 (benutze die Server-Einstellung). rd_client_marine_backpacks 0 wird jetzt Waffen-auf-dem-Rücken deaktivieren, auch wenn der Server sie verlangt.
+[*]asw_fix_cam ist nicht mehr Cheat-geschützt. Sie kann für Freecam beim Zuschauen verwendet werden.
+[*]Rd_devastator_bullet_spread_duck convar (Cheat-geschützt) zur Verwendung bei Herausforderungen hinzugefügt.
+[*]Konsolenbefehl rd_botadd_sv für Serverbetreiber hinzugefügt.
+[*]Unterstützung für die AlterDeathMessage VScript-Hook-Funktion wurde hinzugefügt.
+[*]Speicherleck in der VScript-Funktion TraceLineTable behoben.
+[*]ForceSync() wurde zu VScript UI-Entities hinzugefügt, was dem Client erlaubt, seinen vorhergesagten Status zu verwerfen und zum letzten bekannten Serverstatus zurückzukehren, selbst wenn der Server noch keine Aktualisierung gesendet hat. Dies ist nützlich für client-seitige UI-Logik.
+[*]Videodateien in Addons können jetzt auch webm-Dateien sein. Zuvor konnten sie nur bik-Dateien sein.
+[/list]
+</string>
+<string id="subtitle">Verräter! Aliens! Waffen! OMG!</string>
+<string id="summary"></string>
+<string id="title">AS:RD Update - 1. September 2025 "Electrical Hum"</string>
+</content>
