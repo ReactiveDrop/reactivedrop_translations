@@ -155,7 +155,7 @@ To maintain game balance, certain weapon combinations cannot be carried at the s
 [*]Buzzers now activate based on proximity rather than when they can be seen by the camera.
 [*]Increased Buzzer vision radius to 1024 units.
 [*]Improved Buzzers' responsiveness to mapper commands like "Spread then hibernate" (they now move to a random nearby position before waiting for the player) and "Move to nearest marine" (Buzzers now periodically update the position they are trying to move to; before, far-away Buzzers could end up going to somewhere the marines left a while ago).
-[*]Known issue: Buzzers with the "move to ignoring marines" mapper command may continue to ignore marines after reaching their target.
+[*]Known issue: Buzzers with the "Move to ignoring marines" mapper command may continue to ignore marines after reaching their target.
 [/list]
 
 [h2]Missions[/h2]
