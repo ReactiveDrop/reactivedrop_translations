@@ -113,7 +113,7 @@ This binds the "o" key to quickly open/close the skill menu. You may replace "o"
 [*][b]Flashbangs[/b] The original flares have been replaced with flashbangs.[expand type=details][list]
 [*]Detonate 2-4 seconds after being thrown.
 [*]Depending on face orientation, distance, and head obstruction, they cause varying durations and intensities of blindness.
-[*]While blinded, damage form sniper weapons drops to zero; other weapon damage is reduced accroding to the blindness intensity.
+[*]While blinded, damage from sniper weapons drops to zero; other weapon damage is reduced accroding to the blindness intensity.
 [/list][/expand]
 [*][b]Terrain-related Damage[/b] Reduces the dominance of high ground and long-distance sniping to avoid overpowered suppression.[expand type=details][list]
 [*]When target's vertical height difference &lt; 200 units and horizontal distance &lt; 1200 units, normal damage applies.
