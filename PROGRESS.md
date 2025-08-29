@@ -8,7 +8,7 @@
 | [Dutch](#non-curated-languages) | 56 | 2004 | 43 | 3378 | 283 | 230 | 710 | 146 |
 | [Finnish](#non-curated-languages) | ✔️ | 2004 | 42 | 3235 | 212 | 170 | 641 | 145 |
 | [French](#french-français) | 2 | 67 | 43 | 2523 | 282 | 230 | 650 | 125 |
-| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 1 | 1 |
+| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Hungarian](#non-curated-languages) | 56 | 138 | 43 | 3378 | 283 | 230 | 975 | 147 |
 | [Indonesian](#indonesian-indonesia) | 814 | 2004 | 635 | 4344 | 286 | 235 | 972 | 147 |
 | [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
@@ -19,7 +19,7 @@
 | [European Portuguese](#portuguese-português-europeu) | 5 | 180 | 33 | 2468 | 263 | 51 | 636 | 142 |
 | [Brazilian Portuguese](#brazilian-português) | 1 | ✔️ | ✔️ | 993 | 25 | 22 | 4 | 3 |
 | [Romanian](#non-curated-languages) | 56 | 1996 | 49 | 4089 | 283 | 230 | 975 | 147 |
-| [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 1 |
+| [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [European Spanish](#spanish-español-de-españa) | ✔️ | 2004 | ✔️ | 2020 | ✔️ | ✔️ | 3 | 125 |
 | [Latin American Spanish](#latam-español-latinoamericano) | 1 | 2004 | ✔️ | 4429 | 31 | 23 | 207 | 143 |
 | [Swedish](#swedish-svenska) | ✔️ | ✔️ | ✔️ | 69 | ✔️ | ✔️ | 1 | 72 |
@@ -539,13 +539,7 @@
 
 </summary>
 
-### Strings
-
-- [misc/signage/signage_german.vdf](misc/signage/signage_german.vdf) has 1 untranslated strings.
-
-### Upcoming Release Notes
-
-- [20250901_german.xml](release_notes/20250901_english.xml) is missing.
+✓ Up to date!
 
 </details>
 
@@ -1167,9 +1161,7 @@
 
 </summary>
 
-### Upcoming Release Notes
-
-- [20250901_russian.xml](release_notes/20250901_english.xml) is missing.
+✓ Up to date!
 
 </details>
 
