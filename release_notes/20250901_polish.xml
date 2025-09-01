@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<content>
+<string id="body">Specjalne podziękowania dla Dmitriy, Mithrand, jhheight, 法克尤尔马泽尔 oraz Grimowy za większość zmian w tej aktualizacji.
+
+[h2]Nowy Tryb Gry: "Zdrajcy!"[/h2]
+
+Dowódco,
+
+Jako tarcza ludzkości, IAF odniósł wielkie zwycięstwa w niezliczonych starciach ze swarmem, choć nie obyło się bez ogromnych strat. Ogromnie doceniamy Twój wkład oraz poświęcenie całej Twojej drużyny w obronie przed obcym zagrożeniem przez te wszystkie lata!
+
+Teraz jednak IAF stoi w obliczu bezprecedensowego kryzysu! W toku licznych bitew obcy ewoluowali w ukryciu: ich Królowa zdobyła zdolność kontroli umysłu. W trakcie walk potajemnie przejęła kontrolę nad niektórymi marines IAF, zmieniając ich w infiltratorów, którzy sabotują drużyny i misje. Ci kontrolowani żołnierze wyglądają jak normalni członkowie drużyny, mogą mieć specjalne umiejętności i w każdej chwili misji mogą zwrócić broń przeciwko własnym sojusznikom. Zachowajcie najwyższą ostrożność i czujność!
+
+Nie martwcie się – wysłaliśmy także ekspertów z profesjonalnym wyposażeniem, aby wspomóc Twoją drużynę. Chroń ich uważnie – mogą okazać się kluczowi w decydujących momentach.
+
+Powodzenia!
+
+Dr Helvetica Scenario  
+Departament Spójności Ekologicznej  
+Biuro Utrzymania Konsensusu
+
+[h3]O wyzwaniu [b]Zdrajcy![/b][/h3]
+[b]Zdrajcy![/b] to tryb gry łączący PvE, PvP i elementy dedukcji w stylu [b]Wilkołak / Among Us[/b]. Gracze dzielą się na [b]Drużynę IAF[/b] (frakcja dobra) oraz [b]Drużynę Zdrajców[/b] (frakcja zła). IAF musi strzec się przed zasadzkami Zdrajców i realizować cele misji, podczas gdy Zdrajcy starają się uniemożliwić im sukces.
+
+W tym wyzwaniu [b]Drużyna Zdrajców[/b] zna swoje wzajemne tożsamości, natomiast [b]IAF[/b] nie. Zdrajcy muszą opracowywać strategie (zabójstwa, przebrania, unikanie walki), by przeszkodzić IAF. Drużyna IAF musi obserwować słowa i czyny innych, by wykryć zdrajców i ich wyeliminować, zapewniając powodzenie misji. Obie strony mają specjalne role z unikalnymi zdolnościami, a wprowadzone zmiany równoważą rozgrywkę, czyniąc mecze bardziej napiętymi i ekscytującymi dla nowych graczy.
+
+[h3]Skład Drużyn[/h3][list]
+[*]Do rozpoczęcia meczu potrzebni są co najmniej [b]3 gracze[/b].
+[*]Gracze są losowo przydzielani do [b]Drużyny IAF[/b] lub [b]Drużyny Zdrajców[/b] i mogą otrzymać specjalne role oraz zdolności.
+[*]Gdy gracz przejmuje kontrolę nad Botem Zdrajcy, automatycznie dołącza do Drużyny Zdrajców i nie może się wycofać.
+[/list]
+
+[h3]Warunki Zwycięstwa[/h3][olist]
+[*][b]Drużyna IAF[/b] – warunki zwycięstwa[list]
+[*]Ukończenie całej misji;
+[*]Lub poddanie się Zdrajców.
+[/list]
+[*][b]Drużyna Zdrajców[/b] – warunki zwycięstwa[list]
+[*]Eliminacja wszystkich członków [b]IAF[/b];
+[*]Lub niepowodzenie misji przy przetrwaniu choćby jednego Zdrajcy.
+[/list]
+[*]Jeśli wszyscy gracze zginą podczas misji, mecz kończy się remisem.
+[/olist]
+
+[h3]Mechanika Poddania się[/h3]
+Zdrajcy mogą wysłać [b]/gg[/b] na czacie, aby rozpocząć głosowanie. Jeśli ponad 2/3 Zdrajców zgodzi się w ciągu [b]20s[/b], Drużyna IAF zostaje uznana za zwycięską. Jeśli czas głosowania minie, gra trwa dalej.
+
+[h3]Czat i Komendy[/h3][list]
+[*]Wpisanie samego `/` w czacie otwiera/zamyka menu umiejętności.
+[*]Zdrajcy mogą wysyłać wiadomości zaczynające się od `/` prywatnie dla swojej frakcji (widoczne tylko dla Zdrajców).
+[*]Wysyłając `/gg` w czacie, Zdrajcy inicjują głosowanie o poddanie się.
+[/list]
+
+[h3]Skrót Klawiszowy[/h3]
+W konsoli wpisz:
+[code]bind "o" "say /"[/code]
+Przypisuje klawisz "o" do szybkiego otwierania/zamykania menu umiejętności. Możesz wybrać inny klawisz.
+
+[h3]Specjalne Role i Zdolności[/h3]
+[b]Drużyna IAF[/b][olist]
+[*]Ekspert od Obcych[list]
+[*][b]Opis:[/b] Posiada Bio-Skaner, który ujawnia frakcję pobliskich graczy (Czerwony: Zdrajca; Zielony: IAF).
+[*]Skanowanie ma cooldown.
+[*]Pierwsze cele są wybierane losowo; tylko cele w zasięgu mogą być skanowane.
+[/list]
+[*]Biochemik[list]
+[*][b]Opis:[/b] Dysponuje dwoma specjalnymi miksturami.
+[*]Mikstura Lecznicza: przyznaje ukryte życie celowi (oprócz siebie), leczy infekcje, gasi ogień.
+[*]Mikstura Śmiercionośna: natychmiast zabija wybrany cel (można wybrać siebie).
+[/list]
+[*]Pułkownik[list]
+[*][b]Opis:[/b] Dowódca drużyny z dodatkowymi punktami ukrytego życia. Ukryte życie zużywa się tuż przed śmiercią marines, ratując go i zwiększając wytrzymałość.
+[/list]
+[*]Mechanik[list]
+[*][b]Opis:[/b] Posiada Mecha, który zmniejsza otrzymywane obrażenia.
+[*][b]Ograniczenie:[/b] Nie możesz go nosić sam; przekaż zaufanemu teammate’owi.
+[/list]
+[*]Snajper[list]
+[*][b]Opis:[/b] Specjalista od precyzyjnych strzałów. Po śmierci detonuje ostatni pocisk, zabijając zabójcę – wzajemna eliminacja.
+[/list]
+[*]Ekspert od Wybuchów[list]
+[*][b]Opis:[/b] Nosi materiały wybuchowe; po śmierci detonuje je, zadając obrażenia w pobliżu.
+[*][b]Uwaga:[/b] Może zranić sojuszników. Obrażenia zmniejszają się z odległości; przeszkody mocno redukują efekt.
+[/list]
+[*]Dezerter[list]
+[*][b]Opis:[/b] W stanie bliskim śmierci ucieka z pola walki.
+[*]Otrzymuje 30 sekund nietykalności (nie może atakować ani być atakowany).
+[*]Po tym czasie obrażenia są mocno zmniejszone przez 90 sekund, potem częściowo wracają, ale nie do pełnej wartości.
+[*][b]Uwaga:[/b] HUD może pokazywać gracza jako „Dezerter w IAF”, ale może to być Zdrajca wspierany przez Podżegacza. Umiejętnie użyty staje się 30-sekundową tarczą i jokerem na polu bitwy.
+[/list][/olist]
+
+[b]Drużyna Zdrajców[/b][olist]
+[*]Lider Zdrajców[list]
+[*][b]Opis:[/b] Podobny do Pułkownika, z dodatkowymi punktami ukrytego życia – bardziej wytrzymały niż zwykły Zdrajca.
+[/list]
+[*]Podżegacz[list]
+[*][b]Opis:[/b] Gdy Zdrajcy są w mniejszości, możesz zmienić członka IAF w Zdrajcę.
+[*][b]Uwaga:[/b] Możliwe tylko, jeśli (Pozostali IAF / Pozostali Zdrajcy) > 2/3 po konwersji.
+[/list]
+[*]Samobójczy Bomber[list]
+[*][b]Opis:[/b] Uruchamia atak samobójczy; po 5 sekundach detonuje, zadając obrażenia w pobliżu.
+[*][b]Uwaga:[/b] Może zranić Zdrajców. Obrażenia maleją z odległości; przeszkody mocno redukują efekt.
+[/list]
+[*]Wyłącznik[list]
+[*][b]Opis:[/b] Tworzy bio-pole, które blokuje zdolności celu.
+[/list]
+[*]Mimik[list]
+[*][b]Opis:[/b] Quantum Holographic Cloak sprawia, że Ekspert od Obcych widzi go jako członka IAF.
+[/list][/olist]
+
+[h3]Główne Zmiany Równoważące[/h3]
+[olist]
+[*][b]Ochrona startowa[/b] Przez krótki czas po rozpoczęciu gry wszyscy gracze są [b]niemal odporni na obrażenia od innych graczy[/b], aby mogli spokojnie opracować strategie. Czas ochrony zależy od mapy.
+[*][b]Granaty[/b] Czas zapłonu granatów został wydłużony, aby dać graczom więcej czasu na reakcję i chronić rdzeń dedukcji rozgrywki.
+[*][b]Flashbangi[/b] Zastąpiły oryginalne flary.[expand type=details][list]
+[*]Detonują 2–4 sekundy po wyrzuceniu.
+[*]W zależności od ustawienia twarzy, odległości i przesłon głowy, powodują różny czas i intensywność oślepienia.
+[*]Podczas oślepienia obrażenia z broni snajperskiej spadają do zera; inne bronie zadają mniej obrażeń proporcjonalnie do stopnia oślepienia.
+[/list][/expand]
+[*][b]Obrażenia terenowe[/b] Zmniejsza przewagę wysokiego terenu i snajpingu na odległość.[expand type=details][list]
+[*]Gdy różnica wysokości &lt; 200 jednostek i odległość &lt; 1200 jednostek, obrażenia są normalne.
+[*]Gdy różnica wysokości &gt; 300 jednostek lub odległość &gt; 1600 jednostek, brak obrażeń.
+[*]W pozostałych przypadkach obrażenia maleją wraz z odległością.
+[/list][/expand]
+[*][b]Przewracanie w walce wręcz[/b] Ataki wręcz mają szansę powalić przeciwnika.[expand type=details][list]
+[*]Szansa zależy od kierunku, z którego atakujesz: mniejsza z przodu, większa od tyłu.
+[*]Noszenie Power Fist zwiększa szansę na przewrócenie.
+[/list][/expand]
+[*][b]Balans obrażeń broni[/b] Bazując na 50CMG4-1 (.50 kaliber), dostosowano obrażenia innych broni względem zasięgu i rozrzutu.
+[*][b]Losowe parametry[/b] Niektóre parametry zmieniają się losowo co 20s, zwiększając nieprzewidywalność.
+[/olist]
+
+[h3]Inne[/h3]
+[b]Powiadomienia o wyłączeniu[/b]
+Jeśli Wyłącznik skutecznie Cię dotknie, otrzymasz powiadomienie i nie będziesz mógł używać swoich zdolności.
+
+[b]Aktualizacje listy Zdrajców[/b]
+Gdy członek IAF zostanie przekonwertowany przez Podżegacza lub ktoś przejmie Bota Zdrajcy, otrzymasz powiadomienie. Możesz sprawdzić aktualną listę Zdrajców w HUD.
+
+[b]Ograniczenia podnoszenia broni[/b]
+Aby zachować balans, niektóre kombinacje broni nie mogą być noszone jednocześnie. Jeśli podniesiesz konfliktową broń, gra automatycznie ją upuści.
+
+[h2]Broń[/h2]
+[list]
+[*][b]IAF HAS42 Devastator:[/b] Naciśnięcie alternatywnego ognia włącza tryb blokady, zamieniając marines w stacjonarną wieżyczkę. Zwiększa szybkostrzelność i penetrację. Każde ponowne naciśnięcie, toczenie, użycie przedmiotów ruchomych, zmiana broni, atak wręcz lub otrzymanie obrażeń wyłącza tryb blokady.
+[*][b]IAF HAS42 Devastator:[/b] Lekko zwiększono bazowe obrażenia, aby marines mogli zabić drony na Brutal w jednym strzale, jeśli wszystkie pociski trafią.
+[*][b]IAF HAS42 Devastator:[/b] Zmniejszono karę za poruszanie się podczas strzału z 70% do 90%. Dla porównania, autogun 80%, minigun 95%. Kara podczas strzału pozostaje 30%.
+[*][b]IAF Medical SMG:[/b] Broń jest teraz dokładniejsza w kucaniu.
+[*]Umożliwiono testowanie granatów EC-02 Stun (w fazie deweloperskiej) wszystkim graczom.
+[*]Naprawiono wyświetlanie efektu cząsteczkowego Vindicatora dla niektórych granatów.
+[/list]
+
+[h2]Obcy[/h2]
+[list]
+[*]Naprawiono przypadki, gdy Buzzery utknęły w ziemi.
+[*]Buzzery aktywują się teraz na podstawie bliskości, a nie widoczności dla kamery.
+[*]Zwiększono promień widzenia Buzzerów do 1024 jednostek.
+[*]Poprawiono reakcje Buzzerów na komendy mapera, np. "Spread then hibernate" (przesuwają się losowo przed oczekiwaniem) i "Move to nearest marine" (aktualizacja celu co pewien czas; wcześniej dalekie Buzzery mogły dotrzeć w stare miejsce).
+[*]Znany problem: Buzzery z komendą "Move to ignoring marines" mogą ignorować marines po osiągnięciu celu.
+[/list]
+
+[h2]Misje[/h2]
+[list]
+[*][b]Jacob's Rest: Cargo Elevator:[/b] Naprawiono pudełko za pierwszymi drzwiami blokujące marines.
+[*][b]Jacob's Rest: SynTek Residential:[/b] Usunięto niewidzialną ścianę przy biomasa.
+[*][b]Jacob's Rest: Sewer Junction B5:[/b] Naprawiono spawn obcych w betonie.
+[*][b]Jacob's Rest: Sewer Junction B5:[/b] Naprawiono spawn buzzerów na starcie misji.
+[*][b]Tilarus-5: Midnight Port[/b] Naprawiono dziurę w ścianie widoczną przy obrocie kamery.
+[*][b]Tears for Tarnor: (wszystkie misje):[/b] Naprawiono skrzynki generujące flary bojowe zerowej mocy.
+[*][b]Lana's Escape: Lana's Maintenance:[/b] Naprawiono hint „naciśnij przycisk w prawym górnym rogu” po wcześniejszym naciśnięciu.
+[*][b]BioGen Corporation: Operation X5:[/b] Stacjonarne wieżyczki nie zadają już obrażeń sojusznikom.
+[*][b]IAF Marine Academy:[/b] Naprawiono niski skybox w arenie lawy, co utrudniało celowanie granatnikiem.
+[*]Naprawiono problemy z nawigacją obcych i botów w wielu misjach.
+[/list]
+
+[h2]UI[/h2]
+[list]
+[*]Dodano emotkę "Thanks!" (cl_emote 14). Na razie ikona w języku angielskim, wkrótce tłumaczenie.
+[*]Wyciszenie gracza ukrywa również rysunki na minimapie.
+[*]Naprawiono spadki wydajności menu głównego spowodowane częstą aktualizacją stanu pobierania Workshop.
+[/list]
+
+[h2]Mapowanie i Modding[/h2]
+[list]
+[*][b]asw_sniper_scope_radius[/b] nie jest już chronione przed cheatami – można ukrywać lunetę lub powiększać ją ponad ekran.
+[*][b]rd_server_marine_backpacks[/b] nie jest już chronione; rd_client_marine_backpacks domyślnie -1 (ustawienie serwera). Wartość 0 wyłącza bronie na plecach, nawet jeśli serwer wymaga.
+[*][b]asw_fix_cam[/b] nie jest już chronione; pozwala na freecam podczas obserwacji.
+[*]Dodano [b]rd_devastator_bullet_spread_duck[/b] (cheat-protected) dla wyzwań.
+[*]Dodano [b]rd_botadd_sv[/b] dla operatorów serwera.
+[*]Dodano wsparcie dla funkcji [b]AlterDeathMessage[/b] VScript.
+[*]Naprawiono wyciek pamięci w [b]TraceLineTable[/b] VScript.
+[*]Dodano [b]ForceSync()[/b] dla UI w VScript, pozwalając klientowi porzucić przewidywany stan i wrócić do ostatniego znanego stanu serwera.
+[*]Pliki wideo w dodatkach mogą teraz być również w formacie webm. Wcześniej tylko bik.
+[/list]
+</string>
+<string id="subtitle">Zdrajcy! Obcy! Broń! O rety!</string>
+<string id="summary"></string>
+<string id="title">AS:RD Aktualizacja – 1 września 2025 „Electrical Hum”</string>
+</content>
