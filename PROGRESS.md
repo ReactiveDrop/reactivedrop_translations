@@ -15,7 +15,7 @@
 | [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 35 | ✔️ |
 | [Korean](#koreana-한국어) | ✔️ | ✔️ | ✔️ | 35 | ✔️ | ✔️ | ✔️ | 29 |
 | [Norwegian Bokmål](#non-curated-languages) | 74 | 708 | 48 | 4083 | 283 | 230 | 710 | 147 |
-| [Polish](#polish-polski) | 2 | 2004 | ✔️ | 3022 | 12 | 19 | 137 | 127 |
+| [Polish](#polish-polski) | 2 | 2004 | ✔️ | 3022 | 12 | 19 | 137 | 126 |
 | [European Portuguese](#portuguese-português-europeu) | 5 | 180 | 33 | 2468 | 263 | 51 | 636 | 142 |
 | [Brazilian Portuguese](#brazilian-português) | 1 | ✔️ | ✔️ | 993 | 25 | 22 | 4 | 3 |
 | [Romanian](#non-curated-languages) | 56 | 1996 | 49 | 4089 | 283 | 230 | 975 | 147 |
@@ -814,10 +814,6 @@
 ### Steam Store and Community
 
 - [storepage_81731_polish.json](store_page/storepage_81731_polish.json) has 1 indented lines.
-
-### Upcoming Release Notes
-
-- [20250901_polish.xml](release_notes/20250901_english.xml) is missing.
 
 ### Mail and News
 
