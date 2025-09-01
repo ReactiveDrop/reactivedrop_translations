@@ -117,8 +117,8 @@ Przypisuje klawisz "o" do szybkiego otwierania/zamykania menu umiejętności. Mo
 [*]Podczas oślepienia obrażenia z broni snajperskiej spadają do zera; inne bronie zadają mniej obrażeń proporcjonalnie do stopnia oślepienia.
 [/list][/expand]
 [*][b]Obrażenia terenowe[/b] Zmniejsza przewagę wysokiego terenu i snajpingu na odległość.[expand type=details][list]
-[*]Gdy różnica wysokości < 200 jednostek i odległość < 1200 jednostek, obrażenia są normalne.
-[*]Gdy różnica wysokości > 300 jednostek lub odległość > 1600 jednostek, brak obrażeń.
+[*]Gdy różnica wysokości &lt; 200 jednostek i odległość &lt; 1200 jednostek, obrażenia są normalne.
+[*]Gdy różnica wysokości &gt; 300 jednostek lub odległość &gt; 1600 jednostek, brak obrażeń.
 [*]W pozostałych przypadkach obrażenia maleją wraz z odległością.
 [/list][/expand]
 [*][b]Przewracanie w walce wręcz[/b] Ataki wręcz mają szansę powalić przeciwnika.[expand type=details][list]
