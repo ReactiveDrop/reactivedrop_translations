@@ -94,7 +94,7 @@ This binds the "o" key to quickly open/close the skill menu. You may replace "o"
 [/list]
 [*]Suborner[list]
 [*][b]Description:[/b] When Traitors are heavily outnumbered, you can convert one IAF member into a Traitor.
-[*][b]Note:[/b] Only possible if (Surviving IAF / Surviving Traitors) &gt; 2/3 after the conversion.
+[*][b]Note:[/b] Only possible if (Surviving IAF / Surviving Traitors) &gt; 5/3 after the conversion.
 [/list]
 [*]Suicide Boomer[list]
 [*][b]Description:[/b] Can initiate a suicide bomb attack; 5 seconds after activation, you detonate, causing area damage to nearby players.
