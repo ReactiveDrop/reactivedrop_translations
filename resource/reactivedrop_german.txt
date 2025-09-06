@@ -10786,8 +10786,8 @@
 "challenge_traitors_vgui_menu_infector_3"		"Eigenschaft bereit in "
 "[english]challenge_traitors_vgui_menu_infector_4"		"s."
 "challenge_traitors_vgui_menu_infector_4"		"s."
-		"[english]challenge_traitors_vgui_menu_infector_5"		"You have already used your skill.(Blue: UDP packet has lost.)"
-		"challenge_traitors_vgui_menu_infector_5"		"You have already used your skill.(Blue: UDP packet has lost.)"
+"[english]challenge_traitors_vgui_menu_infector_5"		"You have already used your skill.(Blue: UDP packet has lost.)"
+"challenge_traitors_vgui_menu_infector_5"		"Du hast deine Fähigkeit bereits genutzt. (Blau: UDP Paketverlust)"
 
 //boomer
 "[english]challenge_traitors_role_article_boomer"		"a"
