@@ -10818,8 +10818,8 @@
 "challenge_traitors_vgui_menu_silencer_2"		"Eigenschaft bereit in "
 "[english]challenge_traitors_vgui_menu_silencer_3"		"s."
 "challenge_traitors_vgui_menu_silencer_3"		"s."
-		"[english]challenge_traitors_vgui_menu_silencer_4"		"You have already used your skill.(Blue: UDP packet has lost.)"
-		"challenge_traitors_vgui_menu_silencer_4"		"You have already used your skill.(Blue: UDP packet has lost.)"
+"[english]challenge_traitors_vgui_menu_silencer_4"		"You have already used your skill.(Blue: UDP packet has lost.)"
+"challenge_traitors_vgui_menu_silencer_4"		"Du hast deine Fähigkeit bereits genutzt. (Blau: UDP Paketverlust)"
 
 //mimic
 "[english]challenge_traitors_role_article_mimic"		"a"
