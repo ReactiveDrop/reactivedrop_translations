@@ -10648,8 +10648,8 @@
 		"challenge_traitors_vgui_menu_scanner_2"		"Scan will be ready in "
 "[english]challenge_traitors_vgui_menu_scanner_3"		"s."
 "challenge_traitors_vgui_menu_scanner_3"		"s."
-		"[english]challenge_traitors_vgui_menu_scanner_4"		"(Red : Traitor | Green : IAF)"
-		"challenge_traitors_vgui_menu_scanner_4"		"(Red : Traitor | Green : IAF)"
+		"[english]challenge_traitors_vgui_menu_scanner_4"		"(Red: Traitor | Green: IAF | Blue: UDP packet has lost.)"
+		"challenge_traitors_vgui_menu_scanner_4"		"(Red: Traitor | Green: IAF | Blue: UDP packet has lost.)"
 		"[english]challenge_traitors_role_chat_random_scan"		"For game balance considerations, the first several scans are randomized. The target should be within a certain range."
 		"challenge_traitors_role_chat_random_scan"		"For game balance considerations, the first several scans are randomized. The target should be within a certain range."
 
@@ -10672,8 +10672,8 @@
 		"challenge_traitors_vgui_menu_biochemist_3"		"Skill will be ready in "
 		"[english]challenge_traitors_vgui_menu_biochemist_4"		"s."
 		"challenge_traitors_vgui_menu_biochemist_4"		"s."
-		"[english]challenge_traitors_vgui_menu_biochemist_5"		"You have already used your skill."
-		"challenge_traitors_vgui_menu_biochemist_5"		"You have already used your skill."
+		"[english]challenge_traitors_vgui_menu_biochemist_5"		"You have already used your skill.(Blue: UDP packet has lost.)"
+		"challenge_traitors_vgui_menu_biochemist_5"		"You have already used your skill.(Blue: UDP packet has lost.)"
 
 		//iaf_leader
 		"[english]challenge_traitors_role_article_iaf_leader"		"a"
@@ -10704,8 +10704,8 @@
 		"challenge_traitors_vgui_menu_shield_2"		"Skill will be ready in "
 "[english]challenge_traitors_vgui_menu_shield_3"		"s."
 "challenge_traitors_vgui_menu_shield_3"		"s."
-		"[english]challenge_traitors_vgui_menu_shield_4"		"You have already used your skill."
-		"challenge_traitors_vgui_menu_shield_4"		"You have already used your skill."
+		"[english]challenge_traitors_vgui_menu_shield_4"		"You have already used your skill.(Blue: UDP packet has lost.)"
+		"challenge_traitors_vgui_menu_shield_4"		"You have already used your skill.(Blue: UDP packet has lost.)"
 
 		//sniper
 		"[english]challenge_traitors_role_article_sniper"		"a"
@@ -10786,8 +10786,8 @@
 		"challenge_traitors_vgui_menu_infector_3"		"Skill will be ready in "
 "[english]challenge_traitors_vgui_menu_infector_4"		"s."
 "challenge_traitors_vgui_menu_infector_4"		"s."
-		"[english]challenge_traitors_vgui_menu_infector_5"		"You have already used your skill."
-		"challenge_traitors_vgui_menu_infector_5"		"You have already used your skill."
+		"[english]challenge_traitors_vgui_menu_infector_5"		"You have already used your skill.(Blue: UDP packet has lost.)"
+		"challenge_traitors_vgui_menu_infector_5"		"You have already used your skill.(Blue: UDP packet has lost.)"
 
 		//boomer
 		"[english]challenge_traitors_role_article_boomer"		"a"
@@ -10818,8 +10818,8 @@
 		"challenge_traitors_vgui_menu_silencer_2"		"Skill will be ready in "
 		"[english]challenge_traitors_vgui_menu_silencer_3"		"s."
 		"challenge_traitors_vgui_menu_silencer_3"		"s."
-		"[english]challenge_traitors_vgui_menu_silencer_4"		"You have already used your skill."
-		"challenge_traitors_vgui_menu_silencer_4"		"You have already used your skill."
+		"[english]challenge_traitors_vgui_menu_silencer_4"		"You have already used your skill.(Blue: UDP packet has lost.)"
+		"challenge_traitors_vgui_menu_silencer_4"		"You have already used your skill.(Blue: UDP packet has lost.)"
 
 		//mimic
 		"[english]challenge_traitors_role_article_mimic"		"a"
