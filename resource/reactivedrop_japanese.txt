@@ -6279,20 +6279,19 @@
 // EC = electric charge; also a reference to Amazon EC2, which stands for Elastic Compute Cloud, because these were originally part of the tech-only prototype rifle.
 "[english]asw_weaponl_stun_grenades"		"EC-02 Stun Grenades"
 "asw_weaponl_stun_grenades"		"EC-02 スタングレネード"
-// TODO
-"[english]asw_wdesc_stun_grenades"		""
-"asw_wdesc_stun_grenades"		""
+		"[english]asw_wdesc_stun_grenades"		"A set of offhand lightweight stun grenades. These grenades deliver a high electric charge which renders the muscle motors of affected targets extremely weak for a short time. Being non-fatal makes them perfect for use in urban environments and against civilian crowds."
+		"asw_wdesc_stun_grenades"		"A set of offhand lightweight stun grenades. These grenades deliver a high electric charge which renders the muscle motors of affected targets extremely weak for a short time. Being non-fatal makes them perfect for use in urban environments and against civilian crowds."
+		"[english]asw_weapon_stun_grenades_attributes"		"Splash Stun, Negligible Friendly Fire"
+		"asw_weapon_stun_grenades_attributes"		"Splash Stun, Negligible Friendly Fire"
 "[english]asw_weapon_incendiary_grenades"		"Incendiary Grenades"
 "asw_weapon_incendiary_grenades"		"焼夷グレネード"
 // NA = napalm; -23 is a reference to gasoline's flashpoint, -23 degrees celsius.
 "[english]asw_weaponl_incendiary_grenades"		"NA-23 Incendiary Grenades"
 "asw_weaponl_incendiary_grenades"		"NA-23 焼夷グレネード"
-// TODO
-"[english]asw_wdesc_incendiary_grenades"		""
-"asw_wdesc_incendiary_grenades"		""
-// TODO
-"[english]asw_weapon_incendiary_grenades_attributes"		""
-"asw_weapon_incendiary_grenades_attributes"		""
+		"[english]asw_wdesc_incendiary_grenades"		"A set of offhand contact based and timed napalm enriched incendiary grenades. Offering a high area of effect damage for indirect fire making them preferred for breach situations and crowd control against large hostile groups, as well as an on the go solution against areas infested with swarm biomass."
+		"asw_wdesc_incendiary_grenades"		"A set of offhand contact based and timed napalm enriched incendiary grenades. Offering a high area of effect damage for indirect fire making them preferred for breach situations and crowd control against large hostile groups, as well as an on the go solution against areas infested with swarm biomass."
+		"[english]asw_weapon_incendiary_grenades_attributes"		"Ignites"
+		"asw_weapon_incendiary_grenades_attributes"		"Ignites"
 "[english]asw_weapon_speed_burst"		"Speed Burst"
 "asw_weapon_speed_burst"		"急加速装置"
 // EX = exoskeleton; 981 is backwards 1890, the year when Nicholas Yagin invented US440684, (one of) the earliest known powered exoskeletons.
