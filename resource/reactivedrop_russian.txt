@@ -10648,8 +10648,8 @@
 "challenge_traitors_vgui_menu_scanner_2"		"Сканирование будет готово через "
 "[english]challenge_traitors_vgui_menu_scanner_3"		"s."
 "challenge_traitors_vgui_menu_scanner_3"		"сек."
-		"[english]challenge_traitors_vgui_menu_scanner_4"		"(Red: Traitor | Green: IAF | Blue: UDP packet has lost.)"
-		"challenge_traitors_vgui_menu_scanner_4"		"(Red: Traitor | Green: IAF | Blue: UDP packet has lost.)"
+"[english]challenge_traitors_vgui_menu_scanner_4"		"(Red: Traitor | Green: IAF | Blue: UDP packet has lost.)"
+"challenge_traitors_vgui_menu_scanner_4"		"(Красный: Предатель | Зелёный: МВС | Синий: UDP соединение утеряно.)"
 "[english]challenge_traitors_role_chat_random_scan"		"For game balance considerations, the first several scans are randomized. The target should be within a certain range."
 "challenge_traitors_role_chat_random_scan"		"Для игрового баланса, первые несколько сканирований будут случайными. Цель должна находиться в определенном радиусе."
 
@@ -10672,8 +10672,8 @@
 "challenge_traitors_vgui_menu_biochemist_3"		"Навык будет доступен через "
 "[english]challenge_traitors_vgui_menu_biochemist_4"		"s."
 "challenge_traitors_vgui_menu_biochemist_4"		"сек."
-		"[english]challenge_traitors_vgui_menu_biochemist_5"		"You have already used your skill.(Blue: UDP packet has lost.)"
-		"challenge_traitors_vgui_menu_biochemist_5"		"You have already used your skill.(Blue: UDP packet has lost.)"
+"[english]challenge_traitors_vgui_menu_biochemist_5"		"You have already used your skill.(Blue: UDP packet has lost.)"
+"challenge_traitors_vgui_menu_biochemist_5"		"Вы уже использовали вашу способность.(Синий: UDP соединение утеряно.)"
 
 //iaf_leader
 "[english]challenge_traitors_role_article_iaf_leader"		"a"
@@ -10704,8 +10704,8 @@
 "challenge_traitors_vgui_menu_shield_2"		"Навык будет доступен через "
 "[english]challenge_traitors_vgui_menu_shield_3"		"s."
 "challenge_traitors_vgui_menu_shield_3"		"сек."
-		"[english]challenge_traitors_vgui_menu_shield_4"		"You have already used your skill.(Blue: UDP packet has lost.)"
-		"challenge_traitors_vgui_menu_shield_4"		"You have already used your skill.(Blue: UDP packet has lost.)"
+"[english]challenge_traitors_vgui_menu_shield_4"		"You have already used your skill.(Blue: UDP packet has lost.)"
+"challenge_traitors_vgui_menu_shield_4"		"Вы уже использовали вашу способность.(Синий: UDP соединение утеряно.)"
 
 //sniper
 "[english]challenge_traitors_role_article_sniper"		"a"
@@ -10786,8 +10786,8 @@
 "challenge_traitors_vgui_menu_infector_3"		"Навык будет доступен через "
 "[english]challenge_traitors_vgui_menu_infector_4"		"s."
 "challenge_traitors_vgui_menu_infector_4"		"сек."
-		"[english]challenge_traitors_vgui_menu_infector_5"		"You have already used your skill.(Blue: UDP packet has lost.)"
-		"challenge_traitors_vgui_menu_infector_5"		"You have already used your skill.(Blue: UDP packet has lost.)"
+"[english]challenge_traitors_vgui_menu_infector_5"		"You have already used your skill.(Blue: UDP packet has lost.)"
+"challenge_traitors_vgui_menu_infector_5"		"Вы уже использовали вашу способность.(Синий: UDP соединение утеряно.)"
 
 //boomer
 "[english]challenge_traitors_role_article_boomer"		"a"
@@ -10818,8 +10818,8 @@
 "challenge_traitors_vgui_menu_silencer_2"		"Навык будет доступен через "
 "[english]challenge_traitors_vgui_menu_silencer_3"		"s."
 "challenge_traitors_vgui_menu_silencer_3"		"сек."
-		"[english]challenge_traitors_vgui_menu_silencer_4"		"You have already used your skill.(Blue: UDP packet has lost.)"
-		"challenge_traitors_vgui_menu_silencer_4"		"You have already used your skill.(Blue: UDP packet has lost.)"
+"[english]challenge_traitors_vgui_menu_silencer_4"		"You have already used your skill.(Blue: UDP packet has lost.)"
+"challenge_traitors_vgui_menu_silencer_4"		"Вы уже использовали вашу способность.(Синий: UDP соединение утеряно.)"
 
 //mimic
 "[english]challenge_traitors_role_article_mimic"		"a"
