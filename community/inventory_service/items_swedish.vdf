@@ -276,10 +276,10 @@
 // we're not eligible for the fest, so this medal is an unofficial participation trophy. ouch.
 "[english]item_event_medal_replayabilityfest2024_flavor"		"We didn't make the cut, but we still had fun."
 "item_event_medal_replayabilityfest2024_flavor"		"Vi klarade oss inte, men vi hade kul ändå."
-		"[english]item_event_medal_pvpfest2026_name"		"Steam PvP Fest 2026"
-		"item_event_medal_pvpfest2026_name"		"Steam PvP Fest 2026"
-		"[english]item_event_medal_pvpfest2026_description"		"Engaged in a skirmish during Steam PvP Fest 2026."
-		"item_event_medal_pvpfest2026_description"		"Engaged in a skirmish during Steam PvP Fest 2026."
+"[english]item_event_medal_pvpfest2026_name"		"Steam PvP Fest 2026"
+"item_event_medal_pvpfest2026_name"		"Steams PvP-festival 2026"
+"[english]item_event_medal_pvpfest2026_description"		"Engaged in a skirmish during Steam PvP Fest 2026."
+"item_event_medal_pvpfest2026_description"		"Deltog i ett gräl under Steams PvP-festival 2026."
 
 "[english]item_event_medal_mapping_2023_name"		"Mapping Competition Participant (2023)"
 "item_event_medal_mapping_2023_name"		"Karttävlingsdeltagare (2023)"
