@@ -482,6 +482,8 @@
 "item_strange_device_alien_kill_streak_best"		"최고"
 "[english]item_strange_device_infestations_cured_name"		"Infestations Cured"
 "item_strange_device_infestations_cured_name"		"감염 치료"
+		"[english]item_strange_device_deathmatch_kills_name"		"Deathmatch Kills"
+		"item_strange_device_deathmatch_kills_name"		"Deathmatch Kills"
 
 "[english]item_suit_sarge_name"		"Sarge's Suit"
 "item_suit_sarge_name"		"Sarge의 복장"
