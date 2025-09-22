@@ -276,6 +276,10 @@
 // we're not eligible for the fest, so this medal is an unofficial participation trophy. ouch.
 "[english]item_event_medal_replayabilityfest2024_flavor"		"We didn't make the cut, but we still had fun."
 "item_event_medal_replayabilityfest2024_flavor"		"비록 페스티벌 대상에서 제외되었지만 우린 여전히 즐기고 있죠."
+		"[english]item_event_medal_pvpfest2026_name"		"Steam PvP Fest 2026"
+		"item_event_medal_pvpfest2026_name"		"Steam PvP Fest 2026"
+		"[english]item_event_medal_pvpfest2026_description"		"Engaged in a skirmish during Steam PvP Fest 2026."
+		"item_event_medal_pvpfest2026_description"		"Engaged in a skirmish during Steam PvP Fest 2026."
 
 "[english]item_event_medal_mapping_2023_name"		"Mapping Competition Participant (2023)"
 "item_event_medal_mapping_2023_name"		"지도제작 대회 참가자 (2023)"
