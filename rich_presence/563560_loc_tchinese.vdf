@@ -33,6 +33,13 @@
 		"#official_challenge_riflemod_classic"	"步槍模式"
 		"#official_challenge_rd_first_person"	"第一人稱"
 		"#official_challenge_rd_third_person"	"第三人稱"
+		"#official_challenge_asw_infection"	"生化模式"
+		"#official_challenge_asw_infection_fp"	"生化模式 第一人稱"
+		"#official_challenge_asw_infection_tp"	"生化模式 第三人稱"
+		"#official_challenge_asw_infectionclassic"	"生化經典模式"
+		"#official_challenge_asw_infectionclassic_fp"	"生化經典模式 第一人稱"
+		"#official_challenge_asw_infectionclassic_tp"	"生化經典模式 第三人稱"
+		"#official_challenge_traitors"	"叛徒!(類人狼殺模式)"
 
 		"#official_mission_dm_desert"	"死鬥 Desert"
 		"#official_mission_dm_deima"	"死鬥 德馬地表橋梁"
