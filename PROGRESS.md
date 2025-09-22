@@ -12,7 +12,7 @@
 | [Hungarian](#non-curated-languages) | 56 | 138 | 43 | 3382 | 285 | 231 | 975 | 147 |
 | [Indonesian](#indonesian-indonesia) | 814 | 2004 | 635 | 4348 | 288 | 236 | 972 | 147 |
 | [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | 9 | 2 | 1 | ✔️ | ✔️ |
-| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | ✔️ | 2 | 1 | 35 | ✔️ |
+| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 35 | ✔️ |
 | [Korean](#koreana-한국어) | ✔️ | ✔️ | ✔️ | 44 | 2 | 1 | ✔️ | 29 |
 | [Norwegian Bokmål](#non-curated-languages) | 74 | 708 | 48 | 4087 | 285 | 231 | 710 | 147 |
 | [Polish](#polish-polski) | 2 | 2004 | ✔️ | 3026 | 14 | 20 | 137 | 126 |
@@ -755,8 +755,6 @@
 
 ### Strings
 
-- [items_japanese.vdf](community/inventory_service/items_japanese.vdf) has 2 untranslated strings.
-- [statsweb_japanese.vdf](community/stats_website/statsweb_japanese.vdf) has 1 untranslated strings.
 - [platform/vgui_japanese.txt](platform/vgui_japanese.txt) has 35 untranslated strings.
 
 </details>
