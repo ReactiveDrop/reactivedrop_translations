@@ -2913,7 +2913,7 @@ g_localizations <- {
 		challenge_traitors_vgui_menu_scanner_1 = "Skanna mål i närheten",
 		challenge_traitors_vgui_menu_scanner_2 = "Scan blir redo om ",
 		challenge_traitors_vgui_menu_scanner_3 = "s.",
-		challenge_traitors_vgui_menu_scanner_4 = "(Red: Traitor | Green: IAF | Blue: UDP packet has lost.)",
+		challenge_traitors_vgui_menu_scanner_4 = "(Röd: Förrädare | Grön: IAF | Blå: UDP packet har förlorat.)",
 		challenge_traitors_role_chat_random_scan = "Av hänsyn till spelets balans randomiseras de första skanningarna. Målet bör ligga inom ett visst intervall.",
 		challenge_traitors_role_article_biochemist = "en",
 		challenge_traitors_role_name_biochemist = "Biokemist",

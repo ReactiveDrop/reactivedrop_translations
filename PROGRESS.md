@@ -8,7 +8,7 @@
 | [Dutch](#non-curated-languages) | 56 | 2004 | 43 | 3382 | 285 | 231 | 710 | 146 |
 | [Finnish](#non-curated-languages) | ✔️ | 2004 | 42 | 3239 | 214 | 171 | 641 | 145 |
 | [French](#french-français) | 2 | 67 | 43 | 2527 | 284 | 231 | 650 | 125 |
-| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | 2 | 1 | ✔️ | ✔️ |
+| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Hungarian](#non-curated-languages) | 56 | 138 | 43 | 3382 | 285 | 231 | 975 | 147 |
 | [Indonesian](#indonesian-indonesia) | 814 | 2004 | 635 | 4348 | 288 | 236 | 972 | 147 |
 | [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | 9 | 2 | 1 | ✔️ | ✔️ |
@@ -22,7 +22,7 @@
 | [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | 4 | 2 | 1 | ✔️ | ✔️ |
 | [European Spanish](#spanish-español-de-españa) | ✔️ | 2004 | ✔️ | 2025 | 2 | 1 | 3 | 125 |
 | [Latin American Spanish](#latam-español-latinoamericano) | 1 | 2004 | ✔️ | 4433 | 33 | 24 | 207 | 143 |
-| [Swedish](#swedish-svenska) | ✔️ | ✔️ | ✔️ | 78 | 2 | 1 | ✔️ | 72 |
+| [Swedish](#swedish-svenska) | ✔️ | ✔️ | ✔️ | 77 | ✔️ | ✔️ | ✔️ | 72 |
 | [Thai](#non-curated-languages) | 971 | 1993 | 51 | 4629 | 285 | 231 | 739 | 147 |
 | [Turkish](#non-curated-languages) | 56 | 137 | 43 | 3382 | 285 | 231 | 975 | 147 |
 | [Ukrainian](#ukrainian-українська) | 32 | 131 | 33 | 2948 | 285 | 231 | 935 | 147 |
@@ -544,10 +544,7 @@
 
 </summary>
 
-### Strings
-
-- [items_german.vdf](community/inventory_service/items_german.vdf) has 2 untranslated strings.
-- [statsweb_german.vdf](community/stats_website/statsweb_german.vdf) has 1 untranslated strings.
+✓ Up to date!
 
 </details>
 
@@ -1513,9 +1510,7 @@
 
 ### Strings
 
-- [items_swedish.vdf](community/inventory_service/items_swedish.vdf) has 2 untranslated strings.
-- [statsweb_swedish.vdf](community/stats_website/statsweb_swedish.vdf) has 1 untranslated strings.
-- [reactivedrop_swedish.txt](resource/reactivedrop_swedish.txt) has 78 untranslated strings.
+- [reactivedrop_swedish.txt](resource/reactivedrop_swedish.txt) has 77 untranslated strings.
 
 ### Upcoming Release Notes
 
