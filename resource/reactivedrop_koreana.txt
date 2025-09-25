@@ -6289,7 +6289,7 @@
 "[english]asw_weaponl_incendiary_grenades"		"NA-23 Incendiary Grenades"
 "asw_weaponl_incendiary_grenades"		"NA-23 소이 수류탄"
 "[english]asw_wdesc_incendiary_grenades"		"A set of offhand contact based and timed napalm enriched incendiary grenades. Offering a high area of effect damage for indirect fire making them preferred for breach situations and crowd control against large hostile groups, as well as an on the go solution against areas infested with swarm biomass."
-"asw_wdesc_incendiary_grenades"		"접촉 및 지연 폭발 방식의 네이팜 강화형 화염 수류탄. 넓은 범위에 강력한 간접 피해를 입히며, 진입 작전이나 대규모 적 병력을 상대하는 군중 제압 상황에서 특히 효과적이다. 또한 감염 유기 구조체가 퍼진 지역을 빠르게 정리할 수 있는 실전 대응 무기로도 활용된다."
+"asw_wdesc_incendiary_grenades"		"접촉 및 지연 폭발 방식의 네이팜 강화형 화염 수류탄. 넓은 범위에 강력한 간접 피해를 입히며, 진입 작전이나 대규모 적 병력을 상대하는 군중 제압 상황에서 특히 효과적입니다. 또한 감염 유기 구조체가 퍼진 지역을 빠르게 정리할 수 있는 실전 대응 무기로도 활용됩니다."
 "[english]asw_weapon_incendiary_grenades_attributes"		"Ignites"
 "asw_weapon_incendiary_grenades_attributes"		"점화 부여"
 "[english]asw_weapon_speed_burst"		"Speed Burst"
