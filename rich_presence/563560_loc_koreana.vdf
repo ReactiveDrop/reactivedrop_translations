@@ -33,6 +33,13 @@
 		"#official_challenge_riflemod_classic"	"자동소총 모드"
 		"#official_challenge_rd_first_person"	"1인칭"
 		"#official_challenge_rd_third_person"	"3인칭"
+		"#official_challenge_asw_infection"	"감염"
+		"#official_challenge_asw_infection_fp"	"감염 1인칭"
+		"#official_challenge_asw_infection_tp"	"감염 3인칭"
+		"#official_challenge_asw_infectionclassic"	"감염 클래식"
+		"#official_challenge_asw_infectionclassic_fp"	"감염 클래식 1인칭"
+		"#official_challenge_asw_infectionclassic_tp"	"감염 클래식 3인칭"
+		"#official_challenge_traitors"	"배신자들!(마피아 게임 모드)"
 
 		"#official_mission_dm_desert"	"사막 데스매치"
 		"#official_mission_dm_deima"	"데이마 표면교 데스매치"

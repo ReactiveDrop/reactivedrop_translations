@@ -33,6 +33,13 @@
 		"#official_challenge_riflemod_classic"	"Gewehr Mod"
 		"#official_challenge_rd_first_person"	"Erste Person"
 		"#official_challenge_rd_third_person"	"Dritte Person"
+		"#official_challenge_asw_infection"	"Infektion"
+		"#official_challenge_asw_infection_fp"	"Infektion Erste Person"
+		"#official_challenge_asw_infection_tp"	"Infection Dritte Person"
+		"#official_challenge_asw_infectionclassic"	"Infektion Classic"
+		"#official_challenge_asw_infectionclassic_fp"	"Infektion Classic Erste Person"
+		"#official_challenge_asw_infectionclassic_tp"	"Infektion Classic Dritte Person"
+		"#official_challenge_traitors"	"Verräter! (Werwölfe-artig)"
 
 		"#official_mission_dm_desert"	"DM Wüste"
 		"#official_mission_dm_deima"	"DM Deima Brücke"

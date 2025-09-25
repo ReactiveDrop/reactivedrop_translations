@@ -6086,9 +6086,9 @@
 "[english]rd_weapon_fact_special_weapons_carry"		"Special Weapons can carry this equipment while deployed."
 "rd_weapon_fact_special_weapons_carry"		"重武手在部署后可以携带这种设备。"
 "[english]rd_weapon_fact_ignites"		"Ignites"
-"rd_weapon_fact_ignites"		"燃烧"
+"rd_weapon_fact_ignites"		"点燃"
 "[english]rd_weapon_fact_burning_dps"		"Burning deals 2.5 damage per second to aliens and 10 damage per second to humans."
-"rd_weapon_fact_burning_dps"		"燃烧，对异形每秒造成2.5点伤害，对人类每秒造成10点伤害。"
+"rd_weapon_fact_burning_dps"		"点燃后，对异形每秒造成2.5点伤害，对人类每秒造成10点伤害。"
 "[english]rd_weapon_fact_flashlight_toggle"		"Can be turned off and on."
 "rd_weapon_fact_flashlight_toggle"		"可以关闭和打开。"
 // A reference to https://www.youtube.com/watch?v=urMHvdLz0Jg&t=246s
@@ -6279,20 +6279,19 @@
 // EC = electric charge; also a reference to Amazon EC2, which stands for Elastic Compute Cloud, because these were originally part of the tech-only prototype rifle.
 "[english]asw_weaponl_stun_grenades"		"EC-02 Stun Grenades"
 "asw_weaponl_stun_grenades"		"EC-02眩晕手雷"
-// TODO
-"[english]asw_wdesc_stun_grenades"		""
-"asw_wdesc_stun_grenades"		""
+"[english]asw_wdesc_stun_grenades"		"A set of offhand lightweight stun grenades. These grenades deliver a high electric charge which renders the muscle motors of affected targets extremely weak for a short time. Being non-fatal makes them perfect for use in urban environments and against civilian crowds."
+"asw_wdesc_stun_grenades"		"一组轻便的眩晕手雷。这些手雷能产生高强度电击，短时间麻痹目标的肌肉。作为非致命武器，它们非常适合巷战及平民目标。"
+"[english]asw_weapon_stun_grenades_attributes"		"Splash Stun, Negligible Friendly Fire"
+"asw_weapon_stun_grenades_attributes"		"范围眩晕，无友伤"
 "[english]asw_weapon_incendiary_grenades"		"Incendiary Grenades"
 "asw_weapon_incendiary_grenades"		"燃烧手雷"
 // NA = napalm; -23 is a reference to gasoline's flashpoint, -23 degrees celsius.
 "[english]asw_weaponl_incendiary_grenades"		"NA-23 Incendiary Grenades"
 "asw_weaponl_incendiary_grenades"		"NA-23燃烧手雷"
-// TODO
-"[english]asw_wdesc_incendiary_grenades"		""
-"asw_wdesc_incendiary_grenades"		""
-// TODO
-"[english]asw_weapon_incendiary_grenades_attributes"		""
-"asw_weapon_incendiary_grenades_attributes"		""
+"[english]asw_wdesc_incendiary_grenades"		"A set of offhand contact based and timed napalm enriched incendiary grenades. Offering a high area of effect damage for indirect fire making them preferred for breach situations and crowd control against large hostile groups, as well as an on the go solution against areas infested with swarm biomass."
+"asw_wdesc_incendiary_grenades"		"一组兼具触发和定时引爆功能的凝固汽油燃烧手雷。能制造大面积燃烧伤害，因此在突击以及场控中颇受青睐，也可用来在移动中对付大片生物质体。"
+"[english]asw_weapon_incendiary_grenades_attributes"		"Ignites"
+"asw_weapon_incendiary_grenades_attributes"		"点燃"
 "[english]asw_weapon_speed_burst"		"Speed Burst"
 "asw_weapon_speed_burst"		"加速模块"
 // EX = exoskeleton; 981 is backwards 1890, the year when Nicholas Yagin invented US440684, (one of) the earliest known powered exoskeletons.
@@ -10528,6 +10527,8 @@
 //----instruction------
 "[english]challenge_traitors_not_enough_players"		"You need at least 3 players to play."
 "challenge_traitors_not_enough_players"		"这个挑战至少需要三个人"
+"[english]challenge_traitors_game_instruction0"		"This is an AmongUs-like / Werewolf-like game mode. There will be Traitors (bad marines) who want to kill all IAF marines (good marines) and sabotage the mission. Roles are randomly choosen. There are some special roles which have powerful skills. It is recommended to have 5 or more players to unlock more special roles."
+"challenge_traitors_game_instruction0"		"这是一个类似《Among Us》或《狼人杀》的游戏模式。游戏中将存在内鬼（坏人），他们企图杀害所有IAF队员（好人）并破坏任务。角色随机分配，部分特殊角色拥有强力技能。推荐5人以上以解锁更多特殊角色！"
 "[english]challenge_traitors_game_instruction1"		"IAF team OBJECTIVE: [Complete the mission]"
 "challenge_traitors_game_instruction1"		"IAF队员获胜条件： [完成整个任务]"
 "[english]challenge_traitors_game_instruction2"		"TRAITOR team OBJECTIVE: [Kill IAF team] or [Mission Failed, but traitor alive]"
@@ -10541,10 +10542,8 @@
 "challenge_traitors_game_instruction5"		"--- 队内聊天时注意输入法状态，输错命令可是会自爆的。"
 "[english]challenge_traitors_game_instruction6"		"--- Traitor Team can send \"/gg\" to initiate a team surrender vote. YES votes > 2/3 means IAF Team wins."
 "challenge_traitors_game_instruction6"		"--- 内鬼可以发送 \"/gg\" 投降。超过 2/3 同意则IAF队员胜利。"
-//It is intended to use 5ubscr1be  and w○rksh○p here to avoid Steam's checks on harmful texts or links. The checks targets all languages. 
-//Please be aware of the check while translating, otherwise you might make the add-on updates to be rejected by Steam since your translations are included in add-on vpk files.
-"[english]challenge_traitors_game_instruction7"		"--- If you can't see your skill menu after typing \"/\" in chat, please 5ubscr1be \"Traitors\" add-on in w○rksh○p"
-"challenge_traitors_game_instruction7"		"--- 如果看不到特殊技能的界面，请到创工意坊钉月“有内鬼”木莫组"
+"[english]challenge_traitors_game_instruction7"		""
+"challenge_traitors_game_instruction7"		""
 "[english]challenge_traitors_game_instruction8"		"--- You can use console command: bind \"o\" \"say /\" to fast open or close menu. Replace \"o\" with any key you like."
 "challenge_traitors_game_instruction8"		"--- 可以通过控制台命令：bind \"o\" \"say /\" 来绑定o作为快速开关扫描界面的按键。可以将o替换成任意其它按键。"
 
@@ -10648,8 +10647,8 @@
 "challenge_traitors_vgui_menu_scanner_2"		""
 "[english]challenge_traitors_vgui_menu_scanner_3"		"s."
 "challenge_traitors_vgui_menu_scanner_3"		"秒后可再次扫描。"
-"[english]challenge_traitors_vgui_menu_scanner_4"		"(Red : Traitor | Green : IAF)"
-"challenge_traitors_vgui_menu_scanner_4"		"(红：内鬼队伍 | 绿：IAF队伍)"
+"[english]challenge_traitors_vgui_menu_scanner_4"		"(Red: Traitor | Green: IAF | Blue: UDP packet has lost.)"
+"challenge_traitors_vgui_menu_scanner_4"		"(红：内鬼 | 绿：IAF | 蓝：网络差，UDP丢包)"
 "[english]challenge_traitors_role_chat_random_scan"		"For game balance considerations, the first several scans are randomized. The target should be within a certain range."
 "challenge_traitors_role_chat_random_scan"		"出于游戏平衡性考量，前几次扫描是随机的。目标必须在你附近一定范围内。"
 
@@ -10672,8 +10671,8 @@
 "challenge_traitors_vgui_menu_biochemist_3"		""
 "[english]challenge_traitors_vgui_menu_biochemist_4"		"s."
 "challenge_traitors_vgui_menu_biochemist_4"		"秒后可以发动技能"
-"[english]challenge_traitors_vgui_menu_biochemist_5"		"You have already used your skill."
-"challenge_traitors_vgui_menu_biochemist_5"		"技能用尽"
+"[english]challenge_traitors_vgui_menu_biochemist_5"		"You have already used your skill.(Blue: UDP packet has lost.)"
+"challenge_traitors_vgui_menu_biochemist_5"		"技能用尽(蓝：网络差，UDP丢包)"
 
 //iaf_leader
 "[english]challenge_traitors_role_article_iaf_leader"		"a"
@@ -10704,8 +10703,8 @@
 "challenge_traitors_vgui_menu_shield_2"		""
 "[english]challenge_traitors_vgui_menu_shield_3"		"s."
 "challenge_traitors_vgui_menu_shield_3"		"秒后可以发动技能"
-"[english]challenge_traitors_vgui_menu_shield_4"		"You have already used your skill."
-"challenge_traitors_vgui_menu_shield_4"		"技能用尽"
+"[english]challenge_traitors_vgui_menu_shield_4"		"You have already used your skill.(Blue: UDP packet has lost.)"
+"challenge_traitors_vgui_menu_shield_4"		"技能用尽(蓝：网络差，UDP丢包)"
 
 //sniper
 "[english]challenge_traitors_role_article_sniper"		"a"
@@ -10725,7 +10724,7 @@
 "[english]challenge_traitors_role_name_demo"		"Explosive Expert"
 "challenge_traitors_role_name_demo"		"爆破专家"
 "[english]challenge_traitors_role_chat_role_description_demo"		"You bring many explosives to support your team in killing aliens. You decide to trigger an area explosion upon death, trying to damage potential traitors nearby."
-"challenge_traitors_role_chat_role_description_demo"		"你携带了大量用于对抗异形的爆炸物。然而队友背叛了你。于是你在临死前引爆炸药，试图消灭周围的内鬼。希望这个举动不会误伤真正的队友。。"
+"challenge_traitors_role_chat_role_description_demo"		"你携带了大量用于对抗异形的爆炸物。然而队友背叛了你。于是你在临死前引爆炸药，试图消灭周围的内鬼。希望这个举动不会误伤真正的队友。"
 "[english]challenge_traitors_role_chat_skill_description_demo"		""
 "challenge_traitors_role_chat_skill_description_demo"		""
 "[english]challenge_traitors_role_hud_role_description_demo"		"You will explode when you die."
@@ -10786,8 +10785,8 @@
 "challenge_traitors_vgui_menu_infector_3"		""
 "[english]challenge_traitors_vgui_menu_infector_4"		"s."
 "challenge_traitors_vgui_menu_infector_4"		"秒后可以发动策反技能"
-"[english]challenge_traitors_vgui_menu_infector_5"		"You have already used your skill."
-"challenge_traitors_vgui_menu_infector_5"		"技能用尽"
+"[english]challenge_traitors_vgui_menu_infector_5"		"You have already used your skill.(Blue: UDP packet has lost.)"
+"challenge_traitors_vgui_menu_infector_5"		"技能用尽(蓝：网络差，UDP丢包)"
 
 //boomer
 "[english]challenge_traitors_role_article_boomer"		"a"
@@ -10818,8 +10817,8 @@
 "challenge_traitors_vgui_menu_silencer_2"		""
 "[english]challenge_traitors_vgui_menu_silencer_3"		"s."
 "challenge_traitors_vgui_menu_silencer_3"		"秒后可以发动技能"
-"[english]challenge_traitors_vgui_menu_silencer_4"		"You have already used your skill."
-"challenge_traitors_vgui_menu_silencer_4"		"技能用尽"
+"[english]challenge_traitors_vgui_menu_silencer_4"		"You have already used your skill.(Blue: UDP packet has lost.)"
+"challenge_traitors_vgui_menu_silencer_4"		"技能用尽(蓝：网络差，UDP丢包)"
 
 //mimic
 "[english]challenge_traitors_role_article_mimic"		"a"

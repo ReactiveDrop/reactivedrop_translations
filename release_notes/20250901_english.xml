@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<content>
+<string id="body">Special thanks to Dmitriy, Mithrand, jhheight, 法克尤尔马泽尔, and Grimowy for the majority of the changes in this update.
+
+[h2]New Game Mode: "Traitors!"[/h2]
+
+Commander,
+
+As the human shield, the IAF has achieved great victories in countless battles against the swarm, but also suffered tremendous losses. We sincerely thank you and your squad members for your outstanding contributions in defending against the alien threat over this long period!
+
+Now, the IAF faces an unprecedented crisis! In the many confrontations, the aliens have quietly evolved: Their Queen has acquired a special ability - mind control. During combat, she has stealthily infected some IAF marines' minds, turning them into infiltrators who compromise IAF squads and sabotage missions. These controlled marines appear no different from normal troops, may possess special abilities, and can rise up during a mission to kill their teammates. Please exercise extreme caution and vigilance on your missions!
+
+Of course, we have also dispatched experts equipped with professional gear to assist you. Protect them well - they may prove decisive in critical moments.
+
+Wishing you all the best!
+
+Dr. Helvetica Scenario
+Ecological Consistency Dept.
+Office of Consensus Maintenance
+
+[h3]About [b]Traitors![/b] Challenge[/h3]
+[b]Traitors![/b] challenge is a game mode that combines PvE, PvP, and deduction elements in a [b]Werewolf / AmongUs style[/b] format. Players are divided into the [b]IAF Team[/b] (good faction) and the [b]Traitor Team[/b] (bad faction). The IAF Team must guard against traitor ambushes and complete mission objectives, while the Traitor Team must find ways to prevent the IAF from succeeding.
+
+In this challenge, the [b]Traitor Team[/b] knows each other's identities, while the [b]IAF Team[/b] does not. The [b]Traitor Team[/b] needs to develop strategies (such as assassination, identity disguise, or passive combat) to thwart the IAF Team's objectives. The [b]IAF Team[/b] must observe others' words and actions to find traitors and eliminate them, ensuring mission success. Both sides have various special roles with powerful abilities. And several balance adjustments favoring newcomers have been added to make matches more tense and exciting.
+
+[h3]Team Composition[/h3][list]
+[*]At least [b]3 players[/b] are required for a match to start.
+[*]Players are randomly assigned to the [b]IAF Team[/b] or the [b]Traitor Team[/b], and may be granted special roles and abilities for their faction.
+[*]When a player takes over a Traitor Bot, they automatically join the Traitor Team and cannot defect.
+[/list]
+
+[h3]Victory Conditions[/h3][olist]
+[*][b]IAF Team[/b] Victory Conditions[list]
+[*]Complete the entire mission;
+[*]Or the Traitors surrender.
+[/list]
+[*][b]Traitor Team[/b] Victory Conditions[list]
+[*]Eliminate all [b]IAF Team[/b] members;
+[*]Or the mission fails with at least one Traitor survives.
+[/list]
+[*]If all players die during the mission, the match is a draw.
+[/olist]
+
+[h3]Surrender Mechanics[/h3]
+Traitors can send [b]/gg[/b] in chat to initiate a vote. If more than 2/3 of Traitor players agree within [b]20s[/b], the IAF Team is declared the winner. If the vote expires, the game continues.
+
+[h3]Chat &amp; Commands[/h3][list]
+[*]Typing `/` (slash) alone in chat opens/closes the skill menu.
+[*]Traitors can send messages starting with `/` to chat privately with their faction (visible only to Traitors).
+[*]Traitors sending `/gg` in chat can initiate a surrender vote.
+[/list]
+
+[h3]Shortcut Key Binding[/h3]
+In the console, enter:
+[code]bind "o" "say /"[/code]
+This binds the "o" key to quickly open/close the skill menu. You may replace "o" with any other key.
+
+[h3]Special Roles &amp; Abilities[/h3]
+[b]IAF Team[/b][olist]
+[*]Alien Expert[list]
+[*][b]Description:[/b] Carries a Bio-Scanner that can scan nearby players and reveal their faction (Red: Traitor; Green: IAF).
+[*]Scanning has a cooldown.
+[*]For game balance, the first few scan targets are randomly choosen; only targets within a certain range can be scanned.
+[/list]
+[*]Biochemist[list]
+[*][b]Description:[/b] Possesses two special biochemical agents.
+[*]Healing Vial: Grants hidden health to the target (except self), cures infections, and extinguishes fire.
+[*]Lethal Vial: Instantly kills any target (can select yourself as the target).
+[/list]
+[*]Colonel[list]
+[*][b]Description:[/b] Acts as squad commander with extra hidden health. Hidden health is consumed right before your marine dies so that to save your marine, making you more durable.
+[/list]
+[*]Mechanic[list]
+[*][b]Description:[/b] Owns a Mech that can reduce incoming damage when worn.
+[*][b]Limitation:[/b] Cannot wear it yourself; you can give it to a trusted teammate.
+[/list]
+[*]Sniper[list]
+[*][b]Description:[/b] Excels at long-range precision shots. When killed, you detonate a final bullet that kills the killer, resulting in a mutual kill.
+[/list]
+[*]Explosive Expert[list]
+[*][b]Description:[/b] Carries explosives; upon death, detonates your explosives, dealing area damage to nearby marines.
+[*][b]Note:[/b] Risks injuring teammates. Explosion damage falls off with distance; may not be lethal if far enough. Walls and obstacles greatly reduce damage.
+[/list]
+[*]Deserter[list]
+[*][b]Description:[/b] In a near-death state, you flee the battlefield.
+[*]Gain 30 seconds of invulnerability (cannot attack or be attacked by other marines) to escape.
+[*]After invulnerability, your damage is greatly reduced for 90 seconds, then partially recovers but never returns to the original level.
+[*][b]Note:[/b] The HUD may show a player as "a Deserter in IAF Team", but they could be a Traitor (a Deserter abeted by Suborner). If used skillfully, a Deserter becomes a 30s human shield and a wild card on the battlefield.
+[/list][/olist]
+
+[b]Traitor Team[/b][olist]
+[*]Traitor Leader[list]
+[*][b]Description:[/b] Similar to Colonel, with extra hidden health, making you more durable than a normal Traitor.
+[/list]
+[*]Suborner[list]
+[*][b]Description:[/b] When Traitors are heavily outnumbered, you can convert one IAF member into a Traitor.
+[*][b]Note:[/b] Only possible if (Surviving IAF / Surviving Traitors) &gt; 5/3 after the conversion.
+[/list]
+[*]Suicide Boomer[list]
+[*][b]Description:[/b] Can initiate a suicide bomb attack; 5 seconds after activation, you detonate, causing area damage to nearby players.
+[*][b]Note:[/b] Risks injuring Traitors. Explosion damage falls off with distance; may not be lethal if far enough. Walls and obstacles greatly reduce damage.
+[/list]
+[*]Silencer[list]
+[*][b]Description:[/b] Projects a unique bio-field that suppresses a target's active abilities, rendering them unusable.
+[/list]
+[*]Mimic[list]
+[*][b]Description:[/b] Has a Quantum Holographic Cloak that causes the Alien Expert's scanner to identify you as an IAF member.
+[/list][/olist]
+
+[h3]Major Balance Adjustments[/h3][olist]
+[*][b]Starting Protection[/b] For a brief period after the game starts, all players are [b]immune to damage from other players[/b] to allow developing strategies. The protection duration varies by map.
+[*][b]Grenades[/b] Grenade fuse times are lengthened to give players more reaction time, preventing instant massive kills and preserving the deduction core of the challenge.
+[*][b]Flashbangs[/b] The original flares have been replaced with flashbangs.[expand type=details][list]
+[*]Detonate 2-4 seconds after being thrown.
+[*]Depending on face orientation, distance, and head obstruction, they cause varying durations and intensities of blindness.
+[*]While blinded, damage from sniper weapons drops to zero; other weapon damage is reduced accroding to the blindness intensity.
+[/list][/expand]
+[*][b]Terrain-related Damage[/b] Reduces the dominance of high ground and long-distance sniping to avoid overpowered suppression.[expand type=details][list]
+[*]When target's vertical height difference &lt; 200 units and horizontal distance &lt; 1200 units, normal damage applies.
+[*]When target's vertical height difference &gt; 300 units or horizontal distance &gt; 1600 units, no damage is dealt.
+[*]In all other cases, damage falls off gradually with increasing distance.
+[/list][/expand]
+[*][b]Melee Knockdown[/b] Melee attacks have a chance to knockdown another marine.[expand type=details][list]
+[*]Melee attacks have a chance to knock down the opponent, adding randomness and excitement to close-quarters combat.
+[*]Knockdown chance depends on the target's facing direction: lower from the front, higher from behind.
+[*]Wearing Power Fist significantly increases knockdown chance.
+[/list][/expand]
+[*][b]Weapon Damage Balancing[/b] Using the 50CMG4-1 (.50 caliber heavy machine gun) as a baseline, other weapons' damages have been adjusted considering differences in range and bullet spread.
+[*][b]Parameter Randomization[/b] Certain parameters randomly change every 20s to increase overall unpredictability.
+[/olist]
+
+[h3]Misc[/h3]
+[b]Silence Notification[/b]
+If a Silencer successfully targets you, you will receive a notification and be unable to use your abilities.
+
+[b]Traitor List Updates[/b]
+If an IAF member is successfully converted by a Suborner or someone takes over a Traitor Bot, you will receive an update notification. You can check the "Traitor List" on your HUD to confirm current Traitor members.
+
+[b]Weapon Pickup Restrictions[/b]
+To maintain game balance, certain weapon combinations cannot be carried at the same time. If you pick up a conflicting weapon, the game will automatically drop the conflicting one.
+
+[h2]Weapons[/h2]
+[list]
+[*][b]IAF HAS42 Devastator:[/b] Pressing secondary fire now enters "lock mode", turning the marine into a stationary turret. This increases fire rate and bullet penetration. Pressing secondary fire again, rolling, using movement-causing offhand items (like the jump jets), switching weapons, melee attacking, or being damaged will deactivate "lock mode".
+[*][b]IAF HAS42 Devastator:[/b] Slightly increased base damage so that both special weapons marines can kill drones on Brutal in one hit if all the pellets connect.
+[*][b]IAF HAS42 Devastator:[/b] Reduced marine run speed penalty while deployed from 70% to 90%. For comparison, the autogun has an 80% penalty, and the minigun has a 95% penalty. Run speed penalty while shooting remains 30%.
+[*][b]IAF Medical SMG:[/b] This gun is now more accurate while crouching.
+[*]Made the EC-02 Stun Grenades (currently in development) available to all players for testing purposes.
+[*]Fixed several types of non-Vindicator grenades showing the Vindicator grenade particle effect.
+[/list]
+
+[h2]Aliens[/h2]
+[list]
+[*]Fixed several cases where Buzzers could get stuck inside the ground.
+[*]Buzzers now activate based on proximity rather than when they can be seen by the camera.
+[*]Increased Buzzer vision radius to 1024 units.
+[*]Improved Buzzers' responsiveness to mapper commands like "Spread then hibernate" (they now move to a random nearby position before waiting for the player) and "Move to nearest marine" (Buzzers now periodically update the position they are trying to move to; before, far-away Buzzers could end up going to somewhere the marines left a while ago).
+[*]Known issue: Buzzers with the "Move to ignoring marines" mapper command may continue to ignore marines after reaching their target.
+[/list]
+
+[h2]Missions[/h2]
+[list]
+[*][b]Jacob's Rest: Cargo Elevator:[/b] Fixed a supply box near the first door potentially causing marines to get stuck.
+[*][b]Jacob's Rest: SynTek Residential:[/b] Removed an invisible wall near some biomass.
+[*][b]Jacob's Rest: Sewer Junction B5:[/b] Fixed some alien spawn locations being embedded in concrete.
+[*][b]Jacob's Rest: Sewer Junction B5:[/b] Fixed some buzzers spawning at the start of the mission rather than when they were intended to.
+[*][b]Tilarus-5: Midnight Port[/b] Fixed a hole in a wall visible with rotated camera.
+[*][b]Tears for Tarnor: (all missions):[/b] Fixed breakable boxes generating zero-charge combat flares.
+[*][b]Lana's Escape: Lana's Maintenance:[/b] Fixed the "press top-right button" hint showing after the button had already been pressed.
+[*][b]BioGen Corporation: Operation X5:[/b] Static sentry guns no longer deal friendly fire damage.
+[*][b]IAF Marine Academy:[/b] Fixed skybox being too low in the lava arena. (This was causing problems with grenade launcher aiming.)
+[*]Fixed alien and bot marine navigation issues across many missions.
+[/list]
+
+[h2]UI[/h2]
+[list]
+[*]Added a "Thanks!" emote. (cl_emote 14) For now, the icon is only in English, but it will be translated later.
+[*]Muting a player now also hides their minimap drawings.
+[*]Fixed main menu performance issues caused by Workshop download state updating too often.
+[/list]
+
+[h2]Mapping and Modding[/h2]
+[list]
+[*]asw_sniper_scope_radius is no longer cheat-protected. You can now make the Marksman Rifle scope hidden, or make it larger than your screen, if you so desire.
+[*]rd_server_marine_backpacks is no longer cheat-protected. rd_client_marine_backpacks is now -1 by default (use server setting). rd_client_marine_backpacks 0 will now disable weapons-on-back even if the server requests them.
+[*]asw_fix_cam is no longer cheat-protected. It can be used for freecam while spectating.
+[*]Added rd_devastator_bullet_spread_duck convar (cheat-protected) for use by challenges.
+[*]Added rd_botadd_sv console command for server operators.
+[*]Added support for the AlterDeathMessage VScript hook function.
+[*]Fixed memory leak in TraceLineTable VScript function.
+[*]Added ForceSync() to VScript UI entities, which allows the client to discard its predicted state and go back to the last known server state even if the server has not sent an update yet. This is useful for client-side-only UI logic.
+[*]Video files in addons can now also be webm files. Previously, they could only be bik files.
+[/list]
+</string>
+<string id="subtitle">Traitors! Aliens! Weapons! Oh my!</string>
+<string id="summary"></string>
+<string id="title">AS:RD Update - September 1, 2025 "Electrical Hum"</string>
+</content>

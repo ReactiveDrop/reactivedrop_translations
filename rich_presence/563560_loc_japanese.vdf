@@ -33,6 +33,13 @@
 		"#official_challenge_riflemod_classic"	"ライフル Mod"
 		"#official_challenge_rd_first_person"	"一人称視点モード"
 		"#official_challenge_rd_third_person"	"三人称視点モード"
+		"#official_challenge_asw_infection"	"感染モード"
+		"#official_challenge_asw_infection_fp"	"感染モード(一人称)"
+		"#official_challenge_asw_infection_tp"	"感染モード(三人称)"
+		"#official_challenge_asw_infectionclassic"	"感染モード(クラシック)"
+		"#official_challenge_asw_infectionclassic_fp"	"感染モード(クラシック一人称)"
+		"#official_challenge_asw_infectionclassic_tp"	"感染モード(クラシック三人称)"
+		"#official_challenge_traitors"	"裏切者！(人狼ゲーム系モード)"
 
 		"#official_mission_dm_desert"	"DM Desert"
 		"#official_mission_dm_deima"	"DM Deima Surface Bridge"

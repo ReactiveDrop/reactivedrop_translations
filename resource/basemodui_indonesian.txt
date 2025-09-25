@@ -844,7 +844,7 @@
 "[english]L4D360UI_Lobby_ScreenHelp_Game_Starting"		"Starting Game in %s1 Seconds..."
 "L4D360UI_Lobby_ScreenHelp_Game_Starting"		"Memulai Permainan dalam %s1 Detik..."
 "[english]L4D360UI_Lobby_ScreenHelp_Game_Started_Wait"		"Connecting to Game..."
-"L4D360UI_Lobby_ScreenHelp_Game_Started_Wait"		"Menghubungkan ke Permainan..."	
+"L4D360UI_Lobby_ScreenHelp_Game_Started_Wait"		"Menghubungkan ke Permainan..."
 "[english]L4D360UI_Lobby_ScreenHelp_LeaderSearchingForGame"		"Leader is Searching for Game..."
 "L4D360UI_Lobby_ScreenHelp_LeaderSearchingForGame"		"Pemimpin Sedang Mencari Permainan..."
 "[english]L4D360UI_Lobby_ScreenHelp_SettingUpLobby"		"Setting up Lobby..."
