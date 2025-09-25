@@ -232,6 +232,23 @@ var officialChallenges = [...]string{
 	"riflemod_classic",
 	"rd_first_person",
 	"rd_third_person",
+	"asw_infection",
+	"asw_infection_fp",
+	"asw_infection_tp",
+	"asw_infectionclassic",
+	"asw_infectionclassic_fp",
+	"asw_infectionclassic_tp",
+	"traitors",
+}
+
+var officialChallengeStringOverride = map[string]string{
+	"asw_infection":           "asw_infection",
+	"asw_infection_fp":        "asw_infection_fp",
+	"asw_infection_tp":        "asw_infection_tp",
+	"asw_infectionclassic":    "asw_infectionClassic",
+	"asw_infectionclassic_fp": "asw_infectionClassic_fp",
+	"asw_infectionclassic_tp": "asw_infectionClassic_tp",
+	"traitors":                "challenge_traitors_name",
 }
 
 var officialMissions = [...]string{

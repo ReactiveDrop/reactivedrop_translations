@@ -73,7 +73,7 @@
 "[english]vgui_select"		"Select"
 "vgui_select"		"選擇"
 "[english]vgui_createfolder"		"Create Folder..."
-"vgui_createfolder"		"開創資料夾..."
+"vgui_createfolder"		"建立資料夾..."
 "[english]vgui_next"		"Next >"
 "vgui_next"		"下一個 >"
 "[english]vgui_back"		"< Back"
@@ -167,7 +167,7 @@
 "IME_040a"		"西班牙文 （西班牙，傳統型）"
 
 "[english]KBEditorTitle"		"Key Bindings Editor"
-"KBEditorTitle"		"熱鍵編輯器"
+"KBEditorTitle"		"快捷鍵編輯器"
 "[english]KBEditorSave"		"OK"
 "KBEditorSave"		"確定"
 "[english]KBEditorCancel"		"Cancel"
@@ -179,7 +179,7 @@
 "[english]KBEditorBindingName"		"Name"
 "KBEditorBindingName"		"姓名"
 "[english]KBEditorBinding"		"Current Binding"
-"KBEditorBinding"		"目前的熱鍵"
+"KBEditorBinding"		"目前的快捷鍵"
 "[english]KBEditorModifiers"		"Modifiers"
 "KBEditorModifiers"		"修改器"
 "[english]KBEditorCommand"		"Command"
@@ -388,7 +388,7 @@
 "DmePresetRemapPanel_RemovePreset"		"清除來源預設"
 
 "[english]Console_Title"		"Console"
-"Console_Title"		"命令列"
+"Console_Title"		"控制台"
 "[english]Console_Submit"		"Submit"
 "Console_Submit"		"送出"
 }

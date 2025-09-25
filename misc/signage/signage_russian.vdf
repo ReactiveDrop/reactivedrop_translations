@@ -153,5 +153,7 @@
 "materials/swarm/decals/securitycheckdecal.vmt"		"ОХРАНА"
 "[english]materials/swarm/decals/supplyroomdecal.vmt"		"SUPPLY ROOM"
 "materials/swarm/decals/supplyroomdecal.vmt"		"СКЛАД"
+"[english]materials/vgui/swarm/emotes/emotethanks.vmt"		"THANKS"
+"materials/vgui/swarm/emotes/emotethanks.vmt"		"СПАСИБО"
 }
 }

@@ -33,6 +33,13 @@
 		"#official_challenge_riflemod_classic"	"Solamente Rifles"
 		"#official_challenge_rd_first_person"	"Primera persona"
 		"#official_challenge_rd_third_person"	"Tercera persona"
+		"#official_challenge_asw_infection"	"Infección"
+		"#official_challenge_asw_infection_fp"	"Infección en primera persona"
+		"#official_challenge_asw_infection_tp"	"Infección en tercera persona"
+		"#official_challenge_asw_infectionclassic"	"Infección clásica"
+		"#official_challenge_asw_infectionclassic_fp"	"Infección clásica en primera persona"
+		"#official_challenge_asw_infectionclassic_tp"	"Infección clásica en tercera persona"
+		"#official_challenge_traitors"	"Traitors!(Werewolf-like Mode)"
 
 		"#official_mission_dm_desert"	"Desierto (DM)"
 		"#official_mission_dm_deima"	"Puente de la Superficie de la Deima (DM)"
