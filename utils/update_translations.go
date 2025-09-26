@@ -654,6 +654,9 @@ func updateRichPresence(lang string) {
 
 	for _, s := range officialChallenges {
 		name := findString("rd_challenge_name_" + s)
+		if key, ok := officialChallengeStringOverride[s]; ok {
+			name = findString(key)
+		}
 
 		check(fmt.Fprintf(f, "\t\t\"#official_challenge_%s\"\t\"", s))
 		check(vdf.Escape.WriteString(f, name))

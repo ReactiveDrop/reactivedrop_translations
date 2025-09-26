@@ -33,6 +33,13 @@
 		"#official_challenge_riflemod_classic"	"Rifle Mod"
 		"#official_challenge_rd_first_person"	"First Person"
 		"#official_challenge_rd_third_person"	"Third Person"
+		"#official_challenge_asw_infection"	"Infection"
+		"#official_challenge_asw_infection_fp"	"Infection First Person"
+		"#official_challenge_asw_infection_tp"	"Infection Third Person"
+		"#official_challenge_asw_infectionclassic"	"Infection Classic"
+		"#official_challenge_asw_infectionclassic_fp"	"Infection Classic First Person"
+		"#official_challenge_asw_infectionclassic_tp"	"Infection Classic Third Person"
+		"#official_challenge_traitors"	"Traitors!(Werewolf-like Mode)"
 
 		"#official_mission_dm_desert"	"DM Desert"
 		"#official_mission_dm_deima"	"DM Deima Surface Bridge"

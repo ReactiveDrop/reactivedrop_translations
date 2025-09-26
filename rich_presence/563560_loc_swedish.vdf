@@ -33,6 +33,13 @@
 		"#official_challenge_riflemod_classic"	"Gevär Mod"
 		"#official_challenge_rd_first_person"	"Första Person"
 		"#official_challenge_rd_third_person"	"Tredje Person"
+		"#official_challenge_asw_infection"	"Infektion"
+		"#official_challenge_asw_infection_fp"	"Infektion Första Person"
+		"#official_challenge_asw_infection_tp"	"Infektion Tredje Person"
+		"#official_challenge_asw_infectionclassic"	"Infektion Klassisk"
+		"#official_challenge_asw_infectionclassic_fp"	"Infektion Klassisk Första Person"
+		"#official_challenge_asw_infectionclassic_tp"	"Infektion Klassisk Tredje Person"
+		"#official_challenge_traitors"	"Förrädare!(Varulvsliknande läge)"
 
 		"#official_mission_dm_desert"	"DM Öken"
 		"#official_mission_dm_deima"	"DM Deima Ytbro"

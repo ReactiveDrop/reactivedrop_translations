@@ -33,6 +33,13 @@
 		"#official_challenge_riflemod_classic"	"Режим винтовок"
 		"#official_challenge_rd_first_person"	"От первого лица"
 		"#official_challenge_rd_third_person"	"От третьего лица"
+		"#official_challenge_asw_infection"	"Заражение"
+		"#official_challenge_asw_infection_fp"	"Заражение - От первого лица"
+		"#official_challenge_asw_infection_tp"	"Заражение - От третьего лица"
+		"#official_challenge_asw_infectionclassic"	"Заражение (классика)"
+		"#official_challenge_asw_infectionclassic_fp"	"Заражение (классика) - От первого лица"
+		"#official_challenge_asw_infectionclassic_tp"	"Заражение (классика) - От третьего лица"
+		"#official_challenge_traitors"	"Предатели!(Режим Мафии)"
 
 		"#official_mission_dm_desert"	"Бойня в пустыне"
 		"#official_mission_dm_deima"	"Бойня на мосту Дэйма"

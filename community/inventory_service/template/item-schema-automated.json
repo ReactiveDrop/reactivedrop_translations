@@ -1436,6 +1436,24 @@
 			"name": "stack HoIAF top20 medals (green red yellow blue)",
 			"bundle": "107x2",
 			"exchange": "35,105;79,105;35,15;35,107;79,15;79,107;36,103;81,103;36,15;36,107;81,15;81,107;37,101;83,101;37,15;37,107;83,15;83,107;38,99;85,99;38,15;38,107;85,15;85,107;87,97;87,103;87,105;87,15;87,107;89,95;89,101;89,105;89,15;89,107;91,93;91,99;91,105;91,15;91,107;93,101;93,103;93,15;93,107;95,99;95,103;95,15;95,107;97,99;97,101;97,15;97,107;99,101;99,103;99,105;99,15;99,107;101,103;101,105;101,15;101,107;103,105;103,15;103,107;105,15;105,107;15x2;15,107"
+		},
+		{
+			"itemdefid": 109,
+			"type": "item",
+			"name_%LANG%": "{#item_event_medal_pvpfest2026_name}",
+			"description_%LANG%": "{#item_event_medal_pvpfest2026_description}",
+			"display_type_%LANG%": "{#item_display_type_event_medal_uncommon}",
+			"icon_url": "https://stats.reactivedrop.com/static/medals/steam_pvp_fest_2026.png",
+			"name_color": "{#item_color_uncommon}",
+			"tags": "rarity:uncommon;slot:medal",
+			"item_slot": "medal"
+		},
+		{
+			"itemdefid": 110,
+			"type": "bundle",
+			"name": "PvP Fest 2026 medal grant",
+			"bundle": "109",
+			"granted_manually": true
 		}
 	]
 }

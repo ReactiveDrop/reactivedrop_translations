@@ -33,6 +33,13 @@
 		"#official_challenge_riflemod_classic"	"Mod. Fucile"
 		"#official_challenge_rd_first_person"	"Prima Persona"
 		"#official_challenge_rd_third_person"	"Terza Persona"
+		"#official_challenge_asw_infection"	"Infezione"
+		"#official_challenge_asw_infection_fp"	"Infezione in Prima Persona"
+		"#official_challenge_asw_infection_tp"	"Infezione in Terza Persona"
+		"#official_challenge_asw_infectionclassic"	"Infezione Classica"
+		"#official_challenge_asw_infectionclassic_fp"	"Infezione Classica in Prima Persona"
+		"#official_challenge_asw_infectionclassic_tp"	"Infezione Classica in Terza Persona"
+		"#official_challenge_traitors"	"Traditori!(Modalità in stile lupo mannaro)"
 
 		"#official_mission_dm_desert"	"Deserto DM"
 		"#official_mission_dm_deima"	"Ponte della Superfice di Deima DM"
