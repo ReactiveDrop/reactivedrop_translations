@@ -10672,8 +10672,8 @@
 "challenge_traitors_vgui_menu_biochemist_3"		"Skicklighet blir redo om "
 "[english]challenge_traitors_vgui_menu_biochemist_4"		"s."
 "challenge_traitors_vgui_menu_biochemist_4"		"s."
-		"[english]challenge_traitors_vgui_menu_biochemist_5"		"You have already used your skill.(Blue: UDP packet has lost.)"
-		"challenge_traitors_vgui_menu_biochemist_5"		"You have already used your skill.(Blue: UDP packet has lost.)"
+"[english]challenge_traitors_vgui_menu_biochemist_5"		"You have already used your skill.(Blue: UDP packet has lost.)"
+"challenge_traitors_vgui_menu_biochemist_5"		"Du har redan använt din skicklighet.(Blå: UDP packet har förlorat.)"
 
 //iaf_leader
 "[english]challenge_traitors_role_article_iaf_leader"		"a"
@@ -10704,8 +10704,8 @@
 "challenge_traitors_vgui_menu_shield_2"		"Skicklighet blir redo om "
 "[english]challenge_traitors_vgui_menu_shield_3"		"s."
 "challenge_traitors_vgui_menu_shield_3"		"s."
-		"[english]challenge_traitors_vgui_menu_shield_4"		"You have already used your skill.(Blue: UDP packet has lost.)"
-		"challenge_traitors_vgui_menu_shield_4"		"You have already used your skill.(Blue: UDP packet has lost.)"
+"[english]challenge_traitors_vgui_menu_shield_4"		"You have already used your skill.(Blue: UDP packet has lost.)"
+"challenge_traitors_vgui_menu_shield_4"		"Du har redan använt din skicklighet.(Blå: UDP packet har förlorat.)"
 
 //sniper
 "[english]challenge_traitors_role_article_sniper"		"a"
@@ -10786,8 +10786,8 @@
 "challenge_traitors_vgui_menu_infector_3"		"Skicklighet blir redo om "
 "[english]challenge_traitors_vgui_menu_infector_4"		"s."
 "challenge_traitors_vgui_menu_infector_4"		"s."
-		"[english]challenge_traitors_vgui_menu_infector_5"		"You have already used your skill.(Blue: UDP packet has lost.)"
-		"challenge_traitors_vgui_menu_infector_5"		"You have already used your skill.(Blue: UDP packet has lost.)"
+"[english]challenge_traitors_vgui_menu_infector_5"		"You have already used your skill.(Blue: UDP packet has lost.)"
+"challenge_traitors_vgui_menu_infector_5"		"Du har redan använt din skicklighet.(Blå: UDP packet har förlorat.)"
 
 //boomer
 "[english]challenge_traitors_role_article_boomer"		"a"
@@ -10818,8 +10818,8 @@
 "challenge_traitors_vgui_menu_silencer_2"		"Skicklighet blir redo om "
 "[english]challenge_traitors_vgui_menu_silencer_3"		"s."
 "challenge_traitors_vgui_menu_silencer_3"		"s."
-		"[english]challenge_traitors_vgui_menu_silencer_4"		"You have already used your skill.(Blue: UDP packet has lost.)"
-		"challenge_traitors_vgui_menu_silencer_4"		"You have already used your skill.(Blue: UDP packet has lost.)"
+"[english]challenge_traitors_vgui_menu_silencer_4"		"You have already used your skill.(Blue: UDP packet has lost.)"
+"challenge_traitors_vgui_menu_silencer_4"		"Du har redan använt din skicklighet.(Blå: UDP packet har förlorat.)"
 
 //mimic
 "[english]challenge_traitors_role_article_mimic"		"a"
