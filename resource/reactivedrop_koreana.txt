@@ -6279,19 +6279,19 @@
 // EC = electric charge; also a reference to Amazon EC2, which stands for Elastic Compute Cloud, because these were originally part of the tech-only prototype rifle.
 "[english]asw_weaponl_stun_grenades"		"EC-02 Stun Grenades"
 "asw_weaponl_stun_grenades"		"EC-02 경직 수류탄"
-		"[english]asw_wdesc_stun_grenades"		"A set of offhand lightweight stun grenades. These grenades deliver a high electric charge which renders the muscle motors of affected targets extremely weak for a short time. Being non-fatal makes them perfect for use in urban environments and against civilian crowds."
-		"asw_wdesc_stun_grenades"		"A set of offhand lightweight stun grenades. These grenades deliver a high electric charge which renders the muscle motors of affected targets extremely weak for a short time. Being non-fatal makes them perfect for use in urban environments and against civilian crowds."
-		"[english]asw_weapon_stun_grenades_attributes"		"Splash Stun, Negligible Friendly Fire"
-		"asw_weapon_stun_grenades_attributes"		"Splash Stun, Negligible Friendly Fire"
+"[english]asw_wdesc_stun_grenades"		"A set of offhand lightweight stun grenades. These grenades deliver a high electric charge which renders the muscle motors of affected targets extremely weak for a short time. Being non-fatal makes them perfect for use in urban environments and against civilian crowds."
+"asw_wdesc_stun_grenades"		"경량형 전기 충격 수류탄. 대상에게 고전압 전류를 가해 일시적으로 근육 반응을 마비시키며, 비살상 설계 덕분에 시위 혹은 폭동 진압에 적합합니다."
+"[english]asw_weapon_stun_grenades_attributes"		"Splash Stun, Negligible Friendly Fire"
+"asw_weapon_stun_grenades_attributes"		"광역 경직 효과, 약한 아군 피해량"
 "[english]asw_weapon_incendiary_grenades"		"Incendiary Grenades"
 "asw_weapon_incendiary_grenades"		"소이 수류탄"
 // NA = napalm; -23 is a reference to gasoline's flashpoint, -23 degrees celsius.
 "[english]asw_weaponl_incendiary_grenades"		"NA-23 Incendiary Grenades"
 "asw_weaponl_incendiary_grenades"		"NA-23 소이 수류탄"
-		"[english]asw_wdesc_incendiary_grenades"		"A set of offhand contact based and timed napalm enriched incendiary grenades. Offering a high area of effect damage for indirect fire making them preferred for breach situations and crowd control against large hostile groups, as well as an on the go solution against areas infested with swarm biomass."
-		"asw_wdesc_incendiary_grenades"		"A set of offhand contact based and timed napalm enriched incendiary grenades. Offering a high area of effect damage for indirect fire making them preferred for breach situations and crowd control against large hostile groups, as well as an on the go solution against areas infested with swarm biomass."
-		"[english]asw_weapon_incendiary_grenades_attributes"		"Ignites"
-		"asw_weapon_incendiary_grenades_attributes"		"Ignites"
+"[english]asw_wdesc_incendiary_grenades"		"A set of offhand contact based and timed napalm enriched incendiary grenades. Offering a high area of effect damage for indirect fire making them preferred for breach situations and crowd control against large hostile groups, as well as an on the go solution against areas infested with swarm biomass."
+"asw_wdesc_incendiary_grenades"		"접촉 및 지연 폭발 방식의 네이팜 강화형 화염 수류탄. 넓은 범위에 강력한 간접 피해를 입히며, 진입 작전이나 대규모 적 병력을 상대하는 군중 제압 상황에서 특히 효과적입니다. 또한 감염 유기 구조체가 퍼진 지역을 빠르게 정리할 수 있는 실전 대응 무기로도 활용됩니다."
+"[english]asw_weapon_incendiary_grenades_attributes"		"Ignites"
+"asw_weapon_incendiary_grenades_attributes"		"점화 부여"
 "[english]asw_weapon_speed_burst"		"Speed Burst"
 "asw_weapon_speed_burst"		"순간 가속"
 // EX = exoskeleton; 981 is backwards 1890, the year when Nicholas Yagin invented US440684, (one of) the earliest known powered exoskeletons.
@@ -10647,8 +10647,8 @@
 "challenge_traitors_vgui_menu_scanner_2"		"탐색 시작까지 "
 "[english]challenge_traitors_vgui_menu_scanner_3"		"s."
 "challenge_traitors_vgui_menu_scanner_3"		"초."
-		"[english]challenge_traitors_vgui_menu_scanner_4"		"(Red: Traitor | Green: IAF | Blue: UDP packet has lost.)"
-		"challenge_traitors_vgui_menu_scanner_4"		"(Red: Traitor | Green: IAF | Blue: UDP packet has lost.)"
+"[english]challenge_traitors_vgui_menu_scanner_4"		"(Red: Traitor | Green: IAF | Blue: UDP packet has lost.)"
+"challenge_traitors_vgui_menu_scanner_4"		"(빨강: 배신자 | 초록: IAF | 파랑: UDP 패킷 손실)"
 "[english]challenge_traitors_role_chat_random_scan"		"For game balance considerations, the first several scans are randomized. The target should be within a certain range."
 "challenge_traitors_role_chat_random_scan"		"게임 밸런스를 고려하여 처음 몇 번의 스캔은 무작위로 설정됩니다. 대상은 일정 범위 내에 있어야 합니다."
 
@@ -10671,8 +10671,8 @@
 "challenge_traitors_vgui_menu_biochemist_3"		"스킬 사용까지 "
 "[english]challenge_traitors_vgui_menu_biochemist_4"		"s."
 "challenge_traitors_vgui_menu_biochemist_4"		"초."
-		"[english]challenge_traitors_vgui_menu_biochemist_5"		"You have already used your skill.(Blue: UDP packet has lost.)"
-		"challenge_traitors_vgui_menu_biochemist_5"		"You have already used your skill.(Blue: UDP packet has lost.)"
+"[english]challenge_traitors_vgui_menu_biochemist_5"		"You have already used your skill.(Blue: UDP packet has lost.)"
+"challenge_traitors_vgui_menu_biochemist_5"		"이미 스킬을 사용했습니다. (파랑: UDP 패킷 손실)"
 
 //iaf_leader
 "[english]challenge_traitors_role_article_iaf_leader"		"a"
@@ -10703,8 +10703,8 @@
 "challenge_traitors_vgui_menu_shield_2"		"스킬 사용까지 "
 "[english]challenge_traitors_vgui_menu_shield_3"		"s."
 "challenge_traitors_vgui_menu_shield_3"		"초."
-		"[english]challenge_traitors_vgui_menu_shield_4"		"You have already used your skill.(Blue: UDP packet has lost.)"
-		"challenge_traitors_vgui_menu_shield_4"		"You have already used your skill.(Blue: UDP packet has lost.)"
+"[english]challenge_traitors_vgui_menu_shield_4"		"You have already used your skill.(Blue: UDP packet has lost.)"
+"challenge_traitors_vgui_menu_shield_4"		"이미 스킬을 사용했습니다. (파랑: UDP 패킷 손실)"
 
 //sniper
 "[english]challenge_traitors_role_article_sniper"		"a"
@@ -10785,8 +10785,8 @@
 "challenge_traitors_vgui_menu_infector_3"		"스킬 사용까지 "
 "[english]challenge_traitors_vgui_menu_infector_4"		"s."
 "challenge_traitors_vgui_menu_infector_4"		"초."
-		"[english]challenge_traitors_vgui_menu_infector_5"		"You have already used your skill.(Blue: UDP packet has lost.)"
-		"challenge_traitors_vgui_menu_infector_5"		"You have already used your skill.(Blue: UDP packet has lost.)"
+"[english]challenge_traitors_vgui_menu_infector_5"		"You have already used your skill.(Blue: UDP packet has lost.)"
+"challenge_traitors_vgui_menu_infector_5"		"이미 스킬을 사용했습니다. (파랑: UDP 패킷 손실)"
 
 //boomer
 "[english]challenge_traitors_role_article_boomer"		"a"
@@ -10817,8 +10817,8 @@
 "challenge_traitors_vgui_menu_silencer_2"		"스킬 사용까지 "
 "[english]challenge_traitors_vgui_menu_silencer_3"		"s."
 "challenge_traitors_vgui_menu_silencer_3"		"초."
-		"[english]challenge_traitors_vgui_menu_silencer_4"		"You have already used your skill.(Blue: UDP packet has lost.)"
-		"challenge_traitors_vgui_menu_silencer_4"		"You have already used your skill.(Blue: UDP packet has lost.)"
+"[english]challenge_traitors_vgui_menu_silencer_4"		"You have already used your skill.(Blue: UDP packet has lost.)"
+"challenge_traitors_vgui_menu_silencer_4"		"이미 스킬을 사용했습니다. (파랑: UDP 패킷 손실)"
 
 //mimic
 "[english]challenge_traitors_role_article_mimic"		"a"
