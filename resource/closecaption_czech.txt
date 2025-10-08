@@ -3,8 +3,8 @@
 "Language"		"czech"
 "Tokens"
 {
-		"[english]testcommands"		"<clr:255,0,0>This is red<I> and italics<B> and<cr>bold<B><I><clr:255,255,255> and white again."
-		"testcommands"		"<clr:255,0,0>This is red<I> and italics<B> and<cr>bold<B><I><clr:255,255,255> and white again."
+"[english]testcommands"		"<clr:255,0,0>This is red<I> and italics<B> and<cr>bold<B><I><clr:255,255,255> and white again."
+"testcommands"		"<clr:255,0,0>Tohle je psáno červeně,<I> kurzívou<B> a<cr>tučně<B><I><clr:255,255,255> a opět bíle."
 
 // Lt. Williams
 
@@ -17,26 +17,26 @@
 "[english]Command.co_m1_ob3"		"<clr:240,255,255><B>Lt. Williams:<B> All right, keep going! Main colony's dead ahead!"
 "Command.co_m1_ob3"		"<clr:240,255,255><B>Poručík Williams:<B> Dobře, pokračujte! Hlavní kolonie je přímo před vámi!"
 
-		"[english]Command.co_m1_ob4"		"<clr:240,255,255><B>Lt. Williams:<B> Keep the elevator down to the main mining complex and forward formation to the entrance."
-		"Command.co_m1_ob4"		"<clr:240,255,255><B>Lt. Williams:<B> Keep the elevator down to the main mining complex and forward formation to the entrance."
+"[english]Command.co_m1_ob4"		"<clr:240,255,255><B>Lt. Williams:<B> Keep the elevator down to the main mining complex and forward formation to the entrance."
+"Command.co_m1_ob4"		"<clr:240,255,255><B>Poručík Williams:<B> Jeďte výtahem dolů do hlavního těžebního komplexu a pokračujte ve formaci ke vchodu."
 
 "[english]Command.co_m1_ob5"		"<clr:240,255,255><B>Lt. Williams:<B> I'm picking up multiple inbound motion signatures. Something tells me these ain't friendlies. Try to hold out until the elevator arrives."
 "Command.co_m1_ob5"		"<clr:240,255,255><B>Poručík Williams:<B> Detekuju množství signatur pohybu. Blíží se k vám. Něco mi říká, že tohle nebudou kamarádi. Zkuste vydržet, než dorazí výtah."
 
-		"[english]Command.co_m1_ob6"		"<clr:240,255,255><B>Lt. Williams:<B> We better get to the colony to see what we can find."
-		"Command.co_m1_ob6"		"<clr:240,255,255><B>Lt. Williams:<B> We better get to the colony to see what we can find."
+"[english]Command.co_m1_ob6"		"<clr:240,255,255><B>Lt. Williams:<B> We better get to the colony to see what we can find."
+"Command.co_m1_ob6"		"<clr:240,255,255><B>Poručík Williams:<B> Raději se vydáme do kolonie, abychom zjistili, co tam najdeme."
 
-		"[english]Command.co_m1_ob7"		"<clr:240,255,255><B>Lt. Williams:<B> We can't get to the colony from up here, we need to get down to the lower level."
-		"Command.co_m1_ob7"		"<clr:240,255,255><B>Lt. Williams:<B> We can't get to the colony from up here, we need to get down to the lower level."
+"[english]Command.co_m1_ob7"		"<clr:240,255,255><B>Lt. Williams:<B> We can't get to the colony from up here, we need to get down to the lower level."
+"Command.co_m1_ob7"		"<clr:240,255,255><B>Poručík Williams:<B> Do kolonie se odtud shora nedostaneme, potřebujeme se dostat dolů na nižší úroveň."
 
-		"[english]Command.co_m1_ob8"		"<clr:240,255,255><B>Lt. Williams:<B> Get to the exit!"
-		"Command.co_m1_ob8"		"<clr:240,255,255><B>Lt. Williams:<B> Get to the exit!"
+"[english]Command.co_m1_ob8"		"<clr:240,255,255><B>Lt. Williams:<B> Get to the exit!"
+"Command.co_m1_ob8"		"<clr:240,255,255><B>Poručík Williams:<B> Dostaňte se k východu!"
 
 "[english]Command.co_m2_ob1"		"<clr:240,255,255><B>Lt. Williams:<B> The situation isn't pretty. This next sector is completely overrun. There's a pipeline that the Swarm's using as a superhighway to spread through the colony. You go ahead and find the pipeline, and I'll see if we can figure out a way to destroy it. We need to stop these bugs from getting out."
-"Command.co_m2_ob1"		"<clr:240,255,255><B>Lt. Williams:<B> Situace nevypadá dobře. Další sektor je úplně zamořen. Je tam potrubí, které roj využívá jako superdálnici k rozšíření se po celé kolonii. Pokračujte kupředu a najděte to potrubí. Já se podívám na to, jestli nenajdeme způsob, jak ho zničit. Musíme těm broukům zabránit, aby se nedostali ven."
+"Command.co_m2_ob1"		"<clr:240,255,255><B>Poručík Williams:<B> Situace nevypadá dobře. Další sektor je úplně zamořen. Je tam potrubí, které roj využívá jako superdálnici k rozšíření se po celé kolonii. Pokračujte kupředu a najděte to potrubí. Já se podívám na to, jestli nenajdeme způsob, jak ho zničit. Musíme těm broukům zabránit, aby se nedostali ven."
 
 "[english]Command.co_m2_ob2"		"<clr:240,255,255><B>Lt. Williams:<B> Looks like we weren't the only ones who knew the Swarm were using the pipeline. That's a lot of boom packed around that pipe. Miners must have rigged the explosives but never got the chance to set em off. How about you finish what they started?"
-"Command.co_m2_ob2"		"<clr:240,255,255><B>Lt. Williams:<B> Vypadá to, že jsme nebyli jediní kdo věděli že mutanti používají potrubí. Na tom potrubí je spoustu výbušnin. Horníci museli připravit výbušniny, ale už je nestihli odpálit. Co takhle dokončit co začali?"
+"Command.co_m2_ob2"		"<clr:240,255,255><B>Poručík Williams:<B> Vypadá to, že jsme nebyli jediní kdo věděli že mutanti používají potrubí. Na tom potrubí je spoustu výbušnin. Horníci museli připravit výbušniny, ale už je nestihli odpálit. Co takhle dokončit co začali?"
 
 "[english]Command.co_m2_ob3"		"<clr:240,255,255><B>Lt. Williams:<B> That's the pipeline right above you. Go ahead and blow it now!"
 "Command.co_m2_ob3"		"<clr:240,255,255><B>Poručík Williams:<B> Potrubí je přímo nad váma. Jděte vpřed a odpalte ho!"
@@ -45,19 +45,19 @@
 "Command.co_m2_ob4"		"<clr:240,255,255><B>Poručík Williams:<B> Vypadá to, že v další oblasti není proud. Mám nápad, jak vám posvítit na cestu."
 
 "[english]Command.co_m2_ob5"		"<clr:240,255,255><B>Lt. Williams:<B> Okay, I'm sending in Bloodhound to see if I can't shed a little light on this problem. You try and stay in her lamps while you're crossing the bridge, you should be all right."
-"Command.co_m2_ob5"		"<clr:240,255,255><B>Poručík Williams:<B> Okay, posílám in Čmuchala, abych viděl jestli nemůžu na tenhle problém můžu vrhnout trochu světla. Při přecházení mostu se pokuste zůstat ve světle a měli byste být v pořádku.."
+"Command.co_m2_ob5"		"<clr:240,255,255><B>Poručík Williams:<B> Dobrá, posílám Čmuchala, abych viděl jestli nemůžu na tenhle problém vrhnout trochu světla. Při přecházení mostu se pokuste zůstat ve světle a měli byste být v pořádku."
 
 "[english]Command.co_m2_ob6"		"<clr:240,255,255><B>Lt. Williams:<B> Good job. Now get across."
 "Command.co_m2_ob6"		"<clr:240,255,255><B>Poručík Williams:<B> Dobrá práce. Teď přejděte."
 
-		"[english]Command.co_m2_ob7"		"<clr:240,255,255><B>Lt. Williams:<B> Okay, I'm gonna bring Bloodhound in low and hover. You climb across her back while she's waiting. Step lightly now. She's gotta bring you home at the end of this."
-		"Command.co_m2_ob7"		"<clr:240,255,255><B>Lt. Williams:<B> Okay, I'm gonna bring Bloodhound in low and hover. You climb across her back while she's waiting. Step lightly now. She's gotta bring you home at the end of this."
+"[english]Command.co_m2_ob7"		"<clr:240,255,255><B>Lt. Williams:<B> Okay, I'm gonna bring Bloodhound in low and hover. You climb across her back while she's waiting. Step lightly now. She's gotta bring you home at the end of this."
+"Command.co_m2_ob7"		"<clr:240,255,255><B>Poručík Williams:<B> Dobrá, spustím Čmuchala nízko a nechám ho vznášet. Vy přejděte přes jeho hřebet, zatímco čeká. Našlapujte opatrně, musí vás ještě na konci dostat domů."
 
-		"[english]Command.co_m2_ob8"		"<clr:240,255,255><B>Lt. Williams:<B> Colony reactor is dead ahead."
-		"Command.co_m2_ob8"		"<clr:240,255,255><B>Lt. Williams:<B> Colony reactor is dead ahead."
+"[english]Command.co_m2_ob8"		"<clr:240,255,255><B>Lt. Williams:<B> Colony reactor is dead ahead."
+"Command.co_m2_ob8"		"<clr:240,255,255><B>Poručík Williams:<B> Reaktor kolonie je přímo před váma."
 
 "[english]Command.co_m3_ob1"		"<clr:240,255,255><B>Lt. Williams:<B> Okay Squad, command wants the computers up and running. The colony's reactor was knocked offline by the Swarm attack, so you need to find your way to the reactor core and get that juice back on in there."
-"Command.co_m3_ob1"		"<clr:240,255,255><B>Lt. Williams:<B> Dobře četo, velení chce počítače v provozu. Reaktor kolonie byl vypnut útokem Roje, takže musíte najít cestu k jádru reaktoru a dostat sem tu šťávu."
+"Command.co_m3_ob1"		"<clr:240,255,255><B>Poručík Williams:<B> Dobře četo, velení chce počítače v provozu. Reaktor kolonie byl vypnut útokem Roje, takže musíte najít cestu k jádru reaktoru a dostat sem tu šťávu."
 
 "[english]Command.co_m3_ob2"		"<clr:240,255,255><B>Lt. Williams:<B> Great job, team! Power is on. Command is accessing the colony's computer systems right now. Keep moving, and we'll regroup up ahead."
 "Command.co_m3_ob2"		"<clr:240,255,255><B>Poručík Williams:<B> Výborně, týme! Proud je nahozený. Velení se právě teď dostává k počítačovému systému kolonie. Postupujte a sejdeme se o kus dál."
@@ -68,17 +68,17 @@
 "[english]Command.co_m4_ob1"		"<clr:240,255,255><B>Lt. Williams:<B> All right, sensors show a massive build-up of eggs and biomass in this sector. Make yourselves a little room to work. Clear out the infestation. Burn them if you have to, but be advised, destroying biomass calls the Swarm."
 "Command.co_m4_ob1"		"<clr:240,255,255><B>Poručík Williams:<B> Senzory ukazují masivní nárůst vajíček a biomasy v tomto sektoru. Udělejte si trochu místa pro práci. Vyčistěte nákazu. Spalte je, ale dávejte pozor, zničení biomasy přivolá mutanty."
 
-		"[english]Command.co_m4_ob2"		"<clr:240,255,255><B>Lt. Williams:<B> Looks like more biomass ahead; get a firing solution on that problem."
-		"Command.co_m4_ob2"		"<clr:240,255,255><B>Lt. Williams:<B> Looks like more biomass ahead; get a firing solution on that problem."
+"[english]Command.co_m4_ob2"		"<clr:240,255,255><B>Lt. Williams:<B> Looks like more biomass ahead; get a firing solution on that problem."
+"Command.co_m4_ob2"		"<clr:240,255,255><B>Poručík Williams:<B> Vypadá to, že před námi je další biomasa, odstraňte tento problém hořlavým řešením."
 
 "[english]Command.co_m4_ob3"		"<clr:240,255,255><B>Lt. Williams:<B> All right, you've almost cleared out the last of it. Keep pushing forward."
 "Command.co_m4_ob3"		"<clr:240,255,255><B>Poručík Williams:<B> Jen tak dál, už jste je skoro vyčistili. Postupujte kupředu."
 
-		"[english]Command.co_m4_ob4"		"<clr:240,255,255><B>Lt. Williams:<B> Just a few more eggs to go."
-		"Command.co_m4_ob4"		"<clr:240,255,255><B>Lt. Williams:<B> Just a few more eggs to go."
+"[english]Command.co_m4_ob4"		"<clr:240,255,255><B>Lt. Williams:<B> Just a few more eggs to go."
+"Command.co_m4_ob4"		"<clr:240,255,255><B>Poručík Williams:<B> Už zbývá pouze pár vajíček."
 
-		"[english]Command.co_m4_ob5"		"<clr:240,255,255><B>Lt. Williams:<B> You cleared out the area, time to get to the Swarm nest. Take the elevator down."
-		"Command.co_m4_ob5"		"<clr:240,255,255><B>Lt. Williams:<B> You cleared out the area, time to get to the Swarm nest. Take the elevator down."
+"[english]Command.co_m4_ob5"		"<clr:240,255,255><B>Lt. Williams:<B> You cleared out the area, time to get to the Swarm nest. Take the elevator down."
+"Command.co_m4_ob5"		"<clr:240,255,255><B>Poručík Williams:<B> Vyčistili jste prostor, je čas dostat se ke hnízdu Roje. Sjeďte výtahem dolů."
 
 "[english]Command.co_m5_ob1"		"<clr:240,255,255><B>Lt. Williams:<B> Okay Squad. I'm picking up major swarm at sewer junction 16."
 "Command.co_m5_ob1"		"<clr:240,255,255><B>Poručík Williams:<B> Dobře četo. Mám tady hlavní roj na křížovatce stoky 16."
@@ -92,44 +92,44 @@
 "[english]Command.co_m5_ob4"		"<clr:240,255,255><B>Lt. Williams:<B> Okay, team, we need to seal the tunnel entrance. This will help keep the swarm off your backs as you move deeper into the colony."
 "Command.co_m5_ob4"		"<clr:240,255,255><B>Poručík Williams:<B> Dobře, týme, potřebujeme uzavřít vchod do tunelu. To pomůže zadržet mutanty za váma, až budete postupovat hlouběji do kolonie."
 
-		"[english]Command.co_m5_ob5"		"<clr:240,255,255><B>Lt. Williams:<B> Okay, Squad. I think I've found a shortcut for you. I'm detecting a breach in the facility's northwest wall. Move the squad through that breach and regain access to the surface."
-		"Command.co_m5_ob5"		"<clr:240,255,255><B>Lt. Williams:<B> Okay, Squad. I think I've found a shortcut for you. I'm detecting a breach in the facility's northwest wall. Move the squad through that breach and regain access to the surface."
+"[english]Command.co_m5_ob5"		"<clr:240,255,255><B>Lt. Williams:<B> Okay, Squad. I think I've found a shortcut for you. I'm detecting a breach in the facility's northwest wall. Move the squad through that breach and regain access to the surface."
+"Command.co_m5_ob5"		"<clr:240,255,255><B>Poručík Williams:<B> Dobrá, jednotko. Myslím, že jsem pro vás našel zkratku. Zjišťuji trhlinu v severozápadní zdi zařízení. Přesuňte se četo skrz tuto trhlinu a získejte zpět přístup na povrch."
 
 "[english]Command.co_m6_ob1"		"<clr:240,255,255><B>Lt. Williams:<B> Alright, the bomb is just up ahead!"
 "Command.co_m6_ob1"		"<clr:240,255,255><B>Poručík Williams:<B> Tak jo, bomba právě před námi!"
 
-		"[english]Command.co_m6_ob2"		"<clr:240,255,255><B>Lt. Williams:<B> We've got new kinetic signatures breaking out all across the map. This doesn't look good."
-		"Command.co_m6_ob2"		"<clr:240,255,255><B>Lt. Williams:<B> We've got new kinetic signatures breaking out all across the map. This doesn't look good."
+"[english]Command.co_m6_ob2"		"<clr:240,255,255><B>Lt. Williams:<B> We've got new kinetic signatures breaking out all across the map. This doesn't look good."
+"Command.co_m6_ob2"		"<clr:240,255,255><B>Poručík Williams:<B> Po celé mapě se objevují nové kinetické signály. To nevypadá dobře."
 
-		"[english]Command.co_m6_ob3"		"<clr:240,255,255><B>Lt. Williams:<B> Alright, there's the bomb! You'll need to use the mine's rail system to get that thing into the nest. Remember, losing this fight is not an option. We're gonna sterilize this rock right down to its bare molecules."
-		"Command.co_m6_ob3"		"<clr:240,255,255><B>Lt. Williams:<B> Alright, there's the bomb! You'll need to use the mine's rail system to get that thing into the nest. Remember, losing this fight is not an option. We're gonna sterilize this rock right down to its bare molecules."
+"[english]Command.co_m6_ob3"		"<clr:240,255,255><B>Lt. Williams:<B> Alright, there's the bomb! You'll need to use the mine's rail system to get that thing into the nest. Remember, losing this fight is not an option. We're gonna sterilize this rock right down to its bare molecules."
+"Command.co_m6_ob3"		"<clr:240,255,255><B>Poručík Williams:<B> Dobrá, tady je ta bomba! Budete muset využít železniční systém dolu, abyste ji dostali do hnízda. Pamatujte, prohra v tomto boji nepřichází v úvahu. Sterilizujeme tuto skálu až na molekulární úroveň."
 
-		"[english]Command.co_m6_ob4"		"<clr:240,255,255><B>Lt. Williams:<B> Okay, first thing's first. You need to reactivate the power substation for the cable railway. This'll start the warhead on its path toward the breeding chamber."
-		"Command.co_m6_ob4"		"<clr:240,255,255><B>Lt. Williams:<B> Okay, first thing's first. You need to reactivate the power substation for the cable railway. This'll start the warhead on its path toward the breeding chamber."
+"[english]Command.co_m6_ob4"		"<clr:240,255,255><B>Lt. Williams:<B> Okay, first thing's first. You need to reactivate the power substation for the cable railway. This'll start the warhead on its path toward the breeding chamber."
+"Command.co_m6_ob4"		"<clr:240,255,255><B>Poručík Williams:<B> Dobrá, nejdříve to nejdůležitější. Musíte reaktivovat rozvodnu pro lanovou dráhu. Tím se hlavice vydá na cestu k rozmnožovací komoře."
 
-		"[english]Command.co_m6_ob5"		"<clr:240,255,255><B>Lt. Williams:<B> Alright, there are two doors that you're going to need to hack to move the warhead into position. Get 'em open."
-		"Command.co_m6_ob5"		"<clr:240,255,255><B>Lt. Williams:<B> Alright, there are two doors that you're going to need to hack to move the warhead into position. Get 'em open."
+"[english]Command.co_m6_ob5"		"<clr:240,255,255><B>Lt. Williams:<B> Alright, there are two doors that you're going to need to hack to move the warhead into position. Get 'em open."
+"Command.co_m6_ob5"		"<clr:240,255,255><B>Poručík Williams:<B> Dobře, jsou tu dvoje dveře, které budete muset prolomit, abyste dostali hlavici na místo. Otevřete je."
 
-		"[english]Command.co_m6_ob6"		"<clr:240,255,255><B>Lt. Williams:<B> Once the warhead is in position, activate the detonation sequence. After that, you're gonna need to back-track your way up to the surface to reach your extraction zone."
-		"Command.co_m6_ob6"		"<clr:240,255,255><B>Lt. Williams:<B> Once the warhead is in position, activate the detonation sequence. After that, you're gonna need to back-track your way up to the surface to reach your extraction zone."
+"[english]Command.co_m6_ob6"		"<clr:240,255,255><B>Lt. Williams:<B> Once the warhead is in position, activate the detonation sequence. After that, you're gonna need to back-track your way up to the surface to reach your extraction zone."
+"Command.co_m6_ob6"		"<clr:240,255,255><B>Poručík Williams:<B> Jakmile bude hlavice na místě, aktivujte detonační sekvenci. Poté se budete muset vrátit zpět na povrch do evakuační zóny."
 
-		"[english]Command.co_m6_ob7"		"<clr:240,255,255><B>Lt. Williams:<B> Alright squad, the clock is ticking. You do NOT want to be there when that device goes off. Trust me, it would ruin your whole day."
-		"Command.co_m6_ob7"		"<clr:240,255,255><B>Lt. Williams:<B> Alright squad, the clock is ticking. You do NOT want to be there when that device goes off. Trust me, it would ruin your whole day."
+"[english]Command.co_m6_ob7"		"<clr:240,255,255><B>Lt. Williams:<B> Alright squad, the clock is ticking. You do NOT want to be there when that device goes off. Trust me, it would ruin your whole day."
+"Command.co_m6_ob7"		"<clr:240,255,255><B>Poručík Williams:<B> Dobrá, jednotko, čas běží. Opravdu nechcete být u toho, až to zařízení vybuchne. Věřte mi, zkazilo by vám to celý den."
 
-		"[english]Command.co_m6_ob8"		"<clr:240,255,255><B>Lt. Williams:<B> Head out the same way you came! We'll pick you up on the surface!"
-		"Command.co_m6_ob8"		"<clr:240,255,255><B>Lt. Williams:<B> Head out the same way you came! We'll pick you up on the surface!"
+"[english]Command.co_m6_ob8"		"<clr:240,255,255><B>Lt. Williams:<B> Head out the same way you came! We'll pick you up on the surface!"
+"Command.co_m6_ob8"		"<clr:240,255,255><B>Poručík Williams:<B> Vydejte se stejnou cestou, jakou jste přišli! Vyzvedneme vás na povrchu."
 
-		"[english]Command.co_m6_ob9"		"<clr:240,255,255><B>Lt. Williams:<B> Gang, you need to be high speed, low drag on this operation."
-		"Command.co_m6_ob9"		"<clr:240,255,255><B>Lt. Williams:<B> Gang, you need to be high speed, low drag on this operation."
+"[english]Command.co_m6_ob9"		"<clr:240,255,255><B>Lt. Williams:<B> Gang, you need to be high speed, low drag on this operation."
+"Command.co_m6_ob9"		"<clr:240,255,255><B>Poručík Williams:<B> Bando, při této operaci musíte postupovat rychle a nenápadně."
 
-		"[english]Command.co_m6_ob10"		"<clr:240,255,255><B>Lt. Williams:<B> Time is running out! You've got to pick up the pace."
-		"Command.co_m6_ob10"		"<clr:240,255,255><B>Lt. Williams:<B> Time is running out! You've got to pick up the pace."
+"[english]Command.co_m6_ob10"		"<clr:240,255,255><B>Lt. Williams:<B> Time is running out! You've got to pick up the pace."
+"Command.co_m6_ob10"		"<clr:240,255,255><B>Poručík Williams:<B> Čas se krátí! Musíte zrychlit tempo."
 
 "[english]Command.co_m6_ob11"		"<clr:240,255,255><B>Lt. Williams:<B> You need to hustle. You're almost out of time."
 "Command.co_m6_ob11"		"<clr:240,255,255><B>Poručík Williams:<B> Musíte si pospíšit. Brzy vám dojde čas."
 
-		"[english]Command.co_m6_ob12"		"<clr:240,255,255><B>Lt. Williams:<B> Squad, you need to run like your lives depend on it. 'Cuz they do!"
-		"Command.co_m6_ob12"		"<clr:240,255,255><B>Lt. Williams:<B> Squad, you need to run like your lives depend on it. 'Cuz they do!"
+"[english]Command.co_m6_ob12"		"<clr:240,255,255><B>Lt. Williams:<B> Squad, you need to run like your lives depend on it. 'Cuz they do!"
+"Command.co_m6_ob12"		"<clr:240,255,255><B>Poručík Williams:<B> Četo, musíte běžet, jako by vám šlo o život. Protože jde!"
 
 "[english]Command.co_m6_ob13"		"<clr:240,255,255><B>Lt. Williams:<B> There's not much time left."
 "Command.co_m6_ob13"		"<clr:240,255,255><B>Poručík Williams:<B> Už nezbývá moc času."
@@ -138,172 +138,172 @@
 "Command.co_m6_ob14"		"<clr:240,255,255><B>Poručík Williams:<B> Dochází vám čas!"
 
 "[english]Command.co_m6_ob15"		"<clr:240,255,255><B>Lt. Williams:<B> Pick up the pace, or you're not going to make it!"
-"Command.co_m6_ob15"		"<clr:240,255,255><B>Poručík Williams:<B> Pohněte s sebou nebo to nestihnete !"
+"Command.co_m6_ob15"		"<clr:240,255,255><B>Poručík Williams:<B> Pohněte s sebou nebo to nestihnete!"
 
-		"[english]Command.co_m6_ob16"		"<clr:240,255,255><B>Lt. Williams:<B> Squad, you need to get out of there, NOW!"
-		"Command.co_m6_ob16"		"<clr:240,255,255><B>Lt. Williams:<B> Squad, you need to get out of there, NOW!"
+"[english]Command.co_m6_ob16"		"<clr:240,255,255><B>Lt. Williams:<B> Squad, you need to get out of there, NOW!"
+"Command.co_m6_ob16"		"<clr:240,255,255><B>Poručík Williams:<B> Četo, musíte odtamtud vypadnout, HNED!"
 
 "[english]Command.co_m6_ob17"		"<clr:240,255,255><B>Lt. Williams:<B> Ten seconds left!"
 "Command.co_m6_ob17"		"<clr:240,255,255><B>Poručík Williams:<B> Zbývá 10 sekund!"
 
-		"[english]Command.co_m6_ob18"		"<clr:240,255,255><B>Lt. Williams:<B> You almost made it."
-		"Command.co_m6_ob18"		"<clr:240,255,255><B>Lt. Williams:<B> You almost made it."
+"[english]Command.co_m6_ob18"		"<clr:240,255,255><B>Lt. Williams:<B> You almost made it."
+"Command.co_m6_ob18"		"<clr:240,255,255><B>Poručík Williams:<B> Skoro jste to zvládli."
 
-		"[english]Command.co_m6_ob19"		"<clr:240,255,255><B>Lt. Williams:<B> I'm sorry. I'll notify your next of kin."
-		"Command.co_m6_ob19"		"<clr:240,255,255><B>Lt. Williams:<B> I'm sorry. I'll notify your next of kin."
+"[english]Command.co_m6_ob19"		"<clr:240,255,255><B>Lt. Williams:<B> I'm sorry. I'll notify your next of kin."
+"Command.co_m6_ob19"		"<clr:240,255,255><B>Poručík Williams:<B> Je mi to líto. Uvědomím vaše nejbližší příbuzné."
 
-		"[english]Command.co_m6_ob20"		"<clr:240,255,255><B>Lt. Williams:<B> It was an honor serving with you. You will be remembered."
-		"Command.co_m6_ob20"		"<clr:240,255,255><B>Lt. Williams:<B> It was an honor serving with you. You will be remembered."
+"[english]Command.co_m6_ob20"		"<clr:240,255,255><B>Lt. Williams:<B> It was an honor serving with you. You will be remembered."
+"Command.co_m6_ob20"		"<clr:240,255,255><B>Poručík Williams:<B> Bylo mi ctí s vámi sloužit. Nebudete zapomenuti."
 
-		"[english]Command.co_m6_ob21"		"<clr:240,255,255><B>Lt. Williams:<B> It was an honor to serve with each and every one of you. You made the ultimate sacrifice."
-		"Command.co_m6_ob21"		"<clr:240,255,255><B>Lt. Williams:<B> It was an honor to serve with each and every one of you. You made the ultimate sacrifice."
+"[english]Command.co_m6_ob21"		"<clr:240,255,255><B>Lt. Williams:<B> It was an honor to serve with each and every one of you. You made the ultimate sacrifice."
+"Command.co_m6_ob21"		"<clr:240,255,255><B>Poručík Williams:<B> Bylo mi ctí sloužit s každým z vás. Učinili jste tu nejvyšší oběť."
 
-		"[english]Command.co_m6_ob22"		"<clr:240,255,255><B>Lt. Williams:<B> Good work, mission accomplished!"
-		"Command.co_m6_ob22"		"<clr:240,255,255><B>Lt. Williams:<B> Good work, mission accomplished!"
+"[english]Command.co_m6_ob22"		"<clr:240,255,255><B>Lt. Williams:<B> Good work, mission accomplished!"
+"Command.co_m6_ob22"		"<clr:240,255,255><B>Poručík Williams:<B> Dobrá práce, mise splněna!"
 
 "[english]Command.co_m6_ob23"		"<clr:240,255,255><B>Lt. Williams:<B> Mission accomplished!"
 "Command.co_m6_ob23"		"<clr:240,255,255><B>Poručík Williams:<B> Mise splněna!"
 
-		"[english]Command.co_m6_ob24"		"<clr:240,255,255><B>Lt. Williams:<B> You did it! The bomb's gone off! The Swarm threat has been exterminated."
-		"Command.co_m6_ob24"		"<clr:240,255,255><B>Lt. Williams:<B> You did it! The bomb's gone off! The Swarm threat has been exterminated."
+"[english]Command.co_m6_ob24"		"<clr:240,255,255><B>Lt. Williams:<B> You did it! The bomb's gone off! The Swarm threat has been exterminated."
+"Command.co_m6_ob24"		"<clr:240,255,255><B>Poručík Williams:<B> Dokázali jste to! Bomba vybuchla! Hrozba Roje byla zlikvidována."
 
-		"[english]Command.co_m6_ob25"		"<clr:240,255,255><B>Lt. Williams:<B> The nuke is blocked! Clear up the biomass to free it up!"
-		"Command.co_m6_ob25"		"<clr:240,255,255><B>Lt. Williams:<B> The nuke is blocked! Clear up the biomass to free it up!"
+"[english]Command.co_m6_ob25"		"<clr:240,255,255><B>Lt. Williams:<B> The nuke is blocked! Clear up the biomass to free it up!"
+"Command.co_m6_ob25"		"<clr:240,255,255><B>Poručík Williams:<B> Jaderná bomba je zablokovaná! Odstraňte biomasu, abyste ji uvolnili!"
 
-		"[english]Command.co_m6_ob26"		"<clr:240,255,255><B>Lt. Williams:<B> Landing pads overun! Bloodhound's coming in! Jump on our back and we'll get you out of there!"
-		"Command.co_m6_ob26"		"<clr:240,255,255><B>Lt. Williams:<B> Landing pads overun! Bloodhound's coming in! Jump on our back and we'll get you out of there!"
+"[english]Command.co_m6_ob26"		"<clr:240,255,255><B>Lt. Williams:<B> Landing pads overun! Bloodhound's coming in! Jump on our back and we'll get you out of there!"
+"Command.co_m6_ob26"		"<clr:240,255,255><B>Poručík Williams:<B> Přistávací plošiny jsou přeplněné! Čmuchal přilétá! Skočte nám na hřbet a my vás odsud dostaneme!"
 
-		"[english]Command.co_m6_ob27"		"<clr:240,255,255><B>Lt. Williams:<B> Yeah! We made it!"
-		"Command.co_m6_ob27"		"<clr:240,255,255><B>Lt. Williams:<B> Yeah! We made it!"
+"[english]Command.co_m6_ob27"		"<clr:240,255,255><B>Lt. Williams:<B> Yeah! We made it!"
+"Command.co_m6_ob27"		"<clr:240,255,255><B>Poručík Williams:<B> Jo! Zvládli jsme to!"
 
-		"[english]Command.co_hold_ob1"		"<clr:240,255,255><B>Lt. Williams:<B> Alright, squad, you made it to the extraction zone. Command ship is inbound. You just need to hold out until I get there."
-		"Command.co_hold_ob1"		"<clr:240,255,255><B>Lt. Williams:<B> Alright, squad, you made it to the extraction zone. Command ship is inbound. You just need to hold out until I get there."
+"[english]Command.co_hold_ob1"		"<clr:240,255,255><B>Lt. Williams:<B> Alright, squad, you made it to the extraction zone. Command ship is inbound. You just need to hold out until I get there."
+"Command.co_hold_ob1"		"<clr:240,255,255><B>Poručík Williams:<B> Dobrá, jednotko, dostali jste se do evakuační zóny. Velitelská loď přilétá. Musíte jen vydržet, než se tam dostanu."
 
-		"[english]Command.co_hold_ob2"		"<clr:240,255,255><B>Lt. Williams:<B> Almost there, squad."
-		"Command.co_hold_ob2"		"<clr:240,255,255><B>Lt. Williams:<B> Almost there, squad."
+"[english]Command.co_hold_ob2"		"<clr:240,255,255><B>Lt. Williams:<B> Almost there, squad."
+"Command.co_hold_ob2"		"<clr:240,255,255><B>Poručík Williams:<B> Už tam skoro jsem, četo."
 
-		"[english]Command.co_hold_ob3"		"<clr:240,255,255><B>Lt. Williams:<B> Hang in there, squad. I'm on my way!"
-		"Command.co_hold_ob3"		"<clr:240,255,255><B>Lt. Williams:<B> Hang in there, squad. I'm on my way!"
+"[english]Command.co_hold_ob3"		"<clr:240,255,255><B>Lt. Williams:<B> Hang in there, squad. I'm on my way!"
+"Command.co_hold_ob3"		"<clr:240,255,255><B>Poručík Williams:<B> Držte se, týme. Jsem na cestě!"
 
-		"[english]Command.co_hold_ob4"		"<clr:240,255,255><B>Lt. Williams:<B> Coming in hot!"
-		"Command.co_hold_ob4"		"<clr:240,255,255><B>Lt. Williams:<B> Coming in hot!"
+"[english]Command.co_hold_ob4"		"<clr:240,255,255><B>Lt. Williams:<B> Coming in hot!"
+"Command.co_hold_ob4"		"<clr:240,255,255><B>Poručík Williams:<B> Už se řítím!"
 
-		"[english]Command.co_debriefing_ob1"		"<clr:240,255,255><B>Lt. Williams:<B> Objective completed! Good work, marines."
-		"Command.co_debriefing_ob1"		"<clr:240,255,255><B>Lt. Williams:<B> Objective completed! Good work, marines."
+"[english]Command.co_debriefing_ob1"		"<clr:240,255,255><B>Lt. Williams:<B> Objective completed! Good work, marines."
+"Command.co_debriefing_ob1"		"<clr:240,255,255><B>Poručík Williams:<B> Cíl splněn! Dobrá práce, mariňáci."
 
-		"[english]Command.co_debriefing_ob2"		"<clr:240,255,255><B>Lt. Williams:<B> Analysis of the flight recorder from the escape pod shows a number of vessels did successfully break orbit and leave Vereon XII. Looks like a handful of SynTek officers and colonists."
-		"Command.co_debriefing_ob2"		"<clr:240,255,255><B>Lt. Williams:<B> Analysis of the flight recorder from the escape pod shows a number of vessels did successfully break orbit and leave Vereon XII. Looks like a handful of SynTek officers and colonists."
+"[english]Command.co_debriefing_ob2"		"<clr:240,255,255><B>Lt. Williams:<B> Analysis of the flight recorder from the escape pod shows a number of vessels did successfully break orbit and leave Vereon XII. Looks like a handful of SynTek officers and colonists."
+"Command.co_debriefing_ob2"		"<clr:240,255,255><B>Poručík Williams:<B> Analýza letových záznamů z únikového modulu ukazuje, že několik lodí úspěšně opustilo Vereon XII a jeho oběžnou dráhu. Vypadá to na hrstku důstojníků a kolonistů ze SynTeku."
 
-		"[english]Command.co_debriefing_ob3"		"<clr:240,255,255><B>Lt. Williams:<B> We also show a small container left the atmosphere without broadcasting ID codes. All launch data for this vessel has been scrambled by persons unknown. We've dispatched scout vessels to search the immediate vicinity, but given its size and the unknown trajectory, the chances of finding it are slim."
-		"Command.co_debriefing_ob3"		"<clr:240,255,255><B>Lt. Williams:<B> We also show a small container left the atmosphere without broadcasting ID codes. All launch data for this vessel has been scrambled by persons unknown. We've dispatched scout vessels to search the immediate vicinity, but given its size and the unknown trajectory, the chances of finding it are slim."
+"[english]Command.co_debriefing_ob3"		"<clr:240,255,255><B>Lt. Williams:<B> We also show a small container left the atmosphere without broadcasting ID codes. All launch data for this vessel has been scrambled by persons unknown. We've dispatched scout vessels to search the immediate vicinity, but given its size and the unknown trajectory, the chances of finding it are slim."
+"Command.co_debriefing_ob3"		"<clr:240,255,255><B>Poručík Williams:<B> Zjistili jsme také, že malá loď opustila atmosféru bez vysílání identifikačních kódů. Veškerá data o startu této lodi byla zamaskována neznámými osobami. Vyslali jsme průzkumné lodě, aby prohledaly bezprostřední okolí, ale vzhledem k její velikosti a neznámé trajektorii jsou šance na její nalezení malé."
 
-		"[english]Command.co_debriefing_ob4"		"<clr:240,255,255><B>Lt. Williams:<B> Everybody has to be on that lift before it'll activate."
-		"Command.co_debriefing_ob4"		"<clr:240,255,255><B>Lt. Williams:<B> Everybody has to be on that lift before it'll activate."
+"[english]Command.co_debriefing_ob4"		"<clr:240,255,255><B>Lt. Williams:<B> Everybody has to be on that lift before it'll activate."
+"Command.co_debriefing_ob4"		"<clr:240,255,255><B>Poručík Williams:<B> Všichni musí být ve výtahu, aby se aktivoval."
 
-		"[english]Command.co_debriefing_ob5"		"<clr:240,255,255><B>Lt. Williams:<B> Good work destroying the pipeline, Squad. This should hinder Swarm movement within the colony."
-		"Command.co_debriefing_ob5"		"<clr:240,255,255><B>Lt. Williams:<B> Good work destroying the pipeline, Squad. This should hinder Swarm movement within the colony."
+"[english]Command.co_debriefing_ob5"		"<clr:240,255,255><B>Lt. Williams:<B> Good work destroying the pipeline, Squad. This should hinder Swarm movement within the colony."
+"Command.co_debriefing_ob5"		"<clr:240,255,255><B>Poručík Williams:<B> Dobrá práce se zničením potrubí, četo. To by mělo zpomalit pohyb Roje v kolonii."
 
-		"[english]Command.co_debriefing_ob6"		"<clr:240,255,255><B>Lt. Williams:<B> We are showing the reactor back up and running at full efficiency. Great job!"
-		"Command.co_debriefing_ob6"		"<clr:240,255,255><B>Lt. Williams:<B> We are showing the reactor back up and running at full efficiency. Great job!"
+"[english]Command.co_debriefing_ob6"		"<clr:240,255,255><B>Lt. Williams:<B> We are showing the reactor back up and running at full efficiency. Great job!"
+"Command.co_debriefing_ob6"		"<clr:240,255,255><B>Poručík Williams:<B> Vidíme, že reaktor je opět v provozu a pracuje na plný výkon. Skvělá práce!"
 
-		"[english]Command.co_debriefing_ob7"		"<clr:240,255,255><B>Lt. Williams:<B> The data you recovered shows a number of SynTek Security personnel attempted to fight back the infestation. We can assume at this point that they were unsuccessful."
-		"Command.co_debriefing_ob7"		"<clr:240,255,255><B>Lt. Williams:<B> The data you recovered shows a number of SynTek Security personnel attempted to fight back the infestation. We can assume at this point that they were unsuccessful."
+"[english]Command.co_debriefing_ob7"		"<clr:240,255,255><B>Lt. Williams:<B> The data you recovered shows a number of SynTek Security personnel attempted to fight back the infestation. We can assume at this point that they were unsuccessful."
+"Command.co_debriefing_ob7"		"<clr:240,255,255><B>Poručík Williams:<B> Data, která jste získali, ukazují, že se řada pracovníků SynTek Security pokoušela bojovat proti zamoření. V tuto chvíli můžeme předpokládat, že se jim to nepodařilo."
 
-		"[english]Command.co_debriefing_ob8"		"<clr:240,255,255><B>Lt. Williams:<B> With the sewer access tunnel sealed, the Swarm have only one way to the surface."
-		"Command.co_debriefing_ob8"		"<clr:240,255,255><B>Lt. Williams:<B> With the sewer access tunnel sealed, the Swarm have only one way to the surface."
+"[english]Command.co_debriefing_ob8"		"<clr:240,255,255><B>Lt. Williams:<B> With the sewer access tunnel sealed, the Swarm have only one way to the surface."
+"Command.co_debriefing_ob8"		"<clr:240,255,255><B>Poručík Williams:<B> S uzavřeným přístupovým tunelem do kanalizace má Roj pouze jednu cestu na povrch."
 
-		"[english]Command.co_debriefing_ob9"		"<clr:240,255,255><B>Lt. Williams:<B> Excellent work, Commander. The thermonuclear device detonated by your squad has destroyed the bulk of the Swarm forces beneath the surface. We estimate in excess of 200 eggs and countless Swarm drones have been wiped out by the detonation."
-		"Command.co_debriefing_ob9"		"<clr:240,255,255><B>Lt. Williams:<B> Excellent work, Commander. The thermonuclear device detonated by your squad has destroyed the bulk of the Swarm forces beneath the surface. We estimate in excess of 200 eggs and countless Swarm drones have been wiped out by the detonation."
+"[english]Command.co_debriefing_ob9"		"<clr:240,255,255><B>Lt. Williams:<B> Excellent work, Commander. The thermonuclear device detonated by your squad has destroyed the bulk of the Swarm forces beneath the surface. We estimate in excess of 200 eggs and countless Swarm drones have been wiped out by the detonation."
+"Command.co_debriefing_ob9"		"<clr:240,255,255><B>Poručík Williams:<B> Vynikající práce, veliteli. Termonukleární zařízení odpálené vaší jednotkou zničilo většinu sil Roje pod povrchem. Odhadujeme, že detonace zničila více než 200 vajec a nespočet trubců Roje."
 
-		"[english]Command.co_debriefing_ob10"		"<clr:240,255,255><B>Lt. Williams:<B> We are still detecting a single large heat source in a deep, well protected chamber. IAF Command is making investigation of this a priority."
-		"Command.co_debriefing_ob10"		"<clr:240,255,255><B>Lt. Williams:<B> We are still detecting a single large heat source in a deep, well protected chamber. IAF Command is making investigation of this a priority."
+"[english]Command.co_debriefing_ob10"		"<clr:240,255,255><B>Lt. Williams:<B> We are still detecting a single large heat source in a deep, well protected chamber. IAF Command is making investigation of this a priority."
+"Command.co_debriefing_ob10"		"<clr:240,255,255><B>Poručík Williams:<B> Stále detekujeme jeden velký zdroj tepla v hluboké, dobře chráněné komoře. Velení IAF považuje vyšetření této záležitosti za prioritu."
 
 		// Bastille
 
 
-		"[english]bastille.SynUpReply0"		"<clr:205,127,50><B>Bastille:<B> You don't wanna drink that shit, believe me."
-		"bastille.SynUpReply0"		"<clr:205,127,50><B>Bastille:<B> You don't wanna drink that shit, believe me."
+"[english]bastille.SynUpReply0"		"<clr:205,127,50><B>Bastille:<B> You don't wanna drink that shit, believe me."
+"bastille.SynUpReply0"		"<clr:205,127,50><B>Bastille:<B> Tu sračku pít nechceš, věř mi."
 
-		"[english]bastille.CrashComplainReply0"		"<clr:205,127,50><B>Bastille:<B> Maybe you should report a nervous breakdown."
-		"bastille.CrashComplainReply0"		"<clr:205,127,50><B>Bastille:<B> Maybe you should report a nervous breakdown."
+"[english]bastille.CrashComplainReply0"		"<clr:205,127,50><B>Bastille:<B> Maybe you should report a nervous breakdown."
+"bastille.CrashComplainReply0"		"<clr:205,127,50><B>Bastille:<B> Možná bys měl nahlásit nervové zhorucení."
 
-		"[english]bastille.MedicComplainReply0"		"<clr:205,127,50><B>Bastille:<B> Oh come on, you get injured just as much as I do."
-		"bastille.MedicComplainReply0"		"<clr:205,127,50><B>Bastille:<B> Oh come on, you get injured just as much as I do."
+"[english]bastille.MedicComplainReply0"		"<clr:205,127,50><B>Bastille:<B> Oh come on, you get injured just as much as I do."
+"bastille.MedicComplainReply0"		"<clr:205,127,50><B>Bastille:<B> Ale no tak, zraňuješ se stejně často, jako já."
 
-		"[english]bastille.MedicComplain0"		"<clr:205,127,50><B>Bastille:<B> Can't you not get hurt for a change?"
-		"bastille.MedicComplain0"		"<clr:205,127,50><B>Bastille:<B> Can't you not get hurt for a change?"
+"[english]bastille.MedicComplain0"		"<clr:205,127,50><B>Bastille:<B> Can't you not get hurt for a change?"
+"bastille.MedicComplain0"		"<clr:205,127,50><B>Bastille:<B> Nemůžeš se pro změnu jednou nezranit?"
 
-		"[english]bastille.MedicComplain1"		"<clr:205,127,50><B>Bastille:<B> Now why do you get so close to them?"
-		"bastille.MedicComplain1"		"<clr:205,127,50><B>Bastille:<B> Now why do you get so close to them?"
+"[english]bastille.MedicComplain1"		"<clr:205,127,50><B>Bastille:<B> Now why do you get so close to them?"
+"bastille.MedicComplain1"		"<clr:205,127,50><B>Bastille:<B> Proč se k nim tak přibližuješ?"
 
-		"[english]bastille.HealingCrashReply0"		"<clr:205,127,50><B>Bastille:<B> I'm saving them for when you really get hurt."
-		"bastille.HealingCrashReply0"		"<clr:205,127,50><B>Bastille:<B> I'm saving them for when you really get hurt."
+"[english]bastille.HealingCrashReply0"		"<clr:205,127,50><B>Bastille:<B> I'm saving them for when you really get hurt."
+"bastille.HealingCrashReply0"		"<clr:205,127,50><B>Bastille:<B> Šetřím si je pro případ, kdy se ti opravdu něco stane."
 
-		"[english]bastille.HealingCrash0"		"<clr:205,127,50><B>Bastille:<B> Steady now."
-		"bastille.HealingCrash0"		"<clr:205,127,50><B>Bastille:<B> Steady now."
+"[english]bastille.HealingCrash0"		"<clr:205,127,50><B>Bastille:<B> Steady now."
+"bastille.HealingCrash0"		"<clr:205,127,50><B>Bastille:<B> Teď v klidu."
 
-		"[english]bastille.TequilaReply0"		"<clr:205,127,50><B>Bastille:<B> I gave up that stuff a long time ago."
-		"bastille.TequilaReply0"		"<clr:205,127,50><B>Bastille:<B> I gave up that stuff a long time ago."
+"[english]bastille.TequilaReply0"		"<clr:205,127,50><B>Bastille:<B> I gave up that stuff a long time ago."
+"bastille.TequilaReply0"		"<clr:205,127,50><B>Bastille:<B> Vzdal jsem se toho už dávno."
 
-		"[english]bastille.CrashIdleReply0"		"<clr:205,127,50><B>Bastille:<B> Trying to keep your sorry ass alive."
-		"bastille.CrashIdleReply0"		"<clr:205,127,50><B>Bastille:<B> Trying to keep your sorry ass alive."
+"[english]bastille.CrashIdleReply0"		"<clr:205,127,50><B>Bastille:<B> Trying to keep your sorry ass alive."
+"bastille.CrashIdleReply0"		"<clr:205,127,50><B>Bastille:<B> Snažím se držet tvou ubohou prdel při životě."
 
-		"[english]bastille.InjuredSelection0"		"<clr:205,127,50><B>Bastille:<B> Are we leaving?"
-		"bastille.InjuredSelection0"		"<clr:205,127,50><B>Bastille:<B> Are we leaving?"
+"[english]bastille.InjuredSelection0"		"<clr:205,127,50><B>Bastille:<B> Are we leaving?"
+"bastille.InjuredSelection0"		"<clr:205,127,50><B>Bastille:<B> Odcházíme?"
 
-		"[english]bastille.InjuredSelection1"		"<clr:205,127,50><B>Bastille:<B> They just keep coming!"
-		"bastille.InjuredSelection1"		"<clr:205,127,50><B>Bastille:<B> They just keep coming!"
+"[english]bastille.InjuredSelection1"		"<clr:205,127,50><B>Bastille:<B> They just keep coming!"
+"bastille.InjuredSelection1"		"<clr:205,127,50><B>Bastille:<B> Prostě nepřestávají přicházet!"
 
-		"[english]bastille.InjuredSelection2"		"<clr:205,127,50><B>Bastille:<B> This whole place is getting to hell!"
-		"bastille.InjuredSelection2"		"<clr:205,127,50><B>Bastille:<B> This whole place is getting to hell!"
+"[english]bastille.InjuredSelection2"		"<clr:205,127,50><B>Bastille:<B> This whole place is getting to hell!"
+"bastille.InjuredSelection2"		"<clr:205,127,50><B>Bastille:<B> Celé tohle místo jde do pekla!"
 
-		"[english]bastille.InjuredSelection3"		"<clr:205,127,50><B>Bastille:<B> This whole place is getting to hell!"
-		"bastille.InjuredSelection3"		"<clr:205,127,50><B>Bastille:<B> This whole place is getting to hell!"
+"[english]bastille.InjuredSelection3"		"<clr:205,127,50><B>Bastille:<B> This whole place is getting to hell!"
+"bastille.InjuredSelection3"		"<clr:205,127,50><B>Bastille:<B> Celé tohle místo jde do pekla!"
 
-		"[english]bastille.InjuredSelection4"		"<clr:205,127,50><B>Bastille:<B> What do you want now?"
-		"bastille.InjuredSelection4"		"<clr:205,127,50><B>Bastille:<B> What do you want now?"
+"[english]bastille.InjuredSelection4"		"<clr:205,127,50><B>Bastille:<B> What do you want now?"
+"bastille.InjuredSelection4"		"<clr:205,127,50><B>Bastille:<B> Co teď chceš?"
 
-		"[english]bastille.SeriousInjuryReply0"		"<clr:205,127,50><B>Bastille:<B> All right, if you say so."
-		"bastille.SeriousInjuryReply0"		"<clr:205,127,50><B>Bastille:<B> All right, if you say so."
+"[english]bastille.SeriousInjuryReply0"		"<clr:205,127,50><B>Bastille:<B> All right, if you say so."
+"bastille.SeriousInjuryReply0"		"<clr:205,127,50><B>Bastille:<B> Dobrá, když říkáš."
 
-		"[english]bastille.SeriousInjuryFollowUp0"		"<clr:205,127,50><B>Bastille:<B> I don't want any stunts, ok?"
-		"bastille.SeriousInjuryFollowUp0"		"<clr:205,127,50><B>Bastille:<B> I don't want any stunts, ok?"
+"[english]bastille.SeriousInjuryFollowUp0"		"<clr:205,127,50><B>Bastille:<B> I don't want any stunts, ok?"
+"bastille.SeriousInjuryFollowUp0"		"<clr:205,127,50><B>Bastille:<B> Žádný vylomeniny, jasný?"
 
-		"[english]bastille.SeriousInjuryFollowUp1"		"<clr:205,127,50><B>Bastille:<B> Just take it easy, doctor's orders."
-		"bastille.SeriousInjuryFollowUp1"		"<clr:205,127,50><B>Bastille:<B> Just take it easy, doctor's orders."
+"[english]bastille.SeriousInjuryFollowUp1"		"<clr:205,127,50><B>Bastille:<B> Just take it easy, doctor's orders."
+"bastille.SeriousInjuryFollowUp1"		"<clr:205,127,50><B>Bastille:<B> Prostě to ber s klidem, příkaz lékaře."
 
-		"[english]bastille.SeriousInjury0"		"<clr:205,127,50><B>Bastille:<B> Be careful, the wound might still open."
-		"bastille.SeriousInjury0"		"<clr:205,127,50><B>Bastille:<B> Be careful, the wound might still open."
+"[english]bastille.SeriousInjury0"		"<clr:205,127,50><B>Bastille:<B> Be careful, the wound might still open."
+"bastille.SeriousInjury0"		"<clr:205,127,50><B>Bastille:<B> Opatrně, rána se může znovu otevřít."
 
-		"[english]bastille.SeriousInjury1"		"<clr:205,127,50><B>Bastille:<B> Good news, you're off the next mission."
-		"bastille.SeriousInjury1"		"<clr:205,127,50><B>Bastille:<B> Good news, you're off the next mission."
+"[english]bastille.SeriousInjury1"		"<clr:205,127,50><B>Bastille:<B> Good news, you're off the next mission."
+"bastille.SeriousInjury1"		"<clr:205,127,50><B>Bastille:<B> Dobrá zpráva, z příští mise jsi vyřazen."
 
-		"[english]bastille.StillBreathingReply0"		"<clr:205,127,50><B>Bastille:<B> You know you can get counseling for that, right?"
-		"bastille.StillBreathingReply0"		"<clr:205,127,50><B>Bastille:<B> You know you can get counseling for that, right?"
+"[english]bastille.StillBreathingReply0"		"<clr:205,127,50><B>Bastille:<B> You know you can get counseling for that, right?"
+"bastille.StillBreathingReply0"		"<clr:205,127,50><B>Bastille:<B> Víš, že si s tím můžeš zajít na poradenství, že?"
 
-		"[english]bastille.Use0"		"<clr:205,127,50><B>Bastille:<B> Absolutely."
-		"bastille.Use0"		"<clr:205,127,50><B>Bastille:<B> Absolutely."
+"[english]bastille.Use0"		"<clr:205,127,50><B>Bastille:<B> Absolutely."
+"bastille.Use0"		"<clr:205,127,50><B>Bastille:<B> Rozhodně."
 
-		"[english]bastille.Use1"		"<clr:205,127,50><B>Bastille:<B> But of course."
-		"bastille.Use1"		"<clr:205,127,50><B>Bastille:<B> But of course."
+"[english]bastille.Use1"		"<clr:205,127,50><B>Bastille:<B> But of course."
+"bastille.Use1"		"<clr:205,127,50><B>Bastille:<B> Ale samozřejmě."
 
-		"[english]bastille.Use2"		"<clr:205,127,50><B>Bastille:<B> Good thinking."
-		"bastille.Use2"		"<clr:205,127,50><B>Bastille:<B> Good thinking."
+"[english]bastille.Use2"		"<clr:205,127,50><B>Bastille:<B> Good thinking."
+"bastille.Use2"		"<clr:205,127,50><B>Bastille:<B> Dobrý nápad."
 
-		"[english]bastille.Use3"		"<clr:205,127,50><B>Bastille:<B> <I>Immediatement."
-		"bastille.Use3"		"<clr:205,127,50><B>Bastille:<B> <I>Immediatement."
+"[english]bastille.Use3"		"<clr:205,127,50><B>Bastille:<B> <I>Immediatement."
+"bastille.Use3"		"<clr:205,127,50><B>Bastille:<B> <I>Ihned."
 
-		"[english]bastille.Use4"		"<clr:205,127,50><B>Bastille:<B> <I>Oui."
-		"bastille.Use4"		"<clr:205,127,50><B>Bastille:<B> <I>Oui."
+"[english]bastille.Use4"		"<clr:205,127,50><B>Bastille:<B> <I>Oui."
+"bastille.Use4"		"<clr:205,127,50><B>Bastille:<B> <I>Ano."
 
-		"[english]bastille.Use5"		"<clr:205,127,50><B>Bastille:<B> <I>Oui."
-		"bastille.Use5"		"<clr:205,127,50><B>Bastille:<B> <I>Oui."
+"[english]bastille.Use5"		"<clr:205,127,50><B>Bastille:<B> <I>Oui."
+"bastille.Use5"		"<clr:205,127,50><B>Bastille:<B> <I>Ano."
 
-		"[english]bastille.Use6"		"<clr:205,127,50><B>Bastille:<B> <I>Oui."
-		"bastille.Use6"		"<clr:205,127,50><B>Bastille:<B> <I>Oui."
+"[english]bastille.Use6"		"<clr:205,127,50><B>Bastille:<B> <I>Oui."
+"bastille.Use6"		"<clr:205,127,50><B>Bastille:<B> <I>Ano."
 
-		"[english]bastille.Use7"		"<clr:205,127,50><B>Bastille:<B> Understood."
-		"bastille.Use7"		"<clr:205,127,50><B>Bastille:<B> Understood."
+"[english]bastille.Use7"		"<clr:205,127,50><B>Bastille:<B> Understood."
+"bastille.Use7"		"<clr:205,127,50><B>Bastille:<B> Rozumím."
 
 "[english]bastille.Use8"		"<clr:205,127,50><B>Bastille:<B> Yes, sir."
 "bastille.Use8"		"<clr:205,127,50><B>Bastille:<B> Ano, pane."
@@ -314,158 +314,158 @@
 "[english]bastille.Use10"		"<clr:205,127,50><B>Bastille:<B> Yes, sir."
 "bastille.Use10"		"<clr:205,127,50><B>Bastille:<B> Ano, pane."
 
-		"[english]bastille.Idle0"		"<clr:205,127,50><B>Bastille:<B> Careful, they could be anywhere."
-		"bastille.Idle0"		"<clr:205,127,50><B>Bastille:<B> Careful, they could be anywhere."
+"[english]bastille.Idle0"		"<clr:205,127,50><B>Bastille:<B> Careful, they could be anywhere."
+"bastille.Idle0"		"<clr:205,127,50><B>Bastille:<B> Opatrně, můžou být kdekoli."
 
-		"[english]bastille.Idle1"		"<clr:205,127,50><B>Bastille:<B> Did you hear that noise?"
-		"bastille.Idle1"		"<clr:205,127,50><B>Bastille:<B> Did you hear that noise?"
+"[english]bastille.Idle1"		"<clr:205,127,50><B>Bastille:<B> Did you hear that noise?"
+"bastille.Idle1"		"<clr:205,127,50><B>Bastille:<B> Slyšeli jste ten zvuk?"
 
-		"[english]bastille.Idle2"		"<clr:205,127,50><B>Bastille:<B> If I knew, I would've stayed home."
-		"bastille.Idle2"		"<clr:205,127,50><B>Bastille:<B> If I knew, I would've stayed home."
+"[english]bastille.Idle2"		"<clr:205,127,50><B>Bastille:<B> If I knew, I would've stayed home."
+"bastille.Idle2"		"<clr:205,127,50><B>Bastille:<B> Kdybych to věděl, zůstal bych doma."
 
-		"[english]bastille.Idle3"		"<clr:205,127,50><B>Bastille:<B> Keep quiet."
-		"bastille.Idle3"		"<clr:205,127,50><B>Bastille:<B> Keep quiet."
+"[english]bastille.Idle3"		"<clr:205,127,50><B>Bastille:<B> Keep quiet."
+"bastille.Idle3"		"<clr:205,127,50><B>Bastille:<B> Potichu."
 
-		"[english]bastille.Idle4"		"<clr:205,127,50><B>Bastille:<B> Now it's quiet, open a Bordeux."
-		"bastille.Idle4"		"<clr:205,127,50><B>Bastille:<B> Now it's quiet, open a Bordeux."
+"[english]bastille.Idle4"		"<clr:205,127,50><B>Bastille:<B> Now it's quiet, open a Bordeux."
+"bastille.Idle4"		"<clr:205,127,50><B>Bastille:<B> Teď, když je klid, otevři Bordeaux."
 
-		"[english]bastille.Idle5"		"<clr:205,127,50><B>Bastille:<B> Great, now I'm hearing things."
-		"bastille.Idle5"		"<clr:205,127,50><B>Bastille:<B> Great, now I'm hearing things."
+"[english]bastille.Idle5"		"<clr:205,127,50><B>Bastille:<B> Great, now I'm hearing things."
+"bastille.Idle5"		"<clr:205,127,50><B>Bastille:<B> Mám slyšiny, skvěle."
 
-		"[english]bastille.Idle6"		"<clr:205,127,50><B>Bastille:<B> I don't like it down here."
-		"bastille.Idle6"		"<clr:205,127,50><B>Bastille:<B> I don't like it down here."
+"[english]bastille.Idle6"		"<clr:205,127,50><B>Bastille:<B> I don't like it down here."
+"bastille.Idle6"		"<clr:205,127,50><B>Bastille:<B> Nelíbí se mi to tady dole."
 
-		"[english]bastille.Idle7"		"<clr:205,127,50><B>Bastille:<B> If we're lucky the wounds will be healed when we wake up from cryosleep."
-		"bastille.Idle7"		"<clr:205,127,50><B>Bastille:<B> If we're lucky the wounds will be healed when we wake up from cryosleep."
+"[english]bastille.Idle7"		"<clr:205,127,50><B>Bastille:<B> If we're lucky the wounds will be healed when we wake up from cryosleep."
+"bastille.Idle7"		"<clr:205,127,50><B>Bastille:<B> Pokud budeme mít štěstí, rány budou zahojené, až se probudíme z kryospánku."
 
-		"[english]bastille.Idle8"		"<clr:205,127,50><B>Bastille:<B> Ignore the rumors. Stimpacks aren't that addictive."
-		"bastille.Idle8"		"<clr:205,127,50><B>Bastille:<B> Ignore the rumors. Stimpacks aren't that addictive."
+"[english]bastille.Idle8"		"<clr:205,127,50><B>Bastille:<B> Ignore the rumors. Stimpacks aren't that addictive."
+"bastille.Idle8"		"<clr:205,127,50><B>Bastille:<B> Ignorujte pověsti. Stimulanty nejsou až tak návykové."
 
-		"[english]bastille.Idle9"		"<clr:205,127,50><B>Bastille:<B> I hear something moving."
-		"bastille.Idle9"		"<clr:205,127,50><B>Bastille:<B> I hear something moving."
+"[english]bastille.Idle9"		"<clr:205,127,50><B>Bastille:<B> I hear something moving."
+"bastille.Idle9"		"<clr:205,127,50><B>Bastille:<B> Slyším něco se hýbat."
 
-		"[english]bastille.Idle10"		"<clr:205,127,50><B>Bastille:<B> I hope we send every last one of these bastards straight to hell."
-		"bastille.Idle10"		"<clr:205,127,50><B>Bastille:<B> I hope we send every last one of these bastards straight to hell."
+"[english]bastille.Idle10"		"<clr:205,127,50><B>Bastille:<B> I hope we send every last one of these bastards straight to hell."
+"bastille.Idle10"		"<clr:205,127,50><B>Bastille:<B> Doufám, že pošleme všechny tyhle parchanty rovnou do pekla."
 
-		"[english]bastille.Idle11"		"<clr:205,127,50><B>Bastille:<B> Just how many more bugs are on this rock?"
-		"bastille.Idle11"		"<clr:205,127,50><B>Bastille:<B> Just how many more bugs are on this rock?"
+"[english]bastille.Idle11"		"<clr:205,127,50><B>Bastille:<B> Just how many more bugs are on this rock?"
+"bastille.Idle11"		"<clr:205,127,50><B>Bastille:<B> Kolik dalších brouků je ještě na této skále?"
 
-		"[english]bastille.Idle12"		"<clr:205,127,50><B>Bastille:<B> Looks like nobody's home."
-		"bastille.Idle12"		"<clr:205,127,50><B>Bastille:<B> Looks like nobody's home."
+"[english]bastille.Idle12"		"<clr:205,127,50><B>Bastille:<B> Looks like nobody's home."
+"bastille.Idle12"		"<clr:205,127,50><B>Bastille:<B> Vypadá to, že nikdo není doma."
 
-		"[english]bastille.Idle13"		"<clr:205,127,50><B>Bastille:<B> Stay sharp, <I>mes amis<I>."
-		"bastille.Idle13"		"<clr:205,127,50><B>Bastille:<B> Stay sharp, <I>mes amis<I>."
+"[english]bastille.Idle13"		"<clr:205,127,50><B>Bastille:<B> Stay sharp, <I>mes amis<I>."
+"bastille.Idle13"		"<clr:205,127,50><B>Bastille:<B> Zůstaňte bdělí, <I>moji přátelé<I>."
 
-		"[english]bastille.Idle14"		"<clr:205,127,50><B>Bastille:<B> There's something here, I can feel it."
-		"bastille.Idle14"		"<clr:205,127,50><B>Bastille:<B> There's something here, I can feel it."
+"[english]bastille.Idle14"		"<clr:205,127,50><B>Bastille:<B> There's something here, I can feel it."
+"bastille.Idle14"		"<clr:205,127,50><B>Bastille:<B> Něco tu je, cítím to."
 
-		"[english]bastille.Idle15"		"<clr:205,127,50><B>Bastille:<B> What was that?"
-		"bastille.Idle15"		"<clr:205,127,50><B>Bastille:<B> What was that?"
+"[english]bastille.Idle15"		"<clr:205,127,50><B>Bastille:<B> What was that?"
+"bastille.Idle15"		"<clr:205,127,50><B>Bastille:<B> Co to bylo?"
 
-		"[english]bastille.Idle16"		"<clr:205,127,50><B>Bastille:<B> What was that?"
-		"bastille.Idle16"		"<clr:205,127,50><B>Bastille:<B> What was that?"
+"[english]bastille.Idle16"		"<clr:205,127,50><B>Bastille:<B> What was that?"
+"bastille.Idle16"		"<clr:205,127,50><B>Bastille:<B> Co to bylo?"
 
-		"[english]bastille.Idle17"		"<clr:205,127,50><B>Bastille:<B> Where the hell are they now?"
-		"bastille.Idle17"		"<clr:205,127,50><B>Bastille:<B> Where the hell are they now?"
+"[english]bastille.Idle17"		"<clr:205,127,50><B>Bastille:<B> Where the hell are they now?"
+"bastille.Idle17"		"<clr:205,127,50><B>Bastille:<B> Kde sakra teď jsou?"
 
-		"[english]bastille.Idle18"		"<clr:205,127,50><B>Bastille:<B> Would be good do a bit of cleaning here."
-		"bastille.Idle18"		"<clr:205,127,50><B>Bastille:<B> Would be good do a bit of cleaning here."
+"[english]bastille.Idle18"		"<clr:205,127,50><B>Bastille:<B> Would be good do a bit of cleaning here."
+"bastille.Idle18"		"<clr:205,127,50><B>Bastille:<B> Bylo by dobré tady trochu uklidit."
 
-		"[english]bastille.FF0"		"<clr:205,127,50><B>Bastille:<B> Friendly fire!"
-		"bastille.FF0"		"<clr:205,127,50><B>Bastille:<B> Friendly fire!"
+"[english]bastille.FF0"		"<clr:205,127,50><B>Bastille:<B> Friendly fire!"
+"bastille.FF0"		"<clr:205,127,50><B>Bastille:<B> Palba do vlastních!"
 
-		"[english]bastille.FF1"		"<clr:205,127,50><B>Bastille:<B> Watch where you're pointing that thing."
-		"bastille.FF1"		"<clr:205,127,50><B>Bastille:<B> Watch where you're pointing that thing."
+"[english]bastille.FF1"		"<clr:205,127,50><B>Bastille:<B> Watch where you're pointing that thing."
+"bastille.FF1"		"<clr:205,127,50><B>Bastille:<B> Dávej pozor, kam s tím míříš."
 
-		"[english]bastille.FF2"		"<clr:205,127,50><B>Bastille:<B> Watch your target."
-		"bastille.FF2"		"<clr:205,127,50><B>Bastille:<B> Watch your target."
+"[english]bastille.FF2"		"<clr:205,127,50><B>Bastille:<B> Watch your target."
+"bastille.FF2"		"<clr:205,127,50><B>Bastille:<B> Sleduj svůj cíl."
 
-		"[english]bastille.FiringAtAlien0"		"<clr:205,127,50><B>Bastille:<B> Come and get me."
-		"bastille.FiringAtAlien0"		"<clr:205,127,50><B>Bastille:<B> Come and get me."
+"[english]bastille.FiringAtAlien0"		"<clr:205,127,50><B>Bastille:<B> Come and get me."
+"bastille.FiringAtAlien0"		"<clr:205,127,50><B>Bastille:<B> Pojď si pro mě."
 
-		"[english]bastille.FiringAtAlien1"		"<clr:205,127,50><B>Bastille:<B> Covering fire!"
-		"bastille.FiringAtAlien1"		"<clr:205,127,50><B>Bastille:<B> Covering fire!"
+"[english]bastille.FiringAtAlien1"		"<clr:205,127,50><B>Bastille:<B> Covering fire!"
+"bastille.FiringAtAlien1"		"<clr:205,127,50><B>Bastille:<B> Krycí palba!"
 
-		"[english]bastille.FiringAtAlien2"		"<clr:205,127,50><B>Bastille:<B> Die!"
-		"bastille.FiringAtAlien2"		"<clr:205,127,50><B>Bastille:<B> Die!"
+"[english]bastille.FiringAtAlien2"		"<clr:205,127,50><B>Bastille:<B> Die!"
+"bastille.FiringAtAlien2"		"<clr:205,127,50><B>Bastille:<B> Zemři!"
 
-		"[english]bastille.FiringAtAlien3"		"<clr:205,127,50><B>Bastille:<B> Incoming!"
-		"bastille.FiringAtAlien3"		"<clr:205,127,50><B>Bastille:<B> Incoming!"
+"[english]bastille.FiringAtAlien3"		"<clr:205,127,50><B>Bastille:<B> Incoming!"
+"bastille.FiringAtAlien3"		"<clr:205,127,50><B>Bastille:<B> Příchozí!"
 
-		"[english]bastille.FiringAtAlien4"		"<clr:205,127,50><B>Bastille:<B> Target!"
-		"bastille.FiringAtAlien4"		"<clr:205,127,50><B>Bastille:<B> Target!"
+"[english]bastille.FiringAtAlien4"		"<clr:205,127,50><B>Bastille:<B> Target!"
+"bastille.FiringAtAlien4"		"<clr:205,127,50><B>Bastille:<B> Cíl!"
 
-		"[english]bastille.FiringAtAlien5"		"<clr:205,127,50><B>Bastille:<B> There's hundreds of them!"
-		"bastille.FiringAtAlien5"		"<clr:205,127,50><B>Bastille:<B> There's hundreds of them!"
+"[english]bastille.FiringAtAlien5"		"<clr:205,127,50><B>Bastille:<B> There's hundreds of them!"
+"bastille.FiringAtAlien5"		"<clr:205,127,50><B>Bastille:<B> Jsou tu jich stovky!"
 
-		"[english]bastille.FiringAtAlien6"		"<clr:205,127,50><B>Bastille:<B> This is it!"
-		"bastille.FiringAtAlien6"		"<clr:205,127,50><B>Bastille:<B> This is it!"
+"[english]bastille.FiringAtAlien6"		"<clr:205,127,50><B>Bastille:<B> This is it!"
+"bastille.FiringAtAlien6"		"<clr:205,127,50><B>Bastille:<B> To je ono!"
 
-		"[english]bastille.FiringAtAlien7"		"<clr:205,127,50><B>Bastille:<B> Watch out!"
-		"bastille.FiringAtAlien7"		"<clr:205,127,50><B>Bastille:<B> Watch out!"
+"[english]bastille.FiringAtAlien7"		"<clr:205,127,50><B>Bastille:<B> Watch out!"
+"bastille.FiringAtAlien7"		"<clr:205,127,50><B>Bastille:<B> Bacha!"
 
-		"[english]bastille.FollowMe0"		"<clr:205,127,50><B>Bastille:<B> Follow me."
-		"bastille.FollowMe0"		"<clr:205,127,50><B>Bastille:<B> Follow me."
+"[english]bastille.FollowMe0"		"<clr:205,127,50><B>Bastille:<B> Follow me."
+"bastille.FollowMe0"		"<clr:205,127,50><B>Bastille:<B> Za mnou."
 
-		"[english]bastille.FollowMe1"		"<clr:205,127,50><B>Bastille:<B> Get a move on!"
-		"bastille.FollowMe1"		"<clr:205,127,50><B>Bastille:<B> Get a move on!"
+"[english]bastille.FollowMe1"		"<clr:205,127,50><B>Bastille:<B> Get a move on!"
+"bastille.FollowMe1"		"<clr:205,127,50><B>Bastille:<B> Pohněte se!"
 
-		"[english]bastille.FollowMe2"		"<clr:205,127,50><B>Bastille:<B> Go go go!"
-		"bastille.FollowMe2"		"<clr:205,127,50><B>Bastille:<B> Go go go!"
+"[english]bastille.FollowMe2"		"<clr:205,127,50><B>Bastille:<B> Go go go!"
+"bastille.FollowMe2"		"<clr:205,127,50><B>Bastille:<B> Jděte, jděte, jděte!"
 
-		"[english]bastille.FollowMe3"		"<clr:205,127,50><B>Bastille:<B> Hurry!"
-		"bastille.FollowMe3"		"<clr:205,127,50><B>Bastille:<B> Hurry!"
+"[english]bastille.FollowMe3"		"<clr:205,127,50><B>Bastille:<B> Hurry!"
+"bastille.FollowMe3"		"<clr:205,127,50><B>Bastille:<B> Pospěšte!"
 
-		"[english]bastille.FollowMe4"		"<clr:205,127,50><B>Bastille:<B> Hurry, hurry!"
-		"bastille.FollowMe4"		"<clr:205,127,50><B>Bastille:<B> Hurry, hurry!"
+"[english]bastille.FollowMe4"		"<clr:205,127,50><B>Bastille:<B> Hurry, hurry!"
+"bastille.FollowMe4"		"<clr:205,127,50><B>Bastille:<B> Pospěšte, pospěšte!"
 
-		"[english]bastille.FollowMe5"		"<clr:205,127,50><B>Bastille:<B> Hurry up!"
-		"bastille.FollowMe5"		"<clr:205,127,50><B>Bastille:<B> Hurry up!"
+"[english]bastille.FollowMe5"		"<clr:205,127,50><B>Bastille:<B> Hurry up!"
+"bastille.FollowMe5"		"<clr:205,127,50><B>Bastille:<B> Pospěšte si!"
 
-		"[english]bastille.FollowMe6"		"<clr:205,127,50><B>Bastille:<B> Let's move!"
-		"bastille.FollowMe6"		"<clr:205,127,50><B>Bastille:<B> Let's move!"
+"[english]bastille.FollowMe6"		"<clr:205,127,50><B>Bastille:<B> Let's move!"
+"bastille.FollowMe6"		"<clr:205,127,50><B>Bastille:<B> Pojďme!"
 
-		"[english]bastille.FollowMe7"		"<clr:205,127,50><B>Bastille:<B> Move it!"
-		"bastille.FollowMe7"		"<clr:205,127,50><B>Bastille:<B> Move it!"
+"[english]bastille.FollowMe7"		"<clr:205,127,50><B>Bastille:<B> Move it!"
+"bastille.FollowMe7"		"<clr:205,127,50><B>Bastille:<B> Hněte sebou!"
 
-		"[english]bastille.FollowMe8"		"<clr:205,127,50><B>Bastille:<B> Move it, move it! This whole place is getting to hell!"
-		"bastille.FollowMe8"		"<clr:205,127,50><B>Bastille:<B> Move it, move it! This whole place is getting to hell!"
+"[english]bastille.FollowMe8"		"<clr:205,127,50><B>Bastille:<B> Move it, move it! This whole place is getting to hell!"
+"bastille.FollowMe8"		"<clr:205,127,50><B>Bastille:<B> Hněte sebou, hněte sebou! Celé tohle místo jde do pekla!"
 
-		"[english]bastille.FollowMe9"		"<clr:205,127,50><B>Bastille:<B> Move it! This whole place is getting to hell!"
-		"bastille.FollowMe9"		"<clr:205,127,50><B>Bastille:<B> Move it! This whole place is getting to hell!"
+"[english]bastille.FollowMe9"		"<clr:205,127,50><B>Bastille:<B> Move it! This whole place is getting to hell!"
+"bastille.FollowMe9"		"<clr:205,127,50><B>Bastille:<B> Hněte sebou! Celé tohle místo jde do pekla!"
 
-		"[english]bastille.FollowMe10"		"<clr:205,127,50><B>Bastille:<B> We got a job to do."
-		"bastille.FollowMe10"		"<clr:205,127,50><B>Bastille:<B> We got a job to do."
+"[english]bastille.FollowMe10"		"<clr:205,127,50><B>Bastille:<B> We got a job to do."
+"bastille.FollowMe10"		"<clr:205,127,50><B>Bastille:<B> Máme práci k vykonání."
 
-		"[english]bastille.HoldPosition0"		"<clr:205,127,50><B>Bastille:<B> Hold position."
-		"bastille.HoldPosition0"		"<clr:205,127,50><B>Bastille:<B> Hold position."
+"[english]bastille.HoldPosition0"		"<clr:205,127,50><B>Bastille:<B> Hold position."
+"bastille.HoldPosition0"		"<clr:205,127,50><B>Bastille:<B> Držte pozici."
 
-		"[english]bastille.HoldPosition1"		"<clr:205,127,50><B>Bastille:<B> Wait there."
-		"bastille.HoldPosition1"		"<clr:205,127,50><B>Bastille:<B> Wait there."
+"[english]bastille.HoldPosition1"		"<clr:205,127,50><B>Bastille:<B> Wait there."
+"bastille.HoldPosition1"		"<clr:205,127,50><B>Bastille:<B> Počkejte tam."
 
-		"[english]bastille.NeedAmmo0"		"<clr:205,127,50><B>Bastille:<B> I need ammo."
-		"bastille.NeedAmmo0"		"<clr:205,127,50><B>Bastille:<B> I need ammo."
+"[english]bastille.NeedAmmo0"		"<clr:205,127,50><B>Bastille:<B> I need ammo."
+"bastille.NeedAmmo0"		"<clr:205,127,50><B>Bastille:<B> Potřebuji náboje."
 
-		"[english]bastille.NeedAmmo1"		"<clr:205,127,50><B>Bastille:<B> I need some ammo."
-		"bastille.NeedAmmo1"		"<clr:205,127,50><B>Bastille:<B> I need some ammo."
+"[english]bastille.NeedAmmo1"		"<clr:205,127,50><B>Bastille:<B> I need some ammo."
+"bastille.NeedAmmo1"		"<clr:205,127,50><B>Bastille:<B> Potřebuji trochu munice."
 
-		"[english]bastille.NeedAmmo2"		"<clr:205,127,50><B>Bastille:<B> Need ammo!"
-		"bastille.NeedAmmo2"		"<clr:205,127,50><B>Bastille:<B> Need ammo!"
+"[english]bastille.NeedAmmo2"		"<clr:205,127,50><B>Bastille:<B> Need ammo!"
+"bastille.NeedAmmo2"		"<clr:205,127,50><B>Bastille:<B> Potřeba munice!"
 
-		"[english]bastille.NoAmmo0"		"<clr:205,127,50><B>Bastille:<B> Damn, no ammo! Damn!"
-		"bastille.NoAmmo0"		"<clr:205,127,50><B>Bastille:<B> Damn, no ammo! Damn!"
+"[english]bastille.NoAmmo0"		"<clr:205,127,50><B>Bastille:<B> Damn, no ammo! Damn!"
+"bastille.NoAmmo0"		"<clr:205,127,50><B>Bastille:<B> Sakra, Došly náboje! Ksakru!"
 
-		"[english]bastille.NoAmmo1"		"<clr:205,127,50><B>Bastille:<B> I'm out of ammo!"
-		"bastille.NoAmmo1"		"<clr:205,127,50><B>Bastille:<B> I'm out of ammo!"
+"[english]bastille.NoAmmo1"		"<clr:205,127,50><B>Bastille:<B> I'm out of ammo!"
+"bastille.NoAmmo1"		"<clr:205,127,50><B>Bastille:<B> Došly mi náboje!"
 
-		"[english]bastille.NoAmmo2"		"<clr:205,127,50><B>Bastille:<B> No ammo!"
-		"bastille.NoAmmo2"		"<clr:205,127,50><B>Bastille:<B> No ammo!"
+"[english]bastille.NoAmmo2"		"<clr:205,127,50><B>Bastille:<B> No ammo!"
+"bastille.NoAmmo2"		"<clr:205,127,50><B>Bastille:<B> Bez munice!"
 
-		"[english]bastille.NoAmmo3"		"<clr:205,127,50><B>Bastille:<B> No ammo!"
-		"bastille.NoAmmo3"		"<clr:205,127,50><B>Bastille:<B> No ammo!"
+"[english]bastille.NoAmmo3"		"<clr:205,127,50><B>Bastille:<B> No ammo!"
+"bastille.NoAmmo3"		"<clr:205,127,50><B>Bastille:<B> Bez munice!"
 
-		"[english]bastille.NoAmmo4"		"<clr:205,127,50><B>Bastille:<B> Out of ammo!"
-		"bastille.NoAmmo4"		"<clr:205,127,50><B>Bastille:<B> Out of ammo!"
+"[english]bastille.NoAmmo4"		"<clr:205,127,50><B>Bastille:<B> Out of ammo!"
+"bastille.NoAmmo4"		"<clr:205,127,50><B>Bastille:<B> Došla munice!"
 
 "[english]bastille.Medic0"		"<clr:205,127,50><B>Bastille:<B> Medic!"
 "bastille.Medic0"		"<clr:205,127,50><B>Bastille:<B> Medik!"
@@ -473,92 +473,92 @@
 "[english]bastille.Medic1"		"<clr:205,127,50><B>Bastille:<B> Medic! Medic!"
 "bastille.Medic1"		"<clr:205,127,50><B>Bastille:<B> Medik! Medik!"
 
-		"[english]bastille.Medic2"		"<clr:205,127,50><B>Bastille:<B> Need a medic!"
-		"bastille.Medic2"		"<clr:205,127,50><B>Bastille:<B> Need a medic!"
+"[english]bastille.Medic2"		"<clr:205,127,50><B>Bastille:<B> Need a medic!"
+"bastille.Medic2"		"<clr:205,127,50><B>Bastille:<B> Potřebuji medika!"
 
-		"[english]bastille.Misc0"		"<clr:205,127,50><B>Bastille:<B> Do you know what, I feel better now."
-		"bastille.Misc0"		"<clr:205,127,50><B>Bastille:<B> Do you know what, I feel better now."
+"[english]bastille.Misc0"		"<clr:205,127,50><B>Bastille:<B> Do you know what, I feel better now."
+"bastille.Misc0"		"<clr:205,127,50><B>Bastille:<B> Víš co, cítím se už lépe."
 
-		"[english]bastille.Misc1"		"<clr:205,127,50><B>Bastille:<B> Do you know what? I feel better now without these bastards on our back."
-		"bastille.Misc1"		"<clr:205,127,50><B>Bastille:<B> Do you know what? I feel better now without these bastards on our back."
+"[english]bastille.Misc1"		"<clr:205,127,50><B>Bastille:<B> Do you know what? I feel better now without these bastards on our back."
+"bastille.Misc1"		"<clr:205,127,50><B>Bastille:<B> Víš co? Teď, bez těch parchantů za zády, se cítím líp."
 
-		"[english]bastille.Misc2"		"<clr:205,127,50><B>Bastille:<B> I'm happy or I'm starting to get annoyed."
-		"bastille.Misc2"		"<clr:205,127,50><B>Bastille:<B> I'm happy or I'm starting to get annoyed."
+"[english]bastille.Misc2"		"<clr:205,127,50><B>Bastille:<B> I'm happy or I'm starting to get annoyed."
+"bastille.Misc2"		"<clr:205,127,50><B>Bastille:<B> Jsem šťastný nebo začínám být otrávený."
 
-		"[english]bastille.Misc3"		"<clr:205,127,50><B>Bastille:<B> So get up, you had a rest. That's enough. You're not dead."
-		"bastille.Misc3"		"<clr:205,127,50><B>Bastille:<B> So get up, you had a rest. That's enough. You're not dead."
+"[english]bastille.Misc3"		"<clr:205,127,50><B>Bastille:<B> So get up, you had a rest. That's enough. You're not dead."
+"bastille.Misc3"		"<clr:205,127,50><B>Bastille:<B> Tak vstávej, odpočinul sis. To stačí. Nejsi mrtev."
 
-		"[english]bastille.Misc4"		"<clr:205,127,50><B>Bastille:<B> So stand up. Did you have a nice holiday? You're not dead."
-		"bastille.Misc4"		"<clr:205,127,50><B>Bastille:<B> So stand up. Did you have a nice holiday? You're not dead."
+"[english]bastille.Misc4"		"<clr:205,127,50><B>Bastille:<B> So stand up. Did you have a nice holiday? You're not dead."
+"bastille.Misc4"		"<clr:205,127,50><B>Bastille:<B> Tak vstaň. Měl jsi hezkou dovolenou? Nejsi mrtvý."
 
-		"[english]bastille.Misc5"		"<clr:205,127,50><B>Bastille:<B> So they're all dead. I feel like the good prince. Where's the princess?"
-		"bastille.Misc5"		"<clr:205,127,50><B>Bastille:<B> So they're all dead. I feel like the good prince. Where's the princess?"
+"[english]bastille.Misc5"		"<clr:205,127,50><B>Bastille:<B> So they're all dead. I feel like the good prince. Where's the princess?"
+"bastille.Misc5"		"<clr:205,127,50><B>Bastille:<B> Takže jsou všichni mrtví. Cítím se jako dobrý princ. Kde je princezna?"
 
-		"[english]bastille.Misc6"		"<clr:205,127,50><B>Bastille:<B> So what do we do now? They're all dead."
-		"bastille.Misc6"		"<clr:205,127,50><B>Bastille:<B> So what do we do now? They're all dead."
+"[english]bastille.Misc6"		"<clr:205,127,50><B>Bastille:<B> So what do we do now? They're all dead."
+"bastille.Misc6"		"<clr:205,127,50><B>Bastille:<B> Takže co teď budeme dělat? Všichni jsou mrtví."
 
-		"[english]bastille.Misc7"		"<clr:205,127,50><B>Bastille:<B> They're getting closer."
-		"bastille.Misc7"		"<clr:205,127,50><B>Bastille:<B> They're getting closer."
+"[english]bastille.Misc7"		"<clr:205,127,50><B>Bastille:<B> They're getting closer."
+"bastille.Misc7"		"<clr:205,127,50><B>Bastille:<B> Přiblížují se."
 
-		"[english]bastille.Misc8"		"<clr:205,127,50><B>Bastille:<B> They're inside the perimeter."
-		"bastille.Misc8"		"<clr:205,127,50><B>Bastille:<B> They're inside the perimeter."
+"[english]bastille.Misc8"		"<clr:205,127,50><B>Bastille:<B> They're inside the perimeter."
+"bastille.Misc8"		"<clr:205,127,50><B>Bastille:<B> Jsou uvnitř perimetru."
 
-		"[english]bastille.Misc9"		"<clr:205,127,50><B>Bastille:<B> This door's been sealed shut."
-		"bastille.Misc9"		"<clr:205,127,50><B>Bastille:<B> This door's been sealed shut."
+"[english]bastille.Misc9"		"<clr:205,127,50><B>Bastille:<B> This door's been sealed shut."
+"bastille.Misc9"		"<clr:205,127,50><B>Bastille:<B> Tyto dveře byly zapečetěny."
 
-		"[english]bastille.Misc10"		"<clr:205,127,50><B>Bastille:<B> Well this place is alike a castle now."
-		"bastille.Misc10"		"<clr:205,127,50><B>Bastille:<B> Well this place is alike a castle now."
+"[english]bastille.Misc10"		"<clr:205,127,50><B>Bastille:<B> Well this place is alike a castle now."
+"bastille.Misc10"		"<clr:205,127,50><B>Bastille:<B> No, tohle místo je teď jako hrad."
 
-		"[english]bastille.Misc11"		"<clr:205,127,50><B>Bastille:<B> You're starting to be annoying."
-		"bastille.Misc11"		"<clr:205,127,50><B>Bastille:<B> You're starting to be annoying."
+"[english]bastille.Misc11"		"<clr:205,127,50><B>Bastille:<B> You're starting to be annoying."
+"bastille.Misc11"		"<clr:205,127,50><B>Bastille:<B> Začínáš být otravný."
 
-		"[english]bastille.Reloading0"		"<clr:205,127,50><B>Bastille:<B> Lock and load!"
-		"bastille.Reloading0"		"<clr:205,127,50><B>Bastille:<B> Lock and load!"
+"[english]bastille.Reloading0"		"<clr:205,127,50><B>Bastille:<B> Lock and load!"
+"bastille.Reloading0"		"<clr:205,127,50><B>Bastille:<B> Nabít a připravit!"
 
-		"[english]bastille.Reloading1"		"<clr:205,127,50><B>Bastille:<B> Lock and load!"
-		"bastille.Reloading1"		"<clr:205,127,50><B>Bastille:<B> Lock and load!"
+"[english]bastille.Reloading1"		"<clr:205,127,50><B>Bastille:<B> Lock and load!"
+"bastille.Reloading1"		"<clr:205,127,50><B>Bastille:<B> Nabít a připravit!"
 
-		"[english]bastille.Reloading2"		"<clr:205,127,50><B>Bastille:<B> Reload!"
-		"bastille.Reloading2"		"<clr:205,127,50><B>Bastille:<B> Reload!"
+"[english]bastille.Reloading2"		"<clr:205,127,50><B>Bastille:<B> Reload!"
+"bastille.Reloading2"		"<clr:205,127,50><B>Bastille:<B> Přebíjím!"
 
-		"[english]bastille.Reloading3"		"<clr:205,127,50><B>Bastille:<B> Reload!"
-		"bastille.Reloading3"		"<clr:205,127,50><B>Bastille:<B> Reload!"
+"[english]bastille.Reloading3"		"<clr:205,127,50><B>Bastille:<B> Reload!"
+"bastille.Reloading3"		"<clr:205,127,50><B>Bastille:<B> Přebíjím!"
 
-		"[english]bastille.Reloading4"		"<clr:205,127,50><B>Bastille:<B> Reload!"
-		"bastille.Reloading4"		"<clr:205,127,50><B>Bastille:<B> Reload!"
+"[english]bastille.Reloading4"		"<clr:205,127,50><B>Bastille:<B> Reload!"
+"bastille.Reloading4"		"<clr:205,127,50><B>Bastille:<B> Přebíjím!"
 
-		"[english]bastille.Reloading5"		"<clr:205,127,50><B>Bastille:<B> Reload!"
-		"bastille.Reloading5"		"<clr:205,127,50><B>Bastille:<B> Reload!"
+"[english]bastille.Reloading5"		"<clr:205,127,50><B>Bastille:<B> Reload!"
+"bastille.Reloading5"		"<clr:205,127,50><B>Bastille:<B> Přebíjím!"
 
-		"[english]bastille.Reloading6"		"<clr:205,127,50><B>Bastille:<B> Reload!"
-		"bastille.Reloading6"		"<clr:205,127,50><B>Bastille:<B> Reload!"
+"[english]bastille.Reloading6"		"<clr:205,127,50><B>Bastille:<B> Reload!"
+"bastille.Reloading6"		"<clr:205,127,50><B>Bastille:<B> Přebíjím!"
 
-		"[english]bastille.Reloading7"		"<clr:205,127,50><B>Bastille:<B> Reload! Cover me! Cover me!"
-		"bastille.Reloading7"		"<clr:205,127,50><B>Bastille:<B> Reload! Cover me! Cover me!"
+"[english]bastille.Reloading7"		"<clr:205,127,50><B>Bastille:<B> Reload! Cover me! Cover me!"
+"bastille.Reloading7"		"<clr:205,127,50><B>Bastille:<B> Přebíjím! Kryjte mě! Kryjte mě!"
 
-		"[english]bastille.Reloading8"		"<clr:205,127,50><B>Bastille:<B> Reloading!"
-		"bastille.Reloading8"		"<clr:205,127,50><B>Bastille:<B> Reloading!"
+"[english]bastille.Reloading8"		"<clr:205,127,50><B>Bastille:<B> Reloading!"
+"bastille.Reloading8"		"<clr:205,127,50><B>Bastille:<B> Přebíjím!"
 
-		"[english]bastille.Reloading9"		"<clr:205,127,50><B>Bastille:<B> Reloading! Reloading!"
-		"bastille.Reloading9"		"<clr:205,127,50><B>Bastille:<B> Reloading! Reloading!"
+"[english]bastille.Reloading9"		"<clr:205,127,50><B>Bastille:<B> Reloading! Reloading!"
+"bastille.Reloading9"		"<clr:205,127,50><B>Bastille:<B> Přebíjím! Přebíjím!"
 
-		"[english]bastille.SentryInPlace0"		"<clr:205,127,50><B>Bastille:<B> Sentry assembled!"
-		"bastille.SentryInPlace0"		"<clr:205,127,50><B>Bastille:<B> Sentry assembled!"
+"[english]bastille.SentryInPlace0"		"<clr:205,127,50><B>Bastille:<B> Sentry assembled!"
+"bastille.SentryInPlace0"		"<clr:205,127,50><B>Bastille:<B> Sentry postavena!"
 
-		"[english]bastille.SentryInPlace1"		"<clr:205,127,50><B>Bastille:<B> Sentry in place!"
-		"bastille.SentryInPlace1"		"<clr:205,127,50><B>Bastille:<B> Sentry in place!"
+"[english]bastille.SentryInPlace1"		"<clr:205,127,50><B>Bastille:<B> Sentry in place!"
+"bastille.SentryInPlace1"		"<clr:205,127,50><B>Bastille:<B> Sentry je na místě!"
 
-		"[english]bastille.SentryInPlace2"		"<clr:205,127,50><B>Bastille:<B> Sentry online!"
-		"bastille.SentryInPlace2"		"<clr:205,127,50><B>Bastille:<B> Sentry online!"
+"[english]bastille.SentryInPlace2"		"<clr:205,127,50><B>Bastille:<B> Sentry online!"
+"bastille.SentryInPlace2"		"<clr:205,127,50><B>Bastille:<B> Sentry online!"
 
 "[english]bastille.Ammo0"		"<clr:205,127,50><B>Bastille:<B> Ammo!"
 "bastille.Ammo0"		"<clr:205,127,50><B>Bastille:<B> Munice!"
 
-		"[english]bastille.Medkit0"		"<clr:205,127,50><B>Bastille:<B> Meds."
-		"bastille.Medkit0"		"<clr:205,127,50><B>Bastille:<B> Meds."
+"[english]bastille.Medkit0"		"<clr:205,127,50><B>Bastille:<B> Meds."
+"bastille.Medkit0"		"<clr:205,127,50><B>Bastille:<B> Lékárnička."
 
-		"[english]bastille.Thanks0"		"<clr:205,127,50><B>Bastille:<B> <I>Merci."
-		"bastille.Thanks0"		"<clr:205,127,50><B>Bastille:<B> <I>Merci."
+"[english]bastille.Thanks0"		"<clr:205,127,50><B>Bastille:<B> <I>Merci."
+"bastille.Thanks0"		"<clr:205,127,50><B>Bastille:<B> <I>Díky."
 
 "[english]bastille.Thanks1"		"<clr:205,127,50><B>Bastille:<B> Thanks."
 "bastille.Thanks1"		"<clr:205,127,50><B>Bastille:<B> Díky."
@@ -570,31 +570,31 @@
 "bastille.Question1"		"<clr:205,127,50><B>Bastille:<B> Co?"
 
 "[english]bastille.Question2"		"<clr:205,127,50><B>Bastille:<B> What is it?"
-"bastille.Question2"		"<clr:205,127,50><B>Bastille:<B> Co to je?"
+"bastille.Question2"		"<clr:205,127,50><B>Bastille:<B> Co je?"
 
-		"[english]bastille.CallSarge0"		"<clr:205,127,50><B>Bastille:<B> Hey, Sarge."
-		"bastille.CallSarge0"		"<clr:205,127,50><B>Bastille:<B> Hey, Sarge."
+"[english]bastille.CallSarge0"		"<clr:205,127,50><B>Bastille:<B> Hey, Sarge."
+"bastille.CallSarge0"		"<clr:205,127,50><B>Bastille:<B> Ahoj, Sarge."
 
 "[english]bastille.CallSarge1"		"<clr:205,127,50><B>Bastille:<B> Sarge."
 "bastille.CallSarge1"		"<clr:205,127,50><B>Bastille:<B> Sarge."
 
-		"[english]bastille.CallJaeger0"		"<clr:205,127,50><B>Bastille:<B> Hey, Jaeger."
-		"bastille.CallJaeger0"		"<clr:205,127,50><B>Bastille:<B> Hey, Jaeger."
+"[english]bastille.CallJaeger0"		"<clr:205,127,50><B>Bastille:<B> Hey, Jaeger."
+"bastille.CallJaeger0"		"<clr:205,127,50><B>Bastille:<B> Ahoj, Jaegere."
 
 "[english]bastille.CallJaeger1"		"<clr:205,127,50><B>Bastille:<B> Jaeger."
-"bastille.CallJaeger1"		"<clr:205,127,50><B>Bastille:<B> Jaeger."
+"bastille.CallJaeger1"		"<clr:205,127,50><B>Bastille:<B> Jaegere."
 
 "[english]bastille.CallJaeger2"		"<clr:205,127,50><B>Bastille:<B> Jaeger."
-"bastille.CallJaeger2"		"<clr:205,127,50><B>Bastille:<B> Jaeger."
+"bastille.CallJaeger2"		"<clr:205,127,50><B>Bastille:<B> Jaegere."
 
-		"[english]bastille.CallWildcat0"		"<clr:205,127,50><B>Bastille:<B> Hey, Wildcat."
-		"bastille.CallWildcat0"		"<clr:205,127,50><B>Bastille:<B> Hey, Wildcat."
+"[english]bastille.CallWildcat0"		"<clr:205,127,50><B>Bastille:<B> Hey, Wildcat."
+"bastille.CallWildcat0"		"<clr:205,127,50><B>Bastille:<B> Ahoj, Wildcat."
 
 "[english]bastille.CallWildcat1"		"<clr:205,127,50><B>Bastille:<B> Wildcat."
 "bastille.CallWildcat1"		"<clr:205,127,50><B>Bastille:<B> Wildcat."
 
-		"[english]bastille.CallWolfe0"		"<clr:205,127,50><B>Bastille:<B> Hey, Wolfe."
-		"bastille.CallWolfe0"		"<clr:205,127,50><B>Bastille:<B> Hey, Wolfe."
+"[english]bastille.CallWolfe0"		"<clr:205,127,50><B>Bastille:<B> Hey, Wolfe."
+"bastille.CallWolfe0"		"<clr:205,127,50><B>Bastille:<B> Ahoj, Wolfe."
 
 "[english]bastille.CallWolfe1"		"<clr:205,127,50><B>Bastille:<B> Wolfe."
 "bastille.CallWolfe1"		"<clr:205,127,50><B>Bastille:<B> Wolfe."
@@ -602,275 +602,275 @@
 "[english]bastille.CallFaith0"		"<clr:205,127,50><B>Bastille:<B> Faith."
 "bastille.CallFaith0"		"<clr:205,127,50><B>Bastille:<B> Faith."
 
-		"[english]bastille.CallFaith1"		"<clr:205,127,50><B>Bastille:<B> Hey, Faith."
-		"bastille.CallFaith1"		"<clr:205,127,50><B>Bastille:<B> Hey, Faith."
+"[english]bastille.CallFaith1"		"<clr:205,127,50><B>Bastille:<B> Hey, Faith."
+"bastille.CallFaith1"		"<clr:205,127,50><B>Bastille:<B> Ahoj, Faith."
 
 "[english]bastille.CallCrash0"		"<clr:205,127,50><B>Bastille:<B> Crash."
-"bastille.CallCrash0"		"<clr:205,127,50><B>Bastille:<B> Crash."
+"bastille.CallCrash0"		"<clr:205,127,50><B>Bastille:<B> Crashi."
 
-		"[english]bastille.CallCrash1"		"<clr:205,127,50><B>Bastille:<B> Hey, Crash."
-		"bastille.CallCrash1"		"<clr:205,127,50><B>Bastille:<B> Hey, Crash."
+"[english]bastille.CallCrash1"		"<clr:205,127,50><B>Bastille:<B> Hey, Crash."
+"bastille.CallCrash1"		"<clr:205,127,50><B>Bastille:<B> Ahoj, Crashi."
 
 "[english]bastille.CallFlynn0"		"<clr:205,127,50><B>Bastille:<B> Flynn."
-"bastille.CallFlynn0"		"<clr:205,127,50><B>Bastille:<B> Flynn."
+"bastille.CallFlynn0"		"<clr:205,127,50><B>Bastille:<B> Flynne."
 
-		"[english]bastille.CallFlynn1"		"<clr:205,127,50><B>Bastille:<B> Hey, Flynn."
-		"bastille.CallFlynn1"		"<clr:205,127,50><B>Bastille:<B> Hey, Flynn."
+"[english]bastille.CallFlynn1"		"<clr:205,127,50><B>Bastille:<B> Hey, Flynn."
+"bastille.CallFlynn1"		"<clr:205,127,50><B>Bastille:<B> Ahoj, Flynne."
 
-		"[english]bastille.CallVegas0"		"<clr:205,127,50><B>Bastille:<B> Hey, Vegas."
-		"bastille.CallVegas0"		"<clr:205,127,50><B>Bastille:<B> Hey, Vegas."
+"[english]bastille.CallVegas0"		"<clr:205,127,50><B>Bastille:<B> Hey, Vegas."
+"bastille.CallVegas0"		"<clr:205,127,50><B>Bastille:<B> Ahoj, Vegasi."
 
 "[english]bastille.CallVegas1"		"<clr:205,127,50><B>Bastille:<B> Vegas."
-"bastille.CallVegas1"		"<clr:205,127,50><B>Bastille:<B> Vegas."
+"bastille.CallVegas1"		"<clr:205,127,50><B>Bastille:<B> Vegasi."
 
-		"[english]bastille.SuppliesAmmo0"		"<clr:205,127,50><B>Bastille:<B> Ah, good, some ammo."
-		"bastille.SuppliesAmmo0"		"<clr:205,127,50><B>Bastille:<B> Ah, good, some ammo."
+"[english]bastille.SuppliesAmmo0"		"<clr:205,127,50><B>Bastille:<B> Ah, good, some ammo."
+"bastille.SuppliesAmmo0"		"<clr:205,127,50><B>Bastille:<B> Á, dobře, trochu munice."
 
-		"[english]bastille.SuppliesAmmo1"		"<clr:205,127,50><B>Bastille:<B> Ah good, some supplies."
-		"bastille.SuppliesAmmo1"		"<clr:205,127,50><B>Bastille:<B> Ah good, some supplies."
+"[english]bastille.SuppliesAmmo1"		"<clr:205,127,50><B>Bastille:<B> Ah good, some supplies."
+"bastille.SuppliesAmmo1"		"<clr:205,127,50><B>Bastille:<B> Á, dobře, trocha zásob."
 
-		"[english]bastille.SuppliesAmmo2"		"<clr:205,127,50><B>Bastille:<B> Ah, some supplies. It feels like Christmas."
-		"bastille.SuppliesAmmo2"		"<clr:205,127,50><B>Bastille:<B> Ah, some supplies. It feels like Christmas."
+"[english]bastille.SuppliesAmmo2"		"<clr:205,127,50><B>Bastille:<B> Ah, some supplies. It feels like Christmas."
+"bastille.SuppliesAmmo2"		"<clr:205,127,50><B>Bastille:<B> Á, trocha zásob. Připadám si jako o Vánocích."
 
-		"[english]bastille.SuppliesAmmo3"		"<clr:205,127,50><B>Bastille:<B> Ha, just what we need."
-		"bastille.SuppliesAmmo3"		"<clr:205,127,50><B>Bastille:<B> Ha, just what we need."
+"[english]bastille.SuppliesAmmo3"		"<clr:205,127,50><B>Bastille:<B> Ha, just what we need."
+"bastille.SuppliesAmmo3"		"<clr:205,127,50><B>Bastille:<B> Ha, přesně co potřebujem."
 
-		"[english]bastille.SuppliesAmmo4"		"<clr:205,127,50><B>Bastille:<B> Thank God, a supply room."
-		"bastille.SuppliesAmmo4"		"<clr:205,127,50><B>Bastille:<B> Thank God, a supply room."
+"[english]bastille.SuppliesAmmo4"		"<clr:205,127,50><B>Bastille:<B> Thank God, a supply room."
+"bastille.SuppliesAmmo4"		"<clr:205,127,50><B>Bastille:<B> Díky bohu, zásobárna."
 
-		"[english]bastille.Supplies0"		"<clr:205,127,50><B>Bastille:<B> Ah, good, some supplies."
-		"bastille.Supplies0"		"<clr:205,127,50><B>Bastille:<B> Ah, good, some supplies."
+"[english]bastille.Supplies0"		"<clr:205,127,50><B>Bastille:<B> Ah, good, some supplies."
+"bastille.Supplies0"		"<clr:205,127,50><B>Bastille:<B> Á, dobře, trocha zásob."
 
-		"[english]bastille.Supplies1"		"<clr:205,127,50><B>Bastille:<B> Ah, some supplies, it feels like Christmas."
-		"bastille.Supplies1"		"<clr:205,127,50><B>Bastille:<B> Ah, some supplies, it feels like Christmas."
+"[english]bastille.Supplies1"		"<clr:205,127,50><B>Bastille:<B> Ah, some supplies, it feels like Christmas."
+"bastille.Supplies1"		"<clr:205,127,50><B>Bastille:<B> Á, trocha zásob, připadám si jako o Vánocích."
 
-		"[english]bastille.Supplies2"		"<clr:205,127,50><B>Bastille:<B> Ha, just what we need!"
-		"bastille.Supplies2"		"<clr:205,127,50><B>Bastille:<B> Ha, just what we need!"
+"[english]bastille.Supplies2"		"<clr:205,127,50><B>Bastille:<B> Ha, just what we need!"
+"bastille.Supplies2"		"<clr:205,127,50><B>Bastille:<B> Ha, přesně co potřebujem!"
 
-		"[english]bastille.Supplies3"		"<clr:205,127,50><B>Bastille:<B> Thank God, a supply room."
-		"bastille.Supplies3"		"<clr:205,127,50><B>Bastille:<B> Thank God, a supply room."
+"[english]bastille.Supplies3"		"<clr:205,127,50><B>Bastille:<B> Thank God, a supply room."
+"bastille.Supplies3"		"<clr:205,127,50><B>Bastille:<B> Díky bohu, zásobárna."
 
-		"[english]bastille.LockedTerminalCrash0"		"<clr:205,127,50><B>Bastille:<B> Access denied. Crash, can you get in?"
-		"bastille.LockedTerminalCrash0"		"<clr:205,127,50><B>Bastille:<B> Access denied. Crash, can you get in?"
+"[english]bastille.LockedTerminalCrash0"		"<clr:205,127,50><B>Bastille:<B> Access denied. Crash, can you get in?"
+"bastille.LockedTerminalCrash0"		"<clr:205,127,50><B>Bastille:<B> Přístup odepřen. Crashi, můžeš se dostat dovnitř?"
 
-		"[english]bastille.LockedTerminalFlynn0"		"<clr:205,127,50><B>Bastille:<B> Access denied. Flynn, can you get in?"
-		"bastille.LockedTerminalFlynn0"		"<clr:205,127,50><B>Bastille:<B> Access denied. Flynn, can you get in?"
+"[english]bastille.LockedTerminalFlynn0"		"<clr:205,127,50><B>Bastille:<B> Access denied. Flynn, can you get in?"
+"bastille.LockedTerminalFlynn0"		"<clr:205,127,50><B>Bastille:<B> Přístup odepřen. Flynne, můžeš se dostat dovnitř?"
 
-		"[english]bastille.LockedTerminalVegas0"		"<clr:205,127,50><B>Bastille:<B> Access denied. Vegas, can you get in?"
-		"bastille.LockedTerminalVegas0"		"<clr:205,127,50><B>Bastille:<B> Access denied. Vegas, can you get in?"
+"[english]bastille.LockedTerminalVegas0"		"<clr:205,127,50><B>Bastille:<B> Access denied. Vegas, can you get in?"
+"bastille.LockedTerminalVegas0"		"<clr:205,127,50><B>Bastille:<B> Přístup odepřen. Vegasi, můžeš se dostat dovnitř?"
 
-		"[english]bastille.LockedTerminal0"		"<clr:205,127,50><B>Bastille:<B> Access denied."
-		"bastille.LockedTerminal0"		"<clr:205,127,50><B>Bastille:<B> Access denied."
+"[english]bastille.LockedTerminal0"		"<clr:205,127,50><B>Bastille:<B> Access denied."
+"bastille.LockedTerminal0"		"<clr:205,127,50><B>Bastille:<B> Přístup odepřen."
 
-		"[english]bastille.LockedTerminal1"		"<clr:205,127,50><B>Bastille:<B> Hm, locked terminal."
-		"bastille.LockedTerminal1"		"<clr:205,127,50><B>Bastille:<B> Hm, locked terminal."
+"[english]bastille.LockedTerminal1"		"<clr:205,127,50><B>Bastille:<B> Hm, locked terminal."
+"bastille.LockedTerminal1"		"<clr:205,127,50><B>Bastille:<B> Hm, zamknutý terminál."
 
-		"[english]bastille.LockedTerminal2"		"<clr:205,127,50><B>Bastille:<B> It's locked."
-		"bastille.LockedTerminal2"		"<clr:205,127,50><B>Bastille:<B> It's locked."
+"[english]bastille.LockedTerminal2"		"<clr:205,127,50><B>Bastille:<B> It's locked."
+"bastille.LockedTerminal2"		"<clr:205,127,50><B>Bastille:<B> Je to zamknutý."
 
-		"[english]bastille.LockedTerminal3"		"<clr:205,127,50><B>Bastille:<B> This terminal is secure."
-		"bastille.LockedTerminal3"		"<clr:205,127,50><B>Bastille:<B> This terminal is secure."
+"[english]bastille.LockedTerminal3"		"<clr:205,127,50><B>Bastille:<B> This terminal is secure."
+"bastille.LockedTerminal3"		"<clr:205,127,50><B>Bastille:<B> Tento terminál je zabezpečený."
 
-		"[english]bastille.LockedTerminal4"		"<clr:205,127,50><B>Bastille:<B> This terminal is secure."
-		"bastille.LockedTerminal4"		"<clr:205,127,50><B>Bastille:<B> This terminal is secure."
+"[english]bastille.LockedTerminal4"		"<clr:205,127,50><B>Bastille:<B> This terminal is secure."
+"bastille.LockedTerminal4"		"<clr:205,127,50><B>Bastille:<B> Tento terminál je zabezpečený."
 
-		"[english]bastille.HoldingPosition0"		"<clr:205,127,50><B>Bastille:<B> Covering area."
-		"bastille.HoldingPosition0"		"<clr:205,127,50><B>Bastille:<B> Covering area."
+"[english]bastille.HoldingPosition0"		"<clr:205,127,50><B>Bastille:<B> Covering area."
+"bastille.HoldingPosition0"		"<clr:205,127,50><B>Bastille:<B> Kryji oblast."
 
-		"[english]bastille.HoldingPosition1"		"<clr:205,127,50><B>Bastille:<B> Holding position."
-		"bastille.HoldingPosition1"		"<clr:205,127,50><B>Bastille:<B> Holding position."
+"[english]bastille.HoldingPosition1"		"<clr:205,127,50><B>Bastille:<B> Holding position."
+"bastille.HoldingPosition1"		"<clr:205,127,50><B>Bastille:<B> Držím pozici."
 
-		"[english]bastille.HoldingPosition2"		"<clr:205,127,50><B>Bastille:<B> In position."
-		"bastille.HoldingPosition2"		"<clr:205,127,50><B>Bastille:<B> In position."
+"[english]bastille.HoldingPosition2"		"<clr:205,127,50><B>Bastille:<B> In position."
+"bastille.HoldingPosition2"		"<clr:205,127,50><B>Bastille:<B> Na místě."
 
-		"[english]bastille.HoldingPosition3"		"<clr:205,127,50><B>Bastille:<B> Securing area."
-		"bastille.HoldingPosition3"		"<clr:205,127,50><B>Bastille:<B> Securing area."
+"[english]bastille.HoldingPosition3"		"<clr:205,127,50><B>Bastille:<B> Securing area."
+"bastille.HoldingPosition3"		"<clr:205,127,50><B>Bastille:<B> Zabezpečuji oblast."
 
-		"[english]bastille.HoldingNorth0"		"<clr:205,127,50><B>Bastille:<B> Covering north."
-		"bastille.HoldingNorth0"		"<clr:205,127,50><B>Bastille:<B> Covering north."
+"[english]bastille.HoldingNorth0"		"<clr:205,127,50><B>Bastille:<B> Covering north."
+"bastille.HoldingNorth0"		"<clr:205,127,50><B>Bastille:<B> Kriji sever."
 
-		"[english]bastille.HoldingNorth1"		"<clr:205,127,50><B>Bastille:<B> Covering northside."
-		"bastille.HoldingNorth1"		"<clr:205,127,50><B>Bastille:<B> Covering northside."
+"[english]bastille.HoldingNorth1"		"<clr:205,127,50><B>Bastille:<B> Covering northside."
+"bastille.HoldingNorth1"		"<clr:205,127,50><B>Bastille:<B> Kryji severní stranu."
 
-		"[english]bastille.HoldingNorth2"		"<clr:205,127,50><B>Bastille:<B> I've got the north."
-		"bastille.HoldingNorth2"		"<clr:205,127,50><B>Bastille:<B> I've got the north."
+"[english]bastille.HoldingNorth2"		"<clr:205,127,50><B>Bastille:<B> I've got the north."
+"bastille.HoldingNorth2"		"<clr:205,127,50><B>Bastille:<B> Držím sever."
 
-		"[english]bastille.HoldingNorth3"		"<clr:205,127,50><B>Bastille:<B> Northside in position."
-		"bastille.HoldingNorth3"		"<clr:205,127,50><B>Bastille:<B> Northside in position."
+"[english]bastille.HoldingNorth3"		"<clr:205,127,50><B>Bastille:<B> Northside in position."
+"bastille.HoldingNorth3"		"<clr:205,127,50><B>Bastille:<B> Severní strana na místě."
 
-		"[english]bastille.HoldingSouth0"		"<clr:205,127,50><B>Bastille:<B> Covering south."
-		"bastille.HoldingSouth0"		"<clr:205,127,50><B>Bastille:<B> Covering south."
+"[english]bastille.HoldingSouth0"		"<clr:205,127,50><B>Bastille:<B> Covering south."
+"bastille.HoldingSouth0"		"<clr:205,127,50><B>Bastille:<B> Kryji jih."
 
-		"[english]bastille.HoldingSouth1"		"<clr:205,127,50><B>Bastille:<B> Covering southside."
-		"bastille.HoldingSouth1"		"<clr:205,127,50><B>Bastille:<B> Covering southside."
+"[english]bastille.HoldingSouth1"		"<clr:205,127,50><B>Bastille:<B> Covering southside."
+"bastille.HoldingSouth1"		"<clr:205,127,50><B>Bastille:<B> Kryji jižní stranu."
 
-		"[english]bastille.HoldingSouth2"		"<clr:205,127,50><B>Bastille:<B> I've got the south."
-		"bastille.HoldingSouth2"		"<clr:205,127,50><B>Bastille:<B> I've got the south."
+"[english]bastille.HoldingSouth2"		"<clr:205,127,50><B>Bastille:<B> I've got the south."
+"bastille.HoldingSouth2"		"<clr:205,127,50><B>Bastille:<B> Držím jih."
 
-		"[english]bastille.HoldingSouth3"		"<clr:205,127,50><B>Bastille:<B> Southside in position."
-		"bastille.HoldingSouth3"		"<clr:205,127,50><B>Bastille:<B> Southside in position."
+"[english]bastille.HoldingSouth3"		"<clr:205,127,50><B>Bastille:<B> Southside in position."
+"bastille.HoldingSouth3"		"<clr:205,127,50><B>Bastille:<B> Jižní strana na místě."
 
-		"[english]bastille.HoldingEast0"		"<clr:205,127,50><B>Bastille:<B> Covering east."
-		"bastille.HoldingEast0"		"<clr:205,127,50><B>Bastille:<B> Covering east."
+"[english]bastille.HoldingEast0"		"<clr:205,127,50><B>Bastille:<B> Covering east."
+"bastille.HoldingEast0"		"<clr:205,127,50><B>Bastille:<B> Kryji východ."
 
-		"[english]bastille.HoldingEast1"		"<clr:205,127,50><B>Bastille:<B> Covering eastside."
-		"bastille.HoldingEast1"		"<clr:205,127,50><B>Bastille:<B> Covering eastside."
+"[english]bastille.HoldingEast1"		"<clr:205,127,50><B>Bastille:<B> Covering eastside."
+"bastille.HoldingEast1"		"<clr:205,127,50><B>Bastille:<B> Kryji východní stranu."
 
-		"[english]bastille.HoldingEast2"		"<clr:205,127,50><B>Bastille:<B> I've got the east."
-		"bastille.HoldingEast2"		"<clr:205,127,50><B>Bastille:<B> I've got the east."
+"[english]bastille.HoldingEast2"		"<clr:205,127,50><B>Bastille:<B> I've got the east."
+"bastille.HoldingEast2"		"<clr:205,127,50><B>Bastille:<B> Držím východ."
 
-		"[english]bastille.HoldingEast3"		"<clr:205,127,50><B>Bastille:<B> Eastside in position."
-		"bastille.HoldingEast3"		"<clr:205,127,50><B>Bastille:<B> Eastside in position."
+"[english]bastille.HoldingEast3"		"<clr:205,127,50><B>Bastille:<B> Eastside in position."
+"bastille.HoldingEast3"		"<clr:205,127,50><B>Bastille:<B> Východní strana na místě."
 
-		"[english]bastille.HoldingWest0"		"<clr:205,127,50><B>Bastille:<B> Covering west."
-		"bastille.HoldingWest0"		"<clr:205,127,50><B>Bastille:<B> Covering west."
+"[english]bastille.HoldingWest0"		"<clr:205,127,50><B>Bastille:<B> Covering west."
+"bastille.HoldingWest0"		"<clr:205,127,50><B>Bastille:<B> Kryji západ."
 
-		"[english]bastille.HoldingWest1"		"<clr:205,127,50><B>Bastille:<B> Covering westside."
-		"bastille.HoldingWest1"		"<clr:205,127,50><B>Bastille:<B> Covering westside."
+"[english]bastille.HoldingWest1"		"<clr:205,127,50><B>Bastille:<B> Covering westside."
+"bastille.HoldingWest1"		"<clr:205,127,50><B>Bastille:<B> Kryji západní stranu."
 
-		"[english]bastille.HoldingWest2"		"<clr:205,127,50><B>Bastille:<B> I've got the west."
-		"bastille.HoldingWest2"		"<clr:205,127,50><B>Bastille:<B> I've got the west."
+"[english]bastille.HoldingWest2"		"<clr:205,127,50><B>Bastille:<B> I've got the west."
+"bastille.HoldingWest2"		"<clr:205,127,50><B>Bastille:<B> Držím západ."
 
-		"[english]bastille.HoldingWest3"		"<clr:205,127,50><B>Bastille:<B> Westside in position."
-		"bastille.HoldingWest3"		"<clr:205,127,50><B>Bastille:<B> Westside in position."
+"[english]bastille.HoldingWest3"		"<clr:205,127,50><B>Bastille:<B> Westside in position."
+"bastille.HoldingWest3"		"<clr:205,127,50><B>Bastille:<B> Západní strana na místě."
 
-		"[english]bastille.GotPoint0"		"<clr:205,127,50><B>Bastille:<B> Bastille, taking point."
-		"bastille.GotPoint0"		"<clr:205,127,50><B>Bastille:<B> Bastille, taking point."
+"[english]bastille.GotPoint0"		"<clr:205,127,50><B>Bastille:<B> Bastille, taking point."
+"bastille.GotPoint0"		"<clr:205,127,50><B>Bastille:<B> Bastille, zaujímám předvoj."
 
-		"[english]bastille.GotPoint1"		"<clr:205,127,50><B>Bastille:<B> Taking point."
-		"bastille.GotPoint1"		"<clr:205,127,50><B>Bastille:<B> Taking point."
+"[english]bastille.GotPoint1"		"<clr:205,127,50><B>Bastille:<B> Taking point."
+"bastille.GotPoint1"		"<clr:205,127,50><B>Bastille:<B> Zaujímám předvoj."
 
-		"[english]bastille.GotRear0"		"<clr:205,127,50><B>Bastille:<B> Bastille, taking rearguard."
-		"bastille.GotRear0"		"<clr:205,127,50><B>Bastille:<B> Bastille, taking rearguard."
+"[english]bastille.GotRear0"		"<clr:205,127,50><B>Bastille:<B> Bastille, taking rearguard."
+"bastille.GotRear0"		"<clr:205,127,50><B>Bastille:<B> Bastille, zaujímám zadní voj."
 
-		"[english]bastille.GotRear1"		"<clr:205,127,50><B>Bastille:<B> I'll cover the back."
-		"bastille.GotRear1"		"<clr:205,127,50><B>Bastille:<B> I'll cover the back."
+"[english]bastille.GotRear1"		"<clr:205,127,50><B>Bastille:<B> I'll cover the back."
+"bastille.GotRear1"		"<clr:205,127,50><B>Bastille:<B> Budu krýt záda."
 
-		"[english]bastille.GotRear2"		"<clr:205,127,50><B>Bastille:<B> I've got the back."
-		"bastille.GotRear2"		"<clr:205,127,50><B>Bastille:<B> I've got the back."
+"[english]bastille.GotRear2"		"<clr:205,127,50><B>Bastille:<B> I've got the back."
+"bastille.GotRear2"		"<clr:205,127,50><B>Bastille:<B> Hlídám záda."
 
-		"[english]bastille.RequestSealDoor0"		"<clr:205,127,50><B>Bastille:<B> Quick, seal it up."
-		"bastille.RequestSealDoor0"		"<clr:205,127,50><B>Bastille:<B> Quick, seal it up."
+"[english]bastille.RequestSealDoor0"		"<clr:205,127,50><B>Bastille:<B> Quick, seal it up."
+"bastille.RequestSealDoor0"		"<clr:205,127,50><B>Bastille:<B> Rychle, zapečeťte to."
 
-		"[english]bastille.RequestSealDoor1"		"<clr:205,127,50><B>Bastille:<B> Seal the door."
-		"bastille.RequestSealDoor1"		"<clr:205,127,50><B>Bastille:<B> Seal the door."
+"[english]bastille.RequestSealDoor1"		"<clr:205,127,50><B>Bastille:<B> Seal the door."
+"bastille.RequestSealDoor1"		"<clr:205,127,50><B>Bastille:<B> Zapečeťte ty dveře."
 
-		"[english]bastille.RequestSealDoor2"		"<clr:205,127,50><B>Bastille:<B> Securing door."
-		"bastille.RequestSealDoor2"		"<clr:205,127,50><B>Bastille:<B> Securing door."
+"[english]bastille.RequestSealDoor2"		"<clr:205,127,50><B>Bastille:<B> Securing door."
+"bastille.RequestSealDoor2"		"<clr:205,127,50><B>Bastille:<B> Zajistěte dveře."
 
-		"[english]bastille.RequestSealDoor3"		"<clr:205,127,50><B>Bastille:<B> Someone secure the door."
-		"bastille.RequestSealDoor3"		"<clr:205,127,50><B>Bastille:<B> Someone secure the door."
+"[english]bastille.RequestSealDoor3"		"<clr:205,127,50><B>Bastille:<B> Someone secure the door."
+"bastille.RequestSealDoor3"		"<clr:205,127,50><B>Bastille:<B> Zajistěte někdo ty dveře."
 
-		"[english]bastille.RequestCutDoor0"		"<clr:205,127,50><B>Bastille:<B> Cut the door open."
-		"bastille.RequestCutDoor0"		"<clr:205,127,50><B>Bastille:<B> Cut the door open."
+"[english]bastille.RequestCutDoor0"		"<clr:205,127,50><B>Bastille:<B> Cut the door open."
+"bastille.RequestCutDoor0"		"<clr:205,127,50><B>Bastille:<B> Rozřezejte ty dveře."
 
-		"[english]bastille.RequestCutDoor1"		"<clr:205,127,50><B>Bastille:<B> Cut through."
-		"bastille.RequestCutDoor1"		"<clr:205,127,50><B>Bastille:<B> Cut through."
+"[english]bastille.RequestCutDoor1"		"<clr:205,127,50><B>Bastille:<B> Cut through."
+"bastille.RequestCutDoor1"		"<clr:205,127,50><B>Bastille:<B> Řezejte skrz."
 
-		"[english]bastille.RequestCutDoor2"		"<clr:205,127,50><B>Bastille:<B> Get this door open."
-		"bastille.RequestCutDoor2"		"<clr:205,127,50><B>Bastille:<B> Get this door open."
+"[english]bastille.RequestCutDoor2"		"<clr:205,127,50><B>Bastille:<B> Get this door open."
+"bastille.RequestCutDoor2"		"<clr:205,127,50><B>Bastille:<B> Otevřte ty dveře."
 
-		"[english]bastille.RequestShootDoor0"		"<clr:205,127,50><B>Bastille:<B> All weapons blast it down."
-		"bastille.RequestShootDoor0"		"<clr:205,127,50><B>Bastille:<B> All weapons blast it down."
+"[english]bastille.RequestShootDoor0"		"<clr:205,127,50><B>Bastille:<B> All weapons blast it down."
+"bastille.RequestShootDoor0"		"<clr:205,127,50><B>Bastille:<B> Rozestřílejte to všemi zbraněmi."
 
-		"[english]bastille.RequestShootDoor1"		"<clr:205,127,50><B>Bastille:<B> Get this door open."
-		"bastille.RequestShootDoor1"		"<clr:205,127,50><B>Bastille:<B> Get this door open."
+"[english]bastille.RequestShootDoor1"		"<clr:205,127,50><B>Bastille:<B> Get this door open."
+"bastille.RequestShootDoor1"		"<clr:205,127,50><B>Bastille:<B> Otevřte ty dveře."
 
-		"[english]bastille.RequestShootDoor2"		"<clr:205,127,50><B>Bastille:<B> Shoot the door down."
-		"bastille.RequestShootDoor2"		"<clr:205,127,50><B>Bastille:<B> Shoot the door down."
+"[english]bastille.RequestShootDoor2"		"<clr:205,127,50><B>Bastille:<B> Shoot the door down."
+"bastille.RequestShootDoor2"		"<clr:205,127,50><B>Bastille:<B> Rozestřílejte ty dveře."
 
-		"[english]bastille.RequestShootDoor3"		"<clr:205,127,50><B>Bastille:<B> We can blast it down."
-		"bastille.RequestShootDoor3"		"<clr:205,127,50><B>Bastille:<B> We can blast it down."
+"[english]bastille.RequestShootDoor3"		"<clr:205,127,50><B>Bastille:<B> We can blast it down."
+"bastille.RequestShootDoor3"		"<clr:205,127,50><B>Bastille:<B> Můžeme je rozstřílet."
 
-		"[english]bastille.CuttingDoor0"		"<clr:205,127,50><B>Bastille:<B> Bastille, cutting door."
-		"bastille.CuttingDoor0"		"<clr:205,127,50><B>Bastille:<B> Bastille, cutting door."
+"[english]bastille.CuttingDoor0"		"<clr:205,127,50><B>Bastille:<B> Bastille, cutting door."
+"bastille.CuttingDoor0"		"<clr:205,127,50><B>Bastille:<B> Bastille, řežu dveře."
 
-		"[english]bastille.CuttingDoor1"		"<clr:205,127,50><B>Bastille:<B> Bastille, cutting through."
-		"bastille.CuttingDoor1"		"<clr:205,127,50><B>Bastille:<B> Bastille, cutting through."
+"[english]bastille.CuttingDoor1"		"<clr:205,127,50><B>Bastille:<B> Bastille, cutting through."
+"bastille.CuttingDoor1"		"<clr:205,127,50><B>Bastille:<B> Bastille, řežu skrz."
 
-		"[english]bastille.CuttingDoor2"		"<clr:205,127,50><B>Bastille:<B> Cutting door is just like surgery."
-		"bastille.CuttingDoor2"		"<clr:205,127,50><B>Bastille:<B> Cutting door is just like surgery."
+"[english]bastille.CuttingDoor2"		"<clr:205,127,50><B>Bastille:<B> Cutting door is just like surgery."
+"bastille.CuttingDoor2"		"<clr:205,127,50><B>Bastille:<B> Řezání dveří je jako operace."
 
-		"[english]bastille.SealingDoor0"		"<clr:205,127,50><B>Bastille:<B> Bastille, sealing door."
-		"bastille.SealingDoor0"		"<clr:205,127,50><B>Bastille:<B> Bastille, sealing door."
+"[english]bastille.SealingDoor0"		"<clr:205,127,50><B>Bastille:<B> Bastille, sealing door."
+"bastille.SealingDoor0"		"<clr:205,127,50><B>Bastille:<B> Bastille, zapečeťuji dveře."
 
-		"[english]bastille.SealingDoor1"		"<clr:205,127,50><B>Bastille:<B> Sealing door."
-		"bastille.SealingDoor1"		"<clr:205,127,50><B>Bastille:<B> Sealing door."
+"[english]bastille.SealingDoor1"		"<clr:205,127,50><B>Bastille:<B> Sealing door."
+"bastille.SealingDoor1"		"<clr:205,127,50><B>Bastille:<B> Zapečeťuji dveře."
 
-		"[english]bastille.Biomass0"		"<clr:205,127,50><B>Bastille:<B> Biomass! I hope you like the smell of burning alien flesh."
-		"bastille.Biomass0"		"<clr:205,127,50><B>Bastille:<B> Biomass! I hope you like the smell of burning alien flesh."
+"[english]bastille.Biomass0"		"<clr:205,127,50><B>Bastille:<B> Biomass! I hope you like the smell of burning alien flesh."
+"bastille.Biomass0"		"<clr:205,127,50><B>Bastille:<B> Biomasa! Doufám, že máte rádi vůni hořícího mimozemského masa."
 
-		"[english]bastille.Biomass1"		"<clr:205,127,50><B>Bastille:<B> Swarm biomass, burn it out!"
-		"bastille.Biomass1"		"<clr:205,127,50><B>Bastille:<B> Swarm biomass, burn it out!"
+"[english]bastille.Biomass1"		"<clr:205,127,50><B>Bastille:<B> Swarm biomass, burn it out!"
+"bastille.Biomass1"		"<clr:205,127,50><B>Bastille:<B> Biomasa Roje, spalte ji!"
 
-		"[english]bastille.Biomass2"		"<clr:205,127,50><B>Bastille:<B> Swarm biomass. Fascinating."
-		"bastille.Biomass2"		"<clr:205,127,50><B>Bastille:<B> Swarm biomass. Fascinating."
+"[english]bastille.Biomass2"		"<clr:205,127,50><B>Bastille:<B> Swarm biomass. Fascinating."
+"bastille.Biomass2"		"<clr:205,127,50><B>Bastille:<B> Biomasa Roje. Fascinující."
 
-		"[english]bastille.TimeToLeave0"		"<clr:205,127,50><B>Bastille:<B> Objectives complete, let's get out of here!"
-		"bastille.TimeToLeave0"		"<clr:205,127,50><B>Bastille:<B> Objectives complete, let's get out of here!"
+"[english]bastille.TimeToLeave0"		"<clr:205,127,50><B>Bastille:<B> Objectives complete, let's get out of here!"
+"bastille.TimeToLeave0"		"<clr:205,127,50><B>Bastille:<B> Cíle splněny, vypadňeme odsud!"
 
-		"[english]bastille.TimeToLeave1"		"<clr:205,127,50><B>Bastille:<B> Time to leave and not a moment too soon."
-		"bastille.TimeToLeave1"		"<clr:205,127,50><B>Bastille:<B> Time to leave and not a moment too soon."
+"[english]bastille.TimeToLeave1"		"<clr:205,127,50><B>Bastille:<B> Time to leave and not a moment too soon."
+"bastille.TimeToLeave1"		"<clr:205,127,50><B>Bastille:<B> Čas hned odejít a ani o chviličku později."
 
-		"[english]bastille.TimeToLeave2"		"<clr:205,127,50><B>Bastille:<B> Time to make an exit."
-		"bastille.TimeToLeave2"		"<clr:205,127,50><B>Bastille:<B> Time to make an exit."
+"[english]bastille.TimeToLeave2"		"<clr:205,127,50><B>Bastille:<B> Time to make an exit."
+"bastille.TimeToLeave2"		"<clr:205,127,50><B>Bastille:<B> Čas odchodu."
 
-		"[english]bastille.WatchOut0"		"<clr:205,127,50><B>Bastille:<B> Careful."
-		"bastille.WatchOut0"		"<clr:205,127,50><B>Bastille:<B> Careful."
+"[english]bastille.WatchOut0"		"<clr:205,127,50><B>Bastille:<B> Careful."
+"bastille.WatchOut0"		"<clr:205,127,50><B>Bastille:<B> Opatrně."
 
-		"[english]bastille.WatchOut1"		"<clr:205,127,50><B>Bastille:<B> Look out!"
-		"bastille.WatchOut1"		"<clr:205,127,50><B>Bastille:<B> Look out!"
+"[english]bastille.WatchOut1"		"<clr:205,127,50><B>Bastille:<B> Look out!"
+"bastille.WatchOut1"		"<clr:205,127,50><B>Bastille:<B> Pozor!"
 
-		"[english]bastille.WatchOut2"		"<clr:205,127,50><B>Bastille:<B> Look out!"
-		"bastille.WatchOut2"		"<clr:205,127,50><B>Bastille:<B> Look out!"
+"[english]bastille.WatchOut2"		"<clr:205,127,50><B>Bastille:<B> Look out!"
+"bastille.WatchOut2"		"<clr:205,127,50><B>Bastille:<B> Bacha!"
 
-		"[english]bastille.WatchOut3"		"<clr:205,127,50><B>Bastille:<B> Watch out!"
-		"bastille.WatchOut3"		"<clr:205,127,50><B>Bastille:<B> Watch out!"
+"[english]bastille.WatchOut3"		"<clr:205,127,50><B>Bastille:<B> Watch out!"
+"bastille.WatchOut3"		"<clr:205,127,50><B>Bastille:<B> Dávejte pozor!"
 
-		"[english]bastille.Shieldbug0"		"<clr:205,127,50><B>Bastille:<B> A shield bug!"
-		"bastille.Shieldbug0"		"<clr:205,127,50><B>Bastille:<B> A shield bug!"
+"[english]bastille.Shieldbug0"		"<clr:205,127,50><B>Bastille:<B> A shield bug!"
+"bastille.Shieldbug0"		"<clr:205,127,50><B>Bastille:<B> Štítobrouk!"
 
-		"[english]bastille.Shieldbug1"		"<clr:205,127,50><B>Bastille:<B> <I>Putain!<I> A shield bug!"
-		"bastille.Shieldbug1"		"<clr:205,127,50><B>Bastille:<B> <I>Putain!<I> A shield bug!"
+"[english]bastille.Shieldbug1"		"<clr:205,127,50><B>Bastille:<B> <I>Putain!<I> A shield bug!"
+"bastille.Shieldbug1"		"<clr:205,127,50><B>Bastille:<B> <I>Kurva!<I> Štítobrouk!"
 
-		"[english]bastille.Shieldbug2"		"<clr:205,127,50><B>Bastille:<B> We've got a big one!"
-		"bastille.Shieldbug2"		"<clr:205,127,50><B>Bastille:<B> We've got a big one!"
+"[english]bastille.Shieldbug2"		"<clr:205,127,50><B>Bastille:<B> We've got a big one!"
+"bastille.Shieldbug2"		"<clr:205,127,50><B>Bastille:<B> Je tu jeden velký!"
 
-		"[english]bastille.ShieldbugHint0"		"<clr:205,127,50><B>Bastille:<B> Get behind it!"
-		"bastille.ShieldbugHint0"		"<clr:205,127,50><B>Bastille:<B> Get behind it!"
+"[english]bastille.ShieldbugHint0"		"<clr:205,127,50><B>Bastille:<B> Get behind it!"
+"bastille.ShieldbugHint0"		"<clr:205,127,50><B>Bastille:<B> Dostaňte se za něj!"
 
-		"[english]bastille.ShieldbugHint1"		"<clr:205,127,50><B>Bastille:<B> Ready grenades!"
-		"bastille.ShieldbugHint1"		"<clr:205,127,50><B>Bastille:<B> Ready grenades!"
+"[english]bastille.ShieldbugHint1"		"<clr:205,127,50><B>Bastille:<B> Ready grenades!"
+"bastille.ShieldbugHint1"		"<clr:205,127,50><B>Bastille:<B> Připravte si granáty!"
 
-		"[english]bastille.ShieldbugHint2"		"<clr:205,127,50><B>Bastille:<B> Shoot it in the back."
-		"bastille.ShieldbugHint2"		"<clr:205,127,50><B>Bastille:<B> Shoot it in the back."
+"[english]bastille.ShieldbugHint2"		"<clr:205,127,50><B>Bastille:<B> Shoot it in the back."
+"bastille.ShieldbugHint2"		"<clr:205,127,50><B>Bastille:<B> Střelte ho do zad."
 
-		"[english]bastille.Parasite0"		"<clr:205,127,50><B>Bastille:<B> Careful, a parasite!"
-		"bastille.Parasite0"		"<clr:205,127,50><B>Bastille:<B> Careful, a parasite!"
+"[english]bastille.Parasite0"		"<clr:205,127,50><B>Bastille:<B> Careful, a parasite!"
+"bastille.Parasite0"		"<clr:205,127,50><B>Bastille:<B> Opatrně, parazit!"
 
-		"[english]bastille.Parasite1"		"<clr:205,127,50><B>Bastille:<B> Look out, parasite!"
-		"bastille.Parasite1"		"<clr:205,127,50><B>Bastille:<B> Look out, parasite!"
+"[english]bastille.Parasite1"		"<clr:205,127,50><B>Bastille:<B> Look out, parasite!"
+"bastille.Parasite1"		"<clr:205,127,50><B>Bastille:<B> Pozor, parazit!"
 
-		"[english]bastille.Parasite2"		"<clr:205,127,50><B>Bastille:<B> Parasite!"
-		"bastille.Parasite2"		"<clr:205,127,50><B>Bastille:<B> Parasite!"
+"[english]bastille.Parasite2"		"<clr:205,127,50><B>Bastille:<B> Parasite!"
+"bastille.Parasite2"		"<clr:205,127,50><B>Bastille:<B> Parazit!"
 
-		"[english]bastille.BeenInfested0"		"<clr:205,127,50><B>Bastille:<B> Argh, get it off!"
-		"bastille.BeenInfested0"		"<clr:205,127,50><B>Bastille:<B> Argh, get it off!"
+"[english]bastille.BeenInfested0"		"<clr:205,127,50><B>Bastille:<B> Argh, get it off!"
+"bastille.BeenInfested0"		"<clr:205,127,50><B>Bastille:<B> Argh, sundejte to!"
 
-		"[english]bastille.BeenInfested1"		"<clr:205,127,50><B>Bastille:<B> Get it off!"
-		"bastille.BeenInfested1"		"<clr:205,127,50><B>Bastille:<B> Get it off!"
+"[english]bastille.BeenInfested1"		"<clr:205,127,50><B>Bastille:<B> Get it off!"
+"bastille.BeenInfested1"		"<clr:205,127,50><B>Bastille:<B> Sundejte to!"
 
-		"[english]bastille.BeenInfested2"		"<clr:205,127,50><B>Bastille:<B> Parasite on me!"
-		"bastille.BeenInfested2"		"<clr:205,127,50><B>Bastille:<B> Parasite on me!"
+"[english]bastille.BeenInfested2"		"<clr:205,127,50><B>Bastille:<B> Parasite on me!"
+"bastille.BeenInfested2"		"<clr:205,127,50><B>Bastille:<B> Je na mě parazit!"
 
-		"[english]bastille.SwarmEggs0"		"<clr:205,127,50><B>Bastille:<B> Careful, swarm eggs."
-		"bastille.SwarmEggs0"		"<clr:205,127,50><B>Bastille:<B> Careful, swarm eggs."
+"[english]bastille.SwarmEggs0"		"<clr:205,127,50><B>Bastille:<B> Careful, swarm eggs."
+"bastille.SwarmEggs0"		"<clr:205,127,50><B>Bastille:<B> Opatrně, vajíčka roje."
 
-		"[english]bastille.SwarmEggs1"		"<clr:205,127,50><B>Bastille:<B> Swarm eggs."
-		"bastille.SwarmEggs1"		"<clr:205,127,50><B>Bastille:<B> Swarm eggs."
+"[english]bastille.SwarmEggs1"		"<clr:205,127,50><B>Bastille:<B> Swarm eggs."
+"bastille.SwarmEggs1"		"<clr:205,127,50><B>Bastille:<B> Vajíčka roje."
 
-		"[english]bastille.SwarmEggs2"		"<clr:205,127,50><B>Bastille:<B> Swarm eggs, take them out."
-		"bastille.SwarmEggs2"		"<clr:205,127,50><B>Bastille:<B> Swarm eggs, take them out."
+"[english]bastille.SwarmEggs2"		"<clr:205,127,50><B>Bastille:<B> Swarm eggs, take them out."
+"bastille.SwarmEggs2"		"<clr:205,127,50><B>Bastille:<B> Vajíčka roje, sejměte je."
 
 "[english]bastille.Grenade0"		"<clr:205,127,50><B>Bastille:<B> Clear."
 "bastille.Grenade0"		"<clr:205,127,50><B>Bastille:<B> Čisto."
@@ -881,189 +881,189 @@
 "[english]bastille.Grenade2"		"<clr:205,127,50><B>Bastille:<B> Grenade!"
 "bastille.Grenade2"		"<clr:205,127,50><B>Bastille:<B> Granát!"
 
-		"[english]bastille.AlienTooClose0"		"<clr:205,127,50><B>Bastille:<B> Bastard piece of shit!"
-		"bastille.AlienTooClose0"		"<clr:205,127,50><B>Bastille:<B> Bastard piece of shit!"
+"[english]bastille.AlienTooClose0"		"<clr:205,127,50><B>Bastille:<B> Bastard piece of shit!"
+"bastille.AlienTooClose0"		"<clr:205,127,50><B>Bastille:<B> Zkurvenej hajzl!"
 
-		"[english]bastille.AlienTooClose1"		"<clr:205,127,50><B>Bastille:<B> Damn this is it!"
-		"bastille.AlienTooClose1"		"<clr:205,127,50><B>Bastille:<B> Damn this is it!"
+"[english]bastille.AlienTooClose1"		"<clr:205,127,50><B>Bastille:<B> Damn this is it!"
+"bastille.AlienTooClose1"		"<clr:205,127,50><B>Bastille:<B> Sakra, je to tady!"
 
-		"[english]bastille.AlienTooClose2"		"<clr:205,127,50><B>Bastille:<B> Get it off!"
-		"bastille.AlienTooClose2"		"<clr:205,127,50><B>Bastille:<B> Get it off!"
+"[english]bastille.AlienTooClose2"		"<clr:205,127,50><B>Bastille:<B> Get it off!"
+"bastille.AlienTooClose2"		"<clr:205,127,50><B>Bastille:<B> Sundejte to!"
 
-		"[english]bastille.AlienTooClose3"		"<clr:205,127,50><B>Bastille:<B> Get it off me!"
-		"bastille.AlienTooClose3"		"<clr:205,127,50><B>Bastille:<B> Get it off me!"
+"[english]bastille.AlienTooClose3"		"<clr:205,127,50><B>Bastille:<B> Get it off me!"
+"bastille.AlienTooClose3"		"<clr:205,127,50><B>Bastille:<B> Sundejte to ze mě!"
 
-		"[english]bastille.AlienTooClose4"		"<clr:205,127,50><B>Bastille:<B> Kill it!"
-		"bastille.AlienTooClose4"		"<clr:205,127,50><B>Bastille:<B> Kill it!"
+"[english]bastille.AlienTooClose4"		"<clr:205,127,50><B>Bastille:<B> Kill it!"
+"bastille.AlienTooClose4"		"<clr:205,127,50><B>Bastille:<B> Zabte to!"
 
-		"[english]bastille.AlienTooClose5"		"<clr:205,127,50><B>Bastille:<B> On me!"
-		"bastille.AlienTooClose5"		"<clr:205,127,50><B>Bastille:<B> On me!"
+"[english]bastille.AlienTooClose5"		"<clr:205,127,50><B>Bastille:<B> On me!"
+"bastille.AlienTooClose5"		"<clr:205,127,50><B>Bastille:<B> U mě!"
 
-		"[english]bastille.MadFiring0"		"<clr:205,127,50><B>Bastille:<B> <I>Putain de merde, saloperie de merde, encule."
-		"bastille.MadFiring0"		"<clr:205,127,50><B>Bastille:<B> <I>Putain de merde, saloperie de merde, encule."
+"[english]bastille.MadFiring0"		"<clr:205,127,50><B>Bastille:<B> <I>Putain de merde, saloperie de merde, encule."
+"bastille.MadFiring0"		"<clr:205,127,50><B>Bastille:<B> <I> Do prdele, zasraní sráči, kurva."
 
-		"[english]bastille.MadFiring1"		"<clr:205,127,50><B>Bastille:<B> Eat this, alien scum!"
-		"bastille.MadFiring1"		"<clr:205,127,50><B>Bastille:<B> Eat this, alien scum!"
+"[english]bastille.MadFiring1"		"<clr:205,127,50><B>Bastille:<B> Eat this, alien scum!"
+"bastille.MadFiring1"		"<clr:205,127,50><B>Bastille:<B> Sežer tohle, mimozemský šmejde!"
 
-		"[english]bastille.MadFiring2"		"<clr:205,127,50><B>Bastille:<B> How'd you like a taste of this?"
-		"bastille.MadFiring2"		"<clr:205,127,50><B>Bastille:<B> How'd you like a taste of this?"
+"[english]bastille.MadFiring2"		"<clr:205,127,50><B>Bastille:<B> How'd you like a taste of this?"
+"bastille.MadFiring2"		"<clr:205,127,50><B>Bastille:<B> Jak by se ti líbila ochutnávka tohohle?"
 
-		"[english]bastille.BreachedDoor0"		"<clr:205,127,50><B>Bastille:<B> They're through!"
-		"bastille.BreachedDoor0"		"<clr:205,127,50><B>Bastille:<B> They're through!"
+"[english]bastille.BreachedDoor0"		"<clr:205,127,50><B>Bastille:<B> They're through!"
+"bastille.BreachedDoor0"		"<clr:205,127,50><B>Bastille:<B> Dostali se skrz!"
 
-		"[english]bastille.BreachedDoor1"		"<clr:205,127,50><B>Bastille:<B> They're through the door!"
-		"bastille.BreachedDoor1"		"<clr:205,127,50><B>Bastille:<B> They're through the door!"
+"[english]bastille.BreachedDoor1"		"<clr:205,127,50><B>Bastille:<B> They're through the door!"
+"bastille.BreachedDoor1"		"<clr:205,127,50><B>Bastille:<B> Dostali se skrze dveře!"
 
-		"[english]bastille.BreachedDoor2"		"<clr:205,127,50><B>Bastille:<B> They've breached the door!"
-		"bastille.BreachedDoor2"		"<clr:205,127,50><B>Bastille:<B> They've breached the door!"
+"[english]bastille.BreachedDoor2"		"<clr:205,127,50><B>Bastille:<B> They've breached the door!"
+"bastille.BreachedDoor2"		"<clr:205,127,50><B>Bastille:<B> Prolomili dveře!"
 
-		"[english]bastille.BreachedDoor3"		"<clr:205,127,50><B>Bastille:<B> They've breached the door!"
-		"bastille.BreachedDoor3"		"<clr:205,127,50><B>Bastille:<B> They've breached the door!"
+"[english]bastille.BreachedDoor3"		"<clr:205,127,50><B>Bastille:<B> They've breached the door!"
+"bastille.BreachedDoor3"		"<clr:205,127,50><B>Bastille:<B> Prolomili dveře!"
 
-		"[english]bastille.MarineDown0"		"<clr:205,127,50><B>Bastille:<B> Marine down!"
-		"bastille.MarineDown0"		"<clr:205,127,50><B>Bastille:<B> Marine down!"
+"[english]bastille.MarineDown0"		"<clr:205,127,50><B>Bastille:<B> Marine down!"
+"bastille.MarineDown0"		"<clr:205,127,50><B>Bastille:<B> Padl mariňák!"
 
-		"[english]bastille.SmallPain0"		"<clr:205,127,50><B>Bastille:<B> [Pain]"
-		"bastille.SmallPain0"		"<clr:205,127,50><B>Bastille:<B> [Pain]"
+"[english]bastille.SmallPain0"		"<clr:205,127,50><B>Bastille:<B> [Pain]"
+"bastille.SmallPain0"		"<clr:205,127,50><B>Bastille:<B> [Bolest]"
 
-		"[english]bastille.SmallPain1"		"<clr:205,127,50><B>Bastille:<B> [Pain]"
-		"bastille.SmallPain1"		"<clr:205,127,50><B>Bastille:<B> [Pain]"
+"[english]bastille.SmallPain1"		"<clr:205,127,50><B>Bastille:<B> [Pain]"
+"bastille.SmallPain1"		"<clr:205,127,50><B>Bastille:<B> [Bolest]"
 
-		"[english]bastille.SmallPain2"		"<clr:205,127,50><B>Bastille:<B> [Pain]"
-		"bastille.SmallPain2"		"<clr:205,127,50><B>Bastille:<B> [Pain]"
+"[english]bastille.SmallPain2"		"<clr:205,127,50><B>Bastille:<B> [Pain]"
+"bastille.SmallPain2"		"<clr:205,127,50><B>Bastille:<B> [Bolest]"
 
 
-		"[english]bastille.SmallPain3"		"<clr:205,127,50><B>Bastille:<B> [Pain]"
-		"bastille.SmallPain3"		"<clr:205,127,50><B>Bastille:<B> [Pain]"
+"[english]bastille.SmallPain3"		"<clr:205,127,50><B>Bastille:<B> [Pain]"
+"bastille.SmallPain3"		"<clr:205,127,50><B>Bastille:<B> [Bolest]"
 
-		"[english]bastille.SmallPain4"		"<clr:205,127,50><B>Bastille:<B> [Pain]"
-		"bastille.SmallPain4"		"<clr:205,127,50><B>Bastille:<B> [Pain]"
+"[english]bastille.SmallPain4"		"<clr:205,127,50><B>Bastille:<B> [Pain]"
+"bastille.SmallPain4"		"<clr:205,127,50><B>Bastille:<B> [Bolest]"
 
-		"[english]bastille.LargePain0"		"<clr:205,127,50><B>Bastille:<B> [Pain]"
-		"bastille.LargePain0"		"<clr:205,127,50><B>Bastille:<B> [Pain]"
+"[english]bastille.LargePain0"		"<clr:205,127,50><B>Bastille:<B> [Pain]"
+"bastille.LargePain0"		"<clr:205,127,50><B>Bastille:<B> [Bolest]"
 
-		"[english]bastille.LargePain1"		"<clr:205,127,50><B>Bastille:<B> [Pain]"
-		"bastille.LargePain1"		"<clr:205,127,50><B>Bastille:<B> [Pain]"
+"[english]bastille.LargePain1"		"<clr:205,127,50><B>Bastille:<B> [Pain]"
+"bastille.LargePain1"		"<clr:205,127,50><B>Bastille:<B> [Bolest]"
 
-		"[english]bastille.Dead0"		"<clr:205,127,50><B>Bastille:<B> [Death]"
-		"bastille.Dead0"		"<clr:205,127,50><B>Bastille:<B> [Death]"
+"[english]bastille.Dead0"		"<clr:205,127,50><B>Bastille:<B> [Death]"
+"bastille.Dead0"		"<clr:205,127,50><B>Bastille:<B> [Smrt]"
 
-		"[english]bastille.Dead1"		"<clr:205,127,50><B>Bastille:<B> [Death]"
-		"bastille.Dead1"		"<clr:205,127,50><B>Bastille:<B> [Death]"
+"[english]bastille.Dead1"		"<clr:205,127,50><B>Bastille:<B> [Death]"
+"bastille.Dead1"		"<clr:205,127,50><B>Bastille:<B> [Smrt]"
 
-		"[english]bastille.OnFire0"		"<clr:205,127,50><B>Bastille:<B> [Scream]"
-		"bastille.OnFire0"		"<clr:205,127,50><B>Bastille:<B> [Scream]"
+"[english]bastille.OnFire0"		"<clr:205,127,50><B>Bastille:<B> [Scream]"
+"bastille.OnFire0"		"<clr:205,127,50><B>Bastille:<B> [Křik]"
 
-		"[english]bastille.Healing0"		"<clr:205,127,50><B>Bastille:<B> Apply pressure here, it'll stop the bleeding."
-		"bastille.Healing0"		"<clr:205,127,50><B>Bastille:<B> Apply pressure here, it'll stop the bleeding."
+"[english]bastille.Healing0"		"<clr:205,127,50><B>Bastille:<B> Apply pressure here, it'll stop the bleeding."
+"bastille.Healing0"		"<clr:205,127,50><B>Bastille:<B> Zatlač sem, zastaví to krvácení."
 
-		"[english]bastille.Healing1"		"<clr:205,127,50><B>Bastille:<B> Be more careful next time."
-		"bastille.Healing1"		"<clr:205,127,50><B>Bastille:<B> Be more careful next time."
+"[english]bastille.Healing1"		"<clr:205,127,50><B>Bastille:<B> Be more careful next time."
+"bastille.Healing1"		"<clr:205,127,50><B>Bastille:<B> Příště buď opatrnější."
 
-		"[english]bastille.Healing2"		"<clr:205,127,50><B>Bastille:<B> Don't worry, this'll heal just fine."
-		"bastille.Healing2"		"<clr:205,127,50><B>Bastille:<B> Don't worry, this'll heal just fine."
+"[english]bastille.Healing2"		"<clr:205,127,50><B>Bastille:<B> Don't worry, this'll heal just fine."
+"bastille.Healing2"		"<clr:205,127,50><B>Bastille:<B> Neboj se, tohle se zahojí dobře."
 
-		"[english]bastille.Healing3"		"<clr:205,127,50><B>Bastille:<B> Get up, you're not dead."
-		"bastille.Healing3"		"<clr:205,127,50><B>Bastille:<B> Get up, you're not dead."
+"[english]bastille.Healing3"		"<clr:205,127,50><B>Bastille:<B> Get up, you're not dead."
+"bastille.Healing3"		"<clr:205,127,50><B>Bastille:<B> Vstávej, nejsi mrtvý."
 
-		"[english]bastille.Healing4"		"<clr:205,127,50><B>Bastille:<B> That should do till next time."
-		"bastille.Healing4"		"<clr:205,127,50><B>Bastille:<B> That should do till next time."
+"[english]bastille.Healing4"		"<clr:205,127,50><B>Bastille:<B> That should do till next time."
+"bastille.Healing4"		"<clr:205,127,50><B>Bastille:<B> Tohle by mělo stačit do příště."
 
-		"[english]bastille.Healing5"		"<clr:205,127,50><B>Bastille:<B> Get going, keep it up for another week."
-		"bastille.Healing5"		"<clr:205,127,50><B>Bastille:<B> Get going, keep it up for another week."
+"[english]bastille.Healing5"		"<clr:205,127,50><B>Bastille:<B> Get going, keep it up for another week."
+"bastille.Healing5"		"<clr:205,127,50><B>Bastille:<B> Pokračuj, vydrž o týden déle."
 
-		"[english]bastille.Healing6"		"<clr:205,127,50><B>Bastille:<B> Okay, you're not dead yet."
-		"bastille.Healing6"		"<clr:205,127,50><B>Bastille:<B> Okay, you're not dead yet."
+"[english]bastille.Healing6"		"<clr:205,127,50><B>Bastille:<B> Okay, you're not dead yet."
+"bastille.Healing6"		"<clr:205,127,50><B>Bastille:<B> Dobře, ještě mrtvý nejsi."
 
-		"[english]bastille.Healing7"		"<clr:205,127,50><B>Bastille:<B> Well this little scratch ain't that bad."
-		"bastille.Healing7"		"<clr:205,127,50><B>Bastille:<B> Well this little scratch ain't that bad."
+"[english]bastille.Healing7"		"<clr:205,127,50><B>Bastille:<B> Well this little scratch ain't that bad."
+"bastille.Healing7"		"<clr:205,127,50><B>Bastille:<B> No, tenhle malý škrábanec není tak hrozný."
 
-		"[english]bastille.Healing8"		"<clr:205,127,50><B>Bastille:<B> Hold still."
-		"bastille.Healing8"		"<clr:205,127,50><B>Bastille:<B> Hold still."
+"[english]bastille.Healing8"		"<clr:205,127,50><B>Bastille:<B> Hold still."
+"bastille.Healing8"		"<clr:205,127,50><B>Bastille:<B> Zůstaň v klidu."
 
-		"[english]bastille.Healing9"		"<clr:205,127,50><B>Bastille:<B> Maybe you're dead, but since you hear me..."
-		"bastille.Healing9"		"<clr:205,127,50><B>Bastille:<B> Maybe you're dead, but since you hear me..."
+"[english]bastille.Healing9"		"<clr:205,127,50><B>Bastille:<B> Maybe you're dead, but since you hear me..."
+"bastille.Healing9"		"<clr:205,127,50><B>Bastille:<B> Možná jsi mrtvý, ale vzhledem k tomu, že mě slyšíš..."
 
-		"[english]bastille.Healing10"		"<clr:205,127,50><B>Bastille:<B> That should help."
-		"bastille.Healing10"		"<clr:205,127,50><B>Bastille:<B> That should help."
+"[english]bastille.Healing10"		"<clr:205,127,50><B>Bastille:<B> That should help."
+"bastille.Healing10"		"<clr:205,127,50><B>Bastille:<B> Tohle by mělo pomoct."
 
-		"[english]bastille.Healing11"		"<clr:205,127,50><B>Bastille:<B> There."
-		"bastille.Healing11"		"<clr:205,127,50><B>Bastille:<B> There."
+"[english]bastille.Healing11"		"<clr:205,127,50><B>Bastille:<B> There."
+"bastille.Healing11"		"<clr:205,127,50><B>Bastille:<B> Tady."
 
-		"[english]bastille.Healing12"		"<clr:205,127,50><B>Bastille:<B> There you go, Marine."
-		"bastille.Healing12"		"<clr:205,127,50><B>Bastille:<B> There you go, Marine."
+"[english]bastille.Healing12"		"<clr:205,127,50><B>Bastille:<B> There you go, Marine."
+"bastille.Healing12"		"<clr:205,127,50><B>Bastille:<B> Tady máš, Mariňáku."
 
-		"[english]bastille.Healing13"		"<clr:205,127,50><B>Bastille:<B> Why, you should be dead, but you're not."
-		"bastille.Healing13"		"<clr:205,127,50><B>Bastille:<B> Why, you should be dead, but you're not."
+"[english]bastille.Healing13"		"<clr:205,127,50><B>Bastille:<B> Why, you should be dead, but you're not."
+"bastille.Healing13"		"<clr:205,127,50><B>Bastille:<B> Vždyť bys měl být mrtvý, ale nejsi."
 
-		"[english]bastille.Healing14"		"<clr:205,127,50><B>Bastille:<B> You'll live probably."
-		"bastille.Healing14"		"<clr:205,127,50><B>Bastille:<B> You'll live probably."
+"[english]bastille.Healing14"		"<clr:205,127,50><B>Bastille:<B> You'll live probably."
+"bastille.Healing14"		"<clr:205,127,50><B>Bastille:<B> Přežiješ, pravděpodobně."
 
-		"[english]bastille.Healing15"		"<clr:205,127,50><B>Bastille:<B> You'll survive, I hope."
-		"bastille.Healing15"		"<clr:205,127,50><B>Bastille:<B> You'll survive, I hope."
+"[english]bastille.Healing15"		"<clr:205,127,50><B>Bastille:<B> You'll survive, I hope."
+"bastille.Healing15"		"<clr:205,127,50><B>Bastille:<B> Přežiješ, doufám."
 
-		"[english]bastille.Healing16"		"<clr:205,127,50><B>Bastille:<B> You're not dead."
-		"bastille.Healing16"		"<clr:205,127,50><B>Bastille:<B> You're not dead."
+"[english]bastille.Healing16"		"<clr:205,127,50><B>Bastille:<B> You're not dead."
+"bastille.Healing16"		"<clr:205,127,50><B>Bastille:<B> Nejsi mrtvý."
 
-		"[english]bastille.Healing17"		"<clr:205,127,50><B>Bastille:<B> You're not dead, bastard."
-		"bastille.Healing17"		"<clr:205,127,50><B>Bastille:<B> You're not dead, bastard."
+"[english]bastille.Healing17"		"<clr:205,127,50><B>Bastille:<B> You're not dead, bastard."
+"bastille.Healing17"		"<clr:205,127,50><B>Bastille:<B> Nejsi mrtvý, parchante."
 
-		"[english]bastille.Healing18"		"<clr:205,127,50><B>Bastille:<B> You're still alive, well, I think."
-		"bastille.Healing18"		"<clr:205,127,50><B>Bastille:<B> You're still alive, well, I think."
+"[english]bastille.Healing18"		"<clr:205,127,50><B>Bastille:<B> You're still alive, well, I think."
+"bastille.Healing18"		"<clr:205,127,50><B>Bastille:<B> Jsi stále naživu, no, myslím."
 
-		"[english]bastille.LowOnMeds0"		"<clr:205,127,50><B>Bastille:<B> I'm low on medical supplies."
-		"bastille.LowOnMeds0"		"<clr:205,127,50><B>Bastille:<B> I'm low on medical supplies."
+"[english]bastille.LowOnMeds0"		"<clr:205,127,50><B>Bastille:<B> I'm low on medical supplies."
+"bastille.LowOnMeds0"		"<clr:205,127,50><B>Bastille:<B> Dochází mi zdravotnické potřeby."
 
-		"[english]bastille.NoMeds0"		"<clr:205,127,50><B>Bastille:<B> I'm out of meds."
-		"bastille.NoMeds0"		"<clr:205,127,50><B>Bastille:<B> I'm out of meds."
+"[english]bastille.NoMeds0"		"<clr:205,127,50><B>Bastille:<B> I'm out of meds."
+"bastille.NoMeds0"		"<clr:205,127,50><B>Bastille:<B> Došly mi léky."
 
-		"[english]bastille.NoMeds1"		"<clr:205,127,50><B>Bastille:<B> No more meds."
-		"bastille.NoMeds1"		"<clr:205,127,50><B>Bastille:<B> No more meds."
+"[english]bastille.NoMeds1"		"<clr:205,127,50><B>Bastille:<B> No more meds."
+"bastille.NoMeds1"		"<clr:205,127,50><B>Bastille:<B> Léky už nejsou."
 
-		"[english]bastille.NoMeds2"		"<clr:205,127,50><B>Bastille:<B> No more meds, stay sharp, <I>mes amis<I>."
-		"bastille.NoMeds2"		"<clr:205,127,50><B>Bastille:<B> No more meds, stay sharp, <I>mes amis<I>."
+"[english]bastille.NoMeds2"		"<clr:205,127,50><B>Bastille:<B> No more meds, stay sharp, <I>mes amis<I>."
+"bastille.NoMeds2"		"<clr:205,127,50><B>Bastille:<B> Došly léky, buďte bdělí, <I>moji přátelé<I>."
 
-		"[english]bastille.NoMeds3"		"<clr:205,127,50><B>Bastille:<B> Out of meds."
-		"bastille.NoMeds3"		"<clr:205,127,50><B>Bastille:<B> Out of meds."
+"[english]bastille.NoMeds3"		"<clr:205,127,50><B>Bastille:<B> Out of meds."
+"bastille.NoMeds3"		"<clr:205,127,50><B>Bastille:<B> Došly léky."
 
-		"[english]bastille.NoMeds4"		"<clr:205,127,50><B>Bastille:<B> Out of meds, watch yourselves."
-		"bastille.NoMeds4"		"<clr:205,127,50><B>Bastille:<B> Out of meds, watch yourselves."
+"[english]bastille.NoMeds4"		"<clr:205,127,50><B>Bastille:<B> Out of meds, watch yourselves."
+"bastille.NoMeds4"		"<clr:205,127,50><B>Bastille:<B> Došly léky, dávejte na sebe pozor."
 
-		"[english]bastille.NoMeds5"		"<clr:205,127,50><B>Bastille:<B> That's it, no more meds."
-		"bastille.NoMeds5"		"<clr:205,127,50><B>Bastille:<B> That's it, no more meds."
+"[english]bastille.NoMeds5"		"<clr:205,127,50><B>Bastille:<B> That's it, no more meds."
+"bastille.NoMeds5"		"<clr:205,127,50><B>Bastille:<B> To bylo vše, léky došly."
 
-		"[english]bastille.NoMeds6"		"<clr:205,127,50><B>Bastille:<B> That's it, no more meds."
-		"bastille.NoMeds6"		"<clr:205,127,50><B>Bastille:<B> That's it, no more meds."
+"[english]bastille.NoMeds6"		"<clr:205,127,50><B>Bastille:<B> That's it, no more meds."
+"bastille.NoMeds6"		"<clr:205,127,50><B>Bastille:<B> To bylo vše, léky došly."
 
-		"[english]bastille.ActivateStims0"		"<clr:205,127,50><B>Bastille:<B> Activate stims."
-		"bastille.ActivateStims0"		"<clr:205,127,50><B>Bastille:<B> Activate stims."
+"[english]bastille.ActivateStims0"		"<clr:205,127,50><B>Bastille:<B> Activate stims."
+"bastille.ActivateStims0"		"<clr:205,127,50><B>Bastille:<B> Aktivujte stimulanty."
 
-		"[english]bastille.ActivateStims1"		"<clr:205,127,50><B>Bastille:<B> Stim now!"
-		"bastille.ActivateStims1"		"<clr:205,127,50><B>Bastille:<B> Stim now!"
+"[english]bastille.ActivateStims1"		"<clr:205,127,50><B>Bastille:<B> Stim now!"
+"bastille.ActivateStims1"		"<clr:205,127,50><B>Bastille:<B> Stimulant, teď!"
 
-		"[english]bastille.Compliments0"		"<clr:205,127,50><B>Bastille:<B> Good kill, mon ami!"
-		"bastille.Compliments0"		"<clr:205,127,50><B>Bastille:<B> Good kill, mon ami!"
+"[english]bastille.Compliments0"		"<clr:205,127,50><B>Bastille:<B> Good kill, mon ami!"
+"bastille.Compliments0"		"<clr:205,127,50><B>Bastille:<B> Dobrá porážka, <I>můj příteli!"
 
-		"[english]bastille.Compliments1"		"<clr:205,127,50><B>Bastille:<B> Leave some for me, eh?"
-		"bastille.Compliments1"		"<clr:205,127,50><B>Bastille:<B> Leave some for me, eh?"
+"[english]bastille.Compliments1"		"<clr:205,127,50><B>Bastille:<B> Leave some for me, eh?"
+"bastille.Compliments1"		"<clr:205,127,50><B>Bastille:<B> Nechej nějaké i pro mě, jo?"
 
-		"[english]bastille.Compliments2"		"<clr:205,127,50><B>Bastille:<B> Nice shot!"
-		"bastille.Compliments2"		"<clr:205,127,50><B>Bastille:<B> Nice shot!"
+"[english]bastille.Compliments2"		"<clr:205,127,50><B>Bastille:<B> Nice shot!"
+"bastille.Compliments2"		"<clr:205,127,50><B>Bastille:<B> Pěkná rána!"
 
-		"[english]bastille.Selection0"		"<clr:205,127,50><B>Bastille:<B> Bastille ready!"
-		"bastille.Selection0"		"<clr:205,127,50><B>Bastille:<B> Bastille ready!"
+"[english]bastille.Selection0"		"<clr:205,127,50><B>Bastille:<B> Bastille ready!"
+"bastille.Selection0"		"<clr:205,127,50><B>Bastille:<B> Bastille připraven!"
 
-		"[english]bastille.Selection1"		"<clr:205,127,50><B>Bastille:<B> Commander!"
-		"bastille.Selection1"		"<clr:205,127,50><B>Bastille:<B> Commander!"
+"[english]bastille.Selection1"		"<clr:205,127,50><B>Bastille:<B> Commander!"
+"bastille.Selection1"		"<clr:205,127,50><B>Bastille:<B> Veliteli!"
 
-		"[english]bastille.Selection2"		"<clr:205,127,50><B>Bastille:<B> Commander!"
-		"bastille.Selection2"		"<clr:205,127,50><B>Bastille:<B> Commander!"
+"[english]bastille.Selection2"		"<clr:205,127,50><B>Bastille:<B> Commander!"
+"bastille.Selection2"		"<clr:205,127,50><B>Bastille:<B> Veliteli!"
 
-		"[english]bastille.Selection3"		"<clr:205,127,50><B>Bastille:<B> Medic reporting."
-		"bastille.Selection3"		"<clr:205,127,50><B>Bastille:<B> Medic reporting."
+"[english]bastille.Selection3"		"<clr:205,127,50><B>Bastille:<B> Medic reporting."
+"bastille.Selection3"		"<clr:205,127,50><B>Bastille:<B> Medik se hlásí."
 
-		"[english]bastille.Selection4"		"<clr:205,127,50><B>Bastille:<B> Reporting."
-		"bastille.Selection4"		"<clr:205,127,50><B>Bastille:<B> Reporting."
+"[english]bastille.Selection4"		"<clr:205,127,50><B>Bastille:<B> Reporting."
+"bastille.Selection4"		"<clr:205,127,50><B>Bastille:<B> Hlásím se."
 
 		// Crash
 
