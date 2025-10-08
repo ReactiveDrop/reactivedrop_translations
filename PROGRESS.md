@@ -1,25 +1,25 @@
 # Overview
 | Language | basemodui | closecaption | gameui | reactivedrop | items | statsweb | Strings | Files |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 2 |
-| [Traditional Chinese](#tchinese-繁體中文) | ✔️ | ✔️ | ✔️ | 98 | ✔️ | ✔️ | ✔️ | 127 |
+| [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
+| [Traditional Chinese](#tchinese-繁體中文) | ✔️ | ✔️ | ✔️ | 98 | ✔️ | ✔️ | ✔️ | 125 |
 | [Czech](#czech-čeština) | ✔️ | 1810 | 43 | 4386 | 286 | 231 | 980 | 147 |
 | [Danish](#non-curated-languages) | 57 | 231 | 43 | 3913 | 286 | 231 | 710 | 148 |
 | [Dutch](#non-curated-languages) | 56 | 2004 | 43 | 3382 | 286 | 231 | 710 | 147 |
 | [Finnish](#non-curated-languages) | ✔️ | 2004 | 42 | 3239 | 215 | 171 | 641 | 146 |
 | [French](#french-français) | 2 | 67 | 43 | 2527 | 285 | 231 | 650 | 126 |
-| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 2 |
+| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Hungarian](#non-curated-languages) | 56 | 138 | 43 | 3382 | 286 | 231 | 975 | 148 |
 | [Indonesian](#indonesian-indonesia) | 719 | 2004 | 635 | 4348 | 289 | 236 | 972 | 148 |
-| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | 9 | 3 | 1 | ✔️ | 2 |
+| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 35 | 2 |
-| [Korean](#koreana-한국어) | ✔️ | ✔️ | ✔️ | 35 | ✔️ | ✔️ | ✔️ | 31 |
+| [Korean](#koreana-한국어) | ✔️ | ✔️ | ✔️ | 35 | ✔️ | ✔️ | ✔️ | 29 |
 | [Norwegian Bokmål](#non-curated-languages) | 74 | 708 | 48 | 4087 | 286 | 231 | 710 | 148 |
 | [Polish](#polish-polski) | 2 | 2004 | ✔️ | 3026 | 15 | 20 | 137 | 128 |
 | [European Portuguese](#portuguese-português-europeu) | 5 | 180 | 33 | 2472 | 266 | 52 | 636 | 143 |
 | [Brazilian Portuguese](#brazilian-português) | 1 | ✔️ | ✔️ | 997 | 28 | 23 | 4 | 4 |
 | [Romanian](#non-curated-languages) | 56 | 1996 | 49 | 4093 | 286 | 231 | 975 | 148 |
-| [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | ✔️ | 2 | ✔️ | ✔️ | 2 |
+| [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [European Spanish](#spanish-español-de-españa) | ✔️ | 2004 | ✔️ | 2025 | 3 | 1 | 3 | 126 |
 | [Latin American Spanish](#latam-español-latinoamericano) | 1 | 2004 | ✔️ | 4433 | 34 | 24 | 207 | 144 |
 | [Swedish](#swedish-svenska) | ✔️ | ✔️ | ✔️ | 73 | ✔️ | ✔️ | ✔️ | 73 |
@@ -41,10 +41,7 @@
 
 </summary>
 
-### Upcoming Release Notes
-
-- [20251101_schinese.xml](release_notes/20251101_english.xml) is missing.
-- [20260206_schinese.xml](release_notes/20260206_english.xml) is missing.
+✓ Up to date!
 
 </details>
 
@@ -57,11 +54,6 @@
 ### Strings
 
 - [reactivedrop_tchinese.txt](resource/reactivedrop_tchinese.txt) has 98 untranslated strings.
-
-### Upcoming Release Notes
-
-- [20251101_tchinese.xml](release_notes/20251101_english.xml) is missing.
-- [20260206_tchinese.xml](release_notes/20260206_english.xml) is missing.
 
 ### Mail and News
 
@@ -548,10 +540,7 @@
 
 </summary>
 
-### Upcoming Release Notes
-
-- [20251101_german.xml](release_notes/20251101_english.xml) is missing.
-- [20260206_german.xml](release_notes/20260206_english.xml) is missing.
+✓ Up to date!
 
 </details>
 
@@ -747,16 +736,7 @@
 
 </summary>
 
-### Strings
-
-- [items_italian.vdf](community/inventory_service/items_italian.vdf) has 3 untranslated strings.
-- [statsweb_italian.vdf](community/stats_website/statsweb_italian.vdf) has 1 untranslated strings.
-- [reactivedrop_italian.txt](resource/reactivedrop_italian.txt) has 9 untranslated strings.
-
-### Upcoming Release Notes
-
-- [20251101_italian.xml](release_notes/20251101_english.xml) is missing.
-- [20260206_italian.xml](release_notes/20260206_english.xml) is missing.
+✓ Up to date!
 
 </details>
 
@@ -786,11 +766,6 @@
 ### Strings
 
 - [reactivedrop_koreana.txt](resource/reactivedrop_koreana.txt) has 35 untranslated strings.
-
-### Upcoming Release Notes
-
-- [20251101_koreana.xml](release_notes/20251101_english.xml) is missing.
-- [20260206_koreana.xml](release_notes/20260206_english.xml) is missing.
 
 ### Mail and News
 
@@ -1196,14 +1171,7 @@
 
 </summary>
 
-### Strings
-
-- [items_russian.vdf](community/inventory_service/items_russian.vdf) has 2 untranslated strings.
-
-### Upcoming Release Notes
-
-- [20251101_russian.xml](release_notes/20251101_english.xml) is missing.
-- [20260206_russian.xml](release_notes/20260206_english.xml) is missing.
+✓ Up to date!
 
 </details>
 
