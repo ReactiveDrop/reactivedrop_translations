@@ -3,7 +3,7 @@
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Traditional Chinese](#tchinese-繁體中文) | ✔️ | ✔️ | ✔️ | 98 | ✔️ | ✔️ | ✔️ | 125 |
-| [Czech](#czech-čeština) | ✔️ | 1810 | 43 | 4386 | 286 | 231 | 980 | 147 |
+| [Czech](#czech-čeština) | ✔️ | 1506 | 43 | 4386 | 286 | 231 | 972 | 147 |
 | [Danish](#non-curated-languages) | 57 | 231 | 43 | 3913 | 286 | 231 | 710 | 148 |
 | [Dutch](#non-curated-languages) | 56 | 2004 | 43 | 3382 | 286 | 231 | 710 | 147 |
 | [Finnish](#non-curated-languages) | ✔️ | 2004 | 42 | 3239 | 215 | 171 | 641 | 146 |
@@ -203,8 +203,7 @@
 - [misc/signage/signage_czech.vdf](misc/signage/signage_czech.vdf) has 70 untranslated strings.
 - [platform/servers/serverbrowser_czech.txt](platform/servers/serverbrowser_czech.txt) has 186 untranslated strings.
 - [platform/vgui_czech.txt](platform/vgui_czech.txt) has 184 untranslated strings.
-- [chat_czech.txt](resource/chat_czech.txt) has 8 untranslated strings.
-- [closecaption_czech.txt](resource/closecaption_czech.txt) has 1810 untranslated strings.
+- [closecaption_czech.txt](resource/closecaption_czech.txt) has 1506 untranslated strings.
 - [gameui_czech.txt](resource/gameui_czech.txt) has 43 untranslated strings.
 - [reactivedrop_czech.txt](resource/reactivedrop_czech.txt) has 4386 untranslated strings.
 - [valve_czech.txt](resource/valve_czech.txt) has 266 untranslated strings.
