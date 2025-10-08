@@ -218,7 +218,7 @@
 "[english]Command.co_debriefing_ob10"		"<clr:240,255,255><B>Lt. Williams:<B> We are still detecting a single large heat source in a deep, well protected chamber. IAF Command is making investigation of this a priority."
 "Command.co_debriefing_ob10"		"<clr:240,255,255><B>Poručík Williams:<B> Stále detekujeme jeden velký zdroj tepla v hluboké, dobře chráněné komoře. Velení IAF považuje vyšetření této záležitosti za prioritu."
 
-		// Bastille
+// Bastille
 
 
 "[english]bastille.SynUpReply0"		"<clr:205,127,50><B>Bastille:<B> You don't wanna drink that shit, believe me."
