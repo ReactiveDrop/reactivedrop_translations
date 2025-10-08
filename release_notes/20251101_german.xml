@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<content><string id="body">[h2]Highlights[/h2]
+[list]
+[*]Ein SynTek Wohnareal thematischer Hintergrund für das Hauptmenü wurde hinzugefügt.
+[*]Die Kamerabilder, die hinter dem Einweisung angezeigt werden, haben weniger statisches Rauschen und lenken weniger ab.
+[*]Viele Waffen sind jetzt im Knien genauer.[expand type=details][list][*]22A3-1 Sturmgewehr
+[*]22A4-2 Kampfgewehr
+[*]22A7-Z Prototyp-Gewehr
+[*]50CMG4-1
+[*]K80 Persönliche Defensivwaffe
+[*]M42 Vindicator
+[*]S23A SynTek Autogun
+[*]Model 35 Schrotflinte[/list][/expand]
+[/list]
+
+[h2]Verbesserungen an Einsätzen[/h2]
+[list]
+[*][b]Deima Brücke:[/b] Einige Drohnen-Spawn-Positionen auf der Brücke, die zu festsitzenden Aliens führten, wurden behoben.
+[*][b]Deima Brücke:[/b] Verbessertes Spawnen von Ansturm am Ende der Brücke.
+[*][b]Tränen für Tarnor: Verlassene Wartungstunnel:[/b] Es wurde behoben, dass Aliens um den Laser herum stecken bleiben.
+[*][b]Tränen für Tarnor: Oasis-Kolonie Raumhafen:[/b] Ein Xenomiten-Spawnpunkt im Kontrollraum, der nicht funktionierte, wurde behoben.
+[*][b]Tilarus-5: Arktische Infiltration:[/b] Irreführende Kollisionen rund um die erste Luftschleuse wurden behoben.
+[*][b]Paranoia: Hochspannung:[/b] Einige Fälle, in denen der Boden flackerte, wurden behoben.
+[*][b]Nam Humanum: Plattform XVII:[/b] Das Spawnen von Ansturm-Aliens in der Luft entlang der Plattformstrecke wurde behoben.
+[*][b]Nam Humanum: Grundstein Laboratorien:[/b] Es wurde behoben, dass Soldaten nach den ersten acht (in speziellen Spielmodi mit mehr als acht Soldaten) beim Start stecken bleiben.
+[*][b]Nam Humanum: Grundstein Laboratorien:[/b] Ein Leistungsproblem bei der Annäherung an den zentralen Bereich im Mehrspielermodus wurde behoben.
+[*][b]Reduction: Gefallene Stadt:[/b] Ein Feuer in der Nähe einiger Eier am Ende des Einsatzes entzündete sich nun sehr langsam.
+[/list]</string><string id="subtitle"></string><string id="summary"></string><string id="title">AS:RD Update - 1. November 2025 "Cone of Fire"</string></content>
