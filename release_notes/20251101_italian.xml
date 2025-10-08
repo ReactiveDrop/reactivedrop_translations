@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<content><string id="body">[h2]Novità[/h2]
+[list]
+[*]Aggiunto uno sfondo del menu principale a tema Residenziale SynTek.
+[*]Le immagini delle telecamere visualizzate dietro il briefing presentano meno interferenze e distraggono meno.
+[*]Molte armi sono ora più precise quando si è accovacciati.[expand type=details][list][*]Fucile d'assalto 22A3-1
+[*]Fucile da combattimento 22A4-2
+[*]Fucile d'assalto prototipo 22A7-Z
+[*]50CMG4-1
+[*]Arma da difesa personale K80
+[*]M42 Vindicator
+[*]S23A SynTek Autogun
+[*]Fucile a pompa modello 35[/list][/expand]
+[/list]
+
+[h2]Miglioramenti alle missioni[/h2]
+[list]
+[*][b]Ponte della Superficie di Deima:[/b] risolto il problema relativo alla posizione di spawn di alcuni droni sul ponte che causava il blocco degli alieni.
+[*][b]Ponte della Superficie di Deima:[/b] migliorato lo spawn degli Onslaught nella zona terminale del ponte.
+[*][b]Lacrime per Tarnor: Tunnel di Manutenzione Abbandonati:[/b] Risolto il blocco degli alieni intorno al laser.
+[*][b]Lacrime per Tarnor: Spazioporto della Colonia di Oasis:[/b] Risolto un punto di spawn degli xenomiti nella sala di controllo che non funzionava.
+[*][b]Tilarus-5: Infiltrazione Artica:[/b] Risolto il problema delle collisioni fuorvianti intorno alla prima camera di equilibrio.
+[*][b]Paranoia: Alta Tensione:[/b] Risolti alcuni casi di sfarfallio del terreno.
+[*][b]Nam Humanum: Platform XVII:[/b] Risolto il problema della generazione degli alieni Onslaught a mezz'aria lungo il binario della piattaforma.
+[*][b]Nam Humanum: Laboratori Groundwork:[/b] Risolto il problema che bloccava i soldati dopo i primi otto (nelle modalità di gioco speciali con più di otto soldati) all'inizio.
+[*][b]Nam Humanum: Laboratori Groundwork:[/b] Risolto un problema di prestazioni quando ci si avvicinava all'area centrale in multiplayer.
+[*][b]Reduction: Città Caduta:[/b] Risolto il problema che causava un ritardo nell'accensione di un incendio vicino ad alcune uova alla fine della missione.
+[/list]</string><string id="subtitle"></string><string id="summary"></string><string id="title">Aggiornamento di AS:RD - 1 Novembre 2025 "Cone of Fire"</string></content>
