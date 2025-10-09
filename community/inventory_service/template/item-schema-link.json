@@ -1,0 +1,27 @@
+{
+	"appid": 563560,
+	"translator_note": "Nothing in this file needs to be translated; these are all internal item definitions that will not show up in an inventory.",
+	"items": [
+		{
+			"itemdefid": 2000000,
+			"type": "generator",
+			"name": "Twitch Drop Steam PvP Fest 2026 - Strange 22A3-1 Assault Rifle",
+			"bundle": "2000",
+			"tag_generators": "2000001;2000002"
+		},
+		{
+			"itemdefid": 2000001,
+			"type": "tag_generator",
+			"name": "Twitch strange device alien kills",
+			"tag_generator_name": "strange",
+			"tag_generator_values": "5010"
+		},
+		{
+			"itemdefid": 2000002,
+			"type": "tag_generator",
+			"name": "Twitch strange device deathmatch kills",
+			"tag_generator_name": "strange",
+			"tag_generator_values": "5011"
+		}
+	]
+}
