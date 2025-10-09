@@ -605,8 +605,8 @@
 			"strange_notify_7": 250,
 			"strange_notify_8": 300,
 			"strange_notify_9": 400,
-			"strange_notify_color1": "9520895",
-			"strange_notify_color2": "11104511"
+			"strange_notify_color1": "9146FF",
+			"strange_notify_color2": "A970FF"
 		},
 		{
 			"itemdefid": 5011,
@@ -651,8 +651,8 @@
 			"strange_notify_every": 50,
 			"strange_notify_0": 10,
 			"strange_notify_1": 25,
-			"strange_notify_color1": "9520895",
-			"strange_notify_color2": "11104511"
+			"strange_notify_color1": "9146FF",
+			"strange_notify_color2": "A970FF"
 		}
 	]
 }
