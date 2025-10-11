@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<content><string id="body">[h2]注目の更新内容[/h2]
+[list]
+[*]SynTek居住区をテーマにしたメインメニュー背景を追加。
+[*]ブリーフィング中に背景で流れるカメラ映像はもっと動くようになり、なおかつ鬱陶しくなくなった。
+[*]多くの銃がしゃがんでいる時に精度が向上するようになった。[expand type=details][list][*]22A3-1 アサルトライフル
+[*]22A4-2 コンバットライフル
+[*]22A7-Z プロトタイプアサルトライフル
+[*]50口径MG4-1
+[*]K80 パーソナルディフェンスウェポン(PDW)
+[*]M42 ヴィンディケイター
+[*]S23A SynTek オートガン
+[*]モデル35 ポンプアクションショットガン[/list][/expand]
+[/list]
+
+[h2]ミッションの改善[/h2]
+[list]
+[*][b]Deima Surface Bridge:[/b] 動けないエイリアンが発生していたため、橋の上でのドローンの出現位置を一部修正した。
+[*][b]Deima Surface Bridge:[/b] オンスロートモードで橋の終端周辺でのエイリアンの出現を改善した。
+[*][b]Tears for Tarnor: Abandoned Maintenance Tunnels:[/b] レーザー周辺でエイリアンが動けなくなっていたのを修正。
+[*][b]Tears for Tarnor: Oasis Colony Spaceport:[/b] 制御室内のゼノマイトの出現位置に機能していないものが一箇所あったのを修正。
+[*][b]Tilarus-5: Arctic Infiltration:[/b] 最初のエアロック周辺で紛らわしい衝突判定があったのを修正。
+[*][b]Paranoia: High Tension:[/b] 地面がチラつく場面があったのを修正。
+[*][b]Nam Humanum: Platform XVII:[/b] オンスロートモードで動く足場の周辺の空中にエイリアンが出現していたのを修正。
+[*][b]Nam Humanum: Groundwork Labs:[/b] 人数を増やす特殊なゲームモードで9人目以降の隊員が開始地点で動けなくなっていたのを修正。
+[*][b]Nam Humanum: Groundwork Labs:[/b] マルチプレイヤーで中央エリアに近づくとパフォーマンスにカクつきが起きていたのを修正。
+[*][b]Reduction: Fallen City:[/b] ミッションの終わり際にある卵の近くの炎が着火までに非常に長い時間がかかっていたのを修正。
+[/list]</string><string id="subtitle"></string><string id="summary"></string><string id="title">AS:RDアップデート - 2025年11月1日 "Cone of Fire"</string></content>
