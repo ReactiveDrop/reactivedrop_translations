@@ -1065,62 +1065,62 @@
 "[english]bastille.Selection4"		"<clr:205,127,50><B>Bastille:<B> Reporting."
 "bastille.Selection4"		"<clr:205,127,50><B>Bastille:<B> Hlásím se."
 
-		// Crash
+// Crash
 
 
-		"[english]crash.SargeIdleReply0"		"<clr:238,180,34><B>Crash:<B> You really know how to make a squad feel safe, Sarge."
-		"crash.SargeIdleReply0"		"<clr:238,180,34><B>Crash:<B> You really know how to make a squad feel safe, Sarge."
+"[english]crash.SargeIdleReply0"		"<clr:238,180,34><B>Crash:<B> You really know how to make a squad feel safe, Sarge."
+"crash.SargeIdleReply0"		"<clr:238,180,34><B>Crash:<B> Opravdu umíš zajistit, aby se tým cítil v bezpečí, Sarge."
 
 
-		"[english]crash.SargeIdleReply1"		"<clr:238,180,34><B>Crash:<B> That mean you wanna go home now, Sarge?"
-		"crash.SargeIdleReply1"		"<clr:238,180,34><B>Crash:<B> That mean you wanna go home now, Sarge?"
+"[english]crash.SargeIdleReply1"		"<clr:238,180,34><B>Crash:<B> That mean you wanna go home now, Sarge?"
+"crash.SargeIdleReply1"		"<clr:238,180,34><B>Crash:<B> Znamená to tedy, že chceš jít domů, Sarge?"
 
-		"[english]crash.SynUpSpotted0"		"<clr:238,180,34><B>Crash:<B> Hey look, they got SynUp Cola, my favorite."
-		"crash.SynUpSpotted0"		"<clr:238,180,34><B>Crash:<B> Hey look, they got SynUp Cola, my favorite."
+"[english]crash.SynUpSpotted0"		"<clr:238,180,34><B>Crash:<B> Hey look, they got SynUp Cola, my favorite."
+"crash.SynUpSpotted0"		"<clr:238,180,34><B>Crash:<B> Hele, mají SynUp kolu, moji oblíbenou."
 
-		"[english]crash.BigAlienDeadReply0"		"<clr:238,180,34><B>Crash:<B> Reminds me of that last Commander."
-		"crash.BigAlienDeadReply0"		"<clr:238,180,34><B>Crash:<B> Reminds me of that last Commander."
+"[english]crash.BigAlienDeadReply0"		"<clr:238,180,34><B>Crash:<B> Reminds me of that last Commander."
+"crash.BigAlienDeadReply0"		"<clr:238,180,34><B>Crash:<B> Připomíná mi to toho posledního velitele."
 
-		"[english]crash.BigAlienDead0"		"<clr:238,180,34><B>Crash:<B> Is it dead?"
-		"crash.BigAlienDead0"		"<clr:238,180,34><B>Crash:<B> Is it dead?"
-
-
-		"[english]crash.CrashComplainReply0"		"<clr:238,180,34><B>Crash:<B> You're not helping!"
-		"crash.CrashComplainReply0"		"<clr:238,180,34><B>Crash:<B> You're not helping!"
-
-		"[english]crash.CrashComplain0"		"<clr:238,180,34><B>Crash:<B> I can't stand this place much longer."
-		"crash.CrashComplain0"		"<clr:238,180,34><B>Crash:<B> I can't stand this place much longer."
-
-		"[english]crash.MedicComplainReply0"		"<clr:238,180,34><B>Crash:<B> Well let's just blame it all on Crash, huh?"
-		"crash.MedicComplainReply0"		"<clr:238,180,34><B>Crash:<B> Well let's just blame it all on Crash, huh?"
+"[english]crash.BigAlienDead0"		"<clr:238,180,34><B>Crash:<B> Is it dead?"
+"crash.BigAlienDead0"		"<clr:238,180,34><B>Crash:<B> Je to mrtvé?"
 
 
-		"[english]crash.HealingCrashReply0"		"<clr:238,180,34><B>Crash:<B> Don't you believe in painkillers?"
-		"crash.HealingCrashReply0"		"<clr:238,180,34><B>Crash:<B> Don't you believe in painkillers?"
+"[english]crash.CrashComplainReply0"		"<clr:238,180,34><B>Crash:<B> You're not helping!"
+"crash.CrashComplainReply0"		"<clr:238,180,34><B>Crash:<B> Nepomáháš!"
 
-		"[english]crash.TequilaReply0"		"<clr:238,180,34><B>Crash:<B> Ah hell yeah! Liquor and ladies!"
-		"crash.TequilaReply0"		"<clr:238,180,34><B>Crash:<B> Ah hell yeah! Liquor and ladies!"
+"[english]crash.CrashComplain0"		"<clr:238,180,34><B>Crash:<B> I can't stand this place much longer."
+"crash.CrashComplain0"		"<clr:238,180,34><B>Crash:<B> Nemůžu vystát tohle místo o moc déle."
 
-		"[english]crash.CrashIdle0"		"<clr:238,180,34><B>Crash:<B> Does anyone have any idea what we are doing here?"
-		"crash.CrashIdle0"		"<clr:238,180,34><B>Crash:<B> Does anyone have any idea what we are doing here?"
+"[english]crash.MedicComplainReply0"		"<clr:238,180,34><B>Crash:<B> Well let's just blame it all on Crash, huh?"
+"crash.MedicComplainReply0"		"<clr:238,180,34><B>Crash:<B> No tak to všechno prostě svedeme na Crashe, co?"
 
-		"[english]crash.InjuredSelection0"		"<clr:238,180,34><B>Crash:<B> Game over, man!"
-		"crash.InjuredSelection0"		"<clr:238,180,34><B>Crash:<B> Game over, man!"
 
-		"[english]crash.InjuredSelection1"		"<clr:238,180,34><B>Crash:<B> I didn't sign up for this!"
-		"crash.InjuredSelection1"		"<clr:238,180,34><B>Crash:<B> I didn't sign up for this!"
+"[english]crash.HealingCrashReply0"		"<clr:238,180,34><B>Crash:<B> Don't you believe in painkillers?"
+"crash.HealingCrashReply0"		"<clr:238,180,34><B>Crash:<B> Nevěříš v léky proti bolesti?"
 
-		"[english]crash.InjuredSelection4"		"<clr:238,180,34><B>Crash:<B> Sigma campaign wasn't this tough."
-		"crash.InjuredSelection4"		"<clr:238,180,34><B>Crash:<B> Sigma campaign wasn't this tough."
+"[english]crash.TequilaReply0"		"<clr:238,180,34><B>Crash:<B> Ah hell yeah! Liquor and ladies!"
+"crash.TequilaReply0"		"<clr:238,180,34><B>Crash:<B> No jasně! Chlast a ženy!"
 
-		"[english]crash.SeriousInjuryReply0"		"<clr:238,180,34><B>Crash:<B> Whoo-dee-friggin--OW! God damn!"
-		"crash.SeriousInjuryReply0"		"<clr:238,180,34><B>Crash:<B> Whoo-dee-friggin--OW! God damn!"
+"[english]crash.CrashIdle0"		"<clr:238,180,34><B>Crash:<B> Does anyone have any idea what we are doing here?"
+"crash.CrashIdle0"		"<clr:238,180,34><B>Crash:<B> Má někdo ponětí o tom co tady vlastně děláme?"
+
+"[english]crash.InjuredSelection0"		"<clr:238,180,34><B>Crash:<B> Game over, man!"
+"crash.InjuredSelection0"		"<clr:238,180,34><B>Crash:<B> Hra skončila, kámo!"
+
+"[english]crash.InjuredSelection1"		"<clr:238,180,34><B>Crash:<B> I didn't sign up for this!"
+"crash.InjuredSelection1"		"<clr:238,180,34><B>Crash:<B> Na tohle jsem se nehlásil!"
+
+"[english]crash.InjuredSelection4"		"<clr:238,180,34><B>Crash:<B> Sigma campaign wasn't this tough."
+"crash.InjuredSelection4"		"<clr:238,180,34><B>Crash:<B> Kampaň Sigma nebyla tak těžká."
+
+"[english]crash.SeriousInjuryReply0"		"<clr:238,180,34><B>Crash:<B> Whoo-dee-friggin--OW! God damn!"
+"crash.SeriousInjuryReply0"		"<clr:238,180,34><B>Crash:<B> Kdo sakra... Au! Zatraceně!"
 
 "[english]crash.StillBreathingReply0"		"<clr:238,180,34><B>Crash:<B> Hell, I been holding my breath since we landed."
 "crash.StillBreathingReply0"		"<clr:238,180,34><B>Crash:<B> Do kosmu, já jsem zadržoval dech od chvíle, co jsme přistáli."
 
-		"[english]crash.Use0"		"<clr:238,180,34><B>Crash:<B> I got skills."
-		"crash.Use0"		"<clr:238,180,34><B>Crash:<B> I got skills."
+"[english]crash.Use0"		"<clr:238,180,34><B>Crash:<B> I got skills."
+"crash.Use0"		"<clr:238,180,34><B>Crash:<B> Mám dovednosti."
 
 "[english]crash.Use1"		"<clr:238,180,34><B>Crash:<B> No problem."
 "crash.Use1"		"<clr:238,180,34><B>Crash:<B> Žádný problém."
@@ -1128,113 +1128,113 @@
 "[english]crash.Use2"		"<clr:238,180,34><B>Crash:<B> Uh huh."
 "crash.Use2"		"<clr:238,180,34><B>Crash:<B> Uh huh."
 
-		"[english]crash.Use3"		"<clr:238,180,34><B>Crash:<B> You got it."
-		"crash.Use3"		"<clr:238,180,34><B>Crash:<B> You got it."
+"[english]crash.Use3"		"<clr:238,180,34><B>Crash:<B> You got it."
+"crash.Use3"		"<clr:238,180,34><B>Crash:<B> Máš to."
 
-		"[english]crash.Idle0"		"<clr:238,180,34><B>Crash:<B> This place is a mess."
-		"crash.Idle0"		"<clr:238,180,34><B>Crash:<B> This place is a mess."
+"[english]crash.Idle0"		"<clr:238,180,34><B>Crash:<B> This place is a mess."
+"crash.Idle0"		"<clr:238,180,34><B>Crash:<B> Tady je bordel."
 
-		"[english]crash.Idle1"		"<clr:238,180,34><B>Crash:<B> Can we go now? I'm due some more cryosleep."
-		"crash.Idle1"		"<clr:238,180,34><B>Crash:<B> Can we go now? I'm due some more cryosleep."
+"[english]crash.Idle1"		"<clr:238,180,34><B>Crash:<B> Can we go now? I'm due some more cryosleep."
+"crash.Idle1"		"<clr:238,180,34><B>Crash:<B> Můžeme už jít? Potřebuji trochu kryospánku."
 
-		"[english]crash.Idle2"		"<clr:238,180,34><B>Crash:<B> I'll bet the Command knew this place was crawling."
-		"crash.Idle2"		"<clr:238,180,34><B>Crash:<B> I'll bet the Command knew this place was crawling."
+"[english]crash.Idle2"		"<clr:238,180,34><B>Crash:<B> I'll bet the Command knew this place was crawling."
+"crash.Idle2"		"<clr:238,180,34><B>Crash:<B> Vsadím se, že velitelství vědělo, že se to tu hemží."
 
-		"[english]crash.Idle3"		"<clr:238,180,34><B>Crash:<B> I shoulda stolen more money to put up with this shit."
-		"crash.Idle3"		"<clr:238,180,34><B>Crash:<B> I shoulda stolen more money to put up with this shit."
+"[english]crash.Idle3"		"<clr:238,180,34><B>Crash:<B> I shoulda stolen more money to put up with this shit."
+"crash.Idle3"		"<clr:238,180,34><B>Crash:<B> Měl jsem ukrást víc peněz, abych se s touhle sračkou smířil."
 
-		"[english]crash.Idle4"		"<clr:238,180,34><B>Crash:<B> I tell you what, you guys are lucky I'm here."
-		"crash.Idle4"		"<clr:238,180,34><B>Crash:<B> I tell you what, you guys are lucky I'm here."
+"[english]crash.Idle4"		"<clr:238,180,34><B>Crash:<B> I tell you what, you guys are lucky I'm here."
+"crash.Idle4"		"<clr:238,180,34><B>Crash:<B> Víte co, máte štěstí, že tu jsem."
 
-		"[english]crash.Idle5"		"<clr:238,180,34><B>Crash:<B> Wow, this place has seen some action."
-		"crash.Idle5"		"<clr:238,180,34><B>Crash:<B> Wow, this place has seen some action."
+"[english]crash.Idle5"		"<clr:238,180,34><B>Crash:<B> Wow, this place has seen some action."
+"crash.Idle5"		"<clr:238,180,34><B>Crash:<B> Páni, tohle místo už něco zažilo."
 
-		"[english]crash.FF0"		"<clr:238,180,34><B>Crash:<B> Hey, I'm on your side!"
-		"crash.FF0"		"<clr:238,180,34><B>Crash:<B> Hey, I'm on your side!"
+"[english]crash.FF0"		"<clr:238,180,34><B>Crash:<B> Hey, I'm on your side!"
+"crash.FF0"		"<clr:238,180,34><B>Crash:<B> Hej, jsem na tvý straně!"
 
-		"[english]crash.FF1"		"<clr:238,180,34><B>Crash:<B> Watch your fire, damn it!"
-		"crash.FF1"		"<clr:238,180,34><B>Crash:<B> Watch your fire, damn it!"
+"[english]crash.FF1"		"<clr:238,180,34><B>Crash:<B> Watch your fire, damn it!"
+"crash.FF1"		"<clr:238,180,34><B>Crash:<B> Sleduj, kam střílíš, doprdele!"
 
-		"[english]crash.FiringAtAlien0"		"<clr:238,180,34><B>Crash:<B> Covering fire!"
-		"crash.FiringAtAlien0"		"<clr:238,180,34><B>Crash:<B> Covering fire!"
+"[english]crash.FiringAtAlien0"		"<clr:238,180,34><B>Crash:<B> Covering fire!"
+"crash.FiringAtAlien0"		"<clr:238,180,34><B>Crash:<B> Krycí palba!"
 
-		"[english]crash.FiringAtAlien1"		"<clr:238,180,34><B>Crash:<B> Heads up!"
-		"crash.FiringAtAlien1"		"<clr:238,180,34><B>Crash:<B> Heads up!"
+"[english]crash.FiringAtAlien1"		"<clr:238,180,34><B>Crash:<B> Heads up!"
+"crash.FiringAtAlien1"		"<clr:238,180,34><B>Crash:<B> Pozor!"
 
-		"[english]crash.FiringAtAlien2"		"<clr:238,180,34><B>Crash:<B> Heads up!"
-		"crash.FiringAtAlien2"		"<clr:238,180,34><B>Crash:<B> Heads up!"
+"[english]crash.FiringAtAlien2"		"<clr:238,180,34><B>Crash:<B> Heads up!"
+"crash.FiringAtAlien2"		"<clr:238,180,34><B>Crash:<B> Pozor!"
 
-		"[english]crash.FiringAtAlien3"		"<clr:238,180,34><B>Crash:<B> Hostiles!"
-		"crash.FiringAtAlien3"		"<clr:238,180,34><B>Crash:<B> Hostiles!"
+"[english]crash.FiringAtAlien3"		"<clr:238,180,34><B>Crash:<B> Hostiles!"
+"crash.FiringAtAlien3"		"<clr:238,180,34><B>Crash:<B> Nepřátelé!"
 
-		"[english]crash.FiringAtAlien4"		"<clr:238,180,34><B>Crash:<B> Incoming!"
-		"crash.FiringAtAlien4"		"<clr:238,180,34><B>Crash:<B> Incoming!"
+"[english]crash.FiringAtAlien4"		"<clr:238,180,34><B>Crash:<B> Incoming!"
+"crash.FiringAtAlien4"		"<clr:238,180,34><B>Crash:<B> Příchozí!"
 
-		"[english]crash.FiringAtAlien5"		"<clr:238,180,34><B>Crash:<B> There's another one!"
-		"crash.FiringAtAlien5"		"<clr:238,180,34><B>Crash:<B> There's another one!"
+"[english]crash.FiringAtAlien5"		"<clr:238,180,34><B>Crash:<B> There's another one!"
+"crash.FiringAtAlien5"		"<clr:238,180,34><B>Crash:<B> Je tu další!"
 
-		"[english]crash.FiringAtAlien6"		"<clr:238,180,34><B>Crash:<B> There! There!"
-		"crash.FiringAtAlien6"		"<clr:238,180,34><B>Crash:<B> There! There!"
+"[english]crash.FiringAtAlien6"		"<clr:238,180,34><B>Crash:<B> There! There!"
+"crash.FiringAtAlien6"		"<clr:238,180,34><B>Crash:<B> Tady! Tady!"
 
-		"[english]crash.FiringAtAlien7"		"<clr:238,180,34><B>Crash:<B> You want some?"
-		"crash.FiringAtAlien7"		"<clr:238,180,34><B>Crash:<B> You want some?"
+"[english]crash.FiringAtAlien7"		"<clr:238,180,34><B>Crash:<B> You want some?"
+"crash.FiringAtAlien7"		"<clr:238,180,34><B>Crash:<B> Chceš taky?"
 
 "[english]crash.FollowMe0"		"<clr:238,180,34><B>Crash:<B> Follow me."
 "crash.FollowMe0"		"<clr:238,180,34><B>Crash:<B> Pojďte za mnou."
 
-		"[english]crash.FollowMe1"		"<clr:238,180,34><B>Crash:<B> Let's go."
-		"crash.FollowMe1"		"<clr:238,180,34><B>Crash:<B> Let's go."
+"[english]crash.FollowMe1"		"<clr:238,180,34><B>Crash:<B> Let's go."
+"crash.FollowMe1"		"<clr:238,180,34><B>Crash:<B> Pojďme."
 
-		"[english]crash.HoldPosition0"		"<clr:238,180,34><B>Crash:<B> Hold it."
-		"crash.HoldPosition0"		"<clr:238,180,34><B>Crash:<B> Hold it."
+"[english]crash.HoldPosition0"		"<clr:238,180,34><B>Crash:<B> Hold it."
+"crash.HoldPosition0"		"<clr:238,180,34><B>Crash:<B> Zadržte."
 
-		"[english]crash.HoldPosition1"		"<clr:238,180,34><B>Crash:<B> Hold it."
-		"crash.HoldPosition1"		"<clr:238,180,34><B>Crash:<B> Hold it."
+"[english]crash.HoldPosition1"		"<clr:238,180,34><B>Crash:<B> Hold it."
+"crash.HoldPosition1"		"<clr:238,180,34><B>Crash:<B> Zadržte."
 
-		"[english]crash.HoldPosition2"		"<clr:238,180,34><B>Crash:<B> Wait here."
-		"crash.HoldPosition2"		"<clr:238,180,34><B>Crash:<B> Wait here."
+"[english]crash.HoldPosition2"		"<clr:238,180,34><B>Crash:<B> Wait here."
+"crash.HoldPosition2"		"<clr:238,180,34><B>Crash:<B> Počkejte zde."
 
-		"[english]crash.NeedAmmo0"		"<clr:238,180,34><B>Crash:<B> More ammo!"
-		"crash.NeedAmmo0"		"<clr:238,180,34><B>Crash:<B> More ammo!"
+"[english]crash.NeedAmmo0"		"<clr:238,180,34><B>Crash:<B> More ammo!"
+"crash.NeedAmmo0"		"<clr:238,180,34><B>Crash:<B> Dochází mi náboje!"
 
 "[english]crash.NeedAmmo1"		"<clr:238,180,34><B>Crash:<B> I need ammo!"
 "crash.NeedAmmo1"		"<clr:238,180,34><B>Crash:<B> Potřebuji munici!"
 
-		"[english]crash.NoAmmo0"		"<clr:238,180,34><B>Crash:<B> Out of ammo!"
-		"crash.NoAmmo0"		"<clr:238,180,34><B>Crash:<B> Out of ammo!"
+"[english]crash.NoAmmo0"		"<clr:238,180,34><B>Crash:<B> Out of ammo!"
+"crash.NoAmmo0"		"<clr:238,180,34><B>Crash:<B> Došly mi náboje!"
 
 "[english]crash.Medic0"		"<clr:238,180,34><B>Crash:<B> Medic!"
 "crash.Medic0"		"<clr:238,180,34><B>Crash:<B> Medik!"
 
-		"[english]crash.Reloading0"		"<clr:238,180,34><B>Crash:<B> Lock and load!"
-		"crash.Reloading0"		"<clr:238,180,34><B>Crash:<B> Lock and load!"
+"[english]crash.Reloading0"		"<clr:238,180,34><B>Crash:<B> Lock and load!"
+"crash.Reloading0"		"<clr:238,180,34><B>Crash:<B> Nabít a připravit!"
 
-		"[english]crash.Reloading1"		"<clr:238,180,34><B>Crash:<B> Reload, cover me!"
-		"crash.Reloading1"		"<clr:238,180,34><B>Crash:<B> Reload, cover me!"
+"[english]crash.Reloading1"		"<clr:238,180,34><B>Crash:<B> Reload, cover me!"
+"crash.Reloading1"		"<clr:238,180,34><B>Crash:<B> Přebíjím, kryjte mě!"
 
-		"[english]crash.Reloading2"		"<clr:238,180,34><B>Crash:<B> Reload!"
-		"crash.Reloading2"		"<clr:238,180,34><B>Crash:<B> Reload!"
+"[english]crash.Reloading2"		"<clr:238,180,34><B>Crash:<B> Reload!"
+"crash.Reloading2"		"<clr:238,180,34><B>Crash:<B> Přebíjím!"
 
-		"[english]crash.Reloading3"		"<clr:238,180,34><B>Crash:<B> Reload!"
-		"crash.Reloading3"		"<clr:238,180,34><B>Crash:<B> Reload!"
+"[english]crash.Reloading3"		"<clr:238,180,34><B>Crash:<B> Reload!"
+"crash.Reloading3"		"<clr:238,180,34><B>Crash:<B> Přebíjím!"
 
-		"[english]crash.SentryInPlace0"		"<clr:238,180,34><B>Crash:<B> Sentry gun active!"
-		"crash.SentryInPlace0"		"<clr:238,180,34><B>Crash:<B> Sentry gun active!"
+"[english]crash.SentryInPlace0"		"<clr:238,180,34><B>Crash:<B> Sentry gun active!"
+"crash.SentryInPlace0"		"<clr:238,180,34><B>Crash:<B> Sentry je v provozu!"
 
-		"[english]crash.SentryInPlace1"		"<clr:238,180,34><B>Crash:<B> Sentry gun active!"
-		"crash.SentryInPlace1"		"<clr:238,180,34><B>Crash:<B> Sentry gun active!"
+"[english]crash.SentryInPlace1"		"<clr:238,180,34><B>Crash:<B> Sentry gun active!"
+"crash.SentryInPlace1"		"<clr:238,180,34><B>Crash:<B> Sentry je v provozu!"
 
-		"[english]crash.SentryInPlace2"		"<clr:238,180,34><B>Crash:<B> Sentry's in place."
-		"crash.SentryInPlace2"		"<clr:238,180,34><B>Crash:<B> Sentry's in place."
+"[english]crash.SentryInPlace2"		"<clr:238,180,34><B>Crash:<B> Sentry's in place."
+"crash.SentryInPlace2"		"<clr:238,180,34><B>Crash:<B> Sentry je na místě."
 
-		"[english]crash.SentryInPlace3"		"<clr:238,180,34><B>Crash:<B> Sentry assembled."
-		"crash.SentryInPlace3"		"<clr:238,180,34><B>Crash:<B> Sentry assembled."
+"[english]crash.SentryInPlace3"		"<clr:238,180,34><B>Crash:<B> Sentry assembled."
+"crash.SentryInPlace3"		"<clr:238,180,34><B>Crash:<B> Sentry postavena."
 
-		"[english]crash.SentryInPlace4"		"<clr:238,180,34><B>Crash:<B> Sentry online."
-		"crash.SentryInPlace4"		"<clr:238,180,34><B>Crash:<B> Sentry online."
+"[english]crash.SentryInPlace4"		"<clr:238,180,34><B>Crash:<B> Sentry online."
+"crash.SentryInPlace4"		"<clr:238,180,34><B>Crash:<B> Sentry online."
 
-		"[english]crash.SentryInPlace5"		"<clr:238,180,34><B>Crash:<B> Sentry's ready to waste some bugs."
-		"crash.SentryInPlace5"		"<clr:238,180,34><B>Crash:<B> Sentry's ready to waste some bugs."
+"[english]crash.SentryInPlace5"		"<clr:238,180,34><B>Crash:<B> Sentry's ready to waste some bugs."
+"crash.SentryInPlace5"		"<clr:238,180,34><B>Crash:<B> Sentry je připravena rozestřílet pár brouků."
 
 "[english]crash.Ammo0"		"<clr:238,180,34><B>Crash:<B> Ammo."
 "crash.Ammo0"		"<clr:238,180,34><B>Crash:<B> Munice."
@@ -1245,20 +1245,20 @@
 "[english]crash.Thanks0"		"<clr:238,180,34><B>Crash:<B> Thanks."
 "crash.Thanks0"		"<clr:238,180,34><B>Crash:<B> Díky."
 
-		"[english]crash.Thanks1"		"<clr:238,180,34><B>Crash:<B> Thank you."
-		"crash.Thanks1"		"<clr:238,180,34><B>Crash:<B> Thank you."
+"[english]crash.Thanks1"		"<clr:238,180,34><B>Crash:<B> Thank you."
+"crash.Thanks1"		"<clr:238,180,34><B>Crash:<B> Děkuji."
 
-		"[english]crash.Question0"		"<clr:238,180,34><B>Crash:<B> Huh?"
-		"crash.Question0"		"<clr:238,180,34><B>Crash:<B> Huh?"
+"[english]crash.Question0"		"<clr:238,180,34><B>Crash:<B> Huh?"
+"crash.Question0"		"<clr:238,180,34><B>Crash:<B> Huh?"
 
-		"[english]crash.Question1"		"<clr:238,180,34><B>Crash:<B> What?"
-		"crash.Question1"		"<clr:238,180,34><B>Crash:<B> What?"
+"[english]crash.Question1"		"<clr:238,180,34><B>Crash:<B> What?"
+"crash.Question1"		"<clr:238,180,34><B>Crash:<B> Co?"
 
-		"[english]crash.Question2"		"<clr:238,180,34><B>Crash:<B> What is it?"
-		"crash.Question2"		"<clr:238,180,34><B>Crash:<B> What is it?"
+"[english]crash.Question2"		"<clr:238,180,34><B>Crash:<B> What is it?"
+"crash.Question2"		"<clr:238,180,34><B>Crash:<B> Co je?"
 
-		"[english]crash.CallSarge0"		"<clr:238,180,34><B>Crash:<B> Hey, Sarge."
-		"crash.CallSarge0"		"<clr:238,180,34><B>Crash:<B> Hey, Sarge."
+"[english]crash.CallSarge0"		"<clr:238,180,34><B>Crash:<B> Hey, Sarge."
+"crash.CallSarge0"		"<clr:238,180,34><B>Crash:<B> Ahoj, Sarge."
 
 "[english]crash.CallSarge1"		"<clr:238,180,34><B>Crash:<B> Sarge."
 "crash.CallSarge1"		"<clr:238,180,34><B>Crash:<B> Sarge."
@@ -1266,23 +1266,23 @@
 "[english]crash.CallSarge2"		"<clr:238,180,34><B>Crash:<B> Sarge."
 "crash.CallSarge2"		"<clr:238,180,34><B>Crash:<B> Sarge."
 
-		"[english]crash.CallJaeger0"		"<clr:238,180,34><B>Crash:<B> Hey, Jaeger."
-		"crash.CallJaeger0"		"<clr:238,180,34><B>Crash:<B> Hey, Jaeger."
+"[english]crash.CallJaeger0"		"<clr:238,180,34><B>Crash:<B> Hey, Jaeger."
+"crash.CallJaeger0"		"<clr:238,180,34><B>Crash:<B> Ahoj, Jaegere."
 
 "[english]crash.CallJaeger1"		"<clr:238,180,34><B>Crash:<B> Jaeger."
-"crash.CallJaeger1"		"<clr:238,180,34><B>Crash:<B> Jaeger."
+"crash.CallJaeger1"		"<clr:238,180,34><B>Crash:<B> Jaegere."
 
 "[english]crash.CallJaeger2"		"<clr:238,180,34><B>Crash:<B> Jaeger."
-"crash.CallJaeger2"		"<clr:238,180,34><B>Crash:<B> Jaeger."
+"crash.CallJaeger2"		"<clr:238,180,34><B>Crash:<B> Jaegere."
 
-		"[english]crash.CallWildcat0"		"<clr:238,180,34><B>Crash:<B> Hey, Wildcat."
-		"crash.CallWildcat0"		"<clr:238,180,34><B>Crash:<B> Hey, Wildcat."
+"[english]crash.CallWildcat0"		"<clr:238,180,34><B>Crash:<B> Hey, Wildcat."
+"crash.CallWildcat0"		"<clr:238,180,34><B>Crash:<B> Ahoj, Wildcat."
 
 "[english]crash.CallWildcat1"		"<clr:238,180,34><B>Crash:<B> Wildcat."
 "crash.CallWildcat1"		"<clr:238,180,34><B>Crash:<B> Wildcat."
 
-		"[english]crash.CallWolfe0"		"<clr:238,180,34><B>Crash:<B> Hey, Wolfe."
-		"crash.CallWolfe0"		"<clr:238,180,34><B>Crash:<B> Hey, Wolfe."
+"[english]crash.CallWolfe0"		"<clr:238,180,34><B>Crash:<B> Hey, Wolfe."
+"crash.CallWolfe0"		"<clr:238,180,34><B>Crash:<B> Ahoj, Wolfe."
 
 "[english]crash.CallWolfe1"		"<clr:238,180,34><B>Crash:<B> Wolfe."
 "crash.CallWolfe1"		"<clr:238,180,34><B>Crash:<B> Wolfe."
@@ -1290,226 +1290,226 @@
 "[english]crash.CallFaith0"		"<clr:238,180,34><B>Crash:<B> Faith."
 "crash.CallFaith0"		"<clr:238,180,34><B>Crash:<B> Faith."
 
-		"[english]crash.CallFaith1"		"<clr:238,180,34><B>Crash:<B> Hey, Faith."
-		"crash.CallFaith1"		"<clr:238,180,34><B>Crash:<B> Hey, Faith."
+"[english]crash.CallFaith1"		"<clr:238,180,34><B>Crash:<B> Hey, Faith."
+"crash.CallFaith1"		"<clr:238,180,34><B>Crash:<B> Ahoj, Faith."
 
 "[english]crash.CallBastille0"		"<clr:238,180,34><B>Crash:<B> Bastille."
 "crash.CallBastille0"		"<clr:238,180,34><B>Crash:<B> Bastille."
 
-		"[english]crash.CallBastille1"		"<clr:238,180,34><B>Crash:<B> Hey, Bastille."
-		"crash.CallBastille1"		"<clr:238,180,34><B>Crash:<B> Hey, Bastille."
+"[english]crash.CallBastille1"		"<clr:238,180,34><B>Crash:<B> Hey, Bastille."
+"crash.CallBastille1"		"<clr:238,180,34><B>Crash:<B> Ahoj, Bastille."
 
 "[english]crash.CallFlynn0"		"<clr:238,180,34><B>Crash:<B> Flynn."
-"crash.CallFlynn0"		"<clr:238,180,34><B>Crash:<B> Flynn."
+"crash.CallFlynn0"		"<clr:238,180,34><B>Crash:<B> Flynne."
 
-		"[english]crash.CallFlynn1"		"<clr:238,180,34><B>Crash:<B> Hey, Flynn."
-		"crash.CallFlynn1"		"<clr:238,180,34><B>Crash:<B> Hey, Flynn."
+"[english]crash.CallFlynn1"		"<clr:238,180,34><B>Crash:<B> Hey, Flynn."
+"crash.CallFlynn1"		"<clr:238,180,34><B>Crash:<B> Ahoj, Flynne."
 
-		"[english]crash.CallVegas0"		"<clr:238,180,34><B>Crash:<B> Hey, Vegas."
-		"crash.CallVegas0"		"<clr:238,180,34><B>Crash:<B> Hey, Vegas."
+"[english]crash.CallVegas0"		"<clr:238,180,34><B>Crash:<B> Hey, Vegas."
+"crash.CallVegas0"		"<clr:238,180,34><B>Crash:<B> Ahoj, Vegasi."
 
 "[english]crash.CallVegas1"		"<clr:238,180,34><B>Crash:<B> Vegas."
-"crash.CallVegas1"		"<clr:238,180,34><B>Crash:<B> Vegas."
+"crash.CallVegas1"		"<clr:238,180,34><B>Crash:<B> Vegasi."
 
-		"[english]crash.SuppliesAmmo0"		"<clr:238,180,34><B>Crash:<B> All right, a supply stash."
-		"crash.SuppliesAmmo0"		"<clr:238,180,34><B>Crash:<B> All right, a supply stash."
+"[english]crash.SuppliesAmmo0"		"<clr:238,180,34><B>Crash:<B> All right, a supply stash."
+"crash.SuppliesAmmo0"		"<clr:238,180,34><B>Crash:<B> Dobře, zásoby."
 
-		"[english]crash.SuppliesAmmo1"		"<clr:238,180,34><B>Crash:<B> Looks like someone left us a gift."
-		"crash.SuppliesAmmo1"		"<clr:238,180,34><B>Crash:<B> Looks like someone left us a gift."
+"[english]crash.SuppliesAmmo1"		"<clr:238,180,34><B>Crash:<B> Looks like someone left us a gift."
+"crash.SuppliesAmmo1"		"<clr:238,180,34><B>Crash:<B> Vypadá to, že nám někdo nechál dárek."
 
-		"[english]crash.SuppliesAmmo2"		"<clr:238,180,34><B>Crash:<B> Oh yeah, that's what I like to see."
-		"crash.SuppliesAmmo2"		"<clr:238,180,34><B>Crash:<B> Oh yeah, that's what I like to see."
+"[english]crash.SuppliesAmmo2"		"<clr:238,180,34><B>Crash:<B> Oh yeah, that's what I like to see."
+"crash.SuppliesAmmo2"		"<clr:238,180,34><B>Crash:<B> Ó, tak to rád vidím."
 
-		"[english]crash.Supplies0"		"<clr:238,180,34><B>Crash:<B> All right, a supply stash!"
-		"crash.Supplies0"		"<clr:238,180,34><B>Crash:<B> All right, a supply stash!"
+"[english]crash.Supplies0"		"<clr:238,180,34><B>Crash:<B> All right, a supply stash!"
+"crash.Supplies0"		"<clr:238,180,34><B>Crash:<B> Dobře, zásoby!"
 
-		"[english]crash.Supplies1"		"<clr:238,180,34><B>Crash:<B> Looks like someone left us a gift."
-		"crash.Supplies1"		"<clr:238,180,34><B>Crash:<B> Looks like someone left us a gift."
+"[english]crash.Supplies1"		"<clr:238,180,34><B>Crash:<B> Looks like someone left us a gift."
+"crash.Supplies1"		"<clr:238,180,34><B>Crash:<B> Vypadá to, že nám někdo nechál dárek."
 
-		"[english]crash.Supplies2"		"<clr:238,180,34><B>Crash:<B> Oh yeah, that's what I like to see."
-		"crash.Supplies2"		"<clr:238,180,34><B>Crash:<B> Oh yeah, that's what I like to see."
+"[english]crash.Supplies2"		"<clr:238,180,34><B>Crash:<B> Oh yeah, that's what I like to see."
+"crash.Supplies2"		"<clr:238,180,34><B>Crash:<B> Ó, tak to rád vidím."
 
-		"[english]crash.HoldingPosition0"		"<clr:238,180,34><B>Crash:<B> Covering area."
-		"crash.HoldingPosition0"		"<clr:238,180,34><B>Crash:<B> Covering area."
+"[english]crash.HoldingPosition0"		"<clr:238,180,34><B>Crash:<B> Covering area."
+"crash.HoldingPosition0"		"<clr:238,180,34><B>Crash:<B> Kryji oblast."
 
-		"[english]crash.HoldingPosition1"		"<clr:238,180,34><B>Crash:<B> Holding position."
-		"crash.HoldingPosition1"		"<clr:238,180,34><B>Crash:<B> Holding position."
+"[english]crash.HoldingPosition1"		"<clr:238,180,34><B>Crash:<B> Holding position."
+"crash.HoldingPosition1"		"<clr:238,180,34><B>Crash:<B> Držím pozici."
 
-		"[english]crash.HoldingPosition2"		"<clr:238,180,34><B>Crash:<B> In position."
-		"crash.HoldingPosition2"		"<clr:238,180,34><B>Crash:<B> In position."
+"[english]crash.HoldingPosition2"		"<clr:238,180,34><B>Crash:<B> In position."
+"crash.HoldingPosition2"		"<clr:238,180,34><B>Crash:<B> Na místě."
 
-		"[english]crash.HoldingPosition3"		"<clr:238,180,34><B>Crash:<B> Securing area."
-		"crash.HoldingPosition3"		"<clr:238,180,34><B>Crash:<B> Securing area."
+"[english]crash.HoldingPosition3"		"<clr:238,180,34><B>Crash:<B> Securing area."
+"crash.HoldingPosition3"		"<clr:238,180,34><B>Crash:<B> Zabezpečuji oblast."
 
-		"[english]crash.HoldingNorth0"		"<clr:238,180,34><B>Crash:<B> Covering north."
-		"crash.HoldingNorth0"		"<clr:238,180,34><B>Crash:<B> Covering north."
+"[english]crash.HoldingNorth0"		"<clr:238,180,34><B>Crash:<B> Covering north."
+"crash.HoldingNorth0"		"<clr:238,180,34><B>Crash:<B> Kryji sever."
 
-		"[english]crash.HoldingNorth1"		"<clr:238,180,34><B>Crash:<B> Covering northside."
-		"crash.HoldingNorth1"		"<clr:238,180,34><B>Crash:<B> Covering northside."
+"[english]crash.HoldingNorth1"		"<clr:238,180,34><B>Crash:<B> Covering northside."
+"crash.HoldingNorth1"		"<clr:238,180,34><B>Crash:<B> Kryji severní stranu."
 
-		"[english]crash.HoldingNorth2"		"<clr:238,180,34><B>Crash:<B> Northside, in position."
-		"crash.HoldingNorth2"		"<clr:238,180,34><B>Crash:<B> Northside, in position."
+"[english]crash.HoldingNorth2"		"<clr:238,180,34><B>Crash:<B> Northside, in position."
+"crash.HoldingNorth2"		"<clr:238,180,34><B>Crash:<B> Severní strana, na místě."
 
-		"[english]crash.HoldingNorth3"		"<clr:238,180,34><B>Crash:<B> Northside, standing to."
-		"crash.HoldingNorth3"		"<clr:238,180,34><B>Crash:<B> Northside, standing to."
+"[english]crash.HoldingNorth3"		"<clr:238,180,34><B>Crash:<B> Northside, standing to."
+"crash.HoldingNorth3"		"<clr:238,180,34><B>Crash:<B> Severní strana, stojí."
 
-		"[english]crash.HoldingSouth0"		"<clr:238,180,34><B>Crash:<B> Covering south."
-		"crash.HoldingSouth0"		"<clr:238,180,34><B>Crash:<B> Covering south."
+"[english]crash.HoldingSouth0"		"<clr:238,180,34><B>Crash:<B> Covering south."
+"crash.HoldingSouth0"		"<clr:238,180,34><B>Crash:<B> Kryji jih."
 
-		"[english]crash.HoldingSouth1"		"<clr:238,180,34><B>Crash:<B> Covering southside."
-		"crash.HoldingSouth1"		"<clr:238,180,34><B>Crash:<B> Covering southside."
+"[english]crash.HoldingSouth1"		"<clr:238,180,34><B>Crash:<B> Covering southside."
+"crash.HoldingSouth1"		"<clr:238,180,34><B>Crash:<B> Kryji jižní stranu."
 
-		"[english]crash.HoldingSouth2"		"<clr:238,180,34><B>Crash:<B> Southside in position."
-		"crash.HoldingSouth2"		"<clr:238,180,34><B>Crash:<B> Southside in position."
+"[english]crash.HoldingSouth2"		"<clr:238,180,34><B>Crash:<B> Southside in position."
+"crash.HoldingSouth2"		"<clr:238,180,34><B>Crash:<B> Jižní strana, na místě."
 
-		"[english]crash.HoldingEast0"		"<clr:238,180,34><B>Crash:<B> Covering east."
-		"crash.HoldingEast0"		"<clr:238,180,34><B>Crash:<B> Covering east."
+"[english]crash.HoldingEast0"		"<clr:238,180,34><B>Crash:<B> Covering east."
+"crash.HoldingEast0"		"<clr:238,180,34><B>Crash:<B> Kryji východ."
 
-		"[english]crash.HoldingEast1"		"<clr:238,180,34><B>Crash:<B> Covering eastside."
-		"crash.HoldingEast1"		"<clr:238,180,34><B>Crash:<B> Covering eastside."
+"[english]crash.HoldingEast1"		"<clr:238,180,34><B>Crash:<B> Covering eastside."
+"crash.HoldingEast1"		"<clr:238,180,34><B>Crash:<B> Kryji východní stranu."
 
-		"[english]crash.HoldingEast2"		"<clr:238,180,34><B>Crash:<B> Eastside in position."
-		"crash.HoldingEast2"		"<clr:238,180,34><B>Crash:<B> Eastside in position."
+"[english]crash.HoldingEast2"		"<clr:238,180,34><B>Crash:<B> Eastside in position."
+"crash.HoldingEast2"		"<clr:238,180,34><B>Crash:<B> Východní strana, na místě."
 
-		"[english]crash.HoldingEast3"		"<clr:238,180,34><B>Crash:<B> Eastside, standing to."
-		"crash.HoldingEast3"		"<clr:238,180,34><B>Crash:<B> Eastside, standing to."
+"[english]crash.HoldingEast3"		"<clr:238,180,34><B>Crash:<B> Eastside, standing to."
+"crash.HoldingEast3"		"<clr:238,180,34><B>Crash:<B> Východní strana, stojí."
 
-		"[english]crash.HoldingWest0"		"<clr:238,180,34><B>Crash:<B> Covering west."
-		"crash.HoldingWest0"		"<clr:238,180,34><B>Crash:<B> Covering west."
+"[english]crash.HoldingWest0"		"<clr:238,180,34><B>Crash:<B> Covering west."
+"crash.HoldingWest0"		"<clr:238,180,34><B>Crash:<B> Kryji západ."
 
-		"[english]crash.HoldingWest1"		"<clr:238,180,34><B>Crash:<B> Covering westside."
-		"crash.HoldingWest1"		"<clr:238,180,34><B>Crash:<B> Covering westside."
+"[english]crash.HoldingWest1"		"<clr:238,180,34><B>Crash:<B> Covering westside."
+"crash.HoldingWest1"		"<clr:238,180,34><B>Crash:<B> Kryji západní stranu."
 
-		"[english]crash.HoldingWest2"		"<clr:238,180,34><B>Crash:<B> Westside in position."
-		"crash.HoldingWest2"		"<clr:238,180,34><B>Crash:<B> Westside in position."
+"[english]crash.HoldingWest2"		"<clr:238,180,34><B>Crash:<B> Westside in position."
+"crash.HoldingWest2"		"<clr:238,180,34><B>Crash:<B> Západní strana, na místě."
 
-		"[english]crash.HoldingWest3"		"<clr:238,180,34><B>Crash:<B> Westside, standing to."
-		"crash.HoldingWest3"		"<clr:238,180,34><B>Crash:<B> Westside, standing to."
+"[english]crash.HoldingWest3"		"<clr:238,180,34><B>Crash:<B> Westside, standing to."
+"crash.HoldingWest3"		"<clr:238,180,34><B>Crash:<B> Západní strana, stojí."
 
-		"[english]crash.GotPoint0"		"<clr:238,180,34><B>Crash:<B> Crash, taking point."
-		"crash.GotPoint0"		"<clr:238,180,34><B>Crash:<B> Crash, taking point."
+"[english]crash.GotPoint0"		"<clr:238,180,34><B>Crash:<B> Crash, taking point."
+"crash.GotPoint0"		"<clr:238,180,34><B>Crash:<B> Crash, beru předvoj."
 
-		"[english]crash.GotRear0"		"<clr:238,180,34><B>Crash:<B> Crash taking rearguard."
-		"crash.GotRear0"		"<clr:238,180,34><B>Crash:<B> Crash taking rearguard."
+"[english]crash.GotRear0"		"<clr:238,180,34><B>Crash:<B> Crash taking rearguard."
+"crash.GotRear0"		"<clr:238,180,34><B>Crash:<B> Crash, beru zadní voj."
 
-		"[english]crash.GotRear1"		"<clr:238,180,34><B>Crash:<B> I got your back."
-		"crash.GotRear1"		"<clr:238,180,34><B>Crash:<B> I got your back."
+"[english]crash.GotRear1"		"<clr:238,180,34><B>Crash:<B> I got your back."
+"crash.GotRear1"		"<clr:238,180,34><B>Crash:<B> Beru záda."
 
-		"[english]crash.RequestSealDoor0"		"<clr:238,180,34><B>Crash:<B> Quick, seal the door!"
-		"crash.RequestSealDoor0"		"<clr:238,180,34><B>Crash:<B> Quick, seal the door!"
+"[english]crash.RequestSealDoor0"		"<clr:238,180,34><B>Crash:<B> Quick, seal the door!"
+"crash.RequestSealDoor0"		"<clr:238,180,34><B>Crash:<B> Rychle, zapečeťte ty dveře!"
 
-		"[english]crash.RequestSealDoor1"		"<clr:238,180,34><B>Crash:<B> Seal it up! We don't want these things getting in here."
-		"crash.RequestSealDoor1"		"<clr:238,180,34><B>Crash:<B> Seal it up! We don't want these things getting in here."
+"[english]crash.RequestSealDoor1"		"<clr:238,180,34><B>Crash:<B> Seal it up! We don't want these things getting in here."
+"crash.RequestSealDoor1"		"<clr:238,180,34><B>Crash:<B> Zapečeťte je! Nechceme, aby se ty věci dostaly dovnitř."
 
-		"[english]crash.RequestSealDoor2"		"<clr:238,180,34><B>Crash:<B> Secure the door."
-		"crash.RequestSealDoor2"		"<clr:238,180,34><B>Crash:<B> Secure the door."
+"[english]crash.RequestSealDoor2"		"<clr:238,180,34><B>Crash:<B> Secure the door."
+"crash.RequestSealDoor2"		"<clr:238,180,34><B>Crash:<B> Zajistěte ty dveře."
 
-		"[english]crash.RequestCutDoor0"		"<clr:238,180,34><B>Crash:<B> Cut it open!"
-		"crash.RequestCutDoor0"		"<clr:238,180,34><B>Crash:<B> Cut it open!"
+"[english]crash.RequestCutDoor0"		"<clr:238,180,34><B>Crash:<B> Cut it open!"
+"crash.RequestCutDoor0"		"<clr:238,180,34><B>Crash:<B> Rozřezejte je!"
 
-		"[english]crash.RequestCutDoor1"		"<clr:238,180,34><B>Crash:<B> What're you waiting for? Get it open!"
-		"crash.RequestCutDoor1"		"<clr:238,180,34><B>Crash:<B> What're you waiting for? Get it open!"
+"[english]crash.RequestCutDoor1"		"<clr:238,180,34><B>Crash:<B> What're you waiting for? Get it open!"
+"crash.RequestCutDoor1"		"<clr:238,180,34><B>Crash:<B> Na co čekáte? Otevřte je!"
 
-		"[english]crash.RequestShootDoor0"		"<clr:238,180,34><B>Crash:<B> Oh yeah, let's blast this door to hell!"
-		"crash.RequestShootDoor0"		"<clr:238,180,34><B>Crash:<B> Oh yeah, let's blast this door to hell!"
+"[english]crash.RequestShootDoor0"		"<clr:238,180,34><B>Crash:<B> Oh yeah, let's blast this door to hell!"
+"crash.RequestShootDoor0"		"<clr:238,180,34><B>Crash:<B> Jo, vyhoďme tyhle dveře do vzduchu!"
 
-		"[english]crash.RequestShootDoor1"		"<clr:238,180,34><B>Crash:<B> Blast it open!"
-		"crash.RequestShootDoor1"		"<clr:238,180,34><B>Crash:<B> Blast it open!"
+"[english]crash.RequestShootDoor1"		"<clr:238,180,34><B>Crash:<B> Blast it open!"
+"crash.RequestShootDoor1"		"<clr:238,180,34><B>Crash:<B> Vyhoďme je do vzduchu!"
 
-		"[english]crash.RequestShootDoor2"		"<clr:238,180,34><B>Crash:<B> Shoot it open!"
-		"crash.RequestShootDoor2"		"<clr:238,180,34><B>Crash:<B> Shoot it open!"
+"[english]crash.RequestShootDoor2"		"<clr:238,180,34><B>Crash:<B> Shoot it open!"
+"crash.RequestShootDoor2"		"<clr:238,180,34><B>Crash:<B> Rozestřílejme je!"
 
-		"[english]crash.CuttingDoor0"		"<clr:238,180,34><B>Crash:<B> Crash, cuttin door."
-		"crash.CuttingDoor0"		"<clr:238,180,34><B>Crash:<B> Crash, cuttin door."
+"[english]crash.CuttingDoor0"		"<clr:238,180,34><B>Crash:<B> Crash, cuttin door."
+"crash.CuttingDoor0"		"<clr:238,180,34><B>Crash:<B> Crash, řežu dveře."
 
-		"[english]crash.CuttingDoor1"		"<clr:238,180,34><B>Crash:<B> Roger that. Cuttin door."
-		"crash.CuttingDoor1"		"<clr:238,180,34><B>Crash:<B> Roger that. Cuttin door."
+"[english]crash.CuttingDoor1"		"<clr:238,180,34><B>Crash:<B> Roger that. Cuttin door."
+"crash.CuttingDoor1"		"<clr:238,180,34><B>Crash:<B> Rozumím. Řežu dveře."
 
-		"[english]crash.SealingDoor0"		"<clr:238,180,34><B>Crash:<B> Crash, sealing door."
-		"crash.SealingDoor0"		"<clr:238,180,34><B>Crash:<B> Crash, sealing door."
+"[english]crash.SealingDoor0"		"<clr:238,180,34><B>Crash:<B> Crash, sealing door."
+"crash.SealingDoor0"		"<clr:238,180,34><B>Crash:<B> Crash, zapečeťuji dveře."
 
-		"[english]crash.SealingDoor1"		"<clr:238,180,34><B>Crash:<B> Sealing door nice and tight."
-		"crash.SealingDoor1"		"<clr:238,180,34><B>Crash:<B> Sealing door nice and tight."
+"[english]crash.SealingDoor1"		"<clr:238,180,34><B>Crash:<B> Sealing door nice and tight."
+"crash.SealingDoor1"		"<clr:238,180,34><B>Crash:<B> Zapečeťuji dveře pěkně pevně."
 
-		"[english]crash.Biomass0"		"<clr:238,180,34><B>Crash:<B> Swarm biomass--burn it all!"
-		"crash.Biomass0"		"<clr:238,180,34><B>Crash:<B> Swarm biomass--burn it all!"
+"[english]crash.Biomass0"		"<clr:238,180,34><B>Crash:<B> Swarm biomass--burn it all!"
+"crash.Biomass0"		"<clr:238,180,34><B>Crash:<B> Biomasa roje! Spalte ji všechnu!"
 
 "[english]crash.Biomass1"		"<clr:238,180,34><B>Crash:<B> Biomass? Man, I hate this shit."
 "crash.Biomass1"		"<clr:238,180,34><B>Crash:<B> Biomasa? Tyvole, tak tuhle sračku nesnáším."
 
-		"[english]crash.Biomass2"		"<clr:238,180,34><B>Crash:<B> Biocrap. What the hell is this stuff anyway?"
-		"crash.Biomass2"		"<clr:238,180,34><B>Crash:<B> Biocrap. What the hell is this stuff anyway?"
+"[english]crash.Biomass2"		"<clr:238,180,34><B>Crash:<B> Biocrap. What the hell is this stuff anyway?"
+"crash.Biomass2"		"<clr:238,180,34><B>Crash:<B> Biohovno. Co to sakra vlastně je?"
 
-		"[english]crash.Biomass3"		"<clr:238,180,34><B>Crash:<B> Urgh, swarm biomass. Burn it!"
-		"crash.Biomass3"		"<clr:238,180,34><B>Crash:<B> Urgh, swarm biomass. Burn it!"
+"[english]crash.Biomass3"		"<clr:238,180,34><B>Crash:<B> Urgh, swarm biomass. Burn it!"
+"crash.Biomass3"		"<clr:238,180,34><B>Crash:<B> Fuj, biomasa roje. Spalte ji!"
 
-		"[english]crash.TimeToLeave0"		"<clr:238,180,34><B>Crash:<B> Let's get out of here."
-		"crash.TimeToLeave0"		"<clr:238,180,34><B>Crash:<B> Let's get out of here."
+"[english]crash.TimeToLeave0"		"<clr:238,180,34><B>Crash:<B> Let's get out of here."
+"crash.TimeToLeave0"		"<clr:238,180,34><B>Crash:<B> Pojďme odsud pryč."
 
-		"[english]crash.TimeToLeave1"		"<clr:238,180,34><B>Crash:<B> Time to move on out."
-		"crash.TimeToLeave1"		"<clr:238,180,34><B>Crash:<B> Time to move on out."
+"[english]crash.TimeToLeave1"		"<clr:238,180,34><B>Crash:<B> Time to move on out."
+"crash.TimeToLeave1"		"<clr:238,180,34><B>Crash:<B> Je čas jít pryč."
 
-		"[english]crash.TimeToLeave2"		"<clr:238,180,34><B>Crash:<B> Woohoo! Time to wave this place goodbye!"
-		"crash.TimeToLeave2"		"<clr:238,180,34><B>Crash:<B> Woohoo! Time to wave this place goodbye!"
+"[english]crash.TimeToLeave2"		"<clr:238,180,34><B>Crash:<B> Woohoo! Time to wave this place goodbye!"
+"crash.TimeToLeave2"		"<clr:238,180,34><B>Crash:<B> Jééé! Je čas se s tímto místem rozloučit!"
 
-		"[english]crash.WatchOut0"		"<clr:238,180,34><B>Crash:<B> Look out!"
-		"crash.WatchOut0"		"<clr:238,180,34><B>Crash:<B> Look out!"
+"[english]crash.WatchOut0"		"<clr:238,180,34><B>Crash:<B> Look out!"
+"crash.WatchOut0"		"<clr:238,180,34><B>Crash:<B> Pozor!"
 
-		"[english]crash.WatchOut1"		"<clr:238,180,34><B>Crash:<B> There!"
-		"crash.WatchOut1"		"<clr:238,180,34><B>Crash:<B> There!"
+"[english]crash.WatchOut1"		"<clr:238,180,34><B>Crash:<B> There!"
+"crash.WatchOut1"		"<clr:238,180,34><B>Crash:<B> Tam!"
 
-		"[english]crash.WatchOut2"		"<clr:238,180,34><B>Crash:<B> Watch out!"
-		"crash.WatchOut2"		"<clr:238,180,34><B>Crash:<B> Watch out!"
+"[english]crash.WatchOut2"		"<clr:238,180,34><B>Crash:<B> Watch out!"
+"crash.WatchOut2"		"<clr:238,180,34><B>Crash:<B> Bacha!"
 
-		"[english]crash.Shieldbug0"		"<clr:238,180,34><B>Crash:<B> Holy Shit!"
-		"crash.Shieldbug0"		"<clr:238,180,34><B>Crash:<B> Holy Shit!"
+"[english]crash.Shieldbug0"		"<clr:238,180,34><B>Crash:<B> Holy Shit!"
+"crash.Shieldbug0"		"<clr:238,180,34><B>Crash:<B> No doprdele!"
 
 
 
-		"[english]crash.Shieldbug2"		"<clr:238,180,34><B>Crash:<B> Shit, a shieldbug!"
-		"crash.Shieldbug2"		"<clr:238,180,34><B>Crash:<B> Shit, a shieldbug!"
+"[english]crash.Shieldbug2"		"<clr:238,180,34><B>Crash:<B> Shit, a shieldbug!"
+"crash.Shieldbug2"		"<clr:238,180,34><B>Crash:<B> Doprdele, štítobrouk!"
 
-		"[english]crash.ShieldbugHint0"		"<clr:238,180,34><B>Crash:<B> Get behind it!"
-		"crash.ShieldbugHint0"		"<clr:238,180,34><B>Crash:<B> Get behind it!"
+"[english]crash.ShieldbugHint0"		"<clr:238,180,34><B>Crash:<B> Get behind it!"
+"crash.ShieldbugHint0"		"<clr:238,180,34><B>Crash:<B> Dostaňte se za něj!"
 
-		"[english]crash.ShieldbugHint1"		"<clr:238,180,34><B>Crash:<B> Shoot it in the back!"
-		"crash.ShieldbugHint1"		"<clr:238,180,34><B>Crash:<B> Shoot it in the back!"
+"[english]crash.ShieldbugHint1"		"<clr:238,180,34><B>Crash:<B> Shoot it in the back!"
+"crash.ShieldbugHint1"		"<clr:238,180,34><B>Crash:<B> Střelte ho do zad!"
 
-		"[english]crash.ShieldbugHint2"		"<clr:238,180,34><B>Crash:<B> Someone grenade it!"
-		"crash.ShieldbugHint2"		"<clr:238,180,34><B>Crash:<B> Someone grenade it!"
+"[english]crash.ShieldbugHint2"		"<clr:238,180,34><B>Crash:<B> Someone grenade it!"
+"crash.ShieldbugHint2"		"<clr:238,180,34><B>Crash:<B> Odpalte to granátem! Někdo!"
 
-		"[english]crash.Parasite0"		"<clr:238,180,34><B>Crash:<B> Look out! Parasite!"
-		"crash.Parasite0"		"<clr:238,180,34><B>Crash:<B> Look out! Parasite!"
+"[english]crash.Parasite0"		"<clr:238,180,34><B>Crash:<B> Look out! Parasite!"
+"crash.Parasite0"		"<clr:238,180,34><B>Crash:<B> Pozor! Parazit!"
 
-		"[english]crash.Parasite1"		"<clr:238,180,34><B>Crash:<B> Parasite!"
-		"crash.Parasite1"		"<clr:238,180,34><B>Crash:<B> Parasite!"
+"[english]crash.Parasite1"		"<clr:238,180,34><B>Crash:<B> Parasite!"
+"crash.Parasite1"		"<clr:238,180,34><B>Crash:<B> Parazit!"
 
-		"[english]crash.Parasite2"		"<clr:238,180,34><B>Crash:<B> Shit, a parasite!"
-		"crash.Parasite2"		"<clr:238,180,34><B>Crash:<B> Shit, a parasite!"
+"[english]crash.Parasite2"		"<clr:238,180,34><B>Crash:<B> Shit, a parasite!"
+"crash.Parasite2"		"<clr:238,180,34><B>Crash:<B> Sakra, parazit!"
 
-		"[english]crash.BeenInfested0"		"<clr:238,180,34><B>Crash:<B> Get it off me!"
-		"crash.BeenInfested0"		"<clr:238,180,34><B>Crash:<B> Get it off me!"
+"[english]crash.BeenInfested0"		"<clr:238,180,34><B>Crash:<B> Get it off me!"
+"crash.BeenInfested0"		"<clr:238,180,34><B>Crash:<B> Dostaňte to ze mě!"
 
-		"[english]crash.BeenInfested1"		"<clr:238,180,34><B>Crash:<B> It's on me!"
-		"crash.BeenInfested1"		"<clr:238,180,34><B>Crash:<B> It's on me!"
+"[english]crash.BeenInfested1"		"<clr:238,180,34><B>Crash:<B> It's on me!"
+"crash.BeenInfested1"		"<clr:238,180,34><B>Crash:<B> Je to na mě!"
 
-		"[english]crash.BeenInfested3"		"<clr:238,180,34><B>Crash:<B> Get it off, get it off!"
-		"crash.BeenInfested3"		"<clr:238,180,34><B>Crash:<B> Get it off, get it off!"
+"[english]crash.BeenInfested3"		"<clr:238,180,34><B>Crash:<B> Get it off, get it off!"
+"crash.BeenInfested3"		"<clr:238,180,34><B>Crash:<B> Sundejte to, sundejte to!"
 
-		"[english]crash.SwarmEggs0"		"<clr:238,180,34><B>Crash:<B> Swarm eggs!"
-		"crash.SwarmEggs0"		"<clr:238,180,34><B>Crash:<B> Swarm eggs!"
+"[english]crash.SwarmEggs0"		"<clr:238,180,34><B>Crash:<B> Swarm eggs!"
+"crash.SwarmEggs0"		"<clr:238,180,34><B>Crash:<B> Vajíčka roje!"
 
-		"[english]crash.SwarmEggs1"		"<clr:238,180,34><B>Crash:<B> Swarm eggs, watch yourself!"
-		"crash.SwarmEggs1"		"<clr:238,180,34><B>Crash:<B> Swarm eggs, watch yourself!"
+"[english]crash.SwarmEggs1"		"<clr:238,180,34><B>Crash:<B> Swarm eggs, watch yourself!"
+"crash.SwarmEggs1"		"<clr:238,180,34><B>Crash:<B> Vajíčka roje, dávejte pozor!"
 
-		"[english]crash.SwarmEggs2"		"<clr:238,180,34><B>Crash:<B> Watch out! Swarm eggs!"
-		"crash.SwarmEggs2"		"<clr:238,180,34><B>Crash:<B> Watch out! Swarm eggs!"
+"[english]crash.SwarmEggs2"		"<clr:238,180,34><B>Crash:<B> Watch out! Swarm eggs!"
+"crash.SwarmEggs2"		"<clr:238,180,34><B>Crash:<B> Pozor! Vajíčka roje!"
 
 "[english]crash.Grenade0"		"<clr:238,180,34><B>Crash:<B> Clear!"
 "crash.Grenade0"		"<clr:238,180,34><B>Crash:<B> Čisto!"
 
-		"[english]crash.Grenade1"		"<clr:238,180,34><B>Crash:<B> Eat this!"
-		"crash.Grenade1"		"<clr:238,180,34><B>Crash:<B> Eat this!"
+"[english]crash.Grenade1"		"<clr:238,180,34><B>Crash:<B> Eat this!"
+"crash.Grenade1"		"<clr:238,180,34><B>Crash:<B> Sežer tohle!"
 
 "[english]crash.Grenade2"		"<clr:238,180,34><B>Crash:<B> Fire in the hole!"
 "crash.Grenade2"		"<clr:238,180,34><B>Crash:<B> Pozor, výbuch!"
@@ -1517,269 +1517,269 @@
 "[english]crash.Grenade3"		"<clr:238,180,34><B>Crash:<B> Grenade!"
 "crash.Grenade3"		"<clr:238,180,34><B>Crash:<B> Granát!"
 
-		"[english]crash.AlienTooClose0"		"<clr:238,180,34><B>Crash:<B> Get it off!"
-		"crash.AlienTooClose0"		"<clr:238,180,34><B>Crash:<B> Get it off!"
+"[english]crash.AlienTooClose0"		"<clr:238,180,34><B>Crash:<B> Get it off!"
+"crash.AlienTooClose0"		"<clr:238,180,34><B>Crash:<B> Sundejte to!"
 
-		"[english]crash.AlienTooClose1"		"<clr:238,180,34><B>Crash:<B> Hostile on me!"
-		"crash.AlienTooClose1"		"<clr:238,180,34><B>Crash:<B> Hostile on me!"
+"[english]crash.AlienTooClose1"		"<clr:238,180,34><B>Crash:<B> Hostile on me!"
+"crash.AlienTooClose1"		"<clr:238,180,34><B>Crash:<B> Nepřítel u mě!"
 
-		"[english]crash.AlienTooClose2"		"<clr:238,180,34><B>Crash:<B> Kill it!"
-		"crash.AlienTooClose2"		"<clr:238,180,34><B>Crash:<B> Kill it!"
+"[english]crash.AlienTooClose2"		"<clr:238,180,34><B>Crash:<B> Kill it!"
+"crash.AlienTooClose2"		"<clr:238,180,34><B>Crash:<B> Zabte to!"
 
-		"[english]crash.AlienTooClose3"		"<clr:238,180,34><B>Crash:<B> On me!"
-		"crash.AlienTooClose3"		"<clr:238,180,34><B>Crash:<B> On me!"
+"[english]crash.AlienTooClose3"		"<clr:238,180,34><B>Crash:<B> On me!"
+"crash.AlienTooClose3"		"<clr:238,180,34><B>Crash:<B> U mě!"
 
-		"[english]crash.MadFiring0"		"<clr:238,180,34><B>Crash:<B> Come on."
-		"crash.MadFiring0"		"<clr:238,180,34><B>Crash:<B> Come on."
+"[english]crash.MadFiring0"		"<clr:238,180,34><B>Crash:<B> Come on."
+"crash.MadFiring0"		"<clr:238,180,34><B>Crash:<B> No tak."
 
-		"[english]crash.MadFiring1"		"<clr:238,180,34><B>Crash:<B> Die, you son of a bitch!"
-		"crash.MadFiring1"		"<clr:238,180,34><B>Crash:<B> Die, you son of a bitch!"
+"[english]crash.MadFiring1"		"<clr:238,180,34><B>Crash:<B> Die, you son of a bitch!"
+"crash.MadFiring1"		"<clr:238,180,34><B>Crash:<B> Zemři, zkurvysynu!"
 
-		"[english]crash.MadFiring3"		"<clr:238,180,34><B>Crash:<B> You want some?"
-		"crash.MadFiring3"		"<clr:238,180,34><B>Crash:<B> You want some?"
+"[english]crash.MadFiring3"		"<clr:238,180,34><B>Crash:<B> You want some?"
+"crash.MadFiring3"		"<clr:238,180,34><B>Crash:<B> Dáš si?"
 
-		"[english]crash.MadFiring4"		"<clr:238,180,34><B>Crash:<B> You want some?"
-		"crash.MadFiring4"		"<clr:238,180,34><B>Crash:<B> You want some?"
+"[english]crash.MadFiring4"		"<clr:238,180,34><B>Crash:<B> You want some?"
+"crash.MadFiring4"		"<clr:238,180,34><B>Crash:<B> Dáš si?"
 
-		"[english]crash.BreachedDoor0"		"<clr:238,180,34><B>Crash:<B> They breached the door!"
-		"crash.BreachedDoor0"		"<clr:238,180,34><B>Crash:<B> They breached the door!"
+"[english]crash.BreachedDoor0"		"<clr:238,180,34><B>Crash:<B> They breached the door!"
+"crash.BreachedDoor0"		"<clr:238,180,34><B>Crash:<B> Pronikli dveřma!"
 
-		"[english]crash.BreachedDoor1"		"<clr:238,180,34><B>Crash:<B> They broke the door down!"
-		"crash.BreachedDoor1"		"<clr:238,180,34><B>Crash:<B> They broke the door down!"
+"[english]crash.BreachedDoor1"		"<clr:238,180,34><B>Crash:<B> They broke the door down!"
+"crash.BreachedDoor1"		"<clr:238,180,34><B>Crash:<B> Vyrazili dveře!"
 
-		"[english]crash.BreachedDoor2"		"<clr:238,180,34><B>Crash:<B> They're through the door!"
-		"crash.BreachedDoor2"		"<clr:238,180,34><B>Crash:<B> They're through the door!"
+"[english]crash.BreachedDoor2"		"<clr:238,180,34><B>Crash:<B> They're through the door!"
+"crash.BreachedDoor2"		"<clr:238,180,34><B>Crash:<B> Dostali se skrze dveře!"
 
-		"[english]crash.MarineDown0"		"<clr:238,180,34><B>Crash:<B> Marine down!"
-		"crash.MarineDown0"		"<clr:238,180,34><B>Crash:<B> Marine down!"
+"[english]crash.MarineDown0"		"<clr:238,180,34><B>Crash:<B> Marine down!"
+"crash.MarineDown0"		"<clr:238,180,34><B>Crash:<B> Padl mariňák!"
 
-		"[english]crash.MarineDown1"		"<clr:238,180,34><B>Crash:<B> Shit, no!"
-		"crash.MarineDown1"		"<clr:238,180,34><B>Crash:<B> Shit, no!"
+"[english]crash.MarineDown1"		"<clr:238,180,34><B>Crash:<B> Shit, no!"
+"crash.MarineDown1"		"<clr:238,180,34><B>Crash:<B> Né! Doprdele!"
 
-		"[english]crash.SmallPain0"		"<clr:238,180,34><B>Crash:<B> [Pain]"
-		"crash.SmallPain0"		"<clr:238,180,34><B>Crash:<B> [Pain]"
+"[english]crash.SmallPain0"		"<clr:238,180,34><B>Crash:<B> [Pain]"
+"crash.SmallPain0"		"<clr:238,180,34><B>Crash:<B> [Bolest]"
 
-		"[english]crash.SmallPain1"		"<clr:238,180,34><B>Crash:<B> [Pain]"
-		"crash.SmallPain1"		"<clr:238,180,34><B>Crash:<B> [Pain]"
+"[english]crash.SmallPain1"		"<clr:238,180,34><B>Crash:<B> [Pain]"
+"crash.SmallPain1"		"<clr:238,180,34><B>Crash:<B> [Bolest]"
 
-		"[english]crash.SmallPain2"		"<clr:238,180,34><B>Crash:<B> [Pain]"
-		"crash.SmallPain2"		"<clr:238,180,34><B>Crash:<B> [Pain]"
+"[english]crash.SmallPain2"		"<clr:238,180,34><B>Crash:<B> [Pain]"
+"crash.SmallPain2"		"<clr:238,180,34><B>Crash:<B> [Bolest]"
 
-		"[english]crash.SmallPain3"		"<clr:238,180,34><B>Crash:<B> [Pain]"
-		"crash.SmallPain3"		"<clr:238,180,34><B>Crash:<B> [Pain]"
+"[english]crash.SmallPain3"		"<clr:238,180,34><B>Crash:<B> [Pain]"
+"crash.SmallPain3"		"<clr:238,180,34><B>Crash:<B> [Bolest]"
 
-		"[english]crash.LargePain0"		"<clr:238,180,34><B>Crash:<B> [Pain]"
-		"crash.LargePain0"		"<clr:238,180,34><B>Crash:<B> [Pain]"
+"[english]crash.LargePain0"		"<clr:238,180,34><B>Crash:<B> [Pain]"
+"crash.LargePain0"		"<clr:238,180,34><B>Crash:<B> [Bolest]"
 
-		"[english]crash.LargePain1"		"<clr:238,180,34><B>Crash:<B> [Pain]"
-		"crash.LargePain1"		"<clr:238,180,34><B>Crash:<B> [Pain]"
+"[english]crash.LargePain1"		"<clr:238,180,34><B>Crash:<B> [Pain]"
+"crash.LargePain1"		"<clr:238,180,34><B>Crash:<B> [Bolest]"
 
-		"[english]crash.LargePain2"		"<clr:238,180,34><B>Crash:<B> [Pain]"
-		"crash.LargePain2"		"<clr:238,180,34><B>Crash:<B> [Pain]"
+"[english]crash.LargePain2"		"<clr:238,180,34><B>Crash:<B> [Pain]"
+"crash.LargePain2"		"<clr:238,180,34><B>Crash:<B> [Bolest]"
 
-		"[english]crash.LargePain3"		"<clr:238,180,34><B>Crash:<B> [Pain]"
-		"crash.LargePain3"		"<clr:238,180,34><B>Crash:<B> [Pain]"
+"[english]crash.LargePain3"		"<clr:238,180,34><B>Crash:<B> [Pain]"
+"crash.LargePain3"		"<clr:238,180,34><B>Crash:<B> [Bolest]"
 
-		"[english]crash.Dead0"		"<clr:238,180,34><B>Crash:<B> [Death]"
-		"crash.Dead0"		"<clr:238,180,34><B>Crash:<B> [Death]"
+"[english]crash.Dead0"		"<clr:238,180,34><B>Crash:<B> [Death]"
+"crash.Dead0"		"<clr:238,180,34><B>Crash:<B> [Smrt]"
 
-		"[english]crash.Dead1"		"<clr:238,180,34><B>Crash:<B> [Death]"
-		"crash.Dead1"		"<clr:238,180,34><B>Crash:<B> [Death]"
+"[english]crash.Dead1"		"<clr:238,180,34><B>Crash:<B> [Death]"
+"crash.Dead1"		"<clr:238,180,34><B>Crash:<B> [Smrt]"
 
-		"[english]crash.Dead2"		"<clr:238,180,34><B>Crash:<B> [Death]"
-		"crash.Dead2"		"<clr:238,180,34><B>Crash:<B> [Death]"
+"[english]crash.Dead2"		"<clr:238,180,34><B>Crash:<B> [Death]"
+"crash.Dead2"		"<clr:238,180,34><B>Crash:<B> [Smrt]"
 
-		"[english]crash.OnFire0"		"<clr:238,180,34><B>Crash:<B> [Screaming]"
-		"crash.OnFire0"		"<clr:238,180,34><B>Crash:<B> [Screaming]"
+"[english]crash.OnFire0"		"<clr:238,180,34><B>Crash:<B> [Screaming]"
+"crash.OnFire0"		"<clr:238,180,34><B>Crash:<B> [Křik]"
 
-		"[english]crash.StartedHack0"		"<clr:238,180,34><B>Crash:<B> Hack in progress."
-		"crash.StartedHack0"		"<clr:238,180,34><B>Crash:<B> Hack in progress."
+"[english]crash.StartedHack0"		"<clr:238,180,34><B>Crash:<B> Hack in progress."
+"crash.StartedHack0"		"<clr:238,180,34><B>Crash:<B> Probíhá hackování."
 
-		"[english]crash.StartedHack1"		"<clr:238,180,34><B>Crash:<B> On it. Cover me."
-		"crash.StartedHack1"		"<clr:238,180,34><B>Crash:<B> On it. Cover me."
+"[english]crash.StartedHack1"		"<clr:238,180,34><B>Crash:<B> On it. Cover me."
+"crash.StartedHack1"		"<clr:238,180,34><B>Crash:<B> Jdu na to. Kryjte mě."
 
-		"[english]crash.StartedHack2"		"<clr:238,180,34><B>Crash:<B> I'm on it. Looks easy."
-		"crash.StartedHack2"		"<clr:238,180,34><B>Crash:<B> I'm on it. Looks easy."
+"[english]crash.StartedHack2"		"<clr:238,180,34><B>Crash:<B> I'm on it. Looks easy."
+"crash.StartedHack2"		"<clr:238,180,34><B>Crash:<B> Jdu na to. Vypadá to jednoduše."
 
-		"[english]crash.StartedHack3"		"<clr:238,180,34><B>Crash:<B> I'll have it open in no time."
-		"crash.StartedHack3"		"<clr:238,180,34><B>Crash:<B> I'll have it open in no time."
+"[english]crash.StartedHack3"		"<clr:238,180,34><B>Crash:<B> I'll have it open in no time."
+"crash.StartedHack3"		"<clr:238,180,34><B>Crash:<B> Otevřu to za pár."
 
-		"[english]crash.StartedHack4"		"<clr:238,180,34><B>Crash:<B> Time for me to work my magic."
-		"crash.StartedHack4"		"<clr:238,180,34><B>Crash:<B> Time for me to work my magic."
+"[english]crash.StartedHack4"		"<clr:238,180,34><B>Crash:<B> Time for me to work my magic."
+"crash.StartedHack4"		"<clr:238,180,34><B>Crash:<B> Je čas předvést mé čáry."
 
-		"[english]crash.StartedLongHack0"		"<clr:238,180,34><B>Crash:<B> Cover me, this is gonna take a while."
-		"crash.StartedLongHack0"		"<clr:238,180,34><B>Crash:<B> Cover me, this is gonna take a while."
+"[english]crash.StartedLongHack0"		"<clr:238,180,34><B>Crash:<B> Cover me, this is gonna take a while."
+"crash.StartedLongHack0"		"<clr:238,180,34><B>Crash:<B> Kryjte mě, tohle bude chvilku trvat."
 
-		"[english]crash.StartedLongHack1"		"<clr:238,180,34><B>Crash:<B> Got my back, right?"
-		"crash.StartedLongHack1"		"<clr:238,180,34><B>Crash:<B> Got my back, right?"
+"[english]crash.StartedLongHack1"		"<clr:238,180,34><B>Crash:<B> Got my back, right?"
+"crash.StartedLongHack1"		"<clr:238,180,34><B>Crash:<B> Máte mý záda, že jo?"
 
-		"[english]crash.StartedLongHack2"		"<clr:238,180,34><B>Crash:<B> Hacking in progress."
-		"crash.StartedLongHack2"		"<clr:238,180,34><B>Crash:<B> Hacking in progress."
+"[english]crash.StartedLongHack2"		"<clr:238,180,34><B>Crash:<B> Hacking in progress."
+"crash.StartedLongHack2"		"<clr:238,180,34><B>Crash:<B> Probíhá hackování."
 
-		"[english]crash.StartedLongHack3"		"<clr:238,180,34><B>Crash:<B> On it. Cover me."
-		"crash.StartedLongHack3"		"<clr:238,180,34><B>Crash:<B> On it. Cover me."
+"[english]crash.StartedLongHack3"		"<clr:238,180,34><B>Crash:<B> On it. Cover me."
+"crash.StartedLongHack3"		"<clr:238,180,34><B>Crash:<B> Jdu na to. Kryjte mě."
 
-		"[english]crash.StartedLongHack4"		"<clr:238,180,34><B>Crash:<B> I'm on it. Looks easy."
-		"crash.StartedLongHack4"		"<clr:238,180,34><B>Crash:<B> I'm on it. Looks easy."
+"[english]crash.StartedLongHack4"		"<clr:238,180,34><B>Crash:<B> I'm on it. Looks easy."
+"crash.StartedLongHack4"		"<clr:238,180,34><B>Crash:<B> Jdu na to. Vypadá to jednoduše."
 
-		"[english]crash.StartedLongHack5"		"<clr:238,180,34><B>Crash:<B> Time for me to work my magic."
-		"crash.StartedLongHack5"		"<clr:238,180,34><B>Crash:<B> Time for me to work my magic."
+"[english]crash.StartedLongHack5"		"<clr:238,180,34><B>Crash:<B> Time for me to work my magic."
+"crash.StartedLongHack5"		"<clr:238,180,34><B>Crash:<B> Je čas předvést mé čáry."
 
-		"[english]crash.HalfwayHack0"		"<clr:238,180,34><B>Crash:<B> Come on, baby."
-		"crash.HalfwayHack0"		"<clr:238,180,34><B>Crash:<B> Come on, baby."
+"[english]crash.HalfwayHack0"		"<clr:238,180,34><B>Crash:<B> Come on, baby."
+"crash.HalfwayHack0"		"<clr:238,180,34><B>Crash:<B> No tak, zlato."
 
-		"[english]crash.HalfwayHack1"		"<clr:238,180,34><B>Crash:<B> Hack at 50 percent."
-		"crash.HalfwayHack1"		"<clr:238,180,34><B>Crash:<B> Hack at 50 percent."
+"[english]crash.HalfwayHack1"		"<clr:238,180,34><B>Crash:<B> Hack at 50 percent."
+"crash.HalfwayHack1"		"<clr:238,180,34><B>Crash:<B> Hack na 50 procent."
 
-		"[english]crash.HalfwayHack2"		"<clr:238,180,34><B>Crash:<B> Halfway there."
-		"crash.HalfwayHack2"		"<clr:238,180,34><B>Crash:<B> Halfway there."
+"[english]crash.HalfwayHack2"		"<clr:238,180,34><B>Crash:<B> Halfway there."
+"crash.HalfwayHack2"		"<clr:238,180,34><B>Crash:<B> Na půli cesty."
 
-		"[english]crash.HalfwayHack3"		"<clr:238,180,34><B>Crash:<B> Halfway through."
-		"crash.HalfwayHack3"		"<clr:238,180,34><B>Crash:<B> Halfway through."
+"[english]crash.HalfwayHack3"		"<clr:238,180,34><B>Crash:<B> Halfway through."
+"crash.HalfwayHack3"		"<clr:238,180,34><B>Crash:<B> V polovině."
 
-		"[english]crash.FinishedHack0"		"<clr:238,180,34><B>Crash:<B> Got it."
-		"crash.FinishedHack0"		"<clr:238,180,34><B>Crash:<B> Got it."
+"[english]crash.FinishedHack0"		"<clr:238,180,34><B>Crash:<B> Got it."
+"crash.FinishedHack0"		"<clr:238,180,34><B>Crash:<B> Mám to."
 
-		"[english]crash.FinishedHack1"		"<clr:238,180,34><B>Crash:<B> Hack complete!"
-		"crash.FinishedHack1"		"<clr:238,180,34><B>Crash:<B> Hack complete!"
+"[english]crash.FinishedHack1"		"<clr:238,180,34><B>Crash:<B> Hack complete!"
+"crash.FinishedHack1"		"<clr:238,180,34><B>Crash:<B> Hack dokončen!"
 
-		"[english]crash.FinishedHack2"		"<clr:238,180,34><B>Crash:<B> Hack it, crack it, and send it home!"
-		"crash.FinishedHack2"		"<clr:238,180,34><B>Crash:<B> Hack it, crack it, and send it home!"
+"[english]crash.FinishedHack2"		"<clr:238,180,34><B>Crash:<B> Hack it, crack it, and send it home!"
+"crash.FinishedHack2"		"<clr:238,180,34><B>Crash:<B> Hackni to, crackni to a pošli to domů!"
 
-		"[english]crash.FinishedHack3"		"<clr:238,180,34><B>Crash:<B> System violated."
-		"crash.FinishedHack3"		"<clr:238,180,34><B>Crash:<B> System violated."
+"[english]crash.FinishedHack3"		"<clr:238,180,34><B>Crash:<B> System violated."
+"crash.FinishedHack3"		"<clr:238,180,34><B>Crash:<B> Systém narušen."
 
-		"[english]crash.FinishedHack4"		"<clr:238,180,34><B>Crash:<B> Oh yeah, who's the man?"
-		"crash.FinishedHack4"		"<clr:238,180,34><B>Crash:<B> Oh yeah, who's the man?"
+"[english]crash.FinishedHack4"		"<clr:238,180,34><B>Crash:<B> Oh yeah, who's the man?"
+"crash.FinishedHack4"		"<clr:238,180,34><B>Crash:<B> Jo! Kdo je borec?"
 
-		"[english]crash.FinishedHackButton0"		"<clr:238,180,34><B>Crash:<B> Got it."
-		"crash.FinishedHackButton0"		"<clr:238,180,34><B>Crash:<B> Got it."
+"[english]crash.FinishedHackButton0"		"<clr:238,180,34><B>Crash:<B> Got it."
+"crash.FinishedHackButton0"		"<clr:238,180,34><B>Crash:<B> Mám to."
 
-		"[english]crash.FinishedHackButton1"		"<clr:238,180,34><B>Crash:<B> Hack complete."
-		"crash.FinishedHackButton1"		"<clr:238,180,34><B>Crash:<B> Hack complete."
+"[english]crash.FinishedHackButton1"		"<clr:238,180,34><B>Crash:<B> Hack complete."
+"crash.FinishedHackButton1"		"<clr:238,180,34><B>Crash:<B> Hack dokončen."
 
-		"[english]crash.FinishedHackButton2"		"<clr:238,180,34><B>Crash:<B> Hack it, crack it, and send it home!"
-		"crash.FinishedHackButton2"		"<clr:238,180,34><B>Crash:<B> Hack it, crack it, and send it home!"
+"[english]crash.FinishedHackButton2"		"<clr:238,180,34><B>Crash:<B> Hack it, crack it, and send it home!"
+"crash.FinishedHackButton2"		"<clr:238,180,34><B>Crash:<B> Hackni to, crackni to a pošli to domů!"
 
-		"[english]crash.FinishedHackButton3"		"<clr:238,180,34><B>Crash:<B> System violated."
-		"crash.FinishedHackButton3"		"<clr:238,180,34><B>Crash:<B> System violated."
+"[english]crash.FinishedHackButton3"		"<clr:238,180,34><B>Crash:<B> System violated."
+"crash.FinishedHackButton3"		"<clr:238,180,34><B>Crash:<B> Systém narušen."
 
-		"[english]crash.FinishedHackButton4"		"<clr:238,180,34><B>Crash:<B> Oh yeah, who's the man!"
-		"crash.FinishedHackButton4"		"<clr:238,180,34><B>Crash:<B> Oh yeah, who's the man!"
+"[english]crash.FinishedHackButton4"		"<clr:238,180,34><B>Crash:<B> Oh yeah, who's the man!"
+"crash.FinishedHackButton4"		"<clr:238,180,34><B>Crash:<B> Jo! kdo je borec?"
 
-		"[english]crash.Scanner0"		"<clr:238,180,34><B>Crash:<B> I got movement."
-		"crash.Scanner0"		"<clr:238,180,34><B>Crash:<B> I got movement."
+"[english]crash.Scanner0"		"<clr:238,180,34><B>Crash:<B> I got movement."
+"crash.Scanner0"		"<clr:238,180,34><B>Crash:<B> Vidím pohyb."
 
-		"[english]crash.Scanner1"		"<clr:238,180,34><B>Crash:<B> I got movement."
-		"crash.Scanner1"		"<clr:238,180,34><B>Crash:<B> I got movement."
+"[english]crash.Scanner1"		"<clr:238,180,34><B>Crash:<B> I got movement."
+"crash.Scanner1"		"<clr:238,180,34><B>Crash:<B> Vidím pohyb."
 
-		"[english]crash.Scanner2"		"<clr:238,180,34><B>Crash:<B> Scan's reading something."
-		"crash.Scanner2"		"<clr:238,180,34><B>Crash:<B> Scan's reading something."
+"[english]crash.Scanner2"		"<clr:238,180,34><B>Crash:<B> Scan's reading something."
+"crash.Scanner2"		"<clr:238,180,34><B>Crash:<B> Skener něco zobrazuje."
 
-		"[english]crash.Scanner3"		"<clr:238,180,34><B>Crash:<B> Something's moving."
-		"crash.Scanner3"		"<clr:238,180,34><B>Crash:<B> Something's moving."
+"[english]crash.Scanner3"		"<clr:238,180,34><B>Crash:<B> Something's moving."
+"crash.Scanner3"		"<clr:238,180,34><B>Crash:<B> Něco se hýbe."
 
-		"[english]crash.ScannerMultiple0"		"<clr:238,180,34><B>Crash:<B> Lots of signals, all around!"
-		"crash.ScannerMultiple0"		"<clr:238,180,34><B>Crash:<B> Lots of signals, all around!"
+"[english]crash.ScannerMultiple0"		"<clr:238,180,34><B>Crash:<B> Lots of signals, all around!"
+"crash.ScannerMultiple0"		"<clr:238,180,34><B>Crash:<B> Hodně signálů, všude kolem!"
 
-		"[english]crash.ScannerMultiple1"		"<clr:238,180,34><B>Crash:<B> Multiple signals!"
-		"crash.ScannerMultiple1"		"<clr:238,180,34><B>Crash:<B> Multiple signals!"
+"[english]crash.ScannerMultiple1"		"<clr:238,180,34><B>Crash:<B> Multiple signals!"
+"crash.ScannerMultiple1"		"<clr:238,180,34><B>Crash:<B> Více signálů!"
 
-		"[english]crash.ScannerMultiple2"		"<clr:238,180,34><B>Crash:<B> They're coming from all around!"
-		"crash.ScannerMultiple2"		"<clr:238,180,34><B>Crash:<B> They're coming from all around!"
+"[english]crash.ScannerMultiple2"		"<clr:238,180,34><B>Crash:<B> They're coming from all around!"
+"crash.ScannerMultiple2"		"<clr:238,180,34><B>Crash:<B> Přicházejí odevšad!"
 
-		"[english]crash.ScannerMultiple3"		"<clr:238,180,34><B>Crash:<B> They're all around us!"
-		"crash.ScannerMultiple3"		"<clr:238,180,34><B>Crash:<B> They're all around us!"
+"[english]crash.ScannerMultiple3"		"<clr:238,180,34><B>Crash:<B> They're all around us!"
+"crash.ScannerMultiple3"		"<clr:238,180,34><B>Crash:<B> Jsou všude kolem nás!"
 
-		"[english]crash.ActivateStims0"		"<clr:238,180,34><B>Crash:<B> Hit the stims!"
-		"crash.ActivateStims0"		"<clr:238,180,34><B>Crash:<B> Hit the stims!"
+"[english]crash.ActivateStims0"		"<clr:238,180,34><B>Crash:<B> Hit the stims!"
+"crash.ActivateStims0"		"<clr:238,180,34><B>Crash:<B> Dávejte stimulanty!"
 
-		"[english]crash.ActivateStims1"		"<clr:238,180,34><B>Crash:<B> Stim now!"
-		"crash.ActivateStims1"		"<clr:238,180,34><B>Crash:<B> Stim now!"
+"[english]crash.ActivateStims1"		"<clr:238,180,34><B>Crash:<B> Stim now!"
+"crash.ActivateStims1"		"<clr:238,180,34><B>Crash:<B> Stimulanty, teď!"
 
-		"[english]crash.ActivateStims2"		"<clr:238,180,34><B>Crash:<B> Stimpack!"
-		"crash.ActivateStims2"		"<clr:238,180,34><B>Crash:<B> Stimpack!"
+"[english]crash.ActivateStims2"		"<clr:238,180,34><B>Crash:<B> Stimpack!"
+"crash.ActivateStims2"		"<clr:238,180,34><B>Crash:<B> Stimulanty!"
 
-		"[english]crash.ActivateStims3"		"<clr:238,180,34><B>Crash:<B> Stims!"
-		"crash.ActivateStims3"		"<clr:238,180,34><B>Crash:<B> Stims!"
+"[english]crash.ActivateStims3"		"<clr:238,180,34><B>Crash:<B> Stims!"
+"crash.ActivateStims3"		"<clr:238,180,34><B>Crash:<B> Stimulanty!"
 
-		"[english]crash.Compliments0"		"<clr:238,180,34><B>Crash:<B> Not bad."
-		"crash.Compliments0"		"<clr:238,180,34><B>Crash:<B> Not bad."
+"[english]crash.Compliments0"		"<clr:238,180,34><B>Crash:<B> Not bad."
+"crash.Compliments0"		"<clr:238,180,34><B>Crash:<B> To nebylo špatný."
 
-		"[english]crash.Compliments1"		"<clr:238,180,34><B>Crash:<B> Heh, that's nothing."
-		"crash.Compliments1"		"<clr:238,180,34><B>Crash:<B> Heh, that's nothing."
+"[english]crash.Compliments1"		"<clr:238,180,34><B>Crash:<B> Heh, that's nothing."
+"crash.Compliments1"		"<clr:238,180,34><B>Crash:<B> Heh, to nic není."
 
-		"[english]crash.Compliments2"		"<clr:238,180,34><B>Crash:<B> Smooth."
-		"crash.Compliments2"		"<clr:238,180,34><B>Crash:<B> Smooth."
+"[english]crash.Compliments2"		"<clr:238,180,34><B>Crash:<B> Smooth."
+"crash.Compliments2"		"<clr:238,180,34><B>Crash:<B> Hezky."
 
-		"[english]crash.Selection0"		"<clr:238,180,34><B>Crash:<B> I'm ready."
-		"crash.Selection0"		"<clr:238,180,34><B>Crash:<B> I'm ready."
+"[english]crash.Selection0"		"<clr:238,180,34><B>Crash:<B> I'm ready."
+"crash.Selection0"		"<clr:238,180,34><B>Crash:<B> Jsem připraven."
 
-		"[english]crash.Selection1"		"<clr:238,180,34><B>Crash:<B> Ready to get it on!"
-		"crash.Selection1"		"<clr:238,180,34><B>Crash:<B> Ready to get it on!"
+"[english]crash.Selection1"		"<clr:238,180,34><B>Crash:<B> Ready to get it on!"
+"crash.Selection1"		"<clr:238,180,34><B>Crash:<B> Připraven na akci!"
 
-		"[english]crash.Selection2"		"<clr:238,180,34><B>Crash:<B> What's up?"
-		"crash.Selection2"		"<clr:238,180,34><B>Crash:<B> What's up?"
+"[english]crash.Selection2"		"<clr:238,180,34><B>Crash:<B> What's up?"
+"crash.Selection2"		"<clr:238,180,34><B>Crash:<B> Co je?"
 
-		// Faith
+// Faith
 
 
-		"[english]faith.SynUpReply0"		"<clr:178,34,34><B>Faith:<B> Half the core world is addicted to that stuff."
-		"faith.SynUpReply0"		"<clr:178,34,34><B>Faith:<B> Half the core world is addicted to that stuff."
+"[english]faith.SynUpReply0"		"<clr:178,34,34><B>Faith:<B> Half the core world is addicted to that stuff."
+"faith.SynUpReply0"		"<clr:178,34,34><B>Faith:<B> Polovina hlavního světa je na tom závislá."
 
-		"[english]faith.SynUpReply1"		"<clr:178,34,34><B>Faith:<B> You don't want to drink that shit, believe me."
-		"faith.SynUpReply1"		"<clr:178,34,34><B>Faith:<B> You don't want to drink that shit, believe me."
+"[english]faith.SynUpReply1"		"<clr:178,34,34><B>Faith:<B> You don't want to drink that shit, believe me."
+"faith.SynUpReply1"		"<clr:178,34,34><B>Faith:<B> Tu sračku pít nechceš, věř mi."
 
-		"[english]faith.MedicComplainReply0"		"<clr:178,34,34><B>Faith:<B> Sorry, Bastille, that's why I've got you here."
-		"faith.MedicComplainReply0"		"<clr:178,34,34><B>Faith:<B> Sorry, Bastille, that's why I've got you here."
+"[english]faith.MedicComplainReply0"		"<clr:178,34,34><B>Faith:<B> Sorry, Bastille, that's why I've got you here."
+"faith.MedicComplainReply0"		"<clr:178,34,34><B>Faith:<B> Promiň, Bastille, proto tě tu mám."
 
-		"[english]faith.MedicComplain0"		"<clr:178,34,34><B>Faith:<B> Can't you avoid getting hurt?"
-		"faith.MedicComplain0"		"<clr:178,34,34><B>Faith:<B> Can't you avoid getting hurt?"
+"[english]faith.MedicComplain0"		"<clr:178,34,34><B>Faith:<B> Can't you avoid getting hurt?"
+"faith.MedicComplain0"		"<clr:178,34,34><B>Faith:<B> Nemůžeš se vyhnout zraněním?"
 
-		"[english]faith.MedicComplain1"		"<clr:178,34,34><B>Faith:<B> You just love getting in harm's way, don't you?"
-		"faith.MedicComplain1"		"<clr:178,34,34><B>Faith:<B> You just love getting in harm's way, don't you?"
+"[english]faith.MedicComplain1"		"<clr:178,34,34><B>Faith:<B> You just love getting in harm's way, don't you?"
+"faith.MedicComplain1"		"<clr:178,34,34><B>Faith:<B> Prostě miluješ, když se dostáváš do nebezpečí, že jo?"
 
-		"[english]faith.TequilaReply0"		"<clr:178,34,34><B>Faith:<B> You know that stuff kills your liver."
-		"faith.TequilaReply0"		"<clr:178,34,34><B>Faith:<B> You know that stuff kills your liver."
+"[english]faith.TequilaReply0"		"<clr:178,34,34><B>Faith:<B> You know that stuff kills your liver."
+"faith.TequilaReply0"		"<clr:178,34,34><B>Faith:<B> Víš, že to ničí játra."
 
-		"[english]faith.InjuredSelection0"		"<clr:178,34,34><B>Faith:<B> I can make it."
-		"faith.InjuredSelection0"		"<clr:178,34,34><B>Faith:<B> I can make it."
+"[english]faith.InjuredSelection0"		"<clr:178,34,34><B>Faith:<B> I can make it."
+"faith.InjuredSelection0"		"<clr:178,34,34><B>Faith:<B> Zvládnu to."
 
-		"[english]faith.InjuredSelection1"		"<clr:178,34,34><B>Faith:<B> I'm okay."
-		"faith.InjuredSelection1"		"<clr:178,34,34><B>Faith:<B> I'm okay."
+"[english]faith.InjuredSelection1"		"<clr:178,34,34><B>Faith:<B> I'm okay."
+"faith.InjuredSelection1"		"<clr:178,34,34><B>Faith:<B> Jsem vpořádku."
 
-		"[english]faith.InjuredSelection2"		"<clr:178,34,34><B>Faith:<B> I'm okay."
-		"faith.InjuredSelection2"		"<clr:178,34,34><B>Faith:<B> I'm okay."
+"[english]faith.InjuredSelection2"		"<clr:178,34,34><B>Faith:<B> I'm okay."
+"faith.InjuredSelection2"		"<clr:178,34,34><B>Faith:<B> Jsem vpořádku."
 
-		"[english]faith.InjuredSelection3"		"<clr:178,34,34><B>Faith:<B> Let's be careful, okay?"
-		"faith.InjuredSelection3"		"<clr:178,34,34><B>Faith:<B> Let's be careful, okay?"
+"[english]faith.InjuredSelection3"		"<clr:178,34,34><B>Faith:<B> Let's be careful, okay?"
+"faith.InjuredSelection3"		"<clr:178,34,34><B>Faith:<B> Buďme opatrní, dobrá?"
 
-		"[english]faith.SeriousInjuryReply0"		"<clr:178,34,34><B>Faith:<B> Is it that bad?"
-		"faith.SeriousInjuryReply0"		"<clr:178,34,34><B>Faith:<B> Is it that bad?"
+"[english]faith.SeriousInjuryReply0"		"<clr:178,34,34><B>Faith:<B> Is it that bad?"
+"faith.SeriousInjuryReply0"		"<clr:178,34,34><B>Faith:<B> Je to zlé?"
 
-		"[english]faith.SeriousInjuryFollowUp0"		"<clr:178,34,34><B>Faith:<B> Just stay safe."
-		"faith.SeriousInjuryFollowUp0"		"<clr:178,34,34><B>Faith:<B> Just stay safe."
+"[english]faith.SeriousInjuryFollowUp0"		"<clr:178,34,34><B>Faith:<B> Just stay safe."
+"faith.SeriousInjuryFollowUp0"		"<clr:178,34,34><B>Faith:<B> Jen se opatruj."
 
-		"[english]faith.SeriousInjuryFollowUp1"		"<clr:178,34,34><B>Faith:<B> Just take it easy from now on."
-		"faith.SeriousInjuryFollowUp1"		"<clr:178,34,34><B>Faith:<B> Just take it easy from now on."
+"[english]faith.SeriousInjuryFollowUp1"		"<clr:178,34,34><B>Faith:<B> Just take it easy from now on."
+"faith.SeriousInjuryFollowUp1"		"<clr:178,34,34><B>Faith:<B> Od teď to ber s klidem."
 
-		"[english]faith.SeriousInjury0"		"<clr:178,34,34><B>Faith:<B> Don't put any strain on it for a while, okay?"
-		"faith.SeriousInjury0"		"<clr:178,34,34><B>Faith:<B> Don't put any strain on it for a while, okay?"
+"[english]faith.SeriousInjury0"		"<clr:178,34,34><B>Faith:<B> Don't put any strain on it for a while, okay?"
+"faith.SeriousInjury0"		"<clr:178,34,34><B>Faith:<B> Chvíli to nezatěžuj, ano?"
 
-		"[english]faith.SeriousInjury1"		"<clr:178,34,34><B>Faith:<B> You're up for field surgery after this."
-		"faith.SeriousInjury1"		"<clr:178,34,34><B>Faith:<B> You're up for field surgery after this."
+"[english]faith.SeriousInjury1"		"<clr:178,34,34><B>Faith:<B> You're up for field surgery after this."
+"faith.SeriousInjury1"		"<clr:178,34,34><B>Faith:<B> Po tomhle tě čeká operace v terénu."
 
-		"[english]faith.StillBreathingReply0"		"<clr:178,34,34><B>Faith:<B> I got enough stitching without your encouragement."
-		"faith.StillBreathingReply0"		"<clr:178,34,34><B>Faith:<B> I got enough stitching without your encouragement."
+"[english]faith.StillBreathingReply0"		"<clr:178,34,34><B>Faith:<B> I got enough stitching without your encouragement."
+"faith.StillBreathingReply0"		"<clr:178,34,34><B>Faith:<B> Mám dost šití i bez tvého povzbuzování."
 
-		"[english]faith.Use0"		"<clr:178,34,34><B>Faith:<B> Absolutely."
-		"faith.Use0"		"<clr:178,34,34><B>Faith:<B> Absolutely."
+"[english]faith.Use0"		"<clr:178,34,34><B>Faith:<B> Absolutely."
+"faith.Use0"		"<clr:178,34,34><B>Faith:<B> Rozhodně."
 
-		"[english]faith.Use1"		"<clr:178,34,34><B>Faith:<B> As fast as I can."
-		"faith.Use1"		"<clr:178,34,34><B>Faith:<B> As fast as I can."
+"[english]faith.Use1"		"<clr:178,34,34><B>Faith:<B> As fast as I can."
+"faith.Use1"		"<clr:178,34,34><B>Faith:<B> Jak rychle jen můžu."
 
-		"[english]faith.Use2"		"<clr:178,34,34><B>Faith:<B> Excellent."
-		"faith.Use2"		"<clr:178,34,34><B>Faith:<B> Excellent."
+"[english]faith.Use2"		"<clr:178,34,34><B>Faith:<B> Excellent."
+"faith.Use2"		"<clr:178,34,34><B>Faith:<B> Vynikající."
 
 "[english]faith.Use3"		"<clr:178,34,34><B>Faith:<B> Okay."
 "faith.Use3"		"<clr:178,34,34><B>Faith:<B> Ok."
@@ -1796,122 +1796,122 @@
 "[english]faith.Use7"		"<clr:178,34,34><B>Faith:<B> Yes, sir."
 "faith.Use7"		"<clr:178,34,34><B>Faith:<B> Ano, pane."
 
-		"[english]faith.Idle0"		"<clr:178,34,34><B>Faith:<B> I don't like it down here."
-		"faith.Idle0"		"<clr:178,34,34><B>Faith:<B> I don't like it down here."
+"[english]faith.Idle0"		"<clr:178,34,34><B>Faith:<B> I don't like it down here."
+"faith.Idle0"		"<clr:178,34,34><B>Faith:<B> Nelíbí se mi to tady dole."
 
-		"[english]faith.Idle1"		"<clr:178,34,34><B>Faith:<B> I hope the civilians died quickly and without much pain."
-		"faith.Idle1"		"<clr:178,34,34><B>Faith:<B> I hope the civilians died quickly and without much pain."
+"[english]faith.Idle1"		"<clr:178,34,34><B>Faith:<B> I hope the civilians died quickly and without much pain."
+"faith.Idle1"		"<clr:178,34,34><B>Faith:<B> Doufám, že ti civilisté zemřeli rychle a bezbolestně."
 
-		"[english]faith.Idle2"		"<clr:178,34,34><B>Faith:<B> I hope we leave soon."
-		"faith.Idle2"		"<clr:178,34,34><B>Faith:<B> I hope we leave soon."
+"[english]faith.Idle2"		"<clr:178,34,34><B>Faith:<B> I hope we leave soon."
+"faith.Idle2"		"<clr:178,34,34><B>Faith:<B> Doufám, že brzy odejdeme."
 
-		"[english]faith.Idle3"		"<clr:178,34,34><B>Faith:<B> I hope we pull through without too many injuries."
-		"faith.Idle3"		"<clr:178,34,34><B>Faith:<B> I hope we pull through without too many injuries."
+"[english]faith.Idle3"		"<clr:178,34,34><B>Faith:<B> I hope we pull through without too many injuries."
+"faith.Idle3"		"<clr:178,34,34><B>Faith:<B> Doufám, že to zvládneme bez přílišných zranění."
 
-		"[english]faith.Idle4"		"<clr:178,34,34><B>Faith:<B> It's way too quiet."
-		"faith.Idle4"		"<clr:178,34,34><B>Faith:<B> It's way too quiet."
+"[english]faith.Idle4"		"<clr:178,34,34><B>Faith:<B> It's way too quiet."
+"faith.Idle4"		"<clr:178,34,34><B>Faith:<B> Je tu až příliš ticho."
 
-		"[english]faith.Idle5"		"<clr:178,34,34><B>Faith:<B> I wonder if there's any survivors."
-		"faith.Idle5"		"<clr:178,34,34><B>Faith:<B> I wonder if there's any survivors."
+"[english]faith.Idle5"		"<clr:178,34,34><B>Faith:<B> I wonder if there's any survivors."
+"faith.Idle5"		"<clr:178,34,34><B>Faith:<B> Zajímalo by mě, jestli tu jsou nějací přeživší."
 
-		"[english]faith.Idle6"		"<clr:178,34,34><B>Faith:<B> I wonder if we run into any wounded."
-		"faith.Idle6"		"<clr:178,34,34><B>Faith:<B> I wonder if we run into any wounded."
+"[english]faith.Idle6"		"<clr:178,34,34><B>Faith:<B> I wonder if we run into any wounded."
+"faith.Idle6"		"<clr:178,34,34><B>Faith:<B> Zajímalo by mě, jestli narazíme na nějaké zraněné."
 
-		"[english]faith.Idle7"		"<clr:178,34,34><B>Faith:<B> This all seems like a horrible nightmare."
-		"faith.Idle7"		"<clr:178,34,34><B>Faith:<B> This all seems like a horrible nightmare."
+"[english]faith.Idle7"		"<clr:178,34,34><B>Faith:<B> This all seems like a horrible nightmare."
+"faith.Idle7"		"<clr:178,34,34><B>Faith:<B> Vše se tu zdá jako z hrozné noční můry."
 
-		"[english]faith.Idle8"		"<clr:178,34,34><B>Faith:<B> This place isn't secure."
-		"faith.Idle8"		"<clr:178,34,34><B>Faith:<B> This place isn't secure."
+"[english]faith.Idle8"		"<clr:178,34,34><B>Faith:<B> This place isn't secure."
+"faith.Idle8"		"<clr:178,34,34><B>Faith:<B> Není tu bezpečno."
 
-		"[english]faith.Idle9"		"<clr:178,34,34><B>Faith:<B> Wait, I hear something."
-		"faith.Idle9"		"<clr:178,34,34><B>Faith:<B> Wait, I hear something."
+"[english]faith.Idle9"		"<clr:178,34,34><B>Faith:<B> Wait, I hear something."
+"faith.Idle9"		"<clr:178,34,34><B>Faith:<B> Počkat, něco slyším."
 
-		"[english]faith.Idle10"		"<clr:178,34,34><B>Faith:<B> Watch your backs down here."
-		"faith.Idle10"		"<clr:178,34,34><B>Faith:<B> Watch your backs down here."
+"[english]faith.Idle10"		"<clr:178,34,34><B>Faith:<B> Watch your backs down here."
+"faith.Idle10"		"<clr:178,34,34><B>Faith:<B> Dávejte si tady dole pozor na záda."
 
-		"[english]faith.FF0"		"<clr:178,34,34><B>Faith:<B> Friendly fire!"
-		"faith.FF0"		"<clr:178,34,34><B>Faith:<B> Friendly fire!"
+"[english]faith.FF0"		"<clr:178,34,34><B>Faith:<B> Friendly fire!"
+"faith.FF0"		"<clr:178,34,34><B>Faith:<B> Palba do vlastních!"
 
-		"[english]faith.FF1"		"<clr:178,34,34><B>Faith:<B> Watch it!"
-		"faith.FF1"		"<clr:178,34,34><B>Faith:<B> Watch it!"
+"[english]faith.FF1"		"<clr:178,34,34><B>Faith:<B> Watch it!"
+"faith.FF1"		"<clr:178,34,34><B>Faith:<B> Dávej pozor!"
 
 "[english]faith.FiringAtAlien0"		"<clr:178,34,34><B>Faith:<B> Here."
 "faith.FiringAtAlien0"		"<clr:178,34,34><B>Faith:<B> Zde."
 
-		"[english]faith.FiringAtAlien1"		"<clr:178,34,34><B>Faith:<B> I need backup!"
-		"faith.FiringAtAlien1"		"<clr:178,34,34><B>Faith:<B> I need backup!"
+"[english]faith.FiringAtAlien1"		"<clr:178,34,34><B>Faith:<B> I need backup!"
+"faith.FiringAtAlien1"		"<clr:178,34,34><B>Faith:<B> Potřebuji podporu!"
 
-		"[english]faith.FiringAtAlien2"		"<clr:178,34,34><B>Faith:<B> Target!"
-		"faith.FiringAtAlien2"		"<clr:178,34,34><B>Faith:<B> Target!"
+"[english]faith.FiringAtAlien2"		"<clr:178,34,34><B>Faith:<B> Target!"
+"faith.FiringAtAlien2"		"<clr:178,34,34><B>Faith:<B> Cíl!"
 
-		"[english]faith.FiringAtAlien3"		"<clr:178,34,34><B>Faith:<B> There's another one!"
-		"faith.FiringAtAlien3"		"<clr:178,34,34><B>Faith:<B> There's another one!"
+"[english]faith.FiringAtAlien3"		"<clr:178,34,34><B>Faith:<B> There's another one!"
+"faith.FiringAtAlien3"		"<clr:178,34,34><B>Faith:<B> Je tu další!"
 
-		"[english]faith.FiringAtAlien4"		"<clr:178,34,34><B>Faith:<B> There's one!"
-		"faith.FiringAtAlien4"		"<clr:178,34,34><B>Faith:<B> There's one!"
+"[english]faith.FiringAtAlien4"		"<clr:178,34,34><B>Faith:<B> There's one!"
+"faith.FiringAtAlien4"		"<clr:178,34,34><B>Faith:<B> Je tu jeden!"
 
-		"[english]faith.FollowMe0"		"<clr:178,34,34><B>Faith:<B> Follow me."
-		"faith.FollowMe0"		"<clr:178,34,34><B>Faith:<B> Follow me."
+"[english]faith.FollowMe0"		"<clr:178,34,34><B>Faith:<B> Follow me."
+"faith.FollowMe0"		"<clr:178,34,34><B>Faith:<B> Následujte mě."
 
-		"[english]faith.FollowMe1"		"<clr:178,34,34><B>Faith:<B> Let's go!"
-		"faith.FollowMe1"		"<clr:178,34,34><B>Faith:<B> Let's go!"
+"[english]faith.FollowMe1"		"<clr:178,34,34><B>Faith:<B> Let's go!"
+"faith.FollowMe1"		"<clr:178,34,34><B>Faith:<B> Pojďme!"
 
-		"[english]faith.FollowMe2"		"<clr:178,34,34><B>Faith:<B> Let's move out!"
-		"faith.FollowMe2"		"<clr:178,34,34><B>Faith:<B> Let's move out!"
+"[english]faith.FollowMe2"		"<clr:178,34,34><B>Faith:<B> Let's move out!"
+"faith.FollowMe2"		"<clr:178,34,34><B>Faith:<B> Pojďme pryč!"
 
-		"[english]faith.FollowMe3"		"<clr:178,34,34><B>Faith:<B> Let's move out!"
-		"faith.FollowMe3"		"<clr:178,34,34><B>Faith:<B> Let's move out!"
+"[english]faith.FollowMe3"		"<clr:178,34,34><B>Faith:<B> Let's move out!"
+"faith.FollowMe3"		"<clr:178,34,34><B>Faith:<B> Pojďme pryč!"
 
-		"[english]faith.HoldPosition0"		"<clr:178,34,34><B>Faith:<B> Hold it."
-		"faith.HoldPosition0"		"<clr:178,34,34><B>Faith:<B> Hold it."
+"[english]faith.HoldPosition0"		"<clr:178,34,34><B>Faith:<B> Hold it."
+"faith.HoldPosition0"		"<clr:178,34,34><B>Faith:<B> Zadržte."
 
-		"[english]faith.HoldPosition1"		"<clr:178,34,34><B>Faith:<B> Hold position."
-		"faith.HoldPosition1"		"<clr:178,34,34><B>Faith:<B> Hold position."
+"[english]faith.HoldPosition1"		"<clr:178,34,34><B>Faith:<B> Hold position."
+"faith.HoldPosition1"		"<clr:178,34,34><B>Faith:<B> Držte pozici."
 
-		"[english]faith.HoldPosition2"		"<clr:178,34,34><B>Faith:<B> Secure this area."
-		"faith.HoldPosition2"		"<clr:178,34,34><B>Faith:<B> Secure this area."
+"[english]faith.HoldPosition2"		"<clr:178,34,34><B>Faith:<B> Secure this area."
+"faith.HoldPosition2"		"<clr:178,34,34><B>Faith:<B> Zabezpečete tuto oblast."
 
-		"[english]faith.HoldPosition3"		"<clr:178,34,34><B>Faith:<B> Wait!"
-		"faith.HoldPosition3"		"<clr:178,34,34><B>Faith:<B> Wait!"
+"[english]faith.HoldPosition3"		"<clr:178,34,34><B>Faith:<B> Wait!"
+"faith.HoldPosition3"		"<clr:178,34,34><B>Faith:<B> Počkejte!"
 
-		"[english]faith.HoldPosition4"		"<clr:178,34,34><B>Faith:<B> Wait here!"
-		"faith.HoldPosition4"		"<clr:178,34,34><B>Faith:<B> Wait here!"
+"[english]faith.HoldPosition4"		"<clr:178,34,34><B>Faith:<B> Wait here!"
+"faith.HoldPosition4"		"<clr:178,34,34><B>Faith:<B> Počkejte zde!"
 
-		"[english]faith.NeedAmmo0"		"<clr:178,34,34><B>Faith:<B> I need ammo."
-		"faith.NeedAmmo0"		"<clr:178,34,34><B>Faith:<B> I need ammo."
+"[english]faith.NeedAmmo0"		"<clr:178,34,34><B>Faith:<B> I need ammo."
+"faith.NeedAmmo0"		"<clr:178,34,34><B>Faith:<B> Potřebuji náboje."
 
-		"[english]faith.NeedAmmo1"		"<clr:178,34,34><B>Faith:<B> Need ammo!"
-		"faith.NeedAmmo1"		"<clr:178,34,34><B>Faith:<B> Need ammo!"
+"[english]faith.NeedAmmo1"		"<clr:178,34,34><B>Faith:<B> Need ammo!"
+"faith.NeedAmmo1"		"<clr:178,34,34><B>Faith:<B> Potřebuji munici!"
 
-		"[english]faith.NoAmmo0"		"<clr:178,34,34><B>Faith:<B> No ammo!"
-		"faith.NoAmmo0"		"<clr:178,34,34><B>Faith:<B> No ammo!"
+"[english]faith.NoAmmo0"		"<clr:178,34,34><B>Faith:<B> No ammo!"
+"faith.NoAmmo0"		"<clr:178,34,34><B>Faith:<B> Jsem bez nábojů!"
 
-		"[english]faith.NoAmmo1"		"<clr:178,34,34><B>Faith:<B> Out of ammo!"
-		"faith.NoAmmo1"		"<clr:178,34,34><B>Faith:<B> Out of ammo!"
+"[english]faith.NoAmmo1"		"<clr:178,34,34><B>Faith:<B> Out of ammo!"
+"faith.NoAmmo1"		"<clr:178,34,34><B>Faith:<B> Došly mi náboje!"
 
 "[english]faith.Medic0"		"<clr:178,34,34><B>Faith:<B> Medic!"
 "faith.Medic0"		"<clr:178,34,34><B>Faith:<B> Medik!"
 
-		"[english]faith.Reloading0"		"<clr:178,34,34><B>Faith:<B> Lock and load!"
-		"faith.Reloading0"		"<clr:178,34,34><B>Faith:<B> Lock and load!"
+"[english]faith.Reloading0"		"<clr:178,34,34><B>Faith:<B> Lock and load!"
+"faith.Reloading0"		"<clr:178,34,34><B>Faith:<B> Nabít a připravit!"
 
-		"[english]faith.Reloading1"		"<clr:178,34,34><B>Faith:<B> Reload!"
-		"faith.Reloading1"		"<clr:178,34,34><B>Faith:<B> Reload!"
+"[english]faith.Reloading1"		"<clr:178,34,34><B>Faith:<B> Reload!"
+"faith.Reloading1"		"<clr:178,34,34><B>Faith:<B> Přebíjím!"
 
-		"[english]faith.Reloading2"		"<clr:178,34,34><B>Faith:<B> Reload, cover me!"
-		"faith.Reloading2"		"<clr:178,34,34><B>Faith:<B> Reload, cover me!"
+"[english]faith.Reloading2"		"<clr:178,34,34><B>Faith:<B> Reload, cover me!"
+"faith.Reloading2"		"<clr:178,34,34><B>Faith:<B> Přebíjím, kryjte mě!"
 
-		"[english]faith.Reloading3"		"<clr:178,34,34><B>Faith:<B> Reloading!"
-		"faith.Reloading3"		"<clr:178,34,34><B>Faith:<B> Reloading!"
+"[english]faith.Reloading3"		"<clr:178,34,34><B>Faith:<B> Reloading!"
+"faith.Reloading3"		"<clr:178,34,34><B>Faith:<B> Přebíjím!"
 
-		"[english]faith.SentryInPlace0"		"<clr:178,34,34><B>Faith:<B> Sentry assembled."
-		"faith.SentryInPlace0"		"<clr:178,34,34><B>Faith:<B> Sentry assembled."
+"[english]faith.SentryInPlace0"		"<clr:178,34,34><B>Faith:<B> Sentry assembled."
+"faith.SentryInPlace0"		"<clr:178,34,34><B>Faith:<B> Sentry postavena."
 
-		"[english]faith.SentryInPlace1"		"<clr:178,34,34><B>Faith:<B> Sentry in place."
-		"faith.SentryInPlace1"		"<clr:178,34,34><B>Faith:<B> Sentry in place."
+"[english]faith.SentryInPlace1"		"<clr:178,34,34><B>Faith:<B> Sentry in place."
+"faith.SentryInPlace1"		"<clr:178,34,34><B>Faith:<B> Sentry na místě."
 
-		"[english]faith.SentryInPlace2"		"<clr:178,34,34><B>Faith:<B> Sentry online."
-		"faith.SentryInPlace2"		"<clr:178,34,34><B>Faith:<B> Sentry online."
+"[english]faith.SentryInPlace2"		"<clr:178,34,34><B>Faith:<B> Sentry online."
+"faith.SentryInPlace2"		"<clr:178,34,34><B>Faith:<B> Sentry online."
 
 "[english]faith.Ammo0"		"<clr:178,34,34><B>Faith:<B> Ammo!"
 "faith.Ammo0"		"<clr:178,34,34><B>Faith:<B> Munice!"
@@ -1919,14 +1919,14 @@
 "[english]faith.Ammo1"		"<clr:178,34,34><B>Faith:<B> Ammo!"
 "faith.Ammo1"		"<clr:178,34,34><B>Faith:<B> Munice!"
 
-		"[english]faith.Medkit0"		"<clr:178,34,34><B>Faith:<B> Medkit!"
-		"faith.Medkit0"		"<clr:178,34,34><B>Faith:<B> Medkit!"
+"[english]faith.Medkit0"		"<clr:178,34,34><B>Faith:<B> Medkit!"
+"faith.Medkit0"		"<clr:178,34,34><B>Faith:<B> Lékárnička!"
 
-		"[english]faith.Thanks0"		"<clr:178,34,34><B>Faith:<B> Appreciated."
-		"faith.Thanks0"		"<clr:178,34,34><B>Faith:<B> Appreciated."
+"[english]faith.Thanks0"		"<clr:178,34,34><B>Faith:<B> Appreciated."
+"faith.Thanks0"		"<clr:178,34,34><B>Faith:<B> Oceňuji."
 
-		"[english]faith.Thanks1"		"<clr:178,34,34><B>Faith:<B> I owe you one."
-		"faith.Thanks1"		"<clr:178,34,34><B>Faith:<B> I owe you one."
+"[english]faith.Thanks1"		"<clr:178,34,34><B>Faith:<B> I owe you one."
+"faith.Thanks1"		"<clr:178,34,34><B>Faith:<B> Dlužím ti."
 
 "[english]faith.Thanks2"		"<clr:178,34,34><B>Faith:<B> Thanks."
 "faith.Thanks2"		"<clr:178,34,34><B>Faith:<B> Díky."
@@ -1937,32 +1937,32 @@
 "[english]faith.Question1"		"<clr:178,34,34><B>Faith:<B> What?"
 "faith.Question1"		"<clr:178,34,34><B>Faith:<B> Co?"
 
-		"[english]faith.Question2"		"<clr:178,34,34><B>Faith:<B> What is it?"
-		"faith.Question2"		"<clr:178,34,34><B>Faith:<B> What is it?"
+"[english]faith.Question2"		"<clr:178,34,34><B>Faith:<B> What is it?"
+"faith.Question2"		"<clr:178,34,34><B>Faith:<B> Co je?"
 
-		"[english]faith.Question3"		"<clr:178,34,34><B>Faith:<B> What's up?"
-		"faith.Question3"		"<clr:178,34,34><B>Faith:<B> What's up?"
+"[english]faith.Question3"		"<clr:178,34,34><B>Faith:<B> What's up?"
+"faith.Question3"		"<clr:178,34,34><B>Faith:<B> Jak je?"
 
-		"[english]faith.CallSarge0"		"<clr:178,34,34><B>Faith:<B> Hey, Sarge."
-		"faith.CallSarge0"		"<clr:178,34,34><B>Faith:<B> Hey, Sarge."
+"[english]faith.CallSarge0"		"<clr:178,34,34><B>Faith:<B> Hey, Sarge."
+"faith.CallSarge0"		"<clr:178,34,34><B>Faith:<B> Ahoj, Sarge."
 
 "[english]faith.CallSarge1"		"<clr:178,34,34><B>Faith:<B> Sarge."
 "faith.CallSarge1"		"<clr:178,34,34><B>Faith:<B> Sarge."
 
-		"[english]faith.CallJaeger0"		"<clr:178,34,34><B>Faith:<B> Hey, Jaeger."
-		"faith.CallJaeger0"		"<clr:178,34,34><B>Faith:<B> Hey, Jaeger."
+"[english]faith.CallJaeger0"		"<clr:178,34,34><B>Faith:<B> Hey, Jaeger."
+"faith.CallJaeger0"		"<clr:178,34,34><B>Faith:<B> Ahoj, Jaegere."
 
 "[english]faith.CallJaeger1"		"<clr:178,34,34><B>Faith:<B> Jaeger."
-"faith.CallJaeger1"		"<clr:178,34,34><B>Faith:<B> Jaeger."
+"faith.CallJaeger1"		"<clr:178,34,34><B>Faith:<B> Jaegere."
 
-		"[english]faith.CallWildcat0"		"<clr:178,34,34><B>Faith:<B> Hey, Wildcat."
-		"faith.CallWildcat0"		"<clr:178,34,34><B>Faith:<B> Hey, Wildcat."
+"[english]faith.CallWildcat0"		"<clr:178,34,34><B>Faith:<B> Hey, Wildcat."
+"faith.CallWildcat0"		"<clr:178,34,34><B>Faith:<B> Ahoj, Wildcat."
 
 "[english]faith.CallWildcat1"		"<clr:178,34,34><B>Faith:<B> Wildcat."
 "faith.CallWildcat1"		"<clr:178,34,34><B>Faith:<B> Wildcat."
 
 "[english]faith.CallWolfe0"		"<clr:178,34,34><B>Faith:<B> Hey, Wolfe."
-"faith.CallWolfe0"		"<clr:178,34,34><B>Faith:<B> Hey, Wolfe."
+"faith.CallWolfe0"		"<clr:178,34,34><B>Faith:<B> Ahoj, Wolfe."
 
 "[english]faith.CallWolfe1"		"<clr:178,34,34><B>Faith:<B> Wolfe."
 "faith.CallWolfe1"		"<clr:178,34,34><B>Faith:<B> Wolfe."
@@ -1971,394 +1971,394 @@
 "faith.CallBastille0"		"<clr:178,34,34><B>Faith:<B> Bastille."
 
 "[english]faith.CallBastille1"		"<clr:178,34,34><B>Faith:<B> Hey, Bastille."
-"faith.CallBastille1"		"<clr:178,34,34><B>Faith:<B> Hey, Bastille."
+"faith.CallBastille1"		"<clr:178,34,34><B>Faith:<B> Ahoj, Bastille."
 
 "[english]faith.CallCrash0"		"<clr:178,34,34><B>Faith:<B> Crash."
-"faith.CallCrash0"		"<clr:178,34,34><B>Faith:<B> Crash."
+"faith.CallCrash0"		"<clr:178,34,34><B>Faith:<B> Crashi."
 
-		"[english]faith.CallCrash1"		"<clr:178,34,34><B>Faith:<B> Hey, Crash."
-		"faith.CallCrash1"		"<clr:178,34,34><B>Faith:<B> Hey, Crash."
+"[english]faith.CallCrash1"		"<clr:178,34,34><B>Faith:<B> Hey, Crash."
+"faith.CallCrash1"		"<clr:178,34,34><B>Faith:<B> Ahoj, Crashi."
 
 "[english]faith.CallFlynn0"		"<clr:178,34,34><B>Faith:<B> Flynn."
-"faith.CallFlynn0"		"<clr:178,34,34><B>Faith:<B> Flynn."
+"faith.CallFlynn0"		"<clr:178,34,34><B>Faith:<B> Flynne."
 
-		"[english]faith.CallFlynn1"		"<clr:178,34,34><B>Faith:<B> Hey, Flynn."
-		"faith.CallFlynn1"		"<clr:178,34,34><B>Faith:<B> Hey, Flynn."
+"[english]faith.CallFlynn1"		"<clr:178,34,34><B>Faith:<B> Hey, Flynn."
+"faith.CallFlynn1"		"<clr:178,34,34><B>Faith:<B> Ahoj, Flynne."
 
-		"[english]faith.CallVegas0"		"<clr:178,34,34><B>Faith:<B> Hey, Vegas."
-		"faith.CallVegas0"		"<clr:178,34,34><B>Faith:<B> Hey, Vegas."
+"[english]faith.CallVegas0"		"<clr:178,34,34><B>Faith:<B> Hey, Vegas."
+"faith.CallVegas0"		"<clr:178,34,34><B>Faith:<B> Ahoj, Vegasi."
 
 "[english]faith.CallVegas1"		"<clr:178,34,34><B>Faith:<B> Vegas."
-"faith.CallVegas1"		"<clr:178,34,34><B>Faith:<B> Vegas."
+"faith.CallVegas1"		"<clr:178,34,34><B>Faith:<B> Vegasi."
 
-		"[english]faith.SuppliesAmmo0"		"<clr:178,34,34><B>Faith:<B> Take what you need."
-		"faith.SuppliesAmmo0"		"<clr:178,34,34><B>Faith:<B> Take what you need."
+"[english]faith.SuppliesAmmo0"		"<clr:178,34,34><B>Faith:<B> Take what you need."
+"faith.SuppliesAmmo0"		"<clr:178,34,34><B>Faith:<B> Vemte si co potřebujete."
 
-		"[english]faith.SuppliesAmmo1"		"<clr:178,34,34><B>Faith:<B> Thank God, supplies!"
-		"faith.SuppliesAmmo1"		"<clr:178,34,34><B>Faith:<B> Thank God, supplies!"
+"[english]faith.SuppliesAmmo1"		"<clr:178,34,34><B>Faith:<B> Thank God, supplies!"
+"faith.SuppliesAmmo1"		"<clr:178,34,34><B>Faith:<B> Díky bohu, zásoby!"
 
-		"[english]faith.Supplies0"		"<clr:178,34,34><B>Faith:<B> Take what you need."
-		"faith.Supplies0"		"<clr:178,34,34><B>Faith:<B> Take what you need."
+"[english]faith.Supplies0"		"<clr:178,34,34><B>Faith:<B> Take what you need."
+"faith.Supplies0"		"<clr:178,34,34><B>Faith:<B> Vemte si co potřebujete."
 
-		"[english]faith.Supplies1"		"<clr:178,34,34><B>Faith:<B> Thank God, supplies."
-		"faith.Supplies1"		"<clr:178,34,34><B>Faith:<B> Thank God, supplies."
+"[english]faith.Supplies1"		"<clr:178,34,34><B>Faith:<B> Thank God, supplies."
+"faith.Supplies1"		"<clr:178,34,34><B>Faith:<B> Díky bohu, zásoby."
 
-		"[english]faith.LockedTerminalCrash0"		"<clr:178,34,34><B>Faith:<B> Crash, hack it!"
-		"faith.LockedTerminalCrash0"		"<clr:178,34,34><B>Faith:<B> Crash, hack it!"
+"[english]faith.LockedTerminalCrash0"		"<clr:178,34,34><B>Faith:<B> Crash, hack it!"
+"faith.LockedTerminalCrash0"		"<clr:178,34,34><B>Faith:<B> Crashi, prolom to!"
 
-		"[english]faith.LockedTerminalFlynn0"		"<clr:178,34,34><B>Faith:<B> Flynn, hack it!"
-		"faith.LockedTerminalFlynn0"		"<clr:178,34,34><B>Faith:<B> Flynn, hack it!"
+"[english]faith.LockedTerminalFlynn0"		"<clr:178,34,34><B>Faith:<B> Flynn, hack it!"
+"faith.LockedTerminalFlynn0"		"<clr:178,34,34><B>Faith:<B> Flynne, prolom to!"
 
-		"[english]faith.LockedTerminalVegas0"		"<clr:178,34,34><B>Faith:<B> Vegas, hack it."
-		"faith.LockedTerminalVegas0"		"<clr:178,34,34><B>Faith:<B> Vegas, hack it."
+"[english]faith.LockedTerminalVegas0"		"<clr:178,34,34><B>Faith:<B> Vegas, hack it."
+"faith.LockedTerminalVegas0"		"<clr:178,34,34><B>Faith:<B> Vegasi, prolom to."
 
-		"[english]faith.LockedTerminal0"		"<clr:178,34,34><B>Faith:<B> Damn it, access denied."
-		"faith.LockedTerminal0"		"<clr:178,34,34><B>Faith:<B> Damn it, access denied."
+"[english]faith.LockedTerminal0"		"<clr:178,34,34><B>Faith:<B> Damn it, access denied."
+"faith.LockedTerminal0"		"<clr:178,34,34><B>Faith:<B> Sakra, přístup odepřen."
 
-		"[english]faith.LockedTerminal1"		"<clr:178,34,34><B>Faith:<B> Damn it the terminal is secure."
-		"faith.LockedTerminal1"		"<clr:178,34,34><B>Faith:<B> Damn it the terminal is secure."
+"[english]faith.LockedTerminal1"		"<clr:178,34,34><B>Faith:<B> Damn it the terminal is secure."
+"faith.LockedTerminal1"		"<clr:178,34,34><B>Faith:<B> Sakra, tenhle terminál je zabezpečen."
 
-		"[english]faith.HoldingPosition0"		"<clr:178,34,34><B>Faith:<B> Covering area."
-		"faith.HoldingPosition0"		"<clr:178,34,34><B>Faith:<B> Covering area."
+"[english]faith.HoldingPosition0"		"<clr:178,34,34><B>Faith:<B> Covering area."
+"faith.HoldingPosition0"		"<clr:178,34,34><B>Faith:<B> Kryji oblast."
 
-		"[english]faith.HoldingPosition1"		"<clr:178,34,34><B>Faith:<B> Holding position."
-		"faith.HoldingPosition1"		"<clr:178,34,34><B>Faith:<B> Holding position."
+"[english]faith.HoldingPosition1"		"<clr:178,34,34><B>Faith:<B> Holding position."
+"faith.HoldingPosition1"		"<clr:178,34,34><B>Faith:<B> Držím pozici."
 
-		"[english]faith.HoldingPosition2"		"<clr:178,34,34><B>Faith:<B> Faith in position."
-		"faith.HoldingPosition2"		"<clr:178,34,34><B>Faith:<B> Faith in position."
+"[english]faith.HoldingPosition2"		"<clr:178,34,34><B>Faith:<B> Faith in position."
+"faith.HoldingPosition2"		"<clr:178,34,34><B>Faith:<B> Faith na místě."
 
-		"[english]faith.HoldingPosition3"		"<clr:178,34,34><B>Faith:<B> Securing area."
-		"faith.HoldingPosition3"		"<clr:178,34,34><B>Faith:<B> Securing area."
+"[english]faith.HoldingPosition3"		"<clr:178,34,34><B>Faith:<B> Securing area."
+"faith.HoldingPosition3"		"<clr:178,34,34><B>Faith:<B> Zabezpečuji oblast."
 
-		"[english]faith.HoldingNorth0"		"<clr:178,34,34><B>Faith:<B> Covering north."
-		"faith.HoldingNorth0"		"<clr:178,34,34><B>Faith:<B> Covering north."
+"[english]faith.HoldingNorth0"		"<clr:178,34,34><B>Faith:<B> Covering north."
+"faith.HoldingNorth0"		"<clr:178,34,34><B>Faith:<B> Kryji sever."
 
-		"[english]faith.HoldingNorth1"		"<clr:178,34,34><B>Faith:<B> Covering northside."
-		"faith.HoldingNorth1"		"<clr:178,34,34><B>Faith:<B> Covering northside."
+"[english]faith.HoldingNorth1"		"<clr:178,34,34><B>Faith:<B> Covering northside."
+"faith.HoldingNorth1"		"<clr:178,34,34><B>Faith:<B> Kryji severní stranu."
 
-		"[english]faith.HoldingNorth2"		"<clr:178,34,34><B>Faith:<B> Northside covered."
-		"faith.HoldingNorth2"		"<clr:178,34,34><B>Faith:<B> Northside covered."
+"[english]faith.HoldingNorth2"		"<clr:178,34,34><B>Faith:<B> Northside covered."
+"faith.HoldingNorth2"		"<clr:178,34,34><B>Faith:<B> Severní strana pokryta."
 
-		"[english]faith.HoldingNorth3"		"<clr:178,34,34><B>Faith:<B> Northside in position."
-		"faith.HoldingNorth3"		"<clr:178,34,34><B>Faith:<B> Northside in position."
+"[english]faith.HoldingNorth3"		"<clr:178,34,34><B>Faith:<B> Northside in position."
+"faith.HoldingNorth3"		"<clr:178,34,34><B>Faith:<B> Severní strana, na místě."
 
-		"[english]faith.HoldingSouth0"		"<clr:178,34,34><B>Faith:<B> Covering south."
-		"faith.HoldingSouth0"		"<clr:178,34,34><B>Faith:<B> Covering south."
+"[english]faith.HoldingSouth0"		"<clr:178,34,34><B>Faith:<B> Covering south."
+"faith.HoldingSouth0"		"<clr:178,34,34><B>Faith:<B> Kryji jih."
 
-		"[english]faith.HoldingSouth1"		"<clr:178,34,34><B>Faith:<B> Covering southside."
-		"faith.HoldingSouth1"		"<clr:178,34,34><B>Faith:<B> Covering southside."
+"[english]faith.HoldingSouth1"		"<clr:178,34,34><B>Faith:<B> Covering southside."
+"faith.HoldingSouth1"		"<clr:178,34,34><B>Faith:<B> Kryji jižní stranu."
 
-		"[english]faith.HoldingSouth2"		"<clr:178,34,34><B>Faith:<B> Southside covered."
-		"faith.HoldingSouth2"		"<clr:178,34,34><B>Faith:<B> Southside covered."
+"[english]faith.HoldingSouth2"		"<clr:178,34,34><B>Faith:<B> Southside covered."
+"faith.HoldingSouth2"		"<clr:178,34,34><B>Faith:<B> Jižní strana pokryta."
 
-		"[english]faith.HoldingSouth3"		"<clr:178,34,34><B>Faith:<B> Southside in position."
-		"faith.HoldingSouth3"		"<clr:178,34,34><B>Faith:<B> Southside in position."
+"[english]faith.HoldingSouth3"		"<clr:178,34,34><B>Faith:<B> Southside in position."
+"faith.HoldingSouth3"		"<clr:178,34,34><B>Faith:<B> Jižní strana, na místě."
 
-		"[english]faith.HoldingEast0"		"<clr:178,34,34><B>Faith:<B> Covering east."
-		"faith.HoldingEast0"		"<clr:178,34,34><B>Faith:<B> Covering east."
+"[english]faith.HoldingEast0"		"<clr:178,34,34><B>Faith:<B> Covering east."
+"faith.HoldingEast0"		"<clr:178,34,34><B>Faith:<B> Kryji východ."
 
-		"[english]faith.HoldingEast1"		"<clr:178,34,34><B>Faith:<B> Covering eastside."
-		"faith.HoldingEast1"		"<clr:178,34,34><B>Faith:<B> Covering eastside."
+"[english]faith.HoldingEast1"		"<clr:178,34,34><B>Faith:<B> Covering eastside."
+"faith.HoldingEast1"		"<clr:178,34,34><B>Faith:<B> Kryji východní stranu."
 
-		"[english]faith.HoldingEast2"		"<clr:178,34,34><B>Faith:<B> Eastside in position."
-		"faith.HoldingEast2"		"<clr:178,34,34><B>Faith:<B> Eastside in position."
+"[english]faith.HoldingEast2"		"<clr:178,34,34><B>Faith:<B> Eastside in position."
+"faith.HoldingEast2"		"<clr:178,34,34><B>Faith:<B> Východní strana, na místě."
 
-		"[english]faith.HoldingWest0"		"<clr:178,34,34><B>Faith:<B> Covering west."
-		"faith.HoldingWest0"		"<clr:178,34,34><B>Faith:<B> Covering west."
+"[english]faith.HoldingWest0"		"<clr:178,34,34><B>Faith:<B> Covering west."
+"faith.HoldingWest0"		"<clr:178,34,34><B>Faith:<B> Kryji západ."
 
-		"[english]faith.HoldingWest1"		"<clr:178,34,34><B>Faith:<B> Covering westside."
-		"faith.HoldingWest1"		"<clr:178,34,34><B>Faith:<B> Covering westside."
+"[english]faith.HoldingWest1"		"<clr:178,34,34><B>Faith:<B> Covering westside."
+"faith.HoldingWest1"		"<clr:178,34,34><B>Faith:<B> Kryji západní stranu."
 
-		"[english]faith.HoldingWest2"		"<clr:178,34,34><B>Faith:<B> Westside in position."
-		"faith.HoldingWest2"		"<clr:178,34,34><B>Faith:<B> Westside in position."
+"[english]faith.HoldingWest2"		"<clr:178,34,34><B>Faith:<B> Westside in position."
+"faith.HoldingWest2"		"<clr:178,34,34><B>Faith:<B> Západní strana, na místě."
 
-		"[english]faith.GotPoint0"		"<clr:178,34,34><B>Faith:<B> Faith, taking the lead."
-		"faith.GotPoint0"		"<clr:178,34,34><B>Faith:<B> Faith, taking the lead."
+"[english]faith.GotPoint0"		"<clr:178,34,34><B>Faith:<B> Faith, taking the lead."
+"faith.GotPoint0"		"<clr:178,34,34><B>Faith:<B> Faith, přebírám vedení."
 
-		"[english]faith.GotRear0"		"<clr:178,34,34><B>Faith:<B> Faith, taking rear guard."
-		"faith.GotRear0"		"<clr:178,34,34><B>Faith:<B> Faith, taking rear guard."
+"[english]faith.GotRear0"		"<clr:178,34,34><B>Faith:<B> Faith, taking rear guard."
+"faith.GotRear0"		"<clr:178,34,34><B>Faith:<B> Faith, zaujímám zadní voj."
 
-		"[english]faith.GotRear1"		"<clr:178,34,34><B>Faith:<B> I'll watch the back."
-		"faith.GotRear1"		"<clr:178,34,34><B>Faith:<B> I'll watch the back."
+"[english]faith.GotRear1"		"<clr:178,34,34><B>Faith:<B> I'll watch the back."
+"faith.GotRear1"		"<clr:178,34,34><B>Faith:<B> Budu hlídat záda."
 
-		"[english]faith.GotRear2"		"<clr:178,34,34><B>Faith:<B> I've got your back."
-		"faith.GotRear2"		"<clr:178,34,34><B>Faith:<B> I've got your back."
+"[english]faith.GotRear2"		"<clr:178,34,34><B>Faith:<B> I've got your back."
+"faith.GotRear2"		"<clr:178,34,34><B>Faith:<B> Hlídám vám záda."
 
-		"[english]faith.RequestSealDoor0"		"<clr:178,34,34><B>Faith:<B> Quick, seal it!"
-		"faith.RequestSealDoor0"		"<clr:178,34,34><B>Faith:<B> Quick, seal it!"
+"[english]faith.RequestSealDoor0"		"<clr:178,34,34><B>Faith:<B> Quick, seal it!"
+"faith.RequestSealDoor0"		"<clr:178,34,34><B>Faith:<B> Rychle, zapečeťte to!"
 
-		"[english]faith.RequestSealDoor1"		"<clr:178,34,34><B>Faith:<B> Seal it up, keep us safe."
-		"faith.RequestSealDoor1"		"<clr:178,34,34><B>Faith:<B> Seal it up, keep us safe."
+"[english]faith.RequestSealDoor1"		"<clr:178,34,34><B>Faith:<B> Seal it up, keep us safe."
+"faith.RequestSealDoor1"		"<clr:178,34,34><B>Faith:<B> Zapečeťte to, zajistíte bezpečnost."
 
-		"[english]faith.RequestSealDoor2"		"<clr:178,34,34><B>Faith:<B> Seal the door."
-		"faith.RequestSealDoor2"		"<clr:178,34,34><B>Faith:<B> Seal the door."
+"[english]faith.RequestSealDoor2"		"<clr:178,34,34><B>Faith:<B> Seal the door."
+"faith.RequestSealDoor2"		"<clr:178,34,34><B>Faith:<B> Zapečeťte ty dveře."
 
-		"[english]faith.RequestCutDoor0"		"<clr:178,34,34><B>Faith:<B> Cut open the door."
-		"faith.RequestCutDoor0"		"<clr:178,34,34><B>Faith:<B> Cut open the door."
+"[english]faith.RequestCutDoor0"		"<clr:178,34,34><B>Faith:<B> Cut open the door."
+"faith.RequestCutDoor0"		"<clr:178,34,34><B>Faith:<B> Rozřežte ty dveře."
 
-		"[english]faith.RequestCutDoor1"		"<clr:178,34,34><B>Faith:<B> Cut through."
-		"faith.RequestCutDoor1"		"<clr:178,34,34><B>Faith:<B> Cut through."
+"[english]faith.RequestCutDoor1"		"<clr:178,34,34><B>Faith:<B> Cut through."
+"faith.RequestCutDoor1"		"<clr:178,34,34><B>Faith:<B> Prořezejme se."
 
-		"[english]faith.RequestCutDoor2"		"<clr:178,34,34><B>Faith:<B> Get this door open."
-		"faith.RequestCutDoor2"		"<clr:178,34,34><B>Faith:<B> Get this door open."
+"[english]faith.RequestCutDoor2"		"<clr:178,34,34><B>Faith:<B> Get this door open."
+"faith.RequestCutDoor2"		"<clr:178,34,34><B>Faith:<B> Otevřte ty dveře."
 
-		"[english]faith.RequestShootDoor0"		"<clr:178,34,34><B>Faith:<B> Blast it down!"
-		"faith.RequestShootDoor0"		"<clr:178,34,34><B>Faith:<B> Blast it down!"
+"[english]faith.RequestShootDoor0"		"<clr:178,34,34><B>Faith:<B> Blast it down!"
+"faith.RequestShootDoor0"		"<clr:178,34,34><B>Faith:<B> Vyhoďte je do vzduchu!"
 
-		"[english]faith.RequestShootDoor1"		"<clr:178,34,34><B>Faith:<B> Shoot it down!"
-		"faith.RequestShootDoor1"		"<clr:178,34,34><B>Faith:<B> Shoot it down!"
+"[english]faith.RequestShootDoor1"		"<clr:178,34,34><B>Faith:<B> Shoot it down!"
+"faith.RequestShootDoor1"		"<clr:178,34,34><B>Faith:<B> Rozestřílejte je!"
 
-		"[english]faith.CuttingDoor0"		"<clr:178,34,34><B>Faith:<B> Faith, cutting door."
-		"faith.CuttingDoor0"		"<clr:178,34,34><B>Faith:<B> Faith, cutting door."
+"[english]faith.CuttingDoor0"		"<clr:178,34,34><B>Faith:<B> Faith, cutting door."
+"faith.CuttingDoor0"		"<clr:178,34,34><B>Faith:<B> Faith, řežu dveře."
 
-		"[english]faith.CuttingDoor1"		"<clr:178,34,34><B>Faith:<B> Ok, I'm cutting through."
-		"faith.CuttingDoor1"		"<clr:178,34,34><B>Faith:<B> Ok, I'm cutting through."
+"[english]faith.CuttingDoor1"		"<clr:178,34,34><B>Faith:<B> Ok, I'm cutting through."
+"faith.CuttingDoor1"		"<clr:178,34,34><B>Faith:<B> Ok, řežu skrz."
 
-		"[english]faith.CuttingDoor2"		"<clr:178,34,34><B>Faith:<B> Stand back, I'm cutting through."
-		"faith.CuttingDoor2"		"<clr:178,34,34><B>Faith:<B> Stand back, I'm cutting through."
+"[english]faith.CuttingDoor2"		"<clr:178,34,34><B>Faith:<B> Stand back, I'm cutting through."
+"faith.CuttingDoor2"		"<clr:178,34,34><B>Faith:<B> Ustupte, řežu skrz."
 
-		"[english]faith.SealingDoor0"		"<clr:178,34,34><B>Faith:<B> I'll seal it up."
-		"faith.SealingDoor0"		"<clr:178,34,34><B>Faith:<B> I'll seal it up."
+"[english]faith.SealingDoor0"		"<clr:178,34,34><B>Faith:<B> I'll seal it up."
+"faith.SealingDoor0"		"<clr:178,34,34><B>Faith:<B> Zapečetím je."
 
-		"[english]faith.SealingDoor1"		"<clr:178,34,34><B>Faith:<B> Okay, sealing door."
-		"faith.SealingDoor1"		"<clr:178,34,34><B>Faith:<B> Okay, sealing door."
+"[english]faith.SealingDoor1"		"<clr:178,34,34><B>Faith:<B> Okay, sealing door."
+"faith.SealingDoor1"		"<clr:178,34,34><B>Faith:<B> Dobrá, zapečeťuji dveře."
 
-		"[english]faith.SealingDoor2"		"<clr:178,34,34><B>Faith:<B> Sealing door."
-		"faith.SealingDoor2"		"<clr:178,34,34><B>Faith:<B> Sealing door."
+"[english]faith.SealingDoor2"		"<clr:178,34,34><B>Faith:<B> Sealing door."
+"faith.SealingDoor2"		"<clr:178,34,34><B>Faith:<B> Zapečeťuji dveře."
 
-		"[english]faith.Biomass0"		"<clr:178,34,34><B>Faith:<B> Biomass. We have to burn it."
-		"faith.Biomass0"		"<clr:178,34,34><B>Faith:<B> Biomass. We have to burn it."
+"[english]faith.Biomass0"		"<clr:178,34,34><B>Faith:<B> Biomass. We have to burn it."
+"faith.Biomass0"		"<clr:178,34,34><B>Faith:<B> Biomasa. Musíme ji spálit."
 
-		"[english]faith.Biomass1"		"<clr:178,34,34><B>Faith:<B> Swarm biomass. It's highly flammable."
-		"faith.Biomass1"		"<clr:178,34,34><B>Faith:<B> Swarm biomass. It's highly flammable."
+"[english]faith.Biomass1"		"<clr:178,34,34><B>Faith:<B> Swarm biomass. It's highly flammable."
+"faith.Biomass1"		"<clr:178,34,34><B>Faith:<B> Biomasa roje. Je vysoce hořlavá."
 
-		"[english]faith.Biomass2"		"<clr:178,34,34><B>Faith:<B> Swarm biomass. It's living tissue."
-		"faith.Biomass2"		"<clr:178,34,34><B>Faith:<B> Swarm biomass. It's living tissue."
+"[english]faith.Biomass2"		"<clr:178,34,34><B>Faith:<B> Swarm biomass. It's living tissue."
+"faith.Biomass2"		"<clr:178,34,34><B>Faith:<B> Biomasa roje. Je to živá tkáň."
 
-		"[english]faith.TimeToLeave0"		"<clr:178,34,34><B>Faith:<B> Job's done."
-		"faith.TimeToLeave0"		"<clr:178,34,34><B>Faith:<B> Job's done."
+"[english]faith.TimeToLeave0"		"<clr:178,34,34><B>Faith:<B> Job's done."
+"faith.TimeToLeave0"		"<clr:178,34,34><B>Faith:<B> Práce hotova."
 
-		"[english]faith.TimeToLeave1"		"<clr:178,34,34><B>Faith:<B> Objectives complete, let's head to the exit."
-		"faith.TimeToLeave1"		"<clr:178,34,34><B>Faith:<B> Objectives complete, let's head to the exit."
+"[english]faith.TimeToLeave1"		"<clr:178,34,34><B>Faith:<B> Objectives complete, let's head to the exit."
+"faith.TimeToLeave1"		"<clr:178,34,34><B>Faith:<B> Cíle splněny, pojďme k východu."
 
-		"[english]faith.TimeToLeave2"		"<clr:178,34,34><B>Faith:<B> We're done, let's get out of here."
-		"faith.TimeToLeave2"		"<clr:178,34,34><B>Faith:<B> We're done, let's get out of here."
+"[english]faith.TimeToLeave2"		"<clr:178,34,34><B>Faith:<B> We're done, let's get out of here."
+"faith.TimeToLeave2"		"<clr:178,34,34><B>Faith:<B> Jsme hotovi, pojďme odsud."
 
 "[english]faith.WatchOut0"		"<clr:178,34,34><B>Faith:<B> Careful."
 "faith.WatchOut0"		"<clr:178,34,34><B>Faith:<B> Opatrně."
 
-		"[english]faith.WatchOut1"		"<clr:178,34,34><B>Faith:<B> Look out!"
-		"faith.WatchOut1"		"<clr:178,34,34><B>Faith:<B> Look out!"
+"[english]faith.WatchOut1"		"<clr:178,34,34><B>Faith:<B> Look out!"
+"faith.WatchOut1"		"<clr:178,34,34><B>Faith:<B> Pozor!"
 
-		"[english]faith.WatchOut2"		"<clr:178,34,34><B>Faith:<B> Watch out!"
-		"faith.WatchOut2"		"<clr:178,34,34><B>Faith:<B> Watch out!"
+"[english]faith.WatchOut2"		"<clr:178,34,34><B>Faith:<B> Watch out!"
+"faith.WatchOut2"		"<clr:178,34,34><B>Faith:<B> Bacha!"
 
-		"[english]faith.WatchOut3"		"<clr:178,34,34><B>Faith:<B> Watch yourself!"
-		"faith.WatchOut3"		"<clr:178,34,34><B>Faith:<B> Watch yourself!"
+"[english]faith.WatchOut3"		"<clr:178,34,34><B>Faith:<B> Watch yourself!"
+"faith.WatchOut3"		"<clr:178,34,34><B>Faith:<B> Dávejte pozor!"
 
-		"[english]faith.Shieldbug0"		"<clr:178,34,34><B>Faith:<B> A shield bug! We have to kill it!"
-		"faith.Shieldbug0"		"<clr:178,34,34><B>Faith:<B> A shield bug! We have to kill it!"
+"[english]faith.Shieldbug0"		"<clr:178,34,34><B>Faith:<B> A shield bug! We have to kill it!"
+"faith.Shieldbug0"		"<clr:178,34,34><B>Faith:<B> Štítobrouk! Musíme ho zabít!"
 
-		"[english]faith.Shieldbug1"		"<clr:178,34,34><B>Faith:<B> Oh no, a shield bug!"
-		"faith.Shieldbug1"		"<clr:178,34,34><B>Faith:<B> Oh no, a shield bug!"
+"[english]faith.Shieldbug1"		"<clr:178,34,34><B>Faith:<B> Oh no, a shield bug!"
+"faith.Shieldbug1"		"<clr:178,34,34><B>Faith:<B> Ale ne, štítobrouk!"
 
-		"[english]faith.Shieldbug2"		"<clr:178,34,34><B>Faith:<B> Watch out, a shield bug!"
-		"faith.Shieldbug2"		"<clr:178,34,34><B>Faith:<B> Watch out, a shield bug!"
+"[english]faith.Shieldbug2"		"<clr:178,34,34><B>Faith:<B> Watch out, a shield bug!"
+"faith.Shieldbug2"		"<clr:178,34,34><B>Faith:<B> Bacha, štítobrouk!"
 
-		"[english]faith.ShieldbugHint0"		"<clr:178,34,34><B>Faith:<B> Get it from behind!"
-		"faith.ShieldbugHint0"		"<clr:178,34,34><B>Faith:<B> Get it from behind!"
+"[english]faith.ShieldbugHint0"		"<clr:178,34,34><B>Faith:<B> Get it from behind!"
+"faith.ShieldbugHint0"		"<clr:178,34,34><B>Faith:<B> Dostaňte ho zezadu!"
 
-		"[english]faith.ShieldbugHint1"		"<clr:178,34,34><B>Faith:<B> It's weak from behind!"
-		"faith.ShieldbugHint1"		"<clr:178,34,34><B>Faith:<B> It's weak from behind!"
+"[english]faith.ShieldbugHint1"		"<clr:178,34,34><B>Faith:<B> It's weak from behind!"
+"faith.ShieldbugHint1"		"<clr:178,34,34><B>Faith:<B> V zádech má slabinu!"
 
-		"[english]faith.Parasite0"		"<clr:178,34,34><B>Faith:<B> Careful, a parasite!"
-		"faith.Parasite0"		"<clr:178,34,34><B>Faith:<B> Careful, a parasite!"
+"[english]faith.Parasite0"		"<clr:178,34,34><B>Faith:<B> Careful, a parasite!"
+"faith.Parasite0"		"<clr:178,34,34><B>Faith:<B> Opatrně, parazit!"
 
-		"[english]faith.Parasite1"		"<clr:178,34,34><B>Faith:<B> Parasite!"
-		"faith.Parasite1"		"<clr:178,34,34><B>Faith:<B> Parasite!"
+"[english]faith.Parasite1"		"<clr:178,34,34><B>Faith:<B> Parasite!"
+"faith.Parasite1"		"<clr:178,34,34><B>Faith:<B> Parazit!"
 
-		"[english]faith.Parasite2"		"<clr:178,34,34><B>Faith:<B> Watch out, a parasite!"
-		"faith.Parasite2"		"<clr:178,34,34><B>Faith:<B> Watch out, a parasite!"
+"[english]faith.Parasite2"		"<clr:178,34,34><B>Faith:<B> Watch out, a parasite!"
+"faith.Parasite2"		"<clr:178,34,34><B>Faith:<B> Bacha, parazit!"
 
-		"[english]faith.BeenInfested0"		"<clr:178,34,34><B>Faith:<B> Get it off me!"
-		"faith.BeenInfested0"		"<clr:178,34,34><B>Faith:<B> Get it off me!"
+"[english]faith.BeenInfested0"		"<clr:178,34,34><B>Faith:<B> Get it off me!"
+"faith.BeenInfested0"		"<clr:178,34,34><B>Faith:<B> Sundejte to ze mě!"
 
-		"[english]faith.BeenInfested1"		"<clr:178,34,34><B>Faith:<B> Get it off me!"
-		"faith.BeenInfested1"		"<clr:178,34,34><B>Faith:<B> Get it off me!"
+"[english]faith.BeenInfested1"		"<clr:178,34,34><B>Faith:<B> Get it off me!"
+"faith.BeenInfested1"		"<clr:178,34,34><B>Faith:<B> Sundejte to ze mě!"
 
-		"[english]faith.BeenInfested2"		"<clr:178,34,34><B>Faith:<B> Help me!"
-		"faith.BeenInfested2"		"<clr:178,34,34><B>Faith:<B> Help me!"
+"[english]faith.BeenInfested2"		"<clr:178,34,34><B>Faith:<B> Help me!"
+"faith.BeenInfested2"		"<clr:178,34,34><B>Faith:<B> Pomozte mi!"
 
-		"[english]faith.BeenInfested3"		"<clr:178,34,34><B>Faith:<B> Get it off!"
-		"faith.BeenInfested3"		"<clr:178,34,34><B>Faith:<B> Get it off!"
+"[english]faith.BeenInfested3"		"<clr:178,34,34><B>Faith:<B> Get it off!"
+"faith.BeenInfested3"		"<clr:178,34,34><B>Faith:<B> Sundejte to!"
 
-		"[english]faith.BeenInfested4"		"<clr:178,34,34><B>Faith:<B> No, I don't want this."
-		"faith.BeenInfested4"		"<clr:178,34,34><B>Faith:<B> No, I don't want this."
+"[english]faith.BeenInfested4"		"<clr:178,34,34><B>Faith:<B> No, I don't want this."
+"faith.BeenInfested4"		"<clr:178,34,34><B>Faith:<B> Ne, tohle nechci."
 
-		"[english]faith.SwarmEggs0"		"<clr:178,34,34><B>Faith:<B> Careful, swarm eggs."
-		"faith.SwarmEggs0"		"<clr:178,34,34><B>Faith:<B> Careful, swarm eggs."
+"[english]faith.SwarmEggs0"		"<clr:178,34,34><B>Faith:<B> Careful, swarm eggs."
+"faith.SwarmEggs0"		"<clr:178,34,34><B>Faith:<B> Opatrně, vajíčka roje."
 
-		"[english]faith.SwarmEggs1"		"<clr:178,34,34><B>Faith:<B> Swarm eggs!"
-		"faith.SwarmEggs1"		"<clr:178,34,34><B>Faith:<B> Swarm eggs!"
+"[english]faith.SwarmEggs1"		"<clr:178,34,34><B>Faith:<B> Swarm eggs!"
+"faith.SwarmEggs1"		"<clr:178,34,34><B>Faith:<B> Vajíčka roje!"
 
-		"[english]faith.SwarmEggs2"		"<clr:178,34,34><B>Faith:<B> Watch out, parasite eggs!"
-		"faith.SwarmEggs2"		"<clr:178,34,34><B>Faith:<B> Watch out, parasite eggs!"
+"[english]faith.SwarmEggs2"		"<clr:178,34,34><B>Faith:<B> Watch out, parasite eggs!"
+"faith.SwarmEggs2"		"<clr:178,34,34><B>Faith:<B> Bacha, vajíčka parazitů!"
 
-		"[english]faith.Grenade0"		"<clr:178,34,34><B>Faith:<B> Clear!"
-		"faith.Grenade0"		"<clr:178,34,34><B>Faith:<B> Clear!"
+"[english]faith.Grenade0"		"<clr:178,34,34><B>Faith:<B> Clear!"
+"faith.Grenade0"		"<clr:178,34,34><B>Faith:<B> Čisto!"
 
 "[english]faith.Grenade1"		"<clr:178,34,34><B>Faith:<B> Grenade!"
 "faith.Grenade1"		"<clr:178,34,34><B>Faith:<B> Granát!"
 
-		"[english]faith.AlienTooClose0"		"<clr:178,34,34><B>Faith:<B> Get it off!"
-		"faith.AlienTooClose0"		"<clr:178,34,34><B>Faith:<B> Get it off!"
+"[english]faith.AlienTooClose0"		"<clr:178,34,34><B>Faith:<B> Get it off!"
+"faith.AlienTooClose0"		"<clr:178,34,34><B>Faith:<B> Sundejte to!"
 
 "[english]faith.AlienTooClose1"		"<clr:178,34,34><B>Faith:<B> Help!"
 "faith.AlienTooClose1"		"<clr:178,34,34><B>Faith:<B> Pomoc!"
 
-		"[english]faith.AlienTooClose2"		"<clr:178,34,34><B>Faith:<B> Kill it!"
-		"faith.AlienTooClose2"		"<clr:178,34,34><B>Faith:<B> Kill it!"
+"[english]faith.AlienTooClose2"		"<clr:178,34,34><B>Faith:<B> Kill it!"
+"faith.AlienTooClose2"		"<clr:178,34,34><B>Faith:<B> Zabte to!"
 
-		"[english]faith.MadFiring0"		"<clr:178,34,34><B>Faith:<B> Die!"
-		"faith.MadFiring0"		"<clr:178,34,34><B>Faith:<B> Die!"
+"[english]faith.MadFiring0"		"<clr:178,34,34><B>Faith:<B> Die!"
+"faith.MadFiring0"		"<clr:178,34,34><B>Faith:<B> Zemři!"
 
-		"[english]faith.MadFiring1"		"<clr:178,34,34><B>Faith:<B> Do you like this?"
-		"faith.MadFiring1"		"<clr:178,34,34><B>Faith:<B> Do you like this?"
+"[english]faith.MadFiring1"		"<clr:178,34,34><B>Faith:<B> Do you like this?"
+"faith.MadFiring1"		"<clr:178,34,34><B>Faith:<B> Líbí se ti to?"
 
-		"[english]faith.MadFiring2"		"<clr:178,34,34><B>Faith:<B> I'll kill you all!"
-		"faith.MadFiring2"		"<clr:178,34,34><B>Faith:<B> I'll kill you all!"
+"[english]faith.MadFiring2"		"<clr:178,34,34><B>Faith:<B> I'll kill you all!"
+"faith.MadFiring2"		"<clr:178,34,34><B>Faith:<B> Zabiji vás všechny!"
 
-		"[english]faith.MadFiring3"		"<clr:178,34,34><B>Faith:<B> Payback's a bitch, ain't it?"
-		"faith.MadFiring3"		"<clr:178,34,34><B>Faith:<B> Payback's a bitch, ain't it?"
+"[english]faith.MadFiring3"		"<clr:178,34,34><B>Faith:<B> Payback's a bitch, ain't it?"
+"faith.MadFiring3"		"<clr:178,34,34><B>Faith:<B> Odplata je svině, co?"
 
-		"[english]faith.BreachedDoor0"		"<clr:178,34,34><B>Faith:<B> Here they come!"
-		"faith.BreachedDoor0"		"<clr:178,34,34><B>Faith:<B> Here they come!"
+"[english]faith.BreachedDoor0"		"<clr:178,34,34><B>Faith:<B> Here they come!"
+"faith.BreachedDoor0"		"<clr:178,34,34><B>Faith:<B> Tady jsou!"
 
-		"[english]faith.BreachedDoor1"		"<clr:178,34,34><B>Faith:<B> They've breached the door!"
-		"faith.BreachedDoor1"		"<clr:178,34,34><B>Faith:<B> They've breached the door!"
+"[english]faith.BreachedDoor1"		"<clr:178,34,34><B>Faith:<B> They've breached the door!"
+"faith.BreachedDoor1"		"<clr:178,34,34><B>Faith:<B> Prorazili dveře!"
 
-		"[english]faith.MarineDown0"		"<clr:178,34,34><B>Faith:<B> Marine down!"
-		"faith.MarineDown0"		"<clr:178,34,34><B>Faith:<B> Marine down!"
+"[english]faith.MarineDown0"		"<clr:178,34,34><B>Faith:<B> Marine down!"
+"faith.MarineDown0"		"<clr:178,34,34><B>Faith:<B> Padl mariňák!"
 
-		"[english]faith.SmallPain0"		"<clr:178,34,34><B>Faith:<B> [Pain]"
-		"faith.SmallPain0"		"<clr:178,34,34><B>Faith:<B> [Pain]"
+"[english]faith.SmallPain0"		"<clr:178,34,34><B>Faith:<B> [Pain]"
+"faith.SmallPain0"		"<clr:178,34,34><B>Faith:<B> [Bolest]"
 
-		"[english]faith.SmallPain1"		"<clr:178,34,34><B>Faith:<B> [Pain]"
-		"faith.SmallPain1"		"<clr:178,34,34><B>Faith:<B> [Pain]"
+"[english]faith.SmallPain1"		"<clr:178,34,34><B>Faith:<B> [Pain]"
+"faith.SmallPain1"		"<clr:178,34,34><B>Faith:<B> [Bolest]"
 
-		"[english]faith.SmallPain2"		"<clr:178,34,34><B>Faith:<B> [Pain]"
-		"faith.SmallPain2"		"<clr:178,34,34><B>Faith:<B> [Pain]"
+"[english]faith.SmallPain2"		"<clr:178,34,34><B>Faith:<B> [Pain]"
+"faith.SmallPain2"		"<clr:178,34,34><B>Faith:<B> [Bolest]"
 
-		"[english]faith.SmallPain3"		"<clr:178,34,34><B>Faith:<B> [Pain]"
-		"faith.SmallPain3"		"<clr:178,34,34><B>Faith:<B> [Pain]"
+"[english]faith.SmallPain3"		"<clr:178,34,34><B>Faith:<B> [Pain]"
+"faith.SmallPain3"		"<clr:178,34,34><B>Faith:<B> [Bolest]"
 
-		"[english]faith.LargePain0"		"<clr:178,34,34><B>Faith:<B> [Pain]"
-		"faith.LargePain0"		"<clr:178,34,34><B>Faith:<B> [Pain]"
+"[english]faith.LargePain0"		"<clr:178,34,34><B>Faith:<B> [Pain]"
+"faith.LargePain0"		"<clr:178,34,34><B>Faith:<B> [Bolest]"
 
-		"[english]faith.LargePain1"		"<clr:178,34,34><B>Faith:<B> [Pain]"
-		"faith.LargePain1"		"<clr:178,34,34><B>Faith:<B> [Pain]"
+"[english]faith.LargePain1"		"<clr:178,34,34><B>Faith:<B> [Pain]"
+"faith.LargePain1"		"<clr:178,34,34><B>Faith:<B> [Bolest]"
 
-		"[english]faith.Dead0"		"<clr:178,34,34><B>Faith:<B> [Death]"
-		"faith.Dead0"		"<clr:178,34,34><B>Faith:<B> [Death]"
+"[english]faith.Dead0"		"<clr:178,34,34><B>Faith:<B> [Death]"
+"faith.Dead0"		"<clr:178,34,34><B>Faith:<B> [Smrt]"
 
-		"[english]faith.OnFire0"		"<clr:178,34,34><B>Faith:<B> [Pain]"
-		"faith.OnFire0"		"<clr:178,34,34><B>Faith:<B> [Pain]"
+"[english]faith.OnFire0"		"<clr:178,34,34><B>Faith:<B> [Pain]"
+"faith.OnFire0"		"<clr:178,34,34><B>Faith:<B> [Křik]"
 
-		"[english]faith.OnFire1"		"<clr:178,34,34><B>Faith:<B> [Pain]"
-		"faith.OnFire1"		"<clr:178,34,34><B>Faith:<B> [Pain]"
+"[english]faith.OnFire1"		"<clr:178,34,34><B>Faith:<B> [Pain]"
+"faith.OnFire1"		"<clr:178,34,34><B>Faith:<B> [Křik]"
 
-		"[english]faith.Healing0"		"<clr:178,34,34><B>Faith:<B> I can help."
-		"faith.Healing0"		"<clr:178,34,34><B>Faith:<B> I can help."
+"[english]faith.Healing0"		"<clr:178,34,34><B>Faith:<B> I can help."
+"faith.Healing0"		"<clr:178,34,34><B>Faith:<B> Můžu pomoci."
 
-		"[english]faith.Healing1"		"<clr:178,34,34><B>Faith:<B> I don't think there's any permanent damage."
-		"faith.Healing1"		"<clr:178,34,34><B>Faith:<B> I don't think there's any permanent damage."
+"[english]faith.Healing1"		"<clr:178,34,34><B>Faith:<B> I don't think there's any permanent damage."
+"faith.Healing1"		"<clr:178,34,34><B>Faith:<B> Nemyslím si, že došlo k nějakému trvalému poškození."
 
-		"[english]faith.Healing2"		"<clr:178,34,34><B>Faith:<B> I'll fix you up."
-		"faith.Healing2"		"<clr:178,34,34><B>Faith:<B> I'll fix you up."
+"[english]faith.Healing2"		"<clr:178,34,34><B>Faith:<B> I'll fix you up."
+"faith.Healing2"		"<clr:178,34,34><B>Faith:<B> Dám tě do kupy."
 
-		"[english]faith.Healing3"		"<clr:178,34,34><B>Faith:<B> Where does it hurt?"
-		"faith.Healing3"		"<clr:178,34,34><B>Faith:<B> Where does it hurt?"
+"[english]faith.Healing3"		"<clr:178,34,34><B>Faith:<B> Where does it hurt?"
+"faith.Healing3"		"<clr:178,34,34><B>Faith:<B> Kde to bolí?"
 
-		"[english]faith.Healing4"		"<clr:178,34,34><B>Faith:<B> You'll be all right."
-		"faith.Healing4"		"<clr:178,34,34><B>Faith:<B> You'll be all right."
+"[english]faith.Healing4"		"<clr:178,34,34><B>Faith:<B> You'll be all right."
+"faith.Healing4"		"<clr:178,34,34><B>Faith:<B> Budeš v pořádku."
 
-		"[english]faith.NoMeds0"		"<clr:178,34,34><B>Faith:<B> Ok, med-satchel's empty."
-		"faith.NoMeds0"		"<clr:178,34,34><B>Faith:<B> Ok, med-satchel's empty."
+"[english]faith.NoMeds0"		"<clr:178,34,34><B>Faith:<B> Ok, med-satchel's empty."
+"faith.NoMeds0"		"<clr:178,34,34><B>Faith:<B> Ok, Lékárnička je prázdná."
 
-		"[english]faith.NoMeds1"		"<clr:178,34,34><B>Faith:<B> Out of meds."
-		"faith.NoMeds1"		"<clr:178,34,34><B>Faith:<B> Out of meds."
+"[english]faith.NoMeds1"		"<clr:178,34,34><B>Faith:<B> Out of meds."
+"faith.NoMeds1"		"<clr:178,34,34><B>Faith:<B> Došly mi léky."
 
-		"[english]faith.NoMeds2"		"<clr:178,34,34><B>Faith:<B> Out of meds. Try not to get hurt."
-		"faith.NoMeds2"		"<clr:178,34,34><B>Faith:<B> Out of meds. Try not to get hurt."
+"[english]faith.NoMeds2"		"<clr:178,34,34><B>Faith:<B> Out of meds. Try not to get hurt."
+"faith.NoMeds2"		"<clr:178,34,34><B>Faith:<B> Došly mi léky. Pokuste se nezranit."
 
-		"[english]faith.NoMeds3"		"<clr:178,34,34><B>Faith:<B> That's it, no more meds."
-		"faith.NoMeds3"		"<clr:178,34,34><B>Faith:<B> That's it, no more meds."
+"[english]faith.NoMeds3"		"<clr:178,34,34><B>Faith:<B> That's it, no more meds."
+"faith.NoMeds3"		"<clr:178,34,34><B>Faith:<B> To bylo vše, došly mi léky."
 
-		"[english]faith.ActivateStims0"		"<clr:178,34,34><B>Faith:<B> Activate the stims."
-		"faith.ActivateStims0"		"<clr:178,34,34><B>Faith:<B> Activate the stims."
+"[english]faith.ActivateStims0"		"<clr:178,34,34><B>Faith:<B> Activate the stims."
+"faith.ActivateStims0"		"<clr:178,34,34><B>Faith:<B> Aktivujte stimulanty."
 
-		"[english]faith.ActivateStims1"		"<clr:178,34,34><B>Faith:<B> Stim now!"
-		"faith.ActivateStims1"		"<clr:178,34,34><B>Faith:<B> Stim now!"
+"[english]faith.ActivateStims1"		"<clr:178,34,34><B>Faith:<B> Stim now!"
+"faith.ActivateStims1"		"<clr:178,34,34><B>Faith:<B> Stimulanty, teď!"
 
-		"[english]faith.ActivateStims2"		"<clr:178,34,34><B>Faith:<B> Stimpack now!"
-		"faith.ActivateStims2"		"<clr:178,34,34><B>Faith:<B> Stimpack now!"
+"[english]faith.ActivateStims2"		"<clr:178,34,34><B>Faith:<B> Stimpack now!"
+"faith.ActivateStims2"		"<clr:178,34,34><B>Faith:<B> Stimulanty, teď!"
 
 "[english]faith.Selection0"		"<clr:178,34,34><B>Faith:<B> Sir?"
 "faith.Selection0"		"<clr:178,34,34><B>Faith:<B> Pane?"
 
-		"[english]faith.Selection1"		"<clr:178,34,34><B>Faith:<B> What do you need?"
-		"faith.Selection1"		"<clr:178,34,34><B>Faith:<B> What do you need?"
+"[english]faith.Selection1"		"<clr:178,34,34><B>Faith:<B> What do you need?"
+"faith.Selection1"		"<clr:178,34,34><B>Faith:<B> Co potřebuješ?"
 
-		"[english]faith.Selection2"		"<clr:178,34,34><B>Faith:<B> What is it, sir?"
-		"faith.Selection2"		"<clr:178,34,34><B>Faith:<B> What is it, sir?"
+"[english]faith.Selection2"		"<clr:178,34,34><B>Faith:<B> What is it, sir?"
+"faith.Selection2"		"<clr:178,34,34><B>Faith:<B> Co to bude, pane?"
 
-		"[english]faith.Selection3"		"<clr:178,34,34><B>Faith:<B> What is it sir?"
-		"faith.Selection3"		"<clr:178,34,34><B>Faith:<B> What is it sir?"
+"[english]faith.Selection3"		"<clr:178,34,34><B>Faith:<B> What is it sir?"
+"faith.Selection3"		"<clr:178,34,34><B>Faith:<B> Co to bude pane?"
 
-		"[english]faith.Selection4"		"<clr:178,34,34><B>Faith:<B> You need me?"
-		"faith.Selection4"		"<clr:178,34,34><B>Faith:<B> You need me?"
+"[english]faith.Selection4"		"<clr:178,34,34><B>Faith:<B> You need me?"
+"faith.Selection4"		"<clr:178,34,34><B>Faith:<B> Potřebuješ mě?"
 
-		"[english]faith.Selection5"		"<clr:178,34,34><B>Faith:<B> You need me?"
-		"faith.Selection5"		"<clr:178,34,34><B>Faith:<B> You need me?"
+"[english]faith.Selection5"		"<clr:178,34,34><B>Faith:<B> You need me?"
+"faith.Selection5"		"<clr:178,34,34><B>Faith:<B> Potřebuješ mě?"
 
-		// Jaeger
+// Jaeger
 
 
-		"[english]jaeger.WeatherReply0"		"<clr:198,226,255><B>Jaeger:<B> Yeah, reminds me of my last vacation."
-		"jaeger.WeatherReply0"		"<clr:198,226,255><B>Jaeger:<B> Yeah, reminds me of my last vacation."
+"[english]jaeger.WeatherReply0"		"<clr:198,226,255><B>Jaeger:<B> Yeah, reminds me of my last vacation."
+"jaeger.WeatherReply0"		"<clr:198,226,255><B>Jaeger:<B> Jo, připomína mi to moji poslední dovolenou."
 
-		"[english]jaeger.MedicComplainReply0"		"<clr:198,226,255><B>Jaeger:<B> It's not like I do it on purpose."
-		"jaeger.MedicComplainReply0"		"<clr:198,226,255><B>Jaeger:<B> It's not like I do it on purpose."
+"[english]jaeger.MedicComplainReply0"		"<clr:198,226,255><B>Jaeger:<B> It's not like I do it on purpose."
+"jaeger.MedicComplainReply0"		"<clr:198,226,255><B>Jaeger:<B> Není to tak, že bych to dělal schválně."
 
-		"[english]jaeger.TequilaReply0"		"<clr:198,226,255><B>Jaeger:<B> I prefer a nice cold beer."
-		"jaeger.TequilaReply0"		"<clr:198,226,255><B>Jaeger:<B> I prefer a nice cold beer."
+"[english]jaeger.TequilaReply0"		"<clr:198,226,255><B>Jaeger:<B> I prefer a nice cold beer."
+"jaeger.TequilaReply0"		"<clr:198,226,255><B>Jaeger:<B> Dávam přednost dobře vychlazenému pivu."
 
-		"[english]jaeger.CrashIdleReply0"		"<clr:198,226,255><B>Jaeger:<B> We're following orders."
-		"jaeger.CrashIdleReply0"		"<clr:198,226,255><B>Jaeger:<B> We're following orders."
+"[english]jaeger.CrashIdleReply0"		"<clr:198,226,255><B>Jaeger:<B> We're following orders."
+"jaeger.CrashIdleReply0"		"<clr:198,226,255><B>Jaeger:<B> Plníme rozkazy."
 
-		"[english]jaeger.InjuredSelection0"		"<clr:198,226,255><B>Jaeger:<B> Never thought it would end like this."
-		"jaeger.InjuredSelection0"		"<clr:198,226,255><B>Jaeger:<B> Never thought it would end like this."
+"[english]jaeger.InjuredSelection0"		"<clr:198,226,255><B>Jaeger:<B> Never thought it would end like this."
+"jaeger.InjuredSelection0"		"<clr:198,226,255><B>Jaeger:<B> Nikdy by mě nenapadlo, že to takhle skončí."
 
-		"[english]jaeger.InjuredSelection1"		"<clr:198,226,255><B>Jaeger:<B> Not like this... not here."
-		"jaeger.InjuredSelection1"		"<clr:198,226,255><B>Jaeger:<B> Not like this... not here."
+"[english]jaeger.InjuredSelection1"		"<clr:198,226,255><B>Jaeger:<B> Not like this... not here."
+"jaeger.InjuredSelection1"		"<clr:198,226,255><B>Jaeger:<B> Ne takhle... ne tady."
 
-		"[english]jaeger.InjuredSelection2"		"<clr:198,226,255><B>Jaeger:<B> What is it?"
-		"jaeger.InjuredSelection2"		"<clr:198,226,255><B>Jaeger:<B> What is it?"
+"[english]jaeger.InjuredSelection2"		"<clr:198,226,255><B>Jaeger:<B> What is it?"
+"jaeger.InjuredSelection2"		"<clr:198,226,255><B>Jaeger:<B> Co je to?"
 
-		"[english]jaeger.SeriousInjuryReply0"		"<clr:198,226,255><B>Jaeger:<B> Whatever you say."
-		"jaeger.SeriousInjuryReply0"		"<clr:198,226,255><B>Jaeger:<B> Whatever you say."
+"[english]jaeger.SeriousInjuryReply0"		"<clr:198,226,255><B>Jaeger:<B> Whatever you say."
+"jaeger.SeriousInjuryReply0"		"<clr:198,226,255><B>Jaeger:<B> Jak říkáš."
 
-		"[english]jaeger.StillBreathing0"		"<clr:198,226,255><B>Jaeger:<B> You guys still breathing?"
-		"jaeger.StillBreathing0"		"<clr:198,226,255><B>Jaeger:<B> You guys still breathing?"
+"[english]jaeger.StillBreathing0"		"<clr:198,226,255><B>Jaeger:<B> You guys still breathing?"
+"jaeger.StillBreathing0"		"<clr:198,226,255><B>Jaeger:<B> Ještě dýcháte?"
 
-		"[english]jaeger.StillBreathingReply0"		"<clr:198,226,255><B>Jaeger:<B> [Laughter]"
-		"jaeger.StillBreathingReply0"		"<clr:198,226,255><B>Jaeger:<B> [Laughter]"
+"[english]jaeger.StillBreathingReply0"		"<clr:198,226,255><B>Jaeger:<B> [Laughter]"
+"jaeger.StillBreathingReply0"		"<clr:198,226,255><B>Jaeger:<B> [Smích]"
 
-		"[english]jaeger.AutogunReply0"		"<clr:198,226,255><B>Jaeger:<B> That's the spirit."
-		"jaeger.AutogunReply0"		"<clr:198,226,255><B>Jaeger:<B> That's the spirit."
+"[english]jaeger.AutogunReply0"		"<clr:198,226,255><B>Jaeger:<B> That's the spirit."
+"jaeger.AutogunReply0"		"<clr:198,226,255><B>Jaeger:<B> To je ono."
 
-		"[english]jaeger.Use0"		"<clr:198,226,255><B>Jaeger:<B> Okay."
-		"jaeger.Use0"		"<clr:198,226,255><B>Jaeger:<B> Okay."
+"[english]jaeger.Use0"		"<clr:198,226,255><B>Jaeger:<B> Okay."
+"jaeger.Use0"		"<clr:198,226,255><B>Jaeger:<B> Dobrá."
 
 "[english]jaeger.Use1"		"<clr:198,226,255><B>Jaeger:<B> Yes."
 "jaeger.Use1"		"<clr:198,226,255><B>Jaeger:<B> Ano."
@@ -2366,140 +2366,140 @@
 "[english]jaeger.Use2"		"<clr:198,226,255><B>Jaeger:<B> Yes, sir."
 "jaeger.Use2"		"<clr:198,226,255><B>Jaeger:<B> Ano, pane."
 
-		"[english]jaeger.Idle0"		"<clr:198,226,255><B>Jaeger:<B> Man, I hate the weather on this godforsaken rock."
-		"jaeger.Idle0"		"<clr:198,226,255><B>Jaeger:<B> Man, I hate the weather on this godforsaken rock."
+"[english]jaeger.Idle0"		"<clr:198,226,255><B>Jaeger:<B> Man, I hate the weather on this godforsaken rock."
+"jaeger.Idle0"		"<clr:198,226,255><B>Jaeger:<B> Člověče, nesnáším počasí na téhle bohem zatracené skále."
 
-		"[english]jaeger.Idle1"		"<clr:198,226,255><B>Jaeger:<B> I hope there's no parasites, I hate them the most."
-		"jaeger.Idle1"		"<clr:198,226,255><B>Jaeger:<B> I hope there's no parasites, I hate them the most."
+"[english]jaeger.Idle1"		"<clr:198,226,255><B>Jaeger:<B> I hope there's no parasites, I hate them the most."
+"jaeger.Idle1"		"<clr:198,226,255><B>Jaeger:<B> Doufám, že tu nejsou žádní paraziti, ty nesnáším nejvíce."
 
-		"[english]jaeger.Idle2"		"<clr:198,226,255><B>Jaeger:<B> All this fighting makes a Marine hungry."
-		"jaeger.Idle2"		"<clr:198,226,255><B>Jaeger:<B> All this fighting makes a Marine hungry."
+"[english]jaeger.Idle2"		"<clr:198,226,255><B>Jaeger:<B> All this fighting makes a Marine hungry."
+"jaeger.Idle2"		"<clr:198,226,255><B>Jaeger:<B> Z toho všeho boje mariňákovi vyhladoví."
 
-		"[english]jaeger.Idle3"		"<clr:198,226,255><B>Jaeger:<B> <I>Ich liebe diese Waffe."
-		"jaeger.Idle3"		"<clr:198,226,255><B>Jaeger:<B> <I>Ich liebe diese Waffe."
+"[english]jaeger.Idle3"		"<clr:198,226,255><B>Jaeger:<B> <I>Ich liebe diese Waffe."
+"jaeger.Idle3"		"<clr:198,226,255><B>Jaeger:<B> <I>Miluji tuhle zbraň."
 
-		"[english]jaeger.Idle4"		"<clr:198,226,255><B>Jaeger:<B> I wonder when Command will give us some new toys to play with."
-		"jaeger.Idle4"		"<clr:198,226,255><B>Jaeger:<B> I wonder when Command will give us some new toys to play with."
+"[english]jaeger.Idle4"		"<clr:198,226,255><B>Jaeger:<B> I wonder when Command will give us some new toys to play with."
+"jaeger.Idle4"		"<clr:198,226,255><B>Jaeger:<B> Zajímalo by mě, kdy nám velení dá nějaké nové hračky na hraní."
 
-		"[english]jaeger.Idle5"		"<clr:198,226,255><B>Jaeger:<B> I've got a bad feeling about this place."
-		"jaeger.Idle5"		"<clr:198,226,255><B>Jaeger:<B> I've got a bad feeling about this place."
+"[english]jaeger.Idle5"		"<clr:198,226,255><B>Jaeger:<B> I've got a bad feeling about this place."
+"jaeger.Idle5"		"<clr:198,226,255><B>Jaeger:<B> Nemám z tohleho místa dobrý pocit."
 
-		"[english]jaeger.Idle6"		"<clr:198,226,255><B>Jaeger:<B> Jesus, I need a vacation."
-		"jaeger.Idle6"		"<clr:198,226,255><B>Jaeger:<B> Jesus, I need a vacation."
+"[english]jaeger.Idle6"		"<clr:198,226,255><B>Jaeger:<B> Jesus, I need a vacation."
+"jaeger.Idle6"		"<clr:198,226,255><B>Jaeger:<B> Prokrista, potřebuji dovolenou."
 
-		"[english]jaeger.Idle7"		"<clr:198,226,255><B>Jaeger:<B> Just another day in the Corps."
-		"jaeger.Idle7"		"<clr:198,226,255><B>Jaeger:<B> Just another day in the Corps."
+"[english]jaeger.Idle7"		"<clr:198,226,255><B>Jaeger:<B> Just another day in the Corps."
+"jaeger.Idle7"		"<clr:198,226,255><B>Jaeger:<B> Pouze další běžný den ve sboru."
 
-		"[english]jaeger.Idle8"		"<clr:198,226,255><B>Jaeger:<B> Did you hear that?"
-		"jaeger.Idle8"		"<clr:198,226,255><B>Jaeger:<B> Did you hear that?"
+"[english]jaeger.Idle8"		"<clr:198,226,255><B>Jaeger:<B> Did you hear that?"
+"jaeger.Idle8"		"<clr:198,226,255><B>Jaeger:<B> Slyšeli jste to?"
 
-		"[english]jaeger.Idle9"		"<clr:198,226,255><B>Jaeger:<B> Stay sharp, people, these guys don't take prisoners."
-		"jaeger.Idle9"		"<clr:198,226,255><B>Jaeger:<B> Stay sharp, people, these guys don't take prisoners."
+"[english]jaeger.Idle9"		"<clr:198,226,255><B>Jaeger:<B> Stay sharp, people, these guys don't take prisoners."
+"jaeger.Idle9"		"<clr:198,226,255><B>Jaeger:<B> Buďte ve střehu, lidi, tihle týpci neberou zajatce."
 
-		"[english]jaeger.Idle10"		"<clr:198,226,255><B>Jaeger:<B> There's no bug trouble that can't be cured by a large case of explosives."
-		"jaeger.Idle10"		"<clr:198,226,255><B>Jaeger:<B> There's no bug trouble that can't be cured by a large case of explosives."
+"[english]jaeger.Idle10"		"<clr:198,226,255><B>Jaeger:<B> There's no bug trouble that can't be cured by a large case of explosives."
+"jaeger.Idle10"		"<clr:198,226,255><B>Jaeger:<B> Neexistuje žádný problém s hmyzem, který by se nedal vyřešit velokou bednou výbušnin."
 
-		"[english]jaeger.Idle11"		"<clr:198,226,255><B>Jaeger:<B> I wonder when Command will give us some new toys to play with."
-		"jaeger.Idle11"		"<clr:198,226,255><B>Jaeger:<B> I wonder when Command will give us some new toys to play with."
+"[english]jaeger.Idle11"		"<clr:198,226,255><B>Jaeger:<B> I wonder when Command will give us some new toys to play with."
+"jaeger.Idle11"		"<clr:198,226,255><B>Jaeger:<B> Zajímalo by mě, kdy nám velení dá nějaké nové hračky na hraní."
 
-		"[english]jaeger.Idle12"		"<clr:198,226,255><B>Jaeger:<B> This isn't a good day to run out of smokes."
-		"jaeger.Idle12"		"<clr:198,226,255><B>Jaeger:<B> This isn't a good day to run out of smokes."
+"[english]jaeger.Idle12"		"<clr:198,226,255><B>Jaeger:<B> This isn't a good day to run out of smokes."
+"jaeger.Idle12"		"<clr:198,226,255><B>Jaeger:<B> Dnes není dobrý den na to, aby mi došly cigarety."
 
-		"[english]jaeger.Idle13"		"<clr:198,226,255><B>Jaeger:<B> Why can't we set fire to this whole damn colony?"
-		"jaeger.Idle13"		"<clr:198,226,255><B>Jaeger:<B> Why can't we set fire to this whole damn colony?"
+"[english]jaeger.Idle13"		"<clr:198,226,255><B>Jaeger:<B> Why can't we set fire to this whole damn colony?"
+"jaeger.Idle13"		"<clr:198,226,255><B>Jaeger:<B> Proč nemůžeme podpálit celou tuhle zatracenou kolonii?"
 
-		"[english]jaeger.Idle14"		"<clr:198,226,255><B>Jaeger:<B> Feels like I haven't slept for days."
-		"jaeger.Idle14"		"<clr:198,226,255><B>Jaeger:<B> Feels like I haven't slept for days."
+"[english]jaeger.Idle14"		"<clr:198,226,255><B>Jaeger:<B> Feels like I haven't slept for days."
+"jaeger.Idle14"		"<clr:198,226,255><B>Jaeger:<B> Připadám si, jako kdybych nespal celé dny."
 
-		"[english]jaeger.FF0"		"<clr:198,226,255><B>Jaeger:<B> Check your firing!"
-		"jaeger.FF0"		"<clr:198,226,255><B>Jaeger:<B> Check your firing!"
+"[english]jaeger.FF0"		"<clr:198,226,255><B>Jaeger:<B> Check your firing!"
+"jaeger.FF0"		"<clr:198,226,255><B>Jaeger:<B> Dívej se, kam míříš!"
 
-		"[english]jaeger.FF1"		"<clr:198,226,255><B>Jaeger:<B> Watch it!"
-		"jaeger.FF1"		"<clr:198,226,255><B>Jaeger:<B> Watch it!"
+"[english]jaeger.FF1"		"<clr:198,226,255><B>Jaeger:<B> Watch it!"
+"jaeger.FF1"		"<clr:198,226,255><B>Jaeger:<B> Pozor!"
 
-		"[english]jaeger.FiringAtAlien0"		"<clr:198,226,255><B>Jaeger:<B> Contact!"
-		"jaeger.FiringAtAlien0"		"<clr:198,226,255><B>Jaeger:<B> Contact!"
+"[english]jaeger.FiringAtAlien0"		"<clr:198,226,255><B>Jaeger:<B> Contact!"
+"jaeger.FiringAtAlien0"		"<clr:198,226,255><B>Jaeger:<B> Kontakt!"
 
-		"[english]jaeger.FiringAtAlien1"		"<clr:198,226,255><B>Jaeger:<B> Covering fire!"
-		"jaeger.FiringAtAlien1"		"<clr:198,226,255><B>Jaeger:<B> Covering fire!"
+"[english]jaeger.FiringAtAlien1"		"<clr:198,226,255><B>Jaeger:<B> Covering fire!"
+"jaeger.FiringAtAlien1"		"<clr:198,226,255><B>Jaeger:<B> Krycí palba!"
 
-		"[english]jaeger.FiringAtAlien2"		"<clr:198,226,255><B>Jaeger:<B> Eat this!"
-		"jaeger.FiringAtAlien2"		"<clr:198,226,255><B>Jaeger:<B> Eat this!"
+"[english]jaeger.FiringAtAlien2"		"<clr:198,226,255><B>Jaeger:<B> Eat this!"
+"jaeger.FiringAtAlien2"		"<clr:198,226,255><B>Jaeger:<B> Sežer tohle!"
 
-		"[english]jaeger.FiringAtAlien3"		"<clr:198,226,255><B>Jaeger:<B> Target!"
-		"jaeger.FiringAtAlien3"		"<clr:198,226,255><B>Jaeger:<B> Target!"
+"[english]jaeger.FiringAtAlien3"		"<clr:198,226,255><B>Jaeger:<B> Target!"
+"jaeger.FiringAtAlien3"		"<clr:198,226,255><B>Jaeger:<B> Cíl!"
 
-		"[english]jaeger.FollowMe0"		"<clr:198,226,255><B>Jaeger:<B> Follow me!"
-		"jaeger.FollowMe0"		"<clr:198,226,255><B>Jaeger:<B> Follow me!"
+"[english]jaeger.FollowMe0"		"<clr:198,226,255><B>Jaeger:<B> Follow me!"
+"jaeger.FollowMe0"		"<clr:198,226,255><B>Jaeger:<B> Za mnou!"
 
-		"[english]jaeger.FollowMe1"		"<clr:198,226,255><B>Jaeger:<B> Let's move!"
-		"jaeger.FollowMe1"		"<clr:198,226,255><B>Jaeger:<B> Let's move!"
+"[english]jaeger.FollowMe1"		"<clr:198,226,255><B>Jaeger:<B> Let's move!"
+"jaeger.FollowMe1"		"<clr:198,226,255><B>Jaeger:<B> Pojďme!"
 
-		"[english]jaeger.FollowMe2"		"<clr:198,226,255><B>Jaeger:<B> Let's move out!"
-		"jaeger.FollowMe2"		"<clr:198,226,255><B>Jaeger:<B> Let's move out!"
+"[english]jaeger.FollowMe2"		"<clr:198,226,255><B>Jaeger:<B> Let's move out!"
+"jaeger.FollowMe2"		"<clr:198,226,255><B>Jaeger:<B> Pojďme pryč!"
 
-		"[english]jaeger.HoldPosition0"		"<clr:198,226,255><B>Jaeger:<B> Hold position!"
-		"jaeger.HoldPosition0"		"<clr:198,226,255><B>Jaeger:<B> Hold position!"
+"[english]jaeger.HoldPosition0"		"<clr:198,226,255><B>Jaeger:<B> Hold position!"
+"jaeger.HoldPosition0"		"<clr:198,226,255><B>Jaeger:<B> Držte pozici!"
 
-		"[english]jaeger.HoldPosition1"		"<clr:198,226,255><B>Jaeger:<B> Wait here."
-		"jaeger.HoldPosition1"		"<clr:198,226,255><B>Jaeger:<B> Wait here."
+"[english]jaeger.HoldPosition1"		"<clr:198,226,255><B>Jaeger:<B> Wait here."
+"jaeger.HoldPosition1"		"<clr:198,226,255><B>Jaeger:<B> Počkejte tady."
 
-		"[english]jaeger.NeedAmmo0"		"<clr:198,226,255><B>Jaeger:<B> Need ammo."
-		"jaeger.NeedAmmo0"		"<clr:198,226,255><B>Jaeger:<B> Need ammo."
+"[english]jaeger.NeedAmmo0"		"<clr:198,226,255><B>Jaeger:<B> Need ammo."
+"jaeger.NeedAmmo0"		"<clr:198,226,255><B>Jaeger:<B> Potřebuji munici."
 
-		"[english]jaeger.NeedAmmo1"		"<clr:198,226,255><B>Jaeger:<B> Need some ammo!"
-		"jaeger.NeedAmmo1"		"<clr:198,226,255><B>Jaeger:<B> Need some ammo!"
+"[english]jaeger.NeedAmmo1"		"<clr:198,226,255><B>Jaeger:<B> Need some ammo!"
+"jaeger.NeedAmmo1"		"<clr:198,226,255><B>Jaeger:<B> Potřebuji trochu munice!"
 
-		"[english]jaeger.NoAmmo0"		"<clr:198,226,255><B>Jaeger:<B> Damn it, no ammo."
-		"jaeger.NoAmmo0"		"<clr:198,226,255><B>Jaeger:<B> Damn it, no ammo."
+"[english]jaeger.NoAmmo0"		"<clr:198,226,255><B>Jaeger:<B> Damn it, no ammo."
+"jaeger.NoAmmo0"		"<clr:198,226,255><B>Jaeger:<B> Ksakru, jsem bez nábojů."
 
-		"[english]jaeger.NoAmmo1"		"<clr:198,226,255><B>Jaeger:<B> Out of ammo!"
-		"jaeger.NoAmmo1"		"<clr:198,226,255><B>Jaeger:<B> Out of ammo!"
+"[english]jaeger.NoAmmo1"		"<clr:198,226,255><B>Jaeger:<B> Out of ammo!"
+"jaeger.NoAmmo1"		"<clr:198,226,255><B>Jaeger:<B> Došla mi munice!"
 
-		"[english]jaeger.SargeJaegerConv1Reply0"		"<clr:198,226,255><B>Jaeger:<B> And we're still in deep shit."
-		"jaeger.SargeJaegerConv1Reply0"		"<clr:198,226,255><B>Jaeger:<B> And we're still in deep shit."
+"[english]jaeger.SargeJaegerConv1Reply0"		"<clr:198,226,255><B>Jaeger:<B> And we're still in deep shit."
+"jaeger.SargeJaegerConv1Reply0"		"<clr:198,226,255><B>Jaeger:<B> A jsme stále hluboko v hovnech."
 
-		"[english]jaeger.SargeJaegerConv1Reply1"		"<clr:198,226,255><B>Jaeger:<B> Yeah, just like old times."
-		"jaeger.SargeJaegerConv1Reply1"		"<clr:198,226,255><B>Jaeger:<B> Yeah, just like old times."
+"[english]jaeger.SargeJaegerConv1Reply1"		"<clr:198,226,255><B>Jaeger:<B> Yeah, just like old times."
+"jaeger.SargeJaegerConv1Reply1"		"<clr:198,226,255><B>Jaeger:<B> Jo, jako za starých časů."
 
-		"[english]jaeger.SargeJaegerConv20"		"<clr:198,226,255><B>Jaeger:<B> Remember Ceti Epsilon."
-		"jaeger.SargeJaegerConv20"		"<clr:198,226,255><B>Jaeger:<B> Remember Ceti Epsilon."
+"[english]jaeger.SargeJaegerConv20"		"<clr:198,226,255><B>Jaeger:<B> Remember Ceti Epsilon."
+"jaeger.SargeJaegerConv20"		"<clr:198,226,255><B>Jaeger:<B> Vzpomeň si na Ceti Epsilon."
 
-		"[english]jaeger.SargeJaegerConv21"		"<clr:198,226,255><B>Jaeger:<B> Remember the Frontier Riots."
-		"jaeger.SargeJaegerConv21"		"<clr:198,226,255><B>Jaeger:<B> Remember the Frontier Riots."
+"[english]jaeger.SargeJaegerConv21"		"<clr:198,226,255><B>Jaeger:<B> Remember the Frontier Riots."
+"jaeger.SargeJaegerConv21"		"<clr:198,226,255><B>Jaeger:<B> Vzpomeň si na pohraniční nepokoje."
 
-		"[english]jaeger.SargeJaegerConv2Reply0"		"<clr:198,226,255><B>Jaeger:<B> How do we get into these things?"
-		"jaeger.SargeJaegerConv2Reply0"		"<clr:198,226,255><B>Jaeger:<B> How do we get into these things?"
+"[english]jaeger.SargeJaegerConv2Reply0"		"<clr:198,226,255><B>Jaeger:<B> How do we get into these things?"
+"jaeger.SargeJaegerConv2Reply0"		"<clr:198,226,255><B>Jaeger:<B> Jak se dostáváme do těchto šlamastyk?"
 
-		"[english]jaeger.SargeJaegerConv2Reply1"		"<clr:198,226,255><B>Jaeger:<B> Why's it always got to be us?"
-		"jaeger.SargeJaegerConv2Reply1"		"<clr:198,226,255><B>Jaeger:<B> Why's it always got to be us?"
+"[english]jaeger.SargeJaegerConv2Reply1"		"<clr:198,226,255><B>Jaeger:<B> Why's it always got to be us?"
+"jaeger.SargeJaegerConv2Reply1"		"<clr:198,226,255><B>Jaeger:<B> Proč to musíme být vždycky my?"
 
 "[english]jaeger.Medic0"		"<clr:198,226,255><B>Jaeger:<B> Medic!"
 "jaeger.Medic0"		"<clr:198,226,255><B>Jaeger:<B> Medik!"
 
-		"[english]jaeger.Medic1"		"<clr:198,226,255><B>Jaeger:<B> Medic over here!"
-		"jaeger.Medic1"		"<clr:198,226,255><B>Jaeger:<B> Medic over here!"
+"[english]jaeger.Medic1"		"<clr:198,226,255><B>Jaeger:<B> Medic over here!"
+"jaeger.Medic1"		"<clr:198,226,255><B>Jaeger:<B> Mediku tady!"
 
-		"[english]jaeger.Reloading0"		"<clr:198,226,255><B>Jaeger:<B> Lock and load!"
-		"jaeger.Reloading0"		"<clr:198,226,255><B>Jaeger:<B> Lock and load!"
+"[english]jaeger.Reloading0"		"<clr:198,226,255><B>Jaeger:<B> Lock and load!"
+"jaeger.Reloading0"		"<clr:198,226,255><B>Jaeger:<B> Nabít a připravit!"
 
-		"[english]jaeger.Reloading1"		"<clr:198,226,255><B>Jaeger:<B> Reload!"
-		"jaeger.Reloading1"		"<clr:198,226,255><B>Jaeger:<B> Reload!"
+"[english]jaeger.Reloading1"		"<clr:198,226,255><B>Jaeger:<B> Reload!"
+"jaeger.Reloading1"		"<clr:198,226,255><B>Jaeger:<B> Přebíjím!"
 
-		"[english]jaeger.Reloading2"		"<clr:198,226,255><B>Jaeger:<B> Reload, cover me!"
-		"jaeger.Reloading2"		"<clr:198,226,255><B>Jaeger:<B> Reload, cover me!"
+"[english]jaeger.Reloading2"		"<clr:198,226,255><B>Jaeger:<B> Reload, cover me!"
+"jaeger.Reloading2"		"<clr:198,226,255><B>Jaeger:<B> Přebíjím, kryjte mě!"
 
-		"[english]jaeger.Reloading3"		"<clr:198,226,255><B>Jaeger:<B> Reloading!"
-		"jaeger.Reloading3"		"<clr:198,226,255><B>Jaeger:<B> Reloading!"
+"[english]jaeger.Reloading3"		"<clr:198,226,255><B>Jaeger:<B> Reloading!"
+"jaeger.Reloading3"		"<clr:198,226,255><B>Jaeger:<B> Přebíjím!"
 
-		"[english]jaeger.SentryInPlace0"		"<clr:198,226,255><B>Jaeger:<B> Sentry assembled."
-		"jaeger.SentryInPlace0"		"<clr:198,226,255><B>Jaeger:<B> Sentry assembled."
+"[english]jaeger.SentryInPlace0"		"<clr:198,226,255><B>Jaeger:<B> Sentry assembled."
+"jaeger.SentryInPlace0"		"<clr:198,226,255><B>Jaeger:<B> Sentry postavena."
 
-		"[english]jaeger.SentryInPlace1"		"<clr:198,226,255><B>Jaeger:<B> Sentry in place."
-		"jaeger.SentryInPlace1"		"<clr:198,226,255><B>Jaeger:<B> Sentry in place."
+"[english]jaeger.SentryInPlace1"		"<clr:198,226,255><B>Jaeger:<B> Sentry in place."
+"jaeger.SentryInPlace1"		"<clr:198,226,255><B>Jaeger:<B> Sentry na místě."
 
-		"[english]jaeger.SentryInPlace2"		"<clr:198,226,255><B>Jaeger:<B> Sentry online."
-		"jaeger.SentryInPlace2"		"<clr:198,226,255><B>Jaeger:<B> Sentry online."
+"[english]jaeger.SentryInPlace2"		"<clr:198,226,255><B>Jaeger:<B> Sentry online."
+"jaeger.SentryInPlace2"		"<clr:198,226,255><B>Jaeger:<B> Sentry online."
 
 "[english]jaeger.Ammo0"		"<clr:198,226,255><B>Jaeger:<B> Ammo!"
 "jaeger.Ammo0"		"<clr:198,226,255><B>Jaeger:<B> Munice!"
@@ -2510,14 +2510,14 @@
 "[english]jaeger.Thanks0"		"<clr:198,226,255><B>Jaeger:<B> Thanks."
 "jaeger.Thanks0"		"<clr:198,226,255><B>Jaeger:<B> Dík."
 
-		"[english]jaeger.Thanks1"		"<clr:198,226,255><B>Jaeger:<B> Thank you."
-		"jaeger.Thanks1"		"<clr:198,226,255><B>Jaeger:<B> Thank you."
+"[english]jaeger.Thanks1"		"<clr:198,226,255><B>Jaeger:<B> Thank you."
+"jaeger.Thanks1"		"<clr:198,226,255><B>Jaeger:<B> Díky."
 
-		"[english]jaeger.Question0"		"<clr:198,226,255><B>Jaeger:<B> Huh?"
-		"jaeger.Question0"		"<clr:198,226,255><B>Jaeger:<B> Huh?"
+"[english]jaeger.Question0"		"<clr:198,226,255><B>Jaeger:<B> Huh?"
+"jaeger.Question0"		"<clr:198,226,255><B>Jaeger:<B> Huh?"
 
-		"[english]jaeger.Question1"		"<clr:198,226,255><B>Jaeger:<B> What is it?"
-		"jaeger.Question1"		"<clr:198,226,255><B>Jaeger:<B> What is it?"
+"[english]jaeger.Question1"		"<clr:198,226,255><B>Jaeger:<B> What is it?"
+"jaeger.Question1"		"<clr:198,226,255><B>Jaeger:<B> Co je?"
 
 "[english]jaeger.Question2"		"<clr:198,226,255><B>Jaeger:<B> What?"
 "jaeger.Question2"		"<clr:198,226,255><B>Jaeger:<B> Co?"
@@ -2525,20 +2525,20 @@
 "[english]jaeger.Question3"		"<clr:198,226,255><B>Jaeger:<B> Yes?"
 "jaeger.Question3"		"<clr:198,226,255><B>Jaeger:<B> Ano?"
 
-		"[english]jaeger.CallSarge0"		"<clr:198,226,255><B>Jaeger:<B> Hey, Conrad."
-		"jaeger.CallSarge0"		"<clr:198,226,255><B>Jaeger:<B> Hey, Conrad."
+"[english]jaeger.CallSarge0"		"<clr:198,226,255><B>Jaeger:<B> Hey, Conrad."
+"jaeger.CallSarge0"		"<clr:198,226,255><B>Jaeger:<B> Ahoj, Conrade."
 
 "[english]jaeger.CallSarge1"		"<clr:198,226,255><B>Jaeger:<B> Sarge."
 "jaeger.CallSarge1"		"<clr:198,226,255><B>Jaeger:<B> Sarge."
 
-		"[english]jaeger.CallWildcat0"		"<clr:198,226,255><B>Jaeger:<B> Hey, Wildcat."
-		"jaeger.CallWildcat0"		"<clr:198,226,255><B>Jaeger:<B> Hey, Wildcat."
+"[english]jaeger.CallWildcat0"		"<clr:198,226,255><B>Jaeger:<B> Hey, Wildcat."
+"jaeger.CallWildcat0"		"<clr:198,226,255><B>Jaeger:<B> Ahoj, Wildcat."
 
 "[english]jaeger.CallWildcat1"		"<clr:198,226,255><B>Jaeger:<B> Wildcat."
 "jaeger.CallWildcat1"		"<clr:198,226,255><B>Jaeger:<B> Wildcat."
 
-		"[english]jaeger.CallWolfe0"		"<clr:198,226,255><B>Jaeger:<B> Hey, Wolfe."
-		"jaeger.CallWolfe0"		"<clr:198,226,255><B>Jaeger:<B> Hey, Wolfe."
+"[english]jaeger.CallWolfe0"		"<clr:198,226,255><B>Jaeger:<B> Hey, Wolfe."
+"jaeger.CallWolfe0"		"<clr:198,226,255><B>Jaeger:<B> Ahoj, Wolfe."
 
 "[english]jaeger.CallWolfe1"		"<clr:198,226,255><B>Jaeger:<B> Wolfe."
 "jaeger.CallWolfe1"		"<clr:198,226,255><B>Jaeger:<B> Wolfe."
@@ -2546,213 +2546,213 @@
 "[english]jaeger.CallFaith0"		"<clr:198,226,255><B>Jaeger:<B> Faith."
 "jaeger.CallFaith0"		"<clr:198,226,255><B>Jaeger:<B> Faith."
 
-		"[english]jaeger.CallFaith1"		"<clr:198,226,255><B>Jaeger:<B> Hey, Faith."
-		"jaeger.CallFaith1"		"<clr:198,226,255><B>Jaeger:<B> Hey, Faith."
+"[english]jaeger.CallFaith1"		"<clr:198,226,255><B>Jaeger:<B> Hey, Faith."
+"jaeger.CallFaith1"		"<clr:198,226,255><B>Jaeger:<B> Ahoj, Faith."
 
 "[english]jaeger.CallBastille0"		"<clr:198,226,255><B>Jaeger:<B> Bastille."
 "jaeger.CallBastille0"		"<clr:198,226,255><B>Jaeger:<B> Bastille."
 
-		"[english]jaeger.CallBastille1"		"<clr:198,226,255><B>Jaeger:<B> Hey, Bastille."
-		"jaeger.CallBastille1"		"<clr:198,226,255><B>Jaeger:<B> Hey, Bastille."
+"[english]jaeger.CallBastille1"		"<clr:198,226,255><B>Jaeger:<B> Hey, Bastille."
+"jaeger.CallBastille1"		"<clr:198,226,255><B>Jaeger:<B> Ahoj, Bastille."
 
 "[english]jaeger.CallCrash0"		"<clr:198,226,255><B>Jaeger:<B> Crash."
-"jaeger.CallCrash0"		"<clr:198,226,255><B>Jaeger:<B> Crash."
+"jaeger.CallCrash0"		"<clr:198,226,255><B>Jaeger:<B> Crashi."
 
-		"[english]jaeger.CallCrash1"		"<clr:198,226,255><B>Jaeger:<B> Hey, Crash."
-		"jaeger.CallCrash1"		"<clr:198,226,255><B>Jaeger:<B> Hey, Crash."
+"[english]jaeger.CallCrash1"		"<clr:198,226,255><B>Jaeger:<B> Hey, Crash."
+"jaeger.CallCrash1"		"<clr:198,226,255><B>Jaeger:<B> Ahoj, Crashi."
 
 "[english]jaeger.CallFlynn0"		"<clr:198,226,255><B>Jaeger:<B> Flynn."
-"jaeger.CallFlynn0"		"<clr:198,226,255><B>Jaeger:<B> Flynn."
+"jaeger.CallFlynn0"		"<clr:198,226,255><B>Jaeger:<B> Flynne."
 
-		"[english]jaeger.CallFlynn1"		"<clr:198,226,255><B>Jaeger:<B> Hey, Flynn."
-		"jaeger.CallFlynn1"		"<clr:198,226,255><B>Jaeger:<B> Hey, Flynn."
+"[english]jaeger.CallFlynn1"		"<clr:198,226,255><B>Jaeger:<B> Hey, Flynn."
+"jaeger.CallFlynn1"		"<clr:198,226,255><B>Jaeger:<B> Ahoj, Flynne."
 
 "[english]jaeger.CallVegas0"		"<clr:198,226,255><B>Jaeger:<B> Vegas."
-"jaeger.CallVegas0"		"<clr:198,226,255><B>Jaeger:<B> Vegas."
+"jaeger.CallVegas0"		"<clr:198,226,255><B>Jaeger:<B> Vegasi."
 
-		"[english]jaeger.SuppliesAmmo0"		"<clr:198,226,255><B>Jaeger:<B> Good, more ammo."
-		"jaeger.SuppliesAmmo0"		"<clr:198,226,255><B>Jaeger:<B> Good, more ammo."
+"[english]jaeger.SuppliesAmmo0"		"<clr:198,226,255><B>Jaeger:<B> Good, more ammo."
+"jaeger.SuppliesAmmo0"		"<clr:198,226,255><B>Jaeger:<B> Dobře, více munice."
 
-		"[english]jaeger.SuppliesAmmo1"		"<clr:198,226,255><B>Jaeger:<B> Good, supplies."
-		"jaeger.SuppliesAmmo1"		"<clr:198,226,255><B>Jaeger:<B> Good, supplies."
+"[english]jaeger.SuppliesAmmo1"		"<clr:198,226,255><B>Jaeger:<B> Good, supplies."
+"jaeger.SuppliesAmmo1"		"<clr:198,226,255><B>Jaeger:<B> Dobře, zásoby."
 
-		"[english]jaeger.SuppliesAmmo2"		"<clr:198,226,255><B>Jaeger:<B> Resupply, Marines."
-		"jaeger.SuppliesAmmo2"		"<clr:198,226,255><B>Jaeger:<B> Resupply, Marines."
+"[english]jaeger.SuppliesAmmo2"		"<clr:198,226,255><B>Jaeger:<B> Resupply, Marines."
+"jaeger.SuppliesAmmo2"		"<clr:198,226,255><B>Jaeger:<B> Doplňte zásoby, mariňáci."
 
-		"[english]jaeger.Supplies0"		"<clr:198,226,255><B>Jaeger:<B> Good, supplies."
-		"jaeger.Supplies0"		"<clr:198,226,255><B>Jaeger:<B> Good, supplies."
+"[english]jaeger.Supplies0"		"<clr:198,226,255><B>Jaeger:<B> Good, supplies."
+"jaeger.Supplies0"		"<clr:198,226,255><B>Jaeger:<B> Dobře, zásoby."
 
-		"[english]jaeger.Supplies1"		"<clr:198,226,255><B>Jaeger:<B> Resupply, Marines."
-		"jaeger.Supplies1"		"<clr:198,226,255><B>Jaeger:<B> Resupply, Marines."
+"[english]jaeger.Supplies1"		"<clr:198,226,255><B>Jaeger:<B> Resupply, Marines."
+"jaeger.Supplies1"		"<clr:198,226,255><B>Jaeger:<B> Doplňte zásoby, mariňáci."
 
-		"[english]jaeger.LockedTerminalCrash0"		"<clr:198,226,255><B>Jaeger:<B> It's locked. Crash, deal with it."
-		"jaeger.LockedTerminalCrash0"		"<clr:198,226,255><B>Jaeger:<B> It's locked. Crash, deal with it."
+"[english]jaeger.LockedTerminalCrash0"		"<clr:198,226,255><B>Jaeger:<B> It's locked. Crash, deal with it."
+"jaeger.LockedTerminalCrash0"		"<clr:198,226,255><B>Jaeger:<B> Je zamčený. Crashi, vyřeš to."
 
-		"[english]jaeger.LockedTerminalFlynn0"		"<clr:198,226,255><B>Jaeger:<B> It's locked. Flynn, deal with it."
-		"jaeger.LockedTerminalFlynn0"		"<clr:198,226,255><B>Jaeger:<B> It's locked. Flynn, deal with it."
+"[english]jaeger.LockedTerminalFlynn0"		"<clr:198,226,255><B>Jaeger:<B> It's locked. Flynn, deal with it."
+"jaeger.LockedTerminalFlynn0"		"<clr:198,226,255><B>Jaeger:<B> Je zamčený. Flynne, vyřeš to."
 
-		"[english]jaeger.LockedTerminalVegas0"		"<clr:198,226,255><B>Jaeger:<B> It's locked. Vegas, deal with it."
-		"jaeger.LockedTerminalVegas0"		"<clr:198,226,255><B>Jaeger:<B> It's locked. Vegas, deal with it."
+"[english]jaeger.LockedTerminalVegas0"		"<clr:198,226,255><B>Jaeger:<B> It's locked. Vegas, deal with it."
+"jaeger.LockedTerminalVegas0"		"<clr:198,226,255><B>Jaeger:<B> Je zamčený. Vegasi, vyřeš to."
 
-		"[english]jaeger.LockedTerminal0"		"<clr:198,226,255><B>Jaeger:<B> Access denied."
-		"jaeger.LockedTerminal0"		"<clr:198,226,255><B>Jaeger:<B> Access denied."
+"[english]jaeger.LockedTerminal0"		"<clr:198,226,255><B>Jaeger:<B> Access denied."
+"jaeger.LockedTerminal0"		"<clr:198,226,255><B>Jaeger:<B> Přístup odepřen."
 
-		"[english]jaeger.LockedTerminal1"		"<clr:198,226,255><B>Jaeger:<B> Damn, terminal's locked."
-		"jaeger.LockedTerminal1"		"<clr:198,226,255><B>Jaeger:<B> Damn, terminal's locked."
+"[english]jaeger.LockedTerminal1"		"<clr:198,226,255><B>Jaeger:<B> Damn, terminal's locked."
+"jaeger.LockedTerminal1"		"<clr:198,226,255><B>Jaeger:<B> Sakra, ten terminál je zamčený."
 
-		"[english]jaeger.HoldingPosition0"		"<clr:198,226,255><B>Jaeger:<B> Covering."
-		"jaeger.HoldingPosition0"		"<clr:198,226,255><B>Jaeger:<B> Covering."
+"[english]jaeger.HoldingPosition0"		"<clr:198,226,255><B>Jaeger:<B> Covering."
+"jaeger.HoldingPosition0"		"<clr:198,226,255><B>Jaeger:<B> Kryji."
 
-		"[english]jaeger.HoldingPosition1"		"<clr:198,226,255><B>Jaeger:<B> Holding position."
-		"jaeger.HoldingPosition1"		"<clr:198,226,255><B>Jaeger:<B> Holding position."
+"[english]jaeger.HoldingPosition1"		"<clr:198,226,255><B>Jaeger:<B> Holding position."
+"jaeger.HoldingPosition1"		"<clr:198,226,255><B>Jaeger:<B> Držím pozici."
 
-		"[english]jaeger.HoldingPosition2"		"<clr:198,226,255><B>Jaeger:<B> In position."
-		"jaeger.HoldingPosition2"		"<clr:198,226,255><B>Jaeger:<B> In position."
+"[english]jaeger.HoldingPosition2"		"<clr:198,226,255><B>Jaeger:<B> In position."
+"jaeger.HoldingPosition2"		"<clr:198,226,255><B>Jaeger:<B> Na místě."
 
-		"[english]jaeger.HoldingNorth0"		"<clr:198,226,255><B>Jaeger:<B> Covering north."
-		"jaeger.HoldingNorth0"		"<clr:198,226,255><B>Jaeger:<B> Covering north."
+"[english]jaeger.HoldingNorth0"		"<clr:198,226,255><B>Jaeger:<B> Covering north."
+"jaeger.HoldingNorth0"		"<clr:198,226,255><B>Jaeger:<B> Kryji sever."
 
-		"[english]jaeger.HoldingNorth1"		"<clr:198,226,255><B>Jaeger:<B> Covering northside."
-		"jaeger.HoldingNorth1"		"<clr:198,226,255><B>Jaeger:<B> Covering northside."
+"[english]jaeger.HoldingNorth1"		"<clr:198,226,255><B>Jaeger:<B> Covering northside."
+"jaeger.HoldingNorth1"		"<clr:198,226,255><B>Jaeger:<B> Kryji severní stranu."
 
-		"[english]jaeger.HoldingNorth2"		"<clr:198,226,255><B>Jaeger:<B> Northside, in position."
-		"jaeger.HoldingNorth2"		"<clr:198,226,255><B>Jaeger:<B> Northside, in position."
+"[english]jaeger.HoldingNorth2"		"<clr:198,226,255><B>Jaeger:<B> Northside, in position."
+"jaeger.HoldingNorth2"		"<clr:198,226,255><B>Jaeger:<B> Severní strana, na místě."
 
-		"[english]jaeger.HoldingNorth3"		"<clr:198,226,255><B>Jaeger:<B> Watching northside."
-		"jaeger.HoldingNorth3"		"<clr:198,226,255><B>Jaeger:<B> Watching northside."
+"[english]jaeger.HoldingNorth3"		"<clr:198,226,255><B>Jaeger:<B> Watching northside."
+"jaeger.HoldingNorth3"		"<clr:198,226,255><B>Jaeger:<B> Sleduji severní stranu."
 
-		"[english]jaeger.HoldingSouth0"		"<clr:198,226,255><B>Jaeger:<B> Covering south."
-		"jaeger.HoldingSouth0"		"<clr:198,226,255><B>Jaeger:<B> Covering south."
+"[english]jaeger.HoldingSouth0"		"<clr:198,226,255><B>Jaeger:<B> Covering south."
+"jaeger.HoldingSouth0"		"<clr:198,226,255><B>Jaeger:<B> Kryji jih."
 
-		"[english]jaeger.HoldingSouth1"		"<clr:198,226,255><B>Jaeger:<B> Covering southside."
-		"jaeger.HoldingSouth1"		"<clr:198,226,255><B>Jaeger:<B> Covering southside."
+"[english]jaeger.HoldingSouth1"		"<clr:198,226,255><B>Jaeger:<B> Covering southside."
+"jaeger.HoldingSouth1"		"<clr:198,226,255><B>Jaeger:<B> Kryji jižní stranu."
 
-		"[english]jaeger.HoldingSouth2"		"<clr:198,226,255><B>Jaeger:<B> Watching southside."
-		"jaeger.HoldingSouth2"		"<clr:198,226,255><B>Jaeger:<B> Watching southside."
+"[english]jaeger.HoldingSouth2"		"<clr:198,226,255><B>Jaeger:<B> Watching southside."
+"jaeger.HoldingSouth2"		"<clr:198,226,255><B>Jaeger:<B> Sleduji jižní stranu."
 
-		"[english]jaeger.HoldingEast0"		"<clr:198,226,255><B>Jaeger:<B> Covering east."
-		"jaeger.HoldingEast0"		"<clr:198,226,255><B>Jaeger:<B> Covering east."
+"[english]jaeger.HoldingEast0"		"<clr:198,226,255><B>Jaeger:<B> Covering east."
+"jaeger.HoldingEast0"		"<clr:198,226,255><B>Jaeger:<B> Kryji východ."
 
-		"[english]jaeger.HoldingEast1"		"<clr:198,226,255><B>Jaeger:<B> Covering eastside."
-		"jaeger.HoldingEast1"		"<clr:198,226,255><B>Jaeger:<B> Covering eastside."
+"[english]jaeger.HoldingEast1"		"<clr:198,226,255><B>Jaeger:<B> Covering eastside."
+"jaeger.HoldingEast1"		"<clr:198,226,255><B>Jaeger:<B> Kryji východní stranu."
 
-		"[english]jaeger.HoldingEast2"		"<clr:198,226,255><B>Jaeger:<B> Watching eastside."
-		"jaeger.HoldingEast2"		"<clr:198,226,255><B>Jaeger:<B> Watching eastside."
+"[english]jaeger.HoldingEast2"		"<clr:198,226,255><B>Jaeger:<B> Watching eastside."
+"jaeger.HoldingEast2"		"<clr:198,226,255><B>Jaeger:<B> Sleduji východní stranu."
 
-		"[english]jaeger.HoldingWest0"		"<clr:198,226,255><B>Jaeger:<B> Watching westside."
-		"jaeger.HoldingWest0"		"<clr:198,226,255><B>Jaeger:<B> Watching westside."
+"[english]jaeger.HoldingWest0"		"<clr:198,226,255><B>Jaeger:<B> Watching westside."
+"jaeger.HoldingWest0"		"<clr:198,226,255><B>Jaeger:<B> Sleduji západní stranu."
 
-		"[english]jaeger.HoldingWest1"		"<clr:198,226,255><B>Jaeger:<B> Westside, in position."
-		"jaeger.HoldingWest1"		"<clr:198,226,255><B>Jaeger:<B> Westside, in position."
+"[english]jaeger.HoldingWest1"		"<clr:198,226,255><B>Jaeger:<B> Westside, in position."
+"jaeger.HoldingWest1"		"<clr:198,226,255><B>Jaeger:<B> Západní strana, na místě."
 
-		"[english]jaeger.GotPoint0"		"<clr:198,226,255><B>Jaeger:<B> Jaeger, taking forward position."
-		"jaeger.GotPoint0"		"<clr:198,226,255><B>Jaeger:<B> Jaeger, taking forward position."
+"[english]jaeger.GotPoint0"		"<clr:198,226,255><B>Jaeger:<B> Jaeger, taking forward position."
+"jaeger.GotPoint0"		"<clr:198,226,255><B>Jaeger:<B> Jaeger, beru přední pozici."
 
-		"[english]jaeger.GotPoint1"		"<clr:198,226,255><B>Jaeger:<B> Jaeger, taking point."
-		"jaeger.GotPoint1"		"<clr:198,226,255><B>Jaeger:<B> Jaeger, taking point."
+"[english]jaeger.GotPoint1"		"<clr:198,226,255><B>Jaeger:<B> Jaeger, taking point."
+"jaeger.GotPoint1"		"<clr:198,226,255><B>Jaeger:<B> Jaeger, beru předvoj."
 
-		"[english]jaeger.GotRear0"		"<clr:198,226,255><B>Jaeger:<B> Jaeger, covering back."
-		"jaeger.GotRear0"		"<clr:198,226,255><B>Jaeger:<B> Jaeger, covering back."
+"[english]jaeger.GotRear0"		"<clr:198,226,255><B>Jaeger:<B> Jaeger, covering back."
+"jaeger.GotRear0"		"<clr:198,226,255><B>Jaeger:<B> Jaeger, kryji záda."
 
-		"[english]jaeger.GotRear1"		"<clr:198,226,255><B>Jaeger:<B> Jaeger, covering the rear."
-		"jaeger.GotRear1"		"<clr:198,226,255><B>Jaeger:<B> Jaeger, covering the rear."
+"[english]jaeger.GotRear1"		"<clr:198,226,255><B>Jaeger:<B> Jaeger, covering the rear."
+"jaeger.GotRear1"		"<clr:198,226,255><B>Jaeger:<B> Jaeger, kryji záda."
 
-		"[english]jaeger.GotRear2"		"<clr:198,226,255><B>Jaeger:<B> Jaeger, taking rearguard."
-		"jaeger.GotRear2"		"<clr:198,226,255><B>Jaeger:<B> Jaeger, taking rearguard."
+"[english]jaeger.GotRear2"		"<clr:198,226,255><B>Jaeger:<B> Jaeger, taking rearguard."
+"jaeger.GotRear2"		"<clr:198,226,255><B>Jaeger:<B> Jaeger, zaujímám zadní voj."
 
-		"[english]jaeger.RequestSealDoor0"		"<clr:198,226,255><B>Jaeger:<B> Seal this door!"
-		"jaeger.RequestSealDoor0"		"<clr:198,226,255><B>Jaeger:<B> Seal this door!"
+"[english]jaeger.RequestSealDoor0"		"<clr:198,226,255><B>Jaeger:<B> Seal this door!"
+"jaeger.RequestSealDoor0"		"<clr:198,226,255><B>Jaeger:<B> Zapečeťte ty dveře!"
 
-		"[english]jaeger.RequestSealDoor1"		"<clr:198,226,255><B>Jaeger:<B> Secure the door!"
-		"jaeger.RequestSealDoor1"		"<clr:198,226,255><B>Jaeger:<B> Secure the door!"
+"[english]jaeger.RequestSealDoor1"		"<clr:198,226,255><B>Jaeger:<B> Secure the door!"
+"jaeger.RequestSealDoor1"		"<clr:198,226,255><B>Jaeger:<B> Zabezpečte ty dveře!"
 
-		"[english]jaeger.RequestCutDoor0"		"<clr:198,226,255><B>Jaeger:<B> Cut it open!"
-		"jaeger.RequestCutDoor0"		"<clr:198,226,255><B>Jaeger:<B> Cut it open!"
+"[english]jaeger.RequestCutDoor0"		"<clr:198,226,255><B>Jaeger:<B> Cut it open!"
+"jaeger.RequestCutDoor0"		"<clr:198,226,255><B>Jaeger:<B> Rozřežte je!"
 
-		"[english]jaeger.RequestCutDoor1"		"<clr:198,226,255><B>Jaeger:<B> We need this door cut open!"
-		"jaeger.RequestCutDoor1"		"<clr:198,226,255><B>Jaeger:<B> We need this door cut open!"
+"[english]jaeger.RequestCutDoor1"		"<clr:198,226,255><B>Jaeger:<B> We need this door cut open!"
+"jaeger.RequestCutDoor1"		"<clr:198,226,255><B>Jaeger:<B> Potřebujeme tyhle dveře rozřezat!"
 
-		"[english]jaeger.RequestShootDoor0"		"<clr:198,226,255><B>Jaeger:<B> Blast it open!"
-		"jaeger.RequestShootDoor0"		"<clr:198,226,255><B>Jaeger:<B> Blast it open!"
+"[english]jaeger.RequestShootDoor0"		"<clr:198,226,255><B>Jaeger:<B> Blast it open!"
+"jaeger.RequestShootDoor0"		"<clr:198,226,255><B>Jaeger:<B> Vyhoďte je do vzduchu!"
 
-		"[english]jaeger.RequestShootDoor1"		"<clr:198,226,255><B>Jaeger:<B> Shoot the door!"
-		"jaeger.RequestShootDoor1"		"<clr:198,226,255><B>Jaeger:<B> Shoot the door!"
+"[english]jaeger.RequestShootDoor1"		"<clr:198,226,255><B>Jaeger:<B> Shoot the door!"
+"jaeger.RequestShootDoor1"		"<clr:198,226,255><B>Jaeger:<B> Rozstřílejte ty dveře!"
 
-		"[english]jaeger.CuttingDoor0"		"<clr:198,226,255><B>Jaeger:<B> Jaeger, cutting through!"
-		"jaeger.CuttingDoor0"		"<clr:198,226,255><B>Jaeger:<B> Jaeger, cutting through!"
+"[english]jaeger.CuttingDoor0"		"<clr:198,226,255><B>Jaeger:<B> Jaeger, cutting through!"
+"jaeger.CuttingDoor0"		"<clr:198,226,255><B>Jaeger:<B> Jaeger, řežu skrz!"
 
-		"[english]jaeger.CuttingDoor1"		"<clr:198,226,255><B>Jaeger:<B> Roger that. Cutting through."
-		"jaeger.CuttingDoor1"		"<clr:198,226,255><B>Jaeger:<B> Roger that. Cutting through."
+"[english]jaeger.CuttingDoor1"		"<clr:198,226,255><B>Jaeger:<B> Roger that. Cutting through."
+"jaeger.CuttingDoor1"		"<clr:198,226,255><B>Jaeger:<B> Rozumím, řežu skrz."
 
-		"[english]jaeger.SealingDoor0"		"<clr:198,226,255><B>Jaeger:<B> Jaeger, sealing door."
-		"jaeger.SealingDoor0"		"<clr:198,226,255><B>Jaeger:<B> Jaeger, sealing door."
+"[english]jaeger.SealingDoor0"		"<clr:198,226,255><B>Jaeger:<B> Jaeger, sealing door."
+"jaeger.SealingDoor0"		"<clr:198,226,255><B>Jaeger:<B> Jaeger, zapečeťuji dveře."
 
-		"[english]jaeger.SealingDoor1"		"<clr:198,226,255><B>Jaeger:<B> Jaeger, securing door."
-		"jaeger.SealingDoor1"		"<clr:198,226,255><B>Jaeger:<B> Jaeger, securing door."
+"[english]jaeger.SealingDoor1"		"<clr:198,226,255><B>Jaeger:<B> Jaeger, securing door."
+"jaeger.SealingDoor1"		"<clr:198,226,255><B>Jaeger:<B> Jaeger, zabezpečuji dveře."
 
-		"[english]jaeger.TimeToLeave0"		"<clr:198,226,255><B>Jaeger:<B> Primary objective's complete, let's move out."
-		"jaeger.TimeToLeave0"		"<clr:198,226,255><B>Jaeger:<B> Primary objective's complete, let's move out."
+"[english]jaeger.TimeToLeave0"		"<clr:198,226,255><B>Jaeger:<B> Primary objective's complete, let's move out."
+"jaeger.TimeToLeave0"		"<clr:198,226,255><B>Jaeger:<B> Hlavní úkol splněn, pojďme pryč."
 
-		"[english]jaeger.TimeToLeave1"		"<clr:198,226,255><B>Jaeger:<B> Time to leave, moving out."
-		"jaeger.TimeToLeave1"		"<clr:198,226,255><B>Jaeger:<B> Time to leave, moving out."
+"[english]jaeger.TimeToLeave1"		"<clr:198,226,255><B>Jaeger:<B> Time to leave, moving out."
+"jaeger.TimeToLeave1"		"<clr:198,226,255><B>Jaeger:<B> Čas odchodu, jdeme pryč."
 
 "[english]jaeger.WatchOut0"		"<clr:198,226,255><B>Jaeger:<B> Careful."
 "jaeger.WatchOut0"		"<clr:198,226,255><B>Jaeger:<B> Opatrně."
 
-		"[english]jaeger.WatchOut1"		"<clr:198,226,255><B>Jaeger:<B> Look there!"
-		"jaeger.WatchOut1"		"<clr:198,226,255><B>Jaeger:<B> Look there!"
+"[english]jaeger.WatchOut1"		"<clr:198,226,255><B>Jaeger:<B> Look there!"
+"jaeger.WatchOut1"		"<clr:198,226,255><B>Jaeger:<B> Dívej!"
 
-		"[english]jaeger.WatchOut2"		"<clr:198,226,255><B>Jaeger:<B> Watch out!"
-		"jaeger.WatchOut2"		"<clr:198,226,255><B>Jaeger:<B> Watch out!"
+"[english]jaeger.WatchOut2"		"<clr:198,226,255><B>Jaeger:<B> Watch out!"
+"jaeger.WatchOut2"		"<clr:198,226,255><B>Jaeger:<B> Bacha!"
 
-		"[english]jaeger.Shieldbug0"		"<clr:198,226,255><B>Jaeger:<B> <I>Herrgott!<I> Shieldbug!"
-		"jaeger.Shieldbug0"		"<clr:198,226,255><B>Jaeger:<B> <I>Herrgott!<I> Shieldbug!"
+"[english]jaeger.Shieldbug0"		"<clr:198,226,255><B>Jaeger:<B> <I>Herrgott!<I> Shieldbug!"
+"jaeger.Shieldbug0"		"<clr:198,226,255><B>Jaeger:<B> <I>Hergot!<I> Štítobrouk!"
 
-		"[english]jaeger.Shieldbug1"		"<clr:198,226,255><B>Jaeger:<B> Shield bug, take it down!"
-		"jaeger.Shieldbug1"		"<clr:198,226,255><B>Jaeger:<B> Shield bug, take it down!"
+"[english]jaeger.Shieldbug1"		"<clr:198,226,255><B>Jaeger:<B> Shield bug, take it down!"
+"jaeger.Shieldbug1"		"<clr:198,226,255><B>Jaeger:<B> Štítobrouk, sejměte ho!"
 
-		"[english]jaeger.Shieldbug2"		"<clr:198,226,255><B>Jaeger:<B> Watch it, shield bug!"
-		"jaeger.Shieldbug2"		"<clr:198,226,255><B>Jaeger:<B> Watch it, shield bug!"
+"[english]jaeger.Shieldbug2"		"<clr:198,226,255><B>Jaeger:<B> Watch it, shield bug!"
+"jaeger.Shieldbug2"		"<clr:198,226,255><B>Jaeger:<B> Bacha, štítobrouk!"
 
-		"[english]jaeger.ShieldbugHint0"		"<clr:198,226,255><B>Jaeger:<B> Get behind it!"
-		"jaeger.ShieldbugHint0"		"<clr:198,226,255><B>Jaeger:<B> Get behind it!"
+"[english]jaeger.ShieldbugHint0"		"<clr:198,226,255><B>Jaeger:<B> Get behind it!"
+"jaeger.ShieldbugHint0"		"<clr:198,226,255><B>Jaeger:<B> Dostaňte se za něj!"
 
-		"[english]jaeger.ShieldbugHint1"		"<clr:198,226,255><B>Jaeger:<B> Grenades!"
-		"jaeger.ShieldbugHint1"		"<clr:198,226,255><B>Jaeger:<B> Grenades!"
+"[english]jaeger.ShieldbugHint1"		"<clr:198,226,255><B>Jaeger:<B> Grenades!"
+"jaeger.ShieldbugHint1"		"<clr:198,226,255><B>Jaeger:<B> Granáty!"
 
-		"[english]jaeger.ShieldbugHint2"		"<clr:198,226,255><B>Jaeger:<B> Shoot it from behind!"
-		"jaeger.ShieldbugHint2"		"<clr:198,226,255><B>Jaeger:<B> Shoot it from behind!"
+"[english]jaeger.ShieldbugHint2"		"<clr:198,226,255><B>Jaeger:<B> Shoot it from behind!"
+"jaeger.ShieldbugHint2"		"<clr:198,226,255><B>Jaeger:<B> Střelte ho do zad!"
 
 
-		"[english]jaeger.Parasite0"		"<clr:198,226,255><B>Jaeger:<B> Parasite!"
-		"jaeger.Parasite0"		"<clr:198,226,255><B>Jaeger:<B> Parasite!"
+"[english]jaeger.Parasite0"		"<clr:198,226,255><B>Jaeger:<B> Parasite!"
+"jaeger.Parasite0"		"<clr:198,226,255><B>Jaeger:<B> Parazit!"
 
-		"[english]jaeger.Parasite1"		"<clr:198,226,255><B>Jaeger:<B> Parasite, kill it!"
-		"jaeger.Parasite1"		"<clr:198,226,255><B>Jaeger:<B> Parasite, kill it!"
+"[english]jaeger.Parasite1"		"<clr:198,226,255><B>Jaeger:<B> Parasite, kill it!"
+"jaeger.Parasite1"		"<clr:198,226,255><B>Jaeger:<B> Parazit, zabte ho!"
 
-		"[english]jaeger.Parasite2"		"<clr:198,226,255><B>Jaeger:<B> Watch out, parasite!"
-		"jaeger.Parasite2"		"<clr:198,226,255><B>Jaeger:<B> Watch out, parasite!"
+"[english]jaeger.Parasite2"		"<clr:198,226,255><B>Jaeger:<B> Watch out, parasite!"
+"jaeger.Parasite2"		"<clr:198,226,255><B>Jaeger:<B> Bacha, parazit!"
 
-		"[english]jaeger.BeenInfested0"		"<clr:198,226,255><B>Jaeger:<B> <I>Verdammte Scheiße!<I> Get it off!"
-		"jaeger.BeenInfested0"		"<clr:198,226,255><B>Jaeger:<B> <I>Verdammte Scheiße!<I> Get it off!"
+"[english]jaeger.BeenInfested0"		"<clr:198,226,255><B>Jaeger:<B> <I>Verdammte Scheiße!<I> Get it off!"
+"jaeger.BeenInfested0"		"<clr:198,226,255><B>Jaeger:<B> <I>Zatracená sračka!<I> Sundejte to!"
 
-		"[english]jaeger.BeenInfested1"		"<clr:198,226,255><B>Jaeger:<B> Get it off!"
-		"jaeger.BeenInfested1"		"<clr:198,226,255><B>Jaeger:<B> Get it off!"
+"[english]jaeger.BeenInfested1"		"<clr:198,226,255><B>Jaeger:<B> Get it off!"
+"jaeger.BeenInfested1"		"<clr:198,226,255><B>Jaeger:<B> Sundejte to!"
 
-		"[english]jaeger.BeenInfested2"		"<clr:198,226,255><B>Jaeger:<B> Get it off me!"
-		"jaeger.BeenInfested2"		"<clr:198,226,255><B>Jaeger:<B> Get it off me!"
+"[english]jaeger.BeenInfested2"		"<clr:198,226,255><B>Jaeger:<B> Get it off me!"
+"jaeger.BeenInfested2"		"<clr:198,226,255><B>Jaeger:<B> Sundejte to ze mě!"
 
-		"[english]jaeger.BeenInfested3"		"<clr:198,226,255><B>Jaeger:<B> It's on me!"
-		"jaeger.BeenInfested3"		"<clr:198,226,255><B>Jaeger:<B> It's on me!"
+"[english]jaeger.BeenInfested3"		"<clr:198,226,255><B>Jaeger:<B> It's on me!"
+"jaeger.BeenInfested3"		"<clr:198,226,255><B>Jaeger:<B> Je to na mě!"
 
-		"[english]jaeger.SwarmEggs0"		"<clr:198,226,255><B>Jaeger:<B> Swarm eggs!"
-		"jaeger.SwarmEggs0"		"<clr:198,226,255><B>Jaeger:<B> Swarm eggs!"
+"[english]jaeger.SwarmEggs0"		"<clr:198,226,255><B>Jaeger:<B> Swarm eggs!"
+"jaeger.SwarmEggs0"		"<clr:198,226,255><B>Jaeger:<B> Vajíčka roje!"
 
-		"[english]jaeger.SwarmEggs1"		"<clr:198,226,255><B>Jaeger:<B> Swarm eggs, destroy them!"
-		"jaeger.SwarmEggs1"		"<clr:198,226,255><B>Jaeger:<B> Swarm eggs, destroy them!"
+"[english]jaeger.SwarmEggs1"		"<clr:198,226,255><B>Jaeger:<B> Swarm eggs, destroy them!"
+"jaeger.SwarmEggs1"		"<clr:198,226,255><B>Jaeger:<B> Vajíčka roje, zničte je!"
 
-		"[english]jaeger.SwarmEggs2"		"<clr:198,226,255><B>Jaeger:<B> Watch out, Swarm eggs!"
-		"jaeger.SwarmEggs2"		"<clr:198,226,255><B>Jaeger:<B> Watch out, Swarm eggs!"
+"[english]jaeger.SwarmEggs2"		"<clr:198,226,255><B>Jaeger:<B> Watch out, Swarm eggs!"
+"jaeger.SwarmEggs2"		"<clr:198,226,255><B>Jaeger:<B> Bacha, vajíčka roje!"
 
 "[english]jaeger.Grenade0"		"<clr:198,226,255><B>Jaeger:<B> Clear!"
 "jaeger.Grenade0"		"<clr:198,226,255><B>Jaeger:<B> Čisto!"
@@ -2760,98 +2760,98 @@
 "[english]jaeger.Grenade1"		"<clr:198,226,255><B>Jaeger:<B> Grenade!"
 "jaeger.Grenade1"		"<clr:198,226,255><B>Jaeger:<B> Granát!"
 
-		"[english]jaeger.AlienTooClose0"		"<clr:198,226,255><B>Jaeger:<B> Get it off!"
-		"jaeger.AlienTooClose0"		"<clr:198,226,255><B>Jaeger:<B> Get it off!"
+"[english]jaeger.AlienTooClose0"		"<clr:198,226,255><B>Jaeger:<B> Get it off!"
+"jaeger.AlienTooClose0"		"<clr:198,226,255><B>Jaeger:<B> Sundejte to!"
 
-		"[english]jaeger.AlienTooClose1"		"<clr:198,226,255><B>Jaeger:<B> Hostile on me!"
-		"jaeger.AlienTooClose1"		"<clr:198,226,255><B>Jaeger:<B> Hostile on me!"
+"[english]jaeger.AlienTooClose1"		"<clr:198,226,255><B>Jaeger:<B> Hostile on me!"
+"jaeger.AlienTooClose1"		"<clr:198,226,255><B>Jaeger:<B> Nepřítel u mě!"
 
-		"[english]jaeger.AlienTooClose2"		"<clr:198,226,255><B>Jaeger:<B> Kill it!"
-		"jaeger.AlienTooClose2"		"<clr:198,226,255><B>Jaeger:<B> Kill it!"
+"[english]jaeger.AlienTooClose2"		"<clr:198,226,255><B>Jaeger:<B> Kill it!"
+"jaeger.AlienTooClose2"		"<clr:198,226,255><B>Jaeger:<B> Zabte to!"
 
-		"[english]jaeger.AlienTooClose3"		"<clr:198,226,255><B>Jaeger:<B> On me!"
-		"jaeger.AlienTooClose3"		"<clr:198,226,255><B>Jaeger:<B> On me!"
+"[english]jaeger.AlienTooClose3"		"<clr:198,226,255><B>Jaeger:<B> On me!"
+"jaeger.AlienTooClose3"		"<clr:198,226,255><B>Jaeger:<B> U mě!"
 
-		"[english]jaeger.MadFiring0"		"<clr:198,226,255><B>Jaeger:<B> Come and get some!"
-		"jaeger.MadFiring0"		"<clr:198,226,255><B>Jaeger:<B> Come and get some!"
+"[english]jaeger.MadFiring0"		"<clr:198,226,255><B>Jaeger:<B> Come and get some!"
+"jaeger.MadFiring0"		"<clr:198,226,255><B>Jaeger:<B> Pojď si pro něco!"
 
-		"[english]jaeger.MadFiring1"		"<clr:198,226,255><B>Jaeger:<B> <I>Stirb, Bastard!"
-		"jaeger.MadFiring1"		"<clr:198,226,255><B>Jaeger:<B> <I>Stirb, Bastard!"
+"[english]jaeger.MadFiring1"		"<clr:198,226,255><B>Jaeger:<B> <I>Stirb, Bastard!"
+"jaeger.MadFiring1"		"<clr:198,226,255><B>Jaeger:<B> <I>Zemři, parchante!"
 
-		"[english]jaeger.MadFiring2"		"<clr:198,226,255><B>Jaeger:<B> <I>Euch mach ich kalt!"
-		"jaeger.MadFiring2"		"<clr:198,226,255><B>Jaeger:<B> <I>Euch mach ich kalt!"
+"[english]jaeger.MadFiring2"		"<clr:198,226,255><B>Jaeger:<B> <I>Euch mach ich kalt!"
+"jaeger.MadFiring2"		"<clr:198,226,255><B>Jaeger:<B> <I>Zabiju vás!"
 
-		"[english]jaeger.MadFiring3"		"<clr:198,226,255><B>Jaeger:<B> Rock and roll!"
-		"jaeger.MadFiring3"		"<clr:198,226,255><B>Jaeger:<B> Rock and roll!"
+"[english]jaeger.MadFiring3"		"<clr:198,226,255><B>Jaeger:<B> Rock and roll!"
+"jaeger.MadFiring3"		"<clr:198,226,255><B>Jaeger:<B> Rock and roll!"
 
-		"[english]jaeger.MadFiring4"		"<clr:198,226,255><B>Jaeger:<B> You want some?"
-		"jaeger.MadFiring4"		"<clr:198,226,255><B>Jaeger:<B> You want some?"
+"[english]jaeger.MadFiring4"		"<clr:198,226,255><B>Jaeger:<B> You want some?"
+"jaeger.MadFiring4"		"<clr:198,226,255><B>Jaeger:<B> Dáš si taky?"
 
-		"[english]jaeger.BreachedDoor0"		"<clr:198,226,255><B>Jaeger:<B> Look out!"
-		"jaeger.BreachedDoor0"		"<clr:198,226,255><B>Jaeger:<B> Look out!"
+"[english]jaeger.BreachedDoor0"		"<clr:198,226,255><B>Jaeger:<B> Look out!"
+"jaeger.BreachedDoor0"		"<clr:198,226,255><B>Jaeger:<B> Pozor!"
 
-		"[english]jaeger.BreachedDoor1"		"<clr:198,226,255><B>Jaeger:<B> They're through!"
-		"jaeger.BreachedDoor1"		"<clr:198,226,255><B>Jaeger:<B> They're through!"
+"[english]jaeger.BreachedDoor1"		"<clr:198,226,255><B>Jaeger:<B> They're through!"
+"jaeger.BreachedDoor1"		"<clr:198,226,255><B>Jaeger:<B> Dostali se skrz!"
 
-		"[english]jaeger.BreachedDoor2"		"<clr:198,226,255><B>Jaeger:<B> They've breached!"
-		"jaeger.BreachedDoor2"		"<clr:198,226,255><B>Jaeger:<B> They've breached!"
+"[english]jaeger.BreachedDoor2"		"<clr:198,226,255><B>Jaeger:<B> They've breached!"
+"jaeger.BreachedDoor2"		"<clr:198,226,255><B>Jaeger:<B> Prorazili je!"
 
-		"[english]jaeger.MarineDown0"		"<clr:198,226,255><B>Jaeger:<B> Marine down!"
-		"jaeger.MarineDown0"		"<clr:198,226,255><B>Jaeger:<B> Marine down!"
+"[english]jaeger.MarineDown0"		"<clr:198,226,255><B>Jaeger:<B> Marine down!"
+"jaeger.MarineDown0"		"<clr:198,226,255><B>Jaeger:<B> Padl mariňák!"
 
-		"[english]jaeger.SmallPain0"		"<clr:198,226,255><B>Jaeger:<B> [Pain]"
-		"jaeger.SmallPain0"		"<clr:198,226,255><B>Jaeger:<B> [Pain]"
+"[english]jaeger.SmallPain0"		"<clr:198,226,255><B>Jaeger:<B> [Pain]"
+"jaeger.SmallPain0"		"<clr:198,226,255><B>Jaeger:<B> [Bolest]"
 
-		"[english]jaeger.SmallPain1"		"<clr:198,226,255><B>Jaeger:<B> [Pain]"
-		"jaeger.SmallPain1"		"<clr:198,226,255><B>Jaeger:<B> [Pain]"
+"[english]jaeger.SmallPain1"		"<clr:198,226,255><B>Jaeger:<B> [Pain]"
+"jaeger.SmallPain1"		"<clr:198,226,255><B>Jaeger:<B> [Boest]"
 
-		"[english]jaeger.SmallPain2"		"<clr:198,226,255><B>Jaeger:<B> [Pain]"
-		"jaeger.SmallPain2"		"<clr:198,226,255><B>Jaeger:<B> [Pain]"
+"[english]jaeger.SmallPain2"		"<clr:198,226,255><B>Jaeger:<B> [Pain]"
+"jaeger.SmallPain2"		"<clr:198,226,255><B>Jaeger:<B> [Bolest]"
 
-		"[english]jaeger.LargePain0"		"<clr:198,226,255><B>Jaeger:<B> [Pain]"
-		"jaeger.LargePain0"		"<clr:198,226,255><B>Jaeger:<B> [Pain]"
+"[english]jaeger.LargePain0"		"<clr:198,226,255><B>Jaeger:<B> [Pain]"
+"jaeger.LargePain0"		"<clr:198,226,255><B>Jaeger:<B> [Bolest]"
 
-		"[english]jaeger.LargePain1"		"<clr:198,226,255><B>Jaeger:<B> [Pain]"
-		"jaeger.LargePain1"		"<clr:198,226,255><B>Jaeger:<B> [Pain]"
+"[english]jaeger.LargePain1"		"<clr:198,226,255><B>Jaeger:<B> [Pain]"
+"jaeger.LargePain1"		"<clr:198,226,255><B>Jaeger:<B> [Bolest]"
 
-		"[english]jaeger.Dead0"		"<clr:198,226,255><B>Jaeger:<B> [Death]"
-		"jaeger.Dead0"		"<clr:198,226,255><B>Jaeger:<B> [Death]"
+"[english]jaeger.Dead0"		"<clr:198,226,255><B>Jaeger:<B> [Death]"
+"jaeger.Dead0"		"<clr:198,226,255><B>Jaeger:<B> [Smrt]"
 
-		"[english]jaeger.Dead1"		"<clr:198,226,255><B>Jaeger:<B> [Death]"
-		"jaeger.Dead1"		"<clr:198,226,255><B>Jaeger:<B> [Death]"
+"[english]jaeger.Dead1"		"<clr:198,226,255><B>Jaeger:<B> [Death]"
+"jaeger.Dead1"		"<clr:198,226,255><B>Jaeger:<B> [Smrt]"
 
-		"[english]jaeger.OnFire0"		"<clr:198,226,255><B>Jaeger:<B> [Pain]"
-		"jaeger.OnFire0"		"<clr:198,226,255><B>Jaeger:<B> [Pain]"
+"[english]jaeger.OnFire0"		"<clr:198,226,255><B>Jaeger:<B> [Pain]"
+"jaeger.OnFire0"		"<clr:198,226,255><B>Jaeger:<B> [Křik]"
 
-		"[english]jaeger.OnFire1"		"<clr:198,226,255><B>Jaeger:<B> [Pain]"
-		"jaeger.OnFire1"		"<clr:198,226,255><B>Jaeger:<B> [Pain]"
+"[english]jaeger.OnFire1"		"<clr:198,226,255><B>Jaeger:<B> [Pain]"
+"jaeger.OnFire1"		"<clr:198,226,255><B>Jaeger:<B> [Křik]"
 
-		"[english]jaeger.MineDeployed0"		"<clr:198,226,255><B>Jaeger:<B> Incendiary mine deployed!"
-		"jaeger.MineDeployed0"		"<clr:198,226,255><B>Jaeger:<B> Incendiary mine deployed!"
+"[english]jaeger.MineDeployed0"		"<clr:198,226,255><B>Jaeger:<B> Incendiary mine deployed!"
+"jaeger.MineDeployed0"		"<clr:198,226,255><B>Jaeger:<B> Zápalná mina položena!"
 
-		"[english]jaeger.MineDeployed1"		"<clr:198,226,255><B>Jaeger:<B> Mine deployed!"
-		"jaeger.MineDeployed1"		"<clr:198,226,255><B>Jaeger:<B> Mine deployed!"
+"[english]jaeger.MineDeployed1"		"<clr:198,226,255><B>Jaeger:<B> Mine deployed!"
+"jaeger.MineDeployed1"		"<clr:198,226,255><B>Jaeger:<B> Mina položena!"
 
-		"[english]jaeger.MineDeployed2"		"<clr:198,226,255><B>Jaeger:<B> Mine in place!"
-		"jaeger.MineDeployed2"		"<clr:198,226,255><B>Jaeger:<B> Mine in place!"
+"[english]jaeger.MineDeployed2"		"<clr:198,226,255><B>Jaeger:<B> Mine in place!"
+"jaeger.MineDeployed2"		"<clr:198,226,255><B>Jaeger:<B> Mina na místě!"
 
-		"[english]jaeger.MineDeployed3"		"<clr:198,226,255><B>Jaeger:<B> Watch it! Mine!"
-		"jaeger.MineDeployed3"		"<clr:198,226,255><B>Jaeger:<B> Watch it! Mine!"
+"[english]jaeger.MineDeployed3"		"<clr:198,226,255><B>Jaeger:<B> Watch it! Mine!"
+"jaeger.MineDeployed3"		"<clr:198,226,255><B>Jaeger:<B> Pozor! Mina!"
 
-		"[english]jaeger.ActivateStims0"		"<clr:198,226,255><B>Jaeger:<B> Hit the stims!"
-		"jaeger.ActivateStims0"		"<clr:198,226,255><B>Jaeger:<B> Hit the stims!"
+"[english]jaeger.ActivateStims0"		"<clr:198,226,255><B>Jaeger:<B> Hit the stims!"
+"jaeger.ActivateStims0"		"<clr:198,226,255><B>Jaeger:<B> Dávejte stimulanty!"
 
-		"[english]jaeger.ActivateStims1"		"<clr:198,226,255><B>Jaeger:<B> Stim now!"
-		"jaeger.ActivateStims1"		"<clr:198,226,255><B>Jaeger:<B> Stim now!"
+"[english]jaeger.ActivateStims1"		"<clr:198,226,255><B>Jaeger:<B> Stim now!"
+"jaeger.ActivateStims1"		"<clr:198,226,255><B>Jaeger:<B> Stimulanty, teď!"
 
-		"[english]jaeger.ComplimentsSarge0"		"<clr:198,226,255><B>Jaeger:<B> Ha! Good kill, Conrad!"
-		"jaeger.ComplimentsSarge0"		"<clr:198,226,255><B>Jaeger:<B> Ha! Good kill, Conrad!"
+"[english]jaeger.ComplimentsSarge0"		"<clr:198,226,255><B>Jaeger:<B> Ha! Good kill, Conrad!"
+"jaeger.ComplimentsSarge0"		"<clr:198,226,255><B>Jaeger:<B> Ha! Dobrý zásah, Conrade!"
 
-		"[english]jaeger.Selection0"		"<clr:198,226,255><B>Jaeger:<B> Good to go."
-		"jaeger.Selection0"		"<clr:198,226,255><B>Jaeger:<B> Good to go."
+"[english]jaeger.Selection0"		"<clr:198,226,255><B>Jaeger:<B> Good to go."
+"jaeger.Selection0"		"<clr:198,226,255><B>Jaeger:<B> Připraven."
 
-		"[english]jaeger.Selection1"		"<clr:198,226,255><B>Jaeger:<B> Jaeger here."
-		"jaeger.Selection1"		"<clr:198,226,255><B>Jaeger:<B> Jaeger here."
+"[english]jaeger.Selection1"		"<clr:198,226,255><B>Jaeger:<B> Jaeger here."
+"jaeger.Selection1"		"<clr:198,226,255><B>Jaeger:<B> Jaeger zde."
 
 		// Sarge
 
