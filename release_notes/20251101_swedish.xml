@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<content><string id="body">[h2]Highlights[/h2]
+[list]
+[*]Lade till en bakgrundsbild på huvudmenyn med SynTek Residential-tema.
+[*]Kameraflödena som visas bakom briefingen är mindre statiska och mindre störande.
+[*]Många vapen är nu mer träffsäkra när man hukar sig.[expand type=details][list][*]22A3-1 Automatgevär
+[*]22A4-2 Stridsgevär
+[*]22A7-Z Prototyp Automatgevär
+[*]50CMG4-1
+[*]K80 Personliga Försvarsvapen
+[*]M42 Vindicator
+[*]S23A SynTek Automatvapen
+[*]Model 35 Pump-action Hagelgevär[/list][/expand]
+[/list]
+
+[h2]Uppdragsförbättringar[/h2]
+[list]
+[*][b]Deima Yt-bro:[/b] Fixade några drönarspawn-platser på bron som resulterade i att utomjordingar fastnade.
+[*][b]Deima Yt-bro:[/b] Förbättrad anstormingsspawns runt slutet av bron.
+[*][b]Tårar för Tarnor: Övergivna Underhållstunnlar:[/b] Fixade problemet med att utomjordingar fastnade runt lasern.
+[*][b]Tårar för Tarnor: Oasis Koloni Rymdhamn:[/b] Fixade en xenomit-spawnplats i kontrollrummet som inte fungerade.
+[*][b]Tilarus-5: Arktisk Infiltration:[/b] Åtgärdade vilseledande kollisioner runt den första luftslussen.
+[*][b]Paranoia: Hög Spänning:[/b] Åtgärdade vissa fall av markflimmer.
+[*][b]Nam Humanum: Platform XVII:[/b] Fixade anstormingsutomjordingar som spawnade i luften längs plattformsspåret.
+[*][b]Nam Humanum: Markarbetes Labbet:[/b] Fixade problemet med att marinsoldater fastnade i början efter de första åtta (i speciella spellägen med fler än åtta marinsoldater).
+[*][b]Nam Humanum: Markarbetes Labbet:[/b] Åtgärdade ett prestandaproblem när man närmade sig det centrala området i flerspelarläge.
+[*][b]Reducering: Förfallna Staden:[/b] Fixade en brand nära några ägg i slutet av uppdraget som var väldigt långsam att antända.
+[/list]</string><string id="subtitle"></string><string id="summary"></string><string id="title">AS:RD Uppdatering - 1st november, 2025 "Spiral av eld"</string></content>
