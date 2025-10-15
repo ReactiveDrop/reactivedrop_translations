@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<content><string id="body">[h2]Najważniejsze zmiany[/h2]
+[list]
+[*]Dodano nowe tło głównego menu w stylu SynTek Residential.
+[*]Podglądy z kamer widoczne za ekranem odprawy mają teraz mniej zakłóceń i są mniej rozpraszające.
+[*]Wiele broni jest teraz celniejszych w pozycji kucającej.[expand type=details][list][*]22A3-1 Assault Rifle
+[*]22A4-2 Combat Rifle
+[*]22A7-Z Prototype Assault Rifle
+[*]50CMG4-1
+[*]K80 Personal Defense Weapon
+[*]M42 Vindicator
+[*]S23A SynTek Autogun
+[*]Model 35 Pump-action Shotgun[/list][/expand]
+[/list]
+
+[h2]Usprawnienia misji[/h2]
+[list]
+[*][b]Deima Surface Bridge:[/b] Naprawiono niektóre punkty odradzania dronów na moście, które powodowały, że obcy się blokowali.
+[*][b]Deima Surface Bridge:[/b] Ulepszono generowanie fal Onslaught w okolicy końca mostu.
+[*][b]Tears for Tarnor: Abandoned Maintenance Tunnels:[/b] Naprawiono problem, w którym obcy mogli utknąć w pobliżu lasera.
+[*][b]Tears for Tarnor: Oasis Colony Spaceport:[/b] Naprawiono nieaktywny punkt odradzania ksenomitów w pomieszczeniu kontrolnym.
+[*][b]Tilarus-5: Arctic Infiltration:[/b] Naprawiono błędne kolizje w rejonie pierwszej śluzy powietrznej.
+[*][b]Paranoia: High Tension:[/b] Naprawiono migotanie powierzchni terenu w niektórych miejscach.
+[*][b]Nam Humanum: Platform XVII:[/b] Naprawiono błąd powodujący, że hordy obcych pojawiały się w powietrzu nad torami platformy.
+[*][b]Nam Humanum: Groundwork Labs:[/b] Naprawiono problem, w którym marines powyżej pierwszej ósemki (w trybach gry obsługujących więcej niż ośmiu graczy) mogli utknąć na początku misji.
+[*][b]Nam Humanum: Groundwork Labs:[/b] Naprawiono spadki wydajności w trybie wieloosobowym w okolicy centralnego obszaru.
+[*][b]Reduction: Fallen City:[/b] Naprawiono ogień przy jajach roju na końcu misji, który zapalał się z opóźnieniem.
+[/list]</string><string id="subtitle"></string><string id="summary"></string><string id="title">Aktualizacja AS:RD – 1 listopada 2025 „Cone of Fire”</string></content>
