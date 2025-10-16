@@ -92,7 +92,7 @@
 		"[english]StatsWeb_ProfileNoStatsBefore"		"Unfortunately, "
 		"StatsWeb_ProfileNoStatsBefore"		"Malheureusement, "
 		"[english]StatsWeb_ProfileNoStatsAfter"		" has not played Alien Swarm: Reactive Drop, so no stats are available."
-		"StatsWeb_ProfileNoStatsAfter"		" il n'a pas joué à Alien Swarm: Reactive Drop, donc aucune statistique n'est disponible."
+		"StatsWeb_ProfileNoStatsAfter"		" n'a pas joué à Alien Swarm: Reactive Drop, donc aucune statistique n'est disponible."
 "[english]StatsWeb_ProfileNoStatsOptOutBefore"		""
 "StatsWeb_ProfileNoStatsOptOutBefore"		""
 		"[english]StatsWeb_ProfileNoStatsOptOutAfter"		" has requested that their personal stats not be shown on this page."
