@@ -87,7 +87,7 @@
 		"StatsWeb_WorkshopStatsLifetimeSubscriptions"		"nombre de souscription au Workshop"
 		"[english]StatsWeb_ProfileNoStatsTitle"		"No Stats"
 		"StatsWeb_ProfileNoStatsTitle"		"Aucune Stats"
-"[english]StatsWeb_ProfileNoStatsDesc"		"No stats available for %s."
+		"[english]StatsWeb_ProfileNoStatsDesc"		"No stats available for %s."
 		"StatsWeb_ProfileNoStatsDesc"		"Aucune Stats disponible pour %s"
 		"[english]StatsWeb_ProfileNoStatsBefore"		"Unfortunately, "
 		"StatsWeb_ProfileNoStatsBefore"		"Malheureusement, "
