@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<content>
+  <string id="body">
+    [h2]À la une[/h2]
+    [list]
+    [*]Ajout d’un fond de menu principal sur le thème de **SynTek Résidentiel**.
+    [*]Les flux de caméras affichés derrière le briefing contiennent désormais moins de parasites et sont moins distrayants.
+    [*]De nombreuses armes sont désormais plus précises en position accroupie.[expand type=details][list]
+      [*]Fusil d’assaut 22A3-1
+      [*]Fusil de combat 22A4-2
+      [*]Prototype de fusil d’assaut 22A7-Z
+      [*]50CMG4-1
+      [*]Arme de défense personnelle K80
+      [*]M42 Vindicator
+      [*]Autocanon SynTek S23A
+      [*]Fusil à pompe à pompe Modèle 35
+    [/list][/expand]
+    [/list]
+
+    [h2]Améliorations des missions[/h2]
+    [list]
+    [*][b]Deima Surface Bridge :[/b] Correction de certains points d’apparition de drones sur le pont qui pouvaient bloquer des aliens.
+    [*][b]Deima Surface Bridge :[/b] Amélioration des apparitions d’ennemis de type Onslaught à la fin du pont.
+    [*][b]Tears for Tarnor : Tunnels d’entretien abandonnés :[/b] Correction d’aliens bloqués près du laser.
+    [*][b]Tears for Tarnor : Spatioport de la colonie Oasis :[/b] Correction d’un point d’apparition de xénomite dans la salle de contrôle qui ne fonctionnait pas.
+    [*][b]Tilarus-5 : Infiltration arctique :[/b] Correction de collisions trompeuses près du premier sas.
+    [*][b]Paranoia : Haute tension :[/b] Correction de certains cas de scintillement du sol.
+    [*][b]Nam Humanum : Plateforme XVII :[/b] Correction d’aliens d’Onslaught apparaissant en plein air le long de la voie de la plateforme.
+    [*][b]Nam Humanum : Laboratoires Groundwork :[/b] Correction de marines supplémentaires (au-delà des huit premiers, dans les modes spéciaux) bloqués au démarrage.
+    [*][b]Nam Humanum : Laboratoires Groundwork :[/b] Correction d’un ralentissement de performance en approchant de la zone centrale en multijoueur.
+    [*][b]Reduction : Cité en ruine :[/b] Correction d’un feu près de certains œufs à la fin de la mission, qui mettait trop de temps à s’enflammer.
+    [/list]
+  </string>
+
+  <string id="subtitle"></string>
+  <string id="summary"></string>
+  <string id="title">Mise à jour AS:RD – 1er novembre 2025 « Cône de tir »</string>
+</content>
