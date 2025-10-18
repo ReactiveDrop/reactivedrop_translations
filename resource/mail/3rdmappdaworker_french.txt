@@ -1,0 +1,19 @@
+GAME
+{
+// PDA belongs to Naka
+
+// Reçu
+
+"MailFrom1":"De : Commandant"
+"MailDate1":"Date : 25/09/63"
+"MailSubject1":"Objet : Ordres"
+"MailBody1A":"Laissez tout et rejoignez la salle de conférence."
+
+// Envoyé
+
+"MailFrom3":"À : Commandant"
+"MailDate3":"Date : 25/09/63"
+"MailSubject3":"Objet : Phase 3a terminée"
+"MailBody3A":"Les cages contenant les extraterrestres expérimentaux sont en place. Dommage que les invisibles ne puissent pas se reproduire."
+"MailBody3B":"Ils devraient se réveiller très bientôt... Ces marines n'ont aucune chance contre eux."
+}
