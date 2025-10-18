@@ -791,7 +791,7 @@
 "GameUI_Trilinear"		"Trilinéaire"
 "[english]GameUI_Anisotropic2X"		"Anisotropic 2X"
 "GameUI_Anisotropic2X"		"Anisotrope 2X"
-		// Alien Swarm: Reactive Drop shows all of the filtering options in a row, so "Anisotropic" is omitted from the remaining values to save space.
+// Alien Swarm: Reactive Drop shows all of the filtering options in a row, so "Anisotropic" is omitted from the remaining values to save space.
 "[english]GameUI_Anisotropic4X"		"4X"
 "GameUI_Anisotropic4X"		"4X"
 "[english]GameUI_Anisotropic8X"		"8X"
