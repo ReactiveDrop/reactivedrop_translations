@@ -1,0 +1,25 @@
+GAME
+{
+// PDA belongs to Naka
+
+// Inbox
+
+"MailFrom1" "송신자: 알 수 없음"
+"MailDate1" "날짜: 63년 9월 25일"
+"MailSubject1" "주제: ???"
+"MailBody1A" "무슨 소리야? 그 무기들에 대해 거짓말한 건 아니지? 만약 없으면, 무기가 없어도 널 죽여버릴 거야."
+
+// Sent
+
+"MailFrom3" "수신자: 알 수 없음"
+"MailDate3" "날짜: 63년 9월 25일"
+"MailSubject3" "주제: 거의 준비됐어"
+"MailBody3A" "좋아, 거의 끝났어. 모든 무기는 해킹해서 SecNet으로 권한 안 잡혀도 돌릴 수 있어."
+"MailBody3B" "운송하는데 좀 문제가 있었어... 화염방사기가 걸렸는데, 빼낼 수 있을 것 같아."
+
+"MailFrom4" "수신자: 알 수 없음"
+"MailDate4" "날짜: 63년 9월 25일"
+"MailSubject4" "주제: 전부 취소!"
+"MailBody4A" "여기 뭔가 괴물 같은 게 있어. 직접 보진 못했지만 그림자 속에 숨어 있는 느낌이야. 절대 들어가지 마!!!"
+"MailBody4B" "난 여기서 빠져나갈거야."
+}
