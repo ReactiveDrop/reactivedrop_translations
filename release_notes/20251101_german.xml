@@ -3,15 +3,49 @@
 [list]
 [*]Ein SynTek Wohnareal thematischer Hintergrund für das Hauptmenü wurde hinzugefügt.
 [*]Die Kamerabilder, die hinter dem Einweisung angezeigt werden, haben weniger statisches Rauschen und lenken weniger ab.
-[*]Viele Waffen sind jetzt im Knien genauer.[expand type=details][list][*]22A3-1 Sturmgewehr
-[*]22A4-2 Kampfgewehr
-[*]22A7-Z Prototyp-Gewehr
-[*]50CMG4-1
-[*]K80 Persönliche Defensivwaffe
-[*]M42 Vindicator
-[*]S23A SynTek Autogun
-[*]Model 35 Schrotflinte[/list][/expand]
+[*]Viele Waffen sind jetzt im Knien genauer.
 [/list]
+
+		[h2]Weapons[/h2]
+		[i]Weapon recoil has been changed on several guns. A coding error was previously causing "flattened" recoil to work differently when aiming north or south versus east or west.[/i]
+		[list]
+		[*][b]22A3-1 Assault Rifle:[/b]
+		Normal spread: 03° (wide) × 03° (tall) → unchanged.
+		Crouch spread: 03° × 03° → 01° × 01°.
+		[*][b]22A4-2 Combat Rifle:[/b]
+		Normal spread: 03° × 03° → unchanged.
+		Crouch spread: 03° × 03° → 01° × 01°.
+		[*][b]22A5 Heavy Assault Rifle:[/b]
+		Normal spread: 15° × 03° → unchanged.
+		Crouch spread: 06° × 03° → 06° × 01°.
+		[*][b]22A7-Z Prototype Assault Rifle:[/b]
+		Normal spread: 03° × 03° → unchanged.
+		Crouch spread: 03° × 03° → 01° × 01°.
+		[*][b]50CMG4-1:[/b]
+		Normal spread: 20° × ~2.5° (broken!) → 20° × 10°.
+		Crouch spread: 20° × ~2.5° (broken!) → 10° × 05°.
+		[*][b]IAF Medical SMG:[/b]
+		Normal spread: 15° × ~2.5° (broken!) → 15° × 03°.
+		Crouch spread: 06° × ~1.5° (broken!) → 06° × 01°.
+		[*][b]IAF Minigun:[/b]
+		Normal spread: 15° × ~2.5° (broken!) → 15° × 03°.
+		Crouch spread: 06° × ~1.5° (broken!) → 06° × 01°.
+		[*][b]K80 Personal Defense Weapon:[/b]
+		Normal spread: 03° × 03° → unchanged.
+		Crouch spread: 03° × 03° → 01° × 01°.
+		[*][b]M42 Vindicator:[/b]
+		Normal spread: 22° × 22° → 22° × 12°.
+		Crouch spread: 22° × 22° → 16° × 06°.
+		[*][b]Model 35 Pump-action Shotgun:[/b]
+		Normal spread: 22° × 22° → 22° × 12°.
+		Crouch spread: 22° × 22° → 16° × 06°.
+		[*][b]PS50 Bulldog:[/b]
+		Normal spread: 15° × ~2.5° (broken!) → 15° × 03°.
+		Crouch spread: 06° × ~1.5° (broken!) → 06° × 01°.
+		[*][b]S23A SynTek Autogun:[/b]
+		Normal spread: 07° × 07° → 07° × 03°.
+		Crouch spread: 07° × 07° → 04° × 01°.
+		[/list]
 
 [h2]Verbesserungen an Einsätzen[/h2]
 [list]
