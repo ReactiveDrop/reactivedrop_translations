@@ -1,0 +1,25 @@
+GAME
+{
+// PDA belongs to Naka
+
+// Reçu
+
+"MailFrom1":"De : Inconnu"
+"MailDate1":"Date : 25/09/63"
+"MailSubject1":"Objet : ???"
+"MailBody1A":"De quoi parles‑tu ? J'espère que tu n'as pas menti au sujet de ces armes. Je te tuerai s'il n'y en a pas."
+
+// Envoyé
+
+"MailFrom3":"À : Inconnu"
+"MailDate3":"Date : 25/09/63"
+"MailSubject3":"Objet : Presque prêt"
+"MailBody3A":"Ok, j'ai presque fini. Toutes les armes sont crackées et peuvent être utilisées sans autorisation via le SecNet."
+"MailBody3B":"J'ai eu quelques problèmes pour les transporter... le lance‑flammes s'est coincé, mais je pense pouvoir le dégager."
+
+"MailFrom4":"À : Inconnu"
+"MailDate4":"Date : 25/09/63"
+"MailSubject4":"Objet : TOUT EST ANNULÉ !"
+"MailBody4A":"Il y a des sortes de monstres ici, je ne les ai pas vus, mais je les sens se cacher dans l'ombre. N'ENTREZ PAS ICI !!!"
+"MailBody4B":"Je me tire d'ici"
+}
