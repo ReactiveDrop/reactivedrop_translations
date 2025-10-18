@@ -49,14 +49,23 @@ Crouch spread: 07° × 07° → 04° × 01°.
 
 [h2]Mission Improvements[/h2]
 [list]
-[*][b]Deima Surface Bridge:[/b] Fixed some drone spawn locations on the bridge that resulted in stuck aliens.
-[*][b]Deima Surface Bridge:[/b] Improved Onslaught spawning around the end of the bridge.
+[*][b]Jacob's Rest: Cargo Elevator:[/b] Made the ceiling of the elevator slightly transparent to help with camera rotation.
+[*][b]Jacob's Rest: Cargo Elevator:[/b] Fixed some flickering on the exit door of the elevator.
+[*][b]Jacob's Rest: Deima Surface Bridge:[/b] Fixed some drone spawn locations on the bridge that resulted in stuck aliens.
+[*][b]Jacob's Rest: Deima Surface Bridge:[/b] Improved Onslaught spawning around the end of the bridge.
+[*][b]Research 7: Illyn Forest:[/b] Removed parasites from out-of-bounds eggs to improve performance.
+[*][b]Research 7: Jericho Mines:[/b] Removed parasites from out-of-bounds eggs to improve performance.
 [*][b]Tears for Tarnor: Abandoned Maintenance Tunnels:[/b] Fixed aliens getting stuck around the laser.
 [*][b]Tears for Tarnor: Oasis Colony Spaceport:[/b] Fixed a xenomite spawn location in the control room that wasn't working.
 [*][b]Tilarus-5: Arctic Infiltration:[/b] Fixed misleading collisions around the first airlock.
+[*][b]Tilarus-5: Communication Center Sweep:[/b] Fixed some rare crashes and improved visals.
+[*][b]Lana's Escape: Lana's Bridge:[/b] Fixed there sometimes not being enough hackable panels to fix the bridge.
+[*][b]Paranoia: Hostile Places:[/b] Minor visual improvements.
 [*][b]Paranoia: High Tension:[/b] Fixed some instances of the ground flickering.
+[*][b]Paranoia: Crucial Point:[/b] Reduced terrain complexity that did not affect gameplay or visuals for slightly faster load time.
 [*][b]Nam Humanum: Platform XVII:[/b] Fixed onslaught aliens spawning in midair along the platform track.
 [*][b]Nam Humanum: Groundwork Labs:[/b] Fixed marines after the first eight (in special game modes with more than eight marines) getting stuck at the start.
 [*][b]Nam Humanum: Groundwork Labs:[/b] Fixed a performance hitch when approaching the central area in multiplayer.
 [*][b]Reduction: Fallen City:[/b] Fixed a fire near some eggs at the end of the mission being very slow to ignite.
+[*][b]DM Desert:[/b] Fixed obstacles being tinted dark blue.
 [/list]</string><string id="subtitle"></string><string id="summary"></string><string id="title">AS:RD Update - November 1, 2025 "Cone of Fire"</string></content>

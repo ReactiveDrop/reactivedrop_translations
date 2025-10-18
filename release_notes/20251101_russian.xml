@@ -49,14 +49,23 @@
 
 [h2]Улучшения миссий[/h2]
 [list]
-[*][b]Мост на поверхности Дэйма:[/b] Исправлены точки появления трутней на мосту, из-за которых жуки застревали.
-[*][b]Мост на поверхности Дэйма:[/b] Улучшено появление врагов в конце моста в режиме "Облава".
+		[*][b]Jacob's Rest: Cargo Elevator:[/b] Made the ceiling of the elevator slightly transparent to help with camera rotation.
+		[*][b]Jacob's Rest: Cargo Elevator:[/b] Fixed some flickering on the exit door of the elevator.
+[*][b]«Покой Якоба»: Мост на поверхности Дэйма:[/b] Исправлены точки появления трутней на мосту, из-за которых жуки застревали.
+[*][b]«Покой Якоба»: Мост на поверхности Дэйма:[/b] Улучшено появление врагов в конце моста в режиме "Облава".
+		[*][b]Research 7: Illyn Forest:[/b] Removed parasites from out-of-bounds eggs to improve performance.
+		[*][b]Research 7: Jericho Mines:[/b] Removed parasites from out-of-bounds eggs to improve performance.
 [*][b]Слёзы по Тарнору: Заброшенные туннели:[/b] Исправлена проблема с застревающими жуками возле лазера.
 [*][b]Слёзы по Тарнору: Космопорт колонии "Оазис":[/b] Исправлены неработающие точки появления Ксеноклещей в комнате управления.
 [*][b]Тиларус-5: Проникновение в Арктику:[/b] Исправлены коллизии вокруг первого шлюза.
+		[*][b]Tilarus-5: Communication Center Sweep:[/b] Fixed some rare crashes and improved visals.
+		[*][b]Lana's Escape: Lana's Bridge:[/b] Fixed there sometimes not being enough hackable panels to fix the bridge.
+		[*][b]Paranoia: Hostile Places:[/b] Minor visual improvements.
 [*][b]Паранойя: Высокое напряжение:[/b] Исправлено мерцание поверхности в некоторых местах.
+		[*][b]Paranoia: Crucial Point:[/b] Reduced terrain complexity that did not affect gameplay or visuals for slightly faster load time.
 [*][b]Нам Гуманум: Платформа XVII:[/b] Исправлено появление жуков в воздухе вдоль платформы в режиме "Облава".
 [*][b]Нам Гуманум: Лаборатория "Фундаментальность":[/b] Исправлена проблема, когда бойцы, начиная с девятого (в специальных игровых режимах с более чем 8-ю игроками) застревали на старте.
 [*][b]Нам Гуманум: Лаборатория "Фундаментальность":[/b] Исправлено кратковременное падение производительности при приближении к центральной зоне в мультиплеере.
 [*][b]Снижение: Павший город:[/b] Исправлена чрезмерно медленная активация огня рядом с яйцами в конце миссии.
+		[*][b]DM Desert:[/b] Fixed obstacles being tinted dark blue.
 [/list]</string><string id="subtitle"></string><string id="summary"></string><string id="title">Обновление AS:RD – 1 ноября, 2025 «Сектор огня»</string></content>

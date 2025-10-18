@@ -49,14 +49,23 @@
 
 [h2]Miglioramenti alle missioni[/h2]
 [list]
-[*][b]Ponte della Superficie di Deima:[/b] risolto il problema relativo alla posizione di spawn di alcuni droni sul ponte che causava il blocco degli alieni.
-[*][b]Ponte della Superficie di Deima:[/b] migliorato lo spawn degli Onslaught nella zona terminale del ponte.
+		[*][b]Jacob's Rest: Cargo Elevator:[/b] Made the ceiling of the elevator slightly transparent to help with camera rotation.
+		[*][b]Jacob's Rest: Cargo Elevator:[/b] Fixed some flickering on the exit door of the elevator.
+[*][b]Jacob's Rest: Ponte della Superficie di Deima:[/b] risolto il problema relativo alla posizione di spawn di alcuni droni sul ponte che causava il blocco degli alieni.
+[*][b]Jacob's Rest: Ponte della Superficie di Deima:[/b] migliorato lo spawn degli Onslaught nella zona terminale del ponte.
+		[*][b]Research 7: Illyn Forest:[/b] Removed parasites from out-of-bounds eggs to improve performance.
+		[*][b]Research 7: Jericho Mines:[/b] Removed parasites from out-of-bounds eggs to improve performance.
 [*][b]Lacrime per Tarnor: Tunnel di Manutenzione Abbandonati:[/b] Risolto il blocco degli alieni intorno al laser.
 [*][b]Lacrime per Tarnor: Spazioporto della Colonia di Oasis:[/b] Risolto un punto di spawn degli xenomiti nella sala di controllo che non funzionava.
 [*][b]Tilarus-5: Infiltrazione Artica:[/b] Risolto il problema delle collisioni fuorvianti intorno alla prima camera di equilibrio.
+		[*][b]Tilarus-5: Communication Center Sweep:[/b] Fixed some rare crashes and improved visals.
+		[*][b]Lana's Escape: Lana's Bridge:[/b] Fixed there sometimes not being enough hackable panels to fix the bridge.
+		[*][b]Paranoia: Hostile Places:[/b] Minor visual improvements.
 [*][b]Paranoia: Alta Tensione:[/b] Risolti alcuni casi di sfarfallio del terreno.
+		[*][b]Paranoia: Crucial Point:[/b] Reduced terrain complexity that did not affect gameplay or visuals for slightly faster load time.
 [*][b]Nam Humanum: Platform XVII:[/b] Risolto il problema della generazione degli alieni Onslaught a mezz'aria lungo il binario della piattaforma.
 [*][b]Nam Humanum: Laboratori Groundwork:[/b] Risolto il problema che bloccava i soldati dopo i primi otto (nelle modalità di gioco speciali con più di otto soldati) all'inizio.
 [*][b]Nam Humanum: Laboratori Groundwork:[/b] Risolto un problema di prestazioni quando ci si avvicinava all'area centrale in multiplayer.
 [*][b]Reduction: Città Caduta:[/b] Risolto il problema che causava un ritardo nell'accensione di un incendio vicino ad alcune uova alla fine della missione.
+		[*][b]DM Desert:[/b] Fixed obstacles being tinted dark blue.
 [/list]</string><string id="subtitle"></string><string id="summary"></string><string id="title">Aggiornamento di AS:RD - 1 Novembre 2025 "Cone of Fire"</string></content>

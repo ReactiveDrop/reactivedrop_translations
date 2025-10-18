@@ -49,14 +49,23 @@
 
 [h2]任務改善[/h2]
 [list]
-[*][b]德馬地表橋梁:[/b] 修正部分異形在橋上的重生位置問題導致的重生堵塞。
-[*][b]德馬地表橋梁:[/b] 修正橋末端的突襲重生問題。
+		[*][b]Jacob's Rest: Cargo Elevator:[/b] Made the ceiling of the elevator slightly transparent to help with camera rotation.
+		[*][b]Jacob's Rest: Cargo Elevator:[/b] Fixed some flickering on the exit door of the elevator.
+[*][b]雅各安息地: 德馬地表橋梁:[/b] 修正部分異形在橋上的重生位置問題導致的重生堵塞。
+[*][b]雅各安息地: 德馬地表橋梁:[/b] 修正橋末端的突襲重生問題。
+		[*][b]Research 7: Illyn Forest:[/b] Removed parasites from out-of-bounds eggs to improve performance.
+		[*][b]Research 7: Jericho Mines:[/b] Removed parasites from out-of-bounds eggs to improve performance.
 [*][b]塔納星之淚: 廢棄的維修通道:[/b] 修正異形會卡在雷射附近的問題。
 [*][b]塔納星之淚: 綠洲住宅地太空港:[/b] 修正控制室的異形蟎重生點沒有正常運作的問題。
 [*][b]提拉魯斯五號星: 極寒行動:[/b] 修正第一個氣閘艙附近的物理碰撞問題。
+		[*][b]Tilarus-5: Communication Center Sweep:[/b] Fixed some rare crashes and improved visals.
+		[*][b]Lana's Escape: Lana's Bridge:[/b] Fixed there sometimes not being enough hackable panels to fix the bridge.
+		[*][b]Paranoia: Hostile Places:[/b] Minor visual improvements.
 [*][b]偏執狂: 高度警戒:[/b] 修正部分地板閃爍的問題。
+		[*][b]Paranoia: Crucial Point:[/b] Reduced terrain complexity that did not affect gameplay or visuals for slightly faster load time.
 [*][b]為了人類: 17號平台:[/b] 修正突襲異形會從半空中重生，卡在軌道上的問題。
 [*][b]為了人類: 基礎實驗室:[/b] 修正第八個玩家之後會被卡住的問題(部分模式超過八個玩家)。
 [*][b]為了人類: 基礎實驗室:[/b] 修正多人模式下，靠近中央區塊的時候會有效能不穩的情況。
 [*][b]命運多舛: 淪陷都市:[/b] 修正任務最尾端異形蛋附近的火會比較慢才點燃。
+		[*][b]DM Desert:[/b] Fixed obstacles being tinted dark blue.
 [/list]</string><string id="subtitle"></string><string id="summary"></string><string id="title">AS:RD 更新 - 11月1日 2025 "彈道擴散"</string></content>

@@ -49,14 +49,23 @@
 
 [h2]Verbesserungen an Einsätzen[/h2]
 [list]
-[*][b]Deima Brücke:[/b] Einige Drohnen-Spawn-Positionen auf der Brücke, die zu festsitzenden Aliens führten, wurden behoben.
-[*][b]Deima Brücke:[/b] Verbessertes Spawnen von Ansturm am Ende der Brücke.
+		[*][b]Jacob's Rest: Cargo Elevator:[/b] Made the ceiling of the elevator slightly transparent to help with camera rotation.
+		[*][b]Jacob's Rest: Cargo Elevator:[/b] Fixed some flickering on the exit door of the elevator.
+[*][b]Jakobsruhe: Deima Brücke:[/b] Einige Drohnen-Spawn-Positionen auf der Brücke, die zu festsitzenden Aliens führten, wurden behoben.
+[*][b]Jakobsruhe: Deima Brücke:[/b] Verbessertes Spawnen von Ansturm am Ende der Brücke.
+		[*][b]Research 7: Illyn Forest:[/b] Removed parasites from out-of-bounds eggs to improve performance.
+		[*][b]Research 7: Jericho Mines:[/b] Removed parasites from out-of-bounds eggs to improve performance.
 [*][b]Tränen für Tarnor: Verlassene Wartungstunnel:[/b] Es wurde behoben, dass Aliens um den Laser herum stecken bleiben.
 [*][b]Tränen für Tarnor: Oasis-Kolonie Raumhafen:[/b] Ein Xenomiten-Spawnpunkt im Kontrollraum, der nicht funktionierte, wurde behoben.
 [*][b]Tilarus-5: Arktische Infiltration:[/b] Irreführende Kollisionen rund um die erste Luftschleuse wurden behoben.
+		[*][b]Tilarus-5: Communication Center Sweep:[/b] Fixed some rare crashes and improved visals.
+		[*][b]Lana's Escape: Lana's Bridge:[/b] Fixed there sometimes not being enough hackable panels to fix the bridge.
+		[*][b]Paranoia: Hostile Places:[/b] Minor visual improvements.
 [*][b]Paranoia: Hochspannung:[/b] Einige Fälle, in denen der Boden flackerte, wurden behoben.
+		[*][b]Paranoia: Crucial Point:[/b] Reduced terrain complexity that did not affect gameplay or visuals for slightly faster load time.
 [*][b]Nam Humanum: Plattform XVII:[/b] Das Spawnen von Ansturm-Aliens in der Luft entlang der Plattformstrecke wurde behoben.
 [*][b]Nam Humanum: Grundstein Laboratorien:[/b] Es wurde behoben, dass Soldaten nach den ersten acht (in speziellen Spielmodi mit mehr als acht Soldaten) beim Start stecken bleiben.
 [*][b]Nam Humanum: Grundstein Laboratorien:[/b] Ein Leistungsproblem bei der Annäherung an den zentralen Bereich im Mehrspielermodus wurde behoben.
 [*][b]Reduction: Gefallene Stadt:[/b] Ein Feuer in der Nähe einiger Eier am Ende des Einsatzes entzündete sich nun sehr langsam.
+		[*][b]DM Desert:[/b] Fixed obstacles being tinted dark blue.
 [/list]</string><string id="subtitle"></string><string id="summary"></string><string id="title">AS:RD Update - 1. November 2025 "Cone of Fire"</string></content>
