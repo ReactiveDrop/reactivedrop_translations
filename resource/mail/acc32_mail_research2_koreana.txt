@@ -1,0 +1,15 @@
+GAME
+{
+// Inbox
+
+"MailBody1ImageTall" "128"
+"MailBody1ImageWide" "128"
+"MailBody1Image"	"mailpics/mailpic_acc_muongem"
+
+"MailFrom1"	"송신자: 오퍼레이션 뉴스 [로라]"
+"MailDate1"	"날짜: 32년 10월 19일"
+"MailSubject1"	"주제: 연구 보고서 2권"
+"MailBody1A"	"세상에, 더 강력한 감지기로 확인한 결과, 이 암석은 전자가 아니라 뮤온으로 이루어져 있었습니다."
+"MailBody1B"	"끔찍한 소식이에요. 우리가 생각했던 것보다 훨씬 방사능이 강할 수도 있습니다…더 정확한 계측기가 지금 개발 중이고, 안전 여부가 확인될 때까지 모두 격리되어 있습니다."
+"MailBody1C"	"로라"
+}

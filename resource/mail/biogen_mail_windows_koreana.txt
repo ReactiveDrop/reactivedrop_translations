@@ -1,0 +1,10 @@
+GAME
+{
+// PDA belongs to Isaac Lezeas (pun = Isaac Lazyass)
+
+"MailFrom1"	"송신자: 렌 루블"
+"MailDate1"	"날짜: 알 수 없음"
+"MailSubject1"	"주제: 정비실"
+"MailBody1A"	"이제 이건 더 이상 웃을 일이 아니야. 매일 유리 교체 비용 때문에 새 프로젝트 예산이 줄어들고 있어. 제대로 된 문을 만들든가, 아니면 너희 팀 급여에서 깎일 거야!"
+"MailBody1B"	"- 많은 사랑을 담아, 바이오젠 경영진"
+}
