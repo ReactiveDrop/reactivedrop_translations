@@ -7,13 +7,13 @@
 | [Danish](#non-curated-languages) | 57 | 231 | 43 | 3913 | 286 | 231 | 710 | 148 |
 | [Dutch](#non-curated-languages) | 56 | 2004 | 43 | 3382 | 286 | 231 | 710 | 147 |
 | [Finnish](#non-curated-languages) | ✔️ | 2004 | 42 | 3239 | 215 | 171 | 641 | 146 |
-| [French](#french-français) | 2 | 67 | 43 | 2527 | 285 | 231 | 650 | 126 |
+| [French](#french-français) | ✔️ | 67 | ✔️ | 2527 | 285 | ✔️ | 597 | 120 |
 | [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 1 |
 | [Hungarian](#non-curated-languages) | 56 | 138 | 43 | 3382 | 286 | 231 | 975 | 148 |
 | [Indonesian](#indonesian-indonesia) | 719 | 2004 | 635 | 4348 | 289 | 236 | 972 | 148 |
 | [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 1 |
 | [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 35 | 2 |
-| [Korean](#koreana-한국어) | ✔️ | ✔️ | ✔️ | 35 | ✔️ | ✔️ | ✔️ | 30 |
+| [Korean](#koreana-한국어) | ✔️ | ✔️ | ✔️ | 35 | ✔️ | ✔️ | ✔️ | 5 |
 | [Norwegian Bokmål](#non-curated-languages) | 74 | 708 | 48 | 4087 | 286 | 231 | 710 | 148 |
 | [Polish](#polish-polski) | 2 | 2004 | ✔️ | 3026 | 15 | 20 | 137 | 127 |
 | [European Portuguese](#portuguese-português-europeu) | 5 | 180 | 33 | 2472 | 266 | 52 | 636 | 143 |
@@ -43,7 +43,7 @@
 
 ### Upcoming Release Notes
 
-- [20251101_schinese.xml](release_notes/20251101_schinese.xml) has 40 indented lines.
+- [20251101_schinese.xml](release_notes/20251101_schinese.xml) has 49 indented lines.
 
 </details>
 
@@ -59,7 +59,7 @@
 
 ### Upcoming Release Notes
 
-- [20251101_tchinese.xml](release_notes/20251101_tchinese.xml) has 40 indented lines.
+- [20251101_tchinese.xml](release_notes/20251101_tchinese.xml) has 49 indented lines.
 
 ### Mail and News
 
@@ -385,31 +385,22 @@
 
 - [addons/ExampleAddon/reactivedrop_french.txt](addons/ExampleAddon/resource/reactivedrop_french.txt) has 39 untranslated strings.
 - [addons/RiskOfRain/reactivedrop_french.txt](addons/RiskOfRain/resource/reactivedrop_french.txt) has 95 untranslated strings.
-- [inventory_service_tags_french.vdf](community/inventory_service/inventory_service_tags_french.vdf) has 22 untranslated strings.
+- [inventory_service_tags_french.vdf](community/inventory_service/inventory_service_tags_french.vdf) has 1 untranslated strings.
 - [items_french.vdf](community/inventory_service/items_french.vdf) has 285 untranslated strings.
-- [statsweb_french.vdf](community/stats_website/statsweb_french.vdf) has 231 untranslated strings.
 - [steam_input_french.vdf](community/steam_input/steam_input_french.vdf) has 97 untranslated strings.
-- [workshop_description_french.vdf](community/workshop/workshop_description_french.vdf) has 8 untranslated strings.
 - [misc/signage/signage_french.vdf](misc/signage/signage_french.vdf) has 70 untranslated strings.
-- [platform/servers/serverbrowser_french.txt](platform/servers/serverbrowser_french.txt) has 24 untranslated strings.
 - [platform/vgui_french.txt](platform/vgui_french.txt) has 93 untranslated strings.
-- [basemodui_french.txt](resource/basemodui_french.txt) has 2 untranslated strings.
 - [closecaption_french.txt](resource/closecaption_french.txt) has 67 untranslated strings.
-- [gameui_french.txt](resource/gameui_french.txt) has 43 untranslated strings.
 - [reactivedrop_french.txt](resource/reactivedrop_french.txt) has 2527 untranslated strings.
 - [valve_french.txt](resource/valve_french.txt) has 202 untranslated strings.
 
 ### Steam Store and Community
 
-- [app_items_563560_french.json](community/points_shop/app_items_563560_english.json) is missing.
-- [workshop_tags_french.json](community/workshop/workshop_tags_english.json) is missing.
 - [content_warning_563560_french.txt](store_page/content_warning_563560_english.txt) is missing.
-- [storepage_81731_french.json](store_page/storepage_81731_french.json) has 13 indented lines.
 
 ### Upcoming Release Notes
 
-- [20251101_french.xml](release_notes/20251101_english.xml) is missing.
-- [20260206_french.xml](release_notes/20260206_english.xml) is missing.
+- [20251101_french.xml](release_notes/20251101_french.xml) has 49 indented lines.
 
 ### Credits
 
@@ -432,8 +423,6 @@
 
 ### Mail and News
 
-- [mail/3rdmappdasmugler_french.txt](resource/mail/3rdmappdasmugler_english.txt) is missing.
-- [mail/3rdmappdaworker_french.txt](resource/mail/3rdmappdaworker_english.txt) is missing.
 - [mail/acc32_mail_findings_french.txt](resource/mail/acc32_mail_findings_english.txt) is missing.
 - [mail/acc32_mail_investigations_french.txt](resource/mail/acc32_mail_investigations_english.txt) is missing.
 - [mail/acc32_mail_localhouses_french.txt](resource/mail/acc32_mail_localhouses_english.txt) is missing.
@@ -547,7 +536,7 @@
 
 ### Upcoming Release Notes
 
-- [20251101_german.xml](release_notes/20251101_german.xml) has 40 indented lines.
+- [20251101_german.xml](release_notes/20251101_german.xml) has 49 indented lines.
 
 </details>
 
@@ -745,7 +734,7 @@
 
 ### Upcoming Release Notes
 
-- [20251101_italian.xml](release_notes/20251101_italian.xml) has 40 indented lines.
+- [20251101_italian.xml](release_notes/20251101_italian.xml) has 49 indented lines.
 
 </details>
 
@@ -761,7 +750,7 @@
 
 ### Upcoming Release Notes
 
-- [20251101_japanese.xml](release_notes/20251101_japanese.xml) has 40 indented lines.
+- [20251101_japanese.xml](release_notes/20251101_japanese.xml) has 49 indented lines.
 - [20260206_japanese.xml](release_notes/20260206_english.xml) is missing.
 
 </details>
@@ -778,35 +767,10 @@
 
 ### Upcoming Release Notes
 
-- [20251101_koreana.xml](release_notes/20251101_koreana.xml) has 40 indented lines.
+- [20251101_koreana.xml](release_notes/20251101_koreana.xml) has 49 indented lines.
 
 ### Mail and News
 
-- [mail/3rdmappdasmugler_koreana.txt](resource/mail/3rdmappdasmugler_english.txt) is missing.
-- [mail/3rdmappdaworker_koreana.txt](resource/mail/3rdmappdaworker_english.txt) is missing.
-- [mail/acc32_mail_findings_koreana.txt](resource/mail/acc32_mail_findings_english.txt) is missing.
-- [mail/acc32_mail_investigations_koreana.txt](resource/mail/acc32_mail_investigations_english.txt) is missing.
-- [mail/acc32_mail_localhouses_koreana.txt](resource/mail/acc32_mail_localhouses_english.txt) is missing.
-- [mail/acc32_mail_miningops_koreana.txt](resource/mail/acc32_mail_miningops_english.txt) is missing.
-- [mail/acc32_mail_news1_koreana.txt](resource/mail/acc32_mail_news1_english.txt) is missing.
-- [mail/acc32_mail_news2_koreana.txt](resource/mail/acc32_mail_news2_english.txt) is missing.
-- [mail/acc32_mail_random1_koreana.txt](resource/mail/acc32_mail_random1_english.txt) is missing.
-- [mail/acc32_mail_random2_left_koreana.txt](resource/mail/acc32_mail_random2_left_english.txt) is missing.
-- [mail/acc32_mail_random2_no_koreana.txt](resource/mail/acc32_mail_random2_no_english.txt) is missing.
-- [mail/acc32_mail_random2_right_koreana.txt](resource/mail/acc32_mail_random2_right_english.txt) is missing.
-- [mail/acc32_mail_research1_koreana.txt](resource/mail/acc32_mail_research1_english.txt) is missing.
-- [mail/acc32_mail_research2_koreana.txt](resource/mail/acc32_mail_research2_english.txt) is missing.
-- [mail/acc32_mail_secret2_koreana.txt](resource/mail/acc32_mail_secret2_english.txt) is missing.
-- [mail/acc32_mail_solution_koreana.txt](resource/mail/acc32_mail_solution_english.txt) is missing.
-- [mail/acc_info1_koreana.txt](resource/mail/acc_info1_english.txt) is missing.
-- [mail/acc_info2_koreana.txt](resource/mail/acc_info2_english.txt) is missing.
-- [mail/acc_power1_koreana.txt](resource/mail/acc_power1_english.txt) is missing.
-- [mail/acc_power2_koreana.txt](resource/mail/acc_power2_english.txt) is missing.
-- [mail/acc_power3_koreana.txt](resource/mail/acc_power3_english.txt) is missing.
-- [mail/acc_research1_koreana.txt](resource/mail/acc_research1_english.txt) is missing.
-- [mail/acc_research2_koreana.txt](resource/mail/acc_research2_english.txt) is missing.
-- [mail/acc_research3_koreana.txt](resource/mail/acc_research3_english.txt) is missing.
-- [mail/biogen_mail_windows_koreana.txt](resource/mail/biogen_mail_windows_english.txt) is missing.
 - [mail/ma_pda1_koreana.txt](resource/mail/ma_pda1_english.txt) is missing.
 - [mail/ma_pda2_koreana.txt](resource/mail/ma_pda2_english.txt) is missing.
 - [mail/nukeangermail_koreana.txt](resource/mail/nukeangermail_english.txt) is missing.
@@ -837,7 +801,7 @@
 
 ### Upcoming Release Notes
 
-- [20251101_polish.xml](release_notes/20251101_polish.xml) has 40 indented lines.
+- [20251101_polish.xml](release_notes/20251101_polish.xml) has 49 indented lines.
 
 ### Mail and News
 
@@ -1185,7 +1149,7 @@
 
 ### Upcoming Release Notes
 
-- [20251101_russian.xml](release_notes/20251101_russian.xml) has 40 indented lines.
+- [20251101_russian.xml](release_notes/20251101_russian.xml) has 49 indented lines.
 
 </details>
 
@@ -1527,7 +1491,7 @@
 
 ### Upcoming Release Notes
 
-- [20251101_swedish.xml](release_notes/20251101_swedish.xml) has 40 indented lines.
+- [20251101_swedish.xml](release_notes/20251101_swedish.xml) has 49 indented lines.
 
 ### Mail and News
 
