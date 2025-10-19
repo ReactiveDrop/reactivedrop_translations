@@ -2,7 +2,7 @@
 | Language | basemodui | closecaption | gameui | reactivedrop | items | statsweb | Strings | Files |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 1 |
-| [Traditional Chinese](#tchinese-繁體中文) | ✔️ | ✔️ | ✔️ | 98 | ✔️ | ✔️ | ✔️ | 126 |
+| [Traditional Chinese](#tchinese-繁體中文) | ✔️ | ✔️ | ✔️ | 98 | ✔️ | ✔️ | ✔️ | 125 |
 | [Czech](#czech-čeština) | ✔️ | 983 | 43 | 4386 | 286 | 231 | 972 | 147 |
 | [Danish](#non-curated-languages) | 57 | 231 | 43 | 3913 | 286 | 231 | 710 | 148 |
 | [Dutch](#non-curated-languages) | 56 | 2004 | 43 | 3382 | 286 | 231 | 710 | 147 |
@@ -12,8 +12,8 @@
 | [Hungarian](#non-curated-languages) | 56 | 138 | 43 | 3382 | 286 | 231 | 975 | 148 |
 | [Indonesian](#indonesian-indonesia) | 719 | 2004 | 635 | 4348 | 289 | 236 | 972 | 148 |
 | [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 1 |
-| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 35 | 2 |
-| [Korean](#koreana-한국어) | ✔️ | ✔️ | ✔️ | 35 | ✔️ | ✔️ | ✔️ | 5 |
+| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 35 | 1 |
+| [Korean](#koreana-한국어) | ✔️ | ✔️ | ✔️ | 35 | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Norwegian Bokmål](#non-curated-languages) | 74 | 708 | 48 | 4087 | 286 | 231 | 710 | 148 |
 | [Polish](#polish-polski) | 2 | 2004 | ✔️ | 3026 | 15 | 20 | 137 | 127 |
 | [European Portuguese](#portuguese-português-europeu) | 5 | 180 | 33 | 2472 | 266 | 52 | 636 | 143 |
@@ -56,10 +56,6 @@
 ### Strings
 
 - [reactivedrop_tchinese.txt](resource/reactivedrop_tchinese.txt) has 98 untranslated strings.
-
-### Upcoming Release Notes
-
-- [20251101_tchinese.xml](release_notes/20251101_tchinese.xml) has 49 indented lines.
 
 ### Mail and News
 
@@ -750,7 +746,6 @@
 
 ### Upcoming Release Notes
 
-- [20251101_japanese.xml](release_notes/20251101_japanese.xml) has 49 indented lines.
 - [20260206_japanese.xml](release_notes/20260206_english.xml) is missing.
 
 </details>
@@ -764,17 +759,6 @@
 ### Strings
 
 - [reactivedrop_koreana.txt](resource/reactivedrop_koreana.txt) has 35 untranslated strings.
-
-### Upcoming Release Notes
-
-- [20251101_koreana.xml](release_notes/20251101_koreana.xml) has 49 indented lines.
-
-### Mail and News
-
-- [mail/ma_pda1_koreana.txt](resource/mail/ma_pda1_english.txt) is missing.
-- [mail/ma_pda2_koreana.txt](resource/mail/ma_pda2_english.txt) is missing.
-- [mail/nukeangermail_koreana.txt](resource/mail/nukeangermail_english.txt) is missing.
-- [mail/officemail4_koreana.txt](resource/mail/officemail4_koreana.txt) has 1 indented lines.
 
 </details>
 
@@ -801,7 +785,7 @@
 
 ### Upcoming Release Notes
 
-- [20251101_polish.xml](release_notes/20251101_polish.xml) has 49 indented lines.
+- [20251101_polish.xml](release_notes/20251101_polish.xml) has 51 indented lines.
 
 ### Mail and News
 
