@@ -3,69 +3,69 @@
 [list]
 [*]신텍 거주지 배경의 메뉴 화면에 배경 음악이 추가되었습니다.
 [*]선택 대기 배경 화면의 노이즈를 줄여 시야 방해를 최소화하였습니다.
-[*]여러 총기의 앉은 자세 시 사격 정확도가 향상되었습니다.
+[*]여러 총기류의 앉은 자세 시 사격 정확도가 향상되었습니다.
 [/list]
 
-		[h2]Weapons[/h2]
-		[i]Weapon recoil has been changed on several guns. A coding error was previously causing "flattened" recoil to work differently when aiming north or south versus east or west.[/i]
-		[list]
-		[*][b]22A3-1 Assault Rifle:[/b]
-		Normal spread: 03° (wide) × 03° (tall) → unchanged.
-		Crouch spread: 03° × 03° → 01° × 01°.
-		[*][b]22A4-2 Combat Rifle:[/b]
-		Normal spread: 03° × 03° → unchanged.
-		Crouch spread: 03° × 03° → 01° × 01°.
-		[*][b]22A5 Heavy Assault Rifle:[/b]
-		Normal spread: 15° × 03° → unchanged.
-		Crouch spread: 06° × 03° → 06° × 01°.
-		[*][b]22A7-Z Prototype Assault Rifle:[/b]
-		Normal spread: 03° × 03° → unchanged.
-		Crouch spread: 03° × 03° → 01° × 01°.
-		[*][b]50CMG4-1:[/b]
-		Normal spread: 20° × ~2.5° (broken!) → 20° × 10°.
-		Crouch spread: 20° × ~2.5° (broken!) → 10° × 05°.
-		[*][b]IAF Medical SMG:[/b]
-		Normal spread: 15° × ~2.5° (broken!) → 15° × 03°.
-		Crouch spread: 06° × ~1.5° (broken!) → 06° × 01°.
-		[*][b]IAF Minigun:[/b]
-		Normal spread: 15° × ~2.5° (broken!) → 15° × 03°.
-		Crouch spread: 06° × ~1.5° (broken!) → 06° × 01°.
-		[*][b]K80 Personal Defense Weapon:[/b]
-		Normal spread: 03° × 03° → unchanged.
-		Crouch spread: 03° × 03° → 01° × 01°.
-		[*][b]M42 Vindicator:[/b]
-		Normal spread: 22° × 22° → 22° × 12°.
-		Crouch spread: 22° × 22° → 16° × 06°.
-		[*][b]Model 35 Pump-action Shotgun:[/b]
-		Normal spread: 22° × 22° → 22° × 12°.
-		Crouch spread: 22° × 22° → 16° × 06°.
-		[*][b]PS50 Bulldog:[/b]
-		Normal spread: 15° × ~2.5° (broken!) → 15° × 03°.
-		Crouch spread: 06° × ~1.5° (broken!) → 06° × 01°.
-		[*][b]S23A SynTek Autogun:[/b]
-		Normal spread: 07° × 07° → 07° × 03°.
-		Crouch spread: 07° × 07° → 04° × 01°.
-		[/list]
+[h2]총기류[/h2]
+[i]여러 총기의 반동이 변경되었습니다. 이전에는 코드 오류로 인해 "수평" 반동이 남·북을 조준할 때와 동·서를 조준할 때 다르게 작동하고 있었습니다.[/i]
+[list]
+[*][b]22A3-1 돌격 소총:[/b]
+일반 탄 퍼짐: 03° (너비) × 03° (높이) → 변경 없음.
+앉기 시 탄 퍼짐: 03° × 03° → 01° × 01°.
+[*][b]22A4-2 전투 소총:[/b]
+일반 탄 퍼짐: 03° × 03° → 변경 없음.
+앉기 시 탄 퍼짐: 03° × 03° → 01° × 01°.
+[*][b]22A5 중형 돌격 소총:[/b]
+일반 탄 퍼짐: 15° × 03° → 변경 없음.
+앉기 시 탄 퍼짐: 06° × 03° → 06° × 01°.
+[*][b]22A7-Z 프로토타입 자동 소총:[/b]
+일반 탄 퍼짐: 03° × 03° → 변경 없음.
+앉기 시 탄 퍼짐: 03° × 03° → 01° × 01°.
+[*][b]50CMG4-1:[/b]
+일반 탄 퍼짐: 20° × ~2.5° (변경 전) → 20° × 10°.
+앉기 시 탄 퍼짐: 20° × ~2.5° (변경 전) → 10° × 05°.
+[*][b]IAF 치료용 기관단총:[/b]
+일반 탄 퍼짐: 15° × ~2.5° (변경 전) → 15° × 03°.
+앉기 시 탄 퍼짐: 06° × ~1.5° (변경 전) → 06° × 01°.
+[*][b]IAF 미니건:[/b]
+일반 탄 퍼짐: 15° × ~2.5° (변경 전) → 15° × 03°.
+앉기 시 탄 퍼짐: 06° × ~1.5° (변경 전) → 06° × 01°.
+[*][b]K80 개인 방어 화기:[/b]
+일반 탄 퍼짐: 03° × 03° → 변경 없음.
+앉기 시 탄 퍼짐: 03° × 03° → 01° × 01°.
+[*][b]M42 빈디케이터:[/b]
+일반 탄 퍼짐: 22° × 22° → 22° × 12°.
+앉기 시 탄 퍼짐: 22° × 22° → 16° × 06°.
+[*][b]모델 35 펌프-연사식 산탄총:[/b]
+일반 탄 퍼짐: 22° × 22° → 22° × 12°.
+앉기 시 탄 퍼짐: 22° × 22° → 16° × 06°.
+[*][b]PS50 불독:[/b]
+일반 탄 퍼짐: 15° × ~2.5° (변경 전) → 15° × 03°.
+앉기 시 탄 퍼짐: 06° × ~1.5° (변경 전) → 06° × 01°.
+[*][b]S23A SynTek 오토건:[/b]
+일반 탄 퍼짐: 07° × 07° → 07° × 03°.
+앉기 시 탄 퍼짐: 07° × 07° → 04° × 01°.
+[/list]
 
 [h2]임무 개선사항[/h2]
 [list]
-		[*][b]Jacob's Rest: Cargo Elevator:[/b] Made the ceiling of the elevator slightly transparent to help with camera rotation.
-		[*][b]Jacob's Rest: Cargo Elevator:[/b] Fixed some flickering on the exit door of the elevator.
+[*][b]야곱의 안식처: 화물 승강기:[/b] 승강기 천장을 약간 투명하게 만들어 카메라 회전 시 시야 확보가 더 쉽도록 개선했습니다.
+[*][b]야곱의 안식처: 화물 승강기:[/b] 승강기 출구 문에서 발생하던 깜빡임 현상을 수정했습니다.
 [*][b]야곱의 안식처: 데이마 표면교:[/b] 다리 위 일부 드론 스폰 지점에서 외계 무리가 끼이던 문제를 수정했습니다.
 [*][b]야곱의 안식처: 데이마 표면교:[/b] 다리 끝부분의 맹습 스폰 밸런스를 개선했습니다.
-		[*][b]Research 7: Illyn Forest:[/b] Removed parasites from out-of-bounds eggs to improve performance.
-		[*][b]Research 7: Jericho Mines:[/b] Removed parasites from out-of-bounds eggs to improve performance.
+[*][b]7번 연구소: 일린 숲:[/b] 성능 향상을 위해 맵 경계 밖에 있던 알 속 기생충을 제거했습니다.
+[*][b]7번 연구소: 제리코 광산:[/b] 성능 향상을 위해 맵 경계 밖에 있던 알 속 기생충을 제거했습니다.
 [*][b]타르너의 눈물: 버려진 유지관리 터널:[/b] 레이저 주변에서 외계인이 끼이던 문제를 수정했습니다.
 [*][b]타르너의 눈물: 오아시스 식민지 우주정거장:[/b] 통제실의 제노마이트 스폰 지점이 작동하지 않던 문제를 수정했습니다.
 [*][b]틸라루스-5: 북극 침입:[/b] 첫 번째 밀폐실 근처의 잘못된 충돌 판정을 수정했습니다.
-		[*][b]Tilarus-5: Communication Center Sweep:[/b] Fixed some rare crashes and improved visals.
-		[*][b]Lana's Escape: Lana's Bridge:[/b] Fixed there sometimes not being enough hackable panels to fix the bridge.
-		[*][b]Paranoia: Hostile Places:[/b] Minor visual improvements.
-[*][b]피해망상: 고조된 긴장:[/b] 일부 지면이 깜박이는 현상을 수정했습니다.
-		[*][b]Paranoia: Crucial Point:[/b] Reduced terrain complexity that did not affect gameplay or visuals for slightly faster load time.
+[*][b]틸라루스-5: 통신실:[/b] 드물게 발생하던 게임 강제 종료 문제를 수정하고 시각적 품질을 개선했습니다.
+[*][b]라나의 탈출: 라나의 교량:[/b] 교량을 복구할 수 있는 해킹 패널이 충분히 생성되지 않던 문제를 수정했습니다.
+[*][b]피해망상: 적대적 환경:[/b] 시각적 요소를 약간 개선했습니다.
+[*][b]피해망상: 고조된 긴장:[/b] 일부 지면에서 발생하던 깜박임 현상을 수정했습니다.
+[*][b]피해망상: 중대한 시점:[/b] 게임플레이나 시각적 요소에는 영향을 주지 않는 범위에서 지형의 복잡도를 줄여, 로딩 속도를 약간 향상시켰습니다.
 [*][b]남 휴머넘: 플렛폼 XVII:[/b] 플랫폼 선로 위에서 외계 무리 맹습이 스폰되던 문제를 수정했습니다.
 [*][b]남 휴머넘: 지상 작업 연구소:[/b] 8명 이상의 해병이 참여할 수 있는 특수 모드에서, 9번째 이후 해병들이 시작 지점에 끼이던 문제를 수정했습니다.
 [*][b]남 휴머넘: 지상 작업 연구소:[/b] 멀티플레이에서 중앙 지역 접근 시 발생하던 성능 지연 문제를 해결했습니다.
 [*][b]하락: 무너진 도시:[/b] 임무 마지막 부분의 알 근처 불꽃이 지나치게 늦게 점화되던 문제를 수정했습니다.
-		[*][b]DM Desert:[/b] Fixed obstacles being tinted dark blue.
+[*][b]사막 데스매치:[/b] 장애물이 짙은 파란색으로 잘못 착색되던 문제를 수정했습니다.
 [/list]</string><string id="subtitle"></string><string id="summary"></string><string id="title">AS:RD 업데이트 일자 - 2025년 11월 01일 "집속탄도"</string></content>
