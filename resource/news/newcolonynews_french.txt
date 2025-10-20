@@ -1,0 +1,8 @@
+GAME
+{
+"Headline"      "SynTek fonde une nouvelle colonie minière"
+"HeadlineDate"  "15/12/52"
+"Paragraph1"    "La mégacorporation SynTek a annoncé aujourd’hui la création d’une nouvelle colonie minière en espace profond, située aux confins de l’amas SX-2833-87P. Elle a également confirmé l’envoi immédiat d’une flotte civile de travailleurs vers la planète."
+"Paragraph2"    "Des manifestations se poursuivent devant le siège de SynTek sur l’île de Tokyo York, sur Terre, en raison des conditions de travail jugées difficiles dans les colonies et des salaires trop bas — des accusations que SynTek dément fermement."
+"Paragraph3"    "L’action SynTek a augmenté de cinq points à l’annonce de la nouvelle colonie."
+}
