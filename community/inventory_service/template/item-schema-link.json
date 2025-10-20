@@ -4,24 +4,20 @@
 	"items": [
 		{
 			"itemdefid": 2000000,
-			"type": "generator",
-			"name": "Twitch Drop Steam PvP Fest 2026 - Strange 22A3-1 Assault Rifle",
-			"bundle": "2000",
-			"tag_generators": "2000001;2000002"
+			"type": "bundle",
+			"name": "Twitch Drop Steam PvP Fest 2026 - Strange 22A3-1 Assault Rifle + Alien Kills",
+			"bundle": "2000001;5010"
 		},
 		{
 			"itemdefid": 2000001,
-			"type": "tag_generator",
-			"name": "Twitch strange device alien kills",
-			"tag_generator_name": "strange",
-			"tag_generator_values": "5010"
+			"type": "generator",
+			"name": "Strange 22A3-1 Assault Rifle (Deathmatch Kills)",
+			"bundle": "2000",
+			"tags": "strange:5011"
 		},
 		{
 			"itemdefid": 2000002,
-			"type": "tag_generator",
-			"name": "Twitch strange device deathmatch kills",
-			"tag_generator_name": "strange",
-			"tag_generator_values": "5011"
+			"name": "unused 2000002"
 		}
 	]
 }
