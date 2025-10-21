@@ -58,7 +58,7 @@
 [*][b]Tears for Tarnor: Abandoned Maintenance Tunnels:[/b] レーザー周辺でエイリアンが動けなくなっていたのを修正。
 [*][b]Tears for Tarnor: Oasis Colony Spaceport:[/b] 制御室内のゼノマイトの出現位置に機能していないものが一箇所あったのを修正。
 [*][b]Tilarus-5: Arctic Infiltration:[/b] 最初のエアロック周辺で紛らわしい衝突判定があったのを修正。
-[*][b]Tilarus-5: Communication Center Sweep:[/b] 稀に起きるクラッシュの修正と見た目の改善。
+[*][b]Tilarus-5: Communication Center:[/b] 稀に起きるクラッシュの修正と見た目の改善。
 [*][b]Lana's Escape: Lana's Bridge:[/b] 橋を修理するためのハッキング端末が足りないことがあったのを修正。
 [*][b]Paranoia: Hostile Places:[/b] 見た目を少し改善。
 [*][b]Paranoia: High Tension:[/b] 地面がチラつく場面があったのを修正。
