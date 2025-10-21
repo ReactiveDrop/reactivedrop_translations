@@ -5,66 +5,66 @@
 [*]Podglądy z kamer widoczne za ekranem odprawy mają teraz mniej zakłóceń i są mniej rozpraszające.
 [*]Wiele broni jest teraz celniejszych w pozycji kucającej.
 [/list]
-		[h2]Bronie[/h2]
-		[i]Odrzut broni został zmieniony w przypadku kilku egzemplarzy. Błąd w kodzie powodował wcześniej, że „spłaszczony” odrzut działał inaczej podczas celowania na osi północ–południe niż wschód–zachód.[/i]
-		[list]
-		[*][b]22A3-1 Assault Rifle:[/b]
-		Rozrzut stojąc: 03° (szer.) × 03° (wys.) → bez zmian.
-		Rozrzut kucając: 03° × 03° → 01° × 01°.
-		[*][b]22A4-2 Combat Rifle:[/b]
-		Rozrzut stojąc:  03° × 03° → bez zmian.
-		Rozrzut kucając: 03° × 03° → 01° × 01°.
-		[*][b]22A5 Heavy Assault Rifle:[/b]
-		Rozrzut stojąc:  15° × 03° → bez zmian.
-		Rozrzut kucając: 06° × 03° → 06° × 01°.
-		[*][b]22A7-Z Prototype Assault Rifle:[/b]
-		Rozrzut stojąc:  03° × 03° → bez zmian.
-		Rozrzut kucając: 03° × 03° → 01° × 01°.
-		[*][b]50CMG4-1:[/b]
-		Rozrzut stojąc:  20° × ~2,5° (błędny!) → 20° × 10°.
-		Rozrzut kucając: 20° × ~2,5° (błędny!) → 10° × 05°.
-		[*][b]IAF Medical SMG:[/b]
-		Rozrzut stojąc:  15° × ~2,5° (błędny!) → 15° × 03°.
-		Rozrzut kucając: 06° × ~1,5° (błędny!) → 06° × 01°.
-		[*][b]IAF Minigun:[/b]
-		Rozrzut stojąc:  15° × ~2,5° (błędny!) → 15° × 03°.
-		Rozrzut kucając: 06° × ~1,5° (błędny!) → 06° × 01°.
-		[*][b]K80 Personal Defense Weapon:[/b]
-		Rozrzut stojąc:  03° × 03° → bez zmian.
-		Rozrzut kucając: 03° × 03° → 01° × 01°.
-		[*][b]M42 Vindicator:[/b]
-		Rozrzut stojąc:  22° × 22° → 22° × 12°.
-		Rozrzut kucając: 22° × 22° → 16° × 06°.
-		[*][b]Model 35 Pump-action Shotgun:[/b]
-		Rozrzut stojąc:  22° × 22° → 22° × 12°.
-		Rozrzut kucając: 22° × 22° → 16° × 06°.
-		[*][b]PS50 Bulldog:[/b]
-		Rozrzut stojąc:  15° × ~2,5° (błędny!) → 15° × 03°.
-		Rozrzut kucając: 06° × ~1,5° (błędny!) → 06° × 01°.
-		[*][b]S23A SynTek Autogun:[/b]
-		Rozrzut stojąc:  07° × 07° → 07° × 03°.
-		Rozrzut kucając: 07° × 07° → 04° × 01°.
-		[/list]
+[h2]Bronie[/h2]
+[i]Odrzut broni został zmieniony w przypadku kilku egzemplarzy. Błąd w kodzie powodował wcześniej, że „spłaszczony” odrzut działał inaczej podczas celowania na osi północ–południe niż wschód–zachód.[/i]
+[list]
+[*][b]22A3-1 Assault Rifle:[/b]
+Rozrzut stojąc: 03° (szer.) × 03° (wys.) → bez zmian.
+Rozrzut kucając: 03° × 03° → 01° × 01°.
+[*][b]22A4-2 Combat Rifle:[/b]
+Rozrzut stojąc:  03° × 03° → bez zmian.
+Rozrzut kucając: 03° × 03° → 01° × 01°.
+[*][b]22A5 Heavy Assault Rifle:[/b]
+Rozrzut stojąc:  15° × 03° → bez zmian.
+Rozrzut kucając: 06° × 03° → 06° × 01°.
+[*][b]22A7-Z Prototype Assault Rifle:[/b]
+Rozrzut stojąc:  03° × 03° → bez zmian.
+Rozrzut kucając: 03° × 03° → 01° × 01°.
+[*][b]50CMG4-1:[/b]
+Rozrzut stojąc:  20° × ~2,5° (błędny!) → 20° × 10°.
+Rozrzut kucając: 20° × ~2,5° (błędny!) → 10° × 05°.
+[*][b]IAF Medical SMG:[/b]
+Rozrzut stojąc:  15° × ~2,5° (błędny!) → 15° × 03°.
+Rozrzut kucając: 06° × ~1,5° (błędny!) → 06° × 01°.
+[*][b]IAF Minigun:[/b]
+Rozrzut stojąc:  15° × ~2,5° (błędny!) → 15° × 03°.
+Rozrzut kucając: 06° × ~1,5° (błędny!) → 06° × 01°.
+[*][b]K80 Personal Defense Weapon:[/b]
+Rozrzut stojąc:  03° × 03° → bez zmian.
+Rozrzut kucając: 03° × 03° → 01° × 01°.
+[*][b]M42 Vindicator:[/b]
+Rozrzut stojąc:  22° × 22° → 22° × 12°.
+Rozrzut kucając: 22° × 22° → 16° × 06°.
+[*][b]Model 35 Pump-action Shotgun:[/b]
+Rozrzut stojąc:  22° × 22° → 22° × 12°.
+Rozrzut kucając: 22° × 22° → 16° × 06°.
+[*][b]PS50 Bulldog:[/b]
+Rozrzut stojąc:  15° × ~2,5° (błędny!) → 15° × 03°.
+Rozrzut kucając: 06° × ~1,5° (błędny!) → 06° × 01°.
+[*][b]S23A SynTek Autogun:[/b]
+Rozrzut stojąc:  07° × 07° → 07° × 03°.
+Rozrzut kucając: 07° × 07° → 04° × 01°.
+[/list]
 
 [h2]Usprawnienia misji[/h2]
 [list]
-		[*][b]Jacob's Rest: Cargo Elevator:[/b] Sufit windy jest teraz lekko przezroczysty, aby ułatwić obracanie kamery.
-		[*][b]Jacob's Rest: Cargo Elevator:[/b] Naprawiono migotanie na drzwiach wyjściowych windy.
+[*][b]Jacob's Rest: Cargo Elevator:[/b] Sufit windy jest teraz lekko przezroczysty, aby ułatwić obracanie kamery.
+[*][b]Jacob's Rest: Cargo Elevator:[/b] Naprawiono migotanie na drzwiach wyjściowych windy.
 [*][b]Jacob's Rest: Deima Surface Bridge:[/b] Naprawiono niektóre punkty odradzania dronów na moście, które powodowały, że obcy się blokowali.
 [*][b]Jacob's Rest: Deima Surface Bridge:[/b] Ulepszono generowanie hord obcych w okolicy końca mostu.
-		[*][b]Research 7: Illyn Forest:[/b] Usunięto pasożyty z jaj znajdujących się poza granicami mapy, aby poprawić wydajność.
-		[*][b]Research 7: Jericho Mines:[/b] Usunięto pasożyty z jaj znajdujących się poza granicami mapy, aby poprawić wydajność.
+[*][b]Research 7: Illyn Forest:[/b] Usunięto pasożyty z jaj znajdujących się poza granicami mapy, aby poprawić wydajność.
+[*][b]Research 7: Jericho Mines:[/b] Usunięto pasożyty z jaj znajdujących się poza granicami mapy, aby poprawić wydajność.
 [*][b]Tears for Tarnor: Abandoned Maintenance Tunnels:[/b] Naprawiono problem, w którym obcy mogli utknąć w pobliżu lasera.
 [*][b]Tears for Tarnor: Oasis Colony Spaceport:[/b] Naprawiono nieaktywny punkt odradzania ksenomitów w pomieszczeniu kontrolnym.
-		[*][b]Tilarus-5: Arctic Infiltration:[/b] Naprawiono błędne kolizje w rejonie pierwszej śluzy powietrznej.
-		[*][b]Tilarus-5: Communication Center:[/b] Naprawiono rzadkie awarie i poprawiono jakość wizualną.
+[*][b]Tilarus-5: Arctic Infiltration:[/b] Naprawiono błędne kolizje w rejonie pierwszej śluzy powietrznej.
+[*][b]Tilarus-5: Communication Center:[/b] Naprawiono rzadkie awarie i poprawiono jakość wizualną.
 [*][b]Lana's Escape: Lana's Bridge:[/b] Naprawiono problem, w którym czasami brakowało wystarczającej liczby paneli do zhakowania, by naprawić most.
-	[*][b]Paranoia: Hostile Places:[/b] Drobne ulepszenia wizualne.
+[*][b]Paranoia: Hostile Places:[/b] Drobne ulepszenia wizualne.
 [*][b]Paranoia: High Tension:[/b] Naprawiono migotanie powierzchni terenu w niektórych miejscach.
 [*][b]Paranoia: Crucial Point:[/b] Zredukowano złożoność terenu, co nie wpływa na rozgrywkę ani wygląd, ale nieznacznie skraca czas wczytywania.
-		[*][b]Nam Humanum: Platform XVII:[/b] Naprawiono błąd powodujący, że hordy obcych pojawiały się w powietrzu nad torami platformy.
-		[*][b]Nam Humanum: Groundwork Labs:[/b] Naprawiono problem, w którym marines powyżej pierwszej ósemki (w trybach gry obsługujących więcej niż ośmiu graczy) mogli utknąć na początku misji.
-		[*][b]Nam Humanum: Groundwork Labs:[/b] Naprawiono spadki wydajności w trybie wieloosobowym w okolicy centralnego obszaru.
+[*][b]Nam Humanum: Platform XVII:[/b] Naprawiono błąd powodujący, że hordy obcych pojawiały się w powietrzu nad torami platformy.
+[*][b]Nam Humanum: Groundwork Labs:[/b] Naprawiono problem, w którym marines powyżej pierwszej ósemki (w trybach gry obsługujących więcej niż ośmiu graczy) mogli utknąć na początku misji.
+[*][b]Nam Humanum: Groundwork Labs:[/b] Naprawiono spadki wydajności w trybie wieloosobowym w okolicy centralnego obszaru.
 [*][b]Reduction: Fallen City:[/b] Naprawiono ogień przy jajach roju na końcu misji, który zapalał się z opóźnieniem.
-		[*][b]DM Desert:[/b] Naprawiono problem, w którym przeszkody miały ciemnoniebieski odcień.
+[*][b]DM Desert:[/b] Naprawiono problem, w którym przeszkody miały ciemnoniebieski odcień.
 [/list]</string><string id="subtitle"></string><string id="summary"></string><string id="title">Aktualizacja AS:RD – 1 listopada 2025 „Cone of Fire”</string></content>
