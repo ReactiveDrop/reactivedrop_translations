@@ -1,0 +1,9 @@
+GAME
+{
+"Headline"      "Afflux de réfugiés vers la constellation S-N5"
+"HeadlineDate"  "18/12/52"
+"Paragraph1"    "Des groupes dispersés de réfugiés continuent d’arriver dans la constellation S-N5, aux confins de l’espace de Paradise. Des survivants arrivent dans le système depuis que des attaques de Swarms ont détruit plusieurs colonies indépendantes le mois dernier."
+"Paragraph2"    "On pense que les attaques proviennent des ruines d’Anhaven, mais de nombreux analystes s’inquiètent de voir les Swarms frapper si profondément à l’intérieur de l’espace de l’Alliance. « Cela pourrait être le prélude à une attaque plus vaste qui pourrait même atteindre les systèmes centraux », déclare le Dr McArthur, un analyste renommé des mouvements de Swarm."
+"Paragraph3"    "Un officier de Paradise Supplies a demandé le soutien de l’IA pour gérer l’afflux de réfugiés, mais a généreusement proposé à tous des contrats de travail au sein des colonies de Paradise."
+"Paragraph4"    ""
+}
