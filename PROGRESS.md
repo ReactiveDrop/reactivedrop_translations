@@ -7,7 +7,7 @@
 | [Danish](#non-curated-languages) | 57 | 231 | 43 | 3913 | 286 | 231 | 710 | 148 |
 | [Dutch](#non-curated-languages) | 56 | 2004 | 43 | 3382 | 286 | 231 | 710 | 147 |
 | [Finnish](#non-curated-languages) | ✔️ | 2004 | 42 | 3239 | 215 | 171 | 641 | 146 |
-| [French](#french-français) | ✔️ | 67 | ✔️ | 2527 | 285 | ✔️ | 596 | 120 |
+| [French](#french-français) | ✔️ | 67 | ✔️ | 2527 | 285 | ✔️ | 596 | 113 |
 | [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 1 |
 | [Hungarian](#non-curated-languages) | 56 | 138 | 43 | 3382 | 286 | 231 | 975 | 148 |
 | [Indonesian](#indonesian-indonesia) | 719 | 2004 | 635 | 4348 | 289 | 236 | 972 | 148 |
@@ -15,7 +15,7 @@
 | [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 35 | 1 |
 | [Korean](#koreana-한국어) | ✔️ | ✔️ | ✔️ | 35 | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Norwegian Bokmål](#non-curated-languages) | 74 | 708 | 48 | 4087 | 286 | 231 | 710 | 148 |
-| [Polish](#polish-polski) | 2 | 2004 | ✔️ | 3026 | 15 | 20 | 137 | 127 |
+| [Polish](#polish-polski) | 2 | 2004 | ✔️ | 3026 | 15 | 20 | 137 | 126 |
 | [European Portuguese](#portuguese-português-europeu) | 5 | 180 | 33 | 2472 | 266 | 52 | 636 | 143 |
 | [Brazilian Portuguese](#brazilian-português) | 1 | ✔️ | ✔️ | 997 | 28 | 23 | 4 | 4 |
 | [Romanian](#non-curated-languages) | 56 | 1996 | 49 | 4093 | 286 | 231 | 975 | 148 |
@@ -387,10 +387,6 @@
 - [reactivedrop_french.txt](resource/reactivedrop_french.txt) has 2527 untranslated strings.
 - [valve_french.txt](resource/valve_french.txt) has 202 untranslated strings.
 
-### Steam Store and Community
-
-- [content_warning_563560_french.txt](store_page/content_warning_563560_english.txt) is missing.
-
 ### Upcoming Release Notes
 
 - [20251101_french.xml](release_notes/20251101_french.xml) has 49 indented lines.
@@ -416,7 +412,6 @@
 
 ### Mail and News
 
-- [mail/acc32_mail_findings_french.txt](resource/mail/acc32_mail_findings_english.txt) is missing.
 - [mail/acc32_mail_investigations_french.txt](resource/mail/acc32_mail_investigations_english.txt) is missing.
 - [mail/acc32_mail_localhouses_french.txt](resource/mail/acc32_mail_localhouses_english.txt) is missing.
 - [mail/acc32_mail_miningops_french.txt](resource/mail/acc32_mail_miningops_english.txt) is missing.
@@ -441,7 +436,6 @@
 - [mail/biogen_mail_windows_french.txt](resource/mail/biogen_mail_windows_english.txt) is missing.
 - [mail/labsmail1_french.txt](resource/mail/labsmail1_english.txt) is missing.
 - [mail/labsmail2_french.txt](resource/mail/labsmail2_english.txt) is missing.
-- [mail/labsmail3_french.txt](resource/mail/labsmail3_english.txt) is missing.
 - [mail/labsmail4_french.txt](resource/mail/labsmail4_english.txt) is missing.
 - [mail/landingbaymail1_french.txt](resource/mail/landingbaymail1_english.txt) is missing.
 - [mail/landingbaymail2_french.txt](resource/mail/landingbaymail2_english.txt) is missing.
@@ -514,10 +508,6 @@
 - [news/droidlawsnews_french.txt](resource/news/droidlawsnews_english.txt) is missing.
 - [news/expansionnews_french.txt](resource/news/expansionnews_english.txt) is missing.
 - [news/experiornews_french.txt](resource/news/experiornews_english.txt) is missing.
-- [news/newcolonynews_french.txt](resource/news/newcolonynews_english.txt) is missing.
-- [news/rd-newfacilities_french.txt](resource/news/rd-newfacilities_english.txt) is missing.
-- [news/rd-spaceport_news1_french.txt](resource/news/rd-spaceport_news1_english.txt) is missing.
-- [news/refugeenews_french.txt](resource/news/refugeenews_english.txt) is missing.
 
 </details>
 
@@ -779,10 +769,6 @@
 ### Steam Store and Community
 
 - [storepage_81731_polish.json](store_page/storepage_81731_polish.json) has 1 indented lines.
-
-### Upcoming Release Notes
-
-- [20251101_polish.xml](release_notes/20251101_polish.xml) has 51 indented lines.
 
 ### Mail and News
 
