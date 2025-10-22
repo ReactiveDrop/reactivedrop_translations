@@ -51,6 +51,7 @@
 "examplecampaign_debrief1"		"Placez un « asw_debrief_info » pour afficher un message aux joueurs ayant terminé la mission."
 "[english]examplecampaign_debrief2"		"Debriefing text is shown between missions."
 "examplecampaign_debrief2"		"Le texte du débriefing est affiché entre les missions."
+
 "[english]examplecampaign_interactive_objects_message1"		"Interactive objects in Alien Swarm"
 "examplecampaign_interactive_objects_message1"		"Objets interactifs dans Alien Swarm"
 "[english]examplecampaign_autoopen_message"		"asw_door: auto open"
