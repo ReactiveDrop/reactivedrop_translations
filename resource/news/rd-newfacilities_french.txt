@@ -1,0 +1,9 @@
+GAME
+{
+"Headline"      "Place au neuf !"
+"HeadlineDate"  "02/02/54"
+"Paragraph1"    "Les nouveaux systèmes et installations de la colonie ont officiellement été mis en service aujourd’hui. Les colons d’Oasis n’ont plus à baisser la tête de honte : nous pouvons désormais nous enorgueillir de posséder l’une des colonies les plus modernes jamais établies par l’humanité."
+"Paragraph2"    "Les anciens systèmes avaient largement dépassé leur durée de vie, puisqu’il s’agissait encore de ceux installés lors de la fondation de la colonie. Leur remplacement arrive juste à temps pour célébrer le 23ᵉ anniversaire de l’Atterrissage sur Oasis, ce qui devrait éviter une répétition des coupures de courant qui avaient marqué les festivités de l’an dernier."
+"Paragraph3"    "Les nouveaux systèmes comprennent un centre de communication intégré, une extension des installations médicales et une refonte majeure du réseau énergétique de la colonie."
+"Paragraph4"    "Dans l’ensemble, c’est une excellente journée ici à Oasis. L’administration souhaite d’ailleurs à tous un joyeux anniversaire d’Atterrissage !"
+}

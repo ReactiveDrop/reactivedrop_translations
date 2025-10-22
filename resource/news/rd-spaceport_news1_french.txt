@@ -1,0 +1,9 @@
+GAME
+{
+"Headline"      "Explosion au spatioport !"
+"HeadlineDate"  "10/05/57"
+"Paragraph1"    "Une explosion a secoué le spatioport aux premières heures de la matinée d’hier. D’après les premiers éléments de l’enquête, un vaisseau cargo transportant des échantillons biologiques aurait subi une défaillance mécanique, provoquant l’allumage des moteurs alors que des techniciens du spatioport travaillaient dessus. Pour une raison inconnue, les dispositifs de sécurité du vaisseau ne se sont jamais activés, et les moteurs ont explosé violemment. Cinq personnes ont été grièvement blessées lors de la déflagration initiale, et de nombreuses blessures légères ont été signalées par la suite. Heureusement, aucune perte humaine n’est à déplorer."
+"Paragraph2"    "Les responsables du spatioport ont exprimé leur soutien aux blessés de l’explosion, tout en précisant que la situation aurait pu être bien pire si l’incident s’était produit plus tard dans la journée. Le capitaine du vaisseau cargo n’a pas pu être joint pour une interview."
+"Paragraph3"    "En conséquence, le hangar 4 restera fermé pour réparations pendant les prochains jours. Associé aux travaux de rénovation dans le terminal 5 ainsi que dans les hangars 7 et 8, on s’attend à d’importants retards et annulations au cours des prochaines semaines."
+"Paragraph4"    "[Extrait du journal d’actualités « L’Étoile du Matin », avec le soutien de l’administration de la colonie Oasis. Insérez une puce de crédit pour accéder à l’intégralité des articles.]"
+}

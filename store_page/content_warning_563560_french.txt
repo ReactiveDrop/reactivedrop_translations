@@ -1,0 +1,9 @@
+Le gameplay principal consiste à utiliser des armes pour éliminer des créatures aliens.
+Les aliens explosent dans un déluge de sang et de viscères lorsqu’ils sont tués.
+Des cadavres humains ensanglantés peuvent être trouvés dans certaines missions, mais il n’y a aucune représentation explicite de démembrement humain.
+Le tir allié avec des explosifs peut provoquer l’éclatement des marines en morceaux de type « gibs », au rendu volontairement cartoonesque.
+
+Des grossièretés, comme « putain de merde », sont utilisées dans les dialogues doublés.
+Un langage plus cru apparaît également dans certains contenus écrits optionnels.
+
+⚠️ Avertissement photosensibilité : certaines missions créées par la communauté utilisent des effets de lumière stroboscopique.
