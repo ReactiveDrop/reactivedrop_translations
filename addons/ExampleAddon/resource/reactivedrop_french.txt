@@ -67,6 +67,7 @@
 "examplecampaign_tech_message"		"Si vous voulez que le joueur pirate des panneaux ou ordinateurs..."
 "[english]examplecampaign_tech_message_02"		"...place an asw_tech_marine_req somewhere in your level"
 "examplecampaign_tech_message_02"		"...placez un asw_tech_marine_req quelque part dans votre niveau"
+
 "[english]examplecampaign_spawning1_message"		"Spawning aliens within player's sight"
 "examplecampaign_spawning1_message"		"Apparition d’aliens dans le champ de vision du joueur"
 "[english]examplecampaign_drone_message"		"asw_drone climbing out of hole"
