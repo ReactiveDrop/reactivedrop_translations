@@ -35,6 +35,7 @@
 "examplecampaign_mission3_desc"		"Texte d’exemple 3."
 "[english]examplecampaign_mission3_brief"		"Creating objectives in Alien Swarm. Proceed to the exit to complete the campaign."
 "examplecampaign_mission3_brief"		"Création d’objectifs dans Alien Swarm. Rejoignez la sortie pour terminer la campagne."
+
 "[english]examplecampaign_ob1_escape_title"		"Exit"
 "examplecampaign_ob1_escape_title"		"Sortie"
 "[english]examplecampaign_ob1_escape_desc"		"Get to the exit"
