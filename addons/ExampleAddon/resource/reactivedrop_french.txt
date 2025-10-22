@@ -79,6 +79,7 @@
 "examplecampaign_boomer_roll_message"		"asw_boomer roulant dans le champ de vision"
 "[english]examplecampaign_spawning2_message"		"Spawning aliens outside player's view"
 "examplecampaign_spawning2_message"		"Apparition d’aliens hors du champ de vision du joueur"
+
 "[english]examplecampaign_objectives_message"		"Objectives in Alien Swarm"
 "examplecampaign_objectives_message"		"Objectifs dans Alien Swarm"
 }
