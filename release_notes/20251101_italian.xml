@@ -6,66 +6,66 @@
 [*]Molte armi sono ora più precise quando si è accovacciati.
 [/list]
 
-		[h2]Weapons[/h2]
-		[i]Weapon recoil has been changed on several guns. A coding error was previously causing "flattened" recoil to work differently when aiming north or south versus east or west.[/i]
-		[list]
-		[*][b]22A3-1 Assault Rifle:[/b]
-		Normal spread: 03° (wide) × 03° (tall) → unchanged.
-		Crouch spread: 03° × 03° → 01° × 01°.
-		[*][b]22A4-2 Combat Rifle:[/b]
-		Normal spread: 03° × 03° → unchanged.
-		Crouch spread: 03° × 03° → 01° × 01°.
-		[*][b]22A5 Heavy Assault Rifle:[/b]
-		Normal spread: 15° × 03° → unchanged.
-		Crouch spread: 06° × 03° → 06° × 01°.
-		[*][b]22A7-Z Prototype Assault Rifle:[/b]
-		Normal spread: 03° × 03° → unchanged.
-		Crouch spread: 03° × 03° → 01° × 01°.
-		[*][b]50CMG4-1:[/b]
-		Normal spread: 20° × ~2.5° (broken!) → 20° × 10°.
-		Crouch spread: 20° × ~2.5° (broken!) → 10° × 05°.
-		[*][b]IAF Medical SMG:[/b]
-		Normal spread: 15° × ~2.5° (broken!) → 15° × 03°.
-		Crouch spread: 06° × ~1.5° (broken!) → 06° × 01°.
-		[*][b]IAF Minigun:[/b]
-		Normal spread: 15° × ~2.5° (broken!) → 15° × 03°.
-		Crouch spread: 06° × ~1.5° (broken!) → 06° × 01°.
-		[*][b]K80 Personal Defense Weapon:[/b]
-		Normal spread: 03° × 03° → unchanged.
-		Crouch spread: 03° × 03° → 01° × 01°.
-		[*][b]M42 Vindicator:[/b]
-		Normal spread: 22° × 22° → 22° × 12°.
-		Crouch spread: 22° × 22° → 16° × 06°.
-		[*][b]Model 35 Pump-action Shotgun:[/b]
-		Normal spread: 22° × 22° → 22° × 12°.
-		Crouch spread: 22° × 22° → 16° × 06°.
-		[*][b]PS50 Bulldog:[/b]
-		Normal spread: 15° × ~2.5° (broken!) → 15° × 03°.
-		Crouch spread: 06° × ~1.5° (broken!) → 06° × 01°.
-		[*][b]S23A SynTek Autogun:[/b]
-		Normal spread: 07° × 07° → 07° × 03°.
-		Crouch spread: 07° × 07° → 04° × 01°.
-		[/list]
+[h2]Armi[/h2]
+[i]Il rinculo è stato modificato su diverse armi. In precedenza, un errore di codifica causava un funzionamento diverso del rinculo “appiattito” quando si mirava a nord o a sud rispetto a quando si mirava a est o a ovest.[/i]
+[list]
+[*][b]Fucile d'Assalto 22A3-1:[/b]
+Diffusione normale: 03° (larghezza) × 03° (altezza) → invariata.
+Diffusione da accovacciato: 03° × 03° → 01° × 01°.
+[*][b]Fucile da Combattimento 22A4-2:[/b]
+Diffusione normale: 03° × 03° → invariata.
+Diffusione da accovacciato: 03° × 03° → 01° × 01°.
+[*][b]Fucile d'Assalto Pesante 22A5:[/b]
+Diffusione normale: 15° × 03° → invariata.
+Diffusione da accovacciato: 06° × 03° → 06° × 01°.
+[*][b]Fucile d'Assalto Prototipo 22A7-Z:[/b]
+Diffusione normale: 03° × 03° → invariata.
+Diffusione da accovacciato: 03° × 03° → 01° × 01°.
+[*][b]50CMG4-1:[/b]
+Diffusione normale: 20° × ~2.5° (rotta!) → 20° × 10°.
+Diffusione da accovacciato: 20° × ~2.5° (rotta!) → 10° × 05°.
+[*][b]SMG Medica IAF:[/b]
+Diffusione normale: 15° × ~2.5° (rotta!) → 15° × 03°.
+Diffusione da accovacciato: 06° × ~1.5° (rotta!) → 06° × 01°.
+[*][b]Minigun IAF:[/b]
+Diffusione normale: 15° × ~2.5° (rotta!) → 15° × 03°.
+Diffusione da accovacciato: 06° × ~1.5° (rotta!) → 06° × 01°.
+[*][b]Arma di Difesa Personale K80:[/b]
+Diffusione normale: 03° × 03° → invariata.
+Diffusione da accovacciato: 03° × 03° → 01° × 01°.
+[*][b]Vindicator M42:[/b]
+Diffusione normale: 22° × 22° → 22° × 12°.
+Diffusione da accovacciato: 22° × 22° → 16° × 06°.
+[*][b]Fucile a Pompa Modello 35:[/b]
+Diffusione normale: 22° × 22° → 22° × 12°.
+Diffusione da accovacciato: 22° × 22° → 16° × 06°.
+[*][b]PS50 Bulldog:[/b]
+Diffusione normale: 15° × ~2.5° (rotta!) → 15° × 03°.
+Diffusione da accovacciato: 06° × ~1.5° (rotta!) → 06° × 01°.
+[*][b]Autogun Syntek S23A:[/b]
+Diffusione normale: 07° × 07° → 07° × 03°.
+Diffusione da accovacciato: 07° × 07° → 04° × 01°.
+[/list]
 
 [h2]Miglioramenti alle missioni[/h2]
 [list]
-		[*][b]Jacob's Rest: Cargo Elevator:[/b] Made the ceiling of the elevator slightly transparent to help with camera rotation.
-		[*][b]Jacob's Rest: Cargo Elevator:[/b] Fixed some flickering on the exit door of the elevator.
+[*][b]Jacob's Rest: Ascensore da Carico:[/b] Reso il soffitto dell'ascensore leggermente trasparente per facilitare la rotazione della telecamera.
+[*][b]Jacob's Rest: Ascensore da Carico:[/b] Corretto un problema di sfarfallio sulla porta di uscita dell'ascensore.
 [*][b]Jacob's Rest: Ponte della Superficie di Deima:[/b] risolto il problema relativo alla posizione di spawn di alcuni droni sul ponte che causava il blocco degli alieni.
 [*][b]Jacob's Rest: Ponte della Superficie di Deima:[/b] migliorato lo spawn degli Onslaught nella zona terminale del ponte.
-		[*][b]Research 7: Illyn Forest:[/b] Removed parasites from out-of-bounds eggs to improve performance.
-		[*][b]Research 7: Jericho Mines:[/b] Removed parasites from out-of-bounds eggs to improve performance.
+[*][b]Research 7: Foresta Illyn:[/b] Rimossi i parassiti dalle uova fuori mappa per migliorare le prestazioni.
+[*][b]Research 7: Miniere Jericho:[/b] Rimossi i parassiti dalle uova fuori mappa per migliorare le prestazioni.
 [*][b]Lacrime per Tarnor: Tunnel di Manutenzione Abbandonati:[/b] Risolto il blocco degli alieni intorno al laser.
 [*][b]Lacrime per Tarnor: Spazioporto della Colonia di Oasis:[/b] Risolto un punto di spawn degli xenomiti nella sala di controllo che non funzionava.
 [*][b]Tilarus-5: Infiltrazione Artica:[/b] Risolto il problema delle collisioni fuorvianti intorno alla prima camera di equilibrio.
-		[*][b]Tilarus-5: Communication Center:[/b] Fixed some rare crashes and improved visals.
-		[*][b]Lana's Escape: Lana's Bridge:[/b] Fixed there sometimes not being enough hackable panels to fix the bridge.
-		[*][b]Paranoia: Hostile Places:[/b] Minor visual improvements.
+[*][b]Tilarus-5: Centro Comunicazioni:[/b] Corretti alcuni rari crash e migliorata la grafica.
+[*][b]Fuga di Lana: Ponte di Lana:[/b] Risolto il problema della mancanza di pannelli hackerabili sufficienti per riparare il ponte.
+[*][b]Paranoia: Luoghi Ostili:[/b] Miglioramenti visivi minori.
 [*][b]Paranoia: Alta Tensione:[/b] Risolti alcuni casi di sfarfallio del terreno.
-		[*][b]Paranoia: Crucial Point:[/b] Reduced terrain complexity that did not affect gameplay or visuals for slightly faster load time.
+[*][b]Paranoia: Punto Cruciale:[/b] Ridotta la complessità del terreno che non influisce sul gameplay o sulla grafica, per un tempo di caricamento leggermente più veloce.
 [*][b]Nam Humanum: Platform XVII:[/b] Risolto il problema della generazione degli alieni Onslaught a mezz'aria lungo il binario della piattaforma.
 [*][b]Nam Humanum: Laboratori Groundwork:[/b] Risolto il problema che bloccava i soldati dopo i primi otto (nelle modalità di gioco speciali con più di otto soldati) all'inizio.
 [*][b]Nam Humanum: Laboratori Groundwork:[/b] Risolto un problema di prestazioni quando ci si avvicinava all'area centrale in multiplayer.
 [*][b]Reduction: Città Caduta:[/b] Risolto il problema che causava un ritardo nell'accensione di un incendio vicino ad alcune uova alla fine della missione.
-		[*][b]DM Desert:[/b] Fixed obstacles being tinted dark blue.
+[*][b]DM Deserto:[/b] Corretti gli ostacoli colorati in blu scuro.
 [/list]</string><string id="subtitle"></string><string id="summary"></string><string id="title">Aggiornamento di AS:RD - 1 Novembre 2025 "Cone of Fire"</string></content>
