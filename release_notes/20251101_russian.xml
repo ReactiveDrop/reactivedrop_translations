@@ -53,19 +53,21 @@
 		[*][b]Jacob's Rest: Cargo Elevator:[/b] Fixed some flickering on the exit door of the elevator.
 [*][b]«Покой Якоба»: Мост на поверхности Дэйма:[/b] Исправлены точки появления трутней на мосту, из-за которых жуки застревали.
 [*][b]«Покой Якоба»: Мост на поверхности Дэйма:[/b] Улучшено появление врагов в конце моста в режиме "Облава".
-		[*][b]Research 7: Illyn Forest:[/b] Removed parasites from out-of-bounds eggs to improve performance.
-		[*][b]Research 7: Jericho Mines:[/b] Removed parasites from out-of-bounds eggs to improve performance.
+[*][b]Research 7: Illyn Forest:[/b] Удалены паразиты в декоративных яйцах для улучшения производительности. Улучшен поиск пути жуков около первой биомассы и исправлено застревание бойцов.
+[*][b]Research 7: Jericho Mines:[/b] Удалены паразиты в декоративных яйцах для улучшения производительности.
 [*][b]Слёзы по Тарнору: Заброшенные туннели:[/b] Исправлена проблема с застревающими жуками возле лазера.
-[*][b]Слёзы по Тарнору: Космопорт колонии "Оазис":[/b] Исправлены неработающие точки появления Ксеноклещей в комнате управления.
+		[*][b]Слёзы по Тарнору: Космопорт колонии "Оазис":[/b] Исправлены неработающие точки появления Ксеноклещей в комнате управления. Fixed harvester moving to unreachable area near map end.
 [*][b]Тиларус-5: Проникновение в Арктику:[/b] Исправлены коллизии вокруг первого шлюза.
 		[*][b]Tilarus-5: Communication Center:[/b] Fixed some rare crashes and improved visals.
-		[*][b]Lana's Escape: Lana's Bridge:[/b] Fixed there sometimes not being enough hackable panels to fix the bridge.
+		[*][b]Lana's Escape: Lana's Maintenance:[/b] Fixed there sometimes not being enough hackable panels to fix the bridge.
+		[*][b]Lana's Escape: Lana's Bridge:[/b] Minor performance improvements. Improved visuals of out-of-bounds cannon.
 		[*][b]Paranoia: Hostile Places:[/b] Minor visual improvements.
-[*][b]Паранойя: Высокое напряжение:[/b] Исправлено мерцание поверхности в некоторых местах.
+[*][b]Паранойя: Высокое напряжение:[/b] Исправлено мерцание воды в некоторых местах.
 		[*][b]Paranoia: Crucial Point:[/b] Reduced terrain complexity that did not affect gameplay or visuals for slightly faster load time.
 [*][b]Нам Гуманум: Платформа XVII:[/b] Исправлено появление жуков в воздухе вдоль платформы в режиме "Облава".
 [*][b]Нам Гуманум: Лаборатория "Фундаментальность":[/b] Исправлена проблема, когда бойцы, начиная с девятого (в специальных игровых режимах с более чем 8-ю игроками) застревали на старте.
 [*][b]Нам Гуманум: Лаборатория "Фундаментальность":[/b] Исправлено кратковременное падение производительности при приближении к центральной зоне в мультиплеере.
 [*][b]Снижение: Павший город:[/b] Исправлена чрезмерно медленная активация огня рядом с яйцами в конце миссии.
 		[*][b]DM Desert:[/b] Fixed obstacles being tinted dark blue.
+		[*][p][b]Reduced networking traffic by optimizing prop_ragdoll on the following maps:[/b][/p][list][*][p]Jacob's Rest: Landing bay[/p][/*][*][p]Jacob's Rest: Syntek Residental[/p][/*][*][p]Nam Humanum: Platform XVII[/p][/*][*][p]Paranoia: Close Contact[/p][/*][*][p]Paranoia: Crucial Point[/p][/*][*][p]Research 7: Jericho Mines[/p][/*][*][p]Tears for Tarnor: Desert Outpost[/p][/*][*][p]Tilarus-5: Arctic Infiltration[/p][/*][*][p]Tilarus-5: Syntek Hospital[/p][/*][/list][/*]
 [/list]</string><string id="subtitle"></string><string id="summary"></string><string id="title">Обновление AS:RD – 1 ноября, 2025 «Сектор огня»</string></content>

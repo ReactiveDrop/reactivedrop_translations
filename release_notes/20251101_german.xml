@@ -53,13 +53,14 @@
 		[*][b]Jacob's Rest: Cargo Elevator:[/b] Fixed some flickering on the exit door of the elevator.
 [*][b]Jakobsruhe: Deima Brücke:[/b] Einige Drohnen-Spawn-Positionen auf der Brücke, die zu festsitzenden Aliens führten, wurden behoben.
 [*][b]Jakobsruhe: Deima Brücke:[/b] Verbessertes Spawnen von Ansturm am Ende der Brücke.
-		[*][b]Research 7: Illyn Forest:[/b] Removed parasites from out-of-bounds eggs to improve performance.
+		[*][b]Research 7: Illyn Forest:[/b] Removed parasites from out-of-bounds eggs to improve performance. Improved alien navigation around first biomass. Fixed marines may get stuck there as well.
 		[*][b]Research 7: Jericho Mines:[/b] Removed parasites from out-of-bounds eggs to improve performance.
 [*][b]Tränen für Tarnor: Verlassene Wartungstunnel:[/b] Es wurde behoben, dass Aliens um den Laser herum stecken bleiben.
-[*][b]Tränen für Tarnor: Oasis-Kolonie Raumhafen:[/b] Ein Xenomiten-Spawnpunkt im Kontrollraum, der nicht funktionierte, wurde behoben.
+		[*][b]Tränen für Tarnor: Oasis-Kolonie Raumhafen:[/b] Ein Xenomiten-Spawnpunkt im Kontrollraum, der nicht funktionierte, wurde behoben. Fixed harvester moving to unreachable area near map end.
 [*][b]Tilarus-5: Arktische Infiltration:[/b] Irreführende Kollisionen rund um die erste Luftschleuse wurden behoben.
 		[*][b]Tilarus-5: Communication Center:[/b] Fixed some rare crashes and improved visals.
-		[*][b]Lana's Escape: Lana's Bridge:[/b] Fixed there sometimes not being enough hackable panels to fix the bridge.
+		[*][b]Lana's Escape: Lana's Maintenance:[/b] Fixed there sometimes not being enough hackable panels to fix the bridge.
+		[*][b]Lana's Escape: Lana's Bridge:[/b] Minor performance improvements. Improved visuals of out-of-bounds cannon.
 		[*][b]Paranoia: Hostile Places:[/b] Minor visual improvements.
 [*][b]Paranoia: Hochspannung:[/b] Einige Fälle, in denen der Boden flackerte, wurden behoben.
 		[*][b]Paranoia: Crucial Point:[/b] Reduced terrain complexity that did not affect gameplay or visuals for slightly faster load time.
@@ -68,4 +69,5 @@
 [*][b]Nam Humanum: Grundstein Laboratorien:[/b] Ein Leistungsproblem bei der Annäherung an den zentralen Bereich im Mehrspielermodus wurde behoben.
 [*][b]Reduction: Gefallene Stadt:[/b] Ein Feuer in der Nähe einiger Eier am Ende des Einsatzes entzündete sich nun sehr langsam.
 		[*][b]DM Desert:[/b] Fixed obstacles being tinted dark blue.
+		[*][p][b]Reduced networking traffic by optimizing prop_ragdoll on the following maps:[/b][/p][list][*][p]Jacob's Rest: Landing bay[/p][/*][*][p]Jacob's Rest: Syntek Residental[/p][/*][*][p]Nam Humanum: Platform XVII[/p][/*][*][p]Paranoia: Close Contact[/p][/*][*][p]Paranoia: Crucial Point[/p][/*][*][p]Research 7: Jericho Mines[/p][/*][*][p]Tears for Tarnor: Desert Outpost[/p][/*][*][p]Tilarus-5: Arctic Infiltration[/p][/*][*][p]Tilarus-5: Syntek Hospital[/p][/*][/list][/*]
 [/list]</string><string id="subtitle"></string><string id="summary"></string><string id="title">AS:RD Update - 1. November 2025 "Cone of Fire"</string></content>
