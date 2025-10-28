@@ -53,13 +53,14 @@
 [*][b]雅各安息地: 貨物輸送梯:[/b] 修正電梯出口的閃爍問題。
 [*][b]雅各安息地: 德馬地表橋梁:[/b] 修正部分異形在橋上的重生位置問題導致的重生堵塞。
 [*][b]雅各安息地: 德馬地表橋梁:[/b] 修正橋末端的突襲重生問題。
-[*][b]研究計畫7號: 伊霖森林:[/b] 移除可行走路線外的寄生蟲來改善遊戲效能。
+		[*][b]研究計畫7號: 伊霖森林:[/b] 移除可行走路線外的寄生蟲來改善遊戲效能。Improved alien navigation around first biomass. Fixed marines may get stuck there as well.
 [*][b]研究計畫7號: 耶利哥礦場:[/b] 移除可行走路線外的寄生蟲來改善遊戲效能。
 [*][b]塔納星之淚: 廢棄的維修通道:[/b] 修正異形會卡在雷射附近的問題。
-[*][b]塔納星之淚: 綠洲住宅地太空港:[/b] 修正控制室的異形蟎重生點沒有正常運作的問題。
+		[*][b]塔納星之淚: 綠洲住宅地太空港:[/b] 修正控制室的異形蟎重生點沒有正常運作的問題。Fixed harvester moving to unreachable area near map end.
 [*][b]提拉魯斯五號星: 極寒行動:[/b] 修正第一個氣閘艙附近的物理碰撞問題。
 [*][b]提拉魯斯五號星: 通訊中心:[/b] 修正閃退問題和修正部分視覺效果。
-[*][b]拉娜逃脫記:橋梁:[/b] 修正有時候不會出現足夠的駭入面板來修復橋樑。
+		[*][b]Lana's Escape: Lana's Maintenance[/b] 修正有時候不會出現足夠的駭入面板來修復橋樑。
+		[*][b]拉娜逃脫記:橋梁:[/b] Minor performance improvements. Improved visuals of out-of-bounds cannon.
 [*][b]偏執狂: 危險地帶:[/b] 視覺上的微調整。
 [*][b]偏執狂: 高度警戒:[/b] 修正部分地板閃爍的問題。
 [*][b]偏執狂: 樞紐之地:[/b] 為了更快的讀取，消除不會影響到遊玩和視覺的地形複雜度。
@@ -68,4 +69,5 @@
 [*][b]為了人類: 基礎實驗室:[/b] 修正多人模式下，靠近中央區塊的時候會有效能不穩的情況。
 [*][b]命運多舛: 淪陷都市:[/b] 修正任務最尾端異形蛋附近的火會比較慢才點燃。
 [*][b]DM 沙漠:[/b] 修正物件被染成深藍色的問題。
+		[*][p][b]Reduced networking traffic by optimizing prop_ragdoll on the following maps:[/b][/p][list][*][p]Jacob's Rest: Landing bay[/p][/*][*][p]Jacob's Rest: Syntek Residental[/p][/*][*][p]Nam Humanum: Platform XVII[/p][/*][*][p]Paranoia: Close Contact[/p][/*][*][p]Paranoia: Crucial Point[/p][/*][*][p]Research 7: Jericho Mines[/p][/*][*][p]Tears for Tarnor: Desert Outpost[/p][/*][*][p]Tilarus-5: Arctic Infiltration[/p][/*][*][p]Tilarus-5: Syntek Hospital[/p][/*][/list][/*]
 [/list]</string><string id="subtitle"></string><string id="summary"></string><string id="title">AS:RD 更新 - 11月1日 2025 "彈道擴散"</string></content>
