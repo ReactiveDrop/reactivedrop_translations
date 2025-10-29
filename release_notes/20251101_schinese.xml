@@ -53,14 +53,14 @@
 [*]修复 [b]雅各布的栖息地：货运电梯[/b] 电梯出口处的闪烁问题。
 [*]修复 [b]雅格布的栖息地: 迪马地表大桥[/b] 部分大桥上的爪虫刷新点导致异形卡住的问题。
 [*]改进 [b]雅格布的栖息地: 迪马地表大桥[/b] 猛攻刷新在大桥末端的问题。
-		[*]优化 [b]7号研究所：伊林之森[/b] 移除地图外虫卵的寄生虫以优化性能表现。Improved alien navigation around first biomass. Fixed marines may get stuck there as well.
+[*]优化 [b]7号研究所：伊林之森[/b] 移除地图外虫卵的寄生虫以优化性能表现。优化了异形在第一个生物质附近的寻路。修复了士兵可能卡住的问题。
 [*]优化 [b]7号研究所：杰里科矿区[/b] 移除地图外虫卵的寄生虫以优化性能表现。
 [*]修复 [b]塔诺尔之泪：废弃的维修通道[/b] 异形在激光附近卡住的问题。
-		[*]修复 [b]塔诺尔之泪：绿洲殖民地太空港[/b] 一处控制室内小爆虫刷新点失效的问题。Fixed harvester moving to unreachable area near map end.
+[*]修复 [b]塔诺尔之泪：绿洲殖民地太空港[/b] 一处控制室内小爆虫刷新点失效的问题。修复了收获者移动到地图边缘附近无法到达的问题。的问题。
 [*]修复 [b]蒂拉鲁斯-5：北极渗透[/b] 第一个气闸门附近误导性的碰撞箱。
 [*]修复 [b]蒂拉鲁斯-5：通信中心[/b] 修复一些罕见的崩溃问题并改善视觉效果。
-		[*]修复 [b]Lana's Escape: Lana's Maintenance[/b] 有时没有对应的面板来修复大桥的问题。
-		[*]修复 [b]拉哪的逃亡：拉哪的大桥[/b] Minor performance improvements. Improved visuals of out-of-bounds cannon.
+[*]修复 [b]拉哪的逃亡：拉哪的维修厂[/b] 有时没有对应的面板来修复大桥的问题。
+[*]优化 [b]拉哪的逃亡：拉哪的大桥[/b] 一些小的性能改进。改善了超出边界的炮台的视觉效果。
 [*]优化 [b]偏执症：敌对之地[/b] 视觉表现。
 [*]修复 [b]偏执症：高度紧张[/b] 一些地面闪烁的情况。
 [*]优化 [b]偏执症：尖峰时刻[/b] 减少地形复杂度，在不影响玩法或视觉效果的前提下缩短加载时间。
@@ -69,5 +69,5 @@
 [*]修复 [b]纳姆.霍姆纳：基础实验室[/b] 接近中央区域时的性能卡顿问题。
 [*]修复 [b]无家可归：沦陷之城[/b] 任务结束区域一些虫卵附近的火焰点燃非常缓慢的问题。
 [*]修复 [b]死斗沙漠[/b] 障碍物被染成深蓝色的问题。
-		[*][b]Reduced networking traffic by optimizing prop_ragdoll on the following maps:[/b][list][*]Jacob's Rest: Landing Bay[*]Jacob's Rest: SynTek Residental[*]Nam Humanum: Platform XVII[*]Paranoia: Close Contact[*]Paranoia: Crucial Point[*]Research 7: Jericho Mines[*]Tears for Tarnor: Insertion Point[*]Tilarus-5: Arctic Infiltration[*]Tilarus-5: Syntek Hospital[/list]
+[*]优化 [b]降低以下地图的prop_ragdoll的带宽开销：[/b][list][*]雅各布的栖息地：着陆湾[*]雅各布的栖息地：新特住宅区[*]纳姆.霍姆纳：十七号平台[*]偏执症：亲密接触[*]偏执症：尖峰时刻[*]七号研究所：杰里科矿区[*]塔诺尔之泪：介入点[*]蒂拉鲁斯-5：北极渗透[*]蒂拉鲁斯-5：新特医院[/list]
 [/list]</string><string id="subtitle"></string><string id="summary"></string><string id="title">《异形丛生：虫启天降》更新 - 2025年11月1日“弹道散布”</string></content>
