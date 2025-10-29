@@ -1129,7 +1129,7 @@
 
 ### Upcoming Release Notes
 
-- [20251101_russian.xml](release_notes/20251101_russian.xml) has 50 indented lines.
+- [20251101_russian.xml](release_notes/20251101_russian.xml) has 2 indented lines.
 
 </details>
 
