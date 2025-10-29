@@ -60,7 +60,7 @@
 [*]修复 [b]蒂拉鲁斯-5：北极渗透[/b] 第一个气闸门附近误导性的碰撞箱。
 [*]修复 [b]蒂拉鲁斯-5：通信中心[/b] 修复一些罕见的崩溃问题并改善视觉效果。
 		[*]修复 [b]Lana's Escape: Lana's Maintenance[/b] 有时没有对应的面板来修复大桥的问题。
-		[*]修复 [b]拉哪的逃亡：拉哪的大桥[/b] Minor performance improvements. Improved visuals of out-of-bounds cannon.	
+		[*]修复 [b]拉哪的逃亡：拉哪的大桥[/b] Minor performance improvements. Improved visuals of out-of-bounds cannon.
 [*]优化 [b]偏执症：敌对之地[/b] 视觉表现。
 [*]修复 [b]偏执症：高度紧张[/b] 一些地面闪烁的情况。
 [*]优化 [b]偏执症：尖峰时刻[/b] 减少地形复杂度，在不影响玩法或视觉效果的前提下缩短加载时间。
@@ -69,5 +69,5 @@
 [*]修复 [b]纳姆.霍姆纳：基础实验室[/b] 接近中央区域时的性能卡顿问题。
 [*]修复 [b]无家可归：沦陷之城[/b] 任务结束区域一些虫卵附近的火焰点燃非常缓慢的问题。
 [*]修复 [b]死斗沙漠[/b] 障碍物被染成深蓝色的问题。
-		[*][p][b]Reduced networking traffic by optimizing prop_ragdoll on the following maps:[/b][/p][list][*][p]Jacob's Rest: Landing bay[/p][/*][*][p]Jacob's Rest: Syntek Residental[/p][/*][*][p]Nam Humanum: Platform XVII[/p][/*][*][p]Paranoia: Close Contact[/p][/*][*][p]Paranoia: Crucial Point[/p][/*][*][p]Research 7: Jericho Mines[/p][/*][*][p]Tears for Tarnor: Desert Outpost[/p][/*][*][p]Tilarus-5: Arctic Infiltration[/p][/*][*][p]Tilarus-5: Syntek Hospital[/p][/*][/list][/*]
+		[*][b]Reduced networking traffic by optimizing prop_ragdoll on the following maps:[/b][list][*]Jacob's Rest: Landing Bay[*]Jacob's Rest: SynTek Residental[*]Nam Humanum: Platform XVII[*]Paranoia: Close Contact[*]Paranoia: Crucial Point[*]Research 7: Jericho Mines[*]Tears for Tarnor: Insertion Point[*]Tilarus-5: Arctic Infiltration[*]Tilarus-5: Syntek Hospital[/list]
 [/list]</string><string id="subtitle"></string><string id="summary"></string><string id="title">《异形丛生：虫启天降》更新 - 2025年11月1日“弹道散布”</string></content>

@@ -69,5 +69,5 @@
 [*][b]Нам Гуманум: Лаборатория "Фундаментальность":[/b] Исправлено кратковременное падение производительности при приближении к центральной зоне в мультиплеере.
 [*][b]Снижение: Павший город:[/b] Исправлена чрезмерно медленная активация огня рядом с яйцами в конце миссии.
 		[*][b]DM Desert:[/b] Fixed obstacles being tinted dark blue.
-		[*][p][b]Reduced networking traffic by optimizing prop_ragdoll on the following maps:[/b][/p][list][*][p]Jacob's Rest: Landing bay[/p][/*][*][p]Jacob's Rest: Syntek Residental[/p][/*][*][p]Nam Humanum: Platform XVII[/p][/*][*][p]Paranoia: Close Contact[/p][/*][*][p]Paranoia: Crucial Point[/p][/*][*][p]Research 7: Jericho Mines[/p][/*][*][p]Tears for Tarnor: Desert Outpost[/p][/*][*][p]Tilarus-5: Arctic Infiltration[/p][/*][*][p]Tilarus-5: Syntek Hospital[/p][/*][/list][/*]
+		[*][b]Reduced networking traffic by optimizing prop_ragdoll on the following maps:[/b][list][*]Jacob's Rest: Landing Bay[*]Jacob's Rest: SynTek Residental[*]Nam Humanum: Platform XVII[*]Paranoia: Close Contact[*]Paranoia: Crucial Point[*]Research 7: Jericho Mines[*]Tears for Tarnor: Insertion Point[*]Tilarus-5: Arctic Infiltration[*]Tilarus-5: Syntek Hospital[/list]
 [/list]</string><string id="subtitle"></string><string id="summary"></string><string id="title">Обновление AS:RD – 1 ноября, 2025 «Сектор огня»</string></content>
