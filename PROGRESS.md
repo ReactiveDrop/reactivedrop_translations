@@ -1,19 +1,19 @@
 # Overview
 | Language | basemodui | closecaption | gameui | reactivedrop | items | statsweb | Strings | Files |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
-| [Traditional Chinese](#tchinese-繁體中文) | ✔️ | ✔️ | ✔️ | 98 | ✔️ | ✔️ | ✔️ | 125 |
-| [Czech](#czech-čeština) | ✔️ | 983 | 43 | 4386 | 286 | 231 | 972 | 147 |
+| [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 1 |
+| [Traditional Chinese](#tchinese-繁體中文) | ✔️ | ✔️ | ✔️ | 98 | ✔️ | ✔️ | ✔️ | 126 |
+| [Czech](#czech-čeština) | ✔️ | 127 | 43 | 4386 | 286 | 231 | 972 | 147 |
 | [Danish](#non-curated-languages) | 57 | 231 | 43 | 3913 | 286 | 231 | 710 | 148 |
 | [Dutch](#non-curated-languages) | 56 | 2004 | 43 | 3382 | 286 | 231 | 710 | 147 |
 | [Finnish](#non-curated-languages) | ✔️ | 2004 | 42 | 3239 | 215 | 171 | 641 | 146 |
-| [French](#french-français) | ✔️ | 67 | ✔️ | 2527 | 285 | ✔️ | 596 | 113 |
+| [French](#french-français) | ✔️ | 67 | ✔️ | 2527 | 285 | ✔️ | 557 | 113 |
 | [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 1 |
 | [Hungarian](#non-curated-languages) | 56 | 138 | 43 | 3382 | 286 | 231 | 975 | 148 |
 | [Indonesian](#indonesian-indonesia) | 719 | 2004 | 635 | 4348 | 289 | 236 | 972 | 148 |
 | [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 1 |
 | [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 35 | 1 |
-| [Korean](#koreana-한국어) | ✔️ | ✔️ | ✔️ | 35 | ✔️ | ✔️ | ✔️ | ✔️ |
+| [Korean](#koreana-한국어) | ✔️ | ✔️ | ✔️ | 35 | ✔️ | ✔️ | ✔️ | 1 |
 | [Norwegian Bokmål](#non-curated-languages) | 74 | 708 | 48 | 4087 | 286 | 231 | 710 | 148 |
 | [Polish](#polish-polski) | 2 | 2004 | ✔️ | 3026 | 15 | 20 | 137 | 126 |
 | [European Portuguese](#portuguese-português-europeu) | 5 | 180 | 33 | 2472 | 266 | 52 | 636 | 143 |
@@ -41,7 +41,9 @@
 
 </summary>
 
-✓ Up to date!
+### Upcoming Release Notes
+
+- [20251101_schinese.xml](release_notes/20251101_schinese.xml) has 5 indented lines.
 
 </details>
 
@@ -54,6 +56,10 @@
 ### Strings
 
 - [reactivedrop_tchinese.txt](resource/reactivedrop_tchinese.txt) has 98 untranslated strings.
+
+### Upcoming Release Notes
+
+- [20251101_tchinese.xml](release_notes/20251101_tchinese.xml) has 5 indented lines.
 
 ### Mail and News
 
@@ -203,7 +209,7 @@
 - [misc/signage/signage_czech.vdf](misc/signage/signage_czech.vdf) has 70 untranslated strings.
 - [platform/servers/serverbrowser_czech.txt](platform/servers/serverbrowser_czech.txt) has 186 untranslated strings.
 - [platform/vgui_czech.txt](platform/vgui_czech.txt) has 184 untranslated strings.
-- [closecaption_czech.txt](resource/closecaption_czech.txt) has 983 untranslated strings.
+- [closecaption_czech.txt](resource/closecaption_czech.txt) has 127 untranslated strings.
 - [gameui_czech.txt](resource/gameui_czech.txt) has 43 untranslated strings.
 - [reactivedrop_czech.txt](resource/reactivedrop_czech.txt) has 4386 untranslated strings.
 - [valve_czech.txt](resource/valve_czech.txt) has 266 untranslated strings.
@@ -377,7 +383,6 @@
 
 ### Strings
 
-- [addons/ExampleAddon/reactivedrop_french.txt](addons/ExampleAddon/resource/reactivedrop_french.txt) has 39 untranslated strings.
 - [addons/RiskOfRain/reactivedrop_french.txt](addons/RiskOfRain/resource/reactivedrop_french.txt) has 95 untranslated strings.
 - [items_french.vdf](community/inventory_service/items_french.vdf) has 285 untranslated strings.
 - [steam_input_french.vdf](community/steam_input/steam_input_french.vdf) has 97 untranslated strings.
@@ -389,7 +394,7 @@
 
 ### Upcoming Release Notes
 
-- [20251101_french.xml](release_notes/20251101_french.xml) has 49 indented lines.
+- [20251101_french.xml](release_notes/20251101_french.xml) has 52 indented lines.
 
 ### Credits
 
@@ -519,7 +524,7 @@
 
 ### Upcoming Release Notes
 
-- [20251101_german.xml](release_notes/20251101_german.xml) has 49 indented lines.
+- [20251101_german.xml](release_notes/20251101_german.xml) has 52 indented lines.
 
 </details>
 
@@ -717,7 +722,7 @@
 
 ### Upcoming Release Notes
 
-- [20251101_italian.xml](release_notes/20251101_italian.xml) has 49 indented lines.
+- [20251101_italian.xml](release_notes/20251101_italian.xml) has 5 indented lines.
 
 </details>
 
@@ -746,6 +751,10 @@
 ### Strings
 
 - [reactivedrop_koreana.txt](resource/reactivedrop_koreana.txt) has 35 untranslated strings.
+
+### Upcoming Release Notes
+
+- [20251101_koreana.xml](release_notes/20251101_koreana.xml) has 5 indented lines.
 
 </details>
 
@@ -1116,7 +1125,7 @@
 
 ### Upcoming Release Notes
 
-- [20251101_russian.xml](release_notes/20251101_russian.xml) has 49 indented lines.
+- [20251101_russian.xml](release_notes/20251101_russian.xml) has 3 indented lines.
 
 </details>
 
@@ -1458,7 +1467,7 @@
 
 ### Upcoming Release Notes
 
-- [20251101_swedish.xml](release_notes/20251101_swedish.xml) has 49 indented lines.
+- [20251101_swedish.xml](release_notes/20251101_swedish.xml) has 52 indented lines.
 
 ### Mail and News
 
