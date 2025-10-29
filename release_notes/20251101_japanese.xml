@@ -53,13 +53,14 @@
 [*][b]Jacob's Rest: Cargo Elevator:[/b] エレベーターの降り口で発生していたチラつきを修正。
 [*][b]Jacob's Rest: Deima Surface Bridge:[/b] 動けないエイリアンが発生していたため、橋の上でのドローンの出現位置を一部修正した。
 [*][b]Jacob's Rest: Deima Surface Bridge:[/b] オンスロートモードで橋の終端周辺でのエイリアンの出現を改善した。
-[*][b]Research 7: Illyn Forest:[/b] プレイ領域外の卵から生まれるパラサイトを削除してパフォーマンスを改善した。
+[*][b]Research 7: Illyn Forest:[/b] プレイ領域外の卵から生まれるパラサイトを削除してパフォーマンスを改善した。最初のバイオマス周辺でエイリアンの通る道順を改善し、プレイヤーがそこで動けなくなることがあったのも修正した。
 [*][b]Research 7: Jericho Mines:[/b] プレイ領域外の卵から生まれるパラサイトを削除してパフォーマンスを改善した。
 [*][b]Tears for Tarnor: Abandoned Maintenance Tunnels:[/b] レーザー周辺でエイリアンが動けなくなっていたのを修正。
-[*][b]Tears for Tarnor: Oasis Colony Spaceport:[/b] 制御室内のゼノマイトの出現位置に機能していないものが一箇所あったのを修正。
+[*][b]Tears for Tarnor: Oasis Colony Spaceport:[/b] 制御室内のゼノマイトの出現位置に機能していないものが一箇所あったのを修正。マップの最後のエリア周辺でハーベスターがプレイヤーから到達不能な位置に移動していたのを修正。
 [*][b]Tilarus-5: Arctic Infiltration:[/b] 最初のエアロック周辺で紛らわしい衝突判定があったのを修正。
 [*][b]Tilarus-5: Communication Center:[/b] 稀に起きるクラッシュの修正と見た目の改善。
-[*][b]Lana's Escape: Lana's Bridge:[/b] 橋を修理するためのハッキング端末が足りないことがあったのを修正。
+[*][b]Lana's Escape: Lana's Maintenance:[/b] 橋を修理するためのハッキング端末が足りないことがあったのを修正。
+[*][b]Lana's Escape: Lana's Bridge:[/b] パフォーマンスを少し改善。プレイ領域外にある大砲の見た目を改善。
 [*][b]Paranoia: Hostile Places:[/b] 見た目を少し改善。
 [*][b]Paranoia: High Tension:[/b] 地面がチラつく場面があったのを修正。
 [*][b]Paranoia: Crucial Point:[/b] プレイ内容や見た目に影響しない形で地形の複雑さを低下させて読み込み時間を短縮。
@@ -68,4 +69,5 @@
 [*][b]Nam Humanum: Groundwork Labs:[/b] マルチプレイヤーで中央エリアに近づくとパフォーマンスにカクつきが起きていたのを修正。
 [*][b]Reduction: Fallen City:[/b] ミッションの終わり際にある卵の近くの炎が着火までに非常に長い時間がかかっていたのを修正。
 [*][b]DM Desert:[/b] 障害物が暗い青で染められていたのを修正。
+[*][b]以下のマップでprop_ragdollを最適化してネットワーク帯域使用量を減少させた。:[/b][list][*]Jacob's Rest: Landing Bay[*]Jacob's Rest: SynTek Residental[*]Nam Humanum: Platform XVII[*]Paranoia: Close Contact[*]Paranoia: Crucial Point[*]Research 7: Jericho Mines[*]Tears for Tarnor: Insertion Point[*]Tilarus-5: Arctic Infiltration[*]Tilarus-5: Syntek Hospital[/list]
 [/list]</string><string id="subtitle"></string><string id="summary"></string><string id="title">AS:RDアップデート - 2025年11月1日 "Cone of Fire"</string></content>

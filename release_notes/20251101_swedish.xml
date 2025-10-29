@@ -53,13 +53,14 @@
 		[*][b]Jacob's Rest: Cargo Elevator:[/b] Fixed some flickering on the exit door of the elevator.
 [*][b]Jacobs Vila: Deima Yt-bro:[/b] Fixade några drönarspawn-platser på bron som resulterade i att utomjordingar fastnade.
 [*][b]Jacobs Vila: Deima Yt-bro:[/b] Förbättrad anstormingsspawns runt slutet av bron.
-		[*][b]Research 7: Illyn Forest:[/b] Removed parasites from out-of-bounds eggs to improve performance.
+		[*][b]Research 7: Illyn Forest:[/b] Removed parasites from out-of-bounds eggs to improve performance. Improved alien navigation around first biomass. Fixed marines may get stuck there as well.
 		[*][b]Research 7: Jericho Mines:[/b] Removed parasites from out-of-bounds eggs to improve performance.
 [*][b]Tårar för Tarnor: Övergivna Underhållstunnlar:[/b] Fixade problemet med att utomjordingar fastnade runt lasern.
-[*][b]Tårar för Tarnor: Oasis Koloni Rymdhamn:[/b] Fixade en xenomit-spawnplats i kontrollrummet som inte fungerade.
+		[*][b]Tårar för Tarnor: Oasis Koloni Rymdhamn:[/b] Fixade en xenomit-spawnplats i kontrollrummet som inte fungerade. Fixed harvester moving to unreachable area near map end.
 [*][b]Tilarus-5: Arktisk Infiltration:[/b] Åtgärdade vilseledande kollisioner runt den första luftslussen.
 		[*][b]Tilarus-5: Communication Center:[/b] Fixed some rare crashes and improved visals.
-		[*][b]Lana's Escape: Lana's Bridge:[/b] Fixed there sometimes not being enough hackable panels to fix the bridge.
+		[*][b]Lana's Escape: Lana's Maintenance:[/b] Fixed there sometimes not being enough hackable panels to fix the bridge.
+		[*][b]Lana's Escape: Lana's Bridge:[/b] Minor performance improvements. Improved visuals of out-of-bounds cannon.
 		[*][b]Paranoia: Hostile Places:[/b] Minor visual improvements.
 [*][b]Paranoia: Hög Spänning:[/b] Åtgärdade vissa fall av markflimmer.
 		[*][b]Paranoia: Crucial Point:[/b] Reduced terrain complexity that did not affect gameplay or visuals for slightly faster load time.
@@ -68,4 +69,5 @@
 [*][b]Nam Humanum: Markarbetes Labbet:[/b] Åtgärdade ett prestandaproblem när man närmade sig det centrala området i flerspelarläge.
 [*][b]Reducering: Förfallna Staden:[/b] Fixade en brand nära några ägg i slutet av uppdraget som var väldigt långsam att antända.
 		[*][b]DM Desert:[/b] Fixed obstacles being tinted dark blue.
+		[*][b]Reduced networking traffic by optimizing prop_ragdoll on the following maps:[/b][list][*]Jacob's Rest: Landing Bay[*]Jacob's Rest: SynTek Residental[*]Nam Humanum: Platform XVII[*]Paranoia: Close Contact[*]Paranoia: Crucial Point[*]Research 7: Jericho Mines[*]Tears for Tarnor: Insertion Point[*]Tilarus-5: Arctic Infiltration[*]Tilarus-5: Syntek Hospital[/list]
 [/list]</string><string id="subtitle"></string><string id="summary"></string><string id="title">AS:RD Uppdatering - 1st november, 2025 "Spiral av eld"</string></content>
