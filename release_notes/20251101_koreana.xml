@@ -53,14 +53,14 @@
 [*][b]야곱의 안식처: 화물 승강기:[/b] 승강기 출구 문에서 발생하던 깜빡임 현상을 수정했습니다.
 [*][b]야곱의 안식처: 데이마 표면교:[/b] 다리 위 일부 드론 스폰 지점에서 외계 무리가 끼이던 문제를 수정했습니다.
 [*][b]야곱의 안식처: 데이마 표면교:[/b] 다리 끝부분의 맹습 스폰 밸런스를 개선했습니다.
-		[*][b]7번 연구소: 일린 숲:[/b] 성능 향상을 위해 맵 경계 밖에 있던 알 속 기생충을 제거했습니다. Improved alien navigation around first biomass. Fixed marines may get stuck there as well.
+[*][b]7번 연구소: 일린 숲:[/b] 성능 향상을 위해 맵 경계 밖에 있던 알 속 기생충을 제거했습니다. 또한 첫 번째 유기 구조체 주변 외계 무리의 이동 경로를 개선했으며, 해병이 그 근처에서 끼이던 문제도 수정했습니다.
 [*][b]7번 연구소: 제리코 광산:[/b] 성능 향상을 위해 맵 경계 밖에 있던 알 속 기생충을 제거했습니다.
 [*][b]타르너의 눈물: 버려진 유지관리 터널:[/b] 레이저 주변에서 외계인이 끼이던 문제를 수정했습니다.
-		[*][b]타르너의 눈물: 오아시스 식민지 우주정거장:[/b] 통제실의 제노마이트 스폰 지점이 작동하지 않던 문제를 수정했습니다. Fixed harvester moving to unreachable area near map end.
+[*][b]타르너의 눈물: 오아시스 식민지 우주정거장:[/b] 통제실의 제노마이트 스폰 지점이 작동하지 않던 문제를 수정했습니다. 또한 맵 끝지점에서 수확충이 도달할 수 없는 구역으로 이동하던 문제를 수정했습니다.
 [*][b]틸라루스-5: 북극 침입:[/b] 첫 번째 밀폐실 근처의 잘못된 충돌 판정을 수정했습니다.
 [*][b]틸라루스-5: 통신실:[/b] 드물게 발생하던 게임 강제 종료 문제를 수정하고 시각적 품질을 개선했습니다.
-		[*][b]Lana's Escape: Lana's Maintenance:[/b] 교량을 복구할 수 있는 해킹 패널이 충분히 생성되지 않던 문제를 수정했습니다.
-		[*][b]라나의 탈출: 라나의 교량:[/b] Minor performance improvements. Improved visuals of out-of-bounds cannon.
+[*][b]라나의 탈출: 라나의 정비시설:[/b] 교량을 복구할 수 있는 해킹 패널이 생성되지 않던 문제를 수정했습니다.
+[*][b]라나의 탈출: 라나의 교량:[/b] 성능을 약간 개선하고, 맵 경계 밖에 있던 대포의 시각적 품질을 향상시켰습니다.
 [*][b]피해망상: 적대적 환경:[/b] 시각적 요소를 약간 개선했습니다.
 [*][b]피해망상: 고조된 긴장:[/b] 일부 지면에서 발생하던 깜박임 현상을 수정했습니다.
 [*][b]피해망상: 중대한 시점:[/b] 게임플레이나 시각적 요소에는 영향을 주지 않는 범위에서 지형의 복잡도를 줄여, 로딩 속도를 약간 향상시켰습니다.
@@ -69,5 +69,5 @@
 [*][b]남 휴머넘: 지상 작업 연구소:[/b] 멀티플레이에서 중앙 지역 접근 시 발생하던 성능 지연 문제를 해결했습니다.
 [*][b]하락: 무너진 도시:[/b] 임무 마지막 부분의 알 근처 불꽃이 지나치게 늦게 점화되던 문제를 수정했습니다.
 [*][b]사막 데스매치:[/b] 장애물이 짙은 파란색으로 잘못 착색되던 문제를 수정했습니다.
-		[*][b]Reduced networking traffic by optimizing prop_ragdoll on the following maps:[/b][list][*]Jacob's Rest: Landing Bay[*]Jacob's Rest: SynTek Residental[*]Nam Humanum: Platform XVII[*]Paranoia: Close Contact[*]Paranoia: Crucial Point[*]Research 7: Jericho Mines[*]Tears for Tarnor: Insertion Point[*]Tilarus-5: Arctic Infiltration[*]Tilarus-5: Syntek Hospital[/list]
+[*][b]다음 맵들에서 prop_ragdoll 을 최적화하여 네트워크 트래픽을 줄였습니다.:[/b][list][*]야곱의 안식처: 착륙 지점[*]야곱의 안식처: 신텍 거주지[*]남 휴머넘: 플랫폼 XVII[*]피해망상: 연락 두절[*]피해망상: 중대한 시점[*]7번 연구소: 제리코 광산[*]타르너의 눈물: 투입 지점[*]틸라루스-5: 북극 침입[*]틸라루스-5: 신텍 병원[/list]
 [/list]</string><string id="subtitle"></string><string id="summary"></string><string id="title">AS:RD 업데이트 일자 - 2025년 11월 01일 "집속탄도"</string></content>
