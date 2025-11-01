@@ -6,46 +6,46 @@
 [*]Viele Waffen sind jetzt im Knien genauer.
 [/list]
 
-		[h2]Weapons[/h2]
-		[i]Weapon recoil has been changed on several guns. A coding error was previously causing "flattened" recoil to work differently when aiming north or south versus east or west.[/i]
-		[list]
-		[*][b]22A3-1 Assault Rifle:[/b]
-		Normal spread: 03° (wide) × 03° (tall) → unchanged.
-		Crouch spread: 03° × 03° → 01° × 01°.
-		[*][b]22A4-2 Combat Rifle:[/b]
-		Normal spread: 03° × 03° → unchanged.
-		Crouch spread: 03° × 03° → 01° × 01°.
-		[*][b]22A5 Heavy Assault Rifle:[/b]
-		Normal spread: 15° × 03° → unchanged.
-		Crouch spread: 06° × 03° → 06° × 01°.
-		[*][b]22A7-Z Prototype Assault Rifle:[/b]
-		Normal spread: 03° × 03° → unchanged.
-		Crouch spread: 03° × 03° → 01° × 01°.
-		[*][b]50CMG4-1:[/b]
-		Normal spread: 20° × ~2.5° (broken!) → 20° × 10°.
-		Crouch spread: 20° × ~2.5° (broken!) → 10° × 05°.
-		[*][b]IAF Medical SMG:[/b]
-		Normal spread: 15° × ~2.5° (broken!) → 15° × 03°.
-		Crouch spread: 06° × ~1.5° (broken!) → 06° × 01°.
-		[*][b]IAF Minigun:[/b]
-		Normal spread: 15° × ~2.5° (broken!) → 15° × 03°.
-		Crouch spread: 06° × ~1.5° (broken!) → 06° × 01°.
-		[*][b]K80 Personal Defense Weapon:[/b]
-		Normal spread: 03° × 03° → unchanged.
-		Crouch spread: 03° × 03° → 01° × 01°.
-		[*][b]M42 Vindicator:[/b]
-		Normal spread: 22° × 22° → 22° × 12°.
-		Crouch spread: 22° × 22° → 16° × 06°.
-		[*][b]Model 35 Pump-action Shotgun:[/b]
-		Normal spread: 22° × 22° → 22° × 12°.
-		Crouch spread: 22° × 22° → 16° × 06°.
-		[*][b]PS50 Bulldog:[/b]
-		Normal spread: 15° × ~2.5° (broken!) → 15° × 03°.
-		Crouch spread: 06° × ~1.5° (broken!) → 06° × 01°.
-		[*][b]S23A SynTek Autogun:[/b]
-		Normal spread: 07° × 07° → 07° × 03°.
-		Crouch spread: 07° × 07° → 04° × 01°.
-		[/list]
+[h2]Waffen[/h2]
+[i]Der Waffenrückstoß wurde bei mehreren Waffen geändert. Aufgrund eines Programmfehlers funktionierte der "abgeflachte" Rückstoß anders, wenn man nach Norden oder Süden statt nach Osten oder Westen zielte.[/i]
+[list]
+[*][b]22A3-1 Sturmgewehr:[/b]
+Normale Streuung: 03° (Weite) × 03° (Höhe) → unverändert.
+Streuung kniend: 03° × 03° → 01° × 01°.
+[*][b]22A4-2 Kampfgewehr:[/b]
+Normale Streuung: 03° × 03° → unverändert.
+Streuung kniend: 03° × 03° → 01° × 01°.
+[*][b]22A5 Schweres Sturmgewehr:[/b]
+Normale Streuung: 15° × 03° → unverändert.
+Streuung kniend: 06° × 03° → 06° × 01°.
+[*][b]22A7-Z Prototyp-Gewehr:[/b]
+Normale Streuung: 03° × 03° → unverändert.
+Streuung kniend: 03° × 03° → 01° × 01°.
+[*][b]50CMG4-1:[/b]
+Normale Streuung: 20° × ~2.5° (gebrochen!) → 20° × 10°.
+Streuung kniend: 20° × ~2.5° (gebrochen!) → 10° × 05°.
+[*][b]IAF Sanitäter SMG:[/b]
+Normale Streuung: 15° × ~2.5° (gebrochen!) → 15° × 03°.
+Streuung kniend: 06° × ~1.5° (gebrochen!) → 06° × 01°.
+[*][b]IAF Minigun:[/b]
+Normale Streuung: 15° × ~2.5° (gebrochen!) → 15° × 03°.
+Streuung kniend: 06° × ~1.5° (gebrochen!) → 06° × 01°.
+[*][b]K80 Persönliche Defensivwaffe:[/b]
+Normale Streuung: 03° × 03° → unverändert.
+Streuung kniend: 03° × 03° → 01° × 01°.
+[*][b]M42 Vindicator:[/b]
+Normale Streuung: 22° × 22° → 22° × 12°.
+Streuung kniend: 22° × 22° → 16° × 06°.
+[*][b]Model 35 Schrotflinte:[/b]
+Normale Streuung: 22° × 22° → 22° × 12°.
+Streuung kniend: 22° × 22° → 16° × 06°.
+[*][b]PS50 Bulldog:[/b]
+Normale Streuung: 15° × ~2.5° (gebrochen!) → 15° × 03°.
+Streuung kniend: 06° × ~1.5° (gebrochen!) → 06° × 01°.
+[*][b]S23A SynTek Autogun:[/b]
+Normale Streuung: 07° × 07° → 07° × 03°.
+Streuung kniend: 07° × 07° → 04° × 01°.
+[/list]
 
 [h2]Verbesserungen an Einsätzen[/h2]
 [list]
