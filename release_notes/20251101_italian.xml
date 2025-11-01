@@ -53,14 +53,14 @@ Diffusione da accovacciato: 07° × 07° → 04° × 01°.
 [*][b]Jacob's Rest: Ascensore da Carico:[/b] Corretto un problema di sfarfallio sulla porta di uscita dell'ascensore.
 [*][b]Jacob's Rest: Ponte della Superficie di Deima:[/b] risolto il problema relativo alla posizione di spawn di alcuni droni sul ponte che causava il blocco degli alieni.
 [*][b]Jacob's Rest: Ponte della Superficie di Deima:[/b] migliorato lo spawn degli Onslaught nella zona terminale del ponte.
-		[*][b]Research 7: Foresta Illyn:[/b] Rimossi i parassiti dalle uova fuori mappa per migliorare le prestazioni. Improved alien navigation around first biomass. Fixed marines may get stuck there as well.
+[*][b]Research 7: Foresta Illyn:[/b] Rimossi i parassiti dalle uova fuori mappa per migliorare le prestazioni. Migliorata la navigazione degli alieni intorno alla prima biomassa. Risolto il problema che causava il blocco dei soldati in quella zona.
 [*][b]Research 7: Miniere Jericho:[/b] Rimossi i parassiti dalle uova fuori mappa per migliorare le prestazioni.
 [*][b]Lacrime per Tarnor: Tunnel di Manutenzione Abbandonati:[/b] Risolto il blocco degli alieni intorno al laser.
-		[*][b]Lacrime per Tarnor: Spazioporto della Colonia di Oasis:[/b] Risolto un punto di spawn degli xenomiti nella sala di controllo che non funzionava. Fixed harvester moving to unreachable area near map end.
+[*][b]Lacrime per Tarnor: Spazioporto della Colonia di Oasis:[/b] Risolto un punto di spawn degli xenomiti nella sala di controllo che non funzionava. Sistemato l'harvester che si spostava in un'area irraggiungibile vicino alla fine della mappa.
 [*][b]Tilarus-5: Infiltrazione Artica:[/b] Risolto il problema delle collisioni fuorvianti intorno alla prima camera di equilibrio.
 [*][b]Tilarus-5: Centro Comunicazioni:[/b] Corretti alcuni rari crash e migliorata la grafica.
-		[*][b]Lana's Escape: Lana's Maintenance:[/b] Risolto il problema della mancanza di pannelli hackerabili sufficienti per riparare il ponte.
-		[*][b]Fuga di Lana: Ponte di Lana:[/b] Minor performance improvements. Improved visuals of out-of-bounds cannon.
+[*][b]Fuga di Lana: Manutenzione di Lana:[/b] Risolto il problema della mancanza di pannelli hackerabili sufficienti per riparare il ponte.
+[*][b]Fuga di Lana: Ponte di Lana:[/b] Miglioramenti minori alle prestazioni. Migliorata la grafica del cannone fuori dalla mappa di gioco.
 [*][b]Paranoia: Luoghi Ostili:[/b] Miglioramenti visivi minori.
 [*][b]Paranoia: Alta Tensione:[/b] Risolti alcuni casi di sfarfallio del terreno.
 [*][b]Paranoia: Punto Cruciale:[/b] Ridotta la complessità del terreno che non influisce sul gameplay o sulla grafica, per un tempo di caricamento leggermente più veloce.
@@ -69,5 +69,5 @@ Diffusione da accovacciato: 07° × 07° → 04° × 01°.
 [*][b]Nam Humanum: Laboratori Groundwork:[/b] Risolto un problema di prestazioni quando ci si avvicinava all'area centrale in multiplayer.
 [*][b]Reduction: Città Caduta:[/b] Risolto il problema che causava un ritardo nell'accensione di un incendio vicino ad alcune uova alla fine della missione.
 [*][b]DM Deserto:[/b] Corretti gli ostacoli colorati in blu scuro.
-		[*][b]Reduced networking traffic by optimizing prop_ragdoll on the following maps:[/b][list][*]Jacob's Rest: Landing Bay[*]Jacob's Rest: SynTek Residental[*]Nam Humanum: Platform XVII[*]Paranoia: Close Contact[*]Paranoia: Crucial Point[*]Research 7: Jericho Mines[*]Tears for Tarnor: Insertion Point[*]Tilarus-5: Arctic Infiltration[*]Tilarus-5: Syntek Hospital[/list]
+[*][b]Riduzione del traffico di rete ottimizzando prop_ragdoll nelle seguenti mappe:[/b][list][*]Jacob's Rest: Baia d'Attracco[*]Jacob's Rest: Zona Residenziale SynTek[*]Nam Humanum: Piattaforma XVII[*] Paranoia: Contatto Ravvicinato[*]Paranoia: Punto Cruciale[*]Research 7: Miniere Jericho[*]Lacrime per Tarnor: Punto d'Inserimento[*]Tilarus-5: Infiltrazione Artica[*]Tilarus-5: Ospedale Syntek[/list]
 [/list]</string><string id="subtitle"></string><string id="summary"></string><string id="title">Aggiornamento di AS:RD - 1 Novembre 2025 "Cone of Fire"</string></content>
