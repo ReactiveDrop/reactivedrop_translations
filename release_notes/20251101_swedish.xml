@@ -10,41 +10,41 @@
 [i]Vapenrekylen har ändrats på flera vapen. Ett kodningsfel orsakade tidigare att "tillplattad" rekyl fungerade annorlunda vid siktning norr eller söder jämfört med öst eller väst.[/i]
 [list]
 [*][b]22A3-1 Stridsgeväret:[/b]
-Normal spread: 03° (wide) × 03° (tall) → unchanged.
-Crouch spread: 03° × 03° → 01° × 01°.
+Normal spridning: 03° (bred) × 03° (lång) → oändrad.
+Hukspridning: 03° × 03° → 01° × 01°.
 [*][b]22A4-2 Attack-Gevär:[/b]
-Normal spread: 03° × 03° → unchanged.
-Crouch spread: 03° × 03° → 01° × 01°.
+Normal spridning: 03° × 03° → oändrad.
+Hukspridning: 03° × 03° → 01° × 01°.
 [*][b]22A5 Tunga Attack-Geväret:[/b]
-Normal spread: 15° × 03° → unchanged.
-Crouch spread: 06° × 03° → 06° × 01°.
+Normal spridning: 15° × 03° → oändrad.
+Hukspridning: 06° × 03° → 06° × 01°.
 [*][b]22A7-Z Prototypgeväret:[/b]
-Normal spread: 03° × 03° → unchanged.
-Crouch spread: 03° × 03° → 01° × 01°.
+Normal spridning: 03° × 03° → oändrad.
+Hukspridning: 03° × 03° → 01° × 01°.
 [*][b]50CMG4-1:[/b]
-Normal spread: 20° × ~2.5° (broken!) → 20° × 10°.
-Crouch spread: 20° × ~2.5° (broken!) → 10° × 05°.
+Normal spridning: 20° × ~2.5° (sönder!) → 20° × 10°.
+Hukspridning: 20° × ~2.5° (sönder!) → 10° × 05°.
 [*][b]IAF Medicinska-SMG:[/b]
-Normal spread: 15° × ~2.5° (broken!) → 15° × 03°.
-Crouch spread: 06° × ~1.5° (broken!) → 06° × 01°.
+Normal spridning: 15° × ~2.5° (sönder!) → 15° × 03°.
+Hukspridning: 06° × ~1.5° (sönder!) → 06° × 01°.
 [*][b]IAF Minigun:[/b]
-Normal spread: 15° × ~2.5° (broken!) → 15° × 03°.
-Crouch spread: 06° × ~1.5° (broken!) → 06° × 01°.
+Normal spridning: 15° × ~2.5° (sönder!) → 15° × 03°.
+Hukspridning: 06° × ~1.5° (sönder!) → 06° × 01°.
 [*][b]K80 Personligt Skyddsvapen:[/b]
-Normal spread: 03° × 03° → unchanged.
-Crouch spread: 03° × 03° → 01° × 01°.
+Normal spridning: 03° × 03° → unchanged.
+Hukspridning: 03° × 03° → 01° × 01°.
 [*][b]M42 Vindicator:[/b]
-Normal spread: 22° × 22° → 22° × 12°.
-Crouch spread: 22° × 22° → 16° × 06°.
+Normal spridning: 22° × 22° → 22° × 12°.
+Hukspridning: 22° × 22° → 16° × 06°.
 [*][b]Modell 35 Pump-action Hagelgevär:[/b]
-Normal spread: 22° × 22° → 22° × 12°.
-Crouch spread: 22° × 22° → 16° × 06°.
+Normal spridning: 22° × 22° → 22° × 12°.
+Hukspridning: 22° × 22° → 16° × 06°.
 [*][b]PS50 Bulldoggen:[/b]
-Normal spread: 15° × ~2.5° (sönder!) → 15° × 03°.
-Crouch spread: 06° × ~1.5° (sönder!) → 06° × 01°.
+Normal spridning: 15° × ~2.5° (sönder!) → 15° × 03°.
+Hukspridning: 06° × ~1.5° (sönder!) → 06° × 01°.
 [*][b]S23A SynTek Autovapen:[/b]
-Normal spread: 07° × 07° → 07° × 03°.
-Crouch spread: 07° × 07° → 04° × 01°.
+Normal spridning: 07° × 07° → 07° × 03°.
+Hukspridning: 07° × 07° → 04° × 01°.
 [/list]
 
 [h2]Uppdragsförbättringar[/h2]
