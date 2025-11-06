@@ -1,6 +1,6 @@
 ﻿"lang"
 {
-"Language"	"french"
+"Language"		"french"
 "Tokens"
 {
 // replace English with translation language native name and your nickname at the end.
