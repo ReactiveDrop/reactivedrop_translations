@@ -7,7 +7,7 @@
 | [Danish](#non-curated-languages) | 57 | 231 | 43 | 3913 | 286 | 231 | 710 | 148 |
 | [Dutch](#non-curated-languages) | 56 | 2004 | 43 | 3382 | 286 | 231 | 710 | 147 |
 | [Finnish](#non-curated-languages) | ✔️ | 2004 | 37 | 3239 | 215 | 171 | 632 | 146 |
-| [French](#french-français) | ✔️ | 67 | ✔️ | 2527 | 285 | ✔️ | 557 | 113 |
+| [French](#french-français) | ✔️ | 67 | ✔️ | 2527 | 285 | ✔️ | 365 | 113 |
 | [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Hungarian](#non-curated-languages) | 56 | 138 | 43 | 3382 | 286 | 231 | 975 | 148 |
 | [Indonesian](#indonesian-indonesia) | 719 | 2004 | 635 | 4348 | 289 | 236 | 972 | 148 |
@@ -379,9 +379,7 @@
 
 ### Strings
 
-- [addons/RiskOfRain/reactivedrop_french.txt](addons/RiskOfRain/resource/reactivedrop_french.txt) has 95 untranslated strings.
 - [items_french.vdf](community/inventory_service/items_french.vdf) has 285 untranslated strings.
-- [steam_input_french.vdf](community/steam_input/steam_input_french.vdf) has 97 untranslated strings.
 - [misc/signage/signage_french.vdf](misc/signage/signage_french.vdf) has 70 untranslated strings.
 - [platform/vgui_french.txt](platform/vgui_french.txt) has 93 untranslated strings.
 - [closecaption_french.txt](resource/closecaption_french.txt) has 67 untranslated strings.
