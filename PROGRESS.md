@@ -1,7 +1,7 @@
 # Overview
 | Language | basemodui | closecaption | gameui | reactivedrop | items | statsweb | Strings | Files |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | ✔️ | 1 | ✔️ | ✔️ | ✔️ | ✔️ |
+| [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Traditional Chinese](#tchinese-繁體中文) | ✔️ | ✔️ | ✔️ | 99 | ✔️ | ✔️ | ✔️ | 126 |
 | [Czech](#czech-čeština) | ✔️ | ✔️ | ✔️ | 4369 | 286 | 231 | 972 | 147 |
 | [Danish](#non-curated-languages) | 57 | 231 | 43 | 3913 | 286 | 231 | 710 | 148 |
@@ -13,7 +13,7 @@
 | [Indonesian](#indonesian-indonesia) | 719 | 2004 | 635 | 4348 | 289 | 236 | 972 | 148 |
 | [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | 1 | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | 1 | ✔️ | ✔️ | 35 | 1 |
-| [Korean](#koreana-한국어) | ✔️ | ✔️ | ✔️ | 36 | ✔️ | ✔️ | ✔️ | ✔️ |
+| [Korean](#koreana-한국어) | ✔️ | ✔️ | ✔️ | 30 | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Norwegian Bokmål](#non-curated-languages) | 74 | 708 | 48 | 4087 | 286 | 231 | 710 | 148 |
 | [Polish](#polish-polski) | 2 | 2004 | ✔️ | 3026 | 15 | 20 | 137 | 126 |
 | [European Portuguese](#portuguese-português-europeu) | 5 | 180 | 33 | 2472 | 266 | 52 | 636 | 143 |
@@ -41,9 +41,7 @@
 
 </summary>
 
-### Strings
-
-- [reactivedrop_schinese.txt](resource/reactivedrop_schinese.txt) has 1 untranslated strings.
+✓ Up to date!
 
 </details>
 
@@ -747,7 +745,7 @@
 
 ### Strings
 
-- [reactivedrop_koreana.txt](resource/reactivedrop_koreana.txt) has 36 untranslated strings.
+- [reactivedrop_koreana.txt](resource/reactivedrop_koreana.txt) has 30 untranslated strings.
 
 </details>
 
