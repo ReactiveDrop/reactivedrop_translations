@@ -5347,7 +5347,7 @@
 "asw_infection_newRound"	"New round begins..."
 "asw_infection_infected"	"%s1 was infected by %s2."
 "asw_infection_lastStand_on"	"Last Stand mode is now available to the Humans."
-"asw_infection_lastStand_key"	"Hold Melee key to activate Last Stand mode"
+"asw_infection_lastStand_key"	"Hold Melee + Crouch keys to activate Last Stand mode"
 "asw_infection_lastStand_used"	"%s1 activated Last Stand mode."
 "asw_infection_lastStand_timeAdd"	"+60 seconds to the match timer."
 "asw_infection_win_human"	"Humans win!"

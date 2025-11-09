@@ -1,28 +1,28 @@
 # Overview
 | Language | basemodui | closecaption | gameui | reactivedrop | items | statsweb | Strings | Files |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 1 |
-| [Traditional Chinese](#tchinese-繁體中文) | ✔️ | ✔️ | ✔️ | 98 | ✔️ | ✔️ | ✔️ | 126 |
-| [Czech](#czech-čeština) | ✔️ | 127 | 43 | 4386 | 286 | 231 | 972 | 147 |
+| [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
+| [Traditional Chinese](#tchinese-繁體中文) | ✔️ | ✔️ | ✔️ | 99 | ✔️ | ✔️ | ✔️ | 126 |
+| [Czech](#czech-čeština) | ✔️ | ✔️ | ✔️ | 4369 | 286 | 231 | 972 | 147 |
 | [Danish](#non-curated-languages) | 57 | 231 | 43 | 3913 | 286 | 231 | 710 | 148 |
 | [Dutch](#non-curated-languages) | 56 | 2004 | 43 | 3382 | 286 | 231 | 710 | 147 |
-| [Finnish](#non-curated-languages) | ✔️ | 2004 | 42 | 3239 | 215 | 171 | 641 | 146 |
-| [French](#french-français) | ✔️ | 67 | ✔️ | 2527 | 285 | ✔️ | 557 | 113 |
-| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 1 |
+| [Finnish](#non-curated-languages) | ✔️ | 2004 | 37 | 3239 | 215 | 171 | 632 | 146 |
+| [French](#french-français) | ✔️ | 67 | ✔️ | 2527 | 285 | ✔️ | 365 | 113 |
+| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Hungarian](#non-curated-languages) | 56 | 138 | 43 | 3382 | 286 | 231 | 975 | 148 |
 | [Indonesian](#indonesian-indonesia) | 719 | 2004 | 635 | 4348 | 289 | 236 | 972 | 148 |
-| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 1 |
+| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | 1 | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 35 | 1 |
-| [Korean](#koreana-한국어) | ✔️ | ✔️ | ✔️ | 35 | ✔️ | ✔️ | ✔️ | 1 |
+| [Korean](#koreana-한국어) | ✔️ | ✔️ | ✔️ | 30 | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Norwegian Bokmål](#non-curated-languages) | 74 | 708 | 48 | 4087 | 286 | 231 | 710 | 148 |
 | [Polish](#polish-polski) | 2 | 2004 | ✔️ | 3026 | 15 | 20 | 137 | 126 |
 | [European Portuguese](#portuguese-português-europeu) | 5 | 180 | 33 | 2472 | 266 | 52 | 636 | 143 |
 | [Brazilian Portuguese](#brazilian-português) | 1 | ✔️ | ✔️ | 997 | 28 | 23 | 4 | 4 |
 | [Romanian](#non-curated-languages) | 56 | 1996 | 49 | 4093 | 286 | 231 | 975 | 148 |
-| [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 1 |
+| [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | 1 | ✔️ | ✔️ | ✔️ | 1 |
 | [European Spanish](#spanish-español-de-españa) | ✔️ | 2004 | ✔️ | 2025 | 3 | 1 | 3 | 126 |
 | [Latin American Spanish](#latam-español-latinoamericano) | 1 | 2004 | ✔️ | 4433 | 34 | 24 | 207 | 144 |
-| [Swedish](#swedish-svenska) | ✔️ | ✔️ | ✔️ | 73 | ✔️ | ✔️ | ✔️ | 72 |
+| [Swedish](#swedish-svenska) | ✔️ | ✔️ | ✔️ | 73 | ✔️ | ✔️ | ✔️ | 71 |
 | [Thai](#non-curated-languages) | 971 | 1993 | 51 | 4629 | 286 | 231 | 739 | 148 |
 | [Turkish](#non-curated-languages) | 56 | 137 | 43 | 3382 | 286 | 231 | 975 | 148 |
 | [Ukrainian](#ukrainian-українська) | 32 | 131 | 33 | 2948 | 286 | 231 | 935 | 148 |
@@ -41,9 +41,7 @@
 
 </summary>
 
-### Upcoming Release Notes
-
-- [20251101_schinese.xml](release_notes/20251101_schinese.xml) has 5 indented lines.
+✓ Up to date!
 
 </details>
 
@@ -55,7 +53,7 @@
 
 ### Strings
 
-- [reactivedrop_tchinese.txt](resource/reactivedrop_tchinese.txt) has 98 untranslated strings.
+- [reactivedrop_tchinese.txt](resource/reactivedrop_tchinese.txt) has 99 untranslated strings.
 
 ### Upcoming Release Notes
 
@@ -209,9 +207,7 @@
 - [misc/signage/signage_czech.vdf](misc/signage/signage_czech.vdf) has 70 untranslated strings.
 - [platform/servers/serverbrowser_czech.txt](platform/servers/serverbrowser_czech.txt) has 186 untranslated strings.
 - [platform/vgui_czech.txt](platform/vgui_czech.txt) has 184 untranslated strings.
-- [closecaption_czech.txt](resource/closecaption_czech.txt) has 127 untranslated strings.
-- [gameui_czech.txt](resource/gameui_czech.txt) has 43 untranslated strings.
-- [reactivedrop_czech.txt](resource/reactivedrop_czech.txt) has 4386 untranslated strings.
+- [reactivedrop_czech.txt](resource/reactivedrop_czech.txt) has 4369 untranslated strings.
 - [valve_czech.txt](resource/valve_czech.txt) has 266 untranslated strings.
 
 ### Steam Store and Community
@@ -383,9 +379,7 @@
 
 ### Strings
 
-- [addons/RiskOfRain/reactivedrop_french.txt](addons/RiskOfRain/resource/reactivedrop_french.txt) has 95 untranslated strings.
 - [items_french.vdf](community/inventory_service/items_french.vdf) has 285 untranslated strings.
-- [steam_input_french.vdf](community/steam_input/steam_input_french.vdf) has 97 untranslated strings.
 - [misc/signage/signage_french.vdf](misc/signage/signage_french.vdf) has 70 untranslated strings.
 - [platform/vgui_french.txt](platform/vgui_french.txt) has 93 untranslated strings.
 - [closecaption_french.txt](resource/closecaption_french.txt) has 67 untranslated strings.
@@ -522,9 +516,7 @@
 
 </summary>
 
-### Upcoming Release Notes
-
-- [20251101_german.xml](release_notes/20251101_german.xml) has 52 indented lines.
+✓ Up to date!
 
 </details>
 
@@ -720,9 +712,9 @@
 
 </summary>
 
-### Upcoming Release Notes
+### Strings
 
-- [20251101_italian.xml](release_notes/20251101_italian.xml) has 5 indented lines.
+- [reactivedrop_italian.txt](resource/reactivedrop_italian.txt) has 1 untranslated strings.
 
 </details>
 
@@ -750,11 +742,7 @@
 
 ### Strings
 
-- [reactivedrop_koreana.txt](resource/reactivedrop_koreana.txt) has 35 untranslated strings.
-
-### Upcoming Release Notes
-
-- [20251101_koreana.xml](release_notes/20251101_koreana.xml) has 5 indented lines.
+- [reactivedrop_koreana.txt](resource/reactivedrop_koreana.txt) has 30 untranslated strings.
 
 </details>
 
@@ -1123,6 +1111,10 @@
 
 </summary>
 
+### Strings
+
+- [reactivedrop_russian.txt](resource/reactivedrop_russian.txt) has 1 untranslated strings.
+
 ### Upcoming Release Notes
 
 - [20251101_russian.xml](release_notes/20251101_russian.xml) has 3 indented lines.
@@ -1464,10 +1456,6 @@
 ### Strings
 
 - [reactivedrop_swedish.txt](resource/reactivedrop_swedish.txt) has 73 untranslated strings.
-
-### Upcoming Release Notes
-
-- [20251101_swedish.xml](release_notes/20251101_swedish.xml) has 52 indented lines.
 
 ### Mail and News
 

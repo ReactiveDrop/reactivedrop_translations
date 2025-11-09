@@ -4,12 +4,12 @@ GAME
 
 // Sent
 
-"MailFrom3"	"An: Mitarbeiter von SynTek Hospital"
+"MailFrom3"	"An: Mitarbeiter von SynTek Krankenhaus"
 "MailDate3"	"Datum: 03/16/46"
 "MailSubject3"	"Betreff: Wir brauchen einen neuen Plan"
 "MailBody3A"	"Jemand muss sich eine dauerhafte Lösung überlegen. Wir können die Experimente nicht für immer in unserem Keller einsperren..."
 
-"MailFrom4"	"An: Mitarbeiter von SynTek Hospital"
+"MailFrom4"	"An: Mitarbeiter von SynTek Krankenhaus"
 "MailDate4"	"Datum: 03/17/46"
 "MailSubject4"	"Betreff: Ich habe einen Ausweg gefunden"
 "MailBody4A"	"Wir sind fast fertig zum Aufbruch. Hoffentlich habe ich noch genug Zeit, um rauszukommen. Ich habe bereits die gesamte Ausrüstung verlegt, die ich brauche, also sollten alle anderen ihr Bestes geben, um es zum Transport zu schaffen."
