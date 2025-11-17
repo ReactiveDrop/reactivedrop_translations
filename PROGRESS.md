@@ -18,7 +18,7 @@
 | [Polish](#polish-polski) | 2 | 2004 | ✔️ | 3026 | 15 | 20 | 137 | 126 |
 | [European Portuguese](#portuguese-português-europeu) | 5 | 180 | 33 | 2472 | 266 | 52 | 636 | 143 |
 | [Brazilian Portuguese](#brazilian-português) | 1 | ✔️ | ✔️ | 997 | 28 | 23 | 4 | 4 |
-| [Romanian](#non-curated-languages) | 56 | 1996 | 49 | 4093 | 286 | 231 | 975 | 148 |
+| [Romanian](#non-curated-languages) | 56 | 1996 | 49 | 4093 | 286 | 231 | 967 | 148 |
 | [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [European Spanish](#spanish-español-de-españa) | ✔️ | 2004 | ✔️ | 2025 | 3 | 1 | 3 | 126 |
 | [Latin American Spanish](#latam-español-latinoamericano) | 1 | 2004 | ✔️ | 4433 | 34 | 24 | 207 | 144 |
