@@ -7,7 +7,7 @@
 | [Danish](#non-curated-languages) | 57 | 231 | 43 | 3913 | 286 | 231 | 710 | 148 |
 | [Dutch](#non-curated-languages) | 56 | 2004 | 43 | 3382 | 286 | 231 | 710 | 147 |
 | [Finnish](#non-curated-languages) | ✔️ | 2004 | 37 | 3239 | 215 | 171 | 632 | 146 |
-| [French](#french-français) | ✔️ | 67 | ✔️ | 2527 | 285 | ✔️ | 365 | 112 |
+| [French](#french-français) | ✔️ | 67 | ✔️ | 2527 | 285 | ✔️ | 365 | 111 |
 | [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Hungarian](#non-curated-languages) | 56 | 138 | 43 | 3382 | 286 | 231 | 975 | 148 |
 | [Indonesian](#indonesian-indonesia) | 575 | 2004 | 635 | 4348 | 289 | 236 | 972 | 146 |
@@ -504,7 +504,6 @@
 - [news/antheonmoonnews_french.txt](resource/news/antheonmoonnews_english.txt) is missing.
 - [news/brainnews_french.txt](resource/news/brainnews_english.txt) is missing.
 - [news/convoynews_french.txt](resource/news/convoynews_english.txt) is missing.
-- [news/droidlawsnews_french.txt](resource/news/droidlawsnews_english.txt) is missing.
 - [news/experiornews_french.txt](resource/news/experiornews_english.txt) is missing.
 
 </details>
