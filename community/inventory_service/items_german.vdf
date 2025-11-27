@@ -482,8 +482,8 @@
 "item_strange_device_alien_kill_streak_best"		"Am besten"
 "[english]item_strange_device_infestations_cured_name"		"Infestations Cured"
 "item_strange_device_infestations_cured_name"		"Befallene geheilt"
-		"[english]item_strange_device_deathmatch_kills_name"		"Deathmatch Kills"
-		"item_strange_device_deathmatch_kills_name"		"Deathmatch Kills"
+"[english]item_strange_device_deathmatch_kills_name"		"Deathmatch Kills"
+"item_strange_device_deathmatch_kills_name"		"Deathmatch Tötungen"
 
 "[english]item_suit_sarge_name"		"Sarge's Suit"
 "item_suit_sarge_name"		"Sarge's Anzug"

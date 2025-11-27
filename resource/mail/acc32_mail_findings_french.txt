@@ -1,0 +1,11 @@
+GAME
+{
+// Boîte de réception
+
+"MailFrom1"     "De : Operation News [Kyle]"
+"MailDate1"     "Date : 22/11/32"
+"MailSubject1"  "Objet : Quelques informations"
+"MailBody1A"    "Bonjour, aujourd’hui, Tio Rinto, une société minière, nous a transmis certains de leurs journaux contenant des données sur ce qui semble être une roche similaire. Ils ont rencontré un matériau du même type il y a 43 ans lors de leurs expéditions minières."
+"MailBody1B"    "Ils ne disposent pas de beaucoup de données à son sujet, mais ce qu’ils ont découvert est choquant : la roche devient bien plus radioactive à mesure que la température augmente. Les laboratoires contenant un grand échantillon ont été isolés depuis un mois, sans aucun contact avec l’air extérieur. Le toit étant principalement métallique, il a chauffé, et l’intérieur du laboratoire devient peu à peu de plus en plus chaud. Nous devons prendre des mesures pour éviter que la situation n’empire."
+"MailBody1C"    "Kyle"
+}

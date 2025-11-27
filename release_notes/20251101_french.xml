@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<content><string id="body">[h2]À la une[/h2]
+[list]
+[*]Ajout d’un fond de menu principal sur le thème de **SynTek Résidentiel**.
+[*]Les flux de caméras affichés derrière le briefing contiennent désormais moins de parasites et sont moins distrayants.
+[*]De nombreuses armes sont désormais plus précises en position accroupie.
+[/list]
+
+		[h2]Weapons[/h2]
+		[i]Weapon recoil has been changed on several guns. A coding error was previously causing "flattened" recoil to work differently when aiming north or south versus east or west.[/i]
+		[list]
+		[*][b]22A3-1 Assault Rifle:[/b]
+		Normal spread: 03° (wide) × 03° (tall) → unchanged.
+		Crouch spread: 03° × 03° → 01° × 01°.
+		[*][b]22A4-2 Combat Rifle:[/b]
+		Normal spread: 03° × 03° → unchanged.
+		Crouch spread: 03° × 03° → 01° × 01°.
+		[*][b]22A5 Heavy Assault Rifle:[/b]
+		Normal spread: 15° × 03° → unchanged.
+		Crouch spread: 06° × 03° → 06° × 01°.
+		[*][b]22A7-Z Prototype Assault Rifle:[/b]
+		Normal spread: 03° × 03° → unchanged.
+		Crouch spread: 03° × 03° → 01° × 01°.
+		[*][b]50CMG4-1:[/b]
+		Normal spread: 20° × ~2.5° (broken!) → 20° × 10°.
+		Crouch spread: 20° × ~2.5° (broken!) → 10° × 05°.
+		[*][b]IAF Medical SMG:[/b]
+		Normal spread: 15° × ~2.5° (broken!) → 15° × 03°.
+		Crouch spread: 06° × ~1.5° (broken!) → 06° × 01°.
+		[*][b]IAF Minigun:[/b]
+		Normal spread: 15° × ~2.5° (broken!) → 15° × 03°.
+		Crouch spread: 06° × ~1.5° (broken!) → 06° × 01°.
+		[*][b]K80 Personal Defense Weapon:[/b]
+		Normal spread: 03° × 03° → unchanged.
+		Crouch spread: 03° × 03° → 01° × 01°.
+		[*][b]M42 Vindicator:[/b]
+		Normal spread: 22° × 22° → 22° × 12°.
+		Crouch spread: 22° × 22° → 16° × 06°.
+		[*][b]Model 35 Pump-action Shotgun:[/b]
+		Normal spread: 22° × 22° → 22° × 12°.
+		Crouch spread: 22° × 22° → 16° × 06°.
+		[*][b]PS50 Bulldog:[/b]
+		Normal spread: 15° × ~2.5° (broken!) → 15° × 03°.
+		Crouch spread: 06° × ~1.5° (broken!) → 06° × 01°.
+		[*][b]S23A SynTek Autogun:[/b]
+		Normal spread: 07° × 07° → 07° × 03°.
+		Crouch spread: 07° × 07° → 04° × 01°.
+		[/list]
+
+[h2]Améliorations des missions[/h2]
+[list]
+		[*][b]Jacob's Rest: Cargo Elevator:[/b] Made the ceiling of the elevator slightly transparent to help with camera rotation.
+		[*][b]Jacob's Rest: Cargo Elevator:[/b] Fixed some flickering on the exit door of the elevator.
+[*][b]Jacob's Rest : Deima Surface Bridge :[/b] Correction de certains points d’apparition de drones sur le pont qui pouvaient bloquer des aliens.
+[*][b]Jacob's Rest : Deima Surface Bridge :[/b] Amélioration des apparitions d’ennemis de type Onslaught à la fin du pont.
+		[*][b]Research 7: Illyn Forest:[/b] Removed parasites from out-of-bounds eggs to improve performance. Improved alien navigation around first biomass. Fixed marines may get stuck there as well.
+		[*][b]Research 7: Jericho Mines:[/b] Removed parasites from out-of-bounds eggs to improve performance.
+[*][b]Tears for Tarnor : Tunnels d’entretien abandonnés :[/b] Correction d’aliens bloqués près du laser.
+		[*][b]Tears for Tarnor : Spatioport de la colonie Oasis :[/b] Correction d’un point d’apparition de xénomite dans la salle de contrôle qui ne fonctionnait pas. Fixed harvester moving to unreachable area near map end.
+[*][b]Tilarus-5 : Infiltration arctique :[/b] Correction de collisions trompeuses près du premier sas.
+		[*][b]Tilarus-5: Communication Center:[/b] Fixed some rare crashes and improved visals.
+		[*][b]Lana's Escape: Lana's Maintenance:[/b] Fixed there sometimes not being enough hackable panels to fix the bridge.
+		[*][b]Lana's Escape: Lana's Bridge:[/b] Minor performance improvements. Improved visuals of out-of-bounds cannon.
+		[*][b]Paranoia: Hostile Places:[/b] Minor visual improvements.
+[*][b]Paranoia : Haute tension :[/b] Correction de certains cas de scintillement du sol.
+		[*][b]Paranoia: Crucial Point:[/b] Reduced terrain complexity that did not affect gameplay or visuals for slightly faster load time.
+[*][b]Nam Humanum : Plateforme XVII :[/b] Correction d’aliens d’Onslaught apparaissant en plein air le long de la voie de la plateforme.
+[*][b]Nam Humanum : Laboratoires Groundwork :[/b] Correction de marines supplémentaires (au-delà des huit premiers, dans les modes spéciaux) bloqués au démarrage.
+[*][b]Nam Humanum : Laboratoires Groundwork :[/b] Correction d’un ralentissement de performance en approchant de la zone centrale en multijoueur.
+[*][b]Reduction : Cité en ruine :[/b] Correction d’un feu près de certains œufs à la fin de la mission, qui mettait trop de temps à s’enflammer.
+		[*][b]DM Desert:[/b] Fixed obstacles being tinted dark blue.
+		[*][b]Reduced networking traffic by optimizing prop_ragdoll on the following maps:[/b][list][*]Jacob's Rest: Landing Bay[*]Jacob's Rest: SynTek Residental[*]Nam Humanum: Platform XVII[*]Paranoia: Close Contact[*]Paranoia: Crucial Point[*]Research 7: Jericho Mines[*]Tears for Tarnor: Insertion Point[*]Tilarus-5: Arctic Infiltration[*]Tilarus-5: Syntek Hospital[/list]
+[/list]</string><string id="subtitle"></string><string id="summary"></string><string id="title">Mise à jour AS:RD – 1er novembre 2025 « Cône de tir »</string></content>

@@ -1,0 +1,13 @@
+GAME
+{
+// PDA belongs to Leonid Toptunov
+
+// Sent
+
+"MailFrom1" "수신자: 네이선 포"
+"MailDate1" "날짜: 32년 8월 25일"
+"MailSubject1" "주제: 반응로 불안정 &HIDDEN"
+"MailBody1A" "온도가 다시 갑자기 불안정해지면 반응로를 정지시키겠다고 했잖아, 근데 그건 완전 거짓말이었어! 5월 이후로 계속 불안정했는데, 반응로가 아직 터지지 않은 게 도무지 이해가 안 돼!"
+"MailBody1B" "지금 당장 반응로를 멈춰야 해! Sectors 3와 4의 표본 사태나 AMBER가 말하는 감염 위험 따위는 상관없어. 지금 우리에게 가장 중요한 건 반응로야."
+"MailBody1C" "젠장, 레오니드 톱투노프 올림"
+}

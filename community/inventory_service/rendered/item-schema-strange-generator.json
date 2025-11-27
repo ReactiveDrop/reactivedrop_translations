@@ -574,10 +574,7 @@
 		},
 		{
 			"itemdefid": 6086,
-			"type": "generator",
-			"name": "Twitch Drop Steam PvP Fest 2026 - Strange 22A3-1 Assault Rifle",
-			"bundle": "2000",
-			"tags": "strange:5010;strange:5011"
+			"name": "unused 6086"
 		}
 	]
 }

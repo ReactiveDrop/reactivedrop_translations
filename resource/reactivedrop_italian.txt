@@ -6279,19 +6279,19 @@
 // EC = electric charge; also a reference to Amazon EC2, which stands for Elastic Compute Cloud, because these were originally part of the tech-only prototype rifle.
 "[english]asw_weaponl_stun_grenades"		"EC-02 Stun Grenades"
 "asw_weaponl_stun_grenades"		"Granate Stordenti EC-02"
-		"[english]asw_wdesc_stun_grenades"		"A set of offhand lightweight stun grenades. These grenades deliver a high electric charge which renders the muscle motors of affected targets extremely weak for a short time. Being non-fatal makes them perfect for use in urban environments and against civilian crowds."
-		"asw_wdesc_stun_grenades"		"A set of offhand lightweight stun grenades. These grenades deliver a high electric charge which renders the muscle motors of affected targets extremely weak for a short time. Being non-fatal makes them perfect for use in urban environments and against civilian crowds."
-		"[english]asw_weapon_stun_grenades_attributes"		"Splash Stun, Negligible Friendly Fire"
-		"asw_weapon_stun_grenades_attributes"		"Splash Stun, Negligible Friendly Fire"
+"[english]asw_wdesc_stun_grenades"		"A set of offhand lightweight stun grenades. These grenades deliver a high electric charge which renders the muscle motors of affected targets extremely weak for a short time. Being non-fatal makes them perfect for use in urban environments and against civilian crowds."
+"asw_wdesc_stun_grenades"		"Una serie di granate stordenti leggere da lancio. Queste granate rilasciano una forte scarica elettrica che indebolisce notevolmente i motori muscolari dei bersagli colpiti per un breve periodo di tempo. Essendo non letali, sono perfette per l'uso in ambienti urbani e contro folle di civili."
+"[english]asw_weapon_stun_grenades_attributes"		"Splash Stun, Negligible Friendly Fire"
+"asw_weapon_stun_grenades_attributes"		"Stordimento ad Area, Fuoco Amico Trascurabile"
 "[english]asw_weapon_incendiary_grenades"		"Incendiary Grenades"
 "asw_weapon_incendiary_grenades"		"Granate Incendiarie"
 // NA = napalm; -23 is a reference to gasoline's flashpoint, -23 degrees celsius.
 "[english]asw_weaponl_incendiary_grenades"		"NA-23 Incendiary Grenades"
 "asw_weaponl_incendiary_grenades"		"Granate Incendiarie NA-23"
-		"[english]asw_wdesc_incendiary_grenades"		"A set of offhand contact based and timed napalm enriched incendiary grenades. Offering a high area of effect damage for indirect fire making them preferred for breach situations and crowd control against large hostile groups, as well as an on the go solution against areas infested with swarm biomass."
-		"asw_wdesc_incendiary_grenades"		"A set of offhand contact based and timed napalm enriched incendiary grenades. Offering a high area of effect damage for indirect fire making them preferred for breach situations and crowd control against large hostile groups, as well as an on the go solution against areas infested with swarm biomass."
-		"[english]asw_weapon_incendiary_grenades_attributes"		"Ignites"
-		"asw_weapon_incendiary_grenades_attributes"		"Ignites"
+"[english]asw_wdesc_incendiary_grenades"		"A set of offhand contact based and timed napalm enriched incendiary grenades. Offering a high area of effect damage for indirect fire making them preferred for breach situations and crowd control against large hostile groups, as well as an on the go solution against areas infested with swarm biomass."
+"asw_wdesc_incendiary_grenades"		"Una serie di granate incendiarie arricchite con napalm, a contatto e a tempo. Offrono un'ampia area di danno per il fuoco indiretto, rendendole ideali per situazioni di breccia e controllo della folla contro grandi gruppi ostili, nonché una soluzione immediata contro aree infestate da sciami di biomassa."
+"[english]asw_weapon_incendiary_grenades_attributes"		"Ignites"
+"asw_weapon_incendiary_grenades_attributes"		"Infiamma"
 "[english]asw_weapon_speed_burst"		"Speed Burst"
 "asw_weapon_speed_burst"		"Raffica di Velocità"
 // EX = exoskeleton; 981 is backwards 1890, the year when Nicholas Yagin invented US440684, (one of) the earliest known powered exoskeletons.
@@ -10039,8 +10039,8 @@
 "asw_infection_infected"		"%s1 è stato infettato da %s2."
 "[english]asw_infection_lastStand_on"		"Last Stand mode is now available to the Humans."
 "asw_infection_lastStand_on"		"Modalità Ultima Resistenza disponibile per gli Umani."
-"[english]asw_infection_lastStand_key"		"Hold Melee key to activate Last Stand mode"
-"asw_infection_lastStand_key"		"Tieni premuto il tasto Corpo a corpo per attivare la modalità Ultima Resistenza"
+"[english]asw_infection_lastStand_key"		"Hold Melee + Crouch keys to activate Last Stand mode"
+"asw_infection_lastStand_key"		"Tieni premuto i tasti Mischia + Accovacciato per attivare la modalità Ultima Resistenza"
 "[english]asw_infection_lastStand_used"		"%s1 activated Last Stand mode."
 "asw_infection_lastStand_used"		"%s1 ha attivato la modalità Ultima Resistenza."
 "[english]asw_infection_lastStand_timeAdd"		"+60 seconds to the match timer."
@@ -10647,8 +10647,8 @@
 "challenge_traitors_vgui_menu_scanner_2"		"Scansione pronta tra "
 "[english]challenge_traitors_vgui_menu_scanner_3"		"s."
 "challenge_traitors_vgui_menu_scanner_3"		"s."
-		"[english]challenge_traitors_vgui_menu_scanner_4"		"(Red: Traitor | Green: IAF | Blue: UDP packet has lost.)"
-		"challenge_traitors_vgui_menu_scanner_4"		"(Red: Traitor | Green: IAF | Blue: UDP packet has lost.)"
+"[english]challenge_traitors_vgui_menu_scanner_4"		"(Red: Traitor | Green: IAF | Blue: UDP packet has lost.)"
+"challenge_traitors_vgui_menu_scanner_4"		"(Rosso: Traditore | Verde: IAF | Blu: Pacchetto UDP perduto.)"
 "[english]challenge_traitors_role_chat_random_scan"		"For game balance considerations, the first several scans are randomized. The target should be within a certain range."
 "challenge_traitors_role_chat_random_scan"		"Per motivi di bilanciamento del gioco, le prime scansioni sono casuali. Il bersaglio deve trovarsi entro un certo raggio d'azione."
 
@@ -10671,8 +10671,8 @@
 "challenge_traitors_vgui_menu_biochemist_3"		"L'abilità sarà pronta tra "
 "[english]challenge_traitors_vgui_menu_biochemist_4"		"s."
 "challenge_traitors_vgui_menu_biochemist_4"		"s."
-		"[english]challenge_traitors_vgui_menu_biochemist_5"		"You have already used your skill.(Blue: UDP packet has lost.)"
-		"challenge_traitors_vgui_menu_biochemist_5"		"You have already used your skill.(Blue: UDP packet has lost.)"
+"[english]challenge_traitors_vgui_menu_biochemist_5"		"You have already used your skill.(Blue: UDP packet has lost.)"
+"challenge_traitors_vgui_menu_biochemist_5"		"Hai già utilizzato la tua abilità.(Blu: Pacchetto UDP perduto.)"
 
 //iaf_leader
 "[english]challenge_traitors_role_article_iaf_leader"		"a"
@@ -10703,8 +10703,8 @@
 "challenge_traitors_vgui_menu_shield_2"		"L'abilità sarà pronta tra "
 "[english]challenge_traitors_vgui_menu_shield_3"		"s."
 "challenge_traitors_vgui_menu_shield_3"		"s."
-		"[english]challenge_traitors_vgui_menu_shield_4"		"You have already used your skill.(Blue: UDP packet has lost.)"
-		"challenge_traitors_vgui_menu_shield_4"		"You have already used your skill.(Blue: UDP packet has lost.)"
+"[english]challenge_traitors_vgui_menu_shield_4"		"You have already used your skill.(Blue: UDP packet has lost.)"
+"challenge_traitors_vgui_menu_shield_4"		"Hai già utilizzato la tua abilità.(Blue: Pacchetto UDP perduto.)"
 
 //sniper
 "[english]challenge_traitors_role_article_sniper"		"a"
@@ -10785,8 +10785,8 @@
 "challenge_traitors_vgui_menu_infector_3"		"L'abilità sarà pronta tra "
 "[english]challenge_traitors_vgui_menu_infector_4"		"s."
 "challenge_traitors_vgui_menu_infector_4"		"s."
-		"[english]challenge_traitors_vgui_menu_infector_5"		"You have already used your skill.(Blue: UDP packet has lost.)"
-		"challenge_traitors_vgui_menu_infector_5"		"You have already used your skill.(Blue: UDP packet has lost.)"
+"[english]challenge_traitors_vgui_menu_infector_5"		"You have already used your skill.(Blue: UDP packet has lost.)"
+"challenge_traitors_vgui_menu_infector_5"		"Hai già utilizzato la tua abilità.(Blu: Pacchetto UDP perduto.)"
 
 //boomer
 "[english]challenge_traitors_role_article_boomer"		"a"
@@ -10817,8 +10817,8 @@
 "challenge_traitors_vgui_menu_silencer_2"		"L'abilità sarà pronta tra "
 "[english]challenge_traitors_vgui_menu_silencer_3"		"s."
 "challenge_traitors_vgui_menu_silencer_3"		"s."
-		"[english]challenge_traitors_vgui_menu_silencer_4"		"You have already used your skill.(Blue: UDP packet has lost.)"
-		"challenge_traitors_vgui_menu_silencer_4"		"You have already used your skill.(Blue: UDP packet has lost.)"
+"[english]challenge_traitors_vgui_menu_silencer_4"		"You have already used your skill.(Blue: UDP packet has lost.)"
+"challenge_traitors_vgui_menu_silencer_4"		"Hai già utilizzato la tua abilità.(Blu: Pacchetto UDP perduto.)"
 
 //mimic
 "[english]challenge_traitors_role_article_mimic"		"a"

@@ -1,0 +1,19 @@
+GAME
+{
+// PDA appartenant à Charles Rivera
+
+// Boîte de réception
+
+"MailFrom1"     "De : Laura Callen"
+"MailDate1"     "Date : 23/12/52"
+"MailSubject1"  "Objet : Transfert d’e-mail"
+"MailBody1A"    "M. Rivera,"
+"MailBody1B"    "Je vous ai contacté il y a deux jours au sujet des problèmes que je rencontre. Vous m’aviez dit que vous alliez vous en occuper. Je n’ai toujours reçu aucune mise à jour. Pourquoi cela prend-il autant de temps ?"
+"MailBody1C"    "L. Callen"
+
+"MailFrom2"     "De : John Cain"
+"MailDate2"     "Date : 24/12/52"
+"MailSubject2"  "Objet : Re : Callen commence à se douter de quelque chose"
+"MailBody2A"    "Rivera : ignorez Callen et restez à l’écart. Transférez-moi tous les messages qu’elle a envoyés à l’IA."
+"MailBody2B"    "Lt. Cain, Sécurité SynTek"
+}

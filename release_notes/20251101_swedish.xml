@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<content><string id="body">[h2]Highlights[/h2]
+[list]
+[*]Lade till en ny bakgrundsbild på huvudmenyn med SynTek Residential-tema.
+[*]Kameraflödena som visas bakom briefingen är mindre statiska och mindre störande.
+[*]Många vapen är nu mer träffsäkra när man hukar sig.
+[/list]
+
+[h2]Vapen[/h2]
+[i]Vapenrekylen har ändrats på flera vapen. Ett kodningsfel orsakade tidigare att "tillplattad" rekyl fungerade annorlunda vid siktning norr eller söder jämfört med öst eller väst.[/i]
+[list]
+[*][b]22A3-1 Stridsgeväret:[/b]
+Normal spridning: 03° (bred) × 03° (lång) → oändrad.
+Hukspridning: 03° × 03° → 01° × 01°.
+[*][b]22A4-2 Attack-Gevär:[/b]
+Normal spridning: 03° × 03° → oändrad.
+Hukspridning: 03° × 03° → 01° × 01°.
+[*][b]22A5 Tunga Attack-Geväret:[/b]
+Normal spridning: 15° × 03° → oändrad.
+Hukspridning: 06° × 03° → 06° × 01°.
+[*][b]22A7-Z Prototypgeväret:[/b]
+Normal spridning: 03° × 03° → oändrad.
+Hukspridning: 03° × 03° → 01° × 01°.
+[*][b]50CMG4-1:[/b]
+Normal spridning: 20° × ~2.5° (sönder!) → 20° × 10°.
+Hukspridning: 20° × ~2.5° (sönder!) → 10° × 05°.
+[*][b]IAF Medicinska-SMG:[/b]
+Normal spridning: 15° × ~2.5° (sönder!) → 15° × 03°.
+Hukspridning: 06° × ~1.5° (sönder!) → 06° × 01°.
+[*][b]IAF Minigun:[/b]
+Normal spridning: 15° × ~2.5° (sönder!) → 15° × 03°.
+Hukspridning: 06° × ~1.5° (sönder!) → 06° × 01°.
+[*][b]K80 Personligt Skyddsvapen:[/b]
+Normal spridning: 03° × 03° → unchanged.
+Hukspridning: 03° × 03° → 01° × 01°.
+[*][b]M42 Vindicator:[/b]
+Normal spridning: 22° × 22° → 22° × 12°.
+Hukspridning: 22° × 22° → 16° × 06°.
+[*][b]Modell 35 Pump-action Hagelgevär:[/b]
+Normal spridning: 22° × 22° → 22° × 12°.
+Hukspridning: 22° × 22° → 16° × 06°.
+[*][b]PS50 Bulldoggen:[/b]
+Normal spridning: 15° × ~2.5° (sönder!) → 15° × 03°.
+Hukspridning: 06° × ~1.5° (sönder!) → 06° × 01°.
+[*][b]S23A SynTek Autovapen:[/b]
+Normal spridning: 07° × 07° → 07° × 03°.
+Hukspridning: 07° × 07° → 04° × 01°.
+[/list]
+
+[h2]Uppdragsförbättringar[/h2]
+[list]
+[*][b]Jacobs Vila: Frakthissen:[/b] Gjorde hissens tak något genomskinligt för att underlätta kamerarotation.
+[*][b]Jacobs Vila: Frakthissen:[/b] Åtgärdade lite flimmer på hissens utgångsdörr.
+[*][b]Jacobs Vila: Deima Yt-bro:[/b] Fixade några drönarspawn-platser på bron som resulterade i att utomjordingar fastnade.
+[*][b]Jacobs Vila: Deima Yt-bro:[/b] Förbättrad anstormingsspawns runt slutet av bron.
+[*][b]Forskning 7: Illyn Skogen:[/b] Tog bort parasit ägg utanför kart gränserna för att förbättra prestandan. Förbättrad utomjordisk navigering runt den första biomassan. Fixade att marinsoldater också kan fastna där.
+[*][b]Forskning 7: Jerichos Gruva:[/b] Tog bort parasit ägg som befanns utanför gränserna för att förbättra prestandan.
+[*][b]Tårar för Tarnor: Övergivna Underhållstunnlar:[/b] Fixade problemet med att utomjordingar fastnade runt lasern.
+[*][b]Tårar för Tarnor: Oasis Koloni Rymdhamn:[/b] Fixade en xenomit-spawnplats i kontrollrummet som inte fungerade. Fixade att skördare flyttade sig till ett oåtkomligt område nära kartans slut.
+[*][b]Tilarus-5: Arktisk Infiltration:[/b] Åtgärdade vilseledande kollisioner runt den första luftslussen.
+[*][b]Tilarus-5: Kommunikationscenter:[/b] Åtgärdade några sällsynta krascher och förbättrade visuella effekter.
+[*][b]Lanas Flykt: Lanas Underhåll:[/b] Åtgärdade att det ibland inte fanns tillräckligt med hackbara paneler för att laga bron.
+[*][b]Lanas Flykt: Lanas Bro:[/b] Mindre prestandaförbättringar. Förbättrad grafik av kanoner utanför kartgränserna.
+[*][b]Paranoia: Fientliga Platser:[/b] Mindre visuella förbättringar.
+[*][b]Paranoia: Hög Spänning:[/b] Åtgärdade vissa fall av markflimmer.
+[*][b]Paranoia: Avgörande Punkt:[/b] Minskad terrängkomplexitet som inte påverkade spelupplägget eller grafiken för något snabbare laddningstid.
+[*][b]Nam Humanum: Platform XVII:[/b] Fixade anstormingsutomjordingar som spawnade i luften längs plattformsspåret.
+[*][b]Nam Humanum: Markarbetes Labbet:[/b] Fixade problemet med att marinsoldater fastnade i början efter de första åtta (i speciella spellägen med fler än åtta marinsoldater).
+[*][b]Nam Humanum: Markarbetes Labbet:[/b] Åtgärdade ett prestandaproblem när man närmade sig det centrala området i flerspelarläge.
+[*][b]Reducering: Förfallna Staden:[/b] Fixade en brand nära några ägg i slutet av uppdraget som var väldigt långsam att antända.
+[*][b]DM Öken:[/b] Fixade att hinder blev mörkblåa.
+[*][b]Minskad nätverkstrafik genom att optimera prop_ragdoll på följande kartor:[/b][list][*]Jacobs Vila: Landningsvik[*]Jacobs Vila: SynTek Bostad[*]Nam Humanum: Plattform XVII[*]Paranoia: Närkontakt[*]Paranoia: Avgörande Punkt[*]Forskning 7: Jerichos Gruva[*]Tårar för Tarnor: Insättningspunkt [*]Tilarus-5: Arktisk Infiltration[*]Tilarus-5: Syntek Sjukhus[/list]
+[/list]</string><string id="subtitle"></string><string id="summary"></string><string id="title">AS:RD Uppdatering - 1 november, 2025 "Spiral av eld"</string></content>

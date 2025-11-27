@@ -1,0 +1,19 @@
+GAME
+{
+// PDA belongs to Naka
+
+// Inbox
+
+"MailFrom1" "송신자: 지휘관"
+"MailDate1" "날짜: 63년 9월 25일"
+"MailSubject1" "주제: 명령"
+"MailBody1A" "모든 걸 두고 회의실로 돌아와라."
+
+// Sent
+
+"MailFrom3" "수신자: 지휘관"
+"MailDate3" "날짜: 63년 9월 25일"
+"MailSubject3" "주제: 3a 단계 완료"
+"MailBody3A" "실험용 외계인이 든 철창은 제자리에 설치되어 있습니다. 투명한 녀석들은 번식하지 못하는 게 아쉽네요."
+"MailBody3B" "곧 깨어날 겁니다... 저 군사들은 상대도 안 될 거예요."
+}

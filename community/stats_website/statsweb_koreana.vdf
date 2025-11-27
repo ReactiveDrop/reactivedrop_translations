@@ -507,7 +507,7 @@
 "rd_event_news_ranked_missions_added"		"HoIAF에 새 임무와 인기 많은 구 임무가 추가되었습니다!"
 "[english]rd_event_news_ranked_missions_endless"		"HoIAF adds Endless Missions!"
 "rd_event_news_ranked_missions_endless"		"HoIAF에 무한 임무가 추가되었습니다!"
-		"[english]rd_event_steam_pvp_fest_2026"		"Steam PvP Fest 2026!"
-		"rd_event_steam_pvp_fest_2026"		"Steam PvP Fest 2026!"
+"[english]rd_event_steam_pvp_fest_2026"		"Steam PvP Fest 2026!"
+"rd_event_steam_pvp_fest_2026"		"스팀 PvP 축제 2026!"
 }
 }
