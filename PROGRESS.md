@@ -10,7 +10,7 @@
 | [French](#french-français) | ✔️ | 67 | ✔️ | 2527 | 285 | ✔️ | 365 | 112 |
 | [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Hungarian](#non-curated-languages) | 56 | 138 | 43 | 3382 | 286 | 231 | 975 | 148 |
-| [Indonesian](#indonesian-indonesia) | 719 | 2004 | 635 | 4348 | 289 | 236 | 972 | 148 |
+| [Indonesian](#indonesian-indonesia) | 575 | 2004 | 635 | 4348 | 289 | 236 | 972 | 146 |
 | [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 35 | ✔️ |
 | [Korean](#koreana-한국어) | ✔️ | ✔️ | ✔️ | 30 | ✔️ | ✔️ | ✔️ | ✔️ |
@@ -537,7 +537,7 @@
 - [misc/signage/signage_indonesian.vdf](misc/signage/signage_indonesian.vdf) has 70 untranslated strings.
 - [platform/servers/serverbrowser_indonesian.txt](platform/servers/serverbrowser_indonesian.txt) has 186 untranslated strings.
 - [platform/vgui_indonesian.txt](platform/vgui_indonesian.txt) has 184 untranslated strings.
-- [basemodui_indonesian.txt](resource/basemodui_indonesian.txt) has 719 untranslated strings.
+- [basemodui_indonesian.txt](resource/basemodui_indonesian.txt) has 575 untranslated strings.
 - [closecaption_indonesian.txt](resource/closecaption_indonesian.txt) has 2004 untranslated strings.
 - [gameui_indonesian.txt](resource/gameui_indonesian.txt) has 635 untranslated strings.
 - [reactivedrop_indonesian.txt](resource/reactivedrop_indonesian.txt) has 4348 untranslated strings.
@@ -692,8 +692,6 @@
 - [news/antheonmissingnews_indonesian.txt](resource/news/antheonmissingnews_english.txt) is missing.
 - [news/antheonmoonnews_indonesian.txt](resource/news/antheonmoonnews_english.txt) is missing.
 - [news/brainnews_indonesian.txt](resource/news/brainnews_english.txt) is missing.
-- [news/convoynews_indonesian.txt](resource/news/convoynews_english.txt) is missing.
-- [news/droidlawsnews_indonesian.txt](resource/news/droidlawsnews_english.txt) is missing.
 - [news/expansionnews_indonesian.txt](resource/news/expansionnews_english.txt) is missing.
 - [news/experiornews_indonesian.txt](resource/news/experiornews_english.txt) is missing.
 - [news/newcolonynews_indonesian.txt](resource/news/newcolonynews_english.txt) is missing.
