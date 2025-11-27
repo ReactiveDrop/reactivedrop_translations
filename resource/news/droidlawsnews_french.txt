@@ -1,0 +1,6 @@
+{"Headline": "SynTek accusée de violations de la Loi sur les Droïdes",
+"HeadlineDate": "19/12/52",
+"Paragraph1": "Une source anonyme a récemment contacté l’IA avec des preuves supposées indiquant que la méga-corporation SynTek utiliserait des androïdes militaires reprogrammés dans certaines de ses installations chimiques. Si ces allégations s’avèrent exactes, SynTek enfreindrait non seulement la loi militaire, mais aussi plusieurs lois sur l’emploi.",
+"Paragraph2": "La source a également accusé SynTek d’utiliser un droïde de la série S-300 Scavenger, un modèle très peu fiable réservé à l’usage de l’IAF sur des planètes reculées, loin de tout contact civil.",
+"Paragraph3": "Un porte-parole de SynTek a commenté les allégations en déclarant : « Ces rumeurs sont totalement fausses. Personne ne voudrait s’approcher d’un S-300 après le massacre du monde de plaisance Rosebloom en 36. La division robotique de SynTek respecte à la lettre les normes de l’IA. »",
+"Paragraph4": "SynTek a fermé plusieurs de ses installations chimiques peu après la révélation des accusations, affirmant n’aucun lien avec celles-ci, mais invoquant des raisons d’obsolescence normale."}
