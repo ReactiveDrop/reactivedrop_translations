@@ -1,7 +1,7 @@
 GAME
 {
 "Headline"	"Konvoi United Industries Berangkat"
-"HeadlineDate"	"12/21/52"
+"HeadlineDate"	"21/12/52"
 "Paragraph1"	"Konvoi United Industries berangkat minggu ini dari koloni pusat mereka, menuju Sistem Inti. Armada besar ini terdiri dari setidaknya 25 kapal kargo kelas Leviathan dan memiliki perlindungan penuh dari IAF selama perjalanannya."
 "Paragraph2"	"Konvoi ini akan membawa sumber daya luar angkasa yang sangat dicari, yang digunakan di seluruh industri manufaktur dan produksi di Sistem Inti. Mereka juga akan membawa barang-barang eksotis dan mewah untuk pasar konsumen."
 "Paragraph3"	"Kritikus United Industries menuduh mereka juga membawa sejumlah barang pasar gelap, termasuk narkotika luar angkasa yang berbahaya."
