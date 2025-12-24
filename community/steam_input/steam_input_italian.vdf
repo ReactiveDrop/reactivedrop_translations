@@ -166,68 +166,68 @@
 //
 // A or Cross button
 "[english]Button_MenuConfirm"		"Menu Confirm"
-"Button_MenuConfirm"		"Conferma Menu"
+"Button_MenuConfirm"		"Conferma (menù)"
 // B or Circle button
 "[english]Button_MenuBack"		"Menu Back"
-"Button_MenuBack"		"Indietro Menu"
+"Button_MenuBack"		"Indietro (menù)"
 // X or Square button
 "[english]Button_MenuSpecial1"		"Menu Special 1"
-"Button_MenuSpecial1"		"Speciale Menu 1"
+"Button_MenuSpecial1"		"Speciale 1 (menù)"
 // Y or Triangle button
 "[english]Button_MenuSpecial2"		"Menu Special 2"
-"Button_MenuSpecial2"		"Speciale Menu 2"
+"Button_MenuSpecial2"		"Speciale 2 (menù)"
 
 // Left shoulder button
 "[english]Button_MenuL1"		"Menu L1"
-"Button_MenuL1"		"L1 Menu"
+"Button_MenuL1"		"L1 (menù)"
 // Right shoulder button
 "[english]Button_MenuR1"		"Menu R1"
-"Button_MenuR1"		"R1 Menu"
+"Button_MenuR1"		"R1 (menù)"
 // Left trigger
 "[english]Button_MenuL2"		"Menu L2"
-"Button_MenuL2"		"L2 Menu"
+"Button_MenuL2"		"L2 (menù)"
 // Right trigger
 "[english]Button_MenuR2"		"Menu R2"
-"Button_MenuR2"		"R2 Menu"
+"Button_MenuR2"		"R2 (menù)"
 // Left stick click
 "[english]Button_MenuL3"		"Menu L3"
-"Button_MenuL3"		"L3 Menu"
+"Button_MenuL3"		"L3 (menù)"
 // Right stick click
 "[english]Button_MenuR3"		"Menu R3"
-"Button_MenuR3"		"R3 Menu"
+"Button_MenuR3"		"R3 (menù)"
 // Select, View, Back, or Share button
 "[english]Button_MenuSelect"		"Menu Select"
-"Button_MenuSelect"		"Select Menu"
+"Button_MenuSelect"		"Select (menù)"
 // Start, Menu, or Options button
 "[english]Button_MenuStart"		"Menu Start"
-"Button_MenuStart"		"Start Menu"
+"Button_MenuStart"		"Start (menù)"
 
 "[english]Button_MenuLeft"		"Menu D-Pad Left"
-"Button_MenuLeft"		"Direzionale Sinistro Menu"
+"Button_MenuLeft"		"Direzionale Sinistro (menù)"
 "[english]Button_MenuRight"		"Menu D-Pad Right"
-"Button_MenuRight"		"Direzionale Destro Menu"
+"Button_MenuRight"		"Direzionale Destro (menù)"
 "[english]Button_MenuUp"		"Menu D-Pad Up"
-"Button_MenuUp"		"Direzionale Alto Menu"
+"Button_MenuUp"		"Direzionale Alto (menù)"
 "[english]Button_MenuDown"		"Menu D-Pad Down"
-"Button_MenuDown"		"Direzionale Basso Manu"
+"Button_MenuDown"		"Direzionale Basso (menù)"
 
 "[english]Button_MenuLeftStickLeft"		"Menu L Stick Left"
-"Button_MenuLeftStickLeft"		"Levetta S Sinistra Menu"
+"Button_MenuLeftStickLeft"		"Levetta S Sinistra (menù)"
 "[english]Button_MenuLeftStickRight"		"Menu L Stick Right"
-"Button_MenuLeftStickRight"		"Levetta S Destra Menu"
+"Button_MenuLeftStickRight"		"Levetta S Destra (menù)"
 "[english]Button_MenuLeftStickUp"		"Menu L Stick Up"
-"Button_MenuLeftStickUp"		"Levetta S Alto Menu"
+"Button_MenuLeftStickUp"		"Levetta S Alto (menù)"
 "[english]Button_MenuLeftStickDown"		"Menu L Stick Down"
-"Button_MenuLeftStickDown"		"Levetta S Basso Menu"
+"Button_MenuLeftStickDown"		"Levetta S Basso (menù)"
 
 "[english]Button_MenuRightStickLeft"		"Menu R Stick Left"
-"Button_MenuRightStickLeft"		"Levetta D Sinistra Menu"
+"Button_MenuRightStickLeft"		"Levetta D Sinistra (menù)"
 "[english]Button_MenuRightStickRight"		"Menu R Stick Right"
-"Button_MenuRightStickRight"		"Levetta D Destra Menu"
+"Button_MenuRightStickRight"		"Levetta D Destra (menù)"
 "[english]Button_MenuRightStickUp"		"Menu R Stick Up"
-"Button_MenuRightStickUp"		"Levetta D Alto Menu"
+"Button_MenuRightStickUp"		"Levetta D Alto (menù)"
 "[english]Button_MenuRightStickDown"		"Menu R Stick Down"
-"Button_MenuRightStickDown"		"Levetta D Basso Menu"
+"Button_MenuRightStickDown"		"Levetta D Basso (menù)"
 
 "[english]InputConfigTitle_Generic"		"AS:RD Default"
 "InputConfigTitle_Generic"		"Predefinito di AS:RD"
