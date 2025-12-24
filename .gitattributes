@@ -1,5 +1,5 @@
-*.txt text eol=crlf linguist-detectable linguist-language="Valve Data Format"
-*.vdf text eol=crlf linguist-detectable linguist-language="Valve Data Format"
-*.json text eol=lf linguist-detectable linguist-language="JSON"
+*.txt text eol=crlf linguist-detectable linguist-language=vdf
+*.vdf text eol=crlf linguist-detectable linguist-language=vdf
+*.json text eol=lf linguist-detectable linguist-language=json
 *.go text eol=lf
 go.* text eol=lf
