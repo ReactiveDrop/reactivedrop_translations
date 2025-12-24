@@ -482,10 +482,10 @@
 "LinkWeb_Twitch_status_removed"		"Scollegato."
 // the token used to link the account was invalid
 "[english]LinkWeb_Twitch_status_invalid"		"Account link removed. Connection revoked on the twitch.tv website or an error occurred."
-"LinkWeb_Twitch_status_invalid"		"Collegamento con l'account rimosso. Connessione revocata al sito web twitch.tv oppure si è verificato un'errore."
+"LinkWeb_Twitch_status_invalid"		"Collegamento con l'account rimosso. La connessione è stata revocata sul sito web twitch.tv oppure si è verificato un'errore."
 // another Steam account is linked to the Twitch account
 "[english]LinkWeb_Twitch_status_conflict"		"Account link removed. Twitch account was connected to a different Steam account."
-"LinkWeb_Twitch_status_conflict"		"Collegamento con l'account rimosso. L'account di Twitch era connesso ad un account di Steam differente."
+"LinkWeb_Twitch_status_conflict"		"Collegamento con l'account rimosso. L'account di Twitch era connesso ad un account di Steam diverso."
 // followed by timestamp of last change to account link status
 "[english]LinkWeb_LastModified"		"Last changed:"
 "LinkWeb_LastModified"		"Ultima modifica:"
