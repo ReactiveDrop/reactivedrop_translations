@@ -306,7 +306,7 @@
 "[english]VAC_BanSupportURL"		"http://support.steampowered.com/cgi-bin/steampowered.cfg/php/enduser/std_adp.php?p_faqid=370"
 "VAC_BanSupportURL"		"http://support.steampowered.com/cgi-bin/steampowered.cfg/php/enduser/std_adp.php?p_faqid=370"
 "[english]VAC_SecureServerToolTip"		"Valve Anti-Cheat - Secure"
-"VAC_SecureServerToolTip"		"Anti-trucchi di Valve - Protetto"
+"VAC_SecureServerToolTip"		"Valve Anti-Cheat - Protetto"
 "[english]VAC_BannedFromServerToolTip"		"You cannot connect to this secure server"
 "VAC_BannedFromServerToolTip"		"Non puoi connetterti a questo server protetto"
 "[english]VAC_Secure"		"Secure"
