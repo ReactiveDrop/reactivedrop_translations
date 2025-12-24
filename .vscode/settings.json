@@ -3,5 +3,9 @@
 	"editor.insertSpaces": false,
 	"files.associations": {
 		"*.txt": "vdf"
+	},
+	"explorer.fileNesting.patterns": {
+		"*_english.vdf": "${capture}_*.vdf",
+		"*_english.txt": "${capture}_*.txt"
 	}
 }
