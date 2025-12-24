@@ -6,6 +6,7 @@
 	},
 	"explorer.fileNesting.patterns": {
 		"*_english.vdf": "${capture}_*.vdf",
-		"*_english.txt": "${capture}_*.txt"
+		"*_english.txt": "${capture}_*.txt",
+		"*_english.json": "${capture}_*.json"
 	}
 }
