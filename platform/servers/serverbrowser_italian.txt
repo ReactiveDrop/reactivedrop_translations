@@ -333,7 +333,7 @@
 "VAC_ConnectionIssuesSupportURL"		"http://support.steampowered.com/cgi-bin/steampowered.cfg/php/enduser/std_adp.php?p_faqid=374"
 
 "[english]ServerBrowser_FriendNotInGameServer"		"%friend% is not currently playing on any game server."
-"ServerBrowser_FriendNotInGameServer"		"Attualmente, %friend% non sta giocando su alcun server di gioco."
+"ServerBrowser_FriendNotInGameServer"		"Attualmente, %friend% non sta giocando su alcun server."
 "[english]ServerBrowser_NotInGame"		"[ none ]"
 "ServerBrowser_NotInGame"		"[ nessuno ]"
 "[english]ServerBrowser_PendingPing"		"<pending>"
