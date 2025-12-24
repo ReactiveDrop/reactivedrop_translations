@@ -13,11 +13,11 @@
 "Layer_InGameMenus"		"Nei Menù"
 
 "[english]Stick_Move"		"Move"
-"Stick_Move"		"Muoversi"
+"Stick_Move"		"Muovi"
 "[english]Stick_Look"		"Aim"
-"Stick_Look"		"Mirare"
+"Stick_Look"		"Mira"
 "[english]Stick_MenuNavigate"		"Menu Navigation"
-"Stick_MenuNavigate"		"Navigazione nei Menù"
+"Stick_MenuNavigate"		"Naviga nei Menù"
 
 "[english]Button_PrimaryAttack"		"Primary Attack"
 "Button_PrimaryAttack"		"Fuoco Primario"
@@ -56,13 +56,13 @@
 
 // in case someone wants to set up some kind of wacky controller setup that doesn't use analog stick movement:
 "[english]Button_MoveForward"		"Move Forward"
-"Button_MoveForward"		"Muoviti in Avanti"
+"Button_MoveForward"		"Muovi in Avanti"
 "[english]Button_MoveLeft"		"Move Left"
-"Button_MoveLeft"		"Muoviti a Sinistra"
+"Button_MoveLeft"		"Muovi a Sinistra"
 "[english]Button_MoveBack"		"Move Back"
-"Button_MoveBack"		"Muoviti all'Indietro"
+"Button_MoveBack"		"Muovi all'Indietro"
 "[english]Button_MoveRight"		"Move Right"
-"Button_MoveRight"		"Muoviti a Destra"
+"Button_MoveRight"		"Muovi a Destra"
 // the key that is bound to shift by default on keyboard
 "[english]Button_MoveSlow"		"Walk / Crouch"
 "Button_MoveSlow"		"Cammina / Accovacciati"
