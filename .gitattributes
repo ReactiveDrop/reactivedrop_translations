@@ -1,5 +1,6 @@
 *.txt text eol=crlf linguist-detectable linguist-language=vdf
 *.vdf text eol=crlf linguist-detectable linguist-language=vdf
 *.json text eol=lf linguist-detectable linguist-language=json
+*.xml linguist-detectable linguist-language=xml
 *.go text eol=lf
 go.* text eol=lf
