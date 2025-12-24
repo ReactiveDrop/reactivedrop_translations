@@ -83,7 +83,7 @@
 "[english]Button_EmoteExclaim"		"'Watch out!'"
 "Button_EmoteExclaim"		"'Attenzione!'"
 "[english]Button_EmoteSmile2"		"(anime smile)"
-"Button_EmoteSmile2"		"(sorriso da anime)"
+"Button_EmoteSmile2"		"(sorriso anime)"
 "[english]Button_EmoteQuestion"		"'What?'"
 "Button_EmoteQuestion"		"'Cosa?'"
 
@@ -236,6 +236,6 @@
 "[english]InputConfigTitle_SteamDeck"		"AS:RD Steam Deck Default"
 "InputConfigTitle_SteamDeck"		"Predefinito di AS:RD per Steam Deck"
 "[english]InputConfigDescription_SteamDeck"		"Default control scheme for Alien Swarm: Reactive Drop with mouse trackpads."
-"InputConfigDescription_SteamDeck"		"Lo schema dei comandi predefinito di Alien Swarm: Reactive Drop con trackpad del mouse."
+"InputConfigDescription_SteamDeck"		"Lo schema dei comandi predefinito di Alien Swarm: Reactive Drop con trackpad come mouse."
 }
 }
