@@ -1,0 +1,9 @@
+GAME
+{
+"Headline"	"SynTek dituduh melanggar Undang-Undang Droid"
+"HeadlineDate"	"19/12/52"
+"Paragraph1"	"Sumber anonim baru-baru ini menghubungi IA dengan bukti dugaan bahwa Megakorporasi SynTek menggunakan android militer yang diprogram ulang di beberapa fasilitas kimianya. Jika tuduhan itu benar, SynTek akan melanggar tidak hanya hukum militer, tetapi juga beberapa undang-undang ketenagakerjaan."
+"Paragraph2"	"Sumber tersebut juga menuduh SynTek menggunakan droid seri S-300 Scavenger, model yang sangat tidak dapat diandalkan yang disediakan untuk digunakan oleh IAF di planet-planet terpencil jauh dari kemungkinan kontak sipil."
+"Paragraph3"	"Juru bicara SynTek telah mengomentari tuduhan tersebut, menyatakan 'Rumor ini benar-benar salah. Tidak ada yang ingin mendekati S-300 setelah Pembantaian Dunia Hiburan Rosebloom pada tahun '36. Divisi Robotika SynTek mengikuti standar IA dengan ketat.'"
+"Paragraph4"	"SynTek menutup beberapa fasilitas kimianya tak lama setelah tuduhan tersebut mencuat, mengklaim tidak ada hubungan dengan tuduhan tersebut, tetapi mengutip alasan keusangan normal."
+}

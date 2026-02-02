@@ -1,0 +1,9 @@
+GAME
+{
+"Headline" "50e Anniversaire de l’Acte d’Expansion"
+"HeadlineDate" "12/02/52"
+"Paragraph1" "Des célébrations ont eu lieu aujourd’hui à travers toute l’Alliance Interstellaire pour marquer le soutien à l’Acte d’Expansion Interstellaire de 2202. Cette directive, couronnée de succès, permet à toute entité enregistrée de revendiquer des planètes, des lunes, voire des systèmes stellaires entiers par droit de première découverte."
+"Paragraph2" "L’Acte a été largement utilisé par les grandes corporations, favorisant une expansion et une colonisation sans précédent dans l’histoire humaine. Il fut instauré afin d’encourager la population à quitter la Terre, alors que la surpopulation et le coût de la vie mettaient en péril la stabilité de la planète mère."
+"Paragraph3" "Un certain nombre de manifestants ont été arrêtés devant l’ambassade centrale de l’IA après avoir protesté contre la loi, affirmant que l’Acte est responsable de la fragmentation de l’humanité, citant les « Élus » et le « Protectorat Humaniste » comme exemples principaux. Certains extrémistes blâment également l’Acte et l’IA d’avoir exposé l’humanité au Fléau."
+"Paragraph4" "Les célébrations ont été sponsorisées et organisées par Trust Media, Paradise Supplies, United Industries et la méga-corporation SynTek. Un porte-parole a déclaré : « Détendez-vous, amusez-vous, montrez votre soutien ! Puis venez dans l’un de nos centres de recrutement et embrassez l’avenir ! »"
+}

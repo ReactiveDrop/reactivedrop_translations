@@ -51,7 +51,8 @@
 			"display_type_vietnamese": "Dụng cụ dùng một lần",
 			"icon_url": "https://stats.reactivedrop.com/static/items/4000.png",
 			"name_color": "CF6A32",
-			"tags": "crafting_item:single_use_tool;contains_any:set_1_strange_weapon;contains_any:set_1_strange_equipment"
+			"tags": "crafting_item:single_use_tool;contains_any:set_1_strange_weapon;contains_any:set_1_strange_equipment",
+			"container_contents_generator": 900000003
 		},
 		{
 			"itemdefid": 4001,
@@ -103,7 +104,8 @@
 			"display_type_vietnamese": "Dụng cụ dùng một lần",
 			"icon_url": "https://stats.reactivedrop.com/static/items/4001.png",
 			"name_color": "CF6A32",
-			"tags": "crafting_item:single_use_tool;contains_any:set_1_strange_device"
+			"tags": "crafting_item:single_use_tool;contains_any:set_1_strange_device",
+			"container_contents_generator": 900000004
 		},
 		{
 			"itemdefid": 4002,
