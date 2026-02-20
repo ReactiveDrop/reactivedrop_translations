@@ -12,7 +12,7 @@
 | [Hungarian](#non-curated-languages) | 56 | 138 | 43 | 3384 | 286 | 231 | 975 | 148 |
 | [Indonesian](#indonesian-indonesia) | 575 | 2004 | 635 | 4350 | 289 | 236 | 972 | 146 |
 | [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | 2 | ✔️ | ✔️ | ✔️ | ✔️ |
-| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | 2 | ✔️ | ✔️ | 35 | ✔️ |
+| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 35 | ✔️ |
 | [Korean](#koreana-한국어) | ✔️ | ✔️ | ✔️ | 30 | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Norwegian Bokmål](#non-curated-languages) | 74 | 708 | 48 | 4089 | 286 | 231 | 710 | 148 |
 | [Polish](#polish-polski) | 2 | 2004 | ✔️ | 3028 | 15 | 20 | 137 | 126 |
@@ -723,7 +723,6 @@
 ### Strings
 
 - [platform/vgui_japanese.txt](platform/vgui_japanese.txt) has 35 untranslated strings.
-- [reactivedrop_japanese.txt](resource/reactivedrop_japanese.txt) has 2 untranslated strings.
 
 </details>
 
