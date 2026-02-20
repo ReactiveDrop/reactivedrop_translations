@@ -1,25 +1,25 @@
 # Overview
 | Language | basemodui | closecaption | gameui | reactivedrop | items | statsweb | Strings | Files |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | ✔️ | 2 | ✔️ | ✔️ | ✔️ | ✔️ |
+| [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Traditional Chinese](#tchinese-繁體中文) | ✔️ | ✔️ | ✔️ | 101 | ✔️ | ✔️ | ✔️ | 126 |
 | [Czech](#czech-čeština) | ✔️ | ✔️ | ✔️ | 3928 | 286 | 231 | 972 | 147 |
 | [Danish](#non-curated-languages) | 57 | 231 | 43 | 3915 | 286 | 231 | 710 | 148 |
 | [Dutch](#non-curated-languages) | 56 | 2004 | 43 | 3384 | 286 | 231 | 710 | 147 |
 | [Finnish](#non-curated-languages) | ✔️ | 2004 | 37 | 3241 | 215 | 171 | 632 | 146 |
 | [French](#french-français) | ✔️ | 67 | ✔️ | 2529 | 285 | ✔️ | 365 | 111 |
-| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | 2 | ✔️ | ✔️ | ✔️ | ✔️ |
+| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Hungarian](#non-curated-languages) | 56 | 138 | 43 | 3384 | 286 | 231 | 975 | 148 |
 | [Indonesian](#indonesian-indonesia) | 575 | 2004 | 635 | 4350 | 289 | 236 | 972 | 146 |
 | [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | 2 | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | 2 | ✔️ | ✔️ | 35 | ✔️ |
-| [Korean](#koreana-한국어) | ✔️ | ✔️ | ✔️ | 32 | ✔️ | ✔️ | ✔️ | ✔️ |
+| [Korean](#koreana-한국어) | ✔️ | ✔️ | ✔️ | 30 | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Norwegian Bokmål](#non-curated-languages) | 74 | 708 | 48 | 4089 | 286 | 231 | 710 | 148 |
 | [Polish](#polish-polski) | 2 | 2004 | ✔️ | 3028 | 15 | 20 | 137 | 126 |
 | [European Portuguese](#portuguese-português-europeu) | 5 | 180 | 33 | 2474 | 266 | 52 | 636 | 143 |
 | [Brazilian Portuguese](#brazilian-português) | 1 | ✔️ | ✔️ | 999 | 28 | 23 | 4 | 4 |
 | [Romanian](#non-curated-languages) | 56 | 1996 | 49 | 4095 | 286 | 231 | 967 | 148 |
-| [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | 2 | ✔️ | ✔️ | ✔️ | ✔️ |
+| [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [European Spanish](#spanish-español-de-españa) | ✔️ | 2004 | ✔️ | 2027 | 3 | 1 | 3 | 126 |
 | [Latin American Spanish](#latam-español-latinoamericano) | 1 | 2004 | ✔️ | 4435 | 34 | 24 | 207 | 144 |
 | [Swedish](#swedish-svenska) | ✔️ | ✔️ | ✔️ | 75 | ✔️ | ✔️ | ✔️ | 71 |
@@ -41,9 +41,7 @@
 
 </summary>
 
-### Strings
-
-- [reactivedrop_schinese.txt](resource/reactivedrop_schinese.txt) has 2 untranslated strings.
+✓ Up to date!
 
 </details>
 
@@ -516,9 +514,7 @@
 
 </summary>
 
-### Strings
-
-- [reactivedrop_german.txt](resource/reactivedrop_german.txt) has 2 untranslated strings.
+✓ Up to date!
 
 </details>
 
@@ -739,7 +735,7 @@
 
 ### Strings
 
-- [reactivedrop_koreana.txt](resource/reactivedrop_koreana.txt) has 32 untranslated strings.
+- [reactivedrop_koreana.txt](resource/reactivedrop_koreana.txt) has 30 untranslated strings.
 
 </details>
 
@@ -1108,9 +1104,7 @@
 
 </summary>
 
-### Strings
-
-- [reactivedrop_russian.txt](resource/reactivedrop_russian.txt) has 2 untranslated strings.
+✓ Up to date!
 
 </details>
 
