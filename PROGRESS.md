@@ -3,7 +3,7 @@
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Traditional Chinese](#tchinese-繁體中文) | ✔️ | ✔️ | ✔️ | 101 | ✔️ | ✔️ | ✔️ | 126 |
-| [Czech](#czech-čeština) | ✔️ | ✔️ | ✔️ | 3928 | 286 | 231 | 972 | 147 |
+| [Czech](#czech-čeština) | ✔️ | ✔️ | ✔️ | 3766 | 286 | 231 | 972 | 147 |
 | [Danish](#non-curated-languages) | 57 | 231 | 43 | 3915 | 286 | 231 | 710 | 148 |
 | [Dutch](#non-curated-languages) | 56 | 2004 | 43 | 3384 | 286 | 231 | 710 | 147 |
 | [Finnish](#non-curated-languages) | ✔️ | 2004 | 37 | 3241 | 215 | 171 | 632 | 146 |
@@ -207,7 +207,7 @@
 - [misc/signage/signage_czech.vdf](misc/signage/signage_czech.vdf) has 70 untranslated strings.
 - [platform/servers/serverbrowser_czech.txt](platform/servers/serverbrowser_czech.txt) has 186 untranslated strings.
 - [platform/vgui_czech.txt](platform/vgui_czech.txt) has 184 untranslated strings.
-- [reactivedrop_czech.txt](resource/reactivedrop_czech.txt) has 3928 untranslated strings.
+- [reactivedrop_czech.txt](resource/reactivedrop_czech.txt) has 3766 untranslated strings.
 - [valve_czech.txt](resource/valve_czech.txt) has 266 untranslated strings.
 
 ### Steam Store and Community
