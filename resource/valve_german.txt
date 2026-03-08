@@ -554,7 +554,7 @@
 
 // Strings used by RejectConnection() in the engine
 "[english]Valve_Reject_Background_Map"		"Can't join multiplayer game on background map listen server."
-"Valve_Reject_Background_Map"		"Du kannst keinem Multiplayer-Spiel auf einem dezidierten Server mit Hintergrundkarte beitreten."
+"Valve_Reject_Background_Map"		"Du kannst keinem Multiplayer-Spiel auf einem dedizierten Server mit Hintergrundkarte beitreten."
 "[english]Valve_Reject_Single_Player"		"Can't join another person's single player game from remote IP address."
 "Valve_Reject_Single_Player"		"Du kannst dem Einzelspieler-Spiel einer anderen Person nicht aus einem anderen Netz beitreten."
 "[english]Valve_Reject_Hidden_Game"		"Can't join another person's hidden game from remote IP address."
