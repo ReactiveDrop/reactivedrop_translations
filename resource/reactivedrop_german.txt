@@ -10133,7 +10133,7 @@
 "[english]rd_lobby_option_dedicated_forbidden_hint"		"Only show player-hosted lobbies."
 "rd_lobby_option_dedicated_forbidden_hint"		"Only show player-hosted lobbies."
 "[english]rd_lobby_option_dedicated_required"		"Dedicated"
-"rd_lobby_option_dedicated_required"		"Dezidiert"
+"rd_lobby_option_dedicated_required"		"Dediziert"
 "[english]rd_lobby_option_dedicated_required_hint"		"Only show lobbies running on dedicated servers."
 "rd_lobby_option_dedicated_required_hint"		"Zeige nur Lobbys, die auf dedizierten Servern laufen."
 "[english]rd_lobby_option_installed_title"		"Mission Selection"
