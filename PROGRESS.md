@@ -1,32 +1,32 @@
 # Overview
 | Language | basemodui | closecaption | gameui | reactivedrop | items | statsweb | Strings | Files |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
+| [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 1 |
 | [Traditional Chinese](#tchinese-繁體中文) | ✔️ | ✔️ | ✔️ | 101 | ✔️ | ✔️ | ✔️ | 126 |
-| [Czech](#czech-čeština) | ✔️ | ✔️ | ✔️ | 3766 | 286 | 231 | 972 | 147 |
-| [Danish](#non-curated-languages) | 57 | 231 | 43 | 3915 | 286 | 231 | 710 | 148 |
-| [Dutch](#non-curated-languages) | 56 | 2004 | 43 | 3384 | 286 | 231 | 710 | 147 |
-| [Finnish](#non-curated-languages) | ✔️ | 2004 | 37 | 3241 | 215 | 171 | 632 | 146 |
+| [Czech](#czech-čeština) | ✔️ | ✔️ | ✔️ | 3766 | 286 | 231 | 972 | 146 |
+| [Danish](#non-curated-languages) | 57 | 231 | 43 | 3915 | 286 | 231 | 710 | 147 |
+| [Dutch](#non-curated-languages) | 56 | 2004 | 43 | 3384 | 286 | 231 | 710 | 146 |
+| [Finnish](#non-curated-languages) | ✔️ | 2004 | 37 | 3241 | 215 | 171 | 632 | 145 |
 | [French](#french-français) | ✔️ | 67 | ✔️ | 2529 | 285 | ✔️ | 365 | 111 |
-| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
-| [Hungarian](#non-curated-languages) | 56 | 138 | 43 | 3384 | 286 | 231 | 975 | 148 |
-| [Indonesian](#indonesian-indonesia) | 575 | 2004 | 635 | 4350 | 289 | 236 | 972 | 146 |
-| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
-| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 35 | ✔️ |
-| [Korean](#koreana-한국어) | ✔️ | ✔️ | ✔️ | 30 | ✔️ | ✔️ | ✔️ | ✔️ |
-| [Norwegian Bokmål](#non-curated-languages) | 74 | 708 | 48 | 4089 | 286 | 231 | 710 | 148 |
-| [Polish](#polish-polski) | 2 | 2004 | ✔️ | 3028 | 15 | 20 | 137 | 126 |
-| [European Portuguese](#portuguese-português-europeu) | 5 | 180 | 33 | 2474 | 266 | 52 | 636 | 143 |
-| [Brazilian Portuguese](#brazilian-português) | 1 | ✔️ | ✔️ | 999 | 28 | 23 | 4 | 4 |
-| [Romanian](#non-curated-languages) | 56 | 1996 | 49 | 4095 | 286 | 231 | 967 | 148 |
-| [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
-| [European Spanish](#spanish-español-de-españa) | ✔️ | 2004 | ✔️ | 2027 | 3 | 1 | 3 | 126 |
-| [Latin American Spanish](#latam-español-latinoamericano) | 1 | 2004 | ✔️ | 4435 | 34 | 24 | 207 | 144 |
-| [Swedish](#swedish-svenska) | ✔️ | ✔️ | ✔️ | 59 | ✔️ | ✔️ | ✔️ | 71 |
-| [Thai](#non-curated-languages) | 971 | 1993 | 51 | 4631 | 286 | 231 | 739 | 148 |
-| [Turkish](#non-curated-languages) | 56 | 137 | 43 | 3384 | 286 | 231 | 975 | 148 |
-| [Ukrainian](#ukrainian-українська) | 32 | 131 | 33 | 2950 | 286 | 231 | 935 | 148 |
-| [Vietnamese](#vietnamese-tiếng-việt) | 1 | 2004 | ✔️ | 3669 | 34 | 24 | 3 | 86 |
+| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 1 |
+| [Hungarian](#non-curated-languages) | 56 | 138 | 43 | 3384 | 286 | 231 | 975 | 147 |
+| [Indonesian](#indonesian-indonesia) | 575 | 2004 | 635 | 4350 | 289 | 236 | 972 | 145 |
+| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 1 |
+| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 35 | 1 |
+| [Korean](#koreana-한국어) | ✔️ | ✔️ | ✔️ | 30 | ✔️ | ✔️ | ✔️ | 1 |
+| [Norwegian Bokmål](#non-curated-languages) | 74 | 708 | 48 | 4089 | 286 | 231 | 710 | 147 |
+| [Polish](#polish-polski) | 2 | 2004 | ✔️ | 3028 | 15 | 20 | 137 | 127 |
+| [European Portuguese](#portuguese-português-europeu) | 5 | 180 | 33 | 2474 | 266 | 52 | 636 | 142 |
+| [Brazilian Portuguese](#brazilian-português) | 1 | ✔️ | ✔️ | 999 | 28 | 23 | 4 | 3 |
+| [Romanian](#non-curated-languages) | 56 | 1996 | 49 | 4095 | 286 | 231 | 967 | 147 |
+| [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 1 |
+| [European Spanish](#spanish-español-de-españa) | ✔️ | 2004 | ✔️ | 2027 | 3 | 1 | 3 | 125 |
+| [Latin American Spanish](#latam-español-latinoamericano) | 1 | 2004 | ✔️ | 4435 | 34 | 24 | 207 | 143 |
+| [Swedish](#swedish-svenska) | ✔️ | ✔️ | ✔️ | 59 | ✔️ | ✔️ | ✔️ | 72 |
+| [Thai](#non-curated-languages) | 971 | 1993 | 51 | 4631 | 286 | 231 | 739 | 147 |
+| [Turkish](#non-curated-languages) | 56 | 137 | 43 | 3384 | 286 | 231 | 975 | 147 |
+| [Ukrainian](#ukrainian-українська) | 32 | 131 | 33 | 2950 | 286 | 231 | 935 | 147 |
+| [Vietnamese](#vietnamese-tiếng-việt) | 1 | 2004 | ✔️ | 3669 | 34 | 24 | 3 | 85 |
 ### Legend
 - ***Non-capitalized column headers*** are the most important specific files and their number of missing strings. All of these txt-files are located in the resources folder. Except statsweb, which lies in community/stats_website, it's an vdf-file.
 - ***Strings*** is the number of missing strings not included in one of the files which get an individual non-capitalized column.
@@ -41,7 +41,9 @@
 
 </summary>
 
-✓ Up to date!
+### Upcoming Release Notes
+
+- [20260420_schinese.xml](release_notes/20260420_english.xml) is missing.
 
 </details>
 
@@ -57,7 +59,7 @@
 
 ### Upcoming Release Notes
 
-- [20251101_tchinese.xml](release_notes/20251101_tchinese.xml) has 5 indented lines.
+- [20260420_tchinese.xml](release_notes/20260420_english.xml) is missing.
 
 ### Mail and News
 
@@ -219,8 +221,7 @@
 
 ### Upcoming Release Notes
 
-- [20251101_czech.xml](release_notes/20251101_english.xml) is missing.
-- [20260206_czech.xml](release_notes/20260206_english.xml) is missing.
+- [20260420_czech.xml](release_notes/20260420_english.xml) is missing.
 
 ### Credits
 
@@ -388,7 +389,7 @@
 
 ### Upcoming Release Notes
 
-- [20251101_french.xml](release_notes/20251101_french.xml) has 52 indented lines.
+- [20260420_french.xml](release_notes/20260420_english.xml) is missing.
 
 ### Credits
 
@@ -514,7 +515,9 @@
 
 </summary>
 
-✓ Up to date!
+### Upcoming Release Notes
+
+- [20260420_german.xml](release_notes/20260420_english.xml) is missing.
 
 </details>
 
@@ -552,8 +555,7 @@
 
 ### Upcoming Release Notes
 
-- [20251101_indonesian.xml](release_notes/20251101_english.xml) is missing.
-- [20260206_indonesian.xml](release_notes/20260206_english.xml) is missing.
+- [20260420_indonesian.xml](release_notes/20260420_english.xml) is missing.
 
 ### Credits
 
@@ -708,7 +710,9 @@
 
 </summary>
 
-✓ Up to date!
+### Upcoming Release Notes
+
+- [20260420_italian.xml](release_notes/20260420_english.xml) is missing.
 
 </details>
 
@@ -722,6 +726,10 @@
 
 - [platform/vgui_japanese.txt](platform/vgui_japanese.txt) has 35 untranslated strings.
 
+### Upcoming Release Notes
+
+- [20260420_japanese.xml](release_notes/20260420_english.xml) is missing.
+
 </details>
 
 <details><summary>
@@ -733,6 +741,10 @@
 ### Strings
 
 - [reactivedrop_koreana.txt](resource/reactivedrop_koreana.txt) has 30 untranslated strings.
+
+### Upcoming Release Notes
+
+- [20260420_koreana.xml](release_notes/20260420_english.xml) is missing.
 
 </details>
 
@@ -756,6 +768,10 @@
 ### Steam Store and Community
 
 - [storepage_81731_polish.json](store_page/storepage_81731_polish.json) has 1 indented lines.
+
+### Upcoming Release Notes
+
+- [20260420_polish.xml](release_notes/20260420_english.xml) is missing.
 
 ### Mail and News
 
@@ -918,8 +934,7 @@
 
 ### Upcoming Release Notes
 
-- [20251101_portuguese.xml](release_notes/20251101_english.xml) is missing.
-- [20260206_portuguese.xml](release_notes/20260206_english.xml) is missing.
+- [20260420_portuguese.xml](release_notes/20260420_english.xml) is missing.
 
 ### Credits
 
@@ -1090,8 +1105,7 @@
 
 ### Upcoming Release Notes
 
-- [20251101_brazilian.xml](release_notes/20251101_english.xml) is missing.
-- [20260206_brazilian.xml](release_notes/20260206_english.xml) is missing.
+- [20260420_brazilian.xml](release_notes/20260420_english.xml) is missing.
 
 </details>
 
@@ -1101,7 +1115,9 @@
 
 </summary>
 
-✓ Up to date!
+### Upcoming Release Notes
+
+- [20260420_russian.xml](release_notes/20260420_english.xml) is missing.
 
 </details>
 
@@ -1122,8 +1138,7 @@
 
 ### Upcoming Release Notes
 
-- [20251101_spanish.xml](release_notes/20251101_english.xml) is missing.
-- [20260206_spanish.xml](release_notes/20260206_english.xml) is missing.
+- [20260420_spanish.xml](release_notes/20260420_english.xml) is missing.
 
 ### Mail and News
 
@@ -1279,8 +1294,7 @@
 
 ### Upcoming Release Notes
 
-- [20251101_latam.xml](release_notes/20251101_english.xml) is missing.
-- [20260206_latam.xml](release_notes/20260206_english.xml) is missing.
+- [20260420_latam.xml](release_notes/20260420_english.xml) is missing.
 
 ### Credits
 
@@ -1441,6 +1455,10 @@
 
 - [reactivedrop_swedish.txt](resource/reactivedrop_swedish.txt) has 59 untranslated strings.
 
+### Upcoming Release Notes
+
+- [20260420_swedish.xml](release_notes/20260420_english.xml) is missing.
+
 ### Mail and News
 
 - [mail/acc32_mail_news2_swedish.txt](resource/mail/acc32_mail_news2_english.txt) is missing.
@@ -1551,8 +1569,7 @@
 
 ### Upcoming Release Notes
 
-- [20251101_ukrainian.xml](release_notes/20251101_english.xml) is missing.
-- [20260206_ukrainian.xml](release_notes/20260206_english.xml) is missing.
+- [20260420_ukrainian.xml](release_notes/20260420_english.xml) is missing.
 
 ### Credits
 
@@ -1725,8 +1742,7 @@
 
 ### Upcoming Release Notes
 
-- [20251101_vietnamese.xml](release_notes/20251101_english.xml) is missing.
-- [20260206_vietnamese.xml](release_notes/20260206_english.xml) is missing.
+- [20260420_vietnamese.xml](release_notes/20260420_english.xml) is missing.
 
 ### Mail and News
 
