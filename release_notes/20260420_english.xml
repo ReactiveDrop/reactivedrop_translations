@@ -54,7 +54,7 @@ asw_alien_jump_min_predicted_distance, default value 512
 See [url=https://www.youtube.com/watch?v=E42AomiAWis]Pinsplash's video explaining fast zombies[/url] for hints on what these do.[/expand]
 [*][b]RDCharacter shader:[/b] Added support for $flashlightnolambert, ensuring proper non-Lambert flashlight behavior.
 [*][b]RDCharacter shader:[/b] Reordered shader flow to ensure HSV modifies baseColor at the start, directly affecting the base texture rather than post-processed color adjustments.
-[*]The [b]RunScript[/b] input in Hammer now applies TF2-style "-to-" replacement.
+[*]The [b]RunScript[/b] input in Hammer now applies TF2-style `-to-" replacement.
 [*]The [b]GiveWeapon[/b] script function now returns the spawned weapon.
 [*]Fixed a dedicated server crash when a player joins while the server is restarting.
 [*]The [b]Entities[/b] singleton no longer returns entities which are marked for deletion. (It is safe to call [b]Destroy[/b] from within a loop.)

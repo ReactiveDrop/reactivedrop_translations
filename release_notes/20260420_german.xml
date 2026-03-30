@@ -54,7 +54,7 @@ asw_alien_jump_min_predicted_distance, Standardwert 512
 Schaut euch [url=https://www.youtube.com/watch?v=E42AomiAWis]das Video von Pinsplash an, in dem schnelle Zombies erklärt werden[/url], um einen Eindruck davon zu bekommen, wie sie sich verhalten.[/expand]
 [*][b]RDCharacter shader:[/b] Es wurde Unterstützung für $flashlightnolambert hinzugefügt, um ein korrektes Verhalten der Taschenlampe bei Nicht-Lambert-Beleuchtung sicherzustellen.
 [*][b]RDCharacter shader:[/b] Der Shader-Ablauf wurde neu angeordnet, um sicherzustellen, dass HSV die "baseColor" zu Beginn modifiziert und somit direkt auf die Basis-Textur einwirkt, anstatt erst nach der Verarbeitung Farbanpassungen vorzunehmen.
-[*]Die Eingabe [b]RunScript[/b] in Hammer wendet nun eine Ersetzung im TF2-Stil von "-to-" an.
+[*]Die Eingabe [b]RunScript[/b] in Hammer wendet nun eine Ersetzung im TF2-Stil von `-to-" an.
 [*]Die Skriptfunktion [b]GiveWeapon[/b] gibt nun die erzeugte Waffe zurück.
 [*]Es wurde ein Absturz des dedizierten Servers behoben, der auftrat, wenn ein Spieler beitrat, während der Server neu gestartet wurde.
 [*]Das Singleton [b]Entities[/b] gibt keine Entitäten mehr zurück, die zum Löschen markiert sind. (Es ist unbedenklich, [b]Destroy[/b] innerhalb einer Schleife aufzurufen.)
