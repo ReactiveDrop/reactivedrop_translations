@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<content>
+<string id="body">It's time once again for Alien Swarm: Reactive Drop's birthday. We're having a smaller one this year since a lot of our core contributors have been busy with other projects, but we've still got a lot of improvements to share and the usual week of double experience.
+
+[h2]AMD GPU Driver Crash[/h2]
+The game now automatically disables high quality realtime shadows on AMD graphics cards that are affected by the driver bug. We've noticed that this was causing crashes when loading into a mission, but weirdly, the first launch after updating the driver was fine.
+
+We encourage anyone who has a graphics card that is affected by the bug and wants to help (and can reproduce the crash) to [url=https://www.amd.com/en/forms/contact-us/support.html]send any information that might help (crash reports, instructions to reproduce, etc) to AMD[/url].
+
+To disable the workaround (as in, allow the settings to display and be selected), use the console command [b]rd_debug_amd_shadow_workaround 0[/b]. To disable the workaround [i]and[/i] re-enable the settings, use the console command [b]rd_debug_amd_shadow_crash[/b].
+
+[h2]Gameplay[/h2]
+[list]
+[*][b]Radiation volumes[/b] (gas grenades, radioactive barrels) now deal damage in a sphere rather than a cube.
+[*][b]Scorch marks and blood[/b] are now more accurately placed on surfaces other than the floor.
+[*][b]Hornet Barrage:[/b] No longer damages marines outside of Deathmatch.
+[*][b]MTD6 Smart Bomb:[/b] No longer damages marines outside of Deathmatch.
+[*][b]IAF Medical Amplifier Gun:[/b] Changed the healing ammo calculation from 20 + 5 per point in Healing to 15 + 10 per point in Healing. Faith's initial healing ammo increased from 45 to 65. Bastille's initial healing ammo changed from 40 to 55.
+[*][b]Infection Deathmatch:[/b] Activating Last Stand now requires the player to crouch in addition to pressing the melee button.
+[*]Fixed a bug in [b]Heroes of the Interstellar Armed Forces[/b] that was counting high score bonuses twice if a map had capital letters in its filename on the game server.
+[*][b]Strange Device[/b] tier-ups notifications now show the required number of actions for the tier rather than the current number (relevant for certain actions that happen in bursts like healing).
+[*]Floating damage numbers now take into account changes to the damage dealt by the [b]OnTakeDamage_Alive_Any[/b] VScript function.
+[*]Increased the friction while walking on gravel to match other materials.
+[/list]
+
+[h2]Missions[/h2]
+[list]
+[*][b]Jacob's Rest: Landing Bay:[/b] Fixed minor visual issues such as missing walls at specific camera angles, a door frame visible within a wall, and missing floor decals.
+[*][b]Jacob's Rest: SynTek Residential:[/b] Added some invisible walls and ramps to prevent players getting stuck in the vents area.
+[*][b]Area 9800: Power Plant:[/b] The blast doors can no longer be welded.
+[*][b]Area 9800: Power Plant:[/b] Prevented the director from spawning aliens past the end of the mission.
+[*][b]Operation Cleansweep: Landing Bay 7:[/b] Added an invisible wall to prevent players from getting stuck.
+[*][b]Operation Cleansweep: U.S.C. Medusa:[/b] The elevator doors no longer open while the elevator is moving and more reliably open when it reaches the top.
+[*][b]Tears for Tarnor: Abandoned Maintenance Tunnels:[/b] Fixed bullets not being able to penetrate the east wall of the reactor room.
+[*][b]Tilarus-5: SynTek Hospital:[/b] The door to the power room now runs on emergency power and can be opened and closed manually during the blackout.
+[*][b]Paranoia: Crucial Point:[/b] Prevented the director from spawning aliens past the end of the mission.
+[*][b]Nam Humanum: Logistics Area:[/b] Fixed anomalous materials being able to spawn in areas unreachable by players.
+[*][b]Reduction: Fallen City:[/b] Moved some objects to avoid players getting stuck.
+[*][b]Rapture:[/b] Fixed a rock that was [url=https://www.twitch.tv/octa_chi/clip/NeighborlyBoredPistachioKlappa-wUs-rppsKSqJMnYG]cursing players[/url]. Improved accuracy of fog volumes. Improved NPC navigation information. Added hazard signs near the death pit.
+[/list]
+
+[h2]Mapping / Modding[/h2]
+[list]
+[*]Added a new input to asw_door: [b]DelayBeforeClose[/b] (changes the auto-close delay of the door; 5 default, -1 to keep the door open forever)
+[*]Added convars that challenges and maps can use to adjust how aliens (drones, etc) decide when to jump.
+[expand type=details]asw_alien_jump_max_speed, default value 1024
+asw_alien_jump_max_rise, default value 512
+asw_alien_jump_max_drop, default value 512
+asw_alien_jump_max_distance, default value 1024
+asw_alien_jump_min_distance, default value 128
+asw_alien_jump_min_distance_between_attempts, default value 128
+asw_alien_jump_min_predicted_distance, default value 512
+
+See [url=https://www.youtube.com/watch?v=E42AomiAWis]Pinsplash's video explaining fast zombies[/url] for hints on what these do.[/expand]
+[*][b]RDCharacter shader:[/b] Added support for $flashlightnolambert, ensuring proper non-Lambert flashlight behavior.
+[*][b]RDCharacter shader:[/b] Reordered shader flow to ensure HSV modifies baseColor at the start, directly affecting the base texture rather than post-processed color adjustments.
+[*]The [b]RunScript[/b] input in Hammer now applies TF2-style `-to-" replacement.
+[*]The [b]GiveWeapon[/b] script function now returns the spawned weapon.
+[*]Fixed a dedicated server crash when a player joins while the server is restarting.
+[*]The [b]Entities[/b] singleton no longer returns entities which are marked for deletion. (It is safe to call [b]Destroy[/b] from within a loop.)
+[/list]
+
+[h2]The IAF needs you![/h2]
+Alien Swarm: Reactive Drop will always be free, but that doesn't mean it doesn't take a lot of work from a lot of talented volunteers to make. If you can, consider making content for the [url=https://steamcommunity.com/app/563560/workshop/]Steam Workshop[/url], reporting bugs, proposing [url=https://github.com/ReactiveDrop/reactivedrop_public_src]code[/url] improvements, [url=https://github.com/ReactiveDrop/reactivedrop_translations]translating[/url] the game into your language, or [url=https://store.steampowered.com/itemstore/563560/]sending a dollar[/url] to one of the people who made Alien Swarm: Reactive Drop possible. The IAF thanks you for your continued service, Commander.
+
+Major contributors to this update (alphabetical): AlexZ, allenshamal, Andreas Balzer, anf3is, Ben Lubar, Brancu Alexandru, connman116, Crazymanbos, Deerlord0, Dmitriy, Duke M, ElySimp, Grace Lovelace, Grimowy, hangumi, Ioannis-Marios Tsiakoulias, jhheight, Krevka, MakinDay, mfz, ModdedMarionette, Orange, Steffo, ustcywg, WerFEST</string>
+<string id="subtitle"></string>
+<string id="summary"></string>
+<string id="title">AS:RD Update - April 20, 2026 "Going Up"</string>
+</content>
