@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<content>
+<string id="body"> Alien Swarm: Reactive Drop的生日又再次的到來了。 今年的規模會比較小一些，我們核心的貢獻成員們最近都在忙著別的事情，但還是一樣，我們準備了大量的改善內容和老樣子的雙重體驗周。
+
+[h2]AMD 顯示卡驅動程式閃退[/h2]
+遊戲現在會自動關閉受到AMD顯示卡驅動程式BUG所影響的高品質即時陰影的設定。我們發現在讀取任務時會發生閃退的現象，但奇怪的是更新完驅動程式的第一次讀取遊戲並不會造成此現象。
+
+我們鼓勵任何受到此影響，並且想幫忙的人(能夠製造閃退)到 [url=https://www.amd.com/en/forms/contact-us/support.html]發送任何可能有幫助的訊息 (閃退報告， 如何製造出閃退情況， 等等) 到 AMD[/url]。
+
+想要取消這個設定的話 (也就是讓設定能夠顯示出來並能夠被選取)， 使用控制台指令 [b]rd_debug_amd_shadow_workaround 0[/b]。 想要取消這個設定，[i]並且[/i] 重新啟動設定的話， 使用控制台指令 [b]rd_debug_amd_shadow_crash[/b]。
+
+[h2]遊玩內容[/h2]
+[list]
+[*][b]輻射範圍[/b] (瓦斯手榴彈, 輻射桶) 現在造成傷害的範圍為球形，而不再是方形。
+[*][b]焦痕和血跡[/b] 現在會準確的出現在地板以外的表面上。
+[*][b]黃蜂飛彈:[/b] 不會在死鬥以外的模式對隊員造成傷害。
+[*][b]MTD6 智慧飛彈:[/b] 不會在死鬥以外的模式對隊員造成傷害。
+[*][b]IAF 醫療強化槍:[/b] 改變子彈計算從醫療 20 每能力點 + 5  變成 15 每能力點 + 10。 Faith的原始彈藥量從 45 更改為 65。 Bastill的原始彈藥量從 40 更改為 55。
+[*][b]感染死鬥:[/b] 啟動血戰模式的條件更改為長壓蹲下+近戰按鍵。 
+[*]修正 [b]星際武裝部隊英雄[/b] 的Bug，如果伺服器文件內的地圖名稱有大寫，會計算兩次高分獎勵。
+[*][b]怪異裝置[/b] 階級提升的提示現在會顯示目前階級所需的數字，而不是即時的數字。(因應特定連續行為的發生，例如補血)。
+[*]浮動傷害數字現在會被納入[b]OnTakeDamage_Alive_Any[/b] VScript function所造成的傷害。
+[*]增加行走在碎石上的摩擦來符合其他物質的狀態。
+[/list]
+
+[h2]任務[/h2]
+[list]
+[*][b]雅各安息地: 登陸地:[/b] 修復視覺上的問題，像是旋轉相機視角的時候牆壁會消失，牆壁裡面有門框，地板沒有該有的印花。
+[*][b]雅各安息地: SynTek 住宅區:[/b] 追加隱藏牆和坡道，防止玩家在通風口區域卡住。
+[*][b]殖民地 9800: 發電廠(發電機):[/b] 防爆門無法再被焊接起來。
+[*][b]殖民地 9800: 發電廠(發電機):[/b] 防止任務結束之後，AI還會繼續重生異形。
+[*][b]掃蕩行動: 7號登陸地:[/b] 追加隱藏牆，防止玩家卡住。
+[*][b]掃蕩行動: 梅杜莎號:[/b] 電梯門在移動的時候不會再持續開著，並穩定的到終點時才開門。
+[*][b]塔納星之淚: 廢棄的維修通道:[/b] 修正子彈無法穿透反應爐室右側的牆。
+[*][b]提拉魯斯五號星: SynTek 醫院:[/b] 前往電源室的門現在使用緊急電源，能夠在停電階段時手動開關。
+[*][b]偏執狂: 樞紐之地:[/b] 防止任務結束之後，AI還會繼續重生異形。
+[*][b]為了人類: 物流中心:[/b] 修正未知素材會重生在玩家無法到達的區域。
+[*][b]命運多舛: 淪陷都市:[/b] 移動部分物件來防止玩家卡住。
+[*][b]死而復生:[/b] 修復會詛咒玩家的石頭 [url=https://www.twitch.tv/octa_chi/clip/NeighborlyBoredPistachioKlappa-wUs-rppsKSqJMnYG][/url]。 改善濃霧的濃度。 改善NPC尋路訊息。 在必死摔落點追加警告圖標。
+[/list]
+
+[h2]製圖/模組[/h2]
+[list]
+[*]追加新的輸入指令到asw_door: [b]DelayBeforeClose[/b] (改善門自動開關的延遲; 5 是預設, -1 是讓門永久打開)
+[*]追加能夠在地圖或是挑戰上設定異形是否跳躍的係數。
+[expand type=details]asw_alien_jump_max_speed, default value 1024
+asw_alien_jump_max_rise, default value 512
+asw_alien_jump_max_drop, default value 512
+asw_alien_jump_max_distance, default value 1024
+asw_alien_jump_min_distance, default value 128
+asw_alien_jump_min_distance_between_attempts, default value 128
+asw_alien_jump_min_predicted_distance, default value 512
+
+觀看 [url=https://www.youtube.com/watch?v=E42AomiAWis]Pinsplash的影片解釋快速殭屍[/url] 來理解這些係數的作用。[/expand]
+[*][b]RDCharacter shader:[/b] 追加支援 $flashlightnolambert, 來確保手電筒正確的非朗伯特行為。
+[*][b]RDCharacter shader:[/b] 重新調整流圖著色器來確保 HSV 能夠在初始調整 baseColor ，直接能夠影響基礎材質，而非後續的顏色調整。
+[*][b]RunScript[/b] 在Hammer中的input 現在能夠 TF2-style `-到-" replacement。
+[*][b]GiveWeapon[/b] 腳本功能現在會歸還生成的武器。 
+[*]修正專有伺服器重開的時候，玩家加入會閃退。
+[*][b]Entities[/b] singleton 不會再退還被標記為刪除的entities。 (在迴圈中call[b]Destroy[/b] 是沒問題的。)
+[/list]
+
+[h2]IAF需要你![/h2]
+Alien Swarm: Reactive Drop永遠都會是免費遊玩，但那並不代表遊戲沒有大量志願者的付出。如果你有能力的話，可以考慮為這些內容付出[url=https://steamcommunity.com/app/563560/workshop/]Steam工作坊[/url], 回報錯誤,改善[url=https://github.com/ReactiveDrop/reactivedrop_public_src]程式碼 [/url]， [url=https://github.com/ReactiveDrop/reactivedrop_translations]翻譯[/url]遊戲到你的母語或是[url=https://store.steampowered.com/itemstore/563560/]贊助一美金[/url]給那些讓 Alien Swarm: Reactive Drop 能夠繼續存在的貢獻者們。 IAF感謝你們持續的付出，指揮官。
+
+主要貢獻給這次更新的人們 (按字母排序): AlexZ, allenshamal, Andreas Balzer, anf3is, Ben Lubar, Brancu Alexandru, connman116, Crazymanbos, Deerlord0, Dmitriy, Duke M, ElySimp, Grace Lovelace, Grimowy, hangumi, Ioannis-Marios Tsiakoulias, jhheight, Krevka, MakinDay, mfz, ModdedMarionette, Orange, Steffo, ustcywg, WerFEST</string>
+<string id="subtitle"></string>
+<string id="summary"></string>
+<string id="title">AS:RD 更新 - 四月 20, 2026 "更上一層樓"</string>
+</content>
