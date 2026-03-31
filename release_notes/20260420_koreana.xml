@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<content>
+<string id="body">다시 한 번 에일리언 스웜: 리액티브 드롭의 기념일이 돌아왔습니다. 올해는 핵심 기여자분들께서 다른 프로젝트로 바쁘신 관계로 규모는 다소 작지만, 여전히 다양한 개선 사항과 함께 매년 진행되는 일주일간의 경험치 2배 이벤트가 준비되어 있습니다.
+
+[h2]AMD GPU 드라이버의 게임 충돌 문제[/h2]
+이제 AMD 그래픽카드 드라이버 버그의 영향을 받는 경우, 게임이 자동으로 고품질 실시간 그림자 옵션을 비활성화합니다. 해당 문제는 미션 로딩 중 게임 충돌을 유발하는 것으로 확인되었으며, 다소 특이하게도 드라이버 업데이트 직후 첫 실행에서는 정상 작동하는 현상이 있었습니다.
+
+해당 버그의 영향을 받는 그래픽카드를 사용 중이며 게임 충돌을 재현할 수 있으신 분들께서는, 크래시 리포트나 재현 방법 등 도움이 될 수 있는 정보를 [url=https://www.amd.com/en/forms/contact-us/support.html]AMD[/url]에 전달해 주시기를 권장합니다.
+
+이 우회 기능을 비활성화(설정을 다시 표시 및 선택 가능하게)하려면 콘솔 명령어 [b]rd_debug_amd_shadow_workaround 0[/b]을 사용하시면 됩니다. 우회 기능을 비활성화함과 동시에 설정을 다시 활성화하려면 [b]rd_debug_amd_shadow_crash[/b] 명령어를 사용해 주십시오.
+
+[h2]게임플레이[/h2]
+[list]
+[*][b]피해 범위[/b] 가스 수류탄, 방사능 드럼통의 피해 범위가 사각형에서 원형으로 변경되었습니다.
+[*][b]그을음 자국과 혈흔[/b]이 이제 바닥뿐만 아니라 다양한 표면에도 보다 정확하게 표시됩니다.
+[*][b]집중 포화탄:[/b] 데스매치 외의 모드에서는 더 이상 해병에게 피해를 주지 않습니다.
+[*][b]MTD6 스마트 폭탄:[/b] 데스매치 외의 모드에서는 더 이상 해병에게 피해를 주지 않습니다.
+[*][b]IAF 의료용 치료 증폭기 건:[/b] 치유 탄약 계산 방식이 회복 수치 20 + (포인트당 5)에서 15 + (포인트당 10)으로 변경되었습니다. 페이스의 기본 치유 탄약은 45에서 65로 증가하였으며, 바스티유 40에서 55로 변경되었습니다.
+[*][b]감염 데스매치:[/b] 이제 최후의 저항 모드를 발동하려면 근접 공격 버튼을 누르는 것뿐만 아니라 동시에 앉은 상태여야 합니다.
+[*][b]성간 군사 동맹의 영웅들(HOIAF)[/b]에서 서버 맵 파일명에 대문자가 포함된 경우 점수 보너스가 두 번 계산되던 버그를 수정하였습니다.
+[*][b]이상한 장치[/b]의 티어 상승 알림이 현재 수치가 아닌, 해당 티어에 필요한 행동 수를 표시하도록 변경되었습니다 (치유처럼 연속적으로 발생하는 행동에 영향이 있습니다).
+[*]피해량을 표시해주는 수치가 [b]OnTakeDamage_Alive_Any[/b] VScript 함수에 의해 변경된 피해량도 반영하도록 수정되었습니다.
+[*]자갈 위에서 이동 시 마찰력을 다른 재질과 동일하도록 변경하였습니다.
+[/list]
+
+[h2]임무 관련[/h2]
+[list]
+[*][b]야곱의 안식처: 착륙장:[/b] 특정 시점에서 벽이 보이지 않던 문제, 벽 내부에 보이던 문틀, 바닥 데칼 누락 등 작은 시각적 문제를 수정하였습니다.
+[*][b]야곱의 안식처: 신텍 주거지:[/b] 환풍구 구역에서 플레이어가 끼이는 현상을 방지하기 위해 보이지 않는 벽 및 경사로를 추가하였습니다.
+[*][b]9800 구역: 발전소:[/b] 방폭문을 더 이상 용접할 수 없도록 변경하였습니다.
+[*][b]9800 구역: 발전소:[/b] 미션 종료 이후에도 외계 무리가 생성되던 문제를 수정하였습니다.
+[*][b]섬멸 작전: 7번 착륙장:[/b] 플레이어 끼임 현상을 방지하기 위해 보이지 않는 벽을 추가하였습니다.
+[*][b]섬멸 작전: U.S.C. 메두사:[/b] 엘리베이터 이동 중 문이 열리지 않도록 수정하였으며, 정상 도착 시 보다 안정적으로 열리도록 개선하였습니다.
+[*][b]타르너의 눈물: 버려진 유지관리 터널:[/b] 반응로 실 동쪽 벽을 총알이 관통하지 못하던 문제를 수정하였습니다.
+[*][b]틸라루스-5: 신텍 병원:[/b] 정전 상황에서도 전력실 문이 비상 전원으로 작동하며 수동으로 개폐할 수 있도록 변경하였습니다.
+[*][b]피해망상: 중대한 시점:[/b] 미션 종료 이후 외계 무리가 생성되지 않도록 수정하였습니다.
+[*][b]남 휴머넘: 물류 지역:[/b] 플레이어가 접근할 수 없는 위치에 비정상적인 자원이 생성되던 문제를 수정하였습니다.
+[*][b]하락: 무너진 도시:[/b] 플레이어 끼임을 방지하기 위해 일부 오브젝트 위치를 조정하였습니다.
+[*][b]휴거:[/b] [url=https://www.twitch.tv/octa_chi/clip/NeighborlyBoredPistachioKlappa-wUs-rppsKSqJMnYG]플레이어[/url]에게 문제를 일으키던 바위 오브젝트를 수정하였습니다. 안개 볼륨의 정확도를 개선하였으며, NPC 내비게이션 정보를 개선하고 낙사 구간 인근에 경고 표지를 추가하였습니다.
+[/list]
+
+[h2]매핑 / 모딩[/h2]
+[list]
+[*]asw_door에 새로운 입력 [b]DelayBeforeClose[/b]가 추가되었습니다 (자동 닫힘 지연 시간 설정; 기본값 5, -1 입력 시 영구 개방).
+[*]외계 무리(드론 등)의 점프 수행 판단을 조정할 수 있는 콘솔 변수들이 추가되었습니다.
+[expand type=details]asw_alien_jump_max_speed, 기본값 1024
+asw_alien_jump_max_rise, 기본값 512
+asw_alien_jump_max_drop, 기본값 512
+asw_alien_jump_max_distance, 기본값 1024
+asw_alien_jump_min_distance, 기본값 128
+asw_alien_jump_min_distance_between_attempts, 기본값 128
+asw_alien_jump_min_predicted_distance, 기본값 512
+
+각 변수의 동작 방식에 대해서는 [url=https://www.youtube.com/watch?v=E42AomiAWis]Pinsplash의 fast zombie 설명 영상[/url]을 참고하시면 도움이 됩니다.[/expand]
+[*][b]RDCharacter shader:[/b] $flashlightnolambert를 지원하도록 추가하여, 손전등 조명이 Lambert 영향을 받지 않는 방식으로 올바르게 동작하도록 수정되었습니다.
+[*][b]RDCharacter shader:[/b] 셰이더 처리 순서를 변경하여, HSV가 초기 단계에서 baseColor를 수정하도록 하였으며, 후처리 색상 보정이 아닌 기본 텍스처에 직접 영향을 주도록 개선되었습니다.
+[*]Hammer의 [b]RunScript[/b] 입력이 이제 TF2 스타일의 `-to-" 치환을 적용합니다.
+[*][b]GiveWeapon[/b] 스크립트 함수가 이제 생성된 무기를 반환합니다.
+[*]서버 재시작 중 플레이어 접속 시 발생하던 전용 서버 크래시를 수정하였습니다.
+[*][b]Entities[/b] 싱글톤이 삭제 예정 엔티티를 반환하지 않도록 수정되었습니다 ([b]Destroy[/b]를 루프 내부에서 호출해도 안전합니다).
+[/list]
+
+[h2]IAF는 당신의 도움이 필요합니다![/h2]
+에일리언 스웜: 리액티브 드롭은 앞으로도 무료로 제공되지만, 이를 유지하고 발전시키기 위해서는 많은 재능 있는 자원봉사자들의 노력이 필요합니다. 가능하시다면 [url=https://steamcommunity.com/app/563560/workshop/]스팀 창작마당[/url]에 콘텐츠를 제작해 게시하시거나, 버그를 제보하고 [url=https://github.com/ReactiveDrop/reactivedrop_public_src]code[/url] 개선을 제안해 주시고, [url=https://github.com/ReactiveDrop/reactivedrop_translations]번역 github[/url]에서 귀하의 언어로 번역에 참여하실 수 있습니다. 또한 [url=https://store.steampowered.com/itemstore/563560/]sending a dollar[/url]를 통해 에일리언 스웜: 리액티브 드롭에 기여한 분들을 후원하실 수도 있습니다. IAF는 사령관님의 지속적인 복무에 감사드립니다.
+
+이번 업데이트 주요 기여자 (알파벳 순): AlexZ, allenshamal, Andreas Balzer, anf3is, Ben Lubar, Brancu Alexandru, connman116, Crazymanbos, Deerlord0, Dmitriy, Duke M, ElySimp, Grace Lovelace, Grimowy, hangumi, Ioannis-Marios Tsiakoulias, jhheight, Krevka, MakinDay, mfz, ModdedMarionette, Orange, Steffo, ustcywg, WerFEST</string>
+<string id="subtitle"></string>
+<string id="summary"></string>
+<string id="title">AS:RD 업데이트 - 2026년 4월 20일 "도약"</string>
+</content>
