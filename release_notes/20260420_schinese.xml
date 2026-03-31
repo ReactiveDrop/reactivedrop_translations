@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<content>
+<string id="body">又到《异形丛生：虫启天降》周年庆啦。今年由于许多核心贡献者都在忙其他项目，我们的周年更新规模会小一些，但仍然准备了不少改进内容，以及照例持续一周的双倍经验加成。
+
+[h2]修复 AMD 显卡驱动崩溃[/h2]
+游戏现在会在受该驱动问题影响的 AMD 显卡上自动禁用“高质量实时阴影”。我们注意到这个漏洞会导致玩家在载入任务时崩溃，但奇怪的是，驱动更新后的第一次启动却是正常的。
+
+如果你的显卡受该问题影响，并且愿意帮忙（需要能够重现崩溃），我们鼓励你 [url=https://www.amd.com/en/forms/contact-us/support.html]向 AMD 提交可能有帮助的任何信息（崩溃报告、复现步骤等）[/url]。
+
+如需关闭该临时规避措施（也就是允许相关设置显示并可被选择），请使用控制台指令 [b]rd_debug_amd_shadow_workaround 0[/b]。如需在关闭临时规避措施的同时[i]重新启用[/i]该设置，请使用控制台指令 [b]rd_debug_amd_shadow_crash[/b]。
+
+[h2]游戏机制[/h2]
+[list]
+[*]调整 [b]辐射区域[/b]（毒气手雷、放射性桶）现在以球形而非立方体造成伤害。
+[*]改进 [b]灼烧痕迹与血迹[/b] 现在更准确地贴附在除地面以外的表面上。
+[*]调整 [b]蜂窝飞弹[/b] 在死亡竞赛以外不再伤害士兵。
+[*]调整 [b]MTD6 智能炸弹[/b] 在死亡竞赛以外不再伤害士兵。
+[*]调整 [b]IAF医疗强化枪[/b] 治疗弹药计算从“20 + 5*治疗技能等级”改为“15 + 10*治疗技能等级”。白莲的初始治疗弹药从 45 提升至 65。巴斯迪的初始治疗弹药从 40 提升至 55。
+[*]调整 [b]生化模式[/b] 开启血战模式需要玩家同时按下近战键和蹲下键。
+[*]修复 《星际武装部队英雄榜》中的一个错误：当服务器上的地图文件名包含大写字母时，高分奖励会被计算两次。
+[*]调整 [b]奇异装置[/b] 升级通知现在显示该级所需的动作次数，而非当前累计次数（对治疗等“成批发生”的动作更直观）。
+[*]修复 浮动伤害数字现在会考虑 [b]OnTakeDamage_Alive_Any()[/b] VScript 函数对伤害数值造成的改动。
+[*]提高 在碎石路面行走时的摩擦力，使其与其他材质一致。
+[/list]
+
+[h2]任务[/h2]
+[list]
+[*]修复 [b]雅各布的栖息地：着陆湾[/b] 一些小的视觉问题，如特定镜头角度下的缺墙、墙体内部可见的门框，以及缺失的地面贴图。
+[*]修复 [b]雅各布的栖息地：新特住宅区[/b] 增加一些空气墙与坡道，防止玩家在通风管道区域卡住。
+[*]修复 [b]第9800区：发电站[/b] 防爆门可被焊接的问题。
+[*]修复 [b]第9800区：发电站[/b] 游戏在任务结束后继续刷新异形的问题。
+[*]修复 [b]扫荡行动：7号着陆湾[/b] 增加一面空气墙，防止玩家卡住。
+[*]修复 [b]扫荡行动：U.S.C.美杜莎[/b] 电梯运行时门可能打开的问题，并且在抵达顶部时能更可靠地打开。
+[*]修复 [b]塔诺尔之泪：废弃的维修通道[/b] 子弹无法穿透反应堆房间东侧墙壁的问题。
+[*]调整 [b]蒂拉鲁斯-5：新特医院[/b] 动力室的门现在使用应急电源供电，并且在停电期间可手动开关。
+[*]修复 [b]偏执症：尖峰时刻[/b] 游戏在任务结束后继续刷新异形的问题。
+[*]修复 [b]纳姆.霍姆纳：物流区域[/b] 修复异常材料可能刷新在玩家无法到达区域的问题。
+[*]修复 [b]无家可归：沦陷之城[/b] 移动了一些物件，避免玩家卡住。
+[*]修复 [b]全神贯注[/b] 一块会 [url=https://www.twitch.tv/octa_chi/clip/NeighborlyBoredPistachioKlappa-wUs-rppsKSqJMnYG]诅咒玩家[/url] 的岩石。提高雾效体积的精度。改进 NPC 导航信息。在死亡深坑附近增加危险标志。
+[/list]
+
+[h2]地图制作 / 模组[/h2]
+[list]
+[*]增加 为 asw_door 增加一个新输入：[b]DelayBeforeClose[/b]（用于修改门的自动关闭延迟；默认 5，-1 表示永久保持打开）
+[*]增加 一组控制台变量（convar），供挑战与地图用来调整异形（爪虫等）决定何时跳跃的逻辑。
+[expand type=details]asw_alien_jump_max_speed，默认值 1024
+asw_alien_jump_max_rise，默认值 512
+asw_alien_jump_max_drop，默认值 512
+asw_alien_jump_max_distance，默认值 1024
+asw_alien_jump_min_distance，默认值 128
+asw_alien_jump_min_distance_between_attempts，默认值 128
+asw_alien_jump_min_predicted_distance，默认值 512
+
+它们的作用参见 [url=https://www.youtube.com/watch?v=E42AomiAWis]Pinsplash 关于快速僵尸的讲解视频[/url]。[/expand]
+[*]增加 [b]RDCharacter 着色器[/b] 对 $flashlightnolambert 的支持，确保手电筒的非 Lambert 行为正确生效。
+[*]调整 [b]RDCharacter 着色器[/b] 重排着色器流程，确保 HSV 在一开始就修改 baseColor，从而直接影响基础贴图，而不是在后期色彩调整后再处理。
+[*]调整 Hammer 编辑器中的 [b]RunScript[/b] 输入现在会应用 TF2 风格的 `-to-"` 替换。
+[*]调整 [b]GiveWeapon[/b] 脚本函数现在会返回生成的武器。
+[*]修复 专用服务器在重启过程中有玩家加入时可能导致的崩溃。
+[*]调整 [b]Entities[/b] 单例不再返回已被标记为删除的实体。（因此，在循环中调用 [b]Destroy[/b] 是安全的。）
+[/list]
+
+[h2]IAF需要助力！[/h2]
+《异形丛生: 虫启天降》永久免费，但它同样亟需大量才华横溢的社区志愿者为其添砖加瓦。如果条件允许，请为游戏贡献新的模组或地图并上传到[url=https://steamcommunity.com/app/563560/workshop/]Steam创意工坊[/url]，或者提交漏洞反馈、优化[url=https://github.com/ReactiveDrop/reactivedrop_public_src]游戏代码[/url]，亦或是将游戏文本[url=https://github.com/ReactiveDrop/reactivedrop_translations]翻译[/url]成你的语言，也可以[url=https://store.steampowered.com/itemstore/563560/]捐款[/url]给那些为游戏做出贡献的人。IAF感谢您的长期支持！
+
+本次更新的主要贡献者（按字母顺序）：AlexZ, allenshamal, Andreas Balzer, anf3is, Ben Lubar, Brancu Alexandru, connman116, Crazymanbos, Deerlord0, Dmitriy, Duke M, ElySimp, Grace Lovelace, Grimowy, hangumi, Ioannis-Marios Tsiakoulias, jhheight, Krevka, MakinDay, mfz, ModdedMarionette, Orange, Steffo, ustcywg (法克*尤尔*马泽尔), WerFEST</string>
+<string id="subtitle"></string>
+<string id="summary"></string>
+<string id="title">《异形丛生：虫启天降》更新 - 2026年4月20日 "更上层楼"</string>
+</content>
