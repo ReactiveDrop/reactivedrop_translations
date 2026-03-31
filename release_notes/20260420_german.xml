@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<content>
+<string id="body">Es ist wieder einmal Zeit für den Geburtstag von Alien Swarm: Reactive Drop. Dieses Jahr feiern wir etwas im kleineren Rahmen, da viele unserer Hauptentwickler mit anderen Projekten beschäftigt sind, aber wir haben trotzdem jede Menge Verbesserungen für euch und die übliche Woche mit doppelter Erfahrungspunkte.
+
+[h2]AMD GPU Treiber Absturz[/h2]
+Das Spiel deaktiviert nun automatisch hochwertige Echtzeit-Schatten auf AMD-Grafikkarten, die von dem Treiberfehler betroffen sind. Wir haben festgestellt, dass dies beim Laden einer Mission zu Abstürzen führte, aber seltsamerweise verlief der erste Start nach der Treiberaktualisierung einwandfrei.
+
+Wir bitten alle, die eine von diesem Fehler betroffene Grafikkarte besitzen und helfen möchten (und den Absturz reproduzieren können), [url=https://www.amd.com/en/forms/contact-us/support.html]alle Informationen, die hilfreich sein könnten (Absturzberichte, Anweisungen zur Reproduktion usw.), an AMD zu senden[/url].
+
+Um diesen Workaround zu deaktivieren (d. h. damit die Einstellungen angezeigt und ausgewählt werden können), verwendet den Konsolenbefehl [b]rd_debug_amd_shadow_workaround 0[/b]. Um diesen Workaround zu deaktivieren [i]und[/i] die Einstellungen wieder zu aktivieren, verwendet den Konsolenbefehl [b]rd_debug_amd_shadow_crash[/b].
+
+[h2]Gameplay[/h2]
+[list]
+[*][b]Strahlungsbereiche[/b] (Gasgranaten, radioaktive Fässer) verursachen nun Schaden in einer Kugel statt in einem Würfel.
+[*][b]Brandspuren und Blutspuren[/b] werden nun auf anderen Oberflächen als dem Boden genauer platziert.
+[*][b]Raketen-Sperrfeuer:[/b] Fügt Soldaten außerhalb von Deathmatch keinen Schaden mehr zu.
+[*][b]MTD6 Lenkbombe:[/b] Fügt Soldaten außerhalb von Deathmatch keinen Schaden mehr zu.
+[*][b]IAF Mobile Amp-Heileinheit:[/b] Die Berechnung der Heilungsmunition wurde von 20 + 5 pro Punkt in "Heilung" auf 15 + 10 pro Punkt in "Heilung" geändert. Faiths anfängliche Heilungsmunition wurde von 45 auf 65 erhöht. Bastilles anfängliche Heilungsmunition wurde von 40 auf 55 geändert.
+[*][b]Infektion Deathmatch:[/b] Um "Letzter Widerstand" zu aktivieren, muss der Spieler nun zusätzlich zum Drücken der Nahkampf-Taste in die Knie gehen.
+[*]Es wurde ein Fehler in [b]Helden der interstellaren Streitkräfte[/b] behoben, durch den Highscore-Boni doppelt gezählt wurden, wenn der Dateiname einer Karte auf dem Spielserver Großbuchstaben enthielt.
+[*][b]"Seltsames Gerät"[/b]-Stufen-Benachrichtigungen zeigen nun die für die Stufe erforderliche Anzahl an Aktionen anstelle der aktuellen Anzahl an (relevant für bestimmte Aktionen, die in Schüben erfolgen, wie z. B. Heilung).
+[*]Angezeigte Schadenszahlen berücksichtigen nun Änderungen am Schaden, der durch die VScript-Funktion [b]OnTakeDamage_Alive_Any[/b] verursacht wird.
+[*]Die Reibung beim Gehen auf Kies wurde erhöht, um sie an andere Materialien anzupassen.
+[/list]
+
+[h2]Einsätze[/h2]
+[list]
+[*][b]Jakobsruhe: Landebucht:[/b] Es wurden kleinere visuelle Fehler behoben, wie beispielsweise fehlende Wände bei bestimmten Kamerawinkeln, ein Türrahmen, der durch eine Wand hindurch sichtbar war, sowie fehlende Bodenaufkleber.
+[*][b]Jakobsruhe: SynTek Wohnareal:[/b] Es wurden einige unsichtbare Wände und Rampen hinzugefügt, um zu verhindern, dass Spieler im Bereich der Lüftungsschächte stecken bleiben.
+[*][b]Bereich 9800: Kraftwerk:[/b] Die Explosionsschutztüren können nicht mehr verschweißt werden.
+[*][b]Bereich 9800: Kraftwerk:[/b] Es wurde verhindert, dass der Spielleiter nach dem Ende des Einsatzes noch Aliens erscheinen lässt.
+[*][b]Operation Säuberung: Landebucht 7:[/b] Es wurde eine unsichtbare Wand hinzugefügt, um zu verhindern, dass Spieler stecken bleiben.
+[*][b]Operation Säuberung: U.S.C. Medusa:[/b] Die Aufzugstüren öffnen sich nicht mehr, während der Aufzug in Bewegung ist, und öffnen sich zuverlässiger, sobald er oben angekommen ist.
+[*][b]Tränen für Tarnor: Verlassene Wartungstunnel:[/b] Es wurde behoben, dass Geschosse die Ostwand des Reaktorraums nicht durchschlagen konnten.
+[*][b]Tilarus-5: SynTek Krankenhaus:[/b] Die Tür zum Technikraum wird nun über Notstrom versorgt und kann während des Stromausfalls manuell geöffnet und geschlossen werden.
+[*][b]Paranoia: Entscheidender Punkt:[/b] Es wurde verhindert, dass der Spielleiter nach dem Ende des Einsatzes noch Aliens erscheinen lässt.
+[*][b]Nam Humanum: Logistikgebiet:[/b] Es wurde ein Fehler behoben, durch den Anomale Materialien in Bereichen erscheinen konnten, die für Spieler nicht erreichbar waren.
+[*][b]Reduktion: Gefallene Stadt:[/b] Einige Objekte wurden verschoben, damit Spieler nicht stecken bleiben.
+[*][b]Entrückung:[/b] Ein Felsbrocken, der [url=https://www.twitch.tv/octa_chi/clip/NeighborlyBoredPistachioKlappa-wUs-rppsKSqJMnYG]Spieler verfluchte[/url], wurde behoben. Die Genauigkeit der Nebelvolumina wurde verbessert. Die Navigationsinformationen für NPCs wurden verbessert. In der Nähe der Todesgrube wurden Warnschilder hinzugefügt.
+[/list]
+
+[h2]Mapping / Modding[/h2]
+[list]
+[*]Es wurde ein neuer Parameter zu "asw_door" hinzugefügt: [b]DelayBeforeClose[/b] (ändert die Verzögerung bis zum automatischen Schließen der Tür; Standardwert ist 5, -1 hält die Tür dauerhaft offen)
+[*]Es wurden Konfigurationsvariablen hinzugefügt, mit denen Herausforderungen und Karten anpassen können, wie Gegner (Drohnen usw.) entscheiden, wann sie springen.
+[expand type=details]asw_alien_jump_max_speed, Standardwert 1024
+asw_alien_jump_max_rise, Standardwert 512
+asw_alien_jump_max_drop, Standardwert 512
+asw_alien_jump_max_distance, Standardwert 1024
+asw_alien_jump_min_distance, Standardwert 128
+asw_alien_jump_min_distance_between_attempts, Standardwert 128
+asw_alien_jump_min_predicted_distance, Standardwert 512
+
+Schaut euch [url=https://www.youtube.com/watch?v=E42AomiAWis]das Video von Pinsplash an, in dem schnelle Zombies erklärt werden[/url], um einen Eindruck davon zu bekommen, wie sie sich verhalten.[/expand]
+[*][b]RDCharacter shader:[/b] Es wurde Unterstützung für $flashlightnolambert hinzugefügt, um ein korrektes Verhalten der Taschenlampe bei Nicht-Lambert-Beleuchtung sicherzustellen.
+[*][b]RDCharacter shader:[/b] Der Shader-Ablauf wurde neu angeordnet, um sicherzustellen, dass HSV die "baseColor" zu Beginn modifiziert und somit direkt auf die Basis-Textur einwirkt, anstatt erst nach der Verarbeitung Farbanpassungen vorzunehmen.
+[*]Die Eingabe [b]RunScript[/b] in Hammer wendet nun eine Ersetzung im TF2-Stil von `-to-" an.
+[*]Die Skriptfunktion [b]GiveWeapon[/b] gibt nun die erzeugte Waffe zurück.
+[*]Es wurde ein Absturz des dedizierten Servers behoben, der auftrat, wenn ein Spieler beitrat, während der Server neu gestartet wurde.
+[*]Das Singleton [b]Entities[/b] gibt keine Entitäten mehr zurück, die zum Löschen markiert sind. (Es ist unbedenklich, [b]Destroy[/b] innerhalb einer Schleife aufzurufen.)
+[/list]
+
+[h2]Die IAF braucht dich![/h2]
+Alien Swarm: Reactive Drop wird immer kostenlos bleiben, aber das heißt nicht, dass seine Entwicklung nicht viel Arbeit von vielen talentierten Freiwilligen erfordert. Wenn möglich, macht Inhalte für den [url=https://steamcommunity.com/app/563560/workshop/]Steam Workshop[/url], meldet Fehler, schlagt Verbesserungen am [url=https://github.com/ReactiveDrop/reactivedrop_public_src]Code[/url] vor, [url=https://github.com/ReactiveDrop/reactivedrop_translations]übersetzt[/url] das Spiel in eure Sprache oder spendet [url=https://store.steampowered.com/itemstore/563560/]einen Dollar[/url] an eine der Personen, die Alien Swarm: Reactive Drop möglich machen. Die IAF dankt euch für euren fortwährenden Dienst, Commander.
+
+Die wichtigsten Mitwirkenden an diesem Update (in alphabetischer Reihenfolge): AlexZ, allenshamal, Andreas Balzer, anf3is, Ben Lubar, Brancu Alexandru, connman116, Crazymanbos, Deerlord0, Dmitriy, Duke M, ElySimp, Grace Lovelace, Grimowy, hangumi, Ioannis-Marios Tsiakoulias, jhheight, Krevka, MakinDay, mfz, ModdedMarionette, Orange, Steffo, ustcywg, WerFEST</string>
+<string id="subtitle"></string>
+<string id="summary"></string>
+<string id="title">AS:RD Update - 20. April 2026 "Going Up"</string>
+</content>
