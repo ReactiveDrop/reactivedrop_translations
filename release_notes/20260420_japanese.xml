@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<content>
+<string id="body">Alien Swarm: Reactive Dropの誕生日がまたやってまいりました。メインスタッフの大部分は他のプロジェクトで現在多忙なので今年は小規模な生誕祭となりますが、色々な改善といつも通りの経験値2倍週間がありますよ。
+
+[h2]AMD製GPUドライバーのクラッシュ問題[/h2]
+ドライバーがバグの影響を受けるAMD製のグラフィックカードを使用している場合、高品質な動的影描写の設定を自動的に無効にするようにしました。このバグはミッションのロード時にクラッシュを引き起こすことが判明していますが、奇妙なことにドライバーをアップデートした直後の最初のゲーム起動時には問題が起きません。
+
+このバグの影響を受けていて情報提供をしたい方は(バグの再現性が確認できていれば)[url=https://www.amd.com/en/forms/contact-us/support.html]AMDに関連情報を送る[/url](クラッシュレポート、再現性の解説など)事を推奨します。
+
+このクラッシュ回避策となる自動設定を無効にする(設定画面で表示と有効化を可能にする)には、コンソールコマンドで[b]rd_debug_amd_shadow_workaround 0[/b]を入力してください。回避策を無効にして[i]更に[/i]影設定を有効にするには、コンソールコマンドで[b]rd_debug_amd_shadow_crash[/b]を入力してください。
+
+[h2]ゲームプレイ[/h2]
+[list]
+[*][b]放射性物質[/b](ガスグレネード、放射性物質のドラム缶)のダメージ範囲は箱型ではなく球状になった。
+[*][b]焦げあとや血痕[/b]は床以外で正確な位置に残るようになった。
+[*][b]ホーネットバラージ:[/b] デスマッチ以外では隊員にダメージを与えなくなった。
+[*][b]MTD6 スマートボム:[/b] デスマッチ以外では隊員にダメージを与えなくなった。
+[*][b]IAF メディカルアンプガン:[/b] 回復エネルギーの容量計算式を(20 + 5x回復スキル)から(15 + 10x回復スキル)に変更した。これによりFaithは回復エネルギー量が45から65に、Bastilleは40から55に増加した。
+[*][b]感染デスマッチ:[/b] しゃがみながら近接攻撃ボタンを押すことでラストスタンドモードが起動するようになった。
+[*][b]ランクマッチ[/b]でマップがゲームサーバー上のファイル名に大文字を2個以上含んでいた場合にハイスコアボーナスを2回計上していたバグを修正。
+[*][b]ストレンジ装置[/b]のティアアップ通知は現在値ではなく、そのティアの必要値を表示するようにした(回復のように連続で発生するアクションに関する修正)。
+[*]ダメージ表示は[b]OnTakeDamage_Alive_Any[/b]のVScript関数による変更を受けたものを表示するようになった。
+[*]砂利の上を歩行中の摩擦力を増加させ、他の材質と同等にした。
+[/list]
+
+[h2]ミッション[/h2]
+[list]
+[*][b]Jacob's Rest: Landing Bay:[/b] カメラを特定の角度にすると壁が無い部分がある、ドア枠が壁に埋まって見える、床の装飾が見えなくなるといった見た目上の些細な問題を修正。
+[*][b]Jacob's Rest: SynTek Residential:[/b] 通気口エリアでプレイヤーが動けなくなるのを防止するため、見えない壁と坂を設置した。
+[*][b]Area 9800: Power Plant:[/b] 防爆扉は溶接不能になった。
+[*][b]Area 9800: Power Plant:[/b] AIディレクターがミッションのゴール地点より奥からエイリアンが出現させていたのを修正。
+[*][b]Operation Cleansweep: Landing Bay 7:[/b] プレイヤーが動けなくなるのを防止するため、見えない壁を設置した。
+[*][b]Operation Cleansweep: U.S.C. Medusa:[/b] エレベーターが移動中にドアが開かないようになり、上階に到着したらしっかり開くようにした。
+[*][b]Tears for Tarnor: Abandoned Maintenance Tunnels:[/b] 動力炉の東側の壁を弾丸が貫通できなかったのを修正。
+[*][b]Tilarus-5: SynTek Hospital:[/b] 電源室へのドアは補助電源で稼働するようになり、停電中に手動で開閉できるようになった。
+[*][b]Paranoia: Crucial Point:[/b] AIディレクターがミッションのゴール地点より奥からエイリアンが出現させていたのを修正。
+[*][b]Nam Humanum: Logistics Area:[/b] 特異素材がプレイヤーの到達できない場所に出現することがあったのを修正。
+[*][b]Reduction: Fallen City:[/b] プレイヤーが動けなくなるのを防止するため、一部のオブジェクトを移動させた。
+[*][b]Rapture:[/b] 岩がプレイヤーに[url=https://www.twitch.tv/octa_chi/clip/NeighborlyBoredPistachioKlappa-wUs-rppsKSqJMnYG]不幸を振りまいていた[/url]のを修正。霧の量を改善。NPCの経路探索情報を改善。落とし穴の近くに注意を促す看板を設置。
+[/list]
+
+[h2]マップとMOD制作[/h2]
+[list]
+[*]asw_doorに入力を追加: [b]DelayBeforeClose[/b] (ドアが自動的に閉まるまでの遅延時間を変更可能; デフォルト値は5、-1にすると閉じなくなる)
+[*]チャレンジやマップでエイリアン(ドローンなど)がジャンプするタイミングの決定方法を調整できるコンソール変数を追加。
+[expand type=details]asw_alien_jump_max_speed, デフォルト値 1024
+asw_alien_jump_max_rise, デフォルト値 512
+asw_alien_jump_max_drop, デフォルト値 512
+asw_alien_jump_max_distance, デフォルト値 1024
+asw_alien_jump_min_distance, デフォルト値 128
+asw_alien_jump_min_distance_between_attempts, デフォルト値 128
+asw_alien_jump_min_predicted_distance, デフォルト値 512
+
+[url=https://www.youtube.com/watch?v=E42AomiAWis]Pinsplashさんの解説動画[/url]を観ればこれらがどういう意味を持つかわかりやすいかもしれません。[/expand]
+[*][b]RDCharacter shader:[/b] $flashlightnolambertに対応し、ランバート照明以外のフラッシュライトの挙動を正確なものにした。
+[*][b]RDCharacter shader:[/b] シェーダーの処理順を調整してHSVが最初にbaseColorを改変するようになり、色補正される前の素の状態のテクスチャに直接作用するようになった。
+[*][b]RunScript[/b]の入力はHammerエディタ内でTeam Fortress 2と同様の`-to-"置換を使用するようになった。
+[*][b]GiveWeapon[/b]のスクリプト関数は生成された武器を返り値として戻すようになった。
+[*]専用サーバーが再起動中にプレイヤーが参加しようとするとサーバーがクラッシュしていたのを修正。
+[*][b]Entities[/b]のシングルトンは削除対象としてマークされたエンティティを返り値として戻さなくなった。([b]Destroy[/b]をループ中に呼び出すのは安全。)
+[/list]
+
+[h2]IAF(星間連盟軍)に君が必要だ！[/h2]
+Alien Swarm: Reactive Dropは完全無料ですが、沢山のボランティアの方々による支援は片手間でできているものではありません。可能ならば、[url=https://steamcommunity.com/app/563560/workshop/]Steamワークショップ[/url]にコンテンツを投稿したり、バグ報告を送ったり、[url=https://github.com/ReactiveDrop/reactivedrop_public_src]コード[/url]の改善を提案したり、ゲームを自分の言語に[url=https://github.com/ReactiveDrop/reactivedrop_translations]翻訳[/url]したり、Alien Swarm: Reactive Dropを支えるボランティアの方々に[url=https://store.steampowered.com/itemstore/563560/]1ドルの寄付[/url]をしてみてください。IAFは宇宙海兵隊指揮官であるあなたの協力にいつも感謝しております。
+
+今回のアップデートの主な貢献者の方々(アルファベット順、敬称略): AlexZ, allenshamal, Andreas Balzer, anf3is, Ben Lubar, Brancu Alexandru, connman116, Crazymanbos, Deerlord0, Dmitriy, Duke M, ElySimp, Grace Lovelace, Grimowy, hangumi, Ioannis-Marios Tsiakoulias, jhheight, Krevka, MakinDay, mfz, ModdedMarionette, Orange, Steffo, ustcywg, WerFEST</string>
+<string id="subtitle"></string>
+<string id="summary"></string>
+<string id="title">AS:RDアップデート - 2026年4月20日 "Going Up"</string>
+</content>
