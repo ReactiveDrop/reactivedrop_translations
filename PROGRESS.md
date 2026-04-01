@@ -1,7 +1,7 @@
 # Overview
 | Language | basemodui | closecaption | gameui | reactivedrop | items | statsweb | Strings | Files |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 1 |
+| [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Traditional Chinese](#tchinese-繁體中文) | ✔️ | ✔️ | ✔️ | 100 | ✔️ | ✔️ | ✔️ | 125 |
 | [Czech](#czech-čeština) | ✔️ | ✔️ | ✔️ | 3766 | 286 | 231 | 972 | 146 |
 | [Danish](#non-curated-languages) | 57 | 231 | 43 | 3915 | 286 | 231 | 710 | 147 |
@@ -19,7 +19,7 @@
 | [European Portuguese](#portuguese-português-europeu) | 5 | 180 | 33 | 2474 | 266 | 52 | 636 | 142 |
 | [Brazilian Portuguese](#brazilian-português) | 1 | ✔️ | ✔️ | 999 | 28 | 23 | 4 | 3 |
 | [Romanian](#non-curated-languages) | 56 | 1996 | 49 | 4095 | 286 | 231 | 967 | 147 |
-| [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 1 |
+| [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [European Spanish](#spanish-español-de-españa) | ✔️ | 2004 | ✔️ | 2027 | 3 | 1 | 3 | 125 |
 | [Latin American Spanish](#latam-español-latinoamericano) | 1 | 2004 | ✔️ | 4435 | 34 | 24 | 207 | 143 |
 | [Swedish](#swedish-svenska) | ✔️ | ✔️ | ✔️ | 59 | ✔️ | ✔️ | ✔️ | 72 |
@@ -41,9 +41,7 @@
 
 </summary>
 
-### Upcoming Release Notes
-
-- [20260420_schinese.xml](release_notes/20260420_english.xml) is missing.
+✓ Up to date!
 
 </details>
 
@@ -1101,9 +1099,7 @@
 
 </summary>
 
-### Upcoming Release Notes
-
-- [20260420_russian.xml](release_notes/20260420_english.xml) is missing.
+✓ Up to date!
 
 </details>
 
