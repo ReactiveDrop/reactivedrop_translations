@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<content>
+<string id="body">È di nuovo il momento del compleanno di Alien Swarm: Reactive Drop. Quest'anno sarà più contenuto, dato che molti dei nostri principali contributori sono stati impegnati con altri progetti, ma abbiamo comunque molti miglioramenti da condividere e la solita settimana con esperienza doppia.
+
+[h2]Crash dei driver GPU AMD[/h2]
+Il gioco ora disabilita automaticamente le ombre in tempo reale di alta qualità sulle schede grafiche AMD affette da questo bug dei driver. Abbiamo notato che ciò causava crash durante il caricamento di una missione, ma curiosamente il primo avvio dopo l'aggiornamento del driver funzionava correttamente.
+
+Incoraggiamo chiunque abbia una scheda grafica affetta da questo problema e voglia aiutare (ed è in grado di riprodurre il crash) a [url=https://www.amd.com/en/forms/contact-us/support.html]inviare qualsiasi informazione utile (report di crash, istruzioni per la riproduzione, ecc.) ad AMD[/url].
+
+Per disabilitare il workaround (cioè permettere alle impostazioni di essere visualizzate e selezionate), usa il comando console [b]rd_debug_amd_shadow_workaround 0[/b]. Per disabilitare il workaround [i]e[/i] riattivare le impostazioni, usa il comando console [b]rd_debug_amd_shadow_crash[/b].
+
+[h2]Gameplay[/h2]
+[list]
+[*][b]Volumi di radiazione[/b] (granate a gas, barili radioattivi) ora infliggono danno in una sfera anziché in un cubo.
+[*][b]Segni di bruciatura e sangue[/b] ora vengono posizionati più accuratamente su superfici diverse dal pavimento.
+[*][b]Raffica di Calabroni:[/b] Non infligge più danni ai soldati al di fuori del Deathmatch.
+[*][b]Bomba Intelligente MTD6:[/b] Non infligge più danni ai soldati al di fuori del Deathmatch.
+[*][b]Pistola Medica Amplificatrice IAF:[/b] Modificato il calcolo delle munizioni curative da 20 + 5 per punto in Cura a 15 + 10 per punto in Cura. Le munizioni curative iniziali di Faith sono aumentate da 45 a 65. Quelle iniziali di Bastille sono state modificate da 40 a 55.
+[*][b]Deathmatch Infezione:[/b] Attivare Ultima Resistenza ora richiede che il giocatore si accovacci oltre a premere il tasto corpo a corpo.
+[*]Risolto un bug in [b]Eroi delle Forze Armate Interstellari[/b] che conteggiava due volte i bonus punteggio alto se una mappa aveva lettere maiuscole nel nome file sul server di gioco.
+[*][b]Dispsitivo Strano[/b] ora mostra nelle notifiche di avanzamento il numero richiesto di azioni per il livello invece del numero corrente (rilevante per azioni che avvengono a raffica come la cura).
+[*]I numeri di danno fluttuanti ora tengono conto delle modifiche al danno inflitto dalla funzione VScript [b]OnTakeDamage_Alive_Any[/b].
+[*]Aumentato l'attrito mentre si cammina sulla ghiaia per allinearlo agli altri materiali.
+[/list]
+
+[h2]Missioni[/h2]
+[list]
+[*][b]Jacob's Rest: Baia d'Attracco:[/b] Risolti piccoli problemi visivi come muri mancanti da specifiche angolazioni, un telaio porta visibile dentro un muro e decal del pavimento mancanti.
+[*][b]Jacob's Rest: Zona Residenziale SynTek:[/b] Aggiunti alcuni muri e rampe invisibili per evitare che i giocatori restino bloccati nell'area delle condutture.
+[*][b]Area 9800: Centrale Elettrica:[/b] Le porte blindate non possono più essere saldate.
+[*][b]Area 9800: Centrale Elettrica:[/b] Impedito al director di generare alieni oltre la fine della missione.
+[*][b]Operazione Cleansweep: Baia d'Attracco 7:[/b] Aggiunto un muro invisibile per evitare che i giocatori restino bloccati.
+[*][b]Operazione Cleansweep: U.S.C. Medusa:[/b] Le porte dell'ascensore non si aprono più mentre è in movimento e si aprono in modo più affidabile quando raggiunge la cima.
+[*][b]Lacrime per Tarnor: Tunnel della Manutenzione Abbandonati:[/b] Risolto il problema per cui i proiettili non potevano attraversare il muro est della sala reattore.
+[*][b]Tilarus-5: Ospedale Syntek:[/b] La porta della sala energia ora funziona con alimentazione di emergenza e può essere aperta e chiusa manualmente durante il blackout.
+[*][b]Paranoia: Punto Cruciale:[/b] Impedito al director di generare alieni oltre la fine della missione.
+[*][b]Nam Humanum: Area Logistica:[/b] Risolto il problema dei materiali anomali che potevano generarsi in aree non raggiungibili dai giocatori.
+[*][b]Reduction: La Città Caduta:[/b] Spostati alcuni oggetti per evitare che i giocatori restino bloccati.
+[*][b]Rottura:[/b] Sistemata una roccia che [url=https://www.twitch.tv/octa_chi/clip/NeighborlyBoredPistachioKlappa-wUs-rppsKSqJMnYG]malediceva i giocatori[/url]. Migliorata la precisione dei volumi di nebbia. Migliorate le informazioni di navigazione degli NPC. Aggiunti segnali di pericolo vicino al baratro mortale.
+[/list]
+
+[h2]Mapping / Modding[/h2]
+[list]
+[*]Aggiunto un nuovo input per asw_door: [b]DelayBeforeClose[/b] (modifica il ritardo di chiusura automatica della porta; 5 di default, -1 per mantenerla sempre aperta)
+[*]Aggiunte convar che sfide e mappe possono usare per regolare quando gli alieni (droni, ecc.) decidono di saltare.
+[expand type=details]asw_alien_jump_max_speed, valore predefinito 1024
+asw_alien_jump_max_rise, valore predefinito 512
+asw_alien_jump_max_drop, valore predefinito 512
+asw_alien_jump_max_distance, valore predefinito 1024
+asw_alien_jump_min_distance, valore predefinito 128
+asw_alien_jump_min_distance_between_attempts, valore predefinito 128
+asw_alien_jump_min_predicted_distance, valore predefinito 512
+
+Vedi [url=https://www.youtube.com/watch?v=E42AomiAWis]il video di Pinsplash sugli zombie veloci[/url] per suggerimenti su cosa fanno.[/expand]
+[*][b]Shader RDCharacter:[/b] Aggiunto supporto per $flashlightnolambert, garantendo un comportamento corretto della torcia non-Lambert.
+[*][b]Shader RDCharacter:[/b] Riordinato il flusso dello shader per assicurare che HSV modifichi baseColor all'inizio, influenzando direttamente la texture base invece di regolazioni di colore post-processate.
+[*]L'input [b]RunScript[/b] in Hammer ora applica la sostituzione in stile TF2 `-to-".
+[*]La funzione script [b]GiveWeapon[/b] ora restituisce l'arma generata.
+[*]Risolto un crash del server dedicato quando un giocatore entra mentre il server si sta riavviando.
+[*]Il singleton [b]Entities[/b] non restituisce più entità contrassegnate per l'eliminazione. (È sicuro chiamare [b]Destroy[/b] all'interno di un loop.)
+[/list]
+
+[h2]La IAF ha bisogno di te![/h2]
+Alien Swarm: Reactive Drop sarà sempre gratuito, ma questo non significa che non richieda molto lavoro da parte di tanti volontari di talento. Se puoi, considera di creare contenuti per lo [url=https://steamcommunity.com/app/563560/workshop/]Steam Workshop[/url], segnalare bug, proporre miglioramenti al [url=https://github.com/ReactiveDrop/reactivedrop_public_src]codice[/url], [url=https://github.com/ReactiveDrop/reactivedrop_translations]tradurre[/url] il gioco nella tua lingua o [url=https://store.steampowered.com/itemstore/563560/]donare[/url] qualcosa a chi ha reso possibile Alien Swarm: Reactive Drop. La IAF ti ringrazia per il tuo continuo servizio, Comandante.
+
+Principali contributori di questo aggiornamento (in ordine alfabetico): AlexZ, allenshamal, Andreas Balzer, anf3is, Ben Lubar, Brancu Alexandru, connman116, Crazymanbos, Deerlord0, Dmitriy, Duke M, ElySimp, Grace Lovelace, Grimowy, hangumi, Ioannis-Marios Tsiakoulias, jhheight, Krevka, MakinDay, mfz, ModdedMarionette, Orange, Steffo, ustcywg, WerFEST</string>
+<string id="subtitle"></string>
+<string id="summary"></string>
+<string id="title">Aggiornamento AS:RD - 20 aprile 2026 "Going Up"</string>
+</content>
