@@ -121,7 +121,9 @@
 		"#official_mission_rd-bonus_mission6"	"Alta tensión + Punto Crucial"
 		"#official_mission_rd-bonus_mission7"	"Central Eléctrica"
 		"#official_mission_rd-bonus10_sewrev"	"Reversed Sewer Junction B5"
+		"#official_mission_rd-bonus11_synrev"	"Reversed SynTek Residential"
 		"#official_mission_rd-bonus12_rydrev"	"Reversed Rydberg Reactor"
+		"#official_mission_rd-bonus13_deimrev"	"Reversed Deima Surface Bridge"
 		"#official_mission_rd-bonus14_cargrev"	"Reversed Cargo Elevator"
 		"#official_mission_rd-bonus15_landrev"	"Reversed Landing Bay"
 	}
