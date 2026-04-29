@@ -1,0 +1,19 @@
+{
+"language": "indonesian",
+"itemid": "81731",
+"app[content][short_description]": "Game tembak-menembak top-down kooperatif yang tersedia gratis. Perburuan serangga epik dengan perpaduan unik antara permainan ko-op dan taktik tingkat skuad.",
+"app[content][about]": "Alien Swarm: Reactive Drop memperluas Alien Swarm, menghadirkan lebih banyak dari semuanya: map, alien, mode permainan, senjata... Dan yang terpenting, dukungan Steam Workshop.\n\n[list]\n[*]Ko-op taktis hingga 8 pemain dengan perspektif top-down\n[*]Dukungan Steam Workshop untuk map dan tantangan buatan komunitas\n[*]Kampanye kooperatif baru\n[*]Tantangan: Modifikasi permainan, seperti Mutations di Left 4 Dead 2\n[*]PvP: Deathmatch, Gun Game, Instagib, dan Team Deathmatch\n[*]Singleplayer: Bermain dengan bot yang ditingkatkan di semua map resmi kami\n[*]Alien Baru: antlion guard HL2 dan lainnya\n[*]Senjata Baru: Bulldog, Devastator, dan Combat Rifle, dengan lebih banyak lagi yang akan datang\n[*]Lebih dari 100 achievement Steam\n[*]Leaderboard: bersaing dengan temanmu untuk penyelesaian misi tercepat\n[*]Mode spectate yang ditingkatkan: lihat minigame hacking dan pergerakan mouse secara real time\n[\/list]",
+"app[content][legal]": "© 2017 Tim Reactive Drop\nAlien Swarm: Reactive Drop adalah kelanjutan buatan penggemar dari Alien Swarm (2010) milik Valve. Tim Reactive Drop adalah kelompok relawan dan tidak berafiliasi dengan Valve. Kami hanya penggemar berat.\n© 2010 Valve Corporation. Semua hak dilindungi. Valve, Alien Swarm, logo Alien Swarm, Source, dan logo Source adalah merek dagang dan/atau merek dagang terdaftar milik Valve Corporation di Amerika Serikat dan negara lainnya.",
+"app[content][sysreqs][windows][min][osversion]": "Windows® XP atau lebih baru",
+"app[content][sysreqs][windows][min][processor]": "Pentium 4 atau lebih baru",
+"app[content][sysreqs][windows][min][graphics]": "Kartu video kompatibel DirectX 9 dengan 128 MB, Shader model 2.0b. ATI X800, NVidia 6600, atau lebih baik",
+"app[content][sysreqs][windows][min][soundcard]": "Kartu suara kompatibel DirectX 9.0c",
+"app[content][sysreqs][windows][min][notes]": "Kebutuhan ruang disk bergantung pada addon Workshop yang terpasang.",
+"app[game][3panticheat][othernameloc]": "VAC (Valve Anti-Cheat); tambahan anti-cheat kustom sisi server pada server dedicated",
+"app[item_store][filters][0][localization]": "Stempel Map",
+"app[item_store][filters][1][localization]": "Donasi",
+"app[item_store][filters][2][localization]": "Artis",
+"app[item_store][filters][3][localization]": "Programmer",
+"app[item_store][filters][4][localization]": "Host Server",
+"app[item_store][filters][5][localization]": "Penerjemah"
+}

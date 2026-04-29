@@ -10,7 +10,7 @@
 | [French](#french-français) | ✔️ | 67 | ✔️ | 2529 | 285 | ✔️ | 365 | 111 |
 | [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Hungarian](#non-curated-languages) | 56 | 138 | 43 | 3384 | 286 | 231 | 975 | 147 |
-| [Indonesian](#indonesian-indonesia) | 575 | 2004 | 635 | 4350 | 289 | 236 | 972 | 145 |
+| [Indonesian](#indonesian-indonesia) | 575 | 2004 | 635 | 4350 | 289 | 236 | 867 | 139 |
 | [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 35 | ✔️ |
 | [Korean](#koreana-한국어) | ✔️ | ✔️ | ✔️ | 30 | ✔️ | ✔️ | ✔️ | ✔️ |
@@ -526,8 +526,6 @@
 - [inventory_service_tags_indonesian.vdf](community/inventory_service/inventory_service_tags_indonesian.vdf) has 27 untranslated strings.
 - [items_indonesian.vdf](community/inventory_service/items_indonesian.vdf) has 289 untranslated strings.
 - [statsweb_indonesian.vdf](community/stats_website/statsweb_indonesian.vdf) has 236 untranslated strings.
-- [steam_input_indonesian.vdf](community/steam_input/steam_input_indonesian.vdf) has 97 untranslated strings.
-- [workshop_description_indonesian.vdf](community/workshop/workshop_description_indonesian.vdf) has 8 untranslated strings.
 - [misc/signage/signage_indonesian.vdf](misc/signage/signage_indonesian.vdf) has 70 untranslated strings.
 - [platform/servers/serverbrowser_indonesian.txt](platform/servers/serverbrowser_indonesian.txt) has 186 untranslated strings.
 - [platform/vgui_indonesian.txt](platform/vgui_indonesian.txt) has 184 untranslated strings.
@@ -536,18 +534,6 @@
 - [gameui_indonesian.txt](resource/gameui_indonesian.txt) has 635 untranslated strings.
 - [reactivedrop_indonesian.txt](resource/reactivedrop_indonesian.txt) has 4350 untranslated strings.
 - [valve_indonesian.txt](resource/valve_indonesian.txt) has 266 untranslated strings.
-
-### Steam Store and Community
-
-- [eula_indonesian.txt](community/eula/eula_english.txt) is missing.
-- [app_items_563560_indonesian.json](community/points_shop/app_items_563560_english.json) is missing.
-- [workshop_tags_indonesian.json](community/workshop/workshop_tags_english.json) is missing.
-- [content_warning_563560_indonesian.txt](store_page/content_warning_563560_english.txt) is missing.
-- [storepage_81731_indonesian.json](store_page/storepage_81731_english.json) is missing.
-
-### Upcoming Release Notes
-
-- [20260420_indonesian.xml](release_notes/20260420_english.xml) is missing.
 
 ### Credits
 

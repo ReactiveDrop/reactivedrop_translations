@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<content>
+<string id="body">Saatnya sekali lagi merayakan ulang tahun Alien Swarm: Reactive Drop. Perayaannya lebih kecil tahun ini karena banyak kontributor inti kami sedang sibuk dengan proyek lain, tetapi kami tetap punya banyak peningkatan untuk dibagikan dan satu minggu XP ganda seperti biasa.
+
+[h2]Crash Driver GPU AMD[/h2]
+Game sekarang otomatis menonaktifkan bayangan realtime kualitas tinggi pada kartu grafis AMD yang terdampak bug driver. Kami melihat bahwa ini menyebabkan crash saat memuat misi, tetapi anehnya, peluncuran pertama setelah memperbarui driver berjalan normal.
+
+Kami mendorong siapa pun yang memiliki kartu grafis yang terdampak bug ini dan ingin membantu (serta bisa mereproduksi crash-nya) untuk [url=https://www.amd.com/en/forms/contact-us/support.html]mengirimkan informasi apa pun yang dapat membantu (laporan crash, langkah reproduksi, dan sebagainya) ke AMD[/url].
+
+Untuk menonaktifkan workaround (yakni agar pengaturan ditampilkan dan bisa dipilih), gunakan perintah konsol [b]rd_debug_amd_shadow_workaround 0[/b]. Untuk menonaktifkan workaround [i]dan[/i] mengaktifkan kembali pengaturan, gunakan perintah konsol [b]rd_debug_amd_shadow_crash[/b].
+
+[h2]Gameplay[/h2]
+[list]
+[*][b]Area Radiasi[/b] (granat gas, barel radioaktif) sekarang memberikan damage dalam bentuk bola, bukan kubus.
+[*][b]Bekas terbakar dan darah[/b] sekarang ditempatkan lebih akurat pada permukaan selain lantai.
+[*][b]Hornet Barrage:[/b] Tidak lagi memberikan damage ke marine di luar Deathmatch.
+[*][b]MTD6 Smart Bomb:[/b] Tidak lagi memberikan damage ke marine di luar Deathmatch.
+[*][b]IAF Medical Amplifier Gun:[/b] Perhitungan amunisi penyembuhan diubah dari 20 + 5 per poin Healing menjadi 15 + 10 per poin Healing. Amunisi penyembuhan awal Faith dinaikkan dari 45 menjadi 65. Amunisi penyembuhan awal Bastille diubah dari 40 menjadi 55.
+[*][b]Infection Deathmatch:[/b] Mengaktifkan Last Stand sekarang mengharuskan pemain jongkok selain menekan tombol melee.
+[*]Memperbaiki bug di [b]Heroes of the Interstellar Armed Forces[/b] yang menghitung bonus skor tinggi dua kali jika sebuah map memiliki huruf kapital pada nama file-nya di server game.
+[*]Notifikasi tier-up [b]Strange Device[/b] sekarang menampilkan jumlah aksi yang dibutuhkan untuk tier tersebut, bukan jumlah saat ini (relevan untuk aksi tertentu yang terjadi secara bertahap seperti penyembuhan).
+[*]Angka damage melayang sekarang memperhitungkan perubahan pada damage yang diberikan oleh fungsi VScript [b]OnTakeDamage_Alive_Any[/b].
+[*]Meningkatkan gesekan saat berjalan di atas kerikil agar sesuai dengan material lain.
+[/list]
+
+[h2]Misi[/h2]
+[list]
+[*][b]Jacob's Rest: Landing Bay:[/b] Memperbaiki masalah visual minor seperti dinding yang hilang pada sudut kamera tertentu, bingkai pintu yang terlihat di dalam dinding, dan decal lantai yang hilang.
+[*][b]Jacob's Rest: SynTek Residential:[/b] Menambahkan beberapa dinding tak terlihat dan ramp untuk mencegah pemain tersangkut di area ventilasi.
+[*][b]Area 9800: Power Plant:[/b] Blast door kini tidak bisa lagi dilas.
+[*][b]Area 9800: Power Plant:[/b] Mencegah director memunculkan alien setelah akhir misi.
+[*][b]Operation Cleansweep: Landing Bay 7:[/b] Menambahkan dinding tak terlihat untuk mencegah pemain tersangkut.
+[*][b]Operation Cleansweep: U.S.C. Medusa:[/b] Pintu lift kini tidak lagi terbuka saat lift bergerak, dan lebih andal terbuka saat mencapai bagian atas.
+[*][b]Tears for Tarnor: Abandoned Maintenance Tunnels:[/b] Memperbaiki peluru yang tidak bisa menembus dinding timur ruang reaktor.
+[*][b]Tilarus-5: SynTek Hospital:[/b] Pintu menuju ruang daya sekarang menggunakan daya darurat dan dapat dibuka serta ditutup secara manual selama pemadaman.
+[*][b]Paranoia: Crucial Point:[/b] Mencegah director memunculkan alien setelah akhir misi.
+[*][b]Nam Humanum: Logistics Area:[/b] Memperbaiki material anomali yang bisa muncul di area yang tidak dapat dijangkau pemain.
+[*][b]Reduction: Fallen City:[/b] Memindahkan beberapa objek agar pemain tidak tersangkut.
+[*][b]Rapture:[/b] Memperbaiki batu yang [url=https://www.twitch.tv/octa_chi/clip/NeighborlyBoredPistachioKlappa-wUs-rppsKSqJMnYG]mengutuk pemain[/url]. Meningkatkan akurasi volume kabut. Meningkatkan informasi navigasi NPC. Menambahkan tanda bahaya di dekat lubang maut.
+[/list]
+
+[h2]Mapping / Modding[/h2]
+[list]
+[*]Menambahkan input baru ke asw_door: [b]DelayBeforeClose[/b] (mengubah jeda auto-close pintu; nilai bawaan 5, -1 agar pintu tetap terbuka selamanya)
+[*]Menambahkan convar yang bisa dipakai challenge dan map untuk menyesuaikan cara alien (drone, dll.) memutuskan kapan melompat.
+[expand type=details]asw_alien_jump_max_speed, nilai bawaan 1024
+asw_alien_jump_max_rise, nilai bawaan 512
+asw_alien_jump_max_drop, nilai bawaan 512
+asw_alien_jump_max_distance, nilai bawaan 1024
+asw_alien_jump_min_distance, nilai bawaan 128
+asw_alien_jump_min_distance_between_attempts, nilai bawaan 128
+asw_alien_jump_min_predicted_distance, nilai bawaan 512
+
+Lihat [url=https://www.youtube.com/watch?v=E42AomiAWis]video Pinsplash yang menjelaskan fast zombie[/url] untuk petunjuk tentang fungsi-fungsi ini.[/expand]
+[*][b]RDCharacter shader:[/b] Menambahkan dukungan untuk $flashlightnolambert, memastikan perilaku flashlight non-Lambert yang benar.
+[*][b]RDCharacter shader:[/b] Mengurutkan ulang alur shader untuk memastikan HSV memodifikasi baseColor di awal, sehingga langsung memengaruhi tekstur dasar, bukan penyesuaian warna pascaproses.
+[*]Input [b]RunScript[/b] di Hammer sekarang menerapkan penggantian `-to-" gaya TF2.
+[*]Fungsi script [b]GiveWeapon[/b] sekarang mengembalikan senjata yang di-spawn.
+[*]Memperbaiki crash dedicated server saat pemain bergabung ketika server sedang restart.
+[*]Singleton [b]Entities[/b] tidak lagi mengembalikan entitas yang ditandai untuk dihapus. (Aman untuk memanggil [b]Destroy[/b] dari dalam loop.)
+[/list]
+
+[h2]IAF membutuhkanmu![/h2]
+Alien Swarm: Reactive Drop akan selalu gratis, tetapi itu bukan berarti pembuatannya tidak membutuhkan banyak kerja keras dari banyak relawan berbakat. Jika kamu bisa, pertimbangkan untuk membuat konten untuk [url=https://steamcommunity.com/app/563560/workshop/]Steam Workshop[/url], melaporkan bug, mengusulkan peningkatan [url=https://github.com/ReactiveDrop/reactivedrop_public_src]kode[/url], [url=https://github.com/ReactiveDrop/reactivedrop_translations]menerjemahkan[/url] game ini ke bahasamu, atau [url=https://store.steampowered.com/itemstore/563560/]mengirimkan satu dolar[/url] kepada salah satu orang yang membuat Alien Swarm: Reactive Drop menjadi mungkin. IAF berterima kasih atas layananmu yang berkelanjutan, Commander.
+
+Kontributor utama untuk pembaruan ini (urut alfabet): AlexZ, allenshamal, Andreas Balzer, anf3is, Ben Lubar, Brancu Alexandru, connman116, Crazymanbos, Deerlord0, Dmitriy, Duke M, ElySimp, Grace Lovelace, Grimowy, hangumi, Ioannis-Marios Tsiakoulias, jhheight, Krevka, MakinDay, mfz, ModdedMarionette, Orange, Steffo, ustcywg, WerFEST
+
+[img]{STEAM_CLAN_IMAGE}/27357479/7bb994c9794f6d8d4ee3a692c99b5a75edcc7df8.png[/img]</string>
+<string id="subtitle"></string>
+<string id="summary"></string>
+<string id="title">Pembaruan AS:RD - 20 April 2026 "Going Up"</string>
+</content>
