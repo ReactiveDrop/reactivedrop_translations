@@ -31,7 +31,7 @@
 // the English version of this texture has a smiley face :) in the middle of the O.
 // leave a comment on the translated version for any markings that should be added.
 "[english]materials/newcamp/sign/sign_reactorcontrol.vmt"		"REACTOR CONTROL"
-"materials/newcamp/sign/sign_reactorcontrol.vmt"		"REACTOR CONTROLE" //same face in the O
+"materials/newcamp/sign/sign_reactorcontrol.vmt"		"REACTOR CONTROLE"
 "[english]materials/newcamp/sign/sign_status.vmt"		"STATUS:"
 "materials/newcamp/sign/sign_status.vmt"		"STATUS:"
 "[english]materials/ocs/medusa_logo.vmt"		"USC MEDUSA\nIAF XR12-7"
