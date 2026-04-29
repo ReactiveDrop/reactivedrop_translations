@@ -121,7 +121,9 @@
 		"#official_mission_rd-bonus_mission6"	"高度警戒 + 樞紐之地"
 		"#official_mission_rd-bonus_mission7"	"發電廠"
 		"#official_mission_rd-bonus10_sewrev"	"反向下水道連結區 B5"
+		"#official_mission_rd-bonus11_synrev"	"Reversed SynTek Residential"
 		"#official_mission_rd-bonus12_rydrev"	"反向芮得柏反應爐"
+		"#official_mission_rd-bonus13_deimrev"	"Reversed Deima Surface Bridge"
 		"#official_mission_rd-bonus14_cargrev"	"反向貨物輸送梯"
 		"#official_mission_rd-bonus15_landrev"	"反向 登陸地"
 	}
