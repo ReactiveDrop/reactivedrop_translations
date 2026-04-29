@@ -3,7 +3,7 @@
 "Language"		"dutch"
 "Tokens"
 {
-		// find preview images to the textures here https://github.com/ReactiveDrop/reactivedrop_translations/wiki/Signage-Texture-Previews
+// find preview images to the textures here https://github.com/ReactiveDrop/reactivedrop_translations/wiki/Signage-Texture-Previews
 "[english]materials/decals/decalsigncaution001b.vmt"		"CAUTION\nWEAR YOUR\nRESPIRATOR"
 "materials/decals/decalsigncaution001b.vmt"		"LET OP\nDRAAG JE\nADEMHALINGSMASKER"
 "[english]materials/decals/decalsigndanger001c.vmt"		"DANGER\nHIGH\nVOLTAGE"
@@ -79,13 +79,13 @@
 "materials/signage/factory_sign_bridge_01.vmt"		"BRUG\nKWALITEITSCONTROLE"
 "[english]materials/signage/factory_sign_parts_01.vmt"		"PARTS | STORAGE"
 "materials/signage/factory_sign_parts_01.vmt"		"ONDERDELEN | OPSLAG"
-		// the part in brackets is rotated 90 degrees and facing down. if your language requires something different, leave a translator comment.
+// the part in brackets is rotated 90 degrees and facing down. if your language requires something different, leave a translator comment.
 "[english]materials/signage/factory_sign_section_b.vmt"		"[SECTION] B\nFRAMES"
 "materials/signage/factory_sign_section_b.vmt"		"[SECTIE] B\nFRAMES"
 "[english]materials/signage/factory_sign_section_e1.vmt"		"[SECTION] E1\nBULLETS"
 "materials/signage/factory_sign_section_e1.vmt"		"[SECTIE] E1\nKOGELS"
-		"[english]materials/signage/factory_sign_section_f.vmt"		"[SECTION] F\nAPPENDAGES"
-		"materials/signage/factory_sign_section_f.vmt"		"[SECTIE] F\nAPPENDAGES"
+"[english]materials/signage/factory_sign_section_f.vmt"		"[SECTION] F\nAPPENDAGES"
+"materials/signage/factory_sign_section_f.vmt"		"[SECTIE] F\nAANBOUWDELEN"
 "[english]materials/signage/factory_sign_section_g.vmt"		"[SECTION] G\nFRAMES"
 "materials/signage/factory_sign_section_g.vmt"		"[SECTIE] G\nFRAMES"
 "[english]materials/signage/factory_sign_section_l.vmt"		"[SECTION] L\nCYLINDERS"
