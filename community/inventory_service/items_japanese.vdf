@@ -116,8 +116,8 @@
 // Stats are only shown (and stored) on non-stackable tournament medals.
 "[english]item_tournament_medal_hoiaf_summary"		"Finished Season %season% in rank #%rank% with a score of %score%."
 "item_tournament_medal_hoiaf_summary"		"シーズン %season% にてスコア %score% 点を獲得し順位 #%rank% 位で完了した。"
-		"[english]item_tournament_medal_hoiaf_stat_season"		"Season %season%"
-		"item_tournament_medal_hoiaf_stat_season"		"Season %season%"
+"[english]item_tournament_medal_hoiaf_stat_season"		"Season %season%"
+"item_tournament_medal_hoiaf_stat_season"		"シーズン %season%"
 "[english]item_tournament_medal_hoiaf_stat_alien_kills"		"Aliens Killed"
 "item_tournament_medal_hoiaf_stat_alien_kills"		"倒したエイリアン"
 "[english]item_tournament_medal_hoiaf_stat_player_kills"		"Team Kills"
