@@ -275,6 +275,8 @@
 "item_strange_device_deployments_name"		"Deployments"
 // minigun
 "item_strange_device_time_spun_up_name"		"Time Spun Up"
+// marksman rifle
+"item_strange_device_scoped_kills_name"		"Scoped Kills"
 // killing an alien with a grenade while an ally is within the full range but not within the reduced range for friendly fire
 "item_strange_device_explosive_rescues_name"		"Explosive Rescues"
 // zapped something and then someone else killed it while it was zapped
