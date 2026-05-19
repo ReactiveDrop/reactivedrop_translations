@@ -10861,7 +10861,7 @@
 "[english]rd_crafting_research_helvetica_idle"		"Helvetica has completed all of her projects for now."
 "rd_crafting_research_helvetica_idle"		"Helvetica hat vorerst alle ihre Projekte abgeschlossen."
 "[english]rd_crafting_research_bur_title"		"Bur Nable's Project"
-"rd_crafting_research_bur_title"		"Bur Nable's Projekt"
+"rd_crafting_research_bur_title"		"Bur Nables Projekt"
 "[english]rd_crafting_research_bur_preparing"		"Bur is preparing their next project..."
 "rd_crafting_research_bur_preparing"		"Bur bereitet gerade sein nächstes Projekt vor..."
 "[english]rd_crafting_research_bur_working"		"Bur is fiishing up the project..."
