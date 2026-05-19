@@ -11,9 +11,9 @@
 | [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | 12 | 22 | ✔️ | ✔️ | ✔️ |
 | [Hungarian](#non-curated-languages) | 56 | 138 | 43 | 3400 | 309 | 231 | 975 | 147 |
 | [Indonesian](#indonesian-indonesia) | 575 | 2004 | 635 | 4366 | 23 | ✔️ | 840 | 139 |
-| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | 16 | 23 | ✔️ | ✔️ | ✔️ |
+| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 35 | ✔️ |
-| [Korean](#koreana-한국어) | ✔️ | ✔️ | ✔️ | 43 | 22 | ✔️ | ✔️ | ✔️ |
+| [Korean](#koreana-한국어) | ✔️ | ✔️ | ✔️ | 30 | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Norwegian Bokmål](#non-curated-languages) | 74 | 708 | 48 | 4105 | 309 | 231 | 710 | 147 |
 | [Polish](#polish-polski) | 2 | 2004 | ✔️ | 3044 | 38 | 20 | 137 | 127 |
 | [European Portuguese](#portuguese-português-europeu) | 5 | 180 | 33 | 2490 | 289 | 52 | 636 | 142 |
@@ -693,10 +693,7 @@
 
 </summary>
 
-### Strings
-
-- [items_italian.vdf](community/inventory_service/items_italian.vdf) has 23 untranslated strings.
-- [reactivedrop_italian.txt](resource/reactivedrop_italian.txt) has 16 untranslated strings.
+✓ Up to date!
 
 </details>
 
@@ -720,8 +717,7 @@
 
 ### Strings
 
-- [items_koreana.vdf](community/inventory_service/items_koreana.vdf) has 22 untranslated strings.
-- [reactivedrop_koreana.txt](resource/reactivedrop_koreana.txt) has 43 untranslated strings.
+- [reactivedrop_koreana.txt](resource/reactivedrop_koreana.txt) has 30 untranslated strings.
 
 </details>
 
