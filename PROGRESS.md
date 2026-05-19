@@ -19,7 +19,7 @@
 | [European Portuguese](#portuguese-português-europeu) | 5 | 180 | 33 | 2490 | 289 | 52 | 636 | 142 |
 | [Brazilian Portuguese](#brazilian-português) | 1 | ✔️ | ✔️ | 1015 | 51 | 23 | 4 | 3 |
 | [Romanian](#non-curated-languages) | 56 | 1996 | 49 | 4111 | 309 | 231 | 967 | 147 |
-| [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | 16 | 23 | ✔️ | ✔️ | ✔️ |
+| [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | 14 | 22 | ✔️ | ✔️ | ✔️ |
 | [European Spanish](#spanish-español-de-españa) | ✔️ | 2004 | ✔️ | 2043 | 26 | 1 | 3 | 125 |
 | [Latin American Spanish](#latam-español-latinoamericano) | 1 | 2004 | ✔️ | 4451 | 57 | 24 | 207 | 143 |
 | [Swedish](#swedish-svenska) | ✔️ | ✔️ | ✔️ | 61 | ✔️ | ✔️ | ✔️ | 71 |
@@ -1090,8 +1090,8 @@
 
 ### Strings
 
-- [items_russian.vdf](community/inventory_service/items_russian.vdf) has 23 untranslated strings.
-- [reactivedrop_russian.txt](resource/reactivedrop_russian.txt) has 16 untranslated strings.
+- [items_russian.vdf](community/inventory_service/items_russian.vdf) has 22 untranslated strings.
+- [reactivedrop_russian.txt](resource/reactivedrop_russian.txt) has 14 untranslated strings.
 
 </details>
 
