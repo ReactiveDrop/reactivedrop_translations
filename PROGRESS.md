@@ -22,7 +22,7 @@
 | [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | 16 | 23 | ✔️ | ✔️ | ✔️ |
 | [European Spanish](#spanish-español-de-españa) | ✔️ | 2004 | ✔️ | 2043 | 26 | 1 | 3 | 125 |
 | [Latin American Spanish](#latam-español-latinoamericano) | 1 | 2004 | ✔️ | 4451 | 57 | 24 | 207 | 143 |
-| [Swedish](#swedish-svenska) | ✔️ | ✔️ | ✔️ | 75 | 23 | ✔️ | ✔️ | 72 |
+| [Swedish](#swedish-svenska) | ✔️ | ✔️ | ✔️ | 61 | ✔️ | ✔️ | ✔️ | 71 |
 | [Thai](#non-curated-languages) | 971 | 1993 | 51 | 4647 | 309 | 231 | 739 | 147 |
 | [Turkish](#non-curated-languages) | 56 | 137 | 43 | 3400 | 309 | 231 | 975 | 147 |
 | [Ukrainian](#ukrainian-українська) | 32 | 131 | 33 | 2966 | 309 | 231 | 935 | 147 |
@@ -1431,8 +1431,7 @@
 
 ### Strings
 
-- [items_swedish.vdf](community/inventory_service/items_swedish.vdf) has 23 untranslated strings.
-- [reactivedrop_swedish.txt](resource/reactivedrop_swedish.txt) has 75 untranslated strings.
+- [reactivedrop_swedish.txt](resource/reactivedrop_swedish.txt) has 61 untranslated strings.
 
 ### Upcoming Release Notes
 
@@ -1471,7 +1470,6 @@
 - [mail/outsidemail1_swedish.txt](resource/mail/outsidemail1_english.txt) is missing.
 - [mail/outsidemail2_swedish.txt](resource/mail/outsidemail2_english.txt) is missing.
 - [mail/outsidemail3_swedish.txt](resource/mail/outsidemail3_english.txt) is missing.
-- [mail/plantmail1_swedish.txt](resource/mail/plantmail1_english.txt) is missing.
 - [mail/plantmail2_swedish.txt](resource/mail/plantmail2_english.txt) is missing.
 - [mail/plantmail3_swedish.txt](resource/mail/plantmail3_english.txt) is missing.
 - [mail/queenlairmail1_swedish.txt](resource/mail/queenlairmail1_english.txt) is missing.
