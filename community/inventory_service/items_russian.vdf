@@ -116,8 +116,8 @@
 // Stats are only shown (and stored) on non-stackable tournament medals.
 "[english]item_tournament_medal_hoiaf_summary"		"Finished Season %season% in rank #%rank% with a score of %score%."
 "item_tournament_medal_hoiaf_summary"		"За пройденный %season%-й сезон, заняв № %rank% место в рейтинге со счётом: %score%."
-		"[english]item_tournament_medal_hoiaf_stat_season"		"Season %season%"
-		"item_tournament_medal_hoiaf_stat_season"		"Season %season%"
+"[english]item_tournament_medal_hoiaf_stat_season"		"Season %season%"
+"item_tournament_medal_hoiaf_stat_season"		"Сезон %season%"
 "[english]item_tournament_medal_hoiaf_stat_alien_kills"		"Aliens Killed"
 "item_tournament_medal_hoiaf_stat_alien_kills"		"Жуков убито"
 "[english]item_tournament_medal_hoiaf_stat_player_kills"		"Team Kills"
