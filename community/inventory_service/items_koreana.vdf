@@ -500,7 +500,7 @@
 "item_strange_device_explosive_rescues_name"		"폭파 구조"
 // zapped something and then someone else killed it while it was zapped
 "[english]item_strange_device_electrical_assists_name"		"Electrical Assists"
-"item_strange_device_electrical_assists_name"		"경직 지원"
+"item_strange_device_electrical_assists_name"		"경직 처치 지원"
 "[english]item_strange_device_doors_welded_name"		"Doors Welded"
 "item_strange_device_doors_welded_name"		"용접한 문"
 "[english]item_strange_device_doors_cut_name"		"Doors Cut"
