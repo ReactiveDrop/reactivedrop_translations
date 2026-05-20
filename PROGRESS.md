@@ -13,7 +13,7 @@
 | [Indonesian](#indonesian-indonesia) | 575 | 2004 | 635 | 4366 | 23 | ✔️ | 840 | 139 |
 | [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 35 | ✔️ |
-| [Korean](#koreana-한국어) | ✔️ | ✔️ | ✔️ | 30 | ✔️ | ✔️ | ✔️ | ✔️ |
+| [Korean](#koreana-한국어) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Norwegian Bokmål](#non-curated-languages) | 74 | 708 | 48 | 4105 | 309 | 231 | 710 | 147 |
 | [Polish](#polish-polski) | 2 | 2004 | ✔️ | 3044 | 38 | 20 | 137 | 127 |
 | [European Portuguese](#portuguese-português-europeu) | 5 | 180 | 33 | 2490 | 289 | 52 | 636 | 142 |
@@ -712,9 +712,7 @@
 
 </summary>
 
-### Strings
-
-- [reactivedrop_koreana.txt](resource/reactivedrop_koreana.txt) has 30 untranslated strings.
+✓ Up to date!
 
 </details>
 
