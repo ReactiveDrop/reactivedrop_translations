@@ -10502,6 +10502,10 @@
 		"rd_crafting_submit_ready"		"Craft!"
 		"[english]rd_crafting_submit_in_progress"		"Crafting..."
 		"rd_crafting_submit_in_progress"		"Crafting..."
+		"[english]rd_crafting_submit_offline"		"Crafting requires a connection to the Steam servers"
+		"rd_crafting_submit_offline"		"Crafting requires a connection to the Steam servers"
+		"[english]rd_crafting_select_items"		"Select an item for this blueprint:"
+		"rd_crafting_select_items"		"Select an item for this blueprint:"
 		"[english]rd_crafting_required_items"		"Items:"
 		"rd_crafting_required_items"		"Items:"
 		"[english]rd_crafting_output_items"		"This blueprint will create:"
@@ -10626,11 +10630,11 @@
 		"[english]challenge_traitors_drop_weapon_notify"		"For game balance considerations, you can't take the two weapons at the same time."
 		"challenge_traitors_drop_weapon_notify"		"For game balance considerations, you can't take the two weapons at the same time."
 
-		//------role/vgui------
+//------role/vgui------
 
-		//iaf
-		"[english]challenge_traitors_role_article_iaf"		"an"
-		"challenge_traitors_role_article_iaf"		"an"
+//iaf
+"[english]challenge_traitors_role_article_iaf"		"an"
+"challenge_traitors_role_article_iaf"		"a"
 		"[english]challenge_traitors_role_name_iaf"		"IAF marine"
 		"challenge_traitors_role_name_iaf"		"IAF marine"
 		"[english]challenge_traitors_role_chat_role_description_iaf"		"You don't have any special skill. Try your best to survive. Good luck!"
@@ -10640,9 +10644,9 @@
 		"[english]challenge_traitors_role_hud_role_description_iaf"		"Try your best to survive. Good luck!"
 		"challenge_traitors_role_hud_role_description_iaf"		"Try your best to survive. Good luck!"
 
-		//scanner
-		"[english]challenge_traitors_role_article_scanner"		"an"
-		"challenge_traitors_role_article_scanner"		"an"
+//scanner
+"[english]challenge_traitors_role_article_scanner"		"an"
+"challenge_traitors_role_article_scanner"		"a"
 		"[english]challenge_traitors_role_name_scanner"		"Alien Expert"
 		"challenge_traitors_role_name_scanner"		"Alien Expert"
 		"[english]challenge_traitors_role_chat_role_description_scanner"		"You have a bio-scanner that can tell you who is the traitor."
@@ -10666,9 +10670,9 @@
 		"[english]challenge_traitors_role_chat_random_scan"		"For game balance considerations, the first several scans are randomized. The target should be within a certain range."
 		"challenge_traitors_role_chat_random_scan"		"For game balance considerations, the first several scans are randomized. The target should be within a certain range."
 
-		//biochemist
-		"[english]challenge_traitors_role_article_biochemist"		"a"
-		"challenge_traitors_role_article_biochemist"		"a"
+//biochemist
+"[english]challenge_traitors_role_article_biochemist"		"a"
+"challenge_traitors_role_article_biochemist"		"a"
 		"[english]challenge_traitors_role_name_biochemist"		"Biochemist"
 		"challenge_traitors_role_name_biochemist"		"Biochemist"
 		"[english]challenge_traitors_role_chat_role_description_biochemist"		"You have two biochemical agents: one adds bonus HP to an ally, cures his infection and extinguishes fire (except self), another poisons a target (including self)."
@@ -10683,14 +10687,14 @@
 		"challenge_traitors_vgui_menu_biochemist_2"		"RIGHT Click to KILL"
 		"[english]challenge_traitors_vgui_menu_biochemist_3"		"Skill will be ready in "
 		"challenge_traitors_vgui_menu_biochemist_3"		"Skill will be ready in "
-		"[english]challenge_traitors_vgui_menu_biochemist_4"		"s."
-		"challenge_traitors_vgui_menu_biochemist_4"		"s."
+"[english]challenge_traitors_vgui_menu_biochemist_4"		"s."
+"challenge_traitors_vgui_menu_biochemist_4"		"s."
 		"[english]challenge_traitors_vgui_menu_biochemist_5"		"You have already used your skill.(Blue: UDP packet has lost.)"
 		"challenge_traitors_vgui_menu_biochemist_5"		"You have already used your skill.(Blue: UDP packet has lost.)"
 
-		//iaf_leader
-		"[english]challenge_traitors_role_article_iaf_leader"		"a"
-		"challenge_traitors_role_article_iaf_leader"		"a"
+//iaf_leader
+"[english]challenge_traitors_role_article_iaf_leader"		"a"
+"challenge_traitors_role_article_iaf_leader"		"a"
 		"[english]challenge_traitors_role_name_iaf_leader"		"Colonel"
 		"challenge_traitors_role_name_iaf_leader"		"Colonel"
 		"[english]challenge_traitors_role_chat_role_description_iaf_leader"		"You have hidden bonus HP."
@@ -10700,9 +10704,9 @@
 		"[english]challenge_traitors_role_hud_role_description_iaf_leader"		"You have hidden bonus HP."
 		"challenge_traitors_role_hud_role_description_iaf_leader"		"You have hidden bonus HP."
 
-		//shield
-		"[english]challenge_traitors_role_article_shield"		"a"
-		"challenge_traitors_role_article_shield"		"a"
+//shield
+"[english]challenge_traitors_role_article_shield"		"a"
+"challenge_traitors_role_article_shield"		"a"
 		"[english]challenge_traitors_role_name_shield"		"Mechanic"
 		"challenge_traitors_role_name_shield"		"Mechanic"
 		"[english]challenge_traitors_role_chat_role_description_shield"		"You own a damage-reducing mecha, but cannot use it due to oversized toolbox. You can give it to a trusted ally."
@@ -10720,9 +10724,9 @@
 		"[english]challenge_traitors_vgui_menu_shield_4"		"You have already used your skill.(Blue: UDP packet has lost.)"
 		"challenge_traitors_vgui_menu_shield_4"		"You have already used your skill.(Blue: UDP packet has lost.)"
 
-		//sniper
-		"[english]challenge_traitors_role_article_sniper"		"a"
-		"challenge_traitors_role_article_sniper"		"a"
+//sniper
+"[english]challenge_traitors_role_article_sniper"		"a"
+"challenge_traitors_role_article_sniper"		"a"
 		"[english]challenge_traitors_role_name_sniper"		"Sniper"
 		"challenge_traitors_role_name_sniper"		"Sniper"
 		"[english]challenge_traitors_role_chat_role_description_sniper"		"Your calmness and exceptional shooting skills enable you to take down the killer when you die."
@@ -10732,9 +10736,9 @@
 		"[english]challenge_traitors_role_hud_role_description_sniper"		"You will take down the one who kills you when you die."
 		"challenge_traitors_role_hud_role_description_sniper"		"You will take down the one who kills you when you die."
 
-		//demo
-		"[english]challenge_traitors_role_article_demo"		"an"
-		"challenge_traitors_role_article_demo"		"an"
+//demo
+"[english]challenge_traitors_role_article_demo"		"an"
+"challenge_traitors_role_article_demo"		"a"
 		"[english]challenge_traitors_role_name_demo"		"Explosive Expert"
 		"challenge_traitors_role_name_demo"		"Explosive Expert"
 		"[english]challenge_traitors_role_chat_role_description_demo"		"You bring many explosives to support your team in killing aliens. You decide to trigger an area explosion upon death, trying to damage potential traitors nearby."
@@ -10744,9 +10748,9 @@
 		"[english]challenge_traitors_role_hud_role_description_demo"		"You will explode when you die."
 		"challenge_traitors_role_hud_role_description_demo"		"You will explode when you die."
 
-		//deserter
-		"[english]challenge_traitors_role_article_deserter"		"a"
-		"challenge_traitors_role_article_deserter"		"a"
+//deserter
+"[english]challenge_traitors_role_article_deserter"		"a"
+"challenge_traitors_role_article_deserter"		"a"
 		"[english]challenge_traitors_role_name_deserter"		"Deserter"
 		"challenge_traitors_role_name_deserter"		"Deserter"
 		"[english]challenge_traitors_role_chat_role_description_deserter"		"Being a coward, you flee in the battle. You have 30s of invulnerability to flee, followed by 90s damage debuff, then partial damage recovery."
@@ -10756,9 +10760,9 @@
 		"[english]challenge_traitors_role_hud_role_description_deserter"		"See instructions in chat."
 		"challenge_traitors_role_hud_role_description_deserter"		"See instructions in chat."
 
-		//traitor
-		"[english]challenge_traitors_role_article_traitor"		"a"
-		"challenge_traitors_role_article_traitor"		"a"
+//traitor
+"[english]challenge_traitors_role_article_traitor"		"a"
+"challenge_traitors_role_article_traitor"		"a"
 		"[english]challenge_traitors_role_name_traitor"		"Traitor"
 		"challenge_traitors_role_name_traitor"		"Traitor"
 		"[english]challenge_traitors_role_chat_role_description_traitor"		"You are infected and dominated by aliens. Aliens want you to sabotage the mission. Don't act rashly. There might be someone who can see through your disguise."
@@ -10768,9 +10772,9 @@
 		"[english]challenge_traitors_role_hud_role_description_traitor"		"Don't act rashly. Others may see through your disguise."
 		"challenge_traitors_role_hud_role_description_traitor"		"Don't act rashly. Others may see through your disguise."
 
-		//traitor_leader
-		"[english]challenge_traitors_role_article_traitor_leader"		"a"
-		"challenge_traitors_role_article_traitor_leader"		"a"
+//traitor_leader
+"[english]challenge_traitors_role_article_traitor_leader"		"a"
+"challenge_traitors_role_article_traitor_leader"		"a"
 		"[english]challenge_traitors_role_name_traitor_leader"		"Traitor Leader"
 		"challenge_traitors_role_name_traitor_leader"		"Traitor Leader"
 		"[english]challenge_traitors_role_chat_role_description_traitor_leader"		"You have hidden bonus HP."
@@ -10780,9 +10784,9 @@
 		"[english]challenge_traitors_role_hud_role_description_traitor_leader"		"You have hidden bonus HP."
 		"challenge_traitors_role_hud_role_description_traitor_leader"		"You have hidden bonus HP."
 
-		//infector
-		"[english]challenge_traitors_role_article_infector"		"a"
-		"challenge_traitors_role_article_infector"		"a"
+//infector
+"[english]challenge_traitors_role_article_infector"		"a"
+"challenge_traitors_role_article_infector"		"a"
 		"[english]challenge_traitors_role_name_infector"		"Suborner"
 		"challenge_traitors_role_name_infector"		"Suborner"
 		"[english]challenge_traitors_role_chat_role_description_infector"		"You can convert an IAF member when traitors are outnumbered."
@@ -10802,9 +10806,9 @@
 		"[english]challenge_traitors_vgui_menu_infector_5"		"You have already used your skill.(Blue: UDP packet has lost.)"
 		"challenge_traitors_vgui_menu_infector_5"		"You have already used your skill.(Blue: UDP packet has lost.)"
 
-		//boomer
-		"[english]challenge_traitors_role_article_boomer"		"a"
-		"challenge_traitors_role_article_boomer"		"a"
+//boomer
+"[english]challenge_traitors_role_article_boomer"		"a"
+"challenge_traitors_role_article_boomer"		"a"
 		"[english]challenge_traitors_role_name_boomer"		"Suicide Boomer"
 		"challenge_traitors_role_name_boomer"		"Suicide Boomer"
 		"[english]challenge_traitors_role_chat_role_description_boomer"		"You can perform a suicide attack. Detonates an area bomb (with or without alarm) after several seconds delay. Type \"/\" in chat to ACTIVATE the bomb."
@@ -10814,9 +10818,9 @@
 		"[english]challenge_traitors_role_hud_role_description_boomer"		"Type \"/\" in chat to ACTIVATE the bomb."
 		"challenge_traitors_role_hud_role_description_boomer"		"Type \"/\" in chat to ACTIVATE the bomb."
 
-		//silencer
-		"[english]challenge_traitors_role_article_silencer"		"a"
-		"challenge_traitors_role_article_silencer"		"a"
+//silencer
+"[english]challenge_traitors_role_article_silencer"		"a"
+"challenge_traitors_role_article_silencer"		"a"
 		"[english]challenge_traitors_role_name_silencer"		"Silencer"
 		"challenge_traitors_role_name_silencer"		"Silencer"
 		"[english]challenge_traitors_role_chat_role_description_silencer"		"You have a very special bio-force field that can disable target's special ability."
@@ -10829,14 +10833,14 @@
 		"challenge_traitors_vgui_menu_silencer_1"		"LEFT Click to suppress a player's special skill."
 		"[english]challenge_traitors_vgui_menu_silencer_2"		"Skill will be ready in "
 		"challenge_traitors_vgui_menu_silencer_2"		"Skill will be ready in "
-		"[english]challenge_traitors_vgui_menu_silencer_3"		"s."
-		"challenge_traitors_vgui_menu_silencer_3"		"s."
+"[english]challenge_traitors_vgui_menu_silencer_3"		"s."
+"challenge_traitors_vgui_menu_silencer_3"		"s."
 		"[english]challenge_traitors_vgui_menu_silencer_4"		"You have already used your skill.(Blue: UDP packet has lost.)"
 		"challenge_traitors_vgui_menu_silencer_4"		"You have already used your skill.(Blue: UDP packet has lost.)"
 
-		//mimic
-		"[english]challenge_traitors_role_article_mimic"		"a"
-		"challenge_traitors_role_article_mimic"		"a"
+//mimic
+"[english]challenge_traitors_role_article_mimic"		"a"
+"challenge_traitors_role_article_mimic"		"a"
 		"[english]challenge_traitors_role_name_mimic"		"Mimic"
 		"challenge_traitors_role_name_mimic"		"Mimic"
 		"[english]challenge_traitors_role_chat_role_description_mimic"		"Your quantum holographic cloak makes Alien Expert's scanner registers you as an IAF marine. Maintain disguise until critical moment."
@@ -10845,5 +10849,34 @@
 "challenge_traitors_role_chat_skill_description_mimic"		""
 		"[english]challenge_traitors_role_hud_role_description_mimic"		"Alien Expert's scanner sees you as an IAF marine"
 		"challenge_traitors_role_hud_role_description_mimic"		"Alien Expert's scanner sees you as an IAF marine"
+		"[english]asw_ob_office_rev1"		"Escape using south door"
+		"asw_ob_office_rev1"		"Escape using south door"
+		"[english]asw_ob_office_rev1b"		"Proceed to the Rydberg Reactor"
+		"asw_ob_office_rev1b"		"Proceed to the Rydberg Reactor"
+
+		"[english]rd_crafting_research_julie_title"		"Julie Duval's Project"
+		"rd_crafting_research_julie_title"		"Julie Duval's Project"
+		"[english]rd_crafting_research_julie_preparing"		"Julie is preparing her next project..."
+		"rd_crafting_research_julie_preparing"		"Julie is preparing her next project..."
+		"[english]rd_crafting_research_julie_working"		"Julie is finishing up the project..."
+		"rd_crafting_research_julie_working"		"Julie is finishing up the project..."
+		"[english]rd_crafting_research_julie_idle"		"Julie has completed all of her projects for now."
+		"rd_crafting_research_julie_idle"		"Julie has completed all of her projects for now."
+		"[english]rd_crafting_research_helvetica_title"		"Helvetica Scenario's Project"
+		"rd_crafting_research_helvetica_title"		"Helvetica Scenario's Project"
+		"[english]rd_crafting_research_helvetica_preparing"		"Helvetica is preparing her next project..."
+		"rd_crafting_research_helvetica_preparing"		"Helvetica is preparing her next project..."
+		"[english]rd_crafting_research_helvetica_working"		"Helvetica is finishing up the project..."
+		"rd_crafting_research_helvetica_working"		"Helvetica is finishing up the project..."
+		"[english]rd_crafting_research_helvetica_idle"		"Helvetica has completed all of her projects for now."
+		"rd_crafting_research_helvetica_idle"		"Helvetica has completed all of her projects for now."
+		"[english]rd_crafting_research_bur_title"		"Bur Nable's Project"
+		"rd_crafting_research_bur_title"		"Bur Nable's Project"
+		"[english]rd_crafting_research_bur_preparing"		"Bur is preparing their next project..."
+		"rd_crafting_research_bur_preparing"		"Bur is preparing their next project..."
+		"[english]rd_crafting_research_bur_working"		"Bur is fiishing up the project..."
+		"rd_crafting_research_bur_working"		"Bur is fiishing up the project..."
+		"[english]rd_crafting_research_bur_idle"		"Bur has completed all of their projects for now."
+		"rd_crafting_research_bur_idle"		"Bur has completed all of their projects for now."
 }
 }

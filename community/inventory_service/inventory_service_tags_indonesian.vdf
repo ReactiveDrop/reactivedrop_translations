@@ -3,10 +3,10 @@
 "Language"		"indonesian"
 "Tokens"
 {
-		// used to transform item names on the Steam Community. shows for items that have attached accessories, like a strange weapon with at least one strange device attached.
-		// %ITEMNAME% gets replaced with the item's default name; anything else between percent signs is replaced with a tag's name. don't translate the words between %.
-		"[english]inventory_name_format_1"		"%ITEMNAME% (Customized)"
-		"inventory_name_format_1"		"%ITEMNAME% (Customized)"
+// used to transform item names on the Steam Community. shows for items that have attached accessories, like a strange weapon with at least one strange device attached.
+// %ITEMNAME% gets replaced with the item's default name; anything else between percent signs is replaced with a tag's name. don't translate the words between %.
+"[english]inventory_name_format_1"		"%ITEMNAME% (Customized)"
+"inventory_name_format_1"		"%ITEMNAME% (Dikustomisasi)"
 "[english]inventory_name_format_2"		""
 "inventory_name_format_2"		""
 "[english]inventory_name_format_3"		""
@@ -21,72 +21,72 @@
 "inventory_name_format_7"		""
 "[english]inventory_name_format_8"		""
 "inventory_name_format_8"		""
-		"[english]inventory_rarity"		"Rarity"
-		"inventory_rarity"		"Rarity"
-		// items that can be obtained by pretty much anyone.
-		"[english]inventory_rarity_common"		"Common"
-		"inventory_rarity_common"		"Common"
-		// items that take some effort to obtain.
-		"[english]inventory_rarity_uncommon"		"Uncommon"
-		"inventory_rarity_uncommon"		"Uncommon"
-		// items that are in limited supply, like medals for winning a recurring automated competition.
-		"[english]inventory_rarity_rare"		"Rare"
-		"inventory_rarity_rare"		"Rare"
-		// items that require doing something beyond just playing the game to obtain.
-		"[english]inventory_rarity_legendary"		"Legendary"
-		"inventory_rarity_legendary"		"Legendary"
-		// real-money donation receipt items from the store.
-		"[english]inventory_rarity_genuine"		"Genuine"
-		"inventory_rarity_genuine"		"Genuine"
-		// items that count stats.
-		"[english]inventory_rarity_strange_rarity"		"Strange"
-		"inventory_rarity_strange_rarity"		"Strange"
-		// where an item can be equipped.
-		"[english]inventory_slot"		"Slot"
-		"inventory_slot"		"Slot"
-		"[english]inventory_slot_medal"		"Medal"
-		"inventory_slot_medal"		"Medal"
-		"[english]inventory_slot_suit"		"Suit"
-		"inventory_slot_suit"		"Suit"
-		"[english]inventory_slot_weapon"		"Weapon"
-		"inventory_slot_weapon"		"Weapon"
-		"[english]inventory_slot_equipment"		"Equipment"
-		"inventory_slot_equipment"		"Equipment"
-		// for equippable items that can only be used on one class.
-		"[english]inventory_class_restriction"		"Class Restriction"
-		"inventory_class_restriction"		"Class Restriction"
-		"[english]inventory_class_restriction_officer"		"Officer"
-		"inventory_class_restriction_officer"		"Officer"
-		"[english]inventory_class_restriction_specialweapons"		"Special Weapons"
-		"inventory_class_restriction_specialweapons"		"Special Weapons"
-		"[english]inventory_class_restriction_medic"		"Medic"
-		"inventory_class_restriction_medic"		"Medic"
-		"[english]inventory_class_restriction_tech"		"Tech"
-		"inventory_class_restriction_tech"		"Tech"
-		"[english]inventory_crafting_item"		"Crafting Item"
-		"inventory_crafting_item"		"Crafting Item"
-		"[english]inventory_crafting_item_single_use_tool"		"Single-Use Tool"
-		"inventory_crafting_item_single_use_tool"		"Single-Use Tool"
-		// common crafting materials. (100-1000 drop at a time)
-		"[english]inventory_crafting_item_ultra_common"		"Bulk Material"
-		"inventory_crafting_item_ultra_common"		"Bulk Material"
-		// common crafting materials. (1-3 drop at a time)
-		"[english]inventory_crafting_item_common_part"		"Industrial Material"
-		"inventory_crafting_item_common_part"		"Industrial Material"
-		// uncommon crafting materials.
-		"[english]inventory_crafting_item_alien_part"		"Alien Material"
-		"inventory_crafting_item_alien_part"		"Alien Material"
-		// rare crafting materials.
-		"[english]inventory_crafting_item_computer_part"		"Tech Material"
-		"inventory_crafting_item_computer_part"		"Tech Material"
-		// crafting items that can be found by playing some campaigns but not others.
-		"[english]inventory_crafting_item_regional"		"Salvaged Material"
-		"inventory_crafting_item_regional"		"Salvaged Material"
-		// crafting items that were transformed from a variant the player found into one that is more usable (eg. sorting wires, turning scraps of material into a sheet)
-		"[english]inventory_crafting_item_refined"		"Refined Material"
-		"inventory_crafting_item_refined"		"Refined Material"
-		// displayed before the list of Strange item accessories, eg. Strange Devices: Missions, Aliens Killed
-		"[english]inventory_strange"		"Strange Devices"
-		"inventory_strange"		"Strange Devices"
+"[english]inventory_rarity"		"Rarity"
+"inventory_rarity"		"Kelangkaan"
+// items that can be obtained by pretty much anyone.
+"[english]inventory_rarity_common"		"Common"
+"inventory_rarity_common"		"Umum"
+// items that take some effort to obtain.
+"[english]inventory_rarity_uncommon"		"Uncommon"
+"inventory_rarity_uncommon"		"Tidak Umum"
+// items that are in limited supply, like medals for winning a recurring automated competition.
+"[english]inventory_rarity_rare"		"Rare"
+"inventory_rarity_rare"		"Langka"
+// items that require doing something beyond just playing the game to obtain.
+"[english]inventory_rarity_legendary"		"Legendary"
+"inventory_rarity_legendary"		"Legendaris"
+// real-money donation receipt items from the store.
+"[english]inventory_rarity_genuine"		"Genuine"
+"inventory_rarity_genuine"		"Asli"
+// items that count stats.
+"[english]inventory_rarity_strange_rarity"		"Strange"
+"inventory_rarity_strange_rarity"		"Aneh"
+// where an item can be equipped.
+"[english]inventory_slot"		"Slot"
+"inventory_slot"		"Slot"
+"[english]inventory_slot_medal"		"Medal"
+"inventory_slot_medal"		"Medali"
+"[english]inventory_slot_suit"		"Suit"
+"inventory_slot_suit"		"Setelan"
+"[english]inventory_slot_weapon"		"Weapon"
+"inventory_slot_weapon"		"Senjata"
+"[english]inventory_slot_equipment"		"Equipment"
+"inventory_slot_equipment"		"Perlengkapan"
+// for equippable items that can only be used on one class.
+"[english]inventory_class_restriction"		"Class Restriction"
+"inventory_class_restriction"		"Batasan Kelas"
+"[english]inventory_class_restriction_officer"		"Officer"
+"inventory_class_restriction_officer"		"Perwira"
+"[english]inventory_class_restriction_specialweapons"		"Special Weapons"
+"inventory_class_restriction_specialweapons"		"Senjata Khusus"
+"[english]inventory_class_restriction_medic"		"Medic"
+"inventory_class_restriction_medic"		"Medic"
+"[english]inventory_class_restriction_tech"		"Tech"
+"inventory_class_restriction_tech"		"Teknisi"
+"[english]inventory_crafting_item"		"Crafting Item"
+"inventory_crafting_item"		"Barang Kerajinan"
+"[english]inventory_crafting_item_single_use_tool"		"Single-Use Tool"
+"inventory_crafting_item_single_use_tool"		"Alat Sekali Pakai"
+// common crafting materials. (100-1000 drop at a time)
+"[english]inventory_crafting_item_ultra_common"		"Bulk Material"
+"inventory_crafting_item_ultra_common"		"Material Massal"
+// common crafting materials. (1-3 drop at a time)
+"[english]inventory_crafting_item_common_part"		"Industrial Material"
+"inventory_crafting_item_common_part"		"Material Industri"
+// uncommon crafting materials.
+"[english]inventory_crafting_item_alien_part"		"Alien Material"
+"inventory_crafting_item_alien_part"		"Material Alien"
+// rare crafting materials.
+"[english]inventory_crafting_item_computer_part"		"Tech Material"
+"inventory_crafting_item_computer_part"		"Material Teknologi"
+// crafting items that can be found by playing some campaigns but not others.
+"[english]inventory_crafting_item_regional"		"Salvaged Material"
+"inventory_crafting_item_regional"		"Material Diselamatkan"
+// crafting items that were transformed from a variant the player found into one that is more usable (eg. sorting wires, turning scraps of material into a sheet)
+"[english]inventory_crafting_item_refined"		"Refined Material"
+"inventory_crafting_item_refined"		"Material Olahan"
+// displayed before the list of Strange item accessories, eg. Strange Devices: Missions, Aliens Killed
+"[english]inventory_strange"		"Strange Devices"
+"inventory_strange"		"Perangkat Aneh"
 }
 }
