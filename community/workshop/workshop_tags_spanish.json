@@ -2,7 +2,7 @@
 "language": "spanish",
 "category_0": "Contenidos",
 "tag_100994": "Campaña",
-"tag_103306": "Desafío",
+		"tag_103306": "Game Mode",
 "tag_104793": "Duelo a muerte",
 "tag_309434": "Adicionales",
 "tag_310235": "Sin fin",
@@ -11,6 +11,6 @@
 "category_1": "Género",
 "tag_114461": "Supervivencia",
 "tag_114787": "Entrenamiento",
-"category_2": "Concursos de mapping",
+		"category_2": "Creator Festival",
 "appid": 563560
 }

@@ -2,7 +2,7 @@
 "language": "tchinese",
 "category_0": "目錄",
 "tag_100994": "戰役",
-"tag_103306": "挑戰模式",
+		"tag_103306": "Game Mode",
 "tag_104793": "死鬥",
 "tag_309434": "獎勵任務",
 "tag_310235": "無限任務",
@@ -11,7 +11,6 @@
 "category_1": "類型",
 "tag_114461": "生存",
 "tag_114787": "訓練",
-"category_2": "地圖比賽",
+		"category_2": "Creator Festival",
 "appid": 563560
 }
-	
