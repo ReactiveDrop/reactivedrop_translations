@@ -1,7 +1,7 @@
 # Overview
 | Language | basemodui | closecaption | gameui | reactivedrop | items | statsweb | Strings | Files |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | ✔️ | 14 | 27 | ✔️ | 2 | ✔️ |
+| [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Traditional Chinese](#tchinese-繁體中文) | ✔️ | ✔️ | ✔️ | 112 | 27 | ✔️ | 2 | 125 |
 | [Czech](#czech-čeština) | ✔️ | ✔️ | ✔️ | 3782 | 313 | 231 | 974 | 146 |
 | [Danish](#non-curated-languages) | 57 | 231 | 43 | 3931 | 313 | 231 | 712 | 147 |
@@ -12,8 +12,8 @@
 | [Hungarian](#non-curated-languages) | 56 | 138 | 43 | 3400 | 313 | 231 | 977 | 147 |
 | [Indonesian](#indonesian-indonesia) | 575 | 2004 | 635 | 4366 | 27 | ✔️ | 842 | 139 |
 | [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | 4 | ✔️ | 2 | ✔️ |
-| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | ✔️ | 4 | ✔️ | 37 | ✔️ |
-| [Korean](#koreana-한국어) | ✔️ | ✔️ | ✔️ | ✔️ | 4 | ✔️ | 2 | ✔️ |
+| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 35 | ✔️ |
+| [Korean](#koreana-한국어) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Norwegian Bokmål](#non-curated-languages) | 74 | 708 | 48 | 4105 | 313 | 231 | 712 | 147 |
 | [Polish](#polish-polski) | 2 | 2004 | ✔️ | 3044 | 42 | 20 | 139 | 127 |
 | [European Portuguese](#portuguese-português-europeu) | 5 | 180 | 33 | 2490 | 293 | 52 | 638 | 142 |
@@ -22,7 +22,7 @@
 | [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | 14 | 26 | ✔️ | 2 | ✔️ |
 | [European Spanish](#spanish-español-de-españa) | ✔️ | 2004 | ✔️ | 2043 | 30 | 1 | 5 | 125 |
 | [Latin American Spanish](#latam-español-latinoamericano) | 1 | 2004 | ✔️ | 4451 | 61 | 24 | 209 | 143 |
-| [Swedish](#swedish-svenska) | ✔️ | ✔️ | ✔️ | 59 | 4 | ✔️ | 2 | 71 |
+| [Swedish](#swedish-svenska) | ✔️ | ✔️ | ✔️ | 59 | ✔️ | ✔️ | ✔️ | 71 |
 | [Thai](#non-curated-languages) | 971 | 1993 | 51 | 4647 | 313 | 231 | 741 | 147 |
 | [Turkish](#non-curated-languages) | 56 | 137 | 43 | 3400 | 313 | 231 | 977 | 147 |
 | [Ukrainian](#ukrainian-українська) | 32 | 131 | 33 | 2966 | 313 | 231 | 937 | 147 |
@@ -41,11 +41,7 @@
 
 </summary>
 
-### Strings
-
-- [items_schinese.vdf](community/inventory_service/items_schinese.vdf) has 27 untranslated strings.
-- [workshop_description_schinese.vdf](community/workshop/workshop_description_schinese.vdf) has 2 untranslated strings.
-- [reactivedrop_schinese.txt](resource/reactivedrop_schinese.txt) has 14 untranslated strings.
+✓ Up to date!
 
 </details>
 
@@ -712,8 +708,6 @@
 
 ### Strings
 
-- [items_japanese.vdf](community/inventory_service/items_japanese.vdf) has 4 untranslated strings.
-- [workshop_description_japanese.vdf](community/workshop/workshop_description_japanese.vdf) has 2 untranslated strings.
 - [platform/vgui_japanese.txt](platform/vgui_japanese.txt) has 35 untranslated strings.
 
 </details>
@@ -724,10 +718,7 @@
 
 </summary>
 
-### Strings
-
-- [items_koreana.vdf](community/inventory_service/items_koreana.vdf) has 4 untranslated strings.
-- [workshop_description_koreana.vdf](community/workshop/workshop_description_koreana.vdf) has 2 untranslated strings.
+✓ Up to date!
 
 </details>
 
@@ -1438,8 +1429,6 @@
 
 ### Strings
 
-- [items_swedish.vdf](community/inventory_service/items_swedish.vdf) has 4 untranslated strings.
-- [workshop_description_swedish.vdf](community/workshop/workshop_description_swedish.vdf) has 2 untranslated strings.
 - [reactivedrop_swedish.txt](resource/reactivedrop_swedish.txt) has 59 untranslated strings.
 
 ### Upcoming Release Notes
