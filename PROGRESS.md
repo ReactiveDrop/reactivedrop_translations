@@ -1,19 +1,19 @@
 # Overview
 | Language | basemodui | closecaption | gameui | reactivedrop | items | statsweb | Strings | Files |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | ✔️ | ✔️ | 2 | ✔️ | 2 | 1 |
+| [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Traditional Chinese](#tchinese-繁體中文) | ✔️ | ✔️ | ✔️ | 112 | 27 | ✔️ | 2 | 126 |
 | [Czech](#czech-čeština) | ✔️ | ✔️ | ✔️ | 3782 | 313 | 231 | 974 | 146 |
 | [Danish](#non-curated-languages) | 57 | 231 | 43 | 3931 | 313 | 231 | 712 | 147 |
 | [Dutch](#non-curated-languages) | 28 | 2004 | 43 | 3400 | 313 | 231 | 642 | 146 |
 | [Finnish](#non-curated-languages) | ✔️ | 2004 | 37 | 3241 | 240 | 171 | 634 | 145 |
 | [French](#french-français) | ✔️ | 67 | ✔️ | 2545 | 312 | ✔️ | 367 | 112 |
-| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | 4 | ✔️ | 2 | 1 |
+| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 1 |
 | [Hungarian](#non-curated-languages) | 56 | 138 | 43 | 3400 | 313 | 231 | 977 | 147 |
 | [Indonesian](#indonesian-indonesia) | 575 | 2004 | 635 | 4366 | 27 | ✔️ | 842 | 140 |
 | [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | 4 | ✔️ | 2 | 1 |
-| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | ✔️ | 2 | ✔️ | 37 | 1 |
-| [Korean](#koreana-한국어) | ✔️ | ✔️ | ✔️ | ✔️ | 2 | ✔️ | 2 | 1 |
+| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 35 | ✔️ |
+| [Korean](#koreana-한국어) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Norwegian Bokmål](#non-curated-languages) | 74 | 708 | 48 | 4105 | 313 | 231 | 712 | 147 |
 | [Polish](#polish-polski) | 2 | 2004 | ✔️ | 3044 | 42 | 20 | 139 | 128 |
 | [European Portuguese](#portuguese-português-europeu) | 5 | 180 | 33 | 2490 | 293 | 52 | 638 | 142 |
@@ -41,14 +41,7 @@
 
 </summary>
 
-### Strings
-
-- [items_schinese.vdf](community/inventory_service/items_schinese.vdf) has 2 untranslated strings.
-- [workshop_description_schinese.vdf](community/workshop/workshop_description_schinese.vdf) has 2 untranslated strings.
-
-### Steam Store and Community
-
-- [workshop_tags_schinese.json](community/workshop/workshop_tags_schinese.json) has 2 indented lines.
+✓ Up to date!
 
 </details>
 
@@ -527,14 +520,9 @@
 
 </summary>
 
-### Strings
-
-- [items_german.vdf](community/inventory_service/items_german.vdf) has 4 untranslated strings.
-- [workshop_description_german.vdf](community/workshop/workshop_description_german.vdf) has 2 untranslated strings.
-
 ### Steam Store and Community
 
-- [workshop_tags_german.json](community/workshop/workshop_tags_german.json) has 2 indented lines.
+- [workshop_tags_german.json](community/workshop/workshop_tags_german.json) has 1 indented lines.
 
 </details>
 
@@ -735,13 +723,7 @@
 
 ### Strings
 
-- [items_japanese.vdf](community/inventory_service/items_japanese.vdf) has 2 untranslated strings.
-- [workshop_description_japanese.vdf](community/workshop/workshop_description_japanese.vdf) has 2 untranslated strings.
 - [platform/vgui_japanese.txt](platform/vgui_japanese.txt) has 35 untranslated strings.
-
-### Steam Store and Community
-
-- [workshop_tags_japanese.json](community/workshop/workshop_tags_japanese.json) has 2 indented lines.
 
 </details>
 
@@ -751,14 +733,7 @@
 
 </summary>
 
-### Strings
-
-- [items_koreana.vdf](community/inventory_service/items_koreana.vdf) has 2 untranslated strings.
-- [workshop_description_koreana.vdf](community/workshop/workshop_description_koreana.vdf) has 2 untranslated strings.
-
-### Steam Store and Community
-
-- [workshop_tags_koreana.json](community/workshop/workshop_tags_koreana.json) has 2 indented lines.
+✓ Up to date!
 
 </details>
 
