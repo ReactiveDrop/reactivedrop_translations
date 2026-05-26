@@ -1,0 +1,19 @@
+GAME
+{
+// PDA belongs to Shaun Ming
+
+// Inbox
+
+"MailFrom1"	"Från: John Cain"
+"MailDate1"	"Datum: 12/20/52"
+"MailSubject1"	"Ämne: Leverans till Forskningsstation 7"
+"MailBody1A"	"Mr. Ming,"
+"MailBody1B"	"IA agent L. Callen har upptäckt vår leverans. Det ser också ut som att några av exemplaren är lösa. Jag ska ta hand om det, men hon kanske kommer och ställer några konkreta frågor till dig och din personal. Jag rekommenderar att ni utarbetar några bra svar i förväg. Få din historia rätt."
+"MailBody1C"	"Lt. Cain, SynTek Security"
+
+"MailFrom2"	"Från: Vän"
+"MailSubject2"	"Ämne: Re: Anställningsmöjlighet"
+"MailDate2"	"Datum: 12/18/53"
+"MailBody2A"	"Paradiset hittat!"
+"MailBody2B"	"Trött på vardagens slit? Trånga levnadsförhållanden, ingen mat, medicin eller ren luft att andas? Gå med i Colony Placement Program (CPP) för att hitta ett bättre liv bland stjärnorna! Medlemspartners inkluderar SynTek Megacorporation, United Industries och Frontier Pharmaceuticals. Garanterad placering, oavsett profil eller kreditvärdighet! Hitta ditt paradis idag! (TM)"
+}

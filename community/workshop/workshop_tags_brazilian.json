@@ -2,7 +2,7 @@
 "language": "brazilian",
 "category_0": "Conteúdo",
 "tag_100994": "Campanha",
-"tag_103306": "Desafio",
+		"tag_103306": "Game Mode",
 "tag_104793": "Mata-Mata",
 "tag_309434": "Bônus",
 "tag_310235": "Sem Fim",
@@ -11,6 +11,6 @@
 "category_1": "Gênero",
 "tag_114461": "Sobrevivência",
 "tag_114787": "Treinamento",
-"category_2": "Competição de Criação de Mapas",
+		"category_2": "Creator Festival",
 "appid": 563560
 }

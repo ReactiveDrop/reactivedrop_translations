@@ -37,17 +37,17 @@
 "inventory_rarity_legendary"		"Legendaris"
 // real-money donation receipt items from the store.
 "[english]inventory_rarity_genuine"		"Genuine"
-"inventory_rarity_genuine"		"Genuine"
+"inventory_rarity_genuine"		"Asli"
 // items that count stats.
 "[english]inventory_rarity_strange_rarity"		"Strange"
-"inventory_rarity_strange_rarity"		"Strange"
+"inventory_rarity_strange_rarity"		"Aneh"
 // where an item can be equipped.
 "[english]inventory_slot"		"Slot"
 "inventory_slot"		"Slot"
 "[english]inventory_slot_medal"		"Medal"
 "inventory_slot_medal"		"Medali"
 "[english]inventory_slot_suit"		"Suit"
-"inventory_slot_suit"		"Suit"
+"inventory_slot_suit"		"Setelan"
 "[english]inventory_slot_weapon"		"Weapon"
 "inventory_slot_weapon"		"Senjata"
 "[english]inventory_slot_equipment"		"Equipment"
@@ -87,6 +87,6 @@
 "inventory_crafting_item_refined"		"Material Olahan"
 // displayed before the list of Strange item accessories, eg. Strange Devices: Missions, Aliens Killed
 "[english]inventory_strange"		"Strange Devices"
-"inventory_strange"		"Strange Devices"
+"inventory_strange"		"Perangkat Aneh"
 }
 }

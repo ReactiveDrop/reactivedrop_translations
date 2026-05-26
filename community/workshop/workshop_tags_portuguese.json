@@ -2,7 +2,7 @@
 "language": "portuguese",
 "category_0": "Conteúdos",
 "tag_100994": "Campanha",
-"tag_103306": "Desafio",
+		"tag_103306": "Game Mode",
 "tag_104793": "Deathmatch",
 "tag_309434": "Bónus",
 "tag_310235": "Infinito",
@@ -11,6 +11,6 @@
 "category_1": "Categoria",
 "tag_114461": "Sobrevivência",
 "tag_114787": "Treino",
-"category_2": "Competições de Mapas",
+		"category_2": "Creator Festival",
 "appid": 563560
 }
