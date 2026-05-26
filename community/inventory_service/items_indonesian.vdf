@@ -499,10 +499,10 @@
 "item_strange_device_deployments_name"		"Penempatan"
 // minigun
 "[english]item_strange_device_time_spun_up_name"		"Time Spun Up"
-"item_strange_device_time_spun_up_name"		"Waktu Diputar"
+"item_strange_device_time_spun_up_name"		"Waktu Berputar"
 // marksman rifle
 "[english]item_strange_device_scoped_kills_name"		"Scoped Kills"
-"item_strange_device_scoped_kills_name"		"Pembunuhan Tembakan Jitu"
+"item_strange_device_scoped_kills_name"		"Pembunuhan dengan Bidikan Jitu"
 // killing an alien with a grenade while an ally is within the full range but not within the reduced range for friendly fire
 "[english]item_strange_device_explosive_rescues_name"		"Explosive Rescues"
 "item_strange_device_explosive_rescues_name"		"Penyelamatan Eksplosif"
