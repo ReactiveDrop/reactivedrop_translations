@@ -1,0 +1,18 @@
+"Credits"
+{
+// these keys must be in this order!
+"show_credits_logo"	"0"
+//"custom_logo"	"ExampleCustomLogo/example_custom_logo"
+"asw_credits_"	"Will 'Issus' Rogers"
+"asw_credits_"	""
+"asw_credits_"	"Kalau ada bug, email ke:"
+"asw_credits_"	"wnrvids@hotmail.co.uk"
+"asw_credits_"	"Tolong tulis RC7 di subjek"
+"asw_credits_"	""
+"asw_credits_"	"Terima kasih kepada Alan, Jamie, dan Matt"
+"asw_credits_"	"atas bantuan saat pengujian."
+"asw_credits_"	"Terima kasih kepada anggota forum Steam"
+"asw_credits_"	"atas bantuan dan dukungannya."
+"asw_credits_"	"Dan terima kasih kepada VALVe dan Black Cat"
+"asw_credits_"	"untuk Alien Swarm dan kehebatannya!"
+}

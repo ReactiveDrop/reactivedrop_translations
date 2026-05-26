@@ -1,0 +1,22 @@
+"Credits"
+{
+// these keys must be in this order!
+"show_credits_logo"	"0"
+//"custom_logo"	"ExampleCustomLogo/example_custom_logo"
+"asw_credits_"	""
+"asw_credits_"	""
+"asw_credits_"	"Misi 1, Bencana Stasiun Kereta Api, oleh jhheight"
+"asw_credits_"	""
+"asw_credits_"	"Misi 2, Rapture, oleh Sergei 'STALKER4732' Lavrinenco"
+"asw_credits_"	""
+"asw_credits_"	"Misi 3, Bunker, oleh uradzimiru"
+"asw_credits_"	""
+"asw_credits_"	"Misi 4, Praktek Offline, oleh Valve"
+"asw_credits_"	""
+"asw_credits_"	"Misi 5, Tempat Tak Bersahabat, oleh Eclipse"
+"asw_credits_"	""
+"asw_credits_"	"Misi 6, Tegangan Tinggi, oleh Eclipse"
+"asw_credits_"	""
+"asw_credits_"	"Misi 7, Pembangkit Listrik, oleh Arjen de Graaf"
+"asw_credits_"	""
+}
