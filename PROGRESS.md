@@ -9,6 +9,7 @@
 | [Finnish](#non-curated-languages) | ✔️ | 2004 | 37 | 3241 | 240 | 171 | 634 | 145 |
 | [French](#french-français) | ✔️ | 67 | ✔️ | 2545 | 312 | ✔️ | 367 | 112 |
 | [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 1 |
+| [Greek](#greek-ελληνικά) | 1328 | 2004 | 635 | 4910 | 316 | 236 | 982 | 147 |
 | [Hungarian](#non-curated-languages) | 56 | 138 | 43 | 3400 | 313 | 231 | 977 | 147 |
 | [Indonesian](#indonesian-indonesia) | 575 | 2004 | 635 | 4366 | 27 | ✔️ | 842 | 140 |
 | [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | 4 | ✔️ | 2 | 1 |
@@ -523,6 +524,192 @@
 ### Steam Store and Community
 
 - [workshop_tags_german.json](community/workshop/workshop_tags_german.json) has 1 indented lines.
+
+</details>
+
+<details><summary>
+
+## greek (Ελληνικά)
+
+</summary>
+
+### Strings
+
+- [addons/ExampleAddon/reactivedrop_greek.txt](addons/ExampleAddon/resource/reactivedrop_greek.txt) has 39 untranslated strings.
+- [addons/RiskOfRain/reactivedrop_greek.txt](addons/RiskOfRain/resource/reactivedrop_greek.txt) has 95 untranslated strings.
+- [inventory_service_tags_greek.vdf](community/inventory_service/inventory_service_tags_greek.vdf) has 27 untranslated strings.
+- [items_greek.vdf](community/inventory_service/items_greek.vdf) has 316 untranslated strings.
+- [statsweb_greek.vdf](community/stats_website/statsweb_greek.vdf) has 236 untranslated strings.
+- [steam_input_greek.vdf](community/steam_input/steam_input_greek.vdf) has 97 untranslated strings.
+- [workshop_description_greek.vdf](community/workshop/workshop_description_greek.vdf) has 10 untranslated strings.
+- [misc/signage/signage_greek.vdf](misc/signage/signage_greek.vdf) has 70 untranslated strings.
+- [platform/servers/serverbrowser_greek.txt](platform/servers/serverbrowser_greek.txt) has 186 untranslated strings.
+- [platform/vgui_greek.txt](platform/vgui_greek.txt) has 184 untranslated strings.
+- [basemodui_greek.txt](resource/basemodui_greek.txt) has 1328 untranslated strings.
+- [chat_greek.txt](resource/chat_greek.txt) has 8 untranslated strings.
+- [closecaption_greek.txt](resource/closecaption_greek.txt) has 2004 untranslated strings.
+- [gameui_greek.txt](resource/gameui_greek.txt) has 635 untranslated strings.
+- [reactivedrop_greek.txt](resource/reactivedrop_greek.txt) has 4910 untranslated strings.
+- [valve_greek.txt](resource/valve_greek.txt) has 266 untranslated strings.
+
+### Steam Store and Community
+
+- [eula_greek.txt](community/eula/eula_english.txt) is missing.
+- [app_items_563560_greek.json](community/points_shop/app_items_563560_english.json) is missing.
+- [workshop_tags_greek.json](community/workshop/workshop_tags_english.json) is missing.
+- [content_warning_563560_greek.txt](store_page/content_warning_563560_english.txt) is missing.
+- [storepage_81731_greek.json](store_page/storepage_81731_english.json) is missing.
+
+### Upcoming Release Notes
+
+- [20260420_greek.xml](release_notes/20260420_english.xml) is missing.
+
+### Credits
+
+- [addons/ExampleAddon/CustomCampaignCredits_greek.txt](addons/ExampleAddon/resource/CustomCampaignCredits_english.txt) is missing.
+- [asw_credits_greek.txt](credits/asw_credits_english.txt) is missing.
+- [biogen_corporation_credits_greek.txt](credits/biogen_corporation_credits_english.txt) is missing.
+- [credits_acc32_official_greek.txt](credits/credits_acc32_official_english.txt) is missing.
+- [credits_marine_academy_greek.txt](credits/credits_marine_academy_english.txt) is missing.
+- [credits_namhumanum_greek.txt](credits/credits_namhumanum_english.txt) is missing.
+- [deathmatch_credits_greek.txt](credits/deathmatch_credits_english.txt) is missing.
+- [rd-LanasEscapeCredits_greek.txt](credits/rd-LanasEscapeCredits_english.txt) is missing.
+- [rd-area9800Credits_greek.txt](credits/rd-area9800Credits_english.txt) is missing.
+- [rd-ocs-credits_greek.txt](credits/rd-ocs-credits_english.txt) is missing.
+- [rd-reduction_campaigncredits_greek.txt](credits/rd-reduction_campaigncredits_english.txt) is missing.
+- [rd-tarnor_credits_greek.txt](credits/rd-tarnor_credits_english.txt) is missing.
+- [rd_bonus_missions_credits_greek.txt](credits/rd_bonus_missions_credits_english.txt) is missing.
+- [rd_paranoia_credits_greek.txt](credits/rd_paranoia_credits_english.txt) is missing.
+- [rd_research7_credits_greek.txt](credits/rd_research7_credits_english.txt) is missing.
+- [tilarus5_credits_greek.txt](credits/tilarus5_credits_english.txt) is missing.
+
+### Mail and News
+
+- [mail/3rdmappdasmugler_greek.txt](resource/mail/3rdmappdasmugler_english.txt) is missing.
+- [mail/3rdmappdaworker_greek.txt](resource/mail/3rdmappdaworker_english.txt) is missing.
+- [mail/acc32_mail_findings_greek.txt](resource/mail/acc32_mail_findings_english.txt) is missing.
+- [mail/acc32_mail_investigations_greek.txt](resource/mail/acc32_mail_investigations_english.txt) is missing.
+- [mail/acc32_mail_localhouses_greek.txt](resource/mail/acc32_mail_localhouses_english.txt) is missing.
+- [mail/acc32_mail_miningops_greek.txt](resource/mail/acc32_mail_miningops_english.txt) is missing.
+- [mail/acc32_mail_news1_greek.txt](resource/mail/acc32_mail_news1_english.txt) is missing.
+- [mail/acc32_mail_news2_greek.txt](resource/mail/acc32_mail_news2_english.txt) is missing.
+- [mail/acc32_mail_random1_greek.txt](resource/mail/acc32_mail_random1_english.txt) is missing.
+- [mail/acc32_mail_random2_left_greek.txt](resource/mail/acc32_mail_random2_left_english.txt) is missing.
+- [mail/acc32_mail_random2_no_greek.txt](resource/mail/acc32_mail_random2_no_english.txt) is missing.
+- [mail/acc32_mail_random2_right_greek.txt](resource/mail/acc32_mail_random2_right_english.txt) is missing.
+- [mail/acc32_mail_research1_greek.txt](resource/mail/acc32_mail_research1_english.txt) is missing.
+- [mail/acc32_mail_research2_greek.txt](resource/mail/acc32_mail_research2_english.txt) is missing.
+- [mail/acc32_mail_secret2_greek.txt](resource/mail/acc32_mail_secret2_english.txt) is missing.
+- [mail/acc32_mail_solution_greek.txt](resource/mail/acc32_mail_solution_english.txt) is missing.
+- [mail/acc_info1_greek.txt](resource/mail/acc_info1_english.txt) is missing.
+- [mail/acc_info2_greek.txt](resource/mail/acc_info2_english.txt) is missing.
+- [mail/acc_power1_greek.txt](resource/mail/acc_power1_english.txt) is missing.
+- [mail/acc_power2_greek.txt](resource/mail/acc_power2_english.txt) is missing.
+- [mail/acc_power3_greek.txt](resource/mail/acc_power3_english.txt) is missing.
+- [mail/acc_research1_greek.txt](resource/mail/acc_research1_english.txt) is missing.
+- [mail/acc_research2_greek.txt](resource/mail/acc_research2_english.txt) is missing.
+- [mail/acc_research3_greek.txt](resource/mail/acc_research3_english.txt) is missing.
+- [mail/biogen_mail_windows_greek.txt](resource/mail/biogen_mail_windows_english.txt) is missing.
+- [mail/labsmail1_greek.txt](resource/mail/labsmail1_english.txt) is missing.
+- [mail/labsmail2_greek.txt](resource/mail/labsmail2_english.txt) is missing.
+- [mail/labsmail3_greek.txt](resource/mail/labsmail3_english.txt) is missing.
+- [mail/labsmail4_greek.txt](resource/mail/labsmail4_english.txt) is missing.
+- [mail/landingbaymail1_greek.txt](resource/mail/landingbaymail1_english.txt) is missing.
+- [mail/landingbaymail2_greek.txt](resource/mail/landingbaymail2_english.txt) is missing.
+- [mail/landingbaymail3_greek.txt](resource/mail/landingbaymail3_english.txt) is missing.
+- [mail/ma_pda1_greek.txt](resource/mail/ma_pda1_english.txt) is missing.
+- [mail/ma_pda2_greek.txt](resource/mail/ma_pda2_english.txt) is missing.
+- [mail/minemails1_greek.txt](resource/mail/minemails1_english.txt) is missing.
+- [mail/minemails2_greek.txt](resource/mail/minemails2_english.txt) is missing.
+- [mail/minemails3_greek.txt](resource/mail/minemails3_english.txt) is missing.
+- [mail/nh_officemail1_jacquesmoreau_greek.txt](resource/mail/nh_officemail1_jacquesmoreau_english.txt) is missing.
+- [mail/nh_officemail2_jacquesmoreau_greek.txt](resource/mail/nh_officemail2_jacquesmoreau_english.txt) is missing.
+- [mail/nh_officemail_lindasilva_greek.txt](resource/mail/nh_officemail_lindasilva_english.txt) is missing.
+- [mail/nh_officemail_vladislavlazarev_greek.txt](resource/mail/nh_officemail_vladislavlazarev_english.txt) is missing.
+- [mail/nh_officemail_wistonbeaufort_greek.txt](resource/mail/nh_officemail_wistonbeaufort_english.txt) is missing.
+- [mail/nh_pda1_gaelflorenza_greek.txt](resource/mail/nh_pda1_gaelflorenza_english.txt) is missing.
+- [mail/nh_pda2_gaelflorenza_greek.txt](resource/mail/nh_pda2_gaelflorenza_english.txt) is missing.
+- [mail/nh_pda3_gaelflorenza_greek.txt](resource/mail/nh_pda3_gaelflorenza_english.txt) is missing.
+- [mail/nh_pda4_gaelflorenza_greek.txt](resource/mail/nh_pda4_gaelflorenza_english.txt) is missing.
+- [mail/nh_pda5_gaelflorenza_greek.txt](resource/mail/nh_pda5_gaelflorenza_english.txt) is missing.
+- [mail/nh_pda6_gaelflorenza_greek.txt](resource/mail/nh_pda6_gaelflorenza_english.txt) is missing.
+- [mail/nh_pda_francesiriac_greek.txt](resource/mail/nh_pda_francesiriac_english.txt) is missing.
+- [mail/nh_pda_jacquesmoreau_greek.txt](resource/mail/nh_pda_jacquesmoreau_english.txt) is missing.
+- [mail/nh_pda_jonathandorland_greek.txt](resource/mail/nh_pda_jonathandorland_english.txt) is missing.
+- [mail/nh_pda_lindasilva_greek.txt](resource/mail/nh_pda_lindasilva_english.txt) is missing.
+- [mail/nh_pda_sarahweiss_greek.txt](resource/mail/nh_pda_sarahweiss_english.txt) is missing.
+- [mail/nh_pda_thibautholbert_greek.txt](resource/mail/nh_pda_thibautholbert_english.txt) is missing.
+- [mail/nh_pda_tomasselin_greek.txt](resource/mail/nh_pda_tomasselin_english.txt) is missing.
+- [mail/nh_pda_yannmontgomery_greek.txt](resource/mail/nh_pda_yannmontgomery_english.txt) is missing.
+- [mail/nukeangermail_greek.txt](resource/mail/nukeangermail_english.txt) is missing.
+- [mail/officemail1_greek.txt](resource/mail/officemail1_english.txt) is missing.
+- [mail/officemail2_greek.txt](resource/mail/officemail2_english.txt) is missing.
+- [mail/officemail3_greek.txt](resource/mail/officemail3_english.txt) is missing.
+- [mail/officemail4_greek.txt](resource/mail/officemail4_english.txt) is missing.
+- [mail/outsidemail1_greek.txt](resource/mail/outsidemail1_english.txt) is missing.
+- [mail/outsidemail2_greek.txt](resource/mail/outsidemail2_english.txt) is missing.
+- [mail/outsidemail3_greek.txt](resource/mail/outsidemail3_english.txt) is missing.
+- [mail/plantmail1_greek.txt](resource/mail/plantmail1_english.txt) is missing.
+- [mail/plantmail2_greek.txt](resource/mail/plantmail2_english.txt) is missing.
+- [mail/plantmail3_greek.txt](resource/mail/plantmail3_english.txt) is missing.
+- [mail/queenlairmail1_greek.txt](resource/mail/queenlairmail1_english.txt) is missing.
+- [mail/queenlairmail2_greek.txt](resource/mail/queenlairmail2_english.txt) is missing.
+- [mail/rd-benson_greek.txt](resource/mail/rd-benson_english.txt) is missing.
+- [mail/rd-cave_geologist1_greek.txt](resource/mail/rd-cave_geologist1_english.txt) is missing.
+- [mail/rd-lan-pda1_greek.txt](resource/mail/rd-lan-pda1_english.txt) is missing.
+- [mail/rd-lan-pda2_greek.txt](resource/mail/rd-lan-pda2_english.txt) is missing.
+- [mail/rd-lan-pda3_greek.txt](resource/mail/rd-lan-pda3_english.txt) is missing.
+- [mail/rd-lan-pda4_greek.txt](resource/mail/rd-lan-pda4_english.txt) is missing.
+- [mail/rd-lan-pda5_greek.txt](resource/mail/rd-lan-pda5_english.txt) is missing.
+- [mail/rd-lan-pda6_greek.txt](resource/mail/rd-lan-pda6_english.txt) is missing.
+- [mail/rd-smithson_greek.txt](resource/mail/rd-smithson_english.txt) is missing.
+- [mail/rd-spaceport_security_greek.txt](resource/mail/rd-spaceport_security_english.txt) is missing.
+- [mail/rd_res_houghton1_greek.txt](resource/mail/rd_res_houghton1_english.txt) is missing.
+- [mail/rd_res_houghton2_greek.txt](resource/mail/rd_res_houghton2_english.txt) is missing.
+- [mail/rd_res_houghton3_greek.txt](resource/mail/rd_res_houghton3_english.txt) is missing.
+- [mail/rd_res_houghton4_greek.txt](resource/mail/rd_res_houghton4_english.txt) is missing.
+- [mail/rd_res_houghton5_greek.txt](resource/mail/rd_res_houghton5_english.txt) is missing.
+- [mail/rd_res_houghton6_greek.txt](resource/mail/rd_res_houghton6_english.txt) is missing.
+- [mail/rd_res_rctinbound1_greek.txt](resource/mail/rd_res_rctinbound1_english.txt) is missing.
+- [mail/rd_res_rctinbound2_greek.txt](resource/mail/rd_res_rctinbound2_english.txt) is missing.
+- [mail/rd_subject58_greek.txt](resource/mail/rd_subject58_english.txt) is missing.
+- [mail/sewersmail1_greek.txt](resource/mail/sewersmail1_english.txt) is missing.
+- [mail/sewersmail2_greek.txt](resource/mail/sewersmail2_english.txt) is missing.
+- [mail/sewersmail3_greek.txt](resource/mail/sewersmail3_english.txt) is missing.
+- [mail/tilarus01port_MainStory1_greek.txt](resource/mail/tilarus01port_MainStory1_english.txt) is missing.
+- [mail/tilarus01port_MainStory2_greek.txt](resource/mail/tilarus01port_MainStory2_english.txt) is missing.
+- [mail/tilarus01port_MainStory3_greek.txt](resource/mail/tilarus01port_MainStory3_english.txt) is missing.
+- [mail/tilarus01port_PublicMessage1_greek.txt](resource/mail/tilarus01port_PublicMessage1_english.txt) is missing.
+- [mail/tilarus01port_PublicMessage2_greek.txt](resource/mail/tilarus01port_PublicMessage2_english.txt) is missing.
+- [mail/tilarus01port_SideStory1_greek.txt](resource/mail/tilarus01port_SideStory1_english.txt) is missing.
+- [mail/tilarus01port_SideStory2_greek.txt](resource/mail/tilarus01port_SideStory2_english.txt) is missing.
+- [mail/tilarus01port_SideStory3_greek.txt](resource/mail/tilarus01port_SideStory3_english.txt) is missing.
+- [mail/tilarus01port_craigsthingpda_greek.txt](resource/mail/tilarus01port_craigsthingpda_english.txt) is missing.
+- [mail/tilarus03arctic_mail1_greek.txt](resource/mail/tilarus03arctic_mail1_english.txt) is missing.
+- [mail/tilarus03arctic_mail2_greek.txt](resource/mail/tilarus03arctic_mail2_english.txt) is missing.
+- [mail/tilarus03arctic_mail3_greek.txt](resource/mail/tilarus03arctic_mail3_english.txt) is missing.
+- [mail/tilarus03arctic_mail4_greek.txt](resource/mail/tilarus03arctic_mail4_english.txt) is missing.
+- [mail/tilarus09hospital_pda1_greek.txt](resource/mail/tilarus09hospital_pda1_english.txt) is missing.
+- [mail/tilarus09hospital_pda2_greek.txt](resource/mail/tilarus09hospital_pda2_english.txt) is missing.
+- [mail/tilarus09hospital_pda3_greek.txt](resource/mail/tilarus09hospital_pda3_english.txt) is missing.
+- [mail/tilarus09hospital_pda4_greek.txt](resource/mail/tilarus09hospital_pda4_english.txt) is missing.
+- [mail/tilarus09hospital_pda5_greek.txt](resource/mail/tilarus09hospital_pda5_english.txt) is missing.
+- [mail/tutorialmail1_greek.txt](resource/mail/tutorialmail1_english.txt) is missing.
+- [mail/tutorialmail2_greek.txt](resource/mail/tutorialmail2_english.txt) is missing.
+- [mail/tutorialmail3_greek.txt](resource/mail/tutorialmail3_english.txt) is missing.
+- [news/antheonmissingnews_greek.txt](resource/news/antheonmissingnews_english.txt) is missing.
+- [news/antheonmoonnews_greek.txt](resource/news/antheonmoonnews_english.txt) is missing.
+- [news/brainnews_greek.txt](resource/news/brainnews_english.txt) is missing.
+- [news/convoynews_greek.txt](resource/news/convoynews_english.txt) is missing.
+- [news/droidlawsnews_greek.txt](resource/news/droidlawsnews_english.txt) is missing.
+- [news/expansionnews_greek.txt](resource/news/expansionnews_english.txt) is missing.
+- [news/experiornews_greek.txt](resource/news/experiornews_english.txt) is missing.
+- [news/newcolonynews_greek.txt](resource/news/newcolonynews_english.txt) is missing.
+- [news/nh_news_announcement_greek.txt](resource/news/nh_news_announcement_english.txt) is missing.
+- [news/nh_news_prospectus_greek.txt](resource/news/nh_news_prospectus_english.txt) is missing.
+- [news/rd-newfacilities_greek.txt](resource/news/rd-newfacilities_english.txt) is missing.
+- [news/rd-spaceport_news1_greek.txt](resource/news/rd-spaceport_news1_english.txt) is missing.
+- [news/refugeenews_greek.txt](resource/news/refugeenews_english.txt) is missing.
 
 </details>
 
@@ -1848,7 +2035,6 @@ These languages have not been substantially updated since the start of the React
 - danish (dansk)
 - dutch (Nederlands)
 - finnish (suomi)
-- greek (Ελληνικά)
 - hungarian (magyar)
 - norwegian (norsk bokmål)
 - romanian (română)
