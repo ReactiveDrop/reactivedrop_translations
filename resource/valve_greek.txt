@@ -4,7 +4,7 @@
 "Tokens"
 {
 "[english]Valve_Listen_MapName"		"Map"
-"Valve_Listen_MapName"		"Χάρτης"
+"Valve_Listen_MapName"		"Πίστα"//map=χάρτης however in greek argot nobody says that. It's even confusing when ppl translate it to χάρτης. Instead we say πίστα=dance floor!
 "[english]Valve_Movement_Title"		"MOVEMENT"
 "Valve_Movement_Title"		"ΚΙΝΗΣΗ"
 "[english]Valve_Move_Forward"		"Move forward"
@@ -40,9 +40,9 @@
 "[english]Valve_Keyboard_Look_Modifier"		"Keyboard look modifier"
 "Valve_Keyboard_Look_Modifier"		"Τροποποιητής Ματιάς Πληκτρολογίου"
 "[english]Valve_Use_Items"		"Use item (buttons, machines, ...)"
-"Valve_Use_Items"		"Χρησιμοποίηση αντικειμένων (Πλήκτρα, Μηχανές, ...)"
+"Valve_Use_Items"		"Χρήση αντικειμένων (Πλήκτρα, Μηχανές, ...)"
 "[english]Valve_Pickup_Use_Objects"		"Pickup/Use objects"
-"Valve_Pickup_Use_Objects"		"Σήκωμα/Χρησιμοποίηση Αντικειμένων"
+"Valve_Pickup_Use_Objects"		"Σήκωμα/Χρήση Αντικειμένων"
 "[english]Valve_Communication_Title"		"COMMUNICATION"
 "Valve_Communication_Title"		"ΕΠΙΚΟΙΝΩΝΙΑ"
 "[english]Valve_Use_Voice_Communication"		"Push to Talk"
@@ -102,9 +102,9 @@
 "[english]Valve_Display_Scores"		"Display multiplayer scores"
 "Valve_Display_Scores"		"Εμφάνιση βαθμολογίας Multiplayer"
 "[english]Valve_Take_Screen_Shot"		"Take screen shot"
-"Valve_Take_Screen_Shot"		"Λήψη φωτογραφίας"
+"Valve_Take_Screen_Shot"		"Λήψη screenshot" //valid in greek argot
 "[english]Valve_Quick_Save"		"Quick save"
-"Valve_Quick_Save"		"Γρηγορη αποθήκευση"
+"Valve_Quick_Save"		"Γρήγορη αποθήκευση"
 "[english]Valve_Quick_Load"		"Quick load"
 "Valve_Quick_Load"		"Γρήγορη φόρτωση"
 "[english]Valve_Pause_Game"		"Pause game"
@@ -124,11 +124,11 @@
 "[english]Valve_Multiplayer_Decal_Limit"		"Multiplayer decal limit"
 "Valve_Multiplayer_Decal_Limit"		"Multiplayer-Decal-Limit"
 "[english]Valve_Valid_Teams"		"Valid teams, leave blank for all"
-"Valve_Valid_Teams"		"Έγκυεςς ομάδες, αφήστε κενό για όλα"
+"Valve_Valid_Teams"		"Έγκυρες ομάδες, αφήστε κενό για όλα"
 "[english]Valve_Frag_Limit"		"Frag Limit"
 "Valve_Frag_Limit"		"Όριο σκοτωμών"
 "[english]Valve_Time_Limit"		"Time Limit (Min.)"
-"Valve_Time_Limit"		"Όριο σκοτωμών (Ελ.)"
+"Valve_Time_Limit"		"Όριο Χρόνου (Ελ.)"
 "[english]Valve_Falling_Damage"		"Falling Damage"
 "Valve_Falling_Damage"		"Ζημιά από πτώση"
 "[english]Valve_Normal"		"Normal"
@@ -165,7 +165,7 @@
 "Spec_No_PIP"		"\nΦωτογραφία-Σε-φωτογραφία μη διαθέσιμη\nΛειτουργία Πρώτου-Προσώπου καθώς παίζετε.\n"
 
 "[english]Spec_Replay"		"Instant Replay"
-"Spec_Replay"		"Άμεσο Replay"
+"Spec_Replay"		"Άμεση Επαναπροβολή"
 "[english]Spec_Auto"		"Auto"
 "Spec_Auto"		"Αυτόματα"
 "[english]Spec_Time"		"Time"
@@ -287,7 +287,7 @@
 "[english]Valve_Show_Scores"		"Show Scores"
 "Valve_Show_Scores"		"Εμφάνιση Πόντων"
 "[english]Valve_Game_Saved"		"Game Saved"
-"Valve_Game_Saved"		"Το παιχνίδι Αποθηκεύτηκε"
+"Valve_Game_Saved"		"Το Παιχνίδι Αποθηκεύτηκε"
 
 "[english]Valve_Orange"		"Orange"
 "Valve_Orange"		"Πορτοκαλί"
@@ -576,6 +576,6 @@
 "[english]Valve_Reject_CD_Key_In_Use"		"CD Key already in use."
 "Valve_Reject_CD_Key_In_Use"		"CD Κλείδι ήδη σε χρήση."
 "[english]Valve_Reject_Banned_From_Server"		"You have been banned from this server."
-"Valve_Reject_Banned_From_Server"		"Έχετε αποκλειστεί από τον διακομιστή."
+"Valve_Reject_Banned_From_Server"		"Έχετε αποκλειστεί από το διακομιστή."
 }
 }
