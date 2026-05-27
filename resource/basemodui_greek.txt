@@ -1197,7 +1197,7 @@
 "[english]L4D360UI_VideoOptions_Paged_Pool_Mem"		"Paged Pool Memory Available"
 "L4D360UI_VideoOptions_Paged_Pool_Mem"		"Paged Pool Memory Available"
 "[english]L4D360UI_VideoOptions_Paged_Pool_Mem_Info"		"Available CPU memory may be affected by other programs, such as anti-virus programs running in the background."
-"L4D360UI_VideoOptions_Paged_Pool_Mem_Info"		"Available CPU memory may be affected by other programs, such as anti-virus programs running in the background." //!!!!
+"L4D360UI_VideoOptions_Paged_Pool_Mem_Info"		"Available CPU memory may be affected by other programs, such as anti-virus programs running in the background."
 "[english]L4D360UI_VideoOptions_Paged_Pool_Mem_Tooltip"		"Adjust to compensate for amount of paged pool memory available. "
 "L4D360UI_VideoOptions_Paged_Pool_Mem_Tooltip"		"Προσαρμόστε για την επανόρθωση της πσότητας της Paged pool memory που είναι διαθέσιμη. "
 "[english]L4D360UI_VideoOptions_SplitScreenDirection"		"SPLITSCREEN DIRECTION"
@@ -1205,7 +1205,7 @@
 "[english]L4D360UI_VideoOptions_Tooltip_SplitScreenDirection"		"Change between horizontally or vertically-aligned splitscreen."
 "L4D360UI_VideoOptions_Tooltip_SplitScreenDirection"		"Εναλλάξτε μεταξύ οριζόντιου και κατακόρυφου προσανατολισμού του splitscreen"
 "[english]L4D360UI_VideoOptions_Tooltip_Resolution"		"Set the width-by-height pixel resolution."
-"L4D360UI_VideoOptions_Tooltip_Resolution"		"Ορίστε τη πλάτος-προς-μήκος ανάλυση"//in greek we use lenght-width as a pair for 2D
+"L4D360UI_VideoOptions_Tooltip_Resolution"		"Ορίστε τη πλάτος-προς-μήκος ανάλυση"
 "[english]L4D360UI_AdjustGamma_Disabled"		"Brightness can only be adjusted in fullscreen video mode."
 "L4D360UI_AdjustGamma_Disabled"		"Η φωτεινότητα μπορει μόνο να προσαρμοστεί σε λειτουργία πλήρης οθόνης."
 "[english]L4D360UI_UseRecommended"		"Use Recommended Settings"
@@ -1213,7 +1213,7 @@
 "[english]L4D360UI_UseRecommended_Tooltip"		"Revert all video settings to what is recommended for your hardware."
 "L4D360UI_UseRecommended_Tooltip"		"Ανάθεση όλων των ρυθμίσεων βίντεο σε αυτές που προτείνονται για τον υλισμικό σας"
 "[english]L4D360UI_SplitScreenDirection_Default"		"Default"
-"L4D360UI_SplitScreenDirection_Default"		"Προεπιλεγμένη"//If its referring to direction
+"L4D360UI_SplitScreenDirection_Default"		"Προεπιλεγμένη"
 "[english]L4D360UI_SplitScreenDirection_Horizontal"		"Horizontal"
 "L4D360UI_SplitScreenDirection_Horizontal"		"Οριζόντια"
 "[english]L4D360UI_SplitScreenDirection_Vertical"		"Vertical"
