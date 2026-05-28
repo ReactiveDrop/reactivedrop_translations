@@ -5376,13 +5376,13 @@
 "[english]rd_so_author_helvetica_scenario"		"Annotation from Dr. Helvetica Scenario (OCM)"
 "rd_so_author_helvetica_scenario"		"헬베티카 시나리오 박사의 주석 (OCM)"
 "[english]rd_so_author_isaac_kleiner"		"A Black Mesa informational bulletin from the desk of Isaac Kleiner"
-"rd_so_author_isaac_kleiner"		"블랙 메사 정보 게시판 - 아이작 클라이너의 책상에서"
+"rd_so_author_isaac_kleiner"		"블랙 메사 정보 게시판 - 아이작 클라이너의 기록에서"
 // Interstellar Armed Forces
 "[english]rd_so_author_julie_duval"		"From the journal of Prof. Julie Duval (IAF)"
-"rd_so_author_julie_duval"		"줄리 듀발 교수의 저널에서 발췌 (IAF)"
+"rd_so_author_julie_duval"		"줄리 뒤발 교수의 저널에서 발췌 (IAF)"
 // Office of Consensus Maintenance
 "[english]rd_so_author_julie_duval_ocm"		"Annotation from Prof. Julie Duval (OCM)"
-"rd_so_author_julie_duval_ocm"		"줄리 듀발 교수의 주석 (OCM)"
+"rd_so_author_julie_duval_ocm"		"줄리 뒤발 교수의 주석 (OCM)"
 "[english]rd_so_author_shaun_ming"		"From the journal of Shaun Ming (SynTek)"
 "rd_so_author_shaun_ming"		"숀 밍의 저널에서 발췌 (신텍)"
 
@@ -5570,7 +5570,7 @@
 "rd_so_paragraph_grub_0"		"52년 12월 31일, 03:24\n좋아. 일이 좀 틀어졌어. 토치가 안 보여서, 가압 윤활제 캔이랑 헬렌의 비밀 라이터로 대충 때웠지. 뭐, 누가 들어올 때마다 서랍에 숨기는 시점에서 이미 비밀도 아니지만. 아무튼 구조체 상대로는 효과가 확실하더라. 왜 이 시설에서 화기 사용을 금지하는지 이제야 알겠어. 복도 전체가 순식간에 불길에 휩싸였거든. 윤활제가 불꽃에 닿자마자 화염구가 터졌고, 그건 절대 멈춰야 할 곳에서 멈추질 않았어. 바이오매스는 사라졌지만, 내 머리카락이랑 옷도 대부분 같이 날아갔지. 결국 산소 혼합비에 대한 내 예상은 맞았던 셈이야. 또다시 내 천재성이 저주처럼 미래를 내다보게 만들었군. 피할 수 없는 결과를 막을 능력은 없으면서 말이야. 난 세상이 이해하지 못하는 비극적인 천재라고."
 // EVA (Extra Vehicular Activity) is the gear you'd use outside of a space station/ship or anywhere in space there isn't breathable atmosphere. Space suit, spare oxygen, etc.
 "[english]rd_so_paragraph_grub_1"		"12/31/52, 03:30\nSo. Status report. The fireball consumed a lot of breathable air, and the oxygen scrubbers aren't working for some reason. There's some smaller blazes that the fire suppression system isn't dealing with, so that's worrying. The atmosphere is rapidly becoming unbreathable. There should be emergency EVA equipment nearby. The question is whether I can get there before I pass out. Wish me luck. If I don't make it, I will assume it was the universe choosing to punish me one last time because I dared to dream big. Nothing between me and sweet, sweet oxygen but these slimy little larvae."
-"rd_so_paragraph_grub_1"		"52년 12월 31일, 03:30\n52년 12월 31일, 03:24\n좋아. 상황 보고다. 방금 그 화염구 때문에 호흡 가능한 공기가 엄청 날아갔고, 산소 정화기도 무슨 이유인지 작동을 안 하고 있어. 게다가 화재 진압 시스템이 처리 못 하는 작은 불길들도 여기저기 남아 있어서 꽤 불안한 상황이야. 공기가 순식간에 숨도 못 쉴 수준으로 변하고 있어. 근처에 비상용 우주복이 있어야 하는데...문제는 내가 정신 잃기 전에 거기까지 도착할 수 있느냐겠지. 행운을 빌어줘. 만약 내가 살아남지 못한다면, 우주가 마지막으로 한 번 더 날 벌주기로 결정한 거라고 생각할 거야. 큰 꿈을 꾸는 걸 감히 시도했다는 이유로 말이지. 나와 달콤한 산소 사이를 가로막고 있는 건, 이 끈적거리는 애벌레 새끼들뿐이다."
+"rd_so_paragraph_grub_1"		"52년 12월 31일, 03:30\n지금 상황을 말하자면, 방금 그 화염구 때문에 호흡 가능한 공기가 엄청 날아갔고, 산소 정화기도 무슨 이유인지 작동을 안 하고 있어. 게다가 화재 진압 시스템이 처리 못 하는 작은 불길들도 여기저기 남아 있어서 꽤 불안한 상황이야. 공기가 순식간에 숨도 못 쉴 수준으로 변하고 있어. 근처에 비상용 우주복이 있어야 하는데...문제는 내가 정신 잃기 전에 거기까지 도착할 수 있느냐겠지. 행운을 빌어줘. 만약 내가 살아남지 못한다면, 우주가 마지막으로 한 번 더 날 벌주기로 결정한 거라고 생각할 거야. 큰 꿈을 꾸는 걸 감히 시도했다는 이유로 말이지. 나와 달콤한 산소 사이를 가로막고 있는 건, 이 끈적거리는 애벌레 새끼들뿐이다."
 // "acoustic foam" is the stuff you hang on the walls to soundproof a room.
 "[english]rd_so_paragraph_grub_2"		"06/20/53, 16:00\nOfficially taking over document review from Dr. Scenario. The medical staff and I were getting concerned for her well-being. I could hear her screaming through the walls. We had to call for a structural evaluation of the doc review room. I'll attach the full report - Architectural Verification DR-HS-9371 - but the short version is that it came back clear. The steel walls are still the full three inches thick and the acoustic foam is in perfect working order."
 "rd_so_paragraph_grub_2"		"53년 06월 20일, 16:00\n시나리오 박사로부터 공식적으로 문서 검토 업무를 인계받았다. 의료진과 나는 그녀의 정신 상태를 걱정하기 시작한 상태였다. 벽 너머로 비명을 지르는 소리가 들릴 정도였으니까. 결국 문서 검토실 구조 안정성 검사까지 요청해야 했다. 전체 보고서 - 건축 검증 DR-HS-9371 - 를 첨부해두겠지만, 짧게 요약하면 이상 없음 판정이다. 강철 벽은 여전히 정확히 3인치 두께를 유지하고 있고, 방음용 흡음재 역시 완벽하게 작동 중이다."
@@ -10800,7 +10800,7 @@
 "[english]challenge_traitors_role_article_boomer"		"a"
 "challenge_traitors_role_article_boomer"		"a"
 "[english]challenge_traitors_role_name_boomer"		"Suicide Boomer"
-"challenge_traitors_role_name_boomer"		"자살 폭탄"
+"challenge_traitors_role_name_boomer"		"자폭 인간"
 "[english]challenge_traitors_role_chat_role_description_boomer"		"You can perform a suicide attack. Detonates an area bomb (with or without alarm) after several seconds delay. Type \"/\" in chat to ACTIVATE the bomb."
 "challenge_traitors_role_chat_role_description_boomer"		"자폭 공격을 수행할 수 있습니다. 몇 초 지연 후(경보 유무와 관계없이)범위 폭탄을 폭발시킵니다.. \"/\" 를 입력하여 자폭하십시오."
 "[english]challenge_traitors_role_chat_skill_description_boomer"		""
@@ -10845,7 +10845,7 @@
 "asw_ob_office_rev1b"		"리드버그 반응로를 향해 이동하십시오."
 
 "[english]rd_crafting_research_julie_title"		"Julie Duval's Project"
-"rd_crafting_research_julie_title"		"줄리 듀발 교수의 프로젝트"
+"rd_crafting_research_julie_title"		"줄리 뒤발 교수의 프로젝트"
 "[english]rd_crafting_research_julie_preparing"		"Julie is preparing her next project..."
 "rd_crafting_research_julie_preparing"		"줄리가 다음 프로젝트를 준비 중입니다..."
 "[english]rd_crafting_research_julie_working"		"Julie is finishing up the project..."
