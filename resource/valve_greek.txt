@@ -4,7 +4,7 @@
 "Tokens"
 {
 "[english]Valve_Listen_MapName"		"Map"
-"Valve_Listen_MapName"		"Πίστα"//map=χάρτης however in greek argot nobody says that. It's even confusing when ppl translate it to χάρτης. Instead we say πίστα=dance floor!
+"Valve_Listen_MapName"		"Πίστα"
 "[english]Valve_Movement_Title"		"MOVEMENT"
 "Valve_Movement_Title"		"ΚΙΝΗΣΗ"
 "[english]Valve_Move_Forward"		"Move forward"
@@ -102,7 +102,7 @@
 "[english]Valve_Display_Scores"		"Display multiplayer scores"
 "Valve_Display_Scores"		"Εμφάνιση βαθμολογίας Multiplayer"
 "[english]Valve_Take_Screen_Shot"		"Take screen shot"
-"Valve_Take_Screen_Shot"		"Λήψη screenshot" //valid in greek argot
+"Valve_Take_Screen_Shot"		"Λήψη screenshot"
 "[english]Valve_Quick_Save"		"Quick save"
 "Valve_Quick_Save"		"Γρήγορη αποθήκευση"
 "[english]Valve_Quick_Load"		"Quick load"
