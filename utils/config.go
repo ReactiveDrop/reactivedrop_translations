@@ -43,7 +43,6 @@ var derivedLanguages = [...]string{
 var emptyLanguages = map[string]bool{
 	"arabic":    true,
 	"bulgarian": true,
-	"greek":     true,
 }
 
 var reportedLanguages = map[string]bool{
@@ -57,7 +56,7 @@ var reportedLanguages = map[string]bool{
 	"finnish":    false,
 	"french":     true,
 	"german":     true,
-	"greek":      false,
+	"greek":      true,
 	"hungarian":  false,
 	"indonesian": true,
 	"italian":    true,
