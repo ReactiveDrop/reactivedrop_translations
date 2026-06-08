@@ -9,7 +9,7 @@
 | [Finnish](#non-curated-languages) | ✔️ | 2004 | 37 | 3241 | 240 | 171 | 634 | 145 |
 | [French](#french-français) | ✔️ | 67 | ✔️ | 2545 | 312 | ✔️ | 367 | 112 |
 | [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 1 |
-| [Greek](#greek-ελληνικά) | 1 | 2004 | 38 | 4910 | 316 | 236 | 716 | 147 |
+| [Greek](#greek-ελληνικά) | 1 | 2004 | 38 | 4910 | 316 | 236 | 708 | 147 |
 | [Hungarian](#non-curated-languages) | 56 | 138 | 43 | 3400 | 313 | 231 | 977 | 147 |
 | [Indonesian](#indonesian-indonesia) | 575 | 2004 | 635 | 4366 | 27 | ✔️ | 842 | 140 |
 | [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | 4 | ✔️ | 2 | 1 |
@@ -546,7 +546,6 @@
 - [platform/servers/serverbrowser_greek.txt](platform/servers/serverbrowser_greek.txt) has 186 untranslated strings.
 - [platform/vgui_greek.txt](platform/vgui_greek.txt) has 184 untranslated strings.
 - [basemodui_greek.txt](resource/basemodui_greek.txt) has 1 untranslated strings.
-- [chat_greek.txt](resource/chat_greek.txt) has 8 untranslated strings.
 - [closecaption_greek.txt](resource/closecaption_greek.txt) has 2004 untranslated strings.
 - [gameui_greek.txt](resource/gameui_greek.txt) has 38 untranslated strings.
 - [reactivedrop_greek.txt](resource/reactivedrop_greek.txt) has 4910 untranslated strings.
