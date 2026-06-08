@@ -1,0 +1,19 @@
+{
+"language": "greek",
+"itemid": "81731",
+"app[content][short_description]": "Συνεργατικό από-πάνω βολών παιχνίδι, που είναι δωρεάν διαθέσιμο. Ένα επικό κηνύγι εντόμων που αναδεικνύει μία μοναδική μίξη co-op παιξίματος και ομαδο-επιπεδικές τακτικές.",
+"app[content][about]": "Το Alien Swarm: Reactive Drop εμπλουτίζει το Alien Swarm, φέρνοντας παραπάνω από τα πάντα: πίστες, εξωγήινους, λειτουργίες παιχνιδιού, όπλα... Και παραπάνω απ' όλα υποστήριξη του Εργαστηρίου Steam.\n\n[list]\n[*]Στρατηγικό co-op μέχρι 8 παίκτες με προοπτική εκ-των άνω προς τα κάτω \n[*]Υποστήριξη Εργαστηρίου Steam για πίστες και προκλήσεις της Κοινότητας\n[*]Νέες συνεργατικές εκστρατείες\n[*]Προκλήσεις: Διαμορφώσεις του παιχνιδιού, σαν τις Μεταλλάξεις στο Left 4 Dead 2\n[*]PvP: Deathmatch, Gun Game, Instagib, και Team Deathmatch\n[*]Singleplayer: Παίξτε με βελτιωμένα bots σε όλες τις επίσημες πίστες μας\n[*]Νέοι εξωγήινοι: HL2 antlion guards και παραπάνω\n[*]Νέα όπλα: Bulldog, Devastator, και Combat Rifle, με παραπάνω να προστεθούν\n[*]Πάνω από 100 Επιτεύγματα Steam\n[*]Κατατάξεις: ανταγωνιστείτε τους φίλους σας για τη γρηγορότερη ολοκλήρωση των αποστολών\n[*]Βελτιωμένη Παρακολούθηση: δείτε hacking minigames και κινήσεις ποντικιών σε πραγματικό χρόνο\n[\/list]",
+"app[content][legal]": "© 2017 Ομάδα Reactive Drop \nAlien Swarm: Reactive Drop είναι η συνέχεια του Alien Swarm (2010) της Valve από οπαδούς. Η ομάδα Reactive Drop αποτελείται από εθελοντές και δεν σχετίζεται με τη Valve. Είμαστε απλά μεγάλοι φανς.\n© 2010 Valve Corporation. Με την επιφύλαξη παντός δικαιώματος. Η Valve, το Alien Swarm, το λογότυπο Alien Swarm, το Source και το λογότυπο Source είναι εμπορικά σήματα ή/και καταχωρημένα εμπορικά σήματα της Valve Corporation στις Ηνωμένες Πολιτείες, και άλλες χώρες.",
+"app[content][sysreqs][windows][min][osversion]": "Windows® XP ή παραπάνω",
+"app[content][sysreqs][windows][min][processor]": "Pentium 4 ή νεότερη",
+"app[content][sysreqs][windows][min][graphics]": "Κάρτα Γραφικών συμβατή με DirectX 9 με 128 MB, Shader model 2.0b. ATI X800, NVidia 6600 ή καλύτερη",
+"app[content][sysreqs][windows][min][soundcard]": "Κάρτα ήχου συμβατή με DirectX 9.0c",
+"app[content][sysreqs][windows][min][notes]": "Η απαιτήσεις του αποθηκευτικού χώρου του Δίσκου αναλογεί στα εγκατεστημένα addon από το Εργαστήρι Steam.",
+"app[game][3panticheat][othernameloc]": "VAC (Valve Anti-Cheat); επιπρόσθετο custom από-μεριάς διακομιστή anti-cheat σε αποκλειστικούς διακομιστές",
+"app[item_store][filters][0][localization]": "Στάμπες Πιστών",
+"app[item_store][filters][1][localization]": "Δωρεές",
+"app[item_store][filters][2][localization]": "Καλλιτέχνες",
+"app[item_store][filters][3][localization]": "Προγραμματιστές",
+"app[item_store][filters][4][localization]": "Οικοδεσπότες Διακομιστών",
+"app[item_store][filters][5][localization]": "Μεταφραστές"
+}
