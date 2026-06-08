@@ -8,10 +8,10 @@
 | [Dutch](#non-curated-languages) | 28 | 2004 | 43 | 3400 | 313 | 231 | 642 | 146 |
 | [Finnish](#non-curated-languages) | ✔️ | 2004 | 37 | 3241 | 240 | 171 | 634 | 145 |
 | [French](#french-français) | ✔️ | 67 | ✔️ | 2545 | 312 | ✔️ | 367 | 112 |
-| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 1 |
+| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Greek](#greek-ελληνικά) | 1 | 2004 | 38 | 4910 | 316 | 236 | 524 | 142 |
 | [Hungarian](#non-curated-languages) | 56 | 138 | 43 | 3400 | 313 | 231 | 977 | 147 |
-| [Indonesian](#indonesian-indonesia) | 575 | 2004 | 635 | 4366 | 27 | ✔️ | 842 | 140 |
+| [Indonesian](#indonesian-indonesia) | 575 | 2004 | 635 | 4366 | 1 | ✔️ | 840 | 124 |
 | [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | 4 | ✔️ | 2 | 1 |
 | [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 35 | ✔️ |
 | [Korean](#koreana-한국어) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
@@ -20,10 +20,10 @@
 | [European Portuguese](#portuguese-português-europeu) | 5 | 180 | 33 | 2490 | 293 | 52 | 638 | 142 |
 | [Brazilian Portuguese](#brazilian-português) | 1 | ✔️ | ✔️ | 1015 | 55 | 23 | 6 | 3 |
 | [Romanian](#non-curated-languages) | 56 | 1996 | 49 | 4111 | 313 | 231 | 969 | 147 |
-| [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | 14 | 26 | ✔️ | 2 | 1 |
+| [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [European Spanish](#spanish-español-de-españa) | ✔️ | 2004 | ✔️ | 2043 | 30 | 1 | 5 | 126 |
 | [Latin American Spanish](#latam-español-latinoamericano) | 1 | 2004 | ✔️ | 4451 | 61 | 24 | 209 | 144 |
-| [Swedish](#swedish-svenska) | ✔️ | ✔️ | ✔️ | 59 | 2 | ✔️ | 2 | 72 |
+| [Swedish](#swedish-svenska) | ✔️ | ✔️ | ✔️ | 47 | ✔️ | ✔️ | ✔️ | 71 |
 | [Thai](#non-curated-languages) | 971 | 1993 | 51 | 4647 | 313 | 231 | 741 | 147 |
 | [Turkish](#non-curated-languages) | 56 | 137 | 43 | 3400 | 313 | 231 | 977 | 147 |
 | [Ukrainian](#ukrainian-українська) | 32 | 131 | 33 | 2966 | 313 | 231 | 937 | 147 |
@@ -521,9 +521,7 @@
 
 </summary>
 
-### Steam Store and Community
-
-- [workshop_tags_german.json](community/workshop/workshop_tags_german.json) has 1 indented lines.
+✓ Up to date!
 
 </details>
 
@@ -712,8 +710,7 @@
 
 - [addons/ExampleAddon/reactivedrop_indonesian.txt](addons/ExampleAddon/resource/reactivedrop_indonesian.txt) has 39 untranslated strings.
 - [addons/RiskOfRain/reactivedrop_indonesian.txt](addons/RiskOfRain/resource/reactivedrop_indonesian.txt) has 95 untranslated strings.
-- [items_indonesian.vdf](community/inventory_service/items_indonesian.vdf) has 27 untranslated strings.
-- [workshop_description_indonesian.vdf](community/workshop/workshop_description_indonesian.vdf) has 2 untranslated strings.
+- [items_indonesian.vdf](community/inventory_service/items_indonesian.vdf) has 1 untranslated strings.
 - [misc/signage/signage_indonesian.vdf](misc/signage/signage_indonesian.vdf) has 70 untranslated strings.
 - [platform/servers/serverbrowser_indonesian.txt](platform/servers/serverbrowser_indonesian.txt) has 186 untranslated strings.
 - [platform/vgui_indonesian.txt](platform/vgui_indonesian.txt) has 184 untranslated strings.
@@ -723,28 +720,9 @@
 - [reactivedrop_indonesian.txt](resource/reactivedrop_indonesian.txt) has 4366 untranslated strings.
 - [valve_indonesian.txt](resource/valve_indonesian.txt) has 266 untranslated strings.
 
-### Steam Store and Community
-
-- [workshop_tags_indonesian.json](community/workshop/workshop_tags_indonesian.json) has 2 indented lines.
-
 ### Credits
 
 - [addons/ExampleAddon/CustomCampaignCredits_indonesian.txt](addons/ExampleAddon/resource/CustomCampaignCredits_english.txt) is missing.
-- [asw_credits_indonesian.txt](credits/asw_credits_english.txt) is missing.
-- [biogen_corporation_credits_indonesian.txt](credits/biogen_corporation_credits_english.txt) is missing.
-- [credits_acc32_official_indonesian.txt](credits/credits_acc32_official_english.txt) is missing.
-- [credits_marine_academy_indonesian.txt](credits/credits_marine_academy_english.txt) is missing.
-- [credits_namhumanum_indonesian.txt](credits/credits_namhumanum_english.txt) is missing.
-- [deathmatch_credits_indonesian.txt](credits/deathmatch_credits_english.txt) is missing.
-- [rd-LanasEscapeCredits_indonesian.txt](credits/rd-LanasEscapeCredits_english.txt) is missing.
-- [rd-area9800Credits_indonesian.txt](credits/rd-area9800Credits_english.txt) is missing.
-- [rd-ocs-credits_indonesian.txt](credits/rd-ocs-credits_english.txt) is missing.
-- [rd-reduction_campaigncredits_indonesian.txt](credits/rd-reduction_campaigncredits_english.txt) is missing.
-- [rd-tarnor_credits_indonesian.txt](credits/rd-tarnor_credits_english.txt) is missing.
-- [rd_bonus_missions_credits_indonesian.txt](credits/rd_bonus_missions_credits_english.txt) is missing.
-- [rd_paranoia_credits_indonesian.txt](credits/rd_paranoia_credits_english.txt) is missing.
-- [rd_research7_credits_indonesian.txt](credits/rd_research7_credits_english.txt) is missing.
-- [tilarus5_credits_indonesian.txt](credits/tilarus5_credits_english.txt) is missing.
 
 ### Mail and News
 
@@ -1281,15 +1259,7 @@
 
 </summary>
 
-### Strings
-
-- [items_russian.vdf](community/inventory_service/items_russian.vdf) has 26 untranslated strings.
-- [workshop_description_russian.vdf](community/workshop/workshop_description_russian.vdf) has 2 untranslated strings.
-- [reactivedrop_russian.txt](resource/reactivedrop_russian.txt) has 14 untranslated strings.
-
-### Steam Store and Community
-
-- [workshop_tags_russian.json](community/workshop/workshop_tags_russian.json) has 2 indented lines.
+✓ Up to date!
 
 </details>
 
@@ -1630,13 +1600,7 @@
 
 ### Strings
 
-- [items_swedish.vdf](community/inventory_service/items_swedish.vdf) has 2 untranslated strings.
-- [workshop_description_swedish.vdf](community/workshop/workshop_description_swedish.vdf) has 2 untranslated strings.
-- [reactivedrop_swedish.txt](resource/reactivedrop_swedish.txt) has 59 untranslated strings.
-
-### Steam Store and Community
-
-- [workshop_tags_swedish.json](community/workshop/workshop_tags_swedish.json) has 2 indented lines.
+- [reactivedrop_swedish.txt](resource/reactivedrop_swedish.txt) has 47 untranslated strings.
 
 ### Upcoming Release Notes
 

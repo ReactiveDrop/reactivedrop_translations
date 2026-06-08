@@ -1751,7 +1751,7 @@ g_localizations <- {
 		challenge_traitors_vgui_menu_infector_4 = "초.",
 		challenge_traitors_vgui_menu_infector_5 = "이미 스킬을 사용했습니다. (파랑: UDP 패킷 손실)",
 		challenge_traitors_role_article_boomer = "a",
-		challenge_traitors_role_name_boomer = "자살 폭탄",
+		challenge_traitors_role_name_boomer = "자폭 인간",
 		challenge_traitors_role_chat_role_description_boomer = "자폭 공격을 수행할 수 있습니다. 몇 초 지연 후(경보 유무와 관계없이)범위 폭탄을 폭발시킵니다.. \"/\" 를 입력하여 자폭하십시오.",
 		challenge_traitors_role_chat_skill_description_boomer = "",
 		challenge_traitors_role_hud_role_description_boomer = "\"/\" 를 입력하여 자폭하십시오.",
