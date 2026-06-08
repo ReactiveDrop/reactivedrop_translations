@@ -9,7 +9,7 @@
 | [Finnish](#non-curated-languages) | ✔️ | 2004 | 37 | 3241 | 240 | 171 | 634 | 145 |
 | [French](#french-français) | ✔️ | 67 | ✔️ | 2545 | 312 | ✔️ | 367 | 112 |
 | [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 1 |
-| [Greek](#greek-ελληνικά) | 1 | 2004 | 38 | 4910 | 316 | 236 | 524 | 147 |
+| [Greek](#greek-ελληνικά) | 1 | 2004 | 38 | 4910 | 316 | 236 | 524 | 142 |
 | [Hungarian](#non-curated-languages) | 56 | 138 | 43 | 3400 | 313 | 231 | 977 | 147 |
 | [Indonesian](#indonesian-indonesia) | 575 | 2004 | 635 | 4366 | 27 | ✔️ | 842 | 140 |
 | [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | 4 | ✔️ | 2 | 1 |
@@ -548,14 +548,6 @@
 - [closecaption_greek.txt](resource/closecaption_greek.txt) has 2004 untranslated strings.
 - [gameui_greek.txt](resource/gameui_greek.txt) has 38 untranslated strings.
 - [reactivedrop_greek.txt](resource/reactivedrop_greek.txt) has 4910 untranslated strings.
-
-### Steam Store and Community
-
-- [eula_greek.txt](community/eula/eula_english.txt) is missing.
-- [app_items_563560_greek.json](community/points_shop/app_items_563560_english.json) is missing.
-- [workshop_tags_greek.json](community/workshop/workshop_tags_english.json) is missing.
-- [content_warning_563560_greek.txt](store_page/content_warning_563560_english.txt) is missing.
-- [storepage_81731_greek.json](store_page/storepage_81731_english.json) is missing.
 
 ### Upcoming Release Notes
 
