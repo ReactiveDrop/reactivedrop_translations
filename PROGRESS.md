@@ -12,7 +12,7 @@
 | [Greek](#greek-ελληνικά) | 1 | 2004 | 38 | 4910 | 316 | 236 | 524 | 142 |
 | [Hungarian](#non-curated-languages) | 56 | 138 | 43 | 3400 | 313 | 231 | 977 | 147 |
 | [Indonesian](#indonesian-indonesia) | 575 | 2004 | 635 | 4366 | 1 | ✔️ | 840 | 124 |
-| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | 4 | ✔️ | 2 | 1 |
+| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 35 | ✔️ |
 | [Korean](#koreana-한국어) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Norwegian Bokmål](#non-curated-languages) | 74 | 708 | 48 | 4105 | 313 | 231 | 712 | 147 |
@@ -858,14 +858,7 @@
 
 </summary>
 
-### Strings
-
-- [items_italian.vdf](community/inventory_service/items_italian.vdf) has 4 untranslated strings.
-- [workshop_description_italian.vdf](community/workshop/workshop_description_italian.vdf) has 2 untranslated strings.
-
-### Steam Store and Community
-
-- [workshop_tags_italian.json](community/workshop/workshop_tags_italian.json) has 2 indented lines.
+✓ Up to date!
 
 </details>
 
