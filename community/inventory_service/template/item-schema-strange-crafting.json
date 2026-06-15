@@ -370,6 +370,7 @@
 			"display_type_%LANG%": "{#inventory_crafting_item_refined}",
 			"icon_url": "https://stats.reactivedrop.com/static/items/4031.png",
 			"auto_stack": true,
+			"exchange": "4009x300",
 			"tags": "rarity:common;crafting_item:refined",
 			"compressed_dynamic_props": "m_unQuantity"
 		},
@@ -382,6 +383,7 @@
 			"display_type_%LANG%": "{#inventory_crafting_item_refined}",
 			"icon_url": "https://stats.reactivedrop.com/static/items/4032.png",
 			"auto_stack": true,
+			"exchange": "4010x2500",
 			"tags": "rarity:common;crafting_item:refined",
 			"compressed_dynamic_props": "m_unQuantity"
 		},
