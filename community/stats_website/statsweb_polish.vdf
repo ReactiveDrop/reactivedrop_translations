@@ -516,12 +516,12 @@
 		// this pun probably doesn't work in other languages; sorry!
 		"[english]rd_crafting_research_project_beta_wires_title"		"Loose & Found Wires"
 		"rd_crafting_research_project_beta_wires_title"		"Loose & Found Wires"
-"[english]rd_crafting_research_project_beta_wires_flavor"		""
-"rd_crafting_research_project_beta_wires_flavor"		""
+		"[english]rd_crafting_research_project_beta_wires_flavor"		"Tired of rummaging through a bird's nest of wires? There's got to be a better way!"
+		"rd_crafting_research_project_beta_wires_flavor"		"Tired of rummaging through a bird's nest of wires? There's got to be a better way!"
 		"[english]rd_crafting_research_project_beta_carbon_title"		"Much Ado About Carbon"
 		"rd_crafting_research_project_beta_carbon_title"		"Much Ado About Carbon"
-"[english]rd_crafting_research_project_beta_carbon_flavor"		""
-"rd_crafting_research_project_beta_carbon_flavor"		""
+		"[english]rd_crafting_research_project_beta_carbon_flavor"		"The 4th most abundant element in the universe surely has its uses!"
+		"rd_crafting_research_project_beta_carbon_flavor"		"The 4th most abundant element in the universe surely has its uses!"
 
 "[english]rd_crafting_research_project_strange_weapon_rifle_title"		""
 "rd_crafting_research_project_strange_weapon_rifle_title"		""
@@ -705,8 +705,8 @@
 "[english]rd_crafting_research_project_strange_weapon_medrifle_flavor"		""
 "rd_crafting_research_project_strange_weapon_medrifle_flavor"		""
 
-"[english]rd_crafting_research_project_strange_device_missions_title"		""
-"rd_crafting_research_project_strange_device_missions_title"		""
+		"[english]rd_crafting_research_project_strange_device_missions_title"		"The Chronicles of... You!"
+		"rd_crafting_research_project_strange_device_missions_title"		"The Chronicles of... You!"
 "[english]rd_crafting_research_project_strange_device_missions_flavor"		""
 "rd_crafting_research_project_strange_device_missions_flavor"		""
 "[english]rd_crafting_research_project_strange_device_aliens_killed_title"		""
