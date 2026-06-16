@@ -502,9 +502,9 @@
 "[english]rd_event_news_anniversary_7th"		"7th Anniversary! New UI redesign!"
 "rd_event_news_anniversary_7th"		"7주년 기념! 신규 UI!"
 "[english]rd_event_news_anniversary_8th"		"Celebrating 8 years of Alien Swarm: Reactive Drop!"
-"rd_event_news_anniversary_8th"		"Alien Swarm: Reactive Drop 출시 8주년을 기념합니다!"
-		"[english]rd_event_news_anniversary_10th"		"Celebrating a decade of Alien Swarm: Reactive Drop!"
-		"rd_event_news_anniversary_10th"		"Celebrating a decade of Alien Swarm: Reactive Drop!"
+"rd_event_news_anniversary_8th"		"에일리언 스웜: 리액티브 드롭 8주년 기념!"
+"[english]rd_event_news_anniversary_10th"		"Celebrating a decade of Alien Swarm: Reactive Drop!"
+"rd_event_news_anniversary_10th"		"에일리언 스웜: 리액티브 드롭 10주년 기념!"
 "[english]rd_event_news_ranked_missions_added"		"New and old favorite missions added to HoIAF!"
 "rd_event_news_ranked_missions_added"		"HoIAF에 새 임무와 인기 많은 구 임무가 추가되었습니다!"
 "[english]rd_event_news_ranked_missions_endless"		"HoIAF adds Endless Missions!"
@@ -512,13 +512,13 @@
 "[english]rd_event_steam_pvp_fest_2026"		"Steam PvP Fest 2026!"
 "rd_event_steam_pvp_fest_2026"		"스팀 PvP 축제 2026!"
 
-		// this pun probably doesn't work in other languages; sorry!
-		"[english]rd_crafting_research_project_beta_wires_title"		"Loose & Found Wires"
-		"rd_crafting_research_project_beta_wires_title"		"Loose & Found Wires"
+// this pun probably doesn't work in other languages; sorry!
+"[english]rd_crafting_research_project_beta_wires_title"		"Loose & Found Wires"
+"rd_crafting_research_project_beta_wires_title"		"전선 회수"
 "[english]rd_crafting_research_project_beta_wires_flavor"		""
 "rd_crafting_research_project_beta_wires_flavor"		""
-		"[english]rd_crafting_research_project_beta_carbon_title"		"Much Ado About Carbon"
-		"rd_crafting_research_project_beta_carbon_title"		"Much Ado About Carbon"
+"[english]rd_crafting_research_project_beta_carbon_title"		"Much Ado About Carbon"
+"rd_crafting_research_project_beta_carbon_title"		"탄소 분석 작업"
 "[english]rd_crafting_research_project_beta_carbon_flavor"		""
 "rd_crafting_research_project_beta_carbon_flavor"		""
 
@@ -634,11 +634,11 @@
 "rd_crafting_research_project_strange_weapon_minigun_title"		""
 "[english]rd_crafting_research_project_strange_weapon_minigun_flavor"		""
 "rd_crafting_research_project_strange_weapon_minigun_flavor"		""
-		"[english]rd_crafting_research_project_strange_weapon_flashlight_title"		"Everybody has a Tactical Flashlight"
-		"rd_crafting_research_project_strange_weapon_flashlight_title"		"Everybody has a Tactical Flashlight"
-		// direct quote from https://www.youtube.com/watch?v=urMHvdLz0Jg&t=246s
-		"[english]rd_crafting_research_project_strange_weapon_flashlight_flavor"		"Stop right this instant! What do you think you're doing?! You can't say everyone's got a tactical flashlight when everyone does NOT have a tactical flashlight! We're going to get nasty letters saying, \"Where's MY tactical flashlight?\" \"Why don't I have a tactical flashlight?\" And are you prepared to deal with that? I don't think so."
-		"rd_crafting_research_project_strange_weapon_flashlight_flavor"		"Stop right this instant! What do you think you're doing?! You can't say everyone's got a tactical flashlight when everyone does NOT have a tactical flashlight! We're going to get nasty letters saying, \"Where's MY tactical flashlight?\" \"Why don't I have a tactical flashlight?\" And are you prepared to deal with that? I don't think so."
+"[english]rd_crafting_research_project_strange_weapon_flashlight_title"		"Everybody has a Tactical Flashlight"
+"rd_crafting_research_project_strange_weapon_flashlight_title"		"모두가 전술 손전등을 가지고 있다"
+// direct quote from https://www.youtube.com/watch?v=urMHvdLz0Jg&t=246s
+"[english]rd_crafting_research_project_strange_weapon_flashlight_flavor"		"Stop right this instant! What do you think you're doing?! You can't say everyone's got a tactical flashlight when everyone does NOT have a tactical flashlight! We're going to get nasty letters saying, \"Where's MY tactical flashlight?\" \"Why don't I have a tactical flashlight?\" And are you prepared to deal with that? I don't think so."
+"rd_crafting_research_project_strange_weapon_flashlight_flavor"		"잠깐만, 거기서 멈춰! 지금 뭐 하는 거야?! 모두가 전술 손전등을 가지고 있다 같은 말은 함부로 하면 안 된다고! 실제로 다들 가지고 있지도 않잖아! 그런 말 했다가 항의 편지나 잔뜩 받는 거라고 \"내 전술 손전등은 어디 있죠?\" \"왜 저는 없는데요?\" 이런 질문들이 쏟아질 텐데, 그거 감당할 준비는 돼 있어? 난 아니라고 보는데."
 "[english]rd_crafting_research_project_strange_weapon_sniper_rifle_title"		""
 "rd_crafting_research_project_strange_weapon_sniper_rifle_title"		""
 "[english]rd_crafting_research_project_strange_weapon_sniper_rifle_flavor"		""
