@@ -23,7 +23,7 @@
 | [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | 21 | ✔️ | 9 | ✔️ | ✔️ |
 | [European Spanish](#spanish-español-de-españa) | ✔️ | 2004 | ✔️ | 2063 | 30 | 10 | 5 | 126 |
 | [Latin American Spanish](#latam-español-latinoamericano) | 1 | 2004 | ✔️ | 4470 | 61 | 33 | 209 | 144 |
-| [Swedish](#swedish-svenska) | ✔️ | ✔️ | ✔️ | 68 | ✔️ | 9 | ✔️ | 71 |
+| [Swedish](#swedish-svenska) | ✔️ | ✔️ | ✔️ | 51 | ✔️ | 2 | ✔️ | 71 |
 | [Thai](#non-curated-languages) | 971 | 1993 | 51 | 4666 | 313 | 240 | 741 | 147 |
 | [Turkish](#non-curated-languages) | 56 | 137 | 43 | 3419 | 313 | 240 | 977 | 147 |
 | [Ukrainian](#ukrainian-українська) | 32 | 131 | 33 | 2985 | 313 | 240 | 937 | 147 |
@@ -1613,8 +1613,8 @@
 
 ### Strings
 
-- [statsweb_swedish.vdf](community/stats_website/statsweb_swedish.vdf) has 9 untranslated strings.
-- [reactivedrop_swedish.txt](resource/reactivedrop_swedish.txt) has 68 untranslated strings.
+- [statsweb_swedish.vdf](community/stats_website/statsweb_swedish.vdf) has 2 untranslated strings.
+- [reactivedrop_swedish.txt](resource/reactivedrop_swedish.txt) has 51 untranslated strings.
 
 ### Upcoming Release Notes
 
