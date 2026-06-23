@@ -503,8 +503,8 @@
 "rd_event_news_anniversary_7th"		"7. Jahrestag! Neues UI-Design!"
 "[english]rd_event_news_anniversary_8th"		"Celebrating 8 years of Alien Swarm: Reactive Drop!"
 "rd_event_news_anniversary_8th"		"Wir feiern 8 Jahre Alien Swarm: Reactive Drop!"
-		"[english]rd_event_news_anniversary_10th"		"Celebrating a decade of Alien Swarm: Reactive Drop!"
-		"rd_event_news_anniversary_10th"		"Celebrating a decade of Alien Swarm: Reactive Drop!"
+"[english]rd_event_news_anniversary_10th"		"Celebrating a decade of Alien Swarm: Reactive Drop!"
+"rd_event_news_anniversary_10th"		"Wir feiern das zehnjährige Jubiläum von Alien Swarm: Reactive Drop!"
 "[english]rd_event_news_ranked_missions_added"		"New and old favorite missions added to HoIAF!"
 "rd_event_news_ranked_missions_added"		"Neue und alte Lieblingseinsätze der HoIAF hinzugefügt!"
 "[english]rd_event_news_ranked_missions_endless"		"HoIAF adds Endless Missions!"
@@ -512,13 +512,13 @@
 "[english]rd_event_steam_pvp_fest_2026"		"Steam PvP Fest 2026!"
 "rd_event_steam_pvp_fest_2026"		"Steam PvP Fest 2026!"
 
-		// this pun probably doesn't work in other languages; sorry!
-		"[english]rd_crafting_research_project_beta_wires_title"		"Loose and Found Wires"
-		"rd_crafting_research_project_beta_wires_title"		"Loose and Found Wires"
-		"[english]rd_crafting_research_project_beta_wires_flavor"		"Tired of rummaging through a bird's nest of wires? There's got to be a better way!"
-		"rd_crafting_research_project_beta_wires_flavor"		"Tired of rummaging through a bird's nest of wires? There's got to be a better way!"
-		"[english]rd_crafting_research_project_beta_carbon_title"		"Much Ado About Carbon"
-		"rd_crafting_research_project_beta_carbon_title"		"Much Ado About Carbon"
+// this pun probably doesn't work in other languages; sorry!
+"[english]rd_crafting_research_project_beta_wires_title"		"Loose and Found Wires"
+"rd_crafting_research_project_beta_wires_title"		"Lose und gefundene Kabel"
+"[english]rd_crafting_research_project_beta_wires_flavor"		"Tired of rummaging through a bird's nest of wires? There's got to be a better way!"
+"rd_crafting_research_project_beta_wires_flavor"		"Hast du es satt, dich durch ein Wirrwarr aus Kabeln zu wühlen? Es muss doch einen besseren Weg geben!"
+"[english]rd_crafting_research_project_beta_carbon_title"		"Much Ado About Carbon"
+"rd_crafting_research_project_beta_carbon_title"		"Viel Lärm um Kohlenstoff"
 		"[english]rd_crafting_research_project_beta_carbon_flavor"		"The 4th most abundant element in the universe surely has its uses!"
 		"rd_crafting_research_project_beta_carbon_flavor"		"The 4th most abundant element in the universe surely has its uses!"
 
@@ -634,11 +634,11 @@
 "rd_crafting_research_project_strange_weapon_minigun_title"		""
 "[english]rd_crafting_research_project_strange_weapon_minigun_flavor"		""
 "rd_crafting_research_project_strange_weapon_minigun_flavor"		""
-		"[english]rd_crafting_research_project_strange_weapon_flashlight_title"		"Everybody has a Tactical Flashlight"
-		"rd_crafting_research_project_strange_weapon_flashlight_title"		"Everybody has a Tactical Flashlight"
-		// direct quote from https://www.youtube.com/watch?v=urMHvdLz0Jg&t=246s
-		"[english]rd_crafting_research_project_strange_weapon_flashlight_flavor"		"Stop right this instant! What do you think you're doing?! You can't say everyone's got a tactical flashlight when everyone does NOT have a tactical flashlight! We're going to get nasty letters saying, \"Where's MY tactical flashlight?\" \"Why don't I have a tactical flashlight?\" And are you prepared to deal with that? I don't think so."
-		"rd_crafting_research_project_strange_weapon_flashlight_flavor"		"Stop right this instant! What do you think you're doing?! You can't say everyone's got a tactical flashlight when everyone does NOT have a tactical flashlight! We're going to get nasty letters saying, \"Where's MY tactical flashlight?\" \"Why don't I have a tactical flashlight?\" And are you prepared to deal with that? I don't think so."
+"[english]rd_crafting_research_project_strange_weapon_flashlight_title"		"Everybody has a Tactical Flashlight"
+"rd_crafting_research_project_strange_weapon_flashlight_title"		"Jeder hat ein taktisches Licht"
+// direct quote from https://www.youtube.com/watch?v=urMHvdLz0Jg&t=246s
+"[english]rd_crafting_research_project_strange_weapon_flashlight_flavor"		"Stop right this instant! What do you think you're doing?! You can't say everyone's got a tactical flashlight when everyone does NOT have a tactical flashlight! We're going to get nasty letters saying, \"Where's MY tactical flashlight?\" \"Why don't I have a tactical flashlight?\" And are you prepared to deal with that? I don't think so."
+"rd_crafting_research_project_strange_weapon_flashlight_flavor"		"Hör sofort auf! Was glaubst du eigentlich, was du da tust?! Du kannst nicht behaupten, jeder hätte eine taktische Taschenlampe, wenn doch NICHT jeder eine taktische Taschenlampe hat! Wir werden böse Briefe bekommen, in denen steht: \"Wo ist MEINE taktische Taschenlampe?\" \"Warum habe ich keine taktische Taschenlampe?\" Und bist du bereit, damit umzugehen? Ich glaube nicht."
 "[english]rd_crafting_research_project_strange_weapon_sniper_rifle_title"		""
 "rd_crafting_research_project_strange_weapon_sniper_rifle_title"		""
 "[english]rd_crafting_research_project_strange_weapon_sniper_rifle_flavor"		""
