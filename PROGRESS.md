@@ -1,14 +1,14 @@
 # Overview
 | Language | basemodui | closecaption | gameui | reactivedrop | items | statsweb | Strings | Files |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | ✔️ | 21 | ✔️ | 9 | ✔️ | ✔️ |
+| [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 4 | ✔️ | ✔️ |
 | [Traditional Chinese](#tchinese-繁體中文) | ✔️ | ✔️ | ✔️ | 132 | 27 | 9 | 2 | 126 |
 | [Czech](#czech-čeština) | ✔️ | ✔️ | ✔️ | 3801 | 313 | 240 | 974 | 146 |
 | [Danish](#non-curated-languages) | 57 | 231 | 43 | 3950 | 313 | 240 | 712 | 147 |
 | [Dutch](#non-curated-languages) | 28 | 2004 | 43 | 3419 | 313 | 240 | 642 | 146 |
 | [Finnish](#non-curated-languages) | ✔️ | 2004 | 37 | 3260 | 240 | 180 | 634 | 145 |
 | [French](#french-français) | ✔️ | 67 | ✔️ | 2564 | 312 | 9 | 367 | 112 |
-| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | 21 | ✔️ | 9 | ✔️ | ✔️ |
+| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | 4 | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Greek](#greek-ελληνικά) | 1 | 2004 | 38 | 4929 | 316 | 245 | 524 | 142 |
 | [Hungarian](#non-curated-languages) | 56 | 138 | 43 | 3419 | 313 | 240 | 977 | 147 |
 | [Indonesian](#indonesian-indonesia) | 575 | 2004 | 635 | 4385 | 1 | 9 | 840 | 124 |
@@ -44,8 +44,7 @@
 
 ### Strings
 
-- [statsweb_schinese.vdf](community/stats_website/statsweb_schinese.vdf) has 9 untranslated strings.
-- [reactivedrop_schinese.txt](resource/reactivedrop_schinese.txt) has 21 untranslated strings.
+- [statsweb_schinese.vdf](community/stats_website/statsweb_schinese.vdf) has 4 untranslated strings.
 
 </details>
 
@@ -528,8 +527,7 @@
 
 ### Strings
 
-- [statsweb_german.vdf](community/stats_website/statsweb_german.vdf) has 9 untranslated strings.
-- [reactivedrop_german.txt](resource/reactivedrop_german.txt) has 21 untranslated strings.
+- [reactivedrop_german.txt](resource/reactivedrop_german.txt) has 4 untranslated strings.
 
 </details>
 
