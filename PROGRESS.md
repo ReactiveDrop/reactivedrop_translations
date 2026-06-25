@@ -20,7 +20,7 @@
 | [European Portuguese](#portuguese-português-europeu) | 5 | 180 | 33 | 2509 | 293 | 61 | 638 | 142 |
 | [Brazilian Portuguese](#brazilian-português) | 1 | ✔️ | ✔️ | 1034 | 55 | 32 | 6 | 3 |
 | [Romanian](#non-curated-languages) | 56 | 1996 | 49 | 4130 | 313 | 240 | 969 | 147 |
-| [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | 21 | ✔️ | 9 | ✔️ | ✔️ |
+| [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | 4 | ✔️ | ✔️ | ✔️ | ✔️ |
 | [European Spanish](#spanish-español-de-españa) | ✔️ | 2004 | ✔️ | 2063 | 30 | 10 | 5 | 126 |
 | [Latin American Spanish](#latam-español-latinoamericano) | 1 | 2004 | ✔️ | 4470 | 61 | 33 | 209 | 144 |
 | [Swedish](#swedish-svenska) | ✔️ | ✔️ | ✔️ | 51 | ✔️ | 2 | ✔️ | 71 |
@@ -1264,8 +1264,7 @@
 
 ### Strings
 
-- [statsweb_russian.vdf](community/stats_website/statsweb_russian.vdf) has 9 untranslated strings.
-- [reactivedrop_russian.txt](resource/reactivedrop_russian.txt) has 21 untranslated strings.
+- [reactivedrop_russian.txt](resource/reactivedrop_russian.txt) has 4 untranslated strings.
 
 </details>
 
