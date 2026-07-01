@@ -23,7 +23,7 @@
 "item_display_type_donation_medal"		"Δωρητής"
 "[english]item_display_type_novelty_medal_uncommon"		"Souvenir"
 "item_display_type_novelty_medal_uncommon"		"Σουβενίρ"
-		// accessory that can be permanently attached to a weapon, equipment, or suit to track specific stats
+// accessory that can be permanently attached to a weapon, equipment, or suit to track specific stats
 "[english]item_display_type_strange_device"		"Strange Device"
 "item_display_type_strange_device"		"Παράξενη Συσκευή"
 
@@ -31,17 +31,17 @@
 "item_strange_medal_disclaimer"		"Τα στατιστικά ενημερώνονται μόνο όταν έχετε εξοπλιστεί με αυτό το αντικείμενο."
 "[english]item_donation_medal_disclaimer"		"Proceeds from this donation go to a contributor to Alien Swarm: Reactive Drop. Donations are not required to access any content, and do not affect gameplay."
 "item_donation_medal_disclaimer"		"Τα έσοδα από αυτή τη δωρεά πηγαίνουν σε συνεργάτη του Alien Swarm: Reactive Drop. Οι δωρεές δεν χρειάζονται για την πρόσβαση περιεχομένου, και δεν επηρεάζουν το παιχνίδι."
-		// "Donated X times." is only shown if X is at least 2. Donations are $0.99 each in USD, but other currencies have different prices depending on that region's currency buying power. For simplicity, we just count number of donations and don't try to figure out how much money someone gave.
+// "Donated X times." is only shown if X is at least 2. Donations are $0.99 each in USD, but other currencies have different prices depending on that region's currency buying power. For simplicity, we just count number of donations and don't try to figure out how much money someone gave.
 "[english]item_donation_medal_multiple"		"Donated %m_unQuantity% times."
 "item_donation_medal_multiple"		"Έχετε δωρήσει %m_unQuantity% φορές."
-		// Shown for any number of items in the stack.
+// Shown for any number of items in the stack.
 "[english]item_crafting_material_multiple"		"Quantity: %m_unQuantity%"
 "item_crafting_material_multiple"		"Ποσότητα: %m_unQuantity%"
-		// The stacked medal items can only be 2 or more medals.
+// The stacked medal items can only be 2 or more medals.
 "[english]item_tournament_medal_multiple"		"There are %m_unQuantity% medals in the stack."
 "item_tournament_medal_multiple"		"Υπάρχουν %m_unQuantity% μετάλλια σε στοίβα."
 
-		// as in "Style: Orange" for items that have selectable styles
+// as in "Style: Orange" for items that have selectable styles
 "[english]item_style_prefix"		"Style"
 "item_style_prefix"		"Στυλ"
 "[english]item_style_tournament_participant"		"Participant"
@@ -113,7 +113,7 @@
 "item_tournament_medal_hoiaf_elite_stackable_description"		"Μία στοίβα από μετάλλια που απονεμήθηκε σε κάποιον/α που τερμάτισε σεζόν του Heroes of the Interstellar Armed Forces στους Τοπ 100. Τα νούμερα έχουν σβηστεί."
 "[english]item_tournament_medal_hoiaf_top20_stackable_description"		"A stack of medals awarded to someone who finished seasons of Heroes of the Interstellar Armed Forces in the top 20. The numbers have been filed off."
 "item_tournament_medal_hoiaf_top20_stackable_description"		"Μία στοίβα από μετάλλια που απονεμήθηκε σε κάποιον/α που τερμάτισε σεζόν του Heroes of the Interstellar Armed Forces στους Τοπ 20. Τα νούμερα έχουν σβηστεί."
-		// Stats are only shown (and stored) on non-stackable tournament medals.
+// Stats are only shown (and stored) on non-stackable tournament medals.
 "[english]item_tournament_medal_hoiaf_summary"		"Finished Season %season% in rank #%rank% with a score of %score%."
 "item_tournament_medal_hoiaf_summary"		"Τερμάτισε τη Σεζόν %season% στη βαθμίδα #%rank% με σκορ %score%."
 "[english]item_tournament_medal_hoiaf_stat_season"		"Season %season%"
@@ -164,18 +164,18 @@
 "[english]item_community_medal_streamer_description"		"Awarded by Reactive Drop Team for creating video content about Alien Swarm: Reactive Drop."
 "item_community_medal_streamer_description"		"Η Ομάδα Reactive Drop το απονέμει σε όσους/ες έχουν δημιουργήσει βίντεο για το Alien Swarm: Reactive Drop."
 
-		// This medal's name is a pun on the Alien Swarm achievement 'Hat Trick', which awarded a TF2 hat for completing two missions in multiplayer.
+// This medal's name is a pun on the Alien Swarm achievement 'Hat Trick', which awarded a TF2 hat for completing two missions in multiplayer.
 "[english]item_novelty_medal_reverse_hat_trick_name"		"Trick Hat"
 "item_novelty_medal_reverse_hat_trick_name"		"Καπέλο Κόλπου"
 "[english]item_novelty_medal_reverse_hat_trick_description"		"The trick is, this isn't a hat or a medal. It's a commemorative sticker."
 "item_novelty_medal_reverse_hat_trick_description"		"Το κόλπο είναι… ότι δεν είναι ούτε καπέλο, ούτε μετάλλιο: Αποτελεί αναμνηστικό αυτοκόλλητο."
 "[english]item_novelty_medal_reverse_hat_trick_acquisition"		"Complete the Ready For Duty achievement in Team Fortress 2 to unlock."
 "item_novelty_medal_reverse_hat_trick_acquisition"		"Πάρτε το επίτευγμα Ready For Duty από το Team Fortress 2 για να το ξεκλειδώσετε."
-		// It's a sticker, but the item is tagged as "Medal" and it goes in the medal slot.
+// It's a sticker, but the item is tagged as "Medal" and it goes in the medal slot.
 "[english]item_novelty_medal_reverse_hat_trick_display_type"		"Medal…?"
 "item_novelty_medal_reverse_hat_trick_display_type"		"Μετάλλιο…;"
 
-		// This medal's name is a pun about needing to go to the toilet very badly.
+// This medal's name is a pun about needing to go to the toilet very badly.
 "[english]item_novelty_medal_flush_toilet_name"		"Priority Number One"
 "item_novelty_medal_flush_toilet_name"		"Νούμερο Ένα Προτεραιότητα"
 "[english]item_novelty_medal_flush_toilet_description"		"While infested and on fire, found the time to flush a toilet."
@@ -183,11 +183,11 @@
 "[english]item_novelty_medal_flush_toilet_display_type"		"Medal…?"
 "item_novelty_medal_flush_toilet_display_type"		"Μετάλλιο…;"
 
-		// (to the tune of the titular lyric of I Saw Mommy Kissing Santa Claus)
-		// (this isn't a translator note, it's just my headcanon about some words I typed)
+// (to the tune of the titular lyric of I Saw Mommy Kissing Santa Claus)
+// (this isn't a translator note, it's just my headcanon about some words I typed)
 "[english]item_novelty_medal_anacrusis_name"		"I met Barry on the Isolode"
 "item_novelty_medal_anacrusis_name"		"Συνάντησα το Barry στο Isolode"
-		// these are puns. good luck!
+// these are puns. good luck!
 "[english]item_novelty_medal_anacrusis_description"		"It was a [i]Barry[/i] good time. Still [i]barrel[/i]-y know him, though…"
 "item_novelty_medal_anacrusis_description"		"Περάσαμε [i]Barry[/i] ωραία. Ακόμα δεν τον [i]barry[/i]ξέρουμε, όμως…"
 "[english]item_novelty_medal_anacrusis_acquisition"		"Complete the Barry Nice to Meet You achievement in The Anacrusis to unlock."
@@ -219,7 +219,7 @@
 "item_achievement_medal_oe_adanaxis_name"		"Βετεράνος Adanaxis"
 "[english]item_achievement_medal_oe_reduction_name"		"Reduction Veteran"
 "item_achievement_medal_oe_reduction_name"		"Βετεράνος Reduction"
-		// Outstanding Execution is an achievement name.
+// Outstanding Execution is an achievement name.
 "[english]item_achievement_medal_oe_jacob_description"		"Awarded to commanders who demonstrated Outstanding Execution in the Jacob's Rest campaign."
 "item_achievement_medal_oe_jacob_description"		"Απονεμήθηκε σε διοικητές που επέδειξαν Outstanding Execution στην εκστρατεία Jacob's Rest."
 "[english]item_achievement_medal_oe_area9800_description"		"Awarded to commanders who demonstrated Outstanding Execution in the Area 9800 campaign."
@@ -263,7 +263,7 @@
 "item_achievement_medal_infection_deathmatch_stat_survive"		"Γύροι που επιβιώσατε"
 "[english]item_achievement_medal_infection_deathmatch_stat_tags"		"Zombie Infections Spread"
 "item_achievement_medal_infection_deathmatch_stat_tags"		"Μολύνσεις Ζόμπι που διαδόσατε"
-		// Kills by human players while in "last stand" mode, which can be activated when there are few human players remaining.
+// Kills by human players while in "last stand" mode, which can be activated when there are few human players remaining.
 "[english]item_achievement_medal_infection_deathmatch_stat_laststand"		"Last Stand Kills"
 "item_achievement_medal_infection_deathmatch_stat_laststand"		"Σκοτωμοί Last Stand"
 
@@ -275,7 +275,7 @@
 "item_event_medal_replayabilityfest2024_name"		"Steam Endless Replayability Fest 2024 "
 "[english]item_event_medal_replayabilityfest2024_description"		"Fought the Swarm during Steam Endless Replayability Fest 2024."
 "item_event_medal_replayabilityfest2024_description"		"Πολέμησε το Σμήνος στο Steam Endless Replayability Fest 2024."
-		// we're not eligible for the fest, so this medal is an unofficial participation trophy. ouch.
+// we're not eligible for the fest, so this medal is an unofficial participation trophy. ouch.
 "[english]item_event_medal_replayabilityfest2024_flavor"		"We didn't make the cut, but we still had fun."
 "item_event_medal_replayabilityfest2024_flavor"		"Δεν μας πέρασαν, αλλά περάσαμε καλά."
 "[english]item_event_medal_pvpfest2026_name"		"Steam PvP Fest 2026"
@@ -304,7 +304,7 @@
 "item_unique_medal_ben_lubar_name"		"Ben Lubar "
 "[english]item_unique_medal_ben_lubar_description"		"Ben Lubar is very sorry about all of this."
 "item_unique_medal_ben_lubar_description"		"Ο Ben Lubar σας ζητάει συγγνώμη για όλα αυτά."
-		// it's a cupcake that's shaped like a cat
+// it's a cupcake that's shaped like a cat
 "[english]item_unique_medal_ben_lubar_display_type"		"catcake"
 "item_unique_medal_ben_lubar_display_type"		"γατοκέικ"
 "[english]item_unique_medal_mapping_2023_name"		"The Gauntlet: Arctic (#BossFight2023 Winner)"
@@ -316,12 +316,12 @@
 "[english]item_unique_medal_mapping_2024_description"		"This medal commemorates Downed Station, the winner of the 2024 mapping competition."
 "item_unique_medal_mapping_2024_description"		"Αυτό το μετάλλιο τιμάει τον Downed Station, τον νικητή του διαγωνισμού πιστών του 2024."
 
-		// Contains one Strange (stat-tracking) version of a weapon the player has unlocked, of the player's choice.
+// Contains one Strange (stat-tracking) version of a weapon the player has unlocked, of the player's choice.
 "[english]item_container_beta_tester_strange_weapon_name"		"Beta Tester's Strange Weapon"
 "item_container_beta_tester_strange_weapon_name"		"Παράξενο Όπλο του Δοκιμαστή Beta"
 "[english]item_container_beta_tester_strange_weapon_description"		"A strange box that contains a weapon. What weapon is it? The weight in this box appears to shift as you consider the possibilities."
 "item_container_beta_tester_strange_weapon_description"		"Ένα περίεργο κουτί που περιέχει ένα όπλο. Τι όπλο είναι; Το βάρος του κουτιού φαίνεται να μεταβάλλεται καθώς συλλογίζεσαι τις πιθανότητας."
-		// Contains one Strange Device (stat-tracking module) of the player's choice.
+// Contains one Strange Device (stat-tracking module) of the player's choice.
 "[english]item_container_beta_tester_strange_device_name"		"Beta Tester's Strange Device"
 "item_container_beta_tester_strange_device_name"		"Παράξενη Συσκευή του Δοκιμαστή Beta"
 "[english]item_container_beta_tester_strange_device_description"		"A strange assortment of circuit boards that don't seem like they should be compatible. The device does not appear to ever have been powered on."
@@ -362,7 +362,7 @@
 "item_crafting_material_loose_wires_description"		"Μία στοίβα από άδετα μονωμένα καλώδια πολλών μηκών. Μάλλον θα είναι χρήσιμα για κατασκευές ή επισκευές."
 "[english]item_crafting_material_carbon_name"		"Carbon"
 "item_crafting_material_carbon_name"		"Άνθρακας"
-		// narrator voice: it was not interesting
+// narrator voice: it was not interesting
 "[english]item_crafting_material_carbon_description"		"A pile of pure elemental carbon. Interesting."
 "item_crafting_material_carbon_description"		"Μία στοίβα από καθαρό στοιχειακό άνθρακα. Ενδιαφέρον."
 
@@ -428,22 +428,22 @@
 "item_crafting_material_isotopes_name"		"Ισότοπα"
 "[english]item_crafting_material_isotopes_description"		"Radioactive material, found while on a mission."
 "item_crafting_material_isotopes_description"		"Ραδιενεργό Υλικό που βρέθηκε σε αποστολή."
-		// This material is a reference to the identically-named material in Warframe.
+// This material is a reference to the identically-named material in Warframe.
 "[english]item_crafting_material_cryotic_name"		"Cryotic"
 "item_crafting_material_cryotic_name"		"Κρυοτικά"
 "[english]item_crafting_material_cryotic_description"		"A hazardous material that freezes on contact, found while on a mission."
 "item_crafting_material_cryotic_description"		"Ένα επικίνδυνο υλικό που παγώνει με την επαφη που βρέθηκε σε αποστολή."
-		// The item is a canister of the noble gas argon. When translating, the exact amount of argon is not important (the container is not a cube and is larger than a cubic foot in volume). Using cubic feet to refer to a gas stored in a round container is intentionally awkward.
+// The item is a canister of the noble gas argon. When translating, the exact amount of argon is not important (the container is not a cube and is larger than a cubic foot in volume). Using cubic feet to refer to a gas stored in a round container is intentionally awkward.
 "[english]item_crafting_material_argon_canister_name"		"Cubic Foot of Argon"
 "item_crafting_material_argon_canister_name"		"Αργό ποσότητας ενός κυβικού ποδιού"
 "[english]item_crafting_material_argon_canister_description"		"An inert gas with many industrial applications, found while on a mission."
 "item_crafting_material_argon_canister_description"		"Ένα ευγενές αέριο με πολλές εργοστασιακές εφαρμογές που βρέθηκε σε αποστολή."
-		// This is a riff on "Infinite Improbability Drive" from A Hitchhiker's Guide to the Galaxy.
-		// Except instead of a spaceship engine that allows teleportation around the universe, this is simply a data disk containing some pre-generated random numbers.
-		// This item can only be obtained via TileGen maps, which (as of 2024) are not yet officially playable.
+// This is a riff on "Infinite Improbability Drive" from A Hitchhiker's Guide to the Galaxy.
+// Except instead of a spaceship engine that allows teleportation around the universe, this is simply a data disk containing some pre-generated random numbers.
+// This item can only be obtained via TileGen maps, which (as of 2024) are not yet officially playable.
 "[english]item_crafting_material_probability_drive_name"		"Finite Probability Drive"
 "item_crafting_material_probability_drive_name"		"Finite Probability Drive "
-		// This is the name of a real book, published in 1955. It contains 400 pages, each with 50 lines of 50 digits.
+// This is the name of a real book, published in 1955. It contains 400 pages, each with 50 lines of 50 digits.
 "[english]item_crafting_material_probability_drive_description"		"A disk containing an excerpt from [i]A Million Random Digits with 100,000 Normal Deviates[/i], found while on a mission."
 "item_crafting_material_probability_drive_description"		"Ένας δίσκος που περιέχει ένα απόσπασμα από το [i]A Million Random Digits with 100,000 Normal Deviates[/i]. Μπορεί να βρεθεί σε μία συγκεκριμένη εκστρατεία."
 
@@ -457,9 +457,9 @@
 "item_crafting_material_refined_carbon_description"		"Νανοσωλήνες άνθρακα ταξινομημένες σε υπερδυνατές πλάκες."
 
 
-		// Notifications are hidden items that cause a notification to appear in the game's main menu. The item records whether it has been seen by the player, and dismissing the notification deletes the item. Notifications will not appear for players who have opted out of seeing them.
-		//
-		// A large variety of crafting materials have appeared (once per week).
+// Notifications are hidden items that cause a notification to appear in the game's main menu. The item records whether it has been seen by the player, and dismissing the notification deletes the item. Notifications will not appear for players who have opted out of seeing them.
+//
+// A large variety of crafting materials have appeared (once per week).
 "[english]notification_crafting_items_appeared_weekly_name"		"Large quantity of resources located."
 "notification_crafting_items_appeared_weekly_name"		"Βρέθηκε Μεγάλη ποσότητα πόρων."
 "[english]notification_crafting_items_appeared_weekly_description"		"Check the mission list for possible locations of crafting materials."
@@ -566,12 +566,12 @@
 "item_suit_bastille_name"		"Στολή του Bastille"
 "[english]item_suit_vegas_name"		"Vegas's Suit"
 "item_suit_vegas_name"		"Στολή του Vegas"
-		// one can only hope
+// one can only hope
 "[english]item_suit_flynn_name"		"Flynn's Suit"
 "item_suit_flynn_name"		"Στολή του Flynn"
 
-		// If you would like to be included in this system and you have contributed to Alien Swarm: Reactive Drop's development,
-		// follow the instructions at https://developer.reactivedrop.com/donation-items.html
+// If you would like to be included in this system and you have contributed to Alien Swarm: Reactive Drop's development,
+// follow the instructions at https://developer.reactivedrop.com/donation-items.html
 
 "[english]item_donation_tft_name"		"Donor: Tears for Tarnor"
 "item_donation_tft_name"		"Δωρητής/ρια: Tears for Tarnor"
