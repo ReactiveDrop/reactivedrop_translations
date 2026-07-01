@@ -497,7 +497,7 @@
 // sentry, equipment, satchels
 "[english]item_strange_device_deployments_name"		"Deployments"
 "item_strange_device_deployments_name"		"Αναπτύξεις"
-// //  minigun
+// minigun
 "[english]item_strange_device_time_spun_up_name"		"Time Spun Up"
 "item_strange_device_time_spun_up_name"		"Χρόνος διάρκειας Περιστροφής"
 // marksman rifle

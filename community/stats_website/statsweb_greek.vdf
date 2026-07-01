@@ -101,7 +101,7 @@
 "StatsWeb_ProfileNoStatsPlayedButNoStatsBefore"		"Δεν έχουν καταγραφεί στατιστικά για τον"
 "[english]StatsWeb_ProfileNoStatsPlayedButNoStatsAfter"		"; however, "
 "StatsWeb_ProfileNoStatsPlayedButNoStatsAfter"		"; Ωστόσο, "
-		// previous message continues into this one
+// previous message continues into this one
 "[english]StatsWeb_ProfileNoStatsPlaytimeAnomaly"		"Steam reports they have played the game for %d minutes."
 "StatsWeb_ProfileNoStatsPlaytimeAnomaly"		"Το Steam καταγράφει πως έχουν παίξει το παιχνίδι για %d λεπτά."
 "[english]StatsWeb_ProfileNavStats"		"Stats"
@@ -204,7 +204,7 @@
 "StatsWeb_GlobalStatsDesc"		"Παγκόσμια στατιστικά αποστολών του Alien Swarm: Reactive Drop."
 "[english]StatsWeb_GlobalWeaponStatsDesc"		"A list of all-time global statistics for every weapon available in Alien Swarm: Reactive Drop."
 "StatsWeb_GlobalWeaponStatsDesc"		"Μία λίστα των παγκόσμιων όλων των εποχών στατιστικών για όλα τα όπλα διαθέσιμα στο Alien Swarm: Reactive Drop."
-		// format is strftime, see https://github.com/KarpelesLab/strftime#pattern-support
+// format is strftime, see https://github.com/KarpelesLab/strftime#pattern-support
 "[english]StatsWeb_DateFormat"		"%e %B %Y"
 "StatsWeb_DateFormat"		"%e %B %Y"
 "[english]StatsWeb_StartedMinutesAgo"		"Started %d minutes ago"
@@ -339,7 +339,7 @@
 "StatsWeb_Column_MissionsFailed"		"Αποτυχημένες Αποστολές"
 "[english]StatsWeb_Column_SuccessRate"		"Success Rate"
 "StatsWeb_Column_SuccessRate"		"Ρυθμός Επιτυχίας"
-		// a mapper-defined score; for example, in endless missions
+// a mapper-defined score; for example, in endless missions
 "[english]StatsWeb_Column_MapperScore"		"Mission Score"
 "StatsWeb_Column_MapperScore"		"Σκορ Αποστολής"
 "[english]StatsWeb_PreviousPage"		"Previous"
@@ -422,74 +422,74 @@
 "StatsWeb_Report_Medals"		"Αναφορά προβλήματος με τα μετάλλια."
 "[english]StatsWeb_Report_Vandalism"		"Report incorrect stats."
 "StatsWeb_Report_Vandalism"		"Αναφορά εσφαλμένων στατιστικών."
-		// %[1]s is the guide name. %[2]s is the author name.
+// %[1]s is the guide name. %[2]s is the author name.
 "[english]StatsWeb_IntegratedGuideTitle_Loadouts"		"%[1]s - Shared Loadout by %[2]s"
 "StatsWeb_IntegratedGuideTitle_Loadouts"		"%[1]s - Shared Loadout από %[2]s"
 "[english]StatsWeb_IntegratedGuideTitle_SpeedrunGhost"		"%[1]s - Speedrun Ghost by %[2]s"
 "StatsWeb_IntegratedGuideTitle_SpeedrunGhost"		"%[1]s - Speedrun Ghost από %[2]s"
-	// %[1]s is the marine's given name, %[2]s the surname, %[3]s the nickname. BBCode allowed.
+// %[1]s is the marine's given name, %[2]s the surname, %[3]s the nickname. BBCode allowed.
 "[english]StatsWeb_Marine_Nickname"		"%[1]s “[b]%[3]s[/b]” %[2]s"
 "StatsWeb_Marine_Nickname"		"%[1]s “[b]%[3]s[/b]” %[2]s"
 "[english]StatsWeb_Marine_Surname"		"%[1]s [b]%[2]s[/b]"
 "StatsWeb_Marine_Surname"		"%[1]s [b]%[2]s[/b]"
 
-		// browser page title for https://link.reactivedrop.com
+// browser page title for https://link.reactivedrop.com
 "[english]LinkWeb_PageTitle"		"AS:RD Account Linking"
 "LinkWeb_PageTitle"		"Σύνδεση Λογαριασμού AS:RD"
-		// shown in embeds
+// shown in embeds
 "[english]LinkWeb_SiteName"		"Alien Swarm: Reactive Drop Link"
 "LinkWeb_SiteName"		"Σύνδεσμος Alien Swarm: Reactive Drop"
-		// shown in search engine results and embeds
+// shown in search engine results and embeds
 "[english]LinkWeb_SiteDescription"		"Connect your Alien Swarm: Reactive Drop account to other services to earn rewards."
 "LinkWeb_SiteDescription"		"Συνδέστε τον λογαριασμό σας του Alien Swarm: Reactive Drop σε άλλες υπηρεσίες για να κερδίσετε επιβραβεύσεις."
-		// shown at the top of the page when the player is logged in, before and after the player's name
-		// translate these two strings together
+// shown at the top of the page when the player is logged in, before and after the player's name
+// translate these two strings together
 "[english]LinkWeb_LoggedInBefore"		"Logged in as "
 "LinkWeb_LoggedInBefore"		"Συνδεδεμένος ως "
 "[english]LinkWeb_LoggedInAfter"		""
 "LinkWeb_LoggedInAfter"		""
-		// button text shown next to player name and the above two strings
+// button text shown next to player name and the above two strings
 "[english]LinkWeb_LogOutButton"		"Log out"
 "LinkWeb_LogOutButton"		"Αποσύνδεση"
-		// button text shown above the Steam logo when the player has not logged in yet
-		// (sorry if this makes the wording awkward in your language)
+// button text shown above the Steam logo when the player has not logged in yet
+// (sorry if this makes the wording awkward in your language)
 "[english]LinkWeb_LogInWithSteam"		"Log in with"
 "LinkWeb_LogInWithSteam"		"Σύνδεση με"
-		// legal text at the bottom of the page
+// legal text at the bottom of the page
 "[english]LinkWeb_Disclaimer"		"Alien Swarm: Reactive Drop is a fan continuation of Alien Swarm, developed by a community of volunteers. Account Linking is provided on a best-effort basis. Please contact Reactive Drop Team through the feedback site if anything goes wrong."
 "LinkWeb_Disclaimer"		"Το Alien Swarm: Reactive Drop είναι η φαν επέκταση του Alien Swarm, ανεπτυγμένη από μία κοινότητα εθελοντών. Η Σύνδεση Λογαριασμών παρέχεται σε καλύτερης προσπάθειας βάση. Παρακαλούμε να επικοινωνήσετε με την ομάδα Reactive Drop μέσω της ιστοσελίδας ανατροφοδότησης αν κάτι πάει στραβά."
-		// this should match the text on https://partner.steamgames.com/doc/marketing/branding/attribution for your language
-		// we're skipping the initial "copyright valve corporation" to avoid confusion about whether valve is affiliated with this site (they aren't) and also to avoid having to update the year
+// this should match the text on https://partner.steamgames.com/doc/marketing/branding/attribution for your language
+// we're skipping the initial "copyright valve corporation" to avoid confusion about whether valve is affiliated with this site (they aren't) and also to avoid having to update the year
 "[english]LinkWeb_DisclaimerSteam"		"Steam and the Steam logo are trademarks and/or registered trademarks of Valve Corporation in the U.S. and/or other countries."
 "LinkWeb_DisclaimerSteam"		"Το Steam και το λογότυπο Steam είναι εμπορικά σήματα και/ή καταχωρισμένα σήματα της Valve Corporation στις ΗΠΑ και/ή άλλες χώρες."
-		// this should match the text on https://www.twitch.tv/p/en/legal/trademark/ for your language
+// this should match the text on https://www.twitch.tv/p/en/legal/trademark/ for your language
 "[english]LinkWeb_DisclaimerTwitch"		"TWITCH, the TWITCH Logo, the Glitch Logo, and/or TWITCHTV are trademarks of Twitch Interactive, Inc. or its affiliates."
 "LinkWeb_DisclaimerTwitch"		"Το TWITCH, το λογότυπο TWITCH, το λογότυπο Glitch, και/ή το TWITCHTV είναι εμπορικά σήματα του Twitch Interactive, Inc. ή των συνεργατών του."
-		// button text
+// button text
 "[english]LinkWeb_LinkTwitch"		"Link Twitch Account"
 "LinkWeb_LinkTwitch"		"Σύνδεση Λογαριασμού Twitch"
 "[english]LinkWeb_UnlinkTwitch"		"Unlink Twitch Account"
 "LinkWeb_UnlinkTwitch"		"Αποσύνδεση Λογαριασμού Twitch"
-		// text shown in the Twitch section of the page. one of these is always shown, and the "LastModified" and "LinkedAccount" may be shown on following lines if they are applicable.
-		// try to make the "invalid" and "conflict" lines noticeably different to the others at a glance.
+// text shown in the Twitch section of the page. one of these is always shown, and the "LastModified" and "LinkedAccount" may be shown on following lines if they are applicable.
+// try to make the "invalid" and "conflict" lines noticeably different to the others at a glance.
 "[english]LinkWeb_Twitch_status_initial"		"Never connected to Twitch."
 "LinkWeb_Twitch_status_initial"		"Ποτέ δεν έχετε συνδεθεί στο Twitch."
-		// this one means the link is working properly
+// this one means the link is working properly
 "[english]LinkWeb_Twitch_status_created"		"Account linked."
 "LinkWeb_Twitch_status_created"		"Ο λογαριασμός συνδέθηκε."
-		// the player unlinked their account through the link website
+// the player unlinked their account through the link website
 "[english]LinkWeb_Twitch_status_removed"		"Unlinked."
 "LinkWeb_Twitch_status_removed"		"Χωρίς σύνδεση."
-		// the token used to link the account was invalid
+// the token used to link the account was invalid
 "[english]LinkWeb_Twitch_status_invalid"		"Account link removed. Connection revoked on the twitch.tv website or an error occurred."
 "LinkWeb_Twitch_status_invalid"		"Αφαιρέθηκε ο σύνδεσμος του λογαριασμού. Η σύνδεση ανακλήθηκε από το twitch.tv ή προέκυψε άλλο σφάλμα."
-		// another Steam account is linked to the Twitch account
+// another Steam account is linked to the Twitch account
 "[english]LinkWeb_Twitch_status_conflict"		"Account link removed. Twitch account was connected to a different Steam account."
 "LinkWeb_Twitch_status_conflict"		"Αφαιρέθηκε ο σύνδεσμος του λογαριασμού. Ο λογαριασμός Twitch ήταν συνδεδεμένος σε διαφορτικό λογαριασμό Steam."
-		// followed by timestamp of last change to account link status
+// followed by timestamp of last change to account link status
 "[english]LinkWeb_LastModified"		"Last changed:"
 "LinkWeb_LastModified"		"Τελευταία αλλαγή:"
-		// account username (either connected or unexpectedly disconnected) follows this text
+// account username (either connected or unexpectedly disconnected) follows this text
 "[english]LinkWeb_LinkedAccount"		"Account name:"
 "LinkWeb_LinkedAccount"		"Όνομα Λογαριασμού:"
 
@@ -512,7 +512,7 @@
 "[english]rd_event_steam_pvp_fest_2026"		"Steam PvP Fest 2026!"
 "rd_event_steam_pvp_fest_2026"		"Steam PVP Fest 2026!"
 
-		// this pun probably doesn't work in other languages; sorry!
+// this pun probably doesn't work in other languages; sorry!
 "[english]rd_crafting_research_project_beta_wires_title"		"Loose and Found Wires"
 "rd_crafting_research_project_beta_wires_title"		"Άδετα Καλώδια που βρέθηκαν"
 "[english]rd_crafting_research_project_beta_wires_flavor"		"Tired of rummaging through a bird's nest of wires? There's got to be a better way!"
@@ -636,7 +636,7 @@
 "rd_crafting_research_project_strange_weapon_minigun_flavor"		""
 "[english]rd_crafting_research_project_strange_weapon_flashlight_title"		"Everybody has a Tactical Flashlight"
 "rd_crafting_research_project_strange_weapon_flashlight_title"		"Όλοι έχουν από έναν Φακό"
-		// direct quote from https://www.youtube.com/watch?v=urMHvdLz0Jg&t=246s
+// direct quote from https://www.youtube.com/watch?v=urMHvdLz0Jg&t=246s
 "[english]rd_crafting_research_project_strange_weapon_flashlight_flavor"		"Stop right this instant! What do you think you're doing?! You can't say everyone's got a tactical flashlight when everyone does NOT have a tactical flashlight! We're going to get nasty letters saying, \"Where's MY tactical flashlight?\" \"Why don't I have a tactical flashlight?\" And are you prepared to deal with that? I don't think so."
 "rd_crafting_research_project_strange_weapon_flashlight_flavor"		"Σταμάτας τώρα! Τι νομίζεις ότι κάνεις;! Δεν μπορείς να λες ότι όλοι κρατάνε φακούς όταν ΚΑΝΕΙΣ δεν κρατάει φακούς! Θα μας στείλουν ακραία γράμματα που θα λένε, \"Πού είναι ο φακός ΜΟΥ;\" \"Γιατί δεν έχω φακό;\" και είσαι έτοιμος να διαχειριστείς κάτι τέτοιο; Δεν νομίζω..."
 "[english]rd_crafting_research_project_strange_weapon_sniper_rifle_title"		""
