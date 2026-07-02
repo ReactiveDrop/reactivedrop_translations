@@ -1,0 +1,22 @@
+"Credits"
+{
+// these keys must be in this order!
+"show_credits_logo"	"0"
+//"custom_logo"	"ExampleCustomLogo/example_custom_logo"
+"asw_credits_"	""
+"asw_credits_"	""
+"asw_credits_"	"Αποστολή 1, Train Station Catastrophe, του jhheight"
+"asw_credits_"	""
+"asw_credits_"	"Αποστολή 2, Rapture, του Sergei 'STALKER4732' Lavrinenco"
+"asw_credits_"	""
+"asw_credits_"	"Αποστολή 3, Bunker, του uradzimiru"
+"asw_credits_"	""
+"asw_credits_"	"Αποστολή 4, Offline Practice, της Valve"
+"asw_credits_"	""
+"asw_credits_"	"Αποστολή 5, Hostile Places, του Eclipse"
+"asw_credits_"	""
+"asw_credits_"	"Αποστολή 6, High Tension, του Eclipse"
+"asw_credits_"	""
+"asw_credits_"	"Αποστολή 7, Power Plant, του Arjen de Graaf"
+"asw_credits_"	""
+}
