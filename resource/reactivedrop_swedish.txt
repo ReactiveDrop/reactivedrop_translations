@@ -10508,19 +10508,19 @@
 "[english]rd_crafting_output_items"		"This blueprint will create:"
 "rd_crafting_output_items"		"Denna ritning kommer att tillverka:"
 
-		"[english]rd_crafting_confirm_title"		"Construct this blueprint?"
-		"rd_crafting_confirm_title"		"Construct this blueprint?"
-		"[english]rd_crafting_confirm_blueprint"		"Building \"%s1\" will consume the following resources:"
-		"rd_crafting_confirm_blueprint"		"Building \"%s1\" will consume the following resources:"
-		// %s1 is the quantity (a number)
-		// %s2 is the item name
-		// %s3 is the disambiguator (like "Season 42" on a HoIAF medal)
-		"[english]rd_crafting_confirm_ingredient"		"%s1× %s2"
-		"rd_crafting_confirm_ingredient"		"%s1× %s2"
-		"[english]rd_crafting_confirm_ingredient_disambiguator"		"%s1× %s2 (%s3)"
-		"rd_crafting_confirm_ingredient_disambiguator"		"%s1× %s2 (%s3)"
-		"[english]rd_crafting_confirm_ending"		"This process cannot be reversed."
-		"rd_crafting_confirm_ending"		"This process cannot be reversed."
+"[english]rd_crafting_confirm_title"		"Construct this blueprint?"
+"rd_crafting_confirm_title"		"Konstruera denna ritning?"
+"[english]rd_crafting_confirm_blueprint"		"Building \"%s1\" will consume the following resources:"
+"rd_crafting_confirm_blueprint"		"Att bygga \"%s1\" kommer att förbruka följande resurser:"
+// %s1 is the quantity (a number)
+// %s2 is the item name
+// %s3 is the disambiguator (like "Season 42" on a HoIAF medal)
+"[english]rd_crafting_confirm_ingredient"		"%s1× %s2"
+"rd_crafting_confirm_ingredient"		"%s1× %s2"
+"[english]rd_crafting_confirm_ingredient_disambiguator"		"%s1× %s2 (%s3)"
+"rd_crafting_confirm_ingredient_disambiguator"		"%s1× %s2 (%s3)"
+"[english]rd_crafting_confirm_ending"		"This process cannot be reversed."
+"rd_crafting_confirm_ending"		"De går inte att ångra denna process."
 
 "[english]rd_crafting_recipe_hoiaf_create_stack_participant"		"Stack HoIAF Participant medals"
 "rd_crafting_recipe_hoiaf_create_stack_participant"		"Stapla HoIAF Deltagarmedaljer"
@@ -10539,12 +10539,12 @@
 "[english]rd_crafting_recipe_hoiaf_stack_warning"		"This process will permanently remove the season number, score, and other statistics from the chosen medal. Your stats will remain visible on the seasonal leaderboards."
 "rd_crafting_recipe_hoiaf_stack_warning"		"Denna process tar permanent bort säsongsnummer, poäng och annan statistik från den valda medaljen. Din statistik kommer att förbli synlig på de säsongsbetonade topplistorna."
 
-		"[english]rd_crafting_recipe_refinement_wires"		"Sort Wires"
-		"rd_crafting_recipe_refinement_wires"		"Sort Wires"
+"[english]rd_crafting_recipe_refinement_wires"		"Sort Wires"
+"rd_crafting_recipe_refinement_wires"		"Sortera kablar"
 "[english]rd_crafting_recipe_refinement_wires_flavor"		""
 "rd_crafting_recipe_refinement_wires_flavor"		""
-		"[english]rd_crafting_recipe_refinement_carbon"		"Refine Carbon Fiber"
-		"rd_crafting_recipe_refinement_carbon"		"Refine Carbon Fiber"
+"[english]rd_crafting_recipe_refinement_carbon"		"Refine Carbon Fiber"
+"rd_crafting_recipe_refinement_carbon"		"Förfina kolfiber"
 "[english]rd_crafting_recipe_refinement_carbon_flavor"		""
 "rd_crafting_recipe_refinement_carbon_flavor"		""
 
