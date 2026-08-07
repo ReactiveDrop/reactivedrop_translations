@@ -3,13 +3,13 @@
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Traditional Chinese](#tchinese-繁體中文) | ✔️ | ✔️ | ✔️ | 139 | 27 | 9 | 2 | 126 |
-| [Czech](#czech-čeština) | ✔️ | ✔️ | ✔️ | 3808 | 313 | 240 | 974 | 146 |
+| [Czech](#czech-čeština) | ✔️ | ✔️ | ✔️ | 3664 | 313 | 240 | 974 | 146 |
 | [Danish](#non-curated-languages) | 57 | 231 | 43 | 3957 | 313 | 240 | 712 | 147 |
 | [Dutch](#non-curated-languages) | 28 | 2004 | 43 | 3426 | 313 | 240 | 642 | 146 |
 | [Finnish](#non-curated-languages) | ✔️ | 2004 | 37 | 3267 | 240 | 180 | 634 | 145 |
 | [French](#french-français) | ✔️ | 67 | ✔️ | 2571 | 312 | 9 | 367 | 112 |
 | [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
-| [Greek](#greek-ελληνικά) | ✔️ | 2004 | ✔️ | 4936 | ✔️ | ✔️ | 256 | 127 |
+| [Greek](#greek-ελληνικά) | ✔️ | 2004 | ✔️ | 4936 | ✔️ | ✔️ | ✔️ | 127 |
 | [Hungarian](#non-curated-languages) | 56 | 138 | 43 | 3426 | 313 | 240 | 977 | 147 |
 | [Indonesian](#indonesian-indonesia) | 387 | 2004 | 635 | 4392 | 1 | 9 | 840 | 124 |
 | [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
@@ -211,7 +211,7 @@
 - [misc/signage/signage_czech.vdf](misc/signage/signage_czech.vdf) has 70 untranslated strings.
 - [platform/servers/serverbrowser_czech.txt](platform/servers/serverbrowser_czech.txt) has 186 untranslated strings.
 - [platform/vgui_czech.txt](platform/vgui_czech.txt) has 184 untranslated strings.
-- [reactivedrop_czech.txt](resource/reactivedrop_czech.txt) has 3808 untranslated strings.
+- [reactivedrop_czech.txt](resource/reactivedrop_czech.txt) has 3664 untranslated strings.
 - [valve_czech.txt](resource/valve_czech.txt) has 266 untranslated strings.
 
 ### Steam Store and Community
@@ -535,8 +535,6 @@
 
 ### Strings
 
-- [misc/signage/signage_greek.vdf](misc/signage/signage_greek.vdf) has 70 untranslated strings.
-- [platform/servers/serverbrowser_greek.txt](platform/servers/serverbrowser_greek.txt) has 186 untranslated strings.
 - [closecaption_greek.txt](resource/closecaption_greek.txt) has 2004 untranslated strings.
 - [reactivedrop_greek.txt](resource/reactivedrop_greek.txt) has 4936 untranslated strings.
 
