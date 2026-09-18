@@ -226,7 +226,7 @@
 			"icon_url": "https://stats.reactivedrop.com/static/medals/trick_hat.png",
 			"name_color": "38F3AB",
 			"tags": "rarity:common;slot:medal",
-			"promo": "ach:TF_COMPLETE_TRAINING/440",
+			"promo": "ach:TF_COMPLETE_TRAINING/440;played:440/60",
 			"item_slot": "medal"
 		},
 		{
@@ -2999,7 +2999,7 @@
 			"icon_url": "https://stats.reactivedrop.com/static/medals/anacrusis.png",
 			"name_color": "5E98D9",
 			"tags": "rarity:uncommon;slot:medal",
-			"promo": "ach:ACHIEVEMENT_BARRY_MEET/1120480",
+			"promo": "ach:ACHIEVEMENT_BARRY_MEET/1120480;played:1120480/60",
 			"item_slot": "medal"
 		},
 		{
