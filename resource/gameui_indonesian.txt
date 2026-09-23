@@ -1,4 +1,4 @@
-"lang"
+﻿"lang"
 {
 "Language"		"indonesian"
 "Tokens"
@@ -968,7 +968,7 @@
 "[english]GAMEUI_PostCommentary_ModeLabelOff"		"COMMENTARY MODE IS: OFF"
 "GAMEUI_PostCommentary_ModeLabelOff"		"MODE KOMENTAR: NONAKTIF"
 "[english]GAMEUI_PostCommentary_options"		"(To turn commentary on or off, select \"options\" from the main menu.)"
-"GAMEUI_PostCommentary_options"		"(Untuk mengaktifkan atau menonaktifkan komentar, pilih "opsi" dari menu utama.)"
+"GAMEUI_PostCommentary_options"		"(Untuk mengaktifkan atau menonaktifkan komentar, pilih \"opsi\" dari menu utama.)"
 "[english]GAMEUI_Commentary_WhatIs"		"Commentary mode allows access to information nodes, containing audio commentary spoken by members of the Valve development team."
 "GAMEUI_Commentary_WhatIs"		"Mode komentar memberikan akses ke nodus informasi, yang berisi komentar audio oleh anggota tim pengembang Valve."
 "[english]GAMEUI_Commentary_HowToUse"		"To start or stop a commentary node, aim your crosshairs at any balloon icon and then press your USE key."
